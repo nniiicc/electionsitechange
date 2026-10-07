@@ -1,15 +1,66 @@
 [
-"https://amenforphilly.com/",
-"https://amenforphilly.com/endorsements",
-"https://amenforphilly.com/in-the-news",
-"https://amenforphilly.com/issues",
-"https://amenforphilly.com/meet-amen",
-"https://amenforphilly.com/volunteer",
-"https://facebook.com/AmenForPhilly",
-"https://instagram.com/amenforphilly",
-"https://n3w.d76.myftpupload.com/volunteer",
-"https://nbcphiladelphia.com/news/local/broke-in-philly/philly-lawmaker-pushing-to-make-prison-copay-suspension-permanent/2830809",
-"https://pahouse.com/RepAmen/InTheNews/NewsRelease?id=118872",
-"https://secure.actblue.com/donate/amen4philly",
-"https://twitter.com/AmenForPhilly"
+{
+"text": "ABOUT AMEN",
+"href": "https://amenforphilly.com/meet-amen/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/amen4philly"
+},
+{
+"text": "Donate here",
+"href": "https://secure.actblue.com/donate/amen4philly"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://amenforphilly.com/endorsements/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://amenforphilly.com/volunteer/"
+},
+{
+"text": "HOME",
+"href": "https://amenforphilly.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://amenforphilly.com/issues/"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://n3w.d76.myftpupload.com/volunteer/"
+},
+{
+"text": "MEDIA",
+"href": "https://amenforphilly.com/in-the-news/"
+},
+{
+"text": "[image: Amen Brown][image: Amen Brown][image: Amen Brown][image: Amen Brown]",
+"href": "https://amenforphilly.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/AmenForPhilly/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amenforphilly/"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://twitter.com/AmenForPhilly%20"
+},
+{
+"text": "citizensforamenbrown@gmail.com",
+"href": "mailto:citizensforamenbrown@gmail.com"
+},
+{
+"text": "getting the $5 co-pay for those incarcerated extended,",
+"href": "https://www.nbcphiladelphia.com/news/local/broke-in-philly/philly-lawmaker-pushing-to-make-prison-copay-suspension-permanent/2830809/"
+},
+{
+"text": "historic agreement to end the sale of ghost guns",
+"href": "https://www.pahouse.com/RepAmen/InTheNews/NewsRelease/?id=118872"
+}
 ]

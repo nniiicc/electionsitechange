@@ -1,14 +1,13 @@
-We report on the House taking up a lottery bill today and it failing an early procedural motion.
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News TV Interview – Capitol Journal We report on the House taking up a lottery bill today and it failing an early procedural motion.
 We also report on the Senate taking up the General Fund budget.
 And we’re joined by Rep.
-Jamie Kiel of Russellville, who will discuss the education budget being debated at a House committee public
-The Northwest Alabama Resource Conservation and Development (RC&D) Council recently gave $10,320.51 to Russellville High School in Franklin County.
+Jamie Kiel of Russellville, who will discuss the education budget being debated at a House committee public Continue Reading Northwest Alabama RC&D grant to improve technology in RHS classrooms The Northwest Alabama Resource Conservation and Development (RC&D) Council recently gave $10,320.51 to Russellville High School in Franklin County.
 Mr.
-Jason Goodwin, Principal, stated in his final report submitted to RC&D, that the money received from the agency were used to purchase
-on May 10, 2019 ByBrandon Moseley ShareTweetSubscribe The Alabama House of Representatives passed a bill Wednesday legalizing fantasy sports contests in Alabama, including daily fantasy games.
+Jason Goodwin, Principal, stated in his final report submitted to RC&D, that the money received from the agency were used to purchase Continue Reading Alabama House OKs fantasy sports legalization on May 10, 2019 ByBrandon Moseley ShareTweetSubscribe The Alabama House of Representatives passed a bill Wednesday legalizing fantasy sports contests in Alabama, including daily fantasy games.
 HB361 is sponsored by State Rep.
 Kyle South, R-Fayette.
 State Rep.
-Randall Shedd, R-Cullman, said
-By Caroline Beck Alabama Daily News May 5, 2019 MONTGOMERY — Expanding access to high-speed broadband internet has been one of the hallmark issues in the Alabama Legislature the last two years.
-Most all lawmakers agree the issue is a priority, but how exactly to go about it remains the
+Randall Shedd, R-Cullman, said Continue Reading Legislature advances broadband bill, funding By Caroline Beck Alabama Daily News May 5, 2019 MONTGOMERY — Expanding access to high-speed broadband internet has been one of the hallmark issues in the Alabama Legislature the last two years.
+Most all lawmakers agree the issue is a priority, but how exactly to go about it remains the Continue Reading Recent Posts Governor signs Senate Bill 1, bans ballot harvesting Ballot harvesting crackdown passes Alabama House House approves ballot harvesting, DEI bills Alabama House approves bill criminalizing some absentee ballot assistance Alabama House passes controversial ballot harvesting bill Archives March 2024 January 2024 November 2023 October 2023 September 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 March 2019 January 2019 December 2018 November 2018 October 2018 June 2018 May 2018 January 2018 October 2017 August 2017 July 2017 Categories Education In the News Uncategorized Popular Post March 2, 2021 What Alabamians need to know about the latest activity on Goat Hill — March 2, 2021 May 10, 2018 Meet Jamie Kiel January 16, 2019 Kiel assigned to powerful Ways and Means Education Committee September 1, 2019 Development Council presents checks to local festivals March 20, 2024 Governor signs Senate Bill 1, bans ballot harvesting Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

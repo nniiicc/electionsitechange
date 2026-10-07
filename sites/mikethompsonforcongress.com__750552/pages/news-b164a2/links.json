@@ -1,61 +1,414 @@
 [
-"https://bsky.app/profile/mt4congress.bsky.social",
-"https://facebook.com/mikethompsonforcongress",
-"https://instagram.com/mikethompson4congress",
-"https://mikethompsonforcongress.com/",
-"https://mikethompsonforcongress.com/biography",
-"https://mikethompsonforcongress.com/donate",
-"https://mikethompsonforcongress.com/endorsements",
-"https://mikethompsonforcongress.com/events",
-"https://mikethompsonforcongress.com/fourth-district",
-"https://mikethompsonforcongress.com/issues",
-"https://mikethompsonforcongress.com/issues/bay-delta-conservation-plan",
-"https://mikethompsonforcongress.com/issues/fiscal-responsibility",
-"https://mikethompsonforcongress.com/issues/gun-violence-prevention",
-"https://mikethompsonforcongress.com/issues/health-care",
-"https://mikethompsonforcongress.com/issues/housing",
-"https://mikethompsonforcongress.com/issues/immigration",
-"https://mikethompsonforcongress.com/issues/jobs-and-economy",
-"https://mikethompsonforcongress.com/issues/seniors",
-"https://mikethompsonforcongress.com/news",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-announces-key-north-state-endorsements",
-"https://mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall",
-"https://mikethompsonforcongress.com/news/senate-passes-thompsons-bill-extending-tax-relief-fire-survivors",
-"https://mikethompsonforcongress.com/news/thompson-applauds-reversal-dangerous-prairie-pothole-wetland-rollback",
-"https://mikethompsonforcongress.com/news/thompson-former-social-security-commissioner-omalley-and-president-national-committee-preserve",
-"https://mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america",
-"https://mikethompsonforcongress.com/news/thompson-gun-violence-prevention-task-force-slam-administrations-plans-deregulate-firearms",
-"https://mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum",
-"https://mikethompsonforcongress.com/news/thompson-host-upvalley-town-hall",
-"https://mikethompsonforcongress.com/news/thompson-host-yolo-county-senior-town-hall-social-security-and-medicare",
-"https://mikethompsonforcongress.com/news/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial-intelligence-safeguards",
-"https://mikethompsonforcongress.com/news/thompson-joins-over-250-current-and-former-members-congress-urge-supreme-court-block",
-"https://mikethompsonforcongress.com/news/thompson-presents-250000-check-city-vacaville-build-affordable-housing",
-"https://mikethompsonforcongress.com/news/thompson-presents-850000-check-county-lake-department-public-works-south-main-street-road",
-"https://mikethompsonforcongress.com/news/thompson-presents-850000-check-winters-joint-unified-school-district-modernize-agriculture",
-"https://mikethompsonforcongress.com/news/thompson-secures-4-million-usda-glassy-winged-sharpshooter-response-activities",
-"https://mikethompsonforcongress.com/news/thursday-thompson-host-yolo-county-roundtable-landmark-housing-bill",
-"https://mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall",
-"https://mikethompsonforcongress.com/news/today-thompson-host-yolo-county-senior-town-hall-social-security-and-medicare",
-"https://mikethompsonforcongress.com/news/tomorrow-thompson-host-upvalley-town-hall",
-"https://mikethompsonforcongress.com/news?page=0",
-"https://mikethompsonforcongress.com/news?page=1",
-"https://mikethompsonforcongress.com/news?page=2",
-"https://mikethompsonforcongress.com/news?page=3",
-"https://mikethompsonforcongress.com/news?page=4",
-"https://mikethompsonforcongress.com/news?page=5",
-"https://mikethompsonforcongress.com/news?page=56",
-"https://mikethompsonforcongress.com/news?page=6",
-"https://mikethompsonforcongress.com/news?page=7",
-"https://mikethompsonforcongress.com/news?page=8",
-"https://mikethompsonforcongress.com/privacy-policy",
-"https://mikethompsonforcongress.com/resources",
-"https://mikethompsonforcongress.com/subscribe",
-"https://mikethompsonforcongress.com/terms",
-"https://mikethompsonforcongress.com/volunteer",
-"https://mikethompsonforcongress.com/what-has-mike-thompson-accomplished",
-"https://threads.com/@mikethompson4congress",
-"https://tiktok.com/@mt4congress",
-"https://twitter.com/Mike_CA05",
-"https://youtube.com/@mikethompsonforcongress"
+{
+"text": "Angwin, CA – On Tuesday, August 11th at 6pm, Rep. Mike Thompson (CA-04) will host a town hall with Supervisor Anne Cottrell to answer questions about federal and local policy.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-upvalley-town-hall"
+},
+{
+"text": "Angwin, CA – On Tuesday, August 11th at 6pm, Rep. Mike Thompson (CA-04) will host a town hall with Supervisor Anne Cottrell to answer questions about federal and local policy.",
+"href": "https://www.mikethompsonforcongress.com/news/tomorrow-thompson-host-upvalley-town-hall"
+},
+{
+"text": "Bay Delta Conservation Plan",
+"href": "https://www.mikethompsonforcongress.com/issues/bay-delta-conservation-plan"
+},
+{
+"text": "Biography",
+"href": "https://www.mikethompsonforcongress.com/biography"
+},
+{
+"text": "Calistoga, CA – On Monday, September 28th at 5:30 pm Rep. Mike Thompson, Supervisor Anne Cottrell, and Councilmember Irais Lopez-Ortega will host a town hall in Calistoga.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall"
+},
+{
+"text": "Current page 1",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Donate",
+"href": "https://www.mikethompsonforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikethompsonforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikethompsonforcongress.com/events"
+},
+{
+"text": "Fiscal Responsibility",
+"href": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+},
+{
+"text": "Fourth Congressional District",
+"href": "https://www.mikethompsonforcongress.com/fourth-district"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention"
+},
+{
+"text": "Health Care",
+"href": "https://www.mikethompsonforcongress.com/issues/health-care"
+},
+{
+"text": "Housing",
+"href": "https://www.mikethompsonforcongress.com/issues/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.mikethompsonforcongress.com/issues/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.mikethompsonforcongress.com/issues"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.mikethompsonforcongress.com/issues/jobs-and-economy"
+},
+{
+"text": "Lakeport, CA – Rep. Mike Thompson (CA-04) presented an $850,000 check to the County of Lake, Department of Public Works for road widening and resurfacing projects on South Main Street.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-850000-check-county-lake-department-public-works-south-main-street-road"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.mikethompsonforcongress.com/news?page=56"
+},
+{
+"text": "Lawmakers urge Bureau of Alcohol, Tobacco, Firearms and Explosives to withdraw planned deregulatory actions",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gun-violence-prevention-task-force-slam-administrations-plans-deregulate-firearms"
+},
+{
+"text": "Mike Thompson for Congress on Bluesky",
+"href": "https://bsky.app/profile/mt4congress.bsky.social"
+},
+{
+"text": "Mike Thompson for Congress on Facebook",
+"href": "https://www.facebook.com/mikethompsonforcongress"
+},
+{
+"text": "Mike Thompson for Congress on Instagram",
+"href": "https://www.instagram.com/mikethompson4congress/"
+},
+{
+"text": "Mike Thompson for Congress on Threads",
+"href": "https://www.threads.com/@mikethompson4congress"
+},
+{
+"text": "Mike Thompson for Congress on TikTok",
+"href": "https://www.tiktok.com/@mt4congress"
+},
+{
+"text": "Mike Thompson for Congress on X",
+"href": "https://twitter.com/Mike_CA05"
+},
+{
+"text": "Mike Thompson for Congress on Youtube",
+"href": "https://www.youtube.com/@mikethompsonforcongress"
+},
+{
+"text": "Napa, CA – On Monday, October 5th at 10:00 am Rep. Mike Thompson and House Democratic Whip Katherine Clark will host a forum on women's issues and Congress' work to advance opportunities for women.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum"
+},
+{
+"text": "News",
+"href": "https://www.mikethompsonforcongress.com/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.mikethompsonforcongress.com/news?page=1"
+},
+{
+"text": "Northern California – Today, Rep. Mike Thompson (D-CA-04) and Rep. James Gallagher (R-CA-01) introduced their bipartisan Revitalize Rural America Act (RRAA) to jumpstart rural economies in Northern California and across our country.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america"
+},
+{
+"text": "Page 2",
+"href": "https://www.mikethompsonforcongress.com/news?page=1"
+},
+{
+"text": "Page 3",
+"href": "https://www.mikethompsonforcongress.com/news?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.mikethompsonforcongress.com/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.mikethompsonforcongress.com/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.mikethompsonforcongress.com/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.mikethompsonforcongress.com/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.mikethompsonforcongress.com/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.mikethompsonforcongress.com/news?page=8"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikethompsonforcongress.com/privacy-policy"
+},
+{
+"text": "REP. MIKE THOMPSON ANNOUNCES KEY NORTH STATE ENDORSEMENTS",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-announces-key-north-state-endorsements"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-announces-key-north-state-endorsements"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/senate-passes-thompsons-bill-extending-tax-relief-fire-survivors"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-applauds-reversal-dangerous-prairie-pothole-wetland-rollback"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-former-social-security-commissioner-omalley-and-president-national-committee-preserve"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gun-violence-prevention-task-force-slam-administrations-plans-deregulate-firearms"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-upvalley-town-hall"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-yolo-county-senior-town-hall-social-security-and-medicare"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial-intelligence-safeguards"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joins-over-250-current-and-former-members-congress-urge-supreme-court-block"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-250000-check-city-vacaville-build-affordable-housing"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-850000-check-county-lake-department-public-works-south-main-street-road"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-850000-check-winters-joint-unified-school-district-modernize-agriculture"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-secures-4-million-usda-glassy-winged-sharpshooter-response-activities"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thursday-thompson-host-yolo-county-roundtable-landmark-housing-bill"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/today-thompson-host-yolo-county-senior-town-hall-social-security-and-medicare"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/tomorrow-thompson-host-upvalley-town-hall"
+},
+{
+"text": "Rep. Thompson, Supervisor Cottrell, Councilmember Irais Lopez-Ortega to Host Calistoga Town Hall",
+"href": "https://www.mikethompsonforcongress.com/news/rep-thompson-supervisor-cottrell-councilmember-irais-lopez-ortega-host-calistoga-town-hall"
+},
+{
+"text": "Resources",
+"href": "https://www.mikethompsonforcongress.com/resources"
+},
+{
+"text": "Rohnert Park, CA – On Tuesday, September 29th at 5:30 pm Rep. Mike Thompson will host town hall in Rohnert Park.",
+"href": "https://www.mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall"
+},
+{
+"text": "Senate Passes Thompson's Bill Extending Tax Relief for Fire Survivors",
+"href": "https://www.mikethompsonforcongress.com/news/senate-passes-thompsons-bill-extending-tax-relief-fire-survivors"
+},
+{
+"text": "Seniors",
+"href": "https://www.mikethompsonforcongress.com/issues/seniors"
+},
+{
+"text": "St. Helena, CA – Rep. Mike Thompson (CA-04), Chair of the Congressional Wildlife Refuge Caucus and a member of the Migratory Bird Conservation Commission (MBCC), applauded the U.S. Department of the Interior’s decision to halt proposed changes that could have weakened longstanding protections for wetland easements in the Prairie Pothole Region.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-applauds-reversal-dangerous-prairie-pothole-wetland-rollback"
+},
+{
+"text": "Subscribe",
+"href": "https://www.mikethompsonforcongress.com/subscribe"
+},
+{
+"text": "THOMPSON JOINS OVER 250 CURRENT AND FORMER MEMBERS OF CONGRESS TO URGE THE SUPREME COURT TO BLOCK PRESIDENT’S EXECUTIVE ORDER LIMITING MAIL VOTING",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joins-over-250-current-and-former-members-congress-urge-supreme-court-block"
+},
+{
+"text": "THURSDAY: THOMPSON TO HOST YOLO COUNTY ROUNDTABLE ON LANDMARK HOUSING BILL",
+"href": "https://www.mikethompsonforcongress.com/news/thursday-thompson-host-yolo-county-roundtable-landmark-housing-bill"
+},
+{
+"text": "TODAY: Rep. Thompson to Host Rohnert Park Town Hall",
+"href": "https://www.mikethompsonforcongress.com/news/today-rep-thompson-host-rohnert-park-town-hall"
+},
+{
+"text": "TODAY: Thompson to Host Yolo County Senior Town Hall on Social Security and Medicare",
+"href": "https://www.mikethompsonforcongress.com/news/today-thompson-host-yolo-county-senior-town-hall-social-security-and-medicare"
+},
+{
+"text": "TOMORROW: Thompson to Host UpValley Town Hall",
+"href": "https://www.mikethompsonforcongress.com/news/tomorrow-thompson-host-upvalley-town-hall"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikethompsonforcongress.com/terms"
+},
+{
+"text": "Thompson Applauds Reversal of Dangerous Prairie Pothole Wetland Rollback",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-applauds-reversal-dangerous-prairie-pothole-wetland-rollback"
+},
+{
+"text": "Thompson Joins 106 Lawmakers in Calling on Speaker Johnson to Pass Artificial Intelligence Safeguards",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial-intelligence-safeguards"
+},
+{
+"text": "Thompson Presents $250,000 Check to the City of Vacaville to Build Affordable Housing",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-250000-check-city-vacaville-build-affordable-housing"
+},
+{
+"text": "Thompson Presents $850,000 Check to County of Lake, Department of Public Works for South Main Street Road Widening and Resurfacing Project",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-850000-check-county-lake-department-public-works-south-main-street-road"
+},
+{
+"text": "Thompson Presents $850,000 Check to Winters Joint Unified School District to Modernize Agriculture Education Site",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-850000-check-winters-joint-unified-school-district-modernize-agriculture"
+},
+{
+"text": "Thompson Secures $4 Million from USDA for Glassy-Winged Sharpshooter Response Activities",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-secures-4-million-usda-glassy-winged-sharpshooter-response-activities"
+},
+{
+"text": "Thompson to Host UpValley Town Hall",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-upvalley-town-hall"
+},
+{
+"text": "Thompson to Host Yolo County Senior Town Hall on Social Security and Medicare",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-yolo-county-senior-town-hall-social-security-and-medicare"
+},
+{
+"text": "Thompson, Former Social Security Commissioner O’Malley, and President of National Committee to Preserve Social Security and Medicare Richtman Host Social Security Town Hall in Woodland",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-former-social-security-commissioner-omalley-and-president-national-committee-preserve"
+},
+{
+"text": "Thompson, Gallagher Announce Historic Bipartisan Bill to Revitalize Rural America",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gallagher-announce-historic-bipartisan-bill-revitalize-rural-america"
+},
+{
+"text": "Thompson, Gun Violence Prevention Task Force Slam Administration’s Plans to Deregulate Firearms",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-gun-violence-prevention-task-force-slam-administrations-plans-deregulate-firearms"
+},
+{
+"text": "Thompson, Highest Ranking Woman in Congress Katherine Clark to Host Women's Forum",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-highest-ranking-woman-congress-katherine-clark-host-womens-forum"
+},
+{
+"text": "Vacaville, CA – Rep. Mike Thompson (CA-04) presented a $250,000 check to the City of Vacaville for the Harmony Village Affordable Housing Project to build ten affordable, single-family, semi-detached duet homes in the city.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-250000-check-city-vacaville-build-affordable-housing"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Washington – Rep. Mike Thompson (CA-04) announced that the U.S. Department of Agriculture (USDA) is providing $4 million in emergency funding to address the growing threat posed by the invasive glassy-winged sharpshooter (GWSS) in California.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-secures-4-million-usda-glassy-winged-sharpshooter-response-activities"
+},
+{
+"text": "Washington – Rep. Mike Thompson (CA-04) joined 106 colleagues in calling on Speaker Johnson to reconvene the House of Representatives to address the risks posed by advanced artificial intelligence (AI).",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial-intelligence-safeguards"
+},
+{
+"text": "Washington – Rep. Mike Thompson (CA-04) joined current and former Members of Congress in a court filing challenging the legality of an Executive Order by this administration seeking to exert control over mail-in ballots ahead of the 2026 midterm elections.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joins-over-250-current-and-former-members-congress-urge-supreme-court-block"
+},
+{
+"text": "Washington, D.C. – On Friday, the Senate unanimously passed Rep. Mike Thompson (D-CA-04), Rep. Greg Steube (R-FL-17), Rep. Jimmy Panetta (D-CA-19), Senator Alex Padilla (D-CA), and Senator Adam Schiff’s (D-CA) Doug LaMalfa Federal Disaster Tax Relief Certainty Act (H.R. 5366) to ensure wildfire survivors are not taxed on compensation they receive for losses and damages suffered during a federally declared wildfire disaster before January 1, 2027.",
+"href": "https://www.mikethompsonforcongress.com/news/senate-passes-thompsons-bill-extending-tax-relief-fire-survivors"
+},
+{
+"text": "What has Mike Thompson Accomplished?",
+"href": "https://www.mikethompsonforcongress.com/what-has-mike-thompson-accomplished"
+},
+{
+"text": "Winters, CA – Rep. Mike Thompson (CA-04) presented an $850,000 check to the Winters Joint Unified School District to complete the Agriculture Site Modernization and Deferred Maintenance Project.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-presents-850000-check-winters-joint-unified-school-district-modernize-agriculture"
+},
+{
+"text": "Woodland, CA – On Monday, August 10, 2026, at 10:00am Rep. Mike Thompson (CA-04) will host a senior town hall with special guests former Social Security Commissioner Martin O’Malley and Max Richtman, President and CEO of the National Committee to Preserve Social Security and Medicare (NCPSSM).",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-yolo-county-senior-town-hall-social-security-and-medicare"
+},
+{
+"text": "Woodland, CA – On Monday, August 10, 2026, at 10:00am Rep. Mike Thompson (CA-04) will host a senior town hall with special guests former Social Security Commissioner Martin O’Malley and Max Richtman, President and CEO of the National Committee to Preserve Social Security and Medicare (NCPSSM).",
+"href": "https://www.mikethompsonforcongress.com/news/today-thompson-host-yolo-county-senior-town-hall-social-security-and-medicare"
+},
+{
+"text": "Woodland, CA – On Monday, just days ahead of the Social Security Act’s 91st anniversary, Rep. Mike Thompson (CA-04) was joined by special guest, former Commissioner for the Social Security Administration and former Maryland Governor Martin O’Malley, and President of the National Committee to Preserve Social Security and Medicare Max Richtman for a town hall at the Woodland Community and Senior Center.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-former-social-security-commissioner-omalley-and-president-national-committee-preserve"
+},
+{
+"text": "Yolo County, CA – On Thursday, August 27th at 10:30 am, Rep. Mike Thompson (CA-04) will hold a roundtable highlighting the enactment of the bipartisan 21st Century ROAD to Housing Act.",
+"href": "https://www.mikethompsonforcongress.com/news/thursday-thompson-host-yolo-county-roundtable-landmark-housing-bill"
+},
+{
+"text": "Yuba City, CA – Today Congressman Mike Thompson announced endorsements from elected officials in Colusa, Placer, Sutter and Yuba Counties.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-announces-key-north-state-endorsements"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.mikethompsonforcongress.com/"
+},
+{
+"text": "info@mikethompsonforcongress.com",
+"href": "mailto:info@mikethompsonforcongress.com"
+},
+{
+"text": "press@mikethompsonforcongress.com",
+"href": "mailto:press@mikethompsonforcongress.com"
+}
 ]

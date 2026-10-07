@@ -1,16 +1,58 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://electdane.com/",
-"https://electdane.com/cdn-cgi/l/email-protection",
-"https://electdane.com/privacy-policy",
-"https://electdane.com/terms-and-conditions",
-"https://electdane.com/testimonials",
-"https://facebook.com/electdane",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://instagram.com/danescalise",
-"https://secure.anedot.com/committee-to-elect-dane/donate",
-"https://support.google.com/ads/answer/2662922?hl=en",
-"https://x.com/danescalise"
+{
+"text": "<< Back to site",
+"href": "https://www.electdane.com"
+},
+{
+"text": "Dane’s Plan",
+"href": "https://www.electdane.com/#danes-plan"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-dane/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electdane.com/privacy-policy/"
+},
+{
+"text": "Proven Track Record",
+"href": "https://www.electdane.com/#proven-track-record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.electdane.com/terms-and-conditions/"
+},
+{
+"text": "Testimonials",
+"href": "https://www.electdane.com/testimonials/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@electdane.com"
+},
+{
+"text": "[image: Dane Scalise for NC House campaign logo]",
+"href": "https://www.electdane.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/electdane"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/danescalise"
+},
+{
+"text": "[image]",
+"href": "https://x.com/danescalise"
+},
+{
+"text": "electdane.com",
+"href": "https://electdane.com"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

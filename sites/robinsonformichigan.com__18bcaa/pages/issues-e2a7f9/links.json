@@ -1,9 +1,62 @@
 [
-"https://facebook.com/ron.robinson.18",
-"https://robinsonformichigan.com/",
-"https://robinsonformichigan.com/about",
-"https://robinsonformichigan.com/events",
-"https://robinsonformichigan.com/issues",
-"https://robinsonformichigan.com/results",
-"https://secure.anedot.com/cte-ron-robinson/donate"
+{
+"text": "About",
+"href": "https://robinsonformichigan.com/about"
+},
+{
+"text": "Clean the Red Run River →",
+"href": "https://robinsonformichigan.com/issues#river"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/cte-ron-robinson/donate"
+},
+{
+"text": "Events",
+"href": "https://robinsonformichigan.com/events"
+},
+{
+"text": "FIght for Selfridge →",
+"href": "https://robinsonformichigan.com/issues#selfridge"
+},
+{
+"text": "Finally Fix the Roads →",
+"href": "https://robinsonformichigan.com/issues#roads"
+},
+{
+"text": "Home",
+"href": "https://robinsonformichigan.com/"
+},
+{
+"text": "Invest in Our Students →",
+"href": "https://robinsonformichigan.com/issues#edu"
+},
+{
+"text": "Issues",
+"href": "https://robinsonformichigan.com/issues"
+},
+{
+"text": "Lower Our Taxes →",
+"href": "https://robinsonformichigan.com/issues#tax"
+},
+{
+"text": "Pass Responsible Budgets →",
+"href": "https://robinsonformichigan.com/issues#budget"
+},
+{
+"text": "Request Yard Sign!",
+"href": "mailto:ron@robinsonformichigan.com"
+},
+{
+"text": "Results",
+"href": "https://robinsonformichigan.com/results"
+},
+{
+"text": "[image: Ron Robinson for State Representative logo]",
+"href": "https://robinsonformichigan.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/ron.robinson.18"
+}
 ]

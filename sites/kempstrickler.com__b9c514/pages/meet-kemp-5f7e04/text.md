@@ -1,7 +1,6 @@
-MEET KEMP
-Hi, I’m Kemp Strickler, and I am proud to represent Lee’s Summit and House District 34 in the Missouri legislature.
-I serve on many key committees in the legislature, including Budget, Subcommittee on Appropriations - Health, Mental Health and Social Services, Joint Committee on Tax Policy, Ways and Means, Administration and Accouints (ranking member) and the Special Committee on Tax Reform (ranking member).
-As a husband, father, and community servant, I understand the struggles Lee’s Summit families are facing.
+top of page HOME MEET KEMP MEDIA ISSUES 34TH DISTRICT EVENTS GET INVOLVED VOLUNTEER CONTACT More Use tab to navigate through the menu items.
+DONATE MEET KEMP Hi, I’m Kemp Strickler, and I am proud to represent Lee’s Summit and House District 34 in the Missouri legislature.
+I serve on many key committees in the legislature, including Budget, Subcommittee on Appropriations - Health, Mental Health and Social Services, Joint Committee on Tax Policy, Ways and Means, Administration and Accouints (ranking member) and the Special Committee on Tax Reform (ranking member). ​ ​ As a husband, father, and community servant, I understand the struggles Lee’s Summit families are facing.
 We are dealing with affordability issues in nearly all aspects of our lives, unfair county tax assessments, and a divided government that is often more interested in getting headlines than fixing our problems.
 In my four years in the House, I successfully helped bring tax relief for seniors, brought state funding to Lee's Summit and played a key role in ending the threat of a landfill on the borders of our communtiy.
 My wife, Kristy, and I have lived in Lee’s Summit for nearly 40 years.
@@ -18,3 +17,5 @@ I also served as Vice Chair of the Lee’s Summit Arts Council.
 I enjoyed a challenging but rewarding career at Hallmark, where I worked my way up from an entry level position in analytics to leadership roles responsible for multi-million dollar budgets.
 After 35 years at Hallmark, I retired from my position as a Senior Data Analytics Manager, where I led research teams that provided customer insight to help guide Hallmark’s strategic decisions.
 As your state representative, I have listened closely to your concerns, and will continue to bring your perspective with me every day to the Missouri legislature.
+HOME MEET KEMP MEDIA ISSUES 34TH DISTRICT EVENTS GET INVOLVED VOLUNTEER CONTACT More Use tab to navigate through the menu items.
+Friends of Kemp Strickler PO Box 2468 Lee's Summit, MO 64063 ​ Kemp@KempStrickler.com Paid for by Friends of Kemp Strickler, Hillary Shields, Treasurer. bottom of page

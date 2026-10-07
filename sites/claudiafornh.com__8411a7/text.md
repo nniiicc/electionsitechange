@@ -1,13 +1,11 @@
-Want to be heard?
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Want to be heard?
 I’m here to listen.
-When people ask me why I'm running, my answer is simple:
-I'm concerned about where we are as a community.
+When people ask me why I'm running, my answer is simple: I'm concerned about where we are as a community.
 Too often, politics divides us instead of bringing us together.
 I believe we have far more in common than what separates us, and the best solutions come from listening to one another—not shouting past each other.
-Our nation's motto, E Pluribus Unum—"Out of many, one"—reminds us that our strength has always come from people with different backgrounds, experiences, and perspectives working together toward a common purpose.
+Our nation's motto, E Pluribus Unum —"Out of many, one"—reminds us that our strength has always come from people with different backgrounds, experiences, and perspectives working together toward a common purpose.
 As your State Representative, I'll listen to everyone—Democrats, Republicans, and Independents alike—because every voice matters, and Salem deserves a representative who puts people before politics.
-I am proud to be endorsed by:
-The fighting and division in our politics are hurting our communities.
+I am proud to be endorsed by: The fighting and division in our politics are hurting our communities.
 Too often, we are encouraged to see each other as political enemies instead of neighbors and fellow human beings.
 News has become opinion instead of fact, and rhetoric instead of truth.
 While we are busy arguing with one another, many of the issues that affect our daily lives go unresolved.
@@ -31,3 +29,4 @@ I am happy to meet at a location of your choice on any evening except Saturday, 
 Whether you support me, disagree with me, or are still undecided, your perspective matters.
 I want to hear what is important to you, what concerns you have, and what you would like to see for the future of Salem.
 Your voice matters.
+PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

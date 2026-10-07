@@ -1,23 +1,5 @@
-Sign up here to receive email from Republican Gerald Malloy!
-Join in!
-Help get the word out,
+Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Sign up here to receive email from Republican Gerald Malloy!
+Subscribe to emails First Name Last Name Email Submit Form Join in!
+Help get the word out, see our flyers!
 Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
-Contact for the campaign
-volunteer@deploymalloy.com
-PO Box 103
-Perkinsville, VT 05151
-802-263-5405
-Paid for by Gerald Malloy for US Congress, Limited
-Privacy Settings
-Youtube
-Consent to display content from - Youtube
-Vimeo
-Consent to display content from - Vimeo
-Google Maps
-Consent to display content from - Google
-Spotify
-Consent to display content from - Spotify
-Sound Cloud
-Consent to display content from - Sound
-Save
-Cart Overview
+Copyright # Gerald Malloy for US Congress, Limited Contact for the campaign volunteer@deploymalloy.com PO Box 103 Perkinsville, VT 05151 802-263-5405 Media Request Privacy Policy Paid for by Gerald Malloy for US Congress , Limited Privacy Settings Youtube Consent to display content from - Youtube Vimeo Consent to display content from - Vimeo Google Maps Consent to display content from - Google Spotify Consent to display content from - Spotify Sound Cloud Consent to display content from - Sound Save Cart Overview

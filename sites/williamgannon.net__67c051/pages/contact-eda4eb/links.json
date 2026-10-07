@@ -1,9 +1,34 @@
 [
-"http://williamgannon.net/contact",
-"https://gc.nh.gov/senate/members/webpages/district23.aspx",
-"https://williamgannon.net/donate.html",
-"https://williamgannon.net/gannon-for-senate.html",
-"https://williamgannon.net/issues.html",
-"https://williamgannon.net/join-the-team.html",
-"https://williamgannon.net/meet-bill.html"
+{
+"text": "Contact Us",
+"href": "http://www.williamgannon.net/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.williamgannon.net/donate.html"
+},
+{
+"text": "For any questions or concerns regarding state government and legislation please use the Senate Office contact information.",
+"href": "https://gc.nh.gov/senate/members/webpages/district23.aspx"
+},
+{
+"text": "Issues & Record",
+"href": "https://www.williamgannon.net/issues.html"
+},
+{
+"text": "Join The Team",
+"href": "https://www.williamgannon.net/join-the-team.html"
+},
+{
+"text": "Meet Bill",
+"href": "https://www.williamgannon.net/meet-bill.html"
+},
+{
+"text": "Senator Gannon's Government Website",
+"href": "https://gc.nh.gov/senate/members/webpages/district23.aspx"
+},
+{
+"text": "Vote for Bill",
+"href": "https://www.williamgannon.net/gannon-for-senate.html"
+}
 ]

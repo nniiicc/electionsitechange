@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+in-person+voting+begins+at+local+city+halls+&dates=20261016T150000Z%2F20261103T020000Z",
-"http://mnvotes.org/",
-"https://bsky.app/profile/votejesslewis.com",
-"https://facebook.com/share/17i8ckBwVv?mibextid=wwXlfr",
-"https://instagram.com/jesslewismn",
-"https://secure.actblue.com/donate/jess-lewis",
-"https://threads.com/@jesslewismn?igshid=NTc4MTIwNjQ2YQ%3D%3D",
-"https://votejesslewis.com/",
-"https://votejesslewis.com/cart",
-"https://votejesslewis.com/connect",
-"https://votejesslewis.com/endorsements",
-"https://votejesslewis.com/events",
-"https://votejesslewis.com/events/donuts-democracy",
-"https://votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls?format=ical",
-"https://votejesslewis.com/events/mike-jess-listening-session",
-"https://votejesslewis.com/fuelthecampaign",
-"https://votejesslewis.com/vision",
-"https://votejesslewis.com/vote"
+{
+"text": "0",
+"href": "https://www.votejesslewis.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votejesslewis.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votejesslewis.com/events"
+},
+{
+"text": "Connect",
+"href": "https://www.votejesslewis.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://www.votejesslewis.com/fuelthecampaign"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/jess-lewis"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejesslewis.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votejesslewis.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+in-person+voting+begins+at+local+city+halls+&dates=20261016T150000Z%2F20261103T020000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.votejesslewis.com/events/early-in-person-voting-begins-at-local-city-halls?format=ical"
+},
+{
+"text": "Next Next October 20 Mike & Jess Listening Session",
+"href": "https://www.votejesslewis.com/events/mike-jess-listening-session"
+},
+{
+"text": "Previous Previous October 3 Donuts & Democracy",
+"href": "https://www.votejesslewis.com/events/donuts-democracy"
+},
+{
+"text": "Vision",
+"href": "https://www.votejesslewis.com/vision"
+},
+{
+"text": "Vote",
+"href": "https://www.votejesslewis.com/vote"
+},
+{
+"text": "[image: Jess Lewis for MN 43B]",
+"href": "https://www.votejesslewis.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votejesslewis.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/17i8ckBwVv/?mibextid=wwXlfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jesslewismn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jesslewismn?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "mnvotes.org",
+"href": "http://mnvotes.org"
+}
 ]

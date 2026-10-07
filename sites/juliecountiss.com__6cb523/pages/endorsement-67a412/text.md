@@ -1,4 +1,8 @@
-Meet Julie Endorsement Get Involved DONATE Endorsements Donate Today Your contribution helps Julie Countiss reach voters across the First Court of Appeals district and share her record of experience, public service, and proven appellate leadership. $25 $50 $100 $250 $500 $1000 DONATE NOW Tell us how you can help First Name Last Name Email Address Phone Number Zip Code How would you like to help?How would you like to help?Wherever I'm neededKnock doorsPhone bankOrganize an eventTable at eventsPut up a yard signFundraise Text me campaign updates & volunteer opportunities.Text me campaign updates & volunteer opportunities.By checking this box I agree to receive recurring text messages from Julie Countiss Campaign at the number provided.
+Meet Julie Endorsement Get Involved DONATE Endorsements Donate Today Your contribution helps Julie Countiss reach voters across the First Court of Appeals district and share her record of experience, public service, and proven appellate leadership. $25 $50 $100 $250 $500 $1000 DONATE NOW Tell us how you can help First Name Last Name Email Address Phone Number Zip Code How would you like to help?
+How would you like to help?
+Wherever I'm needed Knock doors Phone bank Organize an event Table at events Put up a yard sign Fundraise Text me campaign updates & volunteer opportunities.
+Text me campaign updates & volunteer opportunities.
+By checking this box I agree to receive recurring text messages from Julie Countiss Campaign at the number provided.
 Msg & data rates may apply.
 Reply STOP to unsubscribe, HELP for help.
 I'M IN Follow POL ADV PAID FOR BY: JULIE COUNTISS CAMPAIGN

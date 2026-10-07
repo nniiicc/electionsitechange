@@ -1,8 +1,15 @@
-Skip navigation menu
-Jennifer kirkman
-Rooted in Iowa.
+Skip navigation menu About Jennifer Platform Support Contact Donate Jennifer kirkman Rooted in Iowa.
 Invested in Our Future.
-I consider myself a somewhat reluctant politician.
+About Jennifer Platform Support Contact Donate Jennifer kirkman Rooted in Iowa.
+Invested in Our Future.
+Hi, I am Jennifer Kirkman, and I want to represent your interests in the Iowa House of Representatives District 99.
+I grew up on a small family farm in Iowa where I learned the values of hard work, community, and helping neighbors in need.
+A graduate of the University of Iowa and the University of Iowa College of Law, I've spent more than twenty years practicing law and helping Southeast Iowa families navigate some of life's most important moments.
+Since moving to Burlington in 2005, I have built a successful small business, raised a family, and dedicated myself to serving the community through numerous local organizations and volunteer efforts.
+I understand the challenges facing Iowa families because I see them every day.
+I'm not running to become a politician.
+I'm running to become an advocate for Iowa House District 99.
+Issues that hit close to home Strong Public Schools A growing economy Better healthcare access Opportunity for all Learn More Share Now I consider myself a somewhat reluctant politician.
 I didn't major in Political Science or set out to have a career in politics.
 I am running because for too long I've been saying "someone needs to do something." I am someone; you are too!
 It's time to demand more from our elected officials.
@@ -34,10 +41,10 @@ Working together allows us to find creative solutions to even the most complex c
 I have worked as an advocate my entire career, and I will use that experience to help us move District 99 into the future while we celebrate and learn from the past.
 I ask for your support and vote, and I promise to work tirelessly to represent your interests and make our community a better place for all of us.
 Thank you, and please accept my gratitude for your time.
-Let's Build a Better Iowa Together
-The future of Iowa won't be shaped by politicians alone.
+Proudly Endorsed By IUOE, Local 150, & 234 UAW IBEW Iowa State Education Association UA Local 125 National Association of Letter Carriers Planned Parenthood AFSCME Council 61 Justice for All PAC Insufferable Wenches of Iowa Learn why Let's Build a Better Iowa Together The future of Iowa won't be shaped by politicians alone.
 It will be shaped by people who care about their communities, who believe in public service, and who are willing to work together to solve problems.
-I would be honored to earn your support and your vote.
 I believe in Iowa.
 I believe in Southeast Iowa.
 And I believe our best days are still ahead.
+I would be honored to earn your support and your vote.
+Join Us Powered by RUN! website builder Paid for by Kirkman for Iowa You need to enable JavaScript to run this app.

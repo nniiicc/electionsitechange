@@ -1,14 +1,13 @@
-Meet Michelle
-East Cobb is home.
+0 Skip to Content Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Open Menu Close Menu Home Meet Michelle Volunteer Issues Perspectives Community Voices Donate Meet Michelle East Cobb is home.
 It’s where I grew up, and where my husband Mike and I chose to raise our family.
 Now I’m running to give back to the community that gave me so much.
-East Cobb is home.
+GET TO KNOW MICHELLE East Cobb is home.
 I’m Michelle Schreiner, a mom, Ph.D. psychologist, and research leader running to represent Georgia House District 45.
 After years of moving as an Army family, I grew up in East Cobb, and this community became home.
 I attended East Valley Elementary, Dodgen and East Cobb Middle Schools, and graduated from Wheeler High School.
 Today, my husband Mike and I are raising our twins here, surrounded by many of the same schools, neighborhoods, and opportunities that helped shape me.
 I’m running because I believe our community deserves thoughtful, effective leadership focused on the things that make a real difference in people’s lives: strong public schools, affordable healthcare, safe and thriving neighborhoods, responsible growth, and an economy where families can build a good life.
-Why I’m Running
+Why I’m Running In this conversation with Cobb Speaks, I share how growing up in East Cobb shaped me, the opportunities that changed the course of my life, and why I’m running to represent the community I still call home.
 I know what opportunity can make possible.
 I was born in Puerto Rico and grew up as the daughter of an Army Ranger.
 My childhood included plenty of moves and periods when money was tight.
@@ -48,5 +47,5 @@ I won’t pretend to have every answer.
 But I will bring curiosity, integrity, evidence, empathy, and a willingness to work with people who don't always agree with me.
 East Cobb gave me a place to call home and opportunities that helped shape my life.
 I’m ready to give back to our community.
-Looking for candidate information, background, and resources?
-View 2026 Candidate Information →
+Where I stand Join our campaign Looking for candidate information, background, and resources?
+View 2026 Candidate Information → **Paid for by Michelle For Georgia House** Photography: Kevin Lowery and Tara Gulledge

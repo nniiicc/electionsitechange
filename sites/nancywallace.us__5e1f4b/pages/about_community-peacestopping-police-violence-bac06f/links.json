@@ -1,25 +1,102 @@
 [
-"http://aclu-md.org/mobile_justice",
-"http://aiso.net/",
-"http://eastbaytimes.com/2014/01/06/richmond-reports-lowest-homicide-total-in-33-years-credits-multipronged-efforts",
-"http://nancywallace.us/",
-"http://nancywallace.us/about/community-peacestopping-police-violence",
-"http://nancywallace.us/climate-change",
-"http://nancywallace.us/community%e2%80%90based-economics-and-economic-justice",
-"http://nancywallace.us/federal-tax-reform",
-"http://nancywallace.us/foreign-policy",
-"http://nancywallace.us/health-care-for-all",
-"http://nancywallace.us/immigration-reform",
-"http://nancywallace.us/list",
-"http://nancywallace.us/privacy",
-"http://nancywallace.us/women-and-girls-survival",
-"http://samuelwalker.net/wp-content/uploads/2016/02/PERF30Principles.pdf",
-"https://nancywallace.us/about/community-peacestopping-police-violence",
-"https://nancywallace.us/about/community-peacestopping-police-violence/green-party",
-"https://nancywallace.us/contact",
-"https://nancywallace.us/donate",
-"https://nancywallace.us/endorsements",
-"https://nancywallace.us/issues",
-"https://nancywallace.us/meet-nancy",
-"https://nancywallace.us/vote-for-nancy"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Climate Change",
+"href": "http://www.nancywallace.us/climate-change/"
+},
+{
+"text": "Community Based Economics and Economic Justice",
+"href": "http://www.nancywallace.us/community%e2%80%90based-economics-and-economic-justice/"
+},
+{
+"text": "Community Peace/Stopping Police Violence",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Contact",
+"href": "https://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Federal Tax Reform",
+"href": "http://www.nancywallace.us/federal-tax-reform"
+},
+{
+"text": "Foreign Policy",
+"href": "http://www.nancywallace.us/foreign-policy"
+},
+{
+"text": "Green Party",
+"href": "https://www.nancywallace.us/about/community-peacestopping-police-violence/green-party"
+},
+{
+"text": "Health Care for All",
+"href": "http://www.nancywallace.us/health-care-for-all/"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Immigration Reform",
+"href": "http://www.nancywallace.us/immigration-reform"
+},
+{
+"text": "Issues",
+"href": "https://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "https://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Meet Nancy",
+"href": "https://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Police",
+"href": "https://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Privacy",
+"href": "http://www.nancywallace.us/privacy"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "Women and Girls’ Survival",
+"href": "http://www.nancywallace.us/women-and-girls-survival/"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "here",
+"href": "http://aclu-md.org/mobile_justice"
+},
+{
+"text": "http://samuelwalker.net/wp-content/uploads/2016/02/PERF30Principles.pdf",
+"href": "http://samuelwalker.net/wp-content/uploads/2016/02/PERF30Principles.pdf"
+},
+{
+"text": "http://www.eastbaytimes.com/2014/01/06/richmond-reports-lowest-homicide-total-in-33-years-credits-multipronged-efforts/",
+"href": "http://www.eastbaytimes.com/2014/01/06/richmond-reports-lowest-homicide-total-in-33-years-credits-multipronged-efforts/"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

@@ -1,7 +1,22 @@
 [
-"https://enable-javascript.com/",
-"https://johnseaman.substack.com/",
-"https://substack.com/ccpa",
-"https://substack.com/privacy",
-"https://substack.com/tos"
+{
+"text": "Information Collection Notice",
+"href": "https://substack.com/ccpa#personal-data-collected"
+},
+{
+"text": "Privacy Policy",
+"href": "https://substack.com/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://substack.com/tos"
+},
+{
+"text": "The Rule of Law - Corruption - National Security",
+"href": "https://johnseaman.substack.com"
+},
+{
+"text": "turn on JavaScript",
+"href": "https://enable-javascript.com/"
+}
 ]

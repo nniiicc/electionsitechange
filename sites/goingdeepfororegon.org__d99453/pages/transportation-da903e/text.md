@@ -1,5 +1,4 @@
-Getting to and from the Countryside
-Rural Transportation
-Tugboat on the Columbia
-For a rural district like ours, I want us to fund a transportation system that lets you get from home to your favorite city center, and for people in urban homes to get to jobs in our district.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Getting to and from the Countryside Rural Transportation Tugboat on the Columbia For a rural district like ours, I want us to fund a transportation system that lets you get from home to your favorite city center, and for people in urban homes to get to jobs in our district.
 I want a transportation plan where everyone pays their fair share for maintenance.
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

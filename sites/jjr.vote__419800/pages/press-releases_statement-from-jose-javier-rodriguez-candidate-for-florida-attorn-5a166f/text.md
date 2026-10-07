@@ -1,8 +1,3 @@
-FOR IMMEDIATE RELEASE
-July 1, 2025
-Contact: press@jjr.vote, 786-683-8781
-Today, José Javier Rodríguez, candidate for Florida Attorney General, released the following statement on the opening of “Alligator Alcatraz” in the Everglades:
-“This is just more political theater from Uthmeier, who’s too busy hiding from his own record: accused of defrauding Floridians, held in contempt of court, refusing to hold utility and insurance companies accountable, and now pushing a disastrous massive detention facility in the Everglades.
-If he wants to act like an Attorney General, he should ask the President to stop Medicaid cuts that will hurt millions here and stop raising taxes on working families while billionaires get a break.
-The job is to protect Floridians, not play games.”
-###
+EN ES Home About Priorities Media Endorsements Get involved Donate FOR IMMEDIATE RELEASE July 1, 2025 Contact: press@jjr.vote , 786-683-8781 EN ES Statement from José Javier Rodríguez, Candidate for Florida Attorney General, on the Opening of “Alligator Alcatraz” Today, José Javier Rodríguez, candidate for Florida Attorney General, released the following statement on the opening of “Alligator Alcatraz” in the Everglades: ‍ “This is just more political theater from Uthmeier, who’s too busy hiding from his own record: accused of defrauding Floridians, held in contempt of court, refusing to hold utility and insurance companies accountable, and now pushing a disastrous massive detention facility in the Everglades. ‍ If he wants to act like an Attorney General, he should ask the President to stop Medicaid cuts that will hurt millions here and stop raising taxes on working families while billionaires get a break.
+The job is to protect Floridians, not play games.” ‍ ### Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL July 1, 2025

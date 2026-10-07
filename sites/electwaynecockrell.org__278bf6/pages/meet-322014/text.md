@@ -1,4 +1,4 @@
-I was born and raised in Arkansas.
+Skip to content 984-275-4593 Envelope Donate Go Enter Keyword The temperament and experience to understand our community and help it succeed I was born and raised in Arkansas.
 I got my electrical engineering degree from Rose-Hulman Inst.
 Of Technology in Terre Haute IN.
 I met my wife, Kathy, there where she was attending college in the same town.
@@ -12,7 +12,7 @@ This eventually led me to move to North Carolina where I joined Nomacorc and lat
 I worked for three different global manufacturing companies and have traveled internationally for work.
 I closed out my career by switching to cyber security while still at GSK, primarily protecting industrial infrastructure from cyber-attack for GSK on six continents.
 I retired last year.
-My wife and I will celebrate our 42nd anniversary this year.
+My wife and I will celebrate our 42 nd anniversary this year.
 We moved into our current home in Wake County twenty years ago.
 We have two children and eight grandchildren in the area.
 I became a lifetime member of the Libertarian Party many years ago out of frustration with failure of the establishment parties to reduce the regulatory, tax, and debt burden on the American people.
@@ -20,6 +20,7 @@ I am running for the NC House to increase the freedom needed for human flourishi
 I want to continue the push to increase choice in education and reduce the income tax burden.
 We can also lower health care costs by eliminating the certificate of need requirement that restricts competition and access to healthcare.
 And we need rational property tax reform so that rising home values do not lead to automatic increases in the tax you pay.
+A free North Carolina is a better North Carolina.
 Too many of our children, citizens and small business owners are denied the opportunity to succeed in North Carolina.
 I want to change government’s role in our state and in our lives.
 Our government and established interests have chosen to defend existing power structures, not people.
@@ -28,3 +29,6 @@ All parents should be able to choose the best school for their children with the
 Business owners should be able to open and grow a business and not have to fight regulations that don’t make us safer but only give power to those with deeper pockets.
 We need to work on fixing healthcare by returning real choice to the patient and real competition to the market.
 Freedom is a solution.
+LEARN MORE ABOUT OUR CAMPAIGN FOR LIBERTY IN NORTH CAROLINA Sign up for our email newsletter and receive occasional news and event communications from the campaign.
+First Name Last Name Email Subscribe Now Together We Can Work Toward a Free, Peaceful and Prosperous North Carolina.
+Join Us Contribute Volunteer Events News Voting Voter Lookup Voter Registration Polling Stations Early Voting Election Day Libertarian Party LP National website LPNC website LPNC Facebook LPNC Twitter WakeLP website Contact 5308 Fox Pointe Dr., Knightdale, NC 27545 984-275-4593 contact@electwaynecockrell.org

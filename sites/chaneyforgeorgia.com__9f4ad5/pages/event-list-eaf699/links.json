@@ -1,15 +1,78 @@
 [
-"https://chaneyforgeorgia.com/",
-"https://chaneyforgeorgia.com/about",
-"https://chaneyforgeorgia.com/accessibility-statement",
-"https://chaneyforgeorgia.com/event-details/chaney-for-georgia-gala-night",
-"https://chaneyforgeorgia.com/event-details/community-leaders-forum-for-change",
-"https://chaneyforgeorgia.com/event-details/meet-the-candidate",
-"https://chaneyforgeorgia.com/event-details/strategic-planning-for-chaney-campaign",
-"https://chaneyforgeorgia.com/event-list",
-"https://chaneyforgeorgia.com/privacy-policy",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/chaneyforgeorgia",
-"https://x.com/wix"
+{
+"text": "Accessibility Statement",
+"href": "https://www.chaneyforgeorgia.com/accessibility-statement"
+},
+{
+"text": "Beliefs",
+"href": "https://www.chaneyforgeorgia.com/about"
+},
+{
+"text": "Buy Tickets",
+"href": "https://www.chaneyforgeorgia.com/event-details/chaney-for-georgia-gala-night"
+},
+{
+"text": "Chaney for Georgia",
+"href": "https://www.chaneyforgeorgia.com"
+},
+{
+"text": "Chaney for Georgia Gala Night",
+"href": "https://www.chaneyforgeorgia.com/event-details/chaney-for-georgia-gala-night"
+},
+{
+"text": "Community Leaders' Forum for Change",
+"href": "https://www.chaneyforgeorgia.com/event-details/community-leaders-forum-for-change"
+},
+{
+"text": "Details",
+"href": "https://www.chaneyforgeorgia.com/event-details/meet-the-candidate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chaneyforgeorgia"
+},
+{
+"text": "Events",
+"href": "https://www.chaneyforgeorgia.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.chaneyforgeorgia.com"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.chaneyforgeorgia.com/event-details/meet-the-candidate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chaneyforgeorgia.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.chaneyforgeorgia.com/event-details/community-leaders-forum-for-change"
+},
+{
+"text": "RSVP",
+"href": "https://www.chaneyforgeorgia.com/event-details/strategic-planning-for-chaney-campaign"
+},
+{
+"text": "Strategic Planning for Chaney Campaign",
+"href": "https://www.chaneyforgeorgia.com/event-details/strategic-planning-for-chaney-campaign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+},
+{
+"text": "info@chaneyforgeorgia.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,11 +1,13 @@
-Please join Representative Cynthia Neeley, Mayor Sheldon Neeley, the McDonalds Team, and The Richfield Early Learning Center Team at the free food give away.
-Happy…
-CITYWIDE trick-or-treating hours 4:30-7 p.m.
-Oct. 31, 2020 To provide our children with safe opportunities to enjoy Halloween please follow all Recommendation from our health…
-Today we stand UNITED to encourage everyone to get out and VOTE.
+Home About News Volunteer Donate Contact Contribute Author page: webmaster Home Author page: webmaster Home About News Volunteer Donate Contact Family News November 18, 2020 Richfield Early Learning Center Team free food give away by webmaster 0 Comments Please join Representative Cynthia Neeley, Mayor Sheldon Neeley, the McDonalds Team, and The Richfield Early Learning Center Team at the free food give away.
+Happy… Continue reading Family News October 27, 2020 17th Annual Harvest Festival by webmaster 0 Comments CITYWIDE trick-or-treating hours 4:30-7 p.m.
+Oct.
+31, 2020 To provide our children with safe opportunities to enjoy Halloween please follow all Recommendation from our health… Continue reading Election News October 19, 2020 Today we stand UNITED to encourage everyone to get out and VOTE by webmaster 0 Comments Today we stand UNITED to encourage everyone to get out and VOTE.
 Every day is VOTING DAY until November 3rd.
-Thanks, LT Governor Glicrest, Congressman…
-LANSING, Mich., Sept. 24, 2020 – The Michigan House of Representatives passed House Bill 6235 today to block the state from denying to issue or…
-FOR IMMEDIATE RELEASE Wednesday, June 24, 2020 Contact: 810-610-3810 Michigan Leaders to Discuss Voting Rights, Civil Rights, and Criminal Records Neeley, Young, Thomas to…
-Michigan is home to more than 16,500 restaurants and 15,000 retail shops, employing 1.25 million Michiganders.
-Although a disruption or closure of any small business…
+Thanks, LT Governor Glicrest, Congressman… Continue reading News Priorities & Structure Rights & Obligations September 24, 2020 Neeley stands up for Michigan Drivers by webmaster 0 Comments LANSING, Mich., Sept.
+24, 2020 – The Michigan House of Representatives passed House Bill 6235 today to block the state from denying to issue or… Continue reading News June 24, 2020 Cynthia Neeley to Discuss Voting Rights, Civil Rights, and Criminal Records by webmaster 0 Comments FOR IMMEDIATE RELEASE Wednesday, June 24, 2020 Contact: 810-610-3810 Michigan Leaders to Discuss Voting Rights, Civil Rights, and Criminal Records Neeley, Young, Thomas to… Continue reading News June 9, 2020 Downtown Business Coalition Begins Preparing Recommendations Following Listening Tour by webmaster 0 Comments Michigan is home to more than 16,500 restaurants and 15,000 retail shops, employing 1.25 million Michiganders.
+Although a disruption or closure of any small business… Continue reading Posts pagination < Page 1 Page 2 Page 3 Page 4 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

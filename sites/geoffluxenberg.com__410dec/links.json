@@ -1,6 +1,22 @@
 [
-"https://geoffluxenberg.com/",
-"https://geoffluxenberg.com/cart",
-"https://geoffluxenberg.com/contact",
-"https://secure.anedot.com/geoff-2026/donate_geoff2026"
+{
+"text": "0",
+"href": "https://www.geoffluxenberg.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.geoffluxenberg.com/contact"
+},
+{
+"text": "Give Now",
+"href": "https://secure.anedot.com/geoff-2026/donate_geoff2026"
+},
+{
+"text": "Home",
+"href": "https://www.geoffluxenberg.com/"
+},
+{
+"text": "[image: Geoff Luxenberg]",
+"href": "https://www.geoffluxenberg.com/"
+}
 ]

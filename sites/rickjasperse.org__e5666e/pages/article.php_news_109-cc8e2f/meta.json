@@ -1,11 +1,14 @@
 {
  "description": "REPORT FROM THE CAPITOL - The 156th Georgia General Assembly convened under the Gold Dome on Monday, January 10, 2022, with 40 ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=109",
- "paid_for_by": null,
+ "fingerprint": "d3667c372c7ee71086221ff99abfcdac93edcd3b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
   "2019",
   "2022",
-  "2023"
+  "2023",
+  "2039"
  ]
 }

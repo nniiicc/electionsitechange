@@ -1,22 +1,17 @@
-Signed in as:
-filler@godaddy.com
+Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media More Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Account My Account Sign out Sign In My Account October Events - Come Meet & Interview Me for the Job!
 Below is a list of Events/Appearances that I will be making during Our Campaign.
 I invite you to participate in person or over the phone.
-All over the District
-Event Details
-Please Sign up and check back for Updates
-North Ga Fair Legion Dr, Dalton, GA, United States
-I Love Dalton and Fried Pickles!
+October 2026 I will be posting many upcoming events in October All over the District Event Details October 2026 I will be posting many upcoming events in October Please Sign up and check back for Updates All over the District Sunday 10/04/2026 Dalton GA Fried Pickle Festival 10am - 4pm North Ga Fair Legion Dr, Dalton, GA, United States Event Details Sunday 10/04/2026 Dalton GA Fried Pickle Festival I Love Dalton and Fried Pickles!
 I'll be out in Dalton GA for the Fried Pickles Festival from 10am to 4pm in my bright yellow campaign shir...
-Sweet Home Baptist Church at 280 Oak Street, Hiram GA 30141
-The League of Women Voters of Georgia, the League of Women Voters of Marietta-Cobb County, the League of Women Voters of West Piedmont, and...
-Georgia Public Broadcasting - Atlanta
-The Atlanta Press Club Loudermilk-Young Debate Series Congressional District 14 Special Election candidate forum - Recording Date - Not open...
-American Legion Post 112 1118 N.
-Glenwood Avenue Dalton, Georgia 30721
-I will be participating in The League of Women Voters of Dalton Area Candidate Forum for the U.S House 14th Congressional District Special ...
-More Events
-Paid for by Rob Ruszkowski ( Rush ) for Congress
-Rising Fawn GA 30738
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Event Details 10am - 4pm North Ga Fair Legion Dr, Dalton, GA, United States 02/21/2026 District 14 Candidate Meet and Greet in Hiram GA 1pm - 3pm Sweet Home Baptist Church at 280 Oak Street, Hiram GA 30141 Event Details 02/21/2026 District 14 Candidate Meet and Greet in Hiram GA The League of Women Voters of Georgia, the League of Women Voters of Marietta-Cobb County, the League of Women Voters of West Piedmont, and...
+Event Details 1pm - 3pm Sweet Home Baptist Church at 280 Oak Street, Hiram GA 30141 02/15/2026 Atlanta Press Club Loudermilk-Young Debate 1:30pm - 4pm Georgia Public Broadcasting - Atlanta Event Details 02/15/2026 Atlanta Press Club Loudermilk-Young Debate The Atlanta Press Club Loudermilk-Young Debate Series Congressional District 14 Special Election candidate forum - Recording Date - Not open...
+Event Details 1:30pm - 4pm Georgia Public Broadcasting - Atlanta 02/14/2026 The League of Women Voters of Dalton Area Candidate Forum 4pm - 7pm American Legion Post 112 1118 N.
+Glenwood Avenue Dalton, Georgia 30721 Event Details 02/14/2026 The League of Women Voters of Dalton Area Candidate Forum I will be participating in The League of Women Voters of Dalton Area Candidate Forum for the U.S House 14th Congressional District Special ...
+Event Details 4pm - 7pm American Legion Post 112 1118 N.
+Glenwood Avenue Dalton, Georgia 30721 More Events Donate Here Every Contribution - Large or Small - Makes a Difference Donate Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform How to Vote Write-In Campaign Update Contact Volunteer Campaign Videos Music, Art & Our Campaign Others We Support Press & Media FEC Disclaimer Privacy Policy Paid for by Rob Ruszkowski ( Rush ) for Congress Rising Fawn GA 30738 Donations processed via Donorbox • We do not sell your data “Translations are machine-generated; please see English version for official text.” Copyright © # Paid for By Rob Ruszkowski ( Rush ) For Congress - All Rights Reserved.
+Powered by

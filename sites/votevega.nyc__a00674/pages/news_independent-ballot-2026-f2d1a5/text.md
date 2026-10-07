@@ -1,8 +1,6 @@
-Jose Vega on General Election Ballot as Independent
-May 19, 2026
-25 thousand doors knocked
-15 thousand signatures all together
-I can now announce, that we have handed in our signatures for the Independent ballot.
-We are now on the ballot for both the Democrat Primary against Ritchie Torres which is on June 23rd AND on the General Election… pic.twitter.com/V7E2LzUlFy
-— Jose Vega — Vote Vega!
-(@votevega26) May 19, 2026
+Skip to content Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Jose Vega on General Election Ballot as Independent May 19, 2026 25 thousand doors knocked 15 thousand signatures all together I can now announce, that we have handed in our signatures for the Independent ballot.
+We are now on the ballot for both the Democrat Primary against Ritchie Torres which is on June 23rd AND on the General Election… pic.twitter.com/V7E2LzUlFy — Jose Vega — Vote Vega! (@votevega26) May 19, 2026 Share This Article Share on X Share on Facebook Email Previous Article Jimmy Dore Joins 9/11 at 25 NYC Forum With NSA Whistleblowers Next Article Jose Vega joins The Young Turks: Ritchie Torres' AIPAC Bribes Get CALLED OUT Back to All News Support Our Movement Your contribution powers real change in the Bronx.
+Every donation helps us fight for Medicare for All, reindustrialization, and peace through development.
+Donate Now Join Our Campaign Stay informed about our fight to transform the Bronx.
+Get updates on events, policy announcements, and campaign news.
+Join Now press@votevega.nyc Bronx, NY 10459 (800) 498-8561 Privacy Policy | Terms and Conditions | Paid for by Vega for Congress

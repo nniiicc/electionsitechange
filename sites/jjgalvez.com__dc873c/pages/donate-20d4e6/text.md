@@ -1,12 +1,3 @@
-Donate to
-support
-a People-
-powered Campaign
-We’re building a grassroots movement with support from citizen-focused organizations and real people, like you.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Donate to support a People- powered Campaign We’re building a grassroots movement with support from citizen-focused organizations and real people, like you.
 I don’t take money from corporate PACs because I’m running to represent you, the people in District 71.
-Save time donating with your ActBlue account
-Donate on eFundraising for reduced campaign fees
-OR MAIL A CHECK TO:
-JJ Galvez for State Assembly District 71 - 2026
-69730 Highway 111, #216
-Rancho Mirage, CA 92270
+Donate on ActBlue Save time donating with your ActBlue account Donate on eFundraising Donate on eFundraising for reduced campaign fees OR MAIL A CHECK TO: JJ Galvez for State Assembly District 71 - 2026 69730 Highway 111, #216 Rancho Mirage, CA 92270 DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

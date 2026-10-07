@@ -1,3 +1,5 @@
-Honoring the Heroes of the Malden Fire Department
-Yesterday, State Representative Paul Donato and I were proud to present 6 Malden Fire Firefighters with citations from the House of Representatives for their outstanding bravery above and beyond the call of duty to help our neighbors in Revere, and save a resident from an apartment fire.
+top of page Home Meet Steve Meet the Team Contact Steve Policy Legislative Wins Issues Funding Resources Newsroom More Use tab to navigate through the menu items.
+All Posts Press Releases Community Updates Grants & Other Resources Achievements Newsletters Events Wellness Wednesday Search Honoring the Heroes of the Malden Fire Department Steven Ultrino Sep 25, 2020 1 min read Yesterday, State Representative Paul Donato and I were proud to present 6 Malden Fire Firefighters with citations from the House of Representatives for their outstanding bravery above and beyond the call of duty to help our neighbors in Revere, and save a resident from an apartment fire.
 Thanks to Mayor Christenson for joining us to once again honor their service!
+Achievements Recent Posts See All State Representative Steven Ultrino Honored as Legislator of the Year by Providers’ Council The CROWN Act Signed into Law by Governor Baker Commemorating World AIDS Day Log In Sign Up Thanks for submitting!
+Tel: (617) 722-2877 Email: Steven.Ultrino@MAhouse.gov State House, Room 174, Boston, MA 02133 © # Paid for by The Committee To Elect Steve Ultrino bottom of page

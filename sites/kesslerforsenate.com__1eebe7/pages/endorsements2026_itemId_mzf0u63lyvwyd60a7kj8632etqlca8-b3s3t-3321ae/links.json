@@ -1,65 +1,266 @@
 [
-"http://flickr.com/photos/204603896@N07",
-"https://afscmemn.org/",
-"https://dfl.org/",
-"https://dflec.org/",
-"https://educationminnesota.org/",
-"https://facebook.com/kesslerforsenate",
-"https://fairvotemn.org/",
-"https://friendsaction-bwca.org/",
-"https://ibew292.org/",
-"https://ifo.org/",
-"https://instagram.com/danielnkessler",
-"https://janepac.com/",
-"https://kesslerforsenate.com/",
-"https://kesslerforsenate.com/LearnMore",
-"https://kesslerforsenate.com/cart",
-"https://kesslerforsenate.com/contact-us",
-"https://kesslerforsenate.com/donate",
-"https://kesslerforsenate.com/endorsements2026",
-"https://kesslerforsenate.com/endorsements2026?itemId=4zfkiifx7igxvik1ux5xif4z69lfnu",
-"https://kesslerforsenate.com/endorsements2026?itemId=6tbrxmv701mohkrn5dw2xqogu9v9k5",
-"https://kesslerforsenate.com/endorsements2026?itemId=7kiuiwem1v3rzdzxfvhsunqfa814vu",
-"https://kesslerforsenate.com/endorsements2026?itemId=b8kx67gj0ju8jgjres2l4i129hpkyt",
-"https://kesslerforsenate.com/endorsements2026?itemId=bgzcns04v4wxebdvqv02pvl07vohnl",
-"https://kesslerforsenate.com/endorsements2026?itemId=bnxry10lb3czd17kh1h43puiqsns69",
-"https://kesslerforsenate.com/endorsements2026?itemId=h85jf9l5lxzc7d89c6g0dl9rzaywz2",
-"https://kesslerforsenate.com/endorsements2026?itemId=jkt7gn6nqdrerbare14yun8wcxipzl",
-"https://kesslerforsenate.com/endorsements2026?itemId=k3yteahe6b0pk0wg5dnxzw6ewrvq04",
-"https://kesslerforsenate.com/endorsements2026?itemId=lm0sb8qf3x55ag03rs4e2b156yo4s7",
-"https://kesslerforsenate.com/endorsements2026?itemId=lqo7z3vy80uoots04975fjqj5slpxa-ctgnl",
-"https://kesslerforsenate.com/endorsements2026?itemId=mxkp1p7axhlou5jc8njcopsxin33hh",
-"https://kesslerforsenate.com/endorsements2026?itemId=mzf0u63lyvwyd60a7kj8632etqlca8-b3s3t",
-"https://kesslerforsenate.com/endorsements2026?itemId=njwl6ofurbr7yuohxt5venvi5u074x",
-"https://kesslerforsenate.com/endorsements2026?itemId=rxogfipbuluqu0xuj7dn4llveqobi9",
-"https://kesslerforsenate.com/endorsements2026?itemId=ryew6g2817eosq156zfzhsc1z1nyiy-cc55h",
-"https://kesslerforsenate.com/endorsements2026?itemId=sg6voltcivzgpcm9rwlh0a6zdslosv-wmp3d",
-"https://kesslerforsenate.com/endorsements2026?itemId=sierra-club-f879a",
-"https://kesslerforsenate.com/endorsements2026?itemId=u2xyzqwkcjcfii7s9iyjap79pqhdu5-s56zf",
-"https://kesslerforsenate.com/endorsements2026?itemId=u57f9n4238ft3o1epyt8haubzqzw6f",
-"https://kesslerforsenate.com/endorsements2026?itemId=w7aw5dbn6noa2jp4verd2oughvessl-lpref",
-"https://kesslerforsenate.com/endorsements2026?itemId=wa8cjzg9gzume5xdlv7ohzrl7v6j26",
-"https://kesslerforsenate.com/endorsements2026?itemId=x4xs8h1pw1ajafqi8zymxxxxk67lkd",
-"https://kesslerforsenate.com/endorsements2026?itemId=y4fsnxm6dl49irq8a6brh9bmhdhdb5",
-"https://kesslerforsenate.com/events",
-"https://kesslerforsenate.com/faq-1",
-"https://kesslerforsenate.com/gallery-kesslerforsenate",
-"https://kesslerforsenate.com/get-a-yard-sign",
-"https://kesslerforsenate.com/get-involved",
-"https://kesslerforsenate.com/issues",
-"https://kesslerforsenate.com/meet-dan",
-"https://kesslerforsenate.com/volunteer",
-"https://linktr.ee/dankessler",
-"https://liunaminnesota.org/en",
-"https://mape.org/",
-"https://mn50501.org/",
-"https://mnnurses.org/",
-"https://mnstonewalldfl.org/",
-"https://naswmn.socialworkers.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-minnesota-advocate",
-"https://seiu.org/",
-"https://sierraclub.org/minnesota",
-"https://threads.com/@danielnkessler",
-"https://tiktok.com/@drdankessler",
-"https://youtube.com/@kesslerforsenate"
+{
+"text": "0",
+"href": "https://kesslerforsenate.com/cart"
+},
+{
+"text": "AFSCME",
+"href": "https://afscmemn.org/"
+},
+{
+"text": "Back",
+"href": "https://kesslerforsenate.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://kesslerforsenate.com/contact-us"
+},
+{
+"text": "DFL Environmental Caucus",
+"href": "https://dflec.org/"
+},
+{
+"text": "Donate",
+"href": "https://kesslerforsenate.com/donate"
+},
+{
+"text": "Education Minnesota",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://kesslerforsenate.com/endorsements2026"
+},
+{
+"text": "Events",
+"href": "https://kesslerforsenate.com/events"
+},
+{
+"text": "FAIR Vote MN",
+"href": "https://fairvotemn.org/"
+},
+{
+"text": "FAQ",
+"href": "https://kesslerforsenate.com/faq-1"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://kesslerforsenate.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://kesslerforsenate.com/LearnMore"
+},
+{
+"text": "Friends of the Boundary Waters Action Network",
+"href": "https://friendsaction-bwca.org/"
+},
+{
+"text": "Gallery",
+"href": "https://kesslerforsenate.com/gallery-kesslerforsenate"
+},
+{
+"text": "Home",
+"href": "https://kesslerforsenate.com/"
+},
+{
+"text": "IBEW",
+"href": "https://www.ibew292.org/"
+},
+{
+"text": "IFO50",
+"href": "https://www.ifo.org/"
+},
+{
+"text": "Issues",
+"href": "https://kesslerforsenate.com/issues"
+},
+{
+"text": "Jane Fonda Climate PAC",
+"href": "https://www.janepac.com/"
+},
+{
+"text": "LiUNA Minnesota and North Dakota",
+"href": "https://liunaminnesota.org/en/"
+},
+{
+"text": "MAPE",
+"href": "https://mape.org/"
+},
+{
+"text": "MN 50501",
+"href": "https://mn50501.org/"
+},
+{
+"text": "Meet Dr. Dan Kessler",
+"href": "https://kesslerforsenate.com/meet-dan"
+},
+{
+"text": "Minnesota DFL",
+"href": "https://dfl.org/"
+},
+{
+"text": "Minnesota Nurses Association",
+"href": "https://mnnurses.org/"
+},
+{
+"text": "NASW - MN",
+"href": "https://naswmn.socialworkers.org/"
+},
+{
+"text": "Planned Parenthood Minnesota PAC",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-minnesota-advocate"
+},
+{
+"text": "Request a Yard Sign!",
+"href": "https://kesslerforsenate.com/get-a-yard-sign"
+},
+{
+"text": "SEIU",
+"href": "https://www.seiu.org/"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org/minnesota"
+},
+{
+"text": "Stonewall DFL",
+"href": "https://mnstonewalldfl.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://kesslerforsenate.com/volunteer"
+},
+{
+"text": "[image: A Facebook endorsement graphic for Dan Kessler, a candidate for Minnesota State Senate District 48. The graphic features a logo with a torch and an open book, and the text 'ENDORSES' in large letters. Additional text indicates that the endorsement wa] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=b8kx67gj0ju8jgjres2l4i129hpkyt"
+},
+{
+"text": "[image: A pink and blue endorsement badge for Planned Parenthood 2026, with the word 'Endorsed' in white, stars below, and a background pattern of checkmarks.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=4zfkiifx7igxvik1ux5xif4z69lfnu"
+},
+{
+"text": "[image: A political campaign poster endorsing Dan Kessler for Minnesota State Senate District 48, featuring the MN Nurses Association logo and a message of endorsement, with a blue background and bold white text.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=7kiuiwem1v3rzdzxfvhsunqfa814vu"
+},
+{
+"text": "[image: A political endorsement flyer with a blue background featuring radiating lines. The flyer has a white box with the text \"Council 5\" in blue, a stylized blue star with swooshes, and the word \"AFSCME\" in large green letters. Below, in blue, it says \"We] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=h85jf9l5lxzc7d89c6g0dl9rzaywz2"
+},
+{
+"text": "[image: A political endorsement graphic featuring a shield emblem with a ruler and a sword, with text indicating support for Dan Kessler, a candidate for Minnesota State Senate District 48, endorsed by DFL and Northern Midwest Regional Council of Carpenters.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=lm0sb8qf3x55ag03rs4e2b156yo4s7"
+},
+{
+"text": "[image: Campaign poster endorsing Dan Kessler for Minnesota Senate District 48, featuring a smiling man with glasses and gray hair, wearing a blue plaid shirt, with a background of faint trees and text promoting environmental conservation.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=x4xs8h1pw1ajafqi8zymxxxxk67lkd"
+},
+{
+"text": "[image: Campaign poster featuring a man with glasses and gray hair, promoting Dan Kessler's candidacy for Minnesota State Senate District 48. The background is blue with red, white, and blue text, and includes a gold and black union emblem in the bottom righ] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=jkt7gn6nqdrerbare14yun8wcxipzl"
+},
+{
+"text": "[image: Campaign poster for Dan Kessler, a Minnesota State Senate candidate endorsed by the DFL party, with a blue background and a logo featuring a stylized handshake and the text 'nasw Minnesota,' indicating support from the National Association of Social ] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=mxkp1p7axhlou5jc8njcopsxin33hh"
+},
+{
+"text": "[image: Campaign poster for Dan Kessler, endorsing his candidacy for Minnesota State Senate District 48. Features a logo with an open book and laurel leaves, the text 'Endorses DANKESSLER', and details about the endorsement by DFL Endorsed MN State Senate Di] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=6tbrxmv701mohkrn5dw2xqogu9v9k5"
+},
+{
+"text": "[image: Campaign poster with a smiling older man with gray hair, glasses, and a beard, wearing a blue jacket. The text reads 'Jane Fonda Climate PAC Endorsed 2026' and 'Dan Kessler,' representing a Minnesota State Senate candidate for district 48.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=rxogfipbuluqu0xuj7dn4llveqobi9"
+},
+{
+"text": "[image: Campaign poster with an illustration of a woman wearing a brown hat and sunglasses, raising one arm with a clenched fist. The poster text reads: 'Jane Fonda Climate PAC Endorses Dan Kessler, DFL Endorsed MN State Senate District 48 candidate. Prepare] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=wa8cjzg9gzume5xdlv7ohzrl7v6j26"
+},
+{
+"text": "[image: DFL Environmental Caucus endorsed Dan Kessler, the DFL endorsed Candidate for Minnesota State Senate District 48 in 2026.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=mzf0u63lyvwyd60a7kj8632etqlca8-b3s3t"
+},
+{
+"text": "[image: DR. DAN KESSLER FOR MN SENATE]",
+"href": "https://kesslerforsenate.com/"
+},
+{
+"text": "[image: Gunsense approved Dan Kessler, the DFL endorsed Candidate for Minnesota State Senate District 48 in 2026.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=sg6voltcivzgpcm9rwlh0a6zdslosv-wmp3d"
+},
+{
+"text": "[image: Indivisible Carver County (Copy)] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=u2xyzqwkcjcfii7s9iyjap79pqhdu5-s56zf"
+},
+{
+"text": "[image: MAPE Endorsement (Copy)] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=lqo7z3vy80uoots04975fjqj5slpxa-ctgnl"
+},
+{
+"text": "[image: MN50501 Endorses Dan Kessler, the DFL endorsed Candidate for Minnesota State Senate District 48 in 2026.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=ryew6g2817eosq156zfzhsc1z1nyiy-cc55h"
+},
+{
+"text": "[image: Political campaign graphic for Dan Kessler, a Minnesota State Senate District 48 candidate, endorsed by the Democratic-Farmer-Labor Party. The graphic features a circular emblem with a clenched fist and lightning bolts, and text including 'Local Brot] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=njwl6ofurbr7yuohxt5venvi5u074x"
+},
+{
+"text": "[image: Political campaign graphic for Dr. Dan Kessler running for Minnesota Senate, featuring a map of Minnesota, campaign logo, and endorsements from AFL-CIO.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=bnxry10lb3czd17kh1h43puiqsns69"
+},
+{
+"text": "[image: Political campaign poster endorsing Dan Kessler for Minnesota State Senate District 48, featuring a photo of Dan Kessler and campaign slogans.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=bgzcns04v4wxebdvqv02pvl07vohnl"
+},
+{
+"text": "[image: Political campaign poster endorsing Dan Kessler for Senate District 48 in Minnesota, featuring a photo of Dan Kessler, a graphic of the Minnesota map with a torch symbol, and text indicating endorsement by Pro-Choice Minnesota.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=y4fsnxm6dl49irq8a6brh9bmhdhdb5"
+},
+{
+"text": "[image: Political campaign poster for Dan Kessler, endorsed by DFL, supporting Minnesota State Senate District 48 candidate. The poster has a dark background with blue rays, a purple rectangle in the center, and yellow and white text and graphics.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=u57f9n4238ft3o1epyt8haubzqzw6f"
+},
+{
+"text": "[image: Political campaign poster with a headshot of a man wearing glasses and a plaid shirt, with text that reads 'DFL Endorsed Senate District 48 Candidate Dankesser' on a dark blue background.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=w7aw5dbn6noa2jp4verd2oughvessl-lpref"
+},
+{
+"text": "[image: Portrait of Dan Kessler, a middle-aged man with gray hair and beard, wearing glasses and a blue plaid shirt, smiling. The poster includes text indicating he is a FairVote Minnesota Democracy Champion for Senate District 48.] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=k3yteahe6b0pk0wg5dnxzw6ewrvq04"
+},
+{
+"text": "[image: Sierra Club (Copy)] View fullsize",
+"href": "https://kesslerforsenate.com/endorsements2026?itemId=sierra-club-f879a"
+},
+{
+"text": "[no text]",
+"href": "http://flickr.com/photos/204603896@N07/"
+},
+{
+"text": "[no text]",
+"href": "https://linktr.ee/dankessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kesslerforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/danielnkessler/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@danielnkessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@drdankessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@kesslerforsenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:Dan@KESSLERFORSENATE.COM"
+}
 ]

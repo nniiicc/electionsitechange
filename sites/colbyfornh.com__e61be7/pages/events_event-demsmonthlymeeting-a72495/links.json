@@ -1,26 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Legislative+Preview+2026&dates=20251212T000000Z%2F20251212T013000Z&location=509+South+Street%2C+Bow%2C+NH+03304%2C+United+States",
-"http://maps.google.com/?q=509+South+Street+Bow%2C+NH+03304+United+States",
-"https://bsky.app/profile/colbyfornh.bsky.social",
-"https://colbyfornh.com/",
-"https://colbyfornh.com/cart",
-"https://colbyfornh.com/contact",
-"https://colbyfornh.com/events",
-"https://colbyfornh.com/events/event-demsmonthlymeeting?format=ical",
-"https://colbyfornh.com/events/event-one-cm7tx",
-"https://colbyfornh.com/events/zoom-navigate-to-advocate",
-"https://colbyfornh.com/events?tag=Bow",
-"https://colbyfornh.com/events?tag=Concord",
-"https://colbyfornh.com/events?tag=Democrats",
-"https://colbyfornh.com/events?tag=Hopkinton",
-"https://colbyfornh.com/events?tag=Legislation",
-"https://colbyfornh.com/events?tag=New+Hampshire",
-"https://colbyfornh.com/events?tag=Politics",
-"https://colbyfornh.com/events?tag=State+House",
-"https://colbyfornh.com/legislative-updates",
-"https://colbyfornh.com/policy",
-"https://colbyfornh.com/support",
-"https://colbyfornh.com/takingaction",
-"https://facebook.com/ColbyForNH",
-"https://secure.actblue.com/donate/colby"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=509+south+street+bow%2C+nh+03304+united+states"
+},
+{
+"text": "0",
+"href": "https://colbyfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "Bow",
+"href": "https://colbyfornh.com/events?tag=Bow"
+},
+{
+"text": "Concord",
+"href": "https://colbyfornh.com/events?tag=Concord"
+},
+{
+"text": "Contact",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Democrats",
+"href": "https://colbyfornh.com/events?tag=Democrats"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/colby"
+},
+{
+"text": "Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legislative+Preview+2026&dates=20251212T000000Z%2F20251212T013000Z&location=509+South+Street%2C+Bow%2C+NH+03304%2C+United+States"
+},
+{
+"text": "Hopkinton",
+"href": "https://colbyfornh.com/events?tag=Hopkinton"
+},
+{
+"text": "ICS",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting?format=ical"
+},
+{
+"text": "Legislation",
+"href": "https://colbyfornh.com/events?tag=Legislation"
+},
+{
+"text": "Legislative Updates",
+"href": "https://colbyfornh.com/legislative-updates"
+},
+{
+"text": "New Hampshire",
+"href": "https://colbyfornh.com/events?tag=New+Hampshire"
+},
+{
+"text": "Next Next January 4 ZOOM: Navigate to Advocate: How to Testify Online",
+"href": "https://colbyfornh.com/events/zoom-navigate-to-advocate"
+},
+{
+"text": "Policy",
+"href": "https://colbyfornh.com/policy"
+},
+{
+"text": "Politics",
+"href": "https://colbyfornh.com/events?tag=Politics"
+},
+{
+"text": "Previous Previous November 30 Online Event NH Local Government 101",
+"href": "https://colbyfornh.com/events/event-one-cm7tx"
+},
+{
+"text": "State House",
+"href": "https://colbyfornh.com/events?tag=State+House"
+},
+{
+"text": "Support the Campaign",
+"href": "https://colbyfornh.com/support"
+},
+{
+"text": "Taking Action",
+"href": "https://colbyfornh.com/takingaction"
+},
+{
+"text": "[image: Eleana Colby for State Representative]",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/colbyfornh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColbyForNH"
+}
 ]

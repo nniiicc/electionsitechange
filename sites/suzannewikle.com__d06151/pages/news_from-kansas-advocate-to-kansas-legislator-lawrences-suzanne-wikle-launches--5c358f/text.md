@@ -1,1 +1,3 @@
-From Kansas advocate to Kansas legislator: Lawrence’s Suzanne Wikle launches inaugural term In the News Jan 29 Written By Suzanne Wikle Suzanne Wikle
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE From Kansas advocate to Kansas legislator: Lawrence’s Suzanne Wikle launches inaugural term In the News Jan 29 Written By Suzanne Wikle Suzanne Wikle Previous Previous Medicaid expansion amendments offered by Democrats fail in Kansas Senate, House Next Next Kansas Republicans revive gender-affirming care ban for trans youths Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

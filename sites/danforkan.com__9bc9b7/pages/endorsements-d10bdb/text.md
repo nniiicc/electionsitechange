@@ -1,1 +1,1 @@
-Follow Follow Follow Stay Informed Home Issues Endorsements Media Get Involved Contact Donate Endorsements and Recommendations
+Home Issues Endorsements Media Get Involved Contact Donate Select Page Follow Follow Follow Stay Informed Home Issues Endorsements Media Get Involved Contact Donate Endorsements and Recommendations Paid for by Kansans for Dan Osman - Jennifer Day, Treasurer Political donations are not tax exempt.

@@ -1,10 +1,10 @@
-Well, we all got our postcards this week, and it wasn’t good news for most property owners.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE SHARE THIS POST: Facebook LinkedIn X Email Property Taxes, Again… Well, we all got our postcards this week, and it wasn’t good news for most property owners.
 While the cost of gas, groceries, and nearly everything else in our budgets is going up, so apparently are our property taxes.
 Are taxes like the weather — we complain about them, but there’s really nothing we can do?
 NO!
 The reason you received those cards was to alert you to the increased tax taking by local entities such as your school districts, counties, cities, NRDs, ESUs, Learning Community, and on and on.
 The whole intention of those cards is to get your attention and encourage action!
-I would never incite a violent reaction, but if this was 250 years ago, the villagers would be storming the castle with pitchforks and torches — or, at a minimum, throwing tea into a harbor!
+I would never incite a violent reaction, but if this was #ago, the villagers would be storming the castle with pitchforks and torches — or, at a minimum, throwing tea into a harbor!
 Local property tax collections will never change until taxpayers get mad enough and engaged enough to do something about it.
 Period!
 I am shocked at how many folks I meet that don’t know property taxes are levied at the local level, collected at the local level, and spent at the local level.
@@ -13,8 +13,7 @@ So why is it our problem?
 Because the rules, laws, and regulations about how property taxes are collected and how much they can collect come from lawmakers at the Capitol.
 Years ago, during the invasion of Iraq, Vice President Dick Cheney famously referred to the mess there as the “Pottery Barn Theory”: you break it, you own it.
 Because we “manage the store,” we seem to own the outcome.
-(By the way, a quick search told me that Pottery Barn hates that quote because they have no such policy and they felt it put them in a bad light…)
-It seems no matter the caps that are put in place, no matter the $1.6B in state funds used to essentially buy down your taxes, no matter the billions the state sends for public schools, or the doubling of funding for special education, the locals continue to raise their tax taking — and why shouldn’t they?
+(By the way, a quick search told me that Pottery Barn hates that quote because they have no such policy and they felt it put them in a bad light…) It seems no matter the caps that are put in place, no matter the $1.6B in state funds used to essentially buy down your taxes, no matter the billions the state sends for public schools, or the doubling of funding for special education, the locals continue to raise their tax taking — and why shouldn’t they?
 When OPS did their “road show” two weeks ago to share their budget with the public, only a handful of citizens bothered to show up and share their concerns.
 Historically, the postcard hearings have been similar.
 Is there hope?
@@ -29,5 +28,19 @@ Meanwhile, your voice matters.
 Call, email, or show up at school board, county board, or city council meetings and air your grievances.
 These are real people who are called to serve and want to do good work for their constituents, but they need to hear from you.
 Tune in next week for details.
-Until then, feel free to email me any thoughts or comments at brad.vongillern@leg.ne.gov.
+Until then, feel free to email me any thoughts or comments at brad.vongillern@leg.ne.gov .
 I will be happy to hear from you and reply.
+VOLUNTEER DONATE Contact STAY INFORMED!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe Paid for by: von Gillern for Nebraska 18370 Honeysuckle Drive Elkhorn, NE 68022 www.vongillern4ne.com Facebook Copyright © # von Gillern for Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+JOIN

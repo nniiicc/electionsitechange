@@ -1,9 +1,50 @@
 [
-"https://electmitchclemmons.com/accessibility",
-"https://electmitchclemmons.com/contact",
-"https://electmitchclemmons.com/privacy-policy",
-"https://electmitchclemmons.com/volunteer",
-"https://facebook.com/mitchforcongress?mibextid=ZbWKwL",
-"https://instagram.com/clemmonsmitch",
-"https://secure.anedot.com/elect-mitch-clemmons-872f35e2-190f-4171-a21a-131162f7071d/donate"
+{
+"text": "562-267-9690",
+"href": "tel:5622679690"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://electmitchclemmons.com/accessibility/"
+},
+{
+"text": "Contact",
+"href": "https://electmitchclemmons.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/elect-mitch-clemmons-872f35e2-190f-4171-a21a-131162f7071d/donate"
+},
+{
+"text": "Donate Securely",
+"href": "https://secure.anedot.com/elect-mitch-clemmons-872f35e2-190f-4171-a21a-131162f7071d/donate"
+},
+{
+"text": "Donate via Anedot",
+"href": "https://secure.anedot.com/elect-mitch-clemmons-872f35e2-190f-4171-a21a-131162f7071d/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/mitchforcongress?mibextid=ZbWKwL"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/clemmonsmitch"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electmitchclemmons.com/privacy-policy/"
+},
+{
+"text": "Secure Donation",
+"href": "https://secure.anedot.com/elect-mitch-clemmons-872f35e2-190f-4171-a21a-131162f7071d/donate"
+},
+{
+"text": "Volunteer with Mitch",
+"href": "https://electmitchclemmons.com/volunteer/"
+},
+{
+"text": "info@electmitchclemmons.com",
+"href": "mailto:info@electmitchclemmons.com"
+}
 ]

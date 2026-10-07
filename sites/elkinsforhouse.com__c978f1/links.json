@@ -1,14 +1,74 @@
 [
-"http://facebook.com/ElkinsforHouse",
-"https://docs.google.com/forms/d/e/1FAIpQLSe2bLYF928ODPKIZKKE73oTPwAjVbVg5dKZ1f6pTsZR9lKUXw/viewform?usp=header",
-"https://elkinsforhouse.com/",
-"https://elkinsforhouse.com/endorsements",
-"https://elkinsforhouse.com/get-involved",
-"https://elkinsforhouse.com/home",
-"https://elkinsforhouse.com/issues",
-"https://elkinsforhouse.com/legislation",
-"https://elkinsforhouse.com/meet-steve",
-"https://elkinsforhouse.com/voter-resources",
-"https://secure.actblue.com/donate/bbqbash2026",
-"https://secure.actblue.com/donate/elkins-for-house"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elkins-for-house"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elkinsforhouse.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.elkinsforhouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.elkinsforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.elkinsforhouse.com/issues"
+},
+{
+"text": "Lawn Sign Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe2bLYF928ODPKIZKKE73oTPwAjVbVg5dKZ1f6pTsZR9lKUXw/viewform?usp=header"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.elkinsforhouse.com/meet-steve"
+},
+{
+"text": "Prepared and Paid For By Elkins For House P.O. Box 398061, Edina, MN 55439.",
+"href": "https://www.elkinsforhouse.com/meet-steve"
+},
+{
+"text": "RSVP HERE!",
+"href": "https://secure.actblue.com/donate/bbqbash2026"
+},
+{
+"text": "Steve's Legislation",
+"href": "https://www.elkinsforhouse.com/legislation"
+},
+{
+"text": "Steve’s Legislation",
+"href": "https://www.elkinsforhouse.com/legislation"
+},
+{
+"text": "Volunteer",
+"href": "https://www.elkinsforhouse.com/get-involved"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.elkinsforhouse.com/voter-resources"
+},
+{
+"text": "[image: Elkins 2018 SM version rgb.jpg]",
+"href": "https://www.elkinsforhouse.com/home"
+},
+{
+"text": "[image: Elkins For House]",
+"href": "https://www.elkinsforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/ElkinsforHouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:steve@elkinsforhouse.com"
+},
+{
+"text": "steve@elkinsforhouse.com",
+"href": "mailto:steve@elkinsforhouse.com"
+}
 ]

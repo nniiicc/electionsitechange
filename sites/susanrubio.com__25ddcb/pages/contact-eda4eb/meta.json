@@ -1,7 +1,11 @@
 {
  "description": "Contact Senator Susan Rubio's team any time.",
  "final_url": "https://www.susanrubio.com/contact/",
+ "fingerprint": "3d8cab87b3bd71288116f243d9e5375ef7206624",
+ "format": 3,
  "paid_for_by": "Paid for by Susan Rubio for Senate 2026",
  "title": "Contact",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

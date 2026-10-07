@@ -1,5 +1,1 @@
-top of page
-Jen Mazzocco for State Representative - Pennsylvania House District 42 | House District 42 | Pittsburgh, PA, USA
-Paid for by Friends of Jen Mazzocco
-Privacy Policy | Mobile Privacy Policy | Terms of Use
-bottom of page
+top of page Donate Today Home About Key Issues News Endorsements Contact Yard Signs Menu Close Jen Mazzocco for State Representative - Pennsylvania House District 42 | House District 42 | Pittsburgh, PA, USA Paid for by Friends of Jen Mazzocco info@jenforpa.com Privacy Policy | Mobile Privacy Policy | Terms of Use ​ © # by Friends of Jen Mazzocco ​ Donate Today Home About Key Issues News Endorsements Contact Yard Signs bottom of page

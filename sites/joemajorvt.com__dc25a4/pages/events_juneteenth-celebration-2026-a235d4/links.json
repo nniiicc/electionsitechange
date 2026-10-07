@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Juneteenth+Celebration+2026&dates=20260620T180000Z%2F20260620T200000Z&location=167+Maple+St%2C+Hartford%2C+VT+05001%2C+USA",
-"http://maps.google.com/?q=167+Maple+St+Hartford%2C+VT+05001+USA",
-"http://secure.actblue.com/entity/fundraisers/155469",
-"https://instagram.com/joemajor4vt_state_senate?igsh=MWlvNGV0NXFsZDZyMA%3D%3D",
-"https://joemajorvt.com/",
-"https://joemajorvt.com/about",
-"https://joemajorvt.com/cart",
-"https://joemajorvt.com/contact",
-"https://joemajorvt.com/events",
-"https://joemajorvt.com/events/juneteenth-celebration-2026?format=ical",
-"https://joemajorvt.com/events/senate-candidate-forum",
-"https://joemajorvt.com/events/westons-democratic-committee-meet-and-greet",
-"https://joemajorvt.com/issues-priorities",
-"https://joemajorvt.com/news",
-"https://joemajorvt.com/results",
-"https://secure.actblue.com/entity/fundraisers/155469"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=167+maple+st+hartford%2C+vt+05001+usa"
+},
+{
+"text": "0",
+"href": "https://www.joemajorvt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.joemajorvt.com/about"
+},
+{
+"text": "Actblue.com",
+"href": "http://secure.actblue.com/entity/fundraisers/155469"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemajorvt.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.joemajorvt.com/contact"
+},
+{
+"text": "Donate Here: Act Blue",
+"href": "https://secure.actblue.com/entity/fundraisers/155469"
+},
+{
+"text": "Events",
+"href": "https://www.joemajorvt.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Juneteenth+Celebration+2026&dates=20260620T180000Z%2F20260620T200000Z&location=167+Maple+St%2C+Hartford%2C+VT+05001%2C+USA"
+},
+{
+"text": "Home",
+"href": "https://www.joemajorvt.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.joemajorvt.com/events/juneteenth-celebration-2026?format=ical"
+},
+{
+"text": "Legislative Results",
+"href": "https://www.joemajorvt.com/results"
+},
+{
+"text": "News",
+"href": "https://www.joemajorvt.com/news"
+},
+{
+"text": "Next Next June 27 Windsor County Senate Candidate Forum - Springfield, VT",
+"href": "https://www.joemajorvt.com/events/senate-candidate-forum"
+},
+{
+"text": "Previous Previous June 14 Weston's Democratic Committee Meet and Greet",
+"href": "https://www.joemajorvt.com/events/westons-democratic-committee-meet-and-greet"
+},
+{
+"text": "Priorities",
+"href": "https://www.joemajorvt.com/issues-priorities"
+},
+{
+"text": "[image: Joe Major for Windsor County Senate 2026]",
+"href": "https://www.joemajorvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemajor4vt_state_senate/?igsh=MWlvNGV0NXFsZDZyMA%3D%3D"
+}
 ]

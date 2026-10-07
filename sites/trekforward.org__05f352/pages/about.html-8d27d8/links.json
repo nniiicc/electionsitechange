@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61587914114017",
-"https://instagram.com/phil_barnes_4tn_d35",
-"https://secure.actblue.com/donate/trek-forward",
-"https://trekforward.org/about.html",
-"https://trekforward.org/donate.html",
-"https://trekforward.org/events.html",
-"https://trekforward.org/index.html",
-"https://trekforward.org/issues.html",
-"https://trekforward.org/slater.html",
-"https://trekforward.org/volunteer.html",
-"https://trekforward.org/voting.html",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Legislation"
+{
+"text": "About",
+"href": "https://trekforward.org/about.html"
+},
+{
+"text": "Donate",
+"href": "https://trekforward.org/donate.html"
+},
+{
+"text": "Donate to Trek Forward",
+"href": "https://secure.actblue.com/donate/trek-forward"
+},
+{
+"text": "Events",
+"href": "https://trekforward.org/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61587914114017"
+},
+{
+"text": "Home",
+"href": "https://trekforward.org/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/phil_barnes_4tn_d35/"
+},
+{
+"text": "Issues",
+"href": "https://trekforward.org/issues.html"
+},
+{
+"text": "Search Legislation and Track Bills",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Legislation"
+},
+{
+"text": "Slater's Record",
+"href": "https://trekforward.org/slater.html"
+},
+{
+"text": "Support Phil",
+"href": "https://trekforward.org/donate.html"
+},
+{
+"text": "Volunteer",
+"href": "https://trekforward.org/volunteer.html"
+},
+{
+"text": "Voting",
+"href": "https://trekforward.org/voting.html"
+}
 ]

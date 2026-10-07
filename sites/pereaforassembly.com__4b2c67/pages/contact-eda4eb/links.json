@@ -1,11 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/pereaforcouncil",
-"https://flickr.com/photos/202614184@N08",
-"https://instagram.com/annalisaperea",
-"https://pereaforassembly.com/",
-"https://pereaforassembly.com/endorsements",
-"https://pereaforassembly.com/meet-the-slate",
-"https://secure.actblue.com/donate/annalisa-perea-1",
-"https://vimeo.com/1176302198?share=copy"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/annalisa-perea-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pereaforassembly.com/endorsements"
+},
+{
+"text": "Meet Annalisa",
+"href": "https://www.pereaforassembly.com/meet-the-slate"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Annalisa Perea for Assembly]",
+"href": "https://www.pereaforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/pereaforcouncil"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/202614184@N08/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/annalisaperea"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/1176302198?share=copy"
+}
 ]

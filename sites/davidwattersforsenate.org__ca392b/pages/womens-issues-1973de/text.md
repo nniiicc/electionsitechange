@@ -1,5 +1,4 @@
-Women and Family Issues
-Advocacy for women's issues is a core commitment during Senator Watters' five terms in the Senate.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Women and Family Issues Advocacy for women's issues is a core commitment during Senator Watters' five terms in the Senate.
 The New Hampshire legislature should pass legislation to codify the reproductive rights under Roe.
 It should also ensure that medical professionals and others who assist women from other states who receive abortion services, including medication, shall not be subject to law enforcement actions by other states.
 Senator Watters sponsored and supported important legislation for women’s economic security, rights, and health care, including the Paycheck Fairness Act, “Joshua's Law,” establishing domestic abuse as a discreet crime, backed “red flag” laws to protect victims of domestic violence by removing guns from the hands of abusers, and supported the Clinic Buffer Zone act.
@@ -14,3 +13,6 @@ Senator Watters supported increased funding for schools, USNH, CCSNH, and Career
 He was the prime sponsor of legislation to refocus and strengthen the Governor's Commission on Alcohol and Other Drugs with an effort to fully fund its programs, and he serves as a Senate commissioner.
 He was the prime sponsor of bills to provide a clean and healthy environment for New Hampshire families, with a special emphasis on cutting greenhouse gas pollution, and adaptation to global warming and sea-level rise.
 Senator Watters is a leader in legislation to reduce the use of tobacco and other drugs, working closely with Dover Youth to Youth and other advocates to raise the age for tobacco use to 21, regulate vaping, and increase education on substance use disorders.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

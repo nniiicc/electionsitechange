@@ -1,3 +1,4 @@
-Rep.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Mark Finchem KFNX Interview w/ Bill Brady (11/1/2022) November 3, 2022 Rep.
 Mark Finchem, Republican nominee for Arizona Secretary of State, joins Bill Brady on KFNX’s Pulse of Arizona to discuss Democrat hypocrisy on election fraud, Adrian Fontes’ record of incompetence and maladministration, the role of the Secretary of State in following the law of the legislature, and more.
-Listen now:
+Listen now: Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

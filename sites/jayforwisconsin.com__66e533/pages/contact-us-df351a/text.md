@@ -1,6 +1,4 @@
-By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Jay for Wisconsin.
+Skip to content Home Meet Jay Events Gallery Volunteer Contact Us Home Meet Jay Events Gallery Volunteer Contact Us DONATE NOW info@jayforwisconsin.com search here Contact Us First Name Last Name Mobile Number Email Address (Required) Message (Required) CONTACT INFO 920-450-7591 info@jayforwisconsin.com 1295 N Lake St Neenah WI 54956 JAY FOR WISCONSIN 1295 N Lake St Neenah WI 54956 info@jayforwisconsin.com 920-450-7591 DONATE NOW Paid for by Jay for Wisconsin By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Jay for Wisconsin .
 Message frequency may vary.
 Msg & Data rates may apply.
-Text HELP for help or email: info@jayforwisconsin.com
-@2026 Jay for Wisconsin | All Rights Reserved
-Privacy Policy & Terms & Conditions
+Text HELP for help or email: info@jayforwisconsin.com @2026 Jay for Wisconsin | All Rights Reserved Privacy Policy & Terms & Conditions

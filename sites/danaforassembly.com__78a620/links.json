@@ -1,14 +1,58 @@
 [
-"https://danaforassembly.com/",
-"https://danaforassembly.com/about",
-"https://danaforassembly.com/endorsements",
-"https://danaforassembly.com/issues",
-"https://danaforassembly.com/privacy-policy",
-"https://danaforassembly.com/sobre-los-temas",
-"https://facebook.com/dana4assembly",
-"https://instagram.com/dana4assembly",
-"https://secure.actblue.com/donate/danaforassembly",
-"https://secure.ngpvan.com/YXoxUj6XxkqZhiIvCTGdUQ2",
-"https://secure.ngpvan.com/gneyg2kclU6qb2GZ1_0kiw2",
-"https://twitter.com/dana4assembly"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/danaforassembly"
+},
+{
+"text": "Email Sign Up",
+"href": "https://secure.ngpvan.com/YXoxUj6XxkqZhiIvCTGdUQ2"
+},
+{
+"text": "Email Sign-Up",
+"href": "https://secure.ngpvan.com/YXoxUj6XxkqZhiIvCTGdUQ2"
+},
+{
+"text": "Endorsements",
+"href": "https://danaforassembly.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/dana4assembly/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dana4assembly/"
+},
+{
+"text": "Meet Dana",
+"href": "https://danaforassembly.com/about/"
+},
+{
+"text": "On the Issues",
+"href": "https://danaforassembly.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://danaforassembly.com/privacy-policy/"
+},
+{
+"text": "Sobre los temas",
+"href": "https://danaforassembly.com/sobre-los-temas/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/dana4assembly/"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/gneyg2kclU6qb2GZ1_0kiw2"
+},
+{
+"text": "[image: Dana for Assembly]",
+"href": "https://danaforassembly.com/"
+},
+{
+"text": "[image]",
+"href": "https://danaforassembly.com/about/"
+}
 ]

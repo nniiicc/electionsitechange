@@ -1,10 +1,46 @@
 [
-"https://bedfordnh.gov/491/Election-Information",
-"https://facebook.com/profile.php?id=61591004838004",
-"https://instagram.com/nugentnh",
-"https://linkedin.com/in/nugent-ryan",
-"https://nugentnh.com/",
-"https://nugentnh.com/join-the-team",
-"https://nugentnh.com/voting-info",
-"https://secure.actblue.com/donate/nugentnh"
+{
+"text": "About",
+"href": "https://www.nugentnh.com"
+},
+{
+"text": "Bedford, NH town website",
+"href": "https://www.bedfordnh.gov/491/Election-Information"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nugentnh"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nugentnh.com"
+},
+{
+"text": "Join the Team",
+"href": "https://www.nugentnh.com/join-the-team"
+},
+{
+"text": "Priorities",
+"href": "https://www.nugentnh.com"
+},
+{
+"text": "Voting Info",
+"href": "https://www.nugentnh.com/voting-info"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61591004838004"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/nugentnh/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/nugent-ryan/"
+},
+{
+"text": "[image]",
+"href": "https://www.nugentnh.com"
+}
 ]

@@ -1,10 +1,6 @@
-Rep.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis: This is a Sham Trial by Team Nicole on May 14, 2024 Rep.
 Nicole Malliotakis Speaks Outside New York Supreme Court, New York vs.
 Donald J.
-Trump
-Some initial observations from President Trump’s sham trial at NY Supreme courthouse with Senators @JDVance1 & @TTuberville:
-1.
+Trump Some initial observations from President Trump’s sham trial at NY Supreme courthouse with Senators @JDVance1 & @TTuberville : 1.
 After traveling with him in his motorcade, court officers were ordered to prohibit us from standing with President Trump as he addressed media.
-2.…
-— Nicole Malliotakis (@NMalliotakis) May 13, 2024
-STAND WITH NICOLE
+2.… — Nicole Malliotakis (@NMalliotakis) May 13, 2024 Watch share NEXT ARTICLE Malliotakis Op-Ed: Let’s make sure congestion pricing stays dead PREVIOUS ARTICLE Malliotakis: We continue looking for ways to Ax the Congestion Pricing Tax STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

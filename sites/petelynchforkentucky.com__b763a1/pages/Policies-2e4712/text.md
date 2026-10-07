@@ -1,120 +1,27 @@
-Campaign finance reform, lobbying, and political corruption
-Elected officials should represent the people, not billionaires or corporations.
+Dr.
+Pete Lynch for Kentucky Paid for by Pete Lynch For Kentucky.
+Home Policies Get Involved About Pete Information for Voters Donate      Top Policy Priorities Campaign finance reform, lobbying, and political corruption Elected officials should represent the people, not billionaires or corporations.
 Right now, politicians respond to wealthy donors, not everyday Americans.
-To restore accountability and fairness, we must:
-- Tax every dollar spent on elections above $2,500 per individual or corporation per calendar year at 100%, with revenue funding schools, healthcare, and infrastructure
-- Tax all lobbying spending above $1 million per callendar year at 100%
-- Require candidates to get at least 50% of their funding from small individual contributions; after the second election in which they don't meet that threshold, they must vacate their seat at the end of the term
-- Make all campaign contributions and political spending fully transparent
-- Match small-donor contributions to amplify everyday voters’ voices
-- Ban unlimited donations to super PACs and other mechanisms that let the ultra-wealthy dominate elections
-- Ban all members of Congress from buying or selling individual stocks
-Data centers and AI
-AI and other big tech companies have been buying up rural land for data centers, and they sometimes even do it secretly by forcing the seller to sign non-disclosure agreements (NDAs).
+To restore accountability and fairness, we must: Tax every dollar spent on elections above $2,500 per individual or corporation per calendar year at 100%, with revenue funding schools, healthcare, and infrastructure Tax all lobbying spending above $1 million per callendar year at 100% Require candidates to get at least 50% of their funding from small individual contributions; after the second election in which they don't meet that threshold, they must vacate their seat at the end of the term Make all campaign contributions and political spending fully transparent Match small-donor contributions to amplify everyday voters’ voices Ban unlimited donations to super PACs and other mechanisms that let the ultra-wealthy dominate elections Ban all members of Congress from buying or selling individual stocks Data centers and AI AI and other big tech companies have been buying up rural land for data centers, and they sometimes even do it secretly by forcing the seller to sign non-disclosure agreements (NDAs).
 Their data centers are going to continue drive up energy costs all around the country.
 We need to enact a moratorium blocking the construction of new data centers.
-Then, before any new data center construction can begin, we must:
-- Prohibit the use of NDAs when corporations buy land from individuals and make all land sales for the purpose of building data centers a matter of public record
-- Require data centers to pay the full cost for grid upgrades and expansion
-- Require data centers to rely on on-site energy during peak hours
-- Require data centers to build renewable power generation greater than or equal to their load
-- Require data centers to maintain energy in reserve sufficient to maintain their operations for at least 12 hours without drawing from the local grid
-- Ensure that data centers are only built if their construction is approved by the local community through a majority vote in a process that is open to all adults living in the affected area
-- Conduct independent water and impact studies confirming that the planned data center would have no serious impact on the water supply, environment, farms, animals, or people before construction may begin
-Medicare for All
-Healthcare is a human right, not a privilege.
+Then, before any new data center construction can begin, we must: Prohibit the use of NDAs when corporations buy land from individuals and make all land sales for the purpose of building data centers a matter of public record Require data centers to pay the full cost for grid upgrades and expansion Require data centers to rely on on-site energy during peak hours Require data centers to build renewable power generation greater than or equal to their load Require data centers to maintain energy in reserve sufficient to maintain their operations for at least 12 hours without drawing from the local grid Ensure that data centers are only built if their construction is approved by the local community through a majority vote in a process that is open to all adults living in the affected area Conduct independent water and impact studies confirming that the planned data center would have no serious impact on the water supply, environment, farms, animals, or people before construction may begin Medicare for All Healthcare is a human right, not a privilege.
 Americans pay more than any other country but get far less access.
-To fix our broken system, we must:
-- Provide universal healthcare coverage for all Americans
-- Eliminate out-of-pocket costs for essential services and prescriptions
-- Simplify administration to reduce waste and overhead
-- Ensure care is accessible in rural and underserved areas
-Affordable housing
-Homes should be for families, not profit.
+To fix our broken system, we must: Provide universal healthcare coverage for all Americans Eliminate out-of-pocket costs for essential services and prescriptions Simplify administration to reduce waste and overhead Ensure care is accessible in rural and underserved areas Affordable housing Homes should be for families, not profit.
 Rising costs have put homeownership and renting out of reach for many.
-To make housing more affordable, we must:
-- Ban foreign and hedge fund ownership of single-family homes
-- Cap rent increases for corporate-owned rental properties
-- Limit residential ownership: 25 units per individual, 500 per corporation
-- Provide federal matching funds for individual building their own homes
-Support workers, not billionaires
-The economy should work for everyone.
+To make housing more affordable, we must: Ban foreign and hedge fund ownership of single-family homes Cap rent increases for corporate-owned rental properties Limit residential ownership: 25 units per individual, 500 per corporation Provide federal matching funds for individual building their own homes Support workers, not billionaires The economy should work for everyone.
 Billionaires and large corporations have rigged the system for themselves.
-To restore fairness, we must:
-- Break up corporate monopolies
-- Strengthen workers' bargaining power by repealing Taft-Hartley outright or by passing the PRO Act to amend it
-- Protect gig economy workers and independent contractors
-- Cap CEO compensation at 10x the average worker's pay
-- Implement minimum wages that reflect local living wages, with annual adjustments based on local cost of living changes
-- Raise the corporate tax rate to 50% and use the new tax revenue to fund an United States Profit Dividend, which will be distributed equally among all adult Americans.
-Foreign policy
-America’s foreign policy should serve the people, not corporate interests.
-We must prioritize humanitarian aid, veterans, and domestic investment:
-- Amend the War Powers Resolution to so that only Congress can decide whether to go to war or begin new military engagements
-- End all military aid for offensive purposes
-- Stop funding Israel's military and require all lobbyists that advocate for the interests of foreing countries to register as agents under the FARA
-- Direct foreign aid to food, medicine, and rebuilding communities—not weapons
-- Cover healthcare for all veterans, including prescriptions
-- Redirect savings to American jobs, schools, and infrastructure
-Recreational marijuana legalization
-Prohibition has failed, and Kentucky can lead responsibly.
-Legal marijuana can benefit farmers, communities, and consumers:
-- Provide new income for rural farmers transitioning from tobacco
-- Generate tax revenue for pensions, schools, and rural infrastructure
-- Reduce or eliminate the black market, making products safer
-- Lower prices while keeping the market fairly regulated and taxed
-- Protect users from criminal convictions and employment barriers
-Privacy
-Technology has developed at such a rapid pace that our privacy laws no longer meaningfully protect our privacy.
-We need a federal law to:
-- End the "third-party doctrine" by banning corporations from giving individuals' information law enforcement without a warrant
-- Ban the use of federal grants for Flock or other ALPRs
-- Cut federal highway funding for states and municipalities that use Flock/ALPRs for anything other than tolls
-- Ban federal agencies from buying or accessing commercial ALPR systems
-- Ban data brokers from selling or sharing Americans' geolocations
-- Specific laws I support include the No Flock Act, the Flock Off Act, and the Fourth Amendment Is Not For Sale Act
-Digital Infrastructure for all Kentuckians
-Fast, reliable internet is essential for education, jobs, and community connection.
+To restore fairness, we must: Break up corporate monopolies Strengthen workers' bargaining power by repealing Taft-Hartley outright or by passing the PRO Act to amend it Protect gig economy workers and independent contractors Cap CEO compensation at 10x the average worker's pay Implement minimum wages that reflect local living wages, with annual adjustments based on local cost of living changes Raise the corporate tax rate to 50% and use the new tax revenue to fund an United States Profit Dividend, which will be distributed equally among all adult Americans.
+Foreign policy America’s foreign policy should serve the people, not corporate interests.
+We must prioritize humanitarian aid, veterans, and domestic investment: Amend the War Powers Resolution to so that only Congress can decide whether to go to war or begin new military engagements End all military aid for offensive purposes Stop funding Israel's military and require all lobbyists that advocate for the interests of foreing countries to register as agents under the FARA Direct foreign aid to food, medicine, and rebuilding communities—not weapons Cover healthcare for all veterans, including prescriptions Redirect savings to American jobs, schools, and infrastructure Recreational marijuana legalization Prohibition has failed, and Kentucky can lead responsibly.
+Legal marijuana can benefit farmers, communities, and consumers: Provide new income for rural farmers transitioning from tobacco Generate tax revenue for pensions, schools, and rural infrastructure Reduce or eliminate the black market, making products safer Lower prices while keeping the market fairly regulated and taxed Protect users from criminal convictions and employment barriers Privacy Technology has developed at such a rapid pace that our privacy laws no longer meaningfully protect our privacy.
+We need a federal law to: End the "third-party doctrine" by banning corporations from giving individuals' information law enforcement without a warrant Ban the use of federal grants for Flock or other ALPRs Cut federal highway funding for states and municipalities that use Flock/ALPRs for anything other than tolls Ban federal agencies from buying or accessing commercial ALPR systems Ban data brokers from selling or sharing Americans' geolocations Specific laws I support include the No Flock Act, the Flock Off Act, and the Fourth Amendment Is Not For Sale Act Digital Infrastructure for all Kentuckians Fast, reliable internet is essential for education, jobs, and community connection.
 Too many families still lack access, while corporate data centers profit without accountability.
-We must:
-- Guarantee every Kentuckian access to fast, reliable, and affordable internet
-- Protect users’ personal data: if companies want to monetize user data, individuals must be allowed who opt out, and those who opt in must be financially compensated
-- Expand digital literacy and workforce training programs
-Education and job training for every Kentuckian
-Everyone deserves a fair shot at success.
-From school breakfasts to college or vocational training, we must invest in people:
-- Provide free breakfast for every student in every school
-- Offer 4 years of free public college or 4 years of subsidized vocational training for every young Kentuckian
-- Expand internships, apprenticeships, and job readiness programs
-- Support teachers with competitive pay and resources
-- Incentivize businesses to hire local graduates and apprentices in trades, tech, and healthcare
-Tax the rich, not the poor and middle class
-Fair taxes build a stronger economy and society.
+We must: Guarantee every Kentuckian access to fast, reliable, and affordable internet Protect users’ personal data: if companies want to monetize user data, individuals must be allowed who opt out, and those who opt in must be financially compensated Expand digital literacy and workforce training programs Education and job training for every Kentuckian Everyone deserves a fair shot at success.
+From school breakfasts to college or vocational training, we must invest in people: Provide free breakfast for every student in every school Offer 4 years of free public college or 4 years of subsidized vocational training for every young Kentuckian Expand internships, apprenticeships, and job readiness programs Support teachers with competitive pay and resources Incentivize businesses to hire local graduates and apprentices in trades, tech, and healthcare Tax the rich, not the poor and middle class Fair taxes build a stronger economy and society.
 The ultra-wealthy shouldn’t pay lower rates than hardworking Americans.
-To make the system fair, we must:
-- Count capital gains as income and tax accordingly
-- Exempt the first $25,000 of income from federal taxes
-- Tax billionaires 10% of net worth above $1 billion
-- Lower taxes for households earning under $250,000 and raise rates for those earning over $1 million
-Clean energy and public power for Kentucky families
-Energy should benefit communities, not just corporations.
+To make the system fair, we must: Count capital gains as income and tax accordingly Exempt the first $25,000 of income from federal taxes Tax billionaires 10% of net worth above $1 billion Lower taxes for households earning under $250,000 and raise rates for those earning over $1 million Clean energy and public power for Kentucky families Energy should benefit communities, not just corporations.
 By expanding public power, investing in renewables, and holding large energy users accountable, we can lower bills, create jobs, and strengthen local control.
-To achieve these goals, we must:
-- Expand public power utilities to lower costs and increase local control
-- Invest in solar, wind, and other renewables in rural and underserved areas
-- Provide rebates and incentives for households and small businesses to adopt solar and energy-efficient appliances
-- Modernize the electricity grid for reliability and lower costs
-Criminal justice reform
-The only countries with higher incarceration rates than the United States are El Salvador, Cuba, Rwanda, and Turkmenistan.
+To achieve these goals, we must: Expand public power utilities to lower costs and increase local control Invest in solar, wind, and other renewables in rural and underserved areas Provide rebates and incentives for households and small businesses to adopt solar and energy-efficient appliances Modernize the electricity grid for reliability and lower costs Criminal justice reform The only countries with higher incarceration rates than the United States are El Salvador, Cuba, Rwanda, and Turkmenistan.
 This is largely because we rely far too much on incarceration and not nearly enough on fines.
-To restore our identity as the "Land of the Free," we must:
-- End cash bail
-- Require that no more than 50% of convictions are made through the plea bargaining process
-- Require that at least 50% of convictions do not result in prison, relying instead on fines, community service, and other penalties that are more humane than prison
-- Eliminate three strikes laws
-- Restore voting rights to all convicts who have served their time
-- Only allow employment background checks to flag ex-convicts whose crimes involved stealing from their employer
-- Abolish ICE and replace it with in immigration enforcement organization that respects human life and the rule of law
-- Return voting rights to all felons except those who have been convicted of voter fraud
-- End qualified immunity
-Paid for by Pete Lynch For Kentucky.
+To restore our identity as the "Land of the Free," we must: End cash bail Require that no more than 50% of convictions are made through the plea bargaining process Require that at least 50% of convictions do not result in prison, relying instead on fines, community service, and other penalties that are more humane than prison Eliminate three strikes laws Restore voting rights to all convicts who have served their time Only allow employment background checks to flag ex-convicts whose crimes involved stealing from their employer Abolish ICE and replace it with in immigration enforcement organization that respects human life and the rule of law Return voting rights to all felons except those who have been convicted of voter fraud End qualified immunity Paid for by Pete Lynch For Kentucky.

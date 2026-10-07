@@ -1,7 +1,11 @@
 {
- "description": "I\u2019ll be at North River Bakery in Jacksonville. Come join me for some coffee, delicious baked goods and a chat.",
+ "description": "I’ll be at North River Bakery in Jacksonville. Come join me for some coffee, delicious baked goods and a chat.",
  "final_url": "https://www.ecarrisduncan.com/events/coffee-hour-at-north-river-bakery",
- "paid_for_by": null,
- "title": "Coffee Hour at North River Bakery \u2014 Emily Carris Duncan",
- "years_mentioned": []
+ "fingerprint": "78a3180e943b00d4a4ed7a5ee0255361d7c49c4b",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Coffee Hour at North River Bakery — Emily Carris Duncan",
+ "years_mentioned": [
+  "2025"
+ ]
 }

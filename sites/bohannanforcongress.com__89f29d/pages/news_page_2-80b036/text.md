@@ -1,6 +1,20 @@
-MILLER-MEEKS LETS HEALTH INSURANCE PREMIUMS SKYROCKET, REFUSES TO EXTEND PREMIUM TAX CREDITS
-Despite Bipartisan Support to Extend Credits, Rep.
+Skip to content Christina Bohannan 2026 Meet Christina Priorities News Volunteer Media Kit Donate News Fighting for working people, not Washington insiders December 17th, 2025 MILLER-MEEKS LETS HEALTH INSURANCE PREMIUMS SKYROCKET, REFUSES TO EXTEND PREMIUM TAX CREDITS Despite Bipartisan Support to Extend Credits, Rep.
 Miller-Meeks Sides with Insurance and Drug Companies, Washington Special Interests Iowa City, IA – Today, a discharge petition in the US House received the required number of signatures to force a vote on fully extending the Affordable Care Act.
 Despite Republican support, Rep.
-Miller-Meeks refused to sign, even as […]
-Read More
+Miller-Meeks refused to sign, even as […] Read More November 18th, 2025 BOHANNAN UNVEILS IOWA FIRST REFORM AGENDA Christina Bohannan: “We’ve got to hold the powerful accountable.
+The only way to change Washington is to change the people we send there.” Iowa City, IA – Today, Christina Bohannan introduced an ethics reform plan to hold members of Congress and other federal office holders accountable.
+Just after Rep.
+Mariannette Miller-Meeks voted to cut Medicaid and […] Read More October 15th, 2025 MMM PUTS ARGENTINA AHEAD OF IOWA–YET AGAIN Iowa City, IA – Today, Treasury Secretary Scott Bessent announced his department is working on a plan to “provide an additional $20 billion in financing for Argentina” for a total bailout of $40 billion dollars.
+This plan is yet another serious blow to Iowa farmers, after chaotic tariffs pushed China to buy its soybeans from […] Read More October 7th, 2025 WHEN WILL MILLER-MEEKS HOLD A TOWN HALL?
+MMM: “WHEN HELL FREEZES OVER” Bohannan: “It’s time to stop hiding from Iowans, come forward, and defend your record of higher prices, chaotic tariffs, and special interest, pay-to-play politics.
+It’s time you answered to Iowans for once – not just your Washington special interest donors.” Iowa City, IA – Despite her promise to host in person town halls, a new […] Read More October 1st, 2025 MILLER-MEEKS DOUBLES DOWN ON DOUBLING HEALTH CARE PREMIUMS Iowa City, IA – Rep.
+Mariannette Miller-Meeks and her party bosses have chosen to shut down the government rather than lower skyrocketing health insurance costs for Iowans.
+She recently voted to gut Medicaid and kick more than 100,000 Iowans off their health insurance entirely.
+Now, she’s doubling down on making sure that health insurance premiums […] Read More October 1st, 2025 BOHANNAN RAISES OVER $1.050M IN Q3 Bohannan Continues to Smash Fundraising Records In Iowa Iowa City, IA – Today, Christina Bohannan announced raising over $1.050 million for the third quarter of 2025.
+The amount crushes previous off-year fundraising records for Iowa challengers.
+A top fundraiser in a Toss Up seat, Bohannan represents one of the best flip opportunities in 2026.
+Her […] Read More September 17th, 2025 Miller-Meeks Caught On Tape: “Pharmaceutical Companies Are One That’s Gonna Benefit” From Billionaire Tax Giveaway Big Pharma’s Favorite Congresswoman Continues To Do Their Bidding Iowa City, IA – Congresswoman Mariannette Miller-Meeks, who has taken nearly $350,000 from Big Pharma throughout her political career, and who took a donation from insulin manufacturers on the very same day she voted against capping insulin prices for our seniors, has been bragging about how […] Read More September 16th, 2025 MILLER-MEEKS SIDES WITH PARTY BOSSES AND INCREASES COSTS FOR IOWANS …Yet Again Iowa City, IA – Today, Congresswoman Miller-Meeks voted–for the third time–to protect the tariffs wreaking havoc on Iowa families’ household budgets.
+Despite a number of her Republican colleagues voting against the measure, Miller-Meeks continues to defend chaotic tariffs that increase the cost of everything from construction materials and farming equipment to clothing and […] Read More September 5th, 2025 YET AGAIN, MILLER MEEKS VOTES TO RAISE ENERGY PRICES Rep.
+Miller-Meeks Again Votes With Her Special Interest Donors to Protect Their Profits At the Expense of Higher Costs for Iowans Iowa City, IA – Yesterday, Rep.
+Miller-Meeks voted again to increase energy prices on Iowa’s families.
+Despite electricity prices rising twice as fast as inflation this year, and promises last cycle to bring down […] Read More Posts navigation Previous 1 2 3 Next Meet Christina Priorities News Volunteer Media Kit Donate Instagram Twitter Facebook Paid for by Christina Bohannan For Congress PO Box 722, Iowa City 52244 Privacy Policy Terms of Service Chip in Today!> Help fund Christina’s campaign to bring Iowa values back to Congress > $5 $25 $100 Other X

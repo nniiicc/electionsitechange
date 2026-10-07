@@ -1,31 +1,130 @@
 [
-"https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup",
-"https://dos.fl.gov/elections/for-voters/voting/vote-by-mail",
-"https://duvalelections.gov/222/Electronic-Ballot-Request",
-"https://duvalelections.gov/236/Early-Voting",
-"https://facebook.com/profile.php?id=61555168751860",
-"https://instagram.com/grageforflorida",
-"https://mailchi.mp/53d97fc6239a/volunteer-rachel-grage-for-congress",
-"https://mailchi.mp/ada80f94c51a/grageemails",
-"https://mobilize.us/rachelgrageforcongress",
-"https://rachelgrage.com/",
-"https://rachelgrage4fl.substack.com/",
-"https://registertovoteflorida.gov/home",
-"https://registration.elections.myflorida.com/CheckVoterStatus",
-"https://secure.actblue.com/donate/rachelweb",
-"https://store.rachelgrage.com/",
-"https://store.rachelgrage.com/elect-rachel-grage-navy-baseball-cap",
-"https://store.rachelgrage.com/elect-rachel-grage-unisex-navy-tee",
-"https://store.rachelgrage.com/elect-rachel-grage-unisex-white-tank",
-"https://store.rachelgrage.com/elect-rachel-grage-unisex-white-tee",
-"https://store.rachelgrage.com/grage-against-the-machine-11oz-coffee-mug",
-"https://store.rachelgrage.com/grage-against-the-machine-2-x-2-vinyl-sticker-pack-of-two",
-"https://store.rachelgrage.com/grage-against-the-machine-24-x-18-coroplast-yard-sign",
-"https://store.rachelgrage.com/grage-against-the-machine-7-5-x-3-75-vinyl-bumper-sticker",
-"https://store.rachelgrage.com/grage-against-the-machine-navy-canvas-tote",
-"https://store.rachelgrage.com/grage-against-the-machine-white-baseball-cap",
-"https://store.rachelgrage.com/rachel-grage-grage-against-the-machine-2-25-pin-back-button-combo-pack-of-two",
-"https://votesjc.gov/election-dates",
-"https://votesjc.gov/mail-ballot-request-service",
-"https://youtube.com/@rachelgrageforflorida"
+{
+"text": "Check Voting Status",
+"href": "https://registration.elections.myflorida.com/CheckVoterStatus"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rachelweb"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/rachelweb"
+},
+{
+"text": "Duval County Early Voting Locations",
+"href": "https://www.duvalelections.gov/236/Early-Voting"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/rachelgrageforcongress/"
+},
+{
+"text": "Find my Polling Place",
+"href": "https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "Request A Ballot",
+"href": "https://www.duvalelections.gov/222/Electronic-Ballot-Request"
+},
+{
+"text": "Request A Ballot",
+"href": "https://www.votesjc.gov/mail-ballot-request-service"
+},
+{
+"text": "Shop the Store",
+"href": "https://store.rachelgrage.com/"
+},
+{
+"text": "Sign up for Rachel's Substack",
+"href": "https://rachelgrage4fl.substack.com/"
+},
+{
+"text": "St. Johns County Early Voting Locations",
+"href": "https://www.votesjc.gov/election-dates"
+},
+{
+"text": "Subscribe",
+"href": "https://mailchi.mp/ada80f94c51a/grageemails"
+},
+{
+"text": "Volunteer",
+"href": "https://mailchi.mp/53d97fc6239a/volunteer-rachel-grage-for-congress"
+},
+{
+"text": "Vote by Mail",
+"href": "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/"
+},
+{
+"text": "[image: Get America To Move bumper sticker]",
+"href": "https://store.rachelgrage.com/grage-against-the-machine-7-5-x-3-75-vinyl-bumper-sticker/"
+},
+{
+"text": "[image: Get America To Move yard sign]",
+"href": "https://store.rachelgrage.com/grage-against-the-machine-24-x-18-coroplast-yard-sign/"
+},
+{
+"text": "[image: Grage Gear logo]",
+"href": "https://store.rachelgrage.com/"
+},
+{
+"text": "[image: Rachel Grage campaign mug]",
+"href": "https://store.rachelgrage.com/grage-against-the-machine-11oz-coffee-mug/"
+},
+{
+"text": "[image: Rachel Grage campaign tote bag]",
+"href": "https://store.rachelgrage.com/grage-against-the-machine-navy-canvas-tote/"
+},
+{
+"text": "[image: Rachel Grage for Congress]",
+"href": "https://rachelgrage.com/"
+},
+{
+"text": "[image: Rachel Grage navy T-shirt]",
+"href": "https://store.rachelgrage.com/elect-rachel-grage-unisex-navy-tee/"
+},
+{
+"text": "[image: Rachel Grage navy ball cap]",
+"href": "https://store.rachelgrage.com/elect-rachel-grage-navy-baseball-cap/"
+},
+{
+"text": "[image: Rachel Grage teal campaign pin]",
+"href": "https://store.rachelgrage.com/grage-against-the-machine-2-x-2-vinyl-sticker-pack-of-two/"
+},
+{
+"text": "[image: Rachel Grage white T-shirt]",
+"href": "https://store.rachelgrage.com/elect-rachel-grage-unisex-white-tee/"
+},
+{
+"text": "[image: Rachel Grage white ball cap]",
+"href": "https://store.rachelgrage.com/grage-against-the-machine-white-baseball-cap/"
+},
+{
+"text": "[image: Rachel Grage white campaign pin]",
+"href": "https://store.rachelgrage.com/rachel-grage-grage-against-the-machine-2-25-pin-back-button-combo-pack-of-two/"
+},
+{
+"text": "[image: Rachel Grage white tank top]",
+"href": "https://store.rachelgrage.com/elect-rachel-grage-unisex-white-tank/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555168751860"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/grageforflorida/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@rachelgrageforflorida"
+},
+{
+"text": "rachel@rachelgrage.com",
+"href": "mailto:rachel@rachelgrage.com"
+}
 ]

@@ -1,7 +1,3 @@
-Sign Up Today
-Join the movement.
+Skip navigation menu About Priorities Accomplishments Endorsements Volunteer Contact Donate About Priorities Accomplishments Endorsements Volunteer Contact Donate Sign Up Today Join the movement.
 Together we can send a message that our community will continue to fight for people-powered and people-led change in Albany.
-Skip navigation menu
-Sign Up Today
-Join the movement.
-Together we can send a message that our community will continue to fight for people-powered and people-led change in Albany.
+First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code I Would Like To: Canvass Phone Bank Host An Event I Speak The Following Languages: English Spanish Bangla Other Submit Terms and Conditions Privacy Policy Powered by RUN! website builder PAID FOR BY FRIENDS OF KARINES REYES You need to enable JavaScript to run this app.

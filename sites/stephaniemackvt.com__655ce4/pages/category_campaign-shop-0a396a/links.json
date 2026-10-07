@@ -1,8 +1,42 @@
 [
-"https://stephaniemackvt.com/",
-"https://stephaniemackvt.com/about",
-"https://stephaniemackvt.com/blog",
-"https://stephaniemackvt.com/category/campaign-shop",
-"https://stephaniemackvt.com/event-list",
-"https://stephaniemackvt.com/product-page/ceramic-flower-vase"
+{
+"text": "About",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "All Products",
+"href": "https://www.stephaniemackvt.com/category/campaign-shop"
+},
+{
+"text": "Blog",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Events",
+"href": "https://www.stephaniemackvt.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Mack for House T-ShirtPrice$30.00",
+"href": "https://www.stephaniemackvt.com/product-page/ceramic-flower-vase"
+},
+{
+"text": "Merch",
+"href": "https://www.stephaniemackvt.com/category/campaign-shop"
+},
+{
+"text": "VT HOUSE • CHITTENDEN 24",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "[image][image]Best Seller",
+"href": "https://www.stephaniemackvt.com/product-page/ceramic-flower-vase"
+}
 ]

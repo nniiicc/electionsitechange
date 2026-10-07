@@ -1,6 +1,6 @@
-The League of Women Voters manages one of the nation's best resources for voting information: Vote411.org.
+Meet Claiborne Support News & Events Ideas Vote Contact Donate Linvill Answers on Vote411 The League of Women Voters manages one of the nation's best resources for voting information: Vote411.org .
 The site serves as "a 'one-stop-shop' for election-related information.
 It provides nonpartisan information to the public with both general and state-specific information." The site not only provides polling locations and voter registration information, but it also lists races -- specific to a voter's address -- and answers from candidates of key questions concerning each race.
 Claiborne Linvill provided answers to these questions, which included the topics of data centers, transportation funding, equity in K12 education, the cost of healthcare, and an open-ended question about plans.
-You can read all of Claiborne's answers by visiting www.vote411.org and typing in your address, then scroll to the race "South Carolina State House District 3."
-As of publication date, Linvill's opponent had not submitted answers.
+You can read all of Claiborne's answers by visiting www.vote411.org and typing in your address, then scroll to the race "South Carolina State House District 3." As of publication date, Linvill's opponent had not submitted answers.
+Paid for by Linvill for SC House 3 Privacy Policy | Cookie Policy | site by ALINE, A Marketing Company Meet Claiborne Support Contact Contribute Facebook Instagram Back To Top Error Message &times

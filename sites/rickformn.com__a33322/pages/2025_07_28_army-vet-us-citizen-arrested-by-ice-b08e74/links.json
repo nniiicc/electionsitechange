@@ -1,17 +1,74 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScVDaR-q2eS6A-xzDy0QJZAhVNPaE98iBJcj-OelZyCWepYKA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform",
-"https://facebook.com/rickformn",
-"https://instagram.com/rickformn",
-"https://latimes.com/california/story/2025-07-16/army-vet-detained-for-three-days-after-immigration-raid-calls-for-investigation",
-"https://militarytimes.com/veterans/2025/07/17/veteran-and-us-citizen-arrested-by-ice-warns-it-could-happen-to-anyone",
-"https://politico.com/news/2025/07/11/federal-judge-blocks-roving-immigration-arrests-amid-los-angeles-crackdown-00449914",
-"https://rickformn.com/",
-"https://rickformn.com/about-rick",
-"https://rickformn.com/contact-us",
-"https://rickformn.com/issues",
-"https://rickformn.com/privacy-policy",
-"https://secure.actblue.com/donate/richard-olson-1",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/voting-locations-before-election-day",
-"https://youtube.com/@RickforMN"
+{
+"text": "About Rick",
+"href": "https://rickformn.com/about-rick/"
+},
+{
+"text": "CHIP IN $20 for RICK",
+"href": "https://secure.actblue.com/donate/richard-olson-1"
+},
+{
+"text": "Contact Us",
+"href": "https://rickformn.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/richard-olson-1"
+},
+{
+"text": "Issues",
+"href": "https://rickformn.com/issues/"
+},
+{
+"text": "Lawn Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScVDaR-q2eS6A-xzDy0QJZAhVNPaE98iBJcj-OelZyCWepYKA/viewform"
+},
+{
+"text": "Learn More About Rick Olson",
+"href": "https://rickformn.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickformn.com/privacy-policy/"
+},
+{
+"text": "Rick Olson for State Senate",
+"href": "https://rickformn.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform"
+},
+{
+"text": "Voting Locations",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+},
+{
+"text": "[image: Rick Olson for State Senate]",
+"href": "https://rickformn.com/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/rickformn/"
+},
+{
+"text": "https://www.latimes.com/california/story/2025-07-16/army-vet-detained-for-three-days-after-immigration-raid-calls-for-investigation",
+"href": "https://www.latimes.com/california/story/2025-07-16/army-vet-detained-for-three-days-after-immigration-raid-calls-for-investigation"
+},
+{
+"text": "https://www.militarytimes.com/veterans/2025/07/17/veteran-and-us-citizen-arrested-by-ice-warns-it-could-happen-to-anyone/",
+"href": "https://www.militarytimes.com/veterans/2025/07/17/veteran-and-us-citizen-arrested-by-ice-warns-it-could-happen-to-anyone/"
+},
+{
+"text": "https://www.politico.com/news/2025/07/11/federal-judge-blocks-roving-immigration-arrests-amid-los-angeles-crackdown-00449914",
+"href": "https://www.politico.com/news/2025/07/11/federal-judge-blocks-roving-immigration-arrests-amid-los-angeles-crackdown-00449914"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/rickformn/"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@RickforMN"
+}
 ]

@@ -1,12 +1,16 @@
 {
  "description": "Concerns that are shared by many constituents in a community, such as new developments in traffic, utilities, or other important issues.",
  "final_url": "https://www.jbjennings.com/constituent-corner",
- "paid_for_by": null,
- "title": "Constituent Corner \u2014 Senator J.B. Jennings",
+ "fingerprint": "56ec13d0bf527779c6587a795517d31c3bd3b311",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Constituent Corner — Senator J.B. Jennings",
  "years_mentioned": [
   "2020",
   "2021",
+  "2024",
   "2025",
-  "2026"
+  "2026",
+  "2030"
  ]
 }

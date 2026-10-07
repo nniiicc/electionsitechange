@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.toddforfl4.com/contribute?amount=50",
- "paid_for_by": null,
+ "fingerprint": "9a5bf535dd92c1b3bc0abc14777706ecb767db36",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

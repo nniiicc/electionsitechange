@@ -1,13 +1,50 @@
 [
-"https://facebook.com/robconsalvo",
-"https://instagram.com/reprobconsalvo",
-"https://malegislature.gov/Legislators/Profile/R_C1",
-"https://malegislature.gov/Legislators/Profile/R_C1/Committees",
-"https://secure.actblue.com/donate/rob-consalvo-1",
-"https://twitter.com/RobConsalvo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-"https://voteconsalvo.com/",
-"https://voteconsalvo.com/meet-emily",
-"https://voteconsalvo.com/meet-rob",
-"https://voteconsalvo.com/newsletters",
-"https://youtube.com/@VoteRobConsalvo"
+{
+"text": "Committees",
+"href": "https://malegislature.gov/Legislators/Profile/R_C1/Committees"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rob-consalvo-1"
+},
+{
+"text": "Legislation",
+"href": "https://malegislature.gov/Legislators/Profile/R_C1"
+},
+{
+"text": "Meet Emily",
+"href": "https://www.voteconsalvo.com/meet-emily"
+},
+{
+"text": "Meet Rob",
+"href": "https://www.voteconsalvo.com/meet-rob"
+},
+{
+"text": "Newsletters",
+"href": "https://www.voteconsalvo.com/newsletters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/robconsalvo"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/reprobconsalvo/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/RobConsalvo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@VoteRobConsalvo"
+},
+{
+"text": "[image]",
+"href": "https://www.voteconsalvo.com"
+},
+{
+"text": "rob.consalvo@mahouse.gov",
+"href": "mailto:rob.consalvo@mahouse.gov"
+}
 ]

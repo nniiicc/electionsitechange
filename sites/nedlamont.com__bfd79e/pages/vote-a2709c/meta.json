@@ -1,8 +1,10 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/vote/",
+ "fingerprint": "25c1a744ed3bc401eddd55770451b971078c9a99",
+ "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
- "title": "Vote for Ned LamontFacebookXInstagramBlueskyTikTok",
+ "title": "Vote for Ned Lamont",
  "years_mentioned": [
   "2026"
  ]

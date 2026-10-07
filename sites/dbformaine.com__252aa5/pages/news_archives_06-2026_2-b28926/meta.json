@@ -1,7 +1,17 @@
 {
  "description": "The Center Square covered a proposal in the Maine Legislature to establish a fund helping lawmakers secure their homes following a rise in threats against elected officials. The article referenced LD...",
  "final_url": "https://www.dbformaine.com/news/archives/06-2026/2",
- "paid_for_by": null,
+ "fingerprint": "4930bb68eb0b90eb8fc0f5f68a4ebdc7bfc87c8a",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "Blog Archives - SENATOR DONNA BAILEY",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

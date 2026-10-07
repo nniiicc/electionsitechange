@@ -1,10 +1,2 @@
-New Fairfield Meet the Candidates Event
-Time
-Wednesday, Sep 16, 2026
-6:00 PM – 8:00 PM
-Location
-4 Cottontail Rd, New Fairfield, CT
-About this event
-Location
-4 Cottontail Rd
-New Fairfield, CT
+Meet Melissa Issues Events Volunteer Contribute Events / New Fairfield Meet the Candidates Event New Fairfield Meet the Candidates Event Time Wednesday, Sep 16, 2026 6:00 PM – 8:00 PM Location 4 Cottontail Rd, New Fairfield, CT About this event Location 4 Cottontail Rd New Fairfield, CT Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,11 +1,11 @@
-top of page
-Safeguarding Our Communities
-- Gun violence is a public health crisis.
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events Safeguarding Our Communities ​ Gun violence is a public health crisis.
 Guns are the leading cause of death for American children and teens, tearing our families and communities apart.
 Inaction is unacceptable.
-We need common sense gun reform measures, such as universal background checks, closing loopholes in the background check system, and implementing waiting periods.
--
-- Common Sense Gun Reform: Implement universal background checks, close loopholes, ban
-assault weapons and high-capacity magazines, and invest in community-based violence
-prevention programs, mental health support, and crisis response teams.
-bottom of page
+We need common sense gun reform measures, such as universal background checks, closing loopholes in the background check system, and implementing waiting periods. ​ Common Sense Gun Reform: Implement universal background checks, close loopholes, ban assault weapons and high-capacity magazines, and invest in community-based violence prevention programs, mental health support, and crisis response teams.
+Priorities Providing Equitable Access to High Quality Healthcare Creating Jobs & Supporting Small Business Advancing Social Justice Promoting Educational Opportunity Preserving Reproductive Rights Investing in Families Protecting Our Environment Serving Our Veterans & Seniors J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

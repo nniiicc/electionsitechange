@@ -1,15 +1,62 @@
 [
-"https://account.venmo.com/u/LopezforVA",
-"https://facebook.com/people/Lopez-for-VA/61586824694243",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/lopezforvirginia",
-"https://lopezforva.com/",
-"https://lopezforva.com/about",
-"https://lopezforva.com/my-legislative-proposals",
-"https://paypal.com/donate?hosted_button_id=5BNJE83SP3VCC",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/lopez-for-va/90e53675-676a-4e01-b45f-296c2a31fc46",
-"https://x.com/lopezforva",
-"https://youtube.com/@LopezforVA"
+{
+"text": "About",
+"href": "https://lopezforva.com/about"
+},
+{
+"text": "Campaign@lopezforva.com",
+"href": "mailto:Campaign@lopezforva.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lopez-for-va/90e53675-676a-4e01-b45f-296c2a31fc46"
+},
+{
+"text": "Home",
+"href": "https://lopezforva.com/"
+},
+{
+"text": "My Legislative Proposals",
+"href": "https://lopezforva.com/my-legislative-proposals"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Taner Lopez for the US House of RepresentativesTaner Lopez for the US House of RepresentativesTaner Lopez for the US House of RepresentativesTaner Lopez for the US House of Representatives",
+"href": "https://lopezforva.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://account.venmo.com/u/LopezforVA"
+},
+{
+"text": "[image]",
+"href": "https://www.paypal.com/donate/?hosted_button_id=5BNJE83SP3VCC"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Lopez-for-VA/61586824694243/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lopezforvirginia"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/lopezforva"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LopezforVA"
+}
 ]

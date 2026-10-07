@@ -1,25 +1,7 @@
-Write a letter to the editor of these newspapers for publication explaining why you would like to see James Spillane elected as your State Representative and why others should vote for him as well.
-Concord Monitor
-Email: Concord Monitor
-Snail Mail: Concord Monitor, P.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page Write a Letter Write a letter to the editor of these newspapers for publication explaining why you would like to see James Spillane elected as your State Representative and why others should vote for him as well.
+Concord Monitor Email: Concord Monitor Snail Mail: Concord Monitor, P.
 O.
-Box 177, Concord, NH 03302
-Fax: 603.224.8120
-250 Words
-Forum
-Email: Forum News
-Snail Mail: The Forum, PO Box 476, Deerfield, NH 03037
-Hookset Banner
-Email: Hooksett Banner
-Snail Mail: Neighborhood News Inc.,1662 Elm Street, Suite 100, Manchester, NH 03101
-Fax: 603.206.7810
-Rockingham News
-Email: Rockingham News
-Snail Mail: Rockingham News, PO Box 1104, Hampton, NH 03842
-Fax: 603.772.3830
-Union Leader
-Email: Union Leader
-Snail Mail: UL, Letters to the Editor, P.
+Box 177, Concord, NH 03302 Fax: 603.224.8120 250 Words Forum Email: Forum News Snail Mail: The Forum, PO Box 476, Deerfield, NH 03037 Hookset Banner Email: Hooksett Banner Snail Mail: Neighborhood News Inc.,1662 Elm Street, Suite 100, Manchester, NH 03101 Fax: 603.206.7810 Rockingham News Email: Rockingham News Snail Mail: Rockingham News, PO Box 1104, Hampton, NH 03842 Fax: 603.772.3830 Union Leader Email: Union Leader Snail Mail: UL, Letters to the Editor, P.
 O.
-Box 9555 Manchester, 03108-9555
-200 Words
+Box 9555 Manchester, 03108-9555 200 Words SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

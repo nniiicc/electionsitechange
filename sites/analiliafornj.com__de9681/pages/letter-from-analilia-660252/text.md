@@ -1,5 +1,4 @@
-Why I’m Running
-My name is Analilia Mejia, and I'm running for Congress in New Jersey's 11th District because I believe this moment requires bold and fearless leadership to restore our nation.
+0 Skip to Content Meet Analilia Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English DONATE Open Menu Close Menu Meet Analilia Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English DONATE Open Menu Close Menu Folder: Meet Analilia Back Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English Back DONATE Why I’m Running My name is Analilia Mejia, and I'm running for Congress in New Jersey's 11th District because I believe this moment requires bold and fearless leadership to restore our nation.
 I am the daughter of Colombian and Dominican immigrants — a Jersey girl raised by a strong family who survived hardship with determination, grit, and deep love.
 I'm the daughter of a seamstress and a factory worker who taught me that none of us make it alone and we owe our best to each other.
 I deeply believe in the transformative power of community and that every one of our families deserves access to the building blocks that allow us to thrive.
@@ -29,11 +28,10 @@ Along the way, I fought corruption in both parties — standing up to Governor C
 Now I'm taking that fight to Washington because we need an economy that works for everyone — not just billionaires and big corporations.
 I'm running because many in Washington are selling us out, and plain old "blue no matter who" won't do.
 I'm running because we need more organizers and unbossed champions in Congress, ready to stand against corruption and for our communities.
-Together we can:
-- Hold Trump and his allies accountable for their corruption with all of the power and leverage we have — because no one is above the law.
-- Tax billionaires and big corporations to un-rig our economy and fund what actually matters for our communities.
-- Guarantee universal healthcare and childcare so families stay healthy and can take care of their kids without going into debt.
-- Build a world-class transit system and fix our crumbling infrastructure so we can all spend more time with our families instead of commuting.
+Together we can: Hold Trump and his allies accountable for their corruption with all of the power and leverage we have — because no one is above the law.
+Tax billionaires and big corporations to un-rig our economy and fund what actually matters for our communities.
+Guarantee universal healthcare and childcare so families stay healthy and can take care of their kids without going into debt.
+Build a world-class transit system and fix our crumbling infrastructure so we can all spend more time with our families instead of commuting.
 The system is rigged for billionaires — even those who are so grossly connected to the unfathomable — and we can't fix it by going back to simply the way things were before.
 We need a government that actually works for working people, a government that places people over politics and a leader who opposes special interests who clearly act against the common good.
 I won't take a dime of corporate PAC money, so I won't owe them anything.
@@ -44,3 +42,8 @@ We can build a nation that is kind, fair, and forward-thinking.
 And together, we will.
 My name is Analilia Mejia, and I'm running for Congress to fight for us — because we are worth the fight.
 Become an early supporter and help us build the people-powered campaign New Jersey deserves.
+Analilia Mejía Paid for by Analilia Mejia for New Jersey.
+Copyright #.
+All Rights Reserved.
+Privacy Policy.
+Website Design: Creative Public Works Creative Contributions: Megan Giulianelli, InCurrent Media, Melted Solids, Conexíon, Stampede Creative Press: New Deal Strategies & Leftlane Strategies Contact Us Videos About Analilia Voting Resources News Press Media Center Issues Work with Us

@@ -1,6 +1,4 @@
-By: Michael Martin
-Posted at 4:49 PM, Jun 15, 2021
-and last updated 5:03 PM, Jun 15, 2021
-LANSING, Mich. — Governor Gretchen Whitmer and a group of bipartisan lawmakers held a press conference Tuesday afternoon to unveil a package of bills aimed at increasing access to child care services, particularly for working families.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Child Care Legislation Aims to Grow Access, Create Incentives for Industry By: Michael Martin Posted at 4:49 PM, Jun 15, 2021 and last updated 5:03 PM, Jun 15, 2021 LANSING, Mich. — Governor Gretchen Whitmer and a group of bipartisan lawmakers held a press conference Tuesday afternoon to unveil a package of bills aimed at increasing access to child care services, particularly for working families.
 The governor was joined by state Reps Jack O'Malley, John Roth, Greg VanWoerkom, Julie Calley, Rodney Wakeman, Greg Markkanen, Kelly Breen and Ranjeev Puri.
-Read More >
+Read More > Kelly Breen June 17, 2021 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Bi-partisan legislation introduced to support child care providers, parents Kelly Breen June 24, 2021 Next Bill Extends Foreclosure Avoidance to Commercial Property Kelly Breen June 17, 2021 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

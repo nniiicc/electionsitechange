@@ -1,48 +1,22 @@
-Donna Miller Receives Endorsement from Elect Democratic Women
-Cook County Commissioner Donna Miller, who is running to represent the 2nd Congressional District, is proud to receive the endorsement of Elect Democratic Women.
-This political action committee is made up of current members of Congress who know the leadership qualities needed to serve the people in their respective districts and working families nationwide…
-Donna Miller pitches health care record, local roots in 2nd District primary
-Cook County Commissioner Donna Miller is bringing her long-standing focus on health care equity into a crowded Democratic primary for Illinois’ 2nd Congressional District…
-Miller opens campaign headquarters in Flossmoor
-Donna Miller cut the ribbon on Sunday, Jan. 11, to officially open her campaign headquarters for her effort to win the Illinois 2nd District seat in the U.S.
+0 Skip to Content Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Guest User 1/20/26 Guest User 1/20/26 Donna Miller Receives Endorsement from Elect Democratic Women Cook County Commissioner Donna Miller, who is running to represent the 2nd Congressional District, is proud to receive the endorsement of Elect Democratic Women.
+This political action committee is made up of current members of Congress who know the leadership qualities needed to serve the people in their respective districts and working families nationwide… Read More Guest User 1/15/26 Guest User 1/15/26 Donna Miller pitches health care record, local roots in 2nd District primary Cook County Commissioner Donna Miller is bringing her long-standing focus on health care equity into a crowded Democratic primary for Illinois’ 2nd Congressional District… Read More Guest User 1/15/26 Guest User 1/15/26 Miller opens campaign headquarters in Flossmoor Donna Miller cut the ribbon on Sunday, Jan.
+11, to officially open her campaign headquarters for her effort to win the Illinois 2nd District seat in the U.S.
 House of Representatives currently held by Robin Kelly.
-Her campaign will be operating from 1835 Dixie Highway, Building B, Suite 200, in Flossmoor…
-City of Chicago-Cook County Violence Against Women Task Force Aims to Address Domestic Violence
-A task force aimed at creating safeguards for women who are the victims and survivors of domestic violence was launched on Wednesday, Jan. 7th.
-The City of Chicago-Cook County Violence Against Women Task Force seeks to address the rise in violence against women and their children across Cook County and the city of Chicago…
-NAACP Chicago Far South Suburban branch kicks off youth civic engagement program
-Young people with a passion for democracy can learn about voting rights and become deputy registrars while earning service credit for school with the Civic Ambassadors program from the NAACP Chicago Far South Suburban Branch…
-Miller helps establish task force to reduce violence against women
-Cook County Commissioner Donna Miller led the first meeting of the Chicago-Cook County Task Force to Reduce Violence Against Women on Jan. 7.
-Miller said the task force is an effort to strengthen protections and coordinate solutions for survivors of domestic violence…
-Cook County and Chicago launch new violence against women task force
-New efforts are underway to bring leaders together to focus on the health and safety of women, children, and vulnerable individuals.
-Cook County Commissioner Donna Miller joins us to explain the new Cook County and City of Chicago Violence Against Women Task Force and why addressing domestic violence is a key priority…
-Donna Miller Files Petitions for 2nd Congressional District Seat
-"It feels great!" That is the response Donna Miller expressed after filing petitions for her congressional bid in Springfield.
+Her campaign will be operating from 1835 Dixie Highway, Building B, Suite 200, in Flossmoor… Read More Guest User 1/14/26 Guest User 1/14/26 City of Chicago-Cook County Violence Against Women Task Force Aims to Address Domestic Violence A task force aimed at creating safeguards for women who are the victims and survivors of domestic violence was launched on Wednesday, Jan.
+7th.
+The City of Chicago-Cook County Violence Against Women Task Force seeks to address the rise in violence against women and their children across Cook County and the city of Chicago… Read More Guest User 1/14/26 Guest User 1/14/26 NAACP Chicago Far South Suburban branch kicks off youth civic engagement program Young people with a passion for democracy can learn about voting rights and become deputy registrars while earning service credit for school with the Civic Ambassadors program from the NAACP Chicago Far South Suburban Branch… Read More Guest User 1/8/26 Guest User 1/8/26 Miller helps establish task force to reduce violence against women Cook County Commissioner Donna Miller led the first meeting of the Chicago-Cook County Task Force to Reduce Violence Against Women on Jan.
+7.
+Miller said the task force is an effort to strengthen protections and coordinate solutions for survivors of domestic violence… Read More Guest User 1/5/26 Guest User 1/5/26 Cook County and Chicago launch new violence against women task force New efforts are underway to bring leaders together to focus on the health and safety of women, children, and vulnerable individuals.
+Cook County Commissioner Donna Miller joins us to explain the new Cook County and City of Chicago Violence Against Women Task Force and why addressing domestic violence is a key priority… Read More Guest User 10/28/25 Guest User 10/28/25 Donna Miller Files Petitions for 2nd Congressional District Seat "It feels great!" That is the response Donna Miller expressed after filing petitions for her congressional bid in Springfield.
 The Cook County Commissioner is running for the 2nd Congressional District seat being vacated by U.S.
 Rep.
 Robin Kelly, who is seeking to represent Illinois in the U.S.
-Senate…
-County resolution would establish task force to recommend policies addressing violence against women
-Cook County Comm.
-Donna Miller (D-6) speaks about her Violence Against Women Task Force resolution at a board meeting on Oct. 23, 2025…
-Veterans reassured that County services remain open during federal government shutdown
-On October 10, 2025, Cook County Commissioner Donna Miller joined the Veterans Assistance Commission of Cook County (VACCC) for a press conference at the VACCC offices in Chicago to reaffirm that county-level Veteran services remain open and fully operational despite the ongoing federal government shutdown…
-Miller convenes hearing on maternal morbidity, mortality rates in Cook County
-On Sept. 16, Cook County Commissioner Donna Miller convened a third hearing of the Cook County Board’s Health and Hospitals Committee to hear from stakeholders about ways Illinois can better protect women during and after pregnancy and childbirth…
-Cook County Board to hold hearing on systemic failures in addressing domestic violence
-CBS News Chicago has been investigating the systemic failures that have left survivors at risk.
+Senate… Read More Guest User 10/23/25 Guest User 10/23/25 County resolution would establish task force to recommend policies addressing violence against women Cook County Comm.
+Donna Miller (D-6) speaks about her Violence Against Women Task Force resolution at a board meeting on Oct.
+23, 2025… Read More Guest User 10/11/25 Guest User 10/11/25 Veterans reassured that County services remain open during federal government shutdown On October 10, 2025, Cook County Commissioner Donna Miller joined the Veterans Assistance Commission of Cook County (VACCC) for a press conference at the VACCC offices in Chicago to reaffirm that county-level Veteran services remain open and fully operational despite the ongoing federal government shutdown… Read More Guest User 9/30/25 Guest User 9/30/25 Miller convenes hearing on maternal morbidity, mortality rates in Cook County On Sept.
+16, Cook County Commissioner Donna Miller convened a third hearing of the Cook County Board’s Health and Hospitals Committee to hear from stakeholders about ways Illinois can better protect women during and after pregnancy and childbirth… Read More Guest User 8/10/25 Guest User 8/10/25 Cook County Board to hold hearing on systemic failures in addressing domestic violence CBS News Chicago has been investigating the systemic failures that have left survivors at risk.
 On Tuesday, the Cook County Board of Commissioners will hold a hearing on what needs to be fixed.
-Commissioner Donna Miller (D-6th) is heading the hearings…
-OP-ED - Donna Miller: Cook County's domestic violence court system is broken
-Recently, I organized a Cook County Board meeting that revealed the systemic failures and lack of coordination between government agencies that are affecting victims seeking justice and safeguard within the Circuit Court system.
-This is deeply personal, as my sister was one of the brave survivors who shared their stories…
-Miller’s legislative proposals adopted at national county meeting
-Four legislative initiatives presented by Cook County Commissioner Donna Miller were adopted at the National Association of Counties annual conference in Philadelphia this month.
-Miller was one of 2,000 delegates at the conference…
-Donna Miller's Congressional Race Attracts Endorsers
-In the two weeks since Cook County Commissioner Donna Miller (6th District) launched her congressional campaign, a number of elected officials familiar with her work are endorsing her candidacy.
-Upon Commissioner Miller's announcement of an exploratory committee, a broad coalition of elected officials were encouraging her to run…
-Donna Miller Launches Campaign for Illinois’ 2nd Congressional District, Citing Family Legacy and Health Equity Work
-Cook County Commissioner Donna Miller launched her campaign this week for Illinois’ 2nd Congressional District, releasing a video that ties her run to her family’s legacy of service and her work in county government…
+Commissioner Donna Miller (D-6th) is heading the hearings… Read More Guest User 7/31/25 Guest User 7/31/25 OP-ED - Donna Miller: Cook County's domestic violence court system is broken Recently, I organized a Cook County Board meeting that revealed the systemic failures and lack of coordination between government agencies that are affecting victims seeking justice and safeguard within the Circuit Court system.
+This is deeply personal, as my sister was one of the brave survivors who shared their stories… Read More Guest User 7/27/25 Guest User 7/27/25 Miller’s legislative proposals adopted at national county meeting Four legislative initiatives presented by Cook County Commissioner Donna Miller were adopted at the National Association of Counties annual conference in Philadelphia this month.
+Miller was one of 2,000 delegates at the conference… Read More Guest User 7/24/25 Guest User 7/24/25 Donna Miller's Congressional Race Attracts Endorsers In the two weeks since Cook County Commissioner Donna Miller (6th District) launched her congressional campaign, a number of elected officials familiar with her work are endorsing her candidacy.
+Upon Commissioner Miller's announcement of an exploratory committee, a broad coalition of elected officials were encouraging her to run… Read More Guest User 7/10/25 Guest User 7/10/25 Donna Miller Launches Campaign for Illinois’ 2nd Congressional District, Citing Family Legacy and Health Equity Work Cook County Commissioner Donna Miller launched her campaign this week for Illinois’ 2nd Congressional District, releasing a video that ties her run to her family’s legacy of service and her work in county government… Read More Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

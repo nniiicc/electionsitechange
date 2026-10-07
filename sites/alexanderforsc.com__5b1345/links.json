@@ -1,16 +1,62 @@
 [
-"http://darcosc.com/government/elections_and_registration/index.php",
-"http://florenceco.org/offices/voter-registration",
-"http://scdp.org/",
-"http://schousedems.org/",
-"http://sclbc.org/",
-"http://scstatehouse.gov/maps/house/HD59.pdf",
-"http://scvotes.org/south_carolina_voter_registration_information",
-"https://alexanderforsc.com/",
-"https://facebook.com/alexanderforsc",
-"https://nbcsl.org/",
-"https://scstatehouse.gov/member.php?code=0011363635",
-"https://secure.actblue.com/contribute/page/primary59b",
-"https://twitter.com/_terryalexander",
-"https://wbtw.com/home/hidden-history-rev-terry-alexander-says-faith-dominates-his-life-political-decisions"
+{
+"text": "Darlington County voter and precinct information",
+"href": "http://www.darcosc.com/government/elections_and_registration/index.php"
+},
+{
+"text": "Florence County voter and precinct information",
+"href": "http://florenceco.org/offices/voter-registration/"
+},
+{
+"text": "Map of District 59",
+"href": "http://scstatehouse.gov/maps/house/HD59.pdf"
+},
+{
+"text": "National Black Caucus of State Legislators",
+"href": "https://nbcsl.org/"
+},
+{
+"text": "Rep. Terry Alexander",
+"href": "https://alexanderforsc.com"
+},
+{
+"text": "Rep. Terry Alexander’s SC House of Representatives page",
+"href": "https://www.scstatehouse.gov/member.php?code=0011363635"
+},
+{
+"text": "South Carolina House Democratic Party’s website",
+"href": "http://www.scdp.org/"
+},
+{
+"text": "South Carolina House of Representatives Democratic Caucus website",
+"href": "http://www.schousedems.org/"
+},
+{
+"text": "South Carolina Legislative Black Caucus website",
+"href": "http://www.sclbc.org/"
+},
+{
+"text": "South Carolina voter registration information",
+"href": "http://www.scvotes.org/south_carolina_voter_registration_information"
+},
+{
+"text": "WBTW website",
+"href": "https://www.wbtw.com/home/hidden-history-rev-terry-alexander-says-faith-dominates-his-life-political-decisions/"
+},
+{
+"text": "[image: Rep. Terry Alexander]",
+"href": "https://alexanderforsc.com"
+},
+{
+"text": "[image: alexander-donate]",
+"href": "https://secure.actblue.com/contribute/page/primary59b"
+},
+{
+"text": "[image: alexander-facebook][image: alexander-facebook]",
+"href": "https://www.facebook.com/alexanderforsc/"
+},
+{
+"text": "[image: alexander-twitter]",
+"href": "https://twitter.com/_terryalexander"
+}
 ]

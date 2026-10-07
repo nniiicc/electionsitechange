@@ -1,7 +1,30 @@
 [
-"http://pickettforidaho.com/",
-"https://facebook.com/profile.php?id=100076323151884",
-"https://pickettforidaho.com/",
-"https://pickettforidaho.com/privacy-policy",
-"https://secure.winred.com/pickett-for-idaho-house/donate-today"
+{
+"text": "About Doug",
+"href": "http://pickettforidaho.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/pickett-for-idaho-house/donate-today"
+},
+{
+"text": "Issues",
+"href": "http://pickettforidaho.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pickettforidaho.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "http://pickettforidaho.com/#volunteer"
+},
+{
+"text": "[image: Doug Pickett for Idaho House]",
+"href": "https://pickettforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100076323151884+"
+}
 ]

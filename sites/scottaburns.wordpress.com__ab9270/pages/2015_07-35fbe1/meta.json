@@ -1,9 +1,19 @@
 {
  "description": "1 post published by Scott Burns for State Representative during July 2015",
  "final_url": "https://scottaburns.wordpress.com/2015/07/",
- "paid_for_by": null,
+ "fingerprint": "afad788e957d4c602eefaf38f00ebf0ca82b912a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "July | 2015 | scottaburns",
  "years_mentioned": [
-  "2015"
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2018",
+  "2020",
+  "2022",
+  "2026"
  ]
 }

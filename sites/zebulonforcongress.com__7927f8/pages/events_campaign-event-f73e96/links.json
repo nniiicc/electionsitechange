@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260227T233000Z%2F20260228T013000Z&location=650+West+Easterday+Avenue%2C+Sault+Ste.+Marie%2C+MI%2C+49783%2C+United+States",
-"http://maps.google.com/?q=650+West+Easterday+Avenue+Sault+Ste.+Marie%2C+MI%2C+49783+United+States",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/campaign-event?format=ical",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=650+west+easterday+avenue+sault+ste.+marie%2C+mi%2C+49783+united+states"
+},
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260227T233000Z%2F20260228T013000Z&location=650+West+Easterday+Avenue%2C+Sault+Ste.+Marie%2C+MI%2C+49783%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/campaign-event?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next March 4 Online Town Hall/Q&A",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous February 18 Online Town Hall/Q&A",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+}
 ]

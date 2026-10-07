@@ -1,7 +1,9 @@
 {
  "description": "Official campaign site for Joe Powers, candidate for Georgia State House.",
  "final_url": "https://joepowersforga.com/joepowers/",
- "paid_for_by": null,
+ "fingerprint": "7809639d55e1a657894669359c06b245aded79c1",
+ "format": 3,
+ "paid_for_by": "authorized by Joseph A",
  "title": "Joe Powers for Georgia",
  "years_mentioned": []
 }

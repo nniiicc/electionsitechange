@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.hamiltonfortexas.com/amr",
- "paid_for_by": null,
+ "fingerprint": "377b7cb33f997004976b718650e7daf76ce402e1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Andres Masters Research",
  "years_mentioned": [
+  "1996",
   "2016",
   "2024"
  ]

@@ -1,9 +1,38 @@
 [
-"https://cathyforalaska.com/",
-"https://cathyforalaska.com/contact",
-"https://cathyforalaska.com/faq",
-"https://cathyforalaska.com/issues",
-"https://cathyforalaska.com/meet-cathy",
-"https://elections.alaska.gov/election-information",
-"https://secure.anedot.com/giessel-foralaska/website"
+{
+"text": "Contact",
+"href": "https://cathyforalaska.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/giessel-foralaska/website"
+},
+{
+"text": "ELECTION INFORMATION",
+"href": "https://www.elections.alaska.gov/election-information/"
+},
+{
+"text": "FAQ",
+"href": "https://cathyforalaska.com/faq/"
+},
+{
+"text": "Issues",
+"href": "https://cathyforalaska.com/issues/"
+},
+{
+"text": "Meet Cathy",
+"href": "https://cathyforalaska.com/meet-cathy/"
+},
+{
+"text": "STATEWIDE POLLING LOCATIONS",
+"href": "https://secure.anedot.com/giessel-foralaska/website"
+},
+{
+"text": "Volunteer",
+"href": "https://cathyforalaska.com/contact/#volunteer-form"
+},
+{
+"text": "[image]",
+"href": "https://cathyforalaska.com"
+}
 ]

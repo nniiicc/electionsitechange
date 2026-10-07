@@ -1,10 +1,50 @@
 [
-"https://facebook.com/Sarah4WA",
-"https://sarah4wa.com/endorsements.html",
-"https://sarah4wa.com/index.html",
-"https://sarah4wa.com/join-us.html",
-"https://sarah4wa.com/media.html",
-"https://sarah4wa.com/privacy.html",
-"https://sarah4wa.com/terms.html",
-"https://secure.anedot.com/friends-of-sarah-mittelman/donate"
+{
+"text": "Articles & Videos",
+"href": "https://www.sarah4wa.com/media.html"
+},
+{
+"text": "Become a Supporter",
+"href": "https://www.sarah4wa.com/join-us.html"
+},
+{
+"text": "Community Support",
+"href": "https://www.sarah4wa.com/endorsements.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-sarah-mittelman/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Sarah4WA"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/Sarah4WA"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sarah4wa.com/join-us.html"
+},
+{
+"text": "Meet Sarah",
+"href": "https://www.sarah4wa.com/index.html#about"
+},
+{
+"text": "Priorities",
+"href": "https://www.sarah4wa.com/index.html#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sarah4wa.com/privacy.html"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.sarah4wa.com/terms.html"
+},
+{
+"text": "[image: Sarah Mittelman for State Representative logo]",
+"href": "https://www.sarah4wa.com/index.html"
+}
 ]

@@ -1,15 +1,8 @@
-Restore trust that government is working for you
-Transparent & Accountable Government
-- Hold local and state officials accountable to the people they represent
-- Ensure full transparency in development decisions and public infrastructure planning
-- Strengthen open, accessible, and accountable decision-making for major public projects
-- Protect community voice in all major government decisions through clear and open processes
-No More Corporate Money & Influence in Lansing
-Michigan voters deserve better than the same old political machine with a different name on the ballot.
+Skip navigation menu Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Data Centers Housing Access Healthcare Local Economies Rural Character Transparent & Accountable Government Public Education Infrastructure Restore trust that government is working for you Transparent & Accountable Government Hold local and state officials accountable to the people they represent Ensure full transparency in development decisions and public infrastructure planning Strengthen open, accessible, and accountable decision-making for major public projects Protect community voice in all major government decisions through clear and open processes Watch Video No More Corporate Money & Influence in Lansing Michigan voters deserve better than the same old political machine with a different name on the ballot.
 For too long, Lansing has operated on a simple formula: wealthy donors, corporations, industry PACs and political insiders put money into campaigns, candidates get elected, and the system stays the same.
 Rachel Crowther is running to break that cycle in her bid to become the State Representative for House District 90.
 Rachel is committed to keeping corporate money out of politics, starting with her grassroots campaign that is accepting no corporate donations or PAC contributions.
-Her opponent, Lynn Afendoulis, calls her campaign grassroots.
+Her opponent, Lynn Afendoulis , calls her campaign grassroots.
 But her campaign funding history tells a different story, one of corporate and utility special interests.
 Afendoulis' 2022 failed House campaign reported approximately $360,000 in contributions, including $10,500 contributions from several major political committees, $5,000 from the Michigan Oil & Gas PAC and additional contributions from the billionaire members of well-known West Michigan families.
 That's not the kind of grassroots model Rachel is talking about.
@@ -38,3 +31,5 @@ No corporate PACs.
 No political machine.
 No billionaire agenda.
 Just people-first leadership for the people who live, work and raise their families here.
+Contact: info@rachelcrowthermi.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Crowther for State Representative P.O.
+Box 342 Rockford, MI 49341 You need to enable JavaScript to run this app.

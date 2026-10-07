@@ -1,8 +1,30 @@
 [
-"https://secure.actblue.com/donate/timsforohio",
-"https://timsforohio.com/",
-"https://timsforohio.com/about",
-"https://timsforohio.com/cart",
-"https://timsforohio.com/contact-us",
-"https://timsforohio.com/issues"
+{
+"text": "0",
+"href": "https://www.timsforohio.com/cart"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.timsforohio.com/contact-us"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/timsforohio"
+},
+{
+"text": "HOME",
+"href": "https://www.timsforohio.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.timsforohio.com/issues"
+},
+{
+"text": "MEET DESIREE",
+"href": "https://www.timsforohio.com/about"
+},
+{
+"text": "[image: TIMS FOR OHIO]",
+"href": "https://www.timsforohio.com/"
+}
 ]

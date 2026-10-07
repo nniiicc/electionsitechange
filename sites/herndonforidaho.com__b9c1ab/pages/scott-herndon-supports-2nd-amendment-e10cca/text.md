@@ -1,4 +1,5 @@
-Scott Herndon has defended the 2nd Amendment.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Scott Herndon stands up for the 2nd Amendment Nov 1, 2022 | Legislative News , Policy Analysis Scott Herndon has defended the 2nd Amendment.
 For decades a music festival has occurred annually in the city of Sandpoint.
 The concerts are held on public property in a city owned park.
 In 2019, the Festival at Sandpoint banned firearm carry as a condition of entry and implemented body scan wands and a search of concertgoers’ possessions in order to screen out lawfully carried firearms.
@@ -30,3 +31,5 @@ The lawsuit is exactly what the judicial system is designed for – to test whet
 Republican Scott Herndon cares about the constitution and the rule of law, which is why he got involved in this situation and this suit.
 Benjamin Franklin said we have a Republic “if we can keep it”.
 As he has in the past, Scott Herndon will work tirelessly to keep the republic.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

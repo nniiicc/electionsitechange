@@ -1,5 +1,18 @@
 [
-"https://facebook.com/profile.php?id=100089088587214",
-"https://secure.anedot.com/committee-to-elect-phelps/7bd1196f-c4aa-48b8-b892-5af1fcd383a8",
-"https://voteforphelps.com/"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-phelps/7bd1196f-c4aa-48b8-b892-5af1fcd383a8"
+},
+{
+"text": "FOLLOW ON FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=100089088587214"
+},
+{
+"text": "[image: Phelps Logo Blue Background.png]",
+"href": "https://www.voteforphelps.com"
+},
+{
+"text": "brandon@voteforphelps.com",
+"href": "mailto:brandon@voteforphelps.com"
+}
 ]

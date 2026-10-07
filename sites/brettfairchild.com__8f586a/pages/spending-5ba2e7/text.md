@@ -1,5 +1,5 @@
-Spending
-Since I’ve been in the state legislature, I’ve been a strong advocate of fiscal responsibility.
+Skip to content Fairchild for Freedom Pro Life | Pro Liberty Menu Home About Me Issue Positions Abortion Agriculture Budgetary Issues Civil Liberties Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes KS State Rep., Dist.
+113 Donate Get Involved Newsletter Spending Home Abortion Agriculture Budgetary Issues Civil Liberties Direct Ballot Initiatives Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes Since I’ve been in the state legislature, I’ve been a strong advocate of fiscal responsibility.
 I’ve voted against budgets that I believe are fiscally irresponsible, as well as other spending bills.
 A couple years ago, the Kansas legislature passed the worst bill that I’ve seen since I’ve been in the state legislature.
 This bill was House Sub for SB 347, known as the Attracting Powerful Economic Expansion Act.
@@ -15,4 +15,4 @@ In addition, I believe that state spending could be reduced by reducing the numb
 The number of state workers are about 28% higher than the national average, per capita.
 I believe that we could reduce the total number of state workers through attrition, without even having to lay anyone off.
 Whenever a state employee retires, if we find that it’s not absolutely necessary to replace that employee, then that employee simply shouldn’t be replaced.
-We can then reduce the size of the state workforce over time through attrition, and as a result we’ll reduce the size and scope of our state government.
+We can then reduce the size of the state workforce over time through attrition, and as a result we’ll reduce the size and scope of our state government. © # Fairchild For Freedom Website Design by Atlas Marketing Solutions

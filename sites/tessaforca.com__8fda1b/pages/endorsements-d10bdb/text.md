@@ -1,34 +1,8 @@
-“As Councilmember for the City of Lancaster, I strongly support Tessa Lynn Hodge for Congress!”
-Skip navigation menu
-We are strongly supporting
-Tessa Lynn Hodge for Congress
-Dozens of local organizations and leaders are standing together!
-International Brotherhood of Teamsters
-Teamsters Local 1932
-United Food
-and Commercial Workers
-UFCW Local 1167
-National Security Leaders for America
-Nearly 1,600 retired generals, admirals, and other national security leaders
-Pete Aguilar
-U.S.
-Representative
-Track AIPAC
-Tessa has rejected
-all AIPAC funding
-Tom Umberg
-Senator
-Dr.
-Corey Jackson
-Assemblymember
-John Harabedian
-Assemblymember
-Ulises Cabrera
-Mayor
-“As Councilmember for the City of Lancaster, I strongly support Tessa Lynn Hodge for Congress!”
-Cedric white
-more endorsers
-Elected Officials
-Organizations
-and Commercial Workers
-all AIPAC funding
+Skip navigation menu About Issues Endorsements Knock doors with us!
+Contact Donate Endorsements About Issues Endorsements Knock doors with us!
+Contact Donate Endorsements We are strongly supporting Tessa Lynn Hodge for Congress Dozens of local organizations and leaders are standing together!
+International Brotherhood of Teamsters Teamsters Local 1932 United Food and Commercial Workers UFCW Local 1167 National Security Leaders for America Nearly 1,600 retired generals, admirals, and other national security leaders Pete Aguilar U.S.
+Representative Track AIPAC Tessa has rejected all AIPAC funding Tom Umberg Senator Dr.
+Corey Jackson Assemblymember John Harabedian Assemblymember Ulises Cabrera Mayor “As Councilmember for the City of Lancaster, I strongly support Tessa Lynn Hodge for Congress! ” Cedric white more endorsers Elected Officials Congressman Pete Aguilar Senator Tom Umberg Assemblymember Dr.
+Corey Jackson Assemblymember John Harabedian Moreno Valley Mayor Ulises Cabrera Big Bear Lake Mayor Randall Putz Lancaster City Councilmember Cedric White Riverside City Councilmember Clarissa Cervantes San Juan Capistrano Councilmember Sergio Farias DNC Member Joe Salas and many more!
+Organizations National Security Leaders of America Equality California California Democratic Party Teamsters Local 1932 UFCW Local 1167 San Bernardino County Young Democrats Democratic Club of Big Bear Valley Democrats of the Morongo Basin Redlands Area Democratic Club Southern California Armenian Democrats Students First Political Action Contact us: info@tessaforca.com Powered by RUN! website builder Paid for by Tessa Lynn Hodge for Congress You need to enable JavaScript to run this app.

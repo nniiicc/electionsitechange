@@ -1,57 +1,15 @@
-PRESS RELEASE
-EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General
-December 1, 2025
-Media Contact: Aron Johnson
-Phone: 252-458-6917, Email: Press@jenaforcolorado.com
-EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General
-Campaign continues to gain momentum
-Denver, CO — EMILYs List, the nation’s leading organization supporting pro-choice Democratic women for office, along with more than 30 other Colorado leaders and organizations, have endorsed Jena Griswold’s campaign for Colorado Attorney General.
+Skip navigation menu About Issues Endorsements Volunteer Contact News Campaign Shop Donate About Issues Endorsements Volunteer Contact News Campaign Shop Donate PRESS RELEASE Griswold campaign releases campaign ad PRESS RELEASE Poll Shows Griswold with dominant position in Democratic Attorney General Primary PRESS RELEASE EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General PRESS RELEASE ICYMI: Secretary Griswold on MSNBC PRESS RELEASE ICYMI: Jena Griswold Fights Trump’s “direct attack” on Democracy PRESS RELEASE Griswold announces 40 more endorsements in bid for attorney general PRESS RELEASE Griswold Breaks Fundraising record PRESS RELEASE New Poll Shows Griswold with Commanding Lead PRESS RELEASE Griswold announces 30 new endorsements PRESS RELEASE Griswold Campaign Sees Unprecedented Momentum in First 24 Hours PRESS RELEASE Jena Griswold Launches Campaign for Attorney General Dec 1 2025 PRESS RELEASE EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General December 1, 2025 Media Contact: Aron Johnson Phone: 252-458-6917, Email: Press@jenaforcolorado.com EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General Campaign continues to gain momentum Denver, CO — EMILYs List, the nation’s leading organization supporting pro-choice Democratic women for office, along with more than 30 other Colorado leaders and organizations, have endorsed Jena Griswold’s campaign for Colorado Attorney General.
 Joining EMILYs List are the Colorado Building and Construction Trades Council, the Colorado Professional Firefighters, and State Senator Tony Exum.
 Griswold has now earned more than 220 endorsements, including over 150 current and former elected officials, 29 sitting state legislators, 23 current and former county commissioners, dozens of mayors and other municipal leaders, and 17 labor unions.
 President of EMILYs List Jessica Mackler said, “Jena Griswold is running for attorney general to protect Coloradans from the Trump Administration’s chaotic and cruel attacks.
 As secretary of state, she has emerged as a fierce defender of our democracy and one of the strongest voices pushing back against Donald Trump and MAGA extremists.
-EMILYs List is proud to endorse her in the race to become Colorado’s first Democratic woman attorney general, and we look forward to standing with her in this election fight.”
-Kevin Reichenbach, President of the Colorado Professional Firefighters said, “Jena Griswold has been a great partner and supporter of firefighters as Secretary of State and we know she will continue to fight for workers as Attorney General.
-The Colorado Professional Fire Fighters are proud to join unions around the state supporting Jena Griswold for Attorney General.”
-“Under Secretary Jena Griswold’s leadership, Colorado has become the gold standard for elections and ensuring everyone has safe, convenient access to the ballot,” said End Citizens United President Tiffany Muller.
+EMILYs List is proud to endorse her in the race to become Colorado’s first Democratic woman attorney general, and we look forward to standing with her in this election fight.” Kevin Reichenbach, President of the Colorado Professional Firefighters said, “Jena Griswold has been a great partner and supporter of firefighters as Secretary of State and we know she will continue to fight for workers as Attorney General.
+The Colorado Professional Fire Fighters are proud to join unions around the state supporting Jena Griswold for Attorney General.” “Under Secretary Jena Griswold’s leadership, Colorado has become the gold standard for elections and ensuring everyone has safe, convenient access to the ballot,” said End Citizens United President Tiffany Muller.
 “In the face of unprecedented attacks on voting rights, she’s been on the front lines defending people’s voices in our democracy and making sure elections are free, fair, and accessible to everyone.
-She will bring her pragmatic leadership to the Attorney General’s office, and we are proud to endorse her.”
-“It’s an incredible honor to have earned the support of EMILYs List and these incredible leaders from across our state,” said Jena Griswold.
+She will bring her pragmatic leadership to the Attorney General’s office, and we are proud to endorse her.” “It’s an incredible honor to have earned the support of EMILYs List and these incredible leaders from across our state,” said Jena Griswold.
 “I’m running for Attorney General because Colorado needs a strong, proven leader in this critical moment.
-That’s why as Attorney General, I will stand up to Donald Trump to protect our rights and freedoms, defend the Colorado way of life, and fight for fairness and justice.”
+That’s why as Attorney General, I will stand up to Donald Trump to protect our rights and freedoms, defend the Colorado way of life, and fight for fairness and justice.” To date, Jena Griswold has raised more than $1.2 million, with over 10,000 individual contributions from 5,900 donors and the lowest donation average.
 Griswold is also polling ahead of her closest opponent by 34 points and earning nearly three times as much support as all of the other candidates combined.
-New Campaign Endorsements:
-Organizations & Labor Unions:
-- EMILYs List
-- End Citizens United
-- Colorado Professional Firefighters
-- Western Carpenters
-- Democratic Association of Secretaries of State (DASS)
-- Colorado Building and Construction Trades Council
-- AFGE Local 1169
-- Denver Firefighters
-- National Letter Carriers 229
-- Denver Ministerial Alliance
-- VoteMAMA
-Elected Officials & Former Officials
-- Michael Carter, Colorado State Representative
-- Tony Exum, Colorado State Senator
-- Alex Valdez, Colorado State Representative
-- Kevin Priola, Former Colorado State Senator
-- Mayor Dana Greene, Leadville
-- Michael Lavey, Former Mayor of Cortez
-- Julie Field, Retired Colorado District Court Judge (JD-8)
-- John Alge, Thornton City Council Member-Elect
-- Geoffrey Grimmer, Eagle Town Council
-- Tom McCracken, Saguache County Commissioner
-- Patti Clapper, Pitkin County Commissioner
-- Jodie Hartman-Ball, Clear Creek County Commissioner
-- Jody Shadduck-McNally, Larimer County Commissioner
-- Kristy McFarland, Former Crested Butte Assessor
-- Robert Eber, Cherry Hills Village Councilman and Former CO Senior Assistant Attorney General
-- Shirley Gonzales, Durango City Council
-- Erika Brown, Durango School Board
-- Marlene De La Rosa, Denver School Board
-Community Leaders
-- Jennifer Flipowski
-- Alice Bush, Former Senate District 16 Chair
+New Campaign Endorsements: Organizations & Labor Unions: EMILYs List End Citizens United Colorado Professional Firefighters Western Carpenters Democratic Association of Secretaries of State (DASS) Colorado Building and Construction Trades Council AFGE Local 1169 Denver Firefighters National Letter Carriers 229 Denver Ministerial Alliance VoteMAMA Elected Officials & Former Officials Michael Carter, Colorado State Representative Tony Exum, Colorado State Senator Alex Valdez, Colorado State Representative Kevin Priola, Former Colorado State Senator Mayor Dana Greene, Leadville Michael Lavey, Former Mayor of Cortez Julie Field, Retired Colorado District Court Judge (JD-8) John Alge, Thornton City Council Member-Elect Geoffrey Grimmer, Eagle Town Council Tom McCracken, Saguache County Commissioner Patti Clapper, Pitkin County Commissioner Jodie Hartman-Ball, Clear Creek County Commissioner Jody Shadduck-McNally, Larimer County Commissioner Kristy McFarland, Former Crested Butte Assessor Robert Eber, Cherry Hills Village Councilman and Former CO Senior Assistant Attorney General Shirley Gonzales, Durango City Council Erika Brown, Durango School Board Marlene De La Rosa, Denver School Board Community Leaders Jennifer Flipowski Alice Bush, Former Senate District 16 Chair Privacy Policy Powered by RUN! website builder Paid for by Jena for Colorado.
+Registered Agent Rachel Gordon.
+You need to enable JavaScript to run this app.

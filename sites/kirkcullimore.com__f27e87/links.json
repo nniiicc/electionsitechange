@@ -1,12 +1,74 @@
 [
-"https://kirkcullimore.com/",
-"https://kirkcullimore.com/donate",
-"https://kirkcullimore.com/meet-kirk",
-"https://kirkcullimore.com/real-results",
-"https://kirkcullimore.com/real-results-businesses",
-"https://kirkcullimore.com/real-results-families",
-"https://kirkcullimore.com/real-results-future",
-"https://kirkcullimore.com/real-results-kids",
-"https://kirkcullimore.com/real-results-safe-communities",
-"https://kirkcullimore.com/real-results-taxpayers"
+{
+"text": "Donate",
+"href": "https://kirkcullimore.com/donate/"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/search/?api=1&query=Union+Middle+School+615+E+8000+S+Sandy+UT+84070"
+},
+{
+"text": "Home",
+"href": "https://kirkcullimore.com"
+},
+{
+"text": "Read Kirk's Story",
+"href": "https://kirkcullimore.com/meet-kirk/"
+},
+{
+"text": "Real Results",
+"href": "https://kirkcullimore.com/real-results/"
+},
+{
+"text": "Real Results for Safer Communities",
+"href": "https://kirkcullimore.com/real-results-safe-communities/"
+},
+{
+"text": "Real Results for Utah Businesses",
+"href": "https://kirkcullimore.com/real-results-businesses/"
+},
+{
+"text": "Real Results for Utah Families",
+"href": "https://kirkcullimore.com/real-results-families/"
+},
+{
+"text": "Real Results for Utah Kids",
+"href": "https://kirkcullimore.com/real-results-kids/"
+},
+{
+"text": "Real Results for Utah Taxpayers",
+"href": "https://kirkcullimore.com/real-results-taxpayers/"
+},
+{
+"text": "Real Results for Utah’s Future",
+"href": "https://kirkcullimore.com/real-results-future/"
+},
+{
+"text": "[image: Senator Kirk Cullimore]",
+"href": "https://kirkcullimore.com"
+},
+{
+"text": "⛰️ Utah's Future More than $66 million invested to protect Utah's water resources and prepare for future generations. Explore Results →",
+"href": "https://kirkcullimore.com/real-results-future/"
+},
+{
+"text": "🎓 Utah's Kids $2.3 billion invested in public education since 2021 while Utah remains one of America's highest-performing school systems. Explore Results →",
+"href": "https://kirkcullimore.com/real-results-kids/"
+},
+{
+"text": "🏡 Utah Families Utah has been named the #1 Best State in America three years in a row because families come first. Explore Results →",
+"href": "https://kirkcullimore.com/real-results-families/"
+},
+{
+"text": "💰 Taxpayers Six consecutive years of income tax cuts and the nation's highest ranking for fiscal stability. Explore Results →",
+"href": "https://kirkcullimore.com/real-results-taxpayers/"
+},
+{
+"text": "📈 Businesses Utah has ranked #1 for Economic Outlook for 18 consecutive years, creating opportunity for businesses and workers. Explore Results →",
+"href": "https://kirkcullimore.com/real-results-businesses/"
+},
+{
+"text": "🛡️ Safe Communities More than $140 million invested this year to strengthen public safety and support law enforcement. Explore Results →",
+"href": "https://kirkcullimore.com/real-results-safe-communities/"
+}
 ]

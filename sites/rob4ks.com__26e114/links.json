@@ -1,5 +1,14 @@
 [
-"https://politiclywp.wowtheme7.com/",
-"https://rob4ks.com/",
-"https://rob4ks.com/donate"
+{
+"text": "Donate",
+"href": "https://rob4ks.com/donate"
+},
+{
+"text": "Politicly",
+"href": "https://politiclywp.wowtheme7.com/"
+},
+{
+"text": "[image]",
+"href": "https://rob4ks.com"
+}
 ]

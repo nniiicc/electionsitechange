@@ -1,6 +1,4 @@
-About Jana
-Biography
-Jana (Luebbe) Hughes grew up on a family farm near Goehner, Nebraska, where she learned the values of hard work, personal responsibility and self-reliance.
+About Jana Issues District 24 Contact Volunteer Donate Select Page About Jana Biography Jana (Luebbe) Hughes grew up on a family farm near Goehner, Nebraska, where she learned the values of hard work, personal responsibility and self-reliance.
 A 1989 graduate of Seward High School, Jana attended Texas A&M University and earned a degree in industrial engineering.
 After graduation, she worked as a consulting engineer for Kurt Salmon Associates in Atlanta before returning home to Nebraska.
 In 1996, she married her husband, John Hughes.
@@ -14,3 +12,4 @@ Jana and John live in Seward and have three children and a son-in-law.
 Their daughter Lena and her husband, Tate Anderson, live in Kansas City.
 Their daughter Anna lives in Chicago, and their son Hank attends the University of Nebraska–Lincoln.
 The family business, Hughes Brothers Manufacturing, has produced quality American-made hardware and other products since 1921.
+About Jana Issues District 24 Contact Volunteer Donate Paid for by Jana Hughes for Legislature | 1825 Deer Run Drive, Seward NE 68434 | ©# Follow

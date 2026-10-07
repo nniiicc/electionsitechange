@@ -1,3 +1,5 @@
-A Dangerous Step Backward for Our Kids
-As a 30 year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward”, I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
+top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
+DONATE Log In Laurie Parman Ed .D Writer I'm Listening!
+Follow More actions Profile Profile Join date: Sep 25, 2025 Posts (1) Sep 25, 2025 ∙ 2 min A Dangerous Step Backward for Our Kids As a 30 year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward”, I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
 This move, approved just weeks ago, isn't the "alignment" with national benchmarks that officials are spinning—it’s a classic case of “smoke and mirrors”.
+29 0 1 Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

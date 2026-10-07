@@ -1,11 +1,6 @@
-Back to All Events
-Representative LaMont will be meeting community members at the annual Harvest Dinner in Elmore on Saturday, Oct. 5 beginning at 5 p.m.
+0 Skip to Content About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Back to All Events Elmore Fire Department Harvest Dinner Saturday, October 5, 2024 5:00 PM 7:00 PM Google Calendar ICS Representative LaMont will be meeting community members at the annual Harvest Dinner in Elmore on Saturday, Oct.
+5 beginning at 5 p.m.
 The menu includes ham, baked potato, squash, peas, beets, bread, salad, dessert, coffee, tea, milk and cider.
 The cost is $15 for adults and $10 for children 10 and under.
-Previous
-Previous
-October 5
-Indigenous Peoples’ Day Rocks!
-Next
-Next
-October 6
+Previous Previous October 5 Indigenous Peoples’ Day Rocks!
+Next Next October 6 Sunday Canvassing in Elmore Donate Register to vote LaMont for Vermont lamontforvermont@gmail.com (802) 335-2334 PO Box 333 Morrisville VT 05661

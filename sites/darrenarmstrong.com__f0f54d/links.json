@@ -1,26 +1,134 @@
 [
-"https://darrenarmstrong.com/",
-"https://darrenarmstrong.com/accessibility",
-"https://darrenarmstrong.com/contact",
-"https://darrenarmstrong.com/gallery",
-"https://darrenarmstrong.com/get-involved",
-"https://darrenarmstrong.com/meet-darren",
-"https://darrenarmstrong.com/news",
-"https://darrenarmstrong.com/privacy-policy",
-"https://darrenarmstrong.com/volunteer",
-"https://darrenarmstrong.com/vote",
-"https://facebook.com/ElectDarrenArmstrong",
-"https://instagram.com/electdarrenarmstrong",
-"https://maps.app.goo.gl/GMo4DXEv7Jvh2dLq7",
-"https://ncsbe.gov/registering/how-register",
-"https://secure.winred.com/armstrong-for-hd79/donate-today",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=100",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=1000",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=25",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=250",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=3500",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=50",
-"https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=500",
-"https://vt.ncsbe.gov/pplkup",
-"https://youtube.com/@ElectDarrenArmstrong"
+{
+"text": "$#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=500"
+},
+{
+"text": "$#,#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=1000"
+},
+{
+"text": "$#,#",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=3500"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today/donate?amount=50"
+},
+{
+"text": "252-943-3141",
+"href": "tel:12529433141"
+},
+{
+"text": "336 Circle Grove Farm Rd, Belhaven, NC 27810",
+"href": "https://maps.app.goo.gl/GMo4DXEv7Jvh2dLq7"
+},
+{
+"text": "Accessibility",
+"href": "https://darrenarmstrong.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://darrenarmstrong.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ElectDarrenArmstrong/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Get Involved",
+"href": "https://darrenarmstrong.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electdarrenarmstrong"
+},
+{
+"text": "Meet Darren",
+"href": "https://darrenarmstrong.com/meet-darren/"
+},
+{
+"text": "News",
+"href": "https://darrenarmstrong.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/armstrong-for-hd79/donate-today"
+},
+{
+"text": "Photo Gallery",
+"href": "https://darrenarmstrong.com/gallery/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://darrenarmstrong.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.ncsbe.gov/registering/how-register"
+},
+{
+"text": "Volunteer",
+"href": "https://darrenarmstrong.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://darrenarmstrong.com/vote/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@ElectDarrenArmstrong"
+},
+{
+"text": "[image: Darren Armstrong NC House Logo]",
+"href": "https://darrenarmstrong.com"
+},
+{
+"text": "contact@darrenarmstrong.com",
+"href": "mailto: contact@darrenarmstrong.com"
+},
+{
+"text": "contact@darrenarmstrong.com",
+"href": "mailto:contact@darrenarmstrong.com"
+},
+{
+"text": "report an accessibility issue",
+"href": "https://darrenarmstrong.com/accessibility/"
+}
 ]

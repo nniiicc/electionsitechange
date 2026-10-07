@@ -1,11 +1,6 @@
-You’re Invited: Illinois Candidate Conversations – WWBW IL x Sisters Lead Sisters Vote
-Join Win With Black Women (WWBW IL) and Sisters Lead Sisters Vote (SLSV) for a special statewide virtual event highlighting Black women running for office in Illinois.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Back to All Events Illinois Candidate Conversations – WWBW IL x Sisters Lead Sisters Vote Monday, February 16, 2026 6:00 PM 9:00 PM Google Calendar ICS You’re Invited: Illinois Candidate Conversations – WWBW IL x Sisters Lead Sisters Vote Join Win With Black Women (WWBW IL) and Sisters Lead Sisters Vote (SLSV) for a special statewide virtual event highlighting Black women running for office in Illinois.
 This conversation series provides space to hear directly from women leaders about their perspectives, priorities, and the issues shaping communities across the state.
-Monday, February 16, 2026
-7 PM ET / 6 PM CT
-Virtual Event (Livestream)
-REGISTER HERE (Public Link): https://bit.ly/ILCandidateConversationsPrimary2026
-This link is open to the public — feel free to share it widely.
-How to Watch You can tune in live or view the replay at:
-- Sisters Lead Sisters Vote – Facebook & YouTube
-- Win With Black Women – YouTube
+Monday, February 16, 2026 7 PM ET / 6 PM CT Virtual Event (Livestream) REGISTER HERE (Public Link): https://bit.ly/ILCandidateConversationsPrimary2026 This link is open to the public — feel free to share it widely.
+How to Watch You can tune in live or view the replay at: - Sisters Lead Sisters Vote – Facebook & YouTube - Win With Black Women – YouTube #WinWithBlackWomen #SistersLead #WWBWIL Previous Previous January 18 Rosie Brown’s Campaign Kickoff!
+Next Next March 14 FAMILY BOWLING NIGHT!
+Blitz to the Primaries Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

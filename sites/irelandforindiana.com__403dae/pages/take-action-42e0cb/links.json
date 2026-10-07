@@ -1,17 +1,118 @@
 [
-"https://facebook.com/AndrewIrelandIN",
-"https://in.gov/sos/elections/voter-information/photo-id-law",
-"https://in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting",
-"https://indianavoters.in.gov/",
-"https://irelandforindiana.com/",
-"https://irelandforindiana.com/about",
-"https://irelandforindiana.com/contact",
-"https://irelandforindiana.com/donate",
-"https://irelandforindiana.com/issues",
-"https://irelandforindiana.com/news",
-"https://irelandforindiana.com/privacy",
-"https://irelandforindiana.com/take-action",
-"https://irelandforindiana.com/terms",
-"https://irelandforindiana.com/yard-sign",
-"https://x.com/AndrewIrelandIN"
+{
+"text": "$10",
+"href": "https://www.irelandforindiana.com/donate#contribute"
+},
+{
+"text": "$100",
+"href": "https://www.irelandforindiana.com/donate#contribute"
+},
+{
+"text": "$25",
+"href": "https://www.irelandforindiana.com/donate#contribute"
+},
+{
+"text": "$250",
+"href": "https://www.irelandforindiana.com/donate#contribute"
+},
+{
+"text": "$50",
+"href": "https://www.irelandforindiana.com/donate#contribute"
+},
+{
+"text": "Check it now →",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.irelandforindiana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.irelandforindiana.com/donate"
+},
+{
+"text": "Early & absentee voting→",
+"href": "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/"
+},
+{
+"text": "Follow Andrew on X →",
+"href": "https://x.com/AndrewIrelandIN"
+},
+{
+"text": "Indiana photo ID rules→",
+"href": "https://www.in.gov/sos/elections/voter-information/photo-id-law/"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.irelandforindiana.com/about"
+},
+{
+"text": "News",
+"href": "https://www.irelandforindiana.com/news"
+},
+{
+"text": "Other amount",
+"href": "https://www.irelandforindiana.com/donate#contribute"
+},
+{
+"text": "Priorities",
+"href": "https://www.irelandforindiana.com/issues"
+},
+{
+"text": "Privacy",
+"href": "https://www.irelandforindiana.com/privacy"
+},
+{
+"text": "Record",
+"href": "https://www.irelandforindiana.com/#record"
+},
+{
+"text": "Registration & polling place→",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Request a sign →",
+"href": "https://www.irelandforindiana.com/yard-sign"
+},
+{
+"text": "Request a yard sign",
+"href": "https://www.irelandforindiana.com/yard-sign"
+},
+{
+"text": "Show your support now→",
+"href": "https://www.irelandforindiana.com/yard-sign"
+},
+{
+"text": "Stand with Andrew — donate today →",
+"href": "https://www.irelandforindiana.com/donate"
+},
+{
+"text": "Take Action",
+"href": "https://www.irelandforindiana.com/take-action"
+},
+{
+"text": "X",
+"href": "https://x.com/AndrewIrelandIN"
+},
+{
+"text": "[image: Andrew Ireland — State Representative]",
+"href": "https://www.irelandforindiana.com/"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/AndrewIrelandIN/"
+},
+{
+"text": "privacy policy",
+"href": "https://www.irelandforindiana.com/privacy"
+},
+{
+"text": "team@irelandforindiana.com",
+"href": "mailto:team@irelandforindiana.com"
+},
+{
+"text": "terms",
+"href": "https://www.irelandforindiana.com/terms"
+}
 ]

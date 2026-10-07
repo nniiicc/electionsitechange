@@ -1,42 +1,11 @@
-Money Brought to the District
-Rep.
+Skip to main Join Our Team Donate about endorsements accomplishments issues get a yard sign volunteer Donate Back to all Accomplishments Money Brought to the District Rep.
 Casten is directly bringing money back to IL-06 and Illinois.
-Over $4M directly to constituents
-Through our strong casework team, we have helped deliver over $4M back to constituents.
-$513.6M in Funding for Metra
-The American Rescue Plan funds will allow Metra to continue providing a low-carbon transportation service critical to the region’s 8.6 million residents.
-The funds are intended to help transit agencies around the country maintain service and keep workers on the payroll as communities continue to recover from the COVID-19 pandemic.
-$1 Billion in New Funding for Roads and Bridges
-New federal funding under the bipartisan Infrastructure Investment and Jobs Act to create good-paying jobs for Illinoisans while improving roads and bridges across the state.
-$94 Million for Midway and O’Hare
-New federal funding under the bipartisan Infrastructure Investment and Jobs Act is headed to Illinois to make much-needed improvements to O’Hare and Midway airports.
-$14.7 million in transportation funding projects for Illinois’ 6th Congressional district
-The legislation proposes transformational investments in our roads, bridges, transit, rail, and wastewater and drinking water infrastructure to modernize our infrastructure, create jobs, and reduce carbon pollution.
-$900,000 for Energy Startups in the Midwest
-Midwest Regional Innovation Partnership, a project by Clean Energy Trust, Centrepolis Accelerator at Lawrence Technological University, mHUB, and Spark Innovation Center, was selected for an award of over $900,000 from the Energy Program for Innovation Clusters (EPIC).
-$29 million in emergency funding for colleges, universities, and students in Illinois’ 6th Congressional District
-The funding will help local institutions cope with the severe financial fallout from the COVID-19 pandemic and continue serving their students safely.
+Over $4M directly to constituents Through our strong casework team, we have helped deliver over $4M back to constituents. $513.6M in Funding for Metra The American Rescue Plan funds will allow Metra to continue providing a low-carbon transportation service critical to the region’s 8.6 million residents.
+The funds are intended to help transit agencies around the country maintain service and keep workers on the payroll as communities continue to recover from the COVID-19 pandemic. $1 Billion in New Funding for Roads and Bridges New federal funding under the bipartisan Infrastructure Investment and Jobs Act to create good-paying jobs for Illinoisans while improving roads and bridges across the state. $94 Million for Midway and O’Hare New federal funding under the bipartisan Infrastructure Investment and Jobs Act is headed to Illinois to make much-needed improvements to O’Hare and Midway airports. $14.7 million in transportation funding projects for Illinois’ 6th Congressional district The legislation proposes transformational investments in our roads, bridges, transit, rail, and wastewater and drinking water infrastructure to modernize our infrastructure, create jobs, and reduce carbon pollution. $900,000 for Energy Startups in the Midwest Midwest Regional Innovation Partnership, a project by Clean Energy Trust, Centrepolis Accelerator at Lawrence Technological University, mHUB, and Spark Innovation Center, was selected for an award of over $900,000 from the Energy Program for Innovation Clusters (EPIC). $29 million in emergency funding for colleges, universities, and students in Illinois’ 6th Congressional District The funding will help local institutions cope with the severe financial fallout from the COVID-19 pandemic and continue serving their students safely.
 At least half of the funding each institution receives will be distributed in the form of emergency cash assistance grants to students who are facing hunger, homelessness, and other hardship.
-Schools receiving funding were: Elgin Community College: $17,521,163, North Central College: $6,520,089 and Wheaton College: $5,227,217.
-$614,000 for Deer Park Boulevard
-Deer Park Boulevard is a main thoroughfare in the current IL-06.
-This funding will be used to repair it.
-$500,000 for Barrington – Pedestrian Grade Separation at Main Street and the Canadian National Railroad
-Sean secured funding to build a Pedestrian Grade Separation at Main Street and the Canadian National Railroad, which would allow pedestrians to safely cross the street without interrupting traffic.
-$197,644 for Bridges Communities
-For 33 years, Bridge Communities has been serving extremely low to low income homeless families, mostly single mothers with two or more children.
-This funding will be used to rehab current space and provide safe, clean and affordable housing for families.
-$3,000,000 for 360 Youth Services – Youth Affordable Housing Resource Center
-The funding would be used as a Youth Affordable Housing Resource Center to provide youth-specific housing and homelessness prevention services in DuPage, Kane, Will and surrounding counties. 360 Youth Services provides a regional access point for trauma-informed mental health care, crisis intervention, family services, vocational training, educational support, rental assistance, legal aid and LGBTQ+ affirming services.
-$1,080,000 for Downers Grove Sanitary District for Sanitary Sewer Rehabilitation
-The funding would be used for Sanitary Sewer Rehabilitation in Downers Grove.
-$785,000 for Village of Burr Ridge for Stormwater Management Improvements
-Sean secured funding to improve stormwater management in Burr Ridge beneath Elm Street, preventing the collapse of a pipe that would impact local schools.
-$750,000 for Morton Arboretum for an Urban Forestry Project
-Sean secured funding for a project that will allow Morton Arboretum to diversify the urban forestry and improve the ability to plant and care for trees.
-$500,000 Community College District 502 Nursing, Dental Hygiene, and Health Sciences Program
-Sean secured funding to better prepare students for careers in health care.
-$250,000 for DuPage Regional Office of Education, Wheaton, IL for high school work-based learning
-Sean secured funding to better prepare high school students for jobs in manufacturing and other trades.
-$250,000 for Boys & Girls Clubs of Dundee Township, Carpentersville, IL
-Sean secured funding that will be used to run programs to help address learning loss and social-emotional learning needs for students caused by the COVID-19 pandemic.
+Schools receiving funding were: Elgin Community College: $17,521,163, North Central College: $6,520,089 and Wheaton College: $5,227,217. $614,000 for Deer Park Boulevard Deer Park Boulevard is a main thoroughfare in the current IL-06.
+This funding will be used to repair it. $500,000 for Barrington – Pedestrian Grade Separation at Main Street and the Canadian National Railroad Sean secured funding to build a Pedestrian Grade Separation at Main Street and the Canadian National Railroad, which would allow pedestrians to safely cross the street without interrupting traffic. $197,644 for Bridges Communities For 33 years, Bridge Communities has been serving extremely low to low income homeless families, mostly single mothers with two or more children.
+This funding will be used to rehab current space and provide safe, clean and affordable housing for families. $3,000,000 for 360 Youth Services – Youth Affordable Housing Resource Center The funding would be used as a Youth Affordable Housing Resource Center to provide youth-specific housing and homelessness prevention services in DuPage, Kane, Will and surrounding counties.
+360 Youth Services provides a regional access point for trauma-informed mental health care, crisis intervention, family services, vocational training, educational support, rental assistance, legal aid and LGBTQ+ affirming services. $1,080,000 for Downers Grove Sanitary District for Sanitary Sewer Rehabilitation The funding would be used for Sanitary Sewer Rehabilitation in Downers Grove. $785,000 for Village of Burr Ridge for Stormwater Management Improvements Sean secured funding to improve stormwater management in Burr Ridge beneath Elm Street, preventing the collapse of a pipe that would impact local schools. $750,000 for Morton Arboretum for an Urban Forestry Project Sean secured funding for a project that will allow Morton Arboretum to diversify the urban forestry and improve the ability to plant and care for trees. $500,000 Community College District 502 Nursing, Dental Hygiene, and Health Sciences Program Sean secured funding to better prepare students for careers in health care. $250,000 for DuPage Regional Office of Education, Wheaton, IL for high school work-based learning Sean secured funding to better prepare high school students for jobs in manufacturing and other trades. $250,000 for Boys & Girls Clubs of Dundee Township, Carpentersville, IL Sean secured funding that will be used to run programs to help address learning loss and social-emotional learning needs for students caused by the COVID-19 pandemic.
+Donate home about endorsements accomplishments issues press 2026 primary info get a yard sign volunteer info@castenforcongress.com P.O.
+Box 132 Downers Grove, IL 60515-0132 | 708-613-0262 jobs privacy policy terms media center Paid for by Casten for Congress

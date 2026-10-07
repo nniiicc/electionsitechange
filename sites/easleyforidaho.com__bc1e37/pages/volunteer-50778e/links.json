@@ -1,9 +1,42 @@
 [
-"https://easleyforidaho.com/",
-"https://easleyforidaho.com/district-voting-information",
-"https://easleyforidaho.com/donate",
-"https://easleyforidaho.com/event-list",
-"https://easleyforidaho.com/issues",
-"https://easleyforidaho.com/media",
-"https://easleyforidaho.com/volunteer"
+{
+"text": "(208) 992-5227",
+"href": "tel:208-992-5227"
+},
+{
+"text": "District & Voting Information",
+"href": "https://www.easleyforidaho.com/district-voting-information"
+},
+{
+"text": "Donate",
+"href": "https://www.easleyforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.easleyforidaho.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.easleyforidaho.com"
+},
+{
+"text": "Issues",
+"href": "https://www.easleyforidaho.com/issues"
+},
+{
+"text": "Join Us!",
+"href": "https://www.easleyforidaho.com/volunteer"
+},
+{
+"text": "Media Kit",
+"href": "https://www.easleyforidaho.com/media"
+},
+{
+"text": "[image: EASLEY FOr Idaho Logo.png]",
+"href": "https://www.easleyforidaho.com"
+},
+{
+"text": "info@easleyforidaho.com",
+"href": "mailto:info@easleyforidaho.com"
+}
 ]

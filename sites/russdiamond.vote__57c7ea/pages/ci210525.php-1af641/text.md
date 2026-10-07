@@ -1,3 +1,4 @@
+Home Donate Blog News About Connect Thank you, Pennsylvania!
 I wanted to take a moment to say THANK YOU for supporting our effort to amend the Pennsylvania Constitution to limit the powers of a governor during a disaster emergency and restore the governmental checks and balances created by our founding fathers.
 Despite the Wolf Administration's efforts to twist the meaning of these proposed amendments by authoring ballot questions which perverted the actual meaning of the amendments, a majority of voters saw through it and provided a clear victory for Liberty on May 18th!
 The People have spoken.
@@ -26,4 +27,5 @@ I have to be honest with you here – given Team Wolf's tortuous twisting of the
 However, when I began to hear that polling places were running out of Republican ballots (that's wholly unacceptable, and something we need to address going forward as we rewrite our election code), my hope was bolstered.
 In the end, you and the rest of Pennsylvania's electorate came through and delivered.
 I can't thank you enough, and I pledge to continue working to bring this sorry chapter of Pennsylvania history to a close in the quickest manner possible.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

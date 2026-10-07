@@ -1,7 +1,26 @@
 [
-"https://michaelmorganforvthouse.org/about",
-"https://michaelmorganforvthouse.org/contact",
-"https://michaelmorganforvthouse.org/home",
-"https://michaelmorganforvthouse.org/issues",
-"https://michaelmorganforvthouse.org/letter"
+{
+"text": "About",
+"href": "https://www.michaelmorganforvthouse.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.michaelmorganforvthouse.org/contact"
+},
+{
+"text": "Home",
+"href": "https://www.michaelmorganforvthouse.org/home"
+},
+{
+"text": "Issues",
+"href": "https://www.michaelmorganforvthouse.org/issues"
+},
+{
+"text": "Letter",
+"href": "https://www.michaelmorganforvthouse.org/letter"
+},
+{
+"text": "MichaelMorganForVTHouse.org",
+"href": "https://www.michaelmorganforvthouse.org/home"
+}
 ]

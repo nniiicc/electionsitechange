@@ -1,5 +1,4 @@
-Embedded Files
-Massachusetts must remain a place where businesses can start, grow, and create good-paying jobs while ensuring workers have the skills and opportunities necessary to succeed in a changing economy.
+Search this site Embedded Files Skip to main content Skip to navigation HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety More HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety Economic Development Massachusetts must remain a place where businesses can start, grow, and create good-paying jobs while ensuring workers have the skills and opportunities necessary to succeed in a changing economy.
 Our economic development strategy should strengthen the connection between education, workforce training, employers, and regional economic needs.
 I have filed legislation on the following priorities.
 Strengthen vocational and technical education.
@@ -20,25 +19,19 @@ Massachusetts should eliminate the municipal exemption from the state minimum wa
 Give communities additional economic development tools.
 Cities and towns should have greater flexibility to address large vacant commercial properties that can undermine surrounding economic activity.
 Communities should have the option to impose a local assessment on vacant shopping malls and use the resulting revenue to support municipal services, infrastructure, and local economic development.
-Successes
-During the 2025–2026 legislative session, the House of Representatives passed a comprehensive economic development bill to strengthen Massachusetts’ economy, support businesses and workers, address the housing crisis, invest in emerging industries, and help communities across the Commonwealth grow and thrive.
-Some of the major successes included:
-- Expanded tools to address the housing crisis by encouraging commercial-to-residential conversions, allowing housing development on qualifying land owned by religious institutions, and improving consistency in local planning and permitting.
-- Strengthened tenant and fair housing protections by allowing municipalities to establish a tenant right of first refusal for multifamily properties and strengthening oversight of the real estate profession.
-- Protected Massachusetts from federal funding uncertainty by supporting hospitals, community health centers, colleges and universities, critical infrastructure, and other priorities affected by reductions or delays in federal funding.
-- Reduced the cost of starting and operating a small business by significantly lowering LLC formation fees and creating a graduated annual fee structure to provide greater relief to startups and operating businesses.
-- Established Massachusetts’ first comprehensive micromobility safety framework by creating standards for motorized bicycles and other devices, including age, helmet, equipment, battery safety, and operating requirements.
-- Strengthened Massachusetts’ film, television, and digital gaming industries by improving the film tax credit and creating a new incentive to attract digital game development.
-- Strengthened Massachusetts’ defense and national security economy by investing in the SHIELD initiative and supporting the development of cutting-edge national security technologies.
-- Supported restaurants and the hospitality industry by allowing restaurants to begin serving alcoholic beverages earlier on Sunday mornings.
-- Invested in artificial intelligence and emerging technologies to strengthen Massachusetts’ position as a national leader in innovation.
-- Supported downtown revitalization and economic development through investments in infrastructure, public spaces, placemaking, and the redevelopment of underutilized properties.
-- Expanded support for advanced manufacturing and robotics to help businesses grow, commercialize new technologies, and create jobs in emerging industries.
-- Invested in arts, culture, and the creative economy by supporting public spaces, historic districts, performance venues, public art, and other cultural assets.
-- Expanded supportive housing opportunities for veterans and invested in projects designed to better serve veterans across the Commonwealth.
-- Supported agriculture, food science, and AgTech innovation through investments in sustainable food systems and emerging agricultural businesses.
-Downtown Attleboro
-Downtown North Attleboro
-Downtown Mansfield
-Google Sites
-Report abuse
+Successes During the 2025–2026 legislative session, the House of Representatives passed a comprehensive economic development bill to strengthen Massachusetts’ economy, support businesses and workers, address the housing crisis, invest in emerging industries, and help communities across the Commonwealth grow and thrive.
+Some of the major successes included: Expanded tools to address the housing crisis by encouraging commercial-to-residential conversions, allowing housing development on qualifying land owned by religious institutions, and improving consistency in local planning and permitting.
+Strengthened tenant and fair housing protections by allowing municipalities to establish a tenant right of first refusal for multifamily properties and strengthening oversight of the real estate profession.
+Protected Massachusetts from federal funding uncertainty by supporting hospitals, community health centers, colleges and universities, critical infrastructure, and other priorities affected by reductions or delays in federal funding.
+Reduced the cost of starting and operating a small business by significantly lowering LLC formation fees and creating a graduated annual fee structure to provide greater relief to startups and operating businesses.
+Established Massachusetts’ first comprehensive micromobility safety framework by creating standards for motorized bicycles and other devices, including age, helmet, equipment, battery safety, and operating requirements.
+Strengthened Massachusetts’ film, television, and digital gaming industries by improving the film tax credit and creating a new incentive to attract digital game development.
+Strengthened Massachusetts’ defense and national security economy by investing in the SHIELD initiative and supporting the development of cutting-edge national security technologies.
+Supported restaurants and the hospitality industry by allowing restaurants to begin serving alcoholic beverages earlier on Sunday mornings.
+Invested in artificial intelligence and emerging technologies to strengthen Massachusetts’ position as a national leader in innovation.
+Supported downtown revitalization and economic development through investments in infrastructure, public spaces, placemaking, and the redevelopment of underutilized properties.
+Expanded support for advanced manufacturing and robotics to help businesses grow, commercialize new technologies, and create jobs in emerging industries.
+Invested in arts, culture, and the creative economy by supporting public spaces, historic districts, performance venues, public art, and other cultural assets.
+Expanded supportive housing opportunities for veterans and invested in projects designed to better serve veterans across the Commonwealth.
+Supported agriculture, food science, and AgTech innovation through investments in sustainable food systems and emerging agricultural businesses.
+Downtown Attleboro Downtown North Attleboro Downtown Mansfield ISSUES adam.scanlon@scanlonforstaterepma.com DONATE PRIVACY Google Sites Report abuse Google Sites Report abuse

@@ -1,7 +1,26 @@
 [
-"https://efundraisingconnections.com/c/TrentMaier",
-"https://votetrentmaier.com/",
-"https://votetrentmaier.com/endorsements",
-"https://votetrentmaier.com/privacy-policy",
-"https://votetrentmaier.com/terms-and-conditions"
+{
+"text": "Contact",
+"href": "https://www.votetrentmaier.com#connect%20with%20trent"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/TrentMaier"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votetrentmaier.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votetrentmaier.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votetrentmaier.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votetrentmaier.com/terms-and-conditions"
+}
 ]

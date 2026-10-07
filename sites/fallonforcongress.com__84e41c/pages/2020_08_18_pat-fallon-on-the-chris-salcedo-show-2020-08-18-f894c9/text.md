@@ -1,13 +1,1 @@
-Toggle navigation
-Home
-Meet Pat
-Issues
-Endorsements
-News
-Volunteer
-Contact
-Fake News
-Donate
-Donate
-Pat Fallon on The Chris Salcedo Show
-August 18, 2020
+Toggle navigation Home Meet Pat Issues Endorsements News Volunteer Contact Fake News Donate Donate Pat Fallon on The Chris Salcedo Show August 18, 2020 Home Meet Pat Issues Endorsements News Volunteer Contact Fake News Donate Paid for by Fallon for Congress PO Box 1445 Frisco, TX 75034 Contact | Privacy Policy

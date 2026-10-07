@@ -1,7 +1,9 @@
 {
  "description": "Your Campaign Tagline Goes Here",
  "final_url": "https://leffforthepeople.com/terms-of-service/",
- "paid_for_by": null,
+ "fingerprint": "76f5e91732035054b1b1c3257ff107c2d5d3db5c",
+ "format": 3,
+ "paid_for_by": "Authorized by LeffForThePeople 3665 East Bay Drive, Suite 204 Box 336 Largo, FL 33771 LeffForThePeople © #",
  "title": "Terms of Service | LeffForThePeople",
  "years_mentioned": []
 }

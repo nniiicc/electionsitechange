@@ -1,4 +1,4 @@
-Meet Michael Bannon Jr.
+For the People For our Future For Pennsylvania Home Blog Michael Bannon for PA State Representitive Calendar Links Blog Michael Bannon for PA State Representitive Calendar Links Meet Michael Bannon Jr.
 Michael Bannon Jr. is a lifelong community advocate, working father, and public servant running for State Representative to restore accountability, transparency, and common-sense leadership in Harrisburg.
 Michael lives in Delaware County with his two sons.
 As a dedicated father and hardworking Pennsylvanian, he understands firsthand the challenges families face every day—from rising costs and public safety concerns to a government that too often feels disconnected from the people it serves.
@@ -28,8 +28,16 @@ For Our Future.
 For Pennsylvania.
 For The People.
 For Our Future.
-For Pennsylvania
-Get in touch
-Telephone: 717-456-1366
-E-mail: friendsofmichaelbAnnon@gmail.com
-Address: Eddystone, Pennsylvania, United States
+For Pennsylvania Name * This field is required.
+Message E-mail * This field is required.
+Please enter a valid e-mail address.
+Political Party I hereby agree that this data will be stored and processed for the purpose of establishing contact.
+I am aware that I can revoke my consent at any time. * This field is required. *Please fill in all the required fields.
+Send Message could not be sent.
+Please try again later.
+Message was successfully sent i We need your consent to load this map We use a third party service to embed maps content that may collect data about your activity.
+Please review the details in the privacy policy and accept the service to view the map.
+Accept Get in touch Telephone: 717-456-1366 E-mail: friendsofmichaelbAnnon@gmail.com Address: Eddystone, Pennsylvania, United States Paid for by Mike Bannon — Candidate for State Representative We need your consent to load the translations We use a third-party service to translate the website content that may collect data about your activity.
+Please review the details in the privacy policy and accept the service to view the translations.
+Decline Accept Website Translator IONOS SiteAnalytics Google Maps Privacy Settings This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle Select all services Toggle Website Translator More Less Toggle IONOS SiteAnalytics More Less Toggle Google Maps More Less Save Settings

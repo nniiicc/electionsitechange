@@ -1,43 +1,194 @@
 [
-"http://event/",
-"https://electbradhessel.org/",
-"https://electbradhessel.org/cookie-policy",
-"https://electbradhessel.org/events",
-"https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races",
-"https://electbradhessel.org/meet",
-"https://electbradhessel.org/meet/district",
-"https://electbradhessel.org/meet/people-not-politics",
-"https://electbradhessel.org/news",
-"https://electbradhessel.org/priorities",
-"https://electbradhessel.org/priorities/abolish-the-abc",
-"https://electbradhessel.org/priorities/cost-effective-conservation",
-"https://electbradhessel.org/priorities/cost-effective-healthcare",
-"https://electbradhessel.org/priorities/defend-the-guard",
-"https://electbradhessel.org/priorities/electoral-reform-gerrymandering",
-"https://electbradhessel.org/priorities/electoral-reform-independent-voters",
-"https://electbradhessel.org/priorities/electoral-reform-instant-runoff-voting",
-"https://electbradhessel.org/priorities/expanded-housing-market",
-"https://electbradhessel.org/priorities/problem-solvers-caucus",
-"https://electbradhessel.org/priorities/restorative-justice",
-"https://electbradhessel.org/priorities/smarter-education",
-"https://electbradhessel.org/priorities/stronger-economy",
-"https://electbradhessel.org/privacy-policy",
-"https://electbradhessel.org/take-action",
-"https://electbradhessel.org/take-action/donate",
-"https://electbradhessel.org/take-action/volunteer",
-"https://electbradhessel.org/take-action/when-where-to-vote",
-"https://facebook.com/LPofNC",
-"https://facebook.com/elect.brad.hessel",
-"https://instagram.com/brad.hessel",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://twitter.com/ElectBradHessel",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://youtube.com/@BradHessel"
+{
+"text": "Abolish the ABC!",
+"href": "https://electbradhessel.org/priorities/abolish-the-abc/"
+},
+{
+"text": "Contribute",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Cost-Effective Healthcare",
+"href": "https://electbradhessel.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Cost-effective Conservation",
+"href": "https://electbradhessel.org/priorities/cost-effective-conservation/"
+},
+{
+"text": "Defend The Guard",
+"href": "https://electbradhessel.org/priorities/defend-the-guard/"
+},
+{
+"text": "Donate",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://electbradhessel.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Electoral Reform—Gerrymandering",
+"href": "https://electbradhessel.org/priorities/electoral-reform-gerrymandering/"
+},
+{
+"text": "Electoral Reform—Independent Voters",
+"href": "https://electbradhessel.org/priorities/electoral-reform-independent-voters/"
+},
+{
+"text": "Electoral Reform—Instant Runoff Voting",
+"href": "https://electbradhessel.org/priorities/electoral-reform-instant-runoff-voting/"
+},
+{
+"text": "Envelope",
+"href": "mailto: info@electbradhessel.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://electbradhessel.org/events/"
+},
+{
+"text": "Expanded Housing Market",
+"href": "https://electbradhessel.org/priorities/expanded-housing-market/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/elect.brad.hessel/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brad.hessel/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Libertarian Party of North Carolina Candidates File for 46 Races",
+"href": "https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "Meet",
+"href": "https://electbradhessel.org/meet/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://electbradhessel.org/meet/"
+},
+{
+"text": "News",
+"href": "https://electbradhessel.org/news/"
+},
+{
+"text": "People Not Politics",
+"href": "https://electbradhessel.org/meet/people-not-politics/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://electbradhessel.org/priorities/"
+},
+{
+"text": "Problem Solvers Caucus",
+"href": "https://electbradhessel.org/priorities/problem-solvers-caucus/"
+},
+{
+"text": "Restore Equal Justice",
+"href": "https://electbradhessel.org/priorities/restorative-justice/"
+},
+{
+"text": "Senate 18",
+"href": "https://electbradhessel.org/meet/district/"
+},
+{
+"text": "Smarter Education",
+"href": "https://electbradhessel.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://electbradhessel.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://electbradhessel.org/take-action/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbradhessel.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://electbradhessel.org/take-action/when-where-to-vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/ElectBradHessel"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@BradHessel"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org/"
+},
+{
+"text": "[image: Libertarian Party Of North Carolina - logo]",
+"href": "https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "[no text]",
+"href": "tel:%E2%80%AA(919)%20307-9413%E2%80%AC"
+},
+{
+"text": "info@electbradhessel.org",
+"href": "mailto: info@electbradhessel.org"
+},
+{
+"text": "‪(919) 307-9413‬",
+"href": "tel:%E2%80%AA(919)%20307-9413%E2%80%AC"
+}
 ]

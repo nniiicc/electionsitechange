@@ -1,11 +1,14 @@
 {
  "description": "LAST FULL WEEK OF LEGISLATIVE SESSION - This past week was our last full week of the legislative session. When you read this, we will be on ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=126",
- "paid_for_by": null,
+ "fingerprint": "9db276d8743f82d13ae5ec33558075271546136c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - LAST FULL WEEK OF LEGISLATIVE SESSION",
  "years_mentioned": [
   "2020",
   "2023",
-  "2024"
+  "2024",
+  "2039"
  ]
 }

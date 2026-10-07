@@ -1,16 +1,62 @@
 [
-"https://facebook.com/JeffWeissforCT",
-"https://instagram.com/JeffWeiss4CT",
-"https://jeffweissforct.com/",
-"https://jeffweissforct.com/about-jeff",
-"https://jeffweissforct.com/contact-jeff",
-"https://jeffweissforct.com/hello",
-"https://jeffweissforct.com/issues",
-"https://jeffweissforct.com/subscribe",
-"https://jeffweissforct.com/videos",
-"https://rumble.com/user/JeffWeissforCT",
-"https://tiktok.com/@JeffWeissforCT",
-"https://truthsocial.com/@jeffweissforct",
-"https://x.com/JeffWeissforCT",
-"https://youtube.com/@JeffWeissforCT"
+{
+"text": "About Jeff",
+"href": "https://jeffweissforct.com/about-jeff/"
+},
+{
+"text": "Contact",
+"href": "https://jeffweissforct.com/contact-jeff/"
+},
+{
+"text": "Issues",
+"href": "https://jeffweissforct.com/issues/"
+},
+{
+"text": "Subscribe",
+"href": "https://jeffweissforct.com/subscribe/"
+},
+{
+"text": "Videos",
+"href": "https://jeffweissforct.com/videos/"
+},
+{
+"text": "[image: Jeff Weiss for Connecticut]",
+"href": "https://jeffweissforct.com/#top"
+},
+{
+"text": "[image]",
+"href": "https://facebook.com/JeffWeissforCT"
+},
+{
+"text": "[image]",
+"href": "https://rumble.com/user/JeffWeissforCT"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@jeffweissforct"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/JeffWeiss4CT"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@JeffWeissforCT"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@JeffWeissforCT"
+},
+{
+"text": "[image]",
+"href": "https://x.com/JeffWeissforCT"
+},
+{
+"text": "← All Videos",
+"href": "https://jeffweissforct.com/videos/"
+},
+{
+"text": "← Hello! I’m Jeff Weiss",
+"href": "https://jeffweissforct.com/hello/"
+}
 ]

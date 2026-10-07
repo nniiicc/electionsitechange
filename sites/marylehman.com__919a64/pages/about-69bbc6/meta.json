@@ -1,12 +1,15 @@
 {
  "description": "Discover Mary Lehman's career from journalism to Maryland Delegate: her advocacy in environment, education, and public welfare, and commitment to District 21.",
  "final_url": "https://www.marylehman.com/about",
- "paid_for_by": null,
+ "fingerprint": "4f5dade87ae35b4c8f41e1f75804da98c0b14c60",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Public Service Journey & Commitments in MD | Prince George's County, MD | Delegate Mary A. Lehman",
  "years_mentioned": [
   "2010",
   "2014",
   "2018",
-  "2022"
+  "2022",
+  "2024"
  ]
 }

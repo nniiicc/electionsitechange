@@ -1,11 +1,50 @@
 [
-"https://docs.google.com/forms/d/1F-bLxDVl8Dbo5m5hMTwUwc_qSme6N3duLk0WTciZn4M/edit",
-"https://facebook.com/VoteJuniorEzeonu",
-"https://instagram.com/callmejre?hl=en",
-"https://secure.actblue.com/donate/supportezeonu",
-"https://tiktok.com/@callmejre",
-"https://votejuniorezeonu.com/",
-"https://votejuniorezeonu.com/blank",
-"https://x.com/callmejre",
-"https://youtube.com/channel/UCgqvV0nOYS4sE4xQIg_eyoA"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/supportezeonu"
+},
+{
+"text": "Field Footage",
+"href": "https://www.votejuniorezeonu.com/blank"
+},
+{
+"text": "HOME",
+"href": "https://www.votejuniorezeonu.com"
+},
+{
+"text": "MEET JUNIOR",
+"href": "https://www.votejuniorezeonu.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votejuniorezeonu.com"
+},
+{
+"text": "SIGN UP HERE!",
+"href": "https://docs.google.com/forms/d/1F-bLxDVl8Dbo5m5hMTwUwc_qSme6N3duLk0WTciZn4M/edit"
+},
+{
+"text": "Votejuniorezeonu@gmail.com",
+"href": "mailto:Votejuniorezeonu@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteJuniorEzeonu/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/callmejre/?hl=en"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@callmejre"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/callmejre"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCgqvV0nOYS4sE4xQIg_eyoA"
+}
 ]

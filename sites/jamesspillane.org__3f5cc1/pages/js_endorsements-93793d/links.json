@@ -1,36 +1,150 @@
 [
-"http://gencourt.state.nh.us/house/members/member.aspx?member=377264",
-"https://atr.org/pledge-database",
-"https://citizensalliancenh.org/",
-"https://cnht.org/news/about/the-pledge",
-"https://cpac.org/foundation/home",
-"https://facebook.com/profile.php?id=100006747589487",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fendorsements%2F&t=Endorsements+2024",
-"https://granitestatetaxpayers.org/gst/wp-content/uploads/2024/09/GSTCandidateSurvey2024Name.pdf",
-"https://jamesspillane.org/js",
-"https://jamesspillane.org/js/2026/05/23/spillane-cited-as-most-effective",
-"https://jamesspillane.org/js/2026/07/02/how-new-hampshire-led-america-to-independence",
-"https://jamesspillane.org/js/2026/08/04/cacr-15-fundamental-right-to-hunt-fish-and-harvest-game",
-"https://jamesspillane.org/js/2026/08/04/cole-and-spillane-elections-air-rifles-w-northeast-airguns-and-sig-sauer-academy-and-veterans",
-"https://jamesspillane.org/js/2026/08/04/dedication-of-the-salt-marsh-pond-access-road-for-representative-harry-bean",
-"https://jamesspillane.org/js/about-james",
-"https://jamesspillane.org/js/bills-sponsored",
-"https://jamesspillane.org/js/donate-to-the-campaign",
-"https://jamesspillane.org/js/endorsements",
-"https://jamesspillane.org/js/events",
-"https://jamesspillane.org/js/events/voting-information",
-"https://jamesspillane.org/js/how-to-help",
-"https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs",
-"https://jamesspillane.org/js/how-to-help/write-a-letter",
-"https://jamesspillane.org/js/on-the-issues",
-"https://jamesspillane.org/js/updates",
-"https://jamesspillane.org/js/wp-content/uploads/2024/10/NHFC_Rockingham.pdf",
-"https://nhcornerstone.org/endorsements/cornerstone-general-election-endorsements-2024",
-"https://nhhra.org/hra/wp-content/uploads/2024/08/Score_Score_06-14-2024.pdf",
-"https://nhliberty.org/home/2024-2025-biennium-candidate-endorsements-and-results",
-"https://nhrtlpac.org/wp-content/uploads/2024/10/2024-general-voting-guide-v4.pdf",
-"https://nrapvf.org/grades/new-hampshire",
-"https://staging-nhscorecard-php8.kinsta.cloud/",
-"https://twitter.com/jaspillane",
-"https://x.com/intent/tweet?text=Endorsements+2024&url=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fendorsements%2F"
+{
+"text": "About James",
+"href": "https://jamesspillane.org/js/about-james/"
+},
+{
+"text": "American Conservative Union (ACU) – 98%",
+"href": "https://www.cpac.org/foundation/home"
+},
+{
+"text": "Americans for Prosperity (AFP-NH) – 94%",
+"href": "https://staging-nhscorecard-php8.kinsta.cloud/#/"
+},
+{
+"text": "Americans for Tax Reform (ATR Pledge)",
+"href": "https://www.atr.org/pledge-database/"
+},
+{
+"text": "Bills Sponsored",
+"href": "https://jamesspillane.org/js/bills-sponsored/"
+},
+{
+"text": "CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game",
+"href": "https://jamesspillane.org/js/2026/08/04/cacr-15-fundamental-right-to-hunt-fish-and-harvest-game/"
+},
+{
+"text": "Campaign Literature and Signs",
+"href": "https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs/"
+},
+{
+"text": "Citizens Alliance of New Hampshire (CANH)",
+"href": "https://www.citizensalliancenh.org/"
+},
+{
+"text": "Coalition of NH Taxpayers Anti-Broadbased Tax Pledge (CNHT)",
+"href": "https://www.cnht.org/news/about/the-pledge/"
+},
+{
+"text": "Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans",
+"href": "https://jamesspillane.org/js/2026/08/04/cole-and-spillane-elections-air-rifles-w-northeast-airguns-and-sig-sauer-academy-and-veterans/"
+},
+{
+"text": "Cornerstone Policy Research (CPR)",
+"href": "https://www.nhcornerstone.org/endorsements/cornerstone-general-election-endorsements-2024/"
+},
+{
+"text": "DONATE",
+"href": "https://jamesspillane.org/js/donate-to-the-campaign/"
+},
+{
+"text": "Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean",
+"href": "https://jamesspillane.org/js/2026/08/04/dedication-of-the-salt-marsh-pond-access-road-for-representative-harry-bean/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jamesspillane.org/js/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://jamesspillane.org/js/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100006747589487"
+},
+{
+"text": "Granite State Taxpayers Tax Gold Award (GST) – 100%",
+"href": "https://granitestatetaxpayers.org/gst/wp-content/uploads/2024/09/GSTCandidateSurvey2024Name.pdf"
+},
+{
+"text": "HOME",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "HOW TO HELP",
+"href": "https://jamesspillane.org/js/how-to-help/"
+},
+{
+"text": "How New Hampshire Led America to Independence",
+"href": "https://jamesspillane.org/js/2026/07/02/how-new-hampshire-led-america-to-independence/"
+},
+{
+"text": "ISSUES",
+"href": "https://jamesspillane.org/js/on-the-issues/"
+},
+{
+"text": "NH Firearms Coalition (NHFC) – A+",
+"href": "https://jamesspillane.org/js/wp-content/uploads/2024/10/NHFC_Rockingham.pdf"
+},
+{
+"text": "NH House Republican Alliance (HRA) – 100%",
+"href": "https://nhhra.org/hra/wp-content/uploads/2024/08/Score_Score_06-14-2024.pdf"
+},
+{
+"text": "NH Liberty Alliance (NHLA)",
+"href": "https://www.nhliberty.org/home/2024-2025-biennium-candidate-endorsements-and-results/"
+},
+{
+"text": "NH Right to Life (NHRTL)",
+"href": "https://nhrtlpac.org/wp-content/uploads/2024/10/2024-general-voting-guide-v4.pdf"
+},
+{
+"text": "NH State Representative",
+"href": "http://gencourt.state.nh.us/house/members/member.aspx?member=377264"
+},
+{
+"text": "National Rifle Association (NRA) – A",
+"href": "https://www.nrapvf.org/grades/new-hampshire/"
+},
+{
+"text": "Spillane Cited as Most Effective",
+"href": "https://jamesspillane.org/js/2026/05/23/spillane-cited-as-most-effective/"
+},
+{
+"text": "UPDATES",
+"href": "https://jamesspillane.org/js/updates/"
+},
+{
+"text": "Voting Information 2026",
+"href": "https://jamesspillane.org/js/events/voting-information/"
+},
+{
+"text": "Write a Letter",
+"href": "https://jamesspillane.org/js/how-to-help/write-a-letter/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/jaspillane"
+},
+{
+"text": "[image: James Spillane for NH State Representative]",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=Endorsements+2024&body=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fendorsements%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fendorsements%2F&t=Endorsements+2024"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=Endorsements+2024&url=https%3A%2F%2Fjamesspillane.org%2Fjs%2Fendorsements%2F"
+},
+{
+"text": "james@jamesspillane.org",
+"href": "mailto:james@jamesspillane.org"
+}
 ]

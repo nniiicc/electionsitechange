@@ -1,39 +1,198 @@
 [
-"https://bsky.app/profile/jrclemmons.bsky.social",
-"https://capitol.tn.gov/about/capitolvisit.html",
-"https://capitol.tn.gov/legislation",
-"https://epicnine.com/",
-"https://facebook.com/johnrayfortn",
-"https://instagram.com/jrclemmons",
-"https://johnrayfortennessee.com/",
-"https://johnrayfortennessee.com/about",
-"https://johnrayfortennessee.com/campaign-contact",
-"https://johnrayfortennessee.com/contribute",
-"https://johnrayfortennessee.com/how-to-vote",
-"https://johnrayfortennessee.com/legislative-contact",
-"https://johnrayfortennessee.com/media",
-"https://johnrayfortennessee.com/news-updates",
-"https://johnrayfortennessee.com/policy-priorities",
-"https://johnrayfortennessee.com/request-e-newsletter",
-"https://johnrayfortennessee.com/volunteer",
-"https://secure.actblue.com/donate/friends-of-john-ray-clemmons-1",
-"https://sos.tn.gov/blue-book",
-"https://sos.tn.gov/election-day",
-"https://sos.tn.gov/govotetn",
-"https://threads.net/@jrclemmons",
-"https://tiktok.com/@jrclemmonstn",
-"https://tn.gov/",
-"https://tn.gov/attorneygeneral/working-for-tennessee/consumer-affairs.html",
-"https://tn.gov/business.html",
-"https://tn.gov/children-and-families.html",
-"https://tn.gov/content/tn/revenue.html",
-"https://tn.gov/education-mp.html",
-"https://tn.gov/humanservices/disability-services.html",
-"https://tn.gov/jobs4tn",
-"https://tn.gov/tdot",
-"https://tn.gov/tenncare.html",
-"https://tnmap.tn.gov/voterlookup",
-"https://wapp.capitol.tn.gov/Apps/GeneralAssembly/About.aspx",
-"https://wapp.capitol.tn.gov/apps/schedule/default.aspx?type=house",
-"https://x.com/jrclemmons"
+{
+"text": "(615) 741-4410",
+"href": "tel:6157414410"
+},
+{
+"text": "About",
+"href": "https://johnrayfortennessee.com/about/"
+},
+{
+"text": "Business Owners",
+"href": "https://www.tn.gov/business.html"
+},
+{
+"text": "Campaign Contact",
+"href": "https://johnrayfortennessee.com/campaign-contact/"
+},
+{
+"text": "Children & Family Services",
+"href": "https://www.tn.gov/children-and-families.html"
+},
+{
+"text": "Consumer Protection",
+"href": "https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer-affairs.html"
+},
+{
+"text": "Contribute",
+"href": "https://johnrayfortennessee.com/contribute/"
+},
+{
+"text": "Disability Services",
+"href": "https://www.tn.gov/humanservices/disability-services.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-john-ray-clemmons-1"
+},
+{
+"text": "Education",
+"href": "https://www.tn.gov/education-mp.html"
+},
+{
+"text": "Election Information",
+"href": "https://sos.tn.gov/election-day"
+},
+{
+"text": "Employment Opportunities",
+"href": "https://www.tn.gov/jobs4tn"
+},
+{
+"text": "Epic Nine",
+"href": "https://epicnine.com"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/johnrayfortn"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "How to Vote",
+"href": "https://johnrayfortennessee.com/how-to-vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jrclemmons/"
+},
+{
+"text": "Invite JRC To a Community Event",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Invite+To+a+Committee+Event"
+},
+{
+"text": "Learn More",
+"href": "https://wapp.capitol.tn.gov/Apps/GeneralAssembly/About.aspx"
+},
+{
+"text": "Legislative Contact",
+"href": "https://johnrayfortennessee.com/legislative-contact/"
+},
+{
+"text": "Legislative Research",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Legislative+Research"
+},
+{
+"text": "Media",
+"href": "https://johnrayfortennessee.com/media/"
+},
+{
+"text": "News & Updates",
+"href": "https://johnrayfortennessee.com/news-updates/"
+},
+{
+"text": "Policy Priorities",
+"href": "https://johnrayfortennessee.com/policy-priorities/"
+},
+{
+"text": "Register to Vote",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "Request E-Newsletter",
+"href": "https://johnrayfortennessee.com/request-e-newsletter/"
+},
+{
+"text": "Request State Assistance",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Request+State+Assistance"
+},
+{
+"text": "Request a Flag",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Request+a+Flag"
+},
+{
+"text": "Request a Meeting",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Request+a+Meeting"
+},
+{
+"text": "Request a Tennessee Blue Book",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Request+a+Tennessee+Blue+Book"
+},
+{
+"text": "Schedule a Capitol Tour",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Schedule+a+Capitol+Tour"
+},
+{
+"text": "Share Your Opinion",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Share+Your+Opinion"
+},
+{
+"text": "TDOT",
+"href": "https://www.tn.gov/tdot"
+},
+{
+"text": "TN Blue Book",
+"href": "https://sos.tn.gov/blue-book"
+},
+{
+"text": "TN General Assembly Legislation and Bills",
+"href": "https://www.capitol.tn.gov/legislation/"
+},
+{
+"text": "TN House Schedules & Calendar",
+"href": "https://wapp.capitol.tn.gov/apps/schedule/default.aspx?type=house"
+},
+{
+"text": "TN State Services",
+"href": "https://www.tn.gov/#services"
+},
+{
+"text": "Tax Information",
+"href": "https://www.tn.gov/content/tn/revenue.html"
+},
+{
+"text": "TennCare",
+"href": "https://www.tn.gov/tenncare.html"
+},
+{
+"text": "Tennessee House schedule and calendars",
+"href": "mailto:rep.john.ray.clemmons@capitol.tn.gov?subject=Tennessee+House+Schedule+and+Calendars"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.net/@jrclemmons"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@jrclemmonstn"
+},
+{
+"text": "Unemployment Claims",
+"href": "https://www.tn.gov/jobs4tn"
+},
+{
+"text": "Visit the State Capitol",
+"href": "https://www.capitol.tn.gov/about/capitolvisit.html"
+},
+{
+"text": "Volunteer",
+"href": "https://johnrayfortennessee.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/jrclemmons"
+},
+{
+"text": "[image]",
+"href": "https://johnrayfortennessee.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jrclemmons.bsky.social"
+},
+{
+"text": "jrclemmons@gmail.com",
+"href": "mailto:jrclemmons@gmail.com"
+}
 ]

@@ -1,4 +1,4 @@
-Paul Kendrick has spent his life building brighter futures for young people and communities.
+0 Skip to Content Home Meet Paul Issues Endorsements News Contact Volunteer DONATE Open Menu Close Menu DONATE Home Meet Paul Issues Endorsements News Contact Volunteer Open Menu Close Menu Home Meet Paul Issues Endorsements News Contact Volunteer DONATE Paul Kendrick has spent his life building brighter futures for young people and communities.
 Now he’s running to build a strong future for you.
 Paul is a proven neighborhood leader driven by serving communities.
 His experience—from shaping policy at the highest level to bringing neighbors together for change—makes him the most effective advocate to get things done for you.
@@ -23,3 +23,6 @@ Their previous book was Douglass and Lincoln: How a Revolutionary Black Leader a
 He is also an adjunct professor at National Louis University, where he’s taught first-generation college students career development to support them toward their goals.
 Paul and his wife Kori Schulman have two daughters, and they can often be seen at our beloved neighborhood playgrounds.
 Their family belongs to Sinai Synagogue.
+View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Contact: Paul@PaulForIllinois.com PAID FOR BY PAUL FOR ILLINOIS | COPYRIGHT # 2506 N.
+Clark St.
+#406 Chicago, IL 60614 ×

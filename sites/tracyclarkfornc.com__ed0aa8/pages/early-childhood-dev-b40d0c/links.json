@@ -1,28 +1,130 @@
 [
-"https://facebook.com/tracyclarkfornc",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://guilfordchildren.org/",
-"https://instagram.com/tracyclarkfornc",
-"https://linkedin.com/in/tracyboyerclark",
-"https://ncleg.gov/BillLookUp/2025/H115",
-"https://ncleg.gov/BillLookUp/2025/H316",
-"https://ncleg.gov/BillLookUp/2025/H507",
-"https://ncleg.gov/BillLookUp/2025/H628",
-"https://ncleg.gov/BillLookUp/2025/H651",
-"https://ncleg.gov/BillLookUp/2025/H715",
-"https://ncleg.gov/BillLookUp/2025/H809",
-"https://secure.actblue.com/donate/tracy-clark-1",
-"https://tracyclarkfornc.com/",
-"https://tracyclarkfornc.com/about-me",
-"https://tracyclarkfornc.com/community-safety",
-"https://tracyclarkfornc.com/contact%2Fsupport",
-"https://tracyclarkfornc.com/early-childhood-dev",
-"https://tracyclarkfornc.com/economic-development",
-"https://tracyclarkfornc.com/endorsements",
-"https://tracyclarkfornc.com/healthcare",
-"https://tracyclarkfornc.com/housing-1",
-"https://tracyclarkfornc.com/motivation-to-serve",
-"https://tracyclarkfornc.com/nc-house-district-57",
-"https://tracyclarkfornc.com/public-education",
-"https://youtube.com/@RepTracyClark"
+{
+"text": "About Me",
+"href": "https://tracyclarkfornc.com/about-me"
+},
+{
+"text": "Child Care Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H316"
+},
+{
+"text": "Child Care Facility Tax Exemption.",
+"href": "https://ncleg.gov/BillLookUp/2025/H115"
+},
+{
+"text": "Community Safety",
+"href": "https://tracyclarkfornc.com/community-safety"
+},
+{
+"text": "Contact/Support",
+"href": "https://tracyclarkfornc.com/contact%2Fsupport"
+},
+{
+"text": "Count NC Pre-K for School ADM.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H809"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/tracy-clark-1"
+},
+{
+"text": "Early Childhood Dev.",
+"href": "https://tracyclarkfornc.com/early-childhood-dev"
+},
+{
+"text": "Economic Development",
+"href": "https://tracyclarkfornc.com/economic-development"
+},
+{
+"text": "Endorsements",
+"href": "https://tracyclarkfornc.com/endorsements"
+},
+{
+"text": "Guilford County Partnership for Children",
+"href": "https://www.guilfordchildren.org/"
+},
+{
+"text": "HB 316",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H316"
+},
+{
+"text": "HB 507",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H507"
+},
+{
+"text": "HB 628",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H628"
+},
+{
+"text": "HB 651",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H651"
+},
+{
+"text": "HB 715",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H715"
+},
+{
+"text": "Healthcare",
+"href": "https://tracyclarkfornc.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://tracyclarkfornc.com/"
+},
+{
+"text": "Housing",
+"href": "https://tracyclarkfornc.com/housing-1"
+},
+{
+"text": "Motivation to Serve",
+"href": "https://tracyclarkfornc.com/motivation-to-serve"
+},
+{
+"text": "NC House District 57",
+"href": "https://tracyclarkfornc.com/nc-house-district-57"
+},
+{
+"text": "Public Education",
+"href": "https://tracyclarkfornc.com/public-education"
+},
+{
+"text": "Reduce Parent Copays/Child Care Subsidy/Funds.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H651"
+},
+{
+"text": "Reenact Child Tax Credit.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H628"
+},
+{
+"text": "Rep. Tracy ClarkRep. Tracy ClarkRep. Tracy ClarkRep. Tracy Clark",
+"href": "https://tracyclarkfornc.com/"
+},
+{
+"text": "The Children First Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H507"
+},
+{
+"text": "Universal Pre-K.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H715"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/tracyclarkfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tracyclarkfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/tracyboyerclark/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RepTracyClark"
+}
 ]

@@ -1,4 +1,5 @@
-After 25 years of keeping misconduct by law enforcement secret, this bill I helped negotiate to open misconduct records to the public has passed and will finally become law.
+top of page DONATE COMMUNITY WINS TACKLING OUR ISSUES ABOUT CHRIS More Use tab to navigate through the menu items.
+All Articles Environmental Activism Equality Issues Search Sep 9, 2020 2 min read After 25 years of keeping misconduct by law enforcement secret, this bill I helped negotiate to open misconduct records to the public has passed and will finally become law.
 Law enforcement officers already have one of the most difficult and dangerous jobs, so we must support our good officers who are trying to weed out the bad.
 In Hawaii there have been over 80 cases of officers suspended or discharged for unwarranted violence or assault, and over 100 cases of officers filing fraudulent reports or covering up for other officers in recent years.
 And that's not even including corrupt former Police Chief Louis Kealoha.
@@ -10,3 +11,6 @@ This bill also empowers the Law Enforcement Standards Board to revoke officer ce
 Public trust in law enforcement is critical to ensuring justice for all.
 The difficult and often dangerous job of law enforcement is safer, easier, and more effectively executed when citizens trust those empowered to serve and protect them.
 We owe it to our good cops to help them weed out the bad, and build trust between our communities and the law enforcement officers we rely on to serve and protect us.
+Recent Posts See All Chris' Bill Cancels Medical Debt For 50,000 Hawaii Residents Creating New Sanctuaries For Hawaii's Endangered Species We're Creating a new Hemp Industry in Hawai'i!
+Support Our Cause DONATE Contact Us Thanks for reaching out!
+Submit Join Us And Follow Along Paid for by Friends of Chris Lee 111 Hekili Street, Box 392, Kailua, HI 96734 bottom of page

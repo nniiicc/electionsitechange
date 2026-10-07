@@ -1,19 +1,94 @@
 [
-"https://briancalaway.com/",
-"https://briancalaway.com/about",
-"https://briancalaway.com/es",
-"https://briancalaway.com/es/about",
-"https://briancalaway.com/es/blog",
-"https://briancalaway.com/es/contact",
-"https://briancalaway.com/es/events",
-"https://briancalaway.com/es/issues",
-"https://briancalaway.com/es/privacy",
-"https://briancalaway.com/es/terms",
-"https://briancalaway.com/es/volunteer",
-"https://facebook.com/profile.php?id=61587058792033",
-"https://instagram.com/calaway.brian",
-"https://music.amazon.com/podcasts/5bcd0f90-9e89-42a7-9097-7bc4c1f0bd67/the-brian-calaway-podcast",
-"https://open.spotify.com/show/033P1mx9U9CqYRvfUBwYAF",
-"https://x.com/BrianCalawayPod",
-"https://youtube.com/@TheBrianCalawayPodcast"
+{
+"text": "Blog",
+"href": "https://www.briancalaway.com/es/blog"
+},
+{
+"text": "Contacte a Brian",
+"href": "https://www.briancalaway.com/es/contact"
+},
+{
+"text": "EN",
+"href": "https://www.briancalaway.com/about"
+},
+{
+"text": "Eventos",
+"href": "https://www.briancalaway.com/es/events"
+},
+{
+"text": "Inicio",
+"href": "https://www.briancalaway.com/es"
+},
+{
+"text": "Participe",
+"href": "https://www.briancalaway.com/es/#get-involved"
+},
+{
+"text": "Política de privacidad",
+"href": "https://www.briancalaway.com/es/privacy"
+},
+{
+"text": "Sobre Brian",
+"href": "https://www.briancalaway.com/es/about"
+},
+{
+"text": "Temas",
+"href": "https://www.briancalaway.com/es/#issues"
+},
+{
+"text": "Temas",
+"href": "https://www.briancalaway.com/es/issues"
+},
+{
+"text": "Términos",
+"href": "https://www.briancalaway.com/es/terms"
+},
+{
+"text": "Vea los temas",
+"href": "https://www.briancalaway.com/es/#issues"
+},
+{
+"text": "Voluntariado",
+"href": "https://www.briancalaway.com/es/volunteer"
+},
+{
+"text": "[image: Brian Calaway for House]",
+"href": "https://www.briancalaway.com/"
+},
+{
+"text": "[image: Brian Calaway for House]",
+"href": "https://www.briancalaway.com/es"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587058792033"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/calaway.brian/"
+},
+{
+"text": "[tooltip: Podcast on Amazon Music]",
+"href": "https://music.amazon.com/podcasts/5bcd0f90-9e89-42a7-9097-7bc4c1f0bd67/the-brian-calaway-podcast"
+},
+{
+"text": "[tooltip: Podcast on Spotify]",
+"href": "https://open.spotify.com/show/033P1mx9U9CqYRvfUBwYAF"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/BrianCalawayPod"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@TheBrianCalawayPodcast"
+},
+{
+"text": "[tooltip: campaign@briancalaway.com]",
+"href": "mailto:campaign@briancalaway.com"
+},
+{
+"text": "campaign@briancalaway.com",
+"href": "mailto:campaign@briancalaway.com"
+}
 ]

@@ -1,11 +1,12 @@
-News & Events
-News & Events
-Investor Fuel
-Bill Kaiser Interviewed on Real Estate Pros
-Bill Kaiser, Republican candidate for Michigan State Representative in the 76th District, was recently featured on the Real Estate Pros Podcast to discuss his journey from the skilled trades into real estate investing.
-In the interview, Bill shares how hard work, practical skills, and fiscally responsible decision-making helped him build success through foreclosures, rental properties, and hands-on experience.
-As a business owner and investor, Bill understands budgets, solving problems, creating opportunity, and making smart long-term decisions — the same skills he will bring to the State House.
+Home About Bill Kaiser Issues News & Events Contact us DONATE DONATE Home About Bill Kaiser Issues News & Events Contact us News & Events News & Events Investor Fuel Bill Kaiser Interviewed on Real Estate Pros Bill Kaiser, Republican candidate for Michigan State Representative in the 76th District, was recently featured on the Real Estate Pros Podcast to discuss his journey from the skilled trades into real estate investing.
+In the interview, Bill shares how hard work, practical skills, and fiscally responsible decision-making helped him build success through foreclosures, rental properties, and hands-on experience. ﻿ As a business owner and investor, Bill understands budgets, solving problems, creating opportunity, and making smart long-term decisions — the same skills he will bring to the State House.
 It’s a conversation that reflects the common-sense, solutions-oriented leadership Bill Kaiser is ready to deliver for Michigan families.
-On the Campaign Trail
-Bill will be out on the campaign trail in 2026.
+On the Campaign Trail Bill will be out on the campaign trail in 2026.
 Please check back for updates from the Campaign Trail.
+32nd Annual State of Michigan Candlelight Memorial Service Button 32nd Annual State of Michigan Candlelight Memorial Service Button 32nd Annual State of Michigan Candlelight Memorial Service Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Kaiser Campaign Kick-off Fundraiser Log Jam Restaurant & Bar - Grand Ledge Button Eaton County Business Expo Button Eaton County Business Expo Button Eaton County Business Expo Button The Great Awakening - March 4, 2026 Lansing, MI Button St.
+Patrick's Day Parade Grand Ledge Button St.
+Patrick's Day Parade Grand Ledge Button St.
+Patrick's Day Parade Grand Ledge Button St.
+Patrick's Day Parade Grand Ledge Button Common Sense.
+Hard Work.
+Michigan Values Paid for By Bill Kaiser for Michigan, 419 Kenway Drive, Lansing, MI 48917 Quicklinks Home About Bill Kaiser Issues News & Events Contact us Bill@Kaiser4Michigan.com DONATE Share by:

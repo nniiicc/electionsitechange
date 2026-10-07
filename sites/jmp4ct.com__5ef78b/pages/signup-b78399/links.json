@@ -1,10 +1,42 @@
 [
-"https://facebook.com/JMP4CT",
-"https://instagram.com/jmp4ct",
-"https://jmp4ct.com/",
-"https://jmp4ct.com/about-jmp",
-"https://jmp4ct.com/cart",
-"https://jmp4ct.com/issues-and-ideas",
-"https://jmp4ct.com/privacy",
-"https://jmp4ct.com/signup"
+{
+"text": "0",
+"href": "https://www.jmp4ct.com/cart"
+},
+{
+"text": "About JMP",
+"href": "https://www.jmp4ct.com/about-jmp"
+},
+{
+"text": "Home",
+"href": "https://www.jmp4ct.com/"
+},
+{
+"text": "Issues & Ideas",
+"href": "https://www.jmp4ct.com/issues-and-ideas"
+},
+{
+"text": "Privacy",
+"href": "https://www.jmp4ct.com/privacy"
+},
+{
+"text": "Sign Up",
+"href": "https://www.jmp4ct.com/signup"
+},
+{
+"text": "View our Privacy Policy",
+"href": "https://www.jmp4ct.com/privacy"
+},
+{
+"text": "[image: John-Michael Parker]",
+"href": "https://www.jmp4ct.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JMP4CT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jmp4ct/"
+}
 ]

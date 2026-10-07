@@ -1,5 +1,4 @@
-Meet the Honorable John Andrews
-John Served three terms in the Maine House of Representatives from 2018 to 2024.
+Meet John Volunteer Donate Meet the Honorable John Andrews John Served three terms in the Maine House of Representatives from 2018 to 2024.
 During his tenure he served on the Judiciary, Veterans and Legal Affairs, and Innovation Committees.
 In 2020 Representative Andrews was recognized by the Trump Administration as a Champion for the Initiative on Regulatory Innovation for his work on occupational licensing reform.
 After being endorsed by Young Americans for Liberty in his first campaign John was recognized by their Hazlitt Policy Coalition as a Delegate of the Year at the end of his first term.
@@ -11,3 +10,6 @@ John lives in Paris with his wife, two children and their family dog.
 He's served on the Paris Select Board and as the Vice President of the Waterford Fish and Game Association.
 He's been a volunteer for many organizations in the Oxford Hills including the Harrison Foodbank.
 In his free time, he enjoys coaching middle school Football and Boy's Lacrosse.
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Yard Signs Events Contact Paid for by the candidate, not at taxpayer expense.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu

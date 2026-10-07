@@ -1,16 +1,66 @@
 [
-"https://facebook.com/LemondesForAssembly",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/assemblymanjohnlemondes",
-"https://johnlemondes.com/",
-"https://johnlemondes.com/about-john",
-"https://johnlemondes.com/contact",
-"https://johnlemondes.com/contribute",
-"https://johnlemondes.com/endorsements",
-"https://johnlemondes.com/events",
-"https://johnlemondes.com/in-the-news",
-"https://johnlemondes.com/m/account",
-"https://johnlemondes.com/on-the-issues",
-"https://johnlemondes.com/volunteer",
-"https://x.com/Lemondes126"
+{
+"text": "About John",
+"href": "https://johnlemondes.com/about-john"
+},
+{
+"text": "Contact",
+"href": "https://johnlemondes.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://johnlemondes.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://johnlemondes.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://johnlemondes.com/events"
+},
+{
+"text": "Home",
+"href": "https://johnlemondes.com/"
+},
+{
+"text": "In The News",
+"href": "https://johnlemondes.com/in-the-news"
+},
+{
+"text": "My Account",
+"href": "https://johnlemondes.com/m/account"
+},
+{
+"text": "On The Issues",
+"href": "https://johnlemondes.com/on-the-issues"
+},
+{
+"text": "Sign In",
+"href": "https://johnlemondes.com/m/account"
+},
+{
+"text": "Volunteer",
+"href": "https://johnlemondes.com/volunteer"
+},
+{
+"text": "[image: John Lemondes for New York State Assembly]",
+"href": "https://johnlemondes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LemondesForAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/assemblymanjohnlemondes/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Lemondes126"
+}
 ]

@@ -1,17 +1,70 @@
 [
-"http://apolloartistry.com/",
-"https://johnmoran9.com/",
-"https://johnmoran9.com/cdn-cgi/l/email-protection",
-"https://johnmoran9.com/donate",
-"https://johnmoran9.com/facebook",
-"https://johnmoran9.com/instagram",
-"https://johnmoran9.com/privacy-policy",
-"https://johnmoran9.com/twitter",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://secure.actblue.com/donate/jmweb?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=500&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?express_lane=true"
+{
+"text": "$10 $10",
+"href": "https://secure.actblue.com/donate/jmweb?amount=10&express_lane=true"
+},
+{
+"text": "$100 $100",
+"href": "https://secure.actblue.com/donate/jmweb?amount=100&express_lane=true"
+},
+{
+"text": "$25 $25",
+"href": "https://secure.actblue.com/donate/jmweb?amount=25&express_lane=true"
+},
+{
+"text": "$50 $50",
+"href": "https://secure.actblue.com/donate/jmweb?amount=50&express_lane=true"
+},
+{
+"text": "$500 $500",
+"href": "https://secure.actblue.com/donate/jmweb?amount=500&express_lane=true"
+},
+{
+"text": "Contáctanos",
+"href": "mailto:info@johnmoran9.com"
+},
+{
+"text": "Donar",
+"href": "https://johnmoran9.com/donate"
+},
+{
+"text": "Donar Donar",
+"href": "https://johnmoran9.com/donate"
+},
+{
+"text": "EN",
+"href": "https://johnmoran9.com"
+},
+{
+"text": "Encuentra tu lugar de votación para el 2 de Mayo Encuentra tu lugar de votación para el 2 de Mayo",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "English",
+"href": "https://johnmoran9.com"
+},
+{
+"text": "Facebook",
+"href": "https://johnmoran9.com/facebook"
+},
+{
+"text": "Instagram",
+"href": "https://johnmoran9.com/instagram"
+},
+{
+"text": "Otra Cantidad... Otra Cantidad...",
+"href": "https://secure.actblue.com/donate/jmweb?express_lane=true"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://johnmoran9.com/privacy-policy"
+},
+{
+"text": "X-twitter",
+"href": "https://johnmoran9.com/twitter"
+},
+{
+"text": "impulsado por APOLLO",
+"href": "http://apolloartistry.com/"
+}
 ]

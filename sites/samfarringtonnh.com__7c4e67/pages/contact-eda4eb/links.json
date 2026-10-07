@@ -1,10 +1,54 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/p",
-"https://facebook.com/p/Sam-Farrington-for-Rochester-61561016004120",
-"https://samfarringtonnh.com/",
-"https://secure.winred.com/friends-of-sam-farrington/donate-today",
-"https://x.com/samfarringtonnh",
-"https://x.com/samfarringtonnh?s=11"
+{
+"text": "About",
+"href": "https://samfarringtonnh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://samfarringtonnh.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-sam-farrington/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://samfarringtonnh.com/#issues"
+},
+{
+"text": "Leadership",
+"href": "https://samfarringtonnh.com/#leadership"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "Values",
+"href": "https://samfarringtonnh.com/#values"
+},
+{
+"text": "[image: Sam Farrington Logo] Sam Farrington",
+"href": "https://samfarringtonnh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Sam-Farrington-for-Rochester-61561016004120/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/samfarringtonnh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/samfarringtonnh?s=11"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Eric
-| Eric Ebersole is a Baltimore County native that served as a teacher in Howard County for 35 years, and a lifelong resident of southwest Baltimore County, where D44A is located He was born to a family of teachers and is an alumnus of the Baltimore County Public School System.
+Eric Ebersole Home Events Meet Eric District 44A Scholarships Newsletters Donate Contact Volunteer Meet Eric Meet Eric Eric Ebersole is a Baltimore County native that served as a teacher in Howard County for 35 years, and a lifelong resident of southwest Baltimore County, where D44A is located He was born to a family of teachers and is an alumnus of the Baltimore County Public School System.
 He went on to attend University of Maryland, College Park and graduated summa cum laude in the College of Education.
 He would later return to obtain his Masters of Science in Math Education.
 Eric has been an active member of the community ever since.
@@ -18,5 +17,8 @@ Further, he understands that a strong economy is connected to a strong education
 Maryland should be on the front line of sustainable job growth by closing the skills gap and attracting STEM job opportunities, steps that will prepare our workforce for the future.
 As Marylanders, we should promote capital projects for renewable energy, and Eric believes that we must protect and preserve the natural resources of our state.
 Environmental protection not only supports our economy, but also our quality of life and public health.
-Eric is proud to serve as your Delegate in District 44A! | Endorsed by: MARYLAND STATE EDUCATION ASSOCIATION (MSEA) TEACHERS' ASSOCIATION OF BALTIMORE COUNTY (TABCO) EDUCATIONAL SUPPORT PROFESSIONALS OF BALTIMORE COUNTY (ESPBC) BALTIMORE COUNTY FIREFIGHTERS ASSOCIATION MARYLAND AND D.C.
-METROPOLITAN AFL-CIO AFSCME 3 CASA DE MARYLAND SIERRA CLUB, MARYLAND CHAPTER LEAGUE OF CONSERVATION VOTERS MOMS DEMAND ACTION - GUN SENSE CANDIDATE PRO-CHOICE MARYLAND |
+Eric is proud to serve as your Delegate in District 44A!
+Endorsed by: MARYLAND STATE EDUCATION ASSOCIATION (MSEA) TEACHERS' ASSOCIATION OF BALTIMORE COUNTY (TABCO) EDUCATIONAL SUPPORT PROFESSIONALS OF BALTIMORE COUNTY (ESPBC) BALTIMORE COUNTY FIREFIGHTERS ASSOCIATION MARYLAND AND D.C.
+METROPOLITAN AFL-CIO AFSCME 3 CASA DE MARYLAND SIERRA CLUB, MARYLAND CHAPTER LEAGUE OF CONSERVATION VOTERS MOMS DEMAND ACTION - GUN SENSE CANDIDATE PRO-CHOICE MARYLAND Home Meet Eric Services Events Contact ​Elect Eric Ebersole, Caroline D.
+Ebersole, Treasurer.
+Home Events Meet Eric District 44A Scholarships Newsletters Donate Contact Volunteer

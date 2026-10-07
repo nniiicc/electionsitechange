@@ -1,32 +1,150 @@
 [
-"https://bsky.app/profile/ginafortexas.bsky.social",
-"https://cnbc.com/2026/09/23/texas-data-centers-election.html",
-"https://cnn.com/2026/09/20/politics/texas-democrats-republicans-hinojosa-talarico?cid=ios_app",
-"https://facebook.com/ginafortexas",
-"https://ginafortexas.com/",
-"https://ginafortexas.com/about",
-"https://ginafortexas.com/category/in-the-news",
-"https://ginafortexas.com/contact",
-"https://ginafortexas.com/endorsements",
-"https://ginafortexas.com/jobs",
-"https://ginafortexas.com/news",
-"https://ginafortexas.com/priorities",
-"https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone",
-"https://ginafortexas.com/priority/save-texas-public-schools",
-"https://ginafortexas.com/privacy-policy",
-"https://ginafortexas.com/volunteer",
-"https://houstonchronicle.com/politics/texas/article/hinojosa-greg-abbott-race-22437058.php",
-"https://instagram.com/ginafortexas",
-"https://middleseat.co/",
-"https://mobilize.us/ginahinojosafortexasgovernor",
-"https://secure.actblue.com/donate/web_ms_gh",
-"https://secure.actblue.com/donate/web_ms_gh?amount=10",
-"https://secure.actblue.com/donate/web_ms_gh?amount=100",
-"https://secure.actblue.com/donate/web_ms_gh?amount=25",
-"https://secure.actblue.com/donate/web_ms_gh?amount=250",
-"https://secure.actblue.com/donate/web_ms_gh?amount=500",
-"https://store.ginafortexas.com/",
-"https://tiktok.com/@ginafortexas",
-"https://x.com/GinaHinojosaTX",
-"https://youtube.com/@GinaHinojosaTX"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=500"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/ginafortexas.bsky.social"
+},
+{
+"text": "CNBC",
+"href": "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html"
+},
+{
+"text": "CNN",
+"href": "https://www.cnn.com/2026/09/20/politics/texas-democrats-republicans-hinojosa-talarico?cid=ios_app"
+},
+{
+"text": "Contact",
+"href": "https://ginafortexas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Endorsements",
+"href": "https://ginafortexas.com/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://ginafortexas.com/es/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ginahinojosafortexasgovernor/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ginafortexas/"
+},
+{
+"text": "Gina Hinojosa for Texas Governor [image: Gina Hinojosa for Texas Governor]",
+"href": "https://ginafortexas.com"
+},
+{
+"text": "Gina Hinojosa is betting that voters are tired of culture wars — and Greg Abbott",
+"href": "https://www.houstonchronicle.com/politics/texas/article/hinojosa-greg-abbott-race-22437058.php"
+},
+{
+"text": "Home",
+"href": "https://ginafortexas.com/"
+},
+{
+"text": "Houston Chronicle",
+"href": "https://www.houstonchronicle.com/politics/texas/article/hinojosa-greg-abbott-race-22437058.php"
+},
+{
+"text": "In the News",
+"href": "https://ginafortexas.com/category/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ginafortexas"
+},
+{
+"text": "Jobs",
+"href": "https://ginafortexas.com/jobs/"
+},
+{
+"text": "Meet Gina",
+"href": "https://ginafortexas.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Money in Your Pocket",
+"href": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"
+},
+{
+"text": "News",
+"href": "https://ginafortexas.com/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Priorities",
+"href": "https://ginafortexas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ginafortexas.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy and Terms",
+"href": "https://ginafortexas.com/privacy-policy/"
+},
+{
+"text": "Save Texas Public Schools",
+"href": "https://ginafortexas.com/priority/save-texas-public-schools/"
+},
+{
+"text": "Store",
+"href": "https://store.ginafortexas.com/"
+},
+{
+"text": "Texas turning blue may hinge on Democrats harnessing data center opposition",
+"href": "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ginafortexas"
+},
+{
+"text": "Volunteer",
+"href": "https://ginafortexas.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/GinaHinojosaTX"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@GinaHinojosaTX"
+},
+{
+"text": "“Latino voters, data centers and Republican problems are giving Texas Democrats their highest hopes in 20 years”",
+"href": "https://www.cnn.com/2026/09/20/politics/texas-democrats-republicans-hinojosa-talarico?cid=ios_app"
+}
 ]

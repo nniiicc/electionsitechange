@@ -1,13 +1,50 @@
 [
-"https://facebook.com/TobyforWV",
-"https://secure.winred.com/friends-of-toby-heaney/donate-today",
-"https://secure.winred.com/friends-of-toby-heaney/donate-today?exitintent=true",
-"https://toby4wv.com/",
-"https://toby4wv.com/about",
-"https://toby4wv.com/contact-toby",
-"https://toby4wv.com/donations-and-volunteer-opportunities",
-"https://toby4wv.com/events-calendar",
-"https://toby4wv.com/issues",
-"https://toby4wv.com/news",
-"https://wsiworld.com/martin-milligan"
+{
+"text": "About",
+"href": "https://toby4wv.com/about/"
+},
+{
+"text": "Contact Toby",
+"href": "https://toby4wv.com/contact-toby/"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.winred.com/friends-of-toby-heaney/donate-today?exitintent=true"
+},
+{
+"text": "Donations & Volunteer Opportunities",
+"href": "https://toby4wv.com/donations-and-volunteer-opportunities/"
+},
+{
+"text": "Events Calendar",
+"href": "https://toby4wv.com/events-calendar/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/TobyforWV"
+},
+{
+"text": "Home",
+"href": "https://toby4wv.com/"
+},
+{
+"text": "Issues",
+"href": "https://toby4wv.com/issues/"
+},
+{
+"text": "News",
+"href": "https://toby4wv.com/news/"
+},
+{
+"text": "Powered by [image]",
+"href": "https://www.wsiworld.com/martin-milligan"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/friends-of-toby-heaney/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://toby4wv.com/"
+}
 ]

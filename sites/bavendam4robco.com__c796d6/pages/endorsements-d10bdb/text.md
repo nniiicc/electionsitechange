@@ -1,2 +1,14 @@
-“I’ve seen firsthand how hard Tamara has fought for her top priorities: public education, affordability, and quality healthcare for all.
-She didn’t start fighting when she decided to run for office—she’s been showing up and advocating for Robertson County since the day she moved there.”
+Skip navigation menu Home About Issues News Endorsements Events Volunteer Contact Vote Donate our community supports Tamara Bavendam for TN state house Home About Issues News Endorsements Events Volunteer Contact Vote Donate our community supports Tamara Bavendam for TN state house Tamara Bavendam for TN State House District 66 Vincent Dixie state representative View More Saletta Holloway Former councilwoman View More Joshua Sales congressional candidate View More Darden Copeland Congressional candidate View More Aftyn Behn State Representative View More Howard Bradley Fmr.
+Robertson couty mayor View More Organizations View More View More View More pledges and distinctions View More View More View More Testimonials “ I’ve seen firsthand how hard Tamara has fought for her top priorities: public education, affordability, and quality healthcare for all.
+She didn’t start fighting when she decided to run for office—she’s been showing up and advocating for Robertson County since the day she moved there.” Vincent Dixie " As a former councilwoman and a candidate for Congress in Tennessee’s 7th District, I know what it takes to serve a community with integrity, compassion, and determination.
+That’s why I am proud to endorse Tamara Bavendam for Tennessee House District 66.
+Tamara has earned my support because she leads with heart, listens to the people she serves, and is committed to delivering real results " Saletta holloway "Tamara has my full, unconditional support because she is running on common-sense things that are going to help true people here in Tennessee.
+Whether that’s healthcare, whether that’s just affordable housing— She is the person we need to be sending to the State House to make sure that all of us are taken care of ." joshua sales "Tamara didn't decide to get involved in her community because she wanted to run for office.
+She was already doing the work.
+As a community organizer and advocate, Tamara has spent years listening to her neighbors, bringing people together, and fighting for the people of TN-66.
+She understands that leadership is about showing up for your community and standing up for the people who too often go unheard.
+Government is supposed to work for the people not the other way aroun.
+That's why I'm proud to stand with Tamara" Aftyn behn full endorser List Darden Copeland, Democratic Congressional Nominee for TN-7 Vincent Dixie, State Representative Saletta Holloway, Fmr.
+Nashville City Councilwomen Joshua Sales, Teacher and Fmr.
+Congressional Candidate Aftyn Behn, State Representative and Social Worker The Tennessee Report, Progressive Youth-Led Political Organization Tennessee AFL-CIO, Labor Union Have any questions?
+Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

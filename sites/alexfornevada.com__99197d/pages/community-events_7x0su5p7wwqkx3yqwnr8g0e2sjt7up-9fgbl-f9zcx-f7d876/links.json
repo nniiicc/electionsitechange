@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff%3A+Meet+and+Greet&dates=20250907T000000Z%2F20250907T020000Z&location=1600+Wigwam+Parkway%2C+Henderson%2C+NV%2C+89074%2C+United+States",
-"http://maps.google.com/?q=1600+Wigwam+Parkway+Henderson%2C+NV%2C+89074+United+States",
-"http://x.com/AlexPereszlenyi",
-"https://alexfornevada.com/",
-"https://alexfornevada.com/aboutme",
-"https://alexfornevada.com/cart",
-"https://alexfornevada.com/community-events",
-"https://alexfornevada.com/community-events/7x0su5p7wwqkx3yqwnr8g0e2sjt7up-9fgbl-f9zcx?format=ical",
-"https://alexfornevada.com/community-events/meet-and-greet-219-at-7-pm",
-"https://alexfornevada.com/issues",
-"https://alexfornevada.com/volunteer",
-"https://bsky.app/profile/alexpereszlenyi.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLScmQEFwdZoUF-tCRxpFzZLM9eTvbLhN8_OEwsQDOEkj-qlUtQ/viewform?usp=sharing&ouid=116236643534806921838",
-"https://facebook.com/AlexForNevada",
-"https://instagram.com/alexpereszlenyi",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv",
-"https://threads.com/@alexpereszlenyi",
-"https://tiktok.com/@alexpereszlenyi",
-"https://youtube.com/@AlexPereszlenyi"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1600+wigwam+parkway+henderson%2C+nv%2C+89074+united+states"
+},
+{
+"text": "0",
+"href": "https://www.alexfornevada.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.alexfornevada.com/aboutme"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexfornevada.com/community-events"
+},
+{
+"text": "Community Events",
+"href": "https://www.alexfornevada.com/community-events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff%3A+Meet+and+Greet&dates=20250907T000000Z%2F20250907T020000Z&location=1600+Wigwam+Parkway%2C+Henderson%2C+NV%2C+89074%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.alexfornevada.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.alexfornevada.com/community-events/7x0su5p7wwqkx3yqwnr8g0e2sjt7up-9fgbl-f9zcx?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.alexfornevada.com/issues"
+},
+{
+"text": "Next Next February 19 Meet and Greet 2/19 at 7 pm",
+"href": "https://www.alexfornevada.com/community-events/meet-and-greet-219-at-7-pm"
+},
+{
+"text": "RSVP",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScmQEFwdZoUF-tCRxpFzZLM9eTvbLhN8_OEwsQDOEkj-qlUtQ/viewform?usp=sharing&ouid=116236643534806921838"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexfornevada.com/volunteer"
+},
+{
+"text": "[image: Alex For Nevada]",
+"href": "https://www.alexfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/AlexPereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/alexpereszlenyi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexForNevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alexpereszlenyi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@alexpereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@alexpereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AlexPereszlenyi"
+}
 ]

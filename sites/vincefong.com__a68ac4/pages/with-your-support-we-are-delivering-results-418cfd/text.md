@@ -1,6 +1,5 @@
-With your support, we are delivering results.
-September 21, 2026
-When I ran for Congress, I promised results, not more empty talk from Washington.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate With your support, we are delivering results.
+September 21, 2026 When I ran for Congress, I promised results, not more empty talk from Washington.
 I want to show you exactly what that’s looked like so far.
 Fighting for our water.
 I secured $1 billion in western water infrastructure funding, including $540 million going directly to California dams, canals, and water projects.
@@ -17,3 +16,4 @@ I took on Gavin Newsom’s “hidden climate tax” on cargo ships, forced accou
 This is what showing up and doing the work looks like.
 I’m not finished.
 Not by a long shot.
+Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

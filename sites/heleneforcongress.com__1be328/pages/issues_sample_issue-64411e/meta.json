@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.heleneforcongress.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "8473f4ce3ed0b1e32ded5bf132cefac6266b31e3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Agriculture, Food Security, and Rural Strength",
  "years_mentioned": []
 }

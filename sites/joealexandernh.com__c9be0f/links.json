@@ -1,7 +1,22 @@
 [
-"https://facebook.com/JoeAlexander4Goffstown",
-"https://instagram.com/joealexander4goffstown",
-"https://joealexandernh.com/petition",
-"https://secure.winred.com/friends-of-joe-alexander-jr/donate",
-"https://x.com/joealexandernh"
+{
+"text": "Join the campaign today!",
+"href": "https://secure.winred.com/friends-of-joe-alexander-jr/donate"
+},
+{
+"text": "Read & Sign",
+"href": "https://joealexandernh.com/petition"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/JoeAlexander4Goffstown"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/joealexander4goffstown"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/joealexandernh"
+}
 ]

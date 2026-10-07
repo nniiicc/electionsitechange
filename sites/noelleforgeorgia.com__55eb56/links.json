@@ -1,23 +1,106 @@
 [
-"https://congress.gov/members",
-"https://facebook.com/RepNoelleKahaian",
-"https://instagram.com/noelleforgeorgia",
-"https://legis.ga.gov/committees/house",
-"https://legis.ga.gov/house/page-program",
-"https://legis.ga.gov/legislation/69274",
-"https://legis.ga.gov/legislation/69712",
-"https://legis.ga.gov/legislation/70350",
-"https://legis.ga.gov/legislation/72514",
-"https://legis.ga.gov/legislation/72644",
-"https://libs.uga.edu/capitolmuseum",
-"https://noelleforgeorgia.com/",
-"https://noelleforgeorgia.com/about",
-"https://noelleforgeorgia.com/about-noelle",
-"https://noelleforgeorgia.com/cdn-cgi/l/email-protection",
-"https://noelleforgeorgia.com/constituent-services",
-"https://noelleforgeorgia.com/contact",
-"https://noelleforgeorgia.com/media",
-"https://noelleforgeorgia.com/privacy-policy",
-"https://secure.anedot.com/noelleforgeorgia/donate",
-"https://x.com/NoelleKahaian"
+{
+"text": "About Noelle",
+"href": "https://www.noelleforgeorgia.com/about"
+},
+{
+"text": "About Noelle",
+"href": "https://www.noelleforgeorgia.com/about-noelle/"
+},
+{
+"text": "Capitol Tours",
+"href": "https://www.libs.uga.edu/capitolmuseum"
+},
+{
+"text": "Committee Meetings",
+"href": "https://www.legis.ga.gov/committees/house"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.noelleforgeorgia.com/constituent-services"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.noelleforgeorgia.com/constituent-services/"
+},
+{
+"text": "Contact",
+"href": "https://www.noelleforgeorgia.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.noelleforgeorgia.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/noelleforgeorgia/donate#new_tab"
+},
+{
+"text": "Find My Legislator",
+"href": "https://www.congress.gov/members"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RepNoelleKahaian"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/noelleforgeorgia/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/NoelleKahaian"
+},
+{
+"text": "Home",
+"href": "https://www.noelleforgeorgia.com/"
+},
+{
+"text": "House Page Program",
+"href": "https://www.legis.ga.gov/house/page-program"
+},
+{
+"text": "Media",
+"href": "https://www.noelleforgeorgia.com/media"
+},
+{
+"text": "Media",
+"href": "https://www.noelleforgeorgia.com/media/"
+},
+{
+"text": "Meet Noelle",
+"href": "https://www.noelleforgeorgia.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.noelleforgeorgia.com/privacy-policy/"
+},
+{
+"text": "Read about HB 1063",
+"href": "https://www.legis.ga.gov/legislation/72514"
+},
+{
+"text": "Read about HB 1116",
+"href": "https://www.legis.ga.gov/legislation/72644"
+},
+{
+"text": "Read about HB 196",
+"href": "https://www.legis.ga.gov/legislation/69712"
+},
+{
+"text": "Read about HB 463",
+"href": "https://www.legis.ga.gov/legislation/70350"
+},
+{
+"text": "Read about SB 1",
+"href": "https://www.legis.ga.gov/legislation/69274"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@noelleforgeorgia.com"
+},
+{
+"text": "[image]",
+"href": "https://www.noelleforgeorgia.com/"
+}
 ]

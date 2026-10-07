@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://voteforshamp.com/",
- "paid_for_by": null,
+ "fingerprint": "1b06e8e795b513070996f1b15c698bd5b6998ce4",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY Vote Shamp - All Rights Reserved",
  "title": "Vote For Shamp",
  "years_mentioned": [
   "2019",

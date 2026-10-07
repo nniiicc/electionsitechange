@@ -1,9 +1,12 @@
 {
- "description": "Read Senator Lammis J. Vargas\u2019s 2025 legislative recap for District 28, covering key laws, budget investments, and local community impact.",
+ "description": "Read Senator Lammis J. Vargas’s 2025 legislative recap for District 28, covering key laws, budget investments, and local community impact.",
  "final_url": "https://lammisvargas.com/2025-legislative-recap/",
- "paid_for_by": null,
+ "fingerprint": "337d5eaf19f14f662b919ffc4fbfdb118f4ed255",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2025 Legislative Recap | Senator Lammis J. Vargas, District 28 RI",
  "years_mentioned": [
+  "2024",
   "2025",
   "2026"
  ]

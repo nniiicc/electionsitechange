@@ -1,9 +1,16 @@
 {
  "description": "Explore the life of Paul Sand, a retired computer software engineer with a rich background in business, government, and outdoor adventures.",
  "final_url": "https://paulsand.org/about-me",
- "paid_for_by": null,
+ "fingerprint": "9e895c6fe88c5d44041528b74c5b8b96fb102335",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Me",
  "years_mentioned": [
+  "1950",
+  "1972",
+  "1977",
+  "1997",
+  "2007",
   "2010",
   "2013",
   "2015",

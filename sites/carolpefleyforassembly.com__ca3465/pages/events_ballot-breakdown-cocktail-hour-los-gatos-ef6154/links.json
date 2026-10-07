@@ -1,58 +1,242 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Ballot+Breakdown+Cocktail+Hour&dates=20261003T000000Z%2F20261003T023000Z&location=130+North+Santa+Cruz+Avenue%2C+Los+Gatos%2C+California%2C+95030%2C+United+States",
-"http://maps.google.com/?q=130+North+Santa+Cruz+Avenue+Los+Gatos%2C+California%2C+95030+United+States",
-"https://california.ballottrax.net/voter",
-"https://carolpefleyforassembly.com/",
-"https://carolpefleyforassembly.com/about-carol",
-"https://carolpefleyforassembly.com/almaden-valley-against-aggressive-housing-mandates",
-"https://carolpefleyforassembly.com/ballot-statement",
-"https://carolpefleyforassembly.com/california-state-assembly-district-28",
-"https://carolpefleyforassembly.com/carols-calendar",
-"https://carolpefleyforassembly.com/cart",
-"https://carolpefleyforassembly.com/endorsements",
-"https://carolpefleyforassembly.com/events",
-"https://carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos?format=ical",
-"https://carolpefleyforassembly.com/events/bbq-beers-and-ballots",
-"https://carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30",
-"https://carolpefleyforassembly.com/get-involved",
-"https://carolpefleyforassembly.com/home-original",
-"https://carolpefleyforassembly.com/host-an-event",
-"https://carolpefleyforassembly.com/housing-mandates",
-"https://carolpefleyforassembly.com/in-the-news",
-"https://carolpefleyforassembly.com/key-priorities",
-"https://carolpefleyforassembly.com/los-gatos-saratoga-monte-sereno",
-"https://carolpefleyforassembly.com/meet-carol",
-"https://carolpefleyforassembly.com/morgan-hill-against-up-zoning",
-"https://carolpefleyforassembly.com/news",
-"https://carolpefleyforassembly.com/patriot-store",
-"https://carolpefleyforassembly.com/phone-bank-sign-up",
-"https://carolpefleyforassembly.com/pictures",
-"https://carolpefleyforassembly.com/podcast-california-screamin",
-"https://carolpefleyforassembly.com/podcasts",
-"https://carolpefleyforassembly.com/s/OCT-2.png",
-"https://carolpefleyforassembly.com/santa-cruz-housing-policy",
-"https://carolpefleyforassembly.com/statewide-ballot-measures",
-"https://carolpefleyforassembly.com/the-issue",
-"https://carolpefleyforassembly.com/volunteer",
-"https://carolpefleyforassembly.com/vote-2026",
-"https://carolpefleyforassembly.com/voter-guide-santa-clara-county",
-"https://carolpefleyforassembly.com/voter-guide-santa-cruz-county",
-"https://carolpefleyforassembly.com/voter-help",
-"https://carolpefleyforassembly.com/weekly-volunteer-meeting",
-"https://carolpefleyforassembly.com/willow-glen-against-aggressive-upzoning",
-"https://conservativetoolbox.com/",
-"https://cpf.nucleuspages.com/events/ballot-breakdown-cocktail-hour",
-"https://cpf.nucleuspages.com/landing/volunteer",
-"https://facebook.com/CarolPefleyforAssembly",
-"https://instagram.com/carol.pefley",
-"https://linkedin.com/in/carolpefleyforassembly",
-"https://registertovote.ca.gov/RegisterToVote",
-"https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2",
-"https://sos.ca.gov/elections/polling-place",
-"https://sos.ca.gov/elections/voter-registration/vote-mail",
-"https://sos.ca.gov/elections/who-are-my-representatives",
-"https://tiktok.com/@carolpefleyforassembly",
-"https://x.com/CPefley2026",
-"https://youtube.com/@CaliforniaScreamin",
-"https://youtube.com/@CarolPefleyforAssembly"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=130+north+santa+cruz+avenue+los+gatos%2C+california%2C+95030+united+states"
+},
+{
+"text": "0",
+"href": "https://www.carolpefleyforassembly.com/cart"
+},
+{
+"text": "About Carol",
+"href": "https://www.carolpefleyforassembly.com/about-carol"
+},
+{
+"text": "Almaden Valley",
+"href": "https://www.carolpefleyforassembly.com/almaden-valley-against-aggressive-housing-mandates"
+},
+{
+"text": "Assembly District 28",
+"href": "https://www.carolpefleyforassembly.com/california-state-assembly-district-28"
+},
+{
+"text": "Back",
+"href": "https://www.carolpefleyforassembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.carolpefleyforassembly.com/events"
+},
+{
+"text": "Ballot Statement",
+"href": "https://www.carolpefleyforassembly.com/ballot-statement"
+},
+{
+"text": "California Screamin",
+"href": "https://www.carolpefleyforassembly.com/podcast-california-screamin"
+},
+{
+"text": "Carol Pefley for Assembly",
+"href": "https://www.youtube.com/@CarolPefleyforAssembly"
+},
+{
+"text": "Carol's Calendar",
+"href": "https://www.carolpefleyforassembly.com/carols-calendar"
+},
+{
+"text": "Click to download flyer",
+"href": "https://www.carolpefleyforassembly.com/s/OCT-2.png"
+},
+{
+"text": "Conservative Toolbox",
+"href": "https://conservativetoolbox.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolpefleyforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolpefleyforassembly.com/events"
+},
+{
+"text": "Find Polling Center",
+"href": "https://www.sos.ca.gov/elections/polling-place"
+},
+{
+"text": "Find my Representative",
+"href": "https://www.sos.ca.gov/elections/who-are-my-representatives"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.carolpefleyforassembly.com/get-involved"
+},
+{
+"text": "Folder: Housing Mandates",
+"href": "https://www.carolpefleyforassembly.com/housing-mandates"
+},
+{
+"text": "Folder: Meet Carol",
+"href": "https://www.carolpefleyforassembly.com/meet-carol"
+},
+{
+"text": "Folder: Podcasts",
+"href": "https://www.carolpefleyforassembly.com/podcasts"
+},
+{
+"text": "Folder: Vote 2026",
+"href": "https://www.carolpefleyforassembly.com/vote-2026"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ballot+Breakdown+Cocktail+Hour&dates=20261003T000000Z%2F20261003T023000Z&location=130+North+Santa+Cruz+Avenue%2C+Los+Gatos%2C+California%2C+95030%2C+United+States"
+},
+{
+"text": "Host an Event",
+"href": "https://www.carolpefleyforassembly.com/host-an-event"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos?format=ical"
+},
+{
+"text": "In The News",
+"href": "https://www.carolpefleyforassembly.com/in-the-news"
+},
+{
+"text": "Key Priorities",
+"href": "https://www.carolpefleyforassembly.com/key-priorities"
+},
+{
+"text": "Los Gatos-Saratoga-Monte Sereno",
+"href": "https://www.carolpefleyforassembly.com/los-gatos-saratoga-monte-sereno"
+},
+{
+"text": "Morgan Hill",
+"href": "https://www.carolpefleyforassembly.com/morgan-hill-against-up-zoning"
+},
+{
+"text": "News by Carol",
+"href": "https://www.carolpefleyforassembly.com/news"
+},
+{
+"text": "Next Next October 3 BBQ, Beer, & Ballots",
+"href": "https://www.carolpefleyforassembly.com/events/bbq-beers-and-ballots"
+},
+{
+"text": "Patriot Store",
+"href": "https://www.carolpefleyforassembly.com/patriot-store"
+},
+{
+"text": "Phone Bank Sign Up",
+"href": "https://www.carolpefleyforassembly.com/phone-bank-sign-up"
+},
+{
+"text": "Pictures",
+"href": "https://www.carolpefleyforassembly.com/pictures"
+},
+{
+"text": "Previous Previous September 30 California Governor Debate Watch Party: Steve Hilton vs. Javier Becerra",
+"href": "https://www.carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30"
+},
+{
+"text": "RSVP HERE",
+"href": "https://cpf.nucleuspages.com/events/ballot-breakdown-cocktail-hour"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.ca.gov/RegisterToVote"
+},
+{
+"text": "Replace My Ballot",
+"href": "https://www.sos.ca.gov/elections/voter-registration/vote-mail"
+},
+{
+"text": "Santa Clara County Voter Guide",
+"href": "https://www.carolpefleyforassembly.com/voter-guide-santa-clara-county"
+},
+{
+"text": "Santa Cruz",
+"href": "https://www.carolpefleyforassembly.com/santa-cruz-housing-policy"
+},
+{
+"text": "Santa Cruz County Voter Guide",
+"href": "https://www.carolpefleyforassembly.com/voter-guide-santa-cruz-county"
+},
+{
+"text": "Statewide Ballot Measures",
+"href": "https://www.carolpefleyforassembly.com/statewide-ballot-measures"
+},
+{
+"text": "The Issue",
+"href": "https://www.carolpefleyforassembly.com/the-issue"
+},
+{
+"text": "Track My Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Volunteer",
+"href": "https://cpf.nucleuspages.com/landing/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carolpefleyforassembly.com/volunteer"
+},
+{
+"text": "Voter Help",
+"href": "https://www.carolpefleyforassembly.com/voter-help"
+},
+{
+"text": "Weekly Volunteer Meeting",
+"href": "https://www.carolpefleyforassembly.com/weekly-volunteer-meeting"
+},
+{
+"text": "Willow Glen",
+"href": "https://www.carolpefleyforassembly.com/willow-glen-against-aggressive-upzoning"
+},
+{
+"text": "[image: Carol Pefley for California State Assembly District 28]",
+"href": "https://www.carolpefleyforassembly.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.carolpefleyforassembly.com/home-original"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolPefleyforAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carol.pefley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/carolpefleyforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carolpefleyforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CaliforniaScreamin"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CPefley2026"
+},
+{
+"text": "carol@carolpefleyforassembly.com",
+"href": "mailto:carol@carolpefleyforassembly.com"
+}
 ]

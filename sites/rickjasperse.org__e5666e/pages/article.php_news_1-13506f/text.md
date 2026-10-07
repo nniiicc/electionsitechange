@@ -1,4 +1,4 @@
-[January 19, 2011] | Marcia and I went down on Sunday to attend the Wild Hog supper that is traditionally the night before the start of the Session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK What a first week for me in the legislature! [ January 19, 2011 ] | Marcia and I went down on Sunday to attend the Wild Hog supper that is traditionally the night before the start of the Session.
 The House Agriculture committee and the GA Dept. of Ag sponsor the supper.
 I was part of the welcoming committee because I am part if the Ag committee.
 I enjoyed shaking about a thousand people�s hands and of course eating the BBQ.
@@ -47,4 +47,4 @@ To aid in that duty, I plan to send weekly updates to keep you informed during t
 I also hope to hear from you about the issues facing our great state, which you feel are important.
 Please call my office at the Capitol in Atlanta and let me know what I can do for you.
 The phone number is 404-656-7859.
-At your service, Rick
+At your service, Rick Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

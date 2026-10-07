@@ -1,27 +1,122 @@
 [
-"http://facebook.com/profile.php?id=61574380539767",
-"https://activote.app/DpOYmgs481b",
-"https://arthurwebbassembly.com/",
-"https://arthurwebbassembly.com/about",
-"https://arthurwebbassembly.com/contact",
-"https://arthurwebbassembly.com/contribute",
-"https://arthurwebbassembly.com/district-15-map",
-"https://arthurwebbassembly.com/guiding-principles",
-"https://arthurwebbassembly.com/home",
-"https://arthurwebbassembly.com/issues",
-"https://arthurwebbassembly.com/meet_arthur",
-"https://arthurwebbassembly.com/news",
-"https://arthurwebbassembly.com/privacy-policy",
-"https://arthurwebbassembly.com/propositions",
-"https://arthurwebbassembly.com/volunteer",
-"https://arthurwebbassembly.com/vote",
-"https://arthurwebbassembly.com/why-i-am-running",
-"https://arthurwebbassembly.com/yard-sign",
-"https://ballotpedia.org/Arthur_Webb",
-"https://campaignpartner.com/",
-"https://external-content.duckduckgo.com/iu?u=https%3A%2F%2Fwww.assembly.ca.gov%2Fsites%2Fassembly.ca.gov%2Ffiles%2Fmedia%2F15-ad-gmap-2022_3.png&f=1&nofb=1&ipt=178091b5118e5b4d1c693a7988fc8bcf64225622d259d18e54d6dc49672c62a8",
-"https://linkedin.com/in/arthur-webb-914716402",
-"https://reformcalifornia.org/",
-"https://vote411.org/plan-your-vote",
-"https://x.com/WebbAssembly"
+{
+"text": "About",
+"href": "https://arthurwebbassembly.com/about"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact Us",
+"href": "https://arthurwebbassembly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://arthurwebbassembly.com/contribute"
+},
+{
+"text": "District 15",
+"href": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.assembly.ca.gov%2Fsites%2Fassembly.ca.gov%2Ffiles%2Fmedia%2F15-ad-gmap-2022_3.png&f=1&nofb=1&ipt=178091b5118e5b4d1c693a7988fc8bcf64225622d259d18e54d6dc49672c62a8"
+},
+{
+"text": "District 15 Map",
+"href": "https://arthurwebbassembly.com/district-15-map"
+},
+{
+"text": "Guiding Principles",
+"href": "https://arthurwebbassembly.com/guiding-principles"
+},
+{
+"text": "Home",
+"href": "https://arthurwebbassembly.com/home"
+},
+{
+"text": "Issues",
+"href": "https://arthurwebbassembly.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://arthurwebbassembly.com/volunteer"
+},
+{
+"text": "Meet Arthur",
+"href": "https://arthurwebbassembly.com/meet_arthur"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://arthurwebbassembly.com/vote"
+},
+{
+"text": "News",
+"href": "https://arthurwebbassembly.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://arthurwebbassembly.com/privacy-policy"
+},
+{
+"text": "Propositions",
+"href": "https://arthurwebbassembly.com/propositions"
+},
+{
+"text": "Show Your Support Request a Yard Sign Click Here to Request a Sign",
+"href": "https://arthurwebbassembly.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Contribute Today Click Here to Contribute",
+"href": "https://arthurwebbassembly.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://arthurwebbassembly.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://arthurwebbassembly.com/vote"
+},
+{
+"text": "Why Am I Running?",
+"href": "https://arthurwebbassembly.com/why-i-am-running"
+},
+{
+"text": "Yard Signs",
+"href": "https://arthurwebbassembly.com/yard-sign"
+},
+{
+"text": "[image: Arthur Webb California State Assembly 15]",
+"href": "https://arthurwebbassembly.com/"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.vote411.org/plan-your-vote"
+},
+{
+"text": "[image]",
+"href": "https://activote.app/DpOYmgs481b"
+},
+{
+"text": "[image]",
+"href": "https://ballotpedia.org/Arthur_Webb"
+},
+{
+"text": "[image]",
+"href": "https://reformcalifornia.org"
+},
+{
+"text": "[image]",
+"href": "https://www.vote411.org/plan-your-vote"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/profile.php?id=61574380539767"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/arthur-webb-914716402"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WebbAssembly"
+}
 ]

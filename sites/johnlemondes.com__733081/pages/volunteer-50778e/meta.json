@@ -1,7 +1,9 @@
 {
  "description": "Explore volunteer opportunities with John Lemondes for the New York State Assembly. Join us in making a difference!",
  "final_url": "https://johnlemondes.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "7a19cbaab54672e594a92449b6a6f2f37feb4990",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
  "years_mentioned": []
 }

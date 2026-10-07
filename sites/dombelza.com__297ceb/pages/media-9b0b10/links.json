@@ -1,39 +1,242 @@
 [
-"https://dombelza.com/",
-"https://dombelza.com/about",
-"https://dombelza.com/contact-us",
-"https://dombelza.com/endorsements",
-"https://dombelza.com/issues",
-"https://dombelza.com/media",
-"https://dombelza.com/news",
-"https://dombelza.com/privacy-policy",
-"https://dombelza.com/volunteer",
-"https://dombelza.com/wp-content/uploads/2026/08/2E9B16E0-E3E5-449E-998F-2104619DB74B_1_105_c.jpeg",
-"https://dombelza.com/wp-content/uploads/2026/08/3-25-Belza-Pictures-59-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/363BD623-2ED4-4498-A39D-610E0C6663D1_1_105_c.jpeg",
-"https://dombelza.com/wp-content/uploads/2026/08/3C4D1851-A166-4984-9DC3-2BF35B6ED550_1_105_c.jpeg",
-"https://dombelza.com/wp-content/uploads/2026/08/DSC03566_websize.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/DSCF1018-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/DSCF1024-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/Farrar3-1-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/Hunting-Aj.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_0818-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_0895-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_1067-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_1338-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_3618-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_3635-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_5354.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/IMG_9296-scaled.png",
-"https://dombelza.com/wp-content/uploads/2026/08/JG-and-DB.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/Mix-Belza-Version2_NewTag.mp3",
-"https://dombelza.com/wp-content/uploads/2026/08/Placer-GOP-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/Prop-36-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/Rope-scaled-1.jpg",
-"https://dombelza.com/wp-content/uploads/2026/08/Sheriff-Kain_Edited.png",
-"https://dombelza.com/wp-content/uploads/2026/10/Belza_Radio60_MIX_1.mp3",
-"https://efundraisingconnections.com/c/BelzaforAssembly2026",
-"https://facebook.com/ElectDomBelza",
-"https://instagram.com/dombelza",
-"https://youtube.com/@DomBelzaForStateAssembly"
+{
+"text": "About",
+"href": "https://dombelza.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://dombelza.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/BelzaforAssembly2026"
+},
+{
+"text": "Endorsements",
+"href": "https://dombelza.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ElectDomBelza"
+},
+{
+"text": "Home",
+"href": "https://dombelza.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dombelza/"
+},
+{
+"text": "Issues",
+"href": "https://dombelza.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://dombelza.com/media/"
+},
+{
+"text": "News",
+"href": "https://dombelza.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dombelza.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://dombelza.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@DomBelzaForStateAssembly"
+},
+{
+"text": "[image]",
+"href": "https://dombelza.com/"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/2E9B16E0-E3E5-449E-998F-2104619DB74B_1_105_c.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/3-25-Belza-Pictures-59-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/363BD623-2ED4-4498-A39D-610E0C6663D1_1_105_c.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/3C4D1851-A166-4984-9DC3-2BF35B6ED550_1_105_c.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/DSC03566_websize.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/DSCF1018-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/DSCF1024-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Farrar3-1-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Hunting-Aj.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_0818-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_0895-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_1067-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_1338-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_3618-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_3635-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_5354.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/IMG_9296-scaled.png"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/JG-and-DB.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Placer-GOP-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Prop-36-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Rope-scaled-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Sheriff-Kain_Edited.png"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Big-Dinner-Shot.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Chico-Fire.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Convo-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Convo2-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Convo3-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/DB-w-daughter-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/DB_JG6-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Election-Night.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Firefighter-scaled.png"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Fish.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/IMG_4093-scaled.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JG_DB2-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JGandDB-scaled.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JGandDB2-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JGandDB3-scaled.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JGandDB4.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JGandDB5-scaled.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/JGwSign-scaled.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Pumpkin.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Selfi-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Signs-scaled.png"
+},
+{
+"text": "[no text]",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/group-scaled.jpeg"
+},
+{
+"text": "https://dombelza.com/wp-content/uploads/2026/08/Mix-Belza-Version2_NewTag.mp3",
+"href": "https://dombelza.com/wp-content/uploads/2026/08/Mix-Belza-Version2_NewTag.mp3"
+},
+{
+"text": "https://dombelza.com/wp-content/uploads/2026/10/Belza_Radio60_MIX_1.mp3",
+"href": "https://dombelza.com/wp-content/uploads/2026/10/Belza_Radio60_MIX_1.mp3"
+}
 ]

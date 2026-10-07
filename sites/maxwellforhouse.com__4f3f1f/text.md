@@ -1,16 +1,7 @@
-$1,119
-more per month than January 2021, for the average Montana household
-Senate Joint Economic Committee, December 2024
-Our future is worth the fight.
+Skip to content House District 47 Home My Story Our Fight Donate Home My Story Our Fight Donate A campaign for the rest of us. · House District 47, Billings, Montana John Maxwell Our future is worth the fight.
 Running for the Montana House so everyday families can afford a home, raise their kids and build a future here in Billings.
-A campaign for the rest of us.
-- Home prices +66%
-- Income +26%
-- $1,119 more every month
-- $13,428 more every year
-- Montana home prices +81.2%
-- 46.6% of renters cost-burdened
-- Helena's tax cut $161 a year
+Donate Hear my story A campaign for the rest of us.
+Home prices +66% Income +26% $1,119 more every month $13,428 more every year Montana home prices +81.2% 46.6% of renters cost-burdened Helena's tax cut $161 a year Home prices +66% Income +26% $1,119 more every month $13,428 more every year Montana home prices +81.2% 46.6% of renters cost-burdened Helena's tax cut $161 a year A working-class kid, running against the machine.
 I was born and raised in Billings, and I have paid the same bills you have.
 I dropped out.
 I got knocked down.
@@ -29,18 +20,16 @@ When the people writing the affordability laws haven’t felt any of it in twent
 HD 47 doesn’t need another polished résumé in that room.
 It needs someone who’s actually lived on this side of the ledger.
 Hard work should still mean you can provide, get ahead, and build a life worth passing on.
-$13,428
-more per year, just to keep breathing
-Cumulative inflation of 21.8% since 2021, against 20.7% nationally
-81.2%
-rise in Montana home prices since the start of COVID, the steepest of any state
-FHFA House Price Index, 2025 analysis
-$161
-a year.
-That's what Helena's big income tax cut gives back to the median earner
-HB 337 — $13.43 a month, against $1,119 a month in new costs
-My thoughts on politics
+What it actually costs to live here now. $1,119 more per month than January 2021, for the average Montana household Senate Joint Economic Committee, December 2024 $13,428 more per year, just to keep breathing Cumulative inflation of 21.8% since 2021, against 20.7% nationally 81.2% rise in Montana home prices since the start of COVID, the steepest of any state FHFA House Price Index, 2025 analysis $161 a year.
+That's what Helena's big income tax cut gives back to the median earner HB 337 — $13.43 a month, against $1,119 a month in new costs Scroll My thoughts on politics Standing with Montana families.
 Montana needs change, no matter which party we come from.
 The problems facing Montanans are everyone’s responsibility in Helena.
 I’m running because getting ahead is becoming harder for my family and so many others, and that pressure reaches into every part of our lives.
 We need to work together so families have room to live and room to grow.
+Hear my story, decide for yourself.
+My Story → What's your story?
+Make yourself heard.
+Your Story → It's our voice And our choice.
+Donate A campaign for the rest of us.
+Maxwell for House House District 47 · Billings, Montana Paid by Maxwell for Montana, Republican, Montana House of Representatives | P.O.
+Box 80331, Billings, MT 59108

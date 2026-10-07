@@ -1,12 +1,62 @@
 [
-"https://5vw.b5b.myftpupload.com/wp-content/uploads/2025/01/Screenshot2024-12-14at4.33.09PM.png",
-"https://facebook.com/votestevewashington",
-"https://google.com/maps/d/u/0/viewer?mid=1cEm-nZCQSQW5-mpUzOTs-8xPiy7jlSCf&ll=39.77414130292135%2C-75.51864250000001&z=13",
-"https://ivote.de.gov/VoterView",
-"https://silverbulletwebsolutions.com/",
-"https://votestevewashington.com/",
-"https://votestevewashington.com/about-steves-campaign",
-"https://votestevewashington.com/connect",
-"https://votestevewashington.com/the-1st-district",
-"https://votestevewashington.com/volunteer"
+{
+"text": "About SD1",
+"href": "https://votestevewashington.com/the-1st-district"
+},
+{
+"text": "About Senate District 1",
+"href": "https://votestevewashington.com/the-1st-district"
+},
+{
+"text": "About Steve’s Campaign",
+"href": "https://votestevewashington.com/about-steves-campaign/"
+},
+{
+"text": "CLICK HERE FOR AN INTERACTIVE MAP OF ALL DELAWARE STATE SENATE DISTRICTS",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1cEm-nZCQSQW5-mpUzOTs-8xPiy7jlSCf&ll=39.77414130292135%2C-75.51864250000001&z=13"
+},
+{
+"text": "CLICK HERE TO CONFIRM YOU ARE REGISTERED TO VOTE AND TO SEE WHERE YOU SHOULD VOTE",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Connect",
+"href": "https://votestevewashington.com/connect"
+},
+{
+"text": "Home",
+"href": "https://votestevewashington.com/"
+},
+{
+"text": "OUR FACEBOOK PAGE",
+"href": "https://www.facebook.com/votestevewashington/"
+},
+{
+"text": "Phone: 302-602-5149",
+"href": "tel:302-602-5149"
+},
+{
+"text": "Silver Bullet Web Solutions",
+"href": "https://silverbulletwebsolutions.com/"
+},
+{
+"text": "Visit Steve’s Facebook page",
+"href": "https://www.facebook.com/votestevewashington/"
+},
+{
+"text": "Volunteer",
+"href": "https://votestevewashington.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://votestevewashington.com/#vote"
+},
+{
+"text": "[image]",
+"href": "https://5vw.b5b.myftpupload.com/wp-content/uploads/2025/01/Screenshot2024-12-14at4.33.09PM.png"
+},
+{
+"text": "[image]",
+"href": "https://votestevewashington.com/"
+}
 ]

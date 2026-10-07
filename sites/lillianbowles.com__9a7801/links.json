@@ -1,14 +1,82 @@
 [
-"https://facebook.com/ElectLillianBowles",
-"https://instagram.com/electlillianbowles",
-"https://lillianbowles.com/",
-"https://lillianbowles.com/about",
-"https://lillianbowles.com/accessibility-statement",
-"https://lillianbowles.com/affordability-stability",
-"https://lillianbowles.com/education-opportunity",
-"https://lillianbowles.com/event-list",
-"https://lillianbowles.com/join-the-team",
-"https://lillianbowles.com/privacy-policy",
-"https://lillianbowles.com/strong-families-communities",
-"https://secure.actblue.com/donate/lillianbowles"
+{
+"text": "About",
+"href": "https://www.lillianbowles.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.lillianbowles.com/accessibility-statement"
+},
+{
+"text": "Affordability & Stability",
+"href": "https://www.lillianbowles.com/affordability-stability"
+},
+{
+"text": "Education & Opportunity",
+"href": "https://www.lillianbowles.com/education-opportunity"
+},
+{
+"text": "Events",
+"href": "https://www.lillianbowles.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.lillianbowles.com"
+},
+{
+"text": "Join The Team",
+"href": "https://www.lillianbowles.com/join-the-team"
+},
+{
+"text": "Learn More",
+"href": "https://www.lillianbowles.com/affordability-stability"
+},
+{
+"text": "Learn More",
+"href": "https://www.lillianbowles.com/education-opportunity"
+},
+{
+"text": "Learn More",
+"href": "https://www.lillianbowles.com/strong-families-communities"
+},
+{
+"text": "Learn More About Me",
+"href": "https://www.lillianbowles.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lillianbowles.com/privacy-policy"
+},
+{
+"text": "Strong Families & Communities",
+"href": "https://www.lillianbowles.com/strong-families-communities"
+},
+{
+"text": "Support",
+"href": "https://secure.actblue.com/donate/lillianbowles"
+},
+{
+"text": "Support Now",
+"href": "https://secure.actblue.com/donate/lillianbowles"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lillianbowles.com/join-the-team"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectLillianBowles"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electlillianbowles/"
+},
+{
+"text": "[image: Lillian-White-Transparent.png]",
+"href": "https://www.lillianbowles.com"
+},
+{
+"text": "info@lillianbowles.com",
+"href": "mailto:info@lillianbowles.com"
+}
 ]

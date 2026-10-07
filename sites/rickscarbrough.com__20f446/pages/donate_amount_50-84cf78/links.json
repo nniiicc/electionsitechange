@@ -1,9 +1,42 @@
 [
-"https://facebook.com/rickscarbroughtn",
-"https://rickscarbrough.com/",
-"https://rickscarbrough.com/about",
-"https://rickscarbrough.com/contact",
-"https://rickscarbrough.com/donate",
-"https://rickscarbrough.com/press",
-"https://rickscarbrough.com/why"
+{
+"text": "Contact",
+"href": "https://rickscarbrough.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://rickscarbrough.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://rickscarbrough.com/"
+},
+{
+"text": "Meet Rick",
+"href": "https://rickscarbrough.com/about/"
+},
+{
+"text": "Press",
+"href": "https://rickscarbrough.com/press/"
+},
+{
+"text": "Send Rick A Message",
+"href": "https://rickscarbrough.com/contact/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://rickscarbrough.com/why/"
+},
+{
+"text": "[image: Rick Scarbrough for State Representative][image: Rick Scarbrough for State Representative]",
+"href": "https://rickscarbrough.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rickscarbroughtn"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/rickscarbroughtn"
+}
 ]

@@ -1,2 +1,7 @@
-Assemblywoman Blanca Rubio has been serving the residents of the San Gabriel Valley since her election to the California Legislature in 2016.
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Donate Volunteer Meet Blanca Assemblywoman Blanca Rubio has been serving the residents of the San Gabriel Valley since her election to the California Legislature in 2016.
 As the representative of the 48th State Assembly District, she has championed critical issues facing our most vulnerable communities, provided essential services to our constituents, and introduced legislation that improves the quality of life for thousands of people across California.
+Read more Since 2016, Assemblywoman Blanca Rubio has secured over $ 0 for our community.
+Click here to learn more about what Assemblywoman Rubio has delivered for us.
+Serving the Community Through Legislative Initiatives Women’s Issues Education & Youth Housing & Homelessness Domestic Violence Climate Change Stay Up to Date Sign up to receive regular legislative updates and community news from Assemblywoman Blanca Rubio.
+First name Last name Email address Phone number *By submitting your phone number and email address through this form, you are consenting to receive text messages and email communications from Assemblywoman Blanca Rubio.
+Home Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

@@ -1,10 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61586424262610",
-"https://instagram.com/wayne_richter_for_fl_house",
-"https://secure.anedot.com/wayne-richter-campaign/donate",
-"https://tiktok.com/@wayne.richter.for",
-"https://waynerichter.com/",
-"https://waynerichter.com/events-1",
-"https://waynerichter.com/privacy-policy",
-"https://waynerichter.com/volunteer"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/wayne-richter-campaign/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.waynerichter.com/events-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.waynerichter.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.waynerichter.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586424262610"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wayne_richter_for_fl_house/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wayne.richter.for"
+},
+{
+"text": "[image: Wayne Richter Logo.jpg]",
+"href": "https://www.waynerichter.com"
+}
 ]

@@ -1,5 +1,4 @@
-Back to All Events
-Join Cynthia Curtin for a Campaign Kickoff Fundraiser to celebrate her candidacy for Ninth District Court of Appeals, meet community supporters, and learn about her experience and vision for fair, impartial local justice; the event will feature brief remarks from Cynthia outlining her decades of legal experience, opportunities to ask questions, light refreshments, and ways to get involved or contribute to the campaign.
-Next
-Next
-March 16
+0 Skip to Content Meet Cynthia Curtin Help the Campaign Endorsements Upcoming Events Open Menu Close Menu Meet Cynthia Curtin Help the Campaign Endorsements Upcoming Events Open Menu Close Menu Meet Cynthia Curtin Help the Campaign Endorsements Upcoming Events Back to All Events Campaign Kickoff Fundraiser Wednesday, February 25, 2026 5:30 PM 7:00 PM Country Club of Hudson 2155 Middleton Road Hudson, OH, 44236 United States (map) Google Calendar ICS Join Cynthia Curtin for a Campaign Kickoff Fundraiser to celebrate her candidacy for Ninth District Court of Appeals, meet community supporters, and learn about her experience and vision for fair, impartial local justice; the event will feature brief remarks from Cynthia outlining her decades of legal experience, opportunities to ask questions, light refreshments, and ways to get involved or contribute to the campaign.
+Next Next March 16 Celebrate St.
+Patrick’s Day Be Certain, Vote Curtin!
+Meet the Candidate | Help the Campaign | Campaign Committee Paid for by the Cynthia Curtin for Judge Committee

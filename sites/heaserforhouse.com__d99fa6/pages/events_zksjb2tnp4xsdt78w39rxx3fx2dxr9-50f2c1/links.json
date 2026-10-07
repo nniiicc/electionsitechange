@@ -1,21 +1,86 @@
 [
-"http://bsky.app/profile/heaserforhouse.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=Heaser+for+House+Door+Knock&dates=20261011T180000Z%2F20261011T210000Z",
-"https://facebook.com/profile.php?id=61587965761007",
-"https://heaserforhouse.com/",
-"https://heaserforhouse.com/about",
-"https://heaserforhouse.com/cart",
-"https://heaserforhouse.com/connect",
-"https://heaserforhouse.com/donate-1",
-"https://heaserforhouse.com/endorsements",
-"https://heaserforhouse.com/events",
-"https://heaserforhouse.com/events/heaser-for-house-door-knock-5",
-"https://heaserforhouse.com/events/zksjb2tnp4xsdt78w39rxx3fx2dxr9?format=ical",
-"https://heaserforhouse.com/events/zwxp78pnxsj7thlrkwr339wkal69e8",
-"https://heaserforhouse.com/home",
-"https://heaserforhouse.com/platform",
-"https://instagram.com/heaserforhouse",
-"https://secure.actblue.com/donate/heaserforhouse",
-"https://secure.ngpvan.com/WB0BufXkI0W9H6squfxOBg2",
-"https://tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+{
+"text": "0",
+"href": "https://www.heaserforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.heaserforhouse.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.heaserforhouse.com/events"
+},
+{
+"text": "Connect",
+"href": "https://www.heaserforhouse.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://www.heaserforhouse.com/donate-1"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.actblue.com/donate/heaserforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heaserforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.heaserforhouse.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Heaser+for+House+Door+Knock&dates=20261011T180000Z%2F20261011T210000Z"
+},
+{
+"text": "Home",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.heaserforhouse.com/events/zksjb2tnp4xsdt78w39rxx3fx2dxr9?format=ical"
+},
+{
+"text": "Next Next October 14 Heaser for House Door Knock",
+"href": "https://www.heaserforhouse.com/events/zwxp78pnxsj7thlrkwr339wkal69e8"
+},
+{
+"text": "Platform",
+"href": "https://www.heaserforhouse.com/platform"
+},
+{
+"text": "Previous Previous October 10 Heaser for House Door Knock",
+"href": "https://www.heaserforhouse.com/events/heaser-for-house-door-knock-5"
+},
+{
+"text": "[image: Jason Heaser for MN House of Representatives District 34A]",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.heaserforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/heaserforhouse.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587965761007"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/heaserforhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "https://secure.ngpvan.com/WB0BufXkI0W9H6squfxOBg2",
+"href": "https://secure.ngpvan.com/WB0BufXkI0W9H6squfxOBg2"
+}
 ]

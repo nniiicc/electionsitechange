@@ -1,24 +1,102 @@
 [
-"https://change.org/p/project-enduring-peace-petition?recruited_by_id=fd56d920-551b-11ef-96ef-6f872fdf363e",
-"https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-"https://dianneforcongress.org/doku.php?id=about",
-"https://dianneforcongress.org/doku.php?id=about&do=backlink",
-"https://dianneforcongress.org/doku.php?id=about&do=edit",
-"https://dianneforcongress.org/doku.php?id=about&do=index",
-"https://dianneforcongress.org/doku.php?id=about&do=login",
-"https://dianneforcongress.org/doku.php?id=about&do=media&ns=0",
-"https://dianneforcongress.org/doku.php?id=about&do=recent",
-"https://dianneforcongress.org/doku.php?id=about&do=register",
-"https://dianneforcongress.org/doku.php?id=about&do=revisions",
-"https://dianneforcongress.org/doku.php?id=start",
-"https://dokuwiki.org/",
-"https://dokuwiki.org/donate",
-"https://en.wikipedia.org/wiki/Jane_Addams",
-"https://foundingmothers.world/",
-"https://jigsaw.w3.org/css-validator/check/referer?profile=css3",
-"https://php.net/",
-"https://uspeacememorial.org/",
-"https://validator.w3.org/check/referer",
-"https://wilpfus.org/",
-"https://worldbeyondwar.org/individual"
+{
+"text": "Backlinks",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=backlink"
+},
+{
+"text": "CC Attribution-Share Alike 4.0 International",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "Founding Mothers Movement",
+"href": "https://www.foundingmothers.world/"
+},
+{
+"text": "Jane Addams",
+"href": "https://en.wikipedia.org/wiki/Jane_Addams"
+},
+{
+"text": "Log In",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=login&sectok="
+},
+{
+"text": "Media Manager",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=media&ns=0"
+},
+{
+"text": "Old revisions",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=revisions"
+},
+{
+"text": "Project Enduring Peace",
+"href": "https://www.change.org/p/project-enduring-peace-petition?recruited_by_id=fd56d920-551b-11ef-96ef-6f872fdf363e"
+},
+{
+"text": "Recent Changes",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=recent"
+},
+{
+"text": "Register",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=register"
+},
+{
+"text": "Show pagesource",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=edit"
+},
+{
+"text": "Sitemap",
+"href": "https://dianneforcongress.org/doku.php?id=about&do=index"
+},
+{
+"text": "The US Peace Memorial Foundation",
+"href": "https://uspeacememorial.org"
+},
+{
+"text": "Women's International League for Peace and Freedom",
+"href": "https://wilpfus.org"
+},
+{
+"text": "World Beyond War",
+"href": "https://worldbeyondwar.org/individual"
+},
+{
+"text": "[image: CC Attribution-Share Alike 4.0 International]",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "[image: Donate]",
+"href": "https://www.dokuwiki.org/donate"
+},
+{
+"text": "[image: Driven by DokuWiki]",
+"href": "https://dokuwiki.org/"
+},
+{
+"text": "[image: Powered by PHP]",
+"href": "https://php.net"
+},
+{
+"text": "[image: Valid CSS]",
+"href": "https://jigsaw.w3.org/css-validator/check/referer?profile=css3"
+},
+{
+"text": "[image: Valid HTML5]",
+"href": "https://validator.w3.org/check/referer"
+},
+{
+"text": "[image]Dianne Blais for Congress!",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+},
+{
+"text": "about",
+"href": "https://dianneforcongress.org/doku.php?id=about"
+},
+{
+"text": "dianneforcongress@gmail.com",
+"href": "mailto:dianneforcongress@gmail.com"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+}
 ]

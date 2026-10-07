@@ -1,28 +1,114 @@
 [
-"https://mercantile.wordpress.org/product/wordpress-pennant",
-"https://tx126.net/",
-"https://tx126.net/about-me",
-"https://tx126.net/activity-2",
-"https://tx126.net/blog",
-"https://tx126.net/cart",
-"https://tx126.net/cart?add-to-cart=311",
-"https://tx126.net/cart?add-to-cart=312",
-"https://tx126.net/cart?add-to-cart=706",
-"https://tx126.net/contact",
-"https://tx126.net/faqs",
-"https://tx126.net/forums",
-"https://tx126.net/forums/topic/restaurants",
-"https://tx126.net/forums/topic/schoolbusses",
-"https://tx126.net/forums/topic/schools",
-"https://tx126.net/forums/topic/studentathletes",
-"https://tx126.net/groups-2",
-"https://tx126.net/groups-2/welcome/forum/topic/mission-visit-every-precinct",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/product/706",
-"https://tx126.net/product/business-cards-outreach",
-"https://tx126.net/product/door",
-"https://tx126.net/product/yardsign",
-"https://tx126.net/register",
-"https://tx126.net/shop",
-"https://tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fcart%2F"
+{
+"text": "3",
+"href": "https://www.tx126.net/cart/"
+},
+{
+"text": "About Me",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "Activity",
+"href": "https://www.tx126.net/activity-2/"
+},
+{
+"text": "Add to cart",
+"href": "https://mercantile.wordpress.org/product/wordpress-pennant/"
+},
+{
+"text": "Add to cart",
+"href": "https://www.tx126.net/cart/?add-to-cart=311"
+},
+{
+"text": "Add to cart",
+"href": "https://www.tx126.net/cart/?add-to-cart=312"
+},
+{
+"text": "Add to cart",
+"href": "https://www.tx126.net/cart/?add-to-cart=706"
+},
+{
+"text": "Best Restaurants",
+"href": "https://www.tx126.net/forums/topic/restaurants/"
+},
+{
+"text": "Blog",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "Browse store",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "FAQs",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "Forums",
+"href": "https://www.tx126.net/forums/"
+},
+{
+"text": "Groups",
+"href": "https://www.tx126.net/groups-2/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "Join the Email List",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Log In",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fcart%2F"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Mission: Visit Every Precinct",
+"href": "https://www.tx126.net/groups-2/welcome/forum/topic/mission-visit-every-precinct/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Support The Student Athletes",
+"href": "https://www.tx126.net/forums/topic/studentathletes/"
+},
+{
+"text": "What are the hospitals are in this district?",
+"href": "https://www.tx126.net/forums/topic/schools/"
+},
+{
+"text": "When are the busses running?",
+"href": "https://www.tx126.net/forums/topic/schoolbusses/"
+},
+{
+"text": "[image: Business Cards] Business Cards",
+"href": "https://www.tx126.net/product/business-cards-outreach/"
+},
+{
+"text": "[image: Campaign Donation] Campaign Donation",
+"href": "https://www.tx126.net/product/706/"
+},
+{
+"text": "[image: Door Hanger] Door Hanger",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[image: Yard Sign] Yard Sign",
+"href": "https://www.tx126.net/product/yardsign/"
+}
 ]

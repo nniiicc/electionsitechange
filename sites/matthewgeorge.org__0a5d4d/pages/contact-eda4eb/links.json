@@ -1,10 +1,46 @@
 [
-"https://facebook.com/profile.php?id=100064010166462",
-"https://matthewgeorge.org/",
-"https://matthewgeorge.org/contact",
-"https://matthewgeorge.org/endorsements",
-"https://matthewgeorge.org/media",
-"https://matthewgeorge.org/privacy-policy",
-"https://matthewgeorge.org/terms-and-conditions",
-"https://secure.anedot.com/friends-of-matthew-george/bea12c4c-a174-49ee-a949-a0f48dbfb1e1"
+{
+"text": "CONTACT",
+"href": "https://matthewgeorge.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-matthew-george/bea12c4c-a174-49ee-a949-a0f48dbfb1e1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://matthewgeorge.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100064010166462"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://matthewgeorge.org/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://matthewgeorge.org/"
+},
+{
+"text": "ISSUES",
+"href": "https://matthewgeorge.org/#issues"
+},
+{
+"text": "MEDIA",
+"href": "https://matthewgeorge.org/media/"
+},
+{
+"text": "MEET MATTHEW",
+"href": "https://matthewgeorge.org/#meet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://matthewgeorge.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://matthewgeorge.org/terms-and-conditions/"
+}
 ]

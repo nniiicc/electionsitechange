@@ -1,5 +1,4 @@
-Affordability
-Connecticut families are being squeezed by rising costs, and hidden charges aren’t helping.
+Meet Melissa Issues Events Volunteer Contribute Home ❭ Issues ❭ Affordability Affordability Connecticut families are being squeezed by rising costs, and hidden charges aren’t helping.
 The “public benefits charge” on your electric bill now funds 57 different programs.
 If these programs are worth supporting, they should be part of the state budget, where they can be openly debated and held accountable — not buried in your utility bill.
 Instead of delivering real tax relief, elected officials in Hartford are advancing proposals that will make living in Connecticut even more expensive.
@@ -12,3 +11,5 @@ They need relief, honesty, and leadership focused on affordability.
 To truly lower energy costs, Connecticut must pursue a balanced, all-of-the-above energy strategy.
 This strategy should include nuclear, natural gas, and renewable energy.
 A diversified approach is the most practical path to reliable, affordable power for all families and businesses.
+Next: Constitutional Freedoms » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

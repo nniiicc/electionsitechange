@@ -1,27 +1,134 @@
 [
-"https://austinbaeth.com/",
-"https://austinbaeth.com/account",
-"https://austinbaeth.com/blogs/news",
-"https://austinbaeth.com/cart",
-"https://austinbaeth.com/customer_authentication/redirect?locale=en&region_country=US",
-"https://austinbaeth.com/pages/about",
-"https://austinbaeth.com/pages/contact",
-"https://austinbaeth.com/pages/endorsements",
-"https://austinbaeth.com/pages/issues",
-"https://austinbaeth.com/pages/vote",
-"https://austinbaeth.com/policies/privacy-policy",
-"https://docs.google.com/forms/d/e/1FAIpQLSdLyhKPmiwOs_-bZAmxNWbRI1MZETD-foBkCA0_5y7gN6ggdQ/viewform",
-"https://facebook.com/DrAustinBaeth",
-"https://instagram.com/austinbaeth?hl=en",
-"https://legis.iowa.gov/docs/publications/DMP/1366211.pdf",
-"https://newtri.be/",
-"https://rayguncustom.com/collections/austin-baeth-for-iowa",
-"https://secure.actblue.com/donate/austinbaeth",
-"https://sos.iowa.gov/elections/voterinformation/voterregistration.html",
-"https://tiktok.com/@austinbaeth4iowa?lang=en",
-"https://twitter.com/austinbaeth",
-"https://youtube.com/channel/UCHsDJlS0aZWauXA8j5mxPZQ?sub_confirmation=1",
-"https://youtube.com/watch?v=DzXfDl3fb4o",
-"https://youtube.com/watch?v=Ol4PZG7BTtA",
-"https://youtube.com/watch?v=uVGL0NXEKfg"
+{
+"text": "AUSTIN'S STORY",
+"href": "https://austinbaeth.com/pages/about"
+},
+{
+"text": "BUILT BY NEW TRIBE MEDIA | PAID FOR BY AUSTIN BAETH FOR IOWA",
+"href": "https://newtri.be/"
+},
+{
+"text": "CONTACT",
+"href": "https://austinbaeth.com/pages/contact"
+},
+{
+"text": "Cart",
+"href": "https://austinbaeth.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/austinbaeth"
+},
+{
+"text": "Donate to Austin's campaign",
+"href": "https://secure.actblue.com/donate/austinbaeth"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://austinbaeth.com/pages/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DrAustinBaeth"
+},
+{
+"text": "Heal a Broken Health Care System",
+"href": "https://www.youtube.com/watch?v=DzXfDl3fb4o"
+},
+{
+"text": "ISSUES",
+"href": "https://austinbaeth.com/pages/issues"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/austinbaeth/?hl=en"
+},
+{
+"text": "Log in",
+"href": "https://austinbaeth.com/account"
+},
+{
+"text": "Log in",
+"href": "https://austinbaeth.com/customer_authentication/redirect?locale=en&region_country=US"
+},
+{
+"text": "MERCH",
+"href": "https://www.rayguncustom.com/collections/austin-baeth-for-iowa"
+},
+{
+"text": "Map",
+"href": "https://www.legis.iowa.gov/docs/publications/DMP/1366211.pdf"
+},
+{
+"text": "NEWSROOM",
+"href": "https://austinbaeth.com/blogs/news"
+},
+{
+"text": "Our political system is sick. Let's fix it together. Donate to my campaign today!",
+"href": "https://secure.actblue.com/donate/austinbaeth"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://austinbaeth.com/policies/privacy-policy"
+},
+{
+"text": "Protect Reproductive Rights",
+"href": "https://www.youtube.com/watch?v=uVGL0NXEKfg"
+},
+{
+"text": "Provide World-Class Public Education",
+"href": "https://www.youtube.com/watch?v=Ol4PZG7BTtA"
+},
+{
+"text": "Sign up to volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdLyhKPmiwOs_-bZAmxNWbRI1MZETD-foBkCA0_5y7gN6ggdQ/viewform"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@austinbaeth4iowa?lang=en"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/austinbaeth"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdLyhKPmiwOs_-bZAmxNWbRI1MZETD-foBkCA0_5y7gN6ggdQ/viewform"
+},
+{
+"text": "VOTE",
+"href": "https://austinbaeth.com/pages/vote"
+},
+{
+"text": "VOTE!",
+"href": "https://austinbaeth.com/pages/vote"
+},
+{
+"text": "Voter registration",
+"href": "https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCHsDJlS0aZWauXA8j5mxPZQ/?sub_confirmation=1"
+},
+{
+"text": "[image: Austin Baeth] [image: Austin Baeth]",
+"href": "https://austinbaeth.com/"
+},
+{
+"text": "[image: How do I register to vote in Des Moines, Iowa?] [image: How do I vote?]",
+"href": "https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+},
+{
+"text": "[image: Volunteer work for a democratic political campaign Des Moines, Iowa] [image: How can I help?]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdLyhKPmiwOs_-bZAmxNWbRI1MZETD-foBkCA0_5y7gN6ggdQ/viewform"
+},
+{
+"text": "[image: What district am I in? Iowa House District 36] [image: Do I live in District 36?]",
+"href": "https://www.legis.iowa.gov/docs/publications/DMP/1366211.pdf"
+},
+{
+"text": "donate to my campaign",
+"href": "https://secure.actblue.com/donate/austinbaeth"
+}
 ]

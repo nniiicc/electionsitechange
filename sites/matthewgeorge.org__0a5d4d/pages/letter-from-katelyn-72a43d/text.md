@@ -1,5 +1,4 @@
-Dear Fellow Republican,
-I am honored to be writing to you on behalf of my husband, Matthew George, Candidate for the 5th District Court of Appeals.
+Skip to content HOME MEET MATTHEW ISSUES MEDIA ENDORSEMENTS GET INVOLVED CONTACT HOME MEET MATTHEW ISSUES MEDIA ENDORSEMENTS GET INVOLVED CONTACT Donate Letter From Katelyn Dear Fellow Republican, I am honored to be writing to you on behalf of my husband, Matthew George, Candidate for the 5th District Court of Appeals.
 He is currently a Municipal Court Judge in Licking County where he has served as a magistrate and judge for over 18 years.
 Over the years, I’ve watched him serve on the bench with humility, wisdom, and an unwavering commitment to the Constitution.
 He doesn’t treat the law like something that can be bent with politics or pressure.
@@ -17,5 +16,4 @@ He believes in doing what’s right, even when it’s hard, even when it’s unp
 That’s the kind of leadership our country needs more of today: principled, faithful, and fearless.
 I humbly ask you to vote for my husband, Matthew George, in the May 5th Republican Primary Election.
 Please visit his website matthewgeorge.org and follow him on social media to learn more about his vision.
-Thank you and God Bless,
-Katelyn George
+Thank you and God Bless, Katelyn George Vote Republican — Elect Judge Matthew George for the Ohio 5th District Court of Appeals Follow Judge George Facebook PRIVACY POLICY TERMS AND CONDITIONS Authorized and Paid for by Friends of Matthew George

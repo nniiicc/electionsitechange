@@ -1,3 +1,4 @@
+About Wick Issues Get Involved Events Updates Donate Now Home About Wick Issues Get Involved Events Updates Donate Now August 6, 2024 Today is the day!
 Today is the day!
 Thank you to everyone who has helped make this possible.
 We have run a joyful, creative grassroots campaign all as volunteers.
@@ -30,7 +31,4 @@ I’ve regularly testified in support of our communities.
 I see this position as a tool to help organize our communities and make this District a better place to live.
 I’m so grateful for all of you who see that, too.
 Let’s win this!
-Please Vote Wick Thomas today.
--W
-#UnitedWeThrive
-#UnidosProsperamos
+Please Vote Wick Thomas today. -W #UnitedWeThrive #UnidosProsperamos Support Wick Thomas’s Campaign for Missouri Donate Now Wick Thomas For Missouri PO Box 6601., Kansas City MO 64123-0601 tel:(816) 799-5428 | team@wickthomas.org Clay Jarratt, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

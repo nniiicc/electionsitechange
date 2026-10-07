@@ -1,28 +1,17 @@
-Privacy Policy: Housley for Senate Website
-Effective Date: September 1, 2026
-Housley for Senate (“we,” “us,” or “our”) is committed to protecting the privacy of visitors and users (“you” or “your”) of our political campaign website.
+Meet Karin Issues More Endorsements Privacy Policy Donate Privacy Policy: Housley for Senate Website Effective Date: September 1, 2026 Housley for Senate (“we,” “us,” or “our”) is committed to protecting the privacy of visitors and users (“you” or “your”) of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 1.
-Information We Collect:
-a.
-Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms.
-b.
+Information We Collect: a.
+Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms. b.
 Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services.
-c.
-Automatically Collected Information: When you visit our website, we may automatically collect certain information about your device, browser, and usage patterns.
-This information may include IP addresses, cookies, and other tracking technologies.
 2.
-Use of Information:
-a.
-We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign; to send you updates, newsletters, and other campaign-related information; to analyze and improve our website's performance, content, and user experience; and/or to comply with legal obligations and enforce our rights and agreements.
-b.
+Use of Information: a.
+We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign; to send you updates, newsletters, and other campaign-related information; to analyze and improve our website&#39;s performance, content, and user experience; and/or to comply with legal obligations and enforce our rights and agreements. b.
 Text Messaging Opt-In Data: Your phone number and related data collected for text messaging services will only be used to send you campaign-related text messages and updates.
 3.
-Sharing of Information:
-a.
-We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law.
-b.
+Sharing of Information: a.
+We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law. b.
 Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
 4.
 Data Security: We take reasonable measures to protect the security of your personal information and employ industry-standard security technologies to safeguard it.
@@ -41,3 +30,9 @@ Any changes will be effective immediately upon posting of the revised Privacy Po
 We encourage you to review this page periodically for the latest information on our privacy practices.
 8.
 Contact Us: If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at: Housley for Senate, PO Box 2314, Stillwater, MN 55082.
+Join Team Housley Leave this field empty if you're human: Proudly representing Senate District 33 Bayport, Dellwood, Forest Lake, Grant, Hugo, Mahtomedi, Marine on Saint Croix, May Township, Oak Park Heights, Scandia, Stillwater, Stillwater Township, Willernie Instagram X Facebook YouTube Flickr Prepared and paid for by Housley for Senate · PO Box 2314, Stillwater, MN 55082 SMS Disclaimer: SMS opt-in information will not be shared with third parties.
+By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Housley for Senate.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Menu

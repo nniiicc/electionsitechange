@@ -1,17 +1,66 @@
 [
-"https://cliffsnotes.com/",
-"https://en.wikipedia.org/wiki/The_Man_in_the_Gray_Flannel_Suit_(novel)",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/mchenry-county-and-the-rta-should-we-stay-or-should-we-go",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/videos",
-"https://prospect.org/infrastructure/transportation/2025-06-10-chicagos-public-transit-in-limbo",
-"https://reason.org/wp-content/uploads/addressing-transit-productivity-crisis.pdf",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/mchenry-county-and-the-rta-should-we-stay-or-should-we-go/#respond"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+},
+{
+"text": "click here",
+"href": "https://prospect.org/infrastructure/transportation/2025-06-10-chicagos-public-transit-in-limbo/"
+},
+{
+"text": "men in grey flannel suits",
+"href": "https://en.wikipedia.org/wiki/The_Man_in_the_Gray_Flannel_Suit_(novel)"
+},
+{
+"text": "“Addressing the Transit Productivity Crisis”",
+"href": "https://reason.org/wp-content/uploads/addressing-transit-productivity-crisis.pdf"
+},
+{
+"text": "“Cliff Notes”",
+"href": "https://www.cliffsnotes.com/"
+}
 ]

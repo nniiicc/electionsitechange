@@ -1,7 +1,38 @@
 [
-"https://borenshaw.com/",
-"https://borenshaw.com/about",
-"https://borenshaw.com/press",
-"https://borenshaw.com/privacy",
-"https://secure.winred.com/bo-renshaw-for-state-representative/donate-today"
+{
+"text": "About",
+"href": "https://borenshaw.com/about"
+},
+{
+"text": "Contact & Volunteer",
+"href": "https://borenshaw.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bo-renshaw-for-state-representative/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://borenshaw.com/#contact"
+},
+{
+"text": "Home",
+"href": "https://borenshaw.com/"
+},
+{
+"text": "Press",
+"href": "https://borenshaw.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://borenshaw.com/privacy"
+},
+{
+"text": "Stand With Bo",
+"href": "https://secure.winred.com/bo-renshaw-for-state-representative/donate-today"
+},
+{
+"text": "[image: Bo Renshaw]",
+"href": "https://borenshaw.com/"
+}
 ]

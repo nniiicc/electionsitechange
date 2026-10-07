@@ -1,6 +1,5 @@
-Georgia is always on my mind.
-In my roles as mother, disability advocate, health insurance advocate, and animal rescue foster mom, I’ve developed two common threads in my work:
-Service.
+0 Skip to Content Meredith For Georgia Home About Contact Donate Now Open Menu Close Menu Meredith For Georgia Home About Contact Donate Now Open Menu Close Menu Home About Contact Donate Now Donate Now Georgia is always on my mind.
+In my roles as mother, disability advocate, health insurance advocate, and animal rescue foster mom, I’ve developed two common threads in my work: Service.
 Protection of others.
 The issues we face in our district and state are complex.
 Voters deserve a leader who knows how to put service first.
@@ -17,13 +16,14 @@ My name is Meredith Greene.
 I am running for Georgia House District 26 in Forsyth County.
 I am a lifelong advocate.
 It’s time for me to advocate for you.
+Learn more...
 Do The Dem Thing!
 Do The Dem Thing!
-Meredith’s
-Candidacy
-Ballotpedia is the nonprofit and nonpartisan digital encyclopedia of American politics.
+Do The Dem Thing!
+Meredith’s Candidacy Ballotpedia is the nonprofit and nonpartisan digital encyclopedia of American politics.
 Check out Meredith’s Ballotpedia page to learn more about her background, values, and policy issues.
-Contact Us
-Interested in volunteering or supporting Meredith’s campaign for Georgia House District 26?
+Ballotpedia Support Meredith For Georgia on social media!
+TikTok Facebook Instagram ActBlue Contact Us Interested in volunteering or supporting Meredith’s campaign for Georgia House District 26?
 Please fill out your contact info, and we will be in touch soon.
 We can’t wait to connect with you!
+Meredith For Georgia House District 26 Mailing Address 5067 Post Road Ste 203–229 Cumming, GA 30040 Email Address MeredithForGeorgia@gmail.com

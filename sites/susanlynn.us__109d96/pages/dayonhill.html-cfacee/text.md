@@ -1,21 +1,7 @@
-Day on the Hill
-Let us help you arrange a special day on Capitol Hill and at the General assembly for your family, home school group, club or professional organization.
-Day on the Hill
-We can help you plan an entire day at the state Capitol and General Assembly for your family, home school group, club or professional organization.
+Home Links BIO Day on the Hill Let us help you arrange a special day on Capitol Hill and at the General assembly for your family, home school group, club or professional organization. send > Day on the Hill We can help you plan an entire day at the state Capitol and General Assembly for your family, home school group, club or professional organization.
 We can arrange desired speakers and schedule tours for your group.
 For planning purposes, please note that if you would like to see the General Assembly in Session, the General Assembly is only in Session from mid January til mid April or May and only meets on Monday at 5 pm, Tuesday all day, Wednesday all day and Thursday until noon.
 Please fill out the form above and we will contact you to get started.
-Sample Day on the Hill
-- 8:00 am Ride the Music City Star to Nashville
-- 8:30 am Arrive at the Riverfront Station and take the free shuttle to the Legislature
-- 9:00 am Greeting from Rep.
-Susan Lynn
-- 9:15 am Attend committee meetings
-- 10:00 am Meet with the First Lady, Secretary of State and Speaker of the House
-- 11:00 am Debate your own legislation on the House Floor
-- 12:00 pm Enjoy your boxed lunch with Rep.
-Lynn
-- 1:00 pm Tour the state Library and Archives
-- 2:00 pm Tour the state Capitol
-- 3:00 pm Head back to the Riverfront Station with a stop for ice cream on the way
-- 4:00 pm Ride the Music City Star home
+Sample Day on the Hill 8:00 am Ride the Music City Star to Nashville 8:30 am Arrive at the Riverfront Station and take the free shuttle to the Legislature 9:00 am Greeting from Rep.
+Susan Lynn 9:15 am Attend committee meetings 10:00 am Meet with the First Lady, Secretary of State and Speaker of the House 11:00 am Debate your own legislation on the House Floor 12:00 pm Enjoy your boxed lunch with Rep.
+Lynn 1:00 pm Tour the state Library and Archives 2:00 pm Tour the state Capitol 3:00 pm Head back to the Riverfront Station with a stop for ice cream on the way 4:00 pm Ride the Music City Star home friends of susan lynn support this website Capitol office: 425 5th Avenue North, Suite 426, Cordell Hull Bldg., Nashville, TN 37243 | (615) 741-7462 | rep.susan.lynn@capitol.tn.gov

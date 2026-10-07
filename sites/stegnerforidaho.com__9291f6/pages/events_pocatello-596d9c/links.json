@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Pocatello&dates=20260820T220000Z%2F20260820T233000Z&location=1080+South+5th+Avenue%2C+Pocatello%2C+Idaho%2C+83209%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=1080+South+5th+Avenue+Pocatello%2C+Idaho%2C+83209+United+States",
-"https://eventbrite.com/e/join-john-in-pocatello-tickets-1997174739408",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/blackfoot",
-"https://stegnerforidaho.com/events/driggs",
-"https://stegnerforidaho.com/events/pocatello?format=ical",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1080+south+5th+avenue+pocatello%2C+idaho%2C+83209+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Pocatello&dates=20260820T220000Z%2F20260820T233000Z&location=1080+South+5th+Avenue%2C+Pocatello%2C+Idaho%2C+83209%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/pocatello?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next August 21 Join John in Driggs",
+"href": "https://www.stegnerforidaho.com/events/driggs"
+},
+{
+"text": "Previous Previous August 18 Join John in Blackfoot",
+"href": "https://www.stegnerforidaho.com/events/blackfoot"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.eventbrite.com/e/join-john-in-pocatello-tickets-1997174739408"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "https://www.stegnerforidaho.com/events",
+"href": "https://www.stegnerforidaho.com/events"
+}
 ]

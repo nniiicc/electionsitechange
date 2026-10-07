@@ -1,17 +1,12 @@
-Representative Greg Smith Honored with 2018 Nobel Laureate Award at Hermiston Distinguished Citizens
-HERMISTON, Ore. – Yesterday evening Representative Greg Smith (GOP-Heppner) was presented the 2018 Nobel Laureate Award at the Hermiston Distinguished Citizens Award Banquet.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Representative Greg Smith Honored with 2018 Nobel Laureate Award at Hermiston Distinguished Citizens February 15, 2018 / in News HERMISTON, Ore. – Yesterday evening Representative Greg Smith (GOP-Heppner) was presented the 2018 Nobel Laureate Award at the Hermiston Distinguished Citizens Award Banquet.
 This is the first year the Greater Hermiston Chamber of Commerce, which represents hundreds of local businesses, has bestowed the distinguished award.
 Congressman Greg Walden presented the award to Representative Smith.
-In his remarks, Walden stated:
-“Chances are that if there is a project or community effort underway in Hermiston or anywhere in the Columbia Basin for that matter, you will find this person’s (Smith) fingerprints all over it, and his leadership behind it.”
-“Tonight’s recipient works hard to carry the needs of our community and region to the rest of the state, and the state listens, and he gets results.
+In his remarks, Walden stated: “Chances are that if there is a project or community effort underway in Hermiston or anywhere in the Columbia Basin for that matter, you will find this person’s (Smith) fingerprints all over it, and his leadership behind it.” “Tonight’s recipient works hard to carry the needs of our community and region to the rest of the state, and the state listens, and he gets results.
 As a fellow Eagle Scout, he looks for ways to leave his camp better than he found it.
 Just like Hermiston, he’s always looking for creative solutions to problems.
-The results of his efforts are seen on everything from education, to water, to transportation, and even internet connectivity in this area.”
-“This gentleman is an incredible leader for our state, our region, and this community.”
-The Hermiston Chamber shared the Nobel Laureate Award is a special honor given to an individual who exhibits professional accomplishments, has overcome obstacles, and displays significant, innovative attributes which are beneficial to the region.
-In his acceptance speech, Representative Smith said:
-“Thank you to those who nominated our family for this award and thank you for the jury that agreed to that nomination.
+The results of his efforts are seen on everything from education, to water, to transportation, and even internet connectivity in this area.” “This gentleman is an incredible leader for our state, our region, and this community.” The Hermiston Chamber shared the Nobel Laureate Award is a special honor given to an individual who exhibits professional accomplishments, has overcome obstacles, and displays significant, innovative attributes which are beneficial to the region.
+In his acceptance speech, Representative Smith said: “Thank you to those who nominated our family for this award and thank you for the jury that agreed to that nomination.
 This is the most humbling of awards.
 I want you to know it’s by all of us working together, by being focused, and by being of one mind that we are going to continue to make Hermiston the great community that it is.
-Thank you so much.”
+Thank you so much.” https://repgregsmith.com/wp-content/uploads/2018/02/7cb672_88015c5f01a4456a8bd41614ee2fcf1cmv2.png 404 720 admin https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png admin 2018-02-15 20:39:30 2022-03-30 20:40:16 Representative Greg Smith Honored with 2018 Nobel Laureate Award at Hermiston Distinguished Citizens July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

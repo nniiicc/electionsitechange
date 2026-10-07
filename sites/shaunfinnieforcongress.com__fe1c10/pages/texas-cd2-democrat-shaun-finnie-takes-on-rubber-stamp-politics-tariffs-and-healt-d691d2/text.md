@@ -1,4 +1,4 @@
-Texas CD2 Democrat, Shaun Finnie, Takes On Rubber-Stamp Politics, Tariffs, and Healthcare Failures by Egberto Willies
-Sitting with Shaun Finnie, Democratic candidate for TX 2nd Congressional District.
+Meet Shaun Issues Endorsements Get Involved News Store Donate News Texas CD2 Democrat, Shaun Finnie, Takes On Rubber-Stamp Politics, Tariffs, and Healthcare Failures Texas CD2 Democrat, Shaun Finnie, Takes On Rubber-Stamp Politics, Tariffs, and Healthcare Failures by Egberto Willies Sitting with Shaun Finnie, Democratic candidate for TX 2nd Congressional District.
 He steps into this race with a clear commitment to expanding access to healthcare, protecting workers’ rights & more.
-Read on Substack
+Read on Substack Return to all News Posts Follow Follow Follow Follow Follow Donate Checks can be written to Shaun Finnie for Congress and mailed to: Shaun Finnie for Congress PO Box 130101, Spring, TX 77393 Meet Shaun Issues Endorsements Get Involved News Media Assets Privacy Policy Sign Up for Updates Name Email Sign Up!
+Paid For By Shaun Finnie For Congress PO Box 130101, Spring, TX 77393 © # Shaun Finnie for Congress Customize Reject All Accept All Powered by

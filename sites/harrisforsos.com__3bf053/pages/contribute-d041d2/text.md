@@ -1,14 +1,11 @@
-Make your contribution today!
-Zelle - theprecinct23@gmail.com Committee to Elect Diane Harris for Illinois Secretary of State (SOS)
-The incumbent has generated over $18 million dollars for re-election but is he committed to serve 4 years if re-elected?
+Home News Meet Diane Issues Contribute Photos Contact Events Make your contribution today!
+Zelle - theprecinct23@gmail.com Committee to Elect Diane Harris for Illinois Secretary of State (SOS) The incumbent has generated over $18 million dollars for re-election but is he committed to serve 4 years if re-elected?
 I have made the commitment but he has not.
 Transparency is an important issue in this election.
-Our Current Administrations Policy:
-Making Appointments - NOT working for everyone!
+Our Current Administrations Policy: Making Appointments - NOT working for everyone!
 Sky High Fees - NOT for the People!
 Jeopardizing Road Safety and the CDL Program - NOT Putting America First!
-Ineligible Registered & Deceased Individuals Voting - NOT protecting Election Integrity
-Does that sound like a people serving government?
+Ineligible Registered & Deceased Individuals Voting - NOT protecting Election Integrity Does that sound like a people serving government?
 NO!
 It's time to give the DMV Service back to the people!
 Donating to Diane M Harris Candidate for Secretary, will honor her commitment to put the American People First!
@@ -21,3 +18,5 @@ I’m committed to restoring integrity, transparency, accountability and making 
 I will continue traveling across every county, listening to voters and once elected, putting their concerns into action, but it takes resources!
 America First; Let’s unite.
 Drivers Focused, Let’s win!
+Donate Now!
+Voter Information Yard Signs Events Photos Contact Paid for by the Committee to Elect Diane Harris for Illinois Secretary of State (SOS) Powered by CampaignPartner.com - Political Websites Home News Meet Diane Issues Contribute Photos Contact Events Voter Information Yard Signs Close Menu

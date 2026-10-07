@@ -1,7 +1,4 @@
-Upholding Republican Values
-Rejecting racism and bigotry
-Thomas Jefferson once said, “If you want something you have never had, you must be willing to do something you have never done.”
-Our community stands at a critical juncture.
+Skip to main content Wheeler For Idaho Menu Why I Am Running About Josh Blog Contact Campaign Voting Record Donate Volunteer Search the site Expand Search Upholding Republican Values Rejecting racism and bigotry Thomas Jefferson once said, “If you want something you have never had, you must be willing to do something you have never done.” Our community stands at a critical juncture.
 Drawing from my experiences as a committed Republican and an Idaho public servant, I find it necessary to address recent disconcerting trends that threaten the core values our party and community uphold.
 The incidents of harassment recently faced by female athletes and students in our state are not merely unfortunate events but symptoms of a deeper malaise from a past we've worked hard to overcome.
 Such actions echo the discrimination of the 1920s and divisive ideologies that have no place in a society built on respect and unity.
@@ -18,3 +15,4 @@ My compliments to the many individuals who are following Jefferson’s counsel t
 It is imperative that we, as a community, choose leaders who embody the values of freedom and integrity, steering the Republican Party of Bonneville County back to its noble roots.
 In urging friends and neighbors to reject the currents of division, we not only honor the legacy of Abraham Lincoln but also forge a path toward a more united and prosperous community.
 The power of change is in our hands; let us embrace it with the courage and conviction that define our American spirit.
+18 Apr 2024 Home Campaign Updates Upholding Republican Values Wheeler for Idaho Ben Spencer - Treasurer (208) 360-3926 © # Home About Josh Contact Campaign Back to top

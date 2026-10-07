@@ -1,11 +1,11 @@
-I am a proud Houstonian.
+Skip to content About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store Menu About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store CONTRIBUTE Meet Lizzie Fletcher Meet Lizzie Fletcher I am a proud Houstonian.
 I have lived in this district nearly all my life, and have made my home and built my career here.
 I was born in Hermann Hospital, the youngest of three sisters.
 After graduating from St.
 John’s School in 1993, I went to Kenyon College in Ohio, where I graduated with highest honors in History and was elected to Phi Beta Kappa in 1997.
 After college, I worked for several years in business and non-profit organizations before earning a fellowship to attend William & Mary Law School in Virginia.
 In law school, I was elected editor-in-chief of the William and Mary Law Review and graduated in 2006.
-I began my legal career in 2006 at Vinson & Elkins, an international law firm founded in Houston more than 100 years ago.
+I began my legal career in 2006 at Vinson & Elkins, an international law firm founded in Houston more than #ago.
 A few years later, I joined Ahmad, Zavitsanos, Anaipakos, Alavi & Mensing (AZA), a 50-person firm based in Houston that focuses on high-stakes business litigation.
 I became the firm’s first woman partner in 2015.
 Throughout my career, I have had the privilege of representing Houstonians from diverse backgrounds who face difficult issues every day.
@@ -24,3 +24,6 @@ We are committed to this city and the people who live here.
 And I am committed to working to ensure that this community’s core values—inclusion, innovation, and collaboration—result in progress, equality, and opportunity for all Americans.
 I hope you will join me.
 Together, we can do anything.
+FOLLOW LIZZIE Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

@@ -1,11 +1,8 @@
-top of page
-Upcoming Events
-- 2 days to the eventOct 07, 2026, 7:00 PM CDTCarroll Chamber Candidate Forum /Carroll Rec Center Auditorium, 716 N Grant Road, Carroll, IA 51401
-- 3 days to the eventOct 08, 2026, 5:00 PM – 7:00 PM CDTBowls & Rolls for Bill /Swan Lake State Park — East Side Shelter, 23248 Swan Lake Trail, Carroll, IA 51401, USA
-- 6 days to the eventOct 11, 2026, 3:00 PM – 5:00 PM CDT
-- 14 days to the eventOct 19, 2026, 6:00 PM – 8:00 PM CDT
-- 15 days to the eventOct 20, 2026, 6:00 PM – 8:00 PM CDT
-- 16 days to the eventOct 21, 2026, 6:00 PM – 8:00 PM CDT
-- 17 days to the eventOct 22, 2026, 6:00 PM – 8:00 PM CDT
-ALEN BLANCO HARNANDEZ 2035
-bottom of page
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate Upcoming Events 0 days to the event Oct 07, 2026, 7:00 PM CDT Carroll Chamber Candidate Forum / Carroll Rec Center Auditorium, 716 N Grant Road, Carroll, IA 51401 Learn more Oct 07, 2026, 7:00 PM CDT Carroll Rec Center Auditorium, 716 N Grant Road, Carroll, IA 51401 A candidate forum hosted by the Carroll Chamber of Commerce and Carroll County Growth Partnership.
+1 day to the event Oct 08, 2026, 5:00 PM – 7:00 PM CDT Bowls & Rolls for Bill / Swan Lake State Park — East Side Shelter, 23248 Swan Lake Trail, Carroll, IA 51401, USA Learn more Oct 08, 2026, 5:00 PM – 7:00 PM CDT Swan Lake State Park — East Side Shelter, 23248 Swan Lake Trail, Carroll, IA 51401, USA Chili and cinnamon rolls at a campaign fundraiser hosted by Rich Stoffers and Deanne Wolterman.
+4 days to the event Oct 11, 2026, 3:00 PM – 5:00 PM CDT Solutions for Iowa’s Cancer Crisis / Milk & Honey, 915 7th St, Harlan, IA 51537, USA Learn more Oct 11, 2026, 3:00 PM – 5:00 PM CDT Milk & Honey, 915 7th St, Harlan, IA 51537, USA Community experiences, community partners, and candidate policy discussions about Iowa’s cancer crisis.
+12 days to the event Oct 19, 2026, 6:00 PM – 8:00 PM CDT Meet Bill Owen — Elk Horn / Kulturhus, 2105 Broadway Ave, Elk Horn, IA 51531, USA Learn more Oct 19, 2026, 6:00 PM – 8:00 PM CDT Kulturhus, 2105 Broadway Ave, Elk Horn, IA 51531, USA A public meeting with Bill Owen at Kulturhus in Elk Horn.
+# days to the event Oct 20, 2026, 6:00 PM – 8:00 PM CDT Meet Bill Owen — Audubon / Old Park Hotel, # S Park Pl, Audubon, IA 50025, USA Learn more Oct 20, 2026, 6:00 PM – 8:00 PM CDT Old Park Hotel, 423 S Park Pl, Audubon, IA 50025, USA A public meeting with Bill Owen at Old Park Hotel in Audubon.
+14 days to the event Oct 21, 2026, 6:00 PM – 8:00 PM CDT Meet Bill Owen — Manning / Cliff’s Place, 417 Main St, Manning, IA 51455, USA Learn more Oct 21, 2026, 6:00 PM – 8:00 PM CDT Cliff’s Place, 417 Main St, Manning, IA 51455, USA A public meeting with Bill Owen at Cliff’s Place in Manning.
+15 days to the event Oct 22, 2026, 6:00 PM – 8:00 PM CDT Meet Bill Owen — Avoca / The Embers, 1817 N Lavista Heights Road, Avoca, IA 51521 Learn more Oct 22, 2026, 6:00 PM – 8:00 PM CDT The Embers, 1817 N Lavista Heights Road, Avoca, IA 51521 A public meeting with Bill Owen at The Embers in Avoca.
+PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

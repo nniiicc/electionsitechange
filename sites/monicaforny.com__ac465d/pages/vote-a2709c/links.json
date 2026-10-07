@@ -1,22 +1,98 @@
 [
-"https:// https://elections.ny.gov/request-ballot",
-"https://elections.ny.gov/request-ballot",
-"https://elections.ny.gov/system/files/documents/2024/06/2024-english-absentee-ballot-application-primary-election-only.pdf",
-"https://elections.ny.gov/system/files/documents/2024/06/2024-spanish-absentee-ballot-application-primary-only.pdf",
-"https://elections.ny.gov/voter-registration-process",
-"https://facebook.com/MonicaMartinezSenate",
-"https://instagram.com/monicarmartinez_for_senate",
-"https://monicaforny.com/",
-"https://monicaforny.com/about",
-"https://monicaforny.com/cart",
-"https://monicaforny.com/contribute",
-"https://monicaforny.com/issues",
-"https://monicaforny.com/join-team-martinez",
-"https://monicaforny.com/vote",
-"https://ny.gov/services/register-vote",
-"https://suffolkcountyny.gov/Departments/BOE",
-"https://suffolkcountyny.gov/Departments/BOE/2024-General-Election-Early-Voting-Locations-and-Timings",
-"https://vote.org/am-i-registered-to-vote",
-"https://voterlookup.elections.ny.gov/",
-"https://x.com/monicaforsenate?lang=en"
+{
+"text": "0",
+"href": "https://www.monicaforny.com/cart"
+},
+{
+"text": "2024 General Election Early Voting Locations and Hours",
+"href": "https://suffolkcountyny.gov/Departments/BOE/2024-General-Election-Early-Voting-Locations-and-Timings"
+},
+{
+"text": "APPLY FOR AN EARLY MAIL BALLOT",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "About",
+"href": "https://www.monicaforny.com/about"
+},
+{
+"text": "Check if you are registered to vote",
+"href": "https://www.vote.org/am-i-registered-to-vote/"
+},
+{
+"text": "Contribute",
+"href": "https://www.monicaforny.com/contribute"
+},
+{
+"text": "English",
+"href": "https://elections.ny.gov/system/files/documents/2024/06/2024-english-absentee-ballot-application-primary-election-only.pdf"
+},
+{
+"text": "Español",
+"href": "https://elections.ny.gov/system/files/documents/2024/06/2024-spanish-absentee-ballot-application-primary-only.pdf"
+},
+{
+"text": "Find Your Polling Site",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "How to cast an early mail ballot for the November General Election",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "How to register to vote",
+"href": "https://www.ny.gov/services/register-vote"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforny.com/issues"
+},
+{
+"text": "Join Team Martinez",
+"href": "https://www.monicaforny.com/join-team-martinez"
+},
+{
+"text": "Make changes to your registration",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "Registering in person:",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "Sending your registration by mail:",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "Suffolk County Board of Elections website",
+"href": "https://suffolkcountyny.gov/Departments/BOE"
+},
+{
+"text": "VOTING ABSENTEE IN NY",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "Vote",
+"href": "https://www.monicaforny.com/vote"
+},
+{
+"text": "[image: MonicaforNY]",
+"href": "https://www.monicaforny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://%20https://elections.ny.gov/request-ballot"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MonicaMartinezSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicarmartinez_for_senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/monicaforsenate?lang=en"
+}
 ]

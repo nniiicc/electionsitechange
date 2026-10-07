@@ -1,13 +1,70 @@
 [
-"https://donorbox.org/price-for-mo",
-"https://facebook.com/profile.php?id=61558724284176&mibextid=LQQJ4d",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://upballot.com/",
-"https://upballot.com/Tiffany-Price",
-"https://upballot.com/Tiffany-Price/about",
-"https://upballot.com/Tiffany-Price/events",
-"https://upballot.com/Tiffany-Price/get-involved",
-"https://upballot.com/Tiffany-Price/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Tiffany",
+"href": "https://www.upballot.com/Tiffany-Price/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://donorbox.org/price-for-mo"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Tiffany-Price/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Tiffany-Price/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Tiffany-Price"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Tiffany-Price/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Reach Out",
+"href": "mailto:electtiffanyprice@gmail.com?subject=Volunteer+Interest+for+Tiffany+Price&body=I%E2%80%99m+interested+in+volunteering+for+Tiffany+Price%E2%80%99s+campaign."
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "View Events",
+"href": "https://www.upballot.com/Tiffany-Price/events/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "[image: Tiffany Price Logo]",
+"href": "https://www.upballot.com/Tiffany-Price/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61558724284176&mibextid=LQQJ4d"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61558724284176&mibextid=LQQJ4d"
+},
+{
+"text": "electtiffanyprice@gmail.com",
+"href": "mailto:electtiffanyprice@gmail.com"
+},
+{
+"text": "tel:(816) 386-3060",
+"href": "tel:(816)%20386-3060"
+}
 ]

@@ -1,4 +1,4 @@
-| Restraining the size of state government requires restricting its access to revenue.
+UT 74 VOTE ABOUT Posts Experience Contact Tax Policy and Restraining the Size of State Government 2/22/2023 Restraining the size of state government requires restricting its access to revenue.
 Governments tend to consume whatever revenue is in front of them.
 The best way to keep state government from growing faster than a state economy is to constrain access to revenue.
 Many states are effectively controlling the cost of government operations.
@@ -30,12 +30,12 @@ Summary It is very difficult to constrain spending in government.
 The most effective constraints on spending are those that limit resources.
 The constitutional earmark limited the growth of the largest, fastest growing portion of government.
 If the citizens vote to approve the constitutional amendment, it will be up to the legislature and the citizens to do the hard work the earmark has done for us over many decades contributing to Utah's status as the best managed state.
-On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
+Utah Fits All 1/21/2023 On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
 I was one of 54 House members who voted in favor of the bill.
 The Senate is expected to take up the bill this week and the Governor is expected to sign it.
 This bill has broad positive impacts for students, families, and teachers in the State of Utah.
 A few highlights: 1. $200 million for teacher raises.
-Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. 2.
+Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. ​ 2.
 A new scholarship will be available to approximately 5,000 of Utah's 675,000 students (about 4 students in each school).
 The scholarship prioritizes low income students, and provides funds for those students and their parents to pursue alternative education options directed by the family.
 This student scholarship, also referred to an education savings account, is not unique to Utah.
@@ -48,7 +48,7 @@ I am for education.
 I am for schools.
 I am for teachers, I am for students, and I am for families.
 If you would like to learn more about the bill, below are two helpful summaries.
-Download File Download File One year ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
+HB215 Overview File Size: 78 kb File Type: pdf Download File HB215 Legislative Summary File Size: 46 kb File Type: pdf Download File View House Bill 215 Covid economic outlook, one Year Later 3/21/2021 #ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
 From the outset, it was apparent this recession would be unlike the past recession, or any other in our memory (see my post from March 19, 2020).
 It set in motion structural changes in our economy that will last decades.
 V, U, W, K Recovery As soon as the recession was declared, economists tried to describe the shape of the recovery.
@@ -124,7 +124,7 @@ Homeowners, suburban and rural communities, and essential services are winners t
 Urban centers, renters, children, and low wage earners are feeling the downside.
 The policies of the last year are highly inflationary, even if inflation doesn’t show up in traditional consumption items such as food, fuel, or other household purchases.
 Asset prices are rising and will do so until the policy induced stimulus runs out.
-As a new public charter school authorized for 8-12th grades opening in August of this year, St.
+Charter Schools Impact on District schools 3/5/2017 As a new public charter school authorized for 8-12th grades opening in August of this year, St.
 George Academy will help benefit all of the students in Southern Utah.
 Michael Dee Martineau titled his 2013 Department of Economics PhD dissertation at the University of Utah “The Competitive Effects of Charter Schools in Utah.” In his paper, he concluded “districts that have seen a greater degree of charter competition tend to see increases in traditional public school achievement”.
 St.
@@ -162,16 +162,16 @@ Education is a resourceful teacher inspiring students to learn.
 St.
 George Academy will benefit the students walking through the doors, but it will do more.
 Our students, parents, faculty, and community members desire to be part of the solution in their own lives, and hopefully realize the conclusion asserted in Mr.
-Martineau’s paper, “a greater degree of school choice in Utah can indeed be a rising tide that lifts all boats.” You can read the full dissertation here: https://collections.lib.utah.edu/details?id=195861 I reviewed over 30 charter school bond issues for schools located in Utah.
+Martineau’s paper, “a greater degree of school choice in Utah can indeed be a rising tide that lifts all boats.” You can read the full dissertation here: https://collections.lib.utah.edu/details?id=195861 Utah Charter School Bond Abstracts 10/24/2016 I reviewed over 30 charter school bond issues for schools located in Utah.
 The process involved reading the offering statements and aggregating information about the school, the key service providers, interest rates, and key economic terms.
 For easy reference, I've assembled the data into two tables and used the data to create charts showing key relationships related to interest rates.
 Larger schools and schools with better credit ratings clearly have a financing advantage relative to smaller, lower credit quality schools.
 Further, they have lower relative issuance costs.
-All students are not considered equal, according to this analysis of state support for institutions of Higher Education in Utah.
+Click Here to Download the Table and Charts for Charter School Bond Issues State Universities receive uneven financial support 5/1/2016 All students are not considered equal, according to this analysis of state support for institutions of Higher Education in Utah.
 When it comes to capital facilities and annual appropriations, the results indicate that students at the University of Utah and Utah State University receive significantly more support from the Utah State Legislature than the other institutions of higher education.
 While some underfunded institutions are catching up, others are falling further behind.
 Some of the discrepancies are justified while others may require a second look.
-Also, for an expanded look at state facilities spending, view this blog post from earlier this year: http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free Charter schools are public schools.
+Download the white paper by clicking here Also, for an expanded look at state facilities spending, view this blog post from earlier this year: http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free Utah Charter Schools don't have to pay property taxes 4/24/2016 Charter schools are public schools.
 State owned facilities, including charter schools, do not pay property taxes.
 Facilities leased by the state or one of its subdivisions do have to pay property taxes.
 Many states have exemptions for state facility leases, which would include schools, but Utah currently does not.
@@ -179,12 +179,10 @@ This is especially problematic for charter schools that are built by a developer
 Charter schools leasing one of these new facilities must bear the added burden of paying tens or hundreds of thousands of dollars in property tax expense.
 Many schools have dreamed of having a waiver.
 While there is no waiver, the summary below describes how schools may be able to take advantage of the property tax exemption by structuring their transaction appropriately.
-You can preview the overview below or download the document as a PDF here.
-Capital Expenditures are a unique challenge in state budgets because subdivisions of the state are rarely charged for using the state’s debt or equity for facilities, equipment, and other investment needs.
+You can preview the overview below or download the document as a ﻿ PDF here . ﻿ State funded buildings are not free 1/25/2016 Capital Expenditures are a unique challenge in state budgets because subdivisions of the state are rarely charged for using the state’s debt or equity for facilities, equipment, and other investment needs.
 In an effort to take advantage of the current resource allocation process, state subdivisions lobby for capital expenditure appropriations.
 The result is an inefficient distribution of resources for capital expenditures within state budgets where the most connected, best funded lobbying efforts frequently win.
-This paper proposes changing the capital resource allocation processes by attaching a cost to state appropriated capital expenditures in an effort to increase accountability and efficiency while improving the long-term credit strength of the state.
-Download File Public lands issues are becoming a polarizing issue once again in the State of Utah.
+This paper proposes changing the capital resource allocation processes by attaching a cost to state appropriated capital expenditures in an effort to increase accountability and efficiency while improving the long-term credit strength of the state. utah_state_capital_resource_allocation__2016_01_21_.pdf File Size: 219 kb File Type: pdf Download File Let Utah manage its public lands 4/25/2015 Public lands issues are becoming a polarizing issue once again in the State of Utah.
 Currently, the Attorney General is pursuing a lawsuit to have federal lands transferred to State control, and the American Lands Council is building support from other western states who agree that federal land control in the West is overreaching.
 Opponents suggest attempting to change the status quo is a waste of money and will result in developers ruining the beauty and accessibility of the American West.
 It is helpful to view public lands through a different lens prior to choosing a side in this debate.
@@ -207,27 +205,10 @@ It is in this context that the Republican Party and its elected officials are pu
 There is no desire to ruin national parks or pollute pristine vistas.
 The objective is to return to a more balanced approach consistent with the “multiple use and sustained yield basis” that allows all of our citizens to be simultaneous beneficiaries of our vast public lands resources.
 This article was originally published in The Spectrum as a guest editorial on 9/27/2014.
-For more information about the economics of a potential lands transfer, please see the study published by a collaborative effort between three state universities: the University of Utah, Bureau of Economic and Business Research; Utah State University; and Weber State University published here: http://bebr.business.utah.edu/page/transfer-federal-lands-state-utah Charter Schools are a positive development for public education in the United States.
+For more information about the economics of a potential lands transfer, please see the study published by a collaborative effort between three state universities: the University of Utah, Bureau of Economic and Business Research; Utah State University; and Weber State University published here: http://bebr.business.utah.edu/page/transfer-federal-lands-state-utah Guide to Charter School Facility Finance 4/8/2015 Charter Schools are a positive development for public education in the United States.
 According to the US Department of Education in 2013, there are nearly 6,000 charter schools nation wide serving over 2,000,000 students.
 The majority of net enrollment growth across the United States is being absorbed by public charter schools.
 This represents a tremendous facilities expansion.
 Most schools are governed by a board of directors made up of parents and community members.
 With the large number of new charter schools being authorized each year, I felt it was important to provide a guide to negotiating and navigating the charter school facility decision making processes.
-Below is a free copy of Charter School Facility Finance: A Resource for Boards and Administrators.
-Download File Some of the topics include: Facilities Decisions and Getting Started Leasing Existing Space Developer Build to Suit with Purchase Option Negotiating a Facility Lease Conventional Financing Terms and Expectations Bond Financing and Public Debt Markets Financial Advisors, Attorneys, Agents, and Others Who Help Charter School Finance Innovations Terms to Know If you are a charter school board member or administrator, I hope you find the information helpful. | |
-| HB215 Overview | |
-| File Size: | 78 kb |
-| File Type: | |
-Download File
-| HB215 Legislative Summary | |
-| File Size: | 46 kb |
-| File Type: | |
-Download File
-| utah_state_capital_resource_allocation__2016_01_21_.pdf | |
-| File Size: | 219 kb |
-| File Type: | |
-Download File
-| charter_school_facility_finance__2016_05_15_.pdf | |
-| File Size: | 582 kb |
-| File Type: | |
-Download File
+Below is a free copy of Charter School Facility Finance: A Resource for Boards and Administrators. charter_school_facility_finance__2016_05_15_.pdf File Size: 582 kb File Type: pdf Download File Some of the topics include: Facilities Decisions and Getting Started Leasing Existing Space Developer Build to Suit with Purchase Option Negotiating a Facility Lease Conventional Financing Terms and Expectations Bond Financing and Public Debt Markets Financial Advisors, Attorneys, Agents, and Others Who Help Charter School Finance Innovations Terms to Know If you are a charter school board member or administrator, I hope you find the information helpful. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

@@ -1,14 +1,78 @@
 [
-"http://eepurl.com/iLX4JM",
-"https://facebook.com/JRowe.Rep",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260731T180000%2F20260731T200000&text=Lagrange+Final+Friday+booth&details=Stop+by+our+booth+on+the+square+in+Lagrange+%F0%9F%92%A5+We%27ll+be+there+as+part+of+the+Final+Friday+summer+series+hosted+by+the+Lagrange+County+Chamber+of+Commerce.&location=Downtown+LaGrange%2C+IN%2C+105+N+Detroit+St%2C+LaGrange%2C+IN%2C+46761-1877%2C+United+States&trp=false&ctz=America%2FIndiana%2FIndianapolis&sprop=website%3Ahttps%3A%2F%2Frowe4rep.com",
-"https://maps.google.com/maps?f=q&hl=en&q=105+N+Detroit+St+LaGrange+IN+46761-1877+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-07-31T18%3A00%3A00-04%3A00&enddt=2026-07-31T20%3A00%3A00-04%3A00&location=Downtown+LaGrange%2C+IN%2C+105+N+Detroit+St%2C+LaGrange%2C+IN%2C+46761-1877%2C+United+States&subject=Lagrange+Final+Friday+booth&body=Stop+by+our+booth+on+the+square+in+Lagrange+%F0%9F%92%A5+We%27ll+be+there+as+part+of+the+Final+Friday+summer+series+hosted+by+the+Lagrange+County+Chamber+of+Commerce.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-07-31T18%3A00%3A00-04%3A00&enddt=2026-07-31T20%3A00%3A00-04%3A00&location=Downtown+LaGrange%2C+IN%2C+105+N+Detroit+St%2C+LaGrange%2C+IN%2C+46761-1877%2C+United+States&subject=Lagrange+Final+Friday+booth&body=Stop+by+our+booth+on+the+square+in+Lagrange+%F0%9F%92%A5+We%27ll+be+there+as+part+of+the+Final+Friday+summer+series+hosted+by+the+Lagrange+County+Chamber+of+Commerce.",
-"https://rowe4rep.com/",
-"https://rowe4rep.com/about",
-"https://rowe4rep.com/contact",
-"https://rowe4rep.com/events",
-"https://rowe4rep.com/issues",
-"https://secure.actblue.com/donate/judy-rowe-1"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=105+N+Detroit+St+LaGrange+IN+46761-1877+United+States"
+},
+{
+"text": "About",
+"href": "https://rowe4rep.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/judy-rowe-1"
+},
+{
+"text": "Events",
+"href": "https://rowe4rep.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T180000%2F20260731T200000&text=Lagrange+Final+Friday+booth&details=Stop+by+our+booth+on+the+square+in+Lagrange+%F0%9F%92%A5+We%27ll+be+there+as+part+of+the+Final+Friday+summer+series+hosted+by+the+Lagrange+County+Chamber+of+Commerce.&location=Downtown+LaGrange%2C+IN%2C+105+N+Detroit+St%2C+LaGrange%2C+IN%2C+46761-1877%2C+United+States&trp=false&ctz=America%2FIndiana%2FIndianapolis&sprop=website%3Ahttps%3A%2F%2Frowe4rep.com"
+},
+{
+"text": "Home",
+"href": "https://rowe4rep.com/"
+},
+{
+"text": "Issues",
+"href": "https://rowe4rep.com/issues/"
+},
+{
+"text": "Join the Bold Bunch",
+"href": "https://rowe4rep.com/contact/"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/judy-rowe-1"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=Downtown+LaGrange%2C+IN%2C+105+N+Detroit+St%2C+LaGrange%2C+IN%2C+46761-1877%2C+United+States&subject=Lagrange+Final+Friday+booth&body=Stop+by+our+booth+on+the+square+in+Lagrange+%F0%9F%92%A5+We%27ll+be+there+as+part+of+the+Final+Friday+summer+series+hosted+by+the+Lagrange+County+Chamber+of+Commerce."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=Downtown+LaGrange%2C+IN%2C+105+N+Detroit+St%2C+LaGrange%2C+IN%2C+46761-1877%2C+United+States&subject=Lagrange+Final+Friday+booth&body=Stop+by+our+booth+on+the+square+in+Lagrange+%F0%9F%92%A5+We%27ll+be+there+as+part+of+the+Final+Friday+summer+series+hosted+by+the+Lagrange+County+Chamber+of+Commerce."
+},
+{
+"text": "Team@ReadyForBold.com",
+"href": "mailto:Team@ReadyForBold.com"
+},
+{
+"text": "View Organizer Website",
+"href": "https://rowe4rep.com/"
+},
+{
+"text": "Visit us on Facebook",
+"href": "https://www.facebook.com/JRowe.Rep"
+},
+{
+"text": "[image: Intuit Mailchimp]",
+"href": "http://eepurl.com/iLX4JM"
+},
+{
+"text": "[image: Judy Rowe For State Rep #51]",
+"href": "https://rowe4rep.com"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/JRowe.Rep"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rowe4rep.com/event/lagrange-final-friday-booth/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://rowe4rep.com/events/"
+}
 ]

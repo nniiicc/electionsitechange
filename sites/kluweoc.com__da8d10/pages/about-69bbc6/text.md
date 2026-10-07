@@ -1,5 +1,4 @@
-About Chris Kluwe
-Chris is a former NFL player, small businessman, coach, writer, and strong advocate who is passionate about standing up for people who are being left behind.
+Skip navigation menu About Issues Endorsements Volunteer In the News District Media Shop Donate About Issues Endorsements Volunteer In the News District Media Shop Donate About Chris Kluwe Chris is a former NFL player, small businessman, coach, writer, and strong advocate who is passionate about standing up for people who are being left behind.
 He’s no politician.
 Growing up in Seal Beach, Chris attended Los Alamitos High School and excelled as both a student and an athlete.
 The oldest of three siblings, he grew up in a middle-class household where his dad worked as a chemical engineer and his mom as an anesthesiologist, instilling in him the importance of hard work and education.
@@ -15,3 +14,6 @@ He believes Sacramento should work like a referee that ensures a level playing f
 Chris is not a career politician, but a neighbor and advocate who understands the importance of listening and putting people first.
 Chris and his wife, Isabel, have lived in Huntington Beach for more than two decades.
 Together they are raising their two children, Ace and Remy, who attend local public schools.
+Ready for Fresh Change in OC?
+Join Us Donate MAILING ADDRESS: 8941 Atlanta Ave, Suite #329 Huntington Beach, CA 92646 CAMPAIGN HEADQUARTERS: 20902 Brookhurst St, Suite 106 Huntington Beach, CA 92646 CLICK HERE to see the corrupt, extreme politician that Chris is running against.
+Powered by RUN! website builder Paid for by Chris Kluwe for Assembly 2026 | FPPC #1482344 You need to enable JavaScript to run this app.

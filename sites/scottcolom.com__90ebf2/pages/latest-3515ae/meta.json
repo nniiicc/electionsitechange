@@ -1,7 +1,11 @@
 {
  "description": "The Latest Recent News & Campaign Updates",
  "final_url": "https://scottcolom.com/latest/",
- "paid_for_by": "Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including",
+ "fingerprint": "631e8c68d6476aab3bdb26674de79a8a68b47013",
+ "format": 3,
+ "paid_for_by": "Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text me",
  "title": "The Latest - Scott Colom for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

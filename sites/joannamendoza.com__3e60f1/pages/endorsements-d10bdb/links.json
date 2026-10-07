@@ -1,53 +1,218 @@
 [
-"http://x.com/Mendoza4AZ",
-"https://afacwa.org/",
-"https://afge.org/publication/largest-federal-employee-union-endorses-arizonas-joanna-mendoza-for-election-to-congress",
-"https://asalc.org/",
-"https://azaflcio.org/",
-"https://azaflcio.org/press/arizona-afl-cio-announces-2026-general-election-endorsements",
-"https://bluedogdems.com/joanna-mendoza",
-"https://boldpac.com/",
-"https://bsky.app/profile/joannamendoza.com",
-"https://dccc.org/dccc-announces-first-round-of-candidates-named-to-coveted-2026-red-to-blue-program",
-"https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates",
-"https://electdemocraticwomen.org/",
-"https://emilyslist.org/candidate/joanna-mendoza",
-"https://facebook.com/Mendoza4AZ",
-"https://fpactionnetwork.org/",
-"https://futureforumpac.com/",
-"https://giffords.org/",
-"https://instagram.com/mendoza4az",
-"https://jewishdems.org/endorsements",
-"https://joannamendoza.com/",
-"https://joannamendoza.com/contact",
-"https://joannamendoza.com/donate",
-"https://joannamendoza.com/endorsements",
-"https://joannamendoza.com/get-involved",
-"https://joannamendoza.com/issues",
-"https://joannamendoza.com/meet-jo",
-"https://joannamendoza.com/news",
-"https://joannamendoza.com/privacy-policy",
-"https://joannamendoza.com/terms",
-"https://latinovictory.org/",
-"https://lcv.org/endorsements",
-"https://lgbtequalitypac.org/",
-"https://momsfedup.org/",
-"https://newdemactionfund.com/",
-"https://newpolitics.org/",
-"https://plannedparenthoodaction.org/endorsements",
-"https://poderpac.com/",
-"https://reproductivefreedomforall.org/elections",
-"https://secure.actblue.com/donate/web-mfc-ga",
-"https://serveamericapac.com/candidates",
-"https://squareonepolitics.org/",
-"https://store.joannamendoza.com/",
-"https://takingthehillpac.com/",
-"https://teamlpac.com/",
-"https://tristatemaxedoutwomenspac.org/",
-"https://uawregion6.org/arizona",
-"https://victoryfund.org/",
-"https://votemamapac.org/",
-"https://votevets.org/",
-"https://wedefendthevote.org/endorsements",
-"https://womenspoliticalcommittee.org/federal"
+{
+"text": "Contact",
+"href": "https://www.joannamendoza.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/web-mfc-ga"
+},
+{
+"text": "Donate",
+"href": "https://www.joannamendoza.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joannamendoza.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joannamendoza.com/get-involved/"
+},
+{
+"text": "Meet Jo",
+"href": "https://www.joannamendoza.com/meet-jo/"
+},
+{
+"text": "News",
+"href": "https://www.joannamendoza.com/news/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.joannamendoza.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joannamendoza.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joannamendoza.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.joannamendoza.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.joannamendoza.com/terms/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.joannamendoza.com/terms"
+},
+{
+"text": "[image: American Federation of Government Employees]",
+"href": "https://www.afge.org/publication/largest-federal-employee-union-endorses-arizonas-joanna-mendoza-for-election-to-congress/"
+},
+{
+"text": "[image: Arizona AFL-CIO]",
+"href": "https://azaflcio.org/"
+},
+{
+"text": "[image: Arizona State Association of Letter Carriers]",
+"href": "https://asalc.org/"
+},
+{
+"text": "[image: Association of Flight Attendants]",
+"href": "https://afacwa.org/"
+},
+{
+"text": "[image: BOLD Democrats]",
+"href": "https://www.boldpac.com/"
+},
+{
+"text": "[image: Blue Dog PAC]",
+"href": "https://bluedogdems.com/joanna-mendoza/"
+},
+{
+"text": "[image: DCCC Red to Blue Program]",
+"href": "https://dccc.org/dccc-announces-first-round-of-candidates-named-to-coveted-2026-red-to-blue-program/"
+},
+{
+"text": "[image: Defend the Vote]",
+"href": "https://wedefendthevote.org/endorsements/"
+},
+{
+"text": "[image: EMILYs List]",
+"href": "https://emilyslist.org/candidate/joanna-mendoza/"
+},
+{
+"text": "[image: Elect Democratic Women]",
+"href": "https://electdemocraticwomen.org/"
+},
+{
+"text": "[image: Equality PAC]",
+"href": "https://lgbtequalitypac.org/"
+},
+{
+"text": "[image: Foreign Policy for America]",
+"href": "https://www.fpactionnetwork.org/"
+},
+{
+"text": "[image: Future Forum PAC]",
+"href": "https://futureforumpac.com/"
+},
+{
+"text": "[image: GIFFORDS PAC]",
+"href": "https://giffords.org/"
+},
+{
+"text": "[image: Go to homepage]",
+"href": "https://www.joannamendoza.com"
+},
+{
+"text": "[image: Jewish Democratic Council of America]",
+"href": "https://jewishdems.org/endorsements/"
+},
+{
+"text": "[image: LCV Action Fund]",
+"href": "https://www.lcv.org/endorsements/"
+},
+{
+"text": "[image: LGBTQ+ Victory Fund]",
+"href": "https://victoryfund.org/"
+},
+{
+"text": "[image: LPAC]",
+"href": "https://www.teamlpac.com/"
+},
+{
+"text": "[image: Latino Victory Fund]",
+"href": "https://latinovictory.org/"
+},
+{
+"text": "[image: Moms Fed Up]",
+"href": "https://momsfedup.org/"
+},
+{
+"text": "[image: Nationl Education Association]",
+"href": "https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates/"
+},
+{
+"text": "[image: New Democrat Coalition Action Fund]",
+"href": "https://newdemactionfund.com/"
+},
+{
+"text": "[image: New Politics]",
+"href": "https://www.newpolitics.org/"
+},
+{
+"text": "[image: PODER PAC]",
+"href": "https://www.poderpac.com/"
+},
+{
+"text": "[image: Pima Area Labor Federation]",
+"href": "https://azaflcio.org/press/arizona-afl-cio-announces-2026-general-election-endorsements"
+},
+{
+"text": "[image: Planned Parenthood Action]",
+"href": "https://www.plannedparenthoodaction.org/endorsements"
+},
+{
+"text": "[image: Reproductive Freedom for All]",
+"href": "https://reproductivefreedomforall.org/elections/"
+},
+{
+"text": "[image: Serve America PAC]",
+"href": "https://serveamericapac.com/candidates"
+},
+{
+"text": "[image: Square One]",
+"href": "https://www.squareonepolitics.org/"
+},
+{
+"text": "[image: Taking the Hill PAC]",
+"href": "https://www.takingthehillpac.com/"
+},
+{
+"text": "[image: Tri-State Maxed-Out Women's PAC]",
+"href": "https://www.tristatemaxedoutwomenspac.org/"
+},
+{
+"text": "[image: United Auto Workers]",
+"href": "https://www.uawregion6.org/arizona"
+},
+{
+"text": "[image: Vote Mama PAC]",
+"href": "https://www.votemamapac.org/"
+},
+{
+"text": "[image: VoteVets]",
+"href": "https://votevets.org/"
+},
+{
+"text": "[image: Women's Political Committee]",
+"href": "https://womenspoliticalcommittee.org/federal/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/Mendoza4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joannamendoza.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Mendoza4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mendoza4az/"
+},
+{
+"text": "[no text]",
+"href": "https://www.joannamendoza.com"
+}
 ]

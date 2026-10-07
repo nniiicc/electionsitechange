@@ -1,4 +1,4 @@
-Akin for Congress (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “**Program**”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “**Terms and Mobile Messaging Privacy Policy**”).
+0 Skip to Content About Issues Get Involved Contact DONATE TODAY Open Menu Close Menu About Issues Get Involved Contact DONATE TODAY Open Menu Close Menu About Issues Get Involved Contact DONATE TODAY Akin for Congress (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “**Program**”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “**Terms and Mobile Messaging Privacy Policy**”).
 By opting into or participating in any of our Programs, you accept and agree to these Terms and Mobile Messaging Privacy Policy, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “**Dispute Resolution**” section below.
 These Terms and Mobile Messaging Privacy Policy are limited to the Program and are not intended to modify other terms & conditions or privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Modification of Terms and Mobile Messaging Privacy Policy: We reserve the right to revise these Terms and Mobile Messaging Privacy Policy from time to time.
@@ -20,10 +20,8 @@ Text JOIN to 80306 to opt in.
 Reply HELP for help or STOP to opt out at any time.
 SMS information is not rented, sold, or shared.
 User Opt Out: If you do not wish to continue participating in the Program or no longer agree to these Terms and Mobile Messaging Privacy Policy, you may opt-out.
-To opt out:
-- Reply “STOP,” “QUIT,” “END,” “CANCEL,” “UNSUBSCRIBE,” or “STOP ALL” to any mobile message from Us in order to opt out of the Program.
-You may receive an additional mobile message confirming your decision to opt out.
-You understand and agree that the foregoing options are reasonable methods of opting out.
+To opt out: - Reply “STOP,” “QUIT,” “END,” “CANCEL,” “UNSUBSCRIBE,” or “STOP ALL” to any mobile message from Us in order to opt out of the Program.
+You may receive an additional mobile message confirming your decision to opt out. - Alternatively, you may opt out of the Program by sending an email to info@akinforcongress.com You understand and agree that the foregoing options are reasonable methods of opting out.
 Duty to Notify and Indemnify: If at any time you intend to stop using the mobile telephone number used to subscribe to the Program, including canceling your service plan or selling or transferring the phone number to another party, you agree that you will complete the User Opt Out process set forth above prior to ending your use of the mobile telephone number.
 You understand and agree that your agreement to do so is a material part of these Terms and Mobile Messaging Privacy Policy.
 This duty and agreement shall survive any cancellation or termination of your agreement to participate in any of our Programs.
@@ -78,3 +76,8 @@ Miscellaneous: You warrant and represent to Us that you have all necessary right
 The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder.
 If any provision of these Terms and Mobile Messaging Privacy Policy is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
 Any new features, changes, updates, or improvements of the Program shall be subject to these Terms and Mobile Messaging Privacy Policy unless explicitly stated otherwise in writing.
+Paid for by Akin for Congress PO Box 19024 Birmingham, AL 35219 Privacy Policy SMS Terms & Conditions By providing your mobile phone number, you are giving your express written consent to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Akin for Congress.
+Msg frequency varies.
+Msg & data rates may apply.
+Text STOP to stop receiving messages.
+Email info@akinforcongress.com for support

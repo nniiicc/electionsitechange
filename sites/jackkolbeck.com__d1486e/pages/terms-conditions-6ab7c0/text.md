@@ -1,7 +1,5 @@
-Terms and Conditions — SMS Messaging Program
-Organization: Friends of Jack Kolbeck for State Legislature Mailing Address: 1124 E.
-Plum Creek Road, Sioux Falls, SD, 57105 Contact: jrkolbeck@sio.midco.net
-By providing your mobile phone number and opting in to receive text messages from Friends of Jack Kolbeck for State Legislature, you agree to the following terms and conditions.
+0 Skip to Content Jack Kolbeck for House Open Menu Close Menu Jack Kolbeck for House Open Menu Close Menu Terms and Conditions — SMS Messaging Program Organization: Friends of Jack Kolbeck for State Legislature Mailing Address: 1124 E.
+Plum Creek Road, Sioux Falls, SD, 57105 Contact: jrkolbeck@sio.midco.net By providing your mobile phone number and opting in to receive text messages from Friends of Jack Kolbeck for State Legislature, you agree to the following terms and conditions.
 Program Description.
 Friends of Jack Kolbeck for State Legislature operates an SMS messaging program to keep supporters informed about the campaign.
 By opting in, you consent to receive recurring autodialed text messages from Friends of Jack Kolbeck for State Legislature.
@@ -27,8 +25,11 @@ Cellular, Boost, MetroPCS, Cricket, and others.
 Carriers are not liable for delayed or undelivered messages.
 Privacy.
 Your privacy is important to us.
-For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy.
+For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy .
 Changes to These Terms.
 Friends of Jack Kolbeck for State Legislature may update or modify these terms at any time.
 Material changes will be reflected on this page.
 Your continued participation in the SMS program after changes are posted constitutes acceptance of the updated terms.
+Paid for by Friends of Jack Kolbeck.
+Phyllis Heineman, Treasurer.
+Privacy Policy | Terms & Conditions

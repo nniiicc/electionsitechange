@@ -1,5 +1,7 @@
-Kara Glenn 10/27/25 Kara Glenn 10/27/25 Greene County Attorney Thomas Laehn enters U.S.
+0 Skip to Content Issues Petition About Media Volunteer Contact Donate Open Menu Close Menu Issues Petition About Media Volunteer Contact Donate Open Menu Close Menu Issues Petition About Media Volunteer Contact Donate Kara Glenn 10/27/25 Kara Glenn 10/27/25 Greene County Attorney Thomas Laehn enters U.S.
 Senate race as Libertarian Read More Kara Glenn 10/27/25 Kara Glenn 10/27/25 Laehn launches Senate bid with two-count "indictment" of Congress Read More Kara Glenn 10/27/25 Kara Glenn 10/27/25 Greene County attorney enters crowded Iowa U.S.
 Senate race as Libertarian Read More Kara Glenn 7/1/24 Kara Glenn 7/1/24 Laehn Fights Back Against Eminent Domain Abuse Read More Kara Glenn 7/1/24 Kara Glenn 7/1/24 County attorney calls fed vaccine mandate ‘an abuse of power,’ says he’ll resign before he’ll enforce it Read More Kara Glenn 6/13/24 Kara Glenn 6/13/24 Greene County Attorney recommends board of supervisors defy federal vaccine mandate Read More Kara Glenn 6/13/24 Kara Glenn 6/13/24 I fear for my country.
 The selection of a president shouldn't be this weighty.
-Read More Kara Glenn 6/13/24 Kara Glenn 6/13/24 Thomas Laehn, Iowa Libertarian, Elected As Greene County Attorney Read More Kara Glenn 6/13/24 Kara Glenn 6/13/24 Supervisors laud Laehn and law enforcement Read More For Press Opportunities Contact Us
+Read More Kara Glenn 6/13/24 Kara Glenn 6/13/24 Thomas Laehn, Iowa Libertarian, Elected As Greene County Attorney Read More Kara Glenn 6/13/24 Kara Glenn 6/13/24 Supervisors laud Laehn and law enforcement Read More For Press Opportunities Contact Us Stay in touch.
+Contact Us Copyright © # Paid for by Thomas Laehn Exploratory Committee, Inc.
+About Issues Media Volunteer Contact

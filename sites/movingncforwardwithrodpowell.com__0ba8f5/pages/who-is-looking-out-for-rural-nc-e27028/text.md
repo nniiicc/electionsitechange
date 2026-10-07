@@ -1,4 +1,7 @@
-For 30 years I taught history and civics in North Carolina public schools.
+Skip to content Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+DONATE DONATE DONATE DONATE Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+Who Is Looking Out for Rural NC?
+By Rod Powell / July 11, 2026 For 30 years I taught history and civics in North Carolina public schools.
 Today I live in Casar, serve as Chair of the Cleveland County Democratic Party, and am running for the North Carolina Senate because I believe rural communities deserve a stronger voice in Raleigh.
 But one of the main questions I keep coming back to as I run this race is: Who is looking out for the people in places like Casar, Lawndale, Fallston, Cherryville, Vale, Kings Mountain, Shelby, Lincolnton, and all the small communities that make up Senate District 44?
 Because too often, it feels like decisions get made in Raleigh by people who do not really understand how those decisions land out here.
@@ -17,12 +20,7 @@ And I know what it means when a community is stretched thin yet still keeps show
 That is the North Carolina I know.
 I am running for the North Carolina Senate because I believe places like ours deserve a stronger voice.
 Not a louder voice, a stronger voice.
-- A voice that asks what happens to small towns when farmland is sold off
-- A voice that asks what happens to rural hospitals and clinics when healthcare gets harder to reach
-- A voice that asks what happens to public schools when more and more public money is pulled away from them
-- A voice that asks what happens to working people when utility bills, groceries, insurance, medicine, and housing all keep going up
-- A voice that asks who benefits when decisions are made behind closed doors
-This district is not Raleigh.
+A voice that asks what happens to small towns when farmland is sold off A voice that asks what happens to rural hospitals and clinics when healthcare gets harder to reach A voice that asks what happens to public schools when more and more public money is pulled away from them A voice that asks what happens to working people when utility bills, groceries, insurance, medicine, and housing all keep going up A voice that asks who benefits when decisions are made behind closed doors This district is not Raleigh.
 It is not Charlotte.
 It is not a talking point on cable news.
 It is Cleveland County.
@@ -32,17 +30,16 @@ It is mill villages, farms, churches, schools, small businesses, downtowns, back
 We are not all alike here.
 We do not all vote the same.
 We do not all see every issue the same way.
-But most people I talk to want the same basic things:
-- They want their kids and grandkids to have a chance.
-- They want good schools.
-- They want decent jobs.
-- They want safe roads.
-- They want healthcare they can reach and afford.
-- They want to keep their homes, their farms, and their communities from being swallowed up by people who see this place as a line item on a spreadsheet.
+But most people I talk to want the same basic things: They want their kids and grandkids to have a chance.
+They want good schools.
+They want decent jobs.
+They want safe roads.
+They want healthcare they can reach and afford.
+They want to keep their homes, their farms, and their communities from being swallowed up by people who see this place as a line item on a spreadsheet.
 That is not a partisan wish list.
 That is just common sense.
 I do not pretend I have an instant fix for every problem.
-Anybody who says they do is probably selling something—something that you might not want to buy.
+Anybody who says they do is probably selling something — something that you might not want to buy.
 What I can promise is this.
 I will show up.
 I will listen.
@@ -51,4 +48,4 @@ I will learn the details.
 I will speak up for the people and places that too often get left out of the conversation.
 Rural North Carolina deserves more than being remembered at election time.
 It deserves a seat at the table.
-That is why I am running.
+That is why I am running. ← Previous Post Next Post → Search for: Home About Endorsements Issues Blog Volunteer Donate Contact Home About Endorsements Issues Blog Volunteer Donate Contact Contact Me Call Me: (980) 368-0377 Email Me Follow Me Facebook Instagram Threads Bluesky TikTok YouTube Substack Menu Home About Issues Blog Endorsements Volunteer Donate Contact Privacy Policy Copyright © # Moving NC Forward with Rod Powell | Powered by Moving NC Forward with Rod Powell Scroll to Top

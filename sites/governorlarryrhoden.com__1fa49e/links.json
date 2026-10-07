@@ -1,18 +1,82 @@
 [
-"https://facebook.com/RhodenforGov",
-"https://governorlarryrhoden.com/",
-"https://governorlarryrhoden.com/about",
-"https://governorlarryrhoden.com/accomplishments",
-"https://governorlarryrhoden.com/contact",
-"https://governorlarryrhoden.com/news",
-"https://governorlarryrhoden.com/privacy-policy",
-"https://governorlarryrhoden.com/your-sd-team",
-"https://news.sd.gov/news?id=news_kb_article_view&sys_id=62d073ba979752504696b12ef053af46",
-"https://news.sd.gov/news?id=news_kb_article_view&sysparm_article=KB0043471",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=10",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=100",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=25",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=50",
-"https://x.com/larryrhodensd"
+{
+"text": "$10",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today?amount=50"
+},
+{
+"text": "About Larry",
+"href": "https://governorlarryrhoden.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://governorlarryrhoden.com/accomplishments"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Contact",
+"href": "https://governorlarryrhoden.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Home",
+"href": "https://governorlarryrhoden.com/"
+},
+{
+"text": "News",
+"href": "https://governorlarryrhoden.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://governorlarryrhoden.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://news.sd.gov/news?id=news_kb_article_view&sys_id=62d073ba979752504696b12ef053af46"
+},
+{
+"text": "Read More",
+"href": "https://news.sd.gov/news?id=news_kb_article_view&sysparm_article=KB0043471#:~:text=I%20want%20to%20keep%20South,long%20as%20I%20am%20governor"
+},
+{
+"text": "Read More About Larry",
+"href": "https://governorlarryrhoden.com/about/"
+},
+{
+"text": "Your SD Team",
+"href": "https://governorlarryrhoden.com/your-sd-team"
+},
+{
+"text": "[image]",
+"href": "https://governorlarryrhoden.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RhodenforGov"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/larryrhodensd"
+}
 ]

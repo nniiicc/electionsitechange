@@ -1,24 +1,5 @@
-Where I stand
-Issues
-Local first, always, with statewide and national topics framed through their impact on Pittsford and Proctor.
-Local first, always
-- Property taxes and reappraisals
-- Keeping our schools local
-- School budgets we can sustain
-- Healthcare close to home
-- And more…
-Read more →
-Across Vermont
-- How we fund our schools
-- Property tax relief
-- Housing we can afford
-- Health care costs and access
-- And more…
-Read more →
-National, felt locally
-- Health coverage we can afford
-- Protecting Medicaid and food assistance
-- Our farms and the people who work them
-- Lower prescription costs
-- And more…
-Read more →
+Skip to content Genevieve Duchesneau for Rutland-8 Home About Get involved Events Contact Donate Where I stand Issues Local first, always, with statewide and national topics framed through their impact on Pittsford and Proctor.
+Local first, always Property taxes and reappraisals Keeping our schools local School budgets we can sustain Healthcare close to home And more… Read more → Across Vermont How we fund our schools Property tax relief Housing we can afford Health care costs and access And more… Read more → National, felt locally Health coverage we can afford Protecting Medicaid and food assistance Our farms and the people who work them Lower prescription costs And more… Read more → Stay in the loop Campaign updates and ways to help.
+We won't share your email.
+Email address Sign up Explore Home About Issues Get involved Events Donate Contact Legal Privacy Accessibility Genevieve Duchesneau for Rutland-8 © # Genevieve Duchesneau for State Representative.
+Paid for by Genevieve Duchesneau for State Representative, PO Box 632, Proctor, VT 05765-0632 .

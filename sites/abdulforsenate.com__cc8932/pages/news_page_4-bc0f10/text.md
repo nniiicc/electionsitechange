@@ -1,4 +1,26 @@
-Mike Rogers Unable to Run Away From Record as “Champion” of Opioid Industry
-Press Release
-MICHIGAN – Earlier this month, the Department of Health and Human Services declared a renewal of the opioid public health emergency, first declared back in 2017.
-Countless lives have been lost to the devastating crisis over …
+Donate now!
+Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Newsroom Get the latest news on Abdul.
+Abdul has spent his career making government work for people, and in the U.S.
+Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
+To volunteer for our campaign, visit our volunteer hub.
+To learn more about Abdul, visit our about page.
+Mike Rogers Says “Texas And Florida” Are Superior To Michigan, Flip-Flops On Iran YET AGAIN In Rambling, Incoherent Press Conference Press Release September 23, 2026 Mike Rogers Flip-Flops On Iran YET AGAIN — “Now Is The Time To Start Winding This Up” Rogers Praises “Texas And Florida” As Superior to Michigan MICHIGAN – Fresh off his second trip to Texas this … Flip-Flops, More Flip-Flops, And A Boys Trip To Dallas—Mike Rogers’ Busy Week Press Release September 23, 2026 Yes, no, maybe-so on the Iran War – plus another trip to Dallas, Texas – where does Mike Rogers find the time?
+Mike Rogers On Trump’s War On Monday: “We Need To End The War Quickly” … ICYMI: Mike Rogers Flip-Flops On Iran War Twice In 24 Hours Press Release September 23, 2026 Mike Rogers, A Longtime Advocate For War With Iran, Has Flipped His Stance On The Conflict Twice Mike Rogers On Trump’s War On Monday: “We Need To End The War Quickly” Mike Rogers On Trump’s War … ICYMI: Abdul Hits the Road, Rogers Flip-Flop-Flips on Iran Press Release September 23, 2026 Abdul campaigns in Kalamazoo, Traverse City, Detroit, Grand Rapids, as Rogers flails to change his record on the war in Iran.
+MICHIGAN – Over the past 48 hours, Dr.
+Abdul El-Sayed has traveled across Michigan for … MIKE ROGERS FLIP-FLOPS ON WAR IN IRAN… AGAIN!
+Press Release September 23, 2026 Rogers defended the war for months.
+Now his position is changing by the day.
+MICHIGAN – Less than 24 hours after saying the war in Iran needed to ‘end quickly,’ Mike Rogers changed his position again … Mike Rogers Unable to Run Away From Record as “Champion” of Opioid Industry Press Release September 22, 2026 MICHIGAN – Earlier this month, the Department of Health and Human Services declared a renewal of the opioid public health emergency, first declared back in 2017.
+Countless lives have been lost to the devastating crisis over … “Who Needs Two Yachts?” — New Ad Features 20-Year UAW Autoworker Slamming Mike Rogers For Decades Of Corruption And Selling Out Michigan Workers Press Release September 22, 2026 Josh, 20 Year UAW Autoworker: “Everyday, I Show Up On The Line And Build Stuff.
+Everyday, Mike Shows Up For His Corporate Donors.
+Big Checks, A Florida Mansion, And Two Yachts.” Abdul Is Endorsed By UAW, … Abdul El-Sayed Blasts New Trump Administration Plan to Strip Healthcare From Hundreds of Thousands Press Release September 22, 2026 Abdul: “Michiganders will continue to lose their healthcare.
+People will die.
+And Mike Rogers will continue to rubber-stamp every cruel step along the way” Mike Roger’s embrace of Trump’s healthcare agenda adds another chapter to decades … Statement From Abdul El-Sayed On Mike Rogers Flip-Flopping On War In Iran Press Release September 21, 2026 MICHIGAN – The following is a statement from Dr.
+Abdul El-Sayed: “Mike Rogers is lying straight to our faces.
+“After defending Donald Trump’s illegal war in Iran for months as a ‘win-win-win,’ Mike Rogers is only … Abdul Wrote The Book On How To Bring Down Healthcare Costs—Big Pharma’s “Champion” Mike Rogers Spent His Career Spiking Them Press Release September 19, 2026 Dr.
+Abdul El-Sayed Wrote The Book On How To Bring Down Healthcare Costs, Erased Medical Debt For Tens of Thousands of Michiganders, Got Free Glasses For Thousands Of Detroit Kids Mike Rogers Has Taken Over $1 … « Previous 1 2 3 4 5 6 … 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
+Senate PO Box 126 St.
+Clair Shores, MI 48080 Paid for by Abdul for U.S.
+Senate Contact the Campaign Speaking Request Jobs Privacy Policy Made with Middle Seat

@@ -1,19 +1,86 @@
 [
-"http://instagram.com/chrisforjustice",
-"https://bsky.app/profile/christaylorwi.bsky.social",
-"https://chrisforjustice.com/",
-"https://chrisforjustice.com/cart",
-"https://chrisforjustice.com/endorsements",
-"https://chrisforjustice.com/homepage-new",
-"https://chrisforjustice.com/meet-judge-chris-taylor",
-"https://chrisforjustice.com/vote",
-"https://facebook.com/chrisforjustice",
-"https://mobilize.us/wisdems?tag_ids=21906",
-"https://oneswitchboard.com/privacy-policy/chris-taylor-for-justice",
-"https://secure.actblue.com/donate/christaylorforjustice",
-"https://secure.actblue.com/donate/christaylorforjustice?amount=10",
-"https://secure.actblue.com/donate/christaylorforjustice?amount=25",
-"https://secure.actblue.com/donate/christaylorforjustice?amount=50",
-"https://secure.actblue.com/donate/christaylorforjustice?amount=75",
-"https://twitter.com/ChrisTaylorWI"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/christaylorforjustice?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/christaylorforjustice?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/christaylorforjustice?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/christaylorforjustice?amount=75"
+},
+{
+"text": "0",
+"href": "https://www.chrisforjustice.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/christaylorforjustice"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisforjustice.com/endorsements"
+},
+{
+"text": "Join the Team",
+"href": "https://www.chrisforjustice.com/homepage-new#join"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.chrisforjustice.com/meet-judge-chris-taylor"
+},
+{
+"text": "Meet Judge Taylor",
+"href": "https://www.chrisforjustice.com/homepage-new#meet"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/christaylorforjustice"
+},
+{
+"text": "Privacy Policy and Terms.",
+"href": "https://oneswitchboard.com/privacy-policy/chris-taylor-for-justice"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/wisdems/?tag_ids=21906"
+},
+{
+"text": "Vote",
+"href": "https://www.chrisforjustice.com/vote"
+},
+{
+"text": "[image: Chris Taylor for Wisconsin Supreme Court]",
+"href": "https://www.chrisforjustice.com/"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/christaylorwi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chrisforjustice"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChrisTaylorWI"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chrisforjustice"
+},
+{
+"text": "info@chrisforjustice.com",
+"href": "mailto:info@chrisforjustice.com"
+},
+{
+"text": "press@chrisforjustice.com",
+"href": "mailto:press@chrisforjustice.com"
+}
 ]

@@ -1,47 +1,258 @@
 [
-"http://bentoncreative.com/",
-"https://ajc.com/politics/2026/03/georgia-senate-pushes-paper-ballots-setting-up-a-clash-with-house",
-"https://ajc.com/politics/2026/03/how-a-georgia-literacy-bill-emerged-as-a-central-fight-of-sessions-final-days",
-"https://ajc.com/politics/2026/03/metro-atlanta-leaders-urge-kemp-to-veto-bill-to-make-some-offices-nonpartisan",
-"https://ajc.com/politics/2026/04/literacy-bill-cools-tensions-in-georgia-capitols-final-week-standoff",
-"https://auforga.com/",
-"https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy",
-"https://auforga.com/2026/04/today-is-sine-die",
-"https://auforga.com/2026/06/redistricting",
-"https://auforga.com/2026/06/special-session-recap",
-"https://auforga.com/2026/09/summer-recap",
-"https://auforga.com/in-the-news",
-"https://auforga.com/join-teamau",
-"https://auforga.com/meet-michelle",
-"https://auforga.com/news",
-"https://auforga.com/priorities",
-"https://auforga.com/privacy-policy",
-"https://auforga.com/support",
-"https://auforga.com/terms-of-use",
-"https://auforga.com/voter-guide",
-"https://docs.google.com/forms/d/e/1FAIpQLSfnaRmf3LBehREcZaXkBhbpNaw4hEUaMieiouOcbC_GLYJ5eQ/viewform",
-"https://emergenthealth.org/lifecare",
-"https://georgiarecorder.com/2026/03/31/do-or-die-deadline-looms-for-georgia-voting-taxes-data-center-legislation",
-"https://georgiarecorder.com/2026/04/01/bill-backed-by-confederate-monument-defenders-knocked-down-in-the-georgia-house",
-"https://instagram.com/reel/DWk59hgjR1g?igsh=OXozeW1zOHcxdXM2",
-"https://legis.ga.gov/legislation/64092",
-"https://legis.ga.gov/legislation/70131",
-"https://legis.ga.gov/legislation/71103",
-"https://legis.ga.gov/legislation/72842",
-"https://legis.ga.gov/legislation/72848",
-"https://legis.ga.gov/legislation/73253",
-"https://mdek12.org/literacy/lbpa",
-"https://nytimes.com/2026/01/11/us/mississippi-schools-transformation.html?unlocked_article_code=1.XlA.TPLo.JBD8shYG5SoJ&smid=url-share",
-"https://open.spotify.com/show/3wo7y9K2v7dw2yV7LwUHnU?si=f6f167b00f2f4bcf&nd=1&dlsi=ef4c74980ac348de",
-"https://podcasts.apple.com/us/podcast/the-georgia-diagnosis/id1858624671",
-"https://simple.wikipedia.org/wiki/List_of_counties_in_Georgia_(U.S._state)",
-"https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895",
-"https://thecurrentga.org/2026/03/28/georgia-senate-cuts-110m-from-public-college-funding-in-38-5b-budget",
-"https://vimeo.com/1178904091?fl=pl&fe=vl",
-"https://x.com/GAHouseDems/status/2039131552655773818?s=20",
-"https://x.com/GAHouseDems/status/2039163505467621502?s=20",
-"https://youtu.be/R3eCZ4KGHEQ?si=ojQIVuDjtoz1Zvri",
-"https://youtu.be/YKTaEE1duks",
-"https://youtube.com/@AUforGA",
-"https://youtube.com/watch?v=9LVpNt5ZXtE&list=https%3A%2F%2Fwww.youtube.com%2F%40AUforGA"
+{
+"text": "(Click here to watch full remarks)",
+"href": "https://www.instagram.com/reel/DWk59hgjR1g/?igsh=OXozeW1zOHcxdXM2"
+},
+{
+"text": "(Image source: Emergent Health Partners)",
+"href": "https://www.emergenthealth.org/lifecare/"
+},
+{
+"text": "(Via AJC, click here to read full article)",
+"href": "https://www.ajc.com/politics/2026/03/georgia-senate-pushes-paper-ballots-setting-up-a-clash-with-house/"
+},
+{
+"text": "(Via Atlanta News First, click here to watch full clip)",
+"href": "https://youtu.be/R3eCZ4KGHEQ?si=ojQIVuDjtoz1Zvri"
+},
+{
+"text": "(Via the Atlanta Journal-Constitution, click here to read full article)",
+"href": "https://www.ajc.com/politics/2026/03/metro-atlanta-leaders-urge-kemp-to-veto-bill-to-make-some-offices-nonpartisan/"
+},
+{
+"text": "(Via the Atlanta Journal-Constitution, click here to read full article)",
+"href": "https://www.ajc.com/politics/2026/04/literacy-bill-cools-tensions-in-georgia-capitols-final-week-standoff/"
+},
+{
+"text": "(Via the Georgia Recorder, click here to read full article)",
+"href": "https://georgiarecorder.com/2026/03/31/do-or-die-deadline-looms-for-georgia-voting-taxes-data-center-legislation/"
+},
+{
+"text": "(Via the Georgia Recorder, click here to read full article)",
+"href": "https://georgiarecorder.com/2026/04/01/bill-backed-by-confederate-monument-defenders-knocked-down-in-the-georgia-house/"
+},
+{
+"text": "(Via the New York Times, click here for a free link to the full article)",
+"href": "https://www.nytimes.com/2026/01/11/us/mississippi-schools-transformation.html?unlocked_article_code=1.XlA.TPLo.JBD8shYG5SoJ&smid=url-share"
+},
+{
+"text": "(Watch full afternoon House floor session for Legislative Day 39 here)",
+"href": "https://vimeo.com/1178904091?fl=pl&fe=vl"
+},
+{
+"text": "770-405-9418",
+"href": "tel:770-405-9418"
+},
+{
+"text": "Apple",
+"href": "https://podcasts.apple.com/us/podcast/the-georgia-diagnosis/id1858624671"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "DONATE",
+"href": "https://auforga.com/support/"
+},
+{
+"text": "Deep Dive into Next Week’s Redistricting Special Session",
+"href": "https://auforga.com/2026/06/redistricting/"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://auforga.com/priorities/#economy"
+},
+{
+"text": "Education",
+"href": "https://auforga.com/priorities/#education"
+},
+{
+"text": "Fill out our podcast survey here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfnaRmf3LBehREcZaXkBhbpNaw4hEUaMieiouOcbC_GLYJ5eQ/viewform"
+},
+{
+"text": "For the past four years",
+"href": "https://www.legis.ga.gov/legislation/64092"
+},
+{
+"text": "From operating room to the Gold Dome: How Georgia’s medical lawmakers shape policy",
+"href": "https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy/"
+},
+{
+"text": "From operating room to the Gold Dome: How Georgia’s medical lawmakers shape...[image]",
+"href": "https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy/"
+},
+{
+"text": "Georgia Recorder",
+"href": "https://georgiarecorder.com/2026/03/31/do-or-die-deadline-looms-for-georgia-voting-taxes-data-center-legislation/"
+},
+{
+"text": "Georgia Recorder",
+"href": "https://georgiarecorder.com/2026/04/01/bill-backed-by-confederate-monument-defenders-knocked-down-in-the-georgia-house/"
+},
+{
+"text": "HB 1324",
+"href": "https://www.legis.ga.gov/legislation/73253"
+},
+{
+"text": "HB 369",
+"href": "https://www.legis.ga.gov/legislation/70131"
+},
+{
+"text": "HB 717",
+"href": "https://www.legis.ga.gov/legislation/71103"
+},
+{
+"text": "Healthcare",
+"href": "https://auforga.com/priorities/#healthcare"
+},
+{
+"text": "In the News",
+"href": "https://auforga.com/in-the-news/"
+},
+{
+"text": "Join #TeamAu",
+"href": "https://auforga.com/join-teamau/"
+},
+{
+"text": "Literacy-Based Promotion Act",
+"href": "https://mdek12.org/literacy/lbpa/"
+},
+{
+"text": "Meet Michelle",
+"href": "https://auforga.com/meet-michelle/"
+},
+{
+"text": "News",
+"href": "https://auforga.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://auforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://auforga.com/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://auforga.com/priorities/#safety"
+},
+{
+"text": "Rep. Inga Willis",
+"href": "https://x.com/GAHouseDems/status/2039163505467621502?s=20"
+},
+{
+"text": "Rep. Scott Holcomb",
+"href": "https://www.instagram.com/reel/DWk59hgjR1g/?igsh=OXozeW1zOHcxdXM2"
+},
+{
+"text": "Rep. Tanya Miller",
+"href": "https://x.com/GAHouseDems/status/2039131552655773818?s=20"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://auforga.com/priorities/#reproductiverights"
+},
+{
+"text": "SB 462",
+"href": "https://www.legis.ga.gov/legislation/72848"
+},
+{
+"text": "Special Session Recap",
+"href": "https://auforga.com/2026/06/special-session-recap/"
+},
+{
+"text": "Spotify",
+"href": "https://open.spotify.com/show/3wo7y9K2v7dw2yV7LwUHnU?si=f6f167b00f2f4bcf&nd=1&dlsi=ef4c74980ac348de"
+},
+{
+"text": "Terms of Use",
+"href": "https://auforga.com/terms-of-use/"
+},
+{
+"text": "Threat To Mail-In Ballots",
+"href": "https://auforga.com/2026/09/summer-recap/"
+},
+{
+"text": "Today is Sine Die!",
+"href": "https://auforga.com/2026/04/today-is-sine-die/"
+},
+{
+"text": "Voter Guide",
+"href": "https://auforga.com/voter-guide/"
+},
+{
+"text": "Voting Rights",
+"href": "https://auforga.com/priorities/#votingrights"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@AUforGA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/watch?v=9LVpNt5ZXtE&list=https%3A%2F%2Fwww.youtube.com%2F%40AUforGA"
+},
+{
+"text": "[image: Dr. Michelle Au]",
+"href": "https://auforga.com/"
+},
+{
+"text": "[image]Deep Dive into Next Week’s Redistricting Special Session",
+"href": "https://auforga.com/2026/06/redistricting/"
+},
+{
+"text": "all 159 counties in Georgia",
+"href": "https://simple.wikipedia.org/wiki/List_of_counties_in_Georgia_(U.S._state)"
+},
+{
+"text": "are worth watching",
+"href": "https://vimeo.com/1178904091?fl=pl&fe=vl"
+},
+{
+"text": "michelle@auforga.com",
+"href": "mailto:michelle@auforga.com"
+},
+{
+"text": "passed out of the House",
+"href": "https://www.legis.ga.gov/legislation/72842"
+},
+{
+"text": "per The Current",
+"href": "https://thecurrentga.org/2026/03/28/georgia-senate-cuts-110m-from-public-college-funding-in-38-5b-budget/"
+},
+{
+"text": "reach out to our office",
+"href": "mailto: michelle.au@house.ga.gov"
+},
+{
+"text": "received a several thousand dollar ambulance bill",
+"href": "https://youtu.be/YKTaEE1duks"
+},
+{
+"text": "the second time this session",
+"href": "https://www.legis.ga.gov/legislation/73253"
+},
+{
+"text": "this bill would be held hostage",
+"href": "https://www.ajc.com/politics/2026/03/how-a-georgia-literacy-bill-emerged-as-a-central-fight-of-sessions-final-days/"
+},
+{
+"text": "too important",
+"href": "https://www.ajc.com/politics/2026/03/how-a-georgia-literacy-bill-emerged-as-a-central-fight-of-sessions-final-days/"
+},
+{
+"text": "transformed its literacy rates",
+"href": "https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895"
+},
+{
+"text": "unanimously approved",
+"href": "https://www.legis.ga.gov/legislation/72842"
+},
+{
+"text": "went down in flames",
+"href": "https://georgiarecorder.com/2026/04/01/bill-backed-by-confederate-monument-defenders-knocked-down-in-the-georgia-house/"
+}
 ]

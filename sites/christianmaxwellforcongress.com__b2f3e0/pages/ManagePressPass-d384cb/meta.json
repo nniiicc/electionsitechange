@@ -1,7 +1,9 @@
 {
  "description": "Manage Press Pass on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManagePressPass",
- "paid_for_by": null,
+ "fingerprint": "6c4859544e2553b00ae5b2e542029b6fdeda0a24",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Press Pass | Maxwell for Congress",
  "years_mentioned": []
 }

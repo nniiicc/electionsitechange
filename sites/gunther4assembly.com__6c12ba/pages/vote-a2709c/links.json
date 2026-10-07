@@ -1,19 +1,70 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://gunther4assembly.com/",
-"https://gunther4assembly.com/contact",
-"https://gunther4assembly.com/contribute",
-"https://gunther4assembly.com/donate-by-mail",
-"https://gunther4assembly.com/home",
-"https://gunther4assembly.com/images/150680/Map_for_District_114_1.pdf",
-"https://gunther4assembly.com/meet_john",
-"https://gunther4assembly.com/news",
-"https://gunther4assembly.com/view-endorsements",
-"https://gunther4assembly.com/volunteer",
-"https://gunther4assembly.com/vote",
-"https://gunther4assembly.com/yard-sign",
-"https://nyassembly.gov/mem/search",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Contact",
+"href": "https://gunther4assembly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://gunther4assembly.com/contribute"
+},
+{
+"text": "Donate by Mail",
+"href": "https://gunther4assembly.com/donate-by-mail"
+},
+{
+"text": "Download District Map",
+"href": "https://gunther4assembly.com/images/150680/Map_for_District_114_1.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://gunther4assembly.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://gunther4assembly.com/home"
+},
+{
+"text": "Meet John",
+"href": "https://gunther4assembly.com/meet_john"
+},
+{
+"text": "News",
+"href": "https://gunther4assembly.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://gunther4assembly.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://gunther4assembly.com/vote"
+},
+{
+"text": "Which district am I in?",
+"href": "https://nyassembly.gov/mem/search/"
+},
+{
+"text": "Yard Signs",
+"href": "https://gunther4assembly.com/yard-sign"
+},
+{
+"text": "[image: John Gunther Assembly]",
+"href": "https://gunther4assembly.com/"
+}
 ]

@@ -1,10 +1,4 @@
-Press Release
-Congressman Vince Fong Releases Statement on 20th Congressional District Reelection
-November 5, 2024
-Bakersfield, CA – With early results showing Congressman Vince Fong overwhelmingly winning reelection for a full term representing California’s 20th Congressional District, Fong released the following statement:
-“It is an honor and privilege to serve the Central Valley in Washington D.C.
-Throughout different elections to fill this seat over the past year, it remains truly humbling to me that the one constant has been that the voters of our district put their faith in me each and every time, and I will not let them down.”
-“I look forward to continuing to work on the important issues facing our communities— securing the border, growing our economy, bringing investments in water storage and infrastructure, unleashing our energy industry, and keeping the United States safe amidst the grave security threats facing our nation.”
-Fong was elected to represent California’s 20th Congressional District in May.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Press Release Congressman Vince Fong Releases Statement on 20th Congressional District Reelection FOR IMMEDIATE RELEASE November 5, 2024 Contact: Ryan Gardiner ryan@strategyinsightshq.com Bakersfield, CA – With early results showing Congressman Vince Fong overwhelmingly winning reelection for a full term representing California’s 20th Congressional District, Fong released the following statement: “It is an honor and privilege to serve the Central Valley in Washington D.C.
+Throughout different elections to fill this seat over the past year, it remains truly humbling to me that the one constant has been that the voters of our district put their faith in me each and every time, and I will not let them down.” “I look forward to continuing to work on the important issues facing our communities— securing the border, growing our economy, bringing investments in water storage and infrastructure, unleashing our energy industry, and keeping the United States safe amidst the grave security threats facing our nation.” Fong was elected to represent California’s 20th Congressional District in May.
 He previously served in the California State Assembly.
-###
+### Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

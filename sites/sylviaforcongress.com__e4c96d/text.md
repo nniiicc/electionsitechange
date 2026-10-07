@@ -1,30 +1,15 @@
-Last Day to Register to Vote
-Monday, October 5
-Last Day to Apply for Ballot by Mail
-Friday, October 23
-General Election Early Voting
-October 19 - October 30
-General Election Day
-Tuesday, November 3
-Sylvia R.
+top of page Meet Sylvia Accomplishments Endorsements Issues News Contact More Use tab to navigate through the menu items.
+DONATE Join the Fight $5 $50 $250 Other 2026 General Election Sign Up Here to Volunteer Last Day to Register to Vote Monday, October 5 Last Day to Apply for Ballot by Mail Friday, October 23 General Election Early Voting October 19 - October 30 General Election Day Tuesday, November 3 Sylvia R.
 Garcia was elected to the U.S.
 House of Representatives in November 2018, becoming the first Latina ever to represent Texas’ 29th Congressional District.
 Congresswoman Garcia serves as the Vice Ranking Member of the House Financial Services Committee.
 During her first year in Congress, she played a critical role in the impeachment investigation against Donald Trump.
-On January 15, 2020, she was selected as one of seven impeachment managers tasked with making the case to the American people and the Senate for the removal of Donald Trump as President of the United States.
-She is the first Hispanic and one of the first three women to ever serve as an impeachment manager in a presidential impeachment trial.
-Active in the Houston community, Congresswoman Garcia has served on more than 25 community boards and commissions, including the San Jacinto Girl Scouts, the Houston Hispanic Forum, the American Leadership Forum, Battleship Texas and the Museum of Fine Arts - Houston.
-ISSUES
-Fighting for Our Democracy
-Our democracy is under attack, and Sylvia has always stood on the front lines to defend it.
-Lowering Costs and Making Life Affordable
-Families across Texas are feeling the squeeze.
-Sylvia is fighting to ensure that every family has a safe, stable, and affordable place to call home.
-Standing Up for Women
-Women’s freedoms are under attack across the country, especially here in Texas.
-Sylvia refuses to stand by while extremists strip away women's rights.
-An Economy for All
-Standing Up for Our Rights and Equality
-Sylvia’s core belief comes from her time as a social worker: every person deserves dignity and respect.
-Immigration Policy with a Heart
-Sylvia Garcia fights for fair, compassionate immigration policies rooted in moral conviction, not political convenience.
+On January 15, 2020, she was selected as one of seven impeachment managers tasked with making the case to the American people and the Senate for the removal of Donald Trump as President of the United States. ​ She is the first Hispanic and one of the first three women to ever serve as an impeachment manager in a presidential impeachment trial.
+Meet Sylvia Garcia Active in the Houston community, Congresswoman Garcia has served on more than 25 community boards and commissions, including the San Jacinto Girl Scouts, the Houston Hispanic Forum, the American Leadership Forum, Battleship Texas and the Museum of Fine Arts - Houston.
+COMMITTEES Financial Services Committee ​ Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence Subcommittee on Housing and Insurance Committee on Ethics of the Federal Government ISSUES Fighting for Our Democracy Our democracy is under attack, and Sylvia has always stood on the front lines to defend it.
+READ MORE Lowering Costs and Making Life Affordable Families across Texas are feeling the squeeze.
+Sylvia is fighting to ensure that every family has a safe, stable, and affordable place to call home. ​ ​ READ MORE Standing Up for Women Women’s freedoms are under attack across the country, especially here in Texas.
+Sylvia refuses to stand by while extremists strip away women's rights. ​ ​​ READ MORE An Economy for All Sylvia is fighting for an economy that works for everyone, not just those at the top. ​ READ MORE Standing Up for Our Rights and Equality Sylvia’s core belief comes from her time as a social worker: every person deserves dignity and respect. ​ ​ READ MORE Immigration Policy with a Heart Sylvia Garcia fights for fair, compassionate immigration policies rooted in moral conviction, not political convenience. ​ ​ READ MORE Issues CONGRESSIONAL ACCOMPLISHMENTS Passed the most consequential changes to the Military Code of Justice in decades with the I Am Vanessa Guillen Act to protect those who serve from sexual harassment and assault Lead sponsor of the Dream and Promise Act to provide a pathway to citizenship for Dreamers and TPS recipients Helped secure more than $1 Billion to create a hydrogen hub on the Houston Ship Channel, a project that will bring thousands of high-paying jobs to the district Served as a House impeachment manager defending democracy making the case against Donald Trump in front of the Senate Brought millions to Galena Park and Jacinto City to update outdated water main systems Secured nearly $40 million to construct underpasses in the East End and alleviate congestion from train traffic, in addition to sponsoring the Dont Block Our Communities Act which will fine railroads for stopping trains in our neighborhoods Fought for expansion of TPS to Venezuelans and for the renewal of TPS for Central Americans Successfully funded workforce training programs within Pasadena ISD Championed funding for community health centers, school based clinics, and mobile health pods to ensure all corners of the district have access to healthcare UPDATES Latest Update When all is said and done, there is no doubt Sylvia Garcia has dedicated her life to her community and to public service.
+JOIN THE FIGHT Donate Volunteer Contact the Campaign (832) 899-5390 PO Box 8530, Houston, TX 77249 team@sylviaforcongress.com Thank you for visiting my campaign website.
+If your intention was to visit my official Government website, please visit sylviagarcia.house.gov .
+PAID FOR BY SYLVIA GARCIA FOR CONGRESS bottom of page

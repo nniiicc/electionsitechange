@@ -1,5 +1,4 @@
-Meet rob gurtcheff
-Rob and his mother moved to the Far Northeast section of Philadelphia when he was three years old, following the sudden death of his WWII veteran father.
+0 Skip to Content Meet Rob Issues In the Media Endorsements Get Involved DONATE Open Menu Close Menu Meet Rob Issues In the Media Endorsements Get Involved DONATE Open Menu Close Menu Meet Rob Issues In the Media Endorsements Get Involved DONATE Meet rob gurtcheff Rob and his mother moved to the Far Northeast section of Philadelphia when he was three years old, following the sudden death of his WWII veteran father.
 As a child, Rob attended St.
 Martha School, where he played multiple sports and was an altar server.
 At the age of ten, he got a job delivering newspapers for the Northeast Times.
@@ -17,10 +16,8 @@ In this position, Rob answered complaints and dispatched union workers to make r
 At just 19 years old, Rob’s supervisors placed their trust in him to handle emergency facility issues at all campuses each evening.
 This was also his first interaction with union tradesmen.
 Rob during his tour of duty.
-Neither the military information nor photographs imply endorsement by the
-U.S.
-Army
-From 1999 to 2004, Rob served our nation as a U.S.
+Neither the military information nor photographs imply endorsement by the U.S.
+Army From 1999 to 2004, Rob served our nation as a U.S.
 Army Counterintelligence Special agent.
 He deployed to Afghanistan, Kuwait, and Iraq.
 In Afghanistan, he conducted Counterintelligence Source Protection Operations.
@@ -32,3 +29,4 @@ He has used his training and leadership skills to fight healthcare fraud and has
 Rob also served his community as a baseball and basketball coach, Lay Leader for the United Methodist Church of the Good Shepherd, and his local VFW and American Legion posts.
 He volunteers numerous hours at the Delaware Valley Veterans Home, and was recently appointed Quartermaster of VFW Post 6617.
 Now, he’s working to take his skills and experiences to Harrisburg and to fight for his community in the 170th District.
+DONATE Voter Resources PAID FOR BY ROB GURTCHEFF FOR PHILLY

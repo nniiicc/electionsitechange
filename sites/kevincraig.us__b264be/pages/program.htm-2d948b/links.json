@@ -1,227 +1,1014 @@
 [
-"http://abmc.gov/",
-"http://access-board.gov/",
-"http://access.gpo.gov/plumbook/ag206.html",
-"http://achp.gov/",
-"http://act.org/goldwater",
-"http://afrh.com/",
-"http://agriculture.house.gov/glossary/trade_policy_committee.htm",
-"http://amazon.com/gp/product/1933995912?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933995912",
-"http://amtrak.com/",
-"http://arc.gov/",
-"http://arts.endow.gov/",
-"http://bioethics.gov/nbac.html",
-"http://cato.org/pub_display.php?pub_id=12191",
-"http://cato.org/pubs/handbook/hb111/hb111-4.pdf",
-"http://census.gov/population/www/socdemo/race/Directive_15.html",
-"http://cfoc.gov/",
-"http://cftc.gov/",
-"http://ciao.gov/",
-"http://cio.gov/",
-"http://cnn.com/ALLPOLITICS/1996/conventions/san.diego/facts/gop.platform/platform.all.shtml",
-"http://cns.gov/",
-"http://compliance.gov/index.html",
-"http://cpsc.gov/",
-"http://csb.gov/",
-"http://disa.mil/ncs/ncshome.html",
-"http://dnfsb.gov/",
-"http://doi.gov/iacb",
-"http://dol.gov/dol/odep",
-"http://ed.gov/offices/OIIA/Recognition/PSP",
-"http://eeoc.gov/",
-"http://emac.blogs.foxbusiness.com/2010/01/25/1-5-trillion-ways-to-cut-the-deficit",
-"http://emanifesto.org/nppc/NPPCmembers.htm",
-"http://endangered.fws.gov/esa.html",
-"http://epa.gov/",
-"http://ewtn.com/library/PROLENC/ENCYC136.HTM",
-"http://exim.gov/",
-"http://fasab.gov/",
-"http://fca.gov/",
-"http://fcc.gov/",
-"http://fdic.gov/",
-"http://feb.gov/",
-"http://fec.gov/",
-"http://federallabs.org/",
-"http://federalreserve.gov/",
-"http://fedgate.org/fg_ncpc.htm",
-"http://fedstats.gov/",
-"http://fema.gov/",
-"http://ffiec.gov/",
-"http://fhfb.gov/",
-"http://financenet.gov/",
-"http://flra.gov/index.html",
-"http://fmc.gov/",
-"http://fmcs.gov/",
-"http://frtib.gov/",
-"http://ftc.gov/",
-"http://gsa.gov/",
-"http://gsa.gov/staff/pa/whc.htm",
-"http://iaegc.gov/",
-"http://iaf.gov/iaf1.htm",
-"http://ibb.gov/",
-"http://ibb.gov/bbg",
-"http://ignet.gov/pcieecie.html",
-"http://iie.org/fulbright",
-"http://imls.gov/",
-"http://irs.ustreas.gov/basic/bus_info/tax_pro/iod/3/458.html",
-"http://jamesmadison.com/",
-"http://jusfc.gov/commissn/commissn.html",
-"http://jwod.gov/",
-"http://kevincraig.us/",
-"http://kevincraig.us/arts.htm",
-"http://kevincraig.us/budget.htm",
-"http://kevincraig.us/burden.htm",
-"http://kevincraig.us/cabinet_departments.htm",
-"http://kevincraig.us/commerce.htm",
-"http://kevincraig.us/drugs.htm",
-"http://kevincraig.us/education.htm",
-"http://kevincraig.us/energy.htm",
-"http://kevincraig.us/enumerated.htm",
-"http://kevincraig.us/environment.htm",
-"http://kevincraig.us/housing.htm",
-"http://kevincraig.us/interp.htm",
-"http://kevincraig.us/security.htm",
-"http://kevincraig.us/statism.htm",
-"http://kevincraig.us/tentacles.htm",
-"http://kevincraig.us/trade.htm",
-"http://kevinforcongress.blogspot.com/2010/08/202-trillion-debt-us-is-bankrupt.html",
-"http://lcweb.loc.gov/flicc",
-"http://library.unt.edu/gpo/acir/acir.html",
-"http://lsc.gov/index2.htm",
-"http://medpac.gov/",
-"http://mountain-prairie.fws.gov/leemetcalf/managmt4.html",
-"http://msha.gov/SOLICITOR/FMSHRC/fmshrc.htm",
-"http://mspb.gov/",
-"http://mvd.usace.army.mil/",
-"http://nara.gov/",
-"http://nara.gov/fedreg",
-"http://nara.gov/guide/rg066.html",
-"http://nasa.gov/",
-"http://nationalparks.org/",
-"http://ncd.gov/",
-"http://ncjrs.org/ojjcounc.htm",
-"http://nclis.gov/",
-"http://ncua.gov/",
-"http://negp.gov/",
-"http://neh.fed.us/",
-"http://new.usps.com/cgi-bin/uspsbv/scripts/content.jsp?B=-8533&D=27220",
-"http://ngisc.gov/index.html",
-"http://nih.gov/niams/about/amdicc.htm",
-"http://nlrb.gov/",
-"http://nmb.gov/",
-"http://nps.gov/ilmi/index.htm",
-"http://nrc.gov/",
-"http://nsf.gov/",
-"http://ntsb.gov/",
-"http://nwtrb.gov/",
-"http://odci.gov/",
-"http://opic.gov/",
-"http://opm.gov/",
-"http://osc.gov/",
-"http://oshrc.gov/index.html",
-"http://otexa.ita.doc.gov/fedreg/reinstat.htm",
-"http://pancanal.com/",
-"http://pbgc.gov/",
-"http://peacecorps.gov/home.html",
-"http://policyworks.gov/mi/index.htm",
-"http://prc.gov/main.asp",
-"http://presidiotrust.gov/",
-"http://realty.fws.gov/mbcc.html",
-"http://rrb.gov/",
-"http://rs9.loc.gov/medicare/index.html",
-"http://sbaonline.sba.gov/",
-"http://seaportcommission.gov/",
-"http://sec.gov/",
-"http://si.edu/",
-"http://srbc.net/",
-"http://ssa.gov/",
-"http://ssab.gov/",
-"http://sss.gov/",
-"http://state.nj.us/drbc/drbc.htm",
-"http://statejustice.org/",
-"http://tda.gov/",
-"http://treas.gov/ffb",
-"http://truman.gov/welcome.html",
-"http://tva.gov/",
-"http://uaa.alaska.edu/enri/arc_web/archome.htm",
-"http://udall.gov/",
-"http://usaid.gov/",
-"http://usccr.gov/",
-"http://usccr.gov/index.html",
-"http://usdoj.gov/odr",
-"http://ushmm.org/",
-"http://usinfo.state.gov/",
-"http://usip.org/",
-"http://usitc.gov/",
-"http://usoge.gov/",
-"http://usps.gov/",
-"http://ustdrc.gov/index.html",
-"http://ustr.gov/",
-"http://va.gov/pubaff/vetsday",
-"http://whitehouse.gov/homeland",
-"http://whitehouse.gov/omb",
-"http://whitehousedrugpolicy.gov/",
-"https://kevincraig.us/ID.htm",
-"https://kevincraig.us/afghanistan.htm",
-"https://kevincraig.us/africa.htm",
-"https://kevincraig.us/agriculture.htm",
-"https://kevincraig.us/antitrust.htm",
-"https://kevincraig.us/arts.htm",
-"https://kevincraig.us/asia.htm",
-"https://kevincraig.us/bailout.htm",
-"https://kevincraig.us/balkan.htm",
-"https://kevincraig.us/campaign.htm",
-"https://kevincraig.us/cdc.htm",
-"https://kevincraig.us/china.htm",
-"https://kevincraig.us/college.htm",
-"https://kevincraig.us/congress.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/cuba.htm",
-"https://kevincraig.us/defense_budget.htm",
-"https://kevincraig.us/delegation.htm",
-"https://kevincraig.us/drugs.htm",
-"https://kevincraig.us/earmarks.htm",
-"https://kevincraig.us/education.htm",
-"https://kevincraig.us/electronic_speech_.htm",
-"https://kevincraig.us/energy.htm",
-"https://kevincraig.us/enumerated.htm",
-"https://kevincraig.us/environment.htm",
-"https://kevincraig.us/fed.htm",
-"https://kevincraig.us/finan_dereg.htm",
-"https://kevincraig.us/foreign_aid.htm",
-"https://kevincraig.us/global_drugs.htm",
-"https://kevincraig.us/greenhouse.htm",
-"https://kevincraig.us/guns.htm",
-"https://kevincraig.us/healthcare.htm",
-"https://kevincraig.us/housing.htm",
-"https://kevincraig.us/immigration.htm",
-"https://kevincraig.us/india.htm",
-"https://kevincraig.us/interior.htm",
-"https://kevincraig.us/iran.htm",
-"https://kevincraig.us/iraq.htm",
-"https://kevincraig.us/latin.htm",
-"https://kevincraig.us/liberties.htm",
-"https://kevincraig.us/medicare.htm",
-"https://kevincraig.us/mideast.htm",
-"https://kevincraig.us/monetary.htm",
-"https://kevincraig.us/oath.htm",
-"https://kevincraig.us/patents.htm",
-"https://kevincraig.us/privatization.htm",
-"https://kevincraig.us/property.htm",
-"https://kevincraig.us/rule.htm",
-"https://kevincraig.us/russia.htm",
-"https://kevincraig.us/security.htm",
-"https://kevincraig.us/social_security.htm",
-"https://kevincraig.us/spending.htm",
-"https://kevincraig.us/statism.htm",
-"https://kevincraig.us/taxation.htm",
-"https://kevincraig.us/telecommunications.htm",
-"https://kevincraig.us/termlimits.htm",
-"https://kevincraig.us/terrorism.htm",
-"https://kevincraig.us/tobacco.htm",
-"https://kevincraig.us/tort.htm",
-"https://kevincraig.us/trade.htm",
-"https://kevincraig.us/transportation.htm",
-"https://kevincraig.us/tug.htm",
-"https://kevincraig.us/war-powers.htm"
+{
+"text": "$1.5 Trillion Ways to Cut the Deficit",
+"href": "http://emac.blogs.foxbusiness.com/2010/01/25/1-5-trillion-ways-to-cut-the-deficit"
+},
+{
+"text": "AMTRAK (National Railroad Passenger Corporation)",
+"href": "http://www.amtrak.com/"
+},
+{
+"text": "Accounting and Auditing Policy Committee (AAPC)",
+"href": "http://www.fasab.gov"
+},
+{
+"text": "Administrative Committee of the Federal Register",
+"href": "http://www.nara.gov/fedreg/"
+},
+{
+"text": "Advisory Commission on Intergovernmental Relations",
+"href": "http://www.library.unt.edu/gpo/acir/acir.html"
+},
+{
+"text": "Advisory Council on Historic Preservation",
+"href": "http://www.achp.gov/"
+},
+{
+"text": "Afghanistan",
+"href": "https://kevincraig.us/afghanistan.htm"
+},
+{
+"text": "Agricultural Policy",
+"href": "https://kevincraig.us/agriculture.htm"
+},
+{
+"text": "American Battle Monuments Commission",
+"href": "http://www.abmc.gov/"
+},
+{
+"text": "Antitrust",
+"href": "https://kevincraig.us/antitrust.htm"
+},
+{
+"text": "Appalachian Regional Commission",
+"href": "http://www.arc.gov/"
+},
+{
+"text": "Architectural and Transportation Barriers Compliance Board (Access Board)",
+"href": "http://www.access-board.gov/"
+},
+{
+"text": "Arctic Research Commission",
+"href": "http://www.uaa.alaska.edu/enri/arc_web/archome.htm"
+},
+{
+"text": "Armed Forces Retirement Home",
+"href": "http://www.afrh.com/"
+},
+{
+"text": "Arthritis and Musculoskeletal Interagency Coordinating Committee",
+"href": "http://www.nih.gov/niams/about/amdicc.htm"
+},
+{
+"text": "Balkans",
+"href": "https://kevincraig.us/balkan.htm"
+},
+{
+"text": "Barry M. Goldwater Scholarship and Excellence in Education Foundation",
+"href": "http://www.act.org/goldwater/"
+},
+{
+"text": "Broadcasting Board of Governors",
+"href": "http://www.ibb.gov/bbg/"
+},
+{
+"text": "Budget",
+"href": "http://www.kevincraig.us/budget.htm"
+},
+{
+"text": "Campaign Finance",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Campaign Finance, Corruption and the Oath of Office",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Cato Handbook for Policymakers, 7th Edition",
+"href": "http://www.amazon.com/gp/product/1933995912?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933995912"
+},
+{
+"text": "Central Intelligence Agency (CIA)",
+"href": "http://www.odci.gov"
+},
+{
+"text": "Chief Financial Officers Council",
+"href": "http://cfoc.gov"
+},
+{
+"text": "Chief Information Officers Council",
+"href": "http://www.cio.gov/"
+},
+{
+"text": "China",
+"href": "https://kevincraig.us/china.htm"
+},
+{
+"text": "Citizens' Stamp Advisory Committee",
+"href": "http://new.usps.com/cgi-bin/uspsbv/scripts/content.jsp?B=-8533&D=27220"
+},
+{
+"text": "Civil Liberties",
+"href": "https://kevincraig.us/liberties.htm"
+},
+{
+"text": "Commerce",
+"href": "http://kevincraig.us/commerce.htm"
+},
+{
+"text": "Commission of Fine Arts",
+"href": "http://www.nara.gov/guide/rg066.html"
+},
+{
+"text": "Commission on Civil Rights",
+"href": "http://www.usccr.gov/index.html"
+},
+{
+"text": "Committee for Purchase from People Who Are Blind or Severely Disabled",
+"href": "http://www.jwod.gov"
+},
+{
+"text": "Committee for the Implementation of Textile Agreements",
+"href": "http://otexa.ita.doc.gov/fedreg/reinstat.htm"
+},
+{
+"text": "Commodity Futures Trading Commission (CFTC)",
+"href": "http://www.cftc.gov"
+},
+{
+"text": "Congress, the Courts, and the Constitution",
+"href": "https://kevincraig.us/congress.htm"
+},
+{
+"text": "Consumer Product Safety Commission (CPSC)",
+"href": "http://www.cpsc.gov"
+},
+{
+"text": "Coordinating Council on Juvenile Justice and Delinquency Prevention",
+"href": "http://www.ncjrs.org/ojjcounc.htm"
+},
+{
+"text": "Copyright and Patent",
+"href": "https://kevincraig.us/patents.htm"
+},
+{
+"text": "Corporate Welfare",
+"href": "https://kevincraig.us/bailout.htm"
+},
+{
+"text": "Corporation for National and Community Service",
+"href": "http://www.cns.gov/"
+},
+{
+"text": "Countering Terrorism",
+"href": "https://kevincraig.us/terrorism.htm"
+},
+{
+"text": "Critical Infrastructure Assurance Office (CIAO)",
+"href": "http://www.ciao.gov/"
+},
+{
+"text": "Cultural Agencies",
+"href": "https://kevincraig.us/arts.htm"
+},
+{
+"text": "Cutting Federal Spending",
+"href": "https://kevincraig.us/spending.htm"
+},
+{
+"text": "Defense Nuclear Facilities Safety Board (DNFSB)",
+"href": "http://www.dnfsb.gov/"
+},
+{
+"text": "Delaware River Basin Commission",
+"href": "http://www.state.nj.us/drbc/drbc.htm"
+},
+{
+"text": "Department of Agriculture",
+"href": "http://kevincraig.us/cabinet_departments.htm#Agriculture"
+},
+{
+"text": "Department of Commerce",
+"href": "http://kevincraig.us/cabinet_departments.htm#Commerce"
+},
+{
+"text": "Department of Defense",
+"href": "http://kevincraig.us/cabinet_departments.htm#Defense"
+},
+{
+"text": "Department of Education",
+"href": "http://kevincraig.us/cabinet_departments.htm#Education"
+},
+{
+"text": "Department of Energy",
+"href": "http://kevincraig.us/cabinet_departments.htm#Energy"
+},
+{
+"text": "Department of Health and Human Services",
+"href": "http://kevincraig.us/cabinet_departments.htm#HHS"
+},
+{
+"text": "Department of Housing and Urban Development",
+"href": "http://kevincraig.us/cabinet_departments.htm#HUD"
+},
+{
+"text": "Department of Justice",
+"href": "http://kevincraig.us/cabinet_departments.htm#Justice"
+},
+{
+"text": "Department of Labor",
+"href": "http://kevincraig.us/cabinet_departments.htm#Labor"
+},
+{
+"text": "Department of State",
+"href": "http://kevincraig.us/cabinet_departments.htm#State"
+},
+{
+"text": "Department of Transportation",
+"href": "http://kevincraig.us/cabinet_departments.htm#Transportation"
+},
+{
+"text": "Department of Veterans Affairs",
+"href": "http://kevincraig.us/cabinet_departments.htm#Veterans"
+},
+{
+"text": "Department of the Interior",
+"href": "http://kevincraig.us/cabinet_departments.htm#Interior"
+},
+{
+"text": "Department of the Treasury",
+"href": "http://kevincraig.us/cabinet_departments.htm#Treasury"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Domestic Security",
+"href": "https://kevincraig.us/security.htm"
+},
+{
+"text": "Earmarks",
+"href": "https://kevincraig.us/earmarks.htm"
+},
+{
+"text": "East Asian Security Commitments",
+"href": "https://kevincraig.us/asia.htm"
+},
+{
+"text": "Education",
+"href": "http://kevincraig.us/education.htm"
+},
+{
+"text": "Endangered Species Committee",
+"href": "http://endangered.fws.gov/esa.html"
+},
+{
+"text": "Energy",
+"href": "http://kevincraig.us/energy.htm"
+},
+{
+"text": "Energy Policy",
+"href": "https://kevincraig.us/energy.htm"
+},
+{
+"text": "Enumerated Powers",
+"href": "http://kevincraig.us/enumerated.htm"
+},
+{
+"text": "Environment",
+"href": "http://www.kevincraig.us/environment.htm"
+},
+{
+"text": "Environmental Policy",
+"href": "https://kevincraig.us/environment.htm"
+},
+{
+"text": "Environmental Protection Agency",
+"href": "http://www.epa.gov/"
+},
+{
+"text": "Environmental Protection Agency (EPA)",
+"href": "http://www.epa.gov"
+},
+{
+"text": "Equal Employment Opportunity Commission (EEOC)",
+"href": "http://www.eeoc.gov"
+},
+{
+"text": "Export-Import Bank of the United States",
+"href": "http://www.exim.gov"
+},
+{
+"text": "Farm Credit Administration",
+"href": "http://www.fca.gov"
+},
+{
+"text": "Federal Accounting Standards Advisory Board (FASAB)",
+"href": "http://www.fasab.gov"
+},
+{
+"text": "Federal Communications Commission (FCC)",
+"href": "http://www.fcc.gov"
+},
+{
+"text": "Federal Credit Policy Working Group (FCPWG)",
+"href": "http://www.financenet.gov"
+},
+{
+"text": "Federal Deposit Insurance Corporation (FDIC)",
+"href": "http://www.fdic.gov"
+},
+{
+"text": "Federal Election Commission (FEC)",
+"href": "http://www.fec.gov"
+},
+{
+"text": "Federal Emergency Management Agency (FEMA)",
+"href": "http://www.fema.gov"
+},
+{
+"text": "Federal Executive Board",
+"href": "http://www.feb.gov/"
+},
+{
+"text": "Federal Financial Institutions Examination Council",
+"href": "http://www.ffiec.gov/"
+},
+{
+"text": "Federal Financial Managers Council (FFMC)",
+"href": "http://www.financenet.gov"
+},
+{
+"text": "Federal Financing Bank",
+"href": "http://www.treas.gov/ffb/"
+},
+{
+"text": "Federal Housing Finance Board",
+"href": "http://www.fhfb.gov/"
+},
+{
+"text": "Federal Interagency Committee for the Management of Noxious and Exotic Weeds",
+"href": "http://mountain-prairie.fws.gov/leemetcalf/managmt4.html"
+},
+{
+"text": "Federal Interagency Committee on Education",
+"href": "http://www.census.gov/population/www/socdemo/race/Directive_15.html"
+},
+{
+"text": "Federal Interagency Council on Statistical Policy",
+"href": "http://www.fedstats.gov/"
+},
+{
+"text": "Federal Labor Relations Authority",
+"href": "http://www.flra.gov/index.html"
+},
+{
+"text": "Federal Laboratory Consortium for Technology Transfer",
+"href": "http://www.federallabs.org/"
+},
+{
+"text": "Federal Library and Information Center Committee",
+"href": "http://lcweb.loc.gov/flicc/"
+},
+{
+"text": "Federal Maritime Commission",
+"href": "http://www.fmc.gov"
+},
+{
+"text": "Federal Mediation and Conciliation Service",
+"href": "http://www.fmcs.gov/"
+},
+{
+"text": "Federal Mine Safety and Health Review Commission",
+"href": "http://www.msha.gov/SOLICITOR/FMSHRC/fmshrc.htm"
+},
+{
+"text": "Federal Reserve",
+"href": "https://kevincraig.us/fed.htm"
+},
+{
+"text": "Federal Reserve Act",
+"href": "https://kevincraig.us/fed.htm"
+},
+{
+"text": "Federal Reserve System",
+"href": "http://www.federalreserve.gov"
+},
+{
+"text": "Federal Retirement Thrift Investment Board",
+"href": "http://www.frtib.gov"
+},
+{
+"text": "Federal Tax Reform",
+"href": "https://kevincraig.us/taxation.htm"
+},
+{
+"text": "Federal Trade Commission (FTC)",
+"href": "http://www.ftc.gov"
+},
+{
+"text": "Financial Regulation",
+"href": "https://kevincraig.us/finan_dereg.htm"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Foreign Aid",
+"href": "https://kevincraig.us/foreign_aid.htm"
+},
+{
+"text": "General Services Administration (GSA)",
+"href": "http://www.gsa.gov"
+},
+{
+"text": "Global Warming and Climate Change",
+"href": "https://kevincraig.us/greenhouse.htm"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Harry S. Truman Scholarship Foundation",
+"href": "http://www.truman.gov/welcome.html"
+},
+{
+"text": "Health Care",
+"href": "https://kevincraig.us/healthcare.htm"
+},
+{
+"text": "Health and Safety Policy",
+"href": "https://kevincraig.us/cdc.htm"
+},
+{
+"text": "Higher Education Policy",
+"href": "https://kevincraig.us/college.htm"
+},
+{
+"text": "Housing Policy",
+"href": "https://kevincraig.us/housing.htm"
+},
+{
+"text": "Housing and Urban Development",
+"href": "http://kevincraig.us/housing.htm"
+},
+{
+"text": "How to Interpret the Constitution",
+"href": "http://kevincraig.us/interp.htm"
+},
+{
+"text": "Illinois and Michigan Canal National Heritage Corridor Commission",
+"href": "http://www.nps.gov/ilmi/index.htm"
+},
+{
+"text": "Immigration",
+"href": "https://kevincraig.us/immigration.htm"
+},
+{
+"text": "India",
+"href": "https://kevincraig.us/india.htm"
+},
+{
+"text": "Indian Arts and Crafts Board",
+"href": "http://www.doi.gov/iacb/"
+},
+{
+"text": "Institute of Museum and Library Services",
+"href": "http://www.imls.gov/"
+},
+{
+"text": "Inter-Agency Electronic Grants Committee (IAEGC)",
+"href": "http://iaegc.gov"
+},
+{
+"text": "Inter-American Foundation",
+"href": "http://www.iaf.gov/iaf1.htm"
+},
+{
+"text": "Interagency Alternative Dispute Resolution Working Group (IADRWG)",
+"href": "http://www.usdoj.gov/odr"
+},
+{
+"text": "Interagency Commission on Crime and Security in U.S. Seaports",
+"href": "http://www.seaportcommission.gov/"
+},
+{
+"text": "Interagency Committee on Employment of People with Disabilities",
+"href": "http://www.dol.gov/dol/odep/"
+},
+{
+"text": "Interior Department and Public Lands",
+"href": "https://kevincraig.us/interior.htm"
+},
+{
+"text": "Internal Security",
+"href": "http://www.kevincraig.us/security.htm"
+},
+{
+"text": "International Broadcasting Bureau (IBB)",
+"href": "http://www.ibb.gov/"
+},
+{
+"text": "Iraq",
+"href": "https://kevincraig.us/iraq.htm"
+},
+{
+"text": "J. William Fulbright Foreign Scholarship Board",
+"href": "http://www.iie.org/fulbright/"
+},
+{
+"text": "James Madison Memorial Fellowship Foundation",
+"href": "http://www.jamesmadison.com/"
+},
+{
+"text": "Japan-United States Friendship Commission",
+"href": "http://www.jusfc.gov/commissn/commissn.html"
+},
+{
+"text": "Joint Board for the Enrollment of Actuaries",
+"href": "http://www.irs.ustreas.gov/basic/bus_info/tax_pro/iod/3/458.html"
+},
+{
+"text": "K�12 Education",
+"href": "https://kevincraig.us/education.htm"
+},
+{
+"text": "Latin America",
+"href": "https://kevincraig.us/latin.htm"
+},
+{
+"text": "Legal Services Corporation",
+"href": "http://www.lsc.gov/index2.htm"
+},
+{
+"text": "Medicare",
+"href": "https://kevincraig.us/medicare.htm"
+},
+{
+"text": "Medicare Payment Advisory Commission (MedPAC)",
+"href": "http://www.medpac.gov/"
+},
+{
+"text": "Merit Systems Protection Board",
+"href": "http://www.mspb.gov/"
+},
+{
+"text": "Middle East",
+"href": "https://kevincraig.us/mideast.htm"
+},
+{
+"text": "Migratory Bird Conservation Commission",
+"href": "http://realty.fws.gov/mbcc.html"
+},
+{
+"text": "Mississippi River Commission",
+"href": "http://www.mvd.usace.army.mil/"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation",
+"href": "http://www.udall.gov/"
+},
+{
+"text": "National Aeronautics and Space Administration (NASA)",
+"href": "http://www.nasa.gov/"
+},
+{
+"text": "National Archives and Records Administration (NARA)",
+"href": "http://www.nara.gov"
+},
+{
+"text": "National Bioethics Advisory Commission",
+"href": "http://bioethics.gov/nbac.html"
+},
+{
+"text": "National Bipartisan Commission on the Future of Medicare",
+"href": "http://rs9.loc.gov/medicare/index.html"
+},
+{
+"text": "National Capital Planning Commission",
+"href": "http://www.fedgate.org/fg_ncpc.htm"
+},
+{
+"text": "National Commission on Libraries and Information Science",
+"href": "http://www.nclis.gov/"
+},
+{
+"text": "National Communications System",
+"href": "http://www.disa.mil/ncs/ncshome.html"
+},
+{
+"text": "National Council on Disability",
+"href": "http://www.ncd.gov/"
+},
+{
+"text": "National Credit Union Administration (NCUA)",
+"href": "http://www.ncua.gov"
+},
+{
+"text": "National Education Goals Panel",
+"href": "http://www.negp.gov/"
+},
+{
+"text": "National Endowment for the Arts",
+"href": "http://arts.endow.gov/"
+},
+{
+"text": "National Endowment for the Arts",
+"href": "http://kevincraig.us/arts.htm"
+},
+{
+"text": "National Endowment for the Humanities",
+"href": "http://www.neh.fed.us/"
+},
+{
+"text": "National Gambling Impact Study Commission",
+"href": "http://www.ngisc.gov/index.html"
+},
+{
+"text": "National ID Systems",
+"href": "https://kevincraig.us/ID.htm"
+},
+{
+"text": "National Labor Relations Board (NLRB)",
+"href": "http://www.nlrb.gov/"
+},
+{
+"text": "National Mediation Board",
+"href": "http://www.nmb.gov/"
+},
+{
+"text": "National Park Foundation",
+"href": "http://www.nationalparks.org/"
+},
+{
+"text": "National Railroad Passenger Corporation (AMTRAK)",
+"href": "http://www.amtrak.com"
+},
+{
+"text": "National Science Foundation (NSF)",
+"href": "http://www.nsf.gov"
+},
+{
+"text": "National Transportation Safety Board",
+"href": "http://www.ntsb.gov"
+},
+{
+"text": "Navajo and Hopi Relocation Commission",
+"href": "http://www.access.gpo.gov/plumbook/ag206.html"
+},
+{
+"text": "Northwest Power Planning Council",
+"href": "http://www.emanifesto.org/nppc/NPPCmembers.htm"
+},
+{
+"text": "Nuclear Regulatory Commission",
+"href": "http://www.nrc.gov"
+},
+{
+"text": "Nuclear Regulatory Commission (NRC)",
+"href": "http://www.nrc.gov"
+},
+{
+"text": "Nuclear Waste Technical Review Board",
+"href": "http://www.nwtrb.gov/"
+},
+{
+"text": "Occupational Safety and Health Review Commission",
+"href": "http://www.oshrc.gov/index.html"
+},
+{
+"text": "Office of Compliance",
+"href": "http://www.compliance.gov/index.html"
+},
+{
+"text": "Office of Government Ethics",
+"href": "http://www.usoge.gov/"
+},
+{
+"text": "Office of Homeland Security",
+"href": "http://www.whitehouse.gov/homeland/"
+},
+{
+"text": "Office of Management and Budget",
+"href": "http://www.whitehouse.gov/omb/"
+},
+{
+"text": "Office of National Drug Control Policy",
+"href": "http://www.whitehousedrugpolicy.gov/"
+},
+{
+"text": "Office of Personnel Management",
+"href": "http://www.opm.gov"
+},
+{
+"text": "Office of Special Counsel (OSC)",
+"href": "http://www.osc.gov"
+},
+{
+"text": "Overseas Private Investment Corporation",
+"href": "http://www.opic.gov"
+},
+{
+"text": "Panama Canal Commission",
+"href": "http://www.pancanal.com/"
+},
+{
+"text": "Peace Corps",
+"href": "http://www.peacecorps.gov/home.html"
+},
+{
+"text": "Pension Benefit Guaranty Corporation",
+"href": "http://www.pbgc.gov"
+},
+{
+"text": "Postal Rate Commission",
+"href": "http://www.prc.gov/main.asp"
+},
+{
+"text": "President's Commission on the Celebration of Women in American History",
+"href": "http://www.gsa.gov/staff/pa/whc.htm"
+},
+{
+"text": "President's Council on Integrity and Efficiency",
+"href": "http://ignet.gov/pcieecie.html"
+},
+{
+"text": "Presidio Trust",
+"href": "http://www.presidiotrust.gov/"
+},
+{
+"text": "Privatization",
+"href": "https://kevincraig.us/privatization.htm"
+},
+{
+"text": "Property",
+"href": "https://kevincraig.us/property.htm"
+},
+{
+"text": "Property Rights and the Constitution",
+"href": "https://kevincraig.us/property.htm"
+},
+{
+"text": "Railroad Retirement Board",
+"href": "http://www.rrb.gov"
+},
+{
+"text": "Reclaiming the War Power",
+"href": "https://kevincraig.us/war-powers.htm"
+},
+{
+"text": "Regulation of Electronic Speech and Commerce",
+"href": "https://kevincraig.us/electronic_speech_.htm"
+},
+{
+"text": "Regulatory Information Service Center",
+"href": "http://policyworks.gov/mi/index.htm"
+},
+{
+"text": "Relations with Cuba",
+"href": "https://kevincraig.us/cuba.htm"
+},
+{
+"text": "Restoring the Right to Bear Arms",
+"href": "https://kevincraig.us/guns.htm"
+},
+{
+"text": "Russia",
+"href": "https://kevincraig.us/russia.htm"
+},
+{
+"text": "Securities and Exchange Commission (SEC)",
+"href": "http://www.sec.gov"
+},
+{
+"text": "Selective Service System",
+"href": "http://www.sss.gov"
+},
+{
+"text": "Small Business Administration (SBA)",
+"href": "http://www.sbaonline.sba.gov/"
+},
+{
+"text": "Smithsonian Institution",
+"href": "http://www.si.edu/"
+},
+{
+"text": "Social Security",
+"href": "https://kevincraig.us/social_security.htm"
+},
+{
+"text": "Social Security Administration (SSA)",
+"href": "http://www.ssa.gov/"
+},
+{
+"text": "Social Security Advisory Board",
+"href": "http://www.ssab.gov/"
+},
+{
+"text": "State Justice Institute",
+"href": "http://www.statejustice.org/"
+},
+{
+"text": "Sub-Saharan Africa",
+"href": "https://kevincraig.us/africa.htm"
+},
+{
+"text": "Surface Transportation Policy",
+"href": "https://kevincraig.us/transportation.htm"
+},
+{
+"text": "Susquehanna River Basin Commission",
+"href": "http://www.srbc.net/"
+},
+{
+"text": "Telecommunications, Broadband, and Media Policy",
+"href": "https://kevincraig.us/telecommunications.htm"
+},
+{
+"text": "Ten Ways to Super Charge the American Economy",
+"href": "http://www.cato.org/pub_display.php?pub_id=12191"
+},
+{
+"text": "Tennessee Valley Authority",
+"href": "http://www.tva.gov"
+},
+{
+"text": "Term Limits",
+"href": "https://kevincraig.us/termlimits.htm"
+},
+{
+"text": "Terrorism",
+"href": "https://kevincraig.us/terrorism.htm"
+},
+{
+"text": "The Defense Budget",
+"href": "https://kevincraig.us/defense_budget.htm"
+},
+{
+"text": "The Delegation of Legislative Powers",
+"href": "https://kevincraig.us/delegation.htm"
+},
+{
+"text": "The International War on Drugs",
+"href": "https://kevincraig.us/global_drugs.htm"
+},
+{
+"text": "The Limits of Monetary Policy",
+"href": "https://kevincraig.us/monetary.htm"
+},
+{
+"text": "The Oath of Office",
+"href": "https://kevincraig.us/oath.htm"
+},
+{
+"text": "The Real Tax Burden",
+"href": "http://kevincraig.us/burden.htm"
+},
+{
+"text": "The War on Drugs",
+"href": "https://kevincraig.us/drugs.htm"
+},
+{
+"text": "Tobacco and the Rule of Law",
+"href": "https://kevincraig.us/tobacco.htm"
+},
+{
+"text": "Tort and Class-Action Reform",
+"href": "https://kevincraig.us/tort.htm"
+},
+{
+"text": "Trade",
+"href": "http://www.kevincraig.us/trade.htm"
+},
+{
+"text": "Trade",
+"href": "https://kevincraig.us/trade.htm"
+},
+{
+"text": "Trade Policy Staff Committee",
+"href": "http://agriculture.house.gov/glossary/trade_policy_committee.htm"
+},
+{
+"text": "Trade and Development Agency",
+"href": "http://www.tda.gov/"
+},
+{
+"text": "U.S. Policy toward Iran",
+"href": "https://kevincraig.us/iran.htm"
+},
+{
+"text": "United States Agency for International Development",
+"href": "http://www.usaid.gov/"
+},
+{
+"text": "United States Chemical Safety and Hazard Investigation Board",
+"href": "http://www.csb.gov/"
+},
+{
+"text": "United States Commission on Civil Rights",
+"href": "http://www.usccr.gov/"
+},
+{
+"text": "United States Holocaust Memorial Museum",
+"href": "http://www.ushmm.org/"
+},
+{
+"text": "United States Institute of Peace",
+"href": "http://www.usip.org/"
+},
+{
+"text": "United States International Information Program",
+"href": "http://usinfo.state.gov/"
+},
+{
+"text": "United States International Trade Commission (USITC)",
+"href": "http://www.usitc.gov/"
+},
+{
+"text": "United States Nuclear Waste Technical Review Board",
+"href": "http://www.nwtrb.gov/"
+},
+{
+"text": "United States Postal Service (USPS)",
+"href": "http://www.usps.gov/"
+},
+{
+"text": "United States Trade Deficit Review Commission",
+"href": "http://www.ustdrc.gov/index.html"
+},
+{
+"text": "United States Trade Representative",
+"href": "http://www.ustr.gov/"
+},
+{
+"text": "Veterans Day National Committee",
+"href": "http://www.va.gov/pubaff/vetsday/"
+},
+{
+"text": "War on Drugs",
+"href": "http://www.kevincraig.us/drugs.htm"
+},
+{
+"text": "White House Commission on Presidential Scholars [Presidential Scholars Program]",
+"href": "http://www.ed.gov/offices/OIIA/Recognition/PSP/"
+},
+{
+"text": "[image]",
+"href": "http://www.amazon.com/gp/product/1933995912?ie=UTF8&tag=libertyunderg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1933995912"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "enumerated powers",
+"href": "https://kevincraig.us/enumerated.htm"
+},
+{
+"text": "in this chapter",
+"href": "http://www.cato.org/pubs/handbook/hb111/hb111-4.pdf"
+},
+{
+"text": "over $200 Trillion in unfunded promises",
+"href": "http://kevinforcongress.blogspot.com/2010/08/202-trillion-debt-us-is-bankrupt.html"
+},
+{
+"text": "pornographic �art,�",
+"href": "http://www.ewtn.com/library/PROLENC/ENCYC136.HTM"
+},
+{
+"text": "should not be told",
+"href": "https://kevincraig.us/education.htm"
+},
+{
+"text": "statism",
+"href": "http://kevincraig.us/statism.htm"
+},
+{
+"text": "statist",
+"href": "https://kevincraig.us/statism.htm"
+},
+{
+"text": "the Republican Party National Platform",
+"href": "http://www.cnn.com/ALLPOLITICS/1996/conventions/san.diego/facts/gop.platform/platform.all.shtml"
+},
+{
+"text": "the Rule of Law",
+"href": "https://kevincraig.us/rule.htm"
+},
+{
+"text": "the Tip of the Iceberg",
+"href": "http://kevincraig.us/tentacles.htm"
+},
+{
+"text": "tug-of-war",
+"href": "https://kevincraig.us/tug.htm"
+}
 ]

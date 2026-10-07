@@ -1,9 +1,30 @@
 [
-"https://facebook.com/VoteMonarch",
-"https://facebook.com/votemonarch",
-"https://secure.actblue.com/donate/andrew.monarch",
-"https://votemonarch.org/",
-"https://votemonarch.org/contact",
-"https://votemonarch.org/copy-of-contact",
-"https://votemonarch.org/issues"
+{
+"text": "Contact",
+"href": "https://www.votemonarch.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew.monarch"
+},
+{
+"text": "Home",
+"href": "https://www.votemonarch.org"
+},
+{
+"text": "Issues",
+"href": "https://www.votemonarch.org/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemonarch.org/copy-of-contact"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteMonarch"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/votemonarch"
+}
 ]

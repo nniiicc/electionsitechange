@@ -1,10 +1,46 @@
 [
-"http://facebook.com/rioformt",
-"http://instagram.com/rioformt",
-"https://rioformt.com/",
-"https://rioformt.com/cart",
-"https://rioformt.com/contact",
-"https://rioformt.com/home-1",
-"https://rioformt.com/priorities",
-"https://secure.actblue.com/donate/rioformt"
+{
+"text": "0",
+"href": "https://www.rioformt.com/cart"
+},
+{
+"text": "About Rio",
+"href": "https://www.rioformt.com/home-1#anchor-about-rio"
+},
+{
+"text": "Contact",
+"href": "https://www.rioformt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rioformt"
+},
+{
+"text": "HD 61",
+"href": "https://www.rioformt.com/#anchor-hd-61"
+},
+{
+"text": "Home",
+"href": "https://www.rioformt.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.rioformt.com/priorities"
+},
+{
+"text": "READ MORE",
+"href": "https://www.rioformt.com/priorities#priorities"
+},
+{
+"text": "[image: Rio For Montana HD61]",
+"href": "https://www.rioformt.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/rioformt"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/rioformt"
+}
 ]

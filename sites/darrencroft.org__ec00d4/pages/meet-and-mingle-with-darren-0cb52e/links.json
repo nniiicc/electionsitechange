@@ -1,18 +1,70 @@
 [
-"https://darrencroft.org/",
-"https://darrencroft.org/about",
-"https://darrencroft.org/amber-shill",
-"https://darrencroft.org/blog",
-"https://darrencroft.org/category/news",
-"https://darrencroft.org/contact",
-"https://darrencroft.org/contribute",
-"https://darrencroft.org/district-41-map",
-"https://darrencroft.org/endorsements",
-"https://darrencroft.org/index.php/privacy-policy",
-"https://darrencroft.org/meet-and-mingle-with-darren",
-"https://darrencroft.org/platform",
-"https://darrencroft.org/primary-election-guide",
-"https://darrencroft.org/top-3-reasons-to-vote-for-darren",
-"https://facebook.com/Darren.Croft.House41",
-"https://instagram.com/Darren.Croft.House41"
+{
+"text": "About",
+"href": "https://darrencroft.org/about/"
+},
+{
+"text": "Amber Shill",
+"href": "https://darrencroft.org/amber-shill/"
+},
+{
+"text": "Cancel reply",
+"href": "https://darrencroft.org/meet-and-mingle-with-darren/#respond"
+},
+{
+"text": "Contact",
+"href": "https://darrencroft.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://darrencroft.org/contribute/"
+},
+{
+"text": "District 41 Map",
+"href": "https://darrencroft.org/district-41-map/"
+},
+{
+"text": "Endorsements",
+"href": "https://darrencroft.org/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://darrencroft.org/"
+},
+{
+"text": "Issues",
+"href": "https://darrencroft.org/platform/"
+},
+{
+"text": "News",
+"href": "https://darrencroft.org/blog/"
+},
+{
+"text": "News",
+"href": "https://darrencroft.org/category/news/"
+},
+{
+"text": "Primary Election Guide",
+"href": "https://darrencroft.org/primary-election-guide/"
+},
+{
+"text": "Privacy Policy/Terms & Conditions",
+"href": "https://darrencroft.org/index.php/privacy-policy/"
+},
+{
+"text": "Top 3",
+"href": "https://darrencroft.org/top-3-reasons-to-vote-for-darren/"
+},
+{
+"text": "[image: Darren Croft for Utah House District 41]",
+"href": "https://darrencroft.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Darren.Croft.House41/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Darren.Croft.House41"
+}
 ]

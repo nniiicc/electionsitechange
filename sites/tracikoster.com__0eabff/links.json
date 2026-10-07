@@ -1,6 +1,30 @@
 [
-"https://m.facebook.com/TraciKosterFL",
-"https://secure.anedot.com/traci-koster-campaign/donate",
-"https://tracikoster.com/",
-"https://tracikoster.com/issuestracikosterforstatehouse"
+{
+"text": "About",
+"href": "https://www.tracikoster.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/traci-koster-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://www.tracikoster.com"
+},
+{
+"text": "Issues",
+"href": "https://www.tracikoster.com/issuestracikosterforstatehouse"
+},
+{
+"text": "Join the Team",
+"href": "https://www.tracikoster.com"
+},
+{
+"text": "Traci@TraciKoster.com",
+"href": "mailto:Traci@TraciKoster.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://m.facebook.com/TraciKosterFL"
+}
 ]

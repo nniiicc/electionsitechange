@@ -1,4 +1,4 @@
-On Thursday, September 8th, a five-year-old girl and her mother were walking on the sidewalk of West Fullerton Avenue.
+ABOUT ISSUES DONATE VOLUNTEER ENDORSEMENTS NEWS BLOG VIDEOS CONTACT Select Page My Position on the Crime Epidemic in Chicago and the Illinois 5th District— Sep 15, 2022 | Blog | 0 comments On Thursday, September 8 th , a five-year-old girl and her mother were walking on the sidewalk of West Fullerton Avenue.
 A man approached them and offered the mother cash in exchange for her daughter.
 When the mother refused, the stranger grabbed the daughter by her hair and attempted to kidnap her.
 Thankfully, the mother and daughter were able to escape the situation unharmed.
@@ -20,5 +20,8 @@ Crime on our streets is causing and will continue to cause businesses and touris
 We must get crime under control or it will destroy or future.
 As your Congressman, I will fight to make our region safe for families and businesses.
 Please share our campaign with your friends and family that care about Cook and Lake Counties as well as cities such as Chicago, DesPlaines, Park Ridge, Lake Zurich, Barrington, Norridge, Lincolnwood, Elk Grove Village and Arlington Heights.
-To see my stance on more issues, visit my website votetommyhanson.com or email me at tommy@votetommyhanson.com.
+To see my stance on more issues, visit my website votetommyhanson.com or email me at tommy@votetommyhanson.com .
 God bless you and your family.
+Search Search Recent Posts CANDIDATE FOR ILLINOIS GOVERNOR DARREN BAILEY ENDORSES TOMMY HANSON FOR CONGRESSIONAL FIFTH DISTRICT The Safe-T Act- What it means for Chicago and Illinois 5th District CONGRESSIONAL CANDIDATE TOMMY HANSON ANNOUNCES “TOMMY’S TRAIN TALK” My Position on the Crime Epidemic in Chicago and the Illinois 5th District— CHICAGO BUSINESSMAN TOMMY HANSON ANNOUNCES BID FOR 5TH CONGRESSIONAL DISTRICT IN ILLINOIS Recent Comments No comments to show.
+Facebook Instagram Paid for by Tommy Hanson for Congress.
+Tommy Hanson, Treasurer | Guided by Navigation Advertising, LLC

@@ -1,12 +1,50 @@
 [
-"https://facebook.com/LewisClarkPachyderms",
-"https://house.mo.gov/MemberDetails.aspx?year=2022&code=R&district=064",
-"https://secure.anedot.com/citizensforlovasco/donate",
-"https://stcharlesgop.com/",
-"https://stltoday.com/opinion/columnists/lovasco-the-general-motors-deal-is-a-great-deal-but/article_fc6b4610-1f7b-5d76-9f52-8d3391873248.html",
-"https://thehill.com/blogs/congress-blog/politics/457058-red-flag-laws-violate-more-than-just-gun-rights",
-"https://tonylovasco.com/",
-"https://tonylovasco.com/about",
-"https://tonylovasco.com/issues",
-"https://washingtonexaminer.com/opinion/op-eds/guilty-until-proven-innocent-the-cash-grab-of-civil-asset-forfeiture"
+{
+"text": "About Me",
+"href": "https://www.tonylovasco.com/about"
+},
+{
+"text": "Donate (opens in new tab)",
+"href": "https://secure.anedot.com/citizensforlovasco/donate"
+},
+{
+"text": "Home",
+"href": "https://www.tonylovasco.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.tonylovasco.com/issues"
+},
+{
+"text": "Lewis & Clark Pachyderms",
+"href": "https://www.facebook.com/LewisClarkPachyderms/"
+},
+{
+"text": "Missouri House of Representatives",
+"href": "https://house.mo.gov/MemberDetails.aspx?year=2022&code=R&district=064"
+},
+{
+"text": "St. Charles County Republican Central Committee",
+"href": "https://stcharlesgop.com/"
+},
+{
+"text": "StL Post Dispatch Op-Ed on the \"GM Deal\"",
+"href": "https://www.stltoday.com/opinion/columnists/lovasco-the-general-motors-deal-is-a-great-deal-but/article_fc6b4610-1f7b-5d76-9f52-8d3391873248.html"
+},
+{
+"text": "The Hill Op-Ed on Red Flag Laws",
+"href": "https://thehill.com/blogs/congress-blog/politics/457058-red-flag-laws-violate-more-than-just-gun-rights/"
+},
+{
+"text": "Tony Lovasco for MO State Representative",
+"href": "https://www.tonylovasco.com/"
+},
+{
+"text": "Washington Examiner Op-Ed on Civil Asset Forfeiture",
+"href": "https://www.washingtonexaminer.com/opinion/op-eds/guilty-until-proven-innocent-the-cash-grab-of-civil-asset-forfeiture"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/citizensforlovasco/donate"
+}
 ]

@@ -1,8 +1,4 @@
-Team Lauren Weekly Volunteer Call
-- Where
-- Virtual event
-About this event
-Join us every Monday at 6:30 PM CT for Team Lauren's weekly volunteer call on Zoom.
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events Team Lauren Weekly Volunteer Call Available times Monday, Sep 14, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Sep 21, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Sep 28, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Oct 5, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Oct 12, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Oct 19, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Oct 26, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Monday, Nov 2, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab) Where Virtual event About this event Join us every Monday at 6:30 PM CT for Team Lauren's weekly volunteer call on Zoom.
 This is the hub of our campaign's grassroots organizing operation and the space where we come together, share updates, celebrate wins, and show you how to get involved from across the district.
 We are less than 2 months from Election Day on November 3, 2026, and early voting begins in just five weeks.
 With mail-in ballots going out soon, the work we do right now is what will determine the outcome of this race.
@@ -10,3 +6,6 @@ Lauren Jewett is a special education teacher running to unseat Steve Scalise and
 She is running to lower costs, protect our coast, strengthen public schools, expand access to healthcare, and make Congress actually answer to the people it represents and not special interests in Washington.
 Every volunteer who shows up to this call is part of what makes that possible.
 See you on Monday night!
+RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

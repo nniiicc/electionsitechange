@@ -1,10 +1,66 @@
 [
-"https://brucebannister.com/",
-"https://brucebannister.com/all-posts",
-"https://brucebannister.com/issues",
-"https://brucebannister.com/our-history",
-"https://facebook.com/BruceBannisterSC",
-"https://instagram.com/brucebannisterofficial",
-"https://secure.anedot.com/bannister-for-house/bannister",
-"https://unclejakemedia.com/"
+{
+"text": "About Bruce",
+"href": "https://brucebannister.com/our-history/"
+},
+{
+"text": "Bruce Bannister",
+"href": "https://brucebannister.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/bannister-for-house/bannister"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BruceBannisterSC"
+},
+{
+"text": "Home",
+"href": "https://brucebannister.com"
+},
+{
+"text": "Home",
+"href": "https://brucebannister.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brucebannisterofficial"
+},
+{
+"text": "Issues",
+"href": "https://brucebannister.com/issues/"
+},
+{
+"text": "Uncle Jake Media",
+"href": "https://unclejakemedia.com/"
+},
+{
+"text": "Updates",
+"href": "https://brucebannister.com/all-posts/"
+},
+{
+"text": "[image: default-logo]",
+"href": "https://brucebannister.com/"
+},
+{
+"text": "[image]",
+"href": "https://brucebannister.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brucebannisterofficial"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BruceBannisterSC"
+},
+{
+"text": "[no text]",
+"href": "mailto:bruce@brucebannister.com"
+},
+{
+"text": "bruce@brucebannister.com",
+"href": "mailto:bruce@brucebannister.com"
+}
 ]

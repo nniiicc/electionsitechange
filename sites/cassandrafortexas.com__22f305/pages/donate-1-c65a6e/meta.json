@@ -1,7 +1,9 @@
 {
  "description": "Support Cassandra Hernandez&#39;s campaign by making a donation online and help make a difference in Texas.",
  "final_url": "https://cassandrafortexas.com/donate-1",
- "paid_for_by": null,
+ "fingerprint": "76f8ac054b7005b7956ac0c55f0c16fab207187b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

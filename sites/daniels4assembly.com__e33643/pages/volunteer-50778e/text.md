@@ -1,10 +1,18 @@
-This race is going to be won block by block, door by door, neighbor by neighbor.
+top of page HOME ABOUT ISSUES ENDORSEMENTS VOLUNTEER CONTACT DONATE Volunteer Join the Team This race is going to be won block by block, door by door, neighbor by neighbor.
 If you're ready to help take back Assembly District 44 — sign up.
 We'll match you to the right job.
-By providing my phone number and checking this box, I consent to receive recurring automated and informational text messages from Carolyn Daniels for Assembly 2026 (FPPC #1489249).
+First Name Last Name Email Phone ZIP code Yes, send me text-message updates By providing my phone number and checking this box, I consent to receive recurring automated and informational text messages from Carolyn Daniels for Assembly 2026 (FPPC #1489249).
 Message frequency varies.
 Message and data rates may apply.
 Reply STOP to unsubscribe, HELP for help.
 Consent is not a condition of any contribution.
-See our Privacy Policy and SMS Terms.
-Thanks for submitting!
+See our Privacy Policy and SMS Terms .
+How can you help?
+Knock Doors Donate Phone Bank Yard Sign Send Texts Host a meet-and-greet Drop Literature Just keep me informed Anything else we should know?
+I'm In Thanks for submitting!
+Paid for by Carolyn Daniels for Assembly 2026.
+FPPC #1489249 By providing your phone number, you consent to receive recurring text messages from Carolyn Daniels for Assembly.
+Reply STOP to opt out.
+Reply HELP for help.
+Msg & data rates may apply.
+PRIVACY POLICY SMS TERMS CONTACT bottom of page

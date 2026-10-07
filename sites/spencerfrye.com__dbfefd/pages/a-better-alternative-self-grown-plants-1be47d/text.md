@@ -1,5 +1,4 @@
-A Better Alternative: Self-Grown Plants
-In wake of current controversy, the topic of medical marijuana has made its way to the state of Georgia.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Better Alternative: Self-Grown Plants Posted March 20, 2019 By Lauren Stewart Capitol Corner In wake of current controversy, the topic of medical marijuana has made its way to the state of Georgia.
 We have already seen some previous legislation begin to take effect in Georgia.
 The city of Atlanta has decriminalized possession of marijuana under a certain amount.
 Moreover, the state of Georgia has legalized medical marijuana or cannabis oil use for those individuals that have a medical condition that would be improved from the use of THC oil.
@@ -21,4 +20,5 @@ Frye’s bill would allow personal cultivation of up to two self-grown plants on
 By doing this, individuals can have access to the THC oils that they need for their medical condition for a more responsible price.
 The bill would also set parameters that require individuals to have their registration card issued by the Department of Public Health in their possession.
 Lastly, the bill would set out reasonable consequences and punishments, equivalent to those laid out for unlawful possession of THC oil, for not complying with the rules and regulations set forth by this bill.
-Unlike HB 324, Representative Frye has a solution that looks out for the well-being of all Georgians by putting the health of its citizens before the profits of its corporations.
+Unlike HB 324, Representative Frye has a solution that looks out for the well-being of all Georgians by putting the health of its citizens before the profits of its corporations. ©# Spencer Frye State House 122.
+All Rights Reserved.

@@ -1,2 +1,4 @@
-Linda was the lead sponsor of a bill establishing a fund for improved communication during active shooter and other emergencies at our schools.
+Home About Issues Get Involved Contact Menu Home About Issues Get Involved Contact Contribute Menu Home About Issues Get Involved Contact Contribute Friends of Linda Foley Linda Foley for Delegate, District 15 Home About Issues Get Involved Contact Support legislation that helps keep our children safe and improves our schools Linda was the lead sponsor of a bill establishing a fund for improved communication during active shooter and other emergencies at our schools.
 She also has supported laws that enhance our school resources and ensure that all children see themselves and their culture in the classroom.
+Home Overview Contribute About Biography Resources Newsletter Legislative Page Media Issues Latest News Contact Email Volunteer Facebook Twitter Home Overview Contribute Media Issues Latest News About Biography Resources Newsletter Legislative Page Contact Email Volunteer Facebook Twitter Contribute By Authority: Friends of Linda Foley, Monty N.
+Foley, Treasurer

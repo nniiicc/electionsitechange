@@ -1,52 +1,254 @@
 [
-"http://bentoncreative.com/",
-"http://docs.google.com/spreadsheets/u/0/d/1xamOAXnUJ_YJn0MuWMAgqaVsgUCLhJlCERfnmMlgh-U/htmlview",
-"https://dekalbdems.com/so/4bPnSnJ7c?languageTag=en&cid=9d5ad6ce-3fe8-4f5b-a990-77655d5b7fa9",
-"https://docs.google.com/forms/d/e/1FAIpQLScIiVCkRRzKyMOyY8tecPZJcRaC1hvnkFTnjVMR0Oftrwvt2g/viewform?usp=header",
-"https://facebook.com/sallyharrellga",
-"https://gfpe.org/tax_credit/page/georgias-peach-education-tax-credit",
-"https://legis.ga.gov/members/house",
-"https://ltgov.georgia.gov/contact-lt-governor",
-"https://mobilize.us/georgiademocrats/event/908889",
-"https://onrealm.org/KingswoodUnited/-/form/give/now",
-"https://sallyharrell.org/",
-"https://sallyharrell.org/2020-endorsements",
-"https://sallyharrell.org/2022-endorsements",
-"https://sallyharrell.org/2024-endorsements",
-"https://sallyharrell.org/2026/02/09/sallys-senate-snapshot-2026-4",
-"https://sallyharrell.org/2026/02/15/sallys-senate-snapshot-2026-5",
-"https://sallyharrell.org/2026/02/22/sallys-senate-snapshot-2026-6",
-"https://sallyharrell.org/2026/03/01/sallys-senate-snapshot-2027-7",
-"https://sallyharrell.org/2026/03/08/sallys-senate-snapshot-2026-8",
-"https://sallyharrell.org/2026/03/15/sallys-senate-snapshot-2026-9",
-"https://sallyharrell.org/2026/03/22/sallys-senate-snapshot-2026-10",
-"https://sallyharrell.org/2026/03/29/sallys-senate-snapshot-2026-11",
-"https://sallyharrell.org/2026/04/14/sallys-senate-snapshot-2026-12",
-"https://sallyharrell.org/2026/04/26/sallys-senate-snapshot-13",
-"https://sallyharrell.org/about-sally",
-"https://sallyharrell.org/author/jharrell26",
-"https://sallyharrell.org/category/news",
-"https://sallyharrell.org/category/news/page/16",
-"https://sallyharrell.org/category/news/page/2",
-"https://sallyharrell.org/category/news/page/3",
-"https://sallyharrell.org/contact",
-"https://sallyharrell.org/events",
-"https://sallyharrell.org/newsletters",
-"https://sallyharrell.org/priorities",
-"https://sallyharrell.org/priorities/2018-endorsements",
-"https://sallyharrell.org/volunteer",
-"https://sallyharrell.org/vote",
-"https://sallyharrell.org/yardsign",
-"https://secure.actblue.com/contribute/page/sallyharrell-email",
-"https://secure.actblue.com/contribute/page/sallyharrell-sd40",
-"https://twitter.com/sallyharrellga",
-"https://yourgeorgiaballot.com/",
-"https://youtu.be/pVYC8p8JmtM",
-"https://youtube.com/@sallyharrell730/shorts",
-"https://youtube.com/live/E1_-Az7E_t0",
-"https://youtube.com/live/EnRMVldT_3Y",
-"https://youtube.com/live/QcfzABwyD4A",
-"https://youtube.com/shorts/gCtaNSnRSSE",
-"https://youtube.com/shorts/m3TpIhKx7UU",
-"https://youtube.com/shorts/w3ZN2H2w228"
+{
+"text": "2",
+"href": "https://sallyharrell.org/category/news/page/2/"
+},
+{
+"text": "2018 Endorsements",
+"href": "https://sallyharrell.org/priorities/2018-endorsements"
+},
+{
+"text": "2020 Endorsements",
+"href": "https://sallyharrell.org/2020-endorsements/"
+},
+{
+"text": "2022 Endorsements",
+"href": "https://sallyharrell.org/2022-endorsements/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://sallyharrell.org/2024-endorsements/"
+},
+{
+"text": "3",
+"href": "https://sallyharrell.org/category/news/page/3/"
+},
+{
+"text": "About Sally",
+"href": "https://sallyharrell.org/about-sally/"
+},
+{
+"text": "Agriculture, State School Superintendent, Public Service Commissioner",
+"href": "https://www.youtube.com/live/QcfzABwyD4A"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Call House members",
+"href": "https://www.legis.ga.gov/members/house"
+},
+{
+"text": "Commissioner of Labor",
+"href": "https://www.youtube.com/live/EnRMVldT_3Y"
+},
+{
+"text": "Contact",
+"href": "https://sallyharrell.org/contact/"
+},
+{
+"text": "Criminal Justice & Police Reform",
+"href": "https://sallyharrell.org/priorities/#criminal-justice"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-sd40"
+},
+{
+"text": "Education",
+"href": "https://sallyharrell.org/priorities/#education"
+},
+{
+"text": "Environment",
+"href": "https://sallyharrell.org/priorities/#environment"
+},
+{
+"text": "Events",
+"href": "https://sallyharrell.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sallyharrellga/"
+},
+{
+"text": "Georgia Justice Project",
+"href": "https://yourgeorgiaballot.com/"
+},
+{
+"text": "Healthcare",
+"href": "https://sallyharrell.org/priorities/#healthcare"
+},
+{
+"text": "Lt. Governor, Commissioner of Insurance",
+"href": "https://www.youtube.com/live/E1_-Az7E_t0"
+},
+{
+"text": "Mail",
+"href": "mailto:sally@sallyharrell.org"
+},
+{
+"text": "News",
+"href": "https://sallyharrell.org/category/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Newsletters",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Other Issues",
+"href": "https://sallyharrell.org/priorities/#other-issues"
+},
+{
+"text": "PEACH Education Tax Credit",
+"href": "https://www.gfpe.org/tax_credit/page/georgias-peach-education-tax-credit"
+},
+{
+"text": "Pack the Capitol event",
+"href": "https://www.mobilize.us/georgiademocrats/event/908889/"
+},
+{
+"text": "Priorities",
+"href": "https://sallyharrell.org/priorities/"
+},
+{
+"text": "Sally Harrell",
+"href": "https://sallyharrell.org/author/jharrell26/"
+},
+{
+"text": "Sally’s Senate Snapshot #13",
+"href": "https://sallyharrell.org/2026/04/26/sallys-senate-snapshot-13/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #10",
+"href": "https://sallyharrell.org/2026/03/22/sallys-senate-snapshot-2026-10/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #11",
+"href": "https://sallyharrell.org/2026/03/29/sallys-senate-snapshot-2026-11/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #12",
+"href": "https://sallyharrell.org/2026/04/14/sallys-senate-snapshot-2026-12/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #4",
+"href": "https://sallyharrell.org/2026/02/09/sallys-senate-snapshot-2026-4/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #5",
+"href": "https://sallyharrell.org/2026/02/15/sallys-senate-snapshot-2026-5/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #6",
+"href": "https://sallyharrell.org/2026/02/22/sallys-senate-snapshot-2026-6/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #7",
+"href": "https://sallyharrell.org/2026/03/01/sallys-senate-snapshot-2027-7/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #8",
+"href": "https://sallyharrell.org/2026/03/08/sallys-senate-snapshot-2026-8/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #9",
+"href": "https://sallyharrell.org/2026/03/15/sallys-senate-snapshot-2026-9/"
+},
+{
+"text": "The Good, the Bad, and the Ugl",
+"href": "https://dekalbdems.com/so/4bPnSnJ7c?languageTag=en&cid=9d5ad6ce-3fe8-4f5b-a990-77655d5b7fa9"
+},
+{
+"text": "Transportation",
+"href": "https://sallyharrell.org/priorities/#transportation"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/sallyharrellga"
+},
+{
+"text": "Urge the Lt. Governor",
+"href": "https://ltgov.georgia.gov/contact-lt-governor"
+},
+{
+"text": "Volunteer",
+"href": "https://sallyharrell.org/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://sallyharrell.org/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://sallyharrell.org/vote/"
+},
+{
+"text": "Watch on YouTube",
+"href": "https://www.youtube.com/@sallyharrell730/shorts"
+},
+{
+"text": "What’s It Matter To You – Healthcare",
+"href": "https://youtube.com/shorts/w3ZN2H2w228"
+},
+{
+"text": "Yard Sign",
+"href": "https://sallyharrell.org/yardsign"
+},
+{
+"text": "Yard Sign",
+"href": "https://sallyharrell.org/yardsign/"
+},
+{
+"text": "[image: Elect Sally Harrell]",
+"href": "https://sallyharrell.org/"
+},
+{
+"text": "campaign contributions",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-email"
+},
+{
+"text": "consider donating",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-sd40"
+},
+{
+"text": "event near you",
+"href": "http://docs.google.com/spreadsheets/u/0/d/1xamOAXnUJ_YJn0MuWMAgqaVsgUCLhJlCERfnmMlgh-U/htmlview"
+},
+{
+"text": "https://onrealm.org/KingswoodUnited/-/form/give/now",
+"href": "https://onrealm.org/KingswoodUnited/-/form/give/now"
+},
+{
+"text": "https://secure.actblue.com/contribute/page/sallyharrell-sd40",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-email"
+},
+{
+"text": "https://youtube.com/shorts/gCtaNSnRSSE",
+"href": "https://youtube.com/shorts/gCtaNSnRSSE"
+},
+{
+"text": "https://youtube.com/shorts/m3TpIhKx7UU",
+"href": "https://youtube.com/shorts/m3TpIhKx7UU"
+},
+{
+"text": "sign up here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScIiVCkRRzKyMOyY8tecPZJcRaC1hvnkFTnjVMR0Oftrwvt2g/viewform?usp=header"
+},
+{
+"text": "video below",
+"href": "https://youtu.be/pVYC8p8JmtM"
+},
+{
+"text": "»",
+"href": "https://sallyharrell.org/category/news/page/16/"
+},
+{
+"text": "›",
+"href": "https://sallyharrell.org/category/news/page/2/"
+}
 ]

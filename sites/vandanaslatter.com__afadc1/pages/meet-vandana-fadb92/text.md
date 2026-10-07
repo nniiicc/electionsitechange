@@ -1,5 +1,4 @@
-Meet Vandana
-Washington State Senator Vandana Slatter (D, 48th District) currently serves as the Vice Chair of the Senate Environment, Energy & Technology Committee and is a member of the Health & Long-Term Care and Higher Education & Workforce Development Committees.
+Vandana Slatter Meet Vandana Priorities Accomplishments Endorsements Media En Español Donate Meet Vandana Priorities Accomplishments Endorsements Media En Español Donate Meet Vandana Washington State Senator Vandana Slatter (D, 48th District) currently serves as the Vice Chair of the Senate Environment, Energy & Technology Committee and is a member of the Health & Long-Term Care and Higher Education & Workforce Development Committees.
 Previously she served four terms in the State House and was chair of the House Post Secondary Education and Workforce (PEW) committee.
 She is a former Bellevue City Councilmember, community leader, public school parent, and a biotech and healthcare professional.
 A Doctor of Pharmacy (UW), Vandana worked for twenty years at leading biotechnology companies, including Amgen and Genentech, bringing multiple parties together, making sense of complex information, and achieving safe and efficacious solutions to best serve patients.
@@ -26,3 +25,4 @@ Pharmaceutical Sciences).
 At UBC, she earned a varsity athletic letter in the sport of fencing, was captain of the UBC women’s varsity fencing team, and a gold medalist at the BC Junior Women’s foil championships.
 Vandana and her family have lived in Northeast Bellevue since 2003.
 Her husband Greg is a research scientist.
+Donate Contact Paid for by Vandana Slatter for State Senate PO Box 20664 Seattle, WA 98102 [email protected]

@@ -1,12 +1,42 @@
 [
-"http://instagram.com/lynnetteforkansas",
-"https://facebook.com/lynnetteforkansas",
-"https://ksvotes.org/",
-"https://lynnetteforkansas.com/",
-"https://lynnetteforkansas.com/about",
-"https://lynnetteforkansas.com/cart",
-"https://lynnetteforkansas.com/donate",
-"https://lynnetteforkansas.com/join",
-"https://lynnetteforkansas.com/priorities",
-"https://tiktok.com/@lynnetteforkansas"
+{
+"text": "0",
+"href": "https://www.lynnetteforkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lynnetteforkansas.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.lynnetteforkansas.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lynnetteforkansas.com/join"
+},
+{
+"text": "Lynnette For Kansas",
+"href": "https://www.lynnetteforkansas.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.lynnetteforkansas.com/priorities"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.ksvotes.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lynnetteforkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lynnetteforkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lynnetteforkansas"
+}
 ]

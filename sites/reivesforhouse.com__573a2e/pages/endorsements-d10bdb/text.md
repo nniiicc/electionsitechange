@@ -1,7 +1,4 @@
-Endorsements
-What People Are Saying About Robert Reives
-“No one becomes a teacher to get rich, but it would be nice if our legislators had a little respect for our profession.
-Robert Reives respects teachers, and he fights to get us better pay, too.”
-“As a small business owner, I’m glad to know Robert Reives is looking out for me in Raleigh.
-I, my family and my employees
-depend on his leadership.”
+Facebook X About About Robert Reives Endorsements Leadership News Issues Join Sign Up Volunteer Contact Donate Select Page Endorsements NORTH CAROLINA ASSOCIATION OF EDUCATORS NATIONAL ASSOCIATION OF SOCIAL WORKERS North Carolina Chapter NC LEAGUE OF CONSERVATION VOTERS PAC STATE EMPLOYEES ASSOCIATION OF NORTH CAROLINA SIERRA CLUB – NC CHAPTER EQUALITY NC What People Are Saying About Robert Reives “No one becomes a teacher to get rich, but it would be nice if our legislators had a little respect for our profession.
+Robert Reives respects teachers, and he fights to get us better pay, too.” Laine Lipson Retired teacher , Chatham County Schools “As a small business owner, I’m glad to know Robert Reives is looking out for me in Raleigh.
+I, my family and my employees depend on his leadership.” Leslie Cox Former State Representative , North Carolina Facebook X Paid for by The Committee to Elect Robert T.
+Reives II.

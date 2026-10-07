@@ -1,29 +1,19 @@
-Matt’s Priorities
-Matt has delivered big results for Blaine and Lexington, but he knows there’s still more work to do.
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Matt’s Priorities Matt has delivered big results for Blaine and Lexington, but he knows there’s still more work to do.
 Matt will focus on growing the middle class and the things that impact Minnesotans every day, like high prices.
 In uncertain times, we need proven leaders and bridge builders like Matt to deliver results on these critical issues.
-Matt’s Policy Priorities
-Making Life More Affordable
-Let’s put more power in the hands of Minnesotans, not billionaires.
+Matt’s Policy Priorities Making Life More Affordable Let’s put more power in the hands of Minnesotans, not billionaires.
 One major way is by making health care, child care, and senior care more affordable and accessible.
 We must also make sure the workers in these industries can earn a living wage.
-Learn more
-Reducing Property Taxes
-Home property taxes have gotten out of control.
+Learn more Reducing Property Taxes Home property taxes have gotten out of control.
 As vice chair of the Taxes Committee, Matt has a plan to reduce them.
-Learn more
-Producing Real Results from Government
-Matt has a bill to measure the results of new programs to maximize the impact of your tax dollars.
-Learn more
-Making Our Schools More Successful
-Matt believes every student deserves a strong education, and he’s got a plan to boost achievement in Minnesota schools.
-Learn more
-Standing Up for Minnesotans
-Matt will stand up for Minnesotans against Washington, D.C., whether it’s masked agents violating constitutional rights or lawmakers slashing healthcare to give tax cuts to giant corporations.
-Learn more
-Making Housing More Affordable
-Matt is committed to making sure home owners and renters have the affordable options they want and passing the Manufactured Home Park Resident Bill of Rights.
-Learn more
-Making Our Neighborhoods Safer
-Matt started his career leading an effort to lower crime, and he’s bringing that experience to the Capitol to make our neighborhoods safer.
-Learn more
+Learn more Producing Real Results from Government Matt has a bill to measure the results of new programs to maximize the impact of your tax dollars.
+Learn more Making Our Schools More Successful Matt believes every student deserves a strong education, and he’s got a plan to boost achievement in Minnesota schools.
+Learn more Standing Up for Minnesotans Matt will stand up for Minnesotans against Washington, D.C., whether it’s masked agents violating constitutional rights or lawmakers slashing healthcare to give tax cuts to giant corporations.
+Learn more Making Housing More Affordable Matt is committed to making sure home owners and renters have the affordable options they want and passing the Manufactured Home Park Resident Bill of Rights.
+Learn more Making Our Neighborhoods Safer Matt started his career leading an effort to lower crime, and he’s bringing that experience to the Capitol to make our neighborhoods safer.
+Learn more Matt has been delivering big results for Blaine and Lexington since his first term.
+You can count on Rep.
+Matt Norris to continue delivering results if you re-elect him!
+Matt is the champion we need at the State Capitol Join Us Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

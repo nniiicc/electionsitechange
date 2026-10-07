@@ -1,8 +1,30 @@
 [
-"https://kingston4vt.com/",
-"https://kingston4vt.com/about",
-"https://kingston4vt.com/contact-me",
-"https://kingston4vt.com/endorsements%2Ftestimonials",
-"https://kingston4vt.com/media-1",
-"https://kingston4vt.com/positions"
+{
+"text": "About",
+"href": "https://kingston4vt.com/about"
+},
+{
+"text": "Contact Me",
+"href": "https://kingston4vt.com/contact-me"
+},
+{
+"text": "Endorsements/Testimonials",
+"href": "https://kingston4vt.com/endorsements%2Ftestimonials"
+},
+{
+"text": "Home",
+"href": "https://kingston4vt.com/"
+},
+{
+"text": "John Kingston forVermont State RepresentativeJohn Kingston for Vermont State RepresentativeJohn Kingston for Vermont State RepresentativeJohn Kingston for Vermont State Representative",
+"href": "https://kingston4vt.com/"
+},
+{
+"text": "Media",
+"href": "https://kingston4vt.com/media-1"
+},
+{
+"text": "Positions",
+"href": "https://kingston4vt.com/positions"
+}
 ]

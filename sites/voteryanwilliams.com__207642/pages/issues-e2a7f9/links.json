@@ -1,8 +1,26 @@
 [
-"https://facebook.com/Ryan.Williams.For.State.Rep",
-"https://twitter.com/RyanWilliamsTN",
-"https://voteryanwilliams.com/",
-"https://voteryanwilliams.com/about",
-"https://voteryanwilliams.com/issues",
-"https://voteryanwilliams.majoritymicro.wpengine.com/"
+{
+"text": "About",
+"href": "https://voteryanwilliams.com/about/"
+},
+{
+"text": "Home",
+"href": "https://voteryanwilliams.majoritymicro.wpengine.com/"
+},
+{
+"text": "Issues",
+"href": "https://voteryanwilliams.com/issues/"
+},
+{
+"text": "[image] [image]",
+"href": "https://voteryanwilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RyanWilliamsTN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Ryan.Williams.For.State.Rep/"
+}
 ]

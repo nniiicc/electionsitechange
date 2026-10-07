@@ -1,6 +1,18 @@
 [
-"https://facebook.com/mattforhouse",
-"https://mattforhouse.com/about.php",
-"https://mattforhouse.com/issues.php",
-"https://mattforhouse.com/join.php"
+{
+"text": "About Matt Rohrbach[image]",
+"href": "https://www.mattforhouse.com/about.php"
+},
+{
+"text": "Issues and Solutions[image]",
+"href": "https://www.mattforhouse.com/issues.php"
+},
+{
+"text": "Join the Team[image]",
+"href": "https://www.mattforhouse.com/join.php"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/mattforhouse"
+}
 ]

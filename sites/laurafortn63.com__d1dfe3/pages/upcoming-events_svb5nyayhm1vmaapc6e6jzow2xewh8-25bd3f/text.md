@@ -1,11 +1,4 @@
-Back to All Events
-Hey Williamson County folks in TN House District 63 and TN Senate District 27, here’s a chance to meet your state level candidates!
+0 Skip to Content Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Folder: Learn More Back Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Back to All Events Meet the Candidates House Party Thursday, October 1, 2026 5:00 PM 7:00 PM Google Calendar ICS Hey Williamson County folks in TN House District 63 and TN Senate District 27, here’s a chance to meet your state level candidates!
 Hear directly from Laura and David about their races, ask questions and learn how you can help their campaigns!
 RSVP for location via text to 314-681-8272.
-Previous
-Previous
-October 1
-Community Canvass in Nolensville
-Next
-Next
-October 2
+Previous Previous October 1 Community Canvass in Nolensville Next Next October 2 Community Canvass in Franklin Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.

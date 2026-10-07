@@ -1,22 +1,94 @@
 [
-"http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490",
-"https://facebook.com/halpinforillinois?pnref=story",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20220704T123000%2F20220704T140000&text=East+Moline+4th+of+July+Parade&details=%3Cdiv%3E%3Ca+href%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FIMG_5485.jpg%22%3E%3Cimg+class%3D%22aligncenter+wp-image-312+size-large%22+src%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FIMG_5485-1024x1016.jpg%22+alt%3D%22%22+width%3D%22640%22+height%3D%22635%22+%2F%3E%3C%2Fa%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E&location=15th+Ave.+&trp=false&ctz=America%2FChicago&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com",
-"https://halpinforillinois.com/",
-"https://halpinforillinois.com/about-mike",
-"https://halpinforillinois.com/category/news",
-"https://halpinforillinois.com/cdn-cgi/l/email-protection",
-"https://halpinforillinois.com/donate",
-"https://halpinforillinois.com/early-voting",
-"https://halpinforillinois.com/event/galesburg-office-opening",
-"https://halpinforillinois.com/event/postcard-writing-event",
-"https://halpinforillinois.com/events",
-"https://halpinforillinois.com/get-involved",
-"https://halpinforillinois.com/issues",
-"https://halpinforillinois.com/privacy-policy",
-"https://halpinforillinois.com/survey-focus-form",
-"https://halpinforillinois.com/wp-content/uploads/2022/06/IMG_5485.jpg",
-"https://maps.google.com/maps?f=q&hl=en&q=15th+Ave.+%26amp%3B+3rd+St.+East+Moline",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2022-07-04T12%3A30%3A00-05%3A00&enddt=2022-07-04T14%3A00%3A00-05%3A00&location=15th+Ave.+&subject=East+Moline+4th+of+July+Parade",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2022-07-04T12%3A30%3A00-05%3A00&enddt=2022-07-04T14%3A00%3A00-05%3A00&location=15th+Ave.+&subject=East+Moline+4th+of+July+Parade"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=15th+Ave.+%26amp%3B+3rd+St.+East+Moline"
+},
+{
+"text": "About Mike",
+"href": "https://www.halpinforillinois.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://halpinforillinois.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.halpinforillinois.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://halpinforillinois.com/events/"
+},
+{
+"text": "Galesburg Office Opening »",
+"href": "https://www.halpinforillinois.com/event/galesburg-office-opening/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halpinforillinois.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20220704T123000%2F20220704T140000&text=East+Moline+4th+of+July+Parade&details=%3Cdiv%3E%3Ca+href%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FIMG_5485.jpg%22%3E%3Cimg+class%3D%22aligncenter+wp-image-312+size-large%22+src%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FIMG_5485-1024x1016.jpg%22+alt%3D%22%22+width%3D%22640%22+height%3D%22635%22+%2F%3E%3C%2Fa%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E&location=15th+Ave.+&+3rd+St.%2C+15th+Ave.+=&+3rd+St.%2C+East+Moline=&trp=false&ctz=America%2FChicago&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com"
+},
+{
+"text": "ILGA.Gov",
+"href": "http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490"
+},
+{
+"text": "Issues",
+"href": "https://www.halpinforillinois.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.halpinforillinois.com/category/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T12%3A30%3A00-05%3A00&enddt=%23T14%3A00%3A00-05%3A00&location=15th+Ave.+&+3rd+St.%2C+15th+Ave.+=&+3rd+St.%2C+East+Moline=&subject=East+Moline+4th+of+July+Parade&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T12%3A30%3A00-05%3A00&enddt=%23T14%3A00%3A00-05%3A00&location=15th+Ave.+&+3rd+St.%2C+15th+Ave.+=&+3rd+St.%2C+East+Moline=&subject=East+Moline+4th+of+July+Parade&body="
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforillinois.com/privacy-policy/"
+},
+{
+"text": "Take Our Survey",
+"href": "https://www.halpinforillinois.com/survey-focus-form/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.halpinforillinois.com/early-voting/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:FriendsofMikeHalpin@gmail.com"
+},
+{
+"text": "[image]",
+"href": "https://halpinforillinois.com/wp-content/uploads/2022/06/IMG_5485.jpg"
+},
+{
+"text": "[image]309.553.1429",
+"href": "tel:3095531429"
+},
+{
+"text": "facebook.com/halpinforillinois",
+"href": "https://www.facebook.com/halpinforillinois?pnref=story"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.halpinforillinois.com/event/east-moline-4th-of-july-parade/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.halpinforillinois.com/events/"
+},
+{
+"text": "« Postcard Writing Event",
+"href": "https://www.halpinforillinois.com/event/postcard-writing-event/"
+}
 ]

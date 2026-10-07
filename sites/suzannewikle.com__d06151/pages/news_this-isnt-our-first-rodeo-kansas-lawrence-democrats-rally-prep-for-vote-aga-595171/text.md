@@ -1,1 +1,3 @@
-‘This isn’t our first rodeo’: Kansas, Lawrence Democrats rally, prep for vote against amendment in August 2026 In the News Apr 27 Written By Suzanne Wikle Suzanne Wikle
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE ‘This isn’t our first rodeo’: Kansas, Lawrence Democrats rally, prep for vote against amendment in August 2026 In the News Apr 27 Written By Suzanne Wikle Suzanne Wikle Previous Previous 'Big Beautiful Bill': Thousands could lose Medicaid Next Next Kansas families with SNAP can still buy soda, candy, but new law adds red tape to assistance Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

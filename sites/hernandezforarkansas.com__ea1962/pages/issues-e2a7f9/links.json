@@ -1,12 +1,50 @@
 [
-"http://wordpress.org/",
-"https://facebook.com/profile.php?id=100080247167152",
-"https://hernandezforarkansas.com/",
-"https://hernandezforarkansas.com/issues",
-"https://hernandezforarkansas.com/meet-me",
-"https://hernandezforarkansas.com/volunteer",
-"https://instagram.com/reyhernandez775",
-"https://secure.actblue.com/donate/hernandez-for-arkansas-1",
-"https://themeisle.com/themes/neve",
-"https://tiktok.com/@reyhernandez7290"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/hernandez-for-arkansas-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100080247167152"
+},
+{
+"text": "HOME",
+"href": "https://hernandezforarkansas.com"
+},
+{
+"text": "HOME",
+"href": "https://hernandezforarkansas.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://hernandezforarkansas.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/reyhernandez775/"
+},
+{
+"text": "MEET ME",
+"href": "https://hernandezforarkansas.com/meet-me/"
+},
+{
+"text": "Neve Charity",
+"href": "https://themeisle.com/themes/neve/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@reyhernandez7290"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://hernandezforarkansas.com/volunteer/"
+},
+{
+"text": "WordPress",
+"href": "http://wordpress.org"
+},
+{
+"text": "[image]",
+"href": "https://hernandezforarkansas.com/"
+}
 ]

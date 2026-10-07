@@ -1,7 +1,5 @@
-JOHN CABELLO
-Working Hard and Representing You in Springfield!
-Illinois repeal gas tax hike during a recession
-The 19th century New York lawyer and newspaper editor Gideon J.
+Facebook Twitter Contact Donate About Media Videos Recent Posts Endorsements Events Get Involved Voter Info Voter Registration Select Page JOHN CABELLO STATE REPRESENTATIVE Working Hard and Representing You in Springfield!
+Illinois repeal gas tax hike during a recession by Admin | Nov 11, 2019 | Media | The 19th century New York lawyer and newspaper editor Gideon J.
 Tucker wrote in 1866 that “no man’s life, liberty or property are safe while the Legislature is in session.” His words have never been more true than in Illinois in 2019.
 With 21 new or increased taxes approved in Springfield this year, more working families, seniors on fixed incomes, and recent graduates looking to join the workforce are feeling the pressure of the higher cost of living than ever before.
 The Illinois House of Representatives returned to Springfield this week for the first time since passing a bill on June 1 doubling the state’s gas tax.
@@ -22,3 +20,6 @@ Call or email and ask him or her to co-sponsor House Bill 3937.
 Together we can build a movement to fight against the tide of higher taxes in Illinois.
 John M.
 Cabello, R-Machesney Park, is state representative in the 68th District.
+About Media Endorsements Events Get Involved Voter Info Paid for by Citizens for John M.
+Cabello.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

@@ -1,16 +1,62 @@
 [
-"https://facebook.com/kustoffforcongress",
-"https://instagram.com/kustoffforcongress",
-"https://kustoffforcongress.com/",
-"https://kustoffforcongress.com/about",
-"https://kustoffforcongress.com/contact",
-"https://kustoffforcongress.com/donate",
-"https://kustoffforcongress.com/issues",
-"https://kustoffforcongress.com/news",
-"https://kustoffforcongress.com/privacy",
-"https://kustoffforcongress.com/terms",
-"https://kustoffforcongress.com/volunteer",
-"https://tnmap.tn.gov/voterlookup",
-"https://twitter.com/DavidKustoff",
-"https://youtube.com/channel/UCLjScc7fN6399KBWFJ872HQ"
+{
+"text": "About",
+"href": "https://www.kustoffforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.kustoffforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.kustoffforcongress.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.kustoffforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kustoffforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.kustoffforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kustoffforcongress.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kustoffforcongress.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kustoffforcongress.com/volunteer/"
+},
+{
+"text": "[image: KustoffElectionDayVotingLocationsImage]",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "[image]",
+"href": "https://instagram.com/kustoffforcongress"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/DavidKustoff"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/kustoffforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.kustoffforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCLjScc7fN6399KBWFJ872HQ"
+}
 ]

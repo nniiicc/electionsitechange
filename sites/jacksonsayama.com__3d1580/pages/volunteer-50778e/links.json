@@ -1,9 +1,38 @@
 [
-"https://facebook.com/pg/JacksonSayamaHI",
-"https://jacksonsayama.com/",
-"https://jacksonsayama.com/about-1",
-"https://jacksonsayama.com/cart",
-"https://jacksonsayama.com/issues",
-"https://jacksonsayama.com/volunteer",
-"https://secure.actblue.com/donate/jackson-sayama"
+{
+"text": "0",
+"href": "https://www.jacksonsayama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jacksonsayama.com/about-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jackson-sayama"
+},
+{
+"text": "Home",
+"href": "https://www.jacksonsayama.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jacksonsayama.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jacksonsayama.com/volunteer"
+},
+{
+"text": "[image: Jackson Sayama]",
+"href": "https://www.jacksonsayama.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/pg/JacksonSayamaHI"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@jacksonsayama.com"
+}
 ]

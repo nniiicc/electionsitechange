@@ -1,12 +1,10 @@
-OMG a Democrat
-Aside from attending the recent Democratic caucus, I’ve been talking and listening to the people of District 11.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News OMG a Democrat Feb 18 3 min read Aside from attending the recent Democratic caucus, I’ve been talking and listening to the people of District 11.
 I’ve been knocking on doors, attending events and politely as possible inserting myself into people’s conversations.
 For the most part, the people I’ve heard from have concerns that match up with mine.
 They include costs and affordability, healthcare, water quality and cancer rates, as well as education, workforce and accountability.
 I’ve shared a good deal of friendly discussions and a few laughs with neighbors, old friends and strangers who are becoming new friends.
 The other issue, that is often unspoken but still communicated, is that many people are scared.
-I
-have met some who seem scared of me.
+I have met some who seem scared of me.
 I’ve met more who fear losing friends, business, respect and standing in their community by merely associating with me, a Democrat!
 Really?
 Here in Iowa, the state with values, morals, responsibility and a reputation for hard work and clean living, where we proclaim on our state flag that Our Liberties We Prize and Our Rights We Will Maintain, can I maintain my rights, my liberties, my freedom of choice?
@@ -35,8 +33,7 @@ Let’s talk about how we get to a place where we can accept and communicate wit
 The biases we hold are shrinking our state and robbing its citizens of their liberties and rights.
 Help me turn this negative trend around.
 Let’s talk.
-Find out more about me on my website at billowenforiowahouse.com
-Find me on FB
-E-mail me at billowenforiowahouse@gmail.com
-Call me at (712) 571-8544
-Bill Owen
+Find out more about me on my website at billowenforiowahouse.com Find me on FB E-mail me at billowenforiowahouse@gmail.com Call me at (712) 571-8544 Bill Owen News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+Making Sense of Cancer and Your Water PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

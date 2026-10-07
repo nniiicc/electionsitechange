@@ -1,16 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/SenatorMikeMcGuire",
-"https://instagram.com/mcguireforca",
-"https://secure.actblue.com/donate/mmca-web",
-"https://secure.actblue.com/donate/mmca-web?amount=10",
-"https://secure.actblue.com/donate/mmca-web?amount=100",
-"https://secure.actblue.com/donate/mmca-web?amount=25",
-"https://secure.actblue.com/donate/mmca-web?amount=250",
-"https://secure.actblue.com/donate/mmca-web?amount=50",
-"https://secure.actblue.com/donate/socochilifeed",
-"https://votemikemcguire.com/",
-"https://votemikemcguire.com/about",
-"https://votemikemcguire.com/endorsements",
-"https://x.com/ilike_mike"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/mmca-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mmca-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mmca-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mmca-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mmca-web?amount=50"
+},
+{
+"text": "Chip In",
+"href": "https://secure.actblue.com/donate/mmca-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikemcguire.com/endorsements"
+},
+{
+"text": "Join Us!",
+"href": "https://secure.actblue.com/donate/socochilifeed"
+},
+{
+"text": "Learn more",
+"href": "https://www.votemikemcguire.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mmca-web"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Mike McGuire for Congress – Fighting for Northern California]",
+"href": "https://www.votemikemcguire.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SenatorMikeMcGuire"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mcguireforca/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ilike_mike"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://davidmeuse4nh.com/updates1/2024/1/7/agbiyiix515g4tpdvr4vrhj9qpuqr2"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Rep. Meuse’s website",
+"href": "https://www.davidmeuse4nh.com/updates1/2024/1/7/agbiyiix515g4tpdvr4vrhj9qpuqr2"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "his website",
+"href": "https://www.davidmeuse4nh.com/updates1/2024/1/7/agbiyiix515g4tpdvr4vrhj9qpuqr2"
+}
 ]

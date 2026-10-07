@@ -1,9 +1,30 @@
 [
-"http://parodyinblue.com/",
-"https://jenniferforga.com/",
-"https://jenniferforga.com/about-4",
-"https://jenniferforga.com/contact-8",
-"https://jenniferforga.com/general-1",
-"https://jenniferforga.com/s-projects-basic",
-"https://secure.actblue.com/donate/jennifer-for-georgia-inc-1"
+{
+"text": "Contact",
+"href": "https://www.jenniferforga.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jennifer-for-georgia-inc-1"
+},
+{
+"text": "Home",
+"href": "https://www.jenniferforga.com"
+},
+{
+"text": "Merch!",
+"href": "https://www.jenniferforga.com/s-projects-basic"
+},
+{
+"text": "Platform",
+"href": "https://www.jenniferforga.com/general-1"
+},
+{
+"text": "Why Jennifer",
+"href": "https://www.jenniferforga.com/about-4"
+},
+{
+"text": "parodyinblue.com",
+"href": "http://parodyinblue.com/"
+}
 ]

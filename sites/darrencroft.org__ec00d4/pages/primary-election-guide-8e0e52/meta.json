@@ -1,9 +1,12 @@
 {
  "description": "Key dates, drop box and voting locations, and smart voting tips for the 2026 Republican Primary Election",
  "final_url": "https://darrencroft.org/primary-election-guide/",
- "paid_for_by": null,
+ "fingerprint": "837c5e30cdbbd3712d8c9697265f511f6b0aa89b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Primary Election Guide - Darren Croft for Utah House District 41",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

@@ -1,5 +1,4 @@
-Meet Jason
-Jason Anavitarte represents Paulding and Polk counties in Senate District 31.
+Home About Events Volunteer Meet Jason Jason Anavitarte represents Paulding and Polk counties in Senate District 31.
 He is a former member of the Paulding County School Board and former Councilman for the City of Doraville where he was raised.
 Recently in 2018, Jason was named one of the 50 Most Influential Latinos in Georgia.
 Jason in 2016 was a RNC Statewide Delegate to the convention that elected President Donald Trump in addition to being a past delegate to multiple county, district, and state conventions.
@@ -15,3 +14,4 @@ Jason is a past Board Member of Fellowship for Christian Athletes [FCA], Pauldin
 He received a B.A. degree from Georgia State University and M.S. degree in Regional Economic Development and IT/Telecommunications Policy from Georgia Tech.
 Jason and his family attend Burnt Hickory Baptist Church.
 Jason and wife, Jennifer, and daughters Taylor, Madison, and Kennedy reside in Dallas, Georgia in Paulding County.
+PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE

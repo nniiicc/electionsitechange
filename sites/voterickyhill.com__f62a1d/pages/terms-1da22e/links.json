@@ -1,10 +1,38 @@
 [
-"https://facebook.com/VoteRickyHill",
-"https://secure.winred.com/ricky-hill/donate-today",
-"https://voterickyhill.com/",
-"https://voterickyhill.com/about",
-"https://voterickyhill.com/cdn-cgi/l/email-protection",
-"https://voterickyhill.com/privacy",
-"https://voterickyhill.com/terms",
-"https://voterickyhill.com/volunteer"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ricky-hill/donate-today/"
+},
+{
+"text": "Home",
+"href": "https://www.voterickyhill.com/"
+},
+{
+"text": "Meet Ricky",
+"href": "https://www.voterickyhill.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voterickyhill.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.voterickyhill.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterickyhill.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@voterickyhill.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/VoteRickyHill"
+},
+{
+"text": "[image]",
+"href": "https://www.voterickyhill.com/"
+}
 ]

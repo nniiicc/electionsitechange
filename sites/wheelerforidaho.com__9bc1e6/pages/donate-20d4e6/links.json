@@ -1,14 +1,58 @@
 [
-"https://facebook.com/joshwheelerforidaho",
-"https://paypal.com/donate?hosted_button_id=C98GE5SQAYHV2",
-"https://voteidaho.gov/online-voter-tools",
-"https://wheelerforidaho.com/",
-"https://wheelerforidaho.com/about-josh",
-"https://wheelerforidaho.com/blog",
-"https://wheelerforidaho.com/campaign",
-"https://wheelerforidaho.com/contact",
-"https://wheelerforidaho.com/donate",
-"https://wheelerforidaho.com/volunteer",
-"https://wheelerforidaho.com/voting-record",
-"https://wheelerforidaho.com/why-i-am-running"
+{
+"text": "(208) 360-3926",
+"href": "tel:(208)%20360-3926"
+},
+{
+"text": "About Josh",
+"href": "https://www.wheelerforidaho.com/about-josh/"
+},
+{
+"text": "Blog",
+"href": "https://www.wheelerforidaho.com/blog/"
+},
+{
+"text": "Campaign",
+"href": "https://www.wheelerforidaho.com/campaign/"
+},
+{
+"text": "Contact",
+"href": "https://www.wheelerforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.wheelerforidaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.wheelerforidaho.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wheelerforidaho.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://www.wheelerforidaho.com/voting-record/"
+},
+{
+"text": "Why I Am Running",
+"href": "https://www.wheelerforidaho.com/why-i-am-running/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/online-voter-tools/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/joshwheelerforidaho"
+},
+{
+"text": "[image]",
+"href": "https://www.paypal.com/donate/?hosted_button_id=C98GE5SQAYHV2"
+},
+{
+"text": "[image] Wheeler For Idaho",
+"href": "https://www.wheelerforidaho.com/"
+}
 ]

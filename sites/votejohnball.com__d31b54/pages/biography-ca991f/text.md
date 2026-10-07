@@ -1,4 +1,5 @@
-South Texas is my lifelong home.
+John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 Vote for John Ball Biography More Vote for John Ball Biography John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 John ball for 13th Court of appeals PLACE 6 Vote for John Ball Biography Your Candidate for 13th Court of Appeals Place 6 DONATE!
+John Ball Biography South Texas is my lifelong home.
 I am a husband and father of two children.
 I come from a law enforcement family where my dad worked with the Drug Enforcement Administration.
 I graduated from McAllen Memorial High School in 1995.
@@ -9,7 +10,7 @@ It was here that I realized I wanted to study law.
 During college Al Gore and George W.
 Bush ran for the presidency.
 Both of their campaigns ended up in the Supreme Court with the case Bush v.
-Gore.
+Gore .
 I followed the daily turn of events and loved understanding what mandamus, Equal Protection, Amicus and Certiorari meant.
 I knew I wanted to be a lawyer.
 I graduated from Texas A&M with a degree in political science and a minor in philosophy.
@@ -34,5 +35,8 @@ I served as a school board Trustee for McAllen ISD and have extensive experience
 I have been an instructor for continuing legal education seminars and am currently an adjunct professor teaching U.S.
 Court Systems at the local university.
 I will bring my extensive background in both trial work and appellate advocacy to the Thirteenth Court of Appeals.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Vote John Ball for Thirteenth Court of Appeals Copyright © # Vote John Ball for Thirteenth Court of Appeals-Place 6 - All Rights Reserved.
+Pol.
+Ad paid for by John Ball Campaign, Lucy Thompson, Treasurer, 2724 W.
+Canton Rd.
+Edinburg, TX 78539 Powered by

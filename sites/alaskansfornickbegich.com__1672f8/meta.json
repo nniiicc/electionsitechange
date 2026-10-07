@@ -1,9 +1,14 @@
 {
  "description": "Republican Nick Begich running for Congress, to restore our Alaska values to Congress.",
  "final_url": "https://www.alaskansfornickbegich.com/",
- "paid_for_by": null,
+ "fingerprint": "791f7048b2d07edc413ec509bc06a07dea43f698",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Nick Begich For Alaska",
  "years_mentioned": [
-  "2024"
+  "2004",
+  "2021",
+  "2024",
+  "2025"
  ]
 }

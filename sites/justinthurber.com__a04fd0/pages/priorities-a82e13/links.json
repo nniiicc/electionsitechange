@@ -1,17 +1,70 @@
 [
-"https://facebook.com/Vote4Thurber",
-"https://justinthurber.com/",
-"https://justinthurber.com/about",
-"https://justinthurber.com/constituent-services",
-"https://justinthurber.com/get-involved",
-"https://justinthurber.com/media",
-"https://justinthurber.com/priorities/affordability",
-"https://justinthurber.com/priorities/audit",
-"https://justinthurber.com/priorities/protecting-rights",
-"https://justinthurber.com/priorities/schools",
-"https://justinthurber.com/priorities/small-business",
-"https://justinthurber.com/priorities/veterans",
-"https://justinthurber.com/privacy",
-"https://justinthurber.com/terms",
-"https://secure.winred.com/citizens-for-justin-thurber/donate-today"
+{
+"text": "About",
+"href": "https://www.justinthurber.com/about"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.justinthurber.com/constituent-services"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-justin-thurber/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/citizens-for-justin-thurber/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.justinthurber.com/"
+},
+{
+"text": "Media",
+"href": "https://www.justinthurber.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.justinthurber.com/privacy"
+},
+{
+"text": "Rep. Justin Thurber – 5th Bristol District[image: State Representative Thurber – Always Working For You]",
+"href": "https://www.justinthurber.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.justinthurber.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.justinthurber.com/get-involved"
+},
+{
+"text": "[image: Justin Thurber at a Fresh Monkey ribbon cutting ceremony in Taunton]Small BusinessAs Ranking Minority on the Joint Committee on Community Development and Small Businesses, Justin brings real economic development directly into our towns, helping local businesses in the 5th Bristol District grow, expand, and create jobs.Learn More",
+"href": "https://www.justinthurber.com/priorities/small-business"
+},
+{
+"text": "[image: Justin Thurber at the Audit the Legislature rally on the steps of the Massachusetts State House]Audit the Legislature72% of Massachusetts voters supported auditing the legislature. Justin stood with them before taking office and continues to fight for true accountability on Beacon Hill.Learn More",
+"href": "https://www.justinthurber.com/priorities/audit"
+},
+{
+"text": "[image: Justin Thurber presenting citations to Swansea Police officers]Protecting Your RightsJustin is a consistent defender of constitutional rights: Second Amendment, due process, free speech, and parental rights. Your rights shouldn't depend on your zip code.Learn More",
+"href": "https://www.justinthurber.com/priorities/protecting-rights"
+},
+{
+"text": "[image: Justin Thurber reading to elementary school students in a classroom]EducationJustin is fighting for real investment in our local schools, pushing for relief for parents, smarter use of state education dollars, classroom policies that put students and families first, and education that prepares our kids for the future economy.Learn More",
+"href": "https://www.justinthurber.com/priorities/schools"
+},
+{
+"text": "[image: Justin Thurber speaking at a Wreaths Across America ceremony]VeteransAs a U.S. Air Force Reserves veteran and Ranking Minority on the Joint Committee on Veterans and Federal Affairs, Justin makes sure Massachusetts veterans get the benefits and respect they have earned.Learn More",
+"href": "https://www.justinthurber.com/priorities/veterans"
+},
+{
+"text": "[image: Justin Thurber visiting the Citizens for Citizens food pantry]AffordabilityFrom property taxes to energy costs, Massachusetts is becoming less affordable. Justin has fought for working families by launching a district food pantry, connecting residents to utility/medical/housing aid, bringing business development resources, and pushing infrastructure fixes and common-sense energy policy to offset costs and keep burdens down.Learn More",
+"href": "https://www.justinthurber.com/priorities/affordability"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Vote4Thurber/"
+}
 ]

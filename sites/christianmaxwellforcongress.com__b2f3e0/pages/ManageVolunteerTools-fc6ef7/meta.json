@@ -1,7 +1,9 @@
 {
  "description": "Manage Volunteer Tools on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageVolunteerTools",
- "paid_for_by": null,
+ "fingerprint": "e28b93519206a21c17d4391b1a5f10fcace94aa2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Volunteer Tools | Maxwell for Congress",
  "years_mentioned": []
 }

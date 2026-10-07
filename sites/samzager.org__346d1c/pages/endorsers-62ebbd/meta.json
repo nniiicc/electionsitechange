@@ -1,7 +1,9 @@
 {
  "description": "View the list of individuals, organizations, and community leaders who have officially endorsed Sam Zager. Learn more about his supporters and vision",
  "final_url": "https://samzager.org/endorsers/",
- "paid_for_by": null,
+ "fingerprint": "0ebd8338487bb4ebbb5354821e2f9e435d00a9ce",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Sam Zager",
  "title": "Endorsements and Support - Sam Zager",
  "years_mentioned": []
 }

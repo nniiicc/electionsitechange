@@ -1,18 +1,78 @@
 [
-"https://hakeemjeffries.com/",
-"https://hakeemjeffries.com/about-hakeem",
-"https://hakeemjeffries.com/issues",
-"https://hakeemjeffries.com/news-updates",
-"https://hakeemjeffries.com/privacy-policy",
-"https://nytimes.com/2026/07/27/us/politics/jeffries-democrats-midterms-affordability.html",
-"https://secure.actblue.com/donate/jeffries-homepage-donate",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=15",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=200",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=500",
-"https://twitter.com/hakeemjeffries"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=15"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=20"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=200"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate?express_lane=true&amount=500"
+},
+{
+"text": "About",
+"href": "https://hakeemjeffries.com/about-hakeem/"
+},
+{
+"text": "About Hakeem",
+"href": "https://hakeemjeffries.com/about-hakeem/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate"
+},
+{
+"text": "Homepage",
+"href": "https://hakeemjeffries.com/"
+},
+{
+"text": "Issues",
+"href": "https://hakeemjeffries.com/issues/"
+},
+{
+"text": "News",
+"href": "https://hakeemjeffries.com/news-updates/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jeffries-homepage-donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hakeemjeffries.com/privacy-policy"
+},
+{
+"text": "The New York Times",
+"href": "https://www.nytimes.com/2026/07/27/us/politics/jeffries-democrats-midterms-affordability.html"
+},
+{
+"text": "[no text]",
+"href": "https://hakeemjeffries.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/hakeemjeffries"
+}
 ]

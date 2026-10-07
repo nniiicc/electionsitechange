@@ -1,10 +1,42 @@
 [
-"https://facebook.com/murphy4congress",
-"https://murphy4congress.com/",
-"https://murphy4congress.com/contact",
-"https://murphy4congress.com/issues",
-"https://murphy4congress.com/privacy-policy",
-"https://secure.anedot.com/murphy4congress/donate",
-"https://twitter.com/gregmurphymd",
-"https://twitter.com/gregmurphymd?lang=en"
+{
+"text": "All Issues",
+"href": "https://murphy4congress.com/issues/"
+},
+{
+"text": "Contact",
+"href": "https://murphy4congress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/murphy4congress/donate"
+},
+{
+"text": "Dr. Greg Murphy for Congress",
+"href": "https://murphy4congress.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://murphy4congress.com/privacy-policy/"
+},
+{
+"text": "[image: Dr. Greg Murphy for Congress]",
+"href": "https://murphy4congress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gregmurphymd"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gregmurphymd?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/murphy4congress/"
+},
+{
+"text": "here",
+"href": "https://murphy4congress.com/privacy-policy"
+}
 ]

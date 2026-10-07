@@ -1,4 +1,5 @@
-Dennis Brockway of Winslow is president of North East Mobile Health Services and a member of the Maine Ambulance Association.
+Skip to main content Skip to footer Opens in a new tab Home About Track Record News Vote Store Get Involved Donate Get Involved Donate Op Ed October 3, 2026 Why I’m supporting Sen.
+Susan Collins | Opinion Dennis Brockway of Winslow is president of North East Mobile Health Services and a member of the Maine Ambulance Association.
 The views expressed here are his own.
 I want to voice my strong support for Sen.
 Susan Collins.
@@ -36,4 +37,17 @@ Maine is a small state, and having a senator in a position to influence federal 
 For me, this election should not simply be about party labels.
 It should be about who can most effectively represent Maine.
 Based on what I have witnessed personally over the past two decades, I believe Susan Collins has earned the opportunity to continue doing that work.
-Read the Op-ed: Portland Press Herald
+Read the Op-ed: Portland Press Herald Previous post ICYMI — Washington Post: Troy Jackson Campaigns Against Corporate Money, but Spent Years Raising It Next post Collins Honors Maine’s Fallen Firefighters as High-Stakes Week Begins in Senate Race Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Terms & conditions / privacy policy apply .
+Sign Up Stand With Susan Here goes your text ...
+Select any part of your text to access the formatting toolbar. $5 $15 $25 $50 $100 Other Home About Track Record News Store Get Involved Campaign Chairs Join a Coalition Donate by Mail Collins for Senator P.O.
+Box 1096 Bangor, Maine 04402-1096 Please provide your mobile phone to opt-in to Collins for Senator campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Paid for by Collins for Senator Privacy Policy Terms and Conditions Media Kit FAQs

@@ -1,8 +1,4 @@
-07
-THE FUTURE, AI & DATA CENTERS
-Loading…
-Stand With David
-READY TO FIGHT
-FOR THESE ISSUES?
+# THE FUTURE, AI & DATA CENTERS Loading… ← All Issues Stand With David READY TO FIGHT FOR THESE ISSUES?
 My campaign is Our Campaign.
 Sign up to get involved, or contribute to a people-powered campaign with no big donors and no PAC money.
+Sign Up Contribute

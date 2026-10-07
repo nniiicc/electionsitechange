@@ -1,5 +1,4 @@
-Meet Eyde
-Hello, I’m Eyde Arndell and I’m a proud Green running to be the next Lieutenant Governor of Illinois.
+Home Meet Griselda Meet Eyde Campaign News Platform Get Involved Join the Mailing List Contact Donate Select Page Meet Eyde Hello, I’m Eyde Arndell and I’m a proud Green running to be the next Lieutenant Governor of Illinois.
 Eyde Arndell is a proud Green running to be the next Lieutenant Governor of Illinois.
 Born and raised in the Midwest, she comes from a working class background.
 Eyde understands what it means to put in a long, hard day and is dedicated to serving Illinois!
@@ -11,3 +10,4 @@ As a very active member of the Carbondale community, Eyde has developed solid wo
 Illinois needs real change not half measures and empty talk.
 Vote for Eyde Arndell as your next Lt.
 Governor, she will serve the people and not the billionaire class.
+PAID FOR BY PEOPLE FOR GRISELDA ROMERO PAID FOR BY PEOPLE FOR GRISELDA ROMERO Customize Reject All Accept All Powered by

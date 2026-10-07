@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://gobrinkman.com/about-tom/",
- "paid_for_by": null,
+ "fingerprint": "2d51e526d4db8c3b3119df19aeb8350f77be6bd8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Tom | Go Brinkman",
- "years_mentioned": []
+ "years_mentioned": [
+  "1979",
+  "2001",
+  "2008"
+ ]
 }

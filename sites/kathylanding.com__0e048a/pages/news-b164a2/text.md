@@ -1,7 +1,5 @@
-News
-Heirs’ property owners now protected from some surprise tax bills under new South Carolina law
-Sunday, July 12, 2026
-Thank you to David Slade of the Post & Courier for sharing the story of how my bill, "Heirs Property Tax Relief," was created & passed into law.
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate News For press inquiries, please contact Kathy Landing at kl@kathylanding.com.
+Heirs’ property owners now protected from some surprise tax bills under new South Carolina law Sunday, July 12, 2026 Thank you to David Slade of the Post & Courier for sharing the story of how my bill, "Heirs Property Tax Relief," was created & passed into law.
 This is a very simple bill with profound impacts.
 But the work has just begun.
 Now we have to get the word out to Settlement Communities all over our state that they can finally clear the title for their land without a major financial burden.
@@ -18,42 +16,35 @@ You can use that land as collateral to get a construction loan & build a home fo
 What happens when you build a home so you no longer have to pay rent & you have a valuable piece of land as collateral?
 You put down roots & build generational wealth!
 This problem has always been about bad policy that was making it extremely hard for families to clear their titles.
-With this impediment gone, I envision many individuals and families now finally being able to move forward with the American Dream they have always heard about but might have thought was beyond their reach.
--Excerpt from an article in The Post & Courier
-Landing Seeks Third Term
-Thursday, April 9, 2026
-SC State House District 80 Representative Kathy Landing (R) has officially filed for re-election to a third term in office.
+With this impediment gone, I envision many individuals and families now finally being able to move forward with the American Dream they have always heard about but might have thought was beyond their reach. -Excerpt from an article in The Post & Courier READ MORE Landing Seeks Third Term Thursday, April 9, 2026 SC State House District 80 Representative Kathy Landing (R) has officially filed for re-election to a third term in office.
 For the past three and a half years, Landing has represented the residents of District 80, which spans from Lucy Beckham High School to Wando High School, west of Highway 17.
-With four years of prior service on Mount Pleasant Town Council, she entered the State House with a strong understanding of the key issues facing the community and a proven track record of working to address them.
--Excerpt from an article in Moultrie News
-SC Establishes 'Mayflower Compact Day'
-Friday, November 21, 2025
-Act No. 68 (H4267) designates Nov. 21 as Mayflower Compact Day in South Carolina.
-This officially recognizes the first written document of self-government on American soil, a keystone of our democracy.
--Excerpt from an article in Moultrie News
-House bill seeks to mitigate doomsday EMP outages
-Thursday, March 7, 2024
-The emergence of the sun’s most powerful solar flare in six years back on Dec. 14 saw several parts of the United States impacted by shortwave radio blackouts.
+With four years of prior service on Mount Pleasant Town Council, she entered the State House with a strong understanding of the key issues facing the community and a proven track record of working to address them. -Excerpt from an article in Moultrie News READ MORE SC Establishes 'Mayflower Compact Day' Friday, November 21, 2025 Act No.
+68 (H4267) designates Nov.
+21 as Mayflower Compact Day in South Carolina.
+This officially recognizes the first written document of self-government on American soil, a keystone of our democracy. -Excerpt from an article in Moultrie News READ MORE House bill seeks to mitigate doomsday EMP outages Thursday, March 7, 2024 The emergence of the sun’s most powerful solar flare in six years back on Dec.
+14 saw several parts of the United States impacted by shortwave radio blackouts.
 The incident was followed two months later by an X-class solar flare that barely missed colliding with the Earth.
-Also known as CMEs (Coronal Mass Ejections), solar flares, according to NASA, can spark extended radiation storms that can potentially harm satellites, communications systems and ground-based technologies — most notably power grids.
--Excerpt from an article in Moultrie News
-Is recent social media act enough to protect young audience?
-Monday, February 19, 2024
-As the lament of questionable messages and content on social media platforms continues to rise among concerned adults, the South Carolina House of Representatives has recently passed a Social Media Regulation Act.
+Also known as CMEs (Coronal Mass Ejections), solar flares, according to NASA, can spark extended radiation storms that can potentially harm satellites, communications systems and ground-based technologies — most notably power grids. -Excerpt from an article in Moultrie News READ MORE Is recent social media act enough to protect young audience?
+Monday, February 19, 2024 As the lament of questionable messages and content on social media platforms continues to rise among concerned adults, the South Carolina House of Representatives has recently passed a Social Media Regulation Act.
 The legislation ensures greater parental control on a range of views and topics disseminated over information-sharing websites and applications.
 Sponsored by Rep.
 Weston Newton (R-Bluffton), the House measure mandates age verification and requires parental consent for accounts belonging to minors.
 To that end, the Regulation Act promotes content restrictions, as well as the reporting and enforcement of potentially provocative subject matter.
 District 80 Rep.
-Kathy Landing (R-Mount Pleasant), a supporter of the statute, recently informed the...
--Excerpt from an article in the Moultrie News
-Laurel Hill Parkway is an unnecessary, irreversible mistake
-Thursday, July 6, 2023
-As leaders and residents representing communities along the S.C.
+Kathy Landing (R-Mount Pleasant), a supporter of the statute, recently informed the... -Excerpt from an article in the Moultrie News READ MORE Laurel Hill Parkway is an unnecessary, irreversible mistake Thursday, July 6, 2023 As leaders and residents representing communities along the S.C.
 Highway 41 corridor that will be among the most impacted by the current “road to compromise” design, we felt that it was important to have our voices heard on what has unfortunately turned into a controversial issue.
-As more and more special-interest groups that do not live in our communities have injected themselves into the discussion, many have lost sight of the real problem.
--Excerpt from an article in The Post & Courier
-1st annual Mount Pleasant Police & Firefighters Ball raises money for three local charities
-Monday, February 14, 2022
-The goal of the ball, which was co-chaired by Kathy Landing, was to honor police and firefighters, and also to raise funds for organizations that support the efforts of first responders.
--Excerpt from an article in the Moultrie News
+As more and more special-interest groups that do not live in our communities have injected themselves into the discussion, many have lost sight of the real problem. -Excerpt from an article in The Post & Courier READ MORE 1st annual Mount Pleasant Police & Firefighters Ball raises money for three local charities Monday, February 14, 2022 The goal of the ball, which was co-chaired by Kathy Landing, was to honor police and firefighters, and also to raise funds for organizations that support the efforts of first responders.
+Ticket sales and sponsors not only covered the full cost of the ball, but also raised nearly $3,000 for each of several non-profit organizations: Lowcountry Firefighter Support Team; the Tri-County Fraternal Order of Police Distressed Officers Fund; and Turn90 (also known as the Turning Leaf Project). -Excerpt from an article in the Moultrie News READ MORE Mount Pleasant announces art contest, other Earth Day initiatives Tuesday, April 27, 2021 The Town of Mount Pleasant celebrated Earth Day by unveiling several earth conscious initiatives to bring the community together for a good cause.
+Councilmember Kathy Landing, who is the economic development committee chair, said that as Mount Pleasant grows, community members can take steps to maintain Mount Pleasant’s “small, hometown feel.” - Excerpt from an article in The Post & Courier READ MORE Mount Pleasant launches initiative to plant 95,000 trees by SC Arbor Day in December Thursday, April 22, 2021 Councilwoman Kathy Landing has a plan for clearing the air of excess carbon and reducing the town’s drainage and flooding issues.
+Through an initiative announced on Earth Day, Landing wants to encourage each of the town’s 95,000 residents to plant a tree during the seven months between national Arbor Day on April 30 and South Carolina’s Arbor Day on Dec.
+3.
+READ MORE What do Mary Jackson, the OCC and Opportunity Zones have in common?
+Sunday, August 30, 2020 An Op-Ed by Kathy Landing "What better way to heal the wounds caused by the past than to honor those who were overlooked or under appreciated?
+At the same time, we can take real action now to solve the problems facing people in society today who have struggled with generational poverty and lack of opportunity." - Excerpt from an article in The Post & Courier READ MORE When it Comes to Mount Pleasant Policy, Actions Speak Much Louder than Words Tuesday, August 18, 2020 In this article, Kathy Landing addresses three of the most pressing issues currently facing our historic settlement communities, along with possible solutions.
+"There are a number of ways we as members of Mount Pleasant Town Council can step up to the plate on issues affecting the health and well-being of the residents who live within the boundaries of our community, whether incorporated or not." - Excerpt from an article in The Moultrie News READ MORE Landing Helps Promote Affordable Workforce Housing Wednesday, January 15, 2020 "For those 42 families (who buy the proposed condos) it means the world," said Councilwoman Kathy Landing. - Excerpt from an article in The Post and Courier on Wednesday, January 15, 2020 READ MORE Landing Fights to Bring High-Paying Jobs to Lowcountry Via Technology Campus Wednesday, January 8, 2020 "Finally we have a project that I think the owners of the land and the developers are excited about,” Landing said.
+“There’s a lot of good things that can come from this.” - Excerpt from an article in The Post and Courier on Wednesday, January 8, 2020 READ MORE Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

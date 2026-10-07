@@ -1,9 +1,16 @@
 {
  "description": "Pete Boudreau's Education & Experience",
  "final_url": "https://boudreau4nh.com/education/",
- "paid_for_by": null,
+ "fingerprint": "729b2eae42f9791557a53df0901a102eac96ecf5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Education & Experience | Pete Boudreau For New Hampshire State Representative",
  "years_mentioned": [
+  "1989",
+  "1991",
+  "1995",
+  "2000",
+  "2004",
   "2026"
  ]
 }

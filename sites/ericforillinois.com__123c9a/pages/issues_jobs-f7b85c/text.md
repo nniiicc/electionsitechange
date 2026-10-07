@@ -1,6 +1,6 @@
-i believe in
-Creating Jobs and Lowering Costs for Illinois
-Growing up in northwestern Illinois, I know firsthand how important a strong job market is to keeping folks in our communities.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate Creating Jobs and Lowering Costs for Illinois Protecting Reproductive Rights Supporting Public Safety and Law Enforcement LGBTQ+ Advocacy Supporting Veterans Strengthening Local Infrastructure Supporting Seniors and Social Security Cutting the Cost of Healthcare/Prescription Drugs Making Government Work for Illinois i believe in Creating Jobs and Lowering Costs for Illinois Growing up in northwestern Illinois, I know firsthand how important a strong job market is to keeping folks in our communities.
 That’s why I’m working to ensure there are good-paying jobs right here in Central and Northwestern Illinois.
 I’ve worked to reopen the idled Belvidere auto plant and got a commitment for more than a thousand of new jobs and billions of dollars in investment right here in Illinois.
 I’ve also introduced bills to protect jobs at the Rock Island Arsenal and ensure the base employs Illinoisans for decades to come.
+Eric Sorensen for Illinois P.O.
+Box 1172 Moline, IL 61265 ​ info@ericforillinois.com Privacy Policy Powered by RUN! website builder Paid for by Eric Sorensen for Illinois You need to enable JavaScript to run this app.

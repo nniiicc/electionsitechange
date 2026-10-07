@@ -1,10 +1,13 @@
 {
  "description": "Check out the latest updates from state Senator Michael Lazzara. (R-Onslow). This page includes newsletters, press releases, opinion editorials, & more.",
  "final_url": "https://www.lazzaranc.com/news",
- "paid_for_by": null,
+ "fingerprint": "a749c50b40649e6ce7028fed713d6fc87d10b183",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NEWS | Michael Lazzara | North Carolina Senate",
  "years_mentioned": [
   "2025",
-  "2026"
+  "2026",
+  "2033"
  ]
 }

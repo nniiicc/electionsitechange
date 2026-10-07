@@ -1,7 +1,12 @@
 {
  "description": "Explore Kori Rodley endorsements for Springfield House District 7. Join community leaders and organizations supporting Kori&#39;s vision.",
  "final_url": "https://kori-rodley.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "65597cbd9eb5fc2ce42c901b3102b2cc1ef5f44e",
+ "format": 3,
+ "paid_for_by": "authorized by Elect Kori Rodley, PAC ID # 19995 Powered by",
  "title": "Endorsements",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001",
+  "2009"
+ ]
 }

@@ -1,7 +1,11 @@
 {
  "description": "California's 59th Assembly District spans portions of Orange and San Bernardino counties.",
  "final_url": "https://phillipchen.org/thedistrict/",
- "paid_for_by": "Paid for by Phillip Chen for Assembly 2026 &middot; FPPC #1476729 Privacy &middot; Terms of Use",
+ "fingerprint": "72e993b753ed25317427eaf21b441c10be66e260",
+ "format": 3,
+ "paid_for_by": "Paid for by Phillip Chen for Assembly 2026 · FPPC #1476729 Privacy · Terms of Use",
  "title": "The District | Phillip Chen for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

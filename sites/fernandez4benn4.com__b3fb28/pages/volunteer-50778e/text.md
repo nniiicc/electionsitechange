@@ -1,17 +1,2 @@
-Search this site
-Embedded Files
-Skip to main content
-Skip to navigation
-Fernandez 4 Benn 4
-Home
-The Platform
-Volunteer
-Support
-Fernandez 4 Benn 4
-Volunteer
-Google Sites
-Report abuse
-Page details
-Page updated
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation Fernandez 4 Benn 4 Home The Platform Volunteer Support Fernandez 4 Benn 4 Volunteer Contact Us Email: fernandez4benn4.admin@gmail.com Phone: (518) 480-1218 Paid for by The Committee to Elect Michael Fernandez for Bennington 4 LLC.
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

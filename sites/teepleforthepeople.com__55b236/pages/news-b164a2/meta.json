@@ -1,7 +1,12 @@
 {
- "description": "James Teeple in the news \u2014 press coverage and upcoming events across House District 116.",
+ "description": "James Teeple in the news — press coverage and upcoming events across House District 116.",
  "final_url": "http://teepleforthepeople.com/news/",
+ "fingerprint": "9e55a70ff992da057f3da21891fe2a3631dad0b1",
+ "format": 3,
  "paid_for_by": "Paid for by James Teeple for State House",
  "title": "In the News - James Teeple",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

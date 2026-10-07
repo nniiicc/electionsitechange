@@ -1,4 +1,4 @@
-I’m into the daily routine now: caucus, committee hearing, floor session, committee hearing, walk, dinner, bed.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate Notes of a freshman legislator By Tom France / February 1, 2021 I’m into the daily routine now: caucus, committee hearing, floor session, committee hearing, walk, dinner, bed.
 Repeat.
 That’s it, for the next 75 legislative days.
 Each portion of the day is filled with bills, some that require a lot of thought to understand and many that will have real impact on peoples lives.
@@ -35,4 +35,4 @@ Finally, this legislation not only provides a tax break to some of the richest f
 For the most part, private and religious schools are found only in our larger cities with enough families and wealth to support them.
 For a ranch family living in eastern Montana, schooling is about long bus rides and schools struggling to stay open, never mind getting a tax credit for sending children to schools hundreds of miles away.
 While these arguments seem strong to me, and while the decision to vote no on HB 129 was clear and compelling, my colleagues in the legislature felt otherwise.
-HB 129 rolled through the House, 57-43.
+HB 129 rolled through the House, 57-43. ← Previous Post Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

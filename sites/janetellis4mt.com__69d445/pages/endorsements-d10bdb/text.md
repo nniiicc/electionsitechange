@@ -1,4 +1,1 @@
-ORGANIZATIONAL ENDORSEMENTS
-To date, Janet is honored to receive the organizational endorsement of:
-INDIVIDUAL ENDORSEMENTS
-Individuals who have endorsed Janet’s election in 2026 to House District 81 include the following (if you want to add your name, please contact the campaign):
+Skip to content Montana Legislative Candidate Janet Ellis Paid for by Ellis for Legislature * PO Box 385 * Helena, MT 59624 * Democrat Home 2025 Legislature About Janet Endorsements Events Media Support Contact Me Endorsements ORGANIZATIONAL ENDORSEMENTS To date, Janet is honored to receive the organizational endorsement of: INDIVIDUAL ENDORSEMENTS Individuals who have endorsed Janet’s election in 2026 to House District 81 include the following (if you want to add your name, please contact the campaign): Copyright © # Montana Legislative Candidate Janet Ellis — Ascension WordPress theme by GoDaddy

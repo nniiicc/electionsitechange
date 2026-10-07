@@ -1,6 +1,4 @@
-10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton
-October 9 @ 10:15 am
-Friday, 10/9, 10:15 AM
-New Hampshire Veterans Home, Tilton, NH
-Coffee hour meet and greet with Lily at the New Hampshire Veterans Home.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton October 9 @ 10:15 am « 10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord TEAM LILY – Milford Pumpkin Festival » Friday, 10/9, 10:15 AM New Hampshire Veterans Home, Tilton, NH Coffee hour meet and greet with Lily at the New Hampshire Veterans Home.
 Veterans and their families and friends are welcome.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 9 Time: 10:15 am Event Category: Events « 10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord TEAM LILY – Milford Pumpkin Festival » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

@@ -1,19 +1,98 @@
 [
-"https://facebook.com/EalyforMOHouse",
-"https://instagram.com/ealy4mohouse",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/electanthonyealy",
-"https://twitter.com/Ealy4MOHouse",
-"https://upballot.com/",
-"https://upballot.com/anthony-ealy",
-"https://upballot.com/anthony-ealy/about",
-"https://upballot.com/anthony-ealy/events",
-"https://upballot.com/anthony-ealy/events?view=cards",
-"https://upballot.com/anthony-ealy/get-involved",
-"https://upballot.com/anthony-ealy/issues",
-"https://upballot.com/anthony-ealy/news",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=74225",
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=74225",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Anthony",
+"href": "https://www.upballot.com/anthony-ealy/about/"
+},
+{
+"text": "Anthony Ealy",
+"href": "https://www.upballot.com/anthony-ealy/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/electanthonyealy"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/anthony-ealy/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/anthony-ealy/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/anthony-ealy"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/anthony-ealy/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/anthony-ealy/news/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ealy4MOHouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EalyforMOHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ealy4mohouse/"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=74225"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=74225"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/EalyforMOHouse/"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/ealy4mohouse/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/Ealy4MOHouse"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/anthony-ealy/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/anthony-ealy/events?view=cards"
+},
+{
+"text": "anthony@anthonyealy.com",
+"href": "mailto:anthony@anthonyealy.com"
+},
+{
+"text": "tel:816-876-9494",
+"href": "tel:816-876-9494"
+}
 ]

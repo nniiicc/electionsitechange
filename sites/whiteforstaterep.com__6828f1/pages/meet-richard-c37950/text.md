@@ -1,5 +1,4 @@
-Meet Richard
-It is an incredible honor to represent Elliott, Morgan, and Rowan counties.
+0 Skip to Content Meet Richard Donate Open Menu Close Menu Meet Richard Donate Open Menu Close Menu Meet Richard Donate Meet Richard It is an incredible honor to represent Elliott, Morgan, and Rowan counties.
 Richard White is an authentic Eastern Kentucky success story.
 He founded Richard White Wood Products in 1976, and has created jobs, grown companies, and seized opportunity.
 Now, he’s taking his conservative principles and entrepreneurial spirit to Frankfort.
@@ -15,25 +14,12 @@ When we send Richard back to Frankfort, he will continue to defend our Constitut
 Integrity.
 Compassion.
 Commitment.
-Experience Kentucky Needs
-Professional
-- Founder/President, Richard White Wood Products, Incorporated, 1976-present
-- Former Owner/Developer, Cliffview Resorts
-- Former Partner/Developer, Cave Run Marina and Hickory Point Golf Course.
-- Member, Bluegrass International Trade Association
-- Member, Forest Industry Production Development Advisory Committee, Morehead State University
-- Former Member, Kentucky District Export Council
-- Former Board Member, Kentucky Forest Industry Association
-- Board Member, Mountain Missions Development Corporation
-- Former Board Member, Southern States Corporation
-- Appointed by President Ronald Reagan as Moderator, White House Conference of Small Businesses and Advisory Committee on Lumber and Wood Products for Trade Policy matters with the U.S.
-Department of Commerce in trade negotiations
-- Awarded the U.S.
-Small Business Exporter of the Year, twice by U.S.
-Small Business Administration and Governor Martha Lane Collins
-Political
-- State Representative for KY-District 99, Current
-- Central Committee, Kentucky Republican Party, Former Member
-- George W.
-Bush for President, Former Rowan County Chairman
-- Rowan County Republican Party, Former Co-Chairman
+Experience Kentucky Needs Professional Founder/President , Richard White Wood Products, Incorporated, 1976-present Former Owner/Developer , Cliffview Resorts Former Partner/Developer , Cave Run Marina and Hickory Point Golf Course.
+Member , Bluegrass International Trade Association Member , Forest Industry Production Development Advisory Committee, Morehead State University Former Member , Kentucky District Export Council Former Board Membe r, Kentucky Forest Industry Association Board Member , Mountain Missions Development Corporation Former Board Member , Southern States Corporation Appointed by President Ronald Reagan as Moderator , White House Conference of Small Businesses and Advisory Committee on Lumber and Wood Products for Trade Policy matters with the U.S.
+Department of Commerce in trade negotiations Awarded the U.S.
+Small Business Exporter of the Year , twice by U.S.
+Small Business Administration and Governor Martha Lane Collins Political State Representative for KY-District 99, Current Central Committee , Kentucky Republican Party , Former Member George W.
+Bush for President , Former Rowan County Chairman Rowan County Republican Party , Former Co-Chairman Support Richard for State Representative!
+Donate Support Richard for State Representative!
+Donate PAID FOR BY RICHARD WHITE FOR STATE REPRESENTATIVE © #.
+All Rights Reserved.

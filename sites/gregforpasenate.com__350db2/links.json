@@ -1,11 +1,46 @@
 [
-"https://gregforpasenate.com/",
-"https://gregforpasenate.com/about",
-"https://gregforpasenate.com/contact",
-"https://gregforpasenate.com/contact-2",
-"https://gregforpasenate.com/district",
-"https://gregforpasenate.com/issues",
-"https://gregforpasenate.com/privacy-policy",
-"https://gregforpasenate.com/voting",
-"https://secure.anedot.com/greg-banks-for-pa-senate/donate"
+{
+"text": "About",
+"href": "https://gregforpasenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://gregforpasenate.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/greg-banks-for-pa-senate/donate"
+},
+{
+"text": "Greg Bankos for PA Senate A Coach, NOT A King",
+"href": "https://gregforpasenate.com/"
+},
+{
+"text": "Home",
+"href": "https://gregforpasenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://gregforpasenate.com/issues/"
+},
+{
+"text": "Join Greg’s Campaign Team",
+"href": "https://gregforpasenate.com/contact-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gregforpasenate.com/privacy-policy/"
+},
+{
+"text": "Voting Options",
+"href": "https://gregforpasenate.com/voting/"
+},
+{
+"text": "Your District, Your Home",
+"href": "https://gregforpasenate.com/district/"
+},
+{
+"text": "[image: Greg Bankos for PA Senate]",
+"href": "https://gregforpasenate.com/"
+}
 ]

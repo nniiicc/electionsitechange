@@ -1,7 +1,11 @@
 {
  "description": "Joel Anabilah-Azumah Campaign Events",
  "final_url": "https://www.joelazumah.com/Events?range=2026-9",
- "paid_for_by": null,
+ "fingerprint": "ff635b29064bb688ab5e64d01d1ef9eaa55e1344",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Joel Anabilah-Azumah Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

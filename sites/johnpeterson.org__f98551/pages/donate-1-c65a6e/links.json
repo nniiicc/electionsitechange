@@ -1,8 +1,30 @@
 [
-"https://johnpeterson.org/",
-"https://johnpeterson.org/cart",
-"https://johnpeterson.org/donate-1",
-"https://johnpeterson.org/new-page",
-"https://johnpeterson.org/new-page-2",
-"https://johnpeterson.org/new-page-2-1"
+{
+"text": "0",
+"href": "https://www.johnpeterson.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.johnpeterson.org/new-page-2-1"
+},
+{
+"text": "Contact",
+"href": "https://www.johnpeterson.org/new-page"
+},
+{
+"text": "Donate",
+"href": "https://www.johnpeterson.org/donate-1"
+},
+{
+"text": "Home",
+"href": "https://www.johnpeterson.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.johnpeterson.org/new-page-2"
+},
+{
+"text": "[image: John Peterson for NC3]",
+"href": "https://www.johnpeterson.org/"
+}
 ]

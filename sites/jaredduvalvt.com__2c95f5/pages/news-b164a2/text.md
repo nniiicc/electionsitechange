@@ -1,22 +1,21 @@
-Campaign Announcement: Full Remarks
-Video and transcript of Jared’s campaign announcement for State Representative for Montpelier (Washington-4).
-Commentary by Jared: The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1%
-Commentary published by The Times Argus, March 21, 2026 - The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1%: The state should recoup that revenue for vital services.
-Commentary by Jared: Vermont Can Have Tax Relief Without Sacrificing Public Education
-Commentary published by The Waterbury Roundabout May 1, 2025 - Vermonters who can’t afford higher costs are concerned about rising property taxes.
+0 Skip to Content Meet Jared On the Issues News Events Get Involved Endorsements Donate Open Menu Close Menu Open Menu Close Menu Meet Jared On the Issues News Events Get Involved Endorsements Donate Meet Jared On the Issues News Events Get Involved Endorsements Donate Jared Duval 8/12/26 Jared Duval 8/12/26 Duval, McCann finish 1-2 punch in Montpelier House race (Article in Times Argus) Read More Jared Duval 8/11/26 Jared Duval 8/11/26 Washington County Incumbents Win Senate Primary; Duval, McCann Advance in House Race (Article in The Bridge) Read More Jared Duval 7/25/26 Jared Duval 7/25/26 Democrats set to narrow field in Montpelier legislative race (Article in Times Argus) Read More Jared Duval 7/21/26 Jared Duval 7/21/26 Q&A: Candidates on Affordability and Homelessness (Article in the Bridge) Read More Jared Duval 7/8/26 Jared Duval 7/8/26 The Race for Montpelier: Meet the House Candidates (Article in The Bridge) Read More Jared Duval 5/7/26 Jared Duval 5/7/26 Campaign Announcement Coverage in The Bridge Read More Jared Duval 4/27/26 Jared Duval 4/27/26 Campaign Announcement: Full Remarks Video and transcript of Jared’s campaign announcement for State Representative for Montpelier (Washington-4).
+Read More Jared Duval 3/21/26 Jared Duval 3/21/26 Commentary by Jared: The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1% Commentary published by The Times Argus, March 21, 2026 - The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1%: The state should recoup that revenue for vital services.
+Read More Jared Duval 5/1/25 Jared Duval 5/1/25 Commentary by Jared: Vermont Can Have Tax Relief Without Sacrificing Public Education Commentary published by The Waterbury Roundabout May 1, 2025 - Vermonters who can’t afford higher costs are concerned about rising property taxes.
 They need and deserve relief.
 At the same time, we have a responsibility to provide a quality education for Vermont’s children.
 How can we achieve a fairer tax system while meeting our obligations to our kids?
-Commentary by Jared: Why Fossil Fuels Are Not The Answer on Affordability
-Commentary published by The Times Argus Jan. 24, 2025 - Continuing to leave Vermonters exposed to and dependent on high-cost, price-volatile fossil fuels is not an affordability strategy.
-Commentary by Jared: A Fairer Tax System Can Make Vermont More Affordable For All
-Commentary published by The Bridge Feb. 21, 2024 - Today in Vermont, the top 1% of income earners — Vermonters who make over half a million dollars a year — pay a lower share of their income in state and local taxes than a Vermont family making about $80,000 a year.
-Commentary by Jared: Natural Disaster?
-Try Fossil Fueled Disaster
-Commentary published by VTDigger July 28, 2023 - The damages we are experiencing from extreme events around the world would not be happening at this frequency and intensity were it not for human-caused climate pollution, primarily from burning fossil fuels.
-Commentary by Jared on Childcare and the Child Tax Credit
-Commentary published by Vermont Business Magazine May 2, 2023 - As a kid, I grew up in a working class, lower-income, single-parent family and saw my Mom struggle to find reliable and affordable childcare options.
+Read More Jared Duval 1/24/25 Jared Duval 1/24/25 Commentary by Jared: Why Fossil Fuels Are Not The Answer on Affordability Commentary published by The Times Argus Jan.
+24, 2025 - Continuing to leave Vermonters exposed to and dependent on high-cost, price-volatile fossil fuels is not an affordability strategy.
+Read More Jared Duval 11/18/24 Jared Duval 11/18/24 Con Hogan Awardee Jared Duval: Good Data Should Inform Public Policy Read More Jared Duval 2/21/24 Jared Duval 2/21/24 Commentary by Jared: A Fairer Tax System Can Make Vermont More Affordable For All Commentary published by The Bridge Feb.
+21, 2024 - Today in Vermont, the top 1% of income earners — Vermonters who make over half a million dollars a year — pay a lower share of their income in state and local taxes than a Vermont family making about $80,000 a year.
+Read More Jared Duval 7/28/23 Jared Duval 7/28/23 Commentary by Jared: Natural Disaster?
+Try Fossil Fueled Disaster Commentary published by VTDigger July 28, 2023 - The damages we are experiencing from extreme events around the world would not be happening at this frequency and intensity were it not for human-caused climate pollution, primarily from burning fossil fuels.
+Read More Jared Duval 5/2/23 Jared Duval 5/2/23 Commentary by Jared on Childcare and the Child Tax Credit Commentary published by Vermont Business Magazine May 2, 2023 - As a kid, I grew up in a working class, lower-income, single-parent family and saw my Mom struggle to find reliable and affordable childcare options.
 More recently, like many other Vermont parents, my wife and I experienced the challenge of finding affordable childcare for our son.
 This long-standing, intergenerational challenge is long overdue to be addressed.
-Press Release: Duval for State Senate campaign announces more than 50 endorsements; most small donors
-Duval for State Senate campaign announces more than 50 endorsements; most small donors
+Read More Carey Crozier 8/10/22 Carey Crozier 8/10/22 Thank You - A Post-Primary Letter Read More Carey Crozier 7/21/22 Carey Crozier 7/21/22 Press Release: Jared Duval to Hold Listening Tour in all 23 Towns & Cities in Washington Senate District Read More Carey Crozier 7/21/22 Carey Crozier 7/21/22 2nd State Senate Candidate Forum Hosted by VT Interfaith Action (VIA) Read More Carey Crozier 7/11/22 Carey Crozier 7/11/22 First State Senate Candidate Forum (Video & Results) Read More Carey Crozier 7/5/22 Carey Crozier 7/5/22 Press Release: Duval for State Senate campaign announces more than 50 endorsements; most small donors Duval for State Senate campaign announces more than 50 endorsements; most small donors Read More Carey Crozier 6/30/22 Carey Crozier 6/30/22 VTDigger Launches Election Guide 2022 Read More Older Posts Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Get the scoop!
+Subscribe to learn more about me, find out what’s happening with the campaign, and get involved.
+First Name Last Name Email Address Subscribe Thank you!
+BACK TO TOP | ABOUT | CONTACT Donate © # Duval for State Representative

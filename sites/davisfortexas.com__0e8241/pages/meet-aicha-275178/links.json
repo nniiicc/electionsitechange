@@ -1,8 +1,30 @@
 [
-"https://davisfortexas.com/",
-"https://davisfortexas.com/cart",
-"https://davisfortexas.com/contact-us-1",
-"https://davisfortexas.com/meet-aicha",
-"https://davisfortexas.com/on-the-issues",
-"https://secure.actblue.com/donate/reelectaicha26"
+{
+"text": "0",
+"href": "https://www.davisfortexas.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.davisfortexas.com/contact-us-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reelectaicha26/"
+},
+{
+"text": "Home",
+"href": "https://www.davisfortexas.com/"
+},
+{
+"text": "Meet Aicha",
+"href": "https://www.davisfortexas.com/meet-aicha"
+},
+{
+"text": "On The Issues",
+"href": "https://www.davisfortexas.com/on-the-issues"
+},
+{
+"text": "[image: Aicha Davis For Texas]",
+"href": "https://www.davisfortexas.com/"
+}
 ]

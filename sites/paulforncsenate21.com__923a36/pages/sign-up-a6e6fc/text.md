@@ -1,16 +1,6 @@
-COMMUNITY ENGAGEMENT SIGN-UP
-RESIDENTS SIGN-UP FOR:
-Community Involvement
-Ministry outreach
-Civic engagement
-Local service projects
-Public input
-Community Engagement Sign-Up
+Home About Paul Advocacies Affordable Housing Advocacy Continuum of Care Nonprofit Cumberland County Housing Justice District 21 Community Empowerment Faith‑based Outreach Fayetteville Community Leader Fayetteville PACK Activism Germany Army Deployment Homelessness Prevention Korea Army Deployment Redistricting Testimony Senior Support Services Veteran Leadership Fayetteville Youth Mentorship Programs Community Leadership Issues & Priorities Photo Gallery Contact Events Give Today Community Engagement Sign-Up COMMUNITY ENGAGEMENT SIGN-UP RESIDENTS SIGN-UP FOR: Community Involvement Ministry outreach Civic engagement Local service projects Public input Community Engagement Sign-Up First Name Last Name Email Address Phone Number City State Zip Code Interest Area Phone Banking Text Banking Event Support Social Media Support Door-to-Door Canvassing Other Opt-In I agree to receive campaign text updates.
 Thank you for contacting us.
-We will get back to you as soon as possible.
 We will get back to you as soon as possible.
 Oops, there was an error sending your message.
 Please try again later.
-Please try again later.
-All Rights Reserved | Paid for by Paul Taylor for NC Senate District 21
-Share by:
+Stay Connected Contact Info Phone: 910-751-0435 Email: paulforncsenate21@gmail.com Service Areas Home About Paul Faith & Legacy Communities of District 21 Community Issues & Surveys Community Engagement Sign-Up Community Support District Map Contact © # All Rights Reserved | Paid for by Paul Taylor for NC Senate District 21 Share by:

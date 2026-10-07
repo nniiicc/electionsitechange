@@ -1,11 +1,12 @@
 {
  "description": "TENNESSEE HOUSE REPRESENTATIVE DISTRICT 41",
  "final_url": "https://edbutler.org/voters-1",
+ "fingerprint": "44a512308999d392f19ae4f8a749848da9407a99",
+ "format": 3,
  "paid_for_by": "PAID FOR BY THE CANDIDATE",
  "title": "Voters",
  "years_mentioned": [
   "2010",
-  "2020",
-  "2024"
+  "2020"
  ]
 }

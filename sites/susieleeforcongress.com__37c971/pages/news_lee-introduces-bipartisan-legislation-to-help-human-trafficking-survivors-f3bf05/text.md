@@ -1,18 +1,16 @@
-WASHINGTON, D.C. – Congresswoman Susie Lee and Congressman Mark Amodei introduced the bipartisan Jimmy Deal Trafficking Survivors Assistance Act.
+Skip to main content about news volunteer Donate Susie Lee for Congress Lee Introduces Bipartisan Legislation to Help Human Trafficking Survivors Sep 17, 2026 Back to all news WASHINGTON, D.C. – Congresswoman Susie Lee and Congressman Mark Amodei introduced the bipartisan Jimmy Deal Trafficking Survivors Assistance Act .
 This legislation will help survivors of human trafficking access air travel to escape and get the care they need.
 The companion bill was introduced in the Senate by Senators Catherine Cortez Masto and Jerry Moran.
 The legislation recognizes the late TSA officer James “Jimmy” Deal, who took the role of Assistant Federal Security Director in the Reno-Tahoe International Airport and led the effort to raise awareness of human trafficking at the airport, while also working with agencies in Nevada to assist victims of human trafficking to escape.
 “Survivors of human trafficking often lack the identification and resources needed to travel by air, when all they want is to reach the family and care they need to heal.
 As a TSA agent here in Nevada, Jimmy Deal knew their struggle and worked to bring local partners to identify victims and get them on their way to safety,” said Congresswoman Lee.
 “This legislation builds on Jimmy’s legacy by partnering the TSA with advocacy organizations to deliver safe air travel and critical care for human trafficking survivors.
-I'm proud to champion this bipartisan, comprehensive approach that will reunite families and keep everyone in our airports safe.”
-When fleeing violence and abuse, many human trafficking survivors do not have access to the identification documents they need to travel by plane.
+I'm proud to champion this bipartisan, comprehensive approach that will reunite families and keep everyone in our airports safe.” When fleeing violence and abuse, many human trafficking survivors do not have access to the identification documents they need to travel by plane.
 Human traffickers often control access to their victim’s identification documents, and when trafficking victims flee their traffickers, many must leave their documents behind.
 The Jimmy Deal Trafficking Survivors Assistance Act will facilitate air travel for human trafficking survivors who lack the necessary government identification documents so that they may return to their families and communities.
-The Jimmy Deal Trafficking Survivors Assistance Act will:
-- Encourage collaboration between Transportation Security Administration (TSA) agents and non-profits that provide services to trafficking survivors.
-- Create a process to assist trafficking survivors with air travel by:
-- Establishing a “Trafficking Survivor Point of Contact” (TSPoC) position by the TSA at each airport where it conducts screenings of passengers and property.
-- Calling for the establishment of contact, communication, and relationships between service-providing organizations and the TSPoCs to pre-emptively create avenues for identity verification of escaping survivors.
-- Include requirements of adequate training for each TSPoC to create a more seamless process with specialized focus.
-- Required trainings and responsibilities incorporate trauma-informed services and ensure that survivors and escapees are supported throughout the process of reunification with their families and communities.
+The Jimmy Deal Trafficking Survivors Assistance Act will: Encourage collaboration between Transportation Security Administration (TSA) agents and non-profits that provide services to trafficking survivors.
+Create a process to assist trafficking survivors with air travel by: Establishing a “Trafficking Survivor Point of Contact” (TSPoC) position by the TSA at each airport where it conducts screenings of passengers and property.
+Calling for the establishment of contact, communication, and relationships between service-providing organizations and the TSPoCs to pre-emptively create avenues for identity verification of escaping survivors.
+Include requirements of adequate training for each TSPoC to create a more seamless process with specialized focus.
+Required trainings and responsibilities incorporate trauma-informed services and ensure that survivors and escapees are supported throughout the process of reunification with their families and communities.
+### 5130 S Fort Apache Rd Ste 215-382 Las Vegas, NV 89148 702-907-7255 Paid for by Susie Lee for Congress home about news volunteer media Donate privacy policy terms Email Us Paid for by Susie Lee for Congress

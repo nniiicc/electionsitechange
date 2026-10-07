@@ -1,4 +1,4 @@
-In his two sessions as Speaker of the House, Dade Phelan has delivered on Constitutional Carry; protecting children from gender modification; banning Critical Race Theory, pornography, and boys playing girls sports in our public schools; protecting houses of worship from shutdowns; lowering prescription drug costs; protecting our elections; lowering property taxes; and putting opponents of school choice on record so voters could hold them accountable during the primary process.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements December 18, 2024 Jeff Frazier Op-Ed #29 Defense & Veterans’ Affairs Chairman Sets the Record Straight on the Border Defense Unit December 18, 2024 Jeff Frazier In his two sessions as Speaker of the House, Dade Phelan has delivered on Constitutional Carry; protecting children from gender modification; banning Critical Race Theory, pornography, and boys playing girls sports in our public schools; protecting houses of worship from shutdowns; lowering prescription drug costs; protecting our elections; lowering property taxes; and putting opponents of school choice on record so voters could hold them accountable during the primary process.
 When I was first elected to the House of Representatives in 2016, no one thought that so much could be accomplished so quickly, but Speaker Dade Phelan made it happen.
 Some elements within the Republican Party want to keep you from hearing or thinking about all that has been accomplished, mostly those who can only make money when Republicans are tearing each other apart.
 Over the last six months, voters have been inundated with commercials, mail pieces, and emails from “Texans United for a Conservative Majority” (TUCM) and “Texans for Strong Border” (TFSB), claiming that Speaker Dade Phelan supports open borders and that he killed legislation creating a Border Protection Unit on the Texas-Mexico Border under the Texas Department of Public Safety.
@@ -34,3 +34,15 @@ Speaker Phelan has made it clear that this legislation will again be a major pri
 No state has done more for the border security of our nation than Texas, and it was the combined efforts of Speaker Phelan and Governor Abbott who made it possible.
 I look forward to working with all of them in the 89th legislature.
 When we work together, we make our state a better, more secure place.
+December 18, 2024 Jeff Frazier Jeff Frazier Op-Ed #31 Education Funding “The Rest of the Story” : Part 1 Colonel Wilson 2024 Re-Election Announcement Press Release Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

@@ -1,19 +1,94 @@
 [
-"http://store.bermanforcongress.com/",
-"https://bermanforcongress.com/",
-"https://bermanforcongress.com/endorsers",
-"https://bermanforcongress.com/media",
-"https://bermanforcongress.com/priorities",
-"https://bermanforcongress.com/volunteer",
-"https://bsky.app/profile/bermanforcongress.bsky.social",
-"https://facebook.com/bermanforcongress",
-"https://instagram.com/bermanforcongress",
-"https://secure.actblue.com/donate/berman-website",
-"https://secure.actblue.com/donate/berman-website?express_lane=true",
-"https://secure.actblue.com/donate/berman-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/berman-website?express_lane=true&amount=1000",
-"https://secure.actblue.com/donate/berman-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/berman-website?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/berman-website?express_lane=true&amount=500",
-"https://x.com/MBermanWI"
+{
+"text": "About",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/berman-website"
+},
+{
+"text": "DONATE TO FLIP WI-01",
+"href": "https://secure.actblue.com/donate/berman-website"
+},
+{
+"text": "Donate $1,000",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=1000"
+},
+{
+"text": "Donate $100",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=100"
+},
+{
+"text": "Donate $25",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=25"
+},
+{
+"text": "Donate $50",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=50"
+},
+{
+"text": "Donate $500",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=500"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "Media",
+"href": "https://www.bermanforcongress.com/media"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true"
+},
+{
+"text": "Priorities",
+"href": "https://www.bermanforcongress.com/priorities"
+},
+{
+"text": "Store",
+"href": "http://store.bermanforcongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bermanforcongress.com/volunteer"
+},
+{
+"text": "WI-01",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/bermanforcongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/bermanforcongress"
+},
+{
+"text": "[image: MBerman_Logo_FINAL_OL_RGB.png]",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/MBermanWI"
+},
+{
+"text": "[image: bluesky]",
+"href": "https://bsky.app/profile/bermanforcongress.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "click here",
+"href": "https://www.bermanforcongress.com/endorsers"
+},
+{
+"text": "info@bermanforcongress.com",
+"href": "mailto:info@bermanforcongress.com"
+}
 ]

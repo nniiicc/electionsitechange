@@ -1,4 +1,2 @@
-State Representative Campaign Announcement
-Clarksville, TN, February 4, 2024 — Clarksville-Montgomery County School Board member Aron Maberry has announced his candidacy for Tennessee State Representative, District 68.
-A lifelong resident of Clarksville-Montgomery County, after observing the effects of COVID-19 on students and the eye-opening decisions being made at that time, Maberry ran for the School Board and was elected as the first and currently …
-Continue reading
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute February 2024 February 6, 2024 State Representative Campaign Announcement Clarksville, TN, February 4, 2024 — Clarksville-Montgomery County School Board member Aron Maberry has announced his candidacy for Tennessee State Representative, District 68.
+A lifelong resident of Clarksville-Montgomery County, after observing the effects of COVID-19 on students and the eye-opening decisions being made at that time, Maberry ran for the School Board and was elected as the first and currently … Continue reading About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

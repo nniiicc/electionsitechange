@@ -1,11 +1,38 @@
 [
-"https://aboutads.info/choices",
-"https://adobe.com/products/flashplayer/security",
-"https://collincountytx.gov/Elections/polling-locations?electionId=70&scheduleType=ev&electionDesc=March+3%2C+2026+Primary+Election",
-"https://secure.winred.com/candy-noble-campaign/donate2",
-"https://votecandynoble.com/",
-"https://votecandynoble.com/cdn-cgi/l/email-protection",
-"https://votecandynoble.com/policies/privacy",
-"https://votecandynoble.com/policies/terms",
-"https://votecandynoble.com/proven-record"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/candy-noble-campaign/donate2"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.collincountytx.gov/Elections/polling-locations?electionId=70&scheduleType=ev&electionDesc=March+3%2C+2026+Primary+Election"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votecandynoble.com/policies/privacy"
+},
+{
+"text": "Proven Record",
+"href": "https://votecandynoble.com/proven-record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votecandynoble.com/policies/terms"
+},
+{
+"text": "[email protected]",
+"href": "mailto:kevin@brannonco.net"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "https://www.aboutads.info/choices"
+},
+{
+"text": "www.adobe.com/products/flashplayer/security",
+"href": "https://www.adobe.com/products/flashplayer/security"
+},
+{
+"text": "← Back to Home",
+"href": "https://votecandynoble.com/"
+}
 ]

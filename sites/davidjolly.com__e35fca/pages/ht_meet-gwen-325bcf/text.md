@@ -1,16 +1,22 @@
-Fè konesans ak Gwen.
+Skip to content Meet Gwen Pwoblèm yo Media Get Involved Boutik EN | ES | HT Meet Gwen Pwoblèm yo Media Get Involved Boutik Fè yon don $5 $10 $20 $50 $100 $250 $500 Lòt EN | ES | HT Fè konesans ak Gwen.
 Pa yon kandida sou tikè a.
 Men Se Yon vrè patnè.
 Anvan tit la.
 Anvan tikè a.
 Gwen se yon lidè Florida deja konnen, travay li fè ki fè li moun li ye a.
-Gade entwodiksyon li
-Anpil moun ap eseye di ou ki moun Gwen Graham ye.
+Gade entwodiksyon li Anpil moun ap eseye di ou ki moun Gwen Graham ye.
 Paj sa a ba ou chans tande sa pou tèt ou.
 Se pa atravè etikèt.
 Se pa atravè diskou tou fèt.
-Istwa Gwen
-Gwen Graham fèt nan Miami Lakes epi li grandi nan yon fanmi ki te bay tèt li nèt pou sèvi piblik la.
+Pwochen Lyetnan Gouvènè Florida a Kòmanse la.
+Ki moun Gwen ye, ak eksperyans li pote sou tikè sa a.
+Konpetans.
+Karaktè.
+Konfyans.
+Estanda li mete pou tèt li, ak sa Florida ka tann nan men li.
+Gwen Graham - Fyè pou sèvi bò kote David Jolly Lidèchip se pa tit la.
+Se prezante lè moman an mande sa.
+Istwa Gwen Gwen Graham fèt nan Miami Lakes epi li grandi nan yon fanmi ki te bay tèt li nèt pou sèvi piblik la.
 Li fyè poul di li fè edikasyonn nan Florida lekòl piblik, epi li se yon manman ak twa pitit.
 Gwen bati premye pati nan karyè li ozalantou edikasyon.
 Li te sèvi kòm prezidan PTA epi prezidan konsèy konsiltatif lekòl la anvan li te travay pou distri lekòl Leon County a, kote li te konsantre sou sipòte pwofesè ak elèv yo.
@@ -23,4 +29,7 @@ Epi nan 50yèm anivèsè Bloody Sunday nan Selma, Alabama.
 Depi 2021 rive 2025, Gwen te sèvi kòm Asistan Sekretè nan Depatman Edikasyon Etazini.
 Li gen yon diplòm Bachelor nan University de North Carolina a Chapel Hill epi li se yon Juris, Doctor nan American University.
 Gwen ak mari li Steve ap viv nan Tallahassee.
-Gwen gen pwòp sit kanpay li nan gwengrahamfl.com, kote li rakonte istwa li nan pwòp mo li, pataje videyo sou wout la, epi mande Floridyen yo pou yo vin avè l.
+Gwen gen pwòp sit kanpay li nan gwengrahamfl.com , kote li rakonte istwa li nan pwòp mo li, pataje videyo sou wout la, epi mande Floridyen yo pou yo vin avè l.
+Sou David Jolly · Kote David Kanpe · Videyo · Kòmantè · Kous 2026 la Antre nan mouvman an PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+Tout dwa rezève.
+Fèt ak AVM

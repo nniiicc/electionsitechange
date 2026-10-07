@@ -1,26 +1,114 @@
 [
-"https://facebook.com/votewu",
-"https://genefortexas.com/",
-"https://genefortexas.com/events",
-"https://genefortexas.com/events/block-walk-for-gene-wuOct",
-"https://genefortexas.com/events/phone-bank-for-gene-wu1",
-"https://genefortexas.com/events/town-hall-with-rep-gene-wu",
-"https://genefortexas.com/get-involved",
-"https://genefortexas.com/issues",
-"https://genefortexas.com/meet-gene",
-"https://genefortexas.com/organize",
-"https://genefortexas.com/press",
-"https://genefortexas.com/privacy",
-"https://genefortexas.com/support",
-"https://genefortexas.com/volunteer",
-"https://instagram.com/genefortexas",
-"https://secure.actblue.com/donate/gene-wu-webpage",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=100",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=1000",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=25",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=250",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=50",
-"https://secure.actblue.com/donate/gene-wu-webpage?amount=500",
-"https://twitter.com/GeneforTexas",
-"https://votetexas.gov/"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=500"
+},
+{
+"text": "Chip in",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Events",
+"href": "https://genefortexas.com/events"
+},
+{
+"text": "Gene WuDemocrat for Texas House",
+"href": "https://genefortexas.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://genefortexas.com/get-involved"
+},
+{
+"text": "Invest in the Campaign →",
+"href": "https://genefortexas.com/support"
+},
+{
+"text": "Issues",
+"href": "https://genefortexas.com/issues"
+},
+{
+"text": "Meet Gene",
+"href": "https://genefortexas.com/meet-gene"
+},
+{
+"text": "Organize an eventLead a house party, block walk, or phone bank — we bring the program and the kit.Organize an event",
+"href": "https://genefortexas.com/organize"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Press & media kit",
+"href": "https://genefortexas.com/press"
+},
+{
+"text": "Privacy",
+"href": "https://genefortexas.com/privacy"
+},
+{
+"text": "Register at VoteTexas.gov",
+"href": "https://www.votetexas.gov"
+},
+{
+"text": "Sat, Oct 10 · 9:00am-11:30amBlock Walk for Gene WuCampaign HQRSVP",
+"href": "https://genefortexas.com/events/block-walk-for-gene-wuOct"
+},
+{
+"text": "See all events",
+"href": "https://genefortexas.com/events"
+},
+{
+"text": "Sun, Oct 11 · 7:00 PM – 8:00 PMAAPI Town Hall with Rep. Gene WuVirtualRSVP",
+"href": "https://genefortexas.com/events/town-hall-with-rep-gene-wu"
+},
+{
+"text": "VolunteerRaise your hand — knock doors, make calls, or help at an event. We'll train you.Volunteer",
+"href": "https://genefortexas.com/volunteer"
+},
+{
+"text": "Wed, Oct 7 · 6-7:30PMPhone Bank for Gene WuVirtualRSVP",
+"href": "https://genefortexas.com/events/phone-bank-for-gene-wu1"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/GeneforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votewu"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/genefortexas/"
+},
+{
+"text": "gene@genefortexas.com",
+"href": "mailto:gene@genefortexas.com"
+},
+{
+"text": "★ Most popular$100",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage?amount=100"
+}
 ]

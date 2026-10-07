@@ -1,12 +1,42 @@
 [
-"http://shannonformnstatesenate.com/privacy-policy",
-"https://facebook.com/profile.php?id=61582151361853",
-"https://secure.winred.com/committee-to-elect-shannon-bruce/donate-today",
-"https://shannonformnstatesenate.com/",
-"https://shannonformnstatesenate.com/endorsements",
-"https://shannonformnstatesenate.com/issues",
-"https://shannonformnstatesenate.com/join-the-team",
-"https://shannonformnstatesenate.com/meet-shannon",
-"https://shannonformnstatesenate.com/photos",
-"https://x.com/Bruce4MNSenate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-shannon-bruce/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shannonformnstatesenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.shannonformnstatesenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.shannonformnstatesenate.com/issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.shannonformnstatesenate.com/join-the-team/"
+},
+{
+"text": "Meet Shannon",
+"href": "https://www.shannonformnstatesenate.com/meet-shannon/"
+},
+{
+"text": "Photos",
+"href": "https://www.shannonformnstatesenate.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://shannonformnstatesenate.com/privacy-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582151361853"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Bruce4MNSenate"
+}
 ]

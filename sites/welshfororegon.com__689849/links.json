@@ -1,18 +1,94 @@
 [
-"https://donation.c-esystems.com/campaign/welshfororegon",
-"https://donation.c-esystems.com/campaign/welshfororegon?amt=10",
-"https://donation.c-esystems.com/campaign/welshfororegon?amt=100",
-"https://donation.c-esystems.com/campaign/welshfororegon?amt=25",
-"https://donation.c-esystems.com/campaign/welshfororegon?amt=250",
-"https://donation.c-esystems.com/campaign/welshfororegon?amt=50",
-"https://donation.c-esystems.com/campaign/welshfororegon?amt=500",
-"https://facebook.com/profile.php?id=61579496964220",
-"https://tiktok.com/@welshfororegon?_r=1&_t=ZT-94m3LdMwQLV",
-"https://welshfororegon.com/",
-"https://welshfororegon.com/about",
-"https://welshfororegon.com/cart",
-"https://welshfororegon.com/endorsements",
-"https://welshfororegon.com/get-involved",
-"https://welshfororegon.com/priorities",
-"https://welshfororegon.com/site-credits"
+{
+"text": "$10",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon?amt=10"
+},
+{
+"text": "$100",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon?amt=100"
+},
+{
+"text": "$25",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon?amt=25"
+},
+{
+"text": "$250",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon?amt=250"
+},
+{
+"text": "$50",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon?amt=50"
+},
+{
+"text": "$500",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon?amt=500"
+},
+{
+"text": "0",
+"href": "https://www.welshfororegon.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://donation.c-esystems.com/campaign/welshfororegon"
+},
+{
+"text": "Endorsements",
+"href": "https://www.welshfororegon.com/endorsements"
+},
+{
+"text": "Expand Healthcare Access",
+"href": "https://www.welshfororegon.com/priorities#expandhealthcareaccess"
+},
+{
+"text": "Get Involved",
+"href": "https://www.welshfororegon.com/get-involved"
+},
+{
+"text": "Lower Housing Costs",
+"href": "https://www.welshfororegon.com/priorities#loweringhousingcosts"
+},
+{
+"text": "Make Childcare More Affordable",
+"href": "https://www.welshfororegon.com/priorities#affordablechildcare"
+},
+{
+"text": "Meet Michael",
+"href": "https://www.welshfororegon.com/about"
+},
+{
+"text": "Michael's Priorities >",
+"href": "https://www.welshfororegon.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.welshfororegon.com/priorities"
+},
+{
+"text": "Protect Immigration Rights",
+"href": "https://www.welshfororegon.com/priorities#protectimmigrantrights"
+},
+{
+"text": "Reduce Everyday Expenses",
+"href": "https://www.welshfororegon.com/priorities#reduceeverydayexpenses"
+},
+{
+"text": "Site Credits",
+"href": "https://www.welshfororegon.com/site-credits"
+},
+{
+"text": "Strengthen Public Schools",
+"href": "https://www.welshfororegon.com/priorities#strengthenpublicschools"
+},
+{
+"text": "[image: Michael Welsh for Oregon]",
+"href": "https://www.welshfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579496964220"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@welshfororegon?_r=1&_t=ZT-94m3LdMwQLV"
+}
 ]

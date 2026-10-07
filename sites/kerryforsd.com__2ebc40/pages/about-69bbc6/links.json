@@ -1,11 +1,46 @@
 [
-"https://facebook.com/KerryForSD",
-"https://kerryforsd.com/",
-"https://kerryforsd.com/about",
-"https://kerryforsd.com/issues",
-"https://kerryforsd.com/media",
-"https://kerryforsd.com/privacy-policy",
-"https://kerryforsd.com/terms",
-"https://kerryforsd.com/volunteer",
-"https://secure.winred.com/loudenslager4district12/donate"
+{
+"text": "About",
+"href": "https://www.kerryforsd.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/loudenslager4district12/donate#new_tab"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/KerryForSD/"
+},
+{
+"text": "Home",
+"href": "https://www.kerryforsd.com/"
+},
+{
+"text": "Media",
+"href": "https://www.kerryforsd.com/media/"
+},
+{
+"text": "Priorities",
+"href": "https://www.kerryforsd.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kerryforsd.com/privacy-policy/"
+},
+{
+"text": "Request a Sign",
+"href": "https://www.kerryforsd.com/volunteer/"
+},
+{
+"text": "Terms",
+"href": "https://www.kerryforsd.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kerryforsd.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.kerryforsd.com/"
+}
 ]

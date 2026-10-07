@@ -1,26 +1,138 @@
 [
-"https://facebook.com/ShawForOK",
-"https://secure.winred.com/helen-kerwin-campaign/donate",
-"https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=100",
-"https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=1836",
-"https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=25",
-"https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=5",
-"https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=50",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=10",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=100",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=1000",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=25",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=50",
-"https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?exitintent=true",
-"https://secure.winred.com/shaw-for-state-representative-2024/donate-today",
-"https://secure.winred.com/shaw-for-state-representative-2024/donate-today?amount=25",
-"https://secure.winred.com/shaw-for-state-representative-2024/donate-today?amount=50",
-"https://shawforok.com/",
-"https://shawforok.com/endorsements",
-"https://shawforok.com/issues-1",
-"https://shawforok.com/meet-jim",
-"https://shawforok.com/privacy-policy",
-"https://x.com/ShawForOK",
-"https://youtube.com/playlist?list=PL3JC4akVghcJxsyPOV6wSl9tYOizd4vU9"
+{
+"text": "$10",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=100"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=100"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?exitintent=true"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=1000"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?exitintent=true"
+},
+{
+"text": "$1836",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=1836"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=25"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=25"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/shaw-for-state-representative-2024/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?exitintent=true"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate/donate?amount=50"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?amount=50"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/shaw-for-state-representative-2024/donate-today?amount=50"
+},
+{
+"text": "Click here to get the latest news from Jim on Facebook!",
+"href": "https://www.facebook.com/ShawForOK"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/helen-kerwin-campaign/donate"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/shaw-for-state-representative-2024/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shawforok.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.shawforok.com"
+},
+{
+"text": "Issues",
+"href": "https://www.shawforok.com/issues-1"
+},
+{
+"text": "Jim@ShawForOK.com",
+"href": "mailto:Jim@ShawForOK.com"
+},
+{
+"text": "Media",
+"href": "https://www.youtube.com/playlist?list=PL3JC4akVghcJxsyPOV6wSl9tYOizd4vU9"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.shawforok.com/meet-jim"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/shaw-for-oklahoma-2026/donate-today?exitintent=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shawforok.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shawforok.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ShawForOK"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ShawForOK/"
+},
+{
+"text": "[image: Shaw_StateRep-28.png]",
+"href": "https://www.shawforok.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/ShawForOK"
+},
+{
+"text": "[no text]",
+"href": "https://www.shawforok.com"
+}
 ]

@@ -1,4 +1,4 @@
-I have known Darren Croft for over 30 years.
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute Endorsement Mary Harmon Cottonwood Heights Resident I have known Darren Croft for over 30 years.
 I was very excited when Darren told me he was running for the House of Representatives.
 I know him as a devoted family man and an outstanding member of this community.
 He is a person of deep integrity and honesty, someone whose word can truly be trusted.
@@ -14,3 +14,4 @@ He understands the value of service and has demonstrated a sincere desire to imp
 His leadership comes not from seeking recognition, but from a genuine desire to help and uplift others.
 I have confidence that he will represent his constituents with honor, integrity, and dedication.
 He possesses the character, work ethic, and compassion that are essential for public service, and I believe he will serve with distinction.
+District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

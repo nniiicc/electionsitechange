@@ -1,17 +1,74 @@
 [
-"https://bojakforassembly.com/",
-"https://bojakforassembly.com/cart",
-"https://bojakforassembly.com/endorsements",
-"https://bojakforassembly.com/events",
-"https://bojakforassembly.com/meet-adam-bojak",
-"https://bojakforassembly.com/news",
-"https://bojakforassembly.com/platform-policy",
-"https://bojakforassembly.com/privacy-policy",
-"https://bojakforassembly.com/volunteer",
-"https://bsky.app/profile/bojak4assembly.bsky.social",
-"https://facebook.com/share/1CXnZq9k81?mibextid=wwXIfr",
-"https://instagram.com/bojakforassembly",
-"https://secure.actblue.com/donate/bojak2026",
-"https://secure.actblue.com/donate/draftnight10.05",
-"https://x.com/bojak4assembly"
+{
+"text": "0",
+"href": "https://www.bojakforassembly.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bojak2026"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.bojakforassembly.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.bojakforassembly.com/events"
+},
+{
+"text": "MEET ADAM",
+"href": "https://www.bojakforassembly.com/meet-adam-bojak"
+},
+{
+"text": "NEWS",
+"href": "https://www.bojakforassembly.com/news"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.bojakforassembly.com/platform-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bojakforassembly.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://secure.actblue.com/donate/draftnight10.05"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.bojakforassembly.com/volunteer"
+},
+{
+"text": "[image: Bojak for Assembly]",
+"href": "https://www.bojakforassembly.com/"
+},
+{
+"text": "[image: Bojak the Gathering 10/5 6-10pm at Indigo Chapel]",
+"href": "https://secure.actblue.com/donate/draftnight10.05"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/draftnight10.05"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bojak4assembly.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1CXnZq9k81/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bojakforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bojak4assembly"
+},
+{
+"text": "renee@caringmajorityrising.org",
+"href": "mailto:renee@caringmajorityrising.org"
+}
 ]

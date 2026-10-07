@@ -1,34 +1,6 @@
-Image 1 of 11
-Image 2 of 11
-Image 3 of 11
-Image 4 of 11
-Image 5 of 11
-Image 6 of 11
-Image 7 of 11
-Image 8 of 11
-Image 9 of 11
-Image 10 of 11
-Image 11 of 11
-INDEPENDENT 250 T-Shirt
-from $22.00
+Skip to Content Open Menu Close Menu 0 0 0 0 Open Menu Close Menu Store › INDEPENDENT 250 T-Shirt Image 1 of 11 Image 2 of 11 Image 3 of 11 Image 4 of 11 Image 5 of 11 Image 6 of 11 Image 7 of 11 Image 8 of 11 Image 9 of 11 Image 10 of 11 Image 11 of 11 INDEPENDENT 250 T-Shirt from $22.00 We're celebrating the 250th Anniversary of the Declaration of Independence by building an Independent movement in West Virginia!
+This shirt is the perfect amount of patriotism for the most patriotic year of our lives! • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.
+Size: Select Size XS S M L XL 2XL 3XL 4XL 5XL Add To Cart Added!
 We're celebrating the 250th Anniversary of the Declaration of Independence by building an Independent movement in West Virginia!
-This shirt is the perfect amount of patriotism for the most patriotic year of our lives!
-• 100% combed and ring-spun cotton (Heather colors contain polyester)
-• Fabric weight: 4.2 oz./yd.² (142 g/m²)
-• Pre-shrunk fabric
-• Side-seamed construction
-• Shoulder-to-shoulder taping
-• Blank product sourced from Nicaragua, Mexico, Honduras, or the US
-Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.
-Size:
-Add To Cart
-Added!
-We're celebrating the 250th Anniversary of the Declaration of Independence by building an Independent movement in West Virginia!
-This shirt is the perfect amount of patriotism for the most patriotic year of our lives!
-• 100% combed and ring-spun cotton (Heather colors contain polyester)
-• Fabric weight: 4.2 oz./yd.² (142 g/m²)
-• Pre-shrunk fabric
-• Side-seamed construction
-• Shoulder-to-shoulder taping
-• Blank product sourced from Nicaragua, Mexico, Honduras, or the US
-Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.
+This shirt is the perfect amount of patriotism for the most patriotic year of our lives! • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions. “ Be mild with the mild, shrewd with the crafty, confiding to the honest, rough to the ruffian, and a thunderbolt to the liar.
+But in all this, never be unmindful of your own dignity. ” — John Brown RIO PHILLIPS FOR WEST VIRGINIA COPYRIGHT #

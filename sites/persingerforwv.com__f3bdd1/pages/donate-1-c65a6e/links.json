@@ -1,10 +1,38 @@
 [
-"https://persingerforwv.com/",
-"https://persingerforwv.com/about",
-"https://persingerforwv.com/cart",
-"https://persingerforwv.com/contact",
-"https://persingerforwv.com/donate-1",
-"https://persingerforwv.com/faq",
-"https://secure.winred.com/friends-of-persinger-for-wv-572198e8/donate",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.persingerforwv.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.persingerforwv.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.persingerforwv.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.persingerforwv.com/donate-1"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.winred.com/friends-of-persinger-for-wv-572198e8/donate"
+},
+{
+"text": "FAQ",
+"href": "https://www.persingerforwv.com/faq"
+},
+{
+"text": "Home",
+"href": "https://www.persingerforwv.com/"
+},
+{
+"text": "Persingerforwv.com",
+"href": "https://www.persingerforwv.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+}
 ]

@@ -1,6 +1,3 @@
-The Swampscott native, with degrees from Harvard and Yale, said city government must be responsive in the wake of the coronavirus crisis.
-Read the full announcement here.
-Skip to content
-Patch: Hannah Bowen Declares Candidacy For Beverly City Council Seat
-The Swampscott native, with degrees from Harvard and Yale, said city government must be responsive in the wake of the coronavirus crisis.
-Read the full announcement here.
+Skip to content Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab About Hannah 2025 Endorsements News Priorities Donate Contact Menu Patch: Hannah Bowen Declares Candidacy For Beverly City Council Seat Post author By Website Manager Post date May 10, 2021 The Swampscott native, with degrees from Harvard and Yale, said city government must be responsive in the wake of the coronavirus crisis.
+Read the full announcement here .
+About Hannah 2025 Endorsements Priorities News Donate Contact Sign up for SMS Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab © # Committee to Elect Hannah Bowen

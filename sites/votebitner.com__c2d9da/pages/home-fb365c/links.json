@@ -1,10 +1,54 @@
 [
-"https://donate.stripe.com/6oUaEYc1WbaI7YP0lmgEg00",
-"https://votebitner.com/",
-"https://votebitner.com/about",
-"https://votebitner.com/cart",
-"https://votebitner.com/endorsements",
-"https://votebitner.com/home",
-"https://votebitner.com/join-team",
-"https://votebitner.com/priorities"
+{
+"text": "0",
+"href": "https://www.votebitner.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votebitner.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votebitner.com/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/6oUaEYc1WbaI7YP0lmgEg00"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votebitner.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votebitner.com/"
+},
+{
+"text": "Home",
+"href": "https://www.votebitner.com/home"
+},
+{
+"text": "Join the Team",
+"href": "https://www.votebitner.com/join-team"
+},
+{
+"text": "Learn more",
+"href": "https://www.votebitner.com/priorities"
+},
+{
+"text": "Meet Lili",
+"href": "https://www.votebitner.com/about"
+},
+{
+"text": "Meet Lili Bitner",
+"href": "https://www.votebitner.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.votebitner.com/priorities"
+},
+{
+"text": "[image: Lili Bitner For Utah House District 17]",
+"href": "https://www.votebitner.com/"
+}
 ]

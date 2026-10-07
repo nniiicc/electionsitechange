@@ -1,46 +1,15 @@
+top of page Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated HOME THE SHOWS The David DiPietro Show Silent Majority Speaks Podcast ABOUT DAVE LATEST NEWS THE ISSUES GET INVOLVED OPERATION GIFT CERTIFICATE POWERFUL PARTNERSHIP More Use tab to navigate through the menu items.
 BUY A GIFT CERTIFICATE FROM A LOCAL BUSINESS NOW!
 While we are grappling with the medical and economic consequences of this crisis, we can literally invest in our local economy by buying gift certificates from local businesses.
 Operation Gift Certificate provides revenue to businesses impacted while allowing us to stop the spread of coronavirus.
 Buy a gift certificate from a local business today which will help them survive this unprecedented challenge.
-Then you can enjoy what the local business has to offer when we have finally defeated the coronavirus.
-We are gathering businesses now and will update our list every day!
-If you want your local business to participate in Operation Gift Certificate, email your business name, address, website, hours, how you want to be contacted (phone and/or email) and take out/delivery options to daviddipietroforyou@gmail.com.
-Our list is growing but we hope to get as many local businesses as possible to participate.
-Restaurants & Cafes
-Silver Lake Family Restaurant
-105 West Buffalo Street Warsaw, NY 14569
-585-786-5213
-Morluski's Italian
-and Polish Cuisine
-121 Prospect St
-Attica, NY 14011
-585-708-4302
-Wallenwein's
-641 Oakwood Avenue
-East Aurora NY 14052
-716-652-9801
-Other Businesses
-Alyssa N.
-Cutcliffe,
-Licensed Massage Therapist
-15 N.
+Then you can enjoy what the local business has to offer when we have finally defeated the coronavirus. ​ We are gathering businesses now and will update our list every day!
+If you want your local business to participate in Operation Gift Certificate, email your business name, address, website, hours, how you want to be contacted (phone and/or email) and take out/delivery options to daviddipietroforyou@gmail.com . ​ Our list is growing but we hope to get as many local businesses as possible to participate.
+Restaurants & Cafes Bookworm Café 34 Elm Street East Aurora, NY 14052 716-652-6554 eabookworm.com Kornerstone Cafe 33 Elm St East Aurora, NY 14226 716-687-8303 www.kornerstonecafe.com Silver Lake Family Restaurant 105 West Buffalo Street Warsaw, NY 14569 585-786-5213 https://www.silverlakefamilyrestaurant.com/ Byrncliff Golf Resort and Restaurant 2357 Humphrey Road Varysburg, NY 14167 585-535-7300 byrncliff.com Morluski's Italian and Polish Cuisine 121 Prospect St Attica, NY 14011 585-708-4302 https://www.morluskis.com/ Vertical Café 18 West Buffalo Street Warsaw, NY 14569 585-786-8181 https://cafevertical.com/ Iron Kettle 1009 Olean Road East Aurora, NY 14052 716-652-5310 facebook.com/ikrestaurant Prospector's 8 Main Street Attica, NY 14011 585-591-2474 https://bit.ly/3eKr5Tv Wallenwein's 641 Oakwood Avenue East Aurora NY 14052 716-652-9801 https://www.facebook.com/wallenweins/ Other Businesses Alyssa N.
+Cutcliffe, Licensed Massage Therapist 15 N.
 Main St.
-Warsaw, NY 14569
-585-813-6653
-Mister's Bar
-and Lanes
-206 Main Street
-East Aurora, NY 14226
-716-714-9191
-Boss Hair and Nails
-252 South Main Street Warsaw, NY 14569
-585-228-2268
-Montgomery
-Building Supply
-100 Allen Street
-Warsaw, NY 14569
-585-786-2510
-Firearms Training of Western New York
-PO BOX 447
-Lake View, NY 14085
-716-903-2558
+Warsaw, NY 14569 585-813-6653 https://www.facebook.com/alyssacutcliffelmt/ Mister's Bar and Lanes 206 Main Street East Aurora, NY 14226 716-714-9191 https://www.facebook.com/MistersBarAndLanes Sammy's Car Wash 170 Grey Street East Aurora, NY 14052 716-652-2530 http://sammyswash.com/ Boss Hair and Nails 252 South Main Street Warsaw, NY 14569 585-228-2268 https://www.facebook.com/BossHairandNails/ Montgomery Building Supply 100 Allen Street Warsaw, NY 14569 585-786-2510 https://montgomeryslumber.com/ Sugarbush Armory 2065 Clinton Street Rd.
+Attica, NY 14011 585-708-4348 sugarbusharmory.com Firearms Training of Western New York PO BOX 447 Lake View, NY 14085 716-903-2558 https://ftwny.com/online-ny-pistol-permit-class/ Logel's Appliance 3909 Main St.
+Strykersville, NY 14145 585-457-3061 https://www.logelappliance.com/ Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated © # DiPietro For You bottom of page

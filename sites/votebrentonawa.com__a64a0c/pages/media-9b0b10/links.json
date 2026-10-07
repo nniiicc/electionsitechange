@@ -1,23 +1,134 @@
 [
-"https://civilbeat.org/2025/10/perfect-attendance-to-awol-missed-votes-at-the-hawaii-legislature",
-"https://facebook.com/brentonawa",
-"https://hawaiinewsnow.com/2025/09/11/amid-backlash-lawmakers-defend-mainland-trip-over-kamehameha-schools-admissions-policy",
-"https://hawaiinewsnow.com/video/2025/05/19/spotlight-now-sen-brenton-awa",
-"https://hawaiinewsnow.com/video/2025/10/27/republican-state-senator-confirms-decision-run-congress",
-"https://hawaiipublicradio.org/local-news/2024-11-06/senate-brenton-awa-minority-leader",
-"https://hawaiipublicradio.org/local-news/2025-10-27/brenton-awa-republican-congress-seat-rep-tokuda",
-"https://instagram.com/brentonawa",
-"https://kitv.com/news/kahaluu-community-members-unite-and-plant-a-foundation-for-future-food-sources/article_68c7d588-9c99-11ee-8929-4f221d2374af.html",
-"https://kitv.com/video/news/senator-brenton-awa-enters-congressional-race-focuses-on-key-issues/video_97749053-28b9-518c-95e6-bcb48939612f.html",
-"https://secure.winred.com/senator-awa-for-congress/donate",
-"https://tiktok.com/@brentonawa",
-"https://votebrentonawa.com/",
-"https://votebrentonawa.com/about",
-"https://votebrentonawa.com/blank",
-"https://votebrentonawa.com/issues",
-"https://votebrentonawa.com/media",
-"https://x.com/brentonawa",
-"https://youtube.com/user/awabrenton",
-"https://youtube.com/watch?v=AYsnZFJsh5k",
-"https://youtube.com/watch?v=ewoENpDEuKw"
+{
+"text": "About",
+"href": "https://www.votebrentonawa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votebrentonawa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votebrentonawa.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votebrentonawa.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebrentonawa.com/blank"
+},
+{
+"text": "See More",
+"href": "https://www.civilbeat.org/2025/10/perfect-attendance-to-awol-missed-votes-at-the-hawaii-legislature/"
+},
+{
+"text": "See More",
+"href": "https://www.hawaiinewsnow.com/2025/09/11/amid-backlash-lawmakers-defend-mainland-trip-over-kamehameha-schools-admissions-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.hawaiinewsnow.com/video/2025/05/19/spotlight-now-sen-brenton-awa/"
+},
+{
+"text": "See More",
+"href": "https://www.hawaiinewsnow.com/video/2025/10/27/republican-state-senator-confirms-decision-run-congress/"
+},
+{
+"text": "See More",
+"href": "https://www.hawaiipublicradio.org/local-news/2024-11-06/senate-brenton-awa-minority-leader"
+},
+{
+"text": "See More",
+"href": "https://www.hawaiipublicradio.org/local-news/2025-10-27/brenton-awa-republican-congress-seat-rep-tokuda"
+},
+{
+"text": "See More",
+"href": "https://www.kitv.com/news/kahaluu-community-members-unite-and-plant-a-foundation-for-future-food-sources/article_68c7d588-9c99-11ee-8929-4f221d2374af.html"
+},
+{
+"text": "See More",
+"href": "https://www.kitv.com/video/news/senator-brenton-awa-enters-congressional-race-focuses-on-key-issues/video_97749053-28b9-518c-95e6-bcb48939612f.html"
+},
+{
+"text": "See More",
+"href": "https://www.youtube.com/watch?v=AYsnZFJsh5k"
+},
+{
+"text": "See More",
+"href": "https://www.youtube.com/watch?v=ewoENpDEuKw"
+},
+{
+"text": "[image: Add a heading (2).png]",
+"href": "https://www.votebrentonawa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brentonawa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brentonawa"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@brentonawa"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.x.com/brentonawa"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/user/awabrenton"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.civilbeat.org/2025/10/perfect-attendance-to-awol-missed-votes-at-the-hawaii-legislature/"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.hawaiinewsnow.com/2025/09/11/amid-backlash-lawmakers-defend-mainland-trip-over-kamehameha-schools-admissions-policy/"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.hawaiinewsnow.com/video/2025/05/19/spotlight-now-sen-brenton-awa/"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.hawaiinewsnow.com/video/2025/10/27/republican-state-senator-confirms-decision-run-congress/"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.hawaiipublicradio.org/local-news/2024-11-06/senate-brenton-awa-minority-leader"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.hawaiipublicradio.org/local-news/2025-10-27/brenton-awa-republican-congress-seat-rep-tokuda"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.kitv.com/news/kahaluu-community-members-unite-and-plant-a-foundation-for-future-food-sources/article_68c7d588-9c99-11ee-8929-4f221d2374af.html"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.kitv.com/video/news/senator-brenton-awa-enters-congressional-race-focuses-on-key-issues/video_97749053-28b9-518c-95e6-bcb48939612f.html"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.youtube.com/watch?v=AYsnZFJsh5k"
+},
+{
+"text": "[image: khnl-logo_edited.jpg]",
+"href": "https://www.youtube.com/watch?v=ewoENpDEuKw"
+},
+{
+"text": "​",
+"href": "https://www.votebrentonawa.com"
+}
 ]

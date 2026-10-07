@@ -1,56 +1,14 @@
-Platform
-The most important part of my platform is "leading with empathy".
+top of page Sharon Wight for District 81 Donate Get Involved Yard Sign Request Menu Wight for Indiana House Home About Sharon Platform Get Involved Socials and More Events Yard Sign Request Media Privacy Policy Accessibility Statement Search Results Platform The most important part of my platform is "leading with empathy".
 To me this means listening to the issues that everyday Hoosiers are bringing to me, and allowing them to feel heard.
-Below are a few of the issues that are most relevant in our Statehouse right now, as well as nation wide.
-This also means ensuring every Hoosier, no matter their need, is able to access the things that they need.
-While this does mean accessibility for those who are disabled, this also means ensuring our immigrants have resources provided to them to start life in the United States, and that every Hoosier can live their truth.
-To give me your view on what my focus should be, look at my Get Involved page!
-My Stance On the Issues
-Learn where I stand on some of the biggest issues facing Hoosiers today.
+Below are a few of the issues that are most relevant in our Statehouse right now, as well as nation wide.​ ​ This also means ensuring every Hoosier, no matter their need, is able to access the things that they need.
+While this does mean accessibility for those who are disabled, this also means ensuring our immigrants have resources provided to them to start life in the United States, and that every Hoosier can live their truth. ​ To give me your view on what my focus should be, look at my Get Involved page!
+My Stance On the Issues Learn where I stand on some of the biggest issues facing Hoosiers today.
 If you have additional questions on where I stand, please reach out via the email below.
-Issues this Session
-Example Bills I support:
-House Bill 1175 - (Indiana General Assembly) Study of State House Accessibility Improvements
-House Bill 1043 - (Indiana General Assembly) Data Center Water Regulation
-House Bill 1218- (Indiana General Assembly) Straight Ticket Voting
-House Bill 1067 - (Indiana General Assembly) Reporting of Grocery Staple Pricing
-House Bill 1148 -(Indiana General Assembly) Same Day Voter Registration
-House Bill 1413 -(Indiana General Assembly) Report on Infant and Maternal Care
-Example Bills I oppose:
-HB 1431 - (Indiana General Assembly) Street Camping
-This effectively criminalizes homelessness
-HB 1197 -(Indiana General Assembly) Hysterectomy and oophorectomy informed consent
-HB 1086 - (Indiana General Assembly) Display of 10 Commandments
-Other Important Issues
-The issues below are commonly held Democratic and American values and my stance on them:
-Infrastructure:
-- Pro utilization of tax dollars for infrastructure projects where people are, not where corporate entities want to build.
-- Pro public transportation - including ensuring the ADA is addressed on all options
-- Pro development of accessible neighborhoods and buildings, so ALL Hoosiers can access our infrastructure
-Education:
-- Pro public schooling
-- Pro tax dollars funding the education of our next generations
-- Pro paying teachers the wages they're due
-- Pro accountability of tax funding
-Wages:
-- Hoosiers are not paid enough for the rate of change occurring in costs of living.
-- Support medical and family leave plans to ensure employees and employers are supported
-- Pro-Union
-Marijuana Legalization:
-- Pro legalization of marijuana
-- Tax dollars from sales should go to improve the lives of Hoosiers.
-Immigration:
-- The diversity of America is what makes us strong.
+Issues this Session Example Bills I support: House Bill 1175 - (Indiana General Assembly) Study of State House Accessibility Improvements House Bill 1043 - (Indiana General Assembly) Data Center Water Regulation House Bill 1218- (Indiana General Assembly) Straight Ticket Voting House Bill 1067 - (Indiana General Assembly) Reporting of Grocery Staple Pricing House Bill 1148 -(Indiana General Assembly) Same Day Voter Registration House Bill 1413 -(Indiana General Assembly) Report on Infant and Maternal Care Example Bills I oppose: HB 1431 - (Indiana General Assembly) Street Camping This effectively criminalizes homelessness HB 1197 -(Indiana General Assembly) Hysterectomy and oophorectomy informed consent HB 1086 - (Indiana General Assembly) Display of 10 Commandments Other Important Issues The issues below are commonly held Democratic and American values and my stance on them: ​ Infrastructure: Pro utilization of tax dollars for infrastructure projects where people are, not where corporate entities want to build.
+Pro public transportation - including ensuring the ADA is addressed on all options Pro development of accessible neighborhoods and buildings, so ALL Hoosiers can access our infrastructure ​ ​ ​ ​ Education: Pro public schooling Pro tax dollars funding the education of our next generations Pro paying teachers the wages they're due Pro accountability of tax funding​ ​ Wages: Hoosiers are not paid enough for the rate of change occurring in costs of living.
+Support medical and family leave plans to ensure employees and employers are supported Pro-Union ​ ​ ​ ​ Marijuana Legalization: Pro legalization of marijuana Tax dollars from sales should go to improve the lives of Hoosiers. ​ Immigration: The diversity of America is what makes us strong.
 With people from all over the world, we have an opportunity to learn about issues in a way other countries do not.
-- A student at a diverse high school, I got to see this up close.
+A student at a diverse high school, I got to see this up close.
 I believe I am better for having learned from a young age how to co-exist with people who were different than me.
-- This is something we should celebrate, and take the opportunity to learn from, not fear.
-Personal Freedoms:
-- Pro-Choice
-- Pro ensuring that Hoosiers receive appropriate sexual education and can access contraceptives
-- This includes ensuring teenagers understand their bodies
-- Government should not participate in private healthcare decisions.
-- Pro Same Sex Marriage
-- Pro Gender Affirming Care
-- Pro Gender Marker Options on birth certificates
-- Pro Citizens living their truth
+This is something we should celebrate, and take the opportunity to learn from, not fear. ​ ​ ​ ​ ​Personal Freedoms: ​​ Pro-Choice Pro ensuring that Hoosiers receive appropriate sexual education and can access contraceptives This includes ensuring teenagers understand their bodies Government should not participate in private healthcare decisions. ​ Pro Same Sex Marriage Pro Gender Affirming Care Pro Gender Marker Options on birth certificates Pro Citizens living their truth ​ ​ Wight for Indiana House Yard Sign Request Volunteer Stay Connected Email * Yes, subscribe me to your newsletter. * Submit 260-342-4487 electsharonwight@gmail.com 429 East Dupont Road #94, Fort Wayne, IN, 46825 USA Accessibility Statement ​ © # by Wight for Indiana House 81.
+Paid for by Friends of Sharon Wight bottom of page

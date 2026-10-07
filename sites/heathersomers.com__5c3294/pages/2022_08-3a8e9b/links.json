@@ -1,45 +1,174 @@
 [
-"https://facebook.com/senheathersomers",
-"https://heathersomers.com/",
-"https://heathersomers.com/2017/10",
-"https://heathersomers.com/2018/02",
-"https://heathersomers.com/2018/03",
-"https://heathersomers.com/2018/08",
-"https://heathersomers.com/2018/09",
-"https://heathersomers.com/2018/10",
-"https://heathersomers.com/2018/11",
-"https://heathersomers.com/2020/03",
-"https://heathersomers.com/2020/04",
-"https://heathersomers.com/2020/05",
-"https://heathersomers.com/2020/09",
-"https://heathersomers.com/2020/10",
-"https://heathersomers.com/2022/08",
-"https://heathersomers.com/2022/08/26/heather-somers-announces-2022-re-election-bid-for-state-senate",
-"https://heathersomers.com/2022/08/26/heather-somers-endorsed-by-connecticut-state-fraternal-order-of-police",
-"https://heathersomers.com/2022/08/26/somers-reelection-campaign-qualifies-for-citizens-election-program",
-"https://heathersomers.com/2022/08/26/the-day-democrats-proposed-pandemic-tax-hikes-show-whats-wrong-with-connecticut",
-"https://heathersomers.com/2022/09",
-"https://heathersomers.com/2022/09/20/heather-somers-endorsed-by-connecticut-state-building-trades-council",
-"https://heathersomers.com/2024/02",
-"https://heathersomers.com/2024/02/09/heather-somers-announces-2024-reelection-bid-for-state-senate",
-"https://heathersomers.com/2024/05",
-"https://heathersomers.com/2024/05/20/heather-somers-unanimously-nominated-for-reelection",
-"https://heathersomers.com/2024/09",
-"https://heathersomers.com/2024/09/10/heather-somers-endorsed-by-leading-voices-for-economic-growth-small-business-working-families-womens-health-care-and-independent-leadership",
-"https://heathersomers.com/2026/03",
-"https://heathersomers.com/2026/03/26/somers-campaign-qualifies-for-citizens-election-program",
-"https://heathersomers.com/about-heather",
-"https://heathersomers.com/category/news",
-"https://heathersomers.com/comments/feed",
-"https://heathersomers.com/feed",
-"https://heathersomers.com/gonedos.php",
-"https://heathersomers.com/issues",
-"https://heathersomers.com/news",
-"https://heathersomers.com/qubemod/heather",
-"https://heathersomers.com/sms-opt-in",
-"https://secure.anedot.com/somers-for-senate-2026/somerssenate",
-"https://theday.com/article/20210129/OP03/210129348",
-"https://twitter.com/heatherssomers?lang=en",
-"https://wordpress.org/",
-"https://youtube.com/user/TheSomersheather"
+{
+"text": "About Heather",
+"href": "https://www.heathersomers.com/about-heather/"
+},
+{
+"text": "April 2020",
+"href": "https://www.heathersomers.com/2020/04/"
+},
+{
+"text": "August 2018",
+"href": "https://www.heathersomers.com/2018/08/"
+},
+{
+"text": "August 2022",
+"href": "https://www.heathersomers.com/2022/08/"
+},
+{
+"text": "August 26, 2022",
+"href": "https://www.heathersomers.com/2022/08/26/heather-somers-announces-2022-re-election-bid-for-state-senate/"
+},
+{
+"text": "August 26, 2022",
+"href": "https://www.heathersomers.com/2022/08/26/heather-somers-endorsed-by-connecticut-state-fraternal-order-of-police/"
+},
+{
+"text": "August 26, 2022",
+"href": "https://www.heathersomers.com/2022/08/26/somers-reelection-campaign-qualifies-for-citizens-election-program/"
+},
+{
+"text": "August 26, 2022",
+"href": "https://www.heathersomers.com/2022/08/26/the-day-democrats-proposed-pandemic-tax-hikes-show-whats-wrong-with-connecticut/"
+},
+{
+"text": "Comments feed",
+"href": "https://www.heathersomers.com/comments/feed/"
+},
+{
+"text": "Democrats’ Proposed Pandemic Tax Hikes Show What’s Wrong with Connecticut",
+"href": "https://www.theday.com/article/20210129/OP03/210129348#comments"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/somers-for-senate-2026/somerssenate"
+},
+{
+"text": "Entries feed",
+"href": "https://www.heathersomers.com/feed/"
+},
+{
+"text": "February 2018",
+"href": "https://www.heathersomers.com/2018/02/"
+},
+{
+"text": "February 2024",
+"href": "https://www.heathersomers.com/2024/02/"
+},
+{
+"text": "Heather Somers",
+"href": "https://www.heathersomers.com/qubemod/heather/"
+},
+{
+"text": "Heather Somers Announces 2024 Reelection Bid for State Senate",
+"href": "https://www.heathersomers.com/2024/02/09/heather-somers-announces-2024-reelection-bid-for-state-senate/"
+},
+{
+"text": "Heather Somers Endorsed by Connecticut State Building Trades Council",
+"href": "https://www.heathersomers.com/2022/09/20/heather-somers-endorsed-by-connecticut-state-building-trades-council/"
+},
+{
+"text": "Heather Somers Endorsed by Leading Voices for Economic Growth, Small Business, Working Families, Women’s Health Care, and Independent Leadership",
+"href": "https://www.heathersomers.com/2024/09/10/heather-somers-endorsed-by-leading-voices-for-economic-growth-small-business-working-families-womens-health-care-and-independent-leadership/"
+},
+{
+"text": "Heather Somers Unanimously Nominated for Reelection",
+"href": "https://www.heathersomers.com/2024/05/20/heather-somers-unanimously-nominated-for-reelection/"
+},
+{
+"text": "Home",
+"href": "https://www.heathersomers.com/"
+},
+{
+"text": "Issues & Record",
+"href": "https://www.heathersomers.com/issues/"
+},
+{
+"text": "Log in",
+"href": "https://www.heathersomers.com/gonedos.php"
+},
+{
+"text": "March 2018",
+"href": "https://www.heathersomers.com/2018/03/"
+},
+{
+"text": "March 2020",
+"href": "https://www.heathersomers.com/2020/03/"
+},
+{
+"text": "March 2026",
+"href": "https://www.heathersomers.com/2026/03/"
+},
+{
+"text": "May 2020",
+"href": "https://www.heathersomers.com/2020/05/"
+},
+{
+"text": "May 2024",
+"href": "https://www.heathersomers.com/2024/05/"
+},
+{
+"text": "News",
+"href": "https://www.heathersomers.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://www.heathersomers.com/news/"
+},
+{
+"text": "November 2018",
+"href": "https://www.heathersomers.com/2018/11/"
+},
+{
+"text": "October 2017",
+"href": "https://www.heathersomers.com/2017/10/"
+},
+{
+"text": "October 2018",
+"href": "https://www.heathersomers.com/2018/10/"
+},
+{
+"text": "October 2020",
+"href": "https://www.heathersomers.com/2020/10/"
+},
+{
+"text": "SMS Opt-In",
+"href": "https://www.heathersomers.com/sms-opt-in/"
+},
+{
+"text": "September 2018",
+"href": "https://www.heathersomers.com/2018/09/"
+},
+{
+"text": "September 2020",
+"href": "https://www.heathersomers.com/2020/09/"
+},
+{
+"text": "September 2022",
+"href": "https://www.heathersomers.com/2022/09/"
+},
+{
+"text": "September 2024",
+"href": "https://www.heathersomers.com/2024/09/"
+},
+{
+"text": "Somers Campaign Qualifies for Citizens Election Program",
+"href": "https://www.heathersomers.com/2026/03/26/somers-campaign-qualifies-for-citizens-election-program/"
+},
+{
+"text": "WordPress.org",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/heatherssomers?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/senheathersomers/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/user/TheSomersheather"
+}
 ]

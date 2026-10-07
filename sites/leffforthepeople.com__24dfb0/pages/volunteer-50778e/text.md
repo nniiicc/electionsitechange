@@ -1,2 +1,3 @@
-Help Us Win Volunteer We need people power on our side to win in November First Name* Last Name Email* Phone Number How do you want to get involved?
-Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up
+Donate Menu Home Meet The Candidate Issues Volunteer Voting Info Follow us Help Us Win Volunteer We need people power on our side to win in November First Name * Last Name Email * Phone Number How do you want to get involved?
+Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet The Candidate Issues Volunteer Voting Info Donate Follow us Accessibility Statement Terms of Service Contact Paid for and Authorized by LeffForThePeople 3665 East Bay Drive, Suite 204 Box 336 Largo, FL 33771 LeffForThePeople © #

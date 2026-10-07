@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.mattforhouse.com/about.php",
- "paid_for_by": "paid for by rohrbach for house 2026 \u2022 mark morgan, treasurer",
+ "fingerprint": "38d775ccbf4a10fe7fb1bff1db1aa1056364af25",
+ "format": 3,
+ "paid_for_by": "paid for by rohrbach for house 2026 • mark morgan, treasurer",
  "title": "Matt for House",
- "years_mentioned": []
+ "years_mentioned": [
+  "1990",
+  "2026"
+ ]
 }

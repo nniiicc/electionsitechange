@@ -1,13 +1,6 @@
-Candidate Forum Monday, April 27th @ 7:00 PM Gayville Community Center – Gayville, Sd
-View More 2026 Yankton GOP Forums
-Author: Info
-Legislaive Update
-Please join us!
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Author: Info News 2026 Yankton GOP Forums Info April 29, 2026 Candidate Forum Monday, April 27th @ 7:00 PM Gayville Community Center – Gayville, Sd View More 2026 Yankton GOP Forums News Legislaive Update Info February 13, 2026 Please join us!
 Saturday, February 14th, 2026: Legislative Update – Wakonda, SD.
 Saturday, February 28th, 2026: Legislative Update – Gayville, SD.
-Ask questions directly to…
-View More Legislaive Update
-Thank you Gov Rhoden
-Today, with Governor Larry Rhoden’s historic signing of HB 1052 into law today, our South Dakota values and principles were upheld.
-Our South Dakota Republican…
-View More Thank you Gov Rhoden
+Ask questions directly to… View More Legislaive Update News Thank you Gov Rhoden Info March 6, 2025 Today, with Governor Larry Rhoden’s historic signing of HB 1052 into law today, our South Dakota values and principles were upheld.
+Our South Dakota Republican… View More Thank you Gov Rhoden News Week in Review 2/28/2025 Info February 26, 2025 View More Week in Review 2/28/2025 News Week in Review 2/09/2025 Info February 9, 2025 View More Week in Review 2/09/2025 Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

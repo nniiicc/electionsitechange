@@ -1,5 +1,4 @@
-About Analilia Mejía
-Analilia Mejia is an Afro Latina mom, grassroots organizer, and nationally recognized advocate for working families.
+0 Skip to Content Meet Analilia Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English DONATE Open Menu Close Menu Meet Analilia Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English DONATE Open Menu Close Menu Folder: Meet Analilia Back Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English Back DONATE About Analilia Mejía Analilia Mejia is an Afro Latina mom, grassroots organizer, and nationally recognized advocate for working families.
 She’s running for Congress to make government work for working people.
 Born and raised in New Jersey, Analilia is the daughter of Colombian and Dominican immigrants who taught her that no one makes it alone.
 She grew up watching her mother, a seamstress, work multiple jobs and still struggle to put food on the table.
@@ -8,3 +7,8 @@ Analilia started her career as a union organizer and went on to lead the fights 
 She was the National Political Director for Bernie Sanders’ 2020 presidential campaign and served in the Department of Labor under President Joe Biden.
 Today, she’s Co-Executive Director of Popular Democracy, supporting grassroots organizations across the country.
 Analilia is proud to call Glen Ridge home — and even prouder to fight for New Jersey families who deserve a government as strong and determined as they are.
+Paid for by Analilia Mejia for New Jersey.
+Copyright #.
+All Rights Reserved.
+Privacy Policy.
+Website Design: Creative Public Works Creative Contributions: Megan Giulianelli, InCurrent Media, Melted Solids, Conexíon, Stampede Creative Press: New Deal Strategies & Leftlane Strategies Contact Us Videos About Analilia Voting Resources News Press Media Center Issues Work with Us

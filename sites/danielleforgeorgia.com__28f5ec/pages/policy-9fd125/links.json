@@ -1,15 +1,62 @@
 [
-"https://danielleforgeorgia.com/",
-"https://danielleforgeorgia.com/about",
-"https://danielleforgeorgia.com/accountable-leadership",
-"https://danielleforgeorgia.com/contact-us",
-"https://danielleforgeorgia.com/endorsed",
-"https://danielleforgeorgia.com/gallery",
-"https://danielleforgeorgia.com/healthcare-equality-1",
-"https://danielleforgeorgia.com/policy",
-"https://danielleforgeorgia.com/reduce-cost-of-living",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://mobilize.us/cherokeecountydemocraticcommittee/event/999858",
-"https://secure.actblue.com/donate/daniellebell2026",
-"https://secure.actblue.com/donate/webpopup"
+{
+"text": "About",
+"href": "https://danielleforgeorgia.com/about"
+},
+{
+"text": "Contact us",
+"href": "https://danielleforgeorgia.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/daniellebell2026"
+},
+{
+"text": "Endorsed",
+"href": "https://danielleforgeorgia.com/endorsed"
+},
+{
+"text": "Gallery",
+"href": "https://danielleforgeorgia.com/gallery"
+},
+{
+"text": "Give",
+"href": "https://secure.actblue.com/donate/webpopup"
+},
+{
+"text": "Home",
+"href": "https://danielleforgeorgia.com/"
+},
+{
+"text": "Learn more",
+"href": "https://danielleforgeorgia.com/accountable-leadership"
+},
+{
+"text": "Learn more",
+"href": "https://danielleforgeorgia.com/healthcare-equality-1"
+},
+{
+"text": "Learn more",
+"href": "https://danielleforgeorgia.com/reduce-cost-of-living"
+},
+{
+"text": "Policy",
+"href": "https://danielleforgeorgia.com/policy"
+},
+{
+"text": "Volunteer!",
+"href": "https://www.mobilize.us/cherokeecountydemocraticcommittee/event/999858/"
+},
+{
+"text": "[image]",
+"href": "https://danielleforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "danielle@danielleforgeorgia.com",
+"href": "mailto:danielle@danielleforgeorgia.com"
+}
 ]

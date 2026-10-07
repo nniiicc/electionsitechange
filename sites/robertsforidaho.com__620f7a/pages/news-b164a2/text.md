@@ -1,34 +1,14 @@
-Nate Roberts in the News
-Follow coverage, legislative updates, and guest columns from Nate's work serving Pocatello.
-Legislative Action & Advocacy Coverage
-June 26, 2024
-Legislators and others to rally on day Idaho’s new library law goes into effect
-East Idaho News
-June 24, 2024
-Idaho Dems planning peaceful protest against ‘harmful materials’ bill at Marshall Public Library
-Idaho State Journal
-March 20, 2024
-Working-class people rarely have a seat ‘at the legislative table’ in state capitols
-Indiana Capital Chronicle
-March 18, 2024
-Working-class people rarely have a seat ‘at the legislative table’ in state capitols
-Oregon Capital Chronicle
-March 8, 2024
-Bill allowing shelters to serve runaways heads to House; Dist. 6 Rep.
-McCann debates against HCR 26
-Idaho County Free Press
-February 26, 2024
-Local high school student travels to state capitol to give presentation on Fentanyl awareness
-East Idaho News
-February 22, 2024
-After police raid, Idaho lawmaker introduces bill to repeal state needle exchange program
-Idaho Statesman
-January 25, 2024
-Idaho Senate passes bill to define ‘domestic terrorism’ as activity associated with foreign groups
-Idaho Capital Sun
-January 24, 2024
-Mandatory Sentencing for Trafficking Fentanyl Bill Headed to Idaho House of Representatives
-KPVI
-January 17, 2024
-Bill restricting harmful material access to children stirs contention
-Idaho County Free Press
+0 Skip to Content Issues About Volunteer News Media Donate Open Menu Close Menu Issues About Volunteer News Media Donate Open Menu Close Menu Issues About Volunteer News Media Donate Nate Roberts in the News Follow coverage, legislative updates, and guest columns from Nate's work serving Pocatello.
+Op-Eds & Guest Columns May 23, 2024 Opinion: Upholding local control: A stand against Idaho GOP’s reluctance to empower local government Idaho State Journal May 2, 2024 Opinion: Ensuring excellence in Idaho’s education: school funding, facilities, and vouchers Idaho State Journal April 5, 2024 Opinion: East Idaho forensics center Idaho State Journal February 23, 2024 Opinion: Senate Bill 1300 Idaho State Journal July 12, 2023 Guest Opinion: The history of workers in Idaho and our future Idaho County Free Press Legislative Action & Advocacy Coverage June 26, 2024 Legislators and others to rally on day Idaho’s new library law goes into effect East Idaho News June 24, 2024 Idaho Dems planning peaceful protest against ‘harmful materials’ bill at Marshall Public Library Idaho State Journal March 20, 2024 Working-class people rarely have a seat ‘at the legislative table’ in state capitols Indiana Capital Chronicle March 18, 2024 Working-class people rarely have a seat ‘at the legislative table’ in state capitols Oregon Capital Chronicle March 8, 2024 Bill allowing shelters to serve runaways heads to House; Dist.
+6 Rep.
+McCann debates against HCR 26 Idaho County Free Press February 26, 2024 Local high school student travels to state capitol to give presentation on Fentanyl awareness East Idaho News February 22, 2024 After police raid, Idaho lawmaker introduces bill to repeal state needle exchange program Idaho Statesman January 25, 2024 Idaho Senate passes bill to define ‘domestic terrorism’ as activity associated with foreign groups Idaho Capital Sun January 24, 2024 Mandatory Sentencing for Trafficking Fentanyl Bill Headed to Idaho House of Representatives KPVI January 17, 2024 Bill restricting harmful material access to children stirs contention Idaho County Free Press Campaign Profiles & Town Halls April 29, 2024 Representative Nate Roberts Kicks Off Campaign KPVI April 20, 2024 In Their Own Words: Rep.
+Nate Roberts Idaho State Journal April 9, 2024 2024 campaign kick-off: James Ruchti, Nate Roberts and Mary Shea Idaho State Journal March 19, 2024 Ruchti, Roberts, Shea announce bids for Idaho Legislature Idaho State Journal March 12, 2024 Sen.
+Ruchti and Rep.
+Roberts announce 2024 legislative town halls Idaho State Journal January 29, 2024 First legislative town hall set Feb.
+3 LocalNews8 KIFI January 25, 2024 Sen.
+Ruchti, Rep.
+Roberts to hold upcoming town halls at Pocatello City Hall Idaho State Journal Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you for signing up for the newsletter! [email protected] (208) 807-8323 PO Box 2173 Pocatello ID, 83206 EIN 88-0822224 Paid for by Roberts for Idaho | Treasurer - Steve Landon

@@ -1,7 +1,9 @@
 {
  "description": "Contact the Hamilton for Texas Campaign",
  "final_url": "https://www.hamiltonfortexas.com/contact",
- "paid_for_by": null,
+ "fingerprint": "39229c0ddaf9ef81e2f38082d73b9cac7cfb61ed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Hamilton for Texas Campaign",
  "years_mentioned": []
 }

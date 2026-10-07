@@ -1,13 +1,46 @@
 [
-"https://arkansashouse.org/district/31",
-"https://arkleg.state.ar.us/Legislators/Detail?member=Gazaway&ddBienniumSession=2023%2F2023R",
-"https://arkleg.state.ar.us/legislators/detail?member=Gazaway&ddBienniumSession=2023%2F2023R",
-"https://atwillmedia.com/",
-"https://facebook.com/JimmyGazawayAR",
-"https://jimmygazaway.com/",
-"https://jimmygazaway.com/about",
-"https://jimmygazaway.com/contact",
-"https://jimmygazaway.com/photo-gallery",
-"https://jimmygazaway.com/site-map",
-"https://twitter.com/jimmygazaway"
+{
+"text": "About",
+"href": "https://www.jimmygazaway.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jimmygazaway.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.jimmygazaway.com/"
+},
+{
+"text": "Legislation",
+"href": "https://www.arkleg.state.ar.us/Legislators/Detail?member=Gazaway&ddBienniumSession=2023%2F2023R"
+},
+{
+"text": "Legislation",
+"href": "https://www.arkleg.state.ar.us/legislators/detail?member=Gazaway&ddBienniumSession=2023%2F2023R"
+},
+{
+"text": "Newsroom",
+"href": "https://www.arkansashouse.org/district/31"
+},
+{
+"text": "Photos",
+"href": "https://www.jimmygazaway.com/photo-gallery"
+},
+{
+"text": "Site Map",
+"href": "https://www.jimmygazaway.com/site-map"
+},
+{
+"text": "[image: AltWill media logo in blue and black text with a stylized underline.]",
+"href": "https://atwillmedia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/JimmyGazawayAR"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jimmygazaway"
+}
 ]

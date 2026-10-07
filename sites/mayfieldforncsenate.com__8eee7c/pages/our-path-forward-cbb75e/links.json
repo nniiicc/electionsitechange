@@ -1,34 +1,150 @@
 [
-"https://facebook.com/MayfieldforNCSenate",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmayfieldforncsenate.com%2Four-path-forward%2F",
-"https://hillforncsenate.com/",
-"https://instagram.com/mayfield4ncsenate",
-"https://kandiesmith.com/",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fmayfieldforncsenate.com%2Four-path-forward%2F&title=Our+Path+Forward",
-"https://lisagrafstein.com/",
-"https://mayfieldforncsenate.com/",
-"https://mayfieldforncsenate.com/about",
-"https://mayfieldforncsenate.com/blog",
-"https://mayfieldforncsenate.com/donate",
-"https://mayfieldforncsenate.com/endorsements",
-"https://mayfieldforncsenate.com/information-about-water-distribution",
-"https://mayfieldforncsenate.com/issues",
-"https://mayfieldforncsenate.com/majoritymaker",
-"https://mayfieldforncsenate.com/mayfield-files-for-re-election-to-senate-district-49",
-"https://mayfieldforncsenate.com/privacy",
-"https://mayfieldforncsenate.com/thank-you",
-"https://mayfieldforncsenate.com/wp-content/uploads/2019/02/footer-logo.png",
-"https://mayfieldforncsenate.com/wp-content/uploads/2019/03/sig.png",
-"https://mayfieldforncsenate.com/wp-content/uploads/2024/09/Our-Path-Forward-NC-Senate.png",
-"https://secure.actblue.com/donate/elect-terence",
-"https://secure.actblue.com/donate/hill-for-nc-senate-2",
-"https://secure.actblue.com/donate/kandie-smith-for-nc-1",
-"https://secure.actblue.com/donate/lisa-grafstein-campaign-1",
-"https://secure.actblue.com/donate/mercerforsenate",
-"https://secure.actblue.com/donate/woodson-bradley-for-nc-1",
-"https://terenceeveritt.com/",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fmayfieldforncsenate.com%2Four-path-forward%2F&text=Our+Path+Forward",
-"https://votejamesmercer.com/",
-"https://woodsonbradley.com/",
-"https://x.com/MayfieldforNC"
+{
+"text": "ABOUT",
+"href": "https://mayfieldforncsenate.com/about/"
+},
+{
+"text": "About",
+"href": "https://mayfieldforncsenate.com/about/"
+},
+{
+"text": "BECOME A MAYFIELD MAJORITY MAKER!",
+"href": "https://mayfieldforncsenate.com/majoritymaker/"
+},
+{
+"text": "DONATE",
+"href": "https://mayfieldforncsenate.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://mayfieldforncsenate.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elect-terence"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hill-for-nc-senate-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kandie-smith-for-nc-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lisa-grafstein-campaign-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mercerforsenate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/woodson-bradley-for-nc-1"
+},
+{
+"text": "Endorsements",
+"href": "https://mayfieldforncsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://mayfieldforncsenate.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://mayfieldforncsenate.com/issues/"
+},
+{
+"text": "Issues",
+"href": "https://mayfieldforncsenate.com/issues/"
+},
+{
+"text": "More Information",
+"href": "https://kandiesmith.com/"
+},
+{
+"text": "More Information",
+"href": "https://lisagrafstein.com/"
+},
+{
+"text": "More Information",
+"href": "https://www.hillforncsenate.com/"
+},
+{
+"text": "More Information",
+"href": "https://www.terenceeveritt.com/"
+},
+{
+"text": "More Information",
+"href": "https://www.votejamesmercer.com/"
+},
+{
+"text": "More Information",
+"href": "https://www.woodsonbradley.com/"
+},
+{
+"text": "News",
+"href": "https://mayfieldforncsenate.com/blog/"
+},
+{
+"text": "Next Post Information about water distribution [image]",
+"href": "https://mayfieldforncsenate.com/information-about-water-distribution/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mayfieldforncsenate.com/privacy/"
+},
+{
+"text": "Thank You",
+"href": "https://mayfieldforncsenate.com/thank-you/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mayfieldforncsenate.com/#volunteer"
+},
+{
+"text": "[image: Julie Mayfield for NC Senate]",
+"href": "https://mayfieldforncsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://mayfieldforncsenate.com/wp-content/uploads/2019/02/footer-logo.png"
+},
+{
+"text": "[image]",
+"href": "https://mayfieldforncsenate.com/wp-content/uploads/2019/03/sig.png"
+},
+{
+"text": "[image]",
+"href": "https://mayfieldforncsenate.com/wp-content/uploads/2024/09/Our-Path-Forward-NC-Senate.png"
+},
+{
+"text": "[image] Previous Post Mayfield files for re-election to Senate District 49",
+"href": "https://mayfieldforncsenate.com/mayfield-files-for-re-election-to-senate-district-49/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fmayfieldforncsenate.com%2Four-path-forward%2F&text=Our+Path+Forward"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MayfieldforNCSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmayfieldforncsenate.com%2Four-path-forward%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mayfield4ncsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmayfieldforncsenate.com%2Four-path-forward%2F&title=Our+Path+Forward"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MayfieldforNC"
+}
 ]

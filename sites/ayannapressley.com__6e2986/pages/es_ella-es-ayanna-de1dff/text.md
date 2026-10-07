@@ -1,5 +1,4 @@
-Ella es Ayanna
-Ayanna Pressley es una defensora, legisladora, activista y sobreviviente.
+EN ES HT ZH Facebook Twitter Instagram Ella es Ayanna Prioridades Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Eventos Voluntarios Tienda Donar Ella es Ayanna Eventos Información de votantes Voluntarios Tienda Donar Ella es Ayanna Ayanna Pressley es una defensora, legisladora, activista y sobreviviente.
 El 6 de noviembre del 2018, Ayanna fue elegida para representar al 7º distrito de Massachusetts en la Cámara de Representantes de los Estados Unidos, convirtiéndose en la primera mujer de color electa al Congreso en la mancomunidad de Massachusetts.
 Ayanna sabe que las personas que han estado más cerca al dolor son quienes deben estar más cerca al poder, y que la diversidad de voces en el proceso político es esencial para desarrollar una administración pública más eficaz.
 Nacida en Cincinnati y criada en Chicago, Ayanna es la hija única de una madre soltera y un padre que entraba y salía de la cárcel.
@@ -18,3 +17,5 @@ Ella ha sido reconocida por la Cámara de Comercio de Boston entre sus Diez Sobr
 En el 2015, ella ganó el Premio EMILY’s List Rising Star y fue nombrada una de las 50 personas más poderosas de la revista Boston.
 También es miembro de Aspen-Rodel en Liderazgo Público, Clase de 2012.
 Ayanna vive en Hyde Park en Boston con su esposo Conan Harris, su hijastra Cora de once años y su gato, Sojourner Truth.
+Contribuye hoy Ayanna es una persistente defensora del pueblo. ¿Quieres unirte a su lucha contribuyendo hoy?
+Nuestra contribución promedio este año $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Ella es Ayanna Voluntarios Tienda Donar Síguenos Facebook Twitter Instagram Contribuye Por Correo Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Pagado por el Comité Electoral de Ayanna Pressley Contacto Privacidad Made with Middle Seat

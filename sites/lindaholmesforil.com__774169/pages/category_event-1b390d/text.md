@@ -1,5 +1,2 @@
-Event
-Holmes invites Oswego-area constituents to a Mobile Office Hours event
-SPRINGFIELD – The office of State Senator Linda Holmes (D-Aurora) welcomes residents to a Mobile Office Hours event in Oswego on Monday, June 28 from 12:00
-June 24, 2021
-No Comments
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute Category: Event Event Holmes invites Oswego-area constituents to a Mobile Office Hours event SPRINGFIELD – The office of State Senator Linda Holmes (D-Aurora) welcomes residents to a Mobile Office Hours event in Oswego on Monday, June 28 from 12:00 Read More » June 24, 2021 No Comments Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

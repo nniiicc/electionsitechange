@@ -1,7 +1,11 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.jentodd2026.us/news/outrage",
+ "fingerprint": "ab92e369221c0db017a12d3b04995d62211d5e7e",
+ "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
  "title": "Outrage",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,17 +1,82 @@
 [
-"https://apps.azsos.gov/apps/election/eps/op",
-"https://bsky.app/profile/marcgraham4az28.bsky.social",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://instagram.com/marcgraham5",
-"https://linkedin.com/",
-"https://marcgrahamforaz.com/",
-"https://marcgrahamforaz.com/about",
-"https://marcgrahamforaz.com/education",
-"https://marcgrahamforaz.com/protecting-voter-access",
-"https://marcgrahamforaz.com/sustainable-growth",
-"https://marcgrahamforaz.com/water-security",
-"https://secure.actblue.com/donate/marcgrahamforaz",
-"https://tiktok.com/@marcgraham4ld28?lang=en",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://marcgrahamforaz.com/about"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/marcgraham4az28.bsky.social"
+},
+{
+"text": "Click here",
+"href": "https://apps.azsos.gov/apps/election/eps/op/"
+},
+{
+"text": "Contact Marc",
+"href": "mailto:marc@marcgrahamforaz.com"
+},
+{
+"text": "Education",
+"href": "https://marcgrahamforaz.com/education"
+},
+{
+"text": "Home",
+"href": "https://marcgrahamforaz.com/"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/marcgraham5/"
+},
+{
+"text": "Marc Graham for LD28",
+"href": "https://marcgrahamforaz.com/"
+},
+{
+"text": "PLEASE HELP. YOUR $5 MEANS SO MUCH",
+"href": "https://secure.actblue.com/donate/marcgrahamforaz"
+},
+{
+"text": "Protecting Voter Access",
+"href": "https://marcgrahamforaz.com/protecting-voter-access"
+},
+{
+"text": "Sustainable Growth",
+"href": "https://marcgrahamforaz.com/sustainable-growth"
+},
+{
+"text": "Threads",
+"href": "https://bsky.app/profile/marcgraham4az28.bsky.social"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@marcgraham4ld28?lang=en"
+},
+{
+"text": "Water Security",
+"href": "https://marcgrahamforaz.com/water-security"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/marcgraham4az28.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@marcgraham4ld28?lang=en"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://www.twitter.com/"
+}
 ]

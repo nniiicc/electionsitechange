@@ -1,23 +1,90 @@
 [
-"http://facebook.com/share.php?u=https%3A%2F%2Frichardhudson.org%2Fhealth-care%2F",
-"http://twitter.com/home?status=Health+Care+-+https%3A%2F%2Frichardhudson.org%2Fhealth-care%2F",
-"https://carolinajournal.com/opinion-article/bipartisan-initiatives-offer-new-hope-in-war-against-cancer",
-"https://facebook.com/rephudson",
-"https://instagram.com/rephudson",
-"https://plus.google.com/share?url=https%3A%2F%2Frichardhudson.org%2Fhealth-care%2F",
-"https://richardhudson.org/",
-"https://richardhudson.org/about",
-"https://richardhudson.org/author/hdsonrich",
-"https://richardhudson.org/contact-us",
-"https://richardhudson.org/gerrymandering-decision-will-mean-new-harnett-representative",
-"https://richardhudson.org/get-involved",
-"https://richardhudson.org/health-care",
-"https://richardhudson.org/issues",
-"https://richardhudson.org/issues/issues",
-"https://richardhudson.org/news",
-"https://richardhudson.org/privacy-policy",
-"https://richardhudson.org/veterans",
-"https://secure.winred.com/hudson-for-congress/main-donate",
-"https://secure.winred.com/hudson-for-congress/storefront",
-"https://twitter.com/RepHudsonNC"
+{
+"text": "+1",
+"href": "https://plus.google.com/share?url=https%3A%2F%2Frichardhudson.org%2Fhealth-care%2F"
+},
+{
+"text": "Bipartisan initiatives offer new hope in war against cancer",
+"href": "https://www.carolinajournal.com/opinion-article/bipartisan-initiatives-offer-new-hope-in-war-against-cancer/"
+},
+{
+"text": "Contact Us",
+"href": "https://richardhudson.org/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hudson-for-congress/main-donate"
+},
+{
+"text": "Get Involved",
+"href": "https://richardhudson.org/get-involved/"
+},
+{
+"text": "Health Care",
+"href": "https://richardhudson.org/health-care/"
+},
+{
+"text": "Issues",
+"href": "https://richardhudson.org/issues/"
+},
+{
+"text": "Issues",
+"href": "https://richardhudson.org/issues/issues/"
+},
+{
+"text": "Meet Richard",
+"href": "https://richardhudson.org/about/"
+},
+{
+"text": "News",
+"href": "https://richardhudson.org/news/"
+},
+{
+"text": "Next: Gerrymandering decision will mean new Harnett representative",
+"href": "https://richardhudson.org/gerrymandering-decision-will-mean-new-harnett-representative/"
+},
+{
+"text": "Previous: Veterans",
+"href": "https://richardhudson.org/veterans/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://richardhudson.org/privacy-policy/"
+},
+{
+"text": "Richard Hudson for Congress",
+"href": "https://richardhudson.org"
+},
+{
+"text": "Richard Hudson for Congress",
+"href": "https://richardhudson.org/author/hdsonrich/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/hudson-for-congress/storefront"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://richardhudson.org/privacy-policy/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/rephudson"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/rephudson"
+},
+{
+"text": "share",
+"href": "http://www.facebook.com/share.php?u=https%3A%2F%2Frichardhudson.org%2Fhealth-care%2F"
+},
+{
+"text": "tweet",
+"href": "http://twitter.com/home?status=Health+Care+-+https%3A%2F%2Frichardhudson.org%2Fhealth-care%2F"
+},
+{
+"text": "twitter",
+"href": "https://twitter.com/RepHudsonNC"
+}
 ]

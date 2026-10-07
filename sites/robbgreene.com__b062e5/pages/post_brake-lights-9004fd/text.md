@@ -1,5 +1,5 @@
-Brake Lights
-This article was originally published by Front Porch Republic on November 2, 2022.
+top of page Writings Special Needs Families District 47 Get a sign More Use tab to navigate through the menu items.
+Donate Donate All Posts Search Brake Lights Robb Greene Oct 21, 2024 8 min read This article was originally published by Front Porch Republic on November 2, 2022.
 Shelby County, IN.
 The main east-west thoroughfare in Shelby County, Indiana is IN-44.
 It’s a quintessential Hoosier state road.
@@ -21,32 +21,28 @@ The gesture, and subsequent brake lights, triggered an almost startling sense of
 Not because I have an ax to grind with law enforcement, or because I’m some sovereign citizen who rejects the legitimacy of speed limits.
 To be honest, had it been a deputy sheriff from our county, I likely would have waved to them for standing sentry over our community.
 But this moment of camaraderie with the oncoming driver conjured a flood of memories from childhood, riding with my father, and the community we came from.
-For those of you not raised in the Rust Belt, the Heartland, or whatever cultural toponym you prefer for being not rich, when an oncoming vehicle flashes their high beams—assuming your own aren’t on—it’s a warning that somewhere in the curves and contours ahead, an officer is waiting to add you to their monthly quota.
+For those of you not raised in the Rust Belt, the Heartland, or whatever cultural toponym you prefer for being not rich , when an oncoming vehicle flashes their high beams—assuming your own aren’t on—it’s a warning that somewhere in the curves and contours ahead, an officer is waiting to add you to their monthly quota.
 It’s a sort of highway folkway.
 Like the biker wave, or how bored kids and truckers instinctively know what pumping a clenched fist out a minivan window means.
 My father first taught it to me when I was maybe 10 years old, likely riding in an unbuckled state of nature on the front bench seat of his seafoam green Bonneville.
 Even then I remember it being catechized with a bizarre sense of obligation.
 That same tone fathers use when they tell sons to hold the door for a woman or address an elder with respect.
-It carried that societal ought.
+It carried that societal ought .
 You remove your hat for the Anthem, you close your eyes for prayer, and you don’t let a neighbor surrender two days’ wages over a matter of malum prohibitum.
 As a teenager, I questioned the practice until I paid my first $160.00 fine.
 Then I brooded equally over the officer who wrote the ticket as I did over the half-dozen priests and Levites whose apathy served as a sort of snitching-by-omission, selling out a fellow traveler on the road to Jericho.
 As I drove on, I began to wonder who else besides us two pickup owners still knew about this code.
 My own truck is nearly 30 years old, and since driving diversions are limited to FM radio or the occasional flicker of the check engine light, I had time to ponder such things.
-So at the next stop, I posed the following to my wife by text:
-“Question…if someone flashes their high beams at you, what would you take that to mean?”
-My wife, through no fault of her own, had an upper-class, suburban childhood.
-She proceeded to explain, in detail, how it was part of a gang initiation ritual, sharing the plot from the 1998 Tara Reid movie Urban Legend.
+So at the next stop, I posed the following to my wife by text: “Question…if someone flashes their high beams at you, what would you take that to mean?” My wife, through no fault of her own, had an upper-class, suburban childhood.
+She proceeded to explain, in detail, how it was part of a gang initiation ritual, sharing the plot from the 1998 Tara Reid movie Urban Legend .
 I moved on to a couple friends with similar upbringings to my own.
 “Cop ahead,” and “Slow down,” came the immediate replies.
 I probed further.
 “OK.
-So, who taught you that?”
-My one friend shared that it was his grandfather who drove a route for the Chicago gas company that initiated him.
+So, who taught you that?” My one friend shared that it was his grandfather who drove a route for the Chicago gas company that initiated him.
 He fondly recalled how his grandpa was that guy who kept a CB radio in his own car.
 He instructed him that things like this were just what people who made their living on the road did for each other.
-The other friend, less willing to indulge such thought exercises, bluntly replied, “I dunno…was caught, not taught.”
-I suspect such things will soon be neither taught nor caught.
+The other friend, less willing to indulge such thought exercises, bluntly replied, “I dunno…was caught, not taught.” I suspect such things will soon be neither taught nor caught.
 Forget about our aversion to generational wisdom, who among us feels any obligation outside of our own chosen relationships?
 At least it wasn’t me.
 They got what they deserved.
@@ -66,7 +62,7 @@ It’s an automotive engineering standard that defines autonomous vehicle capabi
 Level 0, like my truck, possesses no automation whatsoever, while Level 5 will ostensibly resemble something between Will Smith’s Audi in I, Robot and K.I.T.T.
 The nomenclature of progress often exposes our true intentions.
 The Greek word autós forms the root for both automobile and autonomous car.
-While the former simply means self-propelling, the latter is self-governing.
+While the former simply means self-propelling, the latter is self- governing .
 Technocrats have a fondness for extrajudicial governance.
 They get away with it because we accept the premise that technology is morally neutral.
 As if the algorithms we live by are somehow not written and guided by individuals with values and worldviews of their own.
@@ -76,10 +72,8 @@ Currently, there are only a handful of Level 2 vehicles available in the United 
 These are cars that utilize adaptive cruise control plus lane-assist technology.
 Of course anyone who’s ever taken a road trip knows that this has already been around for years in the form of asking a friend to hold the wheel while you fumble under your seat for a Pearl Jam CD.
 Earlier this year, however, Mercedes-Benz announced that they had released the first certified Level 3 vehicle approved in Germany.
-A MotorTrend writer who took a “test drive” wrote, apparently without irony:
-You can sit back and relax.
-As long as you’re on an autobahn, traveling at 37 mph or less in daylight on a dry road and the ambient temperature is 40 degrees Fahrenheit or higher, Drive Pilot will take care of everything…
-Take care of everything, indeed.
+A MotorTrend writer who took a “test drive” wrote, apparently without irony: You can sit back and relax.
+As long as you’re on an autobahn, traveling at 37 mph or less in daylight on a dry road and the ambient temperature is 40 degrees Fahrenheit or higher, Drive Pilot will take care of everything… Take care of everything, indeed.
 Even if our autonomous future is running a bit behind schedule, our tech overlords certainly won’t let that delay their war on human agency by way of electric vehicles (EVs).
 I could make the argument that determining the greenness of a car solely on the presence of an exhaust system overlooks a host of issues in the production, disposal, and overall utility of a vehicle (not to mention the question of how that electricity is generated).
 For now, though, let’s just focus on the idea of cars becoming a sort of mobile node in a transportation network.
@@ -87,14 +81,14 @@ A Tesla is not so much a car with an electric engine, as it is a car with an ope
 As such, we can expect EVs will inevitably and inextricably be under the tyranny of the Internet-of-Things (IoT).
 In the name of safety, efficiency, and better insurance rates, I suspect you’ll see cars either governed to posted limits, or real-time fines and points that start to accrue once you go 1-mph over.
 And, lest you think I’m the reactionary Luddite that I am, you’d do well to note the concept of usage-based insurance has been around for years.
-Progressive filed a patent for “A method and system of determining a cost of automobile insurance based upon monitoring, recording and communicating data representative of operator and vehicle driving characteristics,” not in 2017, but in 1997.
+Progressive filed a patent for “A method and system of determining a cost of automobile insurance based upon monitoring, recording and communicating data representative of operator and vehicle driving characteristics,” not in 2017 , but in 1997.
 A growing number of insurance upstarts like Root and Lemonade require drivers to be monitored by GPS for several weeks before issuing coverage.
 The Lyft and Uber Driver apps, both originally built on the Google Maps infrastructure, alert contractors when they go over the posted speed limits.
 It’s naïve to think these capabilities won’t move from the background to becoming a sort of digital driving instructor, or worse.
 God may be your copilot, but Bezos takes the wheel.
 However, even if I am misreading the map to our speed-free future, it still leaves other open questions such as who actually owns the car if GM or Ford forbid access to the IP necessary to repair or modify it.
 Just ask any farmer about what happens if they want to save seed or work on their John Deere X9 1100 combine.
-Or any BMW owner across the pond whose car is being transformed into a rolling monthly recurring revenue model.
+Or any BMW owner across the pond whose car is being transformed into a rolling monthly recurring revenue model .
 And thus will come the end of a century-long rivalry between police and speeders.
 If you think the likelihood of talking your way out of a ticket with a stoic Trooper is slim, just wait for the algorithms.
 The death of the internal combustion engine will erase more than just carbon emissions.
@@ -112,3 +106,5 @@ That world will be missed even if we don’t realize it’s gone.
 I’d like to think the driver of the other truck spent as much time as I have contemplating the larger, cultural implications of this brief encounter.
 But, it’s OK if he didn’t.
 I’ll settle for brake lights and a wave.
+Recent Posts See All Conserving Hoosier agriculture, protecting Homestead Farm families Bringing transparency to economic development RobbGreene.com P.O.
+Box 1148 Shelbyville, IN 46176 Paid for by RobbGreene.com © # by RobbGreene.com bottom of page

@@ -1,9 +1,12 @@
 {
  "description": "Learn more about Georgia State Representative Eric Bell.",
  "final_url": "https://www.bellforus.com/meeteric",
- "paid_for_by": null,
+ "fingerprint": "8f577a3aac1c3cfbdcd378b5dfe39f406d80c14c",
+ "format": 3,
+ "paid_for_by": "sponsored by the Atlanta Regional Commission, and the New Leaders Council",
  "title": "Meet Eric | BellForUs",
  "years_mentioned": [
+  "2009",
   "2015",
   "2017",
   "2018"

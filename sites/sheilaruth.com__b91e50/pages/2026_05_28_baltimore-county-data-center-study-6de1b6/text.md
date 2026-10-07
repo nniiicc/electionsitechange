@@ -1,11 +1,10 @@
-The Baltimore County Planning Board is conducting a study and report on recommendations regarding data center planning and requirements in Baltimore County, as required by County Council Bill 3-26: Zoning Regulations — Data Center Study.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Baltimore County Data Center Study The Baltimore County Planning Board is conducting a study and report on recommendations regarding data center planning and requirements in Baltimore County, as required by County Council Bill 3-26: Zoning Regulations — Data Center Study .
 I submitted the testimony below.
 It’s not too late to submit your own comments on data centers in Baltimore County.
-You can email your comments to tbensley@baltimorecountymd.gov.
+You can email your comments to tbensley@baltimorecountymd.gov .
 Read more about the study here.
-You can see my official letter in the images attached here, and here is the full text of the testimony:
-Dear Chair Holupka and Members of the Baltimore County Planning Board:
-Pursuant to Baltimore County Bill 3-26, I am submitting this written testimony for consideration in your report and recommendations on data centers.
+You can see my official letter in the images attached here, and here is the full text of the testimony: Dear Chair Holupka and Members of the Baltimore County Planning Board: Pursuant to Baltimore County Bill 3-26, I am submitting this written testimony for consideration in your report and recommendations on data centers.
 Data centers are not new: I worked in a building with a data center in the mid-1980s.
 What has changed is their scale, resource demand, and impact on communities.
 In developing your recommendations, it is important for the Board to regulate these hyperscale data centers in a manner consistent with their higher impacts.
@@ -38,6 +37,9 @@ Public funds should be used to incentivize development that will benefit the pub
 That is not the case with hyperscale data centers: there are huge profits to be made from these facilities, and with the growth of the industry there is a demand for locations to place them, so no financial incentives are necessary.
 Thank you for the opportunity to share my testimony.
 Please reach out if you have any questions.
-Sincerely,
-Sheila Ruth
-Delegate, District 44B
+Sincerely, Sheila Ruth Delegate, District 44B Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

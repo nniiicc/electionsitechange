@@ -1,9 +1,42 @@
 [
-"https://hildasolis.com/",
-"https://hildasolis.com/2022/join-team-hilda",
-"https://hildasolis.com/2022/supporters",
-"https://hildasolis.com/gallery",
-"https://hildasolis.com/join-team-hilda",
-"https://hildasolis.com/supporters",
-"https://secure.actblue.com/donate/hilda-solis-4"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hilda-solis-4"
+},
+{
+"text": "Donate[image]",
+"href": "https://secure.actblue.com/donate/hilda-solis-4"
+},
+{
+"text": "Endorse Hilda",
+"href": "https://www.hildasolis.com/2022/supporters/"
+},
+{
+"text": "Gallery",
+"href": "https://www.hildasolis.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.hildasolis.com/"
+},
+{
+"text": "Join Team Hilda",
+"href": "https://www.hildasolis.com/2022/join-team-hilda/"
+},
+{
+"text": "Join Team Hilda",
+"href": "https://www.hildasolis.com/join-team-hilda/"
+},
+{
+"text": "Supporters",
+"href": "https://www.hildasolis.com/supporters/"
+},
+{
+"text": "[image: Hilda Solis | For Congress]",
+"href": "https://www.hildasolis.com/"
+},
+{
+"text": "info@hildasolis.com",
+"href": "mailto:info@hildasolis.com"
+}
 ]

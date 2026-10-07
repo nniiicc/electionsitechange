@@ -1,15 +1,66 @@
 [
-"http://twitter.com/jenstrebs",
-"https://bsky.app/profile/jenstrebs.bsky.social",
-"https://facebook.com/jenstrebs",
-"https://instagram.com/jenstrebs",
-"https://jenstrebs.com/",
-"https://jenstrebs.com/about-jen",
-"https://jenstrebs.com/cart",
-"https://jenstrebs.com/endorsements",
-"https://jenstrebs.com/issues",
-"https://jenstrebs.com/news",
-"https://jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability",
-"https://jenstrebs.com/updates",
-"https://secure.actblue.com/donate/strebs4mi"
+{
+"text": "0",
+"href": "https://www.jenstrebs.com/cart"
+},
+{
+"text": "About Jen",
+"href": "https://www.jenstrebs.com/about-jen"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/strebs4mi"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenstrebs.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.jenstrebs.com/issues"
+},
+{
+"text": "Kalamazoo County voters to decide 8-year childcare millage addressing affordability",
+"href": "https://www.jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability"
+},
+{
+"text": "News",
+"href": "https://www.jenstrebs.com/news"
+},
+{
+"text": "Read more →",
+"href": "https://www.jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability"
+},
+{
+"text": "See All Endorsements",
+"href": "https://www.jenstrebs.com/endorsements"
+},
+{
+"text": "Text Opt-In",
+"href": "https://www.jenstrebs.com/updates"
+},
+{
+"text": "[image: Jen Strebs]",
+"href": "https://www.jenstrebs.com/"
+},
+{
+"text": "[image: Kalamazoo County voters to decide 8-year childcare millage addressing affordability]",
+"href": "https://www.jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jenstrebs"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenstrebs.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenstrebs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jenstrebs/"
+}
 ]

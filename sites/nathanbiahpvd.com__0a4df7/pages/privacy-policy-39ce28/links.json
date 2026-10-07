@@ -1,11 +1,42 @@
 [
-"https://contact-us/",
-"https://facebook.com/NathanBiahDistrict3",
-"https://nathanbiahpvd.com/cdn-cgi/l/email-protection",
-"https://nathanbiahpvd.com/meet",
-"https://nathanbiahpvd.com/priorities",
-"https://nathanbiahpvd.com/privacy-policy",
-"https://nathanbiahpvd.com/termsandconditions",
-"https://secure.actblue.com/donate/friends-of-nathan-biah-1",
-"https://x.com/NathanBiah"
+{
+"text": "Contact",
+"href": "https://contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "Meet Rep. Biah",
+"href": "https://nathanbiahpvd.com/meet"
+},
+{
+"text": "Priorities",
+"href": "https://nathanbiahpvd.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nathanbiahpvd.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://nathanbiahpvd.com/termsandconditions"
+},
+{
+"text": "[email protected]",
+"href": "https://nathanbiahpvd.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://nathanbiahpvd.com/privacy-policy"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/NathanBiahDistrict3/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://x.com/NathanBiah"
+}
 ]

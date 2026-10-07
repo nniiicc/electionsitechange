@@ -1,9 +1,2 @@
-Mailing Address:
-Hammer for ND
-PO Box 58
-Minot, ND 58702
-General Inquiries: info@hammerfornd.com
-Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
-Paid for by Hammer for ND
-Follow Trygve on
-Social Media
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events People's Town Hall in New Town Tuesday, July 14, 2026 6:00 PM 8:00 PM 4Bears New Town, ND (map) Google Calendar ICS Previous Previous July 4 Mandan Independence Day Parade Next Next July 18 NDSF Parade Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

@@ -1,12 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScV2mYNXyGV0uYxeD54f8FO0-PqYsjLWDDQXP3nCIAlKeHrKA/viewform?usp=publish-editor",
-"https://docs.google.com/forms/d/e/1FAIpQLSfnIxNCEIZQuRZnRNLFMXGF7YZcMjS7Xw7Oje32wVyJ7EydNA/viewform?usp=dialog",
-"https://docs.google.com/forms/d/e/1FAIpQLSfnIxNCEIZQuRZnRNLFMXGF7YZcMjS7Xw7Oje32wVyJ7EydNA/viewform?usp=share_link&ouid=109052615448927109142",
-"https://facebook.com/Williams4house",
-"https://instagram.com/johnwilliams_wv",
-"https://secure.actblue.com/donate/williamsforsenate",
-"https://tiktok.com/@jrnw1990?is_from_webapp=1&sender_device=pc",
-"https://williamsforstatesenate.com/",
-"https://williamsforstatesenate.com/donate",
-"https://williamsforstatesenate.com/news"
+{
+"text": "About",
+"href": "https://www.williamsforstatesenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/williamsforsenate"
+},
+{
+"text": "Donate",
+"href": "https://www.williamsforstatesenate.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.williamsforstatesenate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.williamsforstatesenate.com"
+},
+{
+"text": "News",
+"href": "https://www.williamsforstatesenate.com/news"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScV2mYNXyGV0uYxeD54f8FO0-PqYsjLWDDQXP3nCIAlKeHrKA/viewform?usp=publish-editor"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfnIxNCEIZQuRZnRNLFMXGF7YZcMjS7Xw7Oje32wVyJ7EydNA/viewform?usp=dialog"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfnIxNCEIZQuRZnRNLFMXGF7YZcMjS7Xw7Oje32wVyJ7EydNA/viewform?usp=share_link&ouid=109052615448927109142"
+},
+{
+"text": "Welcome",
+"href": "https://www.williamsforstatesenate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Williams4house"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/johnwilliams_wv/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jrnw1990?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: Williams for State Senate Logo]",
+"href": "https://www.williamsforstatesenate.com"
+},
+{
+"text": "general@williamsforstatesenate.com",
+"href": "mailto:general@williamsforstatesenate.com"
+},
+{
+"text": "‪(304) 449-4046‬",
+"href": "tel:%E2%80%AA(304)%20449-4046%E2%80%AC"
+}
 ]

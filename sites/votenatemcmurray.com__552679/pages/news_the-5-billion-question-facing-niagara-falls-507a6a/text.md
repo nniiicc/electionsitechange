@@ -1,5 +1,7 @@
-The $5 Billion Question Facing Niagara Falls
-Let’s stop pretending we don’t understand what’s happening.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER The $5 Billion Question Facing Niagara Falls Jan 23 Written By Nathan McMurray Let’s stop pretending we don’t understand what’s happening.
 Niagara Falls is a city of roughly 40,000 people that generates billions of dollars every year through tourism, hydroelectric power, and casino gaming — roughly $5 billion annually.
 That makes it one of the most economically productive places in New York State.
 And if you’ve lived here long enough, you remember what it used to be like — the Wintergarden, the Rainbow Mall, a downtown that felt alive.
@@ -22,8 +24,7 @@ Now here’s the part we need to be honest about.
 Niagara Falls sits in a state dominated by Democrats.
 Albany is controlled by Democrats — the Assembly, the Senate, the budget, the committees.
 All of it.
-And yet, election after election, we keep sending Republicans to Albany to “fight for us.”
-You really think that works?
+And yet, election after election, we keep sending Republicans to Albany to “fight for us.” You really think that works?
 In a Democratic supermajority, a Republican legislator has no leverage.
 They don’t write the budget.
 They don’t chair committees.
@@ -41,5 +42,5 @@ I don’t accept that.
 I’m running to start an honest conversation about where the money goes, who controls it, and why a city that creates this much value should finally see it stay here.
 Because doing the same thing over and over — and hoping for a different outcome — isn’t independence or toughness.
 It’s surrender.
-And Niagara Falls deserves better.
-votenatemcmurray.com
+And Niagara Falls deserves better. votenatemcmurray.com Nathan McMurray Previous Previous After This Week’s Niagara Gazette Article — Let’s Talk in Person Next Next Americans pay more for health care than anyone else—yet our people are sicker and more broke.
+Volunteer and Sign Up for Updates!

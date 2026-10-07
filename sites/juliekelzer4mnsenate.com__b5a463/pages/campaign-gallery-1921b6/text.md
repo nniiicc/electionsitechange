@@ -1,8 +1,1 @@
-Prepared and Paid for by the
-Julie Kelzer for MN Senate Committee
-PO Box 88
-NYA, MN 55368
-Julie Kelzer for MN Senate Committee
-PO Box 88
-NYA, MN 55368
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu

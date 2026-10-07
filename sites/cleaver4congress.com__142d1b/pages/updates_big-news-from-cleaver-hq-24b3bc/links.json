@@ -1,28 +1,126 @@
 [
-"https://actionnetwork.org/forms/cleaverwebsignup",
-"https://cleaver4congress.com/",
-"https://cleaver4congress.com/about",
-"https://cleaver4congress.com/accessibility",
-"https://cleaver4congress.com/cart",
-"https://cleaver4congress.com/contact",
-"https://cleaver4congress.com/gallery-1",
-"https://cleaver4congress.com/in-the-news",
-"https://cleaver4congress.com/issues",
-"https://cleaver4congress.com/privacy-policy",
-"https://cleaver4congress.com/updates",
-"https://cleaver4congress.com/updates/blog-post-title-one-9br3y",
-"https://cleaver4congress.com/updates/blog-post-title-two-prssw",
-"https://cleaver4congress.com/updates?author=65021d5b2330db306b513674",
-"https://cleaver4congress.com/vote",
-"https://click.actionnetwork.org/ss/c/u001.XaF8mXqsA6b2dSPmhsleMROYMb7kdK5qHwfvn-64P0rJSpwdWxSl8JNgf7XFS7NMjJZEq6BQUbgBEZ74pH162DJJjps4XLwFYoHk9gW98M1p-yRdQes5owgsdSv2np1zXdGlkh3vE0IwSK-BtVX2h_S7H3fxJ6lM2lxb6IVXpPLlw9mjv_qY3PKukz_BIZGhbPOAkezbijN0qsO2c06R8rL0SWIO2rqo9vE8k1eC0wTzwGB1bkQCsFp2oyEZEtnZvVsVaBAbteLdbiZCGHqBAUu2ky59iEiE-jKDjYaYbsEfhiNXUHpyKyYdmabXgOndDCPWUx8fmUUt_QDY-lZb4A/4kq/IT3-pNNQTUWROEw4-zO34w/h0/h001.6a3SpV3IuS1dE4Qxsq2LnFUKLKAetWmvH8iChsYiSUA",
-"https://click.actionnetwork.org/ss/c/u001.qUXRBnqZ7T8nxbpAcIVwoUsWLkUMWlo_0JmZttSlm39oU29jo2nQh8DPJD6Tg6dlA6meQ8ub9sA3ZJyeL-jKwrt41KANvxOt5-kn0kCuDHnxAX4MNq2ncRPGK8DlLXXgmKI_kJGNa7Hs3LCfVX1PLrcvaxtKDfZTk7bOjy9Bs-gStM7iKRKSHQz9-V4LyOHwS9oW0tgs37hyKbPkPEFRp0zUxR-0dkd-Ziah4WLnm7r-mBHobt74-ca9XVr5ASYz0fJ8TxIO5X5I0v5mftfCAZjE4CzJUKtgfwydXDzBxvpfaYN9YEvVPZb7cLeSK7bxpajd8pQiZ7-LnJQ7BUD4Nxq--01aMoINcuN3cabMqgg/4kq/IT3-pNNQTUWROEw4-zO34w/h3/h001.-rFTTYtitVJL5tbe7OB543OcygsBFgEDcTprf05x0A8",
-"https://facebook.com/share/17FtYGvCao?mibextid=wwXIfr",
-"https://forms.gle/C7mA24BZgcCifGHi9",
-"https://instagram.com/cleaverforcongress",
-"https://secure.actblue.com/donate/cleaver-congress",
-"https://secure.actblue.com/donate/cleaver-congress?amount=100",
-"https://secure.actblue.com/donate/cleaver-congress?amount=25",
-"https://secure.actblue.com/donate/cleaver-congress?amount=250",
-"https://secure.actblue.com/donate/cleaver-congress?amount=50",
-"https://secure.actblue.com/donate/cleaver-congress?amount=500"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cleaver-congress?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.cleaver4congress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.cleaver4congress.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.cleaver4congress.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://www.cleaver4congress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cleaver-congress"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/cleaver-congress"
+},
+{
+"text": "Gallery",
+"href": "https://www.cleaver4congress.com/gallery-1"
+},
+{
+"text": "Home",
+"href": "https://www.cleaver4congress.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.cleaver4congress.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.cleaver4congress.com/issues"
+},
+{
+"text": "Laura Osborn",
+"href": "https://www.cleaver4congress.com/updates?author=65021d5b2330db306b513674"
+},
+{
+"text": "Next Next They are tearing our country apart",
+"href": "https://www.cleaver4congress.com/updates/blog-post-title-two-prssw"
+},
+{
+"text": "Other Amount…",
+"href": "https://secure.actblue.com/donate/cleaver-congress"
+},
+{
+"text": "Previous Previous Happy Veterans Day!",
+"href": "https://www.cleaver4congress.com/updates/blog-post-title-one-9br3y"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cleaver4congress.com/privacy-policy"
+},
+{
+"text": "Stay Informed",
+"href": "https://actionnetwork.org/forms/cleaverwebsignup"
+},
+{
+"text": "Updates",
+"href": "https://www.cleaver4congress.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/C7mA24BZgcCifGHi9"
+},
+{
+"text": "Vote",
+"href": "https://www.cleaver4congress.com/vote"
+},
+{
+"text": "Will you please join our campaign by adding your name to endorse my re-election to Congress next year? We are stronger when we are united together.",
+"href": "https://click.actionnetwork.org/ss/c/u001.qUXRBnqZ7T8nxbpAcIVwoUsWLkUMWlo_0JmZttSlm39oU29jo2nQh8DPJD6Tg6dlA6meQ8ub9sA3ZJyeL-jKwrt41KANvxOt5-kn0kCuDHnxAX4MNq2ncRPGK8DlLXXgmKI_kJGNa7Hs3LCfVX1PLrcvaxtKDfZTk7bOjy9Bs-gStM7iKRKSHQz9-V4LyOHwS9oW0tgs37hyKbPkPEFRp0zUxR-0dkd-Ziah4WLnm7r-mBHobt74-ca9XVr5ASYz0fJ8TxIO5X5I0v5mftfCAZjE4CzJUKtgfwydXDzBxvpfaYN9YEvVPZb7cLeSK7bxpajd8pQiZ7-LnJQ7BUD4Nxq--01aMoINcuN3cabMqgg/4kq/IT3-pNNQTUWROEw4-zO34w/h3/h001.-rFTTYtitVJL5tbe7OB543OcygsBFgEDcTprf05x0A8"
+},
+{
+"text": "[image: Cleaver for Congress]",
+"href": "https://www.cleaver4congress.com/"
+},
+{
+"text": "[image] Laura Osborn",
+"href": "https://www.cleaver4congress.com/updates?author=65021d5b2330db306b513674"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/17FtYGvCao/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cleaverforcongress/"
+},
+{
+"text": "https://www.cleaver4congress.com/",
+"href": "https://click.actionnetwork.org/ss/c/u001.XaF8mXqsA6b2dSPmhsleMROYMb7kdK5qHwfvn-64P0rJSpwdWxSl8JNgf7XFS7NMjJZEq6BQUbgBEZ74pH162DJJjps4XLwFYoHk9gW98M1p-yRdQes5owgsdSv2np1zXdGlkh3vE0IwSK-BtVX2h_S7H3fxJ6lM2lxb6IVXpPLlw9mjv_qY3PKukz_BIZGhbPOAkezbijN0qsO2c06R8rL0SWIO2rqo9vE8k1eC0wTzwGB1bkQCsFp2oyEZEtnZvVsVaBAbteLdbiZCGHqBAUu2ky59iEiE-jKDjYaYbsEfhiNXUHpyKyYdmabXgOndDCPWUx8fmUUt_QDY-lZb4A/4kq/IT3-pNNQTUWROEw4-zO34w/h0/h001.6a3SpV3IuS1dE4Qxsq2LnFUKLKAetWmvH8iChsYiSUA"
+},
+{
+"text": "info@cleaver4congress.com",
+"href": "mailto:info@cleaver4congress.com"
+}
 ]

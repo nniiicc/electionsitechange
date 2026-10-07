@@ -1,4 +1,6 @@
-The purpose of Social Media pages is for Sen.
+Skip to the content Sen.
+Cindy Carlson 4 Idaho ALL IN FOR IDAHO!
+Menu Home Issues Endorsements News Contact My Substack Donate Close Menu Home Issues Endorsements News Contact My Substack Donate Facebook Social Media Policy The purpose of Social Media pages is for Sen.
 Cindy Carlson to communicate with the citizens of District 7 regarding matters of Idaho legislation {and for her constituents to provide pertinent feedback regarding those communications}.
 I welcome your comments, but please note that this is a moderated online discussion site and not a public forum.
 Comments posted to this page will be monitored and must comply with the Social Media policies and these terms of use.
@@ -7,3 +9,5 @@ Cindy Carlson/Carlson for Idaho; (viii) contain personally identifiable informat
 Repeated violations of this policy may result in the inability of the author to comment on future posts.
 For official communication, please email Sen.
 Carlson at ccarlson@senate.idaho.gov.
+Facebook © 2026 Sen.
+Cindy Carlson 4 Idaho Powered by WordPress To the top ↑ Up ↑

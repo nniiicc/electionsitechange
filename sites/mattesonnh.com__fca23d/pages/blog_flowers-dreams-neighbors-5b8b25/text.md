@@ -1,5 +1,4 @@
-Flowers, Dreams, Neighbors
-I came to Epsom to follow a dream.
+Gary Matteson About Gary Priorities Community Contact Donate ← Back to all posts July 23, 2026 Flowers, Dreams, Neighbors I came to Epsom to follow a dream.
 I knew I wanted to start my farm business as a commercial cut flower grower specializing in anemones.
 Within days of moving to Epsom in 1981, neighbors stopped by to help as word spread that I was building greenhouses.
 They worked with me, welcomed me to the community, and taught me how to be a good neighbor myself.
@@ -16,4 +15,5 @@ My late wife, Sabrina, was well known from being active in many community roles.
 Before she died in 2013, Sabrina suggested that her best friend and neighbor in Washington, DC would be a good choice for me.
 I followed her advice and married Michele Clark.
 Epsom is a place where dreams can come true.
-I couldn't have done it without the help of neighbors.
+I couldn't have done it without the help of neighbors. ← Back to all posts Gary Matteson Republican for State Representative Epsom Quick Links About Gary Priorities Community Get in Touch mattesonnh@gmail.com Contact Form Campaign Info 540 Old Mountain Road Epsom, NH 03234 Paid for by GaryMattesonForNH, 540 Old Mountain Road, Epsom, NH, 03234, Michele Clark, Treasurer © # Gary Matteson.
+All rights reserved.

@@ -1,11 +1,6 @@
-Make a plan to vote!
-Election Day
-August 18th
-Early In-Person Voting
-August 8* – 15th
-Mail-in Ballot Requests
-Apply by August 6th
-The Primary Election is on Tuesday, August 18th
-🗳️ Early voting in Alachua County | Aug 7-15th
-🗳️ Early voting in Marion County | Aug 8-15th
-Official election information is available at VoteAlachua.gov, VoteMarion.gov, and MyFloridaElections.com.
+Skip navigation menu Meet Antione Why I'm Running Platform Volunteer Vote Endorsements Resources Donate Voting Information Meet Antione Why I'm Running Platform Volunteer Vote Endorsements Resources Donate Voting Information Vote Make a plan to vote!
+Election Day August 18th Early In-Person Voting August 8* – 15th Mail-in Ballot Requests Apply by August 6th Check if you're registered to vote Register to vote Marion polling locations Alachua polling locations The Primary Election is on Tuesday, August 18th 🗳️ Early voting in Alachua County | Aug 7-15th 🗳️ Early voting in Marion County | Aug 8-15th Official election information is available at VoteAlachua.gov , VoteMarion.gov , and MyFloridaElections.com .
+FLORIDA HOUSE DISTRICT 21 Florida House District 21 includes parts of Gainesville and Ocala, along with surrounding communities in Alachua and Marion counties like Hawthorne, Micanopy, and Reddick.
+Use the map below to confirm whether you live in the district.
+Donate Get Involved News PRIMARY ELECTION DATE: August 18, 2026 Contact: info@fieldsforflorida.com P.O.
+Box 770416 Ocala, FL 34477 Powered by RUN! website builder Paid for by Antione Fields, Democrat for Florida House District 21 You need to enable JavaScript to run this app.

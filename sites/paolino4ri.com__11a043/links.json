@@ -1,6 +1,26 @@
 [
-"https://facebook.com/PaolinoThomas",
-"https://instagram.com/ThomasJPaolino",
-"https://secure.winred.com/friends-of-thomas-paolino/donate-now?qr=true",
-"https://twitter.com/ThomasJPaolino"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-thomas-paolino/donate-now?qr=true"
+},
+{
+"text": "Email",
+"href": "mailto:info@paolino4ri.com"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/PaolinoThomas"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/PaolinoThomas"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ThomasJPaolino/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ThomasJPaolino"
+}
 ]

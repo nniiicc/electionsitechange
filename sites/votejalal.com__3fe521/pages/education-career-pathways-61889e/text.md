@@ -1,10 +1,4 @@
-Building a Future For All Residents
-Strengthening Education and Pathways to the Middle Class
-Fighting for you in Lansing
-Other priorities
-Jalal believes every child in the 15th District deserves access to safe schools, strong teachers, and affordable career pathways.
+Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Volunteer Take Our Survey Donate Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Donate Building a Future For All Residents Strengthening Education and Pathways to the Middle Class Fighting for you in Lansing Other priorities Strong, Safe Neighborhoods Working Families & Local Economy Health Care and Community Wellness Accountable, Community-Driven Leadership Jalal believes every child in the 15th District deserves access to safe schools, strong teachers, and affordable career pathways.
 He’ll advocate for policies that prepare students for both college and skilled trades, ensuring the district’s future workforce thrives.
-Key goals:
-- Increase state support for K–12 funding equity and mental health resources
-- Expand early childhood education access and after-school programs
-- Invest in community college and trade partnerships to strengthen local pipelines to good-paying jobs
+Key goals: Increase state support for K–12 funding equity and mental health resources Expand early childhood education access and after-school programs Invest in community college and trade partnerships to strengthen local pipelines to good-paying jobs Donate by mail: CTE Jalal Abdallah 23035 Sheridan St.
+Dearborn, MI 48124 Home Meet Jalal Priorities Volunteer Donate Connect with us: Contact Privacy Policy Terms of Use | Built by: Brick by Brick PAID FOR BY COMMITTEE TO ELECT JALAL ABDALLAH, PO Box 83, Dearborn Heights, MI 48127

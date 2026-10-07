@@ -1,28 +1,122 @@
 [
-"https://cookiedatabase.org/tcf/purposes",
-"https://fox32chicago.com/news/illinois-bill-stricter-penalties-highway-blockades-protests",
-"https://kanecountyreporter.com/stories/664145645-rep-ugaste-hosts-shred-event-and-food-drive-in-elgin",
-"https://kanecountyreporter.com/stories/664263470-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib",
-"https://nbcchicago.com/news/local/protesters-who-block-major-roads-could-be-charged-with-a-felony-under-proposed-illinois-bill/3415687?os=vbkn42&amp=1",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today",
-"https://ugasteforillinois.com/",
-"https://ugasteforillinois.com/about",
-"https://ugasteforillinois.com/author/ugasteadmin",
-"https://ugasteforillinois.com/author/ugasteadmin/page/16",
-"https://ugasteforillinois.com/author/ugasteadmin/page/2",
-"https://ugasteforillinois.com/author/ugasteadmin/page/3",
-"https://ugasteforillinois.com/author/ugasteadmin/page/4",
-"https://ugasteforillinois.com/author/ugasteadmin/page/5",
-"https://ugasteforillinois.com/contact",
-"https://ugasteforillinois.com/dan-ugaste-earns-small-business-association-endorsement-2",
-"https://ugasteforillinois.com/dans-plan-for-illinois",
-"https://ugasteforillinois.com/in-case-you-missed-it-protesters-who-block-major-roads-could-be-charged-with-a-felony-under-proposed-illinois-bill",
-"https://ugasteforillinois.com/in-case-you-missed-it-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib",
-"https://ugasteforillinois.com/in-case-you-missed-it-rep-ugaste-hosts-shred-event-and-food-drive-in-elgin",
-"https://ugasteforillinois.com/in-case-you-missed-it-we-have-a-right-illinois-bill-would-crack-down-on-roadway-protesters",
-"https://ugasteforillinois.com/issues",
-"https://ugasteforillinois.com/news",
-"https://ugasteforillinois.com/ugaste-endorsed-by-chicago-firefighters",
-"https://ugasteforillinois.com/volunteer",
-"https://ugasteforillinois.com/wp-login.php"
+{
+"text": "About",
+"href": "https://ugasteforillinois.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ugasteforillinois.com/contact/"
+},
+{
+"text": "Dan Ugaste Earns Small Business Association Endorsement",
+"href": "https://ugasteforillinois.com/dan-ugaste-earns-small-business-association-endorsement-2/"
+},
+{
+"text": "Dan@UgasteforIllinois.com",
+"href": "mailto:Dan@UgasteforIllinois.com"
+},
+{
+"text": "Dan’s Plan for Illinois",
+"href": "https://ugasteforillinois.com/dans-plan-for-illinois/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today"
+},
+{
+"text": "Go to Next Page »",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/4/"
+},
+{
+"text": "Home",
+"href": "https://ugasteforillinois.com/"
+},
+{
+"text": "In Case you Missed it: Protesters who block major roads could be charged with a felony under proposed Illinois bill",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-protesters-who-block-major-roads-could-be-charged-with-a-felony-under-proposed-illinois-bill/"
+},
+{
+"text": "In Case you Missed it: We have a right’: Illinois bill would crack down on roadway protesters",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-we-have-a-right-illinois-bill-would-crack-down-on-roadway-protesters/"
+},
+{
+"text": "In case you missed it: Rep. Dan Ugaste receives Guardian of Small Business Award from NFIB",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib/"
+},
+{
+"text": "In case you missed it: Rep. Ugaste hosts shred event and food drive in Elgin",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-rep-ugaste-hosts-shred-event-and-food-drive-in-elgin/"
+},
+{
+"text": "Issues",
+"href": "https://ugasteforillinois.com/issues/"
+},
+{
+"text": "Log in",
+"href": "https://ugasteforillinois.com/wp-login.php"
+},
+{
+"text": "News",
+"href": "https://ugasteforillinois.com/news/"
+},
+{
+"text": "Page 1",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/"
+},
+{
+"text": "Page 16",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/16/"
+},
+{
+"text": "Page 2",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/2/"
+},
+{
+"text": "Page 3",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/3/"
+},
+{
+"text": "Page 4",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/4/"
+},
+{
+"text": "Page 5",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/5/"
+},
+{
+"text": "Read more here",
+"href": "https://kanecountyreporter.com/stories/664145645-rep-ugaste-hosts-shred-event-and-food-drive-in-elgin"
+},
+{
+"text": "Read more here",
+"href": "https://kanecountyreporter.com/stories/664263470-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib"
+},
+{
+"text": "Ugaste Admin",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/"
+},
+{
+"text": "Ugaste endorsed by Chicago Firefighters",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-by-chicago-firefighters/"
+},
+{
+"text": "Volunteer",
+"href": "https://ugasteforillinois.com/volunteer/"
+},
+{
+"text": "[image: Dan Ugaste for State Representative]",
+"href": "https://ugasteforillinois.com/"
+},
+{
+"text": "watch Here.",
+"href": "https://www.fox32chicago.com/news/illinois-bill-stricter-penalties-highway-blockades-protests"
+},
+{
+"text": "watch the story here on NBC 5 Chicago",
+"href": "https://www.nbcchicago.com/news/local/protesters-who-block-major-roads-could-be-charged-with-a-felony-under-proposed-illinois-bill/3415687/?os=vbkn42&amp=1"
+},
+{
+"text": "« Go to Previous Page",
+"href": "https://ugasteforillinois.com/author/ugasteadmin/page/2/"
+}
 ]

@@ -1,7 +1,26 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"https://hellingforwyoming.com/",
-"https://hellingforwyoming.com/about-kevin",
-"https://secure.winred.com/kevin-helling-for-wyoming/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/kevin-helling-for-wyoming/donate-today"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/kevin-helling-for-wyoming/donate-today"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://www.hellingforwyoming.com#volunteer%20sign-up"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.hellingforwyoming.com/about-kevin"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+}
 ]

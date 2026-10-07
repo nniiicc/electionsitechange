@@ -1,7 +1,11 @@
 {
  "description": "Donate securely to Cinquemani for Congress, Joe Cinquemani's campaign for New York's 16th Congressional District.",
  "final_url": "https://www.cinquemaniforcongress2026.com/donate",
+ "fingerprint": "53cf0fbe535f107be0134dea404d2892be0e3852",
+ "format": 3,
  "paid_for_by": "Paid for by Cinquemani for Congress",
  "title": "Donate | Cinquemani for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

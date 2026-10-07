@@ -1,42 +1,194 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/what-id-do.html",
-"https://andycantwin.com/workshop",
-"https://brennancenter.org/",
-"https://carolinajournal.com/applications-for-opportunity-scholarship-open-as-enrollment-surpasses-100k-students",
-"https://commonwealthfund.org/blog/2025/states-responses-hr-1-cuts-medicaid-funding",
-"https://facebook.com/andycantwin",
-"https://goodjobsfirst.org/virginia-data-center-annual-losses-top-1-billion",
-"https://govdocs.com/how-many-states-have-a-15-minimum-wage",
-"https://instagram.com/andycantwin",
-"https://itep.org/wealth-proceeds-tax-net-investment-income-tax",
-"https://itep.org/whopays",
-"https://jenwilesnchouse.com/",
-"https://jenwilesnchouse.com/peoplepoweredplan",
-"https://kahnlitwin.com/blogs/tax-blog/maryland-and-washington-expand-sales-tax-to-technology-and-service-based-businesses-in-2025",
-"https://medicaid.ncdhhs.gov/beneficiaries/nc-innovations-waiver",
-"https://mrsc.org/stay-informed/mrsc-insight/october-2025/retail-sales-tax-update",
-"https://ncbudget.org/citfactsheet",
-"https://ncbudget.org/fundourfuturefactsheet",
-"https://ncbudget.org/its-time-for-a-millionaires-tax-in-north-carolina",
-"https://ncbudget.org/north-carolina-needs-smart-property-tax-relief-not-reckless-revenue-limits",
-"https://ncdor.gov/",
-"https://ncdor.gov/news/reports-and-statistics/statistical-abstract-north-carolina-taxes",
-"https://ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules",
-"https://ncjustice.org/",
-"https://ncwaiveractionteam.com/the_nc_registry",
-"https://nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank",
-"https://secure.actblue.com/donate/andybowline",
-"https://taxfoundation.org/",
-"https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets",
-"https://taxfoundation.org/data/all/state/state-income-tax-rates-2026",
-"https://taxfoundation.org/location/north-carolina",
-"https://taxfoundation.org/research/all/state/data-centers-taxation",
-"https://taxfoundation.org/research/all/state/state-sales-tax-reform-guide",
-"https://vpm.org/generalassembly/2026-03-12/budget-data-center-tax-break-scott-lucas-spanberger-torian-rephann",
-"https://wunc.org/",
-"https://wunc.org/education/2024-11-20/nc-voucher-expansion-pass-private-school",
-"https://wunc.org/education/2025-06-05/private-school-voucher-recipients-nc-opportunity-scholarship"
+{
+"text": "\"Wealth Proceeds Tax\" framework",
+"href": "https://itep.org/wealth-proceeds-tax-net-investment-income-tax/"
+},
+{
+"text": "#% heading to #%",
+"href": "https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules"
+},
+{
+"text": "#M/yr from a #% surcharge on #M+ incomes alone",
+"href": "https://ncbudget.org/its-time-for-a-millionaires-tax-in-north-carolina/"
+},
+{
+"text": "$18B/yr in foregone revenue",
+"href": "https://ncbudget.org/fundourfuturefactsheet/"
+},
+{
+"text": "$40 billion in projected federal cuts over the next decade",
+"href": "https://www.commonwealthfund.org/blog/2025/states-responses-hr-1-cuts-medicaid-funding"
+},
+{
+"text": "$6.5B committed through 2033, zero accountability standards",
+"href": "https://www.wunc.org/education/2024-11-20/nc-voucher-expansion-pass-private-school"
+},
+{
+"text": "04 Next up What I'd Do →",
+"href": "https://andycantwin.com/what-id-do.html"
+},
+{
+"text": "104K+ students enrolled",
+"href": "https://www.carolinajournal.com/applications-for-opportunity-scholarship-open-as-enrollment-surpasses-100k-students/"
+},
+{
+"text": "2% rate is the lowest in the nation",
+"href": "https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/"
+},
+{
+"text": "9.5 years, and Forsyth County hasn't enrolled a new registrant in four",
+"href": "https://www.ncwaiveractionteam.com/the_nc_registry"
+},
+{
+"text": "90% of recipients already in private school",
+"href": "https://www.wunc.org/education/2025-06-05/private-school-voucher-recipients-nc-opportunity-scholarship"
+},
+{
+"text": "A $15 minimum wage is already the floor in 17 states and D.C.",
+"href": "https://www.govdocs.com/how-many-states-have-a-15-minimum-wage/"
+},
+{
+"text": "BTC: the state should keep its corporate income tax",
+"href": "https://ncbudget.org/citfactsheet/"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Brennan Center for Justice",
+"href": "https://www.brennancenter.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Educator Pay and Student Spending: How Does Your State Rank?, NEA",
+"href": "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Florida tightened its exemption to 100MW+",
+"href": "https://taxfoundation.org/research/all/state/data-centers-taxation/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Maryland enacted a 2% surcharge on gains for income over $350K",
+"href": "https://itep.org/wealth-proceeds-tax-net-investment-income-tax/"
+},
+{
+"text": "Maryland enacted a 3% tax on data/IT services",
+"href": "https://kahnlitwin.com/blogs/tax-blog/maryland-and-washington-expand-sales-tax-to-technology-and-service-based-businesses-in-2025"
+},
+{
+"text": "NC Budget & Tax Center (NC Justice Center)",
+"href": "https://www.ncjustice.org/"
+},
+{
+"text": "NC DOR Tax Expenditure Reports",
+"href": "https://www.ncdor.gov/news/reports-and-statistics/statistical-abstract-north-carolina-taxes"
+},
+{
+"text": "NC Department of Revenue",
+"href": "https://www.ncdor.gov/"
+},
+{
+"text": "NCDOR",
+"href": "https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules"
+},
+{
+"text": "North Carolina Tax Data, Tax Foundation",
+"href": "https://taxfoundation.org/location/north-carolina/"
+},
+{
+"text": "North Carolina's Innovations Waiver waitlist",
+"href": "https://medicaid.ncdhhs.gov/beneficiaries/nc-innovations-waiver"
+},
+{
+"text": "People-Powered Plan",
+"href": "https://www.jenwilesnchouse.com/peoplepoweredplan"
+},
+{
+"text": "People-Powered Plan, Jen Wiles for NC House 75",
+"href": "https://www.jenwilesnchouse.com/peoplepoweredplan"
+},
+{
+"text": "See all the plans →",
+"href": "https://andycantwin.com/what-id-do.html"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "South Carolina requires 25 jobs at 150% county income",
+"href": "https://taxfoundation.org/research/all/state/data-centers-taxation/"
+},
+{
+"text": "Tax Foundation",
+"href": "https://taxfoundation.org/"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Virginia's JLARC found that data center tax exemptions cost the state over $1 billion in FY 2024",
+"href": "https://goodjobsfirst.org/virginia-data-center-annual-losses-top-1-billion/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WUNC Public Radio (NC education and tax reporting)",
+"href": "https://www.wunc.org/"
+},
+{
+"text": "Washington expanded sales tax to professional services",
+"href": "https://mrsc.org/stay-informed/mrsc-insight/october-2025/retail-sales-tax-update"
+},
+{
+"text": "Washington expanded to a graduated structure, 9% top rate on gains over $1M",
+"href": "https://taxfoundation.org/data/all/state/state-income-tax-rates-2026/"
+},
+{
+"text": "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States, ITEP",
+"href": "https://itep.org/whopays/"
+},
+{
+"text": "[image: Jen Wiles, candidate for NC House District 75] ↑This is Jen",
+"href": "https://www.jenwilesnchouse.com/"
+},
+{
+"text": "all-in effective tax rate for data centers is 24% of net income, the lowest of any major market nationally",
+"href": "https://taxfoundation.org/research/all/state/data-centers-taxation/"
+},
+{
+"text": "exempting services is regressive",
+"href": "https://taxfoundation.org/research/all/state/state-sales-tax-reform-guide/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "jumping to $1.6 billion in FY 2025",
+"href": "https://www.vpm.org/generalassembly/2026-03-12/budget-data-center-tax-break-scott-lucas-spanberger-torian-rephann"
+},
+{
+"text": "proposes capping the counties' ability to compensate",
+"href": "https://ncbudget.org/north-carolina-needs-smart-property-tax-relief-not-reckless-revenue-limits/"
+},
+{
+"text": "← Back to What I'd Do",
+"href": "https://andycantwin.com/what-id-do.html"
+}
 ]

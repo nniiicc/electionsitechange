@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.voterondunn.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "6de233d51e6c3ded64f49ba482dc3f5349228de7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

@@ -1,6 +1,5 @@
-top of page
-IMMIGRATION
-We are a nation of immigrants.
+top of page Home The Issues Affordability Immigration Education Public Safety Platform Meet John Get Involved District 19 Blog Donate More Use tab to navigate through the menu items.
+IMMIGRATION We are a nation of immigrants.
 Franz and Ingeburg, my parents, came over in the 1950s.
 In fact, on the block I grew up on, if your parents were not immigrants, your grandparents were.
 That is a fairly typical Chicago story.
@@ -13,4 +12,5 @@ Yet they somehow found over $700,000,000 for 50,000 non-citizens, turning their 
 That is unconscionable.
 We should be able to fund immigration without raising taxes, admitting as many people as we responsibly can in an economically sustainable way so that we can continue to do so well into the future.
 We can be compassionate, smart, and economically disciplined as we build a sustainable future for current Americans and new ones alike.
-bottom of page
+REGISTER TO VOTE!
+Log In Terms & Conditions Privacy Policy Accessibility Statement bottom of page

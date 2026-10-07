@@ -1,13 +1,50 @@
 [
-"https://briantics.com/",
-"https://facebook.com/RussellBedsole",
-"https://russellbedsole.com/",
-"https://russellbedsole.com/bio",
-"https://russellbedsole.com/connect",
-"https://russellbedsole.com/donate",
-"https://russellbedsole.com/endorsements",
-"https://russellbedsole.com/give",
-"https://russellbedsole.com/issues",
-"https://russellbedsole.com/privacy-policy",
-"https://twitter.com/russellbedsole?lang=en"
+{
+"text": "BRIANTICS, INC.",
+"href": "https://briantics.com"
+},
+{
+"text": "Bio",
+"href": "https://russellbedsole.com/bio/"
+},
+{
+"text": "Connect",
+"href": "https://russellbedsole.com/connect/"
+},
+{
+"text": "Donate Online",
+"href": "https://russellbedsole.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://russellbedsole.com/endorsements/"
+},
+{
+"text": "Give",
+"href": "https://russellbedsole.com/give/"
+},
+{
+"text": "Issues",
+"href": "https://russellbedsole.com/issues/"
+},
+{
+"text": "Russell Bedsole",
+"href": "https://russellbedsole.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/russellbedsole?lang=en"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/RussellBedsole/"
+},
+{
+"text": "[tooltip: ]",
+"href": "mailto:russell@russellbedsole.com"
+},
+{
+"text": "privacy policy",
+"href": "https://russellbedsole.com/privacy-policy/"
+}
 ]

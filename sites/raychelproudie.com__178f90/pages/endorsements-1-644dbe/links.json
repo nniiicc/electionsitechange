@@ -1,14 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSddXGz1LsKT-WWz7ePTbvyKi5C0xUxenlq33KlTtx7SUaDaIQ/viewform?pli=1",
-"https://docs.google.com/forms/d/e/1FAIpQLSfw3bkecTnaiTr0pVyEwhPia1Z_lq8b5I4V5WHO9sdBda9mDw/viewform",
-"https://instagram.com/rcproudie?hl=en",
-"https://raychelproudie.com/",
-"https://raychelproudie.com/about",
-"https://raychelproudie.com/contact-10",
-"https://raychelproudie.com/endorsements-1",
-"https://raychelproudie.com/events",
-"https://raychelproudie.com/health-care",
-"https://raychelproudie.com/public-safety",
-"https://secure.actblue.com/donate/voteproud14",
-"https://tiktok.com/@urfaverep"
+{
+"text": "About",
+"href": "https://www.raychelproudie.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.raychelproudie.com/contact-10"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/voteproud14"
+},
+{
+"text": "Endorsements",
+"href": "https://www.raychelproudie.com/endorsements-1"
+},
+{
+"text": "Get Your Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfw3bkecTnaiTr0pVyEwhPia1Z_lq8b5I4V5WHO9sdBda9mDw/viewform"
+},
+{
+"text": "Health Care",
+"href": "https://www.raychelproudie.com/health-care"
+},
+{
+"text": "Home",
+"href": "https://www.raychelproudie.com"
+},
+{
+"text": "In the News",
+"href": "https://www.raychelproudie.com/events"
+},
+{
+"text": "Public Safety",
+"href": "https://www.raychelproudie.com/public-safety"
+},
+{
+"text": "Volunteer Canvass",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSddXGz1LsKT-WWz7ePTbvyKi5C0xUxenlq33KlTtx7SUaDaIQ/viewform?pli=1"
+},
+{
+"text": "VotePROUD@RaychelProudie.com",
+"href": "mailto:VotePROUD@RaychelProudie.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.tiktok.com/@urfaverep"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/rcproudie/?hl=en"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@urfaverep"
+}
 ]

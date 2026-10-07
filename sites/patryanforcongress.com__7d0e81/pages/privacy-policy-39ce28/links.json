@@ -1,21 +1,86 @@
 [
-"http://allaboutcookies.org/",
-"http://networkadvertising.org/understanding-online-advertising/how-does-it-work",
-"http://optout.aboutads.info/",
-"http://patryanforcongress.com/",
-"https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
-"https://facebook.com/PatRyanUC",
-"https://facebook.com/settings?tab=ads",
-"https://forms.gle/wjDLbvxUpRhRWYm49",
-"https://google.com/intl/en/policies/privacy",
-"https://google.com/settings/ads/anonymous",
-"https://patryanforcongress.com/",
-"https://patryanforcongress.com/priorities",
-"https://patryanforcongress.com/privacy-policy",
-"https://patryanforcongress.com/resources",
-"https://patryanforcongress.com/volunteer",
-"https://patryanforcongress.myshopify.com/",
-"https://secure.actblue.com/donate/pr-web",
-"https://tools.google.com/dlpage/gaoptout",
-"https://twitter.com/patryanuc"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pr-web"
+},
+{
+"text": "HOME",
+"href": "https://www.patryanforcongress.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.patryanforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.patryanforcongress.com/privacy-policy"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://forms.gle/wjDLbvxUpRhRWYm49"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.patryanforcongress.com/resources"
+},
+{
+"text": "STORE",
+"href": "https://patryanforcongress.myshopify.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.patryanforcongress.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PatRyanUC"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/patryanuc"
+},
+{
+"text": "[image]",
+"href": "https://www.patryanforcongress.com"
+},
+{
+"text": "http://optout.aboutads.info/",
+"href": "http://optout.aboutads.info/"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org/"
+},
+{
+"text": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work",
+"href": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work"
+},
+{
+"text": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
+"href": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.facebook.com/settings/?tab=ads",
+"href": "https://www.facebook.com/settings/?tab=ads"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy/",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "https://www.google.com/settings/ads/anonymous",
+"href": "https://www.google.com/settings/ads/anonymous"
+},
+{
+"text": "info@patryanforcongress.com",
+"href": "mailto:info@patryanforcongress.com"
+},
+{
+"text": "www.patryanforcongress.com",
+"href": "http://www.patryanforcongress.com"
+}
 ]

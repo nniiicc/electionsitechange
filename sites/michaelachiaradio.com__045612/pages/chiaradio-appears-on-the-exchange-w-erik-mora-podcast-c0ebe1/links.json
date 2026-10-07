@@ -1,16 +1,66 @@
 [
-"http://instagram.com/michaelachiaradio",
-"http://tiktok.com/@michaelachiaradio",
-"https://bsky.app/profile/michaelachiaradio.bsky.social",
-"https://facebook.com/michaelachiaradio",
-"https://michaelachiaradio.com/",
-"https://michaelachiaradio.com/about-me",
-"https://michaelachiaradio.com/contact",
-"https://michaelachiaradio.com/issues",
-"https://michaelachiaradio.com/news",
-"https://riv.zoy.temporary.site/privacy-policy",
-"https://secure.actblue.com/donate/michael-a-chiaradio",
-"https://shop.michaelachiaradio.com/",
-"https://youtube.com/@michaelachiaradio",
-"https://youtube.com/watch?v=LNzGKChHXvs"
+{
+"text": "About Me",
+"href": "https://michaelachiaradio.com/about-me/"
+},
+{
+"text": "Contact",
+"href": "https://michaelachiaradio.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/michaelachiaradio"
+},
+{
+"text": "Home",
+"href": "https://michaelachiaradio.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/michaelachiaradio"
+},
+{
+"text": "Issues",
+"href": "https://michaelachiaradio.com/issues/"
+},
+{
+"text": "News",
+"href": "https://michaelachiaradio.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://riv.zoy.temporary.site/privacy-policy/"
+},
+{
+"text": "SHOP",
+"href": "https://shop.michaelachiaradio.com"
+},
+{
+"text": "Tiktok",
+"href": "http://tiktok.com/@michaelachiaradio"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@michaelachiaradio"
+},
+{
+"text": "[image]",
+"href": "https://michaelachiaradio.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/michaelachiaradio.bsky.social"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/michael-a-chiaradio"
+},
+{
+"text": "https://secure.actblue.com/donate/michael-a-chiaradio",
+"href": "https://secure.actblue.com/donate/michael-a-chiaradio"
+},
+{
+"text": "https://www.youtube.com/watch?v=LNzGKChHXvs",
+"href": "https://www.youtube.com/watch?v=LNzGKChHXvs"
+}
 ]

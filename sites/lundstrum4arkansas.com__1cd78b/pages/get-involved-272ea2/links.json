@@ -1,49 +1,194 @@
 [
-"http://therichlandgroup.com/",
-"https://facebook.com/Robin-Lundstrum-457537847631425",
-"https://lundstrum4arkansas.com/",
-"https://lundstrum4arkansas.com/about-robin",
-"https://lundstrum4arkansas.com/contact-us",
-"https://lundstrum4arkansas.com/donate-to-our-campaign",
-"https://lundstrum4arkansas.com/get-involved",
-"https://lundstrum4arkansas.com/links",
-"https://lundstrum4arkansas.com/map",
-"https://lundstrum4arkansas.com/privacy-policy",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/After-giving-Salute-to-Veterns-Speech.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/Campaign-Team-in-Front-of-Gazebo-in-Siloam-Springs.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_0520-e1516817303303.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_0535.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_4334.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_5380.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/November-2015-me-Tex-Hol-at-Srindale-moring-brew.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/Washington-crew-at-RPA-HQ-opening.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/lundstrum-family.png",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/01/robin-issues.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/3-Lundstrums-FBI-Citizens-Academy-Gradutes.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/After-giving-Salute-to-Veterns-Speech.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0355-e1520289658413.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0364-e1520289639838.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0447-e1520289776266.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0462.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0506.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0516-e1521569948226.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_5387.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/Me-and-Mom-e1520289598277.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/Me-and-Womack-e1521569992608.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/November-2015-w-James-Maxwell-e1521569976219.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/03/Presenting-Bill-e1520289575296.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2018/04/CCE04082018.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4249.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4266.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4293.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4320.jpg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4330.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4627.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4680.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4785.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_5438.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_5876.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_8553-scaled.jpeg",
-"https://lundstrum4arkansas.com/wp-content/uploads/2022/02/red_truck.png",
-"https://twitter.com/RobinLundstrum"
+{
+"text": "Contact",
+"href": "https://lundstrum4arkansas.com/contact-us/"
+},
+{
+"text": "District 18",
+"href": "https://lundstrum4arkansas.com/map/"
+},
+{
+"text": "Donate",
+"href": "https://lundstrum4arkansas.com/donate-to-our-campaign/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Robin-Lundstrum-457537847631425/"
+},
+{
+"text": "Get Involved!",
+"href": "https://lundstrum4arkansas.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lundstrum4arkansas.com/"
+},
+{
+"text": "Links",
+"href": "https://lundstrum4arkansas.com/links/"
+},
+{
+"text": "Meet Robin",
+"href": "https://lundstrum4arkansas.com/about-robin/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lundstrum4arkansas.com/privacy-policy/"
+},
+{
+"text": "The Richland Group",
+"href": "http://therichlandgroup.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/RobinLundstrum"
+},
+{
+"text": "[image: Lundstrum for Arkansas]",
+"href": "https://lundstrum4arkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/After-giving-Salute-to-Veterns-Speech.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/Campaign-Team-in-Front-of-Gazebo-in-Siloam-Springs.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_0520-e1516817303303.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_0535.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_4334.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/IMG_5380.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/November-2015-me-Tex-Hol-at-Srindale-moring-brew.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/Washington-crew-at-RPA-HQ-opening.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/lundstrum-family.png"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/01/robin-issues.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/3-Lundstrums-FBI-Citizens-Academy-Gradutes.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/After-giving-Salute-to-Veterns-Speech.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0355-e1520289658413.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0364-e1520289639838.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0447-e1520289776266.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0462.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0506.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_0516-e1521569948226.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/IMG_5387.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/Me-and-Mom-e1520289598277.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/Me-and-Womack-e1521569992608.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/November-2015-w-James-Maxwell-e1521569976219.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/03/Presenting-Bill-e1520289575296.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2018/04/CCE04082018.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4249.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4266.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4293.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4320.jpg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4330.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4627.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4680.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_4785.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_5438.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_5876.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/IMG_8553-scaled.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://lundstrum4arkansas.com/wp-content/uploads/2022/02/red_truck.png"
+}
 ]

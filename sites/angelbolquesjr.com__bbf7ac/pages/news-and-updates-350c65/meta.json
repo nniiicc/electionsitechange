@@ -1,10 +1,13 @@
 {
  "description": "Stay updated with the latest news and updates from Senator Angel Bolques Jr. Learn about legislative achievements, renewable energy advancements, public safet...",
  "final_url": "https://www.angelbolquesjr.com/news-and-updates",
- "paid_for_by": null,
+ "fingerprint": "9ebd8fbe3f07e0a11c8fe5368f8579975c7411a4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Senator Bolques News and Updates",
  "years_mentioned": [
   "2012",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

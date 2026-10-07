@@ -1,8 +1,6 @@
-I’m Sara Fuchs
-I've spent six years making the State House work from the inside.
+0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in I’m Sara Fuchs I've spent six years making the State House work from the inside.
 Now I'm asking for a seat in it.
-I’m Sara Fuchs
-I've spent six years making the State House work from the inside.
+I’m Sara Fuchs I've spent six years making the State House work from the inside.
 Now I'm asking for a seat in it.
 Why I’m running.
 I didn’t wake up one day and decide to run for office.
@@ -17,13 +15,13 @@ That’s the job I’m asking you to give me.
 Why I’m qualified.
 I’m not new to this.
 I’ve been in the State House where it happens.
-- I know how the State House works.
+I know how the State House works.
 Six years inside it, tracking legislation, negotiating across the aisle, and turning process into results for constituents.
-- I know what it means to govern from the minority, and how to win real victories without holding the gavel.
-- I know how to win campaigns.
+I know what it means to govern from the minority, and how to win real victories without holding the gavel.
+I know how to win campaigns.
 I started as a volunteer on the 2018 campaign that flipped Buckhead’s House seat for the first time in a generation, then went on to manage winning re-election campaigns as campaign manager.
-- I know how to manage people, budgets, and crises—from a $250,000 preservation grant at Emory University to a school PTA budget that puts food in kids’ backpacks every week.
-My story.
+I know how to manage people, budgets, and crises—from a $250,000 preservation grant at Emory University to a school PTA budget that puts food in kids’ backpacks every week.
+My story .
 I grew up in east Cobb and live in Roswell, Georgia with my husband Raúl Santelices, our sons Raúl Leo (13) and Tomás (12), and our rescue dog, Butter.
 I’m a librarian, political consultant, campaign manager, and longtime advocate for strong schools, thriving communities, and access to information and opportunity.
 I’ve spent my career working in higher education, libraries, archives, and cultural institutions.
@@ -45,3 +43,8 @@ Chip in today & help bring new leadership to Georgia House District 49!
 Our opponent has a two-decade head start and the name recognition to match.
 Our campaign runs on neighbors supporting neighbors, not corporate PACs.
 Every dollar goes toward knocking on doors, reaching voters, and making sure the people of District 49 are heard.
+Support our campaign!
+Support our campaign!
+Volunteer with us!
+Georgia’s 49th state house district includes Alpharetta , Milton , & Roswell Early voting begins October 13, 2026 Election Day is Tuesday, November 3, 2026 Contact me Paid for by Sara Fuchs for Georgia. ©# Sara Fuchs.
+All rights reserved.

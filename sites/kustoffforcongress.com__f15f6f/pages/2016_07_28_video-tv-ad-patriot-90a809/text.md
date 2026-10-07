@@ -1,13 +1,1 @@
-" />
-" />
-">
-Toggle navigation
-Home
-About
-Issues
-News
-Volunteer
-Contact
-Donate
-Video: TV Ad – Patriot
-July 28, 2016
+" /> " /> "> Toggle navigation Home About Issues News Volunteer Contact Donate Video: TV Ad – Patriot July 28, 2016 Home About Issues News Volunteer Contact Donate Paid for by Kustoff for Congress Privacy Policy | Terms & Conditions

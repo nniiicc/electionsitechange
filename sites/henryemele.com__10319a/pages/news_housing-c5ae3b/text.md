@@ -1,9 +1,7 @@
-Speaking Up for Manchester Families on Housing
-Last night I stood before the Board of Mayor and Aldermen at City Hall and spoke about something I hear about constantly from neighbors here in Ward 7: the cost of housing in our city.
+0 Skip to Content Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Speaking Up for Manchester Families on Housing Jul 8 Written By Kara Myrick-Emele Last night I stood before the Board of Mayor and Aldermen at City Hall and spoke about something I hear about constantly from neighbors here in Ward 7: the cost of housing in our city.
 I went as a resident, not as a candidate.
 I went as a husband, a father of two young boys, and a business owner who believes Manchester's best days are still ahead of it.
-Why housing
-For many people, the American Dream begins with having a safe place to call home.
+Why housing For many people, the American Dream begins with having a safe place to call home.
 That dream is getting harder to reach in Manchester.
 Young families are struggling to buy a first home.
 Seniors on fixed incomes are watching costs climb faster than their budgets.
@@ -12,21 +10,14 @@ This is not only a housing issue.
 It is an economic issue, a workforce issue, and a community issue.
 The same rising costs that price out young families and seniors are also fueling the housing instability we see on our streets.
 If we want real progress on homelessness, we have to build the affordable and workforce housing that gives people a stable place to land.
-What I asked the Board to consider
-I told the Board that as Manchester grows, we have to grow wisely.
-That means:
-- Encouraging responsible development that expands housing while protecting the character of our neighborhoods
-- Making it easier to redevelop vacant and underused properties
-- Reducing unnecessary delays in the permitting process
-- Supporting a wider range of housing options, from starter homes and townhouses to workforce housing and apartments working families can actually afford
-Growth should never come at the expense of our neighborhoods.
+What I asked the Board to consider I told the Board that as Manchester grows, we have to grow wisely.
+That means: Encouraging responsible development that expands housing while protecting the character of our neighborhoods Making it easier to redevelop vacant and underused properties Reducing unnecessary delays in the permitting process Supporting a wider range of housing options, from starter homes and townhouses to workforce housing and apartments working families can actually afford Growth should never come at the expense of our neighborhoods.
 But neither should fear of change stop us from addressing a problem that affects thousands of our neighbors.
 I also said something I believe strongly: residents deserve to be heard before major decisions are made.
 The strongest solutions come when local government and the community work together.
 That is not a slogan.
 It is the reason I showed up and signed the speaker list like any other resident.
-Manchester is worth it
-Manchester has always been a city built by hardworking people.
+Manchester is worth it Manchester has always been a city built by hardworking people.
 People who believe that if you work hard, raise your family, and contribute to your community, you should be able to build a good life here.
 That is a vision worth protecting.
 I want a Manchester where our children can afford to stay, where our seniors can afford to remain, and where our workforce can afford to live.
@@ -34,8 +25,7 @@ I am grateful to the Mayor and the Aldermen for their service, and for the time 
 This is a conversation I intend to keep having, at City Hall, in Concord, and at doors across Ward 7.
 If housing costs are weighing on your family, I would like to hear about it.
 Reach out anytime.
-The statement I submitted to the Board
-Below is the full text I read and provided to the Board of Mayor and Aldermen on July 7, 2026.
+The statement I submitted to the Board Below is the full text I read and provided to the Board of Mayor and Aldermen on July 7, 2026.
 Good evening, Mr.
 Mayor and members of the Board.
 My name is Henry Emele, and I am a proud resident of Ward 7.
@@ -61,5 +51,13 @@ Manchester has always been a city built by hardworking people, people who believ
 That is a vision worth protecting.
 I hope we can continue working together to make Manchester a city where our children can afford to stay, where our seniors can afford to remain, where our workforce can afford to live, and where future generations will have the same opportunities that drew so many of us here.
 Thank you for your time, your service, and your commitment to the people of Manchester.
-Henry Osinachi Emele
-Resident, Ward 7
+Henry Osinachi Emele Resident, Ward 7 Kara Myrick-Emele http://www.karamyrick.com Previous Previous Before I ask you for your vote, I'm asking for your voice.
+Next Next Why I’m Running: My Commitment to Manchester Ward 7 Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up to join Henry Emele’s campaign for New Hampshire State Representative.
+Email Address Sign Up We respect your privacy.
+Thanks for signing up!
+We'll be in touch soon to find the best way for you to help.
+Meet Henry Issues Volunteer Contact Us HENRY EMELE Paid for by Henry Emele for NH State Representative ©# Henry Emele for NH State Representative.
+All Rights Reserved.
+Privacy & Terms

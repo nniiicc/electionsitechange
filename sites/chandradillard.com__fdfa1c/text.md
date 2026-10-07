@@ -1,6 +1,4 @@
-The Honorable Chandra Dillard
-South Carolina House of Representatives, District 23
-Chandra Dillard has been a State Representative from Greenville County since 2008.
+Chandra Dillard State House The Honorable Chandra Dillard South Carolina House of Representatives, District 23 Chandra Dillard has been a State Representative from Greenville County since 2008.
 She began her public service on Greenville City Council in 1999 by making history as the first woman elected from her district.
 Chandra currently serves as the SC House Deputy Minority Leader, a Member and past Treasurer of the South Carolina Legislative Black Caucus, and a Member and past Chair of the SC General Assembly Women’s Caucus.
 Chandra currently serves on the Ways and Means Committee.
@@ -16,12 +14,8 @@ She is also a graduate of Leadership Greenville, Furman’s Riley Institute Dive
 She is a member of Alpha Kappa Alpha Sorority, Inc. and a lay servant at John Wesley United Methodist Church.
 Chandra’s efforts to improve her state and community have not gone unnoticed but have been recognized by the numerous local, statewide, and national awards and honors she has received.
 And while she’s grateful for the recognitions, she takes greater pride in the “team efforts” to improve the quality of life for those persons who are often unseen and underserved.
-- Education & Early Childhood Services
-- Healthcare
-- Affordable Housing
-- Environment & Natural Resources
-- Economic Development
-Current legislation
-To view Chandra’s State House page where the bills she’s sponsored are available to read, please click here.
+Education & Early Childhood Services Healthcare Affordable Housing Environment & Natural Resources Economic Development Current legislation To view Chandra’s State House page where the bills she’s sponsored are available to read, please click here .
 Are you registered in SC House District 23?
-To make sure that you’re registered to vote for Chandra in SC House District 23, please click here.
+To make sure that you’re registered to vote for Chandra in SC House District 23, please click here .
+Back to top © FRIENDS OF CHANDRA DILLARD chandra@chandradillard.com | 864.915.1276 | PO Box 16616, Greenville, SC 29606 Please enable JavaScript in your browser to complete this form.
+First Last Email * Comment or Message * SEND

@@ -1,3 +1,2 @@
-Representative Jeremy Wooldridge Announces Bid for Arkansas State Senate District 21
-June 16, 2025
-Republican Representative Jeremy Wooldridge announced that he will run for Arkansas State Senate District 21, which contains all of Clay, Randolph, and Greene Counties, and a portion of Lawrence County.
+Home Meet Jeremy News Volunteer Voting Info Donate Donate News Representative Jeremy Wooldridge Announces Bid for Arkansas State Senate District 21 June 16, 2025 Republican Representative Jeremy Wooldridge announced that he will run for Arkansas State Senate District 21, which contains all of Clay, Randolph, and Greene Counties, and a portion of Lawrence County.
+Home Meet Jeremy News Volunteer Voting Info Donate Donate Paid for by Jeremy Wooldridge for State Senate Privacy Policy | Terms & Conditions

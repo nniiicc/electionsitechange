@@ -1,5 +1,4 @@
-A Primary Recovery
-I'm sure a lot of us are a little groggy this morning if you stayed up watching results like I did.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store A Primary Recovery Aug 12 Written By Brian Walker I'm sure a lot of us are a little groggy this morning if you stayed up watching results like I did.
 Some of what I saw was interesting.
 Start with Mike Lindell losing to Lisa Demuth.
 I wasn't hoping for a different outcome, but I won't pretend I didn't enjoy seeing the Trump-endorsed candidate lose.
@@ -26,4 +25,8 @@ We need a representative who actually listens, who isn't climbing a ladder towar
 We need a neighbor.
 A friend.
 Someone who has your back.
-Brian Walker
+Brian Walker Brian Walker Previous Previous Headline Harry is at it Again: Removing Environmental Protections Next Next A Night to Unite Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

@@ -1,15 +1,12 @@
-El Gobernador Lombardo Anuncia Una Cifra Récord De $15 Millones En Efectivo Disponible, Superando A Todas Las Campañas Para Gobernador Anteriores
-PARA PUBLICACIÓN INMEDIATA
-12 de enero de 2026
-Contacto: press@joelombardofornv.com
-LAS VEGAS, NV – Hoy, el Gobernador Joe Lombardo anunció una cifra récord de más de $9 millones en efectivo disponible al cierre del año de campaña, tras recaudar $4.28 millones adicionales en 2025, lo que representa el total más alto en un año no electoral para cualquier gobernador en la historia de Nevada.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE El Gobernador Lombardo Anuncia Una Cifra Récord De $15 Millones En Efectivo Disponible, Superando A Todas Las Campañas Para Gobernador Anteriores PARA PUBLICACIÓN INMEDIATA 12 de enero de 2026 Contacto: press@joelombardofornv.com LAS VEGAS, NV – Hoy, el Gobernador Joe Lombardo anunció una cifra récord de más de $9 millones en efectivo disponible al cierre del año de campaña, tras recaudar $4.28 millones adicionales en 2025, lo que representa el total más alto en un año no electoral para cualquier gobernador en la historia de Nevada.
 Además, los dos Comités de Acción Política (PACs) afiliados al gobernador reportarán $5.9 millones adicionales en efectivo disponible, luego de haber recaudado más de $4.7 millones en 2025, elevando el total de recursos de Lombardo a $15 millones.
 Con este efectivo disponible, el Gobernador Lombardo se encuentra en la posición financiera más sólida de cualquier gobernador en la historia de Nevada en esta etapa del ciclo.
 Cabe destacar que el efectivo disponible actual de la campaña supera el récord previo establecido por el exgobernador Steve Sisolak.
 Al combinarse con los fondos de los PAC afiliados, el Equipo Lombardo inicia 2026 con casi $5 millones más en efectivo disponible que cualquier predecesor tenía en este punto de ciclos electorales anteriores.
 “Este récord histórico de recaudación de fondos demuestra que los nevadenses en todo el estado están respaldando nuestros resultados”, dijo el Gobernador Joe Lombardo.
 “Desde el acceso a viviendas alcanzables y la seguridad pública, hasta la educación y una economía más fuerte, nuestra administración está cumpliendo.
-Con un apoyo que continúa creciendo, estamos listos para llevar nuestro mensaje a todo el estado y ganar cuatro años más para terminar el trabajopor las familias de Nevada.”
-El Gobernador Lombardo fue elegido como el 31º Gobernador de Nevada en noviembre de 2022, acaparando titulares nacionales al convertirse en el único candidato de cualquiera de los partidos en derrotar a un gobernador en funciones ese año.
+Con un apoyo que continúa creciendo, estamos listos para llevar nuestro mensaje a todo el estado y ganar cuatro años más para terminar el trabajopor las familias de Nevada.” El Gobernador Lombardo fue elegido como el 31º Gobernador de Nevada en noviembre de 2022, acaparando titulares nacionales al convertirse en el único candidato de cualquiera de los partidos en derrotar a un gobernador en funciones ese año.
 Su victoria marcó la primera vez en décadas que un incumbente demócrata fue derrotado en Nevada.
 Antes de su elección como gobernador, Lombardo sirvió durante 26 años en el Departamento de Policía Metropolitana de Las Vegas, incluyendo dos períodos como Sheriff del Condado de Clark.
+Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

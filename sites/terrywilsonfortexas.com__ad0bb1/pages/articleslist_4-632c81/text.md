@@ -1,4 +1,4 @@
-I need your input on something.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements March 27, 2017 Jeff Frazier Sit-Rep #4 - HB 81 and Criminal Justice Reform March 27, 2017 Jeff Frazier I need your input on something.
 As part of my service as your representative, it is my duty, when particularly difficult issues arise, to come back to you and discuss what we, as a district, want to see happen in our state.
 One of those issues has come up, and I want to hear from you.
 In the coming weeks, the House Committee on Criminal Jurisprudence will vote on HB81, which takes the current penalty ladder for marijuana possession and adds a new rung at the bottom.
@@ -27,4 +27,16 @@ We exercise great vigilance towards other areas where government may go beyond t
 A regulatory agency that uses excessively restrictive regulations must be reined in, taxes that go past funding the needs of a government to fulfil its duties must be cut, and criminal penalties that exceed the level needed to accomplish their purpose must be reduced; how else can we continue to consider ourselves supporters of limited government?
 I've given you my current thoughts on the matter, but now I want to hear from you.
 I invite all of you, especially those whose opinions may differ from mine, to share your thoughts on this important issue.
-You can reach the HD20 capitol office at (512)463-0309, or email me at terry.wilson@house.texas.gov.
+You can reach the HD20 capitol office at (512)463-0309, or email me at terry.wilson@house.texas.gov .
+March 27, 2017 Jeff Frazier Jeff Frazier Sit-Rep #5 - SB 6 & HB 2899 Sit-Rep #3 - Committees, Bills, and Coalitions Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

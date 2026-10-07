@@ -1,6 +1,3 @@
-The Mercury News: “Wicks faces two challengers in District 14 reelection bid”
-NEWS ARTICLE
-May 14, 2026
-The Mercury News: “Wicks faces two challengers in District 14 reelection bid” by Kyle Martin | Bay Area News Group
-“Incumbent Buffy Wicks is taking on two challengers on the June ballot in the race for her District 14 state seat: Republican Borgar Solnordal and Green Party candidate Mark Rendón.”
-Read the full article here: https://www.mercurynews.com/2026/05/14/wicks-faces-two-challengers-in-district-14-reelection-bid/.
+0 Skip to Content About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate The Mercury News: “Wicks faces two challengers in District 14 reelection bid” May 14 Written By Sabina Ali NEWS ARTICLE May 14, 2026 The Mercury News: “Wicks faces two challengers in District 14 reelection bid” by Kyle Martin | Bay Area News Group “Incumbent Buffy Wicks is taking on two challengers on the June ballot in the race for her District 14 state seat: Republican Borgar Solnordal and Green Party candidate Mark Rendón.” Read the full article here: https://www.mercurynews.com/2026/05/14/wicks-faces-two-challengers-in-district-14-reelection-bid/ .
+Sabina Ali Previous Previous Two Greens move on to the November General Election!
+Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026

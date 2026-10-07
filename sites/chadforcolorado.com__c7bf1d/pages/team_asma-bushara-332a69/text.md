@@ -1,6 +1,2 @@
-top of page
-Asma Bushara
-Intern
-Asma is a fourth-year student at Colorado State University, majoring in political science and double minoring in criminology and legal studies, with a certificate in philosophy.
-In her free time, she enjoys reading good books and sipping on chai tea!
-bottom of page
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate < Back Asma Bushara Intern Asma is a fourth-year student at Colorado State University, majoring in political science and double minoring in criminology and legal studies, with a certificate in philosophy.
+In her free time, she enjoys reading good books and sipping on chai tea! cap.office@chadforcolorado.com C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

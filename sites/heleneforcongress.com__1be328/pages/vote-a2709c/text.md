@@ -1,5 +1,4 @@
-Voter Information
-It’s easy to feel like your vote doesn’t matter.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Voter Information It’s easy to feel like your vote doesn’t matter.
 Amid the chaos of national headlines, political gridlock, and the constant tug-of-war between extremes, many Americans have started to tune out.
 You may have even wondered, What’s the point?
 But the truth is, voting is one of the most powerful tools we have to shape our communities and future.
@@ -10,6 +9,7 @@ Your voice counts.
 Your vote counts.
 And together, we influence the future of our democracy.
 If you are a U.S. citizen, at least 18 years old, and live in North Dakota, you have the right to vote!
-Anyone who has lived in North Dakota for 30 days prior to Election Day can vote.
+Anyone who has lived in North Dakota for # days prior to Election Day can vote.
 North Dakota does not require voter registration, but you do need to have a valid form of identification that can be used for voting.
 This means you should make sure you have proper identification with you before you go to the polls to vote.
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

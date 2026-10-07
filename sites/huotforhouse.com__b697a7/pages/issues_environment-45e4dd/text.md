@@ -1,11 +1,7 @@
-Issues
-Environment & Resources
-We must protect Minnesota's clean water, natural resources, and work toward a clean energy future for all.
-At a Glance
-We must protect Minnesota's clean water, natural resources, and work toward a clean energy future for all.
-- Protect clean water, clean air, and clean soil.
-- Expand affordable renewable energy while reducing carbon pollution.
-- Require responsible oversight of data centers and industrial development while curbing energy consumption.
+Skip to main content Huot for House Home Why I Serve Issues Endorsements Legislative Profile Delivering for our Community Events News Gallery Volunteer Contact Donate Issues Environment & Resources We must protect Minnesota's clean water, natural resources, and work toward a clean energy future for all. ← Back to Issues At a Glance We must protect Minnesota's clean water, natural resources, and work toward a clean energy future for all.
+Protect clean water, clean air, and clean soil.
+Expand affordable renewable energy while reducing carbon pollution.
+Require responsible oversight of data centers and industrial development while curbing energy consumption.
 Now, more than ever, the Minnesota legislature must step up to protect our natural resources and waterways.
 It will be up to the legislature to ensure that every citizen has clean water, clean air, and safe food.
 We need to encourage reasonable, sustainable sources of renewable energy, particularly as fossil fuel prices soar, and embrace efforts to conserve water quality, reduce usage, and protect natural sources of water.
@@ -37,26 +33,11 @@ The facility will be built by union workers, bring in good paying jobs, and beco
 The risks associated with data centers in terms of the environment and impact on nearby residents, cannot be separated from the purpose of the center itself.
 The potential generation of artificial intelligence adds a layer of complexity and concern that warrants further scrutiny.
 Preserving Minnesota’s environment and natural resources should be a nonpartisan issue, and I will always vote to protect our beautiful state, and more importantly, the health and safety of Minnesotans.
-Highlights:
-2025 Legacy Bill (passed with strong bipartisan support)
-- Outdoor Heritage Fund - $163 million
-- Clean Water Fund - $304 million
-- Parks and Trails Fund - $130 million
-- Arts and Cultural Heritage Fund - $180 million
-Regulated data center development:
-- Must meet energy, environmental and labor standards
-- Pay a fee to fund energy assistance programs
-- Utilities must plan for increased load and devise a new way to charge centers for their energy usage
-- Repealed the sales tax exemption on centers’ electricity usage
-- Reauthorization of the Environment and Natural Resources Trust Fund (2023).
+Highlights: 2025 Legacy Bill (passed with strong bipartisan support) Outdoor Heritage Fund - $163 million Clean Water Fund - $304 million Parks and Trails Fund - $130 million Arts and Cultural Heritage Fund - $180 million Regulated data center development: Must meet energy, environmental and labor standards Pay a fee to fund energy assistance programs Utilities must plan for increased load and devise a new way to charge centers for their energy usage Repealed the sales tax exemption on centers’ electricity usage Reauthorization of the Environment and Natural Resources Trust Fund (2023).
 Passed with strong bipartisan support.
-- Created a State Competitiveness Fund to provide local matching funds to unlock federal energy grants (2023).
+Created a State Competitiveness Fund to provide local matching funds to unlock federal energy grants (2023).
 Passed with strong bipartisan support.
-- The Climate and Energy Budget Bill invests in electrification and expanded energy efficiency and energy conservation (2023).
-Passed with strong bipartisan support.
-- $50 million for solar programs Programs to unlock federal and private energy funding
-- $30 million to make electric vehicles and school busses more affordable
-- $30 million to upgrade Minnesota’s electrical grid
-- 100% clean energy standard by 2040
-- Investments to root out forever chemicals in drinking water and lead pipe replacement Green rebates on e-bike and home electrification purchases
-- $9 million for Minnesota’s parks and trails.
+The Climate and Energy Budget Bill invests in electrification and expanded energy efficiency and energy conservation (2023).
+Passed with strong bipartisan support. $50 million for solar programs Programs to unlock federal and private energy funding $30 million to make electric vehicles and school busses more affordable $30 million to upgrade Minnesota’s electrical grid 100% clean energy standard by 2040 Investments to root out forever chemicals in drinking water and lead pipe replacement Green rebates on e-bike and home electrification purchases $9 million for Minnesota’s parks and trails.
+Prepared and paid for by the Huot for House committee, PO Box 27, Rosemount, MN 55068.
+Back to top

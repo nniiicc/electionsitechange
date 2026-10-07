@@ -1,30 +1,146 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Omak+Chamber+of+Commerce+Candidate+Forum&dates=20260930T003000Z%2F20260930T023000Z&location=108+N+Main%2C+Omak%2C+WA%2C+United+States",
-"http://maps.google.com/?q=108+N+Main+Omak%2C+WA+United+States",
-"https://bsky.app/profile/fjohnd4.bsky.social",
-"https://facebook.com/JohnDuresky4Congress",
-"https://instagram.com/johnduresky4congress",
-"https://johnduresky4congress.com/",
-"https://johnduresky4congress.com/about",
-"https://johnduresky4congress.com/ballot-drop-boxes",
-"https://johnduresky4congress.com/cart",
-"https://johnduresky4congress.com/contact",
-"https://johnduresky4congress.com/donate",
-"https://johnduresky4congress.com/endorsements",
-"https://johnduresky4congress.com/events",
-"https://johnduresky4congress.com/events/blue-wave-flippin-fundraiser",
-"https://johnduresky4congress.com/events/omak-chamber-of-commerce-candidate-forum?format=ical",
-"https://johnduresky4congress.com/events/phonebanking-session-sept30",
-"https://johnduresky4congress.com/home",
-"https://johnduresky4congress.com/issues",
-"https://johnduresky4congress.com/john-duresky",
-"https://johnduresky4congress.com/news",
-"https://johnduresky4congress.com/privacy",
-"https://johnduresky4congress.com/the-district",
-"https://johnduresky4congress.com/veterans-for-john",
-"https://johnduresky4congress.com/volunteer",
-"https://threads.com/@johnduresky4congress",
-"https://tiktok.com/@johnduresky",
-"https://x.com/JohnDuresky4",
-"https://youtube.com/@johnduresky4congress"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=108+n+main+omak%2C+wa+united+states"
+},
+{
+"text": "0",
+"href": "https://www.johnduresky4congress.com/cart"
+},
+{
+"text": "About‍",
+"href": "https://www.johnduresky4congress.com/john-duresky"
+},
+{
+"text": "Back",
+"href": "https://www.johnduresky4congress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.johnduresky4congress.com/events"
+},
+{
+"text": "Ballot drop boxes",
+"href": "https://www.johnduresky4congress.com/ballot-drop-boxes"
+},
+{
+"text": "Contact",
+"href": "https://www.johnduresky4congress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.johnduresky4congress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnduresky4congress.com/endorsements"
+},
+{
+"text": "Endorsements‍",
+"href": "https://www.johnduresky4congress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.johnduresky4congress.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.johnduresky4congress.com/about"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Omak+Chamber+of+Commerce+Candidate+Forum&dates=20260930T003000Z%2F20260930T023000Z&location=108+N+Main%2C+Omak%2C+WA%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.johnduresky4congress.com/home"
+},
+{
+"text": "ICS",
+"href": "https://www.johnduresky4congress.com/events/omak-chamber-of-commerce-candidate-forum?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.johnduresky4congress.com/issues"
+},
+{
+"text": "Issues‍",
+"href": "https://www.johnduresky4congress.com/issues"
+},
+{
+"text": "John Duresky",
+"href": "https://www.johnduresky4congress.com/john-duresky"
+},
+{
+"text": "News",
+"href": "https://www.johnduresky4congress.com/news"
+},
+{
+"text": "Next Next September 30 Phonebanking Session",
+"href": "https://www.johnduresky4congress.com/events/phonebanking-session-sept30"
+},
+{
+"text": "Previous Previous September 28 Blue Wave Flippin' Fundraiser",
+"href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser"
+},
+{
+"text": "Privacy Policy‍",
+"href": "https://www.johnduresky4congress.com/privacy"
+},
+{
+"text": "The District",
+"href": "https://www.johnduresky4congress.com/the-district"
+},
+{
+"text": "Veterans for John",
+"href": "https://www.johnduresky4congress.com/veterans-for-john"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnduresky4congress.com/volunteer"
+},
+{
+"text": "[image: JOHN DURESKY FOR CONGRESS]",
+"href": "https://www.johnduresky4congress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.johnduresky4congress.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fjohnd4.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnDuresky4Congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnduresky4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.johnduresky4congress.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@johnduresky4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@johnduresky"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@johnduresky4congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JohnDuresky4"
+},
+{
+"text": "info@johnduresky.com",
+"href": "mailto:info@johnduresky.com"
+}
 ]

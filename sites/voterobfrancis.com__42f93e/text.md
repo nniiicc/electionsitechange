@@ -1,23 +1,5 @@
-District 57
-Adamsburg
-Arona
-Greensburg
-Hempfield Township
-New Stanton
-South Greensburg
-Southwest Greensburg
-Youngwood
-1793721600
-days
-hours minutes seconds
-until
-General Election
-Skip to content
-Home
-District 57
-1793721600
-days
-hours minutes seconds
-until
-General Election
-Progressive for Pennsylvania General Assembly
+Skip to content Vote Rob Francis Progressive for Pennsylvania General Assembly Menu + × expanded collapsed Meet Rob The Issues DONATE Contact Events Home District 57 Adamsburg Arona Greensburg Hempfield Township New Stanton South Greensburg Southwest Greensburg Youngwood Endorsements PA AFL-CIO Greater Westmoreland Central Labor Council Rep.
+Malcolm Kenyatta Steel City Stonewall Democrats PA Conference of Teamsters Pennsylvania Voters for Animals HealthCare 4 All PA 1793721600 days hours minutes seconds until General Election Get Involved DONATE Register to Vote Check Voter Registration Request Mail-in Ballot Facebook Instagram Threads Bluesky TikTok Vote Rob Francis , Blog at WordPress.com.
+Vote Rob Francis Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,11 +1,42 @@
 [
-"https://missiformo.com/",
-"https://missiformo.com/endorsements",
-"https://missiformo.com/events",
-"https://missiformo.com/missi-merchandise",
-"https://missiformo.com/policies/privacy",
-"https://missiformo.com/top-5-issues",
-"https://missiformo.com/volunteer",
-"https://secure.actblue.com/donate/missiformo",
-"https://solidarity.tech/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missiformo"
+},
+{
+"text": "Endorsements",
+"href": "https://www.missiformo.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.missiformo.com/events"
+},
+{
+"text": "Merch",
+"href": "https://www.missiformo.com/missi-merchandise"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Top 5 Issues",
+"href": "https://www.missiformo.com/top-5-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.missiformo.com/volunteer"
+},
+{
+"text": "[image] Missi Hesketh for Congress",
+"href": "https://www.missiformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "privacy policy",
+"href": "https://www.missiformo.com/policies/privacy"
+}
 ]

@@ -1,9 +1,1 @@
-Home
-About
-Issues
-Endorsements
-News
-Volunteer
-Donate
-Before You Vote
-July 15, 2026
+Home About Issues Endorsements News Volunteer Donate Before You Vote July 15, 2026 Home About Issues Endorsements News Volunteer Donate Contact Privacy Policy Donations are not tax deductible Paid for by Briggs for Senate

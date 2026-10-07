@@ -1,191 +1,1322 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=100+Days+Out%3A+Austin+Organizing+Rally+with+Vikki+Goodwin&dates=20260726T190000Z%2F20260726T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Bastrop+Rally&dates=20260913T190000Z%2F20260913T220000Z&location=1408+Chestnut+Street%2C+Bastrop%2C+Texas%2C+78602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+Begins&dates=20261019T120000Z%2F20261020T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T130000Z%2F20261104T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Goodwin4Texas+San+Antonio+Fundraiser&dates=20260725T140000Z%2F20260725T153000Z&location=3503+Northeast+Parkway%2C+San+Antonio%2C+Texas%2C+78218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hate+Has+No+Home+Here%3A+Frisco+Town+Hall&dates=20260730T230000Z%2F20260731T010000Z&location=5353+Independence+Parkway%2C+Frisco%2C+Texas%2C+75035%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Arlington&dates=20260822T170000Z%2F20260822T190000Z&location=1330+South+Fielder+Road%2C+Arlington%2C+Texas%2C+76013%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Beaumont&dates=20260819T230000Z%2F20260820T010000Z&location=2490+South+11th+Street%2C+Beaumont%2C+Texas%2C+77701%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Dallas&dates=20260822T210000Z%2F20260822T230000Z&location=2809+Reed+Lane%2C+Dallas%2C+Texas%2C+75215%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Midland&dates=20260907T230000Z%2F20260908T003000Z&location=5309+West+Loop+250+North%2C+Midland%2C+Texas%2C+79707%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Nacogdoches&dates=20260820T230000Z%2F20260821T000000Z&location=317+East+Main+Street%2C+Nacogdoches%2C+Texas%2C+75961%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Sugar+Land&dates=20260818T230000Z%2F20260819T010000Z&location=2615+Cordes+Drive%2C+Sugar+Land%2C+Texas%2C+77479%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Tyler&dates=20260821T230000Z%2F20260822T010000Z&location=2506+North+Broadway+Avenue%2C+Tyler%2C+Texas%2C+75702%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Waco&dates=20260823T230000Z%2F20260824T000000Z&location=924+Austin+Avenue+Ste+150%2C+Waco%2C+Texas%2C+76701%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party+-+Richardson&dates=20261011T190000Z%2F20261011T203000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Houston+IAPAC+Candidate+Meet+%26amp%3B+Greet&dates=20260808T210000Z%2F20260808T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Houston+THC+Rally&dates=20260905T223000Z%2F20260906T003000Z&location=2915+North+Main+Street%2C+Houston%2C+Texas%2C+77009%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260903T230000Z%2F20260904T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260908T230000Z%2F20260911T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260910T230000Z%2F20260911T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260915T230000Z%2F20260916T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260917T230000Z%2F20260918T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260922T230000Z%2F20260923T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki+&dates=20260924T230000Z%2F20260925T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki+&dates=20260929T230000Z%2F20260930T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Vikki&dates=20260730T230000Z%2F20260731T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Vikki&dates=20260806T230000Z%2F20260807T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Vikki&dates=20260813T230000Z%2F20260814T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing%3A+Abilene&dates=20260720T220000Z%2F20260721T000000Z&location=4310+Buffalo+Gap+Road%2C+Abilene%2C+Texas%2C+79606%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing%3A+Big+Spring&dates=20260719T223000Z%2F20260720T003000Z&location=1001+Birdwell+Lane%2C+Big+Spring%2C+Texas%2C+79720%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=The+People%27s+Hearing+Houston&dates=20260721T230000Z%2F20260722T010000Z&location=6515+Irvington+Boulevard%2C+Houston%2C+Texas%2C+77022%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Voter+Registration+Deadline&dates=20261005T120000Z%2F20261005T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Water+Town+Hall+-+Odessa&dates=20260908T230000Z%2F20260909T010000Z&location=2264+South+Sargent+Avenue%2C+Odessa%2C+Texas%2C+79766%2C+United+States",
-"http://maps.google.com/?q=1001+Birdwell+Lane+Big+Spring%2C+Texas%2C+79720+United+States",
-"http://maps.google.com/?q=1330+South+Fielder+Road+Arlington%2C+Texas%2C+76013+United+States",
-"http://maps.google.com/?q=1408+Chestnut+Street+Bastrop%2C+Texas%2C+78602+United+States",
-"http://maps.google.com/?q=2264+South+Sargent+Avenue+Odessa%2C+Texas%2C+79766+United+States",
-"http://maps.google.com/?q=2490+South+11th+Street+Beaumont%2C+Texas%2C+77701+United+States",
-"http://maps.google.com/?q=2506+North+Broadway+Avenue+Tyler%2C+Texas%2C+75702+United+States",
-"http://maps.google.com/?q=2615+Cordes+Drive+Sugar+Land%2C+Texas%2C+77479+United+States",
-"http://maps.google.com/?q=2809+Reed+Lane+Dallas%2C+Texas%2C+75215+United+States",
-"http://maps.google.com/?q=2915+North+Main+Street+Houston%2C+Texas%2C+77009+United+States",
-"http://maps.google.com/?q=317+East+Main+Street+Nacogdoches%2C+Texas%2C+75961+United+States",
-"http://maps.google.com/?q=3503+Northeast+Parkway+San+Antonio%2C+Texas%2C+78218+United+States",
-"http://maps.google.com/?q=4310+Buffalo+Gap+Road+Abilene%2C+Texas%2C+79606+United+States",
-"http://maps.google.com/?q=5309+West+Loop+250+North+Midland%2C+Texas%2C+79707+United+States",
-"http://maps.google.com/?q=5353+Independence+Parkway+Frisco%2C+Texas%2C+75035+United+States",
-"http://maps.google.com/?q=6515+Irvington+Boulevard+Houston%2C+Texas%2C+77022+United+States",
-"http://maps.google.com/?q=924+Austin+Avenue+Ste+150+Waco%2C+Texas%2C+76701+United+States",
-"http://maps.google.com/?q=Richardson%2C+TX",
-"http://maps.google.com/?q=Texas",
-"http://maps.google.com/?q=Virtual",
-"http://sos.state.tx.us/elections/voter/county.shtml",
-"http://texas.gov/",
-"https://act.vikkigoodwin.com/hemp",
-"https://actionnetwork.org/events/houston-tlpc-peoples-hearing",
-"https://actionnetwork.org/events/texaslpc.org",
-"https://admin.actionnetwork.org/events/houston-tlpc-peoples-hearing/texaslpc.org",
-"https://bsky.app/profile/vikkigoodwintx.bsky.social",
-"https://claytontuckertx.com/",
-"https://dianalunafortexas.com/",
-"https://facebook.com/VikkiGoodwinTX",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://hollytforjudge.com/",
-"https://instagram.com/Goodwin4Texas",
-"https://jonrosenthaltx.com/",
-"https://linktr.ee/shilohfortexas",
-"https://mobilize.us/hrctx/event/992403",
-"https://mobilize.us/mobilize/event/1001505",
-"https://mobilize.us/sandeepfortexas66/event/987914?referring_vol=11028926&rname=Pooja&timeslot=6148341&referring_participation=52350700&referring_data_signature=v1-c62723ee1a239443&share_medium=copy_link&share_context=signup-form-modal",
-"https://mobilize.us/texasdemocrats/event/1006129",
-"https://mobilize.us/texasdemocrats/event/1006132",
-"https://mobilize.us/texasdemocrats/event/1006136",
-"https://mobilize.us/texasdemocrats/event/1006140",
-"https://mobilize.us/texasdemocrats/event/1006148",
-"https://mobilize.us/texasdemocrats/event/1006150",
-"https://mobilize.us/texasdemocrats/event/1006160",
-"https://mobilize.us/texasdemocrats/event/1018907",
-"https://mobilize.us/texasdemocrats/event/1022368",
-"https://mobilize.us/texasdemocrats/event/1023459?referring_vol=13607183&share_context=dashboard-event-details&sharer_role=2",
-"https://mobilize.us/texasdemocrats/event/1023472",
-"https://mobilize.us/texasdemocrats/event/984659",
-"https://mobilize.us/texasdemocrats/event/984669",
-"https://mobilize.us/texasdemocrats/event/996884",
-"https://poojafortexas.com/",
-"https://rableforwesttexas.com/",
-"https://rileyforsenate.org/",
-"https://sandeepfortexas.com/",
-"https://saraheckhardt.com/",
-"https://secure.actblue.com/donate/goodwin4texas-sanantonio-july25",
-"https://secure.actblue.com/donate/vg4lgad",
-"https://sos.state.tx.us/elections/laws/countywide-polling-place-program.shtml",
-"https://sos.state.tx.us/elections/voter/county.shtml",
-"https://store.goodwin4texas.com/",
-"https://threads.com/@Goodwin4Texas",
-"https://tiktok.com/@vikkigoodwintx",
-"https://txapps.texas.gov/tolapp/sos/SOSACManager",
-"https://vikkigoodwin.com/",
-"https://vikkigoodwin.com/cart",
-"https://vikkigoodwin.com/datacenters",
-"https://vikkigoodwin.com/education",
-"https://vikkigoodwin.com/endorsements-1",
-"https://vikkigoodwin.com/endorsements-organizations",
-"https://vikkigoodwin.com/endorsements-public-officials",
-"https://vikkigoodwin.com/endorsements-texas-voters",
-"https://vikkigoodwin.com/events",
-"https://vikkigoodwin.com/events/0718bigspring",
-"https://vikkigoodwin.com/events/0718bigspring-cdygn",
-"https://vikkigoodwin.com/events/0718bigspring-cdygn?format=ical",
-"https://vikkigoodwin.com/events/0718bigspring?format=ical",
-"https://vikkigoodwin.com/events/0721houston",
-"https://vikkigoodwin.com/events/0721houston?format=ical",
-"https://vikkigoodwin.com/events/072509",
-"https://vikkigoodwin.com/events/072509?format=ical",
-"https://vikkigoodwin.com/events/0726",
-"https://vikkigoodwin.com/events/0726?format=ical",
-"https://vikkigoodwin.com/events/0730",
-"https://vikkigoodwin.com/events/0730?format=ical",
-"https://vikkigoodwin.com/events/0730phonebank",
-"https://vikkigoodwin.com/events/0730phonebank?format=ical",
-"https://vikkigoodwin.com/events/0806phonebank",
-"https://vikkigoodwin.com/events/0806phonebank?format=ical",
-"https://vikkigoodwin.com/events/0816phonebank",
-"https://vikkigoodwin.com/events/0816phonebank?format=ical",
-"https://vikkigoodwin.com/events/0818phonebank",
-"https://vikkigoodwin.com/events/0818phonebank?format=ical",
-"https://vikkigoodwin.com/events/0818townhall",
-"https://vikkigoodwin.com/events/0818townhall?format=ical",
-"https://vikkigoodwin.com/events/0819townhall",
-"https://vikkigoodwin.com/events/0819townhall?format=ical",
-"https://vikkigoodwin.com/events/0820townhall",
-"https://vikkigoodwin.com/events/0820townhall?format=ical",
-"https://vikkigoodwin.com/events/0821townhall",
-"https://vikkigoodwin.com/events/0821townhall?format=ical",
-"https://vikkigoodwin.com/events/0822",
-"https://vikkigoodwin.com/events/0822?format=ical",
-"https://vikkigoodwin.com/events/0822dallas",
-"https://vikkigoodwin.com/events/0822dallas?format=ical",
-"https://vikkigoodwin.com/events/0823townhall",
-"https://vikkigoodwin.com/events/0823townhall?format=ical",
-"https://vikkigoodwin.com/events/0903phonebank",
-"https://vikkigoodwin.com/events/0903phonebank?format=ical",
-"https://vikkigoodwin.com/events/0905rally",
-"https://vikkigoodwin.com/events/0905rally?format=ical",
-"https://vikkigoodwin.com/events/0907townhall",
-"https://vikkigoodwin.com/events/0907townhall?format=ical",
-"https://vikkigoodwin.com/events/0908phonebank",
-"https://vikkigoodwin.com/events/0908phonebank?format=ical",
-"https://vikkigoodwin.com/events/0908townhall",
-"https://vikkigoodwin.com/events/0908townhall?format=ical",
-"https://vikkigoodwin.com/events/0910phonebank-625jn",
-"https://vikkigoodwin.com/events/0910phonebank-625jn?format=ical",
-"https://vikkigoodwin.com/events/0913bastrop",
-"https://vikkigoodwin.com/events/0913bastrop?format=ical",
-"https://vikkigoodwin.com/events/0915phonebank",
-"https://vikkigoodwin.com/events/0915phonebank?format=ical",
-"https://vikkigoodwin.com/events/0917phonebank",
-"https://vikkigoodwin.com/events/0917phonebank?format=ical",
-"https://vikkigoodwin.com/events/0922phonebank",
-"https://vikkigoodwin.com/events/0922phonebank?format=ical",
-"https://vikkigoodwin.com/events/0924phonebank-jkhe3",
-"https://vikkigoodwin.com/events/0924phonebank-jkhe3?format=ical",
-"https://vikkigoodwin.com/events/0929phonebank",
-"https://vikkigoodwin.com/events/0929phonebank?format=ical",
-"https://vikkigoodwin.com/events/2026/1011houseparty",
-"https://vikkigoodwin.com/events/2026/1011houseparty?format=ical",
-"https://vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet",
-"https://vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet?format=ical",
-"https://vikkigoodwin.com/events/electionday",
-"https://vikkigoodwin.com/events/electionday?format=ical",
-"https://vikkigoodwin.com/events/firstdayofearlyvoting",
-"https://vikkigoodwin.com/events/firstdayofearlyvoting?format=ical",
-"https://vikkigoodwin.com/events/registrationdeadline",
-"https://vikkigoodwin.com/events/registrationdeadline?format=ical",
-"https://vikkigoodwin.com/healthcare",
-"https://vikkigoodwin.com/housing",
-"https://vikkigoodwin.com/issues",
-"https://vikkigoodwin.com/meet-vikki",
-"https://vikkigoodwin.com/news",
-"https://vikkigoodwin.com/priorities-overview",
-"https://vikkigoodwin.com/privacy",
-"https://vikkigoodwin.com/texascares",
-"https://vikkigoodwin.com/volunteer",
-"https://vikkigoodwin.com/water",
-"https://votetexas.gov/faq/index.html",
-"https://votetexas.gov/voting/need-id.html",
-"https://votetexas.gov/voting/where.html",
-"https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN",
-"https://x.com/VikkiGoodwinTX"
+{
+"text": "\"My Voter Portal\"",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13260+josey+lane+farmers+branch%2C+texas%2C+75234+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1330+south+fielder+road+arlington%2C+texas%2C+76013+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1408+chestnut+street+bastrop%2C+texas%2C+78602+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2264+south+sargent+avenue+odessa%2C+texas%2C+79766+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2490+south+11th+street+beaumont%2C+texas%2C+77701+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2506+north+broadway+avenue+tyler%2C+texas%2C+75702+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2615+cordes+drive+sugar+land%2C+texas%2C+77479+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2809+reed+lane+dallas%2C+texas%2C+75215+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2915+north+main+street+houston%2C+texas%2C+77009+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3000+northside+boulevard+richardson%2C+texas%2C+75080+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=317+east+main+street+nacogdoches%2C+texas%2C+75961+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3503+northeast+parkway+san+antonio%2C+texas%2C+78218+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=358+east+craig+place+san+antonio%2C+texas%2C+78212+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4310+buffalo+gap+road+abilene%2C+texas%2C+79606+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5309+west+loop+250+north+midland%2C+texas%2C+79707+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5353+independence+parkway+frisco%2C+texas%2C+75035+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6515+irvington+boulevard+houston%2C+texas%2C+77022+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=702+planetarium+place+arlington%2C+texas%2C+76019+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=924+austin+avenue+ste+150+waco%2C+texas%2C+76701+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=location+provided+upon+rsvp"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=richardson%2C+tx"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=texas"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=virtual"
+},
+{
+"text": ".",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": ".⚠️",
+"href": "https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN"
+},
+{
+"text": "0",
+"href": "https://www.vikkigoodwin.com/cart"
+},
+{
+"text": "100 Days Out: Austin Organizing Rally with Vikki Goodwin",
+"href": "https://www.vikkigoodwin.com/events/0726"
+},
+{
+"text": "About Vikki",
+"href": "https://www.vikkigoodwin.com/meet-vikki"
+},
+{
+"text": "Am I Registered?’",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "AskMe@VikkiGoodwin.com",
+"href": "mailto:candidate@vikkigoodwin.com"
+},
+{
+"text": "Back",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Bastrop Rally",
+"href": "https://www.vikkigoodwin.com/events/0913bastrop"
+},
+{
+"text": "Blockwalk — Dallas",
+"href": "https://www.vikkigoodwin.com/events/2026/1010canvass"
+},
+{
+"text": "Candidate Forum — Richardson",
+"href": "https://www.vikkigoodwin.com/events/1011"
+},
+{
+"text": "Cannabis & THC",
+"href": "https://act.vikkigoodwin.com/hemp/"
+},
+{
+"text": "Caucus Legislativo Progresista de Texas (TLPC)",
+"href": "https://actionnetwork.org/events/texaslpc.org"
+},
+{
+"text": "Check your polling location and hours here",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Clayton Tucker",
+"href": "https://www.claytontuckertx.com/"
+},
+{
+"text": "Clean Water",
+"href": "https://www.vikkigoodwin.com/water"
+},
+{
+"text": "Click here to update your voter registration information online",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": "Confirm your voter registration status",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": "County Elections Office",
+"href": "https://www.sos.state.tx.us/elections/voter/county.shtml"
+},
+{
+"text": "Countywide Polling Place Program (CWPP)",
+"href": "https://www.sos.state.tx.us/elections/laws/countywide-polling-place-program.shtml"
+},
+{
+"text": "Data Centers",
+"href": "https://www.vikkigoodwin.com/datacenters"
+},
+{
+"text": "Diana Luna",
+"href": "https://www.dianalunafortexas.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vg4lgad"
+},
+{
+"text": "Early Voting Begins",
+"href": "https://www.vikkigoodwin.com/events/firstdayofearlyvoting"
+},
+{
+"text": "Early Voting Clerk for State and County Elections",
+"href": "http://www.sos.state.tx.us/elections/voter/county.shtml"
+},
+{
+"text": "Election Day",
+"href": "https://www.vikkigoodwin.com/events/electionday"
+},
+{
+"text": "Events",
+"href": "https://www.vikkigoodwin.com/events"
+},
+{
+"text": "Find more information here",
+"href": "https://www.votetexas.gov/voting/where.html"
+},
+{
+"text": "Find your polling place here",
+"href": "https://www.votetexas.gov/voting/where.html"
+},
+{
+"text": "Folder: Endorsements",
+"href": "https://www.vikkigoodwin.com/endorsements-1"
+},
+{
+"text": "Folder: Priorities",
+"href": "https://www.vikkigoodwin.com/priorities-overview"
+},
+{
+"text": "GET TICKETS HERE",
+"href": "https://secure.actblue.com/donate/sixpack"
+},
+{
+"text": "Get tickets here.",
+"href": "https://secure.actblue.com/donate/goodwin4texas-sanantonio-july25"
+},
+{
+"text": "Goodwin4Texas San Antonio Fundraiser",
+"href": "https://www.vikkigoodwin.com/events/072509"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=100+Days+Out%3A+Austin+Organizing+Rally+with+Vikki+Goodwin&dates=20260726T190000Z%2F20260726T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bastrop+Rally&dates=20260913T190000Z%2F20260913T220000Z&location=1408+Chestnut+Street%2C+Bastrop%2C+Texas%2C+78602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Blockwalk+%E2%80%94+Dallas&dates=20261010T170000Z%2F20261010T200000Z&location=13260+Josey+Lane%2C+Farmers+Branch%2C+Texas%2C+75234%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+%E2%80%94+Richardson&dates=20261011T210000Z%2F20261012T000000Z&location=3000+Northside+Boulevard%2C+Richardson%2C+Texas%2C+75080%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+Begins&dates=20261019T120000Z%2F20261020T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T130000Z%2F20261104T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Goodwin4Texas+San+Antonio+Fundraiser&dates=20260725T140000Z%2F20260725T153000Z&location=3503+Northeast+Parkway%2C+San+Antonio%2C+Texas%2C+78218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hate+Has+No+Home+Here%3A+Frisco+Town+Hall&dates=20260730T230000Z%2F20260731T010000Z&location=5353+Independence+Parkway%2C+Frisco%2C+Texas%2C+75035%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Arlington&dates=20260822T170000Z%2F20260822T190000Z&location=1330+South+Fielder+Road%2C+Arlington%2C+Texas%2C+76013%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Beaumont&dates=20260819T230000Z%2F20260820T010000Z&location=2490+South+11th+Street%2C+Beaumont%2C+Texas%2C+77701%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Dallas&dates=20260822T210000Z%2F20260822T230000Z&location=2809+Reed+Lane%2C+Dallas%2C+Texas%2C+75215%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Midland&dates=20260907T230000Z%2F20260908T003000Z&location=5309+West+Loop+250+North%2C+Midland%2C+Texas%2C+79707%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Nacogdoches&dates=20260820T230000Z%2F20260821T000000Z&location=317+East+Main+Street%2C+Nacogdoches%2C+Texas%2C+75961%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Sugar+Land&dates=20260818T230000Z%2F20260819T010000Z&location=2615+Cordes+Drive%2C+Sugar+Land%2C+Texas%2C+77479%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Tyler&dates=20260821T230000Z%2F20260822T010000Z&location=2506+North+Broadway+Avenue%2C+Tyler%2C+Texas%2C+75702%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Healthcare+Town+Hall+-+Waco&dates=20260823T230000Z%2F20260824T000000Z&location=924+Austin+Avenue+Ste+150%2C+Waco%2C+Texas%2C+76701%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+Party+%E2%80%94+Richardson&dates=20261011T190000Z%2F20261011T203000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Houston+IAPAC+Candidate+Meet+%26amp%3B+Greet&dates=20260808T210000Z%2F20260808T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Houston+THC+Rally&dates=20260905T223000Z%2F20260906T003000Z&location=2915+North+Main+Street%2C+Houston%2C+Texas%2C+77009%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260903T230000Z%2F20260904T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260908T230000Z%2F20260911T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260910T230000Z%2F20260911T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260915T230000Z%2F20260916T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260917T230000Z%2F20260918T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki&dates=20260922T230000Z%2F20260923T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki+&dates=20260924T230000Z%2F20260925T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki+&dates=20260929T230000Z%2F20260930T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Rally+%E2%80%94+San+Antonio&dates=20261013T230000Z%2F20261014T003000Z&location=358+East+Craig+Place%2C+San+Antonio%2C+Texas%2C+78212%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+%E2%80%94+UT+Arlington&dates=20261007T170000Z%2F20261007T190000Z&location=702+Planetarium+Place%2C+Arlington%2C+Texas%2C+76019%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Vikki&dates=20260730T230000Z%2F20260731T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Vikki&dates=20260806T230000Z%2F20260807T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Vikki&dates=20260813T230000Z%2F20260814T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reception+%E2%80%94+Houston+Heights&dates=20261009T010000Z%2F20261009T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reception+%E2%80%94+McKinney&dates=20261012T000000Z%2F20261012T150000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing%3A+Abilene&dates=20260720T220000Z%2F20260721T000000Z&location=4310+Buffalo+Gap+Road%2C+Abilene%2C+Texas%2C+79606%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+People%27s+Hearing+Houston&dates=20260721T230000Z%2F20260722T010000Z&location=6515+Irvington+Boulevard%2C+Houston%2C+Texas%2C+77022%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Kickoff+Call+%E2%80%94+Virtual&dates=20261012T230000Z%2F20261013T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Voter+Registration+Deadline&dates=20261005T120000Z%2F20261005T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Water+Town+Hall+-+Odessa&dates=20260908T230000Z%2F20260909T010000Z&location=2264+South+Sargent+Avenue%2C+Odessa%2C+Texas%2C+79766%2C+United+States"
+},
+{
+"text": "Hate Has No Home Here: Frisco Town Hall",
+"href": "https://www.vikkigoodwin.com/events/0730"
+},
+{
+"text": "Healthcare",
+"href": "https://www.vikkigoodwin.com/healthcare"
+},
+{
+"text": "Healthcare Town Hall - Arlington",
+"href": "https://www.vikkigoodwin.com/events/0822"
+},
+{
+"text": "Healthcare Town Hall - Beaumont",
+"href": "https://www.vikkigoodwin.com/events/0819townhall"
+},
+{
+"text": "Healthcare Town Hall - Dallas",
+"href": "https://www.vikkigoodwin.com/events/0822dallas"
+},
+{
+"text": "Healthcare Town Hall - Midland",
+"href": "https://www.vikkigoodwin.com/events/0907townhall"
+},
+{
+"text": "Healthcare Town Hall - Nacogdoches",
+"href": "https://www.vikkigoodwin.com/events/0820townhall"
+},
+{
+"text": "Healthcare Town Hall - Sugar Land",
+"href": "https://www.vikkigoodwin.com/events/0818townhall"
+},
+{
+"text": "Healthcare Town Hall - Tyler",
+"href": "https://www.vikkigoodwin.com/events/0821townhall"
+},
+{
+"text": "Healthcare Town Hall - Waco",
+"href": "https://www.vikkigoodwin.com/events/0823townhall"
+},
+{
+"text": "Help Vikki Legalize it!",
+"href": "https://www.mobilize.us/texasdemocrats/event/996884/"
+},
+{
+"text": "Holly Taylor",
+"href": "https://www.hollytforjudge.com/"
+},
+{
+"text": "Home",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "House Party — Richardson",
+"href": "https://www.vikkigoodwin.com/events/2026/1011houseparty"
+},
+{
+"text": "Housing Affordability",
+"href": "https://www.vikkigoodwin.com/housing"
+},
+{
+"text": "Houston IAPAC Candidate Meet & Greet",
+"href": "https://www.vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0718bigspring-cdygn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0721houston?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/072509?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0726?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0730?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0730phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0806phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0816phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0818phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0818townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0819townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0820townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0821townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0822?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0822dallas?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0823townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0903phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0905rally?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0907townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0908phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0908townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0910phonebank-625jn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0913bastrop?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0915phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0917phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0922phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0924phonebank-jkhe3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0929phonebank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/1011?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/1011fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/1013rally?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/106gotvkickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/108fundrais?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/2026/10/7/meet-greet-ut-arlington?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/2026/1010canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/2026/1011houseparty?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/electionday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/firstdayofearlyvoting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/registrationdeadline?format=ical"
+},
+{
+"text": "Join Team Vikki",
+"href": "https://www.mobilize.us/texasdemocrats/event/996884/"
+},
+{
+"text": "Kyle Rable",
+"href": "https://www.rableforwesttexas.com/"
+},
+{
+"text": "Legalize it! Houston THC Rally",
+"href": "https://www.vikkigoodwin.com/events/0905rally"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0903phonebank"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0908phonebank"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0910phonebank-625jn"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0915phonebank"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0917phonebank"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0922phonebank"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0924phonebank-jkhe3"
+},
+{
+"text": "Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0929phonebank"
+},
+{
+"text": "Legalize it! Rally — San Antonio",
+"href": "https://www.vikkigoodwin.com/events/1013rally"
+},
+{
+"text": "Meet & Greet — UT Arlington",
+"href": "https://www.vikkigoodwin.com/events/2026/10/7/meet-greet-ut-arlington"
+},
+{
+"text": "More Issues",
+"href": "https://www.vikkigoodwin.com/issues"
+},
+{
+"text": "My Voter Portal",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "News",
+"href": "https://www.vikkigoodwin.com/news"
+},
+{
+"text": "Online Store",
+"href": "https://store.goodwin4texas.com/"
+},
+{
+"text": "Organizations",
+"href": "https://www.vikkigoodwin.com/endorsements-organizations"
+},
+{
+"text": "Phone Bank with Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0730phonebank"
+},
+{
+"text": "Phone Bank with Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0806phonebank"
+},
+{
+"text": "Phone Bank with Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0816phonebank"
+},
+{
+"text": "Phone Bank with Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0818phonebank"
+},
+{
+"text": "Please see our FAQ page for more information.",
+"href": "https://www.votetexas.gov/faq/index.html"
+},
+{
+"text": "Pooja Sethi",
+"href": "https://www.poojafortexas.com/"
+},
+{
+"text": "Protect Texas Water",
+"href": "https://store.goodwin4texas.com/"
+},
+{
+"text": "Public Education",
+"href": "https://www.vikkigoodwin.com/education"
+},
+{
+"text": "Public Officials",
+"href": "https://www.vikkigoodwin.com/endorsements-public-officials"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/vikkioct8"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.mobilize.us/collinyds/event/1027917/"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.mobilize.us/dallasdemocrats/event/1054960/"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.mobilize.us/texasdemocraticparty/event/1054265/"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.mobilize.us/texasdemocrats/event/1055736/"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.mobilize.us/tsta/event/1048332/"
+},
+{
+"text": "RSVP here",
+"href": "https://actionnetwork.org/events/houston-tlpc-peoples-hearing"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/mobilize/event/1001505/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006129/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006132/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006136/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006140/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006148/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006150/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018907/"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1022368"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/1023459/?referring_vol=13607183&share_context=dashboard-event-details&sharer_role=2"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/texasdemocrats/event/984669/"
+},
+{
+"text": "RSVP here for more information",
+"href": "https://www.mobilize.us/sandeepfortexas66/event/987914/?referring_vol=11028926&rname=Pooja&timeslot=6148341&referring_participation=52350700&referring_data_signature=v1-c62723ee1a239443&share_medium=copy_link&share_context=signup-form-modal"
+},
+{
+"text": "RSVP here for the Austin rally",
+"href": "https://www.mobilize.us/hrctx/event/992403/"
+},
+{
+"text": "RSVP here to save your spot",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006140/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006129/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006132/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006136/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006148/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006150/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006160/"
+},
+{
+"text": "RSVP here to save your spot.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1023472/"
+},
+{
+"text": "RSVP here.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006160/"
+},
+{
+"text": "RSVP here.",
+"href": "https://www.mobilize.us/texasdemocrats/event/1023472/"
+},
+{
+"text": "Read our privacy policy here.",
+"href": "https://www.vikkigoodwin.com/privacy"
+},
+{
+"text": "Reception — Houston Heights",
+"href": "https://www.vikkigoodwin.com/events/108fundrais"
+},
+{
+"text": "Reception — McKinney",
+"href": "https://www.vikkigoodwin.com/events/1011fundraiser"
+},
+{
+"text": "Rep. Jon Rosenthal",
+"href": "https://jonrosenthaltx.com/"
+},
+{
+"text": "Rep. Vikki Goodwin",
+"href": "https://www.vikkigoodwin.com/meet-vikki"
+},
+{
+"text": "Riley Rodriquez",
+"href": "https://www.rileyforsenate.org/"
+},
+{
+"text": "Sandeep Shrivastava",
+"href": "https://sandeepfortexas.com/"
+},
+{
+"text": "Sarah Eckhardt",
+"href": "https://www.saraheckhardt.com/"
+},
+{
+"text": "Sign up here",
+"href": "https://www.mobilize.us/texasdemocrats/event/996884/"
+},
+{
+"text": "Sign up now",
+"href": "https://www.mobilize.us/hrctx/event/992403/"
+},
+{
+"text": "South Plains Swing: Abilene",
+"href": "https://www.vikkigoodwin.com/events/0718bigspring-cdygn"
+},
+{
+"text": "Start a new voter registration application here",
+"href": "https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN"
+},
+{
+"text": "Terms and Privacy Policy.",
+"href": "https://www.vikkigoodwin.com/privacy"
+},
+{
+"text": "Texas Cares",
+"href": "https://www.vikkigoodwin.com/texascares"
+},
+{
+"text": "Texas Legislative Progressive Caucus (TLPC)",
+"href": "https://admin.actionnetwork.org/events/houston-tlpc-peoples-hearing/texaslpc.org"
+},
+{
+"text": "Texas Voters",
+"href": "https://www.vikkigoodwin.com/endorsements-texas-voters"
+},
+{
+"text": "Texas.gov",
+"href": "http://texas.gov"
+},
+{
+"text": "The People's Hearing Houston",
+"href": "https://www.vikkigoodwin.com/events/0721houston"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0718bigspring-cdygn"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0721houston"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/072509"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0726"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0730"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0730phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0806phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0816phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0818phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0818townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0819townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0820townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0821townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0822"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0822dallas"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0823townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0903phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0905rally"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0907townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0908phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0908townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0910phonebank-625jn"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0913bastrop"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0915phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0917phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0922phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0924phonebank-jkhe3"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/0929phonebank"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/1011"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/1011fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/1013rally"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/106gotvkickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/108fundrais"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/2026/10/7/meet-greet-ut-arlington"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/2026/1010canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/2026/1011houseparty"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/electionday"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/firstdayofearlyvoting"
+},
+{
+"text": "View Event →",
+"href": "https://www.vikkigoodwin.com/events/registrationdeadline"
+},
+{
+"text": "Vikki.Goodwin@house.texas.gov",
+"href": "mailto:Vikki.Goodwin@house.texas.gov"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vikkigoodwin.com/volunteer"
+},
+{
+"text": "Volunteer Kickoff Call — Virtual",
+"href": "https://www.vikkigoodwin.com/events/106gotvkickoff"
+},
+{
+"text": "Voter Registration Deadline",
+"href": "https://www.vikkigoodwin.com/events/registrationdeadline"
+},
+{
+"text": "Water Town Hall - Odessa",
+"href": "https://www.vikkigoodwin.com/events/0908townhall"
+},
+{
+"text": "[image: 100 Days Out: Austin Organizing Rally with Vikki Goodwin]",
+"href": "https://www.vikkigoodwin.com/events/0726"
+},
+{
+"text": "[image: Bastrop Rally]",
+"href": "https://www.vikkigoodwin.com/events/0913bastrop"
+},
+{
+"text": "[image: Blockwalk — Dallas]",
+"href": "https://www.vikkigoodwin.com/events/2026/1010canvass"
+},
+{
+"text": "[image: Candidate Forum — Richardson]",
+"href": "https://www.vikkigoodwin.com/events/1011"
+},
+{
+"text": "[image: Early Voting Begins]",
+"href": "https://www.vikkigoodwin.com/events/firstdayofearlyvoting"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.vikkigoodwin.com/events/electionday"
+},
+{
+"text": "[image: Goodwin4Texas San Antonio Fundraiser]",
+"href": "https://www.vikkigoodwin.com/events/072509"
+},
+{
+"text": "[image: Hate Has No Home Here: Frisco Town Hall]",
+"href": "https://www.vikkigoodwin.com/events/0730"
+},
+{
+"text": "[image: Healthcare Town Hall - Arlington]",
+"href": "https://www.vikkigoodwin.com/events/0822"
+},
+{
+"text": "[image: Healthcare Town Hall - Beaumont]",
+"href": "https://www.vikkigoodwin.com/events/0819townhall"
+},
+{
+"text": "[image: Healthcare Town Hall - Dallas]",
+"href": "https://www.vikkigoodwin.com/events/0822dallas"
+},
+{
+"text": "[image: Healthcare Town Hall - Midland]",
+"href": "https://www.vikkigoodwin.com/events/0907townhall"
+},
+{
+"text": "[image: Healthcare Town Hall - Nacogdoches]",
+"href": "https://www.vikkigoodwin.com/events/0820townhall"
+},
+{
+"text": "[image: Healthcare Town Hall - Sugar Land]",
+"href": "https://www.vikkigoodwin.com/events/0818townhall"
+},
+{
+"text": "[image: Healthcare Town Hall - Tyler]",
+"href": "https://www.vikkigoodwin.com/events/0821townhall"
+},
+{
+"text": "[image: Healthcare Town Hall - Waco]",
+"href": "https://www.vikkigoodwin.com/events/0823townhall"
+},
+{
+"text": "[image: House Party — Richardson]",
+"href": "https://www.vikkigoodwin.com/events/2026/1011houseparty"
+},
+{
+"text": "[image: Houston IAPAC Candidate Meet &amp; Greet]",
+"href": "https://www.vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet"
+},
+{
+"text": "[image: Legalize it! Houston THC Rally]",
+"href": "https://www.vikkigoodwin.com/events/0905rally"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki ]",
+"href": "https://www.vikkigoodwin.com/events/0924phonebank-jkhe3"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki ]",
+"href": "https://www.vikkigoodwin.com/events/0929phonebank"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0903phonebank"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0908phonebank"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0910phonebank-625jn"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0915phonebank"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0917phonebank"
+},
+{
+"text": "[image: Legalize it! Phone Bank With Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0922phonebank"
+},
+{
+"text": "[image: Legalize it! Rally — San Antonio]",
+"href": "https://www.vikkigoodwin.com/events/1013rally"
+},
+{
+"text": "[image: Meet & Greet — UT Arlington]",
+"href": "https://www.vikkigoodwin.com/events/2026/10/7/meet-greet-ut-arlington"
+},
+{
+"text": "[image: Phone Bank with Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0730phonebank"
+},
+{
+"text": "[image: Phone Bank with Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0806phonebank"
+},
+{
+"text": "[image: Phone Bank with Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0816phonebank"
+},
+{
+"text": "[image: Phone Bank with Team Vikki]",
+"href": "https://www.vikkigoodwin.com/events/0818phonebank"
+},
+{
+"text": "[image: Reception — Houston Heights]",
+"href": "https://www.vikkigoodwin.com/events/108fundrais"
+},
+{
+"text": "[image: Reception — McKinney]",
+"href": "https://www.vikkigoodwin.com/events/1011fundraiser"
+},
+{
+"text": "[image: Rep. Vikki Goodwin]",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "[image: South Plains Swing: Abilene]",
+"href": "https://www.vikkigoodwin.com/events/0718bigspring-cdygn"
+},
+{
+"text": "[image: The People's Hearing Houston]",
+"href": "https://www.vikkigoodwin.com/events/0721houston"
+},
+{
+"text": "[image: Volunteer Kickoff Call — Virtual]",
+"href": "https://www.vikkigoodwin.com/events/106gotvkickoff"
+},
+{
+"text": "[image: Voter Registration Deadline]",
+"href": "https://www.vikkigoodwin.com/events/registrationdeadline"
+},
+{
+"text": "[image: Water Town Hall - Odessa]",
+"href": "https://www.vikkigoodwin.com/events/0908townhall"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/sixpack"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/texasdemocrats/event/1006150/"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/texasdemocrats/event/1022368"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/texasdemocrats/event/1055736/"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/texasdemocrats/event/996884/"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/tsta/event/1048332/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/vikkigoodwintx.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VikkiGoodwinTX/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@vikkigoodwintx"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VikkiGoodwinTX"
+},
+{
+"text": "a better plan",
+"href": "https://act.vikkigoodwin.com/hemp/"
+},
+{
+"text": "a form of acceptable photo identification",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+},
+{
+"text": "plan",
+"href": "https://act.vikkigoodwin.com/hemp/"
+},
+{
+"text": "supporting form of identification",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+}
 ]

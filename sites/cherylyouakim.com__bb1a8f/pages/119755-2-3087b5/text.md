@@ -1,4 +1,6 @@
-Updated: May 17, 7:34 a.m. | Posted: May 16, 5:50 p.m.
+HOME BLOG ABOUT PRIORITIES ENDORSEMENTS NEWS COUNT ME IN DONATE Select Page by Cheryl Youakim | May 16, 2023 | News | 0 comments Elizabeth Shockman.
+Minnesota Public Radio (MPR) .
+16 May, 2023 Updated: May 17, 7:34 a.m. | Posted: May 16, 5:50 p.m.
 The Minnesota House passed an education spending and policy bill Tuesday — followed by the Senate on Wednesday morning — that puts more than $2.2 billion in new spending toward K-12 education over the next two years, but opponents said it also includes new mandates that many schools will have difficulty carrying out.
 The bill increases the per-pupil funding formula by 4 percent in 2024 and 2 percent in 2025 with increases tied to inflation at a maximum of 3 percent in following years.
 That will bring the formula up to $7,281 per pupil by 2025, as compared to the $6,863 per pupil the state currently spends.
@@ -15,8 +17,7 @@ English learner funding will increase to cover 87 percent of costs as compared t
 Addressing the cross-subsidy and tying funding to inflation is something Minnesota school districts have been advocating for for years.
 But Scott Croonquist, who is executive director of the Association of Metropolitan School Districts, worries that the bill doesn’t go far enough to address districts’ concerns.
 “School leaders greatly appreciate the significant investments — especially addressing the major shortfalls in the special education and English learner programs and linking the formula to inflation,” Croonquist said.
-“At the same time, the bill includes numerous new mandates and the formula increase falls short of the historic inflationary costs our school districts are facing.”
-Rep.
+“At the same time, the bill includes numerous new mandates and the formula increase falls short of the historic inflationary costs our school districts are facing.” Rep.
 Patricia Mueller, R-Austin, worried the bill set too many requirements for schools without sufficiently funding them.
 “More money means more control.
 It means more mandates.
@@ -29,10 +30,11 @@ Districts raised concerns about the cost to schools, as well as worries that the
 Tony Taschner is the communications director for Apple Valley-Rosemount — the third largest school district in Minnesota.
 “We’re going to be paying people not to work when we’ve got opportunities to work … that’s not helpful in terms of schools being able to staff the best they can.
 There’s work during the summer,” Taschner said.
-“Some of the four percent and two percent on the formula that might to be coming to districts is going to be eaten up by unfunded increase in unemployment.”
-In an effort to address concerns, lawmakers set aside $135 million as a one-time appropriation that could be used to reimburse districts paying unemployment with promises to analyze the cost and make adjustments in the future.
-Some of the new spending — $74.6 million — will go to the so-called READ Act, which is meant to change the way reading is taught
-in Minnesota elementary schools.
+“Some of the four percent and two percent on the formula that might to be coming to districts is going to be eaten up by unfunded increase in unemployment.” In an effort to address concerns, lawmakers set aside $135 million as a one-time appropriation that could be used to reimburse districts paying unemployment with promises to analyze the cost and make adjustments in the future.
+Some of the new spending — $74.6 million — will go to the so-called READ Act, which is meant to change the way reading is taught in Minnesota elementary schools.
 The money will pay for new curriculum, teacher training and two Minnesota Department of Education literacy specialist positions.
 Another $3.5 million will go toward funding the cost of supplying schools with menstrual products in restrooms and naloxone — an anti-overdose drug.
 And $6 million will be spent on ethnic studies grants meant to improve school access to ethnic studies curricula as well as helping schools retain racially and ethnically diverse staff — measures that accompany a requirement that schools begin offering ethnic studies courses by the 2027-2028 school year.
+Submit a Comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Recent Posts STEP school supply drive, State laws in effect July 1, and more Remembering Our Colleague Melissa Hortman Last Week of Session & Upcoming Town Hall Investing In Our Schools & Hold the Vote OIG Bill Passes and Mental Health Month Recent Comments Categories Blog News PRIVACY POLICY Facebook Twitter Designed by Glyph Digital

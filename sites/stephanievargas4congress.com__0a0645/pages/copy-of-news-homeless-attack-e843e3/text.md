@@ -1,13 +1,9 @@
-Stephanie M.
-Vargas
-for Congress
-June 2, 2026
-Stephanie Vargas Inspiring
-the Next Generation of Leaders
-Colton, CA — April 1, 2026
-Congressional candidate Stephanie Vargas was invited to participate in Woodrow Wilson Elementary School’s third annual Career Day on Wednesday, where she spoke to students about her work as the Chief Deputy City Clerk for the City of Colton.
-Vargas explained the responsibilities she carries as the city’s elections official and highlighted the importance of open government and public transparency.
-Throughout her presentation, Vargas encouraged students to stay engaged in their community by paying attention to local issues, speaking up in civic discussions, communicating with their representatives, and even considering running for office in the future.
-She emphasized that young people play a vital role in shaping the direction of their city.
-Vargas said her heart is with the next generation and that she is committed to fighting for a future where children can grow up with opportunity, stability, and safety.
+top of page Stephanie M.
+Vargas for Congress June 2, 2026 Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+DONATE Click Here to Register to Vote Click Here to Report Voter Fraud Stephanie Vargas Inspiring the Next Generation of Leaders Colton, CA — April 1, 2026 Congressional candidate Stephanie Vargas was invited to participate in Woodrow Wilson Elementary School’s third annual Career Day on Wednesday, where she spoke to students about her work as the Chief Deputy City Clerk for the City of Colton.
+Vargas explained the responsibilities she carries as the city’s elections official and highlighted the importance of open government and public transparency. ​ Throughout her presentation, Vargas encouraged students to stay engaged in their community by paying attention to local issues, speaking up in civic discussions, communicating with their representatives, and even considering running for office in the future.
+She emphasized that young people play a vital role in shaping the direction of their city. ​ Vargas said her heart is with the next generation and that she is committed to fighting for a future where children can grow up with opportunity, stability, and safety.
 The event offered students a firsthand look at public service and the impact they can have as future leaders in their community.
+Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Paid for by Friends of Stephanie Vargas Terms & Conditions Privacy Policy Accessibility Statement © # by Stephanie M.
+Vargas, Powered and secured by Wix bottom of page

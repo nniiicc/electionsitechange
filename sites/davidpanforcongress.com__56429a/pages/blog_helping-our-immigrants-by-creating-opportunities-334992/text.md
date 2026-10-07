@@ -1,6 +1,4 @@
-Helping our immigrants by creating opportunities
-Public safety, jobs, and a good education help us all
-Like my parents when they came to the US from Taiwan, immigrants today do not seek handouts but jobs and opportunities.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Helping our immigrants by creating opportunities Sep 5 Written By Guest User Public safety, jobs, and a good education help us all Like my parents when they came to the US from Taiwan, immigrants today do not seek handouts but jobs and opportunities.
 The keys to creating such opportunities are ensuring public safety, reducing government spending and regulation, and providing a good education.
 Unfortunately, many of our government policies have been working in the opposite direction.
 Efforts to defund the police or relax enforcement of our laws have threatened public safety.
@@ -22,3 +20,9 @@ I support school choice, which would allow parents to move their children to the
 Charter schools and voucher programs have been proven to improve student performance, including in the existing public schools.
 Please help me to ensure safe streets, job opportunities, and a good education for everyone.
 Find out more, donate, or volunteer at DavidPanforCongress.com.
+Guest User Previous Previous Increasing government spending only makes our problems worse Next Next Raising the Child Tax Credit Is a Bad Idea Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

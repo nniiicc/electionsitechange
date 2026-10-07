@@ -1,14 +1,66 @@
 [
-"https://facebook.com/voterandyfine",
-"https://instagram.com/vote_randy_fine",
-"https://secure.winred.com/randy-fine-for-congress/donate",
-"https://secure.winred.com/randy-fine-for-congress/storefront",
-"https://voterandyfine.com/",
-"https://voterandyfine.com/about",
-"https://voterandyfine.com/endorsements",
-"https://voterandyfine.com/privacy",
-"https://voterandyfine.com/terms",
-"https://voterandyfine.com/volunteer",
-"https://x.com/VoteRandyFine",
-"https://youtu.be/xDJdBl52Tko"
+{
+"text": "ABOUT",
+"href": "https://www.voterandyfine.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/randy-fine-for-congress/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.voterandyfine.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.voterandyfine.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.voterandyfine.com"
+},
+{
+"text": "Info@VoteRandyFine.com",
+"href": "mailto:Info@VoteRandyFine.com"
+},
+{
+"text": "PRIVACY",
+"href": "https://www.voterandyfine.com/privacy"
+},
+{
+"text": "STAY UP TO DATE",
+"href": "https://www.voterandyfine.com/volunteer"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/randy-fine-for-congress/storefront/"
+},
+{
+"text": "TERMS",
+"href": "https://www.voterandyfine.com/terms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voterandyfine/"
+},
+{
+"text": "[image: Fine Logo.png]",
+"href": "https://www.voterandyfine.com"
+},
+{
+"text": "[image: Fine for Congress Logo_white lines.png]",
+"href": "https://www.voterandyfine.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vote_randy_fine/"
+},
+{
+"text": "[image: Twitter X]",
+"href": "https://x.com/VoteRandyFine"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://youtu.be/xDJdBl52Tko"
+}
 ]

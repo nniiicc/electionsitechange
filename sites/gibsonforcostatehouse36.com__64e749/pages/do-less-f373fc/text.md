@@ -1,4 +1,4 @@
-Yes, We Can Do Less!
+Home Meet Andrew Do Less Issues Volunteer Events Privacy Policy Yard Signs Voter Information Yes, We Can Do Less!
 That might sound strange coming from someone running for office.
 Most politicians promise more—more programs, more spending, and more control over your daily life.
 I’m making a different case: we’ve tried “more” for a long time, and it hasn’t made life simpler, freer, or more affordable.
@@ -19,6 +19,6 @@ So yes—this campaign is about doing less.
 Less overreach.
 Less waste.
 Less noise.
-And in return, restoring something we’ve been losing for far too long:
-More freedom.
+And in return, restoring something we’ve been losing for far too long: More freedom.
 Yes, We Can Do Less—and live better because of it.
+Home Meet Andrew Do Less Issues Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Andrew Gibson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Do Less Endorsements Events Privacy Policy Volunteer Yard Signs Contact Voter Information Close Menu

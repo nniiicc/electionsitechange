@@ -1,16 +1,74 @@
 [
-"https://andreaguinn.com/",
-"https://bsky.app/profile/dianaforqueens.com",
-"https://dianaforqueens.com/",
-"https://dianaforqueens.com/es/volunteer",
-"https://dianaforqueens.com/events",
-"https://dianaforqueens.com/volunteer",
-"https://ericthor.com/",
-"https://facebook.com/dianaforqueens",
-"https://instagram.com/dianaforqueens",
-"https://instagram.com/silas.emerson.harris",
-"https://karamccurdy.com/",
-"https://romkehoogwaerts.com/",
-"https://tiktok.com/@dianaforqueens",
-"https://x.com/dianaforqueens"
+{
+"text": "Andrea Guinn",
+"href": "https://andreaguinn.com/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/dianaforqueens.com"
+},
+{
+"text": "Diana for Queens",
+"href": "https://dianaforqueens.com/"
+},
+{
+"text": "EN",
+"href": "https://dianaforqueens.com/volunteer/"
+},
+{
+"text": "ES",
+"href": "https://dianaforqueens.com/es/volunteer/"
+},
+{
+"text": "English",
+"href": "https://dianaforqueens.com/volunteer/"
+},
+{
+"text": "Eric Thor",
+"href": "https://ericthor.com"
+},
+{
+"text": "Español",
+"href": "https://dianaforqueens.com/es/volunteer/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/dianaforqueens"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dianaforqueens"
+},
+{
+"text": "Kara McCurdy",
+"href": "https://karamccurdy.com/"
+},
+{
+"text": "Looking for upcoming events? View our event calendar",
+"href": "https://dianaforqueens.com/events"
+},
+{
+"text": "Romke Hoogwaerts",
+"href": "https://romkehoogwaerts.com/"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://dianaforqueens.com/events"
+},
+{
+"text": "Silas Emerson Harris",
+"href": "https://www.instagram.com/silas.emerson.harris/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@dianaforqueens"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/dianaforqueens"
+},
+{
+"text": "info@dianaforqueens.com",
+"href": "mailto:info@dianaforqueens.com"
+}
 ]

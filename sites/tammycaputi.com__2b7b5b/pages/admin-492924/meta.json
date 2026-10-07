@@ -1,7 +1,9 @@
 {
  "description": "Admin on Caputi for Arizona. The official platform for Tammy Caputi's campaign for State Representative.",
  "final_url": "https://tammycaputi.com/admin",
- "paid_for_by": null,
+ "fingerprint": "7da950d0bc87dccc0962263b30d322f151e68cf7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Admin | Caputi for Arizona",
  "years_mentioned": []
 }

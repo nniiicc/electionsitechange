@@ -1,299 +1,65 @@
-2026 Colorado Election
-Gena Ozols'
-2026 Ballot Guide
-View Gena’s recommendation for each measure and
-select “Gena’s Reasoning” for more information.
-OFFICIAL VOTER GUIDE • HOUSE DISTRICT 3
-Your Voice.
-A stronger Colorado
-= Gena's recommendation.
-AMENDMENT
-81
-Law Enforcement Reporting Requirements
-Changes to reporting requirements for law enforcement interactions.
-Yes
-No
-This amendment would force local law enforcement to coordinate with ICE, turning officers who should be focused on community safety into an extension of the federal administration’s cruel and xenophobic immigration agenda.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate 2026 Colorado Election Gena Ozols' 2026 Ballot Guide View Gena’s recommendation for each measure and select “Gena’s Reasoning” for more information.
+OFFICIAL VOTER GUIDE • HOUSE DISTRICT 3 Your Voice.
+A stronger Colorado = Gena's recommendation.
+AMENDMENT 81 Law Enforcement Reporting Requirements Changes to reporting requirements for law enforcement interactions.
+Yes No + GENA’S REASONING This amendment would force local law enforcement to coordinate with ICE, turning officers who should be focused on community safety into an extension of the federal administration’s cruel and xenophobic immigration agenda.
 When families fear that any interaction with local authorities could put them or their loved ones at risk, everyone is less safe and lacks the confidence to report dangerous crimes.
 Colorado should be building trust between law enforcement and the communities they serve, not weaponizing local officers to help carry out federal immigration policies that tear families and communities apart.
-Designated Representative:
-Michael Fields c/o West Group
-Suzanne Taheri c/o West Group
-Favor:
-A Brighter Colorado
-Registered Agent: Steven Ward
-Eagle County Republican Women Club
-Registered Agent: Christina Adams
-Oppose:
-Colorado Communities First
-Registered Agent: Henry Sandman
-The People’s No
-Registered Agent: Dusti Gurule
-Vote Common Sense
-Registered Agent: Ashley Stevens
-AMENDMENT
-82
-Right to Natural Gas
-Creates a constitutional right for consumers to access and use natural gas.
-Yes
-No
-I believe we need a balanced approach to Colorado’s energy needs, and consumers should be able to use natural gas if they choose or if it is what their community’s infrastructure supports.
+Designated Representative: ​ ​ Michael Fields c/o West Group Suzanne Taheri c/o West Group Favor: A Brighter Colorado Registered Agent: Steven Ward Eagle County Republican Women Club Registered Agent: Christina Adams Oppose: Colorado Communities First Registered Agent: Henry Sandman The People’s No Registered Agent: Dusti Gurule Vote Common Sense Registered Agent: Ashley Stevens AMENDMENT 82 Right to Natural Gas Creates a constitutional right for consumers to access and use natural gas.
+Yes No + GENA’S REASONING I believe we need a balanced approach to Colorado’s energy needs, and consumers should be able to use natural gas if they choose or if it is what their community’s infrastructure supports.
 However, enshrining access to a specific product or industry in our state constitution sets a dangerous and unnecessary precedent.
 I am also deeply concerned that this amendment is being led by Advance Colorado, a right-wing organization with a history of using ballot measures to advance a broader political agenda.
 Given both the substance of the proposal and the organization behind it, I cannot support this amendment.
-You can read more about Advance Colorado here and why their involvement raises additional concerns for me.
-Designated Representative:
-Steven Ward Advance Colorado, Michael Fields Advance Colorado
-Favor:
-A Brighter Colorado
-Registered Agent: Steven Ward
-Oppose:
-No Pollution in the Constitution
-Registered Agent: Nikki Riedt
-Vote Common Sense
-Registered Agent: Ashley Stevens
-AMENDMENT
-83
-Constitutional Right to Hunt and Fish
-Adds the right to hunt and fish to the Colorado Constitution.
-Yes
-No
-The Constitution should be reserved for protecting our most fundamental rights and values.
+You can read more about Advance Colorado here and why their involvement raises additional concerns for me .
+Designated Representative: ​ ​ Steven Ward Advance Colorado, Michael Fields Advance Colorado Favor: A Brighter Colorado Registered Agent: Steven Ward Oppose: No Pollution in the Constitution Registered Agent: Nikki Riedt Vote Common Sense Registered Agent: Ashley Stevens AMENDMENT 83 Constitutional Right to Hunt and Fish Adds the right to hunt and fish to the Colorado Constitution.
+Yes No + GENA’S REASONING The Constitution should be reserved for protecting our most fundamental rights and values.
 While I recognize the cultural and economic importance of hunting and fishing in Colorado, I do not believe they require constitutional protection.
 This amendment is an unnecessary attempt to lock vague, special-interest language into our state’s highest law, potentially undermining decades of carefully developed wildlife protections and limiting Colorado’s ability to responsibly manage wildlife in the future.
-Designated Representative:
-Steven Ward c/o West Group, Suzanne Taheri c/o West Group
-Favor:
-Let’s Go Colorado
-Registered Agent: Gwen Benevento
-T.
-Roosevelt Conservation Alliance
-Registered Agent: Jon Anderson
-More info at: www.keepcoloradosvoice.com/why/vote-no-83/
-Oppose:
-Protect Colorado’s Constitution
-Registered Agent: Clinton Talbot
-Stop the Constitutional Power Grab
-Registered Agent: Matt Bergles
-Colorado Hunters and Anglers for Sensible Wildlife Conservation
-Registered Agent: Eric Lee Washburn
-AMENDMENT
-Mail Ballot Voter Identification
-84
-Adds voter-identification requirements for voting by mail in Colorado.
-Yes
-No
-This amendment creates unnecessary voting barriers, does not make elections more secure and is designed to disenfranchise voters and suppress turnout.
+Designated Representative: ​ ​ Steven Ward c/o West Group, Suzanne Taheri c/o West Group Favor: Let’s Go Colorado Registered Agent: Gwen Benevento ​ T.
+Roosevelt Conservation Alliance Registered Agent: Jon Anderson More info at: www.keepcoloradosvoice.com/why/vote-no-83/ Oppose: Protect Colorado’s Constitution Registered Agent: Clinton Talbot Stop the Constitutional Power Grab Registered Agent: Matt Bergles Colorado Hunters and Anglers for Sensible Wildlife Conservation Registered Agent: Eric Lee Washburn AMENDMENT Mail Ballot Voter Identification 84 + GENA’S REASONING Adds voter-identification requirements for voting by mail in Colorado.
+Yes No This amendment creates unnecessary voting barriers, does not make elections more secure and is designed to disenfranchise voters and suppress turnout.
 The state of Colorado is already a gold standard of election security and accessibility and there is absolutely no evidence to the contrary.
 This measure is nothing more than an attempt to cater to false rhetoric and the federal attacks on our elections.
-Designated Representative:
-Chuck Broerman West Group, Suzanne Taheri West Group
-Favor:
-Colorado Voter Trust Initiative
-Registered Agent: Suzanne Taheri
-Oppose:
-Defend our Ballots Issue Committee
-Registered Agent: Richard Pelletier
-AMENDMENT
-85
-Plain Language Ballot Questions
-Establishes new plain-language requirements for the wording of ballot questions.
-Yes
-No
-Ironically, this amendment leaves language too vague and could strip away essential details of the ballot measures that may lead voters to be less informed.
+Designated Representative: ​ ​ Chuck Broerman West Group, Suzanne Taheri West Group Favor: ​ Colorado Voter Trust Initiative Registered Agent: Suzanne Taheri Oppose: Defend our Ballots Issue Committee Registered Agent: Richard Pelletier AMENDMENT 85 Plain Language Ballot Questions Establishes new plain-language requirements for the wording of ballot questions.
+Yes No + GENA’S REASONING Ironically, this amendment leaves language too vague and could strip away essential details of the ballot measures that may lead voters to be less informed.
 Most good policy and good explanations cannot be boiled down to soundbites, (see this ballot guide) and voters deserve full and thorough information on the proposals on their ballot.
 Similarly to other measures, I am also deeply concerned that this amendment is being led by Advance Colorado, a right-wing organization with a history of using ballot measures to advance a broader political agenda.
 Given both the substance of the proposal and the organization behind it, I cannot support this amendment.
-Designated Representative:
-Suzanne Taheri Advance Colorado
-Michael Fields Advance Colorado
-Favor:
-A Brighter Colorado
-Registered Agent: Steven Ward
-Oppose:
-N/A
-AMENDMENT
-Congressional Redistricting
-86
-Yes
-No
-Changes the rules governing when Colorado’s congressional districts may be redrawn.
+Designated Representative: ​ ​ Suzanne Taheri Advance Colorado Michael Fields Advance Colorado Favor: ​ A Brighter Colorado Registered Agent: Steven Ward Oppose: N/A AMENDMENT Congressional Redistricting 86 + GENA’S REASONING Yes No Changes the rules governing when Colorado’s congressional districts may be redrawn.
 Colorado already has an independent redistricting process designed to draw congressional districts following each U.S.
 Census while limiting partisan influence.
 This amendment would circumvent that established process and open the door to politically motivated redistricting between census cycles, threatening fair representation and creating new opportunities for partisan gerrymandering.
 Similarly to other measures, I am also deeply concerned that this amendment is being led by Advance Colorado, a right-wing organization with a history of using ballot measures to advance a broader political agenda.
 Given both the substance of the proposal and the organization behind it, I cannot support this amendment.
-Designated Representative:
-Suzanne Taheri Advance Colorado
-Elizabeth Caven Advance Colorado
-Favor:
-Fair Redistricting Colorado
-Registered Agent: Steven Ward
-A Brighter Colorado
-Registered Agent: Steven Ward
-Oppose:
-N/A
-AMENDMENT
-87
-Graduated Income Tax
-Replaces Colorado’s flat income tax with graduated tax rates based on income.
-Yes
-No
-This amendment would create a graduated income tax in the state of Colorado.
+Designated Representative: ​ ​ Suzanne Taheri Advance Colorado Elizabeth Caven Advance Colorado Favor: ​ Fair Redistricting Colorado Registered Agent: Steven Ward A Brighter Colorado Registered Agent: Steven Ward Oppose: N/A AMENDMENT 87 Graduated Income Tax Replaces Colorado’s flat income tax with graduated tax rates based on income.
+Yes No + GENA’S REASONING This amendment would create a graduated income tax in the state of Colorado.
 This will create a tax cut for 97% of Colorado taxpayers including seniors, veterans, and most small businesses and local restaurants while those that make $500,000 or more will pay their fair share of taxes in order to lock in investments to schools, childcare, healthcare, and communities across the state.
-Designated Representative:
-Chris deGruy Kennedy
-Kiyana Newell
-Favor:
-Protect Colorado’s Future Coalition
-Registered Agent: Chris deGruy Kennedy
-Yes for Colorado Kids
-Registered Agent: Ashley Stevens
-Oppose:
-Americans For Prosperity Colorado Issue Committee
-Registered Agent: Margee Clancy
-Your Family's Future Alliance
-Registered Agent: Geoff Sakala
-Keep Colorado Affordable
-Registered Agent: Steve Ward
-A Brighter Colorado
-Registered Agent: Steven Ward
-Affordable Colorado
-Registered Agent: Katie Kennedy
-Let’s Go Colorado
-Registered Agent: Gwen Benevento
-Don’t Price Us Out
-Registered Agent: Katie Kennedy
-PROPOSITION
-NN
-Public Education Funding
-Increases Colorado’s investment in K–12 public education each year for the next ten years.
-Yes
-No
-This proposition would ensure Colorado increases its investment in K-12 public education by two percent each year for the next ten years, without raising taxes.
+Read more about this ballot measure here Designated Representative: ​ ​ Chris deGruy Kennedy Kiyana Newell Favor: ​ Protect Colorado’s Future Coalition Registered Agent: Chris deGruy Kennedy Yes for Colorado Kids Registered Agent: Ashley Stevens Oppose: Americans For Prosperity Colorado Issue Committee Registered Agent: Margee Clancy Your Family's Future Alliance Registered Agent: Geoff Sakala Keep Colorado Affordable Registered Agent: Steve Ward A Brighter Colorado Registered Agent: Steven Ward Affordable Colorado Registered Agent: Katie Kennedy Let’s Go Colorado Registered Agent: Gwen Benevento Don’t Price Us Out Registered Agent: Katie Kennedy PROPOSITION NN Public Education Funding Increases Colorado’s investment in K–12 public education each year for the next ten years.
+Yes No + GENA’S REASONING This proposition would ensure Colorado increases its investment in K-12 public education by two percent each year for the next ten years, without raising taxes.
 Those investments would help increase teacher pay and retention, reduce class sizes, and expand access to career and technical education.
 The measure was thoughtfully developed by leading state budget experts alongside education advocates, creating a responsible approach to strengthening Colorado’s public schools and investing in our students, educators, and communities.
-Designated Representative:
-N/A
-Favor:
-Yes for Colorado Kids
-Registered Agent: Ashley Stevens
-Oppose:
-A Brighter Colorado
-Registered Agent: Steven Ward
-Affordable Colorado
-Registered Agent: Katie Kennedy
-Let’s Go Colorado
-Registered Agent: Gwen Benevento
-Keep Colorado Affordable
-Registered Agent: Steve Ward
-Don’t Price Us Out
-Registered Agent: Katie Kennedy
-PROPOSITION
-Penalties for Fentanyl Crimes
-132
-Increases criminal penalties for certain fentanyl-related offenses.
-Yes
-No
-Prop 132 is a private prison cash grab masquerading as a solution to the opioid crisis.
+Designated Representative: ​ ​ N/A Favor: ​ Yes for Colorado Kids Registered Agent: Ashley Stevens Oppose: A Brighter Colorado Registered Agent: Steven Ward Affordable Colorado Registered Agent: Katie Kennedy Let’s Go Colorado Registered Agent: Gwen Benevento Keep Colorado Affordable Registered Agent: Steve Ward Don’t Price Us Out Registered Agent: Katie Kennedy PROPOSITION Penalties for Fentanyl Crimes 132 + GENA’S REASONING Increases criminal penalties for certain fentanyl-related offenses.
+Yes No Prop 132 is a private prison cash grab masquerading as a solution to the opioid crisis.
 It would create new criminals out of people struggling with addiction and even people who unknowingly purchase drugs laced with fentanyl, while doing nothing meaningful to prevent addiction, expand treatment, or stop fentanyl from entering our communities.
 Instead, Colorado taxpayers would be on the hook for at least $433 million to incarcerate more people, separate more families, and fill more prison beds.
 We cannot incarcerate our way out of addiction, and we certainly should not make prison corporations richer trying.
-Designated Representative:
-Suzanne Taheri c/o West Group Michael Fields c/o West Group
-Favor:
-A Brighter Colorado
-Registered Agent: Steven Ward
-Eagle County Republican Women Club
-Registered Agent: Christina Adams
-Oppose:
-The People’s No
-Registered Agent: Dusti Gurule
-Coloradans For Real Safety Solutions
-Registered Agent: Ashley Stevens
-Vote Common Sense
-Registered Agent: Ashley Stevens
-PROPOSITION
-Penalties for Human Trafficking of a Minor
-133
-Increases sentencing requirements for crimes involving the human trafficking of a minor.
-Yes
-No
-Human trafficking of children is an unspeakably vile and evil crime.
+Read more from our partners here.
+Designated Representative: ​ ​ Suzanne Taheri c/o West Group Michael Fields c/o West Group Favor: ​ A Brighter Colorado Registered Agent: Steven Ward Eagle County Republican Women Club Registered Agent: Christina Adams Oppose: The People’s No Registered Agent: Dusti Gurule Coloradans For Real Safety Solutions Registered Agent: Ashley Stevens Vote Common Sense Registered Agent: Ashley Stevens PROPOSITION Penalties for Human Trafficking of a Minor 133 + GENA’S REASONING Increases sentencing requirements for crimes involving the human trafficking of a minor.
+Yes No Human trafficking of children is an unspeakably vile and evil crime.
 Those who exploit children should face severe consequences, and do so under state and federal law.
 This proposition exploits justified outrage as well as survivors’ trauma, to mandate life sentences and expand incarceration while limiting judicial discretion.
 If we are serious about fighting trafficking, we should invest in preventing exploitation, supporting survivors, and prosecuting traffickers, not by exploiting a horrific crime to sell more prison beds.
-Designated Representative: Erin Lee and Michelle Austin
-Favor:
-Protect Kids Colorado – Issue Committee
-Registered Agent: Patricia McKernan
-Protect Our Children
-Registered Agent: Michele Austin
-Oppose:
-Vote Common Sense
-Registered Agent: Ashley Stevens
-PROPOSITION
-Male and Female Participation in School Sports
-134
-Yes
-No
-Establishes sex-based eligibility requirements for participation in school sports.
+Designated Representative: ​ Erin Lee and Michelle Austin Favor: ​ Protect Kids Colorado – Issue Committee Registered Agent: Patricia McKernan Protect Our Children Registered Agent: Michele Austin Oppose: Vote Common Sense Registered Agent: Ashley Stevens PROPOSITION Male and Female Participation in School Sports 134 Yes No + GENA’S REASONING Establishes sex-based eligibility requirements for participation in school sports.
 Every kid deserves a fair shot to play, and I trust coaches and athletic experts, not politicians, to set fair rules for school sports.
 This measure is so vague that it could subject any girl to an invasive “gender check” simply because someone thinks she is too tall, too strong, or doesn't look the way they think a girl should.
 That's not protecting girls.
 We should protect the safety, privacy, and dignity of all students.
-Designated Representative:
-Erin Lee and Michelle Austin
-Favor:
-Protect Kids Colorado – Issue Committee
-Registered Agent: Patricia McKernan
-Protect Our Children
-Registered Agent: Michele Austin
-Oppose:
-The People’s No
-Registered Agent: Dusti Gurule
-Families not Politics
-Registered Agent: Jason Story
-No on 134 and 135
-Registered Agent: Craig Skinner
-Protect Trans Kids
-Registered Agent: Z Williams
-Vote Common Sense
-Registered Agent: Ashley Stevens
-PROPOSITION
-Prohibit Certain Surgeries on Minors
-135
-Yes
-No
-Prohibits certain surgical procedures from being performed on minors.
+Designated Representative: ​ ​ Erin Lee and Michelle Austin Favor: ​ Protect Kids Colorado – Issue Committee Registered Agent: Patricia McKernan Protect Our Children Registered Agent: Michele Austin Oppose: The People’s No Registered Agent: Dusti Gurule Families not Politics Registered Agent: Jason Story No on 134 and 135 Registered Agent: Craig Skinner Protect Trans Kids Registered Agent: Z Williams Vote Common Sense Registered Agent: Ashley Stevens PROPOSITION Prohibit Certain Surgeries on Minors 135 Yes No + GENA’S REASONING Prohibits certain surgical procedures from being performed on minors.
 Medical decisions for children belong with families and trusted doctors, not politicians.
 This measure is written so broadly that it could interfere with medically necessary care that has nothing to do with being transgender, including routine procedures for conditions like an undescended testicle.
 Families and doctors already make these decisions carefully together.
 The government should not take those decisions away from them or put children's healthcare at risk.
-Designated Representative:
-Erin Lee and Michelle Austin
-Favor:
-Protect Kids Colorado – Issue Committee
-Registered Agent: Patricia McKernan
-Protect Our Children
-Registered Agent: Michele Austin
-Oppose:
-The People’s No
-Registered Agent: Dusti Gurule
-Families not Politics
-Registered Agent: Jason Story
-No on 134 and 135
-Registered Agent: Craig Skinner
-Protect Trans Kids
-Registered Agent: Z Williams
-Vote Common Sense
-Registered Agent: Ashley Stevens
-PROPOSITION
-Income Tax Cap
-136
-Yes
-No
-Establishes a cap affecting Colorado’s income tax rates and future tax policy.
+Designated Representative: ​ ​ Erin Lee and Michelle Austin Favor: ​ Protect Kids Colorado – Issue Committee Registered Agent: Patricia McKernan Protect Our Children Registered Agent: Michele Austin Oppose: The People’s No Registered Agent: Dusti Gurule Families not Politics Registered Agent: Jason Story No on 134 and 135 Registered Agent: Craig Skinner Protect Trans Kids Registered Agent: Z Williams Vote Common Sense Registered Agent: Ashley Stevens PROPOSITION Income Tax Cap 136 Yes No + GENA’S REASONING Establishes a cap affecting Colorado’s income tax rates and future tax policy.
 I strongly support businesses that invest in Colorado, create good jobs, and take seriously their responsibility to the communities that help them succeed.
 That includes contributing to the schools, infrastructure, healthcare, and public services that businesses and their workers rely on.
 Proposition 136 would instead lock a major corporate tax break into law, allowing powerful corporations to avoid contributing their fair share.
@@ -301,53 +67,17 @@ Good businesses are good neighbors, and good neighbors understand that being par
 Similarly to other measures, I am also deeply concerned that this amendment is being led by Advance Colorado, a right-wing organization with a history of using ballot measures to advance a broader political agenda.
 Given both the substance of the proposal and the organization behind it, I cannot support this amendment.
 You can read more about Advance Colorado here and why their involvement raises additional concerns for me.
-Designated Representative:
-Suzanne Taheri Advance Colorado
-Michael Fields Advance Colorado
-Favor:
-A Brighter Colorado
-Registered Agent: Steven Ward
-Keep Colorado Affordable
-Registered Agent: Steve Ward
-Oppose:
-N/A
-PROPOSITION
-Designate Sporting Goods Sales Tax Revenue for Conservation
-137
-Yes
-No
-Dedicates existing sporting-goods sales tax revenue to conservation and outdoor protection.
+Designated Representative: ​ ​ Suzanne Taheri Advance Colorado Michael Fields Advance Colorado Favor: ​ A Brighter Colorado Registered Agent: Steven Ward Keep Colorado Affordable Registered Agent: Steve Ward Oppose: N/A PROPOSITION Designate Sporting Goods Sales Tax Revenue for Conservation 137 Yes No + GENA’S REASONING Dedicates existing sporting-goods sales tax revenue to conservation and outdoor protection.
 Proposition 137 does not create a new tax.
 It dedicates roughly $175 million annually from existing sporting goods sales tax revenue to conservation, wildfire prevention, water protection, and outdoor access.
 But there is a real tradeoff: permanently earmarking this revenue and exempting it from TABOR could reduce future refunds or limit funding available for priorities like education and healthcare.
 I am generally cautious about ballot-box budgeting for exactly that reason.
 However, Colorado faces growing wildfire, water, and conservation needs that require long-term investment.
 On balance, I believe protecting our land, water, and communities is worth that commitment.
-Designated Representative:
-Brendan Witt c/o Tierney Lawrence Stiles LLC
-Aaron Citron c/o Tierney Lawrence Stiles LLC
-Favor:
-Protect Colorado’s Land
-Water, Prevent Wildfires
-Registered Agent: Tarn Udall
-Oppose:
-Protect Colorado's Land, Communities, and Tax Dollars
-Registered Agent: Josh Schlossberg
-BALLOT ISSUE
-7A
-Front Range Passenger Rail District
-Creates a 0.333% sales tax to build and operate a larger Front Range passenger rail system.
-Yes
-No
-7A would create a 0.333% sales tax to build out and operate a larger Front Range passenger rail system.
+Designated Representative: ​ ​ Brendan Witt c/o Tierney Lawrence Stiles LLC Aaron Citron c/o Tierney Lawrence Stiles LLC Favor: ​ Protect Colorado’s Land Water, Prevent Wildfires Registered Agent: Tarn Udall Oppose: Protect Colorado's Land, Communities, and Tax Dollars Registered Agent: Josh Schlossberg BALLOT ISSUE 7A Front Range Passenger Rail District Creates a 0.333% sales tax to build and operate a larger Front Range passenger rail system.
+Yes No + GENA’S REASONING 7A would create a 0.333% sales tax to build out and operate a larger Front Range passenger rail system.
 Colorado keeps growing, I-25 congestion isn't going away, and we have spent decades building communities around the assumption that virtually every trip requires a car.
 Passenger rail creates another option for accessing jobs, education, and communities across the Front Range.
 I am generally not a fan of sales taxes because they disproportionately burden working families, and voters are being asked to establish a permanent revenue stream before we know exactly how the full system will perform.
 But major infrastructure requires long-term investment, and Colorado cannot solve congestion by simply adding more cars and highway lanes.
-Designated Representative:
-N/A
-Favor:
-Coloradans for CoCo
-Registered Agent: Rachel Gordon
-Oppose:
-N/A
+Designated Representative: ​ ​ N/A Favor: ​ Coloradans for CoCo Registered Agent: Rachel Gordon Oppose: N/A I want to hear from you Email: O zolsForHd3@gmail.com Phone: ‪(720) 739-0985‬ PO Box 1878 Englewood, CO 80110 Stay Updated Get campaign news & event updates * Join I want to subscribe to your mailing list. * Connect Donate Paid for by Gena for HD3: Agent Emily Mahoney bottom of page

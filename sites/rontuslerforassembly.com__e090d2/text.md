@@ -1,8 +1,7 @@
-Welcome
-Thanks for visiting my website!
+Home Biography Endorsements About Projects District Map Contact Donate Volunteer Home Biography Endorsements About Projects District Map Contact Donate Volunteer Honesty in Action Welcome Thanks for visiting my website!
 I am running to be your state representative for Wisconsin’s 3rd assembly district.
 My top priority as your state representative is to listen to your concerns and address the issues facing our area.
-My goal is to make Wisconsin a better place for businesses to grow and families to prosper.
+My goal is to make Wisconsin a better place for businesses to grow and families to prosper .
 In the Assembly, I'll be fighting for Wisconsin’s future.
 My agenda includes, but is not limited to, a small government, pro-growth economy, worker training, education and natural resources.
 We must do all that we can to establish the best business environment in which to grow the private sector and do all that we can to help every child get the very best education possible.
@@ -14,3 +13,4 @@ I want my representatives to fight for the people they represent and I will figh
 I would be honored to serve as your state representative.
 Thank you for your support.
 If you have a question or a concern you would like to discuss, please contact me at rtusler@tuslerlaw.com or 920-749-0400.
+Back to Top Powered by Squarespace

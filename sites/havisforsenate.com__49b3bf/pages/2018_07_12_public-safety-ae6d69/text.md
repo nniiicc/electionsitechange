@@ -1,4 +1,5 @@
-Public safety is an important state and local government function, provided primarily through a system of criminal laws and their enforcement that aims to protect citizens from the harmful actions of others.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Public Safety Public safety is an important state and local government function, provided primarily through a system of criminal laws and their enforcement that aims to protect citizens from the harmful actions of others.
 However, this purpose of crime prevention is not simply to punish offenders with long and counter-productive prison sentences.
 Sadly, the state of Maryland has maintained an extremely high percentage of incarcerated prisoners in its population, which is both costly and counter-productive to meaningful public safety.
 And, once incarcerated, inmates are given little opportunity for correction and rehabilitation that would ensure their safe return to normal life in society.
@@ -13,3 +14,5 @@ This cooperation involves, for example, the identification and removal of illega
 Maryland should not be a haven to protect and promote the presence of these illegal aliens to foment unnecessary crime and gang violence in society.
 Public safety must also include prison reform through the close monitoring and training of correction officials, to assure that inmates receive humane and ethical supervision.
 Happily, there are some very effective experiments and initiatives taking place in other states that we should study for use in Maryland as well.
+Published July 12, 2018 By Lee Havis Categorized as issues Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Lower Taxes Next post No to Speed Cameras Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

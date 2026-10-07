@@ -1,14 +1,3 @@
-top of page
-DONATE
-Home
-Meet Bryan
-Priorities
-News
-Volunteer
-More
-Use tab to navigate through the menu items.
-Bryan Cohn's Campaign Updates
-Opinion Column: "Undermining Democracy: Stripping Women's Rights Without Voter Input"
-A radically gerrymandered legislature should allow NC voters to decide abortion laws through a constitutional amendment vote of the people.
-Apr 29, 2024
-bottom of page
+top of page DONATE Home Meet Bryan Priorities News Volunteer More Use tab to navigate through the menu items.
+Bryan Cohn's Campaign Updates Opinion Column: "Undermining Democracy: Stripping Women's Rights Without Voter Input" A radically gerrymandered legislature should allow NC voters to decide abortion laws through a constitutional amendment vote of the people.
+Apr 29, 2024 CONTACT THE CAMPAIGN Paid for by Bryan Cohn For NC PO Box 10541 Raleigh, NC 27605 Privacy Statement bottom of page

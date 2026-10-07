@@ -1,11 +1,10 @@
-Organizations
-“Nick Collins’ career has been dedicated to championing union priorities.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Endorsements Organizations “Nick Collins’ career has been dedicated to championing union priorities.
 We can count on him to fight for strong wages, affordable and accessible healthcare benefits and retirement security, safe jobsites, and protecting people’s right to join a union.
-He understands the importance of centering the needs of working people over corporations and billionaires and we are proud to endorse Nick for reelection.”
-– Chrissy Lynch, President, Massachusetts AFL-CIO
-“The MNA is proud to once again endorse Senator Nick Collins for re-election in the First Suffolk District.
+He understands the importance of centering the needs of working people over corporations and billionaires and we are proud to endorse Nick for reelection.” – Chrissy Lynch, President, Massachusetts AFL-CIO “The MNA is proud to once again endorse Senator Nick Collins for re-election in the First Suffolk District.
 Senator Collins has been a strong advocate for frontline nurses and healthcare professionals.
 He has sponsored legislation to enforce mandatory overtime laws and co-sponsored legislation to reduce violence in healthcare settings.
 Most recently, Senator Collins led the charge to protect public sector workers from detrimental healthcare cost increases.
-We need him back in the State Senate!”
-– Katie Murphy, President and practicing ICU nurse, Massachusetts Nurses Association
+We need him back in the State Senate!” – Katie Murphy, President and practicing ICU nurse, Massachusetts Nurses Association People Governor Maura Healey Senator Michael Barrett Senator Michael Brady Senator William Brownsberger Senator Cynthia Creem Senator Brendan Crighton Senator John Cronin Senator Paul Feeney Senator Dylan Fernandes Senator Barry Finegold Senator John Keenan Senator Robyn Kennedy Senator Mark Montigny Senator Jacob Oliveira Senator Rebecca Rausch Senator Michael Rodrigues Senator Michael Rush Senator John Velis Senator Karen Spilka Senator William Driscoll State Auditor Diana DiZoglio Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

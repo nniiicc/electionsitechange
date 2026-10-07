@@ -1,15 +1,4 @@
-HER WORK
-Criminal Justice
-One of the four lead organizers and the primary advisor and mentor for the Fort Bend County Police Reform Initiative comprised of rising youth and young adults community leaders
-Advocated successfully for fiscal and
-budgetary security of the Fort Bend Sheriff Office Crisis Intervention Team (CIT)
-Advocates for Fort Bend Sheriff Office Body
-Worn Cameras (BWC’s) and standard policies and procedures
-Advocates for non-stigmatized and routine
-psychological evaluation and trauma focused counseling for police officers
-Advocates for comprehensive re-integration services for incarcerated women returning to their communities and reunifying with their children
-Senior Advisor of the “Custody to Casket” Harris County Jail Reform Initiative
-Mental Health
-Successfully championed the establishment of mental health clinics in Fort Bend ISD
-Advocated for the expansion of behavioral health services through the Medicaid Transformation 1115 Waiver
-Advocates for the development of a full spectrum of mental health prevention, intervention, social services, and emergency and vetted long term housing in Fort Bend
+Skip to content Menu Menu HOME HER CAREER Biography Specialty Areas Workforce Training Executive Coaching Financial Literacy Coaching Political Strategy and Consulting Behavioral Health Consulting Program Management Consulting Program Types Advocacy, Activism, & Community Mobilization Employee Assistance Program (EAP) Partial Hospitalization Program Behavioral Health Services Optimum Health & Wellness Counseling Services Case Management Services HER SERVICE Fort Bend County Fort Bend Independent School District Harris County State of Texas City of Houston Affiliations HER WORK Child Welfare Criminal Justice Diversity and Inclusion Environmental Justice Healthcare Juvenile Justice Mental Health Public Education Small Business HER ADVOCACY End Death By Pregnancy Fully Fund Public Education Healthcare for All Justice Involved Mental Health Access Ranked Choice Voting Entrepreneurship and Small Business Property Tax Reform CONTRIBUTION HER WORK Criminal Justice One of the four lead organizers and the primary advisor and mentor for the Fort Bend County Police Reform Initiative comprised of rising youth and young adults community leaders Advocated successfully for fiscal and budgetary security of the Fort Bend Sheriff Office Crisis Intervention Team (CIT) Advocates for Fort Bend Sheriff Office Body Worn Cameras (BWC’s) and standard policies and procedures Advocates for non-stigmatized and routine psychological evaluation and trauma focused counseling for police officers Advocates for comprehensive re-integration services for incarcerated women returning to their communities and reunifying with their children Senior Advisor of the “Custody to Casket” Harris County Jail Reform Initiative Mental Health Successfully championed the establishment of mental health clinics in Fort Bend ISD Advocated for the expansion of behavioral health services through the Medicaid Transformation 1115 Waiver Advocates for the development of a full spectrum of mental health prevention, intervention, social services, and emergency and vetted long term housing in Fort Bend CONTRIBUTE connect LET’S CONNECT © # VRJ & Associates, LLC.
+All Rights Reserved.
+P.O.
+Box 2234 Sugar Land, TX 77487 vrjassociates@hotmail.com

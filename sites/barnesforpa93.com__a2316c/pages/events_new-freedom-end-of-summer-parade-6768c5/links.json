@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=New+Freedom+End+Of+Summer+Parade&dates=20260829T200000Z%2F20260829T210000Z&location=49+East+High+Street%2C+New+Freedom%2C+Pennsylvania%2C+17349%2C+United+States",
-"http://maps.google.com/?q=49+East+High+Street+New+Freedom%2C+Pennsylvania%2C+17349+United+States",
-"https://barnesforpa93.com/",
-"https://barnesforpa93.com/blog",
-"https://barnesforpa93.com/cart",
-"https://barnesforpa93.com/events",
-"https://barnesforpa93.com/events/fire-and-ems-bbq-and-listening-session",
-"https://barnesforpa93.com/events/new-freedom-end-of-summer-parade?format=ical",
-"https://barnesforpa93.com/events/paint-sip-fundraiser",
-"https://facebook.com/events/1424572173065506?rdid=vkJQ93hOCC1tGoWm&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1D3gJLrKx4%2F",
-"https://facebook.com/people/Missy-Barnes-for-PA-93/61578485223105",
-"https://instagram.com/missybarnesforpa93",
-"https://secure.actblue.com/donate/missy-barnes-1",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=49+east+high+street+new+freedom%2C+pennsylvania%2C+17349+united+states"
+},
+{
+"text": "0",
+"href": "https://barnesforpa93.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Blog",
+"href": "https://barnesforpa93.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missy-barnes-1"
+},
+{
+"text": "Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=New+Freedom+End+Of+Summer+Parade&dates=20260829T200000Z%2F20260829T210000Z&location=49+East+High+Street%2C+New+Freedom%2C+Pennsylvania%2C+17349%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://barnesforpa93.com/events/new-freedom-end-of-summer-parade?format=ical"
+},
+{
+"text": "Next Next September 17 Fire And EMS Appreciation BBQ And Listening Session",
+"href": "https://barnesforpa93.com/events/fire-and-ems-bbq-and-listening-session"
+},
+{
+"text": "Previous Previous August 15 Paint & Sip Fundraiser",
+"href": "https://barnesforpa93.com/events/paint-sip-fundraiser"
+},
+{
+"text": "Priorities & Values",
+"href": "https://barnesforpa93.com/#priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Forward Together]",
+"href": "https://barnesforpa93.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Missy-Barnes-for-PA-93/61578485223105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missybarnesforpa93/"
+},
+{
+"text": "https://www.facebook.com/events/1424572173065506/?rdid=vkJQ93hOCC1tGoWm&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1D3gJLrKx4%2F",
+"href": "https://www.facebook.com/events/1424572173065506/?rdid=vkJQ93hOCC1tGoWm&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1D3gJLrKx4%2F"
+}
 ]

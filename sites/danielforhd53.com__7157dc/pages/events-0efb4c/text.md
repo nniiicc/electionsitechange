@@ -1,9 +1,3 @@
-Upcoming Events
-Loveland Corn Roast Festival/Parade
-Date: August 21st & 22nd, 2026
-Location: Fairgrounds Park, Loveland, CO
-Details: The 130th Annual Old Fashioned Corn Roast Festival!
-Larimer GOP Lincoln Day Dinner
-Date: Wednesday, August 26th, 2026
-Location: Hilton Fort Collins, CO
-Details: Annual dinner event with candidate meet & greets, VIP speakers, and celebration.
+0 Skip to Content About About Me Why I'm Running Issues Events Volunteer Donate Open Menu Close Menu About About Me Why I'm Running Issues Events Volunteer Donate Open Menu Close Menu Folder: About Back About Me Why I'm Running Issues Events Volunteer Donate Upcoming Events Loveland Corn Roast Festival/Parade Date: August 21st & 22nd, 2026 Location: Fairgrounds Park, Loveland, CO Details: The 130th Annual Old Fashioned Corn Roast Festival!
+Details Larimer GOP Lincoln Day Dinner Date: Wednesday, August 26th, 2026 Location: Hilton Fort Collins, CO Details: Annual dinner event with candidate meet & greets, VIP speakers, and celebration.
+Register/Details me@danofrick.com (970) 837-1737 Paid for by COMMITTEE TO ELECT DANIEL O FRICK Registered Agent: Amber Cecil

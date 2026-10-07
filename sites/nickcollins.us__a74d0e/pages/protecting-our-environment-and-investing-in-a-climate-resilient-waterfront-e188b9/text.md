@@ -1,5 +1,4 @@
-Protecting our Environment and Investing in a Climate Resilient Waterfront
-Throughout my time in the Senate, I have supported policies that promote clean air and water, invest in climate resilience, and ensure that all communities—especially those historically overburdened by pollution—have a voice in environmental decision-making.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Environment & Climate Resiliency Protecting our Environment and Investing in a Climate Resilient Waterfront Throughout my time in the Senate, I have supported policies that promote clean air and water, invest in climate resilience, and ensure that all communities—especially those historically overburdened by pollution—have a voice in environmental decision-making.
 At the State Senate this year, I supported the Mass Ready Act, a $3.64 billion environmental bond bill that protects infrastructure from climate change and severe weather, safeguards drinking water, and advances environmental protection, including limits on single-use plastics.
 As part of that effort, I filed an amendment to establish a commission on resilient urban coasts to identify barriers that delay climate resilience projects and streamline permitting so communities can act more quickly.
 This includes large-scale solutions that protect entire neighborhoods, not just individual properties, and projects that cross municipal boundaries and public and private land.
@@ -10,3 +9,7 @@ Closer to home, the bill invests in resilience upgrades at the Boston Children�
 It also advances critical planning and engineering work in Dorchester, from Davenport Creek to the Dorchester Bay Basin and nearby parks.
 These investments will strengthen flood protection and reflect a more comprehensive approach to climate resilience.
 This is not about one project or one neighborhood, but about protecting our city’s entire coastline and building the infrastructure it takes to be a resilient Boston.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

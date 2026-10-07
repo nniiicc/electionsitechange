@@ -1,9 +1,34 @@
 [
-"https://electmisty.com/",
-"https://electmisty.com/about-misty",
-"https://electmisty.com/contact",
-"https://electmisty.com/endorsements",
-"https://electmisty.com/privacy-policy",
-"https://outimpact.org/",
-"https://politics.raisethemoney.com/en/gqhoitmeamxgxfzzogcyea"
+{
+"text": "About",
+"href": "https://electmisty.com/about-misty/"
+},
+{
+"text": "Contact",
+"href": "https://electmisty.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://politics.raisethemoney.com/en/gqhoitmeamxgxfzzogcyea"
+},
+{
+"text": "Endorsements",
+"href": "https://electmisty.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://electmisty.com/"
+},
+{
+"text": "OUT Impact Coalition | Reentry Programming That Works | Washington State",
+"href": "https://outimpact.org/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://electmisty.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://electmisty.com/"
+}
 ]

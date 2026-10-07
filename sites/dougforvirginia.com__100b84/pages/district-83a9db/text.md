@@ -1,16 +1,2 @@
-Virginia’s 7th Congressional District
-The following counties and city make up Virginia’s 7th Congressional District:
-All of:
-- Culpeper County
-- Orange County
-- Spotsylvania County
-- Greene County
-- Madison County
-- Stafford County
-- King George County
-- Caroline County
-Part of:
-- Prince William County (southeastern half)
-- Albemarle County (a small sliver)
-Independent City:
-- Fredericksburg
+Home Meet Doug District Issues Endorsements News Events Volunteer Contact Voting Info Donate Donate Virginia’s 7th Congressional District The following counties and city make up Virginia’s 7th Congressional District: All of: Culpeper County Orange County Spotsylvania County Greene County Madison County Stafford County King George County Caroline County Part of: Prince William County (southeastern half) Albemarle County (a small sliver) Independent City: Fredericksburg Home Meet Doug District Issues Endorsements News Events Volunteer Contact Voting Info Donate Donate Paid for by Ollivant for Congress Use of military images and/or information does not imply endorsement by Department of Defense/War or the United States Army.
+Privacy Policy | Terms & Conditions

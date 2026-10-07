@@ -1,11 +1,4 @@
-Strengthen Our Communities
-Infrastructure
-Create Infrastructure for the Future
-- Invest in reliable roads
-- Maintain and improve clean water systems
-- Expand high-speed internet in underserved rural areas
-- Ensure every community has the resources to compete and grow
-Reliable high-speed internet is no longer a luxury - it's essential infrastructure for our families, farms, schools, and small businesses.
+Skip navigation menu Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Data Centers Housing Access Healthcare Local Economies Rural Character Transparent & Accountable Government Public Education Infrastructure Strengthen Our Communities Infrastructure Create Infrastructure for the Future Invest in reliable roads Maintain and improve clean water systems Expand high-speed internet in underserved rural areas Ensure every community has the resources to compete and grow Reliable high-speed internet is no longer a luxury - it's essential infrastructure for our families, farms, schools, and small businesses.
 Spectrum's recent fiber expansion in northern Kent County, including Courtland Township where I serve as Trustee, will connect approximately 850 additional homes and businesses.
 However, thousands of rural households are still estimated to lack reliable broadband access, particularly in our northern HD90 townships.
 For many small businesses, unreliable internet means lost sales, fewer online opportunities, barriers to using modern technology, and a harder path to growth and competition in today’s economy.
@@ -14,3 +7,5 @@ Every family deserves access to telehealth, online learning, and remote work opp
 Every entrepreneur, farmer, and small business deserves the tools to succeed, regardless of their ZIP code.
 Broadband isn't just about internet access - it's about economic development, educational opportunity, and keeping northern Kent County connected for generations to come.
 I’ll work to make sure all our neighbors, farmers, and small businesses have access to the tools and resources they need.
+Contact: info@rachelcrowthermi.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Crowther for State Representative P.O.
+Box 342 Rockford, MI 49341 You need to enable JavaScript to run this app.

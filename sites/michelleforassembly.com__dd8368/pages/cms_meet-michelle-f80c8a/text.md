@@ -1,5 +1,5 @@
-Meet Michelle
-Michelle Rodriguez, a member of the Commission on Peace Officers Standards and Training (POST), is a working-class mom and grandparent – and a lifelong resident of the 53rd Assembly District with deep roots in the community.
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Meet Michelle Michelle Rodriguez, a member of the Commission on Peace Officers Standards and Training (POST), is a working-class mom and grandparent – and a lifelong resident of the 53rd Assembly District with deep roots in the community.
 Born and raised in Ontario, Michelle is the proud mother of four grown children – a deputy sheriff, a store manager, an EMT/firefighter, and a respiratory therapist – whom she raised in Pomona.
 All of her children and grandchildren were raised or are being raised in the district.
 Michelle and her husband – Assemblymember and former EMT Freddie Rodriguez – set a public service example for their children.
@@ -12,3 +12,4 @@ As a Commissioner on POST, Michelle Rodriguez and her fellow Commissioners set t
 Michelle sees her neighbors and fellow residents of the district struggling to make ends meet and fight for safer neighborhoods – and she knows firsthand what that is like.
 As the survivor of gun violence, mother of a Deputy, POST Commissioner, and Neighborhood Watch organizer, she understands what it takes, and how her neighbors feel.
 She is uniquely prepared to be a voice for public safety and working-class families.
+Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

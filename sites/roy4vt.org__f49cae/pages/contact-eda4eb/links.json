@@ -1,12 +1,50 @@
 [
-"http://linkedin.com/in/bruce-roy-8abb2116",
-"http://youtube.com/@roy4vt?si=m6XIXp09JIMOPe49",
-"https://facebook.com/profile.php?id=100081843417280",
-"https://google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Fbruce-roy-for-vermont%2Fdonate-today&sa=D&sntz=1&usg=AOvVaw3D2jpHuv1aPWpDEjB7g4jO",
-"https://roy4vt.org/about-bruce",
-"https://roy4vt.org/contact",
-"https://roy4vt.org/donate",
-"https://roy4vt.org/endorsements",
-"https://roy4vt.org/home",
-"https://roy4vt.org/positions"
+{
+"text": "About Bruce",
+"href": "https://www.roy4vt.org/about-bruce"
+},
+{
+"text": "Bruce Roy for VT Senate",
+"href": "https://www.roy4vt.org/home"
+},
+{
+"text": "Contact",
+"href": "https://www.roy4vt.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.roy4vt.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.roy4vt.org/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100081843417280"
+},
+{
+"text": "Home",
+"href": "https://www.roy4vt.org/home"
+},
+{
+"text": "LinkedIn",
+"href": "http://linkedin.com/in/bruce-roy-8abb2116"
+},
+{
+"text": "Positions",
+"href": "https://www.roy4vt.org/positions"
+},
+{
+"text": "Roy4VT@gmail.com",
+"href": "mailto:Roy4VT@gmail.com"
+},
+{
+"text": "Youtube",
+"href": "http://youtube.com/@roy4vt?si=m6XIXp09JIMOPe49"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Fbruce-roy-for-vermont%2Fdonate-today&sa=D&sntz=1&usg=AOvVaw3D2jpHuv1aPWpDEjB7g4jO"
+}
 ]

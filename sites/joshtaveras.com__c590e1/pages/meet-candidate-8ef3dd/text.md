@@ -1,7 +1,4 @@
-Why I'm Running
-Meet Candidate Josh Taveras
-"I was born and raised on Long Island, and that's why I'm here to be the change for Long Island." -Josh Taveras
-A Dominican-American With A Dream!
+Follow us Menu Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Follow us Donate Why I'm Running Meet Candidate Josh Taveras "I was born and raised on Long Island, and that's why I'm here to be the change for Long Island." -Josh Taveras A Dominican-American With A Dream!
 I’m Josh Taveras — and I’m running for State Senate because I believe our communities deserve leadership that understands struggle, resilience, and the promise of a better future.
 I was born and raised in Copiague, the son of Dominican immigrants who came to this country chasing opportunity.
 English wasn’t spoken in our home growing up, so as a kid, I often translated bills, doctor’s visits, and school meetings for my parents.
@@ -39,5 +36,5 @@ From resilience.
 And I’m running to make sure every child growing up in our district knows that their story matters, and that their future can be bigger than their circumstances.
 This is our moment to build something new.
 A new future.
-Our dream.
-— Josh Taveras
+Our dream. — Josh Taveras Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Paid for by Friends of Josh taveras Josh Taveras for New York State Senate © # 54 Academy Street Bayport, NY 11705 Accessibility Statement Terms of Service Contact

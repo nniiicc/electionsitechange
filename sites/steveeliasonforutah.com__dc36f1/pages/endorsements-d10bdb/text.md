@@ -1,30 +1,3 @@
-Steve is endorsed by the people you trust.
-Trusted Statewide Elected Officials
-Former Lieutenant Governor Greg Bell
-Governor Spencer Cox
-Congressman and US Senate Nominee John Curtis
-Former Governor Gary Herbert
-Former Governor Jon Huntsman Jr.
-State Senator and Third Congressional District Nominee Mike Kennedy
-Proven Local Leaders
-Sandy City Councilwoman Brooke D’Sousa
-Cottonwood Heights City Councilman Matt Holton
-Cottonwood Heights City Councilwoman Suzanne Hyland
-South Jordan Mayor Dawn Ramsey
-Sandy City Councilwoman Cyndi Sharkey
-Sandy City Councilwoman Alison Stroud
-Cottonwood Heights Mayor Mike Weichers
-Salt Lake County Councilwoman Aimee Winder-Newton
-Bipartisan Organizations and Associations
-SMART-TD Union
-AFL-CIO Utah
-Utah Public Employees Union CAPE
-Utah Tech Leads
-Utah Fraternal Order of Police
-Governing Group PAC
-Leading Education Groups
-Education First Utah
-American Federation of Teachers-Utah
-Utah Education Association PAC
-Jordan Education Association
-Canyons Education Association
+0 Skip to Content Home Meet Steve Priorities Endorsements DONATE Open Menu Close Menu Home Meet Steve Priorities Endorsements DONATE Open Menu Close Menu Home Meet Steve Priorities Endorsements DONATE Steve is endorsed by the people you trust.
+Trusted Statewide Elected Officials Former Lieutenant Governor Greg Bell Governor Spencer Cox Congressman and US Senate Nominee John Curtis Former Governor Gary Herbert Former Governor Jon Huntsman Jr.
+State Senator and Third Congressional District Nominee Mike Kennedy Proven Local Leaders Sandy City Councilwoman Brooke D’Sousa Cottonwood Heights City Councilman Matt Holton Cottonwood Heights City Councilwoman Suzanne Hyland South Jordan Mayor Dawn Ramsey Sandy City Councilwoman Cyndi Sharkey Sandy City Councilwoman Alison Stroud Cottonwood Heights Mayor Mike Weichers Salt Lake County Councilwoman Aimee Winder-Newton Bipartisan Organizations and Associations SMART-TD Union AFL-CIO Utah Utah Public Employees Union CAPE Utah Tech Leads Utah Fraternal Order of Police Governing Group PAC Leading Education Groups Education First Utah American Federation of Teachers-Utah Utah Education Association PAC Jordan Education Association Canyons Education Association Steve Eliason for Utah House © 2024

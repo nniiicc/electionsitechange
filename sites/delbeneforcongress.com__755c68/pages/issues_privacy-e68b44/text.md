@@ -1,5 +1,4 @@
-Digital Privacy
-Our nation’s tech laws are way behind.
+Explore → Donate Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up ← Close Issues Digital Privacy Our nation’s tech laws are way behind.
 Policy hasn’t caught up with how our digital world works.
 That means you don’t have full control over your data.
 Instead, companies set the rules of the road on their platforms.
@@ -10,4 +9,4 @@ I will continue working with my colleagues to pass policy so Americans will be r
 Fighting to protect the privacy of all of us means your personal information is protected from private entities and public ones.
 It’s why when President Trump gave Elon Musk and the ‘Department of Government Efficiency’ unprecedented access to your sensitive personal, financial, and health information with little oversight or accountability – it was outrageous and illegal.
 Immediately after this violation of hundreds of millions of Americans’ data, I got to work to fight for an investigation to determine who in the government was granted access to this data and how your information was used.
-It’s unacceptable that this happened and I will continue to hold this Administration accountable and ensure protections of your information are enforced.
+It’s unacceptable that this happened and I will continue to hold this Administration accountable and ensure protections of your information are enforced. ← Back to All Issues Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up Privacy Policy Paid for by DelBene for Congress PO Box 477 Kirkland, WA 98083 (425) 483-1500

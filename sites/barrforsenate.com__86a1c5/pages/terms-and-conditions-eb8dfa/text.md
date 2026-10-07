@@ -1,5 +1,5 @@
-Andy Barr for Senate (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Andy Barr for Senate), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Skip to main content Skip to footer Opens in a new tab Donate Get Your Yard Sign Volunteer Home Meet Andy Issues Kentucky Coal Plan Military & Veterans Law Enforcement News Contact Donate Volunteer Get Your Yard Sign Join the team Endorsements Donate Terms and Conditions Andy Barr for Senate (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Andy Barr for Senate), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Andy Barr for Senate: You’ve subscribed to receive messages from Andy Barr for Senate.
 Msg & Data Rates May Apply.
 Message frequency varies.
@@ -14,8 +14,7 @@ User Opt Out and Additional Commands: Andy Barr for Senate: You are unsubscribed
 To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
-You may also opt out by texting “QUIT”, “END”,
-“CANCEL”, “UNSUBSCRIBE”, or “STOP ALL” to any of Our mobile messages you receive, or by contacting Us via the means provided above and clearly communicating your intent to unsubscribe from the Program.
+You may also opt out by texting “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL” to any of Our mobile messages you receive, or by contacting Us via the means provided above and clearly communicating your intent to unsubscribe from the Program.
 For additional support, text “HELP” to get help.
 Andy Barr for Senate: Please reach out to us at info@barrforsenate.com for help from Andy Barr for Senate.
 MMS Disclosure: The Program will send SMS MTs if your mobile device does not support MMS messaging.
@@ -26,12 +25,11 @@ Privacy Policy: We respect your right to privacy.
 You can view our privacy policy here: We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 WE DO NOT SHARE, SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE TEXT PROGRAM TO ANY THIRD PARTY.
 Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
-When you complete forms
-online or otherwise provide Us information in connection with the Program, you agree to provide accurate, complete, and true information.
+When you complete forms online or otherwise provide Us information in connection with the Program, you agree to provide accurate, complete, and true information.
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
-Dispute Resolution: In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Seattle, WA before one arbitrator.
+Dispute Resolution : In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Seattle, WA before one arbitrator.
 The arbitration will be administered by JAMS.
 For claims greater than $250,000, the JAMS Comprehensive Arbitration Rules and Procedures in effect at the time the arbitration is commenced will apply.
 For claims less than or equal to $250,000, the JAMS Streamlined Arbitration Rules in effect at the time the arbitration is commenced will apply.
@@ -59,3 +57,12 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
+Privacy Policy / Terms and Conditions Sign Up For press inquiries, please contact press@barrforsenate.com Mailing Address: PO Box 2059 Lexington, KY 40588 Paid for by Andy Barr for Senate Please provide your mobile phone to opt-in to Andy Barr for Senate campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Donations may be solicited.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

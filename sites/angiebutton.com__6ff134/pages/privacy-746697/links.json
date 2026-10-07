@@ -1,13 +1,58 @@
 [
-"http://facebook.com/ACBforTexas",
-"http://twitter.com/AngieChenButton",
-"https://angiebutton.com/",
-"https://angiebutton.com/about",
-"https://angiebutton.com/cdn-cgi/l/email-protection",
-"https://angiebutton.com/contact",
-"https://angiebutton.com/donate",
-"https://angiebutton.com/issues",
-"https://angiebutton.com/media",
-"https://angiebutton.com/privacy",
-"https://angiebutton.com/volunteer"
+{
+"text": "Ask Angie",
+"href": "https://www.angiebutton.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.angiebutton.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.angiebutton.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.angiebutton.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.angiebutton.com/media/"
+},
+{
+"text": "Meet Angie",
+"href": "https://www.angiebutton.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.angiebutton.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.angiebutton.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.angiebutton.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/AngieChenButton"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/ACBforTexas"
+},
+{
+"text": "[image]",
+"href": "https://www.angiebutton.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.angiebutton.com/contact/"
+},
+{
+"text": "[image]",
+"href": "https://www.angiebutton.com/donate/"
+}
 ]

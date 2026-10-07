@@ -1,8 +1,8 @@
-ABOUT DOLLY
-Henley’s resume includes over seven years as Recreation Director for the City of Hope, Arkansas and over 20 years as Director of Parks and Recreation for the City of Nashville, Arkansas, where she created and operated numerous park facilities and programs.
+0 Skip to Content About Dolly News Donate Open Menu Close Menu About Dolly News Donate Open Menu Close Menu About Dolly News Donate ABOUT DOLLY Henley’s resume includes over seven years as Recreation Director for the City of Hope, Arkansas and over 20 years as Director of Parks and Recreation for the City of Nashville, Arkansas, where she created and operated numerous park facilities and programs.
 She continued her career as Advancement Director at the University of Arkansas Hope-Texarkana (UAHT), followed by becoming Executive Director for the UAHT Foundation in scholarship development, and finally as the inaugural Director of Hempstead Hall at UAHT where she oversaw the 62,000 square foot conference center and theater, and brought some of the biggest names in the music and arts to the Southwest Region.
 Henley currently serves as President of the Southwest Arkansas Counseling and Mental Health Board, member of the UAHT Foundation Board, member of the Texarkana Symphony Board and serves as the Vice-President of the Arkansas Great Southwest Regional Tourism Association.
 She is also a member of the Hope Rotary Club, Chairwoman for the James Black’s Bowie Heritage Festival, Vice-President of the Washington Fire Auxiliary, and serves on the City of Washington, Arkansas Planning and Zoning Committee.
 Dolly volunteers for Hope in Action, a homeless shelter and food bank in Hope, Arkansas and for the Historic Washington Foundation.
 Dolly is married to The Honorable Paul Henley, Mayor of Washington, Arkansas and is the mother of two children and three grandchildren.
 She attends and is a member of First Baptist Church of Hope.
+Dolly Henley for State Representative 870-983-2885 dollyhenley4staterep@gmail.com PAID FOR BY DOLLY HENLEY CAMPAIGN

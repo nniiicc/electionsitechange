@@ -1,11 +1,3 @@
-top of page
-HOME
-ABOUT KRISTINE
-ISSUES
-ENDORSEMENTS
-CONTACT
-GOTV
-MEDIA
-More
-Use tab to navigate through the menu items.
-bottom of page
+top of page HOME ABOUT KRISTINE ISSUES ENDORSEMENTS CONTACT GOTV MEDIA More Use tab to navigate through the menu items.
+Paid For by Friends to Elect Kristine Reeves 1815 SW Campus Drive.
+#26332 Federal Way, 98093 bottom of page

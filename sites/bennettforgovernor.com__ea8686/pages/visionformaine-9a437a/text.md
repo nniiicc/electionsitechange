@@ -1,5 +1,4 @@
-INDEPENDENT FOR A BETTER MAINE
-Life has become too hard for the people who call Maine home, keep our communities strong, and want to build a future here.
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate INDEPENDENT FOR A BETTER MAINE Life has become too hard for the people who call Maine home, keep our communities strong, and want to build a future here.
 Families are struggling to keep up with day-to-day expenses.
 From high rents and inaccessible mortgages, rising energy bills that can’t be met, crushing health care costs, child care that is out of reach, and taxes that keep climbing – too many Mainers see no relief in sight.
 This isn’t bad luck.
@@ -22,3 +21,9 @@ More affordable.
 More honest.
 More independent.
 If you believe this state should work for the people who live here - not the people who know how to work the system - this is your campaign.
+Together, we can build a better Maine.
+Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

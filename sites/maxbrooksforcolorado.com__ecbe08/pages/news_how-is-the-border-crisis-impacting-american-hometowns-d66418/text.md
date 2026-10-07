@@ -1,4 +1,3 @@
-How is the border crisis impacting American hometowns?
-'The Ingraham Angle' panelists Max Brooks and Laura Heath — both council members in their hometowns — discuss the Biden-Harris administration's handling of the migrant influx.
-Written By Jack Cutter
-Next
+0 Skip to Content About About Max Gallery Priorities News Get in Touch Volunteer Contact Donate Open Menu Close Menu About About Max Gallery Priorities News Get in Touch Volunteer Contact Donate Open Menu Close Menu Folder: About Back About Max Gallery Priorities News Folder: Get in Touch Back Volunteer Contact Donate How is the border crisis impacting American hometowns?
+Sep 24 Written By Jack Cutter 'The Ingraham Angle' panelists Max Brooks and Laura Heath — both council members in their hometowns — discuss the Biden-Harris administration's handling of the migrant influx.
+Watch Clip Jack Cutter Next Next Gazette: Inside Lost Canyon: A look at Castle Rock's largest-ever open space addition PAID FOR BY MAX BROOKS FOR COLORADO COMMITTEE; REGISTERED AGENT MAX BROOKS About Max Priorities Volunteer Contact Donate Privacy Policy ﻿

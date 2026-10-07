@@ -1,98 +1,386 @@
 [
-"http://squarespace.com/",
-"https://en.wikipedia.org/wiki/Pittsfield,_Massachusetts",
-"https://facebook.com/RepTricia",
-"https://instagram.com/reptriciafb",
-"https://mailchi.mp/01156b1e1630/updates-from-your-state-representative-15936482",
-"https://mailchi.mp/07076b9ed5cb/updates-from-your-state-representative-17661966",
-"https://mailchi.mp/0d8d6f7f53cd/updates-from-your-state-representative-760554",
-"https://mailchi.mp/159d95cfa909/updates-from-your-state-representative-17652959",
-"https://mailchi.mp/18eb7120e820/updates-from-your-state-representative-15867301",
-"https://mailchi.mp/191f315530c9/updates-from-your-state-representative-14208577",
-"https://mailchi.mp/1a07493da04d/updates-from-your-state-representative-15447973",
-"https://mailchi.mp/1a2d3da76b5e/updates-from-your-state-representative-17662642",
-"https://mailchi.mp/1ca7d702a9f1/updates-from-your-state-representative-720754",
-"https://mailchi.mp/1f6dc85672fd/updates-from-your-state-representative-17660057",
-"https://mailchi.mp/2102390e5012/updates-from-your-state-representative-15799437",
-"https://mailchi.mp/2d686fa51cf5/updates-from-your-state-representative-14138357",
-"https://mailchi.mp/2e0806a7f0e7/updates-from-your-state-representative-15446349",
-"https://mailchi.mp/3193ca4c0b9a/updates-from-your-state-representative-15869509",
-"https://mailchi.mp/358a42ef1a88/updates-from-your-state-representative-739934",
-"https://mailchi.mp/358daca9b3d9/updates-from-your-state-representative-17661591",
-"https://mailchi.mp/3656afba59d2/updates-from-your-state-representative-691906",
-"https://mailchi.mp/36c04f9fe5da/updates-from-your-state-representative-605890",
-"https://mailchi.mp/3b60ef84a6bb/updates-from-your-state-representative-718570",
-"https://mailchi.mp/3d2edce714fb/updates-from-your-state-representative-15863365",
-"https://mailchi.mp/3eaa6a1ba634/updates-from-your-state-representative-15835977",
-"https://mailchi.mp/494b96391f4b/updates-from-your-state-representative-15855725",
-"https://mailchi.mp/4ad6d64d4ac8/updates-from-your-state-representative-14207809",
-"https://mailchi.mp/4b7c478675fa/updates-from-your-state-representative-17665402",
-"https://mailchi.mp/5dcc4eb40094/monthly-newsletter-plus-shut-down-updates",
-"https://mailchi.mp/5fab7a775266/updates-from-your-state-representative-17662468",
-"https://mailchi.mp/652b494cb592/highlights-from-hfy25-house-budget?e=%5BUNIQID%5D",
-"https://mailchi.mp/691455efc4ae/updates-from-your-state-representative-768134",
-"https://mailchi.mp/6c9c8b71bc78/updates-from-your-state-representative-17663701",
-"https://mailchi.mp/6d39ddd56dad/updates-from-your-state-representative-15854845",
-"https://mailchi.mp/6da254c44022/updates-from-your-state-representative-756566",
-"https://mailchi.mp/6e56e665f9ce/updates-from-your-state-representative-17662935",
-"https://mailchi.mp/6f081f14ed96/updates-from-your-state-representative-589822",
-"https://mailchi.mp/710c4a99b600/updates-from-your-state-representative-567849",
-"https://mailchi.mp/71d9e25682e0/updates-from-your-state-representative-17654830",
-"https://mailchi.mp/73842b9b53fe/updates-from-your-state-representative-764022",
-"https://mailchi.mp/76252e6d15dd/updates-from-your-state-representative-652818",
-"https://mailchi.mp/7780cada50fe/updates-from-your-state-representative-17661590",
-"https://mailchi.mp/77df34db8aad/updates-from-your-state-representative-15499073",
-"https://mailchi.mp/7be91e44625e/updates-from-your-state-representative-780609",
-"https://mailchi.mp/8022e0ce7243/updates-from-your-state-representative-676706",
-"https://mailchi.mp/82988d9539f6/updates-from-your-state-representative-15796201",
-"https://mailchi.mp/830059575ac8/updates-from-your-state-representative-17663510",
-"https://mailchi.mp/830ed20c2df6/updates-from-your-state-representative-15874257",
-"https://mailchi.mp/840bb65314c0/updates-from-your-state-representative-17659970",
-"https://mailchi.mp/85f419711609/updates-from-your-state-representative-687918",
-"https://mailchi.mp/86e88b77527a/updates-from-your-state-representative-15856214",
-"https://mailchi.mp/879be171473c/updates-from-your-state-representative-650526",
-"https://mailchi.mp/88ad455ec2ae/updates-from-your-state-representative-15870469",
-"https://mailchi.mp/938294c8a5c4/updates-from-your-state-representative-731634",
-"https://mailchi.mp/93adc11d17d6/updates-from-your-state-representative-17387950",
-"https://mailchi.mp/95dbb567c387/updates-from-your-state-representative-17662846",
-"https://mailchi.mp/964ead8a2be1/updates-from-your-state-representative-641538",
-"https://mailchi.mp/98ce68a7fc90/updates-from-your-state-representative-15847801",
-"https://mailchi.mp/9a9c7cafc988/updates-from-your-state-representative-15954562",
-"https://mailchi.mp/a07c52d1abfc/updates-from-your-state-representative-15502517",
-"https://mailchi.mp/a159c1ffb078/updates-from-your-state-representative-14360257",
-"https://mailchi.mp/a4134efcd973/updates-from-your-state-representative-15797333",
-"https://mailchi.mp/b7844256bbd9/updates-from-your-state-representative-17656161",
-"https://mailchi.mp/b8fae4eedea8/updates-from-your-state-representative-17662803",
-"https://mailchi.mp/b94af0ab4397/updates-from-your-state-representative-17657297",
-"https://mailchi.mp/bf8424eea47a/updates-from-your-state-representative-15849425",
-"https://mailchi.mp/c0c3bc60b4f9/updates-from-your-state-representative-17664386",
-"https://mailchi.mp/c1816597a788/updates-from-your-state-representative-17657860",
-"https://mailchi.mp/c23e868e90db/updates-from-your-state-representative-14144777",
-"https://mailchi.mp/c3e55bec3f7d/updates-from-your-state-representative-17664976",
-"https://mailchi.mp/c7372a602573/updates-from-your-state-representative-15486021",
-"https://mailchi.mp/d1029e47b938/updates-from-your-state-representative-15505509",
-"https://mailchi.mp/d482f34e27ab/updates-from-your-state-representative-17659920",
-"https://mailchi.mp/d93898842c60/updates-from-your-state-representative-739550",
-"https://mailchi.mp/dbd7c4895552/updates-from-your-state-representative-17658422",
-"https://mailchi.mp/dd68ee8e6629/updates-from-your-state-representative-17386006",
-"https://mailchi.mp/e24cd7a9a1c1/updates-from-your-state-representative-17660112",
-"https://mailchi.mp/e62a1e065c82/updates-from-your-state-representative-17652525",
-"https://mailchi.mp/eaa90ed5eed7/updates-from-your-state-representative-15835081",
-"https://mailchi.mp/ed06552beb2c/updates-from-your-state-representative-17661603",
-"https://mailchi.mp/f936729a2422/updates-from-your-state-representative-596298",
-"https://mailchi.mp/fa12ce126d37/updates-from-your-state-representative-641038",
-"https://mailchi.mp/fbd24008d30d/updates-from-your-state-representative-681722",
-"https://sec.state.ma.us/divisions/state-house-tours/virtual-tour/index.html",
-"https://secure.actblue.com/donate/tricia-farley-bouvier",
-"https://triciafarleybouvier.com/",
-"https://triciafarleybouvier.com/about",
-"https://triciafarleybouvier.com/cart",
-"https://triciafarleybouvier.com/committees",
-"https://triciafarleybouvier.com/community-resources",
-"https://triciafarleybouvier.com/contact",
-"https://triciafarleybouvier.com/newsletter",
-"https://triciafarleybouvier.com/priorities",
-"https://triciafarleybouvier.com/voting-record",
-"https://triciafarleybouvier.us19.list-manage.com/subscribe?id=59768bac78&u=deb800eef0f6247ca52eadc4d",
-"https://twitter.com/RepTricia?s=20"
+{
+"text": "0",
+"href": "https://www.triciafarleybouvier.com/cart"
+},
+{
+"text": "1/13/2021 - 191st Session wrap-up, COVID-19 vaccine info, Unemployment update, & more",
+"href": "https://mailchi.mp/8022e0ce7243/updates-from-your-state-representative-676706"
+},
+{
+"text": "1/13/2023 - Tips on Advocating for Bills",
+"href": "https://mailchi.mp/a4134efcd973/updates-from-your-state-representative-15797333"
+},
+{
+"text": "1/25/2021 - COVID-19 Vaccine Update",
+"href": "https://mailchi.mp/fbd24008d30d/updates-from-your-state-representative-681722"
+},
+{
+"text": "1/25/2023 - Rep. Farley-Bouvier's Legislation for the 193rd Session",
+"href": "https://mailchi.mp/2102390e5012/updates-from-your-state-representative-15799437"
+},
+{
+"text": "1/25/2024 - Senior Circuit Breaker Tax Credit",
+"href": "https://mailchi.mp/01156b1e1630/updates-from-your-state-representative-15936482"
+},
+{
+"text": "1/28/2022 - The VOTES Act",
+"href": "https://mailchi.mp/2d686fa51cf5/updates-from-your-state-representative-14138357"
+},
+{
+"text": "1/4/2022 - COVID-19 Update",
+"href": "https://mailchi.mp/7be91e44625e/updates-from-your-state-representative-780609"
+},
+{
+"text": "1/5/2023 - 193rd Legislative Session",
+"href": "https://mailchi.mp/82988d9539f6/updates-from-your-state-representative-15796201"
+},
+{
+"text": "10/2/25 - Dear Friends Newsletter and Shut Down Updates",
+"href": "https://mailchi.mp/5dcc4eb40094/monthly-newsletter-plus-shut-down-updates"
+},
+{
+"text": "10/21/2021 - Redistricting Update",
+"href": "https://mailchi.mp/0d8d6f7f53cd/updates-from-your-state-representative-760554"
+},
+{
+"text": "10/22/25 - Legislative Update: Child Welfare Bill Passes House",
+"href": "https://mailchi.mp/d482f34e27ab/updates-from-your-state-representative-17659920"
+},
+{
+"text": "10/24/25 - Shut Down Updates and Office Hour Reminder",
+"href": "https://mailchi.mp/840bb65314c0/updates-from-your-state-representative-17659970"
+},
+{
+"text": "10/28/2020 - Financial Assistance, RMV, and Travel Refund Updates",
+"href": "https://mailchi.mp/fa12ce126d37/updates-from-your-state-representative-641038"
+},
+{
+"text": "10/7/2021 - Update on Legislation and State Government",
+"href": "https://mailchi.mp/6da254c44022/updates-from-your-state-representative-756566"
+},
+{
+"text": "11/1/2021 - ARPA Funding",
+"href": "https://mailchi.mp/73842b9b53fe/updates-from-your-state-representative-764022"
+},
+{
+"text": "11/15/2021 - Child Welfare & Foster Care Legislation Updates",
+"href": "https://mailchi.mp/691455efc4ae/updates-from-your-state-representative-768134"
+},
+{
+"text": "11/16/2020 - Fiscal Year 2021 Budget Update",
+"href": "https://mailchi.mp/879be171473c/updates-from-your-state-representative-650526"
+},
+{
+"text": "11/20/2020 - Thanksgiving 2020 & Emergency Order and Phased Reopening Summary",
+"href": "https://mailchi.mp/76252e6d15dd/updates-from-your-state-representative-652818"
+},
+{
+"text": "11/3/2020 - General Election Updates",
+"href": "https://mailchi.mp/964ead8a2be1/updates-from-your-state-representative-641538"
+},
+{
+"text": "2/1/2022 - One Fair Wage",
+"href": "https://mailchi.mp/c23e868e90db/updates-from-your-state-representative-14144777"
+},
+{
+"text": "2/10/25 - Dear Friends Newsletter",
+"href": "https://mailchi.mp/71d9e25682e0/updates-from-your-state-representative-17654830"
+},
+{
+"text": "2/19/2021 - 192nd Session Update",
+"href": "https://mailchi.mp/3656afba59d2/updates-from-your-state-representative-691906"
+},
+{
+"text": "2/22/2022 - Office Hour - 3/1/22 @ 4PM",
+"href": "https://mailchi.mp/4ad6d64d4ac8/updates-from-your-state-representative-14207809"
+},
+{
+"text": "2/23/2023 - SNAP, MassHealth, & Other Public Benefits",
+"href": "https://mailchi.mp/eaa90ed5eed7/updates-from-your-state-representative-15835081"
+},
+{
+"text": "2/24/2022 - The Work and Family Mobility Act Passed the House!",
+"href": "https://mailchi.mp/191f315530c9/updates-from-your-state-representative-14208577"
+},
+{
+"text": "2/27/2023 - 193rd Session Committee Assignments",
+"href": "https://mailchi.mp/3eaa6a1ba634/updates-from-your-state-representative-15835977"
+},
+{
+"text": "2/9/2021 - Financial Assistance Resources & 75+ yr old Vaccine Sign-up Assistance",
+"href": "https://mailchi.mp/85f419711609/updates-from-your-state-representative-687918"
+},
+{
+"text": "3/8/2022 - Senior Circuit Breaker Tax Credit",
+"href": "https://mailchi.mp/a159c1ffb078/updates-from-your-state-representative-14360257"
+},
+{
+"text": "4/20/2023 - Annual MassHealth Renewal Information",
+"href": "https://mailchi.mp/98ce68a7fc90/updates-from-your-state-representative-15847801"
+},
+{
+"text": "4/28/2023 - FY24 House Budget Highlights",
+"href": "https://mailchi.mp/bf8424eea47a/updates-from-your-state-representative-15849425"
+},
+{
+"text": "4/29/2022 - FY23 House Budget Recap",
+"href": "https://mailchi.mp/2e0806a7f0e7/updates-from-your-state-representative-15446349"
+},
+{
+"text": "4/8/25 - Dear Friends Newsletter",
+"href": "https://mailchi.mp/b7844256bbd9/updates-from-your-state-representative-17656161"
+},
+{
+"text": "5/13/24 - Announcing the Massachusetts Data Privacy Act (MDPA)",
+"href": "https://mailchi.mp/9a9c7cafc988/updates-from-your-state-representative-15954562"
+},
+{
+"text": "5/14/2021 - COVID-19 Vaccine Update",
+"href": "https://mailchi.mp/1ca7d702a9f1/updates-from-your-state-representative-720754"
+},
+{
+"text": "5/2/2024 - Highlights from FY25 House Budget",
+"href": "https://mailchi.mp/652b494cb592/highlights-from-hfy25-house-budget?e=%5BUNIQID%5D"
+},
+{
+"text": "5/25/2023 - Paid Family Medical Leave (PFML)",
+"href": "https://mailchi.mp/6d39ddd56dad/updates-from-your-state-representative-15854845"
+},
+{
+"text": "5/30/2023 - Holmes Road Bridge Community Meeting 6/6 at 5pm",
+"href": "https://mailchi.mp/494b96391f4b/updates-from-your-state-representative-15855725"
+},
+{
+"text": "5/30/25 - Dear Friends Newsletter",
+"href": "https://mailchi.mp/b94af0ab4397/updates-from-your-state-representative-17657297"
+},
+{
+"text": "5/5/2022 - The Work and Family Mobility Act Passed the Senate!",
+"href": "https://mailchi.mp/1a07493da04d/updates-from-your-state-representative-15447973"
+},
+{
+"text": "5/6/2021 - FY'22 Budget Update",
+"href": "https://mailchi.mp/3b60ef84a6bb/updates-from-your-state-representative-718570"
+},
+{
+"text": "6/1/2023 - Firearm Safety Tour on Tues. 6/6 at 1pm",
+"href": "https://mailchi.mp/86e88b77527a/updates-from-your-state-representative-15856214"
+},
+{
+"text": "6/12/2020 - MA Black and Latino Legislative Caucus Updates",
+"href": "https://mailchi.mp/710c4a99b600/updates-from-your-state-representative-567849"
+},
+{
+"text": "6/21/2021 - Work & Family Mobility Act Hearing",
+"href": "https://mailchi.mp/938294c8a5c4/updates-from-your-state-representative-731634"
+},
+{
+"text": "6/30/25 - Dear Friends Newsletter",
+"href": "https://mailchi.mp/c1816597a788/updates-from-your-state-representative-17657860"
+},
+{
+"text": "6/9/2022 - The Work and Family Mobility Act is LAW!",
+"href": "https://mailchi.mp/c7372a602573/updates-from-your-state-representative-15486021"
+},
+{
+"text": "7/20/2020 - Foster Parents Bill of Rights",
+"href": "https://mailchi.mp/6f081f14ed96/updates-from-your-state-representative-589822"
+},
+{
+"text": "7/27/2021 - Berkshires to Beacon Hill & Beyond - Episode 1: COVID-19 Breakthrough in Provincetown w/ Rep. Sarah Peake",
+"href": "https://mailchi.mp/d93898842c60/updates-from-your-state-representative-739550"
+},
+{
+"text": "7/28/2023 - Student Loan Repayment Update",
+"href": "https://mailchi.mp/18eb7120e820/updates-from-your-state-representative-15867301"
+},
+{
+"text": "7/29/2021 - Holmes Rd Bridge Meeting & Other Updates",
+"href": "https://mailchi.mp/358a42ef1a88/updates-from-your-state-representative-739934"
+},
+{
+"text": "7/29/24 - Close to end of session updates",
+"href": "https://mailchi.mp/dd68ee8e6629/updates-from-your-state-representative-17386006"
+},
+{
+"text": "7/31/2020 - 191st Formal Legislative Session Updates",
+"href": "https://mailchi.mp/f936729a2422/updates-from-your-state-representative-596298"
+},
+{
+"text": "7/7/2023 - MassHealth Renewal Update",
+"href": "https://mailchi.mp/3d2edce714fb/updates-from-your-state-representative-15863365"
+},
+{
+"text": "8/1/25 - Dear Friends Newsletter",
+"href": "https://mailchi.mp/dbd7c4895552/updates-from-your-state-representative-17658422"
+},
+{
+"text": "8/10/2023 - Student Loan Payment Plans",
+"href": "https://mailchi.mp/3193ca4c0b9a/updates-from-your-state-representative-15869509"
+},
+{
+"text": "8/17/2022 - Voting in the 2022 Elections",
+"href": "https://mailchi.mp/a07c52d1abfc/updates-from-your-state-representative-15502517"
+},
+{
+"text": "8/17/2023 - DESE Health and Physical Education Guidelines",
+"href": "https://mailchi.mp/88ad455ec2ae/updates-from-your-state-representative-15870469"
+},
+{
+"text": "8/2/2022 - End of 192nd Session Wrap-Up",
+"href": "https://mailchi.mp/77df34db8aad/updates-from-your-state-representative-15499073"
+},
+{
+"text": "8/21/2020 - Primary Election Updates",
+"href": "https://mailchi.mp/36c04f9fe5da/updates-from-your-state-representative-605890"
+},
+{
+"text": "8/31/2022 - Student Loan Forgiveness - What you need to know",
+"href": "https://mailchi.mp/d1029e47b938/updates-from-your-state-representative-15505509"
+},
+{
+"text": "8/6/24 - End of 193rd Formal Session",
+"href": "https://mailchi.mp/93adc11d17d6/updates-from-your-state-representative-17387950"
+},
+{
+"text": "9/5/2023 - Internet for All Listening Session in Pittsfield",
+"href": "https://mailchi.mp/830ed20c2df6/updates-from-your-state-representative-15874257"
+},
+{
+"text": "About",
+"href": "https://www.triciafarleybouvier.com/about"
+},
+{
+"text": "Advocacy Works! Energy Affordability Updates",
+"href": "https://mailchi.mp/95dbb567c387/updates-from-your-state-representative-17662846"
+},
+{
+"text": "Artists and Creatives: Apply today for Creative Sector Day at the State House",
+"href": "https://mailchi.mp/ed06552beb2c/updates-from-your-state-representative-17661603"
+},
+{
+"text": "Berkshire Gas Proposed Rate Increases",
+"href": "https://mailchi.mp/358daca9b3d9/updates-from-your-state-representative-17661591"
+},
+{
+"text": "Committees",
+"href": "https://www.triciafarleybouvier.com/committees"
+},
+{
+"text": "Community Resources",
+"href": "https://www.triciafarleybouvier.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.triciafarleybouvier.com/contact"
+},
+{
+"text": "Cyber Security Tips for Cyber Security Awareness Month",
+"href": "https://mailchi.mp/e62a1e065c82/updates-from-your-state-representative-17652525"
+},
+{
+"text": "Dear Friends Newsletter",
+"href": "https://mailchi.mp/159d95cfa909/updates-from-your-state-representative-17652959"
+},
+{
+"text": "FY27 House Budget Outcomes",
+"href": "https://mailchi.mp/c0c3bc60b4f9/updates-from-your-state-representative-17664386"
+},
+{
+"text": "February Updates",
+"href": "https://mailchi.mp/6e56e665f9ce/updates-from-your-state-representative-17662935"
+},
+{
+"text": "House passes the Massachusetts Consumer Data Privacy Act",
+"href": "https://mailchi.mp/c3e55bec3f7d/updates-from-your-state-representative-17664976"
+},
+{
+"text": "House passes the PROTECT Act",
+"href": "https://mailchi.mp/830059575ac8/updates-from-your-state-representative-17663510"
+},
+{
+"text": "Housing Updates",
+"href": "https://mailchi.mp/1a2d3da76b5e/updates-from-your-state-representative-17662642"
+},
+{
+"text": "January Newsletter",
+"href": "https://mailchi.mp/7780cada50fe/updates-from-your-state-representative-17661590"
+},
+{
+"text": "June Updates",
+"href": "https://mailchi.mp/4b7c478675fa/updates-from-your-state-representative-17665402"
+},
+{
+"text": "March Updates",
+"href": "https://mailchi.mp/6c9c8b71bc78/updates-from-your-state-representative-17663701"
+},
+{
+"text": "Newsletter",
+"href": "https://www.triciafarleybouvier.com/newsletter"
+},
+{
+"text": "PROTECT Act Public Forum",
+"href": "https://mailchi.mp/b8fae4eedea8/updates-from-your-state-representative-17662803"
+},
+{
+"text": "Priorities",
+"href": "https://www.triciafarleybouvier.com/priorities"
+},
+{
+"text": "Regulating AI Deepfakes in Election-related Communications",
+"href": "https://mailchi.mp/5fab7a775266/updates-from-your-state-representative-17662468"
+},
+{
+"text": "Rep Tricia’s October Newsletter",
+"href": "https://mailchi.mp/e24cd7a9a1c1/updates-from-your-state-representative-17660112"
+},
+{
+"text": "Subscribe!",
+"href": "https://triciafarleybouvier.us19.list-manage.com/subscribe?id=59768bac78&u=deb800eef0f6247ca52eadc4d"
+},
+{
+"text": "Support my work",
+"href": "https://secure.actblue.com/donate/tricia-farley-bouvier"
+},
+{
+"text": "Tricia.Farley-Bouvier@mahouse.gov",
+"href": "http://squarespace.com"
+},
+{
+"text": "Update on shutdown impacts on SNAP and announcement on OCA listening session",
+"href": "https://mailchi.mp/1f6dc85672fd/updates-from-your-state-representative-17660057"
+},
+{
+"text": "Voting Record",
+"href": "https://www.triciafarleybouvier.com/voting-record"
+},
+{
+"text": "Winter Storm Warning Information",
+"href": "https://mailchi.mp/07076b9ed5cb/updates-from-your-state-representative-17661966"
+},
+{
+"text": "[image: RepTricia]",
+"href": "https://www.triciafarleybouvier.com/"
+},
+{
+"text": "[image]",
+"href": "https://en.wikipedia.org/wiki/Pittsfield,_Massachusetts"
+},
+{
+"text": "[image]",
+"href": "https://www.sec.state.ma.us/divisions/state-house-tours/virtual-tour/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepTricia?s=20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepTricia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reptriciafb/"
+}
 ]

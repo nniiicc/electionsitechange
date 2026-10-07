@@ -1,15 +1,70 @@
 [
-"http://secure.actblue.com/donate/togetherwithjeffweb",
-"http://twitter.com/jeffsmithdem",
-"https://facebook.com/togetherwithjeff",
-"https://secure.actblue.com/donate/togetherwithjeffweb",
-"https://togetherwithjeff.com/",
-"https://togetherwithjeff.com/2026-endorsements",
-"https://togetherwithjeff.com/district-31",
-"https://togetherwithjeff.com/gallery",
-"https://togetherwithjeff.com/mediatoolkit",
-"https://togetherwithjeff.com/meetjeff",
-"https://togetherwithjeff.com/priorities",
-"https://togetherwithjeff.com/search",
-"https://togetherwithjeff.com/volunteerwithjeff"
+{
+"text": "Contribute to Re-elect Senator Jeff Smith",
+"href": "https://secure.actblue.com/donate/togetherwithjeffweb"
+},
+{
+"text": "District 31",
+"href": "https://www.togetherwithjeff.com/district-31"
+},
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/togetherwithjeffweb"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/togetherwithjeffweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.togetherwithjeff.com/2026-endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.togetherwithjeff.com/gallery"
+},
+{
+"text": "Media Toolkit",
+"href": "https://www.togetherwithjeff.com/mediatoolkit"
+},
+{
+"text": "Meet Jeff",
+"href": "https://www.togetherwithjeff.com/meetjeff"
+},
+{
+"text": "Priorities",
+"href": "https://www.togetherwithjeff.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.togetherwithjeff.com/volunteerwithjeff"
+},
+{
+"text": "Volunteer with Jeff",
+"href": "https://www.togetherwithjeff.com/volunteerwithjeff"
+},
+{
+"text": "[image: Together with Jeff Smith]",
+"href": "https://www.togetherwithjeff.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jeffsmithdem"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/togetherwithjeff/"
+},
+{
+"text": "[no text]",
+"href": "https://www.togetherwithjeff.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@togetherwithjeff.com"
+},
+{
+"text": "info@togetherwithjeff.com",
+"href": "mailto:info@togetherwithjeff.com"
+}
 ]

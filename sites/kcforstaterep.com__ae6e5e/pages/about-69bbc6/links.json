@@ -1,10 +1,38 @@
 [
-"https://facebook.com/KCforStateRep",
-"https://kcforstaterep.com/",
-"https://kcforstaterep.com/about",
-"https://kcforstaterep.com/issues",
-"https://kcforstaterep.com/privacy",
-"https://kcforstaterep.com/terms",
-"https://kcforstaterep.com/volunteer",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate"
+},
+{
+"text": "Home",
+"href": "https://www.kcforstaterep.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kcforstaterep.com/issues/"
+},
+{
+"text": "Meet KC",
+"href": "https://www.kcforstaterep.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kcforstaterep.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kcforstaterep.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kcforstaterep.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/KCforStateRep"
+},
+{
+"text": "[image]",
+"href": "https://www.kcforstaterep.com/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.helvyforgeorgia.com/contribute?amount=100",
- "paid_for_by": null,
+ "fingerprint": "5cf38f91ac6d919c82d8bae59cfd611eff020166",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

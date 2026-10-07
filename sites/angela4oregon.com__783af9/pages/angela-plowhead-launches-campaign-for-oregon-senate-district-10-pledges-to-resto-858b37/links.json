@@ -1,32 +1,154 @@
 [
-"http://benwest.us/terms-and-conditions",
-"https://accessibility-helper.co.il/",
-"https://angela4oregon.com/",
-"https://angela4oregon.com/about",
-"https://angela4oregon.com/communitysupport",
-"https://angela4oregon.com/contact-page",
-"https://angela4oregon.com/donation-form",
-"https://angela4oregon.com/event-sign-up",
-"https://angela4oregon.com/press",
-"https://angela4oregon.com/priorities",
-"https://angela4oregon.com/privacypolicy",
-"https://angela4oregon.com/request-yard-sign",
-"https://angela4oregon.com/share-your-story",
-"https://angela4oregon.com/shop",
-"https://angela4oregon.com/tag/angela-for-oregon",
-"https://angela4oregon.com/tag/angela-plowhead",
-"https://angela4oregon.com/tag/angela-plowheads-campaign",
-"https://angela4oregon.com/tag/common-sense-leadership",
-"https://angela4oregon.com/tag/district-10",
-"https://angela4oregon.com/tag/oregon",
-"https://angela4oregon.com/tag/oregon-senate-district-10",
-"https://angela4oregon.com/terms-and-conditions",
-"https://angela4oregon.com/volunteer-sign-up",
-"https://angela4oregon.com/wp-content/uploads/2025/04/Angela_Plowhead_Campaign_Announcement-040825-2.pdf",
-"https://burnettmediagroup.com/",
-"https://facebook.com/angela4oregon",
-"https://hostdoodle.com/",
-"https://instagram.com/angelafororegon",
-"https://secure.anedot.com/angelafororegon/donate",
-"https://x.com/angelafororegon"
+{
+"text": "About",
+"href": "https://angela4oregon.com/about/"
+},
+{
+"text": "Accessibility by WAH",
+"href": "https://accessibility-helper.co.il/"
+},
+{
+"text": "Angela Plowhead",
+"href": "https://angela4oregon.com/tag/angela-plowhead/"
+},
+{
+"text": "Angela Plowhead's campaign",
+"href": "https://angela4oregon.com/tag/angela-plowheads-campaign/"
+},
+{
+"text": "Angela for Oregon",
+"href": "https://angela4oregon.com/tag/angela-for-oregon/"
+},
+{
+"text": "Burnett Media Group",
+"href": "https://www.burnettmediagroup.com/"
+},
+{
+"text": "Click here for PDF version",
+"href": "https://angela4oregon.com/wp-content/uploads/2025/04/Angela_Plowhead_Campaign_Announcement-040825-2.pdf"
+},
+{
+"text": "Contact",
+"href": "https://angela4oregon.com/contact-page/"
+},
+{
+"text": "Contact Angela",
+"href": "https://angela4oregon.com/contact-page/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/angelafororegon/donate"
+},
+{
+"text": "District 10",
+"href": "https://angela4oregon.com/tag/district-10/"
+},
+{
+"text": "Donate",
+"href": "https://angela4oregon.com/donation-form/"
+},
+{
+"text": "Email:Communications@angela4oregon.com",
+"href": "mailto:Communications@angela4oregon.com"
+},
+{
+"text": "Event Sign-Up",
+"href": "https://angela4oregon.com/event-sign-up/"
+},
+{
+"text": "Events",
+"href": "https://angela4oregon.com/event-sign-up/"
+},
+{
+"text": "Hostdoodle",
+"href": "https://www.hostdoodle.com"
+},
+{
+"text": "News",
+"href": "https://angela4oregon.com/press/"
+},
+{
+"text": "Newsletter",
+"href": "https://angela4oregon.com/#newsletter"
+},
+{
+"text": "Oregon",
+"href": "https://angela4oregon.com/tag/oregon/"
+},
+{
+"text": "Oregon Senate District 10",
+"href": "https://angela4oregon.com/tag/oregon-senate-district-10/"
+},
+{
+"text": "Priorities",
+"href": "https://angela4oregon.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://angela4oregon.com/privacypolicy/"
+},
+{
+"text": "Share Your Story",
+"href": "https://angela4oregon.com/share-your-story/"
+},
+{
+"text": "Shop",
+"href": "https://angela4oregon.com/shop/"
+},
+{
+"text": "Site:www.Angela4Oregon.com",
+"href": "https://www.angela4oregon.com"
+},
+{
+"text": "Support",
+"href": "https://angela4oregon.com/communitysupport/"
+},
+{
+"text": "Terms and Conditions",
+"href": "http://benwest.us/terms-and-conditions/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://angela4oregon.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://angela4oregon.com/volunteer-sign-up/"
+},
+{
+"text": "Yard Sign",
+"href": "https://angela4oregon.com/request-yard-sign/"
+},
+{
+"text": "[image: logo]",
+"href": "https://angela4oregon.com"
+},
+{
+"text": "[image]",
+"href": "https://angela4oregon.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/angela4oregon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/angelafororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/angelafororegon"
+},
+{
+"text": "common-sense leadership",
+"href": "https://angela4oregon.com/tag/common-sense-leadership/"
+},
+{
+"text": "communications@angela4oregon.com",
+"href": "mailto:communications@angela4oregon.com"
+},
+{
+"text": "www.Angela4Oregon.com",
+"href": "https://angela4oregon.com/"
+}
 ]

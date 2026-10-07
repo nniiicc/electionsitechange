@@ -1,11 +1,3 @@
-Free tax
-help
-Community Action Pioneer Valley (CAPV) runs the Volunteer Income Tax Assistance (VITA) program, offering free, IRS-certified tax preparation for individuals and families who have low incomes throughout Franklin and Hampshire Counties and the North Quabbin region.
-For the 2026 season, this year’s tax clinics will be held at:
-Greenfield
-393 Main Street, 4th Floor
-Mondays: 5:30–8:30 PM Tuesdays: 1:00–4:00 PM
-Northampton
-155 Pleasant Street
-Wednesdays & Thursdays: 5:30–8:30 PM
-Eligibility information and appointment scheduling are available at www.communityaction.us.
+HOME GETTING TO KNOW US BIO OUR DISTRICT OUR TEAM COMMITTEES CAUCUSES COMMISSIONS LEGISLATION ACCESSING HEALTH CARE CIVIL RIGHTS & DEMOCRACY CLIMATE CRIMINAL JUSTICE EDUCATION HOUSING LABOR LOCAL BILLS PROTECTING PRIVACY PUBLIC HEALTH REPRODUCTIVE AND MATERNAL HEALTH CARE TRANSPORTATION ADVOCACY & NEWS RESOURCES ASK FOR HELP CITATION REQUEST FOOD INSECURITY FUEL ASSISTANCE GIVING AND RECEIVING AID HOUSING IMMIGRATION INTERN WITH US MEDICINE DISPOSAL TAX ASSISTANCE WORKING WITH STATE AGENCIES EVENTS CONTACT US Menu HOME GETTING TO KNOW US BIO OUR DISTRICT OUR TEAM COMMITTEES CAUCUSES COMMISSIONS LEGISLATION ACCESSING HEALTH CARE CIVIL RIGHTS & DEMOCRACY CLIMATE CRIMINAL JUSTICE EDUCATION HOUSING LABOR LOCAL BILLS PROTECTING PRIVACY PUBLIC HEALTH REPRODUCTIVE AND MATERNAL HEALTH CARE TRANSPORTATION ADVOCACY & NEWS RESOURCES ASK FOR HELP CITATION REQUEST FOOD INSECURITY FUEL ASSISTANCE GIVING AND RECEIVING AID HOUSING IMMIGRATION INTERN WITH US MEDICINE DISPOSAL TAX ASSISTANCE WORKING WITH STATE AGENCIES EVENTS CONTACT US Free tax help Community Action Pioneer Valley (CAPV) runs the Volunteer Income Tax Assistance (VITA) program, offering free, IRS-certified tax preparation for individuals and families who have low incomes throughout Franklin and Hampshire Counties and the North Quabbin region.
+For the 2026 season, this year’s tax clinics will be held at: Greenfield 393 Main Street, 4th Floor Mondays: 5:30–8:30 PM Tuesdays: 1:00–4:00 PM Northampton 155 Pleasant Street Wednesdays & Thursdays: 5:30–8:30 PM Eligibility information and appointment scheduling are available at www.communityaction.us .
+PAID FOR BY THE COMMITTEE TO ELECT LINDSAY SABADOSA All Rights Reserved 2025

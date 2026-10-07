@@ -1,18 +1,74 @@
 [
-"https://alexforhouse.org/",
-"https://alexforhouse.org/endorsements",
-"https://alexforhouse.org/issues",
-"https://alexforhouse.org/media",
-"https://alexforhouse.org/meetalex",
-"https://alexforhouse.org/volunteer",
-"https://alexforhouse.org/vote-early",
-"https://facebook.com/alexforhouse",
-"https://instagram.com/alexfalconrt",
-"https://mnvotes.sos.mn.gov/abrequest/index",
-"https://mnvotes.sos.mn.gov/abstatus/index",
-"https://pollfinder.sos.mn.gov/",
-"https://secure.actblue.com/donate/alexforhouse",
-"https://sos.mn.gov/elections-voting/register-to-vote",
-"https://sos.state.mn.us/elections-voting/register-to-vote/register-on-election-day",
-"https://twitter.com/alexfalconrt"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/alexforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexforhouse.org/endorsements"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.alexforhouse.org/media"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexforhouse.org/meetalex"
+},
+{
+"text": "The Issues",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Track the status of your mail ballot here",
+"href": "https://mnvotes.sos.mn.gov/abstatus/index"
+},
+{
+"text": "VOTE EARLY",
+"href": "https://www.alexforhouse.org/vote-early"
+},
+{
+"text": "VOTER REGISTRATION INFORMATION",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexforhouse.org/volunteer"
+},
+{
+"text": "[image: 24 x 36 sign png small.jpg]",
+"href": "https://www.alexforhouse.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/alexforhouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/alexfalconrt/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/alexfalconrt"
+},
+{
+"text": "[no text]",
+"href": "https://www.alexforhouse.org/media"
+},
+{
+"text": "alexforhouse@gmail.com",
+"href": "mailto:alexforhouse@gmail.com"
+},
+{
+"text": "below",
+"href": "https://www.sos.state.mn.us/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "link",
+"href": "https://mnvotes.sos.mn.gov/abrequest/index"
+}
 ]

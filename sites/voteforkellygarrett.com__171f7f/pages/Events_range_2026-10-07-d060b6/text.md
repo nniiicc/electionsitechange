@@ -1,0 +1,3 @@
+Meet Kelly Issues News Volunteer Contribute Events More events coming soon!
+#ago This Week This Month ‹ Previous Wed Oct 7 2026 Next › No events in this range Try a different date range, or check back soon for new events.
+Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com - Political Websites Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

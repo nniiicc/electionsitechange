@@ -1,63 +1,32 @@
-Meet Stephanie
-Stephanie Mack is an Essex Junction entrepreneur, business and financial operations consultant, and candidate for the Vermont House of Representatives in the Chittenden-24 District.
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate Meet Stephanie Stephanie Mack is an Essex Junction entrepreneur, business and financial operations consultant, and candidate for the Vermont House of Representatives in the Chittenden-24 District.
 With more than 25 years of experience in business operations, finance, and strategic leadership, she has built and managed businesses, developed financial systems and workflows, and worked firsthand with the challenges facing Vermont employers and families.
-On This Page
-Business and Financial Experience
-Stephanie Mack’s professional career has centered on the practical side of business: managing operations, building financial systems, solving problems and helping businesses understand where their money is going.
+On This Page Business and Financial Experience Entrepreneur and Community Member Why I’m Running My Mission Staying Connected With Constituents Business and Financial Experience Stephanie Mack’s professional career has centered on the practical side of business: managing operations, building financial systems, solving problems and helping businesses understand where their money is going.
 From 2004 to 2015, Stephanie served as office manager at Clean Green Sanitation, where she developed business systems and managed day-to-day office operations.
 In 2015, she founded Account Mobility LLC, an accounting practice providing bookkeeping, tax preparation, compliance and financial-system services.
-She built the practice over the next decade before selling it in 2025.
-Business & Financial Operations Consultant
-Stephanie works with businesses to improve their financial systems, operational workflows, and day-to-day processes, helping owners create more efficient, organized, and accountable operations.
-Her work includes cash-flow management, bookkeeping, payroll, tax and S-Corporation compliance, financial systems, and business planning.
-Her experience also extends beyond accounting.
+She built the practice over the next decade before selling it in 2025. ​ Business & Financial Operations Consultant ​ Stephanie works with businesses to improve their financial systems, operational workflows, and day-to-day processes, helping owners create more efficient, organized, and accountable operations.
+Her work includes cash-flow management, bookkeeping, payroll, tax and S-Corporation compliance, financial systems, and business planning. ​ Her experience also extends beyond accounting.
 Through Mack Properties, she has managed rental properties, renovations and real-estate transactions, giving her experience with another side of Vermont’s business and housing economy.
 Her professional background has also included operations management, production cycles and international quality control.
-Entrepreneur and Community Member
-Stephanie’s experience as an entrepreneur extends beyond accounting and financial management.
-Over the years, she has built and managed businesses, worked with rental properties and renovations through Mack Properties, and pursued new ventures rooted in the Essex community.
-After selling her accounting and tax practice in 2025, Stephanie continued her entrepreneurial work through Strategizer, where she helps businesses improve their financial systems, operations, and workflows, and through Healer, a wellness shop in Essex.
-Healer also features PurePops, a seasonal line of allergen-free popsicles.
-For Stephanie, small business is more than a profession.
-It has meant working directly with customers, employees, property owners and other businesspeople while confronting many of the same costs and practical challenges they face.
-Stephanie has been married to her husband, Tim, for 25 years and is a mother of three.
-She also serves as Treasurer of the Vermont Federation of Republican Women.
-Her involvement in business, family and community life provides the background for her decision to become more directly involved in public service.
-Why I’m Running
-I have always been interested in public service, but for many years running an accounting and tax practice made serving during Vermont’s legislative session impractical.
-After selling that business in 2025, I reached a point where I could devote my time and professional experience to public service.
-My work has put me across the table from business owners, families and taxpayers dealing with cash flow, payroll, taxes, rising expenses and the challenge of planning for the future.
-Those conversations have made me increasingly concerned about affordability in Vermont and helped shape my decision to run for the Vermont House.
-I believe Vermont must address the cost of housing, property taxes, education and government while creating an environment where families can afford to stay, young people can build a future, and businesses can grow and create opportunities.
-I want to bring my background in accounting, financial management and business operations to those discussions in Montpelier.
-Throughout my career, I have learned to begin with some basic questions: What are we spending?
+Entrepreneur and Community Member Stephanie’s experience as an entrepreneur extends beyond accounting and financial management.
+Over the years, she has built and managed businesses, worked with rental properties and renovations through Mack Properties, and pursued new ventures rooted in the Essex community. ​ After selling her accounting and tax practice in 2025, Stephanie continued her entrepreneurial work through Strategizer, where she helps businesses improve their financial systems, operations, and workflows, and through Healer, a wellness shop in Essex.
+Healer also features PurePops, a seasonal line of allergen-free popsicles. ​ For Stephanie, small business is more than a profession.
+It has meant working directly with customers, employees, property owners and other businesspeople while confronting many of the same costs and practical challenges they face. ​ Stephanie has been married to her husband, Tim, for 25 years and is a mother of three.
+She also serves as Treasurer of the Vermont Federation of Republican Women. ​ Her involvement in business, family and community life provides the background for her decision to become more directly involved in public service.
+Why I’m Running I have always been interested in public service, but for many years running an accounting and tax practice made serving during Vermont’s legislative session impractical.
+After selling that business in 2025, I reached a point where I could devote my time and professional experience to public service. ​ My work has put me across the table from business owners, families and taxpayers dealing with cash flow, payroll, taxes, rising expenses and the challenge of planning for the future.
+Those conversations have made me increasingly concerned about affordability in Vermont and helped shape my decision to run for the Vermont House. ​ I believe Vermont must address the cost of housing, property taxes, education and government while creating an environment where families can afford to stay, young people can build a future, and businesses can grow and create opportunities. ​ I want to bring my background in accounting, financial management and business operations to those discussions in Montpelier. ​ Throughout my career, I have learned to begin with some basic questions: What are we spending?
 What are we getting for it?
 Is there a better way?
-My Mission
-My mission begins with responsibility: responsibility for how taxpayer dollars are spent, for the decisions made in Montpelier, and for listening to the people those decisions affect.
-Fiscal Responsibility
-My professional life has been built around numbers, budgets and the practical realities of running businesses.
+My Mission My mission begins with responsibility: responsibility for how taxpayer dollars are spent, for the decisions made in Montpelier, and for listening to the people those decisions affect. ​ Fiscal Responsibility My professional life has been built around numbers, budgets and the practical realities of running businesses.
 I believe government should ask the same basic questions responsible businesses and households ask: What are we spending?
 What are we getting for it?
-Is there a more efficient way to accomplish the goal?
-Fiscal responsibility means looking carefully at programs and priorities, understanding their costs, and measuring whether they are producing value for Vermonters.
-Affordability and Opportunity
-Affordability reaches far beyond the state budget.
-Vermonters face the combined costs of housing, property taxes, education and everyday living expenses, while employers face challenges finding workers and managing their own rising costs.
-I want Vermont to be a place where young people and families can afford to build a future, businesses can find employees and grow, and older Vermonters can remain in the communities they call home.
-Housing, education, workforce development, taxation and economic growth are interconnected challenges.
-Addressing them requires practical solutions as well as responsible budgeting.
-Accountability to Voters
-Representation should be an ongoing conversation rather than something that happens only during an election.
-If elected, I intend to keep residents informed about issues before the Legislature and provide opportunities for them to tell me what they think as decisions are being considered.
-My mission is to mind voter dollars with sense, bring practical financial experience to Montpelier, and remain accountable to the people I represent.
-Staying Connected With Constituents
-I believe representation requires an ongoing conversation with the people I serve.
-Voters should know what is happening in Montpelier and have meaningful opportunities to make their voices heard while decisions are being considered, not simply after votes have been cast.
-If elected, I intend to use community conversations, polls, my website, blog posts, social media, email and other forms of direct communication to keep residents informed and ask for their views on issues before the Legislature.
-I also want to remain connected with local businesses, families and community organizations whose day-to-day experiences can help inform the decisions made at the State House.
-Government works best when communication goes both ways.
-My responsibility as a representative would be not only to cast votes, but also to listen, explain my decisions and remain accessible to the people I serve.
-Join the Conversation
-I want to hear from you.
+Is there a more efficient way to accomplish the goal? ​ Fiscal responsibility means looking carefully at programs and priorities, understanding their costs, and measuring whether they are producing value for Vermonters. ​ Affordability and Opportunity ​ Affordability reaches far beyond the state budget.
+Vermonters face the combined costs of housing, property taxes, education and everyday living expenses, while employers face challenges finding workers and managing their own rising costs. ​ I want Vermont to be a place where young people and families can afford to build a future, businesses can find employees and grow, and older Vermonters can remain in the communities they call home. ​ Housing, education, workforce development, taxation and economic growth are interconnected challenges.
+Addressing them requires practical solutions as well as responsible budgeting. ​ Accountability to Voters Representation should be an ongoing conversation rather than something that happens only during an election.
+If elected, I intend to keep residents informed about issues before the Legislature and provide opportunities for them to tell me what they think as decisions are being considered. ​ My mission is to mind voter dollars with sense, bring practical financial experience to Montpelier, and remain accountable to the people I represent.
+Staying Connected With Constituents I believe representation requires an ongoing conversation with the people I serve.
+Voters should know what is happening in Montpelier and have meaningful opportunities to make their voices heard while decisions are being considered, not simply after votes have been cast. ​ If elected, I intend to use community conversations, polls, my website, blog posts, social media, email and other forms of direct communication to keep residents informed and ask for their views on issues before the Legislature.
+I also want to remain connected with local businesses, families and community organizations whose day-to-day experiences can help inform the decisions made at the State House. ​ Government works best when communication goes both ways.
+My responsibility as a representative would be not only to cast votes, but also to listen, explain my decisions and remain accessible to the people I serve. ​ Join the Conversation I want to hear from you.
 If you have a question, concern or idea about an issue affecting our district or the State of Vermont, please get in touch.
+Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

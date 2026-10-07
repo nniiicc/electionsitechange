@@ -1,7 +1,11 @@
 {
  "description": "Articles",
  "final_url": "https://bobniemeyer.com/articles/?page=4",
+ "fingerprint": "c12a4632d18896b308fff58d8aa83bc0772b317c",
+ "format": 3,
  "paid_for_by": "Paid for by the Bob Niemeyer Campaign",
- "title": "Articles \u2013 Page 4 \u2013 Bob Niemeyer",
- "years_mentioned": []
+ "title": "Articles – Page 4 – Bob Niemeyer",
+ "years_mentioned": [
+  "2019"
+ ]
 }

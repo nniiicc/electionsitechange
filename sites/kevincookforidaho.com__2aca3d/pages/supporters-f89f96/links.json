@@ -1,56 +1,226 @@
 [
-"https://donate.stripe.com/6oE17O3xw17q8vufYY",
-"https://facebook.com/kevincookforidaho",
-"https://keepidahowater.com/",
-"https://kevincookforidaho.com/",
-"https://kevincookforidaho.com/about-kevin",
-"https://kevincookforidaho.com/ask-kevin",
-"https://kevincookforidaho.com/how-to-help",
-"https://kevincookforidaho.com/in-the-news",
-"https://kevincookforidaho.com/in-the-news/breakfast-with-senator-cook",
-"https://kevincookforidaho.com/in-the-news/weekly-newsletter",
-"https://kevincookforidaho.com/in-the-news/weekly-newsletter-archive",
-"https://kevincookforidaho.com/media/1gfd3zqa/2024-mailer_2-pg1.png",
-"https://kevincookforidaho.com/media/1skfdurm/2024-mailer_1-pg1.png",
-"https://kevincookforidaho.com/media/2sqhszwg/endorsementschneider.jpg",
-"https://kevincookforidaho.com/media/43rhm14x/2024-mailer_5-pg1.png",
-"https://kevincookforidaho.com/media/4ohjmzzk/image001-6.png",
-"https://kevincookforidaho.com/media/5rhnzcl0/brandon-and-nettie-lee-1.png",
-"https://kevincookforidaho.com/media/ardf1zit/reed.png",
-"https://kevincookforidaho.com/media/bc5mu3bq/2024-mailer_1-pg2.png",
-"https://kevincookforidaho.com/media/c5lhrol1/2024foodproducersendorsment.jpg",
-"https://kevincookforidaho.com/media/ceilkfxv/img_3118.png",
-"https://kevincookforidaho.com/media/ckrdw3ms/dan-peterson-1.png",
-"https://kevincookforidaho.com/media/cw5fabpk/2024idahocattle.jpg",
-"https://kevincookforidaho.com/media/cxtlqsh4/wheeler-1.png",
-"https://kevincookforidaho.com/media/dj5nfyru/liddiard.png",
-"https://kevincookforidaho.com/media/finauozn/pr-ad-version-104-900px.jpg",
-"https://kevincookforidaho.com/media/fnzh2swb/endorsementmarshall.jpg",
-"https://kevincookforidaho.com/media/gdibm2mv/2024-mailer_4-pg1.png",
-"https://kevincookforidaho.com/media/gq2pndo0/2024idahopac.jpg",
-"https://kevincookforidaho.com/media/j1blpg3q/scott.png",
-"https://kevincookforidaho.com/media/kgbktiqv/endorsementburtenshaw.jpg",
-"https://kevincookforidaho.com/media/kqzb4pqx/img_3120.png",
-"https://kevincookforidaho.com/media/kznpbewh/pharmacist.png",
-"https://kevincookforidaho.com/media/kzwhnntb/2024-mailer_5-pg2.png",
-"https://kevincookforidaho.com/media/mulhqwu5/commissioner.png",
-"https://kevincookforidaho.com/media/n1bht3xk/endorsementcobia.jpg",
-"https://kevincookforidaho.com/media/od1jfuwt/2024-mailer_3-pg2.png",
-"https://kevincookforidaho.com/media/okifch3k/who-supports-kevin-mailer-front-1.png",
-"https://kevincookforidaho.com/media/p40ab3rr/2024realtorsendorsment.jpg",
-"https://kevincookforidaho.com/media/pnchdomv/2024-mailer_2-pg2.png",
-"https://kevincookforidaho.com/media/pzndl2aw/baxter.png",
-"https://kevincookforidaho.com/media/qodpepfw/img_3119.png",
-"https://kevincookforidaho.com/media/rm2bg3kv/img_3340.jpg",
-"https://kevincookforidaho.com/media/rupa2c21/image001-5.png",
-"https://kevincookforidaho.com/media/ts0f0w0d/image001-3.png",
-"https://kevincookforidaho.com/media/uaykx23c/2024-mailer_3-pg1.png",
-"https://kevincookforidaho.com/media/uldljxng/2024-mailer_4-pg2.png",
-"https://kevincookforidaho.com/media/uzbcusyx/image003.png",
-"https://kevincookforidaho.com/media/vo1dn5da/image002-1.png",
-"https://kevincookforidaho.com/media/zxxhcaoy/dustin-mortimer.png",
-"https://kevincookforidaho.com/sjm101",
-"https://kevincookforidaho.com/supporters",
-"https://legislature.idaho.gov/sessioninfo/2025/legislation/SJM101",
-"https://voteidaho.gov/"
+{
+"text": "About Kevin",
+"href": "https://kevincookforidaho.com/about-kevin/"
+},
+{
+"text": "Add Your Signature",
+"href": "https://keepidahowater.com/"
+},
+{
+"text": "Ask Kevin",
+"href": "https://kevincookforidaho.com/ask-kevin/"
+},
+{
+"text": "Breakfast with Senator Cook",
+"href": "https://kevincookforidaho.com/in-the-news/breakfast-with-senator-cook/"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/6oE17O3xw17q8vufYY"
+},
+{
+"text": "Home",
+"href": "https://kevincookforidaho.com/"
+},
+{
+"text": "How to Help",
+"href": "https://kevincookforidaho.com/how-to-help/"
+},
+{
+"text": "How to vote",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "In the News",
+"href": "https://kevincookforidaho.com/in-the-news/"
+},
+{
+"text": "Link to Idaho Delegation",
+"href": "https://legislature.idaho.gov/sessioninfo/2025/legislation/SJM101/"
+},
+{
+"text": "News",
+"href": "https://kevincookforidaho.com/in-the-news/"
+},
+{
+"text": "Supporters",
+"href": "https://kevincookforidaho.com/supporters/"
+},
+{
+"text": "Water",
+"href": "https://kevincookforidaho.com/sjm101/"
+},
+{
+"text": "Weekly Newsletter",
+"href": "https://kevincookforidaho.com/in-the-news/weekly-newsletter/"
+},
+{
+"text": "Weekly Newsletter Archive",
+"href": "https://kevincookforidaho.com/in-the-news/weekly-newsletter-archive/"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/1gfd3zqa/2024-mailer_2-pg1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/1skfdurm/2024-mailer_1-pg1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/2sqhszwg/endorsementschneider.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/43rhm14x/2024-mailer_5-pg1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/4ohjmzzk/image001-6.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/5rhnzcl0/brandon-and-nettie-lee-1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/ardf1zit/reed.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/bc5mu3bq/2024-mailer_1-pg2.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/c5lhrol1/2024foodproducersendorsment.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/ceilkfxv/img_3118.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/ckrdw3ms/dan-peterson-1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/cw5fabpk/2024idahocattle.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/cxtlqsh4/wheeler-1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/dj5nfyru/liddiard.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/finauozn/pr-ad-version-104-900px.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/fnzh2swb/endorsementmarshall.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/gdibm2mv/2024-mailer_4-pg1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/gq2pndo0/2024idahopac.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/j1blpg3q/scott.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/kgbktiqv/endorsementburtenshaw.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/kqzb4pqx/img_3120.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/kznpbewh/pharmacist.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/kzwhnntb/2024-mailer_5-pg2.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/mulhqwu5/commissioner.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/n1bht3xk/endorsementcobia.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/od1jfuwt/2024-mailer_3-pg2.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/okifch3k/who-supports-kevin-mailer-front-1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/p40ab3rr/2024realtorsendorsment.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/pnchdomv/2024-mailer_2-pg2.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/pzndl2aw/baxter.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/qodpepfw/img_3119.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/rm2bg3kv/img_3340.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/rupa2c21/image001-5.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/ts0f0w0d/image001-3.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/uaykx23c/2024-mailer_3-pg1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/uldljxng/2024-mailer_4-pg2.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/uzbcusyx/image003.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/vo1dn5da/image002-1.png"
+},
+{
+"text": "[image]",
+"href": "https://kevincookforidaho.com/media/zxxhcaoy/dustin-mortimer.png"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/kevincookforidaho"
+},
+{
+"text": "[image] Kevin Cook for Idaho",
+"href": "https://kevincookforidaho.com/"
+}
 ]

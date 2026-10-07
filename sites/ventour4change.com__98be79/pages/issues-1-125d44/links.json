@@ -1,8 +1,30 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://ventour4change.com/",
-"https://ventour4change.com/biography",
-"https://ventour4change.com/donate",
-"https://ventour4change.com/introduction",
-"https://ventour4change.com/issues-1"
+{
+"text": "BIOGRAPHY",
+"href": "https://ventour4change.com/biography"
+},
+{
+"text": "DONATE",
+"href": "https://ventour4change.com/donate"
+},
+{
+"text": "Home",
+"href": "https://ventour4change.com/"
+},
+{
+"text": "INTRODUCTION",
+"href": "https://ventour4change.com/introduction"
+},
+{
+"text": "ISSUES",
+"href": "https://ventour4change.com/issues-1"
+},
+{
+"text": "Ventour 4 ChangeVentour 4 ChangeVentour 4 ChangeVentour 4 Change",
+"href": "https://ventour4change.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

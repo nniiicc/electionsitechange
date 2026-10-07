@@ -1,57 +1,28 @@
-PHOTO CONSENT & PARTICIPATION AGREEMENT
-Paid for by Gary Cordery for Governor 2026
-99-1191 Iwaena St Suite #D, Aiea, HI 96701
-Last Updated: February 5, 2026
-Acceptance of Terms
-Attendance at this campaign event constitutes your consent to be photographed, filmed, and/or otherwise recorded.
-These images and recordings may be used by the campaign for educational, marketing, fundraising, promotional, informational, and communications purposes, including posting your image or recording on websites, social media, digital advertising, and printed materials, without compensation.
-By entering the event premises, you waive any rights to inspect or approve the finished content and release the campaign from any claims related to the use of your likeness.
-If you prefer not to be photographed or recorded, please inform event staff upon arrival so reasonable accommodations can be made.
-GARY FOR GOVERNOR 2026 CAMPAIGN
-RELEASE OF LIABILITY, PHOTOGRAPHY / MEDIA RELEASE, AND CAMPAIGN COMMUNICATIONS CONSENT
-Name of the Activity or Events:
-Meet & Greet, Fundraiser, Dinner, Canvassing, Sign Waving, Campaign Events
-Definitions
-In this document, “Campaign” means the Gary for Governor 2026 Campaign, including the candidate, the campaign committee, and their respective directors, officers, employees, volunteers, agents, representatives, consultants, vendors, contractors, event hosts/sponsors, and assigns.
+top of page DONATE SUBSCRIBE VOLUNTEER Menu Close GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close PHOTO CONSENT & PARTICIPATION AGREEMENT Paid for by Gary Cordery for Governor 2026 99-1191 Iwaena St Suite #D, Aiea, HI 96701 Last Updated: February 5, 2026 Acceptance of Terms Attendance at this campaign event constitutes your consent to be photographed, filmed, and/or otherwise recorded.
+These images and recordings may be used by the campaign for educational, marketing, fundraising, promotional, informational, and communications purposes, including posting your image or recording on websites, social media, digital advertising, and printed materials, without compensation. ​ By entering the event premises, you waive any rights to inspect or approve the finished content and release the campaign from any claims related to the use of your likeness.
+If you prefer not to be photographed or recorded, please inform event staff upon arrival so reasonable accommodations can be made. ​ ​ GARY FOR GOVERNOR 2026 CAMPAIGN ​ RELEASE OF LIABILITY, PHOTOGRAPHY / MEDIA RELEASE, AND CAMPAIGN COMMUNICATIONS CONSENT Name of the Activity or Events: Meet & Greet, Fundraiser, Dinner, Canvassing, Sign Waving, Campaign Events Definitions In this document, “Campaign” means the Gary for Governor 2026 Campaign, including the candidate, the campaign committee, and their respective directors, officers, employees, volunteers, agents, representatives, consultants, vendors, contractors, event hosts/sponsors, and assigns.
 “Activity” means the campaign activity or events listed above.
 “Media” means photographs, video, film, audio recordings, livestreams, and any other recording or depiction in any format.
-“Likeness” means my name, image, photograph, voice, statements, biographical information, and appearance as captured in Media.
-Assumption of Risk; Physical Condition
-I hereby assume all risks of participating in and/or volunteering for the Activity, including risks that may arise from negligence or carelessness by the persons or entities being released, from dangerous or defective equipment or property, or because of possible liability without fault.
-I certify that I am physically fit to participate and that there are no health-related reasons or problems that preclude my participation.
-Release of Liability; Waiver; Indemnity
-In consideration for being permitted to participate in the Activity, for myself and my heirs, executors, administrators, next of kin, successors, and assigns, I:
-• WAIVE, RELEASE, AND DISCHARGE the Campaign from any and all liability, including
-liability arising from negligence or fault, for death, disability, personal injury, property
-damage, property theft, or actions of any kind that may occur to me, including travel to
-and from the Activity; and
-• INDEMNIFY, HOLD HARMLESS, AND PROMISE NOT TO SUE the Campaign from any and all liabilities or claims made as a result of participation in the Activity, whether caused by negligence of the released parties or otherwise, to the maximum extent permitted by law.
-I understand the Campaign is not responsible for the errors, omissions, acts, or failures to act of any party or entity conducting a specific activity on behalf of the Campaign.
-Medical Treatment
-If I am injured, become ill, or require medical attention during the Activity, I consent to
-receive medical treatment that may be deemed advisable.
+“Likeness” means my name, image, photograph, voice, statements, biographical information, and appearance as captured in Media. ​ Assumption of Risk; Physical Condition I hereby assume all risks of participating in and/or volunteering for the Activity, including risks that may arise from negligence or carelessness by the persons or entities being released, from dangerous or defective equipment or property, or because of possible liability without fault.
+I certify that I am physically fit to participate and that there are no health-related reasons or problems that preclude my participation. ​ Release of Liability; Waiver; Indemnity ​ In consideration for being permitted to participate in the Activity, for myself and my heirs, executors, administrators, next of kin, successors, and assigns, I: • WAIVE, RELEASE, AND DISCHARGE the Campaign from any and all liability, including liability arising from negligence or fault, for death, disability, personal injury, property damage, property theft, or actions of any kind that may occur to me, including travel to and from the Activity; and • INDEMNIFY, HOLD HARMLESS, AND PROMISE NOT TO SUE the Campaign from any and all liabilities or claims made as a result of participation in the Activity, whether caused by negligence of the released parties or otherwise, to the maximum extent permitted by law.
+I understand the Campaign is not responsible for the errors, omissions, acts, or failures to act of any party or entity conducting a specific activity on behalf of the Campaign. ​ Medical Treatment If I am injured, become ill, or require medical attention during the Activity, I consent to receive medical treatment that may be deemed advisable.
 I understand I am responsible for any costs of such treatment, to the extent permitted by law.
-Photography / Media Release (Use of Likeness)
-I understand that during the Activity or related campaign activities, I may be photographed, videotaped, filmed, or recorded.
+Photography / Media Release (Use of Likeness) I understand that during the Activity or related campaign activities, I may be photographed, videotaped, filmed, or recorded.
 I grant the Campaign the irrevocable right to record, reproduce, publish, display, distribute, transmit, edit, modify, and otherwise use my Likeness in any Media, in any and all formats and media now known or later developed, worldwide, in perpetuity, for lawful campaign-related purposes including communications, advertising, voter outreach, fundraising, and social media, without compensation to me.
 I waive any right to inspect or approve any finished Media or accompanying written or spoken copy, and I release the Campaign from any claims arising out of or related to the use of my Likeness, including claims for invasion of privacy, defamation, false light, or violation of the right of publicity, to the maximum extent permitted by law.
-Campaign Communications Consent (Text / Voice / Email)
-By providing my telephone number(s) and/or email address and signing this Release, I give the Campaign (and service providers acting on its behalf) permission to contact me for lawful campaign-related purposes, including voter outreach, volunteer coordination, event notices, fundraising, surveys, and other campaign communications.
+Campaign Communications Consent (Text / Voice / Email) By providing my telephone number(s) and/or email address and signing this Release, I give the Campaign (and service providers acting on its behalf) permission to contact me for lawful campaign-related purposes, including voter outreach, volunteer coordination, event notices, fundraising, surveys, and other campaign communications.
 This permission includes contact via email, live telephone calls, prerecorded or artificial-voice messages, and text messages (SMS/MMS), including through automated technology.
 Message and data rates may apply.
 Message frequency may vary.
 Opt-out: I may opt out of text messages at any time by replying STOP (or an equivalent keyword) to any campaign text.
 I may opt out of calls by asking to be placed on the Campaign’s internal do-not-call list.
-I may opt out of campaign emails by using an unsubscribe link (if provided) or by replying with a request to unsubscribe.
-Privacy; Use of Information
-The Campaign may store and use the contact information I provide for campaign-related purposes and to maintain internal suppression lists reflecting opt-out requests.
-The Campaign will not sell my contact information for commercial purposes, and will handle information consistent with applicable law and campaign policy.
-Acknowledgment; Severability; Governing Law
-I certify that I have read this document and fully understand its contents.
+I may opt out of campaign emails by using an unsubscribe link (if provided) or by replying with a request to unsubscribe. ​ Privacy; Use of Information The Campaign may store and use the contact information I provide for campaign-related purposes and to maintain internal suppression lists reflecting opt-out requests.
+The Campaign will not sell my contact information for commercial purposes, and will handle information consistent with applicable law and campaign policy. ​ Acknowledgment; Severability; Governing Law I certify that I have read this document and fully understand its contents.
 I understand that this is a release of liability, a media release, and a consent to be contacted, and I sign it of my own free will.
 If any provision is held invalid or unenforceable, the remaining provisions shall remain in full force to the maximum extent permitted by law.
-This Agreement shall be governed by the laws of the State of Hawaii.
-PARENT / GUARDIAN WAIVER FOR MINORS (Under 18 years old)
-The undersigned parent or legal guardian represents that they have the legal authority to sign on behalf of the minor and hereby consents to the minor’s participation in the Activity.
+This Agreement shall be governed by the laws of the State of Hawaii. ​ PARENT / GUARDIAN WAIVER FOR MINORS (Under 18 years old) The undersigned parent or legal guardian represents that they have the legal authority to sign on behalf of the minor and hereby consents to the minor’s participation in the Activity.
 The parent/ guardian agrees, individually and on behalf of the minor, to all terms of this Release, including the Release of Liability, Media Release, and (if contact information is provided) Campaign Communications Consent.
-The parent/guardian further agrees to indemnify and hold harmless the Campaign from any liability, loss, cost, claim, or damage arising from the minor’s participation.
+The parent/guardian further agrees to indemnify and hold harmless the Campaign from any liability, loss, cost, claim, or damage arising from the minor’s participation. ​ HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close PRIVACY POLICY SMS TERMS TERMS & CONDITIONS PHOTO CONSENT POLICY ACCESSIBILITY SOCIAL MEDIA EVENT SIGN IN Paid for by Gary Cordery for Governor, 99-1191 Iwaena Street Suite #D, Aiea, HI 96701.
+Our content is protected — but you’re welcome to share our official posts at GaryCorderyForGovernor.com.
+Mahalo!
+HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

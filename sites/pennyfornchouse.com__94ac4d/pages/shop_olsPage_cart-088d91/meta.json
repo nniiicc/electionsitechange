@@ -1,9 +1,9 @@
 {
  "description": "Discover unique Penny for NC House merchandise including political campaign apparel and North Carolina gifts to support your local politics!",
  "final_url": "https://pennyfornchouse.com/shop?olsPage=cart",
- "paid_for_by": null,
+ "fingerprint": "389198380ae0520b76b8c085a4f286109b2fd58c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Shop",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

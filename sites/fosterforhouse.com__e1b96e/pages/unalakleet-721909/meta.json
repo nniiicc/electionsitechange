@@ -1,9 +1,9 @@
 {
  "description": "Vote Neal Foster for State House in Unalakleet. Join the campaign for a brighter future!",
  "final_url": "https://fosterforhouse.com/unalakleet",
- "paid_for_by": null,
+ "fingerprint": "21b1de8d55e248191261fe93f6e54b8a9d7d7e16",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Unalakleet",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

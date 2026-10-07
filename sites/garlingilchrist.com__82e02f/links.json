@@ -1,31 +1,138 @@
 [
-"http://apolloartistry.com/",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwlw3hlvqk2o",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwmd5iwras2j",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwoz2xkpck2o",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwquvtybvk2l",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwsznnynoc22",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwvm3iug6s2n",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwvus3bmlk2f",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mx2l5zgm4s2i",
-"https://bsky.app/profile/garlingilchrist.bsky.social/post/3mx5al4hly22i",
-"https://garlingilchrist.com/",
-"https://garlingilchrist.com/bluesky",
-"https://garlingilchrist.com/cdn-cgi/l/email-protection",
-"https://garlingilchrist.com/donate",
-"https://garlingilchrist.com/fb",
-"https://garlingilchrist.com/insta",
-"https://garlingilchrist.com/media",
-"https://garlingilchrist.com/privacy-policy",
-"https://garlingilchrist.com/store",
-"https://garlingilchrist.com/twitter",
-"https://garlingilchrist.com/volunteer",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=10",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=100",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=25",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=250",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=5",
-"https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=50",
-"https://store.garlingilchrist.com/"
+{
+"text": "$10 $10",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=10"
+},
+{
+"text": "$100 $100",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=100"
+},
+{
+"text": "$25 $25",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=25"
+},
+{
+"text": "$250 $250",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=250"
+},
+{
+"text": "$5 $5",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=5"
+},
+{
+"text": "$50 $50",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web?amount=50"
+},
+{
+"text": "Contact",
+"href": "mailto:info@garlingilchrist.com"
+},
+{
+"text": "Donate",
+"href": "https://garlingilchrist.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://garlingilchrist.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://garlingilchrist.com/fb"
+},
+{
+"text": "Instagram",
+"href": "https://garlingilchrist.com/insta"
+},
+{
+"text": "Media",
+"href": "https://garlingilchrist.com/media"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web"
+},
+{
+"text": "Other Amount... Other Amount...",
+"href": "https://secure.actblue.com/donate/loc_gilchrist-soc_web"
+},
+{
+"text": "Powered By Apollo",
+"href": "http://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:press@garlingilchrist.com"
+},
+{
+"text": "Store",
+"href": "https://store.garlingilchrist.com/"
+},
+{
+"text": "Store Store",
+"href": "https://garlingilchrist.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://garlingilchrist.com/volunteer"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://garlingilchrist.com/volunteer"
+},
+{
+"text": "X-twitter",
+"href": "https://garlingilchrist.com/twitter"
+},
+{
+"text": "[image]",
+"href": "https://garlingilchrist.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwlw3hlvqk2o"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwmd5iwras2j"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwoz2xkpck2o"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwquvtybvk2l"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwsznnynoc22"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwvm3iug6s2n"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mwvus3bmlk2f"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mx2l5zgm4s2i"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/garlingilchrist.bsky.social/post/3mx5al4hly22i"
+},
+{
+"text": "[no text]",
+"href": "https://garlingilchrist.com/bluesky"
+},
+{
+"text": "privacy policy",
+"href": "https://garlingilchrist.com/privacy-policy"
+},
+{
+"text": "terms of service",
+"href": "https://garlingilchrist.com/privacy-policy"
+}
 ]

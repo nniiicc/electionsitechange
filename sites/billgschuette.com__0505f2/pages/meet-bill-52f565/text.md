@@ -1,5 +1,4 @@
-Meet Bill
-Bill G.
+Skip to content Home Meet Bill Issues Endorse Get Involved Connect Donate Meet Bill Bill G.
 Schuette – Our Voice in Lansing.
 State Representative Bill G.
 Schuette currently serves the people of the State of Michigan as Representative for Michigan’s 95th District.
@@ -26,3 +25,17 @@ Following his support of our counter-terror forces, Schuette returned to Midland
 Schuette enjoys running, deer hunting and volunteering with the Midland Area Community Foundation.
 He is a Trustee on the Rollin M.
 Gerstacker Foundation and a member of the Michigan Farm Bureau and Midland Business Alliance.
+In 2019, Bill G. was named the Intelligence Officer of the Year by the DIA’s Latin America Division.
+With this award the DIA recognized Bill’s “Commitment to Excellence in Defense of the Nation.” U.S.
+Special Operations Command and the inter-agency team at the U.S.
+Embassy in Mexico presented Bill G. with an honorary plaque thanking him for his work combating the dangerous Mexican drug cartels.
+Bill G. was presented with a Certificate of Service from the head of the Intelligence staff at CJTF-OIR, commending him for his dedication to the fight against ISIS while deployed by the DIA in the Middle East.
+Join Bill’s Team Sign up today to receive updates from the campaign and join our effort to Move Mid-Michigan Forward!
+DONATE TODAY!
+Let's Move Mid-Michigan Forward and help fight for our freedoms, family and futures!
+Select an amount below. $25 $50 $100 $250 $500 Other Bill on the Issues Select a topic to learn more.
+REBUILD Michigan's Economy REINFORCE Strong Communities RESTORE a Confident Future Endorse Bill Support Bill today by endorsing his campaign for State Representative.
+Add Your Name Get Involved Help support Bill’s campaign by putting up a yard sign or volunteering.
+Sign up below!
+Facebook Twitter Instagram Home Meet Bill Issues Endorse Get Involved Connect Paid for by Bill G.
+Schuette for State Representative PO Box 2227 Midland, MI 48641 Add Your Name to Bill’s Endorsement List " * " indicates required fields First Name * Last Name * Email Address * Phone Number Position/Title Company/Organization Type of Endorsement Personal On Behalf of Company or Organization Optional Quote Endorse Bill

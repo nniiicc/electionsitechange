@@ -1,5 +1,5 @@
-Stop Voting Blue No Matter Who Vote Red Instead
-Stop voting blue no matter who.
+Skip to content R Rocco for State Senate SD65 Toggle menu About Issues News Donate $75 for Free Get Involved Contact Donate WHAT'S NEW!?!
+DONATE $75 for FREE News Call to Action August 21, 2026 · Steve Stop Voting Blue No Matter Who Vote Red Instead Stop voting blue no matter who.
 Vote Red Instead.
 For more than 50 years, one-party Democratic control has defined Minnesota’s direction.
 The results are undeniable: unprecedented fraud, rising crime, prosecutors who refuse to hold career criminals accountable, the 7th highest tax burden in America, constant tax hikes for pet projects, sanctuary policies that strain housing and resources, and a justice system too often influenced by politics instead of the law.
@@ -34,3 +34,7 @@ Rocco for State Senate is running in District 65 to deliver that change — for 
 If you want different results, you must vote differently.
 Stop Voting Blue No Matter Who.
 Vote Red Instead.
+From the campaign Latest News September 23, 2026 Restore the Flag Minnesota Actually Loved September 23, 2026 The War on Cops: Let Cops Be Cops Again September 23, 2026 Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes See all news → Minnesota voters Donate $75.
+Get $75 Back.
+Minnesota’s Political Contribution Refund may return up to $# of your campaign donation—making your support possibly free.
+Learn How It Works ← Grant federal pardon and state retrial for Derek Chauvin Stop Voting Blue No Matter Who → Paid for by Rocco for State Senate, PO Box 270172, Saint Paul, MN 55127-0172 © # Rocco for State Senate

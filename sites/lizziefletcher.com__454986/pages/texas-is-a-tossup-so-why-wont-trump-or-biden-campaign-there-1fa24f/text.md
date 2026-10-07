@@ -1,3 +1,5 @@
+Skip to content About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store Menu About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store CONTRIBUTE NEWS NEWS Texas Is a Tossup.
+So Why Won’t Trump or Biden Campaign There?
 A victory by the Democrats would herald the arrival of a formidable multiracial coalition in the country’s largest red state.
 BROWNSVILLE, Texas — When Senator Ted Cruz of Texas spoke with President Trump on the phone last week, he congratulated the president on his debate performance, nudged him to keep driving policy-oriented attacks against his opponent, Joseph R.
 Biden Jr., and relayed one more message.
@@ -27,8 +29,7 @@ Biden is dispatching his running mate, Senator Kamala Harris, to Texas on Friday
 A pair of Democratic billionaires, Dustin Moskovitz and Michael R.
 Bloomberg, have separately poured money into the state at the 11th hour.
 Senator John Cornyn, a Republican facing his own difficult race against M.J.
-Hegar, said Wednesday that “the thing that worries me the most” is the Democrats’ late spending, predicting that he would be “outspent by more than 2-to-1.”
-The stakes here are, well, Texas-sized.
+Hegar, said Wednesday that “the thing that worries me the most” is the Democrats’ late spending, predicting that he would be “outspent by more than 2-to-1.” The stakes here are, well, Texas-sized.
 A Biden win would doom Mr.
 Trump’s chances for re-election.
 More significantly, it would herald the arrival of a formidable multiracial Democratic coalition in the country’s largest red state.
@@ -45,14 +46,12 @@ While Democrats were infuriated with the decision by Gov.
 Greg Abbott, a Republican, to limit the number of drop boxes for absentee ballots to one per county, they believe his decision to extend early voting from two to three weeks and to push local elections from the spring to November’s ballot has bolstered their turnout efforts.
 Participation has been particularly high in the metropolitan areas — and not just the biggest cities, but also in booming exurban counties, where a diverse new mix of voters is shattering turnout records in the bedroom communities of Dallas, Austin and Houston.
 “It is a competitive state, meaning a Democrat can now win statewide,” acknowledged Steve Munisteri, a former chairman of the Texas Republican Party, noting that about 10 million people had moved to the state in the last 20 years.
-“We’ve had the equivalent of two medium-sized states move in.”
-Yet while Texas Republicans are anxious about what they see as a tightening race — and trying to persuade Mr.
+“We’ve had the equivalent of two medium-sized states move in.” Yet while Texas Republicans are anxious about what they see as a tightening race — and trying to persuade Mr.
 Trump to confront the threat — Texas Democrats are frustrated by what they see as a lack of investment by the Biden campaign in a state they think would be even more promising had they spent more sooner.
 Nowhere has that lack of spending proven more evident than in the heavily Hispanic, and heavily Democratic, Rio Grande Valley, where early vote turnout has lagged the metropolitan areas in part because there’s little partisan competition for congressional or state legislative races.
 “This is where the gap is because there are no contested elections down here,” said Gilberto Hinojosa, the chair of the Texas Democratic Party, who has been lobbying Mr.
 Biden’s campaign all year.
-“You don’t have the spending that you have in these other areas.”
-Mr.
+“You don’t have the spending that you have in these other areas.” Mr.
 Hinojosa said he had received only $15,000 for get-out-the-vote efforts.
 “The party has had to jump in here,” he said, alluding to Texas Democrats.
 After initially only planning to have Ms.
@@ -86,8 +85,7 @@ That was clear enough from the diverse array of voters who trickled back to thei
 Biden out of animus toward Mr.
 Trump.
 “I’m tired of Trump,” said Irene Duron, who cast her ballot still wearing her scrubs from her job in clinical technology.
-“And I usually vote Republican.”
-Even more striking were a few dozen interviews Saturday at an early voting site in what has been a more conservative community than Houston: Fort Worth’s Tarrant County.
+“And I usually vote Republican.” Even more striking were a few dozen interviews Saturday at an early voting site in what has been a more conservative community than Houston: Fort Worth’s Tarrant County.
 Mr.
 Trump won there by about nine percentage points in 2016.
 The voters were overwhelmingly young and people of color, many of them of Asian or Hispanic descent, and nearly all of them said they were supporting Mr.
@@ -99,4 +97,8 @@ But they know Mr.
 Trump’s caricature of the state is wildly at odds with what could be made clear to the country next week.
 “Texas is changing,” said Mr.
 Cruz.
-“We’re not home to just oil and gas wildcatters.”
+“We’re not home to just oil and gas wildcatters.” Read on NYTimes.com ICYMI: Houston Chronicle Opinion: We recommend Lizzie Fletcher for the 7th Congressional District October 4, 2022 Houston Chronicle Editorial: We recommend Lizzie Fletcher for U.S.
+House District 7 September 30, 2020 Democrat Fletcher receives Republican support in battleground House election September 8, 2020 Olson and Fletcher Act to Expand Debt Forgiveness for Small Businesses Among Pandemic (video) August 11, 2020 As Trump Administration Works To Overturn Affordable Care Act, Congresswoman Lizzie Fletcher Speaks on House Floor To Protect Health Care for Texans July 6, 2020 Rep.
+Lizzie Fletcher pushing for $3 Billion buy for strategic oil reserve April 21, 2020 Bipartisan lawmakers urge assistance for oil and gas workers March 24, 2020 Harvey Relief Amendment Passes House February 7, 2020 Congresswoman Lizzie Fletcher On How Houston Could Recover Quicker From Floods And Hurricanes November 11, 2019 FOLLOW LIZZIE Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

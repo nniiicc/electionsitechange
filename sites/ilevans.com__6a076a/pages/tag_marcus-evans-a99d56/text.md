@@ -1,9 +1,5 @@
-Robert Peters and Marcus C.
-Evans Jr.: Illinois should be leading the way for offshore wind on the Great Lakes
-Talk to anyone about politics in the last two months, and the two biggest issues on people’s minds are gas prices and inflation.
+Skip to content Home Meet Marcus Latest News Take Action Donate Get a Yard Sign Volunteer Contact Home Meet Marcus Latest News Take Action Donate Get a Yard Sign Volunteer Contact Tag: Marcus Evans Marcus Evans for State Rep - Marcus Evans August 17, 2022 By staff (0) Comment Robert Peters and Marcus C.
+Evans Jr.: Illinois should be leading the way for offshore wind on the Great Lakes Talk to anyone about politics in the last two months, and the two biggest issues on people’s minds are gas prices and inflation.
 And for good reason.
-With no end…
-Read More
-Marcus Evans Jr.: New freight rule could upset Chicago’s rail hub and worsen supply chain woes
-Two of the most prominent and complex challenges we face today — supply chain slowdowns and rising inflation — could soon be exacerbated if an under-the-radar federal agency greenlights a…
-Read More
+With no end… Read More March 28, 2022 By staff (0) Comment Marcus Evans Jr.: New freight rule could upset Chicago’s rail hub and worsen supply chain woes Two of the most prominent and complex challenges we face today — supply chain slowdowns and rising inflation — could soon be exacerbated if an under-the-radar federal agency greenlights a… Read More Contact Us PO Box 1043 Chicago, IL 60690 773.800.9216 marcus@ilevans.com Take Action Donate Get a Yard Sign Volunteer Latest News Thank You District 33! © # Citizens for Marcus C.
+Evans, Jr.

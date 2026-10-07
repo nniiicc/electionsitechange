@@ -1,9 +1,30 @@
 [
-"https://facebook.com/MayforOK",
-"https://instagram.com/MayforOK",
-"https://mayforok.com/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/mayforok",
-"https://votevets.org/"
+{
+"text": "Donate to Support Our Campaign!",
+"href": "https://secure.actblue.com/donate/mayforok"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Request a Yard Sign or Volunteer!",
+"href": "https://mayforok.com/#2add873a-21a8-4be7-b85c-30fead215d4c"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MayforOK"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MayforOK"
+},
+{
+"text": "https://votevets.org/",
+"href": "https://votevets.org/"
+}
 ]

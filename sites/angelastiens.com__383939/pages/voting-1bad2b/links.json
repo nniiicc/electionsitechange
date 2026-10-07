@@ -1,8 +1,38 @@
 [
-"https://angelastiens.com/",
-"https://angelastiens.com/voting",
-"https://jocoelection.org/voting-election-info/advance-voting",
-"https://jocoelection.org/voting-election-info/polling-places",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://secure.anedot.com/angela-stiens-for-kansas-house/donate?exitIntent=true"
+{
+"text": "About Angela",
+"href": "https://angelastiens.com/#about"
+},
+{
+"text": "Advance Voting (In-Person and Mail-In)",
+"href": "https://www.jocoelection.org/voting-election-info/advance-voting"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/angela-stiens-for-kansas-house/donate?exitIntent=true"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.jocoelection.org/voting-election-info/polling-places"
+},
+{
+"text": "For a ride to the polls, contact: stiensforkansashouse@gmail.com",
+"href": "mailto:stiensforkansashouse@gmail.com"
+},
+{
+"text": "Issues",
+"href": "https://angelastiens.com/#issues"
+},
+{
+"text": "View Your Sample Ballot",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "Voting",
+"href": "https://angelastiens.com/voting/"
+},
+{
+"text": "[image: Angela Stiens - State Representative]",
+"href": "https://angelastiens.com/"
+}
 ]

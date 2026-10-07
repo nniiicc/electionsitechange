@@ -1,13 +1,54 @@
 [
-"https://facebook.com/FriendsofKevinFord",
-"https://friendsofkevinford.com/",
-"https://friendsofkevinford.com/about",
-"https://friendsofkevinford.com/contact",
-"https://friendsofkevinford.com/issues",
-"https://friendsofkevinford.com/privacy",
-"https://friendsofkevinford.com/volunteer",
-"https://instagram.com/FriendsofKevinford",
-"https://secure.anedot.com/friends-of-kevin-ford/donatenow",
-"https://truthsocial.com/@FriendsofKevinFord",
-"https://x.com/FriendsofFord"
+{
+"text": "About",
+"href": "https://friendsofkevinford.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://friendsofkevinford.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-kevin-ford/donatenow"
+},
+{
+"text": "Home",
+"href": "https://friendsofkevinford.com/"
+},
+{
+"text": "Issues",
+"href": "https://friendsofkevinford.com/issues/"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://friendsofkevinford.com/privacy"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://friendsofkevinford.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://friendsofkevinford.com/volunteer/"
+},
+{
+"text": "[image: Kevin Ford]",
+"href": "https://friendsofkevinford.com/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@FriendsofKevinFord"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FriendsofKevinFord"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/FriendsofKevinford"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/FriendsofFord"
+}
 ]

@@ -1,14 +1,50 @@
 [
-"https://campaignpartner.com/",
-"https://clydechambliss.com/",
-"https://clydechambliss.com/about_clyde",
-"https://clydechambliss.com/contact",
-"https://clydechambliss.com/home",
-"https://clydechambliss.com/in-clydes-own-words",
-"https://clydechambliss.com/issues",
-"https://clydechambliss.com/legislation",
-"https://clydechambliss.com/news",
-"https://facebook.com/ClydeChambliss",
-"https://instagram.com/senator.clyde.chambliss?hl=en",
-"https://twitter.com/search?q=clyde_chambliss&src=typd"
+{
+"text": "About Clyde",
+"href": "https://www.clydechambliss.com/about_clyde"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.clydechambliss.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.clydechambliss.com/home"
+},
+{
+"text": "In Clyde's Own Words",
+"href": "https://www.clydechambliss.com/in-clydes-own-words"
+},
+{
+"text": "Legislation",
+"href": "https://www.clydechambliss.com/legislation"
+},
+{
+"text": "News",
+"href": "https://www.clydechambliss.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.clydechambliss.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.clydechambliss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/search?q=clyde_chambliss&src=typd"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ClydeChambliss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senator.clyde.chambliss/?hl=en"
+}
 ]

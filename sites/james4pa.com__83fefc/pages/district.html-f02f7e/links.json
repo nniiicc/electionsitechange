@@ -1,32 +1,154 @@
 [
-"http://coraopolispa.com/",
-"https://bridgevilleboro.com/",
-"https://carnegieborough.com/",
-"https://colliertownship.net/",
-"https://facebook.com/James4PA",
-"https://james4pa.com/about.html",
-"https://james4pa.com/campaign-faq.html",
-"https://james4pa.com/contribute",
-"https://james4pa.com/district.html",
-"https://james4pa.com/endorsements.html",
-"https://james4pa.com/get-involved",
-"https://james4pa.com/index.html",
-"https://james4pa.com/local-agenda.html",
-"https://james4pa.com/media-resources.html",
-"https://james4pa.com/privacy-policy.html",
-"https://james4pa.com/terms-conditions.html",
-"https://james4pa.com/the-choice.html",
-"https://james4pa.com/volunteer",
-"https://james4pa.com/voter-resources.html",
-"https://james4pa.com/yard-sign",
-"https://kennedytwp.com/",
-"https://mckeesrockspa.us/",
-"https://nevilletownship.us/",
-"https://pa.gov/agencies/vote/resources/redistricting/pennsylvania-redistricting-house-of-representative",
-"https://palegis.us/find-my-legislator/by-county?county=ALLEGHENY",
-"https://pennsburyvillageboro.com/",
-"https://stowetwp.net/",
-"https://townshipofrobinson.com/",
-"https://x.com/JamesJuliusPA",
-"https://youtube.com/@james4pa"
+{
+"text": "About James",
+"href": "https://www.james4pa.com/about.html"
+},
+{
+"text": "Campaign FAQ",
+"href": "https://www.james4pa.com/campaign-faq.html"
+},
+{
+"text": "Compare the candidates",
+"href": "https://www.james4pa.com/the-choice.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.james4pa.com/contribute"
+},
+{
+"text": "District 45",
+"href": "https://www.james4pa.com/district.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.james4pa.com/endorsements.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/James4PA/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.james4pa.com/get-involved"
+},
+{
+"text": "James’s background",
+"href": "https://www.james4pa.com/about.html"
+},
+{
+"text": "Local Agenda",
+"href": "https://www.james4pa.com/local-agenda.html"
+},
+{
+"text": "Media Resources",
+"href": "https://www.james4pa.com/media-resources.html"
+},
+{
+"text": "Official municipal website",
+"href": "http://www.coraopolispa.com/"
+},
+{
+"text": "Official municipal website",
+"href": "https://mckeesrockspa.us/"
+},
+{
+"text": "Official municipal website",
+"href": "https://nevilletownship.us/"
+},
+{
+"text": "Official municipal website",
+"href": "https://pennsburyvillageboro.com/"
+},
+{
+"text": "Official municipal website",
+"href": "https://stowetwp.net/"
+},
+{
+"text": "Official municipal website",
+"href": "https://www.bridgevilleboro.com/"
+},
+{
+"text": "Official municipal website",
+"href": "https://www.carnegieborough.com/"
+},
+{
+"text": "Official municipal website",
+"href": "https://www.colliertownship.net/"
+},
+{
+"text": "Official municipal website",
+"href": "https://www.kennedytwp.com/"
+},
+{
+"text": "Official municipal website",
+"href": "https://www.townshipofrobinson.com/"
+},
+{
+"text": "Pennsylvania General Assembly’s legislator directory",
+"href": "https://www.palegis.us/find-my-legislator/by-county?county=ALLEGHENY"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.james4pa.com/privacy-policy.html"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.james4pa.com/yard-sign"
+},
+{
+"text": "See Pennsylvania’s official district description",
+"href": "https://www.pa.gov/agencies/vote/resources/redistricting/pennsylvania-redistricting-house-of-representative"
+},
+{
+"text": "Stay Connected",
+"href": "https://www.james4pa.com/get-involved"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.james4pa.com/terms-conditions.html"
+},
+{
+"text": "The Choice",
+"href": "https://www.james4pa.com/the-choice.html"
+},
+{
+"text": "View Voter Resources",
+"href": "https://www.james4pa.com/voter-resources.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.james4pa.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.james4pa.com/voter-resources.html"
+},
+{
+"text": "X",
+"href": "https://x.com/JamesJuliusPA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@james4pa"
+},
+{
+"text": "[image: James Julius State Representative]",
+"href": "https://www.james4pa.com/index.html"
+},
+{
+"text": "campaign@james4pa.com",
+"href": "mailto:campaign@james4pa.com"
+},
+{
+"text": "his priorities for the district",
+"href": "https://www.james4pa.com/local-agenda.html"
+},
+{
+"text": "priorities for District 45",
+"href": "https://www.james4pa.com/local-agenda.html"
+},
+{
+"text": "voter resources page",
+"href": "https://www.james4pa.com/voter-resources.html"
+}
 ]

@@ -1,5 +1,4 @@
-Secretary of State honors Baylor, Hixson Middle students as civics essay contest winners
-Tennessee Secretary of State Tre Hargett recently honored Hamilton County’s Emily Hernandez Martin and Riley Swinford as winners of the statewide 2026 Civics Essay Contest.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Secretary of State honors Baylor, Hixson Middle students as civics essay contest winners Apr 2 Written By Waterhouse PR Tennessee Secretary of State Tre Hargett recently honored Hamilton County’s Emily Hernandez Martin and Riley Swinford as winners of the statewide 2026 Civics Essay Contest.
 Senator Bo Watson of Hixson congratulated the pair for their achievements.
 “Their success highlights the importance of understanding our history and the principles that guide our country,” he stated in the release.
-“They both represent the very best of Tennessee students.”
+“They both represent the very best of Tennessee students.” READ THE FULL ARTICLE Waterhouse PR Previous Previous Statewide Tax Law Change Proposed By Hamilton County Passes State Legislature Next Next Playground At Harrison Bay State Park To Be Upgraded Bo for Tennessee About Priorities Media Contact

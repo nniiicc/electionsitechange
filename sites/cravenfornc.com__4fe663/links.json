@@ -1,8 +1,38 @@
 [
-"https://cravenfornc.com/",
-"https://cravenfornc.com/contact",
-"https://cravenfornc.com/issues",
-"https://cravenfornc.com/meet-dave",
-"https://cravenfornc.com/privacy-policy",
-"https://secure.anedot.com/dave-craven-for-nc/supportsenatorcraven"
+{
+"text": "Contact",
+"href": "https://cravenfornc.com/contact/"
+},
+{
+"text": "Donate(opens in a new tab)",
+"href": "https://secure.anedot.com/dave-craven-for-nc/supportsenatorcraven"
+},
+{
+"text": "Home",
+"href": "https://cravenfornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://cravenfornc.com/issues/"
+},
+{
+"text": "Meet Dave",
+"href": "https://cravenfornc.com/meet-dave/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://cravenfornc.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://cravenfornc.com/meet-dave"
+},
+{
+"text": "VIEW",
+"href": "https://cravenfornc.com/issues"
+},
+{
+"text": "[image: Dave Craven]",
+"href": "https://cravenfornc.com"
+}
 ]

@@ -1,6 +1,5 @@
-Terms and Conditions
-Leslie Larson for MN (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Leslie Larson for MN ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Home Issues Why I'm Running Donate Contact Events More Home Issues Why I'm Running Donate Contact Events Home Issues Why I'm Running Donate Contact Events TERMS AND CONDITIONS Terms and Conditions Leslie Larson for MN (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Leslie Larson for MN ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Leslie Larson for MN: You've subscribed to receive messages from Leslie Larson for MN.
 Msg & Data Rates May Apply.
 Message frequency varies.
@@ -30,7 +29,7 @@ When you complete forms online or otherwise provide Us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
-Dispute Resolution: In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Seattle, WA before one arbitrator.
+Dispute Resolution : In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Seattle, WA before one arbitrator.
 The arbitration will be administered by JAMS.
 For claims greater than $250,000, the JAMS Comprehensive Arbitration Rules and Procedures in effect at the time the arbitration is commenced will apply.
 For claims less than or equal to $250,000, the JAMS Streamlined Arbitration Rules in effect at the time the arbitration is commenced will apply.
@@ -59,7 +58,6 @@ Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
 Prepared and paid for by Leslie Larson for MN, P.O.
-Box 490453, Blaine, MN 55449
-LeslieLarsonForMN@gmail.com. | (612)465-9314
-Join Leslie in making Blaine, Lexington, and Minnesota stronger.
+Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
 Together we can deliver real solutions.
+Donate

@@ -1,7 +1,4 @@
-Logged In – Week In Review
-By Shane Klakken, Montana House District 37
-March 20, 2026
-This week brought a full slate of civic life, ballot news, and community events worth your attention.
+top of page News Principles Calendar About Menu Close Donate Logged In – Week In Review By Shane Klakken, Montana House District 37 March 20, 2026 This week brought a full slate of civic life, ballot news, and community events worth your attention.
 Here's where things stand.
 Thursday evening, the Council on Aging hosted a public meeting on data centers — their potential in Montana, and what that might mean for communities like ours.
 With 180 seats capacity and word that the room could fill fast, the message was simple: show up early.
@@ -58,3 +55,7 @@ You can find more at ShaneKlakken.com, on Facebook and X at "Shane Klakken for M
 If you want to be on the newsletter list, sign up on my website.
 And if I haven't called you yet about the Lincoln–Reagan Dinner — I'm working through the list.
 Call me: 406-217-6107.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

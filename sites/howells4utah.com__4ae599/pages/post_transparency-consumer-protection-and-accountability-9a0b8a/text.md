@@ -1,5 +1,5 @@
-Transparency, consumer protection, and accountability
-I am not anti-market.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Transparency, consumer protection, and accountability Drew Howells Jun 22 5 min read I am not anti-market.
 I am anti-rigged market.
 Markets only work when there is transparency, real competition, and meaningful consent.
 When profit depends on confusion, hidden fees, manufactured complexity, or the fact that ordinary people have nowhere else to go, government neutrality stops being neutral.
@@ -39,7 +39,7 @@ The problem begins when constantly adjustable prices are combined with predictiv
 That is surveillance pricing.
 It is old-fashioned price discrimination with more computing power and less public visibility.
 The price of eggs for you should be the price of eggs for me.
-It should not climb because an algorithm predicts that a tired parent shopping after work will pay a little more to get home, or because a retailer has enough information about a household to know that it has run out of an essential product.
+It should not climb because an algorithm predicts that a tired parent shopping after work will pay a little more to get home , or because a retailer has enough information about a household to know that it has run out of an essential product.
 People should not have to wonder whether the number on the shelf changed because of ordinary market conditions or because a model quietly decided they could be squeezed harder.
 Some forms of flexible pricing may make sense in optional markets such as travel, luxury goods, or entertainment, where timing and demand have long affected prices and consumers retain some ability to walk away.
 It should not become the norm for groceries, medicine, diapers, hygiene products, and the essential goods families cannot simply choose to go without.
@@ -70,3 +70,7 @@ It works better when the rules are visible, the prices are honest, public decisi
 My commitment as a legislator is plain: honest prices, honest contracts, honest competition, open government, and real consequences when any of them are violated.
 That is not hostility toward business or government.
 It is the basic standard both should be expected to meet.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

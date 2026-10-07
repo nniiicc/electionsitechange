@@ -1,5 +1,7 @@
-Tennessee’s Polluted Waterways
-Under the current leadership, our waterways have become much more polluted.
+0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
+Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
+Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
+Inside Tennessee - Round Table with the Candidates DONATE Tennessee’s Polluted Waterways Under the current leadership, our waterways have become much more polluted.
 From 2010 to 2020 our state went from 32.4% of our waterways being impaired to 55.4%.
 Impaired means that a waterway can no longer serve at least one of its intended functions.
 About 50% of these waterways are impaired due to e.coli contamination.
@@ -15,4 +17,4 @@ We should not only move away from the use of finite resources with toxic waste p
 We can require these operations take measures to protect our citizens.
 We must hold companies doing business in Tennessee accountable for what they are releasing into our environment.
 I understand profit is the driving principle behind any business, but we should ensure they are doing it the right way and hold any business that operates in Tennessee accountable to a standard that preserves our resources for generations to come.
-Look up how polluted your local stream, river or lake is here: Tennessee Impaired Waterway Map
+Look up how polluted your local stream, river or lake is here: Tennessee Impaired Waterway Map Langan For Tennessee Tennessee Senate District 7 campaign@Langan4TN.com Made with Squarespace Paid for by Langan for Tennessee

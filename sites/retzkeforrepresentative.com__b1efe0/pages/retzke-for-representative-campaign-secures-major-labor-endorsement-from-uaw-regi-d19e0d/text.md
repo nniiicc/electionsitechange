@@ -1,24 +1,21 @@
-Easton Retzke, Candidate for Ohio House District 89, Earns Major Labor Endorsement from UAW Region 2B
-July 31, 2026
-Sandusky, OH – The Retzke for Representative campaign today announced that Easton Retzke, Democratic candidate for Ohio House District 89, has earned the endorsement of the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) Region 2B.
+Home Meet the Candidate My Platform News Events Donate Follow us Donate Follow us Menu Easton Retzke, Candidate for Ohio House District 89, Earns Major Labor Endorsement from UAW Region 2B July 31, 2026 Sandusky, OH – The Retzke for Representative campaign today announced that Easton Retzke, Democratic candidate for Ohio House District 89, has earned the endorsement of the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) Region 2B.
 UAW Region 2B represents approximately 60,000 active members and retirees across Ohio and Indiana, including workers in auto manufacturing, heavy equipment, higher education, healthcare, and the public sector.
 The endorsement represents a significant show of support from organized labor as Retzke builds a campaign focused on working families, good-paying jobs, and strengthening the local economy across Erie, Huron, and Ottawa counties.
 “Working families and organized labor are the backbone of our communities,” said Easton Retzke, candidate for Ohio House District 89.
 “I am deeply honored to earn the trust and endorsement of the men and women of UAW Region 2B.
-The workers I’m running to represent are the people who keep our communities, our industries, and our economy moving every single day.”
-Retzke said that, if elected, he would make protecting workers and strengthening organized labor a central part of his work in the Ohio Statehouse.
+The workers I’m running to represent are the people who keep our communities, our industries, and our economy moving every single day.” Retzke said that, if elected, he would make protecting workers and strengthening organized labor a central part of his work in the Ohio Statehouse.
 “I will be a steadfast advocate for good-paying union jobs, fair wages, safe working conditions, and the right of workers to have a voice on the job,” Retzke said.
-“Northern Ohio has a proud history of manufacturing and organized labor, and I want to make sure the next generation has the opportunity to build a good life right here at home.”
-A Campaign Focused on Working Ohioans
-Retzke’s economic and labor platform centers on policies intended to strengthen working families and expand opportunities throughout Northern Ohio, including:
-- Protecting collective bargaining: Defending the right of public- and private-sector workers to organize, bargain collectively, and negotiate fair wages, benefits, and working conditions.
-- Investing in local manufacturing: Supporting economic development policies that create good jobs in Ohio, strengthen domestic supply chains, and ensure public investments benefit Ohio workers and communities.
-- Expanding career and technical education: Increasing opportunities for apprenticeships, vocational education, and career-tech programs that connect students with family-sustaining careers in the skilled trades and other high-demand fields.
-- Strengthening local economies: Supporting policies that help small businesses, local manufacturers, and working families while ensuring that economic development investments deliver real benefits to the communities receiving them.
+“Northern Ohio has a proud history of manufacturing and organized labor, and I want to make sure the next generation has the opportunity to build a good life right here at home.” A Campaign Focused on Working Ohioans Retzke’s economic and labor platform centers on policies intended to strengthen working families and expand opportunities throughout Northern Ohio, including: Protecting collective bargaining : Defending the right of public- and private-sector workers to organize, bargain collectively, and negotiate fair wages, benefits, and working conditions.
+Investing in local manufacturing : Supporting economic development policies that create good jobs in Ohio, strengthen domestic supply chains, and ensure public investments benefit Ohio workers and communities.
+Expanding career and technical education : Increasing opportunities for apprenticeships, vocational education, and career-tech programs that connect students with family-sustaining careers in the skilled trades and other high-demand fields.
+Strengthening local economies : Supporting policies that help small businesses, local manufacturers, and working families while ensuring that economic development investments deliver real benefits to the communities receiving them.
 The campaign will continue working with organized labor and community organizations across District 89 in the months leading up to the November general election.
 “An endorsement like this is about more than a campaign,” Retzke said.
 “It is about standing with the people who have built this region and making sure their voices are heard in Columbus.
-I’m grateful for UAW Region 2B’s support, and I look forward to earning the support of working people throughout District 89.”
-Easton Retzke is the Democratic nominee for Ohio House District 89.
+I’m grateful for UAW Region 2B’s support, and I look forward to earning the support of working people throughout District 89.” Easton Retzke is the Democratic nominee for Ohio House District 89.
 He is a lifelong Northern Ohioan and is running on a platform focused on strengthening local economies, protecting public education, expanding affordable housing, improving government transparency, protecting Lake Erie and Ohio’s environment, and standing up for working families.
-To learn more about the campaign, visit RetzkeForRepresentative.com.
+To learn more about the campaign, visit RetzkeForRepresentative.com . ← Back To News In Other News Press Release September 30, 2026 Sandusky City Commissioner Richard Koonce Endorses Easton Retzke for Ohio House District 89 Read Press Release News Article September 26, 2026 In-school debate series returns Read Article Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet the Candidate My Platform News Events Donate Follow us Terms of Service Contact Accessibility Statement Paid for by the committee to elect easton retzke 403.
+E.
+Washington St.
+Sandusky, OH 44870 Email: info@retzkeforrepresentative.com Retzke for Representative © #

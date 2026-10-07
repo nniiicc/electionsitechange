@@ -1,4 +1,4 @@
-Daniel Konstantopoulos is a local business owner who believes in lower taxes, responsible government, and the importance of family values.
+Home About ISSUES Contact More Home About ISSUES Contact Donate Home About ISSUES Contact Donate Daniel Konstantopoulos is a local business owner who believes in lower taxes, responsible government, and the importance of family values.
 As a three-term Clark County Magistrate, Daniel brings a deep understanding of how local government works and a proven record of service to the people of the district.
 As the husband of a public school educator and the father of two children in the public school system, Daniel understands the importance of education.
 He is a strong supporter of public education, and believes our schools play a critical role in preparing the next generation for success.
@@ -10,6 +10,4 @@ Daniel is ready to advance common sense solutions that promote growth, create jo
 Daniel is a supporter of our agricultural community, recognizing that farming and agribusiness are vital to the economy and way of life.
 He is also a steadfast defender of the Second Amendment and the constitutional rights of law-abiding citizens.
 As a strong advocate for public safety, Daniel will work to ensure law enforcement has the resources and support needed to keep our communities safe.
-Paid For by Daniel Konstantopoulos for State Representative - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Terms and Conditions Daniel Konstantopoulos for State Representative Paid For by Daniel Konstantopoulos for State Representative - All Rights Reserved.

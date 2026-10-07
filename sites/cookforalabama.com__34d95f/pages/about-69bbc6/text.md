@@ -1,4 +1,4 @@
-Fighting for an Alabama for all of us, not just the top.
+Skip navigation menu About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Me About Platform Events Volunteer Endorsements Contact District 43 Store Donate About Me Fighting for an Alabama for all of us, not just the top.
 I was born in Hattiesburg, Mississippi and grew up in Geneva, Alabama, a small Wiregrass town rooted in values like hard work, family, and caring for one another.
 I know all of those tenants very well.
 But as I entered the real world myself, I witnessed how the Republican Party and MAGA movement dove headfirst into cruelty, hatred, and authoritarian ideology.
@@ -18,7 +18,7 @@ We need younger, forward-thinking representatives who understand what working fa
 As your representative, I’ll fight for expanded healthcare and education, fair wages, and a government that’s transparent and accountable to the people.
 My main priorities focus around expanding healthcare access, investing in education, and empowering the working class and unions.
 But I will also work hard to bolster mental health lifelines, ensure equality for every Alabamian, legalize and regulate marijuana, establish a state lottery, protect Alabama's natural resources, bolster democracy and accountability in our elections, protect our privacy, eliminate property taxes for personal home owners, and protect renters and homeowners from corporate abuse.
-You can take a more in-depth look at my platform here.
+You can take a more in-depth look at my platform here .
 I’m a natural introvert, but I believe good leadership doesn’t come from shouting.
 I believe it comes from listening, being honest and authentic, and doing what’s right even when it’s hard.
 My goal is to be the most open and accessible member of the Alabama State House and someone who always puts people before politics.
@@ -28,3 +28,9 @@ Some other interesting things about me are that I have a little over 38 flight h
 I’m running because I believe Alabama deserves better.
 It’s time for new leadership in our state.
 Leadership that listens, tells the truth, is accessible, and fights for every day Alabamians.
+Montgomery keeps failing us.
+It's time for change.
+I’m running to fight for everyday Alabamians, not the powerful few.
+Join Us You Can Make Checks Payable to the Following: The Committee to Elect Taylor Cook P.O.
+Box 380021 Birmingham, AL 35238 Powered by RUN! website builder Paid for by the Committee to Elect Taylor Cook P.O.
+Box 380021 Birmingham, AL 35238 You need to enable JavaScript to run this app.

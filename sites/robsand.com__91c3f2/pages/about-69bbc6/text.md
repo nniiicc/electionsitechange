@@ -1,5 +1,4 @@
-Meet Rob
-Rob Sand was born and raised in Decorah – home to the Vikings and some of the best pizza in the state.
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Rob Sand for Iowa Meet Rob Rob Sand was born and raised in Decorah – home to the Vikings and some of the best pizza in the state.
 Rob’s roots in Iowa span generations – his dad’s family has been in Winneshiek County since getting off the boat from Norway.
 Rob grew up fishing and hunting in the area with his dad, and found his passion for public service during high school working to get a skatepark built in his community.
 Growing up in small-town Iowa will always be an important part of who Rob is.
@@ -19,8 +18,7 @@ As governor, Rob will lower costs and protect taxpayer dollars, restore the publ
 He’ll work to create more opportunities for Iowans across the state and help Iowa families not just get by, but thrive and live healthy lives.
 When he’s not busy working for Iowans and fighting corruption, you can find Rob bowhunting, fishing, biking, spending time with his family, or taste-auditing pizza at the nearest Casey’s.
 Rob and his wife Christine have two sons and a dog, Pow.
-Meet Dave
-Dave Muhlbauer is a fifth-generation family farmer, lifelong Iowan, and local leader who is currently serving in his eighth year on the Crawford County Board of Supervisors.
+Dave Muhlbauer for Iowa Meet Dave Dave Muhlbauer is a fifth-generation family farmer, lifelong Iowan, and local leader who is currently serving in his eighth year on the Crawford County Board of Supervisors.
 Dave is joining the ticket as the nominee for lieutenant governor and supporting Rob Sand because he knows that Iowans are ready to rotate the crops after a decade of one-party control that has left Iowans worse off.
 Dave will work hand-in-hand with Rob to fix our broken political system and tackle the toughest challenges facing Iowans on day one, like rebuilding our economy, strengthening public education, and helping Iowans live better, healthier lives.
 He’ll stand up for farmers, workers, and local governments that have been forgotten about by the state and federal insiders for too long.
@@ -38,3 +36,5 @@ Like many local leaders, Dave has been frustrated with the direction the state h
 As governor and lieutenant governor, Rob and Dave would bring those days to an end and make sure all Iowans’ voices are heard.
 Outside of farming and his time as a county supervisor, Dave enjoys spending time with his family, riding horses, and playing cards with the guys on the farm.
 He and his wife have three children and a dog.
+Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

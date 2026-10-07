@@ -1,4 +1,4 @@
-The House of Representatives and the Senate adopted the conference committee report on H.3357 and the bill was enrolled for ratification.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 2/7/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/7/2020 Uncategorized The House of Representatives and the Senate adopted the conference committee report on H.3357 and the bill was enrolled for ratification.
 The legislation allows for a HEARING IMPAIRMENT NOTATION ON A MOTOR VEHICLE REGISTRATION as a means of providing law enforcement officers with information that could prevent misunderstandings during traffic stops and other interactions.
 The legislation establishes a procedure that allows drivers who are deaf or hard of hearing to apply to the Department of Motor Vehicles to have a notation added to their private passenger‑carrying motor vehicle registration.
 This special motor vehicle registration notation would only appear when a law enforcement check is run on the vehicle’s license plate through the department’s online interface with law enforcement to alert the officer that the driver may be deaf or hard of hearing.
@@ -19,9 +19,7 @@ The House amended, approved, and sent the Senate H.4831, a bill STRENGTHENING LE
 With certain exceptions, the legislation makes it unlawful for someone to sell, purchase, trade, exchange, barter, export, ship, transfer the possession of, rehome, remove, or attempt to remove from this state any native reptile or amphibian species, including parts, products, eggs, offspring, and derivatives.
 The Department of Natural Resources is authorized to establish possession limits for reptile and amphibian species by regulation in order to protect designated species from commercial exploitation and other pressures on these populations.
 The legislation also includes provisions making it unlawful for someone to release from captivity wildlife that is not native to this state.
-The Department of Natural Resources is authorized to promulgate regulations to prohibit or otherwise restrict
-2
-certain species of nonnative wildlife in this State, including species that have the potential to become established in this state in sufficient numbers so as to become a nuisance and those that pose a demonstrable deleterious and widespread threat to wildlife, agriculture, or human health and safety.
+The Department of Natural Resources is authorized to promulgate regulations to prohibit or otherwise restrict 2 certain species of nonnative wildlife in this State, including species that have the potential to become established in this state in sufficient numbers so as to become a nuisance and those that pose a demonstrable deleterious and widespread threat to wildlife, agriculture, or human health and safety.
 The legislation enhances penalties for violations.
 The House approved S.474 and enrolled the bill for ratification.
 The legislation revises catch limits and size limits for estuarine and saltwater finfish, to provide that it is unlawful for someone to take or have in possession more than ten SPADEFISH (Chaetodipterus faber) in any one day, not to exceed thirty spadefish in any one day on any boat.
@@ -36,4 +34,6 @@ The legislation allows for the transmitting and receiving titles and liens and t
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 1/31/2020 The State Capitol Report – 2/14/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

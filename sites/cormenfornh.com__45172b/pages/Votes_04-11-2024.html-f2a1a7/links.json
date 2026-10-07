@@ -1,11 +1,38 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/02-15-2024.html",
-"https://cormenfornh.com/Votes/02-22-2024.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1597&inflect=2"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "February 15",
+"href": "https://cormenfornh.com/Votes/02-15-2024.html#HB1560"
+},
+{
+"text": "February 22",
+"href": "https://cormenfornh.com/Votes/02-22-2024.html#HB1633"
+},
+{
+"text": "HB 1688",
+"href": "https://www.gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1597&inflect=2"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+}
 ]

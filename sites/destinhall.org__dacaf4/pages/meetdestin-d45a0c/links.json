@@ -1,6 +1,22 @@
 [
-"https://destinhall.org/",
-"https://destinhall.org/contact",
-"https://destinhall.org/meetdestin",
-"https://secure.winred.com/citizens-for-destin-hall/webdonate"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "Home",
+"href": "https://www.destinhall.org/meetdestin"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.destinhall.org/contact"
+},
+{
+"text": "home",
+"href": "https://www.destinhall.org"
+},
+{
+"text": "meet destin",
+"href": "https://www.destinhall.org/meetdestin"
+}
 ]

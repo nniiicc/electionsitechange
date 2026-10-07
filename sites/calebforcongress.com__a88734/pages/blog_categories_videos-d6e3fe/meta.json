@@ -1,7 +1,9 @@
 {
  "description": "Campaign videos, recaps, and Catch Up with the C.",
  "final_url": "https://www.calebforcongress.com/blog/categories/videos",
- "paid_for_by": null,
+ "fingerprint": "2c8e236431538e0a60dc9ceffb61ecf07b79cea4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Videos",
  "years_mentioned": []
 }

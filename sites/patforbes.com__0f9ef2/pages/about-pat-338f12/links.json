@@ -1,7 +1,34 @@
 [
-"https://patforbes.com/",
-"https://patforbes.com/about-pat",
-"https://patforbes.com/district-maps",
-"https://patforbes.com/terms-privacy",
-"https://secure.actblue.com/donate/patrick-forbes-2"
+{
+"text": "Contact",
+"href": "https://www.patforbes.com#contact%20us"
+},
+{
+"text": "District Maps",
+"href": "https://www.patforbes.com/district-maps"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/patrick-forbes-2"
+},
+{
+"text": "Get Involved",
+"href": "https://www.patforbes.com#volunteer%20call%20to%20action"
+},
+{
+"text": "Issues",
+"href": "https://www.patforbes.com/about-pat"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.patforbes.com#about-pat"
+},
+{
+"text": "Terms & Privacy policy",
+"href": "https://www.patforbes.com/terms-privacy"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.patforbes.com"
+}
 ]

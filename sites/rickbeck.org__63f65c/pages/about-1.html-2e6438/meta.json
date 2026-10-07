@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "http://www.rickbeck.org/about-1.html",
- "paid_for_by": null,
+ "fingerprint": "c679d03f8fa084bcaf61ea3bbe72ed56c067ab19",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
  "years_mentioned": [
   "2020"

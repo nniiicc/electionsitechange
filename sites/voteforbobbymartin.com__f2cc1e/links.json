@@ -1,6 +1,18 @@
 [
-"https://facebook.com/profile.php?id=61585488021857",
-"https://paypal.com/ncp/payment/MVFP4UV977KDA",
-"https://voteforbobbymartin.com/",
-"https://voteforbobbymartin.com/cart"
+{
+"text": "0",
+"href": "https://www.voteforbobbymartin.com/cart"
+},
+{
+"text": "Donate Here",
+"href": "https://www.paypal.com/ncp/payment/MVFP4UV977KDA"
+},
+{
+"text": "[image: Bobby Martin]",
+"href": "https://www.voteforbobbymartin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585488021857"
+}
 ]

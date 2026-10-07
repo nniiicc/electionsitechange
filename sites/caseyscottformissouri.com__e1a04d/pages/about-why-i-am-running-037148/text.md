@@ -1,8 +1,7 @@
-Why I am Running
-Casey For the People of District Two
-Right now, our communities are facing serious challenges.
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate Why I am Running Casey For the People of District Two Right now, our communities are facing serious challenges.
 We are a maternal healthcare desert.
 Our public schools are at risk.
 And rural communities are being pushed to the brink… all while some leaders refuse to listen.
 So when you go to the ballot box, ask yourself: are we going to keep accepting this?
 It is our responsibility to defend our institutions, take responsibility for the world around us, and be as courageous as possible.
+Casey Scott For Missouri caseyscottformissouri@gmail.com

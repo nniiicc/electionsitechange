@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61561920425346",
-"https://votecarolhill-evanspa95thld.com/",
-"https://votecarolhill-evanspa95thld.com/contact",
-"https://votecarolhill-evanspa95thld.com/contribute",
-"https://votecarolhill-evanspa95thld.com/events",
-"https://votecarolhill-evanspa95thld.com/home",
-"https://votecarolhill-evanspa95thld.com/issues",
-"https://votecarolhill-evanspa95thld.com/meet_carol",
-"https://votecarolhill-evanspa95thld.com/more-about-carol",
-"https://votecarolhill-evanspa95thld.com/photos",
-"https://votecarolhill-evanspa95thld.com/privacy-policy",
-"https://votecarolhill-evanspa95thld.com/view-endorsements",
-"https://votecarolhill-evanspa95thld.com/volunteer",
-"https://votecarolhill-evanspa95thld.com/vote",
-"https://votecarolhill-evanspa95thld.com/yard-sign"
+{
+"text": "Carol's Ask",
+"href": "https://votecarolhill-evanspa95thld.com/meet_carol"
+},
+{
+"text": "Contact",
+"href": "https://votecarolhill-evanspa95thld.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://votecarolhill-evanspa95thld.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://votecarolhill-evanspa95thld.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://votecarolhill-evanspa95thld.com/events"
+},
+{
+"text": "Home",
+"href": "https://votecarolhill-evanspa95thld.com/home"
+},
+{
+"text": "On the Issues",
+"href": "https://votecarolhill-evanspa95thld.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://votecarolhill-evanspa95thld.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votecarolhill-evanspa95thld.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://votecarolhill-evanspa95thld.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://votecarolhill-evanspa95thld.com/vote"
+},
+{
+"text": "Why it's Important",
+"href": "https://votecarolhill-evanspa95thld.com/more-about-carol"
+},
+{
+"text": "Yard Signs",
+"href": "https://votecarolhill-evanspa95thld.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://votecarolhill-evanspa95thld.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61561920425346"
+}
 ]

@@ -1,12 +1,62 @@
 [
-"http://youtube.com/@AcrossTheSpectrumJordanConley",
-"https://jordanforhawaii.com/",
-"https://jordanforhawaii.com/about",
-"https://jordanforhawaii.com/accessibility-statement",
-"https://jordanforhawaii.com/contact",
-"https://jordanforhawaii.com/get-involved",
-"https://jordanforhawaii.com/privacy-policy",
-"https://jordanforhawaii.com/terms-and-conditions",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.jordanforhawaii.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.jordanforhawaii.com/accessibility-statement"
+},
+{
+"text": "Build the Coalition",
+"href": "https://www.jordanforhawaii.com/get-involved"
+},
+{
+"text": "Contact",
+"href": "https://www.jordanforhawaii.com/contact"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "FOR 2026 US HOUSE REPRESENTATIVE",
+"href": "https://www.jordanforhawaii.com"
+},
+{
+"text": "Home",
+"href": "https://www.jordanforhawaii.com"
+},
+{
+"text": "Jordan Conley",
+"href": "https://www.jordanforhawaii.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jordanforhawaii.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jordanforhawaii.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Cell Phone]",
+"href": "tel:808-492-2213"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:conleyfitness@gmail.com"
+},
+{
+"text": "[image: Youtube]",
+"href": "http://www.youtube.com/@AcrossTheSpectrumJordanConley"
+},
+{
+"text": "conleyfitness@gmail.com",
+"href": "mailto:conleyfitness@gmail.com"
+}
 ]

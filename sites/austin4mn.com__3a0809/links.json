@@ -1,23 +1,150 @@
 [
-"https://austin4mn.com/",
-"https://austin4mn.com/about.php",
-"https://austin4mn.com/calendar.php",
-"https://austin4mn.com/development.php",
-"https://austin4mn.com/events.php",
-"https://austin4mn.com/gallery/1000032095.jpg",
-"https://austin4mn.com/gallery/1000032096.jpg",
-"https://austin4mn.com/gallery/1000032097.jpg",
-"https://austin4mn.com/gallery/1000032100.jpg",
-"https://austin4mn.com/gallery/1000032101.jpg",
-"https://austin4mn.com/gallery/1000032102.jpg",
-"https://austin4mn.com/gallery/1000032103.jpg",
-"https://austin4mn.com/gallery/1000032104.jpg",
-"https://austin4mn.com/gallery/1000032114.jpg",
-"https://austin4mn.com/privacy.php",
-"https://austin4mn.com/sign.php",
-"https://austin4mn.com/terms.php",
-"https://austin4mn.com/video/Austin-Peterson-Campaign-Announcement-v2-new-logo-2.mp4",
-"https://facebook.com/profile.php?id=61586177847909",
-"https://instagram.com/peterson4mn",
-"https://secure.winred.com/austin-peterson-for-senate/donate"
+{
+"text": "About",
+"href": "https://austin4mn.com/about.php"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/austin-peterson-for-senate/donate"
+},
+{
+"text": "Discover where Austin will be next. Join rallies, town halls, and community events.",
+"href": "https://austin4mn.com/calendar.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/austin-peterson-for-senate/donate"
+},
+{
+"text": "Economic Development",
+"href": "https://austin4mn.com/development.php"
+},
+{
+"text": "Events",
+"href": "https://austin4mn.com/events.php"
+},
+{
+"text": "Events Calendar",
+"href": "https://austin4mn.com/calendar.php"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586177847909"
+},
+{
+"text": "Get a Sign",
+"href": "https://austin4mn.com/sign.php"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://austin4mn.com/sign.php"
+},
+{
+"text": "Home",
+"href": "https://austin4mn.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/peterson4mn/"
+},
+{
+"text": "Learn More",
+"href": "https://austin4mn.com/about.php"
+},
+{
+"text": "Privacy Statement",
+"href": "https://austin4mn.com/privacy.php"
+},
+{
+"text": "READ MORE",
+"href": "https://austin4mn.com/development.php"
+},
+{
+"text": "REQUEST SIGN",
+"href": "https://austin4mn.com/sign.php"
+},
+{
+"text": "Show your support. Request a sign for your home or business in just a few clicks.",
+"href": "https://austin4mn.com/sign.php"
+},
+{
+"text": "Stay up to date with media coverage, interviews, and community growth highlights.",
+"href": "https://austin4mn.com/development.php"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://austin4mn.com/terms.php"
+},
+{
+"text": "VIEW EVENTS",
+"href": "https://austin4mn.com/events.php"
+},
+{
+"text": "View Privacy Statement",
+"href": "https://austin4mn.com/privacy.php"
+},
+{
+"text": "Watch Video",
+"href": "https://austin4mn.com/video/Austin-Peterson-Campaign-Announcement-v2-new-logo-2.mp4"
+},
+{
+"text": "[image: Austin Peterson for Senate]",
+"href": "https://austin4mn.com/"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/development.php"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/events.php"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032095.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032096.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032097.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032100.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032101.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032102.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032103.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032104.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/gallery/1000032114.jpg"
+},
+{
+"text": "[image]",
+"href": "https://austin4mn.com/sign.php"
+},
+{
+"text": "info@austin4mn.com",
+"href": "mailto:info@austin4mn.com"
+}
 ]

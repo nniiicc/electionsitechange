@@ -1,7 +1,11 @@
 {
- "description": "Hruza For Missouri released a six minute documentary telling the incredible life story of Dr. George Hruza, \u201cGeorge Hruza: An American Dream\u201d",
+ "description": "Hruza For Missouri released a six minute documentary telling the incredible life story of Dr. George Hruza, “George Hruza: An American Dream”",
  "final_url": "https://hruzaformissouri.com/doc/",
- "paid_for_by": null,
+ "fingerprint": "ea5f6821ec9da919c426dd5998d258123bfce78c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "%%title%% %%page%% %%sep%% Documentary",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023"
+ ]
 }

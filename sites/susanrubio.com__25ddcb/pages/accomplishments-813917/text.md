@@ -1,20 +1,15 @@
-Accomplishments
-Expanding Affordable Housing and Tackling Homelessness
-Since joining the California Senate, Sen.
+ hello@susanrubio.com Follow Follow Follow Meet Susan Accomplishments Media Photo Gallery Contact Donate Home Accomplishments Accomplishments Expanding Affordable Housing and Tackling Homelessness Since joining the California Senate, Sen.
 Rubio has prioritized addressing the affordable housing shortage and homelessness crisis in Senate District 22.
 She has authored several affordable housing bills over the past four years.
-In addition to funds approved for statewide housing funds, she has successfully secured over $50 million directly for her local communities, which:
-- Helped build 105 Tiny Homes, including wraparound services at 3 sites.
-- Fund over 550 affordable housing units with over 1,000 more affordable housing units in the pipeline.
-SB 914: the Homeless Equity for Left Behind Populations (HELP) Act, which ensures that our state and local homelessness plans include a focus on some of our most vulnerable unhoused populations such as domestic violence survivors and unaccompanied women
-Senate Resolution 61 declaring the month of March 2022 as Unaccompanied Women Experiencing Homelessness Awareness Month in California.
+In addition to funds approved for statewide housing funds, she has successfully secured over $50 million directly for her local communities, which: Helped build 105 Tiny Homes, including wraparound services at 3 sites.
+Fund over 550 affordable housing units with over 1,000 more affordable housing units in the pipeline.
+SB 914: the Homeless Equity for Left Behind Populations (HELP) Act , which ensures that our state and local homelessness plans include a focus on some of our most vulnerable unhoused populations such as domestic violence survivors and unaccompanied women Senate Resolution 61 declaring the month of March 2022 as Unaccompanied Women Experiencing Homelessness Awareness Month in California .
 SB 751 San Gabriel Valley Regional Housing Trust for local communities to collaborate regionally and support affordable housing projects and homeless shelter programs.
 Homeless Encampment Cleanup – 2022 California State Budget includes $300 million in 2022-23 and $400 million in 2023-24 for Encampment Resolution grants to help local governments resolve critical encampments and transition individuals into permanent housing.
 Home Ownership – 2022 California State Budget includes $500 million to establish the California Dream For All program to make homeownership more achievable for first-time homebuyers.
 Streamlining Housing Production – Legislature passed two bills that will streamline housing production in commercial zones and make homeownership more attainable for working families – AB 2011 (Wicks) and SB 6 (Caballero).
 SB 6 is known as the Middle Class Housing Act of 2022 and is joint authored by Senator Rubio.
-Championing the Environment
-Championed funding and supported bills focused on building decarbonization, industrial decarbonization, strategic energy reliability resources, off-shore wind infrastructure, equitable access to solar and storage systems and long duration storage projects.
+Championing the Environment Championed funding and supported bills focused on building decarbonization, industrial decarbonization, strategic energy reliability resources, off-shore wind infrastructure, equitable access to solar and storage systems and long duration storage projects.
 She secured $12 million to expand and develop local parks and open spaces in urban areas.
 SB 7: (Coauthor) Environmental quality: Jobs and Economic Improvement Through Environmental Leadership Act of 2021 – Extends CEQ – Streamlines review process for large construction projects until 2025 and expands eligibility to include housing projects.
 SB 643: (Coauthor) Fuel cell electric vehicle fueling infrastructure and fuel production: statewide assessment – Requires the California Energy Resources Conservation and Development Commission (CEC) to prepare a statewide assessment of the fuel cell electric vehicle fueling infrastructure and fuel production needed to support the adoption of zero-emission trucks, buses, and off-road vehicles.
@@ -22,8 +17,7 @@ SB 372: (Coauthor) Medium- and heavy-duty fleet purchasing assistance program: z
 SB 343: (Coauthor) Environmental advertising: recycling symbol: recyclability: products and packaging – Tightens requirements around permissible use of the “chasing arrows” recycling symbol and when claims regarding recyclability can be made and requires the Department of Resources Recycling and Recovery (CalRecycle) to publish types and forms of recyclable products and packaging.
 AB 322: (Coauthor) Energy: Electric Program Investment Charge program: biomass – Requires the California Energy Commission to reallocate funds to support bioenergy projects that will help the state achieve its air quality and climate change goals.
 AB 525: (Coauthor) Energy: offshore wind generators – Requires the California Energy Commission to establish 2030 and 2045 planning goals for electric generated by offshore wind.
-Ending Domestic Violence
-Senator Rubio has been a longtime champion of domestic violence policies and is an internationally recognized advocate for victims.
+Ending Domestic Violence Senator Rubio has been a longtime champion of domestic violence policies and is an internationally recognized advocate for victims.
 SB 273 The Phoenix Act.
 This bill would provide additional time for domestic violence survivors to come forward about their abuse by extending the statute of limitations to 5 years.
 In addition, this bill will include specified techniques when handling incidents of domestic violence under the Peace Officers Standards and Training (POST) guidelines.
@@ -37,63 +31,45 @@ SB 538 Domestic Violence & Gun Violence Restraining Orders E-Filing & Remote Tes
 The bill will also allow victims and witnesses to appear remotely at the hearing on a petition.
 SB 914 Homeless domestic violence survivors and data systems: local and state support and guidelines.
 This bill would require the California Interagency Council on Homelessness to set and measure progress toward goals to prevent and end homelessness among domestic violence survivors and their children and among unaccompanied women in California.
-Education Advocate
-As a public school teacher for 17 years, Sen.
+Education Advocate As a public school teacher for 17 years, Sen.
 Rubio has the personal experience and legislative experience to strengthen our education system, supporting our teachers and making the academic success of our children a priority.
 SB 70 (Rubio): Mandatory kindergarten.
 Requires, beginning with the 2024-25 school year, a student to have completed one year of kindergarten before being admitted to the first grade of a public school.
 Therefore, this bill expands compulsory education to include kindergarten.
 SB 1487 (Rubio) Commission on Teacher Credentialing: survey: teacher resignations.
 Requires the Commission on Teacher Credentialing (CTC) and the California Department of Education (CDE) to develop, and local educational agencies (LEAs) to annually administer and report on, a survey of teachers exiting the profession.
-(Enrolled and presented to Gov; SR author)
-AB 1936 (Coauthor) University of California: Hastings College of the Law.
+(Enrolled and presented to Gov; SR author) AB 1936 (Coauthor) University of California: Hastings College of the Law.
 Modifies provisions relative to the Hastings College of the Law by striking references throughout the Education Code of its founder, Serranus Clinton (S.
 C.) Hastings; and, requires the Hastings College of Law Board of Directors, Round Valley Tribal Council, and Yuki Indian Committee to determine the new name of the College, as provided.
-(Enrolled and presented to the Governor; SR co-author)
-SB 14 (Coauthor) Pupil health: school employee and pupil training: excused absences: youth mental and behavioral health.
+(Enrolled and presented to the Governor; SR co-author) SB 14 (Coauthor) Pupil health: school employee and pupil training: excused absences: youth mental and behavioral health.
 This bill (1) includes, specifically, “for the benefit of the behavioral health of the pupil” within the “illness” category for excused absences for purposes of school attendance; and (2) requires the California Department of Education (CDE) to identify an evidence-based and evidence-informed training program for local educational agencies (LEAs) to address youth behavioral health, including staff and pupil training.
-(Chapter 672, Statutes of 2021, SR co-author)
-SB 20 (Coauthor) Student nutrition: eligibility for CalFresh benefits.
+(Chapter 672, Statutes of 2021, SR co-author) SB 20 (Coauthor) Student nutrition: eligibility for CalFresh benefits.
 This bill changes the California Student Aid Commission (Commission) notification and verification process for CalFresh food benefits for postsecondary students.
-(Chapter 167, Statutes of 2022, SR co-author)
-SB 964 (Coauthor) Behavioral Health.
+(Chapter 167, Statutes of 2022, SR co-author) SB 964 (Coauthor) Behavioral Health.
 Requires the Department of Health Care Access and Information (HCAI) to commission consultants to prepare a report for the Legislature, on or before January 1, 2024, that provides a landscape analysis of the current behavioral health workforce and the state’s behavioral health workforce needs, and to make recommendations on how to address the state’s behavioral health workforce shortage.
-(Enrolled and presented to the Governor, SR co-author)
-Protecting Women
-Senator Rubio has been a strong advocate for women, fighting for their reproductive rights , ensuring that they are paid equitably, and demanding that woman struggling with homelessness receive help.
+(Enrolled and presented to the Governor, SR co-author) Protecting Women Senator Rubio has been a strong advocate for women, fighting for their reproductive rights , ensuring that they are paid equitably, and demanding that woman struggling with homelessness receive help.
 She has spent a career supporting other women run for office, mentoring young women, and is a longtime member of several women’s clubs in the San Gabriel Valley.
 SCA 10 (Coauthor) Reproductive Freedom.
 A constitutional amendment to explicitly provide for the fundamental constitutional right to abortion and contraception.
 SB 64 (Coauthor) Maternal Care and Services is aimed at reducing maternal and infant mortality that is disproportionately impacting Black families and other families of color.
-SB 914 (Author) the Homeless Equity for Left Behind Populations (HELP) Act, which ensures that our state and local homelessness plans include a focus on some of our most vulnerable unhoused populations such as domestic violence survivors and unaccompanied women.
+SB 914 (Author) the Homeless Equity for Left Behind Populations (HELP) Act , which ensures that our state and local homelessness plans include a focus on some of our most vulnerable unhoused populations such as domestic violence survivors and unaccompanied women.
 AB 1171 (Coauthor) Rape of a Spouse.
-This bill ends ending the distinction between spousal and non-spousal rape in California
-Combating Wildfire
-Senator Rubio was Co-Chair of the California Wildfire Working Group.
-She worked with Senate colleagues to negotiate for funds for state and local wildfire mitigation.
-- $536 million: Negotiated funds as Co-Chair of the California Wildfire Working Group: Funds statewide upgrades for homes for better fire protection, mountain brush cleanup, and quicker deployment of firefighters.
-- $12 million: Funding forest and watershed restoration and brush clearing in local mountains to protect against wildfires.
-- $15 billion – Statewide funds now available to tackle climate change and protect vulnerable communities.
-Supporting Nonprofits
-Senator Rubio made helping nonprofits a priority, especially during the pandemic.
-She pushed legislation that will provide small theaters with lower costs to continue begin community assets as well as creating a security grant program for minority centers and religious institutions.
-- $50 million to help struggling small theaters as they emerge from the devastation of the COVID-19 pandemic.
-- $25 million for the City of Alhambra to expand recreational and educational opportunities through the development of a state-of-the-art 25,425 square foot community center in the heart of the City.
-- $3 million to restore the historic Covina Center for Performing Arts.
-- $3 million for the Inner Circle Children’s Advocacy Center, which provides provides child abuse services.
+This bill ends ending the distinction between spousal and non-spousal rape in California Combating Wildfire Senator Rubio was Co-Chair of the California Wildfire Working Group.
+She worked with Senate colleagues to negotiate for funds for state and local wildfire mitigation. $536 million: Negotiated funds as Co-Chair of the California Wildfire Working Group: Funds statewide upgrades for homes for better fire protection, mountain brush cleanup, and quicker deployment of firefighters. $12 million: Funding forest and watershed restoration and brush clearing in local mountains to protect against wildfires. $15 billion – Statewide funds now available to tackle climate change and protect vulnerable communities.
+Supporting Nonprofits Senator Rubio made helping nonprofits a priority, especially during the pandemic.
+She pushed legislation that will provide small theaters with lower costs to continue begin community assets as well as creating a security grant program for minority centers and religious institutions. $50 million to help struggling small theaters as they emerge from the devastation of the COVID-19 pandemic. $25 million for the City of Alhambra to expand recreational and educational opportunities through the development of a state-of-the-art 25,425 square foot community center in the heart of the City. $3 million to restore the historic Covina Center for Performing Arts. $3 million for the Inner Circle Children’s Advocacy Center, which provides provides child abuse services.
 It helps children who are victims or witnesses of sexual and/or physical abuse and neglect.
 SB 805 (Author) Small Nonprofit performing arts organizations, creating a low-cost equity payroll program.
 SB 1116 (Coauthor) Arts Council: The Performing Arts Equitable Payroll Fund.
 AB 1664 (Coauthor) California State Nonprofit Security Grant Program.
-Small Business Advocacy
-Advocating for small businesses was one of the reasons that Senator Rubio ran for local elected office.
+Small Business Advocacy Advocating for small businesses was one of the reasons that Senator Rubio ran for local elected office.
 A group of business owners were about to be displaced by a project the then-council supported.
 She along with many community members banded together and stopped the project, saving hundreds of small businesses.
 She then successfully ran and began a 13-year local elected tenure.
-During the pandemic, she was a strong supporter of numerous bills that provided funding, including:
-- Unemployment Insurance Cost Relief – 2022 California State Budget includes $1.5 billion for Unemployment Insurance cost relief, including $1 billion to begin to pay down the federal loan, and $500 million to provide rebates to small businesses to reimburse them for their increased costs.
-- Diesel Sales Tax Relief – 2022 California State Budget includes $439 million to suspend the General Fund portion of the sales tax on diesel fuel, reducing costs by about 23 cents per gallon, which primarily benefits businesses.
-- Paid Sick Leave Relief – 2022 California State Budget includes $250 million for relief grants for small businesses and non-profits with up to 150 employees to offset costs of recently enacted Supplemental Paid Sick Leave program (SB 114).
-- Paycheck Protection Program (PPP) – 2022 California State Budget includes updated conformity of state tax law to the federal Paycheck Protection Program (PPP) grant period, allowing all federal PPP grants to be excluded from the definition of income for the purposes of state taxation.
+During the pandemic, she was a strong supporter of numerous bills that provided funding, including: Unemployment Insurance Cost Relief – 2022 California State Budget includes $1.5 billion for Unemployment Insurance cost relief, including $1 billion to begin to pay down the federal loan, and $500 million to provide rebates to small businesses to reimburse them for their increased costs.
+Diesel Sales Tax Relief – 2022 California State Budget includes $439 million to suspend the General Fund portion of the sales tax on diesel fuel, reducing costs by about 23 cents per gallon, which primarily benefits businesses.
+Paid Sick Leave Relief – 2022 California State Budget includes $250 million for relief grants for small businesses and non-profits with up to 150 employees to offset costs of recently enacted Supplemental Paid Sick Leave program (SB 114).
+Paycheck Protection Program (PPP) – 2022 California State Budget includes updated conformity of state tax law to the federal Paycheck Protection Program (PPP) grant period, allowing all federal PPP grants to be excluded from the definition of income for the purposes of state taxation.
 Previous conformity actions had excluded an extension of the federal PPP grant program by two months in spring of 2021.
-- Business Licensing Fee Waiver – 2022 California State Budget includes $40 million to the Secretary of State to waive new business licensing fees.
+Business Licensing Fee Waiver – 2022 California State Budget includes $40 million to the Secretary of State to waive new business licensing fees.
+Meet Susan Accomplishments Media Gallery Contact Donate Privacy Policy Meet Susan Accomplishments Media Photo Gallery Contact Donate Privacy Policy Follow Follow Follow Paid for by Susan Rubio for Senate 2026

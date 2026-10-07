@@ -1,26 +1,150 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Rick+in+Damariscotta&dates=20260725T150000Z%2F20260725T170000Z",
-"https://bennettforgovernor.com/",
-"https://bennettforgovernor.com/building-strong-schools",
-"https://bennettforgovernor.com/cart",
-"https://bennettforgovernor.com/cutthecostscrushingmainers",
-"https://bennettforgovernor.com/endorsements",
-"https://bennettforgovernor.com/events",
-"https://bennettforgovernor.com/events/meet-rick-in-damariscotta?format=ical",
-"https://bennettforgovernor.com/events/meet-rick-in-farmington",
-"https://bennettforgovernor.com/events/oidcurbimw1m22wifc3v6n4jgfpdx1",
-"https://bennettforgovernor.com/fix-the-corrupt-system",
-"https://bennettforgovernor.com/maines-economic-future",
-"https://bennettforgovernor.com/meet-rick-bennett",
-"https://bennettforgovernor.com/news",
-"https://bennettforgovernor.com/privacy-policy",
-"https://bennettforgovernor.com/terms-of-use",
-"https://bennettforgovernor.com/theissues",
-"https://bennettforgovernor.com/visionformaine",
-"https://facebook.com/RickBennettForGovernor",
-"https://instagram.com/rickbennettforgovernor?igsh=a214ZWR0dHoyYmd4",
-"https://supportrickbennett.com/7_25_dam",
-"https://supportrickbennett.com/donate",
-"https://supportrickbennett.com/volunteer",
-"https://youtube.com/@RickBennettforGovernor"
+{
+"text": "$100",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "$25",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "$50",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "0",
+"href": "https://bennettforgovernor.com/cart"
+},
+{
+"text": "Back",
+"href": "https://bennettforgovernor.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://bennettforgovernor.com/events"
+},
+{
+"text": "Building Strong Schools",
+"href": "https://bennettforgovernor.com/building-strong-schools"
+},
+{
+"text": "Delivering a Fairer Tax System",
+"href": "https://bennettforgovernor.com/new-page-2"
+},
+{
+"text": "Donate",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://bennettforgovernor.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://bennettforgovernor.com/events"
+},
+{
+"text": "Fix the Corrupt System",
+"href": "https://bennettforgovernor.com/fix-the-corrupt-system"
+},
+{
+"text": "Folder: The Issues",
+"href": "https://bennettforgovernor.com/theissues"
+},
+{
+"text": "Get Involved",
+"href": "https://www.supportrickbennett.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rick+in+Damariscotta&dates=20260725T150000Z%2F20260725T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://bennettforgovernor.com/events/meet-rick-in-damariscotta?format=ical"
+},
+{
+"text": "Maine's Economic Future",
+"href": "https://bennettforgovernor.com/maines-economic-future"
+},
+{
+"text": "Make Child Care Affordable",
+"href": "https://bennettforgovernor.com/new-page-5"
+},
+{
+"text": "Make Energy Affordable",
+"href": "https://bennettforgovernor.com/new-page-3"
+},
+{
+"text": "Make Health Care Affordable",
+"href": "https://bennettforgovernor.com/new-page-4"
+},
+{
+"text": "Make Housing Affordable",
+"href": "https://bennettforgovernor.com/new-page-1"
+},
+{
+"text": "Meet Rick",
+"href": "https://bennettforgovernor.com/meet-rick-bennett"
+},
+{
+"text": "News",
+"href": "https://bennettforgovernor.com/news"
+},
+{
+"text": "Next Next July 30 Meet Rick in Farmington",
+"href": "https://bennettforgovernor.com/events/meet-rick-in-farmington"
+},
+{
+"text": "Previous Previous July 18 March with Rick in the Potato Blossom Parade",
+"href": "https://bennettforgovernor.com/events/oidcurbimw1m22wifc3v6n4jgfpdx1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bennettforgovernor.com/privacy-policy"
+},
+{
+"text": "Rick's Results",
+"href": "https://bennettforgovernor.com/new-page"
+},
+{
+"text": "See All Donation Options",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "Terms of Use",
+"href": "https://bennettforgovernor.com/terms-of-use"
+},
+{
+"text": "Vision for Maine",
+"href": "https://bennettforgovernor.com/visionformaine"
+},
+{
+"text": "[image: Rick Bennett for Governor]",
+"href": "https://bennettforgovernor.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RickBennettForGovernor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rickbennettforgovernor/?igsh=a214ZWR0dHoyYmd4"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RickBennettforGovernor"
+},
+{
+"text": "https://www.supportrickbennett.com/7_25_dam",
+"href": "https://www.supportrickbennett.com/7_25_dam"
+},
+{
+"text": "info@BennettForGovernor.com",
+"href": "mailto:info@BennettForGovernor.com"
+}
 ]

@@ -1,10 +1,42 @@
 [
-"https://boydforflorida.com/",
-"https://boydforflorida.com/about",
-"https://boydforflorida.com/contact",
-"https://boydforflorida.com/issues",
-"https://boydforflorida.com/subscribe",
-"https://facebook.com/BoydforFlorida",
-"https://secure.anedot.com/jim-boyd-campaign/boydforsenate",
-"https://x.com/JimBoydFL"
+{
+"text": "ABOUT",
+"href": "https://www.boydforflorida.com/about"
+},
+{
+"text": "BOYD ON THE ISSUES",
+"href": "https://www.boydforflorida.com/issues"
+},
+{
+"text": "CONTACT",
+"href": "https://www.boydforflorida.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jim-boyd-campaign/boydforsenate"
+},
+{
+"text": "HOME",
+"href": "https://www.boydforflorida.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.boydforflorida.com/issues"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.boydforflorida.com/subscribe"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BoydforFlorida/"
+},
+{
+"text": "[image: LOGOSArtboard 20.png]",
+"href": "https://www.boydforflorida.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/JimBoydFL"
+}
 ]

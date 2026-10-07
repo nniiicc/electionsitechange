@@ -1,5 +1,4 @@
-Mobile Terms and Conditions
-Tom Barrett for Congress (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Tom Barrett for Congress, subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+0 Skip to Content About 7th District Endorse Tom Volunteer Yard Signs Store Donate Open Menu Close Menu About 7th District Endorse Tom Volunteer Yard Signs Store Donate Open Menu Close Menu About 7th District Endorse Tom Volunteer Yard Signs Store Donate Mobile Terms and Conditions Tom Barrett for Congress (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Tom Barrett for Congress, subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Tom Barrett for Congress: You've subscribed to receive messages from Tom Barrett for Congress.
 Msg & Data Rates May Apply.
@@ -58,3 +57,4 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Photos and statements used do not imply endorsement by the Department of Defense or Department of the Army

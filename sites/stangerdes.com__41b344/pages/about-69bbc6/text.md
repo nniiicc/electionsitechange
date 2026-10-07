@@ -1,5 +1,4 @@
-MEET REPRESENTATIVE STAN GERDES
-A 5th generation Texan, Stan Gerdes was born and raised in Central Texas.
+0 Skip to Content Home Meet Stan Issues Voting Join Team Gerdes DONATE Open Menu Close Menu Home Meet Stan Issues Voting Join Team Gerdes DONATE Open Menu Close Menu Home Meet Stan Issues Voting Join Team Gerdes DONATE MEET REPRESENTATIVE STAN GERDES A 5th generation Texan, Stan Gerdes was born and raised in Central Texas.
 After high school, Stan attended college at The University of Texas, where he met his wife, Samantha, on the first day of class.
 Prior to Stan’s election to the Smithville City Council and the Texas House, he worked with Governor Rick Perry for over a decade – beginning when he was Governor of Texas, and throughout his time as Secretary of Energy, where they were able to achieve U.S.
 Energy Independence for the first time in nearly 60 years.
@@ -13,3 +12,6 @@ Stan is a Camp Longhorn alumnus and a lifetime member of the Texas Exes, the Dal
 Stan’s wife, Samantha, is an accomplished attorney and conservative leader with over 15 years of experience navigating complex legal, regulatory, and political challenges for a nationally recognized firearms manufacturer.
 She is a member of the Junior League of Austin, a founding board member and Vice Chair of the Bastrop County Young Republicans, and serves on the executive board of the Capitol Republican Women.
 Stan and Samantha are proud graduates of The University of Texas and reside in Smithville, Texas with their son.
+POL.
+AD.
+PAID FOR BY STAN GERDES FOR STATE REPRESENTATIVE | PRIVACY POLICIES | Terms and Conditions | PO BOX 1060, SMITHVILLE, TX 78957 info@stangerdes.com

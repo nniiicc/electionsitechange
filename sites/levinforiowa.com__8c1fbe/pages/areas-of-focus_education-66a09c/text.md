@@ -1,5 +1,4 @@
-Education
-I attended excellent public schools from preschool through high school.
+0 Skip to Content Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Open Menu Close Menu Open Menu Close Menu Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Home Get Involved Areas of Focus Media Recommendations Press Español/Français/Swahili Endorsements DONATE Education Nov 11 Written By Elinor Levin I attended excellent public schools from preschool through high school.
 I attended a liberal arts college because I wanted to learn a little about everything.
 I graduated with a bachelor’s degree in Education and one in English.
 Many of the people who taught me over those 20 years founded my desire to be an educator myself, and are still in my life now.
@@ -18,3 +17,5 @@ It’s certainly not only happening here in Iowa, but it is here in Iowa, and it
 Instead of fleeing public schools, we must put taxpayer funds into building the BEST schools for every kid, and utilize new creative and technological assets to give students the opportunities they crave, whether that is studying ASL starting in 7th grade with a county- or state-wide online program, or building a house (as I got the chance to my senior year) in an applied technology course, or tracking into college-level courses early.
 We need to pay educators as the professionals they are.
 And we need to stop the brain drain from Iowa and show young people that there’s a future for them here.
+Elinor Levin Previous Previous Water Quality Paid for by Citizens for Elinor A.
+Levin

@@ -1,9 +1,7 @@
-Two of the most damaging bills yet introduced in 2021 Montana Legislature would limit athletic opportunities for transgender young people and bar medical professionals from using their best judgement in advising and treating them.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate notes of a freshman legislator By Tom France / January 13, 2021 Two of the most damaging bills yet introduced in 2021 Montana Legislature would limit athletic opportunities for transgender young people and bar medical professionals from using their best judgement in advising and treating them.
 My colleague Rep.
 Kathy Kelker (D-Billings) and I teamed up on this op-ed opposing this legislation.
-The Montana Legislature Must Protect Individual Rights
-Representative Tom France and Representative Kathy Kelker
-The Declaration of Independence tells us that certain rights – life, liberty and the pursuit of happiness – are a given to all.
+The Montana Legislature Must Protect Individual Rights Representative Tom France and Representative Kathy Kelker The Declaration of Independence tells us that certain rights – life, liberty and the pursuit of happiness – are a given to all.
 The role of our governments is to protect and advance these rights, not to infringe upon them.
 Two bills introduced in the Montana Legislature would violate these unalienable rights by robbing certain young people of their personal freedom.
 House bills 112 and 113 would bar transgender students from participating as themselves in school sports and prohibit medical professionals from using their best judgments in counseling and treating them.
@@ -21,10 +19,9 @@ Both observations were more than twice the incidence rate of non-transgender stu
 As a result, HB113 goes against the recommendations of the American Academy of Pediatrics for treatment of transgender adolescents.
 It should be recognized too that local school districts and scholastic sports associations are already developing science-based policies to address the needs of all students, including those who are transgender.
 A Missoula County Public Schools task force of parents, staff, medical professionals and LGBTQ representatives developed policies to prohibit bullying and discrimination, including athletics, based on sexual orientation.
-The National Collegiate Athletic Association has established eligibility standards that fairly accommodate transgender students on college athletic fields
-HBs 112 and 113 makes the state a bully, pushing a small part of our citizenry into doing what the state wants.
+The National Collegiate Athletic Association has established eligibility standards that fairly accommodate transgender students on college athletic fields HBs 112 and 113 makes the state a bully, pushing a small part of our citizenry into doing what the state wants.
 While those who support these bills are motivated by their beliefs of what’s right for society, these beliefs should not be imposed on others.
 Freedom-loving Montanans must stop this uncalled for exercise of the coercive power of the state.
 Tom France is the Democratic representative from House District 94 in Missoula County.
 Kathy Kelker is the Democratic representative for House District 47 in Yellowstone County.
-Both serve on the House Judiciary Committee.
+Both serve on the House Judiciary Committee. ← Previous Post Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

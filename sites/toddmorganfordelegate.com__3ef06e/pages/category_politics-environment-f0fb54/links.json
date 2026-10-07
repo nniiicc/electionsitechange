@@ -1,21 +1,98 @@
 [
-"https://toddmorganfordelegate.com/",
-"https://toddmorganfordelegate.com/category/about-the-city",
-"https://toddmorganfordelegate.com/category/campaign-news",
-"https://toddmorganfordelegate.com/category/city-events",
-"https://toddmorganfordelegate.com/category/daily-news",
-"https://toddmorganfordelegate.com/category/important",
-"https://toddmorganfordelegate.com/category/politics-environment",
-"https://toddmorganfordelegate.com/contacts",
-"https://toddmorganfordelegate.com/donate",
-"https://toddmorganfordelegate.com/our-platform-style-2",
-"https://toddmorganfordelegate.com/privacy",
-"https://toddmorganfordelegate.com/tag/city",
-"https://toddmorganfordelegate.com/tag/donation",
-"https://toddmorganfordelegate.com/tag/politics",
-"https://toddmorganfordelegate.com/tag/program",
-"https://toddmorganfordelegate.com/tag/speeches",
-"https://toddmorganfordelegate.com/tag/volunteer",
-"https://toddmorganfordelegate.com/terms-of-service",
-"https://toddmorganfordelegate.com/volunteering"
+{
+"text": "About The City",
+"href": "https://toddmorganfordelegate.com/category/about-the-city/"
+},
+{
+"text": "About Todd",
+"href": "https://toddmorganfordelegate.com/our-platform-style-2/"
+},
+{
+"text": "All Posts",
+"href": "https://toddmorganfordelegate.com"
+},
+{
+"text": "Campaign News",
+"href": "https://toddmorganfordelegate.com/category/campaign-news/"
+},
+{
+"text": "City Events",
+"href": "https://toddmorganfordelegate.com/category/city-events/"
+},
+{
+"text": "Contact Us",
+"href": "https://toddmorganfordelegate.com/contacts/"
+},
+{
+"text": "Daily News",
+"href": "https://toddmorganfordelegate.com/category/daily-news/"
+},
+{
+"text": "Donate",
+"href": "https://toddmorganfordelegate.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "Important",
+"href": "https://toddmorganfordelegate.com/category/important/"
+},
+{
+"text": "Politics & Enviroment",
+"href": "https://toddmorganfordelegate.com/category/politics-environment/"
+},
+{
+"text": "Politics & Environment",
+"href": "https://toddmorganfordelegate.com/category/politics-environment/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://toddmorganfordelegate.com/privacy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://toddmorganfordelegate.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://toddmorganfordelegate.com/volunteering/"
+},
+{
+"text": "[image: logo-footer-image]",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "[image]",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "city",
+"href": "https://toddmorganfordelegate.com/tag/city/"
+},
+{
+"text": "donation",
+"href": "https://toddmorganfordelegate.com/tag/donation/"
+},
+{
+"text": "our homepage",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "politics",
+"href": "https://toddmorganfordelegate.com/tag/politics/"
+},
+{
+"text": "program",
+"href": "https://toddmorganfordelegate.com/tag/program/"
+},
+{
+"text": "speeches",
+"href": "https://toddmorganfordelegate.com/tag/speeches/"
+},
+{
+"text": "volunteer",
+"href": "https://toddmorganfordelegate.com/tag/volunteer/"
+}
 ]

@@ -1,16 +1,70 @@
 [
-"https://facebook.com/Chu4Congress",
-"https://judychu.org/",
-"https://judychu.org/about",
-"https://judychu.org/cart",
-"https://judychu.org/endorsements",
-"https://judychu.org/gallery",
-"https://judychu.org/get-involved",
-"https://judychu.org/press",
-"https://secure.actblue.com/donate/jc-website",
-"https://secure.actblue.com/donate/jc-website?amount=100",
-"https://secure.actblue.com/donate/jc-website?amount=25",
-"https://secure.actblue.com/donate/jc-website?amount=50",
-"https://secure.actblue.com/donate/jchuwebsitedonor",
-"https://twitter.com/judychucampaign"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jc-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jc-website?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jc-website?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.judychu.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.judychu.org/about"
+},
+{
+"text": "Contribute here",
+"href": "https://secure.actblue.com/donate/jchuwebsitedonor"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jc-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.judychu.org/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.judychu.org/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.judychu.org/get-involved"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jc-website"
+},
+{
+"text": "Press",
+"href": "https://www.judychu.org/press"
+},
+{
+"text": "Support Judy's Re-Election Campaign for the 28th District",
+"href": "https://secure.actblue.com/donate/jchuwebsitedonor"
+},
+{
+"text": "[image: Judy Chu for Congress]",
+"href": "https://www.judychu.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/judychucampaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Chu4Congress"
+},
+{
+"text": "chuforcongress@gmail.com",
+"href": "mailto:chuforcongress@gmail.com"
+}
 ]

@@ -1,5 +1,4 @@
-A New Voice for the 65th District
-Friends, neighbors, and fellow residents: I am running to be your next Democratic State Representative because our community deserves leadership that fights for all of us, not just the privileged few.
+0 Skip to Content Ricky Rivard | Putting People First Home About Ricky Issues District Map News Contact Events Ricky Rivard for State Rep store Login Account English Donate Open Menu Close Menu Ricky Rivard | Putting People First Home About Ricky Issues District Map News Contact Events Ricky Rivard for State Rep store Login Account English Donate Open Menu Close Menu Home About Ricky Issues District Map News Contact Events Ricky Rivard for State Rep store Login Account English Back Donate A New Voice for the 65th District Friends, neighbors, and fellow residents: I am running to be your next Democratic State Representative because our community deserves leadership that fights for all of us, not just the privileged few.
 For too long, our representation in Springfield has ignored the real struggles of working families, seniors, and small businesses across our district.
 The truth is simple: Dan Ugaste works for the radical right, for special interests, and for himself, but he does not work for you.
 We deserve a Democrat who actually listens, who shows up in our communities, and who puts people ahead of political games.
@@ -16,17 +15,13 @@ It will take all of us working together to create a 65th District where working 
 This is our moment to stop accepting things as they are and start fighting for what they should be.
 When we stand together, when we organize, when we demand better, when we refuse to settle, there is no limit to what we can achieve.
 Together, we will move Illinois forward as Democrats, as neighbors, and as a community united.
-Putting People First
-Together, We Win the 65th
-Help us fight for Illinois working families, better schools, and stronger communities!
+Donate Ricky's Story Putting People First Issues Together, We Win the 65th Help us fight for Illinois working families, better schools, and stronger communities!
 I'm running to be a bold, independent voice for the 65th District, but I can't win without your help.
 Grassroots supporters like you are the heart of this campaign.
-Ways to Get Involved:
-✅ Canvass & Door-Knocking – Talk to voters face-to-face
-✅ Phone Bank – Call supporters from home
-✅ Yard Signs – Help spread visibility in your community
-✅ Event Help – Assist at rallies, meet & greets, and local events
-✅ Social Media – Share posts & invite friends to join the movement
-"No one runs alone.
+Ways to Get Involved: ✅ Canvass & Door-Knocking – Talk to voters face-to-face ✅ Phone Bank – Call supporters from home ✅ Yard Signs – Help spread visibility in your community ✅ Event Help – Assist at rallies, meet & greets, and local events ✅ Social Media – Share posts & invite friends to join the movement "No one runs alone.
 This campaign , this movement, will take all of us: giving what we can, when we can, and how we can.
-Every door, every call and rally brings us one step closer to the Illinois we deserve." – Ricky Rivard
+Every door, every call and rally brings us one step closer to the Illinois we deserve." – Ricky Rivard Connect Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy & Terns/Conditions Elect Ricky Rivard Rivard4Illinois@gmail.com Donate

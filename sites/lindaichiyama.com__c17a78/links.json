@@ -1,8 +1,42 @@
 [
-"https://lindaichiyama.com/",
-"https://lindaichiyama.com/contact-linda",
-"https://lindaichiyama.com/get-involved",
-"https://lindaichiyama.com/meet-linda",
-"https://lindaichiyama.com/on-the-issues",
-"https://secure.actblue.com/donate/friends-of-linda-ichiyama"
+{
+"text": "CONTACT LINDA",
+"href": "https://www.lindaichiyama.com/contact-linda"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/friends-of-linda-ichiyama"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lindaichiyama.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.lindaichiyama.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.lindaichiyama.com/get-involved"
+},
+{
+"text": "Learn more",
+"href": "https://www.lindaichiyama.com/meet-linda"
+},
+{
+"text": "Learn more",
+"href": "https://www.lindaichiyama.com/on-the-issues"
+},
+{
+"text": "MEET LINDA",
+"href": "https://www.lindaichiyama.com/meet-linda"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.lindaichiyama.com/on-the-issues"
+},
+{
+"text": "[image: Linda Ichiyama - Home]",
+"href": "https://www.lindaichiyama.com/"
+}
 ]

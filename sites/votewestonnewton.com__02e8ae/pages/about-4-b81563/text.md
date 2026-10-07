@@ -1,20 +1,21 @@
-Ways to Help
-CIRCLE JUNE 9 ON YOUR CALENDAR.
+top of page HOME ABOUT WESTON PRIORITIES TESTIMONIALS WAYS TO HELP MEDIA GET INVOLVED DONATE More...
+Use tab to navigate through the menu items.
+Ways to Help CIRCLE JUNE 9 ON YOUR CALENDAR.
 Every vote counts!
 You can even vote early or by absentee.
-Find out more on early and absentee voting by clicking here.
+Find out more on early and absentee voting by clicking here .
 MAKE PHONE CALLS OR SEND TEXT MESSAGES.
 Making calls or sending text messages to encourage voters to support WESTON NEWTON is the best way to contact voters.
 You can start by calling or texting the contacts in your phone or contact the to get a list of voters.
 SHARE AND LIKE ON SOCIAL MEDIA.
 We need your help to increase our followers on social media.
-Please take a moment today to LIKE AND SHARE our Facebook page: VOTE WESTON NEWTON.
+Please take a moment today to LIKE AND SHARE our Facebook page: VOTE WESTON NEWTON .
 It’s the easiest way to help get our message out to the community.
 If you need instructions on how to best ‘Share our Page’ click here.
 MAKE A FINANCIAL INVESTMENT.
 Campaigns cost money to get our message out to voters.
 Please consider making an investment in WESTON NEWTON’S campaign so that we can get our message out using signs, direct mail and online advertising.
-To contribute to the campaign, please CLICK HERE.
+To contribute to the campaign, please CLICK HERE .
 DIY VIDEO ENDORSEMENT.
 Make your own video for your social media pages.
 Explain why you’re supporting WESTON NEWTON in less than 3 minutes and remind people about the JUNE 9TH election.
@@ -28,4 +29,12 @@ If you are interested in setting this up, please contact us.
 REQUEST A YARD SIGN OR BUMPER STICKER.
 Let your neighbors know you support WESTON NEWTON.
 We will have a volunteer drop a sign off at your home.
-To make your request, call or email the campaign at weston@votewestonnewton.com.
+To make your request, call or email the campaign at weston@votewestonnewton.com .
+Stay in touch with Weston Never miss an update Subscribe Now P.O.
+Box 1938 Bluffton, SC 29910 e: Weston@VoteWestonNewton.com I would like to receive text messages from Weston Newton for SC House.
+Privacy Policy By submitting this form and signing up for texts, you consent to receive updates, donation asks, and informational messages from Weston Newton for SC House.
+Msg and data rates may apply.
+Msg frequency may vary.
+Unsubscribe at any time by replying STOP or click the unsubscribe link.
+Reply HELP for help.
+Privacy Policy & Terms bottom of page

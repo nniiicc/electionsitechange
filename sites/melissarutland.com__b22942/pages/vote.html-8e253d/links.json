@@ -1,17 +1,74 @@
 [
-"https://melissarutland.com/endorse.html",
-"https://melissarutland.com/index.html",
-"https://melissarutland.com/issues.html",
-"https://melissarutland.com/meet-melissa.html",
-"https://melissarutland.com/news.html",
-"https://melissarutland.com/privacy.html",
-"https://melissarutland.com/terms.html",
-"https://melissarutland.com/vote.html",
-"https://porter-strategies.com/rutland/events",
-"https://secure.anedot.com/melissa-rutland-campaign/website",
-"https://votepinellas.gov/",
-"https://votepinellas.gov/189/Check-My-Status",
-"https://votepinellas.gov/190/Request-a-Mail-Ballot",
-"https://votepinellas.gov/198/Find-Precinct-Polling-Place",
-"https://votepinellas.gov/200/Early-Voting"
+{
+"text": "Check your registration status",
+"href": "https://www.votepinellas.gov/189/Check-My-Status"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/melissa-rutland-campaign/website"
+},
+{
+"text": "Early Voting Info",
+"href": "https://www.votepinellas.gov/200/Early-Voting"
+},
+{
+"text": "Endorsements",
+"href": "https://melissarutland.com/endorse.html"
+},
+{
+"text": "Events",
+"href": "https://porter-strategies.com/rutland/events/"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://www.votepinellas.gov/198/Find-Precinct-Polling-Place"
+},
+{
+"text": "Issues",
+"href": "https://melissarutland.com/issues.html"
+},
+{
+"text": "Join the Team",
+"href": "https://melissarutland.com/index.html#signup"
+},
+{
+"text": "Meet Melissa",
+"href": "https://melissarutland.com/meet-melissa.html"
+},
+{
+"text": "Mobile Messaging Terms & Conditions",
+"href": "https://melissarutland.com/terms.html"
+},
+{
+"text": "News",
+"href": "https://melissarutland.com/news.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://melissarutland.com/privacy.html"
+},
+{
+"text": "Request a Ballot",
+"href": "https://www.votepinellas.gov/190/Request-a-Mail-Ballot"
+},
+{
+"text": "Vote",
+"href": "https://melissarutland.com/vote.html"
+},
+{
+"text": "Yard Sign",
+"href": "https://melissarutland.com/index.html#yard-sign"
+},
+{
+"text": "[image: Melissa Rutland for State Representative]",
+"href": "https://melissarutland.com/index.html"
+},
+{
+"text": "melissa@melissarutland.com",
+"href": "mailto:melissa@melissarutland.com"
+},
+{
+"text": "votepinellas.gov",
+"href": "https://www.votepinellas.gov"
+}
 ]

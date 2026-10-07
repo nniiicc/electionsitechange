@@ -1,15 +1,70 @@
 [
-"https://amandaforor.com/",
-"https://amandaforor.com/about",
-"https://amandaforor.com/endorsements",
-"https://amandaforor.com/in-the-news",
-"https://amandaforor.com/issues",
-"https://amandaforor.com/privacy-policy",
-"https://facebook.com/amandaforor",
-"https://instagram.com/amandaforor",
-"https://secure.winred.com/amanda-for-oregon/donate-today",
-"https://secure.winred.com/amanda-for-oregon/donate-today?amount=100",
-"https://secure.winred.com/amanda-for-oregon/donate-today?amount=25",
-"https://secure.winred.com/amanda-for-oregon/donate-today?amount=50",
-"https://twitter.com/AmandaforOR"
+{
+"text": "ABOUT",
+"href": "https://amandaforor.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "https://amandaforor.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/amanda-for-oregon/donate-today"
+},
+{
+"text": "DONATE $100",
+"href": "https://secure.winred.com/amanda-for-oregon/donate-today?amount=100"
+},
+{
+"text": "DONATE $25",
+"href": "https://secure.winred.com/amanda-for-oregon/donate-today?amount=25"
+},
+{
+"text": "DONATE $50",
+"href": "https://secure.winred.com/amanda-for-oregon/donate-today?amount=50"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://amandaforor.com/endorsements/"
+},
+{
+"text": "HERE",
+"href": "https://amandaforor.com/privacy-policy/"
+},
+{
+"text": "HOME",
+"href": "https://amandaforor.com/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://amandaforor.com/in-the-news/"
+},
+{
+"text": "ISSUES",
+"href": "https://amandaforor.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://amandaforor.com/about"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.winred.com/amanda-for-oregon/donate-today"
+},
+{
+"text": "[image] [image]",
+"href": "https://amandaforor.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AmandaforOR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/amandaforor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amandaforor"
+}
 ]

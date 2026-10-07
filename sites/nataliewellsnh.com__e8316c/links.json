@@ -1,7 +1,38 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://nataliewellsnh.com/blog",
-"https://nataliewellsnh.com/blog/endorsed-by-executive-councilor-joe-kenney",
-"https://nataliewellsnh.com/contact"
+{
+"text": "Contact",
+"href": "https://nataliewellsnh.com/contact"
+},
+{
+"text": "Endorsed by Executive Councilor Joe Kenney",
+"href": "https://nataliewellsnh.com/blog/endorsed-by-executive-councilor-joe-kenney"
+},
+{
+"text": "Endorsed by Speaker Sherman Packard",
+"href": "https://nataliewellsnh.com/blog/endorsed-by-speaker-sherman-packard"
+},
+{
+"text": "Get In Touch",
+"href": "https://nataliewellsnh.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Read more →",
+"href": "https://nataliewellsnh.com/blog/endorsed-by-executive-councilor-joe-kenney"
+},
+{
+"text": "Read more →",
+"href": "https://nataliewellsnh.com/blog/endorsed-by-speaker-sherman-packard"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "View all posts →",
+"href": "https://nataliewellsnh.com/blog"
+}
 ]

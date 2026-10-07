@@ -1,7 +1,11 @@
 {
  "description": "This is the official site of Judge Epley for Court of Appeals.",
  "final_url": "https://www.electepley.com/",
- "paid_for_by": null,
+ "fingerprint": "2d21a6e701773d075ffda0a219449a9191a50325",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Elect Judge Epley",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

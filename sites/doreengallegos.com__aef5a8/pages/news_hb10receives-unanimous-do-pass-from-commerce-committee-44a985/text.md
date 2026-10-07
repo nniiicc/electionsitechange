@@ -1,5 +1,4 @@
-HB10 Receives Unanimous Do Pass From Commerce Committee
-Santa Fe, NM – In a unanimous and bipartisan vote, the House Commerce and Economic Development Committee advanced House Bill 10, the RLD Cannabis Enforcement Act, marking a significant step in strengthening regulatory oversight in New Mexico’s cannabis industry.
+0 Skip to Content About District 52 Issues News Contact CONTRIBUTE Open Menu Close Menu About District 52 Issues News Contact CONTRIBUTE Open Menu Close Menu About District 52 Issues News Contact CONTRIBUTE HB10 Receives Unanimous Do Pass From Commerce Committee Feb 6 Written By Adam Sommers Santa Fe, NM – In a unanimous and bipartisan vote, the House Commerce and Economic Development Committee advanced House Bill 10, the RLD Cannabis Enforcement Act, marking a significant step in strengthening regulatory oversight in New Mexico’s cannabis industry.
 Sponsored by Rep.
 Doreen Gallegos, HB10 grants the Regulation and Licensing Department the enhanced enforcement authority to ensure compliance with state cannabis laws, protect consumers from unsafe products, and maintain a fair marketplace for cannabis licensees.
 “This bill ensures that all of our licensees will be on the same, level playing field and give RLD the necessary tools to enforce our existing laws,” said Rep.
@@ -9,3 +8,7 @@ Under HB10, an enforcement bureau, staffed by six certified peace officers and a
 The enforcement bureau would have the authority to investigate and take action against unlicensed cannabis operations, impose stronger penalties for violations, and streamline compliance efforts.
 The bill addresses concerns from both licensed businesses and agency stakeholders seeking a fair regulatory environment and a market free from adulterated or unlawful cannabis product.
 The bill now moves to the House Judiciary Committee for further consideration.
+Adam Sommers Previous Previous Bills Sponsored by Rep.
+Doreen Gallegos Pass Health Committee Next Next Rep.
+Gallegos Gets to Work in the Legislative Session, Welcomes Constituents to the Round House CONTRIBUTE Paid for and authorized by Doreen Gallegos for HD52.
+Website Design | BGC

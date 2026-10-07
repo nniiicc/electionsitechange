@@ -1,7 +1,9 @@
 {
  "description": "Explore endorsements from key officials & organizations supporting Rashaun. Vote!",
  "final_url": "https://www.rashaunforgeorgia.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "b2bdee06310b326dbc855c381f5bedc7446cdf5d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements for RaShaun Kemp| Rashaun for Georgia",
  "years_mentioned": []
 }

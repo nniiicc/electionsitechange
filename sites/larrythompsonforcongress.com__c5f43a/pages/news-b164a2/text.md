@@ -1,85 +1,45 @@
-News
-Latest updates from the campaign:
-Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF
-Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots
-New York Times - Representative Brad Sherman to Face Larry Thompson in November
-Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race
-Valley News Group - Larry Thompson For Congress - Candidate Statement
-Politics News Today - LARRY THOMPSON PROPOSES BILL PROVIDING NO INCOME TAXES FOR WORKING AMERICANS
-EINPresswire - Brad Sherman(D) CA-32 Is Being Accused of Lack of Focus by Centrist Candidate Larry Thompson(R)
-"Congressman Sherman now represents Washington to us.
-I will represent us to Washington."
--Larry Thompson
-GOLDEN STATE NEWS - California Republican Party Unanimously Endorses Larry Thompson For U.
+Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos News Latest updates from the campaign: 5 Oct Monday, 7:18 PM · 2026 Los Angeles Daily News - Larry Thompson, CA-32 candidate, 2026 election questionnaire Read more 5 Jun Friday, 5:55 AM · 2026 Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF Both are headed to November's runoff in race to represent California's 32nd Congressional District Read more 3 Jun Wednesday, 4:20 PM · 2026 Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots Add your news summary here.
+Read more 3 Jun Wednesday, 10:19 AM · 2026 New York Times - Representative Brad Sherman to Face Larry Thompson in November Add your news summary here.
+Read more 2 Jun Tuesday, 10:00 PM · 2026 Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race Both advance under California’s top-two system Read more 31 May Sunday, 3:06 PM · 2026 Valley News Group - Larry Thompson For Congress - Candidate Statement Add your news summary here.
+Read more 21 May Thursday, 9:58 AM · 2026 Politics News Today - LARRY THOMPSON PROPOSES BILL PROVIDING NO INCOME TAXES FOR WORKING AMERICANS California Congressional Candidate Calls for Complete Elimination of Federal Income Taxes Over Four Years Read more 27 Mar Friday, 6:32 PM · 2026 EINPresswire - Brad Sherman(D) CA-32 Is Being Accused of Lack of Focus by Centrist Candidate Larry Thompson(R) "Congressman Sherman now represents Washington to us.
+I will represent us to Washington." -Larry Thompson Read more 6 Mar Friday, 8:05 PM · 2026 GOLDEN STATE NEWS - California Republican Party Unanimously Endorses Larry Thompson For U.
 S.
-Congress CA-32
-WORLD POLITICS REPORT - California Republican Party Unanimously Endorses Larry Thompson For U.S.
-Congress
-EINPresswire - California Republican Party Unanimously Endorses Larry Thompson For U.S.
-Congress CA-32
-CALIFORNIA POLITICS TODAY - Larry Thompson, Candidate for U.S.
-Congress, to Introduce Constitutional Amendment to Impose Term Limits
-WORLD POLITICS REPORT - Larry Thompson, Candidate for U.S.
-Congress, to Introduce Constitutional Amendment to Impose Term Limits
-Formidable Men Magazine - Larry Thompson “The Sanity Man,” U.
+Congress CA-32 "I’m not running AGAINST Democrats.
+I’m running FOR Californians.” — Larry Thompson Read more 6 Mar Friday, 8:01 PM · 2026 WORLD POLITICS REPORT - California Republican Party Unanimously Endorses Larry Thompson For U.S.
+Congress Thompson Also Received Endorsements From Both the Los Angeles County Republican Party and the Ventura County Republican Party Read more 6 Mar Friday, 5:25 PM · 2026 EINPresswire - California Republican Party Unanimously Endorses Larry Thompson For U.S.
+Congress CA-32 Thompson Also Received Endorsements From Both the Los Angeles County Republican Party and the Ventura County Republican Party Read more 29 Jan Thursday, 1:37 PM · 2026 CALIFORNIA POLITICS TODAY - Larry Thompson, Candidate for U.S.
+Congress, to Introduce Constitutional Amendment to Impose Term Limits Thompson's "Good Night and Good Luck" bill to limit U.S.
+House Representatives to 4 terms (8 Years) and U.S.
+Senators to 2 terms (12 years) Read more 29 Jan Thursday, 8:58 AM · 2026 WORLD POLITICS REPORT - Larry Thompson, Candidate for U.S.
+Congress, to Introduce Constitutional Amendment to Impose Term Limits The proposed amendment limits members of the U.S.
+House of Representatives to four terms (8 years) and members of the U.S.
+Senate to two terms (12 years).
+Read more 20 Jan Tuesday, 8:47 AM · 2026 Formidable Men Magazine - Larry Thompson “The Sanity Man,” U.
 S.
-Congressional Candidate for California, to Introduce ‘Youth Financial Literacy Act’
-AP - Larry Thompson, U.
+Congressional Candidate for California, to Introduce ‘Youth Financial Literacy Act’ The purpose of this bill is to encourage States to ensure that students graduate from high school equipped with practical financial knowledge necessary to make informed decisions, participate fully in the free-market economy, and achieve long-term self-sufficiency.
+It is also to promote personal responsibility, life and workforce readiness, and economic self-sufficiency by encouraging practical financial education in public high schools, while preserving State and local control over education.
+Read more 5 Jan Monday, 10:02 AM · 2026 AP - Larry Thompson, U.
 S.
-Congressional Candidate for California, to Introduce ‘Youth Financial Literacy Act’
-MALIBU TIMES - Letters To The Editor - Why I’m Not Running As A Democrat For U.S.
-Congress In California’s 32nd District
-AP - 'Liar, Liar, Pants on Fire Act of 2027' To Be Introduced by Larry Thompson, "The Sanity Man," U.S.
-Congressional Candidate for California 32
-CANYON NEWS - Why I’m Not Running As A Democrat For U.S.
-Congress In California’s 32nd District
-AP - 'Liar, Liar, Pants on Fire Act of 2027' To Be Introduced by Larry Thompson, U.S.
-Congressional Candidate for California 32
-Larry Thompson, U.S.
-Congressional Candidate for California 32, to introduce 'Liar, Liar, Pants on Fire Act of 2027'
-Calabasas Enterprise - Prop 50: Larry Thompson "No" Brad Sherman "Yes"
-Warner Center Group - Larry Thompson and Brad Sherman Debate Prop 50
-Valley Vantage - No on Prop 50 Larry Thompson Candidate for U.S.
-Congress
-CANYON NEWS - POLITIAL CHANGE - THOMPSON FOR SHERMAN
-Encino Enterprise - Local Leaders Announce Runs for Office
-Valley News Group - People In The News - Larry Thompson Runs For Congress
-KTLA - Thompson's campaign includes organizing STARS FOR AMERICA℠, wherein Hollywood Stars can support their political positions
-Rich Man Magazine - Hollywood Deal Maker Bets Celebrity Networks And Pro-Crypto Politics Can Unseat 30-Year Incumbent
-Hollywood manager Larry Thompson challenges incumbent Brad Sherman with pro-crypto policy, LA transit backing, and celebrity advocacy, reshaping real-estate and investor risk
-TOTAL NEWS - Film Producer Larry Thompson is Entering the Congressional Race as a Republican to Challenge a Long-Time Democratic Incumbent
-BREITBART - Veteran Film Producer Larry Thompson Running for Congress as a Republican Against 30-Year Democrat Incumbent
-THE WRAP - Hollywood Vet Larry Thompson Launches Republican Congressional Campaign in California
-CALIFORNIA POLITICS TODAY - Larry Thompson Announces His Candidacy for U.S.
-Congress and Presents His Vision for a Futuristic, Bipartisan California
-PR NEWSWIRE - President Donald Trump's Inaugural California Dance Card Is Blank Says Larry Thompson
-LOS ANGELES DAILY NEWS - LA County Voters Will Help Decide Key US Congressional Races
-LOS ANGELES DAILY NEWS - Larry Thompson, Congress District 32 candidate, 2024 election questionnaire
-ENCINO ENTERPRISE - Campaign Coverage: Candidate Statement - Larry Thompson For Congress
-CANYON NEWS - Larry Thompson Closing The California Congressional Gap On Brad Sherman
-CALIFORNIA POLITICS TODAY - Larry Thompson Closing the California Congressional Gap on Brad Sherman
-CANYON NEWS - Larry Thompson Calls For California Congressional Opponent Brad Sherman To Confess And Apologize For Living A Lie
-AP NEWS (THE ASSOCIATED PRESS) - Brentwood, California Is The New Political Epicenter
-PRNewswire - Larry Thompson, Kamala Harris, and Steve Garvey Lead the Charge in National Politics
-CANYON NEWS - Larry Thompson, United States Congressional Candidate, Warns Of Civil War
-YAHOO FINANCE - Biden Out, Newsom In; Republican Fear of Californication of America and Democrat Fear of Republican Dictatorship the Cause
-KTLA 5 Los Angeles - Larry Thompson, United States Congressional Candidate, Warns of Civil War
-ABC NEWS - - Republican Larry Thompson advances to the general election for U.S.
-House in California's 32nd Congressional District
-Canyon News- Yard Signs And Endorsements Can Help Candidates In A Political Campaign
-California Politics Today - Yard Signs and Endorsements Can Really Help Candidates in a Political Campaign
-Brentwood News - “Larry Thompson’s Groundbreaking Bitcoin Move Shakes Up CA 32 Congressional Race”
-Palisades News - “Larry Thompson’s Groundbreaking Bitcoin Move Shakes Up CA 32 Congressional Race”
-NEWSWIRES EIN: BROCK PIERCE UNVEILS INSPIRING VIDEO SERIES WITH FUTURE PARTY LEADERS AMID HISTORIC BITCOIN ETF APPROVAL BY SEC
-Canyon-News - U.S.
-Congressional Candidate, Larry Thompson, Hits The Political Bitcoin Jackpot
-PR Newswire - U.S.
-Congressional Candidate, Larry Thompson, Hits the Political Bitcoin Jackpot
-Newswires EIN - Larry Thompson, U.S.
-Congressional Candidate, Hits the Political Bitcoin Jackpot
-Canyon-News - California Republican Party Unanimously Endorses Larry Thompson For United States Congress
-JANUARY 16, 2024 (UPDATED FROM CANYON-NEWS DECEMBER 28, 2023)
-LOS ANGELES—The California Republican Party (CAGOP) voted unanimously on December 9, 2023 to endorse Hollywood talent manager, lawyer, and film producer, Larry Thompson, in his 2024 run for U.S.
+Congressional Candidate for California, to Introduce ‘Youth Financial Literacy Act’ The Bill Would Propose Public High School Students Receive Basic Financial Literacy Education Before Graduation Read more 4 Dec Thursday, 10:05 AM · 2025 MALIBU TIMES - Letters To The Editor - Why I’m Not Running As A Democrat For U.S.
+Congress In California’s 32nd District Why I'm not running as a Democrat for U.S.
+Congress in California's 32nd District Read more 3 Dec Wednesday, 3:37 PM · 2025 AP - 'Liar, Liar, Pants on Fire Act of 2027' To Be Introduced by Larry Thompson, "The Sanity Man," U.S.
+Congressional Candidate for California 32 Thompson's Proposed Bill Would Hold Executive, Legislative, and Judicial Branches of Government Accountable for False Statements Read more 2 Dec Tuesday, 3:50 PM · 2025 CANYON NEWS - Why I’m Not Running As A Democrat For U.S.
+Congress In California’s 32nd District Many people have asked me, “Why are you running as a Republican in California?” It’s a fair question — and one that deserves an honest answer.
+Read more 17 Nov Monday, 4:50 PM · 2025 AP - 'Liar, Liar, Pants on Fire Act of 2027' To Be Introduced by Larry Thompson, U.S.
+Congressional Candidate for California 32 Thompson's Proposed Bill Would Hold Executive, Legislative, and Judicial Branches of Government Accountable for False Statements Read more 17 Nov Monday, 11:42 AM · 2025 Larry Thompson, U.S.
+Congressional Candidate for California 32, to introduce 'Liar, Liar, Pants on Fire Act of 2027' California Politics Today - The Proposed Bill Would Hold Executive, Legislative, and Judicial Branches of Government Accountable for False Statements Read more 2 Nov Sunday, 10:00 AM · 2025 Calabasas Enterprise - Prop 50: Larry Thompson "No" Brad Sherman "Yes" Candidate Thompson and Incumbent Sherman Debate Prop 50 Read more 2 Nov Sunday, 9:56 AM · 2025 Warner Center Group - Larry Thompson and Brad Sherman Debate Prop 50 Larry Thompson and Brad Sherman Debate Prop 50 Read more 30 Oct Thursday, 6:17 PM · 2025 Valley Vantage - No on Prop 50 Larry Thompson Candidate for U.S.
+Congress Thompson and Sherman Debate Prop 50 Read more 8 Oct Wednesday, 2:35 PM · 2025 CANYON NEWS - POLITIAL CHANGE - THOMPSON FOR SHERMAN Larry Thompson and Brad Sherman Read more 3 Oct Friday, 10:08 AM · 2025 Encino Enterprise - Local Leaders Announce Runs for Office Larry Thompson to Run Against Brad Sherman Read more 25 Sep Thursday, 12:00 AM · 2025 Valley News Group - People In The News - Larry Thompson Runs For Congress Larry Thompson Runs For Congress Read more 31 Aug Sunday, 9:23 AM · 2025 KTLA - Thompson's campaign includes organizing STARS FOR AMERICA℠, wherein Hollywood Stars can support their political positions KTLA - Larry Thompson Announces His Candidacy for U.S.
+Congress and Presents His Vision for a Futuristic, Bipartisan California Read more 29 Aug Friday, 9:20 AM · 2025 Rich Man Magazine - Hollywood Deal Maker Bets Celebrity Networks And Pro-Crypto Politics Can Unseat 30-Year Incumbent Hollywood manager Larry Thompson challenges incumbent Brad Sherman with pro-crypto policy, LA transit backing, and celebrity advocacy, reshaping real-estate and investor risk Read more 28 Aug Thursday, 2:52 PM · 2025 TOTAL NEWS - Film Producer Larry Thompson is Entering the Congressional Race as a Republican to Challenge a Long-Time Democratic Incumbent Veteran Hollywood talent manager Larry Thompson announced on Tuesday that he is running for the US Congress as a Republican.
+Read more 28 Aug Thursday, 2:41 PM · 2025 BREITBART - Veteran Film Producer Larry Thompson Running for Congress as a Republican Against 30-Year Democrat Incumbent Veteran Hollywood talent manager Larry Thompson announced his candidacy for U.S.
+Congress on Tuesday as a Republican.
+Read more 27 Aug Wednesday, 5:47 PM · 2025 THE WRAP - Hollywood Vet Larry Thompson Launches Republican Congressional Campaign in California The film producer and talent manager is set to run against 30-year incumbent Rep.
+Brad Sherman Read more 26 Aug Tuesday, 11:59 AM · 2025 CALIFORNIA POLITICS TODAY - Larry Thompson Announces His Candidacy for U.S.
+Congress and Presents His Vision for a Futuristic, Bipartisan California Thompson’s campaign includes organizing STARS FOR AMERICA, wherein Hollywood Stars can support their political positions without fear of retaliation.
+Read more 20 Jan Monday, 10:20 AM · 2025 PR NEWSWIRE - President Donald Trump's Inaugural California Dance Card Is Blank Says Larry Thompson Liberal California remains out of step with the rest of the nation Read more 29 Oct Tuesday, 2:21 PM · 2024 CANYON NEWS - Hollywood Politically Supporting One Of Its Own Read more 26 Oct Saturday, 7:09 PM · 2024 VALLEY NEWS GROUP - Brad Sherman Scandal - Congressman Plagued With It Read more 23 Oct Wednesday, 7:16 PM · 2024 LOS ANGELES DAILY NEWS - LA County Voters Will Help Decide Key US Congressional Races Read more 15 Oct Tuesday, 3:47 PM · 2024 LOS ANGELES DAILY NEWS - Larry Thompson, Congress District 32 candidate, 2024 election questionnaire Read more 3 Oct Thursday, 7:03 PM · 2024 NORTH VALLEY NEWS - Candidate Statement - Larry Thompson For Congress Read more 3 Oct Thursday, 6:52 PM · 2024 ENCINO ENTERPRISE - Campaign Coverage: Candidate Statement - Larry Thompson For Congress Read more 2 Sep Monday, 7:16 AM · 2024 CANYON NEWS - Larry Thompson Closing The California Congressional Gap On Brad Sherman Polling in CA-32 Shows Thompson (R) Gaining Fast Read more 27 Aug Tuesday, 11:17 AM · 2024 EIN Presswire - POLLING IN CA-32 SHOWS LARRY THOMPSON (R) GAINING FAST Read more 26 Aug Monday, 5:07 PM · 2024 CALIFORNIA POLITICS TODAY - Larry Thompson Closing the California Congressional Gap on Brad Sherman Polling in CA-32 Shows Thompson (R) Gaining Fast Read more 1 Aug Thursday, 11:02 AM · 2024 VALLEY NEWS GROUP - Guest Editorial: Larry Thompson For Congress Read more 29 Jul Monday, 2:25 PM · 2024 CANYON NEWS - Larry Thompson Calls For California Congressional Opponent Brad Sherman To Confess And Apologize For Living A Lie Read more 23 Jul Tuesday, 3:07 PM · 2024 AP NEWS (THE ASSOCIATED PRESS) - Brentwood, California Is The New Political Epicenter Read more 23 Jul Tuesday, 10:36 AM · 2024 PRNewswire - Larry Thompson, Kamala Harris, and Steve Garvey Lead the Charge in National Politics Read more 16 Apr Tuesday, 10:08 AM · 2024 CANYON NEWS - Larry Thompson, United States Congressional Candidate, Warns Of Civil War Read more 15 Apr Monday, 4:41 PM · 2024 YAHOO FINANCE - Biden Out, Newsom In; Republican Fear of Californication of America and Democrat Fear of Republican Dictatorship the Cause Read more 15 Apr Monday, 4:34 PM · 2024 KTLA 5 Los Angeles - Larry Thompson, United States Congressional Candidate, Warns of Civil War Read more 12 Mar Tuesday, 1:42 PM · 2024 ABC NEWS - - Republican Larry Thompson advances to the general election for U.S.
+House in California's 32nd Congressional District Read more 7 Mar Thursday, 3:17 PM · 2024 Associated Press - Steve Garvey, a Former Baseball Player, and Larry Thompson, a Hollywood Talent Manager and Film Producer, Advance to the General El Read more 7 Mar Thursday, 3:12 PM · 2024 Golden State Newswire - Steve Garvey and Larry Thompson Progress in Political Arena Read more 22 Feb Thursday, 12:35 PM · 2024 Canyon News- Yard Signs And Endorsements Can Help Candidates In A Political Campaign Read more 20 Feb Tuesday, 10:50 AM · 2024 California Politics Today - Yard Signs and Endorsements Can Really Help Candidates in a Political Campaign Read more 31 Jan Wednesday, 10:00 AM · 2024 Brentwood News - “Larry Thompson’s Groundbreaking Bitcoin Move Shakes Up CA 32 Congressional Race” Read more 31 Jan Wednesday, 9:58 AM · 2024 Palisades News - “Larry Thompson’s Groundbreaking Bitcoin Move Shakes Up CA 32 Congressional Race” Read more 30 Jan Tuesday, 7:41 AM · 2024 Red Silk Carpet - Larry Thompson Cover Story Read more 29 Jan Monday, 7:38 AM · 2024 NEWSWIRES EIN: BROCK PIERCE UNVEILS INSPIRING VIDEO SERIES WITH FUTURE PARTY LEADERS AMID HISTORIC BITCOIN ETF APPROVAL BY SEC Read more 25 Jan Thursday, 7:36 AM · 2024 Ventura GOP - Ventura GOP Endorses Candidates for Congress Read more 24 Jan Wednesday, 12:07 PM · 2024 Canyon-News - U.S.
+Congressional Candidate, Larry Thompson, Hits The Political Bitcoin Jackpot Read more 24 Jan Wednesday, 12:05 PM · 2024 PR Newswire - U.S.
+Congressional Candidate, Larry Thompson, Hits the Political Bitcoin Jackpot Read more 24 Jan Wednesday, 12:02 PM · 2024 Newswires EIN - Larry Thompson, U.S.
+Congressional Candidate, Hits the Political Bitcoin Jackpot Read more 16 Jan Tuesday, 9:51 AM · 2024 Canyon-News - California Republican Party Unanimously Endorses Larry Thompson For United States Congress JANUARY 16, 2024 (UPDATED FROM CANYON-NEWS DECEMBER 28, 2023) LOS ANGELES—The California Republican Party (CAGOP) voted unanimously on December 9, 2023 to endorse Hollywood talent manager, lawyer, and film producer, Larry Thompson, in his 2024 run for U.S.
 Congress in California’s 32nd District.
 The very valuable CAGOP endorsement came after the Los Angeles County Republican Party (LAGOP) endorsed Thompson and recommended the endorsement to the state party due to Thompson having received a two-thirds (2/3) majority vote at its LAGOP Endorsement Meeting on December 4, 2023.
 So, what is it about Thompson that is giving such new hope and excitement to the California GOP, and is the biggest news since Kevin McCarthy announced that he is resigning?
@@ -88,26 +48,24 @@ No longer should they feel alone, confused, defeated, and scared.
 I offer them an opportunity to regain their courage, stand up, rethink their long held beliefs, and join me and those who share their values and vision of our country.
 I want everyone to stop, think, and simply use Common Sense with Common Civility to find Common Ground to solve our Common Issues.
 Let’s start a fresh, bipartisan conversation to finally end the fighting, regain our ‘sanity,’ and get something done.
-I’m the ‘Sanity Man.'”
-Even with such lofty ideals, Thompson’s election won’t be easy as his main Democratic opponent is 14-term incumbent, Brad Sherman, who is serving his first term in CA 32 simply because of redistricting.
+I’m the ‘Sanity Man.'” Larry Thompson.
+Photo courtesy of http://www.LarryThompsonForCongress.com.
+“This used to be Reagan Country.
+I’m running to take it back for him.” Even with such lofty ideals, Thompson’s election won’t be easy as his main Democratic opponent is 14-term incumbent, Brad Sherman, who is serving his first term in CA 32 simply because of redistricting.
 California’s 32nd district now takes in Bel-Air, Bell Canyon, Beverly Glen, Brentwood, Canoga Park, Chatsworth, Encino, Malibu, North Hills, Northridge, Pacific Palisades, Reseda, Sherman Oaks, Studio City, Tarzana, Topanga, West Hills, Winnetka, and Woodland Hills.
 When asked about his chances in the race, Thompson quips, “Oh, I will definitely beat Mr.
 Sleeping-At-The-Wheel, Brad Sherman.
-I’m just glad Taylor Swift isn’t running.” On Bidenomics, he added that he agrees with TV Personality, Greg Gutfeld, that “the $100 bill has become the new $20 bill.”
-“Seriously,” he added, “the polarized political positions in our nation have become dangerous in many ways, and, with all that is going on in this world today, there is much disenchantment, disappointment, frustration, and even fear with many Democrat and Republican voters.
+I’m just glad Taylor Swift isn’t running.” On Bidenomics, he added that he agrees with TV Personality, Greg Gutfeld, that “the $100 bill has become the new $20 bill.” “Seriously,” he added, “the polarized political positions in our nation have become dangerous in many ways, and, with all that is going on in this world today, there is much disenchantment, disappointment, frustration, and even fear with many Democrat and Republican voters.
 I intend to bridge this gap of uncertainty and offer a fresh option of ideas to the Republican and long-standing Democrat voters.
-“Our citizens must deal with open borders, closed minds, sky-high taxes, and low confidence in government… not to mention potholes on Ventura Boulevard, Topanga Canyon Boulevard, and the Pacific Coast Highway.”
-“I have been a ‘Representative’ of Hollywood Talent for over 50 years,” said Thompson.
+“Our citizens must deal with open borders, closed minds, sky-high taxes, and low confidence in government… not to mention potholes on Ventura Boulevard, Topanga Canyon Boulevard, and the Pacific Coast Highway.” “I have been a ‘Representative’ of Hollywood Talent for over 50 years,” said Thompson.
 “And I have spent a career as either a lawyer or a personal manager listening, caring, nurturing, planning, and negotiating, to enhance their personas and lives.
-I now want to be a ‘Representative’ of the people, especially those who live in our California 32nd District.”
-As a long-time, active Republican, Thompson was a Republican Eagle in 1981, ’82, and ’83, which required a donation to the Republican National Committee of a minimum of $10,000 per year.
+I now want to be a ‘Representative’ of the people, especially those who live in our California 32nd District.” As a long-time, active Republican, Thompson was a Republican Eagle in 1981, ’82, and ’83, which required a donation to the Republican National Committee of a minimum of $# per year.
 He was the recipient of the Republican Presidential Taskforce’s Medal of Merit presented to him by President Ronald Reagan in 1981 and was the personal Talent Manager for President Ronald Reagan’s daughter, Patti Davis from 1982 to 1986.
 He co-wrote speeches and prepared President Gerald Ford personally for his Republican National Convention address in 1976 and employed President Gerald Ford’s Daughter, Susan Ford, to costar on the Jim Nabor’s Show, which Thompson produced all 75 episodes in 1978.
 Thompson was the California Campaign Co-Chairman for Senator Bob Dole’s Presidential Campaign in 1996.
 He ran for US Congress CA37 as an Independent in 2020.
 Karen Bass, the current mayor of Los Angeles, won.
-About Larry Thompson
-Thompson is an acclaimed Hollywood talent manager and veteran film producer, lawyer, book packager, author, Broadway Producer, and motivational speaker, and is also founder and President of the Larry A.
+About Larry Thompson Thompson is an acclaimed Hollywood talent manager and veteran film producer, lawyer, book packager, author, Broadway Producer, and motivational speaker, and is also founder and President of the Larry A.
 Thompson Organization, a next-generation, Los Angeles based Talent Management, Motion Picture, Television, and New Media Production Studio.
 Thompson and his team of managers have guided the careers of over 200 Stars, and Thompson himself has produced 21 Movies for Television, 5 Motion Pictures, 2 Television Series, 12 Television Specials, and various Series Pilots.
 He is also the author of the Best-Selling self-help book Shine: A Powerful 4-Step Plan For Becoming A Star In Anything You Do.
@@ -119,22 +77,19 @@ The National Conference of Personal Managers inducted Thompson into the Personal
 Thompson was also honored on September 19, 2013, by the Talent Managers Association with the prestigious Seymour Heller Award for Lifetime Achievement in Talent Management.
 These two entertainment industry awards are the highest honors a personal manager can receive for representing talent.
 Thompson was Knighted in Rome, Italy on May 20, 2017.
-Grand Prior, Prince Lorenzo de’ Medici, sponsored Thompson, who is an American of Italian Heritage, into the prestigious Order of Saint Martin of Mount of the Beatitudes as a “Patron of the Arts and Protector of the Most Needy.”
-Thompson was born, raised, and educated in Mississippi.
+Grand Prior, Prince Lorenzo de’ Medici, sponsored Thompson, who is an American of Italian Heritage, into the prestigious Order of Saint Martin of Mount of the Beatitudes as a “Patron of the Arts and Protector of the Most Needy.” Thompson was born, raised, and educated in Mississippi.
 After finishing law school at the University of Mississippi in 1968, he drove three days to the corner of Hollywood and Vine to start his dream career in show business.
 Also, from 1968 to 1974, Thompson served in the United States Army Reserve’s Judge Advocate General Corp, mostly in Torrance, California.
 Thompson lives in Los Angeles with his wife, Kelly, and their daughter, Taylor, and son, Trevor.
-About the Election
-The Primary Election will be on March 5, 2024.
+About the Election The Primary Election will be on March 5, 2024.
 Early voting starts February 5, 2024.
 The two candidates that receive the most votes in the Primary Election will advance to the General Election, which will be on November 5, 2024.
 California Elections have the Top-Two Candidates Open Election System, which means all registered voters, regardless of political affiliation, may vote for any candidate, regardless of political affiliation.
-A Final, Important Thought On My Opponent, Brad Sherman
-Brad Sherman is the present Congressman in CA32.
+A Final, Important Thought On My Opponent, Brad Sherman Brad Sherman is the present Congressman in CA32.
 Sherman’s frequent “Town Hall” meetings will ultimately be his “Down Fall”.
 He exposes to voters in those conversations that he is a long time “Harvard Egghead,” which is an epithet used to refer to intellectuals or people considered out-of-touch with ordinary people and lacking in realism and common sense on account of their intellectual interests.
 He studied accounting in school but must have forgotten anything he ever learned as over his 28 years in Congress, he has helped allow our country to get $13.84 Trillion Dollars dangerously in debt..!
-Also,Sherman, is the main crypto-hater in Washington.
+Also, Sherman, is the main crypto-hater in Washington.
 He has fought for over 15 years to "outlaw" Bitcoin and cryptos.
 He is on the wrong side of history regarding Bitcoin and cryptocurriencies.
 In fact, on January 10, 2024, the Securities and Exchange Commission (SEC) approved proposals for 11 spot bitcoin ETFs, which will open a floodgate of new investors for bitcoin.
@@ -146,33 +101,19 @@ Help me help you.
 Vote for me.
 I will always vote for you.
 And, of course, make a serious Donation.
-This is important stuff.
-http://www.LarryThompsonForCongress.com
-Canyon-News - California Republican Party Unanimously Endorses Larry Thompson For United States Congress
-Associated Press - California Republican Party Unanimously Endorses Larry Thompson For United States Congress
-KTLA - California Republican Party Unanimously Endorses Larry Thompson For United States Congress
-PRNewswire - California Republican Party Unanimously Endorses Larry Thompson For United States Congress
-Cision - California Republican Party Endorses Hollywood Talent Manager, Lawyer, and Film Producer, Larry Thompson, In His Run For U.S.
-Congress
-EIN Presswire - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 32nd District
-PR Newswire - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 32nd District
-Thurs November 2, 2023 1:36 PM
-Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 32nd District
-LOS ANGELES, Nov. 2, 2023 /PRNewswire/ -- Larry Thompson, veteran entertainment attorney/talent manager/film producer, announced today that he is running for California's 32nd congressional district against Rep.
-Brad Sherman (D)
-www.LarryThompsonForCongress.com
-"The polarized political positions in our nation have become dangerous in many ways," Thompson said.
+This is important stuff. http://www.LarryThompsonForCongress.com 28 Dec Thursday, 11:37 AM · 2023 Canyon-News - California Republican Party Unanimously Endorses Larry Thompson For United States Congress Read more 19 Dec Tuesday, 8:36 AM · 2023 Associated Press - California Republican Party Unanimously Endorses Larry Thompson For United States Congress Read more 19 Dec Tuesday, 8:34 AM · 2023 KTLA - California Republican Party Unanimously Endorses Larry Thompson For United States Congress Read more 18 Dec Monday, 8:42 AM · 2023 PRNewswire - California Republican Party Unanimously Endorses Larry Thompson For United States Congress Read more 11 Dec Monday, 5:00 AM · 2023 Cision - California Republican Party Endorses Hollywood Talent Manager, Lawyer, and Film Producer, Larry Thompson, In His Run For U.S.
+Congress Read more 6 Dec Wednesday, 4:55 PM · 2023 Canyon News - Larry Thompson Announces His Bid For Congress Read more 2 Dec Saturday, 7:08 PM · 2023 Beverly Hills Courier - Larry Thompson Launches Second Bid for Congress Read more 24 Nov Friday, 11:23 AM · 2023 EIN Presswire - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 32nd District Read more 7 Nov Tuesday, 12:59 PM · 2023 Deadline - Manager/Producer Larry Thompson Announces New Bid For Congress Read more 2 Nov Thursday, 11:06 AM · 2023 PR Newswire - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 32nd District Thurs November 2, 2023 1:36 PM Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 32nd District LOS ANGELES, Nov.
+2, 2023 /PRNewswire/ -- Larry Thompson, veteran entertainment attorney/talent manager/film producer, announced today that he is running for California's 32nd congressional district against Rep.
+Brad Sherman (D) www.LarryThompsonForCongress.com "The polarized political positions in our nation have become dangerous in many ways," Thompson said.
 "As a Moderate Republican, I want everyone to use Common Sense with Common Civility to find Common Ground to solve our Common Issues.
 "With all that is going on today in this world, there is much disenchantment, disappointment, frustration, and fear with many Democrat and Republican voters.
 As a new Moderate Republican, I offer a fresh option to the Republican and long-standing Democratic voters.
 "I have been a 'Representative' of Hollywood Talent for over 50 years," said Thompson.
 "As either their lawyer or personal manager I have spent a career listening, caring, nurturing, planning, marketing, negotiating, and enhancing their personas and lives.
-I now want to be a 'Representative' of the people who live in our California 32nd District to do those things for them even more profoundly, give them a voice, and empower their lives."
-Why is Larry Running?
+I now want to be a 'Representative' of the people who live in our California 32nd District to do those things for them even more profoundly, give them a voice, and empower their lives." Why is Larry Running?
 To offer a fresh beginning for the California Republican.
-About Larry Thompson
-Larry Thompson, acclaimed Hollywood talent manager and veteran film producer, lawyer, book packager, author, Broadway Producer, and motivational speaker, is founder and President of the Larry A.
-Thompson Organization, a next-generation, Los Angeles based Talent Management, Motion Picture, Television, and New Media Production Studio.
+About Larry Thompson Larry Thompson, acclaimed Hollywood talent manager and veteran film producer, lawyer, book packager, author, Broadway Producer, and motivational speaker, is founder and President of the Larry A.
+Thompson Organization , a next-generation, Los Angeles based Talent Management, Motion Picture, Television, and New Media Production Studio.
 Thompson has managed the careers of over 200 Stars and produced 21 Movies for Television, 5 Motion Pictures, 2 Television Series, 12 Television Specials, and various Series Pilots.
 Thompson has received the Industry's prestigious Vision Award and his productions have won 2 Accolade Awards, 2 Imagen Awards, The Epiphany Prize, The Wilbur Award, The Christopher Award, and have received Nominations for 10 Emmys, 6 Imagen Awards, 2 Prism Awards, the Humanitas Prize, and a Golden Globe.
 He serves on the Advisory Boards of The Delta Blues Museum, Paulist Productions, and Good News Communications.
@@ -187,26 +128,21 @@ Thompson was born, raised, and educated in Mississippi.
 After finishing law school at the University of Mississippi in 1968, he drove three days to the corner of Hollywood and Vine to start his dream career in show business.
 Also from 1968 to 1974, Thompson served in the United States Army Reserve's Judge Advocate General's Corps mostly in Torrance, California.
 Thompson lives in Los Angeles with his wife, Kelly, and their daughter, Taylor (21), and son, Trevor (18).
-About the 32nd District
-California's 32nd congressional district is a congressional district in the U.S. state of California based in Los Angeles County.
+About the 32nd District California's 32nd congressional district is a congressional district in the U.S. state of California based in Los Angeles County.
 The 32nd district takes in the city of Malibu and the Los Angeles neighborhoods of Pacific Palisades, Beverly Glen, Bel Air, Studio City, Sherman Oaks, Woodland Hills, West Hills, Canoga Park, Winnetka, Reseda, Encino, Chatsworth, Northridge, Brentwood, North Hills,as well as the south side of Granada Hills.
-About the Election
-The Primary Election will be on March 5, 2024.
+About the Election The Primary Election will be on March 5, 2024.
 The two candidates that receive the most votes in the Primary Election will advance to the General Election, which will be on November 5, 2024.
 California Elections have the Top-Two Candidates Open Election System, which means all registered voters, regardless of political affiliation, may vote for any candidate, regardless of political affiliation.
-Paid for by Larry Thompson for Congress
-For further information or to schedule an interview with Mr.
-Thompson, contact:
-Robert G.
-Endara II
-Larry Thompson For Congress
-12021 Wilshire Blvd.
-Suite 614
-Los Angeles, CA 90025
-(310) 288-0700
-E-mail: larry@larrythompsonforcongress.com
-Website: www.LarryThompsonForCongress.com
-Please click the following link to download the high-res version of this photo:
-Courtesy of Larry Thompson For Congress
-https://spaces.hightail.com/receive/XP4E3cGjH1
-SOURCE Larry Thompson For Congress
+Paid for by Larry Thompson for Congress For further information or to schedule an interview with Mr.
+Thompson, contact: Robert G.
+Endara II Larry Thompson For Congress 12021 Wilshire Blvd.
+Suite 614 Los Angeles, CA 90025 (310) 288-0700 E-mail: larry@larrythompsonforcongress.com Website: www.LarryThompsonForCongress.com Please click the following link to download the high-res version of this photo: Courtesy of Larry Thompson For Congress https://spaces.hightail.com/receive/XP4E3cGjH1 SOURCE Larry Thompson For Congress Read more 4 Mar Wednesday, 8:12 AM · 2020 Los Angeles Daily Breeze - Election 2020 Read more 27 Feb Thursday, 9:18 AM · 2020 TV - Spectrum News 1 Bianca Rae Reports on Larry Thompson Hollywood To Politics Read more 25 Feb Tuesday, 6:32 PM · 2020 Century City News - Thompson Wins Endorsement - Larry Thompson's Congressional Run Endorsement of Larry Thompson for Congress.
+Read more 23 Feb Sunday, 1:41 PM · 2020 Sunday Morning Newsmakers with Larry Marino Radio seg 5 02-23-20 Larry Thompson ANSWERS the Important Questions Read more 31 Jan Friday, 12:00 AM · 2020 California Business Journal - Has The Hollywood Political Iceberg Started to Thaw?
+Read more 31 Jan Friday, 12:00 AM · 2020 Yahoo Finance- Has The Hollywood Political Iceberg Started to Thaw?
+Read more 30 Jan Thursday, 12:00 AM · 2020 Cision - Has The Hollywood Political Iceberg Started to Thaw?
+Read more 30 Jan Thursday, 12:00 AM · 2020 Seeking Alpha - Has The Hollywood Political Iceberg Started to Thaw?
+Read more 23 Jan Thursday, 12:00 AM · 2020 Century City News - Larry Thompson's Congressional Run Read more 26 Dec Thursday, 12:00 AM · 2019 Culver City Observer - Thompson Announces Run to Unseat Bass Read more 26 Dec Thursday, 12:00 AM · 2019 Yahoo!
+Entertainment - Veteran Hollywood Manager/Producer Larry Thompson Throws Hat In The Ring For California Congressional Run Read more 20 Dec Friday, 6:00 PM · 2019 California Business Journal - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California’s 37th District Read more 20 Dec Friday, 12:00 AM · 2019 California Latino News - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California’s 37th District Read more 19 Dec Thursday, 12:00 AM · 2019 LatinBiz Today - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California’s 37th District Read more 19 Dec Thursday, 12:00 AM · 2019 Yahoo Finance - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California’s 37th District Read more 19 Dec Thursday, 12:00 AM · 2019 Seeking Alpha - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 37th District Read more 19 Dec Thursday, 12:00 AM · 2019 Marketwatch - Larry Thompson, Hollywood talent manager and film producer, is running for Congress in California's 37th District Read more 3 Dec Tuesday, 12:00 AM · 2019 Deadline.com - Veteran Hollywood Manager/Producer Larry Thompson Throws Hat In The Ring For California Congressional Run Read more 13 Nov Wednesday, 5:32 PM · 2019 Larry Thompson Set To Run For U.S.
+Congress Larry Thompson set to run for the United States Congress in California's 37th District as an Independent.
+Read more VOTE NOW - VOTING ENDS IN November 3, 2026 at 8:00 PM CONTRIBUTE VOLUNTEER GIVE ENDORSEMENT REQUEST YARD SIGN VOTER INFO VOTING IN THE AGE OF CHAOS AI BILL OF RIGHTS WIKIPEDIA Get Updates Thank you for signing up!
+News Los Angeles Daily News - Larry Thompson, CA-32 candidate, 2026 election questionnaire Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots New York Times - Representative Brad Sherman to Face Larry Thompson in November Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com - Political Campaign Websites Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu

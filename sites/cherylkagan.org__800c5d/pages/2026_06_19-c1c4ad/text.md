@@ -1,4 +1,4 @@
-June 19, 2026 Maryland Matters By: Bryan P.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute June 19, 2026 Home 2026 June Day: June 19, 2026 June 19, 2026 In The News House sets target dates for special session June 19, 2026 Maryland Matters By: Bryan P.
 Sears Members of the House of Delegates are being asked to consider two windows for a special session that could consider two possible amendments to the Maryland Constitution.
-House Speaker Joseline Peña-Melnyk, …
-Continue Reading
+House Speaker Joseline Peña-Melnyk, … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

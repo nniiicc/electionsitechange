@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.joevogel.org/news",
- "paid_for_by": null,
+ "fingerprint": "26a174fd221bba6f53c1106cd03f2168170f249e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

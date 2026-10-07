@@ -1,7 +1,1 @@
-LOGO
-Tue, Jun 30
-Legacy Barn
-Jun 30, 2026, 6:00 PM – 8:00 PM
-Legacy Barn, 16755 State Rte 52, Barnett, MO 65011, USA
-CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP
-2035
+top of page LOGO GET INVOLVED DONATE Roger Korenberg Campaign Kickoff Tue, Jun 30 | Legacy Barn Registration is closed See other events Time & Location Jun 30, 2026, 6:00 PM – 8:00 PM Legacy Barn, 16755 State Rte 52, Barnett, MO 65011, USA Share this event HOME ABOUT INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS Paid for by Citizens for Bax; Treasurer, Rob Overly © # by Sapphire Strategies HOME ABOUT Log In CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

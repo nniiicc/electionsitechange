@@ -1,13 +1,3 @@
-Back to All Events
-Let’s Flip The 49th Canvassing Event!
-When: Saturday September 19th
-- Training @ 10:30am
-- Canvassing @11am
-Where: JMBC Offices - 1831 3rd Street NE Canton, OH 44704
-Previous
-Previous
-September 19
-Calling All Educators
-Next
-Next
-October 17
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Calling All Labor Unions Saturday, October 3, 2026 10:30 AM 1:00 PM Google Calendar ICS Let’s Flip The 49th Canvassing Event!
+When: Saturday September 19th Training @ 10:30am Canvassing @11am Where: JMBC Offices - 1831 3rd Street NE Canton, OH 44704 Previous Previous September 19 Calling All Educators Next Next October 17 Calling All Divine Nine Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

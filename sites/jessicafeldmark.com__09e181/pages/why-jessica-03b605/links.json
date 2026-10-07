@@ -1,12 +1,46 @@
 [
-"https://bsky.app/profile/jessicafeldmark.com",
-"https://facebook.com/JessicaFeldmarkforHowardCounty",
-"https://instagram.com/jessicafeldmark",
-"https://jessicafeldmark.com/",
-"https://jessicafeldmark.com/donate",
-"https://jessicafeldmark.com/endorsements",
-"https://jessicafeldmark.com/get-involved",
-"https://jessicafeldmark.com/meet-jessica",
-"https://jessicafeldmark.com/privacy",
-"https://jessicafeldmark.com/why-jessica"
+{
+"text": "Donate",
+"href": "https://jessicafeldmark.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://jessicafeldmark.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://jessicafeldmark.com/get-involved"
+},
+{
+"text": "Meet Jessica",
+"href": "https://jessicafeldmark.com/meet-jessica/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jessicafeldmark.com/privacy"
+},
+{
+"text": "Why Jessica",
+"href": "https://jessicafeldmark.com/why-jessica/"
+},
+{
+"text": "[image]",
+"href": "https://jessicafeldmark.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jessicafeldmark.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JessicaFeldmarkforHowardCounty/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jessicafeldmark/"
+},
+{
+"text": "info@jessicafeldmark.com",
+"href": "mailto:info@jessicafeldmark.com"
+}
 ]

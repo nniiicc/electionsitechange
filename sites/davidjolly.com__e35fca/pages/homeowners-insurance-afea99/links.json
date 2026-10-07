@@ -1,43 +1,198 @@
 [
-"https://davidjolly.com/",
-"https://davidjolly.com/about",
-"https://davidjolly.com/about-david",
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/contact",
-"https://davidjolly.com/es/homeowners-insurance",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/from-the-trail",
-"https://davidjolly.com/get-involved",
-"https://davidjolly.com/homeowners-insurance/byron-donalds-insurance-plan",
-"https://davidjolly.com/homeowners-insurance/does-florida-already-have-a-catastrophe-fund",
-"https://davidjolly.com/homeowners-insurance/how-the-fund-is-paid-for",
-"https://davidjolly.com/homeowners-insurance/hurricane-tax",
-"https://davidjolly.com/homeowners-insurance/the-study-in-byron-donalds-ad",
-"https://davidjolly.com/homeowners-insurance/will-the-catastrophe-fund-raise-costs",
-"https://davidjolly.com/ht/homeowners-insurance",
-"https://davidjolly.com/issues",
-"https://davidjolly.com/issues/republicans-for-jolly",
-"https://davidjolly.com/media",
-"https://davidjolly.com/meet-gwen",
-"https://davidjolly.com/video",
-"https://davidjolly.com/where-david-stands",
-"https://facebook.com/davidjollyflorida",
-"https://floridaphoenix.com/2026/09/14/republicans-for-jolly-effort-launches-in-st-petersburg",
-"https://instagram.com/davidjollyfl",
-"https://insure.com/home-insurance/home-insurance-calculator-florida",
-"https://sbafla.com/fhcf/AbouttheFHCF.aspx",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://x.com/davidjollyfl",
-"https://youtu.be/swZUI_sHxVM"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "About David Jolly",
+"href": "https://davidjolly.com/about/"
+},
+{
+"text": "Commentary",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "CommentaryJolly Insurance Proposal Facts",
+"href": "https://davidjolly.com/jolly-insurance-proposal-facts/"
+},
+{
+"text": "Contact",
+"href": "https://davidjolly.com/contact/"
+},
+{
+"text": "Does David Jolly want a $1,000 hurricane tax?",
+"href": "https://davidjolly.com/homeowners-insurance/hurricane-tax/"
+},
+{
+"text": "Does Florida already have a hurricane catastrophe fund?",
+"href": "https://davidjolly.com/homeowners-insurance/does-florida-already-have-a-catastrophe-fund/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "ES",
+"href": "https://davidjolly.com/es/homeowners-insurance/"
+},
+{
+"text": "Florida Phoenix",
+"href": "https://floridaphoenix.com/2026/09/14/republicans-for-jolly-effort-launches-in-st-petersburg/"
+},
+{
+"text": "From the Trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/homeowners-insurance/"
+},
+{
+"text": "How the fund is paid for, in detail.",
+"href": "https://davidjolly.com/homeowners-insurance/how-the-fund-is-paid-for/"
+},
+{
+"text": "In depthDoes David Jolly want a $1,000 hurricane tax?",
+"href": "https://davidjolly.com/homeowners-insurance/hurricane-tax/"
+},
+{
+"text": "In depthDoes Florida already have a hurricane catastrophe fund?",
+"href": "https://davidjolly.com/homeowners-insurance/does-florida-already-have-a-catastrophe-fund/"
+},
+{
+"text": "In depthHow would David Jolly's catastrophe fund be paid for?",
+"href": "https://davidjolly.com/homeowners-insurance/how-the-fund-is-paid-for/"
+},
+{
+"text": "In depthWhat is Byron Donalds' plan to lower insurance costs?",
+"href": "https://davidjolly.com/homeowners-insurance/byron-donalds-insurance-plan/"
+},
+{
+"text": "In depthWhat is the study Byron Donalds cites in his hurricane tax ad?",
+"href": "https://davidjolly.com/homeowners-insurance/the-study-in-byron-donalds-ad/"
+},
+{
+"text": "In depthWill David Jolly's catastrophe fund raise costs for Floridians?",
+"href": "https://davidjolly.com/homeowners-insurance/will-the-catastrophe-fund-raise-costs/"
+},
+{
+"text": "Insure.com's Florida homeowners insurance calculator",
+"href": "https://www.insure.com/home-insurance/home-insurance-calculator-florida/"
+},
+{
+"text": "Issues",
+"href": "https://davidjolly.com/issues/"
+},
+{
+"text": "Join the movement",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://davidjolly.com/media/"
+},
+{
+"text": "Meet David",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "Republicans for Jolly",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "Store",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "The 2026 Race",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "Video",
+"href": "https://davidjolly.com/video/"
+},
+{
+"text": "What is Byron Donalds' plan to lower insurance costs?",
+"href": "https://davidjolly.com/homeowners-insurance/byron-donalds-insurance-plan/"
+},
+{
+"text": "What is the study Byron Donalds cites in his hurricane tax ad?",
+"href": "https://davidjolly.com/homeowners-insurance/the-study-in-byron-donalds-ad/"
+},
+{
+"text": "Where David Stands",
+"href": "https://davidjolly.com/where-david-stands/"
+},
+{
+"text": "Will David Jolly's catastrophe fund raise costs for Floridians?",
+"href": "https://davidjolly.com/homeowners-insurance/will-the-catastrophe-fund-raise-costs/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+},
+{
+"text": "the State Board of Administration",
+"href": "https://www.sbafla.com/fhcf/AbouttheFHCF.aspx"
+},
+{
+"text": "video",
+"href": "https://youtu.be/swZUI_sHxVM"
+}
 ]

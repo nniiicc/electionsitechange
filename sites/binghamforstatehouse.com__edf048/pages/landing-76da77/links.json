@@ -1,4 +1,10 @@
 [
-"http://binghamforstatehouse.com/privacy",
-"https://binghamforstatehouse.com/privacy"
+{
+"text": "Privacy Policy / Terms & Conditions",
+"href": "https://binghamforstatehouse.com/privacy"
+},
+{
+"text": "binghamforstatehouse.com/privacy",
+"href": "http://binghamforstatehouse.com/privacy"
+}
 ]

@@ -1,11 +1,9 @@
-by Dale Washburn | Feb 18, 2022 | News
-The House of Representatives returned for the sixth week of the 2022 legislative session on Monday, February 14, 2022.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 6 Legislative Session Recap 2022 by Dale Washburn | Feb 18, 2022 | News The House of Representatives returned for the sixth week of the 2022 legislative session on Monday, February 14, 2022.
 From economic development to protecting our natural environment, my colleagues and I mulled over dozens of bills that would address a wide range of...
-by Dale Washburn | Feb 11, 2022 | News
-Monday, February 7 marked the start of the fifth week of the 2022 legislative session.
+Week 5 Legislative Session Recap 2022 by Dale Washburn | Feb 11, 2022 | News Monday, February 7 marked the start of the fifth week of the 2022 legislative session.
 Each day this week grew increasingly longer as more legislation made its way to the House floor, including the bill for the Amended Fiscal Year (AFY) 2022 budget.
 Not only was this...
-by Dale Washburn | Feb 7, 2022 | Uncategorized
-The Georgia General Assembly is well into the 2022 legislative session, and we resumed our work at the State Capitol on Tuesday, February 1, 2022.
+Week 4 Legislative Session Recap 2022 by Dale Washburn | Feb 7, 2022 | Uncategorized The Georgia General Assembly is well into the 2022 legislative session, and we resumed our work at the State Capitol on Tuesday, February 1, 2022.
 This was our fourth week of session, putting us at more than a quarter of the way through the legislative session.
 While...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

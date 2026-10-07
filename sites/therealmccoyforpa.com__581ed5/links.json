@@ -1,16 +1,78 @@
 [
-"https://bsky.app/profile/therealmccoyforpa.bsky.social",
-"https://facebook.com/therealmccoyforpa",
-"https://instagram.com/therealmccoyforpa",
-"https://secure.actblue.com/donate/calebforpa",
-"https://therealmccoyforpa.com/",
-"https://therealmccoyforpa.com/accessibility-statement",
-"https://therealmccoyforpa.com/endorsements",
-"https://therealmccoyforpa.com/get-involved",
-"https://therealmccoyforpa.com/meet-caleb",
-"https://therealmccoyforpa.com/platform",
-"https://threads.com/@therealmccoyforpa",
-"https://tiktok.com/@the.real.mccoy.fo?_r=1&_t=ZP-93LgcT70I6I",
-"https://vote.pa/",
-"https://wix.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://www.therealmccoyforpa.com/accessibility-statement"
+},
+{
+"text": "Caleb McCoy",
+"href": "https://www.therealmccoyforpa.com"
+},
+{
+"text": "CalebforPA@Gmail.com",
+"href": "mailto:CalebforPA@Gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/calebforpa"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.actblue.com/donate/calebforpa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.therealmccoyforpa.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.therealmccoyforpa.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.therealmccoyforpa.com"
+},
+{
+"text": "Help with the Campaign!",
+"href": "https://www.therealmccoyforpa.com/get-involved"
+},
+{
+"text": "MEET CALEB",
+"href": "https://www.therealmccoyforpa.com/meet-caleb"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.therealmccoyforpa.com/platform"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/therealmccoyforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/therealmccoyforpa/"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@therealmccoyforpa"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@the.real.mccoy.fo?_r=1&_t=ZP-93LgcT70I6I"
+},
+{
+"text": "[image: bluesky-icon]",
+"href": "https://bsky.app/profile/therealmccoyforpa.bsky.social"
+},
+{
+"text": "[image][image][image]",
+"href": "https://vote.pa/"
+},
+{
+"text": "info@TheRealMcCoyforPA.com",
+"href": "mailto:info@TheRealMcCoyforPA.com"
+}
 ]

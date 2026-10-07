@@ -1,7 +1,11 @@
 {
  "description": "Weekly newsletter and blog from State Representative Becca White of Hartford, Vermont.",
  "final_url": "https://www.beccawhitevt.com/updates?offset=1687699491655&reversePaginate=true",
- "paid_for_by": null,
- "title": "Newsletter \u2014 Becca White for Vermont",
- "years_mentioned": []
+ "fingerprint": "93c8e8a724586e2a469b445b96ba1672fd3d626a",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Newsletter — Becca White for Vermont",
+ "years_mentioned": [
+  "2024"
+ ]
 }

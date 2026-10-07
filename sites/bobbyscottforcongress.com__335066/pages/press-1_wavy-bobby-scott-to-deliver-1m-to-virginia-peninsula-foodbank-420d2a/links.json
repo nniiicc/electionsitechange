@@ -1,29 +1,122 @@
 [
-"https://bobbyscott.house.gov/media-center/press-releases/scott-votes-first-fy24-government-funding-bill",
-"https://bobbyscottforcongress.com/",
-"https://bobbyscottforcongress.com/about-bobby",
-"https://bobbyscottforcongress.com/contact",
-"https://bobbyscottforcongress.com/events",
-"https://bobbyscottforcongress.com/photos",
-"https://bobbyscottforcongress.com/press-1",
-"https://bobbyscottforcongress.com/press-1/rep-bobby-scott-submits-comment-on-redistricting-to-virginia-supreme-court",
-"https://bobbyscottforcongress.com/press-1?author=5f4e95a6b4cf975602a78656",
-"https://bobbyscottforcongress.com/search",
-"https://bobbyscottforcongress.com/the-scott-record",
-"https://bobbyscottforcongress.com/volunteer",
-"https://bobbyscottforcongress.com/vote",
-"https://bobbyscottforcongress.com/working-for-us",
-"https://facebook.com/bobbyscottforcongress",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank",
-"https://reddit.com/submit?url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank",
-"https://secure.actblue.com/donate/bobby-scott-3",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank",
-"https://twitter.com/BobbyScott4VA3",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank",
-"https://vademocrats.org/",
-"https://vayd.org/",
-"https://wavy.com/author/kenzie-finch",
-"https://wavy.com/news/local-news/bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank",
-"https://wevoteva.com/"
+{
+"text": "About Bobby",
+"href": "https://www.bobbyscottforcongress.com/about-bobby"
+},
+{
+"text": "Consolidated Appropriations Act for 2024",
+"href": "https://bobbyscott.house.gov/media-center/press-releases/scott-votes-first-fy24-government-funding-bill"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bobbyscottforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "Facebook0",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank"
+},
+{
+"text": "Kenzie Finch",
+"href": "https://www.wavy.com/author/kenzie-finch/"
+},
+{
+"text": "LinkedIn0",
+"href": "https://www.linkedin.com/shareArticle?mini=true&summary=&url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank"
+},
+{
+"text": "News",
+"href": "https://www.bobbyscottforcongress.com/press-1"
+},
+{
+"text": "Next Rep. Bobby Scott Submits Comment on Redistricting to Virginia Supreme Court RCS Campaign AdminDecember 20, 2021",
+"href": "https://www.bobbyscottforcongress.com/press-1/rep-bobby-scott-submits-comment-on-redistricting-to-virginia-supreme-court"
+},
+{
+"text": "Paid for by Bobby Scott for Congress",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Photos",
+"href": "https://www.bobbyscottforcongress.com/photos"
+},
+{
+"text": "RCS Campaign Admin",
+"href": "https://www.bobbyscottforcongress.com/press-1?author=5f4e95a6b4cf975602a78656"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank"
+},
+{
+"text": "The Scott Record",
+"href": "https://www.bobbyscottforcongress.com/the-scott-record"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bobbyscottforcongress.com%2Fpress-1%2Fwavy-bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank&text="
+},
+{
+"text": "VAYD",
+"href": "https://www.vayd.org/"
+},
+{
+"text": "Virginia Dems",
+"href": "https://vademocrats.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bobbyscottforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bobbyscottforcongress.com/vote"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://www.wevoteva.com/"
+},
+{
+"text": "Working For Us",
+"href": "https://www.bobbyscottforcongress.com/working-for-us"
+},
+{
+"text": "[image: Bobby Scott for Congress]",
+"href": "https://www.bobbyscottforcongress.com/"
+},
+{
+"text": "[image: FB_logo_white.png]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "[image: twitter_logo_white.png]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "https://www.wavy.com/news/local-news/bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank/",
+"href": "https://www.wavy.com/news/local-news/bobby-scott-to-deliver-1m-to-virginia-peninsula-foodbank/"
+}
 ]

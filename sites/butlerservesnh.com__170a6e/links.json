@@ -1,10 +1,42 @@
 [
-"http://instagram.com/billielady",
-"https://butlerservesnh.com/",
-"https://butlerservesnh.com/about",
-"https://butlerservesnh.com/blank",
-"https://facebook.com/ButlerBillie",
-"https://gc.nh.gov/house/members/member.aspx?pid=11524",
-"https://secure.actblue.com/donate/billiebutler2026",
-"https://tiktok.com/@butlerbillie"
+{
+"text": "About",
+"href": "https://www.butlerservesnh.com/about"
+},
+{
+"text": "Donate to My Campaign",
+"href": "https://secure.actblue.com/donate/billiebutler2026"
+},
+{
+"text": "Home",
+"href": "https://www.butlerservesnh.com"
+},
+{
+"text": "Review My Complete Voting Record",
+"href": "https://gc.nh.gov/house/members/member.aspx?pid=11524"
+},
+{
+"text": "See My Goals",
+"href": "https://www.butlerservesnh.com#legislative%20platform"
+},
+{
+"text": "Substack",
+"href": "https://www.butlerservesnh.com/blank"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.butlerservesnh.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/billielady"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ButlerBillie"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@butlerbillie"
+}
 ]

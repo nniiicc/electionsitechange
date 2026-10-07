@@ -1,24 +1,94 @@
 [
-"http://instagram.com/lanny.thomas53",
-"http://x.com/lannythomas53",
-"https://facebook.com/LannyThomasForSenate",
-"https://lanny53.com/",
-"https://lanny53.com/about-lanny",
-"https://lanny53.com/cart",
-"https://lanny53.com/contact",
-"https://lanny53.com/district-53",
-"https://lanny53.com/donate",
-"https://lanny53.com/endorsements",
-"https://lanny53.com/get-involved",
-"https://lanny53.com/home",
-"https://lanny53.com/issues",
-"https://lanny53.com/media-kit",
-"https://lanny53.com/voting-information",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=100",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=1000",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=25",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=250",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=50",
-"https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=500"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today/donate?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.lanny53.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lanny53.com/about-lanny"
+},
+{
+"text": "About Lanny",
+"href": "https://www.lanny53.com/about-lanny"
+},
+{
+"text": "Contact",
+"href": "https://www.lanny53.com/contact"
+},
+{
+"text": "District 53",
+"href": "https://www.lanny53.com/district-53"
+},
+{
+"text": "Donate",
+"href": "https://www.lanny53.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lanny53.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lanny53.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lanny53.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.lanny53.com/issues"
+},
+{
+"text": "Lanny Thomas for Senate",
+"href": "https://www.lanny53.com/"
+},
+{
+"text": "Media Kit",
+"href": "https://www.lanny53.com/media-kit"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/committee-to-elect-lanny-thomas-to-state-senate/donate-today"
+},
+{
+"text": "Voting Information",
+"href": "https://www.lanny53.com/voting-information"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lanny.thomas53"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/lannythomas53"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LannyThomasForSenate/"
+}
 ]

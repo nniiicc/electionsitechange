@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Craig Fishbein for State Representative",
  "final_url": "https://www.fishbein4ct.com/home",
- "paid_for_by": null,
+ "fingerprint": "25156cd195be0eccfcec0ddbafaa44de0b8b63ed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Craig Fishbein for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

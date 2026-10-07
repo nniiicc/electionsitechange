@@ -1,4 +1,5 @@
-Hey everyone.
+Help elect Jonathan King — every contribution makes a difference.
+Donate → × Skip to content Vote JJK 4 NH Home About Platform Blog Get Involved Contact HB1125 – NH House Passes Legislation to Double Dip Posted : Mar 7, 2026 in : House Bills , House of Representatives by : JJK Tags : BCSS , Bureau of Child Support Services , HB1125 Hey everyone.
 Your friendly neighborhood candidate hopeful for Strafford District 6.
 When I develop a passion, I want to dig in and learn as much as I can.
 In that vein, I figured I would meander over to YouTube and check in on the NH House of Representatives and get a glimpse of how they conduct business.
@@ -17,24 +18,21 @@ So, here’s the majority’s rationale: the worksheet.
 Lines 5A – 5G show the deductions.
 Their claim is that because social security and medicare deductions aren’t here, the obligor is paying it out of their net income, but this isn’t being recognized from the gross deductions on the sheet.
 Because of this, they want to include an area where it shows this deduction.
-The net result is that line 6 will become less, meaning a lesser amount would be going to the main benefactor of this agreement, the child(ren)
-Now…why do I agree with the dissenting opinion?
-TITLE XLIII
-DOMESTIC RELATIONS
-CHAPTER 458-C
-CHILD SUPPORT GUIDELINES,
-Section 458-C:2
-“”Net Income” means the parents’ combined adjusted gross income less standard deductions published on an annual basis by the department of health and human services and based on federal Internal Revenue Service withholding table amounts for federal income tax, F.I.C.A., and Medicare, which an employer withholds from the monthly income of a single person who has claimed a withholding allowance for 2 people”
-This section comes AFTER the table you need to use to look up the deductions.
-The legislation can be found at https://legiscan.com/NH/bill/HB1225/2026, the text can be found here: https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2156&txtFormat=html, and was sponsored by:
-| Rep.
-Jay Markell [R] | Rep.
-Mary Georges [D] | Rep.
-Jodi Nelson [R] | Rep.
-Mark Pearson [R] |
-| Rep.
-Kimberly Rice [R] | | | |
-So, the Bureau of Child Support Services has explicitly stated in their paperwork that F.I.C.A. taxes are deducted, and now we have an additional round of F.I.C.A. deductions happening at the worksheet level as well.
+The net result is that line 6 will become less, meaning a lesser amount would be going to the main benefactor of this agreement, the child(ren) https:www.courts.nh.gov:sites:g:files:ehbemt471:files:documents:2021-04:nhjb-2101-fp Download Now…why do I agree with the dissenting opinion?
+TITLE XLIII DOMESTIC RELATIONS CHAPTER 458-C CHILD SUPPORT GUIDELINES , Section 458-C:2 “”Net Income” means the parents’ combined adjusted gross income less standard deductions published on an annual basis by the department of health and human services and based on federal Internal Revenue Service withholding table amounts for federal income tax, F.I.C.A., and Medicare, which an employer withholds from the monthly income of a single person who has claimed a withholding allowance for 2 people” This section comes AFTER the table you need to use to look up the deductions.
+The legislation can be found at https://legiscan.com/NH/bill/HB1225/2026 , the text can be found here: https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2156&txtFormat=html , and was sponsored by: Rep.
+Jay Markell [R] Rep.
+Mary Geor g es [D] Rep.
+Jodi Nelson [R] Rep.
+Mark Pearson [R] Rep.
+Kimberly Rice [R] So, the Bureau of Child Support Services has explicitly stated in their paperwork that F.I.C.A. taxes are deducted, and now we have an additional round of F.I.C.A. deductions happening at the worksheet level as well.
 The end result is that the children of New Hampshire are losing out on vital funding, in a day and age where things are only getting more expensive.
 It’s really a shame the committee didn’t do its due diligence here.
 Hopefully there will be further legislation to remove this calculation from the BCSS paperwork to correct this imbalance.
+Next: NHGOP Openly Admits to Lying to People → Comments Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Vote JJK 4 NH Jonathan J King, running for values, integrity, and returning the human experience back to Concord, New Hampshire.
+Contact Info Strafford District 19 Rochester, NH Wards 1,2,3,4,6 [email protected] (339) 203-9362 Twitter VoteJJK4NH Threads Instagram Popular Link Donation Join Page Volunteering Events Recent News New Hampshire Cannabis Legalization Opposition Arguments Fall Apart June 14, 2026 Property Tax Caps New Hampshire: Do They Address Rising Costs?
+June 13, 2026 © # Vote JJK 4 NH .
+All Rights Reserved Paid for by Jonathan J.
+King.
+Scroll To Top

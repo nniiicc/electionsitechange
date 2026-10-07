@@ -1,11 +1,6 @@
-Back to All Events
-Hosted by Tom Saviello and Darryl Wood
-Join us to meet Rick Bennett at Farmington for a candid conversation about the future of our state and the work ahead to make life more affordable for Maine families.
-RSVP here
-Previous
-Previous
-July 25
-Meet Rick in Damariscotta
-Next
-Next
-August 3
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Meet Rick in Farmington Thursday, July 30, 2026 4:00 PM 5:30 PM Google Calendar ICS Hosted by Tom Saviello and Darryl Wood Join us to meet Rick Bennett at Farmington for a candid conversation about the future of our state and the work ahead to make life more affordable for Maine families.
+RSVP here Previous Previous July 25 Meet Rick in Damariscotta Next Next August 3 Meet Rick in Saco Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

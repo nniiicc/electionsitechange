@@ -1,15 +1,82 @@
 [
-"https://chelliepingree.com/",
-"https://chelliepingree.com/meet-chellie-pingree",
-"https://chelliepingree.com/privacy-policy",
-"https://chelliepingree.com/volunteer",
-"https://facebook.com/PingreeForCongress",
-"https://instagram.com/chelliepingree",
-"https://secure.actblue.com/donate/cp-web-fr",
-"https://secure.actblue.com/donate/cp-web-fr?amount=15",
-"https://secure.actblue.com/donate/cp-web-fr?amount=150",
-"https://secure.actblue.com/donate/cp-web-fr?amount=250",
-"https://secure.actblue.com/donate/cp-web-fr?amount=40",
-"https://secure.actblue.com/donate/cp-web-fr?amount=75",
-"https://threads.com/@chelliepingree"
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/cp-web-fr?amount=15"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/cp-web-fr?amount=150"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cp-web-fr?amount=250"
+},
+{
+"text": "$40",
+"href": "https://secure.actblue.com/donate/cp-web-fr?amount=40"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/cp-web-fr?amount=75"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cp-web-fr"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/cp-web-fr"
+},
+{
+"text": "Donate Via Actblue",
+"href": "https://secure.actblue.com/donate/cp-web-fr"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/PingreeForCongress"
+},
+{
+"text": "Home",
+"href": "https://chelliepingree.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chelliepingree/"
+},
+{
+"text": "Meet Chellie",
+"href": "https://chelliepingree.com/meet-chellie-pingree/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/cp-web-fr"
+},
+{
+"text": "Privacy policy",
+"href": "https://chelliepingree.com/privacy-policy/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@chelliepingree"
+},
+{
+"text": "Volunteer",
+"href": "https://chelliepingree.com/volunteer/"
+},
+{
+"text": "[image: Chellie Pingree for Congress]",
+"href": "https://chelliepingree.com"
+},
+{
+"text": "[image]",
+"href": "https://chelliepingree.com"
+},
+{
+"text": "campaign@pingreeforcongress.com",
+"href": "mailto:campaign@pingreeforcongress.com"
+},
+{
+"text": "© Copyright #. All Rights Reserved. Privacy Policy.",
+"href": "https://chelliepingree.com/privacy-policy/"
+}
 ]

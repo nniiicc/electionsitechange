@@ -1,7 +1,9 @@
 {
  "description": "A high-impact, immersive digital platform for political mobilization, featuring policy manifestos, streamlined donation pathways, and grassroots action tools for the Alaskan community.",
  "final_url": "https://ryanforalaska.com/",
- "paid_for_by": null,
+ "fingerprint": "bb8bbff92c2aea49cfcdc5ab28498a442b29b86b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ryan for Alaska Campaign Hub",
  "years_mentioned": []
 }

@@ -1,5 +1,4 @@
-Embedded Files
-Hello.
+Search this site Embedded Files Skip to main content Skip to navigation Tiara 4 Utah My Path Donate My Positions Contact Me Tiara 4 Utah My Path Donate My Positions Contact Me More My Path Donate My Positions Contact Me Tiara Auxier Utah House of Representatives District 4 Hello.
 My name is Tiara Auxier.
 I am a strong voice for our shared conservative values in House District 4.
 I’m committed to education, not indoctrination.
@@ -9,7 +8,7 @@ Fiscal responsibility, cutting wasteful spending, and opposing tax hikes are ess
 As an accountant, I fully understand the power of a spending cap, and will make it a priority.
 It is the only way to bring about the results we all want to see.
 Let's defend what makes Utah great!
-My name is Tiara Auxier and I am deeply proud to call Utah home.
+Session Updates My name is Tiara Auxier and I am deeply proud to call Utah home.
 From a young age, I’ve been a passionate student of history, government, and the enduring qualities of our beloved country.
 Understanding our past has made me even more committed to our nation’s foundational values—values like hard work, integrity, and personal responsibility.
 We must continue to honor the sacrifice and vision of those who came before us.
@@ -25,7 +24,4 @@ I am serving to protect our state, our communities, and our families.
 The future depends on leaders with a strong voice who are willing to stand firm for conservative values, and protect the freedom to practice and live our religious beliefs.
 I will continue to stand up for what’s right, even when it’s unpopular, and feel honored to continue my family’s tradition of patriotism and public service in Utah.
 Together, we can preserve what makes our state and nation exceptional.
-Tiara Auxier - House District #4
-Page updated
-Google Sites
-Report abuse
+Tiara Auxier - House District #4 Stay In Touch Phone: 801-875-7836 Email: tiaraforutah@gmail.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

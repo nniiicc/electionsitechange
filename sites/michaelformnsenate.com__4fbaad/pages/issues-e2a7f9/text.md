@@ -1,40 +1,12 @@
-Senator Kreun
-on the Issues
-Investigating and
-Preventing Fraud
-Minnesotans demand accountability for the massive fraud that has swept Minnesota government.
+top of page About Issues Endorsements Contribute Contact Media DONATE Senator Kreun on the Issues Investigating and Preventing Fraud Minnesotans demand accountability for the massive fraud that has swept Minnesota government.
 Thieves are getting rich while regular Minnesotans foot the bill.
-With at least $9 billion of money stolen from the taxpayers, it is imperative to hold fraudulent businesses accountable and prevent future abuses of taxpayer money.
-To fight against fraud, Senator Kreun was the chief Republican author of the legislation establishing a statewide Office of Inspector General that will be the taxpayers' watchdog.
-Senator Kreun also authored several fraud prevention bills, which included:
-- Increased whistleblower protections for state employees who report fraud
-- Increased penalties for state employees who fail to report fraud
-- Removing welfare programs from "auto-pilot" increases by requiring automatic audits when these programs go over budget by 5%, and halt funding when they go over 10% so that the legislature is accountable to ensure that programs are not rife with fraud
-- Imposing a 100% excise tax on fraudulently obtained funds
-- Increasing the statutes of limitations on theft of public funds to allow for prosecutions of fraud
-Increasing Affordability
-for Minnesota Residents
-As the cost of living continues to rise, Minnesota residents are not able to experience the same life as their parents.
-Our state leaders need to prioritize strengthening the economic opportunities of its residents and ensuring that the government operates efficiently.
-To increase affordability, Senator Kreun was the author of a bill that would impose a cap on property taxes to no greater than the rate of inflation.
-Senator Kreun authored bills and will continue to fight for legislation that:
-- Reduces property taxes
-- Slashes vehicle registration fee by 50%
-- Eliminates state taxes on social security benefits
-- Ends state taxes on tips and overtime
-Promoting Academic Excellence in Our Schools
-Minnesota schools have some of the finest educational opportunities in the United States.
-Recent concerns regarding teacher support, classroom discipline, and school safety have highlighted education in state and national debates.
-As a former school board member, Senator Kreun understands the challenges facing our students and has promoted high academic achievement in our schools his entire time in office.
-To promote academic excellence, Senator Kreun will:
-- Support strong academic standards and assessments in schools
-- Support local control of school boards to decide on school budgets and curriculum
-- Support safe learning environments by empowering schools to remove disruptive students
-- Support collaboration between teachers and parents to foster a strong academic partnership
-Supporting Law Enforcement to Ensure Public Safety
-Strong law enforcement is a key component in keeping our communities safe.
-Support for local police includes ensuring that necessary reforms are carried out to promote the general welfare of residents and upholding the authority of law enforcement to effectively enforce the law.
-To support law enforcement, Senator Kreun will:
-- Support the repeal of the Minnesota Rehabilitation and Reinvestment Act that allows incarcerated persons to serve only half their sentence and be released early
-- Support law enforcement, firefighters, first responders, and school resource officers
-- Support stricter penalties for citizens who break the law
+With at least $9 billion of money stolen from the taxpayers, it is imperative to hold fraudulent businesses accountable and prevent future abuses of taxpayer money. ​ ​ To fight against fraud, Senator Kreun was the chief Republican author of the legislation establishing a statewide Office of Inspector General that will be the taxpayers' watchdog.
+Senator Kreun also authored several fraud prevention bills, which included: ​ ​ ​ Increased whistleblower protections for state employees who report fraud Increased penalties for state employees who fail to report fraud Removing welfare programs from "auto-pilot" increases by requiring automatic audits when these programs go over budget by 5%, and halt funding when they go over 10% so that the legislature is accountable to ensure that programs are not rife with fraud Imposing a 100% excise tax on fraudulently obtained funds Increasing the statutes of limitations on theft of public funds to allow for prosecutions of fraud Increasing Affordability for Minnesota Residents As the cost of living continues to rise, Minnesota residents are not able to experience the same life as their parents.
+Our state leaders need to prioritize strengthening the economic opportunities of its residents and ensuring that the government operates efficiently. ​ To increase affordability, Senator Kreun was the author of a bill that would impose a cap on property taxes to no greater than the rate of inflation.
+Senator Kreun authored bills and will continue to fight for legislation that:​ ​ Reduces property taxes Slashes vehicle registration fee by 50% Eliminates state taxes on social security benefits Ends state taxes on tips and overtime Promoting Academic Excellence in Our Schools Minnesota schools have some of the finest educational opportunities in the United States.
+Recent concerns regarding teacher support, classroom discipline, and school safety have highlighted education in state and national debates. ​ As a former school board member, Senator Kreun understands the challenges facing our students and has promoted high academic achievement in our schools his entire time in office.
+To promote academic excellence, Senator Kreun will:​ ​ Support strong academic standards and assessments in schools Support local control of school boards to decide on school budgets and curriculum Support safe learning environments by empowering schools to remove disruptive students Support collaboration between teachers and parents to foster a strong academic partnership Supporting Law Enforcement to Ensure Public Safety Strong law enforcement is a key component in keeping our communities safe.
+Support for local police includes ensuring that necessary reforms are carried out to promote the general welfare of residents and upholding the authority of law enforcement to effectively enforce the law. ​ To support law enforcement, Senator Kreun will: Support the repeal of the Minnesota Rehabilitation and Reinvestment Act that allows incarcerated persons to serve only half their sentence and be released early Support law enforcement, firefighters, first responders, and school resource officers Support stricter penalties for citizens who break the law Prepared and paid for by Campaign Fund of Michael Kreun P.O.
+Box 490311 Blaine, MN 55449 ​ www.MichaelForMNSenate.com ​ 2026 Michael Kreun for MN Senate.
+All Rights Reserved.
+PRIVACY POLICY TERMS & CONDITIONS bottom of page

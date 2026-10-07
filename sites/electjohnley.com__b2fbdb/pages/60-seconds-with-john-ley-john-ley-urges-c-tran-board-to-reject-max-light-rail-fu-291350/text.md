@@ -1,10 +1,9 @@
-In a recent meeting, John Ley of Clark County addressed the C-TRAN Board, raising concerns about the proposed funding for the operations and maintenance of Portland’s MAX light rail as part of the Interstate Bridge Replacement (IBR) project.
+Home News Latest News 60 Seconds With John Ley About Me Donate 60 Seconds With John Ley Issues 60 Seconds with John Ley • John Ley Urges C-TRAN Board to Reject MAX Light Rail Funding July 25, 2024 by John Ley In a recent meeting, John Ley of Clark County addressed the C-TRAN Board, raising concerns about the proposed funding for the operations and maintenance of Portland’s MAX light rail as part of the Interstate Bridge Replacement (IBR) project.
 Ley questioned the board’s stance on taxing Clark County citizens for the light rail project, citing County Counselor Temple Lentz’s defense of local taxpayers.
 He highlighted TriMet’s demand for new taxes from both sides of the Columbia River and criticized the IBR team’s ridership projections as unrealistic, given the declining C-TRAN ridership over the past decade.
 Ley urged the board to reject the IBR proposal, emphasizing the voters’ consistent rejection of light rail and tolls.
 He advocated for bus rapid transit (BRT) as a more cost-effective and efficient alternative.
-Video transcript
-Good evening, board members.
+Video transcript Good evening, board members.
 John Ley, Clark County.
 Members of the C-TRAN Board, do you believe in having Clark County citizens paying taxes for the operations and maintenance of Portland’s MAX light rail?
 Many of you have supposedly said no way that you would support this as part of the Interstate Bridge Replacement project.
@@ -35,4 +34,8 @@ Clark County citizens or the special interests pushing light rail.
 Don’t forget, this resolution also supports the double tolls people will have to pay for driving I-5 and crossing the replacement bridge into Oregon.
 The voters have rejected tolls as well.
 Please support the people of Clark County.
-Thank you very much.
+Thank you very much. bus rapid transit C-TRAN Board Clark County Elect John Ley IBR Interstate Bridge Replacement John Ley MAX Light Rail MAX light rail extension operations and maintenance ridership projections taxes Tolls TriMet Vancouver voter rejection Washington State by John Ley previous Ley asks C-Tran Board to reject Interstate Bridge Replacement proposal next John Ley Discusses the Controversial Interstate Bridge Project on The Lars Larson Show Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

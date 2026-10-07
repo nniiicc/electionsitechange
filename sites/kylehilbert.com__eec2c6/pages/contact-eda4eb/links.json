@@ -1,9 +1,58 @@
 [
-"https://facebook.com/HilbertForTheHouse",
-"https://kylehilbert.com/",
-"https://kylehilbert.com/contact",
-"https://kylehilbert.com/privacy-policy",
-"https://kylehilbert.com/terms-and-conditions",
-"https://secure.anedot.com/friends-of-kyle-hilbert-2024/donate",
-"https://x.com/kylehilbert?s=20"
+{
+"text": "CONTACT",
+"href": "https://kylehilbert.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-kyle-hilbert-2024/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/HilbertForTheHouse/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://kylehilbert.com/contact/"
+},
+{
+"text": "HOME",
+"href": "https://kylehilbert.com/"
+},
+{
+"text": "Kyle Hilbert for State Representative",
+"href": "https://kylehilbert.com/privacy-policy/"
+},
+{
+"text": "MEET KYLE",
+"href": "https://kylehilbert.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://kylehilbert.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kylehilbert.com/privacy-policy"
+},
+{
+"text": "RESULTS",
+"href": "https://kylehilbert.com/#results"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://kylehilbert.com/terms-and-conditions/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://kylehilbert.com/terms-and-conditions"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/kylehilbert?s=20"
+},
+{
+"text": "[image]",
+"href": "https://kylehilbert.com"
+}
 ]

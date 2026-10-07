@@ -1,14 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Davis+County%3A+Let%27s+Talk&dates=20260422T010000Z%2F20260422T021500Z&location=140+Center+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States",
-"http://maps.google.com/?q=140+Center+Street+Clearfield%2C+UT%2C+84015+United+States",
-"https://secure.actblue.com/donate/youngforhouse",
-"https://youngforhouse.com/",
-"https://youngforhouse.com/cart",
-"https://youngforhouse.com/contact",
-"https://youngforhouse.com/donate",
-"https://youngforhouse.com/events",
-"https://youngforhouse.com/events/davis-county-lets-talk?format=ical",
-"https://youngforhouse.com/events/davis-derby-gala",
-"https://youngforhouse.com/events/how-to-win-in-northern-utah",
-"https://youngforhouse.com/faq"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=140+center+street+clearfield%2C+ut%2C+84015+united+states"
+},
+{
+"text": "0",
+"href": "https://www.youngforhouse.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.youngforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/youngforhouse"
+},
+{
+"text": "Donate",
+"href": "https://www.youngforhouse.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.youngforhouse.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Davis+County%3A+Let%27s+Talk&dates=20260422T010000Z%2F20260422T021500Z&location=140+Center+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk?format=ical"
+},
+{
+"text": "Next Next April 22 How to Win in Northern Utah",
+"href": "https://www.youngforhouse.com/events/how-to-win-in-northern-utah"
+},
+{
+"text": "Previous Previous April 10 Davis Derby Gala",
+"href": "https://www.youngforhouse.com/events/davis-derby-gala"
+},
+{
+"text": "[image: Brandon Young for Utah House of Representatives]",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bydirector"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577546979131"
+}
 ]

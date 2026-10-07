@@ -1,9 +1,12 @@
 {
  "description": "Official campaign website for David Johnson for Assembly District 23",
  "final_url": "https://davidjohnsonad23.com/",
- "paid_for_by": null,
+ "fingerprint": "958928e57261fd3b6f0fd8464c6427c263a64e93",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Johnson for Assembly District 23",
  "years_mentioned": [
+  "1994",
   "2010"
  ]
 }

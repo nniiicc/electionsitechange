@@ -1,14 +1,50 @@
 [
-"https://facebook.com/senatornelliepou",
-"https://instagram.com/nelliepounj",
-"https://kineticstrategies.us/",
-"https://nelliepoufornewjersey.com/",
-"https://nelliepoufornewjersey.com/cdn-cgi/l/email-protection",
-"https://nelliepoufornewjersey.com/donate",
-"https://nelliepoufornewjersey.com/endorsements",
-"https://nelliepoufornewjersey.com/media",
-"https://nelliepoufornewjersey.com/meet-nellie",
-"https://nelliepoufornewjersey.com/nellies-priorities",
-"https://nelliepoufornewjersey.com/privacy-policy",
-"https://x.com/NelliePou"
+{
+"text": "Donate",
+"href": "https://nelliepoufornewjersey.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://nelliepoufornewjersey.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/senatornelliepou"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nelliepounj"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "Media",
+"href": "https://nelliepoufornewjersey.com/media/"
+},
+{
+"text": "Meet Nellie",
+"href": "https://nelliepoufornewjersey.com/meet-nellie/"
+},
+{
+"text": "Nellie’s Priorities",
+"href": "https://nelliepoufornewjersey.com/nellies-priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nelliepoufornewjersey.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/NelliePou"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@nelliepoufornewjersey.com"
+},
+{
+"text": "[image]",
+"href": "https://nelliepoufornewjersey.com"
+}
 ]

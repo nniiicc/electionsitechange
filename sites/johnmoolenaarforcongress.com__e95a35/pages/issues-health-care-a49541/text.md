@@ -1,4 +1,4 @@
-There is no question that America is a global leader in health care from breakthrough medical devices, to novel new cancer treatments, and everything in between.
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE There is no question that America is a global leader in health care from breakthrough medical devices, to novel new cancer treatments, and everything in between.
 However, the future of health care in America has been put at risk by proposals that would put your health care in the hands of Washington bureaucrats.
 A single-payer, Medicare for All approach is not the answer.
 I believe health care decisions should remain between patients and their doctors, not government bureaucrats.
@@ -9,3 +9,4 @@ Many have lost family members to these horrible diseases and it is my hope that 
 I supported Right-To-Try legislation that President Trump signed into law.
 This legislation offers hope for terminal patients and allows them to try experimental treatments instead of waiting for years for bureaucrats to approve new drugs.
 We can accomplish the kind of health care reform the American people want without having a government takeover of our system and without forcing citizens into a one-size-fits-all healthcare system.
+DONATE Paid for by Moolenaar for Congress Privacy Policy

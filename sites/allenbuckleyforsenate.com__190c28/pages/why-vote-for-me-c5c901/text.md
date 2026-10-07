@@ -1,4 +1,7 @@
-“You shall reap what you sow.” Elect people who won’t do anything about the problems, and nothing will be done about the problems, and least not by those so elected.
+Skip to content Donate Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Allen Buckley for U.S.
+Senate Let's buck the system!
+Donate Donate About Me Ballot Access Home Media Inquires Participate Press Releases Why Vote For Me All Solutions and Positions Environmental Protection Fix the Finances Immigration Reform Proposal Reduce Healthcare Costs Rein in the Executive Branch Why Vote For Me “You shall reap what you sow.” Elect people who won’t do anything about the problems, and nothing will be done about the problems, and least not by those so elected.
 Jon Ossoff, the incumbent, is an intelligent and (from what I can tell) good man.
 I once attended a speech he gave in Cobb County, shortly after he was elected.
 I recall him saying his job was (solely) to help people in Georgia get their local needs met.
@@ -7,10 +10,10 @@ While helping people is good, I think healthy people need to take care of themse
 Helping with a local need can potentially be part of the job.
 He has not drafted or supported bills dealing with the major issues discussed on this website.
 Thus, it’s unlikely that he’ll ever do so.
-The Republican candidate, whoever it might turn out to be, will be a MAGA candidate.
+Pros and Cons of Joe Biden The Republican candidate, whoever it might turn out to be, will be a MAGA candidate.
 That person will be a live for today (i.e., prosperity now/don’t consider the future) Trump loyalist.
 My list of Trump pros and cons follows, along with an article by former Treasury Secretary Rubin regarding the Trump Administration.
-I think the job of an effective United States senator is much more difficult than the major party candidates see it.
+Pros and Cons of Donald Trump Robert Rubin’s WSJ Article on Trump I think the job of an effective United States senator is much more difficult than the major party candidates see it.
 I believe we need to head back towards our roots, in terms of personal responsibility and reliance on self and family.
 Our financial problems are our largest problems and, unlike the two major party candidates, I propose workable solutions thereto.
 I think government is meant to be a means of doing things together as a country that we cannot practically do personally, with annual funding (through taxes) to cover the annual costs.
@@ -26,3 +29,5 @@ Consider health care.
 Both have sold out to providers and insurers.
 So, nothing significant can or does get done.
 If the barrel only has bad apples, one must look outside the barrel to possibly find a good apple.
+Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Authorized by Buckley 2026 LLC Scroll to Top

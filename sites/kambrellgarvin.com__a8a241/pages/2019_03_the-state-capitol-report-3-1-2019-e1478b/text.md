@@ -1,4 +1,4 @@
-The House of Representatives concurred in Senate amendments to H.3849 and enrolled the legislation for ratification.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 3/1/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 3/1/2019 Uncategorized The House of Representatives concurred in Senate amendments to H.3849 and enrolled the legislation for ratification.
 The joint resolution provides a GRACE PERIOD ON THE ENFORCEMENT OF THE NEW CIGARETTE STAMP TAX REQUIREMENTS, running through October 1, 2019, to afford sellers additional time to deplete their remaining inventories of unstamped packages of cigarettes.
 In order to take advantage of this grace period, a report on the amounts of these remaining unstamped packages of cigarettes must be filed with the Department of Revenue by March 31.
 The House amended, approved, and sent the Senate H.3438, a bill making provisions for the DEPARTMENT OF VETERANS AFFAIRS within the executive branch of government.
@@ -42,4 +42,6 @@ The legislation addresses governance following the merger, makes provisions to e
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 2/15/19 The State Capitol Report – 3/8/2019 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

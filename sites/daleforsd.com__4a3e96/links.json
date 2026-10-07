@@ -1,8 +1,26 @@
 [
-"https://daleforsd.com/",
-"https://daleforsd.com/about",
-"https://daleforsd.com/cart",
-"https://daleforsd.com/contact",
-"https://secure.anedot.com/friends-of-dale-bartscher/support-dale",
-"https://vip.sdsos.gov/VIPLogin.aspx"
+{
+"text": "0",
+"href": "https://www.daleforsd.com/cart"
+},
+{
+"text": "CONTACT ME",
+"href": "https://www.daleforsd.com/contact"
+},
+{
+"text": "Click here to learn more about me!",
+"href": "https://www.daleforsd.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-dale-bartscher/support-dale"
+},
+{
+"text": "Find Your District!",
+"href": "https://vip.sdsos.gov/VIPLogin.aspx"
+},
+{
+"text": "[image: Dale for South Dakota]",
+"href": "https://www.daleforsd.com/"
+}
 ]

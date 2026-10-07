@@ -1,14 +1,3 @@
-Home
-About
-Issues
-News
-Events
-Dropbox Information
-Get Involved
-Supporters
-Store
-Blogs
-More
-Results:
-Murder and violent crime rates are down sharply nationwide since support for law enforcement was restored.
-Action: Fentanyl deaths are finally declining as Michael approved the HALT Fentanyl Act to crack down on deadly trafficking.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE Curbing Violent Crime Results: Murder and violent crime rates are down sharply nationwide since support for law enforcement was restored.
+Action: Fentanyl deaths are finally declining as Michael approved the HALT Fentanyl Act to crack down on deadly trafficking.​ Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

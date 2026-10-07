@@ -1,17 +1,66 @@
 [
-"https://facebook.com/sarita.edgerton.for.sc",
-"https://instagram.com/ritaedge",
-"https://saritaforsc.com/",
-"https://saritaforsc.com/about-us",
-"https://saritaforsc.com/cdn-cgi/l/email-protection",
-"https://saritaforsc.com/contact-us",
-"https://saritaforsc.com/donate",
-"https://saritaforsc.com/endorsements",
-"https://saritaforsc.com/home",
-"https://saritaforsc.com/issues",
-"https://saritaforsc.com/newsletter",
-"https://saritaforsc.com/privacy-policy",
-"https://saritaforsc.com/terms-conditions",
-"https://secure.anedot.com/sarita-for-sc/donate",
-"https://x.com/lonetater"
+{
+"text": "About",
+"href": "https://saritaforsc.com/about-us"
+},
+{
+"text": "Contact",
+"href": "https://saritaforsc.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/sarita-for-sc/donate"
+},
+{
+"text": "Donate",
+"href": "https://saritaforsc.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://saritaforsc.com/endorsements"
+},
+{
+"text": "Get Updates",
+"href": "https://saritaforsc.com/newsletter"
+},
+{
+"text": "Home",
+"href": "https://saritaforsc.com/home"
+},
+{
+"text": "Newsletter",
+"href": "https://saritaforsc.com/newsletter"
+},
+{
+"text": "Privacy Policy",
+"href": "https://saritaforsc.com/privacy-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://saritaforsc.com/terms-conditions/"
+},
+{
+"text": "The Issues",
+"href": "https://saritaforsc.com/issues"
+},
+{
+"text": "[email protected]",
+"href": "https://saritaforsc.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/sarita.edgerton.for.sc"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.instagram.com/ritaedge/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://x.com/lonetater"
+},
+{
+"text": "[image]",
+"href": "https://saritaforsc.com/"
+}
 ]

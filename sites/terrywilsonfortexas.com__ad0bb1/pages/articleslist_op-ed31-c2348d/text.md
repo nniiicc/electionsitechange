@@ -1,12 +1,11 @@
-Few topics energize Texans as much as education.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements March 1, 2025 Jeff Frazier Op-Ed #31 Education Funding “The Rest of the Story” : Part 1 March 1, 2025 Jeff Frazier Few topics energize Texans as much as education.
 From our earliest days of revolution, when Texian settlers fought for a public education system, to today's debate over education savings accounts, how our government funds and provides education provokes high interest and emotion.
 It is no wonder this is the case, as education is the lynchpin of a continued free society.
 But it is precisely when a topic burns so brightly that we must take a step back and allow cooler heads to prevail.
 Finding real solutions to complex problems requires putting aside divisive rhetoric and retaliatory politics and getting down to brass tacks.
 One local example came recently from Leander ISD, which recently announced a revenue shortfall for the coming 2025-2026 school year budget.
 The proposed solution is program and personnel cuts that directly affect students, resulting in a flurry of accusations regarding the exact cause of the district’s projected shortfall.
-The district placed blame on the Texas Legislature, claiming in their announcement that the State of Texas “has not increased school funding since 2019—despite rising operational costs… Like many school districts, not only Leander ISD, but our families, likewise, are experiencing a 22% rise in inflation.”
-Likewise, accusations have come from activists claiming that school districts across the state, LISD included, have mismanaged funds by prioritizing bureaucracy over students by hiring administrative staff instead of teachers.
+The district placed blame on the Texas Legislature, claiming in their announcement that the State of Texas “has not increased school funding since 2019—despite rising operational costs… Like many school districts, not only Leander ISD, but our families, likewise, are experiencing a 22% rise in inflation.” Likewise, accusations have come from activists claiming that school districts across the state, LISD included, have mismanaged funds by prioritizing bureaucracy over students by hiring administrative staff instead of teachers.
 Let’s set the rhetoric aside and look at the facts.
 LISD’s claim is based on the Basic Allotment, a basic starting amount of funding Texas guarantees school districts for every student in attendance.
 They are correct that the Basic Allotment has not increased since 2019, but the Basic Allotment is only the first piece of the school funding formula and only represents a portion of their total funding.
@@ -36,3 +35,15 @@ Lives of teachers, students, and families are disrupted, and students lose acces
 I would encourage LISD to reach out to their legislators more often and directly.
 When the legislators, who set state budgets, hear from a school district about budget problems via press releases and YouTube videos, that does not suggest that the school district is interested in a healthy working relationship.
 I look forward to working with LISD, the Texas Legislature, and Governor Abbott over the rest of the 89th Legislative Session to not only ensure Texas fulfils our duty to provide for quality education for our students, but to also work to rebuild the trust and confidence between those who provide for public education and those who provide the education itself.
+March 1, 2025 Jeff Frazier Jeff Frazier Op-Ed #30 The Broken Republican Caucus Op-Ed #29 Defense & Veterans’ Affairs Chairman Sets the Record Straight on the Border Defense Unit Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

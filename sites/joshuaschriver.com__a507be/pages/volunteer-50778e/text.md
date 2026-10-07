@@ -1,2 +1,1 @@
-Paid for by Josh Schriver for State Representative — PO Box 451 Oxford, MI 48371
-Privacy Policy© 2026 Josh Schriver for State RepresentativeVoteSchriver@gmail.comDesigned by More Digital
+Josh Schriver State Representative (MI-66) Home Volunteer Yard Sign Donate Volunteer Loading… District Map Paid for by Josh Schriver for State Representative — PO Box 451 Oxford, MI 48371 Privacy Policy © 2026 Josh Schriver for State Representative VoteSchriver@gmail.com Designed by More Digital

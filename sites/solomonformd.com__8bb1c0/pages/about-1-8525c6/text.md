@@ -1,5 +1,4 @@
-Jared’s Record of Success
-Jared Solomon is a former public high school teacher, policy leader, and activist who has served two terms in the Maryland House of Delegates.
+0 Skip to Content About Endorsements Vote Join Our Team Contact DONATE Open Menu Close Menu About Endorsements Vote Join Our Team Contact DONATE Open Menu Close Menu About Endorsements Vote Join Our Team Contact DONATE Jared’s Record of Success Jared Solomon is a former public high school teacher, policy leader, and activist who has served two terms in the Maryland House of Delegates.
 He is one of three Delegates representing District 18 in the Maryland General Assembly.
 Jared serves as the Chair of the Personnel Subcommittee of the House Government Operations, Labor, and Elections Committee, he serves as House Chair of the Joint Audit and Evaluation Committee and the Co-Chair of the Maryland Legislative Jewish Caucus.
 Over the last eight years, Jared has been an effective advocate and a critical voice for Maryland, authoring nearly 60 bills that became law, including significant legislation to protect our kids online, support people with disabilities, and keep our public employees safe.
@@ -19,7 +18,8 @@ Public Schools, where he saw firsthand how policy decisions affect students ever
 That experience led him to focus on improving federal public policy, serving as a Policy Advisor to U.S.
 Senator Bob Casey (D-PA) and working at First Focus, a bipartisan national children’s advocacy organization.
 Jared remains active in local nonprofit organizations, serving on the board of the Jubilee Association of Maryland.
-In 2024, Jared was appointed by the Biden Administration to serve on the National Assessment Governing Board, which oversees the National Assessment of Educational Progress, also known as the “Nation’s Report Card.”
-Jared graduated from the University of Pittsburgh and received his Master of Arts in Teaching from Johns Hopkins University.
+In 2024, Jared was appointed by the Biden Administration to serve on the National Assessment Governing Board, which oversees the National Assessment of Educational Progress, also known as the “Nation’s Report Card.” Jared graduated from the University of Pittsburgh and received his Master of Arts in Teaching from Johns Hopkins University.
 Jared, his wife Emily, and their two sons, Leo and Charlie, are proud residents of Rock Creek Hills.
 As he seeks a third term representing our neighborhoods, Jared remains committed to expanding educational opportunity, strengthening Maryland’s economy, investing in public transportation, protecting the environment, and delivering results for the communities he serves.
+Friends of Jared Solomon P.O.
+Box 43 Kensington, MD 20895 About Contact Join Our Team Donate Made with Squarespace

@@ -1,23 +1,102 @@
 [
-"http://votececil.com/",
-"http://votececil.com/?page_id=148",
-"http://votececil.com/?page_id=202",
-"http://votececil.com/?page_id=211",
-"http://votececil.com/?page_id=213",
-"http://votececil.com/?page_id=219",
-"http://votececil.com/?page_id=244",
-"http://votececil.com/?page_id=267",
-"http://votececil.com/?page_id=284",
-"http://votececil.com/?page_id=43",
-"http://votececil.com/?page_id=45",
-"http://votececil.com/?page_id=47",
-"http://votececil.com/?page_id=49",
-"http://votececil.com/?page_id=53",
-"http://votececil.com/?page_id=55",
-"http://votececil.com/?page_id=57",
-"https://policies.google.com/privacy",
-"https://s1.sos.mo.gov/elections/voterregistration",
-"https://secure.anedot.com/committee-to-elect-cecil-ince/7a5e1998-40ce-4c11-8c7f-6373c12d68d7",
-"https://volunteersignup.org/JXWC4",
-"https://wpconsent.com/powered-by"
+{
+"text": "Adopt-a-street",
+"href": "http://votececil.com/?page_id=284"
+},
+{
+"text": "CLICK HERE TO REGISTER TO VOTE",
+"href": "https://s1.sos.mo.gov/elections/voterregistration/"
+},
+{
+"text": "CLICK HERE TO VOLUNTEER",
+"href": "https://www.volunteersignup.org/JXWC4"
+},
+{
+"text": "Campaign Calendar",
+"href": "http://votececil.com/?page_id=49"
+},
+{
+"text": "Campaign Platform",
+"href": "http://votececil.com/?page_id=45"
+},
+{
+"text": "Candidate Bio",
+"href": "http://votececil.com/?page_id=43"
+},
+{
+"text": "Cecil’s Bio",
+"href": "http://votececil.com/?page_id=43"
+},
+{
+"text": "Contact Us",
+"href": "http://votececil.com/?page_id=202"
+},
+{
+"text": "Donate",
+"href": "http://votececil.com/?page_id=53"
+},
+{
+"text": "Endorsements",
+"href": "http://votececil.com/?page_id=57"
+},
+{
+"text": "Home",
+"href": "http://votececil.com"
+},
+{
+"text": "In the News",
+"href": "http://votececil.com/?page_id=55"
+},
+{
+"text": "Issues",
+"href": "http://votececil.com/?page_id=47"
+},
+{
+"text": "Law Enforcement Integrity and Accountability",
+"href": "http://votececil.com/?page_id=213"
+},
+{
+"text": "Links",
+"href": "http://votececil.com/?page_id=148"
+},
+{
+"text": "MEDIA CONTACT",
+"href": "http://votececil.com/?page_id=267"
+},
+{
+"text": "Platform",
+"href": "http://votececil.com/?page_id=45"
+},
+{
+"text": "Powered by (opens in a new window)",
+"href": "https://wpconsent.com/powered-by/"
+},
+{
+"text": "Reform Missouri’s Tax System",
+"href": "http://votececil.com/?page_id=219"
+},
+{
+"text": "Volunteer",
+"href": "http://votececil.com/?page_id=244"
+},
+{
+"text": "Work for a “Missouri Children’s Bill of Rights”",
+"href": "http://votececil.com/?page_id=211"
+},
+{
+"text": "[image: Cecil Ince for Missouri State Senate ]",
+"href": "http://votececil.com/"
+},
+{
+"text": "[image: Cecil Ince for Missouri State Senate ]Cecil Ince for Missouri State Senate Vote November 3rd",
+"href": "http://votececil.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/committee-to-elect-cecil-ince/7a5e1998-40ce-4c11-8c7f-6373c12d68d7"
+},
+{
+"text": "policies.google.com (opens in a new window)",
+"href": "https://policies.google.com/privacy"
+}
 ]

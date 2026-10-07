@@ -1,11 +1,42 @@
 [
-"https://facebook.com/share/173LrbSZag?mibextid=wwXIfr",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jackforiowa.com/",
-"https://jackforiowa.com/about-jack",
-"https://jackforiowa.com/contact",
-"https://jackforiowa.com/merch",
-"https://jackforiowa.com/platform",
-"https://secure.actblue.com/donate/jack-goodman-1",
-"https://tiktok.com/@jackforiowa"
+{
+"text": "About Jack",
+"href": "https://jackforiowa.com/about-jack"
+},
+{
+"text": "Contact",
+"href": "https://jackforiowa.com/contact"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/jack-goodman-1"
+},
+{
+"text": "Home",
+"href": "https://jackforiowa.com/"
+},
+{
+"text": "Merch",
+"href": "https://jackforiowa.com/merch"
+},
+{
+"text": "Platform",
+"href": "https://jackforiowa.com/platform"
+},
+{
+"text": "[image: Jack Goodman for Iowa State Representative]",
+"href": "https://jackforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/173LrbSZag/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jackforiowa"
+}
 ]

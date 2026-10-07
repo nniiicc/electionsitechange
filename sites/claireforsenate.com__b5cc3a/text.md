@@ -1,5 +1,4 @@
-“It has been my honor to represent you in the State Senate where I have focused on investing in our children, uniting our community, and empowering the voice of parents in their children’s schools.
+Toggle navigation Contribute Volunteer About About Claire Photos Accomplishments Community Investment Early Education Sexuality Health Education Issues Affordability Education Environment and Sustainability Gun Responsibility Healthcare and Reproductive Rights Transportation and Taxpayer Accountability Endorsements Join Volunteer Endorse Contact “It has been my honor to represent you in the State Senate where I have focused on investing in our children, uniting our community, and empowering the voice of parents in their children’s schools.
 That is what I have spent my career doing – helping kids and families get access to education and opportunity.
 With your support, I will continue to put people first, not parties and special interests.
-I’ll bring your voice to the table.”
-— Claire
+I’ll bring your voice to the table.” — Claire Paid for by Claire for Senate 31811 Pacific Hwy S, Ste B #288 | Federal Way, WA 98003 info@claireforsenate.com

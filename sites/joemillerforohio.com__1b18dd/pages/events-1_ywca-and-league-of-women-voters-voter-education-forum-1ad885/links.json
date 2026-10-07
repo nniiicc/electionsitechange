@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=YWCA+and+League+of+Women+Voters+Voter+Education+Forum&dates=20261013T223000Z%2F20261014T003000Z&location=423+Washington+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States",
-"http://maps.google.com/?q=423+Washington+Avenue+Lorain%2C+Ohio%2C+44052+United+States",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair",
-"https://joemillerforohio.com/events-1/wellington-kiwanis-candidates-night",
-"https://joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum?format=ical",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=423+washington+avenue+lorain%2C+ohio%2C+44052+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=YWCA+and+League+of+Women+Voters+Voter+Education+Forum&dates=20261013T223000Z%2F20261014T003000Z&location=423+Washington+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next October 17 Goods in the Woods Craft Fair",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 8 Wellington Kiwanis Candidates Night",
+"href": "https://www.joemillerforohio.com/events-1/wellington-kiwanis-candidates-night"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

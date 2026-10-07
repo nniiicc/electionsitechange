@@ -1,212 +1,86 @@
-Privacy Policy & Terms
-Last updated: August 17, 2026
-We publish our privacy practices, site terms, and accessibility expectations together so visitors can review them in one place.
+Skip to main content Aaron Jones for State Representative Privacy Policy & Terms Last updated: August 17, 2026 We publish our privacy practices, site terms, and accessibility expectations together so visitors can review them in one place.
 We may update these documents from time to time; when we do, we will update the date above.
-Privacy Policy
-This Privacy Policy explains how Friends of Aaron Jones ("we," "us," or "our") collects, uses, and protects information about you when you use our website at https://www.jonesforohio.com (the "Site").
-Information we collect
-Information you provide
-When you interact with our Site, we may collect:
-- Name (first and last)
-- Email address
-- City (for endorsements)
-- Zip code
-- Mobile phone number (optional, for text message updates)
-- Title or occupation (optional, for endorsements)
-- Community priorities (when you complete our survey)
-- Comments and feedback (optional)
-- Endorsement statements (if you submit an endorsement)
-Information collected automatically
-When you visit our Site, we automatically collect certain technical information:
-- Analytics data: We use Matomo, Meta Pixel, and Cloudflare Insights to collect information about how visitors use our Site, including pages viewed, time spent, browser type, device type, and general location (city/state level).
-- IP address: Your IP address is logged for security purposes and rate limiting.
-- Cookies and similar technologies: We use cookies, pixels, and similar technologies for analytics, campaign measurement, and to improve your experience.
-Most browsers allow you to control cookies through their settings.
-How we use your information
-We use the information we collect to:
-- Send you campaign updates, news, and information about Aaron Jones' campaign for State Representative via email
-- Send you text messages (SMS) with campaign updates, event information, donation requests, and volunteer opportunities if you have provided your mobile number and consented to receive texts
-- Understand community priorities and concerns through survey responses
-- Display endorsements publicly on our website, social media, and campaign materials (only with your explicit consent)
-- Analyze how visitors use our Site to improve functionality and content
-- Prevent spam, abuse, and security issues
-- Comply with legal obligations
-Text message (SMS) communications
-If you provide your mobile phone number and consent to receive text messages:
-- Message frequency: Message frequency varies.
+Privacy Policy This Privacy Policy explains how Friends of Aaron Jones ("we," "us," or "our") collects, uses, and protects information about you when you use our website at https://www.jonesforohio.com (the "Site").
+Information we collect Information you provide When you interact with our Site, we may collect: Name (first and last) Email address City (for endorsements) Zip code Mobile phone number (optional, for text message updates) Title or occupation (optional, for endorsements) Community priorities (when you complete our survey) Comments and feedback (optional) Endorsement statements (if you submit an endorsement) Information collected automatically When you visit our Site, we automatically collect certain technical information: How we use your information We use the information we collect to: Send you campaign updates, news, and information about Aaron Jones' campaign for State Representative via email Send you text messages (SMS) with campaign updates, event information, donation requests, and volunteer opportunities if you have provided your mobile number and consented to receive texts Understand community priorities and concerns through survey responses Display endorsements publicly on our website, social media, and campaign materials (only with your explicit consent) Analyze how visitors use our Site to improve functionality and content Prevent spam, abuse, and security issues Comply with legal obligations Text message (SMS) communications If you provide your mobile phone number and consent to receive text messages: Message frequency : Message frequency varies.
 You may receive periodic campaign updates, event reminders, donation requests, and volunteer opportunities.
-- Message and data rates: Standard message and data rates may apply depending on your mobile carrier's plan.
-- Consent is not required: You do not need to consent to receive text messages as a condition of any purchase or service.
-- Opt-out: You can opt out of text messages at any time by replying STOP to any message you receive from us.
+Message and data rates : Standard message and data rates may apply depending on your mobile carrier's plan.
+Consent is not required : You do not need to consent to receive text messages as a condition of any purchase or service.
+Opt-out : You can opt out of text messages at any time by replying STOP to any message you receive from us.
 After you send STOP, we will send you one final message to confirm you have been unsubscribed.
-- Help: For help, reply HELP to any message or contact us at info@jonesforohio.com.
-- Supported carriers: All major U.S. carriers are supported.
+Help : For help, reply HELP to any message or contact us at info@jonesforohio.com .
+Supported carriers : All major U.S. carriers are supported.
 Carriers are not liable for delayed or undelivered messages.
-Online donations and ActBlue
-When you make a contribution to Friends of Aaron Jones through links on our Site, you will be directed to ActBlue, a third-party payment processor that processes donations on behalf of campaigns and organizations.
+Online donations and ActBlue When you make a contribution to Friends of Aaron Jones through links on our Site, you will be directed to ActBlue, a third-party payment processor that processes donations on behalf of campaigns and organizations.
 ActBlue is a separate entity with its own privacy practices.
-What you should know about donations through ActBlue:
-- Information you provide: When you donate through ActBlue, you provide your donation and payment information directly to ActBlue, not to our Site.
-- ActBlue's privacy policy: Your donation information is subject to ActBlue's Privacy Policy, which you can review at https://www.actblue.com/legal-privacy/.
-- Information we receive: ActBlue provides us with reports about contributions made to our campaign, which may include your name, address, occupation, employer, email address, and contribution amount as required by campaign finance law.
-- How we use donation data: We use the contribution information we receive from ActBlue to comply with campaign finance reporting requirements, send you receipts and thank-you messages, and keep you updated on the campaign.
-- ActBlue Express: If you save your payment information with ActBlue Express, ActBlue stores that information to facilitate faster future donations to any campaign using ActBlue.
+What you should know about donations through ActBlue: Information you provide : When you donate through ActBlue, you provide your donation and payment information directly to ActBlue, not to our Site.
+ActBlue's privacy policy : Your donation information is subject to ActBlue's Privacy Policy, which you can review at https://www.actblue.com/legal-privacy/ .
+Information we receive : ActBlue provides us with reports about contributions made to our campaign, which may include your name, address, occupation, employer, email address, and contribution amount as required by campaign finance law.
+How we use donation data : We use the contribution information we receive from ActBlue to comply with campaign finance reporting requirements, send you receipts and thank-you messages, and keep you updated on the campaign.
+ActBlue Express : If you save your payment information with ActBlue Express, ActBlue stores that information to facilitate faster future donations to any campaign using ActBlue.
 We do not have access to your full credit card or payment information.
 Payment data is securely processed and stored by ActBlue and its payment processors.
-How we share your information
-We do not sell, rent, or trade your personal information.
-We may share your information only in the following circumstances:
-- Service providers: We may share information with trusted vendors who help us operate our Site (such as Cloudflare for security and hosting analytics, Matomo for website analytics, Google for maps, Meta for advertising measurement through Meta Pixel, and ActBlue for donation processing).
+How we share your information We do not sell, rent, or trade your personal information.
+We may share your information only in the following circumstances: Service providers : We may share information with trusted vendors who help us operate our Site (such as Cloudflare for security and hosting analytics, Matomo for website analytics, Google for maps, Meta for advertising measurement through Meta Pixel, and ActBlue for donation processing).
 These providers are required to protect your information.
-You can review their privacy policies at Cloudflare Privacy Policy, Matomo Privacy Policy, Google Privacy Policy, Meta Privacy Policy, and ActBlue Privacy Policy.
-- Legal compliance: We may disclose information if required by law, subpoena, or other legal process, including campaign finance reporting requirements.
-- Protection of rights: We may disclose information to protect the rights, property, or safety of Friends of Aaron Jones, our supporters, or others.
-Data security
-We implement reasonable security measures to protect your information from unauthorized access, loss, or misuse.
+You can review their privacy policies at Cloudflare Privacy Policy , Matomo Privacy Policy , Google Privacy Policy , Meta Privacy Policy , and ActBlue Privacy Policy .
+Legal compliance : We may disclose information if required by law, subpoena, or other legal process, including campaign finance reporting requirements.
+Protection of rights : We may disclose information to protect the rights, property, or safety of Friends of Aaron Jones, our supporters, or others.
+Data security We implement reasonable security measures to protect your information from unauthorized access, loss, or misuse.
 However, no internet transmission is completely secure, and we cannot guarantee absolute security.
-Your choices
-- Email updates: You can unsubscribe from our email list at any time by following the unsubscribe link in any email we send you.
-- Text messages: You can opt out of text messages at any time by replying STOP to any message.
+Your choices Email updates : You can unsubscribe from our email list at any time by following the unsubscribe link in any email we send you.
+Text messages : You can opt out of text messages at any time by replying STOP to any message.
 You can also contact us at info@jonesforohio.com to request removal from our text message list.
-- Cookies and similar technologies: Most web browsers allow you to manage cookie preferences.
-You may also be able to control certain ad personalization settings through providers such as Meta and Google.
-Note that disabling cookies or similar technologies may affect Site functionality.
-- Data requests: You may request to update, correct, or delete your information by emailing us at info@jonesforohio.com.
-Children's privacy
-Our Site is not directed to individuals under 18 years of age, and we do not knowingly collect information from children.
-Online petitions
-If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available.
+Data requests : You may request to update, correct, or delete your information by emailing us at info@jonesforohio.com .
+Children's privacy Our Site is not directed to individuals under 18 years of age, and we do not knowingly collect information from children.
+Online petitions If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available.
 In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
-Public endorsements
-If you submit an endorsement through our website, you explicitly authorize us to publish your name, city, title or occupation (if provided), and endorsement statement publicly.
-This may include:
-- Displaying your endorsement on our website
-- Sharing your endorsement on social media platforms
-- Using your endorsement in campaign materials, including printed materials and advertisements
-- Providing your endorsement to members of the press
-Endorsements are subject to review and approval before being published.
+Public endorsements If you submit an endorsement through our website, you explicitly authorize us to publish your name, city, title or occupation (if provided), and endorsement statement publicly.
+This may include: Displaying your endorsement on our website Sharing your endorsement on social media platforms Using your endorsement in campaign materials, including printed materials and advertisements Providing your endorsement to members of the press Endorsements are subject to review and approval before being published.
 We reserve the right to edit endorsements for length, clarity, or appropriateness, though we will make reasonable efforts to preserve your original meaning.
-Advertising and analytics services provided by others
-We may allow third parties to use cookies, web beacons, or other technologies or otherwise collect information about you in order to provide analytics and advertising services, including serving ads on the Site or on other sites based on your visits to the Site and other sites across the Internet and various mobile applications.
+Advertising and analytics services provided by others We may allow third parties to use cookies, web beacons, or other technologies or otherwise collect information about you in order to provide analytics and advertising services, including serving ads on the Site or on other sites based on your visits to the Site and other sites across the Internet and various mobile applications.
 These entities may collect or receive information about your use of the Site and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information.
 This information may be used by Friends of Aaron Jones and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.
 For example, we use Matomo to understand how visitors interact with our Site.
 We also use Meta Pixel to measure the effectiveness of our campaigns, understand visits and actions taken on our Site, and help us reach people with campaign-related messages on Meta platforms.
 These tools may use cookies, pixels, or similar technologies to collect or receive information from our Site and elsewhere on the Internet and use that information to provide measurement services and targeted advertising.
-Third-party vendors, including Meta, may use first-party cookies and third-party cookies or similar technologies together to inform, optimize, and serve ads based on your past visits to our Site.
-For more information about Meta's advertising controls, please visit Meta Ad Preferences.
-For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices.
-Contact us (privacy)
-If you have questions about this Privacy Policy or how we handle your information, please contact us at:
-Friends of Aaron Jones
-Email: info@jonesforohio.com
-Terms of Service
-Please read these Terms of Service ("Terms") carefully.
+For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices .
+Contact us (privacy) If you have questions about this Privacy Policy or how we handle your information, please contact us at: Friends of Aaron Jones Email: info@jonesforohio.com Terms of Service Please read these Terms of Service ("Terms") carefully.
 By accessing or using jonesforohio.com (the "Site"), you agree to be bound by these Terms.
 If you do not agree, please do not use the Site.
-About the Site
-This Site is operated by Friends of Aaron Jones (the "Campaign," "we," "us," or "our").
+About the Site This Site is operated by Friends of Aaron Jones (the "Campaign," "we," "us," or "our").
 The Site provides information about Aaron Jones' campaign for the Ohio House and allows visitors to sign up for email and text message updates, complete community surveys, and submit public endorsements.
-Changes to Terms
-We may update these Terms from time to time.
+Changes to Terms We may update these Terms from time to time.
 When we do, we will update the date at the top of this page.
 Your continued use of the Site after changes are posted means you accept the updated Terms.
-Privacy
-Your use of the Site is also governed by our Privacy Policy (above).
+Privacy Your use of the Site is also governed by our Privacy Policy (above).
 Please review it to understand how we collect and use your information.
-Acceptable use
-When using our Site, you agree to:
-- Provide accurate and truthful information when signing up for email and text message updates, submitting endorsements, or completing surveys
-- Provide a valid mobile phone number if you opt in to receive text messages
-- Not submit false, misleading, or fraudulent endorsements
-- Not submit endorsements on behalf of others without their permission
-- Not submit content that is defamatory, obscene, threatening, harassing, or otherwise unlawful
-- Not attempt to gain unauthorized access to our systems or data
-- Not use automated tools (bots, scrapers) to access or collect data from the Site
-- Not interfere with the proper functioning of the Site
-- Not transmit viruses, malware, or other harmful code
-- Not impersonate others or misrepresent your affiliation with any person or organization
-- Comply with all applicable laws, including the Telephone Consumer Protection Act (TCPA) when providing your mobile phone number for text communications
-Text message terms
-If you opt in to receive text messages from us:
-- You confirm that the mobile phone number you provide is your own and that you are authorized to receive text messages at that number
-- You understand that your consent to receive text messages is not required as a condition of any purchase or service
-- You acknowledge that message and data rates may apply
-- You agree that we may send you text messages using an automatic telephone dialing system
-- You may opt out at any time by replying STOP to any message
-- You understand that carriers are not liable for delayed or undelivered messages
-Public endorsements and survey responses
-Endorsements
-If you submit an endorsement through our Site:
-- You confirm that all information you provide is accurate and truthful
-- You grant Friends of Aaron Jones an irrevocable, perpetual, worldwide, royalty-free license to use, reproduce, publish, and display your name, city, title/occupation (if provided), and endorsement statement in any medium, including but not limited to our website, social media, printed materials, and advertisements
-- You acknowledge that your endorsement will be publicly available and may be viewed by anyone
-- You understand that we reserve the right to review, approve, edit for length or clarity, or decline to publish any endorsement
-- You represent that your endorsement does not violate any third-party rights and does not contain defamatory, obscene, or unlawful content
-- You waive any right to inspect or approve the finished product or any use of your endorsement
-Survey responses
-When you complete a survey on our Site:
-- You acknowledge that your responses will be used to inform campaign priorities and messaging
-- Your individual survey responses will not be published publicly, though we may share aggregated or anonymized survey data
-- By submitting survey responses, you consent to being added to our email list for campaign updates
-Intellectual property
-The content on this Site, including text, graphics, logos, images, and design, is owned by Friends of Aaron Jones or used with permission.
+Acceptable use When using our Site, you agree to: Provide accurate and truthful information when signing up for email and text message updates, submitting endorsements, or completing surveys Provide a valid mobile phone number if you opt in to receive text messages Not submit false, misleading, or fraudulent endorsements Not submit endorsements on behalf of others without their permission Not submit content that is defamatory, obscene, threatening, harassing, or otherwise unlawful Not attempt to gain unauthorized access to our systems or data Not use automated tools (bots, scrapers) to access or collect data from the Site Not interfere with the proper functioning of the Site Not transmit viruses, malware, or other harmful code Not impersonate others or misrepresent your affiliation with any person or organization Comply with all applicable laws, including the Telephone Consumer Protection Act (TCPA) when providing your mobile phone number for text communications Text message terms If you opt in to receive text messages from us: You confirm that the mobile phone number you provide is your own and that you are authorized to receive text messages at that number You understand that your consent to receive text messages is not required as a condition of any purchase or service You acknowledge that message and data rates may apply You agree that we may send you text messages using an automatic telephone dialing system You may opt out at any time by replying STOP to any message You understand that carriers are not liable for delayed or undelivered messages Public endorsements and survey responses Endorsements If you submit an endorsement through our Site: You confirm that all information you provide is accurate and truthful You grant Friends of Aaron Jones an irrevocable, perpetual, worldwide, royalty-free license to use, reproduce, publish, and display your name, city, title/occupation (if provided), and endorsement statement in any medium, including but not limited to our website, social media, printed materials, and advertisements You acknowledge that your endorsement will be publicly available and may be viewed by anyone You understand that we reserve the right to review, approve, edit for length or clarity, or decline to publish any endorsement You represent that your endorsement does not violate any third-party rights and does not contain defamatory, obscene, or unlawful content You waive any right to inspect or approve the finished product or any use of your endorsement Survey responses When you complete a survey on our Site: You acknowledge that your responses will be used to inform campaign priorities and messaging Your individual survey responses will not be published publicly, though we may share aggregated or anonymized survey data By submitting survey responses, you consent to being added to our email list for campaign updates Intellectual property The content on this Site, including text, graphics, logos, images, and design, is owned by Friends of Aaron Jones or used with permission.
 You may view and use the Site for personal, non-commercial purposes.
 You may not copy, reproduce, distribute, or create derivative works from our content without our written permission.
 The name "Aaron Jones," our campaign branding, logos, and slogans are the property of Friends of Aaron Jones and may not be used without permission.
-Site headings use Union Gothic, a typeface by Matthew Hinders-Anderson.
-Donations and third-party payment processing
-When you click on a donation link on our Site, you will be directed to ActBlue, a third-party payment platform that processes online contributions on behalf of campaigns and organizations.
+Site headings use Union Gothic, a typeface by Matthew Hinders-Anderson .
+Donations and third-party payment processing When you click on a donation link on our Site, you will be directed to ActBlue, a third-party payment platform that processes online contributions on behalf of campaigns and organizations.
 ActBlue is a separate entity and is not operated or controlled by Friends of Aaron Jones.
-ActBlue terms and policies
-All donations made through ActBlue are subject to:
-- ActBlue's Terms of Service: Available at https://www.actblue.com/legal-terms/
-- ActBlue's Privacy Policy: Available at https://www.actblue.com/legal-privacy/
-- Campaign finance laws: Including contribution limits, source prohibitions, and reporting requirements
-Your responsibilities when donating
-When making a contribution through ActBlue, you represent and warrant that:
-- You are a United States citizen or lawfully admitted permanent resident
-- You are at least 18 years old
-- The contribution is made from your own funds and not from funds provided by another person or entity for the purpose of making the contribution
-- You are making the contribution with your own personal credit or debit card and not with a corporate or business card or a card issued to another person
-- You are not an employee of the Ohio public office for which Aaron Jones is a candidate
-- You understand that contribution limits and other restrictions may apply under federal and Ohio campaign finance law
-Refunds
-Refund requests for contributions made through ActBlue should be directed to ActBlue's support team or to Friends of Aaron Jones at info@jonesforohio.com.
+ActBlue terms and policies All donations made through ActBlue are subject to: ActBlue's Terms of Service : Available at https://www.actblue.com/legal-terms/ ActBlue's Privacy Policy : Available at https://www.actblue.com/legal-privacy/ Campaign finance laws : Including contribution limits, source prohibitions, and reporting requirements Your responsibilities when donating When making a contribution through ActBlue, you represent and warrant that: You are a United States citizen or lawfully admitted permanent resident You are at least 18 years old The contribution is made from your own funds and not from funds provided by another person or entity for the purpose of making the contribution You are making the contribution with your own personal credit or debit card and not with a corporate or business card or a card issued to another person You are not an employee of the Ohio public office for which Aaron Jones is a candidate You understand that contribution limits and other restrictions may apply under federal and Ohio campaign finance law Refunds Refund requests for contributions made through ActBlue should be directed to ActBlue's support team or to Friends of Aaron Jones at info@jonesforohio.com .
 Refunds are handled on a case-by-case basis and are subject to the availability of funds.
-Other third-party links and services
-Our Site may contain links to other third-party websites (such as social media platforms).
+Other third-party links and services Our Site may contain links to other third-party websites (such as social media platforms).
 We are not responsible for the content, privacy practices, or terms of service of third-party sites.
 We encourage you to review their policies before interacting with them.
 We use Cloudflare for hosting and analytics, Matomo for website usage tracking, and Meta Pixel for advertising measurement and campaign analytics.
 These services are subject to their own terms and policies, and your interactions with advertising or social media platforms may also be governed by those third parties' terms and privacy notices.
-Disclaimer of warranties
-THE SITE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Disclaimer of warranties THE SITE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 We do not guarantee that the Site will be uninterrupted, error-free, or free from viruses or other harmful components.
 You use the Site at your own risk.
-Limitation of liability
-TO THE FULLEST EXTENT PERMITTED BY LAW, FRIENDS OF AARON JONES AND ITS VOLUNTEERS, EMPLOYEES, AND CONTRACTORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SITE, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF USE, OR ANY OTHER DAMAGES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Limitation of liability TO THE FULLEST EXTENT PERMITTED BY LAW, FRIENDS OF AARON JONES AND ITS VOLUNTEERS, EMPLOYEES, AND CONTRACTORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SITE, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF USE, OR ANY OTHER DAMAGES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU EXCEED $100.
-Governing law
-These Terms are governed by the laws of the State of Ohio, without regard to conflict of law principles.
+Governing law These Terms are governed by the laws of the State of Ohio, without regard to conflict of law principles.
 Any disputes arising from these Terms or your use of the Site shall be resolved in the state or federal courts located in Ohio.
-Termination
-We reserve the right to suspend or terminate your access to the Site at any time, for any reason, including if we believe you have violated these Terms.
-Severability
-If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.
-Contact us (terms)
-If you have questions about these Terms, please contact us at:
-Friends of Aaron Jones
-Email: info@jonesforohio.com
-Accessibility Statement
-Friends of Aaron Jones is committed to providing a website experience that works for as many people as possible.
-We are continually working to improve the accessibility and usability of
-jonesforohio.com so that all visitors can access our content and participate in our campaign.
-Our goal
-We aim to follow the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA, and we review the site as we add new content and features.
+Termination We reserve the right to suspend or terminate your access to the Site at any time, for any reason, including if we believe you have violated these Terms.
+Severability If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.
+Contact us (terms) If you have questions about these Terms, please contact us at: Friends of Aaron Jones Email: info@jonesforohio.com Accessibility Statement Friends of Aaron Jones is committed to providing a website experience that works for as many people as possible.
+We are continually working to improve the accessibility and usability of jonesforohio.com so that all visitors can access our content and participate in our campaign.
+Our goal We aim to follow the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA, and we review the site as we add new content and features.
 Need help or want to report an issue?
-If you experience any difficulty using this site, notice an accessibility barrier, or have feedback that would help us improve, please contact us at info@jonesforohio.com.
-When you email, it helps if you include:
-- The page URL where you had the issue
-- What you were trying to do
-- What device/browser you were using (if you know)
+If you experience any difficulty using this site, notice an accessibility barrier, or have feedback that would help us improve, please contact us at info@jonesforohio.com .
+When you email, it helps if you include: The page URL where you had the issue What you were trying to do What device/browser you were using (if you know) Aaron Jones for State Representative Home • About • Priorities • Endorsements • Get Involved • Vote • Events • News • Donate info@jonesforohio.com Make checks payable to: Friends of Aaron Jones 250 Riverside Drive, Tiffin, OH 44883 PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Contact • Privacy Policy & Terms • Media

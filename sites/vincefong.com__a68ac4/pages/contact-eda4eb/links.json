@@ -1,18 +1,86 @@
 [
-"https://facebook.com/VinceFongCA",
-"https://fong.house.gov/",
-"https://instagram.com/fongressman",
-"https://secure.anedot.com/vince-fong-for-congress/donate",
-"https://vincefong.com/",
-"https://vincefong.com/about",
-"https://vincefong.com/category/in-the-news",
-"https://vincefong.com/category/news",
-"https://vincefong.com/category/press-release",
-"https://vincefong.com/contact",
-"https://vincefong.com/gallery",
-"https://vincefong.com/issues",
-"https://vincefong.com/privacy",
-"https://vincefong.com/support",
-"https://vincefong.com/terms",
-"https://x.com/vfong"
+{
+"text": "About",
+"href": "https://vincefong.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://vincefong.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vince-fong-for-congress/donate"
+},
+{
+"text": "Gallery",
+"href": "https://vincefong.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://vincefong.com/"
+},
+{
+"text": "In the News",
+"href": "https://vincefong.com/category/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://vincefong.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://vincefong.com/support/"
+},
+{
+"text": "Join Vince",
+"href": "https://vincefong.com/support/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://vincefong.com/category/news/"
+},
+{
+"text": "Posts",
+"href": "https://vincefong.com/category/news/"
+},
+{
+"text": "Press Releases",
+"href": "https://vincefong.com/category/press-release/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vincefong.com/privacy/"
+},
+{
+"text": "Terms of Use",
+"href": "https://vincefong.com/terms/"
+},
+{
+"text": "[image: Vince Fong for Congress]",
+"href": "https://vincefong.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VinceFongCA/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/fongressman/"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/vfong"
+},
+{
+"text": "https://fong.house.gov",
+"href": "https://fong.house.gov/"
+},
+{
+"text": "ryan@strategyinsightshq.com",
+"href": "mailto:ryan@strategyinsightshq.com"
+}
 ]

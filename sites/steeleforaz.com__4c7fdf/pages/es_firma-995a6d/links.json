@@ -1,18 +1,82 @@
 [
-"https://apps.azsos.gov/equal",
-"https://azcc.vote/vote",
-"https://facebook.com/FrankSteeleAZ",
-"https://go.azsos.gov/6dbk",
-"https://instagram.com/steeleforazsenate",
-"https://steeleforaz.com/cdn-cgi/l/email-protection",
-"https://steeleforaz.com/es",
-"https://steeleforaz.com/es/conoce-a-frank",
-"https://steeleforaz.com/es/elecciones-limpias",
-"https://steeleforaz.com/es/firma",
-"https://steeleforaz.com/es/mapa",
-"https://steeleforaz.com/es/privacidad",
-"https://steeleforaz.com/es/propuestas",
-"https://steeleforaz.com/es/terminos-sms",
-"https://steeleforaz.com/es/vota",
-"https://steeleforaz.com/sign"
+{
+"text": "Clean Elections",
+"href": "https://steeleforaz.com/es/elecciones-limpias/"
+},
+{
+"text": "Conoce a Frank",
+"href": "https://steeleforaz.com/es/conoce-a-frank/"
+},
+{
+"text": "Conoce más sobre Clean Elections",
+"href": "https://steeleforaz.com/es/elecciones-limpias/"
+},
+{
+"text": "Contacto",
+"href": "mailto:frank@steeleforaz.com"
+},
+{
+"text": "EN",
+"href": "https://steeleforaz.com/sign/"
+},
+{
+"text": "ES",
+"href": "https://steeleforaz.com/es/firma/"
+},
+{
+"text": "Estar registrado para votar en Arizona",
+"href": "https://azcc.vote/vote/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/FrankSteeleAZ/"
+},
+{
+"text": "Firma por Frank Steele",
+"href": "https://go.azsos.gov/6dbk"
+},
+{
+"text": "Inicio",
+"href": "https://steeleforaz.com/es/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steeleforazsenate/"
+},
+{
+"text": "La votación anticipada comienza el 7 de octubre. ¡Haz un plan para votar por Frank!",
+"href": "https://steeleforaz.com/es/vota/"
+},
+{
+"text": "Mapa del distrito",
+"href": "https://steeleforaz.com/es/mapa/"
+},
+{
+"text": "Política de privacidad",
+"href": "https://steeleforaz.com/es/privacidad/"
+},
+{
+"text": "Propuestas",
+"href": "https://steeleforaz.com/es/propuestas/"
+},
+{
+"text": "Términos de SMS",
+"href": "https://steeleforaz.com/es/terminos-sms/"
+},
+{
+"text": "Vota",
+"href": "https://steeleforaz.com/es/vota/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:candidate@azsos.gov"
+},
+{
+"text": "[image: Frank Steele for LD24 State Senate Campaign Logo]",
+"href": "https://steeleforaz.com/es/"
+},
+{
+"text": "https://apps.azsos.gov/equal",
+"href": "https://apps.azsos.gov/equal"
+}
 ]

@@ -1,1 +1,1 @@
-Connect Call, text, email, or follow me on Facebook ruffridgeak@gmail.com 907-953-3727 facebook.com/justinstatehouse
+0 Skip to Content About Contact Donate Open Menu Close Menu About Contact Donate Open Menu Close Menu About Contact Donate Connect Call, text, email, or follow me on Facebook ruffridgeak@gmail.com 907-953-3727 facebook.com/justinstatehouse Justin Ruffridge State House ruffridgeak@gmail.com (907) 953-3727 Paid for by Ruffridge for State House PO Box 2755 Soldotna, AK 99669 Made with Squarespace

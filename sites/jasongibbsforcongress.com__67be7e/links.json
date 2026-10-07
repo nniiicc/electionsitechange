@@ -1,11 +1,54 @@
 [
-"http://instagram.com/",
-"https://efundraisingconnections.com/c/Gibbs",
-"https://facebook.com/",
-"https://facebook.com/jasongibbsforcongress",
-"https://instagram.com/jason_gibbs_for_congress",
-"https://jasongibbsforcongress.com/",
-"https://jasongibbsforcongress.com/privacy-policy",
-"https://twitter.com/",
-"https://twitter.com/JGibbs4Congress"
+{
+"text": "ABOUT",
+"href": "https://www.jasongibbsforcongress.com/#About"
+},
+{
+"text": "DONATE →",
+"href": "https://www.efundraisingconnections.com/c/Gibbs"
+},
+{
+"text": "HELP JASON FLIP THIS SEAT! →",
+"href": "https://www.efundraisingconnections.com/c/Gibbs"
+},
+{
+"text": "HERE",
+"href": "https://www.jasongibbsforcongress.com/privacy-policy"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jasongibbsforcongress.com/#Issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jasongibbsforcongress.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jasongibbsforcongress.com/#VOLUNTEER"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JGibbs4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jasongibbsforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jason_gibbs_for_congress/"
+}
 ]

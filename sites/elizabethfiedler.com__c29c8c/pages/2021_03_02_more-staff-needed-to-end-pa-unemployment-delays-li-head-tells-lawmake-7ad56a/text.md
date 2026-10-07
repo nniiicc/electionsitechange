@@ -1,7 +1,7 @@
-03/20/21
-People seeking benefits have faced long wait times and delayed responses to questions, slow adjudication of denied claims — on average, 92 days — seemingly random payments stoppages, and mistaken overpayments that are rectified by cutting future dollars.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate More staff needed to end Pa. unemployment delays, L&I head tells lawmakers Posted on March 2, 2021 March 11, 2022 by elizabeth-fiedler 03/20/21 People seeking benefits have faced long wait times and delayed responses to questions, slow adjudication of denied claims — on average, 92 days — seemingly random payments stoppages, and mistaken overpayments that are rectified by cutting future dollars.
 Lawmakers highlighted much of this Tuesday.
 “Other people who have called us are, quite honestly, near the point of suicide,” Rep.
 Elizabeth Fiedler, D-Philadelphia, told Berrier.
-She added: “Constituents who really, after an entire year of this, do not know where to turn.”
-Read more here:
+She added: “Constituents who really, after an entire year of this, do not know where to turn.” Read more here: More staff needed to end Pa. unemployment delays, L&I head tells lawmakers Posted in Uncategorized Post navigation Pa.
+Democrats take issues into own hands, hold separate budget hearings South Philly elected officials call on health department for more vaccine distribution sites Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

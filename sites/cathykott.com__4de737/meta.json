@@ -1,10 +1,11 @@
 {
  "description": "I'm Cathy Kott, candidate for State House Representative, and I want to represent you in District 6! Voting is essential for a thriving democracy. Make yours count!",
  "final_url": "https://cathykott.com/",
- "paid_for_by": null,
+ "fingerprint": "338119ab92e692a5eeaaecfcc97c036a202b74c6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Votes for Change: Cathy Kott- Your District 6 Candidate",
  "years_mentioned": [
-  "2023",
   "2026"
  ]
 }

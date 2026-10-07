@@ -1,9 +1,12 @@
 {
  "description": "Aaron Saunders State Representative Press Page - news articles and press releases",
  "final_url": "https://www.aaronsaunders.org/press",
- "paid_for_by": "Paid for by The Saunders Committee Info About Aaron Get Involved News Contact Us Donate Social Facebook Instagram Twitter Newsletter Block This newslet",
- "title": "In the Press \u2014 Aaron Saunders for State Representative",
+ "fingerprint": "e540a66c6c2356709e870f9badcc54285583c8f0",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
+ "title": "In the Press — Aaron Saunders for State Representative",
  "years_mentioned": [
+  "2024",
   "2026"
  ]
 }

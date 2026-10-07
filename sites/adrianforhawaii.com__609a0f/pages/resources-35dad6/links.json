@@ -1,25 +1,142 @@
 [
-"http://capitol.hawaii.gov/",
-"http://honolulu.gov/council",
-"http://honolulu.gov/parks/program.html",
-"https://adrianforhawaii.com/",
-"https://adrianforhawaii.com/contact",
-"https://adrianforhawaii.com/copy-of-testimonials",
-"https://adrianforhawaii.com/meetadrian",
-"https://adrianforhawaii.com/numbers",
-"https://adrianforhawaii.com/potholes",
-"https://adrianforhawaii.com/resources",
-"https://adrianforhawaii.com/solutions",
-"https://adrianforhawaii.com/testimonials",
-"https://adrianforhawaii.com/volunteer",
-"https://capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021",
-"https://courts.state.hi.us/",
-"https://facebook.com/adrianktam",
-"https://governor.hawaii.gov/",
-"https://honolulu.gov/mayor",
-"https://instagram.com/adrianktam",
-"https://portal.ehawaii.gov/residents/jobs-and-employment",
-"https://secure.actblue.com/donate/adriantam",
-"https://web5.hnl.info/hnl311/home",
-"https://web5.hnl.info/pav"
+{
+"text": ">",
+"href": "http://capitol.hawaii.gov"
+},
+{
+"text": ">",
+"href": "http://www.honolulu.gov/council"
+},
+{
+"text": ">",
+"href": "http://www.honolulu.gov/parks/program.html"
+},
+{
+"text": ">",
+"href": "https://governor.hawaii.gov/"
+},
+{
+"text": ">",
+"href": "https://portal.ehawaii.gov/residents/jobs-and-employment/"
+},
+{
+"text": ">",
+"href": "https://web5.hnl.info/hnl311/home"
+},
+{
+"text": ">",
+"href": "https://web5.hnl.info/pav/"
+},
+{
+"text": ">",
+"href": "https://www.adrianforhawaii.com/numbers"
+},
+{
+"text": ">",
+"href": "https://www.adrianforhawaii.com/potholes"
+},
+{
+"text": ">",
+"href": "https://www.courts.state.hi.us"
+},
+{
+"text": ">",
+"href": "https://www.honolulu.gov/mayor"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianforhawaii.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adriantam"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adrianforhawaii.com/copy-of-testimonials"
+},
+{
+"text": "Hawaii State Judiciary",
+"href": "https://www.courts.state.hi.us"
+},
+{
+"text": "Hawaii State Legislature",
+"href": "http://capitol.hawaii.gov"
+},
+{
+"text": "Home",
+"href": "https://www.adrianforhawaii.com"
+},
+{
+"text": "Honolulu City Council",
+"href": "http://www.honolulu.gov/council"
+},
+{
+"text": "Honolulu Mayor",
+"href": "https://www.honolulu.gov/mayor"
+},
+{
+"text": "Honolulu Parks & Activities",
+"href": "http://www.honolulu.gov/parks/program.html"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianforhawaii.com/meetadrian"
+},
+{
+"text": "OFFICIAL GOVERNMENT WEBSITE",
+"href": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021"
+},
+{
+"text": "Office of the Governor",
+"href": "https://governor.hawaii.gov/"
+},
+{
+"text": "Pothole Claims",
+"href": "https://www.adrianforhawaii.com/potholes"
+},
+{
+"text": "Report Abandoned Vehicle",
+"href": "https://web5.hnl.info/pav/"
+},
+{
+"text": "Report Illegal Short-Term Rental",
+"href": "https://web5.hnl.info/hnl311/home"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianforhawaii.com/resources"
+},
+{
+"text": "Solutions",
+"href": "https://www.adrianforhawaii.com/solutions"
+},
+{
+"text": "State Jobs and Employment",
+"href": "https://portal.ehawaii.gov/residents/jobs-and-employment/"
+},
+{
+"text": "Testimonials",
+"href": "https://www.adrianforhawaii.com/testimonials"
+},
+{
+"text": "Useful Numbers",
+"href": "https://www.adrianforhawaii.com/numbers"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adrianforhawaii.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/adrianktam"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/adrianktam"
+},
+{
+"text": "[image: LOGO 1.png]",
+"href": "https://www.adrianforhawaii.com"
+}
 ]

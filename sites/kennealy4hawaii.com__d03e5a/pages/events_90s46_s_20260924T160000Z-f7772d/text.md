@@ -1,11 +1,1 @@
-Sign Waving
-Time
-Thursday, Sep 24, 2026
-4:00 PM – 6:00 PM
-Location
-307 Makaala St, Hilo, HI, 96720
-About this event
-Add your event description here
-Location
-307 Makaala St
-Hilo, HI 96720
+Meet Jonathan Issues News Contribute Events / Sign Waving Sign Waving Time Thursday, Sep 24, 2026 4:00 PM – 6:00 PM Location 307 Makaala St, Hilo, HI, 96720 About this event Add your event description here Location 307 Makaala St Hilo, HI 96720 Get Driving Directions Add to calendar Voter Information Yard Signs Events Contact Kennealy for Hawaii Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jonathan Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

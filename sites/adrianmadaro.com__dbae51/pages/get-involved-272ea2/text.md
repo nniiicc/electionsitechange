@@ -1,8 +1,3 @@
-Get
-Involved We’d Love to Have Your Support
-Thank You So Much for Getting Involved!
-Adrian Is a Lifelong Resident of East Boston
-Involved We’d Love to Have Your Support
-© Copyright 2026 Adrian Madaro.
+Home News & Events Meet Adrian Resources Contact Get Involved Donate Get Involved Donate Home News & Events Meet Adrian Resources Contact Home > Get Involved Get Involved We’d Love to Have Your Support Thank You So Much for Getting Involved! * First Name* Last Name* Email Address * Telephone Number Street Address Street Address I Would Like to: Display a House Sign/Mostrar un Letrero en Frente mi Casa Phone Bank/Hacer Llamadas Send Dear Friend Cards/Enviar Tarjetas a Nuestros Amigos Host a House Party or Meet and Greet/Organizar una House Party o Meet and Greet Standout/Destacar Help on Election Day/Ayudar el Día de las Elecciones Vote for Adrian/Votar por Adrian Message * Submit Adrian Is a Lifelong Resident of East Boston Home News & Events Meet Adrian Resources Contact Follow us on Twitter Like us on Facebook Follow us on Instagram © Copyright # Adrian Madaro.
 All Rights Reserved.
 Boston Web Design by GoingClear Interactive | Photography by Leah Jean Photography

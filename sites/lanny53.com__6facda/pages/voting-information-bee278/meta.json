@@ -1,8 +1,10 @@
 {
  "description": "Get registered and informed for the upcoming election in District 53. Learn voting dates, locations, and how to vote by mail to support Lanny Thomas for Senate.",
  "final_url": "https://www.lanny53.com/voting-information",
- "paid_for_by": null,
- "title": "Voting Information | Register Now, Vote Today! \u2014 Lanny Thomas for Senate",
+ "fingerprint": "b9641d7a400c45aeaabc2eb18c102ce298fdd848",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Voting Information | Register Now, Vote Today! — Lanny Thomas for Senate",
  "years_mentioned": [
   "2026"
  ]

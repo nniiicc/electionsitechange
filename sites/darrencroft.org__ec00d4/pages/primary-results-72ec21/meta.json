@@ -1,7 +1,11 @@
 {
- "description": "This is quite a journey! We\u2019ve successfully advanced past the April convention and the June primary and we\u2019re working hard to win the general election on",
+ "description": "This is quite a journey! We’ve successfully advanced past the April convention and the June primary and we’re working hard to win the general election on",
  "final_url": "https://darrencroft.org/primary-results/",
- "paid_for_by": null,
+ "fingerprint": "e0dc5974419bad1f9ea53c7e0ec87330d71985fb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Primary Results - Darren Croft for Utah House District 41",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

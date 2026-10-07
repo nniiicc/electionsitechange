@@ -1,12 +1,8 @@
-Farmer and Small Business Owner Jamie Ager Raises Over $150,000 From 3,000+ Donors Within the First Four Days of Campaigning
-August 4, 2025
-Share this post:
+Skip to content Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Menu Farmer and Small Business Owner Jamie Ager Raises Over $# From #+ Donors Within the First Four Days of Campaigning August 4, 2025 Share this post: Share on Facebook Share on Bluesky Share on X (Twitter) Share on Email Copy to Clipboard Fairview, NC — Fourth-generation farmer and candidate for North Carolina 11th Congressional District, Jamie Ager, announced his campaign had raised over $# from well over 3,000 grassroots supporters since launching last Thursday, July 31.
 “I’m grateful to everyone who donated in the first days to help kickstart our campaign,” said Ager.
 “We’re building a campaign that folks are excited to get behind and proud to contribute whatever they can to — I’m grateful for the rush of support and the incredible trust this represents.
-I look forward to continuing this momentum throughout the campaign!”
-Ager, a first time candidate for office, has raised more than any candidate for NC-11, including incumbent Chuck Edwards, as of June 30, 2025 according to publicly available Federal Election Commission filings.
-About Jamie Ager
-Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
+I look forward to continuing this momentum throughout the campaign!” Ager, a first time candidate for office, has raised more than any candidate for NC-11, including incumbent Chuck Edwards, as of June 30, 2025 according to publicly available Federal Election Commission filings.
+About Jamie Ager Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
 Born in Fairview and raised on his family’s Hickory Nut Gap Farm, Jamie has spent his life growing food, building community, and working with people.
 From a young age, Jamie was taught the values of public service, hard work, and neighborliness.
 Jamie graduated from A.C.
@@ -21,4 +17,4 @@ As the proud father of three sons, Jamie cares deeply about our future.
 He’s concerned about big challenges like recovering from Hurricane Helene, affordability for working families, and preserving our environment and culture.
 He’s also outspoken about the need to support local businesses and putting Western North Carolina first.
 He’s never been afraid to stand up for what’s right, even if it means speaking out against his own party or taking on extremists.
-###
+### Return to all press Paid for by Ager for Congress Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. team@agerforcongress.com PO Box 64 Fairview, NC 28730 Copyright © #–# Ager for Congress | Privacy Policy | Media

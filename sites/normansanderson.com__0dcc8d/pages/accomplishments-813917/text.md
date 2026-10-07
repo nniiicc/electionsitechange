@@ -1,4 +1,3 @@
-Photo Gallery
-Copyright © 2024 Citizens to Elect Norman Sanderson - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Senator Sanderson is passionate about what matters to your family!
+Home Meet Norman Issues Endorsements Accomplishments Donate More Home Meet Norman Issues Endorsements Accomplishments Donate Home Meet Norman Issues Endorsements Accomplishments Donate Republican Majority Legislative Accomplishments Find out more Photo Gallery Copyright © # Citizens to Elect Norman Sanderson - All Rights Reserved.
+Home Meet Norman Issues Endorsements Contact Me Accomplishments Powered by

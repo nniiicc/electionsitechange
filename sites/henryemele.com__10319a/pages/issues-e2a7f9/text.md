@@ -1,41 +1,33 @@
-Issues
-Cost of living
-Manchester families are working harder than ever and falling further behind.
+0 Skip to Content Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Issues Cost of living Manchester families are working harder than ever and falling further behind.
 Groceries, gas, property taxes, and energy bills keep climbing, while paychecks struggle to keep up.
 As an entrepreneur raising two young boys in Ward 7, Henry knows the squeeze firsthand.
 Government must remember that every dollar it spends ultimately comes from somebody who earned it.
 Henry's affordability test is simple: what does this proposal do to the family sitting at the kitchen table trying to balance its monthly budget?
-Housing
-New Hampshire is in the middle of a housing crisis.
+Housing New Hampshire is in the middle of a housing crisis.
 Young families can't afford to buy, working renters are getting priced out, and seniors are watching property taxes push them out of homes they've owned for decades.
 Government cannot dictate an affordable market price for every home, but it can make housing unnecessarily difficult and expensive to build.
 Henry will examine permitting, regulatory barriers, and other state policies affecting housing supply, so the next generation can put down roots in the community that raised them.
-Mental Health
-New Hampshire's mental health system is stretched thin, and families across Manchester are paying the price.
+Mental Health New Hampshire's mental health system is stretched thin, and families across Manchester are paying the price.
 Wait times for care are too long, beds are too few, and too many Granite Staters can't find help when they need it most.
 Henry believes resources should be directed toward services that demonstrate real results, particularly where untreated mental illness contributes to homelessness, emergency-room use, or family instability.
 Funding alone is not a strategy.
 Agencies and providers should be able to show what outcomes they are actually achieving.
-Homelessness
-Manchester's homelessness crisis is visible on our streets, and it's hurting both the people without shelter and the families and businesses around them.
+Homelessness Manchester's homelessness crisis is visible on our streets, and it's hurting both the people without shelter and the families and businesses around them.
 Homelessness doesn't have one cause.
 Housing affordability matters, but mental illness, substance abuse, employment, and family circumstances can also contribute.
 Henry believes compassion and accountability have to exist together.
 We should help people who genuinely need help while addressing the causes that keep people trapped in homelessness, so Manchester can be a community that helps people get back on their feet without giving up on safe and welcoming streets.
-Education
-Every Manchester child deserves a great education, and every education dollar deserves accountability.
+Education Every Manchester child deserves a great education, and every education dollar deserves accountability.
 As a father of two young boys, Henry has a personal stake in getting this right.
 The debate should not simply be about spending more or spending less.
 It should be about what results we are getting for our children.
 Henry supports parents having meaningful choices in their children's education, with appropriate transparency when taxpayer dollars are involved.
 Education policy should focus on children and families, and every Manchester student should be prepared to succeed, whether they're heading to college, a trade, or building a business of their own.
 For Henry's full positions on these issues and others, including public safety, immigration, energy, abortion, the Second Amendment, and more, read below.
-My approach
-Listen first.
+My approach Listen first.
 Be clear about what a State Representative can actually do.
 Judge policy by results, constitutional principles, affordability, and its effect on the people of Ward 7.
-Economy, Taxes & Government
-Why are you running, and why should Ward 7 vote for you?
+Economy, Taxes & Government Why are you running, and why should Ward 7 vote for you?
 Representation should begin with listening and continue with accountability.
 Over the past several months, I have knocked on doors throughout Ward 7 and heard directly from residents about housing, taxes, schools, homelessness, speeding, public safety, and the cost of living.
 I am not running because I believe I have every answer.
@@ -70,8 +62,7 @@ When the state shifts costs to municipalities, local property taxpayers often pi
 I will examine state mandates, education funding, and policies that transfer costs onto Manchester.
 I will also oppose calling something a state spending cut when it merely moves the bill to local taxpayers.
 The real question is whether taxpayers actually pay less.
-Education
-Should Manchester receive more state education funding?
+Education Should Manchester receive more state education funding?
 Manchester should receive its fair share under a system that recognizes the actual needs of its students.
 But writing a larger check does not automatically create better schools.
 When additional education funding is proposed, I will ask: What problem are we solving?
@@ -90,8 +81,7 @@ Are funds being used for legitimate educational purposes?
 What safeguards exist against misuse?
 What is the program costing taxpayers?
 Education policy should focus on children and families rather than protecting or attacking institutions.
-Housing, Public Safety & Health
-What will you do about homelessness in Manchester?
+Housing, Public Safety & Health What will you do about homelessness in Manchester?
 We need to stop pretending homelessness has one cause.
 Housing affordability matters, but mental illness, substance abuse, employment, family circumstances, and other factors can also contribute.
 Our response therefore has to combine compassion with accountability.
@@ -120,8 +110,7 @@ At the state level, I will evaluate criminal laws, corrections, bail policies, m
 Locally, I will listen when residents raise concerns about theft, dangerous streets, or recurring problems.
 Supporting police and demanding accountability are not mutually exclusive.
 We should expect both.
-Values, Rights & Federal Issues
-What is your position on abortion?
+Values, Rights & Federal Issues What is your position on abortion?
 I am pro-life.
 My Catholic faith and my values have shaped my belief in the dignity and value of human life, including the life of the unborn.
 But being pro-life also means caring for the life and health of the mother.
@@ -167,8 +156,7 @@ I will evaluate proposals based on actual costs and benefits rather than politic
 If a policy significantly increases electricity costs, proponents should explain the measurable benefit ratepayers receive.
 If someone opposes cleaner or more efficient technology, they should explain why.
 New Hampshire families should not be forced to choose between protecting household budgets and pursuing sensible long-term energy policy.
-Health, Addiction & Working Across the Aisle
-What will you do about healthcare and mental health?
+Health, Addiction & Working Across the Aisle What will you do about healthcare and mental health?
 Government cannot solve every healthcare problem, but New Hampshire has legitimate responsibilities involving Medicaid, mental-health systems, substance-use treatment, and healthcare regulation.
 I want resources directed toward services that demonstrate results, particularly where untreated mental illness contributes to homelessness, emergency-room use, incarceration, or family instability.
 Prevention and effective treatment can sometimes cost taxpayers less than repeatedly dealing with crises after they occur.
@@ -189,8 +177,7 @@ I hope Democrats would give Republican ideas the same consideration.
 I will argue strongly for what I believe, but disagreement does not require disrespect.
 Voters send us to Concord to govern, not to perform for political parties.
 Good ideas do not become bad ideas because the other party thought of them first.
-Representation & Accountability
-Will you vote with your party or with Ward 7?
+Representation & Accountability Will you vote with your party or with Ward 7?
 I will listen carefully to Ward 7, but residents themselves will not always agree.
 I cannot honestly promise that every vote will reflect every constituent's opinion.
 My responsibility is to listen, study the legislation, consider the Constitution, examine the consequences, apply my principles, and cast the vote I believe best serves the people I represent.
@@ -227,8 +214,7 @@ Did I explain difficult votes?
 Did I continue showing up after the election?
 I do not want my report card to be a list of speeches I gave.
 I want it to be problems addressed, residents helped, taxpayer dollars scrutinized, and measurable improvements pursued.
-Economy, Workers & Public Trust
-What will you do about the rising cost of living?
+Economy, Workers & Public Trust What will you do about the rising cost of living?
 Government cannot control the price of groceries, gasoline, insurance, housing, and electricity simultaneously.
 But government influences the cost of living through taxes, fees, regulation, energy policy, and housing policy.
 That is why I will ask about the cumulative cost of legislation.
@@ -260,3 +246,12 @@ If I make a factual mistake, I will correct it.
 If I cast a vote and later conclude I was wrong, I will explain why.
 Changing your position because new evidence proves you wrong is not weakness.
 I want residents to judge me not by whether I am perfect, but by whether I am honest, prepared, and willing to correct course when necessary.
+Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up to join Henry Emele’s campaign for New Hampshire State Representative.
+Email Address Sign Up We respect your privacy.
+Thanks for signing up!
+We'll be in touch soon to find the best way for you to help.
+Meet Henry Issues Volunteer Contact Us HENRY EMELE Paid for by Henry Emele for NH State Representative ©# Henry Emele for NH State Representative.
+All Rights Reserved.
+Privacy & Terms

@@ -1,18 +1,5 @@
-Back to All Events
-Join local DFL candidates and community members for an afternoon of civic engagement.
-Mobilize Signup
-5:00-7:30 PM
-Neighborhood Door Knocking & Community Outreach
-Gather at Casey's before heading into the community to meet voters, listen to concerns, and discuss the issues that matter most to local families.
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Haven Twp Door Knocking Wednesday, July 29, 2026 5:00 PM 7:30 PM Casey's 7988 Front Street Clear Lake, Minnesota, 55319 United States (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+Mobilize Signup 5:00-7:30 PM Neighborhood Door Knocking & Community Outreach Gather at Casey's before heading into the community to meet voters, listen to concerns, and discuss the issues that matter most to local families.
 Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
-Featured Candidates:
-Brandon Van Dover, Candidate for MN SD 27
-Vanessa Davenport, Candidate for MN HD 27A
-We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
-Previous
-Previous
-July 23
-Dinner & Drinks with SD27 Candidates
-Next
-Next
-August 3
+Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
+Previous Previous July 23 Dinner & Drinks with SD27 Candidates Next Next August 3 Clear Lake Door Knocking Paid for by Davenport for Minnesota House 27A

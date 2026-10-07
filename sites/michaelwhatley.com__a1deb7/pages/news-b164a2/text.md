@@ -1,29 +1,8 @@
-Michael Whatley Endorsed by the U.S.
-Chamber of Commerce
-Today, Michael Whatley was endorsed by the U.S.
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE News Get the latest news from the campaign trail.
+X-twitter Facebook Instagram Press Release Michael Whatley Endorsed by the U.S.
+Chamber of Commerce Today, Michael Whatley was endorsed by the U.S.
 Chamber of Commerce.
-The Chamber endorsed Whatley because they know he is the Pro-Job-Creator candidate who will
-Endorsed by president Trump
-Get the latest news from the campaign trail.
-Press Release
-September 30, 2026
-Today, Michael Whatley hosted a Make More, Keep More press conference in Greensboro where he highlighted how Cooper’s far-left policies made life more expensive for
-September 29, 2026
-Yesterday, The Washington Reporter wrote about how Michael Whatley was instrumental to the federal government sending billions of dollars of federal disaster relief funds to
-September 26, 2026
-Today, Michael Whatley hosted a Protecting Our Kids press conference to highlight Roy Cooper’s failure of letting transgender men into our daughters bathrooms and sports.
-September 25, 2026
-Today, Vice President JD Vance and Michael Whatley slammed Roy Cooper’s radical far-left record at a rally in Greensboro.
-Vance and Whatley hit on Cooper’s
-September 21, 2026
-Today, at the RNC Midterm Convention Michael Whatley spoke about how Roy Cooper allowed healthcare premiums to rise 183%, to the highest in the nation,
-September 9, 2026
-Today, Michael Whatley hosted a protecting law and order press conference in Fayetteville.
-Michael was joined by Sheriff Wayne Coats of Harnett County and Aaron
-September 3, 2026
-On Friday, the non-partisan National Border Patrol Council (NBPC) endorsed Michael Whatley for US Senate due to his commitment to border security and the men
-August 31, 2026
-Michael Whatley recently wrote in The Washington Times about the one year anniversary of Iryna Zarutska’s tragic death and how Roy Cooper’s soft on crime
-August 24, 2026
-Today, Michael Whatley, law enforcement officials, and elected officials participated in a press conference discussing how soft-on-criminal policies led to the horrific tragedy of Iryna
-August 21, 2026
+The Chamber endorsed Whatley because they know he is the Pro-Job-Creator candidate who will Read More » September 30, 2026 Press Release Michael Whatley Hosts Make More, Keep More Press Conference in Greensboro Today, Michael Whatley hosted a Make More, Keep More press conference in Greensboro where he highlighted how Cooper’s far-left policies made life more expensive for Read More » September 29, 2026 Press Release ICYMI: Washington Reporter- Michael Whatley Was Instrumental to Western North Carolina Receiving Billions of Dollars in Federal Aid Following Hurricane Helene Yesterday, The Washington Reporter wrote about how Michael Whatley was instrumental to the federal government sending billions of dollars of federal disaster relief funds to Read More » September 26, 2026 Michael Whatley Hosts Protecting Our Kids Press Conference Today, Michael Whatley hosted a Protecting Our Kids press conference to highlight Roy Cooper’s failure of letting transgender men into our daughters bathrooms and sports.
+Read More » September 25, 2026 Press Release Vice President JD Vance and Michael Whatley Slam Roy Cooper’s Far-Left Record at Rally in Greensboro Today, Vice President JD Vance and Michael Whatley slammed Roy Cooper’s radical far-left record at a rally in Greensboro.
+Vance and Whatley hit on Cooper’s Read More » September 21, 2026 Press Release Michael Whatley Slams Roy Cooper’s Soft-on-Crime Agenda and Record of Raising Costs at Republican Midterm Convention Today, at the RNC Midterm Convention Michael Whatley spoke about how Roy Cooper allowed healthcare premiums to rise 183%, to the highest in the nation, Read More » September 9, 2026 Press Release Michael Whatley Hosts Protecting Law and Order Press Conference in Fayetteville Today, Michael Whatley hosted a protecting law and order press conference in Fayetteville.
+Michael was joined by Sheriff Wayne Coats of Harnett County and Aaron Read More » September 3, 2026 Press Release Michael Whatley Accepts Endorsement of National Border Patrol Council On Friday, the non-partisan National Border Patrol Council (NBPC) endorsed Michael Whatley for US Senate due to his commitment to border security and the men Read More » August 31, 2026 Press Release ICYMI- Whatley Oped in Washington Times: Iryna Zarutska Would Be Alive Today If Not For Roy Cooper Michael Whatley recently wrote in The Washington Times about the one year anniversary of Iryna Zarutska’s tragic death and how Roy Cooper’s soft on crime Read More » August 24, 2026 Press Release Michael Whatley and Law Enforcement Officials Speak on the One-Year-Anniversary of Iryna Zarutska’s Horrific Murder Today, Michael Whatley, law enforcement officials, and elected officials participated in a press conference discussing how soft-on-criminal policies led to the horrific tragedy of Iryna Read More » August 21, 2026 Page 1 Page 2 Page 3 Page 4 X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

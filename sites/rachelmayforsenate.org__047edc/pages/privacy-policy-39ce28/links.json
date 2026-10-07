@@ -1,7 +1,26 @@
 [
-"https://rachelmayforsenate.org/about-rachel",
-"https://rachelmayforsenate.org/home",
-"https://rachelmayforsenate.org/news",
-"https://rachelmayforsenate.org/privacy-policy",
-"https://rachelmayforsenate.org/results"
+{
+"text": "About Rachel",
+"href": "https://www.rachelmayforsenate.org/about-rachel"
+},
+{
+"text": "Home",
+"href": "https://www.rachelmayforsenate.org/home"
+},
+{
+"text": "News",
+"href": "https://www.rachelmayforsenate.org/news"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.rachelmayforsenate.org/privacy-policy"
+},
+{
+"text": "Results",
+"href": "https://www.rachelmayforsenate.org/results"
+},
+{
+"text": "www.rachelmayforsenate.org",
+"href": "https://www.rachelmayforsenate.org/home"
+}
 ]

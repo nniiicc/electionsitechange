@@ -1,23 +1,130 @@
 [
-"http://facebook.com/markoliiaspage",
-"https://edmondsbeacon.com/stories/senate-passes-liias-bill-codifying-apple-health-coverage-for-hiv-antiviral-drugs,114180",
-"https://heraldnet.com/2026/03/31/snoco-officials-call-on-congress-to-fund-clean-transportation",
-"https://housingwire.com/articles/washington-private-listing-networks-law",
-"https://instagram.com/MarkoLiias",
-"https://kffhealthnews.org/health-care-costs/medical-debt-wage-garnishment-state-legislation-patient-protection",
-"https://markoliias.com/",
-"https://markoliias.com/about-marko",
-"https://markoliias.com/contact",
-"https://markoliias.com/endorsements",
-"https://markoliias.com/news",
-"https://markoliias.com/news/page/3",
-"https://markoliias.com/record",
-"https://mltnews.com/sen-liias-bill-banning-certain-animals-from-traveling-acts-signed-into-law",
-"https://myedmondsnews.com/2025/03/recycling-system-overhaul-bill-clears-washington-senate",
-"https://nbcrightnow.com/news/washington-senate-approves-bill-to-speed-up-construction-projects/article_052689f8-feee-11ef-b966-1714b0a4da5c.html",
-"https://seattletimes.com/opinion/saving-local-news-and-strengthening-democracy-in-washington",
-"https://secure.actblue.com/donate/marko-liias-4",
-"https://stateline.org/2026/03/19/trump-is-forcing-coal-plants-to-stay-open-it-could-cost-customers-billions",
-"https://theurbanist.org/2025/03/26/state-budget-proposals-focus-on-highway-expansion",
-"https://x.com/MarkoLiias"
+{
+"text": "About Marko",
+"href": "https://markoliias.com/about-marko/"
+},
+{
+"text": "Contact",
+"href": "https://markoliias.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marko-liias-4"
+},
+{
+"text": "Endorsements",
+"href": "https://markoliias.com/endorsements/"
+},
+{
+"text": "Newer posts",
+"href": "https://markoliias.com/news/"
+},
+{
+"text": "News",
+"href": "https://markoliias.com/news/"
+},
+{
+"text": "Older posts",
+"href": "https://markoliias.com/news/page/3/"
+},
+{
+"text": "Read More",
+"href": "https://kffhealthnews.org/health-care-costs/medical-debt-wage-garnishment-state-legislation-patient-protection/"
+},
+{
+"text": "Read More",
+"href": "https://mltnews.com/sen-liias-bill-banning-certain-animals-from-traveling-acts-signed-into-law/"
+},
+{
+"text": "Read More",
+"href": "https://myedmondsnews.com/2025/03/recycling-system-overhaul-bill-clears-washington-senate/"
+},
+{
+"text": "Read More",
+"href": "https://stateline.org/2026/03/19/trump-is-forcing-coal-plants-to-stay-open-it-could-cost-customers-billions/"
+},
+{
+"text": "Read More",
+"href": "https://www.edmondsbeacon.com/stories/senate-passes-liias-bill-codifying-apple-health-coverage-for-hiv-antiviral-drugs,114180"
+},
+{
+"text": "Read More",
+"href": "https://www.heraldnet.com/2026/03/31/snoco-officials-call-on-congress-to-fund-clean-transportation/#google_vignette"
+},
+{
+"text": "Read More",
+"href": "https://www.housingwire.com/articles/washington-private-listing-networks-law/"
+},
+{
+"text": "Read More",
+"href": "https://www.nbcrightnow.com/news/washington-senate-approves-bill-to-speed-up-construction-projects/article_052689f8-feee-11ef-b966-1714b0a4da5c.html"
+},
+{
+"text": "Read More",
+"href": "https://www.seattletimes.com/opinion/saving-local-news-and-strengthening-democracy-in-washington/"
+},
+{
+"text": "Read More",
+"href": "https://www.theurbanist.org/2025/03/26/state-budget-proposals-focus-on-highway-expansion/"
+},
+{
+"text": "Record",
+"href": "https://markoliias.com/record/"
+},
+{
+"text": "Recycling system overhaul bill clears Washington Senate",
+"href": "https://myedmondsnews.com/2025/03/recycling-system-overhaul-bill-clears-washington-senate/"
+},
+{
+"text": "Saving Local News and Strengthening Democracy in Washington",
+"href": "https://www.seattletimes.com/opinion/saving-local-news-and-strengthening-democracy-in-washington/"
+},
+{
+"text": "Sen. Liias bill banning certain animals from traveling acts signed into law",
+"href": "https://mltnews.com/sen-liias-bill-banning-certain-animals-from-traveling-acts-signed-into-law/"
+},
+{
+"text": "Senate passes Liias bill codifying Apple Health coverage for HIV antiviral drugs",
+"href": "https://www.edmondsbeacon.com/stories/senate-passes-liias-bill-codifying-apple-health-coverage-for-hiv-antiviral-drugs,114180"
+},
+{
+"text": "SnoCo officials call on Congress to fund clean transportation",
+"href": "https://www.heraldnet.com/2026/03/31/snoco-officials-call-on-congress-to-fund-clean-transportation/#google_vignette"
+},
+{
+"text": "State Budget Proposals Focus on Highway Expansion in Both Chambers",
+"href": "https://www.theurbanist.org/2025/03/26/state-budget-proposals-focus-on-highway-expansion/"
+},
+{
+"text": "State Lawmakers Seek Restraints on Wage Garnishment for Medical Debt",
+"href": "https://kffhealthnews.org/health-care-costs/medical-debt-wage-garnishment-state-legislation-patient-protection/"
+},
+{
+"text": "Trump is forcing coal plants to stay open. It could cost customers billions.",
+"href": "https://stateline.org/2026/03/19/trump-is-forcing-coal-plants-to-stay-open-it-could-cost-customers-billions/"
+},
+{
+"text": "Washington Senate approves bill to speed up construction projects",
+"href": "https://www.nbcrightnow.com/news/washington-senate-approves-bill-to-speed-up-construction-projects/article_052689f8-feee-11ef-b966-1714b0a4da5c.html"
+},
+{
+"text": "Washington law limits private listing networks for homes",
+"href": "https://www.housingwire.com/articles/washington-private-listing-networks-law/"
+},
+{
+"text": "[image: Marko Liias | State Senate | 21st LD | DEM]",
+"href": "https://markoliias.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/markoliiaspage"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/MarkoLiias"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/MarkoLiias"
+}
 ]

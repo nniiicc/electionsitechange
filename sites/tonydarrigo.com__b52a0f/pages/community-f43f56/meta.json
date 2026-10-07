@@ -1,7 +1,9 @@
 {
  "description": "Login or Signup to join the community",
  "final_url": "https://tonydarrigo.com/community/?fcom_action=auth&redirect_to=/community",
- "paid_for_by": null,
- "title": "Join Florida US District 13 CommunityJoin Florida US District 13 CommunityScroll to topScroll to top",
+ "fingerprint": "604baa82a9a09cf4e172296f34e0957cdaa3a9f2",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Join Florida US District 13 Community",
  "years_mentioned": []
 }

@@ -1,5 +1,3 @@
-Previous
-Previous
-‘This isn’t our first rodeo’: Kansas, Lawrence Democrats rally, prep for vote against amendment in August 2026
-Next
-Next
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE Kansas families with SNAP can still buy soda, candy, but new law adds red tape to assistance In the News Apr 14 Written By Suzanne Wikle Suzanne Wikle Previous Previous ‘This isn’t our first rodeo’: Kansas, Lawrence Democrats rally, prep for vote against amendment in August 2026 Next Next Kansas lawmakers alter bidding process for Medicaid services after Aetna loses state contract Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

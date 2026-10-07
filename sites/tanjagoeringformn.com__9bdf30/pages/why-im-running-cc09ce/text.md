@@ -1,4 +1,4 @@
-For me, everything begins with being a parent and now a grandparent.
+Home Issues Why I'm Running Donate Contact More Home Issues Why I'm Running Donate Contact Home Issues Why I'm Running Donate Contact Why I'm Running For me, everything begins with being a parent and now a grandparent.
 I was born and raised in Minnesota, and for more than 35 years my husband Joe and I have called District 13 our home, raising our children in the ROCORI schools.
 This is where our roots are, and it’s the place I want to keep strong for the next generation.
 I graduated from the College of Saint Benedict and built my career in management, staffing, human resources, and business development right here in Central Minnesota.
@@ -29,9 +29,7 @@ If I have the honor of serving you in the Minnesota House, I will bring common-s
 Paul.
 But most of all, I want to hear from you!
 Please share your concerns, your ideas, and your hopes for the future.
-By working together, we can get Minnesota back on the right track and build a stronger future for Central Minnesota and communities across District 13A.
--Tanja Goering
-Thanks to Minnesota’s Political Contribution Refund (PCR) Program, your donation can be refunded by the state up to $75 per person or $150 per married couple.
+By working together, we can get Minnesota back on the right track and build a stronger future for Central Minnesota and communities across District 13A. -Tanja Goering Give $75, Get $75 Thanks to Minnesota’s Political Contribution Refund (PCR) Program, your donation can be refunded by the state up to $# per person or $# per married couple.
 It’s simple: Make your contribution, we’ll send you the return form, you return it to the State and get your refund in a couple of weeks.
-Paid & prepared for by Tanja Goering for Minnesota, P.O.
+CONTRIBUTE Gallery tanjagoeringformn@gmail.com Paid & prepared for by Tanja Goering for Minnesota, P.O.
 Box 175, Richmond, MN 56368

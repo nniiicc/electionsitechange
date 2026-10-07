@@ -1,25 +1,106 @@
 [
-"https://boston.gov/departments/food-access/map-meal-sites-boston",
-"https://boston.gov/news/coronavirus-disease-covid-19-boston",
-"https://chelseama.gov/coronavirusupdates",
-"https://chelseama.gov/coronavirusupdates/chelseapublicschools",
-"https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2aad89e0-3d8d-4885-94f4-7c73aaa76261",
-"https://facebook.com/daniel.ryan.186",
-"https://instagram.com/staterepdanryan",
-"https://mass.gov/alerts/cares-act-unemployment",
-"https://mass.gov/covid-19-ppe-procurement-and-donation-program",
-"https://mass.gov/info-details/covid-19-resources-and-guidance-for-businesses",
-"https://mass.gov/orgs/department-of-unemployment-assistance",
-"https://mass.gov/orgs/executive-office-of-elder-affairs",
-"https://mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19",
-"https://oui.doleta.gov/unemploy/disaster.asp",
-"https://repdanryan.com/",
-"https://repdanryan.com/category/news",
-"https://repdanryan.com/issues",
-"https://repdanryan.com/news",
-"https://repdanryan.com/news/2020/06/17/happy-bunker-hill-day-everyone",
-"https://repdanryan.com/volunteer",
-"https://sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources",
-"https://secure.actblue.com/donate/repdanryan",
-"https://twitter.com/repdanryan"
+{
+"text": "Boston",
+"href": "https://www.boston.gov/departments/food-access/map-meal-sites-boston"
+},
+{
+"text": "Boston COVID-19 updates",
+"href": "https://www.boston.gov/news/coronavirus-disease-covid-19-boston"
+},
+{
+"text": "COVID-19 Command Center sitrep_04.02.20",
+"href": "https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2aad89e0-3d8d-4885-94f4-7c73aaa76261"
+},
+{
+"text": "Chelsea",
+"href": "https://www.chelseama.gov/coronavirusupdates/chelseapublicschools"
+},
+{
+"text": "Chelsea COVID-19 updates",
+"href": "https://www.chelseama.gov/coronavirusupdates"
+},
+{
+"text": "Commonwealth COVID-19 updates",
+"href": "https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19"
+},
+{
+"text": "Commonwealth Small Business Resources",
+"href": "https://www.mass.gov/info-details/covid-19-resources-and-guidance-for-businesses"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/repdanryan"
+},
+{
+"text": "Elder Affairs",
+"href": "https://www.mass.gov/orgs/executive-office-of-elder-affairs"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/daniel.ryan.186"
+},
+{
+"text": "Federal Small Business Administration",
+"href": "https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/repdanryan"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/daniel.ryan.186"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/staterepdanryan/"
+},
+{
+"text": "Home",
+"href": "https://www.repdanryan.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.repdanryan.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.repdanryan.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://www.repdanryan.com/news/"
+},
+{
+"text": "Next →",
+"href": "https://www.repdanryan.com/news/2020/06/17/happy-bunker-hill-day-everyone/"
+},
+{
+"text": "PPE Procurement and Donation Portal",
+"href": "https://www.mass.gov/covid-19-ppe-procurement-and-donation-program"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/repdanryan"
+},
+{
+"text": "US Department of Labor",
+"href": "https://oui.doleta.gov/unemploy/disaster.asp"
+},
+{
+"text": "Unemployment Assistance",
+"href": "https://www.mass.gov/orgs/department-of-unemployment-assistance"
+},
+{
+"text": "Unemployment For 1099 filers and the self-employed",
+"href": "https://www.mass.gov/alerts/cares-act-unemployment#undefined"
+},
+{
+"text": "Volunteer",
+"href": "https://www.repdanryan.com/volunteer/"
+},
+{
+"text": "[image: Representative Dan Ryan]",
+"href": "https://www.repdanryan.com/"
+}
 ]

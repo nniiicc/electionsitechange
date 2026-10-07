@@ -1,9 +1,30 @@
 [
-"https://clearyfornd.com/",
-"https://clearyfornd.com/about-sean",
-"https://clearyfornd.com/blog",
-"https://clearyfornd.com/general-8",
-"https://clearyfornd.com/results",
-"https://facebook.com/ClearyForSenate",
-"https://secure.anedot.com/abef876f-be69-4899-923c-d31878487dba/donate"
+{
+"text": "ABOUT",
+"href": "https://www.clearyfornd.com/about-sean"
+},
+{
+"text": "Click here to view our privacy policy",
+"href": "https://www.clearyfornd.com/general-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/abef876f-be69-4899-923c-d31878487dba/donate"
+},
+{
+"text": "NEWS",
+"href": "https://www.clearyfornd.com/blog"
+},
+{
+"text": "RESULTS",
+"href": "https://www.clearyfornd.com/results"
+},
+{
+"text": "[image: Asset 9_2x-8.png]",
+"href": "https://www.clearyfornd.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ClearyForSenate"
+}
 ]

@@ -1,1 +1,3 @@
-Civic Information and Resources Voter Eligibility & Registration Information Register to Vote Track Your Ballot State of Oregon: Election Information Legislator Lookup Oregon State Senate District 11 Map
+0 Skip to Content 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Donate Open Menu Close Menu English Donate 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved Open Menu Close Menu 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Back Donate Civic Information and Resources Voter Eligibility & Registration Information Register to Vote Track Your Ballot State of Oregon: Election Information Legislator Lookup Oregon State Senate District 11 Map Civic Resources Community Resources Shop the Store Donate ©# Virginia Stapleton.
+Paid for by Elect Virginia Stapleton PAC #20287.
+Privacy Policy .

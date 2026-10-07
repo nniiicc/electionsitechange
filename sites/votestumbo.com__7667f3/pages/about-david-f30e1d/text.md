@@ -1,4 +1,5 @@
-David Stumbo was elected as Solicitor for the Eighth Judicial Circuit of South Carolina (Abbeville, Greenwood, Laurens, and Newberry counties) in November 2012 and is currently serving his fourth term as Solicitor.
+Countdown loading...
+Home About David Endorsements Campaign Updates Media Join the Fight About David David Stumbo was elected as Solicitor for the Eighth Judicial Circuit of South Carolina (Abbeville, Greenwood, Laurens, and Newberry counties) in November 2012 and is currently serving his fourth term as Solicitor.
 A proven conservative leader and career prosecutor with over 20 years of experience, Stumbo has built a reputation for putting violent criminals, drug dealers, and sex offenders behind bars while fighting for justice on behalf of victims and their families.
 Solicitor Stumbo served as President of the South Carolina Solicitors' Association from 2017-2020.
 Over the course of his career, he has personally prosecuted hundreds of criminal cases, including four capital murder (death penalty) cases.
@@ -16,3 +17,5 @@ Solicitor Stumbo completed his undergraduate studies at Toccoa Falls College in 
 He earned his law degree from the University of South Carolina School of Law and was sworn in as a practicing attorney in 2004.
 David and his wife Vanessa, a native of Mountville in Laurens County, reside in Greenwood with their daughters Hallie Ruth, Maggie Brooke, and Annie.
 Their adult son Gabe and daughter-in-law Hannah live in the Greenville area.
+Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
+Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram

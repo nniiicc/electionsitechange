@@ -1,4 +1,14 @@
 [
-"http://irtl.org/",
-"http://peggymayfield.com/"
+{
+"text": "peggy@peggymayfield.com",
+"href": "mailto:Peggy@peggymayfield.com"
+},
+{
+"text": "www.irtl.org",
+"href": "http://www.irtl.org"
+},
+{
+"text": "www.peggymayfield.com",
+"href": "http://www.peggymayfield.com"
+}
 ]

@@ -1,5 +1,5 @@
-The Daily News editorial released on September 21st…
-After careful consideration, the TDN editorial board urges you to vote for Jim Walsh for the state House of Representative District 19 position no. 1.
+Skip to content Home About News Contact Subscribe Campaign Videos Donate To Jim’s Campaign The Daily News endorses Jim Walsh Posted on September 21, 2016 September 25, 2017 by abhays The Daily News editorial released on September 21st… After careful consideration, the TDN editorial board urges you to vote for Jim Walsh for the state House of Representative District 19 position no.
+1.
 State political operatives from both sides of the aisle tell us polling shows taxes and gun control are the hot button issues for this election.
 We need a representative who will vote “no” on a state income tax, takes a tough stance on taxes in general, and will stand up for our Second Amendment rights — Jim Walsh is clearly that person.
 With the State Supreme Court McCleary decision, the court has given state legislators a mandate to “fully fund” education.
@@ -54,3 +54,5 @@ Purcell hasn’t stated if she’d give up her political consulting if elected a
 The 19th District legislators will be faced with tough decisions in this year’s legislative session, and Jim Walsh is the person we want representing us.
 If you voted for J.D.
 Rossetti in the primary, if you don’t want your taxes increased, if you support the Second Amendment – support Jim Walsh.
+Posted in Uncategorized .
+Post navigation ← WALSH ENDORSED BY HUNTERS HERITAGE… Grateful for support → Sign up to receive campaign news and updates Name * First Last Email * Paid for by Friends of Jim Walsh (R) · PO Box 2259 · Aberdeen, WA 98520 A SiteOrigin Theme

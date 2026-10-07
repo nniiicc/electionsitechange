@@ -1,20 +1,74 @@
 [
-"http://allaboutcookies.org/",
-"http://networkadvertising.org/understanding-online-advertising/how-does-it-work",
-"http://optout.aboutads.info/",
-"https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
-"https://facebook.com/settings?tab=ads",
-"https://fatimamuse.com/",
-"https://fatimamuse.com/about-us",
-"https://fatimamuse.com/contact-us",
-"https://fatimamuse.com/en-espa\u00f1ol",
-"https://fatimamuse.com/get-to-know-the-candidate",
-"https://fatimamuse.com/legal-notice",
-"https://fatimamuse.com/merchant-policies",
-"https://fatimamuse.com/services",
-"https://google.com/intl/en/policies/privacy",
-"https://google.com/settings/ads/anonymous",
-"https://secure.actblue.com/donate/votemuse",
-"https://tools.google.com/dlpage/gaoptout",
-"https://ueni.com/"
+{
+"text": "About",
+"href": "https://www.fatimamuse.com/get-to-know-the-candidate"
+},
+{
+"text": "Contact",
+"href": "https://www.fatimamuse.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votemuse"
+},
+{
+"text": "En Español",
+"href": "https://www.fatimamuse.com/en-espa%C3%B1ol"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fatimamuse.com/about-us"
+},
+{
+"text": "Home",
+"href": "https://www.fatimamuse.com/"
+},
+{
+"text": "Legal Notice",
+"href": "https://www.fatimamuse.com/legal-notice"
+},
+{
+"text": "Merchant Policies",
+"href": "https://www.fatimamuse.com/merchant-policies"
+},
+{
+"text": "Priorities",
+"href": "https://www.fatimamuse.com/services"
+},
+{
+"text": "[tooltip: logo]",
+"href": "https://ueni.com/"
+},
+{
+"text": "http://optout.aboutads.info",
+"href": "http://optout.aboutads.info"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org"
+},
+{
+"text": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work",
+"href": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work"
+},
+{
+"text": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
+"href": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.facebook.com/settings/?tab=ads",
+"href": "https://www.facebook.com/settings/?tab=ads"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "https://www.google.com/settings/ads/anonymous",
+"href": "https://www.google.com/settings/ads/anonymous"
+}
 ]

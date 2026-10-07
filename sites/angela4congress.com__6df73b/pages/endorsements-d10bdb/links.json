@@ -1,12 +1,46 @@
 [
-"https://angela4congress.com/",
-"https://angela4congress.com/about",
-"https://angela4congress.com/issues",
-"https://angela4congress.com/media",
-"https://angela4congress.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61575225022271",
-"https://instagram.com/angela4congress",
-"https://secure.actblue.com/donate/web_ms_agt",
-"https://x.com/angela4ca"
+{
+"text": "About",
+"href": "https://www.angela4congress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_ms_agt"
+},
+{
+"text": "Issues",
+"href": "https://www.angela4congress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.angela4congress.com/media"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.angela4congress.com/volunteer"
+},
+{
+"text": "[image: Angela Gonzales-Torres for Congress logo]",
+"href": "https://www.angela4congress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.angela4congress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61575225022271&sk="
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/angela4congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/angela4ca"
+}
 ]

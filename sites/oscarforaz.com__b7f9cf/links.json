@@ -1,13 +1,54 @@
 [
-"https://apps.azsos.gov/apps/election/eps/op",
-"https://facebook.com/OscarforAZ",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/oscarforaz",
-"https://oscarforaz.com/",
-"https://oscarforaz.com/about-oscar",
-"https://oscarforaz.com/donate",
-"https://oscarforaz.com/endorsements-1",
-"https://oscarforaz.com/press-kit",
-"https://secure.actblue.com/donate/oscar2026",
-"https://x.com/os_delossantos"
+{
+"text": "About Oscar",
+"href": "https://oscarforaz.com/about-oscar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/oscar2026"
+},
+{
+"text": "Donate",
+"href": "https://oscarforaz.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://oscarforaz.com/endorsements-1"
+},
+{
+"text": "Home",
+"href": "https://oscarforaz.com/"
+},
+{
+"text": "Learn more about Oscar",
+"href": "https://oscarforaz.com/about-oscar"
+},
+{
+"text": "Press Kit",
+"href": "https://oscarforaz.com/press-kit"
+},
+{
+"text": "[image: Oscar for AZ]",
+"href": "https://oscarforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/OscarforAZ"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/oscarforaz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/os_delossantos"
+},
+{
+"text": "get oscar on the ballot",
+"href": "https://apps.azsos.gov/apps/election/eps/op/"
+}
 ]

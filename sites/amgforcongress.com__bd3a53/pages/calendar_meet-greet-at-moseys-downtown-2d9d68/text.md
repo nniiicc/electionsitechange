@@ -1,11 +1,4 @@
-Back to All Events
-NOTE: This event starts at 4PM Central/5PM Eastern
-Join us for a meet and greet with Amanda Marie Green!
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Meet & Greet at Mosey's Downtown Sunday, September 27, 2026 4:00 PM 6:00 PM Mosey's Downtown 425 Grace Avenue Panama City, Florida, 32401 United States (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Join us for a meet and greet with Amanda Marie Green!
 Have your questions answered, check your voter registration, get registered to vote (Oct 5th is deadline to register to vote in this election!), and know that your voice/your vote matters.
-Previous
-Previous
-September 26
-Panama City Oktoberfest Festival
-Next
-Next
-September 28
+Previous Previous September 26 Panama City Oktoberfest Festival Next Next September 28 Bay Young Professionals Political Pulse TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

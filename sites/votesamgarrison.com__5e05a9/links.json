@@ -1,13 +1,54 @@
 [
-"https://secure.anedot.com/samgarrison/donate",
-"https://vimeo.com/768320054",
-"https://votesamgarrison.com/",
-"https://votesamgarrison.com/first-coast-connect-interview",
-"https://votesamgarrison.com/issues",
-"https://votesamgarrison.com/news",
-"https://votesamgarrison.com/opinion-why-im-voting-no-on-floridas-amendment-3-state-rep-sam-garrison",
-"https://votesamgarrison.com/privacy-policy",
-"https://votesamgarrison.com/record",
-"https://votesamgarrison.com/sam-garrison-says-florida-doesnt-need-recreational-pot-to-thrive",
-"https://votesamgarrison.com/story"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/samgarrison/donate"
+},
+{
+"text": "Issues",
+"href": "https://votesamgarrison.com/issues/"
+},
+{
+"text": "Learn More About Sam’s Plans to Keep Florida Free",
+"href": "https://votesamgarrison.com/issues/"
+},
+{
+"text": "News",
+"href": "https://votesamgarrison.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesamgarrison.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://votesamgarrison.com/record/"
+},
+{
+"text": "Story",
+"href": "https://votesamgarrison.com/story/"
+},
+{
+"text": "[image: Sam Garrison for Florida House District 11]",
+"href": "https://votesamgarrison.com/"
+},
+{
+"text": "[image: logo][image: logo][image: logo][image: logo]",
+"href": "https://votesamgarrison.com"
+},
+{
+"text": "[image] First Coast Connect Interview October 3, 2024",
+"href": "https://votesamgarrison.com/first-coast-connect-interview/"
+},
+{
+"text": "[image] Opinion: Why I’m voting ‘no’ on Florida’s Amendment 3 | State Rep. Sam Garrison October 8, 2024",
+"href": "https://votesamgarrison.com/opinion-why-im-voting-no-on-floridas-amendment-3-state-rep-sam-garrison/"
+},
+{
+"text": "[image] Sam Garrison says Florida doesn’t need recreational pot to thrive October 4, 2024",
+"href": "https://votesamgarrison.com/sam-garrison-says-florida-doesnt-need-recreational-pot-to-thrive/"
+},
+{
+"text": "[image] [image]",
+"href": "https://vimeo.com/768320054"
+}
 ]

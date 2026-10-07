@@ -1,217 +1,1238 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=LBJ+Birthday+Bash&dates=20260827T230000Z%2F20260828T010000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=LBK+Phone+Bank&dates=20260912T160000Z%2F20260912T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=LBK+Phone+Bank&dates=20260926T160000Z%2F20260926T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=LBK+Phone+Bank&dates=20261010T160000Z%2F20261010T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank&dates=20260815T160000Z%2F20260815T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank&dates=20260829T160000Z%2F20260829T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260725T150000Z%2F20260726T043000Z&location=601+Walnut+Street%2C+Idalou%2C+Texas%2C+79329%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260801T150000Z%2F20260801T163000Z&location=10th+Street%2C+Lubbock%2C+Texas%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260808T150000Z%2F20260808T170000Z&location=4101+Avenue+D%2C+Lubbock%2C+Texas%2C+79404%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260815T150000Z%2F20260815T170000Z&location=Elgin+Avenue%2C+Lubbock%2C+Texas%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260822T150000Z%2F20260822T170000Z&location=2001+Mac+Davis+Lane%2C+Lubbock%2C+Texas%2C+79401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260829T150000Z%2F20260829T170000Z&location=26th+Street%2C+Lubbock%2C+Texas%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260905T150000Z%2F20260905T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260906T190000Z%2F20260906T200000Z&location=5401+Avenue+U%2C+Lubbock%2C+Texas%2C+79412%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260912T150000Z%2F20260912T160000Z&location=4702+15th+Street%2C+Lubbock%2C+Texas%2C+79416%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260919T150000Z%2F20260919T160000Z&location=5402+12th+Street%2C+Lubbock%2C+Texas%2C+79416%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260926T150000Z%2F20260926T160000Z&location=2811+58th+Street%2C+Lubbock%2C+Texas%2C+79413%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260927T190000Z%2F20260927T200000Z&location=4602+Chicago+Avenue%2C+Lubbock%2C+Texas%2C+79414%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261002T223000Z%2F20261002T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261003T150000Z%2F20261003T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261009T223000Z%2F20261009T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261010T150000Z%2F20261010T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261013T223000Z%2F20261013T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261016T223000Z%2F20261016T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261017T150000Z%2F20261017T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261020T103000Z%2F20261020T153000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261023T223000Z%2F20261023T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261024T150000Z%2F20261024T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261027T223000Z%2F20261027T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261030T223000Z%2F20261030T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261031T150000Z%2F20261031T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261007T233000Z%2F20261008T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261014T113000Z%2F20261014T153000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261021T233000Z%2F20261022T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261028T233000Z%2F20261029T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking&dates=20260903T233000Z%2F20260904T010000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking&dates=20260924T233000Z%2F20260925T003000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking+&dates=20260910T233000Z%2F20260911T003000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking+&dates=20260917T233000Z%2F20260918T003000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Wirting&dates=20260822T160000Z%2F20260822T183000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Writing&dates=20260725T160000Z%2F20260726T053000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Writing&dates=20260808T160000Z%2F20260808T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Writing&dates=20260905T160000Z%2F20260905T170000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Abilene&dates=20260720T220000Z%2F20260720T233000Z&location=4310+Buffalo+Gap+Road%2C+Abilene%2C+Texas%2C+79606%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Big+Spring&dates=20260719T203000Z%2F20260719T213000Z&location=1001+Birdwell+Lane%2C+Big+Spring%2C+Texas%2C+79720%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Plainview&dates=20260719T160000Z%2F20260720T053000Z&location=1107+Smyth+Street%2C+Plainview%2C+Texas%2C+79072%2C+United+States",
-"http://maps.google.com/?q=1001+Birdwell+Lane+Big+Spring%2C+Texas%2C+79720+United+States",
-"http://maps.google.com/?q=10th+Street+Lubbock%2C+Texas+United+States",
-"http://maps.google.com/?q=1107+Smyth+Street+Plainview%2C+Texas%2C+79072+United+States",
-"http://maps.google.com/?q=2001+Mac+Davis+Lane+Lubbock%2C+Texas%2C+79401+United+States",
-"http://maps.google.com/?q=2611+Boston+Avenue+Lubbock%2C+Texas%2C+79410+United+States",
-"http://maps.google.com/?q=26th+Street+Lubbock%2C+Texas+United+States",
-"http://maps.google.com/?q=2809-A+74th+Street+Lubbock%2C+Texas%2C+79423+United+States",
-"http://maps.google.com/?q=2811+58th+Street+Lubbock%2C+Texas%2C+79413+United+States",
-"http://maps.google.com/?q=4101+Avenue+D+Lubbock%2C+Texas%2C+79404+United+States",
-"http://maps.google.com/?q=4310+Buffalo+Gap+Road+Abilene%2C+Texas%2C+79606+United+States",
-"http://maps.google.com/?q=4602+Chicago+Avenue+Lubbock%2C+Texas%2C+79414+United+States",
-"http://maps.google.com/?q=4702+15th+Street+Lubbock%2C+Texas%2C+79416+United+States",
-"http://maps.google.com/?q=5401+Avenue+U+Lubbock%2C+Texas%2C+79412+United+States",
-"http://maps.google.com/?q=5402+12th+Street+Lubbock%2C+Texas%2C+79416+United+States",
-"http://maps.google.com/?q=601+Walnut+Street+Idalou%2C+Texas%2C+79329+United+States",
-"http://maps.google.com/?q=Clayton+Carter+Park",
-"http://maps.google.com/?q=Dupree+Park",
-"http://maps.google.com/?q=Elgin+Avenue+Lubbock%2C+Texas+United+States",
-"http://maps.google.com/?q=George+Woods+Park",
-"http://maps.google.com/?q=Good+Line+Beer+Co",
-"http://maps.google.com/?q=Good+Line+Beer+Co.",
-"http://maps.google.com/?q=Harwell+Elementary",
-"http://maps.google.com/?q=Hollins+Park",
-"http://maps.google.com/?q=Lubbock+County+Dem+HQ",
-"http://maps.google.com/?q=Maedgen+Park",
-"http://maps.google.com/?q=Naomi+Reagan+Park",
-"http://maps.google.com/?q=Pallottine+Park",
-"http://maps.google.com/?q=Pioneer+Park",
-"http://maps.google.com/?q=Quincy+Park",
-"http://maps.google.com/?q=Wagner+Park",
-"http://maps.google.com/?q=Will+Sedberry+Park",
-"http://maps.google.com/?q=Wolffarth+Elementary",
-"https://bsky.app/profile/rablekyle.bsky.social",
-"https://facebook.com/profile.php?id=61574961930745",
-"https://instagram.com/rableforwesttexas",
-"https://mobilize.us/dashboard/texasdemocrats/event/1013489",
-"https://mobilize.us/mobilize/event/1005798",
-"https://mobilize.us/s/ya5NCz",
-"https://mobilize.us/texasdemocrats/event/1013487",
-"https://mobilize.us/texasdemocrats/event/1013493",
-"https://mobilize.us/texasdemocrats/event/1013494",
-"https://mobilize.us/texasdemocrats/event/1013495",
-"https://mobilize.us/texasdemocrats/event/1018380",
-"https://mobilize.us/texasdemocrats/event/1018382",
-"https://mobilize.us/texasdemocrats/event/1018384",
-"https://mobilize.us/texasdemocrats/event/1018387",
-"https://mobilize.us/texasdemocrats/event/1018388",
-"https://mobilize.us/texasdemocrats/event/1018389",
-"https://mobilize.us/texasdemocrats/event/1034206",
-"https://mobilize.us/texasdemocrats/event/1034208",
-"https://mobilize.us/texasdemocrats/event/1041051",
-"https://mobilize.us/texasdemocrats/event/1041058",
-"https://mobilize.us/texasdemocrats/event/1041072",
-"https://mobilize.us/texasdemocrats/event/1041078",
-"https://mobilize.us/texasdemocrats/event/1041082",
-"https://mobilize.us/texasdemocrats/event/1041089",
-"https://mobilize.us/texasdemocrats/event/1041097",
-"https://mobilize.us/texasdemocrats/event/1041107",
-"https://mobilize.us/texasdemocrats/event/1041113",
-"https://mobilize.us/texasdemocrats/event/1041117",
-"https://mobilize.us/texasdemocrats/event/1041123",
-"https://mobilize.us/texasdemocrats/event/1041131",
-"https://mobilize.us/texasdemocrats/event/1041135",
-"https://rableforwesttexas.com/",
-"https://rableforwesttexas.com/about",
-"https://rableforwesttexas.com/cart",
-"https://rableforwesttexas.com/contact",
-"https://rableforwesttexas.com/donate",
-"https://rableforwesttexas.com/endorsements",
-"https://rableforwesttexas.com/events",
-"https://rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5",
-"https://rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5?format=ical",
-"https://rableforwesttexas.com/events/7n7hdcxmshrm7njc8hdxj66cyxrh6s",
-"https://rableforwesttexas.com/events/7n7hdcxmshrm7njc8hdxj66cyxrh6s?format=ical",
-"https://rableforwesttexas.com/events/9ydpm62wtm7frgtaflgk5xw5f8p28j",
-"https://rableforwesttexas.com/events/9ydpm62wtm7frgtaflgk5xw5f8p28j?format=ical",
-"https://rableforwesttexas.com/events/afddk5ewwdpshxt46xbfrgf8kw23zd",
-"https://rableforwesttexas.com/events/afddk5ewwdpshxt46xbfrgf8kw23zd?format=ical",
-"https://rableforwesttexas.com/events/alkprg62rxrwdktxdkx94tgekfe67h",
-"https://rableforwesttexas.com/events/alkprg62rxrwdktxdkx94tgekfe67h?format=ical",
-"https://rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l",
-"https://rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l?format=ical",
-"https://rableforwesttexas.com/events/eh2kxb5t3lf2nw4zdes2t59k8gaart",
-"https://rableforwesttexas.com/events/eh2kxb5t3lf2nw4zdes2t59k8gaart?format=ical",
-"https://rableforwesttexas.com/events/f7mr759rmpycwcx8nbka8lwhf6s589",
-"https://rableforwesttexas.com/events/f7mr759rmpycwcx8nbka8lwhf6s589?format=ical",
-"https://rableforwesttexas.com/events/fm3kyj5pkjc9wntjwel35wd955ad5c",
-"https://rableforwesttexas.com/events/fm3kyj5pkjc9wntjwel35wd955ad5c?format=ical",
-"https://rableforwesttexas.com/events/frsgptsc3mgymswdz7g7gtmjlza74h",
-"https://rableforwesttexas.com/events/frsgptsc3mgymswdz7g7gtmjlza74h?format=ical",
-"https://rableforwesttexas.com/events/gpyke46zleyy42mtcbth223fajhbbh",
-"https://rableforwesttexas.com/events/gpyke46zleyy42mtcbth223fajhbbh?format=ical",
-"https://rableforwesttexas.com/events/h2xbfe8yya7pgwfpwfgcdah5w5phlb",
-"https://rableforwesttexas.com/events/h2xbfe8yya7pgwfpwfgcdah5w5phlb?format=ical",
-"https://rableforwesttexas.com/events/jr9xp5sj7dafw36atpwfsky2x9wkgl",
-"https://rableforwesttexas.com/events/jr9xp5sj7dafw36atpwfsky2x9wkgl?format=ical",
-"https://rableforwesttexas.com/events/kh4f93jzjksfs2xpyy9nr83hjag572",
-"https://rableforwesttexas.com/events/kh4f93jzjksfs2xpyy9nr83hjag572?format=ical",
-"https://rableforwesttexas.com/events/lbj-birthday-bash",
-"https://rableforwesttexas.com/events/lbj-birthday-bash?format=ical",
-"https://rableforwesttexas.com/events/lbk-phone-bank",
-"https://rableforwesttexas.com/events/lbk-phone-bank-1",
-"https://rableforwesttexas.com/events/lbk-phone-bank-1?format=ical",
-"https://rableforwesttexas.com/events/lbk-phone-bank-2",
-"https://rableforwesttexas.com/events/lbk-phone-bank-2?format=ical",
-"https://rableforwesttexas.com/events/lbk-phone-bank?format=ical",
-"https://rableforwesttexas.com/events/lcpnazp2lns4c85797ey2684ayw96s",
-"https://rableforwesttexas.com/events/lcpnazp2lns4c85797ey2684ayw96s?format=ical",
-"https://rableforwesttexas.com/events/mjdtc9s88ky9asfwghsp2zcgy5fcff",
-"https://rableforwesttexas.com/events/mjdtc9s88ky9asfwghsp2zcgy5fcff?format=ical",
-"https://rableforwesttexas.com/events/p7g9rnbskh8jsajm7a7mnnr4fgcy3b",
-"https://rableforwesttexas.com/events/p7g9rnbskh8jsajm7a7mnnr4fgcy3b?format=ical",
-"https://rableforwesttexas.com/events/phone-bank",
-"https://rableforwesttexas.com/events/phone-bank-1",
-"https://rableforwesttexas.com/events/phone-bank-1?format=ical",
-"https://rableforwesttexas.com/events/phone-bank?format=ical",
-"https://rableforwesttexas.com/events/rable-block-walk-5",
-"https://rableforwesttexas.com/events/rable-block-walk-5?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-bank",
-"https://rableforwesttexas.com/events/rable-phone-bank-1",
-"https://rableforwesttexas.com/events/rable-phone-bank-1?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-bank-2",
-"https://rableforwesttexas.com/events/rable-phone-bank-2?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-bank-3",
-"https://rableforwesttexas.com/events/rable-phone-bank-3?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-bank?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-banking",
-"https://rableforwesttexas.com/events/rable-phone-banking-1",
-"https://rableforwesttexas.com/events/rable-phone-banking-1?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-banking-2",
-"https://rableforwesttexas.com/events/rable-phone-banking-2?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-banking-3",
-"https://rableforwesttexas.com/events/rable-phone-banking-3?format=ical",
-"https://rableforwesttexas.com/events/rable-phone-banking?format=ical",
-"https://rableforwesttexas.com/events/rable-postcard-wirting",
-"https://rableforwesttexas.com/events/rable-postcard-wirting?format=ical",
-"https://rableforwesttexas.com/events/rable-postcard-writing-1",
-"https://rableforwesttexas.com/events/rable-postcard-writing-1?format=ical",
-"https://rableforwesttexas.com/events/rable-postcard-writing-2",
-"https://rableforwesttexas.com/events/rable-postcard-writing-2?format=ical",
-"https://rableforwesttexas.com/events/rable-postcard-writing-3",
-"https://rableforwesttexas.com/events/rable-postcard-writing-3?format=ical",
-"https://rableforwesttexas.com/events/south-plains-swing-abilene",
-"https://rableforwesttexas.com/events/south-plains-swing-abilene?format=ical",
-"https://rableforwesttexas.com/events/south-plains-swing-big-spring",
-"https://rableforwesttexas.com/events/south-plains-swing-big-spring?format=ical",
-"https://rableforwesttexas.com/events/south-plains-swing-plainview",
-"https://rableforwesttexas.com/events/south-plains-swing-plainview?format=ical",
-"https://rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc",
-"https://rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc?format=ical",
-"https://rableforwesttexas.com/events/t9ehtd8zndsxzly2ng2tlp9pemge9h",
-"https://rableforwesttexas.com/events/t9ehtd8zndsxzly2ng2tlp9pemge9h?format=ical",
-"https://rableforwesttexas.com/events/tlbj6r5bgrrdspnrl4sjmdh3c3mr74",
-"https://rableforwesttexas.com/events/tlbj6r5bgrrdspnrl4sjmdh3c3mr74?format=ical",
-"https://rableforwesttexas.com/events/wk3a6wj2a5f78mry7b9s6d9ylka6by",
-"https://rableforwesttexas.com/events/wk3a6wj2a5f78mry7b9s6d9ylka6by?format=ical",
-"https://rableforwesttexas.com/events/xzwabhbmaw326x2fhs9ckpcbzbnrsg",
-"https://rableforwesttexas.com/events/xzwabhbmaw326x2fhs9ckpcbzbnrsg?format=ical",
-"https://rableforwesttexas.com/events/yx5dptj3fcwtzchxbzrf4wfabx8llj",
-"https://rableforwesttexas.com/events/yx5dptj3fcwtzchxbzrf4wfabx8llj?format=ical",
-"https://rableforwesttexas.com/events/z86pffgsnm69cr7g8ga2jfafnwprct",
-"https://rableforwesttexas.com/events/z86pffgsnm69cr7g8ga2jfafnwprct?format=ical",
-"https://rableforwesttexas.com/get-involved",
-"https://rableforwesttexas.com/issues",
-"https://rableforwesttexas.com/privacypolicy",
-"https://rableforwesttexas.com/termsandconditions",
-"https://store.rableforwesttexas.com/",
-"https://tiktok.com/@rableforwesttexas",
-"https://x.com/RableKyle"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1001+birdwell+lane+big+spring%2C+texas%2C+79720+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10th+street+lubbock%2C+texas+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1107+smyth+street+plainview%2C+texas%2C+79072+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2001+mac+davis+lane+lubbock%2C+texas%2C+79401+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2611+boston+avenue+lubbock%2C+texas%2C+79410+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=26th+street+lubbock%2C+texas+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2809-a+74th+street+lubbock%2C+texas%2C+79423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2811+58th+street+lubbock%2C+texas%2C+79413+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4101+avenue+d+lubbock%2C+texas%2C+79404+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4310+buffalo+gap+road+abilene%2C+texas%2C+79606+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4602+chicago+avenue+lubbock%2C+texas%2C+79414+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4702+15th+street+lubbock%2C+texas%2C+79416+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5401+avenue+u+lubbock%2C+texas%2C+79412+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5402+12th+street+lubbock%2C+texas%2C+79416+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=601+walnut+street+idalou%2C+texas%2C+79329+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=clayton+carter+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=dupree+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=elgin+avenue+lubbock%2C+texas+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=george+woods+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=good+line+beer+co"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=good+line+beer+co."
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=harwell+elementary"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=hollins+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=lubbock+county+dem+hq"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=maedgen+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=naomi+reagan+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=pallottine+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=pioneer+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=quincy+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=wagner+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=will+sedberry+park"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=wolffarth+elementary"
+},
+{
+"text": "0",
+"href": "https://www.rableforwesttexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.rableforwesttexas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.rableforwesttexas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.rableforwesttexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rableforwesttexas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.rableforwesttexas.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rableforwesttexas.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=LBJ+Birthday+Bash&dates=20260827T230000Z%2F20260828T010000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=LBK+Phone+Bank&dates=20260912T160000Z%2F20260912T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=LBK+Phone+Bank&dates=20260926T160000Z%2F20260926T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=LBK+Phone+Bank&dates=20261010T160000Z%2F20261010T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank&dates=20260815T160000Z%2F20260815T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank&dates=20260829T160000Z%2F20260829T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260725T150000Z%2F20260726T043000Z&location=601+Walnut+Street%2C+Idalou%2C+Texas%2C+79329%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260801T150000Z%2F20260801T163000Z&location=10th+Street%2C+Lubbock%2C+Texas%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260808T150000Z%2F20260808T170000Z&location=4101+Avenue+D%2C+Lubbock%2C+Texas%2C+79404%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260815T150000Z%2F20260815T170000Z&location=Elgin+Avenue%2C+Lubbock%2C+Texas%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260822T150000Z%2F20260822T170000Z&location=2001+Mac+Davis+Lane%2C+Lubbock%2C+Texas%2C+79401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260829T150000Z%2F20260829T170000Z&location=26th+Street%2C+Lubbock%2C+Texas%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260905T150000Z%2F20260905T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260906T190000Z%2F20260906T200000Z&location=5401+Avenue+U%2C+Lubbock%2C+Texas%2C+79412%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260912T150000Z%2F20260912T160000Z&location=4702+15th+Street%2C+Lubbock%2C+Texas%2C+79416%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260919T150000Z%2F20260919T160000Z&location=5402+12th+Street%2C+Lubbock%2C+Texas%2C+79416%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260926T150000Z%2F20260926T160000Z&location=2811+58th+Street%2C+Lubbock%2C+Texas%2C+79413%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20260927T190000Z%2F20260927T200000Z&location=4602+Chicago+Avenue%2C+Lubbock%2C+Texas%2C+79414%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261002T223000Z%2F20261002T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261003T150000Z%2F20261003T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261009T223000Z%2F20261009T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261010T150000Z%2F20261010T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261013T223000Z%2F20261013T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261016T223000Z%2F20261016T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261017T150000Z%2F20261017T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261020T103000Z%2F20261020T153000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261023T223000Z%2F20261023T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261024T150000Z%2F20261024T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261027T223000Z%2F20261027T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261030T223000Z%2F20261030T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Block+Walk&dates=20261031T150000Z%2F20261031T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261007T233000Z%2F20261008T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261014T113000Z%2F20261014T153000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261021T233000Z%2F20261022T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Bank&dates=20261028T233000Z%2F20261029T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking&dates=20260903T233000Z%2F20260904T010000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking&dates=20260924T233000Z%2F20260925T003000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking+&dates=20260910T233000Z%2F20260911T003000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Phone+Banking+&dates=20260917T233000Z%2F20260918T003000Z&location=2611+Boston+Avenue%2C+Lubbock%2C+Texas%2C+79410%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Wirting&dates=20260822T160000Z%2F20260822T183000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Writing&dates=20260725T160000Z%2F20260726T053000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Writing&dates=20260808T160000Z%2F20260808T180000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rable+Postcard+Writing&dates=20260905T160000Z%2F20260905T170000Z&location=2809-A+74th+Street%2C+Lubbock%2C+Texas%2C+79423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Abilene&dates=20260720T220000Z%2F20260720T233000Z&location=4310+Buffalo+Gap+Road%2C+Abilene%2C+Texas%2C+79606%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Big+Spring&dates=20260719T203000Z%2F20260719T213000Z&location=1001+Birdwell+Lane%2C+Big+Spring%2C+Texas%2C+79720%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Plainview&dates=20260719T160000Z%2F20260720T053000Z&location=1107+Smyth+Street%2C+Plainview%2C+Texas%2C+79072%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/7n7hdcxmshrm7njc8hdxj66cyxrh6s?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/9ydpm62wtm7frgtaflgk5xw5f8p28j?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/afddk5ewwdpshxt46xbfrgf8kw23zd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/alkprg62rxrwdktxdkx94tgekfe67h?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/eh2kxb5t3lf2nw4zdes2t59k8gaart?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/f7mr759rmpycwcx8nbka8lwhf6s589?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/fm3kyj5pkjc9wntjwel35wd955ad5c?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/frsgptsc3mgymswdz7g7gtmjlza74h?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/gpyke46zleyy42mtcbth223fajhbbh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/h2xbfe8yya7pgwfpwfgcdah5w5phlb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/jr9xp5sj7dafw36atpwfsky2x9wkgl?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/kh4f93jzjksfs2xpyy9nr83hjag572?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/lbj-birthday-bash?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/lcpnazp2lns4c85797ey2684ayw96s?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/mjdtc9s88ky9asfwghsp2zcgy5fcff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/p7g9rnbskh8jsajm7a7mnnr4fgcy3b?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/phone-bank-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/phone-bank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-block-walk-5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-wirting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-abilene?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/t9ehtd8zndsxzly2ng2tlp9pemge9h?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/tlbj6r5bgrrdspnrl4sjmdh3c3mr74?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/wk3a6wj2a5f78mry7b9s6d9ylka6by?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/xzwabhbmaw326x2fhs9ckpcbzbnrsg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/yx5dptj3fcwtzchxbzrf4wfabx8llj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.rableforwesttexas.com/events/z86pffgsnm69cr7g8ga2jfafnwprct?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.rableforwesttexas.com/issues"
+},
+{
+"text": "LBJ Birthday Bash",
+"href": "https://www.rableforwesttexas.com/events/lbj-birthday-bash"
+},
+{
+"text": "LBK Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank"
+},
+{
+"text": "LBK Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-1"
+},
+{
+"text": "LBK Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-2"
+},
+{
+"text": "Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/phone-bank"
+},
+{
+"text": "Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/phone-bank-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rableforwesttexas.com/privacypolicy"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/7n7hdcxmshrm7njc8hdxj66cyxrh6s"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/9ydpm62wtm7frgtaflgk5xw5f8p28j"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/afddk5ewwdpshxt46xbfrgf8kw23zd"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/alkprg62rxrwdktxdkx94tgekfe67h"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/eh2kxb5t3lf2nw4zdes2t59k8gaart"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/f7mr759rmpycwcx8nbka8lwhf6s589"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/fm3kyj5pkjc9wntjwel35wd955ad5c"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/frsgptsc3mgymswdz7g7gtmjlza74h"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/gpyke46zleyy42mtcbth223fajhbbh"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/h2xbfe8yya7pgwfpwfgcdah5w5phlb"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/jr9xp5sj7dafw36atpwfsky2x9wkgl"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/kh4f93jzjksfs2xpyy9nr83hjag572"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/lcpnazp2lns4c85797ey2684ayw96s"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/mjdtc9s88ky9asfwghsp2zcgy5fcff"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/p7g9rnbskh8jsajm7a7mnnr4fgcy3b"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/rable-block-walk-5"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/t9ehtd8zndsxzly2ng2tlp9pemge9h"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/tlbj6r5bgrrdspnrl4sjmdh3c3mr74"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/wk3a6wj2a5f78mry7b9s6d9ylka6by"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/xzwabhbmaw326x2fhs9ckpcbzbnrsg"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/yx5dptj3fcwtzchxbzrf4wfabx8llj"
+},
+{
+"text": "Rable Block Walk",
+"href": "https://www.rableforwesttexas.com/events/z86pffgsnm69cr7g8ga2jfafnwprct"
+},
+{
+"text": "Rable Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank"
+},
+{
+"text": "Rable Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-1"
+},
+{
+"text": "Rable Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-2"
+},
+{
+"text": "Rable Phone Bank",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-3"
+},
+{
+"text": "Rable Phone Banking",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking"
+},
+{
+"text": "Rable Phone Banking",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-1"
+},
+{
+"text": "Rable Phone Banking",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-2"
+},
+{
+"text": "Rable Phone Banking",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-3"
+},
+{
+"text": "Rable Postcard Wirting",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-wirting"
+},
+{
+"text": "Rable Postcard Writing",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-1"
+},
+{
+"text": "Rable Postcard Writing",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-2"
+},
+{
+"text": "Rable Postcard Writing",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-3"
+},
+{
+"text": "Shop",
+"href": "https://store.rableforwesttexas.com/"
+},
+{
+"text": "South Plains Swing- Abilene",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-abilene"
+},
+{
+"text": "South Plains Swing- Big Spring",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring"
+},
+{
+"text": "South Plains Swing- Plainview",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rableforwesttexas.com/termsandconditions"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/7n7hdcxmshrm7njc8hdxj66cyxrh6s"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/9ydpm62wtm7frgtaflgk5xw5f8p28j"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/afddk5ewwdpshxt46xbfrgf8kw23zd"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/alkprg62rxrwdktxdkx94tgekfe67h"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/eh2kxb5t3lf2nw4zdes2t59k8gaart"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/f7mr759rmpycwcx8nbka8lwhf6s589"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/fm3kyj5pkjc9wntjwel35wd955ad5c"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/frsgptsc3mgymswdz7g7gtmjlza74h"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/gpyke46zleyy42mtcbth223fajhbbh"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/h2xbfe8yya7pgwfpwfgcdah5w5phlb"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/jr9xp5sj7dafw36atpwfsky2x9wkgl"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/kh4f93jzjksfs2xpyy9nr83hjag572"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/lbj-birthday-bash"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/lcpnazp2lns4c85797ey2684ayw96s"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/mjdtc9s88ky9asfwghsp2zcgy5fcff"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/p7g9rnbskh8jsajm7a7mnnr4fgcy3b"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/phone-bank"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/phone-bank-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-block-walk-5"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-3"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-3"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-wirting"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-3"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-abilene"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/t9ehtd8zndsxzly2ng2tlp9pemge9h"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/tlbj6r5bgrrdspnrl4sjmdh3c3mr74"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/wk3a6wj2a5f78mry7b9s6d9ylka6by"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/xzwabhbmaw326x2fhs9ckpcbzbnrsg"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/yx5dptj3fcwtzchxbzrf4wfabx8llj"
+},
+{
+"text": "View Event →",
+"href": "https://www.rableforwesttexas.com/events/z86pffgsnm69cr7g8ga2jfafnwprct"
+},
+{
+"text": "[image: Kyle Rable Democrat For Congress]",
+"href": "https://www.rableforwesttexas.com/"
+},
+{
+"text": "[image: South Plains Swing- Abilene]",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-abilene"
+},
+{
+"text": "[image: South Plains Swing- Big Spring]",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring"
+},
+{
+"text": "[image: South Plains Swing- Plainview]",
+"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rablekyle.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574961930745"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rableforwesttexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/7n7hdcxmshrm7njc8hdxj66cyxrh6s"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/9ydpm62wtm7frgtaflgk5xw5f8p28j"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/afddk5ewwdpshxt46xbfrgf8kw23zd"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/alkprg62rxrwdktxdkx94tgekfe67h"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/cjpwm9w9zf4xgbzlsmfcrkxy8y7x3l"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/eh2kxb5t3lf2nw4zdes2t59k8gaart"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/f7mr759rmpycwcx8nbka8lwhf6s589"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/fm3kyj5pkjc9wntjwel35wd955ad5c"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/frsgptsc3mgymswdz7g7gtmjlza74h"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/gpyke46zleyy42mtcbth223fajhbbh"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/h2xbfe8yya7pgwfpwfgcdah5w5phlb"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/jr9xp5sj7dafw36atpwfsky2x9wkgl"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/kh4f93jzjksfs2xpyy9nr83hjag572"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/lbj-birthday-bash"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/lbk-phone-bank-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/lcpnazp2lns4c85797ey2684ayw96s"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/mjdtc9s88ky9asfwghsp2zcgy5fcff"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/p7g9rnbskh8jsajm7a7mnnr4fgcy3b"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/phone-bank"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/phone-bank-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-block-walk-5"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-bank-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-phone-banking-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-wirting"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/rable-postcard-writing-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/t9ehtd8zndsxzly2ng2tlp9pemge9h"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/tlbj6r5bgrrdspnrl4sjmdh3c3mr74"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/wk3a6wj2a5f78mry7b9s6d9ylka6by"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/xzwabhbmaw326x2fhs9ckpcbzbnrsg"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/yx5dptj3fcwtzchxbzrf4wfabx8llj"
+},
+{
+"text": "[no text]",
+"href": "https://www.rableforwesttexas.com/events/z86pffgsnm69cr7g8ga2jfafnwprct"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rableforwesttexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RableKyle"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@rableforwesttexas.com"
+},
+{
+"text": "campaign@rableforwesttexas.com",
+"href": "mailto:campaign@rableforwesttexas.com"
+},
+{
+"text": "https://mobilize.us/s/ya5NCz",
+"href": "https://mobilize.us/s/ya5NCz"
+},
+{
+"text": "https://www.mobilize.us/dashboard/texasdemocrats/event/1013489/",
+"href": "https://www.mobilize.us/dashboard/texasdemocrats/event/1013489/"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/1005798/",
+"href": "https://www.mobilize.us/mobilize/event/1005798/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1013487/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1013487/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1013493/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1013493/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1013494/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1013494/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1013495/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1013495/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018380/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018380/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018382/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018382/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018384/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018384/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018387/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018387/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018388/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018388/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1018389/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1018389/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1034206/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1034206/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1034208/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1034208/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041051/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041051/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041058/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041058/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041072/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041072/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041078/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041078/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041082/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041082/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041089/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041089/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041097/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041097/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041107/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041107/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041113/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041113/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041117/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041117/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041123/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041123/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041131/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041131/"
+},
+{
+"text": "https://www.mobilize.us/texasdemocrats/event/1041135/",
+"href": "https://www.mobilize.us/texasdemocrats/event/1041135/"
+}
 ]

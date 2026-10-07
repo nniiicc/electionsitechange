@@ -1,19 +1,74 @@
 [
-"https://campaigndeputy.com/",
-"https://designedtorun.com/",
-"https://ellinleonard4nh.com/",
-"https://ellinleonard4nh.com/about",
-"https://ellinleonard4nh.com/contact",
-"https://ellinleonard4nh.com/conway-candidates",
-"https://ellinleonard4nh.com/endorsements",
-"https://ellinleonard4nh.com/events",
-"https://ellinleonard4nh.com/faqs",
-"https://ellinleonard4nh.com/issues",
-"https://ellinleonard4nh.com/news",
-"https://ellinleonard4nh.com/volunteer",
-"https://facebook.com/CarrollCountyNHDemocrats",
-"https://goodchange.app/",
-"https://ngpvan.com/",
-"https://numero.ai/",
-"https://secure.actblue.com/"
+{
+"text": "About",
+"href": "https://www.ellinleonard4nh.com/about"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/"
+},
+{
+"text": "Campaign Deputy",
+"href": "https://www.campaigndeputy.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.ellinleonard4nh.com/contact"
+},
+{
+"text": "Conway Candidates",
+"href": "https://www.ellinleonard4nh.com/conway-candidates"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ellinleonard4nh.com/endorsements"
+},
+{
+"text": "FAQs",
+"href": "https://www.ellinleonard4nh.com/faqs"
+},
+{
+"text": "GoodChange",
+"href": "https://goodchange.app/"
+},
+{
+"text": "Issues",
+"href": "https://www.ellinleonard4nh.com/issues"
+},
+{
+"text": "NGP VAN",
+"href": "https://www.ngpvan.com/"
+},
+{
+"text": "News",
+"href": "https://www.ellinleonard4nh.com/news"
+},
+{
+"text": "Numero",
+"href": "https://numero.ai/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ellinleonard4nh.com/volunteer"
+},
+{
+"text": "[image: Ellin Leonard logo]",
+"href": "https://www.ellinleonard4nh.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.ellinleonard4nh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CarrollCountyNHDemocrats"
+},
+{
+"text": "[no text]",
+"href": "https://www.ellinleonard4nh.com/events"
+}
 ]

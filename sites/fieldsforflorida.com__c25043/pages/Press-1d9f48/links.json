@@ -1,22 +1,86 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/fieldsforflorida",
-"https://fieldsforflorida.com/",
-"https://fieldsforflorida.com/_sites/www.fieldsforflorida.com/Press",
-"https://fieldsforflorida.com/about",
-"https://fieldsforflorida.com/endorsements",
-"https://fieldsforflorida.com/get-involved-2",
-"https://fieldsforflorida.com/news/antione-fields-announces-first-slate-of-progressive-endorsements-in-bid-for-hd-21",
-"https://fieldsforflorida.com/news/commissioner-bryan-eastman-and-rep-dotie-joseph-back-antione-fields-in-hd-21",
-"https://fieldsforflorida.com/news/news-1",
-"https://fieldsforflorida.com/platform",
-"https://fieldsforflorida.com/resources",
-"https://fieldsforflorida.com/vote",
-"https://fieldsforflorida.com/why-im-running",
-"https://footnotephoto.com/the-conversations/bp/a-conversation-on-politics-with-antione-fields",
-"https://instagram.com/fieldsforflorida",
-"https://mobilize.us/fieldsforflorida",
-"https://secure.actblue.com/donate/fieldsforflorida-web",
-"https://tiktok.com/@antionefieldsfl",
-"https://youtube.com/watch?v=aHVbjULRJG0"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fieldsforflorida-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fieldsforflorida.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fieldsforflorida.com/get-involved-2"
+},
+{
+"text": "Meet Antione",
+"href": "https://www.fieldsforflorida.com/about"
+},
+{
+"text": "News",
+"href": "https://www.fieldsforflorida.com/_sites/www.fieldsforflorida.com/Press"
+},
+{
+"text": "Platform",
+"href": "https://www.fieldsforflorida.com/platform"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.fieldsforflorida.com/news/antione-fields-announces-first-slate-of-progressive-endorsements-in-bid-for-hd-21"
+},
+{
+"text": "Read more",
+"href": "https://www.fieldsforflorida.com/news/commissioner-bryan-eastman-and-rep-dotie-joseph-back-antione-fields-in-hd-21"
+},
+{
+"text": "Read more",
+"href": "https://www.fieldsforflorida.com/news/news-1"
+},
+{
+"text": "Read more",
+"href": "https://www.footnotephoto.com/the-conversations/bp/a-conversation-on-politics-with-antione-fields"
+},
+{
+"text": "Read more",
+"href": "https://www.youtube.com/watch?v=aHVbjULRJG0"
+},
+{
+"text": "Resources",
+"href": "https://www.fieldsforflorida.com/resources"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/fieldsforflorida/"
+},
+{
+"text": "Vote",
+"href": "https://www.fieldsforflorida.com/vote"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.fieldsforflorida.com/why-im-running"
+},
+{
+"text": "[image: Antione Fields | Florida House District 21]",
+"href": "https://www.fieldsforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/fieldsforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/fieldsforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@antionefieldsfl"
+},
+{
+"text": "info@fieldsforflorida.com",
+"href": "mailto:info@fieldsforflorida.com"
+}
 ]

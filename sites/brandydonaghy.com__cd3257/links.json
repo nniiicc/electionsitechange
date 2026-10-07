@@ -1,9 +1,38 @@
 [
-"https://brandydonaghy.com/",
-"https://brandydonaghy.com/about",
-"https://brandydonaghy.com/endorsements-2026",
-"https://brandydonaghy.com/issues",
-"https://brandydonaghy.com/legislation",
-"https://brandydonaghy.com/media",
-"https://secure.actblue.com/donate/prim2024"
+{
+"text": "About",
+"href": "https://www.brandydonaghy.com/about/"
+},
+{
+"text": "BrandyDonaghy.com",
+"href": "https://www.brandydonaghy.com/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/prim2024"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/prim2024"
+},
+{
+"text": "ENDORSEMENTS – 2026",
+"href": "https://www.brandydonaghy.com/endorsements-2026/"
+},
+{
+"text": "Home",
+"href": "https://www.brandydonaghy.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.brandydonaghy.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://www.brandydonaghy.com/legislation/"
+},
+{
+"text": "Media",
+"href": "https://www.brandydonaghy.com/media/"
+}
 ]

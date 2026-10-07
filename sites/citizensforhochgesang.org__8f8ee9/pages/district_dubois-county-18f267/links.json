@@ -1,37 +1,162 @@
 [
-"https://14news.com/2025/08/01/memorial-hospital-jasper-officially-rebrands-deaconess-memorial",
-"https://14news.com/2026/03/17/residents-sound-alarm-battery-energy-storage-system-coming-dubois-county",
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/dubois-county/huntingburg",
-"https://citizensforhochgesang.org/district/dubois-county/jasper",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/platform/data-centers",
-"https://citizensforhochgesang.org/platform/housing",
-"https://citizensforhochgesang.org/platform/infrastructure",
-"https://citizensforhochgesang.org/platform/property-taxes",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://duboiscountyfreepress.com/",
-"https://duboiscountyfreepress.com/dubois-county-gets-comprehensive-planning-update-public-outreach-and-zoning-questions-on-the-horizon",
-"https://duboiscountyfreepress.com/huntingburg-council-discusses-development-issues-with-data-centers-battery-storage",
-"https://duboiscountyfreepress.com/memorial-hospital-ambulance-services-transition-to-deaconess-ems",
-"https://duboiscountyfreepress.com/northeast-dubois-school-board-discusses-budget-cuts-all-county-entities-set-to-lose-funding",
-"https://duboiscountyfreepress.com/residents-continue-seeking-ways-to-stop-aes-battery-energy-storage-system",
-"https://duboiscountyherald.com/",
-"https://duboiscountyherald.com/news/local/dubois-county-posts-indianas-third-lowest-unemployment-rates-in-april/article_0efacf69-648e-5423-b94d-05de95124389.html",
-"https://edpr.com/en/news/edpr-informs-ppa-secured-100-mwac-solar-project-us-google",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://in.gov/dlgf/files/2026-reports/2026-budget-orders/Dubois-260114-2026-Budget-Order.pdf",
-"https://instagram.com/bradhochgesang.official",
-"https://southernindianabusinessreport.com/2024/01/17/dubois-strong-housing-study-identifies-need-for-affordable-sustainable-housing-to-suit-all-ages-incomes",
-"https://wbdc.us/",
-"https://witzamfm.com/",
-"https://wjts.tv/",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "14 News, Memorial rebrands as Deaconess Memorial",
+"href": "https://www.14news.com/2025/08/01/memorial-hospital-jasper-officially-rebrands-deaconess-memorial/"
+},
+{
+"text": "14 News, residents sound alarm on battery storage",
+"href": "https://www.14news.com/2026/03/17/residents-sound-alarm-battery-energy-storage-system-coming-dubois-county/"
+},
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "DLGF, Dubois County 2026 budget order",
+"href": "https://www.in.gov/dlgf/files/2026-reports/2026-budget-orders/Dubois-260114-2026-Budget-Order.pdf"
+},
+{
+"text": "District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Dubois County Free Press",
+"href": "https://duboiscountyfreepress.com/"
+},
+{
+"text": "Dubois County Free Press, Huntingburg council on data centers and battery storage",
+"href": "https://duboiscountyfreepress.com/huntingburg-council-discusses-development-issues-with-data-centers-battery-storage/"
+},
+{
+"text": "Dubois County Free Press, all county entities set to lose funding",
+"href": "https://duboiscountyfreepress.com/northeast-dubois-school-board-discusses-budget-cuts-all-county-entities-set-to-lose-funding/"
+},
+{
+"text": "Dubois County Free Press, ambulance services transition to Deaconess EMS",
+"href": "https://duboiscountyfreepress.com/memorial-hospital-ambulance-services-transition-to-deaconess-ems/"
+},
+{
+"text": "Dubois County Free Press, comprehensive planning update",
+"href": "https://duboiscountyfreepress.com/dubois-county-gets-comprehensive-planning-update-public-outreach-and-zoning-questions-on-the-horizon/"
+},
+{
+"text": "Dubois County Free Press, residents seek ways to stop the battery system",
+"href": "https://duboiscountyfreepress.com/residents-continue-seeking-ways-to-stop-aes-battery-energy-storage-system/"
+},
+{
+"text": "Dubois County Herald",
+"href": "https://www.duboiscountyherald.com/"
+},
+{
+"text": "Dubois County Herald, third lowest unemployment in Indiana",
+"href": "https://www.duboiscountyherald.com/news/local/dubois-county-posts-indianas-third-lowest-unemployment-rates-in-april/article_0efacf69-648e-5423-b94d-05de95124389.html"
+},
+{
+"text": "EDPR, Duff Solar power purchase agreement with Google",
+"href": "https://edpr.com/en/news/edpr-informs-ppa-secured-100-mwac-solar-project-us-google"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "HuntingburgHuntingburg is where three of the district's biggest questions land on one map: the corridor route options, the battery project near the schools, and the rules for data centers. You should be first in every one of those conversations.",
+"href": "https://citizensforhochgesang.org/district/dubois-county/huntingburg"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "JasperJasper is the biggest city in this district and the place where the corridor fight found its footing: council chambers, courthouse steps, and a packed room at KlubHaus61. This page is where city decisions and the district's biggest project meet.",
+"href": "https://citizensforhochgesang.org/district/dubois-county/jasper"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "Meet me in person",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/data-centers"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/housing"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/infrastructure"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/property-taxes"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Southern Indiana Business Report, Dubois Strong housing study",
+"href": "https://southernindianabusinessreport.com/2024/01/17/dubois-strong-housing-study-identifies-need-for-affordable-sustainable-housing-to-suit-all-ages-incomes/"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Tell me what I'm missing",
+"href": "mailto:campaign@citizensforhochgesang.org?subject=From+Dubois+County"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "WBDC 100.9",
+"href": "https://wbdc.us/"
+},
+{
+"text": "WITZ 104.7",
+"href": "https://www.witzamfm.com/"
+},
+{
+"text": "WJTS 18",
+"href": "https://wjts.tv/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+}
 ]

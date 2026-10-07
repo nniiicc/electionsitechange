@@ -1,5 +1,4 @@
-Column: Don’t pass more tax cuts for wealthy
-Does Hawaii need larger tax cuts for its wealthiest families?
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Column: Don’t pass more tax cuts for wealthy Does Hawaii need larger tax cuts for its wealthiest families?
 That’s just what the Legislature plans to do with House Bill 2653.
 As someone who comes from a family that would benefit from the passage of this bill, I feel the need to blow the whistle and sound the alarm.
 My family raised me to believe in fairness.
@@ -19,7 +18,9 @@ After that point, the estate tax is applied only to the amounts above those exem
 So, a couple passing on an estate worth $12 million would pay $100,000 in estate taxes, which is a rate of less than 1%.
 HB 2653 would more than double the size of an estate that can be passed down tax-free to $13 million for a single person and $27 million for a couple, as well as entirely exempt family- owned businesses from the estate tax.
 Recent polling shows that 2 in 3 Hawaii voters believe elected officials care more about “wealthy donors” than the “needs of their communities.” If our legislators pass HB 2653, they will have proved those voters right.
-As one of the wealthy supporters of this bill reminded legislators during a hearing: “If you go to any fundraiser, you will see Hawaii family businesses.”
-It is incredibly tone deaf to give huge tax breaks to Hawaii’s wealthiest heirs when the Legislature is facing so many urgent needs in our community, first and foremost the recovery of West Maui.
+As one of the wealthy supporters of this bill reminded legislators during a hearing: “If you go to any fundraiser, you will see Hawaii family businesses.” It is incredibly tone deaf to give huge tax breaks to Hawaii’s wealthiest heirs when the Legislature is facing so many urgent needs in our community, first and foremost the recovery of West Maui.
 We do not need more tax loopholes and bigger tax breaks; we need to simply pay our fair share of taxes.
-Originally published in the Stat Advertiser on April 10, 2024
+Originally published in the Stat Advertiser on April 10, 2024 Kim Coco Iwamoto April 11, 2024 Facebook 0 Twitter Tumblr 0 Likes Previous David Shapiro: How to clean corruption?
+One politician at a time Kim Coco Iwamoto May 21, 2024 Next Letter: No tax cuts for rich if education suffers Kim Coco Iwamoto April 11, 2024 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

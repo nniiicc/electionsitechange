@@ -1,14 +1,50 @@
 [
-"http://secure.winred.com/rusk-for-legislature/donate-today",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://waynerusk.com/",
-"https://waynerusk.com/const-conservatism",
-"https://waynerusk.com/election-integrity",
-"https://waynerusk.com/individual-rights",
-"https://waynerusk.com/meet-wayne",
-"https://waynerusk.com/news",
-"https://waynerusk.com/pro-family",
-"https://waynerusk.com/pro-life",
-"https://waynerusk.com/public-lands",
-"https://waynerusk.com/second-amendment"
+{
+"text": "Const. Conservatism",
+"href": "https://waynerusk.com/const-conservatism"
+},
+{
+"text": "Donate Now",
+"href": "http://secure.winred.com/rusk-for-legislature/donate-today"
+},
+{
+"text": "Election Integrity",
+"href": "https://waynerusk.com/election-integrity"
+},
+{
+"text": "Home",
+"href": "https://waynerusk.com/"
+},
+{
+"text": "Individual Rights",
+"href": "https://waynerusk.com/individual-rights"
+},
+{
+"text": "Meet Wayne",
+"href": "https://waynerusk.com/meet-wayne"
+},
+{
+"text": "News",
+"href": "https://waynerusk.com/news"
+},
+{
+"text": "Pro-Family",
+"href": "https://waynerusk.com/pro-family"
+},
+{
+"text": "Pro-Life",
+"href": "https://waynerusk.com/pro-life"
+},
+{
+"text": "Public Lands",
+"href": "https://waynerusk.com/public-lands"
+},
+{
+"text": "Second Amendment",
+"href": "https://waynerusk.com/second-amendment"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

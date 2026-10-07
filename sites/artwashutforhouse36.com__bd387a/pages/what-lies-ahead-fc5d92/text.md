@@ -1,7 +1,3 @@
-Water – The Colorado River Compact, drought, and increasing demand
-The Trifectas of our future
-(1) Workforce Housing, Good Paying Jobs and Qualified Workers
-(2) Education Choice, Funding, and Performance
-Business Development – Do existing systems work to balance competing interests?
-Property Taxes and Local Government Funding
-Looming $40 Trillion federal debt and the impact on states
+Meet Art What lies ahead… Effective Responsive Experienced Respected Voter Resources Facebook Meet Art What lies ahead… Effective Responsive Experienced Respected Voter Resources Facebook Menu Close Art Washut For House District 36 Paid for by Art Washut Campaign For House District 36, WY What lies ahead… Water – The Colorado River Compact, drought, and increasing demand The Trifectas of our future (1) Workforce Housing, Good Paying Jobs and Qualified Workers (2) Education Choice, Funding, and Performance Business Development – Do existing systems work to balance competing interests?
+Property Taxes and Local Government Funding Looming $40 Trillion federal debt and the impact on states © # Art Washut For House District 36 .
+Theme by Anders Norén .

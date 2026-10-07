@@ -1,7 +1,11 @@
 {
  "description": "Join Jay Kilmartin at his SC House District 85 Campaign Events!",
  "final_url": "https://www.jayforhouse85.com/Events?range=2026-W42",
- "paid_for_by": null,
+ "fingerprint": "448d1987f6aa299b157972e6a22f24cb6e3fa7fc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jay Kilmartin Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,10 +1,34 @@
 [
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+}
 ]

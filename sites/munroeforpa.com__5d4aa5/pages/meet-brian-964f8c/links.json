@@ -1,12 +1,58 @@
 [
-"https://bucksdemocrats.org/be-a-voter",
-"https://facebook.com/brianmunroe4staterep",
-"https://kriesi.at/",
-"https://munroeforpa.com/",
-"https://munroeforpa.com/breaking-news",
-"https://munroeforpa.com/get-involved",
-"https://munroeforpa.com/getting-results",
-"https://munroeforpa.com/meet-brian",
-"https://secure.actblue.com/donate/friends-of-brian-munroe-1",
-"https://twitter.com/munroeforpa"
+{
+"text": "Campaign Updates",
+"href": "https://munroeforpa.com/breaking-news/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-brian-munroe-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-brian-munroe-1"
+},
+{
+"text": "Enfold WordPress Theme by Kriesi",
+"href": "https://kriesi.at"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/brianmunroe4staterep"
+},
+{
+"text": "Get Involved",
+"href": "https://munroeforpa.com/get-involved/"
+},
+{
+"text": "Getting Results",
+"href": "https://munroeforpa.com/getting-results/"
+},
+{
+"text": "Home",
+"href": "https://munroeforpa.com/"
+},
+{
+"text": "Meet Brian",
+"href": "https://munroeforpa.com/meet-brian/"
+},
+{
+"text": "Search",
+"href": "https://munroeforpa.com/meet-brian/?s="
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/munroeforpa"
+},
+{
+"text": "Voter Registration",
+"href": "https://bucksdemocrats.org/be-a-voter/"
+},
+{
+"text": "[image: MunroeForPA]",
+"href": "https://munroeforpa.com/"
+},
+{
+"text": "info@munroeforpa.com",
+"href": "mailto:info@munroeforpa.com"
+}
 ]

@@ -1,17 +1,6 @@
-Alexis Simpson’s Professional Highlights
-Deputy House Democratic Leader, New Hampshire
-Current State Representative serving Exeter, Newfields, Newmarket, and Stratham
-Member of the Resources, Recreation, and Development Committee
-Former Member of the House Judiciary Committee
-Former State Representative from Exeter (2015-2016)
-Former Member of the House Environment and Agriculture Committee
-Member of the Legislative Children’s Caucus
-Minister with experience in Interfaith Chaplaincy
-Education
-Master of Theology, Harvard University
-Master of Divinity, Emory University
-B.S. in Physics, University of Virginia
-About
-Alexis Simpson is running for State Representative in Exeter, Newfields, Newmarket, and Stratham, NH.
-Get in Touch
-alexis@alexis4nh.com
+Skip to content Alexis Simpson for State Representative Leadership You Can Trust Menu + × expanded collapsed Home About Issues Donate Facebook Instagram Twitter Leadership You Can Trust Alexis Simpson’s Professional Highlights Deputy House Democratic Leader, New Hampshire Current State Representative serving Exeter, Newfields, Newmarket, and Stratham Member of the Resources, Recreation, and Development Committee Former Member of the House Judiciary Committee Former State Representative from Exeter (2015-2016) Former Member of the House Environment and Agriculture Committee Member of the Legislative Children’s Caucus Minister with experience in Interfaith Chaplaincy Education Master of Theology, Harvard University Master of Divinity, Emory University B.S. in Physics, University of Virginia About Alexis Simpson is running for State Representative in Exeter, Newfields, Newmarket, and Stratham, NH.
+Get in Touch alexis@alexis4nh.com Donate Securely through ActBlue Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Alexis Simpson for State Representative , Blog at WordPress.com.
+Alexis Simpson for State Representative Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

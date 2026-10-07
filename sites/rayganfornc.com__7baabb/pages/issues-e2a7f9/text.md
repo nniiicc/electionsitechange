@@ -1,5 +1,4 @@
-what raygan is fighting for
-fix our rigged maps.
+0 Skip to Content About Issues Contact Endorsements donate Open Menu Close Menu About Issues Contact Endorsements donate Open Menu Close Menu About Issues Contact Endorsements donate what raygan is fighting for fix our rigged maps.
 You deserve a government that listens to you, not one that hides behind rigged district lines.
 Right now, politicians get to draw their own maps, which lets them pick their voters instead of voters picking their representatives.
 That makes elections less competitive and lawmakers less accountable to the people they represent.
@@ -25,8 +24,7 @@ Raygan believes affordability starts with fair pay.
 That’s why he supports raising North Carolina’s minimum wage so working people can keep up with the cost of living.
 He also believes in protecting renters and homeowners and investing in communities so families don’t have to leave just to get by.
 You shouldn’t have to choose between staying in your community and making ends meet.
-You deserve leaders who are focused on lowering costs and fighting for an economy that works for you.
-healthcare we can afford and access.
+You deserve leaders who are focused on lowering costs and fighting for an economy that works for you. healthcare we can afford and access.
 Getting sick shouldn’t mean being scared about how you’re going to pay for it.
 This year Raygan will age off his parents’ health insurance.
 Even while working and in law school, he’s worried about how he’ll afford coverage—just like so many people in District 37.
@@ -36,8 +34,7 @@ Years of political decisions have closed rural hospitals and pushed care farther
 You shouldn’t have to choose between rent and seeing a doctor.
 You shouldn’t fear turning 26.
 And your access to care shouldn’t depend on where you live or how old you are.
-You deserve leaders who understand how personal healthcare really is and who will fight for a system that works for you.
-pROTECT OUR wATER, Land, & Future.
+You deserve leaders who understand how personal healthcare really is and who will fight for a system that works for you. pROTECT OUR wATER, Land, & Future.
 If you grew up in North Carolina, you know our outdoors are worth fighting for.
 Raygan did.
 Some of his best memories were spent fishing with his grandpa, learning early that clean water, open land, and a healthy environment are part of what holds a community together.
@@ -45,3 +42,5 @@ But right now, too many politicians are letting powerful interests call the shot
 Duke Energy raises costs, communities get stuck with the consequences, and working families are the ones left paying more while getting less say.
 Raygan believes we need leaders who will protect our natural resources, hold corporate polluters accountable, invest in cleaner energy, and put people over profits.
 You deserve a future where North Carolina’s environment is protected, our energy system works for families, and the places we love are still here for the next generation.
+Every issue you care about gets harder to fix when politicians don’t have to earn your vote.
+Raygan is running to change that. raygan angel - NC Senate District 37 - Privacy Policy Contact Raygan@RayganforNC.com Paid for by Raygan for NC

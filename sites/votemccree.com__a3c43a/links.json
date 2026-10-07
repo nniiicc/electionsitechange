@@ -1,10 +1,42 @@
 [
-"https://facebook.com/votemccree",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://mobilize.us/organizeillinois2026/event/1019178",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/caroline-mccree-1",
-"https://votemccree.com/",
-"https://yorkville.il.us/459/Hometown-Days-Festival"
+{
+"text": "Get In Touch",
+"href": "mailto:info@votemccree.com"
+},
+{
+"text": "Help Fuel Caroline's Campaign...Donate so she can spread her word!",
+"href": "https://secure.actblue.com/donate/caroline-mccree-1"
+},
+{
+"text": "Help Fuel The Campaign....DONATE",
+"href": "https://secure.actblue.com/donate/caroline-mccree-1"
+},
+{
+"text": "Let's Make Life Easier!Let's Make Life Easier!Let's Make Life Easier!Let's Make Life Easier!",
+"href": "https://votemccree.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemccree"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "https://www.mobilize.us/organizeillinois2026/event/1019178/",
+"href": "https://www.mobilize.us/organizeillinois2026/event/1019178/"
+},
+{
+"text": "https://www.yorkville.il.us/459/Hometown-Days-Festival",
+"href": "https://www.yorkville.il.us/459/Hometown-Days-Festival"
+}
 ]

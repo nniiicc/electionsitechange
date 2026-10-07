@@ -1,18 +1,78 @@
 [
-"https://daynaforsenate.com/",
-"https://daynaforsenate.com/about",
-"https://daynaforsenate.com/cart",
-"https://daynaforsenate.com/daynas-platform",
-"https://daynaforsenate.com/endorsements",
-"https://daynaforsenate.com/home",
-"https://daynaforsenate.com/yardsigns",
-"https://facebook.com/DaynaForSenate",
-"https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1",
-"https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=100",
-"https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=25",
-"https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=250",
-"https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=50",
-"https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=500",
-"https://techforcampaigns.org/",
-"https://twitter.com/SenPolehanki"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.daynaforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.daynaforsenate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.daynaforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.daynaforsenate.com/home/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.daynaforsenate.com/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/dayna-polehanki-for-state-senate-1"
+},
+{
+"text": "Platform",
+"href": "https://www.daynaforsenate.com/daynas-platform"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.daynaforsenate.com/yardsigns"
+},
+{
+"text": "[image: Re-elect Dayna Polehanki for Michigan State Senate]",
+"href": "https://www.daynaforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenPolehanki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DaynaForSenate"
+},
+{
+"text": "dayna@daynaforsenate.com",
+"href": "mailto:dayna@daynaforsenate.com"
+}
 ]

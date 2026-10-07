@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Spaghetti+Dinner+Fundraiser+&dates=20240413T153000Z%2F20240413T183000Z&location=408+9th+Street+Southwest%2C+Canton%2C+OH%2C+44707%2C+United+States",
-"http://maps.google.com/?q=408+9th+Street+Southwest+Canton%2C+OH%2C+44707+United+States",
-"https://facebook.com/KristaLAllison49",
-"https://forms.gle/2QhELgnvxidSVuG19",
-"https://instagram.com/krista_l_allison",
-"https://kristalallisonforoh49.com/",
-"https://kristalallisonforoh49.com/about",
-"https://kristalallisonforoh49.com/cart",
-"https://kristalallisonforoh49.com/contact",
-"https://kristalallisonforoh49.com/endorsements",
-"https://kristalallisonforoh49.com/events",
-"https://kristalallisonforoh49.com/events/campaign-kickoff",
-"https://kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser?format=ical",
-"https://kristalallisonforoh49.com/events/specialgathering",
-"https://kristalallisonforoh49.com/learnmore",
-"https://kristalallisonforoh49.com/media",
-"https://kristalallisonforoh49.com/privacy-policy",
-"https://kristalallisonforoh49.com/what-krista-believes",
-"https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=408+9th+street+southwest+canton%2C+oh%2C+44707+united+states"
+},
+{
+"text": "0",
+"href": "https://www.kristalallisonforoh49.com/cart"
+},
+{
+"text": "About Krista",
+"href": "https://www.kristalallisonforoh49.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kristalallisonforoh49.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristalallisonforoh49.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Spaghetti+Dinner+Fundraiser+&dates=20240413T153000Z%2F20240413T183000Z&location=408+9th+Street+Southwest%2C+Canton%2C+OH%2C+44707%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/spaghetti-dinner-fundraiser?format=ical"
+},
+{
+"text": "Learn More",
+"href": "https://www.kristalallisonforoh49.com/learnmore"
+},
+{
+"text": "Media",
+"href": "https://www.kristalallisonforoh49.com/media"
+},
+{
+"text": "Next Next May 2 Krista L. Allison Special Gathering",
+"href": "https://www.kristalallisonforoh49.com/events/specialgathering"
+},
+{
+"text": "Pre-Order Here!",
+"href": "https://forms.gle/2QhELgnvxidSVuG19"
+},
+{
+"text": "Previous Previous March 14 Campaign Kick-Off",
+"href": "https://www.kristalallisonforoh49.com/events/campaign-kickoff"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kristalallisonforoh49.com/privacy-policy"
+},
+{
+"text": "What Krista Believes",
+"href": "https://www.kristalallisonforoh49.com/what-krista-believes"
+},
+{
+"text": "[image: Krista L Allison for OH 49]",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KristaLAllison49/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krista_l_allison"
+}
 ]

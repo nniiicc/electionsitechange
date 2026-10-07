@@ -1,9 +1,4 @@
-top of page
-The Latest Updates
-Search
-Bill Updates
-Right to Work Bill Updates (SB 1082) North Carolina Law currently has a Right-to-Work law that states employees cannot be forced to join a labor union or pay union dues to keep a job.
+top of page KANDIE SMITH STATE SENATE Home Priorities About Updates Donation Contact More Use tab to navigate through the menu items.
+SUBSCRIBE TO NEWSLETTER The Latest Updates All Articles Search Bill Updates Right to Work Bill Updates (SB 1082) North Carolina Law currently has a Right-to-Work law that states employees cannot be forced to join a labor union or pay union dues to keep a job.
 Supporters of this bill may argue that this bill provides permanent protection for workers, but this “new” Right to Work bill does not create a new right for these employees.
-Instead, it places an existing protection into North Carolina’s Constitution that makes it more difficult for future legi
-Jun 152 min read
-bottom of page
+Instead, it places an existing protection into North Carolina’s Constitution that makes it more difficult for future legi Jun 15 2 min read KANDIE SMITH - STATE SENATE - Terms & Conditions Privacy Policy Accessibility Statement Paid for by Kandie Smith for NC PO Box 1832 Greenville, NC bottom of page

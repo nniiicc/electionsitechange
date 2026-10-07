@@ -1,8 +1,30 @@
 [
-"https://secure.anedot.com/robert-wittke-for-assembly/donate",
-"https://wittkeforassembly.com/",
-"https://wittkeforassembly.com/about-robert",
-"https://wittkeforassembly.com/contact",
-"https://wittkeforassembly.com/contribute",
-"https://wittkeforassembly.com/issues"
+{
+"text": "About Robert",
+"href": "https://wittkeforassembly.com/about-robert/"
+},
+{
+"text": "Click here",
+"href": "https://secure.anedot.com/robert-wittke-for-assembly/donate"
+},
+{
+"text": "Contact",
+"href": "https://wittkeforassembly.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://wittkeforassembly.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://wittkeforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://wittkeforassembly.com/issues/"
+},
+{
+"text": "[image]",
+"href": "https://wittkeforassembly.com/"
+}
 ]

@@ -1,16 +1,62 @@
 [
-"https://dowforhouse.com/",
-"https://dowforhouse.com/Home/About",
-"https://dowforhouse.com/Home/Contact",
-"https://dowforhouse.com/Home/Values",
-"https://dowforhouse.com/News",
-"https://dowforhouse.com/News/Article/blog-post.html",
-"https://dowforhouse.com/News/Article/demo-seo.html",
-"https://dowforhouse.com/News/Article/index.html",
-"https://dowforhouse.com/News/InTheNews",
-"https://dowforhouse.com/News/Veterans",
-"https://dowforhouse.com/Resources/ParentalNotification",
-"https://dowforhouse.com/about-rebecca",
-"https://facebook.com/dowfornm",
-"https://secure.winred.com/committee-to-elect-rebecca-dow/give-now"
+{
+"text": "ABOUT REBECCA",
+"href": "https://www.dowforhouse.com/Home/About"
+},
+{
+"text": "CONTACT REBECCA",
+"href": "https://www.dowforhouse.com/Home/Contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/committee-to-elect-rebecca-dow/give-now"
+},
+{
+"text": "Home",
+"href": "https://www.dowforhouse.com/"
+},
+{
+"text": "Home",
+"href": "https://www.dowforhouse.com/about-rebecca"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.dowforhouse.com/News/InTheNews"
+},
+{
+"text": "News",
+"href": "https://www.dowforhouse.com/News"
+},
+{
+"text": "PARENTAL NOTIFICATION FORM",
+"href": "https://www.dowforhouse.com/Resources/ParentalNotification"
+},
+{
+"text": "REBECCA'S VALUES",
+"href": "https://www.dowforhouse.com/Home/Values"
+},
+{
+"text": "Rep. Dow, Ranchers and Ag Department Assisting Navajos and Food Banks During Looming Food Shortages and Pandemic",
+"href": "https://www.dowforhouse.com/News/Article/blog-post.html"
+},
+{
+"text": "VETERANS",
+"href": "https://www.dowforhouse.com/News/Veterans"
+},
+{
+"text": "[image: Dow for House]",
+"href": "https://www.dowforhouse.com/News/Article/demo-seo.html"
+},
+{
+"text": "[image: Dow for House]",
+"href": "https://www.dowforhouse.com/News/Article/index.html"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/dowfornm"
+},
+{
+"text": "rebecca@dowforhouse.com",
+"href": "mailto:rebecca@dowforhouse.com"
+}
 ]

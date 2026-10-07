@@ -1,6 +1,4 @@
-The Honorable Kambrell Houston Garvin
-SC House of Representatives District 77
-Kambrell Garvin was born and raised in Columbia by a single mom who instilled in him the importance of education, hard work, grit, and determination.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The Honorable Kambrell Houston Garvin SC House of Representatives District 77 Kambrell Garvin was born and raised in Columbia by a single mom who instilled in him the importance of education, hard work, grit, and determination.
 At the age of 5, he was diagnosed with a speech impediment.
 It was then that his mom changed the trajectory of her career and pursued a career as a speech therapist to assist him in overcoming that challenge.
 As a result of her willingness to go above and beyond to assist him, today, Kambrell can speak clearly and confidently; turning what once was a weakness into strength and in the process, discovering the power of his voice.
@@ -20,29 +18,5 @@ In 2018, at the age of 26, Kambrell was elected to the SC House – all while st
 In 2022, at the age of 30, he launched the Kambrell Garvin Law Firm, LLC, a personal injury, medical malpractice, and municipal law firm.
 As a lawyer, Kambrell continues to be a voice for those most in need of an advocate in their pursuit of justice.
 When Kambrell is not busy serving constituents or practicing law, he enjoys attending church, traveling, grilling, brewing and sampling craft beer, swimming, weightlifting, off-roading, and spending time with family.
-“Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical and expect more than others think is possible.” -Claude Bissell
-Professional Affiliations
-- SC Association for Justice
-- SC Black Lawyers Association
-- Richland County Bar Association
-- SC Bar
-- NC Bar
-Community Affiliations
-- Member, First Nazareth Baptist Church
-- Columbia Branch NAACP
-- Alpha Phi Alpha Fraternity, Inc.
-- SC Education Association
-Legislative Affiliations
-- SC Lawyer-Legislator
-- SC House Democratic Caucus
-- Vice Chair, Richland County Legislative Delegation (2020-Present)
-- Parliamentarian, SC Legislative Black Caucus (2020-Present)
-- Legislative Oversight Committee (2020-Present)
-- Agricultural Natural Resources and Environmental Affairs Committee (2020-Present)
-- Medical, Military, Public and Municipal Affairs Committee (2018-2020)
-- Interstate Cooperation Committee (2018-2020)
-- Covid-19 Employment, Workforce and Business Recovery Committee (2020)
-Articles
-- Kambrell Garvin 2021 Winthrop Convocation Address
-- SC Rep. gives free school supplies at Back-to-School Extravaganza
-- Meet TFA SC Alumni Kambrell and Monique Garvin
+“Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical and expect more than others think is possible.” -Claude Bissell Professional Affiliations SC Association for Justice SC Black Lawyers Association Richland County Bar Association SC Bar NC Bar Community Affiliations Member, First Nazareth Baptist Church Columbia Branch NAACP Alpha Phi Alpha Fraternity, Inc.
+SC Education Association Legislative Affiliations SC Lawyer-Legislator SC House Democratic Caucus Vice Chair, Richland County Legislative Delegation (2020-Present) Parliamentarian, SC Legislative Black Caucus (2020-Present) Legislative Oversight Committee (2020-Present) Agricultural Natural Resources and Environmental Affairs Committee (2020-Present) Medical, Military, Public and Municipal Affairs Committee (2018-2020) Interstate Cooperation Committee (2018-2020) Covid-19 Employment, Workforce and Business Recovery Committee (2020) Articles Kambrell Garvin 2021 Winthrop Convocation Address SC Rep. gives free school supplies at Back-to-School Extravaganza Meet TFA SC Alumni Kambrell and Monique Garvin

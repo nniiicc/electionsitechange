@@ -1,7 +1,4 @@
-Take Care of Each Other
-Updated: Mar 22
-When Life Happens, You Shouldn’t Be On Your Own
-My grandfather died when my mom was just nine years old.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Take Care of Each Other Jun 2, 2025 2 min read Updated: Mar 22 When Life Happens, You Shouldn’t Be On Your Own My grandfather died when my mom was just nine years old.
 That left my grandmother, Pauline Valentine, to raise her kids on her own.
 She worked hard.
 She carried the weight of her family for years.
@@ -36,11 +33,7 @@ Right now, too many people do.
 They go back to work too soon after having a child.They skip medical care because they can’t afford the time off.They try to hold everything together while one crisis pulls it all apart.
 That’s not a system that supports families.
 It’s a system that expects people to carry more than they should have to carry alone.
-Here’s what needs to change:
-- We must protect Social Security, Medicare, and Medicaid and keep them strong
-- We need to strengthen them so they meet the needs of today’s families
-- And we need paid family and medical leave for every worker
-These aren’t just programs.
+Here’s what needs to change: We must protect Social Security, Medicare, and Medicaid and keep them strong We need to strengthen them so they meet the needs of today’s families And we need paid family and medical leave for every worker These aren’t just programs.
 They’re how we make sure people aren’t left behind when life gets hard.
 As a pastor, I’ve been with people in hospital rooms, in living rooms, and at gravesides.
 I’ve seen how quickly things can change.
@@ -55,4 +48,4 @@ It looks like making sure people can retire with dignity.
 It looks like making sure people can get care without going broke.
 And it looks like making sure people have the time they need to care for each other.
 Because no one should be left on their own when life happens.
-And the strength of a community is measured by how we show up in those moments.
+And the strength of a community is measured by how we show up in those moments. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

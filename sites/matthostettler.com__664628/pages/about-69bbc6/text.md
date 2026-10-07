@@ -1,4 +1,4 @@
-Matt is a lifelong resident of southwestern Indiana.
+Skip to content Home About Matt Matt’s Record District 64 From the Trail Contribute Contact About Matt Hostettler Matt is a lifelong resident of southwestern Indiana.
 Born in Evansville, he grew up in Blairsville in Posey County and attended North Posey High School before going on to Purdue University as a National Merit Scholar Finalist where he obtained a B.S. in Management from the Krannert School of Management.
 Matt and Michelle were married in 2012.
 Since then, Matt has started a small business based in Gibson County.
@@ -11,6 +11,4 @@ I believe that every child conceived has the right of life, liberty, and the pur
 I believe that citizens should be allowed to protect themselves, and I am a strong supporter of the Second Amendment.
 I believe that every legitimate, life-supporting business is essential to those who own it and are employed by it, and that the government has no authority to limit patrons or close down businesses without just compensation.
 If re-elected, I’ll continue to fight to protect the preborn, our right to keep and bear arms, and our freedom to attempt to make a living to provide for our families without unconstitutional government intervention.
-Matt Hostettler
-Indiana State Representative
-District 64
+Matt Hostettler Indiana State Representative District 64 Stay in Touch Facebook Twitter Mail Site Pages: Home About Matt Matt’s Record District 64 From the Trail Contribute Contact March 26, 2024 Attended Event Held for John Hostettler January 22, 2024 Filing for Reelection August 30, 2021 About Free Markets 1 2 Next Page Copyright © # Matt Hostettler for State Representative Powered by integriCORE

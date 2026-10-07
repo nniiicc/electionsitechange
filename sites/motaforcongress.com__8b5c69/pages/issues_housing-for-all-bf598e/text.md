@@ -1,16 +1,5 @@
-priorities
-Housing for All
-Across the US, housing shortage has caused home prices and rents to soar; this impacts students, low-income renters, and young families.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement priorities Housing for All Across the US, housing shortage has caused home prices and rents to soar; this impacts students, low-income renters, and young families .
 Due to zoning, corporate and luxury development, private equity, etc., truly inclusive affordable housing isn't being built.
-We can ELIMINATE government regulations, zoning restrictions, and red tape
-Housing is a right, yet it's treated like a commodity.
+We can ELIMINATE government regulations, zoning restrictions, and red tape Housing is a right, yet it's treated like a commodity.
 Congress and policymakers have the power, control, and influence to ensure barriers are broken to unlock housing production and adequate funding.
-As your next representative, I will support initiatives like:
-- Co-sponsor Homes for All Act
-- Increase Funding for HUD Public Housing Program
-- Implement the Neighborhood Homes Tax Credit
-- Federal Funding for Zoning Reform
-- Enforce Affirmatively Further Fair Housing (AFFH)
-- Expand Housing Voucher Programs
-- Strengthen the Low-Income Housing Tax Credit (LIHTC)
-- Support the Green New Deal for Public Housing Act
+As your next representative, I will support initiatives like: Co-sponsor Homes for All Act Increase Funding for HUD Public Housing Program Implement the Neighborhood Homes Tax Credit Federal Funding for Zoning Reform Enforce Affirmatively Further Fair Housing (AFFH) Expand Housing Voucher Programs Strengthen the Low-Income Housing Tax Credit (LIHTC) Support the Green New Deal for Public Housing Act hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

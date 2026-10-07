@@ -1,6 +1,5 @@
-MEET BOB
-NEW LEADERSHIP DELIVERING RESULTS FOR OUR COMMUNITY
-While in the military, my family and I served all around the United States and the globe, experiencing different cultures, customs, and people - Alabama, Colorado, Germany, Georgia, Korea, Hawaii, Japan, Texas, and Virginia.
+top of page NC SENATE 2026 ( DISTRICT 3 ) BOB BRINSON DONATE HOME MEET BOB PLATFORM ENDORSEMENTS GET INVOLVED More Use tab to navigate through the menu items.
+MEET BOB NEW LEADERSHIP DELIVERING RESULTS FOR OUR COMMUNITY While in the military, my family and I served all around the United States and the globe, experiencing different cultures, customs, and people - Alabama, Colorado, Germany, Georgia, Korea, Hawaii, Japan, Texas, and Virginia.
 My combat and operational deployments include Somalia, Bosnia, Kuwait, and northern Japan after the 2011 earthquake, tsunami and nuclear disaster.
 In addition to my military duties, I volunteered in various groups and activities such as coaching my kids’ soccer team; President and Vice President of a high school Parent, Teacher, Student Association (PTSA); AWANA Leader and Club Leader; as well as Elder and Chairman of Elders of my church.
 In addition, I attended classes at night and on weekends to earn my Master of Public Administration (MPA) from the University of Oklahoma.
@@ -12,3 +11,5 @@ I initiated and filled a Pedestrian and Bicycle Committee that advises, prioriti
 This citizen board also provides accountability and focus on the city staff and elected officials for these priorities.
 I work as the City of New Bern's appointee to the New Bern Area Metropolitan Planning Organization and the Civil Military Affairs Commission at Cherry Point.
 In 2023, only four months after taking office, I was elected by my peers and served as the Mayor Pro Tempe.
+REGISTER TO VOTE Subscribe to the Campaign Thank you for wanting to learn more about Bob Brinson!
+Submit HOME MEET BOB PLATFORM ENDORSEMENTS GET INVOLVED More Use tab to navigate through the menu items. © # by Friends to Elect Bob Brinson bottom of page

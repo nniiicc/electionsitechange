@@ -1,2 +1,9 @@
-Delegate Diana Fennell’s Priorities focus on enhancing quality education, driving economic growth, and ensuring accessible healthcare, including reproductive freedom.
+0 Skip to Content Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Folder: Office Back Contact Scholarship End of Session Letter 2026 Media Folder: Campaign Friends of Diana Fennell Back Donate Endorsements & Supporters Friends and Neighbors Get Involved Delegate Diana Fennell’s Priorities focus on enhancing quality education, driving economic growth, and ensuring accessible healthcare, including reproductive freedom.
 She advocates for safe, inclusive communities, improved infrastructure, and robust youth engagement programs, working to build a thriving and equitable future for Prince George's County.
+Quality Education & School Support Economic Empowerment & Job Growth Affordable Healthcare & Reproductive Freedom Safe & Inclusive Communities Sustainable Infrastructure & Transportation Youth Engagement & Development Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to receive timely updates, news, and announcements from the office of Delegate Diana M.
+Fennell.
+First Name Last Name Email Address Sign Up Thank you!
+About Contact Events Photos Friends of Diana Fennell PO BOX 514 Bladensburg, MD 20710 info@dianafennell.com (301) 615-2845‬ ©# MADE WITH CLOUD 9 BRAND, LLC.
+FOLLOW SOCIAL MEDIA

@@ -1,17 +1,12 @@
-top of page
-News
-Search
-Neighbor to Neighbor: A conversation with our seniors
-Team JamilaJul 25, 20200 min read
-Neighbor to Neighbor: The Rural Agenda
-Bringing a Voice to Rural Communities and Building the East-West Washington Connection.
+top of page Meet Jamila Priorities Endorsements Take Action Get Involved Privacy Policy News Events More...
+Use tab to navigate through the menu items.
+Donate News All Posts Video News Facebook Live Press Release Search Neighbor to Neighbor: A conversation with our seniors Neighbor to Neighbor: A conversation with our seniors Video Team Jamila Jul 25, 2020 0 min read Neighbor to Neighbor: The Rural Agenda Bringing a Voice to Rural Communities and Building the East-West Washington Connection.
 We were joined by Teresa Purcell, Reesha Cosby,...
-Team JamilaJun 29, 20201 min read
-Juneteenth Celebration
-For our Facebook Live event, we were joined by community advocates, labor leaders, musicians and elected officials including — Senators...
-Team JamilaJun 19, 20201 min read
-Virtual Campaign Kickoff
-I am so pleased that State Senator Claire Wilson and longtime community advocate Cynthia Ricks-Maccotan joined me for my virtual campaign...
-Team JamilaMay 7, 20201 min read
-We Need Your Support Today!
-bottom of page
+Video Team Jamila Jun 29, 2020 1 min read Juneteenth Celebration For our Facebook Live event, we were joined by community advocates, labor leaders, musicians and elected officials including — Senators...
+Facebook Live Team Jamila Jun 19, 2020 1 min read Virtual Campaign Kickoff I am so pleased that State Senator Claire Wilson and longtime community advocate Cynthia Ricks-Maccotan joined me for my virtual campaign...
+Video Team Jamila May 7, 2020 1 min read We Need Your Support Today!
+Donate Re-Elect Jamila Taylor Paid for by Elect Jamila Taylor PO Box 3996 Federal Way, WA 98063-3996 Sign up for Updates Enter your email here Sign Up!
+Thanks for submitting!
+Register to Vote Here!
+Quick Links About Donate News Contact © # Elect Jamila Taylor.
+All Rights Reserved. bottom of page

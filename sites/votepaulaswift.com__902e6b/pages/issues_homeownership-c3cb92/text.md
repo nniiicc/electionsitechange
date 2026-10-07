@@ -1,10 +1,11 @@
-Homeownership
-The dream of homeownership built Orange County — and Paula believes every family willing to work hard should have a shot at it.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Safe & Thriving Communities Affordable & Accessible Health Care Stable Communities Homeownership Lowering the Cost of Living Strong Public Schools for Every Child Supporting Small Business & Creating Good Jobs Standing with California's Foster Youth Honoring & Supporting Our Seniors Serving Those Who Served A Clean Environment & Lower Energy Costs Homeownership The dream of homeownership built Orange County — and Paula believes every family willing to work hard should have a shot at it.
 She'll fight for local control over housing decisions, support for homeowners and responsible property owners, and policies that help the next generation build wealth and put down roots.
-- Protect local control over housing: Stand up for our cities' right to make housing decisions that fit their communities — pushing back on Sacramento mandates that ignore local input and neighborhood character.
-- Help more families achieve homeownership: Expand down-payment assistance, first-time homebuyer programs, and financial literacy resources — especially for working families, veterans, and young people trying to buy in the communities where they grew up.
-- Support property owners and small landlords: Recognize that mom-and-pop landlords are part of our community, not the problem.
+Protect local control over housing: Stand up for our cities' right to make housing decisions that fit their communities — pushing back on Sacramento mandates that ignore local input and neighborhood character.
+Help more families achieve homeownership: Expand down-payment assistance, first-time homebuyer programs, and financial literacy resources — especially for working families, veterans, and young people trying to buy in the communities where they grew up.
+Support property owners and small landlords: Recognize that mom-and-pop landlords are part of our community, not the problem.
 Cut red tape, reduce regulatory burdens, and protect responsible property owners from one-size-fits-all rules designed for large corporate landlords.
-- Encourage housing construction that meets local needs: Remove barriers to building — including workforce housing for teachers, nurses, firefighters, and first responders — while ensuring communities have a say in what gets built and where.
-- Protect homeowners from fraud and predatory practices: Crack down on deed theft, foreclosure scams, and predatory lending that target seniors, immigrants, and families trying to hold onto their homes.
-- Promote housing stability through fairness: Support clear, predictable rules for both renters and property owners — so families can plan their futures and landlords can manage their properties without unnecessary government interference.
+Encourage housing construction that meets local needs: Remove barriers to building — including workforce housing for teachers, nurses, firefighters, and first responders — while ensuring communities have a say in what gets built and where.
+Protect homeowners from fraud and predatory practices: Crack down on deed theft, foreclosure scams, and predatory lending that target seniors, immigrants, and families trying to hold onto their homes.
+Promote housing stability through fairness: Support clear, predictable rules for both renters and property owners — so families can plan their futures and landlords can manage their properties without unnecessary government interference.
+Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
+Manchester Blvd., Suite 700, Inglewood, CA 90301 You need to enable JavaScript to run this app.

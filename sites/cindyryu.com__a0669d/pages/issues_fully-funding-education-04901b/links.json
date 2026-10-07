@@ -1,16 +1,62 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=2594&Year=2026&Initiative=false",
-"https://bsky.app/profile/ryu4senate.bsky.social",
-"https://cindyryu.com/",
-"https://cindyryu.com/about",
-"https://cindyryu.com/contact",
-"https://cindyryu.com/donate",
-"https://cindyryu.com/endorsements",
-"https://cindyryu.com/events",
-"https://cindyryu.com/issues",
-"https://cindyryu.com/volunteer",
-"https://designedtorun.com/",
-"https://instagram.com/ryu4senate",
-"https://threads.net/@ryu4senate",
-"https://x.com/ryu4senate"
+{
+"text": "About",
+"href": "https://www.cindyryu.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cindyryu.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.cindyryu.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cindyryu.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cindyryu.com/events"
+},
+{
+"text": "HB 2594",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2594&Year=2026&Initiative=false"
+},
+{
+"text": "Issues",
+"href": "https://www.cindyryu.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindyryu.com/volunteer"
+},
+{
+"text": "[image: Cindy Ryu]",
+"href": "https://www.cindyryu.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryu4senate.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryu4senate"
+},
+{
+"text": "cindy@cindyryu.com",
+"href": "mailto:cindy@cindyryu.com"
+}
 ]

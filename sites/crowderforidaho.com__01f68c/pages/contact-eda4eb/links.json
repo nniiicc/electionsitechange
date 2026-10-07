@@ -1,9 +1,54 @@
 [
-"https://crowderforidaho.com/",
-"https://crowderforidaho.com/cdn-cgi/l/email-protection",
-"https://crowderforidaho.com/contact",
-"https://facebook.com/CrowderforIdaho",
-"https://secure.anedot.com/crowder-for-idaho-2ebe72d2-035c-4619-80ff-4d39ba96c86b/donate",
-"https://x.com/crowderforidaho",
-"https://youtube.com/@CrowderforIdaho"
+{
+"text": "Contact",
+"href": "https://crowderforidaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/crowder-for-idaho-2ebe72d2-035c-4619-80ff-4d39ba96c86b/donate"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.anedot.com/crowder-for-idaho-2ebe72d2-035c-4619-80ff-4d39ba96c86b/donate"
+},
+{
+"text": "Donation",
+"href": "https://secure.anedot.com/crowder-for-idaho-2ebe72d2-035c-4619-80ff-4d39ba96c86b/donate"
+},
+{
+"text": "Volunteer",
+"href": "https://crowderforidaho.com/contact/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:crowderforidaho@gmail.com"
+},
+{
+"text": "[image: John Crowder For Idaho]",
+"href": "https://crowderforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CrowderforIdaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CrowderforIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/crowderforidaho"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/CrowderforIdaho/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/@CrowderforIdaho"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://x.com/crowderforidaho"
+}
 ]

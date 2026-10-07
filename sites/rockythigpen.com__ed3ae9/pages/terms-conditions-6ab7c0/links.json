@@ -1,9 +1,54 @@
 [
-"https://facebook.com/rockythigpenfortexas",
-"https://rockythigpen.com/",
-"https://rockythigpen.com/endorsements",
-"https://rockythigpen.com/privacy-policy",
-"https://rockythigpen.com/privacy-policy.",
-"https://rockythigpen.com/terms-conditions",
-"https://secure.anedot.com/rocky-thigpen-campaign/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/rocky-thigpen-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rockythigpen.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rockythigpen.com"
+},
+{
+"text": "Home",
+"href": "https://www.rockythigpen.com"
+},
+{
+"text": "Meet Rocky",
+"href": "https://www.rockythigpen.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rockythigpen.com/privacy-policy"
+},
+{
+"text": "Rocky@rockythigpen.com",
+"href": "mailto:Rocky@rockythigpen.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rockythigpen.com/terms-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/rockythigpenfortexas/"
+},
+{
+"text": "[image: Rocky Thigpen Logo]",
+"href": "https://www.rockythigpen.com"
+},
+{
+"text": "[image: Texas Flag]",
+"href": "https://www.rockythigpen.com"
+},
+{
+"text": "https://www.rockythigpen.com/privacy-policy.",
+"href": "https://www.rockythigpen.com/privacy-policy."
+},
+{
+"text": "rocky@rockythigpen.com",
+"href": "mailto:rocky@rockythigpen.com"
+}
 ]

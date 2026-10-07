@@ -1,9 +1,38 @@
 [
-"http://facebook.com/KateKlunkForStateRep",
-"https://kateklunkforstaterep.com/",
-"https://kateklunkforstaterep.com/connect",
-"https://kateklunkforstaterep.com/donate",
-"https://kateklunkforstaterep.com/meet-kate",
-"https://kateklunkforstaterep.com/priorities",
-"https://kateklunkforstaterep.com/volunteer"
+{
+"text": "Connect",
+"href": "https://www.kateklunkforstaterep.com/connect/"
+},
+{
+"text": "Donate",
+"href": "https://www.kateklunkforstaterep.com/donate"
+},
+{
+"text": "Facebook-f",
+"href": "http://www.facebook.com/KateKlunkForStateRep"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.kateklunkforstaterep.com/meet-kate/"
+},
+{
+"text": "Priorities",
+"href": "https://www.kateklunkforstaterep.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kateklunkforstaterep.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.kateklunkforstaterep.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/KateKlunkForStateRep"
+},
+{
+"text": "here.",
+"href": "http://www.facebook.com/KateKlunkForStateRep"
+}
 ]

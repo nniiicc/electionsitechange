@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+at+Second+Saturdays+in+Lorain%21&dates=20260808T144500Z%2F20260808T190000Z",
-"http://maps.google.com/?q=Broadway+Avenue%2C+Lorain+OH",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/corn-festival-parade",
-"https://joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg",
-"https://joemillerforohio.com/events-1/second-saturdays?format=ical",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://mobilize.us/joemillerforstatesenate/event/985982",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=broadway+avenue%2C+lorain+oh"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Team+Joe+Miller+at+Second+Saturdays+in+Lorain%21&dates=20260808T144500Z%2F20260808T190000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/second-saturdays?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next August 9 Walk with Joe in the North Ridgeville Corn Festival Parade",
+"href": "https://www.joemillerforohio.com/events-1/corn-festival-parade"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous July 26 Canvass with Team Miller in Norwalk",
+"href": "https://www.joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+},
+{
+"text": "https://www.mobilize.us/joemillerforstatesenate/event/985982/",
+"href": "https://www.mobilize.us/joemillerforstatesenate/event/985982/"
+}
 ]

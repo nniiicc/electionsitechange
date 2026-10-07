@@ -1,8 +1,26 @@
 [
-"https://campaignpartner.com/",
-"https://electbrianlockwood.com/",
-"https://electbrianlockwood.com/contact",
-"https://electbrianlockwood.com/contribute",
-"https://electbrianlockwood.com/issues",
-"https://electbrianlockwood.com/volunteer"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.electbrianlockwood.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electbrianlockwood.com/contribute"
+},
+{
+"text": "The Plan",
+"href": "https://www.electbrianlockwood.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electbrianlockwood.com/volunteer"
+},
+{
+"text": "[image: Brian Lockwood for CA State Assembly District 61]",
+"href": "https://www.electbrianlockwood.com/"
+}
 ]

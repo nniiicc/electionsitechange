@@ -1,6 +1,5 @@
-Rep.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis: ‘Squad’ Dem making ‘ludicrous’ excuse for pulling fire alarm by Team Nicole on Oct 02, 2023 Rep.
 Nicole Malliotakis on her plan to introduce a resolution to expel Rep.
-Jamaal Bowman for pulling a fire alarm in House building
-STAND WITH NICOLE
-by Team Nicole on
-Oct 02, 2023
+Jamaal Bowman for pulling a fire alarm in House building Watch share NEXT ARTICLE Malliotakis slams the Biden administration for not sending planes to Israel to bring home American citizens PREVIOUS ARTICLE Watch Nicole’s Message to Mayor Adams: Only U.S.
+Citizens can Vote in our Elections!
+STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

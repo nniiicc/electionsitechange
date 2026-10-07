@@ -1,10 +1,2 @@
-Back to All Events
-Join Megan Coy as we canvass North Royalton at the North Royalton Library at 11:00 am on July 18th.
-Sign up Here: https://docs.google.com/forms/d/e/1FAIpQLSf-VmPAHtn8sTXDft7axPb1JP2P-TYPOY7pl6NbxBGnlqtjbg/viewform?usp=header
-Previous
-Previous
-July 15
-Virtual Phonebank for Megan Coy
-Next
-Next
-July 22
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events North Royalton/Broadview Heights Canvass Launch Saturday, July 18, 2026 11:00 AM 12:00 PM North Royalton Library 5071 Wallings Road North Royalton, Ohio, 44133 United States (map) Google Calendar ICS Join Megan Coy as we canvass North Royalton at the North Royalton Library at 11:00 am on July 18th.
+Sign up Here: https://docs.google.com/forms/d/e/1FAIpQLSf-VmPAHtn8sTXDft7axPb1JP2P-TYPOY7pl6NbxBGnlqtjbg/viewform?usp=header Previous Previous July 15 Virtual Phonebank for Megan Coy Next Next July 22 Broadview Heights CDWC Fundraiser Paid for by Friends of Megan Coy

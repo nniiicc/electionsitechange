@@ -1,6 +1,4 @@
-About
-Jane Aman
-Dr.
+Skip to content Home About Issues Endorsements Voting Info Follow Us On X On Instagram On Facebook Volunteer Donate Home About Issues Endorsements Voting Info Follow Us On X On Instagram On Facebook Volunteer Donate Volunteer Donate About Jane Aman Dr.
 Jane Aman is a lecturer at the University of Central Florida and longtime community organizer.
 From serving as a Student Senator and Vice President of Unite for Reproductive and Gender Equity (URGE) at the University of Texas at El Paso to coaching the girls’ and boys’ soccer teams at Seminole County’s Crooms Academy of Information Technology, Jane’s commitment to public service has been a guiding force throughout her career.
 Prior to her tenure as a UCF Knight, she taught English, writing, and American literature at the University of Florida and Rollins College.
@@ -12,3 +10,6 @@ The impact of the affordability crisis manifests in our classrooms, as students 
 As a renter, Jane knows how hard it is to purchase a home in Florida, especially as the state faces an insurance crisis that a Republican super-majority legislature continues to ignore – and even worsen.
 Jane’s mother, a central Florida native, and father raised Jane to work hard for her home and community, which is the spirit she will bring with her to Tallahassee.
 Outside of her professional pursuits, Jane enjoys hiking through Florida’s state parks and perusing the vibrant Central Florida art community with her husband, Scott, and their dog, Winks.
+Send Jane to Tallahassee!
+Every dollar counts in the most competitive State House race in the South.
+Chip in to help send an educator, a community leader, and an advocate for all of us to the Capitol. $10 $25 $100 Other Facebook-f X-twitter Instagram Privacy Policy Paid for and approved by Jane Aman, Democrat, for State House District 37

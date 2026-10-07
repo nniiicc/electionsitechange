@@ -1,6 +1,3 @@
-Where is your district?
-*
-Where is your district? *
-The 47th district lies entirely within Butler County containing many communities including Hamilton, Fairfield Township and Oxford.
-You can look up your specific State House District by going to the Secretary of State’s website.
-Also see a map of our district below:
+0 Skip to Content About Jordan Issues 47th District Donate Now Open Menu Close Menu About Jordan Issues 47th District Donate Now Open Menu Close Menu About Jordan Issues 47th District Donate Now Where is your district? * Where is your district? * Where is your district? * The 47th district lies entirely within Butler County containing many communities including Hamilton, Fairfield Township and Oxford.
+You can look up your specific State House District by going to the Secretary of State’s website .
+Also see a map of our district below: Get Involved Donate Jordan 4 Ohio Paid for by Friends of Jordan Haire Made with Squarespace

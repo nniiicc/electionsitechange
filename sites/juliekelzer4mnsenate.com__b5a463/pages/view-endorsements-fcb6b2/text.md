@@ -1,12 +1,2 @@
-Endorsements
-Friends of the Boundary Waters
-Education Minnesota
-Gender Justice Action PAC
-Indivisible Carver County
-Pledge to support amending the constitution to say that corporations are not people.
-Move to Amend
-FairVote Minnesota
-Julia Samsal Hipp
-Kristina VanDenBroeke
-Chad Tschimperle
-Pamela Rolf
+Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Endorsements Friends of the Boundary Waters Education Minnesota Gender Justice Action PAC Indivisible Carver County Pledge to support amending the constitution to say that corporations are not people.
+Move to Amend FairVote Minnesota Julia Samsal Hipp Kristina VanDenBroeke Chad Tschimperle Pamela Rolf Click here to add your endorsement Make a Donation $ # $ # $ # $ # $ # $ # $ # $ 1000 Other Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu

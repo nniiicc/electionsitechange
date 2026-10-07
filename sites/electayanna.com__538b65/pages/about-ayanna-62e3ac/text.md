@@ -1,4 +1,4 @@
-Ayanna Khan-Flowers is a community advocate, entrepreneur, nonprofit leader, and proud resident of the MOT community who has spent the past 15 years serving the people of Middletown, Odessa, and Townsend.
+VOTE - November 3rd 2026 Early Voting Begins October 22, 2026 Home About Ayanna Volunteer Blog More Home About Ayanna Volunteer Blog Home About Ayanna Volunteer Blog About Ayanna Khan-Flowers Ayanna Khan-Flowers for Delaware State Representative, District 9 Ayanna Khan-Flowers is a community advocate, entrepreneur, nonprofit leader, and proud resident of the MOT community who has spent the past 15 years serving the people of Middletown, Odessa, and Townsend.
 After raising her children in the Appoquinimink School District, Ayanna made it her life's work to strengthen the community she calls home.
 Her children attended public schools in the MOT area, giving her firsthand experience with the opportunities and challenges facing local families.
 Throughout her career, Ayanna has worked alongside nonprofits, Appo School District, small businesses, and community organizations to secure funding, build partnerships, and create lasting impact.
@@ -13,7 +13,7 @@ Ayanna holds a Bachelor's degree in Criminal Justice from Park University and a 
 She is also the founder of Khan Consulting LLC and serves on several committees and boards.
 Ayanna lives in the MOT community with her husband, Staff Sergeant Jerry Flowers Jr., and children and together they remain committed to serving Delaware through community involvement and public service.
 On November 3, vote Ayanna Khan-Flowers for Delaware State Representative, District 9—because our community deserves a leader who has already been doing the work and is ready to deliver results.
-Ayanna Khan
-Copyright © 2026 Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+"I'm pro-worker and pro-opportunity.
+I stood with Delaware's minority- and small-business owners who were worried these mandates would lock their workers out of public projects.
+That's not anti-union — that's making sure every Delaware worker gets a fair shot." Ayanna Khan About Us Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.
+Terms and Conditions Privacy Policy

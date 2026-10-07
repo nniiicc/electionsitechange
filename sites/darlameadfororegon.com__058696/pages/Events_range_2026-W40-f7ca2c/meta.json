@@ -1,7 +1,11 @@
 {
  "description": "Darla Mead Campaign Events",
  "final_url": "https://www.darlameadfororegon.com/Events?range=2026-W40",
+ "fingerprint": "375c360e44b5b4d9877aab667442953317d0e784",
+ "format": 3,
  "paid_for_by": "Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner",
  "title": "Darla Mead Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

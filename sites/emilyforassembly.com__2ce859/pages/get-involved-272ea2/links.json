@@ -1,10 +1,42 @@
 [
-"https://emilyforassembly.com/",
-"https://emilyforassembly.com/get-involved",
-"https://emilyforassembly.com/issues",
-"https://facebook.com/EmilyAssembly",
-"https://instagram.com/EmilyAssembly",
-"https://nyassembly.gov/mem/Emily-Gallagher",
-"https://secure.actblue.com/donate/emily-gallagher-4-the-fighting-50th",
-"https://x.com/emilyassembly"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/emily-gallagher-4-the-fighting-50th/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.emilyforassembly.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://www.emilyforassembly.com/issues/"
+},
+{
+"text": "[image: Re-Elect Emily 2026]",
+"href": "https://www.emilyforassembly.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EmilyAssembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/EmilyAssembly/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/emilyassembly"
+},
+{
+"text": "[no text]",
+"href": "mailto:jen@emilyforassembly.com"
+},
+{
+"text": "jen@emilyforassembly.com",
+"href": "mailto:jen@emilyforassembly.com"
+},
+{
+"text": "visit my Assemblymember page.",
+"href": "https://nyassembly.gov/mem/Emily-Gallagher"
+}
 ]

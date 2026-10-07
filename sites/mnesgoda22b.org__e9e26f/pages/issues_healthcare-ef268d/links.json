@@ -1,13 +1,46 @@
 [
-"https://blowfish.page/",
-"https://gohugo.io/",
-"https://mnesgoda22b.org/",
-"https://mnesgoda22b.org/about",
-"https://mnesgoda22b.org/events",
-"https://mnesgoda22b.org/issues",
-"https://mnesgoda22b.org/issues/economy",
-"https://mnesgoda22b.org/issues/healthcare",
-"https://mnesgoda22b.org/news",
-"https://mnesgoda22b.org/volunteer",
-"https://secure.actblue.com/donate/mary-nesgoda-1"
+{
+"text": "About",
+"href": "https://mnesgoda22b.org/about/"
+},
+{
+"text": "Blowfish",
+"href": "https://blowfish.page/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mary-nesgoda-1"
+},
+{
+"text": "Events",
+"href": "https://mnesgoda22b.org/events/"
+},
+{
+"text": "Healthcare for All",
+"href": "https://mnesgoda22b.org/issues/healthcare/"
+},
+{
+"text": "Hugo",
+"href": "https://gohugo.io/"
+},
+{
+"text": "Issues",
+"href": "https://mnesgoda22b.org/issues/"
+},
+{
+"text": "Mary Nesgoda for Minnesota House 22B",
+"href": "https://mnesgoda22b.org/"
+},
+{
+"text": "News",
+"href": "https://mnesgoda22b.org/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://mnesgoda22b.org/volunteer/"
+},
+{
+"text": "← Economy & Cost of Living",
+"href": "https://mnesgoda22b.org/issues/economy/"
+}
 ]

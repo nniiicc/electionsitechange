@@ -1,38 +1,12 @@
-Helena Hayes
-LEADERSHIP FOR IOWA FAMILIES
-MEET HELENA
-Born and raised on a small acreage in Harrison County, Helena developed an early appreciation for the qualities that make Iowa special—its cherished values, welcoming people, and beautiful landscapes.
-Her journey began at Simpson College, where she earned a B.A. in Environmental Science and Biology.
+top of page DONATE HOME ABOUT EVENTS PRINCIPLES DISTRICT 88 CONTACT GET INOLVED Helena Hayes Helena Hayes Helena Hayes Helena Hayes LEADERSHIP FOR IOWA FAMILIES Subscribe to my newsletter Email * Yes, subscribe me to your newsletter.
+Submit MEET HELENA ​ Born and raised on a small acreage in Harrison County, Helena developed an early appreciation for the qualities that make Iowa special—its cherished values, welcoming people, and beautiful landscapes. ​ Her journey began at Simpson College, where she earned a B.A. in Environmental Science and Biology.
 Helena then worked with the U.S.
-Army Corps of Engineers at Lake Red Rock and the Mahaska County Conservation Board before dedicating herself to being a stay-at-home mom.
-Helena and her husband Dan have celebrated thirty years of marriage, raising their three grown children in rural Mahaska County.
-Her commitment to education spans twenty-five years as a homeschool educator, during which she also taught elementary classes for Classical Conversations and secondary education courses in physical science, biology, and chemistry.
-Community service has always been a cornerstone of Helena's life.
+Army Corps of Engineers at Lake Red Rock and the Mahaska County Conservation Board before dedicating herself to being a stay-at-home mom. ​ Helena and her husband Dan have celebrated thirty years of marriage, raising their three grown children in rural Mahaska County.
+Her commitment to education spans twenty-five years as a homeschool educator, during which she also taught elementary classes for Classical Conversations and secondary education courses in physical science, biology, and chemistry. ​ Community service has always been a cornerstone of Helena's life.
 Over the decades, she has been deeply involved in her church community, served as a Mahaska County 4-H Organizational Leader, and taken on roles as a poultry superintendent and youth judge at county fairs across Iowa.
-Helena founded and chairs Protect My Innocence, an advocacy group dedicated to countering the sexualization of Iowa’s children.
-Since January 2023, Helena has served in the Iowa House of Representatives for District 88, contributing to the Natural Resources, Environmental Protections, and International Relations committees.
-As a freshman legislator, she championed groundbreaking legislation to criminalize the sexual exploitation of minors through false AI-generated content, commonly known as “deep fakes.” Her pioneering bill garnered unanimous support from both parties in the House and the Senate and was signed into law by the Governor on April 10, 2024.
-She continues to be a staunch advocate for protecting families and children, defending God-given constitutional freedoms, and safeguarding private property rights.
-Outside of her legislative duties, Helena enjoys reading, taking long walks in the sunshine, and cherishing time with family and friends.
-CORE PRINCPLES
-FAMILY
-The fundamental unit ordained by God, where love, faith, and values are nurtured and passed down
-LIFE
-A precious gift, deserving of respect and protection at every stage
-SECOND AMENDMENT
-Self-defense, a divinely ordained fundamental right, is essential to personal freedom and security
-FREEDOM
-Firmly protected by our Constitution, the liberty to live in accordance with biblical principles and values, while being guided by a framework that respects both individual rights and moral responsibilities
-CONSTITUTION
-As the elected Iowa House Representative, Helena is committed to upholding the moral principles and individual freedoms grounded in biblical values as outlined in our founding documents
-INNOCENCE
-Safe guarding the virtue of our vulnerable children.
-GET INVOLVED
-Iowa House District 88
-District 88 primarily covers parts of Mahaska County, Jefferson County, and Keokuk County.
+Helena founded and chairs Protect My Innocence, an advocacy group dedicated to countering the sexualization of Iowa’s children. ​ Since January 2023, Helena has served in the Iowa House of Representatives for District 88, contributing to the Natural Resources, Environmental Protections, and International Relations committees.
+As a freshman legislator, she championed groundbreaking legislation to criminalize the sexual exploitation of minors through false AI-generated content, commonly known as “deep fakes.” Her pioneering bill garnered unanimous support from both parties in the House and the Senate and was signed into law by the Governor on April 10, 2024. ​ She continues to be a staunch advocate for protecting families and children, defending God-given constitutional freedoms, and safeguarding private property rights. ​ Outside of her legislative duties, Helena enjoys reading, taking long walks in the sunshine, and cherishing time with family and friends. ​ CORE PRINCPLES FAMILY The fundamental unit ordained by God, where love, faith, and values are nurtured and passed down LIFE A precious gift, deserving of respect and protection at every stage SECOND AMENDMENT Self-defense, a divinely ordained fundamental right, is essential to personal freedom and security FREEDOM Firmly protected by our Constitution, the liberty to live in accordance with biblical principles and values, while being guided by a framework that respects both individual rights and moral responsibilities CONSTITUTION As the elected Iowa House Representative, Helena is committed to upholding the moral principles and individual freedoms grounded in biblical values as outlined in our founding documents INNOCENCE Safe guarding the virtue of our vulnerable children.
+GET INVOLVED GET INVOLVED GET INVOLVED GET INVOLVED Iowa House District 88 District 88 primarily covers parts of Mahaska County, Jefferson County, and Keokuk County.
 It is the 6th “reddest district” in the state, meaning that it is a very conservative, Republican district that historically emphasizes traditional values and local heritage.
-There are 22,000 registered voters:
-- 50% are Republican
-- 29% are “No Party”
-- 21% are Democrats
-Within the many small towns and their strong sense of community, District 88 voters prioritize issues such as agricultural policies, tax relief, and conservative social values.
+There are 22,000 registered voters: 50% are Republican 29% are “No Party” 21% are Democrats Within the many small towns and their strong sense of community, District 88 voters prioritize issues such as agricultural policies, tax relief, and conservative social values.
+Contact us First name (Required) Last name (Required) Email (Required) Zip Code (Required) Bill or Issue of Concern Comments or Question (Required) Submit HOME ABOUT EVENTS PRINCIPLES DISTRICT 88 CONTACT GET INOLVED FACEBOOK PRIVACY POLICY © # HAYES FOR HOUSE HOME ABOUT EVENTS PRINCIPLES DISTRICT 88 CONTACT GET INOLVED HELENA HAYES HELENA HAYES HELENA HAYES HELENA HAYES bottom of page

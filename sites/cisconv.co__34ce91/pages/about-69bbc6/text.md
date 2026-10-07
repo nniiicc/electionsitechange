@@ -1,5 +1,4 @@
-About Cisco
-Cisco Aguilar serves as Nevada’s Secretary of State.
+Skip to content Contribute to the Campaign About Cisco Record Endorsements Contact Us About Cisco Record Endorsements Contact Us Facebook X-twitter Instagram Facebook X-twitter Instagram About Cisco Cisco Aguilar serves as Nevada’s Secretary of State.
 Secretary Aguilar also serves as the Chair for the Democratic Association of Secretaries of State.
 As Secretary, he is focused on three major principles: modernization, innovation, and transparency.
 Under the Secretary’s leadership and vision, the office took on two major technology projects to modernize the state’s elections and business filings.
@@ -11,3 +10,6 @@ Secretary Aguilar is a graduate from the University of Arizona.
 Passionate about education, Secretary Aguilar is the Founding Chairman of Cristo Rey St.
 Viator High School, which provides an innovative workforce development program in one of Las Vegas’ most vulnerable neighborhoods.
 Secretary Aguilar also served on the Nevada Athletic Commission regulating boxing and mixed martial arts for eight years, two of which he served as Chairman.
+Join the Team!
+First Name First Name Email Phone Postal Code Join!
+Links About Cisco Record Endorsements Contact Us Things Nevada Voters Need to Know About Cisco Record Endorsements Contact Us Things Nevada Voters Need to Know Contact [email protected] Paid for by Cisco for Nevada

@@ -1,29 +1,118 @@
 [
-"https://facebook.com/ultrinoforrep",
-"https://instagram.com/repultrino?hl=en",
-"https://representativeultrino.com/",
-"https://representativeultrino.com/budget-funding",
-"https://representativeultrino.com/communityresources",
-"https://representativeultrino.com/contact-steve",
-"https://representativeultrino.com/copy-of-key-legislation",
-"https://representativeultrino.com/issues",
-"https://representativeultrino.com/meet-steve",
-"https://representativeultrino.com/meet-the-team",
-"https://representativeultrino.com/news",
-"https://representativeultrino.com/news/categories/celebrations-achievements",
-"https://representativeultrino.com/news/categories/community-annoucements",
-"https://representativeultrino.com/news/categories/grants/resources",
-"https://representativeultrino.com/news/categories/newsletters",
-"https://representativeultrino.com/news/categories/press-releases",
-"https://representativeultrino.com/news/categories/voice-on-the-hill/other-events",
-"https://representativeultrino.com/news/categories/wellness-wednesday",
-"https://representativeultrino.com/policy",
-"https://representativeultrino.com/post/letter-opposing-mbta-service-cuts",
-"https://representativeultrino.com/post/newsletter-fy23-budget-wrap-up",
-"https://representativeultrino.com/post/october-newsletter",
-"https://representativeultrino.com/post/rep-ultrino-releases-end-of-year-constituent-services-report",
-"https://representativeultrino.com/post/september-newsletter",
-"https://representativeultrino.com/post/ultrino-releases-november-december-newsletter",
-"https://twitter.com/repultrino?lang=en",
-"https://youtube.com/channel/UCtkdBI2g5TE98AlrTZHXVLQ"
+{
+"text": "Achievements",
+"href": "https://www.representativeultrino.com/news/categories/celebrations-achievements"
+},
+{
+"text": "All Posts",
+"href": "https://www.representativeultrino.com/news"
+},
+{
+"text": "Community Updates",
+"href": "https://www.representativeultrino.com/news/categories/community-annoucements"
+},
+{
+"text": "Contact Steve",
+"href": "https://www.representativeultrino.com/contact-steve"
+},
+{
+"text": "Events",
+"href": "https://www.representativeultrino.com/news/categories/voice-on-the-hill/other-events"
+},
+{
+"text": "Funding",
+"href": "https://www.representativeultrino.com/budget-funding"
+},
+{
+"text": "Grants & Other Resources",
+"href": "https://www.representativeultrino.com/news/categories/grants/resources"
+},
+{
+"text": "Home",
+"href": "https://www.representativeultrino.com"
+},
+{
+"text": "Issues",
+"href": "https://www.representativeultrino.com/issues"
+},
+{
+"text": "Legislative Wins",
+"href": "https://www.representativeultrino.com/copy-of-key-legislation"
+},
+{
+"text": "Letter Opposing MBTA Service Cuts",
+"href": "https://www.representativeultrino.com/post/letter-opposing-mbta-service-cuts"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.representativeultrino.com/meet-steve"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.representativeultrino.com/meet-the-team"
+},
+{
+"text": "Newsletter: FY23 Budget Wrap Up",
+"href": "https://www.representativeultrino.com/post/newsletter-fy23-budget-wrap-up"
+},
+{
+"text": "Newsletters",
+"href": "https://www.representativeultrino.com/news/categories/newsletters"
+},
+{
+"text": "Newsroom",
+"href": "https://www.representativeultrino.com/news"
+},
+{
+"text": "October Newsletter",
+"href": "https://www.representativeultrino.com/post/october-newsletter"
+},
+{
+"text": "Policy",
+"href": "https://www.representativeultrino.com/policy"
+},
+{
+"text": "Press Releases",
+"href": "https://www.representativeultrino.com/news/categories/press-releases"
+},
+{
+"text": "Rep. Ultrino releases end of year constituent services report",
+"href": "https://www.representativeultrino.com/post/rep-ultrino-releases-end-of-year-constituent-services-report"
+},
+{
+"text": "Resources",
+"href": "https://www.representativeultrino.com/communityresources"
+},
+{
+"text": "September Newsletter!",
+"href": "https://www.representativeultrino.com/post/september-newsletter"
+},
+{
+"text": "Steven.Ultrino@MAhouse.gov",
+"href": "mailto:Steven.Ultrino@MAhouse.gov"
+},
+{
+"text": "Ultrino Releases November & December Newsletter",
+"href": "https://www.representativeultrino.com/post/ultrino-releases-november-december-newsletter"
+},
+{
+"text": "Wellness Wednesday",
+"href": "https://www.representativeultrino.com/news/categories/wellness-wednesday"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/ultrinoforrep/"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "https://www.instagram.com/repultrino/?hl=en"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "https://twitter.com/repultrino?lang=en"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCtkdBI2g5TE98AlrTZHXVLQ"
+}
 ]

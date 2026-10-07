@@ -1,7 +1,9 @@
 {
  "description": "Manage RSV Ps on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageRSVPs",
- "paid_for_by": null,
+ "fingerprint": "2a08511be537bb6816d073c51648f18197c51ba8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage RSV Ps | Maxwell for Congress",
  "years_mentioned": []
 }

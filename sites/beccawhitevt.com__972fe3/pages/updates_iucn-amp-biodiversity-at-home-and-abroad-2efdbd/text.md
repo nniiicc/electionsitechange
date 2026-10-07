@@ -1,5 +1,4 @@
-IUCN & Biodiversity at home and abroad
-Standing among global leaders at the World Conservation Congress, I saw that Vermont belongs in the room.
+0 Skip to Content Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate IUCN & Biodiversity at home and abroad Oct 22 Written By Rebecca White Standing among global leaders at the World Conservation Congress, I saw that Vermont belongs in the room.
 I recently returned from the International Union for Conservation of Nature’s (IUCN) World Conservation Congress (WCC) in Abu Dhabi — a global gathering of environmental leaders, scientists, and policymakers committed to protecting nature and building a sustainable future.
 What I witnessed wasn’t just global ambition.
 It was a call to action that Vermont is already answering.
@@ -21,3 +20,5 @@ And at a time of federal retreat, we made it known: states aren’t backing down
 From coast to coast, states like Vermont are working toward a bold, collective vision.
 A vision rooted in the belief that protecting nature is fundamental to protecting our future.
 I look forward to helping that vision come to life in our forests and wetlands, in our legislative chambers, and in the partnerships we build across borders.
+Rebecca White Previous Previous One year out - I’m just getting started!
+Next Next Town Meeting Report 2024 Becca White for Vermont White River Junction, Vermont 05001 (802) 777 4517 Made with Squarespace Our Work About Updates Take Action Follow Twitter Instagram Facebook

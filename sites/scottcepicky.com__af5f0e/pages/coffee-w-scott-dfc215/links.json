@@ -1,7 +1,22 @@
 [
-"https://scottcepicky.com/",
-"https://scottcepicky.com/blog",
-"https://scottcepicky.com/coffee-w-scott",
-"https://scottcepicky.com/issues",
-"https://scottcepicky.com/meet-scott"
+{
+"text": "HOME",
+"href": "https://www.scottcepicky.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.scottcepicky.com/issues"
+},
+{
+"text": "MEET SCOTT",
+"href": "https://www.scottcepicky.com/meet-scott"
+},
+{
+"text": "NEWS",
+"href": "https://www.scottcepicky.com/blog"
+},
+{
+"text": "UPDATES FROM THE CAPITOL",
+"href": "https://www.scottcepicky.com/coffee-w-scott"
+}
 ]

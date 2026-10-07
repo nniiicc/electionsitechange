@@ -1,20 +1,11 @@
-Meet-n-Greet with Church groups, friends, family, etc.
-We need 3,000 signatures to be on the Primary.
-Ballot in June 2026 – we start collecting signatures in January
-Campaign contributions are critical to our success
-Donate books of stamps, copy paper, envelopes to help get mail to voters
-On social media and share our posts and campaign
-Primary Election June 2, 2026
-Prayers are powerful and welcome
-Contributions by check are made out to: The Committee to Elect Justin Murphy
-20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088
-INFO
-Paid for by The Committee to
-Elect Justin Murphy
-Cynthia Gallenthin – Treasurer
-20 WORRELL ROAD TABERNACLE,
-NJ 08088
-ABOUT
-© Jersey Justin for Senate.
+Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook help Murphy for U.s.
+Senate Help spread our message – Murphy for U.S .
+Senate 2026 Host a small coffee Meet-n-Greet with Church groups, friends, family, etc.
+Carry a Nomination Petition We need 3,000 signatures to be on the Primary.
+Ballot in June 2026 – we start collecting signatures in January Donate Campaign contributions are critical to our success In-kind contributions Donate books of stamps, copy paper, envelopes to help get mail to voters Follow Murphy for Senate On social media and share our posts and campaign Vote Primary Election June 2, 2026 Pray Prayers are powerful and welcome Host a small coffee Meet-n-Greet with Church groups, friends, family, etc.
+Carry a Nomination Petition We need 3,000 signatures to be on the Primary.
+Ballot in June 2026 – we start collecting signatures in January Donate Campaign contributions are critical to our success In-kind contributions Donate books of stamps, copy paper, envelopes to help get mail to voters Follow Murphy for Senate On social media and share our posts and campaign Vote Primary Election June 2, 2026 Pray Prayers are powerful and welcome MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations © Jersey Justin for Senate.
 All Rights Reserved.
-Web: IGV Web Design
+Web: IGV Web Design © Jersey Justin for Senate.
+All Rights Reserved.
+Web: IGV Web Design privacy policy

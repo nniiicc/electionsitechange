@@ -1,7 +1,3 @@
-Events
-More events coming soon!
-6
-Oct
-Tuesday, 7:00 PM – 8:00 PM
-Moanalua Gardens Community Association Meeting
-Moanalua Middle cafeteria
+Home About Donna Events News Community Bulletin Photo Gallery Events More events coming soon!
+#ago This Week This Month ‹ Previous Tue Oct 6 2026 Next › 6 Oct Tuesday, 7:00 PM – 8:00 PM Moanalua Gardens Community Association Meeting Moanalua Middle cafeteria More info › Get Updates Thank you for signing up!
+CONTRIBUTE VOLUNTEER REGISTER TO VOTE News Legislators Push for Improved Dementia Care Training at Annual Advocacy Day Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award Senator Kim runs for re-election Where to Get Your COVID-19 Vaccination Now Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

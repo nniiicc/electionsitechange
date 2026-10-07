@@ -1,9 +1,12 @@
 {
  "description": "The official campaign website of Jim Hawkins, candidate for State Representative.",
  "final_url": "https://www.hawkins4rep.com/",
- "paid_for_by": null,
+ "fingerprint": "94e52ade9d70e98e49e44f826397f4bba95699c5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "JIM HAWKINS STATE REPRESENTATIVE - Meet Jim",
  "years_mentioned": [
+  "1999",
   "2018",
   "2024"
  ]

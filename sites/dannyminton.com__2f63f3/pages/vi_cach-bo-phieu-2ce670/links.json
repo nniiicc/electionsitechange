@@ -1,36 +1,186 @@
 [
-"https://co.navarro.tx.us/page/navarro.Elections",
-"https://dallascountyvotes.org/",
-"https://dannyfortexas.com/calendar/vi-early.ics",
-"https://dannyfortexas.com/calendar/vi-election-day.ics",
-"https://dannyfortexas.com/calendar/vi-mail-apply.ics",
-"https://dannyfortexas.com/calendar/vi-mail-return.ics",
-"https://dannyfortexas.com/calendar/vi-primary.ics",
-"https://dannyfortexas.com/calendar/vi-register.ics",
-"https://dannyfortexas.com/calendar/vi-runoff.ics",
-"https://dannyfortexas.com/es/como-votar",
-"https://dannyfortexas.com/vi",
-"https://dannyfortexas.com/vi/cach-bo-phieu",
-"https://dannyfortexas.com/vi/cau-chuyen-cua-toi",
-"https://dannyfortexas.com/vi/cau-hoi-thuong-gap",
-"https://dannyfortexas.com/vi/dieu-khoan-sms",
-"https://dannyfortexas.com/vi/lien-he",
-"https://dannyfortexas.com/vi/quyen-rieng-tu",
-"https://dannyfortexas.com/vi/tinh-nguyen",
-"https://dannyfortexas.com/vi/ung-ho",
-"https://dannyfortexas.com/vi/uu-tien",
-"https://dannyfortexas.com/vote",
-"https://elliscountytx.gov/312/Elections",
-"https://facebook.com/profile.php?id=61579091540344",
-"https://instagram.com/dannyfortexas",
-"https://johnsoncountytx.org/departments/elections-office",
-"https://secure.actblue.com/donate/danny-minton-2",
-"https://tarrantcountytx.gov/en/elections.html",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://tiktok.com/@dannyfortexas",
-"https://votetexas.gov/",
-"https://votetexas.gov/register-to-vote/index.html",
-"https://votetexas.gov/voting-by-mail/eligibility-requirements.html",
-"https://votetexas.gov/voting/need-id.html",
-"https://youtube.com/@Dannyfortexas/shorts"
+{
+"text": "--Ngày:--Giờ:--Phút:--Giâyđến Ngày Bầu cử",
+"href": "https://www.dannyfortexas.com/vi/cach-bo-phieu/"
+},
+{
+"text": "817-556-6197",
+"href": "tel:817-556-6197"
+},
+{
+"text": "817-831-8683",
+"href": "tel:817-831-8683"
+},
+{
+"text": "903-875-3330",
+"href": "tel:903-875-3330"
+},
+{
+"text": "972-825-5195",
+"href": "tel:972-825-5195"
+},
+{
+"text": "Bỏ phiếu",
+"href": "https://www.dannyfortexas.com/vi/cach-bo-phieu/"
+},
+{
+"text": "Chính Sách Bảo Mật",
+"href": "https://www.dannyfortexas.com/vi/quyen-rieng-tu/"
+},
+{
+"text": "Cách Bỏ Phiếu",
+"href": "https://www.dannyfortexas.com/vi/cach-bo-phieu/"
+},
+{
+"text": "Cách xin phiếu bầu qua thư",
+"href": "https://www.votetexas.gov/voting-by-mail/eligibility-requirements.html"
+},
+{
+"text": "Câu Chuyện Của Tôi",
+"href": "https://www.dannyfortexas.com/vi/cau-chuyen-cua-toi/"
+},
+{
+"text": "Danny MintonforCongressDistrict 6",
+"href": "https://www.dannyfortexas.com/vi/"
+},
+{
+"text": "English",
+"href": "https://www.dannyfortexas.com/vote/"
+},
+{
+"text": "Español",
+"href": "https://www.dannyfortexas.com/es/como-votar/"
+},
+{
+"text": "Ghi danh bỏ phiếu",
+"href": "https://www.votetexas.gov/register-to-vote/index.html"
+},
+{
+"text": "Hỏi Đáp",
+"href": "https://www.dannyfortexas.com/vi/cau-hoi-thuong-gap/"
+},
+{
+"text": "Kiểm tra ghi danh của tôi",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Kiểm tra địa chỉ của tôi",
+"href": "https://www.dannyfortexas.com/vi/#district"
+},
+{
+"text": "Liên Hệ",
+"href": "https://www.dannyfortexas.com/vi/lien-he/"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-early.ics"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-election-day.ics"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-mail-apply.ics"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-mail-return.ics"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-primary.ics"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-register.ics"
+},
+{
+"text": "Thêm vào lịch",
+"href": "https://www.dannyfortexas.com/calendar/vi-runoff.ics"
+},
+{
+"text": "Thông tin bỏ phiếu chính thức",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.dannyfortexas.com/vi/cach-bo-phieu/"
+},
+{
+"text": "Toàn bộ quy định về giấy tờ",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+},
+{
+"text": "Trang chủ",
+"href": "https://www.dannyfortexas.com/vi/"
+},
+{
+"text": "Trang web",
+"href": "https://www.co.navarro.tx.us/page/navarro.Elections"
+},
+{
+"text": "Trang web",
+"href": "https://www.dallascountyvotes.org/"
+},
+{
+"text": "Trang web",
+"href": "https://www.elliscountytx.gov/312/Elections"
+},
+{
+"text": "Trang web",
+"href": "https://www.johnsoncountytx.org/departments/elections-office"
+},
+{
+"text": "Trang web",
+"href": "https://www.tarrantcountytx.gov/en/elections.html"
+},
+{
+"text": "Tình Nguyện",
+"href": "https://www.dannyfortexas.com/vi/tinh-nguyen/"
+},
+{
+"text": "Tôi đã ghi danh chưa?",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579091540344"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dannyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@dannyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Dannyfortexas/shorts"
+},
+{
+"text": "district6@dannyfortexas.com",
+"href": "mailto:district6@dannyfortexas.com"
+},
+{
+"text": "Điều Khoản SMS",
+"href": "https://www.dannyfortexas.com/vi/dieu-khoan-sms/"
+},
+{
+"text": "Đóng Góp",
+"href": "https://secure.actblue.com/donate/dannyfortexas"
+},
+{
+"text": "Địa hạt 6?",
+"href": "https://www.dannyfortexas.com/vi/#district"
+},
+{
+"text": "Ưu Tiên",
+"href": "https://www.dannyfortexas.com/vi/uu-tien/"
+},
+{
+"text": "Ủng Hộ",
+"href": "https://www.dannyfortexas.com/vi/ung-ho/"
+}
 ]

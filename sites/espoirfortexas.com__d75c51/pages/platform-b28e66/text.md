@@ -1,83 +1,32 @@
-The Platform
-For decades, both major parties have told us that markets solve everything, that democracy is working fine, and that we should expect less while corporations take more.
+0 Skip to Content Home About Platform Contact Open Menu Close Menu Home About Platform Contact Open Menu Close Menu Home About Platform Contact The Platform For decades, both major parties have told us that markets solve everything, that democracy is working fine, and that we should expect less while corporations take more.
 This platform starts from a different premise: people, planet, and peace come before profit — democracy should work for everyone, not just donors.
 We cannot demand better until we can envision better.
 That begins with discussing what lies beyond the restricted political landscape our current status quo offers.
-Espoir’s platform is broken into three parts: (1) Saving Democracy (apolitical procedural policies), (2) Green Party Platform (eco-socialists/leftist policies) and (3) District Platform (TX-7 policies).
+Espoir’s platform is broken into three parts: (1) Saving Democracy (apolitical procedural policies), (2) Green Party Platform ( eco-socialists/leftist policies) and (3) District Platform (TX-7 policies).
 Each topic includes links to explainer videos, think-tank proposals, and active legislation in Congress (where available) — we aren’t attempting anything that hasn’t been proposed before.
 Espoir encourages all voters to explore the platform and send feedback to the campaign.
-Saving Democracy (Project 2028)
-No matter where you lie on the political spectrum (leftist, liberal, centrist or conservative)— we all need to work together to make fundamental changes to save our democracy.
+DONATE TODAY!
+Saving Democracy (Project 2028) No matter where you lie on the political spectrum (leftist, liberal, centrist or conservative)— we all need to work together to make fundamental changes to save our democracy.
 This won’t happen overnight.
 We must begin building to 2028 today.
 The below was inspired by the popular online graphic, Project 2028 — a comprehensive reform agenda to rebuild American democracy and the economy, so that political power and wealth serve ordinary people instead of corporations, billionaires, and entrenched incumbents.
-- Overturn Citizens United by co-sponsoring and advocating for the Democracy for All Amendment — a constitutional amendment to overturn Citizens United and restore the power of Congress to regulate political spending
-- Ban Lobbyist Gifts — no more direct or indirect incentives for politicians
-- Ban Stock Trading in Congress by co-sponsoring and advocating for the Ban Congressional Stock Trading Act
-- Advocate for public financing of campaigns
-- Co-sponsor the Ranked Choice Voting Act and push for federal incentives for states to adopt RCV in primaries and general elections
-- Support federal standards for fair ballot access, including nonpartisan primary systems
-- Introduce legislation tying congressional salaries to a multiple of the median income of their home district
-- No pay during government shutdowns
-- Lead by example — publicly pledge to donate excess salary back into TX-7
-- Co-sponsor and advocate for legislation capping term limits for Congress
-- Congress is unlikely to vote to limit its own power (see H.J.Res.12) so advocates are using Article V of the Constitution to bypass Washington.
-If 34 state legislatures pass resolutions calling for a "Term Limits Convention," an amendment can be proposed without congressional approval
-Green Party Platform (Ecosocialism)
-Prioritizing people, planet & peace — the following policies are for the eco-socialists and democratic socialists alike and are based upon the 10 Key Values of the TX Green Party Platform.
+Money Out of Politics Overturn Citizens United by co-sponsoring and advocating for the Democracy for All Amendment — a constitutional amendment to overturn Citizens United and restore the power of Congress to regulate political spending Ban Lobbyist Gifts — no more direct or indirect incentives for politicians Ban Stock Trading in Congress by co-sponsoring and advocating for the Ban Congressional Stock Trading Act Advocate for public financing of campaigns Ranked Choice Voting (RCV) Co-sponsor the Ranked Choice Voting Act and push for federal incentives for states to adopt RCV in primaries and general elections Support federal standards for fair ballot access, including nonpartisan primary systems Cap Congressional Salaries (at 1.5X Avg.
+Salary) Introduce legislation tying congressional salaries to a multiple of the median income of their home district No pay during government shutdowns Lead by example — publicly pledge to donate excess salary back into TX-7 Term Limits for Congress Co-sponsor and advocate for legislation capping term limits for Congress Congress is unlikely to vote to limit its own power (see H.J.Res.12 ) so advocates are using Article V of the Constitution to bypass Washington.
+If 34 state legislatures pass resolutions calling for a " Term Limits Convention ," an amendment can be proposed without congressional approval Green Party Platform ( Ecosocialism ) Prioritizing people, planet & peace — the following policies are for the eco-socialists and democratic socialists alike and are based upon the 10 Key Values of the TX Green Party Platform.
 Not familiar with socialism?
-Checkout some of the below videos as a starting point:
-- Co-sponsor bills like the Medicare for All Act to establish a single-payer universal healthcare system
-- Oppose privatization of Medicare or Medicaid
-- Advocate for increased funding for community clinics in TX-7
-- Co-sponsor legislation to raise the federal minimum wage in line with modern cost-of-living realities.
-Force wages to pace with inflation.
-- Introduce bills that allow regional cost-of-living adjustment (COLA) indexing, starting with $25/hr
-- Advocate and vote for all legislation that reins in the military industrial complex
-- Vote against unconditional military aid packages (i.e., Ceasefire Compliance Act)
-- Condition aid (if any) on compliance with U.S. human rights law (i.e., Leahy Law)
-- Support bills that compel the Department of Defense (DOD) to achieve a clean audit by imposing financial penalties for failures
-- Reduce or eliminate Foreign Military Financing (FMF)
-- Restore funding to UNRWA
-- Support recognition of Palestinian statehood
-- Data centers must serve communities, not drain our water, overload or grid, and collect public subsidies for private tech monopolies
-- Endorse legislation like the Data Transparency Act
-- Support legislation that builds a Progressive Vision for Education in the 21st Century
-- Push-back on school voucher programs in Texas
-- Forgive student-loan debt
-- Resuscitate the Department of Education
-- 2% annual tax on net worth above $50 million (i.e., Ultra-Millionaire Tax Act)
-- 3%+ annual tax on net worth above $1 billion
-- Tax annual unrealized capital gains of billionaires
-- Expand the IRS to crack down on tax evasion of the ultra-wealthy
-- Increase corporate tax rates based on CEO-to-median worker pay ratios
-- Propose and co-sponsor legislation like the Women’s Health Protection Act
-- Advocate for amending the constitution to enshrine women’s bodily autonomy.
-- Push for nation-wide paid parental leave
-- Pursue former Labor Secretary, Robert Reich’s proposed 10 Ways to make America Affordable Again
-- Increase appropriations to the Community Development Block Grant (CDBG) and pair with a pilot program to acquire aging multifamily homes and convert into Community Land Trusts
-- Keep Wall Street out of the residential housing market
-- Advocate for tenant right of first refusal + tenant right to organize programs
-- Expand and streamline FEMA’s Individuals and Households Program (IHP) and Individual Assistance (IA) Program, so money goes directly to applicants within a set number of days, rather than being held by state and municipal entities
-- Increase Hazard Mitigation Assistance (HMA) funding and keep federal match requirements workable for lower-income communities
-- Tie federal mitigation dollars to measurable outputs (i.e., structures protected, prevention capacity added, repetitive-loss properties flagged)
-- Prioritize grant applications for bayou/drainage networks near Alief, Sharpstown and Gulfton
-- Expand the Safe Streets and Roads for All (SS4A) Program to improve walkability with sidewalks and street safety upgrades; remove red-tape so the state and city can’t withhold the funds for political games
-- Implement a pilot program for participatory budgeting for road and public transit projects
-- Protect and expand Federal Transit Administration (FTA) bus program funding for TX-7
-- Advocate for corridor-specific earmarks (i.e., dedicated bus lanes, 10-minute peak frequency targets) and a Zero-Fare pilot program
-- Child food insecurity spikes during summer months when school meals disappear.
+Checkout some of the below videos as a starting point: A Future Beyond Capitalism?
+Socialism Explained Capitalism, Socialism, and Communism Compared Socialism for Absolute Beginners Universal Healthcare (Single-Payer) Co-sponsor bills like the Medicare for All Act to establish a single-payer universal healthcare system Oppose privatization of Medicare or Medicaid Advocate for increased funding for community clinics in TX-7 Raise Federal Minimum Wage to $25/Hour + Scale to Cost of Living Co-sponsor legislation to raise the federal minimum wage in line with modern cost-of-living realities.
+Force wages to pace with inflation .
+Introduce bills that allow regional cost-of-living adjustment (COLA) indexing , starting with $25/hr America First.
+No More Aid to Israel.
+No More Endless Wars Advocate and vote for all legislation that reins in the military industrial complex Vote against unconditional military aid packages (i.e., Ceasefire Compliance Ac t) Condition aid (if any) on compliance with U.S. human rights law (i.e., Leahy Law ) Support bills that compel the Department of Defense (DOD) to achieve a clean audit by imposing financial penalties for failures Reduce or eliminate Foreign Military Financing (FMF) Restore funding to UNRWA Support recognition of Palestinian statehood Regulate Data Centers Data centers must serve communities, not drain our water, overload or grid , and collect public subsidies for private tech monopolies Endorse legislation like the Data Transparency Act Revitalize American Education Support legislation that builds a Progressive Vision for Education in the 21st Century Push-back on school voucher programs in Texas Forgive student-loan debt Resuscitate the Department of Education Tax Billionaires Out of Existence 2% annual tax on net worth above $50 million (i.e., Ultra-Millionaire Tax Act ) 3%+ annual tax on net worth above $1 billion Tax annual unrealized capital gains of billionaires Expand the IRS to crack down on tax evasion of the ultra-wealthy Increase corporate tax rates based on CEO-to-median worker pay ratios Codify Women's Rights and Parental Leave Propose and co-sponsor legislation like the Women’s Health Protection Act Advocate for amending the constitution to enshrine women’s bodily autonomy.
+Push for nation-wide paid parental leave Affordability & Population Loss Pursue former Labor Secretary, Robert Reich’s proposed 1 0 Ways to make America Affordable Again Increase appropriations to the Community Development Block Grant (CDBG) and pair with a pilot program to acquire aging multifamily homes and convert into Community Land Trusts Keep Wall Street out of the residential housing market Advocate for tenant right of first refusal + tenant right to organize programs Flood Mitigation and Disaster Preparedness Expand and streamline FEMA’s Individuals and Households Program (IHP) and Individual Assistance (IA) Program , so money goes directly to applicants within a set number of days, rather than being held by state and municipal entities Increase Hazard Mitigation Assistance (HMA) funding and keep federal match requirements workable for lower-income communities Tie federal mitigation dollars to measurable outputs (i.e., structures protected, prevention capacity added, repetitive-loss properties flagged) Prioritize grant applications for bayou/drainage networks near Alief, Sharpstown and Gulfton Improve Road Safety and Reduce Traffic Expand the Safe Streets and Roads for All (SS4A) Program to improve walkability with sidewalks and street safety upgrades; remove red-tape so the state and city can’t withhold the funds for political games Implement a pilot program for participatory budgeting for road and public transit projects Protect and expand Federal Transit Administration (FTA) bus program funding for TX-7 Advocate for corridor-specific earmarks (i.e., dedicated bus lanes, 10-minute peak frequency targets) and a Zero-Fare pilot program Food Insecurity Child food insecurity spikes during summer months when school meals disappear.
 This is a structural gab, not a failure of individual families.
-Texas consistently ranks among states with highest food insecurity rates
-- Co-sponsor and advocate for permanently authorized Summer EBT
-- Allocate federal funds to provide universal meals year-round
-- Provide after-school care, cooling centers and family services
-District Platform (TX-7)
-Career politicians put their donors ahead of their constituents.
+Texas consistently ranks among states with highest food insecurity rates Co-sponsor and advocate for permanently authorized Summer EBT Allocate federal funds to provide universal meals year-round Provide after-school care, cooling centers and family services District Platform (TX-7) Career politicians put their donors ahead of their constituents.
 Espoir was born and raised in the district.
 He believes this Congressional seat is not a job to be won, but a civic call to be answered.
 He will always prioritize the needs of his fellow Houstonians and fight to protect his home.
 The following policies are for all citizens within TX-7 — not just his donors; not just those who vote for him.
-Take the Power Back
-We don't need corporate millions.
+Take the Power Back We don't need corporate millions.
 We need you.
+Donate Hope for Texans Facebook Instagram Follow us Paid for by Campaign Committee for Espoir Ngabo

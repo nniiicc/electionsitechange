@@ -1,13 +1,13 @@
-Meet Christian candidates for office and engage in an open conversation about the issues that matter most to faith, family, and the future of our local communities.
+Skip to Content Open Menu Close Menu Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Open Menu Close Menu Folder: Meet Carol Back About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Folder: Get Involved Back Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Folder: Housing Mandates Back The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Folder: Vote 2026 Back Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Folder: Podcasts Back California Screamin Carol Pefley for Assembly Patriot Store Donate Back to All Events Meet the Candidates at Calvary Sunday, October 11, 2026 1:00 PM 3:00 PM Calvary Chapel San Jose 1175 Hillsdale Avenue San Jose, California, 95118 United States (map) Google Calendar ICS Download flyer Meet Christian candidates for office and engage in an open conversation about the issues that matter most to faith, family, and the future of our local communities.
 Carol Pefley, candidate for California State Assembly District 28, will share her vision for safer neighborhoods, stronger families, parental rights, accountable government, and policies that respect local voices.
 Together, we will discuss the growing impact of state mandates, including SB 330, SB 79, AB 2011, and more—and what they mean for local control, housing, community character, and the ability of residents to shape the future of their own neighborhoods.
 Come meet the candidates, ask questions, and connect with neighbors who believe faith, family, and community should have a stronger voice in public life.
-RSVP TODAY
-Topics may include:
-- Faith-based leadership in local government
-- Key challenges facing our communities
-- Value-driven policies that support families
-- Strengthening community involvement and local accountability
-- An open forum for your questions
-Community and faith.
+RSVP TODAY Topics may include: Faith-based leadership in local government Key challenges facing our communities Value-driven policies that support families Strengthening community involvement and local accountability An open forum for your questions Community and faith.
 Working together.
+Previous Previous October 10 Education and California Law Discussion with Carol Pefley and Ishaan Prasad Next Next November 3 General Election Day 2026 Help Carol Pefley Win Donate Today Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Email List Join our email list to stay connected with campaign updates and local news.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
+All Rights Reserved. | site design by Conservative Toolbox

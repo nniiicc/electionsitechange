@@ -1,5 +1,2 @@
-The Affordable Heat Act - S. 5
-Vermont Edition - Affordable Heat Act
-Climate Dispatch Podcast
-Vermont Public - Senate Debate
-‘‘[When] I hear the concern from my constituents that they today cannot afford their fuel prices, it makes me question if we are doing our due diligence as a government to actually support them and regulate the industry that has profited off them and off pollution,’' said White.”
+0 Skip to Content Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate The Affordable Heat Act - S.
+5 Mar 4 Written By Rebecca White Vermont Edition - Affordable Heat Act Listen Here Climate Dispatch Podcast Vermont Public - Senate Debate ‘‘[When] I hear the concern from my constituents that they today cannot afford their fuel prices, it makes me question if we are doing our due diligence as a government to actually support them and regulate the industry that has profited off them and off pollution,’' said White.” Listen Here Rebecca White Previous Previous S.39: A seat at the table of public service Next Next In the news… Becca White for Vermont White River Junction, Vermont 05001 (802) 777 4517 Made with Squarespace Our Work About Updates Take Action Follow Twitter Instagram Facebook

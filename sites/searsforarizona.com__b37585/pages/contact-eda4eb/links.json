@@ -1,10 +1,46 @@
 [
-"http://arizona.vote/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://searsforarizona.com/",
-"https://searsforarizona.com/contact",
-"https://searsforarizona.com/endorsements",
-"https://searsforarizona.com/priorities",
-"https://secure.actblue.com/donate/kiana-sears-2"
+{
+"text": "Contact",
+"href": "https://searsforarizona.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/kiana-sears-2"
+},
+{
+"text": "Contribute To My Campaign For The State Senate!",
+"href": "https://secure.actblue.com/donate/kiana-sears-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kiana-sears-2"
+},
+{
+"text": "Endorsements",
+"href": "https://searsforarizona.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://searsforarizona.com/"
+},
+{
+"text": "Priorities",
+"href": "https://searsforarizona.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Voting Resources",
+"href": "http://arizona.vote"
+},
+{
+"text": "[image: Kiana Maria Sears for Arizona]",
+"href": "https://searsforarizona.com/"
+}
 ]

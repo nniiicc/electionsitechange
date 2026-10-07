@@ -1,696 +1,2790 @@
 [
-"https://congress.gov/bill/118th-congress/house-bill/10029",
-"https://congress.gov/bill/118th-congress/house-bill/10029/text",
-"https://congress.gov/bill/118th-congress/house-bill/10103",
-"https://congress.gov/bill/118th-congress/house-bill/10103/text",
-"https://congress.gov/bill/118th-congress/house-bill/10125",
-"https://congress.gov/bill/118th-congress/house-bill/10125/text",
-"https://congress.gov/bill/118th-congress/house-bill/10257",
-"https://congress.gov/bill/118th-congress/house-bill/10257/text",
-"https://congress.gov/bill/118th-congress/house-bill/10310",
-"https://congress.gov/bill/118th-congress/house-bill/10310/text",
-"https://congress.gov/bill/118th-congress/house-bill/10320",
-"https://congress.gov/bill/118th-congress/house-bill/10320/text",
-"https://congress.gov/bill/118th-congress/house-bill/10329",
-"https://congress.gov/bill/118th-congress/house-bill/10329/text",
-"https://congress.gov/bill/118th-congress/house-bill/1045",
-"https://congress.gov/bill/118th-congress/house-bill/1045/text",
-"https://congress.gov/bill/118th-congress/house-bill/1060",
-"https://congress.gov/bill/118th-congress/house-bill/1060/text",
-"https://congress.gov/bill/118th-congress/house-bill/1088",
-"https://congress.gov/bill/118th-congress/house-bill/1088/text",
-"https://congress.gov/bill/118th-congress/house-bill/1096",
-"https://congress.gov/bill/118th-congress/house-bill/1096/text",
-"https://congress.gov/bill/118th-congress/house-bill/1122",
-"https://congress.gov/bill/118th-congress/house-bill/1122/text",
-"https://congress.gov/bill/118th-congress/house-bill/1274",
-"https://congress.gov/bill/118th-congress/house-bill/1274/text",
-"https://congress.gov/bill/118th-congress/house-bill/1282",
-"https://congress.gov/bill/118th-congress/house-bill/1282/text",
-"https://congress.gov/bill/118th-congress/house-bill/1321",
-"https://congress.gov/bill/118th-congress/house-bill/1321/text",
-"https://congress.gov/bill/118th-congress/house-bill/1555",
-"https://congress.gov/bill/118th-congress/house-bill/1555/text",
-"https://congress.gov/bill/118th-congress/house-bill/1586",
-"https://congress.gov/bill/118th-congress/house-bill/1586/text",
-"https://congress.gov/bill/118th-congress/house-bill/1605",
-"https://congress.gov/bill/118th-congress/house-bill/1605/text",
-"https://congress.gov/bill/118th-congress/house-bill/1615",
-"https://congress.gov/bill/118th-congress/house-bill/1615/text",
-"https://congress.gov/bill/118th-congress/house-bill/1624",
-"https://congress.gov/bill/118th-congress/house-bill/1624/text",
-"https://congress.gov/bill/118th-congress/house-bill/1631",
-"https://congress.gov/bill/118th-congress/house-bill/1631/text",
-"https://congress.gov/bill/118th-congress/house-bill/1639",
-"https://congress.gov/bill/118th-congress/house-bill/1639/text",
-"https://congress.gov/bill/118th-congress/house-bill/1640",
-"https://congress.gov/bill/118th-congress/house-bill/1640/text",
-"https://congress.gov/bill/118th-congress/house-bill/1687",
-"https://congress.gov/bill/118th-congress/house-bill/1687/text",
-"https://congress.gov/bill/118th-congress/house-bill/176",
-"https://congress.gov/bill/118th-congress/house-bill/176/text",
-"https://congress.gov/bill/118th-congress/house-bill/1794",
-"https://congress.gov/bill/118th-congress/house-bill/1794/text",
-"https://congress.gov/bill/118th-congress/house-bill/185",
-"https://congress.gov/bill/118th-congress/house-bill/185/text",
-"https://congress.gov/bill/118th-congress/house-bill/188",
-"https://congress.gov/bill/118th-congress/house-bill/188/text",
-"https://congress.gov/bill/118th-congress/house-bill/215",
-"https://congress.gov/bill/118th-congress/house-bill/215/text",
-"https://congress.gov/bill/118th-congress/house-bill/22",
-"https://congress.gov/bill/118th-congress/house-bill/22/text",
-"https://congress.gov/bill/118th-congress/house-bill/2406",
-"https://congress.gov/bill/118th-congress/house-bill/2406/text",
-"https://congress.gov/bill/118th-congress/house-bill/2407",
-"https://congress.gov/bill/118th-congress/house-bill/2407/text",
-"https://congress.gov/bill/118th-congress/house-bill/2427",
-"https://congress.gov/bill/118th-congress/house-bill/2427/text",
-"https://congress.gov/bill/118th-congress/house-bill/251",
-"https://congress.gov/bill/118th-congress/house-bill/251/text",
-"https://congress.gov/bill/118th-congress/house-bill/2584",
-"https://congress.gov/bill/118th-congress/house-bill/2584/text",
-"https://congress.gov/bill/118th-congress/house-bill/2672",
-"https://congress.gov/bill/118th-congress/house-bill/2672/text",
-"https://congress.gov/bill/118th-congress/house-bill/2673",
-"https://congress.gov/bill/118th-congress/house-bill/2673/text",
-"https://congress.gov/bill/118th-congress/house-bill/2742",
-"https://congress.gov/bill/118th-congress/house-bill/2742/text",
-"https://congress.gov/bill/118th-congress/house-bill/2766",
-"https://congress.gov/bill/118th-congress/house-bill/2766/text",
-"https://congress.gov/bill/118th-congress/house-bill/292",
-"https://congress.gov/bill/118th-congress/house-bill/292/text",
-"https://congress.gov/bill/118th-congress/house-bill/2989",
-"https://congress.gov/bill/118th-congress/house-bill/2989/text",
-"https://congress.gov/bill/118th-congress/house-bill/3090",
-"https://congress.gov/bill/118th-congress/house-bill/3090/text",
-"https://congress.gov/bill/118th-congress/house-bill/3097",
-"https://congress.gov/bill/118th-congress/house-bill/3097/text",
-"https://congress.gov/bill/118th-congress/house-bill/316",
-"https://congress.gov/bill/118th-congress/house-bill/316/text",
-"https://congress.gov/bill/118th-congress/house-bill/3170",
-"https://congress.gov/bill/118th-congress/house-bill/3170/text",
-"https://congress.gov/bill/118th-congress/house-bill/3238",
-"https://congress.gov/bill/118th-congress/house-bill/3238/text",
-"https://congress.gov/bill/118th-congress/house-bill/3381",
-"https://congress.gov/bill/118th-congress/house-bill/3381/text",
-"https://congress.gov/bill/118th-congress/house-bill/3389",
-"https://congress.gov/bill/118th-congress/house-bill/3389/text",
-"https://congress.gov/bill/118th-congress/house-bill/3396",
-"https://congress.gov/bill/118th-congress/house-bill/3396/text",
-"https://congress.gov/bill/118th-congress/house-bill/3427",
-"https://congress.gov/bill/118th-congress/house-bill/3427/text",
-"https://congress.gov/bill/118th-congress/house-bill/3433",
-"https://congress.gov/bill/118th-congress/house-bill/3433/text",
-"https://congress.gov/bill/118th-congress/house-bill/3475",
-"https://congress.gov/bill/118th-congress/house-bill/3475/text",
-"https://congress.gov/bill/118th-congress/house-bill/3499",
-"https://congress.gov/bill/118th-congress/house-bill/3499/text",
-"https://congress.gov/bill/118th-congress/house-bill/3505",
-"https://congress.gov/bill/118th-congress/house-bill/3505/text",
-"https://congress.gov/bill/118th-congress/house-bill/3506",
-"https://congress.gov/bill/118th-congress/house-bill/3506/text",
-"https://congress.gov/bill/118th-congress/house-bill/3537",
-"https://congress.gov/bill/118th-congress/house-bill/3537/text",
-"https://congress.gov/bill/118th-congress/house-bill/3574",
-"https://congress.gov/bill/118th-congress/house-bill/3574/text",
-"https://congress.gov/bill/118th-congress/house-bill/3575",
-"https://congress.gov/bill/118th-congress/house-bill/3575/text",
-"https://congress.gov/bill/118th-congress/house-bill/3608",
-"https://congress.gov/bill/118th-congress/house-bill/3608/text",
-"https://congress.gov/bill/118th-congress/house-bill/3686",
-"https://congress.gov/bill/118th-congress/house-bill/3686/text",
-"https://congress.gov/bill/118th-congress/house-bill/382",
-"https://congress.gov/bill/118th-congress/house-bill/382/text",
-"https://congress.gov/bill/118th-congress/house-bill/3858",
-"https://congress.gov/bill/118th-congress/house-bill/3858/text",
-"https://congress.gov/bill/118th-congress/house-bill/3988",
-"https://congress.gov/bill/118th-congress/house-bill/3988/text",
-"https://congress.gov/bill/118th-congress/house-bill/41",
-"https://congress.gov/bill/118th-congress/house-bill/41/text",
-"https://congress.gov/bill/118th-congress/house-bill/412",
-"https://congress.gov/bill/118th-congress/house-bill/412/text",
-"https://congress.gov/bill/118th-congress/house-bill/4167",
-"https://congress.gov/bill/118th-congress/house-bill/4167/text",
-"https://congress.gov/bill/118th-congress/house-bill/4250",
-"https://congress.gov/bill/118th-congress/house-bill/4250/text",
-"https://congress.gov/bill/118th-congress/house-bill/4334",
-"https://congress.gov/bill/118th-congress/house-bill/4334/text",
-"https://congress.gov/bill/118th-congress/house-bill/4384",
-"https://congress.gov/bill/118th-congress/house-bill/4384/text",
-"https://congress.gov/bill/118th-congress/house-bill/4519",
-"https://congress.gov/bill/118th-congress/house-bill/4519/text",
-"https://congress.gov/bill/118th-congress/house-bill/4531",
-"https://congress.gov/bill/118th-congress/house-bill/4531/text",
-"https://congress.gov/bill/118th-congress/house-bill/4684",
-"https://congress.gov/bill/118th-congress/house-bill/4684/text",
-"https://congress.gov/bill/118th-congress/house-bill/4721",
-"https://congress.gov/bill/118th-congress/house-bill/4721/text",
-"https://congress.gov/bill/118th-congress/house-bill/4726",
-"https://congress.gov/bill/118th-congress/house-bill/4726/text",
-"https://congress.gov/bill/118th-congress/house-bill/4745",
-"https://congress.gov/bill/118th-congress/house-bill/4745/text",
-"https://congress.gov/bill/118th-congress/house-bill/4750",
-"https://congress.gov/bill/118th-congress/house-bill/4750/text",
-"https://congress.gov/bill/118th-congress/house-bill/4791",
-"https://congress.gov/bill/118th-congress/house-bill/4791/text",
-"https://congress.gov/bill/118th-congress/house-bill/4831",
-"https://congress.gov/bill/118th-congress/house-bill/4831/text",
-"https://congress.gov/bill/118th-congress/house-bill/4957",
-"https://congress.gov/bill/118th-congress/house-bill/4957/text",
-"https://congress.gov/bill/118th-congress/house-bill/4970",
-"https://congress.gov/bill/118th-congress/house-bill/4970/text",
-"https://congress.gov/bill/118th-congress/house-bill/5224",
-"https://congress.gov/bill/118th-congress/house-bill/5224/text",
-"https://congress.gov/bill/118th-congress/house-bill/5266",
-"https://congress.gov/bill/118th-congress/house-bill/5266/text",
-"https://congress.gov/bill/118th-congress/house-bill/531",
-"https://congress.gov/bill/118th-congress/house-bill/531/text",
-"https://congress.gov/bill/118th-congress/house-bill/5403",
-"https://congress.gov/bill/118th-congress/house-bill/5403/text",
-"https://congress.gov/bill/118th-congress/house-bill/5419",
-"https://congress.gov/bill/118th-congress/house-bill/5419/text",
-"https://congress.gov/bill/118th-congress/house-bill/549",
-"https://congress.gov/bill/118th-congress/house-bill/549/text",
-"https://congress.gov/bill/118th-congress/house-bill/5513",
-"https://congress.gov/bill/118th-congress/house-bill/5513/text",
-"https://congress.gov/bill/118th-congress/house-bill/5620",
-"https://congress.gov/bill/118th-congress/house-bill/5620/text",
-"https://congress.gov/bill/118th-congress/house-bill/5625",
-"https://congress.gov/bill/118th-congress/house-bill/5625/text",
-"https://congress.gov/bill/118th-congress/house-bill/5863",
-"https://congress.gov/bill/118th-congress/house-bill/5863/text",
-"https://congress.gov/bill/118th-congress/house-bill/5865",
-"https://congress.gov/bill/118th-congress/house-bill/5865/text",
-"https://congress.gov/bill/118th-congress/house-bill/5933",
-"https://congress.gov/bill/118th-congress/house-bill/5933/text",
-"https://congress.gov/bill/118th-congress/house-bill/5961",
-"https://congress.gov/bill/118th-congress/house-bill/5961/text",
-"https://congress.gov/bill/118th-congress/house-bill/5985",
-"https://congress.gov/bill/118th-congress/house-bill/5985/text",
-"https://congress.gov/bill/118th-congress/house-bill/599",
-"https://congress.gov/bill/118th-congress/house-bill/599/text",
-"https://congress.gov/bill/118th-congress/house-bill/5995",
-"https://congress.gov/bill/118th-congress/house-bill/5995/text",
-"https://congress.gov/bill/118th-congress/house-bill/603",
-"https://congress.gov/bill/118th-congress/house-bill/603/text",
-"https://congress.gov/bill/118th-congress/house-bill/6088",
-"https://congress.gov/bill/118th-congress/house-bill/6088/text",
-"https://congress.gov/bill/118th-congress/house-bill/6090",
-"https://congress.gov/bill/118th-congress/house-bill/6090/text",
-"https://congress.gov/bill/118th-congress/house-bill/6201",
-"https://congress.gov/bill/118th-congress/house-bill/6201/text",
-"https://congress.gov/bill/118th-congress/house-bill/6319",
-"https://congress.gov/bill/118th-congress/house-bill/6319/text",
-"https://congress.gov/bill/118th-congress/house-bill/6418",
-"https://congress.gov/bill/118th-congress/house-bill/6418/text",
-"https://congress.gov/bill/118th-congress/house-bill/6435",
-"https://congress.gov/bill/118th-congress/house-bill/6435/text",
-"https://congress.gov/bill/118th-congress/house-bill/6671",
-"https://congress.gov/bill/118th-congress/house-bill/6671/text",
-"https://congress.gov/bill/118th-congress/house-bill/6718",
-"https://congress.gov/bill/118th-congress/house-bill/6718/text",
-"https://congress.gov/bill/118th-congress/house-bill/6861",
-"https://congress.gov/bill/118th-congress/house-bill/6861/text",
-"https://congress.gov/bill/118th-congress/house-bill/6929",
-"https://congress.gov/bill/118th-congress/house-bill/6929/text",
-"https://congress.gov/bill/118th-congress/house-bill/6951",
-"https://congress.gov/bill/118th-congress/house-bill/6951/text",
-"https://congress.gov/bill/118th-congress/house-bill/696",
-"https://congress.gov/bill/118th-congress/house-bill/696/text",
-"https://congress.gov/bill/118th-congress/house-bill/7035",
-"https://congress.gov/bill/118th-congress/house-bill/7035/text",
-"https://congress.gov/bill/118th-congress/house-bill/7149",
-"https://congress.gov/bill/118th-congress/house-bill/7149/text",
-"https://congress.gov/bill/118th-congress/house-bill/7158",
-"https://congress.gov/bill/118th-congress/house-bill/7158/text",
-"https://congress.gov/bill/118th-congress/house-bill/7192",
-"https://congress.gov/bill/118th-congress/house-bill/7192/text",
-"https://congress.gov/bill/118th-congress/house-bill/7213",
-"https://congress.gov/bill/118th-congress/house-bill/7213/text",
-"https://congress.gov/bill/118th-congress/house-bill/7217",
-"https://congress.gov/bill/118th-congress/house-bill/7217/text",
-"https://congress.gov/bill/118th-congress/house-bill/7218",
-"https://congress.gov/bill/118th-congress/house-bill/7218/text",
-"https://congress.gov/bill/118th-congress/house-bill/7227",
-"https://congress.gov/bill/118th-congress/house-bill/7227/text",
-"https://congress.gov/bill/118th-congress/house-bill/7279",
-"https://congress.gov/bill/118th-congress/house-bill/7279/text",
-"https://congress.gov/bill/118th-congress/house-bill/7297",
-"https://congress.gov/bill/118th-congress/house-bill/7297/text",
-"https://congress.gov/bill/118th-congress/house-bill/7384",
-"https://congress.gov/bill/118th-congress/house-bill/7384/text",
-"https://congress.gov/bill/118th-congress/house-bill/743",
-"https://congress.gov/bill/118th-congress/house-bill/743/text",
-"https://congress.gov/bill/118th-congress/house-bill/7438",
-"https://congress.gov/bill/118th-congress/house-bill/7438/text",
-"https://congress.gov/bill/118th-congress/house-bill/7525",
-"https://congress.gov/bill/118th-congress/house-bill/7525/text",
-"https://congress.gov/bill/118th-congress/house-bill/7597",
-"https://congress.gov/bill/118th-congress/house-bill/7597/text",
-"https://congress.gov/bill/118th-congress/house-bill/7629",
-"https://congress.gov/bill/118th-congress/house-bill/7629/text",
-"https://congress.gov/bill/118th-congress/house-bill/766",
-"https://congress.gov/bill/118th-congress/house-bill/766/text",
-"https://congress.gov/bill/118th-congress/house-bill/7683",
-"https://congress.gov/bill/118th-congress/house-bill/7683/text",
-"https://congress.gov/bill/118th-congress/house-bill/7770",
-"https://congress.gov/bill/118th-congress/house-bill/7770/text",
-"https://congress.gov/bill/118th-congress/house-bill/8018",
-"https://congress.gov/bill/118th-congress/house-bill/8018/text",
-"https://congress.gov/bill/118th-congress/house-bill/8057",
-"https://congress.gov/bill/118th-congress/house-bill/8057/text",
-"https://congress.gov/bill/118th-congress/house-bill/8065",
-"https://congress.gov/bill/118th-congress/house-bill/8065/text",
-"https://congress.gov/bill/118th-congress/house-bill/807",
-"https://congress.gov/bill/118th-congress/house-bill/807/text",
-"https://congress.gov/bill/118th-congress/house-bill/8133",
-"https://congress.gov/bill/118th-congress/house-bill/8133/text",
-"https://congress.gov/bill/118th-congress/house-bill/82",
-"https://congress.gov/bill/118th-congress/house-bill/82/text",
-"https://congress.gov/bill/118th-congress/house-bill/8231",
-"https://congress.gov/bill/118th-congress/house-bill/8231/text",
-"https://congress.gov/bill/118th-congress/house-bill/8369",
-"https://congress.gov/bill/118th-congress/house-bill/8369/text",
-"https://congress.gov/bill/118th-congress/house-bill/860",
-"https://congress.gov/bill/118th-congress/house-bill/860/text",
-"https://congress.gov/bill/118th-congress/house-bill/8606",
-"https://congress.gov/bill/118th-congress/house-bill/8606/text",
-"https://congress.gov/bill/118th-congress/house-bill/8641",
-"https://congress.gov/bill/118th-congress/house-bill/8641/text",
-"https://congress.gov/bill/118th-congress/house-bill/8728",
-"https://congress.gov/bill/118th-congress/house-bill/8728/text",
-"https://congress.gov/bill/118th-congress/house-bill/8821",
-"https://congress.gov/bill/118th-congress/house-bill/8821/text",
-"https://congress.gov/bill/118th-congress/house-bill/8932",
-"https://congress.gov/bill/118th-congress/house-bill/8932/text",
-"https://congress.gov/bill/118th-congress/house-bill/895",
-"https://congress.gov/bill/118th-congress/house-bill/895/text",
-"https://congress.gov/bill/118th-congress/house-bill/9124",
-"https://congress.gov/bill/118th-congress/house-bill/9124/text",
-"https://congress.gov/bill/118th-congress/house-bill/9151",
-"https://congress.gov/bill/118th-congress/house-bill/9151/text",
-"https://congress.gov/bill/118th-congress/house-bill/930",
-"https://congress.gov/bill/118th-congress/house-bill/930/text",
-"https://congress.gov/bill/118th-congress/house-bill/934",
-"https://congress.gov/bill/118th-congress/house-bill/934/text",
-"https://congress.gov/bill/118th-congress/house-bill/9474",
-"https://congress.gov/bill/118th-congress/house-bill/9474/text",
-"https://congress.gov/bill/118th-congress/house-bill/9484",
-"https://congress.gov/bill/118th-congress/house-bill/9484/text",
-"https://congress.gov/bill/118th-congress/house-bill/9497",
-"https://congress.gov/bill/118th-congress/house-bill/9497/text",
-"https://congress.gov/bill/118th-congress/house-bill/9535",
-"https://congress.gov/bill/118th-congress/house-bill/9535/text",
-"https://congress.gov/bill/118th-congress/house-bill/9625",
-"https://congress.gov/bill/118th-congress/house-bill/9625/text",
-"https://congress.gov/bill/118th-congress/house-bill/972",
-"https://congress.gov/bill/118th-congress/house-bill/972/text",
-"https://congress.gov/bill/118th-congress/house-bill/9950",
-"https://congress.gov/bill/118th-congress/house-bill/9950/text",
-"https://congress.gov/bill/118th-congress/house-concurrent-resolution/7",
-"https://congress.gov/bill/118th-congress/house-concurrent-resolution/7/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/116",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/116/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/27",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/27/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/30",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/30/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/57",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/57/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/61",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/61/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/7",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/7/text",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/98",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/98/text",
-"https://congress.gov/bill/118th-congress/house-resolution/100",
-"https://congress.gov/bill/118th-congress/house-resolution/100/text",
-"https://congress.gov/bill/118th-congress/house-resolution/1037",
-"https://congress.gov/bill/118th-congress/house-resolution/1037/text",
-"https://congress.gov/bill/118th-congress/house-resolution/1212",
-"https://congress.gov/bill/118th-congress/house-resolution/1212/text",
-"https://congress.gov/bill/118th-congress/house-resolution/1226",
-"https://congress.gov/bill/118th-congress/house-resolution/1226/text",
-"https://congress.gov/bill/118th-congress/house-resolution/1237",
-"https://congress.gov/bill/118th-congress/house-resolution/1237/text",
-"https://congress.gov/bill/118th-congress/house-resolution/311",
-"https://congress.gov/bill/118th-congress/house-resolution/311/text",
-"https://congress.gov/bill/118th-congress/house-resolution/399",
-"https://congress.gov/bill/118th-congress/house-resolution/399/text",
-"https://congress.gov/bill/118th-congress/house-resolution/51",
-"https://congress.gov/bill/118th-congress/house-resolution/51/text",
-"https://congress.gov/bill/118th-congress/house-resolution/627",
-"https://congress.gov/bill/118th-congress/house-resolution/627/text",
-"https://congress.gov/bill/118th-congress/house-resolution/665",
-"https://congress.gov/bill/118th-congress/house-resolution/665/text",
-"https://congress.gov/bill/118th-congress/house-resolution/69",
-"https://congress.gov/bill/118th-congress/house-resolution/69/text",
-"https://congress.gov/bill/118th-congress/house-resolution/72",
-"https://congress.gov/bill/118th-congress/house-resolution/72/text",
-"https://congress.gov/bill/118th-congress/house-resolution/720",
-"https://congress.gov/bill/118th-congress/house-resolution/720/text",
-"https://congress.gov/bill/118th-congress/house-resolution/739",
-"https://congress.gov/bill/118th-congress/house-resolution/739/text",
-"https://congress.gov/bill/118th-congress/house-resolution/768",
-"https://congress.gov/bill/118th-congress/house-resolution/768/text",
-"https://congress.gov/bill/118th-congress/house-resolution/771",
-"https://congress.gov/bill/118th-congress/house-resolution/771/text",
-"https://congress.gov/bill/118th-congress/house-resolution/798",
-"https://congress.gov/bill/118th-congress/house-resolution/798/text",
-"https://congress.gov/bill/118th-congress/house-resolution/825",
-"https://congress.gov/bill/118th-congress/house-resolution/825/text",
-"https://congress.gov/bill/118th-congress/house-resolution/833",
-"https://congress.gov/bill/118th-congress/house-resolution/833/text",
-"https://congress.gov/bill/118th-congress/house-resolution/927",
-"https://congress.gov/bill/118th-congress/house-resolution/927/text",
-"https://congress.gov/bill/118th-congress/house-resolution/965",
-"https://congress.gov/bill/118th-congress/house-resolution/965/text",
-"https://congress.gov/bill/118th-congress/house-resolution/966",
-"https://congress.gov/bill/118th-congress/house-resolution/966/text",
-"https://congress.gov/bill/118th-congress/house-resolution/974",
-"https://congress.gov/bill/118th-congress/house-resolution/974/text",
-"https://congress.gov/bill/119th-congress/house-bill/10031",
-"https://congress.gov/bill/119th-congress/house-bill/10031/text",
-"https://congress.gov/bill/119th-congress/house-bill/1004",
-"https://congress.gov/bill/119th-congress/house-bill/1004/text",
-"https://congress.gov/bill/119th-congress/house-bill/1007",
-"https://congress.gov/bill/119th-congress/house-bill/1007/text",
-"https://congress.gov/bill/119th-congress/house-bill/10089",
-"https://congress.gov/bill/119th-congress/house-bill/10089/text",
-"https://congress.gov/bill/119th-congress/house-bill/10114",
-"https://congress.gov/bill/119th-congress/house-bill/10114/text",
-"https://congress.gov/bill/119th-congress/house-bill/1046",
-"https://congress.gov/bill/119th-congress/house-bill/1046/text",
-"https://congress.gov/bill/119th-congress/house-bill/1048",
-"https://congress.gov/bill/119th-congress/house-bill/1048/text",
-"https://congress.gov/bill/119th-congress/house-bill/1065",
-"https://congress.gov/bill/119th-congress/house-bill/1065/text",
-"https://congress.gov/bill/119th-congress/house-bill/1069",
-"https://congress.gov/bill/119th-congress/house-bill/1069/text",
-"https://congress.gov/bill/119th-congress/house-bill/1084",
-"https://congress.gov/bill/119th-congress/house-bill/1084/text",
-"https://congress.gov/bill/119th-congress/house-bill/1151",
-"https://congress.gov/bill/119th-congress/house-bill/1151/text",
-"https://congress.gov/bill/119th-congress/house-bill/1218",
-"https://congress.gov/bill/119th-congress/house-bill/1218/text",
-"https://congress.gov/bill/119th-congress/house-bill/1229",
-"https://congress.gov/bill/119th-congress/house-bill/1229/text",
-"https://congress.gov/bill/119th-congress/house-bill/1262",
-"https://congress.gov/bill/119th-congress/house-bill/1262/text",
-"https://congress.gov/bill/119th-congress/house-bill/1301",
-"https://congress.gov/bill/119th-congress/house-bill/1301/text",
-"https://congress.gov/bill/119th-congress/house-bill/1319",
-"https://congress.gov/bill/119th-congress/house-bill/1319/text",
-"https://congress.gov/bill/119th-congress/house-bill/1320",
-"https://congress.gov/bill/119th-congress/house-bill/1320/text",
-"https://congress.gov/bill/119th-congress/house-bill/1340",
-"https://congress.gov/bill/119th-congress/house-bill/1340/text",
-"https://congress.gov/bill/119th-congress/house-bill/1379",
-"https://congress.gov/bill/119th-congress/house-bill/1379/text",
-"https://congress.gov/bill/119th-congress/house-bill/1383",
-"https://congress.gov/bill/119th-congress/house-bill/1383/text",
-"https://congress.gov/bill/119th-congress/house-bill/1422",
-"https://congress.gov/bill/119th-congress/house-bill/1422/text",
-"https://congress.gov/bill/119th-congress/house-bill/1502",
-"https://congress.gov/bill/119th-congress/house-bill/1502/text",
-"https://congress.gov/bill/119th-congress/house-bill/1515",
-"https://congress.gov/bill/119th-congress/house-bill/1515/text",
-"https://congress.gov/bill/119th-congress/house-bill/1529",
-"https://congress.gov/bill/119th-congress/house-bill/1529/text",
-"https://congress.gov/bill/119th-congress/house-bill/1551",
-"https://congress.gov/bill/119th-congress/house-bill/1551/text",
-"https://congress.gov/bill/119th-congress/house-bill/1628",
-"https://congress.gov/bill/119th-congress/house-bill/1628/text",
-"https://congress.gov/bill/119th-congress/house-bill/1684",
-"https://congress.gov/bill/119th-congress/house-bill/1684/text",
-"https://congress.gov/bill/119th-congress/house-bill/1702",
-"https://congress.gov/bill/119th-congress/house-bill/1702/text",
-"https://congress.gov/bill/119th-congress/house-bill/1726",
-"https://congress.gov/bill/119th-congress/house-bill/1726/text",
-"https://congress.gov/bill/119th-congress/house-bill/178",
-"https://congress.gov/bill/119th-congress/house-bill/178/text",
-"https://congress.gov/bill/119th-congress/house-bill/179",
-"https://congress.gov/bill/119th-congress/house-bill/179/text",
-"https://congress.gov/bill/119th-congress/house-bill/1869",
-"https://congress.gov/bill/119th-congress/house-bill/1869/text",
-"https://congress.gov/bill/119th-congress/house-bill/1874",
-"https://congress.gov/bill/119th-congress/house-bill/1874/text",
-"https://congress.gov/bill/119th-congress/house-bill/1919",
-"https://congress.gov/bill/119th-congress/house-bill/1919/text",
-"https://congress.gov/bill/119th-congress/house-bill/1990",
-"https://congress.gov/bill/119th-congress/house-bill/1990/text",
-"https://congress.gov/bill/119th-congress/house-bill/1993",
-"https://congress.gov/bill/119th-congress/house-bill/1993/text",
-"https://congress.gov/bill/119th-congress/house-bill/2028",
-"https://congress.gov/bill/119th-congress/house-bill/2028/text",
-"https://congress.gov/bill/119th-congress/house-bill/2048",
-"https://congress.gov/bill/119th-congress/house-bill/2048/text",
-"https://congress.gov/bill/119th-congress/house-bill/2089",
-"https://congress.gov/bill/119th-congress/house-bill/2089/text",
-"https://congress.gov/bill/119th-congress/house-bill/2094",
-"https://congress.gov/bill/119th-congress/house-bill/2094/text",
-"https://congress.gov/bill/119th-congress/house-bill/213",
-"https://congress.gov/bill/119th-congress/house-bill/213/text",
-"https://congress.gov/bill/119th-congress/house-bill/2150",
-"https://congress.gov/bill/119th-congress/house-bill/2150/text",
-"https://congress.gov/bill/119th-congress/house-bill/2175",
-"https://congress.gov/bill/119th-congress/house-bill/2175/text",
-"https://congress.gov/bill/119th-congress/house-bill/22",
-"https://congress.gov/bill/119th-congress/house-bill/22/text",
-"https://congress.gov/bill/119th-congress/house-bill/2253",
-"https://congress.gov/bill/119th-congress/house-bill/2253/text",
-"https://congress.gov/bill/119th-congress/house-bill/2488",
-"https://congress.gov/bill/119th-congress/house-bill/2488/text",
-"https://congress.gov/bill/119th-congress/house-bill/2528",
-"https://congress.gov/bill/119th-congress/house-bill/2528/text",
-"https://congress.gov/bill/119th-congress/house-bill/2598",
-"https://congress.gov/bill/119th-congress/house-bill/2598/text",
-"https://congress.gov/bill/119th-congress/house-bill/2599",
-"https://congress.gov/bill/119th-congress/house-bill/2599/text",
-"https://congress.gov/bill/119th-congress/house-bill/2616",
-"https://congress.gov/bill/119th-congress/house-bill/2616/text",
-"https://congress.gov/bill/119th-congress/house-bill/2634",
-"https://congress.gov/bill/119th-congress/house-bill/2634/text",
-"https://congress.gov/bill/119th-congress/house-bill/2694",
-"https://congress.gov/bill/119th-congress/house-bill/2694/text",
-"https://congress.gov/bill/119th-congress/house-bill/27",
-"https://congress.gov/bill/119th-congress/house-bill/27/text",
-"https://congress.gov/bill/119th-congress/house-bill/2709",
-"https://congress.gov/bill/119th-congress/house-bill/2709/text",
-"https://congress.gov/bill/119th-congress/house-bill/2725",
-"https://congress.gov/bill/119th-congress/house-bill/2725/text",
-"https://congress.gov/bill/119th-congress/house-bill/2784",
-"https://congress.gov/bill/119th-congress/house-bill/2784/text",
-"https://congress.gov/bill/119th-congress/house-bill/2798",
-"https://congress.gov/bill/119th-congress/house-bill/2798/text",
-"https://congress.gov/bill/119th-congress/house-bill/2808",
-"https://congress.gov/bill/119th-congress/house-bill/2808/text",
-"https://congress.gov/bill/119th-congress/house-bill/2853",
-"https://congress.gov/bill/119th-congress/house-bill/2853/text",
-"https://congress.gov/bill/119th-congress/house-bill/3007",
-"https://congress.gov/bill/119th-congress/house-bill/3007/text",
-"https://congress.gov/bill/119th-congress/house-bill/3104",
-"https://congress.gov/bill/119th-congress/house-bill/3104/text",
-"https://congress.gov/bill/119th-congress/house-bill/3105",
-"https://congress.gov/bill/119th-congress/house-bill/3105/text",
-"https://congress.gov/bill/119th-congress/house-bill/3152",
-"https://congress.gov/bill/119th-congress/house-bill/3152/text",
-"https://congress.gov/bill/119th-congress/house-bill/3178",
-"https://congress.gov/bill/119th-congress/house-bill/3178/text",
-"https://congress.gov/bill/119th-congress/house-bill/3277",
-"https://congress.gov/bill/119th-congress/house-bill/3277/text",
-"https://congress.gov/bill/119th-congress/house-bill/3300",
-"https://congress.gov/bill/119th-congress/house-bill/3300/text",
-"https://congress.gov/bill/119th-congress/house-bill/3304",
-"https://congress.gov/bill/119th-congress/house-bill/3304/text",
-"https://congress.gov/bill/119th-congress/house-bill/3314",
-"https://congress.gov/bill/119th-congress/house-bill/3314/text",
-"https://congress.gov/bill/119th-congress/house-bill/3396",
-"https://congress.gov/bill/119th-congress/house-bill/3396/text",
-"https://congress.gov/bill/119th-congress/house-bill/3453",
-"https://congress.gov/bill/119th-congress/house-bill/3453/text",
-"https://congress.gov/bill/119th-congress/house-bill/3469",
-"https://congress.gov/bill/119th-congress/house-bill/3469/text",
-"https://congress.gov/bill/119th-congress/house-bill/3495",
-"https://congress.gov/bill/119th-congress/house-bill/3495/text",
-"https://congress.gov/bill/119th-congress/house-bill/3773",
-"https://congress.gov/bill/119th-congress/house-bill/3773/text",
-"https://congress.gov/bill/119th-congress/house-bill/3946",
-"https://congress.gov/bill/119th-congress/house-bill/3946/text",
-"https://congress.gov/bill/119th-congress/house-bill/4206",
-"https://congress.gov/bill/119th-congress/house-bill/4206/text",
-"https://congress.gov/bill/119th-congress/house-bill/4232",
-"https://congress.gov/bill/119th-congress/house-bill/4232/text",
-"https://congress.gov/bill/119th-congress/house-bill/4288",
-"https://congress.gov/bill/119th-congress/house-bill/4288/text",
-"https://congress.gov/bill/119th-congress/house-bill/429",
-"https://congress.gov/bill/119th-congress/house-bill/429/text",
-"https://congress.gov/bill/119th-congress/house-bill/4323",
-"https://congress.gov/bill/119th-congress/house-bill/4323/text",
-"https://congress.gov/bill/119th-congress/house-bill/435",
-"https://congress.gov/bill/119th-congress/house-bill/435/text",
-"https://congress.gov/bill/119th-congress/house-bill/4382",
-"https://congress.gov/bill/119th-congress/house-bill/4382/text",
-"https://congress.gov/bill/119th-congress/house-bill/4464",
-"https://congress.gov/bill/119th-congress/house-bill/4464/text",
-"https://congress.gov/bill/119th-congress/house-bill/452",
-"https://congress.gov/bill/119th-congress/house-bill/452/text",
-"https://congress.gov/bill/119th-congress/house-bill/4568",
-"https://congress.gov/bill/119th-congress/house-bill/4568/text",
-"https://congress.gov/bill/119th-congress/house-bill/4661",
-"https://congress.gov/bill/119th-congress/house-bill/4661/text",
-"https://congress.gov/bill/119th-congress/house-bill/471",
-"https://congress.gov/bill/119th-congress/house-bill/471/text",
-"https://congress.gov/bill/119th-congress/house-bill/4889",
-"https://congress.gov/bill/119th-congress/house-bill/4889/text",
-"https://congress.gov/bill/119th-congress/house-bill/5106",
-"https://congress.gov/bill/119th-congress/house-bill/5106/text",
-"https://congress.gov/bill/119th-congress/house-bill/516",
-"https://congress.gov/bill/119th-congress/house-bill/516/text",
-"https://congress.gov/bill/119th-congress/house-bill/5194",
-"https://congress.gov/bill/119th-congress/house-bill/5194/text",
-"https://congress.gov/bill/119th-congress/house-bill/5267",
-"https://congress.gov/bill/119th-congress/house-bill/5267/text",
-"https://congress.gov/bill/119th-congress/house-bill/5271",
-"https://congress.gov/bill/119th-congress/house-bill/5271/text",
-"https://congress.gov/bill/119th-congress/house-bill/5401",
-"https://congress.gov/bill/119th-congress/house-bill/5401/text",
-"https://congress.gov/bill/119th-congress/house-bill/5521",
-"https://congress.gov/bill/119th-congress/house-bill/5521/text",
-"https://congress.gov/bill/119th-congress/house-bill/574",
-"https://congress.gov/bill/119th-congress/house-bill/574/text",
-"https://congress.gov/bill/119th-congress/house-bill/5747",
-"https://congress.gov/bill/119th-congress/house-bill/5747/text",
-"https://congress.gov/bill/119th-congress/house-bill/5820",
-"https://congress.gov/bill/119th-congress/house-bill/5820/text",
-"https://congress.gov/bill/119th-congress/house-bill/5822",
-"https://congress.gov/bill/119th-congress/house-bill/5822/text",
-"https://congress.gov/bill/119th-congress/house-bill/584",
-"https://congress.gov/bill/119th-congress/house-bill/584/text",
-"https://congress.gov/bill/119th-congress/house-bill/6010",
-"https://congress.gov/bill/119th-congress/house-bill/6010/text",
-"https://congress.gov/bill/119th-congress/house-bill/6126",
-"https://congress.gov/bill/119th-congress/house-bill/6126/text",
-"https://congress.gov/bill/119th-congress/house-bill/6130",
-"https://congress.gov/bill/119th-congress/house-bill/6130/text",
-"https://congress.gov/bill/119th-congress/house-bill/6164",
-"https://congress.gov/bill/119th-congress/house-bill/6164/text",
-"https://congress.gov/bill/119th-congress/house-bill/6210",
-"https://congress.gov/bill/119th-congress/house-bill/6210/text",
-"https://congress.gov/bill/119th-congress/house-bill/6392",
-"https://congress.gov/bill/119th-congress/house-bill/6392/text",
-"https://congress.gov/bill/119th-congress/house-bill/6402",
-"https://congress.gov/bill/119th-congress/house-bill/6402/text",
-"https://congress.gov/bill/119th-congress/house-bill/6575",
-"https://congress.gov/bill/119th-congress/house-bill/6575/text",
-"https://congress.gov/bill/119th-congress/house-bill/6666",
-"https://congress.gov/bill/119th-congress/house-bill/6666/text",
-"https://congress.gov/bill/119th-congress/house-bill/7008",
-"https://congress.gov/bill/119th-congress/house-bill/7008/text",
-"https://congress.gov/bill/119th-congress/house-bill/703",
-"https://congress.gov/bill/119th-congress/house-bill/703/text",
-"https://congress.gov/bill/119th-congress/house-bill/7086",
-"https://congress.gov/bill/119th-congress/house-bill/7086/text",
-"https://congress.gov/bill/119th-congress/house-bill/7100",
-"https://congress.gov/bill/119th-congress/house-bill/7100/text",
-"https://congress.gov/bill/119th-congress/house-bill/7139",
-"https://congress.gov/bill/119th-congress/house-bill/7139/text",
-"https://congress.gov/bill/119th-congress/house-bill/718",
-"https://congress.gov/bill/119th-congress/house-bill/718/text",
-"https://congress.gov/bill/119th-congress/house-bill/7255",
-"https://congress.gov/bill/119th-congress/house-bill/7255/text",
-"https://congress.gov/bill/119th-congress/house-bill/7325",
-"https://congress.gov/bill/119th-congress/house-bill/7325/text",
-"https://congress.gov/bill/119th-congress/house-bill/7413",
-"https://congress.gov/bill/119th-congress/house-bill/7413/text",
-"https://congress.gov/bill/119th-congress/house-bill/7619",
-"https://congress.gov/bill/119th-congress/house-bill/7619/text",
-"https://congress.gov/bill/119th-congress/house-bill/780",
-"https://congress.gov/bill/119th-congress/house-bill/780/text",
-"https://congress.gov/bill/119th-congress/house-bill/7890",
-"https://congress.gov/bill/119th-congress/house-bill/7890/text",
-"https://congress.gov/bill/119th-congress/house-bill/7892",
-"https://congress.gov/bill/119th-congress/house-bill/7892/text",
-"https://congress.gov/bill/119th-congress/house-bill/8119",
-"https://congress.gov/bill/119th-congress/house-bill/8119/text",
-"https://congress.gov/bill/119th-congress/house-bill/8252",
-"https://congress.gov/bill/119th-congress/house-bill/8252/text",
-"https://congress.gov/bill/119th-congress/house-bill/833",
-"https://congress.gov/bill/119th-congress/house-bill/833/text",
-"https://congress.gov/bill/119th-congress/house-bill/842",
-"https://congress.gov/bill/119th-congress/house-bill/842/text",
-"https://congress.gov/bill/119th-congress/house-bill/8523",
-"https://congress.gov/bill/119th-congress/house-bill/8523/text",
-"https://congress.gov/bill/119th-congress/house-bill/863",
-"https://congress.gov/bill/119th-congress/house-bill/863/text",
-"https://congress.gov/bill/119th-congress/house-bill/864",
-"https://congress.gov/bill/119th-congress/house-bill/864/text",
-"https://congress.gov/bill/119th-congress/house-bill/8691",
-"https://congress.gov/bill/119th-congress/house-bill/8691/text",
-"https://congress.gov/bill/119th-congress/house-bill/8692",
-"https://congress.gov/bill/119th-congress/house-bill/8692/text",
-"https://congress.gov/bill/119th-congress/house-bill/9071",
-"https://congress.gov/bill/119th-congress/house-bill/9071/text",
-"https://congress.gov/bill/119th-congress/house-bill/9167",
-"https://congress.gov/bill/119th-congress/house-bill/9167/text",
-"https://congress.gov/bill/119th-congress/house-bill/939",
-"https://congress.gov/bill/119th-congress/house-bill/939/text",
-"https://congress.gov/bill/119th-congress/house-bill/948",
-"https://congress.gov/bill/119th-congress/house-bill/948/text",
-"https://congress.gov/bill/119th-congress/house-bill/9560",
-"https://congress.gov/bill/119th-congress/house-bill/9560/text",
-"https://congress.gov/bill/119th-congress/house-bill/9746",
-"https://congress.gov/bill/119th-congress/house-bill/9746/text",
-"https://congress.gov/bill/119th-congress/house-bill/9899",
-"https://congress.gov/bill/119th-congress/house-bill/9899/text",
-"https://congress.gov/bill/119th-congress/house-bill/9929",
-"https://congress.gov/bill/119th-congress/house-bill/9929/text",
-"https://congress.gov/bill/119th-congress/house-bill/9997",
-"https://congress.gov/bill/119th-congress/house-bill/9997/text",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/78",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/78/text",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/87",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/87/text",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/88",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/88/text",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/89",
-"https://congress.gov/bill/119th-congress/house-joint-resolution/89/text",
-"https://congress.gov/bill/119th-congress/house-resolution/1151",
-"https://congress.gov/bill/119th-congress/house-resolution/1151/text",
-"https://congress.gov/bill/119th-congress/house-resolution/1297",
-"https://congress.gov/bill/119th-congress/house-resolution/1297/text",
-"https://congress.gov/bill/119th-congress/house-resolution/163",
-"https://congress.gov/bill/119th-congress/house-resolution/163/text",
-"https://congress.gov/bill/119th-congress/house-resolution/197",
-"https://congress.gov/bill/119th-congress/house-resolution/197/text",
-"https://congress.gov/bill/119th-congress/house-resolution/254",
-"https://congress.gov/bill/119th-congress/house-resolution/254/text",
-"https://congress.gov/bill/119th-congress/house-resolution/429",
-"https://congress.gov/bill/119th-congress/house-resolution/429/text",
-"https://congress.gov/bill/119th-congress/house-resolution/461",
-"https://congress.gov/bill/119th-congress/house-resolution/461/text",
-"https://congress.gov/bill/119th-congress/house-resolution/496",
-"https://congress.gov/bill/119th-congress/house-resolution/496/text",
-"https://congress.gov/bill/119th-congress/house-resolution/516",
-"https://congress.gov/bill/119th-congress/house-resolution/516/text",
-"https://congress.gov/bill/119th-congress/house-resolution/63",
-"https://congress.gov/bill/119th-congress/house-resolution/63/text",
-"https://congress.gov/bill/119th-congress/house-resolution/719",
-"https://congress.gov/bill/119th-congress/house-resolution/719/text",
-"https://congress.gov/bill/119th-congress/house-resolution/906",
-"https://congress.gov/bill/119th-congress/house-resolution/906/text",
-"https://congress.gov/bill/119th-congress/house-resolution/920",
-"https://congress.gov/bill/119th-congress/house-resolution/920/text",
-"https://electkevinkiley.com/",
-"https://electkevinkiley.com/?page_id=16019",
-"https://electkevinkiley.com/?page_id=247",
-"https://electkevinkiley.com/ca06",
-"https://electkevinkiley.com/community-conversation-clips",
-"https://electkevinkiley.com/intern",
-"https://electkevinkiley.com/media-resources",
-"https://electkevinkiley.com/neighborhood-captains",
-"https://electkevinkiley.com/news",
-"https://electkevinkiley.com/signs",
-"https://electkevinkiley.com/the-costs-of-living",
-"https://electkevinkiley.com/volunteer"
+{
+"text": "About",
+"href": "https://electkevinkiley.com/?page_id=247"
+},
+{
+"text": "CA06",
+"href": "https://electkevinkiley.com/ca06/"
+},
+{
+"text": "Community Conversations",
+"href": "https://electkevinkiley.com/community-conversation-clips/"
+},
+{
+"text": "H.Con.Res. 7",
+"href": "https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/7"
+},
+{
+"text": "H.J.Res. 116",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/116"
+},
+{
+"text": "H.J.Res. 27",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/27"
+},
+{
+"text": "H.J.Res. 30",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/30"
+},
+{
+"text": "H.J.Res. 57",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/57"
+},
+{
+"text": "H.J.Res. 61",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/61"
+},
+{
+"text": "H.J.Res. 7",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/7"
+},
+{
+"text": "H.J.Res. 78",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/78"
+},
+{
+"text": "H.J.Res. 87",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/87"
+},
+{
+"text": "H.J.Res. 88",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/88"
+},
+{
+"text": "H.J.Res. 89",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/89"
+},
+{
+"text": "H.J.Res. 98",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/98"
+},
+{
+"text": "H.R. 10029",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10029"
+},
+{
+"text": "H.R. 10031",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/10031"
+},
+{
+"text": "H.R. 1004",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1004"
+},
+{
+"text": "H.R. 1007",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1007"
+},
+{
+"text": "H.R. 10089",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/10089"
+},
+{
+"text": "H.R. 10103",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10103"
+},
+{
+"text": "H.R. 10114",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/10114"
+},
+{
+"text": "H.R. 10125",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10125"
+},
+{
+"text": "H.R. 10257",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10257"
+},
+{
+"text": "H.R. 10310",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10310"
+},
+{
+"text": "H.R. 10320",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10320"
+},
+{
+"text": "H.R. 10329",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10329"
+},
+{
+"text": "H.R. 1045",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1045"
+},
+{
+"text": "H.R. 1046",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1046"
+},
+{
+"text": "H.R. 1048",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1048"
+},
+{
+"text": "H.R. 1060",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1060"
+},
+{
+"text": "H.R. 1065",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1065"
+},
+{
+"text": "H.R. 1069",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1069"
+},
+{
+"text": "H.R. 1084",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1084"
+},
+{
+"text": "H.R. 1088",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1088"
+},
+{
+"text": "H.R. 1096",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1096"
+},
+{
+"text": "H.R. 1122",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1122"
+},
+{
+"text": "H.R. 1151",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1151"
+},
+{
+"text": "H.R. 1218",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1218"
+},
+{
+"text": "H.R. 1229",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1229"
+},
+{
+"text": "H.R. 1262",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1262"
+},
+{
+"text": "H.R. 1274",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1274"
+},
+{
+"text": "H.R. 1282",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1282"
+},
+{
+"text": "H.R. 1301",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1301"
+},
+{
+"text": "H.R. 1319",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1319"
+},
+{
+"text": "H.R. 1320",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1320"
+},
+{
+"text": "H.R. 1321",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1321"
+},
+{
+"text": "H.R. 1340",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1340"
+},
+{
+"text": "H.R. 1379",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1379"
+},
+{
+"text": "H.R. 1383",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1383"
+},
+{
+"text": "H.R. 1422",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1422"
+},
+{
+"text": "H.R. 1502",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1502"
+},
+{
+"text": "H.R. 1515",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1515"
+},
+{
+"text": "H.R. 1529",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1529"
+},
+{
+"text": "H.R. 1551",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1551"
+},
+{
+"text": "H.R. 1555",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1555"
+},
+{
+"text": "H.R. 1586",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1586"
+},
+{
+"text": "H.R. 1605",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1605"
+},
+{
+"text": "H.R. 1615",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1615"
+},
+{
+"text": "H.R. 1624",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1624"
+},
+{
+"text": "H.R. 1628",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1628"
+},
+{
+"text": "H.R. 1631",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1631"
+},
+{
+"text": "H.R. 1639",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1639"
+},
+{
+"text": "H.R. 1640",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1640"
+},
+{
+"text": "H.R. 1684",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1684"
+},
+{
+"text": "H.R. 1687",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1687"
+},
+{
+"text": "H.R. 1702",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1702"
+},
+{
+"text": "H.R. 1726",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1726"
+},
+{
+"text": "H.R. 176",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/176"
+},
+{
+"text": "H.R. 178",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/178"
+},
+{
+"text": "H.R. 179",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/179"
+},
+{
+"text": "H.R. 1794",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1794"
+},
+{
+"text": "H.R. 185",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/185"
+},
+{
+"text": "H.R. 1869",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1869"
+},
+{
+"text": "H.R. 1874",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1874"
+},
+{
+"text": "H.R. 188",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/188"
+},
+{
+"text": "H.R. 1919",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1919"
+},
+{
+"text": "H.R. 1990",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1990"
+},
+{
+"text": "H.R. 1993",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1993"
+},
+{
+"text": "H.R. 2028",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2028"
+},
+{
+"text": "H.R. 2048",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2048"
+},
+{
+"text": "H.R. 2089",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2089"
+},
+{
+"text": "H.R. 2094",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2094"
+},
+{
+"text": "H.R. 213",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/213"
+},
+{
+"text": "H.R. 215",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/215"
+},
+{
+"text": "H.R. 2150",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2150"
+},
+{
+"text": "H.R. 2175",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2175"
+},
+{
+"text": "H.R. 22",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/22"
+},
+{
+"text": "H.R. 22",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+},
+{
+"text": "H.R. 2253",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2253"
+},
+{
+"text": "H.R. 2406",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2406"
+},
+{
+"text": "H.R. 2407",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2407"
+},
+{
+"text": "H.R. 2427",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2427"
+},
+{
+"text": "H.R. 2488",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2488"
+},
+{
+"text": "H.R. 251",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/251"
+},
+{
+"text": "H.R. 2528",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2528"
+},
+{
+"text": "H.R. 2584",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2584"
+},
+{
+"text": "H.R. 2598",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2598"
+},
+{
+"text": "H.R. 2599",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2599"
+},
+{
+"text": "H.R. 2616",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2616"
+},
+{
+"text": "H.R. 2634",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2634"
+},
+{
+"text": "H.R. 2672",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2672"
+},
+{
+"text": "H.R. 2673",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2673"
+},
+{
+"text": "H.R. 2694",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2694"
+},
+{
+"text": "H.R. 27",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/27"
+},
+{
+"text": "H.R. 2709",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2709"
+},
+{
+"text": "H.R. 2725",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2725"
+},
+{
+"text": "H.R. 2742",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2742"
+},
+{
+"text": "H.R. 2766",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2766"
+},
+{
+"text": "H.R. 2784",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2784"
+},
+{
+"text": "H.R. 2798",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2798"
+},
+{
+"text": "H.R. 2808",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2808"
+},
+{
+"text": "H.R. 2853",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2853"
+},
+{
+"text": "H.R. 292",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/292"
+},
+{
+"text": "H.R. 2989",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2989"
+},
+{
+"text": "H.R. 3007",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3007"
+},
+{
+"text": "H.R. 3090",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3090"
+},
+{
+"text": "H.R. 3097",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3097"
+},
+{
+"text": "H.R. 3104",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3104"
+},
+{
+"text": "H.R. 3105",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3105"
+},
+{
+"text": "H.R. 3152",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3152"
+},
+{
+"text": "H.R. 316",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/316"
+},
+{
+"text": "H.R. 3170",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3170"
+},
+{
+"text": "H.R. 3178",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3178"
+},
+{
+"text": "H.R. 3238",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3238"
+},
+{
+"text": "H.R. 3277",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3277"
+},
+{
+"text": "H.R. 3300",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3300"
+},
+{
+"text": "H.R. 3304",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3304"
+},
+{
+"text": "H.R. 3314",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3314"
+},
+{
+"text": "H.R. 3381",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3381"
+},
+{
+"text": "H.R. 3389",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3389"
+},
+{
+"text": "H.R. 3396",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3396"
+},
+{
+"text": "H.R. 3396",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3396"
+},
+{
+"text": "H.R. 3427",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3427"
+},
+{
+"text": "H.R. 3433",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3433"
+},
+{
+"text": "H.R. 3453",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3453"
+},
+{
+"text": "H.R. 3469",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3469"
+},
+{
+"text": "H.R. 3475",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3475"
+},
+{
+"text": "H.R. 3495",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3495"
+},
+{
+"text": "H.R. 3499",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3499"
+},
+{
+"text": "H.R. 3505",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3505"
+},
+{
+"text": "H.R. 3506",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3506"
+},
+{
+"text": "H.R. 3537",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3537"
+},
+{
+"text": "H.R. 3574",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3574"
+},
+{
+"text": "H.R. 3575",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3575"
+},
+{
+"text": "H.R. 3608",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3608"
+},
+{
+"text": "H.R. 3686",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3686"
+},
+{
+"text": "H.R. 3773",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3773"
+},
+{
+"text": "H.R. 382",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/382"
+},
+{
+"text": "H.R. 3858",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3858"
+},
+{
+"text": "H.R. 3946",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3946"
+},
+{
+"text": "H.R. 3988",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3988"
+},
+{
+"text": "H.R. 41",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/41"
+},
+{
+"text": "H.R. 412",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/412"
+},
+{
+"text": "H.R. 4167",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4167"
+},
+{
+"text": "H.R. 4206",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4206"
+},
+{
+"text": "H.R. 4232",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4232"
+},
+{
+"text": "H.R. 4250",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4250"
+},
+{
+"text": "H.R. 4288",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4288"
+},
+{
+"text": "H.R. 429",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/429"
+},
+{
+"text": "H.R. 4323",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4323"
+},
+{
+"text": "H.R. 4334",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4334"
+},
+{
+"text": "H.R. 435",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/435"
+},
+{
+"text": "H.R. 4382",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4382"
+},
+{
+"text": "H.R. 4384",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4384"
+},
+{
+"text": "H.R. 4464",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4464"
+},
+{
+"text": "H.R. 4519",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4519"
+},
+{
+"text": "H.R. 452",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/452"
+},
+{
+"text": "H.R. 4531",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4531"
+},
+{
+"text": "H.R. 4568",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4568"
+},
+{
+"text": "H.R. 4661",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4661"
+},
+{
+"text": "H.R. 4684",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4684"
+},
+{
+"text": "H.R. 471",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/471"
+},
+{
+"text": "H.R. 4721",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4721"
+},
+{
+"text": "H.R. 4726",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4726"
+},
+{
+"text": "H.R. 4745",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4745"
+},
+{
+"text": "H.R. 4750",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4750"
+},
+{
+"text": "H.R. 4791",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4791"
+},
+{
+"text": "H.R. 4831",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4831"
+},
+{
+"text": "H.R. 4889",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4889"
+},
+{
+"text": "H.R. 4957",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4957"
+},
+{
+"text": "H.R. 4970",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4970"
+},
+{
+"text": "H.R. 5106",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5106"
+},
+{
+"text": "H.R. 516",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/516"
+},
+{
+"text": "H.R. 5194",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5194"
+},
+{
+"text": "H.R. 5224",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5224"
+},
+{
+"text": "H.R. 5266",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5266"
+},
+{
+"text": "H.R. 5267",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5267"
+},
+{
+"text": "H.R. 5271",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5271"
+},
+{
+"text": "H.R. 531",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/531"
+},
+{
+"text": "H.R. 5401",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5401"
+},
+{
+"text": "H.R. 5403",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5403"
+},
+{
+"text": "H.R. 5419",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5419"
+},
+{
+"text": "H.R. 549",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/549"
+},
+{
+"text": "H.R. 5513",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5513"
+},
+{
+"text": "H.R. 5521",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5521"
+},
+{
+"text": "H.R. 5620",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5620"
+},
+{
+"text": "H.R. 5625",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5625"
+},
+{
+"text": "H.R. 574",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/574"
+},
+{
+"text": "H.R. 5747",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5747"
+},
+{
+"text": "H.R. 5820",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5820"
+},
+{
+"text": "H.R. 5822",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5822"
+},
+{
+"text": "H.R. 584",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/584"
+},
+{
+"text": "H.R. 5863",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5863"
+},
+{
+"text": "H.R. 5865",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5865"
+},
+{
+"text": "H.R. 5933",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5933"
+},
+{
+"text": "H.R. 5961",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5961"
+},
+{
+"text": "H.R. 5985",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5985"
+},
+{
+"text": "H.R. 599",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/599"
+},
+{
+"text": "H.R. 5995",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5995"
+},
+{
+"text": "H.R. 6010",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6010"
+},
+{
+"text": "H.R. 603",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/603"
+},
+{
+"text": "H.R. 6088",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6088"
+},
+{
+"text": "H.R. 6090",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6090"
+},
+{
+"text": "H.R. 6126",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6126"
+},
+{
+"text": "H.R. 6130",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6130"
+},
+{
+"text": "H.R. 6164",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6164"
+},
+{
+"text": "H.R. 6201",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6201"
+},
+{
+"text": "H.R. 6210",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6210"
+},
+{
+"text": "H.R. 6319",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6319"
+},
+{
+"text": "H.R. 6392",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6392"
+},
+{
+"text": "H.R. 6402",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6402"
+},
+{
+"text": "H.R. 6418",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6418"
+},
+{
+"text": "H.R. 6435",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6435"
+},
+{
+"text": "H.R. 6575",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6575"
+},
+{
+"text": "H.R. 6666",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6666"
+},
+{
+"text": "H.R. 6671",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6671"
+},
+{
+"text": "H.R. 6718",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6718"
+},
+{
+"text": "H.R. 6861",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6861"
+},
+{
+"text": "H.R. 6929",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6929"
+},
+{
+"text": "H.R. 6951",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6951"
+},
+{
+"text": "H.R. 696",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/696"
+},
+{
+"text": "H.R. 7008",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7008"
+},
+{
+"text": "H.R. 703",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/703"
+},
+{
+"text": "H.R. 7035",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7035"
+},
+{
+"text": "H.R. 7086",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7086"
+},
+{
+"text": "H.R. 7100",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7100"
+},
+{
+"text": "H.R. 7139",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7139"
+},
+{
+"text": "H.R. 7149",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7149"
+},
+{
+"text": "H.R. 7158",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7158"
+},
+{
+"text": "H.R. 718",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/718"
+},
+{
+"text": "H.R. 7192",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7192"
+},
+{
+"text": "H.R. 7213",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7213"
+},
+{
+"text": "H.R. 7217",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7217"
+},
+{
+"text": "H.R. 7218",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7218"
+},
+{
+"text": "H.R. 7227",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7227"
+},
+{
+"text": "H.R. 7255",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7255"
+},
+{
+"text": "H.R. 7279",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7279"
+},
+{
+"text": "H.R. 7297",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7297"
+},
+{
+"text": "H.R. 7325",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7325"
+},
+{
+"text": "H.R. 7384",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7384"
+},
+{
+"text": "H.R. 7413",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7413"
+},
+{
+"text": "H.R. 743",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/743"
+},
+{
+"text": "H.R. 7438",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7438"
+},
+{
+"text": "H.R. 7525",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7525"
+},
+{
+"text": "H.R. 7597",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7597"
+},
+{
+"text": "H.R. 7619",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7619"
+},
+{
+"text": "H.R. 7629",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7629"
+},
+{
+"text": "H.R. 766",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/766"
+},
+{
+"text": "H.R. 7683",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7683"
+},
+{
+"text": "H.R. 7770",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7770"
+},
+{
+"text": "H.R. 780",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/780"
+},
+{
+"text": "H.R. 7890",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7890"
+},
+{
+"text": "H.R. 7892",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7892"
+},
+{
+"text": "H.R. 8018",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8018"
+},
+{
+"text": "H.R. 8057",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8057"
+},
+{
+"text": "H.R. 8065",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8065"
+},
+{
+"text": "H.R. 807",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/807"
+},
+{
+"text": "H.R. 8119",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8119"
+},
+{
+"text": "H.R. 8133",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8133"
+},
+{
+"text": "H.R. 82",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+},
+{
+"text": "H.R. 8231",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8231"
+},
+{
+"text": "H.R. 8252",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8252"
+},
+{
+"text": "H.R. 833",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/833"
+},
+{
+"text": "H.R. 8369",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8369"
+},
+{
+"text": "H.R. 842",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/842"
+},
+{
+"text": "H.R. 8523",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8523"
+},
+{
+"text": "H.R. 860",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/860"
+},
+{
+"text": "H.R. 8606",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8606"
+},
+{
+"text": "H.R. 863",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/863"
+},
+{
+"text": "H.R. 864",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/864"
+},
+{
+"text": "H.R. 8641",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8641"
+},
+{
+"text": "H.R. 8691",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8691"
+},
+{
+"text": "H.R. 8692",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8692"
+},
+{
+"text": "H.R. 8728",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8728"
+},
+{
+"text": "H.R. 8821",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8821"
+},
+{
+"text": "H.R. 8932",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8932"
+},
+{
+"text": "H.R. 895",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/895"
+},
+{
+"text": "H.R. 9071",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9071"
+},
+{
+"text": "H.R. 9124",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9124"
+},
+{
+"text": "H.R. 9151",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9151"
+},
+{
+"text": "H.R. 9167",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9167"
+},
+{
+"text": "H.R. 930",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/930"
+},
+{
+"text": "H.R. 934",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/934"
+},
+{
+"text": "H.R. 939",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/939"
+},
+{
+"text": "H.R. 9474",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9474"
+},
+{
+"text": "H.R. 948",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/948"
+},
+{
+"text": "H.R. 9484",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9484"
+},
+{
+"text": "H.R. 9497",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9497"
+},
+{
+"text": "H.R. 9535",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9535"
+},
+{
+"text": "H.R. 9560",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9560"
+},
+{
+"text": "H.R. 9625",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9625"
+},
+{
+"text": "H.R. 972",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/972"
+},
+{
+"text": "H.R. 9746",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9746"
+},
+{
+"text": "H.R. 9899",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9899"
+},
+{
+"text": "H.R. 9929",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9929"
+},
+{
+"text": "H.R. 9950",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9950"
+},
+{
+"text": "H.R. 9997",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9997"
+},
+{
+"text": "H.Res. 100",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/100"
+},
+{
+"text": "H.Res. 1037",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1037"
+},
+{
+"text": "H.Res. 1151",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/1151"
+},
+{
+"text": "H.Res. 1212",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1212"
+},
+{
+"text": "H.Res. 1226",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1226"
+},
+{
+"text": "H.Res. 1237",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1237"
+},
+{
+"text": "H.Res. 1297",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/1297"
+},
+{
+"text": "H.Res. 163",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/163"
+},
+{
+"text": "H.Res. 197",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/197"
+},
+{
+"text": "H.Res. 254",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/254"
+},
+{
+"text": "H.Res. 311",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/311"
+},
+{
+"text": "H.Res. 399",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/399"
+},
+{
+"text": "H.Res. 429",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/429"
+},
+{
+"text": "H.Res. 461",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/461"
+},
+{
+"text": "H.Res. 496",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/496"
+},
+{
+"text": "H.Res. 51",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/51"
+},
+{
+"text": "H.Res. 516",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/516"
+},
+{
+"text": "H.Res. 627",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/627"
+},
+{
+"text": "H.Res. 63",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/63"
+},
+{
+"text": "H.Res. 665",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/665"
+},
+{
+"text": "H.Res. 69",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/69"
+},
+{
+"text": "H.Res. 719",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/719"
+},
+{
+"text": "H.Res. 72",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/72"
+},
+{
+"text": "H.Res. 720",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/720"
+},
+{
+"text": "H.Res. 739",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/739"
+},
+{
+"text": "H.Res. 768",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/768"
+},
+{
+"text": "H.Res. 771",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/771"
+},
+{
+"text": "H.Res. 798",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/798"
+},
+{
+"text": "H.Res. 825",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/825"
+},
+{
+"text": "H.Res. 833",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/833"
+},
+{
+"text": "H.Res. 906",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/906"
+},
+{
+"text": "H.Res. 920",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/920"
+},
+{
+"text": "H.Res. 927",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/927"
+},
+{
+"text": "H.Res. 965",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/965"
+},
+{
+"text": "H.Res. 966",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/966"
+},
+{
+"text": "H.Res. 974",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/974"
+},
+{
+"text": "Home",
+"href": "https://electkevinkiley.com/?page_id=16019"
+},
+{
+"text": "Homepage",
+"href": "https://electkevinkiley.com/"
+},
+{
+"text": "Intern",
+"href": "https://electkevinkiley.com/intern/"
+},
+{
+"text": "Media Resources",
+"href": "https://electkevinkiley.com/media-resources/"
+},
+{
+"text": "Neighborhood Captains",
+"href": "https://electkevinkiley.com/neighborhood-captains/"
+},
+{
+"text": "News",
+"href": "https://electkevinkiley.com/news/"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10029/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10103/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10125/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10257/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10310/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10320/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/10329/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1045/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1060/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1088/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1096/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1122/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1274/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1282/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1321/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1555/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1586/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1605/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1615/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1624/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1631/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1639/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1640/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1687/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/176/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1794/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/185/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/188/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/215/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/22/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2406/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2407/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2427/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/251/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2584/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2672/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2673/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2742/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2766/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/292/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2989/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3090/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3097/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/316/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3170/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3238/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3381/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3389/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3396/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3427/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3433/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3475/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3499/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3505/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3506/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3537/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3574/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3575/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3608/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3686/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/382/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3858/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3988/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/41/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/412/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4167/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4250/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4334/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4384/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4519/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4531/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4684/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4721/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4726/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4745/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4750/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4791/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4831/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4957/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4970/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5224/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5266/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/531/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5403/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5419/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/549/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5513/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5620/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5625/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5863/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5865/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5933/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5961/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5985/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/599/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5995/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/603/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6088/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6090/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6201/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6319/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6418/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6435/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6671/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6718/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6861/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6929/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6951/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/696/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7035/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7149/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7158/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7192/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7213/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7217/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7218/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7227/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7279/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7297/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7384/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/743/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7438/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7525/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7597/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7629/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/766/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7683/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/7770/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8018/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8057/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8065/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/807/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8133/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/82/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8231/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8369/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/860/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8606/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8641/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8728/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8821/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/8932/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/895/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9124/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9151/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/930/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/934/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9474/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9484/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9497/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9535/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9625/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/972/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/9950/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/7/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/116/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/27/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/30/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/57/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/61/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/7/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/98/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/100/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1037/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1212/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1226/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/1237/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/311/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/399/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/51/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/627/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/665/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/69/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/72/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/720/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/739/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/768/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/771/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/798/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/825/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/833/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/927/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/965/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/966/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/974/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/10031/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1004/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1007/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/10089/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/10114/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1046/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1048/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1065/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1069/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1084/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1151/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1218/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1229/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1262/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1301/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1319/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1320/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1340/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1379/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1383/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1422/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1502/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1515/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1529/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1551/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1628/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1684/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1702/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1726/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/178/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/179/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1869/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1874/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1919/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1990/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1993/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2028/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2048/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2089/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2094/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/213/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2150/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2175/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/22/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2253/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2488/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2528/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2598/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2599/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2616/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2634/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2694/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/27/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2709/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2725/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2784/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2798/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2808/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/2853/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3007/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3104/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3105/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3152/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3178/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3277/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3300/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3304/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3314/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3396/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3453/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3469/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3495/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3773/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/3946/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4206/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4232/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4288/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/429/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4323/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/435/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4382/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4464/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/452/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4568/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4661/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/471/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4889/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5106/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/516/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5194/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5267/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5271/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5401/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5521/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/574/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5747/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5820/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5822/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/584/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6010/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6126/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6130/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6164/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6210/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6392/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6402/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6575/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6666/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7008/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/703/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7086/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7100/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7139/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/718/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7255/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7325/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7413/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7619/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/780/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7890/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/7892/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8119/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8252/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/833/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/842/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8523/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/863/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/864/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8691/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8692/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9071/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9167/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/939/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/948/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9560/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9746/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9899/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9929/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9997/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/78/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/87/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/88/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/89/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/1151/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/1297/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/163/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/197/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/254/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/429/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/461/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/496/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/516/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/63/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/719/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/906/text"
+},
+{
+"text": "Read text ↗",
+"href": "https://www.congress.gov/bill/119th-congress/house-resolution/920/text"
+},
+{
+"text": "The Costs of Living",
+"href": "https://electkevinkiley.com/the-costs-of-living/"
+},
+{
+"text": "Volunteer",
+"href": "https://electkevinkiley.com/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://electkevinkiley.com/signs/"
+},
+{
+"text": "[image: Elect Kevin Kiley]",
+"href": "https://electkevinkiley.com/"
+},
+{
+"text": "[image: Kevin Kiley — Independent Congressman]",
+"href": "https://electkevinkiley.com/"
+},
+{
+"text": "← Back to homepage",
+"href": "https://electkevinkiley.com/#kx-legislation"
+}
 ]

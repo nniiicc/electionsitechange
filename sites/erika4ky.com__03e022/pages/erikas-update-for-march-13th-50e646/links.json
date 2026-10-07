@@ -1,18 +1,82 @@
 [
-"https://bsky.app/profile/erika4ky.bsky.social",
-"https://erika4ky.com/",
-"https://erika4ky.com/appearance-request",
-"https://erika4ky.com/category/uncategorized",
-"https://erika4ky.com/contact-us",
-"https://erika4ky.com/get-the-newsletter",
-"https://erika4ky.com/get-your-erika-bumper-sticker",
-"https://erika4ky.com/meet-erika-hancock",
-"https://erika4ky.com/news",
-"https://facebook.com/erika4ky",
-"https://facebook.com/share/p/1AgAqKqiHa?_kx=X9zw32zQeMLujsYEOC2zvA.XCbRd2",
-"https://instagram.com/erika4ky",
-"https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=57",
-"https://secure.actblue.com/donate/erika57",
-"https://threads.net/@erika4ky",
-"https://youtube.com/@Erkia4KY"
+{
+"text": "Appearances",
+"href": "https://erika4ky.com/appearance-request/"
+},
+{
+"text": "BlueSky",
+"href": "https://bsky.app/profile/erika4ky.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://erika4ky.com/contact-us/"
+},
+{
+"text": "Contact Us",
+"href": "https://erika4ky.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/erika57"
+},
+{
+"text": "Erika’s Update!",
+"href": "https://erika4ky.com/get-the-newsletter/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/erika4ky"
+},
+{
+"text": "Home",
+"href": "https://erika4ky.com"
+},
+{
+"text": "Home",
+"href": "https://erika4ky.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/erika4ky/"
+},
+{
+"text": "LRC",
+"href": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=57"
+},
+{
+"text": "Meet Erika",
+"href": "https://erika4ky.com/meet-erika-hancock/"
+},
+{
+"text": "News",
+"href": "https://erika4ky.com/news/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.net/@erika4ky"
+},
+{
+"text": "Uncategorized",
+"href": "https://erika4ky.com/category/uncategorized/"
+},
+{
+"text": "Veto Message here.",
+"href": "https://www.facebook.com/share/p/1AgAqKqiHa/?_kx=X9zw32zQeMLujsYEOC2zvA.XCbRd2"
+},
+{
+"text": "YouTube |",
+"href": "https://www.youtube.com/@Erkia4KY"
+},
+{
+"text": "[image: Erika Hancock for State Representative]",
+"href": "https://erika4ky.com/"
+},
+{
+"text": "[image: Erika's Update]",
+"href": "https://erika4ky.com/get-the-newsletter/"
+},
+{
+"text": "[image: Hancock Bumper Stciker]",
+"href": "https://erika4ky.com/get-your-erika-bumper-sticker/"
+}
 ]

@@ -1,10 +1,38 @@
 [
-"https://junerobinson.org/",
-"https://junerobinson.org/contact-us",
-"https://junerobinson.org/endorsements",
-"https://junerobinson.org/meet-june",
-"https://junerobinson.org/meet-june/on-the-issues",
-"https://junerobinson.org/news",
-"https://junerobinson.org/volunteer",
-"https://secure.anedot.com/june/donate"
+{
+"text": "About",
+"href": "https://junerobinson.org/meet-june/"
+},
+{
+"text": "Contact Us",
+"href": "https://junerobinson.org/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/june/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://junerobinson.org/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://junerobinson.org/"
+},
+{
+"text": "News",
+"href": "https://junerobinson.org/news/"
+},
+{
+"text": "On The Issues",
+"href": "https://junerobinson.org/meet-june/on-the-issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://junerobinson.org/volunteer/"
+},
+{
+"text": "[image: Elect June Robinson]",
+"href": "https://junerobinson.org/"
+}
 ]

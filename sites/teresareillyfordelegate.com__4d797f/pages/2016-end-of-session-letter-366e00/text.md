@@ -1,5 +1,4 @@
-Dear Constituent of 35 B:
-The 436th Session of the Maryland General Assembly began on Wednesday, January 13 and ended Sine Die, April 11 at midnight.
+Home About Priorities Resources Scholarship Contact Us News 2016 End of Session Letter Apr 12, 2016 Teresa Reilly 0 Comments April 12, 2016 Dear Constituent of 35 B: The 436th Session of the Maryland General Assembly began on Wednesday, January 13 and ended Sine Die, April 11 at midnight.
 The members of the Harford County Delegation suffered a great loss on February 10 of this year’s session with the brutal slaying of Deputy Sheriffs Pat Dailey and Mark Logsdon.
 It was a great loss for our county and the State of Maryland.
 The Harford County Delegation submitted legislation, HB 1581- Harford County Deputy Sheriffs Dailey and Logsdon Benefits Memorial Act which passed both houses and was signed by the Governor on April 4.
@@ -17,8 +16,7 @@ Upon clearing the warrant, the tax refund is immediately released, giving indivi
 The cross-file bill, SB 425, is awaiting the Governor’s signature.
 In keeping with the Governor’s policy of tax and fee reduction, I sponsored HB 745-Business Regulation-State and Harford County Juke Box Licenses-Repeal.
 This legislation repeals the fee that jukebox owners in the State had to pay to be licensed.
-It also does away with the Harford County piggy back fee that was paid by those owning juke boxes
-in Harford County….this repeal was a money and timesaver for both the owners and the Clerks’ Office which had to collect the fee and forward it to the Comptroller.
+It also does away with the Harford County piggy back fee that was paid by those owning juke boxes in Harford County….this repeal was a money and timesaver for both the owners and the Clerks’ Office which had to collect the fee and forward it to the Comptroller.
 The bill was signed April 12.
 I also cosponsored HB 459-Birth and Death Certificates-Fee Reduction which reduces the fees for these vital records to $10.
 The Governor is reducing as many fees as he can as fast as he can!
@@ -32,21 +30,15 @@ Aid to community colleges will also increase in fiscal 2017 by over $18 million 
 Almost $5 million in additional funding has been provided to implement the recommendations of the Opiod and Heroin addiction Task Force to enhance quality of care, expand access to treatment and support services and strengthen law enforcement options.
 The Budget also provides $ 348 million toward existing substance abuse programs and substance use disorders.
 This Budget takes important steps toward creating an environment where businesses can grow and flourish.
-An historic record investment of almost $14 million is in the Budget to provide financing opportunities through the Small, Minority and Women-Owned Investment Account.
-At the same time, the Budget includes over $50 million toward workforce development programs providing job seekers the opportunity to meet the demands of the 21st century employers.
+An historic record investment of almost $# million is in the Budget to provide financing opportunities through the Small, Minority and Women-Owned Investment Account.
+At the same time, the Budget includes over $# million toward workforce development programs providing job seekers the opportunity to meet the demands of the 21st century employers.
 This includes occupational skills, entrepreneurial training and job search assistance.
-VETOES
-However, the General Assembly overturned the vetoes of the Governor on several bills, among them:
-– a bill that will allow felons to vote before they have completed their sentences;
-– a bill that prevents law enforcement from pulling over a driver they see smoking marijuana;
-– a bill that protects the money of drug dealers from being seized
-HB 1013 – Maryland Open Transportation Investment Decision Act of 2016 completely changes the way Maryland funds its transportation projects.
+VETOES However, the General Assembly overturned the vetoes of the Governor on several bills, among them: – a bill that will allow felons to vote before they have completed their sentences; – a bill that prevents law enforcement from pulling over a driver they see smoking marijuana; – a bill that protects the money of drug dealers from being seized HB 1013 – Maryland Open Transportation Investment Decision Act of 2016 completely changes the way Maryland funds its transportation projects.
 It will create a scoring system that will favor transit projects in urban areas.
 The legislation severely limits the decision making of local governments and creates new mechanisms to divert taxpayer dollars away from highway infrastructure and puts at risk major road, bridge and transit investments in every Maryland county.
 These bills are set to become law.
 I voted to sustain the Governor’s vetoes.
-Other bills that I cosponsored/supported that are on the Governor’s desk for his signature are:
-HB 312-Public Safety – Renewal of Handgun Permits – Fingerprinting states that when renewing a handgun permit, a person does not need to be fingerprinted unless the Secretary of State Police requires fingerprinting to resolve discrepancies surrounding a person’s identity.
+Other bills that I cosponsored/supported that are on the Governor’s desk for his signature are: HB 312-Public Safety – Renewal of Handgun Permits – Fingerprinting states that when renewing a handgun permit, a person does not need to be fingerprinted unless the Secretary of State Police requires fingerprinting to resolve discrepancies surrounding a person’s identity.
 This legislation is seen as a win for supporters of the Second Amendment.
 This legislation will take effect on October 1st, 2016.
 HB 898-Property Tax credit-Elderly Individuals and Veterans which authorizes local governments to grant, by law, a property tax credit for a dwelling of (1) an individual who is at least 65 years old and has lived in the same dwelling for at least the preceding 40 years or (2) a retired member of the U.S.
@@ -60,6 +52,6 @@ We hope to fulfill more of those promises to small businesses and those people w
 MARYLAND IS HEADED IN THE RIGHT DIRECTION!
 If you have any questions or concerns during the Interim, please do not hesitate to contact me at Teresa.reilly@house.state.md.us or at 410-841-3278.
 The Annapolis Office will be open on Tuesdays and Wednesdays from 9-4 if you wish to pay a visit.
-Sincerely,
-Teresa E.
-Reilly
+Sincerely, Teresa E.
+Reilly Category: News , Press Release About the Author Comments are closed. « Delegate Teresa E.
+Reilly will receive American Conservative Union Foundation Award Hogan Signs ‘Heroes Highway’ Legislation Honoring Slain Harford Deputies » Search for: Get Weekly Updates Sign up to get weekly e-newsletters about what's going on in Annapolis from Teresa during the legislative session. © Copyright # - Theme Chip Zero 1.2 by TutorialChip - Powered by WordPress 5.4.16

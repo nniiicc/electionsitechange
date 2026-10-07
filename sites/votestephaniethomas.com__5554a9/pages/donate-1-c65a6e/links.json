@@ -1,15 +1,66 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://votestephaniethomas.com/about-stephanie-5",
-"https://votestephaniethomas.com/accomplishments",
-"https://votestephaniethomas.com/contact-1",
-"https://votestephaniethomas.com/donate-1",
-"https://votestephaniethomas.com/endorsements",
-"https://votestephaniethomas.com/espa%C3%B1ol",
-"https://votestephaniethomas.com/home-3",
-"https://votestephaniethomas.com/m/account",
-"https://votestephaniethomas.com/news-%26-press-room",
-"https://votestephaniethomas.com/priorities",
-"https://votestephaniethomas.com/volunteer",
-"https://votestephaniethomas.com/voting-info"
+{
+"text": "About Stephanie",
+"href": "https://votestephaniethomas.com/about-stephanie-5"
+},
+{
+"text": "Accomplishments",
+"href": "https://votestephaniethomas.com/accomplishments"
+},
+{
+"text": "CONTACT",
+"href": "https://votestephaniethomas.com/contact-1"
+},
+{
+"text": "DONATE",
+"href": "https://votestephaniethomas.com/donate-1"
+},
+{
+"text": "ESPAÑOL",
+"href": "https://votestephaniethomas.com/espa%C3%B1ol"
+},
+{
+"text": "Endorsements",
+"href": "https://votestephaniethomas.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://votestephaniethomas.com/home-3"
+},
+{
+"text": "Keep in Touch",
+"href": "mailto:info@votestephaniethomas.com?subject=Please+add+me+to+your+email+list&body=My+email+address+is+below%3AI+am+also+willing+to+share+my+telephone+and+mailing+address+below%3A"
+},
+{
+"text": "My Account",
+"href": "https://votestephaniethomas.com/m/account"
+},
+{
+"text": "News & Press Room",
+"href": "https://votestephaniethomas.com/news-%26-press-room"
+},
+{
+"text": "Priorities",
+"href": "https://votestephaniethomas.com/priorities"
+},
+{
+"text": "Sign In",
+"href": "https://votestephaniethomas.com/m/account"
+},
+{
+"text": "Volunteer",
+"href": "https://votestephaniethomas.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://votestephaniethomas.com/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://votestephaniethomas.com/home-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

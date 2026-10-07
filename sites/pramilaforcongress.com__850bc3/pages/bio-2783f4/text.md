@@ -1,4 +1,4 @@
-Congresswoman Pramila Jayapal represents Washington's 7th Congressional District, which encompasses most of Seattle and its surrounding areas.
+Home My Endorsed Candidates About Pramila Take Action Get Updates Pramila's Book VOLUNTEER Donate Store Back About Pramila Real Results 2026 Endorsements Contact Us Back The Resistance Lab Volunteer Back Email Social Media Story Home My Endorsed Candidates About Pramila About Pramila Real Results 2026 Endorsements Contact Us Take Action The Resistance Lab Volunteer Get Updates Email Social Media Story Pramila's Book VOLUNTEER Donate Store Elected Experience: United States Representative, 2017-current; Washington State Senator, 2015-2017 Other Professional Experience: Founder/Executive Director, OneAmerica; Director, PATH Fund for Technology Transfer; Financial Analyst; Author Education: BA in English & Economics, Georgetown University; MBA, Northwestern University Community Service: Chair Emerita, Congressional Progressive Caucus; National Health Policy Chair, Bernie Sanders Presidential Campaign; Health Care Co-Chair, Biden-Sanders Unity Task Force; Vice Chair, Congressional LGBT Equality Caucus; Co-Chair, United for Climate and Environmental Justice Task Force; Co-Chair, Women’s Working Group on Immigration Reform; Immigration Chair, Congressional Asian Pacific American Caucus; Member, City of Seattle Income Inequality Advisory Committee – enacting path to $15 minimum wage Congresswoman Pramila Jayapal represents Washington's 7th Congressional District, which encompasses most of Seattle and its surrounding areas.
 She is the first and only South Asian American woman ever elected to the U.S.
 House of Representatives and one of just two dozen naturalized citizens currently in Congress.
 Rep.
@@ -16,3 +16,6 @@ She attended college at Georgetown University and later received her MBA from No
 She is the author of two books, Pilgrimage to India: A Woman Revisits Her Homeland and Use the Power You Have: A Brown Woman’s Guide to Politics and Political Change.
 She lives in West Seattle with her husband Steve Williamson, a long-time labor leader, and their dog Otis!
 She is also the proud mother of a daughter and stepson.
+Paid for by Pramila for Congress Get Email Updates Get email updates from Pramila to learn more about how she's fighting for our progressive values in Congress.
+Full Name: Email: Zip: Thank you for joining our people-first movement.
+About Pramila Privacy Policy | Contact Us | Media Resources

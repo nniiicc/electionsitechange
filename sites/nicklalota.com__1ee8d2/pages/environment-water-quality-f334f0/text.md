@@ -1,27 +1,17 @@
-Environment and Water Quality
-Protecting Long Island's Environment and Water Quality
-I believe in the Theodore Roosevelt tradition of conservation: protect what makes America special, use our natural resources wisely, and leave Long Island stronger for the next generation.
+0 Skip to Content Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Open Menu Close Menu Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Open Menu Close Menu Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Environment and Water Quality Protecting Long Island's Environment and Water Quality I believe in the Theodore Roosevelt tradition of conservation: protect what makes America special, use our natural resources wisely, and leave Long Island stronger for the next generation.
 That tradition has been carried forward here in Suffolk County by leaders like Ken LaValle, Ed Romaine, and Anthony Palumbo, and it's the approach I've brought to Congress.
-On Long Island, clean water isn't just an environmental issue—it's essential to our health, our economy, our property values, and our way of life.
+On Long Island, clean water isn't just an environmental issue—it's essential to our health , our economy, our property values, and our way of life.
 Because we rely almost entirely on a sole-source aquifer for our drinking water and treasure the Long Island Sound, Peconic Estuary, bays, beaches, and wetlands that surround us, protecting water quality has been one of my highest priorities.
 That's why I've delivered bipartisan results to protect our drinking water, improve wastewater infrastructure, reduce stormwater pollution, strengthen coastal resilience, and support good-paying clean energy jobs.
-Delivering Results for Clean Water
-As Co-Chair of the bipartisan Long Island Sound Caucus, I have helped secure more than $120 million for the Long Island Sound and Peconic Estuary, co-led bipartisan legislation strengthening the EPA's National Estuary Program, and delivered more than $16 million for drinking water, wastewater, stormwater, groundwater, and septic infrastructure throughout Suffolk County.
-Those investments are helping:
-- Connect PFAS-impacted homes and neighborhoods in Calverton, Manorville, Westhampton, and Smithtown to safe, reliable drinking water;
-- Modernize wastewater infrastructure in Huntington, Kings Park, Sag Harbor, Southampton, Shelter Island, and St.
-James to reduce nitrogen pollution and protect our bays;
-- Reduce flooding, improve stormwater management, and prevent contaminated runoff from reaching local waterways in Smithtown, Kings Park, Miller Place, and Sound Beach;
-- Expand septic system improvements that protect groundwater and help restore Long Island's bays, harbors, and estuaries; and
-- Preserve and restore the Long Island Sound and Peconic Estuary for future generations.
-Fighting for Suffolk County
-After severe flooding washed out Harbor Road in Stony Brook in 2024, I pressed Governor Hochul and President Biden to issue Major Disaster Declarations and later secured $2.5 million to rebuild the roadway.
-I also authored the Disaster Contract Improvement Act to improve FEMA transparency, reduce waste, and help storm-damaged communities receive federal assistance more quickly.
+Delivering Results for Clean Water As Co-Chair of the bipartisan Long Island Sound Caucus, I have helped secure more than $120 million for the Long Island Sound and Peconic Estuary, co-led bipartisan legislation strengthening the EPA's National Estuary Program, and delivered more than $16 million for drinking water, wastewater, stormwater, groundwater, and septic infrastructure throughout Suffolk County.
+Those investments are helping: Connect PFAS-impacted homes and neighborhoods in Calverton, Manorville, Westhampton, and Smithtown to safe, reliable drinking water; Modernize wastewater infrastructure in Huntington, Kings Park, Sag Harbor, Southampton, Shelter Island, and St.
+James to reduce nitrogen pollution and protect our bays; Reduce flooding, improve stormwater management, and prevent contaminated runoff from reaching local waterways in Smithtown, Kings Park, Miller Place, and Sound Beach; Expand septic system improvements that protect groundwater and help restore Long Island's bays, harbors, and estuaries; and Preserve and restore the Long Island Sound and Peconic Estuary for future generations.
+Fighting for Suffolk County After severe flooding washed out Harbor Road in Stony Brook in 2024, I pressed Governor Hochul and President Biden to issue Major Disaster Declarations and later secured $2.5 million to rebuild the roadway .
+I also authored the Disaster Contract Improvement Act to improve FEMA transparency, reduce waste, and help storm-damaged communities receive federal assistance more quickly .
 Study after study demonstrates how Long Islanders send far more tax dollars to Albany than we receive in return.* That is why I've pushed Governor Hochul to direct more state investment toward Suffolk County's long-overdue disaster mitigation and coastal resilience projects, including Harbor Road and the Asharoken seawall.
-Putting Long Island First
-My environmental record isn't driven by ideology—it's driven by what's best for Long Island.
-That's why I passed an amendment prohibiting offshore drilling off Long Island's coast, introduced legislation to designate Plum Island as a national monument, opposed legislation that would have harmed New York's solar industry, fought to preserve clean energy tax incentives that protect Long Island jobs, and sponsored bipartisan legislation extending the Clean Pass HOV program.
+Putting Long Island First My environmental record isn't driven by ideology—it's driven by what's best for Long Island.
+That's why I passed an amendment prohibiting offshore drilling off Long Island's coast, introduced legislation to designate Plum Island as a national monument, opposed legislation that would have harmed New York's solar industry, fought to preserve clean energy tax incentives that protect Long Island jobs , and sponsored bipartisan legislation extending the Clean Pass HOV program.
 I'll continue fighting to protect Long Island's sole-source aquifer, improve drinking water quality, reduce nitrogen pollution, strengthen our coastlines, maintain our waterways with the Army Corps of Engineers, support good-paying clean energy jobs, and ensure Suffolk County receives its fair share of the tax dollars Long Islanders send to Washington and Albany.
 Protecting Long Island's environment and water quality while growing our economy are not competing priorities.
-When we invest wisely, we can safeguard our natural resources, create good-paying jobs, and leave Long Island stronger for the next generation.
-*https://lirpc.org/taxation/long-island-balance-of-payments-study/
+When we invest wisely, we can safeguard our natural resources, create good-paying jobs , and leave Long Island stronger for the next generation. * https://lirpc.org/taxation/long-island-balance-of-payments-study/ CONTRIBUTE TODAY Get Updates Directly from Nick: LALOTA FOR CONGRESS | PO BOX 5744 | HAUPPAUGE, NY 11788 USE OF MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF WAR.
+Privacy Policy PAID FOR BY LALOTA FOR CONGRESS

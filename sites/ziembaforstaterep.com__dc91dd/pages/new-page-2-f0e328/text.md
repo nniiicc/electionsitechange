@@ -1,5 +1,4 @@
-Property Tax Relief
-We have a property tax crisis.
+0 Skip to Content Endorsements Priorities About Contact Open Menu Close Menu Endorsements Priorities About Contact Open Menu Close Menu Endorsements Priorities About Contact Property Tax Relief We have a property tax crisis.
 Canton and Avon run responsible towns.
 We did not create this tax problem.
 Hartford’s rules and Hartford’s formula did.
@@ -20,8 +19,7 @@ The answer is straightforward: cut the unfunded mandate load, reform ECS so Cant
 We pay in far more than we get back.
 I will fight to change that.
 Canton and Avon first.
-Energy Policy Reform
-Connecticut families still pay some of the highest electric rates in the country.
+Energy Policy Reform Connecticut families still pay some of the highest electric rates in the country.
 Temporary credits on one line of the bill do not fix that.
 Lower utility bills strengthen our economy and reduce costs across the board for goods and services in our state.
 Ratepayers first.
@@ -49,8 +47,7 @@ Solar farms and battery projects should not be forced on Canton or Avon.
 I have worked in residential solar.
 I know the grid.
 Affordability and reliability come first.
-Protecting Our Environment
-Canton and Avon are defined by woods, water, and open land.
+Protecting Our Environment Canton and Avon are defined by woods, water, and open land.
 Growth that wrecks that is not progress.
 Clean water first.
 I support municipal treatment that removes PFAS, microplastics, and other contaminants — paid for with grants and responsible parties, not another hidden bill.
@@ -65,8 +62,7 @@ Keep nuclear and rooftop solar as the workable clean-power path.
 Do not pretend we can shut the rest off overnight.
 Stewardship is not a party issue.
 It is whether we leave this valley better than we found it.
-Local Control
-Towns should be run by the people who live in them.
+Local Control Towns should be run by the people who live in them.
 Hartford should not rezone Canton and Avon from the Capitol.
 Zoning stays local.
 Sewer capacity, traffic, fire and ambulance, wetlands, and historic districts are town questions.
@@ -84,9 +80,7 @@ My opponent, as House Chair of Planning and Development, helped lead HB 8002, co
 I will work to amend both laws — and repeal the parts that strip local zoning — so housing is built with towns, not on them.
 Local officials answer to their neighbors.
 That is how you get smarter growth and stronger communities.
-Flock Cameras & Mass Surveillance
-Public Safety & Privacy
-I stand with our police officers.
+Flock Cameras & Mass Surveillance Public Safety & Privacy I stand with our police officers.
 I do not stand with Flock cameras.
 A lot of good people mix this up with speed cameras.
 That is understandable.
@@ -103,8 +97,7 @@ That is not traffic enforcement.
 That is tracking the public.
 This is not left versus right.
 This is free people versus state overreach.
-Our government should not be partnering with a private corporation to build a file on law-abiding people “just in case.”
-Your constitutional rights are not a suggestion.
+Our government should not be partnering with a private corporation to build a file on law-abiding people “just in case.” Your constitutional rights are not a suggestion.
 The Fourth Amendment was written for this.
 Do not settle for political double-talk.
 “Guardrails.” “Pause.” “I support them and I have concerns.” “We need a study” — funded by taxpayers.
@@ -112,25 +105,21 @@ That is how politicians play both sides and leave the cameras up.
 It is not leadership.
 People in Canton and Avon already know they do not want to be catalogued every time they drive their own roads.
 As your State Representative for the 17th House District, I will vote to ban Flock-style mass license-plate tracking statewide, and I will stay after the other tools that try to do the same thing under a new name.
-Data Centers, AI, and Connecticut's Future
-Connecticut should welcome innovation without sacrificing our environment, electric grid, water resources, local communities, or taxpayers.
+Data Centers, AI, and Connecticut's Future Connecticut should welcome innovation without sacrificing our environment, electric grid, water resources, local communities, or taxpayers.
 I am proposing a one-year moratorium on new data-center development so we can fully study their potential impact on our state.
 Before approving new projects, we need to understand their effects on our electric grid, water resources, environment, noise, land use, and taxpayers.
 Corporate profit should not come at the expense of Connecticut residents.
 If Connecticut allows additional data centers, I will support strong environmental standards, including closed-loop cooling systems, water conservation, reasonable noise limits, and responsible energy use.
-Protecting Connecticut Taxpayers
-I will sponsor legislation to repeal the 20-year data-center tax abatements created under H.B. 6514 and oppose expanding these incentives without assessing their costs and benefits to taxpayers and municipalities.
-Giving Municipalities a Voice
-Communities hosting these facilities deserve a meaningful say.
-I will support legislation requiring municipal approval for new data centers, giving local residents and elected officials a voice in decisions affecting land use, infrastructure, noise, water, and their communities.
-Responsible AI and Data Privacy
-AI can transform our economy, healthcare, education, and everyday lives, but innovation must come with safeguards.
+Protecting Connecticut Taxpayers I will sponsor legislation to repeal the 20-year data-center tax abatements created under H.B.
+6514 and oppose expanding these incentives without assessing their costs and benefits to taxpayers and municipalities.
+Giving Municipalities a Voice Communities hosting these facilities deserve a meaningful say.
+I will support legislation requiring municipal approval for new data centers , giving local residents and elected officials a voice in decisions affecting land use, infrastructure, noise, water, and their communities.
+Responsible AI and Data Privacy AI can transform our economy, healthcare, education, and everyday lives, but innovation must come with safeguards.
 I support legislation that regulates AI, protects personal data, and prevents the unauthorized collection, acquisition, and use of our data.
 We should pursue the benefits of AI while addressing its risks to privacy, security, civil liberties, our environment, and our communities.
 Connecticut can lead in technology while protecting its people, resources, and future.
 If necessary, we must even assert our state's rights to protect the people of Connecticut.
-Parental Rights
-Strong communities start with strong families.
+Parental Rights Strong communities start with strong families.
 The job of government is to support parents, not to stand in their place.
 Every child is different.
 Every family has its own needs, faith, and circumstances.
@@ -146,3 +135,7 @@ Connecticut already has laws to protect children.
 The work now is to make those laws work.
 We do not need a new layer of agencies.
 We need to reform the programs we have, especially DCF, so the state moves quickly when a child is in real danger and stays out of the way when a family is doing its job.
+Paid for by Ziemba For State Rep.
+Scott M.
+Cleary Treasurer.
+Approved by Andrew Ziemba

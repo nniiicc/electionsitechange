@@ -1,5 +1,4 @@
-ENDORSEd!
-“I lost the best state senator I’ve ever had to redistricting.
+0 Skip to Content Home About Platform Endorsements Yard Signs Get Involved Donate Open Menu Close Menu Home About Platform Endorsements Yard Signs Get Involved Donate Open Menu Close Menu Home About Platform Endorsements Yard Signs Get Involved Donate ENDORSEd! “ I lost the best state senator I’ve ever had to redistricting.
 Thank you, Senator Polehanki, for your service to my community.
 Congrats to all who live in the new 8th District.
-You’ll get great representation in Lansing.” — Michigan Attorney General, Dana Nessel
+You’ll get great representation in Lansing. ” — Michigan Attorney General, Dana Nessel Support Dayna for state senate! $25 $50 $100 $250 $500 Other Amount Get Involved Donate Contact Us Dayna Polehanki for State Senate PO Box 51843, Livonia, MI 48151 dayna@daynaforsenate.com Paid for by Dayna Polehanki for State Senate, PO Box 51843, Livonia, MI 48151 Powered by Tech for Campaigns

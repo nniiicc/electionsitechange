@@ -1,23 +1,11 @@
-MEET JASPER
-My family has lived in this community for decades.
+Skip to main content Scroll Top   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate WORKING TODAY FOR A Jasper Martus BETTER TOMORROW.
+MEET JASPER My family has lived in this community for decades.
 Whether it was the factory floor, the classroom, a small business or the wide open fields, throughout my family’s history we have always worked hard to make our community a better place.
-In The News
-PRIORITIES
-I am proud of major wins in my first term thanks to the continued support of this community and close working relationships with my colleagues on both sides of the aisle.
-BUDGET WINS
-- Unprecedented investments in job training and workforce development programs
-- Record investments in both school and community mental health programs
-- Highest ever per pupil funding for K-12 students
-- First ever state funding for county prosecutor offices including Genesee.
-- Funding to the Tommy’s Heart Foundation to oversee heart screenings for student athletes across Genesee County
-- Increase in revenue sharing so local communities can better support public safety and infrastructure
-POLICY VICTORIES
-- Repealed the burdensome Pension Tax
-- Expanded the Earned Income Tax Credit
-- Repealed the so-called “Right to Work” Law
-- Expanded the Michigan Civil Rights Act to protect the LGBTQ community
-- Codified access to abortion statewide
-- Passed climate legislation that will protect our Great Lakes
-donate
-This campaign is not possible without you.
+MORE ABOUT JASPER In The News AG Dana Nessel teaches Mid-Michigan seniors to avoid scams AG Dana Nessel teaches Mid-Michigan seniors to avoid scams Representative Martus addresses city council Representative Martus addresses city council Democrats helped Michigan workers with tax, jobs, other measures Democrats helped Michigan workers with tax, jobs, other measures Learn about MI Research and Development tax credit Learn about MI Research and Development tax credit UAW members testify in favor of just energy transition office legislation UAW members testify in favor of just energy transition office legislation How the state budget is impacting mid-Michigan How the state budget is impacting mid-Michigan MSU Alumnus represents MI-69th House district MSU Alumnus represents MI-69th House district Michigan Speaker Rep.
+Joe Tate considers economic development with Flint business, housing leaders Michigan Speaker Rep.
+Joe Tate considers economic development with Flint business, housing leaders PRIORITIES I am proud of major wins in my first term thanks to the continued support of this community and close working relationships with my colleagues on both sides of the aisle.
+BUDGET WINS Unprecedented investments in job training and workforce development programs Record investments in both school and community mental health programs Highest ever per pupil funding for K-12 students First ever state funding for county prosecutor offices including Genesee.
+Funding to the Tommy’s Heart Foundation to oversee heart screenings for student athletes across Genesee County Increase in revenue sharing so local communities can better support public safety and infrastructure POLICY VICTORIES Repealed the burdensome Pension Tax Expanded the Earned Income Tax Credit Repealed the so-called “Right to Work” Law Expanded the Michigan Civil Rights Act to protect the LGBTQ community Codified access to abortion statewide Passed climate legislation that will protect our Great Lakes donate This campaign is not possible without you.
 Whether it is donating a few dollars, an afternoon spent knocking doors or writing letters to your neighbors, this endeavor will take all of us working together to win.
+DONATE NOW Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate PAID FOR BY THE COMMITTEE TO ELECT JASPER MARTUS P.O.
+BOX 165 Flushing, MI 48433 jasper@jaspermartus.com

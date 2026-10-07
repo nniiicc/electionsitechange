@@ -1,6 +1,30 @@
 [
-"https://keepjudgearrowood.com/",
-"https://keepjudgearrowood.com/information",
-"https://keepjudgearrowood.com/privacypolicy",
-"https://secure.actblue.com/donate/arrowood"
+{
+"text": "About",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "Contact",
+"href": "mailto:info@keepjudgearrowood.com?subject=Website+Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/arrowood"
+},
+{
+"text": "Home",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "Information",
+"href": "https://www.keepjudgearrowood.com/information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.keepjudgearrowood.com/privacypolicy"
+},
+{
+"text": "[image: Judge John Arrowood for NC Court of Appeals logo]",
+"href": "https://www.keepjudgearrowood.com"
+}
 ]

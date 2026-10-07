@@ -1,9 +1,14 @@
 {
  "description": "My heart is here in North Carolina where I was born and raised.",
  "final_url": "https://tracyclarkfornc.com/public-education",
- "paid_for_by": null,
+ "fingerprint": "44e4d59eea3cce7f5d4945ba900584d4618d9277",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Public Education",
  "years_mentioned": [
-  "2022"
+  "2013",
+  "2022",
+  "2023",
+  "2032"
  ]
 }

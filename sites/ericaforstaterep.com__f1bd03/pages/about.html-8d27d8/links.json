@@ -1,9 +1,34 @@
 [
-"https://ericaforstaterep.com/contact_form.php",
-"https://ericaforstaterep.com/events.html",
-"https://ericaforstaterep.com/index.html",
-"https://ericaforstaterep.com/issues.html",
-"https://ericaforstaterep.com/send_email.php",
-"https://ericaforstaterep.com/volunteer.php",
-"https://secure.anedot.com/ericaforstaterep/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ericaforstaterep/donate/"
+},
+{
+"text": "Donate via Anedot",
+"href": "https://secure.anedot.com/ericaforstaterep/donate/"
+},
+{
+"text": "Events",
+"href": "https://ericaforstaterep.com/events.html"
+},
+{
+"text": "Home",
+"href": "https://ericaforstaterep.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://ericaforstaterep.com/issues.html"
+},
+{
+"text": "Message Erica's Campaign",
+"href": "https://ericaforstaterep.com/contact_form.php"
+},
+{
+"text": "Volunteer to Help",
+"href": "https://ericaforstaterep.com/volunteer.php"
+},
+{
+"text": "Write to Me",
+"href": "https://ericaforstaterep.com/send_email.php"
+}
 ]

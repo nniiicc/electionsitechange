@@ -1,36 +1,31 @@
-Governor Healey Announces $40 Million for Economic Development and Housing Projects for Northeast Mass
-Funding will improve essential infrastructure and strengthen connections to new housing and commercial districts; This year’s awards represent largest amount of statewide Community One Stop for Growth funding in program’s history
-BOSTON – Governor Maura Healey announced $39,958,535 in 2027 Community One Stop for Growth grant funding through 46 awards for projects in 24 cities and towns across Northeast Massachusetts.
+0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Governor Healey Announces $40 Million for Economic Development and Housing Projects for Northeast Mass Press Release Oct 2 Written By Kristin Kassner Funding will improve essential infrastructure and strengthen connections to new housing and commercial districts; This year’s awards represent largest amount of statewide Community One Stop for Growth funding in program’s history BOSTON – Governor Maura Healey announced $39,958,535 in 2027 Community One Stop for Growth grant funding through 46 awards for projects in 24 cities and towns across Northeast Massachusetts.
 The awards will support housing and economic development through investments in public infrastructure, site preparation and community planning.
 The Community One Stop for Growth, overseen by the Executive Office of Economic Development (EOED), makes it easier for cities, towns and organizations to access state funding for projects that create housing, strengthen downtowns, prepare sites for development, build construction and support local economic growth.
 This year’s awards are being delivered through 14 grant programs administered by EOED, the Executive Office of Housing and Livable Communities (HLC), and MassDevelopment.
-“We’re investing in communities across Massachusetts to create the housing, jobs and economic growth our state needs,” said Governor Maura Healey.
+“We’re investing in communities across Massachusetts to create the housing, jobs and economic growth our state needs,” said Governor Maura Healey .
 “These awards will turn underused properties into new homes and businesses, strengthen downtowns, create good jobs and unlock billions of dollars in private investment.
-That means more opportunity for families, workers and businesses in every part of our state.”
-“The One Stop makes it easier for communities to access the resources they need to move important local projects forward,” said Lieutenant Governor Kim Driscoll.
+That means more opportunity for families, workers and businesses in every part of our state.” “The One Stop makes it easier for communities to access the resources they need to move important local projects forward,” said Lieutenant Governor Kim Driscoll.
 “This year, we’re supporting more than 400 projects in every region of Massachusetts, including communities receiving One Stop funding for the first time.
-These investments respond directly to local priorities and will deliver results for residents across the state.”
-Of the 402 projects receiving awards, 36 percent are in a rural community, 24 percent in Gateway Cities, 37 percent in Housing Choice Communities, and 50 percent are in an MBTA Communities.
+These investments respond directly to local priorities and will deliver results for residents across the state.” Of the 402 projects receiving awards, 36 percent are in a rural community, 24 percent in Gateway Cities, 37 percent in Housing Choice Communities, and 50 percent are in an MBTA Communities.
 Thirteen communities are receiving a grant through the One Stop for the first time, including Danvers and Georgetown in the Northeast region.
 In total, 207 communities are receiving awards, which is the largest number of communities represented in a single round in the program’s history.
 “As a planner I know we must support the needs of our economy, invest in our downtowns and provide the infrastructure for our communities to grow.
 This funding provided under the One Stop Grant program will allow Ipswich to invest in the Town Wharf to support the fishing industry; help Topsfield realize their multi-modal vision for their downtown; give Georgetown the ability to design a wastewater system to serve housing and small businesses; and enable Rowley to bring well #2 back online to sustain water resilience across the entire town,” said Rep.
 Kristin Kassner (Georgetown, Hamilton, Ipswich, Newbury, Rowley, Topsfield).
-“Thank you to the Healey-Driscoll Administration for responding to our towns’ needs and for recognizing our unique challenges, especially around water, and empowering transformative solutions.”
-“The Community One Stop helps us partner with cities and towns to support projects that can unlock new investment and create meaningful economic growth,” said Economic Development Secretary Eric Paley.
-“This year’s awards will help communities prepare sites for development, improve infrastructure, bring underused properties back into productive use and support thousands of new jobs and homes across Massachusetts.”
-“With these awards, the Healey-Driscoll Administration is making the state’s largest ever investment in local infrastructure to support the development of new housing,” said Housing and Livable Communities Secretary Juana Matias.
+“Thank you to the Healey-Driscoll Administration for responding to our towns’ needs and for recognizing our unique challenges, especially around water, and empowering transformative solutions.” “The Community One Stop helps us partner with cities and towns to support projects that can unlock new investment and create meaningful economic growth,” said Economic Development Secretary Eric Paley.
+“This year’s awards will help communities prepare sites for development, improve infrastructure, bring underused properties back into productive use and support thousands of new jobs and homes across Massachusetts.” “With these awards, the Healey-Driscoll Administration is making the state’s largest ever investment in local infrastructure to support the development of new housing,” said Housing and Livable Communities Secretary Juana Matias .
 “This is the roads, water, and site work that has to happen before a single home can be built.
-These investments unlock housing across the Commonwealth, and we’re thrilled to see local leaders putting them to work.”
-Project highlights in the 2nd Essex district:
-- Rowley – $2,500,000 HousingWorks award to support design, permitting, bidding, and construction of a full-scale pilot treatment system at the Well No. 2 site to bring the well back online and help supply system demands.
-- Ipswich – $376,140 through the Seaport Economic Council Fund for design and permitting to advance improvements to the Town Wharf, both replacing aging infrastructure and supporting commercial fishing operations by establishing dedicated working waterfront space separate from recreational use, while also strengthening the long-term viability of the local maritime economy.
-- Georgetown – $150,000 through the Community Planning program to evaluate wastewater management options for its Town Center overlay district to aid in mixed-use development and revitalization of the area encompassing approximately 110 acres surrounding the junction of Routes 133 and 97.
-- Topsfield – $450,000 through the Rural Development Fund for planning, permitting and design of the Town Common Multimodal Improvement Project.
+These investments unlock housing across the Commonwealth, and we’re thrilled to see local leaders putting them to work.” Project highlights in the 2nd Essex district: Rowley – $2,500,000 HousingWorks award to support design, permitting, bidding, and construction of a full-scale pilot treatment system at the Well No.
+2 site to bring the well back online and help supply system demands.
+Ipswich – $376,140 through the Seaport Economic Council Fund for design and permitting to advance improvements to the Town Wharf, both replacing aging infrastructure and supporting commercial fishing operations by establishing dedicated working waterfront space separate from recreational use, while also strengthening the long-term viability of the local maritime economy.
+Georgetown – $150,000 through the Community Planning program to evaluate wastewater management options for its Town Center overlay district to aid in mixed-use development and revitalization of the area encompassing approximately 110 acres surrounding the junction of Routes 133 and 97.
+Topsfield – $450,000 through the Rural Development Fund for planning, permitting and design of the Town Common Multimodal Improvement Project.
 The project will prepare for traffic calming and safety improvements for drivers, pedestrians and cyclists, strengthening connections to the bikeway, town commons and Village Business District.
 The regional awards are part of $330 million in funding through 403 awards statewide.
 Community One Stop for Growth provides a single application and coordinated review process for grant programs administered by the Executive Office of Economic Development, the Executive Office of Housing and Livable Communities and MassDevelopment.
 This is the largest amount of One Stop funding issued in a single round in the history of the program.
-The full list of grant recipients and project descriptions is available here.
-Learn more at mass.gov/onestop.
-###
+The full list of grant recipients and project descriptions is available here .
+Learn more at mass.gov/onestop .
+### Kristin Kassner https://kristinkassner.org Next Next Kassner Outlines Priorities, Accomplishments in North Shore Letter Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

@@ -1,9 +1,58 @@
 [
-"https://hipolitocerros.com/",
-"https://hipolitocerros.com/cart",
-"https://hipolitocerros.com/get-involved",
-"https://hipolitocerros.com/home",
-"https://hipolitocerros.com/meet-hipolito",
-"https://hipolitocerros.com/priorities",
-"https://secure.actblue.com/donate/hipolito-cerros-1"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+},
+{
+"text": "0",
+"href": "https://www.hipolitocerros.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.hipolitocerros.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.hipolitocerros.com/"
+},
+{
+"text": "MEET HIPOLITO",
+"href": "https://www.hipolitocerros.com/meet-hipolito"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.hipolitocerros.com/priorities"
+},
+{
+"text": "[image: Hipolito Cerros for California State Assembly District 33]",
+"href": "https://www.hipolitocerros.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.hipolitocerros.com/home"
+},
+{
+"text": "other amount",
+"href": "https://secure.actblue.com/donate/hipolito-cerros-1"
+}
 ]

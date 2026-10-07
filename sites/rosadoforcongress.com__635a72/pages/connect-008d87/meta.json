@@ -1,9 +1,9 @@
 {
  "description": "Stay engaged in Denise Rosado&#39;s political campaign. Join us in Washington D.C. elections and find out how to get involved in politics.",
  "final_url": "https://rosadoforcongress.com/connect",
- "paid_for_by": null,
+ "fingerprint": "8bc8d9ae297c3dd0b4971ce14fb351f46d99808d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Connect",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

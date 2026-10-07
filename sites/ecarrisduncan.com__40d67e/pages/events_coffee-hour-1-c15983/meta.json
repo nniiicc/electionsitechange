@@ -1,7 +1,11 @@
 {
  "description": "Join me for a cup of coffee at the Roost in Wilmington.",
  "final_url": "https://www.ecarrisduncan.com/events/coffee-hour-1",
- "paid_for_by": null,
- "title": "Coffee Hour at the Roost in Wilmington \u2014 Emily Carris Duncan",
- "years_mentioned": []
+ "fingerprint": "398fee738314816d4a70bdf57c3b4cc29c48abcf",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Coffee Hour at the Roost in Wilmington — Emily Carris Duncan",
+ "years_mentioned": [
+  "2025"
+ ]
 }

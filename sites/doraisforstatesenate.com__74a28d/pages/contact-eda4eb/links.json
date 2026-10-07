@@ -1,7 +1,22 @@
 [
-"https://doraisforstatesenate.com/",
-"https://doraisforstatesenate.com/contact",
-"https://doraisforstatesenate.com/privacy",
-"https://doraisforstatesenate.com/volunteer",
-"https://secure.anedot.com/dorais-for-state-senate/donate"
+{
+"text": "Contact",
+"href": "https://www.doraisforstatesenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/dorais-for-state-senate/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.doraisforstatesenate.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.doraisforstatesenate.com/volunteer"
+},
+{
+"text": "[image: John Paul Dorais for State Senate]",
+"href": "https://www.doraisforstatesenate.com/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.helvyforgeorgia.com/vote",
- "paid_for_by": null,
+ "fingerprint": "751726c8744af982435edf466d928179043e64b0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

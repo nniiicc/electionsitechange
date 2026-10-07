@@ -1,5 +1,4 @@
-Legislative Update: Fraud & Oversight at the Capitol
-This legislative session has offered everyone at the Capitol an opportunity to step up and help put an end to the fraud epidemic in our state.
+Home Meet Ben Priorities Endorsements Photos Events Volunteer Donate Legislative Update: Fraud & Oversight at the Capitol Monday, April 27th, 2026 This legislative session has offered everyone at the Capitol an opportunity to step up and help put an end to the fraud epidemic in our state.
 There’s been numerous votes, many bills drafted, and a lot of heated debate both on the House floor and in committee.
 While I’ve taken pride in my ability to work in a bipartisan manner, I have to be honest about what I’ve seen so far when it comes to the actions of House Democrats in the fight against fraud, because there seems to be a concerning trend.
 When it comes to effective oversight and making sure taxpayer dollars are actually protected, most of the proposals that would truly make a difference are being blocked by House Democrats.
@@ -45,8 +44,7 @@ At the end of the day, oversight only works if we’re willing to follow through
 That means expecting agencies to act, making sure systems are in place to catch problems early, and holding people accountable when they don’t.
 If we’re serious about stopping fraud, it starts with getting the basics right.
 As always, feel free to reach out if you have questions or want to share your perspective.
-Have a great week,
-Please Contact Me
-Please continue to reach out if I can be of any assistance to you.
-You can reach me by phone at 651-296-5185 or by email at rep.ben.bakeberg@house.mn.gov.
+Have a great week, Please Contact Me Please continue to reach out if I can be of any assistance to you.
+You can reach me by phone at 651-296-5185 or by email at rep.ben.bakeberg@house.mn.gov .
 Have a great weekend!
+Follow Follow Follow Contact | Bills | Articles | Voting | Privacy Policy Prepared and Paid for by Bakeberg MN Committee | PO Box 145, Jordan, MN 55352

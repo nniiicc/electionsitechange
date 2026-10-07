@@ -1,21 +1,86 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://designedtorun.com/",
-"https://facebook.com/kirkmanforiowa",
-"https://facebook.com/share/1BisokpMLG",
-"https://ibew.org/",
-"https://instagram.com/kirkmanforiowa",
-"https://iowa.gov/how-do-i-vote-early-person",
-"https://isea.org/",
-"https://kirkmanforiowa.com/",
-"https://kirkmanforiowa.com/about",
-"https://kirkmanforiowa.com/contact",
-"https://kirkmanforiowa.com/platform",
-"https://local150.org/",
-"https://plannedparenthood.org/",
-"https://secure.actblue.com/donate/kirkmanforiowa",
-"https://sos.iowa.gov/voters/voter-registration",
-"https://tiktok.com/@kirkmanforiowa",
-"https://ualocal125.org/en",
-"https://uaw.org/"
+{
+"text": "About Jennifer",
+"href": "https://www.kirkmanforiowa.com/about"
+},
+{
+"text": "Click here",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Click here",
+"href": "https://www.iowa.gov/how-do-i-vote-early-person"
+},
+{
+"text": "Contact",
+"href": "https://www.kirkmanforiowa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kirkmanforiowa"
+},
+{
+"text": "Give now",
+"href": "https://secure.actblue.com/donate/kirkmanforiowa"
+},
+{
+"text": "Learn why",
+"href": "https://www.kirkmanforiowa.com/platform"
+},
+{
+"text": "Platform",
+"href": "https://www.kirkmanforiowa.com/platform"
+},
+{
+"text": "RSVP",
+"href": "https://www.facebook.com/share/1BisokpMLG/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: IBEW]IBEW",
+"href": "https://ibew.org/"
+},
+{
+"text": "[image: IUOE Local 150]IUOE Local 150",
+"href": "https://local150.org/"
+},
+{
+"text": "[image: Iowa State Education Association]Iowa State Education Association",
+"href": "https://www.isea.org/"
+},
+{
+"text": "[image: Kirkman for Iowa]",
+"href": "https://www.kirkmanforiowa.com/"
+},
+{
+"text": "[image: Planned Parenthood]Planned Parenthood",
+"href": "https://www.plannedparenthood.org/"
+},
+{
+"text": "[image: UA Local 125]UA Local 125",
+"href": "https://www.ualocal125.org/en"
+},
+{
+"text": "[image: UAW]UAW",
+"href": "https://uaw.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/kirkmanforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kirkmanforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@kirkmanforiowa"
+},
+{
+"text": "click here",
+"href": "https://sos.iowa.gov/voters/voter-registration"
+}
 ]

@@ -1,21 +1,102 @@
 [
-"https://facebook.com/TroyJacksonmaine",
-"https://instagram.com/troyjackson207",
-"https://jacksonformaine.com/",
-"https://jacksonformaine.com/about",
-"https://jacksonformaine.com/endorsements",
-"https://jacksonformaine.com/events",
-"https://jacksonformaine.com/news",
-"https://jacksonformaine.com/priorities",
-"https://jacksonformaine.com/privacy-policy",
-"https://jacksonformaine.com/volunteer",
-"https://mobilize.us/jacksonformaine?is_high_priority=true",
-"https://secure.actblue.com/donate/loc_tdj_fr_web",
-"https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=500",
-"https://x.com/troyjackson207",
-"https://youtube.com/@troyjacksonformaine"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web?express_lane=true&amount=500"
+},
+{
+"text": "About Troy",
+"href": "https://www.jacksonformaine.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jacksonformaine.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jacksonformaine.com/events"
+},
+{
+"text": "Learn more",
+"href": "https://www.jacksonformaine.com/about"
+},
+{
+"text": "News",
+"href": "https://www.jacksonformaine.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web"
+},
+{
+"text": "Priorities",
+"href": "https://www.jacksonformaine.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jacksonformaine.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/jacksonformaine/?is_high_priority=true"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.jacksonformaine.com/privacy-policy"
+},
+{
+"text": "View More",
+"href": "https://www.jacksonformaine.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jacksonformaine.com/volunteer"
+},
+{
+"text": "[image: Troy Jackson for Maine logo]",
+"href": "https://www.jacksonformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TroyJacksonmaine"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/troyjackson207"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@troyjacksonformaine"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/troyjackson207"
+},
+{
+"text": "info@jacksonformaine.com",
+"href": "mailto:info@jacksonformaine.com"
+},
+{
+"text": "press@jacksonformaine.com",
+"href": "mailto:press@jacksonformaine.com"
+}
 ]

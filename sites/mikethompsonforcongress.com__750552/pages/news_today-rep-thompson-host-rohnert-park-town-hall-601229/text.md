@@ -1,20 +1,8 @@
-Press Release
-Posted:
-Rohnert Park, CA – On Tuesday, September 29th at 5:30 pm Rep.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources TODAY: Rep.
+Thompson to Host Rohnert Park Town Hall Press Release Posted: September 25, 2026 Rohnert Park, CA – On Tuesday, September 29th at 5:30 pm Rep.
 Mike Thompson will host town hall in Rohnert Park.
 All constituents of California’s Fourth Congressional District and members of the press are invited to attend.
-Press should RSVP to Lauren Ott (Lauren.Ott@mail.house.gov).
-WHO:
-Rep.
-Mike Thompson
-WHAT:
-Town Hall
-WHEN:
-Tuesday, September 29, 2026
-5:30 pm PT
-WHERE:
-Sally Tomatoes
-1100 Valley House Dr,
-Rohnert Park, CA 94928
-RSVP:
-Press should RSVP to Lauren.Ott@mail.house.gov
+Press should RSVP to Lauren Ott ( Lauren.Ott@mail.house.gov ).
+WHO: Rep.
+Mike Thompson WHAT: Town Hall WHEN: Tuesday, September 29, 2026 5:30 pm PT WHERE: Sally Tomatoes 1100 Valley House Dr, Rohnert Park, CA 94928 RSVP: Press should RSVP to Lauren.Ott@mail.house.gov Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

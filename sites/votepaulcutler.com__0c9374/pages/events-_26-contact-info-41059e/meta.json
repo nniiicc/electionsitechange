@@ -1,9 +1,12 @@
 {
  "description": "Discover upcoming Utah State Legislature events, community events, and town halls to engage with local issues and connect with representatives.",
  "final_url": "https://votepaulcutler.com/events-%26-contact-info",
- "paid_for_by": null,
+ "fingerprint": "11b7442769328385da182699f9515ed137c3fd48",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events & Contact Info",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2027"
  ]
 }

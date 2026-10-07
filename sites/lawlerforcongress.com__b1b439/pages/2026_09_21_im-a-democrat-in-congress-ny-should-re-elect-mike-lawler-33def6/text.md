@@ -1,15 +1,11 @@
-I’m a Democrat in Congress.
+Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News I’m a Democrat in Congress.
 NY should re-elect Mike Lawler.
-September 21, 2026
-By Congressman Jared Golden
-USA Today
-I spent eight years in Congress, and I won’t pretend they were easy ones.
+September 21, 2026 By Congressman Jared Golden USA Today I spent eight years in Congress, and I won’t pretend they were easy ones.
 When I announced last fall that I would not seek reelection, I wrote about the incivility and plain nastiness that are now common in our politics, and about a Congress that too often rewards ego and division over patience and determination.
 I stand by all of it.
 But there is another side to the story, and before I leave office I want to tell it.
 This is how I’ve worked well with Rep.
-Mike Lawler
-It starts with lobster.
+Mike Lawler It starts with lobster.
 For decades, federal regulators have piled rules onto Maine’s lobstermen in the name of protecting the North Atlantic right whale.
 Our fishermen did their part and then some.
 They replaced 27,000 miles of floating groundline with sinking line.
@@ -41,8 +37,7 @@ The nonpartisan Lugar Center rated Lawler the fourth most bipartisan member of t
 The Center for Effective Lawmaking named him the most effective freshman lawmaker in the country.
 This summer, Bridge Gradesscored him 99.2 out of 100, the best mark in New York’s delegation.
 Behind those numbers is a simple habit: he would rather pass a bill with the other party than score a point against it.
-I know how bipartisan Mike Lawler really is
-I know something about what that takes.
+I know how bipartisan Mike Lawler really is I know something about what that takes.
 I held the most challenging district of any Democrat in the country by earning the trust of Democrats, independents, and Republicans alike.
 Lawler holds one of just three Republican seats in the country that Kamala Harris carried in 2024.
 Representing districts like ours forces you to work for people who disagree with you, and it teaches you that those people are not your enemies.
@@ -63,3 +58,5 @@ Maine’s lobstermen can tell you how much it matters.
 Jared Golden represents Maine’s 2nd Congressional District in the U.S.
 House of Representatives.
 He is a Marine Corps veteran of the wars in Iraq and Afghanistan.
+Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Privacy Policy | Terms & Conditions | Accessibility Statement

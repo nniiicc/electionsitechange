@@ -1,7 +1,4 @@
-About Wes Virdell
-Meet Wes Virdell
-For Texas HD53
-Wes is endorsed by President Donald Trump, Senator Ted Cruz, Congressman Chip Roy, Attorney General Ken Paxton, Governor Greg Abbott, Lt Gov Dan Patrick, and Ag Commissioner Sid Miller.
+Home About Legislative Priorities Endorsements Gallery Contact Select Page About Wes Virdell Meet Wes Virdell For Texas HD53 Wes is endorsed by President Donald Trump, Senator Ted Cruz, Congressman Chip Roy, Attorney General Ken Paxton, Governor Greg Abbott, Lt Gov Dan Patrick, and Ag Commissioner Sid Miller.
 He is also endorsed by several former and current State Representatives and local leaders to include County Commissioners and members of Law Enforcement.
 Wes is currently the State Representative - elect for HD53 and has been attending the Texas Capitol for 12 years fighting for gun rights and other conservative values.
 He helped to pass Constitutional Carry in 2021.
@@ -27,11 +24,6 @@ He was later selected as a 2020 and 2022 State Delegate for the Republican Party
 Wes Virdell is a workhorse and an unapologetic conservative.
 He is committed to preserving our freedom and he will firmly oppose anyone seeking to undermine our way of life.
 You can count on Wes to stand up for you in the Texas Capitol and anywhere else it is needed.
-Wes fights for you, not
-corrupt Austin lobbyists or
-big-city interests
-Your donation today of any amount helps Wes get the word out to voters.
-P.O.
-Box 147
-Brady, TX 76825
-(757) 828-3737
+Wes fights for you, not corrupt Austin lobbyists or big-city interests Your donation today of any amount helps Wes get the word out to voters. $# $# $# $# $1000 Other Donate Today Thank you for your support!
+First Name Last Name Email Stand with Wes P.O.
+Box 147 Brady, TX 76825 (757) 828-3737 liberty@virdellfortexas.com Donate Today Political Ad Paid for by Wesley Virdell

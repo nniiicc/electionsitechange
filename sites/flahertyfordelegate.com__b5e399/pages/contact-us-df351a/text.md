@@ -1,9 +1,2 @@
-You can send us an email at: flahertyfordelegate@gmail.com
-Flaherty for Delegate
-P.O.
-Box 1881
-Hagerstown, MD 21742
-OR
-Please use the contact form below:
-Contact Us
-Send
+Home About Sean Issues Donate Contact Us News Flaherty for Delegate - Contact Us You can send us an email at: flahertyfordelegate@gmail.com Flaherty for Delegate P.O.
+Box 1881 Hagerstown, MD 21742 OR Please use the contact form below: Contact Us First name* Last name* Email address* Phone number* Message* Send Authority of Flaherty for Delegate, Marc Mignogna,Treasurer Authority of Flaherty for Delegate, Marc Mignogna,Treasurer Close modal Home About Sean Issues Donate Contact Us News Close modal Home About Sean Issues Donate Contact Us News

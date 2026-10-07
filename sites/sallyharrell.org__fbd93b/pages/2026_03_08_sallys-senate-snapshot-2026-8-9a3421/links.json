@@ -1,27 +1,146 @@
 [
-"http://bentoncreative.com/",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fsallyharrell.org%2F2026%2F03%2F08%2Fsallys-senate-snapshot-2026-8%2F",
-"https://facebook.com/sallyharrellga",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fsallyharrell.org%2F2026%2F03%2F08%2Fsallys-senate-snapshot-2026-8%2F&t=Sally%E2%80%99s+Senate+Snapshot+2026+%238",
-"https://sallyharrell.org/",
-"https://sallyharrell.org/2020-endorsements",
-"https://sallyharrell.org/2022-endorsements",
-"https://sallyharrell.org/2024-endorsements",
-"https://sallyharrell.org/2026/03/01/sallys-senate-snapshot-2027-7",
-"https://sallyharrell.org/2026/03/08/sallys-senate-snapshot-2026-8",
-"https://sallyharrell.org/2026/03/15/sallys-senate-snapshot-2026-9",
-"https://sallyharrell.org/about-sally",
-"https://sallyharrell.org/author/jharrell26",
-"https://sallyharrell.org/category/news",
-"https://sallyharrell.org/contact",
-"https://sallyharrell.org/events",
-"https://sallyharrell.org/newsletters",
-"https://sallyharrell.org/priorities",
-"https://sallyharrell.org/priorities/2018-endorsements",
-"https://sallyharrell.org/volunteer",
-"https://sallyharrell.org/vote",
-"https://sallyharrell.org/yardsign",
-"https://secure.actblue.com/contribute/page/sallyharrell-sd40",
-"https://twitter.com/sallyharrellga",
-"https://twitter.com/share?text=Sally%E2%80%99s+Senate+Snapshot+2026+%238&url=https%3A%2F%2Fsallyharrell.org%2F%3Fp%3D5649"
+{
+"text": "2018 Endorsements",
+"href": "https://sallyharrell.org/priorities/2018-endorsements"
+},
+{
+"text": "2020 Endorsements",
+"href": "https://sallyharrell.org/2020-endorsements/"
+},
+{
+"text": "2022 Endorsements",
+"href": "https://sallyharrell.org/2022-endorsements/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://sallyharrell.org/2024-endorsements/"
+},
+{
+"text": "About Sally",
+"href": "https://sallyharrell.org/about-sally/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Contact",
+"href": "https://sallyharrell.org/contact/"
+},
+{
+"text": "Criminal Justice & Police Reform",
+"href": "https://sallyharrell.org/priorities/#criminal-justice"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-sd40"
+},
+{
+"text": "Education",
+"href": "https://sallyharrell.org/priorities/#education"
+},
+{
+"text": "Environment",
+"href": "https://sallyharrell.org/priorities/#environment"
+},
+{
+"text": "Events",
+"href": "https://sallyharrell.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sallyharrellga/"
+},
+{
+"text": "Healthcare",
+"href": "https://sallyharrell.org/priorities/#healthcare"
+},
+{
+"text": "Mail",
+"href": "mailto:sally@sallyharrell.org"
+},
+{
+"text": "News",
+"href": "https://sallyharrell.org/category/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Newsletters",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Other Issues",
+"href": "https://sallyharrell.org/priorities/#other-issues"
+},
+{
+"text": "Priorities",
+"href": "https://sallyharrell.org/priorities/"
+},
+{
+"text": "Sally Harrell",
+"href": "https://sallyharrell.org/author/jharrell26/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #7",
+"href": "https://sallyharrell.org/2026/03/01/sallys-senate-snapshot-2027-7/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #8",
+"href": "https://sallyharrell.org/2026/03/08/sallys-senate-snapshot-2026-8/"
+},
+{
+"text": "Sally’s Senate Snapshot 2026 #9",
+"href": "https://sallyharrell.org/2026/03/15/sallys-senate-snapshot-2026-9/"
+},
+{
+"text": "Share by Mail",
+"href": "mailto:?subject=Sally%E2%80%99s+Senate+Snapshot+2026+#8&body=https://sallyharrell.org/2026/03/08/sallys-senate-snapshot-2026-8/"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsallyharrell.org%2F2026%2F03%2F08%2Fsallys-senate-snapshot-2026-8%2F&t=Sally%E2%80%99s+Senate+Snapshot+2026+%238"
+},
+{
+"text": "Share on Twitter",
+"href": "https://twitter.com/share?text=Sally%E2%80%99s+Senate+Snapshot+2026+%238&url=https%3A%2F%2Fsallyharrell.org%2F%3Fp%3D5649"
+},
+{
+"text": "Share on WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fsallyharrell.org%2F2026%2F03%2F08%2Fsallys-senate-snapshot-2026-8%2F"
+},
+{
+"text": "Transportation",
+"href": "https://sallyharrell.org/priorities/#transportation"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/sallyharrellga"
+},
+{
+"text": "Volunteer",
+"href": "https://sallyharrell.org/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://sallyharrell.org/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://sallyharrell.org/vote/"
+},
+{
+"text": "Yard Sign",
+"href": "https://sallyharrell.org/yardsign"
+},
+{
+"text": "Yard Sign",
+"href": "https://sallyharrell.org/yardsign/"
+},
+{
+"text": "[image: Elect Sally Harrell]",
+"href": "https://sallyharrell.org/"
+}
 ]

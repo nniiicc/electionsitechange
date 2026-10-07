@@ -1,6 +1,8 @@
-Councilmember Julie Palakovich Carr authored a resolution celebrating Rockville's diversity.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute News Julie Palakovich Carr November 15, 2016 News City Council Passes Resolution on Diversity Julie Palakovich Carr November 15, 2016 News Councilmember Julie Palakovich Carr authored a resolution celebrating Rockville's diversity.
 The resolution was adopted at the November 14, 2016 Mayor and Council meeting.
-An excerpt of the resolution follows:
-Whereas, all Americans—regardless of gender, ethnicity, ancestry, religion, sexual orientation, gender identity or expression, and disability—deserve equal protection under the law;
-Now, therefore the Mayor and Council of Rockville hereby recognize and celebrate our city’s vibrant diversity and call upon elected officials at all levels of government to recognize that our nation is stronger because of this diversity and call upon them to strive for policies and laws that promote equality and inclusion.
-http://www.rockvilleview.com/mayor-and-council-take-strong-action-for-inclusion/
+An excerpt of the resolution follows: Whereas, all Americans—regardless of gender, ethnicity, ancestry, religion, sexual orientation, gender identity or expression, and disability—deserve equal protection under the law; Now, therefore the Mayor and Council of Rockville hereby recognize and celebrate our city’s vibrant diversity and call upon elected officials at all levels of government to recognize that our nation is stronger because of this diversity and call upon them to strive for policies and laws that promote equality and inclusion. http://www.rockvilleview.com/mayor-and-council-take-strong-action-for-inclusion/ Julie Palakovich Carr October 6, 2016 News Julie Recognized as Leading Woman in Maryland Julie Palakovich Carr October 6, 2016 News The Annapolis Daily Record recognized Julie Palakovich Carr as one of its 2016 Leading Women.
+“The Daily Record’s 2016 Leading Women are truly inspirational.
+Their professional accomplishments, community involvement and commitment to inspiring change exemplifies why they are being singled out for this statewide award,” said Suzanne Fischer-Huettner, publisher of The Daily Record.
+“They excel to high levels professionally and personally, and The Daily Record congratulates them on this award.” http://thedailyrecord.com/2016/10/06/the-daily-record-announces-its-2016-leading-women/ Newer Posts Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

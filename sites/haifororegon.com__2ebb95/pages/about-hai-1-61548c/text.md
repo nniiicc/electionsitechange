@@ -1,7 +1,5 @@
-About Dr.
-Hai Pham
-Malaysian Refugee Camp, 1980
-Today, my wife Natalie and our two children live in Hillsboro.
+0 Skip to Content Hai for Oregon Home About Hai Priorities Endorsements Community Involvement Donate Open Menu Close Menu Hai for Oregon Home About Hai Priorities Endorsements Community Involvement Donate Open Menu Close Menu Home About Hai Priorities Endorsements Community Involvement Donate About Dr.
+Hai Pham Malaysian Refugee Camp, 1980 Today, my wife Natalie and our two children live in Hillsboro.
 But, my story dates back to 1980 when I came to the U.S. with my family as a one-year-old refugee from Vietnam.
 My parents, pregnant with me, escaped on a boat into the open ocean, not knowing if they were going to survive the journey.
 While at sea the boat was robbed by pirates on several different occasions.
@@ -14,13 +12,8 @@ This experience furthered my passion for health system reforms, as I struggled t
 My life experience has helped shape me as a person and a healthcare provider.
 In 2010 I opened Hi 5 Dental Dentistry for Kids, to provide care for the underserved children of Washington County.
 Since then, I have expanded the practice and now serve children from all around the state.
-I have also have dedicated my life towards humanitarian volunteer work as well as serving on many boards and committees including:
-- Governor’s Children Cabinet, Cabinet member
-- Randall Children’s Hospital, Department Chair
-- Workforce & Talent Development Board, member
-- Opioid Settlement Prevention, Treatment and Recovery Board, member
-- Oregon Board of Dentistry, Former Board member
-America has been great to my family.
+I have also have dedicated my life towards humanitarian volunteer work as well as serving on many boards and committees including: Governor’s Children Cabinet, Cabinet member Randall Children’s Hospital, Department Chair Workforce & Talent Development Board, member Opioid Settlement Prevention, Treatment and Recovery Board, member Oregon Board of Dentistry, Former Board member America has been great to my family.
 I love this country and I believe that we can work together so that the door for opportunity can be open to everyone.
 I will bring my experience as a business owner, healthcare provider, my volunteer work, and being a life-long humanitarian to serve the people of House District 36.
 I am honored and humbled to serve as your State Representative.
+Let’s get to work Make A Donation Today Contact Us hai@haifororegon.com Paid for by Friends of Hai Pham - 21727 https://haifororegon.com/ Quick Links About Hai Policy Priorities ﻿ Community Involvement Endorsements Contact Us

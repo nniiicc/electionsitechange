@@ -1,15 +1,6 @@
-INTERFAITH PRAISE SERVICE & PASTORAL BREAKFAST
-Interfaith Praise Service
-A Morning of Unity, Worship & Community
-As we honor Juneteenth, we gather in faith and unity.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Back to All Events INTERFAITH PRAISE SERVICE & PASTORAL BREAKFAST Friday, June 19, 2026 9:00 AM 12:00 PM Monroe Memorial Church 1901 Belle Street Alton, IL, 62002 United States (map) Google Calendar ICS INTERFAITH PRAISE SERVICE & PASTORAL BREAKFAST Interfaith Praise Service A Morning of Unity, Worship & Community As we honor Juneteenth, we gather in faith and unity.
 Join us for a meaningful morning of worship, reflection, and fellowship at our Interfaith Praise Service, bringing together faith leaders and community members from across Illinois House District 111.
-Friday, June 19, 2026 (Juneteenth)
-Interfaith Praise Service begins at 9:00 AM (open to all)
-Pastoral Breakfast immediately following (pastors only)
-Monroe Memorial Church 1901 Belle Street, Alton, IL 62002
-“How good and pleasant it is when God’s people live together in unity.” — Psalm 133:1
-This gathering is centered on unity, gratitude, and shared responsibility, honoring the vital role faith communities play in guiding, supporting, and strengthening our neighborhoods.
+Friday, June 19, 2026 (Juneteenth) Interfaith Praise Service begins at 9:00 AM (open to all) Pastoral Breakfast immediately following (pastors only) Monroe Memorial Church 1901 Belle Street, Alton, IL 62002 “How good and pleasant it is when God’s people live together in unity.” — Psalm 133:1 This gathering is centered on unity, gratitude, and shared responsibility, honoring the vital role faith communities play in guiding, supporting, and strengthening our neighborhoods.
 Pastors are invited to remain after worship for a private Pastoral Breakfast, offering dedicated time for fellowship, reflection, and conversation among faith leaders.
-Register here: forms.gle/Tf16AkJt2AFD1X9N7
-Donate here: secure.actblue.com/donate/friendsofrosettabrown
-We look forward to gathering together in praise and fellowship centered on unity, gratitude, and shared responsibility, honoring the vital role faith communities play in guiding, supporting, and strengthening our neighborhoods.
+Register here: forms.gle/Tf16AkJt2AFD1X9N7 Donate here: secure.actblue.com/donate/friendsofrosettabrown We look forward to gathering together in praise and fellowship centered on unity, gratitude, and shared responsibility, honoring the vital role faith communities play in guiding, supporting, and strengthening our neighborhoods.
+#Juneteenth #InterfaithPraise #FaithAndCommunity #UnityInFaith #FaithAndFreedom #District111 #AltonIL #PastoralFellowship Previous Previous June 11 Union Strong - Post - Blitz to the Primaries Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

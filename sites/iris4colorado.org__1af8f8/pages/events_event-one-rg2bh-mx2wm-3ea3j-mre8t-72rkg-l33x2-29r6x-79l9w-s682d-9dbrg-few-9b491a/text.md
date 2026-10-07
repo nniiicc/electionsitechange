@@ -1,14 +1,5 @@
-Back to All Events
-Help Flip HD6 Progressive and Defeat Dark Money Canvass
-Joint Canvass with Iris Halpern for HD6 and Melat Kiros for CD1
-Launch 5-6 pm Canvass 5-8 pm
-Capitol Hill Location Launch
-RSVP by email for address: Iris.halpern@iris4colorado.com
-Get Out The Vote - 24 hours to go!
-Previous
-Previous
-June 28
-Pride Weekend Canvass HD6 for Iris - Congress Park/Cheesman Park/Capitol Hill Neighborhoods
-Next
-Next
-June 30
+0 Skip to Content Home About Iris in the Press Endorsements Volunteer DONATE Open Menu Close Menu DONATE Home About Iris in the Press Endorsements Volunteer Open Menu Close Menu Home About Iris in the Press Endorsements Volunteer DONATE Back to All Events Help Flip HD6 Progressive and Defeat Dark Money Canvass Joint Canvass with Iris Halpern for HD6 and Melat Kiros for CD1 Launch 5-6 pm Canvass 5-8 pm Capitol Hill Location Launch Monday, June 29, 2026 5:00 PM 8:00 PM RSVP by email for address: iris.halpern@iris4colorado.com (map) Google Calendar ICS Help Flip HD6 Progressive and Defeat Dark Money Canvass Joint Canvass with Iris Halpern for HD6 and Melat Kiros for CD1 Launch 5-6 pm Canvass 5-8 pm Capitol Hill Location Launch RSVP by email for address: Iris.halpern@iris4colorado.com Get Out The Vote - # hours to go!
+Previous Previous June 28 Pride Weekend Canvass HD6 for Iris - Congress Park/Cheesman Park/Capitol Hill Neighborhoods Next Next June 30 Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S.
+Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods Paid for by Iris4Colorado.
+Registered Agent Iris Halpern.
+Phone: (303) 351-1162 PO Box 6071 Denver, CO 80206 Iris.halpern@iris4colorado.com PRIVACY POLICY TERMS & CONDITIONS

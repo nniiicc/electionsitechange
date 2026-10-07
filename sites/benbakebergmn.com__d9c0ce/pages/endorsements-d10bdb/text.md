@@ -1,12 +1,1 @@
-Home
-Meet Ben
-Priorities
-Endorsements
-Photos
-Events
-Volunteer
-Donate
-Endorsements and Awards
-2026
-Endorsements
-2024
+Home Meet Ben Priorities Endorsements Photos Events Volunteer Donate Endorsements and Awards 2026 Endorsements 2024 Follow Follow Follow Contact | Bills | Articles | Voting | Privacy Policy Prepared and Paid for by Bakeberg MN Committee | PO Box 145, Jordan, MN 55352

@@ -1,11 +1,9 @@
-KAREN BURNETT-KURIE'S PRIORITIES
-While she has been a lifelong independent, Karen Burnett-Kurie is running as a Democrat with the goal of bringing balance to Ossipee, Tuftonboro, and Wolfeboro’s representation in Concord.
-AFFORDABILITY
-HOUSING
-Housing is essential to everyone - individuals, families, seniors, communities and businesses.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+KAREN BURNETT-KURIE'S PRIORITIES While she has been a lifelong independent, Karen Burnett-Kurie is running as a Democrat with the goal of bringing balance to Ossipee, Tuftonboro, and Wolfeboro’s representation in Concord.​ ​ ​ AFFORDABILITY HOUSING Housing is essential to everyone - individuals, families, seniors, communities and businesses.
 And yet two out of three of our communities in District 7 (Wolfeboro and Ossipee) have lost housing stock in the last 15 years.
 This while the mean house price has increased substantially.
-NH ranks 42nd in housing affordability. 40 to 50% of young adults are living with their parents (national average is 30%).
+NH ranks 42nd in housing affordability.
+40 to 50% of young adults are living with their parents (national average is 30%).
 The average age of a first time home buyer is now 40 years+.
 This issue is reshaping who lives in New Hampshire.
 We are losing young adults and young families to other states.
@@ -31,8 +29,7 @@ In order to provide necessary state funding I would eliminate any program establ
 The funds used for this/these programs would be redirected to these investments.
 Additional funding would come from a tax on large trust funds invested in New Hampshire or a capital gains tax.
 If we can tax unrealized gains on a house, a basic necessity, it is not unreasonable to tax capital gains.
-CHILDCARE
-SCHOLARSHIPS It can easily cost $30,000 per year to have two children in day care in New Hampshire.
+CHILDCARE SCHOLARSHIPS It can easily cost $30,000 per year to have two children in day care in New Hampshire.
 This is a heavy burden for low and modest income families.
 For them, NH’s Child Care Scholarship Program (NH CCSP) is essential.
 It means, for eligible families, they pay no more than 7% of their gross income on child care.
@@ -58,8 +55,7 @@ There are many innovative ways New Hampshire can increase its childcare capacity
 Some apprentice programs, partnerships, college credit collaborations and parent coops are already being tested.
 In order to foster these and other innovations, I propose two of the previous cuts to the BPT be reinstated with the revenue produced dedicated to the building and maintaining childcare capacity in the state.
 This would provide ongoing funding for sustained impact and would support the workforce NH businesses require.
-HEALTHCARE
-MEDICAID Starting later this year, a NH single Mom making $60,000 per year will be charged $270 per month for Medicaid healthcare for herself and her children.
+HEALTHCARE MEDICAID Starting later this year, a NH single Mom making $60,000 per year will be charged $270 per month for Medicaid healthcare for herself and her children.
 This is an untenable charge and will too often mean the entire family will be without healthcare.
 The whole point of Medicaid is to address the lack of healthcare for low income families.
 The impact of the loss of Medicaid will be higher costs for all of us because of the increases in the uninsured population.
@@ -85,8 +81,7 @@ In order to fund the state’s contribution for Medicaid, NH instituted a tax on
 This originally was matched by federal dollars.
 However, the federal government has now dictated that this tax must decline by ½% per year which will result in one billion less in state funding for Medicaid unless NH alters its funding strategy.
 NH needs to establish a more sustainable method of paying its share of healthcare for low income children, the disabled, and seniors, as well as keeping rural hospitals afloat.
-MINIMUM WAGE
-NH needs to raise the minimum wage to a rate comparable to our neighboring states.
+MINIMUM WAGE NH needs to raise the minimum wage to a rate comparable to our neighboring states.
 It is detrimental to our economy and businesses to be known as the only state in New England to have such a low minimum wage.
 This may be seen as symbolic to many, since most jobs in NH pay above minimum wage.
 But it sends a critical message to young people and it is those young people who our Granite State businesses need to attract and retain as employees.
@@ -94,9 +89,7 @@ These young people need to know they are valued.
 It will take a constitutional amendment to raise our minimum wage.
 Yet, it is worth it for our state’s workforce and economy.
 Making sure all NH Residents can afford to call the Granite State home.
-FAIR TAXATION
-PROPERTY TAXES
-Relying on property taxes for 63% of all state and local revenue is not a sound or sustainable tax policy.
+FAIR TAXATION PROPERTY TAXES Relying on property taxes for 63% of all state and local revenue is not a sound or sustainable tax policy.
 And increasingly, it is undermining the very New Hampshire advantage we’re trying to protect.
 For too many Granite Staters, especially seniors and young families, high property taxes are making it harder to stay in the homes they love or buy a home in the first place.
 It’s time to stop pretending that New Hampshire’s property-tax burden is the price we have to pay for being a low-tax state.
@@ -129,13 +122,10 @@ They need to be funded separately or eliminated. c.
 Legalize marijuana and sell it through our NH Liquor Stores, with profits going to the Education Trust Fund.
 Rather than avoiding, denying and fighting against this constitutional obligation the state needs to step up and pay its fair share.
 It needs to rip off the bandaid.
-THE STATE MUST MEET ITS COMMITMENTS
-Between 2015 and 2025 the NH Municipal Association calculates $3 billion in costs have shifted from the state to local property taxes.
+THE STATE MUST MEET ITS COMMITMENTS Between 2015 and 2025 the NH Municipal Association calculates $3 billion in costs have shifted from the state to local property taxes.
 As well the Legislature has cut tax rates which has reduced the funds shared with towns e.g. room and meals tax.
 That’s a double hit for municipalities.
-The state needs to meet its commitments and pay its share of: * retirement system for teachers, firefighters and police. * bridges and * water and sewer infrastructure projects
-LOW TAX BURDEN
-There are low tax burden states which have a lower burden than NH.
+The state needs to meet its commitments and pay its share of: * retirement system for teachers, firefighters and police. * bridges and * water and sewer infrastructure projects LOW TAX BURDEN There are low tax burden states which have a lower burden than NH.
 They are able to adequately fund their programs and services, including state funding for public education, at a higher level than the Granite State.
 And none of them depend on one funding source for 63% of all revenue statewide like NH does using property taxes.
 We need to examine these other state models and determine what we can adopt in order to make a fairer and more sustainable tax system.
@@ -149,9 +139,7 @@ After all, policies passed on narrow partisan margins rarely endure.
 If built on broad public consensus they are substantively more durable.
 Our Legislature needs to return to bipartisanship and actually represent the people rather than focusing on ideology.
 NH Residents deserve reasonable taxes used to better their lives.
-PROTECT & IMPROVE PUBLIC EDUCATION
-EDUCATION FUNDING
-Did you know, last year NH spent more on EFA vouchers than on Special Education Aid?
+PROTECT & IMPROVE PUBLIC EDUCATION EDUCATION FUNDING Did you know, last year NH spent more on EFA vouchers than on Special Education Aid?
 Did you know, local property taxpayers pay for 90% of all special education costs and 70% of all public education costs?
 Did you know, EFA spending was higher than the amount budgeted every year since EFAs were created?
 And 90% of the recipients have never attended public school.
@@ -163,8 +151,7 @@ I’m just trying to imagine going to a local school board meeting and hearing t
 The very idea is insane.
 Minimally we need guardrails for EFAs, if we don’t eliminate them all together.
 And if EFAs are continued they need to be funded through a defined alternative revenue source – not the funds that are intended for adequate funding of traditional public schools.
-HB 1300
-House Bill 1300 was signed into law in July 2026 and requires a question to appear in the November 2026 general election in all towns and city wards across New Hampshire.
+HB 1300 House Bill 1300 was signed into law in July 2026 and requires a question to appear in the November 2026 general election in all towns and city wards across New Hampshire.
 It concerns the growth of the local property-tax levy used to support school districts, together with a separate limit on school administrative-unit central-office spending.
 This is NOT a cap on your entire property-tax bill.
 It is not a promise that your individual tax bill cannot or will not rise beyond a certain percentage.
@@ -190,8 +177,7 @@ An issue for many is this law/requirement is an example of the state intruding i
 By requiring this question be on the ballot, using language which is confusing and the state provides no guidance on, and specifying a threshold (6%) which has no known basis – the state is overstepping its role in local decisions.
 The state needs to respect local control and respect the decisions made by local voters.
 It is continuously ironic when the Legislature complains about the decisions made by the people who elected them; and works to force their methodologies on us, rather than addressing them themselves.
-DEFINING ADEQUATE EDUCATION
-Everything Concord and Washington requires schools to do should be included in the definition of an adequate education.
+DEFINING ADEQUATE EDUCATION Everything Concord and Washington requires schools to do should be included in the definition of an adequate education.
 This means, if an entity requires transportation of students, then transportation is part of the cost of an adequate education.
 If Washington requires schools to provide special education services then all costs associated with this requirement should be included in the definition of an adequate education.
 If Concord requires traditional public schools to provide services to charter schools, then this is part of the cost of an adequate education.
@@ -202,39 +188,36 @@ Defining an adequate education absolutely should not be used by the Legislature 
 The NH Legislature, utilizing a mediator and engaging various stakeholders, needs to commit to a comprehensive definition of an adequate education and its resulting financial obligations.
 They then need to commit to this definition/calculation for at least ten years in order to provide some stability to the funding system.
 All NH students deserve an adequate education to prepare for a successful future.
-PRESERVING WATER QUALITY & NATURAL RESOURCES
-WATER QUALITY
-The State of Our Lake Report from August 2026, by the Lake Winnipesaukee Alliance, indicates water quality trend lines are going in the wrong direction.
+PRESERVING WATER QUALITY & NATURAL RESOURCES WATER QUALITY The State of Our Lake Report from August 2026, by the Lake Winnipesaukee Alliance, indicates water quality trend lines are going in the wrong direction.
 Water clarity is declining, phosphorus is increasing, cyanobacteria abundance is increasing and invasive species are adversely impacting our lakes.
 We know what needs to be done: manage stormwater runoff, address faulty septic systems, limit road salt use, reduce use of fertilizers with phosphorus.
-CYANOBACTERIA
-Cyanobacteria monitoring, notifications and mitigation should be funded by an excise tax on fertilizers with phosphorus, fines for landowners who do not repair/replace faulty septic systems, and/or disturbances of shoreline property in ways contrary to existing laws.
-NATURAL RESOURCES & ENERGY
-New Hampshire has high energy costs.
+CYANOBACTERIA Cyanobacteria monitoring, notifications and mitigation should be funded by an excise tax on fertilizers with phosphorus, fines for landowners who do not repair/replace faulty septic systems, and/or disturbances of shoreline property in ways contrary to existing laws.
+NATURAL RESOURCES & ENERGY New Hampshire has high energy costs.
 Renewable energy sources are a viable option and have become cost effective.
 There are entire countries who have reduced their dependence on oil and gas by 90%.
 We need to reinstate initiatives which encouraged and supported investments in these renewable energy sources.
 We must protect the Granite State for NH Residents of today and the next generations.
-RESPECT RIGHTS AND LOCAL CONTROL
-Democracy requires citizens to engage, participate, volunteer and lead.
+RESPECT RIGHTS AND LOCAL CONTROL Democracy requires citizens to engage, participate, volunteer and lead.
 Granite Staters all need to decide our state’s future.
 We have been our version of a ‘free state’ for centuries, with values which extend well beyond liberty and freedom.
 Granite Staters understand the role of the majority in decision making, but also respect the needs, viewpoints and contributions of the minority.
 We do not want to become someone else’s Free State.
 We want to continue being the more relaxed, gentle and welcoming free state we’ve always been.
-VOTING RIGHTS
-NH has a tradition of fair, secure, transparent elections.
+VOTING RIGHTS NH has a tradition of fair, secure, transparent elections.
 However, we are moving toward being a more difficult place to vote; with one of the most expensive states to vote in.
 We don’t allow online registration, or registration at the DMV and offer only minimal voting by mail.
 Realizing the frequency of voter fraud is .000845% according to the Heritage Foundation it is unnecessary for NH to be instituting citizenship requirements plus other hurdles for voter registration.
 Review by experts found only 47 instances of wrongful voting – out of around 8.3 million ballots - between 1998 to 2024, in NH.
-At most 8 of those involved a non-citizens voting. 8 over 26 years!
+At most 8 of those involved a non-citizens voting.
+8 over 26 years!
 The Legislature needs to focus on the real issues in our state.
-LOCAL CONTROL
-NH is the 18th most regulated state in the country according to the Josiah Bartlett Center.
+LOCAL CONTROL NH is the 18th most regulated state in the country according to the Josiah Bartlett Center.
 It is more regulated than all other New England states except Massachusetts.
 Yet, Granite Staters value their local control.
 Up until the last ten or so years the state has respected this value.
 The state has been intruding into local control more and more over the last decade.
 Most Granite Staters are against ‘big brother’ telling us how to do business.
 The state needs to respect NH’s commitment to local control.
+Help Karen Burnett-Kurie bring balance to District 7 by supporting her today!
+DONATE Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

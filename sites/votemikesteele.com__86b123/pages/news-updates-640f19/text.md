@@ -1,20 +1,7 @@
-What the Public Record Shows
-News Article
-What the Public Record Shows
-The following summary is based entirely on official Washington State legislative, agency and budget documents.
+Facebook Mail Home Connect Volunteer Priorities Endorsements About Mike News & Updates Connect Menu Menu What the Public Record Shows News Article What the Public Record Shows The following summary is based entirely on official Washington State legislative, agency and budget documents.
 Each source is linked so readers can review the record directly.
-HB 2625
-A campaign mailer characterizes…
-Mike Steele Announces Re-Election Campaign for Washington’s 12th Legislative District
-Press Release
-Mike Steele has officially announced his campaign for re-election to the Washington State House of Representatives, continuing his commitment to pragmatic leadership, bipartisan collaboration, and delivering meaningful results for communities…
-State Rep.
-Mike Steele seeks another term in 12th Legislative District
-News Article
-CHELAN — State Rep.
-Mike Steele announced Wednesday, May 6 that he will seek re-election to the Washington House of Representatives, launching a campaign focused on... read more
-PRESS RELEASE: Mike Steele Announces Re-Election Campaign
-Press Release
-FOR IMMEDIATE RELEASE
-Mike Steele Announces Re-Election Campaign for Washington’s 12th Legislative District
-CHELAN, WA (May 6, 2026) — Mike Steele has officially announced his campaign for re-election to the Washington State House…
+HB 2625 A campaign mailer characterizes… July 27, 2026 https://www.votemikesteele.com/wp-content/uploads/2026/05/mike-microphone-e1785258232236.jpg 700 1365 Mike Steele http://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.png Mike Steele 2026-07-27 16:10:42 2026-07-28 17:04:02 What the Public Record Shows Mike Steele Announces Re-Election Campaign for Washington’s 12th Legislative District Press Release Mike Steele has officially announced his campaign for re-election to the Washington State House of Representatives, continuing his commitment to pragmatic leadership, bipartisan collaboration, and delivering meaningful results for communities… May 7, 2026 https://www.votemikesteele.com/wp-content/uploads/2026/05/Rep_Mike-Steele.jpg 750 1000 Mike Steele http://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.png Mike Steele 2026-05-07 22:16:42 2026-05-18 22:24:09 Mike Steele Announces Re-Election Campaign for Washington’s 12th Legislative District State Rep.
+Mike Steele seeks another term in 12th Legislative District News Article CHELAN — State Rep.
+Mike Steele announced Wednesday, May 6 that he will seek re-election to the Washington House of Representatives, launching a campaign focused on... read more May 6, 2026 https://www.votemikesteele.com/wp-content/uploads/2026/05/Rep-Steele_Mike-2025_900x1200-e1785258702425.jpg 992 900 Mike Steele http://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.png Mike Steele 2026-05-06 22:18:52 2026-07-28 17:11:47 State Rep.
+Mike Steele seeks another term in 12th Legislative District PRESS RELEASE: Mike Steele Announces Re-Election Campaign Press Release FOR IMMEDIATE RELEASE Mike Steele Announces Re-Election Campaign for Washington’s 12th Legislative District CHELAN, WA (May 6, 2026) — Mike Steele has officially announced his campaign for re-election to the Washington State House… May 6, 2026 https://www.votemikesteele.com/wp-content/uploads/2026/05/680fb97ea5348.image_.jpg 683 1024 Mike Steele http://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.png Mike Steele 2026-05-06 18:57:23 2026-07-28 17:11:23 PRESS RELEASE: Mike Steele Announces Re-Election Campaign Pages About Mike Connect Endorsements Home News & Updates Priorities Volunteer Categories News Article Press Release Archive July 2026 May 2026 Connect with Mike Steele Citizens to Elect Mike Steele P.O.
+Box 1072 Chelan, WA 98816 Learn More Priorities Endorsements About Mike News & Updates Connect Paid for by Citizens to Elect Mike Steele (R) State Representative Priorities Endorsements About Mike News & Updates Connect Scroll to top

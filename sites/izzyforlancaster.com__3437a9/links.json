@@ -1,14 +1,66 @@
 [
-"http://eepurl.com/hMDZMr",
-"https://facebook.com/izzyforlancaster",
-"https://instagram.com/IzzyforLancaster",
-"https://izzyforlancaster.com/",
-"https://izzyforlancaster.com/endorsements",
-"https://izzyforlancaster.com/issues",
-"https://izzyforlancaster.com/meet-izzy",
-"https://izzyforlancaster.com/pagina-principal",
-"https://izzyforlancaster.com/press",
-"https://mobilize.us/izzyforlancaster",
-"https://secure.actblue.com/donate/izzyforlancaster",
-"https://twitter.com/Izzy4Lancaster"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/izzyforlancaster"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/izzyforlancaster"
+},
+{
+"text": "Endorsements",
+"href": "https://izzyforlancaster.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/izzyforlancaster"
+},
+{
+"text": "Home",
+"href": "https://izzyforlancaster.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/IzzyforLancaster"
+},
+{
+"text": "Issues",
+"href": "https://izzyforlancaster.com/issues/"
+},
+{
+"text": "Lea en Español",
+"href": "https://izzyforlancaster.com/pagina-principal/"
+},
+{
+"text": "Meet Izzy",
+"href": "https://izzyforlancaster.com/meet-izzy/"
+},
+{
+"text": "Press",
+"href": "https://izzyforlancaster.com/press/"
+},
+{
+"text": "READ MORE",
+"href": "https://izzyforlancaster.com/meet-izzy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Izzy4Lancaster"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/izzyforlancaster/"
+},
+{
+"text": "[image: Izzy For Lancaster]",
+"href": "https://izzyforlancaster.com/"
+},
+{
+"text": "[image]",
+"href": "http://eepurl.com/hMDZMr"
+},
+{
+"text": "info@izzyforlancaster.com",
+"href": "mailto:info@izzyforlancaster.com"
+}
 ]

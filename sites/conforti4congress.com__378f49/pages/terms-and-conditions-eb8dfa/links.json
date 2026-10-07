@@ -1,15 +1,62 @@
 [
-"https://conforti4congress.com/",
-"https://conforti4congress.com/cdn-cgi/l/email-protection",
-"https://conforti4congress.com/contact",
-"https://conforti4congress.com/district6map",
-"https://conforti4congress.com/donate",
-"https://conforti4congress.com/endorsements",
-"https://conforti4congress.com/events",
-"https://conforti4congress.com/issues",
-"https://conforti4congress.com/meet-niki",
-"https://conforti4congress.com/news",
-"https://conforti4congress.com/privacy-policy",
-"https://conforti4congress.com/volunteer",
-"https://generatepress.com/"
+{
+"text": "Contact",
+"href": "https://conforti4congress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://conforti4congress.com/donate"
+},
+{
+"text": "District 6 Map",
+"href": "https://conforti4congress.com/district6map/"
+},
+{
+"text": "Donate",
+"href": "https://conforti4congress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://conforti4congress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://conforti4congress.com/events/"
+},
+{
+"text": "GeneratePress",
+"href": "https://generatepress.com"
+},
+{
+"text": "Home",
+"href": "https://conforti4congress.com/"
+},
+{
+"text": "Issues",
+"href": "https://conforti4congress.com/issues/"
+},
+{
+"text": "Meet Niki",
+"href": "https://conforti4congress.com/meet-niki/"
+},
+{
+"text": "News",
+"href": "https://conforti4congress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://conforti4congress.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://conforti4congress.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:niki@conforti4congress.com"
+},
+{
+"text": "[image: Niki Conforti]",
+"href": "https://conforti4congress.com/"
+}
 ]

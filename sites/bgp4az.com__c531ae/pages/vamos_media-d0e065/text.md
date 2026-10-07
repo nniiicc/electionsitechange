@@ -1,16 +1,10 @@
-Desde la campaña electoral
-MEDIOS
-Mira a Bernadette hablar directamente con los votantes, compartir sus prioridades y hablar sobre los temas que dan forma al 8.° distrito congresional de Arizona.
-VIDEO DESTACADO
-CONOCE LA OPINIÓN DE BERNADETTE
-Actualizaciones de campaña, conversaciones comunitarias, entrevistas y mensajes desde la ruta.
-Desde la campaña electoral
-La gente trabajadora merece una voz fuerte en el congreso
-Bernadette comparte por qué se postula, lo que ha aprendido de toda una vida en las carreteras y cómo planea luchar por las familias trabajadoras en todo Arizona.
-VIDEOTECA
-MIRA LA CAMPAÑA
-Explore discursos, entrevistas, explicaciones de temas, eventos comunitarios y actualizaciones de campaña.
-Prensa y medios
-SOLICITAR UNA ENTREVISTA
-Los miembros de la prensa pueden comunicarse con la campaña para solicitudes de entrevistas, declaraciones, acceso a eventos y material de campaña.
-IMÁGENES DE EVENTOS
+Ir al contenido EL 8.º DISTRITO DE ARIZONA MERECE UNA REPRESENTANTE QUE SEPA LO QUE SIGNIFICA TRABAJAR DURO.
+Acerca de Prioridades Agenda Respaldos Multimedia Multimedia Noticias Recursos Únete Contacto Acerca de Prioridades Agenda Respaldos Multimedia Multimedia Noticias Recursos Únete Contacto Dona Desde la campaña electoral MEDIOS Mira a Bernadette hablar directamente con los votantes, compartir sus prioridades y hablar sobre los temas que dan forma al 8.° distrito congresional de Arizona.
+VIDEO DESTACADO CONOCE LA OPINIÓN DE BERNADETTE Actualizaciones de campaña, conversaciones comunitarias, entrevistas y mensajes desde la ruta.
+Desde la campaña electoral La gente trabajadora merece una voz fuerte en el congreso Bernadette comparte por qué se postula, lo que ha aprendido de toda una vida en las carreteras y cómo planea luchar por las familias trabajadoras en todo Arizona.
+VIDEOTECA MIRA LA CAMPAÑA Explore discursos, entrevistas, explicaciones de temas, eventos comunitarios y actualizaciones de campaña.
+2:54 Actualizaciones de la campaña Voz para Todos Un divertido himno campirano que describe algunos de los temas de la plataforma de Bernadette Greene-Placentia.
+29 de julio de 2026 Video 6:57 Actualizaciones de la campaña Reuniéndose para ganar Bernadette Greene-Placentia es la candidata única en posición de ganar el octavo distrito congresional de Arizona.
+29 de julio de 2026 Video Prensa y medios SOLICITAR UNA ENTREVISTA Los miembros de la prensa pueden comunicarse con la campaña para solicitudes de entrevistas, declaraciones, acceso a eventos y material de campaña.
+COMUNIQUESE CON LA CAMPAÑA IMÁGENES DE EVENTOS EN LA COMUNIDAD Una campaña de la clase trabajadora para el 8.º Distrito Congresional de Arizona.
+Campaña Acerca de Prioridades Agenda Respaldos Recursos PARTICIPA Voluntariado Contáctanos DONA info@bgp4az.com Facebook Instagram X (Twitter) Globo terráqueo LinkedIn YouTube TikTok Autorizado por Bernadette Greene-Placentia Pagado por Bernadette para el Congreso info@bgp4az.com Copyright # | Todos los derechos reservados | Sitio por Stoke Interactive Spanish English

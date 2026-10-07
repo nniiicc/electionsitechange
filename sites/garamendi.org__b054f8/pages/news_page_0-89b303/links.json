@@ -1,40 +1,274 @@
 [
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/congressman-garamendi-files-re-election-californias-8th-congressional-district",
-"https://garamendi.org/news/congressman-john-garamendi-re-elected",
-"https://garamendi.org/news/contra-costa-transportation-authority-gomentum-station-site-visit",
-"https://garamendi.org/news/garamendi-speaks-government-class-pittsburg-high-school",
-"https://garamendi.org/news/garamendi-visits-contra-costa-college",
-"https://garamendi.org/news/meeting-and-tour-workers-contra-costa-regional-medical-center",
-"https://garamendi.org/news/meeting-vallejo-city-leaders-about-future-employment-opportunities",
-"https://garamendi.org/news/roundtable-faith-leaders",
-"https://garamendi.org/news/tour-local-manufacturer-earthquake-protection-systems",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=1",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=2",
-"https://garamendi.org/news?page=3",
-"https://garamendi.org/news?page=4",
-"https://garamendi.org/news?page=5",
-"https://garamendi.org/news?page=6",
-"https://garamendi.org/news?page=7",
-"https://garamendi.org/news?page=8",
-"https://twitter.com/JohnGaramendi",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Congressman Garamendi Files for Re-Election in California’s 8th Congressional District",
+"href": "https://www.garamendi.org/news/congressman-garamendi-files-re-election-californias-8th-congressional-district"
+},
+{
+"text": "Congressman John Garamendi is Re-Elected",
+"href": "https://www.garamendi.org/news/congressman-john-garamendi-re-elected"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contra Costa Transportation Authority Gomentum Station site visit",
+"href": "https://www.garamendi.org/news/contra-costa-transportation-authority-gomentum-station-site-visit"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 1",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "Garamendi speaks to government class at Pittsburg High School",
+"href": "https://www.garamendi.org/news/garamendi-speaks-government-class-pittsburg-high-school"
+},
+{
+"text": "Garamendi visits Contra Costa College",
+"href": "https://www.garamendi.org/news/garamendi-visits-contra-costa-college"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "March 23, 2022",
+"href": "https://www.garamendi.org/news/meeting-vallejo-city-leaders-about-future-employment-opportunities"
+},
+{
+"text": "March 23, 2022",
+"href": "https://www.garamendi.org/news/roundtable-faith-leaders"
+},
+{
+"text": "March 23, 2022",
+"href": "https://www.garamendi.org/news/tour-local-manufacturer-earthquake-protection-systems"
+},
+{
+"text": "March 25, 2022",
+"href": "https://www.garamendi.org/news/contra-costa-transportation-authority-gomentum-station-site-visit"
+},
+{
+"text": "March 25, 2022",
+"href": "https://www.garamendi.org/news/meeting-and-tour-workers-contra-costa-regional-medical-center"
+},
+{
+"text": "May 5, 2022",
+"href": "https://www.garamendi.org/news/garamendi-speaks-government-class-pittsburg-high-school"
+},
+{
+"text": "May 5, 2022",
+"href": "https://www.garamendi.org/news/garamendi-visits-contra-costa-college"
+},
+{
+"text": "Meeting and tour with workers at Contra Costa Regional Medical Center",
+"href": "https://www.garamendi.org/news/meeting-and-tour-workers-contra-costa-regional-medical-center"
+},
+{
+"text": "Meeting with Vallejo City leaders about future employment opportunities",
+"href": "https://www.garamendi.org/news/meeting-vallejo-city-leaders-about-future-employment-opportunities"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/news?page=1"
+},
+{
+"text": "November 13, 2022",
+"href": "https://www.garamendi.org/news/congressman-john-garamendi-re-elected"
+},
+{
+"text": "November 13, 2023",
+"href": "https://www.garamendi.org/news/congressman-garamendi-files-re-election-californias-8th-congressional-district"
+},
+{
+"text": "Page 2",
+"href": "https://www.garamendi.org/news?page=1"
+},
+{
+"text": "Page 3",
+"href": "https://www.garamendi.org/news?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.garamendi.org/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.garamendi.org/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/congressman-garamendi-files-re-election-californias-8th-congressional-district"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/congressman-john-garamendi-re-elected"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/contra-costa-transportation-authority-gomentum-station-site-visit"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-speaks-government-class-pittsburg-high-school"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-visits-contra-costa-college"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/meeting-and-tour-workers-contra-costa-regional-medical-center"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/meeting-vallejo-city-leaders-about-future-employment-opportunities"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/roundtable-faith-leaders"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/tour-local-manufacturer-earthquake-protection-systems"
+},
+{
+"text": "Roundtable with faith leaders",
+"href": "https://www.garamendi.org/news/roundtable-faith-leaders"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Tour of local manufacturer Earthquake Protection Systems",
+"href": "https://www.garamendi.org/news/tour-local-manufacturer-earthquake-protection-systems"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

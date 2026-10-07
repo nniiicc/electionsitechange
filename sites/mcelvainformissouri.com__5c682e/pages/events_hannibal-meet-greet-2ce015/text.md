@@ -1,9 +1,2 @@
-Back to All Events
-Join me for a meal, hear me speak on key issues, and enjoy mingling with other area community members.
-Previous
-Previous
-February 28
-Lincoln Day
-Next
-Next
-May 7
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events Hannibal Meet & Greet Thursday, March 19, 2026 6:00 PM 8:00 PM Cave Hollow Winery Hannibal, MO (map) Google Calendar ICS Join me for a meal, hear me speak on key issues, and enjoy mingling with other area community members.
+Previous Previous February 28 Lincoln Day Next Next May 7 Cocktail Fundraiser Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

@@ -1,38 +1,4 @@
-0
-Skip to Content
-Meet Janet
-Priorities
-Events
-Updates
-Endorsements
-Donate
-Get Involved
-Open Menu
-Close Menu
-Meet Janet
-Priorities
-Events
-Updates
-Endorsements
-Donate
-Get Involved
-Open Menu
-Close Menu
-Meet Janet
-Priorities
-Events
-Updates
-Endorsements
-Donate
-Get Involved
-Family Planning Action Fund
-Aug 9
-Written By
-Heather Phelps-Lipton
-Heather Phelps-Lipton
-Previous
-Previous
-Understanding Housing Affordability in AD102
-Next
-Next
-New York Health Act Champion
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Family Planning Action Fund Aug 9 Written By Heather Phelps-Lipton Heather Phelps-Lipton Previous Previous Understanding Housing Affordability in AD102 Next Next New York Health Act Champion Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared with subcontractors in support services, such as customer service.
+All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

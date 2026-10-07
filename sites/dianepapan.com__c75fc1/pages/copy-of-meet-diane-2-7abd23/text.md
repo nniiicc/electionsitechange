@@ -1,16 +1,2 @@
-top of page
-HOME
-MEET DIANE
-PRIORITIES
-DIANE'S STORY
-NEWS
-ENDORSEMENTS
-VIDEOS
-EVENTS
-GALLERY
-JOIN
-More
-Use tab to navigate through the menu items.
-DONATE
-Media
-bottom of page
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE Media HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

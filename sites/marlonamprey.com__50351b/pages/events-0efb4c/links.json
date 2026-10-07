@@ -1,67 +1,334 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=40th+District%E2%80%99s+2025+Legislative+Bond+Initiative+Information+Session&dates=20241016T223000Z%2F20241016T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=40th+District%E2%80%99s+2025+Legislative+Bond+Initiative+Presentations&dates=20241125T223000Z%2F20241126T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=40th+District%E2%80%99s+2025+Pre-Session+Briefing&dates=20250104T140000Z%2F20250104T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20251004T140000Z%2F20251004T170000Z&location=Baltimore%2C+MD",
-"http://google.com/calendar/event?action=TEMPLATE&text=Delegate+Amprey%27s+2025+Pre-Session+Fundraiser&dates=20250106T180000Z%2F20250106T193000Z&location=189+B+Main+St%2C+Annapolis%2C+MD%2C+21401%2C+USA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Delegate+Amprey%27s+2025+Summer+Reception+Fundraiser&dates=20250722T213000Z%2F20250722T233000Z&location=10+Art+Museum+Drive%2C+Baltimore%2C+MD%2C+21218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Delegate+Amprey%27s+2026+Summer+Reception+Fundraiser&dates=20260527T213000Z%2F20260527T230000Z&location=901+West+36th+Street%2C+Baltimore%2C+MD%2C+21211%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=District+40%27s+2026+Scholarship+Award+Ceremony&dates=20260608T223000Z%2F20260609T000000Z&location=140+West+Mount+Royal+Avenue%2C+Baltimore%2C+Maryland%2C+21201%2C+United+States",
-"http://instagram.com/marlonamprey",
-"http://maps.google.com/?q=+Baltimore%2C+MD",
-"http://maps.google.com/?q=10+Art+Museum+Drive+Baltimore%2C+MD%2C+21218+United+States",
-"http://maps.google.com/?q=140+West+Mount+Royal+Avenue+Baltimore%2C+Maryland%2C+21201+United+States",
-"http://maps.google.com/?q=189+B+Main+St+Annapolis%2C+MD%2C+21401+USA",
-"http://maps.google.com/?q=901+West+36th+Street+Baltimore%2C+MD%2C+21211+United+States",
-"http://mgaleg.maryland.gov/mgawebsite/Members/Details/amprey01",
-"https://facebook.com/DelegateMarlonAmprey",
-"https://gertrudesbaltimore.com/",
-"https://instagram.com/dj5starr",
-"https://linkedin.com/in/marlonamprey",
-"https://marlonamprey.com/",
-"https://marlonamprey.com/2026eosl",
-"https://marlonamprey.com/about",
-"https://marlonamprey.com/cart",
-"https://marlonamprey.com/community-funding",
-"https://marlonamprey.com/contact-us",
-"https://marlonamprey.com/energy-and-utility-assistance",
-"https://marlonamprey.com/events",
-"https://marlonamprey.com/events/2025-lbi-info-session",
-"https://marlonamprey.com/events/2025-lbi-info-session?format=ical",
-"https://marlonamprey.com/events/2025-lbi-presentations",
-"https://marlonamprey.com/events/2025-lbi-presentations?format=ical",
-"https://marlonamprey.com/events/2025-pre-session-briefing",
-"https://marlonamprey.com/events/2025-pre-session-briefing?format=ical",
-"https://marlonamprey.com/events/d40-2026-scholarship-award-ceremony",
-"https://marlonamprey.com/events/d40-2026-scholarship-award-ceremony?format=ical",
-"https://marlonamprey.com/events/day-of-action",
-"https://marlonamprey.com/events/day-of-action?format=ical",
-"https://marlonamprey.com/events/delegate-amprey-2025-pre-session-fundraiser",
-"https://marlonamprey.com/events/delegate-amprey-2025-pre-session-fundraiser?format=ical",
-"https://marlonamprey.com/events/delegate-amprey-2025-summer-reception-fundraiser",
-"https://marlonamprey.com/events/delegate-amprey-2025-summer-reception-fundraiser?format=ical",
-"https://marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser",
-"https://marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser?format=ical",
-"https://marlonamprey.com/food-assistance",
-"https://marlonamprey.com/in-the-news",
-"https://marlonamprey.com/issues",
-"https://marlonamprey.com/legal-assistance",
-"https://marlonamprey.com/legislative-accomplishments",
-"https://marlonamprey.com/meet-marlon",
-"https://marlonamprey.com/meet-the-team",
-"https://marlonamprey.com/news",
-"https://marlonamprey.com/newsletter",
-"https://marlonamprey.com/policy-goals",
-"https://marlonamprey.com/resources",
-"https://marlonamprey.com/scholarships",
-"https://marlonamprey.com/senior-and-older-adult-assistance",
-"https://marlonamprey.com/sign-request",
-"https://marlonamprey.com/social-media-policy",
-"https://marlonamprey.com/videos",
-"https://marlonamprey.com/volunteer",
-"https://marlonamprey.com/volunteer-sign-up",
-"https://marlonamprey.com/vote",
-"https://secure.actblue.com/donate/amprey",
-"https://seppiabaltimore.com/",
-"https://twitter.com/marlonamprey"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+baltimore%2C+md+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10+art+museum+drive+baltimore%2C+md%2C+21218+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=140+west+mount+royal+avenue+baltimore%2C+maryland%2C+21201+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=189+b+main+st+annapolis%2C+md%2C+21401+usa"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=901+west+36th+street+baltimore%2C+md%2C+21211+united+states"
+},
+{
+"text": "0",
+"href": "https://www.marlonamprey.com/cart"
+},
+{
+"text": "2026 End of Session Letter",
+"href": "https://www.marlonamprey.com/2026eosl"
+},
+{
+"text": "40th District’s 2025 Legislative Bond Initiative Information Session",
+"href": "https://www.marlonamprey.com/events/2025-lbi-info-session"
+},
+{
+"text": "40th District’s 2025 Legislative Bond Initiative Presentations",
+"href": "https://www.marlonamprey.com/events/2025-lbi-presentations"
+},
+{
+"text": "40th District’s 2025 Pre-Session Briefing",
+"href": "https://www.marlonamprey.com/events/2025-pre-session-briefing"
+},
+{
+"text": "Back",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "Community Funding",
+"href": "https://www.marlonamprey.com/community-funding"
+},
+{
+"text": "Contact Us",
+"href": "https://www.marlonamprey.com/contact-us"
+},
+{
+"text": "Day of Action",
+"href": "https://www.marlonamprey.com/events/day-of-action"
+},
+{
+"text": "Delegate Amprey's 2025 Pre-Session Fundraiser",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-pre-session-fundraiser"
+},
+{
+"text": "Delegate Amprey's 2025 Summer Reception Fundraiser",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-summer-reception-fundraiser"
+},
+{
+"text": "Delegate Amprey's 2026 Summer Reception Fundraiser",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser"
+},
+{
+"text": "District 40's 2026 Scholarship Award Ceremony",
+"href": "https://www.marlonamprey.com/events/d40-2026-scholarship-award-ceremony"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amprey"
+},
+{
+"text": "Energy and Utility Assistance",
+"href": "https://www.marlonamprey.com/energy-and-utility-assistance"
+},
+{
+"text": "Events",
+"href": "https://www.marlonamprey.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.marlonamprey.com/about"
+},
+{
+"text": "Folder: Blog",
+"href": "https://www.marlonamprey.com/news"
+},
+{
+"text": "Folder: Legislative Matters",
+"href": "https://www.marlonamprey.com/issues"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.marlonamprey.com/resources"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.marlonamprey.com/volunteer"
+},
+{
+"text": "Food Assistance",
+"href": "https://www.marlonamprey.com/food-assistance"
+},
+{
+"text": "Gertrude’s Chesapeake Kitchen",
+"href": "https://gertrudesbaltimore.com/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=40th+District%E2%80%99s+2025+Legislative+Bond+Initiative+Information+Session&dates=20241016T223000Z%2F20241016T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=40th+District%E2%80%99s+2025+Legislative+Bond+Initiative+Presentations&dates=20241125T223000Z%2F20241126T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=40th+District%E2%80%99s+2025+Pre-Session+Briefing&dates=20250104T140000Z%2F20250104T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20251004T140000Z%2F20251004T170000Z&location=Baltimore%2C+MD"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Delegate+Amprey%27s+2025+Pre-Session+Fundraiser&dates=20250106T180000Z%2F20250106T193000Z&location=189+B+Main+St%2C+Annapolis%2C+MD%2C+21401%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Delegate+Amprey%27s+2025+Summer+Reception+Fundraiser&dates=20250722T213000Z%2F20250722T233000Z&location=10+Art+Museum+Drive%2C+Baltimore%2C+MD%2C+21218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Delegate+Amprey%27s+2026+Summer+Reception+Fundraiser&dates=20260527T213000Z%2F20260527T230000Z&location=901+West+36th+Street%2C+Baltimore%2C+MD%2C+21211%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=District+40%27s+2026+Scholarship+Award+Ceremony&dates=20260608T223000Z%2F20260609T000000Z&location=140+West+Mount+Royal+Avenue%2C+Baltimore%2C+Maryland%2C+21201%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/2025-lbi-info-session?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/2025-lbi-presentations?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/2025-pre-session-briefing?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/d40-2026-scholarship-award-ceremony?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/day-of-action?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-pre-session-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-summer-reception-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://www.marlonamprey.com/in-the-news"
+},
+{
+"text": "Legal Assistance",
+"href": "https://www.marlonamprey.com/legal-assistance"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.marlonamprey.com/legislative-accomplishments"
+},
+{
+"text": "Meet Marlon",
+"href": "https://www.marlonamprey.com/meet-marlon"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.marlonamprey.com/meet-the-team"
+},
+{
+"text": "Newsletter",
+"href": "https://www.marlonamprey.com/newsletter"
+},
+{
+"text": "Policy Goals",
+"href": "https://www.marlonamprey.com/policy-goals"
+},
+{
+"text": "Scholarships",
+"href": "https://www.marlonamprey.com/scholarships"
+},
+{
+"text": "Senior and Older Adult Assistance",
+"href": "https://www.marlonamprey.com/senior-and-older-adult-assistance"
+},
+{
+"text": "Seppia",
+"href": "https://www.seppiabaltimore.com/"
+},
+{
+"text": "Sign Request",
+"href": "https://www.marlonamprey.com/sign-request"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.marlonamprey.com/social-media-policy"
+},
+{
+"text": "Videos",
+"href": "https://www.marlonamprey.com/videos"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/2025-lbi-info-session"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/2025-lbi-presentations"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/2025-pre-session-briefing"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/d40-2026-scholarship-award-ceremony"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/day-of-action"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-pre-session-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-summer-reception-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "https://www.marlonamprey.com/volunteer-sign-up"
+},
+{
+"text": "Voting Information",
+"href": "https://www.marlonamprey.com/vote"
+},
+{
+"text": "[image: 40th District’s 2025 Legislative Bond Initiative Information Session]",
+"href": "https://www.marlonamprey.com/events/2025-lbi-info-session"
+},
+{
+"text": "[image: 40th District’s 2025 Legislative Bond Initiative Presentations]",
+"href": "https://www.marlonamprey.com/events/2025-lbi-presentations"
+},
+{
+"text": "[image: 40th District’s 2025 Pre-Session Briefing]",
+"href": "https://www.marlonamprey.com/events/2025-pre-session-briefing"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.marlonamprey.com/events/day-of-action"
+},
+{
+"text": "[image: Delegate Amprey's 2025 Pre-Session Fundraiser]",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-pre-session-fundraiser"
+},
+{
+"text": "[image: Delegate Amprey's 2025 Summer Reception Fundraiser]",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2025-summer-reception-fundraiser"
+},
+{
+"text": "[image: Delegate Amprey's 2026 Summer Reception Fundraiser]",
+"href": "https://www.marlonamprey.com/events/delegate-amprey-2026-summer-reception-fundraiser"
+},
+{
+"text": "[image: District 40's 2026 Scholarship Award Ceremony]",
+"href": "https://www.marlonamprey.com/events/d40-2026-scholarship-award-ceremony"
+},
+{
+"text": "[image: marlonamprey.com]",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/marlonamprey"
+},
+{
+"text": "[no text]",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Members/Details/amprey01"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/marlonamprey"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateMarlonAmprey/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/marlonamprey"
+},
+{
+"text": "dj5starr (Kendrick Tilghman)",
+"href": "https://www.instagram.com/dj5starr"
+}
 ]

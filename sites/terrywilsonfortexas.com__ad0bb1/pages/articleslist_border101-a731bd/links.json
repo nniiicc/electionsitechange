@@ -1,14 +1,62 @@
 [
-"http://facebook.com/TerryWilsonPage",
-"https://terrywilsonfortexas.com/",
-"https://terrywilsonfortexas.com/articles",
-"https://terrywilsonfortexas.com/articleslist/2023yir",
-"https://terrywilsonfortexas.com/articleslist/border101",
-"https://terrywilsonfortexas.com/articleslist/defendtexasliberty",
-"https://terrywilsonfortexas.com/articleslist?author=58ff688c8419c2b2a27a28ae",
-"https://terrywilsonfortexas.com/bio",
-"https://terrywilsonfortexas.com/donate",
-"https://terrywilsonfortexas.com/endorsements2024",
-"https://terrywilsonfortexas.com/issues",
-"https://terrywilsonfortexas.com/take-action"
+{
+"text": "About",
+"href": "https://www.terrywilsonfortexas.com/bio"
+},
+{
+"text": "Articles",
+"href": "https://www.terrywilsonfortexas.com/articles"
+},
+{
+"text": "December 16, 2023",
+"href": "https://www.terrywilsonfortexas.com/articleslist/border101"
+},
+{
+"text": "Donate",
+"href": "https://www.terrywilsonfortexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terrywilsonfortexas.com/endorsements2024"
+},
+{
+"text": "Home",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.terrywilsonfortexas.com/issues"
+},
+{
+"text": "Jeff Frazier",
+"href": "https://www.terrywilsonfortexas.com/articleslist?author=58ff688c8419c2b2a27a28ae"
+},
+{
+"text": "Op-Ed #26 - Texas Republicans Must Demand Better From Our Party And Donors",
+"href": "https://www.terrywilsonfortexas.com/articleslist/defendtexasliberty"
+},
+{
+"text": "Op-Ed #27 - Border 101",
+"href": "https://www.terrywilsonfortexas.com/articleslist/border101"
+},
+{
+"text": "Op-Ed #28 2023 Legislative Year-in-Review",
+"href": "https://www.terrywilsonfortexas.com/articleslist/2023yir"
+},
+{
+"text": "Take Action",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+},
+{
+"text": "[image: Terry Wilson]",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/TerryWilsonPage"
+},
+{
+"text": "volunteering",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+}
 ]

@@ -1,1 +1,2 @@
-Hastings Tribune: Anderson, Ehrke advance in District 38 legislative contest May 13 Written By Zach Herr Zach Herr
+0 Skip to Content News Endorsements Donate Open Menu Close Menu News Endorsements Donate Open Menu Close Menu News Endorsements Donate Hastings Tribune: Anderson, Ehrke advance in District 38 legislative contest May 13 Written By Zach Herr Zach Herr Next Next NTV: Who's who in the race for District 38: Part 1 Endorsements News Privacy Policy Paid for by Tim Anderson for Legislature | P.O.
+Box 15, Sutton, NE 68979

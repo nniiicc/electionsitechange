@@ -1,30 +1,5 @@
-top of page
-April 5, 2026
-Mass Live - Namu Sampath
-January 27, 2026
-The Reminder - Cliff Clark
-May 1, 2025
-Agawam Advertiser - Greg Scibelli
-March 16, 2023
-Western Mass News - Olivia Hickey
-May 26, 2022
-Agawam Advertiser - Greg Scibelli
-March 13, 2026
-Mass Live - Jim Kinney
-September 9, 2025
-The Reminder - Ryan Feyre
-August 28, 2024
-The Reminder - Tyler Lederer
-December 29, 2022
-Agawam Advertiser - Greg Scibelli
-November 2, 2021
-MassLive - Benjamin Kali
-February 24, 2024
-Mass Live - Michael Ballway
-July 2, 2025
-The Reminder - Ryan Feyre
-July 13, 2023
-Agawam Advertiser - Quinn Soumala
-September 15, 2022
-The Reminder - Jon Gerhardson
-bottom of page
+top of page Home About Tom Priorities Endorsements News Get Involved Donate More Use tab to navigate through the menu items.
+Rural Western Mass. schools demand equity as funding falls short April 5, 2026 Mass Live - Namu Sampath Agawam councilor to challenge Boldyga January 27, 2026 The Reminder - Cliff Clark Councilor Wants T own to Support Fair P ay for Farmworkers May 1, 2025 Agawam Advertiser - Greg Scibelli Electricity Bills Rise, City Council Proposal Offers to Help Agawam Residents March 16, 2023 Western Mass News - Olivia Hickey Thomas Hendrickson to Join City Council May 26, 2022 Agawam Advertiser - Greg Scibelli ‘No-show Nick’?: Opponent calls out Rep.
+Boldyga for not going to committee hearings in 2025 March 13, 2026 Mass Live - Jim Kinney Agawam approves Power Supply Program Aggregation Plan September 9, 2025 The Reminder - Ryan Feyre Agawam Council to vote on recording subcommittee meetings August 28, 2024 The Reminder - Tyler Lederer Runner Up Becomes Key Newcomer to City Council December 29, 2022 Agawam Advertiser - Greg Scibelli Three UMass Amherst graduate students are running for office in Agawam, Easthampton and Holyoke November 2, 2021 MassLive - Benjamin Kali Hendrickson announces bid for House seat, takes aim at GOP incumbent, Dem leadership February 24, 2024 Mass Live - Michael Ballway Agawam councilor wants to reconvene town’s internet task force July 2, 2025 The Reminder - Ryan Feyre City Councilors Promote State Assistance Program for Housing Help July 13, 2023 Agawam Advertiser - Quinn Soumala Newest councilor staying active on campaign trail, advocacy September 15, 2022 The Reminder - Jon Gerhardson Subscribe Form Submit Thanks for submitting!
+THendrickson1313@gmail.com 413-654-6958 223 Clover Hill Drive Feeding Hills, MA 01030 ©# by Committee to Elect Tom Hendrickson.
+Proudly created with Wix.com bottom of page

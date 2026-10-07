@@ -1,5 +1,4 @@
-About Jim Arciero
-State Representative James “Jim” Arciero has proudly been serving the 2nd Middlesex District in the Massachusetts House of Representatives since 2009, representing the towns of Chelmsford (Precincts 3B, 4 and 5A), Littleton and Westford.
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate About Jim Arciero State Representative James “Jim” Arciero has proudly been serving the 2nd Middlesex District in the Massachusetts House of Representatives since 2009, representing the towns of Chelmsford (Precincts 3B, 4 and 5A), Littleton and Westford.
 Jim currently serves as the House Chair of the Joint Committee on Transportation and was appointed to that role by the Speaker of the House of Representatives in 2025.
 In 2021, he was appointed the House Chair of the Joint Committee on Housing in the middle of the COVID-19 pandemic.
 He navigated the housing crisis to eventually lead the passage of the Affordable Homes Act in 2024, the Commonwealth’s largest investment in housing in the state’s history (over $5 billion).
@@ -10,3 +9,4 @@ Jim earned a Master’s Degree in Public Administration from Suffolk University 
 He is a proud graduate of Westford Academy and recipient of the Eagle Scout Award, the highest award in scouting.
 He has been a lifelong resident of Westford, Massachusetts where he currently lives with his wife, Bridget, and daughter, Angelina.
 He is an avid record collector and enjoys sharing his love for movies and basketball with his daughter.
+Awards and Accomplishments Paid for by the Committee to Elect Jim Arciero

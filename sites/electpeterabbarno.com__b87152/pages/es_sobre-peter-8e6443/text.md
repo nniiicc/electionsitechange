@@ -1,5 +1,6 @@
-Sobre Peter
-Peter Abbarno es propietario de una pequeña empresa y abogado de Althauser Rayan Abbarno, LLP, representante del distrito legislativo 20 del estado de Washington; pero lo más importante es que Peter es marido y padre.
+Familias más fuertes.
+Comunidades más fuertes.
+Un Washington más fuerte Sobre Peter Cuestiones Artículos de interés LEGISLATURE VOTER INFO Blog de Peter DONATE Seguir Seguir Seguir Sobre Peter Peter Abbarno es propietario de una pequeña empresa y abogado de Althauser Rayan Abbarno, LLP, representante del distrito legislativo 20 del estado de Washington; pero lo más importante es que Peter es marido y padre.
 Peter vive en Centralia con su esposa Holly (Hawes), profesora de matemáticas en la Escuela Media de Centralia, y sus dos hijos.
 En 2020, Peter se presentó a Representante Estatal en el 20º Distrito Legislativo para cubrir la vacante del veterano legislador Richard DeBolt y ganó el escaño con más del 71% de los votos.
 Peter ocupa el puesto de Miembro Asistente de Rango en el Comité de Presupuesto de Capital de la Cámara de Representantes, y forma parte del Comité de Medio Ambiente y Energía y del Comité de Derechos Civiles y Judiciales.
@@ -25,3 +26,5 @@ Peter es miembro del consejo y ex presidente de la Fundación Universitaria de C
 (Dads of Great Students) en Centralia, del Programa de Becas Miss Lewis County, de United Way del Condado de Lewis y de la Misión Hub City, y también ha sido Mentor en el Instituto WF West de Chehalis y Mentor del Equipo de Juicios Simulados del Instituto Morton.
 La familia Abbarno asiste a la Iglesia Bethel de Chehalis y participa activamente en su iglesia y en la Misión Hub City.
 Peter y su esposa Holly han entrenado a muchos equipos deportivos locales y empezaron y siguen ayudando a coordinar la Colecta de Suministros Escolares de Centralia para apoyar a las familias y a los estudiantes del Distrito Escolar de Centralia.
+Mantente al día de las últimas noticias de Olimpia.
+Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

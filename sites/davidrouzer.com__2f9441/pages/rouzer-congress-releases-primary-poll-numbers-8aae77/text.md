@@ -1,8 +1,7 @@
-Wilmington, NC – Today, Rouzer for Congress announced key findings from its most recent poll conducted among primary voters across the 7th District of North Carolina.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute ROUZER FOR CONGRESS RELEASES PRIMARY POLL NUMBERS January 20, 2015 Wilmington, NC – Today, Rouzer for Congress announced key findings from its most recent poll conducted among primary voters across the 7th District of North Carolina.
 With 94% name ID among primary voters across the district, Rouzer holds an impressive 66% favorable/9% unfavorable image rating.
 Rouzer’s standing is even more impressive among “strong” Republicans with a 72% favorable/5% unfavorable image rating — in contrast, his primary opponent has just 9% name ID in the district with 1% favorable.
 On the ballot test, Rouzer holds an 83% to 5% advantage over his primary opponent.
-- Within Johnston County, Rouzer holds a 90%-3% lead, with an 87%-3% lead in Brunswick County and a 76%-8% lead in New Hanover County
-When asked which attributes describe David Rouzer well, 84% of voters agree, he “stands up for what he believes in” and 81% say he is “responsive to the issues and needs of this area.”
-Bottom line: Congressman Rouzer has cemented a strong following among Republican voters in a relatively short period of time, a credit to his tireless work ethic, dedication to the district, and conservative representation in Congress.
-###
+Within Johnston County, Rouzer holds a 90%-3% lead, with an 87%-3% lead in Brunswick County and a 76%-8% lead in New Hanover County When asked which attributes describe David Rouzer well, 84% of voters agree, he “stands up for what he believes in” and 81% say he is “responsive to the issues and needs of this area.” Bottom line: Congressman Rouzer has cemented a strong following among Republican voters in a relatively short period of time, a credit to his tireless work ethic, dedication to the district, and conservative representation in Congress.
+### Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

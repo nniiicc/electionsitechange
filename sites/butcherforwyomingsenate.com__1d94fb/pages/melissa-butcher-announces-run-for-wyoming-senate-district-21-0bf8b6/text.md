@@ -1,21 +1,20 @@
-Melissa Butcher, a Sheridan County business owner, announced today she will run as a Republican for the Wyoming Senate in District 21, bringing her experience in business leadership, collaborative problem-solving, and economic stewardship to the Legislature.
+Skip to content Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Next Melissa Butcher Announces Run for Wyoming Senate District 21 mdbutcher 2026-04-08T08:44:22-06:00 March 9, 2026 | Campaign | Melissa Butcher, a Sheridan County business owner, announced today she will run as a Republican for the Wyoming Senate in District 21, bringing her experience in business leadership, collaborative problem-solving, and economic stewardship to the Legislature.
 Over the coming months, Butcher plans to spend time listening to residents across the district through community events, door-to-door conversations, listening sessions, social media outreach, and through her campaign website at butcherforwyomingsenate.com.
 She will also review the outcomes of the recent legislative session and consider what those decisions may mean for the long-term security of Wyoming’s families, businesses, and educators.
 Those insights will help shape the priorities she hopes to carry to Cheyenne in 2027.
 Born in Sheridan, Butcher has spent more than three decades living, working, and building successful businesses in Sheridan County.
 “My love for Wyoming took root when I was a kid traveling the state with my dad during the summers while he worked road construction,” Butcher said.
-“Those summers gave me an early appreciation for Wyoming’s landscapes, its industries, and the people who work hard every day to keep our communities strong.”
-Butcher and her husband own and operate an RV campground as well as a bakery and café that has become a popular gathering place in Ranchester and recently expanded into Sheridan.
+“Those summers gave me an early appreciation for Wyoming’s landscapes, its industries, and the people who work hard every day to keep our communities strong.” Butcher and her husband own and operate an RV campground as well as a bakery and café that has become a popular gathering place in Ranchester and recently expanded into Sheridan.
 The bakery has built a growing reputation for craft baking across the region and was recently recognized as Business of the Year by the Sheridan County Chamber of Commerce.
 Earlier in their careers, the Butchers owned and operated a sporting goods store at the same location that sold hunting, fishing, and outdoor equipment and provided gunsmithing services.
 Butcher has decades of experience building trust while guiding strategic planning and public outreach efforts across northern Wyoming.
 For more than 30 years, she has worked as a public process facilitator, helping communities navigate complex issues, engage in meaningful dialogue, and find common ground to move challenging projects forward.
 “I’ve spent much of my career helping people work through difficult decisions and understand how those decisions are made,” she said.
-“When citizens trust the process and believe their voices matter, communities are stronger and more confident investing in their future.”
-Butcher previously served as executive director of the Sheridan County Chamber of Commerce, where she helped launch a health insurance program for local businesses and worked to reduce the organization’s reliance on optional sales tax funding.
+“When citizens trust the process and believe their voices matter, communities are stronger and more confident investing in their future.” Butcher previously served as executive director of the Sheridan County Chamber of Commerce, where she helped launch a health insurance program for local businesses and worked to reduce the organization’s reliance on optional sales tax funding.
 Prior to that, she held public-sector roles as Administrative Services Manager for a regional water treatment system and later as a Public Involvement Specialist for the Wyoming Department of Transportation.
 Throughout her career, Butcher has remained active in local civic and economic development efforts.
 She has served on boards and initiatives including the Center for a Vital Community, The Hub on Smith senior center, Sheridan County Travel & Tourism, and the Forward Sheridan strategic planning task force focused on long-term economic development in Sheridan County.
 “I refuse to accept slow erosion as inevitable in Wyoming — erosion of trust, erosion of opportunity, erosion of participation,” Butcher said.
 “Our responsibility as leaders is to protect and promote the stability that turns effort into progress and allows families, businesses, and communities to build lasting futures.
-That’s why I want to serve.”
+That’s why I want to serve.” Share This Story, Choose Your Platform!
+Facebook X Bluesky Reddit LinkedIn WhatsApp Telegram Tumblr Xing Email Copy Link Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

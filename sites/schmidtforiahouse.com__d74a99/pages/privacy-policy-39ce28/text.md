@@ -1,37 +1,17 @@
-Privacy Policy
-A LEGAL DISCLAIMER
-We understand the importance of protecting your personal information.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate Privacy Policy A LEGAL DISCLAIMER We understand the importance of protecting your personal information.
 This Privacy Policy describes how we collect, use, and disclose your personal information when you use our website.
-By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
-Collection of Personal Information
-When you visit our website, we may collect certain personal information from you, including your name, email address, phone number, and other contact information.
+By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy. ​ Collection of Personal Information When you visit our website, we may collect certain personal information from you, including your name, email address, phone number, and other contact information.
 We may also collect other information about your usage of our website, such as your IP address, browser type, and operating system.
-Use of Personal Information
-We may use your personal information to:
-- Provide and improve our website and services
-- Respond to your inquiries and requests
-- Communicate with you about our services, promotions, and events
-- Personalize your experience on our website
-- Analyze and monitor usage of our website
-- Comply with legal obligations
-- Disclosure of Personal Information
-Your data will not be sold and will not be used for lead generation or affiliate marketing.
+Use of Personal Information We may use your personal information to: Provide and improve our website and services Respond to your inquiries and requests Communicate with you about our services, promotions, and events Personalize your experience on our website Analyze and monitor usage of our website Comply with legal obligations Disclosure of Personal Information Your data will not be sold and will not be used for lead generation or affiliate marketing.
 We may disclose your personal information to third-party service providers who assist us in providing our services, such as hosting providers, payment processors, and analytics providers.
 We may also disclose your personal information if required by law or to protect our legal rights.
-Cookies and Other Tracking Technologies
-We may use cookies and other tracking technologies to collect information about your usage of our website and to personalize your experience.
+Cookies and Other Tracking Technologies We may use cookies and other tracking technologies to collect information about your usage of our website and to personalize your experience.
 You can choose to accept or decline cookies.
-If you decline cookies, some features of our website may not be available to you.
-Security of Personal Information
-We take reasonable measures to protect your personal information from unauthorized access, disclosure, and use.
-However, no security measures are perfect, and we cannot guarantee the security of your personal information.
-Children's Privacy
-Our website is not intended for children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
-If we become aware that we have collected personal information from a child under the age of 13, we will take steps to delete the information as soon as possible.
-Changes to this Privacy Policy
-We may update this Privacy Policy from time to time by posting a new version on our website.
+If you decline cookies, some features of our website may not be available to you. ​ Security of Personal Information We take reasonable measures to protect your personal information from unauthorized access, disclosure, and use.
+However, no security measures are perfect, and we cannot guarantee the security of your personal information. ​ Children's Privacy Our website is not intended for children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+If we become aware that we have collected personal information from a child under the age of 13, we will take steps to delete the information as soon as possible. ​ Changes to this Privacy Policy We may update this Privacy Policy from time to time by posting a new version on our website.
 We encourage you to review this Privacy Policy periodically.
 Having said that, a privacy policy is a statement that discloses some or all of the ways a website collects, uses, discloses, processes, and manages the data of its visitors and customers.
 It usually also includes a statement regarding the website’s commitment to protecting its visitors’ or customers’ privacy, and an explanation about the different mechanisms the website is implementing in order to protect privacy.
 Different jurisdictions have different legal obligations of what must be included in a Privacy Policy.
-You are responsible to make sure you are following the relevant legislation to your activities and location.
+You are responsible to make sure you are following the relevant legislation to your activities and location. ​ © # PAID FOR BY SCHMIDT FOR IA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

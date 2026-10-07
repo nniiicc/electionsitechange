@@ -1,7 +1,7 @@
-Te prometo, siempre vas a saber cuál es mi posición.
+Saltar al contenido Inicio Sobre Lindsey Plataforma Endosos Noticias Voluntariado Donar EN ES Inicio Sobre Lindsey Plataforma Endosos Noticias Voluntariado Donar EN ES Menú Te prometo, siempre vas a saber cuál es mi posición.
 Corrí para la legislatura para pelear por la Condada de Buncombe—y todos nosotros que vivimos en las montañas—y proteger lo que más importa a las familias trabajadoras.
 Para leer mi posición en un tema, oprima un botón de plataforma.
-Cada niño en Carolina del Norte merece la mejor educación posible que podamos darles.
+Educación Mejor Gobierno Bueno Cuidado de la Salud Alcanzable Un Ambiente Limpio Igualdad por todos Cada niño en Carolina del Norte merece la mejor educación posible que podamos darles.
 Carolina del Norte solía ser conocida en todo el Sur como líder en educación pública.
 Y podemos volver hacerlo.
 Necesitamos hacer mejor en preparar a nuestra jóvenes para ser saludables, cariñosos, y productivos miembros de nuestra comunidad.
@@ -32,3 +32,4 @@ Impactos dispares de la contaminación en nuestros residentes más vulnerables.
 No podemos abordar ninguno de estos problemas sin abordar la manera no igual en que impactan a nuestras comunidades.
 Debemos trabajar para garantizar que todos nuestros vecinos, independientemente de su raza, género, edad o condición socioeconómica, tengan igual acceso a atención médica, educación, empleos y protección contra el cambio climático de alta calidad.
 Sólo cuando todos estemos unidos podremos levantarnos unos a otros.
+PO Box 1961, Enka, NC 28728 team@pratherfornc.com Pagado por Prather for NC | Política de privacidad | Diseño de sitio web por Express Lane Strategies .

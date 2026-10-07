@@ -1,21 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+Poll+Site+Visibility+with+Team+Ryder%21&dates=20260613T130000Z%2F20260613T210000Z",
-"https://bsky.app/profile/ryderkessler.bsky.social",
-"https://facebook.com/ryderfornewyork",
-"https://findmypollsite.vote.nyc/",
-"https://instagram.com/ryderfornewyork",
-"https://mobilize.us/ryderfornewyork2026/event/966302",
-"https://ryderfornewyork.com/",
-"https://ryderfornewyork.com/about-ryder",
-"https://ryderfornewyork.com/cart",
-"https://ryderfornewyork.com/endorsements",
-"https://ryderfornewyork.com/events",
-"https://ryderfornewyork.com/events/early-voting-poll-site-visibility-with-team-ryder-8czjx",
-"https://ryderfornewyork.com/events/early-voting-poll-site-visibility-with-team-ryder?format=ical",
-"https://ryderfornewyork.com/events/greenwich-village-canvass-3wwas-h9e3m-9gjec-7jgbz-wh9k4-j3ck4",
-"https://ryderfornewyork.com/platform",
-"https://secure.actblue.com/donate/r4ny",
-"https://tiktok.com/@ryderkessler",
-"https://x.com/ryderkessler",
-"https://youtube.com/@ryderfornewyork"
+{
+"text": "0",
+"href": "https://www.ryderfornewyork.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ryderfornewyork.com/about-ryder"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/r4ny/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ryderfornewyork.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+Poll+Site+Visibility+with+Team+Ryder%21&dates=20260613T130000Z%2F20260613T210000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ryderfornewyork.com/events/early-voting-poll-site-visibility-with-team-ryder?format=ical"
+},
+{
+"text": "Next Next June 14 Early Voting Poll Site Visibility with Team Ryder!",
+"href": "https://www.ryderfornewyork.com/events/early-voting-poll-site-visibility-with-team-ryder-8czjx"
+},
+{
+"text": "Platform",
+"href": "https://www.ryderfornewyork.com/platform"
+},
+{
+"text": "Previous Previous June 12 Greenwich Village Canvass",
+"href": "https://www.ryderfornewyork.com/events/greenwich-village-canvass-3wwas-h9e3m-9gjec-7jgbz-wh9k4-j3ck4"
+},
+{
+"text": "SIGN UP NOW!",
+"href": "https://www.mobilize.us/ryderfornewyork2026/event/966302/"
+},
+{
+"text": "[image: Ryder for New York]",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryderkessler.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryderfornewyork/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ryderkessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryderkessler"
+},
+{
+"text": "hello@ryderfornewyork.com",
+"href": "mailto:hello@ryderfornewyork.com"
+},
+{
+"text": "https://findmypollsite.vote.nyc/",
+"href": "https://findmypollsite.vote.nyc/"
+}
 ]

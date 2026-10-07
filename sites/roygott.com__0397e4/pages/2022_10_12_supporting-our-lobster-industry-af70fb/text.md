@@ -1,4 +1,5 @@
-I'm not writing this with the expectation of praise or winning people over - I'm reporting out on this experience and what I got from it so take it as you will.
+Roy D.
+Gott Home About Contact Positions Blog Lobster Rule Scoping Session in Portland admin October 12, 2022 10:19 pm I'm not writing this with the expectation of praise or winning people over - I'm reporting out on this experience and what I got from it so take it as you will.
 I attended the scoping session NOAA held in Portland last week.
 It was supposed to be the night of the candidate forum that the League of Women Voters was to hold between Mr.
 Faulkingham and myself.
@@ -24,28 +25,7 @@ Representative Golden attributed the lawsuits attacking the industry to philanth
 Then came the public comment, over an hour into the scoping session.
 Former Governor Paul LePage got in first, noting that offshore wind has a take rate of 5.4 whales per year and echoed Golden’s concerns about where the money was coming from.
 Fortunately, individuals from the fishing community finally got the speak a few minutes later.
-And there were some good suggestions for both NOAA and fishermen:
-- exemptions for those fishing in shallow waters or with low trap numbers
-- trap limits wouldn’t be the worst thing, but seasonal shutdowns in any zone will lead to alcohol, drug, and physical abuse with many idle fishermen
-- get unbiased scientists to peer review the data and model being used
-- accept data from the people in the field
-- adjust trap numbers so that poundage per tag remains optimal and therefore get a better count of the number of traps actually in use
-Many testimonials were given, bringing up different points about the lobster industry in general:
-- what happens to the lobster industry affects all of Maine, not just the coast
-- NOAA & NMFS have failed the lobster industry and Maine
-- zero and zero – right whales proven to have been entangled in Maine lobster gear since 2004, and right whale deaths ever attributed to Maine lobster gear
-- these regulations will end the Maine way of life
-- in 2016, the industry resulted in $1 billion in movement of goods, improving to about $2 billion in 2021, in a state GDP of $68 billion – Bangor is only strong if the surrounding communities are too
-- with over 1100 lobster licenses in Washington county, that means about 1700 jobs overall would be lost in an area with already high unemployment
-And criticism of conservation measures past and present:
-- conservation measures can’t work if whales aren’t in the waters where they apply
-- there is resistance to tagging and tracking right whales because theoretical whales are more useful to the current model
-- the restrictions are targeting a population that is part of the solution, not the problem
-- in 2019 a NOAA research vessel struck a right whale – why aren’t similar requirements being proposed for shipping, cruise ships, and offshore wind developments?
-- ropeless fishing technology is unproven and so far, not demonstrably workable here
-- humpback whales don’t have a problem with lobster gear
-- offshore wind leases allow a take of 20 right whales each – there are 35 such leases along the coast, enough to eliminate the entire right whale population legally, twice
-The session ran long and more than once, shade was thrown at the organizers for allowing politicians to “campaign” at the outset, eating up time for actual public comment.
+And there were some good suggestions for both NOAA and fishermen: exemptions for those fishing in shallow waters or with low trap numbers trap limits wouldn’t be the worst thing, but seasonal shutdowns in any zone will lead to alcohol, drug, and physical abuse with many idle fishermen get unbiased scientists to peer review the data and model being used accept data from the people in the field adjust trap numbers so that poundage per tag remains optimal and therefore get a better count of the number of traps actually in use Many testimonials were given, bringing up different points about the lobster industry in general: what happens to the lobster industry affects all of Maine, not just the coast NOAA & NMFS have failed the lobster industry and Maine zero and zero – right whales proven to have been entangled in Maine lobster gear since 2004, and right whale deaths ever attributed to Maine lobster gear these regulations will end the Maine way of life in 2016, the industry resulted in $1 billion in movement of goods, improving to about $2 billion in 2021, in a state GDP of $68 billion – Bangor is only strong if the surrounding communities are too with over 1100 lobster licenses in Washington county, that means about 1700 jobs overall would be lost in an area with already high unemployment And criticism of conservation measures past and present: conservation measures can’t work if whales aren’t in the waters where they apply there is resistance to tagging and tracking right whales because theoretical whales are more useful to the current model the restrictions are targeting a population that is part of the solution, not the problem in 2019 a NOAA research vessel struck a right whale – why aren’t similar requirements being proposed for shipping, cruise ships, and offshore wind developments? ropeless fishing technology is unproven and so far, not demonstrably workable here humpback whales don’t have a problem with lobster gear offshore wind leases allow a take of 20 right whales each – there are 35 such leases along the coast, enough to eliminate the entire right whale population legally, twice The session ran long and more than once, shade was thrown at the organizers for allowing politicians to “campaign” at the outset, eating up time for actual public comment.
 It was supposed to have a hard stop at 9 PM with time for questions to be asked of the NOAA people present, with the building locking up at 10.
 Instead, speakers kept coming right up until closing time with Bruce Poliquin jumping in a couple of times, shouting for people to be allowed to speak.
 Of course, by that time, many people had already left.
@@ -54,8 +34,7 @@ Many drove three or more hours to get to Portland – not a central location for
 There was a general sense of anger throughout the evening, though some held it back more than others.
 I was surprised with the general level of restraint shown by most people.
 As the night wrapped up, I headed for a motel in Saco rather than drive back from Portland starting at quarter past 10 – I’m not as young as I used to be.
-In the hours and days following the scoping session, I kept coming back to a thought that perhaps I had long been exposed to, but had never really considered:
-The fishermen love what they do.
+In the hours and days following the scoping session, I kept coming back to a thought that perhaps I had long been exposed to, but had never really considered: The fishermen love what they do.
 It seems a gross oversimplification, but aside from the science, and the models, and the resentment, that was the true, overarching sentiment that was most impactful for me from that scoping session.
 How many of us live with jobs that we are unsatisfied with and are unfulfilling, or move from one job to another, hoping in some way it will get better?
 Certainly, there are bad days – but that’s what momma always warned us about.
@@ -80,3 +59,10 @@ Faulkingham is reelected in November, certainly the lobster industry will have h
 If instead I am elected, I want to have a team of individuals from the lobster industry in our communities to help me be as effective as possible in that role.
 I hope Mr.
 Faulkingham would consider being a part of it.
+Category : Positions Previous I Don’t Debate in the Comments Section Next Endorsements & Distinctions Search Search Recent Posts Endorsements & Distinctions Lobster Rule Scoping Session in Portland I Don’t Debate in the Comments Section I Support Our Lobster Industry Encouraging Words are a Sign Recent Comments Ken Gleason on Encouraging Words are a Sign Archives September 2026 October 2022 September 2022 Categories Campaigning Positions Uncategorized Roy D.
+Gott Roy D.
+Gott serves the communities of Franklin, Gouldsboro, Hancock, Milbridge, Sorrento, Steuben, Sullivan, Tremont, Trenton, and Winter Harbor with technical support and sales for their municipal, utility, and public safety functions.
+He served as Franklin's member of the Regional School Unit No.
+24 Board of Directors (2012-2025, Chair 2016-2025), and as Region IV (Hancock County) Director (2022-2024) and Vice President (2024-2025) for the Maine School Boards Association.
+He served as chair of the Schoodic Peninsula Broadband Committee and is founder of the Sumner Alumni Association.
+Quick Links Home About Contact Get in Touch PO Box 94, Franklin, ME 04634 2075653666 roy@roygott.com

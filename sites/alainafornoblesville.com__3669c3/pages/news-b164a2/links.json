@@ -1,15 +1,74 @@
 [
-"https://alainafornoblesville.com/",
-"https://alainafornoblesville.com/about",
-"https://alainafornoblesville.com/contact",
-"https://alainafornoblesville.com/news",
-"https://alainafornoblesville.com/news/5-most-promising-fintech-startups",
-"https://alainafornoblesville.com/news/best-smart-wearables-of-2023",
-"https://alainafornoblesville.com/news/gadget-review%3A-release-of-new-airy-pods",
-"https://alainafornoblesville.com/news/house-budget-proposal",
-"https://alainafornoblesville.com/news/session-begins!",
-"https://facebook.com/profile.php?id=100093393183942",
-"https://secure.winred.com/alaina-for-noblesville/donate-today",
-"https://twitter.com/ShonkwilerIN29",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.alainafornoblesville.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.alainafornoblesville.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alaina-for-noblesville/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.alainafornoblesville.com"
+},
+{
+"text": "News",
+"href": "https://www.alainafornoblesville.com/news"
+},
+{
+"text": "Read More",
+"href": "https://www.alainafornoblesville.com/news/5-most-promising-fintech-startups"
+},
+{
+"text": "Read More",
+"href": "https://www.alainafornoblesville.com/news/best-smart-wearables-of-2023"
+},
+{
+"text": "Read More",
+"href": "https://www.alainafornoblesville.com/news/gadget-review%3A-release-of-new-airy-pods"
+},
+{
+"text": "Read More",
+"href": "https://www.alainafornoblesville.com/news/house-budget-proposal"
+},
+{
+"text": "Read More",
+"href": "https://www.alainafornoblesville.com/news/session-begins!"
+},
+{
+"text": "Wix.",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100093393183942"
+},
+{
+"text": "[image: House Bill 1001 Budget Proposal]",
+"href": "https://www.alainafornoblesville.com/news/house-budget-proposal"
+},
+{
+"text": "[image: Legislative Halfway Update]",
+"href": "https://www.alainafornoblesville.com/news/5-most-promising-fintech-startups"
+},
+{
+"text": "[image: Protecting taxpayers, funding critical priorities]",
+"href": "https://www.alainafornoblesville.com/news/gadget-review%3A-release-of-new-airy-pods"
+},
+{
+"text": "[image: Session Begins!]",
+"href": "https://www.alainafornoblesville.com/news/session-begins!"
+},
+{
+"text": "[image: Sharing goals for this legislative session ]",
+"href": "https://www.alainafornoblesville.com/news/best-smart-wearables-of-2023"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/ShonkwilerIN29"
+}
 ]

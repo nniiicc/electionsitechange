@@ -1,29 +1,5 @@
-Endorsements
-"Margaret DeLaRosa understands what our communities need — and she has the experience to deliver.
-I’m proud to endorse her."
-Also Endorsed By
-State Rep.
-Norma Hernandez (House Latino Caucus Chair)
-Reid McCollum, Chair, Democratic Party of DuPage
-Mary Ozog, DuPage County Board, D4
-Yeena Yoo, DuPage County Board, D2
-Andrew Honig, DuPage County Board, D2
-Michael Childress, DuPage County Board, D1
-Liz Chaplin, DuPage County Recorder
-Dan Hebreard, President, DuPage County Forest Preserve
-Jeff Gahris, DuPage County Forest Preserve, D4
-Tina Tyson-Dunne, DuPage County Forest Preserve, D2
-Flo Appel, College of DuPage Board, Vice Chair
-Nick Howard, College of DuPage Board
-Elizabeth Higgins-Beard, Milton Township Supervisor
-Tim Murray, York Township Supervisor
-Ilse Messner, York Township Trustee
-Larry Pitts, Milton Township Trustee
-Amanda Roudebush, Downers Grove Township Clerk
-Stacy Slater, Milton Township Dems, Chair
-Dyan Page, York Township Dems, Chair
-Dennis Terdy, Milton Township Dems, Chair 2000-2025
-Hetal Lee, Glenbard D87 School Board President
-Richard Heim, Glenbard D87 School Board President, 2011-2017
-Erica Nelson, D41 School Board President 2014-2016
-International Union of Elevator Constructors, Local 2
+Meet Margaret Issues Endorsements Yard Signs Volunteer Donate Open main menu Endorsements "Margaret DeLaRosa understands what our communities need — and she has the experience to deliver.
+I’m proud to endorse her." — Representative Sean Casten Also Endorsed By State Rep.
+Norma Hernandez (House Latino Caucus Chair) Reid McCollum, Chair, Democratic Party of DuPage Mary Ozog, DuPage County Board, D4 Yeena Yoo, DuPage County Board, D2 Andrew Honig, DuPage County Board, D2 Michael Childress, DuPage County Board, D1 Liz Chaplin, DuPage County Recorder Dan Hebreard, President, DuPage County Forest Preserve Jeff Gahris, DuPage County Forest Preserve, D4 Tina Tyson-Dunne, DuPage County Forest Preserve, D2 Flo Appel, College of DuPage Board, Vice Chair Nick Howard, College of DuPage Board Elizabeth Higgins-Beard, Milton Township Supervisor Tim Murray, York Township Supervisor Ilse Messner, York Township Trustee Larry Pitts, Milton Township Trustee Amanda Roudebush, Downers Grove Township Clerk Stacy Slater, Milton Township Dems, Chair Dyan Page, York Township Dems, Chair Dennis Terdy, Milton Township Dems, Chair 2000-2025 Hetal Lee, Glenbard D87 School Board President Richard Heim, Glenbard D87 School Board President, 2011-2017 Erica Nelson, D41 School Board President 2014-2016 International Union of Elevator Constructors, Local 2 Fighting for our community in Illinois House District 42 Quick Links Meet Margaret Issues Endorsements Yard Signs Get Involved Volunteer Donate Connect Email [email protected] Follow Us Paid for by Committee to Elect Margaret DeLaRosa © 2026 Margaret DeLaRosa for Illinois.
+All rights reserved.
+Privacy Policy & Terms

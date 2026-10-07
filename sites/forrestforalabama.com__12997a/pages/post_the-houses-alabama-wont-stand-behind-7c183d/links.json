@@ -1,28 +1,182 @@
 [
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB95-enr.pdf",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB215-enr.pdf",
-"https://feesmith.com/reduced-statute-of-repose-on-residential-construction-projects-by-texas-legislature-could-significantly-limit-builder-warranty-and-defect-claims-moving-forward",
-"https://forrestforalabama.com/",
-"https://forrestforalabama.com/about",
-"https://forrestforalabama.com/issues",
-"https://forrestforalabama.com/issues/housing",
-"https://forrestforalabama.com/news",
-"https://forrestforalabama.com/post/keeping-the-house-you-already-own",
-"https://forrestforalabama.com/post/the-houses-alabama-wont-stand-behind",
-"https://forrestforalabama.com/post/when-the-rent-wont-fit",
-"https://forrestforalabama.com/privacy",
-"https://forrestforalabama.com/vote",
-"https://forrestforalabama.fillout.com/volunteer",
-"https://guides.sll.texas.gov/warranty-law",
-"https://hacr.alabama.gov/how-to-get-licensed",
-"https://hblb.alabama.gov/",
-"https://huntsvilleal.gov/housing-growth-remains-strong-2025-huntsville-development-review-reveals",
-"https://law.justia.com/codes/alabama/2024/title-34/chapter-14a/article-1/section-34-14a-19",
-"https://linktr.ee/ForrestForAlabama",
-"https://luma.com/forrestforalabama",
-"https://madisoncountyal.gov/departments/inspection/building-codes",
-"https://pgfb.alabama.gov/",
-"https://secure.actblue.com/donate/forrest-for-alabama",
-"https://shop.forrestforalabama.com/",
-"https://tr.ee/J5v6rPL-3T"
+{
+"text": "$2,000 bond",
+"href": "https://pgfb.alabama.gov"
+},
+{
+"text": "$20,000 bond",
+"href": "https://hacr.alabama.gov/how-to-get-licensed/"
+},
+{
+"text": "About",
+"href": "https://www.forrestforalabama.com/about"
+},
+{
+"text": "Alabama Board of Heating, Air Conditioning & Refrigeration Contractors",
+"href": "https://hacr.alabama.gov/how-to-get-licensed/"
+},
+{
+"text": "Alabama Code § 34-14A-19 (2024), Proof of Liability Insurance Prior to Construction",
+"href": "https://law.justia.com/codes/alabama/2024/title-34/chapter-14a/article-1/section-34-14a-19/"
+},
+{
+"text": "Alabama HB 95",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB95-enr.pdf"
+},
+{
+"text": "Alabama Home Builders Licensure Board",
+"href": "https://hblb.alabama.gov"
+},
+{
+"text": "Alabama Plumbers and Gas Fitters Examining Board",
+"href": "https://pgfb.alabama.gov"
+},
+{
+"text": "Alabama SB 215",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB215-enr.pdf"
+},
+{
+"text": "Browse all posts",
+"href": "https://www.forrestforalabama.com/news"
+},
+{
+"text": "City of Huntsville, 2025 Development Review",
+"href": "https://www.huntsvilleal.gov/housing-growth-remains-strong-2025-huntsville-development-review-reveals/"
+},
+{
+"text": "Connect",
+"href": "https://tr.ee/J5v6rPL-3T"
+},
+{
+"text": "Contact",
+"href": "https://linktr.ee/ForrestForAlabama"
+},
+{
+"text": "Contact",
+"href": "mailto:candidate@forrestforalabama.com?subject=Contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/forrest-for-alabama"
+},
+{
+"text": "Events",
+"href": "https://luma.com/forrestforalabama"
+},
+{
+"text": "Forrest Satterfield",
+"href": "https://www.forrestforalabama.com/about"
+},
+{
+"text": "HB 95",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB95-enr.pdf"
+},
+{
+"text": "Home",
+"href": "https://www.forrestforalabama.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.forrestforalabama.com/issues"
+},
+{
+"text": "Madison County, AL, Building Codes",
+"href": "https://www.madisoncountyal.gov/departments/inspection/building-codes"
+},
+{
+"text": "News",
+"href": "https://www.forrestforalabama.com/news"
+},
+{
+"text": "PolicyMay 25, 2026Keeping the House You Already OwnRead more",
+"href": "https://www.forrestforalabama.com/post/keeping-the-house-you-already-own"
+},
+{
+"text": "PolicyMay 25, 2026The Houses Alabama Won't Stand BehindRead more",
+"href": "https://www.forrestforalabama.com/post/the-houses-alabama-wont-stand-behind"
+},
+{
+"text": "PolicyMay 25, 2026When the Rent Won't FitRead more",
+"href": "https://www.forrestforalabama.com/post/when-the-rent-wont-fit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.forrestforalabama.com/privacy"
+},
+{
+"text": "SB 215",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB215-enr.pdf"
+},
+{
+"text": "Shop",
+"href": "https://shop.forrestforalabama.com/"
+},
+{
+"text": "Texas residential builder warranty / statute-of-repose summary",
+"href": "https://feesmith.com/reduced-statute-of-repose-on-residential-construction-projects-by-texas-legislature-could-significantly-limit-builder-warranty-and-defect-claims-moving-forward/"
+},
+{
+"text": "Volunteer",
+"href": "https://forrestforalabama.fillout.com/volunteer"
+},
+{
+"text": "Volunteer with the campaign",
+"href": "https://forrestforalabama.fillout.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.forrestforalabama.com/vote"
+},
+{
+"text": "Warranty Law",
+"href": "https://guides.sll.texas.gov/warranty-law"
+},
+{
+"text": "[image: Email]candidate@forrestforalabama.com",
+"href": "mailto:candidate@forrestforalabama.com?subject=Contact"
+},
+{
+"text": "[image: Forrest Satterfield for Alabama House District 21]",
+"href": "https://www.forrestforalabama.com/"
+},
+{
+"text": "[image: Forrest Satterfield, Democratic nominee for Alabama House District 21]",
+"href": "https://www.forrestforalabama.com/about"
+},
+{
+"text": "[image: Phone]‪(256) 384-4931‬",
+"href": "tel:+12563844931"
+},
+{
+"text": "[image: Run Forrest Run]",
+"href": "https://www.forrestforalabama.com/"
+},
+{
+"text": "adopted updated building codes in 2021",
+"href": "https://www.madisoncountyal.gov/departments/inspection/building-codes"
+},
+{
+"text": "created standardized warranty requirements and builder liability windows in 2023",
+"href": "https://feesmith.com/reduced-statute-of-repose-on-residential-construction-projects-by-texas-legislature-could-significantly-limit-builder-warranty-and-defect-claims-moving-forward/"
+},
+{
+"text": "disclose in writing whether they carry liability insurance",
+"href": "https://law.justia.com/codes/alabama/2024/title-34/chapter-14a/article-1/section-34-14a-19/"
+},
+{
+"text": "housing",
+"href": "https://www.forrestforalabama.com/issues/housing"
+},
+{
+"text": "housing plank",
+"href": "https://www.forrestforalabama.com/issues/housing"
+},
+{
+"text": "“good and workmanlike construction.”",
+"href": "https://guides.sll.texas.gov/warranty-law"
+},
+{
+"text": "Go Back",
+"href": "https://www.forrestforalabama.com/news"
+}
 ]

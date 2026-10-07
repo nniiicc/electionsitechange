@@ -1,5 +1,5 @@
-Redistricting or Gerrymandering?
-I have always understood redistricting to occur when the population of voters in a district grew, shrank, or shifted.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Redistricting or Gerrymandering?
+Dec 30, 2025 1 min read I have always understood redistricting to occur when the population of voters in a district grew, shrank, or shifted.
 Often occurring after census, district lines would (as they should) be redrawn to assure you and I as citizens have adequate representation.
 I understood it to be a bipartisan process that did what government should do; preserve fairness and equity for all by making sure we are all well represented.
 Gerrymandering is manipulating voting district boundaries to favor one political party.
@@ -9,5 +9,7 @@ I am equally appalled that governors and legislators responded by engaging.
 This my friends is not the end of the horse where the bit goes.
 I will oppose any candidate who gerrymanders or supports it locally, at the state level, or nationally.
 You should too!
-Bill Owen
-Harlan
+Bill Owen Harlan News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+Making Sense of Cancer and Your Water PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

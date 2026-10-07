@@ -1,9 +1,8 @@
-Putting Taxpayers First
-Barb Gleim’s
-Common Sense, Pro-Taxpayer Record
-Get to know
-Cumberland County native Barb Gleim
-Barb Gleim has a unique background of hard work, community involvement, small business, and agricultural experience.
+Skip to content Please join us at one of our upcoming events!
+Click here for more details.
+Barb Gleim for State Representative Vote Barb Gleim for State Representative – 199th Legislative District of Pennsylvania Barb’s Pro-Taxpayer Record About Barb Barb’s Priorities in Harrisburg Get Involved!
+Campaign HQ About the 199th DONATE Facebook page opens in new window Instagram page opens in new window Barb’s Pro-Taxpayer Record About Barb Barb’s Priorities in Harrisburg Get Involved!
+Campaign HQ About the 199th Donate On Tuesday, November 3rd, 2026, Vote Putting Taxpayers First Barb Gleim’s Common Sense, Pro-Taxpayer Record Combatted Wasteful Spending Opposed Governor Shapiro’s massive, out-of-control budgets Voluntarily opted out of the taxpayer-funded pension Sponsored the Property Tax Pension Obligation Disclosure Act (HB 51) Fought to Cut Taxes & Improve Our Economy Co-sponsored inheritance tax cuts (HB 796) Introduced bill to eliminate sales tax on firearms & ammo (HB 582) Voted to expand property tax relief for seniors (HB 1100) Voted against tax hikes that hurt small businesses (HB 299, HB 950) Defended Freedom & Personal Rights Co-sponsored permitless concealed carry (HB 454) Introduced bill blocking local anti-gun ordinances (HB 548) Supported Farmers & Agriculture Blocked foreign ownership of PA farmland (HB 163) Supported farmer rights to sell raw milk products (HB 1201) Voted to expand tax credits for beginning farmers (HB 242) Improved Education Sponsored the Honesty in Teaching Act to ban CRT/DEI indoctrination (HB 227) Expanded school choice through Student Freedom Accounts (HB 1904) Championed Parental Rights & PA Children Co-sponsored the Parental Rights in Education Bill (HB 319) Sponsored the Protect Women’s Sports Act (HB 158) Get to know Cumberland County native Barb Gleim Barb Gleim has a unique background of hard work, community involvement, small business, and agricultural experience.
 Prior to being elected as State Representative, Barb served as the Director of Operations and then Director of Business Development at the John W.
 Gleim Jr.
 Inc.
@@ -18,9 +17,7 @@ She is a dedicated member of Youngs United Methodist Church.
 Barb is an honorary member of the FFA, and a member of the Farm Bureau, connecting her passion for agribusiness to both the youth and seniors of our county.
 Barb has a bachelor’s degree in political science from the University of Maryland and a Master of Business Administration in Food and Agribusiness from Delaware Valley University.
 She resides in Middlesex Township with her husband, Tracy, and has three grown children – Kaitlin, Emily and Daniel.
-As your voice in Harrisburg,
-Barb will continue to fight for:
-REAL property tax elimination and lowering the overall tax burden on Pennsylvanians.
+As your voice in Harrisburg, Barb will continue to fight for: REAL property tax elimination and lowering the overall tax burden on Pennsylvanians.
 Pro-growth policies that grow our economy, not government.
 Fiscal accountability and restraint from Harrisburg’s overspending culture.
 Support farmers and the Pennsylvania agriculture sector so they can thrive.
@@ -29,38 +26,25 @@ Free, fair and secure elections.
 Protecting our constitutional freedoms from government overreach.
 Reforming Harrisburg by ending lavish perks for politicians.
 GET INVOLVED!
-Thank you very much for your support!
-–Barb Gleim
-CAMPAIGN HQ
-2026 Campaign Office Hours
-Thursday, Friday, Saturday 10 am to 4 pm
-Located at
-12 Stover Drive
-Carlisle, PA 17015
+Yes, I would like to get involved with the campaign!
+(Please check all that apply.) Circulate a petition.
+Distribute campaign literature.
+Work a poll on election day Tuesday, May 19th.
+Place a yard sign in my yard.
+Knock on doors.
+Keep me informed on upcoming events.
+Your Name Your Email Your Phone Number Your Message (optional) Thank you very much for your support! –Barb Gleim CAMPAIGN HQ 2026 Campaign Office Hours Thursday, Friday, Saturday 10 am to 4 pm Located at 12 Stover Drive Carlisle, PA 17015 Click here for map .
 Please note that our campaign HQ will be closed 9/4 & 9/5 for the holiday weekend.
 We look forward to seeing you again for regular hours on 9/10!
 Our Campaign HQ is open every week between now and election day and ready to receive volunteers!
 Help us with stuffing envelopes, writing letters, and making phone calls.
 Join us to share our vision for common sense, pro-taxpayer leadership.
-If you have any questions, please call our campaign at 717-906-5188.
-SUPPORT THE BARB GLEIM CAMPAIGN
-To Donate by Check:
-Send your personal check made out to “Citizens for Barbara Gleim” to:
-Citizens for Barbara Gleim
-PO Box 132
-New Kingstown, PA 17072
-To Donate Securely Online by Credit Card:
-Corporate contributions are prohibited by law.
+If you have any questions, please call our campaign at 717-906-5188 .
+SUPPORT THE BARB GLEIM CAMPAIGN To Donate by Check: Send your personal check made out to “Citizens for Barbara Gleim” to: Citizens for Barbara Gleim PO Box 132 New Kingstown, PA 17072 To Donate Securely Online by Credit Card: CLICK HERE TO DONATE NOW Corporate contributions are prohibited by law.
 Contributions to Citizens for Barbara Gleim are not tax deductible.
-ABOUT THE 199th DISTRICT
-The 199th Pennsylvania House of Representatives District is located in Cumberland County and includes the following areas: Carlisle, Newburg, Newville, Hopewell Township, Lower Frankford Township, Lower Mifflin Township, Middlesex Township, North Middleton Township, North Newton Township, South Middleton Township (Precincts 03, 04, and 05), Upper Frankford Township, Upper Mifflin Township, and West Pennsboro Township.
-UPCOMING EVENTS
-You are cordially invited to Barb Gleim & PA BikePAC’s Bikes, BBQ, & Freedom Fundraiser! 🏍️🇺🇲
-Come see a mini motorcycle show and enjoy some good ol’ fashioned BBQ!
-🗓️ Sunday, October 11, 2026
-⏰ 1pm – 3pm
-📍 Carlisle Expo Center: 100 K St.
-Carlisle, PA 17013
-Make checks payable to Citizens for Gleim, or you may pay online by clicking here.
-Please RSVP by texting or calling 717-906-5188.
+ABOUT THE 199th DISTRICT The 199th Pennsylvania House of Representatives District is located in Cumberland County and includes the following areas: Carlisle, Newburg, Newville, Hopewell Township, Lower Frankford Township, Lower Mifflin Township, Middlesex Township, North Middleton Township, North Newton Township, South Middleton Township (Precincts 03, 04, and 05), Upper Frankford Township, Upper Mifflin Township, and West Pennsboro Township.
+UPCOMING EVENTS You are cordially invited to Barb Gleim & PA BikePAC’s Bikes, BBQ, & Freedom Fundraiser ! 🏍️🇺🇲 Come see a mini motorcycle show and enjoy some good ol’ fashioned BBQ! 🗓️ Sunday, October 11, 2026 ⏰ 1pm – 3pm 📍 Carlisle Expo Center: 100 K St.
+Carlisle, PA 17013 Make checks payable to Citizens for Gleim, or you may pay online by clicking here .
+Please RSVP by texting or calling 717-906-5188 .
 We hope to see you there!
+On Tuesday, November 3rd, 2026, Vote Putting Taxpayers First PAID FOR BY CITIZENS FOR BARBARA GLEIM Go to Top

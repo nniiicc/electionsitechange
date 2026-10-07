@@ -1,6 +1,3 @@
-Veteran Local Republican Williams Seeks Senate Seat
-Carroll County Republican Party Chairman, Craig Williams, made a formal announcement at the regular meeting Monday morning at the Family Table in Carroll.
-December 6, 2019
-December 2, 2019
-PAID FOR BY WILLIAMS FOR IOWA
-Treasurer: John Van Horn
+HOME CONTACT Menu HOME CONTACT Absentee Ballot Request Facebook ABOUT PRIORITIES NEWS GET INVOLVED Menu ABOUT PRIORITIES NEWS GET INVOLVED CONTRIBUTE NEWS Veteran Local Republican Williams Seeks Senate Seat December 6, 2019 Carroll County Republican Party Chairman, Craig Williams, made a formal announcement at the regular meeting Monday morning at the Family Table in Carroll.
+Read More » Carroll County Republican Party Chair Brings Fiscally Conservative Approach To 6th District Senate Campaign December 2, 2019 Carroll County Republican Party Chairman, Craig Williams, made a formal announcement at the regular meeting Monday morning at the Family Table in Carroll.
+Read More » PAID FOR BY WILLIAMS FOR IOWA Treasurer: John Van Horn Copyright # – Williams for Iowa GET INVOLVED CONTRIBUTE

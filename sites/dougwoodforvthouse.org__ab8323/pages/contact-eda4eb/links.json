@@ -1,10 +1,38 @@
 [
-"https://dougwoodforvthouse.org/about-doug",
-"https://dougwoodforvthouse.org/about-doug/in-the-news",
-"https://dougwoodforvthouse.org/contact",
-"https://dougwoodforvthouse.org/endorsements",
-"https://dougwoodforvthouse.org/home",
-"https://dougwoodforvthouse.org/hot-topics",
-"https://facebook.com/people/Doug-Wood-for-VT-House-2024/100082077891814",
-"https://google.com/url?q=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DJNVUJM89GYGF2&sa=D&sntz=1&usg=AOvVaw3NJfpA7U7OM-ImzY42Gtp2"
+{
+"text": "About Doug",
+"href": "https://www.dougwoodforvthouse.org/about-doug"
+},
+{
+"text": "Contact",
+"href": "https://www.dougwoodforvthouse.org/contact"
+},
+{
+"text": "Donate to Doug Wood for VT House",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DJNVUJM89GYGF2&sa=D&sntz=1&usg=AOvVaw3NJfpA7U7OM-ImzY42Gtp2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dougwoodforvthouse.org/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Doug-Wood-for-VT-House-2024/100082077891814/"
+},
+{
+"text": "Home",
+"href": "https://www.dougwoodforvthouse.org/home"
+},
+{
+"text": "Hot Topics",
+"href": "https://www.dougwoodforvthouse.org/hot-topics"
+},
+{
+"text": "In the News",
+"href": "https://www.dougwoodforvthouse.org/about-doug/in-the-news"
+},
+{
+"text": "Wood is Good!",
+"href": "https://www.dougwoodforvthouse.org/home"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Gary Click on the issues",
  "final_url": "https://www.garyclick.com/issues",
- "paid_for_by": null,
+ "fingerprint": "0278171b7139e414994d9cb6804c8089cef0e3e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "On the Issues",
  "years_mentioned": [
   "2022",

@@ -1,10 +1,38 @@
 [
-"https://judgelay.com/",
-"https://judgelay.com/about",
-"https://judgelay.com/contact",
-"https://judgelay.com/gallery",
-"https://judgelay.com/privacy-policy",
-"https://judgelay.com/terms-of-service",
-"https://judgelay.com/volunteer",
-"https://ryvall.com/"
+{
+"text": "About",
+"href": "https://www.judgelay.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.judgelay.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.judgelay.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.judgelay.com/"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.judgelay.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.judgelay.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.judgelay.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.judgelay.com/gallery"
+}
 ]

@@ -1,8 +1,3 @@
-Issues
-As State Representative, Aaron will be focused on the following areas:
-1) Prioritizing economic and workforce development and retention for Eastern Kentucky;
-2) Making Kentucky more economically competitive and eliminating the state income tax;
-3) Ensuring efficient operation and fiscal management of State Government;
-4) Continuing development of infrastructure including internet and cell phone reception alongside our county officials; and
-5) Supporting public policy through a Christian, Constitutional, and Conservative viewpoint.
+Meet Aaron Issues News Volunteer Contribute Issues The #1 Issue for Eastern Kentucky is Jobs Aaron Thompson for KY House As State Representative, Aaron will be focused on the following areas: 1) Prioritizing economic and workforce development and retention for Eastern Kentucky; 2) Making Kentucky more economically competitive and eliminating the state income tax; 3) Ensuring efficient operation and fiscal management of State Government; 4) Continuing development of infrastructure including internet and cell phone reception alongside our county officials; and 5) Supporting public policy through a Christian, Constitutional, and Conservative viewpoint.
 He is pro-life, will be protective of the Second Amendment, and is dedicated to the values and principles of the Republican Party including fiscal discipline, limited government, and as little taxation as possible.
+Contribute Meet Aaron Yard Signs Contact Paid for by Aaron Thompson for KY House PO Box 462, Greenup, KY 41144 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Aaron Issues Contribute Volunteer News Yard Signs Contact Close Menu

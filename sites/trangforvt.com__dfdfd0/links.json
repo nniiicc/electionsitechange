@@ -1,4 +1,14 @@
 [
-"https://secure.actblue.com/donate/trang-do-1",
-"https://trangforvt.com/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/trang-do-1"
+},
+{
+"text": "[image: Trang Do Logo]",
+"href": "https://www.trangforvt.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:trangforvt@gmail.com"
+}
 ]

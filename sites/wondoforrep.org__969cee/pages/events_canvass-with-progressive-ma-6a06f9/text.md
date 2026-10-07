@@ -1,5 +1,3 @@
-Back to All Events
-This Saturday at 2 PM, join Progressive Massachusetts to Canvass for Lora on their Day of Action!
-Next
-Next
-August 9
+Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Back to All Events Canvass with Progressive MA Saturday, August 8, 2026 2:00 PM 4:00 PM Country Creemee 52 Avenue A Montague, Massachusetts, 01376 United States (map) Google Calendar ICS This Saturday at 2 PM, join Progressive Massachusetts to Canvass for Lora on their Day of Action!
+Next Next August 9 Greenfield Group Canvass launch DONATE Contact info@wondoforrep.org P.O.
+Box 19, Greenfield, MA 01302

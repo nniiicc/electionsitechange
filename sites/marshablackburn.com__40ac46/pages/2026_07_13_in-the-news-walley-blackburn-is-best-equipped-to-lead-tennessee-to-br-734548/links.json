@@ -1,22 +1,94 @@
 [
-"http://flickr.com/photos/votemarsha",
-"https://facebook.com/votemarshablackburn",
-"https://instagram.com/votemarsha",
-"https://jacksonsun.com/story/news/local/2026/07/11/opinion-why-blackburn-is-best-equipped-to-lead-tennessee/90560602007?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z112001p000850c000850e004100v112001d--20--b--20--&gca-ft=186&gca-ds=sophi&link_source=ta_first_comment&taid=6a524c6d34dba200014b2ed9",
-"https://jacksonsun.com/story/news/local/2026/07/11/opinion-why-blackburn-is-best-equipped-to-lead-tennessee/90560602007?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113001p000850c000850e000900v113001d--30--b--30--&gca-ft=19&gca-ds=sophi&link_source=ta_first_comment&taid=6a524c6d34dba200014b2ed9",
-"https://marshablackburn.com/",
-"https://marshablackburn.com/bell-to-bell-no-cell",
-"https://marshablackburn.com/issues",
-"https://marshablackburn.com/join-us",
-"https://marshablackburn.com/join-us?checkbox=endorse",
-"https://marshablackburn.com/meet-marsha",
-"https://marshablackburn.com/news",
-"https://marshablackburn.com/privacy-policy",
-"https://marshablackburn.com/submissions?checkbox=endorse",
-"https://marshablackburn.com/team-marsha-store",
-"https://secure.winred.com/marsha-for-governor/website",
-"https://truthsocial.com/@VoteMarshaBlackburn",
-"https://vimeo.com/votemarsha",
-"https://x.com/votemarsha",
-"https://youtube.com/@votemarshablackburn"
+{
+"text": "Bell to Bell: No Cell",
+"href": "https://marshablackburn.com/bell-to-bell-no-cell/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/marsha-for-governor/website"
+},
+{
+"text": "Endorse",
+"href": "https://marshablackburn.com/join-us/?checkbox=endorse"
+},
+{
+"text": "Endorsement Submissions",
+"href": "https://marshablackburn.com/submissions/?checkbox=endorse"
+},
+{
+"text": "HERE",
+"href": "https://www.jacksonsun.com/story/news/local/2026/07/11/opinion-why-blackburn-is-best-equipped-to-lead-tennessee/90560602007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113001p000850c000850e000900v113001d--30--b--30--&gca-ft=19&gca-ds=sophi&link_source=ta_first_comment&taid=6a524c6d34dba200014b2ed9"
+},
+{
+"text": "Home",
+"href": "https://marshablackburn.com/"
+},
+{
+"text": "In The News",
+"href": "https://marshablackburn.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://marshablackburn.com/issues/"
+},
+{
+"text": "Jackson Sun",
+"href": "https://www.jacksonsun.com/story/news/local/2026/07/11/opinion-why-blackburn-is-best-equipped-to-lead-tennessee/90560602007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z112001p000850c000850e004100v112001d--20--b--20--&gca-ft=186&gca-ds=sophi&link_source=ta_first_comment&taid=6a524c6d34dba200014b2ed9"
+},
+{
+"text": "Join The Team",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Join Us",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Meet Marsha",
+"href": "https://marshablackburn.com/meet-marsha/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marshablackburn.com/privacy-policy/"
+},
+{
+"text": "Team Store",
+"href": "https://marshablackburn.com/team-marsha-store/"
+},
+{
+"text": "[image: Marsha Blackburn for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[image: Marsha for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.flickr.com/photos/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@VoteMarshaBlackburn"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/votemarsha"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemarshablackburn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votemarshablackburn"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votemarsha"
+}
 ]

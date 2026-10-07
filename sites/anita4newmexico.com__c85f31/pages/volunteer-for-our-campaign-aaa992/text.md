@@ -1,0 +1,6 @@
+Democrat for NM House District 70 Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact Volunteer We welcome and appreciate your support for Anita’s campaign for State House.
+There are many ways you can help, including: Endorsing Anita!
+Outreach to your friends, family and neighbors and ask them to endorse Anita, too.
+Phoning voters Walking door-to-door Getting out the vote on Primary and Election Days! " * " indicates required fields Name * First Last Email * Enter Email Confirm Email Phone * I can help in the following ways: * canvassing phone banking hosting an event other If 'other': * I Want To Help Get a Yard Sign Show your neighbors you support Anita!
+Get a Sign Connect with our campaign Paid for and authorized by the Friends for Anita Gonzales Martha Peña, Treasurer Site Map | Privacy Policy ©#-#, Friends for Anita Gonzales; All rights reserved.
+Edit This | Admin Designed and developed by Evo Home About Anita About District 70 Voting Contribute Priorities Endorsements Volunteer Events News Contact Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact

@@ -1,8 +1,46 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/GaryMattesonForNH",
-"https://instagram.com/garymattesonfornh",
-"https://mattesonnh.com/",
-"https://mattesonnh.com/contact"
+{
+"text": "About Gary",
+"href": "https://mattesonnh.com/#about"
+},
+{
+"text": "Community",
+"href": "https://mattesonnh.com/#community"
+},
+{
+"text": "Contact",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Contact Form",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://mattesonnh.com/#donate"
+},
+{
+"text": "Gary Matteson",
+"href": "https://mattesonnh.com/"
+},
+{
+"text": "Priorities",
+"href": "https://mattesonnh.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GaryMattesonForNH"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/garymattesonfornh/"
+}
 ]

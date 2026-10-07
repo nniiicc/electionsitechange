@@ -1,4 +1,4 @@
-As it relates to state government, the April 2025 revenue forecast lowered the revenue projections for the 2026/2027 biennium by nearly $2B, or 4.2%, as compared to the December 2024 revenue forecast.
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse End of Session Update: 2026-2027 Budget and Property Tax Update by Cindy Ledbetter Posted on April 29, 2025 April 29, 2025 As it relates to state government, the April 2025 revenue forecast lowered the revenue projections for the 2026/2027 biennium by nearly $2B, or 4.2%, as compared to the December 2024 revenue forecast.
 House Bill 1001, the state budget bill, reduced most state agencies, including the judicial branch, legislative branch, separately elected officials, and state universities, by 5% compared to 2025 appropriation levels.
 Indiana Economic Development was cut by 25% from $105 million to $70 million.
 Exceptions included K-12 Education, the Department of Corrections, Indiana State Police, Department of Child Services, Mental Health, and Medicaid, all of which were funded at levels necessary to cover existing obligations.
@@ -6,16 +6,7 @@ Pension and debt obligations were fully funded.
 Due to the budget situation, many of my bills aimed at increasing mental health funding were not heard due to fiscal constraints.
 Still, mental health funding continues to be funded at the 2025 appropriation level.
 Despite the forecast, Indiana’s fiscal outlook remains strong.
-Since the pandemic, Indiana’s gross domestic product has grown by 9.3%, more than any other state in the Midwest.
-•3.5x the growth rate of Illinois (2.5%)
-•2x the growth rate of Ohio (4.2%)
-•25% more growth than Kentucky (7.3%)
-•40% more growth than Michigan (6.3%)
-•Indiana ranks 1st in the Midwest and 10th in the nation for business tax climate, according to the Tax Foundation.
-•According to “Rich States, Poor States”, Indiana is ranked 5th overall for its economic outlook and has remained in the top 10 states for economic outlook for 10 years in a row
-• Indiana ranks 5th 5thfor “Cost of Doing Business,”5thfor “Cost of Living,” 9thin the nationfor “Infrastructure”, and11thoverallin CNBC’sAmerica’s Top States for Business 2024
-• Indiana ranks 2nd in the nation in Forbes’ “Best state to start a business”
-We also passed historic property tax legislation, with Senate Enrolled Act 1 (SEA 1), which is expected to deliver $1.3 billion in property tax savings over three years, starting in 2026.
+Since the pandemic, Indiana’s gross domestic product has grown by 9.3%, more than any other state in the Midwest. •3.5x the growth rate of Illinois (2.5%) •2x the growth rate of Ohio (4.2%) •25% more growth than Kentucky (7.3%) •40% more growth than Michigan (6.3%) •Indiana ranks 1st in the Midwest and 10th in the nation for business tax climate, according to the Tax Foundation. •According to “Rich States, Poor States”, Indiana is ranked 5th overall for its economic outlook and has remained in the top 10 states for economic outlook for 10 years in a row • Indiana ranks 5th 5thfor “Cost of Doing Business,”5thfor “Cost of Living,” 9thin the nationfor “Infrastructure”, and11thoverallin CNBC’sAmerica’s Top States for Business 2024 • Indiana ranks 2nd in the nation in Forbes’ “Best state to start a business” We also passed historic property tax legislation, with Senate Enrolled Act 1 (SEA 1), which is expected to deliver $1.3 billion in property tax savings over three years, starting in 2026.
 Reportedly, two-thirds of Indiana homeowners will see a reduction in their property tax bills compared to the previous year, with 90% of homeowners seeing property tax relief.
 The relief measures detailed under SEA 1 include a 10% property tax credit, which can save up to $ 300 on all homestead property tax bills starting in 2026.
 Aimed at assisting those on a fixed income, seniors will receive an additional $150 credit.
@@ -26,3 +17,12 @@ Furthermore, SEA 1 implements stronger controls to monitor the $54.3 billion loc
 To bolster accountability and taxpayers’ awareness, the legislation also establishes a Property Tax Transparency Portal.
 This tool is designed to simplify for taxpayers the ability to compare their current tax bill with any proposed tax rate changes.
 As SEA 1 launches into effect, Indiana’s residents can anticipate not only a more manageable tax bill in the immediate future but also a framework poised to ensure continued fiscal scrutiny and reform.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Tagged budget , economy , finance , news , politics Post navigation Prev 2024-2025 Budget Priorities Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
+All rights reserved.
+Paid for by Ledbetter for State Representative Blog at WordPress.com.
+Search for: Search × Comment Reblog Subscribe Subscribed votecindyledbetter.com Sign me up Have a WordPress.com account?
+Log in now. votecindyledbetter.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

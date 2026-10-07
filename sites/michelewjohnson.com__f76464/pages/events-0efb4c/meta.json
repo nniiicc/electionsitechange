@@ -1,8 +1,10 @@
 {
  "description": "Upcoming campaign events for Michele W. Johnson, candidate for Maryland House of Delegates District 37B.",
  "final_url": "https://www.michelewjohnson.com/events",
- "paid_for_by": null,
- "title": "Events \u2014 Michele W. Johnson for Delegate",
+ "fingerprint": "c3432f0f8d5fa39078a6720f9712a7832fa52e83",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Events — Michele W. Johnson for Delegate",
  "years_mentioned": [
   "2026"
  ]

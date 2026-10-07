@@ -1,6 +1,4 @@
-top of page
-Election Day is Tuesday, November 3
-WE NEED A STATE SENATOR THAT SHOWS UP FOR THE PEOPLE OF WILLIAMSON COUNTY - THAT'S WHY WE NEED DAVID HARDY TO WIN IN NOVEMBER 2026
-David Hardy is asking for your support as he runs for TN State Senate - District 27.
+top of page HOME ABOUT ISSUES GET INVOLVED Menu Close DONATE Election Day is Tuesday, November 3 WE NEED A STATE SENATOR THAT SHOWS UP FOR THE PEOPLE OF WILLIAMSON COUNTY - THAT'S WHY WE NEED DAVID HARDY TO WIN IN NOVEMBER 2026 David Hardy is asking for your support as he runs for TN State Senate - District 27.
 We need a commonsense leader that shows up and works for the people of Williamson County.
-bottom of page
+First name Last name Email * Phone Let us know how you can help out Yard sign Host an event Volunteer on the campaign Other SEND A DONATION OF ANY SIZE IS DEEPLY APPRECIATED.
+DONATE ONLINE Donate by Mail: Please send your check to David Hardy for TN, 400 Enclave Ct, Brentwood, TN 37027 Privacy Policy Back to Top © # - Paid for by DavidHardy4TN, Bruce Dyson, Treasurer HOME ABOUT ISSUES GET INVOLVED bottom of page

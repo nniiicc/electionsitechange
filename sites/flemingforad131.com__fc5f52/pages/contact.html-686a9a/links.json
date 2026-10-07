@@ -1,19 +1,102 @@
 [
-"https://facebook.com/flemingforAD131in2026",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fflemingforad131.com%2Fcontact.html",
-"https://flemingforad131.com/",
-"https://flemingforad131.com/about.html",
-"https://flemingforad131.com/blog.html",
-"https://flemingforad131.com/cgi-bin/printstory.cgi?page=contact.html",
-"https://flemingforad131.com/cgi-bin/privacy.cgi",
-"https://flemingforad131.com/cgi-bin/terms.cgi",
-"https://flemingforad131.com/contact.html",
-"https://flemingforad131.com/donate.html",
-"https://flemingforad131.com/events.html",
-"https://flemingforad131.com/issues.html",
-"https://flemingforad131.com/linkedin.com/in/rev-dr-phillip-fleming-19b193150",
-"https://flemingforad131.com/volunteer.html",
-"https://flemingforad131.com/voter-info.html",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fflemingforad131.com%2Fcontact.html&title=Contact+-+Committee+to+elect+Phillip+Fleming+AD131",
-"https://twitter.com/intent/tweet?text=Contact+-+Committee+to+elect+Phillip+Fleming+AD131&url=https%3A%2F%2Fflemingforad131.com%2Fcontact.html"
+{
+"text": "About",
+"href": "https://flemingforad131.com/about.html"
+},
+{
+"text": "Blog",
+"href": "https://flemingforad131.com/blog.html"
+},
+{
+"text": "Contact",
+"href": "https://flemingforad131.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://flemingforad131.com/donate.html"
+},
+{
+"text": "Donate Now",
+"href": "https://flemingforad131.com/donate.html"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fflemingforad131.com%2Fcontact.html&subject=Contact+-+Committee+to+elect+Phillip+Fleming+AD131"
+},
+{
+"text": "Events",
+"href": "https://flemingforad131.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/flemingforAD131in2026"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fflemingforad131.com%2Fcontact.html"
+},
+{
+"text": "Issues",
+"href": "https://flemingforad131.com/issues.html"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fflemingforad131.com%2Fcontact.html&title=Contact+-+Committee+to+elect+Phillip+Fleming+AD131"
+},
+{
+"text": "Print Page",
+"href": "https://flemingforad131.com/cgi-bin/printstory.cgi?page=contact.html"
+},
+{
+"text": "Privacy",
+"href": "https://flemingforad131.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Read More...",
+"href": "https://flemingforad131.com/events.html"
+},
+{
+"text": "Support the Campaign",
+"href": "https://flemingforad131.com/donate.html"
+},
+{
+"text": "Terms",
+"href": "https://flemingforad131.com/cgi-bin/terms.cgi"
+},
+{
+"text": "Top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?text=Contact+-+Committee+to+elect+Phillip+Fleming+AD131&url=https%3A%2F%2Fflemingforad131.com%2Fcontact.html&via="
+},
+{
+"text": "View Privacy Policy",
+"href": "https://flemingforad131.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Volunteer",
+"href": "https://flemingforad131.com/volunteer.html"
+},
+{
+"text": "Voting Information",
+"href": "https://flemingforad131.com/voter-info.html"
+},
+{
+"text": "[image: Fleming For AD131]",
+"href": "https://flemingforad131.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:contact@yourdomain.com"
+},
+{
+"text": "[tooltip: Rev. Dr. Phillip Fleming on Facebook]",
+"href": "https://www.facebook.com/flemingforAD131in2026"
+},
+{
+"text": "[tooltip: Rev. Dr. Phillip Fleming on LinkedIn]",
+"href": "https://flemingforad131.com/linkedin.com/in/rev-dr-phillip-fleming-19b193150/"
+}
 ]

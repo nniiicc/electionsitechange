@@ -1,62 +1,11 @@
-Regina WeissIncumbent State Representative, District 5NEW
-Donna SquallsRoyal Oak Township SupervisorNEW
-Marian McClellanOak Park MayorNEW
-Mary SheffieldMayor of City of DetroitNEW
-Angela Whitfield-CallowayCity of Detroit CouncilmemberNEW
-Natalie PriceState Representative - District 6NEW
-Julie EdgarMayor Pro Tem - Oak ParkNEW
-The Black SlateNEW
-Run for SomethingNEW
-Jessica NewmanFerndale Board of EducationNEW
-Glenda StainbackNEW
-MI ListNEW
-Paige MattisonPresident of Oak Park Board of EducationNEW
-Heather Perryman TanksTreasurer of Oak Park Board of EducationNEW
-Fannie Lou Hamer PACNEW
-Buzz ThomasFormer Michigan LegislatorNEW
-Darryl WoodsDetroit Police Commissioner At-LargeNEW
-IBEW Local 58NEW
-Planned Parenthood Advocates of MichiganNEW
-Young Democrats of MichiganNEW
-Northern Midwest Regional Council of CarpentersNEW
-American Federation of State County and Municipal EmployeesNEW
-Fems For DemsNEW
-Michigan Education AssociationNEW
-American Federation of TeachersNEW
-League of Conservation VotersNEW
-SEIU Michigan NEW
-MDP Grassroots CaucusNEW
-Wayne County Democratic Black CaucusNEW
-Michigan Professional Firefighters UnionNEW
-Council of Baptist Pastors of Detroit & VicinityNEW
-Regina WeissIncumbent State Representative, District 5NEW
-Donna SquallsRoyal Oak Township SupervisorNEW
-Marian McClellanOak Park MayorNEW
-Mary SheffieldMayor of City of DetroitNEW
-Angela Whitfield-CallowayCity of Detroit CouncilmemberNEW
-Natalie PriceState Representative - District 6NEW
-Julie EdgarMayor Pro Tem - Oak ParkNEW
-The Black SlateNEW
-Run for SomethingNEW
-Jessica NewmanFerndale Board of EducationNEW
-Glenda StainbackNEW
-MI ListNEW
-Paige MattisonPresident of Oak Park Board of EducationNEW
-Heather Perryman TanksTreasurer of Oak Park Board of EducationNEW
-Fannie Lou Hamer PACNEW
-Buzz ThomasFormer Michigan LegislatorNEW
-Darryl WoodsDetroit Police Commissioner At-LargeNEW
-IBEW Local 58NEW
-Planned Parenthood Advocates of MichiganNEW
-Young Democrats of MichiganNEW
-Northern Midwest Regional Council of CarpentersNEW
-American Federation of State County and Municipal EmployeesNEW
-Fems For DemsNEW
-Michigan Education AssociationNEW
-American Federation of TeachersNEW
-League of Conservation VotersNEW
-SEIU Michigan NEW
-MDP Grassroots CaucusNEW
-Wayne County Democratic Black CaucusNEW
-Michigan Professional Firefighters UnionNEW
-Council of Baptist Pastors of Detroit & VicinityNEW
+Skip to main content C C Candace Calloway For MI State Rep District 5 About Issues Media Get Involved Endorsements Volunteer Donate Donate Now Endorsements Leaders and community members who believe in the movement.
+Regina Weiss Incumbent State Representative, District 5 NEW Donna Squalls Royal Oak Township Supervisor NEW Marian McClellan Oak Park Mayor NEW Mary Sheffield Mayor of City of Detroit NEW Angela Whitfield-Calloway City of Detroit Councilmember NEW Natalie Price State Representative - District 6 NEW Julie Edgar Mayor Pro Tem - Oak Park NEW The Black Slate NEW Run for Something NEW Jessica Newman Ferndale Board of Education NEW Glenda Stainback NEW MI List NEW Paige Mattison President of Oak Park Board of Education NEW Heather Perryman Tanks Treasurer of Oak Park Board of Education NEW Fannie Lou Hamer PAC NEW Buzz Thomas Former Michigan Legislator NEW Darryl Woods Detroit Police Commissioner At-Large NEW IBEW Local 58 NEW Planned Parenthood Advocates of Michigan NEW Young Democrats of Michigan NEW Northern Midwest Regional Council of Carpenters NEW American Federation of State County and Municipal Employees NEW Fems For Dems NEW Michigan Education Association NEW American Federation of Teachers NEW League of Conservation Voters NEW SEIU Michigan NEW MDP Grassroots Caucus NEW Wayne County Democratic Black Caucus NEW Michigan Professional Firefighters Union NEW Council of Baptist Pastors of Detroit & Vicinity NEW Regina Weiss Incumbent State Representative, District 5 NEW Donna Squalls Royal Oak Township Supervisor NEW Marian McClellan Oak Park Mayor NEW Mary Sheffield Mayor of City of Detroit NEW Angela Whitfield-Calloway City of Detroit Councilmember NEW Natalie Price State Representative - District 6 NEW Julie Edgar Mayor Pro Tem - Oak Park NEW The Black Slate NEW Run for Something NEW Jessica Newman Ferndale Board of Education NEW Glenda Stainback NEW MI List NEW Paige Mattison President of Oak Park Board of Education NEW Heather Perryman Tanks Treasurer of Oak Park Board of Education NEW Fannie Lou Hamer PAC NEW Buzz Thomas Former Michigan Legislator NEW Darryl Woods Detroit Police Commissioner At-Large NEW IBEW Local 58 NEW Planned Parenthood Advocates of Michigan NEW Young Democrats of Michigan NEW Northern Midwest Regional Council of Carpenters NEW American Federation of State County and Municipal Employees NEW Fems For Dems NEW Michigan Education Association NEW American Federation of Teachers NEW League of Conservation Voters NEW SEIU Michigan NEW MDP Grassroots Caucus NEW Wayne County Democratic Black Caucus NEW Michigan Professional Firefighters Union NEW Council of Baptist Pastors of Detroit & Vicinity NEW Elected Officials & Community Leaders Regina Weiss Incumbent State Representative, District 5 Donna Squalls Royal Oak Township Supervisor Marian McClellan Oak Park Mayor Mary Sheffield Mayor of City of Detroit Angela Whitfield-Calloway City of Detroit Councilmember Natalie Price State Representative - District 6 Julie Edgar Mayor Pro Tem - Oak Park The Black Slate Run for Something Jessica Newman Ferndale Board of Education Glenda Stainback MI List Paige Mattison President of Oak Park Board of Education Heather Perryman Tanks Treasurer of Oak Park Board of Education Fannie Lou Hamer PAC Buzz Thomas Former Michigan Legislator Darryl Woods Detroit Police Commissioner At-Large IBEW Local 58 Planned Parenthood Advocates of Michigan Young Democrats of Michigan Northern Midwest Regional Council of Carpenters American Federation of State County and Municipal Employees Fems For Dems Michigan Education Association American Federation of Teachers League of Conservation Voters SEIU Michigan MDP Grassroots Caucus Wayne County Democratic Black Caucus Michigan Professional Firefighters Union Council of Baptist Pastors of Detroit & Vicinity More endorsements coming soon.
+Check back for updates.
+Ready to Lead with Hope?
+Join the movement for a stronger, more affordable, and better-educated community.
+Donate Volunteer Get a Yard Sign C C Candace Calloway for Michigan State Representative District 5 “ Right person.
+Right reasons.
+Right time. ” Quick Links About Issues Get Involved Events Contact Stay Connected votecandacecalloway@gmail.com (313) 857-8989 Paid for by Committee to Elect Candace Calloway P.O.
+Box 21785, Detroit, MI 48221 © 2026 Committee to Elect Candace Calloway .
+All rights reserved.
+Website by James Gault and Akil Clark

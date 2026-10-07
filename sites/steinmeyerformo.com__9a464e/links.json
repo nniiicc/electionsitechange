@@ -1,8 +1,42 @@
 [
-"http://secure.winred.com/steinmeyer-for-missouri/donate-today",
-"https://facebook.com/profile.php?id=61553218354885",
-"https://linkedin.com/in/michaelsteinmeyer",
-"https://steinmeyerformo.com/",
-"https://steinmeyerformo.com/issues-and-impact",
-"https://steinmeyerformo.com/meet-mike"
+{
+"text": "Contact",
+"href": "mailto:SteinmeyerforMo@gmail.com?subject=From+Your+Website"
+},
+{
+"text": "Donate",
+"href": "http://secure.winred.com/steinmeyer-for-missouri/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61553218354885"
+},
+{
+"text": "Home",
+"href": "https://www.steinmeyerformo.com"
+},
+{
+"text": "Issues & Impact",
+"href": "https://www.steinmeyerformo.com/issues-and-impact"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.steinmeyerformo.com/meet-mike"
+},
+{
+"text": "Steinmeyer For Missouri",
+"href": "https://www.steinmeyerformo.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61553218354885"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/michaelsteinmeyer/"
+},
+{
+"text": "[image: Steinmeyer-logo-transparent]",
+"href": "https://www.steinmeyerformo.com"
+}
 ]

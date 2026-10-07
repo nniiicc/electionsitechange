@@ -1,4 +1,4 @@
-Tax credits are fairly complicated and somewhat obtuse but have proven to be very effective in encouraging investment in the rehabilitation and revitalization of real estate in Vermont.
+Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell - Vermont Rep Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell March 12, 2018 3/12/2018 - Tax Credits Fund Housing and Community Development Charlie Kimbell March 12, 2018 Tax credits are fairly complicated and somewhat obtuse but have proven to be very effective in encouraging investment in the rehabilitation and revitalization of real estate in Vermont.
 They are “tax expenditures” of the State because they result in less tax revenues to support the obligations of the state.
 Because of that, establishing new tax credits or expanding existing ones are carefully scrutinized by the money committees in the legislature – and rightly so.
 Who buys tax credits?
@@ -7,8 +7,7 @@ Banks can buy tax credits to reduce their annual franchise tax, and so they are 
 Let me know if you want to learn more about this.
 H.766 is a bill that deals with three different types of tax credits.
 It was passed out of the House Committee on Commerce and Economic Development and is now being considered by the Ways and Means committee before going to the rest of the House for consideration.
-Here is what is in the bill:
-1.
+Here is what is in the bill: 1.
 Establishing a rehabilitation tax credit pilot project.
 The bill allocates $625,000 in tax credits to be divided amongst three applicant towns to incentivize the rehabilitation of existing homes in neighborhood areas that border an existing Village Center or Designated Downtown.
 The deal is that a homeowner can receive a tax credit equal to 30% of the cost of rehabilitating an existing home, limited to $25,000, as long as the building is a 1-4 unit structure and is under the median price of a house in the state.
@@ -28,3 +27,4 @@ From 2013-2017, 141 projects in 52 communities received total tax credits of $12
 There is a lot of competition for this annual allocation of tax credits, so not every application receives funding.
 I support this use of tax expenditures to provide meaningful financial incentives for community development in Vermont.
 It is my hope that the rest of the legislature sees the value in these programs as well.
+Newer Post 2/25/2018 - Lower My Property Taxes DONATE Back to Top Charlie Kimbell - Vermont State Representative, Windsor-5 email: kbellvt@gmail.com phone: 802-296-1276

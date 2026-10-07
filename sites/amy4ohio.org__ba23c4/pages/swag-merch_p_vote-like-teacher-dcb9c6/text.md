@@ -1,13 +1,5 @@
-Image 1 of 2
-Image 2 of 2
-$4.80
-| | 2.25" |
-| Diameter, in | 2.25 |
-| Thickness, in | 0.16 |
-These Custom Pin Buttons are made from metal, yet are lightweight and durable with a strong safety pin.
-Begin your journey in selling Customized Pin Buttons with Printify.
-.: Materials: metal with mylar face
-.: Available in 1 size
-.: Safety pin backing
-.: Glossy scratch and UV resistant front
-.: Assembled in the USA from globally sourced parts
+0 Skip to Content Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu About Contact Donate Topics Voter Info Swag & Merch Swag & Merch › Vote Like Teacher Image 1 of 2 Image 2 of 2 Vote Like Teacher $4.80 2.25" Diameter, in 2.25 Thickness, in 0.16 These Custom Pin Buttons are made from metal, yet are lightweight and durable with a strong safety pin.
+Begin your journey in selling Customized Pin Buttons with Printify. .: Materials: metal with mylar face .: Available in 1 size .: Safety pin backing .: Glossy scratch and UV resistant front .: Assembled in the USA from globally sourced parts Add To Cart Added!
+2.25" Diameter, in 2.25 Thickness, in 0.16 These Custom Pin Buttons are made from metal, yet are lightweight and durable with a strong safety pin.
+Begin your journey in selling Customized Pin Buttons with Printify. .: Materials: metal with mylar face .: Available in 1 size .: Safety pin backing .: Glossy scratch and UV resistant front .: Assembled in the USA from globally sourced parts Rigsby 4 Representative Paid for by Friends of Amy Rigsby Location: Fairfield, Licking, & Perry Counties, Ohio Contact: AmyR4Ohio@gmail.com Send Donation Checks to: Friends of Amy Rigsby, P.O.
+Box 43, Amanda, OH 43102

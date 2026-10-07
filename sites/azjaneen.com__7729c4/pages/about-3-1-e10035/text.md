@@ -1,9 +1,3 @@
-top of page
-Endorsements
-"I believe we can - and must - do more.
-Let's talk about the issues that matter to you."
-Contact Janeen at (480) 582-5056
-Paid for by Janeen Connolly for AZ.
-Authorized by Janeen Connolly.
-Powered and secured by Wix
-bottom of page
+top of page Home About News Endorsements Get Involved Donate Voter Registration Endorsements Arizona List A Committee for Pro-choice democratic women in Arizona Stonewall Democrats of Arizona United Food and Commercial Workers Union Local 99 Ironworkers Local 75 Arizona Building and Construction Trades Council SMART Local 359 Boilermakers Local 627 Laborers’ International Union of North America Local 1184 Arizona Nurses Association Painters & Allied Trades District Council 36 "I believe we can - and must - do more.
+Let's talk about the issues that matter to you." Contact Janeen at (480) 582-5056 Paid for by Janeen Connolly for AZ.
+Authorized by Janeen Connolly. © # Janeen Connolly for AZ Powered and secured by Wix bottom of page

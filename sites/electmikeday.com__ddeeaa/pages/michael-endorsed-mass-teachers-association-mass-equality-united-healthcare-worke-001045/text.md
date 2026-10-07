@@ -1,10 +1,4 @@
-Michael Endorsed by MA Teachers Association, Mass Equality, United Healthcare Workers and Many More
-We have been very fortunate to receive the endorsements of a variety of groups and individuals in this campaign so far and have been sharing them on our Facebook and Twitter pages.
-Among the highlights we have announced so far:
-- Massachusetts Teachers Association
-- United Healthcare Workers
-- Mass Equality
-- IBEW Local 2222
-- Winchester Firefighters
-- Stoneham Firefighters
-- Brotherhood of Locomotive Engineers and Trainmen
+About News Issues Legislation Contact Get Involved Contribute Menu Michael Endorsed by MA Teachers Association, Mass Equality, United Healthcare Workers and Many More August 19, 2014 / in Events , News , Uncategorized / by Megan Day We have been very fortunate to receive the endorsements of a variety of groups and individuals in this campaign so far and have been sharing them on our Facebook and Twitter pages.
+Among the highlights we have announced so far: Massachusetts Teachers Association United Healthcare Workers Mass Equality IBEW Local 2222 Winchester Firefighters Stoneham Firefighters Brotherhood of Locomotive Engineers and Trainmen Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Share this entry Share on Facebook Share on Twitter Share on Google+ Share on Pinterest Share on Linkedin Share on Tumblr Share on Vk Share on Reddit Share by Mail http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-08-19 11:58:08 2014-08-19 11:59:55 Michael Endorsed by MA Teachers Association, Mass Equality, United Healthcare Workers and Many More Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Summer & Fall Internship Openings 7 Weeks Until Election Day!
+Scroll to top

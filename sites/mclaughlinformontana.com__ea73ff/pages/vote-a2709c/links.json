@@ -1,22 +1,86 @@
 [
-"https://facebook.com/p/McLaughlin-For-Montana-61581400267408",
-"https://instagram.com/k84mt",
-"https://mclaughlinformontana.com/about",
-"https://mclaughlinformontana.com/contact-kate",
-"https://mclaughlinformontana.com/endorse-k84mt",
-"https://mclaughlinformontana.com/events",
-"https://mclaughlinformontana.com/issues-hd9",
-"https://mclaughlinformontana.com/k84mt",
-"https://mclaughlinformontana.com/our/rep",
-"https://mclaughlinformontana.com/vol_today",
-"https://mclaughlinformontana.com/vote",
-"https://montanansdecide.com/",
-"https://montanaplan.org/",
-"https://secure.actblue.com/donate/kate-mclaughlin",
-"https://sosmt.gov/elections/disabilities",
-"https://sosmt.gov/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=46&wpfd_file_id=59623&preview=1",
-"https://tiktok.com/@k84mt",
-"https://votemt.gov/voter-identification",
-"https://voterportal.mt.gov/WhereToVote.aspx",
-"https://yeson132.com/"
+{
+"text": "About",
+"href": "https://mclaughlinformontana.com/about"
+},
+{
+"text": "Are You Still Registered to Vote?Check your voter registration status",
+"href": "https://voterportal.mt.gov/WhereToVote.aspx"
+},
+{
+"text": "Check Your Voting Registration",
+"href": "https://mclaughlinformontana.com/vote"
+},
+{
+"text": "Click here for instructions on how to activate your registration.",
+"href": "https://sosmt.gov/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=46&wpfd_file_id=59623&token=&preview=1"
+},
+{
+"text": "Click here for more information",
+"href": "https://sosmt.gov/elections/disabilities/"
+},
+{
+"text": "Click to use Contact Form",
+"href": "https://mclaughlinformontana.com/contact-kate"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/kate-mclaughlin"
+},
+{
+"text": "Endorsements",
+"href": "https://mclaughlinformontana.com/endorse-k84mt"
+},
+{
+"text": "Events",
+"href": "https://mclaughlinformontana.com/events"
+},
+{
+"text": "Home",
+"href": "https://mclaughlinformontana.com/k84mt"
+},
+{
+"text": "Issues",
+"href": "https://mclaughlinformontana.com/issues-hd9"
+},
+{
+"text": "Our Rep",
+"href": "https://mclaughlinformontana.com/our/rep"
+},
+{
+"text": "Paid For By Mclaughlin For Montana",
+"href": "https://secure.actblue.com/donate/kate-mclaughlin"
+},
+{
+"text": "Volunteer",
+"href": "https://mclaughlinformontana.com/vol_today"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/p/McLaughlin-For-Montana-61581400267408/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.instagram.com/k84mt"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.tiktok.com/@k84mt"
+},
+{
+"text": "bring your ID",
+"href": "https://votemt.gov/voter-identification/"
+},
+{
+"text": "https://montanaplan.org/",
+"href": "https://montanaplan.org/"
+},
+{
+"text": "https://www.montanansdecide.com/",
+"href": "https://www.montanansdecide.com/"
+},
+{
+"text": "https://yeson132.com/",
+"href": "https://yeson132.com/"
+}
 ]

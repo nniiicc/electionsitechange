@@ -1,32 +1,142 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-10-10%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-10-10%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-10-10%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/ongoing-phone-bank-for-josh",
-"https://votesmead.com/event/whistlestop-bus-tour-oct-9-10",
-"https://votesmead.com/events",
-"https://votesmead.com/events/2026-10-09",
-"https://votesmead.com/events/2026-10-10",
-"https://votesmead.com/events/2026-10-10?ical=1",
-"https://votesmead.com/events/2026-10-10?outlook-ical=1",
-"https://votesmead.com/events/2026-10-11",
-"https://votesmead.com/events/list?tribe-bar-date=2026-10-10",
-"https://votesmead.com/events/month/2026-10",
-"https://votesmead.com/events/today",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "#ago",
+"href": "https://votesmead.com/events/today/"
+},
+{
+"text": "Day",
+"href": "https://votesmead.com/events/2026-10-10/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://votesmead.com/events/2026-10-10/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://votesmead.com/events/2026-10-10/?outlook-ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "List",
+"href": "https://votesmead.com/events/list/?tribe-bar-date=%23"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Month",
+"href": "https://votesmead.com/events/month/2026-10/"
+},
+{
+"text": "Next Day",
+"href": "https://votesmead.com/events/2026-10-11/"
+},
+{
+"text": "Ongoing: Phone Bank for Josh",
+"href": "https://votesmead.com/event/ongoing-phone-bank-for-josh/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+},
+{
+"text": "Previous Day",
+"href": "https://votesmead.com/events/2026-10-09/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "Whistlestop Bus Tour — October 9–10",
+"href": "https://votesmead.com/event/whistlestop-bus-tour-oct-9-10/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "[tooltip: Next day]",
+"href": "https://votesmead.com/events/2026-10-11/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://votesmead.com/events/2026-10-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
+}
 ]

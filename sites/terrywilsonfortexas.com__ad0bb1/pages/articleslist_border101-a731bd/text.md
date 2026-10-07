@@ -1,4 +1,4 @@
-In September of 2023, I had the opportunity to visit Eagle Pass, Texas, ground zero for the crisis on our southern border.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements December 16, 2023 Jeff Frazier Op-Ed #27 - Border 101 December 16, 2023 Jeff Frazier Taken from Colonel Wilson’s helicopter overview of the Rio Grande 7/23/2023 In September of 2023, I had the opportunity to visit Eagle Pass, Texas, ground zero for the crisis on our southern border.
 I was accompanied by Texas Border Czar Mike Banks, Department of Public Safety (DPS) troopers, the Texas Military Department (TMD), and Chairman Ryan Guillen of the House Committee on Homeland Security and Public Safety.
 This was just the latest of many trips to the border since the Biden administration assumed office, and the first time I attended with a delegation, rather than my usual unannounced visits.
 As Chairman of the House Committee on Defense & Veterans’ Affairs, it is my duty to witness firsthand the challenges that the men and women of our state face to help secure the Texas border as part of Operation Lone Star (OLS).
@@ -26,8 +26,7 @@ Even though many of those looking to come to the United States are not involved 
 They can operate almost undetected, without real fear of having their activities curtailed by Texas or U.S. law enforcement.
 Why is this happening?
 To effectively solve any issue, it is crucial to identify and confront its fundamental cause when possible.
-In the context of immigration, the central question should be: “What compels such a large number of individuals to leave their homelands and migrate here?”
-The recent increase in unauthorized immigration chiefly originates from various South American nations, with Mexico acting as a transit hub for those journeying to the United States.
+In the context of immigration, the central question should be: “What compels such a large number of individuals to leave their homelands and migrate here?” The recent increase in unauthorized immigration chiefly originates from various South American nations, with Mexico acting as a transit hub for those journeying to the United States.
 As of September, a sizable proportion, amounting to 55% of all interactions with border patrol, involved individuals from Venezuela, Guatemala, Honduras, Columbia, and Ecuador.
 Over the past fifty years, there has been a consistent deterioration in the economic and political stability of these countries, reaching a critical point in the last decade.
 As economic instability intensifies, an increasing number of people are compelled to leave their home countries in search of better opportunities.
@@ -44,8 +43,7 @@ Regrettably, Texas has limited capacity to tackle the underlying issues, as matt
 Nevertheless, there is significant scope for addressing the immediate consequences and compensating for the Biden Administration’s lack of enforcement of federal immigration laws.
 This necessitates a transition from reliance on emergency, temporary measures to the development and implementation of sustainable, long-term solutions.
 In the 4th Special Session of the 88th Legislature, we passed two major pieces of legislation addressing these issues directly.
-Improving Border Infrastructure
-The state legislature has allocated $6.6 billion to support Operation Lone Star and enhance border security infrastructure.
+Line of Buoy Barriers in the Rio Grande, taken from Colonel Wilson’s helicopter overview of the border 7/23/2023 Improving Border Infrastructure The state legislature has allocated $6.6 billion to support Operation Lone Star and enhance border security infrastructure.
 This funding is directed towards specific initiatives, including the construction of border barriers, the deployment of buoys, and providing financial support to the Department of Public Safety (DPS) and local law enforcement agencies.
 Given that constructing walls directly within the Rio Grande River is unfeasible, individuals reaching the wall inevitably step onto American soil, thereby enabling U.S.
 Customs and Border Protection (CBP) to intercept and process them.
@@ -63,8 +61,7 @@ This effort aims to accelerate the project, shortening the timeline for completi
 Moreover, the construction of walls will be complemented by the strategic placement of buoys.
 These buoys are designed to deter illegal entry into U.S. territory, thereby encouraging individuals to use legal ports of entry.
 The deployment of buoys depends on specific environmental factors, such as suitable water depth and favorable weather conditions, limiting their use as the primary means of deterrence.
-Making illegal entry a felony
-In the 4th special session, we imposed strict penalties for illegal entry into Texas, starting as a Class B misdemeanor and escalating to a felony for repeat violations.
+Making illegal entry a felony In the 4th special session, we imposed strict penalties for illegal entry into Texas, starting as a Class B misdemeanor and escalating to a felony for repeat violations.
 It further criminalizes reentry by previously removed aliens, with penalties varying by criminal history and reasons for removal.
 Central to the act is the power given to magistrates and judges to order non-U.S. citizens to return to their home countries, targeting individuals without serious convictions or current charges for major offenses.
 It also requires collecting and cross-referencing biometric data with criminal and national security databases, highlighting a focus on public safety.
@@ -72,8 +69,7 @@ Crucially, the legislation grants immunity and indemnification to local and stat
 Under this law, those charged or convicted are ineligible for community supervision or deferred adjudication, reflecting the seriousness of immigration offenses.
 Additionally, the law requires recording all related orders in the state’s criminal history system, improving offense tracking and management.
 The act also restricts parole and mandatory supervision for inmates convicted of these offenses, emphasizing its stringent stance on immigration violations.
-Final Thoughts
-Governor Abbott merits recognition for his proactive measures in fortifying our border at a time when the Biden Administration has not fulfilled its responsibilities to the State of Texas, and the United States.
+Group of illegal aliens attempting to cross the border, taken from Colonel Wilson’s boat overview of the Rio Grande 7/23/2023 Final Thoughts Governor Abbott merits recognition for his proactive measures in fortifying our border at a time when the Biden Administration has not fulfilled its responsibilities to the State of Texas, and the United States.
 Governor Abbott’s call for more lasting solutions during the special legislative session is commendable, aimed at safeguarding our citizens and potentially diminishing the necessity for Operation Lone Star.
 The primary mission of the National Guard is to remain prepared for national defense.
 It is standard practice for Texas Military Department (TMD) forces to be deployed globally in support of the Department of Defense.Maintaining military readiness necessitates that soldiers and airmen fulfill specific individual and collective training requirements on a quarterly, semi-annual, and annual basis.
@@ -89,3 +85,15 @@ The establishment of a permanent force would also allow existing OLS forces to r
 DPS troopers could return to supporting our police and sheriffs' offices around the state to combat the general rise in crime and increasing incidents of retail theft and allow deployed National Guard to return to their homes and businesses.
 It is impractical to depend indefinitely on the federal government to fulfill its responsibilities in this context.
 The transition to an administration that might be more aligned with our needs does not assure sustained action, and our security should not be contingent on the occupants of the White House.
+December 16, 2023 Jeff Frazier Jeff Frazier Op-Ed #28 2023 Legislative Year-in-Review Op-Ed #26 - Texas Republicans Must Demand Better From Our Party And Donors Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

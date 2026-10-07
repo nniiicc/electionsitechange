@@ -1,9 +1,30 @@
 [
-"https://jameshooperforcongress.com/",
-"https://jameshooperforcongress.com/about",
-"https://jameshooperforcongress.com/author/jdmhooperyahoo-com",
-"https://jameshooperforcongress.com/contact",
-"https://jameshooperforcongress.com/issues",
-"https://jameshooperforcongress.com/volunteer",
-"https://secure.anedot.com/9bf37b1d-dd24-4c71-a7d5-301d216e9bf4/james-hooper-for-congress-general-donations"
+{
+"text": "About",
+"href": "https://jameshooperforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://jameshooperforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/9bf37b1d-dd24-4c71-a7d5-301d216e9bf4/james-hooper-for-congress-general-donations"
+},
+{
+"text": "Issues",
+"href": "https://jameshooperforcongress.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://jameshooperforcongress.com/volunteer"
+},
+{
+"text": "Website Administrator",
+"href": "https://jameshooperforcongress.com/author/jdmhooperyahoo-com"
+},
+{
+"text": "[image: James Hooper for Congress Logo]",
+"href": "https://jameshooperforcongress.com/"
+}
 ]

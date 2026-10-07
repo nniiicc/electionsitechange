@@ -1,8 +1,4 @@
-Team Jamie Davis-SUPER SATURDAY-GOTV Activation-CAPITAL REGION
-- Where
-- Louisiana Democratic Party Headquarters · Baton Rouge · LA
-About this event
-Join Team Jamie Davis Every Saturday for our GOTV Activation Day!!
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events Team Jamie Davis-SUPER SATURDAY-GOTV Activation-CAPITAL REGION Available times Saturday, Sep 19, 9AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Sep 19, 11AM - 1PM — sign up on Mobilize (opens in a new tab) Saturday, Sep 19, 5PM - 8PM — sign up on Mobilize (opens in a new tab) Saturday, Sep 26, 9AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Sep 26, 11AM - 1PM — sign up on Mobilize (opens in a new tab) Saturday, Sep 26, 5PM - 8PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 3, 9AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 3, 11AM - 1PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 3, 5PM - 8PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 10, 9AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 10, 11AM - 1PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 10, 5PM - 8PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 17, 9AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 17, 11AM - 1PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 17, 5PM - 8PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 24, 9AM - 11AM — sign up on Mobilize (opens in a new tab) Saturday, Oct 24, 11AM - 1PM — sign up on Mobilize (opens in a new tab) Saturday, Oct 24, 5PM - 8PM — sign up on Mobilize (opens in a new tab) Where Louisiana Democratic Party Headquarters · Baton Rouge · LA About this event Join Team Jamie Davis Every Saturday for our GOTV Activation Day!!
 Every Saturday until election day we will be knocking doors and making phone calls!
 This election is ours if we work hard enough to reach every voter.
 Jamie Davis is a farmer, he knows the importance of hard work and dedication.
@@ -13,3 +9,6 @@ That's okay!!
 Join us in the office for a phonebanking shift.
 What to expect ⏱️ Brief trainings for both canvassing and phonebanking 🚶 We only canvass in pairs 📋 All campaign materials provided 🎉 A fun, welcoming environment, whatever your experience What to bring 👟 Comfortable walking shoes (if canvassing) 💧 Water bottle 🔋 Fully charged phone 💻Laptop or tablet for phone banking 🧢 Sunscreen or a hat if you need it (if canvassing) ✊ Your energy and enthusiasm!!! ✊✊✊ Somebody you know.
 Bring a friend, a cousin, a roommate, or all three!
+RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

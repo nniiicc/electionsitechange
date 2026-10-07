@@ -1,10 +1,9 @@
-Fine… Let’s talk term limits, and 4 year terms.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Fine… Let’s talk term limits, and 4 year terms.
 When the other side first reached out to talk about changing the structure of county government, I was skeptical.
 The timing was odd.
-We’ve had a lot go down in recent months, including a failed lawsuit over even-year elections, a $100 million publicly funded aquarium stripped of transparency measures, a sewage building that workers can’t breathe in, and changes in childcare funding creating a situation that still leaves parents with more questions than answers.
+We’ve had a lot go down in recent months, including a failed lawsuit over even-year elections , a $100 million publicly funded aquarium stripped of transparency measures, a sewage building that workers can’t breathe in , and changes in childcare funding creating a situation that still leaves parents with more questions than answers.
 So when this conversation about term limits and four-year terms came up, I assumed it was a pivot, a distraction, or maybe a soft attempt to smooth over recent resignations and the questions surrounding them.
-I thought, “What of these are we trying to skip past this time?” Instead of focusing on those issues, we want to move past the hard questions and move to one that, in my opinion is “easier.”
-But after sitting with it, I said fine.
+I thought, “What of these are we trying to skip past this time?” Instead of focusing on those issues, we want to move past the hard questions and move to one that, in my opinion is “easier.” But after sitting with it, I said fine.
 Let’s talk democracy reform.
 Because if I’m being honest, I’m questioning the job we’re doing too.
 The public deserves better from all of us, and maybe putting this question to voters is the accountability moment we need.
@@ -17,8 +16,7 @@ With four-year terms, there’s time to do the job, time to learn, build, govern
 That’s not about protecting politicians, it’s about protecting good governance.
 Next, let’s talk about even-year elections.
 I supported the move, and the courts have now upheld it as constitutional.
-Here’s a report - > https://spectrumlocalnews.com/nys/central-ny/politics/2025/05/07/appeals-court-rules-new-york-s-new-even-year-election-law-is-constitutional
-The reality is that even-year elections get more people to the polls.
+Here’s a report - > https://spectrumlocalnews.com/nys/central-ny/politics/2025/05/07/appeals-court-rules-new-york-s-new-even-year-election-law-is-constitutional The reality is that even-year elections get more people to the polls.
 That’s a fact.
 When the process began and the Legislature funded a lawsuit against it, I thought we were moving in the wrong direction.
 Now the tone seems to be changing, and it seems that in order to limit the damage from that change of heart, this was stumbled upon.
@@ -61,6 +59,9 @@ Why not give this big, important decision to the biggest, most representative gr
 Still, here we are.
 If we’re going to talk about changing democracy, we should do it clearly and transparently, with every intention of getting it right.
 Not just for the moment, but for the future.
-I just wish this same outreach had come on other issues too, like the aquarium using questionable funding mechanisms, or the $23 million sewage building, or the childcare overhaul, or the “specific funds set aside to address lead poisoning.” These are conversations I would’ve welcomed.
+I just wish this same outreach had come on other issues too, like the aquarium using questionable funding mechanisms , or the $23 million sewage building, or the childcare overhaul, or the “specific funds set aside to address lead poisoning.” These are conversations I would’ve welcomed.
 These are moments where public input was needed just as badly.
 And maybe that’s the biggest lesson here: if we want to strengthen democracy, we should start by using it, early, often, and always.
+Read More of My Thoughts on Current Events ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

@@ -1,5 +1,12 @@
-Largest Federal Employee Union Endorses 8 Massachusetts Incumbents for Reelection to Congress
-AFGE“There’s a contradiction,” Rep.
+CONTRIBUTE Home Meet Bill News Voter Guide Home Meet Bill News Voter Guide IN THE NEWS Largest Federal Employee Union Endorses 8 Massachusetts Incumbents for Reelection to Congress AFGE“There’s a contradiction,” Rep.
 Bill Keating, a Massachusetts Democrat, said as he questioned Kozak.
 “It’s not safe.
-We have a task force, a Gang Suppression Force
+We have a task force, a Gang Suppression Force Read More » July 20, 2026 House lawmakers grill top Trump official over AI chip exports The Hill Rep.
+Bill Keating (D-Mass.) pressed Kessler on whether he had discussions with U.S. special envoy Steve Witkoff about the decision to allow advanced chip sales to an Emirati Read More » July 19, 2026 Who sank 2 Ecuadorean fishing boats?
+Survivors point to drones as Washington denies involvement LA TIMES “These incidents have resulted in eight persons still missing or unaccounted for, credible survivor accounts of arbitrary or unlawful detention, abuse, and extrajudicial Read More » June 16, 2026 Foreign Affairs panel advances nuclear energy bill Radio Free Europe Introduced by Rep.
+Bill Keating (D-Mass.), ranking member of the Europe Subcommittee, the legislation aims to boost nuclear energy collaboration in Europe Read More » June 9, 2026 US House Passes Sweeping Ukraine Support Bill After Months Of Gridlock Radio Free Europe Representative Bill Keating argued that the US has a special obligation to Ukraine because of security assurances offered under the 1994 Budapest Read More » June 9, 2026 Bill Keating Slams Trump For Picking Bill Pulte For Acting National Intelligence Director Newsweek Marco Rubio was questioned on Trump’s choice of appointing Bill Pulte as the Acting Intelligence Director.
+WATCH HERE Read More » June 9, 2026 Rockland Secures $1.1 Million Federal Grant for Wastewater Infrastructure South Shore News ROCKLAND – June 2, 2026 – The Rockland Select Board announced a massive financial boost for local infrastructure Tuesday night, securing a Read More » June 9, 2026 12 Democrats vote against Defense bill in rare committee split The Hill Democrats not voting for the House NDAA were California Reps.
+John Garamendi, Salud Carbajal, Ro Khanna and Sara Jacobs, and Reps.
+Seth Moulton (Mass.), Bill Keating (Mass.), Jason Crow (Colo.), Pat Ryan (N.Y.), Chris Deluzio (Pa.), Maggie Goodlander (N.H), Sarah Elfreth Read More » June 9, 2026 Rubio: Never heard of Trump pick Pulte in matters involving US intelligence U.S.
+Representative Bill Keating, a Democrat from Massachusetts, ​cited Rubio’s expertise in intelligence matters from his years on the Senate Intelligence Committee and his current Read More » June 5, 2026 « Previous Next » The Bill Keating Committee P.O.
+Box 654 Pembroke, MA 02359 (508) 591-0984 info at billkeating.org Facebook Twitter Youtube Linkedin Instagram Paid for by the Bill Keating Committee

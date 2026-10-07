@@ -1,11 +1,58 @@
 [
-"http://facebook.com/ChrisForKuna",
-"https://cbruce4idaho.com/",
-"https://cbruce4idaho.com/about",
-"https://cbruce4idaho.com/contact",
-"https://cbruce4idaho.com/donate",
-"https://cbruce4idaho.com/events-1",
-"https://cbruce4idaho.com/get-involved",
-"https://cbruce4idaho.com/what-i-support",
-"https://facebook.com/ChrisBruceFor22"
+{
+"text": "About Me",
+"href": "https://www.cbruce4idaho.com/about"
+},
+{
+"text": "ChrisForKuna@Gmail.com",
+"href": "mailto:ChrisForKuna@Gmail.com"
+},
+{
+"text": "Contact",
+"href": "https://www.cbruce4idaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.cbruce4idaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.cbruce4idaho.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cbruce4idaho.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.cbruce4idaho.com"
+},
+{
+"text": "Legislation Passed",
+"href": "https://www.cbruce4idaho.com/what-i-support"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.cbruce4idaho.com"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.cbruce4idaho.com#subscribe"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.cbruce4idaho.com/get-involved"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/ChrisForKuna"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/ChrisBruceFor22/"
+},
+{
+"text": "[image: transparent%20file_edited.png]",
+"href": "https://www.cbruce4idaho.com"
+}
 ]

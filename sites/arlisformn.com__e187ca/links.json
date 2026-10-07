@@ -1,15 +1,58 @@
 [
-"https://arlisformn.com/",
-"https://arlisformn.com/about",
-"https://arlisformn.com/endorsements",
-"https://arlisformn.com/home",
-"https://arlisformn.com/volunteer",
-"https://cart/",
-"https://facebook.com/profile.php?id=61583854686705&sk=reels_tab",
-"https://givebutter.com/arlis-for-mn-13a-mzgg67",
-"https://instagram.com/arlisformn13a?igsh=M3FmNTRtMjlqcDFv",
-"https://mnvotes.sos.mn.gov/VoterRegistration/index",
-"https://pollfinder.sos.mn.gov/",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote"
+{
+"text": "About",
+"href": "https://arlisformn.com/about"
+},
+{
+"text": "Click here to learn about your voting options →",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote"
+},
+{
+"text": "DONATE",
+"href": "https://givebutter.com/arlis-for-mn-13a-mzgg67"
+},
+{
+"text": "Endorsements",
+"href": "https://arlisformn.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://arlisformn.com/home"
+},
+{
+"text": "Register to Vote →",
+"href": "https://mnvotes.sos.mn.gov/VoterRegistration/index"
+},
+{
+"text": "Volunteer",
+"href": "https://arlisformn.com/volunteer"
+},
+{
+"text": "Where do you vote on election day? →",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "[image: Arlis Sayler | MN House District 13A]",
+"href": "https://arlisformn.com"
+},
+{
+"text": "[image]",
+"href": "https://arlisformn.com/endorsements"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583854686705&sk=reels_tab"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arlisformn13a?igsh=M3FmNTRtMjlqcDFv"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+},
+{
+"text": "https://www.revenue.state.mn.us/political-contribution-refund",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+}
 ]

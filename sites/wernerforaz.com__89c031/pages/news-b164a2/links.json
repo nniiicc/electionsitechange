@@ -1,42 +1,250 @@
 [
-"http://p.m.in/",
-"https://abc15.com/news/local-news/investigations/arizona-lawmaker-pushes-for-dcs-hotline-reforms-after-10-year-olds-murder",
-"https://abc15.com/news/local-news/investigations/dcs-state-of-failure/we-have-made-progress-second-stakeholder-meeting-held-amid-probe-into-dcs",
-"https://abc15.com/news/local-news/investigations/whats-next-amid-probe-into-dcs-one-on-one-with-senator-werner",
-"https://abc15.com/news/state/the-system-has-failed-lawmaker-over-dcs-says-there-must-be-change",
-"https://azfamily.com/2025/08/13/arizona-lawmaker-says-child-safety-agencies-arent-communicating-properly",
-"https://azmirror.com/2026/03/27/bipartisan-bill-aims-to-fix-communication-failures-that-contributed-to-emily-pikes-death",
-"https://azsenaterepublicans.gov/post/senator-carine-werner-presses-for-answers-from-ahcccs-after-explosive-oversight-hearing",
-"https://azsenaterepublicans.gov/press-releases/after-dcs-investigation-senator-werner-child-safety-reform-clears-legislature-heads-to-governor-for-signature",
-"https://azsenaterepublicans.gov/press-releases/arizona-poised-to-lead-nation-in-protecting-health-care-workers-from-radiation-exposure",
-"https://azsenaterepublicans.gov/press-releases/senator-werner-to-hold-third-oversight-hearing-as-state-medicaid-program-faces-ongoing-scrutiny",
-"https://facebook.com/carinewerneraz",
-"https://instagram.com/CarineWerner",
-"https://secure.winred.com/werner-for-az/donate-today",
-"https://thecentersquare.com/arizona/article_6879a366-1a3e-4aa7-8f62-e7d26c15bca0.html",
-"https://wernerforaz.com/",
-"https://wernerforaz.com/accomplish",
-"https://wernerforaz.com/cart",
-"https://wernerforaz.com/home",
-"https://wernerforaz.com/media",
-"https://wernerforaz.com/news",
-"https://wernerforaz.com/news/02y83lz2w75f7wkgsktdvn3cxh7cs8",
-"https://wernerforaz.com/news/abc15-sits-down-with-state-senator-carine-werner-weeks-after-first-dcs-stakeholder-meeting",
-"https://wernerforaz.com/news/arizona-lawmaker-pushes-for-dcs-hotline-reforms-after-10-year-olds-murder",
-"https://wernerforaz.com/news/arizona-lawmaker-says-child-safety-agencies-arent-communicating-properly",
-"https://wernerforaz.com/news/arizona-senator-blasts-alleged-medicaid-fraud-at-hearing",
-"https://wernerforaz.com/news/arizona-senator-carine-werner-calls-for-change-within-dcs-launches-task-force",
-"https://wernerforaz.com/news/arizona-state-senator-launches-task-force-to-strengthen-child-safety-laws",
-"https://wernerforaz.com/news/bipartisan-bill-aims-to-fix-communication-failures-that-contributed-to-emily-pikes-death",
-"https://wernerforaz.com/news/death-of-10-year-old-prompts-new-child-abuse-task-force",
-"https://wernerforaz.com/news/mzqkuh7rdvd001xugdru9aj3ylubsj",
-"https://wernerforaz.com/news/sen-werner-demands-accountability-from-ahcccs-after-revelations-of-billions-in-estimated-fraud",
-"https://wernerforaz.com/news/senator-werner-to-hold-third-oversight-hearing-on-ahcccs-accountability",
-"https://wernerforaz.com/news/the-system-has-failed-lawmaker-over-dcs-says-there-must-be-change",
-"https://wernerforaz.com/news/we-have-made-progress-second-stakeholder-meeting-held-amid-probe-into-dcs",
-"https://wernerforaz.com/news/whats-next-amid-probe-into-dcs-one-on-one-with-senator-werner",
-"https://wernerforaz.com/priorities",
-"https://wernerforaz.com/volunteer",
-"https://x.com/CarineWerner",
-"https://youtu.be/JMedcfHNjEQ?si=zHO5EGtANoh7ueII"
+{
+"text": "'The system has failed': Lawmaker over DCS says there must be change",
+"href": "https://www.abc15.com/news/state/the-system-has-failed-lawmaker-over-dcs-says-there-must-be-change"
+},
+{
+"text": "'We have made progress': Second stakeholder meeting held amid probe into DCS",
+"href": "https://www.abc15.com/news/local-news/investigations/dcs-state-of-failure/we-have-made-progress-second-stakeholder-meeting-held-amid-probe-into-dcs"
+},
+{
+"text": "0",
+"href": "https://www.wernerforaz.com/cart"
+},
+{
+"text": "ABC15 sits down with State Senator Carine Werner weeks after first DCS stakeholder meeting",
+"href": "https://youtu.be/JMedcfHNjEQ?si=zHO5EGtANoh7ueII"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.wernerforaz.com/accomplish"
+},
+{
+"text": "After DCS Investigation, Senator Werner Child Safety Reform Clears Legislature, Heads to Governor for Signature",
+"href": "https://www.azsenaterepublicans.gov/press-releases/after-dcs-investigation-senator-werner-child-safety-reform-clears-legislature-heads-to-governor-for-signature"
+},
+{
+"text": "Arizona Poised to Lead Nation in Protecting Health Care Workers from Radiation Exposure with Senator Werner Bill Passing Legislature",
+"href": "https://www.azsenaterepublicans.gov/press-releases/arizona-poised-to-lead-nation-in-protecting-health-care-workers-from-radiation-exposure"
+},
+{
+"text": "Arizona Senator Carine Werner calls for change within DCS, launches task force",
+"href": "https://www.wernerforaz.com/news/arizona-senator-carine-werner-calls-for-change-within-dcs-launches-task-force"
+},
+{
+"text": "Arizona lawmaker pushes for DCS hotline reforms after 10-year-old's murder",
+"href": "https://www.abc15.com/news/local-news/investigations/arizona-lawmaker-pushes-for-dcs-hotline-reforms-after-10-year-olds-murder"
+},
+{
+"text": "Arizona lawmaker says child safety agencies aren’t communicating properly",
+"href": "https://www.azfamily.com/2025/08/13/arizona-lawmaker-says-child-safety-agencies-arent-communicating-properly/"
+},
+{
+"text": "Arizona senator blasts alleged Medicaid fraud at hearing",
+"href": "https://www.thecentersquare.com/arizona/article_6879a366-1a3e-4aa7-8f62-e7d26c15bca0.html"
+},
+{
+"text": "Arizona state senator launches task force to strengthen child safety laws",
+"href": "https://www.wernerforaz.com/news/arizona-state-senator-launches-task-force-to-strengthen-child-safety-laws"
+},
+{
+"text": "Bipartisan bill aims to fix communication failures that contributed to Emily Pike’s death",
+"href": "https://azmirror.com/2026/03/27/bipartisan-bill-aims-to-fix-communication-failures-that-contributed-to-emily-pikes-death/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/werner-for-az/donate-today"
+},
+{
+"text": "Death of 10-year-old prompts new child abuse task force",
+"href": "https://www.wernerforaz.com/news/death-of-10-year-old-prompts-new-child-abuse-task-force"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.wernerforaz.com/volunteer"
+},
+{
+"text": "Media Kit",
+"href": "https://www.wernerforaz.com/media"
+},
+{
+"text": "Meet Carine",
+"href": "https://www.wernerforaz.com/home#carine"
+},
+{
+"text": "News",
+"href": "https://www.wernerforaz.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.wernerforaz.com/priorities"
+},
+{
+"text": "Read More",
+"href": "https://azmirror.com/2026/03/27/bipartisan-bill-aims-to-fix-communication-failures-that-contributed-to-emily-pikes-death/"
+},
+{
+"text": "Read More",
+"href": "https://www.abc15.com/news/local-news/investigations/arizona-lawmaker-pushes-for-dcs-hotline-reforms-after-10-year-olds-murder"
+},
+{
+"text": "Read More",
+"href": "https://www.abc15.com/news/local-news/investigations/dcs-state-of-failure/we-have-made-progress-second-stakeholder-meeting-held-amid-probe-into-dcs"
+},
+{
+"text": "Read More",
+"href": "https://www.abc15.com/news/local-news/investigations/whats-next-amid-probe-into-dcs-one-on-one-with-senator-werner"
+},
+{
+"text": "Read More",
+"href": "https://www.abc15.com/news/state/the-system-has-failed-lawmaker-over-dcs-says-there-must-be-change"
+},
+{
+"text": "Read More",
+"href": "https://www.azfamily.com/2025/08/13/arizona-lawmaker-says-child-safety-agencies-arent-communicating-properly/"
+},
+{
+"text": "Read More",
+"href": "https://www.azsenaterepublicans.gov/press-releases/after-dcs-investigation-senator-werner-child-safety-reform-clears-legislature-heads-to-governor-for-signature"
+},
+{
+"text": "Read More",
+"href": "https://www.azsenaterepublicans.gov/press-releases/arizona-poised-to-lead-nation-in-protecting-health-care-workers-from-radiation-exposure"
+},
+{
+"text": "Read More",
+"href": "https://www.azsenaterepublicans.gov/press-releases/senator-werner-to-hold-third-oversight-hearing-as-state-medicaid-program-faces-ongoing-scrutiny"
+},
+{
+"text": "Read More",
+"href": "https://www.thecentersquare.com/arizona/article_6879a366-1a3e-4aa7-8f62-e7d26c15bca0.html"
+},
+{
+"text": "Read More",
+"href": "https://www.wernerforaz.com/news/arizona-senator-carine-werner-calls-for-change-within-dcs-launches-task-force"
+},
+{
+"text": "Read More",
+"href": "https://www.wernerforaz.com/news/arizona-state-senator-launches-task-force-to-strengthen-child-safety-laws"
+},
+{
+"text": "Read More",
+"href": "https://www.wernerforaz.com/news/death-of-10-year-old-prompts-new-child-abuse-task-force"
+},
+{
+"text": "Read More",
+"href": "https://www.wernerforaz.com/news/sen-werner-demands-accountability-from-ahcccs-after-revelations-of-billions-in-estimated-fraud"
+},
+{
+"text": "Read More",
+"href": "https://youtu.be/JMedcfHNjEQ?si=zHO5EGtANoh7ueII"
+},
+{
+"text": "Senator Carine Werner Presses for Answers from AHCCCS After Explosive Oversight Hearing",
+"href": "https://www.wernerforaz.com/news/sen-werner-demands-accountability-from-ahcccs-after-revelations-of-billions-in-estimated-fraud"
+},
+{
+"text": "Senator Werner To Hold Third Oversight Hearing On AHCCCS Accountability",
+"href": "https://www.azsenaterepublicans.gov/press-releases/senator-werner-to-hold-third-oversight-hearing-as-state-medicaid-program-faces-ongoing-scrutiny"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wernerforaz.com/volunteer"
+},
+{
+"text": "What's next amid probe into DCS, one-on-one with Senator Werner",
+"href": "https://www.abc15.com/news/local-news/investigations/whats-next-amid-probe-into-dcs-one-on-one-with-senator-werner"
+},
+{
+"text": "[image: 'The system has failed': Lawmaker over DCS says there must be change]",
+"href": "https://www.wernerforaz.com/news/the-system-has-failed-lawmaker-over-dcs-says-there-must-be-change"
+},
+{
+"text": "[image: 'We have made progress': Second stakeholder meeting held amid probe into DCS]",
+"href": "https://www.wernerforaz.com/news/we-have-made-progress-second-stakeholder-meeting-held-amid-probe-into-dcs"
+},
+{
+"text": "[image: ABC15 sits down with State Senator Carine Werner weeks after first DCS stakeholder meeting]",
+"href": "https://www.wernerforaz.com/news/abc15-sits-down-with-state-senator-carine-werner-weeks-after-first-dcs-stakeholder-meeting"
+},
+{
+"text": "[image: After DCS Investigation, Senator Werner Child Safety Reform Clears Legislature, Heads to Governor for Signature]",
+"href": "https://www.wernerforaz.com/news/02y83lz2w75f7wkgsktdvn3cxh7cs8"
+},
+{
+"text": "[image: Arizona Poised to Lead Nation in Protecting Health Care Workers from Radiation Exposure with Senator Werner Bill Passing Legislature]",
+"href": "https://www.wernerforaz.com/news/mzqkuh7rdvd001xugdru9aj3ylubsj"
+},
+{
+"text": "[image: Arizona Senator Carine Werner calls for change within DCS, launches task force]",
+"href": "https://www.wernerforaz.com/news/arizona-senator-carine-werner-calls-for-change-within-dcs-launches-task-force"
+},
+{
+"text": "[image: Arizona lawmaker pushes for DCS hotline reforms after 10-year-old's murder]",
+"href": "https://www.wernerforaz.com/news/arizona-lawmaker-pushes-for-dcs-hotline-reforms-after-10-year-olds-murder"
+},
+{
+"text": "[image: Arizona lawmaker says child safety agencies aren’t communicating properly]",
+"href": "https://www.wernerforaz.com/news/arizona-lawmaker-says-child-safety-agencies-arent-communicating-properly"
+},
+{
+"text": "[image: Arizona senator blasts alleged Medicaid fraud at hearing]",
+"href": "https://www.wernerforaz.com/news/arizona-senator-blasts-alleged-medicaid-fraud-at-hearing"
+},
+{
+"text": "[image: Arizona state senator launches task force to strengthen child safety laws]",
+"href": "https://www.wernerforaz.com/news/arizona-state-senator-launches-task-force-to-strengthen-child-safety-laws"
+},
+{
+"text": "[image: Bipartisan bill aims to fix communication failures that contributed to Emily Pike’s death]",
+"href": "https://www.wernerforaz.com/news/bipartisan-bill-aims-to-fix-communication-failures-that-contributed-to-emily-pikes-death"
+},
+{
+"text": "[image: Carine Werner for State Senate]",
+"href": "https://www.wernerforaz.com/"
+},
+{
+"text": "[image: Death of 10-year-old prompts new child abuse task force]",
+"href": "https://www.wernerforaz.com/news/death-of-10-year-old-prompts-new-child-abuse-task-force"
+},
+{
+"text": "[image: Senator Carine Werner Presses for Answers from AHCCCS After Explosive Oversight Hearing]",
+"href": "https://www.wernerforaz.com/news/sen-werner-demands-accountability-from-ahcccs-after-revelations-of-billions-in-estimated-fraud"
+},
+{
+"text": "[image: Senator Werner To Hold Third Oversight Hearing On AHCCCS Accountability]",
+"href": "https://www.wernerforaz.com/news/senator-werner-to-hold-third-oversight-hearing-on-ahcccs-accountability"
+},
+{
+"text": "[image: What's next amid probe into DCS, one-on-one with Senator Werner]",
+"href": "https://www.wernerforaz.com/news/whats-next-amid-probe-into-dcs-one-on-one-with-senator-werner"
+},
+{
+"text": "[image]",
+"href": "https://www.wernerforaz.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/carinewerneraz"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/CarineWerner"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CarineWerner"
+},
+{
+"text": "escalating",
+"href": "https://www.azsenaterepublicans.gov/post/senator-carine-werner-presses-for-answers-from-ahcccs-after-explosive-oversight-hearing"
+},
+{
+"text": "her overs",
+"href": "https://www.azsenaterepublicans.gov/post/senator-carine-werner-presses-for-answers-from-ahcccs-after-explosive-oversight-hearing"
+},
+{
+"text": "p.m.in",
+"href": "http://p.m.in"
+}
 ]

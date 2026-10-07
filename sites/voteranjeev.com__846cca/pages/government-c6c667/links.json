@@ -1,15 +1,62 @@
 [
-"http://facebook.com/ranjeevpuriMI",
-"http://instagram.com/ranjeevpuri",
-"https://docs.google.com/forms/d/1SEaFgF2XndEqCT8yK0NK-N8AL_MxTpJfLgWQhW8p2jw/edit",
-"https://docs.google.com/forms/d/1SEaFgF2XndEqCT8yK0NK-N8AL_MxTpJfLgWQhW8p2jw/viewform?edit_requested=true",
-"https://housedems.com/ranjeev-puri/news",
-"https://secure.actblue.com/donate/ranjeev-main",
-"https://voteranjeev.com/",
-"https://voteranjeev.com/contact-us",
-"https://voteranjeev.com/endorsements",
-"https://voteranjeev.com/media-kit",
-"https://voteranjeev.com/meet-ranjeev",
-"https://voteranjeev.com/platform-and-campaign",
-"https://voteranjeev.com/search"
+{
+"text": "Contact",
+"href": "https://www.voteranjeev.com/contact-us"
+},
+{
+"text": "Contact Us",
+"href": "https://www.voteranjeev.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ranjeev-main"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteranjeev.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.voteranjeev.com/platform-and-campaign"
+},
+{
+"text": "Media Kit",
+"href": "https://www.voteranjeev.com/media-kit"
+},
+{
+"text": "Meet Ranjeev",
+"href": "https://www.voteranjeev.com/meet-ranjeev"
+},
+{
+"text": "News",
+"href": "https://housedems.com/ranjeev-puri/news/"
+},
+{
+"text": "Ranjeev 2025",
+"href": "https://www.voteranjeev.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/1SEaFgF2XndEqCT8yK0NK-N8AL_MxTpJfLgWQhW8p2jw/edit"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/1SEaFgF2XndEqCT8yK0NK-N8AL_MxTpJfLgWQhW8p2jw/viewform?edit_requested=true"
+},
+{
+"text": "[image: Vote Ranjeev]",
+"href": "https://www.voteranjeev.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/ranjeevpuriMI"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/ranjeevpuri"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteranjeev.com/search"
+}
 ]

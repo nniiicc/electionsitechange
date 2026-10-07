@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Firefighters+and+Friends+for+Carolyn+Hall&dates=20240905T000000Z%2F20240905T020000Z&location=3717+Knik+Avenue%2C+Anchorage%2C+AK%2C+99517%2C+United+States",
-"http://maps.google.com/?q=3717+Knik+Avenue+Anchorage%2C+AK%2C+99517+United+States",
-"https://carolynforalaska.com/",
-"https://carolynforalaska.com/about",
-"https://carolynforalaska.com/cart",
-"https://carolynforalaska.com/endorsements",
-"https://carolynforalaska.com/events",
-"https://carolynforalaska.com/events/firefighters-and-friends-for-carolyn-hall?format=ical",
-"https://carolynforalaska.com/events/fundraiser-at-historic-lyn-ary-homestead-cabin",
-"https://carolynforalaska.com/events/tuesday-evening-sign-waving-for-carolyn-hall",
-"https://carolynforalaska.com/policies",
-"https://carolynforalaska.com/volunteer",
-"https://carolynforalaska.com/voter-info",
-"https://facebook.com/CarolynforAlaska",
-"https://facebook.com/events/506967035316243",
-"https://instagram.com/carolynforalaska",
-"https://secure.actblue.com/donate/carolyn-for-alaska-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3717+knik+avenue+anchorage%2C+ak%2C+99517+united+states"
+},
+{
+"text": "0",
+"href": "https://www.carolynforalaska.com/cart"
+},
+{
+"text": "About Carolyn",
+"href": "https://www.carolynforalaska.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.carolynforalaska.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carolyn-for-alaska-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolynforalaska.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolynforalaska.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carolynforalaska.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Firefighters+and+Friends+for+Carolyn+Hall&dates=20240905T000000Z%2F20240905T020000Z&location=3717+Knik+Avenue%2C+Anchorage%2C+AK%2C+99517%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.carolynforalaska.com/events/firefighters-and-friends-for-carolyn-hall?format=ical"
+},
+{
+"text": "Next Next October 15 Fundraiser at Historic Lyn Ary Homestead Cabin",
+"href": "https://www.carolynforalaska.com/events/fundraiser-at-historic-lyn-ary-homestead-cabin"
+},
+{
+"text": "Policies",
+"href": "https://www.carolynforalaska.com/policies"
+},
+{
+"text": "Previous Previous August 20 Tuesday Evening Sign Waving for Carolyn Hall",
+"href": "https://www.carolynforalaska.com/events/tuesday-evening-sign-waving-for-carolyn-hall"
+},
+{
+"text": "Voter Info",
+"href": "https://www.carolynforalaska.com/voter-info"
+},
+{
+"text": "[image: Carolyn Hall for Alaska]",
+"href": "https://www.carolynforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolynforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carolynforalaska/"
+},
+{
+"text": "https://secure.actblue.com/donate/carolyn-for-alaska-1",
+"href": "https://secure.actblue.com/donate/carolyn-for-alaska-1"
+},
+{
+"text": "https://www.facebook.com/events/506967035316243/",
+"href": "https://www.facebook.com/events/506967035316243/"
+}
 ]

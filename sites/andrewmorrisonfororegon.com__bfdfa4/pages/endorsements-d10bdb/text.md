@@ -1,35 +1,3 @@
-ENDORSEMENTS
-Tom Ellis, Happy Valley Mayor
-Josh Callahan, Happy Valley City Councilor
-Jim Syring, Clackamas County Fire Board President
-Thomas Joseph, Clackamas County Fire Board Vice President
-Chris Hawes, Clackamas County Fire Board
-Holly Riegelmann, Gresham Barlow School Board Member
-David Emami, Past Happy Valley City Councilor
-Ed Diehl, State Representative
-Alek Skarlatos, State Representative
-Jeff Helfrich, State Representative
-Kevin Mannix, State Representative
-Shelly Boshart Davis, State Representative
-Christine Drazan, State Senator
-Bruce Starr, Senate Republican Leader
-Julie Parish, Past State Representative
-Matt Wand, Past State Representative
-David Ligatich, Past Gresham Barlow School District and Business Owner
-Lynn Schoenfeld, Former Clackamas County Deputy
-Jeff Gibbs, Executive Director of Technology for GBSD
-Jeanne Robinson, Past Damascus Civic Club Chair
-Patrick Sheehan, Past State Representative
-Mark Fitz, Local Business Owner
-Lisbeth Hale, Real Estate Broker and Past President HVBA
-North Clackamas Chamber of Commerce
-Taxpayers Association of Oregon
-Oregon Small Business Association
-Oregon Coalition of Police and Sheriffs (ORCOPS)
-Defend Small Business PAC
-Gresham Chamber of Commerce
-North Coast States Carpenters Union
-Operating Engineers Local 701
-ENDORSE ANDREW
-By lending me your support, you’re standing with a leader committed to safer communities, stronger schools, and true fiscal responsibility with taxpayer dollars.
+0 Skip to Content Endorsements DONATE Open Menu Close Menu Endorsements DONATE Open Menu Close Menu Endorsements DONATE ENDORSEMENTS Tom Ellis, Happy Valley Mayor Josh Callahan, Happy Valley City Councilor Jim Syring , Clackamas County Fire Board President Thomas Joseph , Clackamas County Fire Board Vice President Chris Hawes , Clackamas County Fire Board Holly Riegelmann , Gresham Barlow School Board Member David Emami , Past Happy Valley City Councilor Ed Diehl , State Representative Alek Skarlatos , State Representative Jeff Helfrich , State Representative Kevin Mannix , State Representative Shelly Boshart Davis , State Representative Christine Drazan , State Senator Bruce Starr , Senate Republican Leader Julie Parish , Past State Representative Matt Wand , Past State Representative David Ligatich, Past Gresham Barlow School District and Business Owner Lynn Schoenfeld , Former Clackamas County Deputy Jeff Gibbs , Executive Director of Technology for GBSD Jeanne Robinson , Past Damascus Civic Club Chair Patrick Sheehan , Past State Representative Mark Fitz , Local Business Owner Lisbeth Hale , Real Estate Broker and Past President HVBA North Clackamas Chamber of Commerce Taxpayers Association of Oregon Oregon Small Business Association Oregon Coalition of Police and Sheriffs (ORCOPS) Defend Small Business PAC Gresham Chamber of Commerce North Coast States Carpenters Union Operating Engineers Local 701 ENDORSE ANDREW By lending me your support, you’re standing with a leader committed to safer communities, stronger schools, and true fiscal responsibility with taxpayer dollars.
 Your endorsement helps us restore balance in Salem and make Oregon a place where families and businesses can thrive.
+PAID FOR BY ANDREW MORRISON FOR OREGON PAC ID# 22958

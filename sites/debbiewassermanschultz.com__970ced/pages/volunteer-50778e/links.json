@@ -1,14 +1,54 @@
 [
-"https://debbiewassermanschultz.com/",
-"https://debbiewassermanschultz.com/endorsements",
-"https://debbiewassermanschultz.com/media",
-"https://debbiewassermanschultz.com/privacy-policy",
-"https://debbiewassermanschultz.com/the-latest",
-"https://debbiewassermanschultz.com/volunteer",
-"https://debbiewassermanschultz.com/vote",
-"https://facebook.com/RepDebbieWassermanSchultz",
-"https://instagram.com/dws",
-"https://secure.actblue.com/contribute/page/dwsdefault",
-"https://secure.actblue.com/contribute/page/dwsdefault?amount=15",
-"https://x.com/DWStweets"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/dwsdefault"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/dwsdefault?amount=15"
+},
+{
+"text": "Endorsements",
+"href": "https://debbiewassermanschultz.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepDebbieWassermanSchultz"
+},
+{
+"text": "For press inquiries, contact press@dwsforcongress.com.",
+"href": "mailto:press@dwsforcongress.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dws/"
+},
+{
+"text": "Media",
+"href": "https://debbiewassermanschultz.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://debbiewassermanschultz.com/privacy-policy/"
+},
+{
+"text": "The Latest",
+"href": "https://debbiewassermanschultz.com/the-latest/"
+},
+{
+"text": "Volunteer",
+"href": "https://debbiewassermanschultz.com/volunteer/"
+},
+{
+"text": "Voting Information",
+"href": "https://debbiewassermanschultz.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/DWStweets"
+},
+{
+"text": "[image]",
+"href": "https://debbiewassermanschultz.com"
+}
 ]

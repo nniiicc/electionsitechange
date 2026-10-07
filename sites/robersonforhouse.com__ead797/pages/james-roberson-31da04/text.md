@@ -1,4 +1,4 @@
-James Roberson is a Democratic member of the North Carolina General Assembly.
+Skip to content About James Issues News District 39 About James Issues News District 39 Donate About James James Roberson is a Democratic member of the North Carolina General Assembly.
 He was appointed to represent the 39th House District – Wake County, by Governor Roy Cooper in January 2021 after Representative Darren Jackson was appointed to the N.C.
 Court of Appeals.
 Representative James Roberson is originally from Wilson North Carolina and is a graduate of Hunt High School.
@@ -17,3 +17,4 @@ Non-Standing Committees: Joint Legislative Education Oversight Committee, Enviro
 Representative Roberson received the “Order of The Long Leaf Pine,” for his thirty-one years of service at Wake Technical Community College on July 26th, 2021.
 This award is among the most prestigious awards conferred by the Governor of North Carolina that is presented to individuals who have a proven record of exemplary service to the State of North Carolina and their communities.
 The Order of the Long Leaf Pine is the highest civilian award for state service granted by the Office of the Governor.
+Paid for by Roberson for North Carolina Facebook-f

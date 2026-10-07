@@ -1,5 +1,4 @@
-By Kaitlyn Schallhorn
-Every so often, Shirley Weber would come home from school and bypass the front door of her Los Angeles home.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page [OC Register] For Secretary of State Shirley Weber, access to voting was a lesson learned from a young age Aug 30, 2024 By Kaitlyn Schallhorn Every so often, Shirley Weber would come home from school and bypass the front door of her Los Angeles home.
 She’d take the side yard and enter in the backdoor, careful not to disrupt those gathered in her living room.
 It was Election Day, and people were voting at 351 West 45th St.
 The importance of voting — and access to it — was instilled in Weber, California’s secretary of state, from a young age.
@@ -9,3 +8,4 @@ Not even a church.
 So she volunteered the Nash home.
 People could vote in the garage, she said.
 David Nash said no.
+Read More Facebook X

@@ -1,7 +1,34 @@
 [
-"https://secure.winred.com/terry-goerger-for-nd/donate",
-"https://terrygoerger.com/",
-"https://terrygoerger.com/get-involved",
-"https://terrygoerger.com/home",
-"https://terrygoerger.com/vote"
+{
+"text": "CONTACT",
+"href": "https://terrygoerger.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/terry-goerger-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://terrygoerger.com/get-involved/"
+},
+{
+"text": "Meet Terry",
+"href": "https://terrygoerger.com/home/#about"
+},
+{
+"text": "NEWS",
+"href": "https://terrygoerger.com/home/#NEWS"
+},
+{
+"text": "PRIORITIES",
+"href": "https://terrygoerger.com/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://terrygoerger.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://terrygoerger.com/"
+}
 ]

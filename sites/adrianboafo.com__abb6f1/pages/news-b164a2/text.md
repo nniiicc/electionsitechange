@@ -1,23 +1,8 @@
-Home
-Meet Adrian
-Issues
-Endorsements
-News
-Volunteer
-Vote
-More
-Aug 20, 2026
-May 15, 2026
-May 15, 2026
-May 8, 2026
-May 7, 2026
-May 1, 2026
-Apr 27, 2026
-Apr 24, 2026
-Apr 22, 2026
-Mar 1, 2026
-Feb 25, 2026
-Feb 3, 2026
-Jan 23, 2026
-Jan 13, 2026
-Jan 12, 2026
+top of page Home Meet Adrian Issues Endorsements News Volunteer Vote More Use tab to navigate through the menu items.
+DONATE Campaign News Aug 20, 2026 LCV Action Fund Endorses New Slate of Candidates for U.S.
+House of Representatives Read more May 15, 2026 Largest Federal Employee Union Endorses Maryland’s Adrian Boafo for Election to Congress Read more May 15, 2026 New Dems Endorse Adrian Boafo in Maryland and Melissa Hernandez in California Read more May 8, 2026 Senator Angela Alsobrooks and Governor Wes Moore Endorse Adrian Boafo for Congress Read more May 7, 2026 Adrian Boafo Endorsed by United Association of Plumbers & Pipefitters and International Brotherhood of Electric Workers Local 26 Read more May 1, 2026 Delegate Adrian Boafo Endorsed by National Education Association and Maryland State Education Association Read more Apr 27, 2026 Delegate Adrian Boafo Endorsed by Professional Firefighters of Maryland Read more Apr 24, 2026 Support Continues to Build as Adrian Boafo Picks Up Endorsements From Anne Arundel County and Prince George’s County Leaders Read more Apr 22, 2026 Delegate Adrian Boafo Endorsed by Bricklayers & Allied Craftworkers Local 1 Read more Mar 1, 2026 Del.
+Adrian Boafo’s Campaign For Congress Raises More Than $460,000 In First Quarter Read more Feb 25, 2026 Delegate Adrian Boafo endorsed by Congresswoman Sarah Elfreth Read more Feb 3, 2026 Del.
+Adrian Boafo’s Campaign For Congress Nets Endorsements From Leaders Across 5th Congressional District Read more Jan 23, 2026 Del.
+Adrian Boafo Earns Endorsement of Maryland’s Senior Statesman Rep Steny Hoyer Read more Jan 13, 2026 Del.
+Adrian Boafo’s Campaign For Congress Nets 14 Endorsements, Secures $100,000 On Day One Read more Jan 12, 2026 Maryland Del.
+Adrian Boafo Announces Campaign for Congress Read more Donate Volunteer Yard Sign Contact us Donate by mail: PO Box 408, Bowie, MD 20718 ​ Privacy Policy PAID FOR BY ADRIAN BOAFO FOR CONGRESS bottom of page

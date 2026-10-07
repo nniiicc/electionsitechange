@@ -1,7 +1,9 @@
 {
- "description": "See Will\u2019s upcoming campaign events happening near you.",
+ "description": "See Will’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Will-Jobe/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "fd705ed64c998280a71a6be603baf06546a9eeb3",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Will Jobe Events",
  "years_mentioned": []
 }

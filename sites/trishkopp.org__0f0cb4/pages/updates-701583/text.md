@@ -1,10 +1,2 @@
-August 24, 2026
-Building Momentum Across Suffolk
-It has been a busy stretch on the campaign trail.
-From community events and fundraisers to exciting campaign news, there is a lot to catch up on.
-August 11, 2026
-$175,000 Public Matching Funds Milestone Adds Momentum to Highly Competitive Assembly District 7 Race
-August 7, 2026
-Kopp campaign is less than $10,000 away from maximizing public financing as grassroots momentum grows across the South Shore.
-July 21, 2026
-Newsday’s The Point highlights the competitive Assembly District 7 race between Trish Kopp and DawnMarie Kuhn, including significant fundraising in the open South Shore seat.
+Skip to content About Contact Endorsements Get Involved Media Priorities Updates Donate Donate About Contact Endorsements Get Involved Media Priorities Updates Donate Updates Newsletters Press Releases In the News Newsletters August 24, 2026 Building Momentum Across Suffolk It has been a busy stretch on the campaign trail.
+From community events and fundraisers to exciting campaign news, there is a lot to catch up on. → Press Releases August 11, 2026 Trish Kopp Becomes First and Only First-Time Candidate in Suffolk County to Max Out Public Matching Funds $175,000 Public Matching Funds Milestone Adds Momentum to Highly Competitive Assembly District 7 Race → August 7, 2026 Trish Kopp Surpasses $# Raised, Outraising Republican Opponent in Key Assembly District 7 Race Kopp campaign is less than $10,000 away from maximizing public financing as grassroots momentum grows across the South Shore. → In the News July 21, 2026 Newsday: Suffolk GOP Stronghold Sees Big Fundraising Newsday’s The Point highlights the competitive Assembly District 7 race between Trish Kopp and DawnMarie Kuhn, including significant fundraising in the open South Shore seat. → Contact Website Policies Paid for by Friends of Trish Kopp Website Powered by WordPress and Built by Daniel Mulladzhanov

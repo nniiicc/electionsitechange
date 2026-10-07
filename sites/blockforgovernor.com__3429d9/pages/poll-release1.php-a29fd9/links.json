@@ -1,11 +1,38 @@
 [
-"https://blockforgovernor.com/Events.php",
-"https://blockforgovernor.com/about.php",
-"https://blockforgovernor.com/donate.php",
-"https://blockforgovernor.com/index.php",
-"https://blockforgovernor.com/issues.php",
-"https://blockforgovernor.com/media.php",
-"https://blockforgovernor.com/poll-release1.php",
-"https://blockforgovernor.com/poll-results.php",
-"https://blockforgovernor.com/volunteer.php"
+{
+"text": "About",
+"href": "https://blockforgovernor.com/about.php"
+},
+{
+"text": "Donate",
+"href": "https://blockforgovernor.com/donate.php"
+},
+{
+"text": "Events",
+"href": "https://blockforgovernor.com/Events.php"
+},
+{
+"text": "Home",
+"href": "https://blockforgovernor.com/index.php"
+},
+{
+"text": "Issues",
+"href": "https://blockforgovernor.com/issues.php"
+},
+{
+"text": "Media & Press",
+"href": "https://blockforgovernor.com/media.php"
+},
+{
+"text": "Poll Results",
+"href": "https://blockforgovernor.com/poll-results.php"
+},
+{
+"text": "Press Releases Internal Poll Showing Block Leading Three-Way Race ▶",
+"href": "https://blockforgovernor.com/poll-release1.php"
+},
+{
+"text": "Reserve your Bumper Sticker",
+"href": "https://blockforgovernor.com/volunteer.php"
+}
 ]

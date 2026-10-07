@@ -1,39 +1,186 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/county",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/datacenter/impact.html",
-"https://andycantwin.com/datacenter/raleigh.html",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/datacenter/the-thing.html",
-"https://andycantwin.com/datacenter/the-vote.html",
-"https://andycantwin.com/datacenter/who-pays.html",
-"https://andycantwin.com/leandro",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://cityofws.org/DocumentCenter/View/2349/Rural-Hall-Area-Plan-Update-PDF",
-"https://co.stokes.nc.us/departments/data_center.php",
-"https://co.stokes.nc.us/news_detail_T1_R140.php",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage",
-"https://ruralhallinfo.com/",
-"https://ruralhallinfo.com/materials/NewProjectDocs/2026.5.15%20Project_Iron_Spur_Voluntary_Conditions.pdf",
-"https://ruralhallinfo.com/materials/NewProjectDocs/2026.5.15.Project%20Iron%20Spur%20-%20Rezoning%20Exhibit.pdf",
-"https://ruralhallinfo.com/materials/resolution-901.pdf",
-"https://ruralhallinfo.com/materials/resolution-912-a.pdf",
-"https://secure.actblue.com/donate/andybowline",
-"https://selc.org/press-release/community-groups-residents-file-lawsuit-over-stokes-county-data-center-rezoning",
-"https://southerncoalition.org/stokes-county-walks-back-data-center-rezoning-creating-opportunity-for-better-process",
-"https://thestokesnews.com/business/data-center-zoning-vote-yes-to-rezoning-request-split-vote/article_3c40af84-0996-4797-bae5-3f269a7ac03b.html",
-"https://wfae.org/2026-09-15/inside-stokes-countys-latest-vote-on-the-project-delta-data-center",
-"https://wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center",
-"https://wfdd.org/politics-government/2026-07-10/stokes-planning-board-backs-pause-on-data-center-development",
-"https://wfdd.org/politics-government/2026-07-14/stokes-commission-rejects-six-month-data-center-moratorium",
-"https://wfdd.org/politics-government/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal",
-"https://wfdd.org/politics-government/2026-08-14/planning-board-again-recommends-denial-of-stokes-data-center",
-"https://wfdd.org/politics-government/2026-09-04/report-challenges-tax-revenue-projections-for-stokes-county-data-center",
-"https://wfdd.org/politics-government/2026-09-14/stokes-county-votes-clear-the-way-for-massive-controversial-data-center-in-walnut-cove",
-"https://wunc.org/2026-01-12/stokes-county-approves-data-center-rezoning-after-heated-meeting"
+{
+"text": "1",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "2",
+"href": "https://andycantwin.com/datacenter/impact.html"
+},
+{
+"text": "3",
+"href": "https://andycantwin.com/datacenter/who-pays.html"
+},
+{
+"text": "4",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "5",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "6",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "F-1669 Rezoning Exhibit (May 15, 2026)",
+"href": "https://www.ruralhallinfo.com/materials/NewProjectDocs/2026.5.15.Project%20Iron%20Spur%20-%20Rezoning%20Exhibit.pdf"
+},
+{
+"text": "FOX8",
+"href": "https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage/"
+},
+{
+"text": "FOX8/WGHP developer interview (June 4, 2026)",
+"href": "https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Refiled application documents incl. Proposed Zoning Conditions (July 20, 2026)",
+"href": "https://www.co.stokes.nc.us/departments/data_center.php"
+},
+{
+"text": "Resolution 912 (support, June 22, 2026)",
+"href": "https://www.ruralhallinfo.com/materials/resolution-912-a.pdf"
+},
+{
+"text": "Rural Hall Area Plan Update (2016)",
+"href": "https://www.cityofws.org/DocumentCenter/View/2349/Rural-Hall-Area-Plan-Update-PDF"
+},
+{
+"text": "Rural Hall Resolution 901 (opposition)",
+"href": "https://www.ruralhallinfo.com/materials/resolution-901.pdf"
+},
+{
+"text": "SB 730",
+"href": "https://andycantwin.com/datacenter/raleigh.html#sb730"
+},
+{
+"text": "SCSJ on the April 14, 2026 rescission",
+"href": "https://southerncoalition.org/stokes-county-walks-back-data-center-rezoning-creating-opportunity-for-better-process/"
+},
+{
+"text": "SELC lawsuit announcement (March 2026)",
+"href": "https://www.selc.org/press-release/community-groups-residents-file-lawsuit-over-stokes-county-data-center-rezoning/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Stokes County Board of Commissioners statement on voiding the January approvals",
+"href": "https://www.co.stokes.nc.us/news_detail_T1_R140.php"
+},
+{
+"text": "Stop 1 is that hole.",
+"href": "https://andycantwin.com/datacenter/the-thing.html#scale"
+},
+{
+"text": "Stop 5 is those rules",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "The Stokes News: the motions and the 3-2 split",
+"href": "https://www.thestokesnews.com/business/data-center-zoning-vote-yes-to-rezoning-request-split-vote/article_3c40af84-0996-4797-bae5-3f269a7ac03b.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Voluntary Conditions",
+"href": "https://www.ruralhallinfo.com/materials/NewProjectDocs/2026.5.15%20Project_Iron_Spur_Voluntary_Conditions.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WFAE: inside the September vote",
+"href": "https://www.wfae.org/2026-09-15/inside-stokes-countys-latest-vote-on-the-project-delta-data-center"
+},
+{
+"text": "WFDD on the September 14, 2026 vote",
+"href": "https://www.wfdd.org/politics-government/2026-09-14/stokes-county-votes-clear-the-way-for-massive-controversial-data-center-in-walnut-cove"
+},
+{
+"text": "WFDD: commissioners reject the pause (July 14, 2026)",
+"href": "https://www.wfdd.org/politics-government/2026-07-14/stokes-commission-rejects-six-month-data-center-moratorium"
+},
+{
+"text": "WFDD: commissioners vote it down, 5-2 (July 30, 2026)",
+"href": "https://www.wfdd.org/politics-government/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+},
+{
+"text": "WFDD: planning board backs six-month pause, 6-1 (July 10, 2026)",
+"href": "https://www.wfdd.org/politics-government/2026-07-10/stokes-planning-board-backs-pause-on-data-center-development"
+},
+{
+"text": "WFDD: planning board recommends denial again, 5-2 (August 14, 2026)",
+"href": "https://www.wfdd.org/politics-government/2026-08-14/planning-board-again-recommends-denial-of-stokes-data-center"
+},
+{
+"text": "WFDD: planning board recommends denial, 7-2 (June 11, 2026)",
+"href": "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center"
+},
+{
+"text": "WFDD: report challenges the tax revenue projections (September 4, 2026)",
+"href": "https://www.wfdd.org/politics-government/2026-09-04/report-challenges-tax-revenue-projections-for-stokes-county-data-center"
+},
+{
+"text": "WUNC on the January 2026 rezoning vote",
+"href": "https://www.wunc.org/2026-01-12/stokes-county-approves-data-center-rezoning-after-heated-meeting"
+},
+{
+"text": "follow a $1,000 property tax bill through your county →",
+"href": "https://andycantwin.com/county/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "next · stop 5But Raleigh forced their hand",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "property tax guide",
+"href": "https://andycantwin.com/county/"
+},
+{
+"text": "ruralhallinfo.com",
+"href": "https://www.ruralhallinfo.com/"
+},
+{
+"text": "stop 6 is what I'd file about them",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "what was Leandro? →",
+"href": "https://andycantwin.com/leandro/"
+},
+{
+"text": "← back to the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "← the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+}
 ]

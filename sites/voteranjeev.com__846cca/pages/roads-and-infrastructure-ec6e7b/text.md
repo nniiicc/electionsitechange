@@ -1,5 +1,4 @@
-Fixing our Roads and Infrastructure
-Fixing the state of Michigan’s broken infrastructure includes more than only fixing the damn roads.
+Ranjeev 2025 Meet Ranjeev Issues News Endorsements Contact Volunteer Contribute Ranjeev 2025 #BELIEVEINRANJEEV Meet Ranjeev Issues News Endorsements Contact Volunteer Contribute Fixing our Roads and Infrastructure Fixing the state of Michigan’s broken infrastructure includes more than only fixing the damn roads .
 All Michiganders should be able to focus on education, work, and opportunities without having to worry about car repairs, poisoned water, or internet access.
 In 2018, the American Society of Civil Engineers gave this state a D+ for its crumbling roads, inept transit system, poor drinking water, and lack of energy efficiency, among other factors.
 Michigan leads the country in PFAS water contamination.
@@ -17,3 +16,4 @@ Michigan also has the highest axle weight limits in the nation.
 Our roads need our help.
 We also need to ensure we are preparing Michigan for what’s to come - modern infrastructure updates, such as regional transit and electric vehicle charging infrastructure, & full broadband connectivity.
 Only a holistic change will foster economic development and make Michigan a destination state.
+Volunteer Contribute Media Kit Contact Us Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #

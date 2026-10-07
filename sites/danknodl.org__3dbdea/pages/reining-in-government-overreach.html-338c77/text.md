@@ -1,4 +1,3 @@
-reining in government overreach
-| Dan has been a staunch advocate for limiting government overreach and promoting a more transparent and accountable government.
-Dan recently introduced a constitutional amendment to prohibit the governor from using his partial veto authority to increase taxes.
-He also brought forward a bill to safeguard against restrictive local energy policies that could drive up utility costs and limit consumer options. | |
+Dan Knodl for Assembly Home About Dan Issues > Lowering the Tax Burden Safe Communities Education Reining in Government Overreach Creating Opportunities Contribute Contact reining in government overreach Dan has been a staunch advocate for limiting government overreach and promoting a more transparent and accountable government. ​ Dan recently introduced a constitutional amendment to prohibit the governor from using his partial veto authority to increase taxes.
+He also brought forward a bill to safeguard against restrictive local energy policies that could drive up utility costs and limit consumer options.
+Home About Dan Issues Contribute ​​ Contact Paid for by Knodl 4 Wisconsin Home About Dan Issues > Lowering the Tax Burden Safe Communities Education Reining in Government Overreach Creating Opportunities Contribute Contact

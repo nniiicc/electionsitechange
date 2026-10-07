@@ -1,17 +1,4 @@
-Fitzgerald Mofor
-for Maryland House of Delegates
-District 9A
-A Clear Path to Relief and Reform for Maryland Families
-My Plan for Maryland
-Real Tax Relief for Maryland Families and Businesses
-Affordable
-Energy
-for All
-Reforming
-the Juvenile
-Justice System
-Fitzgerald Mofor was born in Gaithersburg, Maryland, on August 18th in Shady Grove Hospital.
-He began his early years of education at the Quality Time Early Learning Center in Downtown Silver Spring, Maryland, right on Georgia Avenue.
+top of page Home Endorsements Events Shop Menu Close Donate Home Endorsements Events Shop Menu Close Donate Donate Home Endorsements Events Shop Menu Close Fitzgerald Mofor for Maryland House of Delegates District 9A A Clear Path to Relief and Reform for Maryland Families My Plan for Maryland Real Tax Relief for Maryland Families and Businesses Affordable Energy for All Reforming the Juvenile Justice System Fitzgerald Mofor was born in Gaithersburg, Maryland, on August 18th in Shady Grove Hospital. ​ He began his early years of education at the Quality Time Early Learning Center in Downtown Silver Spring, Maryland, right on Georgia Avenue.
 Here in Silver Spring, Fitzgerald’s family remained very close with communal institutions that were deeply connected to their culture as Protestant Christians, and Fitzgerald had his earliest childhood memories in the Presbyterian Church.
 At seven, he moved to Brookeville, Maryland, where he became a stalwart linebacker for the St.
 Peter's Panthers and later became a three-year letterman for the varsity football team at Sherwood High School.
@@ -30,40 +17,28 @@ As a Delegate for District 9A in the Maryland House of Delegates, Fitzgerald Mof
 He also plans to provide tax relief to businesses to create more jobs.
 He plans to prioritize pragmatic solutions regarding energy policy to bring down the cost of living for everyday ratepayers.
 As a delegate, Fitzgerald will be 100% committed to resolving our broken juvenile justice system.
-Endorsements
-Trent Kittleman
-Former Delegate 9A
-"Fitzgerald, you have 100% of my support and endorsement.
+Endorsements Trent Kittleman Former Delegate 9A "Fitzgerald, you have 100% of my support and endorsement.
 I will do everything I can to support you.
-I believe you will be an excellent representative for our district."
-Gail Bates
-Former State Senator 9A
-"I believe Fitzgerald Mofor represents the positive values of our state and nation.
+I believe you will be an excellent representative for our district." Gail Bates Former State Senator 9A "I believe Fitzgerald Mofor represents the positive values of our state and nation.
 He has my endorsement.
-He possesses a strong grasp of the issues at hand and embodies the values that will ensure outstanding representation for our citizens."
-Dr.
-Jenny Zeng
-2022 Republican Nominee For 9A
-"It is my honor to endorse Fitzgerald Mofor for Maryland State Delegate in District 9A.
-As a fellow Republican who has campaigned in this district, I have come to appreciate how deeply our communities long for leaders who will stand up for working families, protect our freedoms, and restore common sense in Annapolis."
-Real Tax Relief for Maryland Families and Businesses
-- Reduce the individual income, corporate, and gas taxes that strain families and local businesses.
-- Lower the corporate tax rate from 8.25% to 6% to boost job creation and economic growth.
-- Cut the gas tax from 46¢ to 31¢ per gallon to make daily commutes more affordable.
-- Eliminate the two new income tax brackets implemented in the 2025 Budget Reconciliation and Financing Act.
-Affordable Energy
-for All
-- Repeal the Climate Solutions Act to ease unnecessary burdens on consumers and energy producers.
-- Streamline permitting for power plant companies to encourage innovation and reliability.
-- Offer tax incentives to energy companies that invest directly in Maryland communities.
-Reforming the Juvenile Justice System
-- Repurpose four closed juvenile justice facilities into vocational boarding schools
-- Young people will have access to education, training, and opportunity.
-Get Involved
-Your support makes a real difference.
+He possesses a strong grasp of the issues at hand and embodies the values that will ensure outstanding representation for our citizens." Dr.
+Jenny Zeng 2022 Republican Nominee For 9A "It is my honor to endorse Fitzgerald Mofor for Maryland State Delegate in District 9A.
+As a fellow Republican who has campaigned in this district, I have come to appreciate how deeply our communities long for leaders who will stand up for working families, protect our freedoms, and restore common sense in Annapolis." More Endorsements Real Tax Relief for Maryland Families and Businesses Reduce the individual income, corporate, and gas taxes that strain families and local businesses.
+Lower the corporate tax rate from 8.25% to 6% to boost job creation and economic growth.
+Cut the gas tax from 46¢ to 31¢ per gallon to make daily commutes more affordable.
+Eliminate the two new income tax brackets implemented in the 2025 Budget Reconciliation and Financing Act.
+Affordable Energy for All Repeal the Climate Solutions Act to ease unnecessary burdens on consumers and energy producers.
+Streamline permitting for power plant companies to encourage innovation and reliability.
+Offer tax incentives to energy companies that invest directly in Maryland communities.
+Reforming the Juvenile Justice System Repurpose four closed juvenile justice facilities into vocational boarding schools Young people will have access to education, training, and opportunity.
+Election: Maryland House of Delegates – District 9A Voter & Polling Information Election Day: November 3, 2026 Location: State of Maryland Get Involved Your support makes a real difference.
 Together, we can deliver tax relief, affordable energy, and meaningful reform for Maryland.
 If you would like to donate by check, you can send to the address below payable to "Friends and Family of Fitzgerald Mofor".
-Fitzgerald Mofor
-P.O.
-Box 106
-Damascus, MD 20872
+Fitzgerald Mofor P.O.
+Box 106 Damascus, MD 20872 Donate Now JOIN THE MOVEMENT Be part of a campaign focused on results, accountability, and Maryland’s future.
+Sign up below to receive updates, volunteer opportunities, and ways to get involved.
+Stay Connected First name Last name Phone Email * Message * By providing your telephone number, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency m ay vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help. https://www.mofor4md.com/privacy-policy Submit Paid for by Friends and Family of Fitzgerald Mofor, Treasurer, Jennet Mofor Privacy Policy Home Endorsements Events Shop bottom of page

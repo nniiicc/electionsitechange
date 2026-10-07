@@ -1,5 +1,6 @@
-ABOUT
-Nachman Caller - A fierce fighter with a stellar record.
+top of page HOME ABOUT POLICIES CONTACT DISTRICT 22 More Use tab to navigate through the menu items.
+DONATE NOW 646-820-4825 Nachman Caller for NY State Senator District 22 An Advocate we can count on—a fighter we can get behind.
+CONTACT ME DONATE NOW WHERE TO VOTE About ABOUT Nachman Caller - A fierce fighter with a stellar record.
 R' Nachman Caller is a candidate that brings to this race more than just promises.
 He brings a solid reputation and stellar record as a problem solver and relentless fighter.
 As a respected attorney and longtime advocate for the Boro Park community, with over three decades of dedicated service, he has established himself as a fierce champion for our community's most crucial concerns.
@@ -11,27 +12,10 @@ His expertise spans both practical development and policy advocacy, making him u
 R' Nachman Caller's commitment to our community goes beyond professional achievements.
 As an observant member of our community, he understands the values, traditions, and challenges that define our daily lives.
 His dedication to preserving our way of life while addressing critical infrastructure needs sets him apart as a candidate who truly represents our interests and who will fight on our behalf every step of the way from the State Senate.
-Join
-the
-fight
-The challenges facing our community require bold leadership and proven experience.
-As your State Senate representative, R' Nachman Caller pledges to:
-Champion rezoning initiatives that will enable significant new housing development
-Work to reduce burdensome regulations that hamper housing growth
-Fight for our fair share of city and state resources
-Advocate tirelessly for the independence of our Yeshivas
-Defend parents' rights to determine their children's education
-Promote economic growth that creates jobs within our community
-Build coalitions with other State Senators to amplify our community's voice
-Maintain the character and values of our neighborhood while addressing critical needs
-Others Promise, R’ Nachman Caller
-Delivers.
-R' Nachman Caller's commitment to our community isn't just words—it's backed by decades of achievement:
-- Developed thousands of housing units in Boro Park as a real estate investor and attorney
-- Advocated successfully in City Hall and Albany for tax breaks for landlords and developers building rental apartments
-- Fought against the construction of casinos near our communities in the Catskills
-- Created and distributed a comprehensive 16-page plan to solve the housing crisis after extensive research and consultation with community leaders
-- Established himself as a knowledgeable advocate for zoning changes that benefit our community
-R' Nachman Caller will bring the same dedication to the NY STATE SENATE that he has demonstrated throughout his career.
+SENATE DISTRICT 22 Donations made by residents of this district, up to a maximum of $# per contribution, will be eligible for a 8:1 match from the New York matching fund, effectively amplifying the impact of each donation. $# $# $# $# $# $# I WANT TO DONATE!
+Join the fight The challenges facing our community require bold leadership and proven experience.
+As your State Senate representative, R' Nachman Caller pledges to: Champion rezoning initiatives that will enable significant new housing development Work to reduce burdensome regulations that hamper housing growth Fight for our fair share of city and state resources Advocate tirelessly for the independence of our Yeshivas Defend parents' rights to determine their children's education Promote economic growth that creates jobs within our community Build coalitions with other State Senators to amplify our community's voice Maintain the character and values of our neighborhood while addressing critical needs Others Promise, R’ Nachman Caller Delivers.
+R' Nachman Caller's commitment to our community isn't just words—it's backed by decades of achievement: Developed thousands of housing units in Boro Park as a real estate investor and attorney Advocated successfully in City Hall and Albany for tax breaks for landlords and developers building rental apartments Fought against the construction of casinos near our communities in the Catskills Created and distributed a comprehensive 16-page plan to solve the housing crisis after extensive research and consultation with community leaders Established himself as a knowledgeable advocate for zoning changes that benefit our community R' Nachman Caller will bring the same dedication to the NY STATE SENATE that he has demonstrated throughout his career.
 His knowledge of real estate law, experience in development, and deep commitment to our values make him uniquely qualified to represent our community's interests.
 On Election Day, vote for the candidate with the experience, knowledge, and commitment to bring real change to our community.
+Door Knocking Make Calls Other First name * Phone Email * Message * Submit Contact Tel: 646-820-4825 info@nachmancallerforny.com Paid for By Nachman Carl Caller for NYS Senate 4309 13th Avenue Brooklyn, NY 11219 bottom of page

@@ -1,2 +1,3 @@
-February 14, 2026 | 10:00 AM Meet and Greet Registering voters is one of the most important things a campaign can do to win their election.
-Come register voters in the park with us! ← Back To Events Other Events Custom tag February 21, 2026 South County Dems Meeting 9:30 to 11:00 AM See event info
+Donate Menu Home Meet Candidate Issues Endorsements Events News Voting Info Volunteer Follow us February 14, 2026 | 10:00 AM Meet and Greet Registering voters is one of the most important things a campaign can do to win their election.
+Come register voters in the park with us! ← Back To Events Other Events Custom tag February 21, 2026 South County Dems Meeting 9:30 to 11:00 AM See event info Stay Up To Date Follow us on the campaign trail!
+First Name Email * Phone Number Join Us Home Meet Candidate Issues Endorsements Events News Voting Info Volunteer Donate Follow us Accessibility Statement Terms of Service Contact Authorized by Friends of Andrew Duck, Mike Reid, Treasurer 3642 Petersville Road Rosemont, MD 21758 Duck4Delegate.org © #

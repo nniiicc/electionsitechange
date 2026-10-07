@@ -1,4 +1,4 @@
-Joe Biden’s open border policies have failed America.
+Kennebunkport, ME (207) 604-3491 Donate Home About Events Issues Join Us Contact Immigration Home / Immigration Joe Biden’s open border policies have failed America.
 Our nation faces an unprecedented immigration crisis, jeopardizing our national security and straining local resources.
 Here in Maine, we’ve seen this happening across our state, specifically when it comes to housing.
 Too many Mainers are struggling to afford basic necessities such as housing and food, while people continue to flow across our border.
@@ -18,3 +18,9 @@ Our amnesty system is filled with individuals who are claiming amnesty without v
 We do not adequately screen amnesty recipients to ensure we know who they are and if they have a valid claim.
 More importantly, we are not performing adequate background checks on those entering our country.
 We must prioritize securing our border to stem the illegal flow of unsustainable numbers of immigrants.
+Project details Categories: Conference Email example@ex.com Phone +1 875 493 047 8 Address New York, NY 10013 Shared Facebook Twitter Pinterest Taxes Previous Project Civility, Respect, and Productive Congressional Discourse Next Project More projects Election Campaign Reducing Crime & Supporting First Responders Election Campaign Education Democracy Civility, Respect, and Productive Congressional Discourse About Events Issues Join Us Contact Paid for by Ron Russell For Congress Committee 188 Mills Rd, Kennebunkport, ME.
+Terms & Conditions and Privacy Policy / © Copyright #.
+Ron Russell for Congress.
+All Rights Reserved Keep Up with the Campaign Join our community and stay updated on Ron Russell’s campaign!
+Sign up today to receive the latest news, events, and opportunities to get involved.
+Email (Required) ×

@@ -1,11 +1,66 @@
 [
-"https://facebook.com/Lawrence.Almagno",
-"https://instagram.com/la4rhodeisland",
-"https://instagram.com/lpaj85",
-"https://lawrencealmagno.com/contact-us",
-"https://lawrencealmagno.com/privacy-policy",
-"https://lawrencealmagno.com/termsandconditions",
-"https://secure.anedot.com/friends-of-lawrence-almagno/support",
-"https://x.com/LAWRENCE_JR",
-"https://youtube.com/watch?v=tAV0Qrta6Xc"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "Contact",
+"href": "https://lawrencealmagno.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.anedot.com/friends-of-lawrence-almagno/support"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lawrencealmagno.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://lawrencealmagno.com/termsandconditions"
+},
+{
+"text": "[image: Lawrence Almagno speaking outside a Rhode Island elementary school]",
+"href": "https://www.youtube.com/watch?v=tAV0Qrta6Xc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Lawrence.Almagno"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/la4rhodeisland/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lpaj85/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=tAV0Qrta6Xc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LAWRENCE_JR"
+}
 ]

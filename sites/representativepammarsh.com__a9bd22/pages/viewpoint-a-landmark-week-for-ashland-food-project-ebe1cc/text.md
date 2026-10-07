@@ -1,7 +1,8 @@
-This Saturday’s green bag food pickup will be the 100th in a program that has collected 2.3 million pounds of food for the hungry
-By Rep.
-Pam Marsh June 9, 2026
-It’s always a feel-good moment to pack that bag with soup, chili and peanut butter, knowing that the food I supply will help sustain my neighbors.
+Skip to content Tue.
+Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Viewpoint: A landmark week for Ashland Food Project This Saturday’s green bag food pickup will be the 100th in a program that has collected 2.3 million pounds of food for the hungry By Rep.
+Pam Marsh June 9, 2026 LINK TO ASHLAND.NEWS ARTICLE Volunteers at the Ashland Co mmunity Food Bank organize green bags of food donated by Ashland residents during a bimonthly collection drive.
+June 13 marks the 100th Saturday morning pickup of the Ashland Food Project.
+John Trivers photo It’s always a feel-good moment to pack that bag with soup, chili and peanut butter, knowing that the food I supply will help sustain my neighbors.
 But this week’s pickup is special: Saturday, June 13, is the hundredth neighborhood pickup — a milestone for a program that has collected more than 2.3 million pounds of food to supply Ashland Emergency Food Bank.
 Even more, 16 years of magic green bags have inspired similar programs in Talent, Phoenix, Medford, Portland and across the state and country.
 In 2008, longtime Ashland resident Paul Giancarlo took his young kiddos out with a red wagon to ask neighbors if they wanted to donate food for neighbors.
@@ -21,4 +22,7 @@ We are living in times when the world often seems beset with intractable issues 
 But the Ashland Food Project is a reminder that we can sometimes address problems simply by thinking differently about them.
 Volunteers, green bags filled with love, a good Excel tracking system and stellar leadership changed our community.
 For that, I am eternally grateful.
-To learn more and get involved, go to ashlandfoodproject.com.
+To learn more and get involved, go to ashlandfoodproject.com .
+Post navigation My view on the situation facing the university by Rep.
+Pam Marsh DONATE TO PAM'S 2026 CAMPAIGN Follow Pam on Facebook REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 Proudly powered by WordPress | Theme: Newsup by Themeansar .
+ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements

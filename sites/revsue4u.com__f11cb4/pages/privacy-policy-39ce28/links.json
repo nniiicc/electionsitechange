@@ -1,13 +1,74 @@
 [
-"http://sapphirestrategies.org/",
-"https://facebook.com/WixStudio",
-"https://instagram.com/wixstudio",
-"https://networkadvertising.org/choices",
-"https://revsue4u.com/",
-"https://revsue4u.com/blank",
-"https://revsue4u.com/privacy-policy",
-"https://revsue4u.com/termsofservice",
-"https://secure.actblue.com/donate/revsue4u-web",
-"https://store.revsue4u.com/",
-"https://twitter.com/WixStudio"
+{
+"text": "ABOUT",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "CCESSIBILITY STATEMENT",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/revsue4u-web"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "GET MERCH",
+"href": "https://store.revsue4u.com/"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/wixstudio"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.revsue4u.com/privacy-policy"
+},
+{
+"text": "Press@SusanShumway.org",
+"href": "mailto:Press@SusanShumway.org"
+},
+{
+"text": "Rev. Susan Shumway",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "SOLUTIONS",
+"href": "https://www.revsue4u.com/blank"
+},
+{
+"text": "Sapphire Strategies",
+"href": "http://www.sapphirestrategies.org"
+},
+{
+"text": "Susan@SusanShumway.org",
+"href": "mailto:Susan@SusanShumway.org"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.revsue4u.com/termsofservice"
+},
+{
+"text": "VISION",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[no text]",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "info@susanshumway.org",
+"href": "mailto:info@susanshumway.org"
+}
 ]

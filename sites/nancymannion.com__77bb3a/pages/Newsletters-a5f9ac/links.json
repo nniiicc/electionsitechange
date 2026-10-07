@@ -1,31 +1,194 @@
 [
-"https://facebook.com/nancymannionpa",
-"https://instagram.com/nancymannionpa",
-"https://nancymannion.com/",
-"https://nancymannion.com/Contact-Us",
-"https://nancymannion.com/Donate",
-"https://nancymannion.com/Endorsements",
-"https://nancymannion.com/In-The-News",
-"https://nancymannion.com/Meet-Nancy",
-"https://nancymannion.com/Meet-Nancy/Events",
-"https://nancymannion.com/Newsletter/August-18-2026",
-"https://nancymannion.com/Newsletter/August-25-2026",
-"https://nancymannion.com/Newsletter/August-28-2026",
-"https://nancymannion.com/Newsletter/July-15-2026",
-"https://nancymannion.com/Newsletter/July-29-2026",
-"https://nancymannion.com/Newsletter/July-3-2026",
-"https://nancymannion.com/Newsletter/June-16-2026",
-"https://nancymannion.com/Newsletter/May-13-2026",
-"https://nancymannion.com/Newsletter/May-20-2026",
-"https://nancymannion.com/Newsletter/September-1-2026",
-"https://nancymannion.com/Newsletter/September-15-2026",
-"https://nancymannion.com/Newsletter/September-23-2026",
-"https://nancymannion.com/Newsletter/September-30-2026",
-"https://nancymannion.com/Newsletter/September-8-2026",
-"https://nancymannion.com/Newsletters",
-"https://nancymannion.com/Priorities",
-"https://nancymannion.com/Sign-Up",
-"https://nancymannion.com/Site-Map",
-"https://nancymannion.com/Volunteer/Sign-Up",
-"https://secure.actblue.com/donate/nancy-mannion-1"
+{
+"text": "Contact Us",
+"href": "https://www.nancymannion.com/Contact-Us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nancy-mannion-1"
+},
+{
+"text": "Donate",
+"href": "https://www.nancymannion.com/Donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancymannion.com/Endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.nancymannion.com/Meet-Nancy/Events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/nancymannionpa"
+},
+{
+"text": "Home",
+"href": "https://www.nancymannion.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nancymannionpa"
+},
+{
+"text": "Meet Nancy",
+"href": "https://www.nancymannion.com/Meet-Nancy/"
+},
+{
+"text": "News & Press",
+"href": "https://www.nancymannion.com/In-The-News/"
+},
+{
+"text": "Newsletters",
+"href": "https://www.nancymannion.com/Newsletters/"
+},
+{
+"text": "Priorities",
+"href": "https://www.nancymannion.com/Priorities/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/August-18-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/August-25-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/August-28-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/July-15-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/July-29-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/July-3-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/June-16-2026"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/May-13-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/May-20-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/September-1-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/September-15-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/September-23-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/September-30-2026/"
+},
+{
+"text": "Read More →",
+"href": "https://www.nancymannion.com/Newsletter/September-8-2026/"
+},
+{
+"text": "Sign Up for Campaign Updates→",
+"href": "https://www.nancymannion.com/Sign-Up/"
+},
+{
+"text": "Sign Up →",
+"href": "https://www.nancymannion.com/Sign-Up/"
+},
+{
+"text": "Sitemap",
+"href": "https://www.nancymannion.com/Site-Map/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nancymannion.com/Volunteer/Sign-Up/"
+},
+{
+"text": "[image: Nancy Mannion for Congress]",
+"href": "https://www.nancymannion.com/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's August 18, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/August-18-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's August 25, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/August-25-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's August 28, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/August-28-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's July 15, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/July-15-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's July 29, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/July-29-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's July 3, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/July-3-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's September 1, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/September-1-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's September 15, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/September-15-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's September 23, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/September-23-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's September 30, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/September-30-2026/"
+},
+{
+"text": "[image: Preview of Nancy Mannion's September 8, 2026 newsletter]",
+"href": "https://www.nancymannion.com/Newsletter/September-8-2026/"
+},
+{
+"text": "[image]",
+"href": "https://www.nancymannion.com/Newsletter/June-16-2026/"
+},
+{
+"text": "[image]",
+"href": "https://www.nancymannion.com/Newsletter/May-13-2026/"
+},
+{
+"text": "[image]",
+"href": "https://www.nancymannion.com/Newsletter/May-20-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancymannionpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nancymannionpa"
+},
+{
+"text": "info@nancymannion.com",
+"href": "mailto:info@nancymannion.com"
+}
 ]

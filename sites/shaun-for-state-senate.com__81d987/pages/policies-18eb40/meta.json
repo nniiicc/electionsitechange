@@ -1,7 +1,9 @@
 {
  "description": "The most important things to my campaign",
  "final_url": "https://www.shaun-for-state-senate.com/policies",
- "paid_for_by": null,
+ "fingerprint": "95e7dd758107a52a360710b5114882dd5230f26e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Main policies",
  "years_mentioned": []
 }

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/104279272130992",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://heermannfordist7.com/",
-"https://heermannfordist7.com/about",
-"https://heermannfordist7.com/contact-me",
-"https://heermannfordist7.com/donate",
-"https://heermannfordist7.com/legislative-activity-1",
-"https://heermannfordist7.com/news-and-information",
-"https://heermannfordist7.com/privacy-policy",
-"https://linkedin.com/in/mellissa-heermann-3670208"
+{
+"text": "About",
+"href": "https://heermannfordist7.com/about"
+},
+{
+"text": "Contact Me",
+"href": "https://heermannfordist7.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://heermannfordist7.com/donate"
+},
+{
+"text": "Home",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "Legislative Activity",
+"href": "https://heermannfordist7.com/legislative-activity-1"
+},
+{
+"text": "News and Information",
+"href": "https://heermannfordist7.com/news-and-information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heermannfordist7.com/privacy-policy"
+},
+{
+"text": "[image: Heermann for District 7]",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/104279272130992"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/mellissa-heermann-3670208/"
+}
 ]

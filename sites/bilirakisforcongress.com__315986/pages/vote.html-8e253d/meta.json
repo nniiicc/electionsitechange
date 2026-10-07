@@ -1,7 +1,11 @@
 {
  "description": "Make your plan to vote. Register, request a mail ballot, track it, vote early, and find your precinct in Pasco and Hillsborough Counties.",
  "final_url": "https://bilirakisforcongress.com/vote.html",
+ "fingerprint": "dc2da7a8d6ab4f7be10880a13c8b28d49479b980",
+ "format": 3,
  "paid_for_by": "Paid for by Bilirakis for Congress Contributions are not tax deductible as a charitable donation for federal income tax purposes",
  "title": "Vote | Bilirakis for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

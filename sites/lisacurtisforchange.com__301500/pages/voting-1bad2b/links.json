@@ -1,27 +1,110 @@
 [
-"https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3Dl25VzQJ1Rqv0phUxAIl0zCuVwL6IIWrtTTaGMn5mhiA%26code_challenge_method%3DS256",
-"https://berncoclerk.gov/elections",
-"https://berncoclerk.gov/elections/absentee-voting",
-"https://berncoclerk.gov/elections/early-voting",
-"https://berncoclerk.gov/elections/election-day-voting",
-"https://biogeocreations.com/",
-"https://facebook.com/lisacurtisforchange",
-"https://instagram.com/lisacurtisforchangenm",
-"https://lisacurtisforchange.com/",
-"https://lisacurtisforchange.com/about",
-"https://lisacurtisforchange.com/cart",
-"https://lisacurtisforchange.com/contact",
-"https://lisacurtisforchange.com/datacenternicole",
-"https://lisacurtisforchange.com/district-31",
-"https://lisacurtisforchange.com/endorsements",
-"https://lisacurtisforchange.com/get-involved",
-"https://lisacurtisforchange.com/learn-more",
-"https://lisacurtisforchange.com/lisa",
-"https://lisacurtisforchange.com/priorities",
-"https://lisacurtisforchange.com/voting",
-"https://maps.app.goo.gl/8C6wYPFKCyFyrzZT8",
-"https://maps.app.goo.gl/xeyASk5PdZAuqARX6",
-"https://portal1.sos.nm.gov/OVR/(S(nrfxhsb1fjmty54rbmwbbkb3))/WebPages/InstructionsStep1.aspx",
-"https://portal1.sos.nm.gov/OVR/(S(qmta2qo2wletpqg4axzke2jy))/WebPages/AbsenteeApplication.aspx",
-"https://secure.numero.ai/contribute/lisacurtisforchange"
+{
+"text": "0",
+"href": "https://www.lisacurtisforchange.com/cart"
+},
+{
+"text": "1500 Lomas Blvd NW",
+"href": "https://maps.app.goo.gl/xeyASk5PdZAuqARX6"
+},
+{
+"text": "6600 Holly Ave NE. Suite: Suite B6, Albuquerque, NM 87113",
+"href": "https://maps.app.goo.gl/8C6wYPFKCyFyrzZT8"
+},
+{
+"text": "BGC",
+"href": "https://www.biogeocreations.com/"
+},
+{
+"text": "Back",
+"href": "https://www.lisacurtisforchange.com/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/lisacurtisforchange"
+},
+{
+"text": "Contact",
+"href": "https://www.lisacurtisforchange.com/contact"
+},
+{
+"text": "Data Center Nicole",
+"href": "https://www.lisacurtisforchange.com/datacenternicole"
+},
+{
+"text": "District 31",
+"href": "https://www.lisacurtisforchange.com/district-31"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisacurtisforchange.com/endorsements"
+},
+{
+"text": "Folder: About",
+"href": "https://www.lisacurtisforchange.com/about"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.lisacurtisforchange.com/learn-more"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisacurtisforchange.com/get-involved"
+},
+{
+"text": "Lisa",
+"href": "https://www.lisacurtisforchange.com/lisa"
+},
+{
+"text": "Priorities",
+"href": "https://www.lisacurtisforchange.com/priorities"
+},
+{
+"text": "Voting",
+"href": "https://www.lisacurtisforchange.com/voting"
+},
+{
+"text": "[image: Lisa Curtis for NM House District 31]",
+"href": "https://www.lisacurtisforchange.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lisacurtisforchange"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisacurtisforchangenm/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lisacurtisforchange"
+},
+{
+"text": "here",
+"href": "https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3Dl25VzQJ1Rqv0phUxAIl0zCuVwL6IIWrtTTaGMn5mhiA%26code_challenge_method%3DS256"
+},
+{
+"text": "here",
+"href": "https://portal1.sos.nm.gov/OVR/(S(nrfxhsb1fjmty54rbmwbbkb3))/WebPages/InstructionsStep1.aspx"
+},
+{
+"text": "here",
+"href": "https://www.berncoclerk.gov/elections/"
+},
+{
+"text": "here",
+"href": "https://www.berncoclerk.gov/elections/absentee-voting/"
+},
+{
+"text": "here",
+"href": "https://www.berncoclerk.gov/elections/early-voting/"
+},
+{
+"text": "here",
+"href": "https://www.berncoclerk.gov/elections/election-day-voting/"
+},
+{
+"text": "online",
+"href": "https://portal1.sos.nm.gov/OVR/(S(qmta2qo2wletpqg4axzke2jy))/WebPages/AbsenteeApplication.aspx"
+}
 ]

@@ -1,28 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Call&dates=20260818T233000Z%2F20260819T003000Z",
-"http://maps.google.com/?q=Online",
-"https://bsky.app/profile/maryallen4congress.bsky.social",
-"https://facebook.com/share/1Chr644Ucy",
-"https://indianavoters.in.gov/",
-"https://instagram.com/maryallenforcongress",
-"https://maryallenforcongress.com/",
-"https://maryallenforcongress.com/cart",
-"https://maryallenforcongress.com/events",
-"https://maryallenforcongress.com/events/3rd-shot-pickleball-tournament",
-"https://maryallenforcongress.com/events/campaign-call?format=ical",
-"https://maryallenforcongress.com/events/virtual-phone-bank-training-every-4-wks-khj4e",
-"https://maryallenforcongress.com/eventsvolunteer",
-"https://maryallenforcongress.com/knowyourvote",
-"https://maryallenforcongress.com/meetmary",
-"https://maryallenforcongress.com/press-releases-1",
-"https://maryallenforcongress.com/priorities",
-"https://mobilize.us/maryallenforcongress/event/1005114",
-"https://secure.actblue.com/donate/mary-allen-1",
-"https://secure.actblue.com/donate/marymerch",
-"https://secure.ngpvan.com/nsziOJ9h4Ueq4u2mFDoNAg2",
-"https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2",
-"https://take-bac-congress.us/",
-"https://threads.net/maryallenforcongress",
-"https://tiktok.com/@maryallen4congress",
-"https://youtube.com/@MaryAllenForCongress/videos"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=online"
+},
+{
+"text": "0",
+"href": "https://www.maryallenforcongress.com/cart"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Call&dates=20260818T233000Z%2F20260819T003000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.maryallenforcongress.com/events/campaign-call?format=ical"
+},
+{
+"text": "Know Your Vote",
+"href": "https://www.maryallenforcongress.com/knowyourvote"
+},
+{
+"text": "Learn More",
+"href": "https://www.take-bac-congress.us/"
+},
+{
+"text": "Meet Mary",
+"href": "https://www.maryallenforcongress.com/meetmary"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/marymerch"
+},
+{
+"text": "Next Next September 12 Pickleball for All!",
+"href": "https://www.maryallenforcongress.com/events/3rd-shot-pickleball-tournament"
+},
+{
+"text": "Press Releases",
+"href": "https://www.maryallenforcongress.com/press-releases-1"
+},
+{
+"text": "Previous Previous August 10 Virtual phone bank training (Every 4 wks)",
+"href": "https://www.maryallenforcongress.com/events/virtual-phone-bank-training-every-4-wks-khj4e"
+},
+{
+"text": "Priorities",
+"href": "https://www.maryallenforcongress.com/priorities"
+},
+{
+"text": "Register",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Sign up",
+"href": "https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2"
+},
+{
+"text": "[image: Mary Allen for Congress]",
+"href": "https://www.maryallenforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maryallen4congress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Chr644Ucy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maryallen4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaryAllenForCongress/videos"
+},
+{
+"text": "https://www.mobilize.us/maryallenforcongress/event/1005114/",
+"href": "https://www.mobilize.us/maryallenforcongress/event/1005114/"
+},
+{
+"text": "mary@maryallenforcongress.com",
+"href": "mailto:mary@maryallenforcongress.com"
+}
 ]

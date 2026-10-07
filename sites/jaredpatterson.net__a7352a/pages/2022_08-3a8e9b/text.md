@@ -1,2 +1,5 @@
-In Political Issues REP.
-PATTERSON CONDEMNS SOCIAL MEDIA PLATFORMS ABSENCE AT JOINT COMMITTEE HEARING
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now In Political Issues REP.
+PATTERSON FORMALLY CHALLENGES ADDITIONAL TITLES IN FRISCO Continue Reading In Political Issues REP.
+PATTERSON CHALLENGES 23 ADDITIONAL BOOKS IN FRISCO ISD Continue Reading In Political Issues REP.
+PATTERSON CONDEMNS SOCIAL MEDIA PLATFORMS ABSENCE AT JOINT COMMITTEE HEARING Continue Reading Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

@@ -1,3 +1,10 @@
 [
-"https://leerend.com/"
+{
+"text": "Back",
+"href": "https://leerend.com/"
+},
+{
+"text": "contact@jonleefornd.com",
+"href": "mailto:contact@jonleefornd.com"
+}
 ]

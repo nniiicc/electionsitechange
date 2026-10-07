@@ -1,73 +1,17 @@
-MY PRIORITIES FOR A BRIGHTER MINNESOTA
-Our families and communities deserve to live happy, high-quality lives without constant fear or worry about whether they can afford care, pay their bills, or stay rooted in the place they call home.
-My priorities are shaped by my experience as an educator, a mom, and a lifelong community member, and by listening to families across our district about what they’re facing every day.
-Those conversations, and my own experiences as a mom and educator, guide the priorities I’m focused on and the work I’m ready to do in the State Senate.
-LOWER COSTS FOR FAMILIES
-Too many families are doing everything right and still feeling stretched thin.
-Rising costs make it harder to plan for the future, care for loved ones, and enjoy life in our community.
-I’m focused on practical, commonsense solutions that lower everyday costs and give families room to breathe.
-My priorities include:
-- Lowering everyday costs so families don’t have to make impossible choices between housing, food, transportation, and putting food on the kitchen table
-- Addressing the cost of child care, including providing free, high-quality public preschool for all four-year-olds, helping families save on childcare while giving kids a strong start
-- Investing in cost-saving public services that reduce long-term expenses for families, including early intervention and preventative programs
-- Supporting tax relief for working families and caregivers who are balancing rising costs while caring for children or aging parents
-- Funding public schools efficiently so districts don’t rely so heavily on local property taxes, easing the burden on homeowners and renters
-AFFORDABLE, ACCESSIBLE HEALTHCARE
-Healthcare should be accessible, affordable, and centered on people, not profit.
-No one should have to delay care, ration medication, or worry about discrimination when seeking help.
-I believe everyone deserves the care they need to live healthy, full lives, no matter their income, background, or where they live.
-My priorities include:
-- Lowering premiums and copays so healthcare is affordable for working families and seniors
-- Expanding access to affordable coverage options, including an expanded MinnesotaCare option, so people can get care early instead of waiting for small issues to become emergencies
-- Lowering prescription drug costs so people can access the medications they need without cutting pills or skipping doses
-- Protecting access to essential preventative care, including reproductive healthcare, free from discrimination
-STRONG PUBLIC SCHOOLS
-Strong public schools are the backbone of our communities.
+top of page Home Meet Angela Priorities Endorsements Get Involved Events Newsroom More Use tab to navigate through the menu items.
+DONATE MY PRIORITIES FOR A BRIGHTER MINNESOTA Our families and communities deserve to live happy, high-quality lives without constant fear or worry about whether they can afford care, pay their bills, or stay rooted in the place they call home.
+My priorities are shaped by my experience as an educator, a mom, and a lifelong community member, and by listening to families across our district about what they’re facing every day. ​ Those conversations, and my own experiences as a mom and educator, guide the priorities I’m focused on and the work I’m ready to do in the State Senate.
+LOWER COSTS FOR FAMILIES Too many families are doing everything right and still feeling stretched thin.
+Rising costs make it harder to plan for the future, care for loved ones, and enjoy life in our community. ​ I’m focused on practical, commonsense solutions that lower everyday costs and give families room to breathe.
+My priorities include: ​ Lowering everyday costs so families don’t have to make impossible choices between housing, food, transportation, and putting food on the kitchen table Addressing the cost of child care , including providing free, high-quality public preschool for all four-year-olds, helping families save on childcare while giving kids a strong start Investing in cost-saving public services that reduce long-term expenses for families, including early intervention and preventative programs Supporting tax relief for working families and caregivers who are balancing rising costs while caring for children or aging parents Funding public schools efficiently so districts don’t rely so heavily on local property taxes, easing the burden on homeowners and renters AFFORDABLE, ACCESSIBLE HEALTHCARE ​Healthcare should be accessible, affordable, and centered on people, not profit.
+No one should have to delay care, ration medication, or worry about discrimination when seeking help. ​ I believe everyone deserves the care they need to live healthy, full lives, no matter their income, background, or where they live. ​ My priorities include: ​ Lowering premiums and copays so healthcare is affordable for working families and seniors Expanding access to affordable coverage options , including an expanded MinnesotaCare option, so people can get care early instead of waiting for small issues to become emergencies Lowering prescription drug costs so people can access the medications they need without cutting pills or skipping doses Protecting access to essential preventative care , including reproductive healthcare, free from discrimination STRONG PUBLIC SCHOOLS Strong public schools are the backbone of our communities.
 When schools are supported, students succeed, educators are able to do their best work, and families and communities are stronger.
 As an education leader, I know firsthand what works in classrooms and what gets in the way.
-I’ll fight for public schools that put students first and prepare them for higher education options, careers, and life.
-My priorities include:
-- Supporting safe, inclusive schools where every student belongs and is set up to succeed academically and socially
-- Investing in educators through competitive pay, strong support services, and efforts to recruit and retain a diverse workforce
-- Providing training, resources, and support for school leaders so they can effectively lead schools and support staff and students
-- Expanding access to school-based mental health supports, including counselors, social workers, and partnerships with community providers
-- Requiring school board elections to follow the same campaign finance rules and structures as other races, increasing transparency and accountability
-SAFE & FAIR COMMUNITIES
-Safe, fair communities are built on trust, accountability, and care for one another.
-Public safety works best when we focus on prevention, fairness, and making sure people have the support and resources they need before crises happen.
-Everyone deserves to feel safe in their home, at school, and in their neighborhood.
-My priorities include:
-- Supporting common-sense gun safety measures, including universal background checks and restrictions on assault-style weapons, to keep our neighborhoods and classrooms safer
-- Investing in prevention by expanding access to mental health and chemical health services
-- Addressing rising costs and economic instability that can push individuals and families into crisis
-- Building trust and respect between communities and first responders by ensuring the right professionals respond to the right situations, allowing first responders to focus on real emergencies
-- Ensuring public resources are used responsibly and laws are enforced fairly so trust in our institutions is strengthened
-DEMANDING ACCOUNTABILITY
-The last thing we need is people stealing money from Minnesotans who cannot afford their lives.
-I believe government should protect people, not put them in harm’s way, and should make it easier for families to live with security and peace of mind.
-My priorities include:
-- Demanding zero tolerance for fraud by ensuring anyone who steals public funds—or commits any crime—is held fully accountable under the law
-- Enforcing strict oversight and regulations to prevent bad actors from exploiting public programs, refusing to accept weak legislation that compromises accountability
-- Partnering with the Office of Inspector General to maintain independent oversight, audit public spending, and safeguard state funds
-- Advancing nonpartisan solutions that put Minnesota families first and remove political bargaining
-A HEALTHY ENVIRONMENT
-Protecting our environment is about caring for our future and lowering costs today.
-Smart, local clean energy investments can reduce energy bills, create revenue for communities, and protect our air and water.
-We can take action on climate while strengthening our local economy and keeping costs down for families.
-My priorities include:
-- Supporting local clean energy projects, including hydropower at existing infrastructure like the Coon Rapids Dam
-- Reducing reliance on large energy corporations by investing in community-based energy solutions
-- Protecting Minnesota’s air, water, and natural resources for future generations
-- Using clean energy investments to lower costs for families and reduce pressure on property taxes
-DIGNITY FOR ALL
-Everyone deserves dignity, safety, and respect at every stage of life.
+I’ll fight for public schools that put students first and prepare them for higher education options , careers, and life. ​ My priorities include: ​ Supporting safe, inclusive schools where every student belongs and is set up to succeed academically and socially Investing in educators through competitive pay, strong support services, and efforts to recruit and retain a diverse workforce Providing training, resources, and support for school leaders so they can effectively lead schools and support staff and students Expanding access to school-based mental health supports , including counselors, social workers, and partnerships with community providers Requiring school board elections to follow the same campaign finance rules and structures as other races, increasing transparency and accountability SAFE & FAIR COMMUNITIES Safe, fair communities are built on trust, accountability, and care for one another.
+Public safety works best when we focus on prevention, fairness, and making sure people have the support and resources they need before crises happen. ​ Everyone deserves to feel safe in their home, at school, and in their neighborhood. ​ My priorities include: Supporting common-sense gun safety measures , including universal background checks and restrictions on assault-style weapons, to keep our neighborhoods and classrooms safer Investing in prevention by expanding access to mental health and chemical health services Addressing rising costs and economic instability that can push individuals and families into crisis Building trust and respect between communities and first responders by ensuring the right professionals respond to the right situations, allowing first responders to focus on real emergencies Ensuring public resources are used responsibly and laws are enforced fairly so trust in our institutions is strengthened DEMANDING ACCOUNTABILITY The last thing we need is people stealing money from Minnesotans who cannot afford their lives.
+I believe government should protect people, not put them in harm’s way, and should make it easier for families to live with security and peace of mind. ​ My priorities include: ​ Demanding zero tolerance for fraud by ensuring anyone who steals public funds—or commits any crime—is held fully accountable under the law Enforcing strict oversight and regulations to prevent bad actors from exploiting public programs, refusing to accept weak legislation that compromises accountability Partnering with the Office of Inspector General to maintain independent oversight, audit public spending, and safeguard state funds Advancing nonpartisan solutions that put Minnesota families first and remove political bargaining A HEALTHY ENVIRONMENT Protecting our environment is about caring for our future and lowering costs today.
+Smart, local clean energy investments can reduce energy bills, create revenue for communities, and protect our air and water. ​ We can take action on climate while strengthening our local economy and keeping costs down for families.
+My priorities include: ​ Supporting local clean energy projects , including hydropower at existing infrastructure like the Coon Rapids Dam Reducing reliance on large energy corporations by investing in community-based energy solutions Protecting Minnesota’s air, water, and natural resources for future generations Using clean energy investments to lower costs for families and reduce pressure on property taxes DIGNITY FOR ALL Everyone deserves dignity, safety, and respect at every stage of life.
 Our policies should reflect care, fairness, and inclusion, especially for people and communities who are too often targeted, overlooked, or pushed to the margins.
-I believe government should protect people, not put them in harm’s way, and should make it easier for families to live with security and peace of mind.
-My priorities include:
-- Protecting access to healthcare, including the right to safe and legal abortion and other personal healthcare decisions, without interference or discrimination
-- Standing up for our neighbors and communities against harmful rhetoric and policies from the administration that target people based on who they are, where they come from, or who they love
-- Supporting seniors so they can age with dignity, independence, and real choices, including stronger oversight and quality standards in nursing homes and long-term care, as well as options to remain in their homes and communities they've built
-- Honoring and supporting veterans by ensuring they have access to the healthcare, housing stability, and benefits they’ve earned serving our country
-- Expanding accessibility and inclusion for people with disabilities, including transportation, housing, and full participation in community life
-- Standing up for workers’ rights by supporting fair pay, safe working conditions, and the freedom to organize, so people can support their families with dignity
-- Supporting family caregivers who are balancing work, finances, and caring for aging loved ones or family members with disabilities
+I believe government should protect people, not put them in harm’s way, and should make it easier for families to live with security and peace of mind. ​ My priorities include: ​ Protecting access to healthcare , including the right to safe and legal abortion and other personal healthcare decisions, without interference or discrimination Standing up for our neighbors and communities against harmful rhetoric and policies from the administration that target people based on who they are, where they come from, or who they love Supporting seniors so they can age with dignity, independence, and real choices , including stronger oversight and quality standards in nursing homes and long-term care, as well as options to remain in their homes and communities they've built Honoring and supporting veterans by ensuring they have access to the healthcare, housing stability, and benefits they’ve earned serving our country Expanding accessibility and inclusion for people with disabilities, including transportation, housing, and full participation in community life Standing up for workers’ rights by supporting fair pay, safe working conditions, and the freedom to organize, so people can support their families with dignity Supporting family caregivers who are balancing work, finances, and caring for aging loved ones or family members with disabilities Terms & Conditions ​ ​ ​ ​​Prepared and Paid for by Campaign for Angela Nelson P.O.
+Box 48028 Coon Rapids, MN, 55433 nelsonformn@gmail.com Privacy Policy Accessibility Statement bottom of page

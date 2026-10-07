@@ -1,9 +1,38 @@
 [
-"https://albusformontana.com/",
-"https://albusformontana.com/about",
-"https://albusformontana.com/cart",
-"https://albusformontana.com/home-2",
-"https://albusformontana.com/privacy-policy",
-"https://facebook.com/profile.php?id=61562030967767",
-"https://secure.winred.com/eric-albus-for-sd-14/donate-today"
+{
+"text": "0",
+"href": "https://www.albusformontana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.albusformontana.com/about"
+},
+{
+"text": "About Eric",
+"href": "https://www.albusformontana.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-albus-for-sd-14/donate-today"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61562030967767"
+},
+{
+"text": "Home",
+"href": "https://www.albusformontana.com/"
+},
+{
+"text": "On The Issues",
+"href": "https://www.albusformontana.com/home-2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.albusformontana.com/privacy-policy"
+},
+{
+"text": "[image: Albus for Montana]",
+"href": "https://www.albusformontana.com/"
+}
 ]

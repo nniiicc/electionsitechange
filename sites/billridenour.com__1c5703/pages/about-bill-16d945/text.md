@@ -1,5 +1,4 @@
-About Bill
-I’m Bill Ridenour – member of the WV House of Delegates for District 100, Jefferson County.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate About Bill I’m Bill Ridenour – member of the WV House of Delegates for District 100, Jefferson County.
 I ran and was elected for public office for the first time in 2022.
 My wife and I live in Harpers Ferry near Route 115 with our dog Karina.
 We are proud to call West Virginia our home.
@@ -21,8 +20,7 @@ My middle son, daughter-in-law, and granddaughters live close by in Berkeley Cou
 I have been married for over 35 years to my incredible wife, Jean, a legal immigrant and fiercely patriotic American.
 Our awesome dog Karina is a rescue, she loves chasing squirrels, going for walks and hikes, and exploring the wild and wonderful West Virginia.
 I am a member of the West Virginia Citizens Defense League; a member of the Gun Owners of America; a life member of the Veterans of Foreign Wars (VFW); and member of the Eastern Panhandle Business Association.
-Marine Corps and Intelligence Experience
-I grew up in Ohio, Tennessee, North Carolina, Maryland, and Indiana, joining the Marine Corps during the dark years of the Carter regime to protect the greatest country in the world.
+Marine Corps and Intelligence Experience I grew up in Ohio, Tennessee, North Carolina, Maryland, and Indiana, joining the Marine Corps during the dark years of the Carter regime to protect the greatest country in the world.
 I was commissioned as a lieutenant and served in combat units during the 1980s, preparing to fight the Soviets and North Koreans.
 Thankfully, and largely due to the inspired leadership of Ronald Reagan, a cataclysmic war was avoided.
 I later served as a strategic intelligence officer covering ongoing wars and conflicts in Southeast Asia.
@@ -35,3 +33,6 @@ For six years, I led a global DoD counterintelligence campaign against al-Qaida,
 I continued supporting strategic counterintelligence efforts against America’s greatest foreign enemies.
 I was a Distinguished Graduate of the Marine Corps War College, and finally retired from federal public service in 2021 as the Joint Staff J2 Chief of Strategic Policy, as I saw the utter futility of advising the feckless Biden regime.
 My family and I at my Marine Corp War College graduation.
+Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

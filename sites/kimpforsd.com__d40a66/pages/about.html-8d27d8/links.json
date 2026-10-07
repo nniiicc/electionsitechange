@@ -1,9 +1,46 @@
 [
-"https://account.venmo.com/u/kimpforsd",
-"https://facebook.com/profile.php?id=61580269452209",
-"https://kimpforsd.com/about.html",
-"https://kimpforsd.com/get-involved.html",
-"https://kimpforsd.com/index.html",
-"https://kimpforsd.com/platform.html",
-"https://kimpforsd.com/privacy-policy.html"
+{
+"text": "Contact",
+"href": "mailto:kimpforsd@gmail.com"
+},
+{
+"text": "Contribute",
+"href": "https://account.venmo.com/u/kimpforsd"
+},
+{
+"text": "Get Involved",
+"href": "https://kimpforsd.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://kimpforsd.com/index.html"
+},
+{
+"text": "Meet Kim",
+"href": "https://kimpforsd.com/about.html"
+},
+{
+"text": "Platform",
+"href": "https://kimpforsd.com/platform.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kimpforsd.com/privacy-policy.html"
+},
+{
+"text": "See where Kim stands on the issues",
+"href": "https://kimpforsd.com/platform.html"
+},
+{
+"text": "Volunteer",
+"href": "https://kimpforsd.com/get-involved.html"
+},
+{
+"text": "[image: Kim Petterson for SD]",
+"href": "https://kimpforsd.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61580269452209"
+}
 ]

@@ -1,4 +1,4 @@
-Mike is a passionate post-secondary educator and administrator, with almost 20 years of commitment to advocating for and shaping the minds of students for fulfilling careers.
+Skip to main content Home Meet Mike On the Issues Get Involved Donate Mike is a passionate post-secondary educator and administrator, with almost 20 years of commitment to advocating for and shaping the minds of students for fulfilling careers.
 As State Representative of the 31st District he has continued to lead with that same passion.
 In 2025, Rep.
 Crawford was honored to be selected for the Bowhay Institute for Legislative Leadership Development (BILLD), the premier training program for emerging legislative leaders in the Midwest and Canada.
@@ -10,4 +10,6 @@ Crawford's educational journey was rooted in the Chicago Public Schools (CPS), h
 Mike has a beautiful wife, Joy’Ecstacy and their twins, they make their home in the Wrightwood neighborhood on the Southside of Chicago.
 Mike is involved in several service and education-oriented organizations, demonstrating his commitment to building a thriving community.
 Mike believes in this district and in our shared future.
-When we work together, across generations and neighborhoods, we can make our communities places of opportunity, dignity, and hope.
+When we work together, across generations and neighborhoods, we can make our communities places of opportunity, dignity, and hope. © # Friends of Michael Crawford.
+Paid for by Friends of Michael Crawford.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL.

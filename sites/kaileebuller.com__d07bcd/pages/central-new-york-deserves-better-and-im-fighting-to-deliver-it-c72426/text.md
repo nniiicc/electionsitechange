@@ -1,5 +1,4 @@
-By Kailee Buller, Candidate for Congress (NY-22)
-I grew up in Auburn, New York, the daughter of a corrections officer and a nurse.
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate CENTRAL NEW YORK DESERVES BETTER AND I’M FIGHTING TO DELIVER IT Jun 17, 2026 Back to Blog By Kailee Buller, Candidate for Congress (NY-22) I grew up in Auburn, New York, the daughter of a corrections officer and a nurse.
 Like so many young people from Central New York, I had to move away after college because there weren’t many good-paying job opportunities in my field.
 And I needed to pay off my student debt.
 I landed in Washington, worked hard, paid off every dollar I owed, and built a career I’m proud of — becoming the first in my family to earn a four-year degree and rising to serve as Chief of Staff to U.S.
@@ -39,4 +38,4 @@ I have been relentless my entire career, and I will bring that same work ethic t
 I will work to earn every single vote in this district, regardless of party affiliation.
 Central New York deserves better, and I look forward to earning your vote on November 3.
 Kailee Buller is a candidate for Congress in NY-22.
-Learn more at kaileebuller.com
+Learn more at kaileebuller.com Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

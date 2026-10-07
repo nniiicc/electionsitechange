@@ -1,4 +1,6 @@
-If we want our towns to truly thrive in a rapidly changing world, we must take deliberate steps to welcome and support young families who are ready to make this district their home.
+Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
+Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
+Announcements & Upcoming Events Helping Our Communities Thrive If we want our towns to truly thrive in a rapidly changing world, we must take deliberate steps to welcome and support young families who are ready to make this district their home.
 Without that next generation, we have to ask ourselves: who will serve on our boards and commissions?
 Who will volunteer with our Fire Department and Ambulance Service?
 Who will carry forward the proud tradition of farming that defines so much of our community?
@@ -11,3 +13,6 @@ Also, let’s continue to stand by our farming families by strengthening the “
 If we want vibrant towns tomorrow, we must make smart, forward-looking choices today—choices that welcome young families, support working people, and preserve the traditions that make our communities so special.
 Together, we can ensure that the 66th District remains a place where families grow, farms flourish, and neighbors step forward to lead.
 Suzanne can and will align with the power players in Hartford to create solutions for our communities.
+I Want To Hear From You ← Back I Want to Hear From You Thank you for reaching out.
+You'll hear from us soon.
+Sincerely, Suzanne and the Campaign Team Name (required) Email (required) Phone number ​ ​ Message SUBMIT Paid for by ElectSuzanne66, John Piacenza Treasurer Sign Up for Office Hours

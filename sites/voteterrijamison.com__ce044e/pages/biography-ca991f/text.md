@@ -1,7 +1,7 @@
-Judge Terri Jamison is originally from Welch, WV where she received her formative education and graduated from Welch High School.
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Judge Terri Jamison is originally from Welch, WV where she received her formative education and graduated from Welch High School.
 After moving to Columbus, Ohio, Judge Jamison owned and operated a multi-line insurance agency for more than 16 years.
 As a non-traditional student, she enrolled in Columbus State Community College for degree completion.
-She transferred all earned credits and received a Bachelor of Science in Business Administration, minor in Human Resources Management, cum laude, from Franklin University.
+She transferred all earned credits and received a Bachelor of Science in Business Administration, minor in Human Resources Management, cum laude , from Franklin University.
 She sold her agency, enrolled and graduated from Capital University Law School with a Doctor of Jurisprudence in 2004.
 While in law school, she gained practical skills through internships with the Bureau of State Hearings, the Ohio Attorney General's Office in the Civil Rights Section, and the Franklin County Public Defender's Office Common Pleas Division.
 Judge Jamison began her legal career with the Franklin County Public Defender's Office as an assistant public defender in the municipal division.
@@ -17,7 +17,7 @@ She has been recognized by many organizations for her service in the community.
 In 2018, she was featured in “It Starts Within” documentary which focused on the life of Carlos Christian and his advocacy for incarcerated men.
 In 2019, she was featured in PUSHOUT: Criminalization of Black Girls in School which highlights disparities in school discipline.
 In 2021, she was the commencement speaker and was conferred a Doctor of Community Leadership from Franklin University, Hon.
-Causa.
+Causa .
 She has published articles as a guest columnist in the Columbus African American news journal.
 She performs peer review of articles and white papers submitted to the National Council of Juvenile and Family Court Judges.
 Judge Jamison holds membership in several professional and community organizations: American Judges Association, a member of the Military Committee for the National Council of Juvenile and Family Court Judges, Ohio Association of Juvenile Court Judges (Board Member), Ohio Justice Alliance for Community Corrections (Trustee), Ohio State Bar Association, Columbus Bar Association, John Mercer Langston Bar Association, American Red Cross Blood Ambassador, NAACP, National Association of Blacks in Criminal Justice, and the Columbus Section of the National Council of Negro Women.
@@ -30,3 +30,4 @@ They are a blended family of 3 sons, 8 grandchildren and one great-granddaughter
 Judge Jamison is thankful for all opportunities that she has been presented.
 Marian Wright Edelman’s quote, “service is the rent we pay for being.
 It is the very purpose of life, and not something you do in your spare time” is indicative of her life of service.
+E-MAIL SIGNUP Donate EVENTS Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

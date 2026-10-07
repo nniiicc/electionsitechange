@@ -1,9 +1,12 @@
 {
  "description": "Political commentary and updates.",
  "final_url": "https://www.djt4ri.us/politics/",
+ "fingerprint": "7e4442fd6faba02f1eae26c774587d1559111adc",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Dana James Traversie Built with BoldGrid Powered By DreamHost",
  "title": "Politics | Dana James Traversie",
  "years_mentioned": [
+  "2022",
   "2026"
  ]
 }

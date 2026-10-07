@@ -1,11 +1,2 @@
-Freedom Matters
-One Nation
-Under God
-Protect Our Constitutional Rights
-Pro-Choice for Education
-Grow Economy & Create Jobs
-Healthcare Freedom
-Public Safety
-Veterans
-Smaller Government
-Other Issues
+top of page Christian, Veteran, Patriot Donate Freedom Matters Home Meet Allen Allen & Friends Media Vision Your Constitutional Rights Minnesota's Education Minnesota's Economy Healthcare Public Safety Veterans Government Reform Other Issues Current Issues Take Action Join us Internship One Nation Under God Protect Our Constitutional Rights Protect Freedom of Speech Say no to censorships Protect tax dollars from fraud Legal and safe elections Read More Pro-Choice for Education School Choices for Students Parents' rights Trump the Government's rule Education not Indoctrination School Vouchers and Home School Programs Government doesn't own our children Fund the Children, Not the system Read More Grow Economy & Create Jobs Job creation in Minnesota, strengthen middle class Buy American, Hire American Make Minnesota business friendly Give small businesses and startups the rocket fuel Make Minnesota a top choice for startups Read More Healthcare Freedom Protect us from Big Pharma's corruptions Healthcare not Sick-Care Big Pharma are keeping us sick Healthcare Freedom We make our own medical decisions, not big government Read More Public Safety illegal guns commit crimes Support peaceful protest Freedom to worship without being harassed Keep our neighborhoods safe Self Defense and 2nd Amendment Read More Veterans Help Veterans with employment They served us, it's time for us to serve them Provide support to Veterans with PTSD Read More Smaller Government Reduce Income Taxes, enrich Minnesotans Higher taxes kill jobs and drive companies away Big government is corrupt and kills businesses Term limits for elected officials Election Integrity and transparency Read More Other Issues Equal Opportunity for All Tourism Promotion for summer destinations Senior Issues Transportation Make Adoptions Easier Family Court Reform Read More Let's Get this Done together!
+Chip In Today Prepared and paid for by Allen Shen for House Committee. campaign office 7321 Melody Drive NE Fridley, MN 55432 bottom of page

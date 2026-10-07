@@ -1,7 +1,11 @@
 {
  "description": "News, press coverage, and campaign updates from Jill Oberlander, candidate for Connecticut's 36th Senate District.",
  "final_url": "https://jilloberlander.com/news/page/2/",
+ "fingerprint": "d30979d3a3e4cdfca31c53a9c195293f7e27e1bf",
+ "format": 3,
  "paid_for_by": "Paid for by Oberlander2026",
  "title": "News - Jill Oberlander for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

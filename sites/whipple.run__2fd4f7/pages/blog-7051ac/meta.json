@@ -1,10 +1,20 @@
 {
  "description": "",
  "final_url": "https://www.whipple.run/blog",
- "paid_for_by": null,
- "title": "Blog \u2014 The 10th District Project",
+ "fingerprint": "59ea1a92842ef0457dc84d09c782de6ba645ec80",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Blog — The 10th District Project",
  "years_mentioned": [
+  "1965",
+  "1970",
+  "1979",
+  "1990",
+  "2009",
+  "2015",
+  "2025",
   "2026",
-  "2027"
+  "2027",
+  "2030"
  ]
 }

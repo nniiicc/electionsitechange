@@ -1,47 +1,198 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=1054&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1064&Year=2019&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=1310&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5051&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5066&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5259&Initiative=false&Year=2021",
-"https://bellinghamherald.com/news/state/washington/article249485445.html",
-"https://columbian.com/news/2020/dec/13/in-our-view-police-reform-should-be-priority-of-legislature",
-"https://crosscut.com/politics/2021/07/what-new-wa-police-accountability-laws-do-and-dont-do",
-"https://facebook.com/GoodmanCampaign",
-"https://kimatv.com/news/local/legislator-responds-to-confusion-concerns-surrounding-new-police-reform-laws",
-"https://king5.com/article/news/investigations/police-body-cameras-not-a-priority-for-washington-lawmakers-in-2021-session/281-f189f3ce-f565-4b8c-955a-308f67c0e01e",
-"https://knkx.org/post/police-and-reformers-face-over-proposal-ban-chokeholds-tear-gas-and-military-equipment",
-"https://komonews.com/news-brief-newsletter/washington-state-lawmakers-send-police-accountability-bills-to-gov-inslees-desk",
-"https://komonews.com/news/local/police-reform-measures-mount-in-washington-after-deaths-of-those-in-police-custody",
-"https://mynorthwest.com/2775703/legislature-sweeping-police-reform-washington-state",
-"https://nytimes.com/2021/05/19/us/washington-inslee-police-reform.html?smid=url-share",
-"https://pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/01/26/state-capitols-reckon-with-racism-in-policing",
-"https://rogergoodman.org/",
-"https://rogergoodman.org/about-roger",
-"https://rogergoodman.org/add-me-to-the-mailing-list",
-"https://rogergoodman.org/awards",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice/3",
-"https://rogergoodman.org/contact2",
-"https://rogergoodman.org/endorse-roger",
-"https://rogergoodman.org/endorsements",
-"https://rogergoodman.org/gallery",
-"https://rogergoodman.org/legislation-2",
-"https://rogergoodman.org/new-media",
-"https://rogergoodman.org/volunteer",
-"https://ruckelshauscenter.wsu.edu/meetings-and-materials-criminal-sentencing-task-force",
-"https://seattletimes.com/opinion/editorials/move-swiftly-on-statewide-police-reforms",
-"https://seattletimes.com/seattle-news/gov-inslee-signs-sweeping-washington-state-police-bills-banning-choke-holds-creating-deadly-force-review-office",
-"https://seattletimes.com/seattle-news/new-laws-lead-some-washington-prosecutors-to-rethink-three-strike-life-sentences",
-"https://seattletimes.com/seattle-news/politics/washington-lawmakers-prepare-slew-of-bills-to-change-policing-and-accountability",
-"https://secure.actblue.com/donate/friends-of-roger-goodman-1",
-"https://spokesman.com/stories/2021/feb/14/police-reform-advancing-in-washington-legislature-",
-"https://spokesman.com/stories/2021/jan/10/five-issues-to-watch-in-the-washington-legislature",
-"https://spokesman.com/stories/2021/may/18/major-police-reforms-become-law-in-washington-afte",
-"https://theolympian.com/news/politics-government/article248814020.html",
-"https://theolympian.com/news/politics-government/article249168695.html",
-"https://youtu.be/q9FFsBOa1L0"
+{
+"text": "Awards",
+"href": "https://www.rogergoodman.org/awards/"
+},
+{
+"text": "Contact",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Contact Roger",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-roger-goodman-1"
+},
+{
+"text": "Editorial: Move swiftly on statewide police reforms",
+"href": "https://www.seattletimes.com/opinion/editorials/move-swiftly-on-statewide-police-reforms/"
+},
+{
+"text": "Endorse Roger",
+"href": "https://www.rogergoodman.org/endorse-roger/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rogergoodman.org/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/GoodmanCampaign/"
+},
+{
+"text": "Five issues to watch in the Washington Legislature in 2021",
+"href": "https://www.spokesman.com/stories/2021/jan/10/five-issues-to-watch-in-the-washington-legislature/"
+},
+{
+"text": "Governor Inslee signs sweeping police reform measures",
+"href": "https://www.seattletimes.com/seattle-news/gov-inslee-signs-sweeping-washington-state-police-bills-banning-choke-holds-creating-deadly-force-review-office"
+},
+{
+"text": "HB 1320 (Sexual Assault Protection)Update",
+"href": "https://youtu.be/q9FFsBOa1L0"
+},
+{
+"text": "Hearing on police use of deadly force – independent investigations",
+"href": "https://www.theolympian.com/news/politics-government/article248814020.html"
+},
+{
+"text": "Here are 5 police reform bills that Washington state families are watching",
+"href": "https://www.bellinghamherald.com/news/state/washington/article249485445.html"
+},
+{
+"text": "Home",
+"href": "https://www.rogergoodman.org/"
+},
+{
+"text": "House passes three policing-related bills Wednesday",
+"href": "https://www.theolympian.com/news/politics-government/article249168695.html"
+},
+{
+"text": "In Our View Police Reform Should be Priority of Legislature",
+"href": "https://www.columbian.com/news/2020/dec/13/in-our-view-police-reform-should-be-priority-of-legislature/"
+},
+{
+"text": "Justice Reform",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.rogergoodman.org/legislation-2/"
+},
+{
+"text": "Legislators respond to concerns surrounding new police reform laws",
+"href": "https://kimatv.com/news/local/legislator-responds-to-confusion-concerns-surrounding-new-police-reform-laws"
+},
+{
+"text": "Legislature poised to bring sweeping police reforms to Washington",
+"href": "https://mynorthwest.com/2775703/legislature-sweeping-police-reform-washington-state/"
+},
+{
+"text": "Mailing List",
+"href": "https://www.rogergoodman.org/add-me-to-the-mailing-list/"
+},
+{
+"text": "Major police reforms become law in Washington after Inslee signs bills he calls ‘just the beginning’",
+"href": "https://www.spokesman.com/stories/2021/may/18/major-police-reforms-become-law-in-washington-afte/"
+},
+{
+"text": "Media",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Meet Roger",
+"href": "https://www.rogergoodman.org/about-roger/"
+},
+{
+"text": "News",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Page1",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/"
+},
+{
+"text": "Page3",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/3/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.rogergoodman.org/gallery/"
+},
+{
+"text": "Police and reformers face off over proposal to ban chokeholds, tear gas and military equipment",
+"href": "https://www.knkx.org/post/police-and-reformers-face-over-proposal-ban-chokeholds-tear-gas-and-military-equipment"
+},
+{
+"text": "Police body cameras not a priority for Washington lawmakers in 2021 session",
+"href": "https://www.king5.com/article/news/investigations/police-body-cameras-not-a-priority-for-washington-lawmakers-in-2021-session/281-f189f3ce-f565-4b8c-955a-308f67c0e01e"
+},
+{
+"text": "Police reform is advancing in Washington Legislature. Here’s where those proposals stand",
+"href": "https://www.spokesman.com/stories/2021/feb/14/police-reform-advancing-in-washington-legislature-/"
+},
+{
+"text": "Police reform measures mount in Washington state after deaths of those in police custody",
+"href": "https://komonews.com/news/local/police-reform-measures-mount-in-washington-after-deaths-of-those-in-police-custody/"
+},
+{
+"text": "Rethinking Three Strike Life Sentences",
+"href": "https://www.seattletimes.com/seattle-news/new-laws-lead-some-washington-prosecutors-to-rethink-three-strike-life-sentences/"
+},
+{
+"text": "State Capitols Reckon With Racism in Policing",
+"href": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/01/26/state-capitols-reckon-with-racism-in-policing"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rogergoodman.org/volunteer/"
+},
+{
+"text": "Washington State Criminal Sentencing Task Force",
+"href": "https://ruckelshauscenter.wsu.edu/meetings-and-materials-criminal-sentencing-task-force/"
+},
+{
+"text": "Washington State Enacts Police Reform a Year After George Floyd’s Death",
+"href": "https://www.nytimes.com/2021/05/19/us/washington-inslee-police-reform.html?smid=url-share"
+},
+{
+"text": "Washington lawmakers prepare slew of bills to change policing and accountability",
+"href": "https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-prepare-slew-of-bills-to-change-policing-and-accountability/"
+},
+{
+"text": "Washington state lawmakers send a host of police reform bills to Gov. Inslee’s desk",
+"href": "https://komonews.com/news-brief-newsletter/washington-state-lawmakers-send-police-accountability-bills-to-gov-inslees-desk"
+},
+{
+"text": "What new WA police accountability laws do and don’t do",
+"href": "https://crosscut.com/politics/2021/07/what-new-wa-police-accountability-laws-do-and-dont-do"
+},
+{
+"text": "[image: cropped-SignLogo.png]",
+"href": "https://www.rogergoodman.org"
+},
+{
+"text": "addressing questionable police tactics",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1054&Initiative=false&Year=2021"
+},
+{
+"text": "imposed new duties on police",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5066&Initiative=false&Year=2021"
+},
+{
+"text": "measures",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1064&Year=2019&Initiative=false"
+},
+{
+"text": "prevent criminal suspects from fleeing a crime scene.",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021"
+},
+{
+"text": "respond effectively to mental health crisis calls",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021"
+},
+{
+"text": "state’s ability to sanction and decertify police",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Initiative=false&Year=2021"
+},
+{
+"text": "transparency measures",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5259&Initiative=false&Year=2021"
+},
+{
+"text": "uniform standard limiting police use of force",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1310&Initiative=false&Year=2021"
+}
 ]

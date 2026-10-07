@@ -1,7 +1,9 @@
 {
  "description": "Help out Bubba's campaign",
  "final_url": "https://sorensenforiowa.com/legis-coffees",
- "paid_for_by": null,
+ "fingerprint": "4fad5fd94af33caeedd38450a399c73b26a2352d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Legis Coffees",
  "years_mentioned": [
   "2026"

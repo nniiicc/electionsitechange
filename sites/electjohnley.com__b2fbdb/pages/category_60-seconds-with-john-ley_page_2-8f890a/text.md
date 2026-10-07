@@ -1,10 +1,12 @@
-John Ley discusses the proposed $7.5 billion I-5 Interstate Bridge replacement project, highlighting issues with the planned MAX light rail station and the allocation of funds.
-John Ley discusses Initiative 2066 and urges citizens to sign it to protect their right to use natural gas for home heating and cooking against recent legislation banning its usage
-John Ley calls for immediate action on roadway expansion and new bridges at the June 4, 2024, Regional Transportation Council meeting to address Clark County's traffic congestion and population growth.
-John Ley remarks about tolling to Clackamas County Board of County Commissioners' Meeting
-Do we need a Washington Futures Fund?
-It’s time to end 900 days of Inslee’s “Emergency” powers.
-Safe Schools Summit highlights need to given parents more control over their kids education.
-John Ley – Proud Republican.
+Home News Latest News 60 Seconds With John Ley About Me Donate Latest News 60 Seconds with John Ley • John Ley Criticizes $7.5B I-5 Bridge Project 60 Seconds With John Ley Issues June 20, 2024 by John Ley John Ley discusses the proposed $7.5 billion I-5 Interstate Bridge replacement project, highlighting issues with the planned MAX light rail station and the allocation of funds.
+Read more 60 Seconds with John Ley • Fight for Your Right to Natural Gas: Sign I-2066 Today 60 Seconds With John Ley Issues June 17, 2024 by John Ley John Ley discusses Initiative 2066 and urges citizens to sign it to protect their right to use natural gas for home heating and cooking against recent legislation banning its usage Read more 60 Seconds with John Ley • John Ley Advocates for Roadway Expansion and New Bridges at RTC Meeting 60 Seconds With John Ley Issues June 5, 2024 by John Ley John Ley calls for immediate action on roadway expansion and new bridges at the June 4, 2024, Regional Transportation Council meeting to address Clark County's traffic congestion and population growth.
+Read more # Seconds with John Ley • September 10, 2022 # Seconds With John Ley September 9, 2022 by John Ley John Ley remarks about tolling to Clackamas County Board of County Commissioners' Meeting Read more # Seconds with John Ley • September 9, 2022 # Seconds With John Ley September 9, 2022 by John Ley John Ley remarks about tolling to Clackamas County Board of County Commissioners' Meeting Read more # Seconds with John Ley • August 22, 2022 # Seconds With John Ley August 22, 2022 by John Ley Do we need a Washington Futures Fund?
+Read more # Seconds with John Ley • August 19, 2022 # Seconds With John Ley August 18, 2022 by John Ley It’s time to end 900 days of Inslee’s “Emergency” powers.
+Read more # Seconds with John Ley • August 12, 2022 # Seconds With John Ley August 11, 2022 by John Ley Safe Schools Summit highlights need to given parents more control over their kids education.
+Read more # Seconds with John Ley • August 11, 2022 # Seconds With John Ley August 11, 2022 by John Ley John Ley – Proud Republican.
 Why does Greg Cheney NOT want to be identified and supported by republicans?
-Tolling starts on I-205 but expands to “double tolls” for the Interstate Bridge
+Read more # Seconds with John Ley • August 1, 2022 # Seconds With John Ley August 1, 2022 by John Ley Tolling starts on I-205 but expands to “double tolls” for the Interstate Bridge Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News Washington has a spending addiction Washington lawmaker warns ballooning bridge budget needs reality check Stop rewarding fiscal mismanagement on the IBR; enough is enough Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

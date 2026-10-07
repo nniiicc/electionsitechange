@@ -1,11 +1,38 @@
 [
-"https://buzz360.app/",
-"https://facebook.com/Senator.Mark.Johnson",
-"https://markjohnsonmnsenate.com/",
-"https://markjohnsonmnsenate.com/about.html",
-"https://markjohnsonmnsenate.com/contact-us.html",
-"https://markjohnsonmnsenate.com/endorsements.html",
-"https://markjohnsonmnsenate.com/gallery.html",
-"https://markjohnsonmnsenate.com/issues.html",
-"https://secure.winred.com/mark-johnson/donate-today"
+{
+"text": "Contact Us",
+"href": "https://www.markjohnsonmnsenate.com/contact-us.html"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/mark-johnson/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.markjohnsonmnsenate.com/endorsements.html"
+},
+{
+"text": "Gallery",
+"href": "https://www.markjohnsonmnsenate.com/gallery.html"
+},
+{
+"text": "Issues",
+"href": "https://www.markjohnsonmnsenate.com/issues.html"
+},
+{
+"text": "Meet Mark",
+"href": "https://www.markjohnsonmnsenate.com/about.html"
+},
+{
+"text": "[image: Mark Johnson, Senator 1]",
+"href": "https://www.markjohnsonmnsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://buzz360.app/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Senator.Mark.Johnson/"
+}
 ]

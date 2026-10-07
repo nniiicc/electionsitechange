@@ -1,4 +1,6 @@
-Subscribe
-Conservative leaders are united in supporting Alan Schoolcraft as the champion that we can count on to defend our values in Austin.
+Skip to content Home Meet Alan Priorities Endorsements Conservative Rankings Newsletters The Islamification of Texas Contact Contribute Subscribe Conservative leaders are united in supporting Alan Schoolcraft as the champion that we can count on to defend our values in Austin.
 Want to add your name to the list?
 Click here to join Team Schoolcraft!
+Pol Ad paid for by Schoolcraft for Texas Facebook Twitter Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,43 +1,174 @@
 [
-"http://instagram.com/lizboldonmn",
-"http://squarespace.com/",
-"https://125livemn.org/food-pantry",
-"https://bsky.app/profile/lizboldonmn.bsky.social",
-"https://centralusa.salvationarmy.org/northern/rochester/programs-and-services",
-"https://communityfoodresponse.org/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeP7oZb_P3RbNvQH86OfuO7xJlzGb8n4y8ACeKyCYO6mmdg-Q/viewform?usp=header",
-"https://drive.google.com/drive/folders/1qnOzDPvg9k49Adzxh_O_uuk1Mu0q9UIf?usp=sharing",
-"https://exchangeco-op.org/activities",
-"https://facebook.com/LittleFreePantriesofRochesterMN",
-"https://facebook.com/LizBoldonMNSenate",
-"https://familyservicerochester.org/Meals-On-Wheels",
-"https://familyservicerochester.org/Senior-Cafe",
-"https://forms.office.com/r/vir0mZ6VS7",
-"https://gis.lcc.mn.gov/redist2020/Legislative/L2022/senate/maps/25.pdf",
-"https://gis.leg.mn/iMaps/districts",
-"https://health.state.mn.us/people/csfp/income.html",
-"https://health.state.mn.us/taxonomy/term/1229",
-"https://helpingfeedpeople.org/",
-"https://hosannalutheran.org/hosanna-food-ministries",
-"https://instagram.com/lizboldonmn",
-"https://lifegateservices.org/",
-"https://lizboldon.com/",
-"https://lizboldon.com/about",
-"https://lizboldon.com/antiracism-resources",
-"https://lizboldon.com/cart",
-"https://lizboldon.com/contact-us",
-"https://lizboldon.com/endorsements",
-"https://lizboldon.com/food-resources",
-"https://lizboldon.com/priorities",
-"https://mnvotes.org/",
-"https://oasisrochester.org/supermarket-saturday",
-"https://olmstedcounty.gov/residents/services-individuals-families/child-youth/WIC",
-"https://pamojawomen.org/",
-"https://peaceunited.us/events",
-"https://secure.actblue.com/donate/lizboldonmn",
-"https://semcac.org/senior-dining",
-"https://thelandingmn.org/",
-"https://threads.com/@lizboldonmn?hl=en",
-"https://youtube.com/channel/UCois6laWDDMdVKnTLmV7yDQ?view_as=subscriber",
-"https://zumbrolutheran.org/open-table"
+{
+"text": "0",
+"href": "https://lizboldon.com/cart"
+},
+{
+"text": "Anti-Racism Resources",
+"href": "https://lizboldon.com/antiracism-resources"
+},
+{
+"text": "Contact Us",
+"href": "https://lizboldon.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lizboldonmn"
+},
+{
+"text": "Endorsements",
+"href": "https://lizboldon.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LizBoldonMNSenate"
+},
+{
+"text": "Food Resources",
+"href": "https://lizboldon.com/food-resources"
+},
+{
+"text": "Home",
+"href": "https://lizboldon.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/lizboldonmn"
+},
+{
+"text": "Map",
+"href": "https://www.gis.lcc.mn.gov/redist2020/Legislative/L2022/senate/maps/25.pdf"
+},
+{
+"text": "Meet Liz",
+"href": "https://lizboldon.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://lizboldon.com/priorities"
+},
+{
+"text": "Request a lawn sign!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeP7oZb_P3RbNvQH86OfuO7xJlzGb8n4y8ACeKyCYO6mmdg-Q/viewform?usp=header"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCois6laWDDMdVKnTLmV7yDQ?view_as=subscriber"
+},
+{
+"text": "[image: Liz Boldon for MN House 25B]",
+"href": "https://lizboldon.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lizboldonmn"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/lizboldonmn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LizBoldonMNSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@lizboldonmn?hl=en"
+},
+{
+"text": "here",
+"href": "https://drive.google.com/drive/folders/1qnOzDPvg9k49Adzxh_O_uuk1Mu0q9UIf?usp=sharing"
+},
+{
+"text": "here",
+"href": "https://mnvotes.org"
+},
+{
+"text": "here",
+"href": "https://www.gis.leg.mn/iMaps/districts/"
+},
+{
+"text": "https://125livemn.org/food-pantry/",
+"href": "https://125livemn.org/food-pantry/"
+},
+{
+"text": "https://centralusa.salvationarmy.org/northern/rochester/programs-and-services/",
+"href": "https://centralusa.salvationarmy.org/northern/rochester/programs-and-services/"
+},
+{
+"text": "https://familyservicerochester.org/Meals-On-Wheels/",
+"href": "https://familyservicerochester.org/Meals-On-Wheels/"
+},
+{
+"text": "https://familyservicerochester.org/Senior-Cafe",
+"href": "https://familyservicerochester.org/Senior-Cafe"
+},
+{
+"text": "https://forms.office.com/r/vir0mZ6VS7",
+"href": "https://forms.office.com/r/vir0mZ6VS7"
+},
+{
+"text": "https://lifegateservices.org/",
+"href": "https://lifegateservices.org/"
+},
+{
+"text": "https://www.communityfoodresponse.org/",
+"href": "https://www.communityfoodresponse.org/"
+},
+{
+"text": "https://www.exchangeco-op.org/activities",
+"href": "https://www.exchangeco-op.org/activities"
+},
+{
+"text": "https://www.facebook.com/LittleFreePantriesofRochesterMN/",
+"href": "https://www.facebook.com/LittleFreePantriesofRochesterMN/"
+},
+{
+"text": "https://www.health.state.mn.us/people/csfp/income.html",
+"href": "https://www.health.state.mn.us/people/csfp/income.html"
+},
+{
+"text": "https://www.health.state.mn.us/taxonomy/term/1229",
+"href": "https://www.health.state.mn.us/taxonomy/term/1229"
+},
+{
+"text": "https://www.helpingfeedpeople.org/",
+"href": "https://www.helpingfeedpeople.org/"
+},
+{
+"text": "https://www.hosannalutheran.org/hosanna-food-ministries",
+"href": "https://www.hosannalutheran.org/hosanna-food-ministries"
+},
+{
+"text": "https://www.oasisrochester.org/supermarket-saturday",
+"href": "https://www.oasisrochester.org/supermarket-saturday"
+},
+{
+"text": "https://www.olmstedcounty.gov/residents/services-individuals-families/child-youth/WIC",
+"href": "https://www.olmstedcounty.gov/residents/services-individuals-families/child-youth/WIC"
+},
+{
+"text": "https://www.pamojawomen.org",
+"href": "https://www.pamojawomen.org"
+},
+{
+"text": "https://www.peaceunited.us/events",
+"href": "https://www.peaceunited.us/events"
+},
+{
+"text": "https://www.semcac.org/senior-dining/",
+"href": "https://www.semcac.org/senior-dining/"
+},
+{
+"text": "https://www.thelandingmn.org/",
+"href": "https://www.thelandingmn.org/"
+},
+{
+"text": "https://www.zumbrolutheran.org/open-table",
+"href": "https://www.zumbrolutheran.org/open-table"
+}
 ]

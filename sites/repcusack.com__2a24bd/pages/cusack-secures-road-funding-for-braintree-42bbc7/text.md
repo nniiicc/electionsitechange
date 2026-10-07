@@ -1,11 +1,9 @@
-For immediate release: May 29, 2019
-(BOSTON) — State Representative Mark J.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Cusack Secures Road Funding for Braintree For immediate release: May 29, 2019 (BOSTON) — State Representative Mark J.
 Cusack joined his colleagues in the Massachusetts House of Representatives to approve legislation that includes a $200 million bond authorization for Chapter 90 funding to help municipalities complete road, bridge and infrastructure improvement projects.
 The town of Braintree is slated to receive almost $1 million dollars directed to infrastructure improvements, along with an additional funding $4,739,617.20 specifically for highway lighting improvements along the Route 93/Route 3 interchange.
 “I am proud to secure nearly $1 million which will fund a significant portion of our road projects once again this construction season in Braintree,” said Representative Cusack.
-“The road paving and additional construction funding that Braintree will receive is crucial in improving safe travel throughout our town.”
-“Lighting issues have been a major public safety issue throughout the Braintree Split area.
+“The road paving and additional construction funding that Braintree will receive is crucial in improving safe travel throughout our town.” “Lighting issues have been a major public safety issue throughout the Braintree Split area.
 While the Department of Transportation has been trying to maintain the old lights, I am very happy that $4.7 million will be appropriated to fix this issue going forward,” added Representative Cusack.
-“The improvements to the lighting infrastructure of the Route 93/Route 3 interchange are pivotal to the safety of everyone using those highways, as Braintree is a center of transportation in the south shore.”
-Under this legislation, the town of Braintree is officially going to receive a total of $994,713 in Chapter 90 funding.
-###
+“The improvements to the lighting infrastructure of the Route 93/Route 3 interchange are pivotal to the safety of everyone using those highways, as Braintree is a center of transportation in the south shore.” Under this legislation, the town of Braintree is officially going to receive a total of $994,713 in Chapter 90 funding.
+### Newsroom Press Releases Previous House Passes FY20 Budget; Cusack Secures $400,000 in improvements for Braintree Next House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

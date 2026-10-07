@@ -1,2 +1,2 @@
-Serving Polk County in the Florida Senate
-A longtime Polk County community leader and State Senator focused on healthcare, affordability, education, public safety, and responsible growth.
+0 Skip to Content Home Meet Colleen Issues and Priorities Donate Open Menu Close Menu Home Meet Colleen Issues and Priorities Donate Open Menu Close Menu Home Meet Colleen Issues and Priorities Donate Serving Polk County in the Florida Senate A longtime Polk County community leader and State Senator focused on healthcare, affordability, education, public safety, and responsible growth.
+Paid for by Friends of Colleen Burton

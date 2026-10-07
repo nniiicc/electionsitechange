@@ -1,17 +1,66 @@
 [
-"http://elections.delaware.gov/services/voter/placestoregister.shtml",
-"http://legis.delaware.gov/",
-"http://legis.delaware.gov/legislature.nsf/1688f230b96d580f85256ae20071717e/afdf2ea2da07d72e85257893006a10c0/$FILE/ATT47CWT.pdf/RD31.pdf",
-"http://linkedin.com/pub/sean-m-lynn/21/528/5b1",
-"https://facebook.com/seanlynnforthe31st",
-"https://ivote.de.gov/",
-"https://winwithlynn.org/about_sean.html",
-"https://winwithlynn.org/campaign_gallery.html",
-"https://winwithlynn.org/contact_sean.php",
-"https://winwithlynn.org/endorsements.html",
-"https://winwithlynn.org/index.html",
-"https://winwithlynn.org/legislation.html",
-"https://winwithlynn.org/news.html",
-"https://winwithlynn.org/the_issues.html",
-"https://winwithlynn.org/voter_resources.html"
+{
+"text": "About Sean",
+"href": "https://winwithlynn.org/about_sean.html"
+},
+{
+"text": "Campaign News",
+"href": "https://winwithlynn.org/news.html"
+},
+{
+"text": "Contact",
+"href": "https://winwithlynn.org/contact_sean.php"
+},
+{
+"text": "Delaware General Assembly",
+"href": "http://legis.delaware.gov/"
+},
+{
+"text": "Endorsements",
+"href": "https://winwithlynn.org/endorsements.html"
+},
+{
+"text": "Gallery",
+"href": "https://winwithlynn.org/campaign_gallery.html"
+},
+{
+"text": "Home",
+"href": "https://winwithlynn.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://winwithlynn.org/the_issues.html"
+},
+{
+"text": "Legislation",
+"href": "https://winwithlynn.org/legislation.html"
+},
+{
+"text": "Office of the State Election Commissioner",
+"href": "http://elections.delaware.gov/services/voter/placestoregister.shtml"
+},
+{
+"text": "Resources",
+"href": "https://winwithlynn.org/voter_resources.html"
+},
+{
+"text": "[image: Map of the 31st District]",
+"href": "http://legis.delaware.gov/legislature.nsf/1688f230b96d580f85256ae20071717e/afdf2ea2da07d72e85257893006a10c0/%24FILE/ATT47CWT.pdf/RD31.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/pub/sean-m-lynn/21/528/5b1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/seanlynnforthe31st"
+},
+{
+"text": "[no text]",
+"href": "mailto:weallwinwithlynn@gmail.com"
+},
+{
+"text": "iVote.De.Gov",
+"href": "https://ivote.de.gov/"
+}
 ]

@@ -1,13 +1,58 @@
 [
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx",
-"https://mws.dev/",
-"https://stephanie4idaho.com/",
-"https://stephanie4idaho.com/about",
-"https://stephanie4idaho.com/blog",
-"https://stephanie4idaho.com/contact",
-"https://stephanie4idaho.com/donate",
-"https://stephanie4idaho.com/endorsements",
-"https://stephanie4idaho.com/volunteer",
-"https://voteidaho.gov/"
+{
+"text": "About",
+"href": "https://stephanie4idaho.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://stephanie4idaho.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://stephanie4idaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://stephanie4idaho.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://stephanie4idaho.com/endorsements/"
+},
+{
+"text": "Find Where To Vote",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+},
+{
+"text": "Home",
+"href": "https://stephanie4idaho.com/"
+},
+{
+"text": "Learn More",
+"href": "https://stephanie4idaho.com/about/"
+},
+{
+"text": "Manwaring Web Solutions",
+"href": "https://mws.dev"
+},
+{
+"text": "Register To Vote",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Request An Absentee Ballot",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "View Endorsements",
+"href": "https://stephanie4idaho.com/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://stephanie4idaho.com/volunteer/"
+},
+{
+"text": "[image] Stephanie Mickelsen",
+"href": "https://stephanie4idaho.com/"
+}
 ]

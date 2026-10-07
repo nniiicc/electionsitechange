@@ -1,80 +1,60 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| CHECKING IN AT THE LEGISLATURE: SUMMER 2024 |
-| |
-| Dear Friends and Neighbors, I hope you all have had a great summer!
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session I hope you all have had a great summer!
+CHECKING IN AT THE LEGISLATURE: SUMMER 2024 Dear Friends and Neighbors, I hope you all have had a great summer!
 Over the last few months, there have been multiple SCOTUS and Utah Supreme Court decisions made that directly affect Utah laws, with more rulings regarding abortion and Title IX still pending.
 All of these are crucial to how the legislature will respond in the next few weeks and months.
 I’ll keep you updated.
 My condolences go out to the family of Bountiful City Councilman Jesse Bell, who passed away August 13th from an aggressive brain cancer.
 The city of Bountiful is grateful for his life of dedication to our community.
-You can read about his life and see information on funeral services here.
+You can read about his life and see information on funeral services here .
 I would like to thank you once again for your unwavering support and trust.
 It is truly an honor to serve you in the legislature, and I am committed to working hard for our community.
-Warmest regards, Melissa |
-| |
-| |
-| QUICK LINKS |
-| |
-| |
-| IN THIS ISSUE Photo snapshot: Summer events highlighting my bills from the 2024 General Session and Congratulations to the graduating class of 2024!
-Utah updates by the numbers Highlighted news articles on the challenges and successes in Utah |
-| |
-| |
-| |
-| Top Left: Lieutenant Governor Henderson signing my bill, HB192, giving all school staff 3-week parental and 6-week postpartum leave without financial repercussions.
+Warmest regards, Melissa QUICK LINKS 2024 General Legislative Session Brochure May Legislative Interim Highlights June Legislative Interim Highlights IN THIS ISSUE Photo snapshot: Summer events highlighting my bills from the 2024 General Session and Congratulations to the graduating class of 2024!
+Utah updates by the numbers Highlighted news articles on the challenges and successes in Utah Top Left: Lieutenant Governor Henderson signing my bill, HB192 , giving all school staff 3-week parental and 6-week postpartum leave without financial repercussions.
 Top Right: Speaking to SLCC and DATC Graduates at the Utah Correctional Facility as a result of my sponsored legislation: 2024 HB248 Inmate Amendments and 2022 HB194 Corrections Education.
 Bottom Left: Congratulations to the Class of 2024!
-Bottom Right: Speaking on the Capitol steps to support victims of crime, highlighting 2024 bill, HB276 |
-| |
-| |
-| UTAH UPDATES I am excited to share some updates with you about our great state.
-The Office of the Legislative Auditor General released its audit on the property tax system in Utah.
-The audit’s policy recommendations included:
-Consider allowing the Property Tax division to adopt multi-tiered enforcement mechanisms.
+Bottom Right: Speaking on the Capitol steps to support victims of crime, highlighting 2024 bill, HB276 UTAH UPDATES I am excited to share some updates with you about our great state.
+The Office of the Legislative Auditor General released its audit on the property tax system in Utah .
+The audit’s policy recommendations included: Consider allowing the Property Tax division to adopt multi-tiered enforcement mechanisms.
 Consider the benefits and risks of adopting a policy that would require the disclosure of property sales data.
 Consider requiring counties to provide clear information to taxpayers about the property tax appeal process.
-For the 17th consecutive year, the American Legislative Exchange Council ranked Utah No. 1 for best economic outlook, according to the ALEC-Laffer State Economic Competitiveness Index.
+For the 17th consecutive year, the American Legislative Exchange Council ranked Utah No.
+1 for best economic outlook, according to the ALEC-Laffer State Economic Competitiveness Index.
 Utahns have created 324,821 small businesses that employ 45% of the state’s workforce.
 WalletHub recently found that 10 of the 30 best small cities to start a business are located right here in Utah.
-Utah landed the No. 2 spot for best economy in the nation, according to a study by WalletHub.
+Utah landed the No.
+2 spot for best economy in the nation, according to a study by WalletHub .
 Utah’s all-of-the-above energy policies help keep electricity rates low.
 How low?
-Utahns pay the lowest electricity bills in the nation.
-Last year, Utah’s graduation rates continued their ascent above the national average while our students tested No. 1 for college readiness among comparable states.
-Here’s how the Utah Legislature has buoyed public education in Utah:
-Increased per-student spending by $211.7 million from 2023-24 – a 5% jump Expanded educational choice by awarding 10,000 Utah Fits All Scholarships to Utah kids Prohibited schools from charging curricular school fees for required classes Improved educational transparency Invested $74 million to increase paid prep time for educators Significantly increased teacher compensation to retain our best educators Increased classroom supply fund by up to $500 so educators don’t pay out of pocket Created paid stipends for student teachers Increased penalties for school hoax threats Took unprecedented steps to improve physical security and student and teacher safety This past session, the Utah Legislature created the Office of AI Policy to help state leaders learn, discover, react, and create effective frameworks and policies for Utah.
+Utahns pay the lowest electricity bills in the nation .
+Last year, Utah’s graduation rates continued their ascent above the national average while our students tested No.
+1 for college readiness among comparable states.
+Here’s how the Utah Legislature has buoyed public education in Utah: Increased per-student spending by $211.7 million from 2023-24 – a 5% jump Expanded educational choice by awarding 10,000 Utah Fits All Scholarships to Utah kids Prohibited schools from charging curricular school fees for required classes Improved educational transparency Invested $74 million to increase paid prep time for educators Significantly increased teacher compensation to retain our best educators Increased classroom supply fund by up to $500 so educators don’t pay out of pocket Created paid stipends for student teachers Increased penalties for school hoax threats Took unprecedented steps to improve physical security and student and teacher safety This past session, the Utah Legislature created the Office of AI Policy to help state leaders learn, discover, react, and create effective frameworks and policies for Utah.
 This lab spurs innovation while working to protect our data privacy.
-You can learn more here. |
-| |
-| |
-| IN THE NEWS |
-| |
-| :Transportation |
-| |
-| :Immigration and the Border |
-| |
-| :Technology |
-| |
-| :Politics |
-| |
-| :Energy |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| This email was sent to << Test Email Address >> why did I get this? unsubscribe from this list update subscription preferences Melissa Ballard · 136 S Main Street Suite A200 · Salt Lake City, UT 84101 · USA |
+You can learn more here .
+IN THE NEWS St.
+George News: Cedar City Regional Airport begins $5.2M expansion to enhance traveler experience Deseret News: Utah to finally get its own passport office KSL: Utah is aging, but new Census Bureau data shows benefits in its youth :Economy Daily Herald: Utah tops ALEC’s list of states with the best economic outlook, again Deseret News: Opinion: Utah’s economic success is no accident KSL NewsRadio: Several small Utah cities named best in country for starting businesses KUTV: Utah is state with 2nd best economy, coming in behind Washington :Education Washington Examiner: Utah defies Biden’s Title IX rules: ‘We have a state law that will be enforced’ Deseret News: Utah Fits All Scholarship applications are closed.
+How many applied?
+Fox News: Utah legislature doubles funding for school choice program after 'overwhelming number of applications' KUTV: Utah County teachers finish academy made to help educate, prepare for school shooting Daily Herald: Legislature passes bill to prevent local school boards from initiating school redistricting Brad Mortensen op-ed: Weber State is embracing change in our approach to serving students.
+As its leader, I welcome scrutiny.
+Higher Ed Dive: Federal judge blocks final Title IX rule in four more states :Sports USA Today: Winter Olympics are officially heading back to Salt Lake City in 2034.
+Everything to know.
+Deseret News: Utah’s ‘Olympic blossoming’ since 2002 Winter Games on display for IOC ABC 4: PGA TOUR to return to Utah after 60 years, coming to Black Desert Resort KSL NewsRadio: Utah leaders present plans to the IOC in hopes to host the 2034 Olympics Deseret News: Here's how big of a boost Utah's economy would get from hosting the 2034 Winter Olympics :Transportation KSLTV: UDOT installing high-visibility lane striping along Wasatch Front highways :Immigration and the Border Deseret News: The border crisis reaches Utah schools, says Rep.
+Burgess Owens Fox 13: Utah legislature's organized crime subcommittee talks border security, retail theft and gangs KSL: US immigration officials seek info on possible detention center for Utah :Technology CNN: New Utah lawsuit claims TikTok Live feature puts children at risk KUER: Utah’s new Office of Artificial Intelligence will first focus on mental health care and AI KUER: Utah’s social media laws pick up a partial court win :Public Safety KUER: Hoping for ‘tangible results’ on recidivism, Utah is casting a wide net for solutions Fox 13: Agents on pace to set record this year for amount of fentanyl seized in Utah KSL TV: As Utah political threats rise, security measures becoming tighter, says DPS Fox 13: Fentanyl seized in Utah in 2024 already surpasses mark set last year :Politics Utah News Dispatch: Utah Republicans celebrate toppling of federal agencies’ rulemaking power :Energy Fox 13: Rocky Mountain Power faces the wrath of Utah's Capitol Hill over rate hike KSL: Utah commission approves Enbridge plan to cut natural gas rate by nearly 30% :Environment Utah News Dispatch: Utah’s reservoirs and streams in ‘impressive’ shape, state says Utah News Dispatch: Utah leaders gearing up to fight new BLM conservation rule in the courts and Congress KSL TV: New water treatment plant will improve water heading for Utah Lake Fox 13: Israeli agriculture experts collaborate with Utahns on water-saving practices Fox 13: Utah looks to ink deals with Israel for water-saving technologies Fox 13: After years of killing invasive species, native plants finally return to Utah Lake KSLTV: Utah delegation studies future geothermal potential in Iceland KUTV: Utah's new helicopter bolsters firefighting efforts ahead of 2024 fire season Utah News Dispatch: Not all mineral companies on Great Salt Lake pay their fair share, audit finds KSL NewsRadio: Nearly half of Utah reservoirs are 100% full Fox 13: Fire restrictions to go into place for Salt Lake Co., 8 others in Utah Herald Journal: Northern Utah rangeland finds new purpose as nursery for wild bighorn sheep KUER: Rather than mooove beef, a new cattle processor in Sevier County can keep it local Deseret News: Energy and public lands issues taken up in the special session Standard-Examiner: Antelope Island State Park breaks ground on new visitor and learning center expansion Utah News Dispatch: Great Salt Lake commissioner report details ‘busy and fruitful’ year Deseret News: Foreign countries are buying up Utah land.
+New state legislation aims to tackle the conundrum.
+KSL TV: New remote avalanche control systems to be installed in Little Cottonwood Canyon KSL NewsRadio: “Planting parties” at Utah Lake working to rid the lake of invasive phragmites KUTV: Utah faces more critical fire conditions, smokey air as dry, hot weather continues Learn More About Melissa Facebook Instagram Email This email was sent to << Test Email Address >> why did I get this? unsubscribe from this list update subscription preferences Melissa Ballard · 136 S Main Street Suite A200 · Salt Lake City, UT 84101 · USA Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

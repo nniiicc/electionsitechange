@@ -1,10 +1,11 @@
-top of page
-As a working mom, I feel the squeeze of rising costs firsthand.
+top of page HOME MEET JOANNA PRIORITIES PRIORITY: Housing PRIORITY: Healthcare PRIORITY: Education & Jobs PRIORITY: Lowering Costs PRIORITY: Fair Taxes ENDORSEMENTS GET INVOLVED EVENTS Use tab to navigate through the menu items.
+DONATE As a working mom, I feel the squeeze of rising costs firsthand.
 Working people deserve more than just getting by—we deserve the opportunity to build a good life, get ahead, and create a better future for our families.
 From the cost of groceries and childcare to protecting the outdoors we all cherish, I will fight for what matters to you.
-P.O.
-Box 37
-Albany, OR 97321
-(541) 791-6260
-Paid for by Joanna Robinson for Oregon, PAC ID 24710
-bottom of page
+AFFORDABLE HOUSING LEARN MORE...
+HEALTHCARE FOR ALL LEARN MORE...
+EDUCATION AND JOBS LEARN MORE...
+LOWERING COSTS LEARN MORE...
+FAIR TAXES LEARN MORE...
+HOME MEET JOANNA PRIORITIES PRIORITY: Housing PRIORITY: Healthcare PRIORITY: Education & Jobs PRIORITY: Lowering Costs PRIORITY: Fair Taxes ENDORSEMENTS GET INVOLVED EVENTS More Use tab to navigate through the menu items. joanna@joannarobinsonfororegon.com P.O.
+Box 37 Albany, OR 97321 (541) 791-6260 ​ Paid for by Joanna Robinson for Oregon, PAC ID 24710 bottom of page

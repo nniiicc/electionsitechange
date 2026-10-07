@@ -1,16 +1,16 @@
-Last week, the Georgia House of Representatives reconvened on Monday, March 16, for Legislative Day 32 and the start of the 10th week of the 2026 legislative session.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+News / 2026 Legislative Update - Week 10 24 Mar Tuesday, 2:23 PM · 2026 2026 Legislative Update - Week 10 Last week, the Georgia House of Representatives reconvened on Monday, March 16, for Legislative Day 32 and the start of the 10th week of the 2026 legislative session.
 Following Monday’s legislative day, House committees met for a very productive committee workday on Tuesday to continue reviewing and considering legislation that crossed over from the Senate after Crossover Day.
 Throughout the week, my House colleagues and I remained busy and engaged as we worked to advance legislation out of committees and on the House floor.
 By the end of the week, the Georgia General Assembly completed Legislative Day 35, leaving only five days left in the 2026 legislative session.
 Although the end of session is drawing near, some of our busiest session days are still ahead of us.
 We will continue working diligently in the days ahead to pass meaningful legislation for the citizens across our great state.
-One of the most notable measures that the House championed this week was House Bill 1199, which, most importantly, will temporarily suspend Georgia’s excise tax on motor fuel for 60 days.
+One of the most notable measures that the House championed this week was House Bill 1199 , which, most importantly, will temporarily suspend Georgia’s excise tax on motor fuel for 60 days .
 This suspension comes at a critical time as Georgians have faced sharp increases in gas prices amid ongoing conflicts in the Middle East, placing added financial strain on families and business across the state.
 Prices at the pump will begin to reflect this change in the coming days as retailers receive new shipments of motor fuel.
 Georgia’s excise tax on gasoline is currently 33.3 cents per gallon and 37.3 cents per gallon of diesel.
 My colleagues and I were proud to join Governor Brian Kemp on Friday as he signed this important legislation into law, immediately enacting the gas tax suspension and delivering swift, meaningful relief to Georgians feeling the impact of rising fuel costs.
-Official Signing of HB 1199 & HB 1000
-To further provide much-needed tax relief to Georgians, the Senate gave final passage to House Bill 1000 this week, which Gov.
+Official Signing of HB 1199 & HB 1000 To further provide much-needed tax relief to Georgians, the Senate gave final passage to House Bill 1000 this week, which Gov.
 Kemp also signed in to law on Friday.
 The bill provides a one-time income tax refund to eligible Georgians who filed individual income tax returns for both the 2024 and 2025 tax years by the applicable deadlines.
 Once a taxpayer files their 2025 return, the Georgia Department of Revenue will issue a refund equal to the lesser of the taxpayer’s 2024 Georgia income tax liability or a set amount based on filing status: $250 for single filers or married individuals filing separately, $375 for heads of household and $500 for married couples filing jointly.
@@ -43,30 +43,24 @@ Senate Bill 452 also received final passage in the House this week and builds on
 Kemp in his annual State of the State Address to strengthen retirement security for Georgia’s public safety workforce.
 The legislation would increase employer contributions to qualifying 401(k) accounts for Georgia’s law enforcement officers, helping ensure that those who dedicate their careers to protecting others would be supported well beyond their years of active service.
 Also, this week, the House took decisive action to protect Georgians from experiencing interrupted communication with public safety agencies during emergencies by passing Senate Bill 470, also known as the Emergency & Public Safety Signal Protection Act.
-This legislation would prohibit the possession, operation and distribution of signal jammers that intend to interfere with the transmission of a communication signal over any wireless communication system, such as a phone, radio, radar system or station.
+This legislation would prohibit the possession, operation and distribution of signal jammers that intend to interfere with the transmission of a communication signal over any wireless communication system, such as a phone, radio, radar system or station .
 Because these devices can block or degrade signals used by law enforcement, firefighters and emergency medical personnel, they pose a serious threat to public safety.
-Finally, last Friday, the House gave final passage to Senate Bill 170, a necessary measure to strengthen the resilience of Georgia’s healthcare infrastructure.
+Finally, last Friday, the House gave final passage to Senate Bill 170 , a necessary measure to strengthen the resilience of Georgia’s healthcare infrastructure.
 SB 170 would create a grant program to acquire and install backup generators for affected rural hospitals, which are acute care hospitals located in rural counties with fewer than 100 beds and located in any region where the governor declared a state of emergency after July 1, 2024.
 This effort builds on similar legislation passed by the House last year—House Bill 262—and responds directly to the challenges exposed by Hurricane Helene in 2024, which highlighted the vulnerability of rural hospitals during severe weather events.
 By investing in reliable backup energy systems, SB 170 would help guarantee that essential medical services remain available during severe weather events, particularly for rural communities that may not have the same access to backup energy like some of our larger cities.
-We also passed the following Senate bills during the 10th week of the 2026 legislative session:
-- Senate Bill 160 - allows certain drivers whose licenses have been suspended for reckless stunt driving to apply for a limited driving permit that would require the use of an intelligent speed assistance device—a constant monitoring device installed within a motor vehicle to actively monitor and prevent the driver from exceeding a preset speed.
-- Senate Bill 177 - creates definitions for agents of hostile foreign principals, foreign supported political organizations and hostile foreign countries as designated by the U.S.
+We also passed the following Senate bills during the 10th week of the 2026 legislative session: Senate Bill 160 - allows certain drivers whose licenses have been suspended for reckless stunt driving to apply for a limited driving permit that would require the use of an intelligent speed assistance device—a constant monitoring device installed within a motor vehicle to actively monitor and prevent the driver from exceeding a preset speed.
+Senate Bill 177 - creates definitions for agents of hostile foreign principals, foreign supported political organizations and hostile foreign countries as designated by the U.S.
 Secretary of Commerce.
 The bill would prohibit individuals or organizations from engaging in political activities on behalf of these foreign entities unless they have properly registered with the State Ethics Commission.
-- Senate Bill 216 - requires individuals hired as director of the Prosecuting Attorneys Qualifications Commission starting July 1, 2026, to become members of the Judicial Retirement System (JRS).
-- Senate Bill 284 - amends the Georgia Uniform Securities Act of 2008 to allow for the return of funds to investors, customers and clients in cases involving certain violations.
-- Senate Bill 285 - requires each county and municipal corporation to remit one and a half percent of all funds distributed to them from insurance premium tax collections to the Peace Officers’ Annuity and Benefit Fund.
-- Senate Bill 293 - enhances penalties and oversight related to fraud in Georgia’s used motor vehicle industry by classifying certain acts as felonies, including issuing fraudulent license plates or decals, falsifying title or lien information and tampering with odometers, while increasing the minimum fine for odometer fraud from $1,500 to $10,000.
+Senate Bill 216 - requires individuals hired as director of the Prosecuting Attorneys Qualifications Commission starting July 1, 2026, to become members of the Judicial Retirement System (JRS).
+Senate Bill 284 - amends the Georgia Uniform Securities Act of 2008 to allow for the return of funds to investors, customers and clients in cases involving certain violations.
+Senate Bill 285 - requires each county and municipal corporation to remit one and a half percent of all funds distributed to them from insurance premium tax collections to the Peace Officers’ Annuity and Benefit Fund.
+Senate Bill 293 - enhances penalties and oversight related to fraud in Georgia’s used motor vehicle industry by classifying certain acts as felonies, including issuing fraudulent license plates or decals, falsifying title or lien information and tampering with odometers, while increasing the minimum fine for odometer fraud from $1,500 to $10,000.
 The bill would also increase misdemeanor penalties for license plate provisions—such as altering, concealing or improperly displaying a plate—to include fines of up to $750 and/or up to 12 months in jail, and it would also remove existing misdemeanor language for improper display of temporary permits.
-- Senate Bill 384 - establishs an optional five-year motor vehicle registration and revalidation decal for eligible vehicles, provided all state and local ad valorem taxes are paid in advance.
-- Senate Bill 435 - replaces “Georgia Development Authority” with “Georgia Agricultural Development Authority” wherever it appears in current state law;
-- Senate Bill 439 - requires disclosure to a prospective resident or an authorized representative if a referral agency obtains a referral fee from an assisted living community or personal care home;
-- Senate Bill 444 - defines terms related to artificial intelligence (AI) and would permit private review agents to incorporate AI tools into their utilization review plans.
-The bill would clarify that AI driven decisions could not be the sole reason for denying coverage and could not replace the independent judgment of a qualified clinical reviewer;
-- Senate Bill 524 - creates two new specialty license plates: one commemorating the 250th anniversary of the United States’ independence and another honoring the Girl Scouts of Georgia, and funds would go to the Girl Scouts of Greater Atlanta and the Girl Scouts of Historic Georgia;
-- Senate Bill 551 - repeals and reserves certain provisions of current state law relating to the standards, labeling and adulteration of eggs;
-- Senate Bill 553 - creates the State Construction Industry Licensing Board under the Secretary of State’s Office for administrative purposes.
+Senate Bill 384 - establishs an optional five-year motor vehicle registration and revalidation decal for eligible vehicles, provided all state and local ad valorem taxes are paid in advance.
+Senate Bill 435 - replaces “Georgia Development Authority” with “Georgia Agricultural Development Authority” wherever it appears in current state law; Senate Bill 439 - requires disclosure to a prospective resident or an authorized representative if a referral agency obtains a referral fee from an assisted living community or personal care home; Senate Bill 444 - defines terms related to artificial intelligence (AI) and would permit private review agents to incorporate AI tools into their utilization review plans.
+The bill would clarify that AI driven decisions could not be the sole reason for denying coverage and could not replace the independent judgment of a qualified clinical reviewer; Senate Bill 524 - creates two new specialty license plates: one commemorating the 250th anniversary of the United States’ independence and another honoring the Girl Scouts of Georgia, and funds would go to the Girl Scouts of Greater Atlanta and the Girl Scouts of Historic Georgia; Senate Bill 551 - repeals and reserves certain provisions of current state law relating to the standards, labeling and adulteration of eggs; Senate Bill 553 - creates the State Construction Industry Licensing Board under the Secretary of State’s Office for administrative purposes.
 The board would consist of 27 members and would be comprised of electrical contractors, plumbers, conditioned air contractors, low voltage contractors, utility contractors and two members who have no connection with these professions.
 All members would be appointed by the governor, confirmed by the Senate and would serve on the board for four years.
 The board would have the power to request information from state agencies, provide regulation for reciprocity with other states, establish rules and regulations and assess civil penalties up to $10,000 per violation of any requirement or rule of the board.
@@ -79,7 +73,6 @@ We are in the final stages of advancing legislation that could soon become law, 
 As we count down to Sine Die on April 2, I encourage you to stay engaged and keep track of legislation that affects our community and your family.
 It is an honor to serve you in the State House and I encourage you to share your thoughts on how I can best support our district and what matters most to you and your family, as your input is invaluable.
 My top priority is to continue working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective government.
-In service,
-Rep.
-Shaw Blackmon
-House District 146
+In service, Rep.
+Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

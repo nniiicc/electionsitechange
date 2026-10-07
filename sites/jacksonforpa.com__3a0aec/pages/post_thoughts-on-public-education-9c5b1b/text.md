@@ -1,6 +1,5 @@
-Thoughts on Public Education
-Photo credit to CRA Architects
-Public education is one of the great achievements for the working class in the United States in the 20th century.
+top of page VOTE TUES NOV 3 ABOUT PRIORITIES NEWS & EVENTS GET INVOLVED DONATE More Use tab to navigate through the menu items.
+News & Events AI Legislation Economic Theory Search Thoughts on Public Education Jul 21 2 min read Photo credit to CRA Architects Public education is one of the great achievements for the working class in the United States in the 20 th century.
 Education from early childhood development to graduation from high school is crucial to the success of our democratic republic.
 Without education in the arts, sciences, and civics we can expect the rise of illiteracy, disease, and a decline in our standard of living in the United States.
 The rest of the world will pass us by forcing the importation of scientists, engineers, doctors, and artists.
@@ -20,3 +19,7 @@ Another potential consequence of accepting public funding of private education i
 My expectation is that most of these consequences would be unacceptable to private schools especially for religious private education.
 Let’s keep state funded education public and well resourced!
 Our children – everyone’s children in Pennsylvania – are worth it!
+Recent Posts See All Organized Labor: An Engine of Democracy Providing Economic Opportunity for the Franklin County Middle Class The 250th Anniversary of the Declaration of Independence Subscribe for Updates Email * Subscribe I want to subscribe to the mailing list.
+JOIN THE CONVERSATION: Donate © #.
+Paid for by Friends of Shannon Jackson.
+Website created with ♥️ by AW Designs . bottom of page

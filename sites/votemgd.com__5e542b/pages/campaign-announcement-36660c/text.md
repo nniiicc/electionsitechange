@@ -1,6 +1,4 @@
-July 4, 2025
-Fairhaven, MA
-Massachusetts – it’s time to work together.
+Skip to content Get Involved Meet Morgan Issues Resources Blog Get Involved Meet Morgan Issues Resources Blog DONATE Get Involved Meet Morgan Dawicki Issues Resources Blog Donate Get Involved Meet Morgan Dawicki Issues Resources Blog Donate DONATE Get Involved Meet Morgan Issues Resources Blog Get Involved Meet Morgan Issues Resources Blog July 4, 2025 Fairhaven, MA Massachusetts – it’s time to work together.
 My name is Morgan Dawicki and today I am proud to announce that I am running as an Independent candidate for the United States Senate.
 I stand here today not as a career politician, not as a partisan, but as a citizen—deeply grateful for where I come from, and profoundly committed to where we, together, can go.
 Fairhaven is my home.
@@ -11,7 +9,7 @@ And it’s where I learned that the values of responsibility, honesty, and hard 
 Today I stand before you humbly with a proposition – to work towards a New Washington rooted in independent thinking and promotion of our common humanity.
 We live in a state where 65% of voters are registered as Independents.
 That tells me something powerful: that the people of Massachusetts are not waiting for the next Democrat or the next Republican.
-They’re waiting for someone who remembers that democracy belongs to We the People.
+They’re waiting for someone who remembers that democracy belongs to We the People .
 They’re waiting for a leader who believes that people come before party loyalty.
 They’re waiting for someone who will fight to lift up the working class who make this country great.
 That is why I am running as an Independent and urge others across the nation to do so.
@@ -38,18 +36,14 @@ It is imperative that We the People find our voice — and use it to restore a g
 We need to break the chains of two party politics.
 And we need to do it together—not left or right, but forward as one.
 This grassroots campaign is not about me.
-It’s about all of us:
-- The single parent working two jobs and still showing up for their child’s school concert.
-- The veteran who served with honor and now wonders if the country remembers what that means.
-- The commercial fisherman struggling to keep up with a changing ocean and new government regulations.
-- The small business owner who plays by the rules and keeps getting pushed to the margins by excessive costs.
-- The student who wants a future built on hope and opportunity.
-- And the young adult who can’t afford a home or health insurance but who is in eager pursuit of the American dream.
-Franklin Delano Roosevelt said in his inauguration speech:
-“The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little.”
-That is my commitment to you, and it must be our commitment to each other.
-If you believe we need a restoration of basic civics… If you believe we need to defend the Constitution… If you believe that faith, family, and freedom still matter… If you believe that Congress needs more Independent Thinkers who will have the courage to stand by their beliefs and not fall in line with their party…
-Then I ask you, lets create a movement for a New Washington.
+It’s about all of us: The single parent working two jobs and still showing up for their child’s school concert.
+The veteran who served with honor and now wonders if the country remembers what that means.
+The commercial fisherman struggling to keep up with a changing ocean and new government regulations.
+The small business owner who plays by the rules and keeps getting pushed to the margins by excessive costs.
+The student who wants a future built on hope and opportunity.
+And the young adult who can’t afford a home or health insurance but who is in eager pursuit of the American dream.
+Franklin Delano Roosevelt said in his inauguration speech: “The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little.” That is my commitment to you, and it must be our commitment to each other.
+If you believe we need a restoration of basic civics… If you believe we need to defend the Constitution… If you believe that faith, family, and freedom still matter… If you believe that Congress needs more Independent Thinkers who will have the courage to stand by their beliefs and not fall in line with their party… Then I ask you, lets create a movement for a New Washington.
 This is a moment for renewal.
 An upgrade for democracy.
 Let history say of us that when others backed down, we stepped up boldly and courageously.
@@ -59,4 +53,4 @@ We shall not sell our souls at the expense of others.
 America’s best days are ahead.
 This is the greatest country on Earth and I know that because the people who live here are the people I love dearly.
 Thank you for your support, and may God bless the people of Massachusetts and the United States of America.
-Morgan G Dawicki
+Morgan G Dawicki Get Involved Meet Morgan Issues Resources Blog Donate Get Involved Meet Morgan Issues Resources Blog Donate © # Campaign for Morgan G Dawicki PAID FOR BY THE CAMPAIGN FOR MORGAN G DAWICKI Get Involved Meet Morgan Issues Resources Blog Donate Get Involved Meet Morgan Issues Resources Blog Donate © # Campaign for Morgan G Dawicki PAID FOR BY THE CAMPAIGN FOR MORGAN G DAWICKI Scroll to Top

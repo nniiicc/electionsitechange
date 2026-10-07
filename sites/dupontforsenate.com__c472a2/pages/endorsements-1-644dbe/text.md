@@ -1,12 +1,1 @@
-ATWATER MAYOR MIKE NELSON
-Atwater City CouncilMAN
-Brian Raymond
-Sanger Mayor Frank Gonzalez
-Sanger City CouncilMAN
-Michael Montelongo
-Kerman City CouncilMAN
-GARY YEP
-Chowchilla City CounciLMAN John Chavez
-Coalinga City CouncilMAN Jeremy Lowder
-Gustine Mayor Pat Nagy
-Dos Palos Mayor Katy Reed
+0 Skip to Content MEET DARIN COST CALCULATOR CONTACT ME THE ISSUES THE DISTRICT CONTRIBUTE Open Menu Close Menu CONTRIBUTE MEET DARIN COST CALCULATOR CONTACT ME THE ISSUES THE DISTRICT Open Menu Close Menu MEET DARIN COST CALCULATOR CONTACT ME THE ISSUES THE DISTRICT CONTRIBUTE ATWATER MAYOR MIKE NELSON Atwater City CouncilMAN Brian Raymond Sanger Mayor Frank Gonzalez Sanger City CouncilMAN Michael Montelongo Kerman City CouncilMAN GARY YEP Chowchilla City CounciLMAN John Chavez Coalinga City CouncilMAN Jeremy Lowder Gustine Mayor Pat Nagy Dos Palos Mayor Katy Reed

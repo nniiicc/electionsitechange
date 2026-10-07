@@ -1,9 +1,38 @@
 [
-"https://meymanformn.com/about-zack",
-"https://meymanformn.com/home",
-"https://meymanformn.com/how-to-donate",
-"https://meymanformn.com/the-issues",
-"https://meymanformn.com/where-do-i-vote",
-"https://meymanformn.com/why-the-loon",
-"https://secure.actblue.com/donate/zack-meyman-1"
+{
+"text": "About Zack",
+"href": "https://www.meymanformn.com/about-zack"
+},
+{
+"text": "Home",
+"href": "https://www.meymanformn.com/home"
+},
+{
+"text": "How to Donate",
+"href": "https://www.meymanformn.com/how-to-donate"
+},
+{
+"text": "Meyman for MN",
+"href": "https://www.meymanformn.com/home"
+},
+{
+"text": "The Issues",
+"href": "https://www.meymanformn.com/the-issues"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://www.meymanformn.com/where-do-i-vote"
+},
+{
+"text": "Why the Loon?",
+"href": "https://www.meymanformn.com/why-the-loon"
+},
+{
+"text": "https://secure.actblue.com/donate/zack-meyman-1",
+"href": "https://secure.actblue.com/donate/zack-meyman-1"
+},
+{
+"text": "meymanforMN@gmail.com",
+"href": "mailto:meymanforMN@gmail.com"
+}
 ]

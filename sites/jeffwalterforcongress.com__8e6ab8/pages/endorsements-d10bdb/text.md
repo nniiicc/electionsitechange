@@ -1,34 +1,4 @@
-Jeff Walter’s Endorsements
-Chicago Tribune
-Daily Herald
-Federation of Illinois Young Republicans
-ABATE of Illinois FEDPAC
-Illinois Congressional Republican Organization
-State Senator Don DeWitte
-House Republican Caucus Chair and State Representative Jeff Keicher
-State Representative Dan Ugaste
-Illinois RNC Committeeperson Dean White
-Former Kane County GOP Chairman Andro Lerario
-Kane County Sheriff Ron Hain
-Maple Park Mayor Chris Rebone
-Gilberts Mayor Guy Zambetti
-Hampshire Mayor Mike Reid
-Wayne Township Supervisor & DuKane ABATE Vice President Randy Ramey
-Elburn Trustee and DuKane ABATE President Chris Hansen
-Lily Lake Mayor Kelly Diehl
-Elburn Trustee Matt Wilson
-Huntley Mayor Tim Hoeft
-Elburn Trustee Addam Gonzales
-Kane County Board Member Rick Williams
-Elburn Trustee & Candidate for Kane County Sheriff Lou Santoyo
-Elburn Trustee John Bolger
-Kane County Regional Superintendent of Schools, John Jonak
-Virgil Mayor Jamie LeBlanc
-Virgil Township Trustee David Geisen
-Virgil Township Trustee Kevin Poust
-Kaneland School Board President and Precinct Committeeman Bob Mankivsky
-Elburn Trustee Megan Mussano
-McHenry County Board Candidate Marty Mohr
-McHenry County Board District 3 Member Eric Hendricks
-State Senator Sue Rezin
-Former 11th Congressional Candidate Jerry Evans
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Jeff Walter’s Endorsements Chicago Tribune Daily Herald Federation of Illinois Young Republicans ABATE of Illinois FEDPAC Illinois Congressional Republican Organization State Senator Don DeWitte House Republican Caucus Chair and State Representative Jeff Keicher State Representative Dan Ugaste Illinois RNC Committeeperson Dean White Former Kane County GOP Chairman Andro Lerario Kane County Sheriff Ron Hain Maple Park Mayor Chris Rebone Gilberts Mayor Guy Zambetti Hampshire Mayor Mike Reid Wayne Township Supervisor & DuKane ABATE Vice President Randy Ramey Elburn Trustee and DuKane ABATE President Chris Hansen Lily Lake Mayor Kelly Diehl Elburn Trustee Matt Wilson Huntley Mayor Tim Hoeft Elburn Trustee Addam Gonzales Kane County Board Member Rick Williams Elburn Trustee & Candidate for Kane County Sheriff Lou Santoyo Elburn Trustee John Bolger Kane County Regional Superintendent of Schools, John Jonak Virgil Mayor Jamie LeBlanc Virgil Township Trustee David Geisen Virgil Township Trustee Kevin Poust Kaneland School Board President and Precinct Committeeman Bob Mankivsky Elburn Trustee Megan Mussano McHenry County Board Candidate Marty Mohr McHenry County Board District 3 Member Eric Hendricks State Senator Sue Rezin Former 11th Congressional Candidate Jerry Evans Make a Secure Donation Here Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
+Navy.
+Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

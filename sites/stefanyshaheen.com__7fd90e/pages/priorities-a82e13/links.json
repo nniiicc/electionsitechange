@@ -1,20 +1,86 @@
 [
-"https://bsky.app/profile/stefanyshaheen.com",
-"https://facebook.com/StefanyAShaheen",
-"https://instagram.com/stefanyshaheennh",
-"https://linkedin.com/in/stefany-shaheen-91a19180",
-"https://nytimes.com/2025/09/23/climate/military-defense-pfas-forever-chemicals-cleanup-delay.html",
-"https://seacoastonline.com/story/opinion/columns/guest/2026/02/20/urgent-changes-needed-at-department-of-homeland-security-shaheen/88735876007",
-"https://secure.actblue.com/donate/blu-ssfc-website",
-"https://stefanyshaheen.com/",
-"https://stefanyshaheen.com/endorsements",
-"https://stefanyshaheen.com/meet-stefany",
-"https://stefanyshaheen.com/news",
-"https://stefanyshaheen.com/priorities",
-"https://stefanyshaheen.com/privacy-policy",
-"https://stefanyshaheen.com/upcoming-events",
-"https://stefanyshaheen.com/volunteer",
-"https://tiktok.com/@shaheeninthehouse",
-"https://x.com/Stefany4NH",
-"https://youtube.com/channel/UC8Pm1wGGBDTOByU864aR28A"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blu-ssfc-website"
+},
+{
+"text": "Endorsements",
+"href": "https://stefanyshaheen.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://stefanyshaheen.com/upcoming-events/"
+},
+{
+"text": "Meet Stefany",
+"href": "https://stefanyshaheen.com/meet-stefany/"
+},
+{
+"text": "News",
+"href": "https://stefanyshaheen.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://stefanyshaheen.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stefanyshaheen.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://stefanyshaheen.com/volunteer/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://stefanyshaheen.com/?skip=#whyimrunning"
+},
+{
+"text": "Yard Sign",
+"href": "https://stefanyshaheen.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/stefanyshaheen.com"
+},
+{
+"text": "[no text]",
+"href": "https://stefanyshaheen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StefanyAShaheen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stefanyshaheennh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/stefany-shaheen-91a19180/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@shaheeninthehouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC8Pm1wGGBDTOByU864aR28A"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Stefany4NH"
+},
+{
+"text": "delaying the clean up of these forever chemicals",
+"href": "https://www.nytimes.com/2025/09/23/climate/military-defense-pfas-forever-chemicals-cleanup-delay.html"
+},
+{
+"text": "info@stefanyshaheen.com",
+"href": "mailto:info@stefanyshaheen.com"
+},
+{
+"text": "my views on overhauling ICE in this op-ed for the Portsmouth Herald.",
+"href": "https://www.seacoastonline.com/story/opinion/columns/guest/2026/02/20/urgent-changes-needed-at-department-of-homeland-security-shaheen/88735876007/"
+}
 ]

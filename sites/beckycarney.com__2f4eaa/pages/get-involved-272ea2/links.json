@@ -1,9 +1,34 @@
 [
-"https://beckycarney.com/",
-"https://beckycarney.com/about-becky",
-"https://beckycarney.com/get-involved",
-"https://facebook.com/beckycarneyforstatehouse",
-"https://mecknc.gov/BOE/Pages/default.aspx",
-"https://secure.actblue.com/donate/beckycarney",
-"https://twitter.com/RepBeckyCarney"
+{
+"text": "ABOUT",
+"href": "https://www.beckycarney.com/about-becky"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/beckycarney"
+},
+{
+"text": "HOME",
+"href": "https://www.beckycarney.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.beckycarney.com/get-involved"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/beckycarneyforstatehouse/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/RepBeckyCarney"
+},
+{
+"text": "[no text]",
+"href": "https://www.beckycarney.com"
+},
+{
+"text": "https://www.mecknc.gov/BOE/Pages/default.aspx",
+"href": "https://www.mecknc.gov/BOE/Pages/default.aspx"
+}
 ]

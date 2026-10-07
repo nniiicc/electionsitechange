@@ -1,22 +1,102 @@
 [
-"https://amiregistered.vote.nyc/",
-"https://eli4ny.com/",
-"https://eli4ny.com/about-eli",
-"https://eli4ny.com/cart",
-"https://eli4ny.com/community-survey",
-"https://eli4ny.com/endorsements",
-"https://eli4ny.com/get-involved",
-"https://eli4ny.com/platform",
-"https://eli4ny.com/press",
-"https://eli4ny.com/signup",
-"https://eli4ny.com/vote",
-"https://facebook.com/eli4ny",
-"https://instagram.com/elinorthrup4ny?hl=en",
-"https://requestballot.vote.nyc/accessibility",
-"https://requestballot.vote.nyc/earlymail",
-"https://secure.actblue.com/donate/en-web",
-"https://vote.nyc/page/find-your-poll-site",
-"https://vote.org/",
-"https://voterlookup.elections.ny.gov/",
-"https://x.com/EliNorthrup"
+{
+"text": "0",
+"href": "https://www.eli4ny.com/cart"
+},
+{
+"text": "About Eli",
+"href": "https://www.eli4ny.com/about-eli"
+},
+{
+"text": "Back",
+"href": "https://www.eli4ny.com/"
+},
+{
+"text": "Community survey",
+"href": "https://www.eli4ny.com/community-survey"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/en-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.eli4ny.com/endorsements"
+},
+{
+"text": "Everything you need to vote",
+"href": "https://www.vote.org/"
+},
+{
+"text": "Find your early voting location here",
+"href": "https://vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "Find your poll site here",
+"href": "https://vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.eli4ny.com/get-involved"
+},
+{
+"text": "Platform",
+"href": "https://www.eli4ny.com/platform"
+},
+{
+"text": "Press",
+"href": "https://www.eli4ny.com/press"
+},
+{
+"text": "Request online here",
+"href": "https://requestballot.vote.nyc/earlymail"
+},
+{
+"text": "Sign up for our emails",
+"href": "https://www.eli4ny.com/signup"
+},
+{
+"text": "Stay in the loop",
+"href": "https://www.eli4ny.com/signup"
+},
+{
+"text": "Track your ballot status here",
+"href": "https://voterlookup.elections.ny.gov"
+},
+{
+"text": "Vote",
+"href": "https://www.eli4ny.com/vote"
+},
+{
+"text": "[image: Eli for NY]",
+"href": "https://www.eli4ny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/eli4ny"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elinorthrup4ny/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EliNorthrup"
+},
+{
+"text": "info@eli4ny.com",
+"href": "mailto:info@eli4ny.com"
+},
+{
+"text": "request an accessible ballot here",
+"href": "https://requestballot.vote.nyc/accessibility"
+},
+{
+"text": "voter registration status here",
+"href": "https://amiregistered.vote.nyc"
+},
+{
+"text": "what will be on your ballot here",
+"href": "https://www.vote.org"
+}
 ]

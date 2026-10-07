@@ -1,8 +1,8 @@
-Monthly Archives: August 2014
-Brinkman Signs Term Limits Pledge
-Recently, Tom Brinkman signed the U.S.
+Skip to primary content Skip to secondary content Go Brinkman Go Brinkman!
+Search Main menu Home About Tom Accomplishments Contact Us Contribute CountMeIn Economic and Personal Liberty Endorsements Home Issues Join Us Neighborhoods Neighborhoods Old Pro Life Legislation Request Vote by Mail Application What’s New Monthly Archives: August 2014 Brinkman Talks with Congressman Steve Chabot Posted on August 29, 2014 by admin Tom Brinkman speaks with Congressman Steve Chabot about issues affecting residents of Symmes Township and Indian Hil.
+Posted in Uncategorized Brinkman Signs Term Limits Pledge Posted on August 21, 2014 by admin Recently, Tom Brinkman signed the U.S.
 Term Limits State Pledge that states he would abide by and not work to change Ohio’s current term limit law.
-Specifically, the pledge said:
-I, Tom Brinkman, pledge to take no action that would aid or abet the abolition or lengthening of term limits to which elected officials in Ohio are subject.
+Specifically, the pledge said: I, Tom Brinkman, pledge to take no action that would aid or abet the abolition or lengthening of term limits to which elected officials in Ohio are subject.
 For more information, please click here to visit U.S.
 Term Limits.
+Posted in Issues , pledge , term limits Archives November 2022 October 2022 September 2022 August 2022 July 2022 April 2022 August 2020 July 2020 May 2020 November 2019 May 2019 November 2018 October 2018 July 2018 June 2018 May 2018 February 2018 January 2018 March 2017 January 2017 November 2016 September 2016 August 2016 April 2016 March 2016 January 2016 December 2015 October 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 August 2013 Meta Log in Proudly powered by WordPress nhentai footjob 無料 エッチ 動画 porno por categorias porno

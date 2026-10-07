@@ -1,12 +1,58 @@
 [
-"http://instagram.com/",
-"http://linkedin.com/",
-"https://facebook.com/",
-"https://secure.anedot.com/6057d7e3-8fb9-40a2-8042-6ea07a127a02/donate",
-"https://twitter.com/",
-"https://votenoelwilliams.com/",
-"https://votenoelwilliams.com/academics",
-"https://votenoelwilliams.com/admissions",
-"https://votenoelwilliams.com/whats-new",
-"https://youtube.com/"
+{
+"text": "APPLY NOW →",
+"href": "https://www.votenoelwilliams.com/admissions"
+},
+{
+"text": "DONATE! →",
+"href": "https://secure.anedot.com/6057d7e3-8fb9-40a2-8042-6ea07a127a02/donate"
+},
+{
+"text": "DONATE!→",
+"href": "https://secure.anedot.com/6057d7e3-8fb9-40a2-8042-6ea07a127a02/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votenoelwilliams.com/"
+},
+{
+"text": "STAY UPDATED! →",
+"href": "https://www.votenoelwilliams.com/#StayUpdated"
+},
+{
+"text": "STAY UPDATED!→",
+"href": "https://www.votenoelwilliams.com/academics"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.votenoelwilliams.com/whats-new#UpcomingEvents"
+},
+{
+"text": "What's new",
+"href": "https://www.votenoelwilliams.com/whats-new#Whatsnew"
+},
+{
+"text": "[image]",
+"href": "https://www.votenoelwilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+}
 ]

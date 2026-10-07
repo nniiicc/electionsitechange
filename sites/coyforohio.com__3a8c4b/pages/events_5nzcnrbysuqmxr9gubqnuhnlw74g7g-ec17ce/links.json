@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Strongsville+Canvass+Launch&dates=20261003T140000Z%2F20261003T150000Z&location=Bonnie+Park+Drive%2C+Strongsville%2C+Ohio%2C+44136%2C+United+States",
-"http://maps.google.com/?q=Bonnie+Park+Drive+Strongsville%2C+Ohio%2C+44136+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/5nzcnrbysuqmxr9gubqnuhnlw74g7g?format=ical",
-"https://coyforohio.com/events/dd3s7fbm90h29coj8fqnuoirkfqfeq",
-"https://coyforohio.com/events/healthcare-townhall-with-doctors-organized-for-healthcare-solutions-and-nurses-for-america-in-support-of-megan-coy",
-"https://coyforohio.com/support",
-"https://docs.google.com/forms/d/e/1FAIpQLSeWfpAJzLIDX2Ulyl8pIQsamdOsc6M12S55YcMXNwyTu50sPw/viewform?usp=dialog"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=bonnie+park+drive+strongsville%2C+ohio%2C+44136+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Strongsville+Canvass+Launch&dates=20261003T140000Z%2F20261003T150000Z&location=Bonnie+Park+Drive%2C+Strongsville%2C+Ohio%2C+44136%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/5nzcnrbysuqmxr9gubqnuhnlw74g7g?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next October 4 Healthcare Fundraiser with Megan Coy",
+"href": "https://www.coyforohio.com/events/healthcare-townhall-with-doctors-organized-for-healthcare-solutions-and-nurses-for-america-in-support-of-megan-coy"
+},
+{
+"text": "Previous Previous September 26 Broadview Heights Canvass with Megan Coy with Special Guests ODP Chair Kathleen Clyde and Candidate for State Treasurer Seth Walsh",
+"href": "https://www.coyforohio.com/events/dd3s7fbm90h29coj8fqnuoirkfqfeq"
+},
+{
+"text": "Sign up here!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeWfpAJzLIDX2Ulyl8pIQsamdOsc6M12S55YcMXNwyTu50sPw/viewform?usp=dialog"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+}
 ]

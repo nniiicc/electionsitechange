@@ -1,5 +1,4 @@
-VOTE FOR MADISON COOK FOR MAINE HOUSE OF REPRESENTATIVES: Belfast, Belmont, Northport
-Hi, I’m Madison Cook.
+0 Skip to Content ABOUT PLATFORM TALK of the TOWN VOLUNTEER SIGNS Open Menu Close Menu ABOUT PLATFORM TALK of the TOWN VOLUNTEER SIGNS Open Menu Close Menu ABOUT PLATFORM TALK of the TOWN VOLUNTEER SIGNS VOTE FOR MADISON COOK FOR MAINE HOUSE OF REPRESENTATIVES: Belfast, Belmont, Northport VOTE FOR MADISON COOK FOR MAINE HOUSE OF REPRESENTATIVES: Belfast, Belmont, Northport VOTE FOR MADISON COOK FOR MAINE HOUSE OF REPRESENTATIVES: Belfast, Belmont, Northport PLATFORM DONATE $5 VOLUNTEER Hi, I’m Madison Cook.
 I’m running to serve Maine State House District 39, which includes Belfast, Belmont, and Northport.
 I am deeply rooted in this community and I’m invested in our shared success.
 I grew up in Belfast with my two younger brothers.
@@ -27,3 +26,4 @@ I’ve learned firsthand that not only is it possible for young people to make s
 We cannot wait for permission.
 We cannot wait for someone else to step up.
 This is our moment to shape the decisions affecting our future.
+Authorized and paid for by the candidate Platform Donate Volunteer

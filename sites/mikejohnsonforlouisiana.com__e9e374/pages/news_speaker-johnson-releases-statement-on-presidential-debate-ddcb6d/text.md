@@ -1,10 +1,12 @@
-Speaker Johnson on the Presidential Debate:"President Trump will deliver a secure border, the best economy in history, and peace through strength"
-September 10, 2024
-WASHINGTON, D.C. — Speaker Mike Johnson released the following statement on the presidential debate between President Donald Trump and Vice President Kamala Harris:
-"Tonight, President Donald Trump exposed Vice President Kamala Harris for the dangerous radical she has always been.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson on the Presidential Debate:"President Trump will deliver a secure border, the best economy in history, and peace through strength" Sep 10 Written By Guest User September 10, 2024 WASHINGTON, D.C. — Speaker Mike Johnson released the following statement on the presidential debate between President Donald Trump and Vice President Kamala Harris: "Tonight, President Donald Trump exposed Vice President Kamala Harris for the dangerous radical she has always been.
 From overseeing an open border, record-high costs, the botched Afghanistan withdrawal, and wars around the world over the past 3 and a half years, to backing left-wing ideas including taxpayer-funded gender transition surgeries for illegal migrants, there is no question why Harris has refused to hold a press conference or answer tough questions since assuming the Democrat's nomination.
 "While Harris lied about her radical positions and spoke about things she would supposedly do as President, and despite the biased moderators shamelessly covering for Harris, there are two problems that Americans were reminded of in prime-time: she has a lifelong record as a Marxist, and she's the sitting Vice President who could secure the border and bring down costs today.
 Yet when Bernie Sanders and Kamala Harris both say Harris' values 'have not changed,' we should believe them.
 "Tonight once again proved why America desperately needs President Donald Trump back in the White House.
 He will again deliver a secure border, the best economy in history, and peace through strength.
-Together with a strengthened Republican House majority, we will make America great again."
+Together with a strengthened Republican House majority, we will make America great again." Guest User Previous Previous Speaker Johnson on the Vice Presidential Debate:'Tonight proved Harris and Walz are the most radical, left-wing ticket in history' Next Next ICYMI: Speaker Johnson in Minneapolis:“Tim Walz let Minnesota burn, Kamala Harris poured gasoline on the flames” Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

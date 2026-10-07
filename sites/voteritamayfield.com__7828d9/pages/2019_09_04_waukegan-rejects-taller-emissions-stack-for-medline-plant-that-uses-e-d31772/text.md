@@ -1,6 +1,7 @@
-Opponents of the taller stack — including state Rep.
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: September 4, 2019 September 7, 2019 Waukegan rejects taller emissions stack for Medline plant that uses ethylene oxide news by staff Opponents of the taller stack — including state Rep.
 Rita Mayfield, D-Waukegan, who asked to make a rare-but-not-unprecedented speech ahead of the vote — have argued that the stack will “purposefully skew” the results of future air testing.
-The taller stack is a “workaround” proposed by the Illinois Environmental Protection Agency, which Mayfield accused of providing “misinformation” to her and other elected officials about “the seriousness of Medline’s emissions.”
-“I don’t appreciate them telling me we don’t have an EtO (ethylene oxide) problem in Illinois when the data clearly shows that we do,” Mayfield added.
-“I don’t appreciate the Illinois EPA working against the citizens of Waukegan to help a business to pollute, not just us, but by increasing the stack height, push the poison farther out to neighboring communities.”
-Source and full article: Lake County News-Sun
+The taller stack is a “workaround” proposed by the Illinois Environmental Protection Agency, which Mayfield accused of providing “misinformation” to her and other elected officials about “the seriousness of Medline’s emissions.” “I don’t appreciate them telling me we don’t have an EtO (ethylene oxide) problem in Illinois when the data clearly shows that we do,” Mayfield added.
+“I don’t appreciate the Illinois EPA working against the citizens of Waukegan to help a business to pollute, not just us, but by increasing the stack height, push the poison farther out to neighboring communities.” Source and full article: Lake County News-Sun Post navigation State Rep.
+Rita Mayfield and CUB Hold Utility-Bill Clinic 2/29/2020 – Please Join Us!
+Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

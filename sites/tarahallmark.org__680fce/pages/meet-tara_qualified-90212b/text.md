@@ -1,6 +1,4 @@
-qualified
-EXPERIENCED AND PREPARED FOR THE WORK
-A state representative must study legislation, understand budgets, ask difficult questions, work with agencies and communities, communicate, and remain accountable to all the people.
+Search this site Embedded Files Skip to main content Skip to navigation Tara Hallmark Campaign Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact Tara Hallmark Campaign Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact More Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact qualified EXPERIENCED AND PREPARED FOR THE WORK A state representative must study legislation, understand budgets, ask difficult questions, work with agencies and communities, communicate, and remain accountable to all the people.
 My experience has prepared me for those responsibilities.
 I have worked across military, federal, state, and local systems.
 I have experience with large scale, multi state operations from planning through completion.
@@ -23,3 +21,7 @@ I will work hard and demand hard work in return.
 I will study every issues carefully.
 I will be accessible to the people.
 I will never forget the responsibility to serve and raise up all people of Miller and Pulaski Counties with accountability, stewardship and common sense today and tomorrow.
+Paid for by Friends to Elect Tara Hallmark, Treasurer Tara Hallmark .
+Contributions from this solicitation benefit Friends to Elect Tara Hallmark.
+Friends to Elect Tara Hallmark receives 96.05% of each contribution; ActBlue, Inc. receives 3.95% as a processing fee.
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

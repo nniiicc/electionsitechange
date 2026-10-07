@@ -1,9 +1,12 @@
 {
  "description": "Campaign events, community meetings, and public appearances for the Ellis/Andrews Green Party campaign for Maryland Governor 2026.",
  "final_url": "https://www.gogreen2026.com/events",
- "paid_for_by": null,
- "title": "Events | Andy Ellis for Governor of Maryland 2026 \u2014 Andy Ellis For Governor 2026",
+ "fingerprint": "4a6e5506064c06c45254ad81c0be12814b5f64b5",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Events | Andy Ellis for Governor of Maryland 2026 — Andy Ellis For Governor 2026",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

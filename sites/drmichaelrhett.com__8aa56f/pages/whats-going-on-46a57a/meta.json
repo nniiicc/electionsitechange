@@ -1,7 +1,19 @@
 {
  "description": "Stay up to date with Sen. Rhett. Browse the latest news, videos, newsletters, and updates.",
  "final_url": "https://www.drmichaelrhett.com/whats-going-on",
- "paid_for_by": null,
+ "fingerprint": "90022bbd3e1ea7178221c9a5c312f4d971dfdbba",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sen. Rhett's Updates",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

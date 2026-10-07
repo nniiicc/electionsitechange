@@ -1,10 +1,13 @@
 {
  "description": "Explore Maryland Delegate Issues focusing on education improvement, land preservation, and local economy support.",
  "final_url": "https://mohan4maryland.com/issues",
- "paid_for_by": null,
+ "fingerprint": "1ca40761987d6c9036f8877cd7def558f3399038",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Key Maryland Delegate Issues: Education, Economy, Land Preservation",
  "years_mentioned": [
   "2024",
-  "2026"
+  "2026",
+  "2030"
  ]
 }

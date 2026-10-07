@@ -1,11 +1,13 @@
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now How should we handle AI?
 Ask the hard questions.
 I’m not afraid to say, “I don’t know.” Turns out, I don’t know everything.
-I think I already confessed to that when I told ya’ll I went through a kind of modified ECON 101 this summer.
+I think I already confessed to that when I told ya’ll I went through a kind of modified ECON 101 this summer .
 What I do know is that for every action we plan to take, we ought to adopt a process.
 Something that we can rely on to evaluate new information and make decisions moving forward.
 As Chair of the SCLP’s state committee, my process has been to listen to all the sides and then to discuss with my executive committee what options are available.
 We confer, we weigh pros and cons, and we commit, together, to the best course of action.
 My job is to decide, announce, and take responsibility for the decision.
+Kasie and Chris Errol Maw stand near a banner for the campaign at Lizard’s Thicket in Forest Acres.
 In a recent small-group conversation at Lizard’s Thicket in Forest Acres, someone asked about AI.
 What do I think of it?
 I think it’s changing everything right now, in real time.
@@ -13,6 +15,7 @@ Follow-up question: what can we do to prepare?
 In another conversation, this one with Stand With Crypto SC Chapter President Jonathan Dunsmoor, we talked about the wide and deep and sometimes dark world of the internet.
 Jonathan pointed out that when the internet first came around, we didn’t do much to regulate or boundary it.
 We’re regretting that decision now.
+Kasie and Jonathan Dunsmoor discuss SC Crypto via Zoom.
 Whenever you see prompts about accepting cookies, or websites asking to confirm you’re 21 before showing you whiskey, that’s government regulation.
 There are much stricter boundaries in the European Union regarding everything from who’s allowed to view what to how the backend of the internet is amassing data.
 It’s the data collection that we ought to have gotten ahead of.
@@ -67,9 +70,9 @@ Host one.
 Finally, elect people who know things: discipline knowledge so we know when AI is wrong, how software functions, and the basic vocabulary for these new technologies; elect people willing to learn what they don’t know.
 Elect people who will take this seriously and not just take donations to do nothing.
 Here are some AI resources I’ve been reading.
-Maybe they’ll send you down a rabbithole of learning and considering the AI future we can build together:
-The GenAI Divide – An MIT study on the future of AI in business
-AI-generated “workslop” is destroying productivity – from Harvard Business Review
-Ready to get in the game?
+Maybe they’ll send you down a rabbithole of learning and considering the AI future we can build together: The GenAI Divide – An MIT study on the future of AI in business AI-generated “workslop” is destroying productivity – from Harvard Business Review Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Tagged AI , economics , internet , Politics , technology Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

@@ -1,13 +1,54 @@
 [
-"http://senate.ga.gov/senators/Documents/Maps/Senate-2023-SD50.pdf",
-"https://davecooperga.com/dave-in-action",
-"https://davecooperga.com/election-crisis",
-"https://davecooperga.com/ga-senate-district-50",
-"https://davecooperga.com/home-1",
-"https://davecooperga.com/meet-dave",
-"https://davecooperga.com/privacy-policy",
-"https://davecooperga.com/runaway-inflation",
-"https://davecooperga.com/volunteer",
-"https://mvp.sos.ga.gov/",
-"https://secure.actblue.com/donate/davecooperga"
+{
+"text": "Check Your Voter Registration",
+"href": "https://mvp.sos.ga.gov/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/davecooperga"
+},
+{
+"text": "Dave in Action",
+"href": "https://davecooperga.com/dave-in-action"
+},
+{
+"text": "Election Crisis",
+"href": "https://davecooperga.com/election-crisis"
+},
+{
+"text": "GA Senate District 50",
+"href": "https://davecooperga.com/ga-senate-district-50"
+},
+{
+"text": "Home",
+"href": "https://davecooperga.com/home-1"
+},
+{
+"text": "Meet Dave",
+"href": "https://davecooperga.com/meet-dave"
+},
+{
+"text": "Privacy Policy",
+"href": "https://davecooperga.com/privacy-policy"
+},
+{
+"text": "Runaway Inflation",
+"href": "https://davecooperga.com/runaway-inflation"
+},
+{
+"text": "Volunteer",
+"href": "https://davecooperga.com/volunteer"
+},
+{
+"text": "[image: Elect Dave Cooper GA]",
+"href": "https://davecooperga.com/home-1"
+},
+{
+"text": "[image: Map of Georgia Senate District 50 highlighted in orange showing boundaries and key locations.]",
+"href": "http://www.senate.ga.gov/senators/Documents/Maps/Senate-2023-SD50.pdf"
+},
+{
+"text": "davecooperga@gmail.com",
+"href": "mailto:davecooperga@gmail.com"
+}
 ]

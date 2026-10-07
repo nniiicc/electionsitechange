@@ -1,11 +1,3 @@
-Delivering for tHE FIRST DISTRICT
-Environment & climate change
-gun violence in america
-Health care
-immigration
-Jobs & the economy
-LGBTQ+ Rights
-opioids & Mental Health
-puerto rico
-Racial justice
-SOCIAL SECURITY & RETIREMENT
+About Issues Endorsements Volunteer Contribute About Issues Endorsements Volunteer Contribute Scroll ON THE ISSUES Delivering for tHE FIRST DISTRICT Environment & climate change gun violence in america Health care immigration Jobs & the economy LGBTQ+ Rights opioids & Mental Health puerto rico Racial justice SOCIAL SECURITY & RETIREMENT issue list - Updated (Copy) New Page Richard E.
+Neal for Congress Committee PO Box 718 | Springfield, MA 01101-0718 Privacy policy info@nealforcongress.com For press inquiries, please email Press@nealforcongress.com Paid for by Richard E Neal for Congress Committee, Treasurer Michael F.
+Hall.

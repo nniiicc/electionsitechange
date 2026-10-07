@@ -1,17 +1,74 @@
 [
-"http://facebook.com/wendyhoyforchange",
-"https://dailykos.com/stories/2026/8/9/800054695/community/krugman",
-"https://davidphelps2015.substack.com/p/power-is-on-the-ballot?r=5es7m0",
-"https://heyvictor.com/",
-"https://instagram.com/wendyhoyforchange/%20",
-"https://secure.actblue.com/donate/wendyhoy",
-"https://wendyhoyforchange.com/",
-"https://wendyhoyforchange.com/accessibility-statement",
-"https://wendyhoyforchange.com/endorsements",
-"https://wendyhoyforchange.com/events",
-"https://wendyhoyforchange.com/issues",
-"https://wendyhoyforchange.com/meet-candidate",
-"https://wendyhoyforchange.com/news",
-"https://wendyhoyforchange.com/volunteer",
-"https://wendyhoyforchange.com/voting-information"
+{
+"text": "Accessibility Statement",
+"href": "https://wendyhoyforchange.com/accessibility-statement/"
+},
+{
+"text": "Daily Kos – Meet the “Run Everywhere” Candidates: A Woman who knows what Affordability Means",
+"href": "https://www.dailykos.com/stories/2026/8/9/800054695/community/krugman/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendyhoy?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://wendyhoyforchange.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://wendyhoyforchange.com/events/"
+},
+{
+"text": "Home",
+"href": "https://wendyhoyforchange.com/"
+},
+{
+"text": "Issues",
+"href": "https://wendyhoyforchange.com/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://wendyhoyforchange.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://wendyhoyforchange.com/news/"
+},
+{
+"text": "Read article",
+"href": "https://davidphelps2015.substack.com/p/power-is-on-the-ballot?r=5es7m0"
+},
+{
+"text": "Read article",
+"href": "https://www.dailykos.com/stories/2026/8/9/800054695/community/krugman/"
+},
+{
+"text": "Substack – Power is on the ballot",
+"href": "https://davidphelps2015.substack.com/p/power-is-on-the-ballot?r=5es7m0"
+},
+{
+"text": "Volunteer",
+"href": "https://wendyhoyforchange.com/volunteer/"
+},
+{
+"text": "Voting Information",
+"href": "https://wendyhoyforchange.com/voting-information/"
+},
+{
+"text": "[image] [image]",
+"href": "https://wendyhoyforchange.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/wendyhoyforchange"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/wendyhoyforchange/%20"
+}
 ]

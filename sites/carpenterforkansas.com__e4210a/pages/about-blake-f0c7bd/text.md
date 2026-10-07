@@ -1,5 +1,4 @@
-about blake
-Reserve Status, Blake Carpenter is a member of the Kansas Air National Guard.
+(316) 772-0886 blake@carpenterforkansas.com Facebook X Instagram Facebook X Instagram Home About Blake Podcasts District 81 Issues Get Involved Donate Select Page about blake Reserve Status, Blake Carpenter is a member of the Kansas Air National Guard.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
 Blake Carpenter serves in the Kansas House of Representatives and currently serves as Speaker Pro Tempore.
 He was first appointed House Majority Whip in 2018, a position he held until January 2022.
@@ -16,3 +15,4 @@ His dual roles underscore his dedication to both state and military service.
 Blake holds a bachelor’s degree in Business Administration and Entrepreneurship from Wichita State University.
 Raised in Halstead, Kansas, Blake’s formative years as an Eagle Scout and meeting his future wife, Tyleigha, in high school helped shape his community driven values.
 Blake and Tyleigha have been blessed with a growing family and have three children.
+Terms & Conditions Privacy Policy Facebook X Instagram Paid for by Blake Carpenter for State Representative, Randy White, Treasurer, (316)772-0886 , blake@carpenterforkansas.com

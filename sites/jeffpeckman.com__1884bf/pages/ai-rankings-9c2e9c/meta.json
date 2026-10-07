@@ -1,9 +1,12 @@
 {
  "description": "Explore AI Rankings for insights on Colorado governor candidates, air pollution solutions, and policy comparisons.",
  "final_url": "https://jeffpeckman.com/ai-rankings",
- "paid_for_by": null,
+ "fingerprint": "a3a6a13f9edaa9806b057ae4c786183444a5357e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "AI Rankings",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2035"
  ]
 }

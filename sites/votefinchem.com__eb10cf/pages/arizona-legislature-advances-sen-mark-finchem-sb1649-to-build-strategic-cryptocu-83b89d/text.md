@@ -1,4 +1,5 @@
-Arizona lawmakers are advancing SB1649, legislation sponsored by Senator Mark Finchem to establish a Digital Assets Strategic Reserve Fund and modernize how the state handles seized cryptocurrencies.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Arizona Legislature Advances Sen.
+Mark Finchem SB1649 to Build Strategic Cryptocurrency Reserve April 8, 2026 Arizona lawmakers are advancing SB1649, legislation sponsored by Senator Mark Finchem to establish a Digital Assets Strategic Reserve Fund and modernize how the state handles seized cryptocurrencies.
 Under current practice, digital assets seized through criminal investigations are typically liquidated at auction.
 SB1649 shifts that approach by allowing the state to retain certain digital assets—such as XRP and other cryptocurrencies—instead of immediately selling them, enabling Arizona to benefit from potential long-term value appreciation.
 The legislation creates a formal structure for managing these holdings, treating digital assets as a strategic financial resource rather than a short-term revenue source.
@@ -6,5 +7,5 @@ By doing so, it aligns Arizona with a growing recognition that cryptocurrencies 
 SB1649 also reflects a broader policy shift toward integrating digital assets into public finance, positioning Arizona to take advantage of emerging economic opportunities while maintaining clear oversight of state-controlled assets.
 Senator Finchem introduced the bill as part of his effort to place Arizona at the forefront of financial innovation and strengthen the state’s economic independence in an evolving digital economy.
 The bill has cleared the House Rules Committee, advancing to the next stage of the legislative process.
-News coverage: https://www.digitaltoday.co.kr/en/view/44958/arizona-bill-advances-to-stockpile-seized-xrp-instead-of-auctioning-crypto
-Bill information: https://legiscan.com/AZ/bill/SB1649/2026
+News coverage: https://www.digitaltoday.co.kr/en/view/44958/arizona-bill-advances-to-stockpile-seized-xrp-instead-of-auctioning-crypto Bill information: https://legiscan.com/AZ/bill/SB1649/2026 Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

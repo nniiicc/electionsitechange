@@ -1,8 +1,10 @@
 {
  "description": "Explore David's Legislative Record",
  "final_url": "https://www.weeksvtstatesenate.com/legislativerecord",
- "paid_for_by": null,
- "title": "Legislative Record \u2014 Dave Weeks for Vermont State Senate",
+ "fingerprint": "70f69a63363b69822e46c97216c18086178bc150",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Legislative Record — Dave Weeks for Vermont State Senate",
  "years_mentioned": [
   "2022",
   "2023",

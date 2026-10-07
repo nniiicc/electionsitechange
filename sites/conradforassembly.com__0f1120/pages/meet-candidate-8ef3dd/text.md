@@ -1,7 +1,4 @@
-Why I'm Running
-Meet Bill Conrad
-Dedicated to the Tonawandas and North Buffalo
-Hello, I’m Bill!
+Donate Menu Home Meet Candidate Events Issues Endorsements Follow us Why I'm Running Meet Bill Conrad Dedicated to the Tonawandas and North Buffalo Hello, I’m Bill!
 As lifelong residents of the Town of Tonawanda, my wife and I could not think of a better place to raise our family.
 My name is Bill Conrad and I am the member of the NYS Assembly for the 140th Assembly district.
 I have been active in our community throughout my life and I had the honor of serving on the Town of Tonawanda Town Board for five years.
@@ -19,3 +16,6 @@ We have taken a landfill and partnered with a private Solar company to create a 
 A role I continue to lead on as a member of the NYS assembly Energy and Science and Technology committees.
 I believe that my core values and vision for our community, along with your support would make me a successful candidate to continue our voice in the NYS Assembly.
 I am working very hard and would appreciate your consideration of my candidacy.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Candidate Events Issues Endorsements Donate Follow us Accessibility Statement Terms of Service Privacy Policy Contact PAID FOR BY FRIENDS of BILL CONRAD P.O.
+Box 127 Buffalo, NY 14223 Bill Conrad for NYS Assembly © #

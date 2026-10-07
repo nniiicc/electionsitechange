@@ -1,5 +1,4 @@
-Antifa
-I am new to Iowa.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Antifa Jan 25 2 min read I am new to Iowa.
 By that I mean I’ve only been here 30 years.
 My parents lived through the great depression and WWII.
 My mother, the oldest of nine, often had to stay home from school to help with the little ones.
@@ -19,5 +18,7 @@ I saw it with my own eyes, and so did you.
 Our president’s behavior and decisions ended it for me right then and there.
 I didn’t become AntiFa.
 I was born and raised AntiFa.
-Bill Owen,
-Harlan
+Bill Owen, Harlan News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+Making Sense of Cancer and Your Water PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

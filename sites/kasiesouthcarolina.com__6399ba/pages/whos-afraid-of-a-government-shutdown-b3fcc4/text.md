@@ -1,14 +1,9 @@
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Who’s Afraid of a Government Shutdown?
 If you’re a political junky, your social media feeds and email inbox are full of “takes” on the government shut down.
-Here are some titles from my inbox:
-- “Six Reasons to Not Extend the Enhanced Obamacare Subsidies”
-- “Shutdown Showdown: Why Fiscal Discipline Can’t Wait”
-- “#38 – 42% of Americans Want a Bipartisan Solution to the Shutdown.
-So What Gives?”
-- “Will a government shutdown finally shrink government?”
-I’ll grant that most of my sources are libertarian-leaning.
-But some of the headlines from my non-partisan sources include:
-That’s the only one I found six days into the shutdown and no one was reporting on it except the partisan analysts I listed above.
-Apparently, things are getting more intense with hallway confrontations replacing floor debate (link).
+Here are some titles from my inbox: “Six Reasons to Not Extend the Enhanced Obamacare Subsidies” “Shutdown Showdown: Why Fiscal Discipline Can’t Wait” “#38 – 42% of Americans Want a Bipartisan Solution to the Shutdown.
+So What Gives?” “Will a government shutdown finally shrink government?” I’ll grant that most of my sources are libertarian-leaning.
+But some of the headlines from my non-partisan sources include: “Govt shutdown expected to continue another week” That’s the only one I found six days into the shutdown and no one was reporting on it except the partisan analysts I listed above.
+Apparently, things are getting more intense with hallway confrontations replacing floor debate ( link ).
 On the social media side, I have takes from Senator Rand Paul, who has taken up X as his new occupation while on furlough, mostly he’s talking about his Six Penny Plan and reducing government spending.
 And Marjorie Taylor Greene who is talking about insurance being unaffordable and wishing her party were working on that.
 And Jo Jorgensen replying to Secretary of Labor Lori Chavez-DeRemer regarding her declaration of a Golden Age of economic prosperity.
@@ -23,7 +18,7 @@ Maybe the mainstream media’s nightly news coverage is counting the days?
 Maybe every day they’re featuring a new government employee who is worried.
 I wouldn’t know.
 Like 243 million other American adults, I’m not watching nightly news.
-The rest of the shutdown story is about what we would expect it to be about: Partisan Theater.
+Image courtesy of Shutterstock The rest of the shutdown story is about what we would expect it to be about: Partisan Theater.
 Government Shutdown has become just another tactic in the drama.
 Like Sunday morning news shows, social media streams, and photo opps, the government shutdown is just another ploy to outmaneuver competitors.
 It’s ridiculous.
@@ -45,3 +40,6 @@ Like everything else, attention has become too expensive.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+One Response Pingback: No Kings Faceplant – Kasie South Carolina Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

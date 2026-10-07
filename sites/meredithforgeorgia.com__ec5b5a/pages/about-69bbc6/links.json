@@ -1,7 +1,30 @@
 [
-"https://meredithforgeorgia.com/",
-"https://meredithforgeorgia.com/about",
-"https://meredithforgeorgia.com/cart",
-"https://meredithforgeorgia.com/contact",
-"https://secure.actblue.com/donate/meredithforgeorgia"
+{
+"text": "0",
+"href": "https://www.meredithforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.meredithforgeorgia.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.meredithforgeorgia.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/meredithforgeorgia"
+},
+{
+"text": "Home",
+"href": "https://www.meredithforgeorgia.com/"
+},
+{
+"text": "Meredith For Georgia",
+"href": "https://www.meredithforgeorgia.com/"
+},
+{
+"text": "meredithforgeorgia@gmail.com",
+"href": "mailto:meredithforgeorgia@gmail.com"
+}
 ]

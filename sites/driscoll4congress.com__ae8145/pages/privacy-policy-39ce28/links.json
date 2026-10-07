@@ -1,12 +1,42 @@
 [
-"https://driscoll4congress.com/",
-"https://driscoll4congress.com/contact",
-"https://driscoll4congress.com/get-involved",
-"https://driscoll4congress.com/meet-jeanine",
-"https://driscoll4congress.com/privacy-policy",
-"https://driscoll4congress.com/request-a-lawn-sign",
-"https://facebook.com/driscoll4ny",
-"https://instagram.com/driscoll4newyork",
-"https://secure.winred.com/driscoll/donate",
-"https://x.com/driscoll4ny"
+{
+"text": "Contact",
+"href": "https://driscoll4congress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/driscoll/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/driscoll4ny"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/driscoll4newyork/"
+},
+{
+"text": "Meet Jeanine Driscoll",
+"href": "https://driscoll4congress.com/meet-jeanine/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://driscoll4congress.com/privacy-policy/"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://driscoll4congress.com/request-a-lawn-sign/"
+},
+{
+"text": "Volunteer",
+"href": "https://driscoll4congress.com/get-involved/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/driscoll4ny"
+},
+{
+"text": "[image: Driscoll for Congress rgb wh]",
+"href": "https://driscoll4congress.com"
+}
 ]

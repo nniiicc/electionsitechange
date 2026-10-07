@@ -1,9 +1,9 @@
 {
  "description": "Get the most important photos and facts about Yassamin Ansari.",
  "final_url": "https://yassaminforcongress.com/es/media/",
- "paid_for_by": null,
+ "fingerprint": "2e14fbb0a51cce5a9054eb03b697499060409979",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media - Yassamin for Congress",
- "years_mentioned": [
-  "2024"
- ]
+ "years_mentioned": []
 }

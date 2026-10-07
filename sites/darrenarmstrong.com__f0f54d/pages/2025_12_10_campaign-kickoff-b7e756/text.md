@@ -1,5 +1,4 @@
-Dear Friends and Neighbors,
-After much prayer, deliberation, and encouragement from friends across eastern North Carolina, I have decided to file to be your Representative in the North Carolina House of Representatives.
+Skip to content Meet Darren News Get Involved Contribute Volunteer Contact Photo Gallery Vote Meet Darren News Get Involved Contribute Volunteer Contact Photo Gallery Vote Facebook Instagram Youtube CONTRIBUTE Campaign Kickoff Dear Friends and Neighbors, After much prayer, deliberation, and encouragement from friends across eastern North Carolina, I have decided to file to be your Representative in the North Carolina House of Representatives.
 I am asking for your support in next year’s District 79 Republican primary.
 I believe the people of our district deserve better results in Raleigh.
 I will fight to promote and protect our farms, fishing, and small business owners, enhance our schools, safeguard our right to bear arms, and back all our first responders.
@@ -16,5 +15,8 @@ I hope you’ll join me and display a yard sign, donate, or simply share our mes
 This campaign is about us, the hardworking people of eastern North Carolina who love our area and love our country.
 I want to produce results that will improve opportunities for our grandchildren to live and work here in District 79.
 Thank you for your friendship, your prayers, and your support.
-With gratitude,
-Darren Armstrong
+With gratitude, Darren Armstrong Facebook Instagram Youtube contact@darrenarmstrong.com We strive to make this site as accessible as possible for all of our visitors.
+If you have any concerns about the accessibility of this website, please contact us or report an accessibility issue to us immediately so we can help you and also improve our website.
+Our email address is contact@darrenarmstrong.com , our phone number is 252-943-3141 and our office is at 336 Circle Grove Farm Rd, Belhaven, NC 27810 .
+In addition to online, all service and information can be acquired via phone, email, or at our office.
+Privacy Policy Accessibility Paid for by Armstrong for HD 79

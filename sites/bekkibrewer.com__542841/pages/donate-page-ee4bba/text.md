@@ -1,3 +1,3 @@
-Every donation helps me have more conversations, meet more neighbors, and stand up for the values we share.
+top of page Home About Issues Events Contact DONATE Make a difference Every donation helps me have more conversations, meet more neighbors, and stand up for the values we share.
 Together, we can make a difference here in our community.
-You can find out more about my campaign by following along on my social media accounts, and/or through my website.
+You can find out more about my campaign by following along on my social media accounts, and/or through my website. $10 $250 $25 $500 $44 $1000 $100 OTHER DONATE Facebook Instagram Home About Issues Events Contact Privacy Policy Accessibility Statement bekkibrewerforthe44th@gmail.com 6121 Ruth Ann, Hallsville, Mo 65255 (573) 289-1616 Paid for by Friends of Bekki Brewer Jan Russell, Treasurer bottom of page

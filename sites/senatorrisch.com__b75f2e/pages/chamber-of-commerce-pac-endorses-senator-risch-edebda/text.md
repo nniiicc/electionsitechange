@@ -1,5 +1,4 @@
-CHAMBER OF COMMERCE PAC ENDORSES SENATOR RISCH
-BOISE, ID – The U.S.
+About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu CHAMBER OF COMMERCE PAC ENDORSES SENATOR RISCH BOISE, ID – The U.S.
 Chamber of Commerce PAC today announced its endorsement of U.S.
 Senator Jim Risch (R-Idaho).
 The former chair of the U.S.
@@ -13,3 +12,5 @@ Chamber of Commerce, expressed appreciation for Senator Risch’s record.
 Senate and on the world stage as Chairman of the Senate Foreign Relations Committee.
 The U.S.
 Chamber is proud to endorse him as he continues fighting for economic freedom and advancing pro-growth policies that help businesses, workers, and communities across Idaho thrive,” he said in announcing the endorsement.
+Help Defend Idaho Values DONATE NOW 208-506-5500 [email protected] For all media related inquiries please contact [email protected] PAID FOR BY JIM RISCH FOR U.S.
+SENATE COMMITTEE Privacy Policy

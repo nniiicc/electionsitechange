@@ -1,6 +1,8 @@
-$24 million for the new Targeted Community Capital Grant Program, which allows communities like ours the opportunity to see state capital investments that reflect their needs and backgrounds.
-$2.5 million investment in Northgate Development to create more careers in clean energy.
+DONATE FACEBOOK TWITTER NEWS 2021 Legislative Accomplishments $24 million for the new Targeted Community Capital Grant Program, which allows communities like ours the opportunity to see state capital investments that reflect their needs and backgrounds. $2.5 million investment in Northgate Development to create more careers in clean energy.
 Strengthened protection from lead exposure by expanding where an assessing agency must conduct lead risk assessments, decreased the blood lead level threshold that triggers certain assessments, and enhanced an agency’s authority to order lead hazard reduction.
 Required the Met Council to develop and maintain a zero-emission transit vehicle transition plan that includes prioritizing the deployment of zero-emissions vehicles in areas with poor air quality.
 Increased funding for the College Possible program to help Minnesota students and succeed in college.
 Worked with the Minnesota Department of Education to use the American Rescue Plan’s Elementary and Secondary Emergency Relief Fund to fund comprehensive afterschool programs to culturally-specific community organizations that support historically underserved students, including students from low-income families; Hispanic or Latino, American Indian, Asian, and Black students, English learners, students with disabilities, migratory students, students in foster care, and neglected, delinquent, and incarcerated students.
+CONTACT: info@fuelee.org | 612-568-0870 | P.O.
+Box 11331, Minneapolis, MN 55411 Prepared and paid for by Neighbors for Fue Lee, P.O.
+Box 11331, Minneapolis, MN 55411

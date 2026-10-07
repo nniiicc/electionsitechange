@@ -1,17 +1,12 @@
-A doctor, not a politician
-Contribute to the Campaign
-We depend on small dollar donors to make this campaign possible!
-Your support makes all the difference.
-Photo by Kaytlyn Perez Photography
-Meet Alexis
-Hi!
+0 Skip to Content Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY A doctor , not a politician Contribute to the Campaign We depend on small dollar donors to make this campaign possible!
+Your support makes all the difference. $10 $50 $100 $200 Contribute to my Leadership PAC $450 Jump to… Issues | Q & A | Endorsements | Volunteer | Subscribe Photo by Kaytlyn Perez Photography Meet Alexis Hi!
 My name is Alexis Hoffkling.
 I am a family doctor, a foster mom, a proud union member, and your candidate for Colorado House District 23.
 I’m a Colorado native thrilled to have made my forever home in Wheat Ridge, CO with my partner Isele.
 I grew up the daughter of an educator and a children’s lawyer.
 Before medical school, I worked low-wage manual labor, sorting through construction site dumpsters for recyclable materials.
 My love of science and commitment to compassionate service led me to medical school, which I was able to do with the help of my partner’s veteran’s disability benefits.
-As ‘Dr Alexis,’ I am blessed to care for patients of all walks of life and am honored by the trust my patients give me.
+As ‘ Dr Alexis ,’ I am blessed to care for patients of all walks of life and am honored by the trust my patients give me.
 My role as a family doctor has shown me the many ways government programs can protect and uplift those who need it, as well as the ways government and policy can hurt the people they are supposed to help.
 I carry their stories with me: The teenager learning to love herself even though the president of the United States tells her she is an abomination.
 The single mom leaving an abusive relationship, who was able to keep her kids housed and fed with public assistance while she got her feet back under her.
@@ -21,15 +16,12 @@ I fight every day to improve my patients’ lives.
 Their stories demonstrate that to properly address the problems and opportunities that shape our lives, we must look beyond the walls of the hospital, and into the halls of power.
 So, in response to urging from patients, coworkers, neighbors, friends, and my family, I am answering their call to be an advocate for sensible policy at the state Capitol.
 I will bring my commitment to everyday people, hard work, and real-world thinking to the Colorado legislature, where I will fight for everyone’s right to a better world.
-Issues
-Healthcare is a Right
-No one should have to die because of their financial limitations.
+Issues Healthcare is a Right No one should have to die because of their financial limitations.
 No one should have to be financially ruined because they get sick.
 Every single human being deserves access to quality healthcare.
 The best role of government is to reduce barriers to realizing healthcare for all, and to ensure that business and profit motives are able to foster innovation.
 Government must also safeguard against the risks of mixing profit-seeking with the project of meeting our individual human rights as patients.
-We Deserve an Economy that Works for Everyone
-A thriving society is one in which anyone who works hard can have a safe and comfortable life.
+We Deserve an Economy that Works for Everyone A thriving society is one in which anyone who works hard can have a safe and comfortable life.
 Our economy overall is prospering, but not everyone gets to see the benefits.
 We deserve an economy that works for all of us, not one that forces some of us to live on the edge while working for the wealth accumulation of others.
 I believe in strong labor unions, living wages, and everyone’s right to job security as they navigate personal and family illness, disability, and having children.
@@ -41,8 +33,7 @@ If we follow the path that New York and California and Illinois and other blue s
 This in turn leads to homelessness, long commutes, and ultimately people who love living here being forced to move away.
 The alternative path is clear: we must remove barriers to building housing, so that supply can meet demand (and keep prices affordable), and we must contain price gouging in the meantime, and encourage owners of empty housing units to put those units back into the supply pool.
 Hardworking Coloradans should be able to afford to rent or buy homes in the communities where they live and work.
-Our Children are the Future
-Investing in our kids is essential - for each child as an individual, and for our state at large.
+Our Children are the Future Investing in our kids is essential - for each child as an individual, and for our state at large.
 Teachers are the heroes building the foundation for the future we all want.
 Public schools have borne the brunt of state budget constraints for too long.
 We need to increase, not decrease, our investments in education.
@@ -52,30 +43,16 @@ Teen pregnancy and drunk driving may be down, but social-media-fueled mental ill
 Unless policymakers step in soon, the relentless attention-hacking of AI-powered social media algorithms will hurt countless more children, in ways we will still be unpacking decades from now.
 We must set strong guardrails.
 Inaction means letting big tech CEOs shape the world our kids grow up in, and we know they care about profit, not the wellbeing of our children.
-We Must Anticipate Problems Before they are Crises
-As a primary care doctor, I deeply appreciate the importance of thinking ahead, anticipating and staving off problems before they become crises.
+We Must Anticipate Problems Before they are Crises As a primary care doctor, I deeply appreciate the importance of thinking ahead, anticipating and staving off problems before they become crises.
 Every day, we save lives and prevent suffering by identifying and treating pre-cancerous problems before they become life-threatening and by treating the risk factors for strokes and heart attacks long before they cause us pain, so that they never end up hurting us.
 This both prevents suffering, and saves money, because cancer and strokes and such are quite expensive!
 Similarly, we need leaders who not only address the problems of today but also look toward the horizon.
 What are the hazards and opportunities the coming decades might throw at us?
 Will our society be positioned to avoid the harms and seize the positive possibilities?
-These are just a few of the hazards we must be looking out for, and getting ahead of:
-- Automation and AI affecting our economy and labor markets
-- Water scarcity
-- Climate change
-- Federal normalization of corruption and political persecution
-- Demographic changes and rising healthcare costs
-… and if we care about any of these issues, then we cannot compromise on
-Defending Democracy
-With power-hungry autocrats and billionaire oligarchs consolidating more power with each passing month, we must do everything we can to protect the rule of law, the balance of power, and the interests of regular people.
-This means:
-- Creating - and enforcing - the legal framework for holding government agents accountable, beyond the reach of Trump pardons
-- Defending Colorado’s high-quality election systems
-- Limiting the ability of billionaires and mega-corporations to influence our elections and laws
-- Uplifting the organizations that stand for the needs of everyday Americans, such as Labor Unions
-- Taking back Democratic control of Congress: so please commit today to supporting at least one federal legislative race!
-Q&A with Alexis
-- Not currently!
+These are just a few of the hazards we must be looking out for, and getting ahead of: Automation and AI affecting our economy and labor markets Water scarcity Climate change Federal normalization of corruption and political persecution Demographic changes and rising healthcare costs … and if we care about any of these issues, then we cannot compromise on Defending Democracy With power-hungry autocrats and billionaire oligarchs consolidating more power with each passing month, we must do everything we can to protect the rule of law, the balance of power, and the interests of regular people.
+This means: Creating - and enforcing - the legal framework for holding government agents accountable, beyond the reach of Trump pardons Defending Colorado’s high-quality election systems Limiting the ability of billionaires and mega-corporations to influence our elections and laws Uplifting the organizations that stand for the needs of everyday Americans, such as Labor Unions Taking back Democratic control of Congress: so please commit today to supporting at least one federal legislative race!
+Q&A with Alexis Is there a doctor in the Colorado House?
+Not currently!
 In fact, there is no physician in the entire Colorado General Assembly.
 Many bills every year directly address healthcare in Colorado.
 And a great many more direct policies that have a direct or indirect influence on the health of Coloradans.
@@ -84,25 +61,49 @@ And yet there is currently no physician in the Colorado State Legislature.
 When legislation is being crafted and debated, we need someone at the table who understands the complex realities of healthcare, someone who will be a relentless voice on behalf of the health of every one of us.
 Let’s get Dr.
 Alexis in the House!
-- I attended medical school at UC San Francisco, during which I also earned a Master’s degree in Health and Medical Science at UC Berkeley.
+Where did you train to be a doctor?
+What kind of doctor are you, anyway?
+I attended medical school at UC San Francisco, during which I also earned a Master’s degree in Health and Medical Science at UC Berkeley.
 After that, I completed my family medicine specialty training at Kaiser Permanente, in Santa Rosa, California, followed by an advanced fellowship in caring for people with high-risk pregnancies and childbirth in Oak Park, Illinois.
 These days, I practice at a safety-net community health center that is part of Denver Health.
 As a family doctor, I care for everyone, both in the clinic and in the hospital.
 I provide primary care for all ages, deliver babies, and care for people with serious illnesses in the hospital.
 I also spend a lot of time teaching medical students and residents.
-- Yup!
+I heard you’re transgender, is that true?
+Yup!
 I am a trans woman.
 It’s not central to my campaign, but it’s also relevant to who I am.
 As a trans person in a queer relationship, I deeply appreciate how important activism and lawmaking are, to establish and protect our civil rights.
 Not just for LGBTQ Americans, but for all marginalized communities.
 And we can see so clearly now, how the fights for civil rights, acceptance, and belonging are not battles of the past that have been won, but ongoing struggles that must be advanced every day.
-- As a foster parent, and host-mom to an exchange student, I have been blessed with the opportunity to nurture and care for several young people in recent years.
+Why don’t you talk more about your kids?
+As a foster parent, and host-mom to an exchange student, I have been blessed with the opportunity to nurture and care for several young people in recent years.
 Due to their legal and ethical rights to privacy as minors, I have chosen not to publicly share photos or details about them.
 My spouse Isele, and dog Cubit, however, are delighted to be seen in public with me.
-- If we want our government to work for the people, not wealthy special interests, then we need representatives who are brought to office by the people, not the 1%.
-So, you can:
-- Tell me what your hopes are for House District 23 and for Colorado
-- Tell your friends and family and neighbors about why you are supporting this campaign
-- Volunteer
-- Donate
-Trusted by Colorado’s Leaders
+How can I help?
+If we want our government to work for the people, not wealthy special interests, then we need representatives who are brought to office by the people, not the 1%.
+So, you can: Tell me what your hopes are for House District 23 and for Colorado Tell your friends and family and neighbors about why you are supporting this campaign Volunteer Donate Trusted by Colorado’s Leaders State Representative Monica Duran “I’m endorsing Alexis Hoffkling not just because she’s a doctor, a foster mom, a proud union member, and a daughter of Colorado, but because she isn't running to build a career.
+She’s running to build your future.
+A future where healthcare is a right, not a privilege.
+A future where every child, no matter their background, has a safe place to sleep and strong public schools.
+A future where unions are strong, families are supported, and our voices, not big money, decide our elections.
+Alexis doesn't just talk about justice, she lives it.
+So if you're ready for a leader with lived experience, a clear vision, and a spine of steel; if you're ready for someone who knows how to heal, how to fight, and how to lead, then you are ready for Alexis Hoffkling." Former CO Senate President Pro-Tem Betty Boyd "Alexis will be a tireless advocate for expanding access, lowering costs, and ensuring every family gets the healthcare they need.
+Her leadership on this issue is exactly what our state needs." State Senator Cathy Kipp "Alexis understands the urgency of the climate crisis and the need for bold, equitable solutions.
+She is ready to lead with courage.
+I am proud to endorse her for State House District 23." State Senator Lindsey Daugherty "Alexis will be a tireless advocate for expanding access, lowering costs, and ensuring every family gets the healthcare they need.
+Her leadership on this issue is exactly what our state needs." State Representative Yara Zokaie "Dr.
+Alexis Hoffkling will stand up for true progressive values—fighting for economic justice, racial equity, climate action, and human rights.
+I’m proud to endorse a leader who doesn’t just talk about change, but delivers it." State Representative Brianna Titone "In a time when science and facts are under attack, Alexis is the leader we need.
+Her experience in science and medicine bring exactly the reality-focused perspective we need, in the fight for democracy, civil rights, and a government that works for the people, not the oligarchs." State Representative Shannon Bird "During my time on the joint budget committee, I saw how far pragmatic leadership carries a legislator.
+What sets Alexis apart is her ability to listen, build coalitions, and fight for change.
+I’m proud to support her for State House because of her pragmatic approach to leadership." State Representative Gretchen Rydin "Mental health care is essential, and Alexis will be a steadfast advocate for making it accessible, affordable, and stigma-free.
+Her leadership brings compassion and urgency to an issue too often overlooked.
+I’m proud to support her campaign." State Representative Sean Camacho "Dr.
+Hoffkling has the vision and values we need—and the grit to turn them into real policy.
+I look forward to working with her at the Capitol." State Representative Andy Boesenecker "As a leader in the Colorado State House, I know what it takes to get work done in the legislature.
+You can count on Dr.
+Hoffkling to take on tough fights and never back down.
+That’s the kind of leadership we need right now." See all endorsements Stay in touch Subscribe to our mailing list to stay up-to-date with Alexis’ campaign! * indicates required Email Address * First Name * Last Name * Zip Code * Loading… Contact Alexis Map of District 23 Register to Vote Donate Site paid for by Alexis for Colorado.
+Registered agent: Alexis Hoffkling.
+Website designed by MHW Consulting, L.L.C.

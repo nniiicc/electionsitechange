@@ -1,216 +1,33 @@
-An Update from the Alabama State House for the Week of March 2, 2026 - March 6, 2026
-LEGISLATIVE SESSION AT 2/3 POINT
-• Tuesday will mark the 20th meeting day and the two-thirds point of the 2026 regular
-legislative session, which provides an opportunity to review its progress with only 10
-meeting days remaining.
-• A total of 905 bills have been introduced with 565 originating in the Alabama House
-and 340 being introduced in the Senate.
-• As of Wednesday, 383 bills have received final passage with 94 being purely local in
-nature and 289 having statewide application.
-In addition, 229 originated in the House
-and 154 began in the Senate.
-• A total of 122 bills have been sent to Gov.
-Kay Ivey and await her signature.
-• Lawmakers have also passed 271 resolutions and joint resolutions.
-• Major pieces of legislation that have been signed into law include the Child Predator
-Death Penalty Act by State Rep.
+0 Skip to Content About Issues News Contact Updates Donate Open Menu Close Menu About Issues News Contact Updates Donate Open Menu Close Menu About Issues News Contact Updates Donate An Update from the Alabama State House for the Week of March 2, 2026 - March 6, 2026 Mar 2 Written By Sutton Richardson LEGISLATIVE SESSION AT 2/3 POINT • Tuesday will mark the 20th meeting day and the two-thirds point of the 2026 regular legislative session, which provides an opportunity to review its progress with only 10 meeting days remaining. • A total of 905 bills have been introduced with 565 originating in the Alabama House and 340 being introduced in the Senate. • As of Wednesday, 383 bills have received final passage with 94 being purely local in nature and 289 having statewide application.
+In addition, 229 originated in the House and 154 began in the Senate. • A total of 122 bills have been sent to Gov.
+Kay Ivey and await her signature. • Lawmakers have also passed 271 resolutions and joint resolutions. • Major pieces of legislation that have been signed into law include the Child Predator Death Penalty Act by State Rep.
 Matt Simpson (R - Mobile), a bill by State Rep.
-Jeana
-Ross (R - Guntersville) setting state standards for electronic screen time of public
-school students, and a measure by State Rep.
-Chis Sells (R - Greenville) requiring app
-stores to help shield minors from inappropriate content.
-OPENING DOORS FOR VETERANS TO TEACH
-• Gov.
+Jeana Ross (R - Guntersville) setting state standards for electronic screen time of public school students, and a measure by State Rep.
+Chis Sells (R - Greenville) requiring app stores to help shield minors from inappropriate content.
+OPENING DOORS FOR VETERANS TO TEACH • Gov.
 Kay Ivey signed into law on Tuesday a bill carried in the House by State Rep.
-Rick Rehm (R - Dothan) that allows the Alabama State Department of Education to
-issue temporary teaching certificates to eligible veterans who would otherwise need at
-least a bachelor’s degree.• Under the new law, which takes effect on October 1, 2026, ALSDE will issue a Military
-Veteran Temporary Teaching Certificate to applicants who:
-• Document 48 months of active-duty military service with an honorable discharge
-or medical separation
-• Pass a background check
-• Are recommended for certification by a local superintendent of education or
-private K-12 school administrator
-• Have completed 60 college credits with a minimum GPA of 2.5/4.0
-• Obtain a passing score on the Praxis test of the Alabama Educator Certification
-Assessment Program
-• The certificate would be nonrenewable and only valid for five years.
-Governor Ivey has
-the goal of making Alabama the most military and veteran friendly state in the nation.
-• Rehm noted that veterans are uniquely qualified to teach students leadership skills,
-mission-driven mindsets, devotion to duty, character building, and other important life
-qualities that are developed through military service.
-• Alabama is currently experiencing a significant public school teacher shortage with
-more than 1,500 vacancies, particularly impacting rural areas and areas like elementary
-education, which reports roughly 550 open positions.
-LIMITING SCREEN TIME FOR CHILDREN
-• Gov.
+Rick Rehm (R - Dothan) that allows the Alabama State Department of Education to issue temporary teaching certificates to eligible veterans who would otherwise need at least a bachelor’s degree.• Under the new law, which takes effect on October 1, 2026, ALSDE will issue a Military Veteran Temporary Teaching Certificate to applicants who: • Document 48 months of active-duty military service with an honorable discharge or medical separation • Pass a background check • Are recommended for certification by a local superintendent of education or private K-12 school administrator • Have completed 60 college credits with a minimum GPA of 2.5/4.0 • Obtain a passing score on the Praxis test of the Alabama Educator Certification Assessment Program • The certificate would be nonrenewable and only valid for five years.
+Governor Ivey has the goal of making Alabama the most military and veteran friendly state in the nation. • Rehm noted that veterans are uniquely qualified to teach students leadership skills, mission-driven mindsets, devotion to duty, character building, and other important life qualities that are developed through military service. • Alabama is currently experiencing a significant public school teacher shortage with more than 1,500 vacancies, particularly impacting rural areas and areas like elementary education, which reports roughly 550 open positions.
+LIMITING SCREEN TIME FOR CHILDREN • Gov.
 Kay Ivey signed into law on Wednesday a bill by State Rep.
-Jeanna Ross (R -
-Guntersville) that would limit the electronic screen time of children under the care of
-publicly-funded early learning centers.
-• Ross is the former director of the Department of Early Childhood Education in
-Alabama and has noted that studies show prolonged screen time with electronic
-devices can slow both learning and social progress in young children.
-• The measure requires the Department of Early Childhood Education to create
-guidelines and training on appropriate screen-time use and to set age-based limits on
-electronic screen time.
-• Children under 2 would be barred from screen time altogether, and specific limits
-would be set for children aged 2 to 5 with the state departments of Human
-Resources and Education each having a role in promulgating the guidelines.
-• SIGNING DAYS FOR STUDENTS ENTERING MILITARY AND TRADE
-SCHOOLS• The Alabama House approved on Tuesday a bill by State Rep.
-Chad Robertson (R -
-Heflin) that would require schools participating in national signing days for students
-athletes to also hold signing day events for students entering the military and trade
-schools.
-• Robertson, a veteran of the U.S.
-Navy, said some schools, such as Cleveland High
-School in Blount County, are already hosting events similar to the ones proposed
-in his legislation.
-• Under the provisions of HB75, schools would be required to provide “reasonable
-accommodations” for signing day, including but not limited to a space with seating and
-internet connectivity.
-• Robertson’s bill received unanimous approval in the House during the 2025 legislative
-session but failed to make it through the Senate because of a legislative logjam
-prompted by prolonged filibusters.
-• The bill now proceeds to the Senate for consideration.
-PROHIBITING DISTRIBUTION OF SEXUALIZED AI CONTENT
-• The distribution of sexualized content produced by AI may soon be banned and victims
-of such content would be provided with remedies if legislation sponsored by State Rep.
-Ben Harrison (R - Elkmont) and passed by the House on Tuesday becomes law.
-• Harrison said his legislation closes an existing loophole that provides unintended
-immunity to AI companies, and it allows victims to file lawsuits and utilize a
-removal process when sexualized AI content is disseminated.
-• Under the provisions of the legislation, the crime of distributing a private image occurs
-when an individual “knowingly posts, emails, texts, transmits, or otherwise distributes a
-private image when the depicted individual has not consented in writing to the
-transmission and the depicted individual had a reasonable expectation of privacy
-against transmission of the private image.”
-• The bill applies to “a photograph, digital image, video, film, or other recording of
-an individual… who is engaged in any act of sexually explicit conduct.”
-• Violators could be charged with a Class A misdemeanor, punishable by up to one year
-in jail and a fine of up to $6,000, for first offenses and with a Class C felony,
-punishable by up to 10 years in prison and a fine of up to $15,000 for subsequent
-infractions.
-• The bill now goes to the Senate for consideration.INCREASING PUNISHMENTS FOR RECKLESS ENDANGERMENT
-• The Senate Judiciary Committee awarded a favorable report on Tuesday to legislation
-by State Rep.
-Chris Sells (R - Greenville) that substantially increases the penalties for
-the crime of reckless endangerment.
-• Under the provisions of HB266, reckless endangerment becomes a Class C
-felony, punishable by one to 10 years in prison, if the offender’s conduct creates a
-substantial risk of serious injury to more than one person.
-• If the offender uses a deadly weapon or dangerous instrument and puts more than
-one person at risk, the crime would be a Class B felony, punishable by two to 20
-years.
-• The current penalty for reckless endangerment is a Class A misdemeanor,
-punishable by up to one year in jail and a fine of up to $6,000.
-• Reckless endangerment occurs when an individual “recklessly engages in conduct that
-creates a substantial risk of serious physical injury to another individual,” and common
-examples include discharging firearms in public, dangerous high-speed driving,
-throwing objects from heights, and leaving loaded guns accessible to children.
-• The bill now goes to the full Senate for final consideration.
-ALLOWING COUNTY SCHOOL BOARDS TO MERGE
-• Voters could be allowed to decide if county school boards should have the option to
-merge with neighboring boards following House passage on Tuesday of legislation
-sponsored by Education Policy Committee Chair Terri Collins (R - Decatur).
-• House Bill 380 would allow boards of education to decide to create a singular, multi-
-county board, but voters would first have to approve a constitutional amendment in a
-referendum election.
-• Collins said consolidating boards would allow more money to be put directly into
-classrooms and educational needs rather than administrative uses.
-• The State Board of Education would be required to study the potential impacts of
-consolidation, including potential impacts on students, teachers, classroom
-outcomes, and the quality of education that is provided.
-• The measure also outlines a process that allows the public to lodge its protests against a
-proposed consolidation.
-• The bill now goes to the Senate for consideration.POSTING THE TEN COMMANDMENTS IN CLASSROOMS
-• The House Education Policy Committee awarded a favorable report on Wednesday to
-legislation by State Rep.
-Mark Gidley (R - Hokes Bluff) that would require a copy of the Ten
-Commandments to be posted in some public school classrooms.
-• Under the provisions of Gidley’s legislation, the Ten Commandments and an
-accompanying context statement would be posted and displayed in each history
-classroom in grades 5 through 12 and also in a common area of each school.
-• Gidley said posting the Ten Commandments provides an important historical understanding of
-the document and promotes our nation’s cultural heritage.
-• The cost of the displayed materials would be provided through donations and private funding
-rather than with taxpayer dollars.
-• The bill now goes to the full House for consideration.
-REQUIRING CDL DRIVERS TO BE ENGLISH PROFICIENT
-• The Alabama House awarded final approval on Thursday to a Senate bill being carried
-by State Rep.
-Steve Clouse (R - Ozark) that requires trucker drivers with a commercial
-drivers license to be proficient in the English language.
-• Clouse told the committee that the legislation simply brings Alabama into accordance
-with already established federal requirements.
-• Major traffic accidents and fatalities have been prompted by drivers from other
-countries being unable to read road signs and other warnings written in English,
-according to Clouse.
-• Under the provisions of the bill, a driver who is not proficient in English and receives a
-traffic citation would face a $1,000 fine for the operator and $2,000 for the driver.
-Those fines are doubled on subsequent violations.
-• In addition to the language proficiency requirement, SB242 allows for the impoundment
-of vehicles being operated by violators, and it creates the Class D felony crimes of
-presenting a false foreign commercial license and operating a commercial motor vehicle
-without proper documentation.
-• The bill now goes to Gov.
+Jeanna Ross (R - Guntersville) that would limit the electronic screen time of children under the care of publicly-funded early learning centers. • Ross is the former director of the Department of Early Childhood Education in Alabama and has noted that studies show prolonged screen time with electronic devices can slow both learning and social progress in young children. • The measure requires the Department of Early Childhood Education to create guidelines and training on appropriate screen-time use and to set age-based limits on electronic screen time. • Children under 2 would be barred from screen time altogether, and specific limits would be set for children aged 2 to 5 with the state departments of Human Resources and Education each having a role in promulgating the guidelines. • SIGNING DAYS FOR STUDENTS ENTERING MILITARY AND TRADE SCHOOLS • The Alabama House approved on Tuesday a bill by State Rep.
+Chad Robertson (R - Heflin) that would require schools participating in national signing days for students athletes to also hold signing day events for students entering the military and trade schools. • Robertson, a veteran of the U.S.
+Navy, said some schools, such as Cleveland High School in Blount County, are already hosting events similar to the ones proposed in his legislation. • Under the provisions of HB75, schools would be required to provide “reasonable accommodations” for signing day, including but not limited to a space with seating and internet connectivity. • Robertson’s bill received unanimous approval in the House during the 2025 legislative session but failed to make it through the Senate because of a legislative logjam prompted by prolonged filibusters. • The bill now proceeds to the Senate for consideration.
+PROHIBITING DISTRIBUTION OF SEXUALIZED AI CONTENT • The distribution of sexualized content produced by AI may soon be banned and victims of such content would be provided with remedies if legislation sponsored by State Rep.
+Ben Harrison (R - Elkmont) and passed by the House on Tuesday becomes law. • Harrison said his legislation closes an existing loophole that provides unintended immunity to AI companies, and it allows victims to file lawsuits and utilize a removal process when sexualized AI content is disseminated. • Under the provisions of the legislation, the crime of distributing a private image occurs when an individual “knowingly posts, emails, texts, transmits, or otherwise distributes a private image when the depicted individual has not consented in writing to the transmission and the depicted individual had a reasonable expectation of privacy against transmission of the private image.” • The bill applies to “a photograph, digital image, video, film, or other recording of an individual… who is engaged in any act of sexually explicit conduct.” • Violators could be charged with a Class A misdemeanor, punishable by up to one year in jail and a fine of up to $6,000, for first offenses and with a Class C felony, punishable by up to 10 years in prison and a fine of up to $15,000 for subsequent infractions. • The bill now goes to the Senate for consideration.
+INCREASING PUNISHMENTS FOR RECKLESS ENDANGERMENT • The Senate Judiciary Committee awarded a favorable report on Tuesday to legislation by State Rep.
+Chris Sells (R - Greenville) that substantially increases the penalties for the crime of reckless endangerment. • Under the provisions of HB266, reckless endangerment becomes a Class C felony, punishable by one to 10 years in prison, if the offender’s conduct creates a substantial risk of serious injury to more than one person. • If the offender uses a deadly weapon or dangerous instrument and puts more than one person at risk, the crime would be a Class B felony, punishable by two to 20 years. • The current penalty for reckless endangerment is a Class A misdemeanor, punishable by up to one year in jail and a fine of up to $6,000. • Reckless endangerment occurs when an individual “recklessly engages in conduct that creates a substantial risk of serious physical injury to another individual,” and common examples include discharging firearms in public, dangerous high-speed driving, throwing objects from heights, and leaving loaded guns accessible to children. • The bill now goes to the full Senate for final consideration.
+ALLOWING COUNTY SCHOOL BOARDS TO MERGE • Voters could be allowed to decide if county school boards should have the option to merge with neighboring boards following House passage on Tuesday of legislation sponsored by Education Policy Committee Chair Terri Collins (R - Decatur). • House Bill 380 would allow boards of education to decide to create a singular, multi- county board, but voters would first have to approve a constitutional amendment in a referendum election. • Collins said consolidating boards would allow more money to be put directly into classrooms and educational needs rather than administrative uses. • The State Board of Education would be required to study the potential impacts of consolidation, including potential impacts on students, teachers, classroom outcomes, and the quality of education that is provided. • The measure also outlines a process that allows the public to lodge its protests against a proposed consolidation. • The bill now goes to the Senate for consideration.
+POSTING THE TEN COMMANDMENTS IN CLASSROOMS • The House Education Policy Committee awarded a favorable report on Wednesday to legislation by State Rep.
+Mark Gidley (R - Hokes Bluff) that would require a copy of the Ten Commandments to be posted in some public school classrooms. • Under the provisions of Gidley’s legislation, the Ten Commandments and an accompanying context statement would be posted and displayed in each history classroom in grades 5 through 12 and also in a common area of each school. • Gidley said posting the Ten Commandments provides an important historical understanding of the document and promotes our nation’s cultural heritage. • The cost of the displayed materials would be provided through donations and private funding rather than with taxpayer dollars. • The bill now goes to the full House for consideration.
+REQUIRING CDL DRIVERS TO BE ENGLISH PROFICIENT • The Alabama House awarded final approval on Thursday to a Senate bill being carried by State Rep.
+Steve Clouse (R - Ozark) that requires trucker drivers with a commercial drivers license to be proficient in the English language. • Clouse told the committee that the legislation simply brings Alabama into accordance with already established federal requirements. • Major traffic accidents and fatalities have been prompted by drivers from other countries being unable to read road signs and other warnings written in English, according to Clouse. • Under the provisions of the bill, a driver who is not proficient in English and receives a traffic citation would face a $1,000 fine for the operator and $2,000 for the driver.
+Those fines are doubled on subsequent violations. • In addition to the language proficiency requirement, SB242 allows for the impoundment of vehicles being operated by violators, and it creates the Class D felony crimes of presenting a false foreign commercial license and operating a commercial motor vehicle without proper documentation. • The bill now goes to Gov.
 Kay Ivey for review and signature.
-TAX CREDITS FOR HISTORIC PRESERVATION
-• The Alabama House approved on Thursday a bill supported by House Speaker Pro Tem
-Chris Pringle (R - Mobile) that extends the state’s existing tax credit for restoring
-historic properties.• Originally passed in 2013 and extended in 2021, the tax credit is set to expire in 2027
-unless lawmakers take action and pass legislation to stop it from sunsetting.
-• House Bill 452 extends the tax credit to 2032, increases the annual limit on allowable
-credits, and provides additional credits to incentivize historic property rehabilitation in
-rural portions of Alabama.
-• The tax credit applies to Alabama properties that are at least 75 years old and are
-certified by the Alabama Historical Commission as being listed on the National
-Register of Historic Places, being eligible for listing on the National Register of
-Historic Places, or contributing to the historic significance of a Registered
-Historic District.
-• The current law allows taxpayers to claim an Alabama income tax credit of up to
-25 percent of actual expenditures directly related to the rehabilitation of a
-certified historic structure, but it may not be owner-occupied or used exclusively
-as a primary or secondary residence.
-Certain expenses, such as the cost of
-acquiring the historic structure, the personal labor of the owner, and others, are
-excluded from the tax credits.
-• Pringle’s legislation retains the current 25 percent tax credit for historic properties
-in urban areas, but increases the tax credit to 30 percent of allowable expenses for
-rehabilitating historic properties located in rural areas, which are defined as
-counties with populations of less than 175,000.
-• The bill also raises the annual statewide cap on historic rehabilitation tax credits
-to $25 million.
-• The measure now goes to the Senate for consideration.
-TRAIN ACT TAX CREDITS FOR CTE EDUCATION
-• The Alabama House approved on Thursday legislation by House Majority Whip James
-Lomax (R - Huntsville) that provides tax credits to business in exchange for allowing
-qualified employees to teach skills training CTE courses.
-• The Talent Readiness and Industry Needs Act, known as the TRAIN Act, also
-creates a Workforce Teaching Certificate, which allows skill to provide classroom
-instruction after completing training and undergoing background checks
-• Accompanying legislation by State Rep.
-Marcus Paramore (R - Troy) that was
-also approved on Thursday clears the path for qualified CTE instructors who are
-from other states and relocating to Alabama to more easily obtaining necessary
-teaching certificates.• Building and maintaining a skilled and qualified workforce are essential to industrial
-recruitment and economic development efforts, and CTE programs help ensure that
-Alabama graduates are prepared to fill high-paying, long-lasting, 21st Century jobs.
-• Both bills go to the Senate for consideration.
-INCREASING PENALTIES FOR SHOOTING INTO SCHOOL BUSES OR
-BUILDINGS
-• Legislation sponsored by State Rep.
-Mack Butler (R - Rainbow City) and passed by the
-House on Thursday would increase the penalty for firing a weapon into an occupied
-school bus or school buildings.
-• Currently law designates the crime as a Class B felony punishable by two to 20
-years in prison and a fine of up to $30,000.
-• Butler’s bill raises the punishment to a Class A felony, which is eligible for a
-prison term ranging from 10 years to life in prison and fines of up to $60,000.
-• Butler said it was discovered that a quirk of law made shooting into an occupied school
-bus carry a lesser sentence than shooting into another occupied vehicle, and this
-legislation corrects that imbalance.
-• The bill now goes to the State Senate for consideration.
+TAX CREDITS FOR HISTORIC PRESERVATION • The Alabama House approved on Thursday a bill supported by House Speaker Pro Tem Chris Pringle (R - Mobile) that extends the state’s existing tax credit for restoring historic properties.• Originally passed in 2013 and extended in 2021, the tax credit is set to expire in 2027 unless lawmakers take action and pass legislation to stop it from sunsetting. • House Bill 452 extends the tax credit to 2032, increases the annual limit on allowable credits, and provides additional credits to incentivize historic property rehabilitation in rural portions of Alabama. • The tax credit applies to Alabama properties that are at least 75 years old and are certified by the Alabama Historical Commission as being listed on the National Register of Historic Places, being eligible for listing on the National Register of Historic Places, or contributing to the historic significance of a Registered Historic District. • The current law allows taxpayers to claim an Alabama income tax credit of up to 25 percent of actual expenditures directly related to the rehabilitation of a certified historic structure, but it may not be owner-occupied or used exclusively as a primary or secondary residence.
+Certain expenses, such as the cost of acquiring the historic structure, the personal labor of the owner, and others, are excluded from the tax credits. • Pringle’s legislation retains the current 25 percent tax credit for historic properties in urban areas, but increases the tax credit to 30 percent of allowable expenses for rehabilitating historic properties located in rural areas, which are defined as counties with populations of less than 175,000. • The bill also raises the annual statewide cap on historic rehabilitation tax credits to $25 million. • The measure now goes to the Senate for consideration.
+TRAIN ACT TAX CREDITS FOR CTE EDUCATION • The Alabama House approved on Thursday legislation by House Majority Whip James Lomax (R - Huntsville) that provides tax credits to business in exchange for allowing qualified employees to teach skills training CTE courses. • The Talent Readiness and Industry Needs Act, known as the TRAIN Act, also creates a Workforce Teaching Certificate, which allows skill to provide classroom instruction after completing training and undergoing background checks • Accompanying legislation by State Rep.
+Marcus Paramore (R - Troy) that was also approved on Thursday clears the path for qualified CTE instructors who are from other states and relocating to Alabama to more easily obtaining necessary teaching certificates.• Building and maintaining a skilled and qualified workforce are essential to industrial recruitment and economic development efforts, and CTE programs help ensure that Alabama graduates are prepared to fill high-paying, long-lasting, 21st Century jobs. • Both bills go to the Senate for consideration.
+INCREASING PENALTIES FOR SHOOTING INTO SCHOOL BUSES OR BUILDINGS • Legislation sponsored by State Rep.
+Mack Butler (R - Rainbow City) and passed by the House on Thursday would increase the penalty for firing a weapon into an occupied school bus or school buildings. • Currently law designates the crime as a Class B felony punishable by two to 20 years in prison and a fine of up to $30,000. • Butler’s bill raises the punishment to a Class A felony, which is eligible for a prison term ranging from 10 years to life in prison and fines of up to $60,000. • Butler said it was discovered that a quirk of law made shooting into an occupied school bus carry a lesser sentence than shooting into another occupied vehicle, and this legislation corrects that imbalance. • The bill now goes to the State Senate for consideration.
+Sutton Richardson Previous Previous An Update from the Alabama State House for the Week of March 9, 2026 - March 13, 2026 Next Next An Update from the Alabama State House for the Week of February 23, 2026 - February 27, 2026 205-612-2433 susandubose2@gmail.com Privacy Policy Terms & Conditions Paid for by the Committee to Elect Susan DuBose 5378 Greystone Way Hoover, AL 35242

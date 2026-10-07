@@ -1,14 +1,54 @@
 [
-"https://facebook.com/rayforwi",
-"https://instagram.com/rayforwi",
-"https://rayforwi.com/",
-"https://rayforwi.com/about",
-"https://rayforwi.com/about-3-1",
-"https://rayforwi.com/cart",
-"https://rayforwi.com/contact-us",
-"https://rayforwi.com/issues",
-"https://rayforwi.com/media-1",
-"https://rayforwi.com/new-page",
-"https://rayforwi.com/platform",
-"https://secure.actblue.com/donate/charly-ray-1"
+{
+"text": "0",
+"href": "https://www.rayforwi.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.rayforwi.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.rayforwi.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/charly-ray-1"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.rayforwi.com/platform"
+},
+{
+"text": "Home",
+"href": "https://www.rayforwi.com/"
+},
+{
+"text": "Media",
+"href": "https://www.rayforwi.com/media-1"
+},
+{
+"text": "The Issues",
+"href": "https://www.rayforwi.com/issues"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.rayforwi.com/about-3-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rayforwi.com/contact-us"
+},
+{
+"text": "[image: Ray for Wisconsin]",
+"href": "https://www.rayforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rayforwi"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rayforwi/"
+}
 ]

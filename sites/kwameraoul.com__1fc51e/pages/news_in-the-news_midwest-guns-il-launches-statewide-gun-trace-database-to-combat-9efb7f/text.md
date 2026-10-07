@@ -1,12 +1,9 @@
-Sun-Time Media Wire | June 30, 2022
-Illinois State Police also attended press conference in which officials explained database can flag suspicious gun store purchases
-CHICAGO — Illinois law enforcement agencies will pool information on guns used in crimes across the state, building a database that will allow police to better track the trafficking of illegal guns, state Attorney General Kwame Raoul announced Wednesday at a news conference in Chicago.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us In the News | 06/30/22 Midwest guns: IL launches statewide gun trace database to combat firearm trafficking Share Sun-Time Media Wire | June 30, 2022 Illinois State Police also attended press conference in which officials explained database can flag suspicious gun store purchases CHICAGO — Illinois law enforcement agencies will pool information on guns used in crimes across the state, building a database that will allow police to better track the trafficking of illegal guns, state Attorney General Kwame Raoul announced Wednesday at a news conference in Chicago.
 Police departments can opt in the newly launched Crime Gun Connect platform developed by the attorney general’s office with help from Everytown for Gun Safety, a gun safety advocacy organization.
 So far, more than 200 law enforcement agencies in the state have agreed to upload information about weapons and ballistics evidence from crimes, including information from state police and gun trace data from the federal Bureau of Alcohol Tobacco & Firearms’ eTrace system.
 “These guns are coming from somewhere.
 There are people trafficking them,” Raoul said.
-“This shows that we are not only after the person who pulls the trigger, but the person who gets (them) the gun.”
-By federal law, records in the eTrace system can’t be rendered in digital form – staff at the federal agency must contact manufacturers and retailers and search through paper records to perform a trace for a police department.
+“This shows that we are not only after the person who pulls the trigger, but the person who gets (them) the gun.” By federal law, records in the eTrace system can’t be rendered in digital form – staff at the federal agency must contact manufacturers and retailers and search through paper records to perform a trace for a police department.
 Illinois’ new system is one of the first to compile the information statewide, said Nick Suplina, senior vice-president for law and policy at Everytown.
 “I’d say this is the best state-wide gun-analytics platform I’ve seen in the country,” Suplina said.Running traces – tracking the chain of ownership – only recently became commonplace among police departments, particularly smaller departments that were less concerned about gun trafficking.
 “If you’re only concerned with the one crime in front of you as a police agency, and you don’t have information about how these guns are flowing into your community, you’re only getting a very narrow picture,” Suplina said.
@@ -16,4 +13,5 @@ Crime researcher Kimberly Johnson of the University of Chicago Crime Lab said th
 The Illinois departments that have pledged to share information with the database include the Chicago Police Department, which added information on some 87,000 guns of the 100,000 in the system to date.
 The database also will make some of its information public, including information about what states are the largest sources of illegal weapons.
 Fewer than 39% of guns seized in connection with crimes in Illinois were purchased in the state, with the largest share of weapons coming from Indiana, according to the database.
-(Source: Sun-Times Media Wire – Copyright Chicago Sun-Times 2022.)
+Read on ABC7 News (Source: Sun-Times Media Wire – Copyright Chicago Sun-Times #.) Share Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

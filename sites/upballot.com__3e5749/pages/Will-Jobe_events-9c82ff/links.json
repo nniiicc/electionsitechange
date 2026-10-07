@@ -1,17 +1,82 @@
 [
-"https://facebook.com/jobe4independence",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/jobe4independence",
-"https://upballot.com/",
-"https://upballot.com/Will-Jobe",
-"https://upballot.com/Will-Jobe/about",
-"https://upballot.com/Will-Jobe/events",
-"https://upballot.com/Will-Jobe/events?view=cards",
-"https://upballot.com/Will-Jobe/get-involved",
-"https://upballot.com/Will-Jobe/issues",
-"https://upballot.com/Will-Jobe/news",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=71749",
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=71749",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Will",
+"href": "https://www.upballot.com/Will-Jobe/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jobe4independence"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Will-Jobe/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Will-Jobe/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Will-Jobe"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Will-Jobe/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/Will-Jobe/news/"
+},
+{
+"text": "[image: Will Jobe Logo]",
+"href": "https://www.upballot.com/Will-Jobe/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jobe4independence/"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=71749"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=71749"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/jobe4independence/"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/Will-Jobe/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/Will-Jobe/events?view=cards"
+},
+{
+"text": "info@jobeforindependence.com",
+"href": "mailto:info@jobeforindependence.com"
+},
+{
+"text": "tel:(816) 237-8709",
+"href": "tel:(816)%20237-8709"
+}
 ]

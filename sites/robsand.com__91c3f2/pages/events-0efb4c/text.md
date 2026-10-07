@@ -1,19 +1,2 @@
-YouTube
-Rob Sand for Iowa
-Events
-Upcoming Events
-Loading upcoming events…
-Past Events
-- YouTube September 29th, 2026 - Scott County - Town Hall Tour
-- YouTube September 28th, 2026 - Blackhawk County - Town Hall Tour
-- YouTube September 23rd, 2026 - Linn County - Town Hall Tour
-- YouTube September 21st, 2026 - Story County - Town Hall Tour
-- YouTube September 16th, 2026 - Dallas County - Town Hall Tour
-- YouTube September 14th, 2026 - Iowa City - Town Hall Tour
-- YouTube August 24th, 2026 - Dubuque County - Town Hall Tour
-- C-SPAN Iowa Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall
-- C-SPAN Governor Candidate Rob Sand (D-IA) Holds Town Hall in Franklin County, Iowa
-- C-SPAN Governor Candidate Rob Sand (D-IA) Holds Town Hall in Guthrie County, Iowa
-- C-SPAN Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall in Adair County, Iowa
-- C-SPAN Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall in Marengo, Iowa
-- C-SPAN Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall in Pella, Iowa
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Rob Sand for Iowa Events Upcoming Past Upcoming Events Loading upcoming events… Past Events YouTube September 30th, 2026 - Polk County - Town Hall Tour YouTube September 29th, 2026 - Scott County - Town Hall Tour YouTube September 28th, 2026 - Blackhawk County - Town Hall Tour YouTube September 23rd, 2026 - Linn County - Town Hall Tour YouTube September 21st, 2026 - Story County - Town Hall Tour YouTube September 16th, 2026 - Dallas County - Town Hall Tour YouTube September 14th, 2026 - Iowa City - Town Hall Tour YouTube August 24th, 2026 - Dubuque County - Town Hall Tour C-SPAN Iowa Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall C-SPAN Governor Candidate Rob Sand (D-IA) Holds Town Hall in Franklin County, Iowa C-SPAN Governor Candidate Rob Sand (D-IA) Holds Town Hall in Guthrie County, Iowa C-SPAN Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall in Adair County, Iowa C-SPAN Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall in Marengo, Iowa C-SPAN Gubernatorial Candidate Rob Sand (D-IA) Holds Town Hall in Pella, Iowa Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

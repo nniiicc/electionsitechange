@@ -1,29 +1,114 @@
 [
-"http://midatlanticpipetrades.org/",
-"https://aflcio.org/",
-"https://afscmemd.org/",
-"https://bsky.app/profile/jessicafeldmark.com",
-"https://casainaction.org/",
-"https://ccanactionfund.org/",
-"https://columbiademclub.org/",
-"https://economicactionmaryland.org/",
-"https://facebook.com/JessicaFeldmarkforHowardCounty",
-"https://freestateequality.org/",
-"https://instagram.com/jessicafeldmark",
-"https://jessicafeldmark.com/",
-"https://jessicafeldmark.com/donate",
-"https://jessicafeldmark.com/endorsements",
-"https://jessicafeldmark.com/get-involved",
-"https://jessicafeldmark.com/meet-jessica",
-"https://jessicafeldmark.com/privacy",
-"https://jessicafeldmark.com/why-jessica",
-"https://marylandeducators.org/",
-"https://marylandfb.org/",
-"https://marylandnow.org/",
-"https://mcgeo.org/",
-"https://mdlcv.org/",
-"https://progressivemaryland.org/",
-"https://reproductivejusticemaryland.org/rjmaction",
-"https://sierraclub.org/",
-"https://wesmoore.com/"
+{
+"text": "Donate",
+"href": "https://jessicafeldmark.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://jessicafeldmark.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://jessicafeldmark.com/get-involved"
+},
+{
+"text": "Meet Jessica",
+"href": "https://jessicafeldmark.com/meet-jessica/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jessicafeldmark.com/privacy"
+},
+{
+"text": "Why Jessica",
+"href": "https://jessicafeldmark.com/why-jessica/"
+},
+{
+"text": "[image: AFL-CIO] AFL-CIO",
+"href": "https://aflcio.org/"
+},
+{
+"text": "[image: AFSCME Maryland Council 3] AFSCME Maryland Council 3",
+"href": "https://afscmemd.org/"
+},
+{
+"text": "[image: CASA in Action] CASA in Action",
+"href": "https://casainaction.org/"
+},
+{
+"text": "[image: CCAN Action Fund] CCAN Action Fund",
+"href": "https://ccanactionfund.org/"
+},
+{
+"text": "[image: Columbia Democratic Club] Columbia Democratic Club",
+"href": "https://columbiademclub.org/"
+},
+{
+"text": "[image: Economic Action Maryland] Economic Action Maryland",
+"href": "https://economicactionmaryland.org/"
+},
+{
+"text": "[image: FreeState Equality] FreeState Equality",
+"href": "https://www.freestateequality.org/"
+},
+{
+"text": "[image: Governor Wes Moore] Governor Wes Moore",
+"href": "https://wesmoore.com/"
+},
+{
+"text": "[image: Maryland Farm Bureau] Maryland Farm Bureau",
+"href": "https://marylandfb.org/"
+},
+{
+"text": "[image: Maryland League of Conservation Voters] Maryland League of Conservation Voters",
+"href": "https://www.mdlcv.org/"
+},
+{
+"text": "[image: Maryland NOW] Maryland NOW",
+"href": "https://marylandnow.org/"
+},
+{
+"text": "[image: Maryland State Education Association] Maryland State Education Association",
+"href": "https://marylandeducators.org/"
+},
+{
+"text": "[image: Mid-Atlantic Pipe Trades Association] Mid-Atlantic Pipe Trades Association",
+"href": "http://www.midatlanticpipetrades.org/"
+},
+{
+"text": "[image: Progressive Maryland] Progressive Maryland",
+"href": "https://www.progressivemaryland.org/"
+},
+{
+"text": "[image: Reproductive Justice Maryland Action] Reproductive Justice Maryland Action",
+"href": "https://www.reproductivejusticemaryland.org/rjmaction"
+},
+{
+"text": "[image: Sierra Club] Sierra Club",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: UFCW Local 1994 MCGEO] UFCW Local 1994 MCGEO",
+"href": "https://www.mcgeo.org/"
+},
+{
+"text": "[image]",
+"href": "https://jessicafeldmark.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jessicafeldmark.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JessicaFeldmarkforHowardCounty/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jessicafeldmark/"
+},
+{
+"text": "info@jessicafeldmark.com",
+"href": "mailto:info@jessicafeldmark.com"
+}
 ]

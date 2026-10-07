@@ -1,15 +1,9 @@
-A Defender of Voting Rights
-Restoring Trust and Transparency: Fixing delayed financial filings in the SOS office, enforcing rules equally, and early bipartisan support for being fair and principled.
-Encourage Californians to Vote: Running and aggressive outreach campaign to every corner of the state to urge Californians to get involved in the electoral process — from registering high school and college students to vote to helping members of the public get involved in our elections.
-Voting Rights Are Under Attack –
-Dr.
-Weber Is Our Defender
-In her first year as Secretary of State, Dr.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page A Defender of Voting Rights Restoring Trust and Transparency : Fixing delayed financial filings in the SOS office, enforcing rules equally, and early bipartisan support for being fair and principled.
+Encourage Californians to Vote : Running and aggressive outreach campaign to every corner of the state to urge Californians to get involved in the electoral process — from registering high school and college students to vote to helping members of the public get involved in our elections.
+Voting Rights Are Under Attack – Dr.
+Weber Is Our Defender In her first year as Secretary of State, Dr.
 Weber has already overseen a safe, secure, and seamless statewide election, and solidified California’s reputation as a national leader on strengthening the right to vote for every community.
 She’s also worked with the Governor and state legislature to make California a permanent, universal vote-by-mail state.
 As Secretary of State, Dr.
-Weber is committed to:
-- Working hand-in-hand with our local elections officials to strengthen, protect, and expand access to the ballot
-- Improving transparency in our elections, lobbyist registration, and campaign finance systems so that every Californian can make an informed decision about what issues, causes or candidates to support
-- Monitoring and upgrading the Secretary of State’s cybersecurity policies to ensure our elections are protected from attempts to undermine our democratic processes
-- Revamping our voter education outreach programs for the formerly incarcerated, especially in light of the passage of Proposition 17, which ensured Californians on parole have the right to vote, so we can ensure all Californians have a voice in upcoming elections
+Weber is committed to: Working hand-in-hand with our local elections officials to strengthen, protect, and expand access to the ballot Improving transparency in our elections, lobbyist registration, and campaign finance systems so that every Californian can make an informed decision about what issues, causes or candidates to support Monitoring and upgrading the Secretary of State’s cybersecurity policies to ensure our elections are protected from attempts to undermine our democratic processes Revamping our voter education outreach programs for the formerly incarcerated, especially in light of the passage of Proposition 17, which ensured Californians on parole have the right to vote, so we can ensure all Californians have a voice in upcoming elections Paid for by Shirley Weber for Secretary of State 2026.
+FPPC # 1456658 Facebook X

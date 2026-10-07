@@ -1,6 +1,7 @@
-Signed in as:
-filler@godaddy.com
-I am not a career politician.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Platform About Damon Endorsements Contact Us Tell me about You!
+Register to Vote Video Donate Press Releases More Home Platform About Damon Endorsements Contact Us Tell me about You!
+Register to Vote Video Donate Press Releases Signed in as: filler@godaddy.com Home Platform About Damon Endorsements Contact Us Tell me about You!
+Register to Vote Video Donate Press Releases Account My Account Sign out Sign In My Account Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Stand with Damon Galdo I am not a career politician.
 I am a working husband, father, and tradesman who believes that South Jersey deserves better than what we have been given.
 Throughout my life, I have worked in construction and the trades, building real projects and earning a living just like most families in this district.
 I understand the importance of hard work and taking responsibility.
@@ -26,5 +27,6 @@ I am not running to climb a political ladder.
 I am running to challenge a system that has lost touch with the people it represents.
 South Jersey deserves leadership that works as hard as its people do.
 That is why I am running for Congress.
-Community Moments
-With a track record of construction and dedication, I'm ready to serve our community.
+Community Moments Galdo Builds for You With a track record of construction and dedication, I'm ready to serve our community.
+Paid for by Damon Galdo for Congress Stay Connected: damongaldoforcongress@gmail.com Home Platform Contact Us Tell me about You!
+Privacy Policy Register to Vote Donate

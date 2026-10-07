@@ -1,67 +1,8 @@
-Marianna Anaya
-Representative
-Johana Bencomo
-Las Cruces City Councilor
-John Allen
-Bernalillo County Sheriff
-Orlando Antonio Carrillo Jiménez
-Former Member, Colonias Infrastructure Board
-Susana Chaparro
-Doña Ana County Commissioner
-Yolanda Cordova
-Former APS School Board Chair
-Becky Corran
-Las Cruces City Councilor
-Diane Denish
-Former Lieutenant Governor
-Marg Elliston
-Former Democratic Party of New Mexico Chair
-Yvonne Flores
-Las Cruces City Councilor
-Doreen Gallegos
-Representative
-Louie Gallegos
-Fort Sumner Mayor
-Gloria Gameros
-Doña Ana County Commissioner
-Carmen Gonzales
-SFPS School Board Member
-Becki Graham
-Las Cruces City Councilor
-Martin Heinrich
-U.S.
-Senator
-Russell Hernandez
-Mesilla Mayor
-Tara Jaramillo
-Former Representative
-Raymundo Lara
-Representative
-Flora Lucero
-Former Bernalillo County Democratic Party Chair
-Michelle Lujan Grisham
-Governor, New Mexico
-Javier Perea
-Sunland Park Mayor
-Shannon Reynolds
-Doña Ana County Commissioner
-Marisol Richardson
-Doña Ana County Treasurer
-Eric Rodriguez
-Former Doña Ana County Treasurer
-Manuel Sanchez
-Doña Ana County Commissioner
-Christopher Schaljo-Hernandez
-Doña Ana County Commissioner
-Mimi Stewart
-Senator, President Pro Tempore
-Xochitl Torres Small
-Former U.S.
-Representative, New Mexico
-Maggie Toulouse Oliver
-New Mexico Secretary of State
-Gabe Vasquez
-U.S.
-Representative, New Mexico
-Jessica Velasquez
-Former New Mexico Democratic Party Chair
+Skip to content Chip in $5 right now to join the fight for our future  Amanda for New Mexico About Media News Press Releases Videos Take Action Contribute Connect on Facebook Connect on Instagram Connect on Bluesky Our Supporters Endorsements Amanda is endorsed by elected officials and community members throughout New Mexico.
+Marianna Anaya Representative Johana Bencomo Las Cruces City Councilor Joe Cervantes Senator John Allen Bernalillo County Sheriff Orlando Antonio Carrillo Jiménez Former Member, Colonias Infrastructure Board Susana Chaparro Doña Ana County Commissioner Yolanda Cordova Former APS School Board Chair Becky Corran Las Cruces City Councilor Diane Denish Former Lieutenant Governor Dr.
+Ammu Devasthali Katy Duhigg Senator Marg Elliston Former Democratic Party of New Mexico Chair Yvonne Flores Las Cruces City Councilor Doreen Gallegos Representative Louie Gallegos Fort Sumner Mayor Gloria Gameros Doña Ana County Commissioner Carmen Gonzales SFPS School Board Member Becki Graham Las Cruces City Councilor Carrie Hamblen Senator Martin Heinrich U.S.
+Senator Russell Hernandez Mesilla Mayor Tara Jaramillo Former Representative Raymundo Lara Representative Flora Lucero Former Bernalillo County Democratic Party Chair Michelle Lujan Grisham Governor, New Mexico Cindy Nava Senator Michael Padilla Senator Javier Perea Sunland Park Mayor Shannon Reynolds Doña Ana County Commissioner Marisol Richardson Doña Ana County Treasurer Eric Rodriguez Former Doña Ana County Treasurer Manuel Sanchez Doña Ana County Commissioner Christopher Schaljo-Hernandez Doña Ana County Commissioner Sara Silva Representative Bill Soules Senator Mimi Stewart Senator, President Pro Tempore Xochitl Torres Small Former U.S.
+Representative, New Mexico Maggie Toulouse Oliver New Mexico Secretary of State Gabe Vasquez U.S.
+Representative, New Mexico Jessica Velasquez Former New Mexico Democratic Party Chair Share on Facebook Share on Twitter Share on Blue Sky Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
+Contribute Chip in today This campaign is funded by people like you. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Amanda for New Mexico Connect on Facebook Connect on Instagram Connect on Bluesky About Media Take Action Contribute Paid for and Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact

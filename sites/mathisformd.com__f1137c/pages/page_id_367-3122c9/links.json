@@ -1,11 +1,46 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScpNsn2fy5JDg5qLbKdCsvlCjdUJHAqL1aU4IOU_1ijMOmVtQ/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdBwPryJTOdJSUCBhzw4twrUmNA5fAsBVIL6r1lpSW2g5_XMw/viewform",
-"https://elections.maryland.gov/elections/2026/index.html",
-"https://instagram.com/mathisformaryland",
-"https://mathisformd.com/",
-"https://mathisformd.com/?page_id=367",
-"https://mathisformd.com/about",
-"https://mathisformd.com/issues-priorities",
-"https://secure.actblue.com/donate/mathisformaryland"
+{
+"text": "Contact Us",
+"href": "mailto:mathisformaryland@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mathisformaryland"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://mathisformd.com/?page_id=367"
+},
+{
+"text": "ISSUES",
+"href": "https://mathisformd.com/issues-priorities/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mathisformaryland/"
+},
+{
+"text": "MATHIS FOR MD",
+"href": "https://mathisformd.com"
+},
+{
+"text": "MEET ADRIANNE",
+"href": "https://mathisformd.com/about/"
+},
+{
+"text": "Voting Info",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+},
+{
+"text": "[image: MATHIS FOR MD]",
+"href": "https://mathisformd.com/"
+},
+{
+"text": "join team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdBwPryJTOdJSUCBhzw4twrUmNA5fAsBVIL6r1lpSW2g5_XMw/viewform"
+},
+{
+"text": "yard sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScpNsn2fy5JDg5qLbKdCsvlCjdUJHAqL1aU4IOU_1ijMOmVtQ/viewform"
+}
 ]

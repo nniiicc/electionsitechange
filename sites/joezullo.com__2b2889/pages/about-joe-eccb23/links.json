@@ -1,6 +1,34 @@
 [
-"http://facebook.com/staterepzullo",
-"https://instagram.com/staterepzullo",
-"https://joezullo.com/",
-"https://joezullo.com/about-joe"
+{
+"text": "2026@joezullo.com",
+"href": "mailto:2026@joezullo.com"
+},
+{
+"text": "About Joe",
+"href": "https://www.joezullo.com/about-joe"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.joezullo.com"
+},
+{
+"text": "Home",
+"href": "https://www.joezullo.com"
+},
+{
+"text": "News",
+"href": "https://www.joezullo.com"
+},
+{
+"text": "[image: Whatsapp]",
+"href": "tel:2034647405"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/staterepzullo"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://instagram.com/staterepzullo/"
+}
 ]

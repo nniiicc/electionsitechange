@@ -1,141 +1,570 @@
 [
-"https://act.nedlamont.com/a/bs_em_lam_1225",
-"https://bsky.app/profile/nedlamont.com",
-"https://capitoldispatch.substack.com/p/connecticut-posts-budget-surplus",
-"https://capitoldispatch.substack.com/p/test-scores-attendance-improve-in",
-"https://connecticut.news12.com/2026/05/19/gov-lamont-signs-absentee-voting-for-all-law/79HJJLdE4ljQKPVEypDBbN",
-"https://connecticut.news12.com/2026/08/05/connecticuts-minimum-wage-will-rise-to-1748-an-hour-starting-jan-1-2027/3Ngpvk8uoBPZmRhgBwUD9z",
-"https://connecticut.news12.com/gov-lamont-signs-state-budget-with-millions-going-toward-education",
-"https://connecticut.news12.com/governor-lamont-announces-town-funding-increases-from-state-budget",
-"https://connecticut.news12.com/more-than-350000-ct-children-to-receive-summer-food-benefits",
-"https://connecticut.news12.com/were-doubling-down-gov-lamont-launches-reelection-campaign-with-statewide-tour",
-"https://courant.com/2025/11/14/with-sites-set-on-a-third-term-ct-gov-lamont-plans-to-tackle-affordability",
-"https://courant.com/2026/07/12/opinion-building-the-future-means-ct-needs-worker-centered-economic-development-leader",
-"https://courant.com/2026/08/13/gov-lamont-announces-20m-investment-for-100000-square-foot-flagship-campus-in-ct-city",
-"https://courant.com/2026/08/16/opinion-lamont-delivered-on-fiscal-sustainability-and-earned-another-four-years",
-"https://courant.com/2026/08/17/ct-is-bucking-the-national-trend-as-the-state-sees-an-increase-in-tourism-and-spending-heres-why",
-"https://ctbythenumbers.news/ctnews/ct-takes-new-steps-to-protect-integrity-of-early-voting-elections",
-"https://ctexaminer.com/2026/08/06/when-it-counts-ned-delivers-for-working-people",
-"https://ctinsider.com/business/article/connecticut-electric-rates-eversource-ui-22219773.php",
-"https://ctinsider.com/business/article/ct-economy-gdp-growth-first-quarter-2026-22319591.php",
-"https://ctinsider.com/connecticut/article/connecticut-overdose-deaths-decline-harm-reduction-22289374.php",
-"https://ctinsider.com/connecticut/article/connecticut-public-schools-ranked-third-22370586.php",
-"https://ctinsider.com/connecticut/article/snap-300-grocery-card-lamont-trump-h-r-1-22289218.php",
-"https://ctinsider.com/news/education/article/ct-mmr-vaccination-rates-schools-database-22393534.php",
-"https://ctinsider.com/news/education/article/ct-special-education-programs-new-state-grants-22391829.php",
-"https://ctinsider.com/opinion/article/connecticut-lamont-session-trump-21336021.php",
-"https://ctinsider.com/opinion/article/lamont-himes-connecticut-primary-22373626.php",
-"https://ctinsider.com/politics/article/after-multi-hour-debate-ct-senate-approves-21178088.php",
-"https://ctinsider.com/politics/article/connecticut-program-first-time-to-own-homes-buyers-22296388.php",
-"https://ctinsider.com/politics/article/lamont-veto-housing-bill-compromise-promote-ct-new-21145220.php",
-"https://ctmirror.org/2026/02/04/ct-lamont-state-of-the-state-address",
-"https://ctmirror.org/2026/03/26/ct-democrats-save-america-act",
-"https://ctmirror.org/2026/03/27/as-most-states-reserves-have-dwindled-cts-safety-net-has-grown",
-"https://ctmirror.org/2026/04/13/lamont-delivers-pledged-raises-to-ct-state-employees",
-"https://ctmirror.org/2026/05/01/artificial-intelligence-house-regulation-passage-ct",
-"https://ctmirror.org/2026/05/04/ice-bill-lamont-signing-ceremony",
-"https://ctmirror.org/2026/05/08/new-ct-budget-sets-lamonts-legacy-as-he-seeks-3rd-term",
-"https://ctmirror.org/2026/06/04/lamont-lays-out-education-priorities-as-blue-ribbon-commission-gets-underway",
-"https://ctmirror.org/2026/08/11/ct-gov-ned-lamont-defeats-josh-elliott-democratic-primary",
-"https://ctmirror.org/2026/08/21/ct-special-education-grants-districts",
-"https://ctmirror.org/2026/09/17/cts-electricity-prices-are-falling",
-"https://ctmirror.org/2026/09/23/affordable-housing-construction-ct-tax-credits",
-"https://ctnewsjunkie.com/2025/11/14/lamont-launches-bid-for-third-term-as-ct-governor",
-"https://ctnewsjunkie.com/2026/01/07/lamont-state-health-care-enrollment-up-as-ct-works-to-soften-federal-subsidy-elimination",
-"https://ctnewsjunkie.com/2026/01/08/lamont-everyone-should-stand-against-horror-and-inhumanity-of-ice-killing-in-minnesota",
-"https://ctnewsjunkie.com/2026/02/06/lamont-outlines-plan-to-provide-universal-free-breakfast-expand-free-lunch-to-ct-students",
-"https://ctnewsjunkie.com/2026/03/04/lamont-uconn-officials-celebrate-new-affiliation-for-waterbury-hospital",
-"https://ctnewsjunkie.com/2026/03/12/lamont-18-other-governors-urge-congress-to-rein-in-tariffs",
-"https://ctnewsjunkie.com/2026/06/02/lamont-signs-pride-month-proclamation",
-"https://ctnewsjunkie.com/2026/07/24/ct-receives-53m-to-support-farmers-after-2023-and-2024-crop-losses",
-"https://ctnewsjunkie.com/2026/09/25/sp-ups-cts-debt-outlook-to-positive",
-"https://ctpost.com/connecticut/article/connecticut-medical-debt-erased-97000-residents-22288092.php",
-"https://ctpost.com/news/education/article/ct-budget-free-school-breakfast-school-supplies-22240152.php",
-"https://ctpublic.org/news/2026-07-14/latinos-con-ned-ct-hispanic-democratic-caucus-endorses-ned-lamont-for-governor",
-"https://facebook.com/NedLamontCT",
-"https://fox61.com/article/news/local/hartford-county/hartford/connecticut-new-minimum-wage-local-businesses-react/520-9b840e31-0ea1-4e04-8b0b-b0aa567b1183",
-"https://fox61.com/article/news/local/lamont-nominates-first-african-american-woman-to-serve-on-ct-supreme-court/520-57ad1f7b-6ff5-4f5c-9b44-147e362262aa",
-"https://greenwichfreepress.com/news/government/lamont-announces-historic-investment-in-early-childhood-education-endowment-248612",
-"https://greenwichfreepress.com/news/government/lamont-blumenthal-simmons-address-ice-out-for-good-rally-in-stamford-242651",
-"https://greenwichtime.com/politics/article/gov-ned-lamont-ct-reelection-third-term-21171412.php",
-"https://hartfordbusiness.com/article/ct-economy-grew-3-in-second-quarter-outpacing-nation-and-new-england",
-"https://hartfordbusiness.com/article/lamont-state-lawmakers-reach-deal-on-housing-reform-bill-offers-development-incentives",
-"https://instagram.com/nedlamont",
-"https://mediapost.com/publications/article/415380/connecticut-governor-signs-law-banning-sale-of-loc.html",
-"https://mobilize.us/nedforct",
-"https://nbcconnecticut.com/news/local/expanded-just-cause-eviction-bill-gets-support-from-gov-lamont/3715098",
-"https://nbcconnecticut.com/news/local/governor-signs-dcf-reform-bill-into-law/3758037",
-"https://nbcconnecticut.com/news/politics/lamont-talks-affordability-as-he-kicks-off-reelection-bid/3664763",
-"https://nedlamont.com/",
-"https://nedlamont.com/Donate_By_Mail.pdf",
-"https://nedlamont.com/about",
-"https://nedlamont.com/absentee",
-"https://nedlamont.com/accomplishments",
-"https://nedlamont.com/endorsements",
-"https://nedlamont.com/get-involved",
-"https://nedlamont.com/jobs",
-"https://nedlamont.com/news",
-"https://nedlamont.com/news/college-democrats-endorse-ned-lamont",
-"https://nedlamont.com/news/connecticuts-u-s-house-delegation-endorses-governor-ned-lamont-for-re-election",
-"https://nedlamont.com/news/connecticuts-u-s-senate-delegation-endorses-governor-ned-lamont-for-re-election",
-"https://nedlamont.com/news/early-voting-is-aug-3-9",
-"https://nedlamont.com/news/governor-lamont-announces-endorsements-from-44-democratic-state-central-committee-members",
-"https://nedlamont.com/news/governor-lamont-announces-endorsements-from-86-democratic-town-chair-across-connecticut",
-"https://nedlamont.com/news/governor-lamont-announces-endorsements-from-93-state-lawmakers",
-"https://nedlamont.com/news/governor-lamont-announces-endorsements-from-municipal-leaders",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-32bj-seiu",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-attorney-general-tong-comptroller-scanlon-treasurer-russell",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-connecticut-carpenters-union",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-connecticut-teamsters-unions",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-connecticuts-amalgamated-transit-union",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-ct-realtors",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-international-union-of-operating-engineers-local-478",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-teamsters-local-671",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-the-association-of-commuter-rail-employees",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-the-connecticut-afl-cio",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-uniformed-professional-fire-fighters-association",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-unite-here-adding-even-more-labor-support",
-"https://nedlamont.com/news/governor-lamont-endorsed-by-unite-here-local-34",
-"https://nedlamont.com/news/governor-lamont-launches-new-ad-declaring-hes-too-impatient-to-wait-on-lowering-the-cost-of-living",
-"https://nedlamont.com/news/governor-lamont-launches-new-ad-highlighting-fazios-plan-to-raise-connecticut-families-health-care-costs-by-800-a-month",
-"https://nedlamont.com/news/governor-lamont-launches-new-tv-ad-featuring-state-rep-toni-walker-highlighting-josh-elliotts-absence-on-key-issues",
-"https://nedlamont.com/news/governor-lamont-lieutenant-governor-bysiewicz-announce-strong-fundraising-quarter-with-broad-statewide-support",
-"https://nedlamont.com/news/governor-lamont-proposes-additional-tax-relief-increase-the-property-tax-credit-and-expand-eligibility",
-"https://nedlamont.com/news/governor-lamont-proposes-closing-corporate-healthcare-loophole-easing-burden-on-connecticut-taxpayers",
-"https://nedlamont.com/news/governor-lamont-proposes-free-college-class-for-every-connecticut-high-school-senior",
-"https://nedlamont.com/news/governor-lamont-wins-democratic-party-nomination-for-governor",
-"https://nedlamont.com/news/making-a-point-vs-making-a-difference",
-"https://nedlamont.com/news/more-connecticut-residents-reported-million-dollar-incomes-in-2024-heres-what-drove-the-increase",
-"https://nedlamont.com/news/ned-lamont-proposes-sweeping-utility-reforms-to-lower-energy-costs-for-connecticut-families",
-"https://nedlamont.com/news/planned-parenthood-votes-connecticut-endorses-governor-ned-lamont",
-"https://nedlamont.com/news/two-decades-same-questions-lamont-campaign-video-shows-he-stood-up-then-and-is-standing-up-now",
-"https://nedlamont.com/priorities",
-"https://nedlamont.com/privacy",
-"https://nedlamont.com/progressive-wins",
-"https://nedlamont.com/terms",
-"https://nedlamont.com/vote",
-"https://newbritainherald.com/news/state-leaders-highlight-work-to-protect-elections-strengthen-voter-confidence/article_3c5a8ad2-a11d-41d0-bd9f-51f5afa2fb11.html",
-"https://newhavenindependent.org/2025/11/14/elicker-endorses-lamont-as-guv-kicks-off-reelection-campaign-downtown",
-"https://newhavenindependent.org/2026/08/04/lamont-labor-cheer-four-more-years",
-"https://nhregister.com/opinion/article/union-wages-connecticut-lamont-22320236.php",
-"https://nytimes.com/2026/08/11/us/politics/connecticut-primary-governor-lamont-elliott.html",
-"https://plannedparenthoodaction.org/planned-parenthood-votes-connecticut/news-room/planned-parenthood-votes-connecticut-announces-endorsements-for-the-2026-general-election",
-"https://tiktok.com/@nedlamont.ct",
-"https://westfaironline.com/fairfield/for-gov-lamont-its-good-news-all-around",
-"https://westfaironline.com/fairfield/gov-lamont-proposes-sweeping-utility-reforms",
-"https://wfsb.com/2026/01/19/lamont-freezes-farm-property-tax-assessments-protect-connecticut-farmers",
-"https://wfsb.com/2026/02/04/lamont-proposes-cell-phone-ban-free-breakfast-all-connecticut-students",
-"https://wfsb.com/2026/02/12/gov-ned-lamont-propose-loan-program-graduate-students-losing-federal-aid",
-"https://wfsb.com/2026/06/02/gov-lamont-sign-ai-social-media-safety-law",
-"https://wfsb.com/2026/09/14/exclusive-poll-lamont-maintains-clear-lead-over-fazio-gap-narrows",
-"https://wshu.org/connecticut-news/2026-05-12/lamont-signs-new-ct-labor-law",
-"https://wshu.org/connecticut-news/2026-05-21/ct-affordable-housing-development-hartford",
-"https://wshu.org/connecticut-news/2026-09-07/ct-data-centers-ned-lamont",
-"https://wtnh.com/news/connecticut/hartford/connecticut-department-of-transportation-awards-over-16-million-to-replace-local-bridges",
-"https://wtnh.com/news/connecticut/hartford/lamont-signs-law-to-streamline-process-for-charging-criminals-with-hate-crimes/https://nedlamont.com/news",
-"https://wtnh.com/news/connecticut/hartford/lamont-to-sign-bill-limiting-ice-actions-in-connecticut",
-"https://wtnh.com/news/connecticut/new-haven/gov-lamont-to-announce-state-funding-for-211-call-capacity-support-for-unhoused",
-"https://wtnh.com/news/connecticut/new-haven/lamont-to-sign-gun-legislation-for-national-gun-violence-awareness-day",
-"https://x.com/NedLamont",
-"https://yahoo.com/news/politics/articles/lamont-directs-5-million-ct-231329535.html"
+{
+"text": "Apr 10, 2026 Ned Lamont for Governor Governor Lamont, Lieutenant Governor Bysiewicz Announce Strong Fundraising Quarter with Broad Statewide Support Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-lieutenant-governor-bysiewicz-announce-strong-fundraising-quarter-with-broad-statewide-support"
+},
+{
+"text": "Apr 13, 2026 CT Mirror Lamont delivers pledged raises to CT state employees Read at CT Mirror",
+"href": "https://ctmirror.org/2026/04/13/lamont-delivers-pledged-raises-to-ct-state-employees/"
+},
+{
+"text": "Apr 22, 2026 CT Insider CT electric bills are coming down. Rate cut will save Eversouce, UI customers up to $34 monthly Read at CT Insider",
+"href": "https://www.ctinsider.com/business/article/connecticut-electric-rates-eversource-ui-22219773.php"
+},
+{
+"text": "Apr 22, 2026 Ned Lamont for Governor Governor Lamont Announces Endorsements from Municipal Leaders Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-announces-endorsements-from-municipal-leaders"
+},
+{
+"text": "Apr 22, 2026 Westfair Business Journal For Gov. Lamont, it’s good news all around Read at Westfair Business Journal",
+"href": "https://westfaironline.com/fairfield/for-gov-lamont-its-good-news-all-around/"
+},
+{
+"text": "Aug 11, 2026 CT Mirror CT Gov. Ned Lamont defeats Josh Elliott in Democratic primary Read at CT Mirror",
+"href": "https://ctmirror.org/2026/08/11/ct-gov-ned-lamont-defeats-josh-elliott-democratic-primary/"
+},
+{
+"text": "Aug 11, 2026 New York Times Ned Lamont Wins the Democratic Primary for Connecticut Governor Read at New York Times",
+"href": "https://www.nytimes.com/2026/08/11/us/politics/connecticut-primary-governor-lamont-elliott.html"
+},
+{
+"text": "Aug 16, 2026 Hartford Courant Opinion: Lamont delivered on CT fiscal sustainability and earned another four years Read at Hartford Courant",
+"href": "https://www.courant.com/2026/08/16/opinion-lamont-delivered-on-fiscal-sustainability-and-earned-another-four-years/"
+},
+{
+"text": "Aug 17, 2026 CT Insider Connecticut special education programs to receive $10.6 million state funding boost Read at CT Insider",
+"href": "https://www.ctinsider.com/news/education/article/ct-special-education-programs-new-state-grants-22391829.php"
+},
+{
+"text": "Aug 17, 2026 Hartford Courant CT is bucking the national trend in tourism and spending. Here’s what brings them in and gets them to spend. Read at Hartford Courant",
+"href": "https://www.courant.com/2026/08/17/ct-is-bucking-the-national-trend-as-the-state-sees-an-increase-in-tourism-and-spending-heres-why/"
+},
+{
+"text": "Aug 17, 2026 Hartford Courant Gov. Lamont announces $20M investment for ‘100,000-square-foot flagship campus’ in CT city Read at Hartford Courant",
+"href": "https://www.courant.com/2026/08/13/gov-lamont-announces-20m-investment-for-100000-square-foot-flagship-campus-in-ct-city/"
+},
+{
+"text": "Aug 18, 2026 CT Insider More Connecticut residents reported million-dollar incomes in 2024. Here’s what drove the increase Read the Release",
+"href": "https://www.nedlamont.com/news/more-connecticut-residents-reported-million-dollar-incomes-in-2024-heres-what-drove-the-increase"
+},
+{
+"text": "Aug 19, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY CT REALTORS® Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-ct-realtors"
+},
+{
+"text": "Aug 2, 2026 CT Insider Connecticut has the nation's No. 3 public schools, new ranking says Read at CT Insider",
+"href": "https://www.ctinsider.com/connecticut/article/connecticut-public-schools-ranked-third-22370586.php"
+},
+{
+"text": "Aug 20, 2026 CT Mirror Connecticut near top on childhood vaccines as national rates hit new lows Read at CT Mirror",
+"href": "https://www.ctinsider.com/news/education/article/ct-mmr-vaccination-rates-schools-database-22393534.php"
+},
+{
+"text": "Aug 21, 2026 CT Mirror $10M in grant funding will expand in-district special education in CT Read at CT Mirror",
+"href": "https://ctmirror.org/2026/08/21/ct-special-education-grants-districts/"
+},
+{
+"text": "Aug 3, 2026 Ned Lamont for Governor Early Voting is Aug. 3-9! Read the Release",
+"href": "https://www.nedlamont.com/news/early-voting-is-aug-3-9"
+},
+{
+"text": "Aug 31, 2026 CT Insider Connecticut overdose deaths fell 45% since 2021. What changed? Read at CT Insider",
+"href": "https://www.ctinsider.com/connecticut/article/connecticut-overdose-deaths-decline-harm-reduction-22289374.php"
+},
+{
+"text": "Aug 4, 2026 CT Insider U.S. Rep. Jim Himes (opinion): Lamont is 'steady, strong leader that Connecticut needs' Read at CT Insider",
+"href": "https://www.ctinsider.com/opinion/article/lamont-himes-connecticut-primary-22373626.php"
+},
+{
+"text": "Aug 4, 2026 Ned Lamont for Governor Governor Lamont Launches New TV Ad Featuring State Rep. Toni Walker, Highlighting Josh Elliott’s Absence on Key Issues Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-launches-new-tv-ad-featuring-state-rep-toni-walker-highlighting-josh-elliotts-absence-on-key-issues"
+},
+{
+"text": "Aug 4, 2026 New Haven Independent Lamont Labor Cheer: “Four More Years!” Read at New Haven Independent",
+"href": "https://www.newhavenindependent.org/2026/08/04/lamont-labor-cheer-four-more-years/"
+},
+{
+"text": "Aug 5, 2026 News12 Connecticut's minimum wage will rise to $17.48 an hour starting Jan. 1, 2027 Read at News12",
+"href": "https://connecticut.news12.com/2026/08/05/connecticuts-minimum-wage-will-rise-to-1748-an-hour-starting-jan-1-2027/3Ngpvk8uoBPZmRhgBwUD9z"
+},
+{
+"text": "Aug 6, 2026 CT Examiner When It Counts, Ned Delivers for Working People Read at CT Examiner",
+"href": "https://ctexaminer.com/2026/08/06/when-it-counts-ned-delivers-for-working-people/"
+},
+{
+"text": "Aug 6, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY TEAMSTERS LOCAL 671 Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-teamsters-local-671"
+},
+{
+"text": "Breaking News Oct 5, 2026 Ned Lamont for Governor Governor Lamont Launches New Ad Declaring He's Too Impatient to Wait on Lowering the Cost of Living Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-launches-new-ad-declaring-hes-too-impatient-to-wait-on-lowering-the-cost-of-living"
+},
+{
+"text": "Donate",
+"href": "https://act.nedlamont.com/a/bs_em_lam_1225"
+},
+{
+"text": "Download this form",
+"href": "https://www.nedlamont.com/Donate_By_Mail.pdf"
+},
+{
+"text": "Feb 12, 2026 WFSB Gov. Ned Lamont to propose loan program for graduate students losing federal aid Read at WFSB",
+"href": "https://www.wfsb.com/2026/02/12/gov-ned-lamont-propose-loan-program-graduate-students-losing-federal-aid/"
+},
+{
+"text": "Feb 18, 2025 Ned Lamont for Governor Governor Lamont proposes additional tax relief: increase the property tax credit and expand eligibility Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-proposes-additional-tax-relief-increase-the-property-tax-credit-and-expand-eligibility"
+},
+{
+"text": "Feb 4, 2026 CT Mirror Lamont to ICE: ‘Go home. We’re keeping CT safe without you.’ Read at CT Mirror",
+"href": "https://ctmirror.org/2026/02/04/ct-lamont-state-of-the-state-address/"
+},
+{
+"text": "Feb 4, 2026 WFSB Lamont proposes cell phone ban, free breakfast for all Connecticut students Read at WFSB",
+"href": "https://www.wfsb.com/2026/02/04/lamont-proposes-cell-phone-ban-free-breakfast-all-connecticut-students/"
+},
+{
+"text": "Feb 5, 2026 CT Insider Editorial: Lamont goes on offense vs. Trump, without ever mentioning him Read at CT Insider",
+"href": "https://www.ctinsider.com/opinion/article/connecticut-lamont-session-trump-21336021.php"
+},
+{
+"text": "Feb 6, 2026 WeHa Lamont Outlines Plan To Provide Universal Free Breakfast, Expand Free Lunch To CT Students Read at WeHa",
+"href": "https://ctnewsjunkie.com/2026/02/06/lamont-outlines-plan-to-provide-universal-free-breakfast-expand-free-lunch-to-ct-students/"
+},
+{
+"text": "Jan 11, 2026 Greenwich Free Press Lamont, Blumenthal, Simmons Address “ICE Out for Good” Rally in Stamford Read at Greenwich Free Press",
+"href": "https://greenwichfreepress.com/news/government/lamont-blumenthal-simmons-address-ice-out-for-good-rally-in-stamford-242651/"
+},
+{
+"text": "Jan 12, 2026 WTNH Gov. Lamont to announce state funding for 211 call capacity, support for unhoused Read at WTNH",
+"href": "https://www.wtnh.com/news/connecticut/new-haven/gov-lamont-to-announce-state-funding-for-211-call-capacity-support-for-unhoused/"
+},
+{
+"text": "Jan 19, 2026 WFSB Lamont freezes farm property tax assessments to protect Connecticut farmers Read at WFSB",
+"href": "https://www.wfsb.com/2026/01/19/lamont-freezes-farm-property-tax-assessments-protect-connecticut-farmers/"
+},
+{
+"text": "Jan 23, 2026 Ned Lamont for Governor College Democrats of Connecticut Endorse Governor Ned Lamont Read the Release",
+"href": "https://www.nedlamont.com/news/college-democrats-endorse-ned-lamont"
+},
+{
+"text": "Jan 7, 2026 CT News Junkie Lamont: State Health Care Enrollment Up As CT Works To Soften Federal Subsidy Elimination Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/01/07/lamont-state-health-care-enrollment-up-as-ct-works-to-soften-federal-subsidy-elimination/"
+},
+{
+"text": "Jan 8, 2026 CT News Junkie Lamont: Everyone Should Stand Against ‘Horror And Inhumanity’ Of ICE Killing In Minnesota Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/01/08/lamont-everyone-should-stand-against-horror-and-inhumanity-of-ice-killing-in-minnesota/"
+},
+{
+"text": "Jan 8, 2026 Fox 61 Governor Lamont addresses the state's new minimum wage, local businesses react Read at Fox 61",
+"href": "https://www.fox61.com/article/news/local/hartford-county/hartford/connecticut-new-minimum-wage-local-businesses-react/520-9b840e31-0ea1-4e04-8b0b-b0aa567b1183"
+},
+{
+"text": "Jul 12, 2026 Hartford Courant Opinion: Building the future means CT needs worker-centered economic development leader Read at Hartford Courant",
+"href": "https://www.courant.com/2026/07/12/opinion-building-the-future-means-ct-needs-worker-centered-economic-development-leader/"
+},
+{
+"text": "Jul 14, 2026 CT Public ‘Latinos con Ned’: CT Hispanic Democratic Caucus endorses Ned Lamont for governor Read at CT Public",
+"href": "https://www.ctpublic.org/news/2026-07-14/latinos-con-ned-ct-hispanic-democratic-caucus-endorses-ned-lamont-for-governor"
+},
+{
+"text": "Jul 17, 2026 Planned Parenthood Votes! Planned Parenthood Votes! Connecticut Endorses Governor Ned Lamont Read the Release",
+"href": "https://www.nedlamont.com/news/planned-parenthood-votes-connecticut-endorses-governor-ned-lamont"
+},
+{
+"text": "Jul 20, 2026 New Britain Herald State leaders highlight work to protect elections, strengthen voter confidence Read at New Britain Herald",
+"href": "https://www.newbritainherald.com/news/state-leaders-highlight-work-to-protect-elections-strengthen-voter-confidence/article_3c5a8ad2-a11d-41d0-bd9f-51f5afa2fb11.html"
+},
+{
+"text": "Jul 23, 2026 NBC Connecticut Gov. Lamont signs DCF reform bill into law Read at NBC Connecticut",
+"href": "https://www.nbcconnecticut.com/news/local/governor-signs-dcf-reform-bill-into-law/3758037/"
+},
+{
+"text": "Jul 24, 2026 CT News Junkie CT Receives $53M To Support Farmers After 2023 And 2024 Crop Losses Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/07/24/ct-receives-53m-to-support-farmers-after-2023-and-2024-crop-losses/"
+},
+{
+"text": "Jul 29, 2026 CT Insider Lamont directs $5 million from CT reserve fund to help TPS holders who lost the right to work Read at CT Insider",
+"href": "https://www.yahoo.com/news/politics/articles/lamont-directs-5-million-ct-231329535.html"
+},
+{
+"text": "Jul 29, 2026 WTNH Governor Lamont Announces State Grants for the Reconstruction of 13 Bridges on Local Roads Read at WTNH",
+"href": "https://www.wtnh.com/news/connecticut/hartford/connecticut-department-of-transportation-awards-over-16-million-to-replace-local-bridges/"
+},
+{
+"text": "Jul 31, 2026 Ned Lamont for Governor Making a Point Vs. Making a Difference Read the Release",
+"href": "https://www.nedlamont.com/news/making-a-point-vs-making-a-difference"
+},
+{
+"text": "Jul 7, 2026 Press Release GOVERNOR LAMONT ENDORSED BY 32BJ SEIU Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-32bj-seiu"
+},
+{
+"text": "Jul 8, 2026 Capitol Dispatch Connecticut Posts Budget Surplus for Eighth Straight Year Read at Capitol Dispatch",
+"href": "https://capitoldispatch.substack.com/p/connecticut-posts-budget-surplus"
+},
+{
+"text": "Jun 1, 2026 Greenwich Free Press Lamont Announces Historic Investment in Early Childhood Education Endowment Read at Greenwich Free Press",
+"href": "https://greenwichfreepress.com/news/government/lamont-announces-historic-investment-in-early-childhood-education-endowment-248612/"
+},
+{
+"text": "Jun 10, 2026 Ned Lamont for Governor Ned Lamont Proposes Sweeping Utility Reforms to Lower Energy Costs for Connecticut Families Read the Release",
+"href": "https://www.nedlamont.com/news/ned-lamont-proposes-sweeping-utility-reforms-to-lower-energy-costs-for-connecticut-families"
+},
+{
+"text": "Jun 11, 2026 Westfair Business Journal Gov. Lamont proposes sweeping utility reforms Read at Westfair Business Journal",
+"href": "https://westfaironline.com/fairfield/gov-lamont-proposes-sweeping-utility-reforms/"
+},
+{
+"text": "Jun 16, 2026 Fox 61 Lamont nominates first African American woman to serve on Connecticut Supreme Court Read at Fox 61",
+"href": "https://www.fox61.com/article/news/local/lamont-nominates-first-african-american-woman-to-serve-on-ct-supreme-court/520-57ad1f7b-6ff5-4f5c-9b44-147e362262aa"
+},
+{
+"text": "Jun 18, 2026 Ned Lamont for Governor Governor Lamont Proposes Closing Corporate Healthcare Loophole, Easing Burden on Connecticut Taxpayers Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-proposes-closing-corporate-healthcare-loophole-easing-burden-on-connecticut-taxpayers"
+},
+{
+"text": "Jun 2, 2026 CT News Junkie Lamont Signs Pride Month Proclamation Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/06/02/lamont-signs-pride-month-proclamation/"
+},
+{
+"text": "Jun 2, 2026 CT Post More than 97,000 Connecticut residents to have $315M in medical debt erased Read at CT Post",
+"href": "https://www.ctpost.com/connecticut/article/connecticut-medical-debt-erased-97000-residents-22288092.php"
+},
+{
+"text": "Jun 2, 2026 WFSB Gov. Lamont to sign AI and social media safety law Read at WFSB",
+"href": "https://www.wfsb.com/2026/06/02/gov-lamont-sign-ai-social-media-safety-law/"
+},
+{
+"text": "Jun 22, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY CONNECTICUT’S AMALGAMATED TRANSIT UNION Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-connecticuts-amalgamated-transit-union"
+},
+{
+"text": "Jun 24, 2026 Channel 12 More than 350,000 CT children to receive summer food benefits Read at Channel 12",
+"href": "https://connecticut.news12.com/more-than-350000-ct-children-to-receive-summer-food-benefits"
+},
+{
+"text": "Jun 25, 2026 New Haven Register Opinion: How Lamont fixed loophole that shortchanged our union members Read at New Haven Register",
+"href": "https://www.nhregister.com/opinion/article/union-wages-connecticut-lamont-22320236.php"
+},
+{
+"text": "Jun 26, 2026 CT Insider Connecticut's economy outpaced most states with 1.8% GDP growth to start 2026 Read at CT Insider",
+"href": "https://www.ctinsider.com/business/article/ct-economy-gdp-growth-first-quarter-2026-22319591.php"
+},
+{
+"text": "Jun 26, 2026 CT Insider Map: Where Connecticut's Time to Own program has helped more than 9,000 first-time homebuyers Read at CT Insider",
+"href": "https://www.ctinsider.com/politics/article/connecticut-program-first-time-to-own-homes-buyers-22296388.php"
+},
+{
+"text": "Jun 26, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY THE CONNECTICUT AFL-CIO Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-the-connecticut-afl-cio"
+},
+{
+"text": "Jun 26, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY UNITE HERE LOCAL 34 Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-unite-here-local-34"
+},
+{
+"text": "Jun 27, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 478 Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-international-union-of-operating-engineers-local-478"
+},
+{
+"text": "Jun 29, 2026 Ned Lamont for Governor Absentee Ballots Are Now Available - Request Yours Today Read at Ned Lamont for Governor",
+"href": "https://www.nedlamont.com/absentee"
+},
+{
+"text": "Jun 29, 2026 Ned Lamont for Governor GOVERNOR LAMONT PROPOSES FREE COLLEGE CLASS FOR EVERY CONNECTICUT HIGH SCHOOL SENIOR Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-proposes-free-college-class-for-every-connecticut-high-school-senior"
+},
+{
+"text": "Jun 3, 2026 CT Insider Connecticut to provide $300 grocery cards to 25,000 residents losing SNAP benefits Read at CT Insider",
+"href": "https://www.ctinsider.com/connecticut/article/snap-300-grocery-card-lamont-trump-h-r-1-22289218.php"
+},
+{
+"text": "Jun 30, 2026 Ned Lamont for Governor GOVERNOR LAMONT ENDORSED BY THE ASSOCIATION OF COMMUTER RAIL EMPLOYEES Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-the-association-of-commuter-rail-employees"
+},
+{
+"text": "Jun 4, 2026 CT Mirror Lamont lays out education priorities as Blue Ribbon Commission gets underway Read at CT Mirror",
+"href": "https://ctmirror.org/2026/06/04/lamont-lays-out-education-priorities-as-blue-ribbon-commission-gets-underway/"
+},
+{
+"text": "Jun 5, 2026 WTNH Gov. Lamont signs law banning handguns that can convert to automatic machine guns Read at WTNH",
+"href": "https://www.wtnh.com/news/connecticut/new-haven/lamont-to-sign-gun-legislation-for-national-gun-violence-awareness-day/"
+},
+{
+"text": "Jun 8, 2026 WTNH Lamont signs law to streamline process for charging criminals with hate crimes Read at WTNH",
+"href": "https://www.wtnh.com/news/connecticut/hartford/lamont-signs-law-to-streamline-process-for-charging-criminals-with-hate-crimes/https://nedlamont.com/news"
+},
+{
+"text": "Make A Plan To VoteClick Here",
+"href": "https://www.nedlamont.com/vote"
+},
+{
+"text": "Mar 12, 2026 CT News Junkie Lamont, 18 Other Governors Urge Congress To Rein In Tariffs Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/03/12/lamont-18-other-governors-urge-congress-to-rein-in-tariffs/"
+},
+{
+"text": "Mar 12, 2026 Ned Lamont for Governor Connecticut's U.S. Senate Delegation Endorses Governor Ned Lamont for Re-Election Read the Release",
+"href": "https://www.nedlamont.com/news/connecticuts-u-s-senate-delegation-endorses-governor-ned-lamont-for-re-election"
+},
+{
+"text": "Mar 16, 2026 Ned Lamont for Governor “Two Decades, Same Questions”: Lamont Campaign Video Shows He Stood Up Then and is Standing Up Now Read the Release",
+"href": "https://www.nedlamont.com/news/two-decades-same-questions-lamont-campaign-video-shows-he-stood-up-then-and-is-standing-up-now"
+},
+{
+"text": "Mar 17, 2026 NBC30 Expanded ‘Just Cause' eviction bill gets support from Gov. Lamont Read at NBC30",
+"href": "https://www.nbcconnecticut.com/news/local/expanded-just-cause-eviction-bill-gets-support-from-gov-lamont/3715098/"
+},
+{
+"text": "Mar 26, 2026 CT Mirror CT governor, secretary of the state speak out against SAVE America Act Read at CT Mirror",
+"href": "https://ctmirror.org/2026/03/26/ct-democrats-save-america-act/"
+},
+{
+"text": "Mar 27, 2026 CT Mirror As most states’ reserves have dwindled, CT’s safety net has grown Read at CT Mirror",
+"href": "https://ctmirror.org/2026/03/27/as-most-states-reserves-have-dwindled-cts-safety-net-has-grown/"
+},
+{
+"text": "Mar 4, 2026 CT News Junkie Lamont, UConn Officials Celebrate New Affiliation For Waterbury Hospital Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/03/04/lamont-uconn-officials-celebrate-new-affiliation-for-waterbury-hospital/"
+},
+{
+"text": "Mar 4, 2026 CT by the Numbers CT Takes New Steps to Protect Integrity of Early Voting, Elections Read at CT by the Numbers",
+"href": "https://ctbythenumbers.news/ctnews/ct-takes-new-steps-to-protect-integrity-of-early-voting-elections"
+},
+{
+"text": "May 1, 2026 CT Mirror Connecticut passes AI regulations after years in development Read at CT Mirror",
+"href": "https://ctmirror.org/2026/05/01/artificial-intelligence-house-regulation-passage-ct/"
+},
+{
+"text": "May 1, 2026 Ned Lamont for Governor Governor Lamont Announces Endorsements from 86 Democratic Town Chairs Across Connecticut Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-announces-endorsements-from-86-democratic-town-chair-across-connecticut"
+},
+{
+"text": "May 11, 2026 Ned Lamont for Governor Governor Lamont Endorsed by Attorney General Tong, Comptroller Scanlon, Treasurer Russell Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-attorney-general-tong-comptroller-scanlon-treasurer-russell"
+},
+{
+"text": "May 12, 2026 Ned Lamont for Governor Governor Lamont Endorsed by UNITE HERE, Adding Even More Labor Support Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-unite-here-adding-even-more-labor-support"
+},
+{
+"text": "May 12, 2026 WSHU Lamont signs expansive new CT labor law Read at WSHU",
+"href": "https://www.wshu.org/connecticut-news/2026-05-12/lamont-signs-new-ct-labor-law"
+},
+{
+"text": "May 13, 2026 Ned Lamont for Governor Governor Lamont Endorsed by Uniformed Professional Fire Fighters Association Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-uniformed-professional-fire-fighters-association"
+},
+{
+"text": "May 14, 2026 Ned Lamont for Governor Governor Lamont announces endorsements from 93 state lawmakers Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-announces-endorsements-from-93-state-lawmakers"
+},
+{
+"text": "May 16, 2026 Ned Lamont for Governor Governor Lamont Wins Democratic Party Nomination for Governor Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-wins-democratic-party-nomination-for-governor"
+},
+{
+"text": "May 19, 2026 Ned Lamont for Governor Gov. Lamont signs 'Absentee Voting For All' law Read at Ned Lamont for Governor",
+"href": "https://connecticut.news12.com/2026/05/19/gov-lamont-signs-absentee-voting-for-all-law/79HJJLdE4ljQKPVEypDBbN"
+},
+{
+"text": "May 21, 2026 Ned Lamont for Governor Lamont celebrates opening of affordable housing development in Hartford Read at Ned Lamont for Governor",
+"href": "https://www.wshu.org/connecticut-news/2026-05-21/ct-affordable-housing-development-hartford"
+},
+{
+"text": "May 26, 2026 News 12 Connecticut Gov. Lamont signs state budget with millions going toward education Read at News 12 Connecticut",
+"href": "https://connecticut.news12.com/gov-lamont-signs-state-budget-with-millions-going-toward-education"
+},
+{
+"text": "May 28, 2026 Media Post Connecticut Governor Signs Law Banning Sale Of Location Data Read at Media Post",
+"href": "https://www.mediapost.com/publications/article/415380/connecticut-governor-signs-law-banning-sale-of-loc.html"
+},
+{
+"text": "May 3, 2026 News 12 Governor Lamont announces town funding increases from state budget Read at News 12",
+"href": "https://connecticut.news12.com/governor-lamont-announces-town-funding-increases-from-state-budget"
+},
+{
+"text": "May 4, 2026 CT Mirror Lamont signs ICE law on courthouse steps, defying Trump administration Read at CT Mirror",
+"href": "https://ctmirror.org/2026/05/04/ice-bill-lamont-signing-ceremony/"
+},
+{
+"text": "May 4, 2026 News Channel 8 - WTNH Lamont signs bill limiting ICE actions in Connecticut Read at News Channel 8 - WTNH",
+"href": "https://www.wtnh.com/news/connecticut/hartford/lamont-to-sign-bill-limiting-ice-actions-in-connecticut/"
+},
+{
+"text": "May 5, 2026 CT Post Connecticut budget adds free school breakfasts, ends sales tax on school supplies Read at CT Post",
+"href": "https://www.ctpost.com/news/education/article/ct-budget-free-school-breakfast-school-supplies-22240152.php"
+},
+{
+"text": "May 6, 2026 Ned Lamont for Governor Governor Lamont Endorsed by Connecticut Carpenters Union Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-connecticut-carpenters-union"
+},
+{
+"text": "May 7, 2026 Ned Lamont for Governor Governor Lamont Announces Endorsements from 46 Democratic State Central Committee Members Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-announces-endorsements-from-44-democratic-state-central-committee-members"
+},
+{
+"text": "May 8, 2026 Ned Lamont for Governor Governor Lamont Endorsed by Connecticut Teamsters Unions Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-endorsed-by-connecticut-teamsters-unions"
+},
+{
+"text": "May 9, 2026 CT Mirror New CT budget sets Lamont’s legacy as he seeks 3rd term Read at CT Mirror",
+"href": "https://ctmirror.org/2026/05/08/new-ct-budget-sets-lamonts-legacy-as-he-seeks-3rd-term/"
+},
+{
+"text": "Nov 14, 2025 CT Insider Affordable housing bill passes in CT after hours of debate, months of negotiations Read at CT Insider",
+"href": "https://www.ctinsider.com/politics/article/after-multi-hour-debate-ct-senate-approves-21178088.php"
+},
+{
+"text": "Nov 14, 2025 CT News Junkie Lamont Launches Bid For Third Term As CT Governor Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2025/11/14/lamont-launches-bid-for-third-term-as-ct-governor/"
+},
+{
+"text": "Nov 14, 2025 Connecticut News 12 'We're doubling down.' Gov. Lamont launches reelection campaign with statewide tour Read at Connecticut News 12",
+"href": "https://connecticut.news12.com/were-doubling-down-gov-lamont-launches-reelection-campaign-with-statewide-tour"
+},
+{
+"text": "Nov 14, 2025 Greenwich Time Why does Ned Lamont want a rare third term? Read at Greenwich Time",
+"href": "https://www.greenwichtime.com/politics/article/gov-ned-lamont-ct-reelection-third-term-21171412.php"
+},
+{
+"text": "Nov 14, 2025 Hartford Courant CT Gov. Lamont to announce Friday he's seeking third term. He ignores retirement as 'I love the job' Read at Hartford Courant",
+"href": "https://www.courant.com/2025/11/14/with-sites-set-on-a-third-term-ct-gov-lamont-plans-to-tackle-affordability/"
+},
+{
+"text": "Nov 14, 2025 NBC Connecticut Lamont talks affordability as he kicks off reelection bid Read at NBC Connecticut",
+"href": "https://www.nbcconnecticut.com/news/politics/lamont-talks-affordability-as-he-kicks-off-reelection-bid/3664763/"
+},
+{
+"text": "Nov 14, 2025 New Haven Independent Elicker Endorses Lamont As Guv Kicks Off Reelection Campaign Downtown Read at New Haven Independent",
+"href": "https://www.newhavenindependent.org/2025/11/14/elicker-endorses-lamont-as-guv-kicks-off-reelection-campaign-downtown/"
+},
+{
+"text": "Nov 22, 2025 Ned Lamont for Governor Connecticut's U.S. House Delegation Endorses Governor Ned Lamont for Re-Election Read the Release",
+"href": "https://www.nedlamont.com/news/connecticuts-u-s-house-delegation-endorses-governor-ned-lamont-for-re-election"
+},
+{
+"text": "Nov 7, 2025 CT Insider Lamont announces compromise bill to promote housing in CT with bipartisan group of municipal leaders Read at CT Insider",
+"href": "https://www.ctinsider.com/politics/article/lamont-veto-housing-bill-compromise-promote-ct-new-21145220.php"
+},
+{
+"text": "Nov 7, 2025 Hartford Business Journal Lamont, state lawmakers reach deal on housing reform bill; offers development incentives Read at Hartford Business Journal",
+"href": "https://hartfordbusiness.com/article/lamont-state-lawmakers-reach-deal-on-housing-reform-bill-offers-development-incentives/"
+},
+{
+"text": "Sep 1, 2026 Ned Lamont for Governor Planned Parenthood Votes! Connecticut Endorses Governor Lamont for 2026 General Election Read at Ned Lamont for Governor",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-connecticut/news-room/planned-parenthood-votes-connecticut-announces-endorsements-for-the-2026-general-election"
+},
+{
+"text": "Sep 12, 2026 WFSB EXCLUSIVE POLL: Lamont maintains clear lead over Fazio, but gap narrows Read at WFSB",
+"href": "https://www.wfsb.com/2026/09/14/exclusive-poll-lamont-maintains-clear-lead-over-fazio-gap-narrows/"
+},
+{
+"text": "Sep 14, 2026 Ned Lamont for Governor Governor Lamont Launches New Ad Highlighting Fazio's Plan to Raise Connecticut Families' Health Care Costs by $800 a Month Read the Release",
+"href": "https://www.nedlamont.com/news/governor-lamont-launches-new-ad-highlighting-fazios-plan-to-raise-connecticut-families-health-care-costs-by-800-a-month"
+},
+{
+"text": "Sep 18, 2026 CT Mirror In an election year, CT’s electricity prices are falling Read at CT Mirror",
+"href": "https://ctmirror.org/2026/09/17/cts-electricity-prices-are-falling/"
+},
+{
+"text": "Sep 24, 2026 CT Public Hundreds of CT affordable homes, apartments to be built using state tax credits Read at CT Public",
+"href": "https://ctmirror.org/2026/09/23/affordable-housing-construction-ct-tax-credits/"
+},
+{
+"text": "Sep 25, 2026 CT News Junkie S&P Ups CT’s Debt Outlook To Positive Read at CT News Junkie",
+"href": "https://ctnewsjunkie.com/2026/09/25/sp-ups-cts-debt-outlook-to-positive/"
+},
+{
+"text": "Sep 30, 2026 Hartford Business Journal CT economy grew 3% in second quarter, outpacing nation and New England Read at Hartford Business Journal",
+"href": "https://hartfordbusiness.com/article/ct-economy-grew-3-in-second-quarter-outpacing-nation-and-new-england/"
+},
+{
+"text": "Sep 7, 2026 WSHU Lamont says no to big data centers in CT Read at WSHU",
+"href": "https://www.wshu.org/connecticut-news/2026-09-07/ct-data-centers-ned-lamont"
+},
+{
+"text": "Sep 9, 2026 Capitol Dispatch Test Scores, Attendance Improve in Connecticut Schools for Fourth Straight Year Read at Capitol Dispatch",
+"href": "https://capitoldispatch.substack.com/p/test-scores-attendance-improve-in"
+},
+{
+"text": "[image: Ned Lamont for Governor logo]",
+"href": "https://www.nedlamont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nedlamont.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NedLamontCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nedlamont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nedlamont.ct"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NedLamont"
+},
+{
+"text": "about",
+"href": "https://www.nedlamont.com/about"
+},
+{
+"text": "accomplishments",
+"href": "https://www.nedlamont.com/accomplishments"
+},
+{
+"text": "endorsements",
+"href": "https://www.nedlamont.com/endorsements"
+},
+{
+"text": "events",
+"href": "https://www.mobilize.us/nedforct/"
+},
+{
+"text": "get involved",
+"href": "https://www.nedlamont.com/get-involved"
+},
+{
+"text": "home",
+"href": "https://www.nedlamont.com/"
+},
+{
+"text": "info@nedlamont.com",
+"href": "mailto:info@nedlamont.com"
+},
+{
+"text": "jobs",
+"href": "https://www.nedlamont.com/jobs"
+},
+{
+"text": "news",
+"href": "https://www.nedlamont.com/news"
+},
+{
+"text": "priorities",
+"href": "https://www.nedlamont.com/priorities"
+},
+{
+"text": "privacy policy",
+"href": "https://www.nedlamont.com/privacy"
+},
+{
+"text": "progressive wins",
+"href": "https://www.nedlamont.com/progressive-wins"
+},
+{
+"text": "terms",
+"href": "https://www.nedlamont.com/terms"
+},
+{
+"text": "vote",
+"href": "https://www.nedlamont.com/vote"
+}
 ]

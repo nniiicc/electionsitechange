@@ -1,4 +1,1 @@
-Contact
-Media inquiries: [email protected]
-Questions or for more info: [email protected]
-Mailing Address: 1421 SW 107th Ave #236 Miami, FL 33174
+Meet Carlos Take Action Vote Donate Issues Contact Contact Media inquiries: [email protected] Questions or for more info: [email protected] Mailing Address: 1421 SW 107th Ave #236 Miami, FL 33174 Paid For By Carlos Gimenez for Congress Privacy Policy

@@ -1,24 +1,118 @@
 [
-"https://apps.arizona.vote/electioninfo/Election/68",
-"https://arizona.edu/",
-"https://aversa.vote/",
-"https://aversa.vote/contact.html",
-"https://aversa.vote/donate.html",
-"https://aversa.vote/issues.html",
-"https://babies.vote/",
-"https://ballotpedia.org/Phoenix_Union_High_School_District,_Arizona,_elections_(2022)",
-"https://cash.app/$AversaVote",
-"https://donate.stripe.com/6oU3cv0bXfYR3atbeE3oA00",
-"https://dropbox.com/scl/fi/u3yrai86ka2q96ttlwyy6/Anti-Prop_139_ad1_v2_QR_eng_spa_subs-scaled.mp4?rlkey=ftida21zqc4x2c6unkcbjdxzn&st=8qoyrmnu&raw=1",
-"https://fcc.gov/media/policy/statutes-and-rules-candidate-appearances-advertising",
-"https://fec.gov/data/candidate/H4AZ03174?cycle=2026",
-"https://govinfo.gov/content/pkg/CDOC-110hdoc51/pdf/CDOC-110hdoc51.pdf",
-"https://help4her.com/",
-"https://isidore.co/aquinas/Metaphysics1.htm",
-"https://isidore.co/aquinas/summa/FS/FS066.html",
-"https://linkedin.com/in/alan-aversa",
-"https://orcid.org/0000-0002-8497-6259",
-"https://x.com/SententiaeDeo",
-"https://youtube.com/@AlanAversa",
-"https://zellepay.com/qr-codes?data=eyJ0b2tlbiI6ImF2ZXJzYS52b3RlQHByb3Rvbi5tZSIsIm5hbWUiOiJBTEFOIn0%3D"
+{
+"text": "Constitution of the United States",
+"href": "https://www.govinfo.gov/content/pkg/CDOC-110hdoc51/pdf/CDOC-110hdoc51.pdf"
+},
+{
+"text": "Contact",
+"href": "https://aversa.vote/contact.html"
+},
+{
+"text": "Contact me",
+"href": "https://aversa.vote/contact.html"
+},
+{
+"text": "Declaration of Independence",
+"href": "https://www.govinfo.gov/content/pkg/CDOC-110hdoc51/pdf/CDOC-110hdoc51.pdf"
+},
+{
+"text": "Donate",
+"href": "https://aversa.vote/donate.html"
+},
+{
+"text": "FEC filing info",
+"href": "https://www.fec.gov/data/candidate/H4AZ03174/?cycle=2026"
+},
+{
+"text": "Help fund Alan’s TV ads!",
+"href": "https://aversa.vote/donate.html"
+},
+{
+"text": "Home",
+"href": "https://aversa.vote/"
+},
+{
+"text": "Issues",
+"href": "https://aversa.vote/issues.html"
+},
+{
+"text": "Metaphysics 980ª21",
+"href": "https://isidore.co/aquinas/Metaphysics1.htm#1"
+},
+{
+"text": "Phoenix Union High School District - Ward 2",
+"href": "https://ballotpedia.org/Phoenix_Union_High_School_District,_Arizona,_elections_(2022)#District_2"
+},
+{
+"text": "Pregnant? Need help?",
+"href": "https://www.help4her.com/"
+},
+{
+"text": "Summa Theologica I-II q. 66 a. 4",
+"href": "https://isidore.co/aquinas/summa/FS/FS066.html#FSQ66A4THEP1"
+},
+{
+"text": "University of Arizona",
+"href": "https://www.arizona.edu"
+},
+{
+"text": "[no text]",
+"href": "https://orcid.org/0000-0002-8497-6259"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/alan-aversa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AlanAversa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SententiaeDeo"
+},
+{
+"text": "[no text]",
+"href": "mailto:Aversa.vote@proton.me?subject=email+from+Aversa.vote"
+},
+{
+"text": "[no text]",
+"href": "sgnl://signal.group/#CjQKIHXGY_WcslkqIjebfl2VrYKybYCOalBTMxRKdM1lsAFGEhDRzhoV0jNROdNpwhVeCcot"
+},
+{
+"text": "[tooltip: Donate U.S. $ with CashApp.]",
+"href": "https://cash.app/%24AversaVote"
+},
+{
+"text": "[tooltip: Donate U.S. $ with Stripe.]",
+"href": "https://donate.stripe.com/6oU3cv0bXfYR3atbeE3oA00"
+},
+{
+"text": "[tooltip: Donate U.S. $ with Zelle.]",
+"href": "https://www.zellepay.com/qr-codes/?data=eyJ0b2tlbiI6ImF2ZXJzYS52b3RlQHByb3Rvbi5tZSIsIm5hbWUiOiJBTEFOIn0%3D"
+},
+{
+"text": "[tooltip: Donate bitcoin ₿.]",
+"href": "bitcoin:bc1q62wc0eruzavhsgy7jygdd2xfszuqu0jx3m2se5?message=https%3A%2F%2FAversa.vote+donation+%282026+election%29"
+},
+{
+"text": "[tooltip: Donate monero ɱ.]",
+"href": "monero:8C2WLZ7mBdienbbAe6oGRR9Zz4QaW3LBudP35qphHNp2Q5UF64ixXp2BbzpusFjjTTCbMsqKfnMa3QjDwcL6yjMQ7iyKNnc?recipient_name=Alan+Aversa&tx_description=https%3A%2F%2Faversa.vote+donation+%282026+election%29"
+},
+{
+"text": "a team of 10 pro-life federal candidates",
+"href": "https://www.babies.vote/"
+},
+{
+"text": "candidacy info from the Secretary of State",
+"href": "https://apps.arizona.vote/electioninfo/Election/68#can-24379"
+},
+{
+"text": "the ads he ran in 2024",
+"href": "https://www.dropbox.com/scl/fi/u3yrai86ka2q96ttlwyy6/Anti-Prop_139_ad1_v2_QR_eng_spa_subs-scaled.mp4?rlkey=ftida21zqc4x2c6unkcbjdxzn&st=8qoyrmnu&raw=1"
+},
+{
+"text": "uncensorable",
+"href": "https://www.fcc.gov/media/policy/statutes-and-rules-candidate-appearances-advertising#access"
+}
 ]

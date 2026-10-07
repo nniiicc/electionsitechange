@@ -1,39 +1,20 @@
-News about CO, U.S. and World Elections
-The History of the Right to Vote in the U.S. and Colorado
-Early U.S. – (most states) white male adult property owners
-Five constitutional amendments have limited restrictions to the right to vote, though none have added a general right to vote.
-- 15th Amendment (1870) – right to vote shall not be denied or abridged on account of race, color, or previous condition of servitude
-- 19th Amendment (1920) – right to vote shall not be denied or abridged on account of sex
-- 23rd Amendment (1961) – residents of the District of Columbia can vote for the President and Vice President
-- 24th Amendment (1964) – voting in federal elections shall not be denied or abridged by reason of failure to pay any poll tax or other tax.
-- 26th Amendment (1971) – right to vote of U.S. citizens, who are at least eighteen years of age, shall not be denied or abridged on account of age.
-2019 Colorado House Bill 19-1278 – “A person preregistered … who is seventeen years of age on the date of a primary election or presidential primary election and who will be eighteen years of age on the date of the next general election is entitled to vote in the primary election or presidential primary election.” About 1/3 of the states allow almost-18-year-olds to vote in a primary election.
-Colorado Taking Away the Right to Vote
-Based on Martin Niemöller’s poem, “First they came for the Communists…”
-First they came for the almost-18-year-old voters
-And I did not speak out
-Because I was older than 18
-Then they came for voters in county commissioner elections
-And I did not speak out
-Because I was not in the district
-And my neighbor did not speak out
-Because his party’s voters got to vote
-And the lawyers didn’t fight it
-Because they were looking the other way
-And wanted a big fee to fight it
-Then they came for voters in legislative elections
-And eventually this affected everyone, including me,
-But we had forgotten how to speak out
-And our right to vote eroded ever more.
+top of page Home Meet Priorities News Newsletters Events Help Donate Celeste for SoS News Letter to the Editor Boulder Daily Camera August 8, 2026 Read Common Cause Candidate Forum June 15, 2026 Video With Mandy Connell on KOA Radio Listen Other Celeste for SoS News Press Releases News about CO, U.S. and World Elections Solving American Troubles (political violence and lack of representation) the Irish proportional voting way, March 17, 2026, More Equitable Democracy ​ Video November 2025 letter from 10 Secretaries of State regarding DOJ requests for voter data and DHS use of voter data ​ ​ ​ ​ ​ Find Out More Venezuela: opposition claims proof of Maduro election loss on July 28, 2024, Reuters​ ​ ​ ​ ​ ​ Video Election officials push back against Trump administration after Fulton County raid and voter roll demands, January 29, 2026, NBC News ​ ​ Find Out More County Clerks: Despite threats, our offices keep working.
+The SAVE Act is deeply problematic.
+We’re accountable to voters, not to party operatives.
+August 2025, Colorado Sun​​ ​ Find Out More Investigation finds Colorado election passwords were posted ‘unintentionally’ in June 2024 ​ ​ ​ ​ ​ ​ ​ ​ Find Out More 2026 Montana Plan campaign website – a state attempt to combat growing corporate spending on elections since the 2010 Citizen United v.
+FEC decision ​ Find Out More President Trump’s Executive Order on elections, March 2025 ​ ​ ​ ​ ​ ​ ​ ​ Find Out More Cyber Ninjas’ farcical “audit” of Maricopa County’s 2020 presidential ballots, Brennan Center for Justice ​ ​ ​ ​ ​ ​ Find Out More Internet Voting Is Insecure And Should Not Be Used in Public Elections, January 2026, CITP Blog ​ ​ ​ Find Out More Sentencing of Tina Peters, October 2024 ​ ​ ​ ​ ​ ​ Video The History of the Right to Vote in the U.S. and Colorado Expanding the Right to Vote Early U.S. – (most states) white male adult property owners Five constitutional amendments have limited restrictions to the right to vote, though none have added a general right to vote.
+15th Amendment (1870) – right to vote shall not be denied or abridged on account of race, color, or previous condition of servitude 19th Amendment (1920) – right to vote shall not be denied or abridged on account of sex 23rd Amendment (1961) – residents of the District of Columbia can vote for the President and Vice President 24th Amendment (1964) – voting in federal elections shall not be denied or abridged by reason of failure to pay any poll tax or other tax.
+26th Amendment (1971) – right to vote of U.S. citizens, who are at least eighteen years of age, shall not be denied or abridged on account of age.
+2019 Colorado House Bill 19-1278 – “A person preregistered … who is seventeen years of age on the date of a primary election or presidential primary election and who will be eighteen years of age on the date of the next general election is entitled to vote in the primary election or presidential primary election.” About 1/3 of the states allow almost-18-year-olds to vote in a primary election. ​ ​ ​ Colorado Taking Away the Right to Vote Based on Martin Niemöller’s poem, “First they came for the Communists…” First they came for the almost-18-year-old voters And I did not speak out Because I was older than 18 Then they came for voters in county commissioner elections And I did not speak out Because I was not in the district And my neighbor did not speak out Because his party’s voters got to vote And the lawyers didn’t fight it Because they were looking the other way And wanted a big fee to fight it Then they came for voters in legislative elections And eventually this affected everyone, including me, But we had forgotten how to speak out And our right to vote eroded ever more.
 Red States and Blue States?
-Or One United States of America?
-"The pundits like to slice-and-dice our country into Red States and Blue States; Red States for Republicans, Blue States for Democrats.
+Or One United States of America? ​ ​ ​ "The pundits like to slice-and-dice our country into Red States and Blue States; Red States for Republicans, Blue States for Democrats.
 But I've got news for them, too. … We are one people, all of us pledging allegiance to the stars and stripes, all of us defending the United States of America." – U.S.
-Senator Barack Obama, Keynote Address, 2004 Democratic National Convention
-Statistics from the 2020 presidential election.
+Senator Barack Obama, Keynote Address, 2004 Democratic National Convention Statistics from the 2020 presidential election.
 There are more Trump voters in California than in Texas.
 There are more Biden voters in Texas than in New York.
 There are more Trump voters in New York than in Ohio.
 There are more Biden voters in Ohio than in Massachusetts.
-There are more Trump voters in Massachusetts than in Mississippi
-There are more Biden voters in Mississippi than in Vermont.
+There are more Trump voters in Massachusetts than in Mississippi There are more Biden voters in Mississippi than in Vermont.
+Follow the Campaign Celeste Landry for Secretary of State P.O.
+BOX 41 Boulder, CO 80306 720-767-7310 Celeste4sos.com Paid for by Celeste Landry for Secretary of State.
+Registered Agent: Wendy Underhill Website created by Shayna Beckham Privacy Policy bottom of page

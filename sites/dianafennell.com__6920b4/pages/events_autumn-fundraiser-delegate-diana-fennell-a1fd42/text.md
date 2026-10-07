@@ -1,36 +1,17 @@
-Date & Time:
-Thursday, October 9th, 2025
-6:00 PM – 8:00 PM
-Location:
-Three Brothers Italian Restaurant
-4521 Kenilworth Avenue
-Bladensburg, MD 20710
-Special Guest:
-The Honorable Adrienne A.
-Jones
-Speaker of the House, Maryland House of Delegates
-About the Event
-Please join Delegate Diana Fennell, Assistant Speaker Pro Tem and Chair of Prince George’s County Affairs, for an evening of community, conversation, and commitment to the future of District 47A.
+0 Skip to Content Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Folder: Office Back Contact Scholarship End of Session Letter 2026 Media Folder: Campaign Friends of Diana Fennell Back Donate Endorsements & Supporters Friends and Neighbors Get Involved Back to All Events Autumn Fundraiser – Delegate Diana Fennell Thursday, October 9, 2025 6:00 PM 8:00 PM Friends of Diana Fennell P.O BOX 514 Bladensburg, Maryland, 20710 USA (map) Google Calendar ICS Date & Time: Thursday, October 9th, 2025 6:00 PM – 8:00 PM Location: Three Brothers Italian Restaurant 4521 Kenilworth Avenue Bladensburg, MD 20710 Special Guest: The Honorable Adrienne A.
+Jones Speaker of the House, Maryland House of Delegates About the Event Please join Delegate Diana Fennell , Assistant Speaker Pro Tem and Chair of Prince George’s County Affairs, for an evening of community, conversation, and commitment to the future of District 47A.
 This Autumn Fundraiser is an opportunity to stand with Delegate Fennell as she continues her service in the Maryland House of Delegates, delivering on the priorities that matter most to our families and neighborhoods.
 We are honored to welcome Speaker Adrienne A.
 Jones as our special guest for the evening.
-Contribution Levels
-- $1,000 – Champion
-- $500 – Supporter
-- $250 – Friend
-- $47 – Constituent
-Your contribution reserves your place at this important event and provides critical resources to ensure strong, effective representation for Prince George’s County.
-RSVP and Contributions
-To RSVP, please scan the QR code on the flyer, contribute online through ActBlue, or make checks payable to:
-Friends of Diana Fennell
-PO Box 514
-Bladensburg, MD 20710
-Contribute Online
-Disclaimer
-Paid for by Friends of Diana Fennell for State Delegate.
+Contribution Levels $1,000 – Champion $500 – Supporter $250 – Friend $47 – Constituent Your contribution reserves your place at this important event and provides critical resources to ensure strong, effective representation for Prince George’s County.
+RSVP and Contributions To RSVP, please scan the QR code on the flyer, contribute online through ActBlue, or make checks payable to: Friends of Diana Fennell PO Box 514 Bladensburg, MD 20710 Contribute Online Disclaimer Paid for by Friends of Diana Fennell for State Delegate.
 Contributions are subject to Maryland election law and are not tax-deductible for federal income tax purposes.
 Corporate contributions are prohibited.
 Maryland law requires reporting the name, address, occupation, and employer of any individual whose cumulative contributions exceed $500 in an election cycle.
-For additional information or to RSVP directly, please contact Friends of Diana Fennell at
-Friends@dianafennell.com
-Authorized by Friends of Diana Fennell, Treasurer Janet Lucas
+RSVP HERE For additional information or to RSVP directly, please contact Friends of Diana Fennell at Friends@dianafennell.com Authorized by Friends of Diana Fennell, Treasurer Janet Lucas Previous Previous September 27 District 47 Annual Cookout Next Next December 17 District 47 Holiday Party Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to receive timely updates, news, and announcements from the office of Delegate Diana M.
+Fennell.
+First Name Last Name Email Address Sign Up Thank you!
+About Contact Events Photos Friends of Diana Fennell PO BOX 514 Bladensburg, MD 20710 info@dianafennell.com (301) 615-2845‬ ©# MADE WITH CLOUD 9 BRAND, LLC.
+FOLLOW SOCIAL MEDIA

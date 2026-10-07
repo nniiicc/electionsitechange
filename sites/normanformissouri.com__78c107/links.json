@@ -1,12 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61588181741485",
-"https://instagram.com/electvernonnorman",
-"https://normanformissouri.com/",
-"https://normanformissouri.com/media",
-"https://normanformissouri.com/meet",
-"https://normanformissouri.com/priorities",
-"https://normanformissouri.com/privacy-policy",
-"https://secure.anedot.com/norman-for-missouri/donate",
-"https://sos.mo.gov/elections/govotemissouri/register",
-"https://x.com/Norman4Missouri"
+{
+"text": "Contact",
+"href": "https://www.normanformissouri.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/norman-for-missouri/donate"
+},
+{
+"text": "Home",
+"href": "https://www.normanformissouri.com/"
+},
+{
+"text": "Media",
+"href": "https://www.normanformissouri.com/media/"
+},
+{
+"text": "Meet Vernon",
+"href": "https://www.normanformissouri.com/meet/"
+},
+{
+"text": "Priorities",
+"href": "https://www.normanformissouri.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.normanformissouri.com/privacy-policy"
+},
+{
+"text": "Read Vernon’s Commitments to Us",
+"href": "https://www.normanformissouri.com/priorities"
+},
+{
+"text": "Register to Vote Here",
+"href": "https://www.sos.mo.gov/elections/govotemissouri/register"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/profile.php?id=61588181741485"
+},
+{
+"text": "[image: Instagram icon]",
+"href": "https://www.instagram.com/electvernonnorman/"
+},
+{
+"text": "[image: Vernon Norman | Senate 14 | Missouri Families First]",
+"href": "https://www.normanformissouri.com/"
+},
+{
+"text": "[image: X icon]",
+"href": "https://x.com/Norman4Missouri"
+}
 ]

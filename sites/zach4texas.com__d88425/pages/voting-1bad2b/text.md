@@ -1,14 +1,4 @@
-EARLY VOTING DAYS AND TIMES:
-Monday, October 19 – Friday, October 23
-8am – 5pm
-Saturday, October 24
-7am – 7pm
-Sunday, October 25
-12 – 6pm
-Monday, October 26 – Friday, October 30
-7am – 7pm
-ELECTION DAY:
-Tuesday, November 3
-7am – 7pm
-Review your ballot.
+Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Voting Information VOTE EARLY AND BRING YOUR ID 2026 GENERAL ELECTION - DALLAS COUNTY EARLY VOTING DAYS AND TIMES: Monday, October 19 – Friday, October 23 8am – 5pm Saturday, October 24 7am – 7pm Sunday, October 25 12 – 6pm Monday, October 26 – Friday, October 30 7am – 7pm ELECTION DAY: Tuesday, November 3 7am – 7pm Be an informed voter Review your ballot.
 You can bring a printed copy of your sample ballot with you to vote.
+CLICK HERE FOR YOUR SAMPLE BALLOT EARLY VOTING LOCATIONS TBA VOTING INFORMATION VOTER ID VOTE BY MAIL 2600 N Central Expy, Suite 200, Richardson, TX 75080 214-414-3808 Paid Political Advertisement, Zach Herbert for Texas Campaign Zach Herbert is a former member of the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Marine Corps, the Department of Defense or any branch of U.S. government.

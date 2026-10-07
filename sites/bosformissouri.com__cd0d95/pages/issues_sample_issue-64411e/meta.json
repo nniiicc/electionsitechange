@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.bosformissouri.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "31262b2042e7c6570019f87a9ae0b668de3d301f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Education",
  "years_mentioned": []
 }

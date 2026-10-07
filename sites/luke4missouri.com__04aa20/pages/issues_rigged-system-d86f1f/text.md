@@ -1,5 +1,4 @@
-Rigged System
-If you are born rich then you have such an enormous advantage over someone born in destitution.
+Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Rigged System If you are born rich then you have such an enormous advantage over someone born in destitution.
 If you live in extreme poverty you are hungry, tired, sick and just trying to survive.
 When your most basic needs are not met you don’t have the time or energy to concentrate on improving your life.
 That is why we need to ensure all citizens have their basic needs met.
@@ -38,3 +37,5 @@ All of this is done for profit at the expense of people.
 Everyone should have the same rights, be treated the same under the law and given at least a fighting chance to be successful.
 The system is built around Wealth Inequality which leads to Political Capture which leads to a Two-Tiered Justice System that then reinforces the goals of the system to increase money, power and control in the hands of the few.
 We have to have a system that works for more people because if enough people give up on the system itself then the entire system will collapse for everyone.
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

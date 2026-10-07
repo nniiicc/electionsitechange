@@ -1,128 +1,79 @@
-ISSUES
-ABORTION AND REPRODUCTIVE HEALTH
-Gerry has long been a leader for reproductive freedom and access to care in Washington.
+top of page About Gerry Issues Endorsements News Media More Use tab to navigate through the menu items.
+DONATE ISSUES ABORTION AND REPRODUCTIVE HEALTH Gerry has long been a leader for reproductive freedom and access to care in Washington.
 A faculty member at the UW School of Public Health and former volunteer legal counsel for NARAL-Washington (now Pro-Choice WA), he has spent decades expanding access to reproductive healthcare, comprehensive sex education, and school-based health clinics across the state.
-He is proud to be endorsed by Planned Parenthood Alliance Advocates.
-After the U.S.
+He is proud to be endorsed by Planned Parenthood Alliance Advocates. ​ After the U.S.
 Supreme Court rolled back constitutional protections for abortion rights, Gerry warned that the right to abortion is only as strong as access to care.
 Nearly half of Washington’s hospital beds are controlled by religious institutions that restrict abortion services, gender-affirming care, and other essential medical treatment.
 Gerry believes hospitals receiving public funding must provide the full range of medical care and training.
-He has led efforts to ensure UW and WSU medical students are trained in the full scope of reproductive and end-of-life care, regardless of restrictions imposed by religious hospital systems.
+He has led efforts to ensure UW and WSU medical students are trained in the full scope of reproductive and end-of-life care , regardless of restrictions imposed by religious hospital systems.
 Gerry also helped expand Medicaid coverage for gender-affirming care and increase provider training to address shortages across Washington.
 To protect patients and providers, Gerry has proposed civil and criminal penalties for out-of-state officials who attempt to interfere with access to abortion or gender-affirming care for those traveling to Washington for that care.
-Gerry also sponsored the first law in the nation guaranteeing 24/7 access to free emergency contraception on every public college campus in Washington, helping expand access for thousands of students statewide.
-.
-K-12 EDUCATION & SPECIAL EDUCATION
-Pollet has been the #1 champion in the legislature for education funding, especially for special education.
+Gerry also sponsored the first law in the nation guaranteeing 24/7 access to free emergency contraception on every public college campus in Washington, helping expand access for thousands of students statewide. .
+K-12 EDUCATION & SPECIAL EDUCATION Pollet has been the #1 champion in the legislature for education funding, especially for special education.
 For years, Gerry led the effort to remove the unconscionable cap on how many students with disabilities the state funded special education for.
-In 2025, his advocacy helped lead to lifting the special education cap, a historic step toward fully funding special education statewide, delivering $750 million to fund special education across the state.
-In 2025, Gerry led the effort to overhaul how we teach reading in schools.
+In 2025, his advocacy helped lead to lifting the special education cap, a historic step toward fully funding special education statewide, delivering $750 million to fund special education across the state. ​ In 2025, Gerry led the effort to overhaul how we teach reading in schools.
 With 40% of students not reading at grade level, it's time we catch up with other states that have already implemented 'structured literacy,' a proven method for teaching all kids to read.
 Now, teachers will have the tools they need to understand the science of reading and implement it in their classrooms.
 This legislation builds on work Gerry led in 2021 to ensure that all kids were tested for dyslexia to help more kids access reading support.
-You can read more from the Seattle Times here.
-The Millionaires Tax included a commitment to fund education, thanks to Gerry insisting this new revenue needed to help close school districts' budget gaps.
-"At a time when public education is under attack, and protections for the health, safety, and wellbeing of children are being dismantled, we simply cannot afford to lose Gerry.
-His experience, efficacy and unwavering commitment to public education are unmatched." - Seattle Schoolboard members Liza Rankin (D1) and Evan Briggs (D3)
-Together with now US Congress Member Pramila Jayapal when she was in the State Senate, Gerry developed and prime sponsored the Washington Promise (now Washington College Grant), which guarantees tuition-free community and technical college statewide for many families.
-STANDING UP TO TRUMP
-In the face of unprecedented attacks on democracy, immigrants, reproductive rights, the LGBTQ+ community, and so many other vulnerable groups, Gerry has worked to keep Washington a place where all are safe and can thrive.
-Gerry has led the efforts to protect undocumented college students from their status being shared with the federal government, voted to force ICE agents to show their face, strengthened hate crime laws, passed marriage equality, and is a strong voice against the attacks on trans kids.
-In the face of Trump's efforts to deny food subsidies and healthcare to immigrants, Gerry has worked this year to ensure Washington keeps these programs funded.
-When Trump cut funding to Planned Parenthood, Gerry helped get them state funding.
+You can read more from the Seattle Times here. ​ The Millionaires Tax included a commitment to fund education, thanks to Gerry insisting this new revenue needed to help close school districts' budget gaps. ​ "At a time when public education is under attack, and protections for the health, safety, and wellbeing of children are being dismantled, we simply cannot afford to lose Gerry.
+His experience, efficacy and unwavering commitment to public education are unmatched." - Seattle Schoolboard members Liza Rankin (D1) and Evan Briggs (D3) Together with now US Congress Member Pramila Jayapal when she was in the State Senate, Gerry developed and prime sponsored the Washington Promise (now Washington College Grant), which guarantees tuition-free community and technical college statewide for many families. ​ STANDING UP TO TRUMP In the face of unprecedented attacks on democracy, immigrants, reproductive rights, the LGBTQ+ community, and so many other vulnerable groups, Gerry has worked to keep Washington a place where all are safe and can thrive.
+Gerry has led the efforts to protect undocumented college students from their status being shared with the federal government, voted to force ICE agents to show their face, strengthened hate crime laws, passed marriage equality, and is a strong voice against the attacks on trans kids .
+In the face of Trump's efforts to deny food subsidies and healthcare to immigrants, Gerry has worked this year to ensure Washington keeps these programs funded. ​ When Trump cut funding to Planned Parenthood, Gerry helped get them state funding .
 That's why he is the only candidate endorsed by Planned Parenthood Alliance Advocates.
-POST-SECONDARY EDUCATION & COLLEGE
-The opportunities of post-secondary education must be available to every resident of Washington who wants to improve their future and their families’ futures.
-Gerry is the only UW faculty member in the Legislature and also teaches at Western Washington University, so he knows firsthand the challenges facing students.
-Gerry is the author and prime sponsor of the "Washington Promise" for tuition-free community and technical colleges in Washington (now known as the State Grant).
+POST-SECONDARY EDUCATION & COLLEGE The opportunities of post-secondary education must be available to every resident of Washington who wants to improve their future and their families’ futures. ​Gerry is the only UW faculty member in the Legislature and also teaches at Western Washington University, so he knows firsthand the challenges facing students. ​ Gerry is the author and prime sponsor of the "Washington Promise" for tuition-free community and technical colleges in Washington (now known as the State Grant).
 Gerry first offered this legislation with then-State Senator Pramila Jayapal, who is now our U.S.
 Congress Member.
-He's also made it easier for first-generation and non-traditional students (e.g., parents who need childcare) to attend and succeed at earning a degree.
-Gerry has been repeatedly honored as "Legislator of the Year" by the Washington Student Association because of his commitment to championing higher education and his accessibility to students who lobby in Olympia on student issues.
-When the UW was exposed allowing an athletic administrator to quietly move on to work at another higher ed institution after being found likely to have committed a sexual assault, Gerry worked with advocates and survivors of assault and harassment to develop and pass the first legislation in the US to end “pass the harasser” practices that allow faculty and administrators to move from school to school and continue harassing or assaulting students and staff.
-Watch Gerry’s powerful floor speech on the topic here.
-Gerry developed and passed the first legislation in the US to protect student consumers from incurring massive debts to attend for-profit colleges and require truth in their advertising.
-Gerry continues to work to protect Washington students enrolling in online colleges from predatory practices and the online colleges seeking to hide behind and interstate agreement that attempts to prevent Washington state from investigating and enforcing our strong student consumer protections.
-ADDRESSING THE OPIOID, FENTANYL, & MENTAL HEALTH NEEDS IN OUR COMMUNITY
-We are losing youth to the opioid and fentanyl overdose epidemic every week.
-When pediatricians in the 46th District discussed the data that 2/3 of young adult and teen overdoses occurred in their home with someone else present in the room, often a roommate, friend or sibling, Gerry proposed that Washington become the first state in the nation to provide free, no-questions-asked access to opioid overdose reversal nasal spray (Narcan or naloxone) to high school and college students.
-We must stop “boarding” children and adults in mental health crisis in emergency rooms for weeks at a time, where they do not get care because there aren’t enough residential or high-acuity treatment facilities.
-In the 46th, Gerry’s partnered with Ryther as well as Children’s Hospital to address the dire needs of our children for mental health services.
-Gerry believes we must rapidly expand community-based behavioral health treatment – including coupling drug treatment with mental health – for youth and adults across Washington.
+He's also made it easier for first-generation and non-traditional students (e.g., parents who need childcare) to attend and succeed at earning a degree. ​ ​ Gerry has been repeatedly honored as "Legislator of the Year" by the Washington Student Association because of his commitment to championing higher education and his accessibility to students who lobby in Olympia on student issues. ​ When the UW was exposed allowing an athletic administrator to quietly move on to work at another higher ed institution after being found likely to have committed a sexual assault , Gerry worked with advocates and survivors of assault and harassment to develop and pass the first legislation in the US to end “pass the harasser” practices that allow faculty and administrators to move from school to school and continue harassing or assaulting students and staff.
+Watch Gerry’s powerful floor speech on the topic here . ​ Gerry developed and passed the first legislation in the US to protect student consumers from incurring massive debts to attend for-profit colleges and require truth in their advertising. ​ Gerry continues to work to protect Washington students enrolling in online colleges from predatory practices and the online colleges seeking to hide behind and interstate agreement that attempts to prevent Washington state from investigating and enforcing our strong student consumer protections.
+ADDRESSING THE OPIOID, FENTANYL, & MENTAL HEALTH NEEDS IN OUR COMMUNITY We are losing youth to the opioid and fentanyl overdose epidemic every week. ​ When pediatricians in the 46th District discussed the data that 2/3 of young adult and teen overdoses occurred in their home with someone else present in the room, often a roommate, friend or sibling, Gerry proposed that Washington become the first state in the nation to provide free, no-questions-asked access to opioid overdose reversal nasal spray (Narcan or naloxone) to high school and college students. ​ ​ We must stop “boarding” children and adults in mental health crisis in emergency rooms for weeks at a time, where they do not get care because there aren’t enough residential or high-acuity treatment facilities.
+In the 46th, Gerry’s partnered with Ryther as well as Children’s Hospital to address the dire needs of our children for mental health services. ​ Gerry believes we must rapidly expand community-based behavioral health treatment – including coupling drug treatment with mental health – for youth and adults across Washington.
 That access is crippled by the lack of professionals.
 Gerry continues to lead in developing expanded training programs for behavioral and mental health professionals at all levels, including having worked to support the opening of the new 160 bed UW Center for Behavioral Health and Learning based right here in the 46th District at Northwest Hospital.
-ENVIRONMENT & FIGHTING CLIMATE CHANGE
-After graduating from UW Law School, Gerry chose to dedicate his career to fighting for environmental justice.
-He took on the nuclear weapons industry to end Plutonium production at Hanford and forcing the US Department of Energy to clean up the most contaminated area in North America by founding and continuing to lead the region’s leading citizens’ group working for the cleanup of Hanford (Heart of America Northwest Hanfordcleanup.org).
-Gerry led the State ballot initiatives that stopped the federal government from using Hanford as a national radioactive waste dump.
-Gerry has been a leader to fight climate change for over 20 years.
+ENVIRONMENT & FIGHTING CLIMATE CHANGE After graduating from UW Law School, Gerry chose to dedicate his career to fighting for environmental justice.
+He took on the nuclear weapons industry to end Plutonium production at Hanford and forcing the US Department of Energy to clean up the most contaminated area in North America by founding and continuing to lead the region’s leading citizens’ group working for the cleanup of Hanford ( Heart of America Northwest Hanfordcleanup.org ).
+Gerry led the State ballot initiatives that stopped the federal government from using Hanford as a national radioactive waste dump. ​ Gerry has been a leader to fight climate change for over 20 years .
 He was one of the leaders of the multi-year legislative effort to end Washington State’s use of fossil fuels for electricity.
-He worked with Sierra Club, 350, Columbia Riverkeeper, and other organizations to develop groundbreaking legislation to require Washington State to consider the “life-cycle” methane emissions from fossil fuel facilities, which has helped end the threat of new coal or methane export facilities in Washington.
-As Chair of the House Local Government Committee, Gerry moved legislation to have all local government land use and traffic plans include reducing our local contributions to climate change through the Growth Management Act, as well as increasing density in urban areas near transit.
-Gerry is committed to developing and mentoring a new generation of attorneys working to protect the environment, protect Treaty rights and promote environmental justice.
+He worked with Sierra Club, 350, Columbia Riverkeeper, and other organizations to develop groundbreaking legislation to require Washington State to consider the “life-cycle” methane emissions from fossil fuel facilities, which has helped end the threat of new coal or methane export facilities in Washington. ​ As Chair of the House Local Government Committee, Gerry moved legislation to have all local government land use and traffic plans include reducing our local contributions to climate change through the Growth Management Act, as well as increasing density in urban areas near transit. ​ Gerry is committed to developing and mentoring a new generation of attorneys working to protect the environment, protect Treaty rights and promote environmental justice.
 He runs the region’s only Tribal and Environmental law program for law students in collaboration with the Yakama Nation and Center for Indian Law and Policy.
 Gerry is advocating to ensure that Washington State monitors the air pollution of the most vulnerable communities across our state, including Lake City and Northgate here in the 46th.
 Without monitoring, the state can’t begin to take the actions to improve the health of children and vulnerable adults breathing polluted air.
-He exposed that air monitoring results claimed to represent exposures for Lake City, Northgate and Bitter Lake residents was based on monitoring miles away in high-income neighborhoods with much cleaner air.
-ENDING GUN VIOLENCE
-Gerry works closely with the dedicated advocates in our community to reduce gun violence.
-He is endorsed by the Alliance for Gun Responsibility.
-Gerry strongly supports efforts to have gun owners bear responsibility when their guns are taken by children or others who should not have them; and, for gun sellers to be required to sell a gun safe or with a secure locking jacket.
-We need to recognize that the epidemic of youth suicide is greatly increased by access to guns.
-90% of initial suicide attempts by gun are fatal while over 90% from all other efforts do not succeed and allow us to work with youth for treatment.
-Gerry has been a champion to pass legislation to bar guns from public meetings such as school board meetings, where they are used to intimidate.
-Gerry joined in organizing fellow legislators to push our leadership to bring bills to reduce gun violence to the House floor for votes.
+He exposed that air monitoring results claimed to represent exposures for Lake City, Northgate and Bitter Lake residents was based on monitoring miles away in high-income neighborhoods with much cleaner air. ​ ENDING GUN VIOLENCE Gerry works closely with the dedicated advocates in our community to reduce gun violence.
+He is endorsed by the Alliance for Gun Responsibility. ​ Gerry strongly supports efforts to have gun owners bear responsibility when their guns are taken by children or others who should not have them; and, for gun sellers to be required to sell a gun safe or with a secure locking jacket.
+We need to recognize that the epidemic of youth suicide is greatly increased by access to guns. ​90% of initial suicide attempts by gun are fatal while over 90% from all other efforts do not succeed and allow us to work with youth for treatment. ​ ​ ​Gerry has been a champion to pass legislation to bar guns from public meetings such as school board meetings, where they are used to intimidate. ​ ​Gerry joined in organizing fellow legislators to push our leadership to bring bills to reduce gun violence to the House floor for votes.
 He was one of the original co-sponsors of the legislation, finally passed in 2023, to ban the sale of assault weapons in Washington.
-He will continue to stand up to the gun lobby to strengthen these bans.
-As a teacher in public health, he will keep working to recognize that guns, suicide, and behavioral health are interrelated public health problems – and that Washington far exceeds the national average in regard to the percent of gun deaths that are by suicide.
-A CHAMPION FOR AFFORDABLE HOUSING
-Gerry believes everyone deserves safe, affordable housing.
+He will continue to stand up to the gun lobby to strengthen these bans. ​ ​As a teacher in public health, he will keep working to recognize that guns, suicide, and behavioral health are interrelated public health problems – and that Washington far exceeds the national average in regard to the percent of gun deaths that are by suicide.
+A CHAMPION FOR AFFORDABLE HOUSING Gerry believes everyone deserves safe, affordable housing.
 As housing costs continue to rise, he knows it’s vital to build more affordable housing in Seattle and across our state.
-Gerry is focused on lowering barriers so more housing density can be built and requiring that these new developments include affordable options, including family size units, not just the top of the market housing that developers and their allies advocate for.
-In 2021, Gerry authored legislation to accelerate the construction of accessory dwelling units (ADUs) as part of the so-called “missing middle” housing and to expand affordable housing opportunities in communities across Washington.
-When this legislation finally passed in 2023, it included many principles that he had advocated for, including allowing cities to require affordable units in new developments.
-Building on that work, Gerry helped pass Transit-Oriented Development legislation in 2025 after years of advocating for more housing near light rail and major transit investments.
-He believes that public investments in transit should create housing opportunities for working families, not just those who can afford the highest rents.
-Gerry has also delivered results in the 46th District, helping secure funding for hundreds of affordable homes at Magnuson Park, the future Lake City Community Center (which will be the first community center with housing above it), Northgate, the University District, and other transit-connected neighborhoods.
-Gerry has long supported rent control.
+Gerry is focused on lowering barriers so more housing density can be built and requiring that these new developments include affordable options, including family size units, not just the top of the market housing that developers and their allies advocate for. ​ In 2021, Gerry authored legislation to accelerate the construction of accessory dwelling units (ADUs) as part of the so-called “missing middle” housing and to expand affordable housing opportunities in communities across Washington.
+When this legislation finally passed in 2023, it included many principles that he had advocated for, including allowing cities to require affordable units in new developments. ​ Building on that work, Gerry helped pass Transit-Oriented Development legislation in 2025 after years of advocating for more housing near light rail and major transit investments.
+He believes that public investments in transit should create housing opportunities for working families, not just those who can afford the highest rents. ​ Gerry has also delivered results in the 46th District, helping secure funding for hundreds of affordable homes at Magnuson Park, the future Lake City Community Center (which will be the first community center with housing above it), Northgate, the University District , and other transit-connected neighborhoods. ​ Gerry has long supported rent control.
 He worked for years to pass rent stabilization legislation, but he knows the legislature did not go far enough.
 Allowing rent increases of 10% per year is too high.
 Working people aren’t getting 10% wage increases.
-The 10% compromise leads to loss of affordable housing, evictions, and homelessness.
-Housing is more than a roof over your head, it’s the foundation for strong families and healthy communities.
-CHILDCARE & EARLY LEARNING
-Gerry’s committed to the goal that every family should have access to AFFORDABLE childcare that includes quality early learning.
-This means greatly expanding childcare offerings, including subsidies for working families.
-Early learning is the building block for all other educational success.
+The 10% compromise leads to loss of affordable housing, evictions, and homelessness. ​ Housing is more than a roof over your head, it’s the foundation for strong families and healthy communities.
+CHILDCARE & EARLY LEARNING Gerry’s committed to the goal that every family should have access to AFFORDABLE childcare that includes quality early learning.
+This means greatly expanding childcare offerings, including subsidies for working families. ​ Early learning is the building block for all other educational success.
 Every child from age 3 to 5 should participate in high quality early learning to prepare them for kindergarten.
 High quality early learning educators and trained childcare providers are also essential to identifying disabilities early in life.
-Early intervention, including special education in the pre-K years will often allow children to enter kindergarten having had the interventions that enable them to be included in general classrooms without further needs.
-That is why Gerry believes in greatly expanding Washington’s early learning program (EACAP) and ensuring that parents know the quality ratings for early learning programs and can compare them before enrolling.
-Gerry was an early sponsor for adopting, and defender of, a capital gains tax in Washington, which generates up to a half a billion dollars a year for early learning and education from people who are so wealthy that they have over $262,000 in capital gains (2025) on investments (not including your home or retirement accounts).
-Gerry is one of the state’s leaders tackling the often overlooked need for the State to invest in training our early learning educators and childcare providers; and ensuring that certificated early learning educators are paid just like kindergarten and elementary certificated teachers.
-DATA CENTERS, AI & CONSUMER PROTECTION
-Gerry has spent decades fighting to protect our natural resources and ratepayers by standing up to big corporations.
+Early intervention, including special education in the pre-K years will often allow children to enter kindergarten having had the interventions that enable them to be included in general classrooms without further needs. ​ That is why Gerry believes in greatly expanding Washington’s early learning program (EACAP) and ensuring that parents know the quality ratings for early learning programs and can compare them before enrolling.
+Gerry was an early sponsor for adopting, and defender of, a capital gains tax in Washington, which g enerates up to a half a billion dollars a year for early learning and education from people who are so wealthy that they have over $262,000 in capital gains (2025) on investments (not including your home or retirement accounts). ​ Gerry is one of the state’s leaders tackling the often overlooked need for the State to invest in training our early learning educators and childcare providers; and ensuring that certificated early learning educators are paid just like kindergarten and elementary certificated teachers.
+DATA CENTERS, AI & CONSUMER PROTECTION Gerry has spent decades fighting to protect our natural resources and ratepayers by standing up to big corporations.
 The newest frontier of this battle is over AI and data centers.
 Massive data centers consume enormous amounts of water and electricity, increase air pollution, threaten fish habitat, and drive up utility costs for families and businesses.
-Gerry has been a leading voice in the Legislature warning about the rapid expansion of AI data centers and their impact on Washington's communities.
-As Chair of the Joint Legislative Audit and Review Committee, Gerry helped expose the enormous tax breaks Washington was providing to large data center operators.
+Gerry has been a leading voice in the Legislature warning about the rapid expansion of AI data centers and their impact on Washington's communities. ​ As Chair of the Joint Legislative Audit and Review Committee, Gerry helped expose the enormous tax breaks Washington was providing to large data center operators.
 His work helped build support for rolling back those tax exemptions, directing tens of millions of dollars back to public priorities like schools instead of corporate subsidies.
 Gerry also sponsored legislation to require greater accountability for data centers' water and energy use, reduce pollution, and protect consumers from higher electric bills.
 Although the bill passed the House, it was blocked after an intense lobbying campaign by the technology industry.
-Gerry also helped stop legislation that would have shifted the financial risk of proposed nuclear reactors built to power data centers onto Washington ratepayers.
-Beyond data centers, Gerry has long been a leader on consumer data privacy, protecting students' personal information, safeguarding people from the misuse of AI-generated digital likenesses like deepfakes, and standing up for local journalists whose work is used by AI companies without compensation.
+Gerry also helped stop legislation that would have shifted the financial risk of proposed nuclear reactors built to power data centers onto Washington ratepayers. ​ Beyond data centers, Gerry has long been a leader on consumer data privacy, protecting students' personal information, safeguarding people from the misuse of AI-generated digital likenesses like deepfakes , and standing up for local journalists whose work is used by AI companies without compensation.
 He will continue fighting to ensure new technologies serve the public.
-GOVERNMENT ACCOUNTABILITY & PROTECTING TAXPAYERS
-Gerry believes taxpayers deserve a government that is transparent and accountable.
-As Chair of the Joint Legislative Audit and Review Committee (JLARC), he leads the Legislature's bipartisan oversight of state agencies through independent performance audits that identify problems and improve services.
-His role as Chair of JLARC also includes evaluating whether tax “preferences” for businesses (aka tax loopholes) actually serve public policy purposes or are just giveaways.
-Gerry has pushed to ensure no industry gets special treatment in our tax code.
-All big businesses in Washington, regardless of how powerful they are, should pay their fair share.
-Under Gerry's leadership, JLARC has uncovered major shortcomings in several state programs and closed tax loopholes, including these recent examples:
-- Gerry’s oversight work provided the documentation to end tax breaks for data centers.
-- The state's Digital Equity Grant is popular and should be helping thousands of low-income and rural residents get access to internet.
+GOVERNMENT ACCOUNTABILITY & PROTECTING TAXPAYERS Gerry believes taxpayers deserve a government that is transparent and accountable. ​ As Chair of the Joint Legislative Audit and Review Committee (JLARC), he leads the Legislature's bipartisan oversight of state agencies through independent performance audits that identify problems and improve services.
+His role as Chair of JLARC also includes evaluating whether tax “preferences” for businesses (aka tax loopholes) actually serve public policy purposes or are just giveaways. ​ Gerry has pushed to ensure no industry gets special treatment in our tax code.
+All big businesses in Washington, regardless of how powerful they are, should pay their fair share. ​ Under Gerry's leadership, JLARC has uncovered major shortcomings in several state programs and closed tax loopholes, including these recent examples: ​ Gerry’s oversight work provided the documentation to end tax breaks for data centers.
+The state's Digital Equity Grant is popular and should be helping thousands of low-income and rural residents get access to internet.
 The state has spent over $92 million on grants to the program, but a 2026 performance audit found there were no criteria or measurable results.
 Gerry will insist that we put that money toward improving health and education through programs based on strong evidence.
-- The legislature has required police to receive training in de-escalation when working with people in a mental health crisis.
+The legislature has required police to receive training in de-escalation when working with people in a mental health crisis.
 A recent audit showed that all police departments are woefully behind in training and that only half of officers will have completed the required training by 2028.
 Gerry is calling for state grants to be tied to progress in meeting these training requirements to force departments to train their officers.
+Join Our Email List Submit Thanks for submitting!
+7750 17th Ave NE Seattle, WA 98115 info@gerrypollet.com Paid for by Gerry Pollet for State Representative bottom of page

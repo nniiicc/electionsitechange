@@ -1,20 +1,17 @@
-Senator O'Mara's weekly column 'From the Capitol' -- for the week of September 28, 2026 -- 'Albany should heed latest warning on all-electric mandates'
-The current timeline for implementing New York State’s all-electric school bus mandate, even taking into account its latest extension, raises far too many troubling questions on affordability, as well as on reliability and safety for student transportation to simply delay it for a relatively brief period.
+top of page About Support Us News Contact Donate More...
+Use tab to navigate through the menu items.
+DONATE All Posts Search Senator O'Mara's weekly column 'From the Capitol' -- for the week of September 28, 2026 -- 'Albany should heed latest warning on all-electric mandates' omaranysenate Sep 28 4 min read The current timeline for implementing New York State’s all-electric school bus mandate, even taking into account its latest extension, raises far too many troubling questions on affordability, as well as on reliability and safety for student transportation to simply delay it for a relatively brief period.
 Senator O'Mara offers his weekly perspective on many of the key challenges and issues facing the Legislature, as well as on legislative actions, local initiatives, state programs and policies, and more.
 Stop back every Monday for Senator O'Mara's latest column...
-"With its long-planned shift to a zero-emissions bus fleet slowed by underperforming electric technology, the MTA plans to order 650 new coaches that rely on compressed natural gas."
-That was the opening paragraph in a recent news article out of New York City, where the Metropolitan Transportation Authority (MTA), the largest public transportation system in the United States and all of North America, delivered the latest and most damning admission that electric buses are not ready for prime time.
+This week, "Albany should heed latest warning on all-electric mandates" "With its long-planned shift to a zero-emissions bus fleet slowed by underperforming electric technology, the MTA plans to order 650 new coaches that rely on compressed natural gas." That was the opening paragraph in a recent news article out of New York City, where the Metropolitan Transportation Authority (MTA), the largest public transportation system in the United States and all of North America, delivered the latest and most damning admission that electric buses are not ready for prime time.
 It's become tiresome to keep saying "I told you so" to Albany Democrats, but I and our entire Republican Conference have warned about this since the beginning of their unreasonable and unrealistic push for the electrification of everything under their Green New Deal CLCPA.
 In fact, it's become a bipartisan warning.
-An audit in August from State Comptroller Tom DiNapoli determined that the MTA"is unlikely to meet its 2040 target for replacing its 5,800-bus fleet with zero-emission buses."
-The comptroller said, "The MTA has set an ambitious goal to transform the nation's largest bus fleet to 100 percent zero-emission.
-Unfortunately, this audit identified multiple challenges that have put its 2040 target in jeopardy."
-Now, shortly after the release of the comptroller's audit, the MTA is pulling back.
+An audit in August from State Comptroller Tom DiNapoli determined that the MTA"is unlikely to meet its 2040 target for replacing its 5,800-bus fleet with zero-emission buses." The comptroller said, "The MTA has set an ambitious goal to transform the nation's largest bus fleet to 100 percent zero-emission.
+Unfortunately, this audit identified multiple challenges that have put its 2040 target in jeopardy." Now, shortly after the release of the comptroller's audit, the MTA is pulling back.
 The MTA currently has only 75 electric buses.
 It was supposed to receive 485 of the next 500 by the end of 2024, but only one bus had been delivered by June 2025, according to the comptroller's office.
 "The electric buses that we have tested so far have not been up to standards," MTA Chair and CEO Janno Lieber said at an unrelated press conference.
-"They break down too frequently."
-In addition to the unavailability and unreliability, the cost of the e-buses has grown from $1.3 million each to $1.8 million -- far more expensive than a comparable CNG bus at $950,000.
+"They break down too frequently." In addition to the unavailability and unreliability, the cost of the e-buses has grown from $1.3 million each to $1.8 million -- far more expensive than a comparable CNG bus at $950,000.
 A CNG bus will last 12 to 14 years.
 An e-bus will need new batteries around year 7 at a cost of several hundred thousand dollars.
 The MTA's experience is not unlike Ithaca's TCAT foray into electric buses in 2021, when the seven e-buses they purchased ultimately had to be removed from service and decommissioned.
@@ -42,3 +39,6 @@ Our Western New York colleague, Senator George Borrello, has also introduced sim
 America's largest public transportation system just admitted that its rush into an all-electric bus fleet isn't working and won't work.
 It's an enormously expensive rush to nowhere.
 Let's hope Albany Democrats are paying attention and get their heads out of the clouds and back to reality.
+Recent Posts See All New York's 'voice for small business' names O’Mara 2026 ‘Guardian of Small Business’ Senator O'Mara's weekly column 'From the Capitol' -- for the week of October 5, 2026 -- 'Tax-and-spend government leading to a downfall' O'Mara, Senate colleagues hold energy roundtable: Today’s roundtable discussion centered on large-scale solar projects, their impacts on local communities “The future cannot be predicted, but we can build a foundation for it and influence its development.” Email : omaraforsenate@gmail.com Get Email Updates Enter your email here Sign Up!
+Thanks for submitting!
+FRIENDS OF TOM O’MARA - PO Box 428, Elmira, NY 14902 Quick Links About Support Us News Events Contact © # O'Mara for Senate -- NYS Senate Republican Campaign Committee bottom of page

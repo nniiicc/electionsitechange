@@ -1,6 +1,4 @@
-Senator Albers: Week Two Under the Gold Dome
-Friday, January 19, 2024
-During our second week of the 2024 Georgia Legislative Session, I welcomed the opportunity to listen to budget presentations from the leaders of various state agencies.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back Senator Albers: Week Two Under the Gold Dome Friday, January 19, 2024 During our second week of the 2024 Georgia Legislative Session, I welcomed the opportunity to listen to budget presentations from the leaders of various state agencies.
 Budget week, as it is coined under the Gold Dome, is a tremendous opportunity for legislators to dialogue with these leaders and learn how their needs correlate with the needs of hardworking Georgians.
 In addition to thanking Chairmen of the Senate and House Committees on Appropriations, Sen.
 Blake Tillery (R–Vidalia) and Rep.
@@ -20,8 +18,7 @@ As the legislature returns to regular session next week, I will continue to comm
 Kemp and the rest of the General Assembly to promote further progress for Georgians across the state in the coming months.
 As always, I appreciate any feedback you might have concerning current or future legislation.
 Please do not hesitate to reach out to my office if I can be of assistance regarding legislative matters.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

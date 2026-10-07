@@ -1,12 +1,10 @@
-The Sun Journal published a story about legislative candidates’ ideas for youth gun violence.
+Go All In With Me!
+Donate  English Français Português العربية Donate Home Meet Shanna Issues Endorsements Endorse Shanna Get Involved Volunteer Events Voting Info Contact News  Menu Donate  Close Donate Home Meet Shanna Issues Endorsements Endorse Shanna Get Involved Volunteer Events Voting Info Contact News  English Français Português العربية Follow Follow What will Lewiston’s legislative candidates do about youth gun violence?
+August 13, 2026 In The News | Story The Sun Journal published a story about legislative candidates' ideas for youth gun violence.
+Joe Charpentier also published individual articles with each candidate's full responses, which I applaud - though the paywall makes it tough for people to access, which is why I am sharing my full response here.
+The link to both articles are […] The Sun Journal published a story about legislative candidates’ ideas for youth gun violence.
 Joe Charpentier also published individual articles with each candidate’s full responses, which I applaud – though the paywall makes it tough for people to access, which is why I am sharing my full response here.
 The link to both articles are at the bottom.
-What will Lewiston’s legislative candidates do about youth gun violence?
-August 13, 2026
-In The News | Story
-The Sun Journal published a story about legislative candidates' ideas for youth gun violence.
-Joe Charpentier also published individual articles with each candidate's full responses, which I applaud - though the paywall makes it tough for people to access, which is why I am sharing my full response here.
-The link to both articles are […]
 From your understanding, what is the biggest obstacle in curbing youth gun violence?
 What legislative changes would you work on to better remedy the issue?
 The greatest obstacle is that we are working in silos.
@@ -66,3 +64,7 @@ But “we cannot do it alone” cannot be where the conversation ends.
 It must be where leadership begins.
 Government has a responsibility to provide reliable information, coordinate the work, bring resources, and act with urgency.
 The rest of us have a responsibility to be part of the solution.
+View this article on the Sun Journal View the overview of all candidates responses View individual candidates full responses Donate Follow Follow ShannaForMaine@gmail.com PO Box 473 Lewiston, ME 04240 Paid for and Authorized by Shanna Cox for Maine Senate © Copyright #.
+All Rights Reserved.
+Shanna Cox for Maine Senate.
+Handcrafted in Lewiston | Tide Pool Creative

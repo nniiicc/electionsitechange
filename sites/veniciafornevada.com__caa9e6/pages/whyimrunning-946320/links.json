@@ -1,11 +1,42 @@
 [
-"https://instagram.com/veniciag",
-"https://secure.actblue.com/entities/89139",
-"https://twitter.com/Nv18Venicia",
-"https://veniciafornevada.com/",
-"https://veniciafornevada.com/about",
-"https://veniciafornevada.com/endorsements",
-"https://veniciafornevada.com/event-list",
-"https://veniciafornevada.com/volunteer",
-"https://veniciafornevada.com/whyimrunning"
+{
+"text": "ABOUT VENICIA",
+"href": "https://www.veniciafornevada.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/entities/89139/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.veniciafornevada.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.veniciafornevada.com/event-list"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.veniciafornevada.com/volunteer"
+},
+{
+"text": "WHY I'M RUNNING",
+"href": "https://www.veniciafornevada.com/whyimrunning"
+},
+{
+"text": "[image: 0.png]",
+"href": "https://www.veniciafornevada.com"
+},
+{
+"text": "[image: Venicia on Instagram]",
+"href": "https://www.instagram.com/veniciag/"
+},
+{
+"text": "[image: Venicia on Twitter]",
+"href": "https://twitter.com/Nv18Venicia"
+},
+{
+"text": "venicia@veniciafornevada.com",
+"href": "mailto:venicia@veniciafornevada.com"
+}
 ]

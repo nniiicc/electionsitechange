@@ -1,7 +1,11 @@
 {
  "description": "NORMAN - Annie Menz won the Democratic primary for House District 45 and will advance to the November general election. Coming into 93.1% of the vote.",
  "final_url": "https://www.anniemenz.com/news/rep-annie-menz-wins-primary-election",
- "paid_for_by": null,
+ "fingerprint": "4dbda486f94b91b40df9158ed61fbd4a83818955",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Annie Menz 2026 You need to enable JavaScript to run this app",
  "title": "Rep. Annie Menz wins Primary Election",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

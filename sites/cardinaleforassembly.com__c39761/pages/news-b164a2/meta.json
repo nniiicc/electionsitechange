@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.cardinaleforassembly.com/news",
- "paid_for_by": null,
+ "fingerprint": "15be9440853c55d2cdef2f0d2c1e89b037c407eb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | CardinaleForAssembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

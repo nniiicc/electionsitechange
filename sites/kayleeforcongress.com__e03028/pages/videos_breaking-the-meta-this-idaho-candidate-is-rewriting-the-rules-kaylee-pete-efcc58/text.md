@@ -1,6 +1,11 @@
-Breaking the Meta - This Idaho Candidate Is REWRITING THE RULES | Kaylee Peterson
-Kaylee Peterson won Idaho's Democratic primary with nearly 90% — now she's trying to flip one of the reddest districts in America against Rep.
+0 Skip to Content Platform About About Kaylee District 1 Volunteer Events Videos Merch English Donate Open Menu Close Menu English Donate Platform About About Kaylee District 1 Volunteer Events Videos Merch Open Menu Close Menu Platform Folder: About Back About Kaylee District 1 Volunteer Events Videos Merch English Back Donate Breaking the Meta - This Idaho Candidate Is REWRITING THE RULES | Kaylee Peterson Jul 2 Written By Adam Bennett Kaylee Peterson won Idaho's Democratic primary with nearly 90% — now she's trying to flip one of the reddest districts in America against Rep.
 Russ Fulcher.
 She's back on Breaking the Meta for the first time since our very first interview.
 In a district the size of four states — 12 hours end to end, 1.2 million people, 63% federally owned — Kaylee lays out why she believes there's a real path to victory for the first time ever, why she says she doesn't need a single Republican vote to win, and how she reaches rural, working-class voters without compromising a single progressive policy.
 We get into the working-class movement waking up across rural Idaho, the tariffs that cost 15,000 farms and 360,000 jobs, the war in Iran and rural gas prices, the gutting of the Voting Rights Act, whether the Constitution should be rewritten, and the day ICE zip-tied children at a community fair in Wilder, Idaho.
+Adam Bennett Previous Previous (REPLAY) The Virtual Debate: Kaylee Peterson vs.
+Russ Fulcher*(in absentia) - July 8th 2026 Next Next Kaylee Peterson on Rural Politics, Public Lands & DC Chaos - Beers, Buds & The Big Sky Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Join my mailing list to stay up to date as we work to connect with voters all across Idaho’s First Congressional District First Name Last Name Email Address Sign Up We’ll never rent, sell, or otherwise abuse your information Thank you !
+Keep an eye on your inbox for updates and news from my campaign Connect with my campaign Mailing Address P.O.
+Box 302 Eagle, ID 83616 Contact hello@kayleeforcongress.com 208.997.7919 Paid for by the Kaylee for Congress committee Political donations are not tax exempt Privacy policy

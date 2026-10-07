@@ -1,5 +1,6 @@
-Houston Chronicle Opinion: We recommend Lizzie Fletcher for the 7th Congressional District
-Fletcher has had a productive four years in Congress, and she deserves two more.
-Congresswoman Lizzie Fletcher Highlights Threats to Texans’ Reproductive Freedom in General Election Ad
-Today, Congresswoman Lizzie Fletcher (TX-07) released her first television ad of the election cycle, “Freedom.” The 30-second spot will run on Houston cable and broadcast stations through election day as part of a six-figure buy.
+Skip to content About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store Menu About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store CONTRIBUTE Day: October 4, 2022 Houston Chronicle Opinion: We recommend Lizzie Fletcher for the 7th Congressional District Fletcher has had a productive four years in Congress, and she deserves two more.
+Congresswoman Lizzie Fletcher Highlights Threats to Texans’ Reproductive Freedom in General Election Ad Today, Congresswoman Lizzie Fletcher (TX-07) released her first television ad of the election cycle, “Freedom.” The 30-second spot will run on Houston cable and broadcast stations through election day as part of a six-figure buy.
 It is a call to action to voters on a critical issue facing all Texans: the rollback of Texans’ rights and freedoms, including access to abortion.
+FOLLOW LIZZIE Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

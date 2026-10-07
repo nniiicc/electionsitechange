@@ -1,7 +1,9 @@
 {
- "description": "Get the latest news and updates from Nick\u2019s campaign.",
+ "description": "Get the latest news and updates from Nick’s campaign.",
  "final_url": "https://www.upballot.com/nick-kimble/news/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
- "title": "News & Updates from Nick KimbleNews & Updates from Nick Kimble",
+ "fingerprint": "7aecf44df8c4ac7fa813737c352e0ea58e41ac86",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "title": "News & Updates from Nick Kimble",
  "years_mentioned": []
 }

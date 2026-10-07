@@ -1,16 +1,2 @@
-Home
-Biography
-Issues
-News
-Scholarships
-Get Involved
-Contact
-Home
-Biography
-Issues
-News
-Scholarships
-Get Involved
-Contact
-Contribute
-Gallery
+Home Biography Issues News Scholarships Get Involved Contact Home Biography Issues News Scholarships Get Involved Contact Contribute Gallery Twitter Facebook Dribbble Youtube Pinterest Medium Twitch Linkedin Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram By authority citizens for Kris Valderrama Treasurer: Abraham Lobo Website Developed by Core Digital Expansion Copyright # Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram BY AUTHORITY: Citizens for Kris Valderrama, Abraham Lobo, Treasurer.
+Website Developed by Core Digital Expansion Copyright #

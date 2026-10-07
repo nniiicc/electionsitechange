@@ -1,5 +1,27 @@
-Dear Neighbor,
-Now that the 2025 Legislative Session is over, I would like to take a few moments to update you on some of the good things we worked on.
+About Legislation Volunteer District 49 Voter Registration Donate New Mexico House of Representatives, District 49 Gail “Missy” Armstrong learn more representing District 49 & Republican House Caucus Leader Gail “Missy” Armstrong was born in Socorro, NM and raised in both Socorro and Catron Counties.
+She is a lifelong resident of the area.
+Before being appointed to the House of Representatives to represent District 49, Gail served her community in many ways over the years.
+She has strong roots and a deep love for the communities she serves.
+As a businesswoman, rancher, mother, and wife, Gail is focused on preserving Catron, Socorro, and Valencia counties.
+2025 Constituent Letter priorities Lorem ipsum ▸ Water Conservation I intend to collaborate with other representatives, seeking common ground legislation, which will ensure the responsible use of our water.
+Water is one of our states most valuable resources and critical to the families in my district.
+Policies governing the use of our water must balance the rights and privileges of all parties affected, now and for generations to come. ▸ Farming and Ranching I will work for mutually beneficial solutions that respect and honor the rich history and continued importance of farming and ranching in our state.
+Agriculture is a common sense industry that requires greater support and fewer regulations, maximizing flexibility and stability, free of artificially imposed regulatory barriers. ▸ Economic Development I will work to unite the House related to legislation that promotes responsible economic development in our area.
+Smaller rural communities deserve the attention and priority experienced by larger cities.
+I believe we can preserve the historical significance of our communities while ensuring a future for our families. ▸ Education in New Mexico I will support a common ground effort that is designed to improve the direction of education in New Mexico.
+By removing barriers we will maintain a balance between compliance and creative solutions for all stakeholders.
+The time is now to set partisan politics aside to ensure that we move forward on this critical issue. ▸ Health and Public Safety I will build relationships across party lines to ensure the health and security of all New Mexicans.
+We need to establish a clear distinction between crime, mental health, and the social issues we face in our communities.
+Our courts must be allowed to dedicate their resources to prosecuting violent criminals who threaten the safety of our families.
+Committed to Our Community Gail is widely respected for her ability to work across the aisle and is known for her fairness and integrity.
+She is a relentless advocate for what is right for New Mexico, always putting her constituents’ needs first.
+Gail has served as a State Representative for District 49 since 2017, and is also the Republican Caucus Chair since 2022.
+Her passion is to ensure that the rural New Mexican communities have a voice in Santa Fe.
+Gail Armstrong continues to be a dedicated and effective representative, working tirelessly for the people of District 49. get involved Volunteer or submit a scheduling request today.
+Participation from voters like you allows Gail to continue representing your district.
+Get Involved Today NM State Representative District 49, Gail Armstrong | P.O.
+Box 326 Magdalena N.M.
+87825 | 505-269-2364 | gail@gailfornewmexico.com Copyright © # Dear Neighbor, Now that the 2025 Legislative Session is over, I would like to take a few moments to update you on some of the good things we worked on.
 As you may know, I was recently elected by my fellow House Republicans to serve as the Minority Floor Leader.
 This has been an incredible honor and one that I take very seriously.
 When first elected to office, I took an oath to uphold the state and federal constitutions and to be a leader on issues that would put the people of our state first.
@@ -20,7 +42,4 @@ I am also proud of helping to stop one of the largest tax increases in our state
 Representing you in the State Legislature continues to be an honor, and I look forward to working with you over the next several years to make meaningful progress for our community.
 Please don't hesitate to reach out to me if there's anything I can do to help, or if you have thoughts or concerns you'd like to share.
 I always value hearing from the people of House District 49.
-Sincerely,
-Gail Armstrong
-House Republican Floor Leader
-District 49
+Sincerely, Gail Armstrong House Republican Floor Leader District 49

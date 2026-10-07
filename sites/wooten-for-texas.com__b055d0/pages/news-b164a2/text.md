@@ -1,17 +1,8 @@
-top of page
-Blog Posts and Editorials
-Search
-GUN SAFETY: SENSIBLE SOLUTIONS
-Gun Safety: Sane and Sensible Regulations Everyone, no matter their political persuasion, should agree that mass shootings are out of...
-Jun 5, 20222 min read
-Women's Right to Choose Reproductive Options
-Controversy about Abortion Rights for Women On the 49th Anniversary of Roe V.
+top of page Dr.
+Denise Wooten Advocacy for All Texans DONATE Home About Issues Events Voter Information Election Information HD-63 Map Register to Vote Get Involved Endorsements Articles Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Blog Posts and Editorials All Articles Search GUN SAFETY: SENSIBLE SOLUTIONS Gun Safety: Sane and Sensible Regulations Everyone, no matter their political persuasion, should agree that mass shootings are out of...
+Jun 5, 2022 2 min read Women's Right to Choose Reproductive Options Controversy about Abortion Rights for Women On the 49th Anniversary of Roe V.
 Wade, which established women’s federal right to secure an...
-May 4, 20223 min read
-STOP THE INSANITY
-Stop the Insane Political Polarization and Divisiveness After amusing myself by using the word “insane,” as I am, after all, a...
-May 4, 20223 min read
-A PSYCHOLOGIST'S PERSPECTIVE ON GENDER DYSPHORIA AND TRANSGENDER RIGHTS
-As a psychologist, I see the sadness, worry, angst, and anxiety that children and families have when the child finally gathers the...
-Mar 10, 20223 min read
-bottom of page
+May 4, 2022 3 min read STOP THE INSANITY Stop the Insane Political Polarization and Divisiveness After amusing myself by using the word “insane,” as I am, after all, a...
+May 4, 2022 3 min read A PSYCHOLOGIST'S PERSPECTIVE ON GENDER DYSPHORIA AND TRANSGENDER RIGHTS As a psychologist, I see the sadness, worry, angst, and anxiety that children and families have when the child finally gathers the...
+Mar 10, 2022 3 min read bottom of page

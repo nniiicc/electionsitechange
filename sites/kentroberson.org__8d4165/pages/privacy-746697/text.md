@@ -1,46 +1,12 @@
-This Privacy Policy explains how kentroberson.org and Friends of Kent Roberson collects, uses, shares, and protects information when you visit our website, submit forms, sign up for updates, or otherwise interact with our online services.
+EN Translate: Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy More Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy EN Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy Privacy Policy This Privacy Policy explains how kentroberson.org and Friends of Kent Roberson collects, uses, shares, and protects information when you visit our website, submit forms, sign up for updates, or otherwise interact with our online services.
 We are committed to protecting your privacy and ensuring transparency in how your information is handled.
 By using this website, you consent to the practices described in this Privacy Policy.
-Information We Collect
-Information You Provide Directly
-We may collect personal information that you voluntarily provide, including:
-- Name
-- Email address
-- Phone number
-- Mailing address
-- Scholarship application information
-- Volunteer sign‑up information
-- Donation‑related information (processed through third‑party payment providers)
-- Any messages or inquiries submitted through our contact forms
-Information Collected Automatically
-When you visit the site, we may automatically collect:
-- IP address
-- Browser type and version
-- Device information
-- Pages visited and time spent
-- Referring website
-- Cookies and similar tracking technologies
-This information helps us improve website performance and user experience.
-How We Use Your Information
-We use collected information to:
-- Respond to your inquiries
-- Process scholarship applications
-- Manage volunteer participation
-- Send newsletters, updates, and event information
-- Improve website functionality and security
-- Comply with legal obligations
-- Support campaign‑related communications as permitted by law
-We do not sell your personal information.
-How We Share Your Information
-We may share your information only in the following circumstances:
-- Service Providers: With trusted vendors who assist with website hosting, email distribution, payment processing, or data management.
-- Legal Requirements: If required by law, subpoena, or government request.
-- Campaign Compliance: As required by Maryland campaign finance laws.
+Information We Collect Information You Provide Directly We may collect personal information that you voluntarily provide, including: Name Email address Phone number Mailing address Scholarship application information Volunteer sign‑up information Donation‑related information (processed through third‑party payment providers) Any messages or inquiries submitted through our contact forms Information Collected Automatically When you visit the site, we may automatically collect: This information helps us improve website performance and user experience.
+How We Use Your Information We use collected information to: Respond to your inquiries Process scholarship applications Manage volunteer participation Send newsletters, updates, and event information Improve website functionality and security Comply with legal obligations Support campaign‑related communications as permitted by law We do not sell your personal information.
+How We Share Your Information We may share your information only in the following circumstances: Service Providers: With trusted vendors who assist with website hosting, email distribution, payment processing, or data management.
+Legal Requirements: If required by law, subpoena, or government request.
+Campaign Compliance: As required by Maryland campaign finance laws.
 We do not share your information with third parties for their own marketing purposes.
-Friends of Kent Roberson maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or legal obligation
-Opt-Out instructions
-SMS Opt-Out: If you are receiving text messages from us and wish to stop receiving them, simply respond with either "STOP" or "UNSUBSCRIBE" to the number from which you received the message.
+Friends of Kent Roberson maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or legal obligation Opt-Out instructions SMS Opt-Out: If you are receiving text messages from us and wish to stop receiving them, simply respond with either "STOP" or "UNSUBSCRIBE" to the number from which you received the message.
 Once we receive your message, you will no longer receive further text messages from us.
-Contact Us
-If you have questions about this Privacy Policy or how your information is used, please contact:
-Friends of Kent Roberson Email: Kentaroberson@gmail.com
+Contact Us If you have questions about this Privacy Policy or how your information is used, please contact: Friends of Kent Roberson Email: Kentaroberson@gmail.com By Authority of Friends of Kent Roberson, Latesha Jackson, Treasurer Powered by Donate

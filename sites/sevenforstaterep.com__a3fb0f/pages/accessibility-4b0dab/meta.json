@@ -1,7 +1,9 @@
 {
  "description": "A site that works for ALL the people. The Seven Siegel campaign is committed to web accessibility and working toward WCAG 2.1 AA. Tell us about any barriers you encounter.",
  "final_url": "https://www.sevenforstaterep.com/accessibility",
- "paid_for_by": null,
+ "fingerprint": "686e79f37888544ba8360ac8ab60e4540ba9cfbb",
+ "format": 3,
+ "paid_for_by": "authorized by the Candidate",
  "title": "Accessibility | Seven Siegel for State Rep",
  "years_mentioned": [
   "2026"

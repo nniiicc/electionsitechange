@@ -1,47 +1,186 @@
 [
-"http://linkedin.com/pub/sean-m-lynn/21/528/5b1",
-"https://facebook.com/seanlynnforthe31st",
-"https://ivote.de.gov/",
-"https://winwithlynn.org/about_sean.html",
-"https://winwithlynn.org/campaign_gallery.html",
-"https://winwithlynn.org/contact_sean.php",
-"https://winwithlynn.org/endorsements.html",
-"https://winwithlynn.org/images/4th_aafest/4th.jpg",
-"https://winwithlynn.org/images/4th_aafest/4th1.jpg",
-"https://winwithlynn.org/images/4th_aafest/4th2.jpg",
-"https://winwithlynn.org/images/4th_aafest/4th3.jpg",
-"https://winwithlynn.org/images/4th_aafest/4th4.jpg",
-"https://winwithlynn.org/images/4th_aafest/aafest.jpg",
-"https://winwithlynn.org/images/4th_aafest/aafest1.jpg",
-"https://winwithlynn.org/images/4th_aafest/aafest2.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas1.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas10.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas11.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas12.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas13.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas14.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas2.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas3.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas4.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas5.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas6.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas7.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas8.jpg",
-"https://winwithlynn.org/images/bubbas/bubbas9.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty1.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty2.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty3.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty4.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty5.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty6.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty7.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty8.jpg",
-"https://winwithlynn.org/images/frazparty/frazparty9.jpg",
-"https://winwithlynn.org/images/frazparty/lynnbros.jpg",
-"https://winwithlynn.org/index.html",
-"https://winwithlynn.org/legislation.html",
-"https://winwithlynn.org/news.html",
-"https://winwithlynn.org/the_issues.html",
-"https://winwithlynn.org/voter_resources.html"
+{
+"text": "About Sean",
+"href": "https://winwithlynn.org/about_sean.html"
+},
+{
+"text": "Campaign News",
+"href": "https://winwithlynn.org/news.html"
+},
+{
+"text": "Contact",
+"href": "https://winwithlynn.org/contact_sean.php"
+},
+{
+"text": "Endorsements",
+"href": "https://winwithlynn.org/endorsements.html"
+},
+{
+"text": "Gallery",
+"href": "https://winwithlynn.org/campaign_gallery.html"
+},
+{
+"text": "Home",
+"href": "https://winwithlynn.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://winwithlynn.org/the_issues.html"
+},
+{
+"text": "Legislation",
+"href": "https://winwithlynn.org/legislation.html"
+},
+{
+"text": "Resources",
+"href": "https://winwithlynn.org/voter_resources.html"
+},
+{
+"text": "[image: Brian Lynn &]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas13.jpg"
+},
+{
+"text": "[image: Front of Building]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas1.jpg"
+},
+{
+"text": "[image: Jessica Maxwell, Stacey Delorenzo]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas5.jpg"
+},
+{
+"text": "[image: Justina Brewington]",
+"href": "https://winwithlynn.org/images/4th_aafest/aafest1.jpg"
+},
+{
+"text": "[image: Justina Brewington]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty.jpg"
+},
+{
+"text": "[image: Kevin Roach]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas14.jpg"
+},
+{
+"text": "[image: Mike Hines Entertaining the Crowd]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas9.jpg"
+},
+{
+"text": "[image: Mrs Lynn & Mike Hines]",
+"href": "https://winwithlynn.org/images/4th_aafest/aafest.jpg"
+},
+{
+"text": "[image: Mrs Lynn & Mike Hines]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty2.jpg"
+},
+{
+"text": "[image: Part of the Lynn Family]",
+"href": "https://winwithlynn.org/images/4th_aafest/4th.jpg"
+},
+{
+"text": "[image: Part of the Lynn Family]",
+"href": "https://winwithlynn.org/images/frazparty/lynnbros.jpg"
+},
+{
+"text": "[image: Sean & Bonnie Snowberger]",
+"href": "https://winwithlynn.org/images/4th_aafest/4th3.jpg"
+},
+{
+"text": "[image: Sean & Bonnie Snowberger]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty7.jpg"
+},
+{
+"text": "[image: Sean & Juan Collazo]",
+"href": "https://winwithlynn.org/images/4th_aafest/4th2.jpg"
+},
+{
+"text": "[image: Sean & Juan Collazo]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty1.jpg"
+},
+{
+"text": "[image: Sean & Mary Davis]",
+"href": "https://winwithlynn.org/images/4th_aafest/aafest2.jpg"
+},
+{
+"text": "[image: Sean & Mary Davis]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty4.jpg"
+},
+{
+"text": "[image: Sean & Mike Hines]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas12.jpg"
+},
+{
+"text": "[image: Sean & The Campaign Commitee]",
+"href": "https://winwithlynn.org/images/4th_aafest/4th1.jpg"
+},
+{
+"text": "[image: Sean & The Campaign Commitee]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty3.jpg"
+},
+{
+"text": "[image: Sean]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas7.jpg"
+},
+{
+"text": "[image: Stacey Delorenzo & Jessica Maxwell]",
+"href": "https://winwithlynn.org/images/4th_aafest/4th4.jpg"
+},
+{
+"text": "[image: Stacey Delorenzo & Jessica Maxwell]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty8.jpg"
+},
+{
+"text": "[image: Stacey Delorenzo & Mike Hines]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty5.jpg"
+},
+{
+"text": "[image: Stacey Delorenzo, Kevin Roach, Jessica Maxwell]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas11.jpg"
+},
+{
+"text": "[image: Stacey Delorenzo]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas2.jpg"
+},
+{
+"text": "[image: The Fabulous Bartenders]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas6.jpg"
+},
+{
+"text": "[image: Tim Slavin & Rueben Salters]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty6.jpg"
+},
+{
+"text": "[image]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas10.jpg"
+},
+{
+"text": "[image]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://winwithlynn.org/images/bubbas/bubbas8.jpg"
+},
+{
+"text": "[image]",
+"href": "https://winwithlynn.org/images/frazparty/frazparty9.jpg"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/pub/sean-m-lynn/21/528/5b1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/seanlynnforthe31st"
+},
+{
+"text": "[no text]",
+"href": "mailto:weallwinwithlynn@gmail.com"
+},
+{
+"text": "iVote.De.Gov",
+"href": "https://ivote.de.gov/"
+}
 ]

@@ -1,6 +1,6 @@
-Host a Coffee Talk
-Thank you for your interest in hosting a Coffee Talk!
+0 Skip to Content Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Meet Lynne About Values Get Involved Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Open Menu Close Menu Home Priorities Cost of Living Plan Rebuild WNC Activities & Events Folder: Meet Lynne Back About Values Folder: Get Involved Back Volunteer Newsletter Host a Coffee Talk Host an Event Voter Registration News Donate Host a Coffee Talk Thank you for your interest in hosting a Coffee Talk!
 These gatherings are simple, meaningful, and fun — typically 8–12 people in a living room, kitchen, or local spot.
 Once you sign up, my team will provide everything you need to make hosting effortless, including a customizable invitation you can share with your guests and a thank-you note to send afterward.
 Your only job is to invite a few friends and/or neighbors.
 Together, we’ll create a space where neighbors feel heard, ideas are welcomed, and everyone leaves knowing they’re part of something bigger.
+DONATE VOLUNTEER contact@lynnerussofornc.com Friends of Lynne Russo | PO Box 92, Horse Shoe, NC 28742 PRIVACY POLICY Paid for by Friends of Lynne Russo

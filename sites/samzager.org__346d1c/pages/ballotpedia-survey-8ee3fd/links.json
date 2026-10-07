@@ -1,18 +1,78 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://ballotpedia.org/Main_Page",
-"https://ballotpedia.org/Samuel_Zager",
-"https://mainehousedemocrats.com/volunteer2026",
-"https://pressherald.com/2018/03/27/maine-voices-medicaid-can-do-so-much-for-mainers-why-does-governor-resist-expansion",
-"https://pressherald.com/2020/04/11/commentary-by-sounding-alarm-about-covid-navy-captain-exemplifies-ship-shipmate-self",
-"https://samzager.org/",
-"https://samzager.org/ballotpedia-survey",
-"https://samzager.org/endorsers",
-"https://samzager.org/leadership-and-education",
-"https://samzager.org/news",
-"https://samzager.org/priorities",
-"https://samzager.org/show-your-support",
-"https://samzager.org/taking-a-stand",
-"https://samzager.org/what-others-say",
-"https://youtube.com/watch?v=z5i9vT8wGY8"
+{
+"text": "Ballotpedia Survey",
+"href": "https://samzager.org/ballotpedia-survey/"
+},
+{
+"text": "Ballotpedia’s",
+"href": "https://ballotpedia.org/Main_Page"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Endorsers",
+"href": "https://samzager.org/endorsers/"
+},
+{
+"text": "Home",
+"href": "https://samzager.org/"
+},
+{
+"text": "I wrote an OpEd about leadership in this context.",
+"href": "https://www.pressherald.com/2020/04/11/commentary-by-sounding-alarm-about-covid-navy-captain-exemplifies-ship-shipmate-self/"
+},
+{
+"text": "Leadership and Education",
+"href": "https://samzager.org/leadership-and-education/"
+},
+{
+"text": "News",
+"href": "https://samzager.org/news/"
+},
+{
+"text": "Please consider contributing $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Priorities",
+"href": "https://samzager.org/priorities/"
+},
+{
+"text": "Show your support",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Stand By Me",
+"href": "https://www.youtube.com/watch?v=z5i9vT8wGY8"
+},
+{
+"text": "Taking a Stand",
+"href": "https://samzager.org/taking-a-stand/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mainehousedemocrats.com/volunteer2026"
+},
+{
+"text": "What Others Say",
+"href": "https://samzager.org/what-others-say/"
+},
+{
+"text": "[image]",
+"href": "https://samzager.org"
+},
+{
+"text": "his story of overcoming substance abuse through evidence-based treatment",
+"href": "https://www.pressherald.com/2018/03/27/maine-voices-medicaid-can-do-so-much-for-mainers-why-does-governor-resist-expansion/"
+},
+{
+"text": "read the original survey questions and answers here",
+"href": "https://ballotpedia.org/Samuel_Zager#Campaign_themes"
+},
+{
+"text": "review my published writings, speeches, and public testimony",
+"href": "https://samzager.org/taking-a-stand/"
+}
 ]

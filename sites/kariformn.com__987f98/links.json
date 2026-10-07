@@ -1,19 +1,94 @@
 [
-"https://bsky.app/profile/rehrauer.bsky.social",
-"https://cfb.mn.gov/citizen-resources/board-programs/public-subsidy-of-campaigns/political-contribution-refund-program",
-"https://facebook.com/kariformn",
-"https://flickr.com/photos/196213607@N02/sets/72177720301085010",
-"https://kariformn.com/",
-"https://kariformn.com/about-kari",
-"https://kariformn.com/endorsements",
-"https://kariformn.com/get-involved",
-"https://kariformn.com/priorities",
-"https://secure.actblue.com/donate/kari-for-minnesota-1",
-"https://secure.actblue.com/donate/kari-for-minnesota-1?amount=100",
-"https://secure.actblue.com/donate/kari-for-minnesota-1?amount=25",
-"https://secure.actblue.com/donate/kari-for-minnesota-1?amount=250",
-"https://secure.actblue.com/donate/kari-for-minnesota-1?amount=50",
-"https://secure.actblue.com/donate/kari-for-minnesota-1?amount=500",
-"https://secure.actblue.com/donate/kari-for-minnesota-1?amount=75",
-"https://techforcampaigns.org/"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1?amount=75"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rehrauer.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1"
+},
+{
+"text": "Endorsements",
+"href": "https://kariformn.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/kariformn"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/196213607@N02/sets/72177720301085010/"
+},
+{
+"text": "Get Involved",
+"href": "https://kariformn.com/get-involved/"
+},
+{
+"text": "Kari For Minnesota",
+"href": "https://kariformn.com/"
+},
+{
+"text": "Learn More",
+"href": "https://kariformn.com/priorities/"
+},
+{
+"text": "Learn More About Kari",
+"href": "https://kariformn.com/about-kari/"
+},
+{
+"text": "Learn more.",
+"href": "https://cfb.mn.gov/citizen-resources/board-programs/public-subsidy-of-campaigns/political-contribution-refund-program/"
+},
+{
+"text": "Meet Kari",
+"href": "https://kariformn.com/about-kari/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/kari-for-minnesota-1"
+},
+{
+"text": "Priorities",
+"href": "https://kariformn.com/priorities/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "View All Endorsements",
+"href": "https://kariformn.com/endorsements"
+},
+{
+"text": "[image: Kari For Minnesota]",
+"href": "https://kariformn.com/"
+},
+{
+"text": "info@kariformn.com",
+"href": "mailto:info@kariformn.com"
+}
 ]

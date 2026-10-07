@@ -1,11 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61584941790418",
-"https://instagram.com/jessicabichlernc",
-"https://jessicabichler.com/",
-"https://jessicabichler.com/issues",
-"https://jessicabichler.com/meetjessica",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://secure.actblue.com/donate/jb-website",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jb-website"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Home",
+"href": "https://www.jessicabichler.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jessicabichler.com/issues"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.jessicabichler.com"
+},
+{
+"text": "Meet Jessica",
+"href": "https://www.jessicabichler.com/meetjessica"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584941790418"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jessicabichlernc/"
+},
+{
+"text": "[image: Jessica Bichler for NC Senate logo wilmington]",
+"href": "https://www.jessicabichler.com"
+}
 ]

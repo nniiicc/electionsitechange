@@ -1,14 +1,54 @@
 [
-"https://deanrummel.com/contact",
-"https://deanrummel.com/home",
-"https://deanrummel.com/news",
-"https://secure.winred.com/rummel-for-senate/donate",
-"https://secure.winred.com/rummel-for-senate/donate?amount=100",
-"https://secure.winred.com/rummel-for-senate/donate?amount=1000",
-"https://secure.winred.com/rummel-for-senate/donate?amount=200",
-"https://secure.winred.com/rummel-for-senate/donate?amount=25",
-"https://secure.winred.com/rummel-for-senate/donate?amount=2500",
-"https://secure.winred.com/rummel-for-senate/donate?amount=50",
-"https://secure.winred.com/rummel-for-senate/donate?amount=500",
-"https://secure.winred.com/rummel-for-senate/donate?amount=other"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=1000"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=25"
+},
+{
+"text": "$2500",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=2500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://deanrummel.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/rummel-for-senate/donate"
+},
+{
+"text": "Meet Dean",
+"href": "https://deanrummel.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://deanrummel.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/rummel-for-senate/donate?amount=other"
+},
+{
+"text": "Priorities",
+"href": "https://deanrummel.com/home/#priorities"
+}
 ]

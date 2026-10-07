@@ -1,25 +1,110 @@
 [
-"https://facebook.com/profile.php?id=61588326052667",
-"https://instagram.com/voteanneberbert",
-"https://linkedin.com/in/anne-berbert",
-"https://threads.com/@voteanneberbert?hl=en",
-"https://voteanneberbert.com/",
-"https://voteanneberbert.com/about",
-"https://voteanneberbert.com/accessibility-statement",
-"https://voteanneberbert.com/blog",
-"https://voteanneberbert.com/donate",
-"https://voteanneberbert.com/event-list",
-"https://voteanneberbert.com/post/abortion",
-"https://voteanneberbert.com/post/building-a-better-future-our-campaign-vision-explained",
-"https://voteanneberbert.com/post/cost-of-living",
-"https://voteanneberbert.com/post/diversity-equity-inclusion",
-"https://voteanneberbert.com/post/education",
-"https://voteanneberbert.com/post/empowering-communities-through-grassroots-political-engagement",
-"https://voteanneberbert.com/post/environment",
-"https://voteanneberbert.com/post/gun-safety",
-"https://voteanneberbert.com/post/healthcare",
-"https://voteanneberbert.com/post/immigration",
-"https://voteanneberbert.com/post/lgba-tqi-rights",
-"https://voteanneberbert.com/post/your-voice-matters-join-our-political-movement-today",
-"https://voteanneberbert.com/privacy-policy"
+{
+"text": "ABOUT",
+"href": "https://www.voteanneberbert.com/about"
+},
+{
+"text": "ANNE BERBERT YOU",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "Abortion",
+"href": "https://www.voteanneberbert.com/post/abortion"
+},
+{
+"text": "Accessibility statement",
+"href": "https://www.voteanneberbert.com/accessibility-statement"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "Cost of living",
+"href": "https://www.voteanneberbert.com/post/cost-of-living"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteanneberbert.com/donate"
+},
+{
+"text": "Diversity, equity, and inclusion",
+"href": "https://www.voteanneberbert.com/post/diversity-equity-inclusion"
+},
+{
+"text": "EVENTS",
+"href": "https://www.voteanneberbert.com/event-list"
+},
+{
+"text": "Education",
+"href": "https://www.voteanneberbert.com/post/education"
+},
+{
+"text": "Employment",
+"href": "https://www.voteanneberbert.com/post/your-voice-matters-join-our-political-movement-today"
+},
+{
+"text": "Environment",
+"href": "https://www.voteanneberbert.com/post/environment"
+},
+{
+"text": "Freedom of speech & religion",
+"href": "https://www.voteanneberbert.com/post/empowering-communities-through-grassroots-political-engagement"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "Government misconduct",
+"href": "https://www.voteanneberbert.com/post/building-a-better-future-our-campaign-vision-explained"
+},
+{
+"text": "Gun safety",
+"href": "https://www.voteanneberbert.com/post/gun-safety"
+},
+{
+"text": "HOME",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "Healthcare",
+"href": "https://www.voteanneberbert.com/post/healthcare"
+},
+{
+"text": "ISSUES",
+"href": "https://www.voteanneberbert.com/blog"
+},
+{
+"text": "Immigration",
+"href": "https://www.voteanneberbert.com/post/immigration"
+},
+{
+"text": "LGBA + TQI rights",
+"href": "https://www.voteanneberbert.com/post/lgba-tqi-rights"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.voteanneberbert.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588326052667"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteanneberbert"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/anne-berbert/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@voteanneberbert?hl=en"
+}
 ]

@@ -1,14 +1,17 @@
+Skip to content Home About Tom American Affordability Plan Endorsements Accomplishments Media Tom in the News Join Us!
+Contribute Contact Contribute Volunteer Join Us Lawn Sign Facebook Instagram Twitter Logo Home About Tom American Affordability Plan Endorsements Accomplishments Media Tom in the News Join Us!
+Contribute Contact Facebook Instagram Twitter Logo Request a Sign!
+TODAY is Election Day.
+VOTE!
+Thank you for your support!
 Rep.
-Tom Suozzi: Democrats Must Reject the DSA
-September 1, 2026
-Publication: The Free Press
-By: Tom Suozzi
-The Democratic congressman warns that the socialist organization is a dire threat to his party and the country.
-Rep.
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Publication: The Free Press By: Tom Suozzi “Republicans will not treat individual DSA victories as local events,” writes Rep.
+Tom Suozzi.
+“They will use every one of them to try and define the entire Democratic Party.” The Democratic congressman warns that the socialist organization is a dire threat to his party and the country.
+R ep.
 Tom Suozzi represents New York’s 3rd Congressional District, which stretches from northeastern Queens in New York City to a vast swath of suburban Long Island.
-He’s been an uncompromising critic of his party’s far-left flank, authoring the “Promise to America” earlier this year, with a number of other Democrats, to rebuke socialism and reaﬃrm what he believes are his party’s core principles.
-Today, he oﬀers a stark warning to his fellow Democrats on what happens “when a determined ideological movement catches a party divided, complacent, or unprepared.” We hope you read the whole thing. —Will Rahn
-Millions of Americans are losing faith in their government, their institutions, and an economic system that no longer seems to reward hard work.
+He’s been an uncompromising critic of his party’s far-left flank, authoring the “ Promise to America ” earlier this year, with a number of other Democrats, to rebuke socialism and reaﬃrm what he believes are his party’s core principles.
+Today, he oﬀers a stark warning to his fellow Democrats on what happens “when a determined ideological movement catches a party divided, complacent, or unprepared.” We hope you read the whole thing. —Will Rahn Millions of Americans are losing faith in their government, their institutions, and an economic system that no longer seems to reward hard work.
 They struggle to aﬀord housing, healthcare, and education while watching wealth become increasingly concentrated at the top.
 They’re mad as hell, in other words, and they’re not going to take it anymore.
 But if Democrats are going to earn the confidence of these Americans this November and beyond, the answer will not be found in the Democratic Socialists of America’s (DSA) platform.
@@ -17,7 +20,7 @@ Candidates aﬃliated with the group are winning Democratic primaries.
 But we cannot allow them to drag our party to the far left.
 Modern political history oﬀers two stark warnings about what can happen when a determined ideological movement catches a party divided, complacent, or unprepared.
 We’ll start with the Republicans.
-In 1964, GOP leaders badly underestimated Barry Goldwater, a fiercely right-wing Arizona senator.
+In 1964, GOP leaders badly underestimated Barry Goldwater , a fiercely right-wing Arizona senator.
 Many considered his views too conservative and his appeal too narrow.
 But Goldwater’s supporters were better organized and understood that party contests can be won by mobilizing passionate voters while the broader electorate remains divided or disengaged.
 Goldwater won the Republican presidential nomination but then suﬀered one of the largest defeats in history that November.
@@ -60,12 +63,11 @@ If you don’t believe me, read the laudatory statement they recently released o
 The country they want to create is not one that most Americans would want to live in.
 Theirs is a vision that will never resonate in the congressional district I represent, or in most other cities, towns, and states across America.
 Just look at the polls: Gallup recently found that only 39 percent of Americans view socialism favorably, compared with 54 percent for capitalism and 81 percent for free enterprise.
-When asked by Gallup what they like about socialism, the most popular answer was “nothing.” And a new Siena survey found that New York voters view the DSA unfavorably by 47 to 30 percent—including 57 percent of independents.
+When asked by Gallup what they like about socialism, the most popular answer was “nothing.” And a new Siena survey found that New York voters view the DSA unfavorably by 47 to 30 percent —including 57 percent of independents.
 In one of America’s most Democratic states, that is an unmistakable warning.
 Democrats have a genuine opportunity to win back the House and the Senate this year.
 But the election will be decided largely in competitive districts and states where candidates must appeal not only to the Democratic base but also to independents, moderates, suburban voters, and working-class families who may not identify with either party.
-Candidates aligned with the DSA can win in places where Republicans don’t even bother to compete, like New York City’s “Commie Corridor.”
-But the vast majority of them are doomed in the swing districts and states that will decide who controls Congress in November.
+Candidates aligned with the DSA can win in places where Republicans don’t even bother to compete, like New York City’s “Commie Corridor.” But the vast majority of them are doomed in the swing districts and states that will decide who controls Congress in November.
 Americans are usually open to supporting Democrats who will lower costs, protect Social Security and Medicare, strengthen workers, and make the ultra-wealthy play by the same rules as everyone else.
 But we will lose huge numbers of votes if they believe our party accepts or embraces the DSA worldview.
 Keep in mind that Republicans will not treat individual DSA victories as local events.
@@ -76,3 +78,6 @@ Republicans have already begun calling Democrats “communists.” We aren’t.
 But if Democrats fail to speak out against the DSA and its platform, the voters we need to win in 2026 may well conclude that our party is too radical to be trusted.
 Democrats must oﬀer something better than the false choice between a broken status quo and ideological extremism.
 We must prove that capitalism can be reformed, democracy can work, and that the government can once again improve the lives of the American people.
+Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
+Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Suozzi, Gillen stand with Israel, as debate rages among Democrats July 28, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

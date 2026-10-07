@@ -1,5 +1,4 @@
-Idaho Voters Are Listening
-Idaho has gotten to know Brad Little very well … and Idaho doesn’t like him.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Idaho Voters Are Listening May 28 Written By Elle Casner Idaho has gotten to know Brad Little very well … and Idaho doesn’t like him.
 Out of 289,000 voters, more than half voted for someone else last week!
 What scares Mr.
 Little energizes me.
@@ -27,3 +26,4 @@ And, I’ll be a governor who cares about public lands because I actually hunt a
 I will be a governor who fights for freedom.
 I will be a governor that fights for regular folks.
 And more than half of Idaho’s voters are ready to vote for that.
+Donate Elle Casner Previous Previous Idaho Is Ready for This Woman to Be Governor Next Next Terri Pickens’ primary election victory statement TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

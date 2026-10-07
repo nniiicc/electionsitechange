@@ -1,30 +1,37 @@
-Endorsements - 2026
-Endorsements - 2024
-Elected Officials
-- Ilhan Omar Congress, CD5
-- Keith Ellison MN Attorney General
-- Omar Fateh MN State Senate, District 62
-- Hodan Hassan Current 62B Representative
-- Zaynab Mohamed MN State Senate, District 63
-- Angela Conley Hennepin County Commissioner, District 4
-- Jason Chavez Minneapolis City Council Member, Ward 9
-- Aurin Chowdhury Minneapolis City Council Member, Ward 12
-- Samantha Sencer-Mura MN State House, 62A
-- Mohamud Noor MN State House, 60B
-- Foung Hawj MN State Senate, District 67
-- María Isa Pérez-Vega MN State House, 65B
-- Mary Frances Clardy MN State House, 53A
-- Samakab Hussein MN State House, 65A
-- Jay Xiong MN State House, 67B
-- AK Hassan Former MPRB Commissioner
-- Ira Jourdain School Board Commissioner, District 6
-- Londel French Former Park Board Commissioner
-Community leaders
-- Bill Emory Powderhon Park Neighborhood
-- Greta Callahan MPLS Federation of Teachers President
-- Elizabeth Ihde Ventura Village Neighborhood
-- Russ Adams -Russ Adams, Powderhorn Park resident, nonprofit advocate & community organizer
-- Sissy Anne Poettler Ventura Village Neighborhood
-- Kara Thate Ventura Village Neighborhood
-- Richard Boswell Powderhorn Park Neighborhood
-Testimonials
+0 Skip to Content Meet Anquam Vision Endorsements Join Requesting PCR DONATE Open Menu Close Menu Meet Anquam Vision Endorsements Join Requesting PCR DONATE Open Menu Close Menu Meet Anquam Vision Endorsements Join Requesting PCR DONATE Endorsements - 2026 Endorsements - 2024 Elected Officials Ilhan Omar Congress, CD5 Keith Ellison MN Attorney General Omar Fateh MN State Senate, District 62 Hodan Hassan Current 62B Representative Zaynab Mohamed MN State Senate, District 63 Angela Conley Hennepin County Commissioner, District 4 Jason Chavez Minneapolis City Council Member, Ward 9 Aurin Chowdhury Minneapolis City Council Member, Ward 12 Samantha Sencer-Mura MN State House, 62A Mohamud Noor MN State House, 60B Foung Hawj MN State Senate, District 67 María Isa Pérez-Vega MN State House, 65B Mary Frances Clardy MN State House, 53A Samakab Hussein MN State House, 65A Jay Xiong MN State House, 67B AK Hassan Former MPRB Commissioner Ira Jourdain School Board Commissioner, District 6 Londel French Former Park Board Commissioner Community leaders Bill Emory Powderhon Park Neighborhood Greta Callahan MPLS Federation of Teachers President Elizabeth Ihde Ventura Village Neighborhood Russ Adams -Russ Adams, Powderhorn Park resident, nonprofit advocate & community organizer Sissy Anne Poettler Ventura Village Neighborhood Kara Thate Ventura Village Neighborhood Richard Boswell Powderhorn Park Neighborhood Testimonials Congresswoman Ilhan Omar “I am honored to support my dear sister in advocacy Anquam Mahamoud for Minnesota House seat 62B.
+Anquam has been a fierce advocate in her community, and I am confident that she will do an excellent job bringing the voices of our community to the State Capitol.” Rep.
+Hodan Hassan “As the sitting State Representative for House District 62B, I am honored to announce my endorsement of Anquam Mahamoud.
+Anquam has the background and experiences that will make her a strong, authentic, and empowering voice for all of the diverse constituencies that make up our district: she is a southsider, a renter, a Muslim/Black woman with ample experience in state government and with Isaiah and Muslim coalition.
+She is ready!
+Please join me in supporting her.” Sen.
+Omar Fateh and Council Member Chavez “We need a strong partner at the State Legislature that will work with us to address unsheltered homelessness, environmental injustice, police accountability, and economic inequality.
+Anquam's policy background at MNsure, experience working with unhoused residents, and deep roots in East Phillips make her the strongest candidate to represent the diverse communities of 62B.
+We both encourage delegates to support her to receive the DFL endorsement on April 14.” Sen.
+Zaynab Mohamed “I support Anquam for the Minnesota State House because she understands the urgency of addressing critical issues facing our communities.
+She advocates for robust funding for public schools, ensuring every student receives a top-tier education.
+As a young person, she recognizes the importance to confront climate change head-on, understanding its disproportionate impact on marginalized communities.
+Anquam represents the voice of action and progress, offering hope for a sustainable and equitable future for all.” Bill Emory “Over the past several weeks, and especially at Sunday’s convention, it became clear to me that there is one other candidate in this race that I trust to fulfill this vision on behalf of our community — and that’s Anquam.
+Anquam is a passionate and thoughtful leader; a hard-working and committed care worker who I believe will make a fine representative for our community.
+That’s why I am committing to voting for Anquam in the August 13th primary, and I’m asking all of my supporters to do the same.” Russ Adams, Powderhorn “Anquam is an earnest learner, sincere listener and determined social advocate – qualities that we need now more than ever in our elected leaders.
+In this district, we have a tradition of electing state representatives and senators that fight for progressive values and ascend to leadership positions in the DFL caucus.
+I am confident that Anquam will hit the ground running as our next State Representative, secure needed resources for our neighborhoods and businesses to help them recover in a post-pandemic world, and champion critical policy reforms at the state legislature.
+That is why I am proud to support Anquam Mahmoud, and I ask you to join me and make her your top choice for District 62 B.” Rep.
+Mohamud Noor "Anquam Mahamoud's dedication to social justice and equity will make her a valuable asset in the the Minnesota House of Representatives.
+Her experience and expertise in health care policy will be invaluable in creating positive change for all residents of District 62B.
+I am proud to endorse her campaign and look forward to seeing the positive impact she will have on her district." Richard Boswell, Powderhorn "When I first met Anquam on caucus night I was inspired by her energy, as well as her background in substance use disorder and mental health supports.
+She really meets people where they are and listens, understanding them so she can be a better advocate for them.
+I think she will bring this authentic advocacy to the state capital." Samantha Sencer-Mura “I’m thrilled to endorse Anquam!
+Quality public education is fundamental to thriving communities.
+Now, more than ever, we need advocates who are uncompromising voices for our students and educators at the State Capitol.
+Anquam and I grew up as beneficiaries of the Minneapolis Public School system.
+I am confident she understands just how critical it is that our children and MPS have the resources they need, and that we partner to close large budget gaps to keep key programming, educators, and support staff intact.” Rep.
+Jay Xiong “It's absolutely crucial to advocate for affordable housing.
+Having personally experienced housing insecurity, I can attest to the urgent need for leaders like Anquam who understand the importance of this issue and are willing to fight tirelessly for our communities.” Sen.
+Foung Hawj “Climate action and environmental justice are issues I care deeply about, and after meeting Anquam, I learned that we shared this passion.
+I know that she will be a strong advocate for East Phillips and all of 62B on this issue, and I am excited to partner with her in the State Legislature in 2025.” AK Hassan “I am excited to throw my support behind Anquam as our next State Representative in 62B.
+Anquam has shown a profound dedication to serving our community and championing the issues that are crucial to residents.
+I am confident in Anquam's capacity to effectively represent our district and bring about positive change in social justice issues, economic equality, healthcare accessibility, and fair housing opportunities for all.
+I encourage you to stand with me in endorsing Anquam Mahamoud as she seeks to become our next State Representative.” Kara Thate “Anquam Mahamoud cares deeply about people, and I recognized this from when I first met her.
+I am excited about how her platform centers everyday residents to ensure that they have the resources to thrive in their communities.
+I know that she will be a strong advocate for all of us and our diverse neighborhoods across 62B.” Home | Vision | Endorsements | Join email: contact@anquam62b.com DONATE Prepared and paid for by the Friends with Anquam committee, P.O.
+Box 7439 Minneapolis, MN 55407.

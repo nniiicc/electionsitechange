@@ -1,15 +1,62 @@
 [
-"https://bsky.app/profile/ldsfn.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/dkcalder",
-"https://sltrib.com/opinion/commentary/2026/01/09/voices-utahs-housing-crisis-will",
-"https://tiktok.com/@uintahiker",
-"https://votedavecalder.com/",
-"https://votedavecalder.com/about",
-"https://votedavecalder.com/donate",
-"https://votedavecalder.com/events",
-"https://votedavecalder.com/issues",
-"https://votedavecalder.com/new-page",
-"https://votedavecalder.com/news",
-"https://votedavecalder.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://www.votedavecalder.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedavecalder.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.votedavecalder.com/about"
+},
+{
+"text": "News",
+"href": "https://www.votedavecalder.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.votedavecalder.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedavecalder.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Want to Help?",
+"href": "https://www.votedavecalder.com/new-page"
+},
+{
+"text": "[image: VoteDaveCalder logo]",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ldsfn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dkcalder"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@uintahiker"
+},
+{
+"text": "producing sub-optimal outcomes for the state as a whole",
+"href": "https://www.sltrib.com/opinion/commentary/2026/01/09/voices-utahs-housing-crisis-will/"
+}
 ]

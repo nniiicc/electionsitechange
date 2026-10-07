@@ -1,5 +1,2 @@
-Contact Us
-A better future is possible.
-Bill Griffin for State Representative
-8629 Yale Place | Philadelphia, PA 19136
-ElectBillGriffin@gmail.com
+0 Skip to Content EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Contact Us A better future is possible.
+Bill Griffin for State Representative 8629 Yale Place | Philadelphia, PA 19136 ElectBillGriffin@gmail.com MEET BILL THE ISSUES CONTACT Support Bill for State Representative Bill Griffin for State Representative 8629 Yale Place | Philadelphia, PA 19136 ElectBillGriffin@gmail.com EVERY CONTRIBUTION HELPS US REACH MORE VOTERS © # BILL GRIFFIN | PAID FOR BY FRIENDS OF BILL GRIFFIN | PRIVACY POLICY

@@ -1,5 +1,5 @@
-Dear District 13,
-Growing up in Indiana, I learned early on that Hoosiers work hard, serve their communities, and fight for what is right.
+top of page Home About Issues Common Sense Conservative Policies News Endorsements Get Involved Raffle More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Dear District 13, May 6, 2024 2 min read Growing up in Indiana, I learned early on that Hoosiers work hard, serve their communities, and fight for what is right.
 Before graduating from Seeger High School, I enlisted in the United States Army.
 I served two tours of duty in Afghanistan with some of the greatest men you could ever meet.
 In 2012, while on patrol, I stepped on a pressure plate IED which changed my life forever.
@@ -20,5 +20,11 @@ Tomorrow, you have the opportunity to exercise your right to elect a representat
 I’m not a politician.
 I’m just another Hoosier wanting to serve his community and fight for what is right.
 I hope I can earn your trust, support, and vote tomorrow, May 7th.
-Sincerely,
-Matt Commons
+Sincerely, Matt Commons Recent Posts See All What Does Local Control Mean?
+Common Sense Conservative Policies Local Interests, Not Special Interests: Granville Bridge START CHANGING Support Our Cause DONATE SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+SITE NAVIGATION Home About Issues Common Sense Conservative Policies News Endorsements Get Involved Raffle CONTACT MATT info@commonsforstatehouse.com Paid for by the Committee to Elect Matt Commons © # by Digital Breeze Solutions .
+Privacy Policy STAY IN TOUCH You agree to receive text messages and phone calls, including automated calls from Committee to Elect Matt Commons.
+Message & data rates may apply.
+Message frequency varies.
+Reply STOP to opt-out, reply HELP for help.
+Privacy Policy SUBMIT Thanks for submitting! bottom of page

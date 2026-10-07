@@ -1,4 +1,3 @@
 Need Help With A Constituent Services Request?
-Copyright © 2026 A New Day For New Mexico - All Rights Reserved.
-Site Creation: Morris Strategies for New Mexico
-Paid for by A New Day For New Mexico
+Home About About Day About District 15 Photo Gallery Priorities Results Legislative Achievements 2025 Capital Outlay In the News Endorsements Get Involved Volunteer Contribute Contact Us More Home About About Day About District 15 Photo Gallery Priorities Results Legislative Achievements 2025 Capital Outlay In the News Endorsements Get Involved Volunteer Contribute Contact Us In The News Home About About Day About District 15 Photo Gallery Priorities Results Legislative Achievements 2025 Capital Outlay In the News Endorsements Get Involved Volunteer Contribute Contact Us In The News 2025 Capital Outlay Report Download PDF Facebook Instagram LinkedIn X YouTube Facebook Instagram LinkedIn X YouTube Facebook Instagram LinkedIn X YouTube Facebook Instagram LinkedIn X YouTube Facebook Instagram LinkedIn X YouTube Facebook Instagram LinkedIn X YouTube Copyright © # A New Day For New Mexico - All Rights Reserved.
+Site Creation: Morris Strategies for New Mexico Paid for by A New Day For New Mexico

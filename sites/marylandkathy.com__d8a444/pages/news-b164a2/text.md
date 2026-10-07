@@ -1,12 +1,16 @@
-News & media
-What they are writing about Kathy
-Coverage from across Maryland — and the op-eds Kathy wrote herself when she wanted to make the case in her own words.
-On camera
-Kathy in the media
-7News
-Kathy Szeliga on girls’ sports and the Supreme Court decision
-Kathy makes the case for the Fairness in Girls’ Sports Act after the Supreme Court ruled on transgender athletes.
-Stand with District 7A
-Keep Kathy fighting in Annapolis.
+Skip to content Home Meet Kathy Priorities News Events Newsletter Get Involved Contact Donate Open menu Home Meet Kathy Priorities News Events Newsletter Get Involved Contact Donate News & media What they are writing about Kathy Coverage from across Maryland — and the op-eds Kathy wrote herself when she wanted to make the case in her own words.
+Fox News Maryland Dems mocked for prioritizing tampons in men’s bathrooms amid state deficit: ‘Nonsense’ March 25, 2026 Fox Baltimore Del.
+Szeliga plans sixth push to limit girls sports teams to biological females 2026 The Baltimore Sun By Kathy Wes Moore’s unaffordable Maryland November 12, 2025 WJLA / 7News Maryland GOP delegate responds to Supreme Court transgender athlete ruling 2026 Maryland Matters Supreme Court ruling on transgender athletes revives debate in Maryland July 9, 2026 East County Times Szeliga applauds Supreme Court decision to protect women’s sports 2026 Dundalk Eagle Local delegate pushes for Fairness in Girls’ Sports Act again after Supreme Court decision 2026 WCBM Maryland GOP delegate responds to Supreme Court transgender athlete ruling 2026 CBS News Baltimore Proposed Maryland bill would prohibit biological boys from playing girls sports in high school 2025 The Baltimore Sun Ensuring fairness in girls’ sports · By Kathy January 12, 2025 The Washington Times Withhold federal education funds to protect girls’ scholastic sports July 16, 2026 Nottingham MD Delegates Szeliga and Nawrocki blast Gov.
+Moore’s $70.8 billion budget, “making Maryland unaffordable” March 25, 2026 The Baltimore Sun There’s a plan to save Maryland from its energy crisis · By Kathy March 9, 2025 Baltimore Today Maryland Del.
+Kathy Szeliga warns energy policy could drive up costs March 26, 2026 My Eastern Shore MD Freedom Caucus, Harris push energy rollbacks 2026 Baltimore Post-Examiner Statement from Delegate Kathy Szeliga on the federal indictment of James Phillip Appel March 31, 2026 Patch — Perry Hall Del.
+Szeliga: We are back in Annapolis 2025 On camera Kathy in the media Play video: Kathy Szeliga on girls’ sports and the Supreme Court decision 7News Kathy Szeliga on girls’ sports and the Supreme Court decision Kathy makes the case for the Fairness in Girls’ Sports Act after the Supreme Court ruled on transgender athletes.
+7News Kathy Szeliga on girls’ sports and the Supreme Court decision Play Fox News Kathy earns laughter mocking the push for tampons in men’s bathrooms Watch Fox News Kathy on the Maryland bill to sell condoms in public schools Watch Fox News “There are violent criminals on our street and ICE is deporting them” Watch Fox45 Baltimore Delegate Kathy Szeliga on the current budget framework Play Fox45 Baltimore Del.
+Kathy Szeliga talks Maryland’s budget Play Fox45 Baltimore Fox45 interview on Maryland’s budget Play Fox45 Baltimore The sixth push to keep girls’ sports for biological females Play Fox45 Baltimore Delegates Szeliga & Nawrocki to investigate Baltimore County release of illegal immigrants Play WBAL Radio Del.
+Kathy Szeliga slams the Democrats’ redistricting plan Play Energy Perspectives podcast Energy perspectives from Delegate Kathy Szeliga Play Fox45 Baltimore Critics slam Maryland’s $15M nonprofit funding as crime crisis continues Play Fox45 Baltimore Delegates Nawrocki and Szeliga endorse Ed Hale for governor Play Fox45 Baltimore Del.
+Szeliga on the divided special session Watch Fox45 Baltimore Session 2026 key takeaways with Del.
+Szeliga Watch Fox45 Baltimore Del.
+Szeliga on the migration out of Maryland Watch Stand with District 7A Keep Kathy fighting in Annapolis.
 Kathy stands up for this district and the people who call it home — every session, every vote.
 Stand with her and keep that fight strong.
+Contribute today Get involved Fighting for Baltimore County families, taxpayers, and Maryland values.
+Instagram X Substack Quick links Meet Kathy Priorities News Events Newsletter Get Involved Contact Contact info@marylandkathy.com 410-989-2148 Friends of Kathy Szeliga PO Box 40 Kingsville, MD 21087 Contact us Paid for by Friends of Kathy Szeliga · Mark Szeliga, Treasurer Privacy Terms © 2026 Donate

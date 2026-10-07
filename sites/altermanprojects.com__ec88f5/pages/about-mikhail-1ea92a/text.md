@@ -1,23 +1,11 @@
-Embedded Files
-Mikhail Alterman is an Information Technology professional with a passion for public service and volunteering.
+Search this site Embedded Files Skip to main content Skip to navigation Citizens With Mikhail Alterman Home Issues About Mikhail Contact Citizens With Mikhail Alterman Home Issues About Mikhail Contact More Home Issues About Mikhail Contact Mikhail Alterman, Republican , for Ohio State Senate, district 21 Mikhail Alterman is an Information Technology professional with a passion for public service and volunteering.
 Mikhail Alterman has decades of activism on the east side of Cuyahoga County in wide variety of civic and religious organizations.
-Once again the community has asked Mikhail Alterman to run for Ohio legislature with the focus on Lowering The Cost Of Living and School Choice.
-40+ minute interview that covers much of Mikhail Alterman's background and positions: https://www.facebook.com/errol.porter.90/videos/1038073539211078
-12 years ago, the same lower cost of living issues, the same two white guys, and the problems on the east of Cuyahoga County are bigger: https://www.youtube.com/watch?v=JgtRRuZ6U54
-8 years ago, Channel 3 segment features Mikhail Alterman opposing the tax increase.
+Once again the community has asked Mikhail Alterman to run for Ohio legislature with the focus on Lowering The Cost Of Living and School Choice .
+40+ minute interview that covers much of Mikhail Alterman's background and positions: https://www.facebook.com/errol.porter.90/videos/1038073539211078 #ago, the same lower cost of living issues, the same two white guys, and the problems on the east of Cuyahoga County are bigger: https://www.youtube.com/watch?v=JgtRRuZ6U54 #ago, Channel 3 segment features Mikhail Alterman opposing the tax increase.
 It was won by five votes!
-He is still opposing these increases. https://www.wkyc.com/article/news/politics/elections/mystery-out-of-town-group-trying-to-defeat-beachwoods-school-levy/95-549755655
-Numerous recent appearances on TV, radio, and newspapers by Mikhail Alterman include: RTVI, VoiceItRadio, Ohio Political News, Kommersant, Prospect, Russian Magazine, and many others.
-https://rtvi.mirtesen.ru/blog/43839952221/-Neopredelivshiysya-izbiratel-ischezayuschiy-vid-kak-debatyi-Tra
-https://rtvi.com/stories/god-posle-izbraniya-baydena/
-https://rtvi.us/politics/shatdaun-neizbezhen-uvereny-eksperty-chto-eto-takoe-i-chem-on-grozit-amerikanczam/
-https://www.youtube.com/watch?app=desktop&v=bx8NWYzmLFk&t=236s&ra=m https://www.youtube.com/watch?app=desktop&v=f1RELGBCTWM&t=371s&ra=m
-https://www.youtube.com/watch?app=desktop&v=2BMV73TdlyA&t=511s&ra=m
-Many questions on Ukraine, Israel, AOC, Trump, etc. = most are not relevant.
+He is still opposing these increases. https://www.wkyc.com/article/news/politics/elections/mystery-out-of-town-group-trying-to-defeat-beachwoods-school-levy/95-549755655 Numerous recent appearances on TV, radio, and newspapers by Mikhail Alterman include: RTVI, VoiceItRadio, Ohio Political News, Kommersant, Prospect, Russian Magazine, and many others. https://rtvi.mirtesen.ru/blog/43839952221/-Neopredelivshiysya-izbiratel-ischezayuschiy-vid-kak-debatyi-Tra https://rtvi.com/stories/god-posle-izbraniya-baydena/ https://rtvi.us/politics/shatdaun-neizbezhen-uvereny-eksperty-chto-eto-takoe-i-chem-on-grozit-amerikanczam/ https://www.youtube.com/watch?app=desktop&v=bx8NWYzmLFk&t=236s&ra=m https://www.youtube.com/watch?app=desktop&v=f1RELGBCTWM&t=371s&ra=m https://www.youtube.com/watch?app=desktop&v=2BMV73TdlyA&t=511s&ra=m Many questions on Ukraine, Israel, AOC, Trump, etc. = most are not relevant.
 Mikhail Alterman is running for Ohio legislature without any interest in abandoning his career in technology and running for Federal or other public offices.
 2012 campaign flyer, the same affordability and cost of living issues.
 Some candidates hide their past positions; Mikhail Alterman proudly displays them.
 2022 campaign flyer, still at it, now affordability is a more popular topic but the east side still voted for the white Democrat and thus things only got worse.
-2022 advertisement in Ohio Life News; the focus is still lower cost of living and school choice
-Page updated
-Report abuse
+2022 advertisement in Ohio Life News; the focus is still lower cost of living and school choice mikhail@altermanprojects.com Report abuse Page details Page updated Report abuse

@@ -1,26 +1,106 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/juliezforsc",
-"https://instagram.com/juliezforsc",
-"https://juliezforsc.com/",
-"https://juliezforsc.com/0e1bdf87-184a-4a23-8047-a5bf2fb2adc2",
-"https://juliezforsc.com/about",
-"https://juliezforsc.com/contact",
-"https://juliezforsc.com/house-district-71-map",
-"https://juliezforsc.com/house-district-71-survey",
-"https://juliezforsc.com/julie-in-action",
-"https://juliezforsc.com/media",
-"https://juliezforsc.com/news",
-"https://juliezforsc.com/volunteer",
-"https://scvotes.gov/voters/absentee-voting",
-"https://scvotes.gov/voters/early-voting",
-"https://scvotes.gov/voters/register-to-vote",
-"https://secure.actblue.com/donate/julie-zimmerman-1",
-"https://secure.actblue.com/donate/julie-zimmerman-1?amount=10",
-"https://secure.actblue.com/donate/julie-zimmerman-1?amount=100",
-"https://secure.actblue.com/donate/julie-zimmerman-1?amount=25",
-"https://secure.actblue.com/donate/julie-zimmerman-1?amount=250",
-"https://secure.actblue.com/donate/julie-zimmerman-1?amount=50",
-"https://tiktok.com/@julie.z.for.sc",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.juliezforsc.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+},
+{
+"text": "Contact",
+"href": "https://www.juliezforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1"
+},
+{
+"text": "Early voting locations",
+"href": "https://scvotes.gov/voters/early-voting/"
+},
+{
+"text": "House District 71 Map",
+"href": "https://www.juliezforsc.com/house-district-71-map"
+},
+{
+"text": "Julie in Action",
+"href": "https://www.juliezforsc.com/julie-in-action"
+},
+{
+"text": "JulieZforSC@gmail.com",
+"href": "mailto:JulieZforSC@gmail.com"
+},
+{
+"text": "Media",
+"href": "https://www.juliezforsc.com/media"
+},
+{
+"text": "News",
+"href": "https://www.juliezforsc.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://scvotes.gov/voters/absentee-voting/"
+},
+{
+"text": "Take the Survey",
+"href": "https://www.juliezforsc.com/house-district-71-survey"
+},
+{
+"text": "Volunteer",
+"href": "https://www.juliezforsc.com/volunteer"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.juliezforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/juliezforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/juliezforsc/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@julie.z.for.sc"
+},
+{
+"text": "https://juliezforsc.com/privacy-policy/",
+"href": "https://www.juliezforsc.com/0e1bdf87-184a-4a23-8047-a5bf2fb2adc2"
+}
 ]

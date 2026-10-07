@@ -1,7 +1,10 @@
-At the beginning of the 113th Congress, Congressman Quigley was appointed to the powerful House Appropriations Committee by Democratic leadership!
+Skip to content Search for: HOME ABOUT MIKE ISSUES GET INVOLVED NEWS CONTACT US CONTRIBUTE Previous Next Quigley tapped to join powerful House Appropriations Committee At the beginning of the 113th Congress, Congressman Quigley was appointed to the powerful House Appropriations Committee by Democratic leadership!
 This is a terrific opportunity for Mike and the 5th District, and he couldn’t have done it without your support.
-As Greg Hinz noted in Crain’s Chicago Business, “[Quigley’s appointment] means the city and state will have a seat at the table when insiders divide up the federal budget and decide who gets what.”
-“This new role is an incredible opportunity to advocate for important projects that encourage economic development in the Chicago area,” said Congressman Quigley.
+As Greg Hinz noted in Crain’s Chicago Business , “ [Quigley’s appointment] means the city and state will have a seat at the table when insiders divide up the federal budget and decide who gets what.” “This new role is an incredible opportunity to advocate for important projects that encourage economic development in the Chicago area,” said Congressman Quigley.
 “As the Appropriations Committee focuses on deficit reduction, creating American jobs and strengthening our economy, I am humbled to have the privilege of ensuring that taxpayer dollars are spent responsibly.” As always, we are honored by the opportunity to serve the great people of the 5th District and can’t wait to get to work in the 113th Congress.
 Thank you and happy new year.
-Sincerely, Quigley for Congress
+Sincerely, Quigley for Congress By quigley | 2017-02-14T15:42:03+00:00 January 8th, 2013 | News | 0 Comments Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Vk Email About the Author: quigley Related Posts Chicago Tribune: More O’Hare runways in the wings, but how will they help?
+Chicago Tribune: More O’Hare runways in the wings, but how will they help?
+Chicago Tribune: Lawmakers: O’Hare noise hotline needs real people, kindness Chicago Tribune: Lawmakers: O’Hare noise hotline needs real people, kindness Chicago Tribune: Voters get chance to be heard on O’Hare noise problem Chicago Tribune: Voters get chance to be heard on O’Hare noise problem Crain’s Chicago Business: Quigley forms ‘quiet skies’ caucus in Congress Crain’s Chicago Business: Quigley forms ‘quiet skies’ caucus in Congress Windy City Times: Houston Mayor Parker at Victory Fund Chicago benefit Windy City Times: Houston Mayor Parker at Victory Fund Chicago benefit Paid for by Quigley for Congress.
+Chicago Web Design by BuildThis Page load link Go to Top

@@ -1,6 +1,3 @@
-Eric has spent years supporting his fellow workers in Montana.
+Home Meet Eric Eric's Priorities DONATE More Home Meet Eric Eric's Priorities DONATE Home Meet Eric Eric's Priorities DONATE Eric matthews for House District 66 Eric matthews for House District 66 Eric matthews for House District 66 Eric is working for working Montanans Eric has spent years supporting his fellow workers in Montana.
 He believes in strong wages, accessible health care, high-quality education, retirement with dignity, and a fair & equitable tax system for all Montanans.
-Matthews For Montana
-matthews4mt@gmail.com
-PAID FOR BY MATTHEWS FOR MONTANA | DEMOCRAT
-613 W BABCOCK ST, BOZEMAN MT 59715
+DONATE Matthews For Montana matthews4mt@gmail.com PAID FOR BY MATTHEWS FOR MONTANA | DEMOCRAT 613 W BABCOCK ST, BOZEMAN MT 59715

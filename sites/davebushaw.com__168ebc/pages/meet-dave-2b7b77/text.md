@@ -1,4 +1,4 @@
-Dave, is the eldest son of a hard working class family.
+0 Skip to Content Meet Dave Platform Events Volunteer Make a Pledge In the News Contact Us DONATE Open Menu Close Menu Meet Dave Platform Events Volunteer Make a Pledge In the News Contact Us DONATE Open Menu Close Menu Meet Dave Platform Events Volunteer Make a Pledge In the News Contact Us DONATE Dave, is the eldest son of a hard working class family.
 Understanding that to survive (and thrive) one must work, he paired high school with work detasseling corn, working in a chicken hatchery, and in Quality Control at Agristar Meat & Poultry.
 His commitment to education and hard work made it possible for Dave, at the age of 19, to become one of the youngest self-made first-generation independent farmland owners in the United States.
 Dave is also a well-regarded American folk/labor musician and songwriter.
@@ -12,3 +12,5 @@ Dave was also instrumental in continued efforts to secure a disaster declaration
 Stafford Disaster Relief and Emergency Assistance Act, to address the Norfolk Southern train derailment in East Palestine, Ohio.
 Dave is also the Co-Founder of Real Men’s Circles, a project that addresses the unique challenges men in our communities face.
 RMC is building a base of active and engaged men by developing brotherhood and working on life skills that are grounded in integrity, accountability, honor, emotional intelligence, and community power.
+For media and press inquiries: digital@davebushaw.com Checks can be mailed to: Dave Bushaw for Congress P.O BOX 231, West Union, IA 52175 PAID FOR BY DAVE BUSHAW FOR CONGRESS PRIVACY POLICY ©# Dave Bushaw for Congress.
+All rights reserved.

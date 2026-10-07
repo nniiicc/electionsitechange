@@ -1,14 +1,50 @@
 [
-"https://electjosealvarez.com/",
-"https://electjosealvarez.com/about",
-"https://electjosealvarez.com/canvassing",
-"https://electjosealvarez.com/donate",
-"https://electjosealvarez.com/endorsements",
-"https://electjosealvarez.com/issues",
-"https://electjosealvarez.com/legislative-actions",
-"https://electjosealvarez.com/phone-banking",
-"https://electjosealvarez.com/request-a-yard-sign",
-"https://electjosealvarez.com/voting-resources",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/jose-alvarez-campaign-1"
+{
+"text": "About",
+"href": "https://electjosealvarez.com/about"
+},
+{
+"text": "Canvassing",
+"href": "https://electjosealvarez.com/canvassing"
+},
+{
+"text": "Donate",
+"href": "https://electjosealvarez.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jose-alvarez-campaign-1"
+},
+{
+"text": "Endorsements",
+"href": "https://electjosealvarez.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://electjosealvarez.com/"
+},
+{
+"text": "Issues",
+"href": "https://electjosealvarez.com/issues"
+},
+{
+"text": "Legislative Actions",
+"href": "https://electjosealvarez.com/legislative-actions"
+},
+{
+"text": "Phone Banking",
+"href": "https://electjosealvarez.com/phone-banking"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://electjosealvarez.com/request-a-yard-sign"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "voting resources",
+"href": "https://electjosealvarez.com/voting-resources"
+}
 ]

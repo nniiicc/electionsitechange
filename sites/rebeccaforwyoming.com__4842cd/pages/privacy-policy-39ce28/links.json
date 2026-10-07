@@ -1,13 +1,50 @@
 [
-"https://facebook.com/RebeccaforWyoming",
-"https://instagram.com/RebeccaforWyoming",
-"https://rebeccaforwyoming.com/",
-"https://rebeccaforwyoming.com/events",
-"https://rebeccaforwyoming.com/first-100-days",
-"https://rebeccaforwyoming.com/issues",
-"https://rebeccaforwyoming.com/meet-rebecca",
-"https://rebeccaforwyoming.com/privacy-policy",
-"https://secure.anedot.com/rebecca-for-wyoming/donate",
-"https://x.com/RebeccaforWY",
-"https://youtube.com/@RebeccaBextelforGovernor"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/rebecca-for-wyoming/donate"
+},
+{
+"text": "Events",
+"href": "https://www.rebeccaforwyoming.com/events"
+},
+{
+"text": "First 100 Days",
+"href": "https://www.rebeccaforwyoming.com/first-100-days"
+},
+{
+"text": "Home",
+"href": "https://www.rebeccaforwyoming.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.rebeccaforwyoming.com/issues"
+},
+{
+"text": "Meet Rebecca",
+"href": "https://www.rebeccaforwyoming.com/meet-rebecca"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rebeccaforwyoming.com/privacy-policy"
+},
+{
+"text": "[image: Rebecca Bextel for Governor]",
+"href": "https://www.rebeccaforwyoming.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/RebeccaforWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/RebeccaforWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RebeccaforWY"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@RebeccaBextelforGovernor"
+}
 ]

@@ -1,9 +1,6 @@
-Financial Wellbeing Coach Pilot Program
-Bill Name
-Higher Education - Financial Well-Being Pilot Program - Establishment
-Bill Number
-HB 811
-Year
-2024
-Priority Areas: Economic Development
-HB 811: Higher Education - Financial Well-Being Pilot Program - Establishment creates a two-year pilot position at both Morgan State University and the University of Maryland, College Park for a Financial Well-being Coach who will provide students with support to handle the technical and emotional challenges of financial management so students have the tools to prosper in college and later as working adults.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Financial Wellbeing Coach Pilot Program Bill Name Higher Education - Financial Well-Being Pilot Program - Establishment Bill Number HB 811 Year 2024 Priority Areas : Economic Development Learn More HB 811: Higher Education - Financial Well-Being Pilot Program - Establishment creates a two-year pilot position at both Morgan State University and the University of Maryland, College Park for a Financial Well-being Coach who will provide students with support to handle the technical and emotional challenges of financial management so students have the tools to prosper in college and later as working adults.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

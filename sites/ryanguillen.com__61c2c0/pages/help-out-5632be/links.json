@@ -1,15 +1,66 @@
 [
-"http://facebook.com/representative.guillen",
-"https://ryanguillen.com/",
-"https://ryanguillen.com/_files/ugd/9fd6f7_55133c1644904952a2ca6c9c24ab3666.pdf",
-"https://ryanguillen.com/about",
-"https://ryanguillen.com/contact",
-"https://ryanguillen.com/help-out",
-"https://ryanguillen.com/priorities",
-"https://secure.winred.com/ryan-guillen/donate-today",
-"https://secure.winred.com/ryan-guillen/donate-today?amount=10",
-"https://secure.winred.com/ryan-guillen/donate-today?amount=25",
-"https://secure.winred.com/ryan-guillen/donate-today?amount=5",
-"https://secure.winred.com/ryan-guillen/donate-today?amount=50",
-"https://twitter.com/ryanguillen?lang=en"
+{
+"text": "$10",
+"href": "https://secure.winred.com/ryan-guillen/donate-today?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/ryan-guillen/donate-today?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/ryan-guillen/donate-today?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/ryan-guillen/donate-today?amount=50"
+},
+{
+"text": "ABOUT",
+"href": "https://www.ryanguillen.com/about"
+},
+{
+"text": "CHIP IN",
+"href": "https://secure.winred.com/ryan-guillen/donate-today"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ryanguillen.com/contact"
+},
+{
+"text": "FOLLOW US",
+"href": "https://twitter.com/ryanguillen?lang=en"
+},
+{
+"text": "HELP OUT",
+"href": "https://www.ryanguillen.com/help-out"
+},
+{
+"text": "JOIN RYAN NOW!",
+"href": "https://www.ryanguillen.com/help-out"
+},
+{
+"text": "LIKE US",
+"href": "http://facebook.com/representative.guillen/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ryanguillen.com/priorities"
+},
+{
+"text": "View Privacy Policy for more info.",
+"href": "https://www.ryanguillen.com/_files/ugd/9fd6f7_55133c1644904952a2ca6c9c24ab3666.pdf"
+},
+{
+"text": "[image][image][image]",
+"href": "http://facebook.com/representative.guillen/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://twitter.com/ryanguillen?lang=en"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.ryanguillen.com"
+}
 ]

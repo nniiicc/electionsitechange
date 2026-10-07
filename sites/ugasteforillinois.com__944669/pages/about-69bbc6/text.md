@@ -1,4 +1,4 @@
-Long before Dan Ugaste decided to get involved in Republican Party politics, Dan was involved in his community as a coach, as a volunteer firefighter and community volunteer.
+Skip to primary navigation Skip to main content Skip to footer Dan Ugaste for State Representative A Voice of Reason in a Time of Extremism Home About Dan’s Plan for Illinois Issues Contact Volunteer News Donate About Contribute Now! $10 $20 $50 $100 Other Long before Dan Ugaste decided to get involved in Republican Party politics, Dan was involved in his community as a coach, as a volunteer firefighter and community volunteer.
 Dan is the kind person Ronald Reagan would describe as a “compassionate conservative”.
 An attorney by trade, and business owner himself, Dan works every day to protect the rights of business owners in the court system and against a system of regulations and red tape that hamper their efforts to create a good product, deliver a valuable service, and provide a comfortable life for their families.
 As committed fiscal conservative, Dan will use his experience in law and business to help get Illinois back on the right track.
@@ -8,3 +8,7 @@ As a coach, volunteer in the community, and even as a former volunteer fire figh
 He also spent numerous volunteer hours during the last few years assisting his fellow Republicans in Springfield trying to effectuate reforms for business.
 Dan and his wife Denise are the proud parents of three married daughters and have 3 grandchildren.
 Dan regularly attends church at the United Methodist Church in Geneva.
+Footer Contact Us Dan@UgasteforIllinois.com (847) 595-0522 Contribute Today Every contribution to the campaign helps ensure Victory in November!
+DONATE Copyright © # · Dan Ugaste, All Rights Reserved · Log in Paid for by Citizens for Dan Ugaste.
+A copy of our reports filed with the State Board of Elections is (or will be) available on the Board’s official website .
+Manage consent

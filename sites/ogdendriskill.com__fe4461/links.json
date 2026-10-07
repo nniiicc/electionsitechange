@@ -1,10 +1,74 @@
 [
-"https://facebook.com/VoteOgdenDriskill",
-"https://ogdendriskill.com/",
-"https://ogdendriskill.com/about",
-"https://ogdendriskill.com/faq",
-"https://ogdendriskill.com/form",
-"https://ogdendriskill.com/get-involved",
-"https://ogdendriskill.com/issues",
-"https://secure.anedot.com/committee-to-elect-ogden-driskill/7b5df301-dc04-4bd2-8bfd-939d0c0740b8"
+{
+"text": "About",
+"href": "https://www.ogdendriskill.com/about"
+},
+{
+"text": "About Ogden",
+"href": "https://www.ogdendriskill.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-ogden-driskill/7b5df301-dc04-4bd2-8bfd-939d0c0740b8"
+},
+{
+"text": "FAQ",
+"href": "https://www.ogdendriskill.com/faq"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ogdendriskill.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.ogdendriskill.com"
+},
+{
+"text": "Host an Event",
+"href": "https://www.ogdendriskill.com/form"
+},
+{
+"text": "Ogden On The Issues",
+"href": "https://www.ogdendriskill.com/issues"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.ogdendriskill.com/form"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ogdendriskill.com/form"
+},
+{
+"text": "[image: Donate.png]",
+"href": "https://secure.anedot.com/committee-to-elect-ogden-driskill/7b5df301-dc04-4bd2-8bfd-939d0c0740b8"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteOgdenDriskill"
+},
+{
+"text": "[image: Item 2.png]",
+"href": "https://www.ogdendriskill.com/form"
+},
+{
+"text": "[image: Item 3.png]",
+"href": "https://www.ogdendriskill.com/form"
+},
+{
+"text": "[image: Item1.png]",
+"href": "https://www.ogdendriskill.com/form"
+},
+{
+"text": "[image: OgdenLogo001.png]",
+"href": "https://www.ogdendriskill.com"
+},
+{
+"text": "[image: OgdenLogo002.png]",
+"href": "https://www.ogdendriskill.com"
+},
+{
+"text": "info@ogdendriskill.com",
+"href": "mailto:info@ogdendriskill.com"
+}
 ]

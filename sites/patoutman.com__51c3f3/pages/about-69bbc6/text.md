@@ -1,4 +1,4 @@
-Pat Outman is serving his fourth term as State Representative for Michigan’s 91st District and currently chairs the House Transportation and Infrastructure Committee.
+Skip to content Home Meet Pat Pat’s Plan Photos Endorse Volunteer Contribute Contact Meet Pat Pat Outman is serving his fourth term as State Representative for Michigan’s 91st District and currently chairs the House Transportation and Infrastructure Committee.
 In the legislature, Pat has built a reputation for focusing on practical solutions that strengthen Michigan’s economy, improve infrastructure, and support rural communities.
 Pat grew up in a multi-generation excavating family in Mid-Michigan, where he learned firsthand the value of hard work and building things that last.
 From a young age, he worked alongside his family helping build roads, prepare sites, and support construction projects across the community.
@@ -14,4 +14,6 @@ In the Michigan House of Representatives, Pat has focused on practical solutions
 Outside of the legislature, Pat enjoys spending time with his family and taking advantage of Michigan’s great outdoors.
 He and his wife Autumn are raising their two sons, Miles and Boyd, on their family farm.
 An avid hunter and fisherman, Pat has a deep appreciation for the natural resources and traditions that make Michigan such a special place to live.
-Pat is proud to represent the people of Montcalm, Kent, and Ionia counties and remains committed to ensuring their voices are heard in Lansing.
+Pat is proud to represent the people of Montcalm, Kent, and Ionia counties and remains committed to ensuring their voices are heard in Lansing. © # Paid for by Pat Outman for State Representative | 6397 N.
+Miles Rd.
+SI | Six Lakes, MI 48886 | Built by Inspiration WebWorks Home Meet Pat Pat’s Plan Photos Endorse Volunteer Contribute Contact

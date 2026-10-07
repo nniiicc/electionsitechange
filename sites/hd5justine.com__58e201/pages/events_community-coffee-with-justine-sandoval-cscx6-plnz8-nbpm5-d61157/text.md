@@ -1,10 +1,3 @@
-Back to All Events
-I hope to see you for a community coffee and conversation.
+0 Skip to Content Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Back to All Events Community Coffee with Justine Sandoval Saturday, May 30, 2026 10:00 AM 12:00 PM Google Calendar ICS I hope to see you for a community coffee and conversation.
 Please join me and RSVP here.
-Previous
-Previous
-May 28
-Thursday Volunteer Night
-Next
-Next
-June 4
+Previous Previous May 28 Thursday Volunteer Night Next Next June 4 Thursday Volunteer Night Paid by Justine Sandoval for House District 5, Registered Agent Emily Mahoney

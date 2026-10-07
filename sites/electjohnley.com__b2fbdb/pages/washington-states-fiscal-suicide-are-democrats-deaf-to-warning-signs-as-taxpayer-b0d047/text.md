@@ -1,6 +1,5 @@
-Rep.
-John Ley says Washington doesn’t have a revenue problem; it has a spending addiction
-Governor Bob Ferguson proudly declared himself a “hands-on guy” when it comes to the budget.
+Home News Latest News 60 Seconds With John Ley About Me Donate Issues Washington State’s Fiscal Suicide – Are Democrats deaf to warning signs, as taxpayers foot the bill July 29, 2026 by John Ley Rep.
+John Ley says Washington doesn’t have a revenue problem; it has a spending addiction Thursday, July 23, 2026 — Clark County Today Governor Bob Ferguson proudly declared himself a “hands-on guy” when it comes to the budget.
 That hands-on approach has produced the largest spending packages in Washington state history — first in May 2025, then an even bigger one the following year.
 Under one-party Democratic rule in Olympia, restraint has become a dirty word and fiscal discipline a distant memory.
 Majority Democrats have rammed through the largest tax hikes in state history, two years running.
@@ -38,8 +37,7 @@ Collective bargaining deals and raises added nearly $2 billion to the 2025 budge
 With new union negotiations looming, Governor Ferguson must finally hold the line instead of signing blank checks with taxpayer dollars.
 Washington Senate Republicans distributed this chart in 2025 to spotlight the last time they helped write the state budget, in 2015-17.
 The state’s uncontrolled explosion of spending began a decade ago.
-Graphic courtesy Senate Republicans
-Contrast this disaster with fiscally responsible states.
+Graphic courtesy Senate Republicans Contrast this disaster with fiscally responsible states.
 Idaho has delivered roughly $4 billion in tax cuts since 2021 through phased income tax reductions.
 Florida, under Governor Ron DeSantis, has enacted nearly $6.7 billion in tax relief since 2019 while maintaining strong surpluses.
 He recently vetoed $1.6 billion in spending, increasing reserves to $18 billion.
@@ -53,3 +51,8 @@ It’s time to follow the example of fiscally responsible states like Idaho and 
 Cut taxes, slash waste, reduce the size of government, and restore accountability.
 Taxpayers have been patient long enough.
 The warning signs are flashing red — ignore them at our state’s peril.
+Association of Washington Business Department of Children Youth and Families Governor Bob Ferguson Governor Christine Gregoire Governor Gary Locke Mayor Katie Wilson Office of Financial Management Spending Addiction Washington State Democrats Washington State Spending by John Ley previous Peter Abbarno: Sarah Mittelman is the ‘perfect candidate’ for the 49th District next Northwest Politics NOW -- KOIN Interview Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

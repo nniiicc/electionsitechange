@@ -1,5 +1,4 @@
-Expanding Healthcare Access and Behavioral Health Resources
-Comprehensive healthcare is a fundamental human right.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Expanding Healthcare Access and Behavioral Health Resources Sep 17 Written By Apple User Comprehensive healthcare is a fundamental human right.
 As a twenty-year military member and disabled veteran, I have lived the benefits of universal healthcare firsthand.
 Throughout my military career as a Soldier and medical leader, I managed complex clinical logistics and witnessed the operational power of guaranteed care.
 When people have reliable, universal access to preventative and primary care, clinicians catch medical issues earlier.
@@ -20,3 +19,8 @@ I will introduce legislation to expand the statutory authority of Maryland's Pre
 Furthermore, I support transitioning Maryland Medicaid to a transparent fee-for-service model, eliminating predatory pharmacy benefit managers to direct hundreds of millions of dollars back into bedside clinical care.
 We will also enforce the Trans Health Equity Act by penalizing insurance companies that unlawfully categorize essential care as cosmetic.
 In Annapolis, I will build an equitable healthcare safety net where no family ever faces bankruptcy just to stay alive and healthy.
+Apple User Previous Previous Economic Dignity, Workforce Development, and Small Business Growth Next Next Fully Funding Public Education and Modernizing Schools Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

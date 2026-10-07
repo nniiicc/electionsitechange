@@ -1,4 +1,6 @@
-Aloha, I'm Monique Perreira
-I'm a veteran, small business owner, wife, mother and grandmother running for State House District 8.
+Search this site Embedded Files Skip to main content Skip to navigation Support Monique for Hawai'i!
+CONTRIBUTE Monique for Hawai'i Home Issues Join Contact Monique for Hawai'i Home Issues Join Contact More Home Issues Join Contact DONATE NOW Aloha, I'm Monique Perreira I'm a veteran, small business owner, wife, mother and grandmother running for State House District 8.
 Like many local families, I've watch the cost of living rise, housing become harder to afford, and government become less responsive to the people it serves.
 I'm running to bring common sense solutions and real representation back to Hawai'i.
+WHAT I'M FIGHTING FOR 💰 Lower Cost of Living Cutting taxes on groceries, hygiene products, and other everyday necessities. 🛖 Affordable Housing Making it easier to build homes for local families. 👮Public Safety Supporting law enforcement and holding criminals accountable. 🌴Agriculture Growing more food locally and reducing dependence on imports. 📚Better Education Improving student outcomes and supporting teachers. 🏛️Government Accountability More transparency, less waste, and responsible spending.
+JOIN TEAM MONIQUE JOIN THE CAMPAIGN PAID FOR BY MONIQUE FOR HAWAI'I PO BOX 1055 KAMUELA, HI 96743 info@moniqueforhawaii.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

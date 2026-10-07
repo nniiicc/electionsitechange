@@ -1,10 +1,5 @@
-Back to All Events
-Are you a member of the Kent County Democratic Party?
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Kent County Democratic Party Social Hour Wednesday, April 8, 2026 6:00 PM 7:00 PM Kent County Democratic Party 301 Fuller Avenue Northeast Grand Rapids, MI, 49503 United States (map) Google Calendar ICS Are you a member of the Kent County Democratic Party?
 If so, then join Anthony on Wednesday, April 8th from 6:00pm - 7:00pm for a Social Hour before the KCDP business meeting!
-Previous
-Previous
-March 21
-Calhoun County Coffee Hour - Battle Creek
-Next
-Next
-April 15
+Previous Previous March 21 Calhoun County Coffee Hour - Battle Creek Next Next April 15 We Care Lowell: Education Solutions in MI Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

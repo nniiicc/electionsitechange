@@ -1,24 +1,102 @@
 [
-"https://bobbyscottforcongress.com/",
-"https://bobbyscottforcongress.com/about-bobby",
-"https://bobbyscottforcongress.com/contact",
-"https://bobbyscottforcongress.com/events",
-"https://bobbyscottforcongress.com/millenial-roundtable",
-"https://bobbyscottforcongress.com/new-gallery-2",
-"https://bobbyscottforcongress.com/new-gallery-3",
-"https://bobbyscottforcongress.com/new-gallery-4",
-"https://bobbyscottforcongress.com/photos",
-"https://bobbyscottforcongress.com/press-1",
-"https://bobbyscottforcongress.com/search",
-"https://bobbyscottforcongress.com/the-scott-record",
-"https://bobbyscottforcongress.com/victoria-rowell-event",
-"https://bobbyscottforcongress.com/volunteer",
-"https://bobbyscottforcongress.com/vote",
-"https://bobbyscottforcongress.com/working-for-us",
-"https://facebook.com/bobbyscottforcongress",
-"https://secure.actblue.com/donate/bobby-scott-3",
-"https://twitter.com/BobbyScott4VA3",
-"https://vademocrats.org/",
-"https://vayd.org/",
-"https://wevoteva.com/"
+{
+"text": "About Bobby",
+"href": "https://www.bobbyscottforcongress.com/about-bobby"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bobbyscottforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "News",
+"href": "https://www.bobbyscottforcongress.com/press-1"
+},
+{
+"text": "Paid for by Bobby Scott for Congress",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Photos",
+"href": "https://www.bobbyscottforcongress.com/photos"
+},
+{
+"text": "The Scott Record",
+"href": "https://www.bobbyscottforcongress.com/the-scott-record"
+},
+{
+"text": "VAYD",
+"href": "https://www.vayd.org/"
+},
+{
+"text": "Virginia Dems",
+"href": "https://vademocrats.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bobbyscottforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bobbyscottforcongress.com/vote"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://www.wevoteva.com/"
+},
+{
+"text": "Working For Us",
+"href": "https://www.bobbyscottforcongress.com/working-for-us"
+},
+{
+"text": "[image: 43rd Annual Labor Day Cookout_2711.jpg]",
+"href": "https://www.bobbyscottforcongress.com/new-gallery-2"
+},
+{
+"text": "[image: Bobby Scott for Congress]",
+"href": "https://www.bobbyscottforcongress.com/"
+},
+{
+"text": "[image: DAW_5709.JPG]",
+"href": "https://www.bobbyscottforcongress.com/victoria-rowell-event"
+},
+{
+"text": "[image: DSC_0038_2934.jpg]",
+"href": "https://www.bobbyscottforcongress.com/millenial-roundtable"
+},
+{
+"text": "[image: DSC_0118_2856.jpg]",
+"href": "https://www.bobbyscottforcongress.com/new-gallery-4"
+},
+{
+"text": "[image: DSC_0800_4045 2.JPG]",
+"href": "https://www.bobbyscottforcongress.com/new-gallery-3"
+},
+{
+"text": "[image: FB_logo_white.png]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "[image: twitter_logo_white.png]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+}
 ]

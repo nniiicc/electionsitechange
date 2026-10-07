@@ -1,17 +1,74 @@
 [
-"http://escortsistanbul.com/",
-"http://istanbulescorts.biz/",
-"https://facebook.com/QuangSpeaks",
-"https://go.azsos.gov/z647",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA",
-"https://quangforarizona.com/",
-"https://quangforarizona.com/about",
-"https://quangforarizona.com/contact",
-"https://quangforarizona.com/endorsements",
-"https://quangforarizona.com/events",
-"https://quangforarizona.com/get-involved",
-"https://quangforarizona.com/order-signs",
-"https://quangforarizona.com/quangs-voice",
-"https://twitter.com/QuangNguyenAZ",
-"https://twitter.com/share"
+{
+"text": "About",
+"href": "https://quangforarizona.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://quangforarizona.com/contact/"
+},
+{
+"text": "Donate Support Quang",
+"href": "https://www.paypal.com/cgi-bin/webscr/?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA"
+},
+{
+"text": "Donate Today",
+"href": "https://www.paypal.com/cgi-bin/webscr/?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA"
+},
+{
+"text": "Endorsements",
+"href": "https://quangforarizona.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://quangforarizona.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://quangforarizona.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://quangforarizona.com"
+},
+{
+"text": "Order Signs Order a Yard Sign",
+"href": "https://quangforarizona.com/order-signs/"
+},
+{
+"text": "Quang’s Voice",
+"href": "https://quangforarizona.com/quangs-voice/"
+},
+{
+"text": "Sign the Petition Sign Quang's Petition!",
+"href": "https://go.azsos.gov/z647"
+},
+{
+"text": "Tweet",
+"href": "https://twitter.com/share"
+},
+{
+"text": "[image: Logo]",
+"href": "https://quangforarizona.com/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://quangforarizona.com/contact"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/QuangSpeaks"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/QuangNguyenAZ"
+},
+{
+"text": "escort",
+"href": "http://www.escortsistanbul.com"
+},
+{
+"text": "istanbul escort",
+"href": "http://istanbulescorts.biz"
+}
 ]

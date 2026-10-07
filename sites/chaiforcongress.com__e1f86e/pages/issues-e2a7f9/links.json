@@ -1,13 +1,58 @@
 [
-"https://chaiforcongress.com/",
-"https://chaiforcongress.com/about",
-"https://chaiforcongress.com/contact",
-"https://chaiforcongress.com/issues",
-"https://chaiforcongress.com/issues/ballotpedia",
-"https://chaiforcongress.com/volunteer",
-"https://connecticutwebsitecompany.com/",
-"https://facebook.com/chai.for.congress.ct.1",
-"https://secure.winred.com/friends-of-doc-chai/donate-today",
-"https://tiktok.com/@doc.chai7",
-"https://x.com/docchai2022"
+{
+"text": "About Amy",
+"href": "https://chaiforcongress.com/about"
+},
+{
+"text": "CHAIFOR CONGRESSConnecticut's FirstDistrict CT-1",
+"href": "https://chaiforcongress.com/"
+},
+{
+"text": "Contact",
+"href": "https://chaiforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-doc-chai/donate-today"
+},
+{
+"text": "Donate Here.",
+"href": "https://secure.winred.com/friends-of-doc-chai/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/friends-of-doc-chai/donate-today"
+},
+{
+"text": "Facebook (opens in a new tab)",
+"href": "https://www.facebook.com/chai.for.congress.ct.1"
+},
+{
+"text": "Home",
+"href": "https://chaiforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://chaiforcongress.com/issues"
+},
+{
+"text": "Read all 27 answers",
+"href": "https://chaiforcongress.com/issues/ballotpedia"
+},
+{
+"text": "TikTok (opens in a new tab)",
+"href": "https://www.tiktok.com/@doc.chai7"
+},
+{
+"text": "Volunteer",
+"href": "https://chaiforcongress.com/volunteer"
+},
+{
+"text": "Website by Connecticut Website Company",
+"href": "https://connecticutwebsitecompany.com"
+},
+{
+"text": "X (opens in a new tab)",
+"href": "https://x.com/docchai2022"
+}
 ]

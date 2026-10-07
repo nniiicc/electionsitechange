@@ -1,16 +1,74 @@
 [
-"https://facebook.com/profile.php?id=61582333057293",
-"https://instagram.com/timforhouse114",
-"https://secure.winred.com/tim-for-house-campaign/donate-today",
-"https://texasgop.org/wp-content/uploads/2024/06/2024-RPT-Platform.pdf",
-"https://timforhouse.com/es",
-"https://timforhouse.com/es/asuntos",
-"https://timforhouse.com/es/contactar",
-"https://timforhouse.com/es/prensa",
-"https://timforhouse.com/es/sobre-tim",
-"https://timforhouse.com/issues",
-"https://timforhouse.com/join-the-campaign",
-"https://timforhouse.com/privacy-policy",
-"https://timforhouse.com/terms-condition",
-"https://x.com/timforhouse"
+{
+"text": "Asuntos",
+"href": "https://timforhouse.com/es/asuntos/"
+},
+{
+"text": "Contactar",
+"href": "https://timforhouse.com/es/contactar/"
+},
+{
+"text": "Donaciones",
+"href": "https://secure.winred.com/tim-for-house-campaign/donate-today"
+},
+{
+"text": "Done Hoy",
+"href": "https://secure.winred.com/tim-for-house-campaign/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61582333057293"
+},
+{
+"text": "Haga una Diferencia",
+"href": "https://timforhouse.com/join-the-campaign/"
+},
+{
+"text": "Inicio",
+"href": "https://timforhouse.com/es/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/timforhouse114/"
+},
+{
+"text": "Partido Republicano de Texas",
+"href": "https://texasgop.org/wp-content/uploads/2024/06/2024-RPT-Platform.pdf"
+},
+{
+"text": "Prensa",
+"href": "https://timforhouse.com/es/prensa/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://timforhouse.com/privacy-policy"
+},
+{
+"text": "Sobre Tim",
+"href": "https://timforhouse.com/es/sobre-tim/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://timforhouse.com/terms-condition"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/timforhouse"
+},
+{
+"text": "[image]",
+"href": "https://timforhouse.com/es/"
+},
+{
+"text": "[image]EN",
+"href": "https://timforhouse.com/issues/"
+},
+{
+"text": "[image]ES",
+"href": "https://timforhouse.com/es/asuntos/"
+},
+{
+"text": "Únanse a la Campaña",
+"href": "https://timforhouse.com/join-the-campaign/"
+}
 ]

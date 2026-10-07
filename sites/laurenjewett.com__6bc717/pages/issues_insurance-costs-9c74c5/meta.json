@@ -1,11 +1,14 @@
 {
- "description": "Read Lauren Jewett\u2019s plan for skyrocketing insurance costs.",
+ "description": "Read Lauren Jewett’s plan for skyrocketing insurance costs.",
  "final_url": "https://www.laurenjewett.com/issues/insurance-costs",
- "paid_for_by": "Paid for by the Committee to Elect Lauren Jewett for Congress \u00a9 Copyright 2026",
+ "fingerprint": "f164ad28117e42e6232361cf4e7a5b53c0e2a9cd",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #",
  "title": "Skyrocketing Insurance Costs | Lauren Jewett | Lauren Jewett for Congress",
  "years_mentioned": [
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

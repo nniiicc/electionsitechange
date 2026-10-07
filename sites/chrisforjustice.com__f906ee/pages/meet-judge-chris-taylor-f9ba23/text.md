@@ -1,5 +1,4 @@
-meet judge chris taylor
-As an attorney, public servant, and now as judge, Chris Taylor has always believed in protecting the rights and freedoms of Wisconsinites.
+0 Skip to Content Meet Chris Endorsements Vote Volunteer Donate Open Menu Close Menu Meet Chris Endorsements Vote Volunteer Donate Open Menu Close Menu Meet Chris Endorsements Vote Volunteer Donate meet judge chris taylor As an attorney, public servant, and now as judge, Chris Taylor has always believed in protecting the rights and freedoms of Wisconsinites.
 On the Wisconsin Supreme Court, she’ll uphold the law and our Constitution fairly and impartially.
 Judge Chris Taylor is a lifelong advocate for justice, fairness, and protecting the rights of all people.
 As a judge on the Wisconsin Court of Appeals, she brings a deep understanding of the law and a commitment to ensuring everyone gets a fair shot in our judicial system.
@@ -16,3 +15,4 @@ Prior to her legislative work, she was an attorney and policy director for Plann
 Judge Taylor lives in Madison with her husband and their two sons.
 When she’s not working, you’ll find her cheering on her kids at sporting events, running through Madison’s parks, or enjoying live music.
 She’s proud to serve the people of Wisconsin—and to bring her experience, compassion, and integrity to the Wisconsin Supreme Court.
+Media Chris Taylor for Justice PO Box 1921 Madison, WI 53701 General Inquiries: info@chrisforjustice.com Press Requests: press@chrisforjustice.com Paid for by Chris Taylor for Justice

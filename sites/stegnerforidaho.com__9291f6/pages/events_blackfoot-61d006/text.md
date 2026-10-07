@@ -1,4 +1,4 @@
-Meet John Stegner on his statewide ‘Do the Work’ Tour.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events Join John in Blackfoot Tuesday, August 18, 2026 6:00 PM 7:30 PM 9 South Thompson Lane Blackfoot, Idaho, 83221 United States (map) Google Calendar ICS Meet John Stegner on his statewide ‘Do the Work’ Tour.
 Hear his vision for Idaho, ask questions, and learn how you can help shape our state.
 John Stegner believes leadership begins by showing up.
 That's why he's traveling across Idaho on the Do the Work Tour—meeting people where they live, listening to their experiences, answering questions, and having real conversations about the future of our state.
@@ -13,3 +13,4 @@ You'll also discover ways to become involved—whether that's volunteering, help
 We hope you’ll join us in Blackfoot or at another stop on the Do the Work Tour.
 View the full statewide schedule here: https://www.stegnerforidaho.com/events .
 More stops are added every day!
+RSVP HERE Previous Previous August 13 Join John in Twin Falls Next Next August 20 Join John in Pocatello Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

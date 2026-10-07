@@ -1,4 +1,4 @@
-Mike is running for Wisconsin State Senate because too many people feel unheard by their government.
+Meet Mike ‍ Get Involved Mike's Priorities Senate District 5 Donate Why I’m Running Mike is running for Wisconsin State Senate because too many people feel unheard by their government.
 Decisions are increasingly driven by political bases rather than everyday families — and the results show it.
 After more than 15 years working on the front lines of healthcare and running a small business, Mike understands where systems break down: rising costs, inefficient bureaucracy, and policies that sound good on paper but fail people in real life.
 He’s seen how affordability challenges — from healthcare to housing to education — are making it harder for young adults to build stable futures and for families to get ahead.
@@ -7,45 +7,19 @@ Having worked closely with law enforcement departments across southeastern Wisco
 And as both a parent and an educator by marriage, he believes our schools should focus on preparing students with strong fundamentals and real-world skills that set them up for success.
 Above all, Mike believes leadership starts with listening.
 That’s what he’s done every day as a healthcare professional — earning trust, finding common ground, and solving problems — and that’s exactly how he plans to serve as your State Senator.
-He’s asking for your vote to help move Wisconsin Forward — together.
-Families are doing everything right — working hard, saving when they can — yet groceries, housing, healthcare, and basic necessities keep getting more expensive.
+He’s asking for your vote to help move Wisconsin Forward — together. + ISSUE 1: ECONOMY & COST OF LIVING Here’s What I’m Hearing Families are doing everything right — working hard, saving when they can — yet groceries, housing, healthcare, and basic necessities keep getting more expensive.
 Young adults are having a hard time getting their life started and buying a home and retirees on a fixed income are wondering if they can swing it financially.
 We need common sense and effective solutions to improve our cost of living.
-Cut Red Tape That Drives Up Everyday Costs — Without Sacrificing Safety or Quality
-Demand Financial Transparency and Accountability — and Relieve Property Tax Pressure
-Lower Healthcare Costs by Incentivizing and Paying for Prevention
-- Reduce Wisconsin’s regulatory restrictions by 15% over the next 3 years without compromising safety, quality, or common sense
-- Move Wisconsin out of the Top 10 for highest property tax burden within four years
-- Reduce preventable emergency room visits and hospitalizations in state-regulated health plans and Medicaid by 10% within four years — by expanding access to preventive care, not by restricting care
-People want to feel safe in their homes and communities.
+Here’s My Pledge Cut Red Tape That Drives Up Everyday Costs — Without Sacrificing Safety or Quality Demand Financial Transparency and Accountability — and Relieve Property Tax Pressure ‍ Lower Healthcare Costs by Incentivizing and Paying for Prevention Here’s My Goal Reduce Wisconsin’s regulatory restrictions by 15% over the next 3 years without compromising safety, quality, or common sense Move Wisconsin out of the Top 10 for highest property tax burden within four years Reduce preventable emergency room visits and hospitalizations in state-regulated health plans and Medicaid by 10% within four years — by expanding access to preventive care, not by restricting care + ISSUE 2: PUBLIC SAFETY Here’s What I’m Hearing People want to feel safe in their homes and communities.
 They want to feel safe walking around their neighborhood with their kids.
 Police officers are tired of arresting the same criminals over and over again and continue to stress the need for more support and staffing.
-Support Law Enforcement with Training, Resources, and Accountability
-Focus on Prevention and Mental Health Response
-Hold Repeat Violent Offenders Accountable — and Protect Law-Abiding Families
-- Increase officer staffing, training capacity, and retention in state-supported law enforcement agencies — with a focus on reversing the 15-year staffing decline within 4 years
-- Expand evidence-based mental health and crisis-response partnerships in state-supported departments to reduce repeat crisis-related police calls by 10% within three years — while keeping law enforcement fully supported and in control
-- Reduce repeat violent-offender recidivism in Wisconsin by at least 10% within four years — through targeted supervision, accountability, and smarter sentencing policy that protects public safety
-Parents want schools focused on teaching children how to read, write, think critically, and succeed — not politics in the classroom.
+Here’s My Pledge Support Law Enforcement with Training, Resources, and Accountability Focus on Prevention and Mental Health Response Hold Repeat Violent Offenders Accountable — and Protect Law-Abiding Families Here’s My Goal Increase officer staffing, training capacity, and retention in state-supported law enforcement agencies — with a focus on reversing the 15-year staffing decline within 4 years Expand evidence-based mental health and crisis-response partnerships in state-supported departments to reduce repeat crisis-related police calls by 10% within three years — while keeping law enforcement fully supported and in control Reduce repeat violent-offender recidivism in Wisconsin by at least 10% within four years — through targeted supervision, accountability, and smarter sentencing policy that protects public safety + ISSUE 3: EDUCATION Here’s What I’m Hearing Parents want schools focused on teaching children how to read, write, think critically, and succeed — not politics in the classroom.
 Our taxpayer money should be going towards children and teachers.
 The system should be held accountable for outcomes and academic growth.
-Refocus Education on Core Skills and Measurable Outcomes
-Expand Career Pathways and Workforce Readiness For Our Children
-Empower Parents and Educators — Not Bureaucracies
-- Increase 4th grade reading and math proficiency in Wisconsin by at least 10% within 5 years, with a specific focus on closing achievement gaps
-- Increase participation in youth apprenticeship programs by 50% — from about 11,300 students today to at least 17,000 within four years
-- Cap administrative staffing growth below student enrollment growth statewide over the next 4 years
-Healthcare feels confusing, expensive, and inefficient.
+Here’s My Pledge Refocus Education on Core Skills and Measurable Outcomes Expand Career Pathways and Workforce Readiness For Our Children Empower Parents and Educators — Not Bureaucracies Here’s My Goal Increase 4th grade reading and math proficiency in Wisconsin by at least 10% within 5 years, with a specific focus on closing achievement gaps Increase participation in youth apprenticeship programs by 50% — from about 11,300 students today to at least 17,000 within four years Cap administrative staffing growth below student enrollment growth statewide over the next 4 years + ISSUE 4: HEALTHCARE Here’s What I’m Hearing Healthcare feels confusing, expensive, and inefficient.
 It is too often patients are left frustrated by systems that don’t put them first.
 I have also had too many patients give me their story of being passed from doctor to doctor and medication to medication before seeing us.
 We need a system that balances cost, quality, and access and works for families.
-Fix the Incentives in Healthcare Spending
-Update Food Policy to Improve Health and Support Wisconsin Farmers
-Tackle Obesity Early — Especially in Kids
-Fix Medicaid Without Cutting Care
-Support Postpartum and Women’s Health
-- Within four years, reduce avoidable chronic disease emergency room visits by 15% and improve preventive care performance across Wisconsin Medicaid and state-regulated plans — without mandates or penalties
-- Increase the share of SNAP purchases spent on fruits, vegetables, and whole foods by at least 20% — through incentives, not restrictions — while expanding access to Wisconsin-grown food
-- Expand after-school and out-of-school physical activity opportunities so at least 20% of Wisconsin K-12 students can participate within 5 years, matching national participation levels
-- Reduce preventable Medicaid hospitalization and emergency visits tied to chronic disease by at least 10% within 4 years through outcome-based contracts and expanded preventive care
-- Reduce Wisconsin’s pregnancy-associated maternal mortality rate by 20% within five years through improved postpartum coverage, coordinated care, and preventive screening
+Here’s My Pledge Fix the Incentives in Healthcare Spending Update Food Policy to Improve Health and Support Wisconsin Farmers Tackle Obesity Early — Especially in Kids Fix Medicaid Without Cutting Care Support Postpartum and Women’s Health Here’s My Goal Within four years, reduce avoidable chronic disease emergency room visits by 15% and improve preventive care performance across Wisconsin Medicaid and state-regulated plans — without mandates or penalties Increase the share of SNAP purchases spent on fruits, vegetables, and whole foods by at least 20% — through incentives, not restrictions — while expanding access to Wisconsin-grown food Expand after-school and out-of-school physical activity opportunities so at least 20% of Wisconsin K-12 students can participate within 5 years, matching national participation levels Reduce preventable Medicaid hospitalization and emergency visits tied to chronic disease by at least 10% within 4 years through outcome-based contracts and expanded preventive care Reduce Wisconsin’s pregnancy-associated maternal mortality rate by 20% within five years through improved postpartum coverage, coordinated care, and preventive screening Make Check Payable to: Mike Roberts for State Senate 140 Simmons Ave.
+P.O.
+Box #156 Pewaukee, WI 53072 Paid for by Mike Roberts for State Senate Privacy Policy

@@ -1,41 +1,234 @@
 [
-"http://eepurl.com/drimqr",
-"http://ratings.conservative.org/people/64cb5084-5526-4f03-8e7c-526b1589a2c5",
-"https://boisedev.com/news/2024/01/17/library-district-term-cuts",
-"https://bonnercountydailybee.com/news/2024/mar/10/just-like-zombies-bad-bills-keep-returning",
-"https://cdapress.com/news/2024/feb/07/bill-to-protect-public-land-water-access-clears-se",
-"https://facebook.com/ScottHerndonforIdaho",
-"https://herndonforidaho.com/",
-"https://herndonforidaho.com/category/breaking-news",
-"https://herndonforidaho.com/category/herndons-editorial",
-"https://herndonforidaho.com/category/idaho-money",
-"https://herndonforidaho.com/category/legislative-news",
-"https://herndonforidaho.com/category/policy-analysis",
-"https://herndonforidaho.com/conservative-budget-victory-this-week",
-"https://herndonforidaho.com/contact",
-"https://herndonforidaho.com/donate",
-"https://herndonforidaho.com/herndon-delivers-property-tax-relief",
-"https://herndonforidaho.com/how-the-idaho-legislature-spends-your-money",
-"https://herndonforidaho.com/idaho-health-and-welfare-breaks-the-law",
-"https://herndonforidaho.com/idaho-health-and-welfare-breaks-the-law-2",
-"https://herndonforidaho.com/idaho-senate-delivers-property-tax-relief",
-"https://herndonforidaho.com/my-record",
-"https://herndonforidaho.com/news-2",
-"https://herndonforidaho.com/privacy",
-"https://herndonforidaho.com/protecting-children-from-radical-lgbtq-agenda",
-"https://herndonforidaho.com/scott-herndon-announces-bid-for-idaho-state-senate-district-1",
-"https://herndonforidaho.com/scott-herndon-fights-for-the-2nd-amendment",
-"https://herndonforidaho.com/successes-and-failures-of-the-2023-idaho-legislative-session",
-"https://herndonforidaho.com/wp-content/uploads/2021/12/Scott_Cop_600x600.jpg",
-"https://herndonforidaho.com/wp-content/uploads/2025/08/Scott_Herndon_600x.jpg",
-"https://herndonforidaho.com/wp-content/uploads/2025/09/Herndon_Flag_600x.jpg",
-"https://herndonforidaho.com/wp-content/uploads/2025/09/Herndon_family_2_600x.jpg",
-"https://herndonforidaho.com/wp-content/uploads/2025/09/Herndon_family_3_600.jpg",
-"https://herndonforidaho.com/wp-content/uploads/2026/09/Idaho_Property_Tax_Elimination_Whitepaper.pdf",
-"https://idahocapitalsun.com/2024/02/02/idaho-gov-brad-little-says-jfacs-budget-changes-could-have-unintended-consequences",
-"https://index.idahofreedom.org/legislator-profile?id=28659&_year=2024",
-"https://ktvb.com/article/news/local/capitol-watch/constitutional-amendment-proposed-to-confirm-right-privately-educate-children-free-from-government-regulation/277-e911b035-e7e5-4136-b8b2-8636baa3b4d3",
-"https://scorecard.limitedgov.org/lawmakers/e0569b6d-45e0-44d8-9571-10d2899fb451",
-"https://twitter.com/HerndonforIdaho",
-"https://twitter.com/herndonforidaho"
+{
+"text": "Bill to protect public land, water access clears Senate panel",
+"href": "https://cdapress.com/news/2024/feb/07/bill-to-protect-public-land-water-access-clears-se/"
+},
+{
+"text": "Breaking News",
+"href": "https://herndonforidaho.com/category/breaking-news/"
+},
+{
+"text": "Conservative Budget Victory This Week",
+"href": "https://herndonforidaho.com/conservative-budget-victory-this-week/"
+},
+{
+"text": "Constitutional amendment proposed to confirm right to privately educate children, 'free from government regulation'",
+"href": "https://www.ktvb.com/article/news/local/capitol-watch/constitutional-amendment-proposed-to-confirm-right-privately-educate-children-free-from-government-regulation/277-e911b035-e7e5-4136-b8b2-8636baa3b4d3"
+},
+{
+"text": "Defending the National Guard and Defeating Monsanto",
+"href": "https://bonnercountydailybee.com/news/2024/mar/10/just-like-zombies-bad-bills-keep-returning/"
+},
+{
+"text": "Donate",
+"href": "https://herndonforidaho.com/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://herndonforidaho.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ScottHerndonforIdaho/"
+},
+{
+"text": "Herndon Delivers Property Tax Relief",
+"href": "https://herndonforidaho.com/herndon-delivers-property-tax-relief/"
+},
+{
+"text": "Herndon's Editorial",
+"href": "https://herndonforidaho.com/category/herndons-editorial/"
+},
+{
+"text": "Home",
+"href": "https://herndonforidaho.com/"
+},
+{
+"text": "How the Idaho Legislature Spends Your Money",
+"href": "https://herndonforidaho.com/how-the-idaho-legislature-spends-your-money/"
+},
+{
+"text": "Idaho Gov. Brad Little says JFAC’s budget changes could have unintended consequences",
+"href": "https://idahocapitalsun.com/2024/02/02/idaho-gov-brad-little-says-jfacs-budget-changes-could-have-unintended-consequences/"
+},
+{
+"text": "Idaho Health and Welfare Breaks the Law",
+"href": "https://herndonforidaho.com/idaho-health-and-welfare-breaks-the-law/"
+},
+{
+"text": "Idaho Money",
+"href": "https://herndonforidaho.com/category/idaho-money/"
+},
+{
+"text": "Idaho Senate Delivers Property Tax Relief",
+"href": "https://herndonforidaho.com/idaho-senate-delivers-property-tax-relief/"
+},
+{
+"text": "Join The Movement!",
+"href": "http://eepurl.com/drimqr"
+},
+{
+"text": "Legislative News",
+"href": "https://herndonforidaho.com/category/legislative-news/"
+},
+{
+"text": "My Record",
+"href": "https://herndonforidaho.com/my-record/"
+},
+{
+"text": "National News narrative and the 2nd amendment",
+"href": "https://herndonforidaho.com/idaho-health-and-welfare-breaks-the-law-2/"
+},
+{
+"text": "News",
+"href": "https://herndonforidaho.com/news-2/"
+},
+{
+"text": "News and Articles Page",
+"href": "https://herndonforidaho.com/news-2/"
+},
+{
+"text": "Policy Analysis",
+"href": "https://herndonforidaho.com/category/policy-analysis/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://herndonforidaho.com/privacy"
+},
+{
+"text": "Protecting Children from Radical LGBTQ Agenda",
+"href": "https://herndonforidaho.com/protecting-children-from-radical-lgbtq-agenda/"
+},
+{
+"text": "Read the Full Plan →",
+"href": "https://herndonforidaho.com/wp-content/uploads/2026/09/Idaho_Property_Tax_Elimination_Whitepaper.pdf"
+},
+{
+"text": "Read the Story",
+"href": "https://boisedev.com/news/2024/01/17/library-district-term-cuts/"
+},
+{
+"text": "Read the Story",
+"href": "https://bonnercountydailybee.com/news/2024/mar/10/just-like-zombies-bad-bills-keep-returning/"
+},
+{
+"text": "Read the Story",
+"href": "https://cdapress.com/news/2024/feb/07/bill-to-protect-public-land-water-access-clears-se/"
+},
+{
+"text": "Read the Story",
+"href": "https://idahocapitalsun.com/2024/02/02/idaho-gov-brad-little-says-jfacs-budget-changes-could-have-unintended-consequences/"
+},
+{
+"text": "Read the Story",
+"href": "https://www.ktvb.com/article/news/local/capitol-watch/constitutional-amendment-proposed-to-confirm-right-privately-educate-children-free-from-government-regulation/277-e911b035-e7e5-4136-b8b2-8636baa3b4d3"
+},
+{
+"text": "SCOTT HERNDON ANNOUNCES BID FOR IDAHO STATE SENATE DISTRICT 1",
+"href": "https://herndonforidaho.com/scott-herndon-announces-bid-for-idaho-state-senate-district-1/"
+},
+{
+"text": "Scott Herndon fights for the 2nd Amendment",
+"href": "https://herndonforidaho.com/scott-herndon-fights-for-the-2nd-amendment/"
+},
+{
+"text": "Scott Herndon's Senate Record",
+"href": "https://herndonforidaho.com/my-record/"
+},
+{
+"text": "Senate passes bill to shorten library district trustee terms",
+"href": "https://boisedev.com/news/2024/01/17/library-district-term-cuts/"
+},
+{
+"text": "Successes and Failures of the 2023 Idaho Legislative Session",
+"href": "https://herndonforidaho.com/successes-and-failures-of-the-2023-idaho-legislative-session/"
+},
+{
+"text": "Tweets by @HerndonforIdaho",
+"href": "https://twitter.com/HerndonforIdaho"
+},
+{
+"text": "Volunteer",
+"href": "https://herndonforidaho.com/contact/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/herndonforidaho"
+},
+{
+"text": "[image: Scott Herndon endorsed by CPAC]",
+"href": "http://ratings.conservative.org/people/64cb5084-5526-4f03-8e7c-526b1589a2c5"
+},
+{
+"text": "[image: Scott Herndon]",
+"href": "https://herndonforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://herndonforidaho.com/wp-content/uploads/2021/12/Scott_Cop_600x600.jpg"
+},
+{
+"text": "[image]",
+"href": "https://herndonforidaho.com/wp-content/uploads/2025/08/Scott_Herndon_600x.jpg"
+},
+{
+"text": "[image]",
+"href": "https://herndonforidaho.com/wp-content/uploads/2025/09/Herndon_Flag_600x.jpg"
+},
+{
+"text": "[image]",
+"href": "https://herndonforidaho.com/wp-content/uploads/2025/09/Herndon_family_2_600x.jpg"
+},
+{
+"text": "[image]",
+"href": "https://herndonforidaho.com/wp-content/uploads/2025/09/Herndon_family_3_600.jpg"
+},
+{
+"text": "[image]",
+"href": "https://index.idahofreedom.org/legislator-profile/?id=28659&_year=2024"
+},
+{
+"text": "[image]",
+"href": "https://scorecard.limitedgov.org/lawmakers/e0569b6d-45e0-44d8-9571-10d2899fb451"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/conservative-budget-victory-this-week/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/herndon-delivers-property-tax-relief/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/how-the-idaho-legislature-spends-your-money/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/idaho-health-and-welfare-breaks-the-law-2/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/idaho-health-and-welfare-breaks-the-law/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/idaho-senate-delivers-property-tax-relief/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/protecting-children-from-radical-lgbtq-agenda/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/scott-herndon-announces-bid-for-idaho-state-senate-district-1/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/scott-herndon-fights-for-the-2nd-amendment/"
+},
+{
+"text": "[no text]",
+"href": "https://herndonforidaho.com/successes-and-failures-of-the-2023-idaho-legislative-session/"
+}
 ]

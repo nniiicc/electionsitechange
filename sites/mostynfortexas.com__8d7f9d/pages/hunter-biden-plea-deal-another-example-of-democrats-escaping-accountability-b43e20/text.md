@@ -1,21 +1,17 @@
-San Antonio, Texas – After a five year long probe by a US District Attorney in Delaware, Hunter Biden has struck a deal with federal prosecutors for failing to pay federal taxes and lying about his drug abuse on a gun registration form.
+Home About Issues News Volunteer Shop Donate Select Page HUNTER BIDEN PLEA DEAL ANOTHER EXAMPLE OF DEMOCRATS ESCAPING ACCOUNTABILITY Jul 14, 2023 | Uncategorized San Antonio, Texas – After a five year long probe by a US District Attorney in Delaware, Hunter Biden has struck a deal with federal prosecutors for failing to pay federal taxes and lying about his drug abuse on a gun registration form.
 He will plead guilty to these obscene offenses and to much surprise, avoid jail time.
 House Republicans have prioritized this investigation for years now.
 Hunter and his father have been accused of operating a pay-for-play scheme, resulting in millions of dollars being funneled into their bank accounts.
 The investigation has uncovered payments from businesses in China, Ukraine, Russia, and Mexico all of whom are now exerting influence over the Biden administration.
 Whistleblowers have accused the investigation into Hunter Biden of being slow-walked by prosecutors because of political bias.
-Ben Mostyn shared the following statement:
-“Hunter Biden negotiated a sweetheart deal with prosecutors who work for his father.
+Ben Mostyn shared the following statement: “Hunter Biden negotiated a sweetheart deal with prosecutors who work for his father.
 If your last name is Biden, that alone will keep you from going to jail.
 Political corruption is a stain on our country and our standing in the world.
 It’s time to restore trust in our government and stand for an equal application of the law.
 In the United States, no one should be above the law.
 But apparently if you are the son of a President, you get a free pass to commit crimes.
 It’s time for this two-tiered system of justice to end.
-As your State Representative, I will fight against corruption and restore accountability in our political system.”
-##
-About Ben Mostyn
-Ben Mostyn moved to Texas when he was a young boy and was raised with good Texas values.
+As your State Representative, I will fight against corruption and restore accountability in our political system.” ## About Ben Mostyn Ben Mostyn moved to Texas when he was a young boy and was raised with good Texas values.
 From an early age, Ben was homeschooled, which formed the foundation for his current beliefs in school choice and that parents should have full charge of their children’s education.
 Growing up poor in a blue-collar family, he learned early on the value of hard-earned money, the struggles of life, and by the age of 9, he was working – pushing his lawnmower and knocking on doors.; selling his mom’s herbal products at fairs; selling appliances he or his dad had fixed up; and later Ben became the youngest employee in the MCI Telecommunications company.
 He went to Del Valley High School and in the 10th grade and was selected for a pilot program, one of the first in the nation wherein, Juniors and Seniors went to high school and college at the same time, and was 1 of 4 to graduate whilst working for Advanced Micro Devices (AMD) as an Assistant Engineer in the summers.
@@ -37,3 +33,6 @@ Mostyn is not a politician and has confidence in moving our state forward in a s
 It’s time for people like Ben who can utilize their skill sets to explain, educate, and motivate the people toward the values of our Constitutional Republic and away from Democratic Socialism.
 Ben is a believer in hard work, and he knows in order to get things done, you have to be the one to roll up your sleeves and do the work.
 In the legislature, Ben will be the one who gets things done.
+Search for: Archives October 2023 July 2023 March 2023 Categories Uncategorized Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
+Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Follow Follow Follow Follow

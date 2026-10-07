@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.brownforncsenate.com/about",
- "paid_for_by": null,
+ "fingerprint": "a0501ca45992320db8219e7b02b10e61ec21d5d8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Mysite",
- "years_mentioned": []
+ "years_mentioned": [
+  "2009"
+ ]
 }

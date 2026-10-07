@@ -1,11 +1,9 @@
-Stronger Neighborhoods, Together: Recapping National Night Out Across Burlington
-Even an early evening summer shower couldn't dampen the spirit of our community during this year's celebration of National Night Out in Burlington!
+top of page Donate Join the Team Home Meet Ian Priorities Endorsements Merch News News Civic Engagement Search Stronger Neighborhoods, Together: Recapping National Night Out Across Burlington Ian Baltutis Aug 5 1 min read Even an early evening summer shower couldn't dampen the spirit of our community during this year's celebration of National Night Out in Burlington !
 National Night Out is an annual tradition that connects residents, neighborhood advocates, and first responders to build stronger, safer, and more close-knit communities block by block.
 Alongside Mayor Beth Kennett, my fellow City Council members, our City Manager, and dedicated officers and firefighters from the Burlington Police and Fire departments, I spent the evening fanning out across the city to visit gatherings and meet with residents.
-The Strength of Local Connections
-This is consistently one of my absolute favorite nights of the year for local public service:
-- Bridging Generations and Newcomers: Seeing long-time residents welcome families who just moved to Alamance County proves how welcoming and vibrant our neighborhoods truly are.
-- Fostering Public Trust: Creating informal, positive spaces for neighbors to speak directly with local first responders and municipal leaders builds transparency and mutual accountability.
-- Hometown Hospitality: From backyard barbecues to potlucks and homemade desserts, the warmth and hospitality across every neighborhood were unmatched—providing more than enough energy for another full week of door-to-door canvassing!
+The Strength of Local Connections This is consistently one of my absolute favorite nights of the year for local public service: Bridging Generations and Newcomers: Seeing long-time residents welcome families who just moved to Alamance County proves how welcoming and vibrant our neighborhoods truly are.
+Fostering Public Trust: Creating informal, positive spaces for neighbors to speak directly with local first responders and municipal leaders builds transparency and mutual accountability.
+Hometown Hospitality: From backyard barbecues to potlucks and homemade desserts, the warmth and hospitality across every neighborhood were unmatched—providing more than enough energy for another full week of door-to-door canvassing!
 Building a resilient, prosperous community always starts on the front porches of our neighborhoods.
 Thank you to all the neighborhood coordinators and families who opened up their streets and hosted such incredible block parties!
+Recent Posts See All Flipping for Progress: Recapping the Birthday Flip-Out Campaign Fundraiser Standing with Our Teachers: Earning the Alamance Burlington Association of Educators Endorsement 24 Years of Community Building: Cheerful Service on the Flight Line at EAA AirVenture Donate (336) 494-6767 ian@baltutis.us Contributions can be Mailed to: ​ ​ Baltutis for NC House 2779 S Church St, Suite 101 Burlington, NC, 27215 United States of America Paid for by Ian Baltutis for NC House bottom of page

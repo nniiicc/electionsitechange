@@ -1,7 +1,9 @@
 {
  "description": "News on Caputi for Arizona. The official platform for Tammy Caputi's campaign for State Representative.",
  "final_url": "https://tammycaputi.com/News",
- "paid_for_by": null,
+ "fingerprint": "7fe7d692b2b8fd83b3966c6dae01d98bfd08554e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Caputi for Arizona",
  "years_mentioned": []
 }

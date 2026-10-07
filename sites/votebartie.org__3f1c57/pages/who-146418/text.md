@@ -1,4 +1,8 @@
-I am Thurman Bill Bartie, a lifelong resident of Port Arthur, Texas.
+Home Who Am I?
+Where I Stand.
+Stand With Us Today!
+Who is Thurman Bill Bartie?
+Biography I am Thurman Bill Bartie, a lifelong resident of Port Arthur, Texas.
 My life has been shaped by community, faith, and a commitment to public service.
 I graduated from Lincoln High School and went on to study Political Science at Prairie View A&M University, where I performed as a featured Male Soloist with the A Capella Choir.
 I later earned a Bachelor of Science in Political Science at Lamar University and studied Mortuary Science at the Commonwealth College of Mortuary Science in Houston; resulting in my becoming a licensed Funeral Director and Embalmer.
@@ -15,3 +19,13 @@ My objective is to bring, People Over Politics to our nations capital, Washingto
 I believe that the people of Southeast Texas deserve a representative who listens, works across the aisle, and puts the needs of families and communities first.
 I am a proud parent and grandparent, and my dedication to public service is inspired by the example of my late parents, Wilson Roy and Joyce “Lady Mae” Roy.
 Their lessons in service, perseverance, and dignity guide me every day as I continue this journey to represent District 14 (TX) in Congress.
+Contact Us First Name * Last Name Phone * Email * Comments By checking this box, I consent to receive non-marketing text messages from the Committee to Elect Thurman Bartie to Congress , including messages related to campaign updates, event information, volunteer coordination, donation confirmations, and account-related notifications.
+Message frequency may vary.
+Message and data rates may apply.
+Text HELP for assistance or STOP to opt out at any time.
+By checking this box, I consent to receive marketing and promotional text messages from the Committee to Elect Thurman Bartie to Congress , including campaign announcements, fundraising messages, volunteer opportunities, and election-related updates.
+Message frequency may vary.
+Message and data rates may apply.
+Text HELP for assistance or STOP to opt out at any time.
+Submit Privacy Policy | Terms of Service Power This Campaign Foward!
+Privacy Policy | Terms and Conditions

@@ -1,7 +1,9 @@
 {
  "description": "Contact Us to ask a question or sign up for legislative updates with Chris Kapenga, your State Senator in Wisconsin.",
  "final_url": "https://chriskapenga.com/contact-us-1",
- "paid_for_by": "Paid for by Kapenga for Taxpayers Copyright \u00a9 2026 &nbsp;Kapenga for Taxpayers - All Rights Reserved",
+ "fingerprint": "5a5bd259e99ec29384e4a2e48473965e5fcd3966",
+ "format": 3,
+ "paid_for_by": "Paid for by Kapenga for Taxpayers Copyright © # Kapenga for Taxpayers - All Rights Reserved",
  "title": "Contact us",
  "years_mentioned": [
   "2026"

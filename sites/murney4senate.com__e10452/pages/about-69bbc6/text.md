@@ -1,6 +1,4 @@
-Dale Murney Democrat
-Michigan 20th District Senate
-I was raised in suburban Detroit.
+0 Skip to Content Murney 4 MI Senate About Platform Volunteer Donate Open Menu Close Menu Murney 4 MI Senate About Platform Volunteer Donate Open Menu Close Menu About Platform Volunteer Donate Dale Murney Democrat Michigan 20th District Senate I was raised in suburban Detroit.
 My father Clarence was an auto mechanic and a salesman until his death from pancreatic cancer when I was 22 years old.
 My mother Elizabeth was a homemaker.
 My folks taught me the value of hard work.
@@ -21,3 +19,5 @@ I remained there until my retirement in October of 2024.
 My wife Wendy and I have been married for 33 years.
 We have a son and a daughter.
 We have been residents of Paw Paw Township for 29 years.
+Contact Email: dale@murney4senate.com Mailing Address: 125 N.
+Kalamazoo St., P.O Box 26, Paw Paw, MI 49079-9998 Paid for by the Committee to Elect Dale Murney

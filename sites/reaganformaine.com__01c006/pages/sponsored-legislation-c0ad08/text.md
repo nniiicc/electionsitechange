@@ -1,6 +1,3 @@
-An Act to Direct the Public Utilities Commission to Seek Informational Bids Regarding Small Modular Nuclear Reactors in the State
-An Act to Increase Penalties for Human Trafficking Offenses
-An Act to Require Testing of Solar and Wind Energy Developments for Perfluoroalkyl and Polyfluoroalkyl Substances Contamination
-An Act to Require That Informed Consent for Abortion Include Information on Perinatal Hospice
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Home About Sponsored Legislation Real State of the State Contact Donate More Home About Sponsored Legislation Real State of the State Contact Donate Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Home About Sponsored Legislation Real State of the State Contact Donate Highlighted Bills LD 343 (Became Chaptered Law) An Act to Direct the Public Utilities Commission to Seek Informational Bids Regarding Small Modular Nuclear Reactors in the State Learn more LD 1877 (Became Chaptered Law) An Act to Increase Penalties for Human Trafficking Offenses Learn more LD 451 An Act to Require Testing of Solar and Wind Energy Developments for Perfluoroalkyl and Polyfluoroalkyl Substances Contamination Learn more LD 1154 An Act to Require That Informed Consent for Abortion Include Information on Perinatal Hospice Learn more Want to learn more?
+For the full list of sponsored legislation: Click Here Copyright © # Representative Reagan Paul - All Rights Reserved.
+Powered by

@@ -1,7 +1,9 @@
 {
  "description": "This tool helps residents of Alabama identify their state legislative districts. Enter your address to check if you're in Alabama State Senate District 16.",
  "final_url": "https://stone4senate.com/district-lookup/",
+ "fingerprint": "38e67c17c042295d5dd882de288939a64aef6ac6",
+ "format": 3,
  "paid_for_by": "Paid for by Strong with Stone, Spencer Stone for State Senate",
- "title": "Am I in District 16? \u2014 Strong with Stone",
+ "title": "Am I in District 16? — Strong with Stone",
  "years_mentioned": []
 }

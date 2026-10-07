@@ -1,8 +1,30 @@
 [
-"https://rogersforwisconsin.com/",
-"https://rogersforwisconsin.com/about-5",
-"https://rogersforwisconsin.com/blog",
-"https://rogersforwisconsin.com/contact-us",
-"https://rogersforwisconsin.com/general-5",
-"https://secure.winred.com/tim-rogers-for-congress/donate"
+{
+"text": "$ DONATE $",
+"href": "https://secure.winred.com/tim-rogers-for-congress/donate"
+},
+{
+"text": "ABOUT",
+"href": "https://www.rogersforwisconsin.com/about-5"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.rogersforwisconsin.com/contact-us"
+},
+{
+"text": "ISSUES",
+"href": "https://www.rogersforwisconsin.com/general-5"
+},
+{
+"text": "PRESS",
+"href": "https://www.rogersforwisconsin.com/blog"
+},
+{
+"text": "TimRogersForCongress@Gmail.Com",
+"href": "mailto:TimRogersForCongress@Gmail.Com"
+},
+{
+"text": "[image: Rogers18.jpg]",
+"href": "https://www.rogersforwisconsin.com"
+}
 ]

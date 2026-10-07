@@ -1,9 +1,42 @@
 [
-"https://friendsofirene.com/",
-"https://friendsofirene.com/about-irene",
-"https://friendsofirene.com/endorsements",
-"https://friendsofirene.com/get-involved",
-"https://friendsofirene.com/my-platform",
-"https://friendsofirene.com/news-updates",
-"https://webador.com/"
+{
+"text": "About Irene",
+"href": "https://www.friendsofirene.com/about-irene"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofirene.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.friendsofirene.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofirene.com/"
+},
+{
+"text": "My Platform",
+"href": "https://www.friendsofirene.com/my-platform"
+},
+{
+"text": "News & Updates",
+"href": "https://www.friendsofirene.com/news-updates"
+},
+{
+"text": "Sign up to volunteer",
+"href": "mailto:teamguanill@gmail.com"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.friendsofirene.com/get-involved#main-content"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "friendsofirene.com",
+"href": "https://www.friendsofirene.com/"
+}
 ]

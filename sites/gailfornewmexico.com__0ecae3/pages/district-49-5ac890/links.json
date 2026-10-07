@@ -1,21 +1,82 @@
 [
-"http://nmt.edu/",
-"https://catroncounty.us/",
-"https://co.valencia.nm.us/",
-"https://facebook.com/Gail4NM",
-"https://gailfornewmexico.com/",
-"https://gailfornewmexico.com/about",
-"https://gailfornewmexico.com/district-49",
-"https://gailfornewmexico.com/donate",
-"https://gailfornewmexico.com/legislation",
-"https://gailfornewmexico.com/volunteer",
-"https://instagram.com/gail4nm",
-"https://mailchi.mp/gopnm.org/save-nm-15484589?e=44f0d2894f",
-"https://newmexico.org/places-to-go/regions-cities/southwest/catwalk",
-"https://newmexico.org/places-to-go/regions-cities/southwest/pie-town",
-"https://nmlegis.gov/",
-"https://public.nrao.edu/visit/very-large-array",
-"https://sierraco.org/",
-"https://socorrocounty.net/",
-"https://twitter.com/Gail4NM"
+{
+"text": "About",
+"href": "https://gailfornewmexico.com/about/"
+},
+{
+"text": "Catwalk",
+"href": "https://www.newmexico.org/places-to-go/regions-cities/southwest/catwalk/"
+},
+{
+"text": "District 49",
+"href": "https://gailfornewmexico.com/district-49/"
+},
+{
+"text": "Donate",
+"href": "https://gailfornewmexico.com/donate/"
+},
+{
+"text": "Learn more about the New Mexico Legislature",
+"href": "https://www.nmlegis.gov/"
+},
+{
+"text": "Legislation",
+"href": "https://gailfornewmexico.com/legislation/"
+},
+{
+"text": "NM Tech",
+"href": "http://www.nmt.edu/"
+},
+{
+"text": "Pie Town",
+"href": "https://www.newmexico.org/places-to-go/regions-cities/southwest/pie-town/"
+},
+{
+"text": "Very Large Array",
+"href": "https://public.nrao.edu/visit/very-large-array/"
+},
+{
+"text": "Volunteer",
+"href": "https://gailfornewmexico.com/volunteer/"
+},
+{
+"text": "Voter Registration",
+"href": "https://mailchi.mp/gopnm.org/save-nm-15484589?e=44f0d2894f"
+},
+{
+"text": "[image: Image]Catron County",
+"href": "https://www.catroncounty.us/"
+},
+{
+"text": "[image: Image]Sierra County",
+"href": "https://www.sierraco.org/"
+},
+{
+"text": "[image: Image]Socorro County",
+"href": "https://www.socorrocounty.net/"
+},
+{
+"text": "[image: Image]Valencia County",
+"href": "https://www.co.valencia.nm.us/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://gailfornewmexico.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Gail4NM"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Gail4NM/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gail4nm/"
+},
+{
+"text": "gail@gailfornewmexico.com",
+"href": "mailto:gail@gailfornewmexico.com"
+}
 ]

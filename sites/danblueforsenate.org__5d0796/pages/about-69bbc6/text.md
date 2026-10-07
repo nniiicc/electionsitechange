@@ -1,5 +1,4 @@
-Meet Dan Blue
-A lifelong North Carolinian, Daniel T.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Meet Dan Blue A lifelong North Carolinian, Daniel T.
 Blue, Jr. was born in Lumberton to Daniel T.
 Blue, Sr. and Allene Morris Blue.
 Growing up in his parent’s four-room farmhouse in Robeson County, Dan quickly learned that the values of hard work, faith, and education were the keys to a successful future – lessons learned from his parents, his teachers and his community.
@@ -21,5 +20,4 @@ He holds nine honorary degrees and is past Chairman of the Duke University Board
 Senator Blue resides in Raleigh with his wife, Edna.
 They have three adult children and seven grandchildren.
 He attends Davie Street Presbyterian Church, where he serves as an Elder.
-Paid for by Citizens for Dan Blue
-Post Office Box 287, Raleigh NC 27602
+Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

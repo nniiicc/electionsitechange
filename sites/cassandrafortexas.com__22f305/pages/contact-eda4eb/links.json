@@ -1,15 +1,62 @@
 [
-"https://cassandrafortexas.com/",
-"https://cassandrafortexas.com/about%2Fissues",
-"https://cassandrafortexas.com/action",
-"https://cassandrafortexas.com/coffee",
-"https://cassandrafortexas.com/contact",
-"https://cassandrafortexas.com/donate-1",
-"https://cassandrafortexas.com/privacy-policy",
-"https://cassandrafortexas.com/rsvp",
-"https://cassandrafortexas.com/signs",
-"https://cassandrafortexas.com/voting-info",
-"https://facebook.com/casfortx",
-"https://instagram.com/casfortx",
-"https://x.com/CasforTX"
+{
+"text": "About/Issues",
+"href": "https://cassandrafortexas.com/about%2Fissues"
+},
+{
+"text": "Coffee",
+"href": "https://cassandrafortexas.com/coffee"
+},
+{
+"text": "Contact",
+"href": "https://cassandrafortexas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://cassandrafortexas.com/donate-1"
+},
+{
+"text": "Home",
+"href": "https://cassandrafortexas.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cassandrafortexas.com/privacy-policy"
+},
+{
+"text": "READ PRIVACY POLICY HERE",
+"href": "https://cassandrafortexas.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://cassandrafortexas.com/rsvp"
+},
+{
+"text": "VOTING INFO",
+"href": "https://cassandrafortexas.com/voting-info"
+},
+{
+"text": "[image: Cassandra for Texas]",
+"href": "https://cassandrafortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/casfortx"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/casfortx/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/CasforTX"
+},
+{
+"text": "action",
+"href": "https://cassandrafortexas.com/action"
+},
+{
+"text": "signs",
+"href": "https://cassandrafortexas.com/signs"
+}
 ]

@@ -1,37 +1,242 @@
 [
-"http://al.com/",
-"https://1819news.com/news/item/nra-endorses-tuberville-for-governor-moore-for-u-s-senate",
-"https://1819news.com/news/item/tuberville-lauds-trump-united-nations-address-bashing-bodys-open-border-push",
-"https://1819news.com/news/item/tuberville-presses-for-future-u-s-space-academy-in-huntsville-touts-areas-role-in-defense-and-space",
-"https://1819news.com/news/item/universities-should-be-prioritizing-american-students-tuberville-bill-would-place-foreign-player-cap-on-college-sports-teams",
-"https://1819news.com/news/item/we-all-pay-too-many-taxes-tuberville-reiterates-intention-to-cut-taxes-statewide-while-bringing-in-revenue-in-other-ways",
-"https://al.com/news/2026/09/tuberville-says-he-will-work-for-alabama-muslims-but-god-family-country-top-his-agenda.html",
-"https://al.com/politics/2026/09/tuberville-calls-for-4-year-freeze-on-electricity-rates-in-alabama.html",
-"https://al.com/politics/2026/09/tuberville-calls-transgender-people-deranged-on-senate-floor-bring-back-mental-institutions.html",
-"https://al.com/politics/2026/09/tuberville-says-education-pushed-to-the-back-road-in-college-sports.html",
-"https://aldailynews.com/lets-educate-not-indoctrinate-tuberville-releases-ad-championing-school-choice",
-"https://coachforgovernor.com/",
-"https://coachforgovernor.com/about",
-"https://coachforgovernor.com/issues",
-"https://coachforgovernor.com/join",
-"https://coachforgovernor.com/news",
-"https://coachforgovernor.com/newsletters",
-"https://coachforgovernor.com/post/coach-s-sideline-report-october-2-2026",
-"https://coachforgovernor.com/post/coach-s-sideline-report-september-11-2026",
-"https://coachforgovernor.com/post/coach-s-sideline-report-september-18-2026",
-"https://coachforgovernor.com/press-releases",
-"https://coachforgovernor.com/privacy",
-"https://coachforgovernor.com/terms",
-"https://facebook.com/CoachForGov",
-"https://instagram.com/coachforgov",
-"https://newsmax.com/newsmax-tv/tommy-tuberville-donald-trump-unga/2026/09/22/id/1270334",
-"https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true",
-"https://secure.winred.com/tuberville-for-governor-inc/storefront",
-"https://storage.googleapis.com/1730782801/p/tuberville-for-governor-al/2025/1758643496827_TubervilleUpdatedVirtualCard.vcf",
-"https://truthsocial.com/@TubervilleAL",
-"https://x.com/CoachForGov",
-"https://yellowhammernews.com/the-socialist-left-has-a-serious-mental-illness-tuberville-slams-poll-showing-many-dems-want-trump-out-by-military-coup",
-"https://yellowhammernews.com/tuberville-to-headline-marshall-county-republican-rally-in-guntersville",
-"https://youtu.be/8jnivnyAfxY?si=CdHen3kgU6WJ4Nnn",
-"https://youtube.com/@CoachforGov"
+{
+"text": "ABOUT",
+"href": "https://www.coachforgovernor.com/about"
+},
+{
+"text": "AL.com",
+"href": "http://al.com"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@coachforgovernor.com"
+},
+{
+"text": "Coach's Sideline Report – October 2, 2026",
+"href": "https://www.coachforgovernor.com/post/coach-s-sideline-report-october-2-2026"
+},
+{
+"text": "Coach's Sideline Report – September 11, 2026",
+"href": "https://www.coachforgovernor.com/post/coach-s-sideline-report-september-11-2026"
+},
+{
+"text": "Coach's Sideline Report – September 18, 2026",
+"href": "https://www.coachforgovernor.com/post/coach-s-sideline-report-september-18-2026"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/donate?recurring=true"
+},
+{
+"text": "HOME",
+"href": "https://www.coachforgovernor.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.coachforgovernor.com/issues"
+},
+{
+"text": "JOIN",
+"href": "https://www.coachforgovernor.com/join"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.coachforgovernor.com/newsletters"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.coachforgovernor.com/press-releases"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.coachforgovernor.com/privacy"
+},
+{
+"text": "READ MORE",
+"href": "https://1819news.com/news/item/nra-endorses-tuberville-for-governor-moore-for-u-s-senate"
+},
+{
+"text": "READ MORE",
+"href": "https://1819news.com/news/item/tuberville-lauds-trump-united-nations-address-bashing-bodys-open-border-push"
+},
+{
+"text": "READ MORE",
+"href": "https://1819news.com/news/item/tuberville-presses-for-future-u-s-space-academy-in-huntsville-touts-areas-role-in-defense-and-space"
+},
+{
+"text": "READ MORE",
+"href": "https://1819news.com/news/item/universities-should-be-prioritizing-american-students-tuberville-bill-would-place-foreign-player-cap-on-college-sports-teams"
+},
+{
+"text": "READ MORE",
+"href": "https://1819news.com/news/item/we-all-pay-too-many-taxes-tuberville-reiterates-intention-to-cut-taxes-statewide-while-bringing-in-revenue-in-other-ways"
+},
+{
+"text": "READ MORE",
+"href": "https://aldailynews.com/lets-educate-not-indoctrinate-tuberville-releases-ad-championing-school-choice/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.al.com/news/2026/09/tuberville-says-he-will-work-for-alabama-muslims-but-god-family-country-top-his-agenda.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.al.com/politics/2026/09/tuberville-calls-for-4-year-freeze-on-electricity-rates-in-alabama.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.al.com/politics/2026/09/tuberville-calls-transgender-people-deranged-on-senate-floor-bring-back-mental-institutions.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.al.com/politics/2026/09/tuberville-says-education-pushed-to-the-back-road-in-college-sports.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.newsmax.com/newsmax-tv/tommy-tuberville-donald-trump-unga/2026/09/22/id/1270334/"
+},
+{
+"text": "READ MORE",
+"href": "https://yellowhammernews.com/the-socialist-left-has-a-serious-mental-illness-tuberville-slams-poll-showing-many-dems-want-trump-out-by-military-coup/"
+},
+{
+"text": "READ MORE",
+"href": "https://yellowhammernews.com/tuberville-to-headline-marshall-county-republican-rally-in-guntersville/"
+},
+{
+"text": "STAY UP TO DATE WITH COACH – TEXT \"COACH\" TO 36382",
+"href": "https://storage.googleapis.com/1730782801/p/tuberville-for-governor-al/2025/1758643496827_TubervilleUpdatedVirtualCard.vcf"
+},
+{
+"text": "See All",
+"href": "https://www.coachforgovernor.com/news"
+},
+{
+"text": "TEAM SHOP",
+"href": "https://secure.winred.com/tuberville-for-governor-inc/storefront/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.coachforgovernor.com/terms"
+},
+{
+"text": "WATCH MORE",
+"href": "https://youtu.be/8jnivnyAfxY?si=CdHen3kgU6WJ4Nnn"
+},
+{
+"text": "[image: Coach FB 1]",
+"href": "https://www.facebook.com/CoachForGov"
+},
+{
+"text": "[image: Coach FB]",
+"href": "https://www.facebook.com/CoachForGov"
+},
+{
+"text": "[image: Coach Icons (12)]",
+"href": "https://www.youtube.com/@CoachforGov"
+},
+{
+"text": "[image: Coach Icons (13)]",
+"href": "https://www.youtube.com/@CoachforGov"
+},
+{
+"text": "[image: Coach Icons (14)]",
+"href": "https://truthsocial.com/@TubervilleAL"
+},
+{
+"text": "[image: Coach Icons (15)]",
+"href": "https://truthsocial.com/@TubervilleAL"
+},
+{
+"text": "[image: Coach Insta 1]",
+"href": "https://www.instagram.com/coachforgov/"
+},
+{
+"text": "[image: Coach Insta]",
+"href": "https://www.instagram.com/coachforgov/"
+},
+{
+"text": "[image: Coach X 1]",
+"href": "https://x.com/CoachForGov"
+},
+{
+"text": "[image: Coach X]",
+"href": "https://x.com/CoachForGov"
+},
+{
+"text": "[image: Coach for Governor stacked logo.png]",
+"href": "https://www.coachforgovernor.com"
+},
+{
+"text": "[image: Coach's Sideline Report – October 2, 2026]",
+"href": "https://www.coachforgovernor.com/post/coach-s-sideline-report-october-2-2026"
+},
+{
+"text": "[image: Coach's Sideline Report – September 11, 2026]",
+"href": "https://www.coachforgovernor.com/post/coach-s-sideline-report-september-11-2026"
+},
+{
+"text": "[image: Coach's Sideline Report – September 18, 2026]",
+"href": "https://www.coachforgovernor.com/post/coach-s-sideline-report-september-18-2026"
+},
+{
+"text": "[image: Tuberville Logo.png]",
+"href": "https://www.coachforgovernor.com"
+},
+{
+"text": "[image]",
+"href": "https://1819news.com/news/item/nra-endorses-tuberville-for-governor-moore-for-u-s-senate"
+},
+{
+"text": "[image]",
+"href": "https://1819news.com/news/item/tuberville-lauds-trump-united-nations-address-bashing-bodys-open-border-push"
+},
+{
+"text": "[image]",
+"href": "https://1819news.com/news/item/tuberville-presses-for-future-u-s-space-academy-in-huntsville-touts-areas-role-in-defense-and-space"
+},
+{
+"text": "[image]",
+"href": "https://1819news.com/news/item/universities-should-be-prioritizing-american-students-tuberville-bill-would-place-foreign-player-cap-on-college-sports-teams"
+},
+{
+"text": "[image]",
+"href": "https://1819news.com/news/item/we-all-pay-too-many-taxes-tuberville-reiterates-intention-to-cut-taxes-statewide-while-bringing-in-revenue-in-other-ways"
+},
+{
+"text": "[image]",
+"href": "https://aldailynews.com/lets-educate-not-indoctrinate-tuberville-releases-ad-championing-school-choice/"
+},
+{
+"text": "[image]",
+"href": "https://www.al.com/news/2026/09/tuberville-says-he-will-work-for-alabama-muslims-but-god-family-country-top-his-agenda.html"
+},
+{
+"text": "[image]",
+"href": "https://www.al.com/politics/2026/09/tuberville-calls-for-4-year-freeze-on-electricity-rates-in-alabama.html"
+},
+{
+"text": "[image]",
+"href": "https://www.al.com/politics/2026/09/tuberville-calls-transgender-people-deranged-on-senate-floor-bring-back-mental-institutions.html"
+},
+{
+"text": "[image]",
+"href": "https://www.al.com/politics/2026/09/tuberville-says-education-pushed-to-the-back-road-in-college-sports.html"
+},
+{
+"text": "[image]",
+"href": "https://www.newsmax.com/newsmax-tv/tommy-tuberville-donald-trump-unga/2026/09/22/id/1270334/"
+},
+{
+"text": "[image]",
+"href": "https://yellowhammernews.com/the-socialist-left-has-a-serious-mental-illness-tuberville-slams-poll-showing-many-dems-want-trump-out-by-military-coup/"
+},
+{
+"text": "[image]",
+"href": "https://yellowhammernews.com/tuberville-to-headline-marshall-county-republican-rally-in-guntersville/"
+},
+{
+"text": "[image]",
+"href": "https://youtu.be/8jnivnyAfxY?si=CdHen3kgU6WJ4Nnn"
+}
 ]

@@ -1,7 +1,26 @@
 [
-"http://facebook.com/dundasformnhouse",
-"http://instagram.com/dundas_for_mn_house",
-"https://dundasformnhouse.com/",
-"https://dundasformnhouse.com/spanish",
-"https://forms.gle/HUHo97jqQHcGKU1E9"
+{
+"text": "Back to Main Page",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "English",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Join The Challenge",
+"href": "https://forms.gle/HUHo97jqQHcGKU1E9"
+},
+{
+"text": "Spanish",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/dundasformnhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/dundas_for_mn_house"
+}
 ]

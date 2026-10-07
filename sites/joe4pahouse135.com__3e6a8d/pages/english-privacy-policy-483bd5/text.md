@@ -1,31 +1,11 @@
-Privacy Policy
-Effective Date: February 14, 2026
-Friends of Joe Poplawski respects your privacy.
-This policy outlines how we collect, use, and protect any personal information you provide while using our website.
-Information We Collect
-We may collect the following information:
-- Name and contact information (such as email address or phone number) when you sign up for updates or volunteer
-- Donation details, processed securely through a third-party payment processor
-- Non-personal information such as browser type, pages visited, and other analytics to improve site performance
-How We Use Your Information
-Your information is used to:
-- Communicate with you about campaign updates, events, and volunteer opportunities
-- Process donations securely
-- Improve website content and functionality
-Data Sharing
-We do not sell, rent, or trade your personal information.
+top of page Menu Close Home Our Vision About Us Privacy Policy Effective Date: February 14, 2026 ​ Friends of Joe Poplawski respects your privacy.
+This policy outlines how we collect, use, and protect any personal information you provide while using our website. ​ I nformation We Collect We may collect the following information: Name and contact information (such as email address or phone number) when you sign up for updates or volunteer Donation details, processed securely through a third-party payment processor Non-personal information such as browser type, pages visited, and other analytics to improve site performance How We Use Your Information Your information is used to: Communicate with you about campaign updates, events, and volunteer opportunities Process donations securely Improve website content and functionality Data Sharing We do not sell, rent, or trade your personal information.
 We may share information with trusted service providers who help us operate the website or manage campaign activities, under strict confidentiality agreements.
-Cookies
-Our site may use cookies to enhance user experience and collect website analytics.
-You can disable cookies in your browser settings.
-Security
-We take reasonable precautions to protect your information, including SSL encryption and secure data storage.
-Your Choices
-You may opt out of email communications at any time by clicking the “unsubscribe” link in any message.
+Security We take reasonable precautions to protect your information, including SSL encryption and secure data storage.
+Your Choices You may opt out of email communications at any time by clicking the “unsubscribe” link in any message.
 To request deletion of your personal information, contact us at [insert campaign email address].
-Changes to This Policy
-We may update this policy from time to time.
+Changes to This Policy We may update this policy from time to time.
 Any changes will be posted on this page with an updated effective date.
-Contact
-For questions about this policy, please contact us at:
-Email: Joe@joe4pahouse135.com
+Contact For questions about this policy, please contact us at: Email : Joe@joe4pahouse135.com Make a donation Join me in contributing to Joe Poplawski's campaign for Pennsylvania Representative in the General Assembly Legislative District 135.
+Together, we can help shape a brighter future for our community. $# raised Fundraising goal: $# $#,# 3 donations #% Amount $25 $25 $50 $50 $100 $100 $250 $250 Other Other 0/100 Comment (optional) Donate $25.72 I'd like to add $0.72 to cover transaction fees. © # by Friends of Joe Poplawski PAC. ​ ​ Friends of Joe Poplawski PAC. ​ Advancing smart growth, affordable housing, and responsible leadership for Pennsylvania's General Assembly Legislative District 135.
+610-867-4444 joe@joe4PAHouse135.com Bethlehem, PA, USA Home About Joe Joe's Plan for Pennsylvania's General Assembly Legislative District 135 Privacy Policy bottom of page

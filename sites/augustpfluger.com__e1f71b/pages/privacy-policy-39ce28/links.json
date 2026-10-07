@@ -1,13 +1,66 @@
 [
-"http://augustpfluger.com/",
-"http://augustpfluger.com/privacy-policy",
-"https://augustpfluger.com/",
-"https://facebook.com/AugustPflugerTX",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.augustpfluger.com%2Fprivacy-policy%2F",
-"https://instagram.com/",
-"https://instagram.com/augustpflugertx",
-"https://secure.winred.com/august-pfluger-for-congress/donate",
-"https://secure.winred.com/august-pfluger-for-congress/storefront",
-"https://twitter.com/augustpfluger",
-"https://twitter.com/intent/tweet?text=Privacy+Policy&url=https%3A%2F%2Fwww.augustpfluger.com%2Fprivacy-policy%2F"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/august-pfluger-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "http://www.augustpfluger.com/#endorsements"
+},
+{
+"text": "Experience",
+"href": "http://www.augustpfluger.com/#experience"
+},
+{
+"text": "Fighting for TX-11",
+"href": "http://www.augustpfluger.com/#fighting"
+},
+{
+"text": "Help me win!",
+"href": "http://www.augustpfluger.com/#getinvolved"
+},
+{
+"text": "Home",
+"href": "http://www.augustpfluger.com/#home"
+},
+{
+"text": "My Story",
+"href": "http://www.augustpfluger.com/#mystory"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/august-pfluger-for-congress/storefront/"
+},
+{
+"text": "[image: August Pfluger | Republican for Congress | CD11]",
+"href": "https://www.augustpfluger.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.augustpfluger.com%2Fprivacy-policy%2F"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/intent/tweet?text=Privacy+Policy&url=https%3A%2F%2Fwww.augustpfluger.com%2Fprivacy-policy%2F"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/AugustPflugerTX"
+},
+{
+"text": "here",
+"href": "http://www.augustpfluger.com/privacy-policy/"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/augustpflugertx/"
+},
+{
+"text": "twitter",
+"href": "https://twitter.com/augustpfluger"
+}
 ]

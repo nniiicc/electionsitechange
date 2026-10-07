@@ -1,75 +1,23 @@
-Marion, IA – Today, Ashley Hinson launched “Sheriffs for Hinson,” a coalition of current and former Iowa sheriffs endorsing her campaign for United States Senate.
-“I’m humbled to be endorsed by sheriffs from across Iowa who put their lives on the line to keep our families and communities safe,” said Ashley Hinson.
+Meet Ashley Issues Endorse Volunteer Contribute News & Updates Ashley Hinson Launches “Sheriffs for Hinson” Coalition Sep 4, 2026 | Press Release Back to Updates Marion, IA – Today, Ashley Hinson launched “Sheriffs for Hinson,” a coalition of current and former Iowa sheriffs endorsing her campaign for United States Senate.
+“I’m humbled to be endorsed by sheriffs from across Iowa who put their lives on the line to keep our families and communities safe,” said Ashley Hinson .
 “Josh Turek puts dangerous illegal immigrants before Iowans, and his record proves it.
 He voted to give taxpayer-funded welfare benefits to illegal immigrants, restrict Iowa law enforcement from working with ICE to detain and deport criminal illegal immigrants, and advised, in his official newsletter, illegal immigrants on how to avoid ICE.
-Iowans who support law enforcement and border security will reject Josh Turek.”
-“After four years of open borders under the Biden administration, the last thing Iowa needs is a liberal who would reopen our borders representing our state in the U.S.
+Iowans who support law enforcement and border security will reject Josh Turek.” “After four years of open borders under the Biden administration, the last thing Iowa needs is a liberal who would reopen our borders representing our state in the U.S.
 Senate.
 Josh Turek not only advised illegal immigrants on how to avoid ICE in his official newsletter, but also voted to restrict law enforcement from working with ICE to detain dangerous criminals.
-That’s just reckless,” said Webster County Sheriff Luke Fleener.
+That’s just reckless,” said Webster County Sheriff Luke Fleener .
 “I’m proud to support Ashley Hinson because she will keep our border secure, fund the police, and work with Iowa law enforcement to keep drugs out of our communities.
 Ashley is the pro-law enforcement candidate in this race, and she will make a great U.S.
-Senator.”
-“I’m proud to support Ashley Hinson for U.S.
-Senate because she will work with law enforcement to keep our communities safe and get criminals off the streets,” said Woodbury County Sheriff Chad Sheehan.
+Senator.” “I’m proud to support Ashley Hinson for U.S.
+Senate because she will work with law enforcement to keep our communities safe and get criminals off the streets,” said Woodbury County Sheriff Chad Sheehan .
 “She has a strong track record of fully funding the police, securing the border, and stopping the flow of deadly drugs into our state.
-Ashley will be a partner to law enforcement so that we can continue to protect Iowa families, keep drugs away from our kids, and hold criminals accountable for their actions.”
-“We need leaders in the U.S.
+Ashley will be a partner to law enforcement so that we can continue to protect Iowa families, keep drugs away from our kids, and hold criminals accountable for their actions.” “We need leaders in the U.S.
 Senate who will support law enforcement, work with us to keep deadly drugs and criminals out of our communities, and stop every radical effort to defund the police.
-That leader is Ashley Hinson,” said Jones County Sheriff Greg Graver.
+That leader is Ashley Hinson,” said Jones County Sheriff Greg Graver .
 “From investing in rural police departments to prioritizing public safety, she has delivered results for Iowa.
-Ashley Hinson has always had the backs of Iowa law enforcement, and I know that she will continue to fight for safer communities as our next United States Senator.”
-The full coalition can be found below:
-- Sheriff Jeff Vandewater, Adair County
-- Sheriff Alan Johannes, Adams County
-- Sheriff Gary Anderson, Appanoose County
-- Sheriff Andy Godzicki, Boone County
-- Sheriff Dan Pickett, Bremer County
-- Sheriff Scott Buzynski, Buchanan County
-- Sheriff John Westering, Cass County
-- Sheriff Warren Wethington, Cedar County
-- Sheriff Dave Hepperly, Cerro Gordo County
-- Sheriff Derek Scott, Cherokee County
-- Sheriff Rob Kovacevich, Clarke County
-- Sheriff Bill Greenwalt, Clinton County
-- Sheriff Roger Rasmussen, Crawford County
-- Sheriff Adam Infante, Dallas County
-- Sheriff Travis Hemesath, Delaware County
-- Sheriff Marty Fisher, Fayette County
-- Sheriff Kirk Dolleslager, Grundy County
-- Sheriff Matt Harmann, Guthrie County
-- Sheriff Alex Pruismann, Hamilton County
-- Sheriff Dave McDaniel, Hardin County
-- Sheriff Richard McNamee, Henry County
-- Sheriff Rick Busch, Howard County
-- Sheriff Wade Harriman, Ida County
-- Sheriff Brad Shutts, Jasper County
-- Sheriff Greg Graver, Jones County
-- Sheriff Elliott Vandenberg, Lee County
-- Sheriff Russ Van Renterghem, Mahaska County
-- Sheriff Jason Sandholt, Marion County
-- Sheriff Greg Schultz, Mills County
-- Sheriff Justin Trees, Mitchell County
-- Sheriff Joe Worth, Monroe County
-- Sheriff Quinn Riess, Muscatine County
-- Sheriff Jeff TeBrink, Plymouth County
-- Sheriff Matt Maschmann, Poweshiek County
-- Sheriff Rob Haley, Ringgold County
-- Sheriff Tim Lane, Scott County
-- Sheriff Casey Schmidt, Tama County
-- Sheriff Brian Bolton, Union County
-- Sheriff Brad Hudson, Van Buren County
-- Sheriff Jared Schneider, Washington County
-- Sheriff Keith Davis, Wayne County
-- Sheriff Luke Fleener, Webster County
-- Sheriff Chad Sheehan, Woodbury County
-- Sheriff Jesse Luther, Worth County
-- Fmr.
-Sheriff Ron Tippett, Benton County
-- Fmr.
-Sheriff Greg Beaver, Mitchell County
-- Fmr.
-Sheriff Mike Van Otterloo, Plymouth County
-- Fmr.
-Sheriff Mark Shepherd, Union County
-###
+Ashley Hinson has always had the backs of Iowa law enforcement, and I know that she will continue to fight for safer communities as our next United States Senator.” The full coalition can be found below: Sheriff Jeff Vandewater, Adair County Sheriff Alan Johannes, Adams County Sheriff Gary Anderson, Appanoose County Sheriff Andy Godzicki, Boone County Sheriff Dan Pickett, Bremer County Sheriff Scott Buzynski, Buchanan County Sheriff John Westering, Cass County Sheriff Warren Wethington, Cedar County Sheriff Dave Hepperly, Cerro Gordo County Sheriff Derek Scott, Cherokee County Sheriff Rob Kovacevich, Clarke County Sheriff Bill Greenwalt, Clinton County Sheriff Roger Rasmussen, Crawford County Sheriff Adam Infante, Dallas County Sheriff Travis Hemesath, Delaware County Sheriff Marty Fisher, Fayette County Sheriff Kirk Dolleslager, Grundy County Sheriff Matt Harmann, Guthrie County Sheriff Alex Pruismann, Hamilton County Sheriff Dave McDaniel, Hardin County Sheriff Richard McNamee, Henry County Sheriff Rick Busch, Howard County Sheriff Wade Harriman, Ida County Sheriff Brad Shutts, Jasper County Sheriff Greg Graver, Jones County Sheriff Elliott Vandenberg, Lee County Sheriff Russ Van Renterghem, Mahaska County Sheriff Jason Sandholt, Marion County Sheriff Greg Schultz, Mills County Sheriff Justin Trees, Mitchell County Sheriff Joe Worth, Monroe County Sheriff Quinn Riess, Muscatine County Sheriff Jeff TeBrink, Plymouth County Sheriff Matt Maschmann, Poweshiek County Sheriff Rob Haley, Ringgold County Sheriff Tim Lane, Scott County Sheriff Casey Schmidt, Tama County Sheriff Brian Bolton, Union County Sheriff Brad Hudson, Van Buren County Sheriff Jared Schneider, Washington County Sheriff Keith Davis, Wayne County Sheriff Luke Fleener, Webster County Sheriff Chad Sheehan, Woodbury County Sheriff Jesse Luther, Worth County Fmr.
+Sheriff Ron Tippett, Benton County Fmr.
+Sheriff Greg Beaver, Mitchell County Fmr.
+Sheriff Mike Van Otterloo, Plymouth County Fmr.
+Sheriff Mark Shepherd, Union County ### Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

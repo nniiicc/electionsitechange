@@ -1,4 +1,4 @@
-Bob is a life-long farmer, having grown up on the grain and livestock farm he currently operates in Fayette County, Ohio.
+Home About Issues Connect News Donate Home About Issues Connect News Donate About Bob Bob is a life-long farmer, having grown up on the grain and livestock farm he currently operates in Fayette County, Ohio.
 He graduated cum laude from the Ohio State University with a bachelor’s of science degree in agriculture.
 He was a member of the OSU honors program and while there worked 20-30 hours per week at the university’s research farm and traveled extensively with the OSU Livestock Judging Team.
 Between 1987-1989, Peterson was a part of the OSU Leadership Development Class (LEAD), which included educational experiences in Japan, China, and Korea.
@@ -16,3 +16,5 @@ His intelligence and enthusiasm are widely recognized and sought after by civic,
 Bob Peterson’s experience and qualifications make him an excellent candidate to serve as State Senator for the 17th District.
 Senator Peterson is proud to be endorsed for reelection by the Ohio Manufacturers’ Association, Ohio Education Association, Affiliated Construction Trades Ohio, Fraternal Order of Police, Ohio Chamber of Commerce, Ohio Society of CPAs, International Union of Operating Engineers Local 18, Ohio State Medical Association, National Federation of Independent Business, and the Teamsters.
 Additionally, he was named a Friend of Agriculture by the Ohio Farm Bureau.
+About Issues Connect Privacy Paid for by Peterson for Good Government LISA PETERSON, TREASURER, 5564 GRASSY BRANCH RD.
+SABINA, OH 45169

@@ -1,11 +1,5 @@
-Back to All Events
-Join Megan Coy, ODP Chair Kathleen Clyde and Candidate for State Treasurer Seth Walsh as we canvass Broadview Heights at Coffee Club (500 E Royalton Rd, Broadview Heights, OH 44147) at 10:00 am on September 26th.
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Broadview Heights Canvass with Megan Coy with Special Guests ODP Chair Kathleen Clyde and Candidate for State Treasurer Seth Walsh Saturday, September 26, 2026 10:00 AM 11:00 AM Coffee Club 500 East Royalton Road Broadview Heights, Ohio, 44147 United States (map) Google Calendar ICS Join Megan Coy, ODP Chair Kathleen Clyde and Candidate for State Treasurer Seth Walsh as we canvass Broadview Heights at Coffee Club (500 E Royalton Rd, Broadview Heights, OH 44147) at 10:00 am on September 26th.
 Even if you have no experience canvassing, all are welcome!
 Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.
-Previous
-Previous
-September 19
-Olmsted Falls Town Hall with Megan Coy, Brian Poindexter and Courtney Scheff
-Next
-Next
-October 3
+Sign up here!
+Previous Previous September 19 Olmsted Falls Town Hall with Megan Coy, Brian Poindexter and Courtney Scheff Next Next October 3 Strongsville Canvass Launch Paid for by Friends of Megan Coy

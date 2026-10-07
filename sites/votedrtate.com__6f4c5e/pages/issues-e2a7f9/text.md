@@ -1,6 +1,4 @@
-Embedded Files
-Issues
-Click any issue below to learn more.
+Search this site Embedded Files Skip to main content Skip to navigation Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate More Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate DONATE Issues Click any issue below to learn more.
 The current administration promised a better economy, instead better is not what we are experiencing.
 We have turned our backs on the middle and working class, farmers, small business owners, and the entire country is now having to pay more due to the unstable economy and tariffs.
 I will work hard to try and bring stability back to the grocery stores.
@@ -21,7 +19,7 @@ We must preserve Medicare and Medicaid.
 I have had the privilege to treat mothers and infants and understand the need to improve women’s health.
 I support the Second Amendment and our right to bear arms.
 Guns do not kill people, people kill people.
-As a registered firearm owner, I support common sense firearm safety, including background checks and buyback programs.
+As a registered firearm owner, I support common sense firearm safety, including background checks and buyback programs .
 My father went through a long season of homelessness and the issue is close to my heart.
 There are multiple issues to those who are unsheltered, and they must be a priority.
 Housing, mental health services, and recovery program, along with employment training.
@@ -59,6 +57,4 @@ Safe reproductive care is essential for families.
 Because Roe v.
 Wade was overturned, and due to Dobbs v.
 Jackson in 2022, some women are limited in their resources.
-Every woman should have the right to access family planning resources.
-Page updated
-Report abuse
+Every woman should have the right to access family planning resources. © # Dr Tiffanie Tate For State Senate. | Paid For by Tate For Senate 2026 Committee Report abuse Page details Page updated Report abuse

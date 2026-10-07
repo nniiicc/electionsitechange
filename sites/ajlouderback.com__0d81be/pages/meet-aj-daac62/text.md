@@ -1,5 +1,4 @@
-Meet AJ Louderback
-Sheriff AJ Louderback is a fifth-generation Texan, born and raised in Matagorda County, a Distinguished Alumni of Palacios High School, and a retired five-term Sheriff of Jackson County.
+Skip links Skip to primary navigation Skip to content Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Donate Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Donate Meet AJ Louderback Sheriff AJ Louderback is a fifth-generation Texan, born and raised in Matagorda County, a Distinguished Alumni of Palacios High School, and a retired five-term Sheriff of Jackson County.
 He is a follower of Jesus Christ, a United States military veteran serving in the Air Force, and a conservative Republican who has spent over 40 years in law enforcement serving and defending his community.
 He is a fierce proponent of securing our southern border, a defender of the Second Amendment and the Right to Life, and a fighter for strong schools and lower property taxes.
 Sheriff Louderback is currently representing House District 30, which includes DeWitt, Lavaca, Jackson, Goliad, Matagorda, and Victoria Counties in the Texas House of Representatives.
@@ -31,3 +30,5 @@ A Lifetime Member of both the National Rifle Association and Texas State Rifle A
 Sheriff Louderback’s wife, Marci, is also a very active member of the community, having served in numerous volunteer organizations, such as the Victoria Ballet Society Board, Jackson County Cares Board, as President of Industrial Youth Football, and as Commissioner of Coastal Bend Youth Football, among many other roles.
 They have three daughters, one son, three sons-in-law, and six grandchildren.
 They are members of Parkway Church in Victoria.
+Facebook-f Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Capital Contact: PO BOX 2910 Austin TX 76768-2910 512-463-0456 District Contact: PO BOX 1792 Victoria TX 77902 361-582-9712 Texas House of Representatives Website Pol.
+Ad Paid for by AJ Louderback Campaign Home Account Cart Search Adding {{itemName}} to cart Added {{itemName}} to cart Loading... ×

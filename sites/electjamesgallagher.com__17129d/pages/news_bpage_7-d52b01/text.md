@@ -1,9 +1,6 @@
-News
-Major Endorsement Announcement: Gallagher’s Campaign for Congress Unites North State Leaders in Wave of Major Endorsements
-James Gallagher Releases Statement Regarding Governor Newsom’s Election Date Announcement For 1st Congressional District
-North State Leaders Endorse James Gallagher For Congress
-CAMPAIGN UPDATES
-By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
+Home Endorsements Events News Get Involved!
+Home Endorsements Events News Get Involved!
+DONATE News Breaking: All Sheriffs and District Attorneys in the 1st Congressional District Endorse James Gallagher for Congress READ MORE Major Endorsement Announcement: Gallagher’s Campaign for Congress Unites North State Leaders in Wave of Major Endorsements READ MORE James Gallagher Releases Statement Regarding Governor Newsom’s Election Date Announcement For 1st Congressional District READ MORE 1 … 5 6 7 8 Privacy Policy Paid for by The Gallagher Committee CAMPAIGN UPDATES Opt-in for text messages SUBSCRIBE By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.
 Msg frequency varies.

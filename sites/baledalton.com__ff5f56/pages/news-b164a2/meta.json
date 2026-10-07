@@ -1,11 +1,15 @@
 {
  "description": "The Latest",
  "final_url": "https://baledalton.com/news/",
+ "fingerprint": "d676c6691b3052b23c0d2dcb9095cd73ad957967",
+ "format": 3,
  "paid_for_by": "Paid for by Dalton for Florida Bale Dalton is a former member of the United States Navy and current member of the United States Navy Reserve",
  "title": "News - Bale Dalton",
  "years_mentioned": [
   "2017",
   "2023",
+  "2025",
+  "2026",
   "2027"
  ]
 }

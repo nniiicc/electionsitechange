@@ -1,16 +1,2 @@
-News
-For press and media inquiries please contact [email protected]
-The New York Times
-National
-Progressive Allies Rally With Pittsburgh Congresswoman as Primary Looms
-Apr 21, 2024
-Morning AgClips
-National
-Farm Action Fund: Agricultural Right to Repair Movement Spreads
-Apr 19, 2024
-Salon
-National
-Seeds of dissent: Agricultural manufacturers and farmers clash over “right to repair” equipment
-Mar 25, 2024
-News Channel 9
-local
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate News For press and media inquiries please contact [email protected] The New York Times National Progressive Allies Rally With Pittsburgh Congresswoman as Primary Looms April 21, 2024 Morning AgClips National Farm Action Fund: Agricultural Right to Repair Movement Spreads April 19, 2024 CNN National Tennessee lawmaker: ‘White supremacy codified in legislation’ April 4, 2024 Salon National Seeds of dissent: Agricultural manufacturers and farmers clash over “right to repair” equipment March 25, 2024 The New York Times National Progressive Allies Rally With Pittsburgh Congresswoman as Primary Looms Apr 21, 2024 Morning AgClips National Farm Action Fund: Agricultural Right to Repair Movement Spreads Apr 19, 2024 CNN National Tennessee lawmaker: ‘White supremacy codified in legislation’ Apr 04, 2024 Salon National Seeds of dissent: Agricultural manufacturers and farmers clash over “right to repair” equipment Mar 25, 2024 News Channel 9 local ‘Nazis felt welcomed in Nashville’: Rep.
+Justin Jones says GOP to blame Feb 21, 2024 Variety National Tennessee House GOP Blocks Proclamation Honoring Grammy Winner Allison Russell, While Letting Similar Measure for Paramore Pass Feb 12, 2024 test 1 test 2 test 3 Videos Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

@@ -1,13 +1,8 @@
-Embedded Files
-If you are already registered to vote in Maryland, there are two ways you can change your party affiliation to the Working Class Party (or to any other party)
-- Online
-- Visit the State Board of Elections online voter registration website.
-The website indicates the following: "Giving false information on an application for voter registration is perjury, punishable by imprisonment for up to 10 years, and a violation of the election laws, punishable by a fine of up to $1,000, or by imprisonment for up to 5 years, or both."
-- You will have to click "Next" to get past the privacy information page.
-- You will have to answer a question about your citizenship and residency status.
-- You will need to provide your name, date of birth, gender, last 4 digits of SSN, information from your Maryland drivers license or state ID card, and your address.
-- You will reach a party affiliation page where you will find "Working Class Party" as one of the options.
-- By mail
-Page updated
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation WCP of MD Home Events Contribute Register Docs and Links Videos WCP of MD Home Events Contribute Register Docs and Links Videos More Home Events Contribute Register Docs and Links Videos Register with the Working Class Party If you are already registered to vote in Maryland, there are two ways you can change your party affiliation to the Working Class Party (or to any other party) Online Visit the State Board of Elections online voter registration website .
+The website indicates the following: "Giving false information on an application for voter registration is perjury, punishable by imprisonment for up to 10 years, and a violation of the election laws, punishable by a fine of up to $1,000, or by imprisonment for up to 5 years, or both." You will have to click "Next" to get past the privacy information page.
+You will have to answer a question about your citizenship and residency status.
+You will need to provide your name, date of birth, gender, last 4 digits of SSN, information from your Maryland drivers license or state ID card, and your address.
+You will reach a party affiliation page where you will find "Working Class Party" as one of the options.
+By mail You can find printable voter registration applications here .
+You can find a list of all the Maryland local boards of elections and their contact information here .
+Authorized by and paid for by Working Class Party Daniel Plattner, Treasurer PO Box 11023, Baltimore, MD 21212 Email: workingclasspartyMD@gmail.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

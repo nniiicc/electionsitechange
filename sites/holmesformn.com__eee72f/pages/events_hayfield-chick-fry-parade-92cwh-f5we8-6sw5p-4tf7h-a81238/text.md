@@ -1,14 +1,4 @@
-Back to All Events
-Join Team Heather for Byron Good Neighbor Days!
-📅 Sunday, July 19th
-🕒 Lineup at 1:30 PM (arrive early, parking is tight)
-📍 Byron Primary School
-Join us for the Byron Good Neighbor Days parade in Heather’s hometown.
-RSVP Here.
-Previous
-Previous
-July 18
-Byron Good Neighbor Days Vendor Fair
-Next
-Next
-July 21
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact Back to All Events Byron Good Neighbor Days Parade Sunday, July 19, 2026 1:30 PM 3:30 PM Google Calendar ICS Join Team Heather for Byron Good Neighbor Days! 📅 Sunday, July 19th 🕒 Lineup at 1:30 PM (arrive early, parking is tight) 📍 Byron Primary School Join us for the Byron Good Neighbor Days parade in Heather’s hometown.
+RSVP Here .
+Posted In: Community Events Previous Previous July 18 Byron Good Neighbor Days Vendor Fair Next Next July 21 West Concord Door Knock Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

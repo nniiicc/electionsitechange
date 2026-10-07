@@ -1,6 +1,5 @@
-What’s next after election Day? - A message to all who supports us.
-June 25th 2026
-Hello Friends!
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate What’s next after election Day? - A message to all who supports us.
+June 25th 2026 Hello Friends!
 Before I talk about what unfolded that evening, I have to talk about that day.
 I have to thank the Syracuse Democratic Socialists of America chapter, the Syracuse Working Families Party club, Citizen Action of New York, and everyone else who showed up to Support the Affordability Slate that morning.
 For a 530am morning of canvass launch, we had over 30 people show up.
@@ -36,7 +35,7 @@ He doesn’t get to visit often, and after the pace of this campaign, I’m look
 We’ll update everyone as soon as we have more information.
 Thank you again for believing in this campaign and for making election night one I’ll remember forever.
 If you’re interested, there was a lot of coverage that came out of election night, I’ve updated my Press Clips page to reflect some of it.
-Why is Maurice Brown expressing confidence before final certification?
+Read More News from Election Night Frequently Asked Questions: Why is Maurice Brown expressing confidence before final certification?
 Based on the available results and campaign analysis, Maurice Brown believes the campaign is in a strong position while recognizing that the official outcome depends on completion of the counting process.
 When will updated results be available?
 Updated vote totals are expected to be released on June 30, 2026.
@@ -47,4 +46,6 @@ Should I reach out to Mo directly to find out if any more votes came in?
 No you should not.
 Mo is exhausted and would like to take the weekend in order to recover.
 He probably told you to visit this page after you asked him for an update.
-He loves you, but he doesn’t have any more information.
+He loves you, but he doesn’t have any more information. ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

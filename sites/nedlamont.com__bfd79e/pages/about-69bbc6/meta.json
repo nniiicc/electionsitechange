@@ -1,7 +1,11 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/about/",
+ "fingerprint": "563085c2e25a10b8ad3d1059458540f7bbf55ecb",
+ "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
- "title": "About Governor Ned LamontFacebookXInstagramBlueskyTikTok",
- "years_mentioned": []
+ "title": "About Governor Ned Lamont",
+ "years_mentioned": [
+  "2006"
+ ]
 }

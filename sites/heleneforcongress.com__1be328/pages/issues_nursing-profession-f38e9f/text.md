@@ -1,7 +1,4 @@
-Why Nursing Matters in Public Office
-Why Nursing Matters in Public Office
-"Leadership begins by showing up, listening, and serving." ~ Helene Neville
-Before I became a congressional candidate, I was a nurse.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Home ❭ Issues ❭ Why Nursing Matters in Public Office Why Nursing Matters in Public Office Why Nursing Matters in Public Office "Leadership begins by showing up, listening, and serving." ~ Helene Neville Before I became a congressional candidate, I was a nurse.
 For more than 42 years, I cared for patients in hospitals, clinics, rural communities, Tribal health systems, correctional facilities, disaster response settings, and public health programs across eight states.
 Nursing teaches something politics often forgets.
 You don't begin by arguing.
@@ -26,4 +23,4 @@ We understand teamwork.
 We understand public health.
 We understand the challenges facing rural communities.
 Most importantly, we understand people.
-That perspective belongs in Congress.
+That perspective belongs in Congress. « Previous: Veterans and Military Families Next: Political Platform » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

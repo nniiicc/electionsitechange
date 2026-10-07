@@ -1,15 +1,58 @@
 [
-"https://bristforassembly.com/",
-"https://bristforassembly.com/about",
-"https://bristforassembly.com/endorsements",
-"https://bristforassembly.com/issues",
-"https://bsky.app/profile/ben-brist.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61578516565649&sk=about",
-"https://instagram.com/bristforassembly",
-"https://mobilize.us/s/Ad4JMa",
-"https://mobilize.us/s/D3ZJyP",
-"https://mobilize.us/s/k9i7iA",
-"https://mobilize.us/s/y4mE0e",
-"https://secure.actblue.com/donate/bristforassembly"
+{
+"text": "About",
+"href": "https://www.bristforassembly.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bristforassembly.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.bristforassembly.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Ben Brist for State Assembly]",
+"href": "https://www.bristforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ben-brist.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578516565649&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bristforassembly/"
+},
+{
+"text": "hello@bristforassembly.com",
+"href": "mailto:hello@bristforassembly.com"
+},
+{
+"text": "https://mobilize.us/s/Ad4JMa",
+"href": "https://mobilize.us/s/Ad4JMa"
+},
+{
+"text": "https://mobilize.us/s/D3ZJyP",
+"href": "https://mobilize.us/s/D3ZJyP"
+},
+{
+"text": "https://mobilize.us/s/k9i7iA",
+"href": "https://mobilize.us/s/k9i7iA"
+},
+{
+"text": "https://mobilize.us/s/y4mE0e",
+"href": "https://mobilize.us/s/y4mE0e"
+}
 ]

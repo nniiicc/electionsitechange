@@ -1,17 +1,62 @@
 [
-"https://facebook.com/stemennd27",
-"https://gregstemen.com/",
-"https://gregstemen.com/about",
-"https://gregstemen.com/get-involved",
-"https://gregstemen.com/news-updates",
-"https://gregstemen.com/vote",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=100",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=200",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=25",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=50",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=500",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=other",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://x.com/GregStemen"
+{
+"text": "$100",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=500"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?am="
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/stemennd27/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/GregStemen"
+},
+{
+"text": "Get Involved",
+"href": "https://gregstemen.com/get-involved/"
+},
+{
+"text": "Meet Greg",
+"href": "https://gregstemen.com/about/"
+},
+{
+"text": "News",
+"href": "https://gregstemen.com/news-updates/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?amount=other"
+},
+{
+"text": "Vote",
+"href": "https://gregstemen.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://gregstemen.com/"
+}
 ]

@@ -1,11 +1,2 @@
-Contact
-Yanira Gurrola
-Committee to Elect Yanira Gurrola
-PO Box 26716
-Albuquerque, NM 87125
-Yanira@YaniraForNM.com
-Cell: 505/ 289-1201
-Neri Holguin
-Campaign Manager
-neriholguin@gmail.com
-505-217-8705
+0 Skip to Content About About Yanira District 16 Priorities Capital Outlay In the News Endorsements Get Involved Accomplishments Voting Contact CONTRIBUTE Open Menu Close Menu About About Yanira District 16 Priorities Capital Outlay In the News Endorsements Get Involved Accomplishments Voting Contact CONTRIBUTE Open Menu Close Menu Folder: About Back About Yanira District 16 Priorities Capital Outlay In the News Endorsements Get Involved Accomplishments Voting Contact CONTRIBUTE Contact Yanira Gurrola Committee to Elect Yanira Gurrola PO Box 26716 Albuquerque, NM 87125 Yanira@YaniraForNM.com Cell: 505/ 289-1201 Neri Holguin Campaign Manager neriholguin@gmail.com 505-217-8705 CONTRIBUTE Paid for by the Committee to Elect Yanira Gurrola, Diego Aguilar, Treasurer.
+Website Design | BGC

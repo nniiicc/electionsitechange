@@ -1,7 +1,1 @@
-Endorsements
-Dave is honored to have received endorsements from the below organizations
-California Republican Party
-Reform California
-American Independent Party of California (AIPC)
-Committee to Elect David Johnson
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet David Issues Photos News Endorsements Endorsements Dave is honored to have received endorsements from the below organizations California Republican Party Reform California Reform California Voter Guide American Independent Party of California (AIPC) AIPC Endorsements Page Silicon Valley Association of Conservative Republicans Official Voter Guide Peter Kuo, Former Vice-Chair of CAGOP Click here to add your endorsement Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com - Political Campaign Websites Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu

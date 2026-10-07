@@ -1,11 +1,7 @@
-2nd Lieutenant Robertson
-Tribute to a Hero:
-WWII Veteran
-Philip H.
-Robertson
-A Tribute from a Son to a Father, Veteran and Hero.
-By: David Robertson
-My dad, Philip Hermann Robertson, was born in Aberdeen, South Dakota on November 29th, 1924.
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser 2nd Lieutenant Robertson Tribute to a Hero: WWII Veteran Philip H.
+Robertson A Tribute from a Son to a Father, Veteran and Hero.
+By: David Robertson My dad, Philip Hermann Robertson, was born in Aberdeen, South Dakota on November 29th, 1924.
 He had just turned 17 when Pearl Harbor was bombed.
 My Dad volunteered for the U.S.
 Army Air Corp, hoping to become a pilot or navigator.
@@ -25,3 +21,4 @@ One day in the winter of 1945 the German guards were gone, and two weeks later t
 My Dad was a World War II veteran and hero who risked his life to fight for liberty, not only for the citizens of the United States, but for all mankind.
 My Dad went on to attend Michigan Law School and became a well-respected trial attorney.
 I am honored to have him as my father.
+Dad's B-24 Crew, Tonopah, NV 1944 Search Party B-24 Model POW Photo German Guards entering North Compound I 2nd Lieutenant Robertson Death Penalty Edict for Escaping Roll Call and Physical Drill Surgery - South Compound View of North Compound Guard Tower An American Jeep Hospital Ward - South Compound German Issue Stove Winter, North Compound II Same Stove after Application of Yankee Skill Frozen Potatoes German Bread Barracks (22 men slept here) David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

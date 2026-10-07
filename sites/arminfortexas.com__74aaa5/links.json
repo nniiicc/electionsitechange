@@ -1,33 +1,214 @@
 [
-"http://x.com/arminmizanitx",
-"https://arminfortexas.com/",
-"https://arminfortexas.com/endorsements",
-"https://arminfortexas.com/issues",
-"https://arminfortexas.com/meet-armin",
-"https://arminfortexas.com/news",
-"https://arminfortexas.com/privacy-policy",
-"https://arminfortexas.com/volunteer",
-"https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-1.jpg",
-"https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-2.jpg",
-"https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-3.jpg",
-"https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-4.jpg",
-"https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-5.jpg",
-"https://facebook.com/ArminMizaniTX",
-"https://facebook.com/arminmizanitx",
-"https://flickr.com/photos/204284875@N08/albums",
-"https://fox4news.com/news/keller-formally-partner-ice",
-"https://houstonchronicle.com/news/houston-texas/trending/article/texas-mayor-trump-puerto-rico-19874452.php",
-"https://keranews.org/news/2025-07-17/keller-seeks-to-formalize-partnership-with-ice-through-local-law-enforcement",
-"https://nbcdfw.com/news/local/keller-jail-partner-ice-check-inmate-immigration-status-tarrant-county-immigrant-rights/3888270",
-"https://secure.anedot.com/armin-mizani/donation",
-"https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=100",
-"https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=1000",
-"https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=250",
-"https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=50",
-"https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=500",
-"https://star-telegram.com/news/politics-government/article311108915.html",
-"https://star-telegram.com/opinion/opn-columns-blogs/other-voices/article282206368.html",
-"https://star-telegram.com/opinion/opn-columns-blogs/other-voices/article311690975.html",
-"https://x.com/arminmizanitx",
-"https://youtu.be/eg7iQ7W-IxI"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/armin-mizani/donation?exitintent=true&amount=500"
+},
+{
+"text": "Border Security",
+"href": "https://arminfortexas.com/issues/"
+},
+{
+"text": "Crime & Public Safety",
+"href": "https://arminfortexas.com/issues/#CRIME"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/armin-mizani/donation"
+},
+{
+"text": "Economic Development",
+"href": "https://arminfortexas.com/issues/#ECONOMIC"
+},
+{
+"text": "Endorsements",
+"href": "https://arminfortexas.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ArminMizaniTX"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/arminmizanitx"
+},
+{
+"text": "Government Spending",
+"href": "https://arminfortexas.com/issues/#GOVERNMENT"
+},
+{
+"text": "In the News",
+"href": "https://arminfortexas.com/news/"
+},
+{
+"text": "Infrastructure",
+"href": "https://arminfortexas.com/issues/#INFRASTRUCTURE"
+},
+{
+"text": "Issues",
+"href": "https://arminfortexas.com/issues/"
+},
+{
+"text": "Mayor Mizani hopes other cities will join the 287(g) program after Keller",
+"href": "https://www.keranews.org/news/2025-07-17/keller-seeks-to-formalize-partnership-with-ice-through-local-law-enforcement"
+},
+{
+"text": "Mayor Mizani on ICE Partnership: “It’s only to the benefit of law-abiding citizens. That’s really what this program is about…”",
+"href": "https://www.fox4news.com/news/keller-formally-partner-ice"
+},
+{
+"text": "Mayor Mizani: Keller to become the first in Tarrant County to formally partner with ICE",
+"href": "https://www.nbcdfw.com/news/local/keller-jail-partner-ice-check-inmate-immigration-status-tarrant-county-immigrant-rights/3888270/"
+},
+{
+"text": "Mayor Mizani: “Redistricting will protect Texas’ conservative wins. Let’s get it done”",
+"href": "https://www.star-telegram.com/opinion/opn-columns-blogs/other-voices/article311690975.html"
+},
+{
+"text": "Mayor Mizani: “The crisis at our southern border is not a red or blue issue. It is a national security threat”",
+"href": "https://www.star-telegram.com/opinion/opn-columns-blogs/other-voices/article282206368.html"
+},
+{
+"text": "Mayor Mizani: “This is about protecting victims, supporting federal law, and preventing dangerous individuals from slipping through the cracks…”",
+"href": "https://www.star-telegram.com/news/politics-government/article311108915.html"
+},
+{
+"text": "Meet Armin",
+"href": "https://arminfortexas.com/meet-armin/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/armin-mizani/donation"
+},
+{
+"text": "Pictures",
+"href": "https://www.flickr.com/photos/204284875@N08/albums/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://arminfortexas.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://arminfortexas.com/privacy-policy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://arminfortexas.com/issues/#TAXES"
+},
+{
+"text": "Protecting the 2nd Amendment",
+"href": "https://arminfortexas.com/issues/#SECOND"
+},
+{
+"text": "Protecting the Unborn",
+"href": "https://arminfortexas.com/issues/#PROTECTING"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#CRIME"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#ECONOMIC"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#GOVERNMENT"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#INFRASTRUCTURE"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#PROTECTING"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#SCHOOL"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#SECOND"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/issues/#TAXES"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/meet-armin/"
+},
+{
+"text": "Read More",
+"href": "https://arminfortexas.com/news/"
+},
+{
+"text": "School Choice & Public School Funding",
+"href": "https://arminfortexas.com/issues/#SCHOOL"
+},
+{
+"text": "Video",
+"href": "https://youtu.be/eg7iQ7W-IxI"
+},
+{
+"text": "Volunteer",
+"href": "https://arminfortexas.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "http://x.com/arminmizanitx"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/arminmizanitx"
+},
+{
+"text": "[image]",
+"href": "https://arminfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-3.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-4.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://arminfortexas.com/wp-content/uploads/2025/07/Gallery-Image-5.jpg"
+},
+{
+"text": "mayor MIZANI vows to support Donald Trump",
+"href": "https://www.houstonchronicle.com/news/houston-texas/trending/article/texas-mayor-trump-puerto-rico-19874452.php"
+}
 ]

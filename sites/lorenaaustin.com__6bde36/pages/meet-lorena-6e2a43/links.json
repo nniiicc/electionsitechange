@@ -1,14 +1,66 @@
 [
-"https://facebook.com/LorenaAustinAZ",
-"https://instagram.com/LorenaAustinaz",
-"https://lorenaaustin.com/",
-"https://lorenaaustin.com/accomplishments",
-"https://lorenaaustin.com/contact",
-"https://lorenaaustin.com/endorsements",
-"https://lorenaaustin.com/events",
-"https://lorenaaustin.com/issues",
-"https://lorenaaustin.com/meet-lorena",
-"https://lorenaaustin.com/resources",
-"https://secure.actblue.com/donate/lorenaforaz",
-"https://twitter.com/LorenaAustin4Az"
+{
+"text": "Accomplishments",
+"href": "https://www.lorenaaustin.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.lorenaaustin.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lorenaforaz"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lorenaaustin.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lorenaaustin.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LorenaAustinAZ/"
+},
+{
+"text": "Home",
+"href": "https://www.lorenaaustin.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/LorenaAustinaz/"
+},
+{
+"text": "Issues",
+"href": "https://www.lorenaaustin.com/issues"
+},
+{
+"text": "Meet Lorena",
+"href": "https://www.lorenaaustin.com/meet-lorena"
+},
+{
+"text": "Resources",
+"href": "https://www.lorenaaustin.com/resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LorenaAustinAZ"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/LorenaAustinaz/"
+},
+{
+"text": "[image: Lorena Austin Long Logo.png]",
+"href": "https://www.lorenaaustin.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LorenaAustin4Az"
+},
+{
+"text": "lorena@lorenaaustin.com",
+"href": "mailto:lorena@lorenaaustin.com"
+}
 ]

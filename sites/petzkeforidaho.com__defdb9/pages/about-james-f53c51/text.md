@@ -1,4 +1,4 @@
-James Petzke is your conservative Republican Representative for District 21, seat A.
+Home About James Volunteer Donate Contact Home About James Volunteer Donate Contact About James James Petzke is your conservative Republican Representative for District 21, seat A.
 He was first elected in 2022 and serves on the Appropriations (JFAC), Resources, and Transportation committees.
 In his first term in office, James carried a bill to make personal finance a requirement in high schools and was a strong advocate for Career Technical Education.
 He worked hard to keep our state budget balanced and conservative, and supported the massive property tax cuts that have been passed the last two years.
@@ -17,3 +17,6 @@ He spends every fall hunting deer and elk.
 His summers are spent backpacking and hiking (including summiting all nine of Idaho’s twelve thousand foot peaks).
 James is a dedicated athlete and has competed in everything from ultra marathons to CrossFit to Olympic weightlifting.
 James is excited and honored to have an opportunity to serve the people of Idaho, and is working hard for the residents of Meridian.
+“Representative James Petzke is a champion of conservative values .
+He has passed historic tax cuts, slashed unnecessary spending, and always backs the blue!
+Let’s send Representative Petzke back to the Statehouse.” – Governor Brad Little Representative Petzke is Also Endorsed and Supported By: Paid for by The Campaign to Elect James Petzke Campaign Treasurer: Joel Hickman See James's Tweets Couldn't connect with Twitter Home About James Volunteer Donate Contact

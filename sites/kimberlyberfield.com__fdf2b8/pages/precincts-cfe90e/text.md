@@ -1,109 +1,16 @@
-Join Kim Berfields’s campaign for house of representatives and join our growing team of supporters across District 58!
+Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts A Proven Record Join Kim Berfields’s campaign for house of representatives and join our growing team of supporters across District 58!
 Fill out your information below, and we’ll be in touch shortly.
-Doral Village
-29250 US Hwy 19 N, Clearwater, FL 33761
-624
-Bethel Lutheran Church
-3166 McMullen Booth Rd, Clearwater, FL 33761
-623
-Northwood Presbyterian Church
-2875 State Road 580, Clearwater, FL 33761
-618
-Clearwater Countryside Library
-2642 Sabal Springs Dr, Clearwater, FL 33761
-617
-616
-611
-Sylvan Abbey United Methodist Ch
-2817 Sunset Point Rd, Clearwater, FL 33759
-610
-Wood Valley Boys and Girls Club
-2816 Park Trail Ln, Clearwater, FL 33759
-609
-Clarion Inn & Suites Central Clearwater Beach
-20967 US Hwy 19 N, Clearwater, FL 33764
-608
-607
-First Christian Church of Clwr.
-2299 Drew St, Clearwater, FL 33765
-605
-Morningside Recreation Complex
-2400 Harn Blvd, Clearwater, FL 33764
-603
-First Presbyterian Church
-455 Scotland St, Dunedin, FL 34698
-537
-531
-Dunedin Assembly of God Church
-885 Lake Haven Rd, Dunedin, FL 34698
-529
-Kings Highway Recreation Center
-1751 Kings Hwy, Clearwater, FL 33755
-528
-Polish Center
-1521 N Saturn Ave, Clearwater, FL 33755
-527
-526
-St.
-Michael Archangel Catholic Ch
-2281 State Road 580, Clearwater, FL 33763
-524
-On Top of the World West
-2291 World Parkway Boulevard West, Clearwater, FL
-523
-On Top of the World East
-2069 World Parkway Boulevard West, Clearwater, FL
-522
-Salvation Army
-American Legion Post 7
-1760 Turner St, Clearwater, FL 33756
-519
-518
-517
-North Greenwood Recreation & Aquatic Complex
-900 N Martin Luther King Jr Ave, Clearwater, FL 33755
-516
-Clearwater Beach Rec.
-Center
-69 Bay Esplanade, Clearwater, FL 33767
-515
-514
-Clearwater Community Sailing Center
-1001 Gulf Blvd, Clearwater, FL 33767
-513
-Clearwater Main Library
-100 N Osceola Ave, Clearwater, FL 33755
-512
-511
-510
-Trinity Presbyterian Church
-2001 Rainbow Dr, Clearwater, FL 33765
-509
-Central Christian Church of Clwr.
-1200 S Keene Rd, Clearwater, FL 33756
-508
-507
-506
-First Christian Church of Clwr
-505
-First Lutheran Church & School
-1644 Nursery Rd, Clearwater, FL 33756
-504
-503
-St.
-John's Episcopal Church
-Seventh Day Adventist Church
-Ross Norton Recreation Center
-1426 S M.L.K.
-Jr Ave, Clearwater, FL 33756
-500
-Belleair Beach City Hall
-444 Causeway Blvd, Belleair Beach, FL 33786
-422
-421
-Indian Rocks Beach City Hall
-Belleair Town Hall
-Belleair Bluffs City Hall
-2747 Sunset Blvd, Belleair Bluffs, FL 33770
-341
-No results available Reset filters?
+Filter results {{ activeFilterCount }} Clear Search Alphabetical List view Map view All Precints in District 58 Precinct 624 Doral Village 29250 US Hwy 19 N, Clearwater, FL 33761 624 Precinct 623 Bethel Lutheran Church 3166 McMullen Booth Rd, Clearwater, FL 33761 623 Precinct 618 Northwood Presbyterian Church 2875 State Road 580, Clearwater, FL 33761 618 Precinct 617 Clearwater Countryside Library 2642 Sabal Springs Dr, Clearwater, FL 33761 617 Precinct 616 Clearwater Countryside Library 2642 Sabal Springs Dr, Clearwater, FL 33761 616 Precinct 611 Northwood Presbyterian Church 2875 State Road 580, Clearwater, FL 33761 611 Precinct 610 Sylvan Abbey United Methodist Ch 2817 Sunset Point Rd, Clearwater, FL 33759 610 Precinct 609 Wood Valley Boys and Girls Club 2816 Park Trail Ln, Clearwater, FL 33759 609 Precinct 608 Clarion Inn & Suites Central Clearwater Beach 20967 US Hwy 19 N, Clearwater, FL 33764 608 Precinct 607 Clarion Inn & Suites Central Clearwater Beach 20967 US Hwy 19 N, Clearwater, FL 33764 607 Precinct 605 First Christian Church of Clwr.
+2299 Drew St, Clearwater, FL 33765 605 Precinct 603 Morningside Recreation Complex 2400 Harn Blvd, Clearwater, FL 33764 603 Precinct 537 First Presbyterian Church 455 Scotland St, Dunedin, FL 34698 537 Precinct 531 Doral Village 29250 US Hwy 19 N, Clearwater, FL 33761 531 Precinct 529 Dunedin Assembly of God Church 885 Lake Haven Rd, Dunedin, FL 34698 529 Precinct 528 Kings Highway Recreation Center 1751 Kings Hwy, Clearwater, FL 33755 528 Precinct 527 Polish Center 1521 N Saturn Ave, Clearwater, FL 33755 527 Precinct 526 Dunedin Assembly of God Church 885 Lake Haven Rd, Dunedin, FL 34698 526 Precinct 525 St.
+Michael Archangel Catholic Ch Precinct 524 St.
+Michael Archangel Catholic Ch 2281 State Road 580, Clearwater, FL 33763 524 Precinct 523 On Top of the World West 2291 World Parkway Boulevard West, Clearwater, FL 523 Precinct 522 On Top of the World East 2069 World Parkway Boulevard West, Clearwater, FL 522 Precinct 521 Salvation Army Precinct 520 Polish Center Precinct 519 American Legion Post 7 1760 Turner St, Clearwater, FL 33756 519 Precinct 518 Polish Center 1521 N Saturn Ave, Clearwater, FL 33755 518 Precinct 517 Kings Highway Recreation Center 1751 Kings Hwy, Clearwater, FL 33755 517 Precinct 516 North Greenwood Recreation & Aquatic Complex 900 N Martin Luther King Jr Ave, Clearwater, FL 33755 516 Precinct 515 Clearwater Beach Rec.
+Center 69 Bay Esplanade, Clearwater, FL 33767 515 Precinct 514 Clearwater Beach Rec.
+Center 69 Bay Esplanade, Clearwater, FL 33767 514 Precinct 513 Clearwater Community Sailing Center 1001 Gulf Blvd, Clearwater, FL 33767 513 Precinct 512 Clearwater Main Library 100 N Osceola Ave, Clearwater, FL 33755 512 Precinct 511 Clearwater Main Library 100 N Osceola Ave, Clearwater, FL 33755 511 Precinct 510 Clearwater Main Library 100 N Osceola Ave, Clearwater, FL 33755 510 Precinct 509 Trinity Presbyterian Church 2001 Rainbow Dr, Clearwater, FL 33765 509 Precinct 508 Central Christian Church of Clwr.
+1200 S Keene Rd, Clearwater, FL 33756 508 Precinct 507 Central Christian Church of Clwr.
+1200 S Keene Rd, Clearwater, FL 33756 507 Precinct 506 Morningside Recreation Complex 2400 Harn Blvd, Clearwater, FL 33764 506 Precinct 505 First Christian Church of Clwr 2299 Drew St, Clearwater, FL 33765 505 Precinct 504 First Lutheran Church & School 1644 Nursery Rd, Clearwater, FL 33756 504 Precinct 503 First Lutheran Church & School 1644 Nursery Rd, Clearwater, FL 33756 503 Precinct 502 St.
+John's Episcopal Church Precinct 501 Seventh Day Adventist Church Precinct 500 Ross Norton Recreation Center 1426 S M.L.K.
+Jr Ave, Clearwater, FL 33756 500 Precinct 422 Belleair Beach City Hall 444 Causeway Blvd, Belleair Beach, FL 33786 422 Precinct 421 Belleair Beach City Hall 444 Causeway Blvd, Belleair Beach, FL 33786 421 Precinct 420 Indian Rocks Beach City Hall Precinct 350 Seventh Day Adventist Church Precinct 344 Belleair Town Hall Precinct 341 Belleair Bluffs City Hall 2747 Sunset Blvd, Belleair Bluffs, FL 33770 341 No results available Reset filters?
+Previous Next Kimberly Berfield for State House 2519 North McMullen Booth Road Suite 510 Clearwater, FL 33761 Menu Menu Meet Kim The Issues Accomplishments Endorsements Precincts Meet Kim The Issues Accomplishments Endorsements Precincts Ways to Support Menu Join Kim’s Krewe Endorse Kim Join Kim’s Krewe Endorse Kim Contributions are not deductible as charitable contributions for federal income tax purposes.
+The maximum contribution is $1,000 per individual or business, per election.
+Paid by Kimberly "Kim" Berfield, Republican, for State Representative District 58.
+Copyright © # – # Kimberly “Kim” Berfield – All Rights Reserved.

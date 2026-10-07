@@ -1,5 +1,4 @@
-Meet Anita
-I'm Dr.
+0 Skip to Content Home About Me Platform Endorsements Contact Us Donate Open Menu Close Menu Home About Me Platform Endorsements Contact Us Donate Open Menu Close Menu Home About Me Platform Endorsements Contact Us Donate Meet Anita I'm Dr.
 Anita Somani, and I'm honored to serve as your State Representative for Ohio's 8th House District.
 I'm running for reelection because there's still more work to do.
 For more than 30 years, I have cared for women and families as an obstetrician and gynecologist in Columbus.
@@ -17,8 +16,4 @@ Family, community, and service have always been at the center of my life.
 I'm not a career politician.
 I'm an obstetrician who wants every baby I deliver to have the same opportunities my own children had.
 That's why I first ran for office, and it's why I'm asking for your support once again.
-Voter Resources
-EARLY VOTING STARTS OCTOBER 6 ELECTION DAY IS NOVEMBER 3
-Find Your District
-Register To Vote/Check Your Voter Registration
-Request An Absentee Ballot
+Voter Resources EARLY VOTING STARTS OCTOBER 6 ELECTION DAY IS NOVEMBER 3 Find Your District Here Register To Vote/Check Your Voter Registration Here Request An Absentee Ballot Here Paid For By Friends of Anita Somani

@@ -1,15 +1,82 @@
 [
-"https://beckyformontana.com/",
-"https://beckyformontana.com/contact",
-"https://beckyformontana.com/endorsements",
-"https://beckyformontana.com/issues",
-"https://beckyformontana.com/media",
-"https://beckyformontana.com/privacy-policy",
-"https://beckyformontana.com/terms-and-conditions",
-"https://beckyformontana.com/volunteer",
-"https://facebook.com/profile.php?id=61554273313882",
-"https://instagram.com/beckyformontana",
-"https://secure.actblue.com/donate/becky4montana",
-"https://secure.actblue.com/donate/becky4mt",
-"https://tensquaredcreative.com/"
+{
+"text": "About Me",
+"href": "https://www.beckyformontana.com"
+},
+{
+"text": "Contact",
+"href": "https://www.beckyformontana.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/becky4montana"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/becky4mt"
+},
+{
+"text": "Endorsements",
+"href": "https://www.beckyformontana.com/endorsements"
+},
+{
+"text": "In the Media",
+"href": "https://www.beckyformontana.com/media"
+},
+{
+"text": "Issues",
+"href": "https://www.beckyformontana.com/issues"
+},
+{
+"text": "JOIN US",
+"href": "https://www.beckyformontana.com/volunteer"
+},
+{
+"text": "Join our Mailing List",
+"href": "https://www.beckyformontana.com/contact"
+},
+{
+"text": "Join the Mailing List",
+"href": "https://www.beckyformontana.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beckyformontana.com/privacy-policy"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.beckyformontana.com/contact"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.beckyformontana.com/contact"
+},
+{
+"text": "Ten Squared Creative",
+"href": "https://tensquaredcreative.com"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.beckyformontana.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.beckyformontana.com/volunteer"
+},
+{
+"text": "[image: BFMT_HD57 Logo_Color1.png]",
+"href": "https://www.beckyformontana.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61554273313882"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/beckyformontana/"
+},
+{
+"text": "beckyformontana@gmail.com",
+"href": "mailto:beckyformontana@gmail.com"
+}
 ]

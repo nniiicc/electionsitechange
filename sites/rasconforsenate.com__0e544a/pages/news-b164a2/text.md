@@ -1,8 +1,3 @@
-news & press
-Our Campaign's Latest Developments
-los angeles daily news
-Skip navigation menu
-news & press
-Our Campaign's Latest Developments
-los angeles daily news
-Environmental advocate Sarah Rascón seeks state Senate seat representing parts of Northeast LA
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate news & press Our Campaign's Latest Developments LA PROGRESSIVE Same Money, New Zip Code Read more Jul 21 2026 los angeles daily news Environmental advocate Sarah Rascón seeks state Senate seat representing parts of Northeast LA Read more Jun 5 2025 beverly press Rascón announces campaign for State Senate’s 26th District Read more Jun 4 2025 Press Release Sarah Rascón Announces Campaign for California State Senate District 26 Read more Jun 3 2025 Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E.
+Ocean Blvd., Ste.
+814, Long Beach, CA 90802 You need to enable JavaScript to run this app.

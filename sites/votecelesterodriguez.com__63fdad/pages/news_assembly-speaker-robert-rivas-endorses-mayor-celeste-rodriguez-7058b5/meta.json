@@ -1,10 +1,14 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.votecelesterodriguez.com/news/assembly-speaker-robert-rivas-endorses-mayor-celeste-rodriguez",
+ "fingerprint": "0a08e093335c9fda3121023897bde9904e53a28d",
+ "format": 3,
  "paid_for_by": "Paid for by Celeste Rodriguez for Assembly 2026 FPPC #1477040 1700 Tribute Rd",
  "title": "Assembly Speaker Robert Rivas Endorses Mayor Celeste Rodriguez for Assembly District 43",
  "years_mentioned": [
   "2020",
-  "2022"
+  "2022",
+  "2023",
+  "2026"
  ]
 }

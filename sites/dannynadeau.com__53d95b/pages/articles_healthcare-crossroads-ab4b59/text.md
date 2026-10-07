@@ -1,8 +1,4 @@
-Op-Ed: Minnesota’s Healthcare Crossroads – Premium Hikes, ACA Evolution, and the Cost of Expansion
-Thursday, October 9, 2025
-Op-Ed: Minnesota’s Healthcare Crossroads – Premium Hikes, ACA Evolution, and the Cost of Expansion
-Representative Danny Nadeau
-Minnesotans are confronting a hard truth this fall: health insurance premiums are climbing by double digits across the individual and small-group markets.
+Home About Issues Endorsements Articles Events Photos Voting Suburbs Survey Contact Donate Op-Ed: Minnesota’s Healthcare Crossroads – Premium Hikes, ACA Evolution, and the Cost of Expansion Thursday, October 9, 2025 Op-Ed: Minnesota’s Healthcare Crossroads – Premium Hikes, ACA Evolution, and the Cost of Expansion Representative Danny Nadeau Minnesotans are confronting a hard truth this fall: health insurance premiums are climbing by double digits across the individual and small-group markets.
 For families already grappling with inflation and economic uncertainty, this is more than a budget inconvenience; it is wake-up call about the sustainability of our healthcare system.
 When Congress passed the Affordable Care Act (ACA) in 2010, the goal was to make healthcare more accessible, protect people with pre-existing conditions, and bring down costs.
 While it succeeded in some ways, especially in states like Minnesota that embraced its framework early, it also came with challenges.
@@ -32,4 +28,6 @@ We need transparency in how public programs are funded, accountability for cost 
 That includes cutting administrative waste, ensuring fair reimbursement for providers, and exploring market-based reforms that promote competition and choice.
 Healthcare is not just a policy issue; it is a kitchen table issue.
 Unless we work together and act now, more Minnesotans will find themselves priced out of the coverage they depend on.
-##
+## Follow Follow Follow Follow Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374 Follow Follow Follow Follow Privacy Policy Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374

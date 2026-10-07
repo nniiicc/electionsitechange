@@ -1,3 +1,1 @@
-Oct 18, 2020 | News
-Read the full article here:
-https://www.inforum.com/opinion/editorials/6716749-Endorsement-Thissen-for-Minnesota-Supreme-Court
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page News INFORUM Endorsement: Thissen for Minnesota Supreme Court Oct 18, 2020 | News Read the full article here: https://www.inforum.com/opinion/editorials/6716749-Endorsement-Thissen-for-Minnesota-Supreme-Court Privacy Policy

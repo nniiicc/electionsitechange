@@ -1,10 +1,13 @@
 {
  "description": "BUSIEST TIME OF THE YEAR - Yes, it is the busiest time of the year these two weeks that we are in right now. What makes it busy ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=132",
- "paid_for_by": null,
+ "fingerprint": "42cf9db251766e64554e73e77038cbca5e3bc727",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - BUSIEST TIME OF THE YEAR",
  "years_mentioned": [
   "2024",
-  "2025"
+  "2025",
+  "2039"
  ]
 }

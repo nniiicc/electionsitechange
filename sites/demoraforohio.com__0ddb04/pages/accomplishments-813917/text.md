@@ -1,4 +1,4 @@
-Being a veteran in politics, State Sen.
+Skip to main content Bill DeMora Democrat for Ohio Senate Meet Bill Accomplishments Endorsements News Donate Accomplishments Being a veteran in politics, State Sen.
 Bill DeMora hit the ground running in his first term.
 A team player, Sen.
 DeMora understood that his constituents and Ohioans want a senator who will work across the aisle to get the job done.
@@ -26,3 +26,4 @@ DeMora channeled that same passion into supporting more state funding for public
 Once a Buckeye, always a Buckeye, Sen.
 DeXora (no, that is not a typo) also kicked off “The GaXe” week between his beloved Ohio State football team and that team up North by crossing out every X in the Ohio Statehouse.
 And to put a Buckeye on top, he introduced bipartisan legislation to officially designate the buckeye candy as the state candy of Ohio, honoring one of the state’s most recognizable and sweetest traditions.
+Paid for by Friends of Bill DeMora

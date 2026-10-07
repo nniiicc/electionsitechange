@@ -1,11 +1,46 @@
 [
-"https://facebook.com/VoteSpiegel",
-"https://instagram.com/ryan.spiegel",
-"https://ryanspiegel.com/",
-"https://ryanspiegel.com/contribute",
-"https://ryanspiegel.com/endorsements",
-"https://ryanspiegel.com/newsletters",
-"https://ryanspiegel.com/ryan",
-"https://secure.actblue.com/donate/ryanspiegel",
-"https://twitter.com/RySpiegel"
+{
+"text": "CONTRIBUTE",
+"href": "https://www.ryanspiegel.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://www.ryanspiegel.com/contribute"
+},
+{
+"text": "DONATE ONLINE BY CLICKING HERE.",
+"href": "https://secure.actblue.com/donate/ryanspiegel"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ryanspiegel.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.ryanspiegel.com"
+},
+{
+"text": "MEET RYAN",
+"href": "https://www.ryanspiegel.com/ryan"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.ryanspiegel.com/newsletters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteSpiegel"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ryan.spiegel/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/RySpiegel"
+},
+{
+"text": "[no text]",
+"href": "https://www.ryanspiegel.com"
+}
 ]

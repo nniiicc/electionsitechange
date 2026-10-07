@@ -1,10 +1,5 @@
-Resources
-The following information is provided to help connect you with available resources.
+0 Skip to Content Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home Folder: About Back Meet Micah Committees District 89 Issues Folder: News and Media Back News Social Media Resources Volunteer DONATE Resources The following information is provided to help connect you with available resources.
 Please feel free to contact me if in need of assistance.
-Municipal Government
-State Government
-- General SC Government Information
-- Office of the Governor
-- State Legislature Information and Calendar
-- Judicial Branch Information
-- State Agency Listing
+Municipal Government City of West Columbia Town of Cayce Town of Springdale County of Lexington State Government General SC Government Information Office of the Governor State Legislature Information and Calendar Judicial Branch Information State Agency Listing Federal Delegation Congressman Joe Wilson Senator Lindsay Graham Senator Tim Scott Election Information South Carolina Election Commission Businesses Business Filings SC Chamber of Commerce South Carolina Business One Stop Stay in Touch!
+If you live in Cayce, West Columbia, or Springdale, I want to hear from you.
+Please do not hesitate to share your ideas, thoughts, concerns, comments, gripes, or complaints. micah@micahcaskey.com (803)-250-5834 PO Box #5875, West Columbia, SC 29171 Contact PAID FOR BY CASKEY FOR HOUSE

@@ -1,16 +1,46 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://facebook.com/SenatorBradyBrammer",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://support.google.com/ads/answer/2662922?hl=en",
-"https://votebrammer.com/",
-"https://votebrammer.com/about-brady",
-"https://votebrammer.com/bills-media",
-"https://votebrammer.com/contact",
-"https://votebrammer.com/delivering-results",
-"https://votebrammer.com/endorsements",
-"https://votebrammer.com/privacyterms",
-"https://votebrammer.com/search"
+{
+"text": "Bills & Media",
+"href": "https://www.votebrammer.com/bills-media"
+},
+{
+"text": "Contact",
+"href": "https://www.votebrammer.com/contact"
+},
+{
+"text": "Delivering Results",
+"href": "https://www.votebrammer.com/delivering-results"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votebrammer.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votebrammer.com/"
+},
+{
+"text": "Meet Brady",
+"href": "https://www.votebrammer.com/about-brady"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebrammer.com/privacyterms"
+},
+{
+"text": "[image: Brady Brammer]",
+"href": "https://www.votebrammer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorBradyBrammer"
+},
+{
+"text": "[no text]",
+"href": "https://www.votebrammer.com/search"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

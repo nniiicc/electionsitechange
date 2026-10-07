@@ -1,23 +1,94 @@
 [
-"http://kirkandersonmarketing.com/",
-"https://dukeforwisconsin.com/",
-"https://dukeforwisconsin.com/author/admin01",
-"https://dukeforwisconsin.com/biography",
-"https://dukeforwisconsin.com/campaign-kick-off-rally",
-"https://dukeforwisconsin.com/category/events",
-"https://dukeforwisconsin.com/category/news",
-"https://dukeforwisconsin.com/contact",
-"https://dukeforwisconsin.com/district-75",
-"https://dukeforwisconsin.com/donate",
-"https://dukeforwisconsin.com/duke-tucker-elected-to-represent-wisconsins-75th-assembly-district",
-"https://dukeforwisconsin.com/duke-tucker-hosts-successful-campaign-kick-off-event",
-"https://dukeforwisconsin.com/duke-tucker-launches-his-first-campaign-commercial",
-"https://dukeforwisconsin.com/duke-tucker-wins-primary-election-for-wisconsins-75th-assembly-district",
-"https://dukeforwisconsin.com/endorsements",
-"https://dukeforwisconsin.com/fundraiser-meet-and-greet-for-duke-tucker",
-"https://dukeforwisconsin.com/news",
-"https://dukeforwisconsin.com/the-issues",
-"https://dukeforwisconsin.com/wisconsin-farm-bureau-endorses-duke-tucker",
-"https://dukeforwisconsin.com/youre-invited-to-a-fundraiser-for-duke-tucker-candidate-for-the-75th-assembly-district",
-"https://facebook.com/Duke75Assembly"
+{
+"text": "Admin01",
+"href": "https://dukeforwisconsin.com/author/admin01/"
+},
+{
+"text": "Biography",
+"href": "https://dukeforwisconsin.com/biography/"
+},
+{
+"text": "Campaign Kick-Off Rally",
+"href": "https://dukeforwisconsin.com/campaign-kick-off-rally/"
+},
+{
+"text": "Contact",
+"href": "https://dukeforwisconsin.com/contact/"
+},
+{
+"text": "District 75",
+"href": "https://dukeforwisconsin.com/district-75/"
+},
+{
+"text": "Donate",
+"href": "https://dukeforwisconsin.com/donate/"
+},
+{
+"text": "Duke Tucker Elected to Represent Wisconsin’s 75th Assembly District",
+"href": "https://dukeforwisconsin.com/duke-tucker-elected-to-represent-wisconsins-75th-assembly-district/"
+},
+{
+"text": "Duke Tucker Launches His First Campaign Commercial",
+"href": "https://dukeforwisconsin.com/duke-tucker-launches-his-first-campaign-commercial/"
+},
+{
+"text": "Duke Tucker Wins Primary Election for Wisconsin’s 75th Assembly District",
+"href": "https://dukeforwisconsin.com/duke-tucker-wins-primary-election-for-wisconsins-75th-assembly-district/"
+},
+{
+"text": "Duke Tucker holds campaign kick-off & rally for Wisconsin’s 75th State Assembly District",
+"href": "https://dukeforwisconsin.com/duke-tucker-hosts-successful-campaign-kick-off-event/"
+},
+{
+"text": "Endorsements",
+"href": "https://dukeforwisconsin.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dukeforwisconsin.com/category/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Duke75Assembly"
+},
+{
+"text": "Fundraiser + Meet and Greet for Duke Tucker",
+"href": "https://dukeforwisconsin.com/fundraiser-meet-and-greet-for-duke-tucker/"
+},
+{
+"text": "Home",
+"href": "https://dukeforwisconsin.com/"
+},
+{
+"text": "KAM",
+"href": "http://www.kirkandersonmarketing.com/"
+},
+{
+"text": "News",
+"href": "https://dukeforwisconsin.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://dukeforwisconsin.com/news/"
+},
+{
+"text": "The Issues",
+"href": "https://dukeforwisconsin.com/the-issues/"
+},
+{
+"text": "Wisconsin Farm Bureau Endorses Duke Tucker",
+"href": "https://dukeforwisconsin.com/wisconsin-farm-bureau-endorses-duke-tucker/"
+},
+{
+"text": "You’re Invited to a Fundraiser for Duke Tucker, Candidate for the 75th Assembly District",
+"href": "https://dukeforwisconsin.com/youre-invited-to-a-fundraiser-for-duke-tucker-candidate-for-the-75th-assembly-district/"
+},
+{
+"text": "[image: Duke for Wisconsin | Duke Tucker for the 75th Assembly District]",
+"href": "https://dukeforwisconsin.com/"
+},
+{
+"text": "campaign@DukeforWisconsin.com",
+"href": "mailto:campaign@DukeforWisconsin.com"
+}
 ]

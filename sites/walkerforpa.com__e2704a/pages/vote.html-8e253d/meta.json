@@ -1,8 +1,10 @@
 {
  "description": "Everything you need to cast your ballot for Joe Walker in Pennsylvania.",
  "final_url": "https://www.walkerforpa.com/vote",
- "paid_for_by": "Paid for by Walker for PA &mdash; info@walkerforpa",
- "title": "Vote \u2014 Walker for PA State House",
+ "fingerprint": "a3ed265c7cebfc5f76f9f5bf50dbf9df9c1328ea",
+ "format": 3,
+ "paid_for_by": "Paid for by Walker for PA — info@walkerforpa",
+ "title": "Vote — Walker for PA State House",
  "years_mentioned": [
   "2026"
  ]

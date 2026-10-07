@@ -1,5 +1,14 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.morganforpa.com%2Fdonate-2",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.morganforpa.com%2Fdonate-2",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.morganforpa.com%2Fdonate-2"
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.morganforpa.com%2Fdonate-2"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.morganforpa.com%2Fdonate-2"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.morganforpa.com%2Fdonate-2"
+}
 ]

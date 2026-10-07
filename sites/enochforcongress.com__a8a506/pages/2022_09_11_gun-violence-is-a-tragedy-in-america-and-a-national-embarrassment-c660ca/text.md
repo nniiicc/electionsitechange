@@ -1,8 +1,6 @@
-Gun violence is a tragedy in America, and a national embarrassment.
-September 11, 2022
-Gun violence is a tragedy in America, and a national embarrassment.
-September 11, 2022
-| By Dr.
+Skip to content Facebook Twitter Pinterest Instagram LinkedIn Home Endorsements About Biography Issues Ohio’s 8th Congressional District Voting in 2026 Blog Events Contact Contact Share Your Opinion Donate Order a Yard Sign Volunteer Gun violence is a tragedy in America, and a national embarrassment.
+September 11, 2022 Gun violence is a tragedy in America, and a national embarrassment.
+September 11, 2022 By Dr.
 Alan Gabelman “A well-regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” At the time this was written, there was no national army, because people were afraid such an army would usurp the authority of the states.
 The objective of the second amendment was to allow the existence of militias, to ensure this did not happen.
 It had nothing to do with individual gun ownership for other purposes.
@@ -35,9 +33,31 @@ That makes it safe to be able to buy military-grade guns and hardware, even 18-y
 After Sandy Hook, NRA CEO Wayne LaPierre said, “The only thing that stops a bad guy with a gun is a good guy with a gun.” Actually, no.
 It didn’t work in Buffalo.
 Or Uvalde.
-According to an FBI report, citizens killed active shooters in only four out of 345 incidents from 2000 to 2019, and none of those was in an educational setting.
+According to an FBI report , citizens killed active shooters in only four out of 345 incidents from 2000 to 2019, and none of those was in an educational setting.
 Republican lawmakers know that the goal should be to prevent bad guys from having a gun in the first place, but they’re too deep into the pockets of the NRA to admit it.
 And Davidson is one of them.
 He never met a gun rights bill he didn’t like, or a common sense gun control bill he could support.
-He and his colleagues have blood on their hands from Sandy Hook, Buffalo, Uvalde, Tulsa, and so many more, and we need to remind voters of it early and often. |
-Posted in News
+He and his colleagues have blood on their hands from Sandy Hook, Buffalo, Uvalde, Tulsa, and so many more, and we need to remind voters of it early and often.
+Posted in News Posts navigation ← Enoch Advocates for Veterans in Need￼ That’s Racist! → Support Want a Representative who cares?
+Who gets it?
+Help us take back our government.
+Every little bit helps.
+Donate Search Recent Posts War Requires the Voice of the People March 8, 2026 Why I’m Running Again… February 2, 2026 I will fight every day for a woman’s right to safe, accessible, and affordable reproductive care August 1, 2024 That’s Racist!
+January 6, 2024 Gun violence is a tragedy in America, and a national embarrassment.
+September 11, 2022 Search Search field required with a minimum length of 3 characters Search Search Search field required with a minimum length of 3 characters Enoch for Congress U.S.
+House of Representatives, Ohio's 8th District (OH-08) Contact P.O.
+Box 1362 West Chester, OH 45071 (513) 486-4829 dr.enoch@enochforcongress.com Get the Latest Name Please enter your name.
+Email Address Please enter a valid email address.
+Subscribe!
+Thanks for subscribing!
+We'll be in touch soon!
+Something went wrong.
+Please check your entries and try again.
+Contribute Be a part of the movement and participate in building a better future for our country!
+Join this historical campaign and stand up for the values that make our country great.
+Make a difference.
+The Campaign is paid for by the Committee to Elect Enoch.
+Donate Volunteer Upcoming Events October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
+Home Upcoming Events Blog Shop Contact Facebook Twitter Pinterest Instagram LinkedIn ©# Enoch for Congress.
+All Rights Reserved.
+Volunteer Portal Scroll To Top Optimized by Seraphinite Accelerator Turns on site high speed to be attractive for people and search engines.

@@ -1,16 +1,78 @@
 [
-"https://alangordonri.com/",
-"https://alangordonri.com/bio",
-"https://alangordonri.com/contact",
-"https://alangordonri.com/donations",
-"https://alangordonri.com/investigations-and-initiatives",
-"https://alangordonri.com/minority-constitutional-advocate",
-"https://alangordonri.com/minority-constitutional-advocate/assets/minority-advocate-one-pager.pdf",
-"https://alangordonri.com/minority-constitutional-advocate/assets/minority-advocate-policy-paper.pdf",
-"https://alangordonri.com/platform",
-"https://alangordonri.com/survey.html",
-"https://courts.ri.gov/attorney-resources/Documents/Supreme-Rules-Article5_oct%202023.pdf",
-"https://gutenberg.org/ebooks/34901",
-"https://rilegislature.gov/riconstitution/Constitution/C09.aspx",
-"https://webserver.rilegislature.gov/BillText26/HouseText26/Article-001-SUB-A.htm"
+{
+"text": "Alan Gordon For Attorney General",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Bio",
+"href": "https://alangordonri.com/bio/"
+},
+{
+"text": "Contact",
+"href": "https://alangordonri.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://alangordonri.com/donations/"
+},
+{
+"text": "Donations",
+"href": "https://alangordonri.com/donations/"
+},
+{
+"text": "Download the full policy paper",
+"href": "https://alangordonri.com/minority-constitutional-advocate/assets/minority-advocate-policy-paper.pdf"
+},
+{
+"text": "Download the one-page summary",
+"href": "https://alangordonri.com/minority-constitutional-advocate/assets/minority-advocate-one-pager.pdf"
+},
+{
+"text": "FY2027 Rhode Island enacted appropriations",
+"href": "https://webserver.rilegislature.gov/BillText26/HouseText26/Article-001-SUB-A.htm"
+},
+{
+"text": "Full policy paper",
+"href": "https://alangordonri.com/minority-constitutional-advocate/assets/minority-advocate-policy-paper.pdf"
+},
+{
+"text": "Home",
+"href": "https://alangordonri.com/"
+},
+{
+"text": "Initiatives",
+"href": "https://alangordonri.com/investigations-and-initiatives/"
+},
+{
+"text": "Meet Alan",
+"href": "https://alangordonri.com/bio/"
+},
+{
+"text": "Neutrality Guarantee",
+"href": "https://alangordonri.com/minority-constitutional-advocate/"
+},
+{
+"text": "One-page PDF",
+"href": "https://alangordonri.com/minority-constitutional-advocate/assets/minority-advocate-one-pager.pdf"
+},
+{
+"text": "Platform",
+"href": "https://alangordonri.com/platform/"
+},
+{
+"text": "Project Gutenberg — On Liberty",
+"href": "https://www.gutenberg.org/ebooks/34901"
+},
+{
+"text": "Rhode Island Constitution — Article IX",
+"href": "https://www.rilegislature.gov/riconstitution/Constitution/C09.aspx"
+},
+{
+"text": "Rhode Island Supreme Court Rules — Article V",
+"href": "https://www.courts.ri.gov/attorney-resources/Documents/Supreme-Rules-Article5_oct%202023.pdf"
+},
+{
+"text": "Voter Survey",
+"href": "https://alangordonri.com/survey.html"
+}
 ]

@@ -1,13 +1,11 @@
-Cindy believes in
-Fully Funding Education
-Public education shaped my life.
+Skip navigation menu About Issues Endorsements Events Volunteer Contact Donate About Issues Endorsements Events Volunteer Contact Donate Addressing Affordability Fully Funding Education Housing Supporting Small Businesses Consumer Protection Reproductive Rights Community Safety Green Energy & Environmental Protection Closing Equity Gaps Transportation Maintenance and Expansion Cindy believes in Fully Funding Education Public education shaped my life.
 My parents came to Washington from South Korea seeking stability and the promise of a quality education for their children, an opportunity I was proud to receive through our public schools.
 Now, as a parent of children who attended Edmonds and Shoreline schools, I’m committed to making sure every student has that same chance.
-I have been a consistent champion for fully funding public education in Washington, recognizing that strong schools are the foundation of opportunity for every child and a valuable took for upward socioeconomic mobility.
+I have been a consistent champion for fully funding public education in Washington, recognizing that strong schools are the foundation of opportunity for every child and a valuable took for upward socioeconomic mobility .
 Throughout my time in the legislature, I have supported investments that reduce class sizes, expand access to early learning, and ensure schools have the resources they need to serve every student.
 I believe that paying teachers and school staff fair wages with strong benefits not only respects their profession but also creates a stable, supportive classroom environment where students can thrive.
-By investing in our educators, I will continue to work to ensure every school is staffed with experienced, dedicated professionals who help every student reach their full potential.
+By investing in our educators, I will continue to work to ensure every school is staffed with experienced, dedicated professionals who help every student reach their full potential .
 This session, I cosponsored legislation that establishes a dedicated “Pre-K Promise Account,” helping expand and sustain funding for early childhood education programs serving Washington’s youngest learners.
-I also voted in favor of HB 2594, which ensures that unhoused children in Washington have equal access to free, high-quality public education.
-I believe that access to a fully funded and fully staffed public education system is the right of all students, regardless of income, background, or ZIP code.
-Every child deserves a chance to succeed and I will keep raising my voice in the Senate to make sure our public schools deliver that promise.
+I also voted in favor of HB 2594 , which ensures that unhoused children in Washington have equal access to free, high-quality public education .
+I believe that access to a fully funded and fully staffed public education system is the right of all students , regardless of income, background, or ZIP code .
+Every child deserves a chance to succeed and I will keep raising my voice in the Senate to make sure our public schools deliver that promise . cindy@cindyryu.com Powered by RUN! website builder Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app.

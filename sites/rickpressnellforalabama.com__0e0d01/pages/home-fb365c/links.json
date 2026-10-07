@@ -1,23 +1,110 @@
 [
-"https://campaignpartner.com/",
-"https://rickpressnellforalabama.com/",
-"https://rickpressnellforalabama.com/contact",
-"https://rickpressnellforalabama.com/contribute",
-"https://rickpressnellforalabama.com/contribute?amount=10",
-"https://rickpressnellforalabama.com/contribute?amount=100",
-"https://rickpressnellforalabama.com/contribute?amount=1000",
-"https://rickpressnellforalabama.com/contribute?amount=25",
-"https://rickpressnellforalabama.com/contribute?amount=250",
-"https://rickpressnellforalabama.com/contribute?amount=50",
-"https://rickpressnellforalabama.com/contribute?amount=500",
-"https://rickpressnellforalabama.com/events",
-"https://rickpressnellforalabama.com/home",
-"https://rickpressnellforalabama.com/issues",
-"https://rickpressnellforalabama.com/meet_rick",
-"https://rickpressnellforalabama.com/news",
-"https://rickpressnellforalabama.com/photos",
-"https://rickpressnellforalabama.com/view-endorsements",
-"https://rickpressnellforalabama.com/volunteer",
-"https://rickpressnellforalabama.com/vote",
-"https://rickpressnellforalabama.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.rickpressnellforalabama.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.rickpressnellforalabama.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.rickpressnellforalabama.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rickpressnellforalabama.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.rickpressnellforalabama.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.rickpressnellforalabama.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.rickpressnellforalabama.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.rickpressnellforalabama.com/volunteer"
+},
+{
+"text": "Meet Rick",
+"href": "https://www.rickpressnellforalabama.com/meet_rick"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.rickpressnellforalabama.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.rickpressnellforalabama.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.rickpressnellforalabama.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.rickpressnellforalabama.com/photos"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.rickpressnellforalabama.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.rickpressnellforalabama.com/contribute"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.rickpressnellforalabama.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rickpressnellforalabama.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.rickpressnellforalabama.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.rickpressnellforalabama.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.rickpressnellforalabama.com/"
+}
 ]

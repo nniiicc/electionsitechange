@@ -1,6 +1,5 @@
-The Seattle Times
-Apr 20, 2026
-As the bill’s prime sponsor, Rep.
+top of page About Gerry Issues Endorsements News Media More Use tab to navigate through the menu items.
+DONATE < Back Promise of tribal homeownership in WA remains unfulfilled The Seattle Times The Seattle Times Apr 20, 2026 As the bill’s prime sponsor, Rep.
 Gerry Pollet, noted, the commission’s legislative hearing testimony was “incredibly misleading,” framing the bill as a burden on tribes when it targeted investment banks.
 Twenty years.
 That’s how long Native American families across Washington paid rent on homes they were promised they would one day own.
@@ -11,8 +10,7 @@ The institution responsible for this failure is the Washington State Housing Fin
 And now, thanks to a text exchange that is a public record, we know exactly how commission leadership felt about a bipartisan bill that might have fixed it.
 “Awful bill.” That is how, in text messages exchanged by commission leaders in January 2026, commission Executive Director Steve Walker described House Bill 2527 — reform legislation designed to hold private investors accountable for fulfilling homeownership promises made to Native families.
 Consultant Nick Federici was equally dismissive.
-“It’s idiotic,” he replied to Walker, who also called HB 2527 “lame.”
-These were not offhand frustrations vented in isolation.
+“It’s idiotic,” he replied to Walker, who also called HB 2527 “lame.” These were not offhand frustrations vented in isolation.
 They were part of a coordinated campaign to kill Native homeownership legislation before it could gain traction.The mechanics of the state’s broken system are straightforward, and the betrayal embedded in that system runs deep.
 Under federal law created pursuant to the 1986 Tax Reform Act, states administering the Low Income Housing Tax Credit program must prioritize projects with an “eventual tenant ownership” component — meaning that after 15 years of renting, tenants gain the right to home conveyance.
 In Washington, this provision has operated almost entirely in Indian country.
@@ -42,5 +40,7 @@ Commission leaders must now be required to answer — publicly — for the condu
 And the Legislature must return in 2027 with a strengthened accountability bill, which cannot be covertly killed by agency leaders who have no intention of honoring this state’s promises to Native families.
 Editor’s note: This story has been updated to reflect Nick Federici’s title.
 Gabriel S.
-Galanda: is an Indigenous rights lawyer in Seattle.
+Galanda : is an Indigenous rights lawyer in Seattle.
 He belongs to the Round Valley Indian Tribes.
+Previous Next Join Our Email List Submit Thanks for submitting!
+7750 17th Ave NE Seattle, WA 98115 info@gerrypollet.com Paid for by Gerry Pollet for State Representative bottom of page

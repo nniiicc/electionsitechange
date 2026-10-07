@@ -1,5 +1,26 @@
 [
-"https://harmonforillinois.com/",
-"https://harmonforillinois.com/privacy-policy",
-"https://harmonforillinois.com/sample-page"
+{
+"text": "Home",
+"href": "https://harmonforillinois.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://harmonforillinois.com/privacy-policy/"
+},
+{
+"text": "Sample Page",
+"href": "https://harmonforillinois.com/sample-page/"
+},
+{
+"text": "Senator Don Harmon",
+"href": "https://harmonforillinois.com/"
+},
+{
+"text": "[image: Senator Don Harmon]",
+"href": "https://harmonforillinois.com/"
+},
+{
+"text": "[image]",
+"href": "https://harmonforillinois.com"
+}
 ]

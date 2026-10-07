@@ -1,5 +1,1 @@
-Skip to main content
-Press Kit
-Download complete kit
-Media inquiries:
-info@lisa4ny.org
+Skip to main content Press Kit Download complete kit Media inquiries: info@lisa4ny.org Donate Give online Send a check $ 10 $ 25 $ 50 $ 100 $ 250 Custom Press Kit Privacy Policy Paid for by Friends of Lisa Kaul 4 NYS

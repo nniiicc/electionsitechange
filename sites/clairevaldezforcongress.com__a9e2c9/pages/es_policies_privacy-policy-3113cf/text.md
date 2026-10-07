@@ -1,4 +1,4 @@
-Privacy Policy
-We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Privacy Policy We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
 Information may be shared with subcontractors in support services, such as customer service.
 All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+Donar Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

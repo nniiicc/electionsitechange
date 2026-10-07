@@ -1,16 +1,70 @@
 [
-"https://facebook.com/Hon.john.a.torbett",
-"https://facebook.com/rep.john.a.torbett",
-"https://johntorbett.com/",
-"https://johntorbett.com/CONTACT",
-"https://johntorbett.com/CONTRIBUTE",
-"https://johntorbett.com/bio",
-"https://johntorbett.com/contact",
-"https://johntorbett.com/contribute",
-"https://johntorbett.com/issues",
-"https://johntorbett.com/letters-of-support",
-"https://johntorbett.com/links",
-"https://johntorbett.com/wp/contact",
-"https://twitter.com/JohnTorbett",
-"https://twitter.com/johntorbett"
+{
+"text": "BIO",
+"href": "https://johntorbett.com/bio/"
+},
+{
+"text": "CONTACT",
+"href": "https://johntorbett.com/CONTACT"
+},
+{
+"text": "CONTACT",
+"href": "https://johntorbett.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://johntorbett.com/CONTRIBUTE"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://johntorbett.com/contribute/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Hon.john.a.torbett"
+},
+{
+"text": "Home",
+"href": "https://johntorbett.com/"
+},
+{
+"text": "Issues",
+"href": "https://johntorbett.com/issues/"
+},
+{
+"text": "LETTERS OF SUPPORT",
+"href": "https://johntorbett.com/letters-of-support/"
+},
+{
+"text": "LINKS",
+"href": "https://johntorbett.com/links/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/johntorbett"
+},
+{
+"text": "[image: Logo]",
+"href": "https://johntorbett.com"
+},
+{
+"text": "[image]",
+"href": "https://johntorbett.com/CONTACT"
+},
+{
+"text": "[image]",
+"href": "https://johntorbett.com/CONTRIBUTE"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/JohnTorbett"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/rep.john.a.torbett%20"
+},
+{
+"text": "click here to contact me",
+"href": "https://johntorbett.com/wp/contact/"
+}
 ]

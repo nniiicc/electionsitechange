@@ -1,30 +1,18 @@
-PLATFORM
-"I was taught the value of public service and hard work.
+top of page MARY WELANDER MEET MARY ACCOMPLISHMENTS PLATFORM GET INVOLVED DONATE YARD SIGNS VOTE REGISTER TO VOTE More Use tab to navigate through the menu items.
+Camera Camera Camera PLATFORM "I was taught the value of public service and hard work.
 I believe in a commitment to families and the ability for people to create a better life for themselves.
-I believe that our strengths lie in our differences and our future will be brighter if we embrace new ideas while respecting our history."
-PRIORITIES
-- REBUILD OUR ECONOMY by supporting workers and local businesses to get everyone safely back to work
-- SUPPORT safe and quality public education
-- PROTECT residents and workers in our nursing homes/assisted living centers, and maintain our seniors' security
-- ENSURE everyone has access to affordable, quality health care and lower prescription drug prices
-- STRENGTHEN commitment to green energy sources and protecting our environment
-ISSUES
-COMMITTED TO FAMILIES/EDUCATION
-Mary believes every child should have access to a quality education that prepares them to be a competitive force in a changing economy.
+I believe that our strengths lie in our differences and our future will be brighter if we embrace new ideas while respecting our history." PRIORITIES REBUILD OUR ECONOMY by supporting workers and local businesses to get everyone safely back to work ​ SUPPORT safe and quality public education ​ PROTECT residents and workers in our nursing homes/assisted living centers, and maintain our seniors' security ​ ENSURE everyone has access to affordable, quality health care and lower prescription drug prices ​ STRENGTHEN commitment to green energy sources and protecting our environment ISSUES COMMITTED TO FAMILIES/EDUCATION ​ Mary believes every child should have access to a quality education that p repares them to be a competitive force in a changing economy.
 "I firmly believe that our schools are the backbone of our communities.
 The key to strengthening our state both economically and socially is to ensure that our schools are responsibly funded, safe, welcoming environments where we teach our children the skills necessary to become successful adults.
-Providing this foundation, whether through public education or vocational schools, will ensure that our district and our state move forward with positive growth, instead of stagnating or falling behind."
-COMMITTED TO JOBS & OPPORTUNITIES
-Mary is determined to build up the economic base of our towns and provide opportunities for residents not just recover from the pandemic, but the chance to get ahead.
-"I am committed to fight for our district to make sure that we don’t leave any opportunity for potential growth that would strengthen our economic base unexplored.
-We have some incredible spots in this district that have the potential to bring a stronger tax base, job opportunities both during and after the construction phase, as well as a return to more vibrant, community-based businesses and downtowns."
-COMMITTED TO OUR FUTURE
-Mary will fight for fair workplaces, safe schools, open spaces, and the innovation that will move our state forward.
-"As the daughter of an educator and small business owner, and the sister of three combat veterans, I learned the value of hard work and the importance of public service first hand.
-I am incredibly proud of my brothers; their service and sacrifice has had a huge impact on my life and my perspective of patriotism and love of country.
+Providing this foundation, whether through public education or vocational schools, will ensure that our district and our state move forward with positive growth, instead of stagnating or falling behind." COMMITTED TO JOBS & OPPORTUNITIES ​ Mary is determined to build up the economic base of our towns and provide opportunities for residents not just recover from the pandemic, but the chance to get ahead. ​ "I am committed to fight for our district to make sure that we don’t leave any opportunity for potential growth that would strengthen our economic base unexplored.
+We have some incredible spots in this district that have the potential to bring a stronger tax base, job opportunities both during and after the construction phase, as well as a return to more vibrant, community-based businesses and downtowns." COMMITTED TO OUR FUTURE ​ Mary will fight for fair workplaces, safe schools, open spaces, and the innovation that will move our state forward. ​ "As the daughter of an educator and small business owner, and the sister of three combat veterans, I learned the value of hard work and the importance of public service first hand.
+I am incredibly proud of my brothers; their service and s acrifice has had a huge impact on my life and my perspective of patriotism and love of country.
 "I also serve as the Connecticut Promise Leader Ambassador for the Sandy Hook Promise Organization.
 Through Sandy Hook Promise, I work with volunteers across the state to implement gun violence prevention programs in our schools and local organizations.
 Connecticut’s gun violence prevention laws are held up a model to follow throughout the country.
 I will fight to protect and strengthen these laws in Connecticut to keep our schools and communities safe.
 "Growing up in a farming community, I recognize the dignity and value of hard work and the responsibility we have to respect our land and the environment at large.
-We can honor and protect the history of our area while still looking forward to the innovative ways we can become leaders again."
+We can honor and protect the history of our area while still looking forward to the innovative ways we can become leaders again." ​ Mary recognizes the ‘comeback’ potential of our state and knows that in order to reach that potential we need to stop playing the blame game and instead look forward with fresh perspectives based on how we can make our families and towns stronger now and for the future.
+HOME MEET MARY ACCOMPLISHMENTS PLATFORM GET INVOLVED YARD SIGNS VOTE REGISTER TO VOTE More Use tab to navigate through the menu items.
+PAID FOR BY WELANDER FOR CT, JENNIFER MARTONE, TREASURER.
+APPROVED BY MARY WELANDER. mary@welanderforct.com (203) 881-6207 JOIN THE CONVERSATION: Camera Camera Camera Privacy Policy | Accessibility Statement ©# Welander for CT bottom of page

@@ -1,2 +1,2 @@
-Newsletter Archive Trump Joseph Rubay 7/16/24 Trump Joseph Rubay 7/16/24 Attempted Assassination of President Trump As a father, husband, and candidate for California Assembly, these are my thoughts on the assassination attempt on President Trump.
-Read More
+0 Skip to Content About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Open Menu Close Menu About Issues Volunteer District Contact DONATE Newsletter Archive Trump Joseph Rubay 7/16/24 Trump Joseph Rubay 7/16/24 Attempted Assassination of President Trump As a father, husband, and candidate for California Assembly, these are my thoughts on the assassination attempt on President Trump.
+Read More Contact Paid for by Friends of Joe Rubay for Assembly 2026, FPPC #1456763

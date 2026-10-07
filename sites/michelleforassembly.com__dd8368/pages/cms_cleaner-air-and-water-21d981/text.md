@@ -1,9 +1,6 @@
-Cleaner Air and Water
-Michelle is dedicated to improving the quality of the environment in the Inland Empire because she wants her grandchildren, and all kids, to have long and healthy lives.
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Cleaner Air and Water Michelle is dedicated to improving the quality of the environment in the Inland Empire because she wants her grandchildren, and all kids, to have long and healthy lives.
 Climate change presents a catastrophic threat to the future and Michelle is ready to fight to protect our water and air while reducing our carbon footprint.
 The Inland Empire is a booming logistics hub and this has an immense impact on the health of everyone, especially our youth and children.
-Once elected Michelle will:
-- work with the local businesses to ensure they are following all South Coast Air Quality Management District rules and regulations.
-- incentivize businesses to use green, renewable and clean energy.
-- ensure local school districts have access to clean and safe water.
-- continue the fight to decrease air pollution by investing in public transit options.
+Once elected Michelle will: work with the local businesses to ensure they are following all South Coast Air Quality Management District rules and regulations. incentivize businesses to use green, renewable and clean energy. ensure local school districts have access to clean and safe water. continue the fight to decrease air pollution by investing in public transit options.
+Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

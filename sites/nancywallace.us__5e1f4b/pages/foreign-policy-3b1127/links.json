@@ -1,21 +1,90 @@
 [
-"http://aiso.net/",
-"http://nancywallace.us/",
-"http://nancywallace.us/about/community-peacestopping-police-violence",
-"http://nancywallace.us/climate-change",
-"http://nancywallace.us/community%e2%80%90based-economics-and-economic-justice",
-"http://nancywallace.us/contact",
-"http://nancywallace.us/donate",
-"http://nancywallace.us/endorsements",
-"http://nancywallace.us/federal-tax-reform",
-"http://nancywallace.us/foreign-policy",
-"http://nancywallace.us/foreign-policy/green-party",
-"http://nancywallace.us/health-care-for-all",
-"http://nancywallace.us/immigration-reform",
-"http://nancywallace.us/issues",
-"http://nancywallace.us/list",
-"http://nancywallace.us/meet-nancy",
-"http://nancywallace.us/privacy",
-"http://nancywallace.us/vote-for-nancy",
-"http://nancywallace.us/women-and-girls-survival"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Climate Change",
+"href": "http://www.nancywallace.us/climate-change/"
+},
+{
+"text": "Community Based Economics and Economic Justice",
+"href": "http://www.nancywallace.us/community%e2%80%90based-economics-and-economic-justice/"
+},
+{
+"text": "Community Peace/Stopping Police Violence",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Contact",
+"href": "http://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "http://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Federal Tax Reform",
+"href": "http://www.nancywallace.us/federal-tax-reform"
+},
+{
+"text": "Foreign Policy",
+"href": "http://www.nancywallace.us/foreign-policy"
+},
+{
+"text": "Green Party",
+"href": "http://www.nancywallace.us/foreign-policy/green-party"
+},
+{
+"text": "Health Care for All",
+"href": "http://www.nancywallace.us/health-care-for-all/"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Immigration Reform",
+"href": "http://www.nancywallace.us/immigration-reform"
+},
+{
+"text": "Issues",
+"href": "http://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "http://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Meet Nancy",
+"href": "http://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Police",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Privacy",
+"href": "http://www.nancywallace.us/privacy"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "Women and Girls’ Survival",
+"href": "http://www.nancywallace.us/women-and-girls-survival/"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

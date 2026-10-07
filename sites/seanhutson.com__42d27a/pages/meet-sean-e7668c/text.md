@@ -1,5 +1,4 @@
-MEET SEAN HUTSON
-Sean Hutson believes effective government should be practical, efficient, and focused on helping people succeed.
+0 Skip to Content Meet Sean The Issues Contact MAKE A DONATION Open Menu Close Menu Meet Sean The Issues Contact MAKE A DONATION Open Menu Close Menu Meet Sean The Issues Contact MAKE A DONATION MEET SEAN HUTSON Sean Hutson believes effective government should be practical, efficient, and focused on helping people succeed.
 Sean grew up in Medina County and graduated from Cloverleaf High School in 2005.
 He and his wife, Laura, now live in Wadsworth, where they are proud to call home.
 Sean is a part-time Assistant Prosecuting Attorney for Medina County and an attorney at Harrison and Hutson, where he focuses on real estate, business law, and estate planning.
@@ -12,3 +11,4 @@ He has also taught courses in political economy and American politics at his alm
 Sean earned his bachelor’s degree from Heidelberg College, a master’s degree in political science from Ohio University, and his law degree from the University of Richmond School of Law.
 He currently serves on the boards of The Giving Place and Habitat for Humanity of Medina County.
 Outside of work, Sean enjoys hunting, fishing, traveling, and spending time outdoors with his dogs, Belle and Sassy.
+Contact Our Campaign Paid for by Hutson for Ohio

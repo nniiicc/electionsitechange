@@ -1,7 +1,4 @@
-Priorities
-Fully Fund Our
-Public Schools
-As a proud product of Mecklenburg County's public education system, I know firsthand how crucial it is to make sure our students have access to a quality public education.
+top of page Home About Priorities Endorsements Get Involved DONATE Priorities Fully Fund Our Public Schools As a proud product of Mecklenburg County's public education system, I know firsthand how crucial it is to make sure our students have access to a quality public education.
 Unfortunately, North Carolina legislators have betrayed our public schools by slashing funding and instead, promoting unregulated private school vouchers that leave public schools and rural communities behind.
 Our teachers are overworked, underpaid, and aren’t getting adequate support.
 Regardless of zip code, our children deserve a public education system that allows them to succeed and build a future for themselves.
@@ -18,11 +15,7 @@ As a proud product of Mecklenburg County's public education system, I know first
 Unfortunately, North Carolina legislators have betrayed our public schools by slashing funding and instead, promoting unregulated private school vouchers that leave public schools and rural communities behind.
 Our teachers are overworked, underpaid, and aren’t getting adequate support.
 Regardless of zip code, our children deserve a public education system that allows them to succeed and build a future for themselves.
-Lower the
-Cost of Living
-Strengthen
-Public Safety
-Public safety has always been a top priority for me.
+Lower the Cost of Living Strengthen Public Safety Public safety has always been a top priority for me.
 I’m proud of the work we’ve done on the Matthews Town Council to support our first responders.
 I have strongly supported the new first responder training facility being built at CPCC’s Levine Campus, which will help prepare the next generation of police officers, firefighters, and emergency personnel.
 I have also supported the construction of Matthews Fire Station 3 to strengthen emergency response and keep pace with the needs of our growing community.
@@ -33,3 +26,4 @@ When someone calls or walks into the office, they deserve the respect of being h
 Serving constituents is not an extra part of the job, it is THE job.
 Leadership means being out in the community on a regular basis, listening and engaging directly with people.
 It means staying connected to their day to day realities, making sure their concerns are reflected in the decisions we make, and standing in front of the people you serve, even when you make a decision they disagree with, and being willing to answer for it.
+Hold Our Leaders Accountable Paid for by McCool for NC bottom of page

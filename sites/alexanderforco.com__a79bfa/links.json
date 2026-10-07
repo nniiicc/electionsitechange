@@ -1,9 +1,30 @@
 [
-"https://alexanderforco.com/",
-"https://facebook.com/108459505550281",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/alexander-for-colorado/donate",
-"https://tiktok.com/@alexanderforco"
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/alexander-for-colorado/donate"
+},
+{
+"text": "Matt Alexander forHouse District 60Matt Alexander for House District 60Matt Alexander for House District 60Matt Alexander for House District 60",
+"href": "https://alexanderforco.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/108459505550281"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@alexanderforco"
+}
 ]

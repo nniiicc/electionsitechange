@@ -1,8 +1,30 @@
 [
-"https://facebook.com/ElectRickBrattin",
-"https://rickbrattin.com/",
-"https://rickbrattin.com/issues",
-"https://rickbrattin.com/meet-rick",
-"https://secure.winred.com/rick-brattin-for-congress-822a75d3/donate-today",
-"https://x.com/RickBrattin"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rick-brattin-for-congress-822a75d3/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ElectRickBrattin"
+},
+{
+"text": "Follow",
+"href": "https://x.com/RickBrattin"
+},
+{
+"text": "Home",
+"href": "https://rickbrattin.com/"
+},
+{
+"text": "Issues",
+"href": "https://rickbrattin.com/issues/"
+},
+{
+"text": "Meet Rick",
+"href": "https://rickbrattin.com/meet-rick/"
+},
+{
+"text": "[image]",
+"href": "https://rickbrattin.com"
+}
 ]

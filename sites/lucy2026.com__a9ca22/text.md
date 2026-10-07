@@ -1,6 +1,11 @@
-Democratic values we can trust.
-Meet Lucy Dathan
-Lucy Dathan has proudly served the residents of New Canaan and Norwalk since 2019 as the State Representative for the 142nd District — making history by winning a seat that had never before been held by a Democrat.
+top of page Donate First name Last name Email Phone I want to help deliver a win by volunteering!
+I wish for the campaign to keep in touch by SMS/MMS messaging By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from the campaign.
+Message frequency varies.
+Message & data rates may apply.
+Text HELP for support or email lucyforct142@gmail.com .
+Reply STOP to opt out.
+Submit Democratic values we can trust.
+Meet Lucy Dathan Lucy Dathan has proudly served the residents of New Canaan and Norwalk since 2019 as the State Representative for the 142nd District — making history by winning a seat that had never before been held by a Democrat.
 In the legislature, Lucy brings her financial expertise and problem-solving mindset to bear on the issues that matter most to her constituents.
 She currently serves as House Chair of the Government Oversight Committee and sits on the Appropriations and Human Services Committees.
 She also co-chairs a Medicaid Oversight Committee and serves on the Finance Advisory Committee, a select body of executive branch officials and legislators overseeing the state budget.
@@ -15,30 +20,7 @@ She continues to work part-time as a contract CFO for technology companies — b
 Born and raised in St.
 Louis, Missouri, Lucy earned her degree in Accounting and Business from Santa Clara University in California.
 Her academic foundation in finance set the stage for a professional career spanning nearly 30 years across the public and private sectors.
-Defending Democratic Values
-Healthcare
-- Established Medicaid increases for providers and increased funding for Federally Qualified Health Centers
-- Increased funding for group and nursing homes
-- Provided cost of living increases to community nonprofit providers
-- Continued services to support children’s mental health – including funding our Urgent Crisis Centers
-Affordability
-- Implemented programs to lower the costs of prescription drugs
-- Launched tax credit for employers who match college savings by employees
-- Established first-time home buyers tax-free savings accounts
-- Ensured fair rent commissions to curb egregious rent hikes
-Seniors
-- Mandated insurance coverage of biomarker testing for early cancer detection
-- Strengthened background checks at long-term care facilities
-- Provided free online college courses to nursing home residents
-- Required greater consideration of proximity to family members in resident transfers
-Environment
-- Regulated the use of rodenticides
-- Banned fertilizers that contain PFAS
-- Established an extended producer responsibility program around the collection and recycling of batteries
-- Set new state climate goals for greenhouse gas reduction
-- Supported clean energy jobs through tax incentives
-Education
-- Founded the Special Education Expansion and Development (SEED) grant program ($30M)
-- Increased grant for high-needs students ($221M)
-- Established a new competitive grant for local services ($10M)
-- Increased capital improvements grants for districts ($20M)
+Defending Democratic Values Healthcare Established Medicaid increases for providers and increased funding for Federally Qualified Health Centers Increased funding for group and nursing homes Provided cost of living increases to community nonprofit providers Continued services to support children’s mental health – including funding our Urgent Crisis Centers Affordability Implemented programs to lower the costs of prescription drugs Launched tax credit for employers who match college savings by employees Established first-time home buyers tax-free savings accounts Ensured fair rent commissions to curb egregious rent hikes Seniors Mandated insurance coverage of biomarker testing for early cancer detection Strengthened background checks at long-term care facilities Provided free online college courses to nursing home residents Required greater consideration of proximity to family members in resident transfers Environment Regulated the use of rodenticides Banned fertilizers that contain PFAS Established an extended producer responsibility program around the collection and recycling of batteries Set new state climate goals for greenhouse gas reduction Supported clean energy jobs through tax incentives Education Founded the Special Education Expansion and Development (SEED) grant program (#M) Increased grant for high-needs students (#M) Established a new competitive grant for local services (#M) Increased capital improvements grants for districts (#M) Democrat Lucy Dathan represents New Canaan and Norwalk in the Connecticut General Assembly.
+Paid for by Lucy 2026.
+Approved by Lucy Dathan.
+Home bottom of page

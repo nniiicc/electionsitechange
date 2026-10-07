@@ -1,17 +1,78 @@
 [
-"https://facebook.com/fordforcongress",
-"https://fordforcongress.com/",
-"https://fordforcongress.com/about",
-"https://fordforcongress.com/contact-our-campaign",
-"https://fordforcongress.com/endorsements",
-"https://fordforcongress.com/ford-for-congress-la-shawn-k-ford-campaign-news",
-"https://fordforcongress.com/platform",
-"https://fordforcongress.com/privacy-policy-2",
-"https://fordforcongress.com/volunteer",
-"https://fordforcongress.com/wp-content/uploads/2026/03/NAder.jpg",
-"https://fordforcongress.com/wp-content/uploads/2026/07/655708758_1241692021444786_5090225264235129969_n.jpg",
-"https://instagram.com/fordforthe7th",
-"https://secure.actblue.com/donate/la-shawn-ford-2",
-"https://x.com/ford4congress",
-"https://youtube.com/@LaShawnK.FordForCongress"
+{
+"text": "A PROVEN RECORD",
+"href": "https://fordforcongress.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://fordforcongress.com/contact-our-campaign/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/la-shawn-ford-2"
+},
+{
+"text": "Endorsements",
+"href": "https://fordforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/fordforcongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fordforthe7th"
+},
+{
+"text": "Issues",
+"href": "https://fordforcongress.com/platform/"
+},
+{
+"text": "Platform",
+"href": "https://fordforcongress.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fordforcongress.com/privacy-policy-2/"
+},
+{
+"text": "The Newsroom",
+"href": "https://fordforcongress.com/ford-for-congress-la-shawn-k-ford-campaign-news/"
+},
+{
+"text": "Volunteer",
+"href": "https://fordforcongress.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/ford4congress"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@LaShawnK.FordForCongress"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com/wp-content/uploads/2026/03/NAder.jpg"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com/wp-content/uploads/2026/07/655708758_1241692021444786_5090225264235129969_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com/wp-content/uploads/2026/10/HRC.jpg"
+},
+{
+"text": "issues",
+"href": "https://fordforcongress.com/#issues"
+}
 ]

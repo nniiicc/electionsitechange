@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.upballot.com/Wick-Thomas/news/vote-tomorrow",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "ef1e6c42a1aec98441278f82fb28b26c89b77ccc",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Vote Tomorrow!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

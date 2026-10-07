@@ -1,6 +1,4 @@
-Describing the Autistic Experience
-Video Links: [TikTok] [YouTube]
-Autism.
+☰ MENU Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Describing the Autistic Experience Video Links: [ TikTok ] [ YouTube ] Autism.
 Think of it as the human brain’s version of a beta test for the latest smartphone.
 You know, where some features work great, others not so much, and the user manual reads like it was written by a koala on a weeks-long eucalyptus bender.
 It's a topic that everyone who's "normal" pretends to understand like they're auditioning for the role of "most empathetic person EVER", or like trying to explain WHY your cat suddenly wants to "sing you the song of his people" at 3 a.m.
@@ -13,8 +11,7 @@ And here's the groin kick that most NTs don't understand; it's a spectrum.
 Not like the light spectrum or the spectrum of my mood swings - but more like a high-definition, ultra-colorful array of the human experience that’s as varied as the cast of “The Jersey Shore.” It's the "everyone has their own unique version of this thing, and if you ever meet two autistic people, they could be as different from each other as a koala is from a cactus." This is what makes us "neuro-diverse".
 So, let's try to put that into a context that NTs understand.
 Suppose the human brain came with a setting that can be adjusted, like the brightness on a TV.
-For many people, that setting is the "Standard Definition" while for some others, it's "Ultra High Definition with Dolby Surround." For autistic people, it's more like "This Brain Has Its Own Wi-Fi Network with a Special Router That Doesn’t Always Play Nice with the Neighbors.”
-So, what does all of this mean in practice?
+For many people, that setting is the "Standard Definition" while for some others, it's "Ultra High Definition with Dolby Surround." For autistic people, it's more like "This Brain Has Its Own Wi-Fi Network with a Special Router That Doesn’t Always Play Nice with the Neighbors.” So, what does all of this mean in practice?
 Well, it means I might have a brilliant mind with an encyclopedic knowledge of obscure facts, but if you ask me to make small talk at a party, I might look at you like you just asked me to explain quantum physics using interpretive dance.
 I could go into details, but that would be boring for most people, so suffice to say that a simple “how’s it going?” might be dissected with the precision of a brain surgeon, and to an autistic person, social interactions can feel like a game of Twister where the rules are being made up as we go along and everyone else is already playing by their own secret playbook.
 Sensory sensitivity is another thing.
@@ -25,12 +22,6 @@ But here’s the kicker: what’s often missed is that this so-called “differe
 Some folks on the spectrum have skills that make the rest of us look like we’re operating on dial-up internet.
 Some of us can zoom in on a detail so miniscule that it would make a forensic scientist look nuts.
 It’s like having an app that nobody knew they needed until it’s there, and it’s blowing everyone’s minds.
-So please stop treating autism like it’s some kind of cosmic joke that you’re not in on.
-Instead, let’s recognize it as just another flavor of the human experience, like chocolate chip cookies versus oatmeal raisin — both have their merits, and one’s not better than the other, just different.
 And remember, folks, sometimes it’s the quirks and the unique features that make life interesting.
 So, here’s to embracing the beta test, tweaking the settings, and maybe, just maybe, enjoying the ride a little more.
-Other Articles in This Series:
-- The Aliens Living Among Us [Article Link]
-- Personal Stories, Part 1 [Article Link]
-- Personal Stories, Part 2 [Article Link]
-- Why Did I Do This? [Article Link]
+Other Articles in This Series: The Aliens Living Among Us [ Article Link ] Personal Stories, Part 1 [ Article Link ] Personal Stories, Part 2 [ Article Link ] Why Did I Do This? [ Article Link ] Voter Information Endorsements Events Contact Privacy Policy Committee to Elect Darren Hamilton Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Close Menu

@@ -1,4 +1,4 @@
-Over the last decade, Maryland’s political establishment repeatedly expanded corporate gambling in our state, promising the tax proceeds would swell funding for public education.
+Skip to content Renaud Brown for Delegate 2026 Running on Education, Housing, Transit and At-will repeal Home Veterans Blog Taxes Immigration Workers Restoration Medicare for All Housing Maryland Green New Deal Transportation: From Oakland to Ocean City Environment District Priorities Back Maryland Green New Deal Over the last decade, Maryland’s political establishment repeatedly expanded corporate gambling in our state, promising the tax proceeds would swell funding for public education.
 In fact, the reverse happened, and the new tax revenue was used to offset steep cuts to K-12 education from the general fund budget.
 A similar proposal was floated recently regarding taxing the fossil fuel industry, which could create a perverse incentive to maintain or even expand an industry wreaking havoc on our climate at a time when we must place a definitive sunset date on using dangerous energy sources altogether.
 While market-based proposals like a carbon tax or cap-and-trade might be an intermediate step in Maryland’s green transition, these policies have been shown to be insufficient to the scale of the crisis we face; now is not a time for professional environmental incrementalism.
@@ -26,100 +26,37 @@ True bottom-up climate resilience mobilizes everyone, from transitioning carbon 
 The MDGND would implement 100% renewable energy by 2032, awaken our democracy by reducing the influence of climate deniers and destroyers, move Maryland’s war economy toward a green economy, and ensure a just transition to a green future for people of color, working class people, and other marginalized communities.
 We need to fund equity in Maryland— including in public education pre-K through graduate school — by holding climate deniers and destroyers accountable for the damage they have done, not simply by taxing their unabated growth.
 In short, we need a Maryland Green New Deal, not another casino bait and switch.
-We invite Marylanders across the state to the table to plan our green future together, guided by the four principles outlined above, and in ways that best meet the needs of your local communities.
-— OWEN SILVERMAN ANDREWS
-The writer is co-chair of the Baltimore City Green Party.
-A Green New Deal for MD: The New Path Forward
-Framework Plank 1 of 4: Grassroots Democracy
-Without a healthier electoral system, all subsequent planks for the MDGND face much longer odds.
+We invite Marylanders across the state to the table to plan our green future together, guided by the four principles outlined above, and in ways that best meet the needs of your local communities. — OWEN SILVERMAN ANDREWS The writer is co-chair of the Baltimore City Green Party.
+A Green New Deal for MD: The New Path Forward Framework Plank 1 of 4: Grassroots Democracy Without a healthier electoral system, all subsequent planks for the MDGND face much longer odds.
 The poverty of our politics impedes using the U.S.’s great wealth to fund an equitable green transition.
 We need to establish a truer democracy.
-2020 Vision for Grassroots Democracy
-- Add a warning label to all campaign materials funded by the fossil fuel industry and other major climate-destroyer industries.
-- Fund equitable public financing for state elections.
-- Curtail and end pay-to-play politics.
-2030 Vision for Grassroots Democracy
-- A thriving multi-party democracy where working class folks have a true voice.
-Framework Plank 2 of 4: Social and Racial Justice
-The failure of many suburban middle-class White environmentalists to center social, racial, class, gender, and other intersections of justice in their work has set the climate justice movement back decades.
+2020 Vision for Grassroots Democracy Add a warning label to all campaign materials funded by the fossil fuel industry and other major climate-destroyer industries.
+Fund equitable public financing for state elections.
+Curtail and end pay-to-play politics.
+2030 Vision for Grassroots Democracy A thriving multi-party democracy where working class folks have a true voice.
+Framework Plank 2 of 4: Social and Racial Justice The failure of many suburban middle-class White environmentalists to center social, racial, class, gender, and other intersections of justice in their work has set the climate justice movement back decades.
 Climate justice demands reparations.
-2020 Vision for Social and Racial Justice
-- Initiate Maryland Environmental Neighborhood Defense Corps to remediate all lead paint in Baltimore’s Black Butterfly and brownfield sites across Maryland.
-- Build bottom-up climate resiliency.
-- Reparations.
-2030 Vision for Social and Racial Justice
-- Empowerment of marginalized communities and a democratic economy.
-Framework Plank 3 of 4: Nonviolence
-Climate apartheid and injustice is a major root cause of violence in Baltimore and across the state.
+2020 Vision for Social and Racial Justice Initiate Maryland Environmental Neighborhood Defense Corps to remediate all lead paint in Baltimore’s Black Butterfly and brownfield sites across Maryland.
+Build bottom-up climate resiliency.
+Reparations.
+2030 Vision for Social and Racial Justice Empowerment of marginalized communities and a democratic economy.
+Framework Plank 3 of 4: Nonviolence Climate apartheid and injustice is a major root cause of violence in Baltimore and across the state.
 Climate justice demands demilitarization and investment in community-controlled public safety.
-2020 Vision for Nonviolence
-- Enact strict controls per and poly fluoroalkyl contamination.
-- Divert funding from enforcement and incarceration to mediation and peace building.
-- End tax breaks for corporate arms dealers.
-2030 Vision for Nonviolence
-- Grassroots peacekeeping from individuals up and across Maryland’s society.
-Framework Plank 4 of 4: Ecological Wisdom
-The planet’s resources are finite.
+2020 Vision for Nonviolence Enact strict controls per and poly fluoroalkyl contamination.
+Divert funding from enforcement and incarceration to mediation and peace building.
+End tax breaks for corporate arms dealers.
+2030 Vision for Nonviolence Grassroots peacekeeping from individuals up and across Maryland’s society.
+Framework Plank 4 of 4: Ecological Wisdom The planet’s resources are finite.
 We must increase community wealth through greater equity, not unsustainable growth.
-2020 Vision
-- Mandate 100% truly renewable energy.
-- Set a moratorium on all new fossil fuel infrastructure.
-- Begin the just transition to a green future now by the means necessary.
-2030 Vision
-- An economy powered not by not endless growth, but by boundless equity.
-How We Get There: Understanding Electoral Change
-The path to a livable green future leads through structural changes to our politics.
+2020 Vision Mandate 100% truly renewable energy.
+Set a moratorium on all new fossil fuel infrastructure.
+Begin the just transition to a green future now by the means necessary.
+2030 Vision An economy powered not by not endless growth, but by boundless equity.
+How We Get There: Understanding Electoral Change The path to a livable green future leads through structural changes to our politics.
 Structural change in U.S. history has almost always come through building power outside the two elite-dominated parties.
 It’s on us to move forward with that project in the ‘20s.
-Additions contributed by Margaret Flowers:
-Democracy
-Lower barriers for third parties to get on the ballot
-Ballot qualified parties included in the primary
-Establish a participatory democratic structure for communities to decide how to allocate funds provided by the state and generated through publicly-owned entities
-Energy
-Specify what clean energy is and isn’t – doesn’t include fossil fuels, nuclear or incineration
-Public ownership of energy,
-Decentralized production and feed-in tariffs so energy producers offset the costs of energy use and earn money for excess energy fed into the system (prioritizing poor and low income for this)
-Transportation
-Expansion of electric-powered public transportation without fares (Kansas City just moved to ending fares)
-Publicly-owned fleet of electric vehicles for public use (some sort of consumer coop)
-Expansion of bike lanes and pedestrian areas without cars (like many major cities in Europe)
-Development that is pedestrian-friendly
-Ban on all new fossil fuel infrastructure
-Carbon sequestration
-Public works program to do wetland restoration and buffering of rising waters
-Incentives for regenerative agriculture
-Mandate green roofs (or solar/wind roofs for all new construction)
-Protection of forests and expansion of green spaces
-Jobs/just transition
-All workers displaced by the Green New Deal will be provided with income and job retraining
-A living wage and pensions for all workers
-Job training for all who want it to be hired into Green New Deal businesses/projects
-Public investment in converting existing manufacturing to be carbon neutral
-Development of green industry in Maryland (producing electric rail, windmills, etc)
-Universal and affordable childcare
-Housing
-Construction of social housing in Baltimore that is Leed certified
-Incentives for green housing materials for homeowners/landlords who repair/upgrade their properties
-Food
-Bans on pesticides, herbicides and GMOs
-Investment in urban food production
-Statewide network to facilitate distribution of locally-produced food
-Facilities such as canneries to preserve food that is not sold
-Expansion of farmers markets (especially in food deserts)
-Education
-Restructuring of the education system at all levels to include instruction in sustainable systems and practices
-Investment in research to mitigate or adapt to the climate crisis
-Local schools that are walkable/bikable for students
-Environment
-Move to zero waste
-Clean up of toxic sites and moratorium on creating new ones
-Ban production of chemical and biological weapons in Maryland
-Water
-Public-ownership of water provided to all at a reasonable cost
-Ban on water shutoffs
-Public works programs to clean up waterways including the Bay
-Economic justice/Reparations
-Creation of public banks to finance the above
-Apply a racial equity lens to all new projects and programs
-Prioritization of education, hiring, and siting of new projects in poor and low-income communities
+Additions contributed by Margaret Flowers: Democracy Lower barriers for third parties to get on the ballot Ballot qualified parties included in the primary Establish a participatory democratic structure for communities to decide how to allocate funds provided by the state and generated through publicly-owned entities Energy Specify what clean energy is and isn’t – doesn’t include fossil fuels, nuclear or incineration Public ownership of energy, Decentralized production and feed-in tariffs so energy producers offset the costs of energy use and earn money for excess energy fed into the system (prioritizing poor and low income for this) Transportation Expansion of electric-powered public transportation without fares (Kansas City just moved to ending fares) Publicly-owned fleet of electric vehicles for public use (some sort of consumer coop) Expansion of bike lanes and pedestrian areas without cars (like many major cities in Europe) Development that is pedestrian-friendly Ban on all new fossil fuel infrastructure Carbon sequestration Public works program to do wetland restoration and buffering of rising waters Incentives for regenerative agriculture Mandate green roofs (or solar/wind roofs for all new construction) Protection of forests and expansion of green spaces Jobs/just transition All workers displaced by the Green New Deal will be provided with income and job retraining A living wage and pensions for all workers Job training for all who want it to be hired into Green New Deal businesses/projects Public investment in converting existing manufacturing to be carbon neutral Development of green industry in Maryland (producing electric rail, windmills, etc) Universal and affordable childcare Housing Construction of social housing in Baltimore that is Leed certified Incentives for green housing materials for homeowners/landlords who repair/upgrade their properties Food Bans on pesticides, herbicides and GMOs Investment in urban food production Statewide network to facilitate distribution of locally-produced food Facilities such as canneries to preserve food that is not sold Expansion of farmers markets (especially in food deserts) Education Restructuring of the education system at all levels to include instruction in sustainable systems and practices Investment in research to mitigate or adapt to the climate crisis Local schools that are walkable/bikable for students Environment Move to zero waste Clean up of toxic sites and moratorium on creating new ones Ban production of chemical and biological weapons in Maryland Water Public-ownership of water provided to all at a reasonable cost Ban on water shutoffs Public works programs to clean up waterways including the Bay Economic justice/Reparations Creation of public banks to finance the above Apply a racial equity lens to all new projects and programs Prioritization of education, hiring, and siting of new projects in poor and low-income communities Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
+Log in now.
+Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

@@ -1,5 +1,1 @@
-PAID FOR BY PAUL BARRINGER FOR CONGRESS
-Paul Barringer for Congress
-PO Box 114
-Sanford, NC 27330
-Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. | Privacy Policy | Media
+Skip to content Home About Priorities Volunteer Donate Events Home About Priorities Endorsements Volunteer Events Donate Menu michaelaxpslane Joined: February 4, 2026 Articles: 18 No results Home About Priorities Volunteer Donate Events PAID FOR BY PAUL BARRINGER FOR CONGRESS Paul Barringer for Congress PO Box 114 Sanford, NC 27330 Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. | Privacy Policy | Media

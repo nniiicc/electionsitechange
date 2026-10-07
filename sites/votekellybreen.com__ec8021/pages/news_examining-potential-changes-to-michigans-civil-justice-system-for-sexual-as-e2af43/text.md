@@ -1,4 +1,4 @@
-(WXYZ) — In tonight's 7 UpFront segment we're looking at a new push to change Michigan's civil justice system for sexual assault.
-A package of three bills would expand the statute of limitation for filing claims and "allow justice for all survivors."
-Joining us to talk about it is Democratic State Representative from Novi and co-sponsor of the bills Kelly Breen.
-Read More >
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Examining potential changes to Michigan's civil justice system for sexual assault (WXYZ) — In tonight's 7 UpFront segment we're looking at a new push to change Michigan's civil justice system for sexual assault.
+A package of three bills would expand the statute of limitation for filing claims and "allow justice for all survivors." Joining us to talk about it is Democratic State Representative from Novi and co-sponsor of the bills Kelly Breen.
+Read More > Kelly Breen March 24, 2022 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Electric Vehicle Production and Policy with Nancy Pelosi Kelly Breen October 26, 2022 Next Student groups demand action against gun violence at Oxford vigil - The State News (Copy) Kelly Breen January 11, 2022 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

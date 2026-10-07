@@ -1,9 +1,12 @@
-Listen to The Jim Arciero Show!
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Listen to The Jim Arciero Show!
 Jim invites colleagues and friends to join him at the WestfordCAT podcast studio in Westford to talk about legislative priorities, friendship and much more.
 Click on a photo to listen to each episode!
-Find all the episodes on Spotify!
-WA Asian Culture Club & Lunar New Year Event
-Great to have Westford Academy (WA) Asian Culture Club (ACC) and leaders of the annual WA Lunar New Year event on the show!
+Find all the episodes on Spotify !
+James Arciero 5/17/26 James Arciero 5/17/26 Sean Aherne Read More James Arciero 4/12/26 James Arciero 4/12/26 Ally Blanck - Animal Rescue League of Boston Read More James Arciero 2/22/26 James Arciero 2/22/26 WA Asian Culture Club and 2026 Lunar New Year Event Read More James Arciero 12/12/25 James Arciero 12/12/25 Joe Diamond - Thanksgiving Edition!
+Read More James Arciero 12/12/25 James Arciero 12/12/25 Chris Doherty - Halloween Edition!
+Read More James Arciero 12/12/25 James Arciero 12/12/25 District Attorney Marian Ryan Read More James Arciero 5/26/25 James Arciero 5/26/25 State Representative Tram Nguyen Read More James Arciero 4/26/25 James Arciero 4/26/25 Ming Zhang Read More James Arciero 4/26/25 James Arciero 4/26/25 Bob Shaffer Read More James Arciero 4/21/25 James Arciero 4/21/25 Heather Fitzpatrick Read More James Arciero 4/21/25 James Arciero 4/21/25 Meghan O’Connell Read More James Arciero 3/23/25 James Arciero 3/23/25 Noelle Donovan Read More James Arciero 3/11/25 James Arciero 3/11/25 Friends of the J.V.
+Fletcher Library Read More James Arciero 2/13/25 James Arciero 2/13/25 Sean Kelly Read More James Arciero 2/3/25 James Arciero 2/3/25 WA Asian Culture Club & Lunar New Year Event Great to have Westford Academy (WA) Asian Culture Club (ACC) and leaders of the annual WA Lunar New Year event on the show!
 Ying Ma, the WA Mandarin teacher, Jada Gil Promlee, the ACC President, and Harsheta Krishnakunar the WA ACC Vice President, came to talk about the club and their major annual event, the Lunar New Year celebration, scheduled for February 8, 2025!
-Denise Pigeon
-Nashoba Valley Technical High School Superintendent, Denise Pigeon, joins me for a great conversation on Nashoba Tech’s role in a post pandemic economy, dual enrollment programs, a new 7000 ft expansion on campus and Workforce Skills Capital Grants.
+Read More James Arciero 7/24/24 James Arciero 7/24/24 Dr.
+Ann Westerheim Read More James Arciero 5/15/24 James Arciero 5/15/24 Valery Young Read More James Arciero 5/15/24 James Arciero 5/15/24 Kristen Las Read More James Arciero 3/15/24 James Arciero 3/15/24 Dan Twomey Read More James Arciero 2/6/24 James Arciero 2/6/24 Denise Pigeon Nashoba Valley Technical High School Superintendent, Denise Pigeon, joins me for a great conversation on Nashoba Tech’s role in a post pandemic economy, dual enrollment programs, a new 7000 ft expansion on campus and Workforce Skills Capital Grants.
+Read More Older Posts Paid for by the Committee to Elect Jim Arciero

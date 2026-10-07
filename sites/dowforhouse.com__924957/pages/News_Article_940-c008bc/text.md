@@ -1,5 +1,5 @@
-Don’t threaten oil, gas revenue with new regulations
-Think back to the time you were in your elementary school lunch room.
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 3 Jul Don&#8217;t threaten oil, gas revenue with new regulations By rebeccaforstatehouse Rep.
+Rebecca Dow Think back to the time you were in your elementary school lunch room.
 Do you remember there was always someone who wanted you to trade away your dessert?
 You didn’t fall for a bad trade back then, we shouldn’t fall for it now.
 Anyone who attends a public school or college in New Mexico is the beneficiary of the oil and gas industry.
@@ -22,3 +22,5 @@ They will tell you where dollars can make a difference or where good intentioned
 The budget surplus we enjoy is a historic opportunity to make a difference in the lives of our children.
 Let’s not waste it on a bad trade.
 Rebecca Dow, R, represents District 38 (Grant, Hidalgo and Sierra counties) in the New Mexico House of Representatives.
+Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

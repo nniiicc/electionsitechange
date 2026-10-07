@@ -1,11 +1,10 @@
-As our Representative, Robert Dickey has worked hard to deliver on the promises he made to our families.
+Skip to content Search for: Home About Robert Constituent Services Issues Contact Robert Search for: Home About Robert Constituent Services Issues Contact Robert Home About Robert Constituent Services Issues Contact Robert Issues Home Issues Issues Steve Allen 2018-10-31T02:23:08+00:00 As our Representative, Robert Dickey has worked hard to deliver on the promises he made to our families.
 He has supported conservative legislation to protect taxpayers, make Georgia stronger, and improve our schools and to grow our economy.
-- Tax Reform that has reduced taxes on our families and businesses and makes Georgia more competitive in job creation.
-- Zero-Based Budgeting that reformed government spending practices by requiring state departments to begin their budgets at zero and justify every dollar.
-- Balanced Budgets that have slashed billions in government spending, protected priorities like education and increased Georgia’s Rainy Day Fund.
-- Education Reform that give parents, teachers and local communities more flexibility to improve our schools.
-Robert Dickey’s Priorities
-A Voice for Middle Georgia.
+Tax Reform that has reduced taxes on our families and businesses and makes Georgia more competitive in job creation.
+Zero-Based Budgeting that reformed government spending practices by requiring state departments to begin their budgets at zero and justify every dollar.
+Balanced Budgets that have slashed billions in government spending, protected priorities like education and increased Georgia’s Rainy Day Fund.
+Education Reform that give parents, teachers and local communities more flexibility to improve our schools.
+Robert Dickey’s Priorities A Voice for Middle Georgia.
 I refuse to make promises that I cannot keep, but my one commitment to you is that I will continue to be a strong voice for Middle Georgia.
 I will work to grow our economy, protect our values, improve our schools and ensure that we receive the attention we deserve.
 Grow Our Economy.
@@ -37,7 +36,7 @@ In my business, we don’t spend money we don’t have.
 I believe government should be run like I run Dickey Farms.
 That’s why I have supported efforts to balance our state’s budget, eliminate billions of dollars in wasteful spending, build our ‘rainy day’ fund and implement zero-based budgeting to cut waste.
 I will continue to work hard every day to protect the taxpayers of Middle Georgia by ensuring that we spend your tax dollars wisely and only on the programs we need.
-Stand Strong for the 2nd Amendment
-I will stand strong for our right to bear arms, and I will oppose any efforts that infringe on our 2nd Amendment Rights.
+Stand Strong for the 2nd Amendment I will stand strong for our right to bear arms, and I will oppose any efforts that infringe on our 2nd Amendment Rights.
 Real Ethics Reform.
 I am proud to support ethics reform that will hold our elected leaders accountable and that ensure our government is accountable to the people.
+Copyright © Robert Dickey | Site paid for by Committee to Elect Robert Dickey Page load link Go to Top

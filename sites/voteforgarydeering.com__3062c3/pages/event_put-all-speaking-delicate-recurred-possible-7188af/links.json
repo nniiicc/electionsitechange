@@ -1,10 +1,54 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvoteforgarydeering.com%2Fevent%2Fput-all-speaking-delicate-recurred-possible%2F%3Fical%3D1",
-"https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://voteforgarydeering.com/",
-"https://voteforgarydeering.com/events",
-"https://voteforgarydeering.com/events/category/celebration",
-"https://voteforgarydeering.com/news",
-"https://voteforgarydeering.com/tag/answer",
-"https://voteforgarydeering.com/tag/present"
+{
+"text": "+ Add to Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvoteforgarydeering.com%2Fevent%2Fput-all-speaking-delicate-recurred-possible%2F%3Fical%3D1"
+},
+{
+"text": "+ Add to iCalendar",
+"href": "webcal://voteforgarydeering.com/event/put-all-speaking-delicate-recurred-possible/?ical=1"
+},
+{
+"text": "About",
+"href": "https://voteforgarydeering.com/#about"
+},
+{
+"text": "Celebration",
+"href": "https://voteforgarydeering.com/events/category/celebration/"
+},
+{
+"text": "Contact",
+"href": "https://voteforgarydeering.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Events",
+"href": "https://voteforgarydeering.com/events/"
+},
+{
+"text": "Home",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "News",
+"href": "https://voteforgarydeering.com/news/"
+},
+{
+"text": "[image: Gary Deering]",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "answer",
+"href": "https://voteforgarydeering.com/tag/answer/"
+},
+{
+"text": "present",
+"href": "https://voteforgarydeering.com/tag/present/"
+}
 ]

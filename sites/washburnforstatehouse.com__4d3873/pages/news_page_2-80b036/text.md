@@ -1,32 +1,11 @@
-NEWS
-Keep up with news from Georgia's 144th House District
-Week 2 Legislative Session Recap 2026
-During the week of January 20, 2026, my colleagues and I returned to the Georgia State Capitol for the second week of the legislative session, known as “budget week.” Although the House did not meet in the House Chamber, members of the House and Senate Appropriations...
-Week 1 Legislative Session Recap 2026
-The Georgia House of Representatives convened on January 12, 2026, opening the 2026 legislative session, the second regular session of the 158th Georgia General Assembly.
-Proceedings began with a violin performance of “Georgia on My Mind” by Audrey Kittila, Miss...
-Week 12 Legislative Session Recap 2025
-The Georgia General Assembly reconvened under the Gold Dome on Monday, March 31, 2025, for the 12th and final week of the 2025 legislative session.
-Throughout the week, we worked late into the evenings, voting on key measures to secure their final passage by the time...
-Week 11 Legislative Session Recap 2025
-My House colleagues and I returned to the State Capitol on Tuesday, March 25, 2025, to kick off the 11th week of the 2025 legislative session.
-In preparation for the fast-approaching Sine Die deadline, we passed several pieces of legislation this week, including bills...
-Week 10 Legislative Session Recap 2025
-On Tuesday, March 18, 2025, my legislative colleagues and I returned to the Gold Dome for Legislative Day 32, ready to resume our work on behalf of the people we serve.
-With only a few legislative days remaining in this year’s session, we are fully focused on...
-Week 9 Legislative Session Recap 2025
-After a fast-paced and eventful Crossover Day last week, members of the Georgia House of Representatives returned to the State Capitol on Monday, March 10th for Legislative Day 29, kicking off our ninth week of session.
-With Crossover Day behind us, the House began to...
-Week 8 Legislative Session Recap 2025
-This week, the Georgia House of Representatives returned to the Gold Dome on Monday, March 3rd, kicking off the busiest week of the 2025 legislative session so far.
-Thursday, March 6th marked Crossover Day, a critical deadline for legislation to move from one chamber...
-Week 7 Legislative Session Recap 2025
-The Georgia House of Representatives reconvened at the State Capitol on Monday, February 24th to resume our legislative duties.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page NEWS Keep up with news from Georgia's 144th House District Week 2 Legislative Session Recap 2026 Jan 26, 2026 | News During the week of January 20, 2026, my colleagues and I returned to the Georgia State Capitol for the second week of the legislative session, known as “budget week.” Although the House did not meet in the House Chamber, members of the House and Senate Appropriations... read more Week 1 Legislative Session Recap 2026 Jan 21, 2026 | News The Georgia House of Representatives convened on January 12, 2026, opening the 2026 legislative session, the second regular session of the 158th Georgia General Assembly.
+Proceedings began with a violin performance of “Georgia on My Mind” by Audrey Kittila, Miss... read more Week 12 Legislative Session Recap 2025 Apr 7, 2025 | News The Georgia General Assembly reconvened under the Gold Dome on Monday, March 31, 2025, for the 12th and final week of the 2025 legislative session.
+Throughout the week, we worked late into the evenings, voting on key measures to secure their final passage by the time... read more Week 11 Legislative Session Recap 2025 Mar 31, 2025 | News My House colleagues and I returned to the State Capitol on Tuesday, March 25, 2025, to kick off the 11th week of the 2025 legislative session.
+In preparation for the fast-approaching Sine Die deadline, we passed several pieces of legislation this week, including bills... read more Week 10 Legislative Session Recap 2025 Mar 21, 2025 | News On Tuesday, March 18, 2025, my legislative colleagues and I returned to the Gold Dome for Legislative Day 32, ready to resume our work on behalf of the people we serve.
+With only a few legislative days remaining in this year’s session, we are fully focused on... read more Week 9 Legislative Session Recap 2025 Mar 14, 2025 | News After a fast-paced and eventful Crossover Day last week, members of the Georgia House of Representatives returned to the State Capitol on Monday, March 10th for Legislative Day 29, kicking off our ninth week of session.
+With Crossover Day behind us, the House began to... read more Week 8 Legislative Session Recap 2025 Mar 7, 2025 | News This week, the Georgia House of Representatives returned to the Gold Dome on Monday, March 3rd, kicking off the busiest week of the 2025 legislative session so far.
+Thursday, March 6th marked Crossover Day, a critical deadline for legislation to move from one chamber... read more Week 7 Legislative Session Recap 2025 Feb 28, 2025 | News The Georgia House of Representatives reconvened at the State Capitol on Monday, February 24th to resume our legislative duties.
 During our seventh week of session, we convened for four legislative days, while Tuesday was set aside for a committee workday.
-While the...
-Week 6 Legislative Session Recap 2025
-The Georgia House of Representatives began the sixth week of the 2025 legislative session on Tuesday, February 18th after Presidents’ Day on Monday.
-By the end of the week, we reached Legislative Day 21, meaning that we are now more than halfway through the session....
-Week 5 Legislative Session Recap 2025
-This week, my colleagues and I returned to the Georgia State Capitol on Monday, February 10th to kick off the fifth week of the 2025 legislative session.
-The Georgia House of Representatives has been hard at work, addressing the issues that matter most to you and...
+While the... read more Week 6 Legislative Session Recap 2025 Feb 24, 2025 | News The Georgia House of Representatives began the sixth week of the 2025 legislative session on Tuesday, February 18th after Presidents’ Day on Monday.
+By the end of the week, we reached Legislative Day 21, meaning that we are now more than halfway through the session.... read more Week 5 Legislative Session Recap 2025 Feb 14, 2025 | News This week, my colleagues and I returned to the Georgia State Capitol on Monday, February 10th to kick off the fifth week of the 2025 legislative session.
+The Georgia House of Representatives has been hard at work, addressing the issues that matter most to you and... read more « Older Entries Next Entries » Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media Share This Facebook

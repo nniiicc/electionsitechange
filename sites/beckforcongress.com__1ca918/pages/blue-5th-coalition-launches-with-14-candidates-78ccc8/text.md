@@ -1,33 +1,14 @@
-Blue 5th Coalition Launches with 14 Candidates
-Democratic Candidates create collaborative effort to support mutual success in November
-West Bend, WI - July 24, 2026
-Andy Beck, Candidate for Wisconsin’s 5th Congressional District, together with 14 candidates across Wisconsin’s 5th Congressional District, have formed the Blue 5th Coalition.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Blue 5th Coalition Launches with 14 Candidates Democratic Candidates create collaborative effort to support mutual success in November West Bend, WI - July 24, 2026 Andy Beck, Candidate for Wisconsin’s 5th Congressional District, together with 14 candidates across Wisconsin’s 5th Congressional District, have formed the Blue 5th Coalition.
 The group is committed to voicing and advancing policies and laws that direct tax dollars toward constituent interests.
 “As a first-time candidate, I know how challenging it can be to run a campaign,” stated Beck.
-“Through collaboration, our campaigns are committed to helping each other with best practices, ongoing learning, and support for messaging and events.”
-Members of the Blue 5th Coalition vary in political experience, age, and campaign scale and scope.
-The group’s initial members include:
-- Andy Beck - Candidate for U.S.
-Congress
-- LaToya Bates - Candidate for State Assembly District 37
-- Brienne Brown - Candidate for State Assembly District 43 (I)
-- Matt Brown - Candidate for State Assembly District 24
-- Rico Camacho - Candidate for State Assembly District 82
-- Dennis Degenhardt - Candidate for State Assembly District 58
-- Joan Fitzgerald - Candidate for State Assembly District 46 (I)
-- Dana Glasstein - Candidate for State Assembly District 22
-- Jack Holzman - Candidate for State Assembly District 59
-- Matt Philibert - Candidate for State Assembly District 98
-- Terri Wenkman - Candidate for State Assembly District 38
-- Sasha Ripley - Candidate for State Assembly District 13
-- Mike Van Someren - Candidate for State Senate District 33
-- Amy Zimmerman - Candidate for State Assembly District 13
-The group launched in July and will work together throughout the 2026 election cycle.
-About Andy Beck
-Andy Beck is the Democratic Candidate on the ballot for Wisconsin’s 5th Congressional District in November.
+“Through collaboration, our campaigns are committed to helping each other with best practices, ongoing learning, and support for messaging and events.” Members of the Blue 5th Coalition vary in political experience, age, and campaign scale and scope.
+The group’s initial members include: Andy Beck - Candidate for U.S.
+Congress LaToya Bates - Candidate for State Assembly District 37 Brienne Brown - Candidate for State Assembly District 43 (I) Matt Brown - Candidate for State Assembly District 24 Rico Camacho - Candidate for State Assembly District 82 Dennis Degenhardt - Candidate for State Assembly District 58 Joan Fitzgerald - Candidate for State Assembly District 46 (I) Dana Glasstein - Candidate for State Assembly District 22 Jack Holzman - Candidate for State Assembly District 59 Matt Philibert - Candidate for State Assembly District 98 Terri Wenkman - Candidate for State Assembly District 38 Sasha Ripley - Candidate for State Assembly District 13 Mike Van Someren - Candidate for State Senate District 33 Amy Zimmerman - Candidate for State Assembly District 13 The group launched in July and will work together throughout the 2026 election cycle.
+About Andy Beck Andy Beck is the Democratic Candidate on the ballot for Wisconsin’s 5th Congressional District in November.
 Born and raised in Milwaukee, his family roots run deep in Wisconsin’s working-class community.
 He is a proud graduate of Milwaukee Public Schools and comes from a family of union members, including his father, grandfather, and uncle.
 Andy earned his undergraduate degree from UW Stout and later completed graduate studies at Cardinal Stritch University.
 His career spans hospitality management, healthcare, and product development at GE Healthcare, giving him experience across service, clinical, and corporate environments.
 Throughout his life, Andy has remained committed to the rights of working people and the role of unions in building fair and equitable workplaces.
 He is running for Congress to fight corruption and champion the needs of Wisconsin residents.
+SHOP NOW DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

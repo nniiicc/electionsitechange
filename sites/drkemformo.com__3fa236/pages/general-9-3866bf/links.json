@@ -1,10 +1,38 @@
 [
-"https://drkemformo.com/",
-"https://drkemformo.com/about-1",
-"https://drkemformo.com/blank-1",
-"https://drkemformo.com/blank-3",
-"https://drkemformo.com/blog",
-"https://drkemformo.com/contact-5",
-"https://drkemformo.com/general-9",
-"https://secure.actblue.com/donate/drkemsmith"
+{
+"text": "About",
+"href": "https://www.drkemformo.com/blank-1"
+},
+{
+"text": "Blog",
+"href": "https://www.drkemformo.com/blog"
+},
+{
+"text": "Constituent Corner",
+"href": "https://www.drkemformo.com/blank-3"
+},
+{
+"text": "Contact",
+"href": "https://www.drkemformo.com/contact-5"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/drkemsmith"
+},
+{
+"text": "Events",
+"href": "https://www.drkemformo.com/general-9"
+},
+{
+"text": "Home",
+"href": "https://www.drkemformo.com"
+},
+{
+"text": "Join the Movement",
+"href": "https://www.drkemformo.com/about-1"
+},
+{
+"text": "info@drkemformo.com",
+"href": "mailto:info@drkemformo.com"
+}
 ]

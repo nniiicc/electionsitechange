@@ -1,6 +1,18 @@
 [
-"https://nicholasforvermont.com/",
-"https://nicholasforvermont.com/blank-5",
-"https://nicholasforvermont.com/blog",
-"https://secure.winred.com/nicholas-dilorenzo-for-vermont/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/nicholas-dilorenzo-for-vermont/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nicholasforvermont.com/blank-5"
+},
+{
+"text": "Home",
+"href": "https://www.nicholasforvermont.com"
+},
+{
+"text": "News & Events",
+"href": "https://www.nicholasforvermont.com/blog"
+}
 ]

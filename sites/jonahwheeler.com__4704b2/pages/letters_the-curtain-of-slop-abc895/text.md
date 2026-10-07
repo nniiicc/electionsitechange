@@ -1,5 +1,6 @@
-December 2025
-Merriam-Webster’s word of the year was; slop.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The Curtain of Slop The Curtain of Slop The Curtain of Slop Dec 31, 2025 Dec 31, 2025 December 2025 Christmas Sunset - 16:14 December 25th 2025 - Jonah O.
+Christmas Sunset - 16:14 December 25th 2025 - Jonah O.
+0:00 / 1:34 M erriam-Webster’s word of the year was; slop.
 They define the word as “digital content of low quality that is produced usually in quantity by means of artificial intelligence.” The word slop serves as an apt word of the year in many more ways than that of descriptor for the endless stream of thirty second long artificially generated videos of whatever you could imagine.
 Seen from a bird’s eye, the entirety of the digital world is slop.
 Attempting to relay what the internet in the year 2025 is like in any rational way is not an easy task.
@@ -13,6 +14,8 @@ War, poverty, and all of the -isms have persisted since antiquity.
 The manifestations of these that we see in our modern world is nothing new, and their continuation won’t be either.
 The difference I see present now that these are occurring with the cover of a digital landscape is the response people are having.
 People do not care, in a way that I am not sure they have ever ‘not cared’ before.
+December Melt - 15:12 19 December 2025 - Jonah O.
+December Melt - 15:12 19 December 2025 - Jonah O.
 On the eighteenth of the month there was a ‘listening session’ held at the Peterborough Library.
 Representative Wendy Thomas of Merrimack, prompted by the calls of people who were tired of their elected Democrats not having enough energy, organized a listening session in her community.
 This sparked a series of listening sessions across the State, and Peterborough was her fiftieth event.
@@ -55,7 +58,7 @@ Those were obviously crude reductions of both of the vast and complex political 
 It is spot on only because the crude reduction is exactly what happens in the mind of the average citizen.
 Putting aside the roughly forty percent of eligible voters who simply don’t vote for a moment, the majority of rest aren’t spending their every waking hour paying attention to politics.
 Frankly, we cannot expect them too.
-The danger for the Democratic Party is beyond the fact that people don’t pay attention.
+After the Panel - 1 December 2025 - By Charlotte Matherly After the Panel - 1 December 2025 - By Charlotte Matherly The danger for the Democratic Party is beyond the fact that people don’t pay attention.
 That’s not a danger, its a given.
 The danger for the democratic party is that they are seemingly unable to adapt to this bizarro world.
 The national committee of the party has incredible amounts of money spent on consultants to consult the consultants and yet they can’t seem to build a cogent cultural narrative at all.
@@ -116,4 +119,5 @@ It’s time to reject the slop.
 I sympathize with the struggle but its time to stop the whining, and put our creative energy into building the world for the people that we’d like to see one brick at a time.
 Nobody is saving the world - but we can save the ones we love.
 And everyone in the world is loved by someone.
-Back to all
+Snowstorm - 18:33 December 23rd 2025 - Jonah O.
+Snowstorm - 18:33 December 23rd 2025 - Jonah O. ‹ The Rorschach World ‹ The Rorschach World ‹ The Rorschach World School House Rock and the Smoldering Sky › School House Rock and the Smoldering Sky › School House Rock and the Smoldering Sky › Back to all

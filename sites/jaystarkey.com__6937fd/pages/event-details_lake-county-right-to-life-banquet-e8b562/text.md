@@ -1,5 +1,2 @@
-Fri, Apr 24
-Avalon Manor
-Come out and support the Lake County Right to Life movement and meet Jay at the Lake County Right to Life Banquet!
-Apr 24, 2026, 6:00 PM – 9:00 PM CDT
-Avalon Manor, 3550 E Lincoln Hwy, Merrillville, IN 46410
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Lake County Right to Life Banquet Fri, Apr 24 | Avalon Manor Come out and support the Lake County Right to Life movement and meet Jay at the Lake County Right to Life Banquet!
+Registration is closed See other events Time & Location Apr 24, 2026, 6:00 PM – 9:00 PM CDT Avalon Manor, 3550 E Lincoln Hwy, Merrillville, IN 46410 Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

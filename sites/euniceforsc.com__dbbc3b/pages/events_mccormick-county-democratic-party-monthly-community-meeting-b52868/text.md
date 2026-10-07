@@ -1,10 +1,4 @@
-Back to All Events
-Eunice will be a guest speaker at the McCormick County Democratic Party’s Monthly Community Meeting on Tuesday, June 02.
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events McCormick County Democratic Party Monthly Community Meeting Tuesday, June 2, 2026 6:00 PM 7:00 PM MCDP Headquarters 908 South Mine Street McCormick, South Carolina, 29835 United States (map) Google Calendar ICS Eunice will be a guest speaker at the McCormick County Democratic Party’s Monthly Community Meeting on Tuesday, June 02.
 Go to the MCDP Website for more details.
-Previous
-Previous
-May 31
-Lake Rabon Community Stump Meet
-Next
-Next
-June 3
+Previous Previous May 31 Lake Rabon Community Stump Meet Next Next June 3 Meet Eunice at the Carolina Bauernhaus in Anderson Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

@@ -1,5 +1,5 @@
-One year out - I’m just getting started!
-One year from today, Vermonters will head to the polls to decide who will keep fighting for our shared future — and I’m officially launching my campaign for re-election to the Vermont Senate.
+0 Skip to Content Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate One year out - I’m just getting started!
+Nov 4 Written By Rebecca White One year from today, Vermonters will head to the polls to decide who will keep fighting for our shared future — and I’m officially launching my campaign for re-election to the Vermont Senate.
 Over the past few years, I’ve worked every day to accelerate our clean energy transition, make transportation more accessible and affordable, and protect the rights of working people and immigrants who make our communities strong.
 I’ve stood up for reproductive freedom, for our democracy, and for the Vermont values of fairness and compassion that guide us through hard times.
 As your Assistant Majority Leader, I’ve helped our Senate stay focused on what really matters — making Vermont a place where everyone can thrive, no matter their zip code or background.
@@ -9,7 +9,6 @@ The stakes couldn’t be higher — for our climate, our communities, and our de
 I’m ready to keep showing up, leading with integrity, and doing the hard work it takes to deliver for Vermonters.
 Will you chip in today to help power this campaign from day one?
 Every single donation helps us keep our majority strong and our state moving forward.
-Thank you for believing in Vermont and in the power of people who roll up their sleeves and get to work.
+Donate $10 Donate $25 Donate $50 Thank you for believing in Vermont and in the power of people who roll up their sleeves and get to work.
 I’m honored to keep doing that work alongside you.
-With gratitude,
-Senator Becca White
+With gratitude, Senator Becca White Rebecca White Next Next IUCN & Biodiversity at home and abroad Becca White for Vermont White River Junction, Vermont 05001 (802) 777 4517 Made with Squarespace Our Work About Updates Take Action Follow Twitter Instagram Facebook

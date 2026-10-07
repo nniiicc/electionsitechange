@@ -1,15 +1,6 @@
-nathan ramker
-for Iowa House District #98
-"together we can
-build a brighter iowa"
-Welcome, Neighbors and Friends!
-Thank you for visiting.
-I am honored to be running to represent the people of our district and to serve the community that so many of us proudly call home.
-Our campaign is built on the belief that strong leadership starts with listening to the people.
-This website is a place where you can learn more about our campaign, the issues that matter most to our district, and the ways you can join us in shaping a stronger future for Iowa.
-If elected, my focus will be on advancing common-sense solutions that strengthen our communities and protect the values we share.
-My key priorities include property tax relief for Iowa families, protecting parents’ rights in education, building a strong and growing economy, defending freedom and public safety, and advancing meaningful reforms to improve care and dignity for our elderly.
-I believe that when government works responsibly and listens to the people it serves, our communities thrive.
-Together, we can ensure that our district remains a place where families can prosper, businesses can grow, and future generations can succeed.
-Thank you for your support and for being part of this journey.
-Warm regards,
+top of page Home About Events Volunteer Donate More Use tab to navigate through the menu items. nathan ramker for Iowa House District #98 "together we can build a brighter iowa" Welcome, Neighbors and Friends! ​ Thank you for visiting.
+I am honored to be running to represent the people of our district and to serve the community that so many of us proudly call home. ​ Our campaign is built on the belief that strong leadership starts with listening to the people.
+This website is a place where you can learn more about our campaign, the issues that matter most to our district, and the ways you can join us in shaping a stronger future for Iowa. ​ If elected, my focus will be on advancing common-sense solutions that strengthen our communities and protect the values we share.
+My key priorities include property tax relief for Iowa families, protecting parents’ rights in education, building a strong and growing economy, defending freedom and public safety, and advancing meaningful reforms to improve care and dignity for our elderly. ​ I believe that when government works responsibly and listens to the people it serves, our communities thrive.
+Together, we can ensure that our district remains a place where families can prosper, businesses can grow, and future generations can succeed. ​ Thank you for your support and for being part of this journey. ​ Warm regards, Donate Now join us! let's win district 98 nathan ramker Together, we can protect our values, strengthen our communities, and build a brighter future for Iowa. stay Connected Paid for by Ramker for Iowans. © # Nathan Ramker for Iowa.
+Powered and secured by Wix bottom of page

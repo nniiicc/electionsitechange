@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.votedavecalder.com/news/house-district-11-katy-hall-vs-dave-calder",
- "paid_for_by": "Paid For By Dave Calder for Utah",
+ "fingerprint": "cdfa27d9c375030ce9b56e4e451a5d594d894da5",
+ "format": 3,
+ "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
  "title": "\"The Money Looks Nothing Alike\"Corporate PACs make up 90% of Calder Opponent Campaign Funding",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

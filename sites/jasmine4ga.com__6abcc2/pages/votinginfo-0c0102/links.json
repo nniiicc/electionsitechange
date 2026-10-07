@@ -1,22 +1,94 @@
 [
-"https://claytoncountyga.gov/government/elections-and-registration",
-"https://dekalbcountyga.gov/departments/voter-registration-and-elections",
-"https://facebook.com/JasmineClark4GA",
-"https://gwinnettcounty.com/government/departments/elections",
-"https://henrycountyga.gov/voting",
-"https://instagram.com/jasmine4ga",
-"https://jasmine4ga.com/",
-"https://jasmine4ga.com/agenda",
-"https://jasmine4ga.com/contact",
-"https://jasmine4ga.com/endorsements",
-"https://jasmine4ga.com/meetjasmine",
-"https://jasmine4ga.com/news",
-"https://jasmine4ga.com/privacy-policy",
-"https://jasmine4ga.com/votinginfo",
-"https://linkedin.com/in/dr-jasmine-clark",
-"https://mvp.sos.ga.gov/",
-"https://newtoncountyga.gov/167/Board-of-Elections-Registration",
-"https://rockdalecountyga.gov/board-of-elections-voter-registration",
-"https://secure.actblue.com/page/jc_website",
-"https://x.com/jasmineforga"
+{
+"text": "AGENDA",
+"href": "https://www.jasmine4ga.com/agenda"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jasmine4ga.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/page/jc_website"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jasmine4ga.com/endorsements"
+},
+{
+"text": "INFO@JASMINE4GA.COM",
+"href": "mailto:INFO@JASMINE4GA.COM"
+},
+{
+"text": "JAKE@JASMINE4GA.COM",
+"href": "mailto:JAKE@JASMINE4GA.COM"
+},
+{
+"text": "MEET JASMINE",
+"href": "https://www.jasmine4ga.com/meetjasmine"
+},
+{
+"text": "NEWS",
+"href": "https://www.jasmine4ga.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jasmine4ga.com/privacy-policy"
+},
+{
+"text": "RESUMES@JASMINE4GA.COM",
+"href": "mailto:RESUMES@JASMINE4GA.COM"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://www.jasmine4ga.com/votinginfo"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JasmineClark4GA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jasmine4ga/"
+},
+{
+"text": "[image: JCLA-2025-LOGO_Refresh_FINAL_PRIMARY-removebg-preview.png]",
+"href": "https://www.jasmine4ga.com"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/dr-jasmine-clark/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/jasmineforga"
+},
+{
+"text": "https://dekalbcountyga.gov/departments/voter-registration-and-elections",
+"href": "https://dekalbcountyga.gov/departments/voter-registration-and-elections%C2%A0"
+},
+{
+"text": "https://mvp.sos.ga.gov",
+"href": "https://mvp.sos.ga.gov/"
+},
+{
+"text": "https://www.claytoncountyga.gov/government/elections-and-registration/",
+"href": "https://www.claytoncountyga.gov/government/elections-and-registration/%C2%A0"
+},
+{
+"text": "https://www.gwinnettcounty.com/government/departments/elections",
+"href": "https://www.gwinnettcounty.com/government/departments/elections%C2%A0"
+},
+{
+"text": "https://www.henrycountyga.gov/voting",
+"href": "https://www.henrycountyga.gov/voting%C2%A0"
+},
+{
+"text": "https://www.newtoncountyga.gov/167/Board-of-Elections-Registration",
+"href": "https://www.newtoncountyga.gov/167/Board-of-Elections-Registration"
+},
+{
+"text": "https://www.rockdalecountyga.gov/board-of-elections-voter-registration/",
+"href": "https://www.rockdalecountyga.gov/board-of-elections-voter-registration/%C2%A0"
+}
 ]

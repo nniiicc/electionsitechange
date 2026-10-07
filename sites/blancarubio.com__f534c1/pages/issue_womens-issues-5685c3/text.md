@@ -1,11 +1,2 @@
-California Celebrating Women in Public Office Day (ACR 45)
-Proclaims every March 19 as California Celebrating Women in Public Office Day.
-Skip to content
-Ξ
-Women’s Issues
-California Celebrating Women in Public Office Day (ACR 45)
-Proclaims every March 19 as California Celebrating Women in Public Office Day.
-Issues sidebar
-Post navigation
-Working for you
-Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Women’s Issues California Celebrating Women in Public Office Day (ACR 45) Proclaims every March 19 as California Celebrating Women in Public Office Day.
+Issues sidebar Women’s Issues Education & Youth Housing & Homelessness Domestic Violence Climate Change Public Safety & Criminal Justice Aging Water Animal Protection Healthcare Post navigation Previous: Education & Youth Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

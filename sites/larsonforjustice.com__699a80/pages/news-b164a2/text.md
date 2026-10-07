@@ -1,4 +1,28 @@
-SEATTLE, WA — May 28, 2026 — The Forward Party today announced its endorsement of Dave Larson for Washington State Supreme Court, Position 5.
+About Meet Dave Dave's Record Why Dave?
+The Court's Role News & Media News & Press Media Gallery Get Involved Volunteer Supporter Toolkit Invite Dave Host an Event Endorse Dave Contact Donate About Meet Dave Dave's Record Why Dave?
+The Court's Role News & Media News & Press Media Gallery Get Involved Volunteer Supporter Toolkit Invite Dave Host an Event Endorse Dave Contact Donate ✓ Link copied to clipboard!
+News & Press · 2026 Coverage, Statements, and Commentary News coverage from major Washington outlets, press releases from the campaign, and Judge Dave Larson’s own commentary — collected here as the race for Position 5 on the Washington State Supreme Court unfolds.
+All Press Releases By Dave News Coverage Press Releases The 2026 Campaign Official statements about the Larson for Justice campaign — from the campaign itself and from organizations supporting the candidacy.
+FROM THE CAMPAIGN June 23, 2026 Judge Dave Larson (Ret.) Renews Concerns About Judicial Elections and Judicial Independence Larson outlines threats to judicial independence and proposes a Judicial Elections Commission as a path forward Read full release SEATTLE, WA — Judge Dave Larson (Retired), an advocate for improving judicial elections and current candidate for the Washington State Supreme Court, has released the attached statement that lays out how judicial independence is being directly threatened by the judicial appointment and election process in our state.
+He also raises concerns about the impact special interests, partisan politics, and media reporting have on judicial independence and meaningful judicial elections.
+The practice over the past 14 years has been for justices and judges to resign before the end of their term which allows the governor to appoint a replacement with no confirmation process or any objective criteria that would prevent appointments based on political considerations.
+This isn't the first time Judge Larson raised the alarm on this issue writing an op-ed in the Seattle Times in December 2024, where he stated, "How we currently select judges and justices in our state is actually a real threat to judicial independence in a number of ways and we need to make changes soon." He was concerned that "Of the 207 judges who sit on the Supreme Court, Court of Appeals, and Superior Courts, Governor Inslee appointed 172 of them with no confirmation or approval process in his 12-year tenure; that's 83% of our judges.
+What if 83% of our legislators were hand-picked by the governor with no check and balance?
+How independent would our legislature be?" At the time he wrote the op-ed, five of the nine justices had been initially elected by the people (55%) while four of them had been hand-picked by a governor.
+Currently, only three of the nine justices were initially elected by the people (33%) while six of them were hand-picked by a governor.
+Judge Larson has offered meaningful solutions that would resolve these issues, including the creation of a merit-based system like civil service through a newly formed Judicial Elections Commission.
+A copy of the legislation that would make that a reality is attached.
+The proposed Judicial Elections Commission would prevent a governor from making political or self-interested appointments to our state's highest court.
+He closed his 2024 op-ed with the statement that "one thing is certain; the public deserves a better appointment and election process for judges and justices." However, Larson notes today: "Instead of improving the way we appoint justices and judges, our current governor has made appointments that are a full-frontal assault on judicial independence.
+He first appointed a senior staff member who worked directly for him at the Attorney General's Office and then appointed a longtime campaign contributor who was also a colleague at his former law firm to our state's highest court.
+Neither of the appointees ever served as a judge.
+The governor has also made a very public promise to do everything he can to get his favored candidates elected.
+He seems to want a judiciary that 'has made Judges dependent on his Will alone, for the tenure of their offices…'" As to the role of narrow partisan interests seeking to control judicial elections, Larson has sought broad support, including from Democrats and labor unions, but notes that other candidates stay within narrow partisan boundaries that do not include attempts to seek support from Republicans or business interests.
+Larson has been recommended by Republicans, and he is also supported by the Forward Party started by Democratic presidential candidate Andrew Yang and former Republican Governor Christine Todd Whitman and by the Cascade Party started by Nirvana bass player Krist Novoselic.
+In the Forward Party's endorsement announcement , Andrew Yang, Democratic presidential candidate and Co-Chair of the Forward Party, stated: "The Forward Party exists because Americans are tired of a system that serves itself instead of the people it is supposed to represent.
+Dave Larson is exactly the kind of candidate the Forward Party was created to support, and we are proud to stand behind him." The Cascade Party is "building a political home for Washingtonians who are tired of the extremes and ready to rebuild trust in the public sector.
+Cascade Party supports candidates at all levels of government and represents communities across the entire state." For more information or to support the campaign, visit larsonforjustice.com .
+### Media contact: campaign@larsonforjustice.com · (206) 207-2903 FROM THE FORWARD PARTY May 28, 2026 Forward Party Endorses Dave Larson for Washington State Supreme Court, Position 5 Former Federal Way Municipal Court Judge Backed by Forward Party to preserve the integrity and independence of the judiciary View as PDF Read full release SEATTLE, WA — May 28, 2026 — The Forward Party today announced its endorsement of Dave Larson for Washington State Supreme Court, Position 5.
 In backing Larson, the Forward Party is making a clear statement that Washington voters deserve to have the most qualified candidate sit as a justice on their highest court, not the Governor’s hand-picked selection.
 The seat Larson is seeking is currently occupied by Theo Angelis, who was appointed by Governor Bob Ferguson in March 2026, the Governor’s second appointment to the Washington State Supreme Court in less than a year.
 Washington voters will now face a November ballot in which the incumbent justice is not someone they elected.
@@ -9,14 +33,64 @@ As an attorney, he earned an AV Preeminent rating from Martindale-Hubbell, the h
 “Dave Larson has spent his career protecting judicial independence and serving his community.
 He represents the best of what independent, accountable leadership looks like,” said Christine Todd Whitman, Co-Chair of the Forward Party and former New Jersey Governor.
 “When a governor makes back-to-back appointments to the state’s highest court, it raises real questions about whose interests the court is meant to serve.
-Washington voters deserve a voice in that answer.”
-Forward supports leaders who put the rule of law ahead of political loyalty and believe that courts should be accountable to voters, not to the politicians who appoint them.
+Washington voters deserve a voice in that answer.” Forward supports leaders who put the rule of law ahead of political loyalty and believe that courts should be accountable to voters, not to the politicians who appoint them.
 Larson reflects those values.
 “The Forward Party exists because Americans are tired of a system that serves itself instead of the people it is supposed to represent,” said Andrew Yang, Co-Chair of the Forward Party.
-“Dave Larson is exactly the kind of candidate the Forward Party was created to support, and we are proud to stand behind him.”
-Backing leaders who reflect more representative politics, The Forward Party believes in a system where problem-solving matters more than party labels, where elected officials are accountable to the people they serve, and where the independence of our courts is protected, not politicized.
+“Dave Larson is exactly the kind of candidate the Forward Party was created to support, and we are proud to stand behind him.” Backing leaders who reflect more representative politics, The Forward Party believes in a system where problem-solving matters more than party labels, where elected officials are accountable to the people they serve, and where the independence of our courts is protected, not politicized.
 The Forward Party is building a national movement to support independent-minded leaders and expand choices for voters across the country.
-More information is available at forwardparty.com/candidates.
-###
-The Forward Party is bringing moderates, conservatives, and progressives together to heal our political divisions, find our shared ground, and create a brighter future for America.
+More information is available at forwardparty.com/candidates .
+### The Forward Party is bringing moderates, conservatives, and progressives together to heal our political divisions, find our shared ground, and create a brighter future for America.
 Forward Party candidates are accountable to the voters, and they will focus on solutions, not partisan fighting, in order to serve their constituents better.
+FROM THE CAMPAIGN February 23, 2026 Judge Dave Larson (Ret.) Announces Candidacy for Washington State Supreme Court, Position 5 Former Federal Way Municipal Court Judge launches 2026 campaign for Position 5 following Justice Barbara Madsen’s retirement Read full release SEATTLE, WA — Judge Dave Larson (Retired) officially announced his campaign for Position 5 on the Washington State Supreme Court today, following the retirement announcement of Justice Barbara Madsen.
+Larson enters the race with massive statewide momentum, having earned over 1.6 million votes and coming within 0.61% of a seat on the state’s highest court in 2024.
+After serving 18 years as a trial judge, Larson is coming out of a short retirement driven by a deep sense of duty to the people of Washington.
+“In discussions with people about the direction our Court is taking, I decided that I just can’t walk away at this time,” said Judge Larson.
+“There is too much work left to do when it comes to making the court system more responsive to the needs of the people of our state.
+I want to be the voice of common sense on the Supreme Court so we can build a justice system that can be trusted by our trial judges and the people of this state to make decisions based on solid legal principles and what works for our communities.” A Proven Leader in Criminal Justice Reform On the issue of public safety, Larson has been a leader in implementing effective solutions.
+“We don’t need to be tougher or softer on crime; we need to be smarter on crime,” Larson noted.
+A recognized national leader in reform, in retirement he will be helping communities across the nation better respond to crime through proven effective strategies.
+Restoring Trust in Government Larson is also a recognized leader in civics education and is an advocate for changing the way we elect judges.
+He has proposed a process that will make judicial elections more understandable and meaningful for voters.
+He believes his candidacy arrives at a symbolic moment for the nation as we navigate through these times of conflict and discord during the year we celebrate the 250th Anniversary of the Declaration of Independence.
+“I want to breathe life into the principles of justice, fairness, and government accountability to the people as we celebrate the 250th Anniversary of the Declaration of Independence,” Larson added.
+“We need to find ways to come together to solve the problems we face, and the justice system should be the model by resolving the disputes we see in court in a way that shows us that we can all pursue life, liberty, and happiness peacefully together.” For more information or to support the campaign, visit larsonforjustice.com .
+### Media contact: campaign@larsonforjustice.com · (206) 207-2903 See more By Dave In His Own Words Op-eds, opinion columns, letters to the editor, and official statements written by Judge Dave Larson.
+Op-Ed · The Seattle Times · December 8, 2024 Why appointment is only part of the solution for a better WA judiciary Responding to a call to end judicial elections in Washington, Dave argues the real threats to judicial independence aren't in how we select judges but in the lack of any check on vacancy appointments, poor voter education, and prohibitive barriers to running for the bench — and points to the 1996 Walsh Commission's forgotten roadmap as evidence that reform is possible.
+Read the full piece Opinion Column · Federal Way Mirror · February 7, 2025 Grateful for the Opportunity to Serve Federal Way A retirement column written as Dave concluded his tenure on the Federal Way Municipal Court bench — thanking the city, Mayor, City Council, and the staff who made the work possible over nearly two decades.
+Read the full piece Opinion Column · Federal Way Mirror · 2025 Time to Choose a New Federal Way Municipal Court Judge With his retirement from the Federal Way Municipal Court, Dave wrote directly to the community about the importance of choosing his successor carefully — making the case for an experienced, independent judiciary at every level of the court system.
+Read the full piece Op-Ed · The Seattle Times · 2021 State Supreme Court Oversteps on Mandating Vaccine Published in the Seattle Times, this op-ed called for separation-of-powers discipline and a return to normal governing principles — arguing that the Supreme Court had exceeded its appropriate constitutional role.
+A foundational piece for understanding Dave's judicial philosophy on institutional restraint.
+Read the full piece Letter to the Editor · Federal Way Mirror · 2016 Editorial Board Missed the Point A letter responding to the Federal Way Mirror's editorial board, in which Dave clarified the record and cited his broad, bipartisan endorsement coalition — including the Seattle Times and the Tri-City Herald — as evidence of the cross-aisle trust he had built as a candidate and jurist.
+Read the full piece Official Candidate Statement · Washington State Voters' Guide · 2016 · votewa.gov 2016 State of Washington Voters' Guide — Dave Larson Statement Dave's official candidate statement from the 2016 Washington State Voters' Guide, submitted for the Supreme Court Position 6 race.
+An on-the-record statement of his qualifications, values, and judicial philosophy — preserved in the official state election record.
+Read the full piece See more News Coverage In the News Press coverage of Judge Dave Larson’s campaigns and judicial work.
+Seattle Red · Feb.
+27, 2026 Dave Larson Seeks to Reshape Washington's Supreme Court Interview-based profile highlighting his "repair shop, not a junkyard" judicial philosophy and his case for independent, nonpartisan courts.
+Read the full article Lynnwood Times · Feb.
+23, 2026 Judge Dave Larson (Ret.) Announces Run for Washington State Supreme Court Announcement of his 2026 Position 5 campaign, noting his 1.6M+ votes in 2024 and his post-retirement return to the race.
+Read the full article WA State Standard · Nov.
+15, 2024 Race for WA Supreme Court Seat Still Close as Final Votes Are Tallied Neutral reporting on late ballot tabulation in the Larson–Mungia race, one of the closest Supreme Court contests in recent Washington history.
+Read the full article The Center Square · November 2024 Mungia, Larson Remain in a Tight Battle for Position 2 Seat on WA Supreme Court Favorable framing of Larson's competitiveness, noting his strength in a statewide race across deeply blue Washington.
+Read the full article WA State Standard · November 2024 Race for WA Supreme Court Seat Is Very Close Election-night reporting with Larson holding 49.78% — within a fraction of a point of the seat.
+Read the full article The Daily (UW) · November 2024 Washington State Supreme Court Candidate Profile: Dave Larson Profile highlighting his Washington Council of Police & Sheriffs endorsement, civics education work, and nearly two decades on the bench.
+Read the full article Spokesman-Review · Nov.
+5, 2024 Federal Way Municipal Judge Ahead by a Slim Margin in Race for State Supreme Court Seat Election-night report with Larson leading at 49.8% — the closest the seat has come to flipping in years.
+Read the full article Seattle Times · Oct.
+29, 2024 WA Supreme Court Race Is Nonpartisan; the Endorsements Are Not Balanced comparison of both candidates; Larson quoted on wanting to "keep politics out of the judicial system." Read the full article NPI Cascadia Advocate · October 2024 76% Undecided in Supreme Court Race; Dave Larson Has Four-Point Lead Over Sal Mungia PPP polling showing Larson at 14% to Mungia's 10% among decided voters — a favorable early data point.
+Read the full article KUOW · October 2024 Washington's Supreme Court Will Have Its First Truly Open Election in 12 Years Balanced profile featuring Larson's signature "repair shop, not a junkyard" philosophy on judicial reform.
+Read the full article NPI Cascadia Advocate · August 2024 Sal Mungia, Dave Larson Look Likely to Advance in Cycle's Only Contested State Supreme Court Race Pre-primary analysis highlighting his municipal-court experience as a key differentiator in the race.
+Read the full article NPI Cascadia Advocate · July 2024 Meet the 2024 Candidates for Washington State Supreme Court Position #2: Dave Larson In-depth interview-based profile on his therapeutic justice philosophy, DMCJA leadership, and approach to court reform.
+Read the full article unDivided · 2024 Election 2024: Judge Dave Larson — Candidate for State Supreme Court Long-form video interview on judicial philosophy and reform.
+Kruse publicly endorsed Larson — one of only two endorsements she made that election cycle.
+Read the full article Federal Way Mirror · 2022 Readers Pick Judge Dave Larson for Best City Leader Feature on his readers' poll win as Federal Way's "Best City Leader," with a Q&A on his career and community-court reforms.
+Read the full article Washington Policy Center · 2021 State Judge Calls for Return to Our Normal Governing Principles Coverage of Larson's Seattle Times op-ed on separation of powers and the governor's vaccine mandate — praising his call for institutional restraint.
+Read the full article NPI Cascadia Advocate · May 2020 Most Washingtonians Not Sure Who They'll Vote for in State's 2020 Supreme Court Races Neutral polling coverage of the Montoya-Lewis–Larson race for Position 3.
+Read the full article Seattle Times Editorial Board · 2016 The Times Recommends Dave Larson for State Supreme Court Position 6 Major editorial endorsement praising his "sophisticated policy understanding," innovative court reforms, "deep community respect," and nuanced McCleary views.
+Read the full article Federal Way Mirror · c.
+2014 Federal Way Judge Honored with Prestigious Award Feature on Larson receiving the Judge William Nevins Award from the Washington Judges' Foundation — nominated by then-Chief Justice Barbara Madsen, who called him a "pioneer" in youth education.
+Read the full article Federal Way Mirror · February 2008 Larson Joins a Court Bruised by Controversy Appointment coverage in which Federal Way City Manager Beets said: "We are not going to see anybody with higher quality than David Larson." Read the full article See more Ready to Join the Team?
+First Name * Last Name Email Address * Sign Up Facebook Instagram X / Twitter Campaign Meet Dave Dave's Record Why Dave?
+The Court's Role Get Involved Volunteer Invite Dave Host an Event Endorse Dave Resources News & Press Media Contact © # Larson for Justice.
+All rights reserved.
+Paid for by Larson for Justice P.O.
+Box 9083, Seattle, WA 98109 Privacy Policy Terms Donate

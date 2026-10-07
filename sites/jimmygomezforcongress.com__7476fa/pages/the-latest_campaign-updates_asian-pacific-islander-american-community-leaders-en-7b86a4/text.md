@@ -1,23 +1,8 @@
-Continuing to build on his extensive community support, a large group of Asian Pacific Islander-American leaders endorsed Democratic candidate Jimmy Gomez in his bid to replace Attorney General Xavier Becerra in the 34th Congressional District.
+Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Donate Now Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Campaign Updates | Press Releases | 06/01/17 ASIAN PACIFIC ISLANDER-AMERICAN COMMUNITY LEADERS ENDORSE JIMMY GOMEZ FOR CONGRESS By: Jimmy Gomez Share Continuing to build on his extensive community support, a large group of Asian Pacific Islander-American leaders endorsed Democratic candidate Jimmy Gomez in his bid to replace Attorney General Xavier Becerra in the 34th Congressional District.
 “As a State Legislator, Jimmy Gomez worked to get funding for the Los Angeles Historic Park and worked with Chinatown small business leaders to craft legislation to protect small businesses from predatory lawsuits.
 I know that Jimmy will fight just as hard for us in Washington, D.C.” said Los Angeles Community College Trustee Mike Fong.
 “Jimmy Gomez has a long history of serving the APIA community as a union organizer and Assemblyman, making it an easy decision for Pilipino American LA Democrats to endorse him.
 He will be a great advocate for our community in Congress,” said Ryan Carpio, President of Pilipino American Los Angeles Democrats.
-“I am running for Congress to represent every part of this district,” said Assemblyman Jimmy Gomez, “I am proud of my record of serving the APIA community, and am honored to have the support of so many leaders from the community.”
-APIA Leaders for Jimmy Gomez includes:
-- Congresswoman Judy Chu, Chair, Congressional Asian Pacific American Caucus*
-- Congressman Ted Lieu
-- Los Angeles Community College Trustee Mike Fong
-- Rick Eng, National Board Executive, Chinese American Citizens Alliance*
-- Suellen Cheng, Chinese American Citizens Alliance Los Angeles Lodge*
-- David Lee, Koreatown resident, Community Activist
-- Alex De Ocampo, Mount Washington resident, Community Activist
-- James Santa Maria, Vice President of the Asian American Small Business Political Action Committee (AASB PAC)*
-- Joel Jacinto, former Executive Director, Search to Involve Pilipino Americans*
-- George Yin, former board member, Organization of Chinese Americans*
-- Ryan Carpio, President, Pilipino American LA Democrats (PALAD)
-- Gerald Gubatan, Immediate Past President, PALAD
-- Mary Grace Barrios, VP Outreach, PALAD
-- Ruby DeVera, Co-Lead, Northeast Los Angeles Veterans Parade
-- Joselyn Geaga-Rosenthal, Secretary PALAD
-*Organization is for identification purposes only and does not indicate endorsement
+“I am running for Congress to represent every part of this district,” said Assemblyman Jimmy Gomez, “I am proud of my record of serving the APIA community, and am honored to have the support of so many leaders from the community.” APIA Leaders for Jimmy Gomez includes: Congresswoman Judy Chu, Chair, Congressional Asian Pacific American Caucus* Congressman Ted Lieu Los Angeles Community College Trustee Mike Fong Rick Eng, National Board Executive, Chinese American Citizens Alliance* Suellen Cheng, Chinese American Citizens Alliance Los Angeles Lodge* David Lee, Koreatown resident, Community Activist Alex De Ocampo, Mount Washington resident, Community Activist James Santa Maria, Vice President of the Asian American Small Business Political Action Committee (AASB PAC)* Joel Jacinto, former Executive Director, Search to Involve Pilipino Americans* George Yin, former board member, Organization of Chinese Americans* Ryan Carpio, President, Pilipino American LA Democrats (PALAD) Gerald Gubatan, Immediate Past President, PALAD Mary Grace Barrios, VP Outreach, PALAD Ruby DeVera, Co-Lead, Northeast Los Angeles Veterans Parade Joselyn Geaga-Rosenthal, Secretary PALAD *Organization is for identification purposes only and does not indicate endorsement A Fighter For Working Families!
+Email ZIP code Stay Up-to-Date Contribute Now! $5 $10 $25 $50 Media Privacy Policy Jimmy Gomez for Congress P.O.
+Box 41018, Los Angeles, CA 90041 213-557-1348 info@jimmygomezforcongress.com Paid for by Jimmy Gomez for Congress Get Involved

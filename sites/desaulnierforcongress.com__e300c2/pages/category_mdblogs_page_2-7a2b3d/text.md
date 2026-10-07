@@ -1,20 +1,12 @@
-Video at Holocaust Museum
-https://www.facebook.com/MarkDeSaulnier/videos/1310752532391764/
-Skip to content
-Press Release
-Video at Holocaust Museum
-https://www.facebook.com/MarkDeSaulnier/videos/1310752532391764/
-Reminder: Send In Your Petitions This Week!
-Dear Friends, You can help our re-election campaign by signing our Signature in Lieu of Filing Fee Petition and inviting neighbors to support Mark by signing the petition as well.
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu Press Release Video at Holocaust Museum October 25, 2018 October 25, 2018 / Press Release https://www.facebook.com/MarkDeSaulnier/videos/1310752532391764/ Reminder: Send In Your Petitions This Week!
+January 13, 2018 January 13, 2018 / Press Release Dear Friends, You can help our re-election campaign by signing our Signature in Lieu of Filing Fee Petition and inviting neighbors to support Mark by signing the petition as well.
 Each signature on the petition reduces our election filing fee by 87 cents.
 The signatures also help us demonstrate grassroots support for Mark.
-Please click here to …
-Thank you for supporting our 2018 campaign kickoff!!
-I am extremely grateful for all of the volunteers, supporters and contributors who made our 2018 campaign kickoff a success.
+Please click here to … Reminder: Send In Your Petitions This Week!
+Read More » Thank you for supporting our 2018 campaign kickoff!!
+January 7, 2018 April 29, 2021 / Press Release I am extremely grateful for all of the volunteers, supporters and contributors who made our 2018 campaign kickoff a success.
 Thank you all for your support!
-Indivisible Guide Co-Author Jeremy Haile Speaks at our Resistance Fair
-Watch Jeremy’s presentation at our Resistance Fair. https://youtu.be/pOzv6wDMWjM
-7/29/17 Resistance Fair – Watch Political Update on Facebook
-Watch our Resistance Fair program video on https://www.facebook.com/MarkDeSaulnier/ “Read More” to access our Resistance Fair Political Update Power Point Presentation made on 7/29/17 at DVC College in Pleasant Hill CLICK HERE Resistance Fair – Political Update Power Point
-R E S I S T A N C E – F A I R
-Join Congressman Mark DeSaulnier (CA-11) and Special Guest Jeremy Haile Co-author of the Indivisible Guide In conjunction with Indivisible CA-11 United for a R E S I S T A N C E F A I R Hear from Congressman DeSaulnier and Jeremy Haile, ask questions, and talk with representatives of advocacy and electoral organizations …
+Thank you to the event hosts and everyone who made our LGBT Reception a success!
+October 1, 2017 October 1, 2017 / Press Release Great Participation from Students at the College Town Hall Hosted by the Contra Costa Young Dem’s August 30, 2017 August 30, 2017 / Press Release Indivisible Guide Co-Author Jeremy Haile Speaks at our Resistance Fair August 18, 2017 August 18, 2017 / Press Release Watch Jeremy’s presentation at our Resistance Fair. https://youtu.be/pOzv6wDMWjM 7/29/17 Resistance Fair – Watch Political Update on Facebook July 30, 2017 August 1, 2017 / Press Release Watch our Resistance Fair program video on https://www.facebook.com/MarkDeSaulnier/ “Read More” to access our Resistance Fair Political Update Power Point Presentation made on 7/29/17 at DVC College in Pleasant Hill CLICK HERE Resistance Fair – Political Update Power Point R E S I S T A N C E – F A I R July 8, 2017 July 8, 2017 / Press Release Join Congressman Mark DeSaulnier (CA-11) and Special Guest Jeremy Haile Co-author of the Indivisible Guide In conjunction with Indivisible CA-11 United for a R E S I S T A N C E F A I R Hear from Congressman DeSaulnier and Jeremy Haile, ask questions, and talk with representatives of advocacy and electoral organizations … R E S I S T A N C E – F A I R Read More » Posts pagination ← Previous Page 1 2 3 … 11 Next Page → Newsroom: In The News Message from Congressman DeSaulnier: Press Release Recent News: The countdown to my Shadelands fundraiser is on!
+August 15, 2024 Filed my papers to continue representing CA-10 in Congress!
+August 13, 2024 Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

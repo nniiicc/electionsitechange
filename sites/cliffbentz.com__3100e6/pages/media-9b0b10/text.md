@@ -1,40 +1,6 @@
-Home
-Meet Cliff
-About
-Endorsements
-Media
-Issues
-Volunteer
-Contact
-Menu
-Home
-Meet Cliff
-About
-Endorsements
-Media
-Issues
-Volunteer
-Contact
-Donate
-Media
-Television Ads
-Other Videos
-Youtube
-Cliff Bentz for Congress Virtual Town Hall on April 2nd
-Cliff Bentz on Transportation
-Cliff Bentz on Sage Grouse
-Growing up on the Ranch
-Sal Esquivel Endorses Cliff Bentz
-Does Cliff Bentz have a Hunting License?
-Five on 5 – Cliff Bentz – (R) Candidate for US House, District 2
-Cliff Bentz & President Trump Agree on Roads
-Cliff Bentz Will Stand Up for Personal Freedom
-Facebook
-Thank you Clinton Carlson and family for your support!
-Skye Krebs supports Cliff Bentz for Congress
-Klamath County Chamber of Commerce Candidate Forum
-Oregon Senate District 30
-The Northwest Cherry Festival
-Eastern Oregon Alive.TV: Why Cap and Trade is Bad for Oregon
-Eastern Oregon Alive.TV: Cliff Bentz running for Congress
-Photos
+Home Meet Cliff About Endorsements Media Issues Volunteer Contact Menu Home Meet Cliff About Endorsements Media Issues Volunteer Contact Donate Media Television Ads Other Videos Youtube Cliff Bentz for Congress Virtual Town Hall on April 2nd Cliff Bentz on Transportation Cliff Bentz on Sage Grouse Growing up on the Ranch Sal Esquivel Endorses Cliff Bentz Does Cliff Bentz have a Hunting License?
+Five on 5 – Cliff Bentz – (R) Candidate for US House, District 2 Cliff Bentz & President Trump Agree on Roads Cliff Bentz Will Stand Up for Personal Freedom Facebook Thank you Clinton Carlson and family for your support!
+Skye Krebs supports Cliff Bentz for Congress Klamath County Chamber of Commerce Candidate Forum Oregon Senate District 30 The Northwest Cherry Festival Eastern Oregon Alive.TV: Why Cap and Trade is Bad for Oregon Eastern Oregon Alive.TV: Cliff Bentz running for Congress Photos Sign Up For Udpates Name Email Sign Up Donate Today We count on people like you to chip in and make sure we can win. $25 $50 $100 $250 $500 Other CONTACT US P.O.
+Box 1048, Ontario, OR 97914 Thank you for visiting my campaign website.
+If your intention was to visit my official website please click here.
+PAGES Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy Menu Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy FOLLOW US Facebook Paid for by Cliff Bentz for Congress

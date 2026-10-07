@@ -1,13 +1,14 @@
-Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics
-Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics (and Why Niagara County Needs Backbone Too)
-Something important is happening right now—and not enough Democrats are acting like they see it.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Podcast , • 6/14/26 Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics (and Why Niagara County Needs Backbone Too) Something important is happening right now—and not enough Democrats are acting like they see it.
 Trump’s numbers are dropping.
 Not slowly.
 Not subtly.
 Dropping.
-And when you start seeing support slide toward the low 30s, that’s not just Democrats walking away.
+And when you start seeing support slide toward the low #s, that’s not just Democrats walking away.
 That means Republicans are starting to drift too.
 This is the easiest moment in ten years to show courage.
 And what do we get instead?
@@ -56,3 +57,8 @@ People are ready for leadership again.
 The only question is: who’s willing to step forward?
 I am.
 How about you?
+Previous Why Is Southern Ontario Doing Better Than Western New York?
+Next North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!

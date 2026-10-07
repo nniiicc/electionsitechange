@@ -1,12 +1,9 @@
-REAL RESULTS
-GETTING THINGS DONE
-Promises Kept, Results Delivered
-Governor Healey is moving Massachusetts forward, focusing on lowering costs, and making life better for all — and she is getting things done:
-She eliminated renters’ fees and is building 100,000 new homes to lower the cost of housing
-She is the first Governor to cap health care deductibles and co-pays
-Opposed utility rate increases and launched an Energy Affordability Agenda that will take $13 billion off your energy bills
-Transformed our veterans’ homes to give our vets the care they deserve
-Protected SNAP from federal cuts to feed kids and families
-Improved T service from 220 slow zones to zero, saving commuters more than 1 million minutes a day
-Doubled funding for our schools, made meals free, and made community college cost-free for everyone
-Cut taxes for the first time in more than 20 years, providing savings for families, seniors, and small businesses
+Skip to content Re-Elect Maura Healey for Governor and Bring People Together Get in the game and chip in to reelect Maura Healey.
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount About Meet Maura Meet Kim Accomplishments Endorsements Store News Vote About Meet Maura Meet Kim Accomplishments Endorsements Store News Vote Get Involved Get Involved Donate Donate Donate Donate REAL RESULTS GETTING THINGS DONE Promises Kept, Results Delivered Governor Healey is moving Massachusetts forward, focusing on lowering costs, and making life better for all — and she is getting things done: She eliminated renters’ fees and is building 100,000 new homes to lower the cost of housing She is the first Governor to cap health care deductibles and co-pays Opposed utility rate increases and launched an Energy Affordability Agenda that will take $13 billion off your energy bills Transformed our veterans’ homes to give our vets the care they deserve Protected SNAP from federal cuts to feed kids and families Improved T service from 220 slow zones to zero, saving commuters more than 1 million minutes a day Doubled funding for our schools, made meals free, and made community college cost-free for everyone Cut taxes for the first time in more than 20 years, providing savings for families, seniors, and small businesses OUR ACCOMPLISHMENTS ACCOMPLISHMENT Took Action to Bring Down Housing Costs ACCOMPLISHMENT Lowered Energy Costs ACCOMPLISHMENT Expanded Job Opportunities and Boosted Our State Economy ACCOMPLISHMENT Improved Roads & Public Transportation ACCOMPLISHMENT Invested in Public Education ACCOMPLISHMENT Made Health Care More Accessible and Affordable ACCOMPLISHMENT Supported Law Enforcement and Public Safety ACCOMPLISHMENT Stood Up For The People of Massachusetts ACCOMPLISHMENT Supported Massachusetts Veterans and Military Families ACCOMPLISHMENT Protected Reproductive Freedom ACCOMPLISHMENT Protected Our Environment for the Future Donate to Stand with Maura Healey $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+GET DRAFTED TO TEAM HEALEY Email Address Zip Code Phone Number (Optional) .
+By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Get Involved Get Involved Donate Donate Home Meet Maura Meet Kim Accomplishments Latest News Campaign Videos Endorsements Store Donate by Mail Maura Healey Committee PO Box 15, Boston, MA 02137 [email protected] Privacy Policy Contact Accessibility Press Inquiry Paid for by Maura Healey Committee Powered by Apollo About Meet Maura Meet Kim Accomplishments Endorsements Store News Vote Get Involved Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Threads Reelect Maura Healey $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount Click on an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately.

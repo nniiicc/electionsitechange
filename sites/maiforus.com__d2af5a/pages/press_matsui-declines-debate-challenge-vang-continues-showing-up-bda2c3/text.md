@@ -1,10 +1,8 @@
-Matsui Declines Debate Challenge, Vang Continues Showing Up
-FOR IMMEDIATE RELEASE: April 1, 2026
-SACRAMENTO, CA – Congressmember Doris Matsui has rejected a Sacramento Bee invitation to publicly debate Councilmember Mai Vang before ballots drop in May.
+0 Skip to Content About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu Folder: About Mai Back Mai's Story Endorsements District 7 Fact Check Platform Vote Folder: Get Involved Back 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Matsui Declines Debate Challenge, Vang Continues Showing Up Apr 1 Written By Jonathan Tran FOR IMMEDIATE RELEASE: April 1, 2026 SACRAMENTO, CA – Congressmember Doris Matsui has rejected a Sacramento Bee invitation to publicly debate Councilmember Mai Vang before ballots drop in May.
 Vang continues to call on Matsui to commit to at least one public debate ahead of the early vote period.
 In the meantime, Vang will join neighbors at a community forum on April 2, hosted by local neighborhood associations — one of dozens of public events she has held since launching her campaign.
 Matsui has held one in-person town hall, with pre-screened questions, since her last election.
 "When you've taken hundreds of thousands in PAC money and held a seat for 20 years, apparently you don't have to answer to the people," said Vang.
 "Voters deserve to hear directly from the people asking for their vote — not just see TV ads.
-I’ll continue showing up."
-###
+I’ll continue showing up." ### Jonathan Tran Previous Previous Press Release - Sacramento Bee: “The Sacramento Bee won’t be endorsing veteran Democrat Doris Matsui” Next Next Press Release - Mai Vang Receives California Federation of Labor Unions Endorsement CONTACT MEDIA FEC C00918037 - 1700 Tribute Rd.
+Suite 201, Sacramento, CA 95815

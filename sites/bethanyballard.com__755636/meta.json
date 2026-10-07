@@ -1,9 +1,12 @@
 {
  "description": "Bethany Ballard is the Republican candidate for Georgia State House District 147. She is asking for your vote on November 8!",
  "final_url": "https://bethanyballard.com/",
- "paid_for_by": null,
+ "fingerprint": "19abd50006d08eb4dd0b036e55a4e6e962374dae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bethany Ballard for State House",
  "years_mentioned": [
+  "1996",
   "2023"
  ]
 }

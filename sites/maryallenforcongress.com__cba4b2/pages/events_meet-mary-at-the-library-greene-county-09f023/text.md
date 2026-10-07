@@ -1,11 +1,4 @@
-Back to All Events
-Mary Allen is running for Congress and she wants to talk to you!
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Meet Mary at the Library- Greene County Friday, April 17, 2026 10:30 AM 12:00 PM Linton Public Library (Community Room) Southeast 1st Street Linton, IN, 47441 United States (map) Google Calendar ICS Mary Allen is running for Congress and she wants to talk to you!
 Bring your friends and your questions and come meet Mary!
 Everyone is welcome!
-Previous
-Previous
-April 16
-Parke County Meet the Candidates
-Next
-Next
-April 17
+Source: https://www.mobilize.us/maryallenforcongress/event/938139/ Previous Previous April 16 Parke County Meet the Candidates Next Next April 17 Coffee with a Candidate REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

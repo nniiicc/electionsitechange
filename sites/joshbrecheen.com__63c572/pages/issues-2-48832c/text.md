@@ -1,5 +1,4 @@
-Issues
-Since taking office, I’ve been hard at work supporting and advancing proven conservative policies to restore our nation.
+Vote for Josh Brecheen in the Primary on June 16 Home The Issues Meet Josh Contact Donate Endorsed by Trump Home The Issues Meet Josh Contact Donate Endorsed by Trump Issues Since taking office, I’ve been hard at work supporting and advancing proven conservative policies to restore our nation.
 Below are some of the major issues that I’m taking head-on in Washington D.C.
 Drain The Swamp – The federal government has evolved beyond anything the founders of our nation intended or even imagined.
 We must reduce Washington’s influence in our daily lives.
@@ -40,3 +39,5 @@ Second Amendment – I strongly support our second amendment right to bear arms.
 If we lose the second amendment, then our first amendment rights will soon fall.
 President Trump – I am a Constitutional Conservative and I support Donald Trump and his policies to “Make America Great Again.” We need a strong leader in the White House.
 I voted for him in the past and I will vote for him again.
+We Need Your Help!
+Paid for by Josh Brecheen For Congress 4019 W Highway 70 #310 Durant, OK 74701 Donate Privacy Policy

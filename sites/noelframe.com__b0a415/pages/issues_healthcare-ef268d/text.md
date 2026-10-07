@@ -1,39 +1,17 @@
-Healthcare Access
-Health care is a human right, and we have a responsibility in Washington to protect our residents from attacks on their coverage at the federal level.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate Healthcare Access Health care is a human right, and we have a responsibility in Washington to protect our residents from attacks on their coverage at the federal level.
 Washingtonians need and deserve accessible, affordable, high-quality health care.
 Noel fully supports creating a universal health care system for Washingtonians, as well as expanding access to comprehensive behavioral health and reproductive health services.
-Healthcare Coverage
-Our state must ensure coverage for every county and for all preventive health services.
+Healthcare Coverage Our state must ensure coverage for every county and for all preventive health services.
 Our work will not be done until there is quality, accessible and affordable health care for all.
-In the Legislature, Noel has championed:
-- HB 1688 (2022) – Protecting consumers from surprise billing (PASSED)
-- SB 5377 (2021) – Cascade Care 2.0, adding a subsidy program for the public option (PASSED)
-- SB 5399 (2021) – Creating a permanent universal health care commission (PASSED)
-- SB 5526 (2019) – Cascade Care, creating a public option for health insurance (PASSED)
-- HB 2408 (2018) – Improving individual health markets & ending "bare" counties (PASSED)
-- HB 1523 (2017) – Requiring preventive services be covered under federal Affordable Care Act (PASSED)
-Behavioral Health
-The pandemic has escalated our need for comprehensive behavioral health care, particularly for our children.
+In the Legislature, Noel has championed: HB 1688 (2022) – Protecting consumers from surprise billing (PASSED) SB 5377 (2021) – Cascade Care 2.0, adding a subsidy program for the public option (PASSED) SB 5399 (2021) – Creating a permanent universal health care commission (PASSED) SB 5526 (2019) – Cascade Care , creating a public option for health insurance (PASSED) HB 2408 (2018) – Improving individual health markets & ending "bare" counties (PASSED) HB 1523 (2017) – Requiring preventive services be covered under federal Affordable Care Act (PASSED) Behavioral Health The pandemic has escalated our need for comprehensive behavioral health care, particularly for our children.
 As the Co-Chair of the Children & Youth Behavioral Health Work Group, Noel championed a wide range of policies and budget items successfully passed into law.
 We must expand access to mental health services, fund substance use disorder treatment programs, and make sure insurance plans cover behavioral health treatment.
-In the Legislature, Noel has championed:
-- HB 1890 (2022) – Modifying and strengthening the Children & Youth Behavioral Health Work Group (PASSED)
-- 1800 (2022) – Creating a parent portal and strengthening implementation of family-initiated treatment and other laws increasing access to youth behavioral health services (PASSED)
-- HB 1874 (2019) – Family-initiated treatment for adolescent behavioral health (PRIME SPONSOR, PASSED)
-- HB 1876 (2019) – Expanding access to behavioral health services for children (PRIME SPONSOR, PASSED as SB 5903)
-- HB 1388 (2017) – Integration of behavioral and physical health (PASSED)
-Reproductive Health
-Reproductive rights are under attack across the country like never before.
+In the Legislature, Noel has championed : HB 1890 (2022) – Modifying and strengthening the Children & Youth Behavioral Health Work Group (PASSED) 1800 (2022) – Creating a parent portal and strengthening implementation of family-initiated treatment and other laws increasing access to youth behavioral health services (PASSED) HB 1874 (2019) – Family-initiated treatment for adolescent behavioral health (PRIME SPONSOR, PASSED) HB 1876 (2019) – Expanding access to behavioral health services for children (PRIME SPONSOR, PASSED as SB 5903) HB 1388 (2017) – Integration of behavioral and physical health (PASSED) Reproductive Health Reproductive rights are under attack across the country like never before.
 We must fight to protect all individuals’ right to decide if, when, and with whom to have children and support comprehensive reproductive services that include abortion.
-In the Legislature, Noel has championed:
-- HB 1851 (2022) – Preserving a pregnant individual's ability to access abortion care (PASSED)
-- SB 5395 (2019) – Making comprehensive sexual health education a requirement (PASSED)
-- SB 6219 (2018) – Reproductive Parity Act (PASSED)
-- HB 1234 (2017) – Requiring private health plans offer 12-month prescriptions of contraceptives (PASSED)
-Public Health
-Washington prospers when our communities are healthy.
+In the Legislature, Noel has championed: HB 1851 (2022) – Preserving a pregnant individual's ability to access abortion care (PASSED) SB 5395 (2019) – Making comprehensive sexual health education a requirement (PASSED) SB 6219 (2018) – Reproductive Parity Act (PASSED) HB 1234 (2017) – Requiring private health plans offer 12-month prescriptions of contraceptives (PASSED) Public Health Washington prospers when our communities are healthy.
 The past two years have shown the dire need for a robust public health response to anticipate and address public health crises.
 We must develop public health policies that rely on evidence-based research and address inequities across our communities.
-In the Legislature, Noel has championed:
-- SB 5693 (2022) – Public health investments ($192M) (PASSED)
-- HB 1152 (2021) – Increasing community involvement in public health and local boards of health (PASSED)
+In the Legislature, Noel has championed : SB 5693 (2022) – Public health investments ($192M) (PASSED) HB 1152 (2021) – Increasing community involvement in public health and local boards of health (PASSED) Previous Previous Public Safety Next Next Racial and Social Equity HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

@@ -1,4 +1,4 @@
-The first U.S. oil refinery in almost 50 years is opening in Brownsville, Texas, proving that Texas will continue to power the world.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page Texas is America’s Energy Capital Apr 7, 2026 The first U.S. oil refinery in almost 50 years is opening in Brownsville, Texas, proving that Texas will continue to power the world.
 Thanks to the new plant, $125 billion of U.S. light shale oil will be purchased and processed, $175 billion worth of oil will be refined, and the U.S. trade imbalance will improve by $300 billion.
 This historic investment will further expand Texas’ affordable and reliable energy sources, all while bringing thousands of permanent, high-paying jobs to Texans.
 Importantly, the refinery will process light shale oil that is made right here in the U.S.A.
@@ -12,7 +12,9 @@ Last year, he did just that by signing legislation to promote growth in the petr
 To protect Texas’ black gold, the Governor created the petroleum product theft task force and gave the Texas Department of Public Safety additional tools to combat theft.
 By preventing oil theft, Texas can grow its economy and keep gas cheap.
 Texas has always been at the top in the energy sector.
-In 2024, Texas was the 4th largest producer of oil in the world.
+In 2024, Texas was the 4th largest producer of oil in the world .
 But Governor Abbott wants to raise our state’s standing.
 That’s why, in collaboration with the Trump administration, he has championed workforce and economic development initiatives that will keep Texas running.
 By attracting companies like Chevron and ExxonMobil through Texas’ business-friendly policies, Governor Abbott has shown his commitment to fueling the nation.
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

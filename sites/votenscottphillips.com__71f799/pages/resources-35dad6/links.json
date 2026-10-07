@@ -1,17 +1,70 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSe5u9R2ihZDSfQnl1tNhlja_-zQrSDnKgS_xVIt8NyzMkGXrA/viewform",
-"https://elections.maryland.gov/about/county_boards.html",
-"https://elections.maryland.gov/voting/documents/Mail-in%20Ballot%20Application_English.pdf",
-"https://facebook.com/Vote-N-Scott-Phillips-103654175513848",
-"https://instagram.com/votenscottphillips",
-"https://secure.actblue.com/donate/citizens-for-n--scott-phillips-1",
-"https://twitter.com/votensp",
-"https://votenscottphillips.com/",
-"https://votenscottphillips.com/meet-scott",
-"https://votenscottphillips.com/priorities",
-"https://votenscottphillips.com/resources",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch",
-"https://voterservices.elections.maryland.gov/onlinemailinrequest/InstructionsStep1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-n--scott-phillips-1"
+},
+{
+"text": "Home",
+"href": "https://votenscottphillips.com/"
+},
+{
+"text": "Meet N. Scott",
+"href": "https://votenscottphillips.com/meet-scott/"
+},
+{
+"text": "Priorities",
+"href": "https://votenscottphillips.com/priorities/"
+},
+{
+"text": "Resources",
+"href": "https://votenscottphillips.com/resources/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe5u9R2ihZDSfQnl1tNhlja_-zQrSDnKgS_xVIt8NyzMkGXrA/viewform"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://votenscottphillips.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votensp"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Vote-N-Scott-Phillips-103654175513848"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votenscottphillips/"
+},
+{
+"text": "candidate@nscottphillips.com",
+"href": "mailto:candidate@nscottphillips.com"
+},
+{
+"text": "here",
+"href": "https://elections.maryland.gov/voting/documents/Mail-in%20Ballot%20Application_English.pdf"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/onlinemailinrequest/InstructionsStep1"
+},
+{
+"text": "local board of election",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+}
 ]

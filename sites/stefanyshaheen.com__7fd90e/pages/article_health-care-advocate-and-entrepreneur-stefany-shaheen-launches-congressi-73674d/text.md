@@ -1,12 +1,10 @@
-A Lifelong Granite Stater, Shaheen Vows To Fight Back Against Trump, Elon, and RFK Jr.’s Assault on Health Care
-Stefany Shaheen, a health care advocate and entrepreneur, today announced she will be a candidate for Congress in New Hampshire’s First District, vowing to stand up for New Hampshire families against the assault on their health care by Donald Trump, Robert F.
+Menu Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Health Care Advocate and Entrepreneur Stefany Shaheen Launches Congressional Campaign May 28, 2025 A Lifelong Granite Stater, Shaheen Vows To Fight Back Against Trump, Elon, and RFK Jr.’s Assault on Health Care Stefany Shaheen, a health care advocate and entrepreneur, today announced she will be a candidate for Congress in New Hampshire’s First District, vowing to stand up for New Hampshire families against the assault on their health care by Donald Trump, Robert F.
 Kennedy Jr. and the Republicans in Congress.
 “For 15 years I’ve been a fierce fighter for medical research and innovation in health care to help people like my daughter, Elle, battling chronic, life-threatening diseases, like diabetes.
 So, when I see Donald Trump crushing medical research and slashing health care for kids, seniors and veterans to give tax breaks to billionaires and corporations, I have to fight back.
 That’s why I’m running for Congress,” said Shaheen.
 “No one fights harder than a mom for her kids, and that’s how I will fight for your family too.
-I’ll never give up.”
-Stefany is the mother of four children and her eldest daughter, Elle, was eight years old when she was diagnosed with type 1 diabetes.
+I’ll never give up.” Stefany is the mother of four children and her eldest daughter, Elle, was eight years old when she was diagnosed with type 1 diabetes.
 The disease’s relentless demands moved Stefany to co-found Good Measures, a small business that provides clinical and nutritional support to people living with chronic conditions.
 Stefany is a named inventor on the company’s patents in the United States and internationally.
 Stefany wrote a book about her family’s journey, Elle & Coach, which became a New York Times best seller.
@@ -37,4 +35,4 @@ Alan Moses, Joslin’s Diabetes Center Board of Trustees.
 “Coach Stefany believed in our ability and the importance she placed on details, determination, hard work, and preparation helped our team make state volleyball history.
 Long after my high school career, Coach Stefany’s support continued, always celebrating my achievements and reminding me that the values learned from sport transcend into every aspect of life.
 That is the kind caring and committed person she is,” said Corinne Lamond, former Portsmouth High School volleyball player.
-###
+### Meet Stefany Why I’m Running Priorities News Endorsements Events Volunteer Yard Sign Donate Stefany Shaheen for Congress PO Box 193 Manchester, NH 03105 info@stefanyshaheen.com Privacy Policy © 2026 Paid for by Stefany Shaheen for Congress

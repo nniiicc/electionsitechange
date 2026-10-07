@@ -1,8 +1,6 @@
-Terms & Conditions
-Friends of Forsythe
-1.
-By opting in to receive text messages from Friends of Forsythe, you consent to receive voter contact, donation asks, and informational messages
-2.
+Meet Jessica Issues Successes!
+Volunteer Endorsements Media Campaign Swag Contribute Terms of Service Terms & Conditions Friends of Forsythe 1.
+By opting in to receive text messages from Friends of Forsythe , you consent to receive voter contact, donation asks, and informational messages 2.
 You can cancel the SMS service at any time.
 Just text "STOP" to the short code.
 After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed.
@@ -11,10 +9,11 @@ If you want to join again, just sign up as you did the first time and we will st
 3.
 If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at info@voteforsythe.com.
 4.
-Carriers are not liable for delayed or undelivered messages
-5.
+Carriers are not liable for delayed or undelivered messages 5.
 As always, message and data rates may apply for any messages sent to you from us and to us from you.
-You will receive no more than 6 times a month.
+You will receive no more than 6 times a month .
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 6.
-If you have any questions regarding privacy, please read our privacy policy: voteforsythe.com/privacypolicy
+If you have any questions regarding privacy, please read our privacy policy: voteforsythe.com/privacypolicy Copyright © All Rights Reserved.
+Paid for by Friends of Forsythe P.O.
+Box 853, Redmond, WA 98073 Terms of Service and Privacy Policy Share by:

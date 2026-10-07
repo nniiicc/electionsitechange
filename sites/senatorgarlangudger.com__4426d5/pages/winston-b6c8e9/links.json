@@ -1,28 +1,110 @@
 [
-"http://advantagealabama.com/county/133/winston/edpa-advantage-alabama-county.html",
-"http://city-data.com/city/Haleyville-Alabama.html",
-"http://freestateofwinston.org/",
-"http://haleyvillechamber.org/Haleyville-Area-Chamber-of-Commerce",
-"http://legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Estes&OID_SPONSOR=100497&OID_PERSON=8494&SESSNAME=Regular+Session+2020",
-"http://legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Robertson&OID_SPONSOR=100487&OID_PERSON=8491&SESSNAME=Regular+Session+2020",
-"http://legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Wadsworth&OID_SPONSOR=100494&OID_PERSON=7704&SESSNAME=Regular+Session+2020",
-"https://facebook.com/pages/Looneys-Tavern/211481768915123",
-"https://senatorgarlangudger.com/",
-"https://senatorgarlangudger.com/about",
-"https://senatorgarlangudger.com/contact-8",
-"https://senatorgarlangudger.com/credentials",
-"https://senatorgarlangudger.com/cullman",
-"https://senatorgarlangudger.com/district-4-news",
-"https://senatorgarlangudger.com/funding-improvements",
-"https://senatorgarlangudger.com/marion",
-"https://senatorgarlangudger.com/media",
-"https://senatorgarlangudger.com/meet-your-senator",
-"https://senatorgarlangudger.com/privacy-policy",
-"https://senatorgarlangudger.com/sponsored-bills",
-"https://senatorgarlangudger.com/terms-and-conditions",
-"https://senatorgarlangudger.com/winston",
-"https://sites.google.com/hcspride.com/haleyvillecityschools/home",
-"https://town-of-addison.com/",
-"https://winstoncountyarts.org/",
-"https://winstonk12.org/"
+{
+"text": "About",
+"href": "https://www.senatorgarlangudger.com/about"
+},
+{
+"text": "Addison",
+"href": "https://town-of-addison.com/"
+},
+{
+"text": "Arts Council",
+"href": "https://www.winstoncountyarts.org"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorgarlangudger.com/contact-8"
+},
+{
+"text": "Credentials",
+"href": "https://www.senatorgarlangudger.com/credentials"
+},
+{
+"text": "Cullman",
+"href": "https://www.senatorgarlangudger.com/cullman"
+},
+{
+"text": "District 4 News",
+"href": "https://www.senatorgarlangudger.com/district-4-news"
+},
+{
+"text": "Economic Development Information",
+"href": "http://advantagealabama.com/county/133/winston/edpa-advantage-alabama-county.html"
+},
+{
+"text": "Funding & Improvements",
+"href": "https://www.senatorgarlangudger.com/funding-improvements"
+},
+{
+"text": "Garlan.Gudger@alsenate.gov",
+"href": "mailto:Garlan.Gudger@alsenate.gov"
+},
+{
+"text": "Haleyville",
+"href": "http://www.city-data.com/city/Haleyville-Alabama.html"
+},
+{
+"text": "Haleyville Chamber of Commerce",
+"href": "http://haleyvillechamber.org/Haleyville-Area-Chamber-of-Commerce/"
+},
+{
+"text": "Haleyville School District",
+"href": "https://sites.google.com/hcspride.com/haleyvillecityschools/home"
+},
+{
+"text": "Home",
+"href": "https://www.senatorgarlangudger.com"
+},
+{
+"text": "Looney's Tavern",
+"href": "https://www.facebook.com/pages/Looneys-Tavern/211481768915123"
+},
+{
+"text": "Marion",
+"href": "https://www.senatorgarlangudger.com/marion"
+},
+{
+"text": "Media",
+"href": "https://www.senatorgarlangudger.com/media"
+},
+{
+"text": "Meet Your Senator",
+"href": "https://www.senatorgarlangudger.com/meet-your-senator"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.senatorgarlangudger.com/privacy-policy"
+},
+{
+"text": "Rep Tim Wadsworth (R) - 14th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Wadsworth&OID_SPONSOR=100494&OID_PERSON=7704&SESSNAME=Regular+Session+2020"
+},
+{
+"text": "Rep Tracy Estes (R) - 17th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Estes&OID_SPONSOR=100497&OID_PERSON=8494&SESSNAME=Regular+Session+2020"
+},
+{
+"text": "Rep. Proncey Robertson (R) – 7th District",
+"href": "http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Robertson&OID_SPONSOR=100487&OID_PERSON=8491&SESSNAME=Regular+Session+2020"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://www.senatorgarlangudger.com/sponsored-bills"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.senatorgarlangudger.com/terms-and-conditions"
+},
+{
+"text": "Winston",
+"href": "https://www.senatorgarlangudger.com/winston"
+},
+{
+"text": "Winston County Commission",
+"href": "http://www.freestateofwinston.org/"
+},
+{
+"text": "Winston County School",
+"href": "https://www.winstonk12.org/"
+}
 ]

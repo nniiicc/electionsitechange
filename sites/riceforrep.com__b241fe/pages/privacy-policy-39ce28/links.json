@@ -1,10 +1,54 @@
 [
-"https://facebook.com/RiceForRep",
-"https://riceforrep.com/",
-"https://riceforrep.com/abouttodd",
-"https://riceforrep.com/contact",
-"https://riceforrep.com/issues",
-"https://riceforrep.com/media",
-"https://riceforrep.com/privacy-policy",
-"https://secure.winred.com/friends-of-todd-rice-2026/donate-today"
+{
+"text": "ABOUT TODD",
+"href": "https://www.riceforrep.com/abouttodd"
+},
+{
+"text": "CONTACT",
+"href": "https://www.riceforrep.com/contact"
+},
+{
+"text": "CONTACT PRIVACY POLICY",
+"href": "https://www.riceforrep.com/privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-todd-rice-2026/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.riceforrep.com"
+},
+{
+"text": "HOME",
+"href": "https://www.riceforrep.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.riceforrep.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.riceforrep.com/media"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RiceForRep/"
+},
+{
+"text": "[image: Todd Rice Final Logo_Todd Rice_Logo for Red.png]",
+"href": "https://www.riceforrep.com"
+},
+{
+"text": "[image: Todd Rice Final Logo_Todd Rice_Logo.png]",
+"href": "https://www.riceforrep.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/RiceForRep/"
+},
+{
+"text": "please contact us.",
+"href": "https://www.riceforrep.com/contact"
+}
 ]

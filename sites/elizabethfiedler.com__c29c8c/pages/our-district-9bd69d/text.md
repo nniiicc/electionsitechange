@@ -1,10 +1,4 @@
-District 184
-The 184th district is located in South Philadelphia, largely south of Wharton Street and east of Broad Street.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate District 184 The 184th district is located in South Philadelphia, largely south of Wharton Street and east of Broad Street.
 Our district is home to many people from many countries and cultures who speak more than 40 languages and dialects.
-Elizabeth on the issues
-Schools
-Fighting for resources to help students, teachers and staff thrive
-Democracy
-Putting power in peoples’ hands
-Climate & economy
-Creating new jobs while advancing a greener world for us all
+Elizabeth on the issues Schools Fighting for resources to help students, teachers and staff thrive Read More Democracy Putting power in peoples’ hands Read More Climate & economy Creating new jobs while advancing a greener world for us all Read More View all issues → Support our efforts $15 $20 $35 Other Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

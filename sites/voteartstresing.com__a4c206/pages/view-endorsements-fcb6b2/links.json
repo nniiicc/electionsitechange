@@ -1,25 +1,98 @@
 [
-"https://campaignpartner.com/",
-"https://demvetsfl.org/dvcf-candidate-endorsements",
-"https://docs.google.com/spreadsheets/d/12ezWJSJoD0BXAWeyXhcLeKMYkYnrbFzUpgcrQD3oSCw/htmlview",
-"https://dpecf.org/endorsements",
-"https://dwcsjc.org/",
-"https://environmentalcaucus.com/candidaterecruitment/environmental-caucus-endorsements",
-"https://facebook.com/pontevedrademocrats?http_ref=eyJ0cyl6MTc4NzU4Nzl2OTAwMCwicil6liJ9",
-"https://facebook.com/profile.php?id=61590713094866",
-"https://instagram.com/artstresingfl18",
-"https://instagram.com/p/Daa3IxrFYy_",
-"https://jacksonvillenow.org/copy-of-2024-endorsements-1",
-"https://nwstjohnsup.com/",
-"https://sjcdbc.org/",
-"https://stjohnsdemocrats.org/",
-"https://voteartstresing.com/",
-"https://voteartstresing.com/REACHOUTFLORIDA.COM",
-"https://voteartstresing.com/contribute",
-"https://voteartstresing.com/events",
-"https://voteartstresing.com/home",
-"https://voteartstresing.com/photos",
-"https://voteartstresing.com/view-endorsements",
-"https://voteartstresing.com/volunteer",
-"https://voteartstresing.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contribute",
+"href": "https://voteartstresing.com/contribute"
+},
+{
+"text": "DPCF Endorsement",
+"href": "https://www.instagram.com/p/Daa3IxrFYy_/"
+},
+{
+"text": "DPECF",
+"href": "https://www.dpecf.org/endorsements"
+},
+{
+"text": "Democratic Environmental Caucus of Florida",
+"href": "https://www.environmentalcaucus.com/candidaterecruitment/environmental-caucus-endorsements/"
+},
+{
+"text": "Democratic Veterans Caucus of Florida",
+"href": "https://demvetsfl.org/dvcf-candidate-endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://voteartstresing.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://voteartstresing.com/events"
+},
+{
+"text": "Florida Democratic Agricultural Caucus",
+"href": "https://docs.google.com/spreadsheets/d/12ezWJSJoD0BXAWeyXhcLeKMYkYnrbFzUpgcrQD3oSCw/htmlview"
+},
+{
+"text": "Home",
+"href": "https://voteartstresing.com/home"
+},
+{
+"text": "Jax NOW",
+"href": "https://www.jacksonvillenow.org/copy-of-2024-endorsements-1"
+},
+{
+"text": "NWSJCUP",
+"href": "https://nwstjohnsup.com"
+},
+{
+"text": "Photos",
+"href": "https://voteartstresing.com/photos"
+},
+{
+"text": "Ponte Vedra Democratic Club",
+"href": "https://www.facebook.com/pontevedrademocrats/?http_ref=eyJ0cyl6MTc4NzU4Nzl2OTAwMCwicil6liJ9"
+},
+{
+"text": "REACH OUT FLORIDA",
+"href": "https://voteartstresing.com/REACHOUTFLORIDA.COM"
+},
+{
+"text": "St. Johns County Democratic Black Caucus",
+"href": "https://sjcdbc.org"
+},
+{
+"text": "St. Johns County Democratic Party",
+"href": "https://stjohnsdemocrats.org"
+},
+{
+"text": "St. Johns County Democratic Women's Club",
+"href": "https://dwcsjc.org"
+},
+{
+"text": "VOTING INFO",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://voteartstresing.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://voteartstresing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590713094866"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/artstresingfl18/"
+}
 ]

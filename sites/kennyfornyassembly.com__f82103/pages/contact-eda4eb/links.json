@@ -1,7 +1,26 @@
 [
-"https://kennyfornyassembly.com/",
-"https://kennyfornyassembly.com/about",
-"https://kennyfornyassembly.com/cart",
-"https://kennyfornyassembly.com/contact",
-"https://kennyfornyassembly.com/issues"
+{
+"text": "0",
+"href": "https://www.kennyfornyassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.kennyfornyassembly.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kennyfornyassembly.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://www.kennyfornyassembly.com/issues"
+},
+{
+"text": "Kenny For NY Assembly",
+"href": "https://www.kennyfornyassembly.com/"
+},
+{
+"text": "tkennyforassembly@gmail.com",
+"href": "mailto:tkennyforassembly@gmail.com"
+}
 ]

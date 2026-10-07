@@ -1,7 +1,7 @@
-From the beaches to the mountains to the forests, Oregon’s natural beauty makes our state special.
+Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Skip to content Chip In to Help Reelect Tina Kotek Donate Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Protecting Oregon’s Land, Water, and Air From the beaches to the mountains to the forests, Oregon’s natural beauty makes our state special.
 Governor Kotek has doubled down on protecting Oregon’s land, water, and air while ensuring Oregon does its part in tackling the climate crisis.
-- Governor Kotek issued an executive order directing state agencies to move faster to address our climate crisis.
-- Governor Kotek signed an executive order to boost the climate resilience of Oregon’s state lands and waters.
+Governor Kotek issued an executive order directing state agencies to move faster to address our climate crisis.
+Governor Kotek signed an executive order to boost the climate resilience of Oregon’s state lands and waters.
 The executive order directs state agencies to include strategies to combat climate change in programs that affect state-owned land.
-- Governor Kotek signed legislation setting a goal of lowering utility bills by installing 500,000 high-efficiency heat pumps in homes and commercial buildings.
-The Oregonian: Bills advance to help Oregonians with utility hikes, adapt to extreme weather
+Governor Kotek signed legislation setting a goal of lowering utility bills by installing 500,000 high-efficiency heat pumps in homes and commercial buildings.
+The Oregonian: Bills advance to help Oregonians with utility hikes, adapt to extreme weather press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

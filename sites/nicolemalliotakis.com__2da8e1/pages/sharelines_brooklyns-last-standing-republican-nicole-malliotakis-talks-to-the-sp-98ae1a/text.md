@@ -1,4 +1,4 @@
-Brooklyn’s last remaining Republican lawmaker is ready to take on some new challenges.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Brooklyn Spectator Brooklyn’s last standing Republican Nicole Malliotakis talks to the Spectator Aug 07, 2019 Brooklyn’s last remaining Republican lawmaker is ready to take on some new challenges.
 When the Blue Wave swept over the former Republican stronghold of Southern Brooklyn and Staten Island in 2018, it took with it incumbent pols U.S.
 Rep.
 Dan Donovan and State Sen.
@@ -8,7 +8,7 @@ Serving her fifth term and ninth year in office, Malliotakis is now running for 
 Malliotakis is the daughter of immigrants; her father is an immigrant from Greece and her mother is a Cuban exile of the Castro dictatorship.
 She was the first Hispanic-American elected from Richmond County.
 She graduated from Wagner College and has served in the Assembly since 2011.
-Prior to being elected, Malliotakis served as a liaison for the late State Sen.
+DONATE NOW Prior to being elected, Malliotakis served as a liaison for the late State Sen.
 John Marchi and Gov.
 George Pataki.
 Subsequent to Pataki’s departure from office, she worked as a public affairs manager for Con Edison, focusing on the state’s energy, economic and environmental policies.
@@ -31,7 +31,7 @@ I feel that I have a better platform to fight for my constituents as a member of
 And even Democrats should want at least one voice of opposition to what [Rep.
 Alexandria} Ocasio-Cortez and other members are proposing, because it’s best when you have both sides of the spectrum represented so you end up with better policy.
 Right now we don’t have that.
-Spectator: You are the last Republican standing in Brooklyn.
+DONATE NOW Spectator: You are the last Republican standing in Brooklyn.
 That must be both rewarding one sense and frustrating in another, especially in light of the last election where Republicans lost both the Senate and Congressional seats.
 Malliotakis: This last year in Albany has been very frustrating because I’ve seen a flip in the Senate.
 I lost a good partner in [former State Sen.] Marty Golden and a lot of the policies that I fought so hard to stop over the last eight years are becoming law.
@@ -50,8 +50,7 @@ You helped the automatic voter registration bill get pulled from the Assembly ag
 Malliotakis: Yes, I was against New York State extending licenses for illegal immigrants.
 And subsequent to that, they attempted to pass legislation that would have automatically registered everyone who applied for a driver’s license to vote.
 The burden would have fallen on the applicant to say that they were not eligible.
-So, if someone walked into a DMV with a foreign passport and they applied for a driver’s license, that application would be automatically forwarded to the Board of Elections to have them registered to vote unless the individual was honest and opted out and said ‘I’m not eligible.’
-It made absolutely no sense.
+So, if someone walked into a DMV with a foreign passport and they applied for a driver’s license, that application would be automatically forwarded to the Board of Elections to have them registered to vote unless the individual was honest and opted out and said ‘I’m not eligible.’ It made absolutely no sense.
 Why would the state pass on an application if someone used a foreign passport?
 So, we exposed the bill because it would have led to non-citizens being registered to vote.
 Gov.
@@ -78,3 +77,4 @@ That’s why we have a two-party system — to make sure that we have representa
 Spectator: One last question, if you could give Bill de Blasio some advice about running for president, what would it be?
 Malliotakis: Just don’t run.
 Just don’t run for anything ever again.
+DONATE NOW NEXT ARTICLE Assemblywoman Malliotakis Visits Israel As She Kicks Off Congressional Campaign PREVIOUS ARTICLE Malliotakis trolls de Blasio while he’s campaigning in Iowa STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

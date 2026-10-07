@@ -1,24 +1,9 @@
-Press Release
-Posted:
-Napa, CA – On Monday, October 5th at 10:00 am Rep.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Thompson, Highest Ranking Woman in Congress Katherine Clark to Host Women's Forum Press Release Posted: October 1, 2026 Napa, CA – On Monday, October 5th at 10:00 am Rep.
 Mike Thompson and House Democratic Whip Katherine Clark will host a forum on women's issues and Congress' work to advance opportunities for women.
 Whip Clark is the highest-ranking woman in Congress.
 Thompson and Clark will be joined by local leaders for a panelist discussion and audience Q&A.
 All constituents of California’s Fourth Congressional District and members of the press are invited to attend.
-Press should RSVP to Lauren Ott (Lauren.Ott@mail.house.gov).
-WHO:
-Rep.
-Mike Thompson
-House Democratic Whip Katherine Clark
-Jennifer Yasumoto, Director of Health and Human Services, Napa County
-Councilwoman Gloria Partida, City of Davis
-Jennielynn Holmes, Director of Shelter and Housing for Catholic Charities; Member, Commission on the Status of Women, Sonoma County
-Catalina Silva-Oliveira, Community Leader & Former President, Davis College Democrats
-WHAT:
-Panelist Forum and Q&A
-WHEN:
-Redwood Credit Union, Community Room
-480 Devlin Rd
-Napa, CA 94558
-WHERE:
-Press should RSVP to Lauren.Ott@mail.house.gov
+Press should RSVP to Lauren Ott ( Lauren.Ott@mail.house.gov ).
+WHO: Rep.
+Mike Thompson House Democratic Whip Katherine Clark Jennifer Yasumoto, Director of Health and Human Services, Napa County Councilwoman Gloria Partida, City of Davis Jennielynn Holmes, Director of Shelter and Housing for Catholic Charities; Member, Commission on the Status of Women, Sonoma County Catalina Silva-Oliveira, Community Leader & Former President, Davis College Democrats WHAT: Panelist Forum and Q&A WHEN: Redwood Credit Union, Community Room 480 Devlin Rd Napa, CA 94558 WHERE: Press should RSVP to Lauren.Ott@mail.house.gov Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

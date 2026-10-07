@@ -1,4 +1,5 @@
-Twenty-five years ago I graduated from the University of Utah College of Law and took a job as a deputy prosecuting attorney for Bingham County.
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Criminal Justice Twenty-five years ago I graduated from the University of Utah College of Law and took a job as a deputy prosecuting attorney for Bingham County.
 I have practiced in criminal law in Bingham County–in approximately equal parts as a defense attorney and as a prosecutor–ever since.
 I have a great appreciation for our criminal justice system.
 I agree with those who describe it as “the best criminal justice system in the world”.
@@ -20,3 +21,4 @@ It means high recidivism rates and low success rates when it comes to rehabilita
 “Common Sense Conservatism” means that we don’t overspend tax dollars on non solutions.
 I do not pretend to have all the answers when it comes to criminal justice policy.
 But, as a person who has experience in the criminal justice system, my commitment is to look for and embrace common sense reform that reduces out-of-pocket expenditures, reduces collateral damage to society, increases rehabilitation of nonviolent offenders and increases the likelihood of getting offenders out of the criminal justice “spiral”, and into productive, law-abiding life.
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

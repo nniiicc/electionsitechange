@@ -1,6 +1,4 @@
-Meet Elizabeth
-Proud to serve
-Elizabeth’s work as a State Representative comes from her belief that every person should have quality healthcare so they can be as healthy as possible, a quality school in their neighborhood so their children can accomplish their goals and find a career, and safe and stable housing in their community.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Meet Elizabeth Proud to serve Elizabeth’s work as a State Representative comes from her belief that every person should have quality healthcare so they can be as healthy as possible, a quality school in their neighborhood so their children can accomplish their goals and find a career, and safe and stable housing in their community.
 At the Capitol in Harrisburg, and at home in South Philly, Elizabeth works every day to serve her neighbors, not the super-rich or big corporations.
 Elizabeth is the child of two union public school teachers who taught her firsthand about equality and about the power of a union.
 Elizabeth carried that vision with her when she announced, as the parent of a 3-month-old baby and a toddler, she was running a grassroots people-powered campaign for state House.
@@ -9,11 +7,5 @@ Before her successful run for State Representative, Elizabeth spent a decade as 
 She continues to use her reporting skills in her new role, including during her time as a member of the state house Appropriations Committee since her first year.
 She is dedicated to asking tough questions of people in power and amplifying the needs and voices of working people across her district and the state.
 She is proud to work arm in arm with many unions, marching by their side on the picket line and supporting workers’ rights to organize and to fight for safe working conditions, fair pay and benefits.
-Support our efforts
-Elizabeth on the issues
-Schools
-Fighting for resources to help students, teachers and staff thrive
-Democracy
-Putting power in peoples’ hands
-Climate & economy
-Creating new jobs while advancing a greener world for us all
+Support our efforts $15 $20 $35 Other Elizabeth on the issues Schools Fighting for resources to help students, teachers and staff thrive Read More Democracy Putting power in peoples’ hands Read More Climate & economy Creating new jobs while advancing a greener world for us all Read More View all issues → Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

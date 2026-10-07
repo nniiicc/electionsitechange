@@ -1,7 +1,9 @@
 {
  "description": "Hope Tinker is a community health advocate in Fayette, dedicated to hospice care and improving local health.",
  "final_url": "https://hopetinker.org/about",
- "paid_for_by": null,
+ "fingerprint": "ec36e3107100294be1fcb8f6186dbf353c1e4a73",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ABOUT",
  "years_mentioned": []
 }

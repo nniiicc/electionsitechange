@@ -1,21 +1,8 @@
-Proudly Endorsed By
-Tom andersen
-Oregon State Representative
-lesly muñoz
-Oregon State Representative
-Jeff Merkley
-ron wyden
-U.S.
-Senator, OregonU.S.
-Senator, Oregon
-Organizations
-Community leaders
-“I wholeheartedly endorse Michael for HD-21 and I’m confident he will be a compassionate, capable representative for the entire population of HD-21.”
-– Robert Husseman, Keizer Resident
-“I saw Michael advocate for the Community Diversity Equity Committee in Keizer last year.
+0 Skip to Content Priorities Meet Michael Endorsements Get Involved Donate Open Menu Close Menu Priorities Meet Michael Endorsements Get Involved Donate Open Menu Close Menu Priorities Meet Michael Endorsements Get Involved Donate Proudly Endorsed By Tom andersen Oregon State Representative lesly muñoz Oregon State Representative Jeff Merkley ron wyden U.S.
+Senator, Oregon U.S.
+Senator, Oregon Organizations Community leaders “I wholeheartedly endorse Michael for HD-21 and I’m confident he will be a compassionate, capable representative for the entire population of HD-21.” – Robert Husseman , Keizer Resident “I saw Michael advocate for the Community Diversity Equity Committee in Keizer last year.
 I heard him give public comment in support of marginalized communities.
 Now, Michael is running for House District 21!
-He will be the leader Salem and Keizer residents need at the State House.”
-– Jane Tichenal, Keizer Resident
-“You are what we need!”
-– Gwen Carr, Keizer Resident
+He will be the leader Salem and Keizer residents need at the State House.” – Jane Tichenal , Keizer Resident “You are what we need!” – Gwen Carr , Keizer Resident And many more: <> Spencer Rosenau <> Mai Vang <> Chelsea Alionar <> Larry Scruggs <> Virginia Stapleton <> Spencer Rosenau <> Mai Vang <> Chelsea Alionar <> Larry Scruggs <> Virginia Stapleton <> Spencer Rosenau <> Mai Vang <> Chelsea Alionar <> Larry Scruggs <> Virginia Stapleton support Michael welsh Add your name to endorse Michael for Oregon House Welsh for Oregon • House District 21 • Welsh for Oregon • House District 21 • Welsh for Oregon • House District 21 • join us!
+Get Involved Make a Donation #ago $10 $50 $250 $25 $100 $500 CONTACT Michael: (503) 689-5168 michael@welshfororegon.com Welsh for Oregon P.O.
+Box 42307 Portland, Oregon 97242 Paid for by Welsh for Oregon: 24905 Site Credits

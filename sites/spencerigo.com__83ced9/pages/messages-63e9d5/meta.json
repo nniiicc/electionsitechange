@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://spencerigo.com/messages",
- "paid_for_by": null,
+ "fingerprint": "edf4b99fca0e62d708c883ad8c87edd21ddeffec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Messages",
  "years_mentioned": []
 }

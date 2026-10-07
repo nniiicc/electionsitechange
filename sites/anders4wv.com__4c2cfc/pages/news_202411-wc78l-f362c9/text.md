@@ -1,4 +1,3 @@
-Victory
-November 6, 2024
-Martinsburg, WV—Republican S.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Victory Nov 6 Written By ₿ November 6, 2024 Martinsburg, WV—Republican S.
 Chris Anders, endorsed by the National Association for Gun Rights, West Virginia Citizens Defense League, Students for Life, the Eastern Panhandle Business Association, Health Freedom Alliance, Make Liberty Win, We the People of West Virginia, Freedom Caucus, the NRA and many more, has emerged victorious as the new Delegate for District 97.
+PDF press release download ₿ Previous Previous Monday Morning Update anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

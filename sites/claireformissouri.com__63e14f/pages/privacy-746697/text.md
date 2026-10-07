@@ -1,5 +1,4 @@
-Terms of Service
-Hey, you're actually reading the privacy policy!
+Privacy Policy / Terms of Service Hey, you're actually reading the privacy policy!
 I think that's awesome - let me tell you why.
 So much of what goes on in Jeff City and around the country is like this privacy policy.
 Everyone is supposed to be paying attention - but so many really aren't.
@@ -7,13 +6,7 @@ Everyone needs SOMEONE to read it and blow the whistle when something's out of l
 I want to be that person for you in Jeff City.
 I read the 'fine print', and it seems you do too.
 Looks like we have that in common!
-We believe in privacy at claireformissouri.com.
-We aren't tracking individual people here.
-Look, laugh, point, smile -all are welcome.
-You will notice there was no tracking 'cookie' notice when you arrived - because we don't use them.
-We don't sell your data - there are enough people doing that already.
-If you are reading this out loud in front of an Alexa, you might get an offer for a claireformissouri.com shirt on your Facebook page, but that wasn't us doing it.
-Our web server tracks the IP addresses of the individual visitors to the site - all web servers do.
+The Actual Privacy Policy Our web server tracks the IP addresses of the individual visitors to the site - all web servers do.
 We also use Google Analytics to produce reports on web traffic.
 Despite what you see on TV, we can't really tell who you are by your IP address.
 Your ISP can, but we cannot.
@@ -31,5 +24,7 @@ Text STOP to opt-out.
 Call us by phone at 636-4CLAIRE for assistance.
 Message frequency may vary.
 SMS opt-in data or phone numbers will not be sold, rented, or shared with third parties.
-You made it to the bottom of the whole thing - you are my kind of people!
--Claire
+You made it to the bottom of the whole thing - you are my kind of people! -Claire Missouri, We Can Do Better!
+Paid for by Citizens for Claire Heinrich, Michael Cooper, Treasurer. © #. claireformissouri.com .
+All Rights Reserved.
+Privacy Policy | Legal Notice

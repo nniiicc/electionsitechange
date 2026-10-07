@@ -1,5 +1,4 @@
-July 12, 2020
-It's been over four months since Pennsylvania first launched a disaster emergency and mitigation efforts to fight the spread of COVID-19.
+Home Donate Blog News About Connect Cruel & Inhumane, Not Worth the Price July 12, 2020 It's been over four months since Pennsylvania first launched a disaster emergency and mitigation efforts to fight the spread of COVID-19.
 While these efforts were launched in the spirit of protecting public health and safety, the long-term results will be anything but.
 In the name of caring for others, some have fully bought into a regimen which is destructive to human well-being.
 How did we get here?
@@ -19,11 +18,10 @@ The mental math you're doing every time you're measuring how many feet exist bet
 One cannot adequately function as a human being if one's guard is always up.
 Anyone who knows anything about addiction can tell you how social isolation contributes to such dysfunction.
 Those who don't only need to learn about the work of Dr.
-Bruce Alexander and his "rat park" experiments.
+Bruce Alexander and his "rat park" experiments .
 Interviews with captives during the Iran hostage crisis and former POWs further highlight the devastating psychological impacts of social isolation.
 Sen.
-John McCain was physically brutalized during his time as a prisoner of war in Vietnam, but of the social isolation he experienced during the same captivity he said in his book Ovecoming Adversity, "It crushes your spirit and weakens your resistance more effectively than any other form of mistreatment."
-Human beings thrive on being close to one another and touching one another, but social distancing has even effectively banished the age-old custom of handshaking as a customary greeting, which is said to have originated to alleviate suspicion among ancient Greeks and to encourage an egalitarian attitude by American Quakers.
+John McCain was physically brutalized during his time as a prisoner of war in Vietnam, but of the social isolation he experienced during the same captivity he said in his book Ovecoming Adversity , "It crushes your spirit and weakens your resistance more effectively than any other form of mistreatment." Human beings thrive on being close to one another and touching one another, but social distancing has even effectively banished the age-old custom of handshaking as a customary greeting , which is said to have originated to alleviate suspicion among ancient Greeks and to encourage an egalitarian attitude by American Quakers.
 Now let's consider the psychological impacts of universal masking.
 Our human interactions are differentiated from that of animals by our extraordinary use of verbal communication.
 However, words alone are not the whole of communication.
@@ -31,11 +29,11 @@ Cues taken from facial expression are a key component of communication, as is to
 Anyone who notices the differences in communicating in person versus communicating via text message can attest to this.
 By donning masks and concealing facial expressions, communication suffers and we push each other even further into isolation.
 For those cursed with hearing problems such as tinnitus, the muffled words uttered by others behind a mask only further degrades the ability to communicate with fellow human beings.
-According to the American Tinnitus Association and the CDC, some 50 million Americans suffer from some type of tinnitus.
+According to the American Tinnitus Association and the CDC, some 50 million Americans suffer from some type of tinnitus .
 So far I've been discussing this in terms of detrimental effects in interactions between adults, but with recent chatter about how these mitigation efforts may be employed in our schools, we need to discuss how social distancing and universal masking will impact children.
 I shutter at the thought of children having to participate in these dehumanizing efforts during their formative years.
 I started thinking about this after a mother of a very young child relayed how unsettled her youngster became after masks began to be used regularly and her son could no longer read the facial expressions of others.
-Children are not among the high-risk demographics for COVID-19.
+Children are not among the high-risk demographics for COVID-19 .
 Certainly, there is the possibility of a child potentially carrying the virus home and spreading it to a more at-risk demographic, but is that alone reason enough to employ social distancing and universal masking, with all their detrimental psychological impacts, among children in their formative years in a school setting?
 While the concern seems to be over the immediate threat of a virus, we as a society need to consider what long-term psychological impacts this will have on children.
 And practically speaking, how on earth does anyone think this will work?
@@ -45,7 +43,7 @@ What happens when the first child tests positive for COVID-19?
 Will the entire class, including the teacher, be quarantined?
 What about the busses?
 Who's going to pay for the extensive disinfection which will surely be demanded after a single child in a large school tests positive?
-My own experience with being contact traced and self-quarantining, despite my personal opinion that I was never in any danger, led to a witch hunt and misplaced popular outrage.
+My own experience with being contact traced and self-quarantining , despite my personal opinion that I was never in any danger, led to a witch hunt and misplaced popular outrage.
 We followed and exceeded all the CDC and Department of Health guidelines and recommendations, yet we were still pilloried.
 I am still called a liar, and presumed to have knowingly spread COVID-19 to my colleagues in Harrisburg, even though I was not the person who tested positive.
 I cannot imagine how that effect will be multiplied when parents learn that COVID-19 has been discovered in their child's school.
@@ -67,4 +65,5 @@ One only needs to look to social media to see how cruel and inhumane some adults
 My objections to these efforts and edicts are not political.
 I just know they are wrong and will be more detrimental to our society than any virus could be.
 I can feel it in my gut.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

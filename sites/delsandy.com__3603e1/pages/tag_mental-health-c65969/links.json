@@ -1,34 +1,162 @@
 [
-"http://baltimoresun.com/health/bs-md-mental-health-shootings-20140321,0,6918153.story",
-"http://baltimoresun.com/topic/education/schools/elementary-schools/sandy-hook-elementary-school-OREDU000812.topic",
-"http://delsandy.com/",
-"http://delsandy.com/2014/03/24/early-intervention-legislative-and-medical",
-"http://delsandy.com/2016/03/01/february-29-bills-dead-but-the-work-continues",
-"http://delsandy.com/2019/02/05/making-progress-and-bullet-points",
-"http://delsandy.com/2020-session-summary",
-"http://delsandy.com/2024/02/14/providing-assistance",
-"http://delsandy.com/about-sandy",
-"http://delsandy.com/author/delsandy",
-"http://delsandy.com/bills-ive-introduced",
-"http://delsandy.com/category/featured",
-"http://delsandy.com/category/sandys-2014-legislative-diary",
-"http://delsandy.com/category/sandys-2016-legislative-diary",
-"http://delsandy.com/category/uncategorized",
-"http://delsandy.com/contact",
-"http://delsandy.com/endorsements",
-"http://delsandy.com/key-issues/lead-paint-poisoning",
-"http://delsandy.com/key-issues/our-neighborhoods",
-"http://delsandy.com/key-issues/pimlico-and-the-preakness",
-"http://delsandy.com/key-issues/pre-kindergarten",
-"http://delsandy.com/sandys-answers",
-"http://delsandy.com/tag/assisted-outpatient-treatment",
-"http://delsandy.com/tag/justice-brandeis",
-"http://delsandy.com/tag/mental-health",
-"http://delsandy.com/tag/mental-health/legislative-diary",
-"http://delsandy.com/tag/mentally-ill-and-guns",
-"http://delsandy.com/votingrightsact",
-"http://delsandy.com/why-i-run",
-"http://mdelect.net/",
-"https://facebook.com/delsandy",
-"https://twitter.com/delsandy"
+{
+"text": "2020 Session Summary",
+"href": "http://www.delsandy.com/2020-session-summary/"
+},
+{
+"text": "About Sandy",
+"href": "http://www.delsandy.com/about-sandy/"
+},
+{
+"text": "Are You in the 41st District?",
+"href": "http://mdelect.net/"
+},
+{
+"text": "Assisted Outpatient Treatment",
+"href": "http://www.delsandy.com/tag/assisted-outpatient-treatment/"
+},
+{
+"text": "Bills I’ve Introduced",
+"href": "http://www.delsandy.com/bills-ive-introduced/"
+},
+{
+"text": "Contact Sandy",
+"href": "http://www.delsandy.com/contact/"
+},
+{
+"text": "Early intervention – legislative and medical",
+"href": "http://www.delsandy.com/2014/03/24/early-intervention-legislative-and-medical/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.delsandy.com/endorsements/"
+},
+{
+"text": "February 14, 2024",
+"href": "http://www.delsandy.com/2024/02/14/providing-assistance/"
+},
+{
+"text": "February 29 – Bills dead but the work continues",
+"href": "http://www.delsandy.com/2016/03/01/february-29-bills-dead-but-the-work-continues/"
+},
+{
+"text": "February 5, 2019",
+"href": "http://www.delsandy.com/2019/02/05/making-progress-and-bullet-points/"
+},
+{
+"text": "Justice Brandeis",
+"href": "http://www.delsandy.com/tag/justice-brandeis/"
+},
+{
+"text": "Making progress and bullet points",
+"href": "http://www.delsandy.com/2019/02/05/making-progress-and-bullet-points/"
+},
+{
+"text": "March 1, 2016",
+"href": "http://www.delsandy.com/2016/03/01/february-29-bills-dead-but-the-work-continues/"
+},
+{
+"text": "March 24, 2014",
+"href": "http://www.delsandy.com/2014/03/24/early-intervention-legislative-and-medical/"
+},
+{
+"text": "My Legislative Diary",
+"href": "http://www.delsandy.com/tag/mental-health/legislative-diary"
+},
+{
+"text": "No Comments",
+"href": "http://www.delsandy.com/2014/03/24/early-intervention-legislative-and-medical/#respond"
+},
+{
+"text": "No Comments",
+"href": "http://www.delsandy.com/2016/03/01/february-29-bills-dead-but-the-work-continues/#respond"
+},
+{
+"text": "No Comments",
+"href": "http://www.delsandy.com/2019/02/05/making-progress-and-bullet-points/#respond"
+},
+{
+"text": "No Comments",
+"href": "http://www.delsandy.com/2024/02/14/providing-assistance/#respond"
+},
+{
+"text": "Providing assistance",
+"href": "http://www.delsandy.com/2024/02/14/providing-assistance/"
+},
+{
+"text": "Sandy Hook Elementary School",
+"href": "http://www.baltimoresun.com/topic/education/schools/elementary-schools/sandy-hook-elementary-school-OREDU000812.topic"
+},
+{
+"text": "Sandy's 2014 Legislative Diary",
+"href": "http://www.delsandy.com/category/sandys-2014-legislative-diary/"
+},
+{
+"text": "Sandy's 2016 Legislative Diary",
+"href": "http://www.delsandy.com/category/sandys-2016-legislative-diary/"
+},
+{
+"text": "Sandy's Answersto candidate questionnaires",
+"href": "http://www.delsandy.com/sandys-answers"
+},
+{
+"text": "Uncategorized",
+"href": "http://www.delsandy.com/category/uncategorized/"
+},
+{
+"text": "Voting Rights Act",
+"href": "http://www.delsandy.com/votingrightsact/"
+},
+{
+"text": "Why I Run",
+"href": "http://www.delsandy.com/why-i-run/"
+},
+{
+"text": "[image: Connect with Delegate Sandy Rosenberg on Facebook]",
+"href": "https://www.facebook.com/delsandy"
+},
+{
+"text": "[image: Connect with Delegate Sandy Rosenberg on Twitter]",
+"href": "https://twitter.com/delsandy"
+},
+{
+"text": "[image: Lead Paint Poisoning]",
+"href": "http://www.delsandy.com/key-issues/lead-paint-poisoning/"
+},
+{
+"text": "[image: Our Neighborhoods]",
+"href": "http://www.delsandy.com/key-issues/our-neighborhoods/"
+},
+{
+"text": "[image: Pimlico and The Preakness]",
+"href": "http://www.delsandy.com/key-issues/pimlico-and-the-preakness/"
+},
+{
+"text": "[image: Pre-Kindergarten]",
+"href": "http://www.delsandy.com/key-issues/pre-kindergarten/"
+},
+{
+"text": "[image: Sandy Rosenberg]",
+"href": "http://www.delsandy.com/"
+},
+{
+"text": "delsandy",
+"href": "http://www.delsandy.com/author/delsandy/"
+},
+{
+"text": "featured",
+"href": "http://www.delsandy.com/category/featured/"
+},
+{
+"text": "http://www.baltimoresun.com/health/bs-md-mental-health-shootings-20140321,0,6918153.story",
+"href": "http://www.baltimoresun.com/health/bs-md-mental-health-shootings-20140321,0,6918153.story"
+},
+{
+"text": "mental health",
+"href": "http://www.delsandy.com/tag/mental-health/"
+},
+{
+"text": "mentally ill and guns",
+"href": "http://www.delsandy.com/tag/mentally-ill-and-guns/"
+}
 ]

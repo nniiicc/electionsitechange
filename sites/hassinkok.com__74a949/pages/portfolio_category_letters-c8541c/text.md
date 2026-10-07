@@ -1,18 +1,6 @@
-Click here to read the letter.
-December 17,
-2024 Family Christmas Newsletter
-hassinkok2025-02-17T16:45:53-06:00
-Click here to read the letter.
-February 11,
-District 79 Dispatch with quick links and puzzle key
-hassinkok2024-10-18T08:47:48-05:00
-October 14, 2024
-Listening to Educators, teacher interviews
-hassinkok2024-10-16T14:07:58-05:00
-Posted: September 13, 2024 Video
-Paul Hassink’s Easter Message of Renewal and Leadership
-hassinkok2024-05-02T16:37:19-05:00
-March 24, 2024
-Letter from Paul’s Daughter
-hassinkok2022-09-20T13:47:26-05:00
-A Personal Note… Dear Friends, Thank you for giving
+Skip to content Save Oklahoma Students (SOS) “ThatIsNotOK” Issues Meet Paul Endorsements News Resources Contact DONATE DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact Letters 2025 Family Christmas Newsletter 2025 Family Christmas Newsletter Letters hassinkok 2025-12-17T15:48:58-06:00 Click here to read the letter.
+December 17, 2024 Family Christmas Newsletter 2024 Family Christmas Newsletter Letters hassinkok 2025-02-17T16:45:53-06:00 Click here to read the letter.
+February 11, District 79 Dispatch with quick links and puzzle key District 79 Dispatch with quick links and puzzle key Letters hassinkok 2024-10-18T08:47:48-05:00 October 14, 2024 Faith in the Voting Booth Faith in the Voting Booth Letters hassinkok 2024-10-15T13:06:15-05:00 October 10, 2024 Listening to Educators, teacher interviews Listening to Educators, teacher interviews Letters hassinkok 2024-10-16T14:07:58-05:00 Posted: September 13, 2024 Video Freedom We Cherish Freedom We Cherish Letters hassinkok 2024-06-30T08:42:52-05:00 June 30, 2024 Happy Mothers Day Happy Mothers Day Letters hassinkok 2024-05-21T21:50:55-05:00 May 19, 2024 Paul Hassink’s Easter Message of Renewal and Leadership Paul Hassink’s Easter Message of Renewal and Leadership Letters hassinkok 2024-05-02T16:37:19-05:00 March 24, 2024 2023 Family Christmas Newsletter 2023 Family Christmas Newsletter Letters hassinkok 2024-05-02T16:38:41-05:00 December 18, 2023 Letter from Paul’s Daughter Letter from Paul’s Daughter Letters hassinkok 2022-09-20T13:47:26-05:00 A Personal Note… Dear Friends, Thank you for giving Follow Us!
+Links Toggle Navigation Home Press Privacy Policy Contact Us Paul Hassink for Oklahoma Representative – District 79 Contact me via email 918-321-0807 5867 S.
+Joplin Ave.
+Tulsa, OK 74135 © Copyright # | Authorized and paid for by Hassink 2024 | All rights reserved Page load link Go to Top

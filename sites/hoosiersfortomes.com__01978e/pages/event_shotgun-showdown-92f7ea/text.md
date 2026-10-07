@@ -1,27 +1,6 @@
-- This event has passed.
-SHOTGUN SHOWDOWN
-August 1 @ 7:30 am – 4:00 pm UTC+0
-Save the date!!
-Saturday, August 1, 2026
-SHOTGUN SHOWDOWN
-for 12 gauge shotguns
-Fundraiser for Senator Jim Tomes
-Evansville Gun Club
-2010 County Rd 1150 S, Haubstadt, IN 47639
-Sporting Clay, Crazy Quail, Gun Raffles, Silent Auction,
-Lunch, Refreshments, Music & More
-Ticket Sales & Registration begin at 7:30 AM
-Shooting Begins at 9:00 AM (5 Man Sporting Clay Teams)
-Sporting Clay Flights at 9:00 AM, 11:00 AM, 1:00 PM & 3:00 PM
-Lunch at 12:00 PM (Pulled Pork or Chicken dinner with sides & drink)
-Tickets :
-Lunch Only $25 (Incudes 1 meal ticket)
-Crazy Quail Shooter & Lunch $50 (includes 1 shooter + 1 meal)
-Sporting Clay Shooter & Lunch $150 (Includes 1 shooter + meal)
-Sporting Clay Team & Lunch $750 (includes 5 shooters + 5 meals)
-*** Be an Event Sponsor for $1000, Co-sponsor for $500 ***
-So bring your lawn, camp, or folding chair and join us Saturday, August 1, 2026.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute « All Events This event has passed.
+SHOTGUN SHOWDOWN August 1 @ 7:30 am – 4:00 pm UTC+0 Save the date!!
+Saturday, August 1, 2026 SHOTGUN SHOWDOWN for 12 gauge shotguns Fundraiser for Senator Jim Tomes Evansville Gun Club 2010 County Rd 1150 S, Haubstadt, IN 47639 Sporting Clay, Crazy Quail, Gun Raffles, Silent Auction, Lunch, Refreshments, Music & More  Ticket Sales & Registration begin at 7:30 AM  Shooting Begins at 9:00 AM (5 Man Sporting Clay Teams)  Sporting Clay Flights at 9:00 AM, 11:00 AM, 1:00 PM & 3:00 PM  Lunch at 12:00 PM (Pulled Pork or Chicken dinner with sides & drink) Tickets : Lunch Only $25 (Incudes 1 meal ticket) Crazy Quail Shooter & Lunch $50 (includes 1 shooter + 1 meal) Sporting Clay Shooter & Lunch $150 (Includes 1 shooter + meal) Sporting Clay Team & Lunch $750 (includes 5 shooters + 5 meals) *** Be an Event Sponsor for $1000, Co-sponsor for $500 *** So bring your lawn, camp, or folding chair and join us Saturday, August 1, 2026.
 Tickets are available in advance and day of event.
 Reserve your spot today!
-For Ticket & Sponsorship information call or text
-Margie Tomes at 812-550-5978
+For Ticket & Sponsorship information call or text Margie Tomes at 812-550-5978 Shotgun showdown Flyer Download Evansville Gun Club 2010 County Rd 1150 S Haubstadt , IN 47639 United States + Google Map Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Event Navigation « 2026 Campaign Kickoff Re-Elect Jim Tomes Fundraiser » October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

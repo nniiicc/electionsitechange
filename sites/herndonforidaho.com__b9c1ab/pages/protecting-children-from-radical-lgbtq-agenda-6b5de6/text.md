@@ -1,4 +1,5 @@
-Conservative Republicans Deliver on Protection of Children.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Protecting Children from Radical LGBTQ Agenda Apr 4, 2023 | Legislative News , Policy Analysis Conservative Republicans Deliver on Protection of Children.
 Senator Scott Herndon and the conservative Republicans in the Legislature delivered on several key protections for children.
 H71 passed last week and will prohibit transgender surgeries on minors and transsexual hormone therapies for minors.
 The vote count in the Idaho Senate was 22-12-1.
@@ -25,3 +26,5 @@ At all three of our public school districts in North Idaho there have been membe
 This is part of the movement toward gender dysphoria.
 Then, in 2014 President Obama signed an executive order that resulted in Bonner County asking public works contractors to waive their ability to separate the contractor’s own bathroom and changing room facilities on the basis of biological sex.
 While having now fixed these two situations in state code, I have no doubt that these cultural battles of confusion will continue in other areas, and I look forward to continuing to represent the protection of children and traditional values in the Idaho Senate.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

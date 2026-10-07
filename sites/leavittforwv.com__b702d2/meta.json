@@ -1,7 +1,11 @@
 {
  "description": "Tristan Leavitt is the West Virginia State Representative for District 53",
  "final_url": "https://www.leavittforwv.com/",
- "paid_for_by": null,
+ "fingerprint": "6a527279f7b771a3e5de11e67533be02e232e6c3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Leavitt for WV",
- "years_mentioned": []
+ "years_mentioned": [
+  "2005"
+ ]
 }

@@ -1,21 +1,94 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://facebook.com/LynnEvansforIowa",
-"https://instagram.com/lynnevans8188",
-"https://lynnevansforiowa.com/contact",
-"https://lynnevansforiowa.com/contribute",
-"https://lynnevansforiowa.com/endorsements",
-"https://lynnevansforiowa.com/get-a-yard-sign",
-"https://lynnevansforiowa.com/home",
-"https://lynnevansforiowa.com/issues",
-"https://lynnevansforiowa.com/meet-lynn",
-"https://lynnevansforiowa.com/press-kit",
-"https://lynnevansforiowa.com/privacy-policy",
-"https://lynnevansforiowa.com/terms-and-conditions",
-"https://lynnevansforiowa.com/upcoming-events",
-"https://lynnevansforiowa.com/volunteer",
-"https://secure.winred.com/k-lynn-evans-campaign-committee/donate-today?qr=true",
-"https://sos.iowa.gov/voters/absentee-voting",
-"https://sos.iowa.gov/voters/voter-registration",
-"https://x.com/klynnevans"
+{
+"text": "CONTACT",
+"href": "https://lynnevansforiowa.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://lynnevansforiowa.com/contribute"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.winred.com/k-lynn-evans-campaign-committee/donate-today?qr=true"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://lynnevansforiowa.com/endorsements"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://lynnevansforiowa.com/get-a-yard-sign"
+},
+{
+"text": "HOME",
+"href": "https://lynnevansforiowa.com/home"
+},
+{
+"text": "ISSUES",
+"href": "https://lynnevansforiowa.com/issues"
+},
+{
+"text": "Learn More About Lynn!",
+"href": "https://lynnevansforiowa.com/meet-lynn"
+},
+{
+"text": "MEET LYNN",
+"href": "https://lynnevansforiowa.com/meet-lynn"
+},
+{
+"text": "PRESS KIT",
+"href": "https://lynnevansforiowa.com/press-kit"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://lynnevansforiowa.com/privacy-policy"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.iowa.gov/voters/voter-registration"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://lynnevansforiowa.com/get-a-yard-sign"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://sos.iowa.gov/voters/absentee-voting"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://lynnevansforiowa.com/terms-and-conditions"
+},
+{
+"text": "UPCOMING EVENTS",
+"href": "https://lynnevansforiowa.com/upcoming-events"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://lynnevansforiowa.com/volunteer"
+},
+{
+"text": "Where I Stand on the Issues",
+"href": "https://lynnevansforiowa.com/issues"
+},
+{
+"text": "Where Lynn Stands On The Issues",
+"href": "https://lynnevansforiowa.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LynnEvansforIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lynnevans8188/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/klynnevans"
+}
 ]

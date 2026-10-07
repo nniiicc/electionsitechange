@@ -1,9 +1,38 @@
 [
-"https://jerryforsd.com/",
-"https://jerryforsd.com/about",
-"https://jerryforsd.com/cart",
-"https://jerryforsd.com/contact",
-"https://jerryforsd.com/donate",
-"https://jerryforsd.com/privacy-policy",
-"https://jerryforsd.com/terms"
+{
+"text": "0",
+"href": "https://www.jerryforsd.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jerryforsd.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jerryforsd.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jerryforsd.com/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jerryforsd.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.jerryforsd.com/terms"
+},
+{
+"text": "[image: Jerry Jongeling for District 6 House]",
+"href": "https://www.jerryforsd.com/"
+},
+{
+"text": "https://www.jerryforsd.com/",
+"href": "https://www.jerryforsd.com/"
+},
+{
+"text": "jerry.jongeling@gmail.com",
+"href": "mailto:jerry.jongeling@gmail.com"
+}
 ]

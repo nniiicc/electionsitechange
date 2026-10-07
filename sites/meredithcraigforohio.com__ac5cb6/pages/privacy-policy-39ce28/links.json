@@ -1,14 +1,54 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://meredithcraigforohio.com/",
-"https://meredithcraigforohio.com/about-5",
-"https://meredithcraigforohio.com/about-5-1",
-"https://meredithcraigforohio.com/copy-of-about",
-"https://meredithcraigforohio.com/privacy-policy",
-"https://secure.winred.com/friends-of-meredith-craig/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://support.google.com/ads/answer/2662922?hl=en",
-"https://web.facebook.com/meredithcraigforohio?_rdc=1"
+{
+"text": "<< Back to site",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "About",
+"href": "https://www.meredithcraigforohio.com/about-5"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-meredith-craig/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://www.meredithcraigforohio.com/about-5-1"
+},
+{
+"text": "Home",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "Legislative Priorities",
+"href": "https://www.meredithcraigforohio.com/copy-of-about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.meredithcraigforohio.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://web.facebook.com/meredithcraigforohio?_rdc=1&_rdr="
+},
+{
+"text": "[image: meredith craig logo.png]",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "[image]",
+"href": "https://www.meredithcraigforohio.com"
+},
+{
+"text": "friendsofmeredithcraig@gmail.com",
+"href": "mailto:friendsofmeredithcraig@gmail.com"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+},
+{
+"text": "meredithcraigforohio.com",
+"href": "https://www.meredithcraigforohio.com"
+}
 ]

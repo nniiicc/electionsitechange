@@ -1,5 +1,8 @@
-WHERE I STAND
-Utah is rapidly becoming unaffordable for thousands and thousands of us.
+top of page Meet Thomas Issues Connect Get Involved Donate More Use tab to navigate through the menu items.
+HOUSING.
+HEALTHCARE.
+ENVIRONMENT.
+BRING BACK THE AMERICAN DREAM Issues Volunteer Donate WHERE I STAND Utah is rapidly becoming unaffordable for thousands and thousands of us.
 The price of groceries, rent, utilities double every few years.
 As a nation, nearly 70% of Americans are living paycheck to paycheck.
 Why?
@@ -11,58 +14,36 @@ We need to take our state back and demand the future we deserve.
 A future with clean air and water, affordable housing, and a livable economy for all.
 We should not settle for politicians who speak in vague generalities about policy while trying to sell off our public lands, raise taxes, and take away our freedoms.
 Here is where I stand.
-UTAH FOR UTAHNS
-America has entered a new Gilded Age.
-We now have a government of, by, and for billionaires—a direct result of disastrous court decisions, culminating in Citizens United, that opened the floodgates for the ultra-wealthy to buy our elections.
-I’m not opposed to wealth or the American Dream.
+UTAH FOR UTAHNS America has entered a new Gilded Age.
+We now have a government of, by, and for billionaires—a direct result of disastrous court decisions, culminating in Citizens United , that opened the floodgates for the ultra-wealthy to buy our elections. ​ I’m not opposed to wealth or the American Dream.
 The idea that someone can start with nothing and build a better life through hard work is one of the great promises of this country.
 But today, that promise is slipping further out of reach for everyday Americans, no matter how hard they work.
-This isn’t a matter of personal failure—it’s the result of a rigged system designed to entrench those already at the top while silencing the rest of us.
-I’m not against business owners or successful entrepreneurs.
+This isn’t a matter of personal failure—it’s the result of a rigged system designed to entrench those already at the top while silencing the rest of us. ​ I’m not against business owners or successful entrepreneurs.
 I’m against an entrenched class of globalist plutocrats and multinational corporations hijacking the very system that made them wealthy, then rigging it to ensure the rest of us never get a fair shot.
-I'm against their consolidation of political and economic power amongst a tiny elite while the rest of us are left with rising prices, stagnant wages, and shrinking opportunities.
-In 1990, there were just 66 billionaires in America.
+I'm against their consolidation of political and economic power amongst a tiny elite while the rest of us are left with rising prices, stagnant wages, and shrinking opportunities. ​ In 1990, there were just 66 billionaires in America.
 Today, there are more than 900.
 Over that same period, the middle class has been hollowed out by soaring costs for housing, education, groceries, and healthcare.
 Most families now need two incomes just to stay afloat.
-This can't continue.
-There are over ten times as many billionaires today—but does this feel like a country that’s ten times more prosperous for everyone else?
-Utahns deserve better.
+This can't continue. ​ There are over ten times as many billionaires today—but does this feel like a country that’s ten times more prosperous for everyone else?​ Utahns deserve better.
 We deserve an economy where people can afford to start families, retire with dignity, and build small businesses without being crushed by forces they can’t compete with.
 My priority as your House Representative is to fight for the working people of this state—not just those who can afford to buy a seat at the table, but the vast majority of Utahns who keep this state running every day.
 I will stand for an economy and democracy that works for all of us, not just the few at the top.
-GRow a
-grassroots
-movement
-and build a better Utah for everyone.
-YOU DESERVE
-A REPRESENTATIVE
-WHO ACTUALLY FIGHTS FOR YOU.
+GRow a grassroots movement and build a better Utah for everyone.
+JOIN YOU DESERVE A REPRESENTATIVE WHO ACTUALLY FIGHTS FOR YOU.
 REX SHIPP STANDS FOR NOTHING.
-SEe where I stAnd
-on the issues that matter Most
-AFFORDABLE HOUSING
-The housing crisis in Utah is no longer just a market fluctuation; it is a systemic failure.
-When home prices sit at six times the median income, thousands of families are forced to choose between a stable roof and basic necessities.
-This crisis is aggravated by a legislature where roughly 38% of lawmakers—including nearly half of the State Senate—hold personal financial stakes in the real estate and development industries.
+SEe where I stAnd on the issues that matter Most AFFORDABLE HOUSING The housing crisis in Utah is no longer just a market fluctuation; it is a systemic failure.
+When home prices sit at six times the median income, thousands of families are forced to choose between a stable roof and basic necessities. ​ This crisis is aggravated by a legislature where roughly 38% of lawmakers—including nearly half of the State Senate—hold personal financial stakes in the real estate and development industries.
 These deep-seated conflicts of interest lead legislators to prioritize high-margin luxury projects and "free-market" corporate subsidies that have failed to lower costs over the common good of the people they serve.
 It's high time we prioritize residents over investors.
-PROTECT OUR RIVERS,
-LAKES, FORESTS & AIR
-Unchecked environmental destruction poses a catastrophic threat to our collective future, risking a cascade of ecological collapses and profound human suffering.
+Housing PROTECT OUR RIVERS, LAKES, FORESTS & AIR Unchecked environmental destruction poses a catastrophic threat to our collective future, risking a cascade of ecological collapses and profound human suffering.
 In Utah, this crisis manifests through "snow drought" and a disappearing Great Salt Lake, threatening to replace our mountain-fed water security with toxic, arsenic-laden dust storms.
 As our snowpack diminishes, we face the permanent loss of the alpine and wetland ecosystems that sustain millions of migratory birds and our local way of life.
 Without common-sense regulation, we risk a future where the natural beauty we cherish is replaced by a toxic and degraded landscape.
-THE BIG-TECH OLIGARCHY
-Facebook and TikTok spent more than $240,000 per day lobbying Congress, employing an average of one lobbyist for every five congressmen.
-Big-Tech billionaires have donated billions more to Trump in order to curry favor and it's paying off.
+Environment THE BIG-TECH OLIGARCHY Facebook and TikTok spent more than $240,000 per day lobbying Congress, employing an average of one lobbyist for every five congressmen. ​ Big-Tech billionaires have donated billions more to Trump in order to curry favor and it's paying off.
 As Utahns, we need to take seriously how A.I. powered mass surveillance and the water intensive data-centers which fuel it affect our futures.
 We can't let paid-off-politicians refuse to regulate A.I.
-THE ISSUES
-AFFORDABLE
-HEALTHCARE
-EXPAND THE AFFORDABLE CARE ACT
-Our for-profit health insurance system is a disaster that corporate-owned politicians only make worse.
+Privacy & AI JUMP TO...
+Affordable Housing A.I. & Automation Lower Taxes Student Loans Small Business Social Security End Homelessness Stop Banning Books End Teen Suicide Climate Action Water Conservation Save the Lake Defend Public Lands Cloud Seeding Tribal Sovereignty Data Centers Raise Minimum Wage Abortion Healthcare Defend Public Schools Defend Unions ICE & Immigration The War on Drugs Religious Freedom Release Epstein Files The War in Gaza 2nd Amendment Ranked Choice Voting Gerrymandering Term Limits Mail-In Voting Fix the Legislature Ballot Initiatives Electoral College Citizens United Waste & Fraud THE ISSUES AFFORDABLE HEALTHCARE EXPAND THE AFFORDABLE CARE ACT Our for-profit health insurance system is a disaster that corporate-owned politicians only make worse.
 The United States spends more per person on healthcare than any other developed country in the world, yet we suffer worse health outcomes, lower life expectancy, fewer treatment options, longer wait times, and constantly rising costs.
 The result is simple and devastating: people in this country are dying unnecessarily at higher rates than in any other similarly advanced nation.
 The Affordable Care Act, while far from sufficient, was a meaningful step in the right direction.
@@ -86,10 +67,7 @@ I will oppose any cuts to Medicare or Medicaid and will work to restore the dama
 Furthermore, I will always support Medicaid for All.
 Despite what corporate-owned media and politicians claim, removing profit-seeking middlemen from healthcare is how we lower costs, expand access, and save lives.
 Healthcare should serve people—not shareholders.
-SUPPORT
-SMALL BUSINESSES
-STREAMLINE CO-OPS & EMPLOYEE-OWNED BUSINESSES
-Small businesses are the backbone of Utah’s economy, yet they are being squeezed out by policies that favor multinational corporations over local entrepreneurs.
+SUPPORT SMALL BUSINESSES STREAMLINE CO-OPS & EMPLOYEE-OWNED BUSINESSES Small businesses are the backbone of Utah’s economy, yet they are being squeezed out by policies that favor multinational corporations over local entrepreneurs.
 Study after study shows that most Americans would rather work for a small business than a faceless corporate chain—and for good reason.
 Wages are often more competitive, workplaces are more humane, and relationships between employers, employees, and the community are stronger when everyone is invested in the same local economy.
 That investment pays dividends: small businesses keep money circulating locally, strengthen social ties, and build communities that are more resilient and self-sustaining.
@@ -109,10 +87,7 @@ However, they have the potential to transform so many other industries to be mor
 By simplifying legal requirements, offering targeted financial incentives, and providing training and technical support, Utah can make it easier for people to build community-owned businesses that last.
 Cooperatives create stable jobs, circulate wealth locally, and give people a real voice in the economic forces shaping their lives.
 Supporting small businesses and cooperatives isn’t nostalgia—it’s smart, forward-looking economic policy that keeps Utah’s communities strong, independent, and resilient.
-GET MONEY
-OUT OF POLITICS
-BAN BILLIONAIRES BUYING OUR ELECTIONS
-For over fifteen years, our political system has been hijacked by the 2010 Supreme Court ruling in Citizens United v.
+GET MONEY OUT OF POLITICS BAN BILLIONAIRES BUYING OUR ELECTIONS For over fifteen years, our political system has been hijacked by the 2010 Supreme Court ruling in Citizens United v.
 FEC.
 By effectively equating corporate spending with protected free speech, the Court invited a massive influx of "dark money" into our elections, granting corporations unprecedented leverage over our democracy.
 In other words, the Supreme Court decided that it is every billionaire’s constitutional right to buy our elections.
@@ -128,9 +103,7 @@ This is the ultimate exercise of the 10th Amendment.
 Since the Constitution does not grant the federal government power over corporate charters, that authority belongs to the States and the People.
 Utah should be next to follow Maryland’s lead and reclaim our sovereign authority to define the limits of corporate influence.
 While a national Constitutional Amendment remains the ultimate goal and should serve as a litmus test for every politician in D.C., Utah can lead the charge right now by ensuring our elections are decided by citizens, not by the highest bidder.
-TAKE ON CORRUPTION
-STOP WASTING TAXPAYER DOLLARS
-We should be able to verify that our tax dollars are not being mismanaged on wasteful infrastructure projects, corporate handouts, and flat-out corruption.
+TAKE ON CORRUPTION STOP WASTING TAXPAYER DOLLARS We should be able to verify that our tax dollars are not being mismanaged on wasteful infrastructure projects, corporate handouts, and flat-out corruption.
 Too much of our tax dollars are unaccounted for, given to a politician’s friend’s business or non-profit with zero oversight.
 This is particulalry true in rural Utah where a "Good Ole' Boy" culture dominates much of local politics.
 The Iron County Comissioner's son, Blake Cozzens was the treasurer of the Iron County GOP. and was found guilty of embezzling over $2.1 million dollars from the HOA he chaired.
@@ -148,10 +121,7 @@ Utah House Speaker Mike Shultz bought hundreds of acres of land in Box Elder Cou
 There exists a serious problem in Utah politics of this type of corruption.
 At every level of government from City Council to House and Senate, politicians are heavily invested in the development industry, directing public money to fund private developments.
 I will support legislation aimed at weeding out waste, fraud and corruption in how our public funds are utilized, encouraging fair bidding on all government projects, and strengthening ethics requirements for our politicians.
-DATA CENTERS
-WE SHOULD NOT SUBSIDIZE
-RESOURCE WASTE BY BIG TECH
-Utah is one of the driest states in the country, yet we’re being asked to absorb a wave of massive AI and cloud data centers that consume enormous amounts of water and electricity.
+DATA CENTERS WE SHOULD NOT SUBSIDIZE RESOURCE WASTE BY BIG TECH Utah is one of the driest states in the country, yet we’re being asked to absorb a wave of massive AI and cloud data centers that consume enormous amounts of water and electricity.
 While we’ve seen massive projects in Millard County already underway, this issue has now arrived at our own doorstep with the announcement of the 1,500-megawatt Antelope Data Center right here in Cedar City.
 Update: May 16th, 2026: Over 35 hyperscale Data Center projects have been announced across Utah, including the Stratos Project in Box Elder which will occupy 40,000 acres in rural Utah and use twice as much energy as the entire State of Utah.
 A 2nd 1.5GW Data Center (Red Butte), all powered by natural-gas, has been unveiled for iron County with rumors of more on the way.
@@ -178,9 +148,7 @@ If they must rely on our fossil fuel grid in the meantime, they should pay a car
 If AI and data infrastructure is to be part of Utah’s future then it must benefit everyday Utahns, not just Big Tech.
 Economic growth should never come at the expense of our water, our environment, or our working families.
 We can welcome innovation without giving away our most precious resources or allowing dark-money billionaires to dictate all the terms.
-DEFEND UNIONS
-PROTECT LABOR & BRING GOOD UNION JOBS TO UTAH
-Unions mean higher wages, safer workplaces, and greater dignity on the job.
+DEFEND UNIONS PROTECT LABOR & BRING GOOD UNION JOBS TO UTAH Unions mean higher wages, safer workplaces, and greater dignity on the job.
 That’s why some in the Utah Legislature have made it their mission to destroy them.
 Recently, Utahns stood up and rejected the Legislature’s latest attack on public-sector unions (HB267), a law that would have stripped workers of their collective bargaining rights.
 Thanks to vocal solidarity from police and fire unions, more than 320,000 signatures were gathered for a voter referendum.
@@ -192,10 +160,7 @@ By undermining unions, the Legislature can continue suppressing wages and erodin
 I will fight to protect Utah workers’ right to organize.
 I support strong legislation guaranteeing union protections and imposing significant penalties on anyone who engages in illegal union-busting.
 Utahns deserve fair wages, safe workplaces, and the ability to stand together without fear of political retaliation.
-RIGHT TO PRIVACY
-KEEP THE GOVERNMENT & BIG-TECH BILLIONAIRES
-OUT OF OUR PRIVATE LIVES
-Government intrusion and surveillance into every aspect of our lives should concern every American.
+RIGHT TO PRIVACY KEEP THE GOVERNMENT & BIG-TECH BILLIONAIRES OUT OF OUR PRIVATE LIVES Government intrusion and surveillance into every aspect of our lives should concern every American.
 The Trump administration’s marriage with Big Tech Billionaires like Peter Thiel, Palmer Lucky, Alex Karp, Sam Altman, Elon Musk, Jeff Bezos, and Mark Zuckerberg represents an incredible threat to our democracy and right to privacy.
 Billionaire Larry Ellison is on the record saying that the infusion of surveillance technology and AI data-processing into the government will ensure “citizens remain on their best behavior because we are constantly recording and reporting everything that’s going on”.
 Who defines what that means?
@@ -215,9 +180,7 @@ I will support strong legislation to reestablish our rights to privacy, support 
 Furthermore, I will support legislation to restrict corporation’s use of AI to surveil, track, and subject Utahns to predatory pricing algorithms.
 And finally, I will reverse the implementation of Flock Traffic Surveillance Cameras in this district and have any data collected on Utah drivers deleted.
 A.I.
-AND AUTOMATION
-PROTECT UTAH WORKERS FROM BEING DISPLACED
-We stand at a defining moment in our economic history.
+AND AUTOMATION PROTECT UTAH WORKERS FROM BEING DISPLACED We stand at a defining moment in our economic history.
 Artificial intelligence and automation promise incredible gains in productivity, efficiency, and innovation, but when these technologies and their products are owned and controlled by a tiny group of ultra-rich tech-billionaires, they also stand to pose a real threat to the livelihood of workers they seek to replace.
 From manufacturing and transportation to customer service and administrative roles, advances in AI are rapidly replacing jobs that once provided stable incomes for middle-class Utah families.
 Alongside this, massive data centers are acceleratingly springing up across Utah, increasing energy bills and draining aquifers.
@@ -232,9 +195,7 @@ Let alone the shared environmental burden that building this massively energy-in
 This may seem like a distant concern, but tech-titans have already declared this to be the goal, some have even called for establishing a baseline universal basic income funded by dividends on AI.
 The truth is, AI and automation are already reshaping the global economy, absorbing more capital investment and requiring more energy generation than any other project in world history, and Utah must be ready.
 Smart policy can turn this unprecedented challenge into an opportunity—but only if we act with vision and urgency.
-FIX THE LEGISLATURE
-POLITICIANS EXIST TO SERVE — NOT TO RULE
-It’s no secret that the Utah Legislature too often doesn’t work for Utahns.
+FIX THE LEGISLATURE POLITICIANS EXIST TO SERVE — NOT TO RULE It’s no secret that the Utah Legislature too often doesn’t work for Utahns.
 Lawmakers routinely undermine democratic accountability—rejecting or overriding the clear will of voters and passing laws that many of their own constituents oppose.
 This isn’t a matter of partisan disagreement; it’s a breakdown in representative government.
 According to a Utah Foundation survey, more than 70% of Utahns believe their elected officials are “too beholden to business, religious, or other special interests and ignore the will of the people.” I’m firmly with that majority.
@@ -248,9 +209,7 @@ These efforts are not about good governance; they are about insulating politicia
 This is not democracy working as intended.
 When lawmakers face no real consequences for ignoring voters, accountability disappears—and with it, the promise of self-government.
 I will support bipartisan efforts to protect ballot initiatives, enforce the will of the people, and restore the basic principle that in Utah, political power belongs to the people—no matter who is in office.
-TERM LIMITS
-CLEAR THE PATH FOR FRESH IDEAS
-Career politicians have become far too commonplace.
+TERM LIMITS CLEAR THE PATH FOR FRESH IDEAS Career politicians have become far too commonplace.
 Too often, leaders gain power and never let it go, coasting for decades on the advantages of incumbency.
 This is the opposite of the spirit of our democracy.
 Politicians exist to serve the people, not to rule over them.
@@ -261,9 +220,7 @@ I will advocate for a United States Constitutional amendment and a state constit
 Specifically, I support strong term limits: six terms in the House of Representatives and three terms in the Senate.
 By imposing term limits, we can ensure fresh ideas, renewed energy, and true accountability in government.
 Leaders should be citizens called to serve, not career politicians entrenched for life.
-AFFORDABLE HOUSING
-AFFORD A HOUSE IN YOUR HOMETOWN
-The housing crisis in Utah is existential.
+AFFORDABLE HOUSING AFFORD A HOUSE IN YOUR HOMETOWN The housing crisis in Utah is existential.
 The American Dream of owning a home and raising a family is under attack.
 Home prices have doubled since the pandemic, and despite neverending construction of low-quality townhomes and apartments, many Utahns can no longer afford to live where they grew up.
 Homelessness is up 18% statewide in 2025, with the number of chronically homeless increasing more than sevenfold since 2016.
@@ -288,9 +245,7 @@ Social housing bridges this divide, providing stability, affordability, and long
 I will support legislation that encourages the construction of permanently affordable, mixed-use social housing, working with local governments to implement models tailored to each city.
 We must move housing out of the hands of profit-driven developers and back into the hands of Utahns who need a home.
 The tools we’ve relied on for decades are not enough—if we want Utah families to thrive, it’s time to build something new.
-HOMELESSNESS
-DON'T CALIFORNIA MY UTAH — END CHRONIC POVERTY
-Utah is facing a growing homelessness crisis.
+HOMELESSNESS DON'T CALIFORNIA MY UTAH — END CHRONIC POVERTY Utah is facing a growing homelessness crisis.
 Families, seniors, veterans, and working people are being pushed onto the streets by skyrocketing housing costs, stagnant wages, and too few safety nets when they’re needed most.
 Nearly half of Utahns experiencing homelessness live with a disability and mental health or substance use disorders.
 When one missed paycheck or medical emergency can mean losing everything, it’s not a matter of personal responsibility—it’s systemic failure.
@@ -303,9 +258,7 @@ It also saves money, costing far less than repeated emergency room visits, jail 
 I will work with the Utah Homeless Services Board to expand affordable housing, homeless shelters, food pantries, and integrated supportive services.
 Housing should be treated as the foundation of stability—not a reward.
 We can eliminate homelessness in Utah in a way that is compassionate, fiscally responsible, and grounded in evidence.
-SHARED PARKING
-BUILD CITY-OWNED PARKING STRUCTURES
-For decades, our zoning code has required every new business, apartment, restaurant, and office to build large amounts of parking, regardless of whether it’s actually needed.
+SHARED PARKING BUILD CITY-OWNED PARKING STRUCTURES For decades, our zoning code has required every new business, apartment, restaurant, and office to build large amounts of parking, regardless of whether it’s actually needed.
 Every contemporary urban planner recognizes that these requirements have harmed our communities far more than they have helped, from decreasing collectable property-taxes per acre to eliminating walkability and raising temperatures.
 These mandates drive up construction costs, consume valuable land, encourage sprawl, and make housing and commercial space more expensive for everyone.
 I support eliminating outdated parking minimums and replacing them with a smarter system that gives property owners more flexibility while ensuring growth contributes to the infrastructure our community needs.
@@ -321,9 +274,7 @@ Better use of taxpayer infrastructure.
 Public parking assets that support local businesses without shifting costs onto existing residents.
 Iron County's rapid growth should help pay for the infrastructure it requires.
 By replacing outdated parking mandates with shared public investment, Iron County can reduce costs for developers, strengthen our local economy, and build downtowns that are more attractive, accessible, and financially sustainable for generations to come.
-CLIMATE ACTION
-PROTECT OUR FORESTS & SNOWPACK
-Utahns don’t need a lecture to understand climate change—we can see it with our own eyes.
+CLIMATE ACTION PROTECT OUR FORESTS & SNOWPACK Utahns don’t need a lecture to understand climate change—we can see it with our own eyes.
 Winters are growing shorter and warmer.
 Snowpack is shrinking.
 Reservoirs and aquifers are dropping, while the Great Salt Lake recedes to historic lows.
@@ -348,10 +299,7 @@ Clean air means healthier families and lower healthcare costs.
 Smart water policy protects agriculture, growth, and future generations in a drought-prone state.
 Utah can lead by embracing practical, fiscally responsible solutions that safeguard our land, our economy, and our way of life—without sacrificing jobs, energy reliability, or individual freedom.
 Utah should be a climate leader among conservative-leaning states, proving that environmental responsibility and economic vitality go hand in hand.
-PROTECT OUR
-PUBLIC LANDS
-CLEAN WATER & AIR FOR GENERATIONS
-One of the things that makes Utah truly special is our connection to awe-inspiring public lands.
+PROTECT OUR PUBLIC LANDS CLEAN WATER & AIR FOR GENERATIONS One of the things that makes Utah truly special is our connection to awe-inspiring public lands.
 This is one of the few issues that unites Utahns across party lines.
 You don’t have to be wealthy or well-connected to enjoy our wilderness.
 Whether you’re a hunter, angler, hiker, camper, or simply someone who values open space, this land belongs to all of us—and that shared access is part of what defines life in Utah.
@@ -367,10 +315,7 @@ We have a moral responsibility to protect these places—not just for ourselves,
 I will stand firmly against any effort to dismantle environmental protections or restrict access to public lands in Utah.
 We must strengthen these protections, close loopholes, and ensure meaningful enforcement against major polluters.
 Utah’s wilderness is not a bargaining chip for opportunistic politicians—it is our shared inheritance, and it deserves defenders in government willing to fight for it.
-SAVE THE
-GREAT SALT LAKE
-PROTECT RIVER INFLOWS
-Saving the Great Salt Lake is not optional—it is an economic, environmental, and public health necessity.
+SAVE THE GREAT SALT LAKE PROTECT RIVER INFLOWS Saving the Great Salt Lake is not optional—it is an economic, environmental, and public health necessity.
 The lake’s collapse threatens billions of dollars in economic activity, from mineral extraction to tourism, while exposing Utahns to toxic dust storms linked to arsenic, mercury, and other heavy metals that increase rates of asthma, heart disease, and premature death.
 The only proven way to save the lake is to restore inflows by using less water upstream.
 Yet some lawmakers continue to push reckless proposals to spend billions of taxpayer dollars diking the lake and intentionally shrinking it—plans that ignore the science, worsen pollution, and lock in permanent damage.
@@ -380,9 +325,7 @@ Even more troubling is the resistance to meaningful water conservation from lead
 When those with financial interests tied to high water consumption are shaping conservation policy, the public has every right to question whose interests are being served.
 Restoring inflows to the Great Salt Lake is the cheapest, most effective solution we have—and the cost of failure will be paid by Utah families in lost jobs, higher healthcare costs, and irreversible environmental harm.
 As your Representative, I will fight for enforceable protections for the Great Salt Lake and common-sense water conservation policies across the state.
-WATER CONSERVATION & FISCAL SANITY
-STOP THE $280M PINE VALLEY WATER PROJECT
-Water is Utah’s most pressing climate vulnerability.
+WATER CONSERVATION & FISCAL SANITY STOP THE $280M PINE VALLEY WATER PROJECT Water is Utah’s most pressing climate vulnerability.
 At the same time that our state is facing explosive population growth, we’re also experiencing less rainfall, shorter winters, and hotter, drier summers.
 We must confront the reality that water is scarce and manage it wisely—before scarcity threatens our communities, agriculture, and economy.
 Fifteen years ago, Iron County wisely rejected the Powell River Pipeline, avoiding over $1 billion in long-term costs, skyrocketing water rates, and decades of debt for a project that remains incomplete and unlikely to ever deliver promised water.
@@ -400,9 +343,7 @@ This is backwards.
 We should reward conservation, not penalize it, and ensure new developments integrate efficiency measures rather than wasteful practices like oversized lawns and non-native landscaping.
 I support practical, forward-looking policies to safeguard our water: expanding water-wise landscaping incentives, modernizing irrigation infrastructure to reduce waste, constructing additional reservoirs designed as recreational spaces, funding agricultural water-efficiency programs, creating swales to better manage watershed runoff, and requiring long-term water planning for new developments.
 Smart conservation protects our communities, our agriculture, and sustainable growth—without resorting to costly, risky infrastructure projects that put taxpayers and residents on the hook.
-CLOUD SEEDING
-ADAPTING TO POST-CLIMATE COLLAPSE
-Utah already operates the most advanced cloud seeding program in the nation, with a budget that has surged from $200,000 to over $5 million in just three years.
+CLOUD SEEDING ADAPTING TO POST-CLIMATE COLLAPSE Utah already operates the most advanced cloud seeding program in the nation, with a budget that has surged from $200,000 to over $5 million in just three years.
 This is an admission.
 We are no longer debating whether climate change will reshape our future—we are living inside the outcome.
 The snowpack is shrinking, droughts are longer, and the water systems our state was built on are becoming unreliable.
@@ -420,10 +361,7 @@ I’ll work with the Utah Division of Water Resources to drastically expand clou
 Furthermore, I will support the development of direct air carbon capture in Utah.
 While we must continue to fight for systemic, global emissions reductions, Utah should lead the way as a pioneer in red-state climate adaptation.
 As a postnote, I’ll always stand behind ambitious climate-legislation that helps reduce society’s suffering from climate-change while centering the truly responsible, systemic causes behind this global tragedy.
-LOWER TAXES
-FOR WORKING UTAHNS
-MAKE MILLIONAIRES & CORPORATIONS PAY THEIR SHARE
-Too much of our government has been captured by moneyed special interest groups through the funding of the campaigns of puppet candidates, effectively buying politicians in return for favorable legislation on their behalf.
+LOWER TAXES FOR WORKING UTAHNS MAKE MILLIONAIRES & CORPORATIONS PAY THEIR SHARE Too much of our government has been captured by moneyed special interest groups through the funding of the campaigns of puppet candidates, effectively buying politicians in return for favorable legislation on their behalf.
 Decades of this system of legalized bribery has done enormous damage to our democracy that will take decisive leadership at every level of government to undo.
 At the Federal level, we have an absurd tax code where you and I pay more than the richest people in history.
 At the State level, the situation is just as bad.
@@ -435,10 +373,7 @@ Furthermore, to make up for budget shortfalls the legislature routinely raises s
 In 2005 Iron County’s Property Tax was just 0.116% compared to today’s rate of 0.74%.
 For working class families who are already struggling to afford a home, a few thousand dollars a year can be the difference between a mortgage payment and foreclosure.
 I will support the reintroduction of a progressive graduated income tax that sees all Utahns making less than $50k a year pay zero annual State Income Taxes.
-RANKED-CHOICE
-VOTING
-END THE TOXIC TWO-PARTY DUOPOLY
-I support Ranked Choice Voting in Utah because I believe our elections should reflect the true will of the people, uplift our common ground, and strengthen our community’s voice, rather than forcing voters into strategic or “lesser-of-two-evils” choices.
+RANKED-CHOICE VOTING END THE TOXIC TWO-PARTY DUOPOLY I support Ranked Choice Voting in Utah because I believe our elections should reflect the true will of the people, uplift our common ground, and strengthen our community’s voice, rather than forcing voters into strategic or “lesser-of-two-evils” choices.
 Under Ranked Choice Voting, voters rank candidates in order of preference from their favorite to their least favorite, and winners must secure majority support through an instant runoff process, producing outcomes that better reflect the broad will of the electorate rather than a simple majority election which often leaves 49% of voters feeling dejected and unrepresented.
 This approach also eliminates costly and low-turnout primary runoffs, saving local governments money, and encouraging more constructive politics by incentivizing candidates to appeal to a wider range of voters rather than only to their narrow partisan bases.
 Almost 30% of Utahns are registered as Unaffiliated and this is no accident.
@@ -451,11 +386,7 @@ This type of voting system encourages civility, broader engagement, and majority
 In Utah cities where RCV has been tried, a strong majority of voters said they want it to remain an option, showing broad public interest in a system that respects voter choice and strengthens trust in our democratic process.
 Surveys from the Herbert Institute show high voter approval (around 94% satisfied in 2023) and ease of use (around 82%) in RCV cities.
 I will support legislation to allow Ranked Choice Voting in all elections, from the local level to national level.
-PROPORTIONAL
-REPRESENTATION
-END FORCED SUPPORT FOR
-THE "LESSER OF TWO EVILS"
-I support moving Utah to a proportional delegate system because every vote should count.
+PROPORTIONAL REPRESENTATION END FORCED SUPPORT FOR THE "LESSER OF TWO EVILS" I support moving Utah to a proportional delegate system because every vote should count.
 Our current winner-take-all system lets a slim majority take 100% of our electoral votes, leaving hundreds of thousands of Utahns unheard.
 It forces voters to pick the “lesser of two evils” and shuts out third-party and independent voices.
 A proportional system changes that.
@@ -467,10 +398,7 @@ We can be an example for the nation, showing that even a deep red state like our
 Utahns deserve a system that represents everyone, not just the majority.
 Proportional allocation makes our democracy stronger, more inclusive, and ensures that every vote matters.
 As your Representative I will fight to support legislation that moves Utah towards a Proportional Delegate State.
-DEFEND
-SOCIAL SECURITY
-END TAXATION ON DISABILITY & RETIREMENT BENEFITS
-Social Security has been under steady assault by politicians for decades.
+DEFEND SOCIAL SECURITY END TAXATION ON DISABILITY & RETIREMENT BENEFITS Social Security has been under steady assault by politicians for decades.
 Whenever solutions are proposed for funding social services like childcare, social security, or education, it’s an endless battle for funding, even to simply hold onto what we still have, yet when President Trump proposes increasing the Military Budget by another $500B, Republicans are eager to get behind this.
 The callousness is clear, they are happy to use your taxes to fund billion dollar corporations, for-profit wars, and tax-cuts for billionaires, but when you actually need something for yourself, there is no money to go around.
 The party of Fiscal Responsibility has no plan for the millions of Americans entitled to Social Security benefits except for pain and suffering in the most vulnerable years of their life, but that’s fine because every politician has a publicly-funded pension that is safe from cuts.
@@ -479,10 +407,7 @@ We all deserve to benefit from a system that we’ve paid into all our lives.
 You don’t have an option not to pay Social Security taxes, so why do they have the option to defund it while overspending by trillions every year.
 Utah is one of only nine states that taxes Social Security income.
 I will support legislation to repeal this tax.
-DEFEND
-PUBLIC SCHOOLS
-ENSURE PRIVATE SCHOOLS ARE PRIVATELY FUNDED
-At the forefront of the Legislature’s attacks on public services is their assault on public education.
+DEFEND PUBLIC SCHOOLS ENSURE PRIVATE SCHOOLS ARE PRIVATELY FUNDED At the forefront of the Legislature’s attacks on public services is their assault on public education.
 Utah’s Constitution mandates funding for public schools—a principle overwhelmingly supported by voters—and has helped make our public education system one of the strongest in the nation.
 Yet corrupt politicians fear one thing above all: an educated, informed, and engaged populace.
 Instead of investing in our schools, the Legislature has passed laws diverting constitutionally allocated funds to homeschooling and private school voucher programs, channeling public money into private hands.
@@ -490,9 +415,7 @@ Allison Sorensen, a key lobbyist for HB215 is on the record declaring she wanted
 This underfunding erodes the quality of education and services, creating a vicious cycle: declining schools are then used as justification to divert even more funds elsewhere.
 Iron County, for example, now has the lowest per-student spending in the state.
 I will fight to end voucher programs and ensure that public funds are spent where they belong—on public schools, public students, and public goods—so every Utah child has access to a strong, well-funded education.
-BANNED BOOKS
-END GOVERNMENT CENSORSHIP
-Utah’s recent book bans are a direct threat to intellectual freedom, democratic values, and the educational development of our young people.
+BANNED BOOKS END GOVERNMENT CENSORSHIP Utah’s recent book bans are a direct threat to intellectual freedom, democratic values, and the educational development of our young people.
 Since the passage of House Bill 29 in 2024, the state has created a mechanism that leads to statewide removal of books from public school libraries based on the actions of a handful of districts.
 If a title is deemed “sensitive material” by just three school districts (or two districts plus five charter schools), it must be removed from every public school in Utah—a law that has already led to at least 22 banned books statewide, including Water for Elephants, Thirteen Reasons Why, The Perks of Being a Wallflower, and multiple titles by Sarah J.
 Maas and other widely read authors.
@@ -507,9 +430,7 @@ Restricting access to books limits freedom of thought and undermines students’
 I will support legislation to overturn Utah’s book ban efforts and will work to protect the freedom to read in our schools and libraries.
 Students deserve access to a broad range of literature that helps them grow, think independently, and become informed citizens.
 Government should protect intellectual freedom and learning, not restrict it.
-DEFEND VOTING RIGHTS
-PROTECT UNIVERSAL MAIL-IN VOTING
-Utah’s legislature is actively undermining one of the most successful voter participation systems in the country.
+DEFEND VOTING RIGHTS PROTECT UNIVERSAL MAIL-IN VOTING Utah’s legislature is actively undermining one of the most successful voter participation systems in the country.
 For years, universal vote-by-mail has worked extraordinarily well in our state—secure, efficient, and widely trusted by voters across the political spectrum.
 In the 2024 primary election alone, 96.7% of Utah voters—more than 400,000 people—cast their ballots by mail or drop box.
 Yet Governor Spencer Cox and the Republican supermajority have chosen to dismantle it anyway.
@@ -527,10 +448,7 @@ Weakening it undermines the fundamental principle that every voter deserves a vo
 I will defend universal mail-in ballots and oppose any effort to suppress turnout.
 Democracy works best when participation is expanded—not restricted.
 Furthermore, I will support efforts to increase the number of ballot boxes in rural and underserved areas of the state.
-INDEPENDENT
-REDISTRICTING
-FAIR MAPS — FAIR ELECTIONS
-I support independent redistricting in Utah because our elections should reflect the will of the people, not the preferences of those in power.
+INDEPENDENT REDISTRICTING FAIR MAPS — FAIR ELECTIONS I support independent redistricting in Utah because our elections should reflect the will of the people, not the preferences of those in power.
 A broad coalition of Utah voters passed Independent Redistricting because they believed in the foundational principles of a fair democracy more than the partisan whims of a single party.
 Prop 4 could not have passed without bipartisan support.
 However, the legislature could not allow such a threat to their unchecked power over our elections as Independent Redistricting.
@@ -544,9 +462,7 @@ Allowing politicians to draw district boundaries invites manipulation that can d
 An independent process promotes transparency, fairness, and accountability by putting voters first and drawing districts that make sense for real communities.
 In the long run, independent redistricting strengthens trust in government and helps ensure that our legislature better reflects the diversity of perspectives across Utah.
 I will oppose any attempt by the legislature to enshrine their ability to draw their own maps in violation of Prop 4.
-RAISE THE WAGE
-LET LOCAL GOVERNMENTS LIFT THEIR MINIMUM WAGE
-The federal minimum wage has been stuck at $7.25 an hour since 2009.
+RAISE THE WAGE LET LOCAL GOVERNMENTS LIFT THEIR MINIMUM WAGE The federal minimum wage has been stuck at $7.25 an hour since 2009.
 No one in America can survive on $7.25 an hour without relying on family support, public assistance, or multiple jobs.
 In a state that is actively dismantling social safety net programs, that reality is not just unjust—it’s unsustainable.
 Working people are being asked to do more with less while the cost of housing, groceries, healthcare, and childcare continues to skyrocket.
@@ -561,9 +477,7 @@ If Congress refuses to act, states and local governments must be allowed to step
 Unfortunately, since 2001, Utah law has prohibited cities and counties from setting a minimum wage higher than the federal floor.
 So much for “local control.” Local governments understand their communities far better than distant legislators or a gridlocked federal government, and they should have the authority to respond to local cost-of-living realities.
 I will support legislation to repeal Utah’s minimum wage preemption law and restore the right of cities and counties to raise wages—so working Utahns can afford to live where they work.
-STUDENT LOAN FORGIVENESS
-HELP UTAH'S ESSENTIAL WORKERS STAY OUT OF DEBT
-Utah’s economy depends on skilled professionals, but for too many young people, crushing student debt stands between them and the careers our state desperately needs.
+STUDENT LOAN FORGIVENESS HELP UTAH'S ESSENTIAL WORKERS STAY OUT OF DEBT Utah’s economy depends on skilled professionals, but for too many young people, crushing student debt stands between them and the careers our state desperately needs.
 I support expanding Utah’s student debt forgiveness programs to reward service in high-demand, high-impact fields—especially where shortages are already harming communities.
 This program should prioritize professions Utah cannot afford to lose: rural doctors and nurses, teachers, engineers, aerospace workers, clean-energy and environmental scientists, and mental health professionals.
 Too many rural and underserved areas lack basic access to healthcare, counseling, and education, while our state simultaneously faces growing challenges from drought, pollution, and climate instability.
@@ -575,17 +489,13 @@ I also support expanding accelerated repayment and forgiveness programs for gove
 If we rely on people to keep our communities healthy, educated, and functioning, we should not saddle them with decades of debt for choosing service over profit.
 This is a practical, pro-worker solution that lowers costs for families, fills workforce shortages, and helps Utah grow responsibly.
 Student debt relief isn’t a handout—it’s an investment in the people who make our state work.
-BALLOT INITIATIVES
-PROTECT THE PEOPLE'S RIGHT TO SELF-DETERMINATION
-I support ballot initiatives in Utah because they give citizens a direct voice in shaping the laws and policies that govern their lives.
+BALLOT INITIATIVES PROTECT THE PEOPLE'S RIGHT TO SELF-DETERMINATION I support ballot initiatives in Utah because they give citizens a direct voice in shaping the laws and policies that govern their lives.
 The initiative process exists as a check on government power, ensuring that when elected officials are unwilling or unable to act, the people can still bring forward ideas with broad public support.
 Efforts by the legislature to weaken initiatives or make them harder to qualify undermine this fundamental democratic tool and concentrate more power in the hands of a few.
 If an idea can meet the clear, rigorous requirements to earn a place on the ballot, then voters—not politicians—should have the final say.
 Protecting the initiative process is about respecting the will of the people and preserving a meaningful avenue for civic participation in Utah.
 I will oppose any legislation that attempts to undermine Utahns right to propose ballot initiatives or seeks to alter initiatives which have passed.
-IMMIGRATION ENFORCEMENT
-UNMASK THE SECRET POLICE — BODY CAMERAS FOR ICE
-Since Trump took office in 2024, ICE’s budget has reportedly increased by 400%, while officer training has been slashed from five months to just 47 days—apparently for no reason other than symbolic alignment with Trump being the 47th president.
+IMMIGRATION ENFORCEMENT UNMASK THE SECRET POLICE — BODY CAMERAS FOR ICE Since Trump took office in 2024, ICE’s budget has reportedly increased by 400%, while officer training has been slashed from five months to just 47 days—apparently for no reason other than symbolic alignment with Trump being the 47th president.
 The result is predictable and dangerous: inexperienced agents operating with enormous power, breaking the law, violating civil rights, and escalating violence rather than enforcing justice.
 A ProPublica investigation found that ICE has mistakenly detained more than 170 American citizens during these raids.
 Thirty-two people have died in ICE custody.
@@ -612,9 +522,7 @@ Secondly, I will fight to prevent local law enforcement from acting as an arm of
 Lastly, I will also support legislation requiring all law enforcement to wear body cameras when conducting operations in our state.
 We do not need a secret police terrorizing our neighborhoods.
 Authority without accountability is fascism.
-RELIGIOUS FREEDOM
-SEPARATION OF CHURCH AND HATE
-I grew up Christian, but it brings me no comfort—and no pride—to see my faith paraded by right-wing extremists like Donald Trump and Mike Lee to justify cruelty, greed, and power.
+RELIGIOUS FREEDOM SEPARATION OF CHURCH AND HATE I grew up Christian, but it brings me no comfort—and no pride—to see my faith paraded by right-wing extremists like Donald Trump and Mike Lee to justify cruelty, greed, and power.
 Jesus taught us to love our neighbor, feed the poor, welcome the stranger, and care for those on the margins.
 Yet, the self-professed Christians operating the highest levers of political power today practice the opposite.
 Like the Pharisees Jesus called out for hypocrisy and internal wickedness, too many Church leaders and politicians claim to act 'in the name of God' while supporting legislation that harms the most vulnerable among us.
@@ -651,9 +559,7 @@ Whoever wants to be a leader among you, must be a servant.” That’s the kingd
 Politicians today forget that they are servants to the poor and oppressed, not the wealthy and powerful.
 As a Christian, I will continue to operate everyday with love and compassion for all.
 As a legislator, I will defend the separation of Church and State, fight for the poor, and challenge the powerful.
-GUN CONTROL
-DEFEND DEMOCRACY FROM SUBVERSION
-As citizens of the United States, we are all entitled to the rights guaranteed by the Constitution—and we should exercise them.
+GUN CONTROL DEFEND DEMOCRACY FROM SUBVERSION As citizens of the United States, we are all entitled to the rights guaranteed by the Constitution—and we should exercise them.
 Democrats are often portrayed as the party of gun control, and frankly, every time there is another school shooting, it’s not hard to empathize with those searching for solutions.
 But gun rights are not a left-versus-right issue.
 Like our neighbors on the right, we are far more politically diverse than the corporate media wants us to believe.
@@ -685,10 +591,7 @@ It is about empowering workers, communities, and citizens to assert their rights
 True liberation—political, social, and economic—cannot exist if unaccountable elites wield absolute control.
 Protecting the right to self-defense ensures that democracy is not merely words on paper, but a living system in which power remains accountable to We the People.
 I will never support any legislation that restricts the right of the public to bear arms.
-END THE FAILED
-WAR ON DRUGS
-LEGALIZE RECREATIONAL CANNABIS IN UTAH
-Utah is currently experiencing a severe and evolving drug crisis with overdose deaths from fentanyl and meth increasing throughout the state while declining in other states.
+END THE FAILED WAR ON DRUGS LEGALIZE RECREATIONAL CANNABIS IN UTAH Utah is currently experiencing a severe and evolving drug crisis with overdose deaths from fentanyl and meth increasing throughout the state while declining in other states.
 Spending our precious resources imprisoning people at a higher rate than any other nation in the world, including for benign substances like cannabis and psilocybin, is one of the more misguided policies in American history.
 Utah voters passed the Medical Cannabis Act in 2018 (Prop 2) which was immediately and significantly amended by HB3001.
 Like the legislature’s attempts to overturn Prop 4, I believe these amendments were too far astray from the intent of the law passed by voters.
@@ -701,17 +604,12 @@ In contrast, New Mexico did not limit licenses to prospective growers or dispens
 Currently Utah law allows for only 14 legal dispensaries statewide.
 I will support legislation to lift the cap on licenses for cannabis growers and dispensaries with licensing and tax revenue used to fund anti-drug programs for youth, reintegration services for formerly incarcerated people, public-safety, and environmental programs.
 I will also support an amendment to allow for home-cultivation as intended in the original spirit of Prop 2.
-TRIBAL SOVEREIGNITY
-LET THE PAIUTES AND UTES SELF-GOVERN
-The Paiute Indian Tribes of Utah are entitled to true sovereignty and self-determination.
+TRIBAL SOVEREIGNITY LET THE PAIUTES AND UTES SELF-GOVERN The Paiute Indian Tribes of Utah are entitled to true sovereignty and self-determination.
 Too often, state and federal governments have trampled on the sovereignty of indigenous peoples.
 The Paiute’s only regained Federal Recognition in 1980 after decades of loss and erosion to their culture and heritage.
 Cultural preservation is an important part of tribal leadership’s priorities and having control over their own affairs is central to that.
 I will support the passage of the Indian Family’s Preservation Act (HB30), designed to protect native children by giving tribal courts jurisdiction over custody proceedings and tribal foster care homes standards.
-EQUALITY FOR ALL
-END POINTLESS POLITICAL THEATER
-LEAVE THE CULTURE WAR IN 2020
-I’m tired of politicians using small and vulnerable groups as political punching bags—whether based on race, sexual orientation, or gender identity—instead of doing the hard work of governing.
+EQUALITY FOR ALL END POINTLESS POLITICAL THEATER LEAVE THE CULTURE WAR IN 2020 I’m tired of politicians using small and vulnerable groups as political punching bags—whether based on race, sexual orientation, or gender identity—instead of doing the hard work of governing.
 Last session, Rep.
 Rex Shipp sponsored just four bills, and one of them targeted transgender minors by proposing a ban on puberty blockers.
 Regardless of where you stand on the issue (and I have serious concerns about medical interventions for minors), this proposal was pure political theater.
@@ -722,24 +620,18 @@ While politicians chase headlines and outrage, Utahns are struggling with real i
 Conservatives and liberals alike deserve lawmakers focused on solutions, not scapegoats.
 I will support legislation that strengthens and enforces anti-discrimination protections for all Utahns—regardless of race, religion, sex, sexual orientation, or gender identity—because equal treatment under the law is not a partisan issue.
 It’s a fundamental American value.
-TEEN SUICIDE
-MENTAL HEALTH SERVICES FOR LGBT YOUTH
-Despite having one of the highest teen suicide rates in the nation, the Utah Legislature has failed to adequately invest in the well-being of our youth.
+TEEN SUICIDE MENTAL HEALTH SERVICES FOR LGBT YOUTH Despite having one of the highest teen suicide rates in the nation, the Utah Legislature has failed to adequately invest in the well-being of our youth.
 The causes of teen suicide are complex, but one contributing factor is the intense cultural pressure placed on young people in some LDS communities to conform—paired with deep alienation for those who do not, particularly LGBTQ youth.
 While religious involvement can be meaningful and supportive for many families across our state, research shows that LGBTQ youth often experience heightened stress, shame, and isolation in environments marked by non-acceptance, significantly increasing their risk of self-harm and suicide.
 Compounding this crisis, Utah ranks 48th in the nation for access to mental health services.
 That is unacceptable.
 When young people are asking for help, our state should not be turning them away.
 I support expanding mental health services in our schools, including LGBT-inclusive programs that ensure every student has access to care, support, and a future worth fighting for.
-ABORTION
-PROTECT THE INNOCENT
-I believe every human life has value, including unborn life, and I support policies that encourage and support motherhood, strengthen families, and reduce the economic pressures that lead many women to consider abortion in the first place.
+ABORTION PROTECT THE INNOCENT I believe every human life has value, including unborn life, and I support policies that encourage and support motherhood, strengthen families, and reduce the economic pressures that lead many women to consider abortion in the first place.
 At the same time, I recognize that pregnancy can involve deeply difficult medical and personal circumstances, and I believe compassion, conscience, and reasonable accommodations must remain part of the conversation.
 Too often, politicians treat this issue as a culture war talking point while ignoring the real struggles families face: unaffordable housing, childcare costs, lack of healthcare access, stagnant wages, and economic insecurity.
 If we truly value life and family, we should build a society where raising children is affordable, supported, and dignified.
-CHILDCARE FOR ALL
-SUPPORT UTAH FAMILIES
-According to a recent study by Lending Tree, it costs approximately $276,509 to raise a child in Utah, making it the 17th most expensive state to do so.
+CHILDCARE FOR ALL SUPPORT UTAH FAMILIES According to a recent study by Lending Tree, it costs approximately $276,509 to raise a child in Utah, making it the 17th most expensive state to do so.
 The same study saw a 17.5% increase in childcare costs for Utahns year over year, making us 10th in the entire nation.
 Utah parents are being pushed into poverty and forced out of the workforce because childcare costs have become unaffordable for too many families.
 In Utah alone, infant care can cost well over $11,000 per year on average, and many working families spend upwards of 30 % of their income on childcare—far above the federal guideline that care should cost no more than 7 % of family income.
@@ -758,9 +650,7 @@ Programs like the Abecedarian Project, for instance, found that high-quality ear
 If we want Utahns to be able to afford to start families and remain active in the workforce, we cannot simply hope for change—we must legislate it.
 I will support legislation to expand childcare services in the state, including incentives for providers, direct support for families, and public-private partnerships that increase supply and lower costs.
 By learning from successful state efforts and tailoring policies to Utah’s unique needs, we can remove barriers that currently force parents into poverty or out of employment and build an economy that works for families, not against them.
-PASSENGER RAIL
-CONNECT THE STATE & BOOST OUR ECONOMY
-Expanding passenger rail in Utah to connect communities like Logan, Salt Lake City, Moab, Cedar City, St.
+PASSENGER RAIL CONNECT THE STATE & BOOST OUR ECONOMY Expanding passenger rail in Utah to connect communities like Logan, Salt Lake City, Moab, Cedar City, St.
 George, and Las Vegas is a long-term investment in both economic resilience and environmental responsibility.
 A statewide and regional rail network that knits together Utah’s urban centers, college towns, and tourism hubs, would make it easier for workers, students, and visitors to move across the state without relying on congested highways or long car trips.
 Over time, passenger rail would drive economic growth throughout the state by attracting businesses, boosting tourism, increasing property values near stations, and creating stable, well-paying jobs in construction, operations, and maintenance.
@@ -769,11 +659,7 @@ By planning now for rail that connects northern Utah, the Wasatch Front, souther
 Furthermore, much of the proposed rail lines already exist, requiring relatively short connections to create a truly comprehensive statewide rail network.
 For too long, our communities have been built centered around automobiles, exacerbating urban sprawl, ecosystem collapse, and air-pollution.
 I will work with organizations like the Utah Rail Passengers Association to support efforts to secure Federal Funding for the expansion of passenger rail in Utah.
-AMERICA DOESN'T NEED ZIONIST POLITICIANS
-OR MOSSAD BLACKMAIL
-THE WAR IN GAZA
-WITHDRAW UTAH SUPPORT FOR GENOCIDE
-As a House Representative, I have little power to influence Federal Policy regarding our financial support for the Netanyahu regime and their brutal war on Gaza, but I feel strongly that anyone pursuing elected office should declare their position on the matter.
+AMERICA DOESN'T NEED ZIONIST POLITICIANS OR MOSSAD BLACKMAIL 93% SENATORS AND 84% CONGRESSMEN RECIEVED FUNDING FROM AIPAC IN 2025 THE WAR IN GAZA WITHDRAW UTAH SUPPORT FOR GENOCIDE As a House Representative, I have little power to influence Federal Policy regarding our financial support for the Netanyahu regime and their brutal war on Gaza, but I feel strongly that anyone pursuing elected office should declare their position on the matter.
 I will not mince words on this.
 We are sending billions of American taxpayer dollars to fund the murder and starvation of non-comabtant men, women, and children in Gaza in what can only be described as a genocide against the Palestinian people.
 Netanyahu is a war criminal who deserves to be brought to justice, not lead a nation.
@@ -783,11 +669,7 @@ Not only is this a direct attack on Utahns First Amendment Right to free speech,
 No state has the right to criminalize political protest or silence dissent on behalf of a foreign government.
 I stand with all people seeking peace, democracy, and self-determination.
 In this moment that means a clear-eyed condemnation of the Gaza Genocide and the use of every lever of American influence—diplomatic, economic, and political—to bring the killing to an end.
-RELEASE
-THE EPSTEIN FILES
-JUSTICE FOR ALL — PROSECUTION FOR PEDOPHILES
-NOT PROTECTION
-During the Trump administration, the Department of Justice effectively closed the Epstein investigation, asserting that there were no additional accomplices or perpetrators worth prosecuting.
+RELEASE THE EPSTEIN FILES JUSTICE FOR ALL — PROSECUTION FOR PEDOPHILES NOT PROTECTION During the Trump administration, the Department of Justice effectively closed the Epstein investigation, asserting that there were no additional accomplices or perpetrators worth prosecuting.
 This was an insult to common sense, triggering a rare bipartisan revolt led by Republican Representative Thomas Massie and Democrat Representative Ro Khanna to force the full release of the Epstein files so the public could see the truth for itself.
 While a handful of Republicans had the courage to join them, most did not, instead falling in line behind Trump and refusing to support disclosure.
 Despite sustained efforts to block it, Congress ultimately compelled the release of the files by December 19th, 2025.
@@ -810,3 +692,5 @@ If we are serious about building a better country, transparency is not optional,
 The Epstein files must be released in full, unredacted, and the truth must be allowed to land wherever it lands.
 Thats it for now.
 Email tomleemonroe@gmail.com if you want to hear my stance or thoughts on anything else.
+BE A PART OF THE CHANGE.
+GET INVOLVED. tomleemonroe@gmail.com First Name Last Name Email Message Send VOTE LOVEHEART tomleemonroe@gmail.com bottom of page

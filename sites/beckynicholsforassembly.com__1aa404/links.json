@@ -1,14 +1,86 @@
 [
-"https://beckynicholsforassembly.com/",
-"https://beckynicholsforassembly.com/about",
-"https://beckynicholsforassembly.com/endorsements",
-"https://beckynicholsforassembly.com/get-involved",
-"https://beckynicholsforassembly.com/issues",
-"https://beckynicholsforassembly.com/privacy-policy",
-"https://facebook.com/BeckyNicholsForAssembly",
-"https://instagram.com/beckynicholsforassembly",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=53",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=61",
-"https://myvote.wi.gov/en-us",
-"https://secure.actblue.com/donate/bn-website"
+{
+"text": "About",
+"href": "https://www.beckynicholsforassembly.com/about"
+},
+{
+"text": "Click this link",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=53"
+},
+{
+"text": "Click this link",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.beckynicholsforassembly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.beckynicholsforassembly.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.beckynicholsforassembly.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.beckynicholsforassembly.com/get-involved"
+},
+{
+"text": "Learn More",
+"href": "https://www.beckynicholsforassembly.com/issues"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/bn-website"
+},
+{
+"text": "Map of Assembly District 53",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=61"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beckynicholsforassembly.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.beckynicholsforassembly.com/about"
+},
+{
+"text": "Wisconsin Voter Info",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BeckyNicholsForAssembly/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/beckynicholsforassembly"
+},
+{
+"text": "[image: Map of WI Assembly District 53]",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=53"
+},
+{
+"text": "[image: Nichols for Assembly campaign logo]",
+"href": "https://www.beckynicholsforassembly.com"
+},
+{
+"text": "[image: Vote Buttons Display]",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "clicking this link.",
+"href": "https://secure.actblue.com/donate/bn-website"
+},
+{
+"text": "info@beckynicholsforassembly.com",
+"href": "mailto:info@nicholsforassembly.com?subject=Question+about+the+campaign"
+},
+{
+"text": "​",
+"href": "https://www.beckynicholsforassembly.com"
+}
 ]

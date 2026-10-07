@@ -1,36 +1,8 @@
-ABATE of IL
-Associated Firefighters of IL
-Chicago Firefighters – Local 2
-Chicago Tribune Editorial Board
-Fraternal Order of Police
-IL Retired Teachers
-IL State Rifle Association
-International Union of Operating Engineers Local 150
-IL Fuel and Retail Association
-IL Pro-Family Alliance
-Nation Federation of Independent Business of IL
-NRA
-Associated Beer Distributors of IL
-CAR of IL
-IL Beef Association
-IL Community Bankers
-IL Corn Growers Association
-IL Hotel and Lodging Association
-IL Life and Health Insurance Council
-IL Med Society
-IL Optometric Association
-IL Pork Producers
-IL Railroad Association
-IL Med Society
-IL Optometric Association
-IL Pork Producers
-IL Railroad Association
-IL Retail Merchants Political Action Committee IMPACT
-IL Hospital Association
-IL Trucking Association
-IMA – IL Manufacturers Association
-John Deere PAC
-John Deere PAC
-Mid-West Truckers Association
-Friend of Agriculture – IL Farm Bureau
-Legislator of the Year – Associate Builders and Contractors
+Latest News IL House GOP Leader McCombie Named One of the The Hills Top Women Shaping Policy IL House GOP Leader McCombie on Chicago Migrant Situation Election 2024 Filing Day Meet Tony Endorsements Issues Events Volunteer Donate Tony's 2026 Primary Endorsements Endorsed ABATE of IL Associated Firefighters of IL Chicago Firefighters – Local 2 Chicago Tribune Editorial Board Fraternal Order of Police IL Retired Teachers IL State Rifle Association International Union of Operating Engineers Local 150 IL Fuel and Retail Association IL Pro-Family Alliance Nation Federation of Independent Business of IL NRA Support Associated Beer Distributors of IL CAR of IL IL Beef Association IL Community Bankers IL Corn Growers Association IL Hotel and Lodging Association IL Life and Health Insurance Council IL Med Society IL Optometric Association IL Pork Producers IL Railroad Association IL Retail Merchants Political Action Committee IMPACT IL Hospital Association IL Trucking Association IMA – IL Manufacturers Association John Deere PAC Mid-West Truckers Association Other Friend of Agriculture – IL Farm Bureau Legislator of the Year – Associate Builders and Contractors A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Privacy Policy McCombie for Illinois respects your privacy and is committed to protecting your personal information.
+We collect your name, email address, and cell phone number when you provide it to us.
+We use this information to send you marketing messages, provide customer support, and improve our products and services.
+We will keep your information for as long as you are a customer of ours, or until you ask us to delete it.
+We will protect your information by using industry-standard security measures.
+We will not share your information with third parties without your consent.
+Paid for by McCombie for Illinois

@@ -1,24 +1,90 @@
 [
-"https://facebook.com/61585159342233",
-"https://fatimamuse.com/",
-"https://fatimamuse.com/about-us",
-"https://fatimamuse.com/cdn-cgi/l/email-protection",
-"https://fatimamuse.com/contact-us",
-"https://fatimamuse.com/en-espa\u00f1ol",
-"https://fatimamuse.com/get-to-know-the-candidate",
-"https://fatimamuse.com/legal-notice",
-"https://fatimamuse.com/merchant-policies",
-"https://fatimamuse.com/services",
-"https://fatimamuse.com/services/public-policy-advocacy/education-150636223",
-"https://fatimamuse.com/services/public-policy-advocacy/healthcare-150636227",
-"https://fatimamuse.com/services/public-policy-advocacy/infrastructure-150636225",
-"https://fatimamuse.com/services/public-policy-advocacy/responsible-growth-water-and-data-center-accountability-150695913",
-"https://fatimamuse.com/services/public-policy-advocacy/second-amendment-public-safety-150636226",
-"https://fatimamuse.com/services/public-policy-advocacy/taxes-150636224",
-"https://secure.actblue.com/donate/votemuse",
-"https://ueni.com/",
-"https://votemuse.com/about-us",
-"https://votemuse.com/contact-us",
-"https://votemuse.com/get-to-know-the-candidate/meet-fatima",
-"https://x.com/VoteMuseHD2"
+{
+"text": "About",
+"href": "https://www.fatimamuse.com/get-to-know-the-candidate"
+},
+{
+"text": "CONTACT THE CAMPAIGN",
+"href": "https://votemuse.com/contact-us"
+},
+{
+"text": "Contact",
+"href": "https://www.fatimamuse.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votemuse"
+},
+{
+"text": "En Español",
+"href": "https://www.fatimamuse.com/en-espa%C3%B1ol"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votemuse.com/about-us"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fatimamuse.com/about-us"
+},
+{
+"text": "Home",
+"href": "https://www.fatimamuse.com/"
+},
+{
+"text": "LEARN MORE ABOUT FATIMA",
+"href": "https://votemuse.com/get-to-know-the-candidate/meet-fatima"
+},
+{
+"text": "Learn More",
+"href": "https://www.fatimamuse.com/services/public-policy-advocacy/education-150636223"
+},
+{
+"text": "Learn More",
+"href": "https://www.fatimamuse.com/services/public-policy-advocacy/healthcare-150636227"
+},
+{
+"text": "Learn More",
+"href": "https://www.fatimamuse.com/services/public-policy-advocacy/infrastructure-150636225"
+},
+{
+"text": "Learn More",
+"href": "https://www.fatimamuse.com/services/public-policy-advocacy/responsible-growth-water-and-data-center-accountability-150695913"
+},
+{
+"text": "Learn More",
+"href": "https://www.fatimamuse.com/services/public-policy-advocacy/second-amendment-public-safety-150636226"
+},
+{
+"text": "Learn More",
+"href": "https://www.fatimamuse.com/services/public-policy-advocacy/taxes-150636224"
+},
+{
+"text": "Legal Notice",
+"href": "https://www.fatimamuse.com/legal-notice"
+},
+{
+"text": "Merchant Policies",
+"href": "https://www.fatimamuse.com/merchant-policies"
+},
+{
+"text": "Priorities",
+"href": "https://www.fatimamuse.com/services"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/61585159342233"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteMuseHD2"
+},
+{
+"text": "[no text]",
+"href": "mailto:Fatima@VoteMuse.com"
+},
+{
+"text": "[tooltip: logo]",
+"href": "https://ueni.com/"
+}
 ]

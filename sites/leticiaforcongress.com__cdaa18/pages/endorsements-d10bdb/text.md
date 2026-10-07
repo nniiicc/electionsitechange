@@ -1,45 +1,12 @@
-Skip navigation menu
-Individual Endorsements
-Organization Endorsements
-Organization Recognitions
-Want to add your endorsement?
-Let the campaign know at: info@leticiaforcongress.com
-- U.S.
-Representative, Texas's 7th Congressional District, Lizzie Fletcher
-- U.S.
-Representative, Texas's 9th Congressional District, Al Green
-- U.S.
-Representative, Texas's 18th Congressional District, Christian D.
-Menefee
-- U.S.
-Representative, Texas's 29th Congressional District, Sylvia Garcia
-- Harris County Commissioner, Precinct 2, Adrian Garcia
-- State Representative, Penny Shaw
-- State Representative, Christina Morales
-- Houston City Council Member, Joaquin Martinez
-- Houston City Council Member, Mario Castillo
-- Houston City Council Member, Dr.
-Letitia Plummer
-- Harris County Constable, Precinct 2, Jerry Garcia
-- Hispanic Community Leader, Democratic Precinct Chair, Mayor of Houston's Hispanic Advisor, Lenora Sorola-Pohlman
-- Pasadena City Council Member, Johnny Fusilier
-- Democratic Precinct Chair, Freddy Blanco
-- Civil Rights Icon, Johnny Mata
-- Democratic Precinct Chair, Helen McKay
-- Preacher and Community Leader, Reverend James L Caldwell
-- Harris County Appraisal District, Position 1, Kathy Blueford-Daniels
-- Artist, Jesse E.
-Rodriguez (Magnolia Grown)
-- Democratic Party Precinct Chair, Member of the Board of Trustees, ABNC, Member of the Executive Board, the MultiCultural Center, Mohammed Nasrullah
-- SDEC CD 36 Representative, April Dobberstein
-- Democratic Precinct Chair, Maria Esquivel
-- Harris County Sheriff, Ed Gonzalez
-- State Representative, Ron Reynolds
-- State Representative, Jolanda Jones
-- State Representative, Harold Dutton Jr.
-- Galena Park ISD School Board, Position 5, Jose Jimenez
-- Houston City Council Member, Alejandra Salinas
-- Small Business Owner, Community Advocate, Desirée Klaus
-- Harris County Tax Assessor, Annette Ramirez
-- Leader and Advocate, Somtoochukwu Ik-Ejiofor
-- Mayor of South Houston, Joe Soto
+Skip navigation menu About Priorities News Endorsements Events Volunteer Donate Endorsements About Priorities News Endorsements Events Volunteer Donate Endorsements Individual Endorsements U.S.
+Representative, Texas's 7 th Congressional District, Lizzie Fletcher U.S.
+Representative, Texas's 9 th Congressional District, Al Green U.S.
+Representative, Texas's 18 th Congressional District, Christian D.
+Menefee U.S.
+Representative, Texas's 29 th Congressional District, Sylvia Garcia Harris County Commissioner, Precinct 2, Adrian Garcia State Representative, Penny Shaw State Representative, Christina Morales Houston City Council Member, Joaquin Martinez Houston City Council Member, Mario Castillo Houston City Council Member, Dr.
+Letitia Plummer Harris County Constable, Precinct 2, Jerry Garcia Hispanic Community Leader, Democratic Precinct Chair, Mayor of Houston's Hispanic Advisor, Lenora Sorola-Pohlman Pasadena City Council Member, Johnny Fusilier Democratic Precinct Chair, Freddy Blanco Civil Rights Icon, Johnny Mata Democratic Precinct Chair, Helen McKay Preacher and Community Leader, Reverend James L Caldwell Harris County Appraisal District, Position 1, Kathy Blueford-Daniels Artist, Jesse E.
+Rodriguez (Magnolia Grown) Democratic Party Precinct Chair, Member of the Board of Trustees, ABNC, Member of the Executive Board, the MultiCultural Center, Mohammed Nasrullah SDEC CD 36 Representative, April Dobberstein Democratic Precinct Chair, Maria Esquivel Harris County Sheriff, Ed Gonzalez State Representative, Ron Reynolds State Representative, Jolanda Jones State Representative, Harold Dutton Jr.
+Galena Park ISD School Board, Position 5, Jose Jimenez Houston City Council Member, Alejandra Salinas Small Business Owner, Community Advocate, Desirée Klaus Harris County Tax Assessor, Annette Ramirez Leader and Advocate, Somtoochukwu Ik-Ejiofor Mayor of South Houston, Joe Soto Organization Endorsements Houston Progressive Caucus Harris County Young Democrats Bay Area New Democrats Area 5 Democrats Her Bold Move Democrats of La Porte Harris County Tejano Democrats Latinas United International Longshoremen's Association (ILA), Local 24 National Association of Letter Carriers, AFL-CIO Texas American Federation of Teachers Texas AFL-CIO Texas Gulf Coast Area Labor Federation, AFL-CIO Communications Workers of America (CWA), District 6 Democrats Abroad Veterans and Military Families Caucus Justice Opportunity Liberty Politico (JOLPOL) Organization Recognitions Honor Roll Candidate , Teachers Unify to End Gun Violence Want to add your endorsement?
+Let the campaign know at: info@leticiaforcongress.com Privacy Policy info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 For Media Inquiries: press@leticiaforcongress.com Powered by RUN! website builder Political Adv.
+Paid for by the Leticia Gutierrez for Congress.
+You need to enable JavaScript to run this app.

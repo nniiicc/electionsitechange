@@ -1,36 +1,158 @@
 [
-"http://facebook.com/kimkeiserman",
-"https://bsky.app/profile/kimkeiserman.bsky.social",
-"https://facebook.com/kimkeiserman",
-"https://instagram.com/kimkeiserman",
-"https://kimkeiserman.com/",
-"https://kimkeiserman.com/endorsements",
-"https://kimkeiserman.com/get-involved",
-"https://kimkeiserman.com/kimontheissues",
-"https://kimkeiserman.com/kimterns",
-"https://kimkeiserman.com/matching-funds-program",
-"https://kimkeiserman.com/media",
-"https://kimkeiserman.com/meet-kim",
-"https://kimkeiserman.com/privacy",
-"https://kimkeiserman.com/voter-resources",
-"https://secure.actblue.com/donate/kim-keiserman-1",
-"https://static.wixstatic.com/media/68308d_17e08fe3068245a1a3c0b1bf36063e5b~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_212d2104346b405aa9791a7f9301016d~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_23b369892c5a4fe2af1ab48c5fa95138~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_293c0c6b38264067b32f4337176119f2~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_2a43150a3e30472f814534ed9b19164d~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_46d810eb8d3542b58831447874b059ce~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_4b3f3068c112459785eb2702e89a8667~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_6e76746c23db49baa6b74e08e81da978~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_70e97d21d9784a0882bf4b38fa5829d9~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_9f6e074aa3d94a9a955e039354c5760d~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_aa0b43a2245749258fc5cc583fdfe0dc~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_ccdab07e9a454c9688da3c136166a719~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_ce9e84cdb57348dca725c01227ea91b0~mv2.jpg",
-"https://static.wixstatic.com/media/68308d_e39999dca7ca4330884b312d629cc65d~mv2.jpg",
-"https://twitter.com/kimkeiserman",
-"https://video.wixstatic.com/video/68308d_57ad0ebab7444d19b98df6884d3f68d4/1080p/mp4/file.mp4",
-"https://video.wixstatic.com/video/68308d_5c6765ed50e44bda9504dc75eb431633/1080p/mp4/file.mp4",
-"https://video.wixstatic.com/video/68308d_ad0e7590fe804b94940a0d2b23b931b5/1080p/mp4/file.mp4",
-"https://video.wixstatic.com/video/68308d_f95b933bf70a4cefa942e03711a5af8b/1080p/mp4/file.mp4"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_17e08fe3068245a1a3c0b1bf36063e5b~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_212d2104346b405aa9791a7f9301016d~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_23b369892c5a4fe2af1ab48c5fa95138~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_293c0c6b38264067b32f4337176119f2~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_2a43150a3e30472f814534ed9b19164d~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_46d810eb8d3542b58831447874b059ce~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_4b3f3068c112459785eb2702e89a8667~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_6e76746c23db49baa6b74e08e81da978~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_70e97d21d9784a0882bf4b38fa5829d9~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_9f6e074aa3d94a9a955e039354c5760d~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_aa0b43a2245749258fc5cc583fdfe0dc~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_ccdab07e9a454c9688da3c136166a719~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_ce9e84cdb57348dca725c01227ea91b0~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://static.wixstatic.com/media/68308d_e39999dca7ca4330884b312d629cc65d~mv2.jpg"
+},
+{
+"text": "Download",
+"href": "https://video.wixstatic.com/video/68308d_57ad0ebab7444d19b98df6884d3f68d4/1080p/mp4/file.mp4"
+},
+{
+"text": "Download",
+"href": "https://video.wixstatic.com/video/68308d_5c6765ed50e44bda9504dc75eb431633/1080p/mp4/file.mp4"
+},
+{
+"text": "Download",
+"href": "https://video.wixstatic.com/video/68308d_ad0e7590fe804b94940a0d2b23b931b5/1080p/mp4/file.mp4"
+},
+{
+"text": "Download",
+"href": "https://video.wixstatic.com/video/68308d_f95b933bf70a4cefa942e03711a5af8b/1080p/mp4/file.mp4"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kimkeiserman.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kimkeiserman.com/get-involved"
+},
+{
+"text": "Kim on the Issues",
+"href": "https://www.kimkeiserman.com/kimontheissues"
+},
+{
+"text": "Matching Funds Program",
+"href": "https://www.kimkeiserman.com/matching-funds-program"
+},
+{
+"text": "Media",
+"href": "https://www.kimkeiserman.com/media"
+},
+{
+"text": "Meet Kim",
+"href": "https://www.kimkeiserman.com/meet-kim"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.kimkeiserman.com/privacy"
+},
+{
+"text": "The Kimterns",
+"href": "https://www.kimkeiserman.com/kimterns"
+},
+{
+"text": "Up",
+"href": "https://www.kimkeiserman.com/media"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kimkeiserman.com/voter-resources"
+},
+{
+"text": "[image: BlueskyCiricle]",
+"href": "https://bsky.app/profile/kimkeiserman.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/kimkeiserman"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kimkeiserman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kimkeiserman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kimkeiserman/"
+},
+{
+"text": "[image: KKEI-2025-LOGO_FINAL_R1_cmyk_light.png]",
+"href": "https://www.kimkeiserman.com/media"
+},
+{
+"text": "[image: KKEI-2025-LOGO_FINAL_R1_cmyk_primary.png]",
+"href": "https://www.kimkeiserman.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/kimkeiserman"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/kimkeiserman"
+},
+{
+"text": "[image: bluesky-BLack]",
+"href": "https://bsky.app/profile/kimkeiserman.bsky.social"
+}
 ]

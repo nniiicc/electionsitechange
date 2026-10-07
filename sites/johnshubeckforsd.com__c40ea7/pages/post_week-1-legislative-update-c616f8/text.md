@@ -1,9 +1,4 @@
-Week 1 - Legislative Update
-Representative John Shubeck | District 16
-South Dakota Legislature
-House of Representatives
-Originally Posted on Facebook: January 17, 2026
-We kicked off the legislative session for 2026 on Tuesday January 13th.
+top of page Home Meet John On the Issues News Menu Back to site Get Involved News Week 1 - Legislative Update Jan 17 2 min read Representative John Shubeck | District 16 South Dakota Legislature House of Representatives Originally Posted on Facebook : January 17, 2026 We kicked off the legislative session for 2026 on Tuesday January 13th.
 The biggest topics for discussion going forward are going to be tax incentives for data centers and property tax relief.
 There are over 20 property tax relief proposals, all have pluses and minuses, and so I have not committed to any one plan yet.
 I will balance the needs of our property owners with paying for necessary government services including our schools.
@@ -24,5 +19,4 @@ My bill will have a civil penalty for streaming services that don’t adhere to 
 I think this legislation is a no brainer and I expect that it will enjoy broad support in both the house and the senate.
 Finally, I am going to get a resolution drafted which would encourage the congress and senate at the federal level to take action on this.
 I look forward to passing this legislation and working on other issues that preserve family values for District 16.
-Representative John Shubeck
-South Dakota District 16
+Representative John Shubeck South Dakota District 16 Recent Posts See All Week 6 - Legislative Update Week 5 - Legislative Update Week 3 - Legislative Update QUICK LINKS Home Meet John On the Issues Get Involved News Contact SOCIAL Facebook ​ CONTACT johnshubeckforsd@gmail.com 605-553-1094 ​ 29341 468th Ave Beresford, SD 57004 Paid for by John Shubeck for SD © # | Terms & Conditions | Privacy Policy | Accessibility Statement JOIN OUR NEWSLETTER First name Last name Email * Yes, subscribe me to your newsletter * Submit Home Meet John On the Issues News bottom of page

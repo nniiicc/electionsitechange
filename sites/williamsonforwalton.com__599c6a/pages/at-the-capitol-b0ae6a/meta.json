@@ -1,7 +1,9 @@
 {
  "description": "Follow the legislation that Representative Williamson is working on. Click here. .",
  "final_url": "https://williamsonforwalton.com/at-the-capitol/",
- "paid_for_by": null,
+ "fingerprint": "523179e9487d61af18685c8e613194decd371fd3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "At the Capitol",
  "years_mentioned": []
 }

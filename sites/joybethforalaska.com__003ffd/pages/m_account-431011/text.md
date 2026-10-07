@@ -1,11 +1,6 @@
 Thank you District 34 for Turning Out!
 We won the Primary with 52.99%!!
-Signed in as:
-filler@godaddy.com
-Sign in to your account to access your profile, history, and any private pages you've been granted access to.
-Not a member?
+Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Account sign in Sign in to your account to access your profile, history, and any private pages you've been granted access to.
+Sign in Reset password Not a member?
 Create account.
-Paid for by: Friends of Joy Beth Cottle
-390 Goldstream Rd Fairbanks AK 99712
-Copyright © 2026 Friends of Joy Beth Cottle - All Rights Reserved.
-joybeth@joybethforalaska.com
+Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Paid for by: Friends of Joy Beth Cottle 390 Goldstream Rd Fairbanks AK 99712 (907)388-6280 Copyright © # Friends of Joy Beth Cottle - All Rights Reserved. joybeth@joybethforalaska.com

@@ -1,9 +1,42 @@
 [
-"https://nolan4wa.com/",
-"https://nolan4wa.com/about-alan",
-"https://nolan4wa.com/blog",
-"https://nolan4wa.com/get-involved",
-"https://nolan4wa.com/post/reject-sta-prop-1",
-"https://nolan4wa.com/restoring-washington",
-"https://secure.winred.com/committee-to-elect-alan-nolan/donate"
+{
+"text": "About Alan",
+"href": "https://www.nolan4wa.com/about-alan"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-alan-nolan/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nolan4wa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.nolan4wa.com"
+},
+{
+"text": "Hot Topics",
+"href": "https://www.nolan4wa.com/blog"
+},
+{
+"text": "Read More →",
+"href": "https://www.nolan4wa.com/about-alan"
+},
+{
+"text": "Restoring Washington",
+"href": "https://www.nolan4wa.com/restoring-washington"
+},
+{
+"text": "STA Prop 1",
+"href": "https://www.nolan4wa.com/post/reject-sta-prop-1"
+},
+{
+"text": "[image: Nolan-Logo.png]",
+"href": "https://www.nolan4wa.com"
+},
+{
+"text": "alan@nolan4wa.com",
+"href": "mailto:alan@nolan4wa.com"
+}
 ]

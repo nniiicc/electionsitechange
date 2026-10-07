@@ -1,12 +1,1 @@
-Home
-About James
-Volunteer
-Donate
-Contact
-Home
-About James
-Volunteer
-Donate
-Contact
-Volunteer
-Loading…
+Home About James Volunteer Donate Contact Home About James Volunteer Donate Contact Volunteer Loading… Paid for by The Campaign to Elect James Petzke Campaign Treasurer: Joel Hickman See James's Tweets Couldn't connect with Twitter Home About James Volunteer Donate Contact

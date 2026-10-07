@@ -1,6 +1,22 @@
 [
-"https://bamberg90.com/",
-"https://facebook.com/profile.php?id=12621569",
-"https://secure.actblue.com/contribute/page/bambergforsc",
-"https://twitter.com/JustinBamberg"
+{
+"text": "Justin Bamberg",
+"href": "https://bamberg90.com"
+},
+{
+"text": "[image: Justin Bamberg]",
+"href": "https://bamberg90.com"
+},
+{
+"text": "[image: bamberg-button-donate]",
+"href": "https://secure.actblue.com/contribute/page/bambergforsc"
+},
+{
+"text": "[image: bamberg-facebook]",
+"href": "https://www.facebook.com/profile.php?id=12621569"
+},
+{
+"text": "[image: bamberg-twitter]",
+"href": "https://twitter.com/JustinBamberg"
+}
 ]

@@ -1,12 +1,2 @@
-DONATE $20.24 TO PROTECT ARIZONA
-team@MichaelWayforAZ.com (480) 686-5042
-Home
-About
-Issues
-Donate
-PAID FOR AND APPROVED BY MICHAEL WAY REPUBLICAN FOR ARIZONA STATE HOUSE Copyright © All Rights Reserved.
-team@MichaelWayforAZ.com (480) 686-5042
-Home
-About
-Issues
-Donate
+DONATE $20.24 TO PROTECT ARIZONA Home About Issues Donate!
+Home About Issues Donate team@MichaelWayforAZ.com (480) 686-5042 Home About Issues Donate Follow Us PAID FOR AND APPROVED BY MICHAEL WAY REPUBLICAN FOR ARIZONA STATE HOUSE Copyright © All Rights Reserved. team@MichaelWayforAZ.com (480) 686-5042 Home About Issues Donate Follow Us PAID FOR AND APPROVED BY MICHAEL WAY REPUBLICAN FOR ARIZONA STATE HOUSE Copyright © All Rights Reserved.

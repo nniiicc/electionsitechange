@@ -1,10 +1,21 @@
 {
  "description": "Born in Billings in 1994. Raised on road-construction crews and by grandparents who never quit. This is my story.",
  "final_url": "https://maxwellforhouse.com/my-story/",
- "paid_for_by": null,
+ "fingerprint": "a82a0947afafc1f33ba9fa3cc397d042d0782c31",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet John Maxwell | Montana House District 47",
  "years_mentioned": [
+  "1953",
+  "1994",
+  "1996",
+  "1998",
+  "2006",
+  "2013",
   "2017",
-  "2018"
+  "2018",
+  "2022",
+  "2025",
+  "2026"
  ]
 }

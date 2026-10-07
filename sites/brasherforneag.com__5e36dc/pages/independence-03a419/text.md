@@ -1,4 +1,5 @@
-Restore Public Trust & Accountability
-- The AG’s Office doesn’t belong to a political party, the governor, or national political groups — it belongs to the people of Nebraska.
+0 Skip to Content Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Restore Public Trust & Accountability The AG’s Office doesn’t belong to a political party, the governor, or national political groups — it belongs to the people of Nebraska.
 Jocelyn will lead an office that upholds and defends the constitution, roots out corruption, and puts the people of Nebraska first, always.
-- The people are ready for an AG who doesn’t neglect their responsibilities and duties based on political pressure and is willing to investigate and prosecute anyone who breaks the law - including elected officials, regardless of political party – because no one is above the law!
+The people are ready for an AG who doesn’t neglect their responsibilities and duties based on political pressure and is willing to investigate and prosecute anyone who breaks the law - including elected officials, regardless of political party – because no one is above the law !
+Back to Priorities Connect with Jocelyn: Priorities Get Involved Contribution checks can be made payable to: Brasher for NE AG Address: P.O.
+Box 540098 Omaha, Nebraska 68154 CAMPAIGN EMAIL: vote@brasherforneag.com MEDIA INQUIRIES: media@brasherforneag.com PHONE: 402-739-9793 Paid for by BRASHER FOR NE AG Donate

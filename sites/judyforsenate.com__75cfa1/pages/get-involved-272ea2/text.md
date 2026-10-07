@@ -1,10 +1,3 @@
-We look forward to hearing from you
-PO Box 201, Lakeland, MN 55043
-Join Our Team
-Whether you can only spare an hour or two or want to get more involved, we could use your support.
-Skip to content
-We look forward to hearing from you
-PO Box 201, Lakeland, MN 55043
-Join Our Team
-Whether you can only spare an hour or two or want to get more involved, we could use your support.
-Volunteer
+Skip to content Primary Menu Meet Judy Priorities Wins for Minnesota Endorsements Get Involved Donate Get Involved We look forward to hearing from you PO Box 201, Lakeland, MN 55043 info@judyseeberger.com Join Our Team Whether you can only spare an hour or two or want to get more involved, we could use your support.
+Volunteer I want to help… with door-to-door campaigning by phoning prospective voters in Judy’s office by displaying a yard sign by donating funds Name First Last Email Phone Message Δ News Donate Photos Media PO Box 201, Lakeland, MN 55043 info@judyforsenate.com Facebook Instagram Twitter Prepared and Paid for by Judy Seeberger For Senate, P.O.
+Box 201, Lakeland, MN 55043 Powered by Tech for Campaigns

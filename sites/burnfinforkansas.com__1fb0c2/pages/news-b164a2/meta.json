@@ -1,12 +1,15 @@
 {
  "description": "Becca Burnfin in the News",
  "final_url": "https://burnfinforkansas.com/news",
+ "fingerprint": "8531113aa5a01b2761c366480066a5e7de91814c",
+ "format": 3,
  "paid_for_by": "Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner",
  "title": "News",
  "years_mentioned": [
   "2014",
   "2015",
   "2016",
-  "2017"
+  "2017",
+  "2025"
  ]
 }

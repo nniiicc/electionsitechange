@@ -1,1 +1,5 @@
-CCIA: "NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books" Jun 11, 2024 1 min read Concerned for New Mexico - CCIA https://www.youtube.com/watch?v=rPA1VQXTW1o
+top of page Make a Donation Home About Paul Platform Get Involved Resources Register to Vote War on Children Possible Solutions Grassroots Organizations Republican Party of NM Save the Children Documentary News Contact Us More...
+Use tab to navigate through the menu items.
+All Posts Search CCIA: "NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books" Jun 11, 2024 1 min read Concerned for New Mexico - CCIA https://www.youtube.com/watch?v=rPA1VQXTW1o Recent Posts See All Progressive Woke Emerge Agenda 21 The War on Children & Possible Solutions Taking a Stand for Our Kids: The Truth Behind the Bad Laws in New Mexico NEW MEXICO 1ST Let's stand together for a stronger economy, safer neighborhoods, and a government that listens to us! ​ Paid for by the Committee to Elect Paul Spencer ​ P.O.
+Box 533 Bluewater, NM 87005 Get Involved QUICK LINKS About Support Us News Resources Contact © # by Paul Spencer.
+Created by JadeAMarketingLLC bottom of page

@@ -1,11 +1,19 @@
-Immigration
-America’s immigration system should reflect our values of dignity, fairness, and the rule of law.
+Invest in Our Mission Dontate now to support Sarah’s bold agenda that benefits workers and families. $10 $25 $100 $250 $500 Other amount Close Facebook Twitter Instagram TikTok Sarah McBride for Congress Menu Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Immigration America’s immigration system should reflect our values of dignity, fairness, and the rule of law.
 The administration’s mass deportation agenda has torn families apart, spread fear through our communities, undermined due process, and made schools, hospitals, and places of worship less safe by turning them into targets for immigration enforcement.
 ICE has killed Americans while increasingly operating without accountability, violating basic freedoms, and eroding trust between law enforcement and the communities they serve.
 That’s why I was one of the first members of Congress to call for the impeachment of former DHS Secretary Kristi Noem over the administration’s abuses of power and disregard for the rule of law.
 I’ll continue advocating for comprehensive immigration reform that restores accountability, protects civil liberties, provides a pathway to legal status for long-standing members of our communities, and ensures we have both an orderly, secure immigration system and humane enforcement consistent with our Constitution and our values.
-In Congress, I’ve:
-- Cosponsored the bipartisan Dream and Promise Act, to provide Dreamers, individuals with Temporary Protected Status (TPS), and Deferred Enforced Departure (DED) recipients with a pathway to lawful permanent residence, allowing long-term members of our communities to continue living and working in the United States.
-- Cosponsored the Protecting Sensitive Locations Act, to prevent immigration enforcement actions at sensitive locations such as schools, hospitals, places of worship, courthouses, and other community spaces, ensuring people can safely access essential services without fear.
-- Helped introduce the PROTECT Immigration Act, to end the 287(g) program, which allows state and local law enforcement agencies to partner with ICE to carry out federal immigration enforcement.
+In Congress, I’ve: Cosponsored the bipartisan Dream and Promise Act , to provide Dreamers, individuals with Temporary Protected Status (TPS), and Deferred Enforced Departure (DED) recipients with a pathway to lawful permanent residence, allowing long-term members of our communities to continue living and working in the United States.
+Cosponsored the Protecting Sensitive Locations Act , to prevent immigration enforcement actions at sensitive locations such as schools, hospitals, places of worship, courthouses, and other community spaces, ensuring people can safely access essential services without fear.
+Helped introduce the PROTECT Immigration Act , to end the 287(g) program, which allows state and local law enforcement agencies to partner with ICE to carry out federal immigration enforcement.
 The bill helps restore trust between immigrant communities and local law enforcement by ensuring local police can focus on public safety rather than federal immigration enforcement.
+Additional Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Get Involved Sign up here to get the latest information on the campaign and how to get involved.
+First name Email address Zip code Mobile number By providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from McBride for Delaware.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms .
+Submit Chip in today Contribute to our cause by making a donation to our campaign. $# $# $# $# $# Other amount Sarah McBride for Congress Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Follow Us: Facebook Twitter Instagram TikTok Donate By Mail McBride for Delaware P.O.
+Box 1904 Wilmington, DE 19899 Paid for by McBride for Delaware, Inc.
+Contact Privacy Policy Made with Middle Seat

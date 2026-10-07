@@ -1,14 +1,11 @@
-Meet
-Hi, I’m Katy,
-I was born and raised in Port Orchard and have lived, worked, and raised my family in the 26th Legislative District.
+0 Skip to Content Meet Katy Endorsements Platform Be Involved Events Donate Open Menu Close Menu Meet Katy Endorsements Platform Be Involved Events Donate Open Menu Close Menu Meet Katy Endorsements Platform Be Involved Events Donate Meet Hi, I’m Katy, I was born and raised in Port Orchard and have lived, worked, and raised my family in the 26th Legislative District.
 I am now running to represent my home and our community at the state level.
 This region is home in every sense of the word, and it has shaped who I am, how I see the world, and why I am running to serve this community.
 Washington is not just where I live — it is where my roots are.
 The communities of the 26th District are the places that have allowed me to build my life with my family.
 I’ve been married to my husband for 18 years — being a wife and mother of three has deeply influenced how I understand the needs of our community; from education and safety to opportunity and affordability.
 My family is my greatest joy, and they are the driving force behind my commitment to help build a better future for every family in our district.
-My Journey
-I graduated from South Kitsap High School and earned my Associate’s degree from Olympic College.
+My Journey I graduated from South Kitsap High School and earned my Associate’s degree from Olympic College.
 With a desire to better understand people and help them thrive, I went on to complete my Bachelor’s degree in Psychology at Northwest University.
 I later earned a Master’s degree in Nonprofit Leadership from Seattle University.
 In 2009, I founded Walk In The Light, a nonprofit serving vulnerable communities in Burkina Faso, West Africa, and continue to serve as one of its leaders today.
@@ -28,8 +25,7 @@ While much of my humanitarian work has taken me around the world, serving our lo
 Through my work with Heart for the City, local churches, schools, nonprofits, and community organizations, I’ve helped organize and support food drives, school supply drives, Christmas gift programs, diaper drives for young mothers, community outreach events, and countless efforts to meet practical needs right here at home.
 I’ve had the privilege of partnering with amazing organizations already doing great work in our community, helping connect resources, volunteers, and support to families facing difficult seasons.
 Whether it’s providing food, clothing, school supplies, baby essentials, or simply encouragement, my passion has always been to love people well, strengthen families, and help build a community where no one feels forgotten.
-Why I Am Running
-Since childhood, I have felt called to public service — not for a title, but to represent people honestly and compassionately.
+Why I Am Running Since childhood, I have felt called to public service — not for a title, but to represent people honestly and compassionately.
 I believe deeply in the American promise: that with hard work, integrity, and perseverance, anyone can pursue their dreams, no matter where they begin.
 I believe in a government that is strong where it should be, limited where it needs to be, and accountable at all times.
 Government is not the solution to every problem; we the people are.
@@ -38,16 +34,20 @@ Together, we can build safer communities, strengthen families, support small bus
 We can have both compassion and accountability.
 We can help more people with less waste.
 And we can restore common sense, safety, and hope to Washington State.
-KEY ISSUES
-Opportunity
-Every person deserves the opportunity to build a stable and secure future.
+KEY ISSUES Opportunity Every person deserves the opportunity to build a stable and secure future.
 We will fight for policies that expand opportunity while addressing the rising cost of living.
-Safety
-Healthy and safe neighborhoods are key to thriving communities.
+Safety Healthy and safe neighborhoods are key to thriving communities.
 I will support policies that prioritize safety and ensure our neighborhoods remain stable and safe.
-Education
-Excellent schools are essential to opportunity and long-term success.
+Education Excellent schools are essential to opportunity and long-term success.
 I will advocate for policies that strengthen education and support students, parents, and educators statewide.
-Growth
-Small businesses are the backbone of our local economy.
+Growth Small businesses are the backbone of our local economy.
 I will support economic growth through lower taxes and fewer unnecessary burdens so employers can grow, hire, and invest in our communities.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Your support helps ensure we can Fix what’s Broken and Protect what Matters.
+Every dollar helps us reach voters across the 26th District and build a campaign focused on practical solutions that put people first.
+Plan to Vote Donate by Mail: P.O.
+Box 1111 Gig Harbor, WA 98335 Donate Contact 360-216-7400 Paid for by Friends of Katy Cornell (R) | P.O.
+Box 1111 Gig Harbor, WA 98335 Privacy Policy T exting Terms & Conditions Media

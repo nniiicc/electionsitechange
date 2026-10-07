@@ -1,12 +1,62 @@
 [
-"http://instagram.com/wix",
-"http://twitter.com/wix",
-"http://youtube.com/user/Wix",
-"https://craiglipscomb.com/",
-"https://craiglipscomb.com/copy-of-home",
-"https://craiglipscomb.com/meet-craig",
-"https://craiglipscomb.com/product-page/five-dollar-donation",
-"https://craiglipscomb.com/product-page/one-hundred-dollar-donation",
-"https://craiglipscomb.com/product-page/two-hundred-fifty-dollar-donation",
-"https://facebook.com/CraigLipscomb30"
+{
+"text": "$# Donation - 30 for 30Price$#.#",
+"href": "https://www.craiglipscomb.com/product-page/five-dollar-donation"
+},
+{
+"text": "$# DonationPrice$#.#",
+"href": "https://www.craiglipscomb.com/product-page/one-hundred-dollar-donation"
+},
+{
+"text": "$# DonationPrice$#.#",
+"href": "https://www.craiglipscomb.com/product-page/two-hundred-fifty-dollar-donation"
+},
+{
+"text": "Craig Lipscomb - Alabama House District 30",
+"href": "https://www.craiglipscomb.com"
+},
+{
+"text": "GRANTS & COMMUNITY DEVELOPMENT",
+"href": "https://www.craiglipscomb.com/copy-of-home"
+},
+{
+"text": "HOME",
+"href": "https://www.craiglipscomb.com"
+},
+{
+"text": "MEET CRAIG",
+"href": "https://www.craiglipscomb.com/meet-craig"
+},
+{
+"text": "Representative",
+"href": "https://www.craiglipscomb.com"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "https://www.facebook.com/CraigLipscomb30/"
+},
+{
+"text": "[image: Instagram Clean Grey]",
+"href": "http://instagram.com/wix"
+},
+{
+"text": "[image: Twitter Clean Grey]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube Clean Grey]",
+"href": "http://youtube.com/user/Wix"
+},
+{
+"text": "[image]Quick View",
+"href": "https://www.craiglipscomb.com/product-page/five-dollar-donation"
+},
+{
+"text": "[image]Quick View",
+"href": "https://www.craiglipscomb.com/product-page/one-hundred-dollar-donation"
+},
+{
+"text": "[image]Quick View",
+"href": "https://www.craiglipscomb.com/product-page/two-hundred-fifty-dollar-donation"
+}
 ]

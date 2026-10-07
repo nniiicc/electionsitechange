@@ -1,4 +1,4 @@
-When I think about women who have been role models in my life, I think about women like my mom who modeled the importance of hard work and community.
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT Previous Next When Women Lead When I think about women who have been role models in my life, I think about women like my mom who modeled the importance of hard work and community.
 From starting a school-church partnership with local schools in District 46 to being an on-call crisis chaplain at local hospitals, and pursuing two Masters degrees while balancing being a mom, she has helped me see that I can be fierce and ambitious while uplifting those around me.
 She supported me when I hosted bake sales to raise money for the Crystal Lake Food Pantry as an elementary student, and she still supports me as I intern for Team Ness and pursue my dreams in Washington D.C. as an adult.
 She helped me see that I was capable of pursuing an education, that my ambition was a strength, and that I could live into these parts of my life while caring for other people along the way.
@@ -21,3 +21,7 @@ Together, we can champion women as we fight for a more just, equitable society t
 Let us be and support the leaders who will shatter glass ceilings for our next generation.
 Team Ness is ready.
 Are you?
+By Roxie S | 2026-09-10T15:57:20+00:00 September 23, 2024 | Uncategorized | Comments Off on When Women Lead Share This Story, Choose Your Platform!
+Facebook LinkedIn Email Contact Our Team Address: P.O.
+Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
+Settings OK Go to Top

@@ -1,21 +1,4 @@
-- Planned Parenthood Action Fund
-- LGBTQ Equality PAC
-- LCV Action Fund
-- Citizen Action Illinois
-- NRDC Action Fund
-- Defend the Vote PAC
-- United Auto Workers (UAW) International Executive Board
-- NOW PAC
-- Illinois AFL-CIO
-- Illinois Alliance for Retired Americans
-- AFSCME Council 31
-- United Steel Workers District 7
-- Madison County Democrats
-- Illinois SEIU
-- Associated Fire Fighters of Illinois
-- Mid-America Carpenters Regional Council
-- Illinois Pipe Trades Association Executive Board
-- Ironworkers District Council of St.
-Louis & Vicinity
-- Midwest Region Laborers
-- UFCW Local 881
+Skip to content price changes since Jan.
+2025 16.6% Lettuce $2.79 9.33% Corn $4.47 5.44% Soybeans $11.24 129% Ground Beef $7.69 29.1% Gas $4.08 20% Wonderbread $3.29 66.4% Eggs $1.59 5.9% Gallon of Milk $2.67 3.7% Roma Tomatoes $1.39 Home Meet Nikki Issues News Endorsements Home Meet Nikki Issues News Endorsements Facebook Instagram Youtube Take Action Take Action Donate Donate Donate Donate Endorsements Planned Parenthood Action Fund LGBTQ Equality PAC LCV Action Fund Citizen Action Illinois NRDC Action Fund Defend the Vote PAC United Auto Workers (UAW) International Executive Board NOW PAC Illinois AFL-CIO Illinois Alliance for Retired Americans AFSCME Council 31 United Steel Workers District 7 Madison County Democrats Illinois SEIU Associated Fire Fighters of Illinois Mid-America Carpenters Regional Council Illinois Pipe Trades Association Executive Board Ironworkers District Council of St.
+Louis & Vicinity Midwest Region Laborers UFCW Local 881 Illinois 13th Stay Updated Home Issues Meet Nikki News Take Action Donate P.O.
+Box 5171 Springfield, IL 62705-5171 [email protected] Facebook Instagram Youtube Paid for by Nikki for Congress Contact Privacy Policy Accessibility Media POWERED BY APOLLO Home Meet Nikki Issues News Endorsements TAKE ACTION TAKE ACTION Donate Donate Facebook Instagram Youtube

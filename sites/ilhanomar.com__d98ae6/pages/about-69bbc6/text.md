@@ -1,5 +1,4 @@
-Fighting for Minnesota Progressive Values
-Ilhan’s love for public service began at the age of 14 when she was as an interpreter for her grandfather at local DFL caucuses.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Meet Ilhan Fighting for Minnesota Progressive Values Ilhan’s love for public service began at the age of 14 when she was as an interpreter for her grandfather at local DFL caucuses.
 Watching neighbors come together to advocate for change at the grassroots level made Ilhan fall in love with the democratic process.
 Her representation is built on cogovernance with the constituents she represents.
 That includes monthly town halls, routine constituent service resource fairs and a brand new district office.
@@ -16,4 +15,4 @@ With the help of her committed campaign team, they increased voter turnout by 37
 She was elected to the Minnesota House of Representatives in District 60B, where she’s lived for the past 20 years.
 In 2018, she became the first African refugee to become a Member of Congress, the first woman of color to represent Minnesota, and one of the first two Muslim-American women elected to Congress.
 Despite significant dark money spending to defeat her by out-of-state Republicans, Rep.
-Omar has won eight elections and served her constituents for three consecutive terms in Congress.
+Omar has won eight elections and served her constituents for three consecutive terms in Congress. ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

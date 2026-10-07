@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://ingridwadsworth.com/vote",
- "paid_for_by": null,
+ "fingerprint": "a0ec94c4805078b34ffe8bfec323da0397dc76b5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

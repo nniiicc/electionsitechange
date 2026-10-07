@@ -1,5 +1,4 @@
-Why Vote Independent
-The current political system is not working for the American people.
+Skip to content HOME Front Page – ES ABOUT BOB About Bob – ES WHY WHY VOTE FOR BOB WHY VOTE INDEPENDENT WHY THE FORWARD PARTY MAKE THE SENATE WORK AGAIN ISSUES EVENTS NEWS VOLUNTEER HOME Front Page – ES ABOUT BOB About Bob – ES WHY WHY VOTE FOR BOB WHY VOTE INDEPENDENT WHY THE FORWARD PARTY MAKE THE SENATE WORK AGAIN ISSUES EVENTS NEWS VOLUNTEER PAID FOR BY BOB CHEW FOR SENATE DONATE Why Vote Independent The current political system is not working for the American people.
 Democrats and Republicans spend more time attacking each other than solving the problems facing our country.
 In Washington, politicians are rewarded for creating outrage, hoarding power, and feeding division.
 The party bosses win.
@@ -17,8 +16,7 @@ Coloradans already understand this.
 More than half of our state’s voters are registered unaffiliated or with a third party — nearly two million people who have walked away from the Republican and Democratic establishments.
 Some lean left.
 Some lean right.
-But millions of us agree on one thing:
-The system is broken, and we need a change.
+But millions of us agree on one thing: The system is broken, and we need a change.
 And if independents stand together – alongside Republicans and Democrats who are fed up with the extremism and dysfunction – we can take our government back from the political insiders who profit from division.
 In a closely divided Congress, even a handful of Independent senators and representatives could change the balance of power.
 The consistent party-line member has no power to push for changes.
@@ -30,3 +28,6 @@ America celebrated its 250th birthday this year, it is time to declare our indep
 The American Revolution began when ordinary people decided they had had enough.
 Now it is our turn.
 Let Colorado become the vote heard around the world.
+For inquiries, email: [email protected] Military images and information do not imply endorsement by the U.S.
+Department of Defense or any service branch.
+PAID FOR BY BOB CHEW FOR SENATE

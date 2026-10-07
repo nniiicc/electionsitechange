@@ -1,10 +1,58 @@
 [
-"https://facebook.com/BobbiBoudmanPolitical",
-"https://instagram.com/boudmanpolitics",
-"https://voteboudman.com/",
-"https://voteboudman.com/about",
-"https://voteboudman.com/contact",
-"https://voteboudman.com/copy-of-media",
-"https://voteboudman.com/events-1",
-"https://voteboudman.com/media"
+{
+"text": "About",
+"href": "https://www.voteboudman.com/about"
+},
+{
+"text": "Click to host a sign:",
+"href": "mailto:bobbi@voteboudman.com?subject=Thank+you+for+hosting+a+sign"
+},
+{
+"text": "Contact",
+"href": "https://www.voteboudman.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteboudman.com/copy-of-media"
+},
+{
+"text": "Events",
+"href": "https://www.voteboudman.com/events-1"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/BobbiBoudmanPolitical/"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/boudmanpolitics/"
+},
+{
+"text": "Media",
+"href": "https://www.voteboudman.com/media"
+},
+{
+"text": "Welcome",
+"href": "https://www.voteboudman.com"
+},
+{
+"text": "[image: Boudman_Senate_Yard_Sign_v001.jpg]",
+"href": "mailto:bobbi@voteboudman.com?subject=Thank+you+for+hosting+a+sign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BobbiBoudmanPolitical/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/boudmanpolitics/"
+},
+{
+"text": "[no text]",
+"href": "mailto:bobbi@voteboudman.com"
+},
+{
+"text": "bobbi@voteboudman.com",
+"href": "mailto:bobbi@voteboudman.com"
+}
 ]

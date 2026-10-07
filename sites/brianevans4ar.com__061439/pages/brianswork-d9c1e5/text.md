@@ -1,23 +1,4 @@
-PROVEN RESULTS BASED ON CABOT VALUES
-- Since taking office, Brian has voted to cut taxes for all tax paying Arkansans by over $350 million a year, and he will continue voting to phase out the state income tax.
-- An advocate for our public-school teachers, Brian has led efforts to increase teacher salaries while lowering their health insurance costs and improving their retirement benefits.
-- As Chairman of the House Education Committee, Brian has played a vital role in creating more educational opportunities for all students across the state, regardless of their family’s income level or zoned school district.
-- Someone who believes in fair justice, Brian has expanded victims’ rights, supported more prison beds, and voted to ensure criminals stay behind bars.
-- In a vote for smaller and more efficient government, Brian voted to consolidate government agencies into 14 leaner departments, making the state more transparent.
-- By removing outdated and burdensome government bureaucracy, Brian has helped modernize healthcare in Arkansas.
-His efforts will continue to bring better quality care to all parts of the state, but especially rural areas that have been underserved in the past.
-- Being thankful for those who dedicate their lives to protecting us, Brian has advocated for tax relief for our veterans and active military and supported bonuses for our local law enforcement officers.
-- A leader in providing the state with quality broadband service, Brian first pushed through expanded service for the Cabot and Lonoke County area and is now helping ensure the rest of the state has access to the internet.
-- Standing up to large pharmaceutical companies, Brian helped lower the cost of prescription drugs by fighting artificially increased prices.
-LEGISLATIVE COMMITTEES
-- Chairman, House Education Committee
-- Member, House Insurance and Commerce Committee
-- Member, Joint Budget Committee
-- Member, Joint Performance Review Committee
-- Member, Joint Committee on Public Retirement and Social Security Programs
-- Member, Arkansas Legislative Council (ALC)
-- Co-Chairman, ALC Administrative Rules Subcommittee
-- Member, ALC PEER Subcommittee
-- Member, ALC Game & Fish/State Police Subcommittee
-- Member, ALC Higher Education Subcommittee
-- Member, ALC Lottery Oversight Subcommittee
+top of page Brian's Work Contact More Use tab to navigate through the menu items.
+DONATE PROVEN RESULTS BASED ON CABOT VALUES Since taking office, Brian has voted to cut taxes for all tax paying Arkansans by over $350 million a year, and he will continue voting to phase out the state income tax. ​ ​ An advocate for our public-school teachers, Brian has led efforts to increase teacher salaries while lowering their health insurance costs and improving their retirement benefits. ​ ​ As Chairman of the House Education Committee, Brian has played a vital role in creating more educational opportunities for all students across the state, regardless of their family’s income level or zoned school district. ​ ​ Someone who believes in fair justice, Brian has expanded victims’ rights, supported more prison beds, and voted to ensure criminals stay behind bars. ​ ​ In a vote for smaller and more efficient government, Brian voted to consolidate government agencies into 14 leaner departments, making the state more transparent. ​ ​ By removing outdated and burdensome government bureaucracy, Brian has helped modernize healthcare in Arkansas.
+His efforts will continue to bring better quality care to all parts of the state, but especially rural areas that have been underserved in the past. ​ ​ Being thankful for those who dedicate their lives to protecting us, Brian has advocated for tax relief for our veterans and active military and supported bonuses for our local law enforcement officers. ​ ​ A leader in providing the state with quality broadband service, Brian first pushed through expanded service for the Cabot and Lonoke County area and is now helping ensure the rest of the state has access to the internet. ​ ​ Standing up to large pharmaceutical companies, Brian helped lower the cost of prescription drugs by fighting artificially increased prices.
+LEGISLATIVE COMMITTEES Chairman, House Education Committee Member, House Insurance and Commerce Committee Member, Joint Budget Committee Member, Joint Performance Review Committee Member, Joint Committee on Public Retirement and Social Security Programs Member, Arkansas Legislative Council (ALC) Co-Chairman, ALC Administrative Rules Subcommittee Member, ALC PEER Subcommittee Member, ALC Game & Fish/State Police Subcommittee Member, ALC Higher Education Subcommittee Member, ALC Lottery Oversight Subcommittee PAID FOR BY EVANS FOR STATE REPRESENTATIVE. bottom of page

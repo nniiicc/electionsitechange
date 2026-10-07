@@ -1,7 +1,11 @@
 {
- "description": "Andrea Salinas is a Democrat running for Congress in Oregon\u2019s 6th District.",
+ "description": "Andrea Salinas is a Democrat running for Congress in Oregon’s 6th District.",
  "final_url": "https://www.andreasalinasfororegon.com/",
- "paid_for_by": null,
- "title": "Andrea Salinas for Congress | Democrat | Oregon\u2019s 6th District",
- "years_mentioned": []
+ "fingerprint": "da64000dbd9ef32458ded963c21dcd17b33c4b33",
+ "format": 3,
+ "paid_for_by": "authorized by Andrea Salinas for Oregon",
+ "title": "Andrea Salinas for Congress | Democrat | Oregon’s 6th District",
+ "years_mentioned": [
+  "1950"
+ ]
 }

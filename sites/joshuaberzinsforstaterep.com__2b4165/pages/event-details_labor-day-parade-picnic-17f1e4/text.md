@@ -1,5 +1,3 @@
-Mon, Sep 07
-Fassnight Park
-Visit with Josh and celebrate Labor at the annual Springfield Central Labor Council picnic and parade!
-Sep 07, 2026, 10:30 AM – 1:00 PM
-Fassnight Park, 1305 S Main Ave, Springfield, MO 65807, USA
+top of page About Get Involved News Events Log In DONATE Labor Day Parade & Picnic Mon, Sep 07 | Fassnight Park Visit with Josh and celebrate Labor at the annual Springfield Central Labor Council picnic and parade!
+Registration is closed See other events Time & Location Sep 07, 2026, 10:30 AM – 1:00 PM Fassnight Park, 1305 S Main Ave, Springfield, MO 65807, USA Share this event Stay up to date Email address * Yes, I agree to receive marketing emails. * SUBSCRIBE BerzinsForStateRep@gmail.com PO Box 94, Ava, MO 65608 Privacy Policy Accessibility Statement © # by Joshua Berzins for State Represenative and secured by Wix Frank Diecidue, Treasurer.
+Terms & Conditions bottom of page

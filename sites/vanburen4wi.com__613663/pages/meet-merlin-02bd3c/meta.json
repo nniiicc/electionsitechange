@@ -1,7 +1,12 @@
 {
  "description": "MEET MERLIN",
  "final_url": "https://www.vanburen4wi.com/meet-merlin",
- "paid_for_by": null,
+ "fingerprint": "c2392d020f7332bace63994b30f2fda035dfa100",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Merlin",
- "years_mentioned": []
+ "years_mentioned": [
+  "1978",
+  "1982"
+ ]
 }

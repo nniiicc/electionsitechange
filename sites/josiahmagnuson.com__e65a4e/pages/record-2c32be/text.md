@@ -1,8 +1,6 @@
-A Winning Record
-Rep.
+0 Skip to Content Home About Issues Record Contact Contribute Open Menu Close Menu Home About Issues Record Contact Contribute Open Menu Close Menu Home About Issues Record Contact Contribute A Winning Record Rep.
 Josiah Magnuson has built a winning record by raising the banner on conservative issues, empowering the public with the truth, and working with other legislators to get the job done.
-Leading for Local Values
-Josiah Magnuson has been active and effective as your representative.
+GET UPDATES Leading for Local Values Josiah Magnuson has been active and effective as your representative.
 He possesses the unique ability to respect and work with people of any ideological viewpoint while standing firm to vote according to his deep Christian conservative convictions.
 Josiah understands that the future of our country is at stake today.
 America's foundations are under attack by woke Left socialist thinking on the one hand and an entrenched Deep State on the other.
@@ -22,55 +20,19 @@ It provides a forum to build a unified conservative front so that legislators ca
 The Left is great at organizing but so often conservatives have been divided and ineffective.
 Now, we are building a vehicle for conservative unity in the State House through the SC Freedom Caucus, so we can defeat the Democrat and RINO agenda, and advance strong bills that defend liberty and family values and bring about real reform.
 Josiah has been true to his campaign promises: voting against the gas tax hike, fighting to recognize human life at conception, influencing in the House toward real judicial reform, vocally advocating for the First, Second, and Tenth Amendments, defending our historical monuments and American heritage, and remaining accessible and accountable to the people of District 38 with regular town hall events.
-Josiah’s numerous successes have included, for example:
-- Proposing and securing state funding for school resource officers
-- Beating back Joe Biden’s illegal vaccine mandate by fighting RINOs and then leading negotiations to pass a bill
-- Keeping churches open during Covid-19 by working with Gov.
-McMaster
-- Requiring teaching of the U.S.
-Constitution in our state universities with the REACH Act
-- Passing through the House criminal penalties for physicians who try to “gender transition” a minor
-- Major victories for gun rights, including open carry and Constitutional Carry signed into law
-- Major victories for the lives of unborn children, including the Heartbeat Act, plus leading the charge for protection of every baby from conception as the sponsor of numerous Personhood bills and amendments
-- Forcing out failed leaders of state bureaucracies - for example the Dept. of Juvenile Justice, the Commission on Higher Education, the State Election Commission, and SCDOT
-- Dismantling CRT/DEI indoctrination in South Carolina’s schools and colleges, and catalyzing the parental rights movement across the state to stop woke Leftism
-- Repealing the Certificate of Need law which created hospital monopolies
-- Exposing the corruption in our state judicial election process to create a statewide bipartisan movement for change
-- Strengthening our state’s election integrity by banning drop boxes, requiring a personal ID to cast an absentee ballot, creating a SLED hotline to report fraud, and more
-- Cutting state income taxes from 7% to 6% by bringing conservative legislators together to have a voice
-- Greater details released and more public transparency with taxpayer dollars on funding for legislators’ special earmark projects
-- Hundreds of millions more dollars in the budget directed to fix the local roads that we drive every day
-- And much more.
+Josiah’s numerous successes have included, for example: Proposing and securing state funding for school resource officers Beating back Joe Biden’s illegal vaccine mandate by fighting RINOs and then leading negotiations to pass a bill Keeping churches open during Covid-19 by working with Gov.
+McMaster Requiring teaching of the U.S.
+Constitution in our state universities with the REACH Act Passing through the House criminal penalties for physicians who try to “gender transition” a minor Major victories for gun rights, including open carry and Constitutional Carry signed into law Major victories for the lives of unborn children , including the Heartbeat Act, plus leading the charge for protection of every baby from conception as the sponsor of numerous Personhood bills and amendments Forcing out failed leaders of state bureaucracies - for example the Dept. of Juvenile Justice, the Commission on Higher Education, the State Election Commission, and SCDOT Dismantling CRT/DEI indoctrination in South Carolina’s schools and colleges, and catalyzing the parental rights movement across the state to stop woke Leftism Repealing the Certificate of Need law which created hospital monopolies Exposing the corruption in our state judicial election process to create a statewide bipartisan movement for change Strengthening our state’s election integrity by banning drop boxes, requiring a personal ID to cast an absentee ballot, creating a SLED hotline to report fraud, and more Cutting state income taxes from 7% to 6% by bringing conservative legislators together to have a voice Greater details released and more public transparency with taxpayer dollars on funding for legislators’ special earmark projects Hundreds of millions more dollars in the budget directed to fix the local roads that we drive every day And much more.
 Because of Josiah’s strong effective voice, the Columbia Swamp put a target on his back in 2024.
 Numerous special interest groups made wild and false attacks, spending an estimated combined total of $300,000.
 With the help of the good people here in District 38, Josiah easily defeated them, with 64% of the vote.
 Similar attacks were made across the state against the other members of the Freedom Caucus, with similar results in every case - a major win for the conservative movement.
 Josiah Magnuson is recognized in the State House as a small government champion.
-He has been rated one of the most conservative legislators in South Carolina over and over again:
-- 2017 - SC Club for Growth, A+
-- 2018 - NRA Political Victory Fund, A (endorsed)
-- 2019 - SC Club for Growth, A+
-- 2019 - Republican Liberty Caucus, 100%
-- 2020 - CPAC/American Conservative Union, 90%
-- 2021 - SC Club for Growth, A
-- 2022 - CPAC/American Conservative Union, 89%
-- 2022 - NRA Political Victory Fund, A
-- 2022 - Republican Liberty Caucus, 90%
-- 2022 - Freedom Index, 100%
-- 2022 - Club for Growth Foundation, 96%
-- 2023 - SC Policy Council, 100%
-- 2023 - CPAC/American Conservative Union: 100%
-- 2024 - NRA Political Victory Fund, A (endorsed)
-- 2024 - Freedom Index, 91%
-- 2024 - Club for Growth Foundation, 95%
-- 2024 - American Action Fund, 97%
-- 2024 - CPAC/American Conservative Union: 100%
-- 2024 - Palmetto Family Alliance, Family Champion Award
-- 2025 - Club for Growth Foundation, 100%
-Josiah has consistently fought to defend the taxpayer against ever-growing state spending while fully funding core government functions.
+He has been rated one of the most conservative legislators in South Carolina over and over again: 2017 - SC Club for Growth, A+ 2018 - NRA Political Victory Fund, A (endorsed) 2019 - SC Club for Growth, A+ 2019 - Republican Liberty Caucus, 100% 2020 - CPAC/American Conservative Union, 90% 2021 - SC Club for Growth, A 2022 - CPAC/American Conservative Union, 89% 2022 - NRA Political Victory Fund, A 2022 - Republican Liberty Caucus, 90% 2022 - Freedom Index, 100% 2022 - Club for Growth Foundation, 96% 2023 - SC Policy Council, 100% 2023 - CPAC/American Conservative Union: 100% 2024 - NRA Political Victory Fund, A (endorsed) 2024 - Freedom Index, 91% 2024 - Club for Growth Foundation, 95% 2024 - American Action Fund, 97% 2024 - CPAC/American Conservative Union: 100% 2024 - Palmetto Family Alliance, Family Champion Award 2025 - Club for Growth Foundation, 100% Josiah has consistently fought to defend the taxpayer against ever-growing state spending while fully funding core government functions.
 Josiah seeks to fully fund our roads, education, courts, and law enforcement, and stop wasting your money on pork.
 He believes the priorities in Columbia are often in the wrong places.
 One example occurred during the 2018 budget debate when Josiah advocated for $5 million in funding for school resource officers, but the House voted down his amendment and instead spent the money on tourism advertising!
+Fortunately, after Josiah mobilized the grassroots and sparked an overwhelming public response, $2 million was placed in the budget for SROs, which was raised to $10 million in 2019.
 Another more recent example of wrong priorities in Columbia was during the 2023 budget debate when Josiah joined with Reps.
 Adam Morgan and Jordan Pace to introduce over $208 million in cuts to wasteful spending.
 The cuts included pork such as BMX biking and Lego clubs as well as woke Leftist “diversity, equity, and inclusion” training in our state universities.
@@ -92,9 +54,12 @@ This was a huge win for our representative, but more importantly for you as a So
 Our efforts for government reform are paying off.
 We are building a window of hope in a wall of complacency.
 Much has been accomplished, but we need to finish the job.
-Josiah lives out his belief in transparency.
+Make it stand out Josiah lives out his belief in transparency.
 Since his election, Josiah has held frequent town hall events, provided consistent email updates on current issues in the House, and been responsive on Facebook and by phone.
-You can call or text his personal cell at 864-420-7933, email rjosiahmagnuson@gmail.com, or connect directly on Facebook by clicking here.
+You can call or text his personal cell at 864-420-7933, email rjosiahmagnuson@gmail.com , or connect directly on Facebook by clicking here .
 To view Josiah's voting record, visit his State House page here and then click "Find Votes" at the bottom right.
 Or, click “Find Bills” to see what legislation he has introduced this session.
-To view Josiah’s campaign contributions and expenses, visit the SC Ethics site here.
+To view Josiah’s campaign contributions and expenses, visit the SC Ethics site here .
+Stand with Josiah today!
+Contribute Paid for by Magnuson for House, P.O.
+Box 212, Campobello SC 29322 Privacy Policy | Terms and Conditions

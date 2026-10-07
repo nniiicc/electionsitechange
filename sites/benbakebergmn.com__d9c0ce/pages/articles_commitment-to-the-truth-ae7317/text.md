@@ -1,6 +1,4 @@
-Legislative Update 1.29.26
-Friends,
-I want to thank everyone who has reached out to share their concerns.
+Home Meet Ben Priorities Endorsements Photos Events Volunteer Donate Legislative Update 1.29.26 Thursday, January 29, 2026 Friends, I want to thank everyone who has reached out to share their concerns.
 I appreciate you taking the time to write and engage with me on these difficult issues.
 Please know that I am listening, and I share the deep concern many of you feel about what has unfolded over the past several weeks.
 As both a Minnesota State Representative and a middle school principal, my purpose is simple: to serve people.
@@ -45,4 +43,4 @@ Minnesotans from all walks of life put aside their differences and worked side b
 That is who we are as Minnesotans at our best and that’s the spirit I will continue to embrace as we move forward.
 Thank you again for taking the time to share your perspective.
 Please do not hesitate to reach out if you have additional thoughts or questions.
-Sincerely,
+Sincerely, Follow Follow Follow Contact | Bills | Articles | Voting | Privacy Policy Prepared and Paid for by Bakeberg MN Committee | PO Box 145, Jordan, MN 55352

@@ -1,6 +1,4 @@
-meet
-Liish Kozlowski
-Ozaawaa Anakwad.
+0 Skip to Content About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE meet Liish Kozlowski Ozaawaa Anakwad.
 My Ojibwe name is Yellow Cloud.
 My English name is Liish.
 I use They/Them Pronouns.
@@ -20,3 +18,5 @@ In my first two terms, I legislated new funding for Duluth nursing homes to care
 I am the recipient of the Minnesota Housing Partnership Legislative Leader Award and the Minnesota Public Health Association B.
 Robert Lewis Award.
 In my spare time, you can catch me enjoying the great outdoors and the beautiful North Shore while connecting with my community and family.
+Fighting for an equitable and strong Duluth is who Liish is and what they do.
+LEGISLATIVE SUCCESS ISSUES AND FOCUSES prepared and paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026

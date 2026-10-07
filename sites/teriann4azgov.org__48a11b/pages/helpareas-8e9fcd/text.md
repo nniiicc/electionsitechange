@@ -1,20 +1,17 @@
-Many of us have experienced tremendous system and leadership backlash and outright contempt from those who are supposed to help us.
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Many of us have experienced tremendous system and leadership backlash and outright contempt from those who are supposed to help us.
 I created USA Advocate4All LLC to help people (all people) and to ensure that no one feels the way I felt or is treated the way I was treated when I needed help the most.
 The below scripture is how humans in this world were made to be daily (every day); may we all try to keep to this high standard of being a human as much as we can.
-“But the fruit of the Spirit is love, joy, peace, forbearance,
-kindness, goodness, faithfulness, gentleness and
-self-control.
-Against such things there is no law.”
-—-Galatians 5:22-23
-My Work.
-- Lobby for legislation and law changes.
-- Lobby against corrupt and bad leaders (defined as those who are caught lying, stealing, committing crimes, contempt, failing to lead by example in their work, creating more havoc then peace).
-- Creating content for social media.
-- Influencing others to speak out for whats right.
-- Complete interviews with media.
-- Connect with people and agencies that have been harmed and give them a voice and anonymity when safety is a concern.
-- Connect people with resources and help they are seeking.
-- Creating content in social media apps that support the mission of exposing bad leaders and addressing issues in Arizona and in the USA.
-- Not turning people away when they need help.
-- Developing and implementing system changes.
-- Fighting against corruption and helping systems to change.
+“But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.
+Against such things there is no law.” —-Galatians 5:22-23 My Work.
+Lobby for legislation and law changes.
+Lobby against corrupt and bad leaders (defined as those who are caught lying, stealing, committing crimes, contempt, failing to lead by example in their work, creating more havoc then peace).
+Creating content for social media.
+Influencing others to speak out for whats right.
+Complete interviews with media.
+Connect with people and agencies that have been harmed and give them a voice and anonymity when safety is a concern.
+Connect people with resources and help they are seeking.
+Creating content in social media apps that support the mission of exposing bad leaders and addressing issues in Arizona and in the USA.
+Not turning people away when they need help.
+Developing and implementing system changes.
+Fighting against corruption and helping systems to change.
+Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

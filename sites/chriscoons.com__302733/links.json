@@ -1,32 +1,146 @@
 [
-"https://act.chriscoons.com/a/volunteer",
-"https://chriscoons.com/",
-"https://chriscoons.com/act-now",
-"https://chriscoons.com/meet-chris",
-"https://chriscoons.com/priorities",
-"https://chriscoons.com/privacy-policy",
-"https://chriscoons.com/terms-and-conditions",
-"https://delawarestonewall.com/",
-"https://destateaflcio.org/",
-"https://dsea.org/",
-"https://facebook.com/chriscoons",
-"https://facebook.com/photo?fbid=1340031448320929&set=a.154416140215805",
-"https://facebook.com/photo?fbid=1664314195701881&set=a.479388894194423",
-"https://giffords.org/press-release/2026/07/giffords-pac-endorses-sen-chris-coons-in-delaware",
-"https://gunsensevoter.org/candidates/98812355be1ea4c93d70b2bd5d5a4261d9d0f384095abf92cdbc5a558306f389",
-"https://hrc.org/",
-"https://instagram.com/chriscoonsforde",
-"https://lcv.org/media-center/lcv-action-fund-announces-new-slate-of-endorsements-for-u-s-senate",
-"https://lisabluntrochester.com/",
-"https://mattmeyer.org/",
-"https://momsrising.org/",
-"https://plannedparenthoodaction.org/endorsements",
-"https://sarahmcbride.com/",
-"https://secure.actblue.com/contribute/page/chriscoons.com",
-"https://secure.actblue.com/contribute/page/chriscoons.com?amount=10",
-"https://secure.actblue.com/contribute/page/chriscoons.com?amount=100",
-"https://secure.actblue.com/contribute/page/chriscoons.com?amount=25",
-"https://secure.actblue.com/contribute/page/chriscoons.com?amount=50",
-"https://x.com/ChrisCoonsforDE",
-"https://youtube.com/channel/UC6s_03P_7OoOZQkqxyPKpfg/videos"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com?amount=50"
+},
+{
+"text": "302-322-1140",
+"href": "tel:302-322-1140"
+},
+{
+"text": "Act Now",
+"href": "https://act.chriscoons.com/a/volunteer"
+},
+{
+"text": "Act Now",
+"href": "https://www.chriscoons.com/act-now/"
+},
+{
+"text": "Chris Coons [image: Chris Coons]",
+"href": "https://www.chriscoons.com"
+},
+{
+"text": "Contact",
+"href": "mailto:info@chriscoons.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/chriscoons"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chriscoonsforde"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.chriscoons.com/meet-chris/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/contribute/page/chriscoons.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.chriscoons.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chriscoons.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://www.chriscoons.com/priorities/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.chriscoons.com/terms-and-conditions/"
+},
+{
+"text": "Tweet",
+"href": "https://x.com/ChrisCoonsforDE"
+},
+{
+"text": "Volunteer",
+"href": "https://act.chriscoons.com/a/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/ChrisCoonsforDE"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UC6s_03P_7OoOZQkqxyPKpfg/videos"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://delawarestonewall.com/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://destateaflcio.org/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://giffords.org/press-release/2026/07/giffords-pac-endorses-sen-chris-coons-in-delaware/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://gunsensevoter.org/candidates/98812355be1ea4c93d70b2bd5d5a4261d9d0f384095abf92cdbc5a558306f389/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://lisabluntrochester.com/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://mattmeyer.org/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://sarahmcbride.com/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.dsea.org/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.facebook.com/photo?fbid=1340031448320929&set=a.154416140215805"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.facebook.com/photo?fbid=1664314195701881&set=a.479388894194423"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.hrc.org/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.lcv.org/media-center/lcv-action-fund-announces-new-slate-of-endorsements-for-u-s-senate/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.momsrising.org/"
+},
+{
+"text": "[image: Endorser image]",
+"href": "https://www.plannedparenthoodaction.org/endorsements"
+}
 ]

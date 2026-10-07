@@ -1,49 +1,194 @@
 [
-"https://daryaforhouse.com/",
-"https://daryaforhouse.com/about",
-"https://daryaforhouse.com/access",
-"https://daryaforhouse.com/contact",
-"https://daryaforhouse.com/endorsements",
-"https://daryaforhouse.com/get-involved",
-"https://daryaforhouse.com/issues",
-"https://daryaforhouse.com/news",
-"https://daryaforhouse.com/rsvp",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/0e175c_f8e9f4ce94a64978a834dc39af657a8bmv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-11.37.04-AM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/WFP-SYMBOL-ABBREVIATION-GP-WO-1-1.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/WFSE-LOGO.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_28b021830f4d48bba3bfc6edaaeb79c1mv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_2a44bad44bea4efaa1f75360ab0505c1mv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_3be7a11960d34de7807b0889003a337cmv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_583058f4aba04455ae5263e421da8894mv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_6d60403c5b854efaacb6f58c227e5eccmv2-scaled.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_b1441cb24b4749ac98fd295a2c107227mv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_b616754be4ce436db68df224ceaa0d57mv2-scaled.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_cad47578f80744ac8c74a667dc70bf83mv2.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/06/AOWS-Logo-2026.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/06/Machinists-District-751.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-12.58.16-PM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/5.15.2024-PAC-logo-black.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/AFT-WA-Logo-Arc-scaled.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/CFE-PAC_vert.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/Mental-Health-Now-Badge-2026.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/PastedGraphic-1.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/SMW-66.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-6.06.52-PM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.55.30-PM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.57.27-PM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.58.44-PM-scaled.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-1.49.47-PM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/WA-Bikes-logo.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/07/WA-Stonewall-Dems-Endorsement-Icon-scaled.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/09/APACE-C4-logo.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/09/NDRC-Logo-Acronym-FullColor-scaled.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-10.13.31-AM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-10.17.26-AM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-8.37.33-PM.png",
-"https://daryaforhouse.com/wp-content/uploads/2026/09/T4WA-Logo-HiRes.jpg",
-"https://daryaforhouse.com/wp-content/uploads/2026/10/NCSCU_Logo_Round_Black_Red.jpg",
-"https://facebook.com/DaryaForHouse",
-"https://linkedin.com/in/darya-farivar-52ab61103",
-"https://twitter.com/Darya4House"
+{
+"text": "About",
+"href": "https://daryaforhouse.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://daryaforhouse.com/access/"
+},
+{
+"text": "Contact",
+"href": "https://daryaforhouse.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://daryaforhouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DaryaForHouse"
+},
+{
+"text": "Get Involved",
+"href": "https://daryaforhouse.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://daryaforhouse.com/issues/"
+},
+{
+"text": "Join the growing list of supporters",
+"href": "https://daryaforhouse.com/contact/"
+},
+{
+"text": "Linkedin-in",
+"href": "https://www.linkedin.com/in/darya-farivar-52ab61103/"
+},
+{
+"text": "News",
+"href": "https://daryaforhouse.com/news/"
+},
+{
+"text": "RSVP",
+"href": "https://daryaforhouse.com/rsvp/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/Darya4House"
+},
+{
+"text": "[image]",
+"href": "https://daryaforhouse.com"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/0e175c_f8e9f4ce94a64978a834dc39af657a8bmv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-11.37.04-AM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/WFP-SYMBOL-ABBREVIATION-GP-WO-1-1.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/WFSE-LOGO.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_28b021830f4d48bba3bfc6edaaeb79c1mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_2a44bad44bea4efaa1f75360ab0505c1mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_3be7a11960d34de7807b0889003a337cmv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_583058f4aba04455ae5263e421da8894mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_6d60403c5b854efaacb6f58c227e5eccmv2-scaled.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_b1441cb24b4749ac98fd295a2c107227mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_b616754be4ce436db68df224ceaa0d57mv2-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/05/f3355e_cad47578f80744ac8c74a667dc70bf83mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/06/AOWS-Logo-2026.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/06/Machinists-District-751.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-12.58.16-PM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/5.15.2024-PAC-logo-black.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/AFT-WA-Logo-Arc-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/CFE-PAC_vert.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/Mental-Health-Now-Badge-2026.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/PastedGraphic-1.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/SMW-66.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-6.06.52-PM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.55.30-PM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.57.27-PM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.58.44-PM-scaled.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-1.49.47-PM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/WA-Bikes-logo.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/07/WA-Stonewall-Dems-Endorsement-Icon-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/09/APACE-C4-logo.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/09/NDRC-Logo-Acronym-FullColor-scaled.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-10.13.31-AM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-10.17.26-AM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-8.37.33-PM.png"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/09/T4WA-Logo-HiRes.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://daryaforhouse.com/wp-content/uploads/2026/10/NCSCU_Logo_Round_Black_Red.jpg"
+}
 ]

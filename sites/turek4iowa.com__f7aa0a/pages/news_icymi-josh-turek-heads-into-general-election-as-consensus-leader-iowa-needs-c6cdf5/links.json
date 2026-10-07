@@ -1,31 +1,190 @@
 [
-"https://americanjournalnews.com/ashley-hinson-launches-false-attack-ad-minutes-after-tureks-primary-win",
-"https://apnews.com/article/iowa-primary-sand-turek-wahls-hinson-feenstra-e7dd0976adce33da4424c75e1533e0fb",
-"https://bsky.app/profile/joshturek4iowa.bsky.social",
-"https://cbsnews.com/news/iowa-senate-primary-results-ashley-hinson-josh-turek-zach-wahls",
-"https://cnn.com/2026/06/03/politics/house-iran-war-powers-vote",
-"https://dailyiowan.com/2026/06/02/josh-turek-wins-u-s-senate-democratic-nomination",
-"https://facebook.com/Turek4Iowa",
-"https://instagram.com/joshturek4iowa",
-"https://iwillvote.com/votinginfo/IA",
-"https://notus.org/2026-election/josh-turek-iowa-primary-win-november",
-"https://nytimes.com/2026/06/02/us/politics/josh-turek-iowa-senate-democrats.html",
-"https://nytimes.com/interactive/2026/06/03/us/house-iran-war-powers.html",
-"https://politico.com/news/2026/06/02/ashley-hinson-audio-iran-war-iowa-senate-00946145",
-"https://rollcall.com/2026/06/03/in-iowa-hinson-turek-matchup-set-for-november",
-"https://secure.actblue.com/donate/bs_web_tur_0825",
-"https://store.turek4iowa.com/",
-"https://threads.com/@joshturek4iowa",
-"https://tiktok.com/@turek4iowa",
-"https://turek4iowa.com/",
-"https://turek4iowa.com/about",
-"https://turek4iowa.com/endorsements",
-"https://turek4iowa.com/news",
-"https://turek4iowa.com/platform",
-"https://turek4iowa.com/privacy",
-"https://turek4iowa.com/terms",
-"https://turek4iowa.com/volunteer",
-"https://x.com/Turek4Iowa",
-"https://x.com/ZacharyOS/status/2062194089538240903?s=20",
-"https://youtube.com/@JoshTurek4Iowa"
+{
+"text": "About",
+"href": "https://turek4iowa.com/about"
+},
+{
+"text": "CBS News",
+"href": "https://www.cbsnews.com/news/iowa-senate-primary-results-ashley-hinson-josh-turek-zach-wahls/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bs_web_tur_0825"
+},
+{
+"text": "Donate1",
+"href": "https://secure.actblue.com/donate/bs_web_tur_0825"
+},
+{
+"text": "Endorsements",
+"href": "https://turek4iowa.com/endorsements"
+},
+{
+"text": "Heartland Signal",
+"href": "https://americanjournalnews.com/ashley-hinson-launches-false-attack-ad-minutes-after-tureks-primary-win/"
+},
+{
+"text": "Home",
+"href": "https://turek4iowa.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://iwillvote.com/votinginfo/IA"
+},
+{
+"text": "Iowa Starting Line’s Zachary Oren Smith",
+"href": "https://x.com/ZacharyOS/status/2062194089538240903?s=20"
+},
+{
+"text": "News",
+"href": "https://turek4iowa.com/news"
+},
+{
+"text": "POLITICO",
+"href": "https://www.politico.com/news/2026/06/02/ashley-hinson-audio-iran-war-iowa-senate-00946145"
+},
+{
+"text": "Platform",
+"href": "https://turek4iowa.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://turek4iowa.com/privacy"
+},
+{
+"text": "Return To All News",
+"href": "https://turek4iowa.com/news"
+},
+{
+"text": "Roll Call",
+"href": "https://rollcall.com/2026/06/03/in-iowa-hinson-turek-matchup-set-for-november/"
+},
+{
+"text": "Sign Up",
+"href": "https://turek4iowa.com/#sign-up"
+},
+{
+"text": "Store",
+"href": "https://store.turek4iowa.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://turek4iowa.com/terms"
+},
+{
+"text": "The Associated Press",
+"href": "https://apnews.com/article/iowa-primary-sand-turek-wahls-hinson-feenstra-e7dd0976adce33da4424c75e1533e0fb"
+},
+{
+"text": "The Daily Iowan",
+"href": "https://dailyiowan.com/2026/06/02/josh-turek-wins-u-s-senate-democratic-nomination/"
+},
+{
+"text": "The New York Times",
+"href": "https://www.nytimes.com/2026/06/02/us/politics/josh-turek-iowa-senate-democrats.html"
+},
+{
+"text": "Volunteer",
+"href": "https://turek4iowa.com/volunteer"
+},
+{
+"text": "[image: Josh Turek for Iowa logo]",
+"href": "https://turek4iowa.com/"
+},
+{
+"text": "[image: Josh Turek for Iowa]Endorsements",
+"href": "https://turek4iowa.com/endorsements"
+},
+{
+"text": "[image: Josh Turek for Iowa]How to Vote",
+"href": "https://iwillvote.com/votinginfo/IA"
+},
+{
+"text": "[image: Josh Turek for Iowa]Latest News",
+"href": "https://turek4iowa.com/news"
+},
+{
+"text": "[image: Josh Turek for Iowa]Meet Josh",
+"href": "https://turek4iowa.com/about"
+},
+{
+"text": "[image: Josh Turek for Iowa]Platform",
+"href": "https://turek4iowa.com/platform"
+},
+{
+"text": "[image: Josh Turek for Iowa]Store",
+"href": "https://store.turek4iowa.com/"
+},
+{
+"text": "[image: Josh Turek for Iowa]Volunteer",
+"href": "https://turek4iowa.com/volunteer"
+},
+{
+"text": "[image: Turek for Iowa logo]",
+"href": "https://turek4iowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshturek4iowa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Turek4Iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshturek4iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@joshturek4iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@turek4iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshTurek4Iowa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Turek4Iowa"
+},
+{
+"text": "appeal to independent and moderate Republican voters.",
+"href": "https://apnews.com/article/iowa-primary-sand-turek-wahls-hinson-feenstra-e7dd0976adce33da4424c75e1533e0fb"
+},
+{
+"text": "consensus-builder",
+"href": "https://rollcall.com/2026/06/03/in-iowa-hinson-turek-matchup-set-for-november/"
+},
+{
+"text": "dominated",
+"href": "https://www.notus.org/2026-election/josh-turek-iowa-primary-win-november"
+},
+{
+"text": "flying first class",
+"href": "https://x.com/ZacharyOS/status/2062194089538240903?s=20"
+},
+{
+"text": "for a fourth time",
+"href": "https://www.cnn.com/2026/06/03/politics/house-iran-war-powers-vote"
+},
+{
+"text": "info@turek4iowa.com",
+"href": "mailto:info@turek4iowa.com"
+},
+{
+"text": "one of the most bipartisan",
+"href": "https://www.nytimes.com/2026/06/02/us/politics/josh-turek-iowa-senate-democrats.html"
+},
+{
+"text": "press@turek4iowa.com",
+"href": "mailto:press@turek4iowa.com"
+},
+{
+"text": "voted to continue",
+"href": "https://www.nytimes.com/interactive/2026/06/03/us/house-iran-war-powers.html"
+}
 ]

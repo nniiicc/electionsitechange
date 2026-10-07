@@ -1,7 +1,2 @@
-top of page
-When We Were Kings and Queens - Car Parade and Soul-Fest
-Sat, Feb 28
-|Blytheville
-We will be honoring Our Kings and Queens from the Movement in Blytheville, Arkansas during the period of 1970 - 1971 (Free Event)
-Tickets are not on sale
-bottom of page
+top of page TeamMiddlebrook2026 Join the Campaign [ + ] TeamMiddlebrook2026 Home Welcome Event Details Blog Feed Donate My Subscriptions Events Blog Groups Notifications Members When We Were Kings and Queens - Car Parade and Soul-Fest Sat, Feb 28 | Blytheville We will be honoring Our Kings and Queens from the Movement in Blytheville, Arkansas during the period of 1970 - 1971 (Free Event) Tickets are not on sale See other events Time & Location Feb 28, 2026, 10:10 AM – 3:00 PM CST Blytheville, S Elm St, Blytheville, AR 72315, USA About the event Show More Share this event TeamMiddlebrook2026 Phone - 870.740.4356 Email- TeamMiddlebrook2026@gmail.com ​ Michael Middlebrook Privacy Policy Accessibility Statement Terms & Conditions Refund Policy © # by TeamMiddlebrook2026.
+Powered and secured by Wix bottom of page

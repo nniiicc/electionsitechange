@@ -1,14 +1,5 @@
-Back to All Events
-NOTE: This event starts at 4:30PM Central/5:30PM Eastern
-North Florida, let’s rally 💙🇺🇸
-Join us at Proof in Tallahassee on September 24 for an evening all about bringing folks together, building momentum, and fighting for the representation North Florida deserves.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Amanda Green for Congress Rally Thursday, September 24, 2026 5:30 PM 7:00 PM Proof Brewery 1320 South Monroe Street Tallahassee, Florida, 32301 United States (map) Google Calendar ICS NOTE: This event starts at 4:30PM Central/5:30PM Eastern North Florida, let’s rally 💙🇺🇸 Join us at Proof in Tallahassee on September 24 for an evening all about bringing folks together, building momentum, and fighting for the representation North Florida deserves.
 Bring your friends, bring your family, and come be part of this people-first campaign.
 See you at Proof!
-RSVP recommended to shelby@amgforcongress.com
-Previous
-Previous
-September 23
-6th Annual Ray Charles Birthday Picnic
-Next
-Next
-September 25
+RSVP recommended to shelby@amgforcongress.com Previous Previous September 23 6th Annual Ray Charles Birthday Picnic Next Next September 25 Perry Smokin' in the Pines BBQ Festival TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

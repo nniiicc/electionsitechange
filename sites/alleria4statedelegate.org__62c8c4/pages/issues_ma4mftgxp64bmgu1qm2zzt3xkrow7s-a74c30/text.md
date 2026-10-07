@@ -1,5 +1,4 @@
-Economic Dignity, Workforce Development, and Small Business Growth
-An economy must work for the people who build it every day, not just corporate monopolies, private equity firms, and out-of-state shareholders.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Economic Dignity, Workforce Development, and Small Business Growth Sep 17 Written By Apple User An economy must work for the people who build it every day, not just corporate monopolies, private equity firms, and out-of-state shareholders.
 When my children reached the age to hold their first jobs, they felt that universal, youthful thrill of earning their own paychecks and gaining the independence to purchase what they desired.
 Freedom!
 In that moment, I taught them a crucial lesson that fundamentally altered how they viewed money: never measure the price of an item in dollars and cents.
@@ -24,3 +23,8 @@ Small businesses animate our historic commercial corridors and keep capital circ
 I will fight to cut bureaucratic red tape, streamline occupational licensing, and create dedicated micro-grants and revolving loan funds for local Main Street shops.
 Finally, I will mandate prevailing wage standards on all state-funded capital projects and fully fund the Attorney General's ability to prosecute wage theft and worker misclassification aggressively.
 When we respect labor, expand debt-free apprenticeships, and invest in local entrepreneurs, we construct an economy anchored in durable community dignity.
+Apple User Previous Previous Defending Civil Rights, Reproductive Freedom, and LGBTQ+ Protections Next Next Expanding Healthcare Access and Behavioral Health Resources Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

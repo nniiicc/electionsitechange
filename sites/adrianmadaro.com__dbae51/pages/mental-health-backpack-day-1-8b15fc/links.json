@@ -1,37 +1,162 @@
 [
-"http://leahjeanphoto.com/",
-"https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/The-Anxious-Child-047.aspx",
-"https://aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/GLAD-PC_PHQ-9.pdf",
-"https://adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/category/education",
-"https://adrianmadaro.com/category/equality",
-"https://adrianmadaro.com/category/general",
-"https://adrianmadaro.com/category/mental-health",
-"https://adrianmadaro.com/category/resources",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://autisticadvocacy.org/",
-"https://beyondocd.org/just-for-teens",
-"https://calmharm.co.uk/",
-"https://chadd.org/wp-content/uploads/2018/05/Teens-Teens.pdf",
-"https://clearfear.co.uk/",
-"https://facebook.com/adrianforrep",
-"https://goingclear.com/",
-"https://instagram.com/adrianmadaro",
-"https://kidshealth.org/en/teens/adhd.html",
-"https://mentalhealth.gov/basics/what-is-mental-health",
-"https://nationaleatingdisorders.org/help-support/contact-helpline",
-"https://nimh.nih.gov/health/publications/teen-depression/om-21-4319-teendepressionmorethanmoodiness_150205.pdf",
-"https://samaritanshope.org/",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://smartkidswithld.org/",
-"https://stanfordchildrens.org/en/topic/default?id=post-traumatic-stress-disorder-in-children-90-P02579",
-"https://suicidepreventionlifeline.org/",
-"https://suicidepreventionlifeline.org/help-yourself",
-"https://teens.webmd.com/anxiety-and-teens",
-"https://twitter.com/adrianmadaro"
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Calm Harm",
+"href": "https://calmharm.co.uk/"
+},
+{
+"text": "Clear Fear",
+"href": "https://www.clearfear.co.uk/"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Education",
+"href": "https://www.adrianmadaro.com/category/education/"
+},
+{
+"text": "Equality",
+"href": "https://www.adrianmadaro.com/category/equality/"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "General",
+"href": "https://www.adrianmadaro.com/category/general/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Here",
+"href": "https://www.adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "Latest News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Lifeline.",
+"href": "https://suicidepreventionlifeline.org/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.adrianmadaro.com/category/mental-health/"
+},
+{
+"text": "National Eating Disorders Association (NEDA)",
+"href": "https://www.nationaleatingdisorders.org/help-support/contact-helpline"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/category/resources/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "Samaritans",
+"href": "https://samaritanshope.org/"
+},
+{
+"text": "What is Mental Health?",
+"href": "https://www.mentalhealth.gov/basics/what-is-mental-health"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "here",
+"href": "https://beyondocd.org/just-for-teens"
+},
+{
+"text": "here",
+"href": "https://teens.webmd.com/anxiety-and-teens"
+},
+{
+"text": "here",
+"href": "https://www.smartkidswithld.org/"
+},
+{
+"text": "here.",
+"href": "https://autisticadvocacy.org/"
+},
+{
+"text": "here.",
+"href": "https://chadd.org/wp-content/uploads/2018/05/Teens-Teens.pdf"
+},
+{
+"text": "here.",
+"href": "https://kidshealth.org/en/teens/adhd.html"
+},
+{
+"text": "here.",
+"href": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/The-Anxious-Child-047.aspx"
+},
+{
+"text": "here.",
+"href": "https://www.nimh.nih.gov/health/publications/teen-depression/om-21-4319-teendepressionmorethanmoodiness_150205.pdf"
+},
+{
+"text": "here.",
+"href": "https://www.stanfordchildrens.org/en/topic/default?id=post-traumatic-stress-disorder-in-children-90-P02579"
+},
+{
+"text": "link",
+"href": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/GLAD-PC_PHQ-9.pdf"
+},
+{
+"text": "safety plan",
+"href": "https://suicidepreventionlifeline.org/help-yourself/"
+}
 ]

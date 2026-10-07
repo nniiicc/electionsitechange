@@ -1,9 +1,2 @@
-Back to All Events
-Come see us in the parade!
-Previous
-Previous
-July 4
-July 4th Parade
-Next
-Next
-August 2
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events Marion County Fair Parade Saturday, July 26, 2025 10:00 AM 11:00 AM Google Calendar ICS Come see us in the parade!
+Previous Previous July 4 July 4th Parade Next Next August 2 Marion County Fair Sale of Champions Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

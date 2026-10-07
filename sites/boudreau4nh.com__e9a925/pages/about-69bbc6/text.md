@@ -1,6 +1,5 @@
-Meet Pete Boudreau
-Candidate for State Representative
-I was born and raised in Manchester, NH, where I attended public schools, and have proudly called Auburn my home since 1994.
+Home Who is Pete?
+Toggle dropdown Education & Experience Issues Endorsements Volunteer Contact Donate Meet Pete Boudreau Candidate for State Representative I was born and raised in Manchester, NH, where I attended public schools, and have proudly called Auburn my home since 1994.
 My wife, Elise, a dedicated social worker in a community clinic, and I have built our life here while raising our two children, both graduates of NH public schools.
 I started my career as a Master Plumber and started a successful plumbing business with my brother.
 As a small business owner, I learned the value of hard work, personal responsibility, and the challenges facing working families.
@@ -13,3 +12,6 @@ I have volunteered with organizations including the Salvation Army Kids Cafe and
 For more than 30 years, public service has been the foundation of my life.
 Today, I’m seeking to continue that service in the NH House of Representatives, fighting for lower property taxes, strong public education, affordable housing, safe communities, individual freedoms and accountable government.
 It would be an honor to continue serving the people of Auburn, Candia, Chester, and Deerfield as your State Representative.
+On November 3, 2026, vote for Pete Boudreau for New Hampshire State Representative Election Day # Days # Hours # Minutes # Seconds Thank you for your support!
+Support the Campaign Privacy Terms Political advertisement paid for and approved by the candidate.
+District Attorney Campaign Websites by Online Candidate

@@ -1,5 +1,4 @@
-Meet Blake
-After serving in the Peace Corps, my parents moved to the North Country and started a dairy farm.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake After serving in the Peace Corps, my parents moved to the North Country and started a dairy farm.
 I grew up working on the farm, earned a degree in agriculture, and later worked for a farm equipment manufacturer.
 For the past 22 years, I have owned and operated Twin Mill Farms along with my family – my wife, Carmen, and my three boys, Miles, Truman, and Noah.
 We’ve come a long way, and Twin Mill Farms currently has over 1,000 acres of land, 500 dairy cows, and 12 full-time employees who work on the farm.
@@ -17,3 +16,4 @@ We started the Jules of Life Foundation because navigating our health care syste
 This community, these people, this land – it’s my life.
 They’ve given me purpose, a place to raise my family and instill in them the same values my parents taught me, and the opportunity to give back.
 I’m not a politician or a rich executive, but no one is more prepared to fight for the North Country in Washington than me.
+Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

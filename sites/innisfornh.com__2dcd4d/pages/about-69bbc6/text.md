@@ -1,10 +1,4 @@
-About Dan Innis
-Republican Candidate for NH State Senate
-Professor of Marketing and Hospitality Management
-Former State Senator (District 24)
-Former Dean, UNH College of Business & Economics
-Owner, Trail’s End farm
-Daniel E.
+Skip to content Menu Home About Contact Donate About Dan Innis Republican Candidate for NH State Senate Professor of Marketing and Hospitality Management Former State Senator (District 24) Former Dean, UNH College of Business & Economics Owner, Trail’s End farm Daniel E.
 Innis, is a businessperson, a Professor of Marketing and Hospitality Management at the University of New Hampshire, State Senator from District 7, and owner of Trails End Acres (formerly Battles Farms) in Bradford, NH.
 He is the former Dean of the Peter T.
 Paul College of Business and Economics at the University of New Hampshire, a position he held from 2007 to late 2013, and he has owned and operated two inns and a hotel (The Hotel Portsmouth).
@@ -25,3 +19,6 @@ He was a big part of the crafting the current state budget, which passed the Sen
 Dan resides in Bradford and has three children, all of whom are UNH graduates.
 His eldest son, Ben, and his wife, Emma, welcomed Dan’s first grandchild to the world in July.
 District 7 includes the towns of Alexandria, Andover, Boscawen, Bradford, Bridgewater, Bristol, Danbury, Franklin, Goshen, Grafton, Hebron, Henniker, Hill, Hillsborough, Newbury, Orange, Salisbury, Sutton, Tilton, Warner, Webster, and Wilmot.
+Paid for by Friends of Dan Innis.
+Spencer Wyand, Treasurer.
+328 Center Rd, Bradford, NH 03221

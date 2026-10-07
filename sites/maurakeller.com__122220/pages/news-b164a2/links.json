@@ -1,48 +1,346 @@
 [
-"https://bsky.app/profile/maurakellerforga.bsky.social",
-"https://facebook.com/MauraKellerforGeorgia",
-"https://instagram.com/maurakellerforgeorgia",
-"https://linkedin.com/in/maura-keller-68581424",
-"https://maurakeller.com/",
-"https://maurakeller.com/about",
-"https://maurakeller.com/cart",
-"https://maurakeller.com/contact",
-"https://maurakeller.com/early-voting",
-"https://maurakeller.com/endorsements",
-"https://maurakeller.com/events",
-"https://maurakeller.com/issues",
-"https://maurakeller.com/join",
-"https://maurakeller.com/meet",
-"https://maurakeller.com/news",
-"https://maurakeller.com/news/a-week-in-dc-pta-legcon",
-"https://maurakeller.com/news/category/Political+Action",
-"https://maurakeller.com/news/category/Speaking+Event",
-"https://maurakeller.com/news/democrats-for-action-maura-keller",
-"https://maurakeller.com/news/feminist-majority-endorsement",
-"https://maurakeller.com/news/keller2026",
-"https://maurakeller.com/news/maura-keller-aflcio-endorsement",
-"https://maurakeller.com/news/maura-keller-election-night-party",
-"https://maurakeller.com/news/maura-keller-feminist-majority-endorsement",
-"https://maurakeller.com/news/maura-keller-fundraises-100k",
-"https://maurakeller.com/news/maura-keller-fundraising-record",
-"https://maurakeller.com/news/maura-keller-raises-200000",
-"https://maurakeller.com/news/maura-keller-responds-school-shooting-georgia",
-"https://maurakeller.com/news/maura-keller-signs-term-limits-pledge",
-"https://maurakeller.com/news/maura-keller-wins-2026-primary",
-"https://maurakeller.com/news/press-release-maura-keller-campaign",
-"https://maurakeller.com/news/press-release-maura-keller-dobbs-decision-anniversary",
-"https://maurakeller.com/news/press-release-maura-keller-endorsement-from-veterans-for-responsible-leadership",
-"https://maurakeller.com/news/press-release-maura-keller-wins-democratic-primary",
-"https://maurakeller.com/news/w4v8318o7hhujjxerj08qb638q48y0",
-"https://maurakeller.com/privacy-policy",
-"https://maurakeller.com/take-action",
-"https://maurakeller.com/volunteer",
-"https://maurakeller.com/yardsigns",
-"https://mvp.sos.ga.gov/s",
-"https://reddit.com/r/maurakeller",
-"https://secure.actblue.com/donate/mkellerwebsite",
-"https://theinformation.com/articles/ai-backlash-shape-midterm-elections?rc=kfcki8",
-"https://tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1",
-"https://x.com/MauraKellerGA",
-"https://youtube.com/@GetMoreWithMaura"
+{
+"text": "0",
+"href": "https://maurakeller.com/cart"
+},
+{
+"text": "All Endorsements",
+"href": "https://maurakeller.com/endorsements"
+},
+{
+"text": "Back",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "Contact",
+"href": "https://maurakeller.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mkellerwebsite"
+},
+{
+"text": "Early Voting",
+"href": "https://maurakeller.com/early-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://maurakeller.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://maurakeller.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://maurakeller.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://maurakeller.com/take-action"
+},
+{
+"text": "Home",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "How the AI Backlash Could Shape the Midterm Elections",
+"href": "https://www.theinformation.com/articles/ai-backlash-shape-midterm-elections?rc=kfcki8"
+},
+{
+"text": "Issues",
+"href": "https://maurakeller.com/issues"
+},
+{
+"text": "Join",
+"href": "https://maurakeller.com/join"
+},
+{
+"text": "Maura Keller Responds to Shooting at Apalachee High Shool",
+"href": "https://maurakeller.com/news/maura-keller-responds-school-shooting-georgia"
+},
+{
+"text": "Maura Keller signs term limits pledge",
+"href": "https://maurakeller.com/news/maura-keller-signs-term-limits-pledge"
+},
+{
+"text": "Maura’s Week in D.C. | National PTA Legislative Conference",
+"href": "https://maurakeller.com/news/a-week-in-dc-pta-legcon"
+},
+{
+"text": "Meet Maura",
+"href": "https://maurakeller.com/meet"
+},
+{
+"text": "News",
+"href": "https://maurakeller.com/news"
+},
+{
+"text": "Political Action",
+"href": "https://maurakeller.com/news/category/Political+Action"
+},
+{
+"text": "Press Release: Democrats For Action SunCity Peachtree Present Check to Maura keller",
+"href": "https://maurakeller.com/news/democrats-for-action-maura-keller"
+},
+{
+"text": "Press Release: MAURA KELLER ENDORSED BY GEORGIA AFL-CIO FOR GEORGIA’S 3RD DISTRICT",
+"href": "https://maurakeller.com/news/maura-keller-aflcio-endorsement"
+},
+{
+"text": "Press Release: Maura Keller Announces Candidacy for GA-3",
+"href": "https://maurakeller.com/news/keller2026"
+},
+{
+"text": "Press Release: Maura Keller Becomes the First Democratic Candidate in District 3 to Ever Raise $100k Before the Primary Election",
+"href": "https://maurakeller.com/news/maura-keller-fundraises-100k"
+},
+{
+"text": "Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000",
+"href": "https://maurakeller.com/news/maura-keller-fundraising-record"
+},
+{
+"text": "Press Release: Maura Keller Endorsed By The Feminist Majority",
+"href": "https://maurakeller.com/news/maura-keller-feminist-majority-endorsement"
+},
+{
+"text": "Press Release: Maura Keller Endorsment from Veterans for Responsible Leadership",
+"href": "https://maurakeller.com/news/press-release-maura-keller-endorsement-from-veterans-for-responsible-leadership"
+},
+{
+"text": "Press Release: Maura Keller Raises $200,000, Hosts Reddit AMA, Joins Rally with Mayor Keisha Lance Bottoms",
+"href": "https://maurakeller.com/news/maura-keller-raises-200000"
+},
+{
+"text": "Press Release: Maura Keller Wins 2026 Primary to Represent Georgia’s 3rd Congressional District, Eyes General Upset, Expands Staff",
+"href": "https://maurakeller.com/news/maura-keller-wins-2026-primary"
+},
+{
+"text": "Press Release: Maura Keller Wins Democratic Nomination for Georgia’s 3rd District",
+"href": "https://maurakeller.com/news/press-release-maura-keller-wins-democratic-primary"
+},
+{
+"text": "Press Release: Maura Keller for Congress Campaign",
+"href": "https://maurakeller.com/news/press-release-maura-keller-campaign"
+},
+{
+"text": "Press Release: Maura Keller to Celebrate Election Night in Fayetteville",
+"href": "https://maurakeller.com/news/maura-keller-election-night-party"
+},
+{
+"text": "Press Release: Maura Keller to Speak at Rally in Carrollton, GA, Marking 2 Years Since Dobbs",
+"href": "https://maurakeller.com/news/press-release-maura-keller-dobbs-decision-anniversary"
+},
+{
+"text": "Privacy Policy/Terms of Service",
+"href": "https://maurakeller.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/a-week-in-dc-pta-legcon"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/democrats-for-action-maura-keller"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/feminist-majority-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/keller2026"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-aflcio-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-election-night-party"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-feminist-majority-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-fundraises-100k"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-fundraising-record"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-raises-200000"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-responds-school-shooting-georgia"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-signs-term-limits-pledge"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/maura-keller-wins-2026-primary"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/press-release-maura-keller-campaign"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/press-release-maura-keller-dobbs-decision-anniversary"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/press-release-maura-keller-endorsement-from-veterans-for-responsible-leadership"
+},
+{
+"text": "Read More",
+"href": "https://maurakeller.com/news/press-release-maura-keller-wins-democratic-primary"
+},
+{
+"text": "Read More",
+"href": "https://www.theinformation.com/articles/ai-backlash-shape-midterm-elections?rc=kfcki8"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://maurakeller.com/yardsigns"
+},
+{
+"text": "Speaking Event",
+"href": "https://maurakeller.com/news/category/Speaking+Event"
+},
+{
+"text": "The Feminist Majority Endorses Maura Keller",
+"href": "https://maurakeller.com/news/feminist-majority-endorsement"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/volunteer"
+},
+{
+"text": "[image: How the AI Backlash Could Shape the Midterm Elections]",
+"href": "https://maurakeller.com/news/w4v8318o7hhujjxerj08qb638q48y0"
+},
+{
+"text": "[image: Maura Keller Responds to Shooting at Apalachee High Shool]",
+"href": "https://maurakeller.com/news/maura-keller-responds-school-shooting-georgia"
+},
+{
+"text": "[image: Maura Keller signs term limits pledge]",
+"href": "https://maurakeller.com/news/maura-keller-signs-term-limits-pledge"
+},
+{
+"text": "[image: Maura Keller]",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "[image: Maura’s Week in D.C. | National PTA Legislative Conference]",
+"href": "https://maurakeller.com/news/a-week-in-dc-pta-legcon"
+},
+{
+"text": "[image: Press Release: Democrats For Action SunCity Peachtree Present Check to Maura keller]",
+"href": "https://maurakeller.com/news/democrats-for-action-maura-keller"
+},
+{
+"text": "[image: Press Release: MAURA KELLER ENDORSED BY GEORGIA AFL-CIO FOR GEORGIA’S 3RD DISTRICT]",
+"href": "https://maurakeller.com/news/maura-keller-aflcio-endorsement"
+},
+{
+"text": "[image: Press Release: Maura Keller Announces Candidacy for GA-3]",
+"href": "https://maurakeller.com/news/keller2026"
+},
+{
+"text": "[image: Press Release: Maura Keller Becomes the First Democratic Candidate in District 3 to Ever Raise $100k Before the Primary Election]",
+"href": "https://maurakeller.com/news/maura-keller-fundraises-100k"
+},
+{
+"text": "[image: Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000]",
+"href": "https://maurakeller.com/news/maura-keller-fundraising-record"
+},
+{
+"text": "[image: Press Release: Maura Keller Endorsed By The Feminist Majority]",
+"href": "https://maurakeller.com/news/maura-keller-feminist-majority-endorsement"
+},
+{
+"text": "[image: Press Release: Maura Keller Endorsment from Veterans for Responsible Leadership]",
+"href": "https://maurakeller.com/news/press-release-maura-keller-endorsement-from-veterans-for-responsible-leadership"
+},
+{
+"text": "[image: Press Release: Maura Keller Raises $200,000, Hosts Reddit AMA, Joins Rally with Mayor Keisha Lance Bottoms]",
+"href": "https://maurakeller.com/news/maura-keller-raises-200000"
+},
+{
+"text": "[image: Press Release: Maura Keller Wins 2026 Primary to Represent Georgia’s 3rd Congressional District, Eyes General Upset, Expands Staff]",
+"href": "https://maurakeller.com/news/maura-keller-wins-2026-primary"
+},
+{
+"text": "[image: Press Release: Maura Keller Wins Democratic Nomination for Georgia’s 3rd District]",
+"href": "https://maurakeller.com/news/press-release-maura-keller-wins-democratic-primary"
+},
+{
+"text": "[image: Press Release: Maura Keller for Congress Campaign]",
+"href": "https://maurakeller.com/news/press-release-maura-keller-campaign"
+},
+{
+"text": "[image: Press Release: Maura Keller to Celebrate Election Night in Fayetteville]",
+"href": "https://maurakeller.com/news/maura-keller-election-night-party"
+},
+{
+"text": "[image: Press Release: Maura Keller to Speak at Rally in Carrollton, GA, Marking 2 Years Since Dobbs]",
+"href": "https://maurakeller.com/news/press-release-maura-keller-dobbs-decision-anniversary"
+},
+{
+"text": "[image: The Feminist Majority Endorses Maura Keller]",
+"href": "https://maurakeller.com/news/feminist-majority-endorsement"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maurakellerforga.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MauraKellerforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maurakellerforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/maura-keller-68581424/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/r/maurakeller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GetMoreWithMaura"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MauraKellerGA"
+},
+{
+"text": "alex@maurakeller.com",
+"href": "mailto:alex@maurakeller.com"
+},
+{
+"text": "maura@maurakeller.com",
+"href": "mailto:maura@maurakeller.com"
+}
 ]

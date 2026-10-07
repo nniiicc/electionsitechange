@@ -1,26 +1,118 @@
 [
-"https://facebook.com/YoungKimCA",
-"https://flickr.com/photos/youngkimca",
-"https://instagram.com/YoungKimCA",
-"https://secure.anedot.com/youngkimcd40/donate?amount=100&frequency=monthly&web_id=youngkimforcongress_home_donate100mo",
-"https://secure.anedot.com/youngkimcd40/donate?amount=100&web_id=youngkimforcongress_home_donate100",
-"https://secure.anedot.com/youngkimcd40/donate?amount=15&frequency=monthly&web_id=youngkimforcongress_home_donate15mo",
-"https://secure.anedot.com/youngkimcd40/donate?amount=15&web_id=youngkimforcongress_home_donate15",
-"https://secure.anedot.com/youngkimcd40/donate?amount=25&frequency=monthly&web_id=youngkimforcongress_home_donate25mo",
-"https://secure.anedot.com/youngkimcd40/donate?amount=25&web_id=youngkimforcongress_home_donate25",
-"https://secure.anedot.com/youngkimcd40/donate?amount=5&frequency=monthly&web_id=youngkimforcongress_home_donate5mo",
-"https://secure.anedot.com/youngkimcd40/donate?amount=5&web_id=youngkimforcongress_home_donate5",
-"https://secure.anedot.com/youngkimcd40/donate?amount=50&frequency=monthly&web_id=youngkimforcongress_home_donate50mo",
-"https://secure.anedot.com/youngkimcd40/donate?amount=50&web_id=youngkimforcongress_home_donate50",
-"https://secure.anedot.com/youngkimcd40/donate?frequency=monthly&web_id=youngkimforcongress_home_donateothermo",
-"https://secure.anedot.com/youngkimcd40/donate?web_id=youngkimforcongress_home_donateother",
-"https://secure.anedot.com/youngkimcd40/donate?web_id=youngkimforcongress_home_navbtn",
-"https://truthsocial.com/@YoungKimCA",
-"https://x.com/YoungKimCA",
-"https://youngkimforcongress.com/",
-"https://youngkimforcongress.com/endorsements",
-"https://youngkimforcongress.com/meet-young-kim",
-"https://youngkimforcongress.com/news",
-"https://youngkimforcongress.com/privacy-policy",
-"https://youngkimforcongress.com/terms-and-conditions"
+{
+"text": "$#",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=100&web_id=youngkimforcongress_home_donate100"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=15&web_id=youngkimforcongress_home_donate15"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=25&web_id=youngkimforcongress_home_donate25"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=5&web_id=youngkimforcongress_home_donate5"
+},
+{
+"text": "$#",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=50&web_id=youngkimforcongress_home_donate50"
+},
+{
+"text": "$100/mo",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=100&frequency=monthly&web_id=youngkimforcongress_home_donate100mo"
+},
+{
+"text": "$15/mo",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=15&frequency=monthly&web_id=youngkimforcongress_home_donate15mo"
+},
+{
+"text": "$25/mo",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=25&frequency=monthly&web_id=youngkimforcongress_home_donate25mo"
+},
+{
+"text": "$5/mo",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=5&frequency=monthly&web_id=youngkimforcongress_home_donate5mo"
+},
+{
+"text": "$50/mo",
+"href": "https://secure.anedot.com/youngkimcd40/donate?amount=50&frequency=monthly&web_id=youngkimforcongress_home_donate50mo"
+},
+{
+"text": "714-253-4230",
+"href": "tel:%7Bacf_client_contact_em%7D"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/youngkimcd40/donate?web_id=youngkimforcongress_home_navbtn"
+},
+{
+"text": "Endorsements",
+"href": "https://youngkimforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://youngkimforcongress.com/"
+},
+{
+"text": "Learn More",
+"href": "https://youngkimforcongress.com/meet-young-kim/"
+},
+{
+"text": "Media",
+"href": "https://www.flickr.com/photos/youngkimca/"
+},
+{
+"text": "Meet Young Kim",
+"href": "https://youngkimforcongress.com/meet-young-kim/"
+},
+{
+"text": "News",
+"href": "https://youngkimforcongress.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/youngkimcd40/donate?frequency=monthly&web_id=youngkimforcongress_home_donateothermo"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/youngkimcd40/donate?web_id=youngkimforcongress_home_donateother"
+},
+{
+"text": "Terms & conditions",
+"href": "https://youngkimforcongress.com/terms-and-conditions/"
+},
+{
+"text": "[image: Young Kim for Congress]",
+"href": "https://youngkimforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/YoungKimCA"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@YoungKimCA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/YoungKimCA"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/youngkimca/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/YoungKimCA"
+},
+{
+"text": "info@youngkimforcongress.com; press@youngkimforcongress.com",
+"href": "email:info@youngkimforcongress.com;%20press@youngkimforcongress.com"
+},
+{
+"text": "privacy policy",
+"href": "https://youngkimforcongress.com/privacy-policy/"
+}
 ]

@@ -1,3 +1,6 @@
+EN ES Home About Priorities Media Endorsements Get involved Donate Jose Javier Rodriguez’s day one promises as Florida’s Attorney General Crime.
+Costs.
+Corruption. crime.
 Protect Florida's Kids.
 Hold Big Tech and social media platforms accountable for hurting Florida's children.
 Dismantle Criminal Organizations.
@@ -8,6 +11,7 @@ Safeguard Florida Homes.
 Protect homeowners and renters by ending deed and title theft, contractor fraud and predatory schemes through strict enforcement.
 Support Public Safety.
 Provide resources to police and prosecutors to combat violent crime and gun violence.
+Costs.
 Rein in the Utilities.
 Investigate state monopoly electric utilities over excessive rate setting, hidden fees, and deceptive billing practices.
 Expose Big Insurance.
@@ -20,6 +24,7 @@ Pay Workers What They Are Owed.
 Enforce the state minimum wage, shut down wage theft, and penalize unsafe workplaces.
 Make Polluters Pay.
 Enforce Florida's environmental laws that require polluters, not Floridians, to pay the cleanup costs of pollution.
+Corruption.
 Root Out Corruption in Tallahassee.
 Find, prosecute, and root out the rampant corruption in our state government.
 Recover Stolen Tax Dollars for Floridians.
@@ -32,5 +37,6 @@ Stop the Taking of Education Dollars.
 Investigate the misuse of public education dollars by the state and private organizations, including the millions unaccounted for.
 Stop the Sell-Off of Public Lands.
 As a Cabinet member, fight any sale, swap, or surplus of Florida's public and conservation land.
-Every dollar counts.
-Support our campaign and make a difference starting today.
+Donate today to support Jose Javier Rodriguez Every dollar counts.
+Support our campaign and make a difference starting today. $25 $50 $100 $250 $500 $1,000 $3,000 Other Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL

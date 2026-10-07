@@ -1,28 +1,24 @@
-| This week, members of the Georgia House of Representatives returned to the State Capitol following a winter storm that impacted much of the southern part of the state.
+Skip to content Stan Gunter State Representative ☰ Home Meet Stan Issues Get Involved News and Events Donate Donate X Home Meet Stan Issues Get Involved News and Events Donate Donate April 28, 2025 2025 Legislative Session Update: Week Ending 1/31/25 This week, members of the Georgia House of Representatives returned to the State Capitol following a winter storm that impacted much of the southern part of the state.
 One of our primary responsibilities this week was to hear from Chief Justice Michael Boggs of the Georgia Supreme Court as he delivered his State of the Judiciary address to a joint session of the House and Senate in the House Chamber.
 House Appropriations Subcommittees and full House committees also began to meet this week, ramping up the committee process.
-While the workflow was continuous, we also made sure to take moments to honor important occasions and reflect on significant events throughout the week. |
-| |
-| Updates: House Action International Holocaust Remembrance Day On Monday, we began the week with a moment of reflection and remembrance, honoring the millions of innocent lives lost during the Holocaust.
-Through the adoption of House Resolution 50, which designates January 27, 2025, as International Holocaust Remembrance Day, the House reaffirmed our commitment to ensuring that such atrocities are never forgotten.
+While the workflow was continuous, we also made sure to take moments to honor important occasions and reflect on significant events throughout the week.
+Updates: House Action International Holocaust Remembrance Day On Monday, we began the week with a moment of reflection and remembrance, honoring the millions of innocent lives lost during the Holocaust.
+Through the adoption of House Resolution 50 , which designates January 27, 2025, as International Holocaust Remembrance Day, the House reaffirmed our commitment to ensuring that such atrocities are never forgotten.
 Monday also marked the 80th anniversary of the liberation of Auschwitz-Birkenau, which served as a poignant reminder of the resilience of humanity in the face of unimaginable suffering.
 State of the Judiciary Address Chief Justice Michael P.
 Boggs addressed the House and Senate on Tuesday and began his State of the Judiciary address by emphasizing the rise in public confidence in state courts, noting that more than half of Americans now give positive ratings to their state judicial systems.
 He also highlighted that Georgia courts are proactively examining the impact of generative artificial intelligence (AI) on our legal system and have formed a committee to assess their findings and discover what challenges or opportunities could come from the use of AI in the judicial system.
-In his address last year, Chief Justice Boggs spoke about the shortage of court reporters across the state. |
-| |
-| This year, Chief Justice Boggs noted that the Judicial Council is prepared to submit a balanced proposal that would allow trial judges the option to have some court proceedings be recorded by a digital system, thus reducing the amount of time spent retrieving necessary records.
+In his address last year, Chief Justice Boggs spoke about the shortage of court reporters across the state.
+This year, Chief Justice Boggs noted that the Judicial Council is prepared to submit a balanced proposal that would allow trial judges the option to have some court proceedings be recorded by a digital system, thus reducing the amount of time spent retrieving necessary records.
 When court proceedings are prolonged, victims are often subject to delays in receiving justice, and this proposal would help victims obtain closure in a timely manner.
-Chief Justice Boggs went on to emphasize the positive work being done to improve outcomes for veterans in our state’s criminal justice system, highlighting the work of Cobb County’s Veterans Accountability and Treatment Court program, which has worked tirelessly to decrease recidivism rates for incarcerated veterans through an 18-month program designed to address post-traumatic stress disorder, substance abuse and other mental health issues.
+Chief Justice Boggs went on to emphasize the positive work being done to improve outcomes for veterans in our state’s criminal justice system, highlighting the work of Cobb County’s Veterans Accountability and Treatment Court program , which has worked tirelessly to decrease recidivism rates for incarcerated veterans through an 18-month program designed to address post-traumatic stress disorder, substance abuse and other mental health issues.
 Chief Justice Boggs acknowledged that while these legislative-supported and local initiatives are crucial for the health and prosperity of Georgia’s judicial system, they are not the sole responsibility of the courts.
-He emphasized that Georgia’s courts remain stronger than ever, despite facing challenges to their mission. |
-| |
-| Georgia Supreme Court Chief Justice Michael Boggs |
-| The chief justice also reported that in recent years, attacks and threats targeting Georgia’s courts, including those aimed at judges, have been on the rise.
+He emphasized that Georgia’s courts remain stronger than ever, despite facing challenges to their mission.
+Georgia Supreme Court Chief Justice Michael Boggs The chief justice also reported that in recent years, attacks and threats targeting Georgia’s courts, including those aimed at judges, have been on the rise.
 He highlighted a statistic from the United States Marshals Service, which revealed that threats against federal judges have nearly tripled over the past decade.
 In response to this escalating trend, Chief Justice Boggs proposed a series of upgrades to physical security measures, alongside comprehensive training initiatives designed to ensure that security situations are not only effectively managed but also prevented.
 Lastly, the chief justice reiterated his appreciation for the legislature’s cooperation and support in enhancing the protection of judicial system, particularly by improving judicial compensation.
-He emphasized that this effort will be pursued once again during the legislative session through two pieces of legislation: House Bill 85, which would address compensation for superior court judges, and House Bill 86, which would pertain to compensation for statewide judges.
+He emphasized that this effort will be pursued once again during the legislative session through two pieces of legislation: House Bill 85, which would address compensation for superior court judges, and House Bill 86 , which would pertain to compensation for statewide judges.
 In addition to hearing the State of the Judiciary address this week, the pace of our legislative work certainly picked up as the House Appropriations Subcommittees continued meeting this week to review the sections of the Amended Fiscal Year (AFY) 2025 budget.
 Each subcommittee carefully examines a specific section of Governor Kemp’s budget proposals, eventually passing sections of the budgets from their respective subcommittees.
 Each budget section will then be presented to the full House Appropriations Committee, where members will collaborate to form one unified budget before the budget bill moves on to the House Rules Committee for further consideration and scheduling of a full vote on the House floor.
@@ -37,10 +33,8 @@ Also, this week, my colleagues and I gathered in the House Chamber for the unvei
 Smyre, the longest-serving member in the state’s history, is only the seventh African American to have such a distinction.
 The ceremony was attended by former Georgia governors, lieutenant governors, a United States congressman, friends, family and colleagues—many of whom spoke of Dean Smyre’s contributions to Georgia’s political landscape.
 Former Governor Roy Barnes and former Governor Sonny Perdue were among those present for the event, and former Governor Joe Frank Harris also shared a heartfelt letter read during the event.
-Dean Smyre’s legacy will now be immortalized at the State Capitol for future generations to admire. |
-| |
-| Former State Representative Dean Calvin Smyre 1973 – 2023 |
-| Finally, to end our week, we stood for a moment of silence to remember the victims of the tragic mid-air collision that took place at Reagan Washington National Airport, and, among the victims were two individuals with ties to Georgia.
+Dean Smyre’s legacy will now be immortalized at the State Capitol for future generations to admire.
+Former State Representative Dean Calvin Smyre 1973 – 2023 Finally, to end our week, we stood for a moment of silence to remember the victims of the tragic mid-air collision that took place at Reagan Washington National Airport, and, among the victims were two individuals with ties to Georgia.
 Sam Lilley, the first officer aboard Flight 5342, was a graduate of Richmond Hill High School in Bryan County and Georgia Southern University.
 Ryan O’Hara, a 2014 graduate of Parkview High School in Lilburn, was serving as a Blackhawk helicopter Crew Chief.
 The House mourns this profound loss, and our thoughts and prayers are with all of the victims and their families.
@@ -48,12 +42,11 @@ We will return to the State Capitol on Monday, February 3rd for our fourth week 
 My colleagues and I will continue to consider legislation that best serves Georgians, and I will be sure to update you about our legislative work.
 As we continue through the session, I hope that you will reach out with your questions or concerns regarding legislation and the issues that are significant to you and your family.
 You are welcome to schedule a phone call or plan a visit to the State Capitol to discuss matters that are important to you and our community.
-You can reach me at (404) 656-5125 and via email at stan.gunter@house.ga.gov.
-As always, thank you for allowing me to serve as your representative Respectfully, Stan Gunter Representative of Georgia’s 8th District |
-| |
-| |
-| Stan and Rita Gunter 2025 Legislative Session |
-| |
-| Steve Rowe, Representative Stan Gunter, Senator Steve Gooch, John Wilkinson and Lamar Paris |
-| |
-| Atlanta Eggs and Issues Breakfast |
+You can reach me at ( 404) 656-5125 and via email at stan.gunter@house.ga.gov .
+As always, thank you for allowing me to serve as your representative Respectfully, Stan Gunter Representative of Georgia’s 8th District Stan and Rita Gunter 2025 Legislative Session Steve Rowe, Representative Stan Gunter, Senator Steve Gooch, John Wilkinson and Lamar Paris Atlanta Eggs and Issues Breakfast Post navigation 2024 Legislative Session Update: Days 37-40 2025 Legislative Session Update: Week Ending 2/7/25 Latest News 2026 Legislative Update: Sine Die 2026 Legislative Update – Week 9, 10 & 11 Recap Rep.
+Stan Gunther Formally Qualified for Re-Election 2026 Legislative Update – Week 6 Recap 2026 Legislative Update – 2/9/26 2026 Legislative Update: Four Weeks Into The Session Stay Connected Contribute Today Stan Gunter is the Conservative Fighter We Need.
+Can Stan Count on Your Support?
+Make a Donation! $# $# $# $# $# Join the Team!
+Add Your Name to Stay Up to Date on the Gunter Campaign: Email * Cell Phone Zip Code Δ Home Meet Stan Issues Get Involved News and Events Donate Donate Paid for by Stan Gunter for Georgia CONTACT TEAM GUNTER TODAY!
+Phone: 706.897.5609 Email: Stan@StanGunterForGeorgia.com Mail: P.O.
+Box 2376, Blairsville, Georgia 30514 © #

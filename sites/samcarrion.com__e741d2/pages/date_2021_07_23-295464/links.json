@@ -1,21 +1,110 @@
 [
-"https://facebook.com/SamCarrionUSVI",
-"https://facebook.com/wordpress",
-"https://instagram.com/explore/tags/wordcamp",
-"https://samcarrion.com/",
-"https://samcarrion.com/325",
-"https://samcarrion.com/466",
-"https://samcarrion.com/476",
-"https://samcarrion.com/503",
-"https://samcarrion.com/about-sam",
-"https://samcarrion.com/author/swiftkurrent",
-"https://samcarrion.com/category/uncategorized",
-"https://samcarrion.com/donate",
-"https://samcarrion.com/get-involved",
-"https://samcarrion.com/issues",
-"https://samcarrion.com/news",
-"https://samcarrion.com/policy",
-"https://twitter.com/CarrionUSVI",
-"https://twitter.com/wordpress",
-"https://yelp.com/"
+{
+"text": "About Sam",
+"href": "https://samcarrion.com/about-sam/"
+},
+{
+"text": "Donate",
+"href": "https://samcarrion.com/donate"
+},
+{
+"text": "Email",
+"href": "mailto:wordpress@example.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SamCarrionUSVI/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/wordpress"
+},
+{
+"text": "Former Senator Samuel “Sam” Carrión Announces Candidacy for 37th Legislature",
+"href": "https://samcarrion.com/503/"
+},
+{
+"text": "Get Involved",
+"href": "https://samcarrion.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/explore/tags/wordcamp/"
+},
+{
+"text": "Issues",
+"href": "https://samcarrion.com/issues/"
+},
+{
+"text": "July 23, 2021",
+"href": "https://samcarrion.com/325/"
+},
+{
+"text": "Legislative Highlights",
+"href": "https://samcarrion.com/policy/"
+},
+{
+"text": "More News >>",
+"href": "https://samcarrion.com/news"
+},
+{
+"text": "News",
+"href": "https://samcarrion.com/news/"
+},
+{
+"text": "No Comments on Senator Carrión Calls on Governor, Congresswoman to Appeal to President Biden for Gun Violence Task Force in Territory",
+"href": "https://samcarrion.com/325/#respond"
+},
+{
+"text": "Read More »",
+"href": "https://samcarrion.com/466/"
+},
+{
+"text": "Read More »",
+"href": "https://samcarrion.com/476/"
+},
+{
+"text": "Read More »",
+"href": "https://samcarrion.com/503/"
+},
+{
+"text": "Senator Carrión Calls on Governor, Congresswoman to Appeal to President Biden for Gun Violence Task Force in Territory",
+"href": "https://samcarrion.com/325/"
+},
+{
+"text": "Senator Carrión Expresses Disappointment in Governor’s Veto of Bill No. 35-0236",
+"href": "https://samcarrion.com/476/"
+},
+{
+"text": "Senator Carrión position over Governor Albert Bryan’s Request for a $200,000 Allocation to support relief efforts and GVI’s General Fund Financial Constraints.",
+"href": "https://samcarrion.com/466/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CarrionUSVI"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/wordpress"
+},
+{
+"text": "Uncategorized",
+"href": "https://samcarrion.com/category/uncategorized/"
+},
+{
+"text": "Yelp",
+"href": "https://www.yelp.com"
+},
+{
+"text": "[image]",
+"href": "https://samcarrion.com/"
+},
+{
+"text": "info@samcarrion.com",
+"href": "mailto:info@samcarrion.com"
+},
+{
+"text": "swiftkurrent",
+"href": "https://samcarrion.com/author/swiftkurrent/"
+}
 ]

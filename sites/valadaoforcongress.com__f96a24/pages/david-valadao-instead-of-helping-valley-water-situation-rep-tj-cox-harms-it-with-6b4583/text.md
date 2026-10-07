@@ -1,9 +1,11 @@
-Throughout my time in Congress, it was my mission to fight for our Central Valley and work with both Democrats and Republicans to stand up against policies harming our values and way of life.
+Skip to content Home Voter Information About David Get Involved Issues News Media Donate Español News David Valadao: Instead of helping Valley water situation, Rep.
+TJ Cox harms it with vote – Fresno Bee Op-ed, 8/25/20 Throughout my time in Congress, it was my mission to fight for our Central Valley and work with both Democrats and Republicans to stand up against policies harming our values and way of life.
 Time and time again, I reached across the aisle and worked to find solutions to create a pathway to citizenship for DACA recipients, improve agriculture policy, and ensure our nation’s military and veterans are taken care of.
 In the Central Valley, water is our lifeline and crucial to everything we do.
-That is why while I was in Congress, delivering more water to the Central Valley was my No. 1 goal.
+That is why while I was in Congress, delivering more water to the Central Valley was my No.
+1 goal.
 Recently, I saw Rep.
-TJ Cox take credit for and tout the inclusion of water infrastructure project funding in a bill.
+TJ Cox take credit for and tout the inclusion of water infrastructure project funding in a bill .
 What TJ Cox fails to mention is that the language he is taking credit for will hold the Central Valley hostage.
 There are provisions buried in the bill that prevent funding for projects our communities desperately need until Bay Area pet projects are funded first.
 Even further, on page 321 of the bill, funding is outright banned for the Shasta Dam and Reservoir Enlargement Project, meaning we can’t use the funding for critical dam expansion projects that that help supply water to cities like Avenal, Huron, Coalinga, and Kettleman City.
@@ -13,9 +15,9 @@ To add insult to injury, he refused to join other California colleagues to suppo
 We need a representative in Washington who truly has our community’s needs at the forefront and is willing to work across the aisle to deliver more water to the Central Valley.
 One of my proudest achievements was in 2016 when I worked with a bipartisan group in Congress to pass the Water Infrastructure Improvements for the Nation Act (WIIN Act), which was signed into law by President Obama.
 The California water provisions included in the WIIN Act allow for the development of new water infrastructure, provide funding for storage and groundwater projects, and improve operations on the Central Valley Project.
-In 2017, I ensured the passage of my bill, H.R. 23, the Gaining Responsibility on Water Act, which increases safe, reliable water supplied to communities up and down the Valley.
-Then, in 2018, I was there when the president signed the “Presidential Memorandum on Promoting the Reliable Supply and Delivery of Water in the West.”
-Every single one of these bills and memorandums worked together to accomplish one goal: deliver more water to the families and farmers in our Central Valley.
+In 2017, I ensured the passage of my bill, H.R.
+23, the Gaining Responsibility on Water Act, which increases safe, reliable water supplied to communities up and down the Valley.
+Then, in 2018, I was there when the president signed the “Presidential Memorandum on Promoting the Reliable Supply and Delivery of Water in the West.” Every single one of these bills and memorandums worked together to accomplish one goal: deliver more water to the families and farmers in our Central Valley.
 Most notably, the WIIN Act provided $335 million in funding for water storage and improvement projects.
 This bill allowed Congress to fund these projects through congressional appropriations in later years.
 While water infrastructure and storage are vitally important in the Valley, we first need water available to move and store in order to make the most of these investments.
@@ -28,3 +30,12 @@ If we had these new biological opinions in place, in wet years, like last winter
 Bureau of Reclamation could have sent an extra 1 million acre-feet of water to the southern half of the state.
 While the Central Valley relies on representation that understands our water needs, TJ Cox has failed to make this a priority in Congress.
 I am proud that my actions in Congress are having a lasting impact on water deliveries for the Central Valley, but there is more to be done and TJ Cox isn’t doing it.
+Republican David Valadao of Hanford represented the 21st District before Democrat TJ Cox defeated him in 2018 in the closest House race in the nation.
+The two are squaring off on the November ballot. https://www.fresnobee.com/opinion/readers-opinion/article245239345.html Post navigation DAVID VALADAO STATEMENT ON SUPREME COURT DACA RULING NEW Valadao for Congress ad highlights Corrupt TJ Cox’s history of self-interest, unpaid taxes YOUR ISSUES Let David Valadao know what matters most to you.
+Name First Email Phone Address ZIP / Postal Code Message Email Updates I'd like email updates from the campaign.
+Submit Δ JOIN THE FIGHT!
+DONATE Please contribute to our campaign for California’s future and help us bring a new day to the valley. $5 $10 $25 $50 Home Voter Information About David Get Involved Issues News Media Donate Español Follow us.
+Privacy Policy | © Copyright #.
+All rights reserved.
+Paid for by Valadao for Congress | P.O.
+Box 839, Hanford, CA 93232

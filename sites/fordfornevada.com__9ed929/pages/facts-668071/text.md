@@ -1,6 +1,6 @@
-Skip navigation menu
-FACT & MYTH
-Did Aaron Ford spend taxpayer money on travel?
+Skip navigation menu About News Issues Endorsements Join Us!
+Job Openings Store Media FACT & MYTH Donate FACT & MYTH About News Issues Endorsements Join Us!
+Job Openings Store Media FACT & MYTH Donate FACT & MYTH FACT & MYTH Did Aaron Ford spend taxpayer money on travel?
 No.
 Taxpayers never paid for travel.
 Did Aaron Ford take 420 days off of work?
@@ -31,10 +31,10 @@ Aaron Ford has repeatedly said he opposes tax increases.
 Does Aaron Ford support defunding the police?
 Aaron Ford has never supported defunding the police.
 Is Aaron Ford making Nevada a 'sanctuary state'?
-Aaron Ford does not support making Nevada a “sanctuary state.”
-Did Aaron Ford's criminal justice record make Nevada less safe?
+Aaron Ford does not support making Nevada a “sanctuary state.” Did Aaron Ford's criminal justice record make Nevada less safe?
 Under Aaron Ford’s leadership violent crime is at a 40 year low.
 Is Aaron Ford a socialist / pushing California-style politics?
 Aaron Ford has said he does not believe socialists are the face of the Democratic party.
 Will Aaron Ford repeal right-to-work and hurt Nevada's business climate?
 Repealing “right to work” has led to an increase in wages in states where it has been repealed.
+Powered by RUN! website builder Paid for by the Committee to Elect Aaron Ford You need to enable JavaScript to run this app.

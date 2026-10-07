@@ -1,37 +1,174 @@
 [
-"http://facebook.com/ElectDavidBerg",
-"http://twitter.com/ElectDavidBerg",
-"https://electdavidberg.com/",
-"https://electdavidberg.com/2021/04",
-"https://electdavidberg.com/2021/05",
-"https://electdavidberg.com/2021/06",
-"https://electdavidberg.com/2021/10",
-"https://electdavidberg.com/2026/07",
-"https://electdavidberg.com/2026/07/19/david-berg-is-the-right-choice-for-the-25th-ld",
-"https://electdavidberg.com/2026/07/19/the-hidden-costs-of-ai",
-"https://electdavidberg.com/about-david",
-"https://electdavidberg.com/author/ibdb",
-"https://electdavidberg.com/category/latest-articles",
-"https://electdavidberg.com/category/uncategorized",
-"https://electdavidberg.com/endorsements",
-"https://electdavidberg.com/find-your-drop-box",
-"https://electdavidberg.com/tag/25th-legislative-district",
-"https://electdavidberg.com/tag/ai",
-"https://electdavidberg.com/tag/consensus",
-"https://electdavidberg.com/tag/david-berg",
-"https://electdavidberg.com/tag/election",
-"https://electdavidberg.com/tag/equity",
-"https://electdavidberg.com/tag/ethics",
-"https://electdavidberg.com/tag/experience",
-"https://electdavidberg.com/tag/heat-island",
-"https://electdavidberg.com/tag/puyallup-school-board",
-"https://electdavidberg.com/tag/puyallup-school-district",
-"https://electdavidberg.com/tag/school-director",
-"https://electdavidberg.com/tag/skeptic",
-"https://electdavidberg.com/tag/vote",
-"https://electdavidberg.com/tag/washington-state-legislature",
-"https://electdavidberg.com/the-issues",
-"https://facebook.com/ElectDavidBerg",
-"https://secure.actblue.com/donate/electdavidberg",
-"https://wordpress.com/"
+{
+"text": "25th Legislative District",
+"href": "https://electdavidberg.com/tag/25th-legislative-district/"
+},
+{
+"text": "AI",
+"href": "https://electdavidberg.com/tag/ai/"
+},
+{
+"text": "About David",
+"href": "https://electdavidberg.com/about-david/"
+},
+{
+"text": "April 2021",
+"href": "https://electdavidberg.com/2021/04/"
+},
+{
+"text": "Consensus",
+"href": "https://electdavidberg.com/tag/consensus/"
+},
+{
+"text": "David Berg",
+"href": "https://electdavidberg.com/author/ibdb/"
+},
+{
+"text": "David Berg",
+"href": "https://electdavidberg.com/tag/david-berg/"
+},
+{
+"text": "David Berg is the Right Choice for the 25th LD",
+"href": "https://electdavidberg.com/2026/07/19/david-berg-is-the-right-choice-for-the-25th-ld/"
+},
+{
+"text": "Elect David Berg",
+"href": "https://electdavidberg.com/"
+},
+{
+"text": "Election",
+"href": "https://electdavidberg.com/tag/election/"
+},
+{
+"text": "Email",
+"href": "mailto:David@ElectDavidBerg.com"
+},
+{
+"text": "Endorsements",
+"href": "https://electdavidberg.com/endorsements/"
+},
+{
+"text": "Equity",
+"href": "https://electdavidberg.com/tag/equity/"
+},
+{
+"text": "Ethics",
+"href": "https://electdavidberg.com/tag/ethics/"
+},
+{
+"text": "Experience",
+"href": "https://electdavidberg.com/tag/experience/"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/ElectDavidBerg"
+},
+{
+"text": "Find Your Drop Box",
+"href": "https://electdavidberg.com/find-your-drop-box/"
+},
+{
+"text": "Heat Island",
+"href": "https://electdavidberg.com/tag/heat-island/"
+},
+{
+"text": "Home",
+"href": "https://electdavidberg.com/"
+},
+{
+"text": "July 19, 2026",
+"href": "https://electdavidberg.com/2026/07/19/david-berg-is-the-right-choice-for-the-25th-ld/"
+},
+{
+"text": "July 19, 2026",
+"href": "https://electdavidberg.com/2026/07/19/the-hidden-costs-of-ai/"
+},
+{
+"text": "July 2026",
+"href": "https://electdavidberg.com/2026/07/"
+},
+{
+"text": "June 2021",
+"href": "https://electdavidberg.com/2021/06/"
+},
+{
+"text": "Latest Articles",
+"href": "https://electdavidberg.com/category/latest-articles/"
+},
+{
+"text": "Leave a Comment",
+"href": "https://electdavidberg.com/2026/07/19/david-berg-is-the-right-choice-for-the-25th-ld/#respond"
+},
+{
+"text": "Leave a Comment",
+"href": "https://electdavidberg.com/2026/07/19/the-hidden-costs-of-ai/#respond"
+},
+{
+"text": "Like me on Facebook",
+"href": "https://www.facebook.com/ElectDavidBerg"
+},
+{
+"text": "Make A Donation",
+"href": "https://secure.actblue.com/donate/electdavidberg"
+},
+{
+"text": "May 2021",
+"href": "https://electdavidberg.com/2021/05/"
+},
+{
+"text": "October 2021",
+"href": "https://electdavidberg.com/2021/10/"
+},
+{
+"text": "Puyallup School Board",
+"href": "https://electdavidberg.com/tag/puyallup-school-board/"
+},
+{
+"text": "Puyallup School District",
+"href": "https://electdavidberg.com/tag/puyallup-school-district/"
+},
+{
+"text": "Read More",
+"href": "https://electdavidberg.com/2026/07/19/david-berg-is-the-right-choice-for-the-25th-ld/"
+},
+{
+"text": "Read More",
+"href": "https://electdavidberg.com/2026/07/19/the-hidden-costs-of-ai/"
+},
+{
+"text": "School Director",
+"href": "https://electdavidberg.com/tag/school-director/"
+},
+{
+"text": "Skeptic",
+"href": "https://electdavidberg.com/tag/skeptic/"
+},
+{
+"text": "The Hidden Costs of AI",
+"href": "https://electdavidberg.com/2026/07/19/the-hidden-costs-of-ai/"
+},
+{
+"text": "The Issues",
+"href": "https://electdavidberg.com/the-issues/"
+},
+{
+"text": "Twitter",
+"href": "http://www.twitter.com/ElectDavidBerg"
+},
+{
+"text": "Uncategorized",
+"href": "https://electdavidberg.com/category/uncategorized/"
+},
+{
+"text": "Vote",
+"href": "https://electdavidberg.com/tag/vote/"
+},
+{
+"text": "Washington State Legislature",
+"href": "https://electdavidberg.com/tag/washington-state-legislature/"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+}
 ]

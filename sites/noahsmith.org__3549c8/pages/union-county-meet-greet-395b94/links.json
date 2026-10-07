@@ -1,15 +1,70 @@
 [
-"https://facebook.com/noaahrsmith",
-"https://instagram.com/noaahrsmith",
-"https://noahsmith.org/",
-"https://noahsmith.org/about",
-"https://noahsmith.org/contact",
-"https://noahsmith.org/donate",
-"https://noahsmith.org/get-involved",
-"https://noahsmith.org/news",
-"https://noahsmith.org/privacy-policy",
-"https://noahsmith.org/union-county-meet-greet",
-"https://noahsmith.org/what-i-believe",
-"https://noahsmith.org/yard-sign",
-"https://twitter.com/noahroysmith"
+{
+"text": "About",
+"href": "https://www.noahsmith.org/about"
+},
+{
+"text": "About Me",
+"href": "https://www.noahsmith.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.noahsmith.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.noahsmith.org"
+},
+{
+"text": "Donate",
+"href": "https://www.noahsmith.org/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.noahsmith.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.noahsmith.org"
+},
+{
+"text": "Home",
+"href": "https://www.noahsmith.org/union-county-meet-greet"
+},
+{
+"text": "News",
+"href": "https://www.noahsmith.org/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.noahsmith.org/privacy-policy"
+},
+{
+"text": "Union County Meet & Greet",
+"href": "https://www.noahsmith.org/union-county-meet-greet"
+},
+{
+"text": "What I Believe",
+"href": "https://www.noahsmith.org/what-i-believe"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.noahsmith.org/yard-sign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/noaahrsmith"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/noaahrsmith"
+},
+{
+"text": "[image: Smith_LogoDesign_StateRepresentative_FINAL_RGB_Transparent.png]",
+"href": "https://www.noahsmith.org"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/noahroysmith"
+}
 ]

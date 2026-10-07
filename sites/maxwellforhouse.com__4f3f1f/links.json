@@ -1,5 +1,26 @@
 [
-"https://maxwellforhouse.com/my-story",
-"https://maxwellforhouse.com/our-fight",
-"https://secure.anedot.com/maxwell-for-montana/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/maxwell-for-montana/donate"
+},
+{
+"text": "Hear my story",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "My Story",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "My Story →",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/"
+},
+{
+"text": "Your Story →",
+"href": "mailto:campaign@maxwellformontana.com?subject=My+Montana+Story"
+}
 ]

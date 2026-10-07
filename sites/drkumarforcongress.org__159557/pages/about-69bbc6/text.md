@@ -1,6 +1,5 @@
-Meet Dr.
-Kumar
-For more than three decades, Dr.
+0 Skip to Content HOME ABOUT MI-11 ACTION CENTER JOIN Donate Now Open Menu Close Menu HOME ABOUT MI-11 ACTION CENTER JOIN Donate Now Open Menu Close Menu HOME ABOUT MI-11 ACTION CENTER JOIN Donate Now Meet Dr.
+Kumar For more than three decades, Dr.
 Anil Kumar has served the people of Metro Detroit as a respected urologist, educator, and community leader.
 From his early days as an immigrant pursuing the American dream to his role as a physician and hospital leader, Dr.
 Kumar’s life story is rooted in service, opportunity, and hard work.
@@ -29,3 +28,6 @@ Today, Dr.
 Kumar lives in Bloomfield Hills and continues to serve patients across Rochester Hills, Pontiac, and Troy.
 As a doctor, educator, and community leader, he has spent his life healing and improving lives, mentoring future generations, and standing up for those without a voice.
 Now, he’s ready to take that same commitment to Congress - fighting for healthcare reform that puts patients before profit, for educational opportunity that lifts every family, and for a future built on fairness, dignity, and progress for everyone in Michigan’s 11th District.
+General Inquiries: info@drkumarforcongress.org DR.
+KUMAR FOR CONGRESS 2075 SQUIRREL RD BLOOMFIELD HILLS, MI 48304 Privacy Policy Terms and Conditions PAID FOR BY DR.
+ANIL KUMAR FOR CONGRESS

@@ -1,21 +1,114 @@
 [
-"https://gentryformnhouse.org/",
-"https://gentryformnhouse.org/calendar",
-"https://gentryformnhouse.org/cart",
-"https://gentryformnhouse.org/contact",
-"https://gentryformnhouse.org/district",
-"https://gentryformnhouse.org/endorsed-by",
-"https://gentryformnhouse.org/get-involved",
-"https://gentryformnhouse.org/issues",
-"https://gentryformnhouse.org/issues-1",
-"https://gentryformnhouse.org/voting-resources",
-"https://mnvotes.gov/",
-"https://mnvotes.gov/absentee",
-"https://mnvotes.gov/pollfinder",
-"https://mnvotes.gov/trackmyballot",
-"https://mnvotes.sos.mn.gov/VoterRegistration/index",
-"https://mnvotes.sos.mn.gov/voterstatuscheck/index",
-"https://pollfinder.sos.mn.gov/",
-"https://secure.actblue.com/donate/keenan-gentry-30b",
-"https://sos.mn.gov/elections-voting"
+{
+"text": "0",
+"href": "https://www.gentryformnhouse.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "Calendar",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Check your voter registration status.",
+"href": "https://mnvotes.sos.mn.gov/voterstatuscheck/index"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gentryformnhouse.org/#contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/keenan-gentry-30b"
+},
+{
+"text": "Elections and Voting website",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "Endorsed By",
+"href": "https://www.gentryformnhouse.org/endorsed-by"
+},
+{
+"text": "Folder: Contact",
+"href": "https://www.gentryformnhouse.org/contact"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gentryformnhouse.org/issues-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gentryformnhouse.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.gentryformnhouse.org/issues"
+},
+{
+"text": "Look At Your District",
+"href": "https://www.gentryformnhouse.org/district"
+},
+{
+"text": "Minnesota Voting Resources",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "The poll finder on the Minnesota Secretary of State’s website",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.gentryformnhouse.org/voting-resources"
+},
+{
+"text": "[image: Blue cube hanging from the ceiling with a lower case \"i\"]",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "[image: Hands on a keyboard]",
+"href": "https://mnvotes.sos.mn.gov/VoterRegistration/index"
+},
+{
+"text": "[image: I voted sticker on a flannel shirt]",
+"href": "https://mnvotes.sos.mn.gov/voterstatuscheck/index"
+},
+{
+"text": "[image: Keenan Gentry for State House Rep district 30B]",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "[image]",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "mnvotes.gov",
+"href": "https://mnvotes.gov"
+},
+{
+"text": "mnvotes.gov/absentee",
+"href": "https://mnvotes.gov/absentee"
+},
+{
+"text": "mnvotes.gov/pollfinder",
+"href": "https://mnvotes.gov/pollfinder"
+},
+{
+"text": "mnvotes.gov/trackmyballot",
+"href": "https://mnvotes.gov/trackmyballot"
+},
+{
+"text": "register to vote or update your registration online",
+"href": "https://mnvotes.sos.mn.gov/VoterRegistration/index"
+},
+{
+"text": "votekeenangentry@gmail.com",
+"href": "mailto:votekeenangentry@gmail.com"
+}
 ]

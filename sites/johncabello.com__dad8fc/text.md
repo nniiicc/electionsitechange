@@ -1,11 +1,11 @@
-JOHN CABELLO
-Working Hard To Represent You in Springfield!
+Facebook Twitter Contact Donate About Media Videos Recent Posts Endorsements Events Get Involved Voter Info Voter Registration Select Page JOHN CABELLO FOR STATE REPRESENTATIVE – 89th District Working Hard To Represent You in Springfield!
+State Representative John Cabello (R-Machesney Park) was appointed to fill a vacancy in the 68th District and sworn into office in August of 2012.
+He was then elected to that seat in November of 2012.
 John is currently running for the 90th District.
 State Representative John M.
-Cabello announces run for re-election in 2024
-Machesney Park: State Representative John M.
+Cabello announces run for re-election in 2024 Machesney Park: State Representative John M.
 Cabello is announcing his intention to run for re-election for the Illinois House District 90.
-Cabello ran in 2022 for election in the newly redrawn 90th District defeating his Primary election opponent overwhelmingly and then facing no opposition in the November 2022 General Election.
+Cabello ran in 2022 for election in the newly redrawn 90 th District defeating his Primary election opponent overwhelmingly and then facing no opposition in the November 2022 General Election.
 “I am running for re-election because we have much work to do to bring our state back and roll back all of the crazy legislation that has dominated Springfield.
 This bad legislation affects our public safety, our pocketbooks, our well-being, and most importantly our children and their future,” said Representative John M.
 Cabello.
@@ -19,6 +19,8 @@ Add to that the gross mismanagement of our state and our state budget and we are
 Petition circulating began today and my campaign is asking for signatures from residents of the district so that my name will appear on the ballot in 2024.
 I will pledge to my constituents that if they re-elect me, I will continue the fight for them and I will work hard to make Illinois a place where our children and grandchildren will want to stay,” concluded Cabello.
 John M.
-Cabello represents the 90th House District in the Illinois Legislature and has served as a police officer for nearly three decades.
+Cabello represents the 90 th House District in the Illinois Legislature and has served as a police officer for nearly three decades.
 Cabello has served nearly a decade in the legislature and currently is the Assistant Minority Leader in the Illinois House.
-# # #
+# # # 2026 Petition Packet View Latest Endorsements for John Cabello About Media Endorsements Events Get Involved Voter Info Paid for by Citizens for John M.
+Cabello.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

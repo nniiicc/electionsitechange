@@ -1,10 +1,3 @@
-Endorsements
-Earning support from organizations, leaders, and residents means so much.
-I am grateful and honored for the support/endorsement of:
-Municipal Elected and Local Leaders Endorse Sam
-Also Endorsed By:
-- Daniel Gershberg, BOF, Weston
-- Sally Korsh, Chair P&Z, Weston
-- Tony Pesco, Former BOE Chair, Current Second Selectman, Weston
-- Jeff Hammer, BoF Westport
-- Elaine Whitney, Former BoE Chair, BoF member, Westport
+0 Skip to Content Home Events Phone Banking Vision Endorsements More About Sam How to Vote CONTACT SAM Open Menu Close Menu Home Events Phone Banking Vision Endorsements More About Sam How to Vote CONTACT SAM Open Menu Close Menu Home Events Phone Banking Vision Endorsements More About Sam How to Vote CONTACT SAM Endorsements Earning support from organizations, leaders, and residents means so much.
+I am grateful and honored for the support/endorsement of: State Senator Ceci Maher Municipal Elected and Local Leaders Endorse Sam View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Also Endorsed By: Daniel Gershberg, BOF, Weston Sally Korsh, Chair P&Z, Weston Tony Pesco, Former BOE Chair, Current Second Selectman, Weston Jeff Hammer, BoF Westport Elaine Whitney, Former BoE Chair, BoF member, Westport SAM@SAMFORCT.COM Paid for by Sam in 26, Christopher Bryant, Treasurer.
+Approved by samantha Nestor.

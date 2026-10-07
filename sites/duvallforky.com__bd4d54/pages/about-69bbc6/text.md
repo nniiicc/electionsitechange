@@ -1,12 +1,10 @@
-Dr.
-Robert Duvall
-Dr.
-Robert
-Duvall
-Dr.
+DONATE Home About Issues Volunteer News Meet Dr.
+Robert Duvall Meet Dr.
+Robert Duvall I promise to bring a principled, conservative and pro-life vision to Frankfort that will protect the values that make Warren County so strong.
+See the Issues I'm Fighting For About Robert Dr.
 Robert Duvall is a strong conservative, with pro-life, pro-Second Amendment and pro-growth beliefs.
 Robert has practiced optometry in Bowling Green for 26 years.
-His team has been called the Best Eye Doctors by the Bowling Green Daily News in 2020 and again in 2021.
+His team has been called the Best Eye Doctors by the Bowling Green Daily News in 2020 and again in 2021 .
 From early on, Robert knew that education and hard work were the way to a better life.
 He lived in a mobile home for his first 15 years, watching his father—a World War II veteran—drive a truck and run a small business.
 His mother worked hard at home to provide for their family.
@@ -20,3 +18,8 @@ Through his leadership in the church, Robert supported the establishment of the 
 Robert has been a leading conservative voice in the community for more than 20 years.
 He’s worked hard to elect strong Republicans to local, state and federal office.
 He’s ready to put his talents to work in Frankfort for Warren County and the families who call them home.
+Support Robert’s Campaign Today!
+Donate Support Robert’s Campaign Today!
+Donate Contact | Donate PAID FOR BY ROBERT DUVALL FOR STATE REPRESENTATIVE © #.
+All Rights Reserved.
+Privacy Policy

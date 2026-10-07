@@ -1,7 +1,11 @@
 {
  "description": "Volunteer for Melissa Provenzano&#39;s campaign",
  "final_url": "https://www.proven4oklahoma.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "e76bc5f93bca1293e02047133fb518cfd08b03f2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

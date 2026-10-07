@@ -1,7 +1,9 @@
 {
  "description": "Join us for an evening of Politics & Pasta supporting John Loughlin for RI Lieutenant Governor!",
  "final_url": "https://www.loughlin4ri.com/event-details/politics-pasta",
- "paid_for_by": null,
+ "fingerprint": "3c8c01e70f7f9c9bd0e304320134d1f0e81c4310",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Politics & Pasta | John Loughlin for RI",
  "years_mentioned": [
   "2026"

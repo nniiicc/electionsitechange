@@ -1,9 +1,34 @@
 [
-"http://eepurl.com/hn3g2H",
-"https://facebook.com/hstoneiahouse",
-"https://secure.anedot.com/stone-for-house/donate",
-"https://stoneforiowa.com/",
-"https://stoneforiowa.com/meet-henry",
-"https://stoneforiowa.com/newsletter",
-"https://stoneforiowa.com/platform"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/stone-for-house/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.stoneforiowa.com"
+},
+{
+"text": "MEET HENRY",
+"href": "https://www.stoneforiowa.com/meet-henry"
+},
+{
+"text": "NEWSLETTER",
+"href": "https://www.stoneforiowa.com/newsletter"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.stoneforiowa.com/platform"
+},
+{
+"text": "[image: Image by Pawan Kawan]",
+"href": "https://secure.anedot.com/stone-for-house/donate"
+},
+{
+"text": "[image: Image by Ryan Banks]",
+"href": "http://eepurl.com/hn3g2H"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/hstoneiahouse"
+}
 ]

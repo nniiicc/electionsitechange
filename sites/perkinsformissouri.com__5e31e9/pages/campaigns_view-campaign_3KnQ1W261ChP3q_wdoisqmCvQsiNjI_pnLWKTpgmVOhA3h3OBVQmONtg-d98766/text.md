@@ -1,5 +1,4 @@
-| Subscriber First Name, This past week I shared a post on Facebook about why I'm a member of the Democratic Party. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ |
-| | | | | | Subscriber First Name, This past week I shared a post on Facebook about why I'm a member of the Democratic Party.
+Subscriber First Name, This past week I shared a post on Facebook about why I'm a member of the Democratic Party. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ WEBSITE | DONATE | FACEBOOK | INSTAGRAM Subscriber First Name, This past week I shared a post on Facebook about why I'm a member of the Democratic Party.
 In case you missed it, I'm joined the party because the party asked me to run for office.
 By "the party", I mean two people.
 The first was Mike Gallagher, now leading the Missouri Democrats in St.
@@ -23,12 +22,14 @@ Those elected officials have broken faith with constituents time and again, and 
 That is why we canvass and phone bank, and host meetings in our homes.
 That is why we find the courage to speak to our friends and neighbors about what we can do in our own zip codes to fight back against what feels sometimes like an avalanche of lies, abuse of power, and impunity.
 Working together, we can hold all of them accountable, but we must organize and bring many, many more people into this campaign and this movement.
-Even if you have never canvassed before, you are welcome to learn the ropes with my team. | | | EVENTS Please share these dates within your network.
+Even if you have never canvassed before, you are welcome to learn the ropes with my team.
+EVENTS Please share these dates within your network.
 We'd love to see you there - and please RSVP so that we can plan.
-May 30 - Canvassing from 10am to 1pm from The Wolf Cafe June 6 - Canvassing from 10am to 1pm from The Wolf Cafe June 7 - Canvassing from 2pm to 5pm from The Wolf Cafe June 13 - Canvassing from 10am to 1pm from The Wolf Cafe June 14 - Canvassing from 2pm to 5pm from The Wolf Cafe | June 2 - House Party in Ballwin hosted by my friends, Bob and Cathy Pickard! | | | There are other ways to help that make a big difference.
+May 30 - Canvassing from 10am to 1pm from The Wolf Cafe June 6 - Canvassing from 10am to 1pm from The Wolf Cafe June 7 - Canvassing from 2pm to 5pm from The Wolf Cafe June 13 - Canvassing from 10am to 1pm from The Wolf Cafe June 14 - Canvassing from 2pm to 5pm from The Wolf Cafe SIGN UP TO CANVASS June 2 - House Party in Ballwin hosted by my friends, Bob and Cathy Pickard!
+RSVP HERE There are other ways to help that make a big difference.
 If you live in or near District 100, please consider hosting a campaign event for your friends and neighbors.
 I'm so thankful to my friends, Maggie, Barb and Debbie, for hosting a reception for me at Maggie's home this past week.
 Afterward, I received many, many messages of support.
 I'd like to share two examples: "I was already impressed with you, but you went above my expectations.
 Can't wait to see/hear your interviews/debates.
-You've got my vote." -- Jean, Ballwin resident "You have my vote and I mention you to my friends and people at the gym every chance I get." -- Ballwin resident To find out more about hosting a campaign event, please contact Angela, angelabingaman@gmail.com | | | LATEST ENDORSEMENTS | | | | | | | | | | | | Paid for by Mary Ann Perkins for Missouri - Colin Lovett, Treasurer PO Box 301, Ballwin, MO 63011, United States Powered by Squarespace Unsubscribe |
+You've got my vote." -- Jean, Ballwin resident "You have my vote and I mention you to my friends and people at the gym every chance I get." -- Ballwin resident To find out more about hosting a campaign event, please contact Angela, angelabingaman@gmail.com LATEST ENDORSEMENTS Paid for by Mary Ann Perkins for Missouri - Colin Lovett, Treasurer PO Box 301, Ballwin, MO 63011, United States Powered by Squarespace Unsubscribe

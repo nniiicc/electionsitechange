@@ -1,7 +1,11 @@
 {
  "description": "Aaron Metzger Campaign Events",
  "final_url": "https://metzgerformissouri.com/Events?range=2026-9",
- "paid_for_by": null,
+ "fingerprint": "bd1c00d49802ec6c9ed4625fdbcec893b4e665b1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Aaron Metzger Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

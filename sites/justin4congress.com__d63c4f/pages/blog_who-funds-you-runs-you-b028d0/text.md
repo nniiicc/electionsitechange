@@ -1,18 +1,16 @@
-Who funds you, runs you!
-The Green party has been against corporate rule since before that was cool!
+0 Skip to Content Meet Justin Our Platform Meet Our Team Blog Join Us Volunteer Donate Endorse Justin Donate Open Menu Close Menu Meet Justin Our Platform Meet Our Team Blog Join Us Volunteer Donate Endorse Justin Donate Open Menu Close Menu Meet Justin Our Platform Meet Our Team Blog Folder: Join Us Back Volunteer Donate Endorse Justin Donate Who funds you, runs you!
+Mar 4 Written By Justin Filip for Congress The Green party has been against corporate rule since before that was cool!
 It was one of the positions that first drew me to the Green Party back in 2000, when I supported Ralph Nader’s campaign.
 At their core, the two major parties are capitalist, imperialist parties owned and operated by billionaires and corporations.
 It is the donor class whose interests they serve.
-It's been more than 10 years since a study by Princeton University Professor Martin Gilens and Northwestern University Professor Benjamin Page concluded that the U.S. is already an oligarchy.
+It's been more than 10 years since a study by Princeton University Professor Martin Gilens and Northwestern University Professor Benjamin Page concluded that the U.S. is already an oligarchy .
 The billionaire agenda has created immense wealth inequality in this country.
-Over the last 50 years, the top 1% of Americans have taken $50 trillion (with a “T”) from the bottom 90%.
+Over the last 50 years, the top 1% of Americans have taken $50 trillion (with a “T”) from the bottom 90% .
 If you're not part of the 1%, you're getting exploited.
 Less than a year before his death Dr.
-Martin Luther King said: “Why are there forty million poor people in America? … When you ask that question, you begin to question the capitalistic economy...we’ve got to begin to ask questions about the whole society.”
-Today there are still roughly 40M people living in poverty and nearly 800k people are homeless in America.
+Martin Luther King said: “Why are there forty million poor people in America? … When you ask that question, you begin to question the capitalistic economy...we’ve got to begin to ask questions about the whole society.” Today there are still roughly 40M people living in poverty and nearly 800k people are homeless in America.
 It is estimated that between 2023 and 2024, the number of unhoused people has increased by 18%.
-Contrast that with:
-In 2012 Elon Musk was worth $4B.
+Contrast that with: In 2012 Elon Musk was worth $4B.
 Today he's worth more than $850B.
 In 2012 Jeff Bezos was worth $18B.
 Today he's worth more than $239B.
@@ -32,8 +30,7 @@ I was also Track AIPAC's recommended candidate in 2024, because the incumbent, R
 Val Hoyle, accepted money from the pro-Israel lobby while approving billions in weapons to Israel.
 Rep.
 Hoyle is a co-sponsor of a bill to end Citizens United, and yet she accepts corporate PAC money.
-She also co-sponsored a bill that would prohibit members of Congress from owning stocks in weapons manufacturers, but she owned stock in weapons manufacturers.
-Despite co-sponsoring those bills, we simply can not trust her to do the right thing.
+She also co-sponsored a bill that would prohibit members of Congress from owning stocks in weapons manufacturers, but she owned stock in weapons manufacturers. https://www.opensecrets.org/news/2025/09/rep-val-hoyle-violated-stock-act-by-missing-deadlines-to-disclose-217-stock-transactions/ Despite co-sponsoring those bills, we simply can not trust her to do the right thing.
 We have now a political system that rewards politicians who sell us out, and punishes principled candidates who refuse to be bribed.
 Because, let's be real, in effect, this is legalized bribery.
 These big donors aren't giving out of the good of their hearts.
@@ -52,3 +49,4 @@ Climate catastrophe, genocide, and poverty are all products of this system.
 We don't have time to wait.
 The best time to cut ties was probably decades ago, but the second best time is now.
 Join our working-class campaign, and help us bring democracy to the United States.
+Justin Filip for Congress Previous Previous Endorsement from Kshama Sawant Next Next The Green Party of the United States Fighting for a Free Palestine JUSTIN FILIP FOR CONGRESS justin4congress@gmail.com

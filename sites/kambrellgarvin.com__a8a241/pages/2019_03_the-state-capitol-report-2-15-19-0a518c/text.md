@@ -1,4 +1,4 @@
-The House of Representatives gave second reading approval to H.3274, a bill providing for the PREEMPTION OF LOCAL GOVERNMENT REGULATION OF VAPING, E-CIGARETTES, CIGARETTES, AND OTHER TOBACCO AND NICOTINE PRODUCTS.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 2/15/19 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 2/15/19 Uncategorized The House of Representatives gave second reading approval to H.3274, a bill providing for the PREEMPTION OF LOCAL GOVERNMENT REGULATION OF VAPING, E-CIGARETTES, CIGARETTES, AND OTHER TOBACCO AND NICOTINE PRODUCTS.
 The legislation provides that political subdivisions of this state may not enact any laws, ordinances, or rules pertaining to ingredients, flavors, or licensing of cigarettes, electronic cigarettes, tobacco products, or alternative nicotine products.
 Local government laws, ordinances, or rules enacted prior to January 1, 2019, are exempt from the preemption imposed by this legislation.
 The House concurred in Senate amendments to H.3630, a joint resolution that provides a three-month EXTENSION IN REAL PROPERTY TAX PENALTIES FOR WORKERS LEFT UNPAID DURING THE FEDERAL GOVERNMENT SHUTDOWN, and enrolled the legislation for ratification.
@@ -19,8 +19,7 @@ Bill benefits and similar provisions may continue to be used at South Carolina�
 The House amended, approved, and sent the Senate H.3845.
 This joint resolution authorizes the transfer of certain Education Improvement Act carry-forward funds to the South Carolina Public Charter School District to provide FUNDS FOR THREE‑ AND FOUR‑YEAR‑OLD CHILDREN WITH A DISABILITY who are eligible for services under the Individuals with Disabilities Education Act.
 The House approved and sent the Senate H.3131, a bill allowing an anonymous MEDICAL HISTORY OF AN ADOPTED CHILD’S BIOLOGICAL PARENTS to be submitted, maintained, and disclosed.
-The legislation establishes a procedure that allows someone
-who is placing a child up for adoption to provide a medical history of the adoptee’s biological parents in a form that does not disclose personally identifiable information.
+The legislation establishes a procedure that allows someone who is placing a child up for adoption to provide a medical history of the adoptee’s biological parents in a form that does not disclose personally identifiable information.
 Should the biological parents choose to provide this material, the medical history is included in the information that the Department of Social Services discloses to prospective adoptive parents.
 The medical history must also be deposited with the family court that enters a final decree of adoption and may be disclosed to the adoptee upon reaching the age of majority or before such time, should the court determine that it is in the best interest of the child.
 The House gave second reading approval to H.3417, a bill TRANSFERRING THE ILLEGAL IMMIGRATION ENFORCEMENT UNIT from the Department of Public Safety to the State Law Enforcement Division.
@@ -44,9 +43,10 @@ The combination of vehicles subject to this provision may not exceed a length of
 However, the final trailing vehicle with its load must weigh no more than 3,000 pounds.
 The House approved and sent the Senate H.3127, a joint resolution establishing a temporary MOLD ABATEMENT AND REMEDIATION STUDY COMMITTEE to examine the health effects of mold in South Carolina’s public buildings, with a focus on children in public schools, and to ascertain the best methods for mold abatement and the prevention of future growth.
 The study committee, comprised of three Senators appointed by the President of the Senate and three House Members appointed by the Speaker of the House, is charged with making a report to the General Assembly by December 31, 2019, at which time the study committee shall dissolve.
-The House approved and sent the Senate H.3700, a bill revising beachfront management restrictions placed on erosion control structures or devices seaward of the setback line to allow for the placement of shoreline perpendicular WINGWALLS that extend landward at a 90 degree angle from the ends of existing erosion control structures or devices that are consistent in height with the existing erosion
-control structures to which they are attached, subject to any special conditions imposed by the Department of Health and Environmental Control.
+The House approved and sent the Senate H.3700, a bill revising beachfront management restrictions placed on erosion control structures or devices seaward of the setback line to allow for the placement of shoreline perpendicular WINGWALLS that extend landward at a 90 degree angle from the ends of existing erosion control structures or devices that are consistent in height with the existing erosion control structures to which they are attached, subject to any special conditions imposed by the Department of Health and Environmental Control.
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 2/1/2019 The State Capitol Report – 3/1/2019 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

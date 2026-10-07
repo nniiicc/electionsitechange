@@ -1,10 +1,8 @@
-What Can We Do to Stop the "Credit Card" Spending Nature of the Vermont Legislature?
-Updated: Sep 18
-Considering this question led me to take a deeper look at what laws could be enacted to stop Vermont from spending like a teenager just learning how to use a credit card.
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate All Posts Campaign Updates Search What Can We Do to Stop the "Credit Card" Spending Nature of the Vermont Legislature?
+Stephanie Mack Sep 4 5 min read Updated: Sep 18 Considering this question led me to take a deeper look at what laws could be enacted to stop Vermont from spending like a teenager just learning how to use a credit card.
 Here are five ways we could establish spending caps and limits while keeping more of Vermonters’ hard-earned money in their own wallets.
 Here’s what each one would do.
-First, legislators elected in November need to write a real rule: “Don’t spend more than you take in.”
-Right now Vermont balances the budget because people choose to, not because the law forces it.
+First, legislators elected in November need to write a real rule: “Don’t spend more than you take in.” Right now Vermont balances the budget because people choose to, not because the law forces it.
 A statute would say: you may only spend the Emergency Board’s official number, and you cannot leave an unpaid bill for next year.
 What is the Emergency Board, and how does it work?
 Five people sit on it: the Governor plus the chairs of House Appropriations, House Ways & Means, Senate Appropriations, and Senate Finance.
@@ -19,11 +17,10 @@ Not by law.
 In practice, he tries to.
 Vermont still has no statute or constitutional rule that forces a balanced budget.
 The Governor must base his recommended budget on the Emergency Board’s official revenue number, but neither he nor the Legislature is legally required to keep spending at or below that number.
-What Scott actually does:
-- He regularly submits a budget he describes as balanced—built on the consensus forecast and, in recent years, without new statewide taxes or fees.
-- He has vetoed budgets and budget-adjustment bills when he judged them too large, too dependent on one-time money for ongoing programs, or likely to drive property-tax increases.
+What Scott actually does: He regularly submits a budget he describes as balanced—built on the consensus forecast and, in recent years, without new statewide taxes or fees.
+He has vetoed budgets and budget-adjustment bills when he judged them too large, too dependent on one-time money for ongoing programs, or likely to drive property-tax increases.
 The Legislature can override those vetoes.
-- He has also signed spending bills that went above his proposal after negotiations, while warning that one-time dollars and new base costs would squeeze later years.
+He has also signed spending bills that went above his proposal after negotiations, while warning that one-time dollars and new base costs would squeeze later years.
 So he advocates and pressures for a balanced operating budget.
 He does not have a legal tool that lets him force one if the General Assembly writes a different bill and has the votes.
 Second, Legislators need to cap how fast spending can grow.
@@ -54,16 +51,15 @@ Fourth, we need to make the rainy-day fund bigger and harder to raid.
 Vermont maintains several fiscal reserves, including the General Fund Budget Stabilization Reserve and a separate General Fund Balance Reserve, commonly called the Rainy Day Reserve.
 The Budget Stabilization Reserve is generally maintained at 5 percent of the previous year’s General Fund appropriations.
 Under current law, the Rainy Day Reserve can grow to 10 percent of the previous year’s appropriations without additional legislative authorization.
-Vermont General Assembly
-The question is not simply whether Vermont has reserves, but whether we are setting aside enough during stronger financial years and protecting those funds for genuine emergencies and significant revenue shortfalls.
+Vermont General Assembly The question is not simply whether Vermont has reserves, but whether we are setting aside enough during stronger financial years and protecting those funds for genuine emergencies and significant revenue shortfalls.
 I would like Vermont to build stronger reserves and establish clear safeguards governing when those funds can be used.
 A rainy-day fund should be there when Vermont truly faces a rainy day, not become another source of money for routine spending.
+And finally fifth, we need to pay for new stuff by cutting old stuff .
 New spending needs a cut elsewhere or a real new source of funds!
-An example of a new souce is The child care expansion (Act 76) created a large ongoing subsidy and paid for it with a new payroll tax, not by shrinking another program.
+An example of a new souce is The child care expansion (Act 76) created a large ongoing subsidy and paid for it with a new payroll tax , not by shrinking another program.
 That is a dedicated tax, but it is still adding to the base rather than swapping one dollar for another.
 A clearer miss is emergency housing: after federal COVID money stopped, the General Assembly kept a much larger hotel-motel program on General Fund dollars without a matching reduction elsewhere.
 The Governor has tried the opposite approach—telling agencies their FY27 General Fund request could rise no more than 3 percent and that they had to absorb higher health-insurance costs inside that cap, which forces program cuts.
 The Legislature clearly does not apply that offset rule to its own new items.
 So why elect all-new, fiscally-conservative representatives?
-To get the credit card spenders out of Montpelier!
--Stephanie Mack
+To get the credit card spenders out of Montpelier! -Stephanie Mack Recent Posts See All Why I’m Voting No on the Essex Local Option Tax AI, Innovation, and Vermont Small Business Reexamining Vermont’s Unique Education Funding Yield Model: A Call for Structural Reform Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

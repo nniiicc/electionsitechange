@@ -1,7 +1,11 @@
 {
  "description": "Nick Rowe Campaign Events",
  "final_url": "https://www.nickrowe.org/Events?range=2026-8",
+ "fingerprint": "ccb98021f9d70ec97bc84637742f45ed500a18c4",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Nick Rowe P",
  "title": "Nick Rowe Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

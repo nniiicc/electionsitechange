@@ -1,0 +1,7 @@
+0 Skip to Content Priorities Voter Information Voter Information (English) Voter Information (Spanish) Get Involved Donate Volunteer With Us Yard Sign Request Ask Allissa Anything DONATE TODAY Open Menu Close Menu Priorities Voter Information Voter Information (English) Voter Information (Spanish) Get Involved Donate Volunteer With Us Yard Sign Request Ask Allissa Anything DONATE TODAY Open Menu Close Menu Priorities Folder: Voter Information Back Voter Information (English) Voter Information (Spanish) Folder: Get Involved Back Donate Volunteer With Us Yard Sign Request Ask Allissa Anything DONATE TODAY El Día de las Elecciones llegará antes de lo que imaginas.
+Ahora es el momento de asegurarte de estar preparado/a.
+Verifica tu registro de votante, encuentra tu lugar de votación y haz un plan para decidir cuándo votarás.
+Ya sea que votes antes o el Día de las Elecciones, tener un plan puede hacer la diferencia.
+Tu voz importa. ¡Asegúrate de usarla!
+Haz que tu voz cuente! Último día para registrarte para votar 5 de Octubre Regístrate para votar aquí: https://indianavoters.in.gov Vota antes del Día de las Elecciones Del 6 al 31 de Octubre Encuentra tu lugar de votación aquí: https://vote.indy.gov/vote-centers/ Día de las Elecciones Generales 3 de Noviembre, 6:00 a.m. – 6:00 p.m.
+Encuentra tu lugar de votación aquí: https://vote.indy.gov/vote-centers/ Paid for by Committee to Elect Allissa Impink.

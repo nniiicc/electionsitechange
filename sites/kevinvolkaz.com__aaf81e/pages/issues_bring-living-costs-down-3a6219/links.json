@@ -1,12 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/kevinvolkaz",
-"https://instagram.com/kevinvolkaz",
-"https://kevinvolkaz.com/",
-"https://kevinvolkaz.com/MeetKevin",
-"https://kevinvolkaz.com/contact",
-"https://kevinvolkaz.com/issues",
-"https://mobilize.us/ld17democrats/event/789523",
-"https://secure.actblue.com/donate/kevin-volk-for-arizona",
-"https://x.com/kevinvolkaz"
+{
+"text": "Contact",
+"href": "https://www.kevinvolkaz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kevin-volk-for-arizona"
+},
+{
+"text": "Donate by clicking here!",
+"href": "https://secure.actblue.com/donate/kevin-volk-for-arizona"
+},
+{
+"text": "Issues",
+"href": "https://www.kevinvolkaz.com/issues"
+},
+{
+"text": "Meet Kevin",
+"href": "https://www.kevinvolkaz.com/MeetKevin"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer!",
+"href": "https://www.mobilize.us/ld17democrats/event/789523/"
+},
+{
+"text": "[image: Kevin Volk for Arizona logo]",
+"href": "https://www.kevinvolkaz.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.kevinvolkaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/kevinvolkaz"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kevinvolkaz"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kevinvolkaz"
+}
 ]

@@ -1,7 +1,11 @@
 {
- "description": "Explore Sandy Bartlett\u2019s healthcare priorities in Laurel, MD. She promotes affordable care, mental health, and lower prescription costs in District 32.",
+ "description": "Explore Sandy Bartlett’s healthcare priorities in Laurel, MD. She promotes affordable care, mental health, and lower prescription costs in District 32.",
  "final_url": "https://sandybartlett.com/issues-priorities/health-well-being/",
- "paid_for_by": null,
+ "fingerprint": "c91b5da80347aa952c0e37de8622325afb2d27c3",
+ "format": 3,
+ "paid_for_by": "Authorized By Citizens For Sandy Bartlett, Scott Bartlett Treasurer Delegate J",
  "title": "Healthcare Priorities | Delegate J. Sandy Bartlett | District 32",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

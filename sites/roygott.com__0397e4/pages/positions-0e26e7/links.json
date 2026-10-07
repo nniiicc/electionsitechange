@@ -1,9 +1,34 @@
 [
-"https://facebook.com/roygott",
-"https://facebook.com/roygott4house",
-"https://roygott.com/",
-"https://roygott.com/about",
-"https://roygott.com/blog",
-"https://roygott.com/contact",
-"https://roygott.com/positions"
+{
+"text": "About",
+"href": "https://roygott.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://roygott.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://roygott.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://roygott.com/"
+},
+{
+"text": "Positions",
+"href": "https://roygott.com/positions/"
+},
+{
+"text": "Roy D. Gott",
+"href": "https://roygott.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/roygott/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/roygott4house"
+}
 ]

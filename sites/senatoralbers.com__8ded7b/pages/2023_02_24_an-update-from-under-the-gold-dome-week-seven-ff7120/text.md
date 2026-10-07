@@ -1,6 +1,4 @@
-An Update From Under the Gold Dome: Week Seven
-Friday, February 24, 2023
-As the Senate concludes week seven of the 2023 Legislative Session, my colleagues and I continue to work at a rapid pace to ensure legislation is properly vetted in the committee process and sufficiently debated on the Senate floor before a final vote.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back An Update From Under the Gold Dome: Week Seven Friday, February 24, 2023 As the Senate concludes week seven of the 2023 Legislative Session, my colleagues and I continue to work at a rapid pace to ensure legislation is properly vetted in the committee process and sufficiently debated on the Senate floor before a final vote.
 With only one full week of legislative days remaining until we arrive at Crossover Day, the deadline is quickly approaching to have legislation passed through committees in order to be considered for assignment onto the Rules calendar for Legislative Day 28.
 This week, the Senate took up a number of significant measures to continue to better the lives and livelihoods of all Georgians.
 I am pleased to provide you with updates on a few bills of note.
@@ -30,8 +28,7 @@ We have a full week of committee meetings and floor sessions ahead of us.
 I look forward to continuing to work alongside my fellow Senators as we quickly approach the home stretch to Sine Die.
 As always, if I can ever be of assistance to you, please do not hesitate to reach out.
 It is an honor to serve you here in Atlanta.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

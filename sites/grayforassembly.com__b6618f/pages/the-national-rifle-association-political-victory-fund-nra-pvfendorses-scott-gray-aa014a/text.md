@@ -1,7 +1,8 @@
-I am honored to receive the endorsement and letter grade of A(q) from The National Rifle Association.
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate The National Rifle Association-Political Victory Fund (NRA-PVF)Endorses Scott Gray for New York State Assembly September 24, 2022 by admin I am honored to receive the endorsement and letter grade of A(q) from The National Rifle Association.
 I take pride in protecting the second amendment to the United States Constitution.
 That inalienable right guarantees every American the freedom to keep and bear arms and to lawfully possess firearms for protection, target shooting, hunting, or any other proper use.
 New York’s elected officials continue to be soft on crime while they pass laws that disarm law-abiding citizens.
 It is of the utmost importance that we take a stand for the rights of all New Yorkers.
 In Albany, I will support those rights that are constantly under attack.
 No other candidate in the 116th Assembly district received a grade, click on the QR code to see other the NYS Assembly member’s grades.
+Category: News Previous Post: New York State Public Employees Federation (PEF) Endorses Scott Gray for New York State Assembly Next Post: New York State Senator Patty Ritchie Endorses Scott Gray for the New York State Assembly in the River District Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

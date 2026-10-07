@@ -1,16 +1,98 @@
 [
-"https://facebook.com/TraceyMannKS",
-"https://secure.winred.com/traceymannforcongress/donate",
-"https://traceymann.com/",
-"https://traceymann.com/about",
-"https://traceymann.com/agriculture",
-"https://traceymann.com/border-security",
-"https://traceymann.com/contact",
-"https://traceymann.com/gallery",
-"https://traceymann.com/news",
-"https://traceymann.com/pro-gun",
-"https://traceymann.com/pro-life",
-"https://traceymann.com/rural-revitalization",
-"https://traceymann.com/support-trump",
-"https://twitter.com/TraceyMannKS"
+{
+"text": "Agriculture",
+"href": "https://www.traceymann.com/agriculture"
+},
+{
+"text": "Border Security",
+"href": "https://www.traceymann.com/border-security"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/traceymannforcongress/donate"
+},
+{
+"text": "Contact",
+"href": "https://www.traceymann.com/contact"
+},
+{
+"text": "Find Out More",
+"href": "https://www.traceymann.com/about"
+},
+{
+"text": "Get to Know Tracey",
+"href": "https://www.traceymann.com/about"
+},
+{
+"text": "Life of a Kansan",
+"href": "https://www.traceymann.com/gallery"
+},
+{
+"text": "More Images",
+"href": "https://www.traceymann.com/gallery"
+},
+{
+"text": "News",
+"href": "https://www.traceymann.com/news"
+},
+{
+"text": "Pro-Gun",
+"href": "https://www.traceymann.com/pro-gun"
+},
+{
+"text": "Pro-Life",
+"href": "https://www.traceymann.com/pro-life"
+},
+{
+"text": "Rural Revitalization",
+"href": "https://www.traceymann.com/rural-revitalization"
+},
+{
+"text": "See More",
+"href": "https://www.traceymann.com/agriculture"
+},
+{
+"text": "See More",
+"href": "https://www.traceymann.com/border-security"
+},
+{
+"text": "See More",
+"href": "https://www.traceymann.com/pro-gun"
+},
+{
+"text": "See More",
+"href": "https://www.traceymann.com/pro-life"
+},
+{
+"text": "See More",
+"href": "https://www.traceymann.com/rural-revitalization"
+},
+{
+"text": "See More",
+"href": "https://www.traceymann.com/support-trump"
+},
+{
+"text": "Support Trump",
+"href": "https://www.traceymann.com/support-trump"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.traceymann.com/#WhereIStand"
+},
+{
+"text": "[image]",
+"href": "https://www.traceymann.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TraceyMannKS"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TraceyMannKS"
+},
+{
+"text": "[no text]",
+"href": "mailto:mymail@mailservice.com"
+}
 ]

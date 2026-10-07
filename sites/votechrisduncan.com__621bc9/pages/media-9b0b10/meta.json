@@ -1,7 +1,11 @@
 {
  "description": "Chris Duncan for State Senate's campaign",
  "final_url": "https://www.votechrisduncan.com/media",
- "paid_for_by": "Paid for by Chris Duncan for Senate 2026 | FPPC ID# 1485389",
- "title": "Media \u2014 Chris Duncan for State Senate",
- "years_mentioned": []
+ "fingerprint": "65da6ef53964423f4c9378369ec10513dd5525f6",
+ "format": 3,
+ "paid_for_by": "Paid for by Chris Duncan for Senate 2026",
+ "title": "Media — Chris Duncan for State Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

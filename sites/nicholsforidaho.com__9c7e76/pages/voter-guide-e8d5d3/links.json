@@ -1,27 +1,106 @@
 [
-"http://conservativesof.com/",
-"https://app.ballotready.org/",
-"https://arcgis.com/apps/instant/lookup/index.html?appid=c72fbcd369f74f8cb8818858bf2a9e7e&find=83644%252C%2520Middleton%252C%2520Idaho",
-"https://ballotpedia.org/Idaho_State_Senate_elections,_2026",
-"https://ballotready.org/us/idaho",
-"https://facebook.com/nicholsforidaho",
-"https://gemstatechronicle.com/candidate-central",
-"https://idgop.org/2026-primary-candidates",
-"https://iluvidaho.org/voter-guide",
-"https://instagram.com/nicholsforidaho",
-"https://nicholsforidaho.com/",
-"https://nicholsforidaho.com/about",
-"https://nicholsforidaho.com/contact",
-"https://nicholsforidaho.com/donate",
-"https://nicholsforidaho.com/endorsements-awards",
-"https://nicholsforidaho.com/for-the-record",
-"https://nicholsforidaho.com/issues",
-"https://nicholsforidaho.com/media",
-"https://nicholsforidaho.com/photos",
-"https://nicholsforidaho.com/social-media-policy",
-"https://nicholsforidaho.com/voter-guide",
-"https://nicholsforidaho.com/wp-content/uploads/2024/09/idaho_legislative_districts_map_2023-1.jpg",
-"https://twitter.com/nicholsforidaho",
-"https://vote411.org/idaho",
-"https://voteidaho.gov/election-information"
+{
+"text": "2026 Idaho GOP Voter Guide – Republican Party of Idaho",
+"href": "https://idgop.org/2026-primary-candidates/"
+},
+{
+"text": "About",
+"href": "https://nicholsforidaho.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://nicholsforidaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://nicholsforidaho.com/donate/"
+},
+{
+"text": "Endorsements & Awards",
+"href": "https://nicholsforidaho.com/endorsements-awards/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/nicholsforidaho/"
+},
+{
+"text": "Home",
+"href": "https://nicholsforidaho.com/"
+},
+{
+"text": "Interactive District Map",
+"href": "https://www.arcgis.com/apps/instant/lookup/index.html?appid=c72fbcd369f74f8cb8818858bf2a9e7e&find=83644%252C%2520Middleton%252C%2520Idaho"
+},
+{
+"text": "Issues",
+"href": "https://nicholsforidaho.com/issues/"
+},
+{
+"text": "My Record",
+"href": "https://nicholsforidaho.com/for-the-record/"
+},
+{
+"text": "Newsletters",
+"href": "https://nicholsforidaho.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://nicholsforidaho.com/photos/"
+},
+{
+"text": "Social Media Comment Policy",
+"href": "https://nicholsforidaho.com/social-media-policy/"
+},
+{
+"text": "Voter Information",
+"href": "https://nicholsforidaho.com/voter-guide/"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/09/idaho_legislative_districts_map_2023-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://app.ballotready.org/"
+},
+{
+"text": "[tooltip: Click to open in a new window or tab http://conservativesof.com/]",
+"href": "http://conservativesof.com/"
+},
+{
+"text": "https://ballotpedia.org/Idaho_State_Senate_elections,_2026",
+"href": "https://ballotpedia.org/Idaho_State_Senate_elections,_2026"
+},
+{
+"text": "https://gemstatechronicle.com/candidate-central/",
+"href": "https://gemstatechronicle.com/candidate-central/"
+},
+{
+"text": "https://voteidaho.gov/election-information/",
+"href": "https://voteidaho.gov/election-information/"
+},
+{
+"text": "https://www.ballotready.org/us/idaho",
+"href": "https://www.ballotready.org/us/idaho"
+},
+{
+"text": "https://www.iluvidaho.org/voter-guide",
+"href": "https://www.iluvidaho.org/voter-guide"
+},
+{
+"text": "https://www.vote411.org/idaho",
+"href": "https://www.vote411.org/idaho"
+}
 ]

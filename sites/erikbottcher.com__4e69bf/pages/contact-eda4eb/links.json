@@ -1,12 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://erikbottcher.com/",
-"https://erikbottcher.com/about",
-"https://erikbottcher.com/volunteer",
-"https://facebook.com/VoteErikBottcher",
-"https://instagram.com/ebottcher",
-"https://oneswitchboard.com/privacy-policy/bottcher-2026",
-"https://secure.actblue.com/donate/erik-bottcher-senate",
-"https://secure.actblue.com/donate/sept28hk",
-"https://x.com/ebottcher"
+{
+"text": "About",
+"href": "https://www.erikbottcher.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erik-bottcher-senate"
+},
+{
+"text": "Events",
+"href": "https://secure.actblue.com/donate/sept28hk"
+},
+{
+"text": "Home",
+"href": "https://www.erikbottcher.com/"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://oneswitchboard.com/privacy-policy/bottcher-2026"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.erikbottcher.com/volunteer"
+},
+{
+"text": "[image: Erik Bottcher for Congress]",
+"href": "https://www.erikbottcher.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/VoteErikBottcher"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ebottcher"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ebottcher"
+}
 ]

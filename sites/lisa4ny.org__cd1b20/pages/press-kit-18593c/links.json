@@ -1,22 +1,90 @@
 [
-"https://facebook.com/LisaKaul4NY",
-"https://instagram.com/lisakaul4ny",
-"https://lisa4ny.org/",
-"https://lisa4ny.org/press-kit",
-"https://lisa4ny.org/press-kit/lisa-kaul-press-kit.zip",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-addressing-community.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-community-group-portrait.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-meeting-a-local-family.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-portrait-blue.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-portrait-outdoors.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-speaking-at-event.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-speaking-with-community.jpg",
-"https://lisa4ny.org/press-kit/photos/lisa-kaul-walking-with-a-resident.jpg",
-"https://lisa4ny.org/privacy",
-"https://secure.actblue.com/donate/lisa4ny",
-"https://secure.actblue.com/donate/lisa4ny?amount=10",
-"https://secure.actblue.com/donate/lisa4ny?amount=100",
-"https://secure.actblue.com/donate/lisa4ny?amount=25",
-"https://secure.actblue.com/donate/lisa4ny?amount=250",
-"https://secure.actblue.com/donate/lisa4ny?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/lisa4ny?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/lisa4ny?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/lisa4ny?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/lisa4ny?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/lisa4ny?amount=50"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/lisa4ny"
+},
+{
+"text": "Download complete kit",
+"href": "https://www.lisa4ny.org/press-kit/lisa-kaul-press-kit.zip"
+},
+{
+"text": "Press Kit",
+"href": "https://www.lisa4ny.org/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lisa4ny.org/privacy"
+},
+{
+"text": "[image: Lisa Kaul Campaign Logo][image: Lisa Kaul Campaign Logo]",
+"href": "https://www.lisa4ny.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaKaul4NY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisakaul4ny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-addressing-community.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-community-group-portrait.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-meeting-a-local-family.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-portrait-blue.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-portrait-outdoors.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-speaking-at-event.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-speaking-with-community.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lisa4ny.org/press-kit/photos/lisa-kaul-walking-with-a-resident.jpg"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@lisa4ny.org"
+},
+{
+"text": "info@lisa4ny.org",
+"href": "mailto:info@lisa4ny.org"
+}
 ]

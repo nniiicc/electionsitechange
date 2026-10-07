@@ -1,12 +1,4 @@
-Back to All Events
-Meet at the Jaycee Shelter
-Join us for a celebration of all your good work toward the priMARY win and help us kick off the second phase of this campaign.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Party in the Park- Jasper Thursday, May 28, 2026 5:30 PM 7:00 PM Jaycee Park 1405 Bartley Street Jasper, IN, 47546 United States (map) Google Calendar ICS Meet at the Jaycee Shelter Join us for a celebration of all your good work toward the priMARY win and help us kick off the second phase of this campaign.
 Join us for ice cream sundaes, outdoor games, and a drop of new campaign swag.
 This party is free and all about this movement of working together for the people of the 8th district.
-Previous
-Previous
-May 27
-Party in the Park - Vanderburgh
-Next
-Next
-May 30
+Source: https://www.mobilize.us/maryallenforcongress/event/953967/ Previous Previous May 27 Party in the Park - Vanderburgh Next Next May 30 Doss Barn Concert REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

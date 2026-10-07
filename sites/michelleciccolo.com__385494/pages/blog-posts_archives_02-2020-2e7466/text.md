@@ -1,6 +1,8 @@
-| We're only a few days away from our Winter Fundraising Reception in Lexington.
-I am honored to have Congresswoman Katherine Clark, Attorney General Maura Healey, and State Senators Michael Barrett and Cindy Friedman as special guests and co-hosts of the event.
+MICHELLE CICCOLO STATE REPRESENTATIVE Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign AG Maura Healey and Congresswoman Katherine Clark in Lexington on Sunday!
+2/27/2020 Comments We're only a few days away from our Winter Fundraising Reception in Lexington.
+I am honored to have Congresswoman Katherine Clark , Attorney General Maura Healey , and State Senators Michael Barrett and Cindy Friedman as special guests and co-hosts of the event.
 I hope you'll join us for a fun afternoon!
-Here are the details: I can't believe how fast 2020 is flying by!
+Here are the details: Read More Comments A Special Reception with Maura Healey & Katherine Clark 2/14/2020 ​I can't believe how fast 2020 is flying by!
 In just six and a half short months, we will be on the ballot for our first re-election campaign.
-While we continue to push a bold policy agenda, there's much work to do on the campaign. | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |
+While we continue to push a bold policy agenda, there's much work to do on the campaign.
+Read More Archives May 2021 March 2021 February 2021 January 2021 November 2020 October 2020 September 2020 August 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 June 2019 May 2019 February 2019 January 2019 December 2018 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 March 2018 February 2018 January 2018 December 2017 Categories All Announcement Donate Endorse/Endorsement Event News Press Support RSS Feed ​ Paid for by the Committee to ​Elect Michelle Ciccolo Copyright © # Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign

@@ -1,2 +1,1 @@
-Legal
-{{ post.title }}
+Legal {{ post.title }}

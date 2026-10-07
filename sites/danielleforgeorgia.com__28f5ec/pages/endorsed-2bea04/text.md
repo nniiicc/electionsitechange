@@ -1,28 +1,19 @@
-The Democratic Legislative Campaign Committee (DLCC) leads the national strategy to secure power in our state legislatures.
+Home Donate Policy About Endorsed Gallery Volunteer!
+Home Donate Policy About Endorsed Gallery Volunteer!
+More Home Donate Policy About Endorsed Gallery Volunteer!
+Home Donate Policy About Endorsed Gallery Volunteer!
+Danielle's Endorsements & Designations Democratic Legislative Campaign Committee The Democratic Legislative Campaign Committee (DLCC) leads the national strategy to secure power in our state legislatures.
 They are the campaign arm for more than 3,000 state legislators and thousands of candidates across all 50 states who are advancing Democratic values.
-Over the last decade, the DLCC's work has flipped 10 chamber majorities from red to blue.
-The Georgia AFL-CIO is the official statewide labor federation representing hundreds of local union affiliates and thousands of working families throughout Georgia.
-The Georgia AFLCIO acts as the state arm of the national AFL-CIO
-Georgia WIN List is a grassroots Political Action Committee dedicated to changing the face of power in Georgia by recruiting, training, supporting, electing and re-electing Democratic women for statewide and legislative office who will be effective advocates for the issues most important to women and families.
-Founded by Attorney General Eric H.
+Over the last decade, the DLCC's work has flipped 10 chamber majorities from red to blue. https://www.dlcc.org Georgia AFLCIO The Georgia AFL-CIO is the official statewide labor federation representing hundreds of local union affiliates and thousands of working families throughout Georgia.
+The Georgia AFLCIO acts as the state arm of the national AFL-CIO https://georgiaequality.org Georgia WIN List Georgia WIN List is a grassroots Political Action Committee dedicated to changing the face of power in Georgia by recruiting, training, supporting, electing and re-electing Democratic women for statewide and legislative office who will be effective advocates for the issues most important to women and families. https://www.gawinlist.com/ National Democratic Redistricting Committee Founded by Attorney General Eric H.
 Holder Jr. and President Barack Obama, the National Democratic Redistricting Committee (NDRC) is the first-ever strategic hub for a comprehensive redistricting strategy.
-Their strategy has shifted the balance of power back to the people, raised awareness of redistricting, and empowered the public to get involved in the fight for fair maps.
-https://democraticredistricting.com
-Third Act is a dedicated group of organizers, campaign strategists, and communications professionals working together to build a powerful elder-led movement for climate action and democracy protection.
-I am committed to lead with mental health concerns front of mind.
-This designation is a signal to voters that a candidate has committed to advancing mental health.
-Vote Common Good is inspiring, energizing, and mobilizing people of faith to make the common good their voting criteria.
-And, they train and support candidates to connect with Evangelical and Catholic voters.
-Georgia Majority for Gun Safety (GMGS) is a broad, diverse coalition committed to advancing proven, effective legislation that reduces rates of gun violence while preserving Second Amendment rights in Georgia.
-We are a non-partisan alliance of organizations, houses of worship, and individuals who represent the majority of Georgians who believe we must do more to promote responsible gun ownership and protect our communities from the epidemic of gun violence.
-Vote Mama PAC is the first PAC in the country dedicated to building the political power of Democratic moms.
-They support mamas who are balancing caregiving and running for office by challenging traditional political systems in order to win elections, pass family-focused policies, and redefine leadership in America.
-Since launching in January 2017, Run for Something has recruited nearly over 200,000 people across all 50 states to run for state or local office.
-They provide a safety net for new progressive leaders — at all stages of their journey — helping them run efficient, strategic, grassroots, driven campaigns.
-Georgia Equality’s mission is to advance fairness, safety and opportunity for lesbian, gay, bisexual and transgender communities and our allies throughout the state.
+Their strategy has shifted the balance of power back to the people, raised awareness of redistricting, and empowered the public to get involved in the fight for fair maps. https://democraticredistricting.com Third Act Georgia Third Act is a dedicated group of organizers, campaign strategists, and communications professionals working together to build a powerful elder-led movement for climate action and democracy protection. https://thirdact.org/georgia/about/ Mental Health Candidate 2026 I am committed to lead with mental health concerns front of mind.
+This designation is a signal to voters that a candidate has committed to advancing mental health. https://www.inseparable.us/ Candidate for the Common Good Designation Vote Common Good is inspiring, energizing, and mobilizing people of faith to make the common good their voting criteria.
+And, they train and support candidates to connect with Evangelical and Catholic voters. https://www.votecommongood.com/what-and-why/ Georgia Majority for Gun Safety Georgia Majority for Gun Safety (GMGS) is a broad, diverse coalition committed to advancing proven, effective legislation that reduces rates of gun violence while preserving Second Amendment rights in Georgia.
+We are a non-partisan alliance of organizations, houses of worship, and individuals who represent the majority of Georgians who believe we must do more to promote responsible gun ownership and protect our communities from the epidemic of gun violence. https://www.georgiamajority.org/about Vote Mama PAC Vote Mama PAC is the first PAC in the country dedicated to building the political power of Democratic moms.
+They support mamas who are balancing caregiving and running for office by challenging traditional political systems in order to win elections, pass family-focused policies, and redefine leadership in America. https://votemamapac.org Run for Something Since launching in January 2017, Run for Something has recruited nearly over 200,000 people across all 50 states to run for state or local office.
+They provide a safety net for new progressive leaders — at all stages of their journey — helping them run efficient, strategic, grassroots, driven campaigns. https://runforsomething.net Georgia Equality Georgia Equality’s mission is to advance fairness, safety and opportunity for lesbian, gay, bisexual and transgender communities and our allies throughout the state.
 They work year-round to pass pro-equality legislation and elect fair-minded elected officials.
-Through the Equality Foundation of Georgia, they also conduct voter registration and educational activities, provide information to decision makers, and work to organize and mobilize LGBTQ residents and allies to advance equality in urban, suburban, and rural communities across the state.
-danielle@danielleforgeorgia.com
-Copyright © 2024 Danielle for Georgia - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Through the Equality Foundation of Georgia, they also conduct voter registration and educational activities, provide information to decision makers, and work to organize and mobilize LGBTQ residents and allies to advance equality in urban, suburban, and rural communities across the state. https://georgiaequality.org Connect with our team via social media below! danielle@danielleforgeorgia.com Copyright © # Danielle for Georgia - All Rights Reserved.
+Powered by Contact us This is a people-powered campaign Help us fund the work and reach more neighbors!
+Give

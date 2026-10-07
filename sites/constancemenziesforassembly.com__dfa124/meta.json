@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Constance Menzies for Assembly.",
  "final_url": "https://constancemenziesforassembly.com/",
- "paid_for_by": "Paid for by Committee to Elect Constance Menzies for Assembly 2026 FPPC ID # Pending Contributions are not being solicited through this website at this",
+ "fingerprint": "5c62cbce787e6bc3468a97c567e49189cae79a70",
+ "format": 3,
+ "paid_for_by": "Paid for by Committee to Elect Constance Menzies for Assembly 2026 FPPC ID # Pending Contributions are not being solicited through this website at this time",
  "title": "Constance Menzies for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

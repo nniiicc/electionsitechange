@@ -1,4 +1,4 @@
-Congress plays a clear and decisive role in the responsibility to build and maintain our Navy.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News September 2, 2022 FORMER NAVY SEC: COURTNEY IN THE PERFECT POSITION TO SHAPE DECISIONS ABOUT SUBMARINE PRODUCTION Congress plays a clear and decisive role in the responsibility to build and maintain our Navy.
 “There are few people I respect more in Congress in that role than Joe Courtney”, says former Secretary of the Navy Ray Mabus.
 I read with interest comments in a recent article in CT Examiner that claimed that the person you elect to Congress doesn’t matter in sustaining submarine production.
 As someone who served as Navy Secretary for eight years and had a front-row seat in these kinds of decisions, I can tell you that is not true.
@@ -20,5 +20,4 @@ I know first-hand that who you elect to represent your district this year truly 
 Now, as Chairman of the Seapower Subcommittee, Joe Courtney is in the perfect position to shape key decisions coming up about submarine production and supporting the industrial base.
 You cannot find someone new that can do that as effectively as your current Congressman.
 America is more secure because of Joe Courtney and our shipyards and shipbuilders are more stable because of his work.
-Ray Mabus
-Secretary of the Navy (2009-17)
+Ray Mabus Secretary of the Navy (2009-17) Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

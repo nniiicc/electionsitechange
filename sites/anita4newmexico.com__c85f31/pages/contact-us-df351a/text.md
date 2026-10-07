@@ -1,10 +1,3 @@
-Anita Gonzales
-Friends for Anita Gonzales
-HC 80 Box 193C
-Las Vegas, NM 87701-5009
-Anita4NewMexico@gmail.com
-505-718-9517
-Neri Holguin
-Campaign Manager
-neriholguin@gmail.com
-505-217-8705
+Democrat for NM House District 70 Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact Contact Us Anita Gonzales Friends for Anita Gonzales HC 80 Box 193C Las Vegas, NM 87701-5009 Anita4NewMexico@gmail.com 505-718-9517 Neri Holguin Campaign Manager neriholguin@gmail.com 505-217-8705 Get a Yard Sign Show your neighbors you support Anita!
+Get a Sign Connect with our campaign Paid for and authorized by the Friends for Anita Gonzales Martha Peña, Treasurer Site Map | Privacy Policy ©#-#, Friends for Anita Gonzales; All rights reserved.
+Edit This | Admin Designed and developed by Evo Home About Anita About District 70 Voting Contribute Priorities Endorsements Volunteer Events News Contact Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact

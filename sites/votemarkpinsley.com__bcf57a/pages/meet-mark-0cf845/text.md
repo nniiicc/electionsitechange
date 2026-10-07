@@ -1,8 +1,4 @@
-Meet Mark Pinsley
-Democrat for PA Senate
-Meet Mark Pinsley
-Democrat for PA Senate
-Mark Pinsley is a U.S.
+Skip to main content Skip to footer DONATE The Candidate The Issues Get In Contact Endorsements Meet Mark Pinsley Democrat for PA Senate Meet Mark Pinsley Democrat for PA Senate Mark Pinsley is a U.S.
 Army veteran, public servant, and Lehigh County Controller who believes government should be on the side of the people who work hard, raise families, and keep our communities running.
 For too long, Pennsylvania families have been asked to do more with less.
 Prices keep rising.
@@ -25,3 +21,9 @@ Mark will be a champion for working people and organized labor.
 He believes every worker deserves dignity, safe conditions, the right to organize, and a wage that can support a family.
 He will fight for good paying union jobs, stronger worker protections, paid family and medical leave, and a real path for every Pennsylvanian to build a secure future.
 He will also fight for fully funded public schools, reproductive freedom, LGBTQ+ equality, affordable mental health care, and real accountability in Harrisburg.
+Mark’s campaign is built around a simple idea: life should cost less, families should own more, and politicians should answer to the people, not the powerful.
+Get Involved!
+Find out how you can help Mark make a difference in Pennsylvania!
+Click Here to Learn More Paid for by Friends of Mark Pinsley.
+Military service and photographs in uniform do not imply endorsement by the Department of Defense or Department of the Army .
+The Candidate The issues get involved donate contact Privacy policy Terms and Conditions Copyright # Friends of Mark Pinsley 1855 Valley Forge Road Allentown PA

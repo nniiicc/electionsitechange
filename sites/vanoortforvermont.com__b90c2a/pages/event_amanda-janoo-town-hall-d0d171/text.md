@@ -1,3 +1,2 @@
-Amanda Janoo town hall
-October 18 @ 2:30 pm - 4:00 pm
-I’ll be attending Amanda Janoo’s Rutland County town hall event with signs and supporters, please join me!
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates « All Events Amanda Janoo town hall October 18 @ 2:30 pm - 4:00 pm « Postcard party General election » I’ll be attending Amanda Janoo’s Rutland County town hall event with signs and supporters, please join me!
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 18 Time: 2:30 pm - 4:00 pm Website: https://janooforvt.solidarity.tech/rutland-county-town-hall Venue West Rutland Town Hall 35 Marble St West Rutland , VT 05777 United States + Google Map « Postcard party General election » Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

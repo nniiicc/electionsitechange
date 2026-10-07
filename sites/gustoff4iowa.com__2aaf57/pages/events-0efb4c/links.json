@@ -1,13 +1,82 @@
 [
-"https://facebook.com/Gustoff4Iowa",
-"https://gustoff4iowa.com/",
-"https://gustoff4iowa.com/about",
-"https://gustoff4iowa.com/event-rsvp",
-"https://gustoff4iowa.com/events",
-"https://gustoff4iowa.com/issues",
-"https://gustoff4iowa.com/volunteer",
-"https://gustoff4iowa.com/yard-signs",
-"https://secure.winred.com/gustoff-for-iowa/21b47a0df65e5c33",
-"https://secure.winred.com/gustoff-for-iowa/donate-today",
-"https://secure.winred.com/gustoff-for-iowa/f4fd15561fd90fa6"
+{
+"text": "About",
+"href": "https://www.gustoff4iowa.com/about"
+},
+{
+"text": "Blue Note: $250",
+"href": "https://secure.winred.com/gustoff-for-iowa/21b47a0df65e5c33"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gustoff-for-iowa/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/gustoff-for-iowa/donate-today"
+},
+{
+"text": "Encore Circle: $2500",
+"href": "https://secure.winred.com/gustoff-for-iowa/21b47a0df65e5c33"
+},
+{
+"text": "Event",
+"href": "https://www.gustoff4iowa.com/events"
+},
+{
+"text": "Guest Registration: $35/ticket",
+"href": "https://secure.winred.com/gustoff-for-iowa/f4fd15561fd90fa6"
+},
+{
+"text": "Headliner: $1000",
+"href": "https://secure.winred.com/gustoff-for-iowa/21b47a0df65e5c33"
+},
+{
+"text": "Home",
+"href": "https://www.gustoff4iowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.gustoff4iowa.com/issues"
+},
+{
+"text": "Opening Act: $125",
+"href": "https://secure.winred.com/gustoff-for-iowa/21b47a0df65e5c33"
+},
+{
+"text": "RSVP NOW & PAY LATER",
+"href": "https://www.gustoff4iowa.com/event-rsvp"
+},
+{
+"text": "Spotlight: $500",
+"href": "https://secure.winred.com/gustoff-for-iowa/21b47a0df65e5c33"
+},
+{
+"text": "Updates",
+"href": "https://www.facebook.com/Gustoff4Iowa"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gustoff4iowa.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.gustoff4iowa.com/yard-signs"
+},
+{
+"text": "[image: Gustoff_LogoDesign_Final-edit.png]",
+"href": "https://www.gustoff4iowa.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:Bill@Gustoff4Iowa.com"
+},
+{
+"text": "bill@gustoff4iowa.com",
+"href": "mailto:bill@gustoff4iowa.com"
+},
+{
+"text": "ill@gustoff4Iowa.com",
+"href": "mailto:ill@gustoff4Iowa.com"
+}
 ]

@@ -1,9 +1,2 @@
-Home
-Legislative Updates
-Endorsements
-Email Signup
-Video
-More
-Hiawatha City Councilor
-Put simply, Liz Bennett is the hardest working member of the legislature.
-She not only fights for everyday Iowans, but she stands for dignity and humanity, against a state government that has abandoned both.
+top of page Donate Home Legislative Updates Endorsements Email Signup Video More Use tab to navigate through the menu items. < Back Aime Wichtendahl Hiawatha City Councilor Put simply, Liz Bennett is the hardest working member of the legislature.
+She not only fights for everyday Iowans, but she stands for dignity and humanity, against a state government that has abandoned both. ​ ​ Paid for by Iowans for Liz Bennett bottom of page

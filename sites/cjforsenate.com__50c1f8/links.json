@@ -1,17 +1,98 @@
 [
-"https://cjforsenate.com/",
-"https://cjforsenate.com/about",
-"https://cjforsenate.com/endorsements",
-"https://cjforsenate.com/es",
-"https://cjforsenate.com/events",
-"https://cjforsenate.com/platform",
-"https://cjforsenate.com/privacy-policy",
-"https://cjforsenate.com/volunteer",
-"https://facebook.com/profile.php?id=61585113681133",
-"https://instagram.com/cjforutsenate?igsh=MTM3Mzh5d2R6aDZw",
-"https://linkedin.com/in/christina-cj-hernandez",
-"https://secure.actblue.com/donate/cj-hernandez-1",
-"https://staging.cjforsenate.com/platform",
-"https://tiktok.com/@cjin.ut",
-"https://vote.utah.gov/"
+{
+"text": "About",
+"href": "https://www.cjforsenate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cj-hernandez-1"
+},
+{
+"text": "ECONOMY THAT WORKS — open the platform ECONOMY THAT WORKS Create good-paying jobs, support small businesses, and expand opportunity.",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "EN/ES",
+"href": "https://www.cjforsenate.com/es"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cjforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cjforsenate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.cjforsenate.com/"
+},
+{
+"text": "KEEP THE PUBLIC INFORMED — open the platform KEEP THE PUBLIC INFORMED Increase transparency, defend voting rights, and hold government accountable.",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "LOWER COSTS — open the platform LOWER COSTS Make housing, healthcare, childcare, and groceries more affordable.",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "Learn more about CJ",
+"href": "https://www.cjforsenate.com/about"
+},
+{
+"text": "PROTECT UTAH’S FUTURE — open the platform PROTECT UTAH’S FUTURE Safeguard our air, water, public lands, and the Great Salt Lake.",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "Platform",
+"href": "https://staging.cjforsenate.com/platform"
+},
+{
+"text": "Platform",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cjforsenate.com/privacy-policy"
+},
+{
+"text": "Register or Check Your Status",
+"href": "https://vote.utah.gov"
+},
+{
+"text": "STRENGTHEN OUR SCHOOLS — open the platform STRENGTHEN OUR SCHOOLS Invest in teachers, classrooms, and every student’s success.",
+"href": "https://www.cjforsenate.com/platform"
+},
+{
+"text": "View All",
+"href": "https://www.cjforsenate.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cjforsenate.com/volunteer"
+},
+{
+"text": "[image: CJ for Utah Senate]",
+"href": "https://www.cjforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585113681133"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cjforutsenate?igsh=MTM3Mzh5d2R6aDZw"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/christina-cj-hernandez/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@cjin.ut"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@cjforsenate.com"
+}
 ]

@@ -1,35 +1,150 @@
 [
-"http://uvm.edu/extension/agriculture-and-environmental-testing-lab",
-"http://uvm.edu/extension/nwcrops",
-"https://agriculture.vermont.gov/flood",
-"https://anr.vermont.gov/flood",
-"https://barrecity.org/vol-flood.html",
-"https://cdc.gov/mold/cleanup-guide.html",
-"https://dcf.vermont.gov/benefits/3svt",
-"https://disasterassistance.gov/",
-"https://docs.google.com/forms/d/1qM0ZpTqtxnt4I7veagq79CEEwW5TK0NwdlT4TA9cpbw/viewform?ts=64ad6d07&edit_requested=true",
-"https://docs.google.com/forms/d/e/1FAIpQLSd801WCGwPE8AD3wgAZ61OGv5QMa6s84ugEUe8w41dZVZ2ipA/viewform",
-"https://farmers.gov/protection-recovery/disaster-tool",
-"https://farmfirst.org/",
-"https://fema.gov/assistance/individual/program/road-to-recovery",
-"https://fema.gov/fact-sheet/returning-home-after-flood",
-"https://healthvermont.gov/media/news-room/news-release-guidance-vermont-flood-recovery-health-and-safety",
-"https://marcmihaly.com/",
-"https://marcmihaly.com/Issues",
-"https://marcmihaly.com/cart",
-"https://marcmihaly.com/contact",
-"https://marcmihaly.com/flood-response",
-"https://marcmihaly.com/legislative-report",
-"https://marcmihaly.com/meet-marc",
-"https://marcmihaly.com/on-the-issues",
-"https://redcross.org/local/me-nh-vt.html",
-"https://secure.actblue.com/donate/friends-of-marc-mihaly-1",
-"https://unitedway.org/local/united-states/vermont",
-"https://urldefense.com/v3/__https:/chambereconomicdevelopment.cmail19.com/t/j-l-ekhtjhl-vjluilyul-i/__%3B!!Bg5easoyC-OII2vlEqY8mTBrtW-N4OJKAQ!J8kQTZDSgXYHirpOrrQMF9oMf5hZ5C1GIzPd5aJbWXdEMBn7idHsqSwMjOd1zyC1Ji9v4uK6qGXAmy0bOellC8yOW5fX9JiG4onqhbRJqm8$",
-"https://vem.vermont.gov/flood",
-"https://vem.vermont.gov/flood/faq",
-"https://vermont211.org/",
-"https://vermontcf.org/our-impact/programs-and-funds/vt-flood-response",
-"https://vermontpublic.org/local-news/2023-07-11/flooding-emergency-shelters-vermont-map",
-"https://vtrecovery2023.com/"
+{
+"text": "0",
+"href": "https://www.marcmihaly.com/cart"
+},
+{
+"text": "American Red Cross of Northern New England",
+"href": "https://www.redcross.org/local/me-nh-vt.html"
+},
+{
+"text": "Back",
+"href": "https://www.marcmihaly.com/"
+},
+{
+"text": "Check for volunteer opportunities in Waterbury to contribute to flood recovery efforts.",
+"href": "https://docs.google.com/forms/d/1qM0ZpTqtxnt4I7veagq79CEEwW5TK0NwdlT4TA9cpbw/viewform?ts=64ad6d07&edit_requested=true"
+},
+{
+"text": "Contact",
+"href": "https://www.marcmihaly.com/contact"
+},
+{
+"text": "Disaster Recovery Guide for Business.",
+"href": "https://urldefense.com/v3/__https:/chambereconomicdevelopment.cmail19.com/t/j-l-ekhtjhl-vjluilyul-i/__%3B!!Bg5easoyC-OII2vlEqY8mTBrtW-N4OJKAQ!J8kQTZDSgXYHirpOrrQMF9oMf5hZ5C1GIzPd5aJbWXdEMBn7idHsqSwMjOd1zyC1Ji9v4uK6qGXAmy0bOellC8yOW5fX9JiG4onqhbRJqm8%24"
+},
+{
+"text": "DisasterAssistance.gov",
+"href": "https://www.disasterassistance.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-marc-mihaly-1"
+},
+{
+"text": "Flood Response",
+"href": "https://www.marcmihaly.com/flood-response"
+},
+{
+"text": "Flood Response & Recovery Information for Vermont Produce Growers",
+"href": "https://agriculture.vermont.gov/flood"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.marcmihaly.com/Issues"
+},
+{
+"text": "Legislative Report",
+"href": "https://www.marcmihaly.com/legislative-report"
+},
+{
+"text": "Meet Marc",
+"href": "https://www.marcmihaly.com/meet-marc"
+},
+{
+"text": "More information here",
+"href": "https://dcf.vermont.gov/benefits/3svt"
+},
+{
+"text": "On the Issues",
+"href": "https://www.marcmihaly.com/on-the-issues"
+},
+{
+"text": "Returning Home After a Flood | FEMA.gov",
+"href": "https://www.fema.gov/fact-sheet/returning-home-after-flood"
+},
+{
+"text": "The Vermont Main Street Flood Recovery Fund",
+"href": "https://www.vtrecovery2023.com/"
+},
+{
+"text": "United Way",
+"href": "https://www.unitedway.org/local/united-states/vermont"
+},
+{
+"text": "VEM Vermont Flood FAQ",
+"href": "https://vem.vermont.gov/flood/faq"
+},
+{
+"text": "VT Flood Response & Recovery Fund 2023",
+"href": "https://vermontcf.org/our-impact/programs-and-funds/vt-flood-response/"
+},
+{
+"text": "Vermont Agency of Natural Resources Flood Recovery Resources",
+"href": "https://anr.vermont.gov/flood"
+},
+{
+"text": "Vermont Emergency Management Flood Resources",
+"href": "https://vem.vermont.gov/flood"
+},
+{
+"text": "Vermont Volunteer Registration",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd801WCGwPE8AD3wgAZ61OGv5QMa6s84ugEUe8w41dZVZ2ipA/viewform"
+},
+{
+"text": "Vermont211.org",
+"href": "https://vermont211.org/"
+},
+{
+"text": "[image: Marc Mihaly for Vermont House]",
+"href": "https://www.marcmihaly.com/"
+},
+{
+"text": "barrecity.org/vol-flood.html",
+"href": "https://www.barrecity.org/vol-flood.html"
+},
+{
+"text": "cdc.gov/mold/cleanup-guide.html",
+"href": "https://www.cdc.gov/mold/cleanup-guide.html"
+},
+{
+"text": "emergency shelters",
+"href": "https://www.vermontpublic.org/local-news/2023-07-11/flooding-emergency-shelters-vermont-map"
+},
+{
+"text": "farmfirst.org",
+"href": "https://www.farmfirst.org/"
+},
+{
+"text": "healthvermont.gov",
+"href": "https://www.healthvermont.gov/media/news-room/news-release-guidance-vermont-flood-recovery-health-and-safety"
+},
+{
+"text": "heather.darby@uvm.edu",
+"href": "mailto:heather.darby@uvm.edu"
+},
+{
+"text": "https://www.farmers.gov/protection-recovery/disaster-tool",
+"href": "https://www.farmers.gov/protection-recovery/disaster-tool"
+},
+{
+"text": "https://www.fema.gov/assistance/individual/program/road-to-recovery",
+"href": "https://www.fema.gov/assistance/individual/program/road-to-recovery"
+},
+{
+"text": "uas@uvm.edu",
+"href": "mailto:uas@uvm.edu"
+},
+{
+"text": "uvm.edu/extension/agriculture-and-environmental-testing-lab",
+"href": "http://www.uvm.edu/extension/agriculture-and-environmental-testing-lab"
+},
+{
+"text": "uvm.edu/extension/nwcrops",
+"href": "http://www.uvm.edu/extension/nwcrops"
+},
+{
+"text": "volunteer form",
+"href": "https://docs.google.com/forms/d/1qM0ZpTqtxnt4I7veagq79CEEwW5TK0NwdlT4TA9cpbw/viewform?ts=64ad6d07&edit_requested=true"
+}
 ]

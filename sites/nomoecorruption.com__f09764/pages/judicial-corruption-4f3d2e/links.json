@@ -1,60 +1,270 @@
 [
-"http://leg.state.fl.us/Statutes./index.cfm?App_mode=Display_Statute&URL=0000-0099%2F0027%2FSections%2F0027.181.html",
-"http://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099%2F0030%2FSections%2F0030.15.html",
-"https://casetext.com/statute/florida-statutes/title-xlii-estates-and-trusts/chapter-732-probate-code-intestate-succession-and-wills/part-viii-general-provisions/section-732806-gifts-to-lawyers-and-other-disqualified-persons",
-"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoSHmgEIpPjE%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoSHmgEIpPjE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoSHmgEIpPjE%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtubeCalderon",
-"https://en.wikipedia.org/w/index.php?title=Article_III&redirect=no",
-"https://en.wikipedia.org/wiki/Amy_Coney_Barrett",
-"https://en.wikipedia.org/wiki/Carlos_E._Mendoza",
-"https://en.wikipedia.org/wiki/Donald_Trump",
-"https://en.wikipedia.org/wiki/Elena_Kagan",
-"https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(classified_documents_case)",
-"https://en.wikipedia.org/wiki/James_DeLeo",
-"https://en.wikipedia.org/wiki/Joe_Biden",
-"https://en.wikipedia.org/wiki/Julie_S._Sneed",
-"https://en.wikipedia.org/wiki/Louis_Frey_Jr.",
-"https://en.wikipedia.org/wiki/Mandamus",
-"https://en.wikipedia.org/wiki/October_surprise",
-"https://en.wikipedia.org/wiki/Operation_Greylord",
-"https://en.wikipedia.org/wiki/Pro_se_legal_representation_in_the_United_States",
-"https://en.wikipedia.org/wiki/Removal_jurisdiction",
-"https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
-"https://en.wikipedia.org/wiki/Thompson_v._Clark",
-"https://en.wikipedia.org/wiki/Timothy_J._Corrigan?wprov=srpw1_2",
-"https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Eleventh_Circuit",
-"https://facebook.com/moedimanche",
-"https://flgov.com/wp-content/uploads/2023/09/9th-Cir.-Nunez-Navarro.pdf",
-"https://flgov.com/wp-content/uploads/orders/2013/13-60-elias.pdf",
-"https://flmd.uscourts.gov/judges/carlos-mendoza",
-"https://imdb.com/title/tt37457041?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_american%2520convict",
-"https://instagram.com/MoeDimanche",
-"https://latimes.com/archives/la-xpm-1994-01-11-mn-10684-story.html",
-"https://medium.com/plans?dimension=post_audio_button&postId=0371139af554",
-"https://medium.com/tag/corruption",
-"https://medium.com/tag/orlando",
-"https://medium.com/tag/politics",
-"https://medium.com/tag/supreme-court",
-"https://medium.com/tag/unitedstatessupremecourt",
-"https://moedimanche.medium.com/",
-"https://nomoecorruption.com/",
-"https://nomoecorruption.com/2024/12/06/judicial-cleanup",
-"https://nomoecorruption.com/connect",
-"https://nomoecorruption.com/constant-vigilance-what-made-moe",
-"https://nomoecorruption.com/donate",
-"https://nomoecorruption.com/judicial-corruption",
-"https://nomoecorruption.com/judicial-corruption?query-0-page=2",
-"https://nomoecorruption.com/judicial-corruption?share=facebook",
-"https://nomoecorruption.com/judicial-corruption?share=twitter",
-"https://nomoecorruption.com/moe-war-room",
-"https://nomoecorruption.com/the-moe-dimanche-show",
-"https://nomoecorruption.com/volunteer",
-"https://nomoecorruption.com/wp-content/uploads/2025/06/city_of_west_orlando_charter.pdf",
-"https://orlandosentinel.com/2019/05/17/debt-collector-indicted-on-corruptly-influencing-elected-officials-did-business-with-orange-county-clerk-of-courts-tiffany-moore-russell",
-"https://subscribe.wordpress.com/memberships/jwt?site_id=110880426&redirect_url=https%3A%2F%2Fnomoecorruption.com%2Fwp-json%2Fjetpack%2Fv4%2Fsubscribers%2Fauth%3Fredirect_url%3Dhttps%253A%252F%252Fnomoecorruption.com%252Fjudicial-corruption%252F",
-"https://supremecourt.gov/search.aspx?filename=%2Fdocket%2Fdocketfiles%2Fhtml%2Fpublic%2F23-1216.html",
-"https://tiktok.com/@moedimanche",
-"https://wftv.com/news/local/osceola-county-judge-reprimanded-lengthy-delays/GAGQ6PFZGZFTXIGAAJFEXOJQO4",
-"https://www1.cityoforlando.net/opendatadocs/saoletters/14-211161.pdf",
-"https://x.com/moedimanche?lang=en",
-"https://youtube.com/channel/UCFW4SMmaqUR9Hqpax2njfnQ"
+{
+"text": "Aaron Goss",
+"href": "https://www1.cityoforlando.net/opendatadocs/saoletters/14-211161.pdf"
+},
+{
+"text": "Amy Coney Barrett",
+"href": "https://en.wikipedia.org/wiki/Amy_Coney_Barrett"
+},
+{
+"text": "Article III",
+"href": "https://en.wikipedia.org/w/index.php?title=Article_III&redirect=no"
+},
+{
+"text": "Carlos E. Mendoza",
+"href": "https://en.wikipedia.org/wiki/Carlos_E._Mendoza"
+},
+{
+"text": "City_of_West_Orlando_Charter",
+"href": "https://nomoecorruption.com/wp-content/uploads/2025/06/city_of_west_orlando_charter.pdf"
+},
+{
+"text": "Connect",
+"href": "https://nomoecorruption.com/connect/"
+},
+{
+"text": "Constant Vigilance: What Made Moe?",
+"href": "https://nomoecorruption.com/constant-vigilance-what-made-moe/"
+},
+{
+"text": "Corruption",
+"href": "https://medium.com/tag/corruption"
+},
+{
+"text": "Donald Trump",
+"href": "https://en.wikipedia.org/wiki/Donald_Trump"
+},
+{
+"text": "Donate",
+"href": "https://nomoecorruption.com/donate/"
+},
+{
+"text": "Download",
+"href": "https://nomoecorruption.com/wp-content/uploads/2025/06/city_of_west_orlando_charter.pdf"
+},
+{
+"text": "Elena Kagan",
+"href": "https://en.wikipedia.org/wiki/Elena_Kagan"
+},
+{
+"text": "Eleventh Circuit",
+"href": "https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Eleventh_Circuit"
+},
+{
+"text": "Executive Order 13–60",
+"href": "https://www.flgov.com/wp-content/uploads/orders/2013/13-60-elias.pdf"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/moedimanche/"
+},
+{
+"text": "Federal prosecution of Donald Trump",
+"href": "https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(classified_documents_case)"
+},
+{
+"text": "Fla. Stat. § 732.806",
+"href": "https://casetext.com/statute/florida-statutes/title-xlii-estates-and-trusts/chapter-732-probate-code-intestate-succession-and-wills/part-viii-general-provisions/section-732806-gifts-to-lawyers-and-other-disqualified-persons#:~:text=Section%20732.806%20%2D%20Gifts%20to%20lawyers%20and%20other%20disqualified%20persons%20(1,or%20other%20recipient%20of%20the"
+},
+{
+"text": "HOME",
+"href": "https://nomoecorruption.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/MoeDimanche/"
+},
+{
+"text": "James D. Gunderson",
+"href": "https://www.latimes.com/archives/la-xpm-1994-01-11-mn-10684-story.html"
+},
+{
+"text": "James DeLeo",
+"href": "https://en.wikipedia.org/wiki/James_DeLeo"
+},
+{
+"text": "Joe Biden",
+"href": "https://en.wikipedia.org/wiki/Joe_Biden"
+},
+{
+"text": "Judicial Corruption",
+"href": "https://nomoecorruption.com/2024/12/06/judicial-cleanup/"
+},
+{
+"text": "Julie S. Sneed",
+"href": "https://en.wikipedia.org/wiki/Julie_S._Sneed"
+},
+{
+"text": "Lawfare",
+"href": "https://nomoecorruption.com/judicial-corruption/"
+},
+{
+"text": "Log in",
+"href": "https://subscribe.wordpress.com/memberships/jwt/?site_id=110880426&redirect_url=https%3A%2F%2Fnomoecorruption.com%2Fwp-json%2Fjetpack%2Fv4%2Fsubscribers%2Fauth%3Fredirect_url%3Dhttps%253A%252F%252Fnomoecorruption.com%252Fjudicial-corruption%252F"
+},
+{
+"text": "Lou Frey",
+"href": "https://en.wikipedia.org/wiki/Louis_Frey_Jr."
+},
+{
+"text": "Moe War Room",
+"href": "https://nomoecorruption.com/moe-war-room/"
+},
+{
+"text": "Moliere Dimanche v. United States District Court for the Middle District of Florida",
+"href": "https://www.supremecourt.gov/search.aspx?filename=%2Fdocket%2Fdocketfiles%2Fhtml%2Fpublic%2F23-1216.html"
+},
+{
+"text": "Next Page",
+"href": "https://nomoecorruption.com/judicial-corruption/?query-0-page=2"
+},
+{
+"text": "No MOE Corruption",
+"href": "https://nomoecorruption.com"
+},
+{
+"text": "No such appointee shall perform any of the duties of assistant state attorney until he or she shall have taken and subscribed to a written oath that he or she will faithfully perform the duties of assistant state attorney and shall have caused the oath to be recorded in the office of the clerk of the circuit court of the county in which the appointing state attorney resides. Upon the recordation of such appointment and oath, the appointing state attorney shall promptly cause certified copies thereof to be transmitted to the Secretary of State.",
+"href": "http://www.leg.state.fl.us/Statutes./index.cfm?App_mode=Display_Statute&Search_String=&URL=0000-0099%2F0027%2FSections%2F0027.181.html#:~:text=He%20or%20she%20shall%20sign,signed%20by%20the%20state%20attorney."
+},
+{
+"text": "Notice of Removal",
+"href": "https://en.wikipedia.org/wiki/Removal_jurisdiction"
+},
+{
+"text": "October Surprise",
+"href": "https://en.wikipedia.org/wiki/October_surprise"
+},
+{
+"text": "Operation Greylord",
+"href": "https://en.wikipedia.org/wiki/Operation_Greylord"
+},
+{
+"text": "Orlando",
+"href": "https://medium.com/tag/orlando"
+},
+{
+"text": "Petition for a Writ of Mandamus",
+"href": "https://en.wikipedia.org/wiki/Mandamus"
+},
+{
+"text": "Politics",
+"href": "https://medium.com/tag/politics"
+},
+{
+"text": "SCOTUS",
+"href": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+},
+{
+"text": "Section 30.15(1)",
+"href": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099%2F0030%2FSections%2F0030.15.html"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://nomoecorruption.com/judicial-corruption/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://nomoecorruption.com/judicial-corruption/?share=twitter"
+},
+{
+"text": "Supreme Court",
+"href": "https://medium.com/tag/supreme-court"
+},
+{
+"text": "Supreme Court of the United States",
+"href": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+},
+{
+"text": "Suzanne Trimble",
+"href": "https://www.flmd.uscourts.gov/judges/carlos-mendoza"
+},
+{
+"text": "The Moe Dimanche Show",
+"href": "https://nomoecorruption.com/the-moe-dimanche-show/"
+},
+{
+"text": "Thompson v. Clark",
+"href": "https://en.wikipedia.org/wiki/Thompson_v._Clark"
+},
+{
+"text": "Tiffany Moore-Russell",
+"href": "https://www.orlandosentinel.com/2019/05/17/debt-collector-indicted-on-corruptly-influencing-elected-officials-did-business-with-orange-county-clerk-of-courts-tiffany-moore-russell/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@moedimanche"
+},
+{
+"text": "Timothy J. Corrigan",
+"href": "https://en.wikipedia.org/wiki/Timothy_J._Corrigan?wprov=srpw1_2"
+},
+{
+"text": "Unitedstatessupremecourt",
+"href": "https://medium.com/tag/unitedstatessupremecourt"
+},
+{
+"text": "Volunteer",
+"href": "https://nomoecorruption.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/moedimanche?lang=en"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCFW4SMmaqUR9Hqpax2njfnQ"
+},
+{
+"text": "[image: No MOE Corruption]",
+"href": "https://nomoecorruption.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.imdb.com/title/tt37457041/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_american%2520convict"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/plans?dimension=post_audio_button&postId=0371139af554"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/tag/corruption"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/tag/orlando"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/tag/politics"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/tag/supreme-court"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/tag/unitedstatessupremecourt"
+},
+{
+"text": "[no text]",
+"href": "https://moedimanche.medium.com/"
+},
+{
+"text": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoSHmgEIpPjE%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoSHmgEIpPjE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoSHmgEIpPjE%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtubeCalderon",
+"href": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoSHmgEIpPjE%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoSHmgEIpPjE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoSHmgEIpPjE%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtubeCalderon"
+},
+{
+"text": "pro se",
+"href": "https://en.wikipedia.org/wiki/Pro_se_legal_representation_in_the_United_States"
+},
+{
+"text": "reprimanded by Florida’s Supreme Court",
+"href": "https://www.wftv.com/news/local/osceola-county-judge-reprimanded-lengthy-delays/GAGQ6PFZGZFTXIGAAJFEXOJQO4/"
+},
+{
+"text": "she resigned from the judiciary altogether",
+"href": "https://www.flgov.com/wp-content/uploads/2023/09/9th-Cir.-Nunez-Navarro.pdf"
+}
 ]

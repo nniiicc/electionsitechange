@@ -1,4 +1,4 @@
-1.
+Skip navigation menu About Issues Media Shop Endorsements Apply for a Role Donate Terms of Service About Issues Media Shop Endorsements Apply for a Role Donate Terms of Service Lander for Congress 1.
 By opting in to receive text messages from Lander for Congress, you consent to receive voter contact, donation asks, and informational messages.
 2.
 You can cancel the SMS service at any time.
@@ -15,4 +15,5 @@ As always, message and data rates may apply for any messages sent to you from us
 You will receive messages multiple times a week.
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 6.
-If you have any questions regarding privacy, please read our privacy policy.
+If you have any questions regarding privacy, please read our privacy policy .
+Powered by RUN! website builder PAID FOR BY LANDER FOR CONGRESS You need to enable JavaScript to run this app.

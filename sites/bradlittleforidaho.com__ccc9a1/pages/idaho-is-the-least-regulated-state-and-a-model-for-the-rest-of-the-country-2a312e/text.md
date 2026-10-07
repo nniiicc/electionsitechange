@@ -1,6 +1,4 @@
-Idaho is the Least Regulated State and a Model for the Rest of the Country
-By James Broughel, The Bridge
-Last month, Idaho Governor Brad Little announced that the state cut more than 1,800 pages of regulations in 2019, bringing its total regulatory count down to just 41,000 restrictions.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu Idaho is the Least Regulated State and a Model for the Rest of the Country Jan 2, 2021 By James Broughel, The Bridge Last month, Idaho Governor Brad Little announced that the state cut more than 1,800 pages of regulations in 2019, bringing its total regulatory count down to just 41,000 restrictions.
 If this new count is accurate, it would make Idaho the least regulated state in the nation, according to recent research from the Mercatus Center.
 That’s great news for Idaho.
 But what does this development mean for the future of regulatory policy more generally?
@@ -21,3 +19,6 @@ This is a drawback because it means regulations are unlikely to be evidence-base
 But it also presents an opportunity because states can experiment in areas where the federal government has come up short.
 For instance, the federal government rarely bothers to analyze the stock of existing regulations, focusing instead on new rules.
 This is a major problem, but it’s one area where the states can lead the way.
+Read the full article from The Bridge here.
+Back P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

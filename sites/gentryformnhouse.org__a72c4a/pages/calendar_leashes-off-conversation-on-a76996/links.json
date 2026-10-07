@@ -1,19 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Leashes+off%2C+Conversation+on&dates=20260805T230000Z%2F20260806T003000Z&location=18599+Gary+Street%2C+Elk+River%2C+Minnesota%2C+55330%2C+United+States",
-"http://maps.google.com/?q=18599+Gary+Street+Elk+River%2C+Minnesota%2C+55330+United+States",
-"https://gentryformnhouse.org/",
-"https://gentryformnhouse.org/calendar",
-"https://gentryformnhouse.org/calendar/coffee-and-convo-1-5ladn",
-"https://gentryformnhouse.org/calendar/leashes-off-conversation-on?format=ical",
-"https://gentryformnhouse.org/calendar/night-to-unite",
-"https://gentryformnhouse.org/cart",
-"https://gentryformnhouse.org/contact",
-"https://gentryformnhouse.org/district",
-"https://gentryformnhouse.org/endorsed-by",
-"https://gentryformnhouse.org/get-involved",
-"https://gentryformnhouse.org/issues",
-"https://gentryformnhouse.org/issues-1",
-"https://gentryformnhouse.org/voting-resources",
-"https://mobilize.us/mobilize/event/993120",
-"https://secure.actblue.com/donate/keenan-gentry-30b"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=18599+gary+street+elk+river%2C+minnesota%2C+55330+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gentryformnhouse.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gentryformnhouse.org/#contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/keenan-gentry-30b"
+},
+{
+"text": "Endorsed By",
+"href": "https://www.gentryformnhouse.org/endorsed-by"
+},
+{
+"text": "Folder: Contact",
+"href": "https://www.gentryformnhouse.org/contact"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gentryformnhouse.org/issues-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gentryformnhouse.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Leashes+off%2C+Conversation+on&dates=20260805T230000Z%2F20260806T003000Z&location=18599+Gary+Street%2C+Elk+River%2C+Minnesota%2C+55330%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.gentryformnhouse.org/calendar/leashes-off-conversation-on?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.gentryformnhouse.org/issues"
+},
+{
+"text": "Leashes Off, Conversations On: Elk River · Mobilize",
+"href": "https://www.mobilize.us/mobilize/event/993120/"
+},
+{
+"text": "Look At Your District",
+"href": "https://www.gentryformnhouse.org/district"
+},
+{
+"text": "Next Next August 16 Coffee and Convo",
+"href": "https://www.gentryformnhouse.org/calendar/coffee-and-convo-1-5ladn"
+},
+{
+"text": "Previous Previous August 4 Night to Unite",
+"href": "https://www.gentryformnhouse.org/calendar/night-to-unite"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.gentryformnhouse.org/voting-resources"
+},
+{
+"text": "[image: Keenan Gentry for State House Rep district 30B]",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "votekeenangentry@gmail.com",
+"href": "mailto:votekeenangentry@gmail.com"
+}
 ]

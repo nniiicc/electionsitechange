@@ -1,23 +1,118 @@
 [
-"https://facebook.com/profile.php?id=61583499556979&mibextid=wwXIfr&rdid=YrUXHKQ5JQXdi1cy",
-"https://facebook.com/profile.php?id=61583499556979&mibextid=wwXIfr&rdid=mDk1hnNzuOwiYxxk",
-"https://instagram.com/pattiadairor",
-"https://pattiforcongress.com/",
-"https://pattiforcongress.com/about",
-"https://pattiforcongress.com/endorsements",
-"https://pattiforcongress.com/media",
-"https://pattiforcongress.com/news",
-"https://pattiforcongress.com/priorities",
-"https://pattiforcongress.com/privacy",
-"https://pattiforcongress.com/terms",
-"https://pattiforcongress.com/volunteer",
-"https://secure.winred.com/patti-adair-for-congress/website-donate",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=100",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=1000",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=20",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=250",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=3500",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=50",
-"https://secure.winred.com/patti-adair-for-congress/website-donate?amount=500",
-"https://x.com/pattiadairor"
+{
+"text": "$100",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=1000"
+},
+{
+"text": "$20",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=250"
+},
+{
+"text": "$3500",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate?amount=500"
+},
+{
+"text": "ABOUT",
+"href": "https://www.pattiforcongress.com/about"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@pattiforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate"
+},
+{
+"text": "DONATE NOW TO SEND PATTI ADAIR TO CONGRESS",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.pattiforcongress.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.pattiforcongress.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.pattiforcongress.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.pattiforcongress.com/volunteer"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.pattiforcongress.com/about"
+},
+{
+"text": "MEDIA",
+"href": "https://www.pattiforcongress.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://www.pattiforcongress.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/patti-adair-for-congress/website-donate"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.pattiforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pattiforcongress.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.pattiforcongress.com/terms"
+},
+{
+"text": "[image: Adair socials (1)]",
+"href": "https://www.facebook.com/profile.php?id=61583499556979&mibextid=wwXIfr&rdid=YrUXHKQ5JQXdi1cy"
+},
+{
+"text": "[image: Adair socials (2)]",
+"href": "https://x.com/pattiadairor"
+},
+{
+"text": "[image: Adair socials (3)]",
+"href": "https://www.instagram.com/pattiadairor"
+},
+{
+"text": "[image: Adair socials (4)]",
+"href": "https://www.instagram.com/pattiadairor"
+},
+{
+"text": "[image: Adair socials (5)]",
+"href": "https://x.com/pattiadairor"
+},
+{
+"text": "[image: Adair socials (6)]",
+"href": "https://www.facebook.com/profile.php?id=61583499556979&mibextid=wwXIfr&rdid=mDk1hnNzuOwiYxxk"
+},
+{
+"text": "[image: Logo-PattiAdair-Color.png]",
+"href": "https://www.pattiforcongress.com"
+}
 ]

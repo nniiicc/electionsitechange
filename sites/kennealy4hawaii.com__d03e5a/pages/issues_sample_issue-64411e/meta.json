@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.kennealy4hawaii.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "12e7a9bb507158cfcc4006ab76bcad13132d6b00",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Self-sustainability",
  "years_mentioned": []
 }

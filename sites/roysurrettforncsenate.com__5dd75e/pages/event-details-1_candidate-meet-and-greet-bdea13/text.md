@@ -1,5 +1,2 @@
-Thu, Sep 24
-Matamuskeet Outpost
-Meet your NC State Senate District 2 Candidate, Roy Surrett.
-Sep 24, 2026, 6:00 PM – 8:00 PM
-Matamuskeet Outpost, 23145 US-264, Swanquarter, NC 27885, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Candidate Meet and Greet Thu, Sep 24 | Matamuskeet Outpost Meet your NC State Senate District 2 Candidate, Roy Surrett.
+Time & Location Sep 24, 2026, 6:00 PM – 8:00 PM Matamuskeet Outpost, 23145 US-264, Swanquarter, NC 27885, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

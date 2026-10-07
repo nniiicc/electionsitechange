@@ -1,28 +1,114 @@
 [
-"https://bsky.app/profile/killinforco.bsky.social",
-"https://designedtorun.com/",
-"https://dropbox.com/scl/fo/k3e2tdt2fb5al85wgumiu/AACCKO_4XdDOVAwzpMa09O4?rlkey=ugdmes3o5e8wa7lun7pzn9j47&st=namcpji6&dl=0",
-"https://facebook.com/killinforco",
-"https://instagram.com/killinforco",
-"https://killinforcolorado.com/",
-"https://killinforcolorado.com/54305416-a36b-47d1-9ba2-96b0a9418bea",
-"https://killinforcolorado.com/about",
-"https://killinforcolorado.com/ads",
-"https://killinforcolorado.com/contact",
-"https://killinforcolorado.com/endorsers",
-"https://killinforcolorado.com/events",
-"https://killinforcolorado.com/priorities",
-"https://killinforcolorado.com/privacy-policy",
-"https://mobilize.us/killinforcolorado",
-"https://secure.actblue.com/donate/killin-web",
-"https://secure.actblue.com/donate/killin-web?amount=10",
-"https://secure.actblue.com/donate/killin-web?amount=100",
-"https://secure.actblue.com/donate/killin-web?amount=25",
-"https://secure.actblue.com/donate/killin-web?amount=250",
-"https://secure.actblue.com/donate/killin-web?amount=50",
-"https://secure.actblue.com/donate/killin-web?amount=other",
-"https://store.killinforcolorado.com/",
-"https://tiktok.com/@killinforcolorado",
-"https://x.com/killinforco",
-"https://youtube.com/@KillinforCO"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/killin-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/killin-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/killin-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/killin-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/killin-web?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.killinforcolorado.com/about"
+},
+{
+"text": "Ads",
+"href": "https://www.killinforcolorado.com/ads"
+},
+{
+"text": "B-Roll",
+"href": "https://www.dropbox.com/scl/fo/k3e2tdt2fb5al85wgumiu/AACCKO_4XdDOVAwzpMa09O4?rlkey=ugdmes3o5e8wa7lun7pzn9j47&st=namcpji6&dl=0"
+},
+{
+"text": "Contact",
+"href": "https://www.killinforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/killin-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.killinforcolorado.com/endorsers"
+},
+{
+"text": "Events & Yard Signs",
+"href": "https://www.killinforcolorado.com/events"
+},
+{
+"text": "Learn More",
+"href": "https://www.killinforcolorado.com/about"
+},
+{
+"text": "Merch Store",
+"href": "https://store.killinforcolorado.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/killin-web?amount=other"
+},
+{
+"text": "Priorities",
+"href": "https://www.killinforcolorado.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.killinforcolorado.com/privacy-policy"
+},
+{
+"text": "Privacy Policy. Terms of Service.",
+"href": "https://www.killinforcolorado.com/54305416-a36b-47d1-9ba2-96b0a9418bea"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/killinforcolorado/"
+},
+{
+"text": "[image: Jessica Killin for Congress]",
+"href": "https://www.killinforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/killinforco.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/killinforco"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/killinforco"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@killinforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/killinforco"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@KillinforCO"
+},
+{
+"text": "info@killinforcolorado.com",
+"href": "mailto:info@killinforcolorado.com"
+}
 ]

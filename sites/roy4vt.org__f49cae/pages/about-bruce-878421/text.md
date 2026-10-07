@@ -1,5 +1,4 @@
-Embedded Files
-Bruce is a long time Vermont resident, graduating from Essex Junction High School and the University of Vermont.
+Search this site Embedded Files Skip to main content Skip to navigation Bruce Roy for VT Senate Home About Bruce Positions Endorsements Contact Donate Bruce Roy for VT Senate Home About Bruce Positions Endorsements Contact Donate More Home About Bruce Positions Endorsements Contact Donate About Bruce Follow Bruce Roy on Facebook , LinkedIn , Youtube Bruce is a long time Vermont resident, graduating from Essex Junction High School and the University of Vermont.
 After a four year tour on USAF active duty, he returned to Vermont joining IBM as an engineer and continuing his military service as a member of the Vermont Air National Guard.
 Bruce had successful 30 year careers at both organizations, retiring as a Colonel from the Green Mountain Boys in 2008, and an accomplished business leader from IBM in 2013.
 Bruce was also an elected member of the Essex School Board, and a 10 year instructor at the Community College of VT.
@@ -25,14 +24,7 @@ Travelling on Vermont's current path is not a road to success.
 As a fiscal conservative and social moderate, I will focus on the responsible , sensible use of taxpayers’ dollars and supporting Governor Scott in his efforts to do the same.
 Making Vermont affordable has to be priority one.
 I offer Chittenden County voters a clear choice for change in Montpelier.
-Hinesburg, Vermont
-A bend in the road is not the end of the road, unless you fail to make the turn.
-- Helen Keller
-Contribution check can be made out & mailed to:
-BRUCE ROY FOR VERMONT
-P.O.
-Box 184, Williston, VT 05495-0184
-*Bruce Roy is a retired member of the US Air Force.
+Hinesburg, Vermont A bend in the road is not the end of the road, unless you fail to make the turn. - Helen Keller Contribution check can be made out & mailed to: BRUCE ROY FOR VERMONT P.O.
+Box 184, Williston, VT 05495-0184 * Bruce Roy is a retired member of the US Air Force.
 Use of Colonel Roy’s military rank, job titles, and photographs in uniform does not imply endorsement by the USAF or the DOD.
-Page updated
-Report abuse
+Report abuse Page details Page updated Report abuse

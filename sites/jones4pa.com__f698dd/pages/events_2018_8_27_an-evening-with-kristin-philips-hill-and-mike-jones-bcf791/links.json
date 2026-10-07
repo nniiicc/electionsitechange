@@ -1,14 +1,58 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Kristin+Phillips-Hill+and+Mike+Jones&dates=20180912T220000Z%2F20180913T000000Z&location=210+York+Street%2C+York%2C+PA%2C+17403%2C+United+States",
-"http://instagram.com/jonesforpa",
-"http://maps.google.com/?q=210+York+Street+York%2C+PA%2C+17403+United+States",
-"https://facebook.com/jonesforpa",
-"https://jones4pa.com/",
-"https://jones4pa.com/bio",
-"https://jones4pa.com/contact",
-"https://jones4pa.com/donate",
-"https://jones4pa.com/events",
-"https://jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones",
-"https://jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones?format=ical",
-"https://jones4pa.com/home"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=210+york+street+york%2C+pa%2C+17403+united+states"
+},
+{
+"text": "About Mike",
+"href": "https://www.jones4pa.com/bio"
+},
+{
+"text": "An Evening With Dave Sunday and Mike Jones",
+"href": "https://www.jones4pa.com/events/2018/10/2/an-evening-with-dave-sunday-and-mike-jones"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jones4pa.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.jones4pa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jones4pa.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.jones4pa.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=An+Evening+With+Kristin+Phillips-Hill+and+Mike+Jones&dates=20180912T220000Z%2F20180913T000000Z&location=210+York+Street%2C+York%2C+PA%2C+17403%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.jones4pa.com/events/2018/8/27/an-evening-with-kristin-philips-hill-and-mike-jones?format=ical"
+},
+{
+"text": "[image: Jones For PA]",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jonesforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jonesforpa/"
+},
+{
+"text": "home",
+"href": "https://www.jones4pa.com/home"
+}
 ]

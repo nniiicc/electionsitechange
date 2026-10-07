@@ -1,7 +1,14 @@
 {
  "description": "Official campaign site of Dustin Manwaring. State Representative- Idaho House District 29",
  "final_url": "https://manwaringforidaho.org/",
+ "fingerprint": "54b9e00a16bb0deba3b3fc7affed8376a0a6bad7",
+ "format": 3,
  "paid_for_by": "Paid for by Manwaring for Idaho",
  "title": "Manwaring for Idaho",
- "years_mentioned": []
+ "years_mentioned": [
+  "2017",
+  "2018",
+  "2021",
+  "2022"
+ ]
 }

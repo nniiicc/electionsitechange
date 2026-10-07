@@ -1,13 +1,11 @@
-Tonya Pfaff's Platform
-It is vital that Vigo County have representation in the Indiana House of Representative’s that will fight for what we need, and Tonya Pfaff does that.
+Home About Tonya Platform Volunteer Donate Home About Tonya Platform Volunteer Donate Tonya Pfaff's Platform It is vital that Vigo County have representation in the Indiana House of Representative’s that will fight for what we need, and Tonya Pfaff does that.
 She stands up for the interests of Terre Haute, West Terre Haute, Seelyville and all of Vigo County.
 Tonya was born, raised and educated in Terre Haute.
 With her husband retired Col.
 Chris Pfaff, she has had the opportunity to live and travel in other cities, states and countries, giving her the experience and contacts to help our community.
 Tonya Pfaff just completed her first time and wants to continue fighting for Terre Haute and Vigo County.
 She wants our community to provide the jobs and quality of life for all citizens so that we can attract and retain the next generation.
-“I have three key planks in my platform, and, working with others in our community, I believe we can and will make Terre Haute a better place.”
-1.
+“I have three key planks in my platform, and, working with others in our community, I believe we can and will make Terre Haute a better place.” 1.
 Education.
 I am a career high school math teacher and am in my 28th year in the Vigo County School Corporation.
 I’ve taught three years at Terre Haute South Vigo, 15 years at West Vigo High School, and am in my eighth year at Terre Haute North Vigo.
@@ -28,3 +26,4 @@ Local taxpayers can’t shoulder the whole cost alone.
 We have miles of federal and state funded highways in Vigo County and we need the state to adequately fund their care and upkeep.
 Our county roads and city streets depend on adequate funding from the state, and I am working to make sure our needs are known and funded.
 We also need to establish a high speed broadband network that is available and affordable to every home and business in the district to ensure that our children, families and businesses can learn and compete in the global economy.
+Paid for by Elect Tonya Pfaff Back to Top Contact Us Powered by Squarespace

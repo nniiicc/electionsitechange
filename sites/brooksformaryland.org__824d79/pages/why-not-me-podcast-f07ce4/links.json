@@ -1,23 +1,94 @@
 [
-"https://brooksformaryland.org/",
-"https://brooksformaryland.org/about",
-"https://brooksformaryland.org/contact",
-"https://brooksformaryland.org/gallery",
-"https://brooksformaryland.org/good-trouble-lives-on-rally",
-"https://brooksformaryland.org/issues",
-"https://brooksformaryland.org/its-official",
-"https://brooksformaryland.org/news",
-"https://brooksformaryland.org/news-updates",
-"https://brooksformaryland.org/testimonials",
-"https://brooksformaryland.org/voting",
-"https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform",
-"https://facebook.com/BrooksforMaryland",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fbrooksformaryland.org%2Fwhy-not-me-podcast%2F",
-"https://instagram.com/brooksformaryland",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fbrooksformaryland.org%2Fwhy-not-me-podcast%2F",
-"https://secure.actblue.com/donate/amy-brooks-delegate",
-"https://tiktok.com/@amy.b9640",
-"https://twitter.com/share?url=https%3A%2F%2Fbrooksformaryland.org%2Fwhy-not-me-podcast%2F",
-"https://whynotme2028.com/2511896",
-"https://whynotme2028.com/2511896/episodes/17850083-why-not-a-teacher-a-conversation-with-amy-brooks"
+{
+"text": "About",
+"href": "https://brooksformaryland.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://brooksformaryland.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-brooks-delegate"
+},
+{
+"text": "Gallery",
+"href": "https://brooksformaryland.org/gallery/"
+},
+{
+"text": "Issues",
+"href": "https://brooksformaryland.org/issues/"
+},
+{
+"text": "It’s Official! →",
+"href": "https://brooksformaryland.org/its-official/"
+},
+{
+"text": "News",
+"href": "https://brooksformaryland.org/news/"
+},
+{
+"text": "Updates",
+"href": "https://brooksformaryland.org/news-updates/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform"
+},
+{
+"text": "Voting",
+"href": "https://brooksformaryland.org/voting/"
+},
+{
+"text": "Why Amy?",
+"href": "https://brooksformaryland.org/testimonials/"
+},
+{
+"text": "Why Not Me? here",
+"href": "https://www.whynotme2028.com/2511896"
+},
+{
+"text": "Why Not a Teacher? A Conversation with Amy Brooks",
+"href": "https://www.whynotme2028.com/2511896/episodes/17850083-why-not-a-teacher-a-conversation-with-amy-brooks"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Fbrooksformaryland.org%2Fwhy-not-me-podcast%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrooksformaryland.org%2Fwhy-not-me-podcast%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrooksformaryland.org%2Fwhy-not-me-podcast%2F"
+},
+{
+"text": "email",
+"href": "mailto:info@brooksformaryland.org"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/BrooksforMaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/brooksformaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.tiktok.com/@amy.b9640"
+},
+{
+"text": "← Good Trouble Lives On",
+"href": "https://brooksformaryland.org/good-trouble-lives-on-rally/"
+}
 ]

@@ -1,9 +1,86 @@
 [
-"https://bluesquarealliance.org/",
-"https://facebook.com/HoseyforRI",
-"https://hoseyforri.com/about.html",
-"https://hoseyforri.com/index.html",
-"https://instagram.com/HoseyforRI",
-"https://secure.winred.com/friends-of-joseph-hosey/donate-today",
-"https://x.com/HoseyForRI"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "@HoseyforRI",
+"href": "https://www.facebook.com/HoseyforRI"
+},
+{
+"text": "About Joe",
+"href": "https://hoseyforri.com/about.html"
+},
+{
+"text": "Contact Joe's team",
+"href": "mailto:HoseyforRI@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "Donate to Joe's Campaign",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "Elect Joe Hosey",
+"href": "https://hoseyforri.com/index.html"
+},
+{
+"text": "Home",
+"href": "https://hoseyforri.com/index.html"
+},
+{
+"text": "IGFollow on Instagram",
+"href": "https://www.instagram.com/HoseyforRI"
+},
+{
+"text": "Join the list",
+"href": "mailto:HoseyforRI@gmail.com?subject=Add+me+to+the+campaign+email+list"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "Read Joe's Story",
+"href": "https://hoseyforri.com/about.html"
+},
+{
+"text": "Request a sign",
+"href": "mailto:HoseyforRI@gmail.com?subject=Yard+sign+request"
+},
+{
+"text": "Volunteer",
+"href": "mailto:HoseyforRI@gmail.com?subject=I+want+to+volunteer+for+Joe+Hosey"
+},
+{
+"text": "XFollow on X",
+"href": "https://x.com/HoseyForRI"
+},
+{
+"text": "[image: # Blue Square]",
+"href": "https://www.bluesquarealliance.org/"
+},
+{
+"text": "[image: QR code for donating to Friends of Joseph Hosey] Scan or tap to donate",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "fFollow on Facebook",
+"href": "https://www.facebook.com/HoseyforRI"
+}
 ]

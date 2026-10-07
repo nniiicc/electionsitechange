@@ -1,14 +1,78 @@
 [
-"https://facebook.com/Manring4MO127",
-"https://secure.actblue.com/donate/manring4mo127",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://twitter.com/manring4mo127",
-"https://upballot.com/",
-"https://upballot.com/Marvin-Manring",
-"https://upballot.com/Marvin-Manring/about",
-"https://upballot.com/Marvin-Manring/events",
-"https://upballot.com/Marvin-Manring/get-involved",
-"https://upballot.com/Marvin-Manring/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Marvin",
+"href": "https://www.upballot.com/Marvin-Manring/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/manring4mo127"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Marvin-Manring/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Marvin-Manring/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Marvin-Manring"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Marvin-Manring/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Reach Out",
+"href": "mailto:manring4mo127@gmail.com?subject=Volunteer+Interest+for+Marvin+Manring&body=I%E2%80%99m+interested+in+volunteering+for+Marvin+Manring%E2%80%99s+campaign."
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "View Events",
+"href": "https://www.upballot.com/Marvin-Manring/events/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "[image: Marvin Manring Logo]",
+"href": "https://www.upballot.com/Marvin-Manring/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/manring4mo127"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Manring4MO127"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/Manring4MO127"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/manring4mo127"
+},
+{
+"text": "manring4mo127@gmail.com",
+"href": "mailto:manring4mo127@gmail.com"
+},
+{
+"text": "tel:417-955-4800",
+"href": "tel:417-955-4800"
+}
 ]

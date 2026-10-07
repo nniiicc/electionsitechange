@@ -1,71 +1,342 @@
 [
-"http://apolloartistry.com/",
-"https://colinallred.com/",
-"https://colinallred.com/affordability",
-"https://colinallred.com/bluesky",
-"https://colinallred.com/cdn-cgi/l/email-protection",
-"https://colinallred.com/corruption",
-"https://colinallred.com/donate",
-"https://colinallred.com/facebook",
-"https://colinallred.com/immigration",
-"https://colinallred.com/instagram",
-"https://colinallred.com/media",
-"https://colinallred.com/privacy-policy",
-"https://colinallred.com/substack",
-"https://colinallred.com/threads",
-"https://colinallred.com/tiktok",
-"https://colinallred.com/twitter",
-"https://colinallred.com/volunteer",
-"https://colinallred.com/youtube",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://marley.colinallred.com/",
-"https://secure.actblue.com/donate/allred-web",
-"https://secure.actblue.com/donate/allred-web?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/allred-web?amount=100",
-"https://secure.actblue.com/donate/allred-web?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/allred-web?amount=25",
-"https://secure.actblue.com/donate/allred-web?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/allred-web?amount=250",
-"https://secure.actblue.com/donate/allred-web?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/allred-web?amount=5",
-"https://secure.actblue.com/donate/allred-web?amount=500&express_lane=true",
-"https://secure.actblue.com/donate/allred-web?amount=56",
-"https://secure.actblue.com/donate/allred-web?amount=56&express_lane=true",
-"https://secure.actblue.com/donate/allred-web?express_lane=true",
-"https://twitter.com/ColinAllredTX/status/2102191629285147109",
-"https://twitter.com/ColinAllredTX/status/2102457756339028239",
-"https://twitter.com/ColinAllredTX/status/2102802934605992441",
-"https://twitter.com/ColinAllredTX/status/2103175538139611234",
-"https://twitter.com/ColinAllredTX/status/2104633354234757474",
-"https://twitter.com/ColinAllredTX/status/2105017293927563631",
-"https://twitter.com/ColinAllredTX/status/2105060523993628848",
-"https://twitter.com/ColinAllredTX/status/2105716239209292123",
-"https://twitter.com/ColinAllredTX/status/2106096417815286203",
-"https://twitter.com/intent/like?tweet_id=2102191629285147109",
-"https://twitter.com/intent/like?tweet_id=2102457756339028239",
-"https://twitter.com/intent/like?tweet_id=2102802934605992441",
-"https://twitter.com/intent/like?tweet_id=2103175538139611234",
-"https://twitter.com/intent/like?tweet_id=2104633354234757474",
-"https://twitter.com/intent/like?tweet_id=2105017293927563631",
-"https://twitter.com/intent/like?tweet_id=2105060523993628848",
-"https://twitter.com/intent/like?tweet_id=2105716239209292123",
-"https://twitter.com/intent/like?tweet_id=2106096417815286203",
-"https://twitter.com/intent/retweet?tweet_id=2102191629285147109",
-"https://twitter.com/intent/retweet?tweet_id=2102457756339028239",
-"https://twitter.com/intent/retweet?tweet_id=2102802934605992441",
-"https://twitter.com/intent/retweet?tweet_id=2103175538139611234",
-"https://twitter.com/intent/retweet?tweet_id=2104633354234757474",
-"https://twitter.com/intent/retweet?tweet_id=2105017293927563631",
-"https://twitter.com/intent/retweet?tweet_id=2105060523993628848",
-"https://twitter.com/intent/retweet?tweet_id=2105716239209292123",
-"https://twitter.com/intent/retweet?tweet_id=2106096417815286203",
-"https://twitter.com/intent/tweet?in_reply_to=2102191629285147109",
-"https://twitter.com/intent/tweet?in_reply_to=2102457756339028239",
-"https://twitter.com/intent/tweet?in_reply_to=2102802934605992441",
-"https://twitter.com/intent/tweet?in_reply_to=2103175538139611234",
-"https://twitter.com/intent/tweet?in_reply_to=2104633354234757474",
-"https://twitter.com/intent/tweet?in_reply_to=2105017293927563631",
-"https://twitter.com/intent/tweet?in_reply_to=2105060523993628848",
-"https://twitter.com/intent/tweet?in_reply_to=2105716239209292123",
-"https://twitter.com/intent/tweet?in_reply_to=2106096417815286203"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/allred-web?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/allred-web?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/allred-web?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/allred-web?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/allred-web?amount=500&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/allred-web?amount=56&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/allred-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/allred-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/allred-web?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/allred-web?amount=5"
+},
+{
+"text": "$56",
+"href": "https://secure.actblue.com/donate/allred-web?amount=56"
+},
+{
+"text": "Accessibility",
+"href": "https://colinallred.com/privacy-policy/#accessibility"
+},
+{
+"text": "Chat",
+"href": "https://marley.colinallred.com/"
+},
+{
+"text": "Click to Start Chat",
+"href": "https://marley.colinallred.com/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@colinallred.com"
+},
+{
+"text": "Donate Donate",
+"href": "https://colinallred.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://colinallred.com/facebook"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Get involved with Team Allred",
+"href": "https://colinallred.com/volunteer"
+},
+{
+"text": "Information",
+"href": "https://colinallred.com/media"
+},
+{
+"text": "Instagram",
+"href": "https://colinallred.com/instagram"
+},
+{
+"text": "Marley Hi! I'm Colin Allred's pup — and I'm here to help you learn about what he's fighting for in Texas's 33rd Congressional District. 3:15 AM",
+"href": "https://marley.colinallred.com/"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/allred-web?express_lane=true"
+},
+{
+"text": "Other Amount...",
+"href": "https://secure.actblue.com/donate/allred-web"
+},
+{
+"text": "Powered By Apollo",
+"href": "http://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:press@colinallred.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://colinallred.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://colinallred.com/affordability"
+},
+{
+"text": "Read More",
+"href": "https://colinallred.com/corruption"
+},
+{
+"text": "Read More",
+"href": "https://colinallred.com/immigration"
+},
+{
+"text": "Sign up here to receive text updates. By participating, you consent to recurring autodialed campaign and donation messages from Colin Allred to the phone number you provide. No purchase or donation required. Msg&data rates may apply. Text STOP to end. Terms of Service & Privacy Policy apply.",
+"href": "https://colinallred.com/privacy-policy"
+},
+{
+"text": "Threads",
+"href": "https://colinallred.com/threads"
+},
+{
+"text": "Tiktok",
+"href": "https://colinallred.com/tiktok"
+},
+{
+"text": "Volunteer",
+"href": "https://colinallred.com/volunteer"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://colinallred.com/volunteer"
+},
+{
+"text": "X-twitter",
+"href": "https://colinallred.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://colinallred.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://colinallred.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://colinallred.com"
+},
+{
+"text": "[image]",
+"href": "https://marley.colinallred.com/"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/bluesky"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/facebook"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/instagram"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/substack"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/threads"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/tiktok"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/twitter"
+},
+{
+"text": "[no text]",
+"href": "https://colinallred.com/youtube"
+},
+{
+"text": "[no text]",
+"href": "https://marley.colinallred.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2104633354234757474"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2105017293927563631"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2105060523993628848"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2105716239209292123"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2106096417815286203"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2107147319372353832"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2107168243278569770"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2107513754825191868"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColinAllredTX/status/2107581312236163340"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2104633354234757474"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2105017293927563631"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2105060523993628848"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2105716239209292123"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2106096417815286203"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107147319372353832"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107168243278569770"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107513754825191868"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/like?tweet_id=2107581312236163340"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2104633354234757474"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2105017293927563631"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2105060523993628848"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2105716239209292123"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2106096417815286203"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107147319372353832"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107168243278569770"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107513754825191868"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/retweet?tweet_id=2107581312236163340"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2104633354234757474"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2105017293927563631"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2105060523993628848"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2105716239209292123"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2106096417815286203"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107147319372353832"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107168243278569770"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107513754825191868"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2107581312236163340"
+}
 ]

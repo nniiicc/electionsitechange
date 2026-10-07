@@ -1,4 +1,4 @@
-Why am I running for Governor?
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Why am I running for Governor?
 I am running for Governor of Idaho because it is time for real leadership and real change.
 For too long, Idahoans have been told to trust career politicians who claim to represent our interests, only to see decisions made that ignore our values, our families, and our freedoms.
 I am running because Idaho deserves a Governor who listens, acts, and puts the people of this state first—not the agendas of outsiders, special interests, or billionaires.
@@ -16,3 +16,4 @@ These lands are ours to cherish, not to exploit for short-term gain.
 I am running to be a Governor who acts, protects, and leads with integrity.
 I will fight for Idahoans, for families, for our children, and for the freedom and prosperity that this great state deserves.
 Together, we will ensure Idaho remains a place of opportunity, pride, and independence.
+TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

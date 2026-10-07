@@ -1,9 +1,7 @@
-Judge Jamison is honored to accept the endorsement of the Human Rights Campaign.
-Al Snodgrass released the statement,
-“Every family and every child deserves the same protections as everyone else – to live their lives with safety, dignity, and privacy, and free from discrimination.
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison News / HRC PAC endorses for Supreme Court 15 Sep Thursday, 7:15 AM · 2022 HRC PAC endorses for Supreme Court Judge Jamison is honored to accept the endorsement of the Human Rights Campaign.
+Al Snodgrass released the statement, “Every family and every child deserves the same protections as everyone else – to live their lives with safety, dignity, and privacy, and free from discrimination.
 But today, 29 states, including Ohio, lack comprehensive protections for LGBTQ+ people.
 This means that LGBTQ+ Ohioans are at risk of discrimination in a variety of areas, such as housing, transportation and retail services.
 The Human Rights Campaign is proud to endorse Justice Jennifer L.
 Brunner, Judge Terri Jamison and Judge Marilyn Zayas for election to the Ohio Supreme Court.
-We know they will support LGBTQ+ equality and will make our state a better, more welcoming state for all who live here.”
-Full press release may be viewed here:
+We know they will support LGBTQ+ equality and will make our state a better, more welcoming state for all who live here.” Full press release may be viewed here: https://www.hrc.org/press-releases/human-rights-campaign-announces-key-endorsements-for-ohio-supreme-court Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

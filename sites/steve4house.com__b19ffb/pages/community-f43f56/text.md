@@ -1,5 +1,4 @@
-Community Leader
-Steve has actively been volunteering in the 11th district community since he attended Hazen High School.
+Skip to content Navigation Home Education Childcare Community Job Creation Contact Media Donate Search Home Education Childcare Community Job Creation Contact Media Donate Search Community Leader Steve has actively been volunteering in the 11th district community since he attended Hazen High School.
 As a teacher at Lindbergh High School, he has rallied the youth to support several local causes, including Habitat for Humanity and the Ronald McDonald house.
 Hundreds of high school youth have volunteered at these various establishments, including the Renton Salvation Army Food Bank and their annual Toy & Joy and Thanksgiving Adopt-a-Family drives.
 As a teacher, Steve serves daily as a role model for our kids and helps them to achieve their dreams.
@@ -12,3 +11,5 @@ The organization helps children with their physical, nutritional, financial and 
 The pilot program is scheduled to begin this spring.
 Steve currently serves on the boards of Renton Historical Society, Special Olympics of Washington, and the Renton Regional Community Foundation.
 Steve also served as board member for Communities in Schools of Washington.
+Volunteer – Habitat for Humanity Tennis Tournament Director - Renton River Days Volunteer - Mountains to Sound Greenway Volunteer – Ronald McDonald House Volunteer – Salvation Army Renton Food Bank Board Member - Renton Regional Community Foundation Citizens for Steve Bergquist P.O.
+Box 2050 Renton, WA 98056-0050 steve4house@gmail.com Facebook X LinkedIn YouTube Home Education Childcare Community Job Creation Contact Media Donate COPYRIGHT © STEVE BERGQUIST, #-# Type and Press “enter” to Search

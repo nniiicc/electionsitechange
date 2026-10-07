@@ -1,4 +1,4 @@
-The International Brotherhood of Electrical Workers Local 2032 would like to announce its endorsement of Scott Gray, for Member of the NYS Assembly in the 116th District.
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate IBEW Local 2032 Endorses Scott Gray for New York State Assembly September 28, 2022 by admin The International Brotherhood of Electrical Workers Local 2032 would like to announce its endorsement of Scott Gray, for Member of the NYS Assembly in the 116th District.
 Local 2032 represents the members employed at the St.
 Lawrence FDR Power Project in Massena, NY.
 We are proud to support a North Country native like Scott that will bring years of experience in many roles such as Board of Director of the Carthage Area Hospital, Chairman of the Jefferson County Board of Legislators, and local small business owner.
@@ -7,4 +7,4 @@ He has served as Chairman of the Jefferson County Board of Legislators.
 Clearly, he knows the importance of giving back to his community.
 By electing Scott Gray as a Member of the NYS Assembly in the 116th District on November 8, 2022, you are not only voting for experience but for a local candidate that will work hard to support our local workforce and economy.
 He will put the North Country first in Albany by utilizing the strong relationships with other elected officials that he has secured in his long history of public service.
-##
+## Category: News Previous Post: New York State Senator Patty Ritchie Endorses Scott Gray for the New York State Assembly in the River District Next Post: Businesses in New York Take Another Body Blow Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

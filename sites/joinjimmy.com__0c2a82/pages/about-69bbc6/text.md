@@ -1,4 +1,4 @@
-Congressman Jimmy Patronis is a fourth-generation Floridian and lifelong resident of Northwest Florida.
+Skip to content Endorsed By President Trump @JimmyPatronis HOME ABOUT News SHOP VOLUNTEER Contribute MEET JIMMY Congressman Jimmy Patronis is a fourth-generation Floridian and lifelong resident of Northwest Florida.
 He and wife Katie are proud parents to two sons, Theo (17) and Johnny (15).
 Jimmy worked for years at Capt.
 Anderson’s, his family’s historic seafood restaurant in Panama City Beach, which has served generations of locals and Florida visitors.
@@ -25,5 +25,7 @@ Matt Gaetz resigned from Congress, allowing Jimmy Patronis the opportunity to se
 In consultation with his wife Katie, and with President Trump’s endorsement, Patronis ran, and won, the FL CD-1 seat in a special election with a double-digit victory.
 As Congressman, Patronis has made his priorities supporting President Trump’s America First Agenda through cutting taxes, reining in spending, investing in the military and reforming veteran’s services to support those who gave so much to our country.
 Jimmy Patronis serves on the Transportation & Infrastructure and Small Business committees in Congress.
-PAID FOR BY FRIENDS OF JIMMY PATRONIS, INC.
+LET’S MAKE AMERICA GREAT AGAIN #JOINJIMMY CHIP IN!
+HOME ABOUT VOLUNTEER Contribute PAID FOR BY FRIENDS OF JIMMY PATRONIS, INC.
 Contributions to Friends of Jimmy Patronis are not deductible as charitable contributions for federal income tax purposes.
+HOME ABOUT VOLUNTEER NEWS FIND PRECINCT

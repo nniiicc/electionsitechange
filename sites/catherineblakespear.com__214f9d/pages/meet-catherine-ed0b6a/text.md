@@ -1,5 +1,4 @@
-Meet Catherine
-Principled Leadership.
+Skip to content Meet Catherine Priorities Endorsements Events Media Donate Meet Catherine Priorities Endorsements Events Media Donate Meet Catherine Priorities Endorsements Events Media Donate Meet Catherine Principled Leadership.
 Proven Results.
 Catherine Blakespear is a mom, fourth-generation San Diegan, attorney, and former journalist who has spent over a decade standing up for her community.
 She currently represents Senate District 38, covering northern San Diego County and southern Orange County.
@@ -17,12 +16,8 @@ She has also hosted multiple policy summits on ending homelessness, bringing tog
 Catherine is endorsed by Sierra Club California and chairs the Senate Environmental Quality Committee, where she leads the fight to protect our coastline from new offshore oil drilling, expand open space, and keep California at the forefront of climate action.
 On reproductive rights, Catherine is 100% pro-choice, 100% of the time.
 She is rated 100% by Planned Parenthood Affiliates of California.
-Honors and Recognition
-- Named the 2021 Partner of the Year by the non-profit transit agency Facilitating Access to Coordinated Transportation (FACT), in gratitude for her role as Chair of SANDAG.
-“Mayor Blakespear has truly been a partner in every sense, consistently supporting our mission of improving access to transportation for the people who need it most.”
-- Given the 2020 Climate Courage Award from the Climate Action Campaign.
-“Mayor Blakespear has demonstrated her commitment to bold climate action by tackling some of our region’s largest sources of emissions: transportation, energy, and housing.”
-- Awarded the 2020 Chair’s Award at the 40th annual Roosevelt Honors by the San Diego County Democratic Party for “bravery in doing the right thing on homelessness, housing, and transit, even when it’s unpopular.”
-- Designated by the San Diego Housing Federation for their 2020 Ruby Award for Outstanding Government Agency or Elected Official.
-“Her newsletters and thoughtful, nuanced approach to explaining the importance of housing… to residents should be a model for leaders across the region.”
-- Received the 2019 Walk the Walk Momentum Award from Circulate San Diego for being “a leader in creating protected safe bicycle facilities in her city, and for pushing to bring Encinitas into compliance with state housing laws.”
+Honors and Recognition Named the 2021 Partner of the Year by the non-profit transit agency Facilitating Access to Coordinated Transportation (FACT) , in gratitude for her role as Chair of SANDAG.
+“Mayor Blakespear has truly been a partner in every sense, consistently supporting our mission of improving access to transportation for the people who need it most.” Given the 2020 Climate Courage Award from the Climate Action Campaign .
+“Mayor Blakespear has demonstrated her commitment to bold climate action by tackling some of our region’s largest sources of emissions: transportation, energy, and housing.” Awarded the 2020 Chair’s Award at the 40 th annual Roosevelt Honors by the San Diego County Democratic Party for “bravery in doing the right thing on homelessness, housing, and transit, even when it’s unpopular.” Designated by the San Diego Housing Federation for their 2020 Ruby Award for Outstanding Government Agency or Elected Official .
+“Her newsletters and thoughtful, nuanced approach to explaining the importance of housing… to residents should be a model for leaders across the region.” Received the 2019 Walk the Walk Momentum Award from Circulate San Diego for being “a leader in creating protected safe bicycle facilities in her city, and for pushing to bring Encinitas into compliance with state housing laws.” [email protected] Catherine Blakespear for Senate 2026 // FPPC ID #1456912 You are in the 38th Senate district!
+Sorry, you are not in the 38th Senate District.

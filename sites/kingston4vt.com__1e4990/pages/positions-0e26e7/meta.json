@@ -1,9 +1,11 @@
 {
  "description": "Explore Vermont State Representative positions focusing on education funding, healthcare access, and economic opportunity.",
  "final_url": "https://kingston4vt.com/positions",
- "paid_for_by": null,
+ "fingerprint": "1521acba24cef53d207334bd1e0c5777e58d4f5d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Positions",
  "years_mentioned": [
-  "2026"
+  "2000"
  ]
 }

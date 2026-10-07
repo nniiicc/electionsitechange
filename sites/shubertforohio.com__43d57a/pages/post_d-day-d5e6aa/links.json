@@ -1,12 +1,62 @@
 [
-"https://army.mil/d-day",
-"https://facebook.com/shubertforohio",
-"https://instagram.com/shubertforohio",
-"https://secure.winred.com/shubert-for-ohio/donate-today",
-"https://shubertforohio.com/",
-"https://shubertforohio.com/biography",
-"https://shubertforohio.com/blog",
-"https://shubertforohio.com/early-voting-information",
-"https://shubertforohio.com/post/remembering-those-who-served-and-gave-their-life-for-freedom-and-liberty",
-"https://x.com/shubertforohio"
+{
+"text": "All Posts",
+"href": "https://www.shubertforohio.com/blog"
+},
+{
+"text": "Biography",
+"href": "https://www.shubertforohio.com/biography"
+},
+{
+"text": "Campaign Newsletter",
+"href": "https://www.shubertforohio.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shubert-for-ohio/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.shubertforohio.com#volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.shubertforohio.com"
+},
+{
+"text": "Remembering Those Who Served and Gave Their Life for Freedom and Liberty",
+"href": "https://www.shubertforohio.com/post/remembering-those-who-served-and-gave-their-life-for-freedom-and-liberty"
+},
+{
+"text": "See All",
+"href": "https://www.shubertforohio.com/blog"
+},
+{
+"text": "Voter Information",
+"href": "https://www.shubertforohio.com/early-voting-information"
+},
+{
+"text": "[image: CraigShubertLOGO.png]",
+"href": "https://www.shubertforohio.com"
+},
+{
+"text": "[image: men loading flag draped coffin onto plane]",
+"href": "https://www.shubertforohio.com/post/remembering-those-who-served-and-gave-their-life-for-freedom-and-liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/shubertforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/shubertforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/shubertforohio"
+},
+{
+"text": "army.mil/d-day/",
+"href": "https://www.army.mil/d-day/"
+}
 ]

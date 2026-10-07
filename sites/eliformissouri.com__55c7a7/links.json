@@ -1,11 +1,42 @@
 [
-"https://eliformissouri.com/privacy-policy",
-"https://eliformissouri.com/terms-and-conditions",
-"https://facebook.com/eliformissouri",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/eliformo",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/eliflowersformo",
-"https://tiktok.com/@eliformo"
+{
+"text": "Privacy Policy",
+"href": "https://eliformissouri.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://eliformissouri.com/terms-and-conditions"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/eliformissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eliformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@eliformo"
+},
+{
+"text": "click here for Eli's act blue",
+"href": "https://secure.actblue.com/donate/eliflowersformo"
+},
+{
+"text": "info@eliformissouri.com",
+"href": "mailto:info@eliformissouri.com"
+}
 ]

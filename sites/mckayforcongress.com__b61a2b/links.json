@@ -1,8 +1,30 @@
 [
-"https://facebook.com/McKayforCongress",
-"https://instagram.com/mckayforcongress?hl=en",
-"https://mckayforcongress.com/",
-"https://mckayforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/dan-mckay",
-"https://x.com/McKayCongress"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dan-mckay"
+},
+{
+"text": "Home",
+"href": "https://www.mckayforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mckayforcongress.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/McKayforCongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mckayforcongress/?hl=en"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/McKayCongress"
+},
+{
+"text": "https://www.mckayforcongress.com/privacy-policy",
+"href": "https://www.mckayforcongress.com/privacy-policy"
+}
 ]

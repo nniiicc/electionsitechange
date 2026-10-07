@@ -1,3 +1,7 @@
-No one should have to work multiple jobs just to scrape by.
+Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Carl E.
+Heastie Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment No one should have to work multiple jobs just to scrape by.
 Speaker Heastie helped enact a multi-year minimum wage increase, culminating in a $15 minimum wage in New York City, Long Island and Westchester by 2021.
 To ensure New Yorkers aren’t forced to choose between caring for their families and earning a paycheck, Speaker Heastie negotiated and passed a law allowing workers to take up to 12 weeks – when fully implemented in 2021 – of paid family leave to care for a newborn, sick relative or address issues related to a family member’s military service.
+Back to Top Donate FRIENDS OF CARL E.
+HEASTIE P.O.
+BOX 840 BRONX, NY 10469 info@heastiefornewyork.com

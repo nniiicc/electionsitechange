@@ -1,63 +1,414 @@
 [
-"http://denverurbanspectrum.com/articles/540941",
-"https://9news.com/article/news/politics/colorado-state-representatives-seeking-immigration-legal-defense-fund/73-1cc44aec-b0ac-4f87-9c8a-8f583c410c12",
-"https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature",
-"https://coloradopolitics.com/2020-election/ricks-takes-lead-in-house-district-40-democratic-primary/article_f1cae7b6-bbc5-11ea-9621-ffd4b9322881.html",
-"https://coloradopolitics.com/opinion/immigrants-as-well-have-a-right-to-an-attorney/article_5555de6e-9b43-11eb-9e42-5b90235572c2.html",
-"https://coloradosun.com/2021/06/23/insurance-bill-opinion-2",
-"https://denver.cbslocal.com/2021/02/13/aurora-covid-vaccine-pop-up-clinic",
-"https://denver.cbslocal.com/2021/05/10/towed-vehicles-denver-state-capitol-drivers",
-"https://denverpost.com/2021/04/22/racism-colorado-black-caucus-legislature",
-"https://denverpost.com/2021/06/26/immigration-colorado-legislature-2021-undocumented",
-"https://emergeamerica.org/emerge-launches-faces-of-nam-campaign-to-highlight-women-of-the-new-american-majority",
-"https://emergeamerica.org/faces-of-nam-rep-naquetta-ricks",
-"https://facebook.com/100000234522533/videos/5493074904043606",
-"https://facebook.com/RicksforColorado",
-"https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress",
-"https://instagram.com/ricks_cohd40",
-"https://lp.constantcontactpages.com/sl/OSLZRgH",
-"https://patch.com/colorado/denver/single-small-step-colorados-black-democratic-caucus-reacts-chauvin-verdict",
-"https://red.msudenver.edu/2021/from-refugee-to-colorado-house-representative.html",
-"https://ricks4co.com/",
-"https://ricks4co.com/constituent-corner",
-"https://ricks4co.com/contact-me",
-"https://ricks4co.com/hd40",
-"https://ricks4co.com/how-can-we-help",
-"https://ricks4co.com/legislation",
-"https://ricks4co.com/meet-naquetta",
-"https://ricks4co.com/new-page-1",
-"https://ricks4co.com/news",
-"https://ricks4co.com/news/biden-executive-order-brings-hope-and-memories-to-one-liberian-immigrant",
-"https://ricks4co.com/news/bill-aims-to-protect-owner-of-towed-vehicles",
-"https://ricks4co.com/news/black-woman-makes-colorado-black-history-and-where-are-blacks-in-the-immigration-conversation",
-"https://ricks4co.com/news/colorado-black-democratic-caucus-reacts-to-chauvin-verdict",
-"https://ricks4co.com/news/colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream",
-"https://ricks4co.com/news/colorado-state-representatives-seeking-immigration-legal-defense",
-"https://ricks4co.com/news/colorados-immigrants-now-have-more-protection-benefits-in-state-law",
-"https://ricks4co.com/news/covid-in-aurora-pop-up-vaccine-clinic-at-church-helps-sooth-uncertainties",
-"https://ricks4co.com/news/faces-of-nam-rep-naquetta-ricks",
-"https://ricks4co.com/news/from-refugee-to-colorado-house-representative",
-"https://ricks4co.com/news/immigrants-as-well-have-a-right-to-an-attorney",
-"https://ricks4co.com/news/lawmakers-want-legal-representation-fund-for-immigrants-housed-in-detention-centers",
-"https://ricks4co.com/news/march-for-citizenship-2021",
-"https://ricks4co.com/news/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-assembly",
-"https://ricks4co.com/news/our-legislation-aims-to-bring-accountability-and-transparency-to-the-insurance-industry",
-"https://ricks4co.com/news/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature",
-"https://ricks4co.com/news/racism-colorado-legislature-black-caucus",
-"https://ricks4co.com/news/representative-ricks-inspired-to-serve-as-a-voice-for-immigrants",
-"https://ricks4co.com/news/ricks-fostering-diversity-among-colorado-educators-benefits-students",
-"https://ricks4co.com/news/ricks-takes-lead-in-house-district-40-democratic-primary",
-"https://ricks4co.com/news?author=5d434ec31ad039000105d604",
-"https://ricks4co.com/news?author=600ef4954397fd5dd3e8533b",
-"https://ricks4co.com/news?offset=1595373685563",
-"https://ricks4co.com/news?offset=1635185458965&reversePaginate=true",
-"https://ricks4co.com/on-the-issues",
-"https://ricks4co.com/photo-gallery",
-"https://secure.actblue.com/donate/ricks-for-colorado-1",
-"https://sentinelcolorado.com/news/dream-on-amid-a-housing-crisis-accelerated-by-the-pandemic-colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream",
-"https://sentinelcolorado.com/opinion/ricks-fostering-diversity-among-colorado-educators-benefits-all-students",
-"https://twitter.com/NaquettaR",
-"https://youtu.be/5xjMwEfY9_k",
-"https://youtube.com/watch?v=JOx0pwb_dug&feature=youtu.be",
-"https://youtube.com/watch?v=K33Y-AD_iI0"
+{
+"text": "\"We have just hit a wall”: Black Colorado lawmakers describe racism at the Capitol, call for end of white silence",
+"href": "https://www.denverpost.com/2021/04/22/racism-colorado-black-caucus-legislature/"
+},
+{
+"text": "'A Single, Small Step': Colorado's Black Democratic Caucus Reacts To Chauvin Verdict",
+"href": "https://patch.com/colorado/denver/single-small-step-colorados-black-democratic-caucus-reacts-chauvin-verdict"
+},
+{
+"text": "2024 Campaign Video",
+"href": "https://www.youtube.com/watch?v=K33Y-AD_iI0"
+},
+{
+"text": "April 12, 2021",
+"href": "https://www.ricks4co.com/news/immigrants-as-well-have-a-right-to-an-attorney"
+},
+{
+"text": "April 13, 2021",
+"href": "https://www.ricks4co.com/news/ricks-fostering-diversity-among-colorado-educators-benefits-students"
+},
+{
+"text": "April 27, 2021",
+"href": "https://www.ricks4co.com/news/colorado-black-democratic-caucus-reacts-to-chauvin-verdict"
+},
+{
+"text": "April 27, 2021",
+"href": "https://www.ricks4co.com/news/colorado-state-representatives-seeking-immigration-legal-defense"
+},
+{
+"text": "April 27, 2021",
+"href": "https://www.ricks4co.com/news/racism-colorado-legislature-black-caucus"
+},
+{
+"text": "Biden executive order brings hope and memories to one Liberian immigrant",
+"href": "https://www.ricks4co.com/news/biden-executive-order-brings-hope-and-memories-to-one-liberian-immigrant"
+},
+{
+"text": "Black Woman Makes Colorado Black History and Where are Blacks in the Immigration Conversation?",
+"href": "https://www.facebook.com/100000234522533/videos/5493074904043606/"
+},
+{
+"text": "COVID in Aurora: Pop-Up Vaccine Clinic at Church Helps Sooth Uncertainties",
+"href": "https://denver.cbslocal.com/2021/02/13/aurora-covid-vaccine-pop-up-clinic/"
+},
+{
+"text": "Colorado State Representatives Seeking Immigration Legal Defense Fund",
+"href": "https://www.9news.com/article/news/politics/colorado-state-representatives-seeking-immigration-legal-defense-fund/73-1cc44aec-b0ac-4f87-9c8a-8f583c410c12"
+},
+{
+"text": "Colorado's immigrants now have more protections, benefits in state law",
+"href": "https://www.denverpost.com/2021/06/26/immigration-colorado-legislature-2021-undocumented/"
+},
+{
+"text": "Contact Me",
+"href": "https://www.ricks4co.com/contact-me"
+},
+{
+"text": "DREAM ON: Amid a housing crisis, Colorado lawmakers try to preserve a slice of the American Dream",
+"href": "https://sentinelcolorado.com/news/dream-on-amid-a-housing-crisis-accelerated-by-the-pandemic-colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ricks-for-colorado-1"
+},
+{
+"text": "Faces of NAM (#SayNAM)",
+"href": "https://emergeamerica.org/emerge-launches-faces-of-nam-campaign-to-highlight-women-of-the-new-american-majority/"
+},
+{
+"text": "Faces of the New American Majority: Rep. Naquetta Ricks",
+"href": "https://emergeamerica.org/faces-of-nam-rep-naquetta-ricks/"
+},
+{
+"text": "February 1, 2021",
+"href": "https://www.ricks4co.com/news/biden-executive-order-brings-hope-and-memories-to-one-liberian-immigrant"
+},
+{
+"text": "February 10, 2021",
+"href": "https://www.ricks4co.com/news/lawmakers-want-legal-representation-fund-for-immigrants-housed-in-detention-centers"
+},
+{
+"text": "February 17, 2021",
+"href": "https://www.ricks4co.com/news/black-woman-makes-colorado-black-history-and-where-are-blacks-in-the-immigration-conversation"
+},
+{
+"text": "February 17, 2021",
+"href": "https://www.ricks4co.com/news/covid-in-aurora-pop-up-vaccine-clinic-at-church-helps-sooth-uncertainties"
+},
+{
+"text": "From refugee to Colorado House representative",
+"href": "https://red.msudenver.edu/2021/from-refugee-to-colorado-house-representative.html"
+},
+{
+"text": "HD40",
+"href": "https://www.ricks4co.com/hd40"
+},
+{
+"text": "Home",
+"href": "https://www.ricks4co.com/"
+},
+{
+"text": "How Can We Help?",
+"href": "https://www.ricks4co.com/how-can-we-help"
+},
+{
+"text": "Immigrants, as well, have a right to an attorney",
+"href": "https://www.coloradopolitics.com/opinion/immigrants-as-well-have-a-right-to-an-attorney/article_5555de6e-9b43-11eb-9e42-5b90235572c2.html"
+},
+{
+"text": "In the Community",
+"href": "https://www.ricks4co.com/new-page-1"
+},
+{
+"text": "July 21, 2020",
+"href": "https://www.ricks4co.com/news/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-assembly"
+},
+{
+"text": "July 21, 2020",
+"href": "https://www.ricks4co.com/news/ricks-takes-lead-in-house-district-40-democratic-primary"
+},
+{
+"text": "June 11, 2021",
+"href": "https://www.ricks4co.com/news/colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream"
+},
+{
+"text": "June 23, 2021",
+"href": "https://www.ricks4co.com/news/our-legislation-aims-to-bring-accountability-and-transparency-to-the-insurance-industry"
+},
+{
+"text": "June 23, 2021",
+"href": "https://www.ricks4co.com/news/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature"
+},
+{
+"text": "June 30, 2021",
+"href": "https://www.ricks4co.com/news/colorados-immigrants-now-have-more-protection-benefits-in-state-law"
+},
+{
+"text": "Kwon Atlas",
+"href": "https://www.ricks4co.com/news?author=5d434ec31ad039000105d604"
+},
+{
+"text": "Lawmakers want legal representation fund for immigrants housed in detention centers",
+"href": "https://www.youtube.com/watch?v=JOx0pwb_dug&feature=youtu.be"
+},
+{
+"text": "Legislation",
+"href": "https://www.ricks4co.com/legislation"
+},
+{
+"text": "March 25, 2021",
+"href": "https://www.ricks4co.com/news/representative-ricks-inspired-to-serve-as-a-voice-for-immigrants"
+},
+{
+"text": "March 31, 2021",
+"href": "https://www.ricks4co.com/news/from-refugee-to-colorado-house-representative"
+},
+{
+"text": "May 8, 2021",
+"href": "https://www.ricks4co.com/news/bill-aims-to-protect-owner-of-towed-vehicles"
+},
+{
+"text": "Meet Naquetta",
+"href": "https://www.ricks4co.com/meet-naquetta"
+},
+{
+"text": "Morgan Anker",
+"href": "https://www.ricks4co.com/news?author=600ef4954397fd5dd3e8533b"
+},
+{
+"text": "Naquetta Ricks Could Be the First Liberian-American Elected to a US State Assembly",
+"href": "https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress/"
+},
+{
+"text": "Newer Posts",
+"href": "https://www.ricks4co.com/news?offset=1635185458965&reversePaginate=true"
+},
+{
+"text": "News",
+"href": "https://www.ricks4co.com/news"
+},
+{
+"text": "Nominate a Neighbor",
+"href": "https://www.ricks4co.com/constituent-corner"
+},
+{
+"text": "October 25, 2021",
+"href": "https://www.ricks4co.com/news/faces-of-nam-rep-naquetta-ricks"
+},
+{
+"text": "Older Posts",
+"href": "https://www.ricks4co.com/news?offset=1595373685563"
+},
+{
+"text": "On the Issues",
+"href": "https://www.ricks4co.com/on-the-issues"
+},
+{
+"text": "Our legislation aims to bring accountability and transparency to the insurance industry",
+"href": "https://coloradosun.com/2021/06/23/insurance-bill-opinion-2/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.ricks4co.com/photo-gallery"
+},
+{
+"text": "Proposed Bill Aims to Protect Owners of Towed Vehicles",
+"href": "https://denver.cbslocal.com/2021/05/10/towed-vehicles-denver-state-capitol-drivers/"
+},
+{
+"text": "Q&A: Rep. Naquetta Ricks, first African immigrant elected to Colorado Legislature",
+"href": "https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature/"
+},
+{
+"text": "RICKS: Fostering diversity among Colorado educators benefits students",
+"href": "https://sentinelcolorado.com/opinion/ricks-fostering-diversity-among-colorado-educators-benefits-all-students/"
+},
+{
+"text": "Representative Ricks Inspired to Serve as a Voice for Immigrants",
+"href": "http://denverurbanspectrum.com/articles/540941"
+},
+{
+"text": "Representative Ricks speaks at Denver's March for Citizenship on September 25, 2021",
+"href": "https://youtu.be/5xjMwEfY9_k"
+},
+{
+"text": "Ricks takes lead in House District 40 Democratic primary",
+"href": "https://www.ricks4co.com/news/ricks-takes-lead-in-house-district-40-democratic-primary"
+},
+{
+"text": "September 27, 2021",
+"href": "https://www.ricks4co.com/news/march-for-citizenship-2021"
+},
+{
+"text": "Sign up for my newsletter!",
+"href": "https://lp.constantcontactpages.com/sl/OSLZRgH"
+},
+{
+"text": "[image: Faces of the New American Majority: Rep. Naquetta Ricks]",
+"href": "https://www.ricks4co.com/news/faces-of-nam-rep-naquetta-ricks"
+},
+{
+"text": "[image: State Representative Naquetta Ricks HD40]",
+"href": "https://www.ricks4co.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NaquettaR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RicksforColorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ricks_cohd40/"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/biden-executive-order-brings-hope-and-memories-to-one-liberian-immigrant"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/bill-aims-to-protect-owner-of-towed-vehicles"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/black-woman-makes-colorado-black-history-and-where-are-blacks-in-the-immigration-conversation"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/colorado-black-democratic-caucus-reacts-to-chauvin-verdict"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/colorado-state-representatives-seeking-immigration-legal-defense"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/colorados-immigrants-now-have-more-protection-benefits-in-state-law"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/covid-in-aurora-pop-up-vaccine-clinic-at-church-helps-sooth-uncertainties"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/faces-of-nam-rep-naquetta-ricks"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/from-refugee-to-colorado-house-representative"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/immigrants-as-well-have-a-right-to-an-attorney"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/lawmakers-want-legal-representation-fund-for-immigrants-housed-in-detention-centers"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/march-for-citizenship-2021"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/our-legislation-aims-to-bring-accountability-and-transparency-to-the-insurance-industry"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/racism-colorado-legislature-black-caucus"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/representative-ricks-inspired-to-serve-as-a-voice-for-immigrants"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/ricks-fostering-diversity-among-colorado-educators-benefits-students"
+},
+{
+"text": "[no text]",
+"href": "https://www.ricks4co.com/news/ricks-takes-lead-in-house-district-40-democratic-primary"
+},
+{
+"text": "http://denverurbanspectrum.com/articles/540941",
+"href": "http://denverurbanspectrum.com/articles/540941"
+},
+{
+"text": "https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature/",
+"href": "https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature/"
+},
+{
+"text": "https://coloradosun.com/2021/06/23/insurance-bill-opinion-2/",
+"href": "https://coloradosun.com/2021/06/23/insurance-bill-opinion-2/"
+},
+{
+"text": "https://denver.cbslocal.com/2021/02/13/aurora-covid-vaccine-pop-up-clinic/?fbclid=IwAR1hxyNXkeGYt5KqoNUmdoPxfKoLuaHGkW59_rXay_oyVSP3fCFGh_BzCok",
+"href": "https://denver.cbslocal.com/2021/02/13/aurora-covid-vaccine-pop-up-clinic/"
+},
+{
+"text": "https://denver.cbslocal.com/2021/05/10/towed-vehicles-denver-state-capitol-drivers/",
+"href": "https://denver.cbslocal.com/2021/05/10/towed-vehicles-denver-state-capitol-drivers/"
+},
+{
+"text": "https://emergeamerica.org/faces-of-nam-rep-naquetta-ricks/",
+"href": "https://emergeamerica.org/faces-of-nam-rep-naquetta-ricks/"
+},
+{
+"text": "https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress/",
+"href": "https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress/"
+},
+{
+"text": "https://patch.com/colorado/denver/single-small-step-colorados-black-democratic-caucus-reacts-chauvin-verdict",
+"href": "https://patch.com/colorado/denver/single-small-step-colorados-black-democratic-caucus-reacts-chauvin-verdict"
+},
+{
+"text": "https://red.msudenver.edu/2021/from-refugee-to-colorado-house-representative.html?fbclid=IwAR1BXEEhyOo0kgDorxX_NGT1nqntMO4KvMf4tCk0e1WlTe5e_lwkK2djx6E",
+"href": "https://red.msudenver.edu/2021/from-refugee-to-colorado-house-representative.html"
+},
+{
+"text": "https://sentinelcolorado.com/news/dream-on-amid-a-housing-crisis-accelerated-by-the-pandemic-colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream/",
+"href": "https://sentinelcolorado.com/news/dream-on-amid-a-housing-crisis-accelerated-by-the-pandemic-colorado-lawmakers-try-to-preserve-a-slice-of-the-american-dream/"
+},
+{
+"text": "https://sentinelcolorado.com/opinion/ricks-fostering-diversity-among-colorado-educators-benefits-all-students/",
+"href": "https://sentinelcolorado.com/opinion/ricks-fostering-diversity-among-colorado-educators-benefits-all-students/"
+},
+{
+"text": "https://www.9news.com/article/news/politics/colorado-state-representatives-seeking-immigration-legal-defense-fund/73-1cc44aec-b0ac-4f87-9c8a-8f583c410c12",
+"href": "https://www.9news.com/article/news/politics/colorado-state-representatives-seeking-immigration-legal-defense-fund/73-1cc44aec-b0ac-4f87-9c8a-8f583c410c12"
+},
+{
+"text": "https://www.coloradopolitics.com/2020-election/ricks-takes-lead-in-house-district-40-democratic-primary/article_f1cae7b6-bbc5-11ea-9621-ffd4b9322881.html",
+"href": "https://www.coloradopolitics.com/2020-election/ricks-takes-lead-in-house-district-40-democratic-primary/article_f1cae7b6-bbc5-11ea-9621-ffd4b9322881.html"
+},
+{
+"text": "https://www.coloradopolitics.com/opinion/immigrants-as-well-have-a-right-to-an-attorney/article_5555de6e-9b43-11eb-9e42-5b90235572c2.html",
+"href": "https://www.coloradopolitics.com/opinion/immigrants-as-well-have-a-right-to-an-attorney/article_5555de6e-9b43-11eb-9e42-5b90235572c2.html"
+},
+{
+"text": "https://www.denverpost.com/2021/04/22/racism-colorado-black-caucus-legislature/",
+"href": "https://www.denverpost.com/2021/04/22/racism-colorado-black-caucus-legislature/"
+},
+{
+"text": "https://www.denverpost.com/2021/06/26/immigration-colorado-legislature-2021-undocumented/",
+"href": "https://www.denverpost.com/2021/06/26/immigration-colorado-legislature-2021-undocumented/"
+},
+{
+"text": "https://www.facebook.com/100000234522533/videos/5493074904043606/",
+"href": "https://www.facebook.com/100000234522533/videos/5493074904043606/"
+},
+{
+"text": "https://www.youtube.com/watch?fbclid=IwAR2_glR44ndS8H4Vx98jD_UUGZMzxSq9eTmQRU-yKTqKyiAZJhKLDxtzbC0&v=JOx0pwb_dug&feature=youtu.be",
+"href": "https://www.youtube.com/watch?v=JOx0pwb_dug&feature=youtu.be"
+},
+{
+"text": "https://youtu.be/5xjMwEfY9_k",
+"href": "https://youtu.be/5xjMwEfY9_k"
+}
 ]

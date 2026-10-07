@@ -1,7 +1,9 @@
 {
  "description": "Senator Jim Boyd serves as Republican Majority Leader in the Florida Senate, representing District 20.",
  "final_url": "https://www.boydforflorida.com/",
- "paid_for_by": null,
+ "fingerprint": "7aacf65cfb8907615422ec20c428f2bba8f93b90",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Senator Jim Boyd",
  "years_mentioned": [
   "2023"

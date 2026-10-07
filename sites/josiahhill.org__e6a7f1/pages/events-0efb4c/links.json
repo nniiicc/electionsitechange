@@ -1,13 +1,58 @@
 [
-"http://eepurl.com/gW8OJT",
-"https://facebook.com/josiahhillforhouse",
-"https://instagram.com/josiahhill4mn",
-"https://josiahhill.org/",
-"https://josiahhill.org/about",
-"https://josiahhill.org/endorsements",
-"https://josiahhill.org/issues",
-"https://josiahhill.org/privacy-policy",
-"https://josiahhill.org/support-us",
-"https://twitter.com/Hill4MNHouse",
-"https://youtube.com/@josiahhillformnhouse-33b"
+{
+"text": "About",
+"href": "https://www.josiahhill.org/about"
+},
+{
+"text": "Donate Today!",
+"href": "https://www.josiahhill.org/support-us"
+},
+{
+"text": "Endorsements",
+"href": "https://www.josiahhill.org/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.josiahhill.org/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.josiahhill.org/privacy-policy"
+},
+{
+"text": "Subscribe Here",
+"href": "http://eepurl.com/gW8OJT"
+},
+{
+"text": "Support Us",
+"href": "https://www.josiahhill.org/support-us"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/josiahhillforhouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/josiahhill4mn/"
+},
+{
+"text": "[image: Josiah Hill for MN House District 33B]",
+"href": "https://www.josiahhill.org"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Hill4MNHouse"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@josiahhillformnhouse-33b"
+},
+{
+"text": "[no text]",
+"href": "https://www.josiahhill.org"
+},
+{
+"text": "josiahhillforhouse@gmail.com",
+"href": "mailto:josiahhillforhouse@gmail.com"
+}
 ]

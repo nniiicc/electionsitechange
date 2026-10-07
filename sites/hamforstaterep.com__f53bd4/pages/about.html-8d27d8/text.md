@@ -1,3 +1,4 @@
+Bob Ham for State Rep Home About Platform Contact Meet Bob Ham!
 Bob Ham proudly served in the U.S.
 Navy during President Reagan’s era, learning the values of hard work, responsibility, and service to country.
 After his military service, Bob spent more than 30 years in the precision manufacturing industry, where he managed budgets, created solutions, and understood firsthand what it takes to balance priorities and make tough decisions.
@@ -9,8 +10,9 @@ He believes those values are what made our country strong and created opportunit
 Bob knows Connecticut can do better.
 Families are struggling with rising costs, high taxes, and policies that too often make it harder to live, work, and retire here.
 He believes government should work for the people — not the other way around.
-For too long, the same ideas and lack of competition in Hartford have left Connecticut families paying more while seeing less.
-As your State Representative, Bob will fight for practical, common-sense solutions that protect taxpayers, grow jobs, and make Connecticut more affordable — without treating hardworking residents like an endless ATM for government spending.
+For too long, the same ideas and lack of competition in Hartford have left Connecticut families paying more while seeing less. ​ As your State Representative, Bob will fight for practical, common-sense solutions that protect taxpayers, grow jobs, and make Connecticut more affordable — without treating hardworking residents like an endless ATM for government spending.
 Paid for by Ham for State Rep 2026.
 David White, Treasurer.
 Approved by Bob Ham.
+Powered by Create your own unique website with customizable templates.
+Get Started Home About Platform Contact

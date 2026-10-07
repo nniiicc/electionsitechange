@@ -1,11 +1,5 @@
-Back to All Events
-NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events King Tree Parade Saturday, October 24, 2026 8:30 AM 10:30 AM Dowtown Perry 428 North Jefferson Street Perry, Florida, 32347 United States (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
 Amanda will join the community in Perry for the annual King Tree Parade during the Florida Forest Festival weekend.
 This year’s parade celebrates 250 years of American roots and brings together local families, businesses, civic organizations, and community members for a beloved Taylor County tradition.
-Previous
-Previous
-October 24
-EARLY VOTING STARTS
-Next
-Next
-October 24
+Previous Previous October 24 EARLY VOTING STARTS Next Next October 24 FAMU Homecoming TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

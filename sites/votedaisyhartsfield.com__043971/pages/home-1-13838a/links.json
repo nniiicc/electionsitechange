@@ -1,8 +1,26 @@
 [
-"https://secure.actblue.com/donate/daisy-hartsfield-house-district-36",
-"https://votedaisyhartsfield.com/",
-"https://votedaisyhartsfield.com/contact",
-"https://votedaisyhartsfield.com/events",
-"https://votedaisyhartsfield.com/home-1",
-"https://votedaisyhartsfield.com/professional-profile"
+{
+"text": "About",
+"href": "https://www.votedaisyhartsfield.com/home-1"
+},
+{
+"text": "Contact",
+"href": "https://www.votedaisyhartsfield.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/daisy-hartsfield-house-district-36"
+},
+{
+"text": "Events",
+"href": "https://www.votedaisyhartsfield.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedaisyhartsfield.com"
+},
+{
+"text": "Professional Profile",
+"href": "https://www.votedaisyhartsfield.com/professional-profile"
+}
 ]

@@ -1,16 +1,58 @@
 [
-"http://facebook.com/shannonforiowa",
-"https://instagram.com/shannonlundgren",
-"https://podbean.com/ew/pb-ze3yk-1a7e7d8",
-"https://secure.anedot.com/lundgren-for-house-23d019a1-17a9-4e71-a8cf-2bda7ef031ab/i-m-with-shannon-in-22-c278e01566da90fd62351",
-"https://shannonforiowa.com/",
-"https://shannonforiowa.com/about-5",
-"https://shannonforiowa.com/awards",
-"https://shannonforiowa.com/general-8",
-"https://shannonforiowa.com/get-involved",
-"https://shannonforiowa.com/media",
-"https://shannonforiowa.com/platform",
-"https://shannonforiowa.com/s-projects-basic",
-"https://x.com/dbqreplundgren",
-"https://youtube.com/@DBQREP65"
+{
+"text": "AWARDS",
+"href": "https://www.shannonforiowa.com/awards"
+},
+{
+"text": "BREWS & VIEWS PODCAST",
+"href": "https://www.shannonforiowa.com/s-projects-basic"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lundgren-for-house-23d019a1-17a9-4e71-a8cf-2bda7ef031ab/i-m-with-shannon-in-22-c278e01566da90fd62351"
+},
+{
+"text": "EVENTS",
+"href": "https://www.shannonforiowa.com/general-8"
+},
+{
+"text": "Follow Here",
+"href": "https://www.podbean.com/ew/pb-ze3yk-1a7e7d8"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.shannonforiowa.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.shannonforiowa.com"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.shannonforiowa.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://www.shannonforiowa.com/about-5"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.shannonforiowa.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/shannonforiowa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/shannonlundgren"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/dbqreplundgren"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@DBQREP65"
+}
 ]

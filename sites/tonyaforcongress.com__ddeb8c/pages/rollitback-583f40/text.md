@@ -1,17 +1,19 @@
-HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT
-October 1, 2026 – FUN in America is Not Easy.
+Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY CONTACT US: ROLL IT BACK DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
+House of Representatives, Indiana's 9th District ROLL IT BACK HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT October 1, 2026 – FUN in America is Not Easy.
 For quite some time, gasoline and groceries have been extraordinarily high.
 It’s hard for folks to buy tickets to a game or concert or another fun event.
 I’ve heard people complain that rides at festivals are too high and they had to limit the number of rides they could afford for their family to just one ride.
 And the diesel to deliver the equipment is outrageous for truck drivers.
-My solutions? 1.
+My solutions?
+1.
 End the war in Iran and reopen the Strait of Hormuz.
 It is an unconstitutional war to begin with that has wasted the People’s hard-earned money.
-If elected to Congress, I would vote to end the war in Iran, immediately. 2.
-Promote the improvements and upgrades to the Refinery process in the United States as it is outdated. 3.
+If elected to Congress, I would vote to end the war in Iran, immediately.
+2.
+Promote the improvements and upgrades to the Refinery process in the United States as it is outdated.
+3.
 I would also submit my bill and promote the ‘Hudson Resolution to Abolish the IRS’.
-September 23, 2026 – First Amendment and the Free Press
-The U.S.
+September 23, 2026 – First Amendment and the Free Press The U.S.
 President is a temporary resident of the White House.
 It is important that the top executive in the Executive Branch of our government be accountable to the People.
 Although some military plans and certain aspects of international negotiations should be kept private until deemed necessary, most actions by the President should be made public.
@@ -22,8 +24,7 @@ In addition, the People’s representatives on Capitol Hill should speak up abou
 My own representative in Indiana’s 9th district (Erin Houchin) has not said anything to her constituents.
 In fact, she has not been accountable herself and has not done Public Town Halls.
 If elected to Congress, I will be accessible to the People and the Press.
-September 16, 2026 – Federal Law Legalizing Cannabis Products
-My support for the legalization of marijuana has been part of my ‘Issues’ page on my website for many years.
+September 16, 2026 – Federal Law Legalizing Cannabis Products My support for the legalization of marijuana has been part of my ‘Issues’ page on my website for many years.
 On 12/16/25, I wrote on my Roll It Back page about my support for the MORE Act (Marijuana Opportunity Reinvestment and Expungement Act) in the U.S.
 House of Representatives.
 Marijuana is a natural plant, not a synthetic pharmaceutical drug.
@@ -36,8 +37,7 @@ Although INORML no longer endorses candidates, I am honored to have previously r
 I have also spoken at events promoting the legalization in Indiana.
 The old laws criminalizing the use of a plant (marijuana) in Indiana should be reversed.
 If elected to Congress, I would sponsor or co-sponsor a federal bill like the MORE Act.
-September 9, 2026 – Activity in the Asia Pacific and Philippines
-I have previously warned about the escalation in the South China Sea and threats against Taiwan, and the long-standing tension against South Korea from North Korea supported by China.
+September 9, 2026 – Activity in the Asia Pacific and Philippines I have previously warned about the escalation in the South China Sea and threats against Taiwan, and the long-standing tension against South Korea from North Korea supported by China.
 Please read those dated 8/3/22 and 10/4/22.
 Back then, I wrote about my concerns regarding what’s going on with Russia and the Ukraine War as it was a distraction to the bigger picture as far as America is concerned.
 It still is!
@@ -48,9 +48,7 @@ If elected to the U.S.
 House of Representatives, on behalf of the People in Indiana’s District 9, I will not sit idly by while any President uses our military to attack another country without approval by Congress.
 The War Powers Act of 1973 should be enforced as intended.
 November 3rd is an extremely important election day at so many levels.
-Be Bold and Vote Gold – Tonya Hudson
-September 3, 2026 – Workers’ Hard-Earned Pay and Labor Day
-Our Country was built on the backs of the American worker, their entrepreneurism, and innovation.
+Be Bold and Vote Gold – Tonya Hudson September 3, 2026 – Workers’ Hard-Earned Pay and Labor Day Our Country was built on the backs of the American worker, their entrepreneurism, and innovation.
 The Labor Day Holiday, which occurs the first Monday in September, is a tradition going back to 1886 in New York, but Oregon passed it into state law in 1887.
 In 1894, Congress passed an Act making it a legal federal holiday.
 Over the next century, workers have contributed to the economic development of our country during times of war and peace.
@@ -59,8 +57,7 @@ Unfortunately, the value of the U.S. dollar is weakening around the world but is
 Congress can do better.
 The contributions the People have made to America’s strength, prosperity and its standing around the world is worth honoring on Monday, September 7th.
 God Bless the Hoosier State, and God Bless America!
-August 27, 2026 – President’s Economic War with Canada
-The current President of the U.S. who has repeatedly imposed tariffs on goods from other countries is doing so in bad faith.
+August 27, 2026 – President’s Economic War with Canada The current President of the U.S. who has repeatedly imposed tariffs on goods from other countries is doing so in bad faith.
 His actions are not the intent of the ‘Trade Act of 1974’ passed by Congress which provides for fair and free trade to stimulate growth.
 It also allows for the U.S.
 President to respond to unfair trade practices or disputes, but it is limited.
@@ -76,8 +73,7 @@ There are so many illegal acts that constitute the use of the 25th Amendment as 
 Right now, the American People are on standby while trying to make ends meet with a shaky economy.
 We have almost 10 weeks to November 3rd.
 God Bless America!
-August 21, 2026 – Reform Congress to Save Our Country
-The high cost of groceries, utilities, and fuel are the direct result of inept politicians that keep getting re-elected.
+August 21, 2026 – Reform Congress to Save Our Country The high cost of groceries, utilities, and fuel are the direct result of inept politicians that keep getting re-elected.
 This week, the U.S. hit $40 Trillion in debt.
 Most people just ‘yawn’ not realizing the affects on our economy, inflation, interest rates, and the U.S. selling off Treasury Bonds.
 The expensive cost of the endless war in Iran which has not been authorized by the U.S.
@@ -88,14 +84,15 @@ Constitution warned us about a 2-party Monopoly, and now look what we have.
 It’s time for major reforms in Washington D.C. which starts with breaking old habits of the voters.
 If elected to Congress as a Libertarian/constitutionalist, I will stay on track to work on and vote for a balanced budget, and reduce wasteful spending as well as reign in the extraordinary extravaganza purchases of the White House.
 It’s not just time for change, it’s time for major Reform.
-August 12, 2026 – The Insolvency of Social Security
-We’ve had this discussion before.
+August 12, 2026 – The Insolvency of Social Security We’ve had this discussion before.
 Yet here we are again talking about it.
 Congress just passed a CR to keep the current budget going for another month rather than balance the budget, among other things.
 Our Representatives, including my own Congresswoman (Houchin), has not done anything to secure the income/supplement Senior Citizens need to live on.
 It is forecast that the OASI (Old Age and Survivors Ins.) trust fund will be empty by the year 2032.
-There are ways to improve the system. 1.
-Remove the cap on payroll taxes as everybody should pay regardless of how much money they make, including the people making over $185k. 2.
+There are ways to improve the system.
+1.
+Remove the cap on payroll taxes as everybody should pay regardless of how much money they make, including the people making over $185k.
+2.
 Stop the liability for seniors to pay federal income tax on their social security benefits so they can have a little bit more in their bank account to help with bills.
 Asking seniors to file paperwork to receive ‘deductions’ on their annual tax forms to the IRS is burdensome.
 I don’t know anyone who would be against removing income tax on seniors’ social security.
@@ -127,7 +124,8 @@ National Defense.
 The U.S. has the strongest military power although China may have surpassed our Navy with the number of ships available.
 The broken 2-party monopoly is responsible for the failures, extremely high debt, and corporate welfare.
 WE CAN DO BETTER if the People are willing to change.
-As the Libertarian on the ballot in Indiana’s U.S. 9th District, I am the only Constitutionalist.
+As the Libertarian on the ballot in Indiana’s U.S.
+9th District, I am the only Constitutionalist.
 Meaning; If it’s constitutionally in the people’s best interest, I will promote it.
 If it’s not constitutional, I’m not for it and will vote against it.
 I am not beholden to my Party.
@@ -135,9 +133,8 @@ Libertarians expect I will uphold my Oath to the Constitution first and foremost
 A balanced budget is essential.
 If elected to Congress, I will vote to stop all illegal wars as I’ve written before.
 THERE IS HOPE but I need your help to make a difference.
-(HudsonforHoosiers – Donate)
-July 30, 2026 – Vehicle ‘Kill Switches’
-In February of 2025, H.R. 1137 was introduced as a ‘NO’ to the federal mandate for Kill Switches then it went to Committee.
+(HudsonforHoosiers – Donate) July 30, 2026 – Vehicle ‘Kill Switches’ In February of 2025, H.R.
+1137 was introduced as a ‘NO’ to the federal mandate for Kill Switches then it went to Committee.
 This week, the U.S.
 House of Representatives took up a bill regarding a federal law approving ‘Kill Switches in New Vehicles’.
 This is a bad idea and, in my opinion, is unconstitutional.
@@ -152,8 +149,7 @@ I don’t like Flock Cameras either.
 I realize that people often ‘consent’ to devices like On Star, or GPS location recognition in our mobile phones.
 If I am elected to Congress, I will not vote to restrict the movement of a free society as the People’s constitutional rights should not be infringed because of a few bad actors walking amongst us.
 I am a ‘NO’ vote on vehicle kill switches, or any monitoring devices without the individual’s consent.
-July 21, 2026 – Blood and Treasure lost in Iran
-Since February 28th, President Donald J.
+July 21, 2026 – Blood and Treasure lost in Iran Since February 28th, President Donald J.
 Trump has been engaging in an illegal (unconstitutional) war with Iran by abusing his position as Commander and Chief of the Armed Forces.
 I support the men and women who bravely serve in the military to protect and defend our Country.
 The U.S.
@@ -168,8 +164,7 @@ The President and his family should not be spending taxpayer dollars for persona
 Congress controls the federal purse.
 The reckless spending is not just on Capitol Hill, it’s also in the Executive Branch.
 If elected to Congress, I will not only support and vote in favor of the WPR, but I will also be in favor of limiting funding to the White House for personal use while reigning in the excessive spending by the SecDef.
-July 15, 2026 – Border Security and Immigration
-The killing of legal migrant workers by improperly trained ICE agents has got to stop.
+July 15, 2026 – Border Security and Immigration The killing of legal migrant workers by improperly trained ICE agents has got to stop.
 A couple of years ago, I wrote on my Issues page on my website about my position on Immigration and Border Security.
 It’s still there and my position has not changed.
 The process for migrant workers and visitors to come into the U.S. across the border with Mexico is outdated, archaic and too cumbersome for both U.S.
@@ -182,8 +177,7 @@ Why do the taxpayers keep paying for more and more border security that has not 
 Politics.
 The People demand better border security as well as a humane immigration policy that works.
 If elected to Congress, I will promote and support legislation to update and streamline the processing system and make for more efficient ports of entry.
-July 9, 2026 – AI Data Centers and Flock Cameras
-Have we entered into a Surveillance/Police State?
+July 9, 2026 – AI Data Centers and Flock Cameras Have we entered into a Surveillance/Police State?
 Less privacy with our freedom of movement being monitored is a growing concern for We, the People.
 AI Data Centers are storing our purchasing data and other personal information.
 There is also the light and noise pollution emitting from the data center sites that affect insects and wildlife in a negative way while also sucking up our water supply.
@@ -199,20 +193,19 @@ I don’t feel safer and would rather be able to come and go without Big Brother
 With 24/7 surveillance, make sure you don’t ever scratch an itch you don’t want recorded.
 Among other grievances, Freedom of movement without harassment is what the authors of the Declaration of Independence intended.
 If elected to Congress, I will sponsor or cosponsor and vote for a Bill to restrict the personal data gained, saved and stored on the American People.
-July 3, 2026 – Freedom from Federal Income Tax
-Today, I posted my proposal, Hudson Resolution To Abolish The IRS.
+July 3, 2026 – Freedom from Federal Income Tax Today, I posted my proposal, Hudson Resolution To Abolish The IRS .
 I don’t know anyone who wants the federal government taking money out of their paycheck, and I don’t know anyone who wants to file IRS forms at the end of every year.
 As a candidate for U.S.
 Congress, my one-page Resolution explains how the process can be done to eliminate the Internal Revenue Service and transition to a consumer/sales tax on goods and services which would be equally fair for all Americans.
 A copy is on the Photo Gallery page of my website.
 It’s not that complicated.
-June 25, 2026 – AFFORDABLE HOUSING
-I often disagree with the behavior and acts of this 119th Congress, but the Affordable Housing Act is a bill I support.
+June 25, 2026 – AFFORDABLE HOUSING I often disagree with the behavior and acts of this 119th Congress, but the Affordable Housing Act is a bill I support.
 As a Real Estate Broker, I have witnessed the changes in our economy that are detrimental to the lives of the people.
 With the increase in food, gas and utilities, mortgage payments and rent are more difficult to pay.
 This week, we watched the broken 2-party system actually work in a rare display of bipartisanship.
 After the U.S.
-House of Representatives passed H.R. 6644 overwhelmingly.
+House of Representatives passed H.R.
+6644 overwhelmingly.
 The Senate also passed the Affordable Housing Act.
 This bill has many positive aspects that will benefit the housing market for the people including reducing red tape for lenders which will ensure modular homes don’t face greater financing barriers, it prevents investors from buying up too many homes then mark up the price, changes in requirements for manufactured homes to reduce the cost to purchase, and this bill has other positive changes to HUD (Housing and Urban Development).
 Congress even has a veto proof majority which does not happen very often in this usually dysfunctional House.
@@ -221,8 +214,7 @@ Now, Congress needs to save our Country from the downward spiral we are in with 
 Inflation is on the rise at this time.
 The wasteful spending by Congress has got to stop.
 If elected, I will strive to bring some financial sanity and constitutional principles to Washington D.C.
-June 17, 2026 – Real World Issues vs Spectacle at the White House
-Why did the Republican majority in the U.S.
+June 17, 2026 – Real World Issues vs Spectacle at the White House Why did the Republican majority in the U.S.
 Senate kill the resolution to stop the madness in Iran?
 Because of personal fear.
 Rather than honor their Oath, they showed cowardice.
@@ -242,8 +234,7 @@ Well, at least the American People got to be entertained by the gaudy ornaments 
 Where are all the Epstein files?
 If elected to Congress, I will work on behalf of the People in my district and honor my Oath.
 June 11, 2026 – U.S.
-Money to Private Industry vs Free Market Principles
-If elected to Congress, I would demand and co-sponsor bills to prohibit the abuse of federal power that spends taxpayer dollars on private industry that do not help Americans as well as the prohibition of taxpayer money to foreign interests.
+Money to Private Industry vs Free Market Principles If elected to Congress, I would demand and co-sponsor bills to prohibit the abuse of federal power that spends taxpayer dollars on private industry that do not help Americans as well as the prohibition of taxpayer money to foreign interests.
 Our Country is broke.
 We have too much debt.
 The American people should be our priority.
@@ -255,8 +246,7 @@ I’ve said this before and I’ll say it again, the U.S. should not be involved
 Constitution (Article I, Section 8).
 If elected as the Representative of Indiana’s 9th District, I will work on behalf of the people and honor my Oath to the Constitution.
 June 3, 2026 – Supporting and Maintaining the U.S.
-Military
-The proposed NDAA (National Defense Authorization Act) for the 2027 budget is now undergoing scrutiny.
+Military The proposed NDAA (National Defense Authorization Act) for the 2027 budget is now undergoing scrutiny.
 Under Section 8 of the U.S.
 Constitution, Congress must raise and support Armies, maintain a Navy, etc., through appropriations.
 The sticky point now, among other things, is that a handful of representatives in Committee snuck in section 224 which integrates U.S. and Israeli militaries using taxpayer money.
@@ -267,12 +257,12 @@ The U.S.
 Senate Armed Services Committee still hasn’t put their stamp on the NDAA yet.
 However, if I were in Congress, I would not vote for the NDAA as it is written now without an Amendment to change Section 224.
 God Bless America!
-May 29, 2026 – Struggling Farmers & Ranchers, and Inflation
-Rising food and energy costs don’t just affect the average consumer, but the suppliers of our agriculture commodities and meat.
+May 29, 2026 – Struggling Farmers & Ranchers, and Inflation Rising food and energy costs don’t just affect the average consumer, but the suppliers of our agriculture commodities and meat.
 Economic challenges continue to face farmers while they often rely on ad hoc relief from U.S.
 Farm bills (fuel & projected fertilizer costs are factored in).
 This week, the U.S.
-House advanced a bill, H.R. 7567 – Farm, Food, and National Security Act of 2026.
+House advanced a bill, H.R.
+7567 – Farm, Food, and National Security Act of 2026.
 Many provisions of this bill will benefit the people by addressing programs such as commodity support, farm credit, horticulture, crop insurance, livestock and other animals, for example.
 This bill also adds more regulations on top of the already burdensome rules and regulations already on the books because many in our big, bloated government can’t help but step on themselves.
 As I drive around many rural areas, I can’t help but notice many crops are under water due to the extraordinary recent rainfall heading into June.
@@ -285,8 +275,7 @@ I will be optimistic and hope a change for the better is coming.
 That is why I’m running for congress.
 God Bless America!
 May 20, 2026 – Times Up!
-End the War in Iran
-U.S.
+End the War in Iran U.S.
 Senate advances War Powers Resolution.
 The President had 60 days to make his case to Congress as to whether or not the U.S. will continue the war in Iran.
 Under the U.S.
@@ -295,8 +284,7 @@ On February 28, 2026, Iran did NOT have a nuclear weapon and were years away to 
 There are other deterrents.
 If I were a member of Congress, I would vote ‘YES’ on the War Powers Act to end the war in Iran and remove our armed forces from that area.
 If elected to Congress, I will honor my oath to the people.
-May 14, 2026 – Brewing Trouble in Asia Pacific
-‘Winging it’ is not good foreign policy.
+May 14, 2026 – Brewing Trouble in Asia Pacific ‘Winging it’ is not good foreign policy.
 President Trump’s ramblings and off-the-cuff statements are confusing to the leaders of foreign countries as well as to the American people.
 Many of the people’s representatives in the U.S.
 Congress sit idly by while our country loses its status as the ‘Leader of the Free World’.
@@ -311,8 +299,7 @@ We need leaders in Washington with a patriotic back bone.
 I may be small in stature, but I stand strong for the U.S.
 Constitution and what is right for our nation.
 In November, vote for me and send me to D.C. on behalf of Indiana’s 9th District.
-May 7, 2026 – Department of Education and Student Rankings
-Now that the school year is coming to a close and parents are preparing for summer break, where is our country compared to other nations?
+May 7, 2026 – Department of Education and Student Rankings Now that the school year is coming to a close and parents are preparing for summer break, where is our country compared to other nations?
 There are many metrics used by various organizations to track educational statistics.
 According to PISA (Programme for International Student Assessment), the K-12 students in the U.S. rank 34th in math and 16th in science.
 Distraction by digital devices is a concern.
@@ -325,8 +312,7 @@ Indiana ranks 31st in the nation (31 out of 50 states).
 Improvement is needed and Indiana’s ranking strengthens the argument for school choice including charter schools, private and home-schooling options.
 When DJT ran for President, he said he was going to shut down the DoEd which I agreed with, but it hasn’t happened yet.
 If elected to Congress, I would vote to defund the Department of Education at the federal level, reducing federal taxes, and return the educational responsibility to the People in the states.
-May 1, 2026 – Nation’s Debt has surpassed the Economy
-I am up to the challenge to go to Washington D.C. with like-minded constitutionalists to fix the devasting mess the United States is in.
+May 1, 2026 – Nation’s Debt has surpassed the Economy I am up to the challenge to go to Washington D.C. with like-minded constitutionalists to fix the devasting mess the United States is in.
 On top of the illegal war in Iran not authorized by Congress, the president has not made a formal address to the People and the 60-day deadline is today.
 In addition, our nation’s debt has now surpassed the economy.
 I’ve been warning about the dangers of our debt and deficit for years.
@@ -338,8 +324,7 @@ The People need to vote out the representatives who have ignored the U.S.
 Constitution and their sworn oath including Indiana’s District 9 rep, Houchin.
 I won’t shy away or be silent on what needs to be done.
 I will take my oath seriously on behalf of the people in my district.
-April 24, 2026 – The American Spirit and Financial Hardships
-Last fall, I noticed the struggles of folks in southern Indiana who were barely making ends meet.
+April 24, 2026 – The American Spirit and Financial Hardships Last fall, I noticed the struggles of folks in southern Indiana who were barely making ends meet.
 They were living paycheck to paycheck while trying to figure out how to buy groceries and manage utility bills.
 The majority of the U.S.
 Congress sat idly by while tariffs were being imposed on imports.
@@ -353,8 +338,7 @@ However, I am witnessing the resilience of the American People.
 If elected to Congress, I will represent the people’s interests in my district, not the Executive Branch of government.
 No matter the hardship, folks are still taking pride in their communities, still taking their kids to festivals and parades, and still doing the best they can to have a good life while managing the struggles.
 God Bless America!
-April 17, 2026 – Cannabis and 4/20 Day
-Although the origin of 420 is debatable, the legal use of cannabis products should not be.
+April 17, 2026 – Cannabis and 4/20 Day Although the origin of 420 is debatable, the legal use of cannabis products should not be.
 I have been consistent about the legalization of marijuana since before I ran for Congress in 2020.
 I supported the MORE Act which was passed by the U.S.
 House of Representatives but went nowhere in the Senate.
@@ -367,8 +351,7 @@ I live in Indiana which is surrounded by states that have legalized many forms o
 Those states are collecting sales tax from Hoosiers.
 Indiana is slow to act on societal norms in our country.
 If elected to Congress, I will sponsor or co-sponsor a bill like the MORE Act and encourage members of the Senate to pass it because that is what the majority of the People want.
-April 10, 2026 – End the Hostilities
-Operation Epic Fury was started on February 28th and included the bombing of a girls school in Iran.
+April 10, 2026 – End the Hostilities Operation Epic Fury was started on February 28th and included the bombing of a girls school in Iran.
 Since that day, the U.S.
 Congress has not declared war against Iran.
 We the People have to endure the continuing rise of Fuel costs.
@@ -377,8 +360,7 @@ When they return to Washington D.C. at the beginning of the week, what will they
 If elected to Congress, I would sponsor, co-sponsor, and/or vote on a resolution to end the hostilities in Iran and bring our military back out of the middle east.
 I would vote on measures to roll back the restrictive rules and regulations in the refinery business as I talked about in the summer of 2022.
 I would also insist that the law Congress passed that the DOJ turn over all the Epstein files continues until all documents are revealed.
-April 3, 2026 – NASA and War
-On April 1st, Artemis II launched into space for a historical journey around the moon.
+April 3, 2026 – NASA and War On April 1st, Artemis II launched into space for a historical journey around the moon.
 For many people this Easter weekend, there will be a lot of traveling.
 The gas prices are soring while crude oil is extremely costly due to the war in Iran and the closing of the Strait of Hormuz.
 Last week, I spoke about this unconstitutional act by the president and the inaction by our U.S.
@@ -386,8 +368,7 @@ Congress.
 There are many good things about our country, but the hardships overshadow those right now.
 It’s time for a change in Washington D.C.
 To the astronauts; Godspeed.
-March 26, 2026 – Travel nightmares & Security
-As the Iran War rages on, gas prices are high making travel expenses intolerable for most citizens.
+March 26, 2026 – Travel nightmares & Security As the Iran War rages on, gas prices are high making travel expenses intolerable for most citizens.
 The U.S.
 Congress cannot agree on legislation that would pay TSA employees at airports who have been working without pay for weeks.
 This is an unsafe practice for people wanting to fly to their destinations.
@@ -400,8 +381,7 @@ If elected to Congress, I would recommend abolishing the TSA and return the resp
 Security would run more efficiently, and the security employees would get paid as agreed upon by their employers.
 And while we’re at it, let’s abolish the IRS.
 We need to stop the madness in Washington D.C.
-March 23, 2026 – Partial Government shutdown vs the SAVE Act
-Today, President Trump said the U.S.
+March 23, 2026 – Partial Government shutdown vs the SAVE Act Today, President Trump said the U.S.
 Senate should pass the SAVE Act for Jesus.
 Really?
 If passed, this law would be immediately challenged in the courts for common sense legal reasons.
@@ -423,8 +403,7 @@ I think the courts will shoot this bill down if passed because it disenfranchise
 If I am elected to Congress, I will never vote in favor of a bill like this.
 It should have never even been considered at the federal level.
 March 19, 2026 – U.S.
-Alienation
-The United States is no longer considered the ‘Leader of the Free World’.
+Alienation The United States is no longer considered the ‘Leader of the Free World’.
 That statement is disheartening as I am someone who grew up as a proud American.
 President Trump has bombed many countries, threatened others, and thrown temper tantrums when our allies refused to participate in the Iran war he started.
 If elected to Congress, I will act to defend the U.S.
@@ -434,8 +413,7 @@ On behalf of the good people in Indiana’s District 9, I will honor my Oath, an
 I will strive to be the best representative the constituents have had in over a decade.
 We will regain the respect from our country’s allies, and instill national pride for the children of today to grow up with.
 Tonya Hudson.
-March 12, 2026 – Foreign Adversaries and Oil
-CONSISTENCY: On 7/19/22, I wrote about the high gas prices and our outdated refinery process.
+March 12, 2026 – Foreign Adversaries and Oil CONSISTENCY: On 7/19/22, I wrote about the high gas prices and our outdated refinery process.
 On 8/3/22, I wrote about China, and the War Powers Act of 1973.
 Today, we have history repeating itself.
 President Trump has ordered the release of 172 million barrels of crude oil from the U.S.
@@ -470,8 +448,7 @@ As fear of a recession is looming, the American People will be resilient.
 If elected to Congress, I will stand with the People and support their vision, ingenuity and love for our Country.
 We will survive.
 God Bless America.
-February 27, 2026 – Congressional Responsibility & Tariffs
-After the ruling from the SCOTUS that the President unconstitutionally imposed tariffs on many countries via Executive Order, DJT is defiant.
+February 27, 2026 – Congressional Responsibility & Tariffs After the ruling from the SCOTUS that the President unconstitutionally imposed tariffs on many countries via Executive Order, DJT is defiant.
 Only the U.S.
 Congress can impose taxes and tariffs according to Article I.
 However, the day after the ruling, the President ordered a new 10% Broad tariff, then increased it to 15%.
@@ -485,8 +462,7 @@ Let’s hope not.
 Again, Congress needs stand up for the People and stop this abuse of power.
 If elected to Congress, I will stand up, speak out, and make sure the voices of the People in my district are heard.
 To maintain the strength of our nation, we need to maintain sound money and free market principles.
-February 20, 2026 – Federal Income Tax (IRS)
-I don’t know anybody who thinks filing tax forms to the IRS every year is a good idea because it’s not.
+February 20, 2026 – Federal Income Tax (IRS) I don’t know anybody who thinks filing tax forms to the IRS every year is a good idea because it’s not.
 The time is long overdue to abolish the IRS and transition over to a consumer/sales tax similar to the FAIR tax previously proposed over the years.
 As stated in the U.S.
 Constitution (Article I, Sec 2, 8, 9 and 16th Amendment), the U.S.
@@ -502,8 +478,7 @@ It’s not that complicated.
 The People would keep more of their own earned income.
 The People would decide what they want to spend their own money on (pay sales taxes on) , and the People would discuss and vote for Representatives that will act on their behalf for services needed by the People.
 As a candidate for Congress, I’m drafting a proposal, a template, that will be released to the public the week of our nation’s 250th Anniversary this summer.
-February 12, 2026 – SAVE Act (Safeguard American Voter Eligibility Act
-Or, should this be called the ‘SCREW American Voter Eligibility Act’?
+February 12, 2026 – SAVE Act (Safeguard American Voter Eligibility Act Or, should this be called the ‘SCREW American Voter Eligibility Act’?
 I’ve read the bill.
 On the surface, the long list of documentation options for proof of citizenship to register to vote seems reasonable on its surface.
 Will it work for everyone who are citizens?
@@ -528,8 +503,7 @@ Hoosiers deserve better!
 I support the nomination of Lauri Shillings (L) for Secretary of State as she has the integrity and intelligence to clean up that mess in our State Capital’s SOS office.
 I’m hoping for a good election process in November.
 Please exercise your right to vote.
-February 6, 2026 – Respect and Dignity
-Being an elected representative of the People is more than honoring the Oath to protect the U.S.
+February 6, 2026 – Respect and Dignity Being an elected representative of the People is more than honoring the Oath to protect the U.S.
 Constitution.
 Our representatives should speak up against any acts of tyranny or despicable acts against our fellow citizens.
 Late last night, a disgusting post came out of the White House which has played out on social media.
@@ -537,10 +511,8 @@ So many current members of Congress lack the will to challenge this abhorrent be
 She has said nothing as usual.
 If elected to Congress, on behalf of the people in Indiana’s 9th District, I will have a voice.
 I will act with all due respect and bring integrity back to the office I plan to hold in Washington D.C.
-I will proudly stand up and speak up. ‘I pledge to work on behalf of the People and serve with dignity and professionalism.’ Tonya Hudson
-January 30, 2026 – The 2nd Amendment protects the 1st Amendment of the U.S.
-Constitution
-The hits just keep on coming.
+I will proudly stand up and speak up. ‘I pledge to work on behalf of the People and serve with dignity and professionalism.’ Tonya Hudson January 30, 2026 – The 2nd Amendment protects the 1st Amendment of the U.S.
+Constitution The hits just keep on coming.
 Now, DJT’s administration is arresting journalists who covered/recorded the event where protesters against ICE disrupted a church service.
 I’m not debating the protesters’ motives here, rather express my opinion that the journalists who were reporting on the event should not have been arrested for exercising their first amendment right.
 Earlier this week, President Trump said that the people (citizen protesters) should not have guns, “no guns”.
@@ -552,8 +524,7 @@ Silent.
 Hush, hush Houchin.
 I have been a constitutional supporter my whole adult life to include a staunch advocate of the 2A long before I ever decided to run for office.
 There will ben NO pandering here.
-January 23, 2026 – Preserving Our Nation’s History
-Today, I noticed multiple news reports regarding the removal of a historical display in Philadelphia by the National Park Service at the direction of President Trump’s Executive Order, ‘Restoring Truth and Sanity of American History’.
+January 23, 2026 – Preserving Our Nation’s History Today, I noticed multiple news reports regarding the removal of a historical display in Philadelphia by the National Park Service at the direction of President Trump’s Executive Order, ‘Restoring Truth and Sanity of American History’.
 Translation – removing or altering abolitionist history regardless of agreements with the National Park Service.
 This should be appalling to everyone.
 The city has filed a lawsuit in federal court and I hope they prevail.
@@ -566,8 +537,7 @@ DJT’s efforts to remove exhibits that he doesn’t like by white-washing histo
 Where is the outrage by our Representatives in D.C.?
 No President should have such power against our history with the stroke of a pen.
 If elected to Congress, I would sponsor a resolution that would defy President Trump’s Executive Order, restore federal exhibits that were so callously removed, and preserve displays at the Smithsonian and the historical documents at the Library of Congress as well.
-January 17, 2026 – Honoring our Oath
-If elected to Congress, I will take my Oath to the U.S.
+January 17, 2026 – Honoring our Oath If elected to Congress, I will take my Oath to the U.S.
 Constitution seriously and will adhere to it.
 While the media and much of the public have been responding to the President’s ‘acts of distraction’ from the Epstein files (ICE, Venezuela Oil, threats to Greenland, …) many of us have not forgotten.
 Trump’s hand-picked Attorney General, Pam Bondi, has broken the law.
@@ -575,8 +545,7 @@ The Republican majority in the House of Representatives is mostly silent on the 
 When the President said, “we shouldn’t have an election” (referring to November, 2026), more silence from the Republicans in both the House and the Senate including my own representatives.
 If elected to Congress, I will support Articles of Impeachment of Pam Bondi.
 She should resign.
-January 12, 2026 – Indiana’s 9th District Needs Representation
-The current 119th Congress is dysfunctional.
+January 12, 2026 – Indiana’s 9th District Needs Representation The current 119th Congress is dysfunctional.
 Both major parties (2-party monopoly) are exceeding the ‘tax and spend’ policies of old.
 The GOP used to campaign on reducing wasteful spending and reducing the debt we owe to other countries.
 They are now the same as the Democrat party who has never been shy about it.
@@ -588,8 +557,7 @@ If elected to the 120th Congress, I will not be silent.
 As a Libertarian, I am not beholden to any party leader.
 I will stand up and I will speak out against any unlawful acts by any elected official including the president regardless of his/her party affiliation.
 January 3, 2026 – U.S.
-Congress Ignores War Crimes
-In 2025, the majority of the U.S.
+Congress Ignores War Crimes In 2025, the majority of the U.S.
 Congress has been silent on the unlawful activities of President Donald J.
 Trump.
 I, as many others, have spoken continuously about the unconstitutional acts all throughout the year.
@@ -611,8 +579,7 @@ I have never heard of a U.S.
 President using the Oval Office and his role as Commander and Chief to enforce his personal vendetta.
 The Epstein files will still be released whether he tries to distract from it or not.
 “The arc of the moral universe is long, but it bends towards justice.” Martin Luther King, Jr.
-December 30, 2025 – DEBT
-Debt.
+December 30, 2025 – DEBT Debt.
 Now that the holidays and 2025 are coming to a close, people are watching their bank account very closely.
 Not only is the U.S.
 National debt over $38,000,000,000,000, we are heading to be in debt over $39 trillion soon.
@@ -627,8 +594,7 @@ If elected to Congress, I will not vote to increase spending and insist my colle
 For example, programs that must be eliminated include the ones where cruel and harsh experimentation on dogs and monkeys are being done in the name of science, as well as we need to stop giving money away to other countries.
 We need to support Americans by not overtaxing them which is thievery.
 Taxation is theft.
-December 23, 2025 – Act of War
-‘WE THE PEOPLE of the United States’ are the first words of our country’s Constitution.
+December 23, 2025 – Act of War ‘WE THE PEOPLE of the United States’ are the first words of our country’s Constitution.
 The first of the seven Articles, Article I, grants all legislative powers to Congress, and that only Congress (Article 1, Section 8) can declare War, provide and maintain a Navy,….
 Please take time to read this very important section.
 The duties vested in Congress far exceed the duties of the President (Article II) although the President has very important executive powers and is Commander and Chief when the Army and Navy are called into service (war time).
@@ -637,8 +603,7 @@ The AUMF of 2001 does not change or amend the Constitution.
 It’s time for the current Congress to tell the President he does not have the authorization to engage in actions of war against Venezuela without a ‘declaration of war’ by WE THE PEOPLE through our elected representatives.
 If elected to the U.S.
 House of Representatives in November of 2026, I will demand accountability by any president, and his cabinet who engage in unconstitutional acts.
-December 16, 2025 – Reclassification of Marijuana
-Earlier this week, President Trump, yet again, spoke about reclassifying Marijuana to a less dangerous drug from a Schedule I to a Schedule III.
+December 16, 2025 – Reclassification of Marijuana Earlier this week, President Trump, yet again, spoke about reclassifying Marijuana to a less dangerous drug from a Schedule I to a Schedule III.
 He ran on this in 2024.
 So, what’s the delay?
 His reasoning for an Executive Order is to make it easier to do research.
@@ -650,7 +615,8 @@ At the present time, marijuana is classified in the same Schedule I category as 
 That doesn’t make sense.
 When I ran for Congress in 2020, I supported the MORE Act (Marijuana Opportunity Reinvestment Expungement Act) which would decriminalize the use of cannabis products for personal use, and expunge the criminal records of those previously arrested/incarcerated for small amounts of weed position.
 In 2021, the U.S.
-House passed the MORE Act (H.R. 3617) but it died in the Senate thanks to Mitch McConnell and a few others.
+House passed the MORE Act (H.R.
+3617) but it died in the Senate thanks to Mitch McConnell and a few others.
 If elected to Congress in 2026, I will again support a new version of the MORE Act and encourage the Senate to pass the bill to be signed into law by the President.
 Its time is long overdue.
 December 11, 2025 – President’s Unconstitutional Tariffs Not Approved By Congress.
@@ -669,19 +635,17 @@ House, 9th District.
 Congress is a disaster and the foundation of our U.S.
 Constitution is in danger.
 We, as a people, need to act in 2026.
-December 4, 2025 Shameful acts by Pentagon Leader
-Aside from the Trump Administration’s broken promises to the people, we have representatives in Congress that are ‘silent’ on the unlawful acts of our Secretary of Defense (War).
+December 4, 2025 Shameful acts by Pentagon Leader Aside from the Trump Administration’s broken promises to the people, we have representatives in Congress that are ‘silent’ on the unlawful acts of our Secretary of Defense (War).
 Pete Hegseth is unqualified to be the head of our vast military, and he should have the integrity to resign.
 It’s time for Congress to act.
 If elected, I will do the right thing and protect the U.S.
 Constitution.
 Let’s stand together and stop the nonsense for the good of our Country.
-November 20, 2025 Corruption in the White House
-This week, the President of the United States hosted the crowned Prince of Saudi Arabia at the White House.
+November 20, 2025 Corruption in the White House This week, the President of the United States hosted the crowned Prince of Saudi Arabia at the White House.
 This visit was full of unfortunate missteps, denials, and poor behavior that is unbecoming of a U.S.
 President.
 There are three (3) takeaways I got from the charade of a press conference held in the Oval Office.
-- The President proceeded in his efforts to destroy the First Amendment to the U.S.
+The President proceeded in his efforts to destroy the First Amendment to the U.S.
 Constitution.
 When an experienced and well respected reporter asked a legitimate question about the Prince’s involvement in the brutal murder of a journalist (Khashoggi) in the Prince’s kingdom, the President lashed out.
 While ignoring the US intelligence findings, DJT sided with the Prince’s claim he knew nothing about the murders when, in the reports, the Prince approved the operation of the murder.
@@ -690,15 +654,16 @@ Earlier in the week, he also called another reporter “Piggy”.
 The President actually said, “Quiet, Piggy!”.
 The current Press Secretary is also complicit in this rude and abhorrent behavior against the freedom of the press.
 Why aren’t the People’s representatives (Republican majority) speaking out about these actions against the First Amendment?
-- It has been obvious and ‘in our face’ that the President’s family is using his position as an international leader to enhance their wealth around the world, including Arab countries, and with his approval.
+It has been obvious and ‘in our face’ that the President’s family is using his position as an international leader to enhance their wealth around the world, including Arab countries, and with his approval.
 DJT said during this same Oval Office charade, “What my family does is fine”.
 These business dealings and profits with White House approval is a violation of our U.S.
 Constitution’s intent to curb corruption.
-It’s a violation of the Foreign Emoluments Clause (Art. 1, Section 9).
+It’s a violation of the Foreign Emoluments Clause (Art.
+1, Section 9).
 The Republican majority in the current Congress (both House and Senate) are ignoring this corruption.
 Why are our Indiana Representatives in D.C. silent about the continued shredding of the Constitution they swore an oath to protect?
 This leads me to number three.
-- Whatever your opinion is on the U.S. – Israel relationship, it has been legally approved by Congress that any weapon sales to countries in the Middle East not be a risk to Israel’s security.
+Whatever your opinion is on the U.S. – Israel relationship, it has been legally approved by Congress that any weapon sales to countries in the Middle East not be a risk to Israel’s security.
 However, during this same Oval Office charade, the President announced the sale of U.S.
 F-35 jets to Saudi Arabia knowing their disdain for Israel and the awful history in that region.
 Did DJT get congressional approval for this unlawful transaction?
@@ -723,17 +688,14 @@ Constitution they swore to protect.
 Indiana definitely needs better representation in our nation’s capital.
 Hoosiers need to be Bold and Vote Gold as Libertarians will be on the ballot in 2026.
 Let’s make a change and Roll It Back!
-11/10/22 Election Results
-Looks like the new 118th Congress will be no different than the 117th – the same old Duopoly taking turns ruining our Country.
+11/10/22 Election Results Looks like the new 118th Congress will be no different than the 117th – the same old Duopoly taking turns ruining our Country.
 Very Sad.
 I started my journey running for office in the fall of 2019 (Tonya for Congress).
 It was a wonderful ride and I talked with more people than I could count about Libertarianism and the U.S.
 Constitution.
 Very well received.
 Even though I did not win my race, I look forward to speaking with many LPIN members in the coming years to help grow our party and protect our Liberties.
-Be Bold Vote GOLD Tonya Hudson (Millis)
-11/2/22 SPECIAL NOTE of GRATITUDE
-Early voting and mail-in ballots have already been cast.
+Be Bold Vote GOLD Tonya Hudson (Millis) 11/2/22 SPECIAL NOTE of GRATITUDE Early voting and mail-in ballots have already been cast.
 I have heard from People who said they voted for ME.
 Thank You!
 I am so humbled by the People who have supported my candidacy.
@@ -742,9 +704,7 @@ I look forward to watching the results on the night of November 8th.
 If elected to Congress, it will by my honor to work hard and be the ‘Voice’ for the people in Indiana’s ninth district.
 To those who will be voting on Election Day.
 Be Bold Vote GOLD!
-Tonya Hudson (Millis)
-10/27/22 Interest Rates
-Are you concerned that mortgage rates and personal loan rates are increasing at a rate faster than the People are prepared for?
+Tonya Hudson (Millis) 10/27/22 Interest Rates Are you concerned that mortgage rates and personal loan rates are increasing at a rate faster than the People are prepared for?
 When one man, the Chairman of the Federal Reserve, has the power and influence to change the People’s lives without proper oversight by Congress and the U.S.
 Treasury, we have a problem.
 The Federal Reserve has increased rates three times in the past year and is expected to raise another 3/4 of a percent by December.
@@ -769,8 +729,7 @@ How many more Freedoms and Liberties have to be stripped away before We, the Peo
 Even though early voting has started, I am still campaigning and still making the case for a real change in our Country.
 I am volunteering to be a ‘Real Voice’ for the people in my district.
 Be Bold Vote GOLD.
-10/4/22 Asia Pasific Missile Testing
-In many towns across Indiana, there are Tornado Warning sirens which are often tested weekly.
+10/4/22 Asia Pasific Missile Testing In many towns across Indiana, there are Tornado Warning sirens which are often tested weekly.
 When warning sirens go off in Japan, it’s because a ballistic missile is flying overhead from N.
 Korea.
 Take cover!
@@ -792,8 +751,7 @@ President has the authority to involve the U.S. in the Russia/Ukraine war or sup
 I am in favor of American citizens and private Humanitarian groups providing comfort and aid to the people in need, but taxpayers’ dollars should NOT be used in war efforts without the declaration by the People (U.S.
 Congress).
 Why is our congressional Duopoly complacent in letting any President overstep the duties of the Executive Branch?
-Taxation is Theft
-9/16/22 If you think ‘Taxation is Theft’ than consider the elimination of the Internal Revenue Service.
+Taxation is Theft 9/16/22 If you think ‘Taxation is Theft’ than consider the elimination of the Internal Revenue Service.
 Last night, I had the pleasure of participating in a Small Business Forum with James Sceniak and Jeff Maurer at The Root located in New Albany.
 Among many Libertarian solutions discussed to help small businesses and entrepreneurs, was the abolishment of the IRS and moving to a consumer tax that I base on the FAIR Tax model.
 What if you knew what you were paying in taxes in ‘Real Time’?
@@ -853,8 +811,7 @@ What the two-party system IS cohesive on is raising the debt to dangerous levels
 Join Me along with other like-minded people to Roll It Back!
 I am volunteering to be your Voice. ‘We the People’ must make a stand on November 8th to end the Duopoly.
 Be Bold & Vote GOLD.
-The Internal Revenue Service –
-8/12/22 How are ‘We the People’ going to pay for the additional 87k IRS agents?
+The Internal Revenue Service – 8/12/22 How are ‘We the People’ going to pay for the additional 87k IRS agents?
 We’re not.
 As I have stated many times before, our Country is broke.
 Our debt is unsustainable.
@@ -917,12 +874,17 @@ The United States has more crude oil in its soil than we need but we don’t acc
 That’s ridiculous!
 The two-party system (duopoly) has failed the People.
 It’s time for the voters in Indiana’s 9th to Be Bold & Vote Gold.
-Tobacco & Vape Prohibition
-7/11/22 Example: What if a young man (or woman) of 19-20 years of age serves his Country overseas, then comes home on leave.
+Tobacco & Vape Prohibition 7/11/22 Example: What if a young man (or woman) of 19-20 years of age serves his Country overseas, then comes home on leave.
 He can’t have a celebratory cigar on the back porch with is Grandpa because it’s illegal.
 And, Grandpa could be arrested for contributing tobacco to a minor.
 Ridiculous!
 This pesky law was passed by the Duopoly (both R & D’s).
 Big government should not be telling Adults what to eat, drink or smoke.
 If elected to Congress, I will work hard to roll back prohibitions and get back the People’s freedom of Liberty.
-Watch out, People, the lolli pop police is coming next!
+Watch out, People, the lolli pop police is coming next! http://www.rollitback.org Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Authenticity District Map To learn more about the Libertarian Party platform or purchase merchandise, go to www.lp. http://www.lp.org Translate Contact Us: Tonya Hudson Campaign P.O.
+Box 378 Mitchell, IN 47446 Phone: 812.
+Email: 812-508-5577 HudsonforHoosiers@gmail.com To become a member of the Indiana Libertarian Party, go to www.lpin.org. http://www.lpin.org This website is approved and paid for by the Tonya Hudson Campaign.
+A WordPress.com Website .
+Loading Comments...
+Write a Comment...
+Email Name Website %d

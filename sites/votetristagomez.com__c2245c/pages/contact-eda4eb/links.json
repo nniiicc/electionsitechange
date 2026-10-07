@@ -1,8 +1,50 @@
 [
-"https://facebook.com/people/Trista-Gomez-for-Nevada",
-"https://secure.winred.com/trista-gomez-candidate/donate-today",
-"https://votetristagomez.com/",
-"https://votetristagomez.com/contact",
-"https://votetristagomez.com/newsletters",
-"https://votetristagomez.com/privacy-policy"
+{
+"text": "About",
+"href": "https://votetristagomez.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://votetristagomez.com/contact/"
+},
+{
+"text": "Contact Trista",
+"href": "mailto:Trista@Trista4Washoe.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/trista-gomez-candidate/donate-today"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.winred.com/trista-gomez-candidate/donate-today"
+},
+{
+"text": "Home",
+"href": "https://votetristagomez.com/"
+},
+{
+"text": "Newsletters",
+"href": "https://votetristagomez.com/newsletters/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votetristagomez.com/privacy-policy/"
+},
+{
+"text": "Trista@Trista4Washoe.com",
+"href": "mailto:Trista@Trista4Washoe.com"
+},
+{
+"text": "[image: Trista Gomez Campaign Logo]",
+"href": "https://votetristagomez.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Trista-Gomez-for-Nevada"
+},
+{
+"text": "[no text]",
+"href": "mailto:"
+}
 ]

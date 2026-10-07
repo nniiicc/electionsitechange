@@ -1,7 +1,7 @@
-MEET STEPHANIE NGUYEN
-CHANGEMAKER.
-COMMUNITY TRAILBLAZER.
-SACRAMENTO REGION FOR ALL.
+top of page HOME MEET STEPHANIE ISSUES ENDORSEMENTS ELECTED LEADERS ORGANIZATIONS COMMUNITY LEADERS ENDORSE GET INVOLVED SUBSCRIBE VOLUNTEER SIGN UP EVENTS MEDIA PRESS KIT >> Use tab to navigate through the menu items.
+CONTRIBUTE MEET STEPHANIE NGUYEN CHANGEMAKER .
+COMMUNITY TRAILBLAZER .
+SACRAMENTO REGION FOR ALL .
 Stephanie Nguyen has lived, worked, and served the Sacramento and Elk Grove communities almost all her life.
 The daughter of Vietnamese Refugees who fled Vietnam War by boat, she grew up in Sacramento’s Little Saigon district and attended Sacramento schools before graduating from Sacramento State University.
 The hardships endured by her parents and the experience of growing up in a low-income household fuel her desire to serve others and help those most in need.
@@ -20,5 +20,5 @@ During the pandemic, to help individuals who lost jobs from facing eviction, she
 She is ready to serve the Sacramento and Elk Grove communities in the State Legislature to continue her work in advancing economic opportunities and policies that will improve the lives of all those who live in Assembly District 10.
 Nguyen is a Democrat.
 She and her husband, an Elk Grove police officer, have lived in Elk Grove for over 18 years.
-They have two daughters, ages 6 and 11 years old.
-.
+They have two daughters, ages 6 and 11 years old. .
+Paid for by Stephanie Nguyen for Assembly 2026 | FPPC ID # 1443490 Mailing Address : P.O Box 582791, Elk Grove, CA 95758 Please contact nguyen4assembly@gmail.com for any public inquiries. bottom of page

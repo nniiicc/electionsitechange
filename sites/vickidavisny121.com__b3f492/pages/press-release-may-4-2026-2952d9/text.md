@@ -1,0 +1,11 @@
+Skip to content Donate Now Donate Now Vicki Davis for NY Assembly 121 Platform Events Volunteer News Endorsements Map of NY121 Contact Vicki Davis for NY Assembly 121 Donate Now Donate Now Platform Events Volunteer News Endorsements Map of NY121 Contact Press Release – May 4, 2026 May 7, 2026 FOR IMMEDIATE RELEASE May 4, 2026 CONTACT Nicholas Thurston Forward Motion Strategies campaign@vickidavisny121.com Professor and Community Advocate Vicki Davis Launches AD21 Campaign (Sherburne, NY) – Today, Vicki Davis is officially announcing her candidacy for Assembly District 121, qualifying for the November 3rd ballot.
+Davis, who was the 2024 District 121 Democratic nominee, is once again aiming to flip the seat from red to blue.
+A proud union member and small business owner, Davis will bring a renewed sense of community to District 121 by focusing on local issues including expanding rural broadband access, transitioning towards green infrastructure, investing in small businesses, and protecting access to high-quality healthcare.
+In announcing her campaign, Davis shared: “I’m extremely excited to start talking to voters, understand our community’s needs, and put in the work to earn each vote.
+Right now, our representative is putting party and politics above the needs of working families in our district.
+In the face of a transitioning economy and lagging job market, our district is being left behind.
+New challenges, including data centers, rising costs, and short-sighted development are leaving the folks of District 121 without a seat at the decision-making table.
+I’m determined to change that and elevate the needs of our neighbors right here in District 121.” Davis, who has extensive experience teaching theater and design at some of the state’s most prestigious educational institutions, attended Stephens College in Columbia, Missouri and Cornell University in Ithaca, NY.
+As a teacher, Vicki Davis understands the importance of uplifting our youth and creating opportunity for our neighbors.
+Vicki’s roots in the Cherokee tribe further cement her goals of community and togetherness for all voters in District 121, regardless of socioeconomic status or partisan affiliation.
+Next New York Health Act Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

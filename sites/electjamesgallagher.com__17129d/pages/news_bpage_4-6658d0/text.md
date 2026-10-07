@@ -1,5 +1,6 @@
-CAMPAIGN UPDATES
-By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
+Home Endorsements Events News Get Involved!
+Home Endorsements Events News Get Involved!
+DONATE News Gallagher Announces Widespread Yuba and Sutter Counties Support for Congressional Campaign READ MORE Assemblyman James Gallagher Files for First Congressional District READ MORE PORAC Endorses James Gallagher for Congress READ MORE 1 2 3 4 5 6 … 8 Privacy Policy Paid for by The Gallagher Committee CAMPAIGN UPDATES Opt-in for text messages SUBSCRIBE By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.
 Msg frequency varies.

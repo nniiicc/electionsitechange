@@ -1,53 +1,9 @@
-Endorsements:
-View all of the leaders who support Tamara and the 31st LD
-WA State & Federal | Local Government | Non-Governmental Orgs | Unions
-WA State & Federal
-- Dr.
+0 Skip to Content Home Meet Tamara Priorities Endorsements Contact Donate Today Open Menu Close Menu Donate Today Home Meet Tamara Priorities Endorsements Contact Open Menu Close Menu Home Meet Tamara Priorities Endorsements Contact Donate Today Endorsements: View all of the leaders who support Tamara and the 31st LD WA State & Federal | Local Government | Non-Governmental Orgs | Unions WA State & Federal U.S.
+Representatives: Dr.
 Kim Schrier | U.S.
-Representative, WA-8
-- Adam Smith | U.S.
-Representative, WA-9
-- Manka Dhingra | WA Senate, LD 45
-- Noel Frame | WA Senate, LD 36
-- Victoria Hunt | WA Senate, LD 5
-- Claire Wilson | WA Senate, LD 30
-- Laurie Jenkins | WA Representative, LD 27
-- Cindy Ryu | WA Representative, LD 32
-- Kristine Reeves | WA Representative, LD 30
-- Chris Stearns | WA Representative, LD 47
-- Jamila Taylor | WA Representative, LD 30
-- Patty Kuderer | WA Insurance Commissioner
-- Chris Reykdal | WA State Superintendent
-Local Government:
-- Hanan Amer | City of Auburn, Councilmember
-- Kate Baldwin | City of Auburn, Councilmember
-- Jessica Forsythe | City of Redmond, Councilmember
-- Cheryl Rakes | City of Auburn, Councilmember
-- Kelsey Barrans | Pierce County Charter Review, Commission Chair
-- Dr.
-Melissa Bedford | Puyallup School Board
-- David Berg | Puyallup School Board
-- Erica Buckley | Former City of Edgewood Councilmember
-- Marty Campbell | Pierce County Auditor
-- Tim Ceder | City of Milton, Councilmember
-- Jani Hitchen | Pierce County, Councilmember (Dis. 6)
-- Christi Keith | City of Edgewood, Councilmember
-- Matthew Kenna | City of Summer, Councilmember
-- Kevin Lewis | Sumner-Bonney Lake School Board
-- Ryan Mello, Pierce County Executive
-- Jason Roberts | City of Milton, Councilmember
-- Stephanie Vignal | City of Mill Creek, Mayor
-- Grisela Arias | City of Yelm, Councilmember
-Non-Governmental Organizations:
-- 31st LD Democrats
-- Indivisible Tacoma
-- King County Democrats
-- National Women’s Political Caucus of Washington
-- Pierce County Democrats
-- Win With Women (WA)
-- Planned Parenthood (WA)
-Unions:
-- Amalgamated Transit Union Local 758
-- IAM District 751
-- North Coast States Carpenters Union
-- WA State Labor Council | AFL-CIO
+Representative, WA-8 Adam Smith | U.S.
+Representative, WA-9 WA State Senate: Manka Dhingra | WA Senate, LD 45 Noel Frame | WA Senate, LD 36 Victoria Hunt | WA Senate, LD 5 Claire Wilson | WA Senate, LD 30 WA Representatives: Laurie Jenkins | WA Representative, LD 27 Cindy Ryu | WA Representative, LD 32 Kristine Reeves | WA Representative, LD 30 Chris Stearns | WA Representative, LD 47 Jamila Taylor | WA Representative, LD 30 Other WA Elected Officials: Patty Kuderer | WA Insurance Commissioner Chris Reykdal | WA State Superintendent return to top » Local Government: King County: Hanan Amer | City of Auburn, Councilmember Kate Baldwin | City of Auburn, Councilmember Jessica Forsythe | City of Redmond, Councilmember Cheryl Rakes | City of Auburn, Councilmember Pierce County: Kelsey Barrans | Pierce County Charter Review, Commission Chair Dr.
+Melissa Bedford | Puyallup School Board David Berg | Puyallup School Board Erica Buckley | Former City of Edgewood Councilmember Marty Campbell | Pierce County Auditor Tim Ceder | City of Milton, Councilmember Jani Hitchen | Pierce County, Councilmember (Dis.
+6) Christi Keith | City of Edgewood, Councilmember Matthew Kenna | City of Summer, Councilmember Kevin Lewis | Sumner-Bonney Lake School Board Ryan Mello, Pierce County Executive Jason Roberts | City of Milton, Councilmember Snohomish County: Stephanie Vignal | City of Mill Creek, Mayor Thurston County: Grisela Arias | City of Yelm, Councilmember return to top » Non-Governmental Organizations: Political Organizations: 31st LD Democrats Indivisible Tacoma King County Democrats National Women’s Political Caucus of Washington Pierce County Democrats Win With Women (WA) Community Organizations: Planned Parenthood (WA) return to top » Unions: Amalgamated Transit Union Local 758 IAM District 751 North Coast States Carpenters Union WA State Labor Council | AFL-CIO return to top » Want to endorse Tamara?
+Leave an Endorsement Navigate: Home Meet Tamara Stramel Priorities Donate today MAIL TO: Paid for by Together with Tamara Stramel P.O.
+Box 281, Sumner, WA 980

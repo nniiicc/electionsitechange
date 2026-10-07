@@ -1,6 +1,4 @@
-Idaho Republican
-Brandon Shippy
-Brandon Shippy’s roots run deep in the Western Treasure Valley.
+Contact News About Brandon About the Issues Endorsements Donate Store Idaho Republican Brandon Shippy Brandon Shippy’s roots run deep in the Western Treasure Valley.
 His great grandfather settled in Weiser following WWII and his grandfather raised his family in New Plymouth.
 His father raised his family in Fruitland and New Plymouth where Brandon grew to love his state and his county.
 When it came time for Brandon and his wife Rakel to start their family together, it was a natural decision for them to stay true to Payette County.
@@ -13,9 +11,8 @@ Brandon’s family is truly interwoven into the fabric of the community, past, p
 Now a father of three, Brandon feels a calling to help maintain Idaho’s culture for his children and neighbors to enjoy.
 Brandon knows that his community wants a principled conservative representing them in the legislature.
 Brandon is that conservative, and Brandon’s passion for his community will strengthen and sustain him as a true candidate for Idaho State Senate.
-Brandon’s great grandfather, Samuel Shippy
-Brandon’s grandfather, Terry Shippy
-Brandon’s father, Darren Shippy
-Brandon’s great grandfather, Samuel Shippy
-Brandon’s grandfather, Terry Shippy
-Brandon’s father, Darren Shippy
+“My name is Brandon Shippy, and I am proud to call Idaho my home.
+I am filled with hope for the future, for my children and grandchildren as we continue to build upon the legacy of those who have come before us.” Brandon’s great grandfather, Samuel Shippy Brandon’s grandfather, Terry Shippy Brandon’s father, Darren Shippy Brandon’s great grandfather, Samuel Shippy Brandon’s grandfather, Terry Shippy Brandon’s father, Darren Shippy Paid for by Shippy For Idaho.
+Mark Steinmeyer, Treasurer Donate Now Follow Follow Privacy Policy Paid for by Shippy For Idaho.
+Mark Steinmeyer, Treasurer Donate Now Privacy Policy Follow Follow Paid for by Shippy For Idaho.
+Mark Steinmeyer, Treasurer Donate Now Privacy Policy Follow Follow

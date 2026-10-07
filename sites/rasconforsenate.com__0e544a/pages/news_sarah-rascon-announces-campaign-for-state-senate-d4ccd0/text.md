@@ -1,7 +1,4 @@
-Press Release
-Sarah Rascón Announces Campaign for California State Senate District 26
-Experienced coalition builder will use her vast public service experience to advance economic opportunity, housing affordability, and environmental justice
-Los Angeles, CA — A dedicated public servant with 15 years of experience directly serving the Northeast Los Angeles communities, Sarah Rascón is launching her campaign for California State Senate District 26.
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate los angeles daily news Environmental advocate Sarah Rascón seeks state Senate seat representing parts of Northeast LA beverly press Rascón announces campaign for State Senate’s 26th District Press Release Sarah Rascón Announces Campaign for California State Senate District 26 LA PROGRESSIVE Same Money, New Zip Code Jun 3 2025 Press Release Sarah Rascón Announces Campaign for California State Senate District 26 Experienced coalition builder will use her vast public service experience to advance economic opportunity, housing affordability, and environmental justice Los Angeles, CA — A dedicated public servant with 15 years of experience directly serving the Northeast Los Angeles communities, Sarah Rascón is launching her campaign for California State Senate District 26.
 Raised by her immigrant grandmother in El Sereno, Rascón relied on public elementary schools and social services to give her a strong start in life.
 She went on to be the first generation in her family to graduate from college, and through internship opportunities, embarked on a career to help deliver resources and advance justice for Angelenos.
 Rascón is running for State Senate because she believes California needs to help lift up families who are experiencing the brunt of our economic, housing, and environmental crises.
@@ -17,8 +14,7 @@ The 26th State Senate District is represented by Senator Maria Elena Durazo, who
 Senate District 26 includes the Los Angeles communities of Atwater Village, Boyle Heights, Chinatown, City Terrace, Cypress Park, Downtown LA, Eagle Rock, East Hollywood, Echo Park, El Sereno, Elysian Valley, Glassell Park, Hancock Park, Highland Park, Historic Filipinotown, Hollywood, Koreatown, Larchmont, Lincoln Heights, Little Armenia, Los Feliz, Montecito Heights, Monterey Hills, Mt.
 Washington, Pico-Union, Silver Lake, Thai Town, Westlake-MacArthur Park, Wilshire Center, Unincorporated East Los Angeles, and the City of Vernon.
 The Primary Election will take place on Tuesday, June 2, 2026.
-About Sarah Rascón
-Sarah Rascón is a native Angeleno from El Sereno, raised by her immigrant grandmother and proudly shaped by the public school and social services system.
+About Sarah Rascón Sarah Rascón is a native Angeleno from El Sereno, raised by her immigrant grandmother and proudly shaped by the public school and social services system.
 A first-generation college graduate from UC Merced, Rascón’s dedication to serving her community began early while interning for the Hispanic College Fund and working on voter education with the Southwest Voter Registration Education Project, where she worked to increase Latino voter participation.
 After finishing college, Rascón became a Community Development Organizer and developed STEM programming and career curriculum for Northeast LA youth alongside the late Antonio Gonzalez.
 She went on to serve as a field representative in the California State Assembly for then-Assemblymember Jimmy Gomez, focusing on issues concerning the Latino and LGBTQ+ communities, as well as environmental policy, particularly in affected neighborhoods such as Lincoln Heights, El Sereno, Highland Park, Silver Lake, and East LA.
@@ -34,27 +30,19 @@ She also led the first Los Angeles Foster Youth Shadow Day at City Hall in the M
 Rascón’s civic work has included serving on the East LA Area Planning Commission, being a board member for a local nonprofit that creates open street activations throughout diverse communities in LA, and representing her community as an elected delegate to the California Democratic Party.
 She and her husband currently live in Glassell Park.
 Together, they enjoy meeting local vendors at their neighborhood farmers' market, learning about environmental sustainability, hiking, and spending time in LA’s vibrant public parks.
-Learn more at RasconforSenate.com
-En Español
-Líder Comunitaria Rascón Anuncia su Candidatura para el Distrito 26 en el Senado Estatal de California
-Rascón busca llevar a las comunidades de Los Ángeles hacia un futuro con justicia ambiental, viviendas dignas e accesibles, y más oportunidades económicas para las familias trabajadoras
-Los Ángeles, CA (4 de Junio, 2025)— Con más de 15 años sirviendo directamente a las comunidades de Los Ángeles, Sarah Rascón anuncia oficialmente su campaña para representar al Distrito 26 en el Senado Estatal de California.
+Learn more at RasconforSenate.com En Español Líder Comunitaria Rascón Anuncia su Candidatura para el Distrito 26 en el Senado Estatal de California Rascón busca llevar a las comunidades de Los Ángeles hacia un futuro con justicia ambiental, viviendas dignas e accesibles, y más oportunidades económicas para las familias trabajadoras Los Ángeles, CA (4 de Junio, 2025) — Con más de 15 años sirviendo directamente a las comunidades de Los Ángeles, Sarah Rascón anuncia oficialmente su campaña para representar al Distrito 26 en el Senado Estatal de California.
 Criada por su abuelita inmigrante en El Sereno, Rascón se apoyó en las escuelas públicas y programas sociales para salir adelante en su carrera para servir al público y su comunidad.
 Fue la primera de su familia en graduarse de la universidad, sobresaliendo en su carrera dedicada a llevar recursos y justicia a las familias más necesitadas de Los Ángeles.
 “Estamos haciendo todo lo posible para salir adelante: trabajamos largas horas, cuidamos a nuestras familias y apoyamos nuestras comunidades con lo que tenemos.
 Aún así, enfrentamos el alto costo de las viviendas, la atención médica y los servicios básicos,” señaló Rascón.
 “A lo largo de mi carrera, he formado alianzas y transformado las ideas de nuestra gente en proyectos reales que han mejorado la seguridad, la resiliencia climática y las oportunidades educativas en nuestras comunidades.
-Como Senadora Estatal, seré una voz firme para nuestras familias trabajadoras y comunidades que han sido históricamente olvidadas.”
-La experiencia de Rascón incluye haber servido como Directora de Asuntos Regionales y del Condado en la Oficina de la Alcaldesa Karen Bass, Subdirectora Ejecutiva de Equidad Ambiental en la Agencia de la Autoridad de las Montañas Recreación y Conservación (MRCA, por sus siglas en inglés), y Representante en la Asamblea Estatal de California para el entonces Asambleísta Jimmy Gomez.
+Como Senadora Estatal, seré una voz firme para nuestras familias trabajadoras y comunidades que han sido históricamente olvidadas.” La experiencia de Rascón incluye haber servido como Directora de Asuntos Regionales y del Condado en la Oficina de la Alcaldesa Karen Bass, Subdirectora Ejecutiva de Equidad Ambiental en la Agencia de la Autoridad de las Montañas Recreación y Conservación (MRCA, por sus siglas en inglés), y Representante en la Asamblea Estatal de California para el entonces Asambleísta Jimmy Gomez.
 En el Senado Estatal, Rascón usará esta experiencia para asegurar que las voces de las comunidad en el Distrito 26 sean escuchadas y que sus ideas se conviertan en soluciones reales.
 “Cuando trabajamos juntos, podemos avanzar la equidad económica y la justicia social", afirmó Rascón.
-“En el Senado de California, me comprometo a priorizar políticas que fortalezcan el desarrollo laboral, las viviendas asequible, la justicia ambiental, la educación , el apoyo a pequeñas empresas, y la protección de trabajadores de la industria del entretenimiento en Los Ángeles.”
-El Distrito 26 del Senado Estatal está actualmente representado por la Senadora María Elena Durazo, quien anunció su candidatura para la Junta de Supervisores del Condado de Los Ángeles y no buscará la reelección.
+“En el Senado de California, me comprometo a priorizar políticas que fortalezcan el desarrollo laboral, las viviendas asequible, la justicia ambiental, la educación , el apoyo a pequeñas empresas, y la protección de trabajadores de la industria del entretenimiento en Los Ángeles.” El Distrito 26 del Senado Estatal está actualmente representado por la Senadora María Elena Durazo, quien anunció su candidatura para la Junta de Supervisores del Condado de Los Ángeles y no buscará la reelección.
 El Distrito 26 incluye comunidades de Los Ángeles como Atwater Village, Boyle Heights, Chinatown, Cypress Park, el centro de Los Ángeles, Eagle Rock, East Hollywood, Echo Park, El Sereno, Elysian Valley, Glassell Park, Hancock Park, Highland Park, Historic Filipinotown, Little Armenia, Thai Town, Larchmont, Koreatown, Lincoln Heights, Los Feliz, Montecito Heights, Monterey Hills, Mt.
 Washington, Pico-Union, Silver Lake, Westlake-MacArthur Park, Wilshire Center, City Terrace, el Este de Los Ángeles y la Ciudad de Vernon.
-Más información: RasconforSenate.com
-Sobre Sarah Rascón
-Sarah Rascón es originaria de El Sereno, criada por su abuelita inmigrante y orgullosamente criada en el sistema de escuelas públicas y programas sociales.
+Más información: RasconforSenate.com Sobre Sarah Rascón Sarah Rascón es originaria de El Sereno, criada por su abuelita inmigrante y orgullosamente criada en el sistema de escuelas públicas y programas sociales.
 Es la primera en su familia en graduarse de la universidad, obteniendo su licenciatura en UC Merced.
 Su compromiso al servicio comunitario comenzó desde joven en una organización sin fines de lucro dedicada a apoyar a estudiantes latinos en los Estados Unidos, Hispanic College Fund, y participando en el proyecto de Southwest Voter Registration Education Project, por su nombre en inglés, donde trabajó para aumentar la participación electoral de la comunidad latina.
 Después de graduarse, Rascón se convirtió en Organizadora de Desarrollo Comunitario, donde desarrolló programas de ciencias , tecnología y matemáticas, y currículos de carreras para jóvenes en el Noreste de Los Ángeles, en colaboración con el fallecido líder Antonio González.
@@ -72,3 +60,6 @@ Asimismo, lideró el primer Foster Youth Shadow Day en el Ayuntamiento de Los Á
 Rascón ha sido comisionada en la East LA Area Planning Commission, miembro de juntas directivas de organizaciones sin fines de lucro locales, y delegada del Partido Demócrata de California.
 Actualmente vive con su esposo en Glassell Park.
 Juntos disfrutan visitar a vendedores locales en el mercado de agricultores de su vecindario, aprender sobre sostenibilidad ambiental, y pasar tiempo en los vibrantes parques públicos de Los Ángeles.
+Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E.
+Ocean Blvd., Ste.
+814, Long Beach, CA 90802 You need to enable JavaScript to run this app.

@@ -1,8 +1,8 @@
-Marion, IA – Today, Ashley Hinson released the following statement outlining efforts to immediately lower gas and diesel prices for Iowans.
+Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Works to Deliver Immediate Relief to Iowans Squeezed by High Gas and Diesel Prices Sep 21, 2026 | Press Release Back to Updates Marion, IA – Today, Ashley Hinson released the following statement outlining efforts to immediately lower gas and diesel prices for Iowans.
 “Iowans are being squeezed and shouldn’t have to foot the bill at the pump or the checkout line for the war in Iran.
 We need to use every option at our disposal to provide some relief from high prices.
 That includes suspending the gas tax, pausing diesel exports, unleashing E-15 everywhere we can, reinstating the $1/gallon biodiesel tax credit, and creating a diesel relief program to help our farmers and truckers being crushed by the high costs.
 While doing this, we should also ensure our highway trust fund is replenished, so that Iowans don’t suffer from crumbling roads and bridges while relief comes our way now.
 These actions to lower costs are needed ASAP, and the war needs to be brought to a successful and immediate end.
-I am working every day to deliver bipartisan results for Iowans and I will work with anyone who is ready to tackle this challenge immediately.”
-###
+I am working every day to deliver bipartisan results for Iowans and I will work with anyone who is ready to tackle this challenge immediately.” ### Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

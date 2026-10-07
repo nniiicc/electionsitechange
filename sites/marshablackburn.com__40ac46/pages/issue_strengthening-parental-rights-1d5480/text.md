@@ -1,7 +1,14 @@
-Strengthening parental rights
-Having reared two children and now as a grandmother of four, Marsha believes that parents – not government bureaucrats – know what’s best for each individual child.
+Skip to main content Skip to footer Home Meet Marsha Issues Bell to Bell: No Cell In The News Join Us Join The Team Team Store Donate Marsha Will See To Strengthening parental rights Having reared two children and now as a grandmother of four, Marsha believes that parents – not government bureaucrats – know what’s best for each individual child.
 Whether it’s protecting their child online or having the loudest voice in their education, parents should always be empowered to do what’s best for their family.
 She’ll do everything she can to return power back to Tennessee parents.
 That’s why Marsha supports school choice.
 Marsha stood with President Donald Trump, Vice President JD Vance, Governor Bill Lee, and conservative members of the state house and state senate in support of school choice all across the state.
 As Tennessee’s next Governor, she will continue to work alongside members of the state legislature to ensure every child across the state, regardless of their family’s income or zip code, has access to an education that fits their unique needs and will fully implement Tennessee’s new law.
+More from Marsha: Fighting for Tennessee’s Continued Economic Growth Protecting Women’s Sports Stopping the scourge of Illegal Immigration Keeping our communities safe Confronting Communist China Cutting wasteful government spending Ensuring Tennessee remains a safe haven for conservatives Cutting taxes to bolster our economy Fighting woke anti-American curriculum Improving higher education and vocational training Backing President Trump’s America First Agenda Stopping out of control liberal spending Protecting Our Kids Defending the innocent right to life Safeguarding our Second Amendment rights Supporting our military and veterans Protecting Tennessee Elections And Supporting Party Registration Championing Crypto and Bitcoin Building a modern infrastructure Standing up for Tennessee farmers Meet Marsha Issues Team Store In the news Join Us Donate Endorse Endorsement Submissions Privacy Policy Marsha Blackburn for Governor PO BOX 336 Brentwood, TN 37024 info@marshablackburn.com Paid for and authorized by Marsha for Governor -- Treasurer Glenn Jacobs Please provide your mobile phone to opt-in to Marsha for Governor’s campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+By law the maximum amount an individual may contribute to Marsha for Governor is $10,600.
+By contributing I confirm that my contribution should first be designated to the 2026 primary election, up to the maximum contribution limit of $5,300; then to the 2026 general election, up to the maximum contribution limit of $5,300.

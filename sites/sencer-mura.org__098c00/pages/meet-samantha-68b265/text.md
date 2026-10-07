@@ -1,5 +1,4 @@
-Meet Samantha
-Hello, my name is Samantha Sencer-Mura.
+0 Skip to Content Meet Samantha Vision Events Endorsements Join Us Donate Open Menu Close Menu Meet Samantha Vision Events Endorsements Join Us Donate Open Menu Close Menu Meet Samantha Vision Events Endorsements Join Us Donate Meet Samantha Hello, my name is Samantha Sencer-Mura.
 I am an educator, a working mom, a local community leader, a fourth-generation Japanese American, and the State Representative for District 63A in Minneapolis, Minnesota.
 I grew up in Minneapolis and now I am raising my two year old child here, with my partner Lance.
 My mother is a Pediatric Oncologist at Children’s Hospital and has devoted her life to saving young people's lives.
@@ -37,5 +36,4 @@ I’ve seen community members pushing themselves outside their comfort zone to t
 I’ve seen us choose politics of collective care when it would be easier to choose politics of individualized fear.
 In 2020, South Minneapolis became the epicenter of a fight for racial justice.
 I am proud to represent this district, because in this new moment of repair and change – I will be a brave voice with you to get the best for our community.
-Let’s write a better future for Minnesota together,
-Samantha Sencer-Mura
+Let’s write a better future for Minnesota together, Samantha Sencer-Mura Prepared and paid for by The People for Sencer-Mura PO Box 6661 minneapolis, MN 55406

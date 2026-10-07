@@ -1,5 +1,4 @@
-top of page
-Become A Volunteer Form
-Box 1175 Pelham, AL 35124
-Powered and secured by Wix
-bottom of page
+top of page Maurice Mercer Community First Country Forward HOME BIO PLATFORM GET INVOLVED Yard Sign Form Become a volunteer form Campaign Swag House Party Form MEET MAURICE ENDORSEMENTS More Use tab to navigate through the menu items.
+Log In DONATE Become A Volunteer Form First name Phone Email Check all that apply Introduce me to your Office, Church, or Civic Group Door Canvassing Phone Banking Special Event Volunteer Social Media Marketing Election Day Volunteer Experience with other campaigns Sign Delivery What county Do you live in? * Autauga Bibb Chilton Coosa Elmore Jefferson Shelby Talladega Out of State Submit HOME BIO PLATFORM GET INVOLVED Yard Sign Form Become a volunteer form Campaign Swag House Party Form MEET MAURICE ENDORSEMENTS More Use tab to navigate through the menu items.
+DONATE GET INVOLVED Terms & Conditions Privacy Policy Accessibility Statement © # Paid for by Friends to Elect Maurice Mercer P.O.
+Box 1175 Pelham, AL 35124 Powered and secured by Wix bottom of page

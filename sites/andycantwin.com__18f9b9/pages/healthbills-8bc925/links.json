@@ -1,14 +1,58 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/guides",
-"https://andycantwin.com/healthbills/north-carolina.html",
-"https://andycantwin.com/healthbills/the-playbook.html",
-"https://andycantwin.com/healthbills/the-price.html",
-"https://andycantwin.com/healthbills/your-rights.html",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "01 Start here Why the bill is so big →",
+"href": "https://andycantwin.com/healthbills/the-price.html"
+},
+{
+"text": "01 Why the bill is so big How hospital pricing works, decoded line by line. →",
+"href": "https://andycantwin.com/healthbills/the-price.html"
+},
+{
+"text": "02 What to actually do The steps to take on a big bill, in order. Acting early helps. →",
+"href": "https://andycantwin.com/healthbills/the-playbook.html"
+},
+{
+"text": "03 The rights you already have Federal protections, plus some North Carolina rules worth knowing. →",
+"href": "https://andycantwin.com/healthbills/your-rights.html"
+},
+{
+"text": "04 The $6.5 billion NC erased A real debt-relief program, and what would make it permanent. →",
+"href": "https://andycantwin.com/healthbills/north-carolina.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "← back to the guides",
+"href": "https://andycantwin.com/guides/"
+}
 ]

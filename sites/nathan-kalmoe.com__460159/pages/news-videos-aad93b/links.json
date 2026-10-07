@@ -1,34 +1,142 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://bsky.app/profile/nathanforsenate.bsky.social/post/3muwnr5s36k2a",
-"https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwswew35j223",
-"https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwtveug4os2e",
-"https://captimes.com/opinion/guest-columns/opinion-dianne-hesselbein-has-never-faced-a-democratic-rival-i-want-to-change-that/article_bb30a452-bca1-4454-95e1-312c617e5a84.html",
-"https://citizenactionwi.org/2026/09/25/how-does-ideology-impact-elections",
-"https://dailycardinal.com/article/2026/09/uw-political-scientist-launches-write-in-campaign-against-senate-minority-leader?ct=content_open&cv=cbox_latest",
-"https://facebook.com/share/p/19N8ortS7L",
-"https://facebook.com/share/r/1EkChAkVi2",
-"https://facebook.com/share/r/1LZquZMVwD",
-"https://facebook.com/share/v/1HRqqBNFoF",
-"https://instagram.com/p/Dc_Ph9xObs9",
-"https://instagram.com/p/Dd4yPdnR-hr",
-"https://instagram.com/p/Dd8-FuNkS2a?img_index=1",
-"https://instagram.com/p/Dd98kGoMAxm",
-"https://jsonline.com/story/news/politics/elections/2026/09/28/senate-democratic-leader-hesselbein-gets-a-challenger-to-her-left/91612563007",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://newrepublic.com/article/213922/insurgent-candidates-thriving-midwest",
-"https://tiktok.com/@nathankalmoeforsenate/photo/7691687603560598798",
-"https://tiktok.com/@nathankalmoeforsenate/video/7682797724143504654",
-"https://tiktok.com/@nathankalmoeforsenate/video/7691826089085259022",
-"https://wpr.org/news/wisconsin-write-in-ballots-hong-crowley-tiffany"
+{
+"text": "Battleground Wisconsin\" podcast",
+"href": "https://citizenactionwi.org/2026/09/25/how-does-ideology-impact-elections/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/nathanforsenate.bsky.social/post/3muwnr5s36k2a"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwswew35j223"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwtveug4os2e"
+},
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Democracy means having a real choice. Now the 27th Senate District has one.",
+"href": "https://captimes.com/opinion/guest-columns/opinion-dianne-hesselbein-has-never-faced-a-democratic-rival-i-want-to-change-that/article_bb30a452-bca1-4454-95e1-312c617e5a84.html"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/p/19N8ortS7L/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/r/1EkChAkVi2/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/r/1LZquZMVwD/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/v/1HRqqBNFoF/"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "In Wisconsin elections, write-ins are frequently wrong",
+"href": "https://www.wpr.org/news/wisconsin-write-in-ballots-hong-crowley-tiffany"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/Dc_Ph9xObs9/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/Dd4yPdnR-hr/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/Dd8-FuNkS2a/?img_index=1"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/Dd98kGoMAxm/"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "New Republic.",
+"href": "https://newrepublic.com/article/213922/insurgent-candidates-thriving-midwest"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Senate Democratic leader Hesselbein gets a challenger to her left",
+"href": "https://www.jsonline.com/story/news/politics/elections/2026/09/28/senate-democratic-leader-hesselbein-gets-a-challenger-to-her-left/91612563007/"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nathankalmoeforsenate/photo/7691687603560598798"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nathankalmoeforsenate/video/7682797724143504654"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nathankalmoeforsenate/video/7691826089085259022"
+},
+{
+"text": "UW political scientist launches write-in campaign against Senate minority leader",
+"href": "https://www.dailycardinal.com/article/2026/09/uw-political-scientist-launches-write-in-campaign-against-senate-minority-leader?ct=content_open&cv=cbox_latest"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+}
 ]

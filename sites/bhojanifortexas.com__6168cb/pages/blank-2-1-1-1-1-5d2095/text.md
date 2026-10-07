@@ -1,9 +1,4 @@
-The Dallas-Fort Worth area has become one of the fastest-growing tech regions in the country.
+top of page HOME ABOUT PRIORITIES Affordability Education Ethical Technology Economy & Workforce Religious Freedom Affordability Education Ethical Technology Economy & Workforce Religious Freedom GET INVOLVED CONNECT SELFIES WITH SALMAN SELFIES WITH SALMAN LEGISLATIVE SESSION DONATE The Dallas-Fort Worth area has become one of the fastest-growing tech regions in the country.
 While technology can open doors and streamline progress, it can also harm hardworking Texans if used without proper guidelines.
 Texas's laws should keep pace, so no Texan is denied a job, an apartment, or medical care rapidly-changing or confusing systems.
-- Co-authored one of the nation's first comprehensive state AI laws in 2025, establishing foundational protections for Texans in the age of artificial intelligence
-- Authored legislation cracking down on non-consensual AI-generated deepfakes, protecting Texans from digital exploitation
-I will advocate that the Texas Legislature…
-- Support clear limits on AI decision-making in hiring, housing, healthcare, and the justice system
-- Promote transparency and accountability in government technology
-- Champion workforce training and digital skills so Texans can compete for new tech jobs
+Co-authored one of the nation's first comprehensive state AI laws in 2025, establishing foundational protections for Texans in the age of artificial intelligence Authored legislation cracking down on non-consensual AI-generated deepfakes, protecting Texans from digital exploitation I will advocate that the Texas Legislature… Support clear limits on AI decision-making in hiring, housing, healthcare, and the justice system Promote transparency and accountability in government technology Champion workforce training and digital skills so Texans can compete for new tech jobs HOME ABOUT PRIORITIES Affordability Education Ethical Technology Economy & Workforce Religious Freedom Affordability Education Ethical Technology Economy & Workforce Religious Freedom GET INVOLVED CONNECT SELFIES WITH SALMAN SELFIES WITH SALMAN LEGISLATIVE SESSION DONATE Donate By Mail Bhojani for Texas PO Box 392 Euless, TX 76039 bottom of page

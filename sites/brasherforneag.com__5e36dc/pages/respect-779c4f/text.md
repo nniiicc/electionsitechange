@@ -1,3 +1,6 @@
-⚑ In 2024, Nebraskans voted overwhelmingly to legalize medical marijuana.
+0 Skip to Content Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Respect Nebraska Voters When the people of Nebraska speak at the ballot box, the Attorney General has an obligation to follow the Constitution and uphold the will of the voters — not undermine them through endless political litigation.
+Nebraskans made their voices clear on medical marijuana, and as Attorney General, she will work swiftly and collaboratively to provide clear legal guidance for law enforcement, medical providers, and the patients and families who have been made to wait far too long for certainty and clarity under the law. ⚑ In 2024, Nebraskans voted overwhelmingly to legalize medical marijuana.
 Rather than implement the law, Hilgers used the AG’s Office to challenge it — leaving law enforcement, providers, and patients without clear guidance.
 Jocelyn Brasher will respect that vote.
+Back to Priorities Connect with Jocelyn: Priorities Get Involved Contribution checks can be made payable to: Brasher for NE AG Address: P.O.
+Box 540098 Omaha, Nebraska 68154 CAMPAIGN EMAIL: vote@brasherforneag.com MEDIA INQUIRIES: media@brasherforneag.com PHONE: 402-739-9793 Paid for by BRASHER FOR NE AG Donate

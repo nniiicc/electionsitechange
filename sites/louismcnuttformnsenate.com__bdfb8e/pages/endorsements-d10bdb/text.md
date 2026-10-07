@@ -1,16 +1,3 @@
-Thank you to all who share in my vision for building a better Minnesota
-AFSCME Council 5
-https://afscmemn.org
-DFL Rural Caucus
-https://www.dflruralcaucus.org/2026-endorsements/louis-mcnutt
-Fair Vote Minnesota
-https://fairvotemn.org/rcv/
-Clean Water Action Minnesota
-https://cleanwater.org/be-clean-water-voter-2026-minnesota-endorsements
-Education Minnesota
-Minnesota Young DFL
-Minnesota Senate Majority Leader Erin Murphy
-Minnesota State Senator Nick Frintz
-(DFL - SD 18)
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Bio Issues Calendar of Events Endorsements News and Events Donate Volunteer More Home Bio Issues Calendar of Events Endorsements News and Events Donate Volunteer Donate Home Bio Issues Calendar of Events Endorsements News and Events Donate Volunteer Donate Endorsements Thank you to all who share in my vision for building a better Minnesota Minnesota DFL https://dfl.org/endorsed/ Minnesota Association of Professional Employees https://mape.org AFSCME Council 5 https://afscmemn.org AFSCME Council 65 https://afscme65.org DFL Rural Caucus https://www.dflruralcaucus.org/2026-endorsements/louis-mcnutt Fair Vote Minnesota https://fairvotemn.org/rcv/ National Association of Social Workers MN Chapter https://naswmn.socialworkers.org/ Clean Water Action Minnesota https://cleanwater.org/be-clean-water-voter-2026-minnesota-endorsements Education Minnesota https://educationminnesota.org/ Minnesota Young DFL https://www.youngdfl.org/endorsed-candidates Minnesota Senate Majority Leader Erin Murphy https://senatedfl.mn/home/members/senator-erin-murphy/ Minnesota State Senator Nick Frintz (DFL - SD 18) https://www.senate.mn/members/member_bio.html?mem_id=1224 Prepared and Paid for by Volunteers For McNutt P.O.
+Box 54 | Buffalo, MN | 55313 Copyright © # Louis McNutt for Minnesota Senate - All Rights Reserved.
+Powered by

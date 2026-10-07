@@ -1,3 +1,4 @@
+hello there! allow me to introduce myself MEET SARAH JAYNE Home About Me Platform Where to Find Me Donate Join Team SJDV!
 While I'm originally from the Lowcountry of South Carolina, I've called Washington County, Tennessee home for the past 7 years - and I don't see that ever changing.
 I'm surrounded by natural beauty and good people.
 I got married here, I'm raising my family here, and I've laid down roots here.
@@ -9,4 +10,4 @@ Faith, family, and community are important to me, as well as spending time in th
 My family and I attend Munsey UMC in downtown Johnson City, and we spend plenty of time at WF Stables in Jonesborough.
 There you'll find the coolest horse in Tennessee, Rusty.
 I might be a little biased there, though.
-That's enough about me - I look forward to meeting you!
+That's enough about me - I look forward to meeting you! ​ Proudly powered by Weebly Home About Me Platform Where to Find Me Donate Join Team SJDV!

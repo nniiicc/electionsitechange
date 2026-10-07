@@ -1,33 +1,30 @@
-Town of Erin, WI – Former law enforcement officer Jim Piwowarczyk filed over 300 signatures to secure access to the 98th Assembly District ballot on Thursday, as momentum grows behind the conservative news publisher in the Washington and Waukesha County race.
-“I am really thankful for the positive and enthusiastic reception that my candidacy has received,”…
-Waukesha County Sheriff Eric Severson has endorsed Jim Piwowarczyk for state Assembly, saying he believes Piwowarczyk will serve the district with "great effectiveness."
-"I'm enthusiastic about Jim's candidacy.
+Skip to content Skip to footer Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Donate Now!
+Home Donation Events Contacts FAQ About Us Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows Posted May 24, 2024 by Jim Piwowarczyk in Endorsements , News , Political Issues , ticker Town of Erin, WI – Former law enforcement officer Jim Piwowarczyk filed over 300 signatures to secure access to the 98th Assembly District ballot on Thursday, as momentum grows behind the conservative news publisher in the Washington and Waukesha County race.
+“I am really thankful for the positive and enthusiastic reception that my candidacy has received,”… more 0 Comments 0 Likes 10735 Views Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly Posted May 16, 2024 by Jim Piwowarczyk in Endorsements , News , ticker Waukesha County Sheriff Eric Severson has endorsed Jim Piwowarczyk for state Assembly, saying he believes Piwowarczyk will serve the district with "great effectiveness." "I'm enthusiastic about Jim's candidacy.
 He will be a strong, smart voice for public safety and has the analytical skills to serve his district with great effectiveness," Severson said.
-Severson joins a chorus of…
-Washington County District Attorney Mark Bensen has endorsed former law enforcement officer Jim Piwowarczyk for Wisconsin state Assembly, raising Piwowarczyk's background in law enforcement and "commitment to the area and to the community."
-Bensen, a Republican, joins a chorus of other top Washington County officials who have endorsed Piwowarczyk's campaign for the open seat in the…
-Washington County Sheriff Martin Schulteis endorsed former law enforcement officer Jim Piwowarczyk for state Assembly, saying Piwowarczyk has a "proven track record of advocating for public safety throughout the entire state."
-Piwowarczyk, 53, is running for the 98th Assembly District open seat, which encompasses parts of Washington and Waukesha Counties.
-"As the chief law enforcement officer in…
-Former LT Governor Candidate Will Martin has endorsed Jim Piwowarczyk for Assembly.
+Severson joins a chorus of… more 0 Comments 0 Likes 1682 Views Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly Posted May 3, 2024 by Jim Piwowarczyk in Endorsements , News , ticker Washington County District Attorney Mark Bensen has endorsed former law enforcement officer Jim Piwowarczyk for Wisconsin state Assembly, raising Piwowarczyk's background in law enforcement and "commitment to the area and to the community." Bensen, a Republican, joins a chorus of other top Washington County officials who have endorsed Piwowarczyk's campaign for the open seat in the… more 0 Comments 0 Likes 2252 Views Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly Posted May 2, 2024 by Jim Piwowarczyk in Endorsements , News , ticker Washington County Sheriff Martin Schulteis endorsed former law enforcement officer Jim Piwowarczyk for state Assembly, saying Piwowarczyk has a "proven track record of advocating for public safety throughout the entire state." Piwowarczyk, 53, is running for the 98th Assembly District open seat, which encompasses parts of Washington and Waukesha Counties.
+"As the chief law enforcement officer in… more 0 Comments 0 Likes 1611 Views Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly Posted April 30, 2024 by Jim Piwowarczyk in ticker , Endorsements , News Former LT Governor Candidate Will Martin has endorsed Jim Piwowarczyk for Assembly.
 Piwowarczyk, 53, the co-editor of Wisconsin Right Now conservative news site, is running for the Assembly District 98, which spans parts of Washington and Waukesha Counties.
 A small business owner and former law enforcement officer, Piwowarczyk of the Town of Erin is a Republican.
-Martin…
-Former Republican Attorney General Candidate and Fond du Lac County DA Eric Toney has endorsed Jim Piwowarczyk for Assembly, saying that Piwowarczyk "has helped lead the fight for our conservative values," will "stand with our law enforcement" and will help protect public safety.
+Martin… more 0 Comments 0 Likes 2193 Views Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly Posted April 18, 2024 by Jim Piwowarczyk in ticker , Endorsements , News Former Republican Attorney General Candidate and Fond du Lac County DA Eric Toney has endorsed Jim Piwowarczyk for Assembly, saying that Piwowarczyk "has helped lead the fight for our conservative values," will "stand with our law enforcement" and will help protect public safety.
 Toney is the president of the Wisconsin District Attorneys Association.
-Piwowarczyk, 53, the co-editor…
-Rep.
+Piwowarczyk, 53, the co-editor… more 0 Comments 0 Likes 2231 Views Rep.
+Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted April 11, 2024 by Jim Piwowarczyk in ticker , Endorsements , News Rep.
 Bob Donovan of Wisconsin’s 84th Assembly has endorsed Jim Piwowarczyk for Assembly.
 Piwowarczyk, 53, the co-editor of Wisconsin Right Now conservative news site, is running for the Assembly District 98, which spans parts of Washington and Waukesha Counties.
-A small business owner and former law enforcement officer, Piwowarczyk, of the Town of Erin, is running…
-Rep.
+A small business owner and former law enforcement officer, Piwowarczyk, of the Town of Erin, is running… more 0 Comments 0 Likes 2308 Views Rep.
+Barbara Dittrich Endorses Jim Piwowarczyk for Assembly Posted March 18, 2024 by Jim Piwowarczyk in ticker , Endorsements , News Rep.
 Barbara Dittrich of Wisconsin’s 38th Assembly has endorsed Jim Piwowarczyk for Assembly.
 Piwowarczyk, 53, the co-editor of Wisconsin Right Now conservative news site, is running for the Assembly District 98, which spans parts of Washington and Waukesha Counties.
-A small business owner and former law enforcement officer, Piwowarczyk, of the Town of Erin, is running…
-Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly
-Washington County Treasurer Scott Henke, a conservative known for his conservative leadership in the City of Hartford and Washington County, has endorsed Jim Piwowarczyk for Assembly.
+A small business owner and former law enforcement officer, Piwowarczyk, of the Town of Erin, is running… more 0 Comments 0 Likes 1877 Views Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly Posted March 14, 2024 by Jim Piwowarczyk in Endorsements , News , ticker Washington County Treasurer Scott Henke, a conservative known for his conservative leadership in the City of Hartford and Washington County, has endorsed Jim Piwowarczyk for Assembly.
 Piwowarczyk, 53, the co-editor of Wisconsin Right Now conservative news site, is running for the Assembly District 98, which spans parts of Washington and Waukesha Counties.
-A small business owner…
-Washington County Executive Josh Schoemann, a staunch conservative known for his leadership on fiscal matters, has endorsed Jim Piwowarczyk for Assembly.
+A small business owner… more 0 Comments 0 Likes 1828 Views Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly Posted March 11, 2024 by Jim Piwowarczyk in Endorsements , News , ticker Washington County Executive Josh Schoemann, a staunch conservative known for his leadership on fiscal matters, has endorsed Jim Piwowarczyk for Assembly.
 Piwowarczyk, 53, the co-editor of Wisconsin Right Now conservative news site, is running for the Assembly District 98, which spans parts of Washington and Waukesha Counties.
-A small business owner and former law enforcement officer,…
+A small business owner and former law enforcement officer,… more 0 Comments 0 Likes 1948 Views Posts pagination < Page 1 Page 2 Page 3 > How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Interest?
+Donate?
+Help Door Knock?
+Campaign Volunteer?
+Sign Nomination Paper?
+Request a Yard Sign?
+Go Fishing W/Jim? /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ PAID FOR BY: JIM FOR WISCONSIN

@@ -1,7 +1,5 @@
-About the Candidate:
-Why a small business owner is running for US Congress.
-Hello there and thanks for checking out my campaign,
-My name is Derek Fleming.
+top of page Home About the Candidate About the Issues Get involved Donations Shop About the Candidate: Why a small business owner is running for US Congress.
+Hello there and thanks for checking out my campaign, My name is Derek Fleming.
 I am a 37-year-old business owner who is simply fed up with Washington and the lack of serious, lasting progress that the American people deserve.
 I was raised in Western Massachusetts in the city of Northampton and come from a family of construction workers, teachers, tradesmen, veterans, and farmers.
 When I was a kid, there was no one I admired more than my Grandfather Bern or "big B" a WWII veteran who told me countless times of the horrors he faced and the brave men who fought beside him to rid the world of the Nazi regime.
@@ -29,3 +27,7 @@ Since my early years, our country has been in a perpetual state of war.
 Trillions have been spent across the globe on death and destruction, and I cannot sit idly by as the powers that be do nothing to prevent my daughters' generation from facing that same fate.
 It is time we listen to the American people, stop funding endless wars and reign in our reckless spending.
 As the Pentagon budget continues to rise decade after decade, with members of both parties voting for these increases, it is time we had a non-partisan representative to stand up on the House floor and say: enough is enough!
+Join Our Unique Campaign and Get Involved Today! © # DEREK FOR CONGRESS.
+ALL RIGHTS RESERVED.
+PAID FOR BY DEREK FOR CONGRESS.
+ADVOCATING FOR STRUCTURAL REFORMS contact@derekforcongress.com Arlington, MA bottom of page

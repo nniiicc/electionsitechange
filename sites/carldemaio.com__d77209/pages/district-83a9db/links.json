@@ -1,30 +1,146 @@
 [
-"https://carldemaio.com/",
-"https://carldemaio.com/about",
-"https://carldemaio.com/contact",
-"https://carldemaio.com/district",
-"https://carldemaio.com/privacy-policy",
-"https://facebook.com/carldemaio",
-"https://instagram.com/carldemaioca",
-"https://rcahelp.org/",
-"https://reformcalifornia.org/",
-"https://reformcalifornia.org/campaigns",
-"https://reformcalifornia.org/events",
-"https://reformcalifornia.org/news",
-"https://reformcalifornia.org/podcast",
-"https://reformcalifornia.org/volunteer",
-"https://reformcalifornia.org/voter-guides",
-"https://reformcalifornia.org/voter-guides-list",
-"https://secure.carldemaio.com/contribute",
-"https://secure.carldemaio.com/contribute?amount=100",
-"https://secure.carldemaio.com/contribute?amount=1000",
-"https://secure.carldemaio.com/contribute?amount=25",
-"https://secure.carldemaio.com/contribute?amount=250",
-"https://secure.carldemaio.com/contribute?amount=50",
-"https://secure.carldemaio.com/contribute?amount=500",
-"https://secure.carldemaio.com/contribute?amount=5000",
-"https://secure.reformcalifornia.org/storefront",
-"https://twitter.com/carldemaio",
-"https://twitter.com/carldemaio?ref_src=twsrc%5Etfw",
-"https://youtube.com/@carldemaioCA"
+{
+"text": "$1,000",
+"href": "https://secure.carldemaio.com/contribute?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.carldemaio.com/contribute?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.carldemaio.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.carldemaio.com/contribute?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.carldemaio.com/contribute?amount=5000"
+},
+{
+"text": "$50",
+"href": "https://secure.carldemaio.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.carldemaio.com/contribute?amount=500"
+},
+{
+"text": "About",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "About Carl DeMaio",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "Contact",
+"href": "https://carldemaio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "District",
+"href": "https://carldemaio.com/district"
+},
+{
+"text": "Events",
+"href": "https://reformcalifornia.org/events"
+},
+{
+"text": "FAQs",
+"href": "https://rcahelp.org/"
+},
+{
+"text": "Get Reform California's Voter Guide Here >> |",
+"href": "https://www.reformcalifornia.org/voter-guides-list"
+},
+{
+"text": "More Campaigns",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "News",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "Other",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carldemaio.com/privacy-policy"
+},
+{
+"text": "Reform CA",
+"href": "https://reformcalifornia.org/"
+},
+{
+"text": "Reform California",
+"href": "https://reformcalifornia.org"
+},
+{
+"text": "Store",
+"href": "https://secure.reformcalifornia.org/storefront/"
+},
+{
+"text": "Tweets by carldemaio",
+"href": "https://twitter.com/carldemaio?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Volunteer",
+"href": "https://reformcalifornia.org/volunteer"
+},
+{
+"text": "Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "[image: Election Integrity Initiative]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: End Homelessness]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Restore Public Safety]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: School Board Reform]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Stop the Tax Hikes]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image]",
+"href": "https://carldemaio.com/"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/carldemaioca"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://twitter.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@carldemaioCA"
+}
 ]

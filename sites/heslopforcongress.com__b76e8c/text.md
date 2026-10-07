@@ -1,43 +1,6 @@
-Gordon Heslop
-Republican Candidate
-4th Congressional District of Louisiana
-Email: gordon@heslopforcongress.com
-Retired Educator
-For most of the last 25 years I was on the Accounting faculty at Northwestern State University of Louisiana and East Texas A&M University (formerly Texas A&M University-Commerce).
-Degrees:
-Doctor of Business Administration
-Bachelor of Laws with Honours
-Master of Business Administration
-Master of Commerce with Honours
-Bachelor of Commerce
-Certifications: CPA, CMA, CIA, CFM (all non active)
-Most Admired People: Ronald Reagan, Margaret Thatcher, Winston Churchill
-I'M AN ANTI TRUMP REPUBLICAN
-Laser focused on strengthening the middle class while reducing the national debt and maintaining America's role as leader of the free world.
-- Abolish the tariffs
-- Save social security (my policy does)
-- Focus on the health of the rural economy
-- Provide preventative health screening
-- A massive first home program - not costing the government anything
-- Improve and strengthen rural health services
-- Increase the minimum wage
-- No pardons or commutations for those convicted of assaulting a law enforcement officer
-- Ban and defund sanctuary cities
-- End chain migration - it may be nice for a family, but it is a bad immigration option for a country
-- Significantly increase trades training
-- Make the standard bachelor's degree a 3-year program, saving 25%
-- Strict audits of all government programs for fraud and waste
-- Open all the Epstein files - with victim redactions
-- Higher income earners to pay at least the same tax rate as the middle class does
-- The elimination of many of the ways/schemes high income earners and companies use to massively reduce their taxable income
-- Eliminate government shutdowns and workers not being paid by legislative remedy
-- No boys in girls sports
-- Our Christian heritage is not up for negotiation
-- No sharia law - a nation can only have one legal system with everyone having the same rights
-- Professional sports to be made more affordable for the ordinary citizen
-- Ban foreign students from engaging in political activity as a condition of their visa
-- TERM Limits of 12 years - 2 terms for the Senate and 6 terms for the House
-I AM NOT MAGA - HERE'S WHY.
+Gordon Heslop Republican Candidate 4th Congressional District of Louisiana Donate Now Email: gordon@heslopforcongress.com Retired Educator For most of the last 25 years I was on the Accounting faculty at Northwestern State University of Louisiana and East Texas A&M University (formerly Texas A&M University-Commerce).
+Degrees: Doctor of Business Administration Bachelor of Laws with Honours Master of Business Administration Master of Commerce with Honours Bachelor of Commerce Certifications: CPA, CMA, CIA, CFM (all non active) Most Admired People: Ronald Reagan, Margaret Thatcher, Winston Churchill I'M AN ANTI TRUMP REPUBLICAN Laser focused on strengthening the middle class while reducing the national debt and maintaining America's role as leader of the free world.
+Abolish the tariffs Save social security (my policy does) Focus on the health of the rural economy Provide preventative health screening A massive first home program - not costing the government anything Improve and strengthen rural health services Increase the minimum wage No pardons or commutations for those convicted of assaulting a law enforcement officer Ban and defund sanctuary cities End chain migration - it may be nice for a family, but it is a bad immigration option for a country Significantly increase trades training Make the standard bachelor's degree a 3-year program, saving 25% Strict audits of all government programs for fraud and waste Open all the Epstein files - with victim redactions Higher income earners to pay at least the same tax rate as the middle class does The elimination of many of the ways/schemes high income earners and companies use to massively reduce their taxable income Eliminate government shutdowns and workers not being paid by legislative remedy No boys in girls sports Our Christian heritage is not up for negotiation No sharia law - a nation can only have one legal system with everyone having the same rights Professional sports to be made more affordable for the ordinary citizen Ban foreign students from engaging in political activity as a condition of their visa TERM Limits of 12 years - 2 terms for the Senate and 6 terms for the House I AM NOT MAGA - HERE'S WHY.
 As President Trump states, he decides what MAGA believes.
 To get his electoral endorsement a candidate must pledge support for MAGA.
 Once in office, he demands members of Congress vote the way he wants.
@@ -106,7 +69,7 @@ So many countries would no longer trust the U.S.
 Each country would have to fend for itself, and Russia and China would exploit the situation and make inroads into many nations.
 If elected, and President Trump invades Greenland I WILL vote to impeach him.
 If elected after we control Greenland, I will vote to return it to its residents.
-The time of taking new territory ended about 160 years ago.
+The time of taking new territory ended about #ago.
 TAXES: The middle class must not pay a higher rate of tax than higher earners.
 SOCIAL SECURITY: Social security must be fixed immediately to avoid an approaching shortage of funds.
 In keeping with my policy of the middle class not paying a higher rate of tax than higher income earners I would do the following: remove the current limit on earnings subject to social security tax of $184,500 which produces a tax of $11,439.
@@ -158,12 +121,7 @@ Where there is a problem hiring qualified staff, upon hiring we need to freeze t
 After 5 years of service half of the debt should be written off.
 After a further 5 years - 10 years in total - the remaining debt should be written off.
 Many, but not all, such hires will stay on after their debt is written off because they have experienced the many benefits of smaller town life, the life I have lived for the past 25 years.
-My health care proposals are:
--Preventive health screenings for adults
--Doctor visits, prescriptions, and dental care free up to age 14
--Pregnancy care from prenatal checkups to labor, delivery and postpartum care
-Fertility treatment
-HOUSING: There is an urgent need for more housing in the U.S. and a need for an increased percentage of home ownership and a decrease in the average age of the first-time home buyer.
+My health care proposals are: -Preventive health screenings for adults -Doctor visits, prescriptions, and dental care free up to age 14 -Pregnancy care from prenatal checkups to labor, delivery and postpartum care Fertility treatment HOUSING: There is an urgent need for more housing in the U.S. and a need for an increased percentage of home ownership and a decrease in the average age of the first-time home buyer.
 If elected, I will be very focused on providing first homes for thousands of people in the 8th district.
 I have a plan with some innovative features.
 So many people are paying rents of from $1,000 up to $2,000 per month.
@@ -196,8 +154,7 @@ Given that Wexler is thought to be the source of Epstein's wealth this indicates
 The appearance of Attorney General Pam Bondi before the committee a few days earlier was a complete disgrace.
 So many questions from opposing members were met with a tirade of vitriolic responses, ignoring the questions.
 If the roles were reversed Republicans would be loudly complaining.
-In view of the current situation, including the fact that approximately 3 million pages are still not released, I suggest the following:
-1.
+In view of the current situation, including the fact that approximately 3 million pages are still not released, I suggest the following: 1.
 Pam Bondi needs to be replaced due to her handling of the Epstein case and also the fact that in many respects she is acting more like the President's attorney, which is not her role (ACHIEVED) and 2.
 A highly respected, clearly impartial judge be appointed to fully review the case, recommending criminal charges against any man who raped an underage girl within the entire Epstein setup.
 Society must promptly prosecute anyone who commits sexual acts against underage girls.

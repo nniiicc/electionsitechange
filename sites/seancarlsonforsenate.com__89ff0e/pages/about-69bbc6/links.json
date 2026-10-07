@@ -1,11 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61579352702200",
-"https://instagram.com//seancarlsonforstatesenate",
-"https://seancarlsonforsenate.com/",
-"https://seancarlsonforsenate.com/contact",
-"https://seancarlsonforsenate.com/endorsements",
-"https://seancarlsonforsenate.com/news",
-"https://seancarlsonforsenate.com/priorities",
-"https://secure.actblue.com/donate/carlsonweb"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.seancarlsonforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.seancarlsonforsenate.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.seancarlsonforsenate.com/"
+},
+{
+"text": "News",
+"href": "https://www.seancarlsonforsenate.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.seancarlsonforsenate.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Sean Carlson for State Senate]",
+"href": "https://www.seancarlsonforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579352702200"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//seancarlsonforstatesenate/"
+}
 ]

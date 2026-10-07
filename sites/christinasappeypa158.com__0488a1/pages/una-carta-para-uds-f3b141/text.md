@@ -1,4 +1,5 @@
-Hola.
+Home About Issues Join the Team Endorsements Media Donate Home About Issues Join the Team Endorsements Media Donate Conozca a Christina Su experiencia Christina merece su voto Una Carta para Uds.
+Los vecindarios del Distrito 158 Hola.
 Me llamo Christina.
 La democracia comienza en el hogar, y el Condado de West Chester es mi hogar.
 Hemos vivido aquí por más de 25 años.
@@ -22,3 +23,6 @@ Estoy lista para representar mi hogar, mis vecinos, y mi comunidad.
 Nos encanta vivir en este condado, y deseo hacer todo en mi poder para que sea aún más acogedor para nuestras familias y nuestras nuevas empresas.
 Quiero proteger y preservar nuestra naturaleza y aun màs, un ambiente saludable.
 De esta manera podremos preparar a nuestros hijos para que se lancen al futuro en confianza y sin temor.
+Back to Top Home En Español Conozca a Christina Su experiencia Christina merece su voto Una Carta para Uds.
+Los vecindarios del Distrito 158 la plataforma política de Christina El medio ambiente Cuidado de la salud Educación El derecho de la mujer Reforma gubernamental Prevención de la violencia armada Economía próspera Inmigración ¡Únase al equipo!
+Powered by Squarespace

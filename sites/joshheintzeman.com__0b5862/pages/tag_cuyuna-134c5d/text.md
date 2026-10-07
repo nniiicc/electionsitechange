@@ -1,5 +1,5 @@
-Our Opinion: Bonding for Cuyuna trails is a good area investment
-Originally published by the Brainerd Dispatch May 23 is approaching fast.
+Skip to content Menu Home Issues About Josh Accomplishments Get Involved News Contact Donate Close Menu Cuyuna May 13, 2016 Our Opinion: Bonding for Cuyuna trails is a good area investment Article Bonding , Cuyuna Originally published by the Brainerd Dispatch May 23 is approaching fast.
 That’s the date that the Minnesota Legislature is set to adjourn, presumably with its work for the session completed.
 It’s looking more and more like that won’t be happening.
-Numerous important issues still need to be resolved, including a bonding bill in which funding […]
+Numerous important issues still need to be resolved, including a bonding bill in which funding […] read more Search Recent Posts Radio Ad Transcripts 2020 Radio Ad Transcripts 2018 Radio Ad Transcripts 2016 State Legislature: Area legislators hail veterans tax cut bill: They share high, low points of session Categories Article Radio Ad Uncategorized Tags Bonding Child Care Cuyuna Legislature Taxes Veterans Archives July 2022 October 2020 October 2018 October 2016 June 2016 May 2016 February 2016 Back To Top © www.joshheintzeman.com # Prepared and paid for by Committee to Elect Josh Heintzeman, P.O.
+Box 33, Merrifield, MN 56465

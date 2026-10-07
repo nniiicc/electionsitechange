@@ -1,5 +1,7 @@
-“Those are two of the new power brokers in L.A.
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio In The News Feb 08, 2019 The New Political Power Brokers in the San Gabriel Valley “Those are two of the new power brokers in L.A.
 County,” said Alan Clayton, a Democratic redistricting expert who has worked to elect Latino candidates but wasn’t involved in the Rubios’ campaigns.
-“Because they’re a duo.”
-Clayton noted that either of the Rubios could be well-positioned to run for the 32nd Congressional District seat if Rep.
+“Because they’re a duo.” Clayton noted that either of the Rubios could be well-positioned to run for the 32nd Congressional District seat if Rep.
 Grace Napolitano, D-El Monte, who’s 82, were to retire.
+They were deported as kids.
+Now the Rubio sisters are California lawmakers Search Search Recent Updates Early Child Mental Health Services Deliver Critical Help Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices Solving California’s housing crisis demands action.
+These steps will help Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California Once deported, the Rubios are the first sisters to serve in the California Legislature Post navigation Previous: We are Trump’s worst nightmare: Two sisters at California’s Capitol Next: Once deported, the Rubios are the first sisters to serve in the California Legislature Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

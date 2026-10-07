@@ -1,11 +1,3 @@
-M A R K WALCZYK
-PRINCIPLED FIGHTER
-Home
-About
-Get Involved
-Contact
-Events
-Front Yard Of America Classic
-Join Mark, Sign Up Now
-Tell us how you’d like to get involved, a member of our team will get in touch soon
-Thanks for submitting!
+top of page M A R K WALCZYK PRINCIPLED FIGHTER Home About Get Involved Contact Events ​Front Yard Of America Classic DONATE SUBSCRIBE YARD SIGNS GET INVOLVED Join Mark, Sign Up Now WAYS TO HELP Knock on Doors Make Calls Become a Sponsor Host Fundraiser Request Yard Sign Tell us how you’d like to get involved, a member of our team will get in touch soon SUBMIT Thanks for submitting!
+FREEDOM FIRST New York Always DONATE VOLUNTEER SUBSCRIBE ​ Get the latest updates from the campaign trail First Name Enter your email address Subscribe Thanks for subscribing!
+Home About Endorsements Get Involved Contact ​ MARK WALCZYK - FOR SENATE - © # paid for by the Friends of Walczyk Friends of Walczyk 1 Public Square, Box 11B Watertown, NY 13601 Email Our Team (315) 608-3023 bottom of page

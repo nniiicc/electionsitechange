@@ -1,7 +1,7 @@
-WOMEN MAKING WAVES 2025
-I’m excited to share that Congresswoman Cori Bush will be our keynote speaker at this year’s Women Making Waves!
+Carol Ammons Sign In My Account Home Request Forms About Legislation Women Making Waves Volunteer Contribute Back Events & Meetings Back Meet Carol Back Accomplishments Back Purchase Tickets Here Women Making Waves 2019 Women Making Waves 2018 Women Making Waves 2017 Women Making Waves 2016 Women Making Waves 2015 Back The People's Agenda Sign In My Account Home Request Forms Events & Meetings About Meet Carol Legislation Accomplishments Women Making Waves Purchase Tickets Here Women Making Waves 2019 Women Making Waves 2018 Women Making Waves 2017 Women Making Waves 2016 Women Making Waves 2015 Volunteer The People's Agenda Contribute Carol Ammons WOMEN MAKING WAVES 2025 I’m excited to share that Congresswoman Cori Bush will be our keynote speaker at this year’s Women Making Waves!
 In Congress, Cori was a fierce advocate for The People.
 Congresswoman Bush is the first Black woman to have represented Missouri in Congress, made history when she slept on the Capitol steps to help secure an eviction moratorium extension, and led as an outspoken activist in the wake of Michael Brown’s murder in St.
 Louis.
 We’ll be at Church of the Living God on Saturday, November 1st, and you won’t want to miss us!
-You can get your tickets now:
+You can get your tickets now: GET YOUR TICKET CONTACT INFO: P.O.
+Box 53 Urbana, IL 61803 About Meet Carol Legislation Accomplishments Women Making Waves Panels Your Voice Matters Contact Us

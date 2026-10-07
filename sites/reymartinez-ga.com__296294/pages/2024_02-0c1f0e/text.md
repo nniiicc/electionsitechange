@@ -1,6 +1,3 @@
-I Stand With Governor Kemp and Against Illegal Immigration
-As reported in The Epoch Times, on February 13th, Governor Kemp announced an estimated 15-20 more National Guardsmen would be deployed to Texas to set [More]
-Members of the House will be working with Governor Kemp, Speaker Burns and Appropriations chairman Hatchett to pass a balanced budget that helps families and [More]
-Week 2 was mostly taken up with discussions about the budget.
-While some states are seriously underwater with millions or billions of dollars in debt, [More]
-Copyright © 2026 | WordPress Theme by MH Themes
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate Month: February 2024 I Stand With Governor Kemp and Against Illegal Immigration February 16, 2024 Rey Martinez 0 As reported in The Epoch Times, on February 13th, Governor Kemp announced an estimated 15-20 more National Guardsmen would be deployed to Texas to set [More] FY 2025 Balanced Budget February 4, 2024 Rey Martinez 0 Members of the House will be working with Governor Kemp, Speaker Burns and Appropriations chairman Hatchett to pass a balanced budget that helps families and [More] 2024 Legislative Session, Weeks 2 & 3 February 1, 2024 Rey Martinez 0 Week 2 was mostly taken up with discussions about the budget.
+While some states are seriously underwater with millions or billions of dollars in debt, [More] Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

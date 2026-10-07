@@ -1,38 +1,18 @@
-Opinion June 19, 2024 Rep.
-Emerson Levy: Oregon needs a statewide plan for technology in the schools to protect children
-News May 31, 2024 KTVZ: ‘That is a perfect storm for failure’: Rep.
-Emerson Levy looking to tackle technology distractions in schools
-News May 30, 2024 Central Oregon Daily: Bend’s Levy looking at impact of cell phone distractions in classroom
-Opinion May 7, 2024 Rep.
-Emerson Levy and Councilor Anthony Broadman: Put out the fire on home insurance
-News April 18, 2024 KTVZ: First-term state Rep.
-Emerson Levy of Bend lists legislative accomplishments
-News April 16, 2024 KTVZ: State Reps.
-Levy, Kropf to hold post-legislative session town hall Saturday at Downtown Bend Library
-News April 11, 2024 KTVZ: Rep.
-Levy: $2.5 million in grants now available to Oregon school districts for wireless panic alarms
-News March 4, 2024 Central Oregon Daily: ‘Trenton’s’ e-bike law, named for Bend teen, passes Oregon Senate
-News February 16, 2024 Oregon Capital Chronicle: Dark money group targets Oregon swing districts with new mailers, ads
-News February 13, 2024 KTVZ: ‘Not a political issue.
+About Priorities Endorsements News Get Involved Donate News Opinion August 29, 2024 Bend Nest: Things I’ve Learned: Emerson Levy News July 10, 2024 Source Weekly: A Global Movement Gains Ground In Bend-La Pine Schools Opinion June 19, 2024 Rep.
+Emerson Levy: Oregon needs a statewide plan for technology in the schools to protect children Editorial June 9, 2024 Bend Bulletin: Oregon needs solutions for homeowners insurance News May 31, 2024 KTVZ: ‘That is a perfect storm for failure’: Rep.
+Emerson Levy looking to tackle technology distractions in schools News May 30, 2024 Central Oregon Daily: Bend’s Levy looking at impact of cell phone distractions in classroom Opinion May 7, 2024 Rep.
+Emerson Levy and Councilor Anthony Broadman: Put out the fire on home insurance News April 18, 2024 KTVZ: First-term state Rep.
+Emerson Levy of Bend lists legislative accomplishments News April 16, 2024 KTVZ: State Reps.
+Levy, Kropf to hold post-legislative session town hall Saturday at Downtown Bend Library News April 11, 2024 KTVZ: Rep.
+Levy: $2.5 million in grants now available to Oregon school districts for wireless panic alarms News April 2, 2024 Associated Press: States aim to boost school safety after Tennessee shooting News March 4, 2024 Central Oregon Daily: ‘Trenton’s’ e-bike law, named for Bend teen, passes Oregon Senate News February 16, 2024 Oregon Capital Chronicle: Dark money group targets Oregon swing districts with new mailers, ads News February 13, 2024 KTVZ: ‘Not a political issue.
 It’s a human issue’: Rep.
-Emerson Levy introduces bill to lower prescription drug costs
-News February 12, 2024 Oregon Capital Chronicle: Bend lawmaker behind effort to curb prescription drug costs
-Editorial February 9, 2024 Bend Bulletin: Legislators should make prescription drug policies more reasonable
-Letter to the Editor January 31, 2024 Rep.
-Emerson Levy: Important new wildfire-related consumer protections for home insurance are now law
-Press Release November 30, 2023 Oregon State Representative Emerson Levy Announces 2024 Re-Election Campaign in House District 53
-Editorial November 28, 2023 Bend Bulletin: Oregon gets more serious about housing affordability and availability
-News October 10, 2023 Central Oregon Daily: Wyden roundtable in Bend focuses on agriculture, food production
-News September 17, 2023 Bend Bulletin: Bend representative honors Denmark’s monarchy for saving Jews from the Holocaust
-News September 14, 2023 Source Weekly: Bend Don’t Break: Oregon District 53 Representative Emerson Levy (podcast)
-News September 4, 2023 Bend Bulletin: Central Oregon’s labor union landscape has changed for the better in recent years
-News August 31, 2023 Bend Bulletin: Central Oregon Reps.
-Breese-Iverson, Levy recap 2023 legislative session at Redmond town hall
-News July 19, 2023 Central Oregon Daily: Bend Rep.
-Levy holds e-bike roundtable, prompted by deadly collision
-News May 31, 2023 Willamette Week: Lawmakers Want to Give Rural Oregon a Megaphone in Wildlife Disputes
-News April 13, 2023 Oregon Capital Insider: House approves plan to give large counties more control of forfeiture funds
-Opinion March 10, 2023 Emerson Levy: Legislature’s affordable housing and houseless response package is a big step toward stability
-News February 11, 2023 Central Oregon Daily: Rep.
-Levy sponsors Oregon bill to require silent panic alarms in schools
-News November 8, 2022 Bend Bulletin: Levy leads Sipe in race for House District 53 by razor thin margin
+Emerson Levy introduces bill to lower prescription drug costs News February 12, 2024 Oregon Capital Chronicle: Bend lawmaker behind effort to curb prescription drug costs Editorial February 9, 2024 Bend Bulletin: Legislators should make prescription drug policies more reasonable Letter to the Editor January 31, 2024 Rep.
+Emerson Levy: Important new wildfire-related consumer protections for home insurance are now law News November 30, 2023 Bend Bulletin: Rep.
+Emerson Levy running for reelection in House District 53 Press Release November 30, 2023 Oregon State Representative Emerson Levy Announces 2024 Re-Election Campaign in House District 53 Editorial November 28, 2023 Bend Bulletin: Oregon gets more serious about housing affordability and availability News October 10, 2023 Bend Bulletin: U.S.
+Sen.
+Ron Wyden talks food and beverage bounty in Bend News October 10, 2023 Central Oregon Daily: Wyden roundtable in Bend focuses on agriculture, food production Editorial September 23, 2023 Bend Bulletin: Bend legislators pick priorities for 2024 session News September 17, 2023 Bend Bulletin: Bend representative honors Denmark’s monarchy for saving Jews from the Holocaust News September 14, 2023 Source Weekly: Bend Don’t Break: Oregon District 53 Representative Emerson Levy (podcast) News September 4, 2023 Bend Bulletin: Central Oregon’s labor union landscape has changed for the better in recent years News August 31, 2023 Bend Bulletin: Central Oregon Reps.
+Breese-Iverson, Levy recap 2023 legislative session at Redmond town hall Editorial August 3, 2023 Bend Bulletin: A special night out with Bend police News July 19, 2023 Central Oregon Daily: Bend Rep.
+Levy holds e-bike roundtable, prompted by deadly collision News May 31, 2023 Willamette Week: Lawmakers Want to Give Rural Oregon a Megaphone in Wildlife Disputes News April 17, 2023 KBND: HD 53 Rep.
+Levy On Her First Term Progress News April 13, 2023 Oregon Capital Insider: House approves plan to give large counties more control of forfeiture funds Opinion March 10, 2023 Emerson Levy: Legislature’s affordable housing and houseless response package is a big step toward stability News February 11, 2023 Central Oregon Daily: Rep.
+Levy sponsors Oregon bill to require silent panic alarms in schools News January 17, 2023 KTVZ: New state Rep.
+Emerson Levy reflects on first day in Oregon Legislature News January 9, 2023 Oregon Capital Insider: “Opening Day” for new governor and lawmakers in Salem News December 28, 2022 Bend Bulletin: Bend area House members get committee leadership positions News November 17, 2022 Bend Bulletin: Levy defeats Sipe in District 53 News November 14, 2022 Bend Bulletin: Results of House race are still in limbo as ballots trickle in News November 8, 2022 Bend Bulletin: Levy leads Sipe in race for House District 53 by razor thin margin About Priorities Endorsements News Get Involved Donate Paid for by Friends of Em Levy (20377) hello@emersonvotes.com PO Box 6642 Bend, OR 97708 Contact info Show Less Menu

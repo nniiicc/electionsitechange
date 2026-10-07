@@ -1,6 +1,4 @@
-On The Issues
-Your Land Should Stay Open, Useful, and Protected
-Public lands belong to the people.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate On The Issues Public Lands ▼ Your Land Should Stay Open, Useful, and Protected Public lands belong to the people.
 Not bureaucrats.
 Not special interests.
 Not politicians looking for a talking point.
@@ -20,8 +18,7 @@ It means responsible grazing and timber management.
 It means reducing wildfire risk.
 It means keeping access open for your family.
 And it means making sure public lands serve the public.
-Action Steps
-Return more decision-making power to Montana.
+Action Steps Return more decision-making power to Montana.
 Keep trails open and accessible.
 Support responsible grazing, timber, and resource management.
 Protect school funding.
@@ -29,7 +26,7 @@ Oppose federal overreach and restrictive policies that lock Montanans out.
 Your lands.
 Your access.
 Your vote.
-You’re Paying More.
+Health Care ▼ You’re Paying More.
 Care Is Getting Harder to Find.
 Health care should work for the people who truly need it.
 The elderly.
@@ -53,8 +50,7 @@ The goal should be simple.
 Protect the vulnerable.
 Respect taxpayers.
 Make care easier to get.
-Action Steps
-Prioritize Medicaid for the elderly, disabled, chronically ill, and truly needy.
+Action Steps Prioritize Medicaid for the elderly, disabled, chronically ill, and truly needy.
 Review growth in enrollment among able-bodied adults.
 Control costs and reduce waste.
 Support work requirements where appropriate.
@@ -62,8 +58,7 @@ Help families access care without making shortages worse.
 Your health.
 Your tax dollars.
 Your children’s future.
-Your Child Deserves a School That Works
-Parents know their children better than any system does.
+Education ▼ Your Child Deserves a School That Works Parents know their children better than any system does.
 Every child is different.
 Some thrive in a traditional public school.
 Some need a charter school.
@@ -82,8 +77,7 @@ Education should serve students and families.
 Not unions.
 Not bureaucracy.
 Not special interests.
-Action Steps
-Expand real school choice.
+Action Steps Expand real school choice.
 Support strong public schools and quality charter options.
 Focus on reading, writing, math, and critical thinking.
 Create more internships and career pathways.
@@ -91,8 +85,7 @@ Make colleges share responsibility for student loan outcomes.
 Your child.
 Your choice.
 Your vote.
-Your Paycheck Should Come First
-Real prosperity doesn’t come from government.
+Improving Our Economy ▼ Your Paycheck Should Come First Real prosperity doesn’t come from government.
 It comes from workers, small businesses, farms, ranches, builders, and families who get up every day and make Montana work.
 But every new tax, fee, and regulation takes another bite out of your paycheck.
 That means less money for groceries.
@@ -100,14 +93,12 @@ Less money for gas.
 Less money for savings.
 Less money for your kids.
 Politicians love to brag about new bills they passed.
-But the better question is this:
-What did they repeal?
+But the better question is this: What did they repeal?
 What burden did they remove?
 What did they do to make life easier for Montana families?
 We need an economy that rewards work, supports local businesses, and gives young people a reason to stay here.
 That starts with getting government out of the way.
-Action Steps
-Cut unnecessary taxes.
+Action Steps Cut unnecessary taxes.
 Reduce burdensome regulations.
 Repeal rules that slow job creation.
 Support small businesses and local hiring.
@@ -115,8 +106,7 @@ Build an economy where Montana families can stay, work, and thrive.
 Your job.
 Your paycheck.
 Your family’s future.
-Safe Communities Don’t Happen by Accident
-Montana families want safe neighborhoods.
+Rule of Law ▼ Safe Communities Don’t Happen by Accident Montana families want safe neighborhoods.
 Fair rules.
 Equal justice.
 Common sense.
@@ -140,8 +130,7 @@ Businesses.
 Victims.
 Law enforcement.
 And the communities we call home.
-Action Steps
-Fully support law enforcement and military.
+Action Steps Fully support law enforcement and military.
 Demand fair and consistent enforcement of the law.
 Reject soft-on-crime policies that have failed elsewhere.
 Stop judicial activism and legislative overreach.
@@ -150,3 +139,5 @@ Your safety.
 Your rights.
 Your community.
 Your vote.
+Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

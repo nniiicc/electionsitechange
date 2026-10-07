@@ -1,8 +1,30 @@
 [
-"https://lisajdavisfor32.com/",
-"https://lisajdavisfor32.com/get-involved",
-"https://lisajdavisfor32.com/meet-lisa",
-"https://lisajdavisfor32.com/privacy-policy",
-"https://secure.actblue.com/donate/ljd32staterep",
-"https://webador.com/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ljd32staterep"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisajdavisfor32.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lisajdavisfor32.com/"
+},
+{
+"text": "Meet Lisa",
+"href": "https://www.lisajdavisfor32.com/meet-lisa"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lisajdavisfor32.com/privacy-policy"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.lisajdavisfor32.com/#main-content"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+}
 ]

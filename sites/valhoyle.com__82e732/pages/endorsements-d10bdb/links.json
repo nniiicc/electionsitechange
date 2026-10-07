@@ -1,29 +1,130 @@
 [
-"http://mandatemedia.com/",
-"https://action.valhoyle.com/a/endorse",
-"https://secure.actblue.com/donate/stand-with-val-hoyle",
-"https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=50",
-"https://valhoyle.com/",
-"https://valhoyle.com/about",
-"https://valhoyle.com/contact",
-"https://valhoyle.com/donate",
-"https://valhoyle.com/endorsements",
-"https://valhoyle.com/esp",
-"https://valhoyle.com/facebook",
-"https://valhoyle.com/get-involved",
-"https://valhoyle.com/instagram",
-"https://valhoyle.com/issues",
-"https://valhoyle.com/latest",
-"https://valhoyle.com/lawnsign",
-"https://valhoyle.com/media-resources",
-"https://valhoyle.com/mobile-donate",
-"https://valhoyle.com/privacy",
-"https://valhoyle.com/share",
-"https://valhoyle.com/sign-up",
-"https://valhoyle.com/terms",
-"https://valhoyle.com/twitter"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=100&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=25&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=250&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=5&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-val-hoyle?express_lane=true&amount=50&refcode2=express-buttons"
+},
+{
+"text": "About Val",
+"href": "https://www.valhoyle.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.valhoyle.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.valhoyle.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.valhoyle.com/mobile-donate/"
+},
+{
+"text": "En Español",
+"href": "https://www.valhoyle.com/esp/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.valhoyle.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.valhoyle.com/"
+},
+{
+"text": "Join the Movement",
+"href": "https://www.valhoyle.com/donate/"
+},
+{
+"text": "MEET VAL »",
+"href": "https://www.valhoyle.com/about/"
+},
+{
+"text": "Mandate Media",
+"href": "http://www.mandatemedia.com"
+},
+{
+"text": "Media Resources",
+"href": "https://www.valhoyle.com/media-resources/"
+},
+{
+"text": "News",
+"href": "https://www.valhoyle.com/latest/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/stand-with-val-hoyle"
+},
+{
+"text": "Priorities",
+"href": "https://www.valhoyle.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.valhoyle.com/privacy/"
+},
+{
+"text": "Request a Sign",
+"href": "https://www.valhoyle.com/lawnsign/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.valhoyle.com/sign-up/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.valhoyle.com/terms/"
+},
+{
+"text": "We can’t win this fight if we don’t join together and fight back against the billionaires. Be part of our movement and chip in today.",
+"href": "https://www.valhoyle.com/donate/"
+},
+{
+"text": "[image: Val Hoyle for Congress]",
+"href": "https://www.valhoyle.com/"
+},
+{
+"text": "[image]Get a Lawn Sign",
+"href": "https://www.valhoyle.com/lawnsign/"
+},
+{
+"text": "[image]Help us Spread the Word",
+"href": "https://www.valhoyle.com/share/"
+},
+{
+"text": "[image]Sign up to Get Involved",
+"href": "https://www.valhoyle.com/get-involved/"
+},
+{
+"text": "[no text]",
+"href": "https://www.valhoyle.com/facebook/"
+},
+{
+"text": "[no text]",
+"href": "https://www.valhoyle.com/instagram/"
+},
+{
+"text": "[no text]",
+"href": "https://www.valhoyle.com/twitter/"
+},
+{
+"text": "add your name to the list",
+"href": "https://action.valhoyle.com/a/endorse"
+}
 ]

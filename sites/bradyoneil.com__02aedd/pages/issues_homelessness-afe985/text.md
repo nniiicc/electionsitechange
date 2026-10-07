@@ -1,5 +1,4 @@
-Homelessness
-As a child I recall the pain of homelessness only being present during family outings to major cities.
+Welcome What I'm About Issues Minnesota's Promise Exploitation Homelessness Liberty Contribute Homelessness As a child I recall the pain of homelessness only being present during family outings to major cities.
 Today, I have witnessed public drug use, open defecation, litter, and unmistakable anguish of untreated mental illness all throughout suburban Minnesota.
 My heart does not harden at the sight of a fellow human being who has lost their footing.
 It breaks.
@@ -26,7 +25,4 @@ We deserve safe neighborhoods.
 We deserve cities that reflect the decency of the citizens who built them.
 And we deserve a government honest enough to look us in the eye and tell us the truth about what is happening in our own backyard.
 The first step toward solving any problem is the courage to name it accurately.
-It is past time we found that courage.
-(Pics are links)
-Official Statewide Homeless Totals
-Video can’t be displayed
+It is past time we found that courage. ﻿ (Pics are links) Official Statewide Homeless Totals Video can’t be displayed

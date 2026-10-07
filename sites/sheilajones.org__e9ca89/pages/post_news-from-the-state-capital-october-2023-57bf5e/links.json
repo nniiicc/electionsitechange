@@ -1,36 +1,170 @@
 [
-"http://gov.gerogia.gov/",
-"https://legis.ga.gov/legislation/63745",
-"https://legis.ga.gov/legislation/63759",
-"https://legis.ga.gov/legislation/63781",
-"https://legis.ga.gov/legislation/63797",
-"https://legis.ga.gov/legislation/63812",
-"https://legis.ga.gov/legislation/63895",
-"https://legis.ga.gov/legislation/64202",
-"https://legis.ga.gov/legislation/64223",
-"https://legis.ga.gov/legislation/64284",
-"https://legis.ga.gov/legislation/64319",
-"https://legis.ga.gov/legislation/64512",
-"https://legis.ga.gov/legislation/64603",
-"https://legis.ga.gov/legislation/64610",
-"https://legis.ga.gov/legislation/64710",
-"https://sheilajones.org/",
-"https://sheilajones.org/2022-race",
-"https://sheilajones.org/about",
-"https://sheilajones.org/community-awards",
-"https://sheilajones.org/contact-3",
-"https://sheilajones.org/donate",
-"https://sheilajones.org/endorsed-by",
-"https://sheilajones.org/events",
-"https://sheilajones.org/news",
-"https://sheilajones.org/news/categories/capital-news",
-"https://sheilajones.org/news/categories/community-event",
-"https://sheilajones.org/news/categories/legislation",
-"https://sheilajones.org/news/tags/2023",
-"https://sheilajones.org/news/tags/news",
-"https://sheilajones.org/post/2023-sponsored-co-sponsored-legislation",
-"https://sheilajones.org/post/2024-sponsored-legislation",
-"https://sheilajones.org/post/february-legislative-report",
-"https://sheilajones.org/profile/9943722e-de61-46d4-83a5-eba959cd8842/profile",
-"https://sheilajones.org/services-programs"
+{
+"text": "2022 Endorsements",
+"href": "https://www.sheilajones.org/endorsed-by"
+},
+{
+"text": "2023",
+"href": "https://www.sheilajones.org/news/tags/2023"
+},
+{
+"text": "2023 Sponsored/Co-sponsored Georgia Legislation",
+"href": "https://www.sheilajones.org/post/2023-sponsored-co-sponsored-legislation"
+},
+{
+"text": "2024 Sponsored/Co-sponsored Legislation",
+"href": "https://www.sheilajones.org/post/2024-sponsored-legislation"
+},
+{
+"text": "About",
+"href": "https://www.sheilajones.org/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.sheilajones.org/news"
+},
+{
+"text": "Capitol News",
+"href": "https://www.sheilajones.org/news/categories/capital-news"
+},
+{
+"text": "Community Awards",
+"href": "https://www.sheilajones.org/community-awards"
+},
+{
+"text": "Community Event",
+"href": "https://www.sheilajones.org/news/categories/community-event"
+},
+{
+"text": "Contact",
+"href": "https://www.sheilajones.org/contact-3"
+},
+{
+"text": "DONATE",
+"href": "https://www.sheilajones.org/donate"
+},
+{
+"text": "District 60 | 2022 Race",
+"href": "https://www.sheilajones.org/2022-race"
+},
+{
+"text": "Events",
+"href": "https://www.sheilajones.org/events"
+},
+{
+"text": "February 2023 | Legislative Report",
+"href": "https://www.sheilajones.org/post/february-legislative-report"
+},
+{
+"text": "Free Services & Programs",
+"href": "https://www.sheilajones.org/services-programs"
+},
+{
+"text": "HB 129",
+"href": "https://www.legis.ga.gov/legislation/63759"
+},
+{
+"text": "HB 147",
+"href": "https://www.legis.ga.gov/legislation/63797"
+},
+{
+"text": "HB 340",
+"href": "https://www.legis.ga.gov/legislation/64223"
+},
+{
+"text": "HB 373",
+"href": "https://www.legis.ga.gov/legislation/64284"
+},
+{
+"text": "HB 497",
+"href": "https://www.legis.ga.gov/legislation/64603"
+},
+{
+"text": "HB 538",
+"href": "https://www.legis.ga.gov/legislation/64710"
+},
+{
+"text": "Home",
+"href": "https://www.sheilajones.org"
+},
+{
+"text": "Legislation",
+"href": "https://www.sheilajones.org/news/categories/legislation"
+},
+{
+"text": "News & Announcements",
+"href": "https://www.sheilajones.org/news"
+},
+{
+"text": "SB 11",
+"href": "https://www.legis.ga.gov/legislation/63781"
+},
+{
+"text": "SB 129",
+"href": "https://www.legis.ga.gov/legislation/64202"
+},
+{
+"text": "SB 155",
+"href": "https://www.legis.ga.gov/legislation/64319"
+},
+{
+"text": "SB 211",
+"href": "https://www.legis.ga.gov/legislation/64512"
+},
+{
+"text": "SB 218",
+"href": "https://www.legis.ga.gov/legislation/64610"
+},
+{
+"text": "SB 44",
+"href": "https://www.legis.ga.gov/legislation/63812"
+},
+{
+"text": "SB 45",
+"href": "https://www.legis.ga.gov/legislation/63745"
+},
+{
+"text": "SB 60",
+"href": "https://www.legis.ga.gov/legislation/63895"
+},
+{
+"text": "SB 68",
+"href": "https://www.legis.ga.gov/legislation/63895"
+},
+{
+"text": "See All",
+"href": "https://www.sheilajones.org/news"
+},
+{
+"text": "Sheila Jones",
+"href": "https://www.sheilajones.org/profile/9943722e-de61-46d4-83a5-eba959cd8842/profile"
+},
+{
+"text": "[image: 2023 Sponsored/Co-sponsored Georgia Legislation]",
+"href": "https://www.sheilajones.org/post/2023-sponsored-co-sponsored-legislation"
+},
+{
+"text": "[image: 2024 Sponsored/Co-sponsored Legislation]",
+"href": "https://www.sheilajones.org/post/2024-sponsored-legislation"
+},
+{
+"text": "[image: February 2023 | Legislative Report]",
+"href": "https://www.sheilajones.org/post/february-legislative-report"
+},
+{
+"text": "[image: Sheila-Jones 2560-x-1440-px_.webp]",
+"href": "https://www.sheilajones.org"
+},
+{
+"text": "news",
+"href": "https://www.sheilajones.org/news/tags/news"
+},
+{
+"text": "sheilajones_jones@yahoo.com",
+"href": "mailto:sheilajones_jones@yahoo.com?subject=Rep+Jones+Questions"
+},
+{
+"text": "www.gov.gerogia.gov",
+"href": "http://www.gov.gerogia.gov"
+}
 ]

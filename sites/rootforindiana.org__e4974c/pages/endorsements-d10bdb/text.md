@@ -1,3 +1,4 @@
-Proudly Endorsed
-These organizations, elected officials, community leaders, and advocates believe in our campaign to make Indiana government work better for working families.
+0 Skip to Content Home Platform The Platform In the News Endorsements Get Involved Newsletter Volunteer Yard Sign Merch Events Voting Info Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Donate Open Menu Close Menu Home Platform The Platform In the News Endorsements Get Involved Newsletter Volunteer Yard Sign Merch Events Voting Info Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Donate Open Menu Close Menu Home Folder: Platform Back The Platform In the News Endorsements Folder: Get Involved Back Newsletter Volunteer Yard Sign Merch Events Folder: Voting Info Back Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Back Donate Proudly Endorsed These organizations, elected officials, community leaders, and advocates believe in our campaign to make Indiana government work better for working families.
 I am proud to have earned their trust, and I will work every day to earn yours.
+Root for Indiana Contact us: info@rootforindiana.org Follow us on social media!
+Paid for by Root for IN

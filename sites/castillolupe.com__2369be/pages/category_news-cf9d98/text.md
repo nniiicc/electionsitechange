@@ -1,5 +1,5 @@
-“Independent” Democrats Unite Behind Beating Democrat Garcia
-Democrat candidates in Illinois’ 4th District fighting for power, NOT fighting for the good people of the 4th Congressional District.
+Skip to content Home Meet Lupe Values News Contact Home Meet Lupe Values News Contact News News “Independent” Democrats Unite Behind Beating Democrat Garcia May 5, 2026 Democrat candidates in Illinois’ 4th District fighting for power, NOT fighting for the good people of the 4th Congressional District.
 This Tribune piece captures a surprising moment: five independent (mostly left-leaning Democrat hopefuls) publicly blasting Patty García for how she got the Democratic nomination — calling Rep.
-Jesús “Chuy” García’s last‑minute handoff “undemocratic” and prompting […]
-“Independent” Democrats Unite Behind Beating Democrat Garcia Read Post »
+Jesús “Chuy” García’s last‑minute handoff “undemocratic” and prompting […] “Independent” Democrats Unite Behind Beating Democrat Garcia Read Post » News Restoring Integrity: Addressing Local Corruption April 4, 2026 Voters in the 4th District deserve transparency and accountability from their leaders.
+Recent reports, such as the investigation by Patch.com regarding suburban municipal spending, highlight why we need a Representative who will fight for the taxpayer, not the machine.
+As your candidate, Lupe Castillo, I am committed to ending out-of-control spending and cutting government programs Restoring Integrity: Addressing Local Corruption Read Post » Home Meet Lupe Values News Contact Copyright © # Lupe Castillo for Congress Paid for by Lupe Castillo for Congress Scroll to Top Review My Order 0 Remove Use setting Suggested for you Subtotal Taxes & shipping calculated at checkout Checkout 0 Notifications

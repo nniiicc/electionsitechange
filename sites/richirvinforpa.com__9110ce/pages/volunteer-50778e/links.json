@@ -1,8 +1,42 @@
 [
-"https://facebook.com/irvinfor81st",
-"https://richirvinforpa.com/",
-"https://richirvinforpa.com/conservative-issues",
-"https://richirvinforpa.com/privacy-policy",
-"https://richirvinforpa.com/the-81st-district",
-"https://richirvinforpa.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://richirvinforpa.com/#about"
+},
+{
+"text": "HOME",
+"href": "https://richirvinforpa.com/"
+},
+{
+"text": "Home",
+"href": "https://richirvinforpa.com"
+},
+{
+"text": "ISSUES",
+"href": "https://richirvinforpa.com/conservative-issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://richirvinforpa.com/privacy-policy/"
+},
+{
+"text": "THE 81ST DISTRICT",
+"href": "https://richirvinforpa.com/the-81st-district/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://richirvinforpa.com/volunteer/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://richirvinforpa.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://richirvinforpa.com/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/irvinfor81st"
+}
 ]

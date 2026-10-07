@@ -1,5 +1,4 @@
-About Montserrat
-I came to this country as a little girl with my mom and my sister, undocumented, not speaking a word of English.
+0 Skip to Content ABOUT ISSUES PRESS RUNOFF HUB JOIN THE TEAM DONATE Open Menu Close Menu ABOUT ISSUES PRESS RUNOFF HUB JOIN THE TEAM DONATE Open Menu Close Menu ABOUT ISSUES PRESS RUNOFF HUB JOIN THE TEAM DONATE About Montserrat I came to this country as a little girl with my mom and my sister, undocumented, not speaking a word of English.
 My mom worked three jobs and told us that education was the one thing no one could ever take away from us.
 That belief shaped my life.
 I graduated from Austin public schools, did my basics at ACC, and completed both my bachelor's and master's degrees at the University of Texas.
@@ -20,3 +19,10 @@ I met my husband, Gilbert, when we were both students at ACC.
 This is my community.
 These are my neighbors.
 Now I am running for Texas House District 49 to ensure that every child learns in a fully funded school, every worker earns a fair wage, and every family has the opportunity to thrive.
+Juntos for Justice.
+Unidos for Change.
+MONTSERRAT GARIBAY FOR TEXAS HOUSE DISTRICT 49 If you wish to mail your contribution, please mail to: Montserrat Garibay Campaign P.O.
+Box 80498 Austin, TX 78708 CONTACT Pol.
+Adv. paid for by Montserrat Garibay Campaign.
+Rick Levy, Treasurer.
+DONATE

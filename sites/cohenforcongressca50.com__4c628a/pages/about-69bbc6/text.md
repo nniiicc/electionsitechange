@@ -1,10 +1,10 @@
-For Truth.
+Meet Steve News Endorsements Volunteer DONATE For Truth.
 For Change.
 For Congress.
-Steve Cohen spent fifty years in broadcast journalism holding the powerful accountable.
+Meet Steve Cohen Steve Cohen spent fifty years in broadcast journalism holding the powerful accountable.
 As KUSI-TV's News Director for two decades, he asked the questions politicians didn't want to answer.
 Now he's asking one more: who is Congress actually working for?
-Steve Cohen has spent fifty years doing one thing: telling San Diegans the truth.
+Fifty Years of Telling San Diego the Truth Steve Cohen has spent fifty years doing one thing: telling San Diegans the truth.
 As a television news executive and journalist, Steve built his career on accountability.
 He served for twenty years as News Director of KUSI-TV, San Diego's independent television station, where he led a newsroom committed to covering the stories that mattered to working families — not the stories that made politicians comfortable.
 Before joining KUSI, Steve spent over a decade covering California politics from Los Angeles, beginning in 1982.
@@ -27,5 +27,4 @@ And he believes the federal budget should be scrutinized with the same rigor he 
 Steve Cohen isn't a politician.
 He's a journalist, a San Diegan, and a neighbor who has spent his life making sure the powerful couldn't hide.
 He's not stopping now.
-PAID FOR BY COHEN FOR CONGRESS
-POWERED BY VOTEGTR
+PAID FOR BY COHEN FOR CONGRESS POWERED BY VOTEGTR

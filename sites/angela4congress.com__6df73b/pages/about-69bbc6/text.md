@@ -1,3 +1,7 @@
+Skip navigation menu About Issues Endorsements Volunteer Donate Rooted in LA.
+Ready for change.
+About Issues Endorsements Volunteer Donate Rooted in LA.
+Ready for change.
 Angela Gonzales-Torres is a democratic socialist running to represent California’s 34th Congressional District.
 A lifelong Angeleno and advocate for equity and justice, Angela pursued higher education to bring that knowledge home to fight for working families like her own.
 She currently works in supporting people transitioning from prison into universities, helping create pathways to higher education and opportunity after incarceration.
@@ -12,3 +16,4 @@ It tells her this: it’s time for change, it’s time for courage, and it’s u
 She is running a grassroots, community-informed, student-led campaign to get corporate money’s influence out of our politics with the support of national and local progressive groups.
 Her campaign is grounded in the belief that Los Angeles deserves real representation and respect and that on a federal level, we need a leader who reflects the courage of our people.
 Angela brings both the professional expertise of a housing advocate and reentry leader, and the personal experience of a working-class representative for and from the community!
+Media Powered by RUN! website builder Paid for by Angela for CA-34 You need to enable JavaScript to run this app.

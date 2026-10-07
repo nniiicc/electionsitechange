@@ -1,4 +1,4 @@
-Suzan DelBene has represented Washington’s First Congressional District since 2012, and has been a strong advocate for our region in Washington, D.C.
+Explore → Donate Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up ← Close About Personal Story Suzan DelBene has represented Washington’s First Congressional District since 2012, and has been a strong advocate for our region in Washington, D.C.
 Growing up, Suzan saw her parents struggle financially, constantly moving as they looked for work.
 With the help of student loans and financial aid, Suzan worked her way through college and earned a bachelor’s degree in biology from Reed College in Portland, Oregon.
 She later received a Master’s in Business Administration from the University of Washington.
@@ -22,3 +22,4 @@ Suzan has served in several key leadership roles for House Democrats over the ye
 Now, as the Chair of the DCCC, Suzan is building a team to win back the House Majority in 2026 and make Leader Hakeem Jeffries the first Black Speaker of the House.
 With a lifetime of business experience and community service, Suzan brings a depth and history of achieving results that are essential in today’s divisive political environment.
 Suzan and her husband Kurt have two children, two granddaughters, and a dog named Reily, and are proud to call the First District home.
+Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up Privacy Policy Paid for by DelBene for Congress PO Box 477 Kirkland, WA 98083 (425) 483-1500

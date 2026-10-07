@@ -1,11 +1,54 @@
 [
-"https://facebook.com/",
-"https://instagram.com/teambonck",
-"https://jonbonck.com/",
-"https://jonbonck.com/coalitions",
-"https://jonbonck.com/endorsements",
-"https://secure.winred.com/jon-bonck-for-congress/donate-hd",
-"https://twitter.com/",
-"https://twitter.com/TeamBonck",
-"https://youtube.com/@JonBonckForCongress"
+{
+"text": "About",
+"href": "https://www.jonbonck.com/#About"
+},
+{
+"text": "CONTRIBUTE TODAY",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonbonck.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonbonck.com/#GetInvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.jonbonck.com/#Issues"
+},
+{
+"text": "Join a Coalition",
+"href": "https://www.jonbonck.com/coalitions"
+},
+{
+"text": "[image]",
+"href": "https://www.jonbonck.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TeamBonck"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teambonck/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JonBonckForCongress"
+}
 ]

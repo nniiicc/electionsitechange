@@ -1,15 +1,13 @@
-FOR IMMEDIATE RELEASE: March 1, 2026
-Media Contact: Haley Townes
-(909) 697-5799
-California Correctional Peace Officers Association Endorses Esmeralda Soria for State Senate
-Assemblymember Soria earns endorsement from one of the largest public safety associations in California, solidifying Soria’s unified support from law enforcement.
+Meet Esmeralda Accomplishments Endorsements News Media Photos Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Toggle Mobile Menu Meet Esmeralda Accomplishments Endorsements News Media Photos Get Involved Campaign News California Legislative Women’s Caucus Endorse Assemblymember Esmeralda Soria For State Senate Mar 01, 2026 FOR IMMEDIATE RELEASE: March 1, 2026 Media Contact : Haley Townes (909) 697-5799 [email protected] California Correctional Peace Officers Association Endorses Esmeralda Soria for State Senate Assemblymember Soria earns endorsement from one of the largest public safety associations in California, solidifying Soria’s unified support from law enforcement.
 MERCED, CA – Assemblymember Esmeralda Soria has earned the endorsement of the California Correctional Peace Officers Association (CCPOA), which represents all state correctional peace officers and parole agents who assist and supervise inmates after their release.
 “We are pleased to endorse Esmeralda Soria’s campaign for State Senate,” said Neil Flood, President of California Correctional Peace Officers Association.
 “Her strong record of collaboration with public safety professionals and state leaders makes us confident that she’ll continue to be an effective partner in the State Senate.
-She has demonstrated a clear commitment to public safety in the Central Valley, with a profound understanding of the crucial role law enforcement plays.”
-With the addition of CCPOA’s endorsement, Soria has secured backing from every major law enforcement organization in California, having previously been endorsed by the Peace Officers Research Association of California (PORAC), the Fresno Deputy Sheriffs’ Association, and more.
+She has demonstrated a clear commitment to public safety in the Central Valley, with a profound understanding of the crucial role law enforcement plays.” With the addition of CCPOA’s endorsement, Soria has secured backing from every major law enforcement organization in California, having previously been endorsed by the Peace Officers Research Association of California (PORAC), the Fresno Deputy Sheriffs’ Association, and more.
 “I am honored to be endorsed by the California Correctional Peace Officers Association,” said Assemblymember Soria.
 “This is a dedicated team of public safety professionals, and I’m glad to have their support.
-I’ve worked alongside law enforcement, from the City Council to the Assembly, to make neighborhoods safer and will continue to be a partner they can count on.”
-For more information and a full list of endorsements, visit www.soriaforcalifornia.com
-###
+I’ve worked alongside law enforcement, from the City Council to the Assembly, to make neighborhoods safer and will continue to be a partner they can count on.” For more information and a full list of endorsements, visit www.soriaforcalifornia.com ### Up Next California Legislative Women’s Caucus Endorse Assemblymember Esmeralda Soria For State Senate Get Updates Please enable JavaScript in your browser to complete this form.
+Email * ZIP Code Phone By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Get Updates Meet Esmeralda Accomplishments Endorsements News Media Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Send Checks To: PO Box 681 Fresno CA 93712 Email [email protected] Privacy Policy Accessibility Statement PAID FOR BY Soria for Senate Site made with ❤️ by Landslide Digital Jump to Content Toggle High Contrast Toggle Font Size

@@ -1,13 +1,1 @@
-Skip to content
-Julián Villarreal, PhD for Texas Senate
-About
-Campaign Issues
-Events
-Contact
-Donate
-Facebook
-Instagram
-X
-Bluesky
-English
-Español de México
+Skip to content Julián Villarreal, PhD for Texas Senate About Campaign Issues Events Contact Donate Facebook Instagram X Bluesky Julián Villarreal, PhD for Texas Senate Pol. adv. paid by Julián Villarreal for Texas Senate English Español de México

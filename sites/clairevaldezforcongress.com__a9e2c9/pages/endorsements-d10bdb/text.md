@@ -1,63 +1,10 @@
-Endorsements
-- Zohran MamdaniMayor of New York City
-- Corporations and billionaires are doing everything they can to crush the working class.
+Skip to main content Volunteer Issues About Endorsements Jobs Español Merch Donate Endorsements Claire Valdez stood with me on day one because she understands how change is won—by building power, raising expectations, and delivering for working people.
+She comes from the labor movement and knows how to turn struggle into real gains on housing, healthcare, and workers’ rights.
+That’s the kind of partner I need in Congress, and why I’m proud to endorse her.
+Zohran Mamdani Mayor of New York City Corporations and billionaires are doing everything they can to crush the working class.
 The only way we can take on the crises in front of us is if we have more workers representing us in the halls of power.
 That is why I am proud to stand with UAW member Claire Valdez in her run for Congress.
 Claire will fight like hell for dignity, fairness, and justice for all workers.
 This is exactly how the labor movement can fight back against corporate greed and inequality: by electing more of our own.
 UAW is excited to send Claire to Congress to deliver for the working class.
-Shawn FainPresident, United Auto Workers
-- Zohran MamdaniMayor of New York City
-- Bernie SandersSenator
-- Shawn FainPresident, United Auto Workers
-- Emily GallagherAssemblymember
-- Phara Souffrant ForrestAssemblymember
-- Zephyr TeachoutLaw Professor
-- Jabari BrisportState Senator
-- Diana MorenoAssemblymember
-- Marcela MitaynesAssemblymember
-- Sarahana ShresthaAssemblymember
-- Chi OsséCouncil Member
-- Jamaal BowmanFormer Congressman
-- Marti Gould CummingsState Committee Member
-- Cynthia NixonActor & Activist
-- Ro KhannaCongressman
-- Sara NelsonInternational President of the Association of Flight Attendants-CWA
-- Kristen GonzalezState Senator
-- Chris RabbDemocratic Nominee for PA-03
-- Shahana HanifCouncil Member
-- Mike GianarisState Senator
-- United Auto Workers, Region 9A
-- NYC DSA
-- Justice Democrats
-- Jewish Voice for Peace Action
-- Christopher Street Project
-- DRUM Beats
-- International Federation of Professional & Technical Engineers
-- Leaders We Deserve
-- Gays Get Political
-- PAL PAC
-- Sunrise Movement NYC
-- Gurley Flynn Society
-- AFGE Local 3369
-- Organization of Staff Analysts
-- Sunrise Movement
-- American Pakistani Public Affairs Committee
-- Association of Flight Attendants-CWA
-- Hindus for Human Rights Action
-- New American Leaders Action Fund
-- Our Revolution
-- Emgage Action
-- US Campaign for Palestinian Rights Action
-- OPEIU Local 153
-- Muslim Democratic Club of NY
-- Oil for Change Action
-- Gen-Z for Change
-- Voters for Animal Rights
-- Bricklayers and Allied Craftworkers Local 1
-- Common Defense
-- Progressive Change Campaign Committee
-- Planned Parenthood Action Fund
-- ACMER Merit PAC
-- CIR/SEIU
-- New York State Public Employees Federation
+Shawn Fain President, United Auto Workers Zohran Mamdani Mayor of New York City Bernie Sanders Senator Shawn Fain President, United Auto Workers Emily Gallagher Assemblymember Phara Souffrant Forrest Assemblymember Zephyr Teachout Law Professor Jabari Brisport State Senator Diana Moreno Assemblymember Marcela Mitaynes Assemblymember Sarahana Shrestha Assemblymember Chi Ossé Council Member Jamaal Bowman Former Congressman Marti Gould Cummings State Committee Member Cynthia Nixon Actor & Activist Ro Khanna Congressman Sara Nelson International President of the Association of Flight Attendants-CWA Kristen Gonzalez State Senator Chris Rabb Democratic Nominee for PA-03 Shahana Hanif Council Member Mike Gianaris State Senator United Auto Workers, Region 9A NYC DSA Justice Democrats Jewish Voice for Peace Action Christopher Street Project DRUM Beats International Federation of Professional & Technical Engineers Leaders We Deserve Gays Get Political PAL PAC Sunrise Movement NYC Gurley Flynn Society AFGE Local 3369 Organization of Staff Analysts Sunrise Movement American Pakistani Public Affairs Committee Association of Flight Attendants-CWA Hindus for Human Rights Action New American Leaders Action Fund Our Revolution Emgage Action US Campaign for Palestinian Rights Action OPEIU Local 153 Muslim Democratic Club of NY Oil for Change Action Gen-Z for Change Voters for Animal Rights Bricklayers and Allied Craftworkers Local 1 Common Defense Progressive Change Campaign Committee Planned Parenthood Action Fund ACMER Merit PAC CIR/SEIU New York State Public Employees Federation Donate Volunteer Issues About Endorsements Jobs General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

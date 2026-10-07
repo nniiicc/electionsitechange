@@ -1,34 +1,23 @@
-Marcela’s Story
-Marcela has worked across the state, from Sunset Park to Albany, building coalitions and bringing the power of knowledge and collective action to tenants throughout New York.
+Vote Meet Marcela Issues Endorsements Donate Vote Meet Marcela Issues Endorsements NY Assembly District 51 Donate Scroll Fighting for working class New Yorkers. ©Gary Duff Marcela’s Story Marcela has worked across the state, from Sunset Park to Albany, building coalitions and bringing the power of knowledge and collective action to tenants throughout New York.
 Marcela is running to represent New York Assembly District 51 because this is her home, our home, and we’re not going anywhere.
-SUPPORT MARCELA
-Marcela is rejecting ALL corporate donations and developer dollars.
-Her campaign is sustained by grassroots donors like you.
-ENDORSEMENTS
-RECENT PRESS
-NYC Stabilized Tenants to See Third Round of Rent Hikes in Adams Era
-Tenants across roughly 1 million New York City apartments are facing rent increases of 2.75 percent on one-year leases and 5.25 percent on two-year leases, following a Rent Guidelines Board vote in an unusually empty Manhattan auditorium Monday night.
+Meet Marcela → SUPPORT MARCELA Marcela is rejecting ALL corporate donations and developer dollars.
+Her campaign is sustained by grassroots donors like you. $10 $25 $51 $100 $250 $500 $1000 Other ENDORSEMENTS More Endorsements RECENT PRESS NYC Stabilized Tenants to See Third Round of Rent Hikes in Adams Era Tenants across roughly 1 million New York City apartments are facing rent increases of 2.75 percent on one-year leases and 5.25 percent on two-year leases, following a Rent Guidelines Board vote in an unusually empty Manhattan auditorium Monday night.
 Organizations whose members typically pack the annual vote, and chant to disrupt it, opted instead to picket outside while some blocked an entrance to Hunter College’s Assembly Hall.
 Ten people were arrested, according to the NYPD, including state Assemblymembers Marcela Mitaynes and Zohran Mamdani.
-Push to Clean Up Air Around ‘Last-Mile’ Warehouses Gets in Gear
-A bill introduced Monday by Assemblymember Marcela Mitaynes (D-Brooklyn) seeks to cut down on pollution from truck exhaust associated with local delivery from online retailers, like Amazon — and control the proliferation of warehouses, too.
+Push to Clean Up Air Around ‘Last-Mile’ Warehouses Gets in Gear A bill introduced Monday by Assemblymember Marcela Mitaynes (D-Brooklyn) seeks to cut down on pollution from truck exhaust associated with local delivery from online retailers, like Amazon — and control the proliferation of warehouses, too.
 “This is about the future of our community and ensuring that they’re as healthy as possible,” Mitaynes told THE CITY.
-Opinion: “It’s Time for A Wealth Tax”
-In the era of COVID-19, the rich have gotten richer while the rest of us struggle more than ever.
-We should balance the budget by taxing those who have profited in the midst of crisis, not by cutting services which the rest of us and our state economy depend on.”
-The 2024 Power of Diversity: Latino 100
-Assembly Member Marcela Mitaynes was raised in Sunset Park after she and her family emigrated from Peru.
+Opinion: “It’s Time for A Wealth Tax” In the era of COVID-19, the rich have gotten richer while the rest of us struggle more than ever.
+We should balance the budget by taxing those who have profited in the midst of crisis, not by cutting services which the rest of us and our state economy depend on.” The 2024 Power of Diversity: Latino 100 Assembly Member Marcela Mitaynes was raised in Sunset Park after she and her family emigrated from Peru.
 An eviction led Mitaynes to a long-standing interest in tenant rights, culminating in her organizing in favor of the 2019 Housing Stability and Tenant Protection Act before joining the state Legislature herself in 2021 after the Democratic Socialist’s surprising victory over incumbent Felix Ortiz.
 Her on-the-ground organizing sense hasn’t dulled, as she was one of several arrested outside of a New York City Rent Guidelines Board meeting this year.
-To some of their colleagues’ chagrin, progressive legislators are normalizing activist tactics
-A hunger strike to help indebted taxi drivers highlights how lawmakers are putting their organizing experience to use in office..
+To some of their colleagues’ chagrin, progressive legislators are normalizing activist tactics A hunger strike to help indebted taxi drivers highlights how lawmakers are putting their organizing experience to use in office..
 Fellow democratic socialist Assembly Member Marcela Mitaynes of Brooklyn joined activists in a hunger strike during budget negotiations to help win funding for the excluded workers fund.
-NYSUT issues round of endorsements in state and federal racesnts
-We know that this slate of candidates understands the value of public education, from pre-K through post-grad, and will put our students, families and educators first in the halls of power.
-Checkin’ in with: Freshman Sunset Park Assemblywoman Marcela Mitaynes
-“[I’m pushing] to cancel the rent, not just for residential tenants, but for commercial tenants as well.
-Legislators, advocates arrested protesting against evictions
-“As soon as I get out of jail, we have to go back to Albany,” Mitaynes told Brooklyn Paper.
-NEW YORK STATE ASSEMBLY
-DISTRICT 51
-The 51st Assembly District represents Sunset Park, Red Hook and parts of South Slope, Bay Ridge and Borough Park.
+NYSUT issues round of endorsements in state and federal races nts We know that this slate of candidates understands the value of public education, from pre-K through post-grad, and will put our students, families and educators first in the halls of power.
+Checkin’ in with: Freshman Sunset Park Assemblywoman Marcela Mitaynes “[I’m pushing] to cancel the rent, not just for residential tenants, but for commercial tenants as well.
+Legislators, advocates arrested protesting against evictions “As soon as I get out of jail, we have to go back to Albany,” Mitaynes told Brooklyn Paper.
+NEW YORK STATE ASSEMBLY DISTRICT 51 The 51st Assembly District represents Sunset Park , Red Hook and parts of South Slope , Bay Ridge and Borough Park .
+Not sure which district you’re in?
+Find Your District Find your poll site location Home Meet Marcela Support Endorsements Press District Map Brooklyn, NY MARCELAFORNY@GMAIL.COM Hours Join our campaign Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up Thank you!
+PAID FOR BY MARCELA FOR NY info@marcelaforny.org Get Involved Vote for Marcela Donate Volunteer

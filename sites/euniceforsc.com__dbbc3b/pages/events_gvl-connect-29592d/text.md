@@ -1,9 +1,3 @@
-Back to All Events
-Come out and meet Eunice at this Greenville networking event, August 20 at 6 PM EDT.
-Previous
-Previous
-August 18
-Phone Banking
-Next
-Next
-August 22
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events GVL Connect Thursday, August 20, 2026 6:00 PM 8:00 PM Venture X 141 Traction Street Greenville, South Carolina, 29611 United States (map) Google Calendar ICS Come out and meet Eunice at this Greenville networking event, August 20 at 6 PM EDT.
+Previous Previous August 18 Phone Banking Next Next August 22 Indivisible Upstate SC Meeting Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

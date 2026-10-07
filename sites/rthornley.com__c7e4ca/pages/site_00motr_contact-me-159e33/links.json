@@ -1,7 +1,26 @@
 [
-"https://sites.google.com/site/00motr/biography",
-"https://sites.google.com/site/00motr/contact-me",
-"https://sites.google.com/site/00motr/home",
-"https://sites.google.com/site/00motr/platform",
-"https://sites.google.com/site/00motr/testimonials"
+{
+"text": "Biography",
+"href": "https://sites.google.com/site/00motr/biography"
+},
+{
+"text": "Contact Me",
+"href": "https://sites.google.com/site/00motr/contact-me"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/site/00motr/home"
+},
+{
+"text": "Platform",
+"href": "https://sites.google.com/site/00motr/platform"
+},
+{
+"text": "Testimonials",
+"href": "https://sites.google.com/site/00motr/testimonials"
+},
+{
+"text": "star1398105@yahoo.com",
+"href": "mailto:star1398105@yahoo.com"
+}
 ]

@@ -1,12 +1,6 @@
-Tom Cole Announces For Re-Election
-Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
-House of Representatives “Throughout the past […]
-Skip to content
-Tom Cole Announces For Re-Election
-Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
-House of Representatives “Throughout the past […]
-Release: Tom Cole General Election Statement
-(Norman, OK) – Tom Cole released the following statement upon winning the November 6th general election: I would like to thank the voters of the Fourth District for their vote of confidence and continued […]
-Release: Tom Cole Primary Election Statement
-(Norman, OK) – Tom Cole released the following statement upon winning the June 26th primary election: I would like to thank Republican voters in the Fourth District for nominating me for another term as their representative in […]
-Keep up with the Campaign via Email
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans Press Release Donate Tom Cole Announces For Re-Election Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
+House of Representatives “Throughout the past […] Read More April 1, 2026 Press Release Release: Tom Cole General Election Statement (Norman, OK) – Tom Cole released the following statement upon winning the November 6th general election: I would like to thank the voters of the Fourth District for their vote of confidence and continued […] Read More November 6, 2018 June 29, 2021 Press Release Release: Tom Cole Primary Election Statement (Norman, OK) – Tom Cole released the following statement upon winning the June 26th primary election: I would like to thank Republican voters in the Fourth District for nominating me for another term as their representative in […] Read More June 26, 2018 December 24, 2021 Press Release Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

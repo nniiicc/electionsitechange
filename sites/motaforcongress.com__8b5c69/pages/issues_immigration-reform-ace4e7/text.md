@@ -1,13 +1,4 @@
-Priorities
-Immigration Reform
-The legal framework for immigration hasn't changed since 1990.
-Prejudice has has instilled fear, created fragmented families, and harmed local communities.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement Priorities Immigration Reform The legal framework for immigration hasn't changed since 1990.
+Prejudice has has instilled fear, created fragmented families, and harmed local communities .
 But, fear no more.
-In order to provide protections for vulnerable individuals and their families, and to allow undocumented persons to integrate as full participants in American Life and Society, I will champion for:
-- Dismantle ICE and end for-profit detention
-- Adopt policies that address causes of migration
-- Amendment of immigration detention system
-- Evaluate and Revise enforcement strategies
-- Ensure humane treatment
-- Prioritize community-based alternatives (ATDS)
-- Promote access to asylum and due process
+In order to provide protections for vulnerable individuals and their families, and to allow undocumented persons to integrate as full participants in American Life and Society, I will champion for: Dismantle ICE and end for-profit detention Adopt policies that address causes of migration Amendment of immigration detention system Evaluate and Revise enforcement strategies Ensure humane treatment Prioritize community-based alternatives (ATDS) Promote access to asylum and due process hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

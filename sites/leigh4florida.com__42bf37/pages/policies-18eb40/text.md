@@ -1,3 +1,3 @@
-LEIGH'S POLICY POSITIONS
-Florida Needs a Fighter!
+Skip navigation menu About Why I'm Running Policy Positions Endorsements News Contact Donate About Why I'm Running Policy Positions Endorsements News Contact Donate LEIGH'S POLICY POSITIONS Florida Needs a Fighter!
 In order to return Florida to a state that protects and serves its citizens, not just corporations, Florida’s administration and legislature must make critical policy changes to redirect its governmental agenda.
+Point one Address Affordability and Security point two Public Health point three Environmental Protections point four Strengthening Local Communities point fIVE Restore Integrity to Florida’s Political System Powered by RUN! website builder Paid for by Leigh Estes, Democrat, for State House District 83 You need to enable JavaScript to run this app.

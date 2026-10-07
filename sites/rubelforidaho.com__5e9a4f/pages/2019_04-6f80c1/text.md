@@ -1,9 +1,8 @@
-Apr 5, 2019
-Article Link: “House sticks with Medicaid work requirements” Excerpt: “I am beyond disappointed to be in the situation we’re in today,” Rubel said.
+Donate Volunteer Yard Sign Home Blog / News Legislation Education Environment and Quality of Life Healthcare and Community Safety Endorsements Team D18 Voter Survey Contact 4/5/2019 – Article: “House sticks with Medicaid work requirements” Apr 5, 2019 Article Link: “House sticks with Medicaid work requirements” Excerpt: “I am beyond disappointed to be in the situation we’re in today,” Rubel said.
 “I feel like, after an entire session of bouncing around, we’ve really landed in the worst possible world....
-Apr 5, 2019
-Article Link: “Idaho House alters bill to remove people from Medicaid” Excerpt: “The only thing that’s in this bill is the part where we hire an enforcement squad to chase down the poorest people in the state and kick them off Medicaid,” said Democratic...
-Apr 5, 2019
-Article Link: “Medicaid, Citizen Initiatives, And Two-Headed Camels” About: It’s been a wild session and an even wilder week.
+4/5/2019 – Article: “Idaho House alters bill to remove people from Medicaid” Apr 5, 2019 Article Link: “Idaho House alters bill to remove people from Medicaid” Excerpt: “The only thing that’s in this bill is the part where we hire an enforcement squad to chase down the poorest people in the state and kick them off Medicaid,” said Democratic...
+4/5/2019 – Article/Audio: “Medicaid, Citizen Initiatives, And Two-Headed Camels” Apr 5, 2019 Article Link: “Medicaid, Citizen Initiatives, And Two-Headed Camels” About: It’s been a wild session and an even wilder week.
 Medicaid expansion sideboards and citizen initiative bills were the headliners.
 Lawmakers talked about everything from two-headed camels to...
+Search Search All Issues Business / Job Creation Climate Change / Solar Rights Bill COVID 19 Criminal Justice Reform Events First Responders Compensation Gerrymandering / Voting Rights Human Rights Medicaid Expansion / Health Care Public Education Slider State of the State / Revenue Situation Taxes January 2024 September 2022 March 2022 February 2022 January 2022 May 2021 April 2021 March 2021 February 2021 January 2021 October 2020 August 2020 July 2020 June 2020 March 2020 February 2020 January 2020 April 2019 March 2019 February 2019 January 2019 January 2018 January 2017 February 2014 Paid for by Rubel for Idaho | Treasurer Sally Stone 2750 E.
+Migratory Drive, Boise, ID 83706 Follow Follow Follow

@@ -1,5 +1,4 @@
-About James Ramos
-Assemblymember James C.
+Skip to primary navigation Skip to main content Skip to primary sidebar James Ramos Candidate for California Assembly District 40 Home About Endorsements News & Events Support Contribute Press Photos Videos Contact About James Ramos Assemblymember James C.
 Ramos, a lifelong resident of the San Manuel Indian Reservation in San Bernardino County, is a member of the Serrano/Cahuilla tribe.
 Ramos, the first California Native American to serve in the California State Assembly, was elected to represent residents of the 45th District on November 8, 2022.
 His district includes the communities of Fontana, Highland, Mentone, Muscoy, Redlands, Rialto, and San Bernardino.
@@ -14,3 +13,6 @@ Ramos’s wide range of experience and knowledge of local and regional issues is
 It also led to an appointment by Republican Governor Arnold Schwarzenegger to the California State Native American Heritage Commission.
 Governor Jerry Brown named him to the State Board of Education in 2011.
 In Ramos’s first term in the Assembly, he championed mental health issues such as bullying and suicide prevention before COVID-19 exacerbated the mental health crisis.
+Primary Sidebar Endorsements James Ramos is quickly gaining endorsements from elected officials and community leaders.
+Find out who's already supporting him.
+Contribute It takes resources to run a campaign - any amount helps MAKE A CONTRIBUTION Follow James Ramos on Facebook Latest News & Events Assemblyman James Ramos Announces Re-Election Campaign, Highlighting Broad Support from Public Safety, Labor, Veterans, and Business Leaders March 6, 2026 Home About Endorsements News & Events Support Contribute Press Contact Copyright © # · Paid for by Re-Elect James Ramos for Assembly 2026 – FPPC ID #1477399 · Log in

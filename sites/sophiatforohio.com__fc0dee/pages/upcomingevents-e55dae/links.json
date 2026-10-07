@@ -1,72 +1,410 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=16th+Ohio+House+District+Candidate+Forum&dates=20260924T003000Z%2F20260924T013000Z&location=21016+Hilliard+Boulevard%2C+Rocky+River%2C+Ohio%2C+44116%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=A+Social+Hour+with+Sophia&dates=20261009T223000Z%2F20261010T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Conversation+with+Sophia&dates=20260914T233000Z%2F20260915T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+me+at+the+Westshore+Conservative+Gathering&dates=20260916T230000Z%2F20260917T020000Z&location=19245+Detroit+Road%2C+Rocky+River%2C+Ohio%2C+44116%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kamm%E2%80%99s+Corner+Greek+Festival&dates=20260904T230000Z%2F20260905T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+Candidates&dates=20260930T230000Z%2F20261001T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Sophia+%40+Bay+Days&dates=20260702T220000Z%2F20260703T010000Z&location=27600+Lake+Road%2C+Bay+Village%2C+Ohio%2C+44140%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Sophia+%40+Bay+Days&dates=20260703T220000Z%2F20260704T010000Z&location=27600+Lake+Road%2C+Bay+Village%2C+Ohio%2C+44140%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+your+Republican+Candidates&dates=20260630T230000Z%2F20260701T010000Z&location=25777+Detroit+Road%2C+Westlake%2C+Ohio%2C+44145%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Social+Hour+with+Sophia&dates=20260918T230000Z%2F20260919T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walk+with+Sophia&dates=20260704T143000Z%2F20260704T163000Z&location=25800+Hilliard+Boulevard%2C+Westlake%2C+Ohio%2C+44145%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+District+16&dates=20260916T160000Z%2F20260930T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+District+16&dates=20261003T160000Z%2F20261101T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+Rocky+River&dates=20260905T173000Z%2F20260905T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+Westpark+-+Ward+15&dates=20260905T150000Z%2F20260905T170000Z",
-"http://instagram.com/sophiatforohio",
-"http://maps.google.com/?q=19245+Detroit+Road+Rocky+River%2C+Ohio%2C+44116+United+States",
-"http://maps.google.com/?q=21016+Hilliard+Boulevard+Rocky+River%2C+Ohio%2C+44116+United+States",
-"http://maps.google.com/?q=25777+Detroit+Road+Westlake%2C+Ohio%2C+44145+United+States",
-"http://maps.google.com/?q=25800+Hilliard+Boulevard+Westlake%2C+Ohio%2C+44145+United+States",
-"http://maps.google.com/?q=27600+Lake+Road+Bay+Village%2C+Ohio%2C+44140+United+States",
-"https://facebook.com/profile.php?id=61591490878692",
-"https://lwvgreatercleveland.org/content.aspx?page_id=4091&club_id=527296&item_id=3076282",
-"https://secure.winred.com/sophia-tjotjos-for-ohio/websitedonate",
-"https://sophiatforohio.com/",
-"https://sophiatforohio.com/cart",
-"https://sophiatforohio.com/contact",
-"https://sophiatforohio.com/data-centers",
-"https://sophiatforohio.com/divedeeperwithsophia",
-"https://sophiatforohio.com/endorsements",
-"https://sophiatforohio.com/getinvolved",
-"https://sophiatforohio.com/home",
-"https://sophiatforohio.com/its-pronounced",
-"https://sophiatforohio.com/lake-erie",
-"https://sophiatforohio.com/meetsophia",
-"https://sophiatforohio.com/peopleoverparty",
-"https://sophiatforohio.com/priorities",
-"https://sophiatforohio.com/property-tax-relief",
-"https://sophiatforohio.com/upcomingevents",
-"https://sophiatforohio.com/upcomingevents/16th-ohio-house-dist-candidate-forum",
-"https://sophiatforohio.com/upcomingevents/16th-ohio-house-dist-candidate-forum?format=ical",
-"https://sophiatforohio.com/upcomingevents/4thofjulyparade",
-"https://sophiatforohio.com/upcomingevents/4thofjulyparade?format=ical",
-"https://sophiatforohio.com/upcomingevents/a-social-hour-with-sophia",
-"https://sophiatforohio.com/upcomingevents/a-social-hour-with-sophia?format=ical",
-"https://sophiatforohio.com/upcomingevents/conservative-get-together",
-"https://sophiatforohio.com/upcomingevents/conservative-get-together?format=ical",
-"https://sophiatforohio.com/upcomingevents/kammcornergreekfestival",
-"https://sophiatforohio.com/upcomingevents/kammcornergreekfestival?format=ical",
-"https://sophiatforohio.com/upcomingevents/lacentre",
-"https://sophiatforohio.com/upcomingevents/lacentre?format=ical",
-"https://sophiatforohio.com/upcomingevents/meet-greet-with-candidates",
-"https://sophiatforohio.com/upcomingevents/meet-greet-with-candidates?format=ical",
-"https://sophiatforohio.com/upcomingevents/meet-sophia-bay-days",
-"https://sophiatforohio.com/upcomingevents/meet-sophia-bay-days3",
-"https://sophiatforohio.com/upcomingevents/meet-sophia-bay-days3?format=ical",
-"https://sophiatforohio.com/upcomingevents/meet-sophia-bay-days?format=ical",
-"https://sophiatforohio.com/upcomingevents/social-hour-with-sophia",
-"https://sophiatforohio.com/upcomingevents/social-hour-with-sophia?format=ical",
-"https://sophiatforohio.com/upcomingevents/townhallflyer",
-"https://sophiatforohio.com/upcomingevents/townhallflyer?format=ical",
-"https://sophiatforohio.com/upcomingevents/walkingdoor2door",
-"https://sophiatforohio.com/upcomingevents/walkingdoor2door-jnpxg",
-"https://sophiatforohio.com/upcomingevents/walkingdoor2door-jnpxg?format=ical",
-"https://sophiatforohio.com/upcomingevents/walkingdoor2door?format=ical",
-"https://sophiatforohio.com/upcomingevents/walkingdoortodoor",
-"https://sophiatforohio.com/upcomingevents/walkingdoortodoor-d4amg",
-"https://sophiatforohio.com/upcomingevents/walkingdoortodoor-d4amg?format=ical",
-"https://sophiatforohio.com/upcomingevents/walkingdoortodoor?format=ical",
-"https://sophiatforohio.com/why-sophia-from-her"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=19245+detroit+road+rocky+river%2C+ohio%2C+44116+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=21016+hilliard+boulevard+rocky+river%2C+ohio%2C+44116+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=25777+detroit+road+westlake%2C+ohio%2C+44145+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=25800+hilliard+boulevard+westlake%2C+ohio%2C+44145+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=27600+lake+road+bay+village%2C+ohio%2C+44140+united+states"
+},
+{
+"text": "0",
+"href": "https://www.sophiatforohio.com/cart"
+},
+{
+"text": "16th Ohio House District Candidate Forum",
+"href": "https://www.sophiatforohio.com/upcomingevents/16th-ohio-house-dist-candidate-forum"
+},
+{
+"text": "A Social Hour with Sophia",
+"href": "https://www.sophiatforohio.com/upcomingevents/a-social-hour-with-sophia"
+},
+{
+"text": "Back",
+"href": "https://www.sophiatforohio.com/"
+},
+{
+"text": "Community Conversation with Sophia",
+"href": "https://www.sophiatforohio.com/upcomingevents/townhallflyer"
+},
+{
+"text": "Contact Me",
+"href": "https://www.sophiatforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/sophia-tjotjos-for-ohio/websitedonate"
+},
+{
+"text": "Data Centers",
+"href": "https://www.sophiatforohio.com/data-centers"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sophiatforohio.com/endorsements"
+},
+{
+"text": "Folder: Dive Deeper with Sophia",
+"href": "https://www.sophiatforohio.com/divedeeperwithsophia"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sophiatforohio.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=16th+Ohio+House+District+Candidate+Forum&dates=20260924T003000Z%2F20260924T013000Z&location=21016+Hilliard+Boulevard%2C+Rocky+River%2C+Ohio%2C+44116%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Social+Hour+with+Sophia&dates=20261009T223000Z%2F20261010T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Conversation+with+Sophia&dates=20260914T233000Z%2F20260915T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+me+at+the+Westshore+Conservative+Gathering&dates=20260916T230000Z%2F20260917T020000Z&location=19245+Detroit+Road%2C+Rocky+River%2C+Ohio%2C+44116%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kamm%E2%80%99s+Corner+Greek+Festival&dates=20260904T230000Z%2F20260905T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+Candidates&dates=20260930T230000Z%2F20261001T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Sophia+%40+Bay+Days&dates=20260702T220000Z%2F20260703T010000Z&location=27600+Lake+Road%2C+Bay+Village%2C+Ohio%2C+44140%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Sophia+%40+Bay+Days&dates=20260703T220000Z%2F20260704T010000Z&location=27600+Lake+Road%2C+Bay+Village%2C+Ohio%2C+44140%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+your+Republican+Candidates&dates=20260630T230000Z%2F20260701T010000Z&location=25777+Detroit+Road%2C+Westlake%2C+Ohio%2C+44145%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Social+Hour+with+Sophia&dates=20260918T230000Z%2F20260919T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walk+with+Sophia&dates=20260704T143000Z%2F20260704T163000Z&location=25800+Hilliard+Boulevard%2C+Westlake%2C+Ohio%2C+44145%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+District+16&dates=20260916T160000Z%2F20260930T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+District+16&dates=20261003T160000Z%2F20261101T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+Rocky+River&dates=20260905T173000Z%2F20260905T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walking+Door+to+Door+in+Westpark+-+Ward+15&dates=20260905T150000Z%2F20260905T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/16th-ohio-house-dist-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/4thofjulyparade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/a-social-hour-with-sophia?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/conservative-get-together?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/kammcornergreekfestival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/lacentre?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-greet-with-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/social-hour-with-sophia?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/townhallflyer?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door-jnpxg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor-d4amg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor?format=ical"
+},
+{
+"text": "It's Pronounced",
+"href": "https://www.sophiatforohio.com/its-pronounced"
+},
+{
+"text": "It’s Pronounced",
+"href": "https://www.sophiatforohio.com/its-pronounced"
+},
+{
+"text": "Join me at the Westshore Conservative Gathering",
+"href": "https://www.sophiatforohio.com/upcomingevents/conservative-get-together"
+},
+{
+"text": "Kamm’s Corner Greek Festival",
+"href": "https://www.sophiatforohio.com/upcomingevents/kammcornergreekfestival"
+},
+{
+"text": "Lake Erie",
+"href": "https://www.sophiatforohio.com/lake-erie"
+},
+{
+"text": "Meet & Greet with Candidates",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-greet-with-candidates"
+},
+{
+"text": "Meet Sophia",
+"href": "https://www.sophiatforohio.com/meetsophia"
+},
+{
+"text": "Meet Sophia @ Bay Days",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days"
+},
+{
+"text": "Meet Sophia @ Bay Days",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days3"
+},
+{
+"text": "Meet your Republican Candidates",
+"href": "https://www.sophiatforohio.com/upcomingevents/lacentre"
+},
+{
+"text": "My Priorities",
+"href": "https://www.sophiatforohio.com/priorities"
+},
+{
+"text": "People Over Party",
+"href": "https://www.sophiatforohio.com/peopleoverparty"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://www.sophiatforohio.com/property-tax-relief"
+},
+{
+"text": "Social Hour with Sophia",
+"href": "https://www.sophiatforohio.com/upcomingevents/social-hour-with-sophia"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.sophiatforohio.com/upcomingevents"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/16th-ohio-house-dist-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/4thofjulyparade"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/a-social-hour-with-sophia"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/conservative-get-together"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/kammcornergreekfestival"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/lacentre"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-greet-with-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days3"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/social-hour-with-sophia"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/townhallflyer"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door-jnpxg"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor"
+},
+{
+"text": "View Event →",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor-d4amg"
+},
+{
+"text": "Walk with Sophia",
+"href": "https://www.sophiatforohio.com/upcomingevents/4thofjulyparade"
+},
+{
+"text": "Walking Door to Door in District 16",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor"
+},
+{
+"text": "Walking Door to Door in District 16",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor-d4amg"
+},
+{
+"text": "Walking Door to Door in Rocky River",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door-jnpxg"
+},
+{
+"text": "Walking Door to Door in Westpark - Ward 15",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door"
+},
+{
+"text": "Why Sophia? Ask Her Husband.",
+"href": "https://www.sophiatforohio.com/why-sophia-from-her"
+},
+{
+"text": "[image: 16th Ohio House District Candidate Forum]",
+"href": "https://www.sophiatforohio.com/upcomingevents/16th-ohio-house-dist-candidate-forum"
+},
+{
+"text": "[image: A Social Hour with Sophia]",
+"href": "https://www.sophiatforohio.com/upcomingevents/a-social-hour-with-sophia"
+},
+{
+"text": "[image: Community Conversation with Sophia]",
+"href": "https://www.sophiatforohio.com/upcomingevents/townhallflyer"
+},
+{
+"text": "[image: Join me at the Westshore Conservative Gathering]",
+"href": "https://www.sophiatforohio.com/upcomingevents/conservative-get-together"
+},
+{
+"text": "[image: Kamm’s Corner Greek Festival]",
+"href": "https://www.sophiatforohio.com/upcomingevents/kammcornergreekfestival"
+},
+{
+"text": "[image: Meet & Greet with Candidates]",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-greet-with-candidates"
+},
+{
+"text": "[image: Meet Sophia @ Bay Days]",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days"
+},
+{
+"text": "[image: Meet Sophia @ Bay Days]",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days3"
+},
+{
+"text": "[image: Meet your Republican Candidates]",
+"href": "https://www.sophiatforohio.com/upcomingevents/lacentre"
+},
+{
+"text": "[image: Social Hour with Sophia]",
+"href": "https://www.sophiatforohio.com/upcomingevents/social-hour-with-sophia"
+},
+{
+"text": "[image: Sophia for Ohio]",
+"href": "https://www.sophiatforohio.com/"
+},
+{
+"text": "[image: Walk with Sophia]",
+"href": "https://www.sophiatforohio.com/upcomingevents/4thofjulyparade"
+},
+{
+"text": "[image: Walking Door to Door in District 16]",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor"
+},
+{
+"text": "[image: Walking Door to Door in District 16]",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoortodoor-d4amg"
+},
+{
+"text": "[image: Walking Door to Door in Rocky River]",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door-jnpxg"
+},
+{
+"text": "[image: Walking Door to Door in Westpark - Ward 15]",
+"href": "https://www.sophiatforohio.com/upcomingevents/walkingdoor2door"
+},
+{
+"text": "[image]",
+"href": "https://www.sophiatforohio.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/sophiatforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591490878692"
+},
+{
+"text": "https://www.lwvgreatercleveland.org/content.aspx?page_id=4091&club_id=527296&item_id=3076282",
+"href": "https://www.lwvgreatercleveland.org/content.aspx?page_id=4091&club_id=527296&item_id=3076282"
+}
 ]

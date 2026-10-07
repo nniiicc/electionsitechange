@@ -1,19 +1,90 @@
 [
-"https://agri.idaho.gov/",
-"https://agri.idaho.gov/main/animals",
-"https://facebook.com/voteclayhandy",
-"https://facebook.com/voteclayhandy/posts/140941061803498",
-"https://fb.watch/rCz2iiFInP",
-"https://foodproducersofidaho.org/",
-"https://handy4idaho.com/",
-"https://handy4idaho.com/category/uncategorized",
-"https://handy4idaho.com/clay-handy-2",
-"https://handy4idaho.com/conservative-legislation-2024",
-"https://handy4idaho.com/feed",
-"https://handy4idaho.com/freedom",
-"https://handy4idaho.com/idaho-elections",
-"https://handyoptimal.com/",
-"https://idaho.gov/",
-"https://legislature.idaho.gov/revenue-details",
-"https://nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=IDAHO"
+{
+"text": "2023 Idaho Ag Overview",
+"href": "https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=IDAHO"
+},
+{
+"text": "Agriculture Animals Statewide",
+"href": "https://agri.idaho.gov/main/animals/"
+},
+{
+"text": "Chandy@house.idaho.gov",
+"href": "mailto:Chandy@house.idaho.gov"
+},
+{
+"text": "Clay Handy",
+"href": "https://handy4idaho.com/clay-handy-2/"
+},
+{
+"text": "Contact Us",
+"href": "https://handy4idaho.com/freedom/#Contact"
+},
+{
+"text": "Endorsements",
+"href": "https://handy4idaho.com/freedom/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteclayhandy/"
+},
+{
+"text": "Food Producers of Idaho All Star award",
+"href": "https://www.foodproducersofidaho.org/"
+},
+{
+"text": "House of Representative",
+"href": "https://handy4idaho.com/"
+},
+{
+"text": "Idaho Elections (Cassia, Minidoka, Oneida)",
+"href": "https://handy4idaho.com/idaho-elections/"
+},
+{
+"text": "Idaho Invasive Species Awareness",
+"href": "https://legislature.idaho.gov/revenue-details/"
+},
+{
+"text": "Idaho Political Advertising by Handy Optimal",
+"href": "https://handyoptimal.com/"
+},
+{
+"text": "Learn more",
+"href": "https://fb.watch/rCz2iiFInP/"
+},
+{
+"text": "Legislation Report 2024",
+"href": "https://handy4idaho.com/conservative-legislation-2024/"
+},
+{
+"text": "Monday, April 18, 2022",
+"href": "https://www.facebook.com/voteclayhandy/posts/140941061803498"
+},
+{
+"text": "RSS",
+"href": "https://handy4idaho.com/feed/"
+},
+{
+"text": "State of Idaho",
+"href": "https://www.idaho.gov/"
+},
+{
+"text": "Uncategorized",
+"href": "https://handy4idaho.com/category/uncategorized/"
+},
+{
+"text": "Vote for Clay Handy",
+"href": "https://www.facebook.com/voteclayhandy"
+},
+{
+"text": "Website",
+"href": "https://agri.idaho.gov/"
+},
+{
+"text": "[image: Food Producers of Idaho All Star Agriculture Idaho Resources Association]",
+"href": "https://www.foodproducersofidaho.org/"
+},
+{
+"text": "[image: handy4idaho.com]",
+"href": "https://handy4idaho.com/"
+}
 ]

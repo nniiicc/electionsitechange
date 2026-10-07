@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.morganformontana.com/vote",
+ "fingerprint": "3d9a4ba71a5f4300debb8ff7b41bb9987bac1d2c",
+ "format": 3,
  "paid_for_by": "Paid for by Morgan for Montana House District 76 Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": []

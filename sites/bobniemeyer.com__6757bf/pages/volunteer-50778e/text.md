@@ -1,2 +1,3 @@
-Fill out the form below and let us know how you’d like to help the campaign.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Volunteer Fill out the form below and let us know how you’d like to help the campaign.
 How would you like to help?
+Host an event Help out an event Put up a yard sign Make phone calls Help in the office Volunteer Office Space Call Volunteers Write to the Editor Register voters Raise money Deliver literature Other Submit © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign

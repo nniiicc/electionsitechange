@@ -1,10 +1,6 @@
-Students Thrive Under Davis’s Leadership on the Compton Unified School Board
-Compton Unified posted the #1 graduation rate in L.A.
-County and the #1 test scores in California among similar schools, gaining half a grade level in student performance during the pandemic while almost every other low income school in California lost ground.
-Notably, Compton Unified was named a 2025 Magna Award Grand Prize Winner by the National School Boards Association for its innovative solutions to district challenges.
-ADDITIONAL UPDATES
-February 2, 2026
-Davis visits alma mater on assembly campaign trail
-Saturday was a big day for Phineas Banning High School, filled with guest speakers, the Pilots marching band and cheerleaders celebrating the school’s centennial, but for State Assembly candidate Dr.
+top of page ABOUT PRIORITIES ENDORSEMENTS STATEMENTS OF SUPPORT NEWS GET INVOLVED MEDIA DONATE Students Thrive Under Davis’s Leadership on the Compton Unified School Board Compton Unified posted the #1 graduation rate in L.A.
+County and the #1 test scores in California among similar schools, gaining half a grade level in student performance during the pandemic while almost every other low income school in California lost ground. ​ Notably, Compton Unified was named a 2025 Magna Award Grand Prize Winner by the National School Boards Association for its innovative solutions to district challenges.
+ADDITIONAL UPDATES February 2, 2026 Davis visits alma mater on assembly campaign trail Saturday was a big day for Phineas Banning High School, filled with guest speakers, the Pilots marching band and cheerleaders celebrating the school’s centennial, but for State Assembly candidate Dr.
 Ayanna Davis, it brought back special memories.
 “I started learning how to campaign right here at Banning,” said Davis, a Class of 1988 graduate of the school located at 1527 Lakme Avenue in Wilmington...
+Read More INSTAGRAM TWITTER FACEBOOK PAID FOR BY AYANNA DAVIS FOR ASSEMBLY 2026 CONTACT: info@ayannadavis.com ABOUT PRIORITIES ENDORSEMENTS STATEMENTS OF SUPPORT NEWS GET INVOLVED MEDIA bottom of page

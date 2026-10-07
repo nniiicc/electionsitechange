@@ -1,9 +1,38 @@
 [
-"https://facebook.com/VotePenelope",
-"https://secure.actblue.com/donate/friends-of-penelope-tsernoglou-1",
-"https://twitter.com/votepenelope",
-"https://votepenelope.com/",
-"https://votepenelope.com/contact",
-"https://votepenelope.com/copy-of-endorsements",
-"https://votepenelope.com/meet-penelope"
+{
+"text": "75TH DISTRICT",
+"href": "https://www.votepenelope.com/copy-of-endorsements"
+},
+{
+"text": "Contact",
+"href": "https://www.votepenelope.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-penelope-tsernoglou-1"
+},
+{
+"text": "Home",
+"href": "https://www.votepenelope.com"
+},
+{
+"text": "JOIN US",
+"href": "https://www.votepenelope.com/contact"
+},
+{
+"text": "Meet Penelope",
+"href": "https://www.votepenelope.com/meet-penelope"
+},
+{
+"text": "VotePenelope@gmail.com",
+"href": "mailto:VotePenelope@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VotePenelope/"
+},
+{
+"text": "[image: Twitter ]",
+"href": "https://twitter.com/votepenelope"
+}
 ]

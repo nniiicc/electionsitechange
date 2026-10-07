@@ -1,4 +1,5 @@
-By Meghan Kallman April 7, 2025 Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system By Sen.
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Month: April 2025 Homepage April 2025 By Meghan Kallman April 7, 2025 Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system By Sen.
 Meghan Kallman and Rep.
 Jose Batista.
-The Boston Globe, March 27, 2025
+The Boston Globe, March 27, 2025 Search Search for: Search April 2025 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Feb Jan » <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

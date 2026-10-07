@@ -1,18 +1,102 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.voteredhorse.com%2Fvolunteer",
-"https://ballotpedia.org/Consuelo_Redhorse",
-"https://coloradosos.gov/voter/pages/pub/home.xhtml",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.voteredhorse.com%2Fvolunteer",
-"https://facebook.com/voteredhorse",
-"https://instagram.com/voteredhorse",
-"https://secure.actblue.com/donate/voteredhorse",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.voteredhorse.com%2Fvolunteer",
-"https://vote411.org/",
-"https://voteredhorse.com/",
-"https://voteredhorse.com/endorsements",
-"https://voteredhorse.com/join-support",
-"https://voteredhorse.com/meet-consuelo",
-"https://voteredhorse.com/share-feedback",
-"https://voteredhorse.com/values-priorities",
-"https://voteredhorse.com/volunteer"
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Consuelo_Redhorse"
+},
+{
+"text": "Donate on Act Blue",
+"href": "https://secure.actblue.com/donate/voteredhorse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteredhorse.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.voteredhorse.com%2Fvolunteer"
+},
+{
+"text": "Go Vote Colorado: Register to Vote & Check Your Voter Registration",
+"href": "https://www.coloradosos.gov/voter/pages/pub/home.xhtml"
+},
+{
+"text": "Home",
+"href": "https://www.voteredhorse.com"
+},
+{
+"text": "Join and Support",
+"href": "https://www.voteredhorse.com/join-support"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.voteredhorse.com/volunteer"
+},
+{
+"text": "Meet Consuelo",
+"href": "https://www.voteredhorse.com/meet-consuelo"
+},
+{
+"text": "Share Feedback",
+"href": "https://www.voteredhorse.com/share-feedback"
+},
+{
+"text": "VOLUNTEER NOW",
+"href": "https://www.voteredhorse.com/volunteer"
+},
+{
+"text": "Values and Priorities",
+"href": "https://www.voteredhorse.com/values-priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteredhorse.com/volunteer"
+},
+{
+"text": "Vote411",
+"href": "https://www.vote411.org/"
+},
+{
+"text": "VoteRedhorse@gmail.com",
+"href": "mailto:VoteRedhorse@gmail.com"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.voteredhorse.com%2Fvolunteer"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.voteredhorse.com%2Fvolunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voteredhorse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteredhorse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteredhorse.com/#comp-mjzdtsa0"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteredhorse.com/#comp-mjze4cju"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteredhorse.com/#comp-mjze7l3j"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteredhorse.com/#comp-mjze9hh2"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteredhorse.com/#comp-mjzealcp"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteredhorse.com/#comp-mo9h1p0x"
+}
 ]

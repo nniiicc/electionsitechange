@@ -1,9 +1,7 @@
-| |
-| Unsubscribe |
-| ### |
-| |
-| |
-| Conservative Patriot Brandon Gill Launches Congressional Campaign for District 26 with $250,000 Already Raised Flower Mound: Today, Brandon Gill, a dedicated patriot, businessman, husband, and father, officially announced his candidacy for Texas' 26th Congressional District.
+Flower Mound: Today, Brandon Gill, a dedicated patriot, businessman, husband, and father, officially announced his candidacy for Texas' 26th Congressional District.
+Gill enters the race with $250,000 cash on hand.
+With a deep-rooted commitment to service and a background reflecting the true essence of the American Dream, Brandon will be a relentless conservative warrior fighting against the Biden Administration and the D.C.
+Establishment. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Unsubscribe FOR IMMEDIATE RELEASE November 20, 2023 CONTACT:-------- jdelano@politicalmedia.com 123-456-7890 ‬ Conservative Patriot Brandon Gill Launches Congressional Campaign for District 26 with $250,000 Already Raised Flower Mound: Today, Brandon Gill, a dedicated patriot, businessman, husband, and father, officially announced his candidacy for Texas' 26th Congressional District.
 Gill enters the race with $250,000 cash on hand.
 With a deep-rooted commitment to service and a background reflecting the true essence of the American Dream, Brandon will be a relentless conservative warrior fighting against the Biden Administration and the D.C.
 Establishment.
@@ -23,9 +21,5 @@ Brandon left Wall Street and founded the D.C.
 Enquirer, an unabashedly conservative America First news outlet.
 Collaborating on the impactful film "Police State" with his father-in-law, Dinesh D'Souza, Gill's dedication to preserving the freedoms Americans hold dear is unwavering.
 With his wife, an influential Christian author and pro-life activist, Danielle, Gill will be a voice for the smallest among us.
-Inspired by their daughter Marigold, Gill strives for a brighter and better future for all American children. |
-| FOR IMMEDIATE RELEASE November 20, 2023 | CONTACT:-------- jdelano@politicalmedia.com 123-456-7890 |
-| Donate |
-| |
-| ©2026, All Rights Reserved |
-| Paid for by |
+Inspired by their daughter Marigold, Gill strives for a brighter and better future for all American children.
+### Donate ©#, All Rights Reserved Paid for by Unsubscribe

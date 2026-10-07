@@ -1,8 +1,9 @@
-02/27/21
-State Rep.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Pa.
+Democrats take issues into own hands, hold separate budget hearings Posted on February 26, 2021 March 11, 2022 by Anthony Amaker 02/27/21 State Rep.
 Elizabeth Fiedler (D-Philadelphia) is among a group of House and Senate progressive Democrats holding their own budget hearings.
 In contrast, they say, to the Harrisburg way of crunching dollars and cents being closed doors.
 “Not in a place where the public …the people of Pennsyvlania who pay taxes with tax dollars we are spending can look at it and give thoughts and opinions on how we should spend their money,” Rep.
 Fiedler said.
 A coalition of Democratic legislators in Harrisburg are calling on the commonwealth to prioritize fixing crumbling school infrastructure with a substantial portion of the federal funds in the latest proposed COVID-19 stimulus package.
-Read more here:
+Read more here: https://www.abc27.com/news/this-week-in-pennsylvania/pa-democrats-take-issues-into-own-hands-hold-separate-budget-hearings/ Posted in News , Uncategorized Post navigation PA Dems Push School Infrastructure As A Priority In Next Federal Stimulus More staff needed to end Pa. unemployment delays, L&I head tells lawmakers Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

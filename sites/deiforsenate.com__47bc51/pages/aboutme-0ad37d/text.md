@@ -1,4 +1,4 @@
-Hi!
+0 Skip to Content Nyamal Dei for ND Senate District 41 Meet Nyamal Platform Contact Donate Open Menu Close Menu Nyamal Dei for ND Senate District 41 Meet Nyamal Platform Contact Donate Open Menu Close Menu Meet Nyamal Platform Contact Donate Hi!
 I’m Nyamal.
 When I came to America, I was ten years old.
 I showed up with no parents, no safety net, and no guarantees.
@@ -24,3 +24,5 @@ I am running for every American who is tired of division.
 I'm running because I believe that together, we can create opportunities for our families, neighbors, and for future generations.
 That’s what this campaign is all about.
 Together, we win.
+A Brand New Dei.
+Facebook Nyamal Dei for ND Senate District 41 Paid for by Candidate

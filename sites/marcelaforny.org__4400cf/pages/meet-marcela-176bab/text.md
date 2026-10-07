@@ -1,5 +1,4 @@
-Meet Marcela
-Marcela Mitaynes migrated to New York City from Peru as a child with her family and was raised in Sunset Park, Brooklyn.
+Vote Meet Marcela Issues Endorsements Donate Vote Meet Marcela Issues Endorsements NY Assembly District 51 Donate Meet Marcela ©Gary Duff Marcela Mitaynes migrated to New York City from Peru as a child with her family and was raised in Sunset Park, Brooklyn.
 She is now raising her own family in that same vibrant, beautiful community.
 Marcela was evicted from her rent stabilized apartment of 30 years, and began her life’s work of empowering her neighbors to know their rights and find their voices to fight to stay in their homes.
 Through her work with Neighbors Helping Neighbors, and with tenants throughout New York State, Marcela was instrumental in the passage of the historic Housing Stability and Tenant Protection Act of 2019.
@@ -11,3 +10,7 @@ It is about educational access for our children.
 It is about having the collective power to be bold in protecting our waterfront from increasing climate threats.
 It is about taking control of the conditions that shape our health and opportunities.
 And it is most importantly about putting down strong roots and growing resilient communities in the face of mounting extremism.
+Brooklyn, NY MARCELAFORNY@GMAIL.COM Hours Join our campaign Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up Thank you!
+PAID FOR BY MARCELA FOR NY info@marcelaforny.org Get Involved Vote for Marcela Donate Volunteer

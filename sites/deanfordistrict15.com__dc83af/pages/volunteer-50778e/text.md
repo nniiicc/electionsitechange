@@ -1,2 +1,2 @@
-Help Us Win Volunteer We need people power on our side to win in November First Name* Last Name Email* Phone Number How do you want to get involved?
-Canvass Send texts Host an event/ meet & greet Make calls Plan an event Lawn Sign Sign Up
+Donate Menu Home Volunteer Donate Help Us Win Volunteer We need people power on our side to win in November First Name * Last Name Email * Phone Number How do you want to get involved?
+Canvass Send texts Host an event/ meet & greet Make calls Plan an event Lawn Sign Sign Up Email Dean Tarulli at Deanfordistrict15@gmail.com Home Volunteer Donate Donate Accessibility Statement Terms of Service Contact Donate PAID FOR BY FRIENDS OF DEAN TARULLI Dean Tarulli for District 15 © #

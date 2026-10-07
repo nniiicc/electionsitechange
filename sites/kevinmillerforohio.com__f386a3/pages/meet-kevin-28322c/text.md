@@ -1,6 +1,4 @@
-Meet
-Kevin Miller
-Family Man.
+Home Meet Kevin Donate Meet Kevin Miller Family Man.
 Trusted Leader.
 State Representative Kevin Miller was appointed in June 2021 to represent the people of the 72nd Ohio House District, which encompasses all of Coshocton and Perry Counties, and part of Licking County.
 Miller has been with the Ohio State Highway Patrol for over twenty years with the pleasure of serving the residents of the 72nd District in Granville from 2014-2017.
@@ -12,3 +10,4 @@ He also values conservative principles such as the right to life, right to bear 
 Miller has been married to his high school sweetheart, Megan, for 21 years and they have two children attending colleges in the Buckeye State.
 They attend St.
 Francis de Sales Catholic Church and reside in Newark.
+Paid for by Miller for Ohio Donate Donate

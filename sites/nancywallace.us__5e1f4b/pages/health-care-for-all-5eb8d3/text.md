@@ -1,4 +1,4 @@
-The Green Party and I support single-payer universal health care and preventive care for all.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Health Care for All ​ Climate Change Women and Girls’ Survival Community Based Economics and Economic Justice Health Care for All Federal Tax Reform Foreign Policy Privacy Immigration Reform Community Peace/Stopping Police Violence The Green Party and I support single-payer universal health care and preventive care for all.
 Our current health care system lets tens of thousands of people die each year by excluding them from adequate care, while its exorbitant costs are crippling our economy.
 The United States is the only industrialized nation in the world without a national health care system.
 Under a universal, comprehensive, national single-payer health care system, the administrative waste of private insurance corporations would be redirected to patient care.
@@ -12,32 +12,18 @@ We support the teaching, funding and practice of holistic health approaches and 
 Greens recognize that our own health is also intimately tied to the health of our communities and environment.
 To improve our own health, we must improve the quality of our air, water and food and the health of our workplaces, homes and schools.
 The Green Party and I unequivocally support a woman's right to reproductive choice, no matter her marital status or age, and that contraception and safe, legal abortion procedures be available on demand and be included in all health insurance coverage in the U.S., as well as free of charge in any state where a woman's income falls below the poverty level.
-I will support the following national changes:
-1.
-Single-Payer Health Care
-Enact a universal, comprehensive, national single-payer health plan that will provide the following with no increase in cost:
-- A publicly funded health care insurance program, administered at the state and local levels, with comprehensive lifetime benefits, including dental, vision, mental health care, substance abuse treatment, medication coverage, and hospice and long-term care;
-- Participation of all licensed and/or certified health providers, subject to standards of practice in their field, with the freedom of patients to choose the type of health care provider from a wide range of health care choices, and with decision-making in the hands of patients and their health providers, not insurance companies;
-- Portability of coverage regardless of geographical location or employment;
-- Cost controls via streamlined administration, national fee schedules, bulk purchases of drugs and medical equipment, coordination of capital expenditures and publicly negotiated prices of medications;
-- Primary and preventive care as priorities, including wellness education about diet, nutrition and exercise; holistic health; and medical marijuana.
-- More comprehensive services for those who have special needs, including the mentally ill, the differently abled and those who are terminally ill;
-- A mental health care system that safeguards human dignity, respects individual autonomy, and protects informed consent;
-- Greatly reduced paperwork for both patients and providers;
-- Fair and full reimbursement to providers for their services;
-- Hospitals that can afford safe and adequate staffing levels of registered nurses;
-- Establishment of national, state, and local health policy boards consisting of health consumers and providers to oversee and evaluate the performance of the system, ensure access to care, and help determine research priorities; and
-- Establishment of a National Health Trust Fund that would channel all current Federal payments for health care programs directly into the Fund, in addition to employees' health premium payments.
+I will support the following national changes: 1.
+Single-Payer Health Care Enact a universal, comprehensive, national single-payer health plan that will provide the following with no increase in cost: A publicly funded health care insurance program, administered at the state and local levels, with comprehensive lifetime benefits, including dental, vision, mental health care, substance abuse treatment, medication coverage, and hospice and long-term care; Participation of all licensed and/or certified health providers, subject to standards of practice in their field, with the freedom of patients to choose the type of health care provider from a wide range of health care choices, and with decision-making in the hands of patients and their health providers, not insurance companies; Portability of coverage regardless of geographical location or employment; Cost controls via streamlined administration, national fee schedules, bulk purchases of drugs and medical equipment, coordination of capital expenditures and publicly negotiated prices of medications; Primary and preventive care as priorities, including wellness education about diet, nutrition and exercise; holistic health; and medical marijuana.
+More comprehensive services for those who have special needs, including the mentally ill, the differently abled and those who are terminally ill; A mental health care system that safeguards human dignity, respects individual autonomy, and protects informed consent; Greatly reduced paperwork for both patients and providers; Fair and full reimbursement to providers for their services; Hospitals that can afford safe and adequate staffing levels of registered nurses; Establishment of national, state, and local health policy boards consisting of health consumers and providers to oversee and evaluate the performance of the system, ensure access to care, and help determine research priorities; and Establishment of a National Health Trust Fund that would channel all current Federal payments for health care programs directly into the Fund, in addition to employees' health premium payments.
 2.
-Men's contraception
-Women today have 12 different methods of modern contraception that are effective, reversible, and relatively safe.
+Men's contraception Women today have 12 different methods of modern contraception that are effective, reversible, and relatively safe.
 Men have none.
 The only methods are permanent sterilization or ineffective.
 Yet, 50% of the pregnancies in the US are still unplanned.
 Men should be enabled to take control of their own reproductive decisions, and become equal, responsible partners in this most important decision of our lives.
 Given the advances in medicine and technology in the past 70 years, men should have access to safe, inexpensive, effective, reversible male contraceptives.
 I believe this is a human right for men, and a major protection from unplanned pregnancy for women.
-Men today have essentially the same limited set of reproductive choices as 70 years ago, when vasectomies first became available.
+Men today have essentially the same limited set of reproductive choices as #ago, when vasectomies first became available.
 All these choices have significant drawbacks.
 Male contraceptives have had three periods of attention since modern contraceptive research began in the 1960s, but the pharmaceutical companies, government agencies, and health organizations have not followed through to bring successful methods to market.
 I will introduce legislation to fully fund research for excellent male contraception, and enable all men in the United States to have access to the new products.
@@ -70,4 +56,4 @@ They include an insert, an herb, several types of drugs, and heat.
 However, all of this research is being done by individual researchers and teams in small labs and universities.
 The current researchers are struggling with financial hurdles which are slowing and even stopping research on very promising methods.
 Immediate major funding is needed to ensure these researchers have support to complete their scientific studies; encourage the regulatory agencies to assign top priority to product reviews; and educate relevant public interest groups on the relationships between improved male contraception and their agendas.
-Also, the medical industry needs to be persuaded that increased research is warranted by public interest until a suite of inexpensive, accessible, reversible options is available to men worldwide.
+Also, the medical industry needs to be persuaded that increased research is warranted by public interest until a suite of inexpensive, accessible, reversible options is available to men worldwide. " Then in times of need, one should rise to the occasion & fight bravely for what is right.....it is not enough to be compassionate, one must act. " -- Dalai Lama © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

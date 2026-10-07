@@ -1,4 +1,4 @@
-MILITARY AND VETERANS AFFAIRS
-The military and our veteran’s affairs are especially important to Carl.
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Military MILITARY Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / MILITARY AND VETERANS AFFAIRS The military and our veteran’s affairs are especially important to Carl.
 Salisbury is home to one of four VA Medical Centers in North Carolina and so many men and women in Rowan and Stanly County have honorably served our great nation.
-We cannot neglect our brave men and women once their service is through and protecting veterans is what our Republican led legislature has worked hard to do.
+We cannot neglect our brave men and women once their service is through and protecting veterans is what our Republican led legislature has worked hard to do. “ Veterans sacrifice so much and have our backs at any given moment.
+Don’t think for one second that I don’t have your back in Raleigh. ” Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

@@ -1,6 +1,5 @@
-Op-Ed: Our Solvable Climate Crisis
-If you’ve been outside this summer, you know how hot it’s been lately.
-The heat and humidity has stretched long into the evening hours, making 2024 on track to be the hottest summer on record.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: Our Solvable Climate Crisis Sep 6 Written By Alice Wade If you’ve been outside this summer, you know how hot it’s been lately.
+The heat and humidity has stretched long into the evening hours, making 2024 on track to be the hottest summer on record .
 And yet it seems like every year we breeze past that record without a second thought, without considering the world in which our children will live in the not too distant future.
 It’s worth exploring the direct impact that climate change will have on our everyday lives if it continues on its current course.
 More frequent droughts will cause widespread food and water shortages, sea levels rising will make many coastal cities uninhabitable, and severe weather events like hurricanes, floods, and wildfires will become more frequent and severe.
@@ -18,7 +17,7 @@ Or remember the hole in Earth’s ozone layer.
 In the 1980s, scientists made a worrying discovery that Earth’s ozone layer was severely depleted from its natural state.
 Without a complete ozone layer, Earth becomes much more vulnerable to UV radiation from the sun.
 This could in-turn cause a cascade of effects to our climate and ecosystems, and the cause was identified as CFCs, a human-made chemical used in refrigeration, aerosols, and AC units.
-Only a few years later, the Montreal Protocol, a global treaty to phase out CFC use was ratified by every country on Earth.
+Only a few years later, the Montreal Protocol , a global treaty to phase out CFC use was ratified by every country on Earth.
 We as a species united around a common goal, and the hole in the ozone layer was able to repair itself over the next few decades.
 Just as we were able to come together to address the challenges of lead and the ozone layer, now is the time to unite around tackling an even bigger crisis, climate change.
 The need for action is urgent.
@@ -38,3 +37,4 @@ It affects us all, and it will take a united effort to tackle it.
 We need to rise above partisan politics and recognize that protecting our planet is a common goal.
 We must demand bold action from our leaders and make sustainable choices in our own lives.
 The time to act is now.
+Alice Wade Previous Previous NH House candidate 2024: Alice Wade, Strafford District 15 Next Next Foster’s: Alice Wade, Lucas Veitch compete for Dover Ward 2 state rep Democratic nomination Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

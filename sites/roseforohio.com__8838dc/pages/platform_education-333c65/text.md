@@ -1,5 +1,4 @@
-PUBLIC EDUCATION
-As a former public school teacher, Rose Lounsbury intimately understands the challenges of our public school system.
+0 Skip to Content Home About Endorsements Events Platform MERCH GET INVOLVED Open Menu Close Menu Home About Endorsements Events Platform MERCH GET INVOLVED Open Menu Close Menu Home About Endorsements Events Platform MERCH GET INVOLVED PUBLIC EDUCATION As a former public school teacher, Rose Lounsbury intimately understands the challenges of our public school system .
 From chronically underfunded schools to an alarming shortage of qualified teachers, Ohio’s public schools face big challenges.
 The unfortunate reality is that these challenges are avoidable and could be solved if legislators cared enough to do something.
 Rose will bring her experience and compassion as a teacher to the statehouse.
@@ -15,3 +14,13 @@ Too many teachers feel attacked and demoralized.
 Our teachers are tasked with the enormous responsibility of educating our future leaders and they deserve to be respected and adequately paid while they do so.
 Children are our greatest investment in the future.
 If we care about our future, we need to put our money where our kids are and fairly fund public education.
+Previous Previous Working Families Next Next Environment DONATE Get Involved Stay updated with our campaign!
+Enter your info below.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thanks for subscribing!
+You can expect to receive an email about once a week from Rose and the campaign team.
+CONTACT Checks can be mailed to: Friends of Rose Lounsbury PO Box 183, Oakwood, OH 45409-9998 PAID FOR BY FRIENDS OF ROSE LOUNSBURY © # Friends of Rose Lounsbury.
+All rights reserved.

@@ -1,29 +1,16 @@
-Privacy Policy
-Overview
-This Privacy Policy outlines our practices for online collection, use, and disclosure of your information that you provide to Tim Griffin for Attorney General when you use this Site and engage with our Services.
+Skip to primary navigation Skip to main content Skip to primary sidebar Skip to footer Home Meet Tim Join our Team Donate Contact Campaign News Search Privacy Policy Privacy Policy Overview This Privacy Policy outlines our practices for online collection, use, and disclosure of your information that you provide to Tim Griffin for Attorney General when you use this Site and engage with our Services.
 By using this site, you agree that this Privacy Policy governs your use of the site.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this site for updates.
 Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
-Information Collected
-Voluntary Information:
-We may collect personal information you voluntarily provide to us including your name, e-mail address and postal address.
+Information Collected Voluntary Information: We may collect personal information you voluntarily provide to us including your name, e-mail address and postal address.
 You may provide this information by filling out forms, request information, register, make a purchase or for other purposes.
 We may also collect demographic information such as gender, date of birth, occupation, employer name and zip code.
 In limited circumstances, we may collect payment information such as credit card number where needed to complete a requested service or transaction.
-Automatically Generated Information:
-As you navigate through and interact with our site, we and our service providers may use automatic data collection technologies to collect non-personally identifiable information that is generated automatically while you are visiting the site, other websites, mobile websites and/or mobile applications or elsewhere on the Internet in order to provide content and advertisements about goods and services of interest to you across those various devices.
+Automatically Generated Information: As you navigate through and interact with our site, we and our service providers may use automatic data collection technologies to collect non-personally identifiable information that is generated automatically while you are visiting the site, other websites, mobile websites and/or mobile applications or elsewhere on the Internet in order to provide content and advertisements about goods and services of interest to you across those various devices.
 This non-personally identifiable data includes, but is not limited to, information such as web pages visited before and after visiting the site, date and time, logs, domain type, type of mobile device you use, your device’s unique ID links you click on within the site, interactions with an advertisement delivered by us or a third-party advertising technology vendor and other communication data regarding the resources you access and use on this site.
 We may also collect your IP address, which is a unique identifier that certain electronic devices used to identify and communicate with each other on the Internet.
-How It Is Collected:
-We collect several types of information from and about users of our site, which is collected directly from you when you provide it to us and from third parties, for example, our service providers and/or business partners.
-Automatically Generated Information as noted above may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies us and is collected using the following technologies:
-Cookies: This type of information may be collected using different types of technologies, such as cookies and pixels.
-“Cookies” are small pieces of information that are stored by your browser.
-You may refuse to accept browser cookies by activating the appropriate setting on your browser.
-However, if you select this setting you may be unable to access certain parts of our Website.
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-Web Beacons: Pages of our site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Tim Griffin for Attorney General, for example, to count users who have visited those pages or opened an e-mail and for other related web site statistics (for example, recording the popularity of certain web site content and verifying system and server integrity).
+How It Is Collected: Web Beacons: Pages of our site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Tim Griffin for Attorney General, for example, to count users who have visited those pages or opened an e-mail and for other related web site statistics (for example, recording the popularity of certain web site content and verifying system and server integrity).
 Google Analytics: This website uses Google Analytics to help analyze how users use the site, which uses cookies.
 The information generated by the cookie about your use of the website (including IP address) is transmitted to Google.
 This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity for Tim Griffin for Attorney General.
@@ -37,3 +24,12 @@ You may opt out of use of your information by Google Analytics by using the Goog
 You can also opt out by visiting the site of the Network Advertising Initiative, which can be found here: http://www.networkadvertising.org/choices/.
 CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE: We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), in that we do not knowingly collect or maintain personal information from anyone under 13 years of age.
 Our website, information and services are all directed to people who are at least 13 years of age or older.
+Primary Sidebar Used for the like, share, comment, and reaction icons This message is only visible to admins.
+Problem displaying Facebook posts.
+Error: Server configuration issue Campaign News AG-elect Griffin Announces Senior Staff and Restructuring December 9, 2022 Bewley to Join AG-Elect Griffin’s Staff As Chief of Investigations December 1, 2022 A Plan For A Safer Arkansas October 24, 2022 Twitter feed is not available at the moment.
+Footer Attorney General Griffin is currently an officer in the Arkansas Army National Guard and holds the rank of colonel.
+He served as an officer in the U.S.
+Army Reserve Judge Advocate General’s (JAG) Corps for more than 28 years.
+In 2005, he was mobilized to active duty as an Army prosecutor at Fort Campbell, Kentucky, and served with the 101st Airborne Division (Air Assault) in Mosul, Iraq.
+Use of Attorney General Griffin’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Paid for by Tim Griffin for Attorney General | Privacy Policy

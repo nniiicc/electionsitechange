@@ -1,19 +1,18 @@
-FOR IMMEDIATE RELEASE
-September 9, 2026
-CONTACT:
-Madison White
-512.463.0694
-(Austin, TX) – One year ago tomorrow, Charlie Kirk was assassinated for doing what Americans have done since the founding of our nation: speaking openly about his beliefs, challenging opposing ideas, and engaging his fellow citizens in political debate.
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now September 9, 2026 - In Uncategorized By Datatonikweb Comment off REP.
+PATTERSON ANNOUNCES “CHARLIE KIRK ACT” TO COMBAT POLITICAL VIOLENCE FOR IMMEDIATE RELEASE September 9, 2026 CONTACT: Madison White 512.463.0694 (Austin, TX) – One year ago tomorrow, Charlie Kirk was assassinated for doing what Americans have done since the founding of our nation: speaking openly about his beliefs, challenging opposing ideas, and engaging his fellow citizens in political debate.
 His horrific murder shocked the nation and demonstrated in the most tragic way what can happen when political disagreement gives way to political violence.
 Charlie’s assassination was not an isolated act.
 From the shooting of Congressman Steve Scalise and his colleagues at a congressional baseball practice, to assassination attempts against President Donald Trump, to the murder and attempted murder of elected officials and political figures across the country, Americans have witnessed an alarming pattern of political differences escalating into violence.
-We cannot allow assassination and political violence to replace debate in America
-Today, State Representative Jared Patterson announced plans to file the “Charlie Kirk Act” in the 90th Texas Legislature to ensure Texas law treats politically motivated murder with the severity it deserves.
+We cannot allow assassination and political violence to replace debate in America Today, State Representative Jared Patterson announced plans to file the “Charlie Kirk Act” in the 90th Texas Legislature to ensure Texas law treats politically motivated murder with the severity it deserves.
 The legislation would amend Section 19.03 of the Texas Penal Code to make murder committed in furtherance of political violence a capital murder offense.
 “Charlie Kirk believed political disagreements should be fought with ideas, debate, and more speech—not violence,” said Rep.
 Patterson.
 “The Charlie Kirk Act will honor Charlie’s life and legacy by ensuring those who use murder as a weapon to advance a political cause face the most serious consequences available under Texas law.
-Regardless of the victim or political ideology, violence can never become an acceptable substitute for debate in America.”
-State Representative Jared Patterson is serving his fourth term representing House District 106 in Denton County.
+Regardless of the victim or political ideology, violence can never become an acceptable substitute for debate in America.” State Representative Jared Patterson is serving his fourth term representing House District 106 in Denton County.
 Patterson is Chairman of the Local & Consent Calendars Committee and serves on the House Committees on Licensing & Administrative Procedures, Transportation, and the Subcommittee on Transportation Funding.
-He is the Chair of the ONE DFW Legislative Caucus and resides in Frisco with his wife, three children, and family dog
+He is the Chair of the ONE DFW Legislative Caucus and resides in Frisco with his wife, three children, and family dog Share Article Previous REP.
+PATTERSON COMMENDS PUBLIC HEALTH COMMITTEE AND VOWS TO CONTINUE THE FIGHT All posts Archives September 2026 August 2026 April 2026 March 2026 February 2026 January 2026 December 2025 May 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 June 2024 May 2024 April 2024 March 2024 January 2024 November 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 December 2021 October 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 September 2020 August 2020 July 2020 May 2020 April 2020 March 2020 January 2020 December 2019 July 2019 May 2019 April 2019 March 2019 February 2019 January 2019 Categories Political Issues Uncategorized Recent News REP.
+PATTERSON ANNOUNCES “CHARLIE KIRK ACT” TO COMBAT POLITICAL VIOLENCE September 9, 2026 REP.
+PATTERSON COMMENDS PUBLIC HEALTH COMMITTEE AND VOWS TO CONTINUE THE FIGHT August 20, 2026 REP.
+PATTERSON HELPS SECURE THREE QUARTERS OF A BILLION DOLLARS IN FEDERAL FUNDING FOR TXDOT RAIL GRADE SEPARATION PROJECTS August 17, 2026 Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

@@ -1,5 +1,4 @@
-Meet Stacey Evans
-Atlanta is home to Stacey Evans.
+0 Skip to Content Home GA House District 57 Meet Stacey Issues News Get Involved Contact Us Donate Open Menu Close Menu Home GA House District 57 Meet Stacey Issues News Get Involved Contact Us Donate Open Menu Close Menu Home GA House District 57 Meet Stacey Issues News Get Involved Contact Us Donate Meet Stacey Evans Atlanta is home to Stacey Evans.
 It’s where she serves the community, practices law and lives with her husband Andrew and their two children, Ashley and Jack, in the Morningside neighborhood of District 57.
 Stacey grew up in Ringgold, Georgia, in the Northwest corner of our state, in the shadow of the carpet mills where nearly everyone in her immediate and extended family worked.
 She experienced poverty and community destruction from job loss in her small town, where she also learned the importance of community engagement.
@@ -24,3 +23,5 @@ A strong and consistent supporter of public education, Stacey credits her teache
 As a state legislator, she has fought to protect the HOPE scholarship’s original guarantee of an affordable education for all, led successful efforts to expand access to Georgia’s technical colleges and supported fully funding K-12 public schools.
 Stacey has proven she has the background and experience to bring people together.
 She is uniquely qualified to continue her work as our state representative and has the know-how to keep getting things done for our district.
+Copyright # © All rights Reserved.
+Paid for by Friends of Stacey Evans 750 Piedmont Avenue, NE Atlanta, GA 30308 Privacy Policy

@@ -1,11 +1,5 @@
-top of page
-Robert Quigley For Congress 2026
-U.S.
-Representative
-Independent - KY 6
-Write-In Candidate - Just Write Quigley On Ballot
-No Data Centers
-In terms of the topic data centers, personally, I do not support them for any location in the Kentucky six congressional district.
+top of page Robert Quigley For Congress 2026 HOME U.S.
+Representative Independent - KY 6 Donate $2 Write-In Candidate - Just Write Quigley On Ballot Data Centers Invite Quigley To Speak Merchandise Competitors Raffle BTC Donate No Data Centers Video Explainer In terms of the topic data centers, personally, I do not support them for any location in the Kentucky six congressional district.
 In fact, I do not support them for any location in the State of Kentucky.
 Why?
 Based on my conversations with leading tech experts from the biggest tech giants, the following facts are crucial to understand.
@@ -37,13 +31,6 @@ It has its limits.
 Therefore, the tech industry is focusing on data and trying to shift the entire tech world into a subscription environment, a.k.a. rent software, rent hardware and constantly pay an income stream to these insatiable mad men.
 Let’s say no to data centers.
 Let’s put leaders in Congress that actually understand what’s going on in the economics so that we can protect our citizens and stop the economic cannibalization which the tech industry has forced onto America.
-Kentucky & Washington DC
-202-578-8390
-2637 Berea Rd
-Lexington, KY 40511
-And
-(Office)
-142 Webster St NE
-Washington, DC 20011
-Books By Quigley
-bottom of page
+Connect with us and stay informed.
+Quigley's LinkedIn The Divine Republic The Arab Spring Climate Impact Global Warming Solutions Kentucky & Washington DC r.a.quigley.95@cantab.net 202-578-8390 2637 Berea Rd Lexington, KY 40511 ​ And ​ ​ (Office) 142 Webster St NE Washington, DC 20011 © # by Robert Quigley For Congress.
+Get in touch First name * Last name Email * Phone Write a message Submit Books By Quigley The Tyranny of Certainty The Death Of Humanity - The Science Pomeranian Treat 1 Pomeranian Treat 2 bottom of page

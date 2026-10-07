@@ -1,6 +1,8 @@
-House District 1 is a district of the Iowa State House of Representatives.
+Skip navigation menu About House District 1 Issues and Policy News Events Volunteer Host a Yard Sign Contact Donate House District 1 Our House.
+Our Home., About House District 1 Issues and Policy News Events Volunteer Host a Yard Sign Contact Donate House District 1 Our House.
+Our Home., Sioux City— Our Home House District 1 is a district of the Iowa State House of Representatives.
 The district includes Riverside, the Westside, much of the city's Central Corridor, and the southern-most part of the Northside.
-A map of the district can be found here.
+A map of the district can be found here .
 Like all Iowans, citizens of the district are entitled to representation in the state house, so our voices can be heard when laws are made and policy is set.
 Since 2023, we've been well-represented by J.D.
 Scholten; however, earlier this year, Scholten announced he would not be seeking reelection.
@@ -13,4 +15,6 @@ In 2025, Catelin Drey flipped Iowa SENATE District 1 (which contains Iowa HOUSE 
 Still, we know that politicians—and their big money backers—concerned with profits and control will try to take this seat to increase their power.
 But we're not going to let them...because we're going to elect one of our own: Shawn Olorundami.
 A leader in our city, born and raised in this district, and now raising his own children here.
-And who stands
+And who stands For Progress.
+For Us.
+Learn More Shawn@ShawnForProgress.com Powered by RUN! website builder Paid for by Olorundami For Progress You need to enable JavaScript to run this app.

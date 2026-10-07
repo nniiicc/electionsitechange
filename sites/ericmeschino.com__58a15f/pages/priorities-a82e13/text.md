@@ -1,7 +1,7 @@
-Affordability for Working Families
-The cost of living should not price families out of the communities they call home.
-Eric's Plan
-- Fight to lower energy costs and reject mandates that drive up utility bills
-- Oppose new and higher taxes on Massachusetts families and small businesses
-- Support relief that helps seniors and young families afford to stay in our district
-- Bring common-sense fiscal responsibility to Beacon Hill spending
+Open main menu Home About Priorities Get Involved Contact Donate Donate Now Platform Eric's Priorities Affordability Accountability Waterfront Affordability for Working Families The cost of living should not price families out of the communities they call home.
+Eric's Plan Fight to lower energy costs and reject mandates that drive up utility bills Oppose new and higher taxes on Massachusetts families and small businesses Support relief that helps seniors and young families afford to stay in our district Bring common-sense fiscal responsibility to Beacon Hill spending Safe, Accountable Communities Good government means transparency, integrity, and putting the people first.
+Eric's Plan Ensure the legislative audit that 72% of Massachusetts voters approved actually happens — unlike the incumbent representative, who voted against the audit Demand transparency and accountability from leadership on Beacon Hill Support our police, fire, and first responders who keep our communities safe Invest in quality public schools and the services families depend on Restore public trust by listening to the people of the 12th Plymouth District Protecting Our Working Waterfront As a 25-year commercial lobsterman, Eric will stand up for our fishermen and small businesses.
+Eric's Plan Defend the commercial fishing industry and the blue-collar jobs it supports Champion sustainable practices that protect our natural resources for the next generation Cut red tape that makes it harder for small businesses to grow and hire Give the people who work our coastline a real voice in state policy There are several more important priorities facing our district.
+If you wish to speak with Eric about any topic, please email him at eric@ericmeschino.com Ready to Make a Difference?
+Join Team Meschino to help us build a stronger 12th Plymouth District together.
+Donate Now Get Involved Home About Priorities Get Involved Contact Donate Facebook Email Paid for by the Committee to Elect Eric Meschino Privacy Policy Terms & Conditions © 2026 Committee to Elect Eric Meschino

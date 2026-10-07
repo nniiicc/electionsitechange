@@ -1,23 +1,19 @@
-A tax system should be simple, transparent, and fair, and you shouldn't be able to cheat the system just because you have enough money to hire people who know how.
-But too often, working Oregonians pay what they owe while large corporations and the wealthiest households have access to loopholes, deductions, and sophisticated tax strategies that ordinary families don't.
-And the numbers show that our system isn't as fair as it should be.
+top of page HOME MEET JOANNA PRIORITIES PRIORITY: Housing PRIORITY: Healthcare PRIORITY: Education & Jobs PRIORITY: Lowering Costs PRIORITY: Fair Taxes ENDORSEMENTS GET INVOLVED EVENTS Use tab to navigate through the menu items.
+DONATE A tax system should be simple, transparent, and fair, and you shouldn't be able to cheat the system just because you have enough money to hire people who know how.
+But too often, working Oregonians pay what they owe while large corporations and the wealthiest households have access to loopholes, deductions, and sophisticated tax strategies that ordinary families don't. ​ And the numbers show that our system isn't as fair as it should be.
 According to the Institute on Taxation and Economic Policy, Oregon's lowest-income households pay about 12% of their income in state and local taxes, compared with 10.4% for the wealthiest 1%.
 When people struggling to make ends meet can pay a greater share of what they earn than people at the very top, something is wrong.
 That's not fiscal responsibility.
-That's a system that's rigged in favor of people with the greatest ability to work it.
-I'll fight for a tax code that eases the burden on working people, closes opportunities to game the system, and makes sure wealthy individuals and large corporations pay their fair share.
+That's a system that's rigged in favor of people with the greatest ability to work it. ​ I'll fight for a tax code that eases the burden on working people, closes opportunities to game the system, and makes sure wealthy individuals and large corporations pay their fair share.
 At the same time, I'll demand accountability for how public dollars are spent, because fairness isn't just about what government collects—it's about making sure taxpayers get value for what they contribute.
-That means:
-- Closing loopholes and opportunities to game the system: I will scrutinize tax preferences, deductions, and structures that allow sophisticated taxpayers to substantially reduce what they owe in ways unavailable to ordinary wage earners.
-If you earn your living from a paycheck, you shouldn't be playing by stricter rules than someone whose income flows through layers of partnerships, pass-through entities, or other financial structures.
-- Making profitable corporations pay something: I support exploring a corporate minimum tax tied more closely to the profits corporations report to their shareholders, so highly profitable companies can't use layers of deductions and credits to dramatically reduce—or potentially eliminate—the income tax they owe.
-- Making every tax dollar count: A fair tax system also requires an accountable government.
+That means: ​ Closing loopholes and opportunities to game the system: I will scrutinize tax preferences, deductions, and structures that allow sophisticated taxpayers to substantially reduce what they owe in ways unavailable to ordinary wage earners.
+If you earn your living from a paycheck, you shouldn't be playing by stricter rules than someone whose income flows through layers of partnerships, pass-through entities, or other financial structures. ​ Making profitable corporations pay something: I support exploring a corporate minimum tax tied more closely to the profits corporations report to their shareholders, so highly profitable companies can't use layers of deductions and credits to dramatically reduce—or potentially eliminate—the income tax they owe. ​ ​ ​ Making every tax dollar count: A fair tax system also requires an accountable government.
 I will demand transparency, evaluate whether tax credits and subsidies are actually delivering the public benefit they promised, and push to eliminate ineffective giveaways.
-If taxpayers are asked to contribute their hard-earned money, government has an obligation to spend it carefully.
-I'm not interested in raising taxes on working families to solve every problem.
+If taxpayers are asked to contribute their hard-earned money, government has an obligation to spend it carefully. ​ I'm not interested in raising taxes on working families to solve every problem.
 I'm interested in making sure everyone is actually playing by the same rules.
-Working people shouldn't be asked to shoulder more because someone with more money, more lawyers, or more accountants has figured out how to shoulder less.
-I'll fight for a tax code that is balanced, efficient, accountable, and just—one that lets working people keep more of what they earn while generating the reliable revenue we need for schools, healthcare, infrastructure, public safety, and the other services our communities depend on.
+Working people shouldn't be asked to shoulder more because someone with more money, more lawyers, or more accountants has figured out how to shoulder less. ​ I'll fight for a tax code that is balanced, efficient, accountable, and just—one that lets working people keep more of what they earn while generating the reliable revenue we need for schools, healthcare, infrastructure, public safety, and the other services our communities depend on.
 Everyone should pay their fair share.
 No one should get to cheat the system.
 And the rules shouldn't be rigged in favor of the people who need the least help.
+HOME MEET JOANNA PRIORITIES PRIORITY: Housing PRIORITY: Healthcare PRIORITY: Education & Jobs PRIORITY: Lowering Costs PRIORITY: Fair Taxes ENDORSEMENTS GET INVOLVED EVENTS More Use tab to navigate through the menu items. joanna@joannarobinsonfororegon.com P.O.
+Box 37 Albany, OR 97321 (541) 791-6260 ​ Paid for by Joanna Robinson for Oregon, PAC ID 24710 bottom of page

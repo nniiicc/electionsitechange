@@ -1,13 +1,11 @@
-Legislative Update from Rep.
-Iler — May 5, 2025
-Last week at the North Carolina General Assembly was extremely busy with multiple deadlines upon us.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Update from Rep.
+Iler — May 5, 2025 By Frank Iler | May 5, 2025 Last week at the North Carolina General Assembly was extremely busy with multiple deadlines upon us.
 Many bills needed to pass the House or Senate in order to go to the other chamber and be considered.
 The state budget also was on a tight schedule.
 The state budget for the two-year biennium came from the Senate to the House with a three-week time frame to be finished in the House.
 The “crossover” deadline to get bills to the other chamber is also upon us this week.
 Committees met frequently last week and handled many bills on their way to floor votes.
-Here are some of the bills of local interest that passed the House:
-House Bill 38 – Second Amendment Financial Privacy Act prevents merchants who sell firearms with a transaction card from maintaining a record of firearm ownership.
+Here are some of the bills of local interest that passed the House: House Bill 38 – Second Amendment Financial Privacy Act prevents merchants who sell firearms with a transaction card from maintaining a record of firearm ownership.
 It passed 77-38 with all Republicans voting for it.
 Rep.
 Miller was a primary sponsor of this bill.
@@ -28,3 +26,5 @@ Rep.
 Miller was a primary sponsor and I was a co-sponsor.
 All these bills went to the Senate.
 We will deal with several deadlines this week, and we expect to be very busy again.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

@@ -1,5 +1,4 @@
-Dear friends and neighbors
-As your elected representative, I am proud to serve as a dedicated family man and a long-standing resident of this incredible district.
+0 Skip to Content Home Meet FB Gallery Volunteer ENDORSEMENT Contact Fabián Basabe for Florida State House Representative English DONATE Open Menu Close Menu Home Meet FB Gallery Volunteer ENDORSEMENT Contact Fabián Basabe for Florida State House Representative English DONATE Open Menu Close Menu Home Meet FB Gallery Volunteer ENDORSEMENT Contact English Back DONATE Dear friends and neighbors As your elected representative, I am proud to serve as a dedicated family man and a long-standing resident of this incredible district.
 Together, we have achieved tremendous milestones, navigating two primaries and two general elections to solidify our seat at the state’s table in Tallahassee.
 Our district is now a cornerstone of Florida’s supermajority, ensuring that our voices are heard and our priorities addressed.
 When I first ran for office, I was determined to challenge partisanship and bring people together.
@@ -12,11 +11,6 @@ By working together with common sense and determination, we will continue to rev
 I am honored to represent you and invite you will join in as we build on our success and strive for even greater achievements.
 Let’s keep this momentum going—together.
 Thank you for your trust and support.
-Sincerely,
-“Florida State Fraternal Order of Police believes in the character and moral fiber of Fabian Basabe.
-We were so impressed with this young man's fervor in wanting to make his district flourish again that we unanimously voted to endorse his candidacy for State Representative in district 106”.
-- Lt.
-AL Palacio, Director of FL State FOP
-"...he's conservative on fiscal issues but believes the GOP needs to do a better job on social issues..."
-"I don't support any level of extremism."
-- Fabian Basabe
+Sincerely, “Florida State Fraternal Order of Police believes in the character and moral fiber of Fabian Basabe.
+We were so impressed with this young man's fervor in wanting to make his district flourish again that we unanimously voted to endorse his candidacy for State Representative in district 106”. - Lt.
+AL Palacio, Director of FL State FOP "...he's conservative on fiscal issues but believes the GOP needs to do a better job on social issues..." "I don't support any level of extremism." - Fabian Basabe Meet Fabián Contact Volunteer Donate #FABIANFORFLORIDA Paid for by Fabian Basabe, Republican, for State House District 106 Privacy Policy | Contact Webmaster

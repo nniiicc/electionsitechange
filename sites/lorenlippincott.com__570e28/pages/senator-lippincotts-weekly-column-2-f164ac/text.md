@@ -1,4 +1,4 @@
-In recent home visits and speaking engagements in District 34, folks have asked, “Why the logjam in this year’s session?” So, let’s look at some basics of how the Legislature runs (or doesn’t).
+Home About District 34 Issues News Get Involved Donate Donate Home About District 34 Issues News Get Involved News March 30, 2023 Senator Lippincott's Weekly Column In recent home visits and speaking engagements in District 34, folks have asked, “Why the logjam in this year’s session?” So, let’s look at some basics of how the Legislature runs (or doesn’t).
 Bills are allowed to be introduced or “dropped” the first ten days of a session and then are referred to a standing committee for a public hearing where anyone is allowed to testify in support or opposition to a bill.
 Once the hearing takes place, the committee decides the fate of the bill.
 If it is advanced to the floor, the Speaker of the Legislature decides when it will be placed on the agenda for debate.
@@ -27,6 +27,6 @@ The pro - it protects the minority in the body and their concerns.
 Remember, we do not have a democracy (majority rules).
 We have a Constitutional Republic which recognizes the minority and falls under the rule of constitutional law.
 It was Dr.
-Benjamin Rush who said, “A democracy becomes a “Mobocracy.”” And John Adams added, “There was never a democracy yet that did not commit suicide.”
-Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
+Benjamin Rush who said, “A democracy becomes a “Mobocracy.”” And John Adams added, “There was never a democracy yet that did not commit suicide.” Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
+Share

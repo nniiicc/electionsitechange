@@ -1,4 +1,4 @@
-Aren’t we all tired of elected officials telling us what to do without any understanding of the consequences?
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate Idahoans Beware – Washington State Imposing Taxes on Idaho Citizens is Wrong February 24, 2022 Aren’t we all tired of elected officials telling us what to do without any understanding of the consequences?
 Enough is enough.
 It’s time to tell elected officials in Washington State they shouldn’t start a trade war with Idahoans – not now, not ever.
 The Democrats in charge of the Washington State Legislature are fast tracking a bill that would impose a six-cent-per-gallon tax on all gasoline, diesel and jet fuel destined for Idaho.
@@ -19,7 +19,12 @@ But I do know that it’s just plain wrong, and I know we will be taking any and
 The Idaho Legislature and Governor Little are stepping in right now to tell Washington state NO!
 We are all tired of politicians overstepping their authority – and the power to tax is one of the most dangerous.
 Imposing state taxes on another state is wrong and potentially dangerous to our nation.
-This taxation without representation scheme coming out of Olympia must be stopped.
-— Scott Bedke, February 22nd, 2022
-Scott Bedke is the speaker of the Idaho House of Representatives.
-For more information see also:
+This taxation without representation scheme coming out of Olympia must be stopped. — Scott Bedke, February 22nd, 2022 Scott Bedke is the speaker of the Idaho House of Representatives.
+For more information see also: https://magicvalley.com/opinion/columnists/reader-comment-idahoans-beware—washington-state-imposing-taxes-on-idaho-citizens-is-wrong/article_7c978621-13de-5c0e-8eea-339af375684e.html Share This Story Facebook Twitter Prev Jim Risch endorses Scott Bedke for Lieutenant Governor Idahoans Representing Each of the 44 Idaho Counties Back Scott Bedke to be Idaho’s Next Lieutenant Governor Next Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

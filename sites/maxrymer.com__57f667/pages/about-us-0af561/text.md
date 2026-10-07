@@ -1,6 +1,5 @@
-Meet Max.
-About Me
-I grew up in a middle-class family in Northeast Wisconsin.
+About Max Issues Newsletter Contact/Volunteer Donate TODAY Meet Max.
+About Me I grew up in a middle-class family in Northeast Wisconsin.
 My mom was a nurse and my dad was a UPS driver.
 Growing up, I had common-sense values instilled in me, along with the typical underpinning of the American Dream: that if you worked hard, lived responsibly, and kept going, you could get ahead.
 More and more, it seems like that American Dream has become harder to reach, especially for young families, small business owners, and people who are simply trying to build a good life without government making it more expensive and complicated.
@@ -51,3 +50,5 @@ I love Chisago County.
 I love Minnesota.
 And I believe our best years are still ahead if we are willing to make different decisions than the ones that put us in this position.
 I am grateful for the privilege to serve, and I am asking for your continued support as we keep working to restore fiscal sanity, defend families, protect taxpayers, and make Minnesota a place where the American (and Minnesotan) Dream is still possible.
+Donate to Max's Campaign Get on our email list.
+Paid for and provided by Max for House About Max Issues Newsletter Contact/Volunteer Donate TODAY

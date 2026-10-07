@@ -1,12 +1,54 @@
 [
-"https://facebook.com/people/Gilmour-for-MN-House/61569744327720",
-"https://gilmourformnhouse.com/",
-"https://gilmourformnhouse.com/contact-george",
-"https://gilmourformnhouse.com/donate",
-"https://gilmourformnhouse.com/endorsements",
-"https://gilmourformnhouse.com/george-who",
-"https://gilmourformnhouse.com/why-george",
-"https://gilmourformnhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-9.54.52-PM.png",
-"https://mccl.org/",
-"https://secure.winred.com/gilmour-for-mn-house"
+{
+"text": "Click Here",
+"href": "https://gilmourformnhouse.com/donate/"
+},
+{
+"text": "Contact George",
+"href": "https://gilmourformnhouse.com/contact-george/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/gilmour-for-mn-house"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gilmour-for-mn-house"
+},
+{
+"text": "Endorsements",
+"href": "https://gilmourformnhouse.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/people/Gilmour-for-MN-House/61569744327720/"
+},
+{
+"text": "George Who?",
+"href": "https://gilmourformnhouse.com/george-who/"
+},
+{
+"text": "Why George?",
+"href": "https://gilmourformnhouse.com/why-george/"
+},
+{
+"text": "[image: MCCL State PAC]",
+"href": "https://www.mccl.org/"
+},
+{
+"text": "[image: Minnesota Police and Peace Officers Association Endorsement]",
+"href": "https://gilmourformnhouse.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-9.54.52-PM.png"
+},
+{
+"text": "[image: Vote George Gilmour for Minnesota House District 52A]",
+"href": "https://gilmourformnhouse.com/"
+},
+{
+"text": "[image: Vote George Gilmour for Minnesota House of Representatives District 52A]",
+"href": "https://gilmourformnhouse.com/"
+},
+{
+"text": "info@gilmourformnhouse.com",
+"href": "mailto:info@gilmourformnhouse.com"
+}
 ]

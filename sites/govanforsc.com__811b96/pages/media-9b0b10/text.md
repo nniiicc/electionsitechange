@@ -1,10 +1,11 @@
-Retired SC educator, Democratic Rep.
+Home Meet Jerry Media Contact Us More Home Meet Jerry Media Contact Us Home Meet Jerry Media Contact Us Media The State WIS News 10 Retired SC educator, Democratic Rep.
 Jerry Govan to run for state schools superintendent Read more...
-Longtime SC representative to run for state superintendent of education
-Orangeburg Rep.
-Jerry Govan announces his run for superintendent of education
-Pared-down bill to regulate what can be taught in SC schools advances to House floor
-University of South Carolina staff members demanding livable wages
-Govan wants to be 'advocate-in-chief'; lawmaker says he is prepared to lead education
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+WIS News 10 WIS News 10 Longtime SC representative to run for state superintendent of education Read more...
+ABC Columbia Orangeburg Rep.
+Jerry Govan announces his run for superintendent of education Read more.. .
+WRDW New 12 & 26 The Times and Democrat Pared-down bill to regulate what can be taught in SC schools advances to House floor Read more...
+WLTX News 19 The Times and Democrat The Times and Democrat University of South Carolina staff members demanding livable wages Read more...
+The Times and Democrat The Times and Democrat The Times and Democrat Govan wants to be 'advocate-in-chief'; lawmaker says he is prepared to lead education Read more...
+Home Meet Jerry Media Contact Us Govan For SC Copyright © # Govan For SC - All Rights Reserved.
+Powered by Give $24 Today!
+Donate

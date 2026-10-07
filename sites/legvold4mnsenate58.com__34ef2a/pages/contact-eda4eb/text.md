@@ -1,5 +1,3 @@
-Contact Us
-Questions or just want to let us know what’s on your mind?
+0 Skip to Content Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Contact Us Questions or just want to let us know what’s on your mind?
 Please fill out the form below.
-Looking forward to hearing from you
-legvoldcampaign@gmail.com
+Looking forward to hearing from you legvoldcampaign@gmail.com Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

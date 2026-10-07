@@ -1,19 +1,78 @@
 [
-"https://cityandstateny.com/opinion/2026/02/editors-note-campaign-donors-are-power-letitia-james/411142",
-"https://facebook.com/LetitiaJamesforNY",
-"https://instagram.com/letitiajamesforny",
-"https://jamesforny.com/",
-"https://jamesforny.com/about",
-"https://jamesforny.com/contact",
-"https://jamesforny.com/news",
-"https://jamesforny.com/priorities",
-"https://jamesforny.com/privacy-policy",
-"https://middleseat.co/",
-"https://secure.actblue.com/donate/web_ms_tish_20260326",
-"https://secure.actblue.com/donate/web_ms_tish_20260326?amount=10",
-"https://secure.actblue.com/donate/web_ms_tish_20260326?amount=100",
-"https://secure.actblue.com/donate/web_ms_tish_20260326?amount=25",
-"https://secure.actblue.com/donate/web_ms_tish_20260326?amount=250",
-"https://secure.actblue.com/donate/web_ms_tish_20260326?amount=500",
-"https://x.com/TishJames"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://jamesforny.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326"
+},
+{
+"text": "Editor’s note: Campaign donors are power for Letitia James In the News March 25, 2026 City & State New York The state attorney general is a national figure, thanks to the president. With all due respect to Rep. Hakeem Jeffries – who’s been going through a rough patch in Washington, D.C. – no Black politico can match state Attorney General Letitia James’ …",
+"href": "https://www.cityandstateny.com/opinion/2026/02/editors-note-campaign-donors-are-power-letitia-james/411142/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LetitiaJamesforNY"
+},
+{
+"text": "Home",
+"href": "https://jamesforny.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/letitiajamesforny"
+},
+{
+"text": "Letitia James for New York",
+"href": "https://jamesforny.com"
+},
+{
+"text": "Meet Letitia",
+"href": "https://jamesforny.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "News",
+"href": "https://jamesforny.com/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/web_ms_tish_20260326"
+},
+{
+"text": "Priorities",
+"href": "https://jamesforny.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jamesforny.com/privacy-policy/"
+},
+{
+"text": "X",
+"href": "https://x.com/TishJames"
+}
 ]

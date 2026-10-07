@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Coffee+with+Justine+Sandoval+&dates=20260614T160000Z%2F20260614T180000Z",
-"https://hd5justine.com/",
-"https://hd5justine.com/cart",
-"https://hd5justine.com/contact",
-"https://hd5justine.com/endorsements",
-"https://hd5justine.com/events",
-"https://hd5justine.com/events/101ze3bas3dptoc6ble5uapgzp7qx3-cjaef-9e7ep-ee75z-h5mwy-hmw59",
-"https://hd5justine.com/events/101ze3bas3dptoc6ble5uapgzp7qx3-cjaef-9e7ep-ee75z-h5mwy-jtcf7",
-"https://hd5justine.com/events/community-coffee-with-justine-sandoval-cscx6-plnz8-nbpm5-gejet?format=ical",
-"https://hd5justine.com/issues",
-"https://hd5justine.com/media",
-"https://hd5justine.com/volunteer",
-"https://secure.actblue.com/donate/justine-sandoval-1",
-"https://secure.actblue.com/donate/sandovalmerchstore"
+{
+"text": "0",
+"href": "https://hd5justine.com/cart"
+},
+{
+"text": "Back",
+"href": "https://hd5justine.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://hd5justine.com/events"
+},
+{
+"text": "Contact",
+"href": "https://hd5justine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/justine-sandoval-1"
+},
+{
+"text": "Endorsements",
+"href": "https://hd5justine.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://hd5justine.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Coffee+with+Justine+Sandoval+&dates=20260614T160000Z%2F20260614T180000Z"
+},
+{
+"text": "Home",
+"href": "https://hd5justine.com/"
+},
+{
+"text": "ICS",
+"href": "https://hd5justine.com/events/community-coffee-with-justine-sandoval-cscx6-plnz8-nbpm5-gejet?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://hd5justine.com/issues"
+},
+{
+"text": "Media",
+"href": "https://hd5justine.com/media"
+},
+{
+"text": "Merch Store",
+"href": "https://secure.actblue.com/donate/sandovalmerchstore"
+},
+{
+"text": "Next Next June 18 Thursday Volunteer Night",
+"href": "https://hd5justine.com/events/101ze3bas3dptoc6ble5uapgzp7qx3-cjaef-9e7ep-ee75z-h5mwy-jtcf7"
+},
+{
+"text": "Previous Previous June 11 Thursday Volunteer Night",
+"href": "https://hd5justine.com/events/101ze3bas3dptoc6ble5uapgzp7qx3-cjaef-9e7ep-ee75z-h5mwy-hmw59"
+},
+{
+"text": "Volunteer",
+"href": "https://hd5justine.com/volunteer"
+},
+{
+"text": "[image: Justine Sandoval for House District 5 ]",
+"href": "https://hd5justine.com/"
+}
 ]

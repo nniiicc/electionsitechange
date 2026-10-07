@@ -1,5 +1,4 @@
-Biography
-I was born in Massachusetts, but my family moved to Lodi, CA when I was 7.
+Skip to content Biography I was born in Massachusetts, but my family moved to Lodi, CA when I was 7.
 I graduated with a BS in Computer Science from CSU, Chico, broke as most coming out of college.
 I had an offer to stay in Las Vegas, planning to work in casinos till getting money to move.
 However, I was hired the first month at EG&G/Energy Measurements, a company that supported the Nevada Test Site.
@@ -18,8 +17,10 @@ During session, when all systems were working smoothly, I found it interesting t
 Although Mark Twain said you should never see laws being made, I found it fascinating.
 I retired at the end of 2014.
 Elsewhere, I have been in officer roles at the Friends of the Dayton Valley Library since 1996, at the Historical Society of Dayton Valley, AAUW (American Association of University Women) Capital Branch, Lyon County Democratic Central Committee, and currently recent Past State President of RPEN (Retired Public Employees of Nevada), whose main mission is to advocate for the preservation of NVPERS and retiree benefits.
-Recently I became treasurer of the newly formed Dayton Main Street, whose mission is to
-In my capacity as RPEN President I have lobbied and testified in committees on behalf of RPEN members.
+Recently I became treasurer of the newly formed Dayton Main Street, whose mission is to In my capacity as RPEN President I have lobbied and testified in committees on behalf of RPEN members.
 I believe in the USA, the Constitution as our guiding document, the Bill of Rights, and the State of Nevada.
 I love our history and traveling to new places in the state.
 Our Rural and Frontier areas have a wealth of history and unique opportunities, and I intend to fight for our rurals to get enough resources to support a thriving economy without losing our character.
+Help me run —–> Donate Or Scan QR to donate Theme by SiteOrigin Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

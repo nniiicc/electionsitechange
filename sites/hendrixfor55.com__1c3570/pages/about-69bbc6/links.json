@@ -1,10 +1,38 @@
 [
-"https://facebook.com/travisthendrix",
-"https://hendrixfor55.com/",
-"https://hendrixfor55.com/about",
-"https://hendrixfor55.com/privacy",
-"https://hendrixfor55.com/volunteer",
-"https://instagram.com/hendrixfor55",
-"https://linktr.ee/TRAVISHENDRIX",
-"https://secure.actblue.com/donate/committee-to-elect-travis-hendrix-1"
+{
+"text": "About",
+"href": "https://www.hendrixfor55.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-travis-hendrix-1"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:Hendrixfor55@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://www.hendrixfor55.com"
+},
+{
+"text": "Privacy",
+"href": "https://www.hendrixfor55.com/privacy"
+},
+{
+"text": "Stay Connected!",
+"href": "https://linktr.ee/TRAVISHENDRIX"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hendrixfor55.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/travisthendrix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hendrixfor55/"
+}
 ]

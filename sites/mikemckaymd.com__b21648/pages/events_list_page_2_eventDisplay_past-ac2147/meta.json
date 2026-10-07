@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://mikemckaymd.com/events/list/page/2/?eventDisplay=past",
- "paid_for_by": null,
- "title": "Past Events from June 5, 2022 \u2013 September 15, 2023 \u2013 Page 2 \u2013 State Senator Mike McKay for Maryland District 1",
- "years_mentioned": []
+ "fingerprint": "01f6277368edd80b9db75f83a4184244aa1e2a96",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
+ "title": "Past Events from June 5, 2022 – September 15, 2023 – Page 2 – State Senator Mike McKay for Maryland District 1",
+ "years_mentioned": [
+  "2022",
+  "2023"
+ ]
 }

@@ -1,4 +1,4 @@
-HB-98 passed out of the House Judiciary and Rules committee on Thursday with only one no vote.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE Raising the Marriage Age Feb 24, 2019 HB-98 passed out of the House Judiciary and Rules committee on Thursday with only one no vote.
 The legislation seeks to align marriage laws with existing statutory rape and child protection laws and establishes the floor of 16 years of age to marry in Idaho.
 The legislation now heads to the House floor for a vote.
 Unfortunately, our current law can shelter someone from being charged with rape or statutory rape by getting married.
@@ -9,16 +9,12 @@ The legislation was created in collaboration with the Idaho Coalition Against Se
 The proposed legislation requires that a teen who is 16 or 17 must first have a parent or guardian consent and court approval to marry, which will create a safer environment for Idaho children.
 From 2000-2015, 207,459 children got married in the United States, 4,752 of those children were in Idaho.
 Children in Idaho aged 16-17 years, which make of the majority of child marriages, are the least protected under our marriage law because the clerk only needs consent from one parent to grant a marriage license and doesn’t require court approval.
-This is especially troublesome when we consider the statistics on child marriages:
-- 70-80% of child marriages will end in divorce, which doubles their likelihood of poverty
-- Studies have shown when girls get married before 18 they have higher rates of mental health disorders (3x more than married adults) and run a 23% greater risk for diabetes, cancer, heart attacks and strokes
-- Girls who marry before 19 are 50% more likely to dropout of high school & 4 times less likely to graduate from college
-- Girls between 16-24 yrs old experience the highest rates of domestic violence
-- The Tahirih Justice Center conducted a study that showed girls who got married as a child (16-19) are 3 times more likely to be beaten by their spouses than married adults
-- In some cases teen girls that were pregnant were being coerced into marrying their rapists
-- After the Tahirih Justice Center conducted an age difference analysis they found it was likely “there were dozens of cases of pregnant 15 year old girls that were victims of statutory rape”
-- Here in Idaho, children can get married younger than the legal age set for consent to sex, and shield their spouses from prosecution for statutory rape if they are married.
+This is especially troublesome when we consider the statistics on child marriages: 70-80% of child marriages will end in divorce, which doubles their likelihood of poverty Studies have shown when girls get married before 18 they have higher rates of mental health disorders (3x more than married adults) and run a 23% greater risk for diabetes, cancer, heart attacks and strokes Girls who marry before 19 are 50% more likely to dropout of high school & 4 times less likely to graduate from college Girls between 16-24 yrs old experience the highest rates of domestic violence The Tahirih Justice Center conducted a study that showed girls who got married as a child (16-19) are 3 times more likely to be beaten by their spouses than married adults In some cases teen girls that were pregnant were being coerced into marrying their rapists After the Tahirih Justice Center conducted an age difference analysis they found it was likely “there were dozens of cases of pregnant 15 year old girls that were victims of statutory rape” Here in Idaho, children can get married younger than the legal age set for consent to sex, and shield their spouses from prosecution for statutory rape if they are married.
 While a child bride or groom is considered emancipated once married, it’s difficult to sort through some of the rights they may exercise in abusive situations in particular.
 In many states it may be difficult to seek a protective order from a judge, sign rental leases, or seek protection in domestic violence shelters until they turn 18.
 Even child protective services has limited authority to protect a married minor from an abusive spouse.
 This is why it is imperative that we raise the marriage age in Idaho to help safeguard these children.
+Recent Posts OPPRESSIVE BILLS HIT THE SENATE March 28, 2026 Fight or Flight?
+Let’s Fight for What’s Right!
+March 8, 2026 ANOTHER SHOCKING MURDER by ICE January 25, 2026 Preventable.
+Predictable: Idaho’s budget crisis impacts all of us November 23, 2025 Idaho’s Budget Chaos April 9, 2025 Blog Categories 2021 Legislative Session 2023 Legislative Session Budget / Government Spending Civil Discourse COVID 19 Health Care Human Rights Mandatory Minimum Sentencing Reform Marriage Age Reform News & Events Property Taxes Public Education Public Lands Sexual Assualt / Domestic Violence Uncategorized Voting Rights / Gerrymandering Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

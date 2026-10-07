@@ -1,21 +1,106 @@
 [
-"http://bit.ly/2JRPQQH",
-"https://act.myngp.com/Forms/-9143231656966026240",
-"https://bit.ly/1qxkgbT",
-"https://branduinc.com/",
-"https://click.ngpvan.com/k/52758447/373307499/-1986494633?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMTIvMS85MjUwNSIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICI1NThjMDdhZC0yNDRlLWVkMTEtODE5Yy0wMDIyNDgyNThlMDgiLA0KICAiRW1haWxBZGRyZXNzIjogImVyaWNicnlhbnQ0MTBAZ21haWwuY29tIg0KfQ%3D%3D&hmac=pwiI4vR04sph05cDOhCR3my3o0rg7eaYAUaNFil7WIM%3D&emci=6c338c8d-e348-ed11-b495-002248258d38&emdi=558c07ad-244e-ed11-819c-002248258e08&ceid=9352319",
-"https://click.ngpvan.com/k/52758448/373307500/1934965681?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMTIvMS85MjUwNSIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICI1NThjMDdhZC0yNDRlLWVkMTEtODE5Yy0wMDIyNDgyNThlMDgiLA0KICAiRW1haWxBZGRyZXNzIjogImVyaWNicnlhbnQ0MTBAZ21haWwuY29tIg0KfQ%3D%3D&hmac=pwiI4vR04sph05cDOhCR3my3o0rg7eaYAUaNFil7WIM%3D&emci=6c338c8d-e348-ed11-b495-002248258d38&emdi=558c07ad-244e-ed11-819c-002248258e08&ceid=9352319",
-"https://click.ngpvan.com/k/52758449/373307501/-512179650?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMTIvMS85MjUwNSIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICI1NThjMDdhZC0yNDRlLWVkMTEtODE5Yy0wMDIyNDgyNThlMDgiLA0KICAiRW1haWxBZGRyZXNzIjogImVyaWNicnlhbnQ0MTBAZ21haWwuY29tIg0KfQ%3D%3D&hmac=pwiI4vR04sph05cDOhCR3my3o0rg7eaYAUaNFil7WIM%3D&emci=6c338c8d-e348-ed11-b495-002248258d38&emdi=558c07ad-244e-ed11-819c-002248258e08&ceid=9352319",
-"https://facebook.com/MfumeForCongress",
-"https://instagram.com/MfumeForCongress",
-"https://mfumeforcongress.com/",
-"https://mfumeforcongress.com/about-me",
-"https://mfumeforcongress.com/subscribe",
-"https://mfumeforcongress.com/volunteer",
-"https://secure.actblue.com/donate/mfumeforcongress-em2021q2",
-"https://twitter.com/Mfume4Congress",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch",
-"https://x.com/Mfume4Congress"
+{
+"text": "@mfume4congress",
+"href": "https://twitter.com/Mfume4Congress"
+},
+{
+"text": "@mfumeforcongress",
+"href": "https://www.facebook.com/MfumeForCongress"
+},
+{
+"text": "@mfumeforcongress",
+"href": "https://www.instagram.com/MfumeForCongress"
+},
+{
+"text": "About Me",
+"href": "https://mfumeforcongress.com/about-me/"
+},
+{
+"text": "Brand U",
+"href": "https://branduinc.com"
+},
+{
+"text": "Click here to learn more about early voting",
+"href": "https://click.ngpvan.com/k/52758448/373307500/1934965681?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMTIvMS85MjUwNSIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICI1NThjMDdhZC0yNDRlLWVkMTEtODE5Yy0wMDIyNDgyNThlMDgiLA0KICAiRW1haWxBZGRyZXNzIjogImVyaWNicnlhbnQ0MTBAZ21haWwuY29tIg0KfQ%3D%3D&hmac=pwiI4vR04sph05cDOhCR3my3o0rg7eaYAUaNFil7WIM%3D&emci=6c338c8d-e348-ed11-b495-002248258d38&emdi=558c07ad-244e-ed11-819c-002248258e08&ceid=9352319"
+},
+{
+"text": "Click here to learn more about how and where to vote on Election Day.",
+"href": "https://click.ngpvan.com/k/52758449/373307501/-512179650?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMTIvMS85MjUwNSIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICI1NThjMDdhZC0yNDRlLWVkMTEtODE5Yy0wMDIyNDgyNThlMDgiLA0KICAiRW1haWxBZGRyZXNzIjogImVyaWNicnlhbnQ0MTBAZ21haWwuY29tIg0KfQ%3D%3D&hmac=pwiI4vR04sph05cDOhCR3my3o0rg7eaYAUaNFil7WIM%3D&emci=6c338c8d-e348-ed11-b495-002248258d38&emdi=558c07ad-244e-ed11-819c-002248258e08&ceid=9352319"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/mfumeforcongress-em2021q2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mfumeforcongress-em2021q2"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/MfumeForCongress"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/MfumeForCongress"
+},
+{
+"text": "Follow",
+"href": "https://x.com/Mfume4Congress"
+},
+{
+"text": "GO",
+"href": "http://bit.ly/2JRPQQH"
+},
+{
+"text": "GO",
+"href": "https://bit.ly/1qxkgbT"
+},
+{
+"text": "GO",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Home",
+"href": "https://mfumeforcongress.com/"
+},
+{
+"text": "PAID FOR BY KWEISI MFUME FOR CONGRESS",
+"href": "https://act.myngp.com/Forms/-9143231656966026240"
+},
+{
+"text": "SIGN UP NOW",
+"href": "https://mfumeforcongress.com/volunteer/"
+},
+{
+"text": "Sign Up Today",
+"href": "https://mfumeforcongress.com/volunteer/"
+},
+{
+"text": "Subscribe",
+"href": "https://mfumeforcongress.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://mfumeforcongress.com/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "[image: Mfume for Congress]",
+"href": "https://mfumeforcongress.com/"
+},
+{
+"text": "click here to learn more about requesting a mail-in ballot and voting by mail.",
+"href": "https://click.ngpvan.com/k/52758447/373307499/-1986494633?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMTIvMS85MjUwNSIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICI1NThjMDdhZC0yNDRlLWVkMTEtODE5Yy0wMDIyNDgyNThlMDgiLA0KICAiRW1haWxBZGRyZXNzIjogImVyaWNicnlhbnQ0MTBAZ21haWwuY29tIg0KfQ%3D%3D&hmac=pwiI4vR04sph05cDOhCR3my3o0rg7eaYAUaNFil7WIM%3D&emci=6c338c8d-e348-ed11-b495-002248258d38&emdi=558c07ad-244e-ed11-819c-002248258e08&ceid=9352319"
+},
+{
+"text": "https://voterservices.elections.maryland.gov/PollingPlaceSearch",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "mfumeforcongress@gmail.com",
+"href": "mailto:mfumeforcongress@gmail.com"
+}
 ]

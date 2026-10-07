@@ -1,26 +1,2 @@
-Conservative Coalition of Harris County
-保守派组织
-The "C" Club of Houston
-Young Republicans of Houston
-BIZPAC
-Texas Conservative Review
-Conservative Republicans of Texas
-True Texas Project
-Veterans for America First
-媒体支持
-Houston Chronicle
-Houston Latino Family Magazine
-当地基层领袖
-Richard Weekley
-Caroline Kane
-Former GOP Nominee, TX-07
-Erin Montgomery
-Fellow 2026 Primary Candidate, TX-07
-Dr.
-Steven Hotze
-Mark & Lisa Ammerman
-Steven Mach
-Mike Cordell
-Rolando Garcia
-Richard Thorp
-Miles Sasser
+HALE 德州 认识Alexander 优先事项 新闻 志愿者 支持者 社交媒体 商店 44 捐款 EN | ES | VI | 中文 认识Alexander 优先事项 新闻 志愿者 支持者 社交媒体 商店 44 捐款 EN | ES | VI | 中文 支持者 获得保守派和社区领袖的支持，准备为休斯顿的未来而战。 保守派组织 Conservative Coalition of Harris County The "C" Club of Houston Young Republicans of Houston BIZPAC Texas Conservative Review Conservative Republicans of Texas True Texas Project Veterans for America First 媒体支持 Houston Chronicle Houston Latino Family Magazine 当地基层领袖 Richard Weekley Caroline Kane Former GOP Nominee, TX-07 Erin Montgomery Fellow 2026 Primary Candidate, TX-07 Dr.
+Steven Hotze Mark & Lisa Ammerman Steven Mach Mike Cordell Rolando Garcia Richard Thorp Miles Sasser 想支持 Alexander？ 如果您是社区领袖、民选官员或与我们对 TX-07 的愿景一致的组织，我们很乐意收到您的来信。 联系我们 改为志愿服务 HALE 德州 Alexander Hale 是德克萨斯州第7国会区的共和党国会议员候选人，为休斯顿带来宪法保守的领导。 f 𝕏 ig TT 快速链接 认识Alexander 优先事项 新闻 捐款 参与 志愿者 举办活动 院子标志 支持者 联系 (713) 487-6231 info@halefortexas.com 媒体询问 联系表 由 Alexander Hale for Congress 支付 未经任何候选人或候选人委员会的授权。捐款不能用于联邦所得税扣除。 隐私政策 服务条款

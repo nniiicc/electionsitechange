@@ -1,9 +1,4 @@
-top of page
-August 17th, 2023 Legislative Update
-The League of Minnesota Cities and the Minnesota Chiefs of Police Association raised concerns this week over the DFL's changes to student...
-Dustin GrageAug 17, 20232 min read
-May 5th, 2023 Legislative Update
-This week is Small Business Week, a time to celebrate the great things our local small businesses do for our communities, including...
-Dustin GrageMay 5, 20231 min read
-Prepared and paid for by Jim Nash for Minnesota.
-bottom of page
+top of page DONATE All Posts Legislative Updates August 17th, 2023 Legislative Update The League of Minnesota Cities and the Minnesota Chiefs of Police Association raised concerns this week over the DFL's changes to student...
+Dustin Grage Aug 17, 2023 # min read May 5th, 2023 Legislative Update This week is Small Business Week, a time to celebrate the great things our local small businesses do for our communities, including...
+Dustin Grage May 5, 2023 1 min read Prepared and paid for by Jim Nash for Minnesota.
+HOME ABOUT ENDORSEMENTS ISSUES Events Request a Yard Sign bottom of page

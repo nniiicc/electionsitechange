@@ -1,11 +1,12 @@
-Libertarian Party
-U.S.
-House of Representatives • Kansas 4th Congressional District
-A data engineer, small business founder, husband, and father — running because the people of Kansas's 4th District deserve a representative who will actually say no.
-Principle Over Party.
+Drew Cranmer Why I'm Running Issues Blog Contact Donate Join the Fight Drew Cranmer for Congress — Kansas 4th District Libertarian Party U.S.
+House of Representatives • Kansas 4th Congressional District A data engineer, small business founder, husband, and father — running because the people of Kansas's 4th District deserve a representative who will actually say no.
+Join the Fight Donate Principle Over Party.
 Always.
-Why I'm Running
-I'm not a career politician, and I'm not here to play party games.
+Stay Informed Get updates from the campaign.
+No party machines.
+No spin.
+Real updates from a real Kansan — on the issues Washington doesn't want to talk about.
+Join the Mailing List join.drew4kansas.com — no spam, ever Why I'm Running I'm not a career politician, and I'm not here to play party games.
 I'm a data engineer, a small business founder, a husband, and a father — and I'm running because the people of Kansas's 4th District deserve a representative who will actually say no.
 No to unconstitutional wars launched without a congressional vote.
 No to government cameras cataloguing where you drive, when, and how often.
@@ -20,10 +21,9 @@ Both parties have had their turn.
 Both parties have failed.
 I'm running because someone has to be willing to say what most politicians won't: the problem isn't who's in charge.
 The problem is how much power we've allowed them to accumulate.
-The Issues
-01
-& War Powers
-Congress has not declared war since 1941.
+Principle Over Party.
+Always.
+The Issues 01 Foreign Policy & War Powers Congress has not declared war since 1941.
 Every military conflict since — Korea, Vietnam, Iraq, Afghanistan, and now Iran — has been waged under executive authority that the Constitution never granted.
 The Founders were explicit: the power to take the nation to war belongs to the people's representatives, not a single man in the White House.
 The same logic applies to foreign aid.
@@ -39,17 +39,13 @@ Bring the troops home.
 Stop nation-building.
 End unconditional foreign aid.
 Restore Article I.
-02
-& Surveillance
-Right now, automated license plate readers are tracking the movements of Kansans across Wichita and surrounding communities — with minimal oversight, opaque contracts, and data retention policies the public has never been allowed to scrutinize.
+02 Privacy & Surveillance Right now, automated license plate readers are tracking the movements of Kansans across Wichita and surrounding communities — with minimal oversight, opaque contracts, and data retention policies the public has never been allowed to scrutinize.
 This isn't hypothetical.
 I've investigated it firsthand.
 The Fourth Amendment was written to protect you from exactly this: warrantless, suspicionless government surveillance of your daily life.
 Mass surveillance doesn't make us safer — it makes us subjects.
 I will oppose federal funding and mandates that push surveillance infrastructure into local communities, and I will fight for meaningful legal guardrails on how government collects, retains, and shares your data.
-03
-& Fiscal Accountability
-The federal government spends roughly $2 trillion more than it collects every single year.
+03 Sound Money & Fiscal Accountability The federal government spends roughly $2 trillion more than it collects every single year.
 Congress has not passed a balanced budget in over two decades.
 Meanwhile, the Federal Reserve monetizes that debt by expanding the money supply — quietly transferring wealth from working Kansans to those closest to the money-creation machine.
 That's not monetary policy.
@@ -60,9 +56,7 @@ Washington doesn't have a revenue problem.
 It has a discipline problem.
 Kansas families balance their budgets.
 The federal government should too.
-04
-& Returning Power Where It Belongs
-Thomas Jefferson didn't just believe in states' rights — he believed the township, the ward, the community was the proper seat of political authority.
+04 Decentralization & Returning Power Where It Belongs Thomas Jefferson didn't just believe in states' rights — he believed the township, the ward, the community was the proper seat of political authority.
 Power should flow upward only when absolutely necessary, and only as far as necessary.
 Every layer of delegation is a layer of accountability lost.
 The Tenth Amendment reserves to the states and to the people all powers not explicitly granted to the federal government.
@@ -73,9 +67,7 @@ I will fight to return education, healthcare, land use, and law enforcement poli
 The people of Wichita and Kansas are fully capable of governing themselves.
 They don't need Washington's permission, Washington's mandates, or Washington's money with strings attached.
 The closer government is to the people, the harder it is to ignore them.
-05
-& The Sanctity of Human Life
-I am a devoted Catholic and I am unambiguously pro-life.
+05 Judicial Reform & The Sanctity of Human Life I am a devoted Catholic and I am unambiguously pro-life.
 I believe human life begins at conception and that every human person — from the moment of fertilization to natural death — carries inherent dignity that no government can grant and no government can take away.
 On abortion, the Supreme Court got it right in Dobbs v.
 Jackson Women's Health Organization.
@@ -101,6 +93,10 @@ The death penalty does not add safety.
 It adds finality, and with it the irreversible possibility of a grave and permanent wrong.
 I will advocate for the abolition of the federal death penalty.
 The principle does not change based on who occupies the White House or which party controls the Justice Department.
-Get Involved
+Support the Campaign Put your money where principle is.
+This campaign runs on small-dollar donations from real Kansans — not party money, not PAC money.
+Every dollar goes directly toward building a race that can't be bought.
+Donate Now donate.drew4kansas.com — secure & FEC-compliant Get Involved Ready to stand on principle?
 Whether you want to volunteer, ask a question, or just stay informed — reach out or follow along.
 This race is built on real Kansans showing up, not party machines.
+Join the Mailing List Contact the Campaign Follow the Campaign Facebook Instagram X / Twitter TikTok LinkedIn YouTube Drew Cranmer for Congress Libertarian Party • Kansas 4th Congressional District Paid for by Cranmer for Congress • Clinton Coen, Treasurer

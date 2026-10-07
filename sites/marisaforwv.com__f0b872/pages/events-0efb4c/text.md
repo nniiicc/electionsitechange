@@ -1,3 +1,3 @@
-Events Join Us Events Do you know of an event you'd like Marisa to attend?
+Home Meet Marisa Issues Events Endorsements News Voting Info Volunteer Donate Follow us Donate Follow us Menu Events Join Us Events Do you know of an event you'd like Marisa to attend?
 Are you interested in hosting a House Party with your friends, organization, or community?
-Email us at: marisa.jackson.wv@gmail.com Voter Outreach Campaign Volunteer Opportunities Ongoing See Event Info
+Email us at: marisa.jackson.wv@gmail.com Voter Outreach Campaign Volunteer Opportunities Ongoing See Event Info Contact Marisa marisa.jackson.wv@gmail.com Home Meet Marisa Issues Events Endorsements News Voting Info Volunteer Donate Follow us Accessibility Statement Terms of Service Contact Paid for by the campaign- Marisa for WV PO Box 102 St Albans, WV 25177 Marisa for WV © #

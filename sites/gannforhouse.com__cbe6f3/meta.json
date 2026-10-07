@@ -1,7 +1,13 @@
 {
  "description": "Official campaign website for State Representative Tom Gann. House District 8. No lobbyist money, no lobbyist gifts, and conservative results that put taxpayers first.",
  "final_url": "https://gannforhouse.com/",
- "paid_for_by": null,
+ "fingerprint": "23f0dcfe7db96b584ae3899280b7105bbfb52184",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tom Gann for Oklahoma House District 8 | Raising the Standard",
- "years_mentioned": []
+ "years_mentioned": [
+  "1979",
+  "2025",
+  "2026"
+ ]
 }

@@ -1,19 +1,10 @@
-Meet YBANEZ at Kalihi Union Church - Candidate Fair
-RSVP HERE:
-RSVP for Kalihi Union Church Meet the Candidates — Vote for YBANEZ - House District 30
-July 11th, 1:00 PM - 2:30 PM
-2214 N King St, Honolulu, HI 96819
-Meet & Greet Amanda YBANEZ for Kalihi along with other candidates participating!
-Lanakila Senior Center -- Meet the Candidates
-RSVP Here:
-Registration — Vote for YBANEZ - House District 30
-Meet the Candidates at Lanakila Senior Center — especially Amanda Domingo YBANEZ!
-Learn more about her platform and her plans for her tenure as a State House Representative for District 30:
-- Cost of Living — diversifying Hawaii’s economy by promoting self-sustainibility and local business models
-- Public safety
-- Emergency disaster response
-- Homelessness
-- Affordable Housing
-- Programs for the vulnerable
-The FREEDOM HOUR RADIO SHOW
-Please TUNE in to the Freedom Hour in KHVH News Radio 830 as Amanda Ybanez will be on the radio for “Kalihi Voices!”
+0 Skip to Content Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Folder: Media Back Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Jul 11 Meet YBANEZ at Kalihi Union Church - Candidate Fair Saturday, July 11, 2026 1:00 PM 2:30 PM Google Calendar ICS RSVP HERE: RSVP for Kalihi Union Church Meet the Candidates — Vote for YBANEZ - House District 30 July 11th, 1:00 PM - 2:30 PM 2214 N King St, Honolulu, HI 96819 Meet & Greet Amanda YBANEZ for Kalihi along with other candidates participating!
+View Event → Jul 8 Lanakila Senior Center -- Meet the Candidates Wednesday, July 8, 2026 8:00 AM 12:00 PM Google Calendar ICS RSVP Here: Registration — Vote for YBANEZ - House District 30 Meet the Candidates at Lanakila Senior Center — especially Amanda Domingo YBANEZ!
+Learn more about her platform and her plans for her tenure as a State House Representative for District 30: Cost of Living — diversifying Hawaii’s economy by promoting self-sustainibility and local business models Public safety Emergency disaster response Homelessness Affordable Housing Programs for the vulnerable View Event → Mar 7 YBANEZ on RADIO The FREEDOM HOUR RADIO SHOW Saturday, March 7, 2026 8:00 AM 9:00 AM Google Calendar ICS Please TUNE in to the Freedom Hour in KHVH News Radio 830 as Amanda Ybanez will be on the radio for “Kalihi Voices!” View Event → Are you registered to vote?
+Register at the Hawaii Office of Elections .
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Volunteer and stay in contact!
+Sign up with your email address to become a volunteer and stay in contact with upcoming events!
+Email Address Sign Up Thank you!
+Vote for YBANEZ House District 30 Email: VoteYBANEZDist30@gmail.com Facebook Instagram Youtube Paid for by Friends of Amanda Ybanez PO Box 17367, Honolulu, HI 96817 Made with Squarespace

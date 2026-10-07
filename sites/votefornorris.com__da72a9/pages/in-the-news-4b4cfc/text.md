@@ -1,23 +1,7 @@
-Matt in the News
-Get to Know Matt
-A look back on the journey Matt has taken from a volunteer in his hometown improving opportunities for youth to leading the fight against fraud at the State Capitol.
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Matt in the News Get to Know Matt A look back on the journey Matt has taken from a volunteer in his hometown improving opportunities for youth to leading the fight against fraud at the State Capitol.
 Learn more!
 Matt joins The Afternoon Shift at Fox 9 for a wide-ranging, casual conversation from how he got his start in public service to how laws are made at the Capitol.
 Check it out!
-Bringing More Civility to Politics
-Preventing Fraud in Minnesota
-Insight News: Bipartisan commission sets timeline for hiring state inspector general
-MPR: After a logjam, Minnesota House approves plan to create state government watchdog
-MN Reformer: Minnesota Legislature passes office of inspector general bill aimed at preventing fraud
-Session Daily: House passes bill to expand Medicaid fraud investigation unit
-KARE 11: Legislation to bolster Minnesota AG's Medicaid Fraud Control Unit moves forward at capitol
-Star Tribune: AG Ellison seeks more staff, tougher penalties to fight Medicaid fraud
-West Central Tribune: Minnesota lawmakers target the state’s fraud problem
-Lowering Property Taxes
-Standing up for Manufactured Housing Residents
-Blaine Life: Norris champions bill to protect mobile home owners
-WCCO TV: Manufactured home park residents fighting for bill of rights in Minnesota
-WCCO TV: Minnesota manufactured home residents say they’re increasingly being priced out
-Star Tribune: Minnesota mobile park residents organize in search of rent relief and “bill of rights”
-MN Reformer: DFL lawmakers introduce “bill of rights” for manufactured home park residents
-InForum: Minnesota lawmakers revisit manufactured home park reform
+Bringing More Civility to Politics TPT: Lawmakers sign a civility pledge NPR: Two months after shootings, Minnesota politicians pledge to cool the rhetoric Preventing Fraud in Minnesota Insight News: Bipartisan commission sets timeline for hiring state inspector general MPR: After a logjam, Minnesota House approves plan to create state government watchdog MN Reformer: Minnesota Legislature passes office of inspector general bill aimed at preventing fraud Session Daily: House passes bill to expand Medicaid fraud investigation unit KARE 11: Minnesota legislature close to finalizing new statewide Inspector General to fight fraud after compromise KARE 11: Legislation to bolster Minnesota AG's Medicaid Fraud Control Unit moves forward at capitol Star Tribune: AG Ellison seeks more staff, tougher penalties to fight Medicaid fraud West Central Tribune: Minnesota lawmakers target the state’s fraud problem Lowering Property Taxes KSTP: Lawmakers proposing 1-time homeowner payment plan to offset rising property taxes KSTP: Proposal for a property tax task force making its way through the Legislature WCCO Radio: Proposal on Property Taxes KSTP: Putting property taxes on the ballot, effort underway at Capitol Standing up for Manufactured Housing Residents Blaine Life: Norris champions bill to protect mobile home owners WCCO TV: Manufactured home park residents fighting for bill of rights in Minnesota WCCO TV: Minnesota manufactured home residents say they’re increasingly being priced out Star Tribune: Minnesota mobile park residents organize in search of rent relief and “bill of rights” MN Reformer: DFL lawmakers introduce “bill of rights” for manufactured home park residents InForum: Minnesota lawmakers revisit manufactured home park reform Ensuring Humane Treatment of Pets KVRR: MN House bill would ban selling of cats and dogs from pet stores WCCO Radio: Local city ordinances driving a state-level pet sale debate MN Reformer: Pet sores selling commercially raised puppies cause a world of hurt Advocating for Our District KSTP: Minnesota’s Super Rink seeks $23 million to overhaul aging ice-making, cooling system Matt is the champion we need at the State Capitol Join Us Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

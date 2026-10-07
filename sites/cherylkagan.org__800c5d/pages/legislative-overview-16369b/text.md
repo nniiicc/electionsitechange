@@ -1,6 +1,3 @@
-Legislative Session Overviews
-Below you can find an overview of prior legislative sessions, highlighting key legislation that Senator Kagan introduced and sponsored.
--
-Home
--
-Legislative Session Overviews
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute Legislative Session Overviews Below you can find an overview of prior legislative sessions, highlighting key legislation that Senator Kagan introduced and sponsored.
+Home Legislative Session Overviews 2025 Legislative Session Overview Read More 2024 Legislative Session Overview Read More 2023 Legislative Session Overview Read More 2022 Legislative Session Overview Read More 2021 Legislative Session Overview Read More Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

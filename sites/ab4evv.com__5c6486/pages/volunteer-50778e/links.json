@@ -1,13 +1,50 @@
 [
-"http://sociallifemarketing.com/",
-"https://ab4evv.com/",
-"https://ab4evv.com/about-alex",
-"https://ab4evv.com/issues",
-"https://ab4evv.com/volunteer",
-"https://facebook.com/ab4evv",
-"https://indianavoters.in.gov/",
-"https://instagram.com/aburton1021",
-"https://linkedin.com/in/alexander-burton-63550661",
-"https://secure.actblue.com/donate/alex-burton-for-indiana-1",
-"https://twitter.com/Councilman_AB"
+{
+"text": "About Alex",
+"href": "https://ab4evv.com/about-alex/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alex-burton-for-indiana-1#new_tab"
+},
+{
+"text": "Home",
+"href": "https://ab4evv.com/"
+},
+{
+"text": "Issues",
+"href": "https://ab4evv.com/issues/"
+},
+{
+"text": "Register to Vote",
+"href": "https://indianavoters.in.gov#new_tab"
+},
+{
+"text": "Social Life Marketing",
+"href": "http://www.sociallifemarketing.com"
+},
+{
+"text": "Volunteer",
+"href": "https://ab4evv.com/volunteer/"
+},
+{
+"text": "[image: Alex Burton for Indiana]",
+"href": "https://ab4evv.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/ab4evv"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/aburton1021/"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "https://www.linkedin.com/in/alexander-burton-63550661/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/Councilman_AB"
+}
 ]

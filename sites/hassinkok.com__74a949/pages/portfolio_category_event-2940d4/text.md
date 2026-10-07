@@ -1,10 +1,6 @@
-August 29, 2024, 5:00 - 8:00 PM
-Pancakes With Paul – Wednesdays from 7:00 – 8:00 am
-hassinkok2024-10-16T14:21:01-05:00
-August 7 - November 6, 2024
-Coffee and Conversation – Wednesdays from 7:00 – 9:00
-hassinkok2022-11-04T15:23:50-05:00
-Posted: October 13, 2022
-Come & Go Fundraising Reception – 9/21/22
-hassinkok2022-09-12T08:13:34-05:00
-Set Reminder on Computer or Phone
+Skip to content Save Oklahoma Students (SOS) “ThatIsNotOK” Issues Meet Paul Endorsements News Resources Contact DONATE DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact Event Come and Go Reception with Congressman Hern – Aug.
+29 2024 Come and Go Reception with Congressman Hern – Aug.
+29 2024 Event hassinkok 2024-10-16T14:07:28-05:00 August 29, 2024, 5:00 - 8:00 PM Pancakes With Paul – Wednesdays from 7:00 – 8:00 am Pancakes With Paul – Wednesdays from 7:00 – 8:00 am Event hassinkok 2024-10-16T14:21:01-05:00 August 7 - November 6, 2024 Coffee and Conversation – Wednesdays from 7:00 – 9:00 Coffee and Conversation – Wednesdays from 7:00 – 9:00 Event hassinkok 2022-11-04T15:23:50-05:00 Posted: October 13, 2022 Shadow Mountain HOA Meeting Shadow Mountain HOA Meeting Event , Speech thierry 2022-10-11T09:18:53-05:00 October 5, 2022 Come & Go Fundraising Reception – 9/21/22 Come & Go Fundraising Reception – 9/21/22 Event hassinkok 2022-09-12T08:13:34-05:00 Set Reminder on Computer or Phone Follow Us!
+Links Toggle Navigation Home Press Privacy Policy Contact Us Paul Hassink for Oklahoma Representative – District 79 Contact me via email 918-321-0807 5867 S.
+Joplin Ave.
+Tulsa, OK 74135 © Copyright # | Authorized and paid for by Hassink 2024 | All rights reserved Page load link Go to Top

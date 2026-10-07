@@ -1,15 +1,98 @@
 [
-"https://facebook.com/profile.php?id=61572128818159",
-"https://youtube.com/@ZacharyMartinPolitics",
-"https://zac4sd.com/",
-"https://zac4sd.com/about",
-"https://zac4sd.com/afford",
-"https://zac4sd.com/blog",
-"https://zac4sd.com/get-involved",
-"https://zac4sd.com/platform",
-"https://zac4sd.com/platform/family-court-reform",
-"https://zac4sd.com/press-kit",
-"https://zac4sd.com/privacy",
-"https://zac4sd.com/terms",
-"https://zacharymartin.substack.com/"
+{
+"text": "About",
+"href": "https://zac4sd.com/about"
+},
+{
+"text": "About Zac",
+"href": "https://zac4sd.com/about"
+},
+{
+"text": "Afford to Live Here",
+"href": "https://zac4sd.com/afford"
+},
+{
+"text": "Affordability",
+"href": "https://zac4sd.com/afford"
+},
+{
+"text": "Blog",
+"href": "https://zac4sd.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://zac4sd.com/get-involved#donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61572128818159"
+},
+{
+"text": "Family Court Reform",
+"href": "https://zac4sd.com/platform/family-court-reform"
+},
+{
+"text": "Full pillar →",
+"href": "https://zac4sd.com/platform#gender-sex-protecting-children"
+},
+{
+"text": "Get Involved",
+"href": "https://zac4sd.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://zac4sd.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://zac4sd.com/get-involved#host"
+},
+{
+"text": "Platform",
+"href": "https://zac4sd.com/platform"
+},
+{
+"text": "Press Kit",
+"href": "https://zac4sd.com/press-kit"
+},
+{
+"text": "Privacy",
+"href": "https://zac4sd.com/privacy"
+},
+{
+"text": "Subscribe on Substack →",
+"href": "https://zacharymartin.substack.com"
+},
+{
+"text": "Substack",
+"href": "https://zacharymartin.substack.com"
+},
+{
+"text": "Terms",
+"href": "https://zac4sd.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://zac4sd.com/get-involved#volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://zac4sd.com/get-involved#signs"
+},
+{
+"text": "Yard Signs",
+"href": "https://zac4sd.com/get-involved#signs"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ZacharyMartinPolitics"
+},
+{
+"text": "Zac.MartinSD House 32",
+"href": "https://zac4sd.com/"
+},
+{
+"text": "← All posts",
+"href": "https://zac4sd.com/blog"
+}
 ]

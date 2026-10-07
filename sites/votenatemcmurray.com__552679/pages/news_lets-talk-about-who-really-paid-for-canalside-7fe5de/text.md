@@ -1,8 +1,7 @@
-Let’s Talk About Who Really Paid for Canalside
-Uh, I’m about to say something that might make people mad…
-They should put a plaque up at Canalside that says:
-“Paid for by Niagara Falls.”
-That’s not shade.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Let’s Talk About Who Really Paid for Canalside Feb 2 Written By Nathan McMurray Uh, I’m about to say something that might make people mad… They should put a plaque up at Canalside that says: “Paid for by Niagara Falls.” That’s not shade.
 That’s just how the math works.
 Niagara Falls generates the power.
 Albany controls the money.
@@ -17,8 +16,9 @@ Doesn’t that strike you as strange?
 It should.
 We have one of the greatest natural wonders in the world in our backyard, and the money keeps going somewhere else.
 Even Artpark — which is beautiful and beloved — hasn’t seen a major investment in years.
-Meanwhile, just across the river, Ontario has built a state-of-the-art new music venue, making it even harder for our region to compete.
+Meanwhile, just across the river, Ontario has built a state-of-the-art new music venue , making it even harder for our region to compete.
 If talking about this makes people uncomfortable, good.
 It should.
 Because pretending this imbalance doesn’t exist is exactly how it keeps happening.
 It’s time to start telling the truth — and start sending people who will actually bring the money back home.
+Nathan McMurray Previous Previous MEMORANDUM: HELP ME WIN — LET’S HAVE SOME FUN, ONE SATURDAY AT A TIME Next Next Niagara County Needs a Voice in the Room Volunteer and Sign Up for Updates!

@@ -1,7 +1,9 @@
 {
  "description": "Event Media Upload on Governor Gotra. Governor Gotra helps you organize, track, and share your work in 1 unified.",
  "final_url": "https://governorgotra.com/eventmedia",
- "paid_for_by": null,
+ "fingerprint": "1fb9ed50562d56e3cb4b8b3d545d6a12e4076c00",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Event Media Upload | Governor Gotra",
  "years_mentioned": []
 }

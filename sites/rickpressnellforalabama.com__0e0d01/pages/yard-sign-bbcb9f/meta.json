@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.rickpressnellforalabama.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "13341f5dcf76eacfbe501b0d0e7e6a667e5aabe4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -1,32 +1,218 @@
 [
-"https://ballotpedia.org/Jeff_Newlin",
-"https://ballotpedia.org/Kim_Jackson",
-"https://buzzsprout.com/1600111/episodes/12536769-episode-40.mp3",
-"https://buzzsprout.com/1600111/episodes/14402869-episode-44.mp3",
-"https://campaignmanager.newlinforgeorgia.com/privacy",
-"https://campaignmanager.newlinforgeorgia.com/recordings/127",
-"https://decaturish.com/voter_guide/public-safety-priorities-in-district-41-senate-election-qa/article_472d50e3-bedd-4ebe-9eeb-28f5805510c7.html",
-"https://facebook.com/profile.php?id=61562474787142",
-"https://geears.org/candidate-questionnaire",
-"https://geears.org/candidate/kim-jackson",
-"https://instagram.com/newlin4georgia",
-"https://legis.ga.gov/",
-"https://legis.ga.gov/legislation/59516",
-"https://legis.ga.gov/legislation/63524",
-"https://legis.ga.gov/legislation/65854",
-"https://legis.ga.gov/legislation/73343",
-"https://legis.ga.gov/legislation/73654",
-"https://newlinforgeorgia.com/",
-"https://newlinforgeorgia.com/cdn-cgi/l/email-protection",
-"https://newlinforgeorgia.com/compare",
-"https://newlinforgeorgia.com/district-map",
-"https://newlinforgeorgia.com/home",
-"https://newlinforgeorgia.com/join",
-"https://newlinforgeorgia.com/meet-jeff",
-"https://newlinforgeorgia.com/priorities",
-"https://newlinforgeorgia.com/priorities/learn-more-reform",
-"https://newlinforgeorgia.com/quiz",
-"https://secure.anedot.com/newlin-for-georgia/donate",
-"https://survey.hsforms.com/2jp3QRCgiSmmC39U1V4VLdAbm8o7",
-"https://x.com/newlin4georgia"
+{
+"text": "2020",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-southeast-advocates/blog/planned-parenthood-southeast-advocates-announces-endorsements-in-the-june-2020-georgia-primary-election"
+},
+{
+"text": "2022",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-southeast-advocates/blog/planned-parenthood-southeast-advocates-announces-endorsements-for-the-november-2022-georgia-midterm-election"
+},
+{
+"text": "2026",
+"href": "https://www.plannedparenthoodaction.org/pressroom/planned-parenthood-action-fund-endorses-keisha-lance-bottoms-in-georgia-gubernatorial-race"
+},
+{
+"text": "Compare",
+"href": "https://newlinforgeorgia.com/compare"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "District 41",
+"href": "https://newlinforgeorgia.com/district-map"
+},
+{
+"text": "Donate $10",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "Georgia's WIN List",
+"href": "https://gawinlist.com/2026-endorsed-candidates/"
+},
+{
+"text": "HB 1138 (2026)",
+"href": "https://www.legis.ga.gov/legislation/72697"
+},
+{
+"text": "HB 30 (2024)",
+"href": "https://www.legis.ga.gov/legislation/63524"
+},
+{
+"text": "HB 383 (2021)",
+"href": "https://www.legis.ga.gov/legislation/59516"
+},
+{
+"text": "Join The Team",
+"href": "https://newlinforgeorgia.com/join"
+},
+{
+"text": "Learn more about Jeff",
+"href": "https://newlinforgeorgia.com/#Jeff"
+},
+{
+"text": "Meet Jeff",
+"href": "https://newlinforgeorgia.com/meet-jeff"
+},
+{
+"text": "Mental Health Now candidate map",
+"href": "https://mentalhealthnow.us/candidatemap/"
+},
+{
+"text": "NARAL Pro-Choice Georgia",
+"href": "https://reproductivefreedomforall.org/news/naral-georgia-endorses-repro-champions/"
+},
+{
+"text": "NEWLIN for STATE SENATE",
+"href": "https://newlinforgeorgia.com/home"
+},
+{
+"text": "Priorities",
+"href": "https://newlinforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://campaignmanager.newlinforgeorgia.com/privacy"
+},
+{
+"text": "Read his signed responses",
+"href": "https://irp.cdn-website.com/d51b2a5e/files/uploaded/Newlin-2026-GLA-signed.pdf"
+},
+{
+"text": "Reproductive Freedom for All",
+"href": "https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-georgia-candidates-in-key-races/"
+},
+{
+"text": "SB 116 (2021)",
+"href": "https://www.legis.ga.gov/legislation/59458"
+},
+{
+"text": "SB 15 (2023)",
+"href": "https://www.legis.ga.gov/legislation/63620"
+},
+{
+"text": "SB 196 (2025)",
+"href": "https://www.legis.ga.gov/legislation/70444"
+},
+{
+"text": "SB 246 (2025)",
+"href": "https://www.legis.ga.gov/legislation/70721"
+},
+{
+"text": "SB 456 (2021)",
+"href": "https://www.legis.ga.gov/legislation/61731"
+},
+{
+"text": "SB 523 (2026)",
+"href": "https://www.legis.ga.gov/legislation/73343"
+},
+{
+"text": "SB 564 (2024)",
+"href": "https://www.legis.ga.gov/legislation/67524"
+},
+{
+"text": "SB 565 (2024)",
+"href": "https://www.legis.ga.gov/legislation/67525"
+},
+{
+"text": "SB 591 (2026)",
+"href": "https://www.legis.ga.gov/legislation/73654"
+},
+{
+"text": "SR 136 (2023)",
+"href": "https://www.legis.ga.gov/legislation/64336"
+},
+{
+"text": "SR 4EX (2023)",
+"href": "https://www.legis.ga.gov/legislation/65854"
+},
+{
+"text": "SR 84 (2025)",
+"href": "https://www.legis.ga.gov/legislation/69753"
+},
+{
+"text": "Source",
+"href": "https://ballotpedia.org/Jeff_Newlin"
+},
+{
+"text": "Source",
+"href": "https://ballotpedia.org/Kim_Jackson"
+},
+{
+"text": "Source",
+"href": "https://campaignmanager.newlinforgeorgia.com/recordings/127"
+},
+{
+"text": "Source",
+"href": "https://geears.org/candidate-questionnaire/"
+},
+{
+"text": "Source",
+"href": "https://geears.org/candidate/kim-jackson/"
+},
+{
+"text": "Source",
+"href": "https://newlinforgeorgia.com/priorities/learn-more-reform/"
+},
+{
+"text": "Source",
+"href": "https://survey.hsforms.com/2jp3QRCgiSmmC39U1V4VLdAbm8o7"
+},
+{
+"text": "Source",
+"href": "https://www.decaturish.com/voter_guide/public-safety-priorities-in-district-41-senate-election-qa/article_472d50e3-bedd-4ebe-9eeb-28f5805510c7.html"
+},
+{
+"text": "Take the quiz to see where you stand",
+"href": "https://newlinforgeorgia.com/quiz"
+},
+{
+"text": "[email protected]",
+"href": "mailto:kim.jackson@senate.ga.gov"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61562474787142"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/newlin4georgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/newlin4georgia"
+},
+{
+"text": "candidate statement of support",
+"href": "https://mentalhealthnow.us/statement-of-support/"
+},
+{
+"text": "every certified candidate and legislator",
+"href": "https://www.georgialifealliance.com/2026-gla-committee-pro-life-certification-questionnaire-responses"
+},
+{
+"text": "geears.org",
+"href": "https://geears.org/candidate-questionnaire/"
+},
+{
+"text": "her podcast, Jan. 30, 2024, at 16:51",
+"href": "https://www.buzzsprout.com/1600111/episodes/14402869-episode-44.mp3"
+},
+{
+"text": "her podcast, Jan. 30, 2024, at 5:25",
+"href": "https://www.buzzsprout.com/1600111/episodes/14402869-episode-44.mp3"
+},
+{
+"text": "her podcast, March 28, 2023, at 21:14",
+"href": "https://www.buzzsprout.com/1600111/episodes/12536769-episode-40.mp3"
+},
+{
+"text": "legis.ga.gov",
+"href": "https://www.legis.ga.gov"
+},
+{
+"text": "selecting Georgia",
+"href": "https://mentalhealthnow.us/candidatemap/"
+}
 ]

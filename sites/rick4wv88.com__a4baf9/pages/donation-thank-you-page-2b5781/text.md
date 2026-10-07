@@ -1,3 +1,2 @@
-We are so grateful for your generous donation of $0.
-Your donation number is #1000.
-You’ll receive a confirmation email soon.
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos Thank you, Donor Name We are so grateful for your generous donation of $# Your donation number is #1000.
+You’ll receive a confirmation email soon. · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

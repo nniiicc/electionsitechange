@@ -1,7 +1,12 @@
 {
  "description": "Official news about Brandy Fluker Oakley - State Representative Candidate for the 12th Suffolk in Massachusetts",
  "final_url": "https://www.electbrandy.com/news",
- "paid_for_by": "Paid for by the Committee to Elect Brandy Fluker Oakley &copy; 2025 &nbsp; 42 Gladeside Ave",
+ "fingerprint": "3980d38e3a91977f7f21bd2f8213c29d6971c9bc",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Brandy Fluker Oakley © # 42 Gladeside Ave",
  "title": "News | 12th Suffolk | Brandy Fluker Oakley | Massachusetts",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2025"
+ ]
 }

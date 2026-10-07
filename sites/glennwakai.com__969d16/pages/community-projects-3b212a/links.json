@@ -1,16 +1,78 @@
 [
-"http://glennwakai.com/",
-"http://glennwakai.com/privacy-policy",
-"https://facebook.com/Glennator",
-"https://glennwakai.com/",
-"https://glennwakai.com/about",
-"https://glennwakai.com/aloha-aina-clean-up-day",
-"https://glennwakai.com/community-projects",
-"https://glennwakai.com/contact",
-"https://glennwakai.com/project-citizen-at-moanalua-high-school",
-"https://glennwakai.com/stream-cleaning-in-salt-lake",
-"https://glennwakai.com/supporting-moanalua-middle-schools-bridge-class",
-"https://glennwakai.com/teaching-moanalua-high-school-media-students",
-"https://instagram.com/glenn_wakai?hl=en",
-"https://twitter.com/glennwakai"
+{
+"text": "About",
+"href": "https://glennwakai.com/about"
+},
+{
+"text": "Aloha Aina Clean Up Day",
+"href": "https://glennwakai.com/aloha-aina-clean-up-day"
+},
+{
+"text": "Community Projects",
+"href": "https://glennwakai.com/community-projects"
+},
+{
+"text": "Contact",
+"href": "https://glennwakai.com/contact"
+},
+{
+"text": "Home",
+"href": "http://glennwakai.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://glennwakai.com/privacy-policy/"
+},
+{
+"text": "Project Citizen at Moanalua High School",
+"href": "https://glennwakai.com/project-citizen-at-moanalua-high-school"
+},
+{
+"text": "Stream Cleaning in Salt Lake",
+"href": "https://glennwakai.com/stream-cleaning-in-salt-lake"
+},
+{
+"text": "Supporting Moanalua Middle School’s Bridge Class",
+"href": "https://glennwakai.com/supporting-moanalua-middle-schools-bridge-class"
+},
+{
+"text": "Teaching Moanalua High School Media Students",
+"href": "https://glennwakai.com/teaching-moanalua-high-school-media-students"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/aloha-aina-clean-up-day"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/project-citizen-at-moanalua-high-school"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/stream-cleaning-in-salt-lake"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/supporting-moanalua-middle-schools-bridge-class"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/teaching-moanalua-high-school-media-students"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/glennwakai"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Glennator/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/glenn_wakai/?hl=en"
+}
 ]

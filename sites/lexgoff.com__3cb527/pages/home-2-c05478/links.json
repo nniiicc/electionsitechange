@@ -1,9 +1,38 @@
 [
-"https://lexgoff.com/",
-"https://lexgoff.com/blank",
-"https://lexgoff.com/blank-1",
-"https://lexgoff.com/blank-12",
-"https://lexgoff.com/donate-page",
-"https://lexgoff.com/home-2",
-"https://lexgoff.com/team-members"
+{
+"text": "About Lex",
+"href": "https://www.lexgoff.com/team-members"
+},
+{
+"text": "Contact Us",
+"href": "mailto:lexgoff@protonmail.com?subject=From+the+Constituents"
+},
+{
+"text": "Donate",
+"href": "https://www.lexgoff.com/donate-page"
+},
+{
+"text": "Home",
+"href": "https://www.lexgoff.com"
+},
+{
+"text": "News",
+"href": "https://www.lexgoff.com/blank-12"
+},
+{
+"text": "Platform",
+"href": "https://www.lexgoff.com/home-2"
+},
+{
+"text": "Social Media",
+"href": "https://www.lexgoff.com#section%208"
+},
+{
+"text": "Voter Education",
+"href": "https://www.lexgoff.com/blank-1"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.lexgoff.com/blank"
+}
 ]

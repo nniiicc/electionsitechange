@@ -1,23 +1,102 @@
 [
-"http://linktr.ee/teamcroisant",
-"https://croisantforcongress.com/",
-"https://croisantforcongress.com/event-details/tacos-y-votos-east-tulsa",
-"https://croisantforcongress.com/event-details/west-tulsa-meet-greet",
-"https://croisantforcongress.com/events",
-"https://croisantforcongress.com/issues",
-"https://croisantforcongress.com/sign-up",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fsouth-tulsa-meet-greet-1%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Ftacos-y-votos-east-tulsa%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fwest-tulsa-meet-greet%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://fec.gov/data/candidate/H6OK01201",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fsouth-tulsa-meet-greet-1%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Ftacos-y-votos-east-tulsa%3Flang%3Den",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fwest-tulsa-meet-greet%3Flang%3Den",
-"https://mobilize.us/okdemocrats/event/1053030",
-"https://okvoterportal.okelections.gov/",
-"https://secure.actblue.com/donate/jcmerch",
-"https://secure.actblue.com/donate/john-croisant-1",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fsouth-tulsa-meet-greet-1%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Ftacos-y-votos-east-tulsa%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fwest-tulsa-meet-greet%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "ABOUT",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "CHECK YOUR VOTER REGISTRATION",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/john-croisant-1"
+},
+{
+"text": "Donate now to elect John Croisant for Oklahoma's First Congressional District!",
+"href": "https://secure.actblue.com/donate/john-croisant-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.croisantforcongress.com/events"
+},
+{
+"text": "FEC Finance",
+"href": "https://www.fec.gov/data/candidate/H6OK01201/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.croisantforcongress.com/sign-up"
+},
+{
+"text": "GET INVOLVED & VOTE FOR A BRIGHTER FUTURE",
+"href": "https://www.croisantforcongress.com/sign-up"
+},
+{
+"text": "HOME",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.croisantforcongress.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.croisantforcongress.com/event-details/west-tulsa-meet-greet"
+},
+{
+"text": "Privacy",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/okdemocrats/event/1053030/"
+},
+{
+"text": "STORE",
+"href": "https://secure.actblue.com/donate/jcmerch"
+},
+{
+"text": "SUPPORT JOHN!",
+"href": "https://secure.actblue.com/donate/jcmerch"
+},
+{
+"text": "Social Media",
+"href": "http://linktr.ee/teamcroisant"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.croisantforcongress.com"
+},
+{
+"text": "Yard Signs!",
+"href": "https://www.croisantforcongress.com/sign-up"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fsouth-tulsa-meet-greet-1%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fwest-tulsa-meet-greet%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fsouth-tulsa-meet-greet-1%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fwest-tulsa-meet-greet%3Flang%3Den&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fsouth-tulsa-meet-greet-1%3Flang%3Den"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.croisantforcongress.com%2Fevent-details%2Fwest-tulsa-meet-greet%3Flang%3Den"
+},
+{
+"text": "john@croisantforcongress.com",
+"href": "mailto:john@croisantforcongress.com?subject=Team+Croisant+-+Website"
+}
 ]

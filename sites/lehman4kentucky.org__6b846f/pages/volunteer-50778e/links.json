@@ -1,9 +1,38 @@
 [
-"https://facebook.com/lehman4kentucky",
-"https://instagram.com/lehmanforkentucky",
-"https://lehman4kentucky.org/",
-"https://lehman4kentucky.org/endorsements",
-"https://lehman4kentucky.org/matt-on-the-issues",
-"https://lehman4kentucky.org/volunteer",
-"https://twitter.com/lehman4kentucky"
+{
+"text": "Endorsements",
+"href": "https://www.lehman4kentucky.org/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/lehman4kentucky"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/lehman4kentucky"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/lehmanforkentucky/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/lehman4kentucky"
+},
+{
+"text": "Matt On The Issues",
+"href": "https://www.lehman4kentucky.org/matt-on-the-issues/"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.lehman4kentucky.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lehman4kentucky.org/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.lehman4kentucky.org/"
+}
 ]

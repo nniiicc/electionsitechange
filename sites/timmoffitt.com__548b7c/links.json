@@ -1,13 +1,70 @@
 [
-"https://facebook.com/TimMoffittNC",
-"https://secure.anedot.com/committee-to-elect-tim-moffitt/donate",
-"https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=100",
-"https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=25",
-"https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=250",
-"https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=5",
-"https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=50",
-"https://timmoffitt.com/",
-"https://timmoffitt.com/about",
-"https://timmoffitt.com/issues-",
-"https://twitter.com/TimMoffitt"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.timmoffitt.com/about"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate"
+},
+{
+"text": "Home",
+"href": "https://www.timmoffitt.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.timmoffitt.com/issues-"
+},
+{
+"text": "Learn More →",
+"href": "https://www.timmoffitt.com/about"
+},
+{
+"text": "Learn More →",
+"href": "https://www.timmoffitt.com/issues-#IssueOne"
+},
+{
+"text": "Learn More →",
+"href": "https://www.timmoffitt.com/issues-#IssueTwo"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/committee-to-elect-tim-moffitt/donate"
+},
+{
+"text": "Volunteer",
+"href": "https://www.timmoffitt.com/#Volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TimMoffittNC/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TimMoffitt"
+},
+{
+"text": "[no text]",
+"href": "mailto:tim.moffitt@emoffitt.com"
+}
 ]

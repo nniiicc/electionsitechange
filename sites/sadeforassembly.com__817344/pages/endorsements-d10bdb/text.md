@@ -1,236 +1,32 @@
-I’m proud to endorse Sade Elhawary to represent us in the State Assembly.
+About Sade Priorities Media In the News Media Gallery About AD 57 Endorsements Volunteer Donate En español About Sade Priorities Media In the News Media Gallery About AD 57 Endorsements Volunteer Donate En español Endorsements The Los Angeles Times has endorsed Sade!
+Learn More I’m proud to endorse Sade Elhawary to represent us in the State Assembly.
 Sade is a young, homegrown leader who we can trust to always fight to advance social and economic justice for all Angelenos.
 She has a track record of organizing residents to make positive change in their community that I’ve seen firsthand.
 She is the one we need representing the 57th Assembly District, and I look forward to being strong partners in getting folks housed, healthy, and safe.
-I proudly endorse Sade Elhawary to represent California’s 57th Assembly District.
+Karen Bass Los Angeles City Mayor I proudly endorse Sade Elhawary to represent California’s 57th Assembly District.
 As an organizer at the forefront of the next generation of leadership, her work is focused on improving outcomes for our youth through education and eliminating inequities in our communities.
 Sade is committed to putting her innovative, resourceful ideas to work for the greater good of every resident of the state.
-Sade Elhawary has emerged as a powerful voice of the new generation of young progressive leaders.
+Holly J.
+Mitchell Los Angeles County Supervisor Sade Elhawary has emerged as a powerful voice of the new generation of young progressive leaders.
 She’s laser-focused on uplifting working families, uniting communities, and achieving lasting Black and Brown solidarity.
 As an organizer on the ground in the community, working with our youth, Sade has proven herself highly qualified and ready to do the heavy lifting that sparks transformative change.
 I’m proud to endorse her for the California State Assembly.
-Like Sade, I know that real change comes from uplifting the people who are most impacted by policy failures.
+Hilda Solis Los Angeles County Supervisor Like Sade, I know that real change comes from uplifting the people who are most impacted by policy failures.
 Sade Elhawary will bring her lived experience as an educator, college counselor, foster parent, and daughter of immigrants to the State Assembly.
 And I look forward to working side-by-side with her as part of the next generation of South L.A. public servants.
-U.S.
-Senator Laphonza Butler
-Congresswoman Judy Chu
-Congresswoman Sydney Kamlager-Dove
-Attorney General Rob Bonta
-Controller Malia Cohen
-Insurance Commissioner Ricardo Lara
-Treasurer Fiona Ma
-Superintendent Tony Thurmond
-CA Democratic Legislative Women’s Caucus
-California Legislative Black Caucus
-California Legislative LGBTQ Caucus
-California Legislative Progressive Caucus
-Senator Steven Bradford
-Senator Lena Gonzalez
-Senator Nancy Skinner
-Senator Lola Smallwood-Cuevas
-Senator Susan Talamantes Eggman
-Senator Scott Wiener
-Senator Isadore Hall (fmr)
-Senator Kevin Murray (fmr)
-Assemblymember Joaquin Arambula
-Assemblymember Rebecca Bauer-Kahan
-Assemblymember Steve Bennett
-Assemblymember Marc Berman
-Assemblymember Tasha Boerner
-Assemblymember Mia Bonta
-Assemblymember Isaac Bryan
-Assemblymember Sabrina Cervantes
-Assemblymember Damon Connolly
-Assemblymember Mike Fong
-Assemblymember Laura Friedman
-Assemblymember Matt Haney
-Assemblymember Gregg Hart
-Assemblymember Chris Holden
-Assemblymember Corey Jackson
-Assemblymember Reggie Jones-Sawyer
-Assemblymember Ash Kalra
-Assemblymember Alex Lee
-Assemblymember Josh Lowenthal
-Assemblymember Tina McKinnor
-Assemblymember Liz Ortega
-Assemblymember Gail Pellerin
-Assembly Speaker John Pérez (fmr)
-Assemblymember Sharon Quirk-Silva
-Assemblymember Eloise Reyes
-Assemblymember Luz Rivas
-Assemblymember Pilar Schiavo
-Assemblymember Phil Ting
-Assemblymember Avelino Valencia
-Assemblymember Chris Ward
-Assemblymember Akilah Weber
-Assemblymember Lori Wilson
-Assemblymember Rick Chavez Zbur
-Supervisor Lindsey Horvath
-Supervisor Holly J.
-Mitchell
-Supervisor Hilda Solis
-Mayor Karen Bass
-L.A.
-City Council President Marqueece Harris-Dawson
-Los Angeles City Councilmember Eunisses Hernandez
-Los Angeles City Councilmember Hugo Soto-Martinez
-Los Angeles City Councilmember Katy Yaroslavsky
-Los Angeles City Councilmember Mike Bonin (fmr)
-Los Angeles City Council President Herb Wesson (fmr)
-Los Angeles Unified School Board Member Rocio Rivas
-LACCD Board President Nichelle Henderson
-LACCD Board Trustee Sara Hernandez
-LACCD Board Trustee Kelsey Iino
-Carson Mayor Pro Tem Jawane Hilton
-Compton Mayor Emma Sharif
-Compton Unified School Board Trustee Denzell Jordan-Perry
-Culver City Mayor Yasmine-Imani McMorrin
-Culver City Unified School Board Member Triston Ezidore
-Glendale School Board Member Ingrid Gunnell
-Inglewood City Councilmember Dionne Faulk
-Inglewood Unified School Board Trustee Ernesto Castillo
-Long Beach Mayor Rex Richardson
-Long Beach City Councilmember Al Austin
-Pasadena School Board Member Patrice Marshall Mckenzie
-Riverside County Board of Ed Trustee Jamie Azpeitia-Sachs
-Stockton Mayor Michael Tubbs
-Greg Akili
-Danny Bakewell, Jr., Los Angeles Sentinel*
-Charisse Bremond-Weaver, Brotherhood Crusade*
-Maria Brenes, InnerCity Struggle*
-Sylvia Castillo, Community Coalition*
-Dr.
-Charity Chandler-Cole, CASA/LA*
-Mike de la Rocha, Revolve Impact*
-Ingrid Estrada-Darley, Black Girl, Brown Girl Books*
-Jeimee Estrada, E4E*
-Juliana Garcia
-Dolores Huerta, Cofounder United Farm Workers
-Harini Krishnan, South Asians for America*
-Dr.
-Manuel Pastor, USC*
-Henry Perez, InnerCity Struggle*
-Alberto Retana, Community Coalition*
-Rene Romero
-Adrianne Shropshire, BlackPAC*
-Cathy Unger, Planned Parenthood Los Angeles*
-Dulce Vasquez
-Luis Vasquez, Rainbow Labs*
-*Organizations for identification only
-AFSCME California PEOPLE
-AFSCME District Council 36
-AFSCME District Council 57
-AFSCME Local 2620
-AFSCME Local 2712
-AFSCME Local 3090
-AFSCME Local 3299
-AFSCME Local 3634
-AFSCME Local 3930/UDW
-AFT Local 1521
-Association of California State Supervisors
-CAL FIRE Local 2881
-California Assoc. of Psychiatric Technicians
-California Assoc. of Professional Scientists
-California Faculty Association
-California Federation of Teachers
-California Labor Federation
-California Nurses Association
-California Professional Firefighters
-California School Employees Association
-California Teachers Association
-Faculty Assoc. of CA Community Colleges
-IBEW Local 11
-IBEW Local 40
-Int.
-Union of Painters & Allied Trades DC 36
-Ironworkers Local 416
-L.A.
-County Public Defenders Local 148
-Los Angeles County Federation of Labor
-National Union of Healthcare Workers
-Professional Engineers in CA Government
-Roofers Local 36
-SEIU California
-SMART Sheet Metal Workers Local 105
-Teamsters Joint Council 42
-UFCW
-UNITE HERE!
-United Auto Workers Western States
-United Farm Workers
-United Firefighters of Los Angeles City
-United Nurses Associations of California
-United Teachers Los Angeles
-UPTE-CWA 9119
-Western States Reg.
-Council of Carpenters
-Abundant Housing
-ACCE Action
-American College of Obstetricians
-Asian Democrats of Los Angeles County
-Black Los Angeles Young Democrats
-Black Women for Wellness Action Project
-Black Women’s Democratic Club
-Black Women Organized for Political Action
-Bruin Democrats
-California Applicants’ Attorneys Association
-California Bicycle Coalition
-California Democratic Renters Council
-CA Environmental Justice Alliance Action
-California Environmental Voters
-California High School Democrats
-California Medical Association
-California Optometric Association
-California State Retirees
-California Women’s List
-California YIMBY
-California Young Democrats
-Center for Biological Diversity Action Fund
-Citizens for Accountable Leadership
-Climate Action California
-Collective PAC
-Consumer Attorneys of California
-Consumer Federation of California
-Courage California
-CPCA Advocates
-Culver City Democratic Club
-Dolores Huerta Action Fund
-Equality California
-Evolve California
-Fund Her
-Health Care for All – California
-Heart of LA Democratic Club
-HONOR PAC
-Initiate Justice Action
-Jane Fonda Climate PAC
-LAAAWPAC
-La Defensa
-Latinas Lead California
-Latino Coalition of Los Angeles
-Lead Locally
-LGBTQ+ Victory Fund
-Los Angeles County Young Democrats
-Los Angeles Sentinel
-LPAC
-Matador Democrats
-Moms Demand Action
-New Frontier Democratic Club
-Our Revolution
-Planned Parenthood Advocacy Project
-PowerCA Action
-Progressive Era PAC
-Project Super Bloom
-Reproductive Freedom for All California
-Run for Something
-Sierra Club
-Sister Warriors Action Fund
-Smart Justice California
-Southern California Armenian Democrats
-Stonewall Democratic Club
-Stonewall Young Democrats
-Trojan Democrats
-Voices for Progress
-Voters of Tomorrow
-Women’s Political Committee
-Working Families Party
+Isaac Bryan Assemblymember FEDERAL U.S.
+Senator Laphonza Butler Congresswoman Judy Chu Congresswoman Sydney Kamlager-Dove Statewide Attorney General Rob Bonta Controller Malia Cohen Insurance Commissioner Ricardo Lara Treasurer Fiona Ma Superintendent Tony Thurmond Legislative Caucuses CA Democratic Legislative Women’s Caucus California Legislative Black Caucus California Legislative LGBTQ Caucus California Legislative Progressive Caucus State Senate Senator Steven Bradford Senator Lena Gonzalez Senator Nancy Skinner Senator Lola Smallwood-Cuevas Senator Susan Talamantes Eggman Senator Scott Wiener Senator Isadore Hall (fmr) Senator Kevin Murray (fmr) State Assembly Assemblymember Joaquin Arambula Assemblymember Rebecca Bauer-Kahan Assemblymember Steve Bennett Assemblymember Marc Berman Assemblymember Tasha Boerner Assemblymember Mia Bonta Assemblymember Isaac Bryan Assemblymember Sabrina Cervantes Assemblymember Damon Connolly Assemblymember Mike Fong Assemblymember Laura Friedman Assemblymember Matt Haney Assemblymember Gregg Hart Assemblymember Chris Holden Assemblymember Corey Jackson Assemblymember Reggie Jones-Sawyer Assemblymember Ash Kalra Assemblymember Alex Lee Assemblymember Josh Lowenthal Assemblymember Tina McKinnor Assemblymember Liz Ortega Assemblymember Gail Pellerin Assembly Speaker John Pérez (fmr) Assemblymember Sharon Quirk-Silva Assemblymember Eloise Reyes Assemblymember Luz Rivas Assemblymember Pilar Schiavo Assemblymember Phil Ting Assemblymember Avelino Valencia Assemblymember Chris Ward Assemblymember Akilah Weber Assemblymember Lori Wilson Assemblymember Rick Chavez Zbur LOS ANGELES COUNTY Supervisor Lindsey Horvath Supervisor Holly J.
+Mitchell Supervisor Hilda Solis Municipal Mayor Karen Bass L.A.
+City Council President Marqueece Harris-Dawson Los Angeles City Councilmember Eunisses Hernandez Los Angeles City Councilmember Hugo Soto-Martinez Los Angeles City Councilmember Katy Yaroslavsky Los Angeles City Councilmember Mike Bonin (fmr) Los Angeles City Council President Herb Wesson (fmr) Los Angeles Unified School Board Member Rocio Rivas LACCD Board President Nichelle Henderson LACCD Board Trustee Sara Hernandez LACCD Board Trustee Kelsey Iino Carson Mayor Pro Tem Jawane Hilton Compton Mayor Emma Sharif Compton Unified School Board Trustee Denzell Jordan-Perry Culver City Mayor Yasmine-Imani McMorrin Culver City Unified School Board Member Triston Ezidore Glendale School Board Member Ingrid Gunnell Inglewood City Councilmember Dionne Faulk Inglewood Unified School Board Trustee Ernesto Castillo Long Beach Mayor Rex Richardson Long Beach City Councilmember Al Austin Pasadena School Board Member Patrice Marshall Mckenzie Riverside County Board of Ed Trustee Jamie Azpeitia-Sachs Stockton Mayor Michael Tubbs community leaders Greg Akili Danny Bakewell, Jr., Los Angeles Sentinel* Charisse Bremond-Weaver, Brotherhood Crusade* Maria Brenes, InnerCity Struggle* Sylvia Castillo, Community Coalition* Dr.
+Charity Chandler-Cole, CASA/LA* Mike de la Rocha, Revolve Impact* Ingrid Estrada-Darley, Black Girl, Brown Girl Books* Jeimee Estrada, E4E* Juliana Garcia Dolores Huerta, Cofounder United Farm Workers Harini Krishnan, South Asians for America* Dr.
+Manuel Pastor, USC* Henry Perez, InnerCity Struggle* Alberto Retana, Community Coalition* Rene Romero Adrianne Shropshire, BlackPAC* Cathy Unger, Planned Parenthood Los Angeles* Dulce Vasquez Luis Vasquez, Rainbow Labs* *Organizations for identification only Labor AFSCME California PEOPLE AFSCME District Council 36 AFSCME District Council 57 AFSCME Local 2620 AFSCME Local 2712 AFSCME Local 3090 AFSCME Local 3299 AFSCME Local 3634 AFSCME Local 3930/UDW AFT Local 1521 Association of California State Supervisors CAL FIRE Local 2881 California Assoc. of Psychiatric Technicians California Assoc. of Professional Scientists California Faculty Association California Federation of Teachers California Labor Federation California Nurses Association California Professional Firefighters California School Employees Association California Teachers Association Faculty Assoc. of CA Community Colleges IBEW Local 11 IBEW Local 40 Int.
+Union of Painters & Allied Trades DC 36 Ironworkers Local 416 L.A.
+County Public Defenders Local 148 Los Angeles County Federation of Labor National Union of Healthcare Workers Professional Engineers in CA Government Roofers Local 36 SEIU California SMART Sheet Metal Workers Local 105 Teamsters Joint Council 42 UFCW UNITE HERE!
+United Auto Workers Western States United Farm Workers United Firefighters of Los Angeles City United Nurses Associations of California United Teachers Los Angeles UPTE-CWA 9119 Western States Reg.
+Council of Carpenters Organizations Abundant Housing ACCE Action American College of Obstetricians Asian Democrats of Los Angeles County Black Los Angeles Young Democrats Black Women for Wellness Action Project Black Women’s Democratic Club Black Women Organized for Political Action Bruin Democrats California Applicants’ Attorneys Association California Bicycle Coalition California Democratic Renters Council CA Environmental Justice Alliance Action California Environmental Voters California High School Democrats California Medical Association California Optometric Association California State Retirees California Women’s List California YIMBY California Young Democrats Center for Biological Diversity Action Fund Citizens for Accountable Leadership Climate Action California Collective PAC Consumer Attorneys of California Consumer Federation of California Courage California CPCA Advocates Culver City Democratic Club Dolores Huerta Action Fund Equality California Evolve California Fund Her Health Care for All – California Heart of LA Democratic Club HONOR PAC Initiate Justice Action Jane Fonda Climate PAC LAAAWPAC La Defensa Latinas Lead California Latino Coalition of Los Angeles Lead Locally LGBTQ+ Victory Fund Los Angeles County Young Democrats Los Angeles Sentinel LPAC Matador Democrats Moms Demand Action New Frontier Democratic Club Our Revolution Planned Parenthood Advocacy Project PowerCA Action Progressive Era PAC Project Super Bloom Reproductive Freedom for All California Run for Something Sierra Club Sister Warriors Action Fund Smart Justice California Southern California Armenian Democrats Stonewall Democratic Club Stonewall Young Democrats Trojan Democrats Voices for Progress Voters of Tomorrow Women’s Political Committee Working Families Party ENDORSE SADE!
 Join our strong coalition of endorsers.
+First Name Last Name Organization email phone Zip Code I endorse Sade Elhawary for Assembly!
+PAID FOR BY SADE ELHAWARY FOR ASSEMBLY 2024.
+FPPC ID #1458935.
+777 S.
+FIGUEROA ST., SUITE 4050, LOS ANGELES, CA 90017, 323-920-4416

@@ -1,7 +1,9 @@
 {
  "description": "Kutchka For AR is the political campaign website for Jane-Ellen Udouj-Kutchka running for Arkansas House of Representatives District 51",
  "final_url": "https://www.kutchkaforar.com/",
- "paid_for_by": null,
+ "fingerprint": "65a8258a0c51906c827cf76dcec6516276cf8a8c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Kutchka For AR, Kutchka for Arkansas, Jane-Ellen Udouj-Kutchka | political campaign",
  "years_mentioned": []
 }

@@ -1,89 +1,486 @@
 [
-"http://facebook.com/DelegateHeatherBagnall/events",
-"http://instagram.com/delegateheatherbagnall",
-"https://capitalgazette.com/opinion/columns/ac-ce-column-bagnall-rogers-lehman-20200925-f7ddep3mz5aahkpj2pcybfwxhy-story.html",
-"https://capitalgazette.com/opinion/columns/ac-ce-column-heather-bagnall-20201022-qnq7p7q2qbg5jl6etoypkme7pe-story.html",
-"https://chesapeakefamily.com/family/newandnotable/9741-our-minds-matter-gains-momentum-in-anne-arundel-county",
-"https://facebook.com/DelegateHeatherBagnall",
-"https://facebook.com/DelegateHeatherBagnall/events",
-"https://heatherbagnall.com/",
-"https://heatherbagnall.com/about-me",
-"https://heatherbagnall.com/article-archive",
-"https://heatherbagnall.com/article-archive/cfm-our-minds-matter",
-"https://heatherbagnall.com/article-archive/cg-2020-census-commentary",
-"https://heatherbagnall.com/article-archive/cg-reform-maryland-budget",
-"https://heatherbagnall.com/article-archive/md-reporter-sickle-cell",
-"https://heatherbagnall.com/article-archive/mdm-expanding-access-to-mental-health-care",
-"https://heatherbagnall.com/article-archive/mm-md-medigap-bill",
-"https://heatherbagnall.com/article-archive/mm-oral-health-care",
-"https://heatherbagnall.com/article-archive/spv-addressing-mental-health",
-"https://heatherbagnall.com/article-archive/spv-advocating-like-a-boss",
-"https://heatherbagnall.com/article-archive/spv-arts-in-education",
-"https://heatherbagnall.com/article-archive/spv-bay-bridge",
-"https://heatherbagnall.com/article-archive/spv-binary-thinking",
-"https://heatherbagnall.com/article-archive/spv-chief-charles-moose",
-"https://heatherbagnall.com/article-archive/spv-combating-misinformation",
-"https://heatherbagnall.com/article-archive/spv-constitutional-crisis",
-"https://heatherbagnall.com/article-archive/spv-cross-the-finish-line",
-"https://heatherbagnall.com/article-archive/spv-demonstrating-leadership-during-a-crisis",
-"https://heatherbagnall.com/article-archive/spv-keeping-arts-afloat",
-"https://heatherbagnall.com/article-archive/spv-legislative-changes",
-"https://heatherbagnall.com/article-archive/spv-make-our-census-work",
-"https://heatherbagnall.com/article-archive/spv-mapping-the-monster",
-"https://heatherbagnall.com/article-archive/spv-meet-the-candidates-2022",
-"https://heatherbagnall.com/article-archive/spv-mhai-october-update",
-"https://heatherbagnall.com/article-archive/spv-our-actions-define-us",
-"https://heatherbagnall.com/article-archive/spv-pride-2021",
-"https://heatherbagnall.com/article-archive/spv-session-2022-recap",
-"https://heatherbagnall.com/article-archive/spv-time-to-make-history",
-"https://heatherbagnall.com/article-archive/spv-understanding-mhai",
-"https://heatherbagnall.com/article-archive/spv-working-together",
-"https://heatherbagnall.com/article-archive/the-talon-hearing-from-students",
-"https://heatherbagnall.com/articles",
-"https://heatherbagnall.com/campaign-update",
-"https://heatherbagnall.com/campaign-videos",
-"https://heatherbagnall.com/contact",
-"https://heatherbagnall.com/contribute",
-"https://heatherbagnall.com/delegate-news",
-"https://heatherbagnall.com/endorsements",
-"https://heatherbagnall.com/interviews",
-"https://heatherbagnall.com/leadership",
-"https://heatherbagnall.com/maryland-state-resource-archive",
-"https://heatherbagnall.com/scholarship-2025",
-"https://heatherbagnall.com/scholarships",
-"https://heatherbagnall.com/session-recap",
-"https://heatherbagnall.com/subscribe",
-"https://heatherbagnall.com/term-conditions",
-"https://heatherbagnall.com/virtual-town-halls",
-"https://heatherbagnall.com/volunteer",
-"https://heatherbagnall.com/voter-information",
-"https://marylandmatters.org/2021/06/14/new-maryland-law-will-expand-adolescents-access-to-mental-health-care",
-"https://marylandmatters.org/2021/10/22/del-bagnall-benign-law-offers-hope-to-marylanders-seeking-oral-health-care",
-"https://marylandmatters.org/2022/01/06/del-heather-bagnall-medigap-bill-would-provide-much-needed-choice-to-md-dialysis-patients",
-"https://marylandreporter.com/2022/09/27/to-correct-injustices-sickle-cell-disease-needs-more-state-and-federal-attention",
-"https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18073.html",
-"https://severnaparkvoice.com/stories/advocating-like-a-boss,30670",
-"https://severnaparkvoice.com/stories/arts-in-education,30088",
-"https://severnaparkvoice.com/stories/combating-misinformation,33103",
-"https://severnaparkvoice.com/stories/demonstrating-leadership-during-a-crisis,31357",
-"https://severnaparkvoice.com/stories/heather-bagnall-addressing-mental-health,36441",
-"https://severnaparkvoice.com/stories/heather-bagnall-working-together-despite-misinformation,36822",
-"https://severnaparkvoice.com/stories/its-not-too-late-lets-make-our-census-work-for-us,31929",
-"https://severnaparkvoice.com/stories/its-your-turn-to-make-history,32037",
-"https://severnaparkvoice.com/stories/keeping-the-arts-and-entertainment-afloat,34748",
-"https://severnaparkvoice.com/stories/legislative-session-could-spur-changes-to-life-in-severna-park-arnold,36562",
-"https://severnaparkvoice.com/stories/mapping-the-monster-its-time-to-address-behavioral-health-care,30860",
-"https://severnaparkvoice.com/stories/meet-the-candidates-state-delegate-district-33,38755",
-"https://severnaparkvoice.com/stories/pride-month-is-here-but-there-is-still-work-to-do,33966",
-"https://severnaparkvoice.com/stories/taking-stock-of-the-2022-session-heather-bagnall,38256",
-"https://severnaparkvoice.com/stories/the-bay-bridge,29810",
-"https://severnaparkvoice.com/stories/the-mental-health-access-initiative,35333",
-"https://severnaparkvoice.com/stories/the-problem-with-binary-thinking,31783",
-"https://severnaparkvoice.com/stories/together-we-can-cross-the-finish-line,32257",
-"https://severnaparkvoice.com/stories/understanding-the-mental-health-access-initiative,33684",
-"https://severnaparkvoice.com/stories/we-can-learn-from-chief-mooses-example,36103",
-"https://severnaparkvoice.com/stories/we-cannot-turn-a-blind-eye-to-this-constitutional-crisis,32367",
-"https://severnaparkvoice.com/stories/what-we-do-in-this-moment-defines-who-we-are,31667",
-"https://sptalon.com/11513/thetalonarchive/features/hearing-from-students",
-"https://youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+{
+"text": "About Me",
+"href": "https://www.heatherbagnall.com/about-me"
+},
+{
+"text": "Actions Define Us",
+"href": "https://severnaparkvoice.com/stories/what-we-do-in-this-moment-defines-who-we-are,31667"
+},
+{
+"text": "Addressing Mental Health",
+"href": "https://www.severnaparkvoice.com/stories/heather-bagnall-addressing-mental-health,36441"
+},
+{
+"text": "Advocate Like A Boss",
+"href": "https://www.severnaparkvoice.com/stories/advocating-like-a-boss,30670"
+},
+{
+"text": "Articles",
+"href": "https://www.heatherbagnall.com/articles"
+},
+{
+"text": "Arts In Education",
+"href": "https://www.severnaparkvoice.com/stories/arts-in-education,30088"
+},
+{
+"text": "Attend",
+"href": "http://www.facebook.com/DelegateHeatherBagnall/events/"
+},
+{
+"text": "Bay Bridge",
+"href": "https://www.severnaparkvoice.com/stories/the-bay-bridge,29810"
+},
+{
+"text": "Binary Thinking",
+"href": "https://severnaparkvoice.com/stories/the-problem-with-binary-thinking,31783"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:administrator@heatherbagnall.com?subject=A+Contact+from+HeatherBagnall.com"
+},
+{
+"text": "Campaign Update",
+"href": "https://www.heatherbagnall.com/campaign-update"
+},
+{
+"text": "Campaign Videos",
+"href": "https://www.heatherbagnall.com/campaign-videos"
+},
+{
+"text": "Census 2020 Commentary",
+"href": "https://www.capitalgazette.com/opinion/columns/ac-ce-column-bagnall-rogers-lehman-20200925-f7ddep3mz5aahkpj2pcybfwxhy-story.html"
+},
+{
+"text": "Combating Misinformation",
+"href": "https://severnaparkvoice.com/stories/combating-misinformation,33103"
+},
+{
+"text": "Constitutional Crisis",
+"href": "https://www.severnaparkvoice.com/stories/we-cannot-turn-a-blind-eye-to-this-constitutional-crisis,32367"
+},
+{
+"text": "Contact",
+"href": "https://www.heatherbagnall.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.heatherbagnall.com/contribute"
+},
+{
+"text": "Delegate News",
+"href": "https://www.heatherbagnall.com/delegate-news"
+},
+{
+"text": "Demonstrating Leadership",
+"href": "https://severnaparkvoice.com/stories/demonstrating-leadership-during-a-crisis,31357"
+},
+{
+"text": "EVENTS",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heatherbagnall.com/endorsements"
+},
+{
+"text": "Hearing From Students",
+"href": "https://sptalon.com/11513/thetalonarchive/features/hearing-from-students/"
+},
+{
+"text": "Heather@HeatherBagnall.com",
+"href": "mailto:Heather@HeatherBagnall.com"
+},
+{
+"text": "Home",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "Interviews",
+"href": "https://www.heatherbagnall.com/interviews"
+},
+{
+"text": "Keeping Arts Afloat",
+"href": "https://severnaparkvoice.com/stories/keeping-the-arts-and-entertainment-afloat,34748"
+},
+{
+"text": "Leadership",
+"href": "https://www.heatherbagnall.com/leadership"
+},
+{
+"text": "Learn By Example",
+"href": "https://severnaparkvoice.com/stories/we-can-learn-from-chief-mooses-example,36103"
+},
+{
+"text": "Legislative Changes",
+"href": "https://www.severnaparkvoice.com/stories/legislative-session-could-spur-changes-to-life-in-severna-park-arnold,36562"
+},
+{
+"text": "MD Medigap Bill",
+"href": "https://www.marylandmatters.org/2022/01/06/del-heather-bagnall-medigap-bill-would-provide-much-needed-choice-to-md-dialysis-patients/"
+},
+{
+"text": "MHAI Update",
+"href": "https://severnaparkvoice.com/stories/the-mental-health-access-initiative,35333"
+},
+{
+"text": "Make Our Census Work",
+"href": "https://severnaparkvoice.com/stories/its-not-too-late-lets-make-our-census-work-for-us,31929"
+},
+{
+"text": "Mapping The Monster",
+"href": "https://www.severnaparkvoice.com/stories/mapping-the-monster-its-time-to-address-behavioral-health-care,30860"
+},
+{
+"text": "Maryland General Assembly",
+"href": "https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18073.html"
+},
+{
+"text": "Meet The Candidate",
+"href": "https://www.severnaparkvoice.com/stories/meet-the-candidates-state-delegate-district-33,38755"
+},
+{
+"text": "Mental Health Access",
+"href": "https://www.marylandmatters.org/2021/06/14/new-maryland-law-will-expand-adolescents-access-to-mental-health-care/"
+},
+{
+"text": "Oral Health Care",
+"href": "https://www.marylandmatters.org/2021/10/22/del-bagnall-benign-law-offers-hope-to-marylanders-seeking-oral-health-care/"
+},
+{
+"text": "Our Minds Matter",
+"href": "https://www.chesapeakefamily.com/family/newandnotable/9741-our-minds-matter-gains-momentum-in-anne-arundel-county"
+},
+{
+"text": "Pride 2021",
+"href": "https://severnaparkvoice.com/stories/pride-month-is-here-but-there-is-still-work-to-do,33966"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/cfm-our-minds-matter"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/cg-2020-census-commentary"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/cg-reform-maryland-budget"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/md-reporter-sickle-cell"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/mdm-expanding-access-to-mental-health-care"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/mm-md-medigap-bill"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/mm-oral-health-care"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-addressing-mental-health"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-advocating-like-a-boss"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-arts-in-education"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-bay-bridge"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-binary-thinking"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-chief-charles-moose"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-combating-misinformation"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-constitutional-crisis"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-cross-the-finish-line"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-demonstrating-leadership-during-a-crisis"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-keeping-arts-afloat"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-legislative-changes"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-make-our-census-work"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-mapping-the-monster"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-meet-the-candidates-2022"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-mhai-october-update"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-our-actions-define-us"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-pride-2021"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-session-2022-recap"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-time-to-make-history"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-understanding-mhai"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/spv-working-together"
+},
+{
+"text": "Read more →",
+"href": "https://www.heatherbagnall.com/article-archive/the-talon-hearing-from-students"
+},
+{
+"text": "Reform Maryland's Budget",
+"href": "https://www.capitalgazette.com/opinion/columns/ac-ce-column-heather-bagnall-20201022-qnq7p7q2qbg5jl6etoypkme7pe-story.html"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.heatherbagnall.com/scholarship-2025"
+},
+{
+"text": "Scholarships",
+"href": "https://www.heatherbagnall.com/scholarships"
+},
+{
+"text": "Session Recap",
+"href": "https://www.heatherbagnall.com/session-recap"
+},
+{
+"text": "Sickle Cell Disease",
+"href": "https://marylandreporter.com/2022/09/27/to-correct-injustices-sickle-cell-disease-needs-more-state-and-federal-attention/"
+},
+{
+"text": "State Resource Archive",
+"href": "https://www.heatherbagnall.com/maryland-state-resource-archive"
+},
+{
+"text": "Subscribe",
+"href": "https://www.heatherbagnall.com/subscribe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.heatherbagnall.com/term-conditions"
+},
+{
+"text": "Taking Stock",
+"href": "https://www.severnaparkvoice.com/stories/taking-stock-of-the-2022-session-heather-bagnall,38256"
+},
+{
+"text": "The Finish Line",
+"href": "https://www.severnaparkvoice.com/stories/together-we-can-cross-the-finish-line,32257"
+},
+{
+"text": "Time To Make History",
+"href": "https://www.severnaparkvoice.com/stories/its-your-turn-to-make-history,32037"
+},
+{
+"text": "Understanding MHAI",
+"href": "https://severnaparkvoice.com/stories/understanding-the-mental-health-access-initiative,33684"
+},
+{
+"text": "Virtual Town Halls",
+"href": "https://www.heatherbagnall.com/virtual-town-halls"
+},
+{
+"text": "Visit The Article Archive",
+"href": "https://www.heatherbagnall.com/article-archive"
+},
+{
+"text": "Volunteer",
+"href": "https://www.heatherbagnall.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.heatherbagnall.com/voter-information"
+},
+{
+"text": "Working Together",
+"href": "https://www.severnaparkvoice.com/stories/heather-bagnall-working-together-despite-misinformation,36822"
+},
+{
+"text": "[image: Actions Define Us]",
+"href": "https://severnaparkvoice.com/stories/what-we-do-in-this-moment-defines-who-we-are,31667"
+},
+{
+"text": "[image: Addressing Mental Health]",
+"href": "https://www.severnaparkvoice.com/stories/heather-bagnall-addressing-mental-health,36441"
+},
+{
+"text": "[image: Advocate Like A Boss]",
+"href": "https://www.severnaparkvoice.com/stories/advocating-like-a-boss,30670"
+},
+{
+"text": "[image: Arts In Education]",
+"href": "https://www.severnaparkvoice.com/stories/arts-in-education,30088"
+},
+{
+"text": "[image: Bay Bridge]",
+"href": "https://www.severnaparkvoice.com/stories/the-bay-bridge,29810"
+},
+{
+"text": "[image: Binary Thinking]",
+"href": "https://severnaparkvoice.com/stories/the-problem-with-binary-thinking,31783"
+},
+{
+"text": "[image: Census 2020 Commentary]",
+"href": "https://www.capitalgazette.com/opinion/columns/ac-ce-column-bagnall-rogers-lehman-20200925-f7ddep3mz5aahkpj2pcybfwxhy-story.html"
+},
+{
+"text": "[image: Combating Misinformation]",
+"href": "https://severnaparkvoice.com/stories/combating-misinformation,33103"
+},
+{
+"text": "[image: Constitutional Crisis]",
+"href": "https://www.severnaparkvoice.com/stories/we-cannot-turn-a-blind-eye-to-this-constitutional-crisis,32367"
+},
+{
+"text": "[image: Demonstrating Leadership]",
+"href": "https://severnaparkvoice.com/stories/demonstrating-leadership-during-a-crisis,31357"
+},
+{
+"text": "[image: Hearing From Students]",
+"href": "https://sptalon.com/11513/thetalonarchive/features/hearing-from-students/"
+},
+{
+"text": "[image: Heather Bagnall - Maryland State Delegate - District 33]",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "[image: Keeping Arts Afloat]",
+"href": "https://severnaparkvoice.com/stories/keeping-the-arts-and-entertainment-afloat,34748"
+},
+{
+"text": "[image: Learn By Example]",
+"href": "https://severnaparkvoice.com/stories/we-can-learn-from-chief-mooses-example,36103"
+},
+{
+"text": "[image: Legislative Changes]",
+"href": "https://www.severnaparkvoice.com/stories/legislative-session-could-spur-changes-to-life-in-severna-park-arnold,36562"
+},
+{
+"text": "[image: MD Medigap Bill]",
+"href": "https://www.marylandmatters.org/2022/01/06/del-heather-bagnall-medigap-bill-would-provide-much-needed-choice-to-md-dialysis-patients/"
+},
+{
+"text": "[image: MHAI Update]",
+"href": "https://severnaparkvoice.com/stories/the-mental-health-access-initiative,35333"
+},
+{
+"text": "[image: Make Our Census Work]",
+"href": "https://severnaparkvoice.com/stories/its-not-too-late-lets-make-our-census-work-for-us,31929"
+},
+{
+"text": "[image: Mapping The Monster]",
+"href": "https://www.severnaparkvoice.com/stories/mapping-the-monster-its-time-to-address-behavioral-health-care,30860"
+},
+{
+"text": "[image: Meet The Candidate]",
+"href": "https://www.severnaparkvoice.com/stories/meet-the-candidates-state-delegate-district-33,38755"
+},
+{
+"text": "[image: Mental Health Access]",
+"href": "https://www.marylandmatters.org/2021/06/14/new-maryland-law-will-expand-adolescents-access-to-mental-health-care/"
+},
+{
+"text": "[image: Oral Health Care]",
+"href": "https://www.marylandmatters.org/2021/10/22/del-bagnall-benign-law-offers-hope-to-marylanders-seeking-oral-health-care/"
+},
+{
+"text": "[image: Our Minds Matter]",
+"href": "https://www.chesapeakefamily.com/family/newandnotable/9741-our-minds-matter-gains-momentum-in-anne-arundel-county"
+},
+{
+"text": "[image: Pride 2021]",
+"href": "https://severnaparkvoice.com/stories/pride-month-is-here-but-there-is-still-work-to-do,33966"
+},
+{
+"text": "[image: Reform Maryland's Budget]",
+"href": "https://www.capitalgazette.com/opinion/columns/ac-ce-column-heather-bagnall-20201022-qnq7p7q2qbg5jl6etoypkme7pe-story.html"
+},
+{
+"text": "[image: Sickle Cell Disease]",
+"href": "https://marylandreporter.com/2022/09/27/to-correct-injustices-sickle-cell-disease-needs-more-state-and-federal-attention/"
+},
+{
+"text": "[image: Taking Stock]",
+"href": "https://www.severnaparkvoice.com/stories/taking-stock-of-the-2022-session-heather-bagnall,38256"
+},
+{
+"text": "[image: The Finish Line]",
+"href": "https://www.severnaparkvoice.com/stories/together-we-can-cross-the-finish-line,32257"
+},
+{
+"text": "[image: Time To Make History]",
+"href": "https://www.severnaparkvoice.com/stories/its-your-turn-to-make-history,32037"
+},
+{
+"text": "[image: Understanding MHAI]",
+"href": "https://severnaparkvoice.com/stories/understanding-the-mental-health-access-initiative,33684"
+},
+{
+"text": "[image: Working Together]",
+"href": "https://www.severnaparkvoice.com/stories/heather-bagnall-working-together-despite-misinformation,36822"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/delegateheatherbagnall"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+},
+{
+"text": "[no text]",
+"href": "mailto:Heather@HeatherBagnall.com"
+}
 ]

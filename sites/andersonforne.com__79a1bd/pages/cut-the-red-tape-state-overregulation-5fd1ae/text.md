@@ -1,5 +1,4 @@
-How State Overregulation Is Strangling Nebraska Small Businesses
-Last month, I had the privilege to attend the Golden Triangle Tour to visit a hog farm, ethanol plant and the USDA Meat Research Center.
+Skip to content Home Priorities Meet Chris Blog Join Us Yard Sign Home Priorities Meet Chris Blog Join Us Yard Sign CONTRIBUTE Home Priorities Meet Chris Blog Join Us Yard Sign Cut the Red Tape: State Overregulation July 17, 2026 Please share this story in your social media or email contacts: Facebook X LinkedIn Email How State Overregulation Is Strangling Nebraska Small Businesses Last month, I had the privilege to attend the Golden Triangle Tour to visit a hog farm, ethanol plant and the USDA Meat Research Center.
 When the owner was asked by a candidate for the Legislature (and registered Democrat) what the Unicameral could do better to help him he unequivocally said: “less regulation burdens”.
 Thankfully, I had some time to chat individually with the hog farm owners as well and this was echoed again—it is hampering his margins and ability to run his business.
 Unfortunately, this is pervasive across our agricultural bedrock economy and is deterring some farmers/ranchers from continuing their operations or simply to not return to Nebraska (Brain Drain) and run their family operations.
@@ -12,8 +11,8 @@ Meanwhile, our neighboring states are rolling out the red carpet.
 Iowa has streamlined their business licensing into a single online portal.
 South Dakota markets itself as the most business-friendly state in America.
 Where does Nebraska rank?
-According to the Tax Foundation’s 2026 State Tax Competitiveness Index, we’re 22nd…Middle of the pack…Mediocre.
-Wyoming and South Dakota are #1 and 2, respectively1.
+According to the Tax Foundation’s 2026 State Tax Competitiveness Index, we’re 22 nd …Middle of the pack…Mediocre.
+Wyoming and South Dakota are #1 and 2, respectively 1 .
 Full disclosure: the corporate tax portion of that ranking has Nebraska at #14, which on the surface is not terrible, but with the aggregate of the taxes (property taxes place us at #46!) we simply are not moving the needle on our competitiveness.
 I have written about property taxes in a previous blog post.
 That’s not acceptable for a state with our talent, our work ethic, and our location competitive advantages.
@@ -32,4 +31,10 @@ Let’s unshackle it.
 Know a small business owner fighting red tape?
 I’d love to chat with them.
 Let’s build a movement for regulatory reform.
-#CutTheRedTape#SmallBizNE#AndersonForNebraska#FreeEnterprise
+#CutTheRedTape#SmallBizNE#AndersonForNebraska#FreeEnterprise Prev Previous From the Cockpit to the Capitol: Why a Combat Veteran Is Running for Your State Legislature Next Iowa Beat Us: How Nebraska’s Income Tax Rate Lags Behind Our Neighbors Next Copyright © # Anderson For Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages and phone calls, including automated calls from Chris Anderson.
+Message & data rates may apply.
+Message frequency varies.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe PRIVACY POLICY | TERMS & CONDITIONS

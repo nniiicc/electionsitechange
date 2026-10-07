@@ -1,14 +1,54 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/02-22-23-2023.html",
-"https://cormenfornh.com/Votes/03-21-2024.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1239&inflect=2",
-"https://gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1392&inflect=2",
-"https://gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1597&inflect=2",
-"https://granitepostnews.com/2024/03/27/op-ed-deepfakes-do-not-belong-in-our-democracy"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "HB 1283-FN",
+"href": "https://cormenfornh.com/Votes/03-21-2024.html#1283"
+},
+{
+"text": "HB 1432",
+"href": "https://www.gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1239&inflect=2"
+},
+{
+"text": "HB 1596-FN",
+"href": "https://www.gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1392&inflect=2"
+},
+{
+"text": "HB 1688-FN",
+"href": "https://www.gencourt.state.nh.us/bill_Status/billinfo.aspx?id=1597&inflect=2"
+},
+{
+"text": "HB 44",
+"href": "https://cormenfornh.com/Votes/02-22-23-2023.html#HB44"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "March 21",
+"href": "https://cormenfornh.com/Votes/03-21-2024.html#1683"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "this op-ed",
+"href": "https://granitepostnews.com/2024/03/27/op-ed-deepfakes-do-not-belong-in-our-democracy/"
+}
 ]

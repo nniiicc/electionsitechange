@@ -1,8 +1,5 @@
-Thursday, July 2, 2026
-Opinion Editorial: The Clear Choice for Those who Serve and Those They Protect in the Lowcountry: Jenny Costa Honeycutt
-Major General James E.
-Livingston, USMC (Ret.) (Published in FitsNews)
-I have spent most of my life around men and women who raised their right hand and swore an oath to defend this country.
+Home About Platform News Support DONATE DONATE Home About Platform News Support DONATE Thursday, July 2, 2026 Opinion Editorial: The Clear Choice for Those who Serve and Those They Protect in the Lowcountry: Jenny Costa Honeycutt Major General James E.
+Livingston, USMC (Ret.) (Published in FitsNews ) I have spent most of my life around men and women who raised their right hand and swore an oath to defend this country.
 I served 33 years in the United States Marine Corps.
 I fought alongside extraordinary Marines in Vietnam and finished my career commanding the Marine Forces Reserve.
 The Medal of Honor I wear belongs as much to the Marines who fought beside me as it ever has to me.
@@ -45,7 +42,8 @@ Jenny will fight for the men and women defending this nation, the veterans who d
 And Jenny will never forget that South Carolina’s First Congressional District is not a stepping stone or a convenient place to launch a political career.
 It is our home.
 And I encourage our Lowcountry neighbors to join me in voting for Jenny Costa Honeycutt for Congress.
-###
-Major General James E.
+### Major General James E.
 Livingston, USMC (Ret.), is a recipient of the Medal of Honor and served more than 33 years in the United States Marine Corps, including as Commander of Marine Forces Reserve.
 He is a longtime resident of the Lowcountry.
+Jenny Costa Honeycutt Media Gallery PAID FOR BY JENNY FOR CONGRESS.
+Post Office Box 13823, Charleston, SC 29422 Privacy Policy Share by:

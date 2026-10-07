@@ -1,5 +1,11 @@
-MEET Julie Greene
-Raised in the suburbs of Chicago with a pack of sisters, my parents instilled in me a core sense of responsibility to the community around us.
+Meet Julie Priorities Endorsements In The News Get Involved VOTER TOOLBOX Donate Menu Street Address City, State, Zip Phone Number Your Custom Text Here Meet Julie Priorities Endorsements In The News Get Involved VOTER TOOLBOX Donate MEET Julie Greene Presenting HF1999 (first bill) to MN House Education Policy committee.
+March 2025 (photo credit: Rep.
+Heather Keeler) First Edina School Board meeting.
+January 2020 Delivering diplomas by school bus to grateful EHS Class of 2020 graduates.
+May 2020 Co-leading logistics for at home MealFund relief efforts for students and families during COVID.
+Summer 2020 Behind-the-scenes interview with WCCO as co-Organizer of TEDxEdina/TEDxEdina Youth.
+October 2022 As chair, Legislative Action Committee, oversaw impactful work with students, community members, EPS admin, partners and legislators to collaboratively advocate for public education needs at the state and federal level.
+January 2023 Raised in the suburbs of Chicago with a pack of sisters, my parents instilled in me a core sense of responsibility to the community around us.
 This means we speak up for ourselves and others.
 We contribute to make things better.
 We do our part when we can.
@@ -7,7 +13,7 @@ Even as a young girl, I understood the power of advocacy.
 As a pre-teen, I collected classmates’ signatures as the student council Vice President successfully petitioning for extended recess time in middle school (!).
 While in college, I worked to establish the first Victim’s Advocate Program at my alma mater.
 In my 20s and 30s, my career in public relations focused on many community-centric efforts including healthcare, education, nutrition, and children’s advocacy programs.
-When we moved to Edina 18 years ago, and our oldest daughter was embarking on kindergarten, I turned my focus to our community and how to contribute in a positive, impactful way.
+When we moved to Edina #ago, and our oldest daughter was embarking on kindergarten, I turned my focus to our community and how to contribute in a positive, impactful way.
 We fell in love with ‘up north’ planting our roots, embracing Minnesota (including cabin life), and choosing to raise our family here.
 Our journey started with Edina Public Schools with all four of our kids having attended (or still attending) EPS from ECFE at the Early Learning Center up through 12th grade.
 One of the things that attracted me to Minnesota, and Edina specifically, is that we’re a community of innovators and entrepreneurs.
@@ -23,19 +29,8 @@ Working on the district budget, I learned how large and complex public school fi
 I am proud to have played a role in effective governance based on collaboration, transparency, and vision.
 I leaned into understanding the interconnectivity of legislative work and our school district community, and the importance of getting it right in order to hold the system up.
 In addition to education, I believe issues facing our students are reflective of what’s on the minds of many of us — safety and security, environment, climate and true sustainability concerns, equality rights and access to opportunities, and the mental health and well-being of one another.
-Practical leadership experience:
-- Minnesota State Representative (2025-ongoing), legislator representing Edina and Bloomington; member of House Education Policy committee, House Education Finance committee, Transportation Finance and Policy committee
-- ServeMinnesota Board member (2025-ongoing); appointed
-- National Council of State Legislators (2025-ongoing); appointed to Education committee
-- Council of State Governments (2025-ongoing); appointed to Education committee
-- Edina School Board member (2020-2024) Vice Chair, Chair/Policy Committee, Chair/Legislative Action Committee, Governance Committee member, World’s Best Workforce member, AMSD Board rep, school and partner group liaison role
-- Public Relations, Marketing and Communications, 25+ years of experience with public relations agency, in-house marketing, independent contractor work (Ongoing)
-- Co-Organizer, TEDxEdina 2018, TEDxEdina + TEDxEdina Youth 2022, TEDxEdina Youth 2023 (Ongoing)
-- Marketing and Communication Support, Edina Community Education Services, Edina Public Schools (Dec 2017 - June 2019)
-- Edina Public Schools Volunteer, serving in contributing roles and efforts in and out of the classroom supporting of Edina Early Learning Center, Concord Elementary, South View Middle School, Edina High School and Edina Community Education (Ongoing 18+ years)
-- Co-Chairwoman, Vote YES!
-EPS citizen campaign (2017)
-- Bachelor of Arts Degree in Communication (English minor) from the University of Dayton (OH)
-- Aspiring author.
+Practical leadership experience: Minnesota State Representative (2025-ongoing), legislator representing Edina and Bloomington; member of House Education Policy committee, House Education Finance committee, Transportation Finance and Policy committee ServeMinnesota Board member (2025-ongoing); appointed National Council of State Legislators (2025-ongoing); appointed to Education committee Council of State Governments (2025-ongoing); appointed to Education committee Edina School Board member (2020-2024) Vice Chair, Chair/Policy Committee, Chair/Legislative Action Committee, Governance Committee member, World’s Best Workforce member, AMSD Board rep, school and partner group liaison role Public Relations, Marketing and Communications, 25+ years of experience with public relations agency, in-house marketing, independent contractor work (Ongoing) Co-Organizer, TEDxEdina 2018, TEDxEdina + TEDxEdina Youth 2022, TEDxEdina Youth 2023 (Ongoing) Marketing and Communication Support, Edina Community Education Services, Edina Public Schools (Dec 2017 - June 2019) Edina Public Schools Volunteer, serving in contributing roles and efforts in and out of the classroom supporting of Edina Early Learning Center, Concord Elementary, South View Middle School, Edina High School and Edina Community Education (Ongoing 18+ years) Co-Chairwoman, Vote YES!
+EPS citizen campaign (2017) Bachelor of Arts Degree in Communication (English minor) from the University of Dayton (OH) Aspiring author.
 Addicted to podcasts.
-Decent at ping pong.
+Decent at ping pong. julie@greeneforminnesota.com POWERED BY SQUARESPACE .
+Prepared and paid for by the Greene for Minnesota Committee, 5108 W 74th St, #214, Edina, MN 55439

@@ -1,42 +1,16 @@
-Meet Rep.
-Robyn Vining
-Robyn is a mom and a small business owner, and is fighting for your family as if you’re her own.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Meet Rep.
+Robyn Vining Robyn is a mom and a small business owner, and is fighting for your family as if you’re her own.
 Smart, compassionate, and tenacious, Robyn Vining was the first Democrat to flip a legislative seat on some of the most gerrymandered maps in the country in 2018.
 Robyn and her husband of 25 years, a professor, have raised their children in Wauwatosa, WI, where she built her professional photography business from scratch about a decade and a half ago.
 You’ll see her fierce work ethic and tenacity in Madison in the form of serving as ranking member on the Assembly Committee on Mental Health and Substance Use Disorder Prevention and authoring and co-sponsoring legislation she knows is important to the lives of her constituents.
 Knowing what it feels like to be a mother who lost her health insurance while pregnant, being a WIC mom, and EpiPen mom, facing her husband’s long-time unemployment, being a small business owner for more than a decade, and parenting through significant economic challenges, Robyn fights for families as if they’re her own.
 She often says her body still has the “muscle memory” to remember what those very hard days felt like, and she knows far too many Wisconsinites face similar challenges.
-People are her motivator, fairness and justice are her rally cry, and the reason she’s running for re-election is, “For the Love of Wisconsin.”
-Rep.
-Vining’s Current committee and other work includes:
-- The Assembly Committee on Mental Health and Substance Use Disorder Prevention (Ranking Member)*
-- The Assembly Committee on Health, Aging, and Long-term Care
-- The Assembly Committee on Children and Families
-- The Assembly Committee on Small Business Development
-- The Milwaukee Delegation
-- Wisconsin Legislative Children’s Caucus
-- Trails Caucus
-- Reproductive Rights Work Group
-- Labor Work Group
-- Wisconsin Coalition for Gun Safety
-- Healthy School Meals for All Coalition
-- Housing Policy Work Group
-Rep.
-Vining’s past committee and other work includes:
-- The Milwaukee Delegation (Chair)
-- The Assembly Committee on Family Law (Ranking Member)
-- The Assembly Committee on Jobs, Economy and Small Business Development
-- The Speaker’s Task Force on Childhood Health (Vice-Chair)**
-- 2022 State-Tribal Relations Study Committee
-- 2019-2020 Speaker’s Task Force on Adoption
-- State Fair Board, 2021-2022 legislative session
-* The formal committee name doesn’t reflect updated language or the shift to destigmatize Substance Use Disorder, so we respectfully refer to this committee with language we believe to be more accurate, and respectful.
-** Please note out of sensitivity to how words can trigger painful reactions, and in an effort to not perpetuate stigma, we refer to this task force with this updated name.
+People are her motivator, fairness and justice are her rally cry, and the reason she’s running for re-election is, “For the Love of Wisconsin.” Rep.
+Vining’s Current committee and other work includes: The Assembly Committee on Mental Health and Substance Use Disorder Prevention (Ranking Member)* The Assembly Committee on Health, Aging, and Long-term Care The Assembly Committee on Children and Families The Assembly Committee on Small Business Development The Milwaukee Delegation Wisconsin Legislative Children’s Caucus Trails Caucus Reproductive Rights Work Group Labor Work Group Wisconsin Coalition for Gun Safety Healthy School Meals for All Coalition Housing Policy Work Group Rep.
+Vining’s past committee and other work includes: The Milwaukee Delegation (Chair) The Assembly Committee on Family Law (Ranking Member) The Assembly Committee on Jobs, Economy and Small Business Development The Speaker’s Task Force on Childhood Health (Vice-Chair)** 2022 State-Tribal Relations Study Committee 2019-2020 Speaker’s Task Force on Adoption State Fair Board, 2021-2022 legislative session * The formal committee name doesn’t reflect updated language or the shift to destigmatize Substance Use Disorder, so we respectfully refer to this committee with language we believe to be more accurate, and respectful. ** Please note out of sensitivity to how words can trigger painful reactions, and in an effort to not perpetuate stigma, we refer to this task force with this updated name.
 The Speaker did name it differently, and we respectfully call it something we think is better.
 More About Rep.
-Robyn Vining
-Compassionate & Tenacious Legislator
-In her four terms as a State Representative, Rep.
+Robyn Vining Compassionate & Tenacious Legislator In her four terms as a State Representative, Rep.
 Robyn has been in the fight for reproductive rights, workers’ rights, LGBTQIA+ rights, and more.
 Rep.
 Robyn has led the charge to introduce the Mental Healthcare is Healthcare legislative package, introduced legislation to create Fair Maps for fair representation, wrote the Mainstreet Recovery Package to support small businesses as they recover from COVID-19, wrote Healthcare Heroes to show up for Healthcare workers as they showed up for us, worked to provide support to foster children and adoption programs, ensure healthcare coverage for maternity and newborn care, improve the cost and access of epinephrine, make prescription drugs more affordable, advocated for violence prevention and intervention legislation and funding (gun violence, domestic violence, etc), fought for school funding, transit funding, and introduced legislation to make the world more accessible with Universal Changing Tables, and more!
@@ -44,12 +18,11 @@ She has met with constituents across her district, on their doorsteps, in coffee
 One of her favorite things about being a legislator is greeting 4th grade classes at the State Capitol and asking them who they think her boss is.
 They typically guess the President, or the Governor.
 She likes to remind the students that THEY are her boss — she works for her constituents and her district, all the constituents of her district!
-Committed Advocate & Successful Entrepreneur
-Robyn is a founding member of Help Portrait Milwaukee and The Milwaukee Portrait Project, initiatives that serve some of the city’s most vulnerable citizens.
+Committed Advocate & Successful Entrepreneur Robyn is a founding member of Help Portrait Milwaukee and The Milwaukee Portrait Project, initiatives that serve some of the city’s most vulnerable citizens.
 She was awarded the United Way’s Philanthropic 5 award in 2013 and was named American Mothers’ Wisconsin Mother in 2017 in recognition of her commitment to our community.
 Robyn is a highly successful entrepreneur and small business owner.
 She has developed a reputation as one of the most in-demand photographers in Milwaukee.
 She attributes her success in business to her love for, understanding of, and dedication to people.
-Robyn at Home
-An active member of her community, Robyn is an avid outdoor runner, Hank Aaron trail rider, Legacy Gym enthusiast, food truck fan, dedicated theater buff, and lives in Wauwatosa with her husband (a professor) and their two children (who are awesome).
+Robyn at Home An active member of her community, Robyn is an avid outdoor runner, Hank Aaron trail rider, Legacy Gym enthusiast, food truck fan, dedicated theater buff, and lives in Wauwatosa with her husband (a professor) and their two children (who are awesome).
 The Vining family takes turns snuggling their lovable boxer, Coco.
+Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

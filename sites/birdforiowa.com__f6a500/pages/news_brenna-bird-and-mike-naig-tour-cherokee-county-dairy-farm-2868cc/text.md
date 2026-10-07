@@ -1,4 +1,4 @@
-Two Iowa Republican politicians running for reelection this November made a stop at a family-owned dairy farm to talk with local producers.
+Donate Connect with Brenna News Donate News Brenna Bird and Mike Naig tour Cherokee County dairy farm September 17, 2026 Two Iowa Republican politicians running for reelection this November made a stop at a family-owned dairy farm to talk with local producers.
 Iowa Secretary of Agriculture Mike Naig and Attorney General Brenna Bird were given a tour of Cornbelt Dairy located in Cherokee County.
 The dairy farm is owned by the Wilcox family and has been selling milk commercially since 1947.
 During the tour, the family spoke with Naig and Bird about the automatic milking system that they were able to acquire due to the Choose Iowa Dairy Innovation Grant.
@@ -16,3 +16,4 @@ Cover crops, no-till, putting buffers along streams, and nutrient management is 
 Naig is currently traveling across the state as a part of his 'Keep Iowa Growing' tour.
 Mike Naig has served as Secretary of Agriculture since 2018; this November, he faces Democratic candidate Chris Jones.
 The incumbent, Brenna Bird, has been the Attorney General since 2022, and faces Democrat Nate Willems for Attorney General of Iowa.
+Read more here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

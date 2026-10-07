@@ -1,12 +1,50 @@
 [
-"https://facebook.com/JayAdamsRepresentative",
-"https://jayadamsnchouse.com/",
-"https://jayadamsnchouse.com/contact",
-"https://jayadamsnchouse.com/district-map",
-"https://jayadamsnchouse.com/endorsements",
-"https://jayadamsnchouse.com/news",
-"https://jayadamsnchouse.com/sample-page",
-"https://jayadamsnchouse.com/voter-information",
-"https://twitter.com/jayadamsNC96",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "Contact",
+"href": "https://jayadamsnchouse.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://jayadamsnchouse.com/endorsements/"
+},
+{
+"text": "Experience",
+"href": "https://jayadamsnchouse.com/#experience"
+},
+{
+"text": "Get My Voting Information Here",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Home",
+"href": "https://jayadamsnchouse.com/"
+},
+{
+"text": "Meet Jay",
+"href": "https://jayadamsnchouse.com/#meet-jay"
+},
+{
+"text": "News",
+"href": "https://jayadamsnchouse.com/news/"
+},
+{
+"text": "Sign Request",
+"href": "https://jayadamsnchouse.com/district-map/"
+},
+{
+"text": "Voter Information",
+"href": "https://jayadamsnchouse.com/voter-information/"
+},
+{
+"text": "[image: image]",
+"href": "https://jayadamsnchouse.com/sample-page/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/jayadamsNC96"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/JayAdamsRepresentative/"
+}
 ]

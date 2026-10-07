@@ -1,5 +1,4 @@
-- August 3, 2026
-Bassfield, MS — Democratic nominee for Congress Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate August 3, 2026 Chiaradio Attends Jefferson Davis County Democratic Party Planning Meeting Bassfield, MS — Democratic nominee for Congress Michael A.
 Chiaradio attended the Jefferson Davis County Democratic Party’s planning meeting this week in Bassfield.
 Chiaradio met with local Democrats who are preparing to organize, engage voters, and work to elect Democratic candidates throughout the county this November.
 The campaign also distributed shirts, hats, and yard signs to supporters as it continues expanding its grassroots presence across Mississippi’s Third Congressional District.
@@ -8,11 +7,7 @@ Chiaradio continues traveling throughout all twenty-three counties while campaig
 Mississippi’s Third Congressional District is the most competitive U.S.
 House race in the state, and strong grassroots organizing can flip the district in November.
 To help Michael A.
-Chiaradio continue building across the district, make a contribution today: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+Chiaradio continue building across the district, make a contribution today: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

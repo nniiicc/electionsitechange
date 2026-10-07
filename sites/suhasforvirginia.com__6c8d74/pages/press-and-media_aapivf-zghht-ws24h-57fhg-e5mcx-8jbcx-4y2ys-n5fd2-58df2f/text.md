@@ -1,5 +1,4 @@
-Suhas Subramanyam condemns hateful and antisemitic acts
-Suhas Subramanyam condemns the hateful and antisemitic acts that occurred at Union Station in Washington, D.C. yesterday evening.
+0 Skip to Content Home Priorities Press and Media Volunteer Contribute Open Menu Close Menu Contribute Home Priorities Press and Media Volunteer Open Menu Close Menu Home Priorities Press and Media Volunteer Contribute Suhas Subramanyam condemns hateful and antisemitic acts Jul 25 Written By Suhas for Virginia Suhas Subramanyam condemns the hateful and antisemitic acts that occurred at Union Station in Washington, D.C. yesterday evening.
 Ashburn, VA – Yesterday evening there were demonstrations with hateful and antisemitic messages and burning of the American flag.
 Suhas Subramanyam joins Vice President Kamala Harris and House Minority Leader Hakeem Jeffries in condemning these acts of desecration.
 Political violence and intimidation have no place in our democracy.
@@ -13,8 +12,9 @@ I support the right to peacefully protest, but let’s be clear: Antisemitism, h
 “Defacing public property, desecrating the American flag, threatening Jews with violence and promoting terrorist groups like Hamas is not acceptable under any circumstance.
 There is a difference between lawful expression and disorderly conduct.
 Anyone who violates the law must be held accountable to the fullest extent of the law,” said Leader Jeffries in a statement today.
-###
-Senator Suhas Subramanyam is the Democratic nominee for Congress in Virginia’s 10th Congressional District to replace outgoing Congresswoman Jennifer Wexton.
+### Senator Suhas Subramanyam is the Democratic nominee for Congress in Virginia’s 10th Congressional District to replace outgoing Congresswoman Jennifer Wexton.
 Suhas has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
 In Richmond, he has worked across the aisle to pass gun violence prevention bills, protect democracy, and defend abortion rights.
 Suhas resides in Ashburn, Virginia (in VA-10) with his wife, Miranda, and their two daughters.
+Suhas for Virginia Previous Previous Senator Suhas Subramanyam supports strong border security Next Next Suhas for Virginia Campaign Manager announcement.
+DONATE Paid for by Suhas for Virginia Suhas for Virginia PO Box 302 Ashburn, VA 20146 Privacy Policy Message for VA10 Voters

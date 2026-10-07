@@ -1,10 +1,14 @@
 {
  "description": "transition to adapt to climate change",
  "final_url": "https://www.kmm2026.org/2016campaign/climate-change-2016",
- "paid_for_by": null,
+ "fingerprint": "5381053ed5a52c927a4f5a891102ac08fb14e223",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Climate Change",
  "years_mentioned": [
   "2011",
-  "2015"
+  "2015",
+  "2016",
+  "2026"
  ]
 }

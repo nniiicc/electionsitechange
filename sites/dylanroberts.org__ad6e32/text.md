@@ -1,4 +1,4 @@
-Dylan Roberts is a leader at the legislature where his priorities and record include: reducing health insurance costs, lowering the cost of prescription drugs, advocating for affordable housing, protecting clean water, fighting for working families and small businesses, and much more.
+Skip to main content Make Your Plan to Vote Capitol Phone: (303) 866-4871 Legislative E-Mail: Dylan.Roberts.Senate@coleg.gov Campaign E-mail: Dylan@DylanRoberts.org Home About Me Murphy Media Kit Issues Affordable Housing & Cost of Living Water, Wildfire, Agriculture, Environment Jobs and Economy Healthcare Education Transportation and Infrastructure Latest News Legislative Roundup Senate District 8 Home About Me Murphy Media Kit Issues Affordable Housing & Cost of Living Water, Wildfire, Agriculture, Environment Jobs and Economy Healthcare Education Transportation and Infrastructure Latest News Legislative Roundup Senate District 8 CONTRIBUTE Dylan Roberts Working Hard For Colorado's Mountain & Rural Communities Newsletter Sign Up Contact Legislative Updates Donate On the Issues Dylan Roberts is a leader at the legislature where his priorities and record include: reducing health insurance costs, lowering the cost of prescription drugs, advocating for affordable housing, protecting clean water, fighting for working families and small businesses, and much more.
 Dylan Roberts was elected in 2022 to serve Colorado’s Eighth Senate District, which includes the rural and mountain communities in Clear Creek, Eagle, Garfield.
 Gilpin, Grand, Jackson, Moffat, Rio Blanco, and Summit Counties.
 Prior to his election to the Senate, Dylan served for five years as the representative for House District 26, which encompasses Eagle and Routt Counties.
@@ -6,21 +6,10 @@ During his time in the legislature, Dylan has passed bills that have focused on 
 He has also earned recognition as one of the most bipartisan and accountable legislators at the Capitol.
 In the State Senate, Dylan continues his work to ensure that our mountain and rural communities have a strong, effective voice at the Capitol.
 He always puts results over politics and focuses on legislation that will help rural Colorado remain a great place to live, work, and raise a family.
-A strong middle class is not possible without attainable housing, adequate child care, reliable broadband, and equal opportunity to earn a good wage, start a business, and raise a family.
-Learn More
-Ensuring that every Colorado kid gets the high-quality education they deserve and supporting our hardworking educators.
-Learn More
-Climate change is real and we need bold solutions to protect our environment, help transitioning communities, and secure Colorado's water for generations to come.
-Learn More
-We've made progress but there is more work to do to make health care more affordable and accessible for all Coloradans.
-Learn More
-Helping bolster our rural economies and ensuring good-paying jobs for Coloradans.
-Learn More
-Repairing & preparing our infrastructure for the the future must be one of the Legislature’s top concerns.
-Learn More
-bills written and passed in the Senate
-1
-of bills passed with bipartisan support
-1
-%
-TOWN HALL MEETINGS Held since 2018
+Learn More Housing & Cost of Living A strong middle class is not possible without attainable housing, adequate child care, reliable broadband, and equal opportunity to earn a good wage, start a business, and raise a family.
+Learn More Education Ensuring that every Colorado kid gets the high-quality education they deserve and supporting our hardworking educators.
+Learn More Water, Wildfire, Agriculture, Environment Climate change is real and we need bold solutions to protect our environment, help transitioning communities, and secure Colorado's water for generations to come.
+Learn More Affordable Health Care We've made progress but there is more work to do to make health care more affordable and accessible for all Coloradans.
+Learn More Jobs & Economy Helping bolster our rural economies and ensuring good-paying jobs for Coloradans.
+Learn More Transportation & Broadband Repairing & preparing our infrastructure for the the future must be one of the Legislature’s top concerns.
+Learn More Legislative Roundup bills written and passed in the Senate 1 of bills passed with bipartisan support 1 % TOWN HALL MEETINGS Held since 2018 1 Join Dylan Join the Team Donate About Dylan On the Issues Legislative Roundup Contribute Facebook Twitter Instagram dylan@dylanroberts.org (970) 846-3054 Mailing address: PO Box 3542 Eagle, CO 81631 Paid for by Dylan Roberts for Colorado Registered Agent: Dylan Roberts E-mail: SenatorDylanRoberts@gmail.com Cell: (970) 846-3054

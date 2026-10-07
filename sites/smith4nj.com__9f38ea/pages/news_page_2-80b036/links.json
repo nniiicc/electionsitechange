@@ -1,26 +1,186 @@
 [
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538",
-"https://facebook.com/Smith4NJ",
-"https://smith4nj.com/",
-"https://smith4nj.com/about",
-"https://smith4nj.com/cdn-cgi/l/email-protection",
-"https://smith4nj.com/contact",
-"https://smith4nj.com/endorsements",
-"https://smith4nj.com/federal-government-halts-major-offshore-wind-projects-over-national-security-threats-echoing-rep-smiths-longtime-concerns",
-"https://smith4nj.com/news",
-"https://smith4nj.com/news/page/2",
-"https://smith4nj.com/news/page/25",
-"https://smith4nj.com/news/page/3",
-"https://smith4nj.com/news/page/4",
-"https://smith4nj.com/privacy-policy",
-"https://smith4nj.com/rep-chris-smith-running-for-reelection",
-"https://smith4nj.com/rep-smith-announces-2026-high-school-winners-of-his-congressional-art-competition",
-"https://smith4nj.com/rep-smith-campaigns-at-turning-point-rally-vote-for-jack",
-"https://smith4nj.com/rep-smith-discusses-religious-persecution-on-foxs-life-liberty-levin",
-"https://smith4nj.com/rep-smith-pass-the-stop-forced-organ-harvesting-act",
-"https://smith4nj.com/rep-smith-secures-federal-grant-for-new-police-vehicles-in-manchester",
-"https://smith4nj.com/rep-smiths-bill-names-va-facility-in-honor-of-wwii-hero",
-"https://smith4nj.com/smith-announces-1-5-million-epa-grant-for-ocean-county-utilities-authority",
-"https://smith4nj.com/volunteer",
-"https://smith4nj.com/voting-information"
+{
+"text": "2",
+"href": "https://smith4nj.com/news/page/2/"
+},
+{
+"text": "25",
+"href": "https://smith4nj.com/news/page/25/"
+},
+{
+"text": "3",
+"href": "https://smith4nj.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://smith4nj.com/news/page/4/"
+},
+{
+"text": "732-357-0900",
+"href": "tel:7323570900"
+},
+{
+"text": "About",
+"href": "https://smith4nj.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://smith4nj.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538"
+},
+{
+"text": "Election Information",
+"href": "https://smith4nj.com/voting-information/"
+},
+{
+"text": "Endorsements",
+"href": "https://smith4nj.com/endorsements/"
+},
+{
+"text": "Federal Government Halts Major Offshore Wind Projects Over National Security Threats, Echoing Rep. Smith’s Longtime Concerns",
+"href": "https://smith4nj.com/federal-government-halts-major-offshore-wind-projects-over-national-security-threats-echoing-rep-smiths-longtime-concerns/"
+},
+{
+"text": "News",
+"href": "https://smith4nj.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://smith4nj.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/federal-government-halts-major-offshore-wind-projects-over-national-security-threats-echoing-rep-smiths-longtime-concerns/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-chris-smith-running-for-reelection/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-announces-2026-high-school-winners-of-his-congressional-art-competition/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-campaigns-at-turning-point-rally-vote-for-jack/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-discusses-religious-persecution-on-foxs-life-liberty-levin/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-pass-the-stop-forced-organ-harvesting-act/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-secures-federal-grant-for-new-police-vehicles-in-manchester/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smiths-bill-names-va-facility-in-honor-of-wwii-hero/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/smith-announces-1-5-million-epa-grant-for-ocean-county-utilities-authority/"
+},
+{
+"text": "Rep. Chris Smith running for reelection",
+"href": "https://smith4nj.com/rep-chris-smith-running-for-reelection/"
+},
+{
+"text": "Rep. Smith announces 2026 high school winners of his Congressional Art Competition",
+"href": "https://smith4nj.com/rep-smith-announces-2026-high-school-winners-of-his-congressional-art-competition/"
+},
+{
+"text": "Rep. Smith campaigns in Ocean County, speaks at Turning Point Rally: “Vote for Jack”",
+"href": "https://smith4nj.com/rep-smith-campaigns-at-turning-point-rally-vote-for-jack/"
+},
+{
+"text": "Rep. Smith discusses religious persecution on Fox’s Life, Liberty & Levin",
+"href": "https://smith4nj.com/rep-smith-discusses-religious-persecution-on-foxs-life-liberty-levin/"
+},
+{
+"text": "Rep. Smith secures federal grant for new police vehicles in Manchester",
+"href": "https://smith4nj.com/rep-smith-secures-federal-grant-for-new-police-vehicles-in-manchester/"
+},
+{
+"text": "Rep. Smith: Pass the Stop Forced Organ Harvesting Act",
+"href": "https://smith4nj.com/rep-smith-pass-the-stop-forced-organ-harvesting-act/"
+},
+{
+"text": "Rep. Smith’s bill names VA facility in honor of WWII hero",
+"href": "https://smith4nj.com/rep-smiths-bill-names-va-facility-in-honor-of-wwii-hero/"
+},
+{
+"text": "Smith announces $1.5 million EPA grant for Ocean County Utilities Authority",
+"href": "https://smith4nj.com/smith-announces-1-5-million-epa-grant-for-ocean-county-utilities-authority/"
+},
+{
+"text": "Volunteer",
+"href": "https://smith4nj.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@smith4nj.com"
+},
+{
+"text": "[image]",
+"href": "https://smith4nj.com/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/federal-government-halts-major-offshore-wind-projects-over-national-security-threats-echoing-rep-smiths-longtime-concerns/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/news/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-chris-smith-running-for-reelection/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-announces-2026-high-school-winners-of-his-congressional-art-competition/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-campaigns-at-turning-point-rally-vote-for-jack/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-discusses-religious-persecution-on-foxs-life-liberty-levin/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-pass-the-stop-forced-organ-harvesting-act/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-secures-federal-grant-for-new-police-vehicles-in-manchester/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smiths-bill-names-va-facility-in-honor-of-wwii-hero/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/smith-announces-1-5-million-epa-grant-for-ocean-county-utilities-authority/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Smith4NJ/"
+},
+{
+"text": "«Previous page",
+"href": "https://smith4nj.com/news/"
+},
+{
+"text": "»Next page",
+"href": "https://smith4nj.com/news/page/3/"
+}
 ]

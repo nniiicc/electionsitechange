@@ -1,9 +1,10 @@
-Robert Flournoy Jr.
-GA State Representative District 74
-Home
-Meet Robert
-Media
-Get Involved
-Contact
-More
-Join My Journey
+top of page Robert Flournoy Jr.
+GA State Representative District 74 ​ Home Meet Robert Media Get Involved Contact More Use tab to navigate through the menu items.
+DONATE VOLUNTEER Log In MEDIA/EVENTS Join My Journey Articles/Photos/Media Click the Article Link Below https://henryga.news/2024/05/28/flournoy-and-kahaian-win-2024-primaries-for-the-georgia-house/ https://reproductivefreedomforall.org/resources/georgia-lobby-day-fighting-for-reproductive-freedom-at-the-capitol/ https://henryga.news/2025/01/17/a-look-who-represents-henry-county-at-the-state-capitol/ https://www.savannahnow.com/story/news/politics/state/2024/12/29/georgias-21-freshmen-lawmakers-prepare-to-take-office/77064233007/ https://www.ajc.com/politics/new-georgia-lawmakers-vow-to-listen-learn-as-first-session-approaches/NXOSRSQEPBAW3HEKAHRZQO735E/ https://georgiarecorder.com/briefs/mother-of-woman-who-died-after-georgias-six-week-abortion-ban-calls-for-laws-repeal/ https://www.ajc.com/politics/politically-georgia/takeaways-from-georgia-lawmakers-gathering-in-athens/E3CWHRSV7RCOZNS6ELE2H7CRUA/ press to zoom press to zoom press to zoom press to zoom 1/16 ​Support State Rep.Robert Flournoy Jr.
+By supporting our cause you are helping to create real, lasting change in our community.
+Every contribution, no matter the size, brings us one step closer to achieving our goals.
+Together, we can make a meaningful difference and build a brighter future for everyone.
+Join us in this journey - your support matters!
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 STAY INFORMED AND FOLLOW US ON SOCIAL MEDIA Get the latest updates from the campaign trail Home Meet Robert Media Get Involved Contact Robert Flournoy Jr -GA STATE REPRESENTATIVE DISTRICT 74- Terms & Conditions Privacy Policy Accessibility Statement © # by Committee to Elect Robert Flournoy, Jr.
+Powered and secured by Wix District Information: 11345 Tara Blvd.
+Ste 4 Box# 144 Hampton, GA 30228 Phone: 470-502-3433 Capitol Information: 512-D Coverdell Legislative Office Building Atlanta, GA 30334 Office#: 404-656-7859 bottom of page

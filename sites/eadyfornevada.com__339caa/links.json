@@ -1,7 +1,38 @@
 [
-"https://eadyfornevada.com/",
-"https://facebook.com/profile.php?id=61562449416742",
-"https://instagram.com/eileen_eady",
-"https://secure.actblue.com/donate/eadyforassembly",
-"https://twitter.com/Eady4kids"
+{
+"text": "ABOUT",
+"href": "https://www.eadyfornevada.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.eadyfornevada.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eadyforassembly"
+},
+{
+"text": "Eileen@eadyfornevada.com",
+"href": "mailto:Eileen@eadyfornevada.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.eadyfornevada.com"
+},
+{
+"text": "Up",
+"href": "https://www.eadyfornevada.com"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/profile.php?id=61562449416742"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "https://twitter.com/Eady4kids"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/eileen_eady/"
+}
 ]

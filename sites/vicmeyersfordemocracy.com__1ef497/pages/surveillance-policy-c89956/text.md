@@ -1,20 +1,11 @@
-State Guardrails on Mass Surveillance
-Protecting Civil Liberties in the Digital Age
-📷 My Position on License Plate Reader Cameras
-Drawing a clear line on mass vehicle-tracking infrastructure
-Colorado should prohibit installation of automated license plate reader cameras on government-owned or government-controlled property.
+VIC MEYERS For Democracy Home About Vic Issues Get Involved Endorsements Get a Yard Sign Contact Donate State Guardrails on Mass Surveillance Protecting Civil Liberties in the Digital Age ← Back to All Issues 📷 My Position on License Plate Reader Cameras Drawing a clear line on mass vehicle-tracking infrastructure Colorado should prohibit installation of automated license plate reader cameras on government-owned or government-controlled property.
 This applies regardless of whether those systems are installed by public agencies or private contractors.
 Government agencies should also be prohibited from operating, accessing, purchasing, or relying on license plate reader surveillance data, even if that data is collected by private companies.
 Because the state would neither host nor access such data, it would also be prohibited from sharing or facilitating access to that data for federal agencies.
 This policy establishes a clear boundary: the state will neither host nor depend on mass vehicle-tracking infrastructure.
-Why This Matters
-This is not about opposing technology or weakening law enforcement.
-It is about protecting civil liberties, maintaining constitutional guardrails, and ensuring that surveillance infrastructure does not become normalized in public spaces.
+Why This Matters This is not about opposing technology or weakening law enforcement.
+It is about protecting civil liberties, maintaining constitutional guardrails, and ensuring that surveillance infrastructure does not become normalized in public spaces .
 Public safety is strongest when we invest in prevention—strong schools, stable housing, accessible healthcare, and economic opportunity—rather than building systems that monitor entire populations.
-Vic’s Platform
-- Prohibit government-hosted LPR cameras — No automated license plate readers on government-owned or government-controlled property, whether installed by public agencies or private contractors
-- Block government access to LPR data — State and local agencies should not operate, purchase, or rely on license plate surveillance data, even from private companies
-- No federal data sharing — Colorado will not share or facilitate access to mass surveillance data for federal agencies
-- Invest in real public safety — Fund prevention through strong schools, stable housing, accessible healthcare, and economic opportunity
-- Protect constitutional rights — Ensure surveillance infrastructure does not become normalized in public spaces
-Colorado can support effective law enforcement while preserving the freedoms that define a healthy democracy.
+Vic’s Platform Prohibit government-hosted LPR cameras — No automated license plate readers on government-owned or government-controlled property, whether installed by public agencies or private contractors Block government access to LPR data — State and local agencies should not operate, purchase, or rely on license plate surveillance data, even from private companies No federal data sharing — Colorado will not share or facilitate access to mass surveillance data for federal agencies Invest in real public safety — Fund prevention through strong schools, stable housing, accessible healthcare, and economic opportunity Protect constitutional rights — Ensure surveillance infrastructure does not become normalized in public spaces Colorado can support effective law enforcement while preserving the freedoms that define a healthy democracy. 📄 Download Full Policy (PDF) View All Issues Quick Links Home About Vic Issues Get Involved Contact Connect Contact Us Form YouTube @vicmeyers1243 Linktree Donate via ActBlue Follow Vic ▶ 🔗 © # Vic Meyers for Democracy.
+All rights reserved.
+Paid for by Vic Meyers for Democracy registered agent: Vic Meyers

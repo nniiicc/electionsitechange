@@ -1,30 +1,12 @@
-Gillen Announces More Than $1.8 Million in LSA Funding for 128th District Projects
-September 15, 2026
-HARRISBURG – Rep.
+PA State Rep.
+Mark Gillen Serving PA's 128th Legislative District Subscribe Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact Gillen Announces More Than $1.8 Million in LSA Funding for 128th District Projects September 15, 2026 HARRISBURG – Rep.
 Mark Gillen (R-Berks) today announced more than $1.8 million in Local Share Account (LSA) funding for 10 projects in Berks County, supporting infrastructure, emergency services, municipal operations and recreational improvements across the 128th District.
 “Municipalities, fire departments and other local organizations are responsible for maintaining the infrastructure and equipment our communities depend on, but those costs can add up quickly,” said Gillen.
-“Helping local leaders make necessary upgrades means better services, safer roads, stronger emergency response and well-maintained community facilities for the people they serve.”
-The funding will support the following projects:
-• Berks County Redevelopment Authority: $100,000 to rehabilitate the Clebrookdale Railroad Bridge in Douglass Township, including masonry repairs, retaining wall replacement, bridge seat improvements, a new guiderail and track approach improvements.
-• Birdsboro Borough: $77,773 to purchase a 2026 Jeep Gladiator Rubicon for the Birdsboro-Union Fire Department to improve emergency response in wooded and difficult-to-access areas.
-• Birdsboro Borough: $55,451 to replace a 2004 Ford F-350 used for daily municipal operations.
-• Douglass Township: $202,100 to replace a roughly 30-year-old backhoe used for road maintenance, stormwater management and emergency response.
-• Douglass Township: $300,000 to improve the Ganshahawny Park boat launch and surrounding facilities, including accessible paths, parking, emergency access, stormwater controls and recreational areas.
-• Exeter Township: $400,000 toward construction of a new 24,000-square-foot emergency services center for the Exeter Township Volunteer Fire Department to consolidate operations currently housed in two leased locations.
-• Geigertown Area Joint Authority: $222,000 to replace pumps and controls at two sewage pump stations in Union Township to improve system efficiency and reliability.
-• Robeson Township: $215,199 to purchase a boom mower for roadside vegetation management, right-of-way maintenance and improved visibility along transportation corridors.
-• Robeson Township: $72,434 to purchase and fully equip a patrol vehicle for the Robeson Township Police Department.
-• Union Township: $162,080 toward a new truck to replace a 1997 Ford used for road maintenance, snow removal, park maintenance and other municipal operations.
+“Helping local leaders make necessary upgrades means better services, safer roads, stronger emergency response and well-maintained community facilities for the people they serve.” The funding will support the following projects: • Berks County Redevelopment Authority : $100,000 to rehabilitate the Clebrookdale Railroad Bridge in Douglass Township, including masonry repairs, retaining wall replacement, bridge seat improvements, a new guiderail and track approach improvements. • Birdsboro Borough : $77,773 to purchase a 2026 Jeep Gladiator Rubicon for the Birdsboro-Union Fire Department to improve emergency response in wooded and difficult-to-access areas. • Birdsboro Borough : $55,451 to replace a 2004 Ford F-350 used for daily municipal operations. • Douglass Township : $202,100 to replace a roughly 30-year-old backhoe used for road maintenance, stormwater management and emergency response. • Douglass Township : $300,000 to improve the Ganshahawny Park boat launch and surrounding facilities, including accessible paths, parking, emergency access, stormwater controls and recreational areas. • Exeter Township : $400,000 toward construction of a new 24,000-square-foot emergency services center for the Exeter Township Volunteer Fire Department to consolidate operations currently housed in two leased locations. • Geigertown Area Joint Authority : $222,000 to replace pumps and controls at two sewage pump stations in Union Township to improve system efficiency and reliability. • Robeson Township : $215,199 to purchase a boom mower for roadside vegetation management, right-of-way maintenance and improved visibility along transportation corridors. • Robeson Township : $72,434 to purchase and fully equip a patrol vehicle for the Robeson Township Police Department. • Union Township : $162,080 toward a new truck to replace a 1997 Ford used for road maintenance, snow removal, park maintenance and other municipal operations.
 The Local Share Account program is funded by gaming revenues under Pennsylvania’s Race Horse Development and Gaming Act and administered by the Commonwealth Financing Authority.
 It supports projects that improve communities and quality of life across the Commonwealth.
 Representative Mark M.
-Gillen
-128th Legislative District
-Pennsylvania House of Representatives
-Media Contact: Will Jones
-717.260.6615
-wjones@pahousegop.com
-RepGillen.com | Facebook.com/RepGillen
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Gillen 128th Legislative District Pennsylvania House of Representatives Media Contact: Will Jones 717.260.6615 wjones@pahousegop.com RepGillen.com | Facebook.com/RepGillen Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations FLYING HILLS (CUMRU TWP.) 29 Village Center Drive Suite A-7 Reading, PA 19607 610-775-5130 AMITY TOWNSHIP Amity Township Building 2004 Weavertown Road Douglassville, PA 19518 610-385-0704 CAPITOL 18 East Wing PO Box 202128 Harrisburg, PA 17120-2128 717-787-8550 TTY: 855-282-0614 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact

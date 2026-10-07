@@ -1,9 +1,38 @@
 [
-"https://axtmanfornd.com/",
-"https://axtmanfornd.com/get-involved",
-"https://axtmanfornd.com/home",
-"https://axtmanfornd.com/meet-michelle",
-"https://axtmanfornd.com/news",
-"https://axtmanfornd.com/vote",
-"https://secure.winred.com/michelle-axtman-for-nd/donate-today"
+{
+"text": "Contact",
+"href": "https://axtmanfornd.com/home/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/michelle-axtman-for-nd/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://axtmanfornd.com/get-involved/"
+},
+{
+"text": "Meet Michelle",
+"href": "https://axtmanfornd.com/meet-michelle/"
+},
+{
+"text": "News",
+"href": "https://axtmanfornd.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://axtmanfornd.com/home/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://axtmanfornd.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://axtmanfornd.com/"
+},
+{
+"text": "[image]",
+"href": "https://axtmanfornd.com/home/"
+}
 ]

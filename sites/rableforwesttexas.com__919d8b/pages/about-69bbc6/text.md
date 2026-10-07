@@ -1,5 +1,4 @@
-Meet Kyle Rable
-Kyle Rable comes from a long line of working-class individuals and immigrants who worked hard to achieve the American Dream.
+0 Skip to Content About Issues Donate Get Involved Shop Endorsements Events Contact Open Menu Close Menu About Issues Donate Get Involved Shop Endorsements Events Contact Open Menu Close Menu About Issues Donate Get Involved Shop Endorsements Events Contact Meet Kyle Rable Kyle Rable comes from a long line of working-class individuals and immigrants who worked hard to achieve the American Dream.
 He is proud of his family’s history and has embraced the work ethic of those who emigrated from abroad and those who fought for this country’s independence.
 His family’s military background, fighting for American freedoms and against fascism, inspired him to do the same.
 Kyle followed in his parents’ footsteps and attended the University of Toledo, where he earned an Army ROTC scholarship.
@@ -13,3 +12,6 @@ He is running for Congress in 2026 to fight for all citizens of West Texas.
 Kyle Rable is a member of the U.S.
 Army Reserves.
 Use of his military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.
+Contact Kyle Kyle Rable for Congress Privacy Policy ‍ ‍ Terms & Conditions Contact campaign@rableforwesttexas.com PO Box 6145 Lubbock, TX 79493 (806) 589-3113 Paid for by Rable for West Texas Kyle Rable is a member of the U.S.
+Army Reserves.
+Use of his military rank, job titles, and photographs in uniform do not imply endorsement

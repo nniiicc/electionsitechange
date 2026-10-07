@@ -1,4 +1,4 @@
-I ran for the legislature for many reasons but one of them was to take on the challenges of a new career after my many years of work for the National Wildlife Federation.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate notes of a freshman legislator By Tom France / November 20, 2020 I ran for the legislature for many reasons but one of them was to take on the challenges of a new career after my many years of work for the National Wildlife Federation.
 While the results of the elections in Montana were devastating for Democrats, and while every Democratic legislator expects an extremely difficult session and many setbacks for progressive and democratic policies, the first couple of weeks of being a Representative-elect have been full of new experiences, most importantly and most enjoyably, the process of building new relationships with my legislative colleagues in the House Democratic caucus.
 On Wednesday, the caucus convened virtually and elected our leadership.
 As with any group of thirty-three people, there are all manner of personalities and a great diversity of outlooks and experiences.
@@ -16,3 +16,4 @@ I have no objection to legislators meeting private and deciding to take off thei
 But I’m just so puzzled by individuals who frame the masking decision as a personal choice when the real concern is about protecting other people from the spread of COVID.
 Just the first difference between the parties.
 I expect there will be more.
+Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

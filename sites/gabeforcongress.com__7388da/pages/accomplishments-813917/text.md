@@ -1,86 +1,15 @@
-Accomplishments
-Gabe Has Delivered
-for New Mexico
-What has Gabe done for New Mexico?
+Skip to content Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Facebook Instagram X-twitter DONATE Accomplishments Gabe Has Delivered for New Mexico What has Gabe done for New Mexico?
 Since being elected to Congress in 2022, Gabe has served under a Republican-controlled House of Representatives and has worked across the aisle to bring home real results for New Mexico’s 2nd district.
 Gabe has also fought tooth and nail to oppose the Administration’s extreme cuts to healthcare and food assistance, the attempted sell-off of millions of acres of New Mexico’s public lands, ICE’s targeting of Hispanic communities, and rampant corruption across all three branches of government.
 Gabe has served the district with a laser-focus on making a positive difference in the lives of the residents of New Mexico’s second district.
-Direct Federal Investment in New Mexico’s 2nd District
-Gabe has brought home hundreds of millions of dollars to New Mexico for smart investments in southern New Mexico’s economy and infrastructure, including:
-- $71 million for the Nogal Canyon Bridge Replacement outside Socorro
-- $61.8 million for the Mesa Grande Drive Extension in Las Cruces
-- $36.1 million for road improvements in Jal for infrastructure around WIPP
-- $63.8 million for heavy duty truck stops in Vado and Lordsburg
-- $30.7 million in Community Project Funding for 30 projects across the district, including investments in police stations, wastewater infrastructure, road maintenance, and more
-Money Returned to Constituents
-- Returned over $6 million back to New Mexicans from the IRS, VA, Social Security Administration, and more through constituent services
-- Making RECA real by helping New Mexicans secure $100,000 in RECA claim compensation they are owed by the government for nuclear testing
-Investments in Public Safety
-- Brought home over $3.75 million in federal Community Project Funding for local police departments and public safety, including new technology to stop criminals, police station upgrades, new vehicles, and more:
-- $1,069,000 investment in the ABQ Real Time Crime Center
-- $800,000 to bolster rural communication for the State Police
-- $500,000 to secure a Command Vehicle for Luna County
-- $500,000 in technology upgrades for the Bernalillo County Sheriff
-- $637,195 to build an Emergency Operation Center for Sierra County
-- $250,000 to upgrade the Carlsbad Police Department
-- Secured nearly $500,000 for Las Cruces Fire Department to expand paramedic training for local first responders
-- Secured over $3.4 million in federal funding for the New Mexico Department of Public Safety to combat gun violence, drug trafficking, substance abuse, and other violent crimes to improve public safety across New Mexico
-- Led and passed the Combatting Organized Retail Crime Act out of the House to help crack down on organized crime that keeps razors, shampoo, electronics, and every day goods locked up behind glass
-- Supported small law enforcement agencies by leading the bipartisan push to increase funding for recruitment and retention of officers
-- Introduced and/or supported 10 bills endorsed by the Fraternal Order of Police to combat criminal drone use, increase funding for departments with under 175 officers, and more
-- Fought against Trump Administration cuts to HIDTA, a key anti-drug trafficking program, and led the bipartisan Fight Fentanyl Act to re-fund it
-Protecting Our Public Lands
-- Stopped the largest attempted sell-off of New Mexico’s public lands in our nation’s history by working across party lines and founding the bipartisan Public Lands Caucus
-- Got his bipartisan bill to increase resources to combat wildfires in New Mexico signed into law by President Trump
-- Led and passed legislation through the House to create more wildlife habitat for New Mexico’s elk, deer, and pronghorn herds
-- Leading the fight to protect the Gila River with the M.H.
-Dutch Salmon Gila Wild and Scenic River Act
-Lower Healthcare Costs
-- Voted against the “One Big Beautiful Bill,” the right-wing Republican tax law that made sweeping cuts to healthcare and put rural hospitals in Socorro, Carlsbad, and Silver City at risk of closing — all to pay for massive tax breaks for wealthy elites
-- Led and passed a bipartisan bill into law to bring down healthcare costs for servicemembers, the TRICARE Travel Improvement Act
-- Making sure no New Mexican has to ration their insulin by leading the fight to cap the price of insulin and other prescription drugs
-- Leader in fight to ensure no New Mexican family is forced to live in fear of going into bankruptcy because they get sick with the Patient Debt Relief Act
-Lower Housing Costs
-- Voted with both Republicans and Democrats to deliver the biggest win on housing affordability in a generation, the 21st Century ROAD to Housing Act — a law to bring down housing prices in New Mexico
-- Leading the fight to stop greedy, out-of-state landlords from jacking up New Mexicans’ rent with his Keep Mobile Homes Affordable Act
-Wins for New Mexico’s Tribes and Pueblos
-- Leading the fight in Congress to protect Tribal sovereignty and defend New Mexico’s Tribes and Pueblos from rogue prediction markets that infringe on Tribal revenue
-- Delivered over $4 million directly to Indian Country for public safety, housing, and clean water
-- $2,900,000 for Pueblo of Acoma to build new housing for seniors
-- $1,092,000 for Ramah Navajo to protect and improve drinking water for the entire community
-- $900,000 to help Isleta Pueblo combat wildfires
-- Delivered increased funding to hold the Department of Defense accountable for the legacy of military testing and unexploded ordnance on Tribal lands
-- Fighting alongside New Mexico’s Tribal communities to deliver their long-overdue water settlements, securing a milestone hearing to advance this critical legislation
-- Leading the effort to better education in Indian Country with the Parity for Tribal Educators Act
-- Leading the Parity for Tribal Law Enforcement Act to improve public safety in Indian Country
-Wins for Farmers, Ranchers, and Rural Communities
-- Stood up to party leadership as one of the only Democrats to work with Republicans to pass the Farm Bill while securing nine major wins for New Mexico farmers, ranchers and Tribal communities – cutting red tape, protecting ranchers, and supporting small farmers
-- Stood up to both Democrats and Republicans to protect NM ranchers and stop foreign beef imports that would devastate the American ranching economy
-- Successfully restored $9 million in critical, bipartisan Secure Rural Schools funding to support schools, road maintenance, and first responders in rural communities in places like Catron, Sierra, Cibola, and Grant counties
-- Leader in the fight to protect New Mexico’s herds and ranchers’ livelihoods from the New World Screwworm
-- Voted to uphold New Mexicans’ ability to purchase the vehicle of their choice and keep New Mexico free from California’s electric vehicle mandate
-Support for the Working Class and Fighting Corruption
-- Leading the fight to stop greedy, out-of-state corporations from jacking up New Mexicans’ rent
-- Supports stronger bans on stock trading for members of Congress and the White House
-- Fighting to bring down the cost of healthcare, housing, food, utility bills, and more to help hardworking New Mexicans make ends meet
-- Leading a bipartisan legislative push to crack down on insider trading and corruption in prediction markets
-Protections for Democracy and Civil Rights
-- Opposed the SAVE America Act to protect eligible New Mexican citizens’ right to cast their ballot, especially members of Tribal and rural communities, veterans, and married women
-- Supports the DISCLOSE Act to keep foreign and dark money out of our elections
-- Supports the John R.
-Lewis Voting Rights Act to protect American citizens’ right to vote in the United States
-- Endorsed by End Citizens United for his work to get big money out of politics
-Protections for Abortion Access
-- Strongly opposes MAGA extremists’ efforts to ban all abortion, including in cases of rape and incest
-- Secured a 100% score from Reproductive Freedom for All
-- Supported the Women’s Health Protection Act to ensure that women are able to make their own healthcare decisions in consultation with their doctor and personal faith
-- Strongly supports the Protecting Reproductive Freedom Act to protect access to safe and effective medication abortion, a critical protection particularly for those living in rural and underserved communities across southern New Mexico
-Support for Labor
-- Putting energy workers above CEOs by with the Energy Workers Health Improvement and Compensation Fund Act to improve healthcare for energy workers in New Mexico’s Permian Basin
-- Strong supporter of the PRO Act to protect worker’s rights to come together and bargain for higher wages, better benefits and safe workplaces
-- Leading the fight to make no tax on tips permanent to help hardworking New Mexicans make ends meet
-Fighting to Keep the U.S.
-Out of Endless Forever Wars
-- Stands in opposition to the President’s reckless, expensive war in Iran that is driving up gas prices for New Mexicans
-- Joined multiple bipartisan efforts and voted repeatedly to stop taxpayer funding of endless wars in the Middle East
-- Was the first member of the New Mexico delegation to call for a ceasefire in the ongoing conflict in Gaza and stop American taxpayers from being forced to fund Israel’s ongoing wars
+Direct Federal Investment in New Mexico’s 2nd District Gabe has brought home hundreds of millions of dollars to New Mexico for smart investments in southern New Mexico’s economy and infrastructure, including: $71 million for the Nogal Canyon Bridge Replacement outside Socorro $61.8 million for the Mesa Grande Drive Extension in Las Cruces $36.1 million for road improvements in Jal for infrastructure around WIPP $63.8 million for heavy duty truck stops in Vado and Lordsburg $30.7 million in Community Project Funding for 30 projects across the district, including investments in police stations, wastewater infrastructure, road maintenance, and more Money Returned to Constituents Returned over $6 million back to New Mexicans from the IRS, VA, Social Security Administration, and more through constituent services Making RECA real by helping New Mexicans secure $100,000 in RECA claim compensation they are owed by the government for nuclear testing Investments in Public Safety Brought home over $3.75 million in federal Community Project Funding for local police departments and public safety , including new technology to stop criminals, police station upgrades, new vehicles, and more: $1,069,000 investment in the ABQ Real Time Crime Center $800,000 to bolster rural communication for the State Police $500,000 to secure a Command Vehicle for Luna County $500,000 in technology upgrades for the Bernalillo County Sheriff $637,195 to build an Emergency Operation Center for Sierra County $250,000 to upgrade the Carlsbad Police Department Secured nearly $500,000 for Las Cruces Fire Department to expand paramedic training for local first responders Secured over $3.4 million in federal funding for the New Mexico Department of Public Safety to combat gun violence, drug trafficking, substance abuse, and other violent crimes to improve public safety across New Mexico Led and passed the Combatting Organized Retail Crime Act out of the House to help crack down on organized crime that keeps razors, shampoo, electronics, and every day goods locked up behind glass Supported small law enforcement agencies by leading the bipartisan push to increase funding for recruitment and retention of officers Introduced and/or supported 10 bills endorsed by the Fraternal Order of Police to combat criminal drone use , increase funding for departments with under 175 officers , and more Fought against Trump Administration cuts to HIDTA , a key anti-drug trafficking program, and led the bipartisan Fight Fentanyl Act to re-fund it Protecting Our Public Lands Stopped the largest attempted sell-off of New Mexico’s public lands in our nation’s history by working across party lines and founding the bipartisan Public Lands Caucus Got his bipartisan bill to increase resources to combat wildfires in New Mexico signed into law by President Trump Led and passed legislation through the House to create more wildlife habitat for New Mexico’s elk, deer, and pronghorn herds Leading the fight to protect the Gila River with the M.H.
+Dutch Salmon Gila Wild and Scenic River Act Lower Healthcare Costs Voted against the “One Big Beautiful Bill,” the right-wing Republican tax law that made sweeping cuts to healthcare and put rural hospitals in Socorro, Carlsbad, and Silver City at risk of closing — all to pay for massive tax breaks for wealthy elites Led and passed a bipartisan bill into law to bring down healthcare costs for servicemembers, the TRICARE Travel Improvement Act Making sure no New Mexican has to ration their insulin by leading the fight to cap the price of insulin and other prescription drugs Leader in fight to ensure no New Mexican family is forced to live in fear of going into bankruptcy because they get sick with the Patient Debt Relief Act Lower Housing Costs Voted with both Republicans and Democrats to deliver the biggest win on housing affordability in a generation, the 21st Century ROAD to Housing Act — a law to bring down housing prices in New Mexico Leading the fight to stop greedy, out-of-state landlords from jacking up New Mexicans’ rent with his Keep Mobile Homes Affordable Act Wins for New Mexico’s Tribes and Pueblos Leading the fight in Congress to protect Tribal sovereignty and defend New Mexico’s Tribes and Pueblos from rogue prediction markets that infringe on Tribal revenue Delivered over $4 million directly to Indian Country for public safety, housing, and clean water $2,900,000 for Pueblo of Acoma to build new housing for seniors $1,092,000 for Ramah Navajo to protect and improve drinking water for the entire community $900,000 to help Isleta Pueblo combat wildfires Delivered increased funding to hold the Department of Defense accountable for the legacy of military testing and unexploded ordnance on Tribal lands Fighting alongside New Mexico’s Tribal communities to deliver their long-overdue water settlements, securing a milestone hearing to advance this critical legislation Leading the effort to better education in Indian Country with the Parity for Tribal Educators Act Leading the Parity for Tribal Law Enforcement Act to improve public safety in Indian Country Wins for Farmers, Ranchers, and Rural Communities Stood up to party leadership as one of the only Democrats to work with Republicans to pass the Farm Bill while securing nine major wins for New Mexico farmers, ranchers and Tribal communities – cutting red tape, protecting ranchers, and supporting small farmers Stood up to both Democrats and Republicans to protect NM ranchers and stop foreign beef imports that would devastate the American ranching economy Successfully restored $9 million in critical, bipartisan Secure Rural Schools funding to support schools, road maintenance, and first responders in rural communities in places like Catron, Sierra, Cibola, and Grant counties Leader in the fight to protect New Mexico’s herds and ranchers’ livelihoods from the New World Screwworm Voted to uphold New Mexicans’ ability to purchase the vehicle of their choice and keep New Mexico free from California’s electric vehicle mandate Support for the Working Class and Fighting Corruption Leading the fight to stop greedy, out-of-state corporations from jacking up New Mexicans’ rent Supports stronger bans on stock trading for members of Congress and the White House Fighting to bring down the cost of healthcare, housing, food, utility bills, and more to help hardworking New Mexicans make ends meet Leading a bipartisan legislative push to crack down on insider trading and corruption in prediction markets Protections for Democracy and Civil Rights Opposed the SAVE America Act to protect eligible New Mexican citizens’ right to cast their ballot, especially members of Tribal and rural communities, veterans, and married women Supports the DISCLOSE Act to keep foreign and dark money out of our elections Supports the John R.
+Lewis Voting Rights Act to protect American citizens’ right to vote in the United States Endorsed by End Citizens United for his work to get big money out of politics Protections for Abortion Access Strongly opposes MAGA extremists’ efforts to ban all abortion, including in cases of rape and incest Secured a 100% score from Reproductive Freedom for All Supported the Women’s Health Protection Act to ensure that women are able to make their own healthcare decisions in consultation with their doctor and personal faith Strongly supports the Protecting Reproductive Freedom Act to protect access to safe and effective medication abortion, a critical protection particularly for those living in rural and underserved communities across southern New Mexico Support for Labor Putting energy workers above CEOs by with the Energy Workers Health Improvement and Compensation Fund Act to improve healthcare for energy workers in New Mexico’s Permian Basin Strong supporter of the PRO Act to protect worker’s rights to come together and bargain for higher wages, better benefits and safe workplaces Leading the fight to make no tax on tips permanent to help hardworking New Mexicans make ends meet Fighting to Keep the U.S.
+Out of Endless Forever Wars Stands in opposition to the President’s reckless, expensive war in Iran that is driving up gas prices for New Mexicans Joined multiple bipartisan efforts and voted repeatedly to stop taxpayer funding of endless wars in the Middle East Was the first member of the New Mexico delegation to call for a ceasefire in the ongoing conflict in Gaza and stop American taxpayers from being forced to fund Israel’s ongoing wars Share: Join Our Team First Name Last Name Email Zip Code Cell Phone Get Updates By providing your cell phone number you consent to receive recurring updates from Gabe Vasquez for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy.
+Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Gabe Vasquez has represented New Mexico’s 2nd Congressional District in the House of Representatives since 2022.
+He is running for re-election in one of the most competitives races in the nation.
+Support his campaign by making a donation here .
+575-202-8870 [email protected] Facebook Instagram X-twitter contributions can be mailed to: Gabe Vasquez for Congress Drawer L, Mesilla, NM 88046 Media Paid for by Gabe Vasquez for Congress Privacy Policy

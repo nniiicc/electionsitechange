@@ -1,12 +1,46 @@
 [
-"https://facebook.com/MelissaHurtadoCA",
-"https://instagram.com/mhurtadoca",
-"https://melissahurtado.com/",
-"https://melissahurtado.com/contact",
-"https://melissahurtado.com/endorsements",
-"https://melissahurtado.com/media-copy",
-"https://melissahurtado.com/news",
-"https://secure.actblue.com/donate/melissa-hurtado",
-"https://x.com/MHurtadoCA",
-"https://youtube.com/watch?v=X5lOiPyviYE"
+{
+"text": "Contact",
+"href": "https://www.melissahurtado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melissa-hurtado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.melissahurtado.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.melissahurtado.com/"
+},
+{
+"text": "Media",
+"href": "https://www.melissahurtado.com/news"
+},
+{
+"text": "News",
+"href": "https://www.melissahurtado.com/media-copy"
+},
+{
+"text": "[image: Melissa Hurtado for State Senate]",
+"href": "https://www.melissahurtado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MelissaHurtadoCA"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mhurtadoca/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=X5lOiPyviYE"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MHurtadoCA"
+}
 ]

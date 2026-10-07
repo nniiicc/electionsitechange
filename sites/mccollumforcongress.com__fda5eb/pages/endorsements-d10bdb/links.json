@@ -1,84 +1,346 @@
 [
-"https://actorsequity.org/",
-"https://afacwa.org/",
-"https://afge.org/",
-"https://afscmemn.org/",
-"https://aft.org/",
-"https://anewpolicypac.org/",
-"https://animalwellnessaction.org/",
-"https://apfa.org/",
-"https://ble-t.org/",
-"https://bmwe.org/default.aspx",
-"https://boundarywatersaction.org/",
-"https://bradypac.org/",
-"https://bsky.app/profile/votebetty.bsky.social",
-"https://cairaction.org/",
-"https://centeractionfund.org/",
-"https://cfequality.org/",
-"https://cleanwater.org/",
-"https://committeetoprotect.org/",
-"https://commondefense.us/",
-"https://dfl.org/",
-"https://dflaapi.org/",
-"https://dflec.org/",
-"https://dflfeminist.org/",
-"https://dflruralcaucus.org/",
-"https://dflseniors.org/",
-"https://educationminnesota.org/",
-"https://electdemocraticwomen.org/",
-"https://facebook.com/betty.mccollum1",
-"https://feministmajoritypac.org/",
-"https://forms.gle/mx6tnWPSKqjRoFBF9",
-"https://friendsaction-bwca.org/",
-"https://giffords.org/",
-"https://hrc.org/",
-"https://humaneaction.org/",
-"https://ibew110.org/",
-"https://instagram.com/votebettymn04",
-"https://iupat82.org/",
-"https://jc32.org/",
-"https://jstreetpac.org/",
-"https://lcv.org/",
-"https://local455.com/",
-"https://mccollum.house.gov/",
-"https://mccollumforcongress.com/",
-"https://mccollumforcongress.com/about",
-"https://mccollumforcongress.com/cart",
-"https://mccollumforcongress.com/endorsements",
-"https://mccollumforcongress.com/get-involved",
-"https://mccollumforcongress.com/media",
-"https://mccollumforcongress.com/news",
-"https://mccollumforcongress.com/volunteer",
-"https://mccollumforcongress.com/vote",
-"https://mentalhealthnow.us/",
-"https://minnesotaprofessionalfirefighters.org/",
-"https://mnaflcio.org/",
-"https://mobilize.us/bettymccollumforcongress",
-"https://momsdemandaction.org/",
-"https://mppoa.com/",
-"https://nea.org/",
-"https://newtownactionalliance.org/",
-"https://nmcarpenters.com/",
-"https://nowpac.org/",
-"https://nrdcactionfund.org/",
-"https://nteu.org/",
-"https://nwpc.org/",
-"https://plannedparenthoodaction.org/",
-"https://populationconnectionaction.org/",
-"https://region4.uaw.org/",
-"https://reproductivefreedomforall.org/",
-"https://retiredamericans.org/",
-"https://secure.actblue.com/donate/betty-mccollum-2?amount=25",
-"https://seiumn.org/",
-"https://sierraclub.org/",
-"https://smart-union.org/",
-"https://socialworkers.org/advocacy/political-action-for-candidate-election-pace",
-"https://stpaulunions.org/",
-"https://threads.com/@votebettymn04",
-"https://ufcw1189.org/",
-"https://usw.org/",
-"https://womenwinning.org/",
-"https://x.com/VoteBetty",
-"https://youngdfl.org/",
-"https://youtube.com/@VoteBetty"
+{
+"text": "0",
+"href": "https://www.mccollumforcongress.com/cart"
+},
+{
+"text": "About Betty",
+"href": "https://www.mccollumforcongress.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.mccollumforcongress.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/betty-mccollum-2?amount=25"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mccollumforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/bettymccollumforcongress/"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.mccollumforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mccollumforcongress.com/"
+},
+{
+"text": "Lawn Sign",
+"href": "https://forms.gle/mx6tnWPSKqjRoFBF9"
+},
+{
+"text": "Media",
+"href": "https://www.mccollumforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.mccollumforcongress.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mccollumforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.mccollumforcongress.com/vote"
+},
+{
+"text": "[image: A New Policy PAC]",
+"href": "https://www.anewpolicypac.org/"
+},
+{
+"text": "[image: Actors' Equity Association]",
+"href": "https://actorsequity.org/"
+},
+{
+"text": "[image: Alliance for Retired Americans]",
+"href": "https://retiredamericans.org/"
+},
+{
+"text": "[image: American Federation of Government Employees (AFGE)]",
+"href": "https://www.afge.org/"
+},
+{
+"text": "[image: American Federation of State, County and Municipal Employees (AFSCME) Council 5]",
+"href": "https://afscmemn.org/"
+},
+{
+"text": "[image: American Federation of Teachers (AFT)]",
+"href": "https://www.aft.org/"
+},
+{
+"text": "[image: Animal Wellness Action]",
+"href": "https://animalwellnessaction.org/"
+},
+{
+"text": "[image: Association of Flight Attendants (AFA)-CWA]",
+"href": "https://afacwa.org/"
+},
+{
+"text": "[image: Association of Professional Flight Attendants (APFA)]",
+"href": "https://www.apfa.org/"
+},
+{
+"text": "[image: Betty McCollum for Congress]",
+"href": "https://www.mccollumforcongress.com/"
+},
+{
+"text": "[image: Brady PAC]",
+"href": "https://bradypac.org/"
+},
+{
+"text": "[image: Brotherhood of Locomotive Engineers and Trainmen (BLET)]",
+"href": "https://ble-t.org/"
+},
+{
+"text": "[image: Brotherhood of Maintenance of Way Employes (BMWE)]",
+"href": "https://www.bmwe.org/default.aspx"
+},
+{
+"text": "[image: Center for Biological Diversity Action Fund]",
+"href": "https://centeractionfund.org/"
+},
+{
+"text": "[image: Center for Freethought Equality (CFE) PAC]",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "[image: Clean Water Action]",
+"href": "https://cleanwater.org/"
+},
+{
+"text": "[image: Committee to Protect Health Care]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image: Common Defense]",
+"href": "https://commondefense.us/"
+},
+{
+"text": "[image: Council on American-Islamic Relations (CAIR) Action]",
+"href": "https://cairaction.org/"
+},
+{
+"text": "[image: DFL Asian American Pacific Islander (AAPI) Caucus]",
+"href": "https://www.dflaapi.org/"
+},
+{
+"text": "[image: DFL Environmental Caucus]",
+"href": "https://dflec.org/"
+},
+{
+"text": "[image: DFL Feminist Caucus]",
+"href": "https://www.dflfeminist.org/"
+},
+{
+"text": "[image: DFL Rural Caucus]",
+"href": "https://www.dflruralcaucus.org/"
+},
+{
+"text": "[image: DFL Senior Caucus]",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "[image: Education Minnesota]",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "[image: Elect Democratic Women]",
+"href": "https://electdemocraticwomen.org/"
+},
+{
+"text": "[image: Feminist Majority PAC]",
+"href": "https://feministmajoritypac.org/"
+},
+{
+"text": "[image: Friends of the Boundary Waters Action Network]",
+"href": "https://friendsaction-bwca.org/"
+},
+{
+"text": "[image: GIFFORDS PAC]",
+"href": "https://giffords.org/"
+},
+{
+"text": "[image: Human Rights Campaign PAC]",
+"href": "https://www.hrc.org/"
+},
+{
+"text": "[image: Humane World Action Fund]",
+"href": "https://humaneaction.org/"
+},
+{
+"text": "[image: International Association of Sheet Metal, Air, Rail and Transportation Workers-Transportation Division (SMART-TD)]",
+"href": "https://www.smart-union.org/"
+},
+{
+"text": "[image: International Brotherhood of Electrical Workers (IBEW) Local Union 110]",
+"href": "https://www.ibew110.org/"
+},
+{
+"text": "[image: International Brotherhood of Teamsters Joint Council 32]",
+"href": "https://www.jc32.org/"
+},
+{
+"text": "[image: International Union of Painters and Allied Trades (IUPAT) District Council 82]",
+"href": "https://iupat82.org/"
+},
+{
+"text": "[image: JStreetPAC]",
+"href": "https://jstreetpac.org/"
+},
+{
+"text": "[image: League of Conservation Voters (LCV) Action Fund]",
+"href": "https://www.lcv.org/"
+},
+{
+"text": "[image: Mental Health Now Candidate Distinction]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image: Minnesota American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)]",
+"href": "https://mnaflcio.org/"
+},
+{
+"text": "[image: Minnesota Democratic-Farmer-Labor (DFL) Party ]",
+"href": "https://dfl.org/"
+},
+{
+"text": "[image: Minnesota Police and Peace Officers Association (MPPOA)]",
+"href": "https://www.mppoa.com/"
+},
+{
+"text": "[image: Minnesota Professional Fire Fighters (MPFF) Association]",
+"href": "https://www.minnesotaprofessionalfirefighters.org/"
+},
+{
+"text": "[image: Minnesota Young DFL (MYDFL)]",
+"href": "https://www.youngdfl.org/"
+},
+{
+"text": "[image: Moms Demand Action Gun Sense Candidate Distinction]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: National Association of Social Workers (NASW)-Political Action for Candidate Election (PACE)]",
+"href": "https://www.socialworkers.org/advocacy/political-action-for-candidate-election-pace"
+},
+{
+"text": "[image: National Education Association (NEA)]",
+"href": "https://www.nea.org/"
+},
+{
+"text": "[image: National Organization for Women (NOW) PAC]",
+"href": "https://www.nowpac.org/"
+},
+{
+"text": "[image: National Treasury Employees Union (NTEU)]",
+"href": "https://www.nteu.org/"
+},
+{
+"text": "[image: National Women's Political Caucus (NWPC)]",
+"href": "https://nwpc.org/"
+},
+{
+"text": "[image: Natural Resources Defense Council (NRDC) Action Fund]",
+"href": "https://www.nrdcactionfund.org/"
+},
+{
+"text": "[image: Newtown Action Alliance]",
+"href": "https://www.newtownactionalliance.org/"
+},
+{
+"text": "[image: Northern Midwest Regional Council of Carpenters (NMRCC)]",
+"href": "https://www.nmcarpenters.com/"
+},
+{
+"text": "[image: Planned Parenthood Action Fund (PPAF)]",
+"href": "https://www.plannedparenthoodaction.org/"
+},
+{
+"text": "[image: Population Connection Action Fund]",
+"href": "https://www.populationconnectionaction.org/"
+},
+{
+"text": "[image: Reproductive Freedom for All (RFFA)]",
+"href": "https://reproductivefreedomforall.org/"
+},
+{
+"text": "[image: Saint Paul Regional Labor Federation (SPRLF)]",
+"href": "https://stpaulunions.org/"
+},
+{
+"text": "[image: Save the Boundary Waters Action Fund]",
+"href": "https://www.boundarywatersaction.org/"
+},
+{
+"text": "[image: Service Employees International Union (SEIU) Minnesota State Council]",
+"href": "https://www.seiumn.org/"
+},
+{
+"text": "[image: Sierra Club]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: Steamfitters Pipefitters Local 455]",
+"href": "https://local455.com/"
+},
+{
+"text": "[image: United Auto Workers (UAW) Region 4]",
+"href": "https://region4.uaw.org/"
+},
+{
+"text": "[image: United Food and Commercial Workers (UFCW) Local 1189]",
+"href": "https://ufcw1189.org/"
+},
+{
+"text": "[image: United Steelworkers (USW) District 11]",
+"href": "https://usw.org/"
+},
+{
+"text": "[image: Women Winning]",
+"href": "https://womenwinning.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.mccollumforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votebetty.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/betty.mccollum1"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebettymn04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votebettymn04"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VoteBetty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteBetty"
+},
+{
+"text": "click here",
+"href": "https://mccollum.house.gov"
+},
+{
+"text": "info@mccollumforcongress.com",
+"href": "mailto:info@mccollumforcongress.com"
+}
 ]

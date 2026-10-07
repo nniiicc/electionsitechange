@@ -1,10 +1,4 @@
-Back to All Events
-Join Georgia Majority for Gun Safety for Champions for Change, their first annual Leadership Awards and Year in Review event.
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Back to All Events Champions for Change Saturday, August 22, 2026 4:30 PM 7:30 PM Google Calendar ICS Join Georgia Majority for Gun Safety for Champions for Change, their first annual Leadership Awards and Year in Review event.
 Sign up below!
-Previous
-Previous
-August 9
-Chastain Park Canvass
-Next
-Next
-August 23
+Source: https://www.georgiamajority.org/events/champions-for-change Previous Previous August 9 Chastain Park Canvass Next Next August 23 Canvass with Georgia Majority info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

@@ -1,6 +1,4 @@
-I’m Running to Represent District 24A — Let’s Get to Work
-My Friends,
-I hope this holiday season finds you in good health and full of joy!
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact I’m Running to Represent District 24A — Let’s Get to Work Dec 22 Written By Heather Holmes My Friends, I hope this holiday season finds you in good health and full of joy!
 Today I am making an announcement that I never envisioned making.
 I am excited to announce my candidacy as a DFL candidate for Minnesota House District 24A.
 This was not a decision I made lightly, and after much consideration, I am thrilled to have the full support of my family behind me as we embark on this new journey over the next year.
@@ -26,5 +24,5 @@ I would be honored if you would come along with me on this adventure representin
 There are many ways you can be a part of this campaign: volunteering your time, reaching out and sharing the issues that are most important to you, sharing our message with your neighbors, or making a donation.
 I'm extremely excited about this next year and hope you are too.
 So, if you're ready, pull up a seat and let's get to work!
-Heather
-You can learn more about our campaign at: heatherholmes4mnhouse.com
+Heather You can learn more about our campaign at: heatherholmes4mnhouse.com Heather Holmes Previous Previous Byron School Board member receives DFL endorsement for District 24A Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

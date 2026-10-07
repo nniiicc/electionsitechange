@@ -1,32 +1,16 @@
-PARA PUBLICACIÓN INMEDIATA
-February 20, 2026
-Contacto: press@jjr.vote, 786-683-8781
-Esta semana marcó otro capítulo catastrófico para el fiscal general de Florida, James Uthmeier, una semana definida no por la responsabilidad o la integridad, sino por los titulares relacionados con el dinero, el favoritismo y la corrupción.
+EN ES Inicio Acerca de Prioridades Media Respaldos Involúcrate DONAR PARA PUBLICACIÓN INMEDIATA February 20, 2026 Contacto: press@jjr.vote , 786-683-8781 EN ES A medida que aumentan las cuestiones de corrupción, otra semana controvertida para el fiscal general James Uthmeier Esta semana marcó otro capítulo catastrófico para el fiscal general de Florida, James Uthmeier, una semana definida no por la responsabilidad o la integridad, sino por los titulares relacionados con el dinero, el favoritismo y la corrupción.
 Desde la creación de una nueva «Unidad de Corrupción Pública» cuando aún estaba siendo objeto de escrutinio por su propio papel en el escándalo de Hope Florida, hasta la defensa de un trabajo paralelo financiado por los contribuyentes con seis cifras y las preguntas sin respuesta sobre decenas de millones en gastos de emergencia, el patrón es cada vez más imposible de ignorar.
-Cuando el principal agente del orden público del estado se encuentra reiteradamente en el centro de controversias financieras, es inevitable que surjan serias dudas sobre la supervisión.
-José Javier Rodríguez, candidato demócrata a Fiscal General, emitió la siguiente declaración:
-«Ya sea que estés intentando explicar por qué 100 000 dólares por dos horas a la semana 'no es una locura, 'o por qué decenas de millones de dólares de los contribuyentes se destinan a un cruel centro de detención sin auditorías ni transparencia, ya has perdido el complot.
-Es el mismo fiscal general que ahora está dando conferencias sobre la corrupción, mientras que aún quedan dudas sobre la transferencia de 10 millones de dólares de Hope Florida que obtuvo un comité político que él presidió.
-«Los floridanos tienen problemas con las facturas del seguro, el alquiler, los servicios públicos y los supermercados, y nadie en Tallahassee se está esforzando.
+Cuando el principal agente del orden público del estado se encuentra reiteradamente en el centro de controversias financieras, es inevitable que surjan serias dudas sobre la supervisión. ‍ José Javier Rodríguez, candidato demócrata a Fiscal General, emitió la siguiente declaración: ‍ «Ya sea que estés intentando explicar por qué 100 000 dólares por dos horas a la semana 'no es una locura, 'o por qué decenas de millones de dólares de los contribuyentes se destinan a un cruel centro de detención sin auditorías ni transparencia, ya has perdido el complot.
+Es el mismo fiscal general que ahora está dando conferencias sobre la corrupción, mientras que aún quedan dudas sobre la transferencia de 10 millones de dólares de Hope Florida que obtuvo un comité político que él presidió. ‍ «Los floridanos tienen problemas con las facturas del seguro, el alquiler, los servicios públicos y los supermercados, y nadie en Tallahassee se está esforzando.
 La tarea del Procurador General es proteger al público, no proteger sus propios intereses políticos y financieros.
 Eso cambia en noviembre.
-Estoy listo para ser el próximo fiscal general de Florida».
-He aquí un análisis más detallado de la semana llena de escándalos de Uthmeier:
-Política de Florida: James Uthmeier lanza una nueva Unidad de Corrupción Pública que analiza las asignaciones legislativas
-«La nueva unidad llega después de aproximadamente un año de conflicto entre Uthmeier y algunos legisladores estatales».
-«La Fundación Hope Florida fue objeto de escrutinio después de que se conociera la noticia de que la organización había recibido 10 millones de dólares de un acuerdo de Medicaid que debía ir a parar a las arcas estatales.
+Estoy listo para ser el próximo fiscal general de Florida». ‍ He aquí un análisis más detallado de la semana llena de escándalos de Uthmeier: ‍ Política de Florida: James Uthmeier lanza una nueva Unidad de Corrupción Pública que analiza las asignaciones legislativas ‍ «La nueva unidad llega después de aproximadamente un año de conflicto entre Uthmeier y algunos legisladores estatales». ‍ «La Fundación Hope Florida fue objeto de escrutinio después de que se conociera la noticia de que la organización había recibido 10 millones de dólares de un acuerdo de Medicaid que debía ir a parar a las arcas estatales.
 Posteriormente, gran parte de ese dinero terminó en manos del comité Keep Florida Clean presidido por Uthmeier para luchar contra la legalización de la marihuana en 2024.
-Uthmeier era el jefe de gabinete de DeSantis en ese momento».
-Miami Herald: Cómo James Uthmeier se convirtió en uno de los políticos más poderosos de Florida
-«Al mismo tiempo, Uthmeier no ha podido eludir las preguntas y críticas sobre su conexión con el escándalo político de Hope Florida.
+Uthmeier era el jefe de gabinete de DeSantis en ese momento». ‍ Miami Herald: Cómo James Uthmeier se convirtió en uno de los políticos más poderosos de Florida ‍ «Al mismo tiempo, Uthmeier no ha podido eludir las preguntas y críticas sobre su conexión con el escándalo político de Hope Florida.
 Un legislador estatal lo acusó de cometer delitos relacionados con la transferencia de fondos de un acuerdo estatal con un contratista de Medicaid a un comité político que controlaba mientras trabajaba para el gobernador.
 Se está llevando a cabo una investigación del gran jurado.
-Uthmeier y DeSantis han negado haber actuado mal».
-Política de Florida: El «servidor público» James Uthmeier dice que necesita un trabajo de profesor adjunto de 6 cifras para apoyar a la «familia en crecimiento»
-«Uthmeier sugiere que, en todo caso, no se le paga lo suficiente en comparación con lo que ganaban otros en su posición».
-Orlando Sentinel: Maxwell: ¿92 millones de dólares para orinales portátiles? ¿Grandes gastos en 'Alligator Alcatraz'
-«Con pocos controles y contrapesos, y sin auditorías, la administración del gobernador Ron DeSantis ha gastado cientos de millones de dólares en nombre de una «emergencia» de inmigración.
-Una parte fue repartida en ofertas sin puja.
-Algunas para empresas que hicieron por primera vez donaciones de campaña al gobernador y al Partido Republicano».
-«Un informe publicado la semana pasada por el Fénix de Florida descubrió que el estado gastó más de 400 millones de dólares en solo seis meses, y la mayor parte se destinó a una sola empresa que se especializa en orinales portátiles».
-###
+Uthmeier y DeSantis han negado haber actuado mal». ‍ Política de Florida: El «servidor público» James Uthmeier dice que necesita un trabajo de profesor adjunto de 6 cifras para apoyar a la «familia en crecimiento» ‍ «Uthmeier sugiere que, en todo caso, no se le paga lo suficiente en comparación con lo que ganaban otros en su posición». ‍ Orlando Sentinel: Maxwell: ¿92 millones de dólares para orinales portátiles? ¿Grandes gastos en 'Alligator Alcatraz' ‍ «Con pocos controles y contrapesos, y sin auditorías, la administración del gobernador Ron DeSantis ha gastado cientos de millones de dólares en nombre de una «emergencia» de inmigración.
+Una parte fue repartida en ofertas sin puja .
+Algunas para empresas que hicieron por primera vez donaciones de campaña al gobernador y al Partido Republicano». ‍ «Un informe publicado la semana pasada por el Fénix de Florida descubrió que el estado gastó más de 400 millones de dólares en solo seis meses, y la mayor parte se destinó a una sola empresa que se especializa en orinales portátiles».
+### Inicio Acerca de Prioridades Media RESPALDOS Involúcrate Donar Para cualquier consulta de prensa, ponte en contacto con press@jjr.vote Dirección postal: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 ANUNCIO POLÍTICO PAGADO Y APROBADO POR JOSE JAVIER RODRIGUEZ, DEMÓCRATA, PARA EL FISCAL GENERAL DE FLORIDA February 20, 2026

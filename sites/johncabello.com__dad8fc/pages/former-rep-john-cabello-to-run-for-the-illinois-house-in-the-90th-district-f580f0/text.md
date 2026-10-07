@@ -1,4 +1,5 @@
-MACHESNEY PARK, Ill.
+Facebook Twitter Contact Donate About Media Videos Recent Posts Endorsements Events Get Involved Voter Info Voter Registration Select Page Former Rep.
+John Cabello to run for the Illinois House in the 90th District by Admin | Apr 5, 2022 | Media | MACHESNEY PARK, Ill.
 (WIFR) – Former State Representative John Cabello announced his bid for the newly drawn 90th District Illinois House seat on Friday.
 The 90th District is half of the Illinois Senate seat currently represented by State Senator Brian Stewart.
 “First and foremost, I want to thank State Senator Brian Stewart for his support of my candidacy and his friendship.
@@ -10,4 +11,8 @@ I have always fought the good fight opposing taxes and higher spending but more 
 They have jeopardized our public safety with a Criminal Justice Reform bill that hampers law enforcement and makes legal what should be illegal.
 I will work to repeal that legislation either in part or in whole and work for legislation that protects our citizens, and law enforcement officers,” said Cabello.
 John Cabello has been a police detective for decades and has served on the Harlem Township Board, the Winnebago County Board, and the Illinois House.
+Copyright # WIFR.
 All rights reserved.
+About Media Endorsements Events Get Involved Voter Info Paid for by Citizens for John M.
+Cabello.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

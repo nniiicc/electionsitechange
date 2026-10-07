@@ -1,11 +1,42 @@
 [
-"https://facebook.com/lisafinkforaz",
-"https://instagram.com/lisafinkaz",
-"https://lisafinkaz.com/",
-"https://lisafinkaz.com/about",
-"https://lisafinkaz.com/contact",
-"https://lisafinkaz.com/get-involved",
-"https://lisafinkaz.com/issues",
-"https://x.com/LisaFink4AZ",
-"https://youtube.com/@LisaFink-AZLD27"
+{
+"text": "About",
+"href": "https://www.lisafinkaz.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lisafinkaz.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisafinkaz.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lisafinkaz.com"
+},
+{
+"text": "Issues",
+"href": "https://www.lisafinkaz.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lisafinkforaz"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lisafinkaz/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/LisaFink4AZ"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@LisaFink-AZLD27"
+},
+{
+"text": "lisafinkforarizona@gmail.com",
+"href": "mailto:lisafinkforarizona@gmail.com"
+}
 ]

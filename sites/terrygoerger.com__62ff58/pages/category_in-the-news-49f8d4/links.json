@@ -1,12 +1,54 @@
 [
-"https://secure.winred.com/terry-goerger-for-nd/donate",
-"https://terrygoerger.com/",
-"https://terrygoerger.com/category/in-the-news",
-"https://terrygoerger.com/get-involved",
-"https://terrygoerger.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary",
-"https://terrygoerger.com/home",
-"https://terrygoerger.com/luick-goerger-lead-district-25-legislative-races-in-early-returns",
-"https://terrygoerger.com/terry-goerger-announces-candidacy-for-north-dakota-house-of-representatives-in-district-25",
-"https://terrygoerger.com/vote",
-"https://terrygoerger.com/wyndmere-senior-center-building-campaign-reaches-85-of-goal-after-10000-donation"
+{
+"text": "CONTACT",
+"href": "https://terrygoerger.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/terry-goerger-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://terrygoerger.com/get-involved/"
+},
+{
+"text": "Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary",
+"href": "https://terrygoerger.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary/"
+},
+{
+"text": "In the News",
+"href": "https://terrygoerger.com/category/in-the-news/"
+},
+{
+"text": "Luick, Goerger lead District 25 legislative races in early returns",
+"href": "https://terrygoerger.com/luick-goerger-lead-district-25-legislative-races-in-early-returns/"
+},
+{
+"text": "Meet Terry",
+"href": "https://terrygoerger.com/home/#about"
+},
+{
+"text": "NEWS",
+"href": "https://terrygoerger.com/home/#NEWS"
+},
+{
+"text": "PRIORITIES",
+"href": "https://terrygoerger.com/#priorities"
+},
+{
+"text": "Terry Goerger Announces Candidacy for North Dakota House of Representatives in District 25",
+"href": "https://terrygoerger.com/terry-goerger-announces-candidacy-for-north-dakota-house-of-representatives-in-district-25/"
+},
+{
+"text": "Vote",
+"href": "https://terrygoerger.com/vote/"
+},
+{
+"text": "Wyndmere senior center building campaign reaches #% of goal after $# donation",
+"href": "https://terrygoerger.com/wyndmere-senior-center-building-campaign-reaches-85-of-goal-after-10000-donation/"
+},
+{
+"text": "[image]",
+"href": "https://terrygoerger.com/"
+}
 ]

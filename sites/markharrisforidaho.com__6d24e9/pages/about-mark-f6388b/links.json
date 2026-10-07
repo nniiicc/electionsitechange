@@ -1,7 +1,30 @@
 [
-"https://markharrisforidaho.com/",
-"https://markharrisforidaho.com/about-mark",
-"https://markharrisforidaho.com/contact-mark",
-"https://markharrisforidaho.com/issues-1",
-"https://markharrisforidaho.com/volunteer"
+{
+"text": "About Mark",
+"href": "https://www.markharrisforidaho.com/about-mark"
+},
+{
+"text": "Contact Mark",
+"href": "https://www.markharrisforidaho.com/contact-mark"
+},
+{
+"text": "Get Involved",
+"href": "https://www.markharrisforidaho.com/volunteer"
+},
+{
+"text": "Issues",
+"href": "https://www.markharrisforidaho.com/issues-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markharrisforidaho.com/volunteer"
+},
+{
+"text": "[image: Mark Harris for Idaho]",
+"href": "https://www.markharrisforidaho.com/"
+},
+{
+"text": "mark@harrisforidaho.com",
+"href": "mailto:mark@harrisforidaho.com"
+}
 ]

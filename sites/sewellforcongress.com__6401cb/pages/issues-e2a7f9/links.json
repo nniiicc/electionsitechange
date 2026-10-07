@@ -1,20 +1,78 @@
 [
-"https://facebook.com/sewell4congress",
-"https://instagram.com/sewell4congress",
-"https://secure.actblue.com/donate/website-23",
-"https://sewellforcongress.com/",
-"https://sewellforcongress.com/about-terri",
-"https://sewellforcongress.com/affordability",
-"https://sewellforcongress.com/education",
-"https://sewellforcongress.com/healthcare",
-"https://sewellforcongress.com/historic-preservation",
-"https://sewellforcongress.com/infrastructure",
-"https://sewellforcongress.com/issues",
-"https://sewellforcongress.com/news-listing",
-"https://sewellforcongress.com/photos",
-"https://sewellforcongress.com/privacy-policy",
-"https://sewellforcongress.com/seniors",
-"https://sewellforcongress.com/veterans",
-"https://sewellforcongress.com/voting-rights",
-"https://twitter.com/sewell4congress"
+{
+"text": "About Terri",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "About Terri Sewell",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/website-23"
+},
+{
+"text": "Issues",
+"href": "https://sewellforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://sewellforcongress.com/news-listing/"
+},
+{
+"text": "Photos",
+"href": "https://sewellforcongress.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sewellforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: logo-header]",
+"href": "https://sewellforcongress.com"
+},
+{
+"text": "[image] Affordability",
+"href": "https://sewellforcongress.com/affordability/"
+},
+{
+"text": "[image] Education",
+"href": "https://sewellforcongress.com/education/"
+},
+{
+"text": "[image] Healthcare",
+"href": "https://sewellforcongress.com/healthcare/"
+},
+{
+"text": "[image] Historic Preservation",
+"href": "https://sewellforcongress.com/historic-preservation/"
+},
+{
+"text": "[image] Infrastructure",
+"href": "https://sewellforcongress.com/infrastructure/"
+},
+{
+"text": "[image] Seniors",
+"href": "https://sewellforcongress.com/seniors/"
+},
+{
+"text": "[image] Veterans",
+"href": "https://sewellforcongress.com/veterans/"
+},
+{
+"text": "[image] Voting Rights",
+"href": "https://sewellforcongress.com/voting-rights/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sewell4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sewell4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sewell4congress/"
+}
 ]

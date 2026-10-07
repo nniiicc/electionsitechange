@@ -1,18 +1,74 @@
 [
-"http://eepurl.com/g_Ikk5",
-"https://davidthomasforohio.com/",
-"https://davidthomasforohio.com/about",
-"https://davidthomasforohio.com/about-3",
-"https://davidthomasforohio.com/blog-1",
-"https://davidthomasforohio.com/get-involved",
-"https://davidthomasforohio.com/my-subscriptions",
-"https://davidthomasforohio.com/notifications",
-"https://docs.google.com/forms/d/e/1FAIpQLSeM1pDqn5o5nvgkBuyn3kbkcPumcZRmAoCoAbA48PmU4MJPjg/viewform?usp=sf_link",
-"https://facebook.com/friendsofdavidthomas",
-"https://instagram.com/davidthomasoh",
-"https://ohiohouse.gov/members/david-thomas/legislation",
-"https://secure.winred.com/friends-of-david-thomas/donate",
-"https://tiktok.com/@davidthomasforohio?is_from_webapp=1&sender_device=pc",
-"https://twitter.com/davidthomasoh",
-"https://x.com/DavidThomasOH"
+{
+"text": "About",
+"href": "https://www.davidthomasforohio.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.davidthomasforohio.com/get-involved"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/friends-of-david-thomas/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davidthomasforohio.com/about-3"
+},
+{
+"text": "Home",
+"href": "https://www.davidthomasforohio.com"
+},
+{
+"text": "Legislation",
+"href": "https://ohiohouse.gov/members/david-thomas/legislation"
+},
+{
+"text": "My Subscriptions",
+"href": "https://www.davidthomasforohio.com/my-subscriptions"
+},
+{
+"text": "News",
+"href": "https://www.davidthomasforohio.com/blog-1"
+},
+{
+"text": "Newsletter Signup",
+"href": "http://eepurl.com/g_Ikk5"
+},
+{
+"text": "Notifications",
+"href": "https://www.davidthomasforohio.com/notifications"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeM1pDqn5o5nvgkBuyn3kbkcPumcZRmAoCoAbA48PmU4MJPjg/viewform?usp=sf_link"
+},
+{
+"text": "[image: 1776829841083(1)(1).png]",
+"href": "https://www.davidthomasforohio.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/friendsofdavidthomas/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/davidthomasoh/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@davidthomasforohio?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/davidthomasoh"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/DavidThomasOH"
+},
+{
+"text": "david@davidthomasforohio.com",
+"href": "mailto:david@davidthomasforohio.com"
+}
 ]

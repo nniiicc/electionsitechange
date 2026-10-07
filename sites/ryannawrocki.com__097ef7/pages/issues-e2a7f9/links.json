@@ -1,37 +1,174 @@
 [
-"https://avenuenews.com/news/local/now-you-know-maryland-s-energy-crisis/article_d34f2dc7-224d-4d43-b468-fafa6f58defc.html",
-"https://cbsnews.com/baltimore/news/maryland-legislation-inspector-general-statewide-oversight",
-"https://cbsnews.com/baltimore/news/maryland-petition-energy-bills-taxes-fees-wes-moore",
-"https://facebook.com/ryanformaryland",
-"https://foxbaltimore.com/fox45-in-depth/ryan-nawrocki-perspective-blueprint-plan-potential-changes",
-"https://foxbaltimore.com/fox45-mornings/del-nawrockis-priorities-ahead-of-2026-legislative-session",
-"https://foxbaltimore.com/news/local/maryland-lawmaker-slams-state-assembly-for-loopholes-fueling-squatter-placement-underworld",
-"https://instagram.com/ryanformaryland",
-"https://linkedin.com/in/ryan-nawrocki-b4b614114",
-"https://ryannawrocki.com/",
-"https://ryannawrocki.com/admin",
-"https://ryannawrocki.com/contact",
-"https://ryannawrocki.com/events",
-"https://ryannawrocki.com/issues",
-"https://ryannawrocki.com/issues/air-national-guard-flying-mission",
-"https://ryannawrocki.com/issues/bcps-inspector-general-oversight",
-"https://ryannawrocki.com/issues/eastern-avenue-traffic",
-"https://ryannawrocki.com/issues/hb202-anti-squatters",
-"https://ryannawrocki.com/issues/housing-expansion-act",
-"https://ryannawrocki.com/issues/inspector-general-reform",
-"https://ryannawrocki.com/issues/marylands-energy-crisis",
-"https://ryannawrocki.com/issues/middle-river-fire-station",
-"https://ryannawrocki.com/issues/power-lines-and-brandon-shores",
-"https://ryannawrocki.com/issues/war-on-drivers",
-"https://ryannawrocki.com/meet-ryan",
-"https://ryannawrocki.com/priorities",
-"https://ryannawrocki.com/privacy-policy",
-"https://ryannawrocki.com/terms",
-"https://secure.anedot.com/nawrocki/donate",
-"https://twitter.com/ryanformaryland",
-"https://wmar2news.com/local/push-back-on-plans-to-retire-a-10-warthogs",
-"https://wmar2news.com/news/region/baltimore-county/eastern-boulevard-traffic-safety-study-the-focus-of-a-community-meeting",
-"https://youtube.com/channel/UCkZrn8AT1kHP4uS7uH2bhXg",
-"https://youtube.com/watch?v=MQDoKcv3Fuc",
-"https://youtube.com/watch?v=bxmAKrhGvkA"
+{
+"text": "443-814-9640",
+"href": "tel:443-814-9640"
+},
+{
+"text": "About",
+"href": "https://www.ryannawrocki.com/meet-ryan"
+},
+{
+"text": "Admin",
+"href": "https://www.ryannawrocki.com/admin"
+},
+{
+"text": "Avenue NewsNow You Know: Maryland's Energy Crisis (op-ed)",
+"href": "https://www.avenuenews.com/news/local/now-you-know-maryland-s-energy-crisis/article_d34f2dc7-224d-4d43-b468-fafa6f58defc.html"
+},
+{
+"text": "Contact",
+"href": "https://www.ryannawrocki.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/nawrocki/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/nawrocki/donate"
+},
+{
+"text": "Events",
+"href": "https://www.ryannawrocki.com/events"
+},
+{
+"text": "FOX45Del. Nawrocki's priorities ahead of the 2026 session",
+"href": "https://foxbaltimore.com/fox45-mornings/del-nawrockis-priorities-ahead-of-2026-legislative-session"
+},
+{
+"text": "FOX45Lawmaker slams loopholes fueling the squatter underworld (Spotlight)",
+"href": "https://foxbaltimore.com/news/local/maryland-lawmaker-slams-state-assembly-for-loopholes-fueling-squatter-placement-underworld"
+},
+{
+"text": "FOX45On the future of the Blueprint education plan (In Depth)",
+"href": "https://foxbaltimore.com/fox45-in-depth/ryan-nawrocki-perspective-blueprint-plan-potential-changes"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ryanformaryland"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ryannawrocki.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.ryannawrocki.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/ryanformaryland"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/ryan-nawrocki-b4b614114/"
+},
+{
+"text": "News",
+"href": "https://www.ryannawrocki.com/issues"
+},
+{
+"text": "Priorities",
+"href": "https://www.ryannawrocki.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ryannawrocki.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.ryannawrocki.com/terms"
+},
+{
+"text": "Updates",
+"href": "https://www.ryannawrocki.com/issues"
+},
+{
+"text": "WJZ / CBSGOP lawmakers call on Moore to halt energy taxes and fees",
+"href": "https://www.cbsnews.com/baltimore/news/maryland-petition-energy-bills-taxes-fees-wes-moore/"
+},
+{
+"text": "WJZ / CBSProposed statewide Inspector General office",
+"href": "https://www.cbsnews.com/baltimore/news/maryland-legislation-inspector-general-statewide-oversight/"
+},
+{
+"text": "WMAR-2Eastern Boulevard traffic-safety study community meeting",
+"href": "https://www.wmar2news.com/news/region/baltimore-county/eastern-boulevard-traffic-safety-study-the-focus-of-a-community-meeting"
+},
+{
+"text": "WMAR-2Push back on plans to retire the A-10 'Warthogs'",
+"href": "https://www.wmar2news.com/local/push-back-on-plans-to-retire-a-10-warthogs"
+},
+{
+"text": "Watch on YouTube",
+"href": "https://www.youtube.com/watch?v=MQDoKcv3Fuc"
+},
+{
+"text": "Watch on YouTube",
+"href": "https://www.youtube.com/watch?v=bxmAKrhGvkA"
+},
+{
+"text": "X",
+"href": "https://twitter.com/ryanformaryland"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCkZrn8AT1kHP4uS7uH2bhXg"
+},
+{
+"text": "[image: A Baltimore County public school classroom]Government AccountabilityPut Baltimore County's schools under the watchdog's eye.A $2.49 billion school budget deserves real, independent oversight. Our bipartisan bill lets the County's Inspector General follow those dollars to the classroom.Feb 2026 · 5 min readRead",
+"href": "https://www.ryannawrocki.com/issues/bcps-inspector-general-oversight"
+},
+{
+"text": "[image: A volunteer fire engine in its station bay]Public Safety & Local WinsA new home for Middle River's volunteer firefighters.$9 million in federal funding will replace the aging Middle River Volunteer Fire & Rescue station with the modern facility our first responders have earned.Mar 2026 · 3 min readRead",
+"href": "https://www.ryannawrocki.com/issues/middle-river-fire-station"
+},
+{
+"text": "[image: Delegate Nawrocki at Martin State Airport in front of the American flag]National Security & Local EconomySay NO to removing the flying mission of the Maryland Air National Guard.Eliminating Maryland’s flying mission would erase 545 careers and the only joint-force fighter operation in the nation.Sep 2024 · 6 min readRead",
+"href": "https://www.ryannawrocki.com/issues/air-national-guard-flying-mission"
+},
+{
+"text": "[image: Delegate Nawrocki at a press conference with the Maryland flag]Housing & Property RightsMaryland must protect property owners from squatters.Common-sense legislation to protect Maryland homeowners, hold criminals accountable, and restore the rule of law.Jan 2025 · 5 min readRead",
+"href": "https://www.ryannawrocki.com/issues/hb202-anti-squatters"
+},
+{
+"text": "[image: Delegate Nawrocki meeting with constituents alongside Delegate Szeliga]Local IssuesEastern Avenue traffic — enough is enough.Working with SHA, Senator Jennings, Councilman Marks, and Delegate Szeliga to slow down Eastern Boulevard.Jul 2025 · 4 min readRead",
+"href": "https://www.ryannawrocki.com/issues/eastern-avenue-traffic"
+},
+{
+"text": "[image: Delegate Nawrocki speaking on the floor of the Maryland House of Delegates]HousingDangerous Baltimore County and State housing bills.Why the Housing Expansion and Affordability Act removes protections counties have spent years requesting.Mar 2024 · 5 min readRead",
+"href": "https://www.ryannawrocki.com/issues/housing-expansion-act"
+},
+{
+"text": "[image: Delegate Nawrocki taking notes at his desk in the House of Delegates]TaxesThe War on Drivers — 338 new or increased taxes and fees.Tracking the 338 new or increased taxes and fees laid upon Marylanders by the Moore Administration.Jun 2024 · 5 min readRead",
+"href": "https://www.ryannawrocki.com/issues/war-on-drivers"
+},
+{
+"text": "[image: Delegate Nawrocki touring a Baltimore County industrial facility]Energy & EnvironmentStop the power lines. Keep Brandon Shores open.Power lines through our farmlands and the fight to keep our reliable energy infrastructure online.Feb 2025 · 6 min readRead",
+"href": "https://www.ryannawrocki.com/issues/power-lines-and-brandon-shores"
+},
+{
+"text": "[image: Ryan Nawrocki — State Delegate]",
+"href": "https://www.ryannawrocki.com/"
+},
+{
+"text": "[image: Ryan at a Maryland Freedom Caucus press conference calling for lower electric bills]Energy & EnvironmentNow You Know: Maryland's Energy CrisisA substation failure at Brandon Shores left thousands in the dark and forced BGE to warn Marylanders to conserve power. The grid crisis is here — and Annapolis policy made it worse.Aug 2025 · 4 min readRead",
+"href": "https://www.ryannawrocki.com/issues/marylands-energy-crisis"
+},
+{
+"text": "[image: The Maryland State House in Annapolis]Government Accountability· Feb 2026· 5 min readA statewide watchdog for Maryland taxpayers.In the 2026 session I introduced HB1449 to give Maryland what it has never had at the state level: a truly independent watchdog with the authority to follow the money wherever it leads.Read the full story",
+"href": "https://www.ryannawrocki.com/issues/inspector-general-reform"
+},
+{
+"text": "[image]WMAR-2",
+"href": "https://www.youtube.com/watch?v=MQDoKcv3Fuc"
+},
+{
+"text": "[image]WMAR-2",
+"href": "https://www.youtube.com/watch?v=bxmAKrhGvkA"
+},
+{
+"text": "ryan@ryannawrocki.com",
+"href": "mailto:ryan@ryannawrocki.com"
+}
 ]

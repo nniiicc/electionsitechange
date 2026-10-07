@@ -1,5 +1,4 @@
-Meet Lyn
-Representative Lyn Hellegaard is a community leader that homeowners in the Garden City TRUST.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate Meet Lyn Representative Lyn Hellegaard is a community leader that homeowners in the Garden City TRUST.
 Lyn was raised in Missoula, and after graduating from Sentinel High School she soon began a career as a local banker.
 With her husband Steve, the Hellegaards raised two children and started a small business- yet they also found it important to stay active in the community by volunteering for a variety of local civic organizations.
 As she watched her neighbors struggle under high taxes caused by government overspending, Lyn Hellegaard developed an interest in politics.
@@ -18,3 +17,5 @@ We need people who are willing to push back against government spending.
 Eliminating the budget tricks, providing transparency to the taxpayers, and developing real long-term solutions.
 It’s what she did while representing Ward 4 on City Council and it’s what she did as the HD97 representative in the 2023 legislature.
 And it’s exactly how she’ll continue to serve you.
+Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

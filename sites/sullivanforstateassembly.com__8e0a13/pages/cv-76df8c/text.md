@@ -1,25 +1,23 @@
-About Tom
-Work Experience
-United States Army Reserve Colonel
-Tom Sullivan served for over 30 years in the United States Army Reserve, retiring with the rank of Colonel.
+top of page EARLY VOTING: OCTOBER 24–NOVEMBER 1 • ELECTION DAY: NOVEMBER 3 DONATE About Get Involved Endorsements Issues DONATE EARLY VOTING: OCTOBER 24–NOVEMBER 1 • ELECTION DAY: NOVEMBER 3 About Tom Previous 01 02 03 04 05 06 07 08 09 10 Next 01 / 10 Close Previous Next 01 02 03 04 05 06 07 08 09 10 Work Experience United States Army Reserve Colonel Tom Sullivan served for over 30 years in the United States Army Reserve, retiring with the rank of Colonel.
 During his military career, he completed combat deployments to Kuwait, Iraq, and Afghanistan, leading soldiers and managing complex missions both at home and overseas.
 His decades of service reflect a lifelong commitment to leadership, duty, and serving his country.
-Small Business Owner and Financial Advisor
-For more than 30 years, Tom Sullivan built a successful career in the financial industry while helping manage his family's nearly 90-year-old business.
+Small Business Owner and Financial Advisor For more than 30 years, Tom Sullivan built a successful career in the financial industry while helping manage his family's nearly 90-year-old business.
 His experience in finance and small business has given him firsthand insight into the challenges facing working families, entrepreneurs, and local employers.
-Father
-Tom Sullivan is most proud to be a father.
+Father Tom Sullivan is most proud to be a father.
 He and his wife raised their three children, Sean, Jack, and Grace, and have always made family their top priority.
 Being a father has been one of the greatest joys and responsibilities of his life, shaping the values of hard work, dedication, and service that guide him today.
 Of all the titles he has held, father is the one he considers the most meaningful.
-Community Leader
-Thomas Sullivan has always been committed to serving his community.
+Community Leader Thomas Sullivan has always been committed to serving his community.
 As a member of the Breezy Point Cooperative Board of Directors, he helped lead the rebuilding effort after Hurricane Sandy, when more than 350 homes were destroyed.
 Through his involvement in local organizations and community groups, Thomas continues to work to support and strengthen the neighborhoods he calls home.
-Education
-Mount St Mary's University
+Education Mount St Mary's University Thomas Sullivan earned his college degree and MBA from Mount Saint Mary’s University.
+While there, he also served as an Assistant Professor of Military Science for the ROTC program, helping train and mentor future military leaders.
 Thomas Sullivan earned his college degree and MBA from Mount Saint Mary’s University.
 While there, he also served as an Assistant Professor of Military Science for the ROTC program, helping train and mentor future military leaders.
-US Army War College
+US Army War College Thomas Sullivan is a graduate of the U.S.
+Army War College in Carlisle, Pennsylvania, where he earned a Master’s degree in Military Strategic Studies and further developed his leadership and strategic planning skills.
 Thomas Sullivan is a graduate of the U.S.
 Army War College in Carlisle, Pennsylvania, where he earned a Master’s degree in Military Strategic Studies and further developed his leadership and strategic planning skills.
+Website Managed by Tripple Crown Strategies LLC Privacy Policy Terms & Conditions Paid for by Sullivan for State Assembly.
+Powered and secured by Wix sullivanforstateassembly@gmail.com 718-734-8788 Join Our Mailing List Join the campaign to receive updates on Tom Sullivan’s priorities, events, volunteer opportunities, and important campaign news.
+Email address * Yes, I agree to receive campaign updates, volunteer opportunities, donation information, and other communications from Sullivan For State Assembly. * Join Now bottom of page

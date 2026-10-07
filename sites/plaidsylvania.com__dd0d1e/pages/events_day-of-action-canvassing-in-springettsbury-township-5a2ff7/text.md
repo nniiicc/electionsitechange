@@ -1,10 +1,3 @@
-Back to All Events
-Meet at Springettsbury Park Amphitheater.
+0 Skip to Content Plaidsylvania Events Subscribe to Edward's Newsletter Donate Open Menu Close Menu Donate Plaidsylvania Events Subscribe to Edward's Newsletter Open Menu Close Menu Events Subscribe to Edward's Newsletter Donate Back to All Events Day of Action - Canvassing in Springettsbury Township Saturday, August 15, 2026 3:00 PM 5:30 PM Springettsbury Park Amphitheater 1501 Mount Zion Road York, Pennsylvania, 17402 United States (map) Google Calendar ICS Meet at Springettsbury Park Amphitheater.
 Wear comfortable shoes and bring water.
-Previous
-Previous
-August 13
-Town Hall with Edward Ritter and Konnor Grimek
-Next
-Next
-September 24
+Previous Previous August 13 Town Hall with Edward Ritter and Konnor Grimek Next Next September 24 Town Hall with Krista Anderson Paid for by Plaidsylvania Made with Squarespace

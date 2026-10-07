@@ -1,12 +1,6 @@
-TRACEY SCHROEDER FOR ASSEMBLY 46
-Como residente del Valle de tercera generación, Tracey ha servido a nuestra comunidad durante más de dos décadas como maestra galardonada.
+TRACEY SCHROEDER FOR ASSEMBLY 46 Home About Issues Espanol Meet & Greet Contact Gallery Donate More Home About Issues Espanol Meet & Greet Contact Gallery Donate Home About Issues Espanol Meet & Greet Contact Gallery Donate VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46 Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Valley Teacher & Neighbor Ready to fight for valley needs Bienvenido Como residente del Valle de tercera generación, Tracey ha servido a nuestra comunidad durante más de dos décadas como maestra galardonada.
 Sus experiencias en la gobernanza escolar local y nacional, así como su trabajo voluntario internacional, la han preparado para representar nuestras necesidades en Sacramento.
 Tracey es egresada de la UCLA y obtuvo su maestría en psicología PGI.
 Tracey cree en calles libres de delincuencia, negocios prósperos, escuelas excepcionales y libertad de religión.
-Problemas principales
-12
-15
-22
-Add a description about this item
-Add a description about this category
-Proteja el futuro de California con la profesora que obtiene los resultados
+Find out more Problemas principales Soluciones Derechos de los padres y de los niños Problemas principales Proteger los deportes de las niñas 12 Proteger la inocencia de los niños 15 Defender la participación de los padres en las escuelas 22 Add a description about this item Seguridad pública Add a description about this category Asegurar consecuencias para el comportamiento criminal 12 Add a description about this item Detener la trata de personas 15 Add a description about this item DETENER EL INGRESO de Fentanilo 22 PRIORIZAR MEJORES ESCUELAS Add a description about this category Financiación académica basada en los resultados 12 Add a description about this item Tamaños de clase más bajos 15 Add a description about this item Restauración de oficios/formación laboral 22 Sintencho - Soluciones Add a description about this category Incentivar la atención basada en los resultados 12 Add a description about this item Aumentar los centros de salud mental 15 Add a description about this item El problema de la falta de vivienda 22 IMPUESTOS MÁS BAJOS Add a description about this category Reducir los impuestos a las pequeñas empresas 12 Add a description about this item Reducir el impuesto sobre la gasolina 15 Add a description about this item Exigir responsabilidad fiscal 22 Proteja el futuro de California con la profesora que obtiene los resultados Meet & Greet Gallery Donate Tracey Schroeder for Assembly 46 Copyright © # Tracey Schroeder - All Rights Reserved.
+Powered by

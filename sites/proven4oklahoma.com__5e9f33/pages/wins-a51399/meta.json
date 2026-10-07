@@ -1,9 +1,12 @@
 {
  "description": "Provenzano&#39;s Key Wins",
  "final_url": "https://www.proven4oklahoma.com/wins",
- "paid_for_by": null,
+ "fingerprint": "0d0d0b87b4ddf0f60876c0259ab6a408fd1e9675",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Key Wins",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

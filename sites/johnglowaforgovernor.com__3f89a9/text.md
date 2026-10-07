@@ -1,9 +1,5 @@
-ICE and the Federal Government
-ICE stands for Immigration and Customs Enforcement.
-Unfortunately, it has become Donald Trump’s personal gestapo.
-No governor of a state should ever be put in
-Charting a New Course for Maine
-THANK YOU!
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute A Leader for Maine’s Future John Glowa, Sr., Independent for Governor 2026 Join Our Team!
+Charting a New Course for Maine THANK YOU!
 Thank you to the well over four thousand registered Maine voters who signed my gubernatorial nomination petition!
 I submitted more than four thousand certified names to the Secretary of State.
 However, Shenna Bellows’ Bureau of Elections illegally removed enough certified signatures to put my total at 3,996.
@@ -17,21 +13,22 @@ It is working only for those in power and the favored special interests.
 The rest of us are left to fight over the crumbs.
 If you are interested in helping with this people’s campaign, or if you would like me to come to speak, please let me know by contacting me through this website.
 Thank you!
-Welcome to the Glowa for Governor website.
+A Leader—Not a Politician Welcome to the Glowa for Governor website.
 My name is John M.
 Glowa, Sr. and I want to be our next governor as an independent.
 Let me be very clear.
 I am not part of the Augusta political establishment so I need your help to put together a true grassroots campaign of the people, by the people and for the people.
 If you want a governor who is the typical career politician who will tell you what you want to hear just to get your vote, you can stop reading.
 If you want a governor who is not a politician, who will tell you the truth, who has had a career in public service, and who knows how government is supposed to work, I hope you’ll consider me.
-From The Blog
-I supported the Pine Tree Power referendum to purchase Central Maine Power and Versant. https://www.maine.gov/meopa/electricity/utilities I still support purchasing these two entities and forming a
-https://www.yahoo.com/news/articles/retired-dep-employee-third-independent-210034712.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHHIKqa2oaR66omnPzRkf0U2ySfTltMnShPJn3MfAKCXPDeND_xqKHqAOsKTdMZyJ14UOB9mM_VVyo3vex8s4hjMn2PrfWcHmzNhKEME-yW_Q_W8UbGrr_8WQHlN08_zhjZMWAvRtXWLvad9i8E1ujyaHz-EwSwfwjmMHMXqlvRH
-https://mainemorningstar.com/briefs/retired-dep-employee-is-third-independent-to-join-the-race-for-governor
-https://spectrumlocalnews.com/me/maine/politics/2025/08/07/retired-maine-state-worker-announces-run-for-governor-in-2026
-FOR IMMEDIATE RELEASE August 6, 2025 John M.
-Glowa, Sr. announces an independent bid for governor of Maine State retiree and longtime environmental and wildlife
-Our nation is in trouble.
+More About Me From The Blog Policies & Issues ICE and the Federal Government ICE stands for Immigration and Customs Enforcement.
+Unfortunately, it has become Donald Trump’s personal gestapo.
+No governor of a state should ever be put in Read More » Energy I supported the Pine Tree Power referendum to purchase Central Maine Power and Versant. https://www.maine.gov/meopa/electricity/utilities I still support purchasing these two entities and forming a Read More » Yahoo News https://www.yahoo.com/news/articles/retired-dep-employee-third-independent-210034712.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHHIKqa2oaR66omnPzRkf0U2ySfTltMnShPJn3MfAKCXPDeND_xqKHqAOsKTdMZyJ14UOB9mM_VVyo3vex8s4hjMn2PrfWcHmzNhKEME-yW_Q_W8UbGrr_8WQHlN08_zhjZMWAvRtXWLvad9i8E1ujyaHz-EwSwfwjmMHMXqlvRH Read More » Maine Morning Star https://mainemorningstar.com/briefs/retired-dep-employee-is-third-independent-to-join-the-race-for-governor Read More » Spectrum News https://spectrumlocalnews.com/me/maine/politics/2025/08/07/retired-maine-state-worker-announces-run-for-governor-in-2026 Read More » John Glowa, Sr.
+Announces Gubernatorial Candidacy FOR IMMEDIATE RELEASE August 6, 2025 John M.
+Glowa, Sr. announces an independent bid for governor of Maine State retiree and longtime environmental and wildlife Read More » ICE and the Federal Government ICE stands for Immigration and Customs Enforcement.
+Unfortunately, it has become Donald Trump’s personal gestapo.
+Read More » Energy I supported the Pine Tree Power referendum to purchase Central Maine Power and Versant. https://www.maine.gov/meopa/electricity/utilities Read More » Yahoo News https://www.yahoo.com/news/articles/retired-dep-employee-third-independent-210034712.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHHIKqa2oaR66omnPzRkf0U2ySfTltMnShPJn3MfAKCXPDeND_xqKHqAOsKTdMZyJ14UOB9mM_VVyo3vex8s4hjMn2PrfWcHmzNhKEME-yW_Q_W8UbGrr_8WQHlN08_zhjZMWAvRtXWLvad9i8E1ujyaHz-EwSwfwjmMHMXqlvRH Read More » Maine Morning Star https://mainemorningstar.com/briefs/retired-dep-employee-is-third-independent-to-join-the-race-for-governor Read More » Spectrum News https://spectrumlocalnews.com/me/maine/politics/2025/08/07/retired-maine-state-worker-announces-run-for-governor-in-2026 Read More » John Glowa, Sr.
+Announces Gubernatorial Candidacy FOR IMMEDIATE RELEASE August 6, 2025 John M.
+Glowa, Sr. announces an independent bid for Read More » Why I want to be your Governor Our nation is in trouble.
 Maine is in trouble.
 Children are dying needlessly of abuse and neglect.
 Thousands of Mainers are homeless while rent and home prices are skyrocketing.
@@ -58,7 +55,11 @@ Party labels cause too many of us to fail or refuse to see others viewpoints.
 If we are to survive, we must stop tearing each other down and start building each other up.
 Mainers are good people.
 As governor, I pledge to do my best to find common ground and to work with everyone to make Maine the best it can be.
-Help John Glowa, Sr. become our next Governor
-Thousands of Maine voters signed to put Glowa on the ballot.
+Help John Glowa, Sr. become our next Governor Get Involved Thousands of Maine voters signed to put Glowa on the ballot.
 Now we need your help again.
 Use this form to contact us about getting involved, taking action, or helping make sure those voters’ voices are heard.
+Your Name Your Email Your Phone Your Address Subject Message Submit Prefer to call?
+Reach me at 207-660-3801.
+John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

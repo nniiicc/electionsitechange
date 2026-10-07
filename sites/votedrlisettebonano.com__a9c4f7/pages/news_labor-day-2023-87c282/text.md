@@ -1,4 +1,5 @@
-America celebrates Labor Day on the first Monday in September to honor and recognize the American labor movement and the great contributions laborers have made to the development, achievements, and freedoms of the United States.
+Vote LT COL Lisette Bonano: Mother, Soldier, Leader!
+Home News & Updates Calendar Endorsements Volunteer Contact Voting Info Donate Back to News & Updates LABOR DAY 2023 09/02/23 • Election Information America celebrates Labor Day on the first Monday in September to honor and recognize the American labor movement and the great contributions laborers have made to the development, achievements, and freedoms of the United States.
 The greatness of America and the progress we have made in the last 247 years cannot be understated.
 Whereas the civilizations of Europe and Asia could build upon thousands of years of development, construction, and urban planning, everything in the United States had to be built from the ground up in less than 10% of that time.
 While the civilizations of Europe and Asia often stagnated and collapsed due to the inflexibility of their entrenched elites, American workers proved to be unparalleled innovators, rising to the top ranks of society, exemplifying the upward mobility of those who work hard and learn fast.
@@ -7,7 +8,7 @@ When World War II erupted, America became the “Arsenal of Democracy,” rising
 The unmatched productivity and innovation of our workers churned out unbeatable numbers of technologically superior weaponry, enabling America to arm not only ourselves, but all our allies as well.
 Without the prodigious feats of American labor, the Free World would not have been able to repel the threat of Fascism – and later, during the Cold War, to hold fast against the threat of Communism.
 In this century, while Chinese workers suffer under an authoritarian regime and European workers suffer under tax rates that exceed 50%, American workers traditionally have enjoyed the rightful fruits of their labor: freedom and prosperity.
-Under our 45th President, our American greatness – our strength, our prosperity, and our freedom – not only revived, but reached new heights.
+Under our 45 th President, our American greatness – our strength, our prosperity, and our freedom – not only revived, but reached new heights.
 Our economic boom narrowed the wage gaps between men and women, Blacks and Whites, and young and old.
 The strength of our armed forces and the diplomatic skills of our Commander in Chief kept foreign dictatorships in check and enabled us to advance the cause of peace in Europe, Asia, and the Middle East.
 Yet today, we face a new threat: The corrupt and incompetent Biden administration is selling out our country to foreign dictatorships, drug dealers, human traffickers, and child molesters.
@@ -20,3 +21,13 @@ Biden’s divisive domestic policies pander to child molesters and criminals, se
 We, the laborers who made this country great, must join ranks to protect our country from being destroyed from within.
 VOTE REPUBLICAN IN 2024.
 MAKE AMERICA GREAT AGAIN.
+Search News Search Categories Announcements (7) Election Information (2) General (2) In The News (1) News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 View All News Donate Volunteer Contact Follow the Campaign News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 Upcoming Events General Election 11/03/2026 On November 3, 2026, vote for LTC Lisette Bonano for Florida State House District 67 Election Day # Days # Hours # Minutes # Seconds Thank you for your support!
+Support the Campaign Privacy Terms Paid for by LTC LISETTE BONANO, Republican for Florida State House District 67 10006 Cross Creek Blvd.
+P.O.
+Box #217 Tampa, FL 33647.
+All rights reserved.
+Campaign Websites by Online Candidate × Support the Campaign Donate

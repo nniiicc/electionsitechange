@@ -1,11 +1,7 @@
-Back to All Events
-Join us for this post-gubernatorial-debate Town Hall put on by Leaders of a Beautiful Struggle and the Real News Network!
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Back to All Events Post-Debate Town Hall Wednesday, October 7, 2026 6:00 PM 8:30 PM The Real News Network 231 Holliday Street Baltimore, Maryland, 21202 United States (map) Google Calendar ICS Join us for this post-gubernatorial-debate Town Hall put on by Leaders of a Beautiful Struggle and the Real News Network!
 Andy will join political strategist Charly Carter and LBS Director of Public Policy Dayvon Love to discuss the debate on a panel moderated by the Real News Network’s Maximillian Alvarez.
 Doors open at 6pm; the discussion starts at 6:30pm.
-Previous
-Previous
-October 4
-Takoma Park Street Festival
-Next
-Next
-October 8
+Previous Previous October 4 Takoma Park Street Festival Next Next October 8 General Election Candidate Forum Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

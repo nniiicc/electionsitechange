@@ -1,10 +1,5 @@
-I AM THE REPUBLICAN PARTY (R) CANDIDATE WORKING TO
-PRESERVE AND PROTECT OUR CORE VALUES INCLUDING:
-PRO FAITH
-PRO LIBERTY
-PRO LIFE
-PRO SECOND AMENDMENT
-PRO PARENTS RIGHTS
-ANTI MANDATE
-THE 82ND OHIO HOUSE DISTRICT
-SIGN UP FOR MY RE-ELECTION CAMPAIGN NEWS, NOTICES, & UPDATES
+HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT Get in touch 419-771-6935 roy@royklopfenstein.com HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT FAITH • FAMILY • FREEDOM Preserving and Protecting Our 82nd Ohio House District Values LEARN MORE ABOUT MY 2026 RE-ELECTION CAMPAIGN FAITH FAMILY FREEDOM Preserving and Protecting Our 82nd Ohio House District Values LEARN MORE I AM THE REPUBLICAN PARTY (R) CANDIDATE WORKING TO PRESERVE AND PROTECT OUR CORE VALUES INCLUDING: PRO FAITH PRO LIBERTY PRO LIFE PRO SECOND AMENDMENT PRO PARENTS RIGHTS ANTI MANDATE THE 82 ND OHIO HOUSE DISTRICT Slide title PAULDING COUNTY Button Slide title PUTNAM COUNTY Button Slide title VAN WERT COUNTY Button Slide title DEFIANCE COUNTY Button Slide title PAULDING COUNTY Button Slide title VAN WERT COUNTY Button Slide title DEFIANCE COUNTY Button Slide title PUTNAM COUNTY Button SIGN UP FOR MY RE-ELECTION CAMPAIGN NEWS, NOTICES, & UPDATES Contact Us Full Name: Email: Cell Phone: Thank you for signing up!
+Oops, there was an error sending your message.
+Please try again later.
+For Official State of Ohio Related Topics and Issues, Please Contact My Office in the Ohio House of Representatives (Please click on the above icon) Paid for by Klopfenstein for Ohio, Stan D.
+Owens, Treasurer Share by:

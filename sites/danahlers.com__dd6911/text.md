@@ -1,22 +1,11 @@
-PUTTING MY EXPERIENCE TO WORK FOR YOU
-As a business owner, volunteer and state legislator, I have been through tough economic times like those we face today.
+top of page Meet Dan Issues Why I'm Running Blog Events Contact Request a Yard Sign More Use tab to navigate through the menu items.
+DONATE VOLUNTEER FOR A BRIGHTER SOUTH DAKOTA LEGISLATOR BUSINESSMAN COMMUNITY LEADER We’re going up against a GOP supermajority, and a whole lot of money.
+Pitch in now to help power our grassroots movement.
+DONATE TODAY DONATE Join The Campaign First name * Last name * Email * Phone ZIP Code * Yes, subscribe me to your newsletter.
+Submit PUTTING MY EXPERIENCE TO WORK FOR YOU As a business owner, volunteer and state legislator, I have been through tough economic times like those we face today.
 My business faced the challenges of the Great Recession.
-With hard work and determination, my business not only survived, it grew.
-As the administrator of the Dell Rapids Chamber of Commerce, I collaborated with other leaders to create a community network of businesses, churches and non-profits working together to build a better community.
-As its president, I worked with the local government and businesses to inform, innovate and find solutions to economic challenges like rising costs.
-As a state legislator and member of the Appropriations Committee, I helped get the Federal Stimulus Package to those who needed it most.
-I've helped balance our state budget while investing in infrastructure, education and health care systems.
-With your support, I will put my experience and problem solving skills to work for you once again as your governor.
-IN THE NEWS
-RAPID CITY POST
-‘Try Something Different’: Dan Ahlers Challenges One-Party Rule, Targeting Healthcare and Housing in Rapid City Interview
-DAKOTA SCOUT
-Running while building: Dan Ahlers speaks with the Dakota Scout
-DAKOTA NEWS NOW
-Dan Ahlers clears ballot hurdle for South Dakota Gubernatorial race
-ARGUS LEADER
-Democratic candidate for governor plans to lean on South Dakota’s ‘core values’
-KOTA TERRITORY NEWS
-Democratic Lt.
-Gov. pick adds Ag and healthcare expertise to ticket
-KOTA TERRITORY NEWS
+With hard work and determination, my business not only survived, it grew. ​ As the administrator of the Dell Rapids Chamber of Commerce, I collaborated with other leaders to create a community network of businesses, churches and non-profits working together to build a better community.
+As its president, I worked with the local government and businesses to inform, innovate and find solutions to economic challenges like rising costs. ​ As a state legislator and member of the Appropriations Committee, I helped get the Federal Stimulus Package to those who needed it most.
+I've helped balance our state budget while investing in infrastructure, education and health care systems. ​ With your support, I will put my experience and problem solving skills to work for you once again as your governor.
+IN THE NEWS RAPID CITY POST ‘Try Something Different’: Dan Ahlers Challenges One-Party Rule, Targeting Healthcare and Housing in Rapid City Interview Watch Now DAKOTA SCOUT Running while building: Dan Ahlers speaks with the Dakota Scout Listen Now DAKOTA NEWS NOW Dan Ahlers clears ballot hurdle for South Dakota Gubernatorial race Watch Now ARGUS LEADER Democratic candidate for governor plans to lean on South Dakota’s ‘core values’ Read Now KOTA TERRITORY NEWS Democratic Lt.
+Gov. pick adds Ag and healthcare expertise to ticket Read Now KOTA TERRITORY NEWS Political Pulse: Democratic Governor Candidate Dan Ahlers on election, legislative session, & more Watch Now Dakota News Now Record turnout at 2026 McGovern Day Dinner Read Now SOUTH DAKOTA PUBLIC BROADCASTING Renewed Hope for South Dakota Democratic Party Read Now KELO LAND Q&A "We need leadership that is focused on solving real problems instead of chasing political distractions." Read Now SUBSCRIBE TO MY NEWSLETTER STAY UP TO DATE ON THE CAMPAIGN First name * Last name * Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home About Me News Events Get Involved Contact Terms & Conditions Privacy Policy Paid for by Ahlers for Governor Powered and secured by Wix Donate PO Box 109 Sioux Falls, SD 57101 dan@danahlers.com 605-940-3071 bottom of page

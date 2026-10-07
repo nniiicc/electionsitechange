@@ -1,43 +1,262 @@
 [
-"https://facebook.com/kristinkassner",
-"https://instagram.com/kristinkassner?hl=en",
-"https://kristinkassner.org/",
-"https://kristinkassner.org/about-kristin",
-"https://kristinkassner.org/cart",
-"https://kristinkassner.org/contact",
-"https://kristinkassner.org/endorsements",
-"https://kristinkassner.org/get-involved",
-"https://kristinkassner.org/news",
-"https://kristinkassner.org/news/bioconnects-new-england-partners-with-kassner-to-drive-life-sciences-development",
-"https://kristinkassner.org/news/category/News",
-"https://kristinkassner.org/news/category/Press+Release",
-"https://kristinkassner.org/news/governor-healey-announces-40-million-for-economic-development-and-housing-projects-for-northeast-mass",
-"https://kristinkassner.org/news/hamilton-woman-nominated-for-state-heroine",
-"https://kristinkassner.org/news/icymi-emerging-economic-growth-bill-could-have-lots-of-local-implications",
-"https://kristinkassner.org/news/icymi-hamiltons-mcdonough-honored-for-service-in-war-and-community",
-"https://kristinkassner.org/news/icymi-house-passes-pro-housing-eco-dev-bill-moves-to-senate",
-"https://kristinkassner.org/news/icymi-mass-wins-act-seeks-to-accelerate-housing-and-development-through-site-plan-reform",
-"https://kristinkassner.org/news/icymi-north-shore-business-leaders-look-for-ways-to-expand-regions-biotech-sector",
-"https://kristinkassner.org/news/kassner-bill-would-allow-more-seniors-to-claim-income-tax-credit",
-"https://kristinkassner.org/news?offset=1775160333005&author=620187be05d34a317c7d201c",
-"https://kristinkassner.org/priorities",
-"https://linkedin.com/in/kristin-kassner-b8b05712",
-"https://neb.com/en-us/about-neb/news-and-press-releases/north-shore-community-leadership-summit-explores-building-pathways-to-biotech-careers-in-the-region",
-"https://salemnews.com/news/local_news/kassner-tarr-attend-leadership-summit/article_b3b51c40-c0d3-5a45-adbb-ddb420bddc8f.html",
-"https://secure.actblue.com/donate/kassner2026",
-"https://secure.actblue.com/donate/kassner2026?amount=10",
-"https://secure.actblue.com/donate/kassner2026?amount=100",
-"https://secure.actblue.com/donate/kassner2026?amount=25",
-"https://secure.actblue.com/donate/kassner2026?amount=250",
-"https://secure.actblue.com/donate/kassner2026?amount=50",
-"https://thelocalnews.news/2026/04/02/ipswich-dems-breakfast-features-community-service-award-and-visit-from-state-auditor",
-"https://thelocalnews.news/2026/04/11/bioconnects-new-england-rep-kassner-push-biotech-expansion-on-north-shore",
-"https://thelocalnews.news/2026/05/08/ipswich-receives-over-250000-in-state-funding-for-water-treatment-plant-design",
-"https://thelocalnews.news/2026/06/12/ipswich-to-receive-678789-for-local-road-and-bridge-projects",
-"https://thelocalnews.news/2026/06/19/new-england-biolabs-summit-focuses-on-expanding-biotech-on-north-shore",
-"https://thelocalnews.news/2026/06/30/first-churchs-rev-rebecca-pugh-honored-with-commonwealth-pride-award",
-"https://thelocalnews.news/2026/07/15/state-grants-ipswich-350k-to-protect-drinking-water",
-"https://thelocalnews.news/2026/09/10/state-raises-threshold-for-rainfall-closures-in-plum-island-sound",
-"https://thelocalnews.news/2026/09/25/kassner-outlines-priorities-accomplishments-in-north-shore-letter",
-"https://us8.campaign-archive.com/home?id=eafcf8f769&u=58ad79c23fcbcb99b6978969a"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/kassner2026?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kassner2026?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kassner2026?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kassner2026?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kassner2026?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.kristinkassner.org/cart"
+},
+{
+"text": "@kristinkassner.org",
+"href": "mailto:press@kristinkassner.org"
+},
+{
+"text": "BioConnects New England, Kassner to Drive Life Sciences Development",
+"href": "https://www.kristinkassner.org/news/bioconnects-new-england-partners-with-kassner-to-drive-life-sciences-development"
+},
+{
+"text": "Biolabs Summit Focuses on Expanding Biotech on North Shore",
+"href": "https://thelocalnews.news/2026/06/19/new-england-biolabs-summit-focuses-on-expanding-biotech-on-north-shore/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kristinkassner.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kassner2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristinkassner.org/endorsements"
+},
+{
+"text": "First Church’s Rev. Rebecca Pugh Honored with Pride Award",
+"href": "https://thelocalnews.news/2026/06/30/first-churchs-rev-rebecca-pugh-honored-with-commonwealth-pride-award/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kristinkassner.org/get-involved"
+},
+{
+"text": "Governor Healey Announces $40 Million for Economic Development and Housing Projects for Northeast Mass",
+"href": "https://www.kristinkassner.org/news/governor-healey-announces-40-million-for-economic-development-and-housing-projects-for-northeast-mass"
+},
+{
+"text": "ICYMI: Emerging Economic Growth Bill Could Have Lots Of Local Implications",
+"href": "https://www.kristinkassner.org/news/icymi-emerging-economic-growth-bill-could-have-lots-of-local-implications"
+},
+{
+"text": "ICYMI: Hamilton Woman Nominated For State Heroine",
+"href": "https://www.kristinkassner.org/news/hamilton-woman-nominated-for-state-heroine"
+},
+{
+"text": "ICYMI: Hamilton’s Mcdonough Honored for Service in War and Community",
+"href": "https://www.kristinkassner.org/news/icymi-hamiltons-mcdonough-honored-for-service-in-war-and-community"
+},
+{
+"text": "ICYMI: House Passes Pro-Housing Eco-Dev Bill; Moves to Senate",
+"href": "https://www.kristinkassner.org/news/icymi-house-passes-pro-housing-eco-dev-bill-moves-to-senate"
+},
+{
+"text": "ICYMI: Kassner Bill Would Allow More Seniors to Claim Income-Tax Credit",
+"href": "https://www.kristinkassner.org/news/kassner-bill-would-allow-more-seniors-to-claim-income-tax-credit"
+},
+{
+"text": "ICYMI: Mass Wins Act Seeks to Accelerate Housing and Development",
+"href": "https://www.kristinkassner.org/news/icymi-mass-wins-act-seeks-to-accelerate-housing-and-development-through-site-plan-reform"
+},
+{
+"text": "ICYMI: North Shore Business Leaders Look For Ways to Expand Biotech",
+"href": "https://www.kristinkassner.org/news/icymi-north-shore-business-leaders-look-for-ways-to-expand-regions-biotech-sector"
+},
+{
+"text": "Ipswich Dems Breakfast Features Community Service Award",
+"href": "https://thelocalnews.news/2026/04/02/ipswich-dems-breakfast-features-community-service-award-and-visit-from-state-auditor/"
+},
+{
+"text": "Ipswich Receives Over $250K for Water Treatment Plant Design",
+"href": "https://thelocalnews.news/2026/05/08/ipswich-receives-over-250000-in-state-funding-for-water-treatment-plant-design/"
+},
+{
+"text": "Ipswich to Receive $678K for Local Road and Bridge Projects",
+"href": "https://thelocalnews.news/2026/06/12/ipswich-to-receive-678789-for-local-road-and-bridge-projects/"
+},
+{
+"text": "Kassner Host Leadership Summit",
+"href": "https://www.salemnews.com/news/local_news/kassner-tarr-attend-leadership-summit/article_b3b51c40-c0d3-5a45-adbb-ddb420bddc8f.html"
+},
+{
+"text": "Kassner Outlines Priorities, Accomplishments in North Shore Letter",
+"href": "https://thelocalnews.news/2026/09/25/kassner-outlines-priorities-accomplishments-in-north-shore-letter/"
+},
+{
+"text": "Meet Kristin",
+"href": "https://www.kristinkassner.org/about-kristin"
+},
+{
+"text": "News",
+"href": "https://www.kristinkassner.org/news"
+},
+{
+"text": "News",
+"href": "https://www.kristinkassner.org/news/category/News"
+},
+{
+"text": "Newsletter Archive",
+"href": "https://us8.campaign-archive.com/home/?id=eafcf8f769&u=58ad79c23fcbcb99b6978969a"
+},
+{
+"text": "Older Posts",
+"href": "https://www.kristinkassner.org/news?offset=1775160333005&author=620187be05d34a317c7d201c"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/kassner2026"
+},
+{
+"text": "Press Release",
+"href": "https://www.kristinkassner.org/news/category/Press+Release"
+},
+{
+"text": "Priorities",
+"href": "https://www.kristinkassner.org/priorities"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/04/02/ipswich-dems-breakfast-features-community-service-award-and-visit-from-state-auditor/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/04/11/bioconnects-new-england-rep-kassner-push-biotech-expansion-on-north-shore/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/05/08/ipswich-receives-over-250000-in-state-funding-for-water-treatment-plant-design/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/06/12/ipswich-to-receive-678789-for-local-road-and-bridge-projects/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/06/19/new-england-biolabs-summit-focuses-on-expanding-biotech-on-north-shore/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/06/30/first-churchs-rev-rebecca-pugh-honored-with-commonwealth-pride-award/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/07/15/state-grants-ipswich-350k-to-protect-drinking-water/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/09/10/state-raises-threshold-for-rainfall-closures-in-plum-island-sound/"
+},
+{
+"text": "Read More",
+"href": "https://thelocalnews.news/2026/09/25/kassner-outlines-priorities-accomplishments-in-north-shore-letter/"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/bioconnects-new-england-partners-with-kassner-to-drive-life-sciences-development"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/governor-healey-announces-40-million-for-economic-development-and-housing-projects-for-northeast-mass"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/hamilton-woman-nominated-for-state-heroine"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/icymi-emerging-economic-growth-bill-could-have-lots-of-local-implications"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/icymi-hamiltons-mcdonough-honored-for-service-in-war-and-community"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/icymi-house-passes-pro-housing-eco-dev-bill-moves-to-senate"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/icymi-mass-wins-act-seeks-to-accelerate-housing-and-development-through-site-plan-reform"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/icymi-north-shore-business-leaders-look-for-ways-to-expand-regions-biotech-sector"
+},
+{
+"text": "Read More",
+"href": "https://www.kristinkassner.org/news/kassner-bill-would-allow-more-seniors-to-claim-income-tax-credit"
+},
+{
+"text": "Read More",
+"href": "https://www.neb.com/en-us/about-neb/news-and-press-releases/north-shore-community-leadership-summit-explores-building-pathways-to-biotech-careers-in-the-region"
+},
+{
+"text": "Read More",
+"href": "https://www.salemnews.com/news/local_news/kassner-tarr-attend-leadership-summit/article_b3b51c40-c0d3-5a45-adbb-ddb420bddc8f.html"
+},
+{
+"text": "Rep. Kassner Push Biotech Expansion on North Shore",
+"href": "https://thelocalnews.news/2026/04/11/bioconnects-new-england-rep-kassner-push-biotech-expansion-on-north-shore/"
+},
+{
+"text": "State Grants Ipswich $350K to Protect Drinking Water",
+"href": "https://thelocalnews.news/2026/07/15/state-grants-ipswich-350k-to-protect-drinking-water/"
+},
+{
+"text": "State Raises Threshold For Rainfall Closures in Plum Island Sound",
+"href": "https://thelocalnews.news/2026/09/10/state-raises-threshold-for-rainfall-closures-in-plum-island-sound/"
+},
+{
+"text": "Summit Explores Building Pathways to Biotech Careers",
+"href": "https://www.neb.com/en-us/about-neb/news-and-press-releases/north-shore-community-leadership-summit-explores-building-pathways-to-biotech-careers-in-the-region"
+},
+{
+"text": "[image: Kristin Kassner for State Representative]",
+"href": "https://www.kristinkassner.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kristinkassner"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kristinkassner/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kristin-kassner-b8b05712/"
+},
+{
+"text": "committee@kristinkassner.org",
+"href": "mailto:committee@kristinkassner.org"
+},
+{
+"text": "communications",
+"href": "mailto:communications@kristinkassner.org"
+}
 ]

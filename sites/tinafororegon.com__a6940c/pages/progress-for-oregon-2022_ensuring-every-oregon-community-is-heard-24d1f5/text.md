@@ -1,7 +1,5 @@
-Before taking office, Governor Kotek set an ambitious goal: Visit all 36 counties in her first year in office.
+Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Skip to content Chip In to Help Reelect Tina Kotek Donate Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Ensuring Every Oregon Community is Heard Before taking office, Governor Kotek set an ambitious goal: Visit all 36 counties in her first year in office.
 On her One Oregon Listening Tour, the Governor met with more than 1,000 Oregonians to better understand the needs of communities across the state.
-- In her first two years in office, Governor Kotek visited all 36 counties and all 9 federally recognized Tribal nations in Oregon.
+In her first two years in office, Governor Kotek visited all 36 counties and all 9 federally recognized Tribal nations in Oregon.
 Her travels across the state included stops in 83 towns where she heard from nearly 1,000 Oregonians.
-Oregon Capital Insider: “In Eastern Oregon, Tina Kotek showed up and listened”
-La Grande Observer: “Our view: Kotek’s visit is step in right direction”
-East Oregonian: “Our view: The governor visits … and listens”
+Oregon Capital Insider: “In Eastern Oregon, Tina Kotek showed up and listened” La Grande Observer: “Our view: Kotek’s visit is step in right direction” East Oregonian: “Our view: The governor visits … and listens” press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

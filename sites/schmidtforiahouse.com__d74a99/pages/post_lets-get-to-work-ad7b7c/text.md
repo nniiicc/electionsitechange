@@ -1,6 +1,4 @@
-Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement
-by Alexander Schmidt, candidate for Iowa House District 60
-I'm incredibly honored that our campaign has earned the endorsement of the Iowa Federation of Labor, AFL-CIO.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate All Posts Health Politics Education Religion Rural Iowa Agriculture Economy Environment Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement May 15 3 min read by Alexander Schmidt, candidate for Iowa House District 60 I'm incredibly honored that our campaign has earned the endorsement of the Iowa Federation of Labor, AFL-CIO.
 As North Iowans are facing an aging population and an ever-shrinking workforce, I believe the labor union movement should be supported now more than ever before.
 I live paycheck-to-paycheck.
 I'm a journalist and a retail worker, and I have seen firsthand that strong jobs lead to strong communities.
@@ -10,15 +8,14 @@ In between those towns, you’ll find the skeletons of towns like Meltonville an
 After the businesses disappear, it’ll be the street signs, followed by the label on the map.
 Job shortages in the healthcare, manufacturing, service and ag sectors are indicative of a full-blown crisis in Iowa's job market.
 The April jobs report showed 52,000 job openings in the state of Iowa, with a majority in those aforementioned sectors.
-But "policymakers at the Statehouse," writes Pete Hird (AFL-CIO) and Erica Johnson (IA Migrant Movement for Justice) in the Des Moines Register, "continue to ignore the reality that Iowa does not have enough workers."
-The Republicans’ regressive tax policies, stagnant minimum wage and their determination to fight their ass-backwards culture wars are succeeding only in driving away an entire generation of Iowans from their homes and families.
+But "policymakers at the Statehouse," writes Pete Hird (AFL-CIO) and Erica Johnson (IA Migrant Movement for Justice) in the Des Moines Register, "continue to ignore the reality that Iowa does not have enough workers." The Republicans’ regressive tax policies, stagnant minimum wage and their determination to fight their ass-backwards culture wars are succeeding only in driving away an entire generation of Iowans from their homes and families.
 Ask a young (under 50) Iowan why they live here, and they’ll tell you it’s because their parents did.
 That’s true for me too, but I haven’t lost hope in my home state yet.
 My partner Emily and I want to build a home here because it’s where home is.
 We want our parents to become grandparents here, and we want their grandchild to be raised in an Iowa that we recognize as our home; one where they feel safe and supported.
 Securing jobs for North Iowans, ensuring their right to a living wage and for a safe and equitable workplace will be my priority as your legislator.
 I believe the state’s minimum wage should be adjusted by the legislature accordingly (potentially annually) keeping pace with all factors, including at least matching the federal minimum wage, and making statutes that consider worker production and inflation as factors when setting the minimum wage.
-House District 60's Republican incumbent in 2017 voted to weaken Iowa's worker's compensation laws.
+House District 60's Republican incumbent in 2017 voted to weaken Iowa's worker's compensation laws .
 I believe that, when injured, workers have the right to be treated by their own doctor.
 Since these laws were passed, costs have predictably shifted drastically to the injured party, despite the disproven claim that fraud was running rampant.
 I believe public employees should have the same collective bargaining rights as in the private sector, including over wages, hours, terms and conditions of employment.
@@ -33,3 +30,7 @@ You can donate here.
 Any amount will go directly to my fight against unfettered greed and corporate cronyism in Des Moines.
 Thank you for your support, and Power to the People!
 Let's get to work!
+Economy Rural Iowa Politics Recent Posts See All Campaign Blog: 99 Days and I need your help Campaign Blog: Independence Day Sanders and Khanna Introduce Income Tax Legislation to Tax Billionaire Wealth and Invest in Working Families Join Our Movement to Take Back Iowa Be a part of something that you will be proud of the rest of your life... help Alexander Schmidt win Iowa House - District 60 and make Iowa the welcoming state it was always intended to be.
+First name Last name Phone Email * How can you help our campaign?
+Yard sign Volunteer Host an event Other Send Alexander Schmidt for Iowa House Categories State Politics Religion Education Health Rural Iowa Environment Agriculture Economy Popular Tags No tags yet.
+Contact Us Privacy Policy © # PAID FOR BY ALEXANDER SCHMIDT FOR IOWA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

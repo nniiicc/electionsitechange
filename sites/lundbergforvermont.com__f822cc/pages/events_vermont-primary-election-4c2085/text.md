@@ -1,14 +1,3 @@
-Back to All Events
-Vermont’s statewide primary election day is August 11, 2026.
+0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Back to All Events VERMONT PRIMARY ELECTION Tuesday, August 11, 2026 8:00 AM 7:00 PM Google Calendar ICS Vermont’s statewide primary election day is August 11, 2026.
 The hours listed here may not apply in your town.
-Windham-3 voters, visit your town’s website for hours, locations, and details:
-- Rockingham (includes Bellows Falls and Saxtons River)
-- Westminster
-- Brookline
-Previous
-Previous
-August 2
-MEET CHRIS AND MICHELLE OVER COFFEE
-Next
-Next
-September 17
+Windham-3 voters, visit your town’s website for hours, locations, and details: Rockingham (includes Bellows Falls and Saxtons River) Westminster Brookline Previous Previous August 2 MEET CHRIS AND MICHELLE OVER COFFEE Next Next September 17 Meet the Candidates: Fundraiser & Potluck (Brattleboro) CHRIS LUNDBERG For Vermont House of Representatives Windham-3 (Rockingham, Westminster, & Brookline) Donate Contact Paid for by Chris Lundberg for State Representative, 19 Prospect St., Bellows Falls, VT 05101

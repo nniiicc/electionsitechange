@@ -1,20 +1,110 @@
 [
-"https://bsky.app/profile/murray4ma.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/murray4ma",
-"https://instagram.com/murray4ma",
-"https://murray4ma.com/",
-"https://murray4ma.com/about",
-"https://murray4ma.com/endorsements",
-"https://murray4ma.com/httpssecureactbluecomdonatemurray4ma",
-"https://murray4ma.com/issues/affordability",
-"https://murray4ma.com/issues/constituent-services",
-"https://murray4ma.com/issues/education",
-"https://murray4ma.com/issues/equity-and-accessibility",
-"https://murray4ma.com/issues/issue-1",
-"https://murray4ma.com/issues/issue-2",
-"https://murray4ma.com/issues/transparent-government",
-"https://murray4ma.com/volunteer",
-"https://murray4ma.com/volunteer-copy",
-"https://tiktok.com/@murray4ma"
+{
+"text": "About",
+"href": "https://www.murray4ma.com/about"
+},
+{
+"text": "Affordability",
+"href": "https://www.murray4ma.com/issues/affordability"
+},
+{
+"text": "Clean Energy and Environment",
+"href": "https://www.murray4ma.com/issues/issue-1"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.murray4ma.com/issues/constituent-services"
+},
+{
+"text": "Contact",
+"href": "https://www.murray4ma.com/volunteer-copy"
+},
+{
+"text": "Donate",
+"href": "https://www.murray4ma.com/httpssecureactbluecomdonatemurray4ma"
+},
+{
+"text": "Education",
+"href": "https://www.murray4ma.com/issues/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.murray4ma.com/endorsements"
+},
+{
+"text": "Equity and Accessibility for Every Community",
+"href": "https://www.murray4ma.com/issues/equity-and-accessibility"
+},
+{
+"text": "Healthcare",
+"href": "https://www.murray4ma.com/issues/issue-2"
+},
+{
+"text": "Home",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Transparency and Governmental Reform",
+"href": "https://www.murray4ma.com/issues/transparent-government"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/affordability"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/constituent-services"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/equity-and-accessibility"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.murray4ma.com/issues/transparent-government"
+},
+{
+"text": "Volunteer",
+"href": "https://www.murray4ma.com/volunteer"
+},
+{
+"text": "[image: Connor Murray]",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/murray4ma.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@murray4ma"
+},
+{
+"text": "murray4ma@gmail.com",
+"href": "mailto:murray4ma@gmail.com"
+}
 ]

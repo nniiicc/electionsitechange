@@ -1,11 +1,5 @@
-Back to All Events
-Next Tuesday, August 19, I'm holding my first Meet & Greet in District 20 in order to meet voters and learn about what matters most to them.
+0 Skip to Content About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Folder: Get Involved Back Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Back to All Events Neighborhood Meet & Greet - east Fayetteville Tuesday, August 19, 2025 5:30 PM 7:00 PM Google Calendar ICS Next Tuesday, August 19, I'm holding my first Meet & Greet in District 20 in order to meet voters and learn about what matters most to them.
 Please stop by and tell me what issues are important to you.
 And invite anyone else who is interested in learning more about my campaign.
-Previous
-Previous
-July 31
-Eureka Springs Fundraiser
-Next
-Next
-September 8
+Previous Previous July 31 Eureka Springs Fundraiser Next Next September 8 University of Arkansas Young Dems: Kickoff Meeting, Max for Arkansas Sign up for updates Contact P.O.
+Box 8423, Fayetteville, AR 72703 Paid for by Max for Arkansas.

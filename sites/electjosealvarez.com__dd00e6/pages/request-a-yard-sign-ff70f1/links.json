@@ -1,18 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSf2jisVI5GwlA8EvPjmZUbjgsXouoq04mnns1EnfVRxqEoPzQ/viewform?usp=header",
-"https://electjosealvarez.com/",
-"https://electjosealvarez.com/about",
-"https://electjosealvarez.com/canvassing",
-"https://electjosealvarez.com/donate",
-"https://electjosealvarez.com/endorsements",
-"https://electjosealvarez.com/issues",
-"https://electjosealvarez.com/legislative-actions",
-"https://electjosealvarez.com/phone-banking",
-"https://electjosealvarez.com/request-a-yard-sign",
-"https://electjosealvarez.com/voting-resources",
-"https://facebook.com/JoseAlvarezforFloridaHouseDistrict46",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/kissimmee_jose_alvarez?hl=en",
-"https://linkedin.com/in/jose-alvarez11",
-"https://x.com/Jose_AAlv"
+{
+"text": "About",
+"href": "https://electjosealvarez.com/about"
+},
+{
+"text": "Canvassing",
+"href": "https://electjosealvarez.com/canvassing"
+},
+{
+"text": "Donate",
+"href": "https://electjosealvarez.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://electjosealvarez.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://electjosealvarez.com/"
+},
+{
+"text": "Issues",
+"href": "https://electjosealvarez.com/issues"
+},
+{
+"text": "Legislative Actions",
+"href": "https://electjosealvarez.com/legislative-actions"
+},
+{
+"text": "Phone Banking",
+"href": "https://electjosealvarez.com/phone-banking"
+},
+{
+"text": "Request Yard SIgn",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf2jisVI5GwlA8EvPjmZUbjgsXouoq04mnns1EnfVRxqEoPzQ/viewform?usp=header"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://electjosealvarez.com/request-a-yard-sign"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoseAlvarezforFloridaHouseDistrict46"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kissimmee_jose_alvarez/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jose-alvarez11"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Jose_AAlv"
+},
+{
+"text": "voting resources",
+"href": "https://electjosealvarez.com/voting-resources"
+}
 ]

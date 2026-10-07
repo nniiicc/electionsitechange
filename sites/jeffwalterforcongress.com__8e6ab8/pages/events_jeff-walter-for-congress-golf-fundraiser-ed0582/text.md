@@ -1,13 +1,7 @@
-Back to All Events
-Tee it up with us for a great day on the course at Hughes Creek Golf Course as we host a fun and relaxed golf fundraiser!
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Back to All Events Jeff Walter for Congress Golf Fundraiser Saturday, August 15, 2026 12:30 PM 6:30 PM Google Calendar ICS Tee it up with us for a great day on the course at Hughes Creek Golf Course as we host a fun and relaxed golf fundraiser!
 Enjoy a full day that includes lunch, greens fees, and a golf cart, followed by a delicious steak dinner to cap it off.
 We’ll also have a dessert auction, prizes, and plenty of opportunities to connect along the way.
-Whether you’re in it to win it or just out for a good time, it’s shaping up to be a fantastic event you won’t want to miss! ⛳
-Click the link to register or sponsor: https://secure.winred.com/committee-to-elect-jeff-walter/golf-outing-fundraiser
-Previous
-Previous
-June 14
-Jeff Walter for Congress Campaign Kick-Off Event
-Next
-Next
-September 20
+Whether you’re in it to win it or just out for a good time, it’s shaping up to be a fantastic event you won’t want to miss! ⛳ Click the link to register or sponsor: https://secure.winred.com/committee-to-elect-jeff-walter/golf-outing-fundraiser Previous Previous June 14 Jeff Walter for Congress Campaign Kick-Off Event Next Next September 20 Aurora Patrias Parade Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
+Navy.
+Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

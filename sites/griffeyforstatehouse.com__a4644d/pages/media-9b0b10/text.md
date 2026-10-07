@@ -1,23 +1,2 @@
-top of page
-HOME
-ABOUT
-PRIORITIES
-NEWS
-MEDIA
-CONTACT
-Ways To Help
-TERMS & CONDITIONS
-DONATE
-In Your Corner
-DAN GRIFFEY
-FOR STATE HOUSE
-(R)
-Media
-Shift WA
-Newsmaker Interview
-shiftwa.org
-Legislative Medi
-a:
-https://dangriffey.houserepublicans.wa.gov/news-media/
-Fliers
-bottom of page
+top of page HOME ABOUT PRIORITIES NEWS MEDIA CONTACT Ways To Help TERMS & CONDITIONS DONATE In Your Corner DAN GRIFFEY FOR STATE HOUSE (R) Media Shift WA Newsmaker Interview shiftwa.org Legislative Medi a: https://dangriffey.houserepublicans.wa.gov/news-media/ Fliers Get Involved Volunteer DONATE Si gn Up Ne ws + Updates Email Sign Up Thanks for subscribing!
+DAN GRIFFEY FOR STATE HOUSE ( R) In Your Corner PO Box 83 Allyn, WA 98524 (360) 204-9636 • DanielGriffey@gmail.com • Tax ID: 27-2697662 © # Griffey For State House ​ Paid for by Griffey For State House bottom of page

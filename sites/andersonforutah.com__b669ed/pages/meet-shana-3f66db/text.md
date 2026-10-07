@@ -1,5 +1,4 @@
-LETTER FROM SHANA
-I came of age right when the 2008 crash hit.
+0 Skip to Content Home Meet Shana Issues Volunteer Contact DONATE Open Menu Close Menu DONATE Home Meet Shana Issues Volunteer Contact Open Menu Close Menu Home Meet Shana Issues Volunteer Contact DONATE LETTER FROM SHANA I came of age right when the 2008 crash hit.
 I remember the feeling of staring at a bank account that couldn’t cover rent and groceries at the same time.
 But the hardest part wasn't my own struggle, it was watching my parents.
 They’d worked hard their whole lives, only to see their savings vanish in weeks.
@@ -30,3 +29,4 @@ These attacks on our schools, our workers, and our kids’ futures have called m
 I see families struggling today the same way mine did twenty years ago.
 I’m standing up to fight for the working class and our small businesses.
 It’s time we invest in our community instead of pulling the rug out from under it.
+VOLUNTEER GET INVOLVED Donate Volunteer Go Vote ANDERSON FOR SENATE 19 PAID FOR BY ANDERSON FOR SENATE

@@ -1,5 +1,4 @@
-Meet Jim Alvey, Republican Candidate for District 10
-Jim was born in 1956 in the old Dee Hospital in Ogden, Utah.
+0 Skip to Content Home Meet Jim Priorities Media Endorsements Contact Volunteer Donate Open Menu Close Menu Home Meet Jim Priorities Media Endorsements Contact Volunteer Donate Open Menu Close Menu Home Meet Jim Priorities Media Endorsements Contact Volunteer Donate Meet Jim Alvey, Republican Candidate for District 10 Jim was born in 1956 in the old Dee Hospital in Ogden, Utah.
 He grew up on Harrison Boulevard.
 Jim served a mission for The Church of Jesus Christ of Latter-Day Saints in the Midlands of England at 19 years old.
 While there, he visited the birthplace of his immigrant father in Loughborough, Leicestershire.
@@ -38,3 +37,4 @@ Upon retiring, they both served an LDS mission in Nauvoo, Illinois.
 Jim and Sheri raised 6 boys in Ogden and have 8 grandchildren.
 They have lived within District 10 for 38 years.
 They are ready to serve.
+Site Navigation Home Meet Jim Priorities Contact Volunteer Donate Copyright # All Rights Reserved Paid for by Jim Alvey

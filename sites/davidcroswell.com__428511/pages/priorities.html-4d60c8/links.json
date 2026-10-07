@@ -1,8 +1,38 @@
 [
-"https://davidcroswell.com/donate.html",
-"https://davidcroswell.com/index.html",
-"https://davidcroswell.com/meet-david.html",
-"https://davidcroswell.com/podcasts.html",
-"https://davidcroswell.com/priorities.html",
-"https://davidcroswell.com/volunteer.html"
+{
+"text": "Back to home",
+"href": "https://davidcroswell.com/index.html#home"
+},
+{
+"text": "Contact",
+"href": "https://davidcroswell.com/index.html#contact"
+},
+{
+"text": "David A. Croswell State Senate District 9 Diamond Head to Hawaiʻi Kai",
+"href": "https://davidcroswell.com/index.html#home"
+},
+{
+"text": "Donate",
+"href": "https://davidcroswell.com/donate.html"
+},
+{
+"text": "Join the team",
+"href": "https://davidcroswell.com/volunteer.html"
+},
+{
+"text": "Meet David",
+"href": "https://davidcroswell.com/meet-david.html"
+},
+{
+"text": "Podcasts",
+"href": "https://davidcroswell.com/podcasts.html"
+},
+{
+"text": "Priorities",
+"href": "https://davidcroswell.com/priorities.html"
+},
+{
+"text": "Volunteer",
+"href": "https://davidcroswell.com/volunteer.html"
+}
 ]

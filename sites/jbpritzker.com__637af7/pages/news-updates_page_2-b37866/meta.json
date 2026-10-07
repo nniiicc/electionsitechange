@@ -1,7 +1,11 @@
 {
  "description": "{post_title} {post_date: M j, Y}",
  "final_url": "https://jbpritzker.com/news-updates/page/2/",
- "paid_for_by": "Paid for by JB for Governor espa\u00f1ol \u4e2d\u6587 Polski espa\u00f1ol \u4e2d\u6587 Polski",
- "title": "News & Updates - Page 2 of 19 - JB for Governor",
- "years_mentioned": []
+ "fingerprint": "9c44cbc67cefd2d7e090851a9051335083d2eede",
+ "format": 3,
+ "paid_for_by": "Paid for by JB for Governor español 中文 Polski español 中文 Polski",
+ "title": "News & Updates - Page 2 of 20 - JB for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

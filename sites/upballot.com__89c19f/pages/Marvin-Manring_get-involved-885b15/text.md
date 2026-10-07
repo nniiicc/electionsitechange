@@ -1,23 +1,2 @@
-About
-Marvin
-Issues
-Get Involved
-Events
-Donate Now
-Home
-About Marvin
-Issues
-Get Involved
-Events
-Donate Now
-GET INVOLVED
-See how you can support Marvin’s campaign today.
-Volunteer for Marvin’s campaign
-Reach Out
-Make a
-donation
-Donate now
-Attend an event near you
-View Events
-Register to vote in Missouri
-Visit Site
+About Marvin Issues Get Involved Events Donate Now Home About Marvin Issues Get Involved Events Donate Now GET INVOLVED See how you can support Marvin’s campaign today.
+Volunteer for Marvin’s campaign Reach Out Make a donation Donate now Attend an event near you View Events Register to vote in Missouri Visit Site Support Marvin Manring’s Campaign for Missouri Donate Now Manring4MO127 PO Box 243, Stockton, MO 65785 tel:417-955-4800 | manring4mo127@gmail.com Kim Chism Jasper, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

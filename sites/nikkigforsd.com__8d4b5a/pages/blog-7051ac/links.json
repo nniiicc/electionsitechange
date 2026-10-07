@@ -1,36 +1,154 @@
 [
-"https://facebook.com/profile.php?id=61580792912203",
-"https://nikkigforsd.com/",
-"https://nikkigforsd.com/_files/ugd/4f41ed_77e43c8325fd4332b4afde2ec710be5f.pdf",
-"https://nikkigforsd.com/_files/ugd/4f41ed_b2f13783f42347068c92667f92ee9512.pdf",
-"https://nikkigforsd.com/_files/ugd/4f41ed_ed8f185ba82d47c4b7b989d4c3ec72b1.pdf",
-"https://nikkigforsd.com/about",
-"https://nikkigforsd.com/blog",
-"https://nikkigforsd.com/contact",
-"https://nikkigforsd.com/events-1",
-"https://nikkigforsd.com/post/affordability-is-the-key-word-i-m-hearing",
-"https://nikkigforsd.com/post/child-care-pre-k-investing-in-south-dakota-s-families-and-future",
-"https://nikkigforsd.com/post/for-immediate-release-1",
-"https://nikkigforsd.com/post/for-immediate-release-2",
-"https://nikkigforsd.com/post/freedom-isn-t-free-patriotism-requires-participation",
-"https://nikkigforsd.com/post/nikki-gronli-marty-jackley-sides-with-trump-and-dc-republicans-to-cause-chaos-and-confusion-in-our",
-"https://nikkigforsd.com/post/nikki-interviews-with-political-pulse-to-talk-about-the-farm-bill-and-more",
-"https://nikkigforsd.com/post/nikki-joins-kfgo-to-speak-about-tariffs-rural-healthcare-and-more",
-"https://nikkigforsd.com/post/nikki-sits-down-with-dan-santella-from-keloland",
-"https://nikkigforsd.com/post/nikki-speaks-after-the-primary",
-"https://nikkigforsd.com/post/press-release-gronli-statement-on-mail-in-ballot-scotus-ruling",
-"https://nikkigforsd.com/post/press-release-gronli-warns-trump-s-actions-are-double-whammy-for-sd-farmers",
-"https://nikkigforsd.com/post/protecting-rural-health-care-starts-with-building-south-dakota-s-workforce",
-"https://nikkigforsd.com/post/show-up-listen-do-the-work",
-"https://nikkigforsd.com/post/south-dakota-politicians-clash-over-trump-s-beef-deal",
-"https://nikkigforsd.com/post/south-dakotans-deserve-clear-secure-elections",
-"https://nikkigforsd.com/post/the-rising-cost-of-having-a-place-to-call-home",
-"https://nikkigforsd.com/post/we-need-a-long-term-commitment-to-rural-health-care",
-"https://nikkigforsd.com/post/when-disaster-strikes-south-dakotans-come-together",
-"https://nikkigforsd.com/post/when-it-comes-to-healthcare-women-in-south-dakota-deserve-more",
-"https://nikkigforsd.com/privacy-policy",
-"https://nikkigforsd.com/s-projects-side-by-side",
-"https://nikkigforsd.com/services-8",
-"https://secure.actblue.com/donate/nikkigforsd",
-"https://tiktok.com/@nikkigforsd"
+{
+"text": "ABOUT",
+"href": "https://www.nikkigforsd.com/about"
+},
+{
+"text": "Affordability is the KEY word I'm hearing!",
+"href": "https://www.nikkigforsd.com/post/affordability-is-the-key-word-i-m-hearing"
+},
+{
+"text": "All Posts",
+"href": "https://www.nikkigforsd.com/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.nikkigforsd.com/contact"
+},
+{
+"text": "Child Care & Pre-K: Investing in South Dakota’s Families and Future",
+"href": "https://www.nikkigforsd.com/post/child-care-pre-k-investing-in-south-dakota-s-families-and-future"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nikkigforsd"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.nikkigforsd.com/s-projects-side-by-side"
+},
+{
+"text": "EVENTS",
+"href": "https://www.nikkigforsd.com/events-1"
+},
+{
+"text": "FOR IMMEDIATE RELEASE",
+"href": "https://www.nikkigforsd.com/post/for-immediate-release-2"
+},
+{
+"text": "FOR Immediate RELEASE",
+"href": "https://www.nikkigforsd.com/post/for-immediate-release-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580792912203"
+},
+{
+"text": "Freedom isn't Free: Patriotism Requires Participation",
+"href": "https://www.nikkigforsd.com/post/freedom-isn-t-free-patriotism-requires-participation"
+},
+{
+"text": "HOME",
+"href": "https://www.nikkigforsd.com"
+},
+{
+"text": "Logo​",
+"href": "https://www.nikkigforsd.com/_files/ugd/4f41ed_77e43c8325fd4332b4afde2ec710be5f.pdf"
+},
+{
+"text": "Media Bio",
+"href": "https://www.nikkigforsd.com/_files/ugd/4f41ed_ed8f185ba82d47c4b7b989d4c3ec72b1.pdf"
+},
+{
+"text": "NEWS",
+"href": "https://www.nikkigforsd.com/blog"
+},
+{
+"text": "NIKKI G FOR SD",
+"href": "https://www.nikkigforsd.com"
+},
+{
+"text": "Nikki Gronli: Marty Jackley Sides with Trump and DC Republicans to Cause Chaos and Confusion in our Elections",
+"href": "https://www.nikkigforsd.com/post/nikki-gronli-marty-jackley-sides-with-trump-and-dc-republicans-to-cause-chaos-and-confusion-in-our"
+},
+{
+"text": "Nikki Interviews With Political Pulse To Talk About The Farm Bill And More",
+"href": "https://www.nikkigforsd.com/post/nikki-interviews-with-political-pulse-to-talk-about-the-farm-bill-and-more"
+},
+{
+"text": "Nikki Joins KFGO To Speak About Tariffs, Rural Healthcare And More",
+"href": "https://www.nikkigforsd.com/post/nikki-joins-kfgo-to-speak-about-tariffs-rural-healthcare-and-more"
+},
+{
+"text": "Nikki Sits Down With Dan Santella from Keloland",
+"href": "https://www.nikkigforsd.com/post/nikki-sits-down-with-dan-santella-from-keloland"
+},
+{
+"text": "Nikki Speaks After The Primary",
+"href": "https://www.nikkigforsd.com/post/nikki-speaks-after-the-primary"
+},
+{
+"text": "PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling",
+"href": "https://www.nikkigforsd.com/post/press-release-gronli-statement-on-mail-in-ballot-scotus-ruling"
+},
+{
+"text": "PRESS RELEASE: Gronli warns trump's actions are double whammy for SD farmers",
+"href": "https://www.nikkigforsd.com/post/press-release-gronli-warns-trump-s-actions-are-double-whammy-for-sd-farmers"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.nikkigforsd.com/services-8"
+},
+{
+"text": "Photo",
+"href": "https://www.nikkigforsd.com/_files/ugd/4f41ed_b2f13783f42347068c92667f92ee9512.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nikkigforsd.com/privacy-policy"
+},
+{
+"text": "Protecting Rural Health Care Starts with Building South Dakota's Workforce",
+"href": "https://www.nikkigforsd.com/post/protecting-rural-health-care-starts-with-building-south-dakota-s-workforce"
+},
+{
+"text": "Show Up. Listen. Do the Work.",
+"href": "https://www.nikkigforsd.com/post/show-up-listen-do-the-work"
+},
+{
+"text": "South Dakota politicians clash Over trump's beef deal",
+"href": "https://www.nikkigforsd.com/post/south-dakota-politicians-clash-over-trump-s-beef-deal"
+},
+{
+"text": "South Dakotans Deserve Clear, Secure Elections",
+"href": "https://www.nikkigforsd.com/post/south-dakotans-deserve-clear-secure-elections"
+},
+{
+"text": "The Rising Cost of Having a Place to Call Home",
+"href": "https://www.nikkigforsd.com/post/the-rising-cost-of-having-a-place-to-call-home"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nikkigforsd"
+},
+{
+"text": "We Need a Long-Term Commitment to Rural Health Care",
+"href": "https://www.nikkigforsd.com/post/we-need-a-long-term-commitment-to-rural-health-care"
+},
+{
+"text": "When Disaster Strikes, South Dakotans Come Together",
+"href": "https://www.nikkigforsd.com/post/when-disaster-strikes-south-dakotans-come-together"
+},
+{
+"text": "When It Comes to Healthcare, Women in South Dakota Deserve More",
+"href": "https://www.nikkigforsd.com/post/when-it-comes-to-healthcare-women-in-south-dakota-deserve-more"
+},
+{
+"text": "[no text]",
+"href": "https://www.nikkigforsd.com"
+},
+{
+"text": "contact@nikkigforsd.com",
+"href": "mailto:contact@nikkigforsd.com?subject=Hey+Nikki+G"
+}
 ]

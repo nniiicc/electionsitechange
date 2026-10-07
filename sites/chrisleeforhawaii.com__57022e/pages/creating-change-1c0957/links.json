@@ -1,28 +1,162 @@
 [
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/crime",
-"https://chrisleeforhawaii.com/do-the-right-thing",
-"https://chrisleeforhawaii.com/education",
-"https://chrisleeforhawaii.com/energy-climate",
-"https://chrisleeforhawaii.com/environment",
-"https://chrisleeforhawaii.com/equality",
-"https://chrisleeforhawaii.com/guns",
-"https://chrisleeforhawaii.com/healthcare",
-"https://chrisleeforhawaii.com/jobs",
-"https://chrisleeforhawaii.com/just-economy",
-"https://chrisleeforhawaii.com/justice-reform",
-"https://chrisleeforhawaii.com/local-ag-1",
-"https://chrisleeforhawaii.com/money-in-politics",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://chrisleeforhawaii.com/special-interest",
-"https://chrisleeforhawaii.com/women",
-"https://civilbeat.org/2020/06/20-years-of-honolulu-police-misconduct-summaries-document-serious-bad-behavior",
-"https://facebook.com/chrisleeHI",
-"https://facebook.com/wix",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii",
-"https://twitter.com/wix"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: 13920647_1355375241142873_38227942256424]",
+"href": "https://www.chrisleeforhawaii.com/environment"
+},
+{
+"text": "[image: 20180604-ALEX8044.jpg]",
+"href": "https://www.chrisleeforhawaii.com/do-the-right-thing"
+},
+{
+"text": "[image: DSC01058.jpg]",
+"href": "https://www.chrisleeforhawaii.com/justice-reform"
+},
+{
+"text": "[image: DSC01624.JPG.jpg]",
+"href": "https://www.chrisleeforhawaii.com/jobs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: FoodProd.jpg]",
+"href": "https://www.chrisleeforhawaii.com/local-ag-1"
+},
+{
+"text": "[image: IMG_6511_edited_edited.png]",
+"href": "https://www.chrisleeforhawaii.com/just-economy"
+},
+{
+"text": "[image: IMG_7979.JPG.jpg]",
+"href": "https://www.chrisleeforhawaii.com/energy-climate"
+},
+{
+"text": "[image: IMG_9741.JPG]",
+"href": "https://www.chrisleeforhawaii.com/special-interest"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: Screen%20Shot%202020-03-13%20at%203.20_e]",
+"href": "https://www.chrisleeforhawaii.com/crime"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "[image: WomensCaucus-ID-41ccc38f-0082-4ac9-c26e-]",
+"href": "https://www.chrisleeforhawaii.com/women"
+},
+{
+"text": "[image: gabbygiffords.jpg]",
+"href": "https://www.chrisleeforhawaii.com/guns"
+},
+{
+"text": "[image: hearingtable.jpg]",
+"href": "https://www.chrisleeforhawaii.com/money-in-politics"
+},
+{
+"text": "[image: lgbticons-ID-b80fb4a8-d64b-4c3e-dded-215]",
+"href": "https://www.chrisleeforhawaii.com/equality"
+},
+{
+"text": "[image: socialsecurity.jpg]",
+"href": "https://www.chrisleeforhawaii.com/healthcare"
+},
+{
+"text": "[image: uhdedication.jpg]",
+"href": "https://www.chrisleeforhawaii.com/education"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/crime"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/do-the-right-thing"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/education"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/energy-climate"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/environment"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/guns"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/healthcare"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/jobs"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/just-economy"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/justice-reform"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/local-ag-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/money-in-politics"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/special-interest"
+},
+{
+"text": "[no text]",
+"href": "https://www.chrisleeforhawaii.com/women"
+},
+{
+"text": "over 80 cases of officers suspended or discharged for unwarranted....",
+"href": "https://www.civilbeat.org/2020/06/20-years-of-honolulu-police-misconduct-summaries-document-serious-bad-behavior/"
+}
 ]

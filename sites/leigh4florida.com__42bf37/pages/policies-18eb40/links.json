@@ -1,10 +1,34 @@
 [
-"https://designedtorun.com/",
-"https://leigh4florida.com/",
-"https://leigh4florida.com/about",
-"https://leigh4florida.com/contact",
-"https://leigh4florida.com/endorsements",
-"https://leigh4florida.com/news",
-"https://leigh4florida.com/why-im-running",
-"https://secure.actblue.com/donate/leigh-estes-1"
+{
+"text": "About",
+"href": "https://www.leigh4florida.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.leigh4florida.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leigh-estes-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leigh4florida.com/endorsements"
+},
+{
+"text": "News",
+"href": "https://www.leigh4florida.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.leigh4florida.com/why-im-running"
+},
+{
+"text": "[image: Leigh Estes for Florida House, District 83]",
+"href": "https://www.leigh4florida.com/"
+}
 ]

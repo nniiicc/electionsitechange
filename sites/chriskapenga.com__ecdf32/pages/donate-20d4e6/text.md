@@ -1,8 +1,3 @@
-Kapenga for Taxpayers
-P.O.
-Box 33
-Hartland, WI 53029
-Chris Kapenga for Waukesha County Executive
-Paid for by Kapenga for Taxpayers
-Copyright © 2026 Kapenga for Taxpayers - All Rights Reserved.
+Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Home Nomination Papers Contact us Donate More Home Nomination Papers Contact us Donate Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Kapenga for WAUKESHA COUNTY EXECUTIVE Home Nomination Papers Contact us Donate DONATE Please mail your check to: Kapenga for Taxpayers P.O.
+Box 33 Hartland, WI 53029 Questions: email chris@chriskapenga.com Donate Chris Kapenga for Waukesha County Executive Paid for by Kapenga for Taxpayers Copyright © # Kapenga for Taxpayers - All Rights Reserved.
 Powered by

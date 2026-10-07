@@ -1,6 +1,4 @@
-Redrawn district, Chaz Molder pose challenges for Andy Ogles
-June 18, 2026
-MAYBE MOLDER?: Internal polling shared Wednesday shows Democrat Chaz Molder trailing Republican incumbent Rep.
+Skip to content Chaz Molder for Congress Meet Chaz News Issues Yard Sign Store Stay Informed Donate Redrawn district, Chaz Molder pose challenges for Andy Ogles June 18, 2026 MAYBE MOLDER?: Internal polling shared Wednesday shows Democrat Chaz Molder trailing Republican incumbent Rep.
 Andy Ogles by just six points in Tennessee’s 5th Congressional District, which Republicans won by 23 points in the last election.
 Ogles, who has been riddled with controversy and alienated the slice of Davidson County he previously represented through a series of Islamophobic and homophobic comments, has been drawn into the most unnaturally shaped of the state’s new Congressional districts following unprecedented mid-cycle redistricting in May.
-While Republicans stand to gain an extra seat by dividing the last Democratic district, those same changes mean Ogles represents a weird portion of the state, including about a third of Memphis, which could endanger the previously safe Republican. — Sarah Grace Taylor
+While Republicans stand to gain an extra seat by dividing the last Democratic district, those same changes mean Ogles represents a weird portion of the state, including about a third of Memphis, which could endanger the previously safe Republican. — Sarah Grace Taylor Read the full article Posts navigation Previous Next Meet Chaz Issues Stay Informed Donate Resources Facebook Instagram Twitter X Threads Tik Tok Paid for by Molder for Congress Molder for CongressPO Box 1468Columbia, TN 38402 Privacy Policy

@@ -1,13 +1,16 @@
-Ahead of Shreveport Rally, Louisiana Says No Thanks to Bernie's Socialism and Tax Hikes
-June 20, 2025
-SHREVEPORT, LA - Ahead of a planned rally featuring Senator Bernie Sanders in Shreveport tomorrow, a new billboard is reminding Louisianans about the consequences of Bernie's and Democrats' radical policies.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Ahead of Shreveport Rally, Louisiana Says No Thanks to Bernie's Socialism and Tax Hikes Jun 20 Written By Greg Steele June 20, 2025 SHREVEPORT, LA - Ahead of a planned rally featuring Senator Bernie Sanders in Shreveport tomorrow, a new billboard is reminding Louisianans about the consequences of Bernie's and Democrats' radical policies.
 The billboard, paid for by Mike Johnson for Louisiana, began today and will run through the weekend in Shreveport.
 "As Bernie Sanders arrives in Shreveport, families will be reminded that his policy ideas are disastrous," said Speaker Mike Johnson.
 "If he and Democrats in Washington had their way, they would defeat the One Big Beautiful Bill and force the people of our district to pay an average nearly $1,300 more in federal taxes every year.
-That is one of the many reasons Louisiana, like the rest of our nation, will pass on Democrats' socialism and tax hikes."
-According to analysis, the average taxpayer in Louisiana's 4th district would face a 24% tax increase and the average family family will see a tax increase of $1,280 if the Trump tax cuts expire and House Republicans' legislation does not become law.
+That is one of the many reasons Louisiana, like the rest of our nation, will pass on Democrats' socialism and tax hikes." According to analysis , the average taxpayer in Louisiana's 4th district would face a 24% tax increase and the average family family will see a tax increase of $1,280 if the Trump tax cuts expire and House Republicans' legislation does not become law.
 Additionally in LA-04, more than 80,000 families would see their Child Tax Credit slashed in half, more than 32,000 small businesses would face a 43.4% tax rate, and nearly 7,000 family-owned farms would have their Death Tax Exemption cut in half.
 However, not only will the One Big Beautiful Bill prevent the largest tax increase in history, it will provide families with additional savings and wage growth through common sense policies like No Tax on Tips and No Tax on Overtime.
 New analysis by the Council of Economic Advisors determined the legislation will cause wages in Louisiana to increase $4,700 to $8,900, while take-home pay for families will increase $6,400 to $10,600.
 While Speaker Johnson works with Congressional Republicans and President Donald Trump to deliver these tax savings, last month, every House Democrat joined Sen.
-Bernie Sanders in opposing these tax cuts, as well as border security, spending cuts, and much more.
+Bernie Sanders in opposing these tax cuts, as well as border security, spending cuts, and much more .
+Greg Steele Previous Previous Speaker Johnson Makes Largest Quarterly Transfer Ever with $17.5 Million to House Republicans Next Next ICYMI: Speaker Johnson Smashes Quarterly Fundraising Record Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

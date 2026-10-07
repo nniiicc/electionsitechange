@@ -1,23 +1,13 @@
-CONVIÉRTETE EN VOLUNTARIO
-Trabajaré todos los días para ganarme tu voto. ¡Me encantaría contar con tu ayuda en la campaña!
-¡Me encantaría contar con tu ayuda en la campaña!
-¡Las campañas independientes dependen del apoyo de personas como tu!
+0 Skip to Content Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Folder: Volunteer Back Volunteer Newsletter Folder: Media Back Endorsements NEWS ARTICLES Interviews Newsroom Folder: Merch Back Supporter Merch Assert Your Independence Folder: ESPANOL Back Inicio Políticas Boletín Voluntariado Donate CONVIÉRTETE EN VOLUNTARIO Trabajaré todos los días para ganarme tu voto. ¡Me encantaría contar con tu ayuda en la campaña! ¡Me encantaría contar con tu ayuda en la campaña! ¡Las campañas independientes dependen del apoyo de personas como tu!
 Descubre aquí cómo puedes unirte a nuestra campaña y ayudar a difundir el mensaje del mejor candidato para el futuro de Idaho.
 Postularse como candidato independiente al Senado de los Estados Unidos significa que no contamos con el respaldo de la estructura de un partido político, pero tenemos algo aún mejor: ¡A TI!
 Trabajemos juntos para lograr el cambio que queremos ver en Estados Unidos.
-El Equipo Achilles está buscando:
-- Presidentes de condado
-- Equipos de campaña por condado
-- Voluntarios para llamadas telefónicas
-- Voluntarios para tocar puertas
-- Voluntarios para las ferias del condado
-- Apoyo en mesas informativas y eventos
-Al enviar este formulario y suscribirse para recibir mensajes de texto y correos electrónicos, usted acepta recibir comunicaciones recurrentes de Achilles for Idaho, incluyendo noticias de última hora, solicitudes de recaudación de fondos, peticiones de donaciones, oportunidades de voluntariado, información sobre eventos y recordatorios para salir a votar.
+El Equipo Achilles está buscando: Presidentes de condado Equipos de campaña por condado Voluntarios para llamadas telefónicas Voluntarios para tocar puertas Voluntarios para las ferias del condado Apoyo en mesas informativas y eventos FORMULARIO DE INSCRIPCIÓN PARA VOLUNTARIOS Al enviar este formulario y suscribirse para recibir mensajes de texto y correos electrónicos, usted acepta recibir comunicaciones recurrentes de Achilles for Idaho, incluyendo noticias de última hora, solicitudes de recaudación de fondos, peticiones de donaciones, oportunidades de voluntariado, información sobre eventos y recordatorios para salir a votar.
 No es necesario otorgar este consentimiento para hacer una donación ni para realizar ninguna otra transacción.
 Pueden aplicarse tarifas por mensajes y datos.
 La frecuencia de los mensajes puede variar.
 Responda "STOP" para cancelar la suscripción en cualquier momento o "HELP" para recibir ayuda.
-Puede consultar nuestra Política de Privacidad y nuestros Términos y Condiciones a continuación.
-¿Tiene preguntas?
-volunteer@achillesforidaho.com
-PO Box 8912, Boise ID 83707
+Puede consultar nuestra Política de Privacidad y nuestros Términos y Condiciones a continuación. ¿Tiene preguntas? volunteer@achillesforidaho.com PO Box 8912, Boise ID 83707 Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
+The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

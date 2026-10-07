@@ -1,7 +1,22 @@
 [
-"https://facebook.com/WestforMaine",
-"https://maine.gov/cleanelections",
-"https://taylorwestformaine.com/",
-"https://taylorwestformaine.com/cart",
-"https://taylorwestformaine.com/contact"
+{
+"text": "0",
+"href": "https://www.taylorwestformaine.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.taylorwestformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "Taylor West for State House",
+"href": "https://www.taylorwestformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WestforMaine"
+}
 ]

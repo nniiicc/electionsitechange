@@ -1,4 +1,6 @@
-let’s connect how can we help?
+0 Skip to Content Vote Act Donate Volunteer Yard Signs Issues About Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Open Menu Close Menu Vote Act Donate Volunteer Yard Signs Issues About Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Open Menu Close Menu Vote Folder: Act Back Donate Volunteer Yard Signs Issues Folder: About Back Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW let’s connect how can we help?
 Whether you’re a voter, volunteer, reporter, or campaign manager, we’re happy to answer your questions.
 Just give us a ring or send us a message. p.
-(952) 225-3124 e. tabkebrad@gmail.com
+(952) 225-3124 e. tabkebrad@gmail.com Campaign Office 285 1st Ave.
+E.
+Shakopee, MN 55379 quick links Volunteer Donate Yard Signs Vote About Issues Contact tabkebrad@gmail.com (952) 225-3124 Prepared and paid for by the Tabke (Brad) for MN committee, 1584 Harvest Ln Shakopee, MN 55379

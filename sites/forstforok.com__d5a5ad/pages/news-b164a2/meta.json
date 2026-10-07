@@ -1,7 +1,9 @@
 {
  "description": "Get more in depth info on state and local issues that Aaron Forst stands for.",
  "final_url": "https://www.forstforok.com/news",
- "paid_for_by": null,
+ "fingerprint": "ca1ddd9b6832acd4b66dcc2aa3e884917b462a2b",
+ "format": 3,
+ "paid_for_by": "authorized by Forst for OK Aaron@ForstForOK",
  "title": "Blog | Aaron Forst For State Senate",
  "years_mentioned": []
 }

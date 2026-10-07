@@ -1,24 +1,126 @@
 [
-"http://mandatemedia.com/",
-"https://andreasalinasfororegon.com/",
-"https://andreasalinasfororegon.com/about",
-"https://andreasalinasfororegon.com/cdn-cgi/l/email-protection",
-"https://andreasalinasfororegon.com/contact",
-"https://andreasalinasfororegon.com/donate",
-"https://andreasalinasfororegon.com/endorsements",
-"https://andreasalinasfororegon.com/esp",
-"https://andreasalinasfororegon.com/facebook",
-"https://andreasalinasfororegon.com/instagram",
-"https://andreasalinasfororegon.com/issues",
-"https://andreasalinasfororegon.com/media-resources",
-"https://andreasalinasfororegon.com/mobile-donate",
-"https://andreasalinasfororegon.com/privacy",
-"https://andreasalinasfororegon.com/twitter",
-"https://andreasalinasfororegon.com/volunteer",
-"https://secure.actblue.com/donate/stand-with-andrea-salinas",
-"https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=27",
-"https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=6"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=100&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=250&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=27&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=50&refcode2=express-buttons"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stand-with-andrea-salinas?express_lane=true&amount=6&refcode2=express-buttons"
+},
+{
+"text": "About Andrea",
+"href": "https://www.andreasalinasfororegon.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.andreasalinasfororegon.com/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.andreasalinasfororegon.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.andreasalinasfororegon.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.andreasalinasfororegon.com/mobile-donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.andreasalinasfororegon.com/donate/"
+},
+{
+"text": "EN ESPAÑOL",
+"href": "https://www.andreasalinasfororegon.com/esp/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andreasalinasfororegon.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.andreasalinasfororegon.com/facebook/"
+},
+{
+"text": "Home",
+"href": "https://www.andreasalinasfororegon.com/"
+},
+{
+"text": "I'm counting on you to power our campaign with grassroots support!",
+"href": "https://www.andreasalinasfororegon.com/donate/"
+},
+{
+"text": "Instagram",
+"href": "https://www.andreasalinasfororegon.com/instagram/"
+},
+{
+"text": "Issues",
+"href": "https://www.andreasalinasfororegon.com/issues/"
+},
+{
+"text": "Mandate Media",
+"href": "http://www.mandatemedia.com"
+},
+{
+"text": "Media Resources",
+"href": "https://andreasalinasfororegon.com/media-resources/"
+},
+{
+"text": "Media resources and high-resolution photos & video",
+"href": "https://www.andreasalinasfororegon.com/media-resources/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/stand-with-andrea-salinas"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.andreasalinasfororegon.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andreasalinasfororegon.com/volunteer/"
+},
+{
+"text": "X/Twitter",
+"href": "https://www.andreasalinasfororegon.com/twitter/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@andreasalinasfororegon.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@andreasalinasfororegon.com"
+},
+{
+"text": "[image: Andrea Salinas for Congress]",
+"href": "https://www.andreasalinasfororegon.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.andreasalinasfororegon.com/facebook/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.andreasalinasfororegon.com/instagram/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://www.andreasalinasfororegon.com/twitter/"
+}
 ]

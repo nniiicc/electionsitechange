@@ -1,5 +1,9 @@
-Memorial Day, Bear Creek
-I saw an event promotion on Sunday evening for a Memorial Day ceremony happening at the Danish Cemetery in Bear Creek on Monday at 9:30.
+0 Skip to Content Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Memorial Day, Bear Creek May 25 Written By Grace Abitz I saw an event promotion on Sunday evening for a Memorial Day ceremony happening at the Danish Cemetery in Bear Creek on Monday at 9:30.
 I parked near multiple pick-up trucks on Oak Rd, located in the country next to farm fields with big old trees surrounding the cemetery’s green grass.
 American flags detailed the gravesites of service members.
 An elder shared that many members of Grace Lutheran church were buried in that cemetery.
@@ -12,8 +16,7 @@ One sister worked there for over 30 years.
 She said that the original Bank owner, Dick Pamperin, would roll over in his grave if he knew it was closing down.
 They shared that many people in Black Creek don’t have cars to commute to a neighboring town.
 I took a couple notes and they provided directions to the next ceremony at Trinity Lutheran Cemetery, “Go through the stop sign and a few miles.
-It will be on your left.”
-The honors detail and priest honored the fallen again.
+It will be on your left.” The honors detail and priest honored the fallen again.
 I left and thanked each member for the honorable ceremony.
 Observers made their way to downtown Bear Creek where the parade would begin at 11:00.
 I noticed the giant garage doors at the fire department were wide open.
@@ -26,8 +29,7 @@ He said that the nature of the test has kept firefighters back from operating at
 I was grateful for the information and want to learn more about this sticking point.
 Lastly, it was with recommendation to visit Bear Creek for their annual Sauerkraut festival in early August, I can’t wait!
 Here’s a news article from the 2025 festival, Bear Creek is the Sauerkraut capitol of the world!
-Mary’s Sauerkraut Festival Returns to Bear Creek for 61st Year | TCHDailyNews
-5/26 Follow-up on Premier Bank closing details.
+Mary’s Sauerkraut Festival Returns to Bear Creek for 61st Year | TCHDailyNews ‍ 5/26 Follow-up on Premier Bank closing details.
 I spoke with Robin Christian, the Senior Vice President of Retail, this afternoon.
 She has been with the bank for 12 years and shared the scope as to why the Bear Creek branch would soon be closing.
 It was not a decision that came lightly for Tom Pamperin and the board of directors, the community was shrinking with about 250 people residing in the village of Bear Creek.
@@ -35,3 +37,4 @@ After reduced hours, and drive-thru only strategies to stay open, it no longer m
 Their branch offices in Manawa and Marion will be able to serve members in Bear Creek.
 She shared their banking initiative to offer remote deposit and free safety boxes for life for said members.
 Premier Bank will continue to support Clintonville schools with their annual scholarships they offer to students in the district, including Bear Creek.
+Grace Abitz https://www.graceabitz.com Previous Previous New London FEMA 50% Rule Next Next Everlee Hearing in FDL Made with Squarespace

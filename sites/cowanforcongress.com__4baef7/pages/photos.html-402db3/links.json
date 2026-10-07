@@ -1,11 +1,38 @@
 [
-"https://cowanforcongress.com/images/press-kit/CowanforCongress.mp4",
-"https://cowanforcongress.com/index.html",
-"https://cowanforcongress.com/issues.html",
-"https://cowanforcongress.com/meet-dr-cowan.html",
-"https://cowanforcongress.com/photos.html",
-"https://cowanforcongress.com/privacy-policy.html",
-"https://facebook.com/drcowanforcongress",
-"https://instagram.com/drcowanforcongress",
-"https://secure.winred.com/friends-of-john-cowan/donate-today"
+{
+"text": "CowanforCongress Download",
+"href": "https://cowanforcongress.com/images/press-kit/CowanforCongress.mp4"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-john-cowan/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://cowanforcongress.com/issues.html"
+},
+{
+"text": "Meet Dr. Cowan",
+"href": "https://cowanforcongress.com/meet-dr-cowan.html"
+},
+{
+"text": "Press Kit",
+"href": "https://cowanforcongress.com/photos.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cowanforcongress.com/privacy-policy.html"
+},
+{
+"text": "[image: Dr. John Cowan Congress]",
+"href": "https://cowanforcongress.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/drcowanforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drcowanforcongress/"
+}
 ]

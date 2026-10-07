@@ -1,19 +1,106 @@
 [
-"http://bentoncreative.com/",
-"https://auforga.com/",
-"https://auforga.com/in-the-news",
-"https://auforga.com/join-teamau",
-"https://auforga.com/meet-michelle",
-"https://auforga.com/news",
-"https://auforga.com/priorities",
-"https://auforga.com/privacy-policy",
-"https://auforga.com/support",
-"https://auforga.com/terms-of-use",
-"https://auforga.com/voter-guide",
-"https://ballotrequest.sos.ga.gov/",
-"https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/absentee-ballot-box",
-"https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do",
-"https://vote411.org/georgia"
+{
+"text": "770-405-9418",
+"href": "tel:770-405-9418"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "DONATE",
+"href": "https://auforga.com/support/"
+},
+{
+"text": "Early Voting Details",
+"href": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://auforga.com/priorities/#economy"
+},
+{
+"text": "Education",
+"href": "https://auforga.com/priorities/#education"
+},
+{
+"text": "Healthcare",
+"href": "https://auforga.com/priorities/#healthcare"
+},
+{
+"text": "In the News",
+"href": "https://auforga.com/in-the-news/"
+},
+{
+"text": "Join #TeamAu",
+"href": "https://auforga.com/join-teamau/"
+},
+{
+"text": "Meet Michelle",
+"href": "https://auforga.com/meet-michelle/"
+},
+{
+"text": "News",
+"href": "https://auforga.com/news/"
+},
+{
+"text": "Polling Location",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Priorities",
+"href": "https://auforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://auforga.com/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://auforga.com/priorities/#safety"
+},
+{
+"text": "REGISTER",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button"
+},
+{
+"text": "REGISTER",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://auforga.com/priorities/#reproductiverights"
+},
+{
+"text": "Terms of Use",
+"href": "https://auforga.com/terms-of-use/"
+},
+{
+"text": "Voter Guide",
+"href": "https://auforga.com/voter-guide/"
+},
+{
+"text": "Voting Rights",
+"href": "https://auforga.com/priorities/#votingrights"
+},
+{
+"text": "[image: Dr. Michelle Au]",
+"href": "https://auforga.com/"
+},
+{
+"text": "find a dropbox",
+"href": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/absentee-ballot-box"
+},
+{
+"text": "michelle@auforga.com",
+"href": "mailto:michelle@auforga.com"
+},
+{
+"text": "request ballot",
+"href": "https://ballotrequest.sos.ga.gov/"
+},
+{
+"text": "vote411.org/Georgia",
+"href": "https://www.vote411.org/georgia"
+}
 ]

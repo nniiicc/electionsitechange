@@ -1,6 +1,7 @@
-Josh believes climate change is an existential threat to our way of life.
+Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter DONATE Protecting Our Environment November 5, 2021 contact@veracitymedia.com Comments off Josh believes climate change is an existential threat to our way of life.
 Catastrophic wildfires.
 Historic droughts.
 Polluted air and water.
 That’s why Josh introduced the FARM Act, a landmark climate change bill that supports Valley farmers in the fight against climate change.
-The bill is one of the only bills in Congress backed by both the leading environmental and agricultural groups.
+The bill is one of the only bills in Congress backed by both the leading environmental and agricultural groups. next post Related Posts Harder Statement on Reelection November 4, 2020 Largest Law Enforcement Organization in California Endorses Harder for Reelection September 11, 2020 Harder to Host First-Ever Drive-In Town Hall September 4, 2020 Search Search Recent Posts Harder Statement on Reelection Largest Law Enforcement Organization in California Endorses Harder for Reelection Harder to Host First-Ever Drive-In Town Hall Harder Endorsed by U.S.
+Chamber of Commerce Harder Endorses Joe Biden for President Recent Comments A WordPress Commenter on Harder Statement on Reelection Josh Harder for Congress, PO Box 4220, Manteca, CA 95337 Phone: (209) 299-7487 volunteer donate Campaign Media Center is available here Privacy Policy PAID FOR BY JOSH HARDER FOR CONGRESS Built by Veracity Media Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Facebook-f Twitter Chip in to our campaign! $5 $25 $50 $100 $200 Chip In Continue to Website →

@@ -1,15 +1,70 @@
 [
-"http://mvp.sos.ga.gov/",
-"https://drive.google.com/drive/folders/1jWB17R4tVDapyh5RXSeBwaeCPWQcx8BB?usp=sharing",
-"https://facebook.com/people/Trey-Sheppard-for-State-House/61583960069530",
-"https://mvp.sos.ga.gov/s",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard",
-"https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=100",
-"https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=250",
-"https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=50",
-"https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=500",
-"https://treysheppard.com/",
-"https://treysheppard.com/privacy-policy"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Trey-Sheppard-for-State-House/61583960069530/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "http://mvp.sos.ga.gov/"
+},
+{
+"text": "Find youR polling place here!",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Join the Team",
+"href": "https://treysheppard.com/#join-the-team"
+},
+{
+"text": "Media Kit",
+"href": "https://drive.google.com/drive/folders/1jWB17R4tVDapyh5RXSeBwaeCPWQcx8BB?usp=sharing"
+},
+{
+"text": "Meet Trey",
+"href": "https://treysheppard.com/#meet-trey"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://treysheppard.com/privacy-policy"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://treysheppard.com/privacy-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Trey’s Priorities",
+"href": "https://treysheppard.com/#priorities"
+},
+{
+"text": "[image: Trey Sheppard for State House]",
+"href": "https://treysheppard.com/"
+}
 ]

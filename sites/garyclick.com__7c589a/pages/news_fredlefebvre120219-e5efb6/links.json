@@ -1,13 +1,50 @@
 [
-"https://campaignpartner.com/",
-"https://garyclick.com/",
-"https://garyclick.com/about_gary",
-"https://garyclick.com/contact",
-"https://garyclick.com/events",
-"https://garyclick.com/home",
-"https://garyclick.com/issues",
-"https://garyclick.com/news",
-"https://garyclick.com/photos",
-"https://garyclick.com/privacy-policy",
-"https://spreaker.com/user/9809225/gary-click-dist-88-candidate"
+{
+"text": "About Gary",
+"href": "https://www.garyclick.com/about_gary"
+},
+{
+"text": "Contact",
+"href": "https://www.garyclick.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.garyclick.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.garyclick.com/home"
+},
+{
+"text": "Listen to Gary on the Fred LeFebvre Show 1370 am",
+"href": "https://www.spreaker.com/user/9809225/gary-click-dist-88-candidate"
+},
+{
+"text": "News",
+"href": "https://www.garyclick.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.garyclick.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.garyclick.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image]",
+"href": "https://www.garyclick.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.spreaker.com/user/9809225/gary-click-dist-88-candidate"
+},
+{
+"text": "privacy policy",
+"href": "https://www.garyclick.com/privacy-policy"
+}
 ]

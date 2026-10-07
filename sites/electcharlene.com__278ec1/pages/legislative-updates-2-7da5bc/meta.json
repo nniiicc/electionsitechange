@@ -1,9 +1,12 @@
 {
  "description": "Legislation Filed",
  "final_url": "https://www.electcharlene.com/legislative-updates-2",
- "paid_for_by": null,
+ "fingerprint": "336718f257b544359da26d0d00e0c957346eb379",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Legislative Updates",
  "years_mentioned": [
+  "1965",
   "2025"
  ]
 }

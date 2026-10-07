@@ -1,14 +1,3 @@
-Back to All Events
-Join friends, neighbors, and supporters for an evening with Representative Carolyn Hall as we come together to support her re-election campaign for the Alaska State House.
-📅 Monday, July 13
-🕠 5:30 PM – 7:00 PM
-📍 Home of Jennie Kellie - 3001 Illiamna Avenue
-Can't make it?
-Please donate online:
-Previous
-Previous
-October 28
-Evening with Carolyn Hall & Ky Holland Hosted by Matt Claman
-Next
-Next
-August 18
+0 Skip to Content DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Back to All Events Join Us 7/13 at the home of Jennie Kellie to Support Carolyn Hall Monday, July 13, 2026 5:30 PM 7:00 PM 3001 Illiamna Avenue Anchorage, Alaska, 99517 United States (map) Google Calendar ICS Join friends, neighbors, and supporters for an evening with Representative Carolyn Hall as we come together to support her re-election campaign for the Alaska State House. 📅 Monday, July 13 🕠 5:30 PM – 7:00 PM 📍 Home of Jennie Kellie - 3001 Illiamna Avenue Can't make it?
+Please donate online: https://secure.actblue.com/donate/chshkellie Previous Previous October 28 Evening with Carolyn Hall & Ky Holland Hosted by Matt Claman Next Next August 18 Election Day Morning Sign Waving Connect with us. carolyn@carolynforalaska.com Paid for by Carolyn for Alaska P.O.
+Box 91771, Anchorage, Alaska 99509

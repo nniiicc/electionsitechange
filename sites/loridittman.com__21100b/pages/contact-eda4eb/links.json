@@ -1,10 +1,58 @@
 [
-"https://loridittman.com/",
-"https://loridittman.com/about",
-"https://loridittman.com/contact",
-"https://loridittman.com/gallery",
-"https://loridittman.com/get-involved",
-"https://loridittman.com/priorities",
-"https://secure.winred.com/committee-to-elect-lori-cowger-dittman-for-house-of-delegates/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://xvo46y23yot.typeform.com/to/IjCoeFeA"
+{
+"text": "About",
+"href": "https://www.loridittman.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.loridittman.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.loridittman.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-lori-cowger-dittman-for-house-of-delegates/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "DittmanforHouse@gmail.com",
+"href": "mailto:DittmanforHouse@gmail.com"
+},
+{
+"text": "Events",
+"href": "https://www.loridittman.com"
+},
+{
+"text": "Gallery",
+"href": "https://www.loridittman.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.loridittman.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.loridittman.com"
+},
+{
+"text": "Home",
+"href": "https://www.loridittman.com/contact"
+},
+{
+"text": "Priorities",
+"href": "https://www.loridittman.com/priorities"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://xvo46y23yot.typeform.com/to/IjCoeFeA"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.loridittman.com/get-involved"
+},
+{
+"text": "dittmanforhouse@gmail.com",
+"href": "mailto:dittmanforhouse@gmail.com"
+}
 ]

@@ -1,35 +1,138 @@
 [
-"http://x.com/MonroeCntyNYGOP",
-"https://facebook.com/NY.MonroeGOP",
-"https://facebook.com/profile.php?id=61587875034873",
-"https://instagram.com/mcgop.ny",
-"https://monroegop.com/",
-"https://monroegop.com/about",
-"https://monroegop.com/andrea-bailey",
-"https://monroegop.com/bylaws",
-"https://monroegop.com/candidates",
-"https://monroegop.com/chris-brown",
-"https://monroegop.com/clianda-florence",
-"https://monroegop.com/contact",
-"https://monroegop.com/copy-of-chris-brown",
-"https://monroegop.com/copy-of-pam-helming",
-"https://monroegop.com/copy-of-rob-ortt",
-"https://monroegop.com/dave-ferris",
-"https://monroegop.com/donate",
-"https://monroegop.com/events",
-"https://monroegop.com/josh-jensen",
-"https://monroegop.com/kalinda-washington",
-"https://monroegop.com/news-links",
-"https://monroegop.com/ny-statewide-candidates",
-"https://monroegop.com/orlando-rivera",
-"https://monroegop.com/photo-gallery",
-"https://monroegop.com/press-releases",
-"https://monroegop.com/rob-ortt",
-"https://monroegop.com/steve-hawley",
-"https://monroegop.com/take-action",
-"https://monroegop.com/tracy-diflorio",
-"https://monroegop.com/volunteer",
-"https://monroegop.com/voter-info",
-"https://secure.winred.com/monroe-county-republican-committee/donate",
-"https://youtube.com/@monroecountyrepublicanparty"
+{
+"text": "ABOUT",
+"href": "https://www.monroegop.com/about"
+},
+{
+"text": "Andrea Bailey",
+"href": "https://www.monroegop.com/andrea-bailey"
+},
+{
+"text": "BYLAWS",
+"href": "https://www.monroegop.com/bylaws"
+},
+{
+"text": "CANDIDATES",
+"href": "https://www.monroegop.com/candidates"
+},
+{
+"text": "CONTACT",
+"href": "https://www.monroegop.com/contact"
+},
+{
+"text": "Chris Brown",
+"href": "https://www.monroegop.com/chris-brown"
+},
+{
+"text": "Clianda Florence",
+"href": "https://www.monroegop.com/clianda-florence"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/monroe-county-republican-committee/donate"
+},
+{
+"text": "DONATE",
+"href": "https://www.monroegop.com/donate"
+},
+{
+"text": "Dave Ferris",
+"href": "https://www.monroegop.com/dave-ferris"
+},
+{
+"text": "EVENTS",
+"href": "https://www.monroegop.com/events"
+},
+{
+"text": "George Dobbins",
+"href": "https://www.monroegop.com/copy-of-rob-ortt"
+},
+{
+"text": "Josh Jensen",
+"href": "https://www.monroegop.com/josh-jensen"
+},
+{
+"text": "Kalinda Washington",
+"href": "https://www.monroegop.com/kalinda-washington"
+},
+{
+"text": "NEW YORK STATEWIDE",
+"href": "https://www.monroegop.com/ny-statewide-candidates"
+},
+{
+"text": "NEWS LINKS",
+"href": "https://www.monroegop.com/news-links"
+},
+{
+"text": "Orlando Rivera",
+"href": "https://www.monroegop.com/orlando-rivera"
+},
+{
+"text": "PHOTO GALLERY",
+"href": "https://www.monroegop.com/photo-gallery"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.monroegop.com/press-releases"
+},
+{
+"text": "Pam Helming",
+"href": "https://www.monroegop.com/copy-of-chris-brown"
+},
+{
+"text": "Rob Ortt",
+"href": "https://www.monroegop.com/rob-ortt"
+},
+{
+"text": "Steve Hawley",
+"href": "https://www.monroegop.com/steve-hawley"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.monroegop.com/take-action"
+},
+{
+"text": "Tracy DiFlorio",
+"href": "https://www.monroegop.com/tracy-diflorio"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.monroegop.com/volunteer"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.monroegop.com/voter-info"
+},
+{
+"text": "Virginia McIntyre",
+"href": "https://www.monroegop.com/copy-of-pam-helming"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/NY.MonroeGOP"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587875034873"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mcgop.ny"
+},
+{
+"text": "[image: MCRC Logo.png]",
+"href": "https://www.monroegop.com"
+},
+{
+"text": "[image: X ]",
+"href": "http://www.x.com/MonroeCntyNYGOP"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@monroecountyrepublicanparty"
+},
+{
+"text": "info@monroegop.com",
+"href": "mailto:info@monroegop.com"
+}
 ]

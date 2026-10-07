@@ -1,20 +1,82 @@
 [
-"https://bsky.app/profile/joebrothersformn.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61575405247574",
-"https://instagram.com/joebrothersformnhouse",
-"https://joebrothersforminnesota.com/",
-"https://joebrothersforminnesota.com/about",
-"https://joebrothersforminnesota.com/contact",
-"https://joebrothersforminnesota.com/issues",
-"https://joebrothersforminnesota.com/volunteer",
-"https://mnvotes.sos.mn.gov/",
-"https://secure.actblue.com/donate/joe-brothers-1",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-by-mail-in-us",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad",
-"https://sos.mn.gov/elections-voting/register-to-vote",
-"https://threads.net/@joebrothersformnhouse",
-"https://tiktok.com/@joebrothersformnh",
-"https://x.com/@JoeBrothers4MN"
+{
+"text": "About",
+"href": "https://www.joebrothersforminnesota.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://mnvotes.sos.mn.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.joebrothersforminnesota.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joe-brothers-1"
+},
+{
+"text": "Home",
+"href": "https://www.joebrothersforminnesota.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.joebrothersforminnesota.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/"
+},
+{
+"text": "Request a mail ballot from military or abroad",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/"
+},
+{
+"text": "Request a mail ballot from within the U.S.",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-by-mail-in-us/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joebrothersforminnesota.com/volunteer"
+},
+{
+"text": "Voting early in person",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person/"
+},
+{
+"text": "[image: Joe Brothers for Minnesota House logo]",
+"href": "https://www.joebrothersforminnesota.com/"
+},
+{
+"text": "[image: Joe Brothers for Minnesota House | Carver County | Waconia | Chaska | Victoria | Cologne | Mayer | Townships]",
+"href": "https://www.joebrothersforminnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joebrothersformn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61575405247574"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/joebrothersformnhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@joebrothersformnhouse"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@joebrothersformnh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/@JoeBrothers4MN"
+}
 ]

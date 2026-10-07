@@ -1,6 +1,4 @@
-April 10, 2018
-Dear Constituent of 35 B:
-The 438th Session of the Maryland General Assembly began on Wednesday, January 10 and ended Sine Die, April 9 at midnight as prescribed by law.
+Home About Priorities Resources Scholarship Contact Us News 2018 End of Session Letter Apr 10, 2018 Teresa Reilly 0 Comments April 10, 2018 Dear Constituent of 35 B: The 438th Session of the Maryland General Assembly began on Wednesday, January 10 and ended Sine Die, April 9 at midnight as prescribed by law.
 For the farmers in our State, I sponsored HB 646-Motor Vehicles – Gross Vehicle Weight – Agricultural Products which establishes a 5% gross vehicle weight limit tolerance for vehicles carrying agricultural products during harvest time within 100 miles of the harvested field.
 After three years of negotiating with the farmers of Maryland, the State Highway Administration, the Maryland Department of Agriculture and other stakeholders, the bill was finally passed by both Houses of the General Assembly and is on the Governor’s desk for his signature.
 I also sponsored HB 1660- Property Tax – Assessment Records of Real Property and Reassessment After Appeal which reiterates that property tax reductions must be recorded on the appraisal worksheets and pending appeals will be grandfathered.
@@ -22,12 +20,12 @@ The legislation also increases the penalties for witness intimidation from 5 yea
 SB 101 – Crimes of Violence, Expungement, & Drug Treatment (sponsored by Senator Wayne Norman) now includes Governor Hogan’s initiative to eliminate parole eligibility for second-time violent offenders.
 The legislation also toughens sentences on the sexual abuse of a minor, and adds drug trafficking to the list of crimes that a person may not possess a firearm without a 5 year mandatory sentence.
 I voted for both these bills and they are awaiting the Governor’s signature.
-An important bill that I cosponsored, HB 301- Repeat Sexual Predator Prevention Act of 2018, was signed by the Governor as soon as it passed both houses of the General Assembly early in the Session.
+An important bill that I cosponsored, HB 301- Repeat Sexual Predator Prevention Act of 2018 , was signed by the Governor as soon as it passed both houses of the General Assembly early in the Session.
 This new law, which is effective July 1, 2018 authorizes a court to admit into evidence acts of “sexually assaultive behavior” committed by a defendant before or after the offense for which the defendant is currently being tried.
 In the FY 2019 Budget, $39 million is dedicated to the opioid crisis through the Governor’s Office of Crime Control and Prevention, which is aiding in battling the epidemic, through addiction counseling and law enforcement efforts to battle drug trafficking.
-I also proposed specific legislation (HB 649- Criminal Law – Opioids – Distribution Causing Death of Minor) that fights this epidemic through heavier penalties imposed on selling, distributing, or providing heroin and/or fentanyl to minors.
-I also cosponsored legislation (HB 58-Income Tax-Subtraction Modification-Retirement Income) that includes a pension income exclusion that will expand and allow income from IRAs and annuities to be included within the subtraction modification on tax returns.
-Another law (HB 296-Income Tax-Subtraction Modification-Retirement Income of Correctional Officers) extends a subtraction modification for retired correctional officers in addition to retired law enforcement, fire, rescue and emergency services personnel.
+I also proposed specific legislation ( HB 649- Criminal Law – Opioids – Distribution Causing Death of Minor ) that fights this epidemic through heavier penalties imposed on selling, distributing, or providing heroin and/or fentanyl to minors.
+I also cosponsored legislation ( HB 58-Income Tax-Subtraction Modification-Retirement Income ) that includes a pension income exclusion that will expand and allow income from IRAs and annuities to be included within the subtraction modification on tax returns.
+Another law ( HB 296-Income Tax-Subtraction Modification-Retirement Income of Correctional Officers ) extends a subtraction modification for retired correctional officers in addition to retired law enforcement, fire, rescue and emergency services personnel.
 Another bill that I cosponsored was HB 327-Income Tax-Subtraction Modification-Military Retirement Income which exempts $15,000 of military retirement income from State Taxation for retirees 55 or older.
 Another tax relief bill was SB 134 – Small Business Relief Tax Credit which gives an income tax credit to small businesses that provide paid sick leave to their employees.
 This is the Governor’s initiative to help ease the burden the paid sick leave bill will have on small businesses.
@@ -57,5 +55,4 @@ The representatives of District 35 ( Delegates Cassilly, Hornberger, Reilly, and
 We hope to fulfill more of those promises to small businesses and those people who live in Maryland in the coming sessions.
 If you have any questions or concerns during the Interim, please do not hesitate to contact me at Teresa.reilly@house.state.md.us or at 410-841-3278.
 The Annapolis Office will be open on Tuesdays and Wednesdays from 9-4 if you wish to pay a visit.
-Sincerely,
-Teresa Reilly
+Sincerely, Teresa Reilly Category: News , Press Release About the Author Comments are closed. « 2017 End of Session Letter 2021 Crab Feast » Search for: Get Weekly Updates Sign up to get weekly e-newsletters about what's going on in Annapolis from Teresa during the legislative session. © Copyright # - Theme Chip Zero 1.2 by TutorialChip - Powered by WordPress 5.4.16

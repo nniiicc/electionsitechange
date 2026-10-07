@@ -1,15 +1,66 @@
 [
-"https://chadgleissl.com/",
-"https://chadgleissl.com/contact-chad",
-"https://chadgleissl.com/meet-chad",
-"https://chadgleissl.com/new-priorities",
-"https://chadgleissl.com/pa37district",
-"https://chadgleissl.com/privacy-policy",
-"https://chadgleissl.com/volunteer",
-"https://chadgleissl.com/yardsign",
-"https://facebook.com/chadforpa",
-"https://instagram.com/chadforpa",
-"https://secure.actblue.com/donate/chadforpa",
-"https://twitter.com/chadgleissl",
-"https://youtube.com/user/chadgleissldotcom"
+{
+"text": "CONTACT CHAD",
+"href": "https://www.chadgleissl.com/contact-chad"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chadforpa"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.chadgleissl.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.chadgleissl.com"
+},
+{
+"text": "MEET CHAD",
+"href": "https://www.chadgleissl.com/meet-chad"
+},
+{
+"text": "PA-37TH",
+"href": "https://www.chadgleissl.com/pa37district"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.chadgleissl.com/new-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chadgleissl.com/privacy-policy"
+},
+{
+"text": "YARD SIGN",
+"href": "https://www.chadgleissl.com/yardsign"
+},
+{
+"text": "[image: Facebook Logo]",
+"href": "https://www.facebook.com/chadforpa"
+},
+{
+"text": "[image: Instagram Logo]",
+"href": "https://www.instagram.com/chadforpa"
+},
+{
+"text": "[image: Logo no background.png]",
+"href": "https://www.chadgleissl.com"
+},
+{
+"text": "[image: X Logo]",
+"href": "https://www.twitter.com/chadgleissl"
+},
+{
+"text": "[image: Youtube logo]",
+"href": "https://www.youtube.com/user/chadgleissldotcom"
+},
+{
+"text": "info@chadforpa.com",
+"href": "mailto:info@chadforpa.com"
+},
+{
+"text": "press@chadforpa.com",
+"href": "mailto:press@chadforpa.com"
+}
 ]

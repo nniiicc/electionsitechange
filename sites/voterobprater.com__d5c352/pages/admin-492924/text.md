@@ -1,4 +1,2 @@
-Campaign Admin
-Enter the admin password to view submissions.
-Enter
-← Back to homepage
+Campaign Admin Enter the admin password to view submissions.
+Enter ← Back to homepage

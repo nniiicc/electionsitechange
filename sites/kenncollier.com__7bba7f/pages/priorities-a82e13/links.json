@@ -1,15 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://instagram.com/https://www.instagram.com/kennforgeorgia",
-"https://kenncollier.com/",
-"https://kenncollier.com/about",
-"https://kenncollier.com/contact",
-"https://kenncollier.com/donate",
-"https://kenncollier.com/issues/good-jobs-strong-wages-economic-stability",
-"https://kenncollier.com/issues/healthcare-mental-health-access",
-"https://kenncollier.com/issues/housing-stability-long-time-residents",
-"https://kenncollier.com/issues/trauma-informed-healing-centered-schools",
-"https://kenncollier.com/issues/violence-prevention-public-safety",
-"https://kenncollier.com/issues/youth-pathways-career-access",
-"https://kenncollier.com/volunteer"
+{
+"text": "Affordable Housing & Homeownership",
+"href": "https://www.kenncollier.com/issues/housing-stability-long-time-residents"
+},
+{
+"text": "Community",
+"href": "https://kenncollier.com/donate"
+},
+{
+"text": "Community-Based Safety & Violence Prevention",
+"href": "https://www.kenncollier.com/issues/violence-prevention-public-safety"
+},
+{
+"text": "Contact",
+"href": "https://www.kenncollier.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.kenncollier.com/donate"
+},
+{
+"text": "Healthcare, Mental Health & Community Wellness",
+"href": "https://www.kenncollier.com/issues/healthcare-mental-health-access"
+},
+{
+"text": "Home",
+"href": "https://www.kenncollier.com/"
+},
+{
+"text": "Local Jobs & Economic Stability",
+"href": "https://www.kenncollier.com/issues/good-jobs-strong-wages-economic-stability"
+},
+{
+"text": "Meet Kenn",
+"href": "https://www.kenncollier.com/about"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Trauma-Informed, Healing-Centered Schools",
+"href": "https://www.kenncollier.com/issues/trauma-informed-healing-centered-schools"
+},
+{
+"text": "View more",
+"href": "https://www.kenncollier.com/issues/good-jobs-strong-wages-economic-stability"
+},
+{
+"text": "View more",
+"href": "https://www.kenncollier.com/issues/healthcare-mental-health-access"
+},
+{
+"text": "View more",
+"href": "https://www.kenncollier.com/issues/housing-stability-long-time-residents"
+},
+{
+"text": "View more",
+"href": "https://www.kenncollier.com/issues/trauma-informed-healing-centered-schools"
+},
+{
+"text": "View more",
+"href": "https://www.kenncollier.com/issues/violence-prevention-public-safety"
+},
+{
+"text": "View more",
+"href": "https://www.kenncollier.com/issues/youth-pathways-career-access"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kenncollier.com/volunteer"
+},
+{
+"text": "Youth Pathways & Career Access",
+"href": "https://www.kenncollier.com/issues/youth-pathways-career-access"
+},
+{
+"text": "[image: KENNFORGA logo]",
+"href": "https://www.kenncollier.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.kenncollier.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/https://www.instagram.com/kennforgeorgia"
+}
 ]

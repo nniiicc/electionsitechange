@@ -1,7 +1,11 @@
 {
  "description": "Sign up as a volunteer for Ron's campaign for HD73!",
  "final_url": "https://www.stewartforok.com/volunteer",
+ "fingerprint": "f92f1194073a8f04657c9944c83e40af60c7504b",
+ "format": 3,
  "paid_for_by": "Paid for by Ronald Stewart for State House 2026 Design by Fugue Media bottom of page",
  "title": "VOLUNTEER | Stewart For Ok",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

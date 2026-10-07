@@ -1,14 +1,17 @@
-Gun violence is the number one killer of American children.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Gun Safety · December 17, 2023 Gun Safety Gun violence is the number one killer of American children.
 Gun violence is the number one killer of Pennsylvania children.
 Not cancer.
 Not car accidents.
-Unique to the United States of America, gun violence is the number one killer of children because laws to:
-- safely store firearms (Ethan’s Law)
-- report lost or stolen firearms,
-- require universal background checks,
-- restrict ownership of firearms to those individuals at an elevated risk of harming themselves or others,
-don’t exist at the federal level.
+Unique to the United States of America, gun violence is the number one killer of children because laws to: safely store firearms (Ethan’s Law) report lost or stolen firearms, require universal background checks, restrict ownership of firearms to those individuals at an elevated risk of harming themselves or others, don’t exist at the federal level.
 Since the National Rifle Association (NRA) has raised millions of dollars to lobby legislators who would vote against such common sense regulations, thousands of children die brutal, blood spattered deaths every year.
-Elect Beth Farnham to help craft such sensible legislation as listed above in order to prevent the senseless killing of US children, and other Americans, by firearms.
-photo credit: https://abcnews.go.com/US/photos/obama-photo-sandy-hook-newtown-conn-shooting-17974409
-Resources:
+Elect Beth Farnham to help craft such sensible legislation as listed above in order to prevent the senseless killing of US children, and other Americans, by firearms. photo credit: https://abcnews.go.com/US/photos/obama-photo-sandy-hook-newtown-conn-shooting-17974409 Resources: With Cases Soaring, Guns Are Now Leading Cause of Death for U.S.
+Kids KIDS AND GUNS US Gun Violence in 2023 Guntown (3 minute humorous video) American Academy of Pediatrics: Trends and Disparities in Firearm Deaths Among Children TERROR ON REPEAT: A rare look at the devastation caused by AR-15 shootings Moms Demand Action Center for Gun Violence Solutions, Johns Hopkins, Bloomberg School of Public Health https://www.pewresearch.org/short-reads/2023/04/06/gun-deaths-among-us-kids-rose-50-percent-in-two-years/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from Beth Farnham for Congress Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe Latest posts PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal… District Round-up , healthcare , Our Precious Democracy , Uncategorized · October 4, 2026 Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
+Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 27, 2026 The Most Terrifying Conversation I Ever Had With Voters So I asked, “What is on your heart and mind at the federal level of government?” They responded, “Nothing, really.” I got specific.
+“How are you doing with the price… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 20, 2026 Get updates Spam-free subscription, we guarantee.
+This is just a friendly ping when new content is out. ← Back Thank you for your response. ✨ Name (required) Email (required) Subscribe Submitting form Δ Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Discover more from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Get the latest post from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Subscribe %d

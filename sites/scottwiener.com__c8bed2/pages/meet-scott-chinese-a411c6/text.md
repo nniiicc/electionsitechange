@@ -1,5 +1,13 @@
-過去28年來，加州參議員威善高一直日以繼夜服務三藩市市民，做事鍥而不捨，全力以赴。作為州參議員、前三藩市市參事、前三藩市副市律師，以及資深社區領袖，他一直推動進步政策，致力改善市民生活質素，包括曾起草並成功通過超過100項州法例，讓三藩市變得更可負擔、更安全、更健康，也讓市民生活更加安心。
-面對艱難而重要的議題，威善高從不退縮，即使要付出個人代價，仍然堅持為社區發聲。他勇於改變過時而失效的制度，推動遍及全州及全國的住房改革運動，即使面對鋪天蓋地的個人攻擊，仍然堅持為社區爭取改變。
-他亦積極推動支持LGBTQ群體的立法議程，即使遭到包括瑪喬麗・泰勒・格林（Marjorie Taylor Greene）、小唐納・特朗普（Donald Trump Jr.） 以及克魯茲 （Ted Cruz） 等政客的激烈政治攻擊，甚至收到大量死亡威脅，仍然堅持不退。在當今充滿對立的政治環境下，即使需要付出個人代價，威善高始終把社區利益放在首位。
-在當選州參議員之前，威善高是代表卡斯楚區（Castro District）的三藩市市參事，即前市參事米爾克（Harvey Milk）的選區。在市參事任內，他提出多項全國首創法案，包括為所有在職父母設立全額帶薪育兒假，以及規定新開發項目須進行水資源回收及使用太陽能。他亦致力於住房與公共交通改革，推動加快可負擔住房審批流程、合法化附屬住宅單位，並將公共交通資金與人口增長掛鉤。
-威善高在新澤西州長大，父親是小商業主，母親是公立學校教師，他亦就讀於公立學校。他畢業於杜克大學，並取得哈佛大學法學院的法律學位。其後，他以富布萊特學者身份（Fulbright Scholarship ）前往智利一年進行歷史研究。自1997年起，他一直居住在三藩市的卡斯楚區（Castro District）。
+Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE 認識威善高 過去28年來，加州參議員威善高一直日以繼夜服務三藩市市民，做事鍥而不捨，全力以赴。作為州參議員、前三藩市市參事、前三藩市副市律師，以及資深社區領袖，他一直推動進步政策，致力改善市民生活質素，包括曾起草並成功通過超過100項州法例，讓三藩市變得更可負擔、更安全、更健康，也讓市民生活更加安心。 面對艱難而重要的議題，威善高從不退縮，即使要付出個人代價，仍然堅持為社區發聲。他勇於改變過時而失效的制度，推動遍及全州及全國的住房改革運動，即使面對鋪天蓋地的個人攻擊，仍然堅持為社區爭取改變。 他亦積極推動支持LGBTQ群體的立法議程，即使遭到包括瑪喬麗・泰勒・格林（Marjorie Taylor Greene）、小唐納・特朗普（Donald Trump Jr.） 以及克魯茲 （Ted Cruz） 等政客的激烈政治攻擊，甚至收到大量死亡威脅，仍然堅持不退。在當今充滿對立的政治環境下，即使需要付出個人代價，威善高始終把社區利益放在首位。 在當選州參議員之前，威善高是代表卡斯楚區（Castro District）的三藩市市參事，即前市參事米爾克（Harvey Milk）的選區。在市參事任內，他提出多項全國首創法案，包括為所有在職父母設立全額帶薪育兒假，以及規定新開發項目須進行水資源回收及使用太陽能。他亦致力於住房與公共交通改革，推動加快可負擔住房審批流程、合法化附屬住宅單位，並將公共交通資金與人口增長掛鉤。 威善高在新澤西州長大，父親是小商業主，母親是公立學校教師，他亦就讀於公立學校。他畢業於杜克大學，並取得哈佛大學法學院的法律學位。其後，他以富布萊特學者身份（Fulbright Scholarship ）前往智利一年進行歷史研究。自1997年起，他一直居住在三藩市的卡斯楚區（Castro District）。 STAY UPDATED Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders) from Scott Wiener for Congress at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy . info@scottwiener.com 415-690-7280 Paid for by Scott Wiener for Congress.
+More Information Privacy Policy

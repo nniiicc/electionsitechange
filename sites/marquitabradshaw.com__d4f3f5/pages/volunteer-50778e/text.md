@@ -1,6 +1,8 @@
-Get Involved
-The support you’ve shown has been incredible — one of the most truly humbling experiences of my life.
+Skip navigation menu Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Volunteer We’re going to need an incredible grassroots team to create the change we want to see in Washington.
+Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Volunteer We’re going to need an incredible grassroots team to create the change we want to see in Washington.
+Get Involved The support you’ve shown has been incredible — one of the most truly humbling experiences of my life.
 Together, we can prove that a group of strong, passionate individuals can come together to be a force that can go toe to toe with anyone.
-"My public service is rooted in the challenges facing working families and a commitment to giving Tennesseans a stronger voice in Washington.
-My priorities include affordable healthcare and housing, strong public schools, universal broadband, voting rights, fair electoral districts, climate resilience, environmental justice, and greater economic opportunity
-for every community." -- Marquita Bradshaw
+First Name First Name Last Name Last Name Email Email Phone Number Phone Number ZIP Code ZIP Code Get Involved Yes, Sign Me Up For Updates Phone Bank Knock on Doors Host a Fundraiser Host A Meet and Greet Volunteer Poll Worker Yard Sign Distribution Write Go Vote Post Cards Social Media Ambassador March In A Parade Attend Local Events Rides To The Polls Recruit Volunteers Research and Data Entry By submitting this form, you acknowledge that the information provided will be handled according to the website’s privacy policy.
+Submit "My public service is rooted in the challenges facing working families and a commitment to giving Tennesseans a stronger voice in Washington.
+My priorities include affordable healthcare and housing, strong public schools, universal broadband, voting rights, fair electoral districts, climate resilience, environmental justice, and greater economic opportunity for every community." -- Marquita Bradshaw JOIN OUR MOVEMENT Tennesseans deserve better, join Marquita in building a grassroots campaign that moves Tennessee forward.
+This race won’t be easy, and every supporter matters. $ 25 $ 50 $ 100 $ 250 $ 500 Other $ 25 $ 50 $ 100 $ 250 $ 500 Other DONATE BY MAIL Marquita Bradshaw for United States Senate 1498 Union #901 Memphis, Tennessee 38104 Please provide occupation and employer information for individual donations greater than $# PRESS CONTACT GENERAL CONTACT Designed and Created by Swing State Powered by RUN! website builder PAID FOR BY MARQUITA BRADSHAW FOR UNITED STATES SENATE You need to enable JavaScript to run this app.

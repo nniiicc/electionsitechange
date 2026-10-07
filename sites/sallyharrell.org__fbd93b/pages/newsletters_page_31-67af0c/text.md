@@ -1,30 +1,20 @@
-The Latest News from Sally:
-I read a little story last night that I can’t get out of my mind.
+Facebook Twitter Mail About Sally 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements Priorities Healthcare Education Transportation Environment Criminal Justice & Police Reform Other Issues Voter Info Events Newsletters Contact DONATE Menu Menu The Latest News from Sally: Healthcare in Rural Georgia Needs Our Support Sally's Priorities I read a little story last night that I can’t get out of my mind.
 It was part of an article written by Jim Galloway of the Atlanta Journal Constitution about a conversation he had with Monty Veazey, president of the Georgia Alliance of Community Hospitals.
-I remember Veazey from my days at the State […]
-“Now is the time to stand up, claim our shared values and create change.” I am proud to announce my candidacy for Georgia’s 40th Senate District.
+I remember Veazey from my days at the State […] July 13, 2017 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2017/07/mapogeorgia.png 314 290 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2017-07-13 15:36:05 2018-08-26 16:00:53 Healthcare in Rural Georgia Needs Our Support Meeting John Lewis Photos Read more June 18, 2017 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2017/06/4-IMG_20170617_172758.jpg 2016 3024 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2017-06-18 03:25:26 2018-02-03 06:23:46 Meeting John Lewis Sally Harrell Announces Run for Georgia Senate District 40 News “Now is the time to stand up, claim our shared values and create change.” I am proud to announce my candidacy for Georgia’s 40th Senate District.
 We are at a crucial moment in Georgia’s history.
 Our demographics are changing.
 Our politics are evolving.
-Now is the time to stand up, claim our shared values and […]
-Stay in Touch
-Sign up to receive Sally’s newsletter in your inbox!
+Now is the time to stand up, claim our shared values and […] May 11, 2017 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2017/04/SallyHarrell_FB_470x276_r1.png 276 470 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2017-05-11 02:29:57 2017-05-11 02:29:57 Sally Harrell Announces Run for Georgia Senate District 40 Sally at the Atlanta March Photos Read more January 31, 2017 / by Elect Sally Harrell https://sallyharrell.org/wp-content/uploads/2017/01/SallyHarrell_AtlantaMarch-7.jpg 400 495 Elect Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Elect Sally Harrell 2017-01-31 15:07:31 2017-01-31 15:18:18 Sally at the Atlanta March Sally’s Interview at the Atlanta March Video Read more January 31, 2017 / by Elect Sally Harrell https://sallyharrell.org/wp-content/uploads/2017/01/Screen-Shot-2017-01-31-at-8.07.39-AM.png 556 985 Elect Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Elect Sally Harrell 2017-01-31 13:02:28 2017-01-31 15:20:08 Sally’s Interview at the Atlanta March Page 31 of 31 « ‹ 29 30 31 Stay in Touch Sign up to receive Sally’s newsletter in your inbox!
 “I appreciate your emails more than I anticipated.
-They are informative while being upbeat.”
-“I appreciate your updates and have read all of them.
-Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.”
-“Your emails are so informative I suspect you have reawakened an interest in government by your constituents.”
-“Senator, thoroughly enjoy your missives — informative, insightful and timely.”
-“Again, I have to say that you write extraordinarily wonderful newsletters.
+They are informative while being upbeat.” Carol WOODSTOCK, GA “I appreciate your updates and have read all of them.
+Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.” Nancy DUNWOODY, GA “Your emails are so informative I suspect you have reawakened an interest in government by your constituents.” Rich DUNWOODY, GA “Senator, thoroughly enjoy your missives — informative, insightful and timely.” Gee Gee ATLANTA “Again, I have to say that you write extraordinarily wonderful newsletters.
 I have to read them from beginning to end so I don’t miss a sentence where you nail the truth so well.
-You have a great sense of humor which is so important in today’s world.”
-“I enjoy your newsletters so much.
-They always have all the information I really need to have.”
-“Sally, your communication is spectacular!”
-“I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
-They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.”
-Support Sally’s Campaign
-Your contribution will help us reach more voters.
-Sally’s campaign is fueled by volunteer enthusiasm and energy.
+You have a great sense of humor which is so important in today’s world.” Sara DEKALB COUNTY “I enjoy your newsletters so much.
+They always have all the information I really need to have.” Lisa STONE MOUNTAIN “Sally, your communication is spectacular!” Mary AVONDALE ESTATES “I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
+They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.” Karen BUFORD Support Sally’s Campaign Your contribution will help us reach more voters.
+DONATE Sally’s campaign is fueled by volunteer enthusiasm and energy.
 Join us!
-Show your support for Sally, request a yard sign!
+VOLUNTEER Show your support for Sally, request a yard sign!
+YARD SIGN © # Paid for by The Committee to Elect Sally Harrell.
+Designed by Benton Creative .
+Facebook Twitter Mail Scroll to top

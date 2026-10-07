@@ -1,4 +1,4 @@
-As an attorney, former Florida legislator, and former U.S.
+EN ES Home About Priorities Media Endorsements Get involved Donate Jose Javier Rodriguez As an attorney, former Florida legislator, and former U.S.
 Assistant Secretary of Labor, I've spent my career focused on three things: public safety, a level playing field for everyday people, and accountable government.
 I grew up in a Catholic household where faith, personal responsibility, and service to others weren't just values we talked about, they were how we lived.
 That's still how I approach public office, and it's what my wife Sonia and I are passing on to our two sons.
@@ -16,6 +16,6 @@ That experience only deepened my commitment to rooting out corruption in governm
 Now running for Attorney General, I'm committed to bringing stability back to the office and refocus it on a mission of fighting crime, costs and corruption.
 I will serve as a steady, professional and independent-minded enforcer of the law, not a hyper-political hack servant of the powerful.
 I'm focused on keeping Floridians safe, fighting to lower costs, and rooting out corruption, all while serving as a fair, independent-minded advocate for all Floridians, not special interests.
-Donate today to support Jose Javier Rodriguez
-Every dollar counts.
-Support our campaign and make a difference starting today.
+Donate today to support Jose Javier Rodriguez Every dollar counts.
+Support our campaign and make a difference starting today. $25 $50 $100 $250 $500 $1,000 $3,000 Other Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL

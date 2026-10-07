@@ -1,5 +1,4 @@
-ABout Kevin Alons
-I believe our nation is at a critical crossroads – we can return to what made our country great, or continue a slide towards chaos and ruin.
+Skip to Content Open Menu Close Menu Home About Issues News Volunteer Contact Events Store 0 0 CONTRIBUTE Home About Issues News Volunteer Contact Events Store 0 0 CONTRIBUTE Open Menu Close Menu Home About Issues News Volunteer Contact Events Store CONTRIBUTE ABout Kevin Alons I believe our nation is at a critical crossroads – we can return to what made our country great, or continue a slide towards chaos and ruin.
 It is my intention to do everything I possibly can to elevate our founding principles so that we might leave a strong and successful state to our kids and grandkids.
 I grew up on a family farm near Boyden (Sioux County) where I learned the value of family, hard work, and service to others.
 Following in my father’s footsteps, I enlisted in the Air National Guard as soon as I was eligible.
@@ -25,4 +24,5 @@ In addition to our two daughters and a son, we welcomed a son-in-law to our fami
 Recently, our family grew again as they blessed us with a grandson!
 I am running for Iowa Senate because I believe Iowa has become a “beacon of hope” to the nation.
 It is my intention to promote public policy that honors God, cherishes and supports the family, and respects the values and traditions of our past.
-As the words of our Iowa motto so clearly state, “Our liberties we prize and our rights we will maintain.”
+As the words of our Iowa motto so clearly state, “Our liberties we prize and our rights we will maintain.” Help me fight for conservative values today!
+Contribute Alons for Iowa Senate PAID FOR BY ALONS FOR SENATE About Issues News Volunteer Contact Contribute

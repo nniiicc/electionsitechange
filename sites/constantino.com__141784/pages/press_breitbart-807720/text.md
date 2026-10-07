@@ -1,17 +1,10 @@
-Breitbart Reports on New Audio of Blake Gendebien Pledging to Fight Against ICE, Open to Free Healthcare for Illegal Aliens
-Edinburg, NY– 16 September 2026 – In audio first reported by Breitbart News, Blake Gendebien brands the Trump administration's immigration enforcement "out of line," attacks ICE as an illegitimate "personal paramilitary force," and refuses to say rule out government-funded healthcare for illegal aliens.
+Constantino About Agenda Endorsements Press FAQs Contact Contact Breitbart Reports on New Audio of Blake Gendebien Pledging to Fight Against ICE, Open to Free Healthcare for Illegal Aliens Edinburg, NY– 16 September 2026 – In audio first reported by Breitbart News , Blake Gendebien brands the Trump administration's immigration enforcement "out of line," attacks ICE as an illegitimate "personal paramilitary force," and refuses to say rule out government-funded healthcare for illegal aliens.
 According to the audio reported by Breitbart, Gendebien committed to fighting against the Trump administration’s use of ICE: “The Trump administration is out of line.
 Our immigration enforcement is being misused as a personal paramilitary force.
-That is not acceptable, and I am going to fight against that.”
-Asked directly, in a separate clip reported by Breitbart, whether he'd stand with Governor Hochul to give illegal aliens access to government healthcare, Gendebien refused to close the door.
-“I do not know enough about it.”
-Gendebien is already on record accusing Border Patrol agents of profiling people "by skin color," and admitting he personally paid $10,000 to bail one of his own illegal alien workers out of custody to put him back to work on his farm.
+That is not acceptable, and I am going to fight against that.” Asked directly, in a separate clip reported by Breitbart, whether he'd stand with Governor Hochul to give illegal aliens access to government healthcare, Gendebien refused to close the door.
+“I do not know enough about it.” Gendebien is already on record accusing Border Patrol agents of profiling people "by skin color," and admitting he personally paid $10,000 to bail one of his own illegal alien workers out of custody to put him back to work on his farm.
 Breitbart also reported in February on audio of Gendebien trashing American workers as being plagued by "domestic abuse problems" and drinking problems, while praising his illegal aliens.
 “Blake Gendebien is on record bailing out illegal alien criminals, he said he wants to stop the Trump admin from using ICE, he wants free healthcare for illegal aliens, and he hates American workers,” said Anthony Constantino.
-“His mind is clearly poisoned by stereotypical left wing propaganda.”
-###
-About Anthony Constantino
-Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
+“His mind is clearly poisoned by stereotypical left wing propaganda.” ### About Anthony Constantino Anthony Constantino set the record for most votes in the NY-21 primary after overcoming fierce establishment opposition as a political outsider who built Sticker Mule, a global company headquartered in New York with over 1,000 employees.
 He also compiled a 2-1 (2 KOs) professional boxing record after going pro for his 40th birthday.
-Media contact
-[email protected]
+Media contact [email protected] Paid by Constantino for Congress SMS Opt-in Terms Privacy

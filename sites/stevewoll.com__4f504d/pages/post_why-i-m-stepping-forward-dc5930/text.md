@@ -1,5 +1,5 @@
-Why I'm Stepping Forward...
-I've always been interested in history, which means having to be aware of politics, even if it rarely seemed like something I would like to do.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Why I'm Stepping Forward...
+Steve Woll Jul 9 2 min read I've always been interested in history, which means having to be aware of politics, even if it rarely seemed like something I would like to do.
 Right after college, I volunteered for a presidential campaign and got a taste of political sausage-making.
 I was still interested, but I didn't get bit by the political bug.
 Soon I was in the Navy and focused on my career, which was truly as apolitical as you could get.
@@ -17,3 +17,4 @@ This country and its people - of all political persuasions - are too important a
 I'm running, and running as an Independent, because we need to prevent that - the ship is headed for the rocks, and we need to turn it back towards safe waters.
 I believe I have a role to play in that, as do each and every one of us.
 Here's hoping we all step forward together in the days to come.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Alarming Bookends ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

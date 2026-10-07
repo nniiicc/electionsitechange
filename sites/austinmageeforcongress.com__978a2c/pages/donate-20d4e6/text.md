@@ -1,2 +1,2 @@
-Make a Contribution today Thank you for supporting my campaign.
-Austin Magee for Congress $25.00 $50.00 $100.00 Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Support us by covering the fees we have to pay 3% Cover the Fee Donate Donate
+0 Skip to Content Home About Contact Donate Open Menu Close Menu Home About Contact Donate Open Menu Close Menu Home About Contact Donate Make a Contribution #ago Thank you for supporting my campaign.
+Austin Magee for Congress $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate Paid for by Austin Magee for Congress Contact 985-335-5499 info@austinmageeforcongress.com

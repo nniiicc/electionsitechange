@@ -1,7 +1,9 @@
 {
  "description": "Edmond Laplante US Senate candidate, advocating for constitutional values and veteran healthcare in New Hampshire politics.",
  "final_url": "https://laplante4constitutionalnh.com/about-me",
- "paid_for_by": null,
+ "fingerprint": "e79dd6f8b2cc8010aa32f70b97c8a46e000e3b33",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Me",
  "years_mentioned": [
   "2026"

@@ -1,5 +1,4 @@
-Fellow Oregonians:
-“Half the job of a Legislator is to protect the People from the Government” The safety of Tigard and protecting our economic future are my highest priorities.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer 30 Year Tigard Resident and Business Man Runs for the 25th District of the Oregon House of Representatives Tigard-Metzger-Beaverton Fellow Oregonians: “Half the job of a Legislator is to protect the People from the Government” The safety of Tigard and protecting our economic future are my highest priorities.
 Does Tigard want a “Portland Style” way of life?
 I believe that the Police should be funded properly and that the Mayor should be able to choose the Police Chief.
 However, the Mayor should not have the ability to selectively enforce the law like what happened to destroy Portland.
@@ -17,6 +16,6 @@ I believe that PERS has been turned into nothing more than a bribery system that
 I also believe that the people receiving PERS should be protected from government actions that may look at the PERS assets as a source of money to spend.
 Public employees earned their pensions.
 I will protect your pensions.
-Elect Bob Niemeyer to the 25th District of the House of Representatives.
-“The People’s future is more important than the government’s future.”
-Bob Niemeyer
+Elect Bob Niemeyer to the 25 th District of the House of Representatives.
+“The People’s future is more important than the government’s future.” Bob Niemeyer Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

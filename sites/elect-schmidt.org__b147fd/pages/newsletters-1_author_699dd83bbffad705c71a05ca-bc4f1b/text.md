@@ -1,5 +1,7 @@
-Learning from the Community
-This past week I attended the Friends of the Wild River State Park pancake fundraiser
-Daniel Colten Schmidt
-Daniel Colten Schmidt
+0 Skip to Content Home Policies Volunteer Events Newsletters Donate Open Menu Close Menu Home Policies Volunteer Events Newsletters Donate Open Menu Close Menu Home Policies Volunteer Events Newsletters Donate Daniel Colten Schmidt 9/14/26 Daniel Colten Schmidt 9/14/26 Affordable Healthcare Read More Daniel Colten Schmidt 8/25/26 Daniel Colten Schmidt 8/25/26 # Days Till Election Read More Daniel Colten Schmidt 8/11/26 Daniel Colten Schmidt 8/11/26 Teamsters Still on Strike!
+Read More Daniel Colten Schmidt 7/16/26 Daniel Colten Schmidt 7/16/26 Water is Life Read More Daniel Colten Schmidt 7/1/26 Daniel Colten Schmidt 7/1/26 Karen Clark’s Legacy Read More Daniel Colten Schmidt 6/25/26 Daniel Colten Schmidt 6/25/26 Endorsed by the AFL-CIO Read More Daniel Colten Schmidt 5/28/26 Daniel Colten Schmidt 5/28/26 In the Sweat of Thy Face Read More Daniel Colten Schmidt 5/15/26 Daniel Colten Schmidt 5/15/26 Smart Economy Read More Daniel Colten Schmidt 4/30/26 Daniel Colten Schmidt 4/30/26 Protecting the Boundary Waters Read More Daniel Colten Schmidt 4/10/26 Daniel Colten Schmidt 4/10/26 Paid Family and Medical Leave Read More Daniel Colten Schmidt 3/31/26 Daniel Colten Schmidt 3/31/26 No Kings!
+No Kings!
+Read More Daniel Colten Schmidt 3/21/26 Daniel Colten Schmidt 3/21/26 Learning from the Community This past week I attended the Friends of the Wild River State Park pancake fundraiser Read More Daniel Colten Schmidt 3/13/26 Daniel Colten Schmidt 3/13/26 Our Campaign is Up and Running!
 Our Campaign is Up and Running!
+Read More Sign up to receive the newsletter in your inbox!
+Prepared for and Paid by the Campaign Committee for Daniel Colten Schmidt 28B PO Box 112 Chisago City, MN, 55013 Donate campaign@elect-schmidt.org

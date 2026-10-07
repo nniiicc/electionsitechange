@@ -1,59 +1,57 @@
-So what did the legislature do in the 2017 session?
+Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell - Vermont Rep Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome So what did the legislature do in the 2017 session?
 A lot, as it turns out.
 In the House, 540 bills were submitted for consideration, with another 148 in the Senate.
 It was typical to find 4 or 5 bills submitted on the same subject matter with slightly different wording or policy considerations.
-Below are the bills that passed both houses. 57 of them have been signed into law by the Governor.
+Below are the bills that passed both houses.
+57 of them have been signed into law by the Governor.
 The others are hanging in limbo.
-The Appropriations Budget (H.518), the “BIG BILL”: The total 2018 budget of $5.8 billion is 1.3% higher than the 2017 budget, the smallest increase in years.
+The Appropriations Budget (H.518), the “BIG BILL” : The total 2018 budget of $5.8 billion is 1.3% higher than the 2017 budget, the smallest increase in years.
 The budget makes significant investments in Vermonters without raising taxes or fees and honoring commitments to pay obligations and maintain reserves.
 It does not raise property taxes or income taxes or use new fees, it spends less money than is raised and stays below the projected revenue growth rates for FY18.
-Key Actions:
-- Invests $8.4 million in mental health care and development services.
-- Adds $2.5 million in additional child care funding for centers and home-based programs for infants and toddlers.
-- Closes the Southeast Correction Facility (Windsor Prison) with a plan to reuse the facility in the future for transition housing and programming.
-- Expands a DOC plan for gradual increased use of electronic monitoring.
-- Adds $600,000 to increase shelter capacity in Barre and Rutland.
-- Provides $1.25 million to fund police camera equipment (“body cams”).
-- Increases PILOT funds to $7.6 million, 76% of estimated PILOT obligations.
-- State employees: Funds reclassifications, including retroactive pay for judiciary positions.
-- Funds Guardian Ad Litem and Court security in the judiciary.
-- Increases funding for farm-to-school initiative, state fairs and Working Lands programs.
-- Requires $5 million in Administration reductions.
-- Provides $3 million base increase to the Vermont State Colleges and $880,000 for the merger of Johnson and Lyndon Colleges.
-- Adds the current Teacher’s Retirement contribution of $7.9 million to the Education Fund.
-- Increases percentage of sales tax receipts to Education fund from 35% to 36%.
-- Funds the $2.5 million annual debt service on a $35 million housing bond to fund the creation or rehabilitation of affordable and workforce housing.
-- Funded a number of economic development initiatives, including $250,000 in economic development marketing, $100,000 to the Microbusiness Lending Programs administered by the Community Action Partners, $150,000 to expand the number of business advisors with the Small Business Development Center.
-Economic Development Bill (S.135): This annual omnibus is considered by many to be the best economic development bill in recent years.
-Here are the many facets of the bill:
-- Vermont Employee Growth Incentive: This existing program provides tax incentives to businesses who add jobs that meet certain criteria.
+Key Actions: Invests $8.4 million in mental health care and development services.
+Adds $2.5 million in additional child care funding for centers and home-based programs for infants and toddlers.
+Closes the Southeast Correction Facility (Windsor Prison) with a plan to reuse the facility in the future for transition housing and programming.
+Expands a DOC plan for gradual increased use of electronic monitoring.
+Adds $600,000 to increase shelter capacity in Barre and Rutland.
+Provides $1.25 million to fund police camera equipment (“body cams”).
+Increases PILOT funds to $7.6 million, 76% of estimated PILOT obligations.
+State employees: Funds reclassifications, including retroactive pay for judiciary positions.
+Funds Guardian Ad Litem and Court security in the judiciary.
+Increases funding for farm-to-school initiative, state fairs and Working Lands programs.
+Requires $5 million in Administration reductions.
+Provides $3 million base increase to the Vermont State Colleges and $880,000 for the merger of Johnson and Lyndon Colleges.
+Adds the current Teacher’s Retirement contribution of $7.9 million to the Education Fund.
+Increases percentage of sales tax receipts to Education fund from 35% to 36%.
+Funds the $2.5 million annual debt service on a $35 million housing bond to fund the creation or rehabilitation of affordable and workforce housing.
+Funded a number of economic development initiatives, including $# in economic development marketing, $# to the Microbusiness Lending Programs administered by the Community Action Partners, $# to expand the number of business advisors with the Small Business Development Center.
+Economic Development Bill (S.135) : This annual omnibus is considered by many to be the best economic development bill in recent years.
+Here are the many facets of the bill: Vermont Employee Growth Incentive: This existing program provides tax incentives to businesses who add jobs that meet certain criteria.
 The bill amends the law to provide enhanced incentives in economically disadvantaged regions of the state, as well as holds businesses accountable for obeying all Vermont laws.
-- Rural Economic Development Infrastructure Districts (REDIs): The bill creates a new financing vehicle for municipalities to finance infrastructure improvements, the repayment of which is tied to the revenue generated from the infrastructure improvements and NOT by the taxing authority of the district.
+Rural Economic Development Infrastructure Districts (REDIs): The bill creates a new financing vehicle for municipalities to finance infrastructure improvements, the repayment of which is tied to the revenue generated from the infrastructure improvements and NOT by the taxing authority of the district.
 Similar to an industrial revenue bond, it is an unsecured loan that cannot come back to taxpayers in the district.
 This could be used to finance things such as extending fiber to every home and repaid from the revenues generated by doing so.
 This is currently not available with existing financing tools.
-- Green Mountain Secure Retirement Plan: The bill creates a state administered Multiple Employer Plan to make it easier for businesses with 50 or fewer employers to establish voluntary retirement plans.
+Green Mountain Secure Retirement Plan: The bill creates a state administered Multiple Employer Plan to make it easier for businesses with 50 or fewer employers to establish voluntary retirement plans.
 The purpose is to address the financial security of Vermonters in retirement, particularly with the continued movement to defined contribution plans instead of defined benefit plans.
 The figures are pretty stark in terms of the % of Vermonters with no retirement savings (more than 40% of working adults) who would become an obligation of the State or federal government to support them in retirement.
 Employees will be automatically enrolled when hired, but they do NOT have to participate.
 Experience in other states shows that establishing such a plan helps increase the number of people who actively save for their retirement.
 There will be no expense to taxpayers, as the revenues generated from the investments will pay for any management fees, which are anticipated to be very low.
-- Workers’ Compensation Administrative Fund: The enforcement and regulation of Workers’ Compensation is paid for by a fee that is included in the premiums paid by businesses.
+Workers’ Compensation Administrative Fund: The enforcement and regulation of Workers’ Compensation is paid for by a fee that is included in the premiums paid by businesses.
 The bill REDUCES the fee from 1.75% to 1.4% of the premiums paid.
 While not a substantial change, it is nice to see some fees reduced.
-- State Workforce Development System: The bill addresses the recurring theme throughout the legislative session that employers can’t find employees, and employees can’t find jobs.
+State Workforce Development System: The bill addresses the recurring theme throughout the legislative session that employers can’t find employees, and employees can’t find jobs.
 The bill creates a Working Group to do a complete assessment of the State’s efforts to solve the gap, and make specific recommendations to better align the myriad of efforts.
 The report is due on November 15, 2017 so that legislation can be drafted for the legislative session in January.
-- Career Pathways Coordinator: Along the theme of workforce development, the bill creates a position in the Agency of Education to coordinate the curriculum development and industry outreach efforts for the Career Technical Education Centers in the state.
+Career Pathways Coordinator: Along the theme of workforce development, the bill creates a position in the Agency of Education to coordinate the curriculum development and industry outreach efforts for the Career Technical Education Centers in the state.
 This is a critical role to make sure that the skills being developed at the CTEs mirror the needs of employers, and to ensure that the quality of the education provides students (both high school students and adult learners) with meaningful credentials that ensure that they can earn a successful wage.
-- Heating Fuel and Service Workforce Training Pilot Project: The bill creates a partnership between the heating fuel and service companies and the State to train heating technicians.
+Heating Fuel and Service Workforce Training Pilot Project: The bill creates a partnership between the heating fuel and service companies and the State to train heating technicians.
 These jobs have starting wages of $20 per hour and the industry is very short staffed.
 This targeted partnership is unusual, but the industry is financing 50% of the training costs and guarantees a job for participants and has a curriculum and trainers poised and ready to go.
-- Affordable Housing: In this bill, the definition of “affordable housing” for owner occupied housing is expanded to include households at 120% of median income, instead of 80% as is currently stipulated in law.
-The bill will further the establishment of “workforce housing.”
-- Priority Housing Projects: Qualified priority housing projects for new units are already exempted from Act 250 review if they are in a designated center or downtown development district.
+Affordable Housing: In this bill, the definition of “affordable housing” for owner occupied housing is expanded to include households at 120% of median income, instead of 80% as is currently stipulated in law.
+The bill will further the establishment of “workforce housing.” Priority Housing Projects: Qualified priority housing projects for new units are already exempted from Act 250 review if they are in a designated center or downtown development district.
 The bill further defines qualified projects by the population of the intended district (25 or more units in a municipality with a population of less than 3,000) as well as requires projects to meet high standards for energy efficiency (“stretch codes”).
-- Tax Increment Financing Districts: This is a major portion of the bill.
+Tax Increment Financing Districts: This is a major portion of the bill.
 Currently Vermont Statutes do not allow for the addition of any Tax Increment Financing Districts (TIFs).
 This is a valuable economic development tool used to incentivize development in economically distressed areas.
 A TIF recaptures any increase in property taxes generated in a specified district as a result of the improvements financed by a public bond (think infrastructure improvements).
@@ -61,126 +59,92 @@ The bill authorizes an additional 6 TIF districts in the state and puts into pla
 There are already communities lined up to apply for TIFs, including Springfield, Bennington and St.
 Johnsbury.
 The bill also creates “MUNI TIFs” in which communities can create a district where no portion of the statewide education property tax is used to repay the bond.
-- MISCELLANEOUS FUNDING: Adds $100,000 to Microbusiness Lending Programs, administered by the Community Action Agencies in the state, $250,000 for Economic Development Marketing activities for the Agency of Commerce and Community Development, and $150,000 for adding counselors to Vermont’s Small Business Development Center to work with small businesses throughout the state.
-· Comprehensive Education Governance Reform.
-(H513): Increases the flexibility for school districts to comply with Act 46, originally passed in 2015 to unify school districts and promote equality in education.
+MISCELLANEOUS FUNDING: Adds $100,000 to Microbusiness Lending Programs, administered by the Community Action Agencies in the state, $250,000 for Economic Development Marketing activities for the Agency of Commerce and Community Development, and $150,000 for adding counselors to Vermont’s Small Business Development Center to work with small businesses throughout the state. · Comprehensive Education Governance Reform.
+(H513) : Increases the flexibility for school districts to comply with Act 46, originally passed in 2015 to unify school districts and promote equality in education.
 The bill gives school districts who have not yet merged more time and additional, approved governance structures.
-To date, 113 of the 260+ school districts have merged.
-· Ethics (S.8): Establishes an independent State Ethics Commission to field complaints about ethics violations by elected government officials.
+To date, 113 of the 260+ school districts have merged. · Ethics (S.8) : Establishes an independent State Ethics Commission to field complaints about ethics violations by elected government officials.
 Prohibits legislators, statewide office holders, and executive officers from becoming lobbyists for one year after leaving office.
 Imposes restrictions on “no-bid” contractsand related campaign contributions involving statewide candidates/office holders.
 Requires legislative, statewide and executive officers to disclose sources of annual income over $5,000 (including spouses).
 Requires the creation of a state code of ethics.
-Requires each municipality to adopt a conflict of interest policy for all its elected officials, appointees, and employees.
-· Post-Traumatic Stress Injuries in the Workplace (H.197): Establishes parity between physical injuries and psychological injuries so that Workers Compensation claims can be filed for mental injuries caused by unusual or traumatic events suffered on the job.
-Specifically carves in first responders (police, fire, ambulance) to remove burden of presumption of when they first suffered the injury.
-· Marijuana (S.22) Removes all civil and criminal penalties for possession of up to one ounce of marijuana and for the growing of two mature and four immature marijuana plants, so long as certain conditions related to growing those plants are followed.
+Requires each municipality to adopt a conflict of interest policy for all its elected officials, appointees, and employees. · Post-Traumatic Stress Injuries in the Workplace (H.197) : Establishes parity between physical injuries and psychological injuries so that Workers Compensation claims can be filed for mental injuries caused by unusual or traumatic events suffered on the job.
+Specifically carves in first responders (police, fire, ambulance) to remove burden of presumption of when they first suffered the injury. · Marijuana (S.22) Removes all civil and criminal penalties for possession of up to one ounce of marijuana and for the growing of two mature and four immature marijuana plants, so long as certain conditions related to growing those plants are followed.
 Continues to impose penalties on the possession of marijuana by individuals under 21 years of age and imposes penalties on those who enable minors to consume marijuana.
 Creates a commission to develop legislation that establishes a comprehensive regulatory and revenue system for an adult-use marijuana market that, when compared to the current illegal marijuana market, increases public safety and reduces harm to public health.
-Any legislative proposals that result from the work of the commission would still need to be vetted by the appropriate House and Senate Committees and would have to muster sufficient support to pass the General Assembly.
-· Miscellaneous Tax Bill (H.509): This annual bill adjusts tax rates and polices to comply with changes in federal policies and also raise revenues for new initiatives.
+Any legislative proposals that result from the work of the commission would still need to be vetted by the appropriate House and Senate Committees and would have to muster sufficient support to pass the General Assembly. · Miscellaneous Tax Bill (H.509) : This annual bill adjusts tax rates and polices to comply with changes in federal policies and also raise revenues for new initiatives.
 Because the Governor consistently stated that he would not support any new taxes or fees, the bill was limited to making technical, though important, changes to existing tax rates and establishing the yield for the statewide property tax rate (both homestead and non-homestead).
 The yields are set by formula to ensure that the net statewide property tax collected will fund the expenses approved by school districts at the local level.
 This year’s bill reduces the average residential property tax rate by 1.5 cents, increases the non-homestead rate by just over 1.3%, and maintains the education fund reserve at the required levels.
-Attached to this bill now is the creation of a commission to study the efficacy and desirability of negotiating the health insurance contracts for public school teachers, support staff and administrators.
-· Rural Economic Development (S.34): Creates the Rural Economic Development Initiative (REDI) which funds a position within the Vermont Housing and Conservation Board (VHCB) to assist rural towns in applying for federal grant monies to assist in economic development initiatives.
+Attached to this bill now is the creation of a commission to study the efficacy and desirability of negotiating the health insurance contracts for public school teachers, support staff and administrators. · Rural Economic Development (S.3 4): Creates the Rural Economic Development Initiative (REDI) which funds a position within the Vermont Housing and Conservation Board (VHCB) to assist rural towns in applying for federal grant monies to assist in economic development initiatives.
 Revitalizes the Vermont Milk Commission and charges it with researching ways to enhance the dairy industry in Vermont to influence the federal farm bill.
 Creates a study of workers’ compensation rates in high-risk industries such as logging to determine a way to lower those rates to keep Vermont businesses competitive.
-Makes machinery designed to separate phosphorous from manure eligible for the Capital Equipment Assistance Program.
-· Miscellaneous Agricultural Bill (H.495): This is an annual bill that includes many different initiatives that improve the farm, forest product and outdoor recreation industries.
+Makes machinery designed to separate phosphorous from manure eligible for the Capital Equipment Assistance Program. · Miscellaneous Agricultural Bill (H.495) : This is an annual bill that includes many different initiatives that improve the farm, forest product and outdoor recreation industries.
 Creates the Water Quality Assistance Program, with a focus on timber harvesters by providing financing for skidder bridges to reduce the impact of timber operations around streams, brooks and other wet areas.
 Exempts from sales taxes the machinery, repair parts and dyed diesel fuel used for cutting, harvesting and/or processing solid wood forest products.
-Makes public the information about tile drainage systems and nutrient management systems used in agricultural enterprises, and creates more uniformity in administrative penalties issued by the Agency of Agriculture.
-· Rozo McLaughlin Farm-to-School Program (S.33): , expands the focus of the farm-to-school meal program to include registered or licensed day care providers.
-Establishes a new position to work with all partners in the Program to strengthen ties between schools, day care providers, local farmers and local food producers for the benefit of children throughout the state.
-· Poultry Farming Bill (S.9): Inceases the threshold from 1,000 to 20,000 birds under which inspection shall not be required for the slaughter or preparation of poultry products of the producer’s own raising on the producer’s own farm.
+Makes public the information about tile drainage systems and nutrient management systems used in agricultural enterprises, and creates more uniformity in administrative penalties issued by the Agency of Agriculture. · Rozo McLaughlin Farm-to-School Program (S.33) : , expands the focus of the farm-to-school meal program to include registered or licensed day care providers.
+Establishes a new position to work with all partners in the Program to strengthen ties between schools, day care providers, local farmers and local food producers for the benefit of children throughout the state. · Poultry Farming Bill (S.9) : Inceases the threshold from 1,000 to 20,000 birds under which inspection shall not be required for the slaughter or preparation of poultry products of the producer’s own raising on the producer’s own farm.
 The bill provides requirements for the on-farm production of poultry at three distinct levels– under 1,000 birds, under 5,000 birds and under 20,000 birds – thus providing an opportunity to farmers to grow their poultry businesses and make their operations sustainable at their own pace.
 All poultry produced under the 5,000 and 20,000 bird exemptions will require a label that has been approved by the Agency of Agriculture, Food and Markets that ensures that the consumer knows the conditions under which their poultry was produced.
-Consumer Protection (S.136): This annual omnibus bill had many elements, including some revisions to existing insurance regulations.
-In the end there were just three aspects that were adopted by both chambers:
-1.
+Consumer Protection (S.136) : This annual omnibus bill had many elements, including some revisions to existing insurance regulations.
+In the end there were just three aspects that were adopted by both chambers: 1.
 Mortgage Escrow Accounts: Requires any lender who requires that property taxes be paid monthly into an escrow account to reduce the monthly amount if the home owner receives an adjustment on the state education property tax portion of the bill.
 The bill also allows lenders to increase the “cushion” in the escrow account from one month to two months to account for any unanticipated increases AND conform with standard practices for mortgage lending.
 2.
 Fantasy Sports: Establishes regulations for online fantasy sports games in which 80,000-100,000 Vermonters play.
 Establishes a flat registration fee and looks to determine the appropriate tax on revenues generated by the games in the state.
 3.
-Home Improvement Contactors: The bill was scaled back to allow the Secretary of State’s office to conduct a review of the broad industry of home improvement contractors to determine if there is a need to regulate it for the safety of Vermonters.
-·
-Clean Water Initiative in the Capital Bill: In the 2 year capital bill $45 million was allocated from the proceeds of state bonding to fund part of the shortfall in the state’s commitment to reduce the flow of pollutants into our lakes, rivers and streams.
-Other sources of funding were proposed, including a $5 per room fee on lodging establishments, but no bills made it out of committee for full consideration.
-· Mental Health and Drug Abuse Programming and Treatment in Corrections.
-(S.61).
-Requires the Departments of Corrections and Mental Health to develop a plan to prove programming and transitional services needed by inmates suffering from severe mental health, including the creation of a four-to-six-bed forensic mental health unit.
-· Appliance Energy Efficiency Standards (H.411): adopts the current federal energy efficiency standards for consumer appliances in the event that the federal standards are eliminated.
+Home Improvement Contactors: The bill was scaled back to allow the Secretary of State’s office to conduct a review of the broad industry of home improvement contractors to determine if there is a need to regulate it for the safety of Vermonters. · Clean Water Initiative in the Capital Bill : In the 2 year capital bill $45 million was allocated from the proceeds of state bonding to fund part of the shortfall in the state’s commitment to reduce the flow of pollutants into our lakes, rivers and streams.
+Other sources of funding were proposed, including a $5 per room fee on lodging establishments, but no bills made it out of committee for full consideration. · Mental Health and Drug Abuse Programming and Treatment in Corrections.
+(S.61) .
+Requires the Departments of Corrections and Mental Health to develop a plan to prove programming and transitional services needed by inmates suffering from severe mental health, including the creation of a four-to-six-bed forensic mental health unit. · Appliance Energy Efficiency Standards (H.411) : adopts the current federal energy efficiency standards for consumer appliances in the event that the federal standards are eliminated.
 However, if the standards are merely weakened, federal standards would still preempt Vermont's standards.
-The bill also provides the Public Service Board with authority to adopt the proposed net-metering rules for pre-existing systems, i.e. those that were online or had been applied for prior to January 1, 2017.
-· Telecommunications Plan Update (H.347): requires the Department of Public Service to update the Vermont 10-year Telecommunications Plan and address the impact of the lack of telecommunications infrastructure in rural areas on the health care and human services, public safety, and workforce development and training.
-The plan will be reported to the legislature in January, 2018.
-· Public Service Board and Its Proceedings (S.52): establishes standard response times for applications for Certificates of Public Good (CPG) made by utilities to the Public Service Board (PSB).
+The bill also provides the Public Service Board with authority to adopt the proposed net-metering rules for pre-existing systems, i.e. those that were online or had been applied for prior to January 1, 2017. · Telecommunications Plan Update (H.347) : requires the Department of Public Service to update the Vermont 10-year Telecommunications Plan and address the impact of the lack of telecommunications infrastructure in rural areas on the health care and human services, public safety, and workforce development and training.
+The plan will be reported to the legislature in January, 2018. · Public Service Board and Its Proceedings (S.52 ): establishes standard response times for applications for Certificates of Public Good (CPG) made by utilities to the Public Service Board (PSB).
 Gives planning commissions the right to request expert assistance from the Public Service Department (PSD).
-Authorizes the PSD to investigate complaints of CPG violations and assess penalties for non-compliance.
-· Title 7 Revision and Liquor and Lottery Task Force (H.238): Updates existing language for all alcohol related statutes.
+Authorizes the PSD to investigate complaints of CPG violations and assess penalties for non-compliance. · Title 7 Revision and Liquor and Lottery Task Force (H.238) : Updates existing language for all alcohol related statutes.
 Simplifies licensing provisions and allows distillers and brewers to more easily get their products to market.
-Creates a Task Force to create legislation to merge the departments of liquor control and lottery.
-· Pregnancy Protections in the Workplace (H136): requires employers to make accommodations for women with a pregnant or childbirth-related condition that impacts their ability to perform a job, provided the accommodation does not cause the employer undue harm.
-· Law enforcement decertification (H.22): Specifies the standards for the certification and decertification of law enforcement officers, including three detailed categories of misconduct and their respective penalties.
-Discourages “agency hopping” by requiring that an officer’s record is shared with a prospective new employing agency.
-· Vital Records (H.111): Clarifies the management of vital events records, principally birth and death.
+Creates a Task Force to create legislation to merge the departments of liquor control and lottery. · Pregnancy Protections in the Workplace (H136) : requires employers to make accommodations for women with a pregnant or childbirth-related condition that impacts their ability to perform a job, provided the accommodation does not cause the employer undue harm. · Law enforcement decertification (H.22) : Specifies the standards for the certification and decertification of law enforcement officers, including three detailed categories of misconduct and their respective penalties.
+Discourages “agency hopping” by requiring that an officer’s record is shared with a prospective new employing agency. · Vital Records (H.111) : Clarifies the management of vital events records, principally birth and death.
 Establishes an automated State Registry at the Health Department, while retaining role for town clerks.
-Establishes limits on access to certified copies of birth and death records.
-· Mental Health in Vermont (S.133): Directs the Secretary of Human Service to work with stakeholders to analyze the current status of mental health services and propose an action plan to the legislature by September 1, 2017 to address the shortage of emergent care facilities and the overarching structure for the mental health services in Vermont.
-· Access for Minors to Mental Health Treatment (H.230): Provides minors with access to mental health treatment without receiving consent from a parent or guardian.
-· Benefits Cliff (H.326): Raises level of allowable assets for recipients of public benefits to smooth out transition out of poverty.
-Allows working parents to set aside income into child’s savings accounts, raises asset test from $2,000 to $9,000 for families enrolling in Reach Up.
-· Medical Marijuana (S.16): Expands certain medical conditions for which Medical Marijuana can be prescribed (Parkinsons, Crohns, PTSD), removes the mandatory waiting period, removes the requirement that patients have made prior efforts to relieve symptoms by other means, and increases the position limit from 2oz to 3oz (mostly a concern around edibles and tinctures), allows patients who choose to grow their own to do so outside, and increases the number of dispensaries licensed from 4 to 5 and allows each dispensary to have two outlets.
+Establishes limits on access to certified copies of birth and death records. · Mental Health in Vermont (S.133) : Directs the Secretary of Human Service to work with stakeholders to analyze the current status of mental health services and propose an action plan to the legislature by September 1, 2017 to address the shortage of emergent care facilities and the overarching structure for the mental health services in Vermont. · Access for Minors to Mental Health Treatment (H.230) : Provides minors with access to mental health treatment without receiving consent from a parent or guardian. · Benefits Cliff (H.326) : Raises level of allowable assets for recipients of public benefits to smooth out transition out of poverty.
+Allows working parents to set aside income into child’s savings accounts, raises asset test from $2,000 to $9,000 for families enrolling in Reach Up. · Medical Marijuana (S.16) : Expands certain medical conditions for which Medical Marijuana can be prescribed (Parkinsons, Crohns, PTSD), removes the mandatory waiting period, removes the requirement that patients have made prior efforts to relieve symptoms by other means, and increases the position limit from 2oz to 3oz (mostly a concern around edibles and tinctures), allows patients who choose to grow their own to do so outside, and increases the number of dispensaries licensed from 4 to 5 and allows each dispensary to have two outlets.
 One important addition is that it allows dispensaries to become for profit companies.
-Lastly it adds provisions for testing within the Agency of Agriculture for THC levels.
-· Adverse Childhood Experiences (H.508): Establishes a working group of legislators to reviewall services currently available to prevent or respond to children who experience Adverse Childhood Experiences, including the quality and effectiveness of services available.
-The working group is charged with crafting legislation to address the gaps in needed services.
-· Elder Ombudsman (H.265): Brings the State Long Term Care Ombudsman Program into compliance with federal law.
-Enables a “vulnerable Vermonter” or designee to bring a civil suit against someone who has exploited them.
-· Bail Reform (H.503): Restricts the use of bail in limited circumstances, such as when an individual has been cited into court and does, in fact, appear at a probable cause hearing.
-Also gives individuals who have violated a condition of probation the opportunity to appear in court rather than be automatically detained and imprisoned, giving the individual the opportunity to fulfill their obligations and easing the burden on the criminal justice system.
-· Expungement (H.171): Expands the availability of expungement of criminal records for individuals who have fulfilled the terms of their sentence and have met other requirements after a waiting period.
+Lastly it adds provisions for testing within the Agency of Agriculture for THC levels. · Adverse Childhood Experiences (H.508) : Establishes a working group of legislators to reviewall services currently available to prevent or respond to children who experience Adverse Childhood Experiences, including the quality and effectiveness of services available.
+The working group is charged with crafting legislation to address the gaps in needed services. · Elder Ombudsman (H.265) : Brings the State Long Term Care Ombudsman Program into compliance with federal law.
+Enables a “vulnerable Vermonter” or designee to bring a civil suit against someone who has exploited them. · Bail Reform (H.503) : Restricts the use of bail in limited circumstances, such as when an individual has been cited into court and does, in fact, appear at a probable cause hearing.
+Also gives individuals who have violated a condition of probation the opportunity to appear in court rather than be automatically detained and imprisoned, giving the individual the opportunity to fulfill their obligations and easing the burden on the criminal justice system. · Expungement (H.171) : Expands the availability of expungement of criminal records for individuals who have fulfilled the terms of their sentence and have met other requirements after a waiting period.
 Shortens the waiting period from 10 years to 5 years.
-This will enable reformed criminals to reenter society more quickly.
-· Racial Justice Reform (H.308): Establishes a 13-member Racial Justice Panel to review, analyze and make recommendations for reforms in the Vermont Judicial System.
+This will enable reformed criminals to reenter society more quickly. · Racial Justice Reform (H.308) : Establishes a 13-member Racial Justice Panel to review, analyze and make recommendations for reforms in the Vermont Judicial System.
 Strengthens Vermont's statewide Fair and Impartial Policing model policy for adoption by all law enforcement in January of 2018.
-Directs the Vermont Human Rights Commission and the Attorney General's office to create a structure to address systemic racial disparities in the areas of education, housing, employment and economic development and health care.
-· Sexual Assault Laws (H.74): Establishes the right of sexual assault victims to receive a medical examination without cost, set forth timelines for delivery of exam kits from law enforcement to the Lab, and require notifying victims of exam results and available services.
+Directs the Vermont Human Rights Commission and the Attorney General's office to create a structure to address systemic racial disparities in the areas of education, housing, employment and economic development and health care. · Sexual Assault Laws (H.74) : Establishes the right of sexual assault victims to receive a medical examination without cost, set forth timelines for delivery of exam kits from law enforcement to the Lab, and require notifying victims of exam results and available services.
 Eliminates the statute of limitations for sexual assault-related crimes.
-Establishes a new misdemeanor crime of lewd conduct, including nonconsensual touching of another’s genitalia or other intimate body part or nonconsensual exposure of one’s own genitalia.
-· Protecting Free Speech “Shield Law” (S.96): Protects journalists from facing jail time if they refuse to disclose confidential information in response to a subpoena.
-Protects sources who are often whistleblowers, crime victims, accused criminals, and others whose safety or livelihood might be threatened by disclosure.
-· Protecting Immigrant Vermonters (S.79): Prohibits state or local governmental agencies and their employees from collecting information regarding the religious beliefs, practices, or affiliations; to use public agency money, facilities, property, equipment, or personnel to assist in creating or enforcing any federal government program for registration; and only the Governor, in consultation with the Vermont Attorney General, is authorized to enter into, modify, or extend agreements pursuant to which State and local law enforcement can assist federal authorities in carrying out certain immigration and other functions.
-However, State and local law enforcement can enter into such agreements when it is necessary to address threats to the public safety or welfare of Vermont residents arising from a declared State or national emergency.
-· Aquatic Nuisance Species Control (S.75): Adds requirements for operators to inspect their vessels for aquatic nuisance species; requires boat washing at stations operated by lake associations and towns, and gives ANR additional enforcement tools and venues to police activities that spread aquatic nuisance species.
+Establishes a new misdemeanor crime of lewd conduct, including nonconsensual touching of another’s genitalia or other intimate body part or nonconsensual exposure of one’s own genitalia. · Protecting Free Speech “Shield Law” (S.96) : Protects journalists from facing jail time if they refuse to disclose confidential information in response to a subpoena.
+Protects sources who are often whistleblowers, crime victims, accused criminals, and others whose safety or livelihood might be threatened by disclosure. · Protecting Immigrant Vermonters (S.79) : Prohibits state or local governmental agencies and their employees from collecting information regarding the religious beliefs, practices, or affiliations; to use public agency money, facilities, property, equipment, or personnel to assist in creating or enforcing any federal government program for registration; and only the Governor, in consultation with the Vermont Attorney General, is authorized to enter into, modify, or extend agreements pursuant to which State and local law enforcement can assist federal authorities in carrying out certain immigration and other functions.
+However, State and local law enforcement can enter into such agreements when it is necessary to address threats to the public safety or welfare of Vermont residents arising from a declared State or national emergency. · Aquatic Nuisance Species Control (S.75) : Adds requirements for operators to inspect their vessels for aquatic nuisance species; requires boat washing at stations operated by lake associations and towns, and gives ANR additional enforcement tools and venues to police activities that spread aquatic nuisance species.
 The bill prohibits the transport of additional aquatic nuisance species to or from State waters.
 For one year bottom barriers will be allowed without a permit provided that the lake association notifies the Secretary of ANR three days prior if it is a body of water with identified threatened or endangered species or that day if not.
 In the meantime ANR will work on a general permit for installing bottom barriers.
-It is critical that these regulations are put in place to protect Vermont’s waterways.
-· Act 250 Review (H.424): Creates a commission (six legislators, citizen advisory panel) to review Act 250 to ensure that it continues to support the economic, environmental and land use planning goals of Vermont.
-The commission will report back to the legislature by December 15th with draft legislation.
-· Miscellaneous DMV Bill (H.115): This annual, comprehensive bill addresses many issues in transportation.
-This year, the bill, increases civil penalties for falsely displaying a handicapped plate, initiates a commission to study costs savings around new registration plates, extends the grace period for processing DMV paperwork from 30 to 60 day, requires landowners to properly mark chains, wires and cables strung across known recreation paths, assesses points for using handheld electronic devices while driving, and creates penalties for people under the influence of alcohol or drugs who are riding beside new drivers with learner's permits.
-· Adequate Shelter of Dogs and Cats (H.228): Specifies the humane conditions in which dogs and cats shall be cared for and establishes minimum enclosure sizes which allow the animal , “in a normal manner, to turn about freely, stand, sit, and lie down.” The bill further requires dogs and cats to receive daily potable water and food and exercise on a regular basis.
-Bills that did not receive approval from both houses:
-Gun Violence Restraining Order (H.422): Would authorize a police officer responding to a domestic dispute to remove a firearm that is in plain view and hold onto the firearm for 5 days.
+It is critical that these regulations are put in place to protect Vermont’s waterways. · Act 250 Review (H.424): Creates a commission (six legislators, citizen advisory panel) to review Act 250 to ensure that it continues to support the economic, environmental and land use planning goals of Vermont.
+The commission will report back to the legislature by December 15th with draft legislation. · Miscellaneous DMV Bill (H.115) : This annual, comprehensive bill addresses many issues in transportation.
+This year, the bill, increases civil penalties for falsely displaying a handicapped plate, initiates a commission to study costs savings around new registration plates, extends the grace period for processing DMV paperwork from 30 to 60 day, requires landowners to properly mark chains, wires and cables strung across known recreation paths, assesses points for using handheld electronic devices while driving, and creates penalties for people under the influence of alcohol or drugs who are riding beside new drivers with learner's permits. · Adequate Shelter of Dogs and Cats (H.228) : Specifies the humane conditions in which dogs and cats shall be cared for and establishes minimum enclosure sizes which allow the animal , “in a normal manner, to turn about freely, stand, sit, and lie down.” The bill further requires dogs and cats to receive daily potable water and food and exercise on a regular basis.
+Bills that did not receive approval from both houses: Gun Violence Restraining Order (H.422) : Would authorize a police officer responding to a domestic dispute to remove a firearm that is in plain view and hold onto the firearm for 5 days.
 Status: Passed the House, awaiting action by the Senate.
-Protecting Vermonters from Toxics Bill (S.103): Would establish a commission to evaluate chemical inventories in the State on an annual basis to identify the risks to human health or the environment, and to propose measures to address identified risks.
+Protecting Vermonters from Toxics Bill (S.103) : Would establish a commission to evaluate chemical inventories in the State on an annual basis to identify the risks to human health or the environment, and to propose measures to address identified risks.
 Would also require the testing of groundwater wells prior to use.
 Finally, the bill tightens legislative regulations on chemicals used in manufacturing children’s products.
 Status: Passed by the Senate, amended by the House, awaiting action by the Senate.
-Forest Integrity (H. 233): would add new criteria to Act 250 to require developments that already trigger Act 250 review to either avoid or minimize the fragmentation of the state’s highest priority contiguous forest blocks and habitat connectivity areas.
+Forest Integrity (H.
+233) : would add new criteria to Act 250 to require developments that already trigger Act 250 review to either avoid or minimize the fragmentation of the state’s highest priority contiguous forest blocks and habitat connectivity areas.
 Status: Passed by the House, awaiting action by the Senate.
-Family Leave Insurance (H. 196): would enhance Vermont’s Parental and Family Leave Act by providing insurance benefits for individuals to provide care for new children or ailing family members, subject to approval by the department of health.
+Family Leave Insurance (H.
+196) : would enhance Vermont’s Parental and Family Leave Act by providing insurance benefits for individuals to provide care for new children or ailing family members, subject to approval by the department of health.
 Qualified individuals would receive 80% of their compensation (up to $1,042 per week) for a maximum of 6 weeks.
 The benefits would be paid by a universal payroll tax of .141%.
 Status: Passed by the House, awaiting action by the Senate.
 Medicare Supplement Plans – Health Care Professional Payment Parity (H.29): House version of bill would allow discounts on Medicare Insurance plans if paid in advance or electronically.
 The Senate added Health Care Professional Payment Parity, which would establish equal payment for services at academic hospitals and private practices.
 Status: Passed by the House, Amended by the Senate, referred to House committee to be taken up in the next legislative session.
-Aggravated Animal Cruelty (S.12): Would amend existing statutes prohibiting cruelty to animals by including bestiality, and increase the penalties for committing cruelty to animals.
+Aggravated Animal Cruelty (S.12) : Would amend existing statutes prohibiting cruelty to animals by including bestiality, and increase the penalties for committing cruelty to animals.
 Status: Passed by the Senate, amended by the House, Senate requested a committee of conference.
 No meetings have taken place to date.
+DONATE Back to Top Charlie Kimbell - Vermont State Representative, Windsor-5 email: kbellvt@gmail.com phone: 802-296-1276

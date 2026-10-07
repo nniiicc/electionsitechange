@@ -1,37 +1,26 @@
-Noel in the News
-WA Legislature’s ‘Revenue Queen’ readies for 2026 tax battles
-Sen.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate Noel in the News Upper Left Strategies 4/29/26 Upper Left Strategies 4/29/26 Millionaire taxes gain steam as states face budget crunches Read More Upper Left Strategies 4/22/26 Upper Left Strategies 4/22/26 Why families caring for children with disabilities are suing Washington state Read More Upper Left Strategies 3/31/26 Upper Left Strategies 3/31/26 Washington state’s ‘historic’ millionaire tax takes aim at super-rich – will it succeed?
+Read More Upper Left Strategies 3/16/26 Upper Left Strategies 3/16/26 WA law will make it easier to distribute abortion pill stockpile Read More Upper Left Strategies 3/14/26 Upper Left Strategies 3/14/26 Winners, losers and takeaways from WA’s legislative session Read More Upper Left Strategies 2/23/26 Upper Left Strategies 2/23/26 In Washington State, Democrats Consider Breaking a Taboo: Taxing the Rich Read More Upper Left Strategies 11/14/25 Upper Left Strategies 11/14/25 WA Legislature’s ‘Revenue Queen’ readies for 2026 tax battles Sen.
 Noel Frame warns progressives to buckle up if lawmakers move ahead on income tax legislation targeting higher earners.
-Trump and the Catholic Church Fight a Law Requiring Clergy to Report Child Abuse
-Washington moved to close a dangerous loophole.
-Now there’s a constitutional showdown pitting religious freedoms against the duty to protect children
-Senate Democrats unveil 5-part tax plan to solve WA’s multi-billion-dollar budget probleM
-As Washington faces a budget gap somewhere in the multi-billions, state lawmakers have brainstormed ways to close it.
+Read More Upper Left Strategies 7/20/25 Upper Left Strategies 7/20/25 Trump and the Catholic Church Fight a Law Requiring Clergy to Report Child Abuse Washington moved to close a dangerous loophole.
+Now there’s a constitutional showdown pitting religious freedoms against the duty to protect children Read More Upper Left Strategies 5/20/25 Upper Left Strategies 5/20/25 Senate Democrats unveil 5-part tax plan to solve WA’s multi-billion-dollar budget probleM As Washington faces a budget gap somewhere in the multi-billions, state lawmakers have brainstormed ways to close it.
 Two days after receiving a less-than-sunny revenue forecast, Senate Democrats revealed a five-part tax proposal — one that supporters say would ask ultra-wealthy residents to pay their fair share.
-Abuse survivors defend WA law that feds slam as ‘anti-Catholic’
-Survivors of abuse by clergy members are defending a new Washington law against accusations from the U.S.
+Read More Upper Left Strategies 5/12/25 Upper Left Strategies 5/12/25 Abuse survivors defend WA law that feds slam as ‘anti-Catholic’ Survivors of abuse by clergy members are defending a new Washington law against accusations from the U.S.
 Department of Justice that it is “anti-Catholic” and worthy of a federal investigation.
-Ferguson signs rent stabilization, suite of other housing proposals into Washington state law
-Rent stabilization and nine other housing proposals were signed into Washington state law on Wednesday.
-WA law mandating clergy report child abuse to be investigated by Trump’s Justice Department
-President Trump’s Department of Justice is investigating a new Washington state law that makes clergy mandatory reporters of child abuse, arguing it violates the First Amendment.
-WA Senate Dems advance several tax hike bills as session enters last week
-Ahead of the last week of the legislative session, Democratic senators on Saturday passed several bills as part of a $12 billion tax package, including expanding the capital gains tax, hiking tax rates on large corporations and big banks, and beginning to collect sales tax on a variety of services.
-WA Democrats bring back wealth tax idea with ‘limited dollar amount’
-House Speaker Laurie Jinkins told reporters Thursday that Washington lawmakers are working to pass a wealth tax after all.
+Read More Upper Left Strategies 5/7/25 Upper Left Strategies 5/7/25 Ferguson signs rent stabilization, suite of other housing proposals into Washington state law Rent stabilization and nine other housing proposals were signed into Washington state law on Wednesday.
+Read More WA SENATE BILL 5375 , NEWS Upper Left Strategies 5/5/25 WA SENATE BILL 5375 , NEWS Upper Left Strategies 5/5/25 WA law mandating clergy report child abuse to be investigated by Trump’s Justice Department President Trump’s Department of Justice is investigating a new Washington state law that makes clergy mandatory reporters of child abuse, arguing it violates the First Amendment.
+Read More Upper Left Strategies 4/18/25 Upper Left Strategies 4/18/25 WA Senate Dems advance several tax hike bills as session enters last week Ahead of the last week of the legislative session, Democratic senators on Saturday passed several bills as part of a $12 billion tax package, including expanding the capital gains tax, hiking tax rates on large corporations and big banks, and beginning to collect sales tax on a variety of services.
+Read More Upper Left Strategies 4/18/25 Upper Left Strategies 4/18/25 WA Democrats bring back wealth tax idea with ‘limited dollar amount’ House Speaker Laurie Jinkins told reporters Thursday that Washington lawmakers are working to pass a wealth tax after all.
 The Tacoma Democrat’s comment comes weeks after Gov.
 Bob Ferguson said that he wouldn’t sign either chambers’ proposed budgets, noting their dependence on a new, untested wealth tax.
-Battling a deadline, Washington Dems propose a new $12B tax plan
-After Gov.
+Read More Upper Left Strategies 4/16/25 Upper Left Strategies 4/16/25 Battling a deadline, Washington Dems propose a new $12B tax plan After Gov.
 Ferguson said he would veto a “wealth tax,” Democratic legislators proposed expanding capital gains, business and property taxes.
-Proposed WA ban on flavored tobacco products revived
-New bills filed Friday in the state House and Senate combine prohibition on flavored vapes proposed early in the legislative session with an increase in cigarette taxes.
-Push for social media safeguards to protect children derails in Washington House
-A bill that gained bipartisan support in the Washington state Senate to strengthen online safety for children has failed to move forward in the House.
-New taxes included in House, Senate Democrats’ plans to fix WA’s gaping budget hole
-Democratic lawmakers in both chambers of the Washington Legislature on Monday rolled out proposals to close the multi-billion-dollar hole in the state’s operating budget.
+Read More Upper Left Strategies 4/6/25 Upper Left Strategies 4/6/25 Proposed WA ban on flavored tobacco products revived New bills filed Friday in the state House and Senate combine prohibition on flavored vapes proposed early in the legislative session with an increase in cigarette taxes.
+Read More Upper Left Strategies 4/2/25 Upper Left Strategies 4/2/25 Push for social media safeguards to protect children derails in Washington House A bill that gained bipartisan support in the Washington state Senate to strengthen online safety for children has failed to move forward in the House.
+Read More Upper Left Strategies 3/25/25 Upper Left Strategies 3/25/25 New taxes included in House, Senate Democrats’ plans to fix WA’s gaping budget hole Democratic lawmakers in both chambers of the Washington Legislature on Monday rolled out proposals to close the multi-billion-dollar hole in the state’s operating budget.
 While both plans include new taxes, Senate lawmakers adopted a more aggressive approach.
-Democratic state senators push $17B tax package to balance Washington budget
-Democrats in the Washington state Senate kicked it off Thursday with a monstrous opening statement, calling for higher property tax collections and new levies on the state’s wealthiest individuals and largest corporations.
-Bill to protect children from addictive online algorithms advances in Senate
-Legislation aimed at safeguarding children's mental and behavioral health from addictive social media algorithms and harmful online content has successfully passed the Senate with a 36-12 vote on Wednesday.
+Read More Upper Left Strategies 3/20/25 Upper Left Strategies 3/20/25 Democratic state senators push $17B tax package to balance Washington budget Democrats in the Washington state Senate kicked it off Thursday with a monstrous opening statement, calling for higher property tax collections and new levies on the state’s wealthiest individuals and largest corporations.
+Read More Upper Left Strategies 3/15/25 Upper Left Strategies 3/15/25 Bill to protect children from addictive online algorithms advances in Senate Legislation aimed at safeguarding children's mental and behavioral health from addictive social media algorithms and harmful online content has successfully passed the Senate with a 36-12 vote on Wednesday.
+Read More Older Posts HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

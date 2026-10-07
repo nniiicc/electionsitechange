@@ -1,7 +1,11 @@
 {
  "description": "Join me at the Boundary County Fair!",
  "final_url": "https://www.janesauterforidaho.com/events/boundary-county-fair",
- "paid_for_by": null,
- "title": "Boundary County Fair \u2014 Jane Sauter for Idaho",
- "years_mentioned": []
+ "fingerprint": "473c7e485c9cd5ba29803084c1d5e2433ff14714",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Boundary County Fair — Jane Sauter for Idaho",
+ "years_mentioned": [
+  "2026"
+ ]
 }

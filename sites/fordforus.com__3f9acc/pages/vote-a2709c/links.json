@@ -1,14 +1,54 @@
 [
-"https://co.st-clair.il.us/departments/county-clerk/elections/vote-by-mail-information",
-"https://facebook.com/JimmyForStateRep",
-"https://fordforus.com/",
-"https://fordforus.com/about",
-"https://fordforus.com/action-center",
-"https://fordforus.com/cart",
-"https://fordforus.com/new-page",
-"https://fordforus.com/privacy-policy",
-"https://fordforus.com/promise-to-deliver",
-"https://fordforus.com/vote",
-"https://madisoncountyil.gov/departments/county_clerk/elections/absentee_voting.php",
-"https://secure.winred.com/citizens-for-jimmy-ford/donate-today"
+{
+"text": "0",
+"href": "https://www.fordforus.com/cart"
+},
+{
+"text": "112th District",
+"href": "https://www.fordforus.com/new-page"
+},
+{
+"text": "About Jimmy",
+"href": "https://www.fordforus.com/about"
+},
+{
+"text": "Action Center",
+"href": "https://www.fordforus.com/action-center"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-jimmy-ford/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.fordforus.com/"
+},
+{
+"text": "If you live in St. Clair County, you can apply for Vote By Mail here.",
+"href": "https://www.co.st-clair.il.us/departments/county-clerk/elections/vote-by-mail-information"
+},
+{
+"text": "Make A Plan to Vote",
+"href": "https://www.fordforus.com/vote"
+},
+{
+"text": "Privacy Policy and Terms of Use",
+"href": "https://www.fordforus.com/privacy-policy"
+},
+{
+"text": "Promise to Deliver",
+"href": "https://www.fordforus.com/promise-to-deliver"
+},
+{
+"text": "Signup for Madison County also offers Permanent Vote By Mail here.",
+"href": "https://www.madisoncountyil.gov/departments/county_clerk/elections/absentee_voting.php"
+},
+{
+"text": "[image: Jimmy Ford for State Representative]",
+"href": "https://www.fordforus.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JimmyForStateRep"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Request push cards and business cards to distribute in your Delaware neighborhood for Dr. Mike Katz's U.S. Senate campaign.",
  "final_url": "https://drmikekatz.com/lit",
+ "fingerprint": "f69ea0d3e2193e9f1b171ce2042f1fbfa079e8cb",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
- "title": "Request Literature \u2014 Katz for Delaware",
- "years_mentioned": []
+ "title": "Request Literature — Katz for Delaware",
+ "years_mentioned": [
+  "2026"
+ ]
 }

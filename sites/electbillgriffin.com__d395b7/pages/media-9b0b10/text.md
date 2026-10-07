@@ -1,4 +1,2 @@
-patimes.media · Opinion
-Before replacing a successful 25-year-old program, Pennsylvania families deserve the full story
-Bill Griffin on House Bill 2632 and what the transition away from EITC could mean for Northeast Philadelphia students and families.
-July 11, 2026 · Read the full op-ed →
+0 Skip to Content EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate IN THE MEDIA patimes.media · Opinion Before replacing a successful 25-year-old program, Pennsylvania families deserve the full story Bill Griffin on House Bill 2632 and what the transition away from EITC could mean for Northeast Philadelphia students and families.
+July 11, 2026 · Read the full op-ed → MEET BILL THE ISSUES CONTACT Support Bill for State Representative Bill Griffin for State Representative 8629 Yale Place | Philadelphia, PA 19136 ElectBillGriffin@gmail.com EVERY CONTRIBUTION HELPS US REACH MORE VOTERS © # BILL GRIFFIN | PAID FOR BY FRIENDS OF BILL GRIFFIN | PRIVACY POLICY

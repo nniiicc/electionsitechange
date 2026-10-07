@@ -1,9 +1,42 @@
 [
-"https://alexdallman.com/",
-"https://alexdallman.com/contribute",
-"https://alexdallman.com/endorsements",
-"https://alexdallman.com/meet-alex",
-"https://facebook.com/101383904664358",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.anedot.com/friends-of-alex-dallman/donate"
+{
+"text": "CLICK HERE TO DONATE",
+"href": "https://secure.anedot.com/friends-of-alex-dallman/donate"
+},
+{
+"text": "CLICK HERE TO MAKE A DONATION!",
+"href": "https://secure.anedot.com/friends-of-alex-dallman/donate"
+},
+{
+"text": "Contribute",
+"href": "https://alexdallman.com/contribute"
+},
+{
+"text": "DallmanForAssembly@gmail.com",
+"href": "mailto:DallmanForAssembly@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://alexdallman.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://alexdallman.com/"
+},
+{
+"text": "Meet Alex",
+"href": "https://alexdallman.com/meet-alex"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/101383904664358"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "dallmanforassembly@gmail.com",
+"href": "mailto:dallmanforassembly@gmail.com"
+}
 ]

@@ -1,5 +1,4 @@
-Copyright © 2025-2026 - All Rights Reserved.
+HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT More HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT Events 03/14/2026 Forum at the Cherokee Farm Bureau Office, Cherokee Iowa 10am - 11am 03/14/2026 Forum at the Cherokee Farm Bureau Office, Cherokee Iowa 10am - 11am 03/28/2026 Forum at the Spencer City Council Chambers, Spencer Iowa 9am - 10:30am 03/28/2026 Forum at the Spencer City Council Chambers, Spencer Iowa 9am - 10:30am 03/28/2026 Forum at King's Point Resort, Storm Lake Iowa 11:30am - 12:30pm 03/28/2026 Forum at King's Point Resort, Storm Lake Iowa 11:30am - 12:30pm 04/11/2026 Forum at the Cherokee Farm Bureau Office, Cherokee Iowa 10:00am - 11:00am 04/11/2026 Forum at the Cherokee Farm Bureau Office, Cherokee Iowa 10:00am - 11:00am 04/18/2026 Forum at King's Point Resort, Storm Lake Iowa 10:00am - 11:00am 04/18/2026 Forum at King's Point Resort, Storm Lake Iowa 10:00am - 11:00am Copyright © #-# - All Rights Reserved.
 Paid for by K.
 Lynn Evans Campaign Committee.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+PRIVACY POLICY PRESS KIT TERMS AND CONDITIONS

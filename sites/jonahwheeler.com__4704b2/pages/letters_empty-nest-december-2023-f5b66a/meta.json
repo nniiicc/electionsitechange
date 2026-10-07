@@ -1,7 +1,9 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/empty-nest-december-2023",
- "paid_for_by": null,
+ "fingerprint": "74ec93874a59d64d48ef3397bf6c94c50cde372d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monthly Letter",
  "years_mentioned": [
   "2023",

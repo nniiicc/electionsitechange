@@ -1,25 +1,8 @@
-2026 Endorsements
-Elected Officials:
-House Speaker Laurie Jenkins
-Representative Sharlette Mena
-Representative Julio Cortes
-Representative Mary Fosse
-Representative Liz Berry
-Senator John Lovick
-Representative Cindy Ryu
-Representative Strom Peterson
-Senator Marko Liias
-People:
-Nina Martinez
-CCF; Evergreen Advocate for Youth, Children, and Families
-I am honored to receive the CCF Evergreen Advocate for Children, Youth, and Families Award!
+0 Skip to Content Home Record About Priorities Endorsements Get Involved Contact Donate Open Menu Close Menu Home Record About Priorities Endorsements Get Involved Contact Donate Open Menu Close Menu Home Record About Priorities Endorsements Get Involved Contact Donate 2026 Endorsements Elected Officials: House Speaker Laurie Jenkins Representative Sharlette Mena Representative Julio Cortes Representative Mary Fosse Representative Liz Berry Senator John Lovick Representative Cindy Ryu Representative Strom Peterson Senator Marko Liias People: Nina Martinez CCF; Evergreen Advocate for Youth, Children, and Families I am honored to receive the CCF Evergreen Advocate for Children, Youth, and Families Award!
 As a parent and educator, I understand the importance of access to safe and affordable childcare.
 In the Legislature, I have worked hard to ensure that every Washingtonian has access to childcare they can trust.
 It is our responsibility to advocate for all children, from our foster children to those who need rehabilitation; from those with different abilities to those that need us to instill hope and especially those that need second chances.
-Thank you Children's Campaign Fund for caring for all our Children
-2024 Endorsements
-Organizations
-I am deeply grateful for the endorsement from Women in Politics, and for the opportunity to build a strong relationship with this esteemed organization.
+Thank you Children's Campaign Fund for caring for all our Children 2024 Endorsements Organizations I am deeply grateful for the endorsement from Women in Politics, and for the opportunity to build a strong relationship with this esteemed organization.
 I am truly honored to have their support, as we share the common goal of empowering women's voices and promoting gender equality in the political arena.
 I will continue to work tirelessly to champion issues that impact women and their families, striving to create a more equitable and inclusive future for all.
 Thank you, Women in Politics, for your trust and for standing alongside me in this important endeavor.
@@ -30,168 +13,18 @@ Together, we share a commitment to empowering workers and advocating for fair la
 I am grateful for the opportunity to build a strong relationship with such a respected organization, and I pledge to continue working tirelessly to champion the interests of working families.
 With Washington Building Trades by my side, I am confident that we can make meaningful progress toward a brighter future for all.
 Thank you for your endorsement and for standing alongside me in this important endeavor.
-Elected Officials
-Representative Julio Cortes
-Representative Mary Fosse
-Senator June Robinson
-Senator John Lovick
-Local Officials
-Brian Sullivan
-Richard Emery
-Louis Harris
-Jason Moon
-Susan Paine
-Mike Dixon
-Brian Sullivan
-Chris Eck
-David Parshall
-Constituents
-Stephanie Wright
-Sharon Holt
-2022 Endorsements
-Organizations
-I am thankful and proud to receive the endorsement of Planned Parenthood Alliance Advocates, in furthering reproductive rights and protecting women’s rights as a whole across our state.
+Elected Officials Representative Julio Cortes Representative Mary Fosse Senator June Robinson Senator John Lovick Local Officials Brian Sullivan Richard Emery Louis Harris Jason Moon Susan Paine Mike Dixon Brian Sullivan Chris Eck David Parshall Constituents Stephanie Wright Sharon Holt Washington State Labor Council Planned Parenthood Alliance Advocates Washington State Nurses Association PAC Washington State Building and Construction Trades Council Washington Education Association International Brotherhood of Electrical Workers Local 191 International Association of Machinists District 751 Humane Voters of Washington UFCW 3000 Retired Public Employees Council Children's Campaign Fund National Association of Social Workers SEIU 925 Washington Federation of State Employees Environment and Climate Caucus National Association of Social Workers Washington Chapter 21st LD Democrats Equal Rights Washington The Amalgamated Transit Union Legislative Council LCA Votes Washington State School Retirees' Association 2022 Endorsements Organizations I am thankful and proud to receive the endorsement of Planned Parenthood Alliance Advocates, in furthering reproductive rights and protecting women’s rights as a whole across our state.
 As we’ve seen recently in our nation, we must remain conscious of our reality and continue in this fight for gender equality.
 Together, we secure the efforts in our state legislature, with the power of your vote!
 I am filled with much gratitude for the Washington State Nurses Association PAC in their decision to endorse my campaign and for the relationship fostered.
 I am so honored to have their support, sharing the goal of continued advocacy for our nurses and keeping healthcare a priority.
 I will continue working passionately toward ensuring a safe future for all residents in the 21st legislative district.
 Thank you.
-2020 Endorsements
-Elected Officials
-Mayor of Edmonds, Mike Nelson
-Mayor of Mukilteo, Jennifer Gregerson
-Mayor of Lynnwood, Nicola Smith
-Past Mayor of Edmonds, Dave Earling
-Edmonds City Councilman, Adrienne Fraley-Morales
-Snohomish County Treasurer, Brian Sullivan
-Snohomish County Councilwoman, Stephanie Wright
-Snohomish County Exec, Dave Somers
-Snohomish County Councilmember, Megan Dunn
-Snohomish County Prosecuting Attorney, Adam Cornell
-State Senator Marko Liias
-Past State Senator Marilyn Chase
-State Senator John McCoy
-State Senator Bob Hasegawa
-Speaker of the House, Frank Chopp
-State Rep.
-Strom Peterson
-State Rep.
-Mia Gregerson
-State Rep.
-Cindy Ryu
-State Rep.
-June Robinson
-State Rep.
-Mike Sells
-State Rep.
-John Lovick
-State Rep.
-Sharon Tomiko Santos
-Snohomish County Prosecutor Adam Cornell
-State Senator Mona Das
-State Senator Rebecca Saldana
-Snohomish County Council Member – Jared Mead
-Representative Lisa Callan
-Representative John Lovick
-Representative Mari Leavitt
-Community Leaders
-Al Aldrich
-Adie Simmons
-Kevin Hannigan
-Rick Steves
-Mario Brown
-Monisha Harrell
-Rogelio Riojas
-Jesus Sanchez
-Nina Martinez
-Niko Battle
-Colin McMahon
-Michelle Meaker-Pin
-Roger Pence David Beyer
-Phyllis Desoto
-Rich Haldi
-Barbara Haldi
-Charles Akins
-Garret Havens
-Tami Olson
-Sue Nicholls
-Sharon Holt
-Ron Lundbens
-Micah Rowland
-Mary Knoll
-Cathy Liu-Scott
-Brandon Bannister
-David McKenzie
-Leanna Woodley
-Johnny Tock
-Tyler Self
-Anahi Macchiavelli
-Nancy Torres
-Emily Wicks
-Anabel Hovig
-David McKenzie
-Melinda Woods
-Suzette Young
-Monisha Harrell
-Sean O’Sullivan
-Organizations
-2020
-WASHINGTON STATE NURSING ASSOCIATION
-American Federation of Teachers
-ARNP of Washington
-SEIU 1199 NW – (nurses/behavioral health, housing workers/healthcare workers/essential workers)
-Washington State Troopers
-Firefighters
-NARAL
-Retired Public Employees Council of WA
-AFCSME Council 28, Wa Federation of State Employees
-The Alliance for Gun Responsibility
-Planned Parenthood Votes’ Northwest & Hawaii PAC
-National Womens Political Caucus of WA
-21st LD
-Snohomish County District Democrats
-Washington Conservation Voters
-Sierra Club
-Fire Chiefs
-Washington Trade and Construction
-2018
-WEA – Washington Education Association
-21st Legislative District
-Snohomish County Democrats
-Young Democrats of Washington
-Washington State Labor Council
-National Women’s Political Caucus
-National Association of Social Workers – Washington Chapter
-Public School Employees of Washington
-AFT Washington
-Washington State School Retirees’ Association
-Washington Fire Chiefs
-Washington State Council of Fire Fighters
-Children’s Campaign Fund
-Latino PAC of Washington
-NARAL Pro-Choice Washington
-Planned Parenthood Votes’ Northwest & Hawaii PAC
-Washington Housing Alliance Action Fund
-Central Puget Sound Carpenters Local 30
-ARNPs United of Washington State
-Sierra Club
-Justice for all PAC
-IAFF 1828
-SEIU 775
-UFCW 21
-IBEW Local 77
-IBEW Local 191
-Aerospace Machinists 751
-Inlandboatmen’s Union of the Pacific
-Teamsters Local Union 117
-Sheet Metal, Air, Rail and Transportation Union-Transportation Division
-Washington State Nurses
-Washington Council of Police & Sheriffs
-AFSCME 28
-LEOFF 1 Coalition
-Mom’s Demand Action
-Stand for Children
-Alliance for Gun Responsibility Victory Fund
-Win With Women Washington PAC
-Washington Conservation
+2020 Endorsements Elected Officials Mayor of Edmonds, Mike Nelson Mayor of Mukilteo, Jennifer Gregerson Mayor of Lynnwood, Nicola Smith Past Mayor of Edmonds, Dave Earling Edmonds City Councilman, Adrienne Fraley-Morales Snohomish County Treasurer, Brian Sullivan Snohomish County Councilwoman, Stephanie Wright Snohomish County Exec, Dave Somers Snohomish County Councilmember, Megan Dunn Snohomish County Prosecuting Attorney, Adam Cornell State Senator Marko Liias Past State Senator Marilyn Chase State Senator John McCoy State Senator Bob Hasegawa Speaker of the House, Frank Chopp State Rep.
+Strom Peterson State Rep.
+Mia Gregerson State Rep.
+Cindy Ryu State Rep.
+June Robinson State Rep.
+Mike Sells State Rep.
+John Lovick State Rep.
+Sharon Tomiko Santos Snohomish County Prosecutor Adam Cornell State Senator Mona Das State Senator Rebecca Saldana Snohomish County Council Member – Jared Mead Representative Lisa Callan Representative John Lovick Representative Mari Leavitt Community Leaders Al Aldrich Adie Simmons Kevin Hannigan Rick Steves Mario Brown Monisha Harrell Rogelio Riojas Jesus Sanchez Nina Martinez Niko Battle Colin McMahon Michelle Meaker-Pin Roger Pence David Beyer Phyllis Desoto Rich Haldi Barbara Haldi Charles Akins Garret Havens Tami Olson Sue Nicholls Sharon Holt Ron Lundbens Micah Rowland Mary Knoll Cathy Liu-Scott Brandon Bannister David McKenzie Leanna Woodley Johnny Tock Tyler Self Anahi Macchiavelli Nancy Torres Emily Wicks Anabel Hovig David McKenzie Melinda Woods Suzette Young Monisha Harrell Sean O’Sullivan Organizations 2020 WASHINGTON STATE NURSING ASSOCIATION American Federation of Teachers ARNP of Washington SEIU 1199 NW – (nurses/behavioral health, housing workers/healthcare workers/essential workers) Washington State Troopers Firefighters NARAL Retired Public Employees Council of WA AFCSME Council 28, Wa Federation of State Employees The Alliance for Gun Responsibility Planned Parenthood Votes’ Northwest & Hawaii PAC National Womens Political Caucus of WA 21st LD Snohomish County District Democrats Washington Conservation Voters Sierra Club Fire Chiefs Washington Trade and Construction 2018 WEA – Washington Education Association 21st Legislative District Snohomish County Democrats Young Democrats of Washington Washington State Labor Council National Women’s Political Caucus National Association of Social Workers – Washington Chapter Public School Employees of Washington AFT Washington Washington State School Retirees’ Association Washington Fire Chiefs Washington State Council of Fire Fighters Children’s Campaign Fund Latino PAC of Washington NARAL Pro-Choice Washington Planned Parenthood Votes’ Northwest & Hawaii PAC Washington Housing Alliance Action Fund Central Puget Sound Carpenters Local 30 ARNPs United of Washington State Sierra Club Justice for all PAC IAFF 1828 SEIU 775 UFCW 21 IBEW Local 77 IBEW Local 191 Aerospace Machinists 751 Inlandboatmen’s Union of the Pacific Teamsters Local Union 117 Sheet Metal, Air, Rail and Transportation Union-Transportation Division Washington State Nurses Washington Council of Police & Sheriffs AFSCME 28 LEOFF 1 Coalition Mom’s Demand Action Stand for Children Alliance for Gun Responsibility Victory Fund Win With Women Washington PAC Washington Conservation CONTACT US electlillianortizself@gmail.com Paid for by Friends of Lillian Ortiz-Self PO Box 581 Mukilteo, WA 98275

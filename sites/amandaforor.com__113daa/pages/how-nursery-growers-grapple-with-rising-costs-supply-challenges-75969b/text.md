@@ -1,6 +1,5 @@
-The Blue Mountain Eagle
-by Sierra Dawn McClain
-SALEM — Facing increasing costs and supply shortages, Oregon nursery growers say they are forced to make difficult decisions.
+Skip to content HOME ABOUT ISSUES IN THE NEWS ENDORSEMENTS CONTACT HOME ABOUT ISSUES IN THE NEWS ENDORSEMENTS CONTACT © # Amanda for Oregon.
+Paid for by Amanda for Oregon DONATE How nursery growers grapple with rising costs, supply challenges March 25, 2022 The Blue Mountain Eagle by Sierra Dawn McClain SALEM — Facing increasing costs and supply shortages, Oregon nursery growers say they are forced to make difficult decisions.
 According to the Oregon Department of Agriculture, nursery and greenhouse products remain the state’s top agricultural commodity.
 The industry made $1.18 billion in sales in 2020, and demand remains strong.
 But high demand doesn’t always mean more profitability.
@@ -11,8 +10,7 @@ Amanda Staehely, a grower at Columbia Nursery LLC in Canby, said her average fre
 Like most nursery growers, Staehely ships the majority of her product east of the Rockies, and she is concerned customers won’t want to pay the high shipping costs.
 This January, at a trade show in Baltimore, Staehely said many people said they liked her product but wouldn’t buy from Oregon because other states, including Tennessee, have lower shipping rates.
 “It’s not an even playing field,” she said.
-“Oregon is at a competitive disadvantage.”
-International shipping costs are also up.
+“Oregon is at a competitive disadvantage.” International shipping costs are also up.
 The Fesslers said that a few years ago, they paid $10,000 to $11,000 to ship one container of coconut coir — a potting fiber — from Southeast Asia.
 This spring, it cost $25,000.
 Josh and Chris Robinson, brothers and growers at Robinson Nursery in McMinnville, said that a few years ago, their nursery paid $3,000 to $5,000 to ship a 40-foot container from China.
@@ -32,3 +30,5 @@ But not everyone can afford automation.
 Because Staehely runs a small nursery, she said she can’t afford machinery that costs hundreds of thousands of dollars.
 “That’s not within the reach of some of us,” she said.
 Growers say that to keep up with demand and maintain healthy profit margins, they’ll need to keep innovating.
+Category Uncategorized Tags No Tag Post navigation Previous post Leap of faith: Wayne and Amanda Staehely built Columbia Nursery by taking chances when opportunities arise Post navigation Next post Handling OT: How Oregon nursery, Washington seed potato farm respond to overtime laws Recent Posts Columbia Nursery: First generation growers raise a family and a nursery Election 2026: District 18 – Crowded field vieing to replace State Rep.
+Rick Lewis Nursery industry allows ex-ballerina to hone her political skills Profile: Columbia Nursery Handling OT: How Oregon nursery, Washington seed potato farm respond to overtime laws PO Box 127 Molalla OR, 97038 PAID FOR BY AMANDA FOR OR © # Amanda for OR.

@@ -1,5 +1,4 @@
-Endorsement from Kshama Sawant
-“I am proud to endorse my fellow independent candidate Justin Filip, who is also running for Congress this year.
+0 Skip to Content Meet Justin Our Platform Meet Our Team Blog Join Us Volunteer Donate Endorse Justin Donate Open Menu Close Menu Meet Justin Our Platform Meet Our Team Blog Join Us Volunteer Donate Endorse Justin Donate Open Menu Close Menu Meet Justin Our Platform Meet Our Team Blog Folder: Join Us Back Volunteer Donate Endorse Justin Donate Endorsement from Kshama Sawant Aug 6 Written By Justin Filip for Congress “I am proud to endorse my fellow independent candidate Justin Filip, who is also running for Congress this year.
 Like my campaign, Justin is clearly opposing the apartheid state of Israel, campaigning to end the genocide in Gaza, and calling for an end to all military aid to Israel.
 He is calling for universal public healthcare and taxes on the rich.
 Most importantly, he is running independent of the two most powerful parties of global capitalism: the warmongering billionaire-backed Democratic and Republican parties.
@@ -14,4 +13,5 @@ House and Senate, the Democratic Party has overseen a devastating cost-of-living
 Rebuilding a militant labor movement is crucial, as is building a new party for the working class.
 These two tasks go together.
 Running independent socialist campaigns, rooted in the working class, is a necessary step forward.
-Justin’s campaign, alongside mine, point toward what is urgently needed: a new mass party of the working class prepared to go to war against the billionaires and their political servants.”
+Justin’s campaign, alongside mine, point toward what is urgently needed: a new mass party of the working class prepared to go to war against the billionaires and their political servants.” Justin Filip for Congress Next Next Who funds you, runs you!
+JUSTIN FILIP FOR CONGRESS justin4congress@gmail.com

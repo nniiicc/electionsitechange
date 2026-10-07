@@ -1,21 +1,13 @@
-Big, Beautiful Disaster for South Dakota
-Updated: Apr 8
-FOR IMMEDIATE RELEASE
-May 20th, 2025
-SIOUX FALLS, SD – SD Democratic Party Executive Director Dan Ahlers is urging Rep.
-Dusty Johnson to oppose the budget bill, calling it a "big, beautiful disaster for the State of South Dakota."
-"Do you represent Donald Trump or the people of South Dakota?
+top of page Meet Dan Issues Why I'm Running Blog Events Contact Request a Yard Sign More Use tab to navigate through the menu items.
+DONATE VOLUNTEER All Articles Search Big, Beautiful Disaster for South Dakota Daniel Ahlers Feb 7 2 min read Updated: Apr 8 FOR IMMEDIATE RELEASE May 20th, 2025 SIOUX FALLS, SD – SD Democratic Party Executive Director Dan Ahlers is urging Rep.
+Dusty Johnson to oppose the budget bill, calling it a "big, beautiful disaster for the State of South Dakota." "Do you represent Donald Trump or the people of South Dakota?
 It is that simple Congressman Johnson, " Ahlers said.
 "The President's 'big, beautiful bill' is a financial catastrophe for South Dakota and every person who calls this state home.
 This proposal strips billions of dollars from programs that serve South Dakotans, all to pay for tax breaks for billionaires.
-It is an inexcusable dereliction of duty for any person claiming to represent the people of small, rural states like ours to vote for this big, beautiful billionaires bill."
-"This bill strips funding from Medicaid that provides healthcare for thousands of South Dakota children and elderly.
-It will reduce access to care and increase out-of-pocket expenses for South Dakotans in order to give tax cuts to billionaires."
-"This bill would also lead to a freeze or reduction in funds for USDA programs that support farmers.
+It is an inexcusable dereliction of duty for any person claiming to represent the people of small, rural states like ours to vote for this big, beautiful billionaires bill." "This bill strips funding from Medicaid that provides healthcare for thousands of South Dakota children and elderly.
+It will reduce access to care and increase out-of-pocket expenses for South Dakotans in order to give tax cuts to billionaires." "This bill would also lead to a freeze or reduction in funds for USDA programs that support farmers.
 This includes financial assistance, agricultural research, and food assistance programs.
-Additionally, a potential near-shutdown of USAID spending, which buys billions of dollars worth of products from American farms each year, will significantly impact South Dakota farmers."
-"The bottom line is this bill hurts farming, our state's largest industry.
+Additionally, a potential near-shutdown of USAID spending, which buys billions of dollars worth of products from American farms each year, will significantly impact South Dakota farmers." "The bottom line is this bill hurts farming, our state's largest industry.
 It preys on our most vulnerable citizens and will cost South Dakota taxpayers more money.
-President Trump's bill will increase our national debt, cost our state millions of dollars and give Trump's wealthy friends billions in tax breaks."
-"It's the truth and Dusty Johnson knows it," Ahlers said.
-"If he truly represents South Dakota, he will vote no."
+President Trump's bill will increase our national debt, cost our state millions of dollars and give Trump's wealthy friends billions in tax breaks." "It's the truth and Dusty Johnson knows it," Ahlers said.
+"If he truly represents South Dakota, he will vote no." Recent Posts See All How to Restore Trust in Government Supporting Farmers Through Partnerships and New Opportunities South Dakota Deserves Straight Talk About the Budget SUBSCRIBE TO MY NEWSLETTER STAY UP TO DATE ON THE CAMPAIGN First name * Last name * Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home About Me News Events Get Involved Contact Terms & Conditions Privacy Policy Paid for by Ahlers for Governor Powered and secured by Wix Donate PO Box 109 Sioux Falls, SD 57101 dan@danahlers.com 605-940-3071 bottom of page

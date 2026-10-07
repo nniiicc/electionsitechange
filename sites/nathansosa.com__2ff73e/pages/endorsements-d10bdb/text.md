@@ -1,9 +1,2 @@
-HOME
-ABOUT NATHAN
-LEGISLATIVE RECORD
-COMMUNITY INVOLVEMENT
-POLICY PRIORITIES
-ENDORSEMENTS
-More
-Organizations
-If you would like to endorse Nathan, please email nathan@nathansosa.com
+top of page HOME ABOUT NATHAN LEGISLATIVE RECORD COMMUNITY INVOLVEMENT POLICY PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items.
+DONATE ENDORSEMENTS IN THE 2026 ELECTION Organizations If you would like to endorse Nathan, please email nathan@nathansosa.com HOME ABOUT NATHAN LEGISLATIVE RECORD COMMUNITY INVOLVEMENT POLICY PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items. nathan@nathansosa.com © # by Nathan Sosa for Oregon Nathan Sosa for House District 30 bottom of page

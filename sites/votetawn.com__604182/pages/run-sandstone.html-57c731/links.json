@@ -1,7 +1,34 @@
 [
-"https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14",
-"https://tawnbeliger.com/contact.html",
-"https://votetawn.com/index.html",
-"https://votetawn.com/run-main.html",
-"https://votetawn.com/run-webster.html"
+{
+"text": "All Communities →",
+"href": "https://votetawn.com/run-main.html#every-community"
+},
+{
+"text": "All Legs",
+"href": "https://votetawn.com/run-main.html#all-legs"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14"
+},
+{
+"text": "Home",
+"href": "https://votetawn.com/index.html"
+},
+{
+"text": "Invite Tawn",
+"href": "https://www.tawnbeliger.com/contact.html"
+},
+{
+"text": "Running for YOU",
+"href": "https://votetawn.com/run-main.html"
+},
+{
+"text": "[image: Tawn Beliger Logo]",
+"href": "https://votetawn.com/index.html"
+},
+{
+"text": "← Previous Leg",
+"href": "https://votetawn.com/run-webster.html"
+}
 ]

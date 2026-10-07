@@ -1,9 +1,13 @@
 {
  "description": "Mike is running for state representative of OK HD41 and would appreciate your vote!",
  "final_url": "https://www.mikeisok.com/",
- "paid_for_by": null,
+ "fingerprint": "c2072ec35d4c2e4c0efbd077ac9caa28a4faa793",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bockus for House 2026",
  "years_mentioned": [
-  "2011"
+  "2006",
+  "2011",
+  "2026"
  ]
 }

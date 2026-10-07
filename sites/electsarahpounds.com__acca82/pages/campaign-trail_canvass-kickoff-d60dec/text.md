@@ -1,2 +1,3 @@
-Back to All Events Canvass Kickoff!
-Sunday, May 17, 2026 3:00 PM 5:00 PM Keatington Beach 2545 Eaton Gate Road Lake Orion, MI, 48360 United States (map) Google Calendar ICS
+0 Skip to Content Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Open Menu Close Menu Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Open Menu Close Menu Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Back to All Events Canvass Kickoff!
+Sunday, May 17, 2026 3:00 PM 5:00 PM Keatington Beach 2545 Eaton Gate Road Lake Orion, MI, 48360 United States (map) Google Calendar ICS Previous Previous May 2 Volunteer Kickoff Party!
+Next Next June 11 Summer Soiree Meet Sarah Priorities Get in Touch Donate Here Volunteer Here Paid for by Committee to Elect Sarah Pounds, PO Box 80086 Rochester, MI 48308

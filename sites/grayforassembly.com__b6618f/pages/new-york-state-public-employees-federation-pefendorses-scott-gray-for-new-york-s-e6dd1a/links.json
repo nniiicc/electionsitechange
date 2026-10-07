@@ -1,12 +1,58 @@
 [
-"https://grayforassembly.com/",
-"https://grayforassembly.com/author/admin",
-"https://grayforassembly.com/category/news",
-"https://grayforassembly.com/contact",
-"https://grayforassembly.com/donate",
-"https://grayforassembly.com/endorsements",
-"https://grayforassembly.com/ibew-local-910-endorses-scott-gray-for-new-york-state-assembly",
-"https://grayforassembly.com/photo-gallery",
-"https://grayforassembly.com/the-national-rifle-association-political-victory-fund-nra-pvfendorses-scott-gray-for-new-york-state-assembl",
-"https://userway.org/"
+{
+"text": "Contact",
+"href": "https://www.grayforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.grayforassembly.com/endorsements/"
+},
+{
+"text": "Make A Campaign Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Make A Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "News",
+"href": "https://www.grayforassembly.com/category/news/"
+},
+{
+"text": "Next Post:The National Rifle Association-Political Victory Fund (NRA-PVF)Endorses Scott Gray for New York State Assembly",
+"href": "https://www.grayforassembly.com/the-national-rifle-association-political-victory-fund-nra-pvfendorses-scott-gray-for-new-york-state-assembl/"
+},
+{
+"text": "Photos",
+"href": "https://www.grayforassembly.com/photo-gallery/"
+},
+{
+"text": "Previous Post:IBEW Local 910 Endorses Scott Gray for New York State Assembly",
+"href": "https://www.grayforassembly.com/ibew-local-910-endorses-scott-gray-for-new-york-state-assembly/"
+},
+{
+"text": "[image: Scott Gray for Assembly | New York State Assembly, 116th District]",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "admin",
+"href": "https://www.grayforassembly.com/author/admin/"
+},
+{
+"text": "friendsofgray@gmail.com",
+"href": "mailto:friendsofgray@gmail.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+}
 ]

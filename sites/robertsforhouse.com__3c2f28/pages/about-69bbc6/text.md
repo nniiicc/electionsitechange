@@ -1,4 +1,4 @@
-A third-generation Oklahoman currently serving as a State Representative, Eric Roberts is deeply invested in our beloved state.
+top of page Re-Elect DONATE ABOUT ERIC ROBERTS A third-generation Oklahoman currently serving as a State Representative, Eric Roberts is deeply invested in our beloved state.
 A lifelong resident of northwest Oklahoma City, Eric values a strong work ethic, an attribute for which he credits his parents.
 While in high school, instead of hanging out with friends during the summer, Eric worked in an industrial warehouse.
 After graduating from college, Eric became an owner and operator of Colonial Center LP, which he has built to success while employing locally for almost 30 years.
@@ -16,4 +16,5 @@ He serves as a board member for Ozarks Teen Challenge, Maps 3 citizens oversight
 Eric, Leigh and their children are active members of a community church, and Leigh is a leader in a women’s prison ministry.
 Eric has been a member of Rotary Club International since 1992, serves on the MAPS 3 Citizen Advisory Oversight Committee - a position he was first appointed to by former OKC Mayor Cornett, Habitat for Humanity, Christmas in April, and on the board of Ozark Teen Challenge.
 Eric is a 2020 graduate of Oklahoma’s Leadership Exchange Academy.
-The Roberts family show that no matter the challenges faced or decisions made in the past, positive change comes by sharing and working together.
+The Roberts family show that no matter the challenges faced or decisions made in the past, positive change comes by sharing and working together. ​ HOME ABOUT NEWS ENDORSEMENTS LEGISLATIVE ACCOMPLISHMENTS TAKE ACTION More Use tab to navigate through the menu items.
+DONATE Contact Us Privacy Policy Photos Authorized & Paid for by Friends of Eric Roberts 2026 bottom of page

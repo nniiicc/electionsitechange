@@ -1,18 +1,78 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/general-election",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/events/2026-11-03",
-"https://vanoortforvermont.com/events/list?tribe-bar-date=2026-11-01",
-"https://vanoortforvermont.com/events/month",
-"https://vanoortforvermont.com/events/month/2026-10",
-"https://vanoortforvermont.com/events/month/2026-11",
-"https://vanoortforvermont.com/events/month/2026-11?ical=1",
-"https://vanoortforvermont.com/events/month/2026-11?outlook-ical=1",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "3",
+"href": "https://vanoortforvermont.com/events/2026-11-03/"
+},
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://vanoortforvermont.com/events/month/2026-11/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://vanoortforvermont.com/events/month/2026-11/?outlook-ical=1"
+},
+{
+"text": "General election",
+"href": "https://vanoortforvermont.com/event/general-election/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "List",
+"href": "https://vanoortforvermont.com/events/list/?tribe-bar-date=%23"
+},
+{
+"text": "Month",
+"href": "https://vanoortforvermont.com/events/month/2026-11/"
+},
+{
+"text": "Oct",
+"href": "https://vanoortforvermont.com/events/month/2026-10/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-11%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont"
+},
+{
+"text": "This Month",
+"href": "https://vanoortforvermont.com/events/month/"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://vanoortforvermont.com/events/month/2026-10/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/?post_type=tribe_events&tribe-bar-date=2026-11&ical=1&eventDisplay=list"
+}
 ]

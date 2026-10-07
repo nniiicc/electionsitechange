@@ -1,5 +1,2 @@
-Contact John Erickson
-To speak with John Erickson, call him on his cell at 213-200-7894 or send an email to: info@johnerickson4senate.com
-Or, complete the contact form below.
-Send mail to:
-PO Box 461756 West Hollywood, CA 90046
+0 Skip to Content About Endorsements PRIORITIES Volunteer Resources Photos VIDEOS Contact DONATE Open Menu Close Menu About Endorsements PRIORITIES Volunteer Resources Photos VIDEOS Contact DONATE Open Menu Close Menu About Endorsements PRIORITIES Volunteer Folder: Resources Back Photos VIDEOS Contact DONATE Contact John Erickson To speak with John Erickson, call him on his cell at 213-200-7894 or send an email to: info@johnerickson4senate.com Or, complete the contact form below.
+Send mail to: PO Box 461756 West Hollywood, CA 90046 Join Team Erickson Paid for by John Erickson for State Senate 2026, FPPC ID#1479089 312 Clay Street #300, Oakland CA 94607 Privacy Policy | SMS Terms & Conditions

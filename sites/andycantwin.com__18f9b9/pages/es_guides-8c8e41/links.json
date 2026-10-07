@@ -1,24 +1,98 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/county",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/es/county",
-"https://andycantwin.com/es/datacenter",
-"https://andycantwin.com/es/duke",
-"https://andycantwin.com/es/healthbills",
-"https://andycantwin.com/es/index.html",
-"https://andycantwin.com/es/leandro",
-"https://andycantwin.com/es/newsletter.html",
-"https://andycantwin.com/es/volunteer.html",
-"https://andycantwin.com/es/vote",
-"https://andycantwin.com/es/voterfraud",
-"https://andycantwin.com/healthbills",
-"https://andycantwin.com/leandro",
-"https://andycantwin.com/vote",
-"https://andycantwin.com/voterfraud",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "00 Volver a La historia completa →",
+"href": "https://andycantwin.com/es/index.html"
+},
+{
+"text": "05",
+"href": "https://andycantwin.com/es/index.html"
+},
+{
+"text": "Aporta",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Conoce la historia",
+"href": "https://andycantwin.com/es/leandro/"
+},
+{
+"text": "Conoce la máquina",
+"href": "https://andycantwin.com/es/duke/"
+},
+{
+"text": "Entiéndela",
+"href": "https://andycantwin.com/es/healthbills/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Gana la discusión",
+"href": "https://andycantwin.com/es/voterfraud/"
+},
+{
+"text": "Haz el recorrido",
+"href": "https://andycantwin.com/es/datacenter/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Lee la guía",
+"href": "https://andycantwin.com/es/vote/"
+},
+{
+"text": "Regístrate",
+"href": "https://andycantwin.com/es/newsletter.html"
+},
+{
+"text": "Sigue la cuenta",
+"href": "https://andycantwin.com/es/county/"
+},
+{
+"text": "Súmate",
+"href": "https://andycantwin.com/es/volunteer.html"
+},
+{
+"text": "Taller",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/county/"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/healthbills/"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/leandro/"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/vote/"
+},
+{
+"text": "in English",
+"href": "https://andycantwin.com/voterfraud/"
+},
+{
+"text": "¿Aburrido?",
+"href": "https://andycantwin.com/arcade/"
+}
 ]

@@ -1,4 +1,4 @@
-I’m running for State Representative because I don’t believe a good life should require selling your conscience.
+Home The Agenda The Math About Me Home The Agenda The Math About Me Jett Newton For State Representative - About Me I’m running for State Representative because I don’t believe a good life should require selling your conscience.
 I grew up with love and opportunity—but I also watched the people around me sacrifice everything to provide it.
 After my parents split during the recession, we lost our home and moved wherever we could: basements, crowded trailers, spare rooms.
 Through it all, my family worked relentlessly so I could have chances they never did.
@@ -22,3 +22,4 @@ That’s why I’m running as a Green.
 Neither party owns our pain or our future.
 My loyalty isn’t to Comcast—it’s to the people who build, clean, cook, and fix.
 My loyalty is to the dignity that the average worker has been denied.
+Close modal Close modal Home The Agenda The Math About Me Close modal Home The Agenda The Math About Me

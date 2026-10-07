@@ -1,7 +1,14 @@
 {
  "description": "Read News articles about Naquetta Ricks, Democratic Candidate for HD40 in Aurora Colorado",
  "final_url": "https://www.ricks4co.com/news?author=5d434ec31ad039000105d604",
- "paid_for_by": "Paid for by Naquetta Ricks for Colorado",
- "title": "News about Naquetta Ricks, Candidate for HD40 \u2014 State Representative Naquetta Ricks HD40",
- "years_mentioned": []
+ "fingerprint": "e4b9db8eb16703127c5b83a64f161df76d7e664d",
+ "format": 3,
+ "paid_for_by": "sponsored by Representative Naquetta Ricks that would require companies to post the full price of a product, good, or service, including any mandatory fees, to improve pric",
+ "title": "News about Naquetta Ricks, Candidate for HD40 — State Representative Naquetta Ricks HD40",
+ "years_mentioned": [
+  "2019",
+  "2020",
+  "2023",
+  "2024"
+ ]
 }

@@ -1,7 +1,34 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://erlonjonesnh.com/",
-"https://erlonjonesnh.com/contact",
-"https://facebook.com/profile.php?id=61591461416576"
+{
+"text": "About",
+"href": "https://erlonjonesnh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://erlonjonesnh.com/contact"
+},
+{
+"text": "Our District",
+"href": "https://erlonjonesnh.com/#district"
+},
+{
+"text": "Platform",
+"href": "https://erlonjonesnh.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[image: Erlon Jones Logo] Erlon Jones",
+"href": "https://erlonjonesnh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591461416576"
+}
 ]

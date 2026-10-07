@@ -1,5 +1,30 @@
 [
-"https://drgregbonnen.com/",
-"https://drgregbonnen.com/privacy-policy",
-"https://secure.winred.com/friends-of-dr-greg-bonnen/donate"
+{
+"text": "About",
+"href": "https://drgregbonnen.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://drgregbonnen.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-dr-greg-bonnen/donate"
+},
+{
+"text": "News",
+"href": "https://drgregbonnen.com/#news"
+},
+{
+"text": "Priorities",
+"href": "https://drgregbonnen.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drgregbonnen.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://drgregbonnen.com"
+}
 ]

@@ -1,10 +1,50 @@
 [
-"https://facebook.com/stewartcatheyjrlasenate33",
-"https://secure.winred.com/cathey-for-congress/donate",
-"https://stewartcathey.com/",
-"https://stewartcathey.com/about",
-"https://stewartcathey.com/get-involved",
-"https://stewartcathey.com/news",
-"https://stewartcathey.com/presskit",
-"https://stewartcathey.com/privacy-terms"
+{
+"text": "ABOUT",
+"href": "https://www.stewartcathey.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/cathey-for-congress/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.stewartcathey.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.stewartcathey.com"
+},
+{
+"text": "LEARN MORE ABOUT STEWART",
+"href": "https://www.stewartcathey.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.stewartcathey.com/news"
+},
+{
+"text": "PRESS KIT",
+"href": "https://www.stewartcathey.com/presskit"
+},
+{
+"text": "Privacy Policy | Terms and Conditions.",
+"href": "https://www.stewartcathey.com/privacy-terms"
+},
+{
+"text": "[image: Cathey Website (1) copy 2_edited]",
+"href": "https://www.facebook.com/stewartcatheyjrlasenate33"
+},
+{
+"text": "[image: Stewart Cathey Congress]",
+"href": "https://www.stewartcathey.com"
+},
+{
+"text": "[image: Stewart Cathey for Congress]",
+"href": "https://www.stewartcathey.com"
+},
+{
+"text": "info@stewartcathey.com",
+"href": "mailto:info@stewartcathey.com"
+}
 ]

@@ -1,9 +1,8 @@
-Pocan Calls on Steil to Demand Ryan Super PAC Take Down Divisive Ad
-MADISON, WI – U.S.
+Meet Mark News Contact Nomination Papers Join The Team Get Involved Contribute Menu Menu Link to Facebook Link to X Pocan Calls on Steil to Demand Ryan Super PAC Take Down Divisive Ad September 24, 2018 MADISON, WI – U.S.
 Representative Mark Pocan (WI-02) today called on Bryan Steil to demand Paul Ryan’s Super PAC take down its latest ad.
 The ad features Randy Bryce’s brother and has opened a family feud on the matter, with Bryce’s mother calling for Ryan’s super PAC to take the ad off the air.
 “Wisconsinites deserve leaders who will do the right thing, and by refusing to call for Paul Ryan’s super PAC to take this shameful ad off the air, Bryan Steil is engaging in the same slimy tactics that Ryan has engaged in for years.
 Steil’s silence on the matter shows that he’s more loyal to Ryan and his billionaire donors, than he is to the people of Wisconsin’s 1st Congressional District,” said Pocan.
 “While this ad is exactly the Washington-style politics that people in Wisconsin hate, at least voters now know that Brian Steil is just another swamp creature trying to make his way back to Washington.
 Don’t buy Steil’s claim that he wants to replace Washington-style politics with Wisconsin-style solutions.
-He’s not Bryan Steil, he’s Washington-style.”
+He’s not Bryan Steil, he’s Washington-style.” Share this entry Share on Facebook Share on X Share on WhatsApp Share on Pinterest Share on LinkedIn Share by Mail https://pocanforcongress.com/wp-content/uploads/2018/10/Palermo-strike-1.jpg 640 960 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2018-09-24 18:17:41 2018-10-07 18:20:08 Pocan Calls on Steil to Demand Ryan Super PAC Take Down Divisive Ad Contact the Campaign Mark Pocan for Congress PO Box 327 Madison, WI 53701 (608) 286-1073 [email protected] Follow Mark on Facebook Get Email Updates Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top

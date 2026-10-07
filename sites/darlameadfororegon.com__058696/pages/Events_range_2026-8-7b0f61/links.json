@@ -1,30 +1,114 @@
 [
-"https://beavercreek.org/events-listing/national-night-out",
-"https://campaignpartner.com/",
-"https://darlameadfororegon.com/",
-"https://darlameadfororegon.com/Events?range=2026-10",
-"https://darlameadfororegon.com/Events?range=2026-10-05",
-"https://darlameadfororegon.com/Events?range=2026-7",
-"https://darlameadfororegon.com/Events?range=2026-9",
-"https://darlameadfororegon.com/Events?range=2026-W41",
-"https://darlameadfororegon.com/contact",
-"https://darlameadfororegon.com/contribute",
-"https://darlameadfororegon.com/events",
-"https://darlameadfororegon.com/events/j3fd6s3j?s=20260822T133000Z",
-"https://darlameadfororegon.com/events/p2hjpc8x?s=20260822T113000Z",
-"https://darlameadfororegon.com/events/wq25pb6g?s=20260804T173000Z",
-"https://darlameadfororegon.com/home",
-"https://darlameadfororegon.com/issues",
-"https://darlameadfororegon.com/meet_darla",
-"https://darlameadfororegon.com/news",
-"https://darlameadfororegon.com/photos",
-"https://darlameadfororegon.com/view-endorsements",
-"https://darlameadfororegon.com/volunteer",
-"https://darlameadfororegon.com/vote",
-"https://darlameadfororegon.com/yard-sign",
-"https://facebook.com/people/Darla-Mead-for-Oregon-HD51/61587617819580",
-"https://google.com/search?rlz=1C1VDKB_enUS991US991&cs=1&sca_esv=da05301a59791ed0&q=Beavercreek+Fire+Department&sa=X&ved=2ahUKEwi65f-YydiOAxXBle4BHUjZKUgQxccNegQIFhAB&mstk=AUtExfBbuNrpMuRh3MOBGeefKlzc58gHzmH0fwjjmmHdQpD9_CO7Iqv1ZKJT3cql7SNqYcGWJ-3qOMy0JAaWGiWQ4OB-LVcRxxqfYd-UN6qRO8-g3jeJ2R7MJoWQBjaS84ldYop3xxx5J2dMqhZyps_LvQ5KWhQ8Me7TqqCpHILAAzVtH6npyxHg7ioxhdxxy9FSuf1s&csui=3",
-"https://google.com/search?rlz=1C1VDKB_enUS991US991&cs=1&sca_esv=da05301a59791ed0&q=Korner+Park&sa=X&ved=2ahUKEwi65f-YydiOAxXBle4BHUjZKUgQxccNegQIBRAB&mstk=AUtExfBbuNrpMuRh3MOBGeefKlzc58gHzmH0fwjjmmHdQpD9_CO7Iqv1ZKJT3cql7SNqYcGWJ-3qOMy0JAaWGiWQ4OB-LVcRxxqfYd-UN6qRO8-g3jeJ2R7MJoWQBjaS84ldYop3xxx5J2dMqhZyps_LvQ5KWhQ8Me7TqqCpHILAAzVtH6npyxHg7ioxhdxxy9FSuf1s&csui=3",
-"https://google.com/search?rlz=1C1VDKB_enUS991US991&cs=1&sca_esv=da05301a59791ed0&q=Mountain+Wave+Search+%26+Rescue&sa=X&ved=2ahUKEwi65f-YydiOAxXBle4BHUjZKUgQxccNegQIFhAC&mstk=AUtExfBbuNrpMuRh3MOBGeefKlzc58gHzmH0fwjjmmHdQpD9_CO7Iqv1ZKJT3cql7SNqYcGWJ-3qOMy0JAaWGiWQ4OB-LVcRxxqfYd-UN6qRO8-g3jeJ2R7MJoWQBjaS84ldYop3xxx5J2dMqhZyps_LvQ5KWhQ8Me7TqqCpHILAAzVtH6npyxHg7ioxhdxxy9FSuf1s&csui=3",
-"https://instagram.com/darlamead4oregon"
+{
+"text": "#ago",
+"href": "https://www.darlameadfororegon.com/Events?range=%23"
+},
+{
+"text": "Beavercreek Fire Department",
+"href": "https://www.google.com/search?rlz=1C1VDKB_enUS991US991&cs=1&sca_esv=da05301a59791ed0&q=Beavercreek+Fire+Department&sa=X&ved=2ahUKEwi65f-YydiOAxXBle4BHUjZKUgQxccNegQIFhAB&mstk=AUtExfBbuNrpMuRh3MOBGeefKlzc58gHzmH0fwjjmmHdQpD9_CO7Iqv1ZKJT3cql7SNqYcGWJ-3qOMy0JAaWGiWQ4OB-LVcRxxqfYd-UN6qRO8-g3jeJ2R7MJoWQBjaS84ldYop3xxx5J2dMqhZyps_LvQ5KWhQ8Me7TqqCpHILAAzVtH6npyxHg7ioxhdxxy9FSuf1s&csui=3"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.darlameadfororegon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.darlameadfororegon.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darlameadfororegon.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.darlameadfororegon.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.darlameadfororegon.com/home"
+},
+{
+"text": "Korner Park",
+"href": "https://www.google.com/search?rlz=1C1VDKB_enUS991US991&cs=1&sca_esv=da05301a59791ed0&q=Korner+Park&sa=X&ved=2ahUKEwi65f-YydiOAxXBle4BHUjZKUgQxccNegQIBRAB&mstk=AUtExfBbuNrpMuRh3MOBGeefKlzc58gHzmH0fwjjmmHdQpD9_CO7Iqv1ZKJT3cql7SNqYcGWJ-3qOMy0JAaWGiWQ4OB-LVcRxxqfYd-UN6qRO8-g3jeJ2R7MJoWQBjaS84ldYop3xxx5J2dMqhZyps_LvQ5KWhQ8Me7TqqCpHILAAzVtH6npyxHg7ioxhdxxy9FSuf1s&csui=3"
+},
+{
+"text": "Meet Darla",
+"href": "https://www.darlameadfororegon.com/meet_darla"
+},
+{
+"text": "More info ›",
+"href": "https://www.darlameadfororegon.com/events/j3fd6s3j?s=20260822T133000Z"
+},
+{
+"text": "More info ›",
+"href": "https://www.darlameadfororegon.com/events/p2hjpc8x?s=20260822T113000Z"
+},
+{
+"text": "More info ›",
+"href": "https://www.darlameadfororegon.com/events/wq25pb6g?s=20260804T173000Z"
+},
+{
+"text": "Mountain Wave Search & Rescue",
+"href": "https://www.google.com/search?rlz=1C1VDKB_enUS991US991&cs=1&sca_esv=da05301a59791ed0&q=Mountain+Wave+Search+%26+Rescue&sa=X&ved=2ahUKEwi65f-YydiOAxXBle4BHUjZKUgQxccNegQIFhAC&mstk=AUtExfBbuNrpMuRh3MOBGeefKlzc58gHzmH0fwjjmmHdQpD9_CO7Iqv1ZKJT3cql7SNqYcGWJ-3qOMy0JAaWGiWQ4OB-LVcRxxqfYd-UN6qRO8-g3jeJ2R7MJoWQBjaS84ldYop3xxx5J2dMqhZyps_LvQ5KWhQ8Me7TqqCpHILAAzVtH6npyxHg7ioxhdxxy9FSuf1s&csui=3"
+},
+{
+"text": "News",
+"href": "https://www.darlameadfororegon.com/news"
+},
+{
+"text": "Next ›",
+"href": "https://www.darlameadfororegon.com/Events?range=2026-9"
+},
+{
+"text": "Photos",
+"href": "https://www.darlameadfororegon.com/photos"
+},
+{
+"text": "Priorities",
+"href": "https://www.darlameadfororegon.com/issues"
+},
+{
+"text": "This Month",
+"href": "https://www.darlameadfororegon.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.darlameadfororegon.com/Events?range=2026-W41"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darlameadfororegon.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.darlameadfororegon.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.darlameadfororegon.com/yard-sign"
+},
+{
+"text": "[image: Darla Mead]",
+"href": "https://www.darlameadfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Darla-Mead-for-Oregon-HD51/61587617819580/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/darlamead4oregon/"
+},
+{
+"text": "https://www.beavercreek.org/events-listing/national-night-out",
+"href": "https://www.beavercreek.org/events-listing/national-night-out"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.darlameadfororegon.com/Events?range=2026-7"
+}
 ]

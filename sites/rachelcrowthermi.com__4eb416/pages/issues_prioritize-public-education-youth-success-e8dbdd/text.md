@@ -1,12 +1,4 @@
-Strengthen Our Communities
-Public Education
-Prioritizing Public Education & Youth Success
-- Strengthen public schools
-- Focus on literacy development
-- Support student mental health
-- Provide universal free school meals
-- Ensure every child has the resources they need to succeed
-Michigan has a complex education system shaped by an aging workforce and a housing shortage, which affects its ability to attract young families to communities.
+Skip navigation menu Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Data Centers Housing Access Healthcare Local Economies Rural Character Transparent & Accountable Government Public Education Infrastructure Strengthen Our Communities Public Education Prioritizing Public Education & Youth Success Strengthen public schools Focus on literacy development Support student mental health Provide universal free school meals Ensure every child has the resources they need to succeed Michigan has a complex education system shaped by an aging workforce and a housing shortage, which affects its ability to attract young families to communities.
 Michigan continues to struggle with academic achievement, including how to financially support rural and under-resourced districts.
 I support efforts to codify the 15-year weighted funding formula, ensuring consistent more predictable funding.
 Lock in the School Aid funding for K-12 schools.
@@ -27,3 +19,5 @@ Michigan continues to struggle with academic achievement, including how to finan
 I support efforts to codify the 15-year weighted funding formula ensuring consistent more predictable funding.
 Lock in the School Aid funding for K-12 schools.
 Another important issue is how we support workforce training in our more rural communities.
+Contact: info@rachelcrowthermi.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Crowther for State Representative P.O.
+Box 342 Rockford, MI 49341 You need to enable JavaScript to run this app.

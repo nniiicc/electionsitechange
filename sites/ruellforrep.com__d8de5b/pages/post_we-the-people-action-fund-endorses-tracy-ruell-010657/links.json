@@ -1,15 +1,74 @@
 [
-"https://facebook.com/profile.php?id=61558661490465",
-"https://instagram.com/electtracyruell",
-"https://ruellforrep.com/",
-"https://ruellforrep.com/about",
-"https://ruellforrep.com/contact",
-"https://ruellforrep.com/events-1",
-"https://ruellforrep.com/get-involved",
-"https://ruellforrep.com/news",
-"https://ruellforrep.com/post/mecosta-county-democrats-endorsement",
-"https://ruellforrep.com/post/teamster-local-406-endorses-tracy-ruell",
-"https://ruellforrep.com/post/the-people-s-coalition-endorsement",
-"https://secure.actblue.com/donate/friends-to-elect-tracy-ruell-1",
-"https://tiktok.com/@electtracyruell"
+{
+"text": "ABOUT",
+"href": "https://www.ruellforrep.com/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.ruellforrep.com/news"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.ruellforrep.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-to-elect-tracy-ruell-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.ruellforrep.com/events-1"
+},
+{
+"text": "HOME",
+"href": "https://www.ruellforrep.com"
+},
+{
+"text": "Mecosta County Democrats Endorsement",
+"href": "https://www.ruellforrep.com/post/mecosta-county-democrats-endorsement"
+},
+{
+"text": "NEWS",
+"href": "https://www.ruellforrep.com/news"
+},
+{
+"text": "See All",
+"href": "https://www.ruellforrep.com/news"
+},
+{
+"text": "Teamster Local 406 Endorses Tracy Ruell",
+"href": "https://www.ruellforrep.com/post/teamster-local-406-endorses-tracy-ruell"
+},
+{
+"text": "The People's Coalition Endorsement",
+"href": "https://www.ruellforrep.com/post/the-people-s-coalition-endorsement"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.ruellforrep.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61558661490465"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electtracyruell/"
+},
+{
+"text": "[image: Mecosta County Democrats Endorsement]",
+"href": "https://www.ruellforrep.com/post/mecosta-county-democrats-endorsement"
+},
+{
+"text": "[image: Teamster Local 406 Endorses Tracy Ruell]",
+"href": "https://www.ruellforrep.com/post/teamster-local-406-endorses-tracy-ruell"
+},
+{
+"text": "[image: The People's Coalition Endorsement]",
+"href": "https://www.ruellforrep.com/post/the-people-s-coalition-endorsement"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@electtracyruell"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/heathergoulding.bsky.social",
-"https://facebook.com/heather.goulding.9",
-"https://linkedin.com/in/heather-goulding-6b532511",
-"https://secure.actblue.com/donate/friends-of-heather-goulding-1",
-"https://voteheatherg.com/",
-"https://voteheatherg.com/about",
-"https://voteheatherg.com/contact-us",
-"https://voteheatherg.com/endorsements",
-"https://voteheatherg.com/events",
-"https://voteheatherg.com/issues",
-"https://voteheatherg.com/join-heather-gouldings-assembly-district-27-campaign",
-"https://voteheatherg.com/media",
-"https://voteheatherg.com/privacy-policy",
-"https://voteheatherg.com/voter-information"
+{
+"text": "About",
+"href": "https://www.voteheatherg.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteheatherg.com/contact-us/"
+},
+{
+"text": "Contact Heather",
+"href": "https://www.voteheatherg.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-heather-goulding-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteheatherg.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.voteheatherg.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteheatherg.com/join-heather-gouldings-assembly-district-27-campaign/"
+},
+{
+"text": "Home",
+"href": "https://voteheatherg.com"
+},
+{
+"text": "Issues",
+"href": "https://www.voteheatherg.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.voteheatherg.com/media/"
+},
+{
+"text": "Terms & Conditions / Privacy Policy",
+"href": "https://www.voteheatherg.com/privacy-policy/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteheatherg.com/voter-information/"
+},
+{
+"text": "[image: Assembly District 27 Campaign]",
+"href": "https://www.voteheatherg.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/heathergoulding.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/heather.goulding.9"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/heather-goulding-6b532511/"
+}
 ]

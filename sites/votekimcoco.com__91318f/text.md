@@ -1,14 +1,9 @@
-DEMOCRAT FOR STATE HOUSE
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Scroll DEMOCRAT FOR STATE HOUSE Representing: ALA MOANA • KAKA‘AKO • DOWNTOWN PEOPLE FIRST!
+Our Community = Our Neighbors Water Protectors & Small Business Entrepreneurs Condominium Owners & Apartment Renters Working Moms & College Students Retirees & Influencers Keiki & Kupuna We care for each other.
+We solve problems together.
+Together, we can do better.
 For the last 6 years, I have been going door-to-door and building-to-building, speaking to our neighbors and listening to their hopes and concerns.
-What our community wants:
-Sufficient shelters & social workers to address our homelessness crisis
-Housing security:
-•Truly affordable housing: prevent families and elderly from slipping into homelessness
-•Stronger consumer protections for condominium owners
-Vibrant economy that offers green jobs, locally-grown food, & clean energy
-Safe streets, smart traffic lights & clear signage
-How I think we pay for it:
-Collect “empty-homes” surcharge on vacant investment properties
-Fair-Share tax rates for all – close tax loopholes that benefit a few
-Stop corruption that funnels public monies into private hands
-Collect taxes on responsible adult-use marijuana
+What our community wants: Sufficient shelters & social workers to address our homelessness crisis Housing security: •Truly affordable housing: prevent families and elderly from slipping into homelessness • Stronger consumer protections for condominium owners Vibrant economy that offers green jobs, locally-grown food, & clean energy Safe streets, smart traffic lights & clear signage How I think we pay for it: Collect “empty-homes” surcharge on vacant investment properties Fair-Share tax rates for all – close tax loopholes that benefit a few Stop corruption that funnels public monies into private hands Collect taxes on responsible adult-use marijuana Why Won’t the Legislature STOP CORRUPTION With These Safeguards?
+Read More • 2026 ENDORSEMENTS • • 2024 ENDORSEMENTS • Democrat for State House Representing: Ala Moana • Kaka‘ako • Downtown Faces What Our Neighbors Want Midweek-Ad Endorsements Message Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

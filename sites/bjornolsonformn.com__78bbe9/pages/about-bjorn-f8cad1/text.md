@@ -1,5 +1,4 @@
-About Bjorn Olson:
-Born in Martin County and raised in Faribault County, Bjorn has family roots within District 22A extending over 155 years.
+Skip to content Bjorn Olson For MN House District 22A Close Menu Home About Issues News Privacy Policy Donate Contact Bjorn About Bjorn Contact Bjorn Donate Get Involved Home News Privacy Policy Vote Bjorn Olson For MN House District 22A Home About Issues News Privacy Policy Donate Contact Bjorn About Bjorn Home About Bjorn About Bjorn Olson: Born in Martin County and raised in Faribault County, Bjorn has family roots within District 22A extending over 155 years.
 He and his wife, Hannah, have three young children, Sophie, Soren, and Svea.
 They lived in Elmore, MN, for a number of years while Bjorn served two terms as the city’s Mayor.
 They currently reside in Fairmont.
@@ -7,13 +6,12 @@ Bjorn grew up south of Blue Earth and attended the Blue Earth Area Schools.
 After graduating from Blue Earth Area High School, Bjorn attended Bethel University in St.
 Paul, where he earned two bachelor’s degrees in History and Social Studies Education.
 He also has a master’s degree in American Military History.
-Bjorn is a Major in the United States Army Reserve.
+Bjorn with daughter Sophie during 2019 soybean harvest Bjorn is a Major in the United States Army Reserve .
 For several years, he served as Commander of the 150 soldiers that made up the 353rd Transportation Company based out of Buffalo, MN.
 He is currently a Support Operations Officer at Fort Snelling in St.
 Paul.
 “I bring the values that my faith and the United States Military have instilled in me to St.
-Paul: the values of loyalty, duty, respect, selfless service, honor, integrity, and personal courage.”
-Bjorn is a conservative educator.
+Paul: the values of loyalty, duty, respect, selfless service, honor, integrity, and personal courage.” Bjorn is a conservative educator.
 He taught middle school history at Blue Earth Area Schools for 8 years.
 Bjorn was also the school district’s Knowledge Bowl Coach and coached middle and high schoolers in cross-country.
 Bjorn independently farms 200 acres of land in the area.
@@ -30,7 +28,8 @@ As a legislator, he has chief authored bills that resulted in over $35 million i
 His variety of experiences in leadership, education, agriculture, government, and business provide valuable insight in his pursuit to provide moral, faith and family-based representation of his communities’ interests at the capitol.
 “I use my multifaceted experience to our advantage in St.
 Paul, working tirelessly for our home and community as your Minnesota State Representative.
-I will continue to advocate for your interests, as you are not simply constituents, but family, friends, and my people.”
-* The United States Military does not endorse any candidate for political office.
+I will continue to advocate for your interests, as you are not simply constituents, but family, friends, and my people.” * The United States Military does not endorse any candidate for political office.
 The communities in District 22A face a variety of concerns that Bjorn is experienced with, and he is committed to representing the area’s interests effectively at the capitol.
 Please feel free to Contact Bjorn with any questions, concerns, or other issues you feel need representation in District 22A.
+Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Prepared and paid for by Bjorn Olson for MN House P.O.
+Box 441, Elmore, MN 56013. | Theme: Arrival by WPoperation Search for:

@@ -1,4 +1,4 @@
-Happy President’s Day Weekend!
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG SESSION WEEK SIX Posted by ttordsen February 19, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Happy President’s Day Weekend!
 It’s great to have a little break from Pierre and to enjoy some family time over a long weekend.
 My family is one of the main reasons why I chose to run for the legislature, and regardless of how tough it gets during session I am committed to working hard for families in District 14.
 There’s lots to talk about from the last week, so let’s dig in.
@@ -26,6 +26,7 @@ Looking ahead to next week, there are a couple of things that you can expect to 
 We are going to be having “crossover day”, which means that all bills need to be out of their chamber of origin by the end of session on Wednesday.
 With all of these House bills being addressed next week, be sure to reach out with any questions that you may have.
 I welcome any questions, feedback, and advice.
-Have a great long weekend!
-– Tyler
-(605)-610-8884
+Have a great long weekend! – Tyler (605)-610-8884 GET WEEKLY UPDATES Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 19, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK FIVE Next Post Next post: SESSION WEEK SEVEN Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

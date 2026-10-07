@@ -1,24 +1,118 @@
 [
-"http://facebook.com/wewill2026",
-"https://act.wewill2026.com/events",
-"https://act.wewill2026.com/volunteer",
-"https://bsky.app/profile/wewill2026.bsky.social",
-"https://instagram.com/wewill2026mi",
-"https://secure.actblue.com/donate/stand-with-william-lawrence",
-"https://secure.actblue.com/donate/william-lawrence-1",
-"https://secure.actblue.com/donate/william-lawrence-1&refcode=webheader",
-"https://secure.actblue.com/donate/williamlawrence",
-"https://secure.actblue.com/donate/williamlawrence?amount=250",
-"https://secure.actblue.com/donate/williamlawrence?amount=27",
-"https://secure.actblue.com/donate/williamlawrence?amount=50",
-"https://tiktok.com/@wewill2026",
-"https://wewill2026.com/",
-"https://wewill2026.com/about",
-"https://wewill2026.com/endorsements",
-"https://wewill2026.com/home",
-"https://wewill2026.com/media",
-"https://wewill2026.com/privacy-policy",
-"https://wewill2026.com/terms-and-conditions",
-"https://wewill2026.com/updates",
-"https://x.com/wewill2026"
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/williamlawrence?amount=250"
+},
+{
+"text": "$27",
+"href": "https://secure.actblue.com/donate/williamlawrence?amount=27"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/williamlawrence?amount=50"
+},
+{
+"text": "About",
+"href": "https://wewill2026.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/stand-with-william-lawrence"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/william-lawrence-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/william-lawrence-1&refcode=webheader"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stand-with-william-lawrence"
+},
+{
+"text": "Endorsements",
+"href": "https://wewill2026.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://act.wewill2026.com/events/"
+},
+{
+"text": "Facebook-f",
+"href": "http://facebook.com/wewill2026"
+},
+{
+"text": "Get Updates",
+"href": "https://wewill2026.com/updates/"
+},
+{
+"text": "Home",
+"href": "https://wewill2026.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/wewill2026mi"
+},
+{
+"text": "Media",
+"href": "https://wewill2026.com/media/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/williamlawrence"
+},
+{
+"text": "Platform",
+"href": "https://wewill2026.com/#platform"
+},
+{
+"text": "Press inquiries",
+"href": "mailto:communications@wewill2026.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wewill2026.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://wewill2026.com/terms-and-conditions/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@wewill2026"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://act.wewill2026.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://act.wewill2026.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/wewill2026"
+},
+{
+"text": "[image: William Lawrence for Congress]",
+"href": "https://wewill2026.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/stand-with-william-lawrence"
+},
+{
+"text": "[image]",
+"href": "https://wewill2026.com/"
+},
+{
+"text": "[image]",
+"href": "https://wewill2026.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/wewill2026.bsky.social"
+}
 ]

@@ -1,12 +1,5 @@
-Back to All Events
-Join us at An Evening with Independent Candidates in Twin Falls.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events Join John at An Evening with Independent Candidates Wednesday, September 23, 2026 6:00 PM 9:00 PM Sliger Auditorium 195 River Vista Place Twin Falls, Idaho, 83301 United States (map) Google Calendar ICS Join us at An Evening with Independent Candidates in Twin Falls.
 Meet John Stegner, Kevin Moxley, and Todd Achilles.
 Meet the candidates, enjoy great food and music, and support a stronger tomorrow.
-Please RSVP by emailing info@stegnerforidaho.com
-Previous
-Previous
-September 19
-Join John in Glenns Ferry
-Next
-Next
-September 27
+Please RSVP by emailing info@stegnerforidaho.com Previous Previous September 19 Join John in Glenns Ferry Next Next September 27 We Are Idaho Inc.
+Meet & Greet Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

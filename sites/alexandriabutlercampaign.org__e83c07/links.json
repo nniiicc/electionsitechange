@@ -1,17 +1,82 @@
 [
-"https://alexandriabutlercampaign.org/",
-"https://alexandriabutlercampaign.org/about-alex",
-"https://alexandriabutlercampaign.org/contact",
-"https://alexandriabutlercampaign.org/endorsements",
-"https://alexandriabutlercampaign.org/issues",
-"https://alexandriabutlercampaign.org/join-us",
-"https://alexandriabutlercampaign.org/privacy-policy",
-"https://alexandriabutlercampaign.org/terms-and-conditions",
-"https://alexandriabutlercampaign.org/wp-content/uploads/2025/04/Butler-Huffines-3-2.jpg",
-"https://alexandriabutlercampaign.org/wp-content/uploads/2025/04/Butler-woman-in-white-3x2-1.jpg",
-"https://alexandriabutlercampaign.org/wp-content/uploads/2025/04/Butlerkids-3-2.jpg",
-"https://alexandriabutlercampaign.org/wp-content/uploads/2025/05/Alex-Exec-Meeting-FBCGOP2.jpg",
-"https://facebook.com/profile.php?id=61575370102743",
-"https://instagram.com/anb4congress",
-"https://secure.anedot.com/the-alex-butler-campaign/donate"
+{
+"text": "About Alex",
+"href": "https://alexandriabutlercampaign.org/about-alex/"
+},
+{
+"text": "Contact",
+"href": "https://alexandriabutlercampaign.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/the-alex-butler-campaign/donate"
+},
+{
+"text": "EMAIL ALEX",
+"href": "mailto:info@alexandriabutlercampaign.org"
+},
+{
+"text": "Endorsements",
+"href": "https://alexandriabutlercampaign.org/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61575370102743"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/anb4congress"
+},
+{
+"text": "Issues",
+"href": "https://alexandriabutlercampaign.org/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://alexandriabutlercampaign.org/join-us/"
+},
+{
+"text": "Phone: 713-205-7268",
+"href": "tel:123-456-7890"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexandriabutlercampaign.org/privacy-policy/"
+},
+{
+"text": "Read More About Alex",
+"href": "https://alexandriabutlercampaign.org/about-alex"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://alexandriabutlercampaign.org/terms-and-conditions/"
+},
+{
+"text": "[image: Butler_Logo_Icon_White][image: Butler_Logo_Icon_White]",
+"href": "https://alexandriabutlercampaign.org/"
+},
+{
+"text": "[no text]",
+"href": "https://alexandriabutlercampaign.org/wp-content/uploads/2025/04/Butler-Huffines-3-2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://alexandriabutlercampaign.org/wp-content/uploads/2025/04/Butler-woman-in-white-3x2-1.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://alexandriabutlercampaign.org/wp-content/uploads/2025/04/Butlerkids-3-2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://alexandriabutlercampaign.org/wp-content/uploads/2025/05/Alex-Exec-Meeting-FBCGOP2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575370102743"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/anb4congress/"
+}
 ]

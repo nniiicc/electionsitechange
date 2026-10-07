@@ -1,16 +1,8 @@
-Press Releases
-Internal Poll Showing Block Leading Three-Way Race
-▶
-Independent candidate holds double-digit lead over incumbent governor McKee, tied with Foulkes
-PROVIDENCE, R.I. — The Block for Governor campaign today released the results of an internal poll conducted last week showing Ken Block leading a three-way race for governor against incumbent Gov.
+Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Block for Governor Campaign Releases Internal Poll Showing Block Leading Three-Way Race Independent candidate holds double-digit lead over incumbent governor McKee, tied with Foulkes PROVIDENCE, R.I. — The Block for Governor campaign today released the results of an internal poll conducted last week showing Ken Block leading a three-way race for governor against incumbent Gov.
 Dan McKee and Republican Aaron Guckian.
-In a three-way matchup, Block polled at 31.5%, more than ten points ahead of McKee at 21.1% and Guckian at 11.4%, with 36% undecided.
-In a scenario featuring Helena Foulkes as the Democratic candidate, Block and Foulkes are statistically tied at 26.6% and 27% respectively, with Guckian at 12.2% and 34.2% undecided.
-Topline results are being released.
-Also, the campaign is releasing crosstab data, except for responses to select issue questions of strategic value.
-"Rhode Islanders are clearly open to an independent candidate who prioritizes competence and results over party politics," said Block.
-"Leading this race before we've had the chance to introduce our message to voters across the state fully tells us there is a real appetite for change — and we intend to earn every vote."
-The poll was conducted by campaign pollster Brian Wynne, who has released a full memo describing the methodology and his assessment of the findings.
-In his memo, Wynne says, “Ken Block doesn’t just have a path to winning the November gubernatorial election, he has a runway.”
-Block added: "I am fully committed to this race.
-These numbers give us confidence that an independent path to the governorship is not only viable but promising, and we look forward to making our case directly to Rhode Island voters in the months ahead."
+In a three-way matchup, Block polled at 31.5% , more than ten points ahead of McKee at 21.1% and Guckian at 11.4% , with 36% undecided .
+In a scenario featuring Helena Foulkes as the Democratic candidate, Block and Foulkes are statistically tied at 26.6% and 27% respectively, with Guckian at 12.2% and 34.2% undecided .
+Topline results are being released .
+Also, the campaign is releasing crosstab data, except for responses to select issue questions of strategic value. " Rhode Islanders are clearly open to an independent candidate who prioritizes competence and results over party politics," said Block. " Leading this race before we've had the chance to introduce our message to voters across the state fully tells us there is a real appetite for change — and we intend to earn every vote." The poll was conducted by campaign pollster Brian Wynne, who has released a full memo describing the methodology and his assessment of the findings.
+In his memo, Wynne says, “Ken Block doesn’t just have a path to winning the November gubernatorial election, he has a runway.” Block added: " I am fully committed to this race .
+These numbers give us confidence that an independent path to the governorship is not only viable but promising , and we look forward to making our case directly to Rhode Island voters in the months ahead." Copyright ©# blockforgovernor All Rights Reserved.

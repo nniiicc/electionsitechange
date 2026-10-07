@@ -1,5 +1,1 @@
-+1 408 590 0116
-info@bainiwalforassembly.com
-Santa Clara County, CA
-Phone: (campaign phone coming soon)
-info@bainiwalforassembly.com
+Bainiwal For Assembly District 25  +1 408 590 0116  info@bainiwalforassembly.com Home About me Issues Donate Contacts Leading people to better life Get Involved  Santa Clara County, CA  Phone: (campaign phone coming soon)  info@bainiwalforassembly.com Volunteer with Us Full Name * Email * Phone Street Address Availability Select availability Weekdays Weeknights Weekends I am interested in: Door knocking Phone banking Community events Yard sign Comments Sign Up to Volunteer Name * Email * Message * Send message     One time donation via PayPal Donate through our bank account: Bank Name: How to find us Address: Phone: +1 408 590 0116 Email: © # bainiwalforassembly.com Facebook Twitter Instagram LinkedIn

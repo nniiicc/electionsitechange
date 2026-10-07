@@ -1,12 +1,50 @@
 [
-"http://youtube.com/@ScottHouldieson4StateSenate",
-"https://facebook.com/Scott4Senate",
-"https://instagram.com/scott4insenate",
-"https://scott4senate.com/",
-"https://scott4senate.com/about",
-"https://scott4senate.com/contact",
-"https://scott4senate.com/events",
-"https://scott4senate.com/get-involved",
-"https://scott4senate.com/issues",
-"https://secure.actblue.com/donate/scott-4-in-sd1"
+{
+"text": "About",
+"href": "https://www.scott4senate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.scott4senate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scott-4-in-sd1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scott4senate.com"
+},
+{
+"text": "Events",
+"href": "https://www.scott4senate.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.scott4senate.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.scott4senate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.scott4senate.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Scott4Senate"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/scott4insenate/"
+},
+{
+"text": "[image: Youtube]",
+"href": "http://www.youtube.com/@ScottHouldieson4StateSenate"
+},
+{
+"text": "[image: scott logo 2 transp background_edited.png]",
+"href": "https://www.scott4senate.com"
+}
 ]

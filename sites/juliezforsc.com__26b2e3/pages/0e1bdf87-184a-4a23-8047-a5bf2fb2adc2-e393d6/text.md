@@ -1,66 +1,55 @@
-Skip navigation menu
-Community member, Mother, fighter
-Privacy Policy
-Privacy Policy
-This Privacy Policy explains how the Julie Z for SC collects, uses, and discloses information about you when you access or use our websites and other online services that link to this Privacy Policy (collectively, “Services”), or otherwise interact with us.
+Skip navigation menu About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Community member, Mother, fighter Privacy Policy About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Community member, Mother, fighter Privacy Policy Privacy Policy Last revised February15,2026 This Privacy Policy explains how the Julie Z for SC collects, uses, and discloses information about you when you access or use our websites and other online services that link to this Privacy Policy (collectively, “Services”), or otherwise interact with us.
 We may update this Privacy Policy from time to time.
 If we make any changes to this Privacy Policy, we will notify you by revising the “Last Revised” date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our website homepage or by sending you a notification).
 We encourage you to review this Privacy Policy whenever you access or use the Services or otherwise interact with us to make sure that you stay informed about our information practices and the choices available to you.
 WHAT INFORMATION DO WE COLLECT?
-We collect information you provide directly to us.
+Information You Provide To Us We collect information you provide directly to us.
 For example, we collect information when you make a donation, make a purchase from our online store, participate in any interactive areas or features of the Services, sign up to receive email updates or other notifications (such as text message alerts), fill out a form, apply for a job or an internship, participate in a survey, contest or other promotion, communicate with us via third-party social media sites, or otherwise communicate with us.
 The types of information we may collect include your name, email address, postal address, phone number, credit card and other payment information, and any other information you choose to provide.
 In addition, note that the United States Federal Election Commission, the United States Internal Revenue Service, and certain state agencies may require us to collect and publicly report certain information from donors.
 For example, the Federal Elections Commission requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
-Other Information We Collect When You Use Our Services
-When you access or use the Services, we automatically collect certain information about you, including:
-We may obtain information from other sources and combine it with information we collect through the Services.
+Other Information We Collect When You Use Our Services When you access or use the Services, we automatically collect certain information about you, including: Log Information: We collect information related to your access to and use of the Services, such as your Internet Protocol (“IP”) address, your operating system, the type of browser you use, your activity on the Services (such as access times, pages viewed, and links clicked), and the webpage that you visited before navigating to the Services.
+Transactional Information: When you make a purchase or a return, we collect information related to the transaction, such as product details, purchase price, and the date and time of the transaction.
+Device Information: We collect information about the computer or mobile device you use to access the Services, such as the hardware model, operating system and version, unique device identifiers, and mobile network information.
+Location Information: We may derive the approximate location of your device from your IP address.
+Information Collected by Cookies and Similar Tracking Technologies: We (and our service providers) use various technologies to collect information, including cookies and web beacons.
+Cookies are small data files stored on your hard drive or in device memory that, among other things, help us to improve the Services and your experience, see which areas or features of the Services are popular, and count visits to the Services.
+For more information about cookies and how to disable them, please see the YOUR CHOICES section of this Privacy Policy below.
+Web beacons are small electronic images that may be used on the Services or in emails and that help to deliver cookies, count visits to the Services, monitor user activity on the Services, and understand usage and campaign effectiveness.
+Information We Collect From Other Sources We may obtain information from other sources and combine it with information we collect through the Services.
 For example, if you make a donation to a third-party website, such as Act Blue, for our benefit or if you sign up to host or volunteer for an event associated with the Julie Z for SC via a third-party website, such as MobilizeAmerica, we will obtain certain information about you from the third party that operates that website.
 HOW DO WE USE THE INFORMATION WE COLLECT?
-We use information we collect for the following purposes:
+We use information we collect for the following purposes: to provide, maintain, and improve the Services; to provide you with services, products, or information you request, and to send you related information, such as notifications and confirmations; to send you technical notices, updates, security alerts, and support and administrative messages; to respond to your emails, submissions, comments, questions, and requests, and to provide customer service; to request feedback, and to otherwise contact you about your use of the Services; to send you newsletters, and to otherwise provide you with news and information that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products, and services; to help connect you with other supporters, and to solicit volunteers, donations, and support for the Julie Z for SC and for candidates, issues, events, and organizations that we support; to remind you to send in your voter registration form and to vote, and to assist you in finding your voter registration information and polling location; to contact you if additional information is necessary under federal election laws or other applicable laws; to monitor and analyze trends, usage, and activities in connection with the Services; to serve advertisements, on the Services or on other websites or media, based on the information you provide and the actions you take while using the Services; to notify and contact survey, contest, or sweepstakes participants; and to carry out any other specific purpose for which the information was originally collected.
 WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
 Julie Z for SC maintains strict privacy policies, ensuring that the personal information of users and members is not sold, rented, released, or traded to others without prior consent or legal obligation.
-We may share information about you as follows or as otherwise described in this Privacy Policy:
+We may share information about you as follows or as otherwise described in this Privacy Policy: with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out contracted work or to perform services on our behalf as a part of routine party business; with our subsidiaries; to report required information to the United States Federal Elections Commission, United States Internal Revenue Service, and certain state agencies; when you give us your consent to do so, including when we notify you on the Services that the information you provide will be shared in a particular manner and you provide such information; when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with applicable laws or legal processes or to respond to lawful requests, claims, or legal authorities, including responding to lawful subpoenas, warrants, or court orders; when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of the Julie Z for SC, our users, our employees, our volunteers, copyright owners, third parties or the public, including to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of the Services; and in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction, or in any other situation where information may be disclosed or transferred as one of the assets of the Julie Z for SC.
 We also may share aggregated or de-identified information with third parties that cannot reasonably be used by such third parties to identify you.
-Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes
-WHAT INFORMATION MAY BE SHARED IN CONNECTION WITH ONLINE PETITIONS?
+Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes WHAT INFORMATION MAY BE SHARED IN CONNECTION WITH ONLINE PETITIONS?
 When you sign an online petition, you understand that such petition is public information and that we may make the petition, including your name, city, state, and any comments you provided in connection therewith, publicly available.
 In addition, we may provide such petitions or compilations thereof to national, state, or local leaders or to the press.
 WHAT INFORMATION MAY BE SHARED IN CONNECTION WITH SOCIAL SHARING FEATURES OF THE SERVICES?
 The Services offer certain social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on the Services with other media.
 Your use of such features and tools enables the sharing of certain information with your friends or with the public, depending on the settings you establish with the thirty party that provides the social sharing features and other integrated tools.
 For more information about the purpose and scope of data collection and processing in connection with the social sharing features and other integrated tools, please review the privacy policies of the third parties that provide such features and tools.
-OTHER WEBSITES LINKED TO OUR SERVICES
-The Services may contain links to other websites.
+OTHER WEBSITES LINKED TO OUR SERVICES The Services may contain links to other websites.
 For example, the Services may link to a third-party website, such as Act Blue, to enable donations or to a third-party website, such as MobilizeAmerica, to help organize volunteers for our benefit.
 Any information you provide on websites operated by a third party and linked to the Services is provided directly to the third party that operates such website and is subject to that third party’s privacy policy.
 This Privacy Policy does not apply to such websites, and we are not responsible for the information practices or policies of the third parties that operate such websites.
 Before providing information on any website that is operated by a third party and linked to the Services, we encourage you to review the privacy policy of the third party that operates such website and to learn more about the information practices and policies of such third party.
-ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS
-We may allow others to provide analytics services and to serve advertisements on our behalf.
+ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS We may allow others to provide analytics services and to serve advertisements on our behalf.
 These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, mobile network information, pages viewed, time spent on pages, links clicked, and conversion information.
 This information may be used by the Julie Z for SC and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your online activity.
-For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices.
+For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices .
 In addition, your device may include a feature (such as “Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having information collected through certain device applications used for targeted advertising purposes.
-YOUR CHOICES
-Most web browsers are set to accept cookies by default.
-If you prefer, you can usually set your browser to remove or reject browser cookies.
-Please note that if you choose to remove or reject browser cookies, such removal or rejection could affect the availability and functionality of the Services.
-You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from the Julie Z for SC by following the instructions in those communications.
+YOUR CHOICES Cookies Promotional Communications You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from the Julie Z for SC by following the instructions in those communications.
 Please note that we may still send you other types of non-promotional communications, such as those about your use of the Services or any of your donations, transactions, or activities related to the Services.
-If you are receiving text messages from us and wish to stop receiving them, simply respond with either “STOP” or “UNSUBSCRIBE” to the number from which you received the message.
+SMS Opt-Out If you are receiving text messages from us and wish to stop receiving them, simply respond with either “STOP” or “UNSUBSCRIBE” to the number from which you received the message.
 Once we receive your message, you will no longer receive further text messages from us.
-By signing up for text message updates, you agree to receive promotional, informational, or account-related messages from Julie Z for SC at the mobile number provided by the user.
+Text Messaging Terms of Service By signing up for text message updates, you agree to receive promotional, informational, or account-related messages from Julie Z for SC at the mobile number provided by the user.
 Message frequency may vary based on your interactions, upcoming events, or important notices from Julie Z for SC.
 Message and data rates may apply.
-You can request help by responding to a text message with HELP or by emailing juliezforsc@gmail.com.
+You can request help by responding to a text message with HELP or by emailing juliezforsc@gmail.com .
 You can opt out of receiving text messages at any time by replying STOP to any message.
 QUESTIONS?
-If you have any questions about this Privacy Policy, please contact us at juliezforsc@gmail.com.
-Last revised February15,2026
-Information You Provide To Us
-Information We Collect From Other Sources
-Cookies
-Promotional Communications
-SMS Opt-Out
-Text Messaging Terms of Service
+If you have any questions about this Privacy Policy, please contact us at juliezforsc@gmail.com .
+Contact JulieZforSC@gmail.com Mail us at: Julie Z for SC PO Box 243 Irmo, SC, 29063 Powered by RUN! website builder Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app.

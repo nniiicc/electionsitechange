@@ -1,32 +1,154 @@
 [
-"https://bytes.co/",
-"https://facebook.com/PhilScottforVermont",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwww.philscott.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/philscottvt",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.philscott.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Phil+Scott+For+Governor+Events+Archive+-+Phil+Scott+For+Governor",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.philscott.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Phil+Scott+For+Governor+Events+Archive+-+Phil+Scott+For+Governor",
-"https://philscott.org/",
-"https://philscott.org/event/14-county-tour",
-"https://philscott.org/event/election-night-celebration",
-"https://philscott.org/event/farm-bureau-candidate-meet-greet",
-"https://philscott.org/event/nbc-channel-5-debate",
-"https://philscott.org/event/nbc5-wptz-gubernatorial-debate",
-"https://philscott.org/event/scott-baker-hogan",
-"https://philscott.org/event/vpr-general-election-debate",
-"https://philscott.org/event/vpr-vermont-pbs-gubernatorial-debate",
-"https://philscott.org/event/vt-digger-gubernatorial-debate",
-"https://philscott.org/event/wcax-gubernatorial-debate",
-"https://philscott.org/events/list",
-"https://philscott.org/events/list/page/2?eventDisplay=past",
-"https://philscott.org/events/list?eventDisplay=past&ical=1",
-"https://philscott.org/events/list?eventDisplay=past&outlook-ical=1",
-"https://philscott.org/events/month",
-"https://philscott.org/events/today",
-"https://philscott.org/meet-phil",
-"https://philscott.org/privacy-policy",
-"https://philscott.org/terms-and-conditions",
-"https://philscott.org/volunteer",
-"https://secure.anedot.com/phil-scott/donate",
-"https://twitter.com/philscott4vt",
-"https://youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+{
+"text": "#ago",
+"href": "https://www.philscott.org/events/list/"
+},
+{
+"text": "14 County Tour",
+"href": "https://www.philscott.org/event/14-county-tour/"
+},
+{
+"text": "Day",
+"href": "https://www.philscott.org/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phil-scott/donate"
+},
+{
+"text": "Election Night Celebration",
+"href": "https://www.philscott.org/event/election-night-celebration/"
+},
+{
+"text": "Export .ics file",
+"href": "https://www.philscott.org/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://www.philscott.org/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Farm Bureau Candidate Meet and Greet",
+"href": "https://www.philscott.org/event/farm-bureau-candidate-meet-greet/"
+},
+{
+"text": "Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan",
+"href": "https://www.philscott.org/event/scott-baker-hogan/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.philscott.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Join the Team",
+"href": "https://www.philscott.org/volunteer/"
+},
+{
+"text": "List",
+"href": "https://www.philscott.org/events/list/"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philscott.org/meet-phil/"
+},
+{
+"text": "Month",
+"href": "https://www.philscott.org/events/month/"
+},
+{
+"text": "NBC Channel 5 Debate",
+"href": "https://www.philscott.org/event/nbc-channel-5-debate/"
+},
+{
+"text": "NBC5 (WPTZ) Gubernatorial Debate",
+"href": "https://www.philscott.org/event/nbc5-wptz-gubernatorial-debate/"
+},
+{
+"text": "Next Events",
+"href": "https://www.philscott.org/events/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.philscott.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Phil+Scott+For+Governor+Events+Archive+-+Phil+Scott+For+Governor"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.philscott.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Phil+Scott+For+Governor+Events+Archive+-+Phil+Scott+For+Governor"
+},
+{
+"text": "Previous Events",
+"href": "https://www.philscott.org/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.philscott.org/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://www.philscott.org/event/14-county-tour/"
+},
+{
+"text": "Read More",
+"href": "https://www.philscott.org/event/election-night-celebration/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.philscott.org/terms-and-conditions/"
+},
+{
+"text": "VPR General Election Debate",
+"href": "https://www.philscott.org/event/vpr-general-election-debate/"
+},
+{
+"text": "VPR/Vermont PBS Gubernatorial Debate",
+"href": "https://www.philscott.org/event/vpr-vermont-pbs-gubernatorial-debate/"
+},
+{
+"text": "VT Digger Gubernatorial Debate",
+"href": "https://www.philscott.org/event/vt-digger-gubernatorial-debate/"
+},
+{
+"text": "WCAX Gubernatorial Debate",
+"href": "https://www.philscott.org/event/wcax-gubernatorial-debate/"
+},
+{
+"text": "Website Designed by Bytes.co",
+"href": "https://bytes.co"
+},
+{
+"text": "[image: Phil Scott for Governor]",
+"href": "https://www.philscott.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/philscott4vt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilScottforVermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philscottvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+},
+{
+"text": "[no text]",
+"href": "mailto:phil@philscott.org"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://www.philscott.org/events/list/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://www.philscott.org/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.philscott.org/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

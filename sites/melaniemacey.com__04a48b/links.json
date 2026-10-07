@@ -1,30 +1,130 @@
 [
-"https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/endorsements",
-"https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/events",
-"https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/issues",
-"https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/meet-candidate",
-"https://facebook.com/melaniemaceymichigan",
-"https://heyvictor.com/",
-"https://instagram.com/melaniemaceymi?igsh=b21rN21hd2JzZ25t",
-"https://melaniemacey.com/",
-"https://melaniemacey.com/accessibility-statement",
-"https://melaniemacey.com/endorsements",
-"https://melaniemacey.com/event/coffee-at-bread-by-crispellis",
-"https://melaniemacey.com/event/coffee-hour-at-monarch",
-"https://melaniemacey.com/event/coffee-hour-at-the-bev",
-"https://melaniemacey.com/events",
-"https://melaniemacey.com/issues",
-"https://melaniemacey.com/meet-candidate",
-"https://melaniemacey.com/news",
-"https://melaniemacey.com/volunteer",
-"https://melaniemacey.com/voting-info",
-"https://michigan.gov/sos/elections/voting/register-to-vote",
-"https://mvic.sos.state.mi.us/Home/VoteAtHome",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/melanie-macey-1",
-"https://secure.actblue.com/donate/melanie-macey-1?amount=150",
-"https://secure.actblue.com/donate/melanie-macey-1?amount=25",
-"https://secure.actblue.com/donate/melanie-macey-1?amount=250",
-"https://secure.actblue.com/donate/melanie-macey-1?amount=5",
-"https://secure.actblue.com/donate/melanie-macey-1?amount=50"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount=150"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount=50"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://melaniemacey.com/accessibility-statement/"
+},
+{
+"text": "Check Voter Status",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/"
+},
+{
+"text": "Coffee hour Oct 2 2026 Coffee Hour at The Bev 8:00-9:30 See Event Info",
+"href": "https://melaniemacey.com/event/coffee-hour-at-the-bev/"
+},
+{
+"text": "Coffee hour Sep 24 2026 Coffee Hour at Bread by Crispelli’s 8-9:30 See Event Info",
+"href": "https://melaniemacey.com/event/coffee-at-bread-by-crispellis/"
+},
+{
+"text": "Coffee hour Sep 28 2026 Coffee Hour at Monarch 8:00-9:30 See Event Info",
+"href": "https://melaniemacey.com/event/coffee-hour-at-monarch/"
+},
+{
+"text": "Contact",
+"href": "mailto:melanie@melaniemacey.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://melaniemacey.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/events/"
+},
+{
+"text": "Events",
+"href": "https://melaniemacey.com/events/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Home",
+"href": "https://melaniemacey.com/"
+},
+{
+"text": "In the News",
+"href": "https://melaniemacey.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/issues/"
+},
+{
+"text": "Issues",
+"href": "https://melaniemacey.com/issues/"
+},
+{
+"text": "Meet Melanie",
+"href": "https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/meet-candidate/"
+},
+{
+"text": "Meet Melanie",
+"href": "https://melaniemacey.com/meet-candidate/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount="
+},
+{
+"text": "Register to vote",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "See All Endorsements",
+"href": "https://2c9090eb-11be-4683-bf61-a56f0ec1c653.sitesab.com/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://melaniemacey.com/volunteer/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome/#online"
+},
+{
+"text": "Voting Info",
+"href": "https://melaniemacey.com/voting-info/"
+},
+{
+"text": "[image: Melanie Macey Democrat for State Representative] [image: Melanie Macey Democrat for State Representative]",
+"href": "https://melaniemacey.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/melaniemaceymichigan"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/melaniemaceymi?igsh=b21rN21hd2JzZ25t"
+}
 ]

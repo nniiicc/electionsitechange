@@ -1,34 +1,146 @@
 [
-"https://clerk.kanecountyil.gov/Elections/Documents/EARLY%20VOTING%20POSTER%20-%20NOVEMBER%202026.pdf",
-"https://clerk2.kanecountyil.gov/Elections/Pages/Vote-by-Mail.aspx",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail",
-"https://docs.google.com/forms/d/1DSdKNhuY09P4OW8c_CvkicBE2bsDVFEj0oOzq6oYoH8/viewform?edit_requested=true",
-"https://facebook.com/Nabeela4Illinois",
-"https://instagram.com/nabeelasyed",
-"https://lakecountyil.gov/351/Voter-Power-for-Registered-Voters",
-"https://lakecountyil.gov/DocumentCenter/View/13400/Early-Voting-Locations-Dates-and-Times",
-"https://linkedin.com/in/nabeela-syed",
-"https://mchenrycountyil.gov/departments/county-clerk/elections/vote-by-mail",
-"https://mchenrycountyil.gov/home/showpublisheddocument/123070/639249772220270000",
-"https://mobilize.us/nabeelasyedforstatesenate?end_date=2026-12-01T05%3A59%3A59.999Z&is_virtual_flexible=false&start_date=2026-08-19T05%3A00%3A00.000Z",
-"https://nabeelasyed.com/",
-"https://nabeelasyed.com/26th-district",
-"https://nabeelasyed.com/aboutnabeela",
-"https://nabeelasyed.com/bigtech",
-"https://nabeelasyed.com/cart",
-"https://nabeelasyed.com/choice",
-"https://nabeelasyed.com/economy",
-"https://nabeelasyed.com/education",
-"https://nabeelasyed.com/electioninfo",
-"https://nabeelasyed.com/environment",
-"https://nabeelasyed.com/equalrights",
-"https://nabeelasyed.com/healthcare",
-"https://nabeelasyed.com/issues",
-"https://nabeelasyed.com/privacy-policy",
-"https://nabeelasyed.com/publicsafety",
-"https://nabeelasyed.com/volunteer",
-"https://ova.elections.il.gov/",
-"https://secure.actblue.com/donate/syedwebsite",
-"https://twitter.com/nabeelaforil"
+{
+"text": "0",
+"href": "https://www.nabeelasyed.com/cart"
+},
+{
+"text": "26th District",
+"href": "https://www.nabeelasyed.com/26th-district"
+},
+{
+"text": "About Nabeela",
+"href": "https://www.nabeelasyed.com/aboutnabeela"
+},
+{
+"text": "Back",
+"href": "https://www.nabeelasyed.com/"
+},
+{
+"text": "Big Tech",
+"href": "https://www.nabeelasyed.com/bigtech"
+},
+{
+"text": "Choice",
+"href": "https://www.nabeelasyed.com/choice"
+},
+{
+"text": "Cook County Mail Ballot Request",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/syedwebsite"
+},
+{
+"text": "Economy & Tax Reform",
+"href": "https://www.nabeelasyed.com/economy"
+},
+{
+"text": "Education",
+"href": "https://www.nabeelasyed.com/education"
+},
+{
+"text": "Election Info",
+"href": "https://www.nabeelasyed.com/electioninfo"
+},
+{
+"text": "Environment",
+"href": "https://www.nabeelasyed.com/environment"
+},
+{
+"text": "Equal Rights",
+"href": "https://www.nabeelasyed.com/equalrights"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/nabeelasyedforstatesenate/?end_date=%23T05%3A59%3A59.999Z&is_virtual_flexible=false&start_date=%23T05%3A00%3A00.000Z"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Nabeela4Illinois"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.nabeelasyed.com/issues"
+},
+{
+"text": "Healthcare",
+"href": "https://www.nabeelasyed.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.nabeelasyed.com/"
+},
+{
+"text": "Hours & Locations",
+"href": "https://clerk.kanecountyil.gov/Elections/Documents/EARLY%20VOTING%20POSTER%20-%20NOVEMBER%202026.pdf"
+},
+{
+"text": "Hours & Locations",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations"
+},
+{
+"text": "Hours & Locations",
+"href": "https://www.lakecountyil.gov/DocumentCenter/View/13400/Early-Voting-Locations-Dates-and-Times?bidId="
+},
+{
+"text": "Hours & Locations",
+"href": "https://www.mchenrycountyil.gov/home/showpublisheddocument/123070/639249772220270000"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nabeelasyed/"
+},
+{
+"text": "Kane County Mail Ballot Request",
+"href": "https://clerk2.kanecountyil.gov/Elections/Pages/Vote-by-Mail.aspx"
+},
+{
+"text": "Lake County Mail Ballot Request",
+"href": "https://www.lakecountyil.gov/351/Voter-Power-for-Registered-Voters"
+},
+{
+"text": "McHenry County Mail Ballot Request",
+"href": "https://www.mchenrycountyil.gov/departments/county-clerk/elections/vote-by-mail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nabeelasyed.com/privacy-policy"
+},
+{
+"text": "Public Safety",
+"href": "https://www.nabeelasyed.com/publicsafety"
+},
+{
+"text": "Register to Vote",
+"href": "https://ova.elections.il.gov"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/1DSdKNhuY09P4OW8c_CvkicBE2bsDVFEj0oOzq6oYoH8/viewform?edit_requested=true"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/nabeelaforil"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nabeelasyed.com/volunteer"
+},
+{
+"text": "[image: Nabeela Syed for State Senate]",
+"href": "https://www.nabeelasyed.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/nabeelaforil"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Nabeela4Illinois"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/nabeela-syed/"
+}
 ]

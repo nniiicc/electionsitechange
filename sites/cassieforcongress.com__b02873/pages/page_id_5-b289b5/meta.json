@@ -1,7 +1,9 @@
 {
  "description": "All merchandise purchases are a donation to the Cassie For Congress campaign.",
  "final_url": "https://cassieforcongress.com/?post_type=product",
- "paid_for_by": null,
- "title": "Merchandise - CassieforCongress.comMerchandise - CassieforCongress.com",
+ "fingerprint": "603f18baf191e692bdeeace77ab723cc2413d0de",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Merchandise - CassieforCongress.com",
  "years_mentioned": []
 }

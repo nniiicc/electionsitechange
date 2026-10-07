@@ -1,61 +1,22 @@
-Sanchez Sanchez
-Florida State House Representative, District 66
-Florida State House Representative, District 66.
-U.S.
-Air Force Veteran
-Every contribution, large or small, fuels the movement for a stronger community.
-House District 66 · every Tuesday, Thursday, and Saturday, late June through October.
-- Jun 30 · Precinct 525 · Citrus Park (Del Valle Rd area)
-- Jul 2 · Precinct 525 · Citrus Park (Del Valle Rd area)
-- Jul 7 · Precinct 527 · Westchase / Nine Eagles area
-- Jul 9 · Precinct 527 · Westchase / Nine Eagles area
-- Jul 11 · Precinct 528 · Keystone / Odessa
-- Jul 14 · Precinct 523 · Citrus Park / Westchase border
-- Jul 16 · Precinct 523 · Citrus Park / Westchase border
-- Jul 18 · Precinct 524 · Carrollwood / Citrus Park
-- Jul 21 · Precinct 511 · Citrus Park
-- Jul 23 · Precinct 511 · Citrus Park
-- Jul 25 · Precinct 507 · Carrollwood
-- Jul 28 · Precinct 538 · Westchase / Countryway
-- Jul 30 · Precinct 512–515 · Citrus Park / Carrollwood
-- Aug 1 · Precinct 513–514 · Citrus Park
-- Aug 4 · Precinct 516 · Carrollwood / Ehrlich Road area
-- Aug 6 · Precinct 249 · Town 'N' Country (near Waters Ave area)
-- Aug 8 · Precinct 247–348 · Town 'N' Country
-- Aug 11 · Precinct 245 · Town 'N' Country / West Hillsborough
-- Aug 13 · Precinct 501 · Carrollwood Village
-- Aug 15 · Precinct 506 · Carrollwood
-- Aug 18 · Precinct 509 · North Carrollwood
-- Aug 20 · Precinct 510 · North Carrollwood
-- Aug 22 · Precinct 520 · Country Place / Northdale
-- Aug 25 · Precinct 522 · Citrus Park / Westchase border
-- Aug 27 · Precinct 521 · Country Place / Northdale
-- Aug 29 · Precinct 531–532 · Keystone / Odessa
-- Sep 1 · Precinct 534 · Lake Magdalene
-- Sep 3 · Precinct 535 · Lake Magdalene
-- Sep 5 · Precinct 571 · Lake Magdalene (Lake Magdalene Blvd area)
-- Sep 8 · Precinct 574 · Forest Hills
-- Sep 10 · Precinct 569 · Carrollwood East
-- Sep 12 · Precinct 557 · North Tampa / Forest Hills
-- Sep 15 · Precinct 575 · Forest Hills
-- Sep 17 · Precinct 577 · North Tampa / Forest Hills
-- Sep 19 · Precinct 577 · North Tampa / Forest Hills
-- Sep 22 · Precinct 579 · North Tampa
-- Sep 24 · Precinct 585 · North Tampa / Bearss Ave area
-- Sep 26 · Precinct 587 · North Tampa
-- Sep 29 · Precinct 589 · Lake Magdalene / Carrollwood East
-- Oct 1 · Precinct 591 · Lake Magdalene / Carrollwood East
-- Oct 3 · Precinct 595 · Carrollwood East / Lake Magdalene
-- Oct 6 · Precinct 517 · Northdale
-- Oct 8 · Precinct 519 · Northdale / Carrollwood
-- Oct 10 · Precinct 529 · Keystone / Odessa
-- Oct 13 · Precinct 533 · Lake Magdalene / Carrollwood
-- Oct 15 · Precinct 552 · Lake Magdalene
-- Oct 17 · Precinct 551 · Lake Magdalene
-- Oct 20 · Precinct 557 · North Tampa / Forest Hills
-- Oct 22 · Precinct 550 · Lake Magdalene
-- Oct 24 · Precinct 554 · Lake Magdalene / North Tampa
-- Oct 27 · Precinct 555 · North Tampa
-- Oct 29 · Precinct 540 · Forest Hills / North Tampa
-- Oct 31 · Precinct 539 · Forest Hills
-Every family should have the opportunity to succeed — no exceptions.
+DONATE Home Canvassing Calendar Contact DEMOCRATIC PARTY Jose "Dante" Sanchez Sanchez Florida State House Representative, District 66 DEMOCRATIC PARTY Jose "Dante" Sanchez Sanchez Florida State House Representative, District 66.
+Vote for Your Future U.S.
+Air Force Veteran The "Big 7" Proposals Plan: A Vision for District 66 View District 66 Proposal YOUR VOICE MATTERS CONTRIBUTE Every contribution, large or small, fuels the movement for a stronger community. $10 $50 $100 $250 Other Canvassing Calendar House District 66 · every Tuesday, Thursday, and Saturday, late June through October.
+June 2026 Jun 30 · Precinct 525 · Citrus Park (Del Valle Rd area) July 2026 Jul 2 · Precinct 525 · Citrus Park (Del Valle Rd area) Jul 7 · Precinct 527 · Westchase / Nine Eagles area Jul 9 · Precinct 527 · Westchase / Nine Eagles area Jul 11 · Precinct 528 · Keystone / Odessa Jul 14 · Precinct 523 · Citrus Park / Westchase border Jul 16 · Precinct 523 · Citrus Park / Westchase border Jul 18 · Precinct 524 · Carrollwood / Citrus Park Jul 21 · Precinct 511 · Citrus Park Jul 23 · Precinct 511 · Citrus Park Jul 25 · Precinct 507 · Carrollwood Jul 28 · Precinct 538 · Westchase / Countryway Jul 30 · Precinct 512–515 · Citrus Park / Carrollwood August 2026 Aug 1 · Precinct 513–514 · Citrus Park Aug 4 · Precinct 516 · Carrollwood / Ehrlich Road area Aug 6 · Precinct 249 · Town 'N' Country (near Waters Ave area) Aug 8 · Precinct 247–348 · Town 'N' Country Aug 11 · Precinct 245 · Town 'N' Country / West Hillsborough Aug 13 · Precinct 501 · Carrollwood Village Aug 15 · Precinct 506 · Carrollwood Aug 18 · Precinct 509 · North Carrollwood Aug 20 · Precinct 510 · North Carrollwood Aug 22 · Precinct 520 · Country Place / Northdale Aug 25 · Precinct 522 · Citrus Park / Westchase border Aug 27 · Precinct 521 · Country Place / Northdale Aug 29 · Precinct 531–532 · Keystone / Odessa September 2026 Sep 1 · Precinct 534 · Lake Magdalene Sep 3 · Precinct 535 · Lake Magdalene Sep 5 · Precinct 571 · Lake Magdalene (Lake Magdalene Blvd area) Sep 8 · Precinct 574 · Forest Hills Sep 10 · Precinct 569 · Carrollwood East Sep 12 · Precinct 557 · North Tampa / Forest Hills Sep 15 · Precinct 575 · Forest Hills Sep 17 · Precinct 577 · North Tampa / Forest Hills Sep 19 · Precinct 577 · North Tampa / Forest Hills Sep 22 · Precinct 579 · North Tampa Sep 24 · Precinct 585 · North Tampa / Bearss Ave area Sep 26 · Precinct 587 · North Tampa Sep 29 · Precinct 589 · Lake Magdalene / Carrollwood East October 2026 Oct 1 · Precinct 591 · Lake Magdalene / Carrollwood East Oct 3 · Precinct 595 · Carrollwood East / Lake Magdalene Oct 6 · Precinct 517 · Northdale Oct 8 · Precinct 519 · Northdale / Carrollwood Oct 10 · Precinct 529 · Keystone / Odessa Oct 13 · Precinct 533 · Lake Magdalene / Carrollwood Oct 15 · Precinct 552 · Lake Magdalene Oct 17 · Precinct 551 · Lake Magdalene Oct 20 · Precinct 557 · North Tampa / Forest Hills Oct 22 · Precinct 550 · Lake Magdalene Oct 24 · Precinct 554 · Lake Magdalene / North Tampa Oct 27 · Precinct 555 · North Tampa Oct 29 · Precinct 540 · Forest Hills / North Tampa Oct 31 · Precinct 539 · Forest Hills STRONGER SCHOOLS, SAFER NEIGHBORHOODS, BRIGHTER FUTURE God, Family, and Community Every family should have the opportunity to succeed — no exceptions.
+VOTE FOR JOSE Community Family Dominican Association of Tampa Church About Jose Friends, neighbors, and fellow Democrats of Tampa Bay Together, we can build a stronger, fairer, and more inclusive tomorrow.
+I stand before you today, humbled and incredibly honored, to accept the endorsement to run for Florida State House Representative, District 66 .
+To all of you who have come to me, offering your unconditional support and help, I extend my deepest gratitude.
+Your belief in me, your dedication, and your willingness to stand by my side mean more than words can express.
+It is your solid support that fuels my determination.
+We are living in challenging times, times that demand courage, conviction, and a constant commitment to the values that define us.
+It is precisely in these moments that people with strong values, with a profound love for our community, and with an unyielding passion to protect it, must rise.
+I am ready to rise.
+I am ready to fight for our families, for our schools, for our environment, and for a Florida that works for everyone.
+Together, we will build a brighter, more inclusive future for District 66 and for our entire state.
+Thank you.
+Let’s get to work.
+Community Commitment Standing with neighbors and local families, grounded in shared values and a vision for a stronger future.
+Rising to Challenges Recognizing the difficult times we face and the need for courage, conviction, and principled leadership.
+Dedicated to Service Guided by gratitude for the support of friends, community members, and volunteers who make progress possible.
+A Brighter Future Together Focused on education, family well-being, environmental stewardship, and creating opportunities for all.
+Would you like to become one of our donors?
+DONATE DONATE Connect with us Tampa, Florida Paid for by Jose "Dante" Sanchez Sanchez Powered by HILARTECH, LLC

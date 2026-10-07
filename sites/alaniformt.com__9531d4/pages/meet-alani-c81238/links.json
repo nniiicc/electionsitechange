@@ -1,8 +1,38 @@
 [
-"https://alaniformt.com/get-involved",
-"https://alaniformt.com/positions",
-"https://alaniformt.com/service",
-"https://alaniformt.com/{{ f.href }}",
-"https://secure.actblue.com/donate/alanibankhead",
-"https://youtube.com/watch?v=rxL5hH1JOCA"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alanibankhead"
+},
+{
+"text": "More on the training and coaching work →",
+"href": "https://alaniformt.com/service#coaching"
+},
+{
+"text": "See every position →",
+"href": "https://alaniformt.com/positions"
+},
+{
+"text": "Volunteer",
+"href": "https://alaniformt.com/get-involved"
+},
+{
+"text": "Watch the talk →",
+"href": "https://www.youtube.com/watch?v=rxL5hH1JOCA"
+},
+{
+"text": "[image: Alani Bankhead, Special Agent — TEDxPearlStreet: Mavericks & Moonshots] TEDxPearlStreet · Watch on YouTube",
+"href": "https://www.youtube.com/watch?v=rxL5hH1JOCA"
+},
+{
+"text": "entire history of service",
+"href": "https://alaniformt.com/service"
+},
+{
+"text": "published here",
+"href": "https://alaniformt.com/service"
+},
+{
+"text": "{{ f.num }} {{ f.title }} {{ f.tag }} {{ f.body }} Read my position →",
+"href": "https://alaniformt.com/%7B%7B%20f.href%20%7D%7D"
+}
 ]

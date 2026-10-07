@@ -1,5 +1,4 @@
-About Me
-Ben Bowman grew up attending the Tigard-Tualatin School District (TTSD), from kindergarten through graduation.
+0 Skip to Content About Issues Endorsements Contact Donate Open Menu Close Menu About Issues Endorsements Contact Donate Open Menu Close Menu About Issues Endorsements Contact Donate About Me Ben Bowman grew up attending the Tigard-Tualatin School District (TTSD), from kindergarten through graduation.
 He was the middle child of three boys—and has the scars to prove it!
 His mom was a high school English teacher and his dad worked for the U.S.
 Postal Service.
@@ -19,3 +18,4 @@ In his first term, he was elected by his colleagues as House Majority Leader.
 Ben has secured millions of dollars for our community, including $3 million for safety improvements on Hall Boulevard.
 He was a chief architect of Oregon’s landmark Early Literacy Success Initiative, with $150 million allocated to support school districts in teaching young children how to read.
 He was the champion for launching the Dolly Parton Imagination Library statewide in Oregon—ensuring every Oregon kid, from birth to 5-years-old, is eligible to receive one free book per month in the mail.
+Paid for by Friends of Ben Bowman, PAC ID 19763 Facebook Twitter Instagram

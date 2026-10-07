@@ -1,12 +1,50 @@
 [
-"http://mewe.com/i/johnfornm",
-"https://facebook.com/JohnforNM",
-"https://gettr.com/user/johnblock",
-"https://johnfornm.com/",
-"https://johnfornm.com/MeetJohn",
-"https://johnfornm.com/endorsements",
-"https://johnfornm.com/issues",
-"https://johnfornm.com/privacy-policy",
-"https://johnfornm.com/terms-and-conditions",
-"https://secure.winred.com/johnblock/2026-main"
+{
+"text": "About",
+"href": "https://johnfornm.com/MeetJohn/"
+},
+{
+"text": "Connect on MeWe",
+"href": "http://mewe.com/i/johnfornm"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/johnblock/2026-main"
+},
+{
+"text": "Endorsements",
+"href": "https://johnfornm.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/JohnforNM/"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/JohnforNM/"
+},
+{
+"text": "Follow on Gettr",
+"href": "https://gettr.com/user/johnblock"
+},
+{
+"text": "Issues",
+"href": "https://johnfornm.com/issues/"
+},
+{
+"text": "John's Ratings & Endorsements",
+"href": "https://johnfornm.com/endorsements/"
+},
+{
+"text": "Privacy Policies",
+"href": "https://johnfornm.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://johnfornm.com/terms-and-conditions/"
+},
+{
+"text": "[image: John Block for New Mexico]",
+"href": "https://johnfornm.com/"
+}
 ]

@@ -1,8 +1,2 @@
-These volunteers are the heart of our mission, dedicating their time, skills, and energy to help our cause …
-by Michael
-January 7, 2025
-From community policing to youth programs, see how our safety plan supports real change without leaving anyone behind.
-January 6, 2025
-From phone banking to sharing on social media, every action matters.
-Here’s how you can get involved and …
-January 3, 2025
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Category: People & Community Home | People & Community People & Community Meet the Volunteers Powering the Movement These volunteers are the heart of our mission, dedicating their time, skills, and energy to help our cause … by Michael January 7, 2025 People & Community Our Plan for Safer, Stronger Neighborhoods From community policing to youth programs, see how our safety plan supports real change without leaving anyone behind. by Michael January 6, 2025 People & Community Join the Movement: How You Can Make an Impact Today From phone banking to sharing on social media, every action matters.
+Here’s how you can get involved and … by Michael January 3, 2025 Featured Posts Behind the Scenes: A Day in the Life on the Campaign Trail January 9, 2025 What Local Voices Are Saying About the Privacy Bill January 8, 2025 Meet the Volunteers Powering the Movement January 7, 2025 Paid for by Callison for Assembly 2026, FPPC ID #1483879.

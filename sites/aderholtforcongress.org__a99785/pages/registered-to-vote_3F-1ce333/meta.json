@@ -1,7 +1,9 @@
 {
  "description": "Check your voter registration status in Alabama and stay informed about upcoming elections.",
  "final_url": "https://aderholtforcongress.org/registered-to-vote%3F",
- "paid_for_by": "Paid for by Robert Aderholt for Congress Copyright \u00a9 2025 Robert Aderholt for Congress All Rights Reserved",
+ "fingerprint": "58e7829283864f1aaa04ae18fa055d267aed6234",
+ "format": 3,
+ "paid_for_by": "Paid for by Robert Aderholt for Congress Copyright © # Robert Aderholt for Congress All Rights Reserved",
  "title": "Registered to Vote?",
  "years_mentioned": []
 }

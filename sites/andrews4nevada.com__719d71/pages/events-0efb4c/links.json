@@ -1,18 +1,66 @@
 [
-"https://andrews4nevada.com/about",
-"https://andrews4nevada.com/contact",
-"https://andrews4nevada.com/events",
-"https://andrews4nevada.com/home",
-"https://andrews4nevada.com/voting-info",
-"https://bilodeauforyou.com/",
-"https://centennialhillsdemocrats.org/",
-"https://electhuntercain.com/",
-"https://facebook.com/109127451735329",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/andrews4nevada",
-"https://marlenedrakefornv.com/",
-"https://nvsos.gov/sos/elections/election-information/2026-election-information",
-"https://paypal.com/donate?hosted_button_id=2HJK9CGQJY4B8",
-"https://redrockdemocrats.org/",
-"https://x.com/Andrews4Nevada"
+{
+"text": "ABOUT",
+"href": "https://andrews4nevada.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://andrews4nevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=2HJK9CGQJY4B8"
+},
+{
+"text": "EVENTS",
+"href": "https://andrews4nevada.com/events"
+},
+{
+"text": "HOME",
+"href": "https://andrews4nevada.com/home"
+},
+{
+"text": "VOTING INFO",
+"href": "https://andrews4nevada.com/voting-info"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/109127451735329"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrews4nevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Andrews4Nevada"
+},
+{
+"text": "https://electhuntercain.com/",
+"href": "https://electhuntercain.com/%C2%A0"
+},
+{
+"text": "https://marlenedrakefornv.com",
+"href": "https://marlenedrakefornv.com"
+},
+{
+"text": "https://www.bilodeauforyou.com/",
+"href": "https://www.bilodeauforyou.com/"
+},
+{
+"text": "https://www.centennialhillsdemocrats.org/",
+"href": "https://www.centennialhillsdemocrats.org/"
+},
+{
+"text": "https://www.nvsos.gov/sos/elections/election-information/2026-election-information",
+"href": "https://www.nvsos.gov/sos/elections/election-information/2026-election-information"
+},
+{
+"text": "https://www.redrockdemocrats.org/",
+"href": "https://www.redrockdemocrats.org/"
+}
 ]

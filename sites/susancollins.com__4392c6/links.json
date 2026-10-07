@@ -1,31 +1,150 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_home_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_home_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_home_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_home_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_home_donatebar500",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/letter-to-the-editor/susan-collins-shows-up",
-"https://susancollins.com/local-endorsement-videos",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/news/signed-into-law-kay-hagan-tick-reauthorization-act-authored-by-senator-collins",
-"https://susancollins.com/op-ed/why-im-supporting-sen-susan-collins-opinion",
-"https://susancollins.com/press-release/icymi-washington-post-troy-jackson-campaigns-against-corporate-money-but-spent-years-raising-it",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_home_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_home_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_home_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_home_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_home_donatebar500"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "CLICK HERE TO VIEW LOCAL ENDORSEMENT VIDEOS!",
+"href": "https://susancollins.com/local-endorsement-videos/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/susan-collins/biggest-race-pop-up/?money_pledge=true&amount=75"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Learn More",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "More on Susan's Impact",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Read MoreOctober 1, 2026ICYMI — Washington Post: Troy Jackson Campaigns Against Corporate Money, but Spent Years Raising ItPress Release",
+"href": "https://susancollins.com/press-release/icymi-washington-post-troy-jackson-campaigns-against-corporate-money-but-spent-years-raising-it/"
+},
+{
+"text": "Read MoreOctober 3, 2026Why I’m supporting Sen. Susan Collins | OpinionOp Ed",
+"href": "https://susancollins.com/op-ed/why-im-supporting-sen-susan-collins-opinion/"
+},
+{
+"text": "Read MoreOctober 6, 2026Collins Honors Maine’s Fallen Firefighters as High-Stakes Week Begins in Senate RaceNews",
+"href": "https://susancollins.com/news/collins-honors-maines-fallen-firefighters-as-high-stakes-week-begins-in-senate-race/"
+},
+{
+"text": "Read MoreSeptember 30, 2026SIGNED INTO LAW: Kay Hagan Tick Reauthorization Act Authored by Senator CollinsNews",
+"href": "https://susancollins.com/news/signed-into-law-kay-hagan-tick-reauthorization-act-authored-by-senator-collins/"
+},
+{
+"text": "Stay Informed",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[image]Shop the Team Collins Collection",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/james.whalenfornc.com",
-"https://instagram.com/jameswhalennc",
-"https://linkedin.com/in/james-whalen-111b775b",
-"https://secure.actblue.com/donate/whalenfornc",
-"https://threads.com/@jameswhalennc",
-"https://tiktok.com/@jameswhalennc",
-"https://whalenfornc.com/",
-"https://whalenfornc.com/about",
-"https://whalenfornc.com/endorsements",
-"https://whalenfornc.com/es/volunteer",
-"https://whalenfornc.com/volunteer",
-"https://x.com/JamesWhalenNC",
-"https://xpslane.com/",
-"https://youtube.com/@WhalenForNC"
+{
+"text": "About",
+"href": "https://whalenfornc.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/whalenfornc"
+},
+{
+"text": "Endorsements",
+"href": "https://whalenfornc.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://whalenfornc.com/"
+},
+{
+"text": "Meet James",
+"href": "https://whalenfornc.com/about"
+},
+{
+"text": "Volunteer",
+"href": "https://whalenfornc.com/volunteer"
+},
+{
+"text": "[image: James Whalen for NC]",
+"href": "https://whalenfornc.com/"
+},
+{
+"text": "[image]ES",
+"href": "https://whalenfornc.com/es/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/james.whalenfornc.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jameswhalennc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/james-whalen-111b775b/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jameswhalennc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jameswhalennc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@WhalenForNC"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JamesWhalenNC"
+}
 ]

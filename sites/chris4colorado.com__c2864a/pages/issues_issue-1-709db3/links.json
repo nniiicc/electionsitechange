@@ -1,12 +1,46 @@
 [
-"https://chris4colorado.com/",
-"https://chris4colorado.com/about",
-"https://chris4colorado.com/contact",
-"https://chris4colorado.com/endorsements",
-"https://chris4colorado.com/events",
-"https://chris4colorado.com/gallery",
-"https://chris4colorado.com/issues",
-"https://chris4colorado.com/volunteer",
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/chris4colorado"
+{
+"text": "About",
+"href": "https://www.chris4colorado.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.chris4colorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris4colorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chris4colorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chris4colorado.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.chris4colorado.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.chris4colorado.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.chris4colorado.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chris4colorado.com/volunteer"
+},
+{
+"text": "[image: Chris4Colorado]",
+"href": "https://www.chris4colorado.com/"
+}
 ]

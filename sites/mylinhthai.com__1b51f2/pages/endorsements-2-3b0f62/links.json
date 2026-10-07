@@ -1,13 +1,54 @@
 [
-"http://secure.anedot.com/friendsofmylinh/donate",
-"http://superbthemes.com/",
-"https://facebook.com/ReElectMLThai",
-"https://forms.gle/Q3hKRskhBSx38bPw7",
-"https://instagram.com/votemylinhthai",
-"https://mylinhthai.com/",
-"https://mylinhthai.com/about-2",
-"https://mylinhthai.com/endorsements-2",
-"https://mylinhthai.com/priorities-2",
-"https://progressivevotersguide.com/washington/2026/primary/ld/41",
-"https://theurbanist.org/2026-primary-election-endorsements"
+{
+"text": "About",
+"href": "https://www.mylinhthai.com/about-2/"
+},
+{
+"text": "Contribute",
+"href": "http://secure.anedot.com/friendsofmylinh/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mylinhthai.com/endorsements-2/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ReElectMLThai"
+},
+{
+"text": "Home",
+"href": "https://www.mylinhthai.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votemylinhthai/"
+},
+{
+"text": "Priorities",
+"href": "https://www.mylinhthai.com/priorities-2/"
+},
+{
+"text": "Re-Elect My-Linh Thai",
+"href": "https://www.mylinhthai.com"
+},
+{
+"text": "SuperbThemes",
+"href": "http://superbthemes.com/"
+},
+{
+"text": "Volunteer with us!",
+"href": "https://forms.gle/Q3hKRskhBSx38bPw7"
+},
+{
+"text": "[image]",
+"href": "https://www.progressivevotersguide.com/washington/2026/primary/ld/41"
+},
+{
+"text": "[image]",
+"href": "https://www.theurbanist.org/2026-primary-election-endorsements/#ld-41-position-1-janice-zahn"
+},
+{
+"text": "electmylinh@gmail.com",
+"href": "mailto:electmylinh@gmail.com"
+}
 ]

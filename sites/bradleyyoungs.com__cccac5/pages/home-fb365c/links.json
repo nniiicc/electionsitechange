@@ -1,9 +1,42 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://bradleyyoungs.com/",
-"https://bradleyyoungs.com/cart",
-"https://bradleyyoungs.com/home",
-"https://bradleyyoungs.com/member-site-homepage-2-2",
-"https://facebook.com/Bradleyyoungsme",
-"https://x.com/bradleyyoungsme"
+{
+"text": "0",
+"href": "https://www.bradleyyoungs.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.bradleyyoungs.com/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Get in touch",
+"href": "mailto:bradleyyoungsme@gmail.com?body="
+},
+{
+"text": "Meet Brad",
+"href": "https://www.bradleyyoungs.com/#about-brad"
+},
+{
+"text": "On the Issues",
+"href": "https://www.bradleyyoungs.com/home#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bradleyyoungs.com/member-site-homepage-2-2"
+},
+{
+"text": "[image: Bradley Youngs ]",
+"href": "https://www.bradleyyoungs.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Bradleyyoungsme"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bradleyyoungsme"
+}
 ]

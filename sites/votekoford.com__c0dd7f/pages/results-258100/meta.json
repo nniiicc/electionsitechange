@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.votekoford.com/results",
+ "fingerprint": "bdd3a6ee0618f3dcc73242124fe56287bd23a24c",
+ "format": 3,
  "paid_for_by": "Paid for by the Jill Koford Campaign",
- "title": "Results \u2014 Jill Koford for Senate District 5",
- "years_mentioned": []
+ "title": "Results — Jill Koford for Senate District 5",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

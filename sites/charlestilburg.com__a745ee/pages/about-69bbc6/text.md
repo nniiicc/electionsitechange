@@ -1,5 +1,4 @@
-About me
-I grew up as the youngest of five children in a military household where service and education shaped the foundation of my life.
+0 Skip to Content Home Meet Charles Contact Donate Open Menu Close Menu Home Meet Charles Contact Donate Open Menu Close Menu Home Meet Charles Contact Donate About me I grew up as the youngest of five children in a military household where service and education shaped the foundation of my life.
 My father was an Air Force pilot and my mother was a middle school teacher.
 We moved often after my father left the service, living around the world and gaining perspectives that continue to guide me today.
 For the past 19 years, I have proudly called Maine home.
@@ -13,3 +12,6 @@ I was challenged to run by my daughter to make this a better world for her and h
 I believe deeply in protecting Maine’s natural resources and building a brighter future for our children.
 I am frustrated by a government that spends more time fighting itself than solving problems and an economy that makes it difficult for average Mainers to own a home, educate their kids, and build the life they deserve.
 Whether in the classroom, on the coast, or in the community, I am driven by a love for Maine and a commitment to giving back.
+Paid for by Charles Tilburg Campaign for District 137 Connect with Me Facebook • Instagram Quick Links About • Contact • Donate © # Charles Tilburg Campaign for District 137.
+All rights reserved.
+Contact: E: charles@charlestilburg.com P: 207‑710‑7501

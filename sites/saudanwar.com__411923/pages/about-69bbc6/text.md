@@ -1,12 +1,10 @@
-A doctor who never stopped making house calls.
+Skip to content East Hartford · South Windsor · East Windsor · Ellington Democrat · General election · Nov 3, 2026 East Hartford · South Windsor · East Windsor · Ellington · 3rd District Home About The record Our towns Volunteer About Saud A doctor who never stopped making house calls.
 He came to public life the way he came to medicine - by listening first, then doing something about it.
 Here is the story, and the record, behind the senator.
-- RoleState Senator, 3rd District · Deputy President Pro Tempore · Senate Co-Chair, Public Health
-- RepresentsEast Hartford, South Windsor, East Windsor, and part of Ellington
-- ProfessionPulmonary & critical-care physician; chair of Internal Medicine at Manchester Memorial & Rockville General for 20 years
-- HomeSouth Windsor, with his wife Dr.
-Yusra Anis-Anwar, their sons, and his mother
 Dr.
+Saud Anwar, M.D., M.P.H.
+Role State Senator, 3rd District · Deputy President Pro Tempore · Senate Co-Chair, Public Health Represents East Hartford, South Windsor, East Windsor, and part of Ellington Profession Pulmonary & critical-care physician; chair of Internal Medicine at Manchester Memorial & Rockville General for 20 years Home South Windsor, with his wife Dr.
+Yusra Anis-Anwar, their sons, and his mother Dr.
 Saud Anwar is an American physician, public health leader, and elected statesman whose career represents the intersection of medicine, public service, and humanitarian leadership.
 For more than three decades, he has dedicated his life to advancing the health and well-being of individuals and communities through patient care, healthcare leadership, legislative innovation, and civic engagement.
 His work reflects a rare combination of clinical excellence, strategic vision, and an unwavering commitment to improving lives through evidence-based policy and compassionate leadership.
@@ -37,49 +35,26 @@ Whether caring for critically ill patients in the intensive care unit, leading p
 His ability to unite medicine, public policy, and community leadership has earned widespread respect across professional, governmental, and civic communities.
 His contributions have been recognized through numerous honors, including the American College of Physicians Legislator of the Year Award, the Federal Bureau of Investigation Director's Community Leadership Award, the Anti-Defamation League's Torch of Liberty Award, the Connecticut Coalition to End Homelessness Social Justice Award, the Eastern Connecticut Health Network Professionalism and Leadership Award, and recognitions from governors, attorneys general, community organizations, and professional societies.
 Together, these distinctions reflect a career devoted to advancing health, strengthening democracy, building resilient communities, and demonstrating that principled leadership can create lasting and meaningful change.
-Sought out, at home and abroad.
+A trusted public voice Sought out, at home and abroad.
 Dr.
 Anwar is a trusted voice on public health and international affairs, invited onto national and international television and radio - including CNN (Wolf Blitzer, Deborah Feyerick, Susan Candiotti), NBC-30, Fox-61, NPR, Vectone TV (UK), Geo TV, and Voice of America.
 His public service has drawn citations from Governor Rell, Attorney General Blumenthal, Secretary of the State Bysiewicz, and members of the Connecticut General Assembly.
 He and his wife, Dr.
 Yusra Anis-Anwar, who maintains a private practice in Internal Medicine, live in South Windsor with their sons, who attended the local elementary and middle schools.
 Senator Anwar's mother also lives in South Windsor.
-Honored for his service.
-A life of service, on the record.
+Recognition Honored for his service.
+American Red Cross - Certificate of Appreciation for services during the disaster of September 11, 2001 FBI Award, Director Robert Mueller III - Community Leadership and Alliance Building, 2007 Anti-Defamation League - Torch of Liberty Centennial Award, 2013 U.S.
+Attorney's Office - Community Leadership Award, 2013 Windsor Human Relations Commission - CT Bridge Builder Chairman's Award, 2019 American College of Physicians - Legislator of the Year, 2021 Keep The Promise Coalition - Legislative Leadership Award, 2021 Eastern Connecticut Health Network - Professionalism & Leadership Award, voted by peers, 2021 CT Coalition to End Homelessness - Social Justice Award, 2022 Service & credentials A life of service, on the record.
 Where he trained, where he serves, and where he has shown up - from South Windsor to the world.
-Education & training
-- Medical education - Aga Khan University
-- Internal Medicine - University of Illinois
-- Pulmonary & Critical Care Medicine - Yale University
-- Occupational & Environmental Medicine - Yale University
-- Master of Public Health - Yale University
-In the State Senate
-- Deputy President Pro Tempore
-- Senate Co-Chair, Public Health Committee
-- Vice Chair, Insurance & Real Estate Committee
-- Member: Appropriations; Human Services
-- Former Chair, Children's Committee
-- Former Chair, Housing Committee
-- Former Commissioner, Asian Pacific American Affairs
-South Windsor
-- Mayor of South Windsor (2013-2015, 2017-2019)
-- Town Council member (2011-2019)
-- President, South Windsor Haiti School Inc.
-- Board member, South Windsor Community Foundation
-- Former Chair, Human Relations Commission
-- Founding member: Hunger Action Team; Zero Waste South Windsor; Alliance for Progress
-National & international
-- Testified to the 109th Congress - Committee on Homeland Security
-- Coordinated a volunteer response to September 11
-- Consultant - FBI Multi-Cultural Advisory Committee
-- Consultant - British Dept. of Communities & Local Government
-- Chief Coordinator - Conference on Understanding Radicalization & De-Radicalization (broadcast worldwide)
-- Peace missions to Israel & the Middle East; medical mission for Haiti disaster relief
-- Speaker - U.S.
+Education & training Medical education - Aga Khan University Internal Medicine - University of Illinois Pulmonary & Critical Care Medicine - Yale University Occupational & Environmental Medicine - Yale University Master of Public Health - Yale University In the State Senate Deputy President Pro Tempore Senate Co-Chair, Public Health Committee Vice Chair, Insurance & Real Estate Committee Member: Appropriations; Human Services Former Chair, Children's Committee Former Chair, Housing Committee Former Commissioner, Asian Pacific American Affairs South Windsor Mayor of South Windsor (2013-2015, 2017-2019) Town Council member (2011-2019) President, South Windsor Haiti School Inc.
+Board member, South Windsor Community Foundation Former Chair, Human Relations Commission Founding member: Hunger Action Team; Zero Waste South Windsor; Alliance for Progress National & international Testified to the 109th Congress - Committee on Homeland Security Coordinated a volunteer response to September 11 Consultant - FBI Multi-Cultural Advisory Committee Consultant - British Dept. of Communities & Local Government Chief Coordinator - Conference on Understanding Radicalization & De-Radicalization (broadcast worldwide) Peace missions to Israel & the Middle East; medical mission for Haiti disaster relief Speaker - U.S.
 Dept. of Homeland Security; U.S.
-Mission to the European Union
-Media resources.
-Approved high-resolution photos, ready-to-run bios, and logo files for reporters and community partners: Media Center · Profile photos · Community photos.
-Want the full picture?
+Mission to the European Union For press & media Media resources.
+Approved high-resolution photos, ready-to-run bios, and logo files for reporters and community partners: Media Center · Profile photos · Community photos .
+Get involved Want the full picture?
 See what Saud has delivered for our four towns - and how you can help in the weeks ahead.
-See the record Volunteer
+See the record Volunteer Saud Anwar for State Senate 2026 Democrat for State Senate - serving East Hartford, South Windsor, East Windsor, and Ellington.
+Calm, honest, and on the record.
+Site Home About Saud The record Volunteer Connect Facebook Instagram Twitter / X LinkedIn Paid for by Saud Anwar for State Senate 2026.
+Stephen Wagner, Treasurer.
+Approved by Saud Anwar.

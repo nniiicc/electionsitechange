@@ -1,6 +1,4 @@
-Signed in as:
-filler@godaddy.com
-After winning a special election for the House 93rd legislative seat and again in the 2024 General Election, I am running for a second full term in 2026 to represent my constituents in Frankfort.
+Home About DONATE Issues Volunteer 93rd House District Contact Us More Home About DONATE Issues Volunteer 93rd House District Contact Us Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About DONATE Issues Volunteer 93rd House District Contact Us Account My Account Sign out Sign In My Account About After winning a special election for the House 93rd legislative seat and again in the 2024 General Election, I am running for a second full term in 2026 to represent my constituents in Frankfort.
 It has been an honor to talk to my neighbors, hear their concerns, and amplify their voices in the General Assembly.
 Born and raised in eastern Kentucky, I have a longstanding record of serving my community.
 With a passion for progress, I am dedicated to creating positive change.
@@ -14,13 +12,9 @@ My passion for serving and improving the lives of others began at the University
 Through my coursework, I learned the intricacies of governance, public policy, and the dynamics that shape our society.
 It was through this experience that I gained a deep understanding of how policy decisions impact the lives of individuals, families, and entire communities.
 Following graduation, I worked in the world of small business for over 10 years.
-This experience gave me a fundamental understanding of the challenges encountered by family-owned enterprises and the
-obstacles and hurdles that often accompany the pursuit of entrepreneurial endeavors.
-Drawing from my own career and the experiences of my family, I have come to truly appreciate the role that small
-business plays in driving the local economy by fostering innovation, generating employment
-opportunities, and cultivating a vibrant and resilient community.
-For the last 13 years, I have proudly served as an administrative professional at Fayette County Public
-Schools.
+This experience gave me a fundamental understanding of the challenges encountered by family-owned enterprises and the obstacles and hurdles that often accompany the pursuit of entrepreneurial endeavors.
+Drawing from my own career and the experiences of my family, I have come to truly appreciate the role that small business plays in driving the local economy by fostering innovation, generating employment opportunities, and cultivating a vibrant and resilient community.
+For the last 13 years, I have proudly served as an administrative professional at Fayette County Public Schools.
 Within this role, I have the privilege of working closely with families from diverse backgrounds and fostering an environment where their voices are heard, valued, and understood.
 By facilitating open and constructive dialogue between families and schools, I strive to bridge divides, establish common ground, and collaboratively solve challenges that impact our educational system.
 Through this process, I gained practical insights into the unique hurdles that families encounter on a daily basis.
@@ -41,5 +35,4 @@ I wholeheartedly believe that my personal journey is marked by unwavering dedica
 Being elected a State Representative is an incredible honor.
 It is with passion and purpose that I invite you to help me shape a tomorrow that holds opportunity, prosperity, and well-being for every single Kentuckian.
 Let us work hand-in-hand to build a Kentucky that thrives and flourishes, leaving no one behind.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Photo Gallery Photo Gallery Paid for by Adrielle Camuel for Kentucky Abby Helton, Treasurer Adrielle@CamuelForKY.com Powered by

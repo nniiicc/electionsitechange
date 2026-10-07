@@ -1,12 +1,50 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Listening+Session&dates=20261015T160000Z%2F20261015T170000Z&location=65+Westminster+Street%2C+Bellows+Falls%2C+Vermont%2C+05101%2C+United+States",
-"http://maps.google.com/?q=65+Westminster+Street+Bellows+Falls%2C+Vermont%2C+05101+United+States",
-"https://facebook.com/profile.php?id=61590242772409",
-"https://lundbergforvermont.com/",
-"https://lundbergforvermont.com/cart",
-"https://lundbergforvermont.com/events",
-"https://lundbergforvermont.com/events/early-childhood-candidate-forum",
-"https://lundbergforvermont.com/events/listening-session?format=ical",
-"https://lundbergforvermont.com/events/vermont-general-election",
-"https://secure.actblue.com/donate/chris-lundberg-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=65+westminster+street+bellows+falls%2C+vermont%2C+05101+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lundbergforvermont.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lundbergforvermont.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:lundbergforvt@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris-lundberg-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Listening+Session&dates=20261015T160000Z%2F20261015T170000Z&location=65+Westminster+Street%2C+Bellows+Falls%2C+Vermont%2C+05101%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.lundbergforvermont.com/events/listening-session?format=ical"
+},
+{
+"text": "Next Next November 3 Vermont General Election",
+"href": "https://www.lundbergforvermont.com/events/vermont-general-election"
+},
+{
+"text": "Previous Previous October 1 Early Childhood Candidate Forum (Bellows Falls)",
+"href": "https://www.lundbergforvermont.com/events/early-childhood-candidate-forum"
+},
+{
+"text": "Representative Bos-Lun",
+"href": "mailto:mboslun@leg.state.vt.us"
+},
+{
+"text": "[image: Chris Lundberg for Vermont House of Representatives]",
+"href": "https://www.lundbergforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590242772409"
+}
 ]

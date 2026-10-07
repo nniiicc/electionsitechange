@@ -1,7 +1,11 @@
 {
  "description": "Block says GoLocalProv findings show \"troubling pattern of illegal behavior\" by Foulkes campaign",
  "final_url": "https://www.blockforgovernor.com/press-release.php?id=12",
- "paid_for_by": null,
+ "fingerprint": "43f776abfdf8f1b7b856b26d295cc295221b60ae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Helena Foulkes Campaign Repeatedly Violated RI Campaign Finance Laws | Ken Block for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,16 +1,78 @@
 [
-"https://arshiafortexas.org/",
-"https://arshiafortexas.org/donate",
-"https://arshiafortexas.org/donate?amount=100",
-"https://arshiafortexas.org/donate?amount=250",
-"https://arshiafortexas.org/donate?amount=27",
-"https://arshiafortexas.org/donate?amount=50",
-"https://arshiafortexas.org/donate?amount=500",
-"https://arshiafortexas.org/platform",
-"https://arshiafortexas.org/privacy",
-"https://instagram.com/arshiafortexas",
-"https://instagram.com/macydsa",
-"https://solidarity.tech/",
-"https://studentvictory.fund/",
-"https://txgreens.org/"
+{
+"text": "$#",
+"href": "https://www.arshiafortexas.org/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.arshiafortexas.org/donate?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.arshiafortexas.org/donate?amount=27"
+},
+{
+"text": "$#",
+"href": "https://www.arshiafortexas.org/donate?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.arshiafortexas.org/donate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://www.arshiafortexas.org/donate"
+},
+{
+"text": "Other",
+"href": "https://www.arshiafortexas.org/donate"
+},
+{
+"text": "Platform",
+"href": "https://www.arshiafortexas.org/platform"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "View full platform ➯",
+"href": "https://www.arshiafortexas.org/platform"
+},
+{
+"text": "[image: Arshia for Texas]",
+"href": "https://www.arshiafortexas.org/"
+},
+{
+"text": "[image: Logo] Green Party of Texas",
+"href": "https://www.txgreens.org"
+},
+{
+"text": "[image: Logo] McCallum Young Democratic Socialists of America",
+"href": "https://instagram.com/macydsa"
+},
+{
+"text": "[image: Logo] Student Victory Fund",
+"href": "https://studentvictory.fund"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arshiafortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "arshia@arshiafortexas.org",
+"href": "mailto://arshia@arshiafortexas.org"
+},
+{
+"text": "privacy policy",
+"href": "https://www.arshiafortexas.org/privacy"
+}
 ]

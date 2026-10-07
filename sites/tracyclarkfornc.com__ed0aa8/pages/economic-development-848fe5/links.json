@@ -1,38 +1,190 @@
 [
-"https://facebook.com/tracyclarkfornc",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/tracyclarkfornc",
-"https://linkedin.com/in/tracyboyerclark",
-"https://ncbudget.org/2025-economic-county-snapshots-for-north-carolina",
-"https://ncleg.gov/BillLookUp/2025/H181",
-"https://ncleg.gov/BillLookUp/2025/H269",
-"https://ncleg.gov/BillLookUp/2025/H283",
-"https://ncleg.gov/BillLookUp/2025/H303",
-"https://ncleg.gov/BillLookUp/2025/H324",
-"https://ncleg.gov/BillLookUp/2025/H353",
-"https://ncleg.gov/BillLookUp/2025/H365",
-"https://ncleg.gov/BillLookUp/2025/H515",
-"https://ncleg.gov/BillLookUp/2025/H521",
-"https://ncleg.gov/BillLookUp/2025/H548",
-"https://ncleg.gov/BillLookUp/2025/H641",
-"https://ncleg.gov/BillLookUp/2025/H668",
-"https://ncleg.gov/BillLookUp/2025/H748",
-"https://ncleg.gov/BillLookUp/2025/H786",
-"https://ncleg.gov/BillLookUp/2025/H79",
-"https://ncleg.gov/BillLookup/2025/H92",
-"https://nussbaumcfe.com/",
-"https://secure.actblue.com/donate/tracy-clark-1",
-"https://tracyclarkfornc.com/",
-"https://tracyclarkfornc.com/about-me",
-"https://tracyclarkfornc.com/community-safety",
-"https://tracyclarkfornc.com/contact%2Fsupport",
-"https://tracyclarkfornc.com/early-childhood-dev",
-"https://tracyclarkfornc.com/economic-development",
-"https://tracyclarkfornc.com/endorsements",
-"https://tracyclarkfornc.com/healthcare",
-"https://tracyclarkfornc.com/housing-1",
-"https://tracyclarkfornc.com/motivation-to-serve",
-"https://tracyclarkfornc.com/nc-house-district-57",
-"https://tracyclarkfornc.com/public-education",
-"https://youtube.com/@RepTracyClark"
+{
+"text": "About Me",
+"href": "https://tracyclarkfornc.com/about-me"
+},
+{
+"text": "Community Safety",
+"href": "https://tracyclarkfornc.com/community-safety"
+},
+{
+"text": "Contact/Support",
+"href": "https://tracyclarkfornc.com/contact%2Fsupport"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/tracy-clark-1"
+},
+{
+"text": "Early Childhood Dev.",
+"href": "https://tracyclarkfornc.com/early-childhood-dev"
+},
+{
+"text": "Economic Development",
+"href": "https://tracyclarkfornc.com/economic-development"
+},
+{
+"text": "Endorsements",
+"href": "https://tracyclarkfornc.com/endorsements"
+},
+{
+"text": "Fair Minimum Wage Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H353"
+},
+{
+"text": "Funds for Greensboro Transit Agency.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H324"
+},
+{
+"text": "Funds/Greensboro Water and Wastewater.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H748"
+},
+{
+"text": "HB 181 Tax Relief for Working Families Act.",
+"href": "https://ncleg.gov/BillLookUp/2025/H181"
+},
+{
+"text": "HB 269",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H269"
+},
+{
+"text": "HB 283",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H283"
+},
+{
+"text": "HB 303",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H303"
+},
+{
+"text": "HB 353",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H353"
+},
+{
+"text": "HB 365",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H365"
+},
+{
+"text": "HB 515",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H515"
+},
+{
+"text": "HB 521",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H521"
+},
+{
+"text": "HB 548",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H548"
+},
+{
+"text": "HB 668",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H668"
+},
+{
+"text": "HB 786",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H786"
+},
+{
+"text": "HB 79 North Carolina Work and Save.",
+"href": "https://ncleg.gov/BillLookUp/2025/H79"
+},
+{
+"text": "HB92",
+"href": "https://www.ncleg.gov/BillLookup/2025/H92"
+},
+{
+"text": "Healthcare",
+"href": "https://tracyclarkfornc.com/healthcare"
+},
+{
+"text": "Healthy Families & Workplaces/Paid Sick Leave.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H521"
+},
+{
+"text": "Home",
+"href": "https://tracyclarkfornc.com/"
+},
+{
+"text": "Housing",
+"href": "https://tracyclarkfornc.com/housing-1"
+},
+{
+"text": "Make Corporations Pay What They Owe.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H303"
+},
+{
+"text": "Motivation to Serve",
+"href": "https://tracyclarkfornc.com/motivation-to-serve"
+},
+{
+"text": "NC Economic Progress and Well-Being.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H548"
+},
+{
+"text": "NC House District 57",
+"href": "https://tracyclarkfornc.com/nc-house-district-57"
+},
+{
+"text": "NC Working Families Economic Relief Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H668"
+},
+{
+"text": "North Carolina Economic Abuse Prevention Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H515"
+},
+{
+"text": "Nussbaum Center for Entrepreneurship",
+"href": "https://nussbaumcfe.com/"
+},
+{
+"text": "Public Education",
+"href": "https://tracyclarkfornc.com/public-education"
+},
+{
+"text": "Rep. Tracy ClarkRep. Tracy ClarkRep. Tracy ClarkRep. Tracy Clark",
+"href": "https://tracyclarkfornc.com/"
+},
+{
+"text": "Small Business Investment Grant Program.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H283"
+},
+{
+"text": "Source",
+"href": "https://ncbudget.org/2025-economic-county-snapshots-for-north-carolina/"
+},
+{
+"text": "Transportation for the Future Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H641"
+},
+{
+"text": "Workforce Education Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H365"
+},
+{
+"text": "Workforce Freedom and Protection Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H269"
+},
+{
+"text": "Working Families Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H786"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/tracyclarkfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tracyclarkfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/tracyboyerclark/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RepTracyClark"
+}
 ]

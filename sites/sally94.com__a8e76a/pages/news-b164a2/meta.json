@@ -1,12 +1,17 @@
 {
  "description": "SC State House District 94 Campaign News from Democrat Candidate Sally Hebert",
  "final_url": "https://sally94.com/news",
+ "fingerprint": "6b4f55485b4cd44cceb188843ddf16718e820029",
+ "format": 3,
  "paid_for_by": "Paid For By Sally For SC Powered by CampaignPartner",
  "title": "News",
  "years_mentioned": [
+  "1991",
+  "1995",
   "2011",
   "2016",
   "2020",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

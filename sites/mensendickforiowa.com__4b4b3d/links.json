@@ -1,13 +1,50 @@
 [
-"http://mensendickforiowa.com/",
-"https://mensendickforiowa.com/",
-"https://mensendickforiowa.com/about",
-"https://mensendickforiowa.com/calendar",
-"https://mensendickforiowa.com/cart",
-"https://mensendickforiowa.com/contact",
-"https://mensendickforiowa.com/donate",
-"https://mensendickforiowa.com/home-2",
-"https://mensendickforiowa.com/new-page",
-"https://mensendickforiowa.com/our-mission",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.mensendickforiowa.com/cart"
+},
+{
+"text": "BIO",
+"href": "https://www.mensendickforiowa.com/about"
+},
+{
+"text": "Calendar",
+"href": "https://www.mensendickforiowa.com/new-page"
+},
+{
+"text": "Contact",
+"href": "https://www.mensendickforiowa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mensendickforiowa.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.mensendickforiowa.com/calendar"
+},
+{
+"text": "Home",
+"href": "https://www.mensendickforiowa.com/home-2"
+},
+{
+"text": "Mensendick for Iowa",
+"href": "https://www.mensendickforiowa.com/"
+},
+{
+"text": "MensendickforIowa.com",
+"href": "http://mensendickforiowa.com"
+},
+{
+"text": "Our District",
+"href": "https://www.mensendickforiowa.com/our-mission"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.mensendickforiowa.com/calendar"
+}
 ]

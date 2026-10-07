@@ -1,5 +1,5 @@
-Why I'm Running.
-| I know what it means to fight.
+Scott Huffman for NC Home Why I'm Running Issues Two Americas Contact Donate Volunteer Why I'm Running.
+I know what it means to fight.
 Right now I'm fighting advanced prostate cancer.
 I'm still running, I'm going to beat cancer, and I'll fight just as hard for the people of Rowan County.
 We were promised that if we worked hard and played by the rules, we'd have a shot at the American Dream.
@@ -21,5 +21,8 @@ House District 76 needs someone in Raleigh who works for us, not for Duke Energy
 That means lower bills, fully funded schools, a living wage, healthcare for all, and voting rights for every North Carolinian.
 Cancer didn't stop me, and the folks in Raleigh won't either.
 It's time for leaders who put people over power.
-That's why I'm running.
-Scott Huffman | We need volunteers to help in all areas of our campaign. |
+That's why I'm running. ​Scott Huffman We need volunteers to help in all areas of our campaign.
+DONATE VOLUNTEER Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer

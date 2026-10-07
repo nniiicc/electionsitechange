@@ -1,7 +1,11 @@
 {
  "description": "Steve Rutherford Campaign Events",
  "final_url": "https://www.steve4ncsenate.com/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "b6e7f93a8c37b4d983a7ca43dcef4c23b02c1659",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Steve Rutherford Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

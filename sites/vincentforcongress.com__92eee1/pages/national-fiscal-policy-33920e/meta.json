@@ -1,9 +1,17 @@
 {
  "description": "National Fiscal Policy for John Vincent for Congress",
  "final_url": "https://www.vincentforcongress.com/national-fiscal-policy",
- "paid_for_by": "Paid for by spending cuts 21% Corporate rate cut (35%\u219221%) What the TCJA Actually Did Corporate Tax Cuts: Reduced the corporate tax rate from 35% to 21",
- "title": "National Fiscal Policy National Fiscal Policy Backgrounder \u2014 John Vincent for Congress SC-7",
+ "fingerprint": "b85bcefabfbb517eb08878abdda4d2de9709e664",
+ "format": 3,
+ "paid_for_by": "Paid for by spending cuts 21% Corporate rate cut (35%→21%) What the TCJA Actually Did Corporate Tax Cuts: Reduced the corporate tax rate from 35% to 21%, costing approxima",
+ "title": "National Fiscal Policy",
  "years_mentioned": [
+  "1975",
+  "1981",
+  "1994",
+  "1998",
+  "2001",
+  "2009",
   "2017",
   "2018",
   "2020",
@@ -11,6 +19,7 @@
   "2023",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2035"
  ]
 }

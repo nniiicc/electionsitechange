@@ -1,25 +1,154 @@
 [
-"https://apolloartistry.com/",
-"https://secure.actblue.com/donate/tmfweb",
-"https://secure.actblue.com/donate/tmfweb?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/tmfweb?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/tmfweb?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/tmfweb?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/tmfweb?amount=50&express_lane=true",
-"https://treymartinezfischer.com/",
-"https://treymartinezfischer.com/about",
-"https://treymartinezfischer.com/accessibility",
-"https://treymartinezfischer.com/action",
-"https://treymartinezfischer.com/action-hub",
-"https://treymartinezfischer.com/cdn-cgi/l/email-protection",
-"https://treymartinezfischer.com/donate",
-"https://treymartinezfischer.com/facebook",
-"https://treymartinezfischer.com/instagram",
-"https://treymartinezfischer.com/issues",
-"https://treymartinezfischer.com/media",
-"https://treymartinezfischer.com/news",
-"https://treymartinezfischer.com/privacy-policy",
-"https://treymartinezfischer.com/tiktok",
-"https://treymartinezfischer.com/twitter",
-"https://treymartinezfischer.com/youtube"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/tmfweb?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/tmfweb?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/tmfweb?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/tmfweb?amount=5&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/tmfweb?amount=50&express_lane=true"
+},
+{
+"text": "Accessibility",
+"href": "https://treymartinezfischer.com/accessibility"
+},
+{
+"text": "Action Hub",
+"href": "https://treymartinezfischer.com/action"
+},
+{
+"text": "Action Hub",
+"href": "https://treymartinezfischer.com/action-hub/"
+},
+{
+"text": "Contact",
+"href": "mailto:contact@treymartinezfischer.com"
+},
+{
+"text": "DONATE DONATE",
+"href": "https://secure.actblue.com/donate/tmfweb"
+},
+{
+"text": "Donate",
+"href": "https://treymartinezfischer.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://treymartinezfischer.com/donate"
+},
+{
+"text": "Facebook-square",
+"href": "https://treymartinezfischer.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://treymartinezfischer.com"
+},
+{
+"text": "Home",
+"href": "https://treymartinezfischer.com/"
+},
+{
+"text": "Instagram",
+"href": "https://treymartinezfischer.com/instagram"
+},
+{
+"text": "Instagram",
+"href": "https://treymartinezfischer.com/twitter"
+},
+{
+"text": "Issues",
+"href": "https://treymartinezfischer.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://treymartinezfischer.com/issues/"
+},
+{
+"text": "Meet Trey",
+"href": "https://treymartinezfischer.com/about"
+},
+{
+"text": "Meet Trey",
+"href": "https://treymartinezfischer.com/about/"
+},
+{
+"text": "News",
+"href": "https://treymartinezfischer.com/media/"
+},
+{
+"text": "News",
+"href": "https://treymartinezfischer.com/news"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/tmfweb"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://treymartinezfischer.com/privacy-policy"
+},
+{
+"text": "READ MORE READ MORE",
+"href": "https://treymartinezfischer.com/about"
+},
+{
+"text": "THE ISSUES THE ISSUES",
+"href": "https://treymartinezfischer.com/issues"
+},
+{
+"text": "Tiktok",
+"href": "https://treymartinezfischer.com/tiktok"
+},
+{
+"text": "VISIT THE TMF ACTION CENTER TO GET INVOLVED VISIT THE TMF ACTION CENTER TO GET INVOLVED",
+"href": "https://treymartinezfischer.com/action"
+},
+{
+"text": "X-twitter",
+"href": "https://treymartinezfischer.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://treymartinezfischer.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://treymartinezfischer.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Arrow] Recent News and Press Releases",
+"href": "https://treymartinezfischer.com/media"
+},
+{
+"text": "[image: Arrow] Taking on issues that matter",
+"href": "https://treymartinezfischer.com/issues"
+},
+{
+"text": "[image: Arrow] Visit our Action Hub",
+"href": "https://treymartinezfischer.com/action"
+},
+{
+"text": "[image: Arrow] Voter information center",
+"href": "https://treymartinezfischer.com/action"
+},
+{
+"text": "[image]",
+"href": "https://treymartinezfischer.com"
+}
 ]

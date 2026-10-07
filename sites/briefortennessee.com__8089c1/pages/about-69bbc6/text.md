@@ -1,4 +1,12 @@
-My name is Brieanna Akers, I am running for Tennessee House of Representatives for District 62 against Pat Marsh.
+brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee brie for F.R.E.E.
+Tennessee Home About Contact More Home About Contact Home About Contact Meet Brieanna My name is Brieanna Akers, I am running for Tennessee House of Representatives for District 62 against Pat Marsh.
 Which is Bedford County, Moore County, and part of Lincoln County.
 I am 38 years old and have lived in Bedford County for 34 years.
 I attended Cascade K-12th grade.
@@ -6,8 +14,7 @@ I am a mom and sole provider to an awesome 12 year old as well as an independent
 I have seen first-hand the struggles my clients face being on a fixed income and trying to budget between healthcare and bills.
 We all know what its like to work hard, raise kids, and deal with the rising cost around us.
 So that is why I am running for a F.R.E.E.
-Tennesse and I want to tell you what FREE really means:
-F means fighting for equal rights: The same rules, the same respect for everybody.
+Tennesse and I want to tell you what FREE really means: F means fighting for equal rights : The same rules, the same respect for everybody.
 We have some of the harshest bills going through and being passed in legislature.
 Our laws are meant to protect not discriminate or make people feel less than.
 Liberty and Justice for all.
@@ -31,7 +38,9 @@ A FREE Tennessee means you can afford your groceries, keep your land, raise your
 I’m not backed by big money.
 I’m backed by people like you.
 And I’m ready to fight for all of you.
+Donate Connect With Us Stay informed!
 Subscribe to stay updated.
-Copyright © 2026 Brieanna Akers TN House District 62 - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Email Sign up Copyright © # Brieanna Akers TN House District 62 - All Rights Reserved.
+F.R.E.E.
+Tennessee Politics Over People.
+Donate Today!

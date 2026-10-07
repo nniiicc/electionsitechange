@@ -1,14 +1,62 @@
 [
-"https://absenteeballotapplication.alaska.gov/AbsenteeRegistration/RegistrationDetails?haveValidAKDL=true",
-"https://alaskansforarlington.com/",
-"https://alaskansforarlington.com/?page_id=166",
-"https://alaskansforarlington.com/about-me",
-"https://alaskansforarlington.com/community",
-"https://alaskansforarlington.com/issues",
-"https://alaskansforarlington.com/meet-jim-arlington",
-"https://alaskansforarlington.com/privacy-policy",
-"https://alaskansforarlington.com/rd/donate-button.html",
-"https://alaskansforarlington.com/volunteer",
-"https://facebook.com/profile.php?id=61563145596444",
-"https://instagram.com/alaskans.4.arlington"
+{
+"text": "- Terms and Conditions",
+"href": "https://alaskansforarlington.com/?page_id=166"
+},
+{
+"text": "About Me",
+"href": "https://alaskansforarlington.com/about-me/"
+},
+{
+"text": "Community",
+"href": "https://alaskansforarlington.com/community/"
+},
+{
+"text": "Donate",
+"href": "https://alaskansforarlington.com/rd/donate-button.html"
+},
+{
+"text": "Home",
+"href": "https://alaskansforarlington.com/"
+},
+{
+"text": "Issues",
+"href": "https://alaskansforarlington.com/issues/"
+},
+{
+"text": "Meet Jim Arlington",
+"href": "https://alaskansforarlington.com/meet-jim-arlington/"
+},
+{
+"text": "Paid for by Alaskans for Arlington - 9449 Wren Circle - Eagle River, AK 99577 - Privacy policy",
+"href": "https://alaskansforarlington.com/privacy-policy/"
+},
+{
+"text": "Renew or apply for an absentee ballot.",
+"href": "https://absenteeballotapplication.alaska.gov/AbsenteeRegistration/RegistrationDetails?haveValidAKDL=true"
+},
+{
+"text": "Volunteer",
+"href": "https://alaskansforarlington.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://alaskansforarlington.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61563145596444"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alaskans.4.arlington/"
+},
+{
+"text": "jim@alaskansforarlington.com",
+"href": "mailto:jim@alaskansforarliington.com"
+},
+{
+"text": "jim@alaskansforarlington.com",
+"href": "mailto:jim@alaskansforarlington.com"
+}
 ]

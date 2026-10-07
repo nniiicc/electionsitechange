@@ -1,4 +1,3 @@
-Get Involved
-Join Rosie Brown’s Movement for Change in District 111
-Rosie Brown’s campaign is powered by people—neighbors, families, students, seniors, and everyday changemakers who believe in leadership that listens and acts.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Get Involved Join Rosie Brown’s Movement for Change in District 111 Rosie Brown’s campaign is powered by people—neighbors, families, students, seniors, and everyday changemakers who believe in leadership that listens and acts.
 Whether you have time, talent, or simply a voice to share, there’s a place for you in this movement.
+Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

@@ -1,13 +1,46 @@
 [
-"https://carolynforalaska.com/",
-"https://carolynforalaska.com/about",
-"https://carolynforalaska.com/cart",
-"https://carolynforalaska.com/endorsements",
-"https://carolynforalaska.com/events",
-"https://carolynforalaska.com/policies",
-"https://carolynforalaska.com/volunteer",
-"https://carolynforalaska.com/voter-info",
-"https://facebook.com/CarolynforAlaska",
-"https://instagram.com/carolynforalaska",
-"https://secure.actblue.com/donate/carolyn-for-alaska-1"
+{
+"text": "0",
+"href": "https://www.carolynforalaska.com/cart"
+},
+{
+"text": "About Carolyn",
+"href": "https://www.carolynforalaska.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carolyn-for-alaska-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolynforalaska.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolynforalaska.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carolynforalaska.com/volunteer"
+},
+{
+"text": "Policies",
+"href": "https://www.carolynforalaska.com/policies"
+},
+{
+"text": "Voter Info",
+"href": "https://www.carolynforalaska.com/voter-info"
+},
+{
+"text": "[image: Carolyn Hall for Alaska]",
+"href": "https://www.carolynforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolynforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carolynforalaska/"
+}
 ]

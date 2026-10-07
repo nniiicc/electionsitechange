@@ -1,4 +1,4 @@
-John Kingston is a candidate for the Vermont House of Representatives to represent Hinesburg (Chittenden District 4).
+John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative Home About Endorsements/Testimonials Positions Media Contact Me More Home About Endorsements/Testimonials Positions Media Contact Me Home About Endorsements/Testimonials Positions Media Contact Me Together...for an even better Vermont Together...for an even better Vermont Together...for an even better Vermont Together...for an even better Vermont Together...for an even better Vermont Together...for an even better Vermont Together...for an even better Vermont Together...for an even better Vermont John Kingston for Vermont House of Representatives John Kingston is a candidate for the Vermont House of Representatives to represent Hinesburg (Chittenden District 4).
 He is running as an Independent.
 Hi, my name is John Kingston and I am running for Vermont State Representative in my hometown of Hinesburg.
 I have a vision for our Hinesburg community and for Vermont.
@@ -17,9 +17,4 @@ Please feel free to reach out to me with anything that is on your mind.
 I welcome your questions and guidance as I work to earn your vote.
 My one ask is that regardless of your voting intention, please vote.
 Your vote matters and our democracy depends on you exercising this important right.
-Thank you,
-John Kingston
-Copyright © 2026, John Kingston for State Representative
-All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Thank you, John Kingston Copyright © #, John Kingston for State Representative All Rights Reserved.

@@ -1,40 +1,25 @@
-My Top Priorities When Re-Elected
-Priority #1
-Fixing traffic and funding infrastructure in high-growth communities.
-Watch my supported solution in committee.
-Priority #2
-Lowering the cost of living for working families by building on the bipartisan solutions I advanced in 2026.
-Priority #3
-Strengthening transparency and accountability in government.
-How I Solve Problems Differently
-I’m a bridge builder and a practical problem-solver who delivers results.
-I work with everyone, regardless of party, to find consensus and fix what’s not working for Utah families.
-No performative politics.
-Just results.
-I listen first, on the ground and on the Senate floor, so I can represent District 11 honestly and effectively.
-I’m not here to protect a platform.
-I’m here to solve real problems.
-As a third-party legislator, I’m not tied to a caucus or party leadership.
-That independence means I can say no when something doesn’t serve my district and yes when it does, without political pressure or backroom expectations.
-That’s how public service should work, for the people.
-“Who does she caucus with?”
-I caucus with the people I represent.
-Appointed just weeks before the session and without a caucus, I still delivered, advancing legislation on funding roads and schools in high-growth communities, transparency, healthcare, and attainable housing that puts families ahead of developers.
-The reality is, the issues that matter most, roads, water, affordability, are not partisan, they are statewide issues.
-I work with everyone willing to get real results for our communities.
-Not having a caucus isn’t a weakness.
-It’s the reason I can be effective.
-My Values
-Solutions > Soundbites
-My focus is on tackling the real-life, everyday issues facing families in District 11.
-I believe in common-sense solutions and collaborating with others to deliver real results and good outcomes, not just good headlines.
-Bipartisan Bridge Building
-I take relationships seriously.
-I believe in listening, finding common ground, and building coalitions that can actually pass meaningful policy.
-Transparency
-Government run by the people should be open to the people.
-Constituents should be able to see what is happening and understand why decisions are being made.
-People First
-My job is to represent YOU, not my own personal interests and not a party agenda.
-First and foremost, I represent my constituents because this seat belongs to them.
-I deeply value connecting with and advocating for constituents.
+0 Skip to Content Meet Emily Priorities Endorsements Contact Events Join the Team Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Contact Events Join the Team Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Contact Events Folder: Join the Team Back Donate Volunteer Request a Yard Sign DONATE Priorities for Senate District 11 Emily’s current priorities focus on four issues that directly affect families and communities across District 11.
+ROADS & TRAFFIC Infrastructure needs to keep pace with growth.
+Communities across the west side are growing quickly, while residents continue to experience congestion and transportation infrastructure that has not always kept pace.
+Emily’s focus is on securing attention and investment for west-side transportation needs, improving long-term planning, and making sure growth decisions consider the infrastructure communities will need.
+During the 2026 General Session, Emily sponsored SB 247, Road Funding Amendments.
+See the legislation WATER, ENERGY, & DATA CENTERS Growth should come with clear information.
+Large-scale developments can create significant demands on water, electricity, wastewater systems, and public infrastructure.
+Emily supports transparent evaluation of those impacts before major development decisions are made.
+Residents should be able to understand: How much water will be required?
+How much power will be required?
+What infrastructure will need to be built?
+Who will pay for it?
+What are the long-term impacts on surrounding communities?
+Economic development and responsible planning should work together.
+COST OF LIVING Keeping Utah affordable for the people who live here.
+Rising housing costs, transportation expenses, property taxes, childcare, and other household costs affect families throughout District 11.
+Emily’s focus is on practical policies that address those pressures while considering the long-term impact government decisions have on household budgets.
+Key areas include: Housing affordability Property taxes Transportation costs Childcare Education and family expenses PROTECTING CHILDREN Stronger accountability for child sexual abuse.
+Emily supports stronger penalties and accountability for people who sexually abuse children.
+Her focus is on ensuring Utah law protects children, holds offenders accountable, and provides appropriate support for victims and families.
+RE-ELECT EMILY BUSS FOR SD 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up to receive news and updates.
+Email Address Sign Up Thank you!
+Paid for by Emily Buss for Utah

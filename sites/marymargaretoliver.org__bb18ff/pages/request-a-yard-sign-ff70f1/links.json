@@ -1,13 +1,66 @@
 [
-"https://facebook.com/marymargaretoliver",
-"https://instagram.com/repmmoliver",
-"https://marymargaretoliver.org/",
-"https://marymargaretoliver.org/about",
-"https://marymargaretoliver.org/news-and-press",
-"https://marymargaretoliver.org/newsletters",
-"https://marymargaretoliver.org/request-a-yard-sign",
-"https://marymargaretoliver.org/voting-info",
-"https://secure.actblue.com/donate/mary-margaret-oliver-3",
-"https://secure.actblue.com/donate/mmo",
-"https://twitter.com/mmo_mary"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mmo"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mmo"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mmo"
+},
+{
+"text": "About Mary Margaret",
+"href": "https://www.marymargaretoliver.org/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-margaret-oliver-3"
+},
+{
+"text": "Home",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "Newsletters",
+"href": "https://www.marymargaretoliver.org/newsletters"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mmo"
+},
+{
+"text": "Press",
+"href": "https://www.marymargaretoliver.org/news-and-press"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.marymargaretoliver.org/request-a-yard-sign"
+},
+{
+"text": "Voting Info",
+"href": "https://www.marymargaretoliver.org/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/mmo_mary"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/marymargaretoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/repmmoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "mmo@mmolaw.com",
+"href": "mailto:mmo@mmolaw.com"
+}
 ]

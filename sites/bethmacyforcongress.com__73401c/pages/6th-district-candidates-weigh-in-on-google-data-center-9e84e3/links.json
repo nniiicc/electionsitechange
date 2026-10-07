@@ -1,19 +1,78 @@
 [
-"http://store.bethmacyforcongress.com/",
-"https://bethmacy.substack.com/",
-"https://bethmacyforcongress.com/",
-"https://bethmacyforcongress.com/cdn-cgi/l/email-protection",
-"https://bethmacyforcongress.com/endorsements",
-"https://bethmacyforcongress.com/news",
-"https://bethmacyforcongress.com/priorities",
-"https://bethmacyforcongress.com/privacy-policy-2",
-"https://bethmacyforcongress.com/tell-us",
-"https://bsky.app/profile/bethmacy.bsky.social",
-"https://facebook.com/authorBethMacy",
-"https://instagram.com/bethmacy?igsh=OG5laWFyOWwxcmZt",
-"https://mobilize.us/bethmacyforcongress",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/bm-web",
-"https://wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center",
-"https://x.com/papergirlmacy"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bm-web"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/bm-web"
+},
+{
+"text": "Endorsements",
+"href": "https://bethmacyforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/bethmacyforcongress/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/authorBethMacy/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bethmacy?igsh=OG5laWFyOWwxcmZt"
+},
+{
+"text": "Latest News",
+"href": "https://bethmacyforcongress.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://bethmacyforcongress.com/priorities/"
+},
+{
+"text": "Store",
+"href": "http://store.bethmacyforcongress.com/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/papergirlmacy"
+},
+{
+"text": "Your Story",
+"href": "https://bethmacyforcongress.com/tell-us/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:hello@bethmacyforcongress.com"
+},
+{
+"text": "[image: Beth Macy for Congress logo]",
+"href": "https://bethmacyforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[no text]",
+"href": "https://bethmacy.substack.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bethmacy.bsky.social"
+},
+{
+"text": "https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/",
+"href": "https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/"
+},
+{
+"text": "making a donation today",
+"href": "https://secure.actblue.com/donate/bm-web"
+},
+{
+"text": "© Copyright #. All Rights Reserved. Privacy Policy.",
+"href": "https://bethmacyforcongress.com/privacy-policy-2/"
+}
 ]

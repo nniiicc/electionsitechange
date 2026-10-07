@@ -1,18 +1,2 @@
-top of page
-Vote Donna Dye Sholk
-New York State Assembly
-About
-Priorities
-Get Involved
-Vote
-Contact
-Events
-Blog
-DONATE
-SUBSCRIBE
-All Articles
-On the trail: parades, the fair, and knocking on doors
-A look back at a busy summer, and what's coming up in the 144th.
-Donna Dye Sholk
-Sep 16
-bottom of page
+top of page Vote Donna Dye Sholk New York State Assembly About Priorities Get Involved Vote Contact Events Blog DONATE SUBSCRIBE All Articles On the trail: parades, the fair, and knocking on doors A look back at a busy summer, and what's coming up in the 144th.
+Donna Dye Sholk Sep 16 2 min read SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page

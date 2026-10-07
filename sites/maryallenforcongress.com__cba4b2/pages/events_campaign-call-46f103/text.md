@@ -1,10 +1,4 @@
-Back to All Events
-Be a part of something big - join the campaign.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Campaign Call Tuesday, August 18, 2026 6:30 PM 7:30 PM Online (map) Google Calendar ICS Be a part of something big - join the campaign.
 Join the call, learn how you can get involved, and meet Mary!
-Previous
-Previous
-August 10
-Virtual phone bank training (Every 4 wks)
-Next
-Next
-September 12
+Source: https://www.mobilize.us/maryallenforcongress/event/1005114/ Previous Previous August 10 Virtual phone bank training (Every 4 wks) Next Next September 12 Pickleball for All!
+REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

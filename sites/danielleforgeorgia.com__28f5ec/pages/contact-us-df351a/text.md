@@ -1,4 +1,14 @@
-danielle@danielleforgeorgia.com
-Copyright © 2024 Danielle for Georgia - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Donate Policy About Endorsed Gallery Volunteer!
+Home Donate Policy About Endorsed Gallery Volunteer!
+More Home Donate Policy About Endorsed Gallery Volunteer!
+Home Donate Policy About Endorsed Gallery Volunteer!
+Contact Us Send us an email if you'd like to get involved! danielle@danielleforgeorgia.com Danielle for Georgia Share your thoughts here!
+If you know of a local community event, let us know!
+Share your thoughts here!
+If you know of a local community event, let us know!
+Name Email* Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Cancel Share your thoughts here!
+If you know of a local community event, let us know!
+Connect With Us danielle@danielleforgeorgia.com Copyright © # Danielle for Georgia - All Rights Reserved.
+Powered by Contact us This is a people-powered campaign Help us fund the work and reach more neighbors!
+Give

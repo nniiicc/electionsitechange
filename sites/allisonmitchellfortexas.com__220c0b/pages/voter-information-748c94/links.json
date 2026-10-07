@@ -1,37 +1,158 @@
 [
-"https://allisonmitchellfortexas.com/",
-"https://allisonmitchellfortexas.com/about",
-"https://allisonmitchellfortexas.com/about-allison",
-"https://allisonmitchellfortexas.com/cart",
-"https://allisonmitchellfortexas.com/contact",
-"https://allisonmitchellfortexas.com/donate",
-"https://allisonmitchellfortexas.com/endorsement",
-"https://allisonmitchellfortexas.com/events",
-"https://allisonmitchellfortexas.com/house-district-108",
-"https://allisonmitchellfortexas.com/in-the-news",
-"https://allisonmitchellfortexas.com/meet-allison",
-"https://allisonmitchellfortexas.com/s/PrivacyPolicy.pdf",
-"https://allisonmitchellfortexas.com/show-your-support",
-"https://allisonmitchellfortexas.com/theissues",
-"https://allisonmitchellfortexas.com/volunteer",
-"https://allisonmitchellfortexas.com/voter-information",
-"https://allisonmitchellfortexas.com/voting",
-"https://allisonmitchellfortexas.com/yard-sign",
-"https://dallascountytx.sharepoint.com/sites/DC-Elections/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDC-Elections%2FShared+Documents%2FVote+Centers&p=true&ga=1",
-"https://dallascountyvotes.org/vote-by-mail/tracking",
-"https://dallascountyvotes.org/voters/registration/register",
-"https://dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf",
-"https://dps.texas.gov/apps/rolodex/search.asp",
-"https://dps.texas.gov/section/driver-license/election-identification-certificate-eic",
-"https://facebook.com/allisonmitchellfortexas",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://instagram.com/allisonmitchellfortexas",
-"https://secure.actblue.com/donate/allison-mitchell-1",
-"https://secure.actblue.com/donate/allisonmitchell",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://tiktok.com/@allisonmitchellfortexas",
-"https://txapps.texas.gov/tolapp/sos/SOSACManager",
-"https://votetexas.gov/eic/index.html",
-"https://vrapp.sos.state.tx.us/index.asp",
-"https://youtube.com/@AllisonMitchellForTexas"
+{
+"text": "0",
+"href": "https://www.allisonmitchellfortexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.allisonmitchellfortexas.com/about"
+},
+{
+"text": "About Allison",
+"href": "https://www.allisonmitchellfortexas.com/about-allison"
+},
+{
+"text": "Back",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "Check Your Voter registration status",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Check this link for your countywide ballot.",
+"href": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+},
+{
+"text": "Check your voter registration status",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Contact",
+"href": "https://www.allisonmitchellfortexas.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/allisonmitchell"
+},
+{
+"text": "DPS driver license offices",
+"href": "https://www.dps.texas.gov/apps/rolodex/search.asp"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allison-mitchell-1"
+},
+{
+"text": "Donate",
+"href": "https://www.allisonmitchellfortexas.com/donate"
+},
+{
+"text": "Election Identification Certificates",
+"href": "https://www.dps.texas.gov/section/driver-license/election-identification-certificate-eic"
+},
+{
+"text": "Endorsement",
+"href": "https://www.allisonmitchellfortexas.com/endorsement"
+},
+{
+"text": "Events",
+"href": "https://www.allisonmitchellfortexas.com/events"
+},
+{
+"text": "Find mobile station locations here",
+"href": "https://www.votetexas.gov/eic/index.html"
+},
+{
+"text": "Folder: Meet Allison",
+"href": "https://www.allisonmitchellfortexas.com/meet-allison"
+},
+{
+"text": "Folder: Show Your Support",
+"href": "https://www.allisonmitchellfortexas.com/show-your-support"
+},
+{
+"text": "Folder: Voter Information",
+"href": "https://www.allisonmitchellfortexas.com/voter-information"
+},
+{
+"text": "Home",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "House District 108",
+"href": "https://www.allisonmitchellfortexas.com/house-district-108"
+},
+{
+"text": "In the News",
+"href": "https://www.allisonmitchellfortexas.com/in-the-news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.allisonmitchellfortexas.com/s/PrivacyPolicy.pdf"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.dallascountyvotes.org/voters/registration/register/"
+},
+{
+"text": "Texas voter lookup",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Texas voter registration update",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": "The Issues",
+"href": "https://www.allisonmitchellfortexas.com/theissues"
+},
+{
+"text": "Track your ballot in the mail!",
+"href": "https://www.dallascountyvotes.org/vote-by-mail/tracking/"
+},
+{
+"text": "Update your voter registration today.",
+"href": "https://vrapp.sos.state.tx.us/index.asp"
+},
+{
+"text": "Volunteer",
+"href": "https://www.allisonmitchellfortexas.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.allisonmitchellfortexas.com/voting"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.allisonmitchellfortexas.com/yard-sign"
+},
+{
+"text": "You can update online now",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": "[image: Allison Mitchell for Texas House]",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://dallascountytx.sharepoint.com/sites/DC-Elections/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDC-Elections%2FShared+Documents%2FVote+Centers&p=true&ga=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AllisonMitchellForTexas"
+}
 ]

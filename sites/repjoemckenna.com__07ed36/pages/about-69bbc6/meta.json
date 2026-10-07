@@ -1,7 +1,9 @@
 {
  "description": "Learn about Joe McKenna, State Representative for the 18th Worcester District. A dedicated public servant committed to serving our community.",
  "final_url": "https://www.repjoemckenna.com/about",
- "paid_for_by": "Paid for by the Committee to Elect Joe McKenna Privacy Policy Terms &amp; Conditions \u00a9 2026 Joe McKenna for State Rep",
+ "fingerprint": "5e4129227fc0d38cb48844baf3b4512d1ac99e7d",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Joe McKenna Privacy Policy Terms & Conditions © 2026 Joe McKenna for State Rep",
  "title": "About Joe | Joe McKenna for State Representative | Joe McKenna for State Representative",
  "years_mentioned": [
   "2014",
@@ -9,6 +11,7 @@
   "2019",
   "2021",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

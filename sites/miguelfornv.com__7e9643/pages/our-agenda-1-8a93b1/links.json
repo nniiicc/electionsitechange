@@ -1,15 +1,62 @@
 [
-"http://facebook.com/miguelfornv",
-"http://instagram.com/miguelfornv",
-"https://miguelfornv.com/",
-"https://miguelfornv.com/about",
-"https://miguelfornv.com/cart",
-"https://miguelfornv.com/contact",
-"https://miguelfornv.com/newsletter",
-"https://miguelfornv.com/our-agenda",
-"https://miguelfornv.com/our-agenda-1",
-"https://miguelfornv.com/volunteer-form",
-"https://secure.actblue.com/donate/miguelforassembly",
-"https://tiktok.com/@miguelfornv",
-"https://youtube.com/@miguelfornv"
+{
+"text": "0",
+"href": "https://www.miguelfornv.com/cart"
+},
+{
+"text": "About me (Sobre mí)",
+"href": "https://www.miguelfornv.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.miguelfornv.com/contact"
+},
+{
+"text": "Contribute/ Contribuye",
+"href": "https://secure.actblue.com/donate/miguelforassembly"
+},
+{
+"text": "Email",
+"href": "mailto:miguel@miguelfornv.com"
+},
+{
+"text": "Nuestra agenda",
+"href": "https://www.miguelfornv.com/our-agenda-1"
+},
+{
+"text": "Our agenda",
+"href": "https://www.miguelfornv.com/our-agenda"
+},
+{
+"text": "Sign up",
+"href": "https://www.miguelfornv.com/newsletter"
+},
+{
+"text": "Volunteer (Voluntariado)",
+"href": "https://www.miguelfornv.com/volunteer-form"
+},
+{
+"text": "[image: miguel for Assembly District 15]",
+"href": "https://www.miguelfornv.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/miguelfornv"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/miguelfornv"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@miguelfornv"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@miguelfornv"
+},
+{
+"text": "in english",
+"href": "https://www.miguelfornv.com/our-agenda"
+}
 ]

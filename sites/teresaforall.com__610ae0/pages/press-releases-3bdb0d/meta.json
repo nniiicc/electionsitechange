@@ -1,6 +1,8 @@
 {
  "description": "Read the latest press releases from the campaign.",
  "final_url": "https://www.teresaforall.com/press-releases",
+ "fingerprint": "d58adee7d1b9dac0d9be0e4383ebea136c7a61c5",
+ "format": 3,
  "paid_for_by": "PAID FOR BY TERESA FOR ALL bottom of page",
  "title": "Press Releases | Teresa 4 All",
  "years_mentioned": [

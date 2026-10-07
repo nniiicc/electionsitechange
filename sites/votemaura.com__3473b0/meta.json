@@ -1,7 +1,11 @@
 {
  "description": "Meet Maura Hirschauer, find out why she's running and discover how you can help.",
  "final_url": "https://www.votemaura.com/",
- "paid_for_by": null,
+ "fingerprint": "c06b38e21dd00de16d401aae8cbdb4d6ed2e2004",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Maura Hirschauer for Illinois House District 49",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020"
+ ]
 }

@@ -1,7 +1,9 @@
 {
  "description": "Campaign Vault on Governor Gotra. Governor Gotra helps you organize, track, and share your work in 1 unified.",
  "final_url": "https://governorgotra.com/Vault",
- "paid_for_by": null,
+ "fingerprint": "9689875c1558694d63b081a63626b87ca9f8f2ed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Vault | Governor Gotra",
  "years_mentioned": []
 }

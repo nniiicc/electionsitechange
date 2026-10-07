@@ -1,13 +1,54 @@
 [
-"http://instagram.com/teamhowardtx",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://countyclerk.traviscountytx.gov/departments/elections/current-election",
-"https://facebook.com/votedonna",
-"https://secure.actblue.com/donate/howard2024",
-"https://sos.state.tx.us/about/newsreleases/2022/012622.shtml",
-"https://teamhowardtx.com/",
-"https://teamhowardtx.com/about",
-"https://teamhowardtx.com/contact-us",
-"https://teamhowardtx.com/newsletter",
-"https://x.com/DonnaHowardTX"
+{
+"text": "About",
+"href": "https://teamhowardtx.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://teamhowardtx.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/howard2024"
+},
+{
+"text": "Home",
+"href": "https://teamhowardtx.com/"
+},
+{
+"text": "Newsletter",
+"href": "https://teamhowardtx.com/newsletter"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "[image: Team Howard TX]",
+"href": "https://teamhowardtx.com/"
+},
+{
+"text": "[image]",
+"href": "https://countyclerk.traviscountytx.gov/departments/elections/current-election/"
+},
+{
+"text": "[image]",
+"href": "https://www.sos.state.tx.us/about/newsreleases/2022/012622.shtml"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/teamhowardtx"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votedonna/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DonnaHowardTX"
+},
+{
+"text": "info@teamhowardtx.com",
+"href": "mailto:info@teamhowardtx.com"
+}
 ]

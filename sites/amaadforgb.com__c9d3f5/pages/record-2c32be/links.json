@@ -1,40 +1,246 @@
 [
-"http://x.com/amaadair",
-"https://amaadforgb.com/",
-"https://amaadforgb.com/about",
-"https://amaadforgb.com/cart",
-"https://amaadforgb.com/contact",
-"https://amaadforgb.com/in-the-community",
-"https://amaadforgb.com/issues",
-"https://amaadforgb.com/record",
-"https://amaadforgb.com/record/bills-fighting-for-a-fair-state-budget-protecting-green-bays-priorities",
-"https://amaadforgb.com/record/bills-the-surplus-vote-standing-firm-for-wisconsin-taxpayers",
-"https://amaadforgb.com/record/category/Bills",
-"https://amaadforgb.com/record/category/Community",
-"https://amaadforgb.com/record/category/Press",
-"https://amaadforgb.com/record/community-green-bay-pride-standing-with-lgbtq-green-bay",
-"https://amaadforgb.com/record/community-neville-museum-petition-protecting-green-bays-cultural-heritage",
-"https://amaadforgb.com/record/community-record-30-town-halls-veterans-advocacy-amp-conservation-corps",
-"https://amaadforgb.com/record/community-standing-up-against-elon-musks-attack-on-workers-and-democracy",
-"https://amaadforgb.com/record/community-standing-up-against-hate-green-bay-passes-unanimous-welcoming-resolution",
-"https://amaadforgb.com/record/community-veteran-homeless-shelter-housing-our-heroes-in-green-bay",
-"https://amaadforgb.com/record/historic-first-first-openly-gay-man-of-color-in-wi-state-assembly",
-"https://amaadforgb.com/record/press-ai-data-centers-raising-concerns-about-wisconsins-energy-and-environmental-future",
-"https://amaadforgb.com/record/press-brown-county-housing-milestone-wispolitics-feb-2026",
-"https://amaadforgb.com/record/press-cannabis-legalization-support-lrb-4219-state-affairs-feb-2026",
-"https://amaadforgb.com/record/press-coal-pile-transfer-fox-river-wispolitics-apr-2026",
-"https://amaadforgb.com/record/press-conservation-corps-saved-from-federal-budget-cuts-wispolitics-may-2026",
-"https://amaadforgb.com/record/press-defending-green-bay-schools-from-cuts-wispolitics-mar-2026-march-24-2026",
-"https://amaadforgb.com/record/press-hundreds-rally-in-green-bay-against-doge-cuts-and-elon-musks-overreach-wispolitics-mar-2026",
-"https://amaadforgb.com/record/press-minimum-wage-20hr-legislation-nbc26-feb-2026",
-"https://amaadforgb.com/record/press-praises-governors-pardon-for-green-bay-resident-wispolitics-feb-2026",
-"https://amaadforgb.com/record/press-reelection-announcement-wixx-amp-wispolitics-apr-2026",
-"https://amaadforgb.com/record/press-two-housing-bills-pass-key-hurdles-wispolitics-feb-2026",
-"https://amaadforgb.com/record?offset=1777572658949",
-"https://amaadforgb.com/volunteer",
-"https://amaadforgb.com/why",
-"https://demo.app.scaletowin.com/public/scaletowin/privacy",
-"https://demo.app.scaletowin.com/public/scaletowin/terms",
-"https://facebook.com/amaadforgb",
-"https://secure.actblue.com/donate/friends-of-amaad-rivera-wagner-1"
+{
+"text": "0",
+"href": "https://www.amaadforgb.com/cart"
+},
+{
+"text": "About Amaad",
+"href": "https://www.amaadforgb.com/about"
+},
+{
+"text": "Bills",
+"href": "https://www.amaadforgb.com/record/category/Bills"
+},
+{
+"text": "Bills: Fighting for a Fair State Budget to Protect Green Bay’s Priorities",
+"href": "https://www.amaadforgb.com/record/bills-fighting-for-a-fair-state-budget-protecting-green-bays-priorities"
+},
+{
+"text": "Bills: The Surplus Vote, Standing Firm for Wisconsin Taxpayers",
+"href": "https://www.amaadforgb.com/record/bills-the-surplus-vote-standing-firm-for-wisconsin-taxpayers"
+},
+{
+"text": "Community",
+"href": "https://www.amaadforgb.com/record/category/Community"
+},
+{
+"text": "Community Record: 30+ Town Halls, Veterans Advocacy & Conservation Corps",
+"href": "https://www.amaadforgb.com/record/community-record-30-town-halls-veterans-advocacy-amp-conservation-corps"
+},
+{
+"text": "Community: Green Bay Pride, Standing with LGBTQ+ Green Bay",
+"href": "https://www.amaadforgb.com/record/community-green-bay-pride-standing-with-lgbtq-green-bay"
+},
+{
+"text": "Community: Neville Museum Petition to Protect Green Bay’s Cultural Heritage",
+"href": "https://www.amaadforgb.com/record/community-neville-museum-petition-protecting-green-bays-cultural-heritage"
+},
+{
+"text": "Community: Standing Up Against Elon Musk’s Attack on Workers and Democracy",
+"href": "https://www.amaadforgb.com/record/community-standing-up-against-elon-musks-attack-on-workers-and-democracy"
+},
+{
+"text": "Community: Standing Up Against Hate as Green Bay Passes a Unanimous Welcoming Resolution",
+"href": "https://www.amaadforgb.com/record/community-standing-up-against-hate-green-bay-passes-unanimous-welcoming-resolution"
+},
+{
+"text": "Community: Veteran Homeless Shelter Houses Our Heroes in Green Bay",
+"href": "https://www.amaadforgb.com/record/community-veteran-homeless-shelter-housing-our-heroes-in-green-bay"
+},
+{
+"text": "Contact Us",
+"href": "https://www.amaadforgb.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-amaad-rivera-wagner-1"
+},
+{
+"text": "Historic First: First Openly Gay Man of Color in WI State Assembly",
+"href": "https://www.amaadforgb.com/record/historic-first-first-openly-gay-man-of-color-in-wi-state-assembly"
+},
+{
+"text": "In the Community",
+"href": "https://www.amaadforgb.com/in-the-community"
+},
+{
+"text": "Issues",
+"href": "https://www.amaadforgb.com/issues"
+},
+{
+"text": "Older Posts",
+"href": "https://www.amaadforgb.com/record?offset=1777572658949"
+},
+{
+"text": "Press",
+"href": "https://www.amaadforgb.com/record/category/Press"
+},
+{
+"text": "Press: AI Data Centers Raise Concerns About Wisconsin’s Energy and Environmental Future",
+"href": "https://www.amaadforgb.com/record/press-ai-data-centers-raising-concerns-about-wisconsins-energy-and-environmental-future"
+},
+{
+"text": "Press: Brown County Housing Milestone, WisPolitics (February 2026)",
+"href": "https://www.amaadforgb.com/record/press-brown-county-housing-milestone-wispolitics-feb-2026"
+},
+{
+"text": "Press: Cannabis Legalization Support (LRB-4219), State Affairs (February 2026)",
+"href": "https://www.amaadforgb.com/record/press-cannabis-legalization-support-lrb-4219-state-affairs-feb-2026"
+},
+{
+"text": "Press: Coal Pile Transfer at the Fox River, WisPolitics (April 2026)",
+"href": "https://www.amaadforgb.com/record/press-coal-pile-transfer-fox-river-wispolitics-apr-2026"
+},
+{
+"text": "Press: Conservation Corps Saved from Federal Budget Cuts, WisPolitics (May 2026)",
+"href": "https://www.amaadforgb.com/record/press-conservation-corps-saved-from-federal-budget-cuts-wispolitics-may-2026"
+},
+{
+"text": "Press: Defending Green Bay Schools from Cuts, WisPolitics (March 24, 2026)",
+"href": "https://www.amaadforgb.com/record/press-defending-green-bay-schools-from-cuts-wispolitics-mar-2026-march-24-2026"
+},
+{
+"text": "Press: Hundreds Rally in Green Bay Against DOGE Cuts and Elon Musk’s Overreach, WisPolitics (March 2026)",
+"href": "https://www.amaadforgb.com/record/press-hundreds-rally-in-green-bay-against-doge-cuts-and-elon-musks-overreach-wispolitics-mar-2026"
+},
+{
+"text": "Press: Minimum Wage $20 Per Hour Legislation, NBC26 (February 2026)",
+"href": "https://www.amaadforgb.com/record/press-minimum-wage-20hr-legislation-nbc26-feb-2026"
+},
+{
+"text": "Press: Praises Governor’s Pardon for Green Bay Resident, WisPolitics (February 2026)",
+"href": "https://www.amaadforgb.com/record/press-praises-governors-pardon-for-green-bay-resident-wispolitics-feb-2026"
+},
+{
+"text": "Press: Reelection Announcement, WIXX and WisPolitics (April 2026)",
+"href": "https://www.amaadforgb.com/record/press-reelection-announcement-wixx-amp-wispolitics-apr-2026"
+},
+{
+"text": "Press: Two Housing Bills Pass Key Hurdles, WisPolitics (February 2026)",
+"href": "https://www.amaadforgb.com/record/press-two-housing-bills-pass-key-hurdles-wispolitics-feb-2026"
+},
+{
+"text": "Privacy Policy",
+"href": "https://demo.app.scaletowin.com/public/scaletowin/privacy"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/bills-fighting-for-a-fair-state-budget-protecting-green-bays-priorities"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/bills-the-surplus-vote-standing-firm-for-wisconsin-taxpayers"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/community-green-bay-pride-standing-with-lgbtq-green-bay"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/community-neville-museum-petition-protecting-green-bays-cultural-heritage"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/community-record-30-town-halls-veterans-advocacy-amp-conservation-corps"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/community-standing-up-against-elon-musks-attack-on-workers-and-democracy"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/community-standing-up-against-hate-green-bay-passes-unanimous-welcoming-resolution"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/community-veteran-homeless-shelter-housing-our-heroes-in-green-bay"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/historic-first-first-openly-gay-man-of-color-in-wi-state-assembly"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-ai-data-centers-raising-concerns-about-wisconsins-energy-and-environmental-future"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-brown-county-housing-milestone-wispolitics-feb-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-cannabis-legalization-support-lrb-4219-state-affairs-feb-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-coal-pile-transfer-fox-river-wispolitics-apr-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-conservation-corps-saved-from-federal-budget-cuts-wispolitics-may-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-defending-green-bay-schools-from-cuts-wispolitics-mar-2026-march-24-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-hundreds-rally-in-green-bay-against-doge-cuts-and-elon-musks-overreach-wispolitics-mar-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-minimum-wage-20hr-legislation-nbc26-feb-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-praises-governors-pardon-for-green-bay-resident-wispolitics-feb-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-reelection-announcement-wixx-amp-wispolitics-apr-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.amaadforgb.com/record/press-two-housing-bills-pass-key-hurdles-wispolitics-feb-2026"
+},
+{
+"text": "Record",
+"href": "https://www.amaadforgb.com/record"
+},
+{
+"text": "Terms",
+"href": "https://demo.app.scaletowin.com/public/scaletowin/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amaadforgb.com/volunteer"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.amaadforgb.com/why"
+},
+{
+"text": "[image: Amaad Rivera Wagner for Assembly]",
+"href": "https://www.amaadforgb.com/"
+},
+{
+"text": "[image: Historic First: First Openly Gay Man of Color in WI State Assembly]",
+"href": "https://www.amaadforgb.com/record/historic-first-first-openly-gay-man-of-color-in-wi-state-assembly"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/amaadair"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/amaadforgb/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@amaadforgb.com"
+},
+{
+"text": "info@amaadforgb.com",
+"href": "mailto:info@amaadforgb.com"
+}
 ]

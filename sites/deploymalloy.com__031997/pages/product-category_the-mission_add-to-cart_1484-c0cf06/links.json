@@ -1,18 +1,114 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/cart",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/product-category/help-deploy-malloy",
-"https://deploymalloy.com/product-category/the-mission",
-"https://deploymalloy.com/product-category/the-mission?add-to-cart=1484",
-"https://deploymalloy.com/product-category/the-mission?add-to-cart=3324",
-"https://deploymalloy.com/product-category/the-mission?add-to-cart=4022",
-"https://deploymalloy.com/product/baby-jersey-short-sleeve-tee",
-"https://deploymalloy.com/product/deploy-malloy-spiral-notebook",
-"https://deploymalloy.com/product/hard-shell-suitcase-3",
-"https://deploymalloy.com/product/mug-with-color-inside-3",
-"https://deploymalloy.com/product/organic-bucket-hat",
-"https://deploymalloy.com/product/organic-cotton-apron",
-"https://deploymalloy.com/product/playing-cards",
-"https://facebook.com/geraldmalloyvt"
+{
+"text": "Deploy Malloy Baby Jersey Short Sleeve Tee",
+"href": "https://www.deploymalloy.com/product/baby-jersey-short-sleeve-tee/"
+},
+{
+"text": "Deploy Malloy Spiral notebook",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-spiral-notebook/"
+},
+{
+"text": "Deploy Malloy organic bucket hat",
+"href": "https://www.deploymalloy.com/product/organic-bucket-hat/"
+},
+{
+"text": "Hard-shell suitcase",
+"href": "https://www.deploymalloy.com/product/hard-shell-suitcase-3/"
+},
+{
+"text": "Help Deploy Malloy!",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/"
+},
+{
+"text": "Home",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Mug with Color Inside",
+"href": "https://www.deploymalloy.com/product/mug-with-color-inside-3/"
+},
+{
+"text": "Organic cotton apron",
+"href": "https://www.deploymalloy.com/product/organic-cotton-apron/"
+},
+{
+"text": "Playing cards",
+"href": "https://www.deploymalloy.com/product/playing-cards/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/baby-jersey-short-sleeve-tee/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/hard-shell-suitcase-3/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/mug-with-color-inside-3/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/organic-bucket-hat/"
+},
+{
+"text": "The mission",
+"href": "https://www.deploymalloy.com/product-category/the-mission/"
+},
+{
+"text": "View cart",
+"href": "https://www.deploymalloy.com/cart/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/playing-cards/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/baby-jersey-short-sleeve-tee/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-spiral-notebook/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/hard-shell-suitcase-3/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/mug-with-color-inside-3/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/organic-bucket-hat/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/organic-cotton-apron/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/the-mission/?add-to-cart=1484"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/the-mission/?add-to-cart=3324"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/the-mission/?add-to-cart=4022"
+}
 ]

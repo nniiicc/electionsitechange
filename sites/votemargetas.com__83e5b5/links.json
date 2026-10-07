@@ -1,6 +1,22 @@
 [
-"https://facebook.com/VoteMargetas",
-"https://paypal.com/ncp/payment/GNRNCF9UPA99J",
-"https://rwpartnersllc.com/",
-"https://votemargetas.com/"
+{
+"text": "Donate",
+"href": "https://www.paypal.com/ncp/payment/GNRNCF9UPA99J"
+},
+{
+"text": "Facebook page opens in new window",
+"href": "https://www.facebook.com/VoteMargetas/"
+},
+{
+"text": "R&W Partners, LLC",
+"href": "https://rwpartnersllc.com/"
+},
+{
+"text": "RWPartnersLLC@gmail.com",
+"href": "mailto:RWPartnersLLC@gmail.com"
+},
+{
+"text": "[image: Vote George Margetas for State Representative]",
+"href": "https://votemargetas.com/"
+}
 ]

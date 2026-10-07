@@ -1,23 +1,98 @@
 [
-"http://halpinforillinois.com/",
-"http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490",
-"https://facebook.com/halpinforillinois?pnref=story",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20220610T100000%2F20220610T110000&text=Postcard+Writing+Event&details=%3Ca+href%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FPostcards.png%22%3E%3Cimg+class%3D%22aligncenter+wp-image-303+size-large%22+src%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FPostcards-1024x1024.png%22+alt%3D%22%22+width%3D%22640%22+height%3D%22640%22+%2F%3E%3C%2Fa%3E&location=rock+island+democratic+party%2C+218+18th+st%2C+Rock+Island%2C+IL%2C+61201%2C+United+States&trp=false&ctz=America%2FChicago&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com",
-"https://halpinforillinois.com/",
-"https://halpinforillinois.com/about-mike",
-"https://halpinforillinois.com/category/news",
-"https://halpinforillinois.com/cdn-cgi/l/email-protection",
-"https://halpinforillinois.com/donate",
-"https://halpinforillinois.com/early-voting",
-"https://halpinforillinois.com/event/colona-memorial-day-parade",
-"https://halpinforillinois.com/event/east-moline-4th-of-july-parade",
-"https://halpinforillinois.com/events",
-"https://halpinforillinois.com/get-involved",
-"https://halpinforillinois.com/issues",
-"https://halpinforillinois.com/privacy-policy",
-"https://halpinforillinois.com/survey-focus-form",
-"https://halpinforillinois.com/wp-content/uploads/2022/06/Postcards.png",
-"https://maps.google.com/maps?f=q&hl=en&q=218+18th+st+Rock+Island+IL+61201+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2022-06-10T10%3A00%3A00-05%3A00&enddt=2022-06-10T11%3A00%3A00-05%3A00&location=rock+island+democratic+party%2C+218+18th+st%2C+Rock+Island%2C+IL%2C+61201%2C+United+States&subject=Postcard+Writing+Event",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2022-06-10T10%3A00%3A00-05%3A00&enddt=2022-06-10T11%3A00%3A00-05%3A00&location=rock+island+democratic+party%2C+218+18th+st%2C+Rock+Island%2C+IL%2C+61201%2C+United+States&subject=Postcard+Writing+Event"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=218+18th+st+Rock+Island+IL+61201+United+States"
+},
+{
+"text": "About Mike",
+"href": "https://www.halpinforillinois.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://halpinforillinois.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.halpinforillinois.com/donate/"
+},
+{
+"text": "East Moline 4th of July Parade »",
+"href": "https://www.halpinforillinois.com/event/east-moline-4th-of-july-parade/"
+},
+{
+"text": "Events",
+"href": "https://halpinforillinois.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halpinforillinois.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20220610T100000%2F20220610T110000&text=Postcard+Writing+Event&details=%3Ca+href%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FPostcards.png%22%3E%3Cimg+class%3D%22aligncenter+wp-image-303+size-large%22+src%3D%22https%3A%2F%2Fhalpinforillinois.com%2Fwp-content%2Fuploads%2F2022%2F06%2FPostcards-1024x1024.png%22+alt%3D%22%22+width%3D%22640%22+height%3D%22640%22+%2F%3E%3C%2Fa%3E&location=rock+island+democratic+party%2C+218+18th+st%2C+Rock+Island%2C+IL%2C+61201%2C+United+States&trp=false&ctz=America%2FChicago&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com"
+},
+{
+"text": "ILGA.Gov",
+"href": "http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490"
+},
+{
+"text": "Issues",
+"href": "https://www.halpinforillinois.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.halpinforillinois.com/category/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T10%3A00%3A00-05%3A00&enddt=%23T11%3A00%3A00-05%3A00&location=rock+island+democratic+party%2C+218+18th+st%2C+Rock+Island%2C+IL%2C+61201%2C+United+States&subject=Postcard+Writing+Event&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T10%3A00%3A00-05%3A00&enddt=%23T11%3A00%3A00-05%3A00&location=rock+island+democratic+party%2C+218+18th+st%2C+Rock+Island%2C+IL%2C+61201%2C+United+States&subject=Postcard+Writing+Event&body="
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforillinois.com/privacy-policy/"
+},
+{
+"text": "Take Our Survey",
+"href": "https://www.halpinforillinois.com/survey-focus-form/"
+},
+{
+"text": "View Venue Website",
+"href": "http://halpinforillinois.com"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.halpinforillinois.com/early-voting/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:FriendsofMikeHalpin@gmail.com"
+},
+{
+"text": "[image]",
+"href": "https://halpinforillinois.com/wp-content/uploads/2022/06/Postcards.png"
+},
+{
+"text": "[image]309.553.1429",
+"href": "tel:3095531429"
+},
+{
+"text": "facebook.com/halpinforillinois",
+"href": "https://www.facebook.com/halpinforillinois?pnref=story"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.halpinforillinois.com/event/postcard-writing-event/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.halpinforillinois.com/events/"
+},
+{
+"text": "« Colona Memorial Day Parade",
+"href": "https://www.halpinforillinois.com/event/colona-memorial-day-parade/"
+}
 ]

@@ -1,24 +1,106 @@
 [
-"https://facebook.com/VoteMatthiasEarly",
-"https://instagram.com/votematthiasearly",
-"https://secure.actblue.com/donate/matthias-jonah-early-1",
-"https://sos.state.tx.us/elections/index.shtml",
-"https://sos.state.tx.us/elections/voter/cclerks.shtml",
-"https://statutes.capitol.texas.gov/?link=EL",
-"https://teamrv-mvp.sos.texas.gov/BallotTrackerApp",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://tiktok.com/@votematthiasearly",
-"https://votematthiasearly.com/",
-"https://votematthiasearly.com/about-tx-hd-20",
-"https://votematthiasearly.com/affordable-healthcare",
-"https://votematthiasearly.com/candidate-bio",
-"https://votematthiasearly.com/contact",
-"https://votematthiasearly.com/education-investment",
-"https://votematthiasearly.com/endorsements",
-"https://votematthiasearly.com/press",
-"https://votematthiasearly.com/take-action",
-"https://votematthiasearly.com/voter-info-1",
-"https://votematthiasearly.com/workforce-development",
-"https://votetexas.gov/faq/early-voting.html",
-"https://votetexas.gov/register-to-vote/need-id.html"
+{
+"text": "About TX HD-20",
+"href": "https://votematthiasearly.com/about-tx-hd-20"
+},
+{
+"text": "Absentee ballot tracker tool",
+"href": "https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login"
+},
+{
+"text": "Affordable Healthcare",
+"href": "https://votematthiasearly.com/affordable-healthcare"
+},
+{
+"text": "Candidate Bio",
+"href": "https://votematthiasearly.com/candidate-bio"
+},
+{
+"text": "Contact",
+"href": "https://votematthiasearly.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/matthias-jonah-early-1"
+},
+{
+"text": "Donate Today To Support Change In TX HD-20!",
+"href": "https://secure.actblue.com/donate/matthias-jonah-early-1"
+},
+{
+"text": "Education Investment",
+"href": "https://votematthiasearly.com/education-investment"
+},
+{
+"text": "Endorsements",
+"href": "https://votematthiasearly.com/endorsements"
+},
+{
+"text": "Explore",
+"href": "https://votematthiasearly.com/voter-info-1"
+},
+{
+"text": "Find your polling place",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Home",
+"href": "https://votematthiasearly.com/"
+},
+{
+"text": "Learn more about absentee voting",
+"href": "https://www.votetexas.gov/faq/early-voting.html"
+},
+{
+"text": "Learn more about early voting",
+"href": "https://www.votetexas.gov/faq/early-voting.html"
+},
+{
+"text": "Learn more about voter ID",
+"href": "https://www.votetexas.gov/register-to-vote/need-id.html"
+},
+{
+"text": "Local Election Office",
+"href": "https://www.sos.state.tx.us/elections/voter/cclerks.shtml"
+},
+{
+"text": "Press",
+"href": "https://votematthiasearly.com/press"
+},
+{
+"text": "State Election Code",
+"href": "https://statutes.capitol.texas.gov/?link=EL"
+},
+{
+"text": "State Election Website",
+"href": "https://www.sos.state.tx.us/elections/index.shtml"
+},
+{
+"text": "Take Action",
+"href": "https://votematthiasearly.com/take-action"
+},
+{
+"text": "Voter Info",
+"href": "https://votematthiasearly.com/voter-info-1"
+},
+{
+"text": "Workforce Development",
+"href": "https://votematthiasearly.com/workforce-development"
+},
+{
+"text": "[image: Vote Matthias Early]",
+"href": "https://votematthiasearly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMatthiasEarly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votematthiasearly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votematthiasearly"
+}
 ]

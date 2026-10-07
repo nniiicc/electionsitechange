@@ -1,4 +1,4 @@
-Labor and family focused.
+0 Skip to Content Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Labor and family focused.
 Supporting strong schools, affordable communities, and responsive government.
 Ready to serve.
 My name is Christos Jensen.
@@ -26,3 +26,5 @@ My wife also serves on the Eagan YMCA Community Council, and she leads our local
 We love this community, and we are dedicated to helping it continue to grow and thrive.
 I look forward to meeting with you and hearing your concerns and your ideas.
 Together, we can channel a new wave of energy into making this the community and the state that we hope to see!
+Be the change that we hope to see.
+CONTRIBUTE Prepared and paid for by: Volunteers for Christos Jensen, PO Box 21101, Eagan MN 55121 votechristos@gmail.com

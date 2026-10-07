@@ -1,9 +1,34 @@
 [
-"https://adam4nh.com/",
-"https://adam4nh.com/about.html",
-"https://adam4nh.com/endorsements.html",
-"https://adam4nh.com/priorities.html",
-"https://donate.adam4nh.com/",
-"https://facebook.com/adam.haverstock.5",
-"https://files.adam4nh.com/share/IZXQDXzlkq"
+{
+"text": "Donate",
+"href": "https://donate.adam4nh.com/"
+},
+{
+"text": "Download Photos Here",
+"href": "https://files.adam4nh.com/share/IZXQDXzlkq"
+},
+{
+"text": "Haverstock for State Rep",
+"href": "https://adam4nh.com"
+},
+{
+"text": "Home",
+"href": "https://adam4nh.com"
+},
+{
+"text": "Learn More",
+"href": "https://adam4nh.com/about.html"
+},
+{
+"text": "Learn More",
+"href": "https://adam4nh.com/priorities.html"
+},
+{
+"text": "See All Endorsements",
+"href": "https://adam4nh.com/endorsements.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/adam.haverstock.5"
+}
 ]

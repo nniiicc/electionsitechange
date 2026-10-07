@@ -1,3 +1,4 @@
-Thank you to the Indiana AFL-CIO for your endorsement and support of the Amy Huffman Oliver campaign!
-I look forward to serving our labor brothers and sisters at the Statehouse.
-—June 26, 2026
+0 Skip to Content Home About Amy Amy's Priorities Endorsements FAQs Volunteer Contact Amy News AFL-CIO Endorsement (June 26) Amy Recognized by the DLCC (May 19) Post-Primary Press Release (May 06) Front Page Finish (May 05) DONATE Open Menu Close Menu Open Menu Close Menu Home About Amy Amy's Priorities Endorsements FAQs Volunteer Contact Amy News AFL-CIO Endorsement (June 26) Amy Recognized by the DLCC (May 19) Post-Primary Press Release (May 06) Front Page Finish (May 05) DONATE Home About Amy Amy's Priorities Endorsements FAQs Volunteer Contact Amy Folder: News Back AFL-CIO Endorsement (June 26) Amy Recognized by the DLCC (May 19) Post-Primary Press Release (May 06) Front Page Finish (May 05) DONATE Thank you to the Indiana AFL-CIO for your endorsement and support of the Amy Huffman Oliver campaign!
+I look forward to serving our labor brothers and sisters at the Statehouse. —June 26, 2026 Vote Amy Huffman Oliver for Indiana State Representative Paid for by Patricia Krahnke and authorized by: Friends of Amy Huffman Oliver Click here to donate Friends of Amy Huffman Oliver P.
+O.
+Box 93 Nashville, IN 47448 Email: Info@voteamyoliver.com

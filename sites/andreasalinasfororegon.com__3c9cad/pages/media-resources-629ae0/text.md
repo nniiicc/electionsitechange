@@ -1,4 +1,3 @@
-Download high-quality video of Andrea
-Download high-resolution photos of Andrea
-I'm counting on you to power our campaign with grassroots support!
-If you’ve saved your payment information with ActBlue Express, your donation to Andrea Salinas will go through immediately.
+| Home | About Andrea | EN ESPAÑOL | Donate Andrea Salinas for Congress - http://www.andreasalinasfororegon.com Home About Andrea Issues Volunteer Endorsements Contact EN ESPAÑOL Donate Video & Photos Download high-quality video of Andrea Download high-resolution photos of Andrea Donate Now I'm counting on you to power our campaign with grassroots support!
+If you’ve saved your payment information with ActBlue Express, your donation to Andrea Salinas will go through immediately. $# $# $# $# $# OTHER Home About Andrea Issues Volunteer Endorsements Contact EN ESPAÑOL Donate X/Twitter Facebook Instagram Paid for and authorized by Andrea Salinas for Oregon.
+Contact: [email protected] | Media Contact: [email protected] PO Box 230985, Tigard, OR 97281 Contact Us | Media Resources | Privacy Policy Powered by Mandate Media .

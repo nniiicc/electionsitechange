@@ -1,5 +1,4 @@
-2024 - State Income Taxes
-Several proposals were made in the 2024 primary to eliminate the state income tax.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024 - State Income Taxes Jul 24 Written By John Bartlett for IN State Rep Dist 33 Several proposals were made in the 2024 primary to eliminate the state income tax.
 While on the surface this sounds appealing to many voters.
 However, there is a strong fact to consider.
 This income to the state revenue will have to be replaced somehow.
@@ -10,3 +9,4 @@ You will pay sales tax on your medicine.
 This is a regressive tax.
 It will move the burden of funding our government services to the poor and middle classes rather than the people who can afford to pay more in taxes.
 I will oppose any bill proposed which moves tax burden to Hoosiers who can’t afford to pay more when they buy things.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2024 - Economic Development for Rural Indiana Next Next 2024 - Rural Indiana Economy Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

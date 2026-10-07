@@ -1,11 +1,42 @@
 [
-"https://facebook.com/brenden.jones.50",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/brendenjonesnc?igshid=YmMyMTA2M2Y%3D",
-"https://repjonesfornc.com/",
-"https://repjonesfornc.com/about",
-"https://repjonesfornc.com/accomplishments",
-"https://repjonesfornc.com/contact-leader-jones",
-"https://repjonesfornc.com/contribute",
-"https://repjonesfornc.com/leadership"
+{
+"text": "About",
+"href": "https://repjonesfornc.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://repjonesfornc.com/accomplishments"
+},
+{
+"text": "Contact Leader Jones",
+"href": "https://repjonesfornc.com/contact-leader-jones"
+},
+{
+"text": "Contribute",
+"href": "https://repjonesfornc.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://repjonesfornc.com/"
+},
+{
+"text": "Leadership",
+"href": "https://repjonesfornc.com/leadership"
+},
+{
+"text": "[image: Rep. Brenden H. Jones]",
+"href": "https://repjonesfornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/brenden.jones.50/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brendenjonesnc?igshid=YmMyMTA2M2Y%3D"
+}
 ]

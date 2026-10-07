@@ -1,27 +1,8 @@
-Make a Plan to Vote
-Important Dates
-June 23 - Mailed Absentee Opens
-July 8 - Last day to register to vote with this link to register: https://www.sos.mo.gov/elections/goVoteMissouri/register
-July 21 - No-excuse in-person absentee voting begins 8:00 am (times vary by location)
-July 22 - Last Day to Register to Vote
-Saturday, August 1 - In-Person Absentee Voting Locations Open 9 am to 1 pm
-August 3 - Last day for In Person Absentee Voting
-August 4 - Election Day (Last Day to Vote)
-Polls open 6:00 am to 7:00 pm
-Anyone in line by 7:00 pm will be allowed to vote
-Location Info
-Residents of St.
-Louis County can vote at any location in the county
-St.
-Louis County- https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/elections/polling-places/
-Residents of St.
-Louis City can vote at any location in the City
-St.
-Louis City - https://www.stlouis-mo.gov/government/departments/board-election-commissioners/voter/polling-places/index.cfm
-Voting Tips
-Voting Early (before Election Day) is often the most convenient option.
-Check the polling locations that you may pass on your way home in the city or county you live in for wait times
-Consider routine and special errands you may have that could interfere with Election Day voting, which opens the opportunity to use a polling location that opens on July 21.
-PRO-TIP
-Voters who vote before election day stop getting calls and door knocks from our campaign early!
-If you would like a yard sign please call or text the office at 314.897.5364
+Skip to main content Chip In Today Donate about issues endorsements volunteer events vote Donate Bell for MO Make a Plan to Vote Important Dates June 23 - Mailed Absentee Opens July 8 - Last day to register to vote with this link to register: https://www.sos.mo.gov/elections/goVoteMissouri/register July 21 - No-excuse in-person absentee voting begins 8:00 am (times vary by location) July 22 - Last Day to Register to Vote Saturday, August 1 - In-Person Absentee Voting Locations Open 9 am to 1 pm August 3 - Last day for In Person Absentee Voting August 4 - Election Day (Last Day to Vote) Polls open 6:00 am to 7:00 pm Anyone in line by 7:00 pm will be allowed to vote Location Info Residents of St.
+Louis County can vote at any location in the county St.
+Louis County- https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/elections/polling-places/ Residents of St.
+Louis City can vote at any location in the City St.
+Louis City - https://www.stlouis-mo.gov/government/departments/board-election-commissioners/voter/polling-places/index.cfm Voting Tips Voting Early (before Election Day) is often the most convenient option.
+Check the polling locations that you may pass on your way home in the city or county you live in for wait times Consider routine and special errands you may have that could interfere with Election Day voting, which opens the opportunity to use a polling location that opens on July 21.
+PRO-TIP Voters who vote before election day stop getting calls and door knocks from our campaign early!
+If you would like a yard sign please call or text the office at 314.897.5364 home about issues endorsements volunteer events vote Donate PO Box 190669 St Louis, MO 63119 info@bell4mo.com privacy policy terms race update Paid for by Bell for Missouri

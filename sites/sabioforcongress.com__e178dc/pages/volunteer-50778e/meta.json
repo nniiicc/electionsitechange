@@ -1,10 +1,11 @@
 {
  "description": "Join Tony Sabio's campaign for Congress! Volunteer for canvassing, phone calls, and events in Virginia's 8th District. Your support matters!",
  "final_url": "https://sabioforcongress.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "6d68fc4cf898b0e0339d7f4a106d3c930422cf05",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer for Congress: Join Tony Sabio's Campaign",
  "years_mentioned": [
-  "2011",
-  "2025"
+  "2011"
  ]
 }

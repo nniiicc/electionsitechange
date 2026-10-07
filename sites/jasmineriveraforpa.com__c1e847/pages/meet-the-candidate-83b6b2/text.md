@@ -1,5 +1,5 @@
-Ver en espa�ol
-Jasmine �Jaz� Rivera has been part of the York community for over 30 years.
+HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol HOME MEET THE CANDIDATE ON THE ISSUES PUBLIC EVENTS GOLF OUTING VOLUNTEER DONATE CONTACT US VOTER REG WHERE TO VOTE JOIN US Ver en espa�ol Meet Jaz Rivera...
+MEET THE CANDIDATE "It's about people, not politics." Jasmine �Jaz� Rivera has been part of the York community for over 30 years.
 Her parents moved to York from New Jersey, where Jasmine was born, seeking better jobs and housing and a more stable community.
 Jaz found a home in York, where she realized her potential.
 She has raised her three children here.
@@ -31,5 +31,5 @@ York is excited to vote for a candidate they�ve known for years.
 They know Jaz and they know her commitment to the community.
 It�s people, not politics, that drive Jasmine Rivera.
 She will be a new, powerful voice in Harrisburg who works for the improvement of everyone in the 95th State Legislative District.
-Site Design and Hosted by
-Sunken Treasure Design
+Copyright # - Jasmine Rivera for PA - All Rights Reserved.
+Site Design and Hosted by Sunken Treasure Design

@@ -1,10 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/brendaforidaho",
-"https://quickforidaho.com/",
-"https://quickforidaho.com/about",
-"https://quickforidaho.com/contact-brenda",
-"https://quickforidaho.com/donations",
-"https://quickforidaho.com/gallery",
-"https://x.com/BrendaForIdaho"
+{
+"text": "About",
+"href": "https://quickforidaho.com/about"
+},
+{
+"text": "Contact Brenda",
+"href": "https://quickforidaho.com/contact-brenda"
+},
+{
+"text": "Donations",
+"href": "https://quickforidaho.com/donations"
+},
+{
+"text": "Gallery",
+"href": "https://quickforidaho.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://quickforidaho.com/"
+},
+{
+"text": "[image: Quick For Idaho]",
+"href": "https://quickforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brendaforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/BrendaForIdaho"
+}
 ]

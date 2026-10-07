@@ -1,2 +1,2 @@
-CONTACT Joan Fitzgerald for Assembly P.O.
-Box 72 Fort Atkinson, WI 53538 info@joanfitzgeraldforassembly.com
+0 Skip to Content About Endorsements Request a yard sign/volunteer Events Contact Contribute Open Menu Close Menu About Endorsements Request a yard sign/volunteer Events Contact Contribute Open Menu Close Menu About Endorsements Request a yard sign/volunteer Events Contact Contribute CONTACT Joan Fitzgerald for Assembly P.O.
+Box 72 Fort Atkinson, WI 53538 info@joanfitzgeraldforassembly.com Home ‍ ‍ About ‍ ‍ Volunteer ‍ ‍ Contact ‍ ‍ Contribute Joan Fitzgerald for Assembly PO Box 72 Fort Atkinson, WI 53538 info@joanfitzgeraldforassembly.com © Copyright # All Rights Reserved Paid for by Joan Fitzgerald for Assembly, Laura Payne Treasurer

@@ -1,8 +1,34 @@
 [
-"https://bsky.app/profile/monicatranel.bsky.social",
-"https://facebook.com/MonicaTranelForCongress",
-"https://instagram.com/monica.tranel",
-"https://monicatranel.com/",
-"https://monicatranel.substack.com/",
-"https://secure.actblue.com/donate/tranel_donate"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/monicatranel.bsky.social"
+},
+{
+"text": "DONATE VIA ACTBLUE",
+"href": "https://secure.actblue.com/donate/tranel_donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tranel_donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MonicaTranelForCongress/"
+},
+{
+"text": "Home",
+"href": "https://monicatranel.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/monica.tranel"
+},
+{
+"text": "News",
+"href": "https://monicatranel.substack.com/"
+},
+{
+"text": "[image: Monica Tranel for HD 92]",
+"href": "https://monicatranel.com/"
+}
 ]

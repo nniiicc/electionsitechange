@@ -1,11 +1,9 @@
-HEALTHCARE ACCESS
-No Texan should go without care because they can't afford it.
+Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact HEALTHCARE ACCESS No Texan should go without care because they can't afford it.
 Zach has stood in courtrooms across Texas representing people who were hurt — and then hurt again by a system that made it impossible to get the care they needed.
 He’s seen firsthand what happens when families delay treatment, ration medication, or skip the doctor altogether because the bill is too high.
 That’s not how healthcare should work in the richest state in the country.
 As your State Representative, Zach will fight to make sure every Texan — no matter their zip code or their paycheck — can get the care they need, when they need it.
-Where Zach Stands
-Expand Medicaid.
+Where Zach Stands Expand Medicaid.
 Texas remains one of the few states that has refused to expand Medicaid, leaving hundreds of thousands of working Texans caught in a coverage gap — they earn too much for traditional Medicaid but too little to afford private insurance.
 Zach supports closing that gap so no Texan is left without lifesaving care simply because they can’t afford it.
 Lower the cost of care.
@@ -22,6 +20,7 @@ Zach believes women should have the unequivocal right to make their own medical 
 Cut the red tape between patients and care.
 Too many Texans spend more time fighting insurance denials and navigating bureaucracy than actually getting treated.
 Zach supports commonsense reforms that put patients — not paperwork — first.
-Why This Matters in District 112
-Healthcare isn’t an abstract policy debate for families in Richardson, Garland, Sachse, Rowlett, and Sunnyvale — it’s whether a parent can afford to take their kid to the doctor, whether a small business owner can offer benefits without going under, and whether a senior can afford their prescriptions.
+Why This Matters in District 112 Healthcare isn’t an abstract policy debate for families in Richardson, Garland, Sachse, Rowlett, and Sunnyvale — it’s whether a parent can afford to take their kid to the doctor, whether a small business owner can offer benefits without going under, and whether a senior can afford their prescriptions.
 Zach is running because Texans in District 112 deserve a representative who treats healthcare access like the urgent, kitchen-table issue it is.
+2600 N Central Expy, Suite 200, Richardson, TX 75080 214-414-3808 Paid Political Advertisement, Zach Herbert for Texas Campaign Zach Herbert is a former member of the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Marine Corps, the Department of Defense or any branch of U.S. government.

@@ -1,10 +1,50 @@
 [
-"https://adkinsfornm.com/",
-"https://adkinsfornm.com/voting-info",
-"https://portal1.sos.nm.gov/OVR/(S(0djmxfpuugssftwmkc4dfcaw))/WebPages/AbsenteeApplication.aspx",
-"https://portal1.sos.nm.gov/OVR/(S(b3nvzvjkcrgp21ovybg3cwhe))/WebPages/InstructionsStep1.aspx",
-"https://portal1.sos.nm.gov/OVR/(S(tc4d2ayqniyy5zgmp3djivcw))/WebPages/AbsenteeApplication.aspx",
-"https://secure.winred.com/the-committee-to-elect-david-adkins/adkins-for-nm",
-"https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1",
-"https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx"
+{
+"text": "About David",
+"href": "https://www.adkinsfornm.com#biography"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/the-committee-to-elect-david-adkins/adkins-for-nm"
+},
+{
+"text": "Home",
+"href": "https://www.adkinsfornm.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.adkinsfornm.com#platform"
+},
+{
+"text": "Register To Vote",
+"href": "https://portal1.sos.nm.gov/OVR/(S(b3nvzvjkcrgp21ovybg3cwhe))/WebPages/InstructionsStep1.aspx"
+},
+{
+"text": "Registration Info",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1"
+},
+{
+"text": "Request Absentee",
+"href": "https://portal1.sos.nm.gov/OVR/(S(0djmxfpuugssftwmkc4dfcaw))/WebPages/AbsenteeApplication.aspx"
+},
+{
+"text": "Request Here",
+"href": "https://portal1.sos.nm.gov/OVR/(S(tc4d2ayqniyy5zgmp3djivcw))/WebPages/AbsenteeApplication.aspx"
+},
+{
+"text": "Voting Info",
+"href": "https://www.adkinsfornm.com/voting-info"
+},
+{
+"text": "Voting Locations",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx"
+},
+{
+"text": "[image: David-Adkins-for-New-Mexico-logo]",
+"href": "https://www.adkinsfornm.com"
+},
+{
+"text": "[image]",
+"href": "https://www.adkinsfornm.com"
+}
 ]

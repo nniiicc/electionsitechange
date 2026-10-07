@@ -1,12 +1,54 @@
 [
-"http://facebook.com/jimpresselforstaterep",
-"https://i0.wp.com/jimpressel.com/wp-content/uploads/2016/02/District_20_map-3.jpg?ssl=1",
-"https://jimpressel.com/",
-"https://jimpressel.com/about-jim",
-"https://jimpressel.com/contact-jim",
-"https://jimpressel.com/district-20",
-"https://jimpressel.com/donate",
-"https://jimpressel.com/endorsements",
-"https://jimpressel.com/gallery-jp",
-"https://jimpressel.com/platform"
+{
+"text": "About Jim",
+"href": "https://jimpressel.com/about-jim/"
+},
+{
+"text": "Contact Jim",
+"href": "https://jimpressel.com/contact-jim/"
+},
+{
+"text": "District 20",
+"href": "https://jimpressel.com/district-20/"
+},
+{
+"text": "Donate",
+"href": "https://jimpressel.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://jimpressel.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://jimpressel.com/gallery-jp/"
+},
+{
+"text": "Home",
+"href": "https://jimpressel.com"
+},
+{
+"text": "Home",
+"href": "https://jimpressel.com/"
+},
+{
+"text": "Platform",
+"href": "https://jimpressel.com/platform/"
+},
+{
+"text": "[image: Jim Pressel for State Representative] [image: Jim Pressel for State Representative]",
+"href": "https://jimpressel.com/"
+},
+{
+"text": "[image]",
+"href": "https://i0.wp.com/jimpressel.com/wp-content/uploads/2016/02/District_20_map-3.jpg?ssl=1"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/jimpresselforstaterep"
+}
 ]

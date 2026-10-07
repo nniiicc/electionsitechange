@@ -1,10 +1,66 @@
 [
-"https://drgregbonnen.com/",
-"https://drgregbonnen.com/privacy-policy",
-"https://drgregbonnen.com/wp-content/uploads/2025/05/border-security-thumbnail.jpg",
-"https://drgregbonnen.com/wp-content/uploads/2025/05/economy-thumbnail.jpg",
-"https://facebook.com/DrGregBonnen",
-"https://instagram.com/drgregbonnen",
-"https://secure.winred.com/friends-of-dr-greg-bonnen/donate",
-"https://x.com/drgregbonnen"
+{
+"text": "About",
+"href": "https://drgregbonnen.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://drgregbonnen.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-dr-greg-bonnen/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/friends-of-dr-greg-bonnen/donate"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.winred.com/friends-of-dr-greg-bonnen/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DrGregBonnen"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/drgregbonnen/"
+},
+{
+"text": "News",
+"href": "https://drgregbonnen.com/#news"
+},
+{
+"text": "Play",
+"href": "https://drgregbonnen.com/wp-content/uploads/2025/05/border-security-thumbnail.jpg"
+},
+{
+"text": "Play",
+"href": "https://drgregbonnen.com/wp-content/uploads/2025/05/economy-thumbnail.jpg"
+},
+{
+"text": "Priorities",
+"href": "https://drgregbonnen.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drgregbonnen.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions/Privacy Policy apply.",
+"href": "https://drgregbonnen.com/privacy-policy"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/drgregbonnen"
+},
+{
+"text": "[image: banner-logo]",
+"href": "https://drgregbonnen.com"
+},
+{
+"text": "[image]",
+"href": "https://drgregbonnen.com"
+}
 ]

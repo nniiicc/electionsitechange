@@ -1,90 +1,40 @@
-top of page
-ARTICLES & PRESS
-Press Releases
-Campaign Finance Decision from SoS
-“Friday’s recommendation is wrong, and we’re appealing it,” said Victor Marx, Republican candidate for Colorado governor.
+top of page DONATE MEET VICTOR POLICIES Policies My Priorities Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT Menu Close DONATE ARTICLES & PRESS All Posts Press Releases Newsletters Op-Eds Press Releases Campaign Finance Decision from SoS “Friday’s recommendation is wrong, and we’re appealing it,” said Victor Marx, Republican candidate for Colorado governor.
 “A $57,647 fine against a first-time campaign that reported every contribution in the open is a political penalty.
 The bureaucrats asked for one number, and the hearing officer went even higher,” Marx said.
 “We’ll make our case, and we expect to win.” “Then there’s the timing,” Marx continued.
-“The recommendation arrives just as Colorado voters are about t
-VICTOR MARX: INITIATIVE 195 PUNISHES SUCCESS AND PUTS COLORADO JOBS AT RISK
-Republican nominee says Weiser is aligned with his party’s socialist wing and challenges him to support lower rates for every Coloradan FOR IMMEDIATE RELEASE September 2, 2026 (COLORADO SPRINGS, Colo.) — Republican nominee for Governor Victor Marx today warned that Initiative 195 would make Colorado a less competitive place to build a business, invest capital and create jobs.
+“The recommendation arrives just as Colorado voters are about t #ago 1 min read VICTOR MARX: INITIATIVE 195 PUNISHES SUCCESS AND PUTS COLORADO JOBS AT RISK Republican nominee says Weiser is aligned with his party’s socialist wing and challenges him to support lower rates for every Coloradan FOR IMMEDIATE RELEASE September 2, 2026 (COLORADO SPRINGS, Colo.) — Republican nominee for Governor Victor Marx today warned that Initiative 195 would make Colorado a less competitive place to build a business, invest capital and create jobs.
 “Colorado should be synonymous with opportunity and success, not with punishing both,” Marx said.
-“In
-Sep 22 min read
-VICTOR MARX SELECTS RETIRED MARINE COLONEL AND OPERATIONS EXECUTIVE, GEORGE MARKERT, AS RUNNING MATE
-FOR IMMEDIATE RELEASE July 31st, 2026 (DENVER, CO) - Republican gubernatorial nominee Victor Marx today announced that retired United States Marine Corps Colonel George Markert will join his campaign as the Republican candidate for lieutenant governor of Colorado.
+“In Sep 2 2 min read VICTOR MARX SELECTS RETIRED MARINE COLONEL AND OPERATIONS EXECUTIVE, GEORGE MARKERT, AS RUNNING MATE FOR IMMEDIATE RELEASE July 31st, 2026 (DENVER, CO) - Republican gubernatorial nominee Victor Marx today announced that retired United States Marine Corps Colonel George Markert will join his campaign as the Republican candidate for lieutenant governor of Colorado.
 Marx said he selected Markert because of his character, extensive leadership experience and ability to turn ambitious goals into disciplined execution.
-“I was not looking for someone who would simply agree with me o
-Jul 313 min read
-VICTOR MARX DOMINATES 9NEWS DEBATELOCKS UP GOP FRONT-RUNNER STATUS
-FOR IMMEDIATE RELEASE June 2, 2026 (DENVER, CO) — Victor Marx, the clear front-runner in the 2026 Colorado Republican gubernatorial primary, delivered a commanding performance in Tuesday night's 9News debate, further solidifying his position as the candidate best prepared to deliver common sense governance and fiscal responsibility to a state desperate for real leadership.
-From fundraising to polling to volunteer enthusiasm to grassroots social media support, every metr
-Jun 33 min read
-VICTOR MARX DOMINATES - First Public Poll Shows Commanding Lead in Colorado GOP Primary
-FOR IMMEDIATE RELEASE May 11, 2026 (COLORADO SPRINGS, CO) — The first public poll of the 2026 Republican Primary for Colorado Governor is out, and the results speak for themselves: Victor Marx is the clear frontrunner, and it's not even close.
+“I was not looking for someone who would simply agree with me o Jul 31 3 min read VICTOR MARX DOMINATES 9NEWS DEBATELOCKS UP GOP FRONT-RUNNER STATUS FOR IMMEDIATE RELEASE June 2, 2026 (DENVER, CO) — Victor Marx, the clear front-runner in the 2026 Colorado Republican gubernatorial primary, delivered a commanding performance in Tuesday night's 9News debate, further solidifying his position as the candidate best prepared to deliver common sense governance and fiscal responsibility to a state desperate for real leadership.
+From fundraising to polling to volunteer enthusiasm to grassroots social media support, every metr Jun 3 3 min read VICTOR MARX DOMINATES - First Public Poll Shows Commanding Lead in Colorado GOP Primary FOR IMMEDIATE RELEASE May 11, 2026 (COLORADO SPRINGS, CO) — The first public poll of the 2026 Republican Primary for Colorado Governor is out, and the results speak for themselves: Victor Marx is the clear frontrunner, and it's not even close.
 A statewide poll conducted May 7–8 by Cygnal Research & Polling shows Marx pulling 42% on the initial ballot, more than triple his nearest competitor.
-Once voters heard what the candidates actually stand for, his support jumped to 5
-May 112 min read
-VICTOR MARX SHATTERS FUNDRAISING MILESTONE RAISING OVER $2 MILLION FROM ALL 64 COLORADO COUNTIES
-Broad grassroots support reflects the coalition needed to win in November FOR IMMEDIATE RELEASE April 17, 2026 (COLORADO SPRINGS, CO) — The Victor Marx campaign today announced a significant milestone: more than $2 million raised in contributions since October 1, 2025, with donors from every single one of Colorado's 64 counties.
+Once voters heard what the candidates actually stand for, his support jumped to 5 May 11 2 min read VICTOR MARX SHATTERS FUNDRAISING MILESTONE RAISING OVER $2 MILLION FROM ALL 64 COLORADO COUNTIES Broad grassroots support reflects the coalition needed to win in November FOR IMMEDIATE RELEASE April 17, 2026 (COLORADO SPRINGS, CO) — The Victor Marx campaign today announced a significant milestone: more than $2 million raised in contributions since October 1, 2025, with donors from every single one of Colorado's 64 counties.
 This milestone is not just a fundraising number.
 It reflects where this campaign stands with everyday Coloradans.
-With an average donation of
-Apr 173 min read
-VICTOR MARX LEADS THE PACK IN GRASSROOTS VISIBILITY - DOUBLING DOWN ON DIRECT VOTER ENGAGEMENT AHEAD OF PRIMARY
-FOR IMMEDIATE RELEASE April 13, 2026 ( COLORADO SPRINGS, CO ) — Victor Marx is the most visible and accessible gubernatorial candidate in Colorado, and it's not close.
+With an average donation of Apr 17 3 min read VICTOR MARX LEADS THE PACK IN GRASSROOTS VISIBILITY - DOUBLING DOWN ON DIRECT VOTER ENGAGEMENT AHEAD OF PRIMARY FOR IMMEDIATE RELEASE April 13, 2026 ( COLORADO SPRINGS, CO ) — Victor Marx is the most visible and accessible gubernatorial candidate in Colorado, and it's not close.
 As other campaigns play it safe, Victor is on the road, meeting voters face to face in every corner of the state and adding new events every week at Victor2026.com .
-While other campaigns retreat to forums and small gatherings of political insiders, Victor Marx is taking his transparent primary campaign d
-Apr 132 min read
-VICTOR MARX WINS 39% OF DELEGATES AT COLORADO REPUBLICAN STATE ASSEMBLY SECURES BALLOT POSITION
-Strong Delegate Victory Delivers Clear Mandate.
+While other campaigns retreat to forums and small gatherings of political insiders, Victor Marx is taking his transparent primary campaign d Apr 13 2 min read VICTOR MARX WINS 39% OF DELEGATES AT COLORADO REPUBLICAN STATE ASSEMBLY SECURES BALLOT POSITION Strong Delegate Victory Delivers Clear Mandate.
 Colorado Republicans Unite Behind Marx to Take Back Colorado.
 DENVER, CO — In a commanding display of Republican unity, Victor Marx won 39% of delegates at the Colorado Republican State Assembly, earning ballot position for the governor's race by a decisive margin.
-Tonight’s result is one of the strongest showings in recent Colorado Republican primary history and sends an unmistakable signal: THE PARTY'S GRASSROOTS BASE HAS FOUN
-Apr 122 min read
-VICTOR MARX DELIVERS 28,541 PETITION SIGNATURES TO COLORADO SECRETARY OF STATE In Historic Grassroots Achievement
-FOR IMMEDIATE RELEASE March 18, 2026 (DENVER, CO) — The Victor Marx for Governor campaign today announced the submission of more than 28,500 Republican petition signatures to the Colorado Secretary of State's office.
+Tonight’s result is one of the strongest showings in recent Colorado Republican primary history and sends an unmistakable signal: THE PARTY'S GRASSROOTS BASE HAS FOUN Apr 12 2 min read VICTOR MARX DELIVERS 28,541 PETITION SIGNATURES TO COLORADO SECRETARY OF STATE In Historic Grassroots Achievement FOR IMMEDIATE RELEASE March 18, 2026 (DENVER, CO) — The Victor Marx for Governor campaign today announced the submission of more than 28,500 Republican petition signatures to the Colorado Secretary of State's office.
 This achievement marks a defining moment in the 2026 Republican primary and signals the extraordinary depth of grassroots support behind Marx's bid to become Colorado's next governor.
-The Marx campaign's decision to pursue a hybrid strategy simultaneously
-Mar 202 min read
-VICTOR MARX TO BE FEATURED SPEAKER AT INTERNATIONAL FAITH SUMMIT DURING CPAC USA 2026
-FOR IMMEDIATE RELEASE March 14, 2026 (Colorado Springs, CO) — The Victor Marx for Governor campaign is honored to announce that Republican candidate Victor Marx has accepted an invitation to be a featured speaker at the International Faith Summit during CPAC USA 2026, taking place Wednesday, March 25 th , at the Gaylord Texan Resort & Convention Center in Grapevine, Texas.
-This prestigious invitation to one of the largest annual gatherings of conservative leaders, off
-Mar 142 min read
-Victor Marx Calls on Governor Polis toRelease Tina Peters from Prison
-FOR IMMEDIATE RELEASE March 4 th 2026 (Colorado Springs, CO) – Victor Marx, candidate for Governor of Colorado, is strongly urging current Governor Jared Polis to grant clemency and immediately commute the sentence of former Mesa County Clerk Tina Peters.
+The Marx campaign's decision to pursue a hybrid strategy simultaneously Mar 20 2 min read VICTOR MARX TO BE FEATURED SPEAKER AT INTERNATIONAL FAITH SUMMIT DURING CPAC USA 2026 FOR IMMEDIATE RELEASE March 14, 2026 (Colorado Springs, CO) — The Victor Marx for Governor campaign is honored to announce that Republican candidate Victor Marx has accepted an invitation to be a featured speaker at the International Faith Summit during CPAC USA 2026, taking place Wednesday, March 25 th , at the Gaylord Texan Resort & Convention Center in Grapevine, Texas.
+This prestigious invitation to one of the largest annual gatherings of conservative leaders, off Mar 14 2 min read Victor Marx Calls on Governor Polis toRelease Tina Peters from Prison FOR IMMEDIATE RELEASE March 4 th 2026 (Colorado Springs, CO) – Victor Marx, candidate for Governor of Colorado, is strongly urging current Governor Jared Polis to grant clemency and immediately commute the sentence of former Mesa County Clerk Tina Peters.
 Marx issued the following statement earlier today: Governor Polis, As a leading candidate for Colorado governor, I am again urging you to grant clemency and commute the sentence of Tina Peters.
-Months ago, I said
-Mar 42 min read
-VICTOR MARX’S RESCUE COLORADO TOUR ENDS WITH HOPE AND UNITY
-FOR IMMEDIATE RELEASE March 2, 2026 (Colorado Springs, CO) – The “ RESCUE COLORADO TOUR ,” led by leading gubernatorial candidate Victor Marx, wrapped up after 15 days and 7 events, reaching thousands of Coloradans across six Colorado counties.
+Months ago, I said Mar 4 2 min read VICTOR MARX’S RESCUE COLORADO TOUR ENDS WITH HOPE AND UNITY FOR IMMEDIATE RELEASE March 2, 2026 (Colorado Springs, CO) – The “ RESCUE COLORADO TOUR ,” led by leading gubernatorial candidate Victor Marx, wrapped up after 15 days and 7 events, reaching thousands of Coloradans across six Colorado counties.
 Starting on February 13th in Golden, Colorado, the tour energized not just Republicans but also Unaffiliated and Democrat voters — all eager for change.
-The kickoff event drew a packed standing room only house of 400, setting a p
-Mar 22 min read
-VICTOR MARX LAUNCHES SIX CITY “COLORADO RESCUE TOUR”
-FOR IMMEDIATE RELEASE February 6, 2026 ( Colorado Springs, Colorado ) – Victor Marx, the Republican candidate for Colorado governor, is excited to announce the kick-off of his Colorado “Rescue Tour,” set to begin on February 13th in Golden, Colorado.
+The kickoff event drew a packed standing room only house of 400, setting a p Mar 2 2 min read VICTOR MARX LAUNCHES SIX CITY “COLORADO RESCUE TOUR” FOR IMMEDIATE RELEASE February 6, 2026 ( Colorado Springs, Colorado ) – Victor Marx, the Republican candidate for Colorado governor, is excited to announce the kick-off of his Colorado “Rescue Tour,” set to begin on February 13th in Golden, Colorado.
 This tour will span multiple cities, including Greeley, Westminster, Denver, Pueblo, and Thornton , with additional dates to be announced soon.
-Since declaring his candidacy, Victor Marx has emerged as the clear front-runne
-Feb 62 min read
-VICTOR MARX SHATTERS FUNDRAISING EXPECTATIONS IN JANUARY Raising over $300,000 in just 28 Days!
+Since declaring his candidacy, Victor Marx has emerged as the clear front-runne Feb 6 2 min read VICTOR MARX SHATTERS FUNDRAISING EXPECTATIONS IN JANUARY Raising over $300,000 in just 28 Days!
 For Immediate Release January 29, 2026 ( Colorado Springs, CO ) – The Victor Marx campaign is thrilled to announce that our January fundraising efforts have surpassed all expectations.
 In just 28 days, we have achieved a remarkable milestone.
-This success not only exceeds our initial goals but also generates significant momentum for
-Jan 292 min read
-VICTOR MARX DOMINATES GOVERNOR’S RACE
-VICTOR MARX DOMINATES GOVERNOR’S RACE - Campaign Reports Over $600,000 Raised in Only 90 Days!
-Jan 162 min read
-VICTOR MARX DOMINATES COLORADO GOVERNOR’S RACE
-Campaign Reports Over $600,000 Raised in Only 90 Days!
+Victor has raised over $300,000 in the first 28 days of January , a groundbreaking accomplishment for a campaign still in its early stages.
+This success not only exceeds our initial goals but also generates significant momentum for Jan 29 2 min read VICTOR MARX DOMINATES GOVERNOR’S RACE VICTOR MARX DOMINATES GOVERNOR’S RACE - Campaign Reports Over $# Raised in Only # Days!
+Jan 16 # min read VICTOR MARX DOMINATES COLORADO GOVERNOR’S RACE Campaign Reports Over $600,000 Raised in Only 90 Days!
+FOR IMMEDIATE RELEASE January 7, 2026 COLORADO SPRINGS, CO — The Victor Marx campaign for Colorado Governor is proud to announce an impressive first financial filing, revealing that the campaign has raised $603,110.75 as of December 31, 2025 with over $330,638.44 cash on hand.
 The success of this first quarter is all thanks to 4,133 donors representing all 64 counties across Colorado!
-This remarkable achievement undersc
-Jan 112 min read
-Victor Marx Launches Campaign for Governor: A Vision for Faith, Family, and Freedom in Colorado
-COLORADO SPRINGS, CO – In a state rich with natural beauty and resilient spirit, Colorado stands at a crossroads.
+This remarkable achievement undersc Jan 11 2 min read Victor Marx Launches Campaign for Governor: A Vision for Faith, Family, and Freedom in Colorado COLORADO SPRINGS, CO – In a state rich with natural beauty and resilient spirit, Colorado stands at a crossroads.
 Rising costs, eroding values, and policies that prioritize politics over people have left many families feeling overlooked.
 Today, we are proud to announce the official launch of Victor Marx's campaign for Governor of Colorado in the 2026 election.
-As a United States Marine Corps veteran, high-risk missionary, and founder of All Things Possible Ministries, Victor
-Oct 10, 20253 min read
-ALEN BLANCO HARNANDEZ 2035
-bottom of page
+As a United States Marine Corps veteran, high-risk missionary, and founder of All Things Possible Ministries, Victor Oct 10, 2025 3 min read MEET VICTOR POLICIES Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

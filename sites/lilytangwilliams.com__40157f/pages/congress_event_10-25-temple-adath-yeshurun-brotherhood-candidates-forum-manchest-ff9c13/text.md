@@ -1,7 +1,5 @@
-10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester
-October 25 @ 8:45 am
-Sunday, 10/25 – Doors open at 8:45 AM
-Temple Adath Yeshurun, 152 Prospect Street, Manchester, NH
-The Brotherhood’s long-running candidates forum, moderated by former Ambassador George Bruno.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester October 25 @ 8:45 am « 10/22 – ASK ME ANYTHING Town Hall – Nashua TEAM LILY – Winchester Republican Committee Meeting » Sunday, 10/25 – Doors open at 8:45 AM Temple Adath Yeshurun, 152 Prospect Street, Manchester, NH The Brotherhood’s long-running candidates forum, moderated by former Ambassador George Bruno.
 Opening statements, then audience Q&A.
 Free admission; bagels and coffee served.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 25 Time: 8:45 am Event Category: Events « 10/22 – ASK ME ANYTHING Town Hall – Nashua TEAM LILY – Winchester Republican Committee Meeting » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

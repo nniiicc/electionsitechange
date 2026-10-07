@@ -1,13 +1,58 @@
 [
-"http://movementmktg.com/",
-"https://beelerformichigan.com/",
-"https://beelerformichigan.com/copy-of-endorsements",
-"https://beelerformichigan.com/getinvolved",
-"https://beelerformichigan.com/issues",
-"https://beelerformichigan.com/meetandrew",
-"https://beelerformichigan.com/privacy",
-"https://facebook.com/andrewbeeler2020",
-"https://instagram.com/andrewwbeeler",
-"https://secure.winred.com/andrew-beeler-for-state-senate/donate-today",
-"https://secure.winred.com/andrew-beeler-for-state-senate/donate1"
+{
+"text": "DONATE NOW!",
+"href": "https://secure.winred.com/andrew-beeler-for-state-senate/donate1"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/andrew-beeler-for-state-senate/donate-today"
+},
+{
+"text": "Gallery",
+"href": "https://www.beelerformichigan.com/copy-of-endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.beelerformichigan.com/getinvolved"
+},
+{
+"text": "Issues + FAQ's",
+"href": "https://www.beelerformichigan.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.beelerformichigan.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.beelerformichigan.com/meetandrew"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.beelerformichigan.com/meetandrew"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beelerformichigan.com/privacy"
+},
+{
+"text": "Website created by Movement Marketing.",
+"href": "http://www.movementmktg.com"
+},
+{
+"text": "[image: AB-blueNred.jpg]",
+"href": "https://www.beelerformichigan.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/andrewbeeler2020"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/andrewwbeeler/"
+},
+{
+"text": "abeeler@beelerformichigan.com",
+"href": "mailto:abeeler@beelerformichigan.com"
+}
 ]

@@ -1,14 +1,62 @@
 [
-"http://bit.ly/FeedDG",
-"http://ksvotes.org/",
-"https://bit.ly/FeedDGvol",
-"https://brooklynnemosley.com/",
-"https://brooklynnemosley.com/meet-brooklynne-1",
-"https://brooklynnemosley.com/platform",
-"https://brooklynnemosley.com/snap-fact-sheet",
-"https://dgcoks.gov/county-clerk/voting-and-elections/ways-to-vote",
-"https://docs.google.com/forms/d/e/1FAIpQLSd6hlRtv0793QVSrIO2spmwOiBKp-Ktk42eMCCFmUfkeq2wgw/viewform",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://kslegislature.gov/li/b2025_26/members/rep_mosley_brooklynne_1",
-"https://secure.actblue.com/donate/bkforhd46"
+{
+"text": "Check Here",
+"href": "http://bit.ly/FeedDG"
+},
+{
+"text": "Check Your Registration",
+"href": "http://ksvotes.org"
+},
+{
+"text": "Contact Brooklynne",
+"href": "mailto:bk@brooklynnemosley.com?subject=Question+or+Request"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bkforhd46"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd6hlRtv0793QVSrIO2spmwOiBKp-Ktk42eMCCFmUfkeq2wgw/viewform"
+},
+{
+"text": "Home",
+"href": "https://brooklynnemosley.com/"
+},
+{
+"text": "How To cast your ballot",
+"href": "https://www.dgcoks.gov/county-clerk/voting-and-elections/ways-to-vote"
+},
+{
+"text": "Kansas Legislature",
+"href": "https://www.kslegislature.gov/li/b2025_26/members/rep_mosley_brooklynne_1/"
+},
+{
+"text": "Meet Brooklynne",
+"href": "https://brooklynnemosley.com/meet-brooklynne-1"
+},
+{
+"text": "Platform",
+"href": "https://brooklynnemosley.com/platform"
+},
+{
+"text": "Register To Vote",
+"href": "http://ksvotes.org"
+},
+{
+"text": "SNAP Fact Sheet",
+"href": "https://brooklynnemosley.com/snap-fact-sheet"
+},
+{
+"text": "Volunteer at local food pantry",
+"href": "https://bit.ly/FeedDGvol"
+},
+{
+"text": "[image]",
+"href": "https://brooklynnemosley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

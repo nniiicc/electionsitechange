@@ -1,7 +1,22 @@
 [
-"http://sabikumar.com/about-1.html",
-"http://sabikumar.com/home.html",
-"http://sabikumar.com/issues.html",
-"http://sabikumar.com/publications.html",
-"http://sabikumar.com/serving-you.html"
+{
+"text": "About",
+"href": "http://www.sabikumar.com/about-1.html"
+},
+{
+"text": "Home",
+"href": "http://www.sabikumar.com/home.html"
+},
+{
+"text": "Issues",
+"href": "http://www.sabikumar.com/issues.html"
+},
+{
+"text": "Publications",
+"href": "http://www.sabikumar.com/publications.html"
+},
+{
+"text": "Serving You",
+"href": "http://www.sabikumar.com/serving-you.html"
+}
 ]

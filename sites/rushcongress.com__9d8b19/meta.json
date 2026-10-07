@@ -1,7 +1,12 @@
 {
  "description": "Explore Rush Congress to stay updated on our upcoming initiatives and events. Join us as we shape the future together!",
  "final_url": "https://rushcongress.com/",
- "paid_for_by": "Paid for by Rob Ruszkowski ( Rush ) for Congress Rising Fawn GA 30738 Donations processed via Donorbox \u2022 We do not sell your data \u201cTranslations are mac",
+ "fingerprint": "9c8d23f180650f6c948cc6224c3e100f7410735c",
+ "format": 3,
+ "paid_for_by": "Paid for by Rob Ruszkowski ( Rush ) for Congress Rising Fawn GA 30738 Donations processed via Donorbox • We do not sell your data “Translations are machine-generated; plea",
  "title": "Home | Rush Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2028"
+ ]
 }

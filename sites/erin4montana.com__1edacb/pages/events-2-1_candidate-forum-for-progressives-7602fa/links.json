@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+for+Progressives+%40+St.+Paul%E2%80%99s+United+Methodist+Church&dates=20260429T000000Z%2F20260429T020000Z&location=512+Logan+Street%2C+Helena%2C+MT+59601%2C+United+States",
-"http://maps.google.com/?q=512+Logan+Street+Helena%2C+MT+59601+United+States",
-"https://erin4montana.com/",
-"https://erin4montana.com/about-erin-farris-olsen",
-"https://erin4montana.com/blog",
-"https://erin4montana.com/cart",
-"https://erin4montana.com/contact-erin-farris-olsen",
-"https://erin4montana.com/donate-to-erin-farris-olsen",
-"https://erin4montana.com/events-2-1",
-"https://erin4montana.com/events-2-1/96e53k9gvs6vb6195z6qixt0wh5h1c",
-"https://erin4montana.com/events-2-1/candidate-forum-for-progressives?format=ical",
-"https://erin4montana.com/events-2-1/sd41-candidate-forum",
-"https://erin4montana.com/issues",
-"https://erin4montana.com/services-1",
-"https://erin4montana.com/terms-of-service-1",
-"https://erin4montana.com/whats-cookin",
-"https://facebook.com/profile.php?id=61576145584064",
-"https://facebook.com/share/1XExbbRjo1",
-"https://instagram.com/erinformontana",
-"https://x.com/erinformontana"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=512+logan+street+helena%2C+mt+59601+united+states"
+},
+{
+"text": "0",
+"href": "https://www.erin4montana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.erin4montana.com/about-erin-farris-olsen"
+},
+{
+"text": "Additional Terms and Conditions",
+"href": "https://www.erin4montana.com/terms-of-service-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.erin4montana.com/events-2-1"
+},
+{
+"text": "Contact",
+"href": "https://www.erin4montana.com/contact-erin-farris-olsen"
+},
+{
+"text": "Donate Here",
+"href": "https://www.erin4montana.com/donate-to-erin-farris-olsen"
+},
+{
+"text": "Endorsements",
+"href": "https://www.erin4montana.com/blog"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/1XExbbRjo1/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+for+Progressives+%40+St.+Paul%E2%80%99s+United+Methodist+Church&dates=20260429T000000Z%2F20260429T020000Z&location=512+Logan+Street%2C+Helena%2C+MT+59601%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.erin4montana.com/events-2-1/candidate-forum-for-progressives?format=ical"
+},
+{
+"text": "Neighborhood Notes",
+"href": "https://www.erin4montana.com/services-1"
+},
+{
+"text": "Next Next May 9 Join me at Don’t Fence Me In (5K Dog Walk)",
+"href": "https://www.erin4montana.com/events-2-1/96e53k9gvs6vb6195z6qixt0wh5h1c"
+},
+{
+"text": "Previous Previous April 27 SD41 Candidate Forum @ L&C Public Library",
+"href": "https://www.erin4montana.com/events-2-1/sd41-candidate-forum"
+},
+{
+"text": "Priorities",
+"href": "https://www.erin4montana.com/issues"
+},
+{
+"text": "What's Cookin'",
+"href": "https://www.erin4montana.com/whats-cookin"
+},
+{
+"text": "[image: Erin Farris-Olsen for Senate District 41]",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/erinformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576145584064"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/erinformontana"
+},
+{
+"text": "erin4montana.com/donate-to-erin-farris-olsen",
+"href": "https://www.erin4montana.com/donate-to-erin-farris-olsen"
+}
 ]

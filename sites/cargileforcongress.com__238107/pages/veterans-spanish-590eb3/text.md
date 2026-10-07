@@ -1,12 +1,13 @@
-Veterans
-We all swore an oath to the constitution!
-La representante Norma Torres ha violado su Juramento de Oficio de múltiples maneras.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Veterans We all swore an oath to the constitution!
+Veterans The Constitution Norma Supports Open Borders La representante Norma Torres ha violado su Juramento de Oficio de múltiples maneras.
 Cualquier veterano que vote a favor, o la apoye, potencialmente lo hace en violación de su propio Juramento de Oficio o alistamiento para defender la Constitución contra “todos los enemigos, extranjeros y nacionales”.
 Norma Torres votó a favor del socialismo (H.
 Con.
-Res. 9), que es una forma alternativa de gobierno a nuestra República Constitucional y una clara violación del artículo 6.
+Res.
+9), que es una forma alternativa de gobierno a nuestra República Constitucional y una clara violación del artículo 6.
 Ningún veterano que juró defender nuestra Constitución puede apoyar a alguien que vote en contra de ella.
-Norma se negó a condenar la política de fronteras abiertas de Biden (H.R. 957) y siempre ha abogado por una frontera sur muy abierta que ha resultado en una invasión de los Estados Unidos y es una violación directa del artículo 4, sección 4 de la Constitución.
+Norma se negó a condenar la política de fronteras abiertas de Biden (H.R.
+957) y siempre ha abogado por una frontera sur muy abierta que ha resultado en una invasión de los Estados Unidos y es una violación directa del artículo 4, sección 4 de la Constitución.
 Norma Torres apoya clases como “Cómo vestirse en el ejército” y “Desconstruir el patriotismo” que se enseñan en nuestras Academias Militares.
 Norma Torres se ha negado sistemáticamente a condenar la desastrosa retirada del Afganistán y la pérdida de vidas y miembros sufridos por nuestras tropas, por no mencionar los 85 mil millones de dólares en armas y equipo que han quedado en brazos de nuestros enemigos.
 Norma ha priorizado las necesidades y el apoyo de Ucrania (al menos 250 mil millones de dólares) sobre los veterinarios estadounidenses sin hogar y perjudicados.
@@ -23,3 +24,6 @@ Mi padre biológico fue asesinado por un francotirador en Vietnam cuando era un 
 Mi madre se volvió a casar con uno de sus compañeros de clase de West Point (a quien considero mi verdadero “padre”) que recibió dos Corazones Purple y fue asesinado hace un par de años por los protocolos de Covid.
 Serví en servicio activo como Oficial del Ejército durante un breve período durante la Tormenta del Desierto.
 El cuidado y la preocupación por nuestros veteranos es muy personal para mí y siempre estará en la vanguardia de mi mente y en la cima de mis prioridades.
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

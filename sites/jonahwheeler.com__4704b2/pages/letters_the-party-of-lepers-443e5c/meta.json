@@ -1,7 +1,9 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/the-party-of-lepers",
- "paid_for_by": null,
+ "fingerprint": "f123f88a60280bf52e8208af6627ca62543f75cf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monthly Letter",
  "years_mentioned": [
   "2025"

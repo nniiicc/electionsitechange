@@ -1,23 +1,142 @@
 [
-"https://bsky.app/profile/senjohnmarty.bsky.social",
-"https://instagram.com/senjohnmarty",
-"https://johnmarty.org/",
-"https://johnmarty.org/accomplishments",
-"https://johnmarty.org/contact",
-"https://johnmarty.org/contribute",
-"https://johnmarty.org/endorsements",
-"https://johnmarty.org/issues",
-"https://johnmarty.org/meet-john",
-"https://johnmarty.org/news",
-"https://johnmarty.org/post/climate-change",
-"https://johnmarty.org/post/domestic-violence",
-"https://johnmarty.org/post/economic-justice-for-all",
-"https://johnmarty.org/post/education",
-"https://johnmarty.org/post/government-ethics-and-campaign-finance-reform",
-"https://johnmarty.org/post/healthcare",
-"https://johnmarty.org/post/labor-jobs-and-the-economy",
-"https://johnmarty.org/post/reproductive-rights",
-"https://johnmarty.org/post/transportation",
-"https://johnmarty.org/testimonials",
-"https://johnmarty.org/volunteer"
+{
+"text": "Accomplishments",
+"href": "https://www.johnmarty.org/accomplishments"
+},
+{
+"text": "All Endorsements",
+"href": "https://www.johnmarty.org/endorsements"
+},
+{
+"text": "Climate Change",
+"href": "https://www.johnmarty.org/post/climate-change"
+},
+{
+"text": "Contact",
+"href": "https://www.johnmarty.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.johnmarty.org/contribute"
+},
+{
+"text": "Domestic Violence",
+"href": "https://www.johnmarty.org/post/domestic-violence"
+},
+{
+"text": "Donate",
+"href": "https://www.johnmarty.org/contribute"
+},
+{
+"text": "Economic Justice",
+"href": "https://www.johnmarty.org/post/economic-justice-for-all"
+},
+{
+"text": "Education",
+"href": "https://www.johnmarty.org/post/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnmarty.org/endorsements"
+},
+{
+"text": "Government Ethics and Campaign Fiance Reform",
+"href": "https://www.johnmarty.org/post/government-ethics-and-campaign-finance-reform"
+},
+{
+"text": "Healthcare",
+"href": "https://www.johnmarty.org/post/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.johnmarty.org/"
+},
+{
+"text": "Learn More",
+"href": "https://www.johnmarty.org/meet-john"
+},
+{
+"text": "Meet John",
+"href": "https://www.johnmarty.org/meet-john"
+},
+{
+"text": "News",
+"href": "https://www.johnmarty.org/news"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.johnmarty.org/post/reproductive-rights"
+},
+{
+"text": "Testimonials",
+"href": "https://www.johnmarty.org/testimonials"
+},
+{
+"text": "The Economy",
+"href": "https://www.johnmarty.org/post/labor-jobs-and-the-economy"
+},
+{
+"text": "The Issues",
+"href": "https://www.johnmarty.org/issues"
+},
+{
+"text": "Transportation",
+"href": "https://www.johnmarty.org/post/transportation"
+},
+{
+"text": "View All Endorsements",
+"href": "https://www.johnmarty.org/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnmarty.org/volunteer"
+},
+{
+"text": "[image: Instagram Logo - Politician X Webflow Template]",
+"href": "https://www.instagram.com/senjohnmarty"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/senjohnmarty.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.johnmarty.org/"
+},
+{
+"text": "[image]Climate ChangeSenator Marty has been leading the fight against climate change in the Minnesota Senate. Because it is the biggest single threat to the future of society, John continues pushing for legislation to put a price on greenhouse gas emissions, to strengthen our use of renewable energy in every sector of the economy, and to keep fossil fuels in the ground.Read more",
+"href": "https://www.johnmarty.org/post/climate-change"
+},
+{
+"text": "[image]Domestic ViolenceEvery year, for about 30 Minnesotans, domestic violence is deadly. Roughly 800 more are hospitalized. Think of the families missing a daughter or a grandchild – thirty people killed every year and countless others living in fear and pain.Read more",
+"href": "https://www.johnmarty.org/post/domestic-violence"
+},
+{
+"text": "[image]Economic JusticeAbout one-in-ten Minnesotans live in poverty, and a third of all households are struggling to meet basic needs. Some workers cannot afford housing and go from their jobs to a homeless shelter at night. It is time for a bold approach to help all people thrive. Read more",
+"href": "https://www.johnmarty.org/post/economic-justice-for-all"
+},
+{
+"text": "[image]EducationEducation has made Minnesota the state it is today. Our future depends on all students having the opportunity to graduate ready for 21st Century success – whether they go on to a college, university or technical school or head straight to the workforce.Read more",
+"href": "https://www.johnmarty.org/post/education"
+},
+{
+"text": "[image]Government EthicsJohn Marty’s career in the senate is perhaps best defined by his nationally-recognized efforts to improve democracy in Minnesota, opening up the political process, taking on corporate powers and special interest money, and fighting conflicts of interest.Read more",
+"href": "https://www.johnmarty.org/post/government-ethics-and-campaign-finance-reform"
+},
+{
+"text": "[image]HealthcareSenator Marty led numerous fights against big Pharma’s price gouging and the corporate greed bankrupting our healthcare system. He has authored numerous laws to improve public health and our healthcare system. However, as important as these efforts are, John knows that we will never properly address health disparities and cannot have truly healthy communities until all people have comprehensive healthcare. That’s why he is the author and leading champion of the Minnesota Health Plan.Read more",
+"href": "https://www.johnmarty.org/post/healthcare"
+},
+{
+"text": "[image]Reproductive RightsJohn has been a consistent voice for reproductive rights, authoring legislation to protect a woman’s right to choose, pushing for comprehensive sexuality education and teaching consent and respect in an era of toxic online influence. Read more",
+"href": "https://www.johnmarty.org/post/reproductive-rights"
+},
+{
+"text": "[image]The EconomyTo keep the economy moving, Senator Marty supports policies to help workers thrive such as living wages, affordable childcare, and universal healthcare.Read more",
+"href": "https://www.johnmarty.org/post/labor-jobs-and-the-economy"
+},
+{
+"text": "[image]TransportationSenator Marty supports improving our transportation infrastructure to enable people to get where they need to go, quickly, efficiently, and affordably, in a manner that addresses our climate crisis. This includes a significant increase in use of transit and designing our communities to make walking, biking, and other modes of transportation more convenient and available. He has supported increasing the gas tax to address highway and road maintenance, and pushes for other changes to make our transportation system safer, more efficient, and affordable.Read more",
+"href": "https://www.johnmarty.org/post/transportation"
+}
 ]

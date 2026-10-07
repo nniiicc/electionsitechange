@@ -1,22 +1,86 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sethformontanacampaign",
-"https://flickr.com/sethformontanacampaign",
-"https://instagram.com/sethbodnarcampaign",
-"https://outorganize.com/seth-for-montana/forms/f/613b1e1c-d54c-4fcc-b71f-efdd39b92e41/fill",
-"https://sethformontana.com/",
-"https://sethformontana.com/About",
-"https://sethformontana.com/Platform",
-"https://sethformontana.com/contact",
-"https://sethformontana.com/donate",
-"https://sethformontana.com/endorsements",
-"https://sethformontana.com/events",
-"https://sethformontana.com/media",
-"https://sethformontana.com/news",
-"https://sethformontana.com/privacy-policy",
-"https://sethformontana.com/seths-record-at-um",
-"https://store.sethformontana.com/",
-"https://threads.net/@sethbodnarcampain",
-"https://x.com/SethBodnarForMT",
-"https://youtube.com/@SethForMontana"
+{
+"text": "About",
+"href": "https://www.sethformontana.com/About"
+},
+{
+"text": "Contact",
+"href": "https://www.sethformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sethformontana.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethformontana.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sethformontana.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.sethformontana.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sethformontana.com/media"
+},
+{
+"text": "News",
+"href": "https://www.sethformontana.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sethformontana.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sethformontana.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request Here",
+"href": "https://outorganize.com/seth-for-montana/forms/f/613b1e1c-d54c-4fcc-b71f-efdd39b92e41/fill"
+},
+{
+"text": "Seth's Record at UM",
+"href": "https://www.sethformontana.com/seths-record-at-um"
+},
+{
+"text": "Store",
+"href": "https://store.sethformontana.com/"
+},
+{
+"text": "[image: Seth Bodnar for Montana | Independent U.S. Senate Candidate]",
+"href": "https://www.sethformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sethformontanacampaign"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/sethformontanacampaign"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sethbodnarcampaign/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@sethbodnarcampain"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SethForMontana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SethBodnarForMT"
+}
 ]

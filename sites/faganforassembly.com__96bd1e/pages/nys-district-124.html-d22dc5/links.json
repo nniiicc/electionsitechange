@@ -1,18 +1,66 @@
 [
-"https://broomecountyny.gov/community/municipalities",
-"https://chemungcountyny.gov/604/Cities-Towns-Villages",
-"https://data.gis.ny.gov/datasets/sharegisny::nys-assembly-districts/explore?location=40.807870%2C-73.766162%2C10",
-"https://design.ncvl.shop/",
-"https://facebook.com/AndyforNYSAssembly",
-"https://faganforassembly.com/",
-"https://faganforassembly.com/about-andy.html",
-"https://faganforassembly.com/contact-andy.html",
-"https://faganforassembly.com/dyna-builder/user_images/state-and-seal-grey.png?img_id=54&sbid=276609",
-"https://faganforassembly.com/nys-district-124.html",
-"https://faganforassembly.com/privacy",
-"https://faganforassembly.com/privacy.html",
-"https://faganforassembly.com/resources.html",
-"https://faganforassembly.com/support-andy.html",
-"https://secure.actblue.com/donate/andyfagan",
-"https://tiogacountyny.com/towns-and-villages-page"
+{
+"text": "124th District Info",
+"href": "https://www.faganforassembly.com/nys-district-124.html"
+},
+{
+"text": "About Andy",
+"href": "https://www.faganforassembly.com/about-andy.html"
+},
+{
+"text": "Broome County",
+"href": "https://broomecountyny.gov/community/municipalities"
+},
+{
+"text": "Chemung County",
+"href": "https://chemungcountyny.gov/604/Cities-Towns-Villages"
+},
+{
+"text": "Contact",
+"href": "https://www.faganforassembly.com/contact-andy.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andyfagan"
+},
+{
+"text": "Here's a link to an interactive map of all NYS Assembly Districts",
+"href": "https://data.gis.ny.gov/datasets/sharegisny::nys-assembly-districts/explore?location=40.807870%2C-73.766162%2C10"
+},
+{
+"text": "Home",
+"href": "https://www.faganforassembly.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.faganforassembly.com/privacy.html"
+},
+{
+"text": "Resources",
+"href": "https://www.faganforassembly.com/resources.html"
+},
+{
+"text": "Support Andy",
+"href": "https://www.faganforassembly.com/support-andy.html"
+},
+{
+"text": "Tioga County",
+"href": "https://tiogacountyny.com/towns-and-villages-page/"
+},
+{
+"text": "Uncivilized Designs",
+"href": "https://design.ncvl.shop/"
+},
+{
+"text": "[image: Andy G. Fagan for Assembly]",
+"href": "https://www.faganforassembly.com/"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.faganforassembly.com/dyna-builder/user_images/state-and-seal-grey.png?img_id=54&sbid=276609"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AndyforNYSAssembly"
+}
 ]

@@ -1,5 +1,4 @@
-A lifetime fighting for working people
-Oregonians deserve leaders who get the job done.
+Home | Menu | Sign Up | Donate | En Español Val Hoyle for Congress - http://www.valhoyle.com Fighting for Working Families About Val Priorities Endorsements News Request a Sign Contact Donate En Español About Val A lifetime fighting for working people Oregonians deserve leaders who get the job done.
 Val Hoyle’s record of standing up for Oregon’s hardworking families and small businesses stems from a lifetime of experience.
 Growing up in a family with union roots that go back three generations, Val’s firefighter father taught her that you have to work hard for everything you get — and you also have to hold the ladder so the next person has the opportunity to climb.
 Val turned those lessons into action as a waitress working for minimum wage.
@@ -12,15 +11,16 @@ Val has secured a three-fold increase in settlements for victims of discriminati
 Previously, Val represented the residents of West Eugene and Junction City in the Oregon Legislature.
 During her tenure in the Legislature, she was elected to serve as Majority Leader.
 In Congress, Val fights for the needs of working people every day.
-She has led successful efforts to:
-- Reauthorize the Secure Rural Schools Act to protect $80 million in annual funding for Oregon schools and roads
-- Pass the 21st Century Road to Housing Act, the most significant housing package in decades, to bring down housing costs
-- Invest more than $33 million in Southwest Oregon for airport and port improvements, water infrastructure, education, public safety and workforce housing
-- Restore benefits for retired teachers, firefighters, police officers, and other public servants whose Social Security was unfairly cut
-- Stabilize our wildfire fighting workforce by securing a permanent pay increase for federal firefighters.
-She co-sponsored Tim’s Act to improve their housing and mental health benefits
-- Secure $1.3 million to expand child care in Douglas County.
-Val supports the American Family Act, Child Care for Every Community Act, and Child Care for Working Families Act to lower childcare costs
-Val has made Lane County her home for more than twenty years.
+She has led successful efforts to: Reauthorize the Secure Rural Schools Act to protect $80 million in annual funding for Oregon schools and roads Pass the 21st Century Road to Housing Act, the most significant housing package in decades, to bring down housing costs Invest more than $33 million in Southwest Oregon for airport and port improvements, water infrastructure, education, public safety and workforce housing Restore benefits for retired teachers, firefighters, police officers, and other public servants whose Social Security was unfairly cut Stabilize our wildfire fighting workforce by securing a permanent pay increase for federal firefighters.
+She co-sponsored Tim’s Act to improve their housing and mental health benefits Secure $1.3 million to expand child care in Douglas County.
+Val supports the American Family Act, Child Care for Every Community Act, and Child Care for Working Families Act to lower childcare costs Val has made Lane County her home for more than twenty years.
 She and her husband Stephen raised their two children here.
 She and Stephen live in Springfield with their beloved cat.
+Join the Movement We can’t win this fight if we don’t join together and fight back against the billionaires.
+Be part of our movement and chip in today.
+Click on an amount to get started and contribute to support Val Hoyle.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# OTHER Sign up to Get Involved Get a Lawn Sign Help us Spread the Word Putting Working People First Val Hoyle’s record of standing up for Oregon’s hardworking families and small businesses stems from a lifetime of experience.
+From her union roots, to her leadership in Oregon's government, she always puts working people first.
+Val Hoyle’s record of standing up for Oregon’s hardworking families and small businesses stems from a lifetime of experience.
+MEET VAL » About Val Priorities Endorsements News Request a Sign Contact Donate Paid for and authorized by Val Hoyle for Congress.
+PO Box 657 | Springfield, OR 97477 Contact | Media Resources | Privacy Policy | Terms of Service © # Val Hoyle for Congress | Powered by Mandate Media .

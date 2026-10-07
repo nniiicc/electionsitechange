@@ -1,37 +1,162 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Baltimore+Racial+Justice+Action+13th+of+the+Month+&dates=20251113T230000Z%2F20251114T003000Z&location=4+Martin+Luther+King+Junior+Boulevard%2C+Baltimore%2C+MD%2C+21201%2C+United+States",
-"http://maps.google.com/?q=4+Martin+Luther+King+Junior+Boulevard+Baltimore%2C+MD%2C+21201+United+States",
-"https://bonfire.com/store/andy-ellis-for-governor",
-"https://eventbrite.com/e/moving-forward-tickets-1872890308329",
-"https://facebook.com/profile.php?id=100087765158737",
-"https://forms.gle/fQcpjtDTinWrcEWx5",
-"https://forms.gle/reX3fD7vTMC5SkhP8",
-"https://gogreen2026.com/",
-"https://gogreen2026.com/about-1",
-"https://gogreen2026.com/campaign-plan",
-"https://gogreen2026.com/cart",
-"https://gogreen2026.com/contact",
-"https://gogreen2026.com/donate",
-"https://gogreen2026.com/events",
-"https://gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025?format=ical",
-"https://gogreen2026.com/events/campaign-happy-hour-ybms4",
-"https://gogreen2026.com/events/gogreen-2026-live-stream-launch",
-"https://gogreen2026.com/get-involved",
-"https://gogreen2026.com/issues-2",
-"https://gogreen2026.com/media",
-"https://gogreen2026.com/meet-andy",
-"https://gogreen2026.com/meet-owen",
-"https://gogreen2026.com/news",
-"https://gogreen2026.com/platform",
-"https://gogreen2026.com/press-kit",
-"https://gogreen2026.com/priorities",
-"https://gogreen2026.com/take-action",
-"https://gogreen2026.com/volunteer",
-"https://gogreen2026.com/why-we-are-running",
-"https://instagram.com/gogreenmd",
-"https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W",
-"https://twitter.com/gogreen2026",
-"https://youtube.com/@GoGreen2026",
-"https://youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5",
-"https://youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4+martin+luther+king+junior+boulevard+baltimore%2C+md%2C+21201+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gogreen2026.com/cart"
+},
+{
+"text": "An IN PERSON BRJA 13th of the Month Event",
+"href": "https://www.eventbrite.com/e/moving-forward-tickets-1872890308329"
+},
+{
+"text": "Back",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gogreen2026.com/events"
+},
+{
+"text": "Bumper Stickers",
+"href": "https://forms.gle/fQcpjtDTinWrcEWx5"
+},
+{
+"text": "Campaign Plan",
+"href": "https://www.gogreen2026.com/campaign-plan"
+},
+{
+"text": "Contact",
+"href": "https://www.gogreen2026.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.gogreen2026.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.gogreen2026.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.gogreen2026.com/about-1"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.gogreen2026.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gogreen2026.com/issues-2"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.gogreen2026.com/media"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Baltimore+Racial+Justice+Action+13th+of+the+Month+&dates=20251113T230000Z%2F20251114T003000Z&location=4+Martin+Luther+King+Junior+Boulevard%2C+Baltimore%2C+MD%2C+21201%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025?format=ical"
+},
+{
+"text": "Livestream",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+},
+{
+"text": "Meet Andy",
+"href": "https://www.gogreen2026.com/meet-andy"
+},
+{
+"text": "Meet Owen",
+"href": "https://www.gogreen2026.com/meet-owen"
+},
+{
+"text": "Merchandise",
+"href": "https://www.bonfire.com/store/andy-ellis-for-governor/"
+},
+{
+"text": "News",
+"href": "https://www.gogreen2026.com/news"
+},
+{
+"text": "Next Next January 21 Campaign Happy Hour",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4"
+},
+{
+"text": "Platform",
+"href": "https://www.gogreen2026.com/platform"
+},
+{
+"text": "Podcast",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5"
+},
+{
+"text": "Press Kit",
+"href": "https://www.gogreen2026.com/press-kit"
+},
+{
+"text": "Previous Previous November 12 GoGreen 2026 Live Stream launch",
+"href": "https://www.gogreen2026.com/events/gogreen-2026-live-stream-launch"
+},
+{
+"text": "Priorities",
+"href": "https://www.gogreen2026.com/priorities"
+},
+{
+"text": "RSVP",
+"href": "https://www.eventbrite.com/e/moving-forward-tickets-1872890308329"
+},
+{
+"text": "Take Action",
+"href": "https://www.gogreen2026.com/take-action"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gogreen2026.com/volunteer"
+},
+{
+"text": "Why We Are Running",
+"href": "https://www.gogreen2026.com/why-we-are-running"
+},
+{
+"text": "Yard Signs",
+"href": "https://forms.gle/reX3fD7vTMC5SkhP8"
+},
+{
+"text": "[image: Andy Ellis For Governor 2026]",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "[no text]",
+"href": "https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gogreen2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100087765158737"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gogreenmd/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GoGreen2026"
+},
+{
+"text": "andy@gogreen2026.com",
+"href": "mailto:andy@gogreen2026.com"
+}
 ]

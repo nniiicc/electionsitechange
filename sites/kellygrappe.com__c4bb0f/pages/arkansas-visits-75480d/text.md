@@ -1,138 +1,14 @@
-Showing up in every corner of the state
-Statewide progress
-Dated stops come from the campaign ledger.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Kelly Across Arkansas Showing up in every corner of the state Kelly listens in person, travels county to county, and is building a campaign rooted in the whole of Arkansas.
+63 counties visited so far · 294 scheduled stops · 19 still ahead through Election Day.
+Invite Kelly County presence Statewide progress Dated stops come from the campaign ledger.
 The completed total also includes same-day stops that have not been split onto their own calendar line yet.
-- Counties visited 63 of 75 84% of Arkansas
-- Scheduled stops 294 Completed plus upcoming through Election Day
-- Completed stops 273 246 dated on the ledger · 27 same-day or unposted still to backfill
-- Upcoming stops 21 Through November 3, 2026
-- County assignments pending 5 Needs a county review
-All 75 counties
-Navy is a completed public stop.
+Counties visited 63 of 75 84% of Arkansas Scheduled stops 294 Completed plus upcoming through Election Day Completed stops 275 248 dated on the ledger · 27 same-day or unposted still to backfill Upcoming stops 19 Through November 3, 2026 County assignments pending 5 Needs a county review All 75 counties Navy is a completed public stop.
 Gold is an upcoming stop.
 A gold outline on navy means she has already been there and is scheduled to return.
-- Not yet documented: Arkansas
-- Not yet documented: Ashley
-- Visited + upcoming: Baxter
-- Visited: Benton
-- Visited: Boone
-- Visited: Bradley
-- Not yet documented: Calhoun
-- Visited: Carroll
-- Scheduled: Chicot
-- Visited: Clark
-- Visited: Clay
-- Visited: Cleburne
-- Visited: Cleveland
-- Visited: Columbia
-- Visited: Conway
-- Visited: Craighead
-- Visited: Crawford
-- Not yet documented: Crittenden
-- Visited: Cross
-- Not yet documented: Dallas
-- Visited: Desha
-- Visited: Drew
-- Visited + upcoming: Faulkner
-- Visited: Franklin
-- Visited: Fulton
-- Visited + upcoming: Garland
-- Visited + upcoming: Grant
-- Visited: Greene
-- Visited: Hempstead
-- Visited: Hot Spring
-- Visited: Howard
-- Visited: Independence
-- Visited: Izard
-- Visited: Jackson
-- Visited + upcoming: Jefferson
-- Visited: Johnson
-- Visited: Lafayette
-- Not yet documented: Lawrence
-- Visited + upcoming: Lee
-- Not yet documented: Lincoln
-- Visited: Little River
-- Visited: Logan
-- Visited: Lonoke
-- Visited + upcoming: Madison
-- Visited + upcoming: Marion
-- Visited + upcoming: Miller
-- Visited: Mississippi
-- Scheduled: Monroe
-- Visited: Montgomery
-- Visited: Nevada
-- Scheduled: Newton
-- Visited: Ouachita
-- Visited: Perry
-- Scheduled: Phillips
-- Visited: Pike
-- Visited: Poinsett
-- Visited: Polk
-- Visited: Pope
-- Visited: Prairie
-- Visited + upcoming: Pulaski
-- Visited: Randolph
-- Visited: Saline
-- Not yet documented: Scott
-- Visited: Searcy
-- Visited: Sebastian
-- Visited: Sevier
-- Visited: Sharp
-- Visited: St.
-Francis
-- Visited: Stone
-- Visited: Union
-- Visited: Van Buren
-- Visited + upcoming: Washington
-- Visited: White
-- Visited: Woodruff
-- Visited: Yell
-Campaign stops
-Filter by upcoming stops or view all public events, and optionally by county.
-October 2026(21)
-- October 6, 2026 Baxter County Farm Bureau annual convention Mountain Home
-- Baxter
-- October 6, 2026 Candidate forum — People Over Politics (VFW) Mountain Home
-- Baxter
-- October 7, 2026 Phillips, Lee, and Monroe immersion — King Biscuit weekend
-- Phillips
-- Lee
-- Monroe
-- October 8, 2026 League of Women Voters — Secretary of State forum Fayetteville
-- Washington
-- October 9, 2026 Fundraiser — Fayetteville Fayetteville
-- Washington
-- October 9, 2026 OLLI for Coffee — Jimmy’s Egg (Fayetteville) Fayetteville
-- Washington
-- October 10, 2026 Picklefest — Texarkana Texarkana
-- Miller
-- October 10, 2026 Turkey Drop — Yellville Yellville
-- Marion
-- October 11, 2026 Church — Hot Springs (NAACP / Braver Angels) Hot Springs
-- Garland
-- October 11, 2026 Hot Springs Film Festival Hot Springs
-- Garland
-- October 11, 2026 Speakeasy — Hot Springs Hot Springs
-- Garland
-- October 12, 2026 Razorback Touchdown Club (city TBA) County assignment pending
-- October 15, 2026 Arkansas TV — Secretary of State debate Conway
-- Faulkner
-- October 16, 2026 AYC youth retreat weekend — Little Rock Little Rock
-- Pulaski
-- October 17, 2026 Hillcrest HarvestFest — tabling Little Rock
-- Pulaski
-- October 17, 2026 Central Arkansas Pride — PRIDEFest and Parade Little Rock
-- Pulaski
-- October 17, 2026 UAPB Homecoming Pine Bluff
-- Jefferson
-- October 22, 2026 Lake Chicot Fall Fest — Lake Village Lake Village
-- Chicot
-- October 24, 2026 Weston Colt birthday County assignment pending
-- October 25, 2026 Madison and Newton immersion — Ponca Color Fest Ponca
-- Madison
-- Newton
-- October 31, 2026 Sheridan immersion — Grant County Sheridan
-- Grant
-Invite Kelly to your community
-Follow the trail across Arkansas, invite Kelly to listen in your county, or join the campaign so more communities are part of this work.
-Related: Arkansas presence · Events · Journey photos
+Visited ( 63 ) Scheduled ( 4 ) Visited + upcoming ( 10 ) Not yet documented ( 8 ) Not yet documented : Arkansas Not yet documented : Ashley Visited : Baxter Visited : Benton Visited : Boone Visited : Bradley Not yet documented : Calhoun Visited : Carroll Scheduled : Chicot Visited : Clark Visited : Clay Visited : Cleburne Visited : Cleveland Visited : Columbia Visited : Conway Visited : Craighead Visited : Crawford Not yet documented : Crittenden Visited : Cross Not yet documented : Dallas Visited : Desha Visited : Drew Visited + upcoming : Faulkner Visited : Franklin Visited : Fulton Visited + upcoming : Garland Visited + upcoming : Grant Visited : Greene Visited : Hempstead Visited : Hot Spring Visited : Howard Visited : Independence Visited : Izard Visited : Jackson Visited + upcoming : Jefferson Visited : Johnson Visited : Lafayette Not yet documented : Lawrence Visited + upcoming : Lee Not yet documented : Lincoln Visited : Little River Visited : Logan Visited : Lonoke Visited + upcoming : Madison Visited + upcoming : Marion Visited + upcoming : Miller Visited : Mississippi Scheduled : Monroe Visited : Montgomery Visited : Nevada Scheduled : Newton Visited : Ouachita Visited : Perry Scheduled : Phillips Visited : Pike Visited : Poinsett Visited : Polk Visited : Pope Visited : Prairie Visited + upcoming : Pulaski Visited : Randolph Visited : Saline Not yet documented : Scott Visited : Searcy Visited : Sebastian Visited : Sevier Visited : Sharp Visited : St.
+Francis Visited : Stone Visited : Union Visited : Van Buren Visited + upcoming : Washington Visited : White Visited : Woodruff Visited : Yell Campaign stops Filter by upcoming stops or view all public events, and optionally by county.
+Upcoming ( 19 ) All public ( 267 ) Filter by county All counties Arkansas Ashley Baxter Benton Boone Bradley Calhoun Carroll Chicot Clark Clay Cleburne Cleveland Columbia Conway Craighead Crawford Crittenden Cross Dallas Desha Drew Faulkner Franklin Fulton Garland Grant Greene Hempstead Hot Spring Howard Independence Izard Jackson Jefferson Johnson Lafayette Lawrence Lee Lincoln Little River Logan Lonoke Madison Marion Miller Mississippi Monroe Montgomery Nevada Newton Ouachita Perry Phillips Pike Poinsett Polk Pope Prairie Pulaski Randolph St.
+Francis Saline Scott Searcy Sebastian Sevier Sharp Stone Union Van Buren Washington White Woodruff Yell October 2026 ( 19 ) October 7, 2026 Phillips, Lee, and Monroe immersion — King Biscuit weekend Phillips Lee Monroe October 8, 2026 League of Women Voters — Secretary of State forum Fayetteville Washington October 9, 2026 Fundraiser — Fayetteville Fayetteville Washington October 9, 2026 OLLI for Coffee — Jimmy’s Egg (Fayetteville) Fayetteville Washington October 10, 2026 Picklefest — Texarkana Texarkana Miller October 10, 2026 Turkey Drop — Yellville Yellville Marion October 11, 2026 Church — Hot Springs (NAACP / Braver Angels) Hot Springs Garland October 11, 2026 Hot Springs Film Festival Hot Springs Garland October 11, 2026 Speakeasy — Hot Springs Hot Springs Garland October 12, 2026 Razorback Touchdown Club (city TBA) County assignment pending October 15, 2026 Arkansas TV — Secretary of State debate Conway Faulkner October 16, 2026 AYC youth retreat weekend — Little Rock Little Rock Pulaski October 17, 2026 Hillcrest HarvestFest — tabling Little Rock Pulaski October 17, 2026 Central Arkansas Pride — PRIDEFest and Parade Little Rock Pulaski October 17, 2026 UAPB Homecoming Pine Bluff Jefferson October 22, 2026 Lake Chicot Fall Fest — Lake Village Lake Village Chicot October 24, 2026 Weston Colt birthday County assignment pending October 25, 2026 Madison and Newton immersion — Ponca Color Fest Ponca Madison Newton October 31, 2026 Sheridan immersion — Grant County Sheridan Grant Invite Kelly to your community Follow the trail across Arkansas, invite Kelly to listen in your county, or join the campaign so more communities are part of this work.
+Invite Kelly Join the campaign Campaign calendar Related: Arkansas presence · Events · Journey photos Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

@@ -1,12 +1,54 @@
 [
-"http://secure.winred.com/jasinski-for-senate/donate",
-"https://facebook.com/SenatorJohnJasinski",
-"https://facebook.com/senatorjohnjasinski",
-"https://jasinskiforsenate.com/",
-"https://jasinskiforsenate.com/about-john",
-"https://jasinskiforsenate.com/issues",
-"https://jasinskiforsenate.com/news",
-"https://secure.winred.com/jasinski-for-senate/donate",
-"https://twitter.com/SenatorJasinski",
-"https://twitter.com/senatorjasinski"
+{
+"text": "About John",
+"href": "https://www.jasinskiforsenate.com/about-john/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jasinski-for-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jasinskiforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jasinskiforsenate.com/issues/"
+},
+{
+"text": "Learn more about where I stand",
+"href": "https://www.jasinskiforsenate.com/issues/"
+},
+{
+"text": "Make a contribution",
+"href": "http://secure.winred.com/jasinski-for-senate/donate"
+},
+{
+"text": "News",
+"href": "https://www.jasinskiforsenate.com/news/"
+},
+{
+"text": "Tweets by SenatorJasinski",
+"href": "https://twitter.com/SenatorJasinski"
+},
+{
+"text": "[image][image]",
+"href": "https://www.jasinskiforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorJohnJasinski/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/senatorjohnjasinski"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/senatorjasinski"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@jasinskiforsenate.com"
+}
 ]

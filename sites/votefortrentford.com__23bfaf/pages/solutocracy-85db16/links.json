@@ -1,14 +1,74 @@
 [
-"https://facebook.com/trentford.al",
-"https://instagram.com/trentford_al",
-"https://trentford.substack.com/",
-"https://votefortrentford.com/",
-"https://votefortrentford.com/articles",
-"https://votefortrentford.com/donate",
-"https://votefortrentford.com/issues",
-"https://votefortrentford.com/solutocracy",
-"https://votefortrentford.com/terms-of-use",
-"https://votefortrentford.com/videos",
-"https://votefortrentford.com/volunteer",
-"https://youtube.com/@TrentFord_AL/shorts"
+{
+"text": "About",
+"href": "https://votefortrentford.com/#about"
+},
+{
+"text": "Articles",
+"href": "https://votefortrentford.com/articles"
+},
+{
+"text": "Back to Campaign",
+"href": "https://votefortrentford.com/"
+},
+{
+"text": "Contact",
+"href": "https://votefortrentford.com/#contact"
+},
+{
+"text": "Issues",
+"href": "https://votefortrentford.com/issues"
+},
+{
+"text": "Platform",
+"href": "https://votefortrentford.com/#platform"
+},
+{
+"text": "SMS Terms",
+"href": "https://votefortrentford.com/terms-of-use"
+},
+{
+"text": "See My Platform",
+"href": "https://votefortrentford.com/#platform"
+},
+{
+"text": "Solutocracy",
+"href": "https://votefortrentford.com/solutocracy"
+},
+{
+"text": "Support Trent",
+"href": "https://votefortrentford.com/donate"
+},
+{
+"text": "Values",
+"href": "https://votefortrentford.com/#values"
+},
+{
+"text": "Videos",
+"href": "https://votefortrentford.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://votefortrentford.com/volunteer"
+},
+{
+"text": "[image: Trent Ford for Alabama State House District 7]",
+"href": "https://votefortrentford.com/"
+},
+{
+"text": "[no text]",
+"href": "https://trentford.substack.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/trentford.al"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/trentford_al/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@TrentFord_AL/shorts"
+}
 ]

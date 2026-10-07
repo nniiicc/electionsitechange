@@ -1,15 +1,58 @@
 [
-"https://heyvictor.com/",
-"https://myadcenter.google.com/",
-"https://robwagnerfororegon.com/",
-"https://robwagnerfororegon.com/about",
-"https://robwagnerfororegon.com/accessibility-statement",
-"https://robwagnerfororegon.com/contact",
-"https://robwagnerfororegon.com/endorsements",
-"https://robwagnerfororegon.com/news",
-"https://robwagnerfororegon.com/priorities",
-"https://robwagnerfororegon.com/privacy-policy",
-"https://secure.actblue.com/donate/webnew",
-"https://sos.oregon.gov/elections/campaign-finance/pages/search-campaign-finance.aspx",
-"https://youradchoices.com/control"
+{
+"text": "About",
+"href": "https://www.robwagnerfororegon.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.robwagnerfororegon.com/accessibility-statement/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/webnew?amount="
+},
+{
+"text": "Elections Division website",
+"href": "https://sos.oregon.gov/elections/campaign-finance/pages/search-campaign-finance.aspx"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robwagnerfororegon.com/endorsements/"
+},
+{
+"text": "Google My Ad Center",
+"href": "https://myadcenter.google.com/"
+},
+{
+"text": "News",
+"href": "https://www.robwagnerfororegon.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://www.robwagnerfororegon.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robwagnerfororegon.com/privacy-policy/"
+},
+{
+"text": "YourAdChoices",
+"href": "https://youradchoices.com/control"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.robwagnerfororegon.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "contact us",
+"href": "https://www.robwagnerfororegon.com/contact/"
+},
+{
+"text": "contact us electronically",
+"href": "https://www.robwagnerfororegon.com/contact/"
+}
 ]

@@ -1,22 +1,26 @@
-Ready to Vote?
-Make Your Voting Plan
-Have questions about voting?
+0 Skip to Content Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Folder: About Back Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Folder: Get Involved Back Volunteer Contact Headquarters Voter Information Ready to Vote?
+Make Your Voting Plan Have questions about voting?
 We have answers.
 Find answers to your questions about registering, where and when to vote, early voting, absentee ballots, and more.
-Election Day is Tuesday, November 3, 2026
-- You can register to vote online, by mail, or in person through your local Registrar of Voters. 2026 Registration Deadline: October 16, 2026 Missed the deadline?
+Election Day is Tuesday, November 3, 2026 How Do I Register to Vote?
+You can register to vote online, by mail, or in person through your local Registrar of Voters.
+2026 Registration Deadline: October 16, 2026 Missed the deadline?
 Connecticut allows eligible voters to register and vote through Same-Day Registration during the early voting period and on Election Day.
-Register Online → Voter Registration Check Your Registration → Voter Registration Lookup
-- Your Election Day polling location is based on your registered address.
+Register Online → Voter Registration Check Your Registration → Voter Registration Lookup Where Do I Vote?
+Your Election Day polling location is based on your registered address.
 Find Your Polling Place → Polling Location Lookup Check your voter registration and find your assigned polling location through Connecticut’s official voter lookup.
 Election Day: Tuesday, November 3, 2026.
 Polls are open from 6:00 AM to 8:00 PM.
 If you are in line by 8:00 PM, you will be allowed to vote.
-- Connecticut allows eligible voters to vote in person before Election Day.
+How Does Early Voting Work?
+Connecticut allows eligible voters to vote in person before Election Day.
 You do not need to provide a reason to vote early.
 In-person Early Voting occurs at your regular polling location.
-Early Voting Hours October 19 – November 1: 10:00 AM – 6:00 PM daily October 27 & 29: 8:00 AM – 8:00 PM Early Voting Information → Early Voting
-- Any eligible Connecticut voter can request an absentee ballot.
+Early Voting Hours October 19 – November 1 : 10:00 AM – 6:00 PM daily October 27 & 29: 8:00 AM – 8:00 PM Early Voting Information → Early Voting How Do I Vote By Absentee?
+Any eligible Connecticut voter can request an absentee ballot.
 You do not need to provide a reason or excuse to vote by absentee ballot.
 September 19, 2026 - Online absentee ballot application portal opens.
 October 2, 2026 - First day absentee ballots may be issued.
@@ -27,8 +31,8 @@ Request an Absentee Ballot Online → Online Absentee Ballot Request Request an 
 Voters must return their absentee ballots to the Town Clerk in their town by 8:00 PM on Election Day, November 3, 2026.
 This can be via the U.S.
 Postal Service, in person at your Town Clerk’s office, or using your town’s secure drop box.
-Find Your Ballot Drop Box → Ballot Drop Box Locations
-- What if I’m not on the voter list when I get to the polls?
+Find Your Ballot Drop Box → Ballot Drop Box Locations Other Questions?
+What if I’m not on the voter list when I get to the polls?
 If you are eligible to vote but are not listed as a registered voter, you may be able to register and vote through Same-Day Registration at your town’s designated location.
 You will need to provide proof of identity and residency.
 Can I see my ballot before I vote?
@@ -37,8 +41,15 @@ Connecticut provides town-by-town sample ballots so voters can review the candid
 What if I need help voting?
 Connecticut provides voting accommodations for voters with disabilities, including an accessible ballot-marking device available at every polling place.
 What if I have a problem at the polls?
-If you encounter a problem while voting, you can contact the Connecticut Election Day Hotline at 1-866-733-2463 or email elections@ct.gov.
+If you encounter a problem while voting, you can contact the Connecticut Election Day Hotline at 1-866-733-2463 or email elections@ct.gov .
 Where can I find more information?
 Visit MyVote.CT.gov for official information about registration, polling locations, early voting, absentee ballots, voter rights, and election dates.
 Have another question?
 Contact your local Registrar of Voters or Town Clerk for election information specific to your town.
+Cinzia Lettieri for State Representative Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Let's Stay in Touch Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+I can’t wait to share what is happening in the community with you!
+Volunteer ‍ ‍ Contact ‍ ‍ Instagram ‍ ‍ Facebook Paid for by Lettieri for State Rep, Treasurer Seth Kweller.
+Approved by Cinzia Lettieri

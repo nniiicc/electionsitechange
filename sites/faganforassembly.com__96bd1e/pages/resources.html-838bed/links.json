@@ -1,17 +1,62 @@
 [
-"https://chemungcountyny.gov/610/Community-Resources",
-"https://design.ncvl.shop/",
-"https://facebook.com/AndyforNYSAssembly",
-"https://faganforassembly.com/",
-"https://faganforassembly.com/about-andy.html",
-"https://faganforassembly.com/about.html",
-"https://faganforassembly.com/contact-andy.html",
-"https://faganforassembly.com/nys-district-124.html",
-"https://faganforassembly.com/privacy",
-"https://faganforassembly.com/privacy.html",
-"https://faganforassembly.com/resources.html",
-"https://faganforassembly.com/support-andy.html",
-"https://secure.actblue.com/donate/andyfagan",
-"https://thebcpl.org/community-resources",
-"https://tiogacountyny.com/community-agencies-page"
+{
+"text": "124th District Info",
+"href": "https://www.faganforassembly.com/nys-district-124.html"
+},
+{
+"text": "About Andy",
+"href": "https://www.faganforassembly.com/about-andy.html"
+},
+{
+"text": "Broome County Community Resources",
+"href": "https://www.thebcpl.org/community-resources"
+},
+{
+"text": "Chemuung County Community Resources",
+"href": "https://www.chemungcountyny.gov/610/Community-Resources"
+},
+{
+"text": "Contact",
+"href": "https://www.faganforassembly.com/contact-andy.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andyfagan"
+},
+{
+"text": "Home",
+"href": "https://www.faganforassembly.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.faganforassembly.com/privacy.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.faganforassembly.com/about.html"
+},
+{
+"text": "Resources",
+"href": "https://www.faganforassembly.com/resources.html"
+},
+{
+"text": "Support Andy",
+"href": "https://www.faganforassembly.com/support-andy.html"
+},
+{
+"text": "Tioga County Community Resources",
+"href": "https://tiogacountyny.com/community-agencies-page/"
+},
+{
+"text": "Uncivilized Designs",
+"href": "https://design.ncvl.shop/"
+},
+{
+"text": "[image: Andy G. Fagan for Assembly]",
+"href": "https://www.faganforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AndyforNYSAssembly"
+}
 ]

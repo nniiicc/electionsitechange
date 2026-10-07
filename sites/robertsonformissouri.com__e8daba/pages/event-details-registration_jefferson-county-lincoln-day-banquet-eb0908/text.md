@@ -1,7 +1,2 @@
-top of page
-Jefferson County Lincoln Day Banquet
-Fri, Oct 02
-|Oak Valley Golf Course and Resort
-Jefferson County Lincoln Day Banquet, Friday, October 2, 2026 from 6-10 PM, The Clubhouse at Oak Valley Golf Course, 1230 Abbey Lane, Pevely, MO 63070
-Tickets are not on sale
-bottom of page
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser Jefferson County Lincoln Day Banquet Fri, Oct 02 | Oak Valley Golf Course and Resort Jefferson County Lincoln Day Banquet, Friday, October 2, 2026 from 6-10 PM, The Clubhouse at Oak Valley Golf Course, 1230 Abbey Lane, Pevely, MO 63070 Tickets are not on sale See other events Time & Location Oct 02, 2026, 6:00 PM – 10:00 PM Oak Valley Golf Course and Resort, 1230 Abbey Ln, Pevely, MO 63070, USA Share this event David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

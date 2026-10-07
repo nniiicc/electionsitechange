@@ -1,9 +1,4 @@
-The Bennington Banner, July 8
-Cooking and Baking
-Home Repairs
-Photography and Camera Repair
-Gardening
-My wife Linda and I moved to Bennington from Florida in December of 2014.
+Tom Blakely Candidate for State Representative Bennington-5 tfb@tomblakely.com Read my op-ed from The Bennington Banner, July 8 Home About Me About My Candidacy Key Issues News and Events Contact Me Newsletters Music Donate Join Our Team Cooking and Baking Home Repairs Photography and Camera Repair Gardening My wife Linda and I moved to Bennington from Florida in December of 2014.
 Talk about a shock: the closing on our house was nearly postponed by a snowstorm!
 Since then we have come to appreciate the many joys of living in Vermont.
 I spent most of my professional career working in Information Technology as a systems and network architect and programmer.

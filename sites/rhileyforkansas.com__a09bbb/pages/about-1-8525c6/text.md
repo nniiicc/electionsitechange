@@ -1,4 +1,7 @@
-Bill has lived in KS for 35 years and is currently a resident of the city of Wellington, Kansas where he lives with his wife Diana.
+Home About FAQ Contact KS Rep.
+Party Platform Principals Quotes General Issues Issues #1 Issues #2 Issues #3 Family Policy Issues #1 ALEC Laws Needing Change Election questions More Home About FAQ Contact KS Rep.
+Party Platform Principals Quotes General Issues Issues #1 Issues #2 Issues #3 Family Policy Issues #1 ALEC Laws Needing Change Election questions Home About FAQ Contact KS Rep.
+Party Platform Principals Quotes General Issues Issues #1 Issues #2 Issues #3 Family Policy Issues #1 ALEC Laws Needing Change Election questions About Bill Bill has lived in KS for 35 years and is currently a resident of the city of Wellington, Kansas where he lives with his wife Diana.
 They have 3 grown sons, and 4 granddaughters, and 2 grandsons. .
 He is currently the publisher of the Belle Plaine News / Oxford Register / South Haven New Era Newspapers.
 He and Diana own a Bed and Breakfast in Wellington.
@@ -10,4 +13,4 @@ He has served on the Board of Directors and as State President of the Kansas Bed
 He is serving as a Trustee at his church.
 He has served on his local township board.
 Bill believes that it is vital to have a strong conservative Republican elected officials, and is running for the Kansas House of Representatives 80th District to send a small business and education advocate back to Topeka.
-Join Team Rhiley Today
+Join Team Rhiley Today Paid for by Rhiley for Kansas: Steve Abrams Treasurer Powered by

@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://fosterforhouse.com/issues",
- "paid_for_by": null,
+ "fingerprint": "f0383a8c60dbcbd06fc97cbafd229180910ff911",
+ "format": 3,
+ "paid_for_by": "authorized by a margin of only 1 vote",
  "title": "Issues",
- "years_mentioned": []
+ "years_mentioned": [
+  "1970"
+ ]
 }

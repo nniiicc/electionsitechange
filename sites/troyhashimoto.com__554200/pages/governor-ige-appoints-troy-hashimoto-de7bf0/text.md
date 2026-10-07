@@ -1,4 +1,4 @@
-HONOLULU – Gov.
+Toggle navigation Home About Troy Issues Media Contact Contribute Governor Ige Appoints Troy Hashimoto April 20, 2018 HONOLULU – Gov.
 David Ige appointed Troy Hashimoto to the Maui House seat previously occupied by former Rep.
 Joe Souki.
 Hashimoto has served as executive assistant to Maui County Council Chair Mike White since 2011.
@@ -15,4 +15,7 @@ With a short period left in the legislative session, my top priority will be to 
 I look forward to working with the community to make our home a better place,” said Hashimoto.
 Gov.
 Ige is required by law to make his selection from a list of three nominees submitted to him by the Democratic Party of Maui.
-###
+### Post navigation Join Troy for a Fundraiser on June 28 Leave a Reply Cancel Reply Your email address will not be published.
+Required fields are marked * You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Paid for by Friends of Troy Hashimoto P.O.
+Box 3028 Wailuku, Hawaii 96793

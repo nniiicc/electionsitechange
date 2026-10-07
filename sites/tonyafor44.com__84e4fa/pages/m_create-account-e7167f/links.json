@@ -1,17 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61579473254788",
-"https://instagram.com/tonya_stadlman",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/tonya-stadlman-for-state-representative/56eed732-b74b-4f1e-9369-516df5cad489",
-"https://tiktok.com/@tonyastadlman",
-"https://tonyafor44.com/m/account",
-"https://tonyafor44.com/m/create-account",
-"https://tonyafor44.com/m/login",
-"https://tonyafor44.com/meet-tonya",
-"https://tonyafor44.com/six-to-fix",
-"https://tonyafor44.com/support",
-"https://tonyafor44.com/tonya-vs-berg",
-"https://x.com/TonyaStadlman",
-"https://youtube.com/@Tonyafor44"
+{
+"text": "Create Account",
+"href": "https://tonyafor44.com/m/create-account"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/tonya-stadlman-for-state-representative/56eed732-b74b-4f1e-9369-516df5cad489"
+},
+{
+"text": "Meet Tonya",
+"href": "https://tonyafor44.com/meet-tonya"
+},
+{
+"text": "My Account",
+"href": "https://tonyafor44.com/m/account"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "SIX to FIX",
+"href": "https://tonyafor44.com/six-to-fix"
+},
+{
+"text": "Sign In",
+"href": "https://tonyafor44.com/m/account"
+},
+{
+"text": "Sign in",
+"href": "https://tonyafor44.com/m/login"
+},
+{
+"text": "Support",
+"href": "https://tonyafor44.com/support"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Tonya vs. Berg",
+"href": "https://tonyafor44.com/tonya-vs-berg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579473254788"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tonya_stadlman"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@tonyastadlman"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/TonyaStadlman"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Tonyafor44"
+},
+{
+"text": "support@tonya44.com",
+"href": "mailto:support@tonya44.com"
+}
 ]

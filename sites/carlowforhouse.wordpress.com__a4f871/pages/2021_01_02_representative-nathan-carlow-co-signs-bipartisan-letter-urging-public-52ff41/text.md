@@ -1,7 +1,9 @@
-STATE HOUSE/REMOTELY — Representative Nathan Carlow (R-Buxton), a member of the Joint Standing Committee on Energy, Utilities, and Technology, co-signed a letter drafted by Senator Joseph Baldacci (D-Penobscot) requesting that the Maine Public Utilities Commission reinstate the moratorium on utility disconnections that was in effect from March to November of last year.
+Skip to content Nathan Carlow for Representative Join Nathan in bringing common-sense solutions to the Maine State Legislature Menu + × expanded collapsed Home Meet Nathan Biography Newsroom Services Help With an Agency Sentiments and Letters Flag Requests Legislative Concerns Contact CONTRIBUTE Representative Nathan Carlow Co-Signs Bipartisan Letter Urging Public Utilities Commission to Reinstate Moratorium on Utility Disconnections Posted by communicationsdirector January 2, 2021 January 2, 2021 Posted in General STATE HOUSE/REMOTELY — Representative Nathan Carlow (R-Buxton), a member of the Joint Standing Committee on Energy, Utilities, and Technology, co-signed a letter drafted by Senator Joseph Baldacci (D-Penobscot) requesting that the Maine Public Utilities Commission reinstate the moratorium on utility disconnections that was in effect from March to November of last year.
 “With the remainder of Winter still ahead of us, it is crucial that the Commission reinstate the moratorium put in place earlier in the pandemic without delay,” Rep.
 Carlow said in a statement.
-“Many Mainers remain unemployed due to the far-reaching effects of the COVID-19 virus, and in these circumstances, no person who can’t afford these services should lose access to them.”
-The letter further requests that the moratorium be in place for at least 120 days, and also encourages the Commission to halt disconnection notices.
-###
-Supplements (2):
+“Many Mainers remain unemployed due to the far-reaching effects of the COVID-19 virus, and in these circumstances, no person who can’t afford these services should lose access to them.” The letter further requests that the moratorium be in place for at least 120 days, and also encourages the Commission to halt disconnection notices.
+### Supplements (2): download-pdf-version-1 Download pucdisconnectionmoratoriumletter Download Posted by communicationsdirector January 2, 2021 January 2, 2021 Posted in General Post navigation Previous Post Previous post: Rep.
+Carlow Introduces PUC Reform Bill Next Post Next post: Rep.
+Carlow Co-Sponsors Bipartisan Broadband Infrastructure Bill Leave a comment Cancel reply Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Log in now.
+Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

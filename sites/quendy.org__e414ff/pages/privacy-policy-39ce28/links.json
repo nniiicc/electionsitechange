@@ -1,24 +1,98 @@
 [
-"https://aboutcookies.org/",
-"https://allaboutcookies.org/",
-"https://facebook.com/1086427621215049",
-"https://facebook.com/about/basics/advertising",
-"https://facebook.com/policy.php",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://help.ads.microsoft.com/apex/index/3/en/52023",
-"https://linkedin.com/legal/cookie-policy",
-"https://linkedin.com/legal/privacy-policy",
-"https://optout.aboutads.info/",
-"https://optout.networkadvertising.org/",
-"https://policies.google.com/technologies/partner-sites",
-"https://quendy.org/",
-"https://quendy.org/blog",
-"https://quendy.org/events",
-"https://quendy.org/gallery",
-"https://quendy.org/give-1",
-"https://quendy.org/meet-the-candidate",
-"https://quendy.org/pets-over-politics",
-"https://quendy.org/priorities",
-"https://quendy.org/privacy-policy",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "Advertising Policies",
+"href": "https://help.ads.microsoft.com/apex/index/3/en/52023"
+},
+{
+"text": "Blog",
+"href": "https://quendy.org/blog"
+},
+{
+"text": "Data Policy",
+"href": "https://www.facebook.com/policy.php"
+},
+{
+"text": "Digital Advertising Alliance",
+"href": "https://optout.aboutads.info/"
+},
+{
+"text": "Events",
+"href": "https://quendy.org/events"
+},
+{
+"text": "Gallery",
+"href": "https://quendy.org/gallery"
+},
+{
+"text": "Give",
+"href": "https://quendy.org/give-1"
+},
+{
+"text": "Google Analytics Opt-out Browser Add-on",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "Google’s Privacy & Terms",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "Home",
+"href": "https://quendy.org/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://quendy.org/meet-the-candidate"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "https://optout.networkadvertising.org/"
+},
+{
+"text": "Pets Over Politics",
+"href": "https://quendy.org/pets-over-politics"
+},
+{
+"text": "Priorities",
+"href": "https://quendy.org/priorities"
+},
+{
+"text": "Privacy Center",
+"href": "https://www.facebook.com/about/basics/advertising"
+},
+{
+"text": "Privacy Policy",
+"href": "https://quendy.org/privacy-policy"
+},
+{
+"text": "[image: Quendy's Campaign Fund]",
+"href": "https://quendy.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/1086427621215049"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "quendy@quendy.org",
+"href": "mailto:quendy@quendy.org"
+},
+{
+"text": "website",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "website",
+"href": "https://www.facebook.com/about/basics/advertising"
+},
+{
+"text": "www.aboutcookies.org",
+"href": "https://www.aboutcookies.org/"
+},
+{
+"text": "www.allaboutcookies.org",
+"href": "https://www.allaboutcookies.org/"
+}
 ]

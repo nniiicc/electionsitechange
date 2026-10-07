@@ -1,31 +1,16 @@
-Houston, TX–This Saturday, Congresswoman Lizzie Fletcher (TX-07) filed her paperwork for re-election to the U.S.
+Skip to content About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store Menu About About Lizzie The District 2026 Election Endorsements News Lizzie in the News Press Releases Press Toolkit The District Volunteer Yard Signs Team Lizzie Store CONTRIBUTE PRESS RELEASE PRESS RELEASE Congresswoman Lizzie Fletcher Files for Re-Election in 2026 Houston, TX –This Saturday, Congresswoman Lizzie Fletcher (TX-07) filed her paperwork for re-election to the U.S.
 House of Representatives for Texas’ Seventh Congressional District, with the support and endorsement of leaders throughout the greater Houston area she represents.
-“I am so honored and so proud to represent Texas’ Seventh Congressional District,” said Congresswoman Lizzie Fletcher.
+“I am so honored and so proud to represent Texas’ Seventh Congressional District,” said Congresswoman Lizzie Fletcher .
 “This district represents the best of our community and our country–a welcoming, inclusive, innovative, and collaborative place where no idea is too small and no challenge is too big.
 It was my knowledge of and faith in these community values that inspired my first campaign for Congress in 2018 and that continue to guide my decision to seek re-election.
-“Once again, we are facing challenging and uncertain times for our community and our country,” continued Congresswoman Fletcher.
+“Once again, we are facing challenging and uncertain times for our community and our country,” continued Congresswoman Fletcher .
 “This Congress has failed to do the serious and hard work of governing–deferring to the White House time and again, refusing to do the work the people of this country need and deserve to make life more affordable and the American dream more achievable, and failing to defend the very principles and protections in our Constitution.
-“Now more than ever we need to send to Congress leaders who are committed to doing the work we need and protecting the values we share as Americans,” concluded Congresswoman Fletcher.
+“Now more than ever we need to send to Congress leaders who are committed to doing the work we need and protecting the values we share as Americans,” concluded Congresswoman Fletcher .
 “I am honored to have the support and partnership of so many community leaders and organizations in this work.
-I will continue to bring people together to do the important work ahead to defend our democracy, ensure equality, and restore our rights, all of which are on the ballot in 2026.”
-Congresswoman Fletcher has already received endorsements for the 2026 election from the following elected officials who represent people in and around the Seventh Congressional District:
-State Representative Ann Johnson
-State Representative Ron Reynolds
-State Representative Armando Walle
-State Representative Gene Wu
-Harris County Commissioner Lesley Briones
-Harris County Commissioner Rodney Ellis
-Harris County Commissioner Adrian Garcia
-Fort Bend County Commissioner Dexter McCoy
-Fort Bend County Commissioner Grady Prestage
-Harris County Sheriff Ed Gonzales
-Fort Bend County Sheriff Eric Fagan
-Harris County District Attorney Sean Teare
-City of Houston Controller Chris Hollins
-City of Houston Council Member Sallie Alcorn
-City of Houston Council Member Abbie Kamin
-City of Houston Council Member Tiffany Thomas
-City of Southside Place Mayor Andy Chan
-In addition, as the 2026 election season begins, Congresswoman Fletcher has already earned endorsements from EMILY’s List and the Latino Labor Leadership Council of Southeast Texas.
-###
-Now in her fourth term in Congress, Fletcher was first elected to represent Texas’ Seventh Congressional District in 2018, becoming the first Democrat in more than 50 years and the first woman ever to represent TX-07.
+I will continue to bring people together to do the important work ahead to defend our democracy, ensure equality, and restore our rights, all of which are on the ballot in 2026.” Congresswoman Fletcher has already received endorsements for the 2026 election from the following elected officials who represent people in and around the Seventh Congressional District: State Representative Ann Johnson State Representative Ron Reynolds State Representative Armando Walle State Representative Gene Wu Harris County Commissioner Lesley Briones Harris County Commissioner Rodney Ellis Harris County Commissioner Adrian Garcia Fort Bend County Commissioner Dexter McCoy Fort Bend County Commissioner Grady Prestage Harris County Sheriff Ed Gonzales Fort Bend County Sheriff Eric Fagan Harris County District Attorney Sean Teare City of Houston Controller Chris Hollins City of Houston Council Member Sallie Alcorn City of Houston Council Member Abbie Kamin City of Houston Council Member Tiffany Thomas City of Southside Place Mayor Andy Chan In addition, as the 2026 election season begins, Congresswoman Fletcher has already earned endorsements from EMILY’s List and the Latino Labor Leadership Council of Southeast Texas.
+### Now in her fourth term in Congress, Fletcher was first elected to represent Texas’ Seventh Congressional District in 2018, becoming the first Democrat in more than 50 years and the first woman ever to represent TX-07.
+ICYMI: Houston Chronicle Opinion: We recommend Lizzie Fletcher for the 7th Congressional District October 4, 2022 Houston Chronicle Editorial: We recommend Lizzie Fletcher for U.S.
+House District 7 September 30, 2020 Democrat Fletcher receives Republican support in battleground House election September 8, 2020 Olson and Fletcher Act to Expand Debt Forgiveness for Small Businesses Among Pandemic (video) August 11, 2020 As Trump Administration Works To Overturn Affordable Care Act, Congresswoman Lizzie Fletcher Speaks on House Floor To Protect Health Care for Texans July 6, 2020 Rep.
+Lizzie Fletcher pushing for $3 Billion buy for strategic oil reserve April 21, 2020 Bipartisan lawmakers urge assistance for oil and gas workers March 24, 2020 Harvey Relief Amendment Passes House February 7, 2020 Congresswoman Lizzie Fletcher On How Houston Could Recover Quicker From Floods And Hurricanes November 11, 2019 FOLLOW LIZZIE Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+Facebook-f Instagram [email protected] 3262 Westheimer, PMB 636, Houston, TX 77098 PAID FOR BY ELIZABETH PANNILL FLETCHER FOR CONGRESS © # Lizzie Fletcher for Congress

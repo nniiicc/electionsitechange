@@ -1,7 +1,9 @@
 {
  "description": "Contact the Steve Tyson Campaign",
  "final_url": "https://www.tysonfornchouse.com/contact",
- "paid_for_by": null,
+ "fingerprint": "e459ef412592e02593e86a878d5c329604f38010",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Steve Tyson Campaign",
  "years_mentioned": []
 }

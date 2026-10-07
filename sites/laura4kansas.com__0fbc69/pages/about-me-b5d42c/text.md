@@ -1,5 +1,4 @@
-ABOUT ME
-I was born in Southern California to a pair of missionaries as they were leaving the mission field.
+Skip to content Donate About Me Priorities Endorsement & Distinction Contact Us Donate About Me Priorities Endorsement & Distinction Contact Us ABOUT ME I was born in Southern California to a pair of missionaries as they were leaving the mission field.
 As I was growing up, my parents became educators.
 When I was 10, we moved to Omaha, Nebraska.
 In Nebraska, I grew up helping my mom set up her classroom during summer breaks and going to basketball games for the college where my dad taught.
@@ -20,3 +19,9 @@ This year, I became inspired to take that passion to Topeka.
 Our community deserves more opportunities to feel seen and heard by their representatives.
 I want to give District 26 more choice.
 If you choose me, I want to be your voice in the State House.
+Privacy Policy © 2026.
+All rights reserved.
+Paid for by Laura Johnson for Office.
+Treasurer: Cameron Johnson Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

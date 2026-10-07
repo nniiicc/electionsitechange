@@ -1,11 +1,50 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://charlestilburg.com/",
-"https://charlestilburg.com/about",
-"https://charlestilburg.com/cart",
-"https://charlestilburg.com/contact",
-"https://charlestilburg.com/donate",
-"https://facebook.com/charlestilburg26",
-"https://instagram.com/charlestilburg26",
-"https://maine.gov/ethics/candidates/maine-clean-election-act"
+{
+"text": "0",
+"href": "https://www.charlestilburg.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.charlestilburg.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.charlestilburg.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Donate",
+"href": "https://www.charlestilburg.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/charlestilburg26"
+},
+{
+"text": "Home",
+"href": "https://www.charlestilburg.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/charlestilburg26"
+},
+{
+"text": "Maine’s Clean Elections program",
+"href": "https://www.maine.gov/ethics/candidates/maine-clean-election-act"
+},
+{
+"text": "Meet Charles",
+"href": "https://www.charlestilburg.com/about"
+},
+{
+"text": "[image: Charles Tilburg for Maine District 137 (Buxton &amp; Hollis)]",
+"href": "https://www.charlestilburg.com/"
+},
+{
+"text": "charles@charlestilburg.com",
+"href": "mailto:charles@charlestilburg.com"
+}
 ]

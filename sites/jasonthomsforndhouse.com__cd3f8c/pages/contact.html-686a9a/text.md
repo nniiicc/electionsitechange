@@ -1,14 +1,6 @@
-Find me on the following social media platforms
-BlueSky - https://bsky.app/profile/jasonthomsndhouse.bsky.social
-Facebook - https://www.facebook.com/Jasonthomsforndhouse
-Instagram - https://www.instagram.com/jasonthomsndhouse26/
-Threads - https://www.threads.com/@jasonthomsndhouse26
-TikTok - https://www.tiktok.com/@jasonthomsndhouse26
-X - https://x.com/thomsforndhouse
-Youtube - https://www.youtube.com/@jasonthomsndhouse26/shorts
-CONtact Jason Thoms
-| Educator Arts Advocate Community Leader Non-Profit Founder Professional Musician | |
-***We need a change***
-Please consider supporting my campaign for a better future.
-This website is paid for by the Campaign Fund for Jason Thoms
-Copyright © 2026
+Paid for by the Campaign Fund of Jason Thoms Home About PRIORITIES Opinion Columns Contact Privacy Policy Dr.
+Jason Thoms for North Dakota House '26 from District 7 Find me on the following social media platforms BlueSky - https://bsky.app/profile/jasonthomsndhouse.bsky.social Facebook - https://www.facebook.com/Jasonthomsforndhouse Instagram - https://www.instagram.com/jasonthomsndhouse26/ Threads - https://www.threads.com/@jasonthomsndhouse26 TikTok - https://www.tiktok.com/@jasonthomsndhouse26 X - https://x.com/thomsforndhouse Youtube - https://www.youtube.com/@jasonthomsndhouse26/shorts CONtact Jason Thoms Educator Arts Advocate Community Leader Non-Profit Founder Professional Musician Send Dr.
+Jason Thoms a Message * Indicates required field Name * First Last Email * Phone Number * By submitting your cell phone number you are agreeing to receive periodic text messages from us. ​ Message & data rates may apply.
+Text HELP for help or STOP to unsubscribe.
+Please share your comments or questions * Submit Click here to support our campaign ​***We need a change*** ​ Please consider supporting my campaign for a better future.
+Click here to support our campaign HOME ABOUT ​ PRIORITIES OPINION COLUMNS CONTACT This website is paid for by the Campaign Fund for Jason Thoms Copyright © # Proudly powered by Weebly Home About PRIORITIES Opinion Columns Contact Privacy Policy

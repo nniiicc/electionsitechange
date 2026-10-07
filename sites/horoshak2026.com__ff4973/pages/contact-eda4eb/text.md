@@ -1,4 +1,2 @@
-Get in Touch
-For press and general inquiries, please feel free to reach out to us:
-801 Summit St.
-Eveleth, MN 55792 Horoshak2026@gmail.com
+top of page GET INVOLVED DONATE Home About Get Involved Contact CONTACT Get in Touch For press and general inquiries, please feel free to reach out to us: 801 Summit St.
+Eveleth, MN 55792 Horoshak2026@gmail.com GET IN TOUCH First name * Last name * Email * Phone Message Address City State Zip Code SUBMIT 801 Summit St, Eveleth,MN 55734 Horoshak2026@gmail.com ​ Home About Get Involved Contact Prepared and paid for by the Daniel Horoshak Friends Of committee, 801 Summit St, Eveleth, MN 55734 Privacy Policy Terms & Conditions Accessibility Statement Powered and secured by Wix bottom of page

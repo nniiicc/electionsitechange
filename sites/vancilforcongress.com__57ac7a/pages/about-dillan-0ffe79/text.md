@@ -1,5 +1,4 @@
-Meet Dillan
-I was born and raised here in west-central Illinois.
+0 Skip to Content Home Donate About Dillan Volunteer Request A Yard Sign Login Account Open Menu Close Menu Login Account Home Donate About Dillan Volunteer Request A Yard Sign Open Menu Close Menu Home Donate About Dillan Volunteer Request A Yard Sign Login Account Meet Dillan I was born and raised here in west-central Illinois.
 This is home.
 It’s where I learned the value of hard work, where my wife Alyssa and I are raising our two boys, and where I’ve spent my life trying to give back to the community that shaped me.
 Like a lot of folks around here, I’ve worn a few hats—railroad worker, small business owner, school board member.
@@ -11,3 +10,4 @@ I’ve also served as Vice President of the West Central School Board and as a m
 I’m not a career politician.
 I’m a husband, a dad, a small business owner, and someone who loves this part of Illinois.
 I’m running for Congress because I think we need more people in Washington who know what it’s like to work long hours, sign the front of a paycheck, and stretch every dollar to make things work.
+Volunteer Donate Request A Yard Sign PAID FOR BY VANCIL FOR CONGRESS Privacy Policy

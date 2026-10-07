@@ -1,2 +1,3 @@
-Trump-Endorsed Jimmy Patronis: Trump’s First Acts Were Bold, Decisive, and Put America First
-[Fort Walton 1-21-25] Today, Florida Chief Financial Officer (CFO) Jimmy Patronis issued a statement praising President Donald Trump’s actions on a breadth of issues, including
+Skip to content Endorsed By President Trump @JimmyPatronis HOME ABOUT News SHOP VOLUNTEER Contribute Search January 21, 2025 Trump-Endorsed Jimmy Patronis: Trump’s First Acts Were Bold, Decisive, and Put America First January 21, 2025 [Fort Walton 1-21-25] Today, Florida Chief Financial Officer (CFO) Jimmy Patronis issued a statement praising President Donald Trump’s actions on a breadth of issues, including Read More » GET PRESS RELEASES Δ HOME ABOUT VOLUNTEER Contribute PAID FOR BY FRIENDS OF JIMMY PATRONIS, INC.
+Contributions to Friends of Jimmy Patronis are not deductible as charitable contributions for federal income tax purposes.
+HOME ABOUT VOLUNTEER NEWS FIND PRECINCT

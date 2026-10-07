@@ -1,0 +1,3 @@
+Skip to content Donate Now Donate Now Vicki Davis for NY Assembly 121 Platform Events Volunteer News Endorsements Map of NY121 Contact Vicki Davis for NY Assembly 121 Donate Now Donate Now Platform Events Volunteer News Endorsements Map of NY121 Contact Public Matching Funds Program October 6, 2026 The New York State Public Campaign Finance Program is a statewide program that provides matching funds for eligible contributions.
+Donations of residents in NY Assembly District 121 will multiply as shown in the graphic below.
+Previous New York Health Act Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

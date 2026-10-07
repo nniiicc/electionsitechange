@@ -1,9 +1,4 @@
-Embedded Files
-I've been proud to call New Hampshire home for more than 20 years, and I'm running for State Representative to be a strong, common-sense voice for our community.
+Search this site Embedded Files Skip to main content Skip to navigation ShanunCarey4NH Home About Priorities Contact Volunteer Donate ShanunCarey4NH Home About Priorities Contact Volunteer Donate More Home About Priorities Contact Volunteer Donate Shanun Carey New Hampshire I've been proud to call New Hampshire home for more than 20 years, and I'm running for State Representative to be a strong, common-sense voice for our community.
 I will always fight to protect personal freedom, defend the second amendment, support families and mental health, give parents real choices in education, and work to rein in skyrocketing property taxes.
-Above all, I'm committed to preserving the New Hampshire way of life-
-our proud motto "Live Free or Die" and the character that makes our state
-the best in New England.
-Page updated
-Google Sites
-Report abuse
+Above all, I'm committed to preserving the New Hampshire way of life- our proud motto "Live Free or Die" and the character that makes our state the best in New England.
+Shanun Carey for State Representative- Hillsborough District 29 Paid for by Shanun Carey for State Representative, 16 Gorham Pond Road, Goffstown, NH 03045 shanuncarey4nh@gmail.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

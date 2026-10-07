@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://russellforar.com/m/login?r=%2Fm%2Faccount",
- "paid_for_by": null,
+ "fingerprint": "e8b9c9feb8c89957dbf7ce1343cafb9a3350ae75",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Login",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

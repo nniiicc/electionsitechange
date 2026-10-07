@@ -1,9 +1,42 @@
 [
-"http://facebook.com/wix",
-"http://wix.com/templateslp/links",
-"https://rothforkansas.com/",
-"https://rothforkansas.com/about-web",
-"https://rothforkansas.com/get-involved",
-"https://rothforkansas.com/platform",
-"https://secure.winred.com/roth-for-kansas/donate"
+{
+"text": "ABOUT WEB",
+"href": "https://www.rothforkansas.com/about-web"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/roth-for-kansas/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.rothforkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.rothforkansas.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.rothforkansas.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "Rothforkansas@gmail.com",
+"href": "mailto:Rothforkansas@gmail.com"
+},
+{
+"text": "Web Roth",
+"href": "https://www.rothforkansas.com"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "for State Representative",
+"href": "https://www.rothforkansas.com"
+}
 ]

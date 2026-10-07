@@ -1,9 +1,50 @@
 [
-"https://facebook.com/GlennIveyMD",
-"https://glennivey.com/",
-"https://glennivey.com/meet-glenn",
-"https://glennivey.com/privacy-policy",
-"https://instagram.com/glenniveymd",
-"https://secure.actblue.com/donate/glenn-fight-ivey",
-"https://x.com/glenniveymd"
+{
+"text": "ABOUT",
+"href": "https://www.glennivey.com/privacy-policy"
+},
+{
+"text": "Contact",
+"href": "https://www.glennivey.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/glenn-fight-ivey"
+},
+{
+"text": "EVENTS",
+"href": "https://www.glennivey.com"
+},
+{
+"text": "HOME",
+"href": "https://www.glennivey.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.glennivey.com"
+},
+{
+"text": "Meet Glenn",
+"href": "https://www.glennivey.com/meet-glenn"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.glennivey.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GlennIveyMD"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/glenniveymd"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/glenniveymd"
+},
+{
+"text": "info@iveyforcongress.com",
+"href": "mailto:info@iveyforcongress.com"
+}
 ]

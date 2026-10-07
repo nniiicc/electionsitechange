@@ -1,14 +1,54 @@
 [
-"https://chisholmformaryland.com/",
-"https://chisholmformaryland.com/connect",
-"https://chisholmformaryland.com/highlights",
-"https://chisholmformaryland.com/meet-brian",
-"https://chisholmformaryland.com/privacy-policy",
-"https://chisholmformaryland.com/terms",
-"https://chisholmformaryland.com/whats-on-the-line",
-"https://chisholmformaryland.com/whats-on-the-line-2",
-"https://facebook.com/chisholmformaryland",
-"https://instagram.com/chisholm4md?igsh=MTRra2QxZTVsaW8wNg%3D%3D",
-"https://secure.anedot.com/chisholm/general",
-"https://x.com/chisholmstrong?s=11"
+{
+"text": "Connect",
+"href": "https://chisholmformaryland.com/connect/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/chisholm/general"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/chisholmformaryland"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/chisholm4md?igsh=MTRra2QxZTVsaW8wNg%3D%3D"
+},
+{
+"text": "Follow",
+"href": "https://x.com/chisholmstrong?s=11"
+},
+{
+"text": "Highlights",
+"href": "https://chisholmformaryland.com/highlights/"
+},
+{
+"text": "Home",
+"href": "https://chisholmformaryland.com/"
+},
+{
+"text": "Meet Brian",
+"href": "https://chisholmformaryland.com/meet-brian/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chisholmformaryland.com/privacy-policy/"
+},
+{
+"text": "Terms",
+"href": "https://chisholmformaryland.com/terms/"
+},
+{
+"text": "Whats On the Line",
+"href": "https://chisholmformaryland.com/whats-on-the-line/"
+},
+{
+"text": "Whats on the Line",
+"href": "https://chisholmformaryland.com/whats-on-the-line-2/"
+},
+{
+"text": "[image]",
+"href": "https://chisholmformaryland.com/"
+}
 ]

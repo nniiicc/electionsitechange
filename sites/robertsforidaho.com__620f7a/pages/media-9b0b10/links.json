@@ -1,27 +1,102 @@
 [
-"https://facebook.com/robertsforidaho",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158884441-7TI1PLILXSM5OU5GW281/Nate%27s+MUG.jpg",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158886281-PKTOFZ80N2RTJW9HQ5FB/IMG_4539.JPG",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158903580-NWM008HU136YE6I214P6/20230727_bcd_3217.JPG",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158904251-I645Z8KFIVN1UJ9U43Y1/20230727_bcd_3212.JPG",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158906460-Y48DMF0139AQZDB7GIXN/20230909_bcd_5510.jpg",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158908814-PHOLSGD6PA1ZV9CDXYKM/IMG_9306.JPG",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158913908-U7XB1A9VORT3PXVGLHWL/IMG_7319.JPG",
-"https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158915800-2F1V3OUD87YBMEQ0T8C2/20230727_bcd_3205.JPG",
-"https://instagram.com/robertsforidaho",
-"https://reddit.com/user/NateRobertsForIdaho",
-"https://robertsforidaho.com/",
-"https://robertsforidaho.com/about",
-"https://robertsforidaho.com/cart",
-"https://robertsforidaho.com/cdn-cgi/l/email-protection",
-"https://robertsforidaho.com/home",
-"https://robertsforidaho.com/issues",
-"https://robertsforidaho.com/media",
-"https://robertsforidaho.com/news",
-"https://robertsforidaho.com/s/nate-roberts_logo_slim.svg",
-"https://robertsforidaho.com/volunteer",
-"https://secure.fundhero.com/robertsforidaho",
-"https://tel:(208) 807-8323/",
-"https://x.com/robertsforid",
-"https://youtube.com/@naterobertsforidaho1336"
+{
+"text": "(208) 807-8323",
+"href": "https://tel:(208)%20807-8323"
+},
+{
+"text": ".svg format",
+"href": "https://robertsforidaho.com/s/nate-roberts_logo_slim.svg"
+},
+{
+"text": "0",
+"href": "https://robertsforidaho.com/cart"
+},
+{
+"text": "About",
+"href": "https://robertsforidaho.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.fundhero.com/robertsforidaho"
+},
+{
+"text": "Issues",
+"href": "https://robertsforidaho.com/issues"
+},
+{
+"text": "Media",
+"href": "https://robertsforidaho.com/media"
+},
+{
+"text": "News",
+"href": "https://robertsforidaho.com/news"
+},
+{
+"text": "View fullsize [image: 20230727_bcd_3205.JPG][image: 20230727_bcd_3205.JPG]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158915800-2F1V3OUD87YBMEQ0T8C2/20230727_bcd_3205.JPG"
+},
+{
+"text": "View fullsize [image: 20230727_bcd_3212.JPG][image: 20230727_bcd_3212.JPG]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158904251-I645Z8KFIVN1UJ9U43Y1/20230727_bcd_3212.JPG"
+},
+{
+"text": "View fullsize [image: 20230727_bcd_3217.JPG][image: 20230727_bcd_3217.JPG]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158903580-NWM008HU136YE6I214P6/20230727_bcd_3217.JPG"
+},
+{
+"text": "View fullsize [image: 20230909_bcd_5510.jpg][image: 20230909_bcd_5510.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158906460-Y48DMF0139AQZDB7GIXN/20230909_bcd_5510.jpg"
+},
+{
+"text": "View fullsize [image: IMG_4539.JPG][image: IMG_4539.JPG]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158886281-PKTOFZ80N2RTJW9HQ5FB/IMG_4539.JPG"
+},
+{
+"text": "View fullsize [image: IMG_7319.JPG][image: IMG_7319.JPG]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158913908-U7XB1A9VORT3PXVGLHWL/IMG_7319.JPG"
+},
+{
+"text": "View fullsize [image: IMG_9306.JPG][image: IMG_9306.JPG]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158908814-PHOLSGD6PA1ZV9CDXYKM/IMG_9306.JPG"
+},
+{
+"text": "View fullsize [image: Nate's MUG.jpg][image: Nate's MUG.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0f51364ed149659f822001/1782158884441-7TI1PLILXSM5OU5GW281/Nate%27s+MUG.jpg"
+},
+{
+"text": "Volunteer",
+"href": "https://robertsforidaho.com/volunteer"
+},
+{
+"text": "[email protected]",
+"href": "mailto:nate@robertsforidaho.com"
+},
+{
+"text": "[image: Nate Roberts For Idaho House of Representatives | District 29]",
+"href": "https://robertsforidaho.com/"
+},
+{
+"text": "[image: Nate Roberts for Idaho logo]",
+"href": "https://robertsforidaho.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/robertsforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/robertsforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/NateRobertsForIdaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@naterobertsforidaho1336"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/robertsforid"
+}
 ]

@@ -1,10 +1,34 @@
 [
-"https://suefordistrict13.com/",
-"https://suefordistrict13.com/contact-us",
-"https://suefordistrict13.com/donate",
-"https://suefordistrict13.com/endorsements-draft",
-"https://suefordistrict13.com/home-old",
-"https://suefordistrict13.com/in-the-news",
-"https://suefordistrict13.com/issues",
-"https://suefordistrict13.com/meet-sue"
+{
+"text": "Contact Us",
+"href": "https://www.suefordistrict13.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://www.suefordistrict13.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.suefordistrict13.com/endorsements-draft"
+},
+{
+"text": "Home",
+"href": "https://www.suefordistrict13.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.suefordistrict13.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.suefordistrict13.com/issues"
+},
+{
+"text": "Meet Sue",
+"href": "https://www.suefordistrict13.com/meet-sue"
+},
+{
+"text": "Paid for by Sue Peterson District 13",
+"href": "https://www.suefordistrict13.com/home-old"
+}
 ]

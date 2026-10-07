@@ -1,10 +1,2 @@
-KANDIE SMITH
-STATE SENATE
-Home
-Priorities
-About
-Updates
-Donation
-Contact
-More
-FOLLOW KANDIE ON SOCIAL MEDIA
+top of page KANDIE SMITH STATE SENATE Home Priorities About Updates Donation Contact More Use tab to navigate through the menu items.
+SUBSCRIBE TO NEWSLETTER A people first approach to the NC General Assembly FOLLOW KANDIE ON SOCIAL MEDIA Subscribe KANDIE SMITH - STATE SENATE - Terms & Conditions Privacy Policy Accessibility Statement Paid for by Kandie Smith for NC PO Box 1832 Greenville, NC bottom of page

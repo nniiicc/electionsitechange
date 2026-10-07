@@ -1,3 +1,2 @@
-Paid for by People for Erica Bray-Parker
-A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Volunteer/Lawn Signs Donate Receive News Home About Erica My Priorities Events Endorsements Follow us @ericaforil47.bsky.social‬ X TikTok Facebook Instagram Endorsements Erica Bray-Parker is honored to receive the support of the people of Illinois including: Get Involved Join Us Donate Subscribe to our Newsletter Pages Home About Erica My Priorities Events Endorsements Socials @ericaforil47.bsky.social‬ X TikTok Facebook Instagram Mail Paid for by People for Erica Bray-Parker A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
 View our Privacy Policy

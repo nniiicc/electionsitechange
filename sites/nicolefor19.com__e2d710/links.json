@@ -1,19 +1,86 @@
 [
-"https://docs.google.com/forms/d/1Qulf2nHeu-dB8dJerJNsH5QSAMUuZjI1Nw3bVMniG3c/viewform?ts=68cb30f0&edit_requested=true",
-"https://facebook.com/profile.php?id=61576934352921",
-"https://instagram.com/nicolefor19",
-"https://nicolefor19.com/",
-"https://nicolefor19.com/about",
-"https://nicolefor19.com/canvass",
-"https://nicolefor19.com/cart",
-"https://nicolefor19.com/contact",
-"https://nicolefor19.com/endorsements",
-"https://nicolefor19.com/home",
-"https://nicolefor19.com/platform",
-"https://secure.actblue.com/donate/nicolefor19website",
-"https://secure.actblue.com/donate/nicolefor19website?amount=10",
-"https://secure.actblue.com/donate/nicolefor19website?amount=100",
-"https://secure.actblue.com/donate/nicolefor19website?amount=1000",
-"https://secure.actblue.com/donate/nicolefor19website?amount=25",
-"https://secure.actblue.com/donate/nicolefor19website?amount=250"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/nicolefor19website?amount=1000"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/nicolefor19website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nicolefor19website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nicolefor19website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nicolefor19website?amount=250"
+},
+{
+"text": "0",
+"href": "https://www.nicolefor19.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.nicolefor19.com/about"
+},
+{
+"text": "Canvass",
+"href": "https://www.nicolefor19.com/canvass"
+},
+{
+"text": "Contact",
+"href": "https://www.nicolefor19.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nicolefor19website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicolefor19.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.nicolefor19.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.nicolefor19.com/about"
+},
+{
+"text": "Learn more",
+"href": "https://www.nicolefor19.com/platform"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/nicolefor19website"
+},
+{
+"text": "Platform",
+"href": "https://www.nicolefor19.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/1Qulf2nHeu-dB8dJerJNsH5QSAMUuZjI1Nw3bVMniG3c/viewform?ts=68cb30f0&edit_requested=true"
+},
+{
+"text": "[image: Nicole Sigurdson for Ohio House | Democrat for House District 19]",
+"href": "https://www.nicolefor19.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.nicolefor19.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576934352921"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nicolefor19/"
+}
 ]

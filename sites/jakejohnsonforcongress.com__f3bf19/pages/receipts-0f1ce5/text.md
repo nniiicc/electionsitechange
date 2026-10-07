@@ -1,14 +1,15 @@
-After holding a public town hall in every county (plus one for extra credit!), Jake is now embarking on a Receipts Tour across southern Minnesota!
-THE RECEIPTS TOUR
-Life costs way too much for working people, and Congress just doesn't seem to care.
+Skip navigation menu About Priorities Town Halls Knock Doors News Volunteer Events Donate Events After holding a public town hall in every county (plus one for extra credit!), Jake is now embarking on a Receipts Tour across southern Minnesota!
+About Priorities Town Halls Knock Doors News Volunteer Events Donate Events After holding a public town hall in every county (plus one for extra credit!), Jake is now embarking on a Receipts Tour across southern Minnesota!
+THE RECEIPTS TOUR Life costs way too much for working people, and Congress just doesn't seem to care.
 That's why Jake's embarking on a Receipts Tour, making stops all across southern Minnesota this month to collect your receipts from all the jacked-up bills we're paying, from gas and groceries, to utilities and housing.
 He'll be talking to folks about why things have gotten so expensive and what he'll do in Congress to bring down costs.
 After each stop, Jake will collect the receipts and then, if elected, drive his minivan (yes, the one on TV) to Washington and demand they actually do something to bring costs down.
-Tell Jake about How You're Dealing With high Costs
-Sign Up to Hear News About Upcoming Stops Near You
-Town Hall Schedule
-All of Jake's town halls are open to the public.
+Tell Jake about How You're Dealing With high Costs Sign Up to Hear News About Upcoming Stops Near You First Name First Name Last Name Last Name Email Email What town do you live in or closest to?
+What town do you live in or closest to?
+I consent to receiving emails from the campaign.
+Upload a picture(s) of your recent receipts here: Drag & drop or click to browse (up to 3 files) Tell Jake how high costs are affecting you: Tell Jake how high costs are affecting you: Submit Town Hall Schedule All of Jake's town halls are open to the public .
 The date and time for each town hall is provided below and here on social media, and we will share the exact location for each event on this page and on social media five days before each town hall.
 You do NOT need to register to attend any of our town halls, but you are welcome to sign up for updates using the Mobilize links provided on this page, which will include an email with the location of the event when it is posted on this website.
-Questions will be taken from the audience without any pre-screening.
+Questions will be taken from the audience without any pre-screening .
 No matter how you identify politically, all are welcome to join us!
+June 20, 2026 (past) Rice County July 6, 2026 (PAST) Jackson County July 14, 2026 (PAST) Winona County July 16, 2026 (past) Waseca County July 20, 2026 (PASt) Watonwan County July 23, 2026 (past) Mower County July 27, 2026 (PAST) Fillmore County July 28, 2026 (PAST) Faribault County August 1, 2026 (past) Blue Earth County August 6, 2026 (PAST) Rock County August 10, 2026 (PAST) Nobles County August 11, 2026 (past) Freeborn County August 15, 2026 (PAST) Olmsted County August 16, 2026 (PASt) Goodhue County August 17, 2026 (PAST) Brown County August 18, 2026 (PAST) Nicollet County August 20, 2026 (PAST) Wabasha County August 24, 2026 (PAST) Steele County August 25, 2026 (PAST) Houston County August 27, 2026 (PAST) Martin County August 30, 2026 (PAST) Dodge County September 26, 2026 (PAST) Extra Credit Town Hall in Harmony Media Kit Jake Johnson is running for Congress in Minnesota's first congressional district (MN-01). info@jakejohnsonforcongress.com Privacy Policy Powered by RUN! website builder Paid for by Jake Johnson for Congress PO Box 6295, Rochester, MN 55903 You need to enable JavaScript to run this app.

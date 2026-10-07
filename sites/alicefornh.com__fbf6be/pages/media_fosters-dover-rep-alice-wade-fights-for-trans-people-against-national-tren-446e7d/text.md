@@ -1,5 +1,2 @@
-Previous
-Previous
-Op-Ed: The great Republican tax heist in New Hampshire
-Next
-Next
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Fosters: Dover Rep.
+Alice Wade fights for trans people against national trends Apr 2 Written By Alice Wade Alice Wade Previous Previous Op-Ed: The great Republican tax heist in New Hampshire Next Next Op-Ed: Snake Oil Salesman in Chief Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

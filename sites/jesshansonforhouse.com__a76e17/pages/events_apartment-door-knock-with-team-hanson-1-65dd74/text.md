@@ -1,9 +1,7 @@
-Back to All Events
-Meet with Jess and our team as we talk to our neighbors about the importance of re-electing Jess Hanson to the Minnesota State House of Representatives.
-Previous
-Previous
-October 19
-Door Knock with Team Hanson
-Next
-Next
-October 22
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Back to All Events Apartment Door Knock with Team Hanson Saturday, October 22, 2022 10:00 AM 12:00 PM Google Calendar ICS Meet with Jess and our team as we talk to our neighbors about the importance of re-electing Jess Hanson to the Minnesota State House of Representatives.
+Posted In: Volunteer Previous Previous October 19 Door Knock with Team Hanson Next Next October 22 Door Knock with Rep.
+Esther Agbaje Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

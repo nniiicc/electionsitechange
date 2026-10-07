@@ -1,21 +1,82 @@
 [
-"http://facebook.com/BakerforOhio",
-"https://bakerforohio.com/",
-"https://bakerforohio.com/contact",
-"https://bakerforohio.com/contribute",
-"https://bakerforohio.com/events",
-"https://bakerforohio.com/home",
-"https://bakerforohio.com/issues",
-"https://bakerforohio.com/issues/environmental-protections-clean-energy",
-"https://bakerforohio.com/issues/lgbtq-rights-individual-freedoms",
-"https://bakerforohio.com/meet_mike",
-"https://bakerforohio.com/news",
-"https://bakerforohio.com/photos",
-"https://bakerforohio.com/view-endorsements",
-"https://bakerforohio.com/volunteer",
-"https://bakerforohio.com/vote",
-"https://bakerforohio.com/yard-sign",
-"https://campaignpartner.com/",
-"https://instagram.com/bakerforohio",
-"https://x.com/BakerforOhio"
+{
+"text": "Contact",
+"href": "https://bakerforohio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://bakerforohio.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://bakerforohio.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://bakerforohio.com/events"
+},
+{
+"text": "Home",
+"href": "https://bakerforohio.com/"
+},
+{
+"text": "Home",
+"href": "https://bakerforohio.com/home"
+},
+{
+"text": "Issues",
+"href": "https://bakerforohio.com/issues"
+},
+{
+"text": "Meet Mike",
+"href": "https://bakerforohio.com/meet_mike"
+},
+{
+"text": "News",
+"href": "https://bakerforohio.com/news"
+},
+{
+"text": "Next: LGBTQ+ Rights & Individual Freedoms »",
+"href": "https://bakerforohio.com/issues/lgbtq-rights-individual-freedoms"
+},
+{
+"text": "Photos",
+"href": "https://bakerforohio.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://bakerforohio.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://bakerforohio.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://bakerforohio.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://bakerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/BakerforOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bakerforohio"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/BakerforOhio"
+},
+{
+"text": "« Previous: Environmental Protections & Clean Energy",
+"href": "https://bakerforohio.com/issues/environmental-protections-clean-energy"
+}
 ]

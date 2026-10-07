@@ -1,6 +1,5 @@
-I’ve spent most of my career working across northern Wyoming, facilitating difficult conversations around community issues.
-And here’s something I know for certain:
-Communities and economies do not get stronger when people stop listening to each other.
+Skip to content Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Previous Next Why Solving Problems Across Differences Is a Conservative Value mdbutcher 2026-05-29T13:37:00-06:00 May 29, 2026 | Stewardship Conservatism | I’ve spent most of my career working across northern Wyoming, facilitating difficult conversations around community issues.
+And here’s something I know for certain: Communities and economies do not get stronger when people stop listening to each other.
 They get stronger when people are willing to think independently, have honest conversations, and work toward practical solutions — even when they don’t agree on everything.
 That’s especially important right now.
 Families are worried about rising costs.
@@ -12,7 +11,7 @@ I’ve seen conversations reach the point where people were frustrated, dug in, 
 One thing experience has taught me is that the hardest part of solving a problem often comes right before progress.
 If people stay at the table and keep working the problem, what feels like the point of failure is often the point where a better solution starts to emerge.
 Not because anyone gives up their principles, but because they’re willing to keep thinking, keep listening, and keep looking for a way forward.
-I believe that’s a deeply conservative value.
+I believe that’s a deeply conservative value .
 Conservatism is rooted in stewardship — recognizing that things of value are usually built slowly and should not be discarded casually.
 Businesses, communities, institutions, relationships, and trust all require investment to build and maintain.
 That’s why I believe conservatives should be willing to stay engaged when problems become difficult.
@@ -22,3 +21,5 @@ I believe confident people can sit down with others, listen seriously, stand fir
 Rejecting ideas simply because of who suggested them is not wisdom.
 And refusing to work with people simply because they see some issues differently is not leadership.
 Wyoming deserves better than that.
+Share This Story, Choose Your Platform!
+Facebook X Bluesky Reddit LinkedIn WhatsApp Telegram Tumblr Xing Email Copy Link Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

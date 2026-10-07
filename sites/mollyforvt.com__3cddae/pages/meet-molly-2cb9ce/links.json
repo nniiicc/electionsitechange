@@ -1,28 +1,526 @@
 [
-"https://facebook.com/mollyforvermont",
-"https://fastaction.ngpvan.com/",
-"https://instagram.com/mollyforvermont",
-"https://mollyforvt.com/",
-"https://mollyforvt.com/cart",
-"https://mollyforvt.com/contact",
-"https://mollyforvt.com/group-events",
-"https://mollyforvt.com/meet-molly",
-"https://mollyforvt.com/press",
-"https://mollyforvt.com/priorities",
-"https://mollyforvt.com/supporters",
-"https://mollyforvt.com/volunteer",
-"https://salamander-plums-m8wa.squarespace.com/",
-"https://salamander-plums-m8wa.squarespace.com/contact",
-"https://salamander-plums-m8wa.squarespace.com/meet-molly",
-"https://salamander-plums-m8wa.squarespace.com/priorities",
-"https://salamander-plums-m8wa.squarespace.com/supporters",
-"https://salamander-plums-m8wa.squarespace.com/volunteer",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=500",
-"https://x.com/mollyforvermont"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=500"
+},
+{
+"text": ", an",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": ".",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": ". Mar",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "0",
+"href": "https://www.mollyforvt.com/cart"
+},
+{
+"text": "Af",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mollyforvt.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mollyforvt.com/group-events"
+},
+{
+"text": "MEET MOLLY",
+"href": "https://www.mollyforvt.com/meet-molly"
+},
+{
+"text": "Moll",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "Molly",
+"href": "https://salamander-plums-m8wa.squarespace.com/contact"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "Ov",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "PRESS",
+"href": "https://www.mollyforvt.com/press"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mollyforvt.com/priorities"
+},
+{
+"text": "SUPPORTERS",
+"href": "https://www.mollyforvt.com/supporters"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mollyforvt.com/volunteer"
+},
+{
+"text": "W",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "[image: Molly Gray for Vermont]",
+"href": "https://www.mollyforvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mollyforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mollyforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mollyforvermont"
+},
+{
+"text": "a",
+"href": "https://fastaction.ngpvan.com/##whats-this"
+},
+{
+"text": "a",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "aised on h",
+"href": "https://salamander-plums-m8wa.squarespace.com/meet-molly"
+},
+{
+"text": "ally",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "and",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "and th",
+"href": "https://salamander-plums-m8wa.squarespace.com/volunteer"
+},
+{
+"text": "ars",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "arship",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "as",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "as Lt. Go",
+"href": "https://salamander-plums-m8wa.squarespace.com/supporters"
+},
+{
+"text": "ast few ye",
+"href": "https://salamander-plums-m8wa.squarespace.com/meet-molly"
+},
+{
+"text": "atte",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "basic",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "basic needs",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "became a",
+"href": "https://salamander-plums-m8wa.squarespace.com/meet-molly"
+},
+{
+"text": "c",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "ca",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "contin",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": "d a record",
+"href": "https://salamander-plums-m8wa.squarespace.com/priorities"
+},
+{
+"text": "d lat",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "d two t",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": "dignity and to hav",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "e",
+"href": "https://fastaction.ngpvan.com/##whats-this"
+},
+{
+"text": "e",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "e U.",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "e l",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "e serving",
+"href": "https://salamander-plums-m8wa.squarespace.com/priorities"
+},
+{
+"text": "e their",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": "earl",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "ed th",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "edul",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "egiv",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "el",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "em",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "er",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "er a",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "ewbury,",
+"href": "https://salamander-plums-m8wa.squarespace.com/volunteer"
+},
+{
+"text": "for her",
+"href": "https://salamander-plums-m8wa.squarespace.com/supporters"
+},
+{
+"text": "for ot",
+"href": "https://salamander-plums-m8wa.squarespace.com/contact"
+},
+{
+"text": "h",
+"href": "https://fastaction.ngpvan.com/##whats-this"
+},
+{
+"text": "h th",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "has g",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "helps care",
+"href": "https://salamander-plums-m8wa.squarespace.com/priorities"
+},
+{
+"text": "hers,",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "hi",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "his",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "id to",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "ience, urg",
+"href": "https://salamander-plums-m8wa.squarespace.com/meet-molly"
+},
+{
+"text": "in",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "ing",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "ing up",
+"href": "https://salamander-plums-m8wa.squarespace.com/volunteer"
+},
+{
+"text": "iver’s",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": "learn",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "les mu",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "lo",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "lt",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "m",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "m",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "m",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "mo",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "mom, wh",
+"href": "https://salamander-plums-m8wa.squarespace.com/volunteer"
+},
+{
+"text": "n South N",
+"href": "https://salamander-plums-m8wa.squarespace.com/supporters"
+},
+{
+"text": "n and",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "nd",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "nd ec",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "ndin",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "ngs",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "o",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "o batt",
+"href": "https://salamander-plums-m8wa.squarespace.com/contact"
+},
+{
+"text": "of",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "of stand",
+"href": "https://salamander-plums-m8wa.squarespace.com/supporters"
+},
+{
+"text": "one h",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "oth",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "ow",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "prog",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "r th",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "raq",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "re",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "reaten",
+"href": "https://salamander-plums-m8wa.squarespace.com/contact"
+},
+{
+"text": "rt.",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "s",
+"href": "https://fastaction.ngpvan.com/##whats-this"
+},
+{
+"text": "s takes many hands, hard work and proble",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": "s to drive",
+"href": "https://salamander-plums-m8wa.squarespace.com/priorities"
+},
+{
+"text": "sc",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "sol",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "t",
+"href": "https://fastaction.ngpvan.com/##whats-this"
+},
+{
+"text": "t",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "t of Ve",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-signup"
+},
+{
+"text": "t.",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "tal ri",
+"href": "https://salamander-plums-m8wa.squarespace.com/#fastaction-login"
+},
+{
+"text": "ter",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "th ex",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "that",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "the",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "ton chaos",
+"href": "https://salamander-plums-m8wa.squarespace.com/meet-molly"
+},
+{
+"text": "up costs",
+"href": "https://salamander-plums-m8wa.squarespace.com/supporters"
+},
+{
+"text": "uppo",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "ver",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "vernor,",
+"href": "https://salamander-plums-m8wa.squarespace.com/volunteer"
+},
+{
+"text": "ving,",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "wi",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "y",
+"href": "https://fastaction.ngpvan.com/##whats-this"
+},
+{
+"text": "y on",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "y’s farm i",
+"href": "https://salamander-plums-m8wa.squarespace.com/priorities"
+}
 ]

@@ -1,21 +1,23 @@
-Campaign News
-Delmarva Power customers have been paying a surcharge tied to Bloom Energy since 2012, under a deal that runs through 2033.
+Chip In Today!
+About Mark Common Sense 302 ★ 11‑Point Plan Why Not Delaware?
+Vote Absentee!
+When To Vote!
+Need A Ride To The Polls?
+Campaign News Delaware News Press Kit Volunteers Needed!
+Contact Mark Campaign News Used for the like, share, comment, and reaction icons Friends of Mark Pugh for Senate #ago Who knew UD would send Delaware’s kids to the back of the line?
+Not surprised!
+Legislators need to be held accountable. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow sad angry 312 Shares: 128 Comments: 47 Friends of Mark Pugh for Senate #ago I'm thrilled to have been endorsed by The Delaware State Sportsman's Association.
+I will always stand firm against any and all attempts to disarm the law-abiding.
+#Delaware #elections #secondamendment DSSA - Delaware State Sportsmen's Association NRA - National Rifle Association of America NRA Institute for Legislative Action ...
+See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 17 Shares: 112 Comments: 5 Friends of Mark Pugh for Senate #ago Delmarva Power customers have been paying a surcharge tied to Bloom Energy since 2012, under a deal that runs through 2033.
 The deal was connected to Bloom’s promise to create 900 Delaware manufacturing jobs by 2017, a target it did not meet by that deadline.
 Now that Bloom Energy has announced a sponsorship deal with the Philadelphia 76ers, the old Delaware deal deserves some renewed attention!
-#Delaware #election #affordability #pugh302
-...
-See MoreSee Less
-Make YOUR voice count!
-If you need help getting, filling out, or returning an absentee ballot, please go to www.commonsense302.com for easy-to-follow, step-by-step instructions.
-My team will be happy to help if you need it!
-#Delaware #elections #politics #pugh302
-...
-See MoreSee Less
-DON'T GET PLAYED!
-These people do NOT have your best interests at heart and are going to make things A LOT WORSE!
-And in case you're wondering, my opponent is a CARD-CARRYING MEMBER of the Democratic Socialists of America.
-Click here to see for yourself:
-en.wikipedia.org/wiki/List_of_Democratic_Socialists_of_America_public_officeholders#State_officials
-#Delaware #elections #PoliticalNews #pugh302
-...
-See MoreSee Less
+#Delaware #election #affordability #pugh302 ...
+See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes haha wow angry 47 Shares: 194 Comments: 7 Load more © # Friends of Mark Pugh for Senate All Rights Reserved Paid for by Friends of Mark Pugh for Senate Chip In Today!
+About Mark Common Sense 302 ★ 11‑Point Plan Why Not Delaware?
+Vote Absentee!
+When To Vote!
+Need A Ride To The Polls?
+Campaign News Delaware News Press Kit Volunteers Needed!
+Contact Mark × Close Panel

@@ -1,29 +1,154 @@
 [
-"http://facebook.com/votesantucci",
-"http://instagram.com/nickssantucci",
-"https://nicksantucci.com/",
-"https://nicksantucci.com/cart",
-"https://nicksantucci.com/news/delicious-fundraiser-surrounded-by-art",
-"https://nicksantucci.com/news/howland-republican-leads-in-funds-for-state-house-race",
-"https://nicksantucci.com/news/incumbent-state-legislators-santucci-lead-in-raising-money",
-"https://nicksantucci.com/news/the-seat-is-winnable-says-young-republican-vying-for-ohio-rep-seat",
-"https://nicksantucci.com/news/trades-back-santucci-for-state-representative",
-"https://nicksantucci.com/news/tribune-chronicle-nick-santucci-will-deliver-results-not-rhetoric",
-"https://nicksantucci.com/news/wfmj-brookfall-group-ceo-offering-six-months-of-free-rent-for-ukrainian-refugees",
-"https://nicksantucci.com/news/wfmj-ohio-house-speaker-calls-map-redistricting-work-in-progress",
-"https://nicksantucci.com/news/wjfm-nick-santucci-answers-questions-about-the-republican-primary-race-for-ohios-64th-district-house-of-representatives",
-"https://nicksantucci.com/news/wkbn-local-company-celebrates-self-founded-national-skilled-trades-day",
-"https://nicksantucci.com/news?offset=1652237580895&reversePaginate=true&author=58b737e98419c2a168e4c7f0",
-"https://secure.winred.com/friends-of-nick-santucci/donate",
-"https://secure.winred.com/friends-of-nick-santucci/storefront",
-"https://tribtoday.com/news/local-news/2021/08/howland-republican-leads-in-funds-for-state-house-race",
-"https://tribtoday.com/news/local-news/2022/02/delicious-fundraiser-surrounded-by-art",
-"https://tribtoday.com/news/local-news/2022/02/incumbent-state-legislators-santucci-lead-in-raising-money",
-"https://tribtoday.com/opinion/letters-to-the-editor/2022/03/nick-santucci-will-deliver-results-not-rhetoric",
-"https://twitter.com/NickSSantucci",
-"https://wfmj.com/clip/15294984/republican-statehouse-candidate-nick-santucci-talks-primary-race",
-"https://wfmj.com/story/46180365/brookfall-group-ceo-offering-six-months-of-free-rent-for-ukrainian-refugees",
-"https://wfmj.com/story/46365282/ohio-house-speaker-calls-map-redistricting-work-in-progress",
-"https://wkbn.com/news/local-news/local-company-celebrates-self-founded-national-skilled-trades-day",
-"https://wkbn.com/news/local-news/the-seat-is-winnable-says-young-republican-vying-for-ohio-rep-seat"
+{
+"text": "0",
+"href": "https://www.nicksantucci.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-nick-santucci/donate"
+},
+{
+"text": "Newer Posts",
+"href": "https://www.nicksantucci.com/news?offset=1652237580895&reversePaginate=true&author=58b737e98419c2a168e4c7f0"
+},
+{
+"text": "Read More",
+"href": "https://www.nicksantucci.com/news/trades-back-santucci-for-state-representative"
+},
+{
+"text": "Read More",
+"href": "https://www.tribtoday.com/news/local-news/2021/08/howland-republican-leads-in-funds-for-state-house-race/"
+},
+{
+"text": "Read More",
+"href": "https://www.tribtoday.com/news/local-news/2022/02/delicious-fundraiser-surrounded-by-art/"
+},
+{
+"text": "Read More",
+"href": "https://www.tribtoday.com/news/local-news/2022/02/incumbent-state-legislators-santucci-lead-in-raising-money/"
+},
+{
+"text": "Read More",
+"href": "https://www.tribtoday.com/opinion/letters-to-the-editor/2022/03/nick-santucci-will-deliver-results-not-rhetoric/"
+},
+{
+"text": "Read More",
+"href": "https://www.wfmj.com/clip/15294984/republican-statehouse-candidate-nick-santucci-talks-primary-race"
+},
+{
+"text": "Read More",
+"href": "https://www.wfmj.com/story/46180365/brookfall-group-ceo-offering-six-months-of-free-rent-for-ukrainian-refugees"
+},
+{
+"text": "Read More",
+"href": "https://www.wfmj.com/story/46365282/ohio-house-speaker-calls-map-redistricting-work-in-progress"
+},
+{
+"text": "Read More",
+"href": "https://www.wkbn.com/news/local-news/local-company-celebrates-self-founded-national-skilled-trades-day/"
+},
+{
+"text": "Read More",
+"href": "https://www.wkbn.com/news/local-news/the-seat-is-winnable-says-young-republican-vying-for-ohio-rep-seat/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/friends-of-nick-santucci/storefront/"
+},
+{
+"text": "Trades Back Santucci for State Representative",
+"href": "https://www.nicksantucci.com/news/trades-back-santucci-for-state-representative"
+},
+{
+"text": "Tribune Chronicle: Delicious fundraiser surrounded by art",
+"href": "https://www.tribtoday.com/news/local-news/2022/02/delicious-fundraiser-surrounded-by-art/"
+},
+{
+"text": "Tribune Chronicle: Howland Republican leads in funds for state House race",
+"href": "https://www.tribtoday.com/news/local-news/2021/08/howland-republican-leads-in-funds-for-state-house-race/"
+},
+{
+"text": "Tribune Chronicle: Incumbent state legislators, Santucci lead in raising money",
+"href": "https://www.tribtoday.com/news/local-news/2022/02/incumbent-state-legislators-santucci-lead-in-raising-money/"
+},
+{
+"text": "Tribune Chronicle: Nick Santucci will deliver results, not rhetoric",
+"href": "https://www.tribtoday.com/opinion/letters-to-the-editor/2022/03/nick-santucci-will-deliver-results-not-rhetoric/"
+},
+{
+"text": "WFMJ: Brookfall Group CEO offering six months of free rent for Ukrainian refugees",
+"href": "https://www.wfmj.com/story/46180365/brookfall-group-ceo-offering-six-months-of-free-rent-for-ukrainian-refugees"
+},
+{
+"text": "WFMJ: Ohio House Speaker calls map redistricting 'work in progress'",
+"href": "https://www.wfmj.com/story/46365282/ohio-house-speaker-calls-map-redistricting-work-in-progress"
+},
+{
+"text": "WFMJ: Republican Statehouse Candidate Nick Santucci Talks Primary Race",
+"href": "https://www.wfmj.com/clip/15294984/republican-statehouse-candidate-nick-santucci-talks-primary-race"
+},
+{
+"text": "WKBN: Local company celebrates self-founded National Skilled Trades Day",
+"href": "https://www.wkbn.com/news/local-news/local-company-celebrates-self-founded-national-skilled-trades-day/"
+},
+{
+"text": "WKBN: ‘The seat is winnable,’ says young Republican vying for Ohio rep. seat",
+"href": "https://www.wkbn.com/news/local-news/the-seat-is-winnable-says-young-republican-vying-for-ohio-rep-seat/"
+},
+{
+"text": "[image: Nick Santucci for State Representative]",
+"href": "https://www.nicksantucci.com/"
+},
+{
+"text": "[image: Trades Back Santucci for State Representative]",
+"href": "https://www.nicksantucci.com/news/trades-back-santucci-for-state-representative"
+},
+{
+"text": "[image: Tribune Chronicle: Delicious fundraiser surrounded by art]",
+"href": "https://www.nicksantucci.com/news/delicious-fundraiser-surrounded-by-art"
+},
+{
+"text": "[image: Tribune Chronicle: Howland Republican leads in funds for state House race]",
+"href": "https://www.nicksantucci.com/news/howland-republican-leads-in-funds-for-state-house-race"
+},
+{
+"text": "[image: Tribune Chronicle: Incumbent state legislators, Santucci lead in raising money]",
+"href": "https://www.nicksantucci.com/news/incumbent-state-legislators-santucci-lead-in-raising-money"
+},
+{
+"text": "[image: Tribune Chronicle: Nick Santucci will deliver results, not rhetoric]",
+"href": "https://www.nicksantucci.com/news/tribune-chronicle-nick-santucci-will-deliver-results-not-rhetoric"
+},
+{
+"text": "[image: WFMJ: Brookfall Group CEO offering six months of free rent for Ukrainian refugees]",
+"href": "https://www.nicksantucci.com/news/wfmj-brookfall-group-ceo-offering-six-months-of-free-rent-for-ukrainian-refugees"
+},
+{
+"text": "[image: WFMJ: Ohio House Speaker calls map redistricting 'work in progress']",
+"href": "https://www.nicksantucci.com/news/wfmj-ohio-house-speaker-calls-map-redistricting-work-in-progress"
+},
+{
+"text": "[image: WFMJ: Republican Statehouse Candidate Nick Santucci Talks Primary Race]",
+"href": "https://www.nicksantucci.com/news/wjfm-nick-santucci-answers-questions-about-the-republican-primary-race-for-ohios-64th-district-house-of-representatives"
+},
+{
+"text": "[image: WKBN: Local company celebrates self-founded National Skilled Trades Day]",
+"href": "https://www.nicksantucci.com/news/wkbn-local-company-celebrates-self-founded-national-skilled-trades-day"
+},
+{
+"text": "[image: WKBN: ‘The seat is winnable,’ says young Republican vying for Ohio rep. seat]",
+"href": "https://www.nicksantucci.com/news/the-seat-is-winnable-says-young-republican-vying-for-ohio-rep-seat"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/votesantucci"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/nickssantucci"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NickSSantucci"
+}
 ]

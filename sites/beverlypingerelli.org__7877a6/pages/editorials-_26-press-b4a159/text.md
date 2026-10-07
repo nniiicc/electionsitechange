@@ -1,13 +1,3 @@
-Press Article - Arizona Capitol Times
-Press Article - The Arizona Globe
-Pingerelli, Bennett Highlight Hobbs’ Failure to Support Education Stakeholders
-Peterson, Shamp, and Bennett join Toma and Pingerelli in Condemning Biden War on Christianity
-Press Article - Arizona Daily Independent News
-State Lawmakers To Investigate Resistance to Free Speech At Arizona's Public Universities
-Pingerelli Editorial - Arizona Daily Independent News
-Yuma Area School District's Audit Failures Raise Questions For Gress And Pingerelli
-Pingerelli Bill Would Shut Administrators' Revolving Door for School Board Members
-Editorial - Daily Independent News
-Pingerelli: Biden's Polices have Failed at the Southern Border
-Pingerelli Bill Requiring Parental Oversight of Library Books Signed By Governor
-Pingerellis: Understanding our Uncertainty and Fears in K-12 Education during the COVID-19 Pandemic
+REPUBLICAN REPUBLICAN REPUBLICAN REPUBLICAN REPUBLICAN Home & Issues Positions Promises in Action Editorials & Press My Background Contact/Contribute REPUBLICAN REPUBLICAN REPUBLICAN REPUBLICAN Home & Issues Positions Promises in Action Editorials & Press My Background Contact/Contribute Standing for Freedom Contribute Press Articles and Editorials May 30, 2026 Press Article - Arizona Capitol Times Homeowners are Gaining Ground Against HOAs November 6, 2023 Press Article - The Arizona Globe Pingerelli, Bennett Highlight Hobbs’ Failure to Support Education Stakeholders October 26, 2023 Press Article - The Arizona Globe Peterson, Shamp, and Bennett join Toma and Pingerelli in Condemning Biden War on Christianity July 14, 2023 Press Article - Arizona Daily Independent News State Lawmakers To Investigate Resistance to Free Speech At Arizona's Public Universities May 24, 2023 Pingerelli Editorial - Arizona Daily Independent News Advancing Education And Public Safety in Peoria April 12, 2023 Press Article - Arizona Daily Independent News Yuma Area School District's Audit Failures Raise Questions For Gress And Pingerelli February 19, 2023 Press Article - Arizona Daily Independent News Pingerelli Bill Would Shut Administrators' Revolving Door for School Board Members June 28, 2022 Editorial - Daily Independent News Pingerelli: Biden's Polices have Failed at the Southern Border April 29, 2022 Press Article - Arizona Daily Independent News Pingerelli Bill Requiring Parental Oversight of Library Books Signed By Governor December 10, 2020 Editorial - Daily Independent News Pingerelli: Teaching Fear in the Name of Racism August 25, 2020 Editorial - Daily Independent News Pingerellis: Understanding our Uncertainty and Fears in K-12 Education during the COVID-19 Pandemic Press Releases Legislative District 28 Serving Sun City, Sun City West and portions of Peoria, Surprise, Glendale and Phoenix Paid for by Vote Pingerelli - Authorized by Beverly Pingerelli.
+Copyright © # Vote Pingerelli.
+All Rights Reserved.

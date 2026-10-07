@@ -1,5 +1,4 @@
-Meet Mike McCaffree
-Mike McCaffree grew up in Nevada, Missouri, where he built his career, raised his family, and established a successful business.
+0 Skip to Content Home About Mike Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Contact Donate Home About Mike Contact Donate Meet Mike McCaffree Mike McCaffree grew up in Nevada, Missouri, where he built his career, raised his family, and established a successful business.
 A 1987 graduate of Nevada High School and a 1991 graduate of Westminster College in Fulton, Missouri, Mike returned home and built a career helping families and businesses invest in their communities through real estate.
 Mike married Julia in 1998.
 Together, they raised five children and built their life in Nevada.
@@ -13,3 +12,5 @@ For nearly 30 years, Mike built and operated McCaffree Real Estate.
 That experience taught him the challenges Missouri families, homeowners, and small businesses face every day.
 Years of working with families, businesses, and local communities gave Mike a firsthand understanding of both the strengths and challenges of rural Missouri.
 Mike saw small towns fight for jobs and housing, schools stretch limited resources, and rural hospitals struggle to keep healthcare close to home.
+Learn How to Support Mike!
+Donate Contact Home About Mike Paid for by Mike McCaffree for State Senate Mike McCaffree, Treasurer Copyright © # Mike McCaffree for State Senate, All rights reserved.

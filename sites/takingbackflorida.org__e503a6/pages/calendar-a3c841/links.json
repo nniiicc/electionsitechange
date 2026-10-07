@@ -1,74 +1,410 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Amy+Trask+Meet+%26+Greet&dates=20260516T190000Z%2F20260516T210000Z&location=3400+Northwest+10th+Street%2C+Gainesville%2C+FL%2C+32609%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+kick-off&dates=20260726T140000Z%2F20260726T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coalition+canvass&dates=20260801T150000Z%2F20260801T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cut+Energy+Bills%3A+Build+a+Fair%2C+Clean+Energy+Future&dates=20260523T170000Z%2F20260523T193000Z&location=1624+Northwest+5th+Avenue%2C+Gainesville%2C+FL%2C+32603%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Democratic+Community+Meeting&dates=20260519T223000Z%2F20260520T000000Z&location=1221+Northwest+13th+Street%2C+Gainesville%2C+FL%2C+32601%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election&dates=20261103T120000Z%2F20261104T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+party+hosted+by+Maryvonne+Devensky&dates=20260829T210000Z%2F20260829T223000Z&location=2025+Northwest+35th+Terrace%2C+Gainesville%2C+Florida%2C+32605%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+party+hosted+by+the+Gainesville+Green+Team&dates=20260830T220000Z%2F20260831T010000Z&location=3011+Northeast+10th+Drive%2C+Gainesville%2C+Florida%2C+32609%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social&dates=20260522T223000Z%2F20260523T003000Z&location=925+Northwest+14th+Avenue%2C+Gainesville%2C+FL%2C+32601%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election&dates=20260818T110000Z%2F20260818T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=United+for+Democracy&dates=20260628T203000Z%2F20260628T233000Z&location=111+East+University+Avenue%2C+Gainesville%2C+Florida%2C+32601%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Weekly+neighborhood+canvassing&dates=20260816T140000Z%2F20261105T160000Z",
-"http://maps.google.com/?q=111+East+University+Avenue+Gainesville%2C+Florida%2C+32601+United+States",
-"http://maps.google.com/?q=1221+Northwest+13th+Street+Gainesville%2C+FL%2C+32601+United+States",
-"http://maps.google.com/?q=1624+Northwest+5th+Avenue+Gainesville%2C+FL%2C+32603+United+States",
-"http://maps.google.com/?q=2025+Northwest+35th+Terrace+Gainesville%2C+Florida%2C+32605+United+States",
-"http://maps.google.com/?q=3011+Northeast+10th+Drive+Gainesville%2C+Florida%2C+32609+United+States",
-"http://maps.google.com/?q=3400+Northwest+10th+Street+Gainesville%2C+FL%2C+32609+United+States",
-"http://maps.google.com/?q=925+Northwest+14th+Avenue+Gainesville%2C+FL%2C+32601+United+States",
-"https://bsky.app/profile/jasonbellamyfults.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSd6kCc7gB2-k1ssCzovXrSvRnheaRYMNq8zVnUk8WgIFle4Lg/viewform",
-"https://facebook.com/TakingBackFlorida",
-"https://facebook.com/events/1551338269811489",
-"https://facebook.com/events/1705254257276479",
-"https://facebook.com/events/1757605968587934",
-"https://facebook.com/events/2637847743277119",
-"https://forms.gle/ZcPDD8X7GMakpuav5",
-"https://instagram.com/jasonbellamyfults",
-"https://secure.actblue.com/donate/takingbackflorida",
-"https://takingbackflorida.org/",
-"https://takingbackflorida.org/alprs",
-"https://takingbackflorida.org/amendment-3",
-"https://takingbackflorida.org/bio",
-"https://takingbackflorida.org/blog",
-"https://takingbackflorida.org/calendar",
-"https://takingbackflorida.org/calendar/amy-trask-meet-greet",
-"https://takingbackflorida.org/calendar/amy-trask-meet-greet?format=ical",
-"https://takingbackflorida.org/calendar/canvassing-kick-off",
-"https://takingbackflorida.org/calendar/canvassing-kick-off-fhfdg",
-"https://takingbackflorida.org/calendar/canvassing-kick-off-fhfdg?format=ical",
-"https://takingbackflorida.org/calendar/canvassing-kick-off-x3h5s",
-"https://takingbackflorida.org/calendar/canvassing-kick-off-x3h5s?format=ical",
-"https://takingbackflorida.org/calendar/canvassing-kick-off?format=ical",
-"https://takingbackflorida.org/calendar/cut-energy-bills-build-a-fair-clean-energy-future",
-"https://takingbackflorida.org/calendar/cut-energy-bills-build-a-fair-clean-energy-future?format=ical",
-"https://takingbackflorida.org/calendar/democratic-community-meeting",
-"https://takingbackflorida.org/calendar/democratic-community-meeting?format=ical",
-"https://takingbackflorida.org/calendar/general-election",
-"https://takingbackflorida.org/calendar/general-election?format=ical",
-"https://takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky",
-"https://takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky-g8fae",
-"https://takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky-g8fae?format=ical",
-"https://takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky?format=ical",
-"https://takingbackflorida.org/calendar/ice-cream-social",
-"https://takingbackflorida.org/calendar/ice-cream-social?format=ical",
-"https://takingbackflorida.org/calendar/primary-election",
-"https://takingbackflorida.org/calendar/primary-election?format=ical",
-"https://takingbackflorida.org/calendar/united-for-democracy",
-"https://takingbackflorida.org/calendar/united-for-democracy?format=ical",
-"https://takingbackflorida.org/calendar?category=Fundraiser",
-"https://takingbackflorida.org/cart",
-"https://takingbackflorida.org/contact",
-"https://takingbackflorida.org/data-centers",
-"https://takingbackflorida.org/elder-care",
-"https://takingbackflorida.org/endorsements",
-"https://takingbackflorida.org/energy-policy",
-"https://takingbackflorida.org/get-involved",
-"https://takingbackflorida.org/healthcare",
-"https://takingbackflorida.org/platform-1",
-"https://takingbackflorida.org/printable-handout",
-"https://takingbackflorida.org/tell-your-story",
-"https://youtube.com/@JasonBellamy-Fults"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=111+east+university+avenue+gainesville%2C+florida%2C+32601+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1221+northwest+13th+street+gainesville%2C+fl%2C+32601+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1624+northwest+5th+avenue+gainesville%2C+fl%2C+32603+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2025+northwest+35th+terrace+gainesville%2C+florida%2C+32605+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3011+northeast+10th+drive+gainesville%2C+florida%2C+32609+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3400+northwest+10th+street+gainesville%2C+fl%2C+32609+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=925+northwest+14th+avenue+gainesville%2C+fl%2C+32601+united+states"
+},
+{
+"text": "0",
+"href": "https://www.takingbackflorida.org/cart"
+},
+{
+"text": "About Jason",
+"href": "https://www.takingbackflorida.org/bio"
+},
+{
+"text": "Agriculture",
+"href": "https://www.takingbackflorida.org/agriculture"
+},
+{
+"text": "Amendment 3",
+"href": "https://www.takingbackflorida.org/amendment-3"
+},
+{
+"text": "Amy Trask Meet & Greet",
+"href": "https://www.takingbackflorida.org/calendar/amy-trask-meet-greet"
+},
+{
+"text": "Back",
+"href": "https://www.takingbackflorida.org/"
+},
+{
+"text": "Blog",
+"href": "https://www.takingbackflorida.org/blog"
+},
+{
+"text": "Campaign Calendar",
+"href": "https://www.takingbackflorida.org/calendar"
+},
+{
+"text": "Canvassing kick-off",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off"
+},
+{
+"text": "Coalition canvass",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-x3h5s"
+},
+{
+"text": "Contact",
+"href": "https://www.takingbackflorida.org/contact"
+},
+{
+"text": "Cut Energy Bills: Build a Fair, Clean Energy Future",
+"href": "https://www.takingbackflorida.org/calendar/cut-energy-bills-build-a-fair-clean-energy-future"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/takingbackflorida"
+},
+{
+"text": "Data Centers",
+"href": "https://www.takingbackflorida.org/data-centers"
+},
+{
+"text": "Democratic Community Meeting",
+"href": "https://www.takingbackflorida.org/calendar/democratic-community-meeting"
+},
+{
+"text": "Elder Care",
+"href": "https://www.takingbackflorida.org/elder-care"
+},
+{
+"text": "Endorsements",
+"href": "https://www.takingbackflorida.org/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://www.takingbackflorida.org/energy-policy"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.takingbackflorida.org/get-involved"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.takingbackflorida.org/platform-1"
+},
+{
+"text": "Fundraiser",
+"href": "https://www.takingbackflorida.org/calendar?category=Fundraiser"
+},
+{
+"text": "General Election",
+"href": "https://www.takingbackflorida.org/calendar/general-election"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Amy+Trask+Meet+%26+Greet&dates=20260516T190000Z%2F20260516T210000Z&location=3400+Northwest+10th+Street%2C+Gainesville%2C+FL%2C+32609%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+kick-off&dates=20260726T140000Z%2F20260726T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coalition+canvass&dates=20260801T150000Z%2F20260801T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cut+Energy+Bills%3A+Build+a+Fair%2C+Clean+Energy+Future&dates=20260523T170000Z%2F20260523T193000Z&location=1624+Northwest+5th+Avenue%2C+Gainesville%2C+FL%2C+32603%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Democratic+Community+Meeting&dates=20260519T223000Z%2F20260520T000000Z&location=1221+Northwest+13th+Street%2C+Gainesville%2C+FL%2C+32601%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election&dates=20261103T120000Z%2F20261104T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+party+hosted+by+Maryvonne+Devensky&dates=20260829T210000Z%2F20260829T223000Z&location=2025+Northwest+35th+Terrace%2C+Gainesville%2C+Florida%2C+32605%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+party+hosted+by+the+Gainesville+Green+Team&dates=20260830T220000Z%2F20260831T010000Z&location=3011+Northeast+10th+Drive%2C+Gainesville%2C+Florida%2C+32609%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social&dates=20260522T223000Z%2F20260523T003000Z&location=925+Northwest+14th+Avenue%2C+Gainesville%2C+FL%2C+32601%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election&dates=20260818T110000Z%2F20260818T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=United+for+Democracy&dates=20260628T203000Z%2F20260628T233000Z&location=111+East+University+Avenue%2C+Gainesville%2C+Florida%2C+32601%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Weekly+neighborhood+canvassing&dates=20260816T140000Z%2F20261105T160000Z"
+},
+{
+"text": "Healthcare",
+"href": "https://www.takingbackflorida.org/healthcare"
+},
+{
+"text": "House party hosted by Maryvonne Devensky",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky"
+},
+{
+"text": "House party hosted by the Gainesville Green Team",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky-g8fae"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/amy-trask-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-fhfdg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-x3h5s?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/cut-energy-bills-build-a-fair-clean-energy-future?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/democratic-community-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/general-election?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky-g8fae?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/ice-cream-social?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/primary-election?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.takingbackflorida.org/calendar/united-for-democracy?format=ical"
+},
+{
+"text": "Ice Cream Social",
+"href": "https://www.takingbackflorida.org/calendar/ice-cream-social"
+},
+{
+"text": "Janice.garry@gmail.com",
+"href": "mailto:Janice.garry@gmail.com"
+},
+{
+"text": "Primary Election",
+"href": "https://www.takingbackflorida.org/calendar/primary-election"
+},
+{
+"text": "Printable Handout",
+"href": "https://www.takingbackflorida.org/printable-handout"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/events/1705254257276479"
+},
+{
+"text": "Share the event on Facebook",
+"href": "https://www.facebook.com/events/2637847743277119"
+},
+{
+"text": "Surveillance",
+"href": "https://www.takingbackflorida.org/alprs"
+},
+{
+"text": "Tell Your Story",
+"href": "https://www.takingbackflorida.org/tell-your-story"
+},
+{
+"text": "United for Democracy",
+"href": "https://www.takingbackflorida.org/calendar/united-for-democracy"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/amy-trask-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-fhfdg"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-x3h5s"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/cut-energy-bills-build-a-fair-clean-energy-future"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/democratic-community-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/general-election"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky-g8fae"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/ice-cream-social"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/primary-election"
+},
+{
+"text": "View Event →",
+"href": "https://www.takingbackflorida.org/calendar/united-for-democracy"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd6kCc7gB2-k1ssCzovXrSvRnheaRYMNq8zVnUk8WgIFle4Lg/viewform"
+},
+{
+"text": "Want to host an event? Reach out.",
+"href": "https://www.takingbackflorida.org/contact"
+},
+{
+"text": "Weekly neighborhood canvassing",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-fhfdg"
+},
+{
+"text": "[image: Amy Trask Meet & Greet]",
+"href": "https://www.takingbackflorida.org/calendar/amy-trask-meet-greet"
+},
+{
+"text": "[image: Canvassing kick-off]",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off"
+},
+{
+"text": "[image: Coalition canvass]",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-x3h5s"
+},
+{
+"text": "[image: Cut Energy Bills: Build a Fair, Clean Energy Future]",
+"href": "https://www.takingbackflorida.org/calendar/cut-energy-bills-build-a-fair-clean-energy-future"
+},
+{
+"text": "[image: Democratic Community Meeting]",
+"href": "https://www.takingbackflorida.org/calendar/democratic-community-meeting"
+},
+{
+"text": "[image: General Election]",
+"href": "https://www.takingbackflorida.org/calendar/general-election"
+},
+{
+"text": "[image: House party hosted by Maryvonne Devensky]",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky"
+},
+{
+"text": "[image: House party hosted by the Gainesville Green Team]",
+"href": "https://www.takingbackflorida.org/calendar/house-party-hosted-by-maryvonne-devensky-g8fae"
+},
+{
+"text": "[image: Ice Cream Social]",
+"href": "https://www.takingbackflorida.org/calendar/ice-cream-social"
+},
+{
+"text": "[image: Jason Bellamy-Fults for Florida ]",
+"href": "https://www.takingbackflorida.org/"
+},
+{
+"text": "[image: Primary Election]",
+"href": "https://www.takingbackflorida.org/calendar/primary-election"
+},
+{
+"text": "[image: United for Democracy]",
+"href": "https://www.takingbackflorida.org/calendar/united-for-democracy"
+},
+{
+"text": "[image: Weekly neighborhood canvassing]",
+"href": "https://www.takingbackflorida.org/calendar/canvassing-kick-off-fhfdg"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jasonbellamyfults.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TakingBackFlorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jasonbellamyfults"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JasonBellamy-Fults"
+},
+{
+"text": "contact us",
+"href": "https://www.takingbackflorida.org/contact"
+},
+{
+"text": "https://www.facebook.com/events/1551338269811489",
+"href": "https://www.facebook.com/events/1551338269811489"
+},
+{
+"text": "https://www.facebook.com/events/1757605968587934",
+"href": "https://www.facebook.com/events/1757605968587934"
+},
+{
+"text": "this form",
+"href": "https://forms.gle/ZcPDD8X7GMakpuav5"
+},
+{
+"text": "volunteer form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd6kCc7gB2-k1ssCzovXrSvRnheaRYMNq8zVnUk8WgIFle4Lg/viewform"
+}
 ]

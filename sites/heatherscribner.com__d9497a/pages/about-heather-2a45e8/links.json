@@ -1,7 +1,22 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://heatherscribner.com/",
-"https://heatherscribner.com/about-heather",
-"https://heatherscribner.com/contribute",
-"https://heatherscribner.com/lawn-signs"
+{
+"text": "About Heather",
+"href": "https://heatherscribner.com/about-heather"
+},
+{
+"text": "Contribute",
+"href": "https://heatherscribner.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://heatherscribner.com/"
+},
+{
+"text": "Lawn Signs",
+"href": "https://heatherscribner.com/lawn-signs"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

@@ -1,5 +1,2 @@
-Hawai’i Journalism Initiative 6.6.26
-Costliest repairs to Lahaina Harbor still ahead as dredging gets underway
-Written By Tambara Garrick
-Previous
-Next
+0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Hawai’i Journalism Initiative 6.6.26 Jun 6 Written By Tambara Garrick Costliest repairs to Lahaina Harbor still ahead as dredging gets underway Tambara Garrick Previous Previous Maui Now 6.12.26 Next Next Maui Now 5.19.26 Learn More About Priorities Take Action Connect Contact Donate Instagram Paid for by Friends of Sne Patel P.O.
+Box 10187 Lahaina, HI 96761 © # Friends of Sne Patel

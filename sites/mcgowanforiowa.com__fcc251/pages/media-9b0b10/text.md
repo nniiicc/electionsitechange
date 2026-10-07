@@ -1,17 +1,4 @@
-|
-|
-MEDIA COVERAGE
-KTIV to host debate on Sept. 30th:
-McGowan outlines key issues as November election approaches:
-McGowan urges ‘prudent use of arms’:
-See McGowan speak at the Des Moines Soapbox:
-McGowan on the Iowa Podcast:
-https://www.youtube.com/watch?v=TLw6hDf3HWw&t=1s
-Moment of comity between candidates in Iowa’s 4th congressional district:
-McGowan on the Simon Conway show (6/8/26):
-McGowan on the Simon Conway show (9/1/26):
-https://kscj.com/2025/06/25/mcgowan-announces-run-for-4th-district-congressional-seat/
-McGowan Secures Major Political Endorsement
-House Majority Whip Tom Emmer Backs McGowan for Iowa’s 4th District
-McGowan Adds Endorsement from Decorated Veteran
-Former Navy SEAL Robert O’Neill Supports Chris McGowan
+DONATE HOME DONATE JOIN US VISION ENDORSEMENTS ABOUT SNAPSHOTS MEDIA HOME DONATE JOIN US VISION ENDORSEMENTS ABOUT SNAPSHOTS MEDIA Mcgowan for iowa PO Box 207 Sioux City, IA 51101 Privacy Policy | | MEDIA COVERAGE KTIV to host debate on Sept.
+30th: https://www.ktiv.com/2026/08/28/ktiv-host-debate-sept-30-between-candidates-iowas-4th-congressional-district/ McGowan outlines key issues as November election approaches: https://www.ktiv.com/2026/08/11/republican-candidate-outlines-key-issues-november-election-approaches/ McGowan urges ‘prudent use of arms’: https://www.desmoinesregister.com/story/news/politics/elections/2026/08/17/chris-mcgowan-register-political-soapbox-iowa-state-fair-2026/91248320007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116035p119050l004450c119050e005550v116035d--46--b--46--&gca-ft=185&gca-ds=sophi See McGowan speak at the Des Moines Soapbox: https://www.desmoinesregister.com/picture-gallery/news/politics/elections/2026/08/17/2026-des-moines-register-soapbox-chris-mcgowan-iowa-state-fair/91334632007/ McGowan on the Iowa Podcast: https://www.youtube.com/watch?v=TLw6hDf3HWw&t=1s Moment of comity between candidates in Iowa’s 4th congressional district: https://stormlakeradio.com/state-news/moment-of-comity-between-candidates-in-iowas-4th-congressional-district/ McGowan on the Simon Conway show (6/8/26): https://woc1420.iheart.com/featured/simon-conway/content/2026-06-08-92-simon-conway-chris-mcgowan-682026-the-simon-conway-show/ McGowan on the Simon Conway show (9/1/26): https://woc1420.iheart.com/featured/simon-conway/content/2026-09-01-92-simon-conway-chris-mcgowen-912026-the-simon-conway-show/ https://kscj.com/2025/06/25/mcgowan-announces-run-for-4th-district-congressional-seat/ https://www.ktiv.com/2025/06/25/live-sioux-city-native-chris-mcgowan-announcing-run-iowa-4th-congressional-district/ https://who13.com/news/politics/iowa-politics/meet-chris-mcgowan-republican-candidate-for-iowas-4th-congressional-district/ https://www.kcci.com/article/sioux-city-republican-chris-mcgowan-launches-campaign-for-iowas-4th-congressional-district/65211472 h ttps://www.iheart.com/podcast/669-vintage-voorhees-27091316/episode/iowa-congressional-candidate-chris-mcgowan-282881949/ Download Photo McGowan Secures Major Political Endorsement House Majority Whip Tom Emmer Backs McGowan for Iowa’s 4th District McGowan Adds Endorsement from Decorated Veteran Former Navy SEAL Robert O’Neill Supports Chris McGowan McGowan Secures Major Political Endorsement U.S.
+House Judiciary Committee Chairman, Jim Jordan, Supports McGowan McGowan Secures Major Political Endorsement House Majority Leader Steve Scalise Backs McGowan for Iowa’s 4th District McGowan Adds Terry E.
+Branstad Endorsement & Announces over $500k in Fundraising McGowan Secures Major Political Endorsement House Majority Leader Steve Scalise McGowan Announces Congressional Bid McGowan Bio Campaign Leadership Team Mcgowan for iowa PO Box 207 Sioux City, IA 51101 Privacy Policy HOME DONATE JOIN US VISION ENDORSEMENTS ABOUT MEDIA

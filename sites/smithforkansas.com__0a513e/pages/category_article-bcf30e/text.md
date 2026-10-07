@@ -1,8 +1,5 @@
-Challenge for the 120th District SeatChallenge for the 120th District Seat
-The filing deadline has passed for the 2026 Primary Election.
-There were a few last-minute twists and turns in the[...]
-Weskan, KS – State Representative Adam Smith, honored to serve as the House Taxation Committee chairman, issued the following statement[...]
-Perhaps you’ve seen the recent letter to the editor by a gentleman named Imtiaz Stephen from Sharon Springs.
-The letter[...]
-I’ve been made aware of a graphic going around Facebook and would love the opportunity to address its content.
-Forewarning[...]
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now Category: Article Article Challenge for the 120th District Seat Challenge for the 120th District Seat June 1, 2026 10:16 PM The filing deadline has passed for the 2026 Primary Election.
+There were a few last-minute twists and turns in the[...] Read More Read More Article Smith Responds to Masterson on Property Taxes Smith Responds to Masterson on Property Taxes April 13, 2026 5:00 AM Weskan, KS – State Representative Adam Smith, honored to serve as the House Taxation Committee chairman, issued the following statement[...] Read More Read More Article Facts regarding Wallace County Tax Hike Facts regarding Wallace County Tax Hike December 2, 2025 9:48 AM Perhaps you’ve seen the recent letter to the editor by a gentleman named Imtiaz Stephen from Sharon Springs.
+The letter[...] Read More Read More Article The Truth about Property Tax Relief The Truth about Property Tax Relief October 29, 2025 8:00 AM I’ve been made aware of a graphic going around Facebook and would love the opportunity to address its content.
+Forewarning[...] Read More Read More Search Search Latest Posts Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Smith Responds to Masterson on Property Taxes April 13, 2026 Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

@@ -1,4 +1,4 @@
-Rep.
+Home About Alex Issues Donate Volunteer Register to Vote Main menu Rep.
 Burton represents Evansville, IN (House District 77) and is a voice for solutions and intentional policies that are fair and forward thinking.
 Rep.
 Burton is a graduate of Indiana State University and Western Kentucky University.
@@ -15,3 +15,5 @@ He is married to Dr.
 Xavia H.
 Burton and together, they have two children and two active dogs.
 They are members of Zion Missionary Baptist Church, reside in the 4th Ward of Evansville between Bellemeade & Bayard Parks, and are proud to call Evansville home.
+Where is District 77?
+Web Design by: Social Life Marketing | Authorized by Alex Burton for Indiana

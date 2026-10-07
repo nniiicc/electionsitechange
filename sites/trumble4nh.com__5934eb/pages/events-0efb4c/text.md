@@ -1,77 +1,13 @@
-Francestown Democratic Committee
-Francestown Town Hall - Saturday, September 19, 2026
-https://secure.actblue.com/donate/fdc-2026-trumble-fundraiser
-NH State House
-Thursday, June 4, 2026
-Annual town festival, with everything rhubarb!
-Saturday, June 6, 2026
-Sunday, June 14, 2026 in Keene
-Monday, June 15, 2026
-Broad Street Park in Claremont
-Camp Hawkeye in Charlestown
-Friday, June 19, 2026
-Walking with the Weare Dems
-Saturday, June 20, 2026
-Bedford Public Library
-Wednesday, June 24, 2026
-Meeting to plan the summer and fall.
-Thursday, June 25, 2026
-Gilsum, NH
-Saturday, June 27, 2026
-Weare Public Libary
-Sunday, June 28, 2026
-Downtown, Claremont
-Friday, July 3, 2026
-Pancake Breakfast, Historical Society Museum open, and events all day
-Washington, NH July 4, 2026
-Celebrating our 250th birthday.
+Skip navigation menu About Priorities Events Videos District 8 Endorsements Volunteer Contact Donate Events About Priorities Events Videos District 8 Endorsements Volunteer Contact Donate Events Featured fundraiser with Local Food dinner Farm to Table Dinner Francestown Democratic Committee Francestown Town Hall - Saturday, September 19, 2026 https://secure.actblue.com/donate/fdc-2026-trumble-fundraiser View More Featured SIGN UP DAY Sign up to run for State Senate NH State House Thursday, June 4, 2026 View More Featured First summer celebration!
+Bennington Rhubarb Festival Annual town festival, with everything rhubarb!
+Saturday, June 6, 2026 View More Featured Gathering with fellow Dems Cheshire County Dems Spaghetti Dinner Sunday, June 14, 2026 in Keene View More Featured Pride WEEK Flag Raising in Claremont Monday, June 15, 2026 Broad Street Park in Claremont View More Featured Remembrance and Celebration Juneteenth Celebration Camp Hawkeye in Charlestown Friday, June 19, 2026 View More Featured Happy 250th birthday Weare Patriotic Parade Walking with the Weare Dems Saturday, June 20, 2026 View More Featured Celebrate Candidates for County Office Hillsborough County Dems Bedford Public Library Wednesday, June 24, 2026 View More Featured Town Committee MEETING Newport Dems Meeting to plan the summer and fall.
+Thursday, June 25, 2026 View More Featured 60th annual FEstival Gilsum Rock Swap Gilsum, NH Saturday, June 27, 2026 View More Featured MEEt the candidates Weare Dems Strawberry Social Weare Public Libary Sunday, June 28, 2026 View More Featured Claremont 250th Block Party Downtown, Claremont Friday, July 3, 2026 View More Featured 250th Celebration Washington 250th Pancake Breakfast, Historical Society Museum open, and events all day Washington, NH July 4, 2026 View More Featured 4th of July Sunapee Parade Celebrating our 250th birthday.
 Walking with the Sunapee Dems in the parade.
-Saturday, July 4, 2026
-Unity Town Common - all day
-Saturday, July 25, 2026
-Speed Dating for Candidates.
+Saturday, July 4, 2026 View More Featured Annual Celebration Unity Old Home Day Unity Town Common - all day Saturday, July 25, 2026 View More Featured Meet and Greet Sunapee Dems Speed Dating for Candidates.
 Candidates move from one table to the next to talk with people.
-Tuesday, July 28, 2026
-Sunapee, NH
-Community events in both towns
-Claremont - Pleasant Street
-Newport Town Common
-Tuesday, August 4, 2026
-Sunapee, NH
-August 6, 2026 (fair runs from August 1st-8th)
-Friday, August 7, 2026
-Newport Town Common
-Events at Lempster Meetinghouse
-Saturday, August 8, 2026
-Town Common, Dunbarton
-Saturday, August 15, 2026
-Outdoor house party
-Gilsum, August 16th
-Town Common, Newport
-Saturday, August 22, 2026
-Barnes Park, Claremont
-Saturday August 22, 2026
-People getting together to write postcards for our campaign.
+Tuesday, July 28, 2026 Sunapee, NH View More Featured National Night Out Claremont and Newport Community events in both towns Claremont - Pleasant Street Newport Town Common Tuesday, August 4, 2026 View More Featured APPRECIATE the ARTS!
+Annual League of NH Craftsmen Fair Sunapee, NH August 6, 2026 (fair runs from August 1st-8th) View More Featured Newport Candidates Newport Farmer's Market Friday, August 7, 2026 Newport Town Common View More Featured Parade and tents Lempster Old Home Day Events at Lempster Meetinghouse Saturday, August 8, 2026 View More Parade Dunbarton Old Home Day Town Common, Dunbarton Saturday, August 15, 2026 View More Featured Cook out and PotLuck Meet and Greet the candidates in Gilsum Outdoor house party Gilsum, August 16th View More Featured apple pie contest Newport Apple Pie and Craft Festival Town Common, Newport Saturday, August 22, 2026 View More Featured Celebration of a New Year Claremont Back to School Festival Barnes Park, Claremont Saturday August 22, 2026 View More Featured Community ties Postcard parties People getting together to write postcards for our campaign.
 Locations throughout the region over a couple of weeks.
-Monarch Farms, September 1st
-Claremont, NH
-Monday, September 7, 2026
-Tuesday, September 8, 2026
-All 20 towns in Senate District 8.
-Child care, housing, property tax relief, education funding
-Hillsborough County Dems will have a booth at
-the fair grounds
-New Boston, NH
-September 11-13, 2026
-Langdon Village
-September 19, 2026
-Francestown Town Hall, September 19, 2026
-Unity NH September 20, 2026
-League of Women Voters and Friends of the Library hosted event.
-September 24, 2026
-September 25, 2026
-Peterborough Community Center
-September 27, 2026
-Claremont Senior Center
-September 30, 2026
-Rochester Opera House Friday, October 2, 2026
+View More Featured COMMUNITY EVENT Kickoff Rally for Sullivan County Dems Monarch Farms, September 1st Claremont, NH View More Featured Francestown Labor Day Celebration Monday, September 7, 2026 View More Featured Election Day NH Statewide Primary Tuesday, September 8, 2026 All 20 towns in Senate District 8.
+View More Featured WMUR Debate Debate focused on helping young people and families Child care, housing, property tax relief, education funding View More Featured Celebrating Rural LIFE Hillsborough County Fair Hillsborough County Dems will have a booth at the fair grounds New Boston, NH September 11-13, 2026 View More Featured Local Crafts, Food and History Langdon Fall Festival Langdon Village September 19, 2026 View More Featured Fundraiser Farm-to-Table Dinner Francestown Town Hall, September 19, 2026 View More Featured Talk with & lIsten to people Unity NH Meet and Greet Unity NH September 20, 2026 View More Featured NONPARTISAN event Springfield Candidate Forum League of Women Voters and Friends of the Library hosted event.
+September 24, 2026 View More Featured At the OPera House Newport Historical Society Exhibition September 25, 2026 View More Featured GRASSROOTS recognition - Town committees Hillsborough County Dems Picnic Peterborough Community Center September 27, 2026 View More Featured Meeting families of Adults with disabilities Pathways Candidate Forum Claremont Senior Center September 30, 2026 View More Featured ROchester Rally with Pete BUttigieg Democratic leaders speak on stage Rochester Opera House Friday, October 2, 2026 View More Contact us: Trumble4NH@gmail.com Powered by RUN! website builder Paid for by Trumble4NH, 52 Poor Farm Road, Weare, NH 03281 Treasurer, David Trumble You need to enable JavaScript to run this app.

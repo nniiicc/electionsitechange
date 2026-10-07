@@ -1,58 +1,250 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Calloway+Co+Fish+Fry&dates=20260925T220000Z%2F20260926T000000Z&location=1512+North+12th+Street%2C+Murray%2C+Kentucky%2C+42071%2C+United+States",
-"http://maps.google.com/?q=1512+North+12th+Street+Murray%2C+Kentucky%2C+42071+United+States",
-"https://bsky.app/profile/williamsforky1.bsky.social",
-"https://facebook.com/WilliamsForKY",
-"https://familycommunity/",
-"https://govanddemocracy/",
-"https://instagram.com/williamsforky1",
-"https://secure.actblue.com/donate/williamsforky1",
-"https://tiktok.com/@williamsforky1",
-"https://williamsforky.com/",
-"https://williamsforky.com/ai-safety",
-"https://williamsforky.com/businessreform",
-"https://williamsforky.com/calendar",
-"https://williamsforky.com/calendar/calloway-co-fish-fry?format=ical",
-"https://williamsforky.com/calendar/james-h-mooneyhan-dinner",
-"https://williamsforky.com/calendar/marshall-county-rock-the-vote",
-"https://williamsforky.com/campaign-reform",
-"https://williamsforky.com/cart",
-"https://williamsforky.com/child-advocacy",
-"https://williamsforky.com/civil-ai",
-"https://williamsforky.com/congressional-reform",
-"https://williamsforky.com/consumerprotections",
-"https://williamsforky.com/contact",
-"https://williamsforky.com/creator-ai",
-"https://williamsforky.com/data-centers",
-"https://williamsforky.com/drew",
-"https://williamsforky.com/drewnews",
-"https://williamsforky.com/drug-pricing",
-"https://williamsforky.com/education",
-"https://williamsforky.com/ems",
-"https://williamsforky.com/endorsements",
-"https://williamsforky.com/farm-independence",
-"https://williamsforky.com/farm-markets",
-"https://williamsforky.com/farm-security",
-"https://williamsforky.com/farming",
-"https://williamsforky.com/healthcare",
-"https://williamsforky.com/housing",
-"https://williamsforky.com/human-ai",
-"https://williamsforky.com/infrastructure",
-"https://williamsforky.com/key-issues",
-"https://williamsforky.com/labor-rights",
-"https://williamsforky.com/merch",
-"https://williamsforky.com/military-funding",
-"https://williamsforky.com/military-parents",
-"https://williamsforky.com/mutual-aid",
-"https://williamsforky.com/parental-care",
-"https://williamsforky.com/policy",
-"https://williamsforky.com/privacy-policy",
-"https://williamsforky.com/s/Williams-for-Kentucky-Contribution-Form",
-"https://williamsforky.com/seniors-accessibility",
-"https://williamsforky.com/taxpolicy",
-"https://williamsforky.com/terms-and-condtitions",
-"https://williamsforky.com/veterans",
-"https://williamsforky.com/volunteer",
-"https://williamsforky.com/workers-ai",
-"https://x.com/Williamsforky1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1512+north+12th+street+murray%2C+kentucky%2C+42071+united+states"
+},
+{
+"text": "--AI-Safety",
+"href": "https://www.williamsforky.com/ai-safety"
+},
+{
+"text": "--Business Reform",
+"href": "https://www.williamsforky.com/businessreform"
+},
+{
+"text": "--Campaign Reform",
+"href": "https://www.williamsforky.com/campaign-reform"
+},
+{
+"text": "--Child Advocacy",
+"href": "https://www.williamsforky.com/child-advocacy"
+},
+{
+"text": "--Civil Rights & AI",
+"href": "https://www.williamsforky.com/civil-ai"
+},
+{
+"text": "--Congressional Reform",
+"href": "https://www.williamsforky.com/congressional-reform"
+},
+{
+"text": "--Consumer Protections",
+"href": "https://www.williamsforky.com/consumerprotections"
+},
+{
+"text": "--Creator Ethics & AI",
+"href": "https://www.williamsforky.com/creator-ai"
+},
+{
+"text": "--Data Centers",
+"href": "https://www.williamsforky.com/data-centers"
+},
+{
+"text": "--Drug Pricing / Access",
+"href": "https://www.williamsforky.com/drug-pricing"
+},
+{
+"text": "--EMS",
+"href": "https://www.williamsforky.com/ems"
+},
+{
+"text": "--Education",
+"href": "https://www.williamsforky.com/education"
+},
+{
+"text": "--Farm Independence",
+"href": "https://www.williamsforky.com/farm-independence"
+},
+{
+"text": "--Farm Markets",
+"href": "https://www.williamsforky.com/farm-markets"
+},
+{
+"text": "--Farm Security",
+"href": "https://www.williamsforky.com/farm-security"
+},
+{
+"text": "--Farm Supports",
+"href": "https://www.williamsforky.com/farming"
+},
+{
+"text": "--Health Insurance",
+"href": "https://www.williamsforky.com/healthcare"
+},
+{
+"text": "--Housing",
+"href": "https://www.williamsforky.com/housing"
+},
+{
+"text": "--Human Rights & AI",
+"href": "https://www.williamsforky.com/human-ai"
+},
+{
+"text": "--Infrastructure",
+"href": "https://www.williamsforky.com/infrastructure"
+},
+{
+"text": "--Labor Rights",
+"href": "https://www.williamsforky.com/labor-rights"
+},
+{
+"text": "--Military Funding",
+"href": "https://www.williamsforky.com/military-funding"
+},
+{
+"text": "--Military Parent's Reprieve",
+"href": "https://www.williamsforky.com/military-parents"
+},
+{
+"text": "--Parental Care",
+"href": "https://www.williamsforky.com/parental-care"
+},
+{
+"text": "--Senior Accessibility",
+"href": "https://www.williamsforky.com/seniors-accessibility"
+},
+{
+"text": "--Tax Policy",
+"href": "https://www.williamsforky.com/taxpolicy"
+},
+{
+"text": "--Veteran's Assistance",
+"href": "https://www.williamsforky.com/veterans"
+},
+{
+"text": "--Workers & AI",
+"href": "https://www.williamsforky.com/workers-ai"
+},
+{
+"text": "0",
+"href": "https://www.williamsforky.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.williamsforky.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.williamsforky.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.williamsforky.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/williamsforky1"
+},
+{
+"text": "Donate by Mail",
+"href": "https://www.williamsforky.com/s/Williams-for-Kentucky-Contribution-Form"
+},
+{
+"text": "Drew",
+"href": "https://www.williamsforky.com/drew"
+},
+{
+"text": "Drew News",
+"href": "https://www.williamsforky.com/drewnews"
+},
+{
+"text": "Endorsements",
+"href": "https://www.williamsforky.com/endorsements"
+},
+{
+"text": "Family & Community",
+"href": "https://familycommunity"
+},
+{
+"text": "Folder: Policies",
+"href": "https://www.williamsforky.com/key-issues"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calloway+Co+Fish+Fry&dates=20260925T220000Z%2F20260926T000000Z&location=1512+North+12th+Street%2C+Murray%2C+Kentucky%2C+42071%2C+United+States"
+},
+{
+"text": "Government & Democracy",
+"href": "https://govanddemocracy"
+},
+{
+"text": "ICS",
+"href": "https://www.williamsforky.com/calendar/calloway-co-fish-fry?format=ical"
+},
+{
+"text": "Meet Drew",
+"href": "https://www.williamsforky.com/drew"
+},
+{
+"text": "Merch",
+"href": "https://www.williamsforky.com/merch"
+},
+{
+"text": "Mutual Aid",
+"href": "https://www.williamsforky.com/mutual-aid"
+},
+{
+"text": "Next Next September 26 Marshall County Rock the Vote",
+"href": "https://www.williamsforky.com/calendar/marshall-county-rock-the-vote"
+},
+{
+"text": "Policy Plans",
+"href": "https://www.williamsforky.com/policy"
+},
+{
+"text": "Previous Previous September 24 James H. Mooneyhan Dinner",
+"href": "https://www.williamsforky.com/calendar/james-h-mooneyhan-dinner"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.williamsforky.com/privacy-policy"
+},
+{
+"text": "TELL ME ABOUT IT",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Terms + Conditions",
+"href": "https://www.williamsforky.com/terms-and-condtitions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.williamsforky.com/volunteer"
+},
+{
+"text": "[image: Williams for KY]",
+"href": "https://www.williamsforky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/williamsforky1.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WilliamsForKY"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamsforky1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@williamsforky1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Williamsforky1"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@williamsforky.com"
+}
 ]

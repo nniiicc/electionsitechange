@@ -1,5 +1,4 @@
-Nikki
-If you had told me a few years ago that I would become a political activist, I never would’ve believed you.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Nikki More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett If you had told me a few years ago that I would become a political activist, I never would’ve believed you.
 I was a regular voter, but I couldn’t even name my state or federal legislators and often relied on my husband’s recommendations on local elections.
 That all changed after the 2016 election.
 I suddenly realized that it wasn’t enough to vote.
@@ -17,5 +16,4 @@ Soon familiar names appeared on my ballot as friends began to run for office for
 I devoted most of 2018 to working on local campaigns, including Rep.
 Vining’s.
 And my circle widened.
-I’ve met some of my best friends through political activism and campaign volunteering, and it’s energizing to work alongside so many smart, talented, passionate people who care deeply about living our values.
-– Nikki
+I’ve met some of my best friends through political activism and campaign volunteering, and it’s energizing to work alongside so many smart, talented, passionate people who care deeply about living our values. – Nikki More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

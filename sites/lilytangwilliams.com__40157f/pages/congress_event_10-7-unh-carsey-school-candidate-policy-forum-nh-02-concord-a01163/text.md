@@ -1,6 +1,4 @@
-10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord
-October 7 @ 6:00 pm - 7:35 pm
-Wednesday, 10/7, 6:00 PM – 7:35 PM
-Rudman Center, UNH Franklin Pierce School of Law, Concord, NH
-A 35-minute, one-on-one policy conversation with Pulitzer Prize–winning Washington Post correspondent Kevin Sullivan, followed by vetted audience questions.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord October 7 @ 6:00 pm - 7:35 pm « 10/6 – ASK ME ANYTHING Town Hall – Jaffrey 10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton » Wednesday, 10/7, 6:00 PM – 7:35 PM Rudman Center, UNH Franklin Pierce School of Law, Concord, NH A 35-minute, one-on-one policy conversation with Pulitzer Prize–winning Washington Post correspondent Kevin Sullivan, followed by vetted audience questions.
 Livestreamed statewide.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 7 Time: 6:00 pm - 7:35 pm Event Category: Events « 10/6 – ASK ME ANYTHING Town Hall – Jaffrey 10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

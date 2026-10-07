@@ -1,7 +1,4 @@
-Logged In: 22-28 February 2026 Week In Review
-By Shane Klakken, Montana House District 37
-February 28, 2026
-Monday, February 23: Monday was a full one.
+top of page News Principles Calendar About Menu Close Donate Logged In: 22-28 February 2026 Week In Review By Shane Klakken, Montana House District 37 February 28, 2026 Monday, February 23: Monday was a full one.
 Over in Winnett, the Methodist Church held its annual pancake dinner fundraiser, and it was well attended.
 I don’t always get the chance to make it out that way, so when I do, I take the opportunity to sit down and visit with folks.
 It’s good medicine.
@@ -79,4 +76,7 @@ I also now have a YouTube channel “Shane Klakken for Montana”.
 I’m also putting together a weekly newsletter — if you’d like to receive it, sign up through the website and I’ll make sure you stay in the loop.
 Thank you for the privilege of representing you.
 Have a good week, and I’ll see you next time.
-Shane Klakken of Grass Range is the House District 37 Representative
+Shane Klakken of Grass Range is the House District 37 Representative Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

@@ -1,26 +1,118 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61590532234569",
-"https://linkedin.com/in/bradleytrahan",
-"https://trahanmn25a.com/",
-"https://trahanmn25a.com/contact",
-"https://trahanmn25a.com/contribute",
-"https://trahanmn25a.com/contribute?amount=10",
-"https://trahanmn25a.com/contribute?amount=100",
-"https://trahanmn25a.com/contribute?amount=1000",
-"https://trahanmn25a.com/contribute?amount=25",
-"https://trahanmn25a.com/contribute?amount=250",
-"https://trahanmn25a.com/contribute?amount=50",
-"https://trahanmn25a.com/contribute?amount=500",
-"https://trahanmn25a.com/events",
-"https://trahanmn25a.com/home",
-"https://trahanmn25a.com/issues",
-"https://trahanmn25a.com/meet_brad",
-"https://trahanmn25a.com/news",
-"https://trahanmn25a.com/photos",
-"https://trahanmn25a.com/view-endorsements",
-"https://trahanmn25a.com/volunteer",
-"https://trahanmn25a.com/vote",
-"https://trahanmn25a.com/yard-sign",
-"https://x.com/home"
+{
+"text": "$10",
+"href": "https://www.trahanmn25a.com/contribute?amount=10"
+},
+{
+"text": "$100",
+"href": "https://www.trahanmn25a.com/contribute?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://www.trahanmn25a.com/contribute?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://www.trahanmn25a.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://www.trahanmn25a.com/contribute?amount=250"
+},
+{
+"text": "$50",
+"href": "https://www.trahanmn25a.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://www.trahanmn25a.com/contribute?amount=500"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.trahanmn25a.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.trahanmn25a.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.trahanmn25a.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.trahanmn25a.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.trahanmn25a.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.trahanmn25a.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.trahanmn25a.com/volunteer"
+},
+{
+"text": "Meet Brad",
+"href": "https://www.trahanmn25a.com/meet_brad"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.trahanmn25a.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.trahanmn25a.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.trahanmn25a.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.trahanmn25a.com/photos"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.trahanmn25a.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.trahanmn25a.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trahanmn25a.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.trahanmn25a.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.trahanmn25a.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.trahanmn25a.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590532234569"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/bradleytrahan/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/home"
+}
 ]

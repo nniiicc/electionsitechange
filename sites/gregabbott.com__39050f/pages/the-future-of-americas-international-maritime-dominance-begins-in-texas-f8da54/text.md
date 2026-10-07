@@ -1,6 +1,5 @@
-Polar icebreaker vessels built by Texans on the Texas Gulf Coast will be deployed to defend American sovereignty in the fastest-growing strategic theater on earth: the Arctic circle.
-“A Texan shipbuilder is truly a force to be reckoned with.”
-That was Inocea Group’s opening message on Monday, June 1, in Galveston, Texas, at Davie Defense’s groundbreaking for the $1 billion modernization of the Galveston and Port Arthur-based Gulf Copper icebreaker production facilities.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page The Future of America’s International Maritime Dominance Begins in Texas Jun 4, 2026 Polar icebreaker vessels built by Texans on the Texas Gulf Coast will be deployed to defend American sovereignty in the fastest-growing strategic theater on earth: the Arctic circle.
+“A Texan shipbuilder is truly a force to be reckoned with.” That was Inocea Group’s opening message on Monday, June 1, in Galveston, Texas, at Davie Defense’s groundbreaking for the $1 billion modernization of the Galveston and Port Arthur-based Gulf Copper icebreaker production facilities.
 The first phase of the shipyard upgrade is scheduled for completion in 2028.
 Davie Defense, a subsidiary of the maritime defense conglomerate, Inocea, is proudly American.
 The U.S. shipbuilder was formed in December 2025 when Inocea successfully acquired Gulf Copper’s shipbuilding assets — a move which came on the heels of President Donald Trump’s directive to expand America’s presence in the Arctic and bolster the nation’s sea power through the construction of Arctic-capable marine vessels, or polar icebreakers.
@@ -22,3 +21,5 @@ While blue states stunted by red tape and overregulation move at a glacial pace,
 It is these competitive advantages that led Davie Defense to select Texas as the home base for the Coast Guard’s new fleet of icebreakers.
 Inocea Group said it best – Texans think big and they get things done, fast; we are a force be reckoned with.
 It’s only fitting that the manufacturing heart of America’s Arctic comeback be located right here in Texas.
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

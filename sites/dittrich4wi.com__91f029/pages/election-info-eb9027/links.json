@@ -1,30 +1,122 @@
 [
-"https://chenequa.org/government/elections",
-"https://dittrich4wi.com/",
-"https://dittrich4wi.com/about-barbara-dittrich",
-"https://dittrich4wi.com/contact",
-"https://dittrich4wi.com/donate",
-"https://dittrich4wi.com/election-info",
-"https://dittrich4wi.com/endorsements",
-"https://dittrich4wi.com/issues",
-"https://dittrich4wi.com/volunteer",
-"https://dittrich4wi.com/yard-sign",
-"https://elections.wi.gov/voters",
-"https://facebook.com/Dittrich4WI",
-"https://instagram.com/dittrich4wi",
-"https://laclabelle-wi.gov/custom/24081",
-"https://lebanondodgewi.gov/election-information",
-"https://maps.legis.wisconsin.gov/",
-"https://myvote.wi.gov/en-us/FindMyPollingPlace",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/VoteAbsentee",
-"https://nashotah-wi.gov/index.asp?Type=B_BASIC&SEC=%7BA9C5D84F-B530-43F8-8A1D-8970334441C6%7D",
-"https://newskywebsites.com/",
-"https://oconomowoc-wi.gov/136/Absentee-Voting",
-"https://rubiconwi.gov/election-voting",
-"https://townofixonia.com/election-information",
-"https://townofmerton.com/administration/page/elections",
-"https://twitter.com/Dittrich4WI",
-"https://villageofneosho.org/elections",
-"https://wi-hartland2.civicplus.com/402/Elections"
+{
+"text": "About",
+"href": "https://www.dittrich4wi.com/about-barbara-dittrich"
+},
+{
+"text": "City of Oconomowoc",
+"href": "https://oconomowoc-wi.gov/136/Absentee-Voting"
+},
+{
+"text": "Contact",
+"href": "https://www.dittrich4wi.com/contact"
+},
+{
+"text": "Design by New Sky Websites, LLC",
+"href": "https://newskywebsites.com"
+},
+{
+"text": "Donate",
+"href": "https://www.dittrich4wi.com/donate"
+},
+{
+"text": "Election Info",
+"href": "https://www.dittrich4wi.com/election-info"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dittrich4wi.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.dittrich4wi.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dittrich4wi.com/issues"
+},
+{
+"text": "ORDER YOUR 2026 YARD SIGN!",
+"href": "https://www.dittrich4wi.com/yard-sign"
+},
+{
+"text": "Town of Ixonia",
+"href": "https://townofixonia.com/election-information/"
+},
+{
+"text": "Town of Lebanon",
+"href": "https://lebanondodgewi.gov/election-information/"
+},
+{
+"text": "Town of Merton",
+"href": "https://www.townofmerton.com/administration/page/elections"
+},
+{
+"text": "Town of Rubicon",
+"href": "https://rubiconwi.gov/election-voting/"
+},
+{
+"text": "Village of Chenequa",
+"href": "https://chenequa.org/government/elections/"
+},
+{
+"text": "Village of Hartland",
+"href": "https://wi-hartland2.civicplus.com/402/Elections"
+},
+{
+"text": "Village of Lac La Belle",
+"href": "https://www.laclabelle-wi.gov/custom/24081"
+},
+{
+"text": "Village of Nashotah",
+"href": "https://www.nashotah-wi.gov/index.asp?Type=B_BASIC&SEC=%7BA9C5D84F-B530-43F8-8A1D-8970334441C6%7D"
+},
+{
+"text": "Village of Neosho",
+"href": "https://villageofneosho.org/elections/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dittrich4wi.com/volunteer"
+},
+{
+"text": "[image: Barbara Dittrich for Wisconsin]",
+"href": "https://www.dittrich4wi.com/"
+},
+{
+"text": "[image]",
+"href": "https://maps.legis.wisconsin.gov/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Dittrich4WI"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Dittrich4WI/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dittrich4wi/"
+},
+{
+"text": "dittrich4the38th@gmail.com",
+"href": "mailto:dittrich4the38th@gmail.com"
+},
+{
+"text": "here",
+"href": "https://elections.wi.gov/voters"
+},
+{
+"text": "here",
+"href": "https://myvote.wi.gov/en-us/FindMyPollingPlace"
+},
+{
+"text": "here",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "here",
+"href": "https://myvote.wi.gov/en-us/VoteAbsentee"
+}
 ]

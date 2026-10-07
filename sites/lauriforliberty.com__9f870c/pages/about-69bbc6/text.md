@@ -1,13 +1,6 @@
-Learn more about Lauri Shillings
-Why I Am Running
-I am not running to build a life-long political career.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Learn more about Lauri Shillings Why I Am Running I am not running to build a life-long political career.
 I am running because this office touches the daily life of every Hoosier who has ever voted, started a business, or needed a public record — and it deserves someone who will actually show up and do the job.
-As Secretary of State, I am focused on three core priorities:
-- Protecting the Integrity and Privacy of Indiana Elections
-- Serving Small Businesses and Entrepreneurs
-- Educating and Empowering Indiana Voters
-About Me
-I grew up in rural Indiana — on one of the oldest original family homesteads in the state, along the Tippecanoe and Montgomery County border where my parents still live today.
+As Secretary of State, I am focused on three core priorities: Protecting the Integrity and Privacy of Indiana Elections Serving Small Businesses and Entrepreneurs Educating and Empowering Indiana Voters About Me I grew up in rural Indiana — on one of the oldest original family homesteads in the state, along the Tippecanoe and Montgomery County border where my parents still live today.
 My dad fixed things for a living.
 My mom ran a one-chair beauty salon.
 I was waitressing at fourteen because that is what you did.
@@ -39,3 +32,5 @@ I am the Libertarian nominee for Indiana Secretary of State.
 I am not running for the next thing.
 I am running for this — for you, for every Hoosier who deserves a government that works, and for the thirty-year Libertarian ballot access that proves we are not going anywhere.
 Your support helps our campaign reach voters across the state of Indiana.
+DONATE TODAY Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

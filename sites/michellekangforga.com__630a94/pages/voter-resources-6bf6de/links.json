@@ -1,45 +1,198 @@
 [
-"https://facebook.com/michellekangforga",
-"https://forms.gle/ggY91NanFovbnCF26",
-"https://georgiademocrat.org/voter-resources",
-"https://google.com/maps/search/100+East+Crogan+Street,+Lawrenceville+GA?entry=gmail",
-"https://google.com/maps/search/1052+Ozora+Road,+Loganville+GA?entry=gmail",
-"https://google.com/maps/search/1063+Rockbridge+Road,+Stone+Mountain+GA?entry=gmail",
-"https://google.com/maps/search/2723+North+Bogan+Road,+Buford+GA?entry=gmail",
-"https://google.com/maps/search/2735+Auburn+Avenue,+Dacula?entry=gmail",
-"https://google.com/maps/search/2750+Pleasant+Hill+Road,+Duluth+GA?entry=gmail",
-"https://google.com/maps/search/2780+Five+Forks+Trickum+Road+SW,+Lawrenceville+GA?entry=gmail",
-"https://google.com/maps/search/4515+Lenora+Church+Road,+Snellville+GA?entry=gmail",
-"https://google.com/maps/search/455+Camp+Perrin+Road,+Lawrenceville+GA?entry=gmail",
-"https://google.com/maps/search/455+Grayson+Highway,+Suite+200,+Lawrenceville+GA?entry=gmail",
-"https://google.com/maps/search/4650+Peachtree+Industrial+Boulevard,+Berkeley+Lake,+GA?entry=gmail",
-"https://google.com/maps/search/4651+Britt+Road,+Norcross+GA?entry=gmail",
-"https://google.com/maps/search/55+Buford+Highway,+Suwanee+GA?entry=gmail",
-"https://gwinnettcounty.com/government/departments/elections/register-vote",
-"https://instagram.com/michellekangforga",
-"https://michellekangforga.com/",
-"https://michellekangforga.com/2026-campaign",
-"https://michellekangforga.com/2026-endorsements",
-"https://michellekangforga.com/2026-platform",
-"https://michellekangforga.com/2026-press",
-"https://michellekangforga.com/about-michelle",
-"https://michellekangforga.com/blog",
-"https://michellekangforga.com/cart",
-"https://michellekangforga.com/connect",
-"https://michellekangforga.com/events",
-"https://michellekangforga.com/get-involved",
-"https://michellekangforga.com/get-involved-branch",
-"https://michellekangforga.com/interviews",
-"https://michellekangforga.com/media-center",
-"https://michellekangforga.com/meet-michelle",
-"https://michellekangforga.com/podcast",
-"https://michellekangforga.com/privacy-policy",
-"https://michellekangforga.com/terms-of-use",
-"https://michellekangforga.com/voter-resources",
-"https://michellekangforga.substack.com/podcast",
-"https://mobilize.us/FriendsofMichelleKangInc",
-"https://mvp.sos.ga.gov/s",
-"https://secure.actblue.com/donate/kangwebsite",
-"https://tiktok.com/@michellekangforga",
-"https://yourblum.co/"
+{
+"text": "0",
+"href": "https://michellekangforga.com/cart"
+},
+{
+"text": "100 East Crogan Street, Lawrenceville GA",
+"href": "https://www.google.com/maps/search/100+East+Crogan+Street,+Lawrenceville+GA?entry=gmail"
+},
+{
+"text": "1052 Ozora Road, Loganville GA",
+"href": "https://www.google.com/maps/search/1052+Ozora+Road,+Loganville+GA?entry=gmail"
+},
+{
+"text": "1063 Rockbridge Road, Stone Mountain GA",
+"href": "https://www.google.com/maps/search/1063+Rockbridge+Road,+Stone+Mountain+GA?entry=gmail"
+},
+{
+"text": "2026 Campaign",
+"href": "https://michellekangforga.com/2026-campaign"
+},
+{
+"text": "2723 North Bogan Road, Buford GA",
+"href": "https://www.google.com/maps/search/2723+North+Bogan+Road,+Buford+GA?entry=gmail"
+},
+{
+"text": "2735 Auburn Avenue, Dacula",
+"href": "https://www.google.com/maps/search/2735+Auburn+Avenue,+Dacula?entry=gmail"
+},
+{
+"text": "2750 Pleasant Hill Road, Duluth GA",
+"href": "https://www.google.com/maps/search/2750+Pleasant+Hill+Road,+Duluth+GA?entry=gmail"
+},
+{
+"text": "2780 Five Forks Trickum Road SW, Lawrenceville GA",
+"href": "https://www.google.com/maps/search/2780+Five+Forks+Trickum+Road+SW,+Lawrenceville+GA?entry=gmail"
+},
+{
+"text": "4515 Lenora Church Road, Snellville GA",
+"href": "https://www.google.com/maps/search/4515+Lenora+Church+Road,+Snellville+GA?entry=gmail"
+},
+{
+"text": "455 Camp Perrin Road, Lawrenceville GA",
+"href": "https://www.google.com/maps/search/455+Camp+Perrin+Road,+Lawrenceville+GA?entry=gmail"
+},
+{
+"text": "455 Grayson Highway, Suite 200, Lawrenceville GA",
+"href": "https://www.google.com/maps/search/455+Grayson+Highway,+Suite+200,+Lawrenceville+GA?entry=gmail"
+},
+{
+"text": "4650 Peachtree Industrial Boulevard, Berkeley Lake, GA",
+"href": "https://www.google.com/maps/search/4650+Peachtree+Industrial+Boulevard,+Berkeley+Lake,+GA?entry=gmail"
+},
+{
+"text": "4651 Britt Road, Norcross GA",
+"href": "https://www.google.com/maps/search/4651+Britt+Road,+Norcross+GA?entry=gmail"
+},
+{
+"text": "55 Buford Highway, Suwanee GA",
+"href": "https://www.google.com/maps/search/55+Buford+Highway,+Suwanee+GA?entry=gmail"
+},
+{
+"text": "Back",
+"href": "https://michellekangforga.com/"
+},
+{
+"text": "Blog",
+"href": "https://michellekangforga.com/blog"
+},
+{
+"text": "Blum Creative",
+"href": "https://yourblum.co"
+},
+{
+"text": "Connect",
+"href": "https://michellekangforga.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kangwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://michellekangforga.com/2026-endorsements"
+},
+{
+"text": "Events",
+"href": "https://michellekangforga.com/events"
+},
+{
+"text": "Folder: About Michelle",
+"href": "https://michellekangforga.com/about-michelle"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://michellekangforga.com/get-involved-branch"
+},
+{
+"text": "Folder: Media",
+"href": "https://michellekangforga.com/media-center"
+},
+{
+"text": "Get Involved",
+"href": "https://michellekangforga.com/get-involved"
+},
+{
+"text": "Go to Georgia Democrats’ Voting Guide",
+"href": "https://georgiademocrat.org/voter-resources/"
+},
+{
+"text": "In the News",
+"href": "https://michellekangforga.com/2026-press"
+},
+{
+"text": "Interviews",
+"href": "https://michellekangforga.com/interviews"
+},
+{
+"text": "Meet Michelle",
+"href": "https://michellekangforga.com/meet-michelle"
+},
+{
+"text": "Mobilize Dashboard",
+"href": "https://www.mobilize.us/FriendsofMichelleKangInc/"
+},
+{
+"text": "Podcast",
+"href": "https://michellekangforga.com/podcast"
+},
+{
+"text": "Privacy Policy",
+"href": "https://michellekangforga.com/privacy-policy"
+},
+{
+"text": "Start your voting plan",
+"href": "https://forms.gle/ggY91NanFovbnCF26"
+},
+{
+"text": "Start your voting plan today",
+"href": "https://forms.gle/ggY91NanFovbnCF26"
+},
+{
+"text": "Terms of Use",
+"href": "https://michellekangforga.com/terms-of-use"
+},
+{
+"text": "Volunteer",
+"href": "https://michellekangforga.com/get-involved"
+},
+{
+"text": "Voter Resources",
+"href": "https://michellekangforga.com/voter-resources"
+},
+{
+"text": "What Michelle Stands For",
+"href": "https://michellekangforga.com/2026-platform"
+},
+{
+"text": "[image: Michelle Kang for Georgia House District 99]",
+"href": "https://michellekangforga.com/"
+},
+{
+"text": "[no text]",
+"href": "https://michellekangforga.substack.com/podcast"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/michellekangforga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michellekangforga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@michellekangforga"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@michellekangforga.com"
+},
+{
+"text": "contact",
+"href": "https://michellekangforga.com/connect"
+},
+{
+"text": "press@michellekangforga.com",
+"href": "mailto:press@michellekangforga.com"
+},
+{
+"text": "register to vote",
+"href": "https://www.gwinnettcounty.com/government/departments/elections/register-vote"
+},
+{
+"text": "voter status",
+"href": "https://mvp.sos.ga.gov/s/"
+}
 ]

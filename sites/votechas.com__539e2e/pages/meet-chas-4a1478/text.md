@@ -1,4 +1,4 @@
-Born and raised in Moultrie, living in a family home that spans four generations, Charles H.
+Home Meet Chas DONATE Home Meet Chas DONATE Meet Chas Cannon Born and raised in Moultrie, living in a family home that spans four generations, Charles H.
 “Chas” Cannon is proudly carrying on the forestry and timber business started by his great-great grandfather in 1912.
 A graduate of Colquitt County High, Chas played football as a member of the Army Black Knights at West Point, where he earned his Bachelor’s Degree in June 2001 before joining the Field Artillery branch of the U.S.
 Army in Fort Sill, OK.
@@ -30,7 +30,5 @@ Chas is also a lifelong hunter and an avid outdoorsman.
 The Cannon family is deeply involved in their community.
 Beth serves on a number of nonprofit boards and their daughters are both active in Future Farmers of America (FFA) and horse riding.
 The family are active members of the First Presbyterian Church of Moultrie, where Chas has served as a Deacon and Elder as well as serving on the Pastoral Search Committee.
-Paid for by chas cannon for state house
-Images do not imply endorsement by the Department of Defense or any Service Branch.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Paid for by chas cannon for state house Images do not imply endorsement by the Department of Defense or any Service Branch.
+DONATE

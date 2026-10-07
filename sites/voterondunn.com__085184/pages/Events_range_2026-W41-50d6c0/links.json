@@ -1,23 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://voterondunn.com/",
-"https://voterondunn.com/Events?range=2026-10",
-"https://voterondunn.com/Events?range=2026-10-05",
-"https://voterondunn.com/Events?range=2026-W40",
-"https://voterondunn.com/Events?range=2026-W41",
-"https://voterondunn.com/Events?range=2026-W42",
-"https://voterondunn.com/contact",
-"https://voterondunn.com/contribute",
-"https://voterondunn.com/events",
-"https://voterondunn.com/home",
-"https://voterondunn.com/issues",
-"https://voterondunn.com/make-endorsement",
-"https://voterondunn.com/meet_ron",
-"https://voterondunn.com/news",
-"https://voterondunn.com/photos",
-"https://voterondunn.com/privacy-policy",
-"https://voterondunn.com/tank",
-"https://voterondunn.com/view-endorsements",
-"https://voterondunn.com/volunteer",
-"https://voterondunn.com/vote"
+{
+"text": "#ago",
+"href": "https://www.voterondunn.com/Events?range=%23"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voterondunn.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voterondunn.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterondunn.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voterondunn.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.voterondunn.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voterondunn.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.voterondunn.com/make-endorsement"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voterondunn.com/meet_ron"
+},
+{
+"text": "News",
+"href": "https://www.voterondunn.com/news"
+},
+{
+"text": "Next ›",
+"href": "https://www.voterondunn.com/Events?range=2026-W42"
+},
+{
+"text": "Photos",
+"href": "https://www.voterondunn.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voterondunn.com/privacy-policy"
+},
+{
+"text": "TANK",
+"href": "https://www.voterondunn.com/tank"
+},
+{
+"text": "This Month",
+"href": "https://www.voterondunn.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.voterondunn.com/Events?range=2026-W41"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterondunn.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voterondunn.com/vote"
+},
+{
+"text": "[image: Ron Dunn NH State Representative]",
+"href": "https://www.voterondunn.com/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.voterondunn.com/Events?range=2026-W40"
+}
 ]

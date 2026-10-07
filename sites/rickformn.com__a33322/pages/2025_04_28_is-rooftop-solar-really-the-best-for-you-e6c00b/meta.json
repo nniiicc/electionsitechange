@@ -1,6 +1,8 @@
 {
- "description": "Author\u2019s comment: This is an example of deep analysis of an issue I care deeply about, but come to a conclusion based on facts that is contrary to what I [\u2026]",
+ "description": "Author’s comment: This is an example of deep analysis of an issue I care deeply about, but come to a conclusion based on facts that is contrary to what I […]",
  "final_url": "https://rickformn.com/2025/04/28/is-rooftop-solar-really-the-best-for-you/",
+ "fingerprint": "365a52402335a00ab15348b45bb8c0c66016817c",
+ "format": 3,
  "paid_for_by": "paid for by borrowing the installation costs, and basically swapping the monthly utility bill for a payment on the amount borrowed",
  "title": "Is Rooftop Solar Really the Best for You? - Rick Olson for State Senate",
  "years_mentioned": [
@@ -8,6 +10,7 @@
   "2023",
   "2024",
   "2025",
-  "2027"
+  "2027",
+  "2030"
  ]
 }

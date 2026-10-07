@@ -1,6 +1,7 @@
-We came so close in 2024, and this time, we will win this race.
+Skip to content Early Voting Starts: Oct.
+19 Election Day: Tuesday, November 3, 2026 Meet Andrew Priorities Get Involved Donate Home Meet Andrew Priorities Andrew Cade Eberly for State House Elect a Veteran in Sherwood and Jacksonville Donate Volunteer 559 votes We came so close in 2024, and this time, we will win this race.
 But we need your support to do it.
-In the State House, my priority will be the families who live here.
+Donate Get involved In the State House, my priority will be the families who live here.
 My priority will be making sure economic development actually improves their lives rather than simply increasing their bills.
 My priority will be making sure that when someone in Jacksonville has a medical emergency, help is close enough to save their life.
 Because opportunity does not mean much if you cannot afford to keep the lights on.
@@ -9,36 +10,11 @@ What drives me is making sure that my generation, and every generation that foll
 Not an opportunity that exists only in a slogan.
 An opportunity that people can see in their paychecks, feel in their communities, and pass on to their children.
 Jacksonville and Sherwood are my priorities.
-Standing Strong for Strong Schools
-- Public dollars belong in public schools
-- Supporting teachers and staff
-- Safe and modern school facilities
-- Career and technical programs
-Read more
-Honest, Transparent Government
-- Taxpayers deserve accountability
-- Ending backroom politics
-- Protecting and strengthening the FOIA
-Read more
-Accessible Health Care
-- Protecting Medicaid access
-- Expanding mental-health resources
-- Strengthening local clinics and hospitals
-Jacksonville’s Unity Health closed its emergency room in April 2026.
-Read more
-Stronger, Safer Communities
-- Investing in local infrastructure
-- Preparing for emergencies
-- Supporting local businesses and neighborhoods
-Read more
-Respect for Veterans
-- Supporting those who served
-- Workforce opportunities for veterans
-- Supporting military families
-Read more
-Cybersecurity & Modernization
-- Protecting critical infrastructure
-- Data privacy and security
-- Defending against foreign threats
-- Building a skilled cyber workforce
-Read more
+Priorities Standing Strong for Strong Schools Public dollars belong in public schools Supporting teachers and staff Safe and modern school facilities Career and technical programs Read more Honest, Transparent Government Taxpayers deserve accountability Ending backroom politics Protecting and strengthening the FOIA Read more Accessible Health Care Protecting Medicaid access Expanding mental-health resources Strengthening local clinics and hospitals Jacksonville’s Unity Health closed its emergency room in April 2026.
+Read more Stronger, Safer Communities Investing in local infrastructure Preparing for emergencies Supporting local businesses and neighborhoods Read more Respect for Veterans Supporting those who served Workforce opportunities for veterans Supporting military families Read more Cybersecurity & Modernization Protecting critical infrastructure Data privacy and security Defending against foreign threats Building a skilled cyber workforce Read more I served our country in uniform.
+Now I want to serve my neighbors.
+Meet Andrew How you can help Donate Neighbors funding door knocks, yard signs, and phone calls in Sherwood and Jacksonville.
+Give to the campaign Volunteer Knock doors, make calls, put up a sign, or host an event.
+Every bit of it moves votes.
+Sign up to help Home Meet Andrew Priorities Get Involved Donate Paid for by the Committee to Elect Andrew Cade Eberly P.O.
+Box 51, Jacksonville, Arkansas 72076 Donate Volunteer

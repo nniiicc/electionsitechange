@@ -1,5 +1,4 @@
-Environmental Stewardship, Water Quality, and Climate Resilience
-Our waterways, forests, and public conservation lands are vital public resources that demand uncompromising protection.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Environmental Stewardship, Water Quality, and Climate Resilience Sep 17 Written By Apple User Our waterways, forests, and public conservation lands are vital public resources that demand uncompromising protection.
 From the Monocacy River to the tributaries feeding the Chesapeake Bay, clean water sustains our agriculture, public health, and outdoor heritage.
 I demand the strict enforcement of clean water regulations and the Maryland Environmental Protection Act to stop agricultural runoff, industrial contamination, and hazardous PFAS forever chemicals) from entering our drinking water aquifers.
 Clean water is a basic human right, and we must penalize violators who compromise our natural watershed.
@@ -16,3 +15,8 @@ I will partner with our labor unions, including electrical and utility workers, 
 Additionally, I support polluter-pays legislation to ensure fossil fuel corporations, rather than local taxpayers, pay for climate remediation and infrastructure adaptation.
 Our public lands and natural resources belong to the people of Maryland.
 I will bring data-driven, science-based oversight to the General Assembly to protect our air, preserve our waterways, safeguard our farmland, and preserve our environment for future generations.
+Apple User Previous Previous Transparent Governance, Fiscal Accountability, and Veteran Advocacy Next Next Common-Sense Gun Safety and Community Violence Prevention Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

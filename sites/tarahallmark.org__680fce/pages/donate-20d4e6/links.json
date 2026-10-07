@@ -1,14 +1,62 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-to-elect-tara-hallmark-2&sa=D&sntz=1&usg=AOvVaw2qk6hpAt0qUPRxMZGzKpcD",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fp%2FElect-Tara-Hallmark-61557033132748&sa=D&sntz=1&usg=AOvVaw2jYP-Nlj1e6vSsL4heoWLR",
-"https://google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftara-hallmark-1360662b6&sa=D&sntz=1&usg=AOvVaw2XjGQh5hCr6kFZ6u7O2LS4",
-"https://google.com/url?q=https%3A%2F%2Fwww.tiktok.com%2F%40vote.hallmark.mo%3F_r%3D1%26_t%3DZP-98RoqQx0QPv&sa=D&sntz=1&usg=AOvVaw2iIIKP3-QFUU0sZZ6VQbhp",
-"https://tarahallmark.org/contact",
-"https://tarahallmark.org/donate",
-"https://tarahallmark.org/get-involved",
-"https://tarahallmark.org/home",
-"https://tarahallmark.org/love-our-home",
-"https://tarahallmark.org/meet-tara",
-"https://tarahallmark.org/meet-tara/qualified",
-"https://tarahallmark.org/priorities"
+{
+"text": "ActBlue",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Ffriends-to-elect-tara-hallmark-2&sa=D&sntz=1&usg=AOvVaw2qk6hpAt0qUPRxMZGzKpcD"
+},
+{
+"text": "Contact",
+"href": "https://www.tarahallmark.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.tarahallmark.org/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tarahallmark.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.tarahallmark.org/home"
+},
+{
+"text": "Love Our Home",
+"href": "https://www.tarahallmark.org/love-our-home"
+},
+{
+"text": "Meet Tara",
+"href": "https://www.tarahallmark.org/meet-tara"
+},
+{
+"text": "Priorities",
+"href": "https://www.tarahallmark.org/priorities"
+},
+{
+"text": "Qualified",
+"href": "https://www.tarahallmark.org/meet-tara/qualified"
+},
+{
+"text": "Tara Hallmark Campaign",
+"href": "https://www.tarahallmark.org/home"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fp%2FElect-Tara-Hallmark-61557033132748&sa=D&sntz=1&usg=AOvVaw2jYP-Nlj1e6vSsL4heoWLR"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftara-hallmark-1360662b6&sa=D&sntz=1&usg=AOvVaw2XjGQh5hCr6kFZ6u7O2LS4"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.tiktok.com%2F%40vote.hallmark.mo%3F_r%3D1%26_t%3DZP-98RoqQx0QPv&sa=D&sntz=1&usg=AOvVaw2iIIKP3-QFUU0sZZ6VQbhp"
+},
+{
+"text": "[image]",
+"href": "https://www.tarahallmark.org/home"
+},
+{
+"text": "[image]Tara Hallmark Campaign",
+"href": "https://www.tarahallmark.org/home"
+}
 ]

@@ -1,8 +1,30 @@
 [
-"https://marknicholsforarkansas.com/",
-"https://marknicholsforarkansas.com/about-mark",
-"https://marknicholsforarkansas.com/get-involved",
-"https://marknicholsforarkansas.com/privacy-policy",
-"https://marknicholsforarkansas.com/request-a-sign",
-"https://secure.anedot.com/mark-nichols-for-arkansas-state-representative/053ea9b3-0371-413d-a28a-174043c965d9"
+{
+"text": "About Mark",
+"href": "https://marknicholsforarkansas.com/about-mark/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/mark-nichols-for-arkansas-state-representative/053ea9b3-0371-413d-a28a-174043c965d9"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://marknicholsforarkansas.com/request-a-sign/"
+},
+{
+"text": "Get Involved",
+"href": "https://marknicholsforarkansas.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://marknicholsforarkansas.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marknicholsforarkansas.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://marknicholsforarkansas.com"
+}
 ]

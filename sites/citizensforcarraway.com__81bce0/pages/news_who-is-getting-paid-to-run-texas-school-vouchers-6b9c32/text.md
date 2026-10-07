@@ -1,5 +1,5 @@
-BONUS: Who Is Getting Paid to Run Texas School Vouchers?
-This is an unplanned addition to the series.
+0 Skip to Content Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Home Meet Angie Priorities Endorsements Events News Shop Donate BONUS: Who Is Getting Paid to Run Texas School Vouchers?
+Education Policy May 26 Written By Angie This is an unplanned addition to the series.
 We intended to move straight into the rural access gap this week.
 But the more we looked at the company running the voucher program's back end, the more it became clear that Odyssey deserved its own post.
 The connections are too direct, and the Idaho record is too relevant, to fold into a footnote somewhere else.
@@ -23,24 +23,14 @@ It had received investor backing from Andreessen Horowitz and Tusk Venture Partn
 According to the Texas Tribune, Odyssey appears to have been the only company selected to handle the TEFA platform and its administration.
 The question worth asking is: of all the companies that could have managed a $1 billion public program, how did a 40-person startup with a complicated record end up as the sole vendor?
 The answer is in the relationships.
-The Network
-Before Odyssey won the Texas contract, it had done some very specific hiring.
+The Network Before Odyssey won the Texas contract, it had done some very specific hiring.
 According to the Texas Tribune, Odyssey retained Luis Saenz, Governor Abbott's former chief of staff, to lobby for its interests during the 2023 and 2025 Texas legislative sessions.
 That is the same stretch that Abbott was pushing vouchers through the Capitol with everything he had, including mounting primary challenges against House members who voted against vouchers.
 The Texas Observer reported that Odyssey's bid proposal also relied on personnel from the PR firm Vianovo, including John Wittman, Abbott's former communications director, and Matthew Hirsch, Abbott's former deputy chief of staff.
-To summarize the team Odyssey assembled to win the Texas contract:
-- The governor's former chief of staff
-- His former communications director
-- His former deputy chief of staff
-That is not a coincidence.
+To summarize the team Odyssey assembled to win the Texas contract: The governor's former chief of staff His former communications director His former deputy chief of staff That is not a coincidence.
 That is a strategy.
-Chief of Staff
-hired to lobby for Odyssey
-Comms Director
-Odyssey PR bid team
-Deputy Chief
-Odyssey PR bid team
-The financial thread runs one level deeper.
+The network that won the contract GOV.
+GREG ABBOTT Architect of TEFA His former staff — hired by Odyssey Abbott's former Chief of Staff Luis Saenz hired to lobby for Odyssey Abbott's former Comms Director John Wittman Odyssey PR bid team Abbott's former Deputy Chief Matthew Hirsch Odyssey PR bid team ODYSSEY Sole TEFA vendor · Up to $50 million, year one Sources: Texas Tribune, Texas Observer The financial thread runs one level deeper.
 In 2023, Odyssey won a $500,000 award from a competition founded by Janine and Jeff Yass.
 Jeff Yass is the billionaire school-choice donor who gave a record $6 million to Governor Abbott's campaign, money Abbott used in part to fund primary challenges against the rural Republicans who had been blocking his voucher legislation.
 Yass's money helped build the legislative majority that created TEFA.
@@ -53,18 +43,9 @@ Here is what Texas knew, or could have known, before handing Odyssey a contract 
 Odyssey had managed Idaho's Empowering Parents education microgrant program, a state-funded initiative that let families purchase approved educational goods and services.
 It was, in structure, a smaller version of exactly what Texas was now building.
 Idaho Education News reported that the State Board of Education reviewed purchases made through the Odyssey platform and identified approximately $180,000 in ineligible expenses.
-The items flagged in public records reporting included:
-- Clothes
-- Televisions
-- Smartwatches
-- Household cleaning supplies
-- A gun holster
-- A pickleball set
-- Gaming equipment
-- A camera-equipped drone
-These were not close calls.
+The items flagged in public records reporting included: Clothes Televisions Smartwatches Household cleaning supplies A gun holster A pickleball set Gaming equipment A camera-equipped drone These were not close calls.
 These were the kinds of purchases that should never have cleared a platform designed to fund education.
-Separately, Idaho officials found that Odyssey had collected $478,656.22 in interest earned on the program's accounts, which had been funded with federal COVID relief money.
+Separately, Idaho officials found that Odyssey had collected $# in interest earned on the program's accounts, which had been funded with federal COVID relief money.
 The Department of Administration viewed this as a breach of Odyssey's contract and ordered the company to repay the interest.
 Odyssey repaid it.
 Idaho then replaced Odyssey with a different vendor in 2024.
@@ -72,8 +53,7 @@ State officials said the switch was unrelated to performance.
 The switch came after two reviews, documented ineligible purchases, and a repayment order for nearly half a million dollars in improperly held interest.
 Odyssey's explanation was that it lost the Idaho contract because a competitor undercut it on price.
 The Texas Comptroller's office proceeded with the contract award.
-What It Adds Up To
-The record is clear on what happened here.
+What It Adds Up To The record is clear on what happened here.
 Abbott spent years and a massive amount of political capital creating the program that Odyssey now runs.
 The company staffed its Texas push with Abbott's closest former aides.
 It collected a prize from the donor whose money helped build Abbott's voucher majority.
@@ -89,3 +69,6 @@ It is worth asking who built it, and why.
 Next in the series: the rural access gap.
 More than 150 of Texas's 254 counties have no school enrolled in TEFA.
 Universal eligibility is not the same as universal access.
+Public Education TEFA Texas school vouchers Texas Education Freedom Accounts Angie Previous Previous The Rural Access Gap Nobody Is Talking About Next Next The Schools Your Tax Dollars Are Funding Angie Carraway for Texas HD-89 Citizens for Carraway PO Box 322, Allen, TX 75013 contact@citizensforcarraway.com 972-302-9914 Explore Meet Angie Priorities Endorsements News Contact Take Action Donate Volunteer Shop Campaign Gear Register to vote Voting information Political advertising paid for by Citizens for Carraway Contributions or gifts to Citizens for Carraway are not deductible as charitable contributions for Federal income tax purposes.
+Texas law requires political committees to report certain contributor information.
+Privacy Policy · © # Citizens for Carraway

@@ -1,5 +1,4 @@
-It’s a Crappy Job, But Somebody’s Gotta Do It
-And I’m not talking about my job!
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact It’s a Crappy Job, But Somebody’s Gotta Do It May 2 Written By North for VT House And I’m not talking about my job!
 I toured the Vergennes Waste Water Treatment Facility (WWTF) this past Monday.
 Yeah, where all your sewer pipes lead.
 Stepping into the 1960’s vintage operations building I was cheerily greeted by Chief Operator Rick Chaput and joined by City Manager Ron Redmond, Vergennes North Project Manager Chris LaPierre, and Senator Steve Heffernan.
@@ -11,6 +10,7 @@ That's insane!
 It’s this additional 2.7 million gal/day of rainwater that causes a portion of the system to overflow on the McDonough Drive side of the river in a heavy rain.
 And yes, a very small fraction of that overflow into the river is mixed with raw sewage, about 1% according to Rick.
 The six-decades old Vergennes wastewater collection system is so “porous” (lots of cracked underground pipes) that it is essentially acting as a stormwater collection system in addition to a sewage collection system.
+The city has already raised nearly $17M of the approximately $45M necessary for a multitude of system upgrades.
 On May 14 bids open for Phase I and construction will commence in September, 2026.
 The city continues to work with the Department of Environmental Conservation to bring remedy to the situation and I offered my assistance whenever it’s needed.
 In more exciting news, the now famed S.325 bill that repeals the Act 181 Tiers 2 & 3 and Road Rule has passed unanimously in our House Environment Committee, 11-0.
@@ -50,6 +50,9 @@ He was emphatic that children thrive best when given choice.
 My dream that I envision is a district with 5 high schools where kids could decide to go to a school where they could focus on topics they are most interested in… There are many teachers out there that feel the same way that I do for the benefit of the teachers and the students.” I highly recommend listening to this entire press conference at the link above.
 It is enlightening.
 Stay tuned and stay engaged.
-I remain honored to be your Representative,
-Rob North
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham Support Rob North’s Re-Election Campaign North for VT House Previous Previous Coups and Constitutions Next Next Moving Mountains Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

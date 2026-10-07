@@ -1,7 +1,2 @@
-top of page
-America250 for Essex: Reading of the Declaration of Indepenence
-Wed, Jul 08
-|1st Republic Brewing
-All are invited to celebrate & be part of the America250 event by listening to a reading the Declaration of Independance on the same day & time as Thomas Jefferson originally read it, 6pm July 8, while having a brew at 1st Republic in Essex!
-Registration is closed
-bottom of page
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate America250 for Essex: Reading of the Declaration of Indepenence Wed, Jul 08 | 1st Republic Brewing All are invited to celebrate & be part of the America250 event by listening to a reading the Declaration of Independance on the same day & time as Thomas Jefferson originally read it, 6pm July 8, while having a brew at 1st Republic in Essex!
+Registration is closed See other events Time & Location Jul 08, 2026, 6:00 PM – 7:00 PM 1st Republic Brewing, 39 River Rd #6, Essex Junction, VT 05452, USA Guests See All About the event About_Sharing_the_Spirit_of_America_July_8_2026 .pdf Download PDF • 93KB Show More Share this event Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

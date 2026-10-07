@@ -1,5 +1,4 @@
-Back to All Events
-Earlier Event: September 28
-Reception to Re-Elect Perry Warren at Trattoria Rosa Bianca
-Later Event: December 10
-Holiday Brunch with State Representative Perry Warren
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Back to All Events Final Campaign Fundraiser!
+Happy Hour to Re-Elect Perry Warren Friday, October 28, 2022 6:00 PM 8:00 PM 18:00 20:00 Google Calendar ICS Join us for the LAST and FINAL campaign fundraiser in 2022 to Re-Elect OUR State Representative Perry Warren Contribute Here Earlier Event: September 28 Reception to Re-Elect Perry Warren at Trattoria Rosa Bianca Later Event: December 10 Holiday Brunch with State Representative Perry Warren Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

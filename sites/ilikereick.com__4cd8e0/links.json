@@ -1,14 +1,78 @@
 [
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/megaprojects-arent-just-for-the-bears-we-might-have-one-right-here",
-"https://ilikereick.com/million-for-the-bear-1-29-for-the-rest-of-us",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/videos",
-"https://mchenrycountyil.gov/departments/county-clerk/elections/vote-by-mail",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Application for Vote by Mail Ballot ->",
+"href": "https://www.mchenrycountyil.gov/departments/county-clerk/elections/vote-by-mail"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Get to know me",
+"href": "https://ilikereick.com/about"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Megaprojects Aren’t Just for the Bears, We Might Have One Right Here",
+"href": "https://ilikereick.com/megaprojects-arent-just-for-the-bears-we-might-have-one-right-here/"
+},
+{
+"text": "Million$ for the Bear$, $1.29 for the Rest of Us",
+"href": "https://ilikereick.com/million-for-the-bear-1-29-for-the-rest-of-us/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/megaprojects-arent-just-for-the-bears-we-might-have-one-right-here/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/million-for-the-bear-1-29-for-the-rest-of-us/"
+},
+{
+"text": "Steve's blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "While all the Sturm und Drang over the House Bill 910 focuses on the travails of the Chicago Bears as they rattle their tin cup for a new...",
+"href": "https://ilikereick.com/megaprojects-arent-just-for-the-bears-we-might-have-one-right-here/"
+},
+{
+"text": "view bills",
+"href": "https://ilikereick.com/legislation"
+},
+{
+"text": "“You’re the Pride and Joy of Illinois; Chicago Bears, Bear Down!” . So what was one to expect when our Pride and Joy bought Arlington Park racetrack in...",
+"href": "https://ilikereick.com/million-for-the-bear-1-29-for-the-rest-of-us/"
+}
 ]

@@ -1,12 +1,9 @@
-FOR IMMEDIATE RELEASE
-August 4, 2026
-CONTACT: info@erictoney.com
-Toney Sets July Pre-Primary Fundraising Report Record for a Republican
-Raises $164,000 since July 1, $1.3 million since launching campaign
+Skip to content Meet Eric Get Involved Donate Latest news Donate Toney Sets July Pre-Primary Fundraising Report Record for a Republican August 4, 2026 FOR IMMEDIATE RELEASE August 4, 2026 CONTACT: info@erictoney.com Toney Sets July Pre-Primary Fundraising Report Record for a Republican Raises $164,000 since July 1, $1.3 million since launching campaign FOND DU LAC, WI – Republican Attorney General candidate Eric Toney announced today that his campaign raised $164,000 in the July Pre-Primary reporting period — the largest amount ever raised by a Republican candidate for Wisconsin Attorney General in the July Pre-Primary reporting period.
+The campaign has now raised $1.3 million since Toney launched his campaign in October.
 “Wisconsinites are ready for change at the Department of Justice.
 I’m grateful for the grassroots support fueling this campaign, and it proves we’ll have the resources to win and put public safety over politics,” said Eric Toney.
 “Josh Kaul’s record is riddled with broken promises.
 Our crime labs are slower, and his removal of narcotics agents from northern Wisconsin is costing lives.
-Now his own party’s frontrunner for governor is a self-described socialist who has called to abolish the police and prisons — while the Democratic Party is abandoning public safety, Kaul is too focused on his partisan politics when he should be keeping Wisconsin safe.”
-The campaign’s fundraising has been driven by donors in every corner of the state, along with a growing coalition of law enforcement support — including a bipartisan coalition of 44 current and former sheriffs, and the Milwaukee Police Association, representing more than 1,200 Milwaukee officers.
-###
+Now his own party’s frontrunner for governor is a self-described socialist who has called to abolish the police and prisons — while the Democratic Party is abandoning public safety, Kaul is too focused on his partisan politics when he should be keeping Wisconsin safe.” The campaign’s fundraising has been driven by donors in every corner of the state, along with a growing coalition of law enforcement support — including a bipartisan coalition of 44 current and former sheriffs, and the Milwaukee Police Association, representing more than 1,200 Milwaukee officers.
+### Meet Eric Get Involved Donate Latest news Follow Us Facebook Instagram X Privacy Policy | Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by Toney for Attorney General

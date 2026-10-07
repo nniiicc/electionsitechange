@@ -1,4 +1,4 @@
-Replaces everything after the enacting clause.
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute ACCOMPLISHMENTS SB2664 Replaces everything after the enacting clause.
 Amends the Illinois Notary Public Act.
 Provides requirements concerning electronic notarization and electronic notaries public.
 Amends the Uniform Real Property Electronic Recording Act.
@@ -14,5 +14,7 @@ Provides for the transmission of a signed and notarized document by overnight ma
 Provides that upon written request of a third party, a notary public may supply a copy of a line item representing the requested transaction after personally identifying information has been redacted.
 Provides for a specified provision to be effective July 1, 2022.
 Makes other changes.
-Provides that any commissioned notary public may perform any notarial act remotely after first determining, either from personal knowledge or from satisfactory evidence, that the signature is that of the person appearing before the notary and named therein.
+Provides that any commissioned notary public may perform any notarial act remotely after first determining , either from personal knowledge or from satisfactory evidence, that the signature is that of the person appearing before the notary and named therein.
 Specifies factors to establish that a notary public has satisfactory evidence that a person is the person whose true signature is on a document.
+Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

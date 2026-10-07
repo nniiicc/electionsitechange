@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Edward Pacheco for State Representative 9th Bristol District",
  "final_url": "https://www.pachecoforthepeople.com/home",
- "paid_for_by": null,
+ "fingerprint": "9ff229f9a74f0d9cceccedb6867f2f5be4bf708d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Edward Pacheco for State Representative 9th Bristol District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

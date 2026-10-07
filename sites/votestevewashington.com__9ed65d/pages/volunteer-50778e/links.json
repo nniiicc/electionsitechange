@@ -1,9 +1,50 @@
 [
-"https://facebook.com/votestevewashington",
-"https://silverbulletwebsolutions.com/",
-"https://votestevewashington.com/",
-"https://votestevewashington.com/about-steves-campaign",
-"https://votestevewashington.com/connect",
-"https://votestevewashington.com/the-1st-district",
-"https://votestevewashington.com/volunteer"
+{
+"text": "About SD1",
+"href": "https://votestevewashington.com/the-1st-district"
+},
+{
+"text": "About Senate District 1",
+"href": "https://votestevewashington.com/the-1st-district"
+},
+{
+"text": "About Steve’s Campaign",
+"href": "https://votestevewashington.com/about-steves-campaign/"
+},
+{
+"text": "Connect",
+"href": "https://votestevewashington.com/connect"
+},
+{
+"text": "Home",
+"href": "https://votestevewashington.com/"
+},
+{
+"text": "OUR FACEBOOK PAGE",
+"href": "https://www.facebook.com/votestevewashington/"
+},
+{
+"text": "Phone: 302-602-5149",
+"href": "tel:302-602-5149"
+},
+{
+"text": "Silver Bullet Web Solutions",
+"href": "https://silverbulletwebsolutions.com/"
+},
+{
+"text": "Visit Steve’s Facebook page",
+"href": "https://www.facebook.com/votestevewashington/"
+},
+{
+"text": "Volunteer",
+"href": "https://votestevewashington.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://votestevewashington.com/#vote"
+},
+{
+"text": "[image]",
+"href": "https://votestevewashington.com/"
+}
 ]

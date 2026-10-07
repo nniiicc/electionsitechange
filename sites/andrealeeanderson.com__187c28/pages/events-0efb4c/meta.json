@@ -1,7 +1,12 @@
 {
  "description": "Andrea Anderson Campaign Events",
  "final_url": "https://andrealeeanderson.com/events",
- "paid_for_by": null,
+ "fingerprint": "981ff6044e823af1d05921525784dbadbce4836b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Andrea Anderson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

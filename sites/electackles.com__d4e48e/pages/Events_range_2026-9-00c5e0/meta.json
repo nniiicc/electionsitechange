@@ -1,7 +1,9 @@
 {
  "description": "Janene Ackles Campaign Events",
  "final_url": "https://electackles.com/Events?range=2026-9",
- "paid_for_by": null,
+ "fingerprint": "6ebdc23e05caf8b8ba36487407bffbf86eca6a8d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Janene Ackles Campaign Events",
  "years_mentioned": [
   "2026"

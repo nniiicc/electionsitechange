@@ -1,31 +1,122 @@
 [
-"https://aclu.org/press-releases/as-congressional-champions-reintroduce-equality-act-civil-rights-groups-call-for-its-urgent-passage",
-"https://ama-assn.org/public-health/population-health/inequitable-rural-health-trends-are-alarming-and-unacceptable",
-"https://bsky.app/profile/electwarren.bsky.social",
-"https://carolinaforward.org/blog/the-future-effects-of-the-dismantling-of-north-carolinas-education-system",
-"https://ejcan.org/biogas-blog/a-first-hand-look-at-impacted-communities-in-eastern-north-carolina",
-"https://electwarren.com/contact.html",
-"https://electwarren.com/education.html",
-"https://electwarren.com/environment.html",
-"https://electwarren.com/equality.html",
-"https://electwarren.com/health.html",
-"https://electwarren.com/index.html",
-"https://electwarren.com/issues.html",
-"https://electwarren.com/meet.html",
-"https://electwarren.com/news.html",
-"https://electwarren.com/spotlight.html",
-"https://electwarren.com/volunteer.html",
-"https://elevatek12.com/blog/elevate-in-action/american-education-issues",
-"https://facebook.com/profile.php?id=61587752437149",
-"https://instagram.com/electandy",
-"https://letsroam.com/team-building/resources/dei-topics?keyword=letsroam.com%2Fteam-building&hsa_acc=2013034798&hsa_cam=14082211154&hsa_grp=1186374762917981&hsa_src=o&hsa_tgt=dat-2325948129488250%3Aloc-190&hsa_kw=letsroam.com%2Fteam-building&hsa_mt=b&hsa_net=adwords&hsa_ver=3&msclkid=b71907641545138e1aac6e054592b7a3",
-"https://ncdhhs.gov/2024-health-disparities-analysis-report/download",
-"https://ncdhhs.gov/environmental-health-and-public-health-impacts/open",
-"https://ohchr.org/en/statements-and-speeches/2022/01/equality-heart-human-rights-0",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC11836072",
-"https://secure.actblue.com/donate/andy-warren-1",
-"https://today.duke.edu/2025/04/duke-researcher-strives-keep-forever-chemicals-out-north-carolina-water-supply",
-"https://vote.gov/",
-"https://wfae.org/education/2025-03-07/classrooms-in-crisis-the-state-of-north-carolinas-education-system",
-"https://youtube.com/channel/UCILRsINScsw1mamU-E6y7fQ"
+{
+"text": "ACLU",
+"href": "https://www.aclu.org/press-releases/as-congressional-champions-reintroduce-equality-act-civil-rights-groups-call-for-its-urgent-passage"
+},
+{
+"text": "American Education Issues",
+"href": "https://www.elevatek12.com/blog/elevate-in-action/american-education-issues/"
+},
+{
+"text": "BlueSky",
+"href": "https://bsky.app/profile/electwarren.bsky.social"
+},
+{
+"text": "Build a Respectful Workplace",
+"href": "https://www.letsroam.com/team-building/resources/dei-topics/?keyword=letsroam.com%2Fteam-building&hsa_acc=2013034798&hsa_cam=14082211154&hsa_grp=1186374762917981&hsa_ad=&hsa_src=o&hsa_tgt=dat-2325948129488250%3Aloc-190&hsa_kw=letsroam.com%2Fteam-building&hsa_mt=b&hsa_net=adwords&hsa_ver=3"
+},
+{
+"text": "Classrooms in Crisis",
+"href": "https://www.wfae.org/education/2025-03-07/classrooms-in-crisis-the-state-of-north-carolinas-education-system/"
+},
+{
+"text": "Climate Change",
+"href": "https://www.ncdhhs.gov/environmental-health-and-public-health-impacts/open"
+},
+{
+"text": "Contact",
+"href": "https://electwarren.com/contact.html"
+},
+{
+"text": "Dismantling of NC Education System",
+"href": "https://carolinaforward.org/blog/the-future-effects-of-the-dismantling-of-north-carolinas-education-system/"
+},
+{
+"text": "Donate NOW",
+"href": "https://secure.actblue.com/donate/andy-warren-1/"
+},
+{
+"text": "Education Invest in teachers, STEM/arts programs, and affordable higher education. Strengthen digital access and skills training. Expand apprenticeships and community college pathways.",
+"href": "https://electwarren.com/education.html"
+},
+{
+"text": "Environment Encourage clean energy adoption and conservation. Improve local air and water quality monitoring. Support climate resilience projects in vulnerable communities.",
+"href": "https://electwarren.com/environment.html"
+},
+{
+"text": "Equality Advance fair housing, hiring, and anti-discrimination practices. Encourage transparency and accountability in institutions. Back community programs that reduce bias and improve representation.",
+"href": "https://electwarren.com/equality.html"
+},
+{
+"text": "FaceBook",
+"href": "https://www.facebook.com/profile.php?id=61587752437149"
+},
+{
+"text": "Forever Chemicals",
+"href": "https://today.duke.edu/2025/04/duke-researcher-strives-keep-forever-chemicals-out-north-carolina-water-supply"
+},
+{
+"text": "Health Expand access to preventive and mental health services. Promote community clinics and telehealth for underserved areas. Support evidence-based public health initiatives.",
+"href": "https://electwarren.com/health.html"
+},
+{
+"text": "Home",
+"href": "https://electwarren.com/index.html"
+},
+{
+"text": "Impacted Communities",
+"href": "https://www.ejcan.org/biogas-blog/a-first-hand-look-at-impacted-communities-in-eastern-north-carolina"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electandy/"
+},
+{
+"text": "Issues",
+"href": "https://electwarren.com/issues.html"
+},
+{
+"text": "Meet",
+"href": "https://electwarren.com/meet.html"
+},
+{
+"text": "Meet Andy",
+"href": "https://electwarren.com/meet.html"
+},
+{
+"text": "Mental Health",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11836072/"
+},
+{
+"text": "NC Health Disparities",
+"href": "https://www.ncdhhs.gov/2024-health-disparities-analysis-report/download?attachment%2F="
+},
+{
+"text": "News Feed",
+"href": "https://electwarren.com/news.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.gov/"
+},
+{
+"text": "Rural Health",
+"href": "https://www.ama-assn.org/public-health/population-health/inequitable-rural-health-trends-are-alarming-and-unacceptable/"
+},
+{
+"text": "Spotlight on Community Leaders",
+"href": "https://electwarren.com/spotlight.html"
+},
+{
+"text": "United Nations",
+"href": "https://www.ohchr.org/en/statements-and-speeches/2022/01/equality-heart-human-rights-0"
+},
+{
+"text": "Volunteer",
+"href": "https://electwarren.com/volunteer.html"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCILRsINScsw1mamU-E6y7fQ"
+}
 ]

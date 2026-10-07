@@ -1,15 +1,70 @@
 [
-"https://bsky.app/profile/anthonynagatani.bsky.social",
-"https://instagram.com/votenagatani",
-"https://olvr.hawaii.gov/Default.aspx?redir=1",
-"https://secure.actblue.com/donate/votenagatani",
-"https://votenagatani.com/blog.html",
-"https://votenagatani.com/events.html",
-"https://votenagatani.com/events/friends-family-kickoff-april.html",
-"https://votenagatani.com/events/friends-family-kickoff.html",
-"https://votenagatani.com/index.html",
-"https://votenagatani.com/media.html",
-"https://votenagatani.com/privacy-policy.html",
-"https://votenagatani.com/terms-of-service.html",
-"https://x.com/AnthonyNagatani"
+{
+"text": "2032 Vision",
+"href": "https://votenagatani.com/index.html#vision"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votenagatani"
+},
+{
+"text": "Donate →",
+"href": "https://secure.actblue.com/donate/votenagatani"
+},
+{
+"text": "Events",
+"href": "https://votenagatani.com/events.html"
+},
+{
+"text": "Friends & Family Kickoff — Apr 11 ★",
+"href": "https://votenagatani.com/events/friends-family-kickoff-april.html"
+},
+{
+"text": "Friends & Family Kickoff — Mar 28 (Postponed)",
+"href": "https://votenagatani.com/events/friends-family-kickoff.html"
+},
+{
+"text": "Media",
+"href": "https://votenagatani.com/media.html"
+},
+{
+"text": "My Story",
+"href": "https://votenagatani.com/index.html#why"
+},
+{
+"text": "Our Community",
+"href": "https://votenagatani.com/index.html#community"
+},
+{
+"text": "Priorities",
+"href": "https://votenagatani.com/index.html#work"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votenagatani.com/privacy-policy.html"
+},
+{
+"text": "Stories from the Doors",
+"href": "https://votenagatani.com/blog.html"
+},
+{
+"text": "Terms of Service",
+"href": "https://votenagatani.com/terms-of-service.html"
+},
+{
+"text": "Vote Nagatani",
+"href": "https://olvr.hawaii.gov/Default.aspx?redir=1"
+},
+{
+"text": "[tooltip: @AnthonyNagatani on X]",
+"href": "https://x.com/AnthonyNagatani"
+},
+{
+"text": "[tooltip: @anthonynagatani.bsky.social on Bluesky]",
+"href": "https://bsky.app/profile/anthonynagatani.bsky.social"
+},
+{
+"text": "[tooltip: @votenagatani on Instagram]",
+"href": "https://www.instagram.com/votenagatani"
+}
 ]

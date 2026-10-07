@@ -1,7 +1,11 @@
 {
  "description": "Election Day is November 3rd, with polls open from 7am-8pm. Check your ballot, your polling location online, and have a plan to vote!",
  "final_url": "https://www.walkerforward.com/events/election-day",
+ "fingerprint": "edde00ddd04b7de77e4f8ddacaa3fcd4d44521c8",
+ "format": 3,
  "paid_for_by": "Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward",
- "title": "Election Day \u2014 Walker Forward",
- "years_mentioned": []
+ "title": "Election Day — Walker Forward",
+ "years_mentioned": [
+  "2026"
+ ]
 }

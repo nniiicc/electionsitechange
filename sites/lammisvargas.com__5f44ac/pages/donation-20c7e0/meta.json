@@ -1,7 +1,11 @@
 {
- "description": "$10 of $80,000 raised $10 of $80,000 raised\u2026",
+ "description": "$10 of $80,000 raised $10 of $80,000 raised…",
  "final_url": "https://lammisvargas.com/donation/",
- "paid_for_by": null,
+ "fingerprint": "12081c692b7f6668ece33920a7ac21d136ce2295",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donation - Lammis Vargas",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

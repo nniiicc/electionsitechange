@@ -1,6 +1,18 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://reelectcara.com/",
-"https://reelectcara.com/biography",
-"https://reelectcara.com/platform"
+{
+"text": "Biography",
+"href": "https://reelectcara.com/biography"
+},
+{
+"text": "Home",
+"href": "https://reelectcara.com/"
+},
+{
+"text": "Platform",
+"href": "https://reelectcara.com/platform"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

@@ -1,7 +1,12 @@
 {
  "description": "Schneider for Congress's campaign",
  "final_url": "https://www.schneiderforcongress.com/news",
- "paid_for_by": "Paid for by Schneider for Congress",
- "title": "News \u2014 Schneider for Congress",
- "years_mentioned": []
+ "fingerprint": "70d828a567e1231098170ae8fc51ab88378da62e",
+ "format": 3,
+ "paid_for_by": "Paid for by Schneider for Congress You need to enable JavaScript to run this app",
+ "title": "News — Schneider for Congress",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

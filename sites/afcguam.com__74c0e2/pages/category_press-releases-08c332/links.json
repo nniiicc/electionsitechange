@@ -1,16 +1,86 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/author/afcadmin",
-"https://afcguam.com/category/press-releases",
-"https://afcguam.com/contact",
-"https://afcguam.com/events",
-"https://afcguam.com/former-us-attorney-alicia-limtiaco-makes-her-guam-delegate-bid-official",
-"https://afcguam.com/kuam-news-congressional-candidates-share-visions-for-guam-at-guam-womens-chamber-of-commerce-forum",
-"https://afcguam.com/limtiaco-formally-enters-congressional-race-commits-to-closing-gaps-between-federal-decisions-and-results-guam-families-can-feel-at-home",
-"https://afcguam.com/pacific-island-times-limtiaco-officially-enters-guams-congressional-race",
-"https://afcguam.com/pdn-limtiaco-only-democrat-in-delegate-race-vows-results-that-guam-families-can-feel-at-home",
-"https://afcguam.com/pdn-limtiaco-torres-share-visions-for-guam-voice-in-congress-at-womens-chamber-of-commerce-forum",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up"
+{
+"text": "AFC Team",
+"href": "https://afcguam.com/author/afcadmin/"
+},
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "KUAM News: Congressional candidates share visions for Guam at Guam Women’s Chamber of Commerce forum",
+"href": "https://afcguam.com/kuam-news-congressional-candidates-share-visions-for-guam-at-guam-womens-chamber-of-commerce-forum/"
+},
+{
+"text": "PDN: Former US Attorney Alicia Limtiaco makes her Guam delegate bid official",
+"href": "https://afcguam.com/former-us-attorney-alicia-limtiaco-makes-her-guam-delegate-bid-official/"
+},
+{
+"text": "PDN: Limtiaco, Torres share visions for Guam voice in Congress at Women’s Chamber of Commerce forum",
+"href": "https://afcguam.com/pdn-limtiaco-torres-share-visions-for-guam-voice-in-congress-at-womens-chamber-of-commerce-forum/"
+},
+{
+"text": "PDN: Limtiaco, only Democrat in delegate race, vows results that ‘Guam families can feel at home’",
+"href": "https://afcguam.com/pdn-limtiaco-only-democrat-in-delegate-race-vows-results-that-guam-families-can-feel-at-home/"
+},
+{
+"text": "PR26-101-A: Limtiaco Formally Enters Congressional Race, Commits to Closing Gaps Between Federal Decisions and Results Guam Families Can Feel at Home",
+"href": "https://afcguam.com/limtiaco-formally-enters-congressional-race-commits-to-closing-gaps-between-federal-decisions-and-results-guam-families-can-feel-at-home/"
+},
+{
+"text": "Pacific Island Times: Limtiaco officially enters Guam’s congressional race",
+"href": "https://afcguam.com/pacific-island-times-limtiaco-officially-enters-guams-congressional-race/"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "Press Releases",
+"href": "https://afcguam.com/category/press-releases/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "[image: KUAM News: Congressional candidates share visions for Guam at Guam Women’s Chamber of Commerce forum]",
+"href": "https://afcguam.com/kuam-news-congressional-candidates-share-visions-for-guam-at-guam-womens-chamber-of-commerce-forum/"
+},
+{
+"text": "[image: PDN: Former US Attorney Alicia Limtiaco makes her Guam delegate bid official]",
+"href": "https://afcguam.com/former-us-attorney-alicia-limtiaco-makes-her-guam-delegate-bid-official/"
+},
+{
+"text": "[image: PDN: Limtiaco, Torres share visions for Guam voice in Congress at Women’s Chamber of Commerce forum]",
+"href": "https://afcguam.com/pdn-limtiaco-torres-share-visions-for-guam-voice-in-congress-at-womens-chamber-of-commerce-forum/"
+},
+{
+"text": "[image: PDN: Limtiaco, only Democrat in delegate race, vows results that ‘Guam families can feel at home’]",
+"href": "https://afcguam.com/pdn-limtiaco-only-democrat-in-delegate-race-vows-results-that-guam-families-can-feel-at-home/"
+},
+{
+"text": "[image: PR26-101-A: Limtiaco Formally Enters Congressional Race, Commits to Closing Gaps Between Federal Decisions and Results Guam Families Can Feel at Home]",
+"href": "https://afcguam.com/limtiaco-formally-enters-congressional-race-commits-to-closing-gaps-between-federal-decisions-and-results-guam-families-can-feel-at-home/"
+},
+{
+"text": "[image: Pacific Island Times: Limtiaco officially enters Guam’s congressional race]",
+"href": "https://afcguam.com/pacific-island-times-limtiaco-officially-enters-guams-congressional-race/"
+}
 ]

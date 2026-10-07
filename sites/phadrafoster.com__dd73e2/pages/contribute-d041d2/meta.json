@@ -1,9 +1,9 @@
 {
  "description": "Support Phadra Foster&#39;s campaign for Senate District 25. Donate now to help us make a difference!",
  "final_url": "https://phadrafoster.com/contribute",
- "paid_for_by": "Paid for by the Committee to Elect Phadra Foster | P",
+ "fingerprint": "e70bd99c0c23a5ace1027e921674c477b508adf3",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Phadra Foster",
  "title": "Contribute",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

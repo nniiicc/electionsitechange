@@ -1,9 +1,38 @@
 [
-"https://electlorilove.com/",
-"https://electlorilove.com/Contribute/About-me",
-"https://electlorilove.com/Contribute/Contact-Me",
-"https://electlorilove.com/Contribute/Contribute",
-"https://electlorilove.com/Contribute/Election-Information",
-"https://electlorilove.com/Contribute/Events",
-"https://secure.actblue.com/donate/elect-lori-love-2024"
+{
+"text": "About me",
+"href": "https://electlorilove.com/Contribute/About-me/"
+},
+{
+"text": "Contact me",
+"href": "https://electlorilove.com/Contribute/Contact-Me/"
+},
+{
+"text": "Contribute",
+"href": "https://electlorilove.com/Contribute/Contribute/"
+},
+{
+"text": "ElectLoriLove@gmail.com",
+"href": "mailto:electlorilove.com"
+},
+{
+"text": "ElectLoriLove@gmail.com",
+"href": "mailto:info@site.info"
+},
+{
+"text": "Election Information",
+"href": "https://electlorilove.com/Contribute/Election-Information/"
+},
+{
+"text": "Events",
+"href": "https://electlorilove.com/Contribute/Events/"
+},
+{
+"text": "Home",
+"href": "https://electlorilove.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/elect-lori-love-2024"
+}
 ]

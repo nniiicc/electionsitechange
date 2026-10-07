@@ -1,19 +1,90 @@
 [
-"https://bsky.app/profile/cicirelliforflorida.bsky.social",
-"https://cicirelliforflorida.com/privacyandterms",
-"https://engageyall.com/",
-"https://environmentalcaucus.com/",
-"https://facebook.com/Cicirelli4FL",
-"https://floridadems.org/our-party/caucuses",
-"https://goiam.org/",
-"https://instagram.com/cicirelliforflorida",
-"https://secure.actblue.com/donate/cicirelli-for-florida",
-"https://secure.actblue.com/donate/cicirelli-for-florida?amount=100",
-"https://secure.actblue.com/donate/cicirelli-for-florida?amount=25",
-"https://secure.actblue.com/donate/cicirelli-for-florida?amount=250",
-"https://secure.actblue.com/donate/cicirelli-for-florida?amount=5",
-"https://secure.actblue.com/donate/cicirelli-for-florida?amount=50",
-"https://secure.actblue.com/donate/cicirelli-for-florida?amount=500",
-"https://tiktok.com/@cicirelli4fl",
-"https://x.com/cicirelliforflorida"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida?amount=500"
+},
+{
+"text": "Chip In Now",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida"
+},
+{
+"text": "Give Any Amount",
+"href": "https://secure.actblue.com/donate/cicirelli-for-florida"
+},
+{
+"text": "Learn more about DECF →",
+"href": "https://www.environmentalcaucus.com/"
+},
+{
+"text": "Learn more about DVCF →",
+"href": "https://floridadems.org/our-party/caucuses/"
+},
+{
+"text": "Learn more about Engage, Y'all →",
+"href": "https://engageyall.com/"
+},
+{
+"text": "Learn more about the IAM →",
+"href": "https://www.goiam.org/"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://cicirelliforflorida.com/privacyandterms"
+},
+{
+"text": "[image: Endorsed by the Democratic Veterans Caucus of Florida]",
+"href": "https://floridadems.org/our-party/caucuses/"
+},
+{
+"text": "[image: Endorsed by the International Association of Machinists and Aerospace Workers]",
+"href": "https://www.goiam.org/"
+},
+{
+"text": "[image: Endorsed candidate, Democratic Environmental Caucus of Florida. Think Green, Vote Blue.]",
+"href": "https://www.environmentalcaucus.com/"
+},
+{
+"text": "[image: Proudly endorsed by Engage, Y'all]",
+"href": "https://engageyall.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/cicirelliforflorida.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Cicirelli4FL"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cicirelliforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@cicirelli4fl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/cicirelliforflorida"
+}
 ]

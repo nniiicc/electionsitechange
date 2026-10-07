@@ -1,13 +1,54 @@
 [
-"https://bytes.co/",
-"https://facebook.com/PhilScottforVermont",
-"https://instagram.com/philscottvt",
-"https://philscott.org/",
-"https://philscott.org/meet-phil",
-"https://philscott.org/privacy-policy",
-"https://philscott.org/terms-and-conditions",
-"https://philscott.org/volunteer",
-"https://secure.anedot.com/phil-scott/donate",
-"https://twitter.com/philscott4vt",
-"https://youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phil-scott/donate"
+},
+{
+"text": "Home",
+"href": "https://www.philscott.org"
+},
+{
+"text": "Join the Team",
+"href": "https://www.philscott.org/volunteer/"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philscott.org/meet-phil/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.philscott.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.philscott.org/terms-and-conditions/"
+},
+{
+"text": "Website Designed by Bytes.co",
+"href": "https://bytes.co"
+},
+{
+"text": "[image: Phil Scott for Governor]",
+"href": "https://www.philscott.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/philscott4vt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilScottforVermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philscottvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+},
+{
+"text": "[no text]",
+"href": "mailto:phil@philscott.org"
+}
 ]

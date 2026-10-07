@@ -1,12 +1,42 @@
 [
-"https://englishforiowa.com/",
-"https://englishforiowa.com/cart",
-"https://englishforiowa.com/economy",
-"https://englishforiowa.com/education",
-"https://englishforiowa.com/englishs-thoughts",
-"https://englishforiowa.com/environment",
-"https://englishforiowa.com/healthcare",
-"https://englishforiowa.com/justice",
-"https://forms.gle/neJVaPbq58L7DqHT6",
-"https://secure.actblue.com/donate/englishforiowa"
+{
+"text": "0",
+"href": "https://www.englishforiowa.com/cart"
+},
+{
+"text": "Donations",
+"href": "https://secure.actblue.com/donate/englishforiowa"
+},
+{
+"text": "Economy",
+"href": "https://www.englishforiowa.com/economy"
+},
+{
+"text": "Education",
+"href": "https://www.englishforiowa.com/education"
+},
+{
+"text": "English for Iowa",
+"href": "https://www.englishforiowa.com/"
+},
+{
+"text": "Environment",
+"href": "https://www.englishforiowa.com/environment"
+},
+{
+"text": "Healthcare",
+"href": "https://www.englishforiowa.com/healthcare"
+},
+{
+"text": "Justice",
+"href": "https://www.englishforiowa.com/justice"
+},
+{
+"text": "Thoughts",
+"href": "https://www.englishforiowa.com/englishs-thoughts"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/neJVaPbq58L7DqHT6"
+}
 ]

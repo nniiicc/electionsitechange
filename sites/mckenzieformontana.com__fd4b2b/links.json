@@ -1,5 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61588608208460",
-"https://instagram.com/mckenzieformontana",
-"https://secure.actblue.com/donate/mckenzie-for-montana"
+{
+"text": "Contact the Campaign",
+"href": "mailto:info@mckenzieformontana.info"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/mckenzie-for-montana"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@mckenzieformontana.info"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "mailto:volunteer@mckenzieformontana.info"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "mailto:volunteer@mckenzieformontana.info"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588608208460"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mckenzieformontana/"
+},
+{
+"text": "info@mckenzieformontana.info",
+"href": "mailto:info@mckenzieformontana.info"
+}
 ]

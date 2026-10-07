@@ -1,22 +1,90 @@
 [
-"http://bsky.app/profile/alexisforcolorado.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lakewood+Meet+and+Greet+w%2F+Dr.+Alexis+&dates=20260227T003000Z%2F20260227T020000Z&location=1169+South+Alkire+Street%2C+Lakewood%2C+CO%2C+80228%2C+United+States",
-"http://instagram.com/alexisforcolorado",
-"http://maps.google.com/?q=1169+South+Alkire+Street+Lakewood%2C+CO%2C+80228+United+States",
-"https://alexisforcolorado.com/",
-"https://alexisforcolorado.com/cart",
-"https://alexisforcolorado.com/endorsements",
-"https://alexisforcolorado.com/events",
-"https://alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling",
-"https://alexisforcolorado.com/events/lakewood-meet-and-greet-w-dr-alexis?format=ical",
-"https://alexisforcolorado.com/events/wheat-ridge-meet-and-greet-with-dr-alexis",
-"https://alexisforcolorado.com/media",
-"https://alexisforcolorado.com/voterguide",
-"https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2",
-"https://facebook.com/profile.php?id=61575273157265",
-"https://forms.gle/DYxqBaPR3knbYy7B7",
-"https://meganhelseth.com/",
-"https://secure.actblue.com/donate/alexisforcolorado",
-"https://secure.actblue.com/donate/alexisforcolorado?recurring=true",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1169+south+alkire+street+lakewood%2C+co%2C+80228+united+states"
+},
+{
+"text": "0",
+"href": "https://www.alexisforcolorado.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexisforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "GIVE MONTHLY",
+"href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lakewood+Meet+and+Greet+w%2F+Dr.+Alexis+&dates=20260227T003000Z%2F20260227T020000Z&location=1169+South+Alkire+Street%2C+Lakewood%2C+CO%2C+80228%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.alexisforcolorado.com/events/lakewood-meet-and-greet-w-dr-alexis?format=ical"
+},
+{
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
+"text": "Media",
+"href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Next Next February 28 Community Canvass with Dr. Alexis Hoffkling",
+"href": "https://www.alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling"
+},
+{
+"text": "Previous Previous February 22 Wheat Ridge Meet and Greet with Dr. Alexis",
+"href": "https://www.alexisforcolorado.com/events/wheat-ridge-meet-and-greet-with-dr-alexis"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/DYxqBaPR3knbYy7B7"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.alexisforcolorado.com/voterguide"
+},
+{
+"text": "[image: Alexis for Colorado]",
+"href": "https://www.alexisforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/alexisforcolorado.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/alexisforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575273157265"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Election Night Watch Party on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ElectionNightWatchParty",
- "paid_for_by": null,
+ "fingerprint": "5f6018d5239d931d9b7a4a5f1d04c0821c8effff",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Election Night Watch Party | Maxwell for Congress",
  "years_mentioned": []
 }

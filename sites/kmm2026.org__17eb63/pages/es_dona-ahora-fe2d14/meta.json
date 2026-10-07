@@ -1,7 +1,11 @@
 {
  "description": "Kevin McCormick for Texas Lieutenant Governor (political advertising)",
  "final_url": "https://www.kmm2026.org/es/dona-ahora",
- "paid_for_by": null,
+ "fingerprint": "e996b13b3830c1fd37bf49f7912ec1bc2be0afa1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Dona ahora",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

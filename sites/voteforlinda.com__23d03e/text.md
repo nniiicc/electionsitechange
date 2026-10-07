@@ -1,4 +1,8 @@
-Linda Sánchez
-Meet Linda
-Congresswoman Linda Sánchez is a lifelong Californian and the daughter of Mexican immigrants, who has never forgotten where she comes from – or who she fights for.
+Support Linda’s Campaign for Congress! $# $# $# $# If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Continue to site Meet Linda Endorsements News Results Get Involved Media Donate Meet Linda Endorsements News Results Get Involved Media Donate Join our campaign to re-elect Linda to Congress!
+Linda Sánchez Meet Linda Congresswoman Linda Sánchez is a lifelong Californian and the daughter of Mexican immigrants, who has never forgotten where she comes from – or who she fights for.
 A former union member, Linda has spent her entire life “kicking ass for the working class.” She is fighting every day to lower costs for working families, protect her community from Trump and ICE, and make Southern California a better place to live and work for everyone.
+Meet Linda Latest News & Updates Press Release | May 15, 2026 Congresswoman Sánchez earns Orange County Sheriff Deputies’ endorsement during Police Week Read More Press Release | April 29, 2026 California Federation of Teachers backs Sánchez’s re-election in 41st district Read More Press Release | April 21, 2026 Leading California Latino organizations back Rep.
+Linda Sánchez in 41st congressional district Read More Press Release | April 14, 2026 Congresswoman Sánchez: Whittier just flipped blue!
+Read More Press Release | April 8, 2026 Congresswoman Sánchez: ICE shooting in Stanislaus County unacceptable Read More Read All News Support LINDA’s Campaign to re-elect her to congress $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Meet Linda Endorsements News Results Get Involved Media Donate Privacy Policy Paid for by Stand with Sanchez © # All rights reserved.

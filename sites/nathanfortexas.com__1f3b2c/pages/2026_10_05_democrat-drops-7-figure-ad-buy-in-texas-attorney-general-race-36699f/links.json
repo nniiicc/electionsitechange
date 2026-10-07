@@ -1,21 +1,86 @@
 [
-"https://facebook.com/NathanforTexas",
-"https://instagram.com/nathanfortexas",
-"https://nathanfortexas.com/",
-"https://nathanfortexas.com/cdn-cgi/l/email-protection",
-"https://nathanfortexas.com/contact-us",
-"https://nathanfortexas.com/in-the-news",
-"https://nathanfortexas.com/meet-nathan",
-"https://nathanfortexas.com/priorities",
-"https://nathanfortexas.com/volunteer",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/nj-website",
-"https://secure.actblue.com/donate/nj-website?amount=_",
-"https://store.nathanfortexas.com/",
-"https://texastribune.org/2026/05/26/mayes-middleton-chip-roy-texas-republican-runoff-attorney-general",
-"https://thehill.com/homenews/campaign/6127241-johnson-middleton-texas-attorney-general",
-"https://thehill.com/people/ken-paxton",
-"https://x.com/NathanForTexas",
-"https://youtu.be/d6VkFRAs8Vg",
-"https://youtube.com/watch?v=wBQWEwq_4e4"
+{
+"text": "Contact Us",
+"href": "https://nathanfortexas.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/nj-website"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/nj-website?amount=_"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/NathanforTexas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nathanfortexas/"
+},
+{
+"text": "Ken Paxton",
+"href": "https://thehill.com/people/ken-paxton/"
+},
+{
+"text": "Meet Nathan",
+"href": "https://nathanfortexas.com/meet-nathan/"
+},
+{
+"text": "Priorities",
+"href": "https://nathanfortexas.com/priorities/"
+},
+{
+"text": "Recent News",
+"href": "https://nathanfortexas.com/in-the-news/"
+},
+{
+"text": "Shop Now",
+"href": "https://store.nathanfortexas.com/"
+},
+{
+"text": "Store",
+"href": "https://store.nathanfortexas.com/"
+},
+{
+"text": "The 30-second spot",
+"href": "https://youtu.be/d6VkFRAs8Vg"
+},
+{
+"text": "Volunteer",
+"href": "https://nathanfortexas.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/NathanForTexas"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@nathanfortexas.com"
+},
+{
+"text": "[image: An SBDigital website, sbdigital.com]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[image]",
+"href": "https://nathanfortexas.com"
+},
+{
+"text": "a May interview with KHOU",
+"href": "https://www.youtube.com/watch?v=wBQWEwq_4e4"
+},
+{
+"text": "donation",
+"href": "https://secure.actblue.com/donate/nj-website"
+},
+{
+"text": "here",
+"href": "https://thehill.com/homenews/campaign/6127241-johnson-middleton-texas-attorney-general/"
+},
+{
+"text": "oil and gas executive",
+"href": "https://www.texastribune.org/2026/05/26/mayes-middleton-chip-roy-texas-republican-runoff-attorney-general/"
+}
 ]

@@ -1,11 +1,9 @@
-Steve Parsons: Libertarian Candidate for Congress
-Voters deserve another choice besides the two parties with a stranglehold on politics; those two parties have an abysmal record at controlling the size of government, government spending and taxes.
+0 Skip to Content About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Open Menu Close Menu About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Open Menu Close Menu About Platform Folder: Inflation Back Regulation Tariffs Fed Reform USMCA Folder: More Topics Back Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Steve Parsons: Libertarian Candidate for Congress Voters deserve another choice besides the two parties with a stranglehold on politics; those two parties have an abysmal record at controlling the size of government, government spending and taxes.
 My campaign is about less government and more freedom.
 This means less government intrusion into personal decisions such as whether one uses a seat belt or smokes marijuana.
 This also means less government intrusion into business operations such as decisions regarding hiring, benefits and compensation.
-Why I am running for US Congress
-Enough is enough!
+Why I am running for US Congress Enough is enough!
 Have the Republican and Democratic parties failed to control government spending and government intrusion into your life and your business?
 See my campaign announcement.
-Lakeview resident announces run for Congress in Arkansas' 1st District | KTLO
-Vote Libertarian for a real change.
+Lakeview resident announces run for Congress in Arkansas' 1st District | KTLO Vote Libertarian for a real change.
+My Platform CUT INFLATION = Affordability Cut Regulation s Federal Reserve Reform Tariffs US-Mexico-Canada-A greement MORE TOPICS Immigration Reform Social Security Stop Being the World Charity and the World Police Incarceration, Substance Abuse and Mental Health Reform Information Home About Platform Get in Touch Cut Inflation Cut Regulation s The Power of Trade: Tariffs and Trade Restrictions Federal Reserve Reform US-Mexico-Canada-A greement More Topics Immigration Reform Social Security Stop Being the World Charity and the World Police Incarceration, Substance Abuse and Mental Health Reform Gym Training for Libertarians 2024 Debate s

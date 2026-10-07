@@ -1,6 +1,26 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://kiehle4congress.us/legal-notice",
-"https://kiehle4congress.us/privacy"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "Legal Notice",
+"href": "https://kiehle4congress.us/legal-notice"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kiehle4congress.us/privacy"
+},
+{
+"text": "[no text]",
+"href": "tel:"
+},
+{
+"text": "campaign@kiehle4congress.us",
+"href": "mailto:campaign@kiehle4congress.us"
+}
 ]

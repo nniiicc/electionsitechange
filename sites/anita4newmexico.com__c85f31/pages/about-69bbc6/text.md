@@ -1,4 +1,4 @@
-Las Vegas, New Mexico is home.
+Democrat for NM House District 70 Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact About Anita Gonzales Las Vegas, New Mexico is home.
 I was born here and it’s where I am raising my 12-year old son today.
 I am a multi-generational Northern New Mexican with a deep love and connection to this area and this community.
 I was raised to be proud of my family, our community, our culture and way of life.
@@ -13,53 +13,15 @@ I have always been involved in our community—as a volunteer and on the Boards 
 As an acequia commissioner, I strongly understand how water is central to our lives, local agriculture, and culture.
 In addition, I have worked with state and national organizations like the Hispanic College Fund, to bring opportunities to our home communities.
 Today, I am an active mom involved in my son’s school and sports, namely football.
-My Family
-“Who are your people?” I am asked.
-And because I know that means someone is trying to find ways to connect with me, I tell them:
-“I come from the Lopez family of Villanueva, the Gallegos family of Las Vegas, and the Gonzales family of Las Vegas.
-I am the daughter of Lucille and Ross White and Clarence Gallegos and Anna Vigil and the grand-daughter of Rudolpho and Bersabe Lopez, Arturo R. and Cecelia Gallegos, Eloy and Enedine Gonzales, and Jack and Betty White.”
-Proven Track Record
-Elected Leader
-- New Mexico State Representative, District 70, 2024-current
-Education
-- Masters in Business Administration.
-Concentration in Sports Administration, New Mexico Highlands University, 2007
-- Bachelor of Arts.
+My Family “Who are your people?” I am asked.
+And because I know that means someone is trying to find ways to connect with me, I tell them: “I come from the Lopez family of Villanueva, the Gallegos family of Las Vegas, and the Gonzales family of Las Vegas.
+I am the daughter of Lucille and Ross White and Clarence Gallegos and Anna Vigil and the grand-daughter of Rudolpho and Bersabe Lopez, Arturo R. and Cecelia Gallegos, Eloy and Enedine Gonzales, and Jack and Betty White.” Proven Track Record Elected Leader New Mexico State Representative, District 70, 2024-current Education Masters in Business Administration.
+Concentration in Sports Administration, New Mexico Highlands University, 2007 Bachelor of Arts.
 Human Performance & Sport, Leisure Services.
-Minor in Business Management, New Mexico Highlands University, 2004
-- College of Agriculture.
-Recreation, Park, and Tourism Sciences, Texas A&M University, 2002
-Certifications
-- Certified Meeting Professional (CMP) Licensure
-- State of New Mexico Substitute Licensure
-Work Experience
-- Deputy Director, NM MESA, Inc.
-(Mathematics, Engineering, Science, Achievement); Las Vegas, NM, 2020-present
-- Program Coordinator, NM MESA, Inc.
-(Mathematics, Engineering, Science, Achievement); Las Vegas, NM, 2003-2020
-- Recreation Department, City of Las Vegas, Las Vegas, NM, 2002-2005
-- Intern, Association of Trial Lawyers of America; Washington, DC.
-Summer 2001, 2002
-- Volunteer Staff, National Institute for Professional Development – Project Uplift; Albuquerque, NM, 1989-1996
-Volunteer/Community Service
-- President/Commissioner, Acequia de los Madres Vigiles, 2015-present
-- Commissioner, Grzelachowski Ditch, 2015-present
-- Member, NM Acequia Association, 2020-present
-- Volunteer, Meadow City Havoc, Northern NM Children’s Football League, 2017-2023
-- President, San Miguel County Federation of Democratic Women, 2020-present
-- President, Las Vegas Rotary Club, 2021-present
-- State Chapter Executive Committee Vice Chair, Rio Grande Chapter, Sierra Club, 2020-present
-- Board Member, San Miguel County Family & Community Health Council; 2023-present
-- United World College Getaway Family; 2020-2023
-Professional Membership
-- State Delegate, MESA USA National Engineering Design Committee (NEDC), 2007-present
-- National Regional Manager, NM Hispanic Youth Symposium/Institute, 2007-2013
-- Member, NM PED Math & Science Bureau, 2006-2010
-- Member, National Science Teachers Association, 2015-present
-- Member, Computer Science Teachers Association, 2022-present
-- Northeast Rural Rep, Fuerzas Unidas Caucus, 2022-2023
-Awards
-- Albuquerque Hispano Chamber of Commerce; Public Service Honoree, October 2014
-- President’s Volunteer Service Award; June 2009
-- National Leadership in Expanding Diversity in Technology Award, National Alliance for Partnerships in Equity (NAPE); February 2024
-- Nominee, Las Vegas NM Community Foundation Bob Mishler Community Impact Award, May 2024
+Minor in Business Management, New Mexico Highlands University, 2004 College of Agriculture.
+Recreation, Park, and Tourism Sciences, Texas A&M University, 2002 Certifications Certified Meeting Professional (CMP) Licensure State of New Mexico Substitute Licensure Work Experience Deputy Director, NM MESA, Inc.
+(Mathematics, Engineering, Science, Achievement); Las Vegas, NM, 2020-present Program Coordinator, NM MESA, Inc.
+(Mathematics, Engineering, Science, Achievement); Las Vegas, NM, 2003-2020 Recreation Department, City of Las Vegas, Las Vegas, NM, 2002-2005 Intern, Association of Trial Lawyers of America; Washington, DC.
+Summer 2001, 2002 Volunteer Staff, National Institute for Professional Development – Project Uplift; Albuquerque, NM, 1989-1996 Volunteer/Community Service President/Commissioner, Acequia de los Madres Vigiles, 2015-present Commissioner, Grzelachowski Ditch, 2015-present Member, NM Acequia Association, 2020-present Volunteer, Meadow City Havoc, Northern NM Children’s Football League, 2017-2023 President, San Miguel County Federation of Democratic Women, 2020-present President, Las Vegas Rotary Club, 2021-present State Chapter Executive Committee Vice Chair, Rio Grande Chapter, Sierra Club, 2020-present Board Member, San Miguel County Family & Community Health Council; 2023-present United World College Getaway Family; 2020-2023 Professional Membership State Delegate, MESA USA National Engineering Design Committee (NEDC), 2007-present National Regional Manager, NM Hispanic Youth Symposium/Institute, 2007-2013 Member, NM PED Math & Science Bureau, 2006-2010 Member, National Science Teachers Association, 2015-present Member, Computer Science Teachers Association, 2022-present Northeast Rural Rep, Fuerzas Unidas Caucus, 2022-2023 Awards Albuquerque Hispano Chamber of Commerce; Public Service Honoree, October 2014 President’s Volunteer Service Award; June 2009 National Leadership in Expanding Diversity in Technology Award, National Alliance for Partnerships in Equity (NAPE); February 2024 Nominee, Las Vegas NM Community Foundation Bob Mishler Community Impact Award, May 2024 “ My story is my family’s story.
+It’s a story about fighting for a future that uplifts the lives of women and children. ” Anita Connect with our campaign Paid for and authorized by the Friends for Anita Gonzales Martha Peña, Treasurer Site Map | Privacy Policy ©#-#, Friends for Anita Gonzales; All rights reserved.
+Edit This | Admin Designed and developed by Evo Home About Anita About District 70 Voting Contribute Priorities Endorsements Volunteer Events News Contact Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact

@@ -1,7 +1,11 @@
 {
  "description": "William Switzer Campaign Events",
  "final_url": "https://williamswitzerforcolorado.com/Events?range=2026-12",
+ "fingerprint": "1ec7123420e0de4ac147bd0426738efa861d6a9b",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner",
  "title": "William Switzer Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

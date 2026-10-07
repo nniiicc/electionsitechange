@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.andrewsmainesenate.com/vote",
+ "fingerprint": "ece2a2d0db49c3ebab4491f6c826cf815b3bfd58",
+ "format": 3,
  "paid_for_by": "Paid for by the candidate, not at taxpayer expense",
  "title": "Voter Registration Information",
  "years_mentioned": []

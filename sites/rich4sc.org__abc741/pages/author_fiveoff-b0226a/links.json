@@ -1,18 +1,98 @@
 [
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://instagram.com/rich4sc",
-"https://organizedthemes.com/theme/forward",
-"https://rich4sc.org/",
-"https://rich4sc.org/2026/08/14/get-to-know-rich",
-"https://rich4sc.org/2026/08/14/intro",
-"https://rich4sc.org/2026/09/30/726",
-"https://rich4sc.org/2026/09/30/da-brain",
-"https://rich4sc.org/2026/09/30/everything-costs-more",
-"https://rich4sc.org/2026/09/30/rich-listens",
-"https://rich4sc.org/2026/10/02/im-running-to-serve-you",
-"https://rich4sc.org/about",
-"https://rich4sc.org/author/fiveoff",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/events"
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Buy Now",
+"href": "https://www.organizedthemes.com/theme/forward/"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/08/14/get-to-know-rich/#comments"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/08/14/intro/#comments"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/09/30/726/#comments"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/09/30/da-brain/#comments"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/09/30/everything-costs-more/#comments"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/09/30/rich-listens/#comments"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/10/02/im-running-to-serve-you/#comments"
+},
+{
+"text": "Da Brain",
+"href": "https://rich4sc.org/2026/09/30/da-brain/"
+},
+{
+"text": "EVERYTHING costs more!",
+"href": "https://rich4sc.org/2026/09/30/everything-costs-more/"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Get to know Rich",
+"href": "https://rich4sc.org/2026/08/14/get-to-know-rich/"
+},
+{
+"text": "Getting to Know Rich 2- R to D",
+"href": "https://rich4sc.org/2026/09/30/726/"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "Intro",
+"href": "https://rich4sc.org/2026/08/14/intro/"
+},
+{
+"text": "I’m running to serve YOU!",
+"href": "https://rich4sc.org/2026/10/02/im-running-to-serve-you/"
+},
+{
+"text": "Rich Listens",
+"href": "https://rich4sc.org/2026/09/30/rich-listens/"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "fiveoff",
+"href": "https://rich4sc.org/author/fiveoff/"
+}
 ]

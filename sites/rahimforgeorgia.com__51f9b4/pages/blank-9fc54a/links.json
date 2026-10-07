@@ -1,11 +1,58 @@
 [
-"https://ccsatlanta.com/political",
-"https://facebook.com/RahimForGeorgia",
-"https://instagram.com/RahimForGeorgia",
-"https://linkedin.com/in/rahim-asani-656715b0",
-"https://rahimforgeorgia.com/",
-"https://rahimforgeorgia.com/blank",
-"https://rahimforgeorgia.com/event-details-1/meet-greet-with-rahim",
-"https://rahimforgeorgia.com/privacy-policy",
-"https://rahimforgeorgia.com/voting"
+{
+"text": "About",
+"href": "https://www.rahimforgeorgia.com/blank"
+},
+{
+"text": "CCS: Marketing & Technology",
+"href": "https://ccsatlanta.com/political"
+},
+{
+"text": "Donate",
+"href": "https://www.rahimforgeorgia.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rahimforgeorgia.com"
+},
+{
+"text": "Hello@RahimForGeorgia.com",
+"href": "mailto:Hello@RahimForGeorgia.com?subject=Contact+Rahim"
+},
+{
+"text": "Platform",
+"href": "https://www.rahimforgeorgia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rahimforgeorgia.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.rahimforgeorgia.com/event-details-1/meet-greet-with-rahim"
+},
+{
+"text": "RSVP | Meet & Greet",
+"href": "https://www.rahimforgeorgia.com/event-details-1/meet-greet-with-rahim"
+},
+{
+"text": "Voting Info",
+"href": "https://www.rahimforgeorgia.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RahimForGeorgia"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/RahimForGeorgia"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/rahim-asani-656715b0"
+},
+{
+"text": "[no text]",
+"href": "https://www.rahimforgeorgia.com"
+}
 ]

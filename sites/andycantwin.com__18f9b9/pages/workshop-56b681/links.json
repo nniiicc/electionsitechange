@@ -1,14 +1,54 @@
 [
-"https://andycantwin.com/",
-"https://andycantwin.com/clock",
-"https://andycantwin.com/library",
-"https://andycantwin.com/loading",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/nokings",
-"https://andycantwin.com/project2027",
-"https://andycantwin.com/volunteer.html",
-"https://atwork.andycantwin.com/",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Gerrymandering at work At Work You see what passes. Not what's killed. One party controls the legislature. This is how they use it. →",
+"href": "https://atwork.andycantwin.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin"
+},
+{
+"text": "Live counter The Voucher Clock $# million in public money, ticking toward private schools in real time. Watch it go. →",
+"href": "https://andycantwin.com/clock/"
+},
+{
+"text": "Mirror No Kings A mirror. You're the point. Not them. →",
+"href": "https://andycantwin.com/nokings/"
+},
+{
+"text": "Parody Mandate for Accountability Heritage Foundation vibes, but for people who actually live here. →",
+"href": "https://andycantwin.com/project2027/"
+},
+{
+"text": "Satire Please Wait. Loading affordable healthcare... NOT FOUND. A fake loading screen for a state that can't get its act together. →",
+"href": "https://andycantwin.com/loading/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Stories The Can't Win Library Bedtime stories about gerrymandering, lobbyists, and why your vote matters. For grown-ups. →",
+"href": "https://andycantwin.com/library/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "← back to the chaos",
+"href": "https://andycantwin.com/"
+}
 ]

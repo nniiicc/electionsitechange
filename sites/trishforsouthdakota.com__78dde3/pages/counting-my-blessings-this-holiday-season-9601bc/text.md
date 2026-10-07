@@ -1,5 +1,4 @@
-Counting my blessings this holiday season
-What a year it has been!
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Counting my blessings this holiday season Trish Ladner • December 22, 2021 What a year it has been!
 As we begin the holiday season, I am compelled to count my blessings.
 Wow, where do I begin?
 This past year has been a year of phenomenal experiences; being sworn as a State Representative (truly, an experience I will never forget), serving on the Ag & Natural Resource and the Commerce & Energy committees as well as the honor of being elected to the Executive Board by my peers.
@@ -31,6 +30,4 @@ Senator Castleberry and I are encouraged by the progress we have made garnering 
 Please consider dropping in at your county assessor’s office to sign two petitions; one in support of tax reform in South Dakota and one to support Draft Bill 50 for our ranchers.
 Remember, there is strength and influence in numbers!
 Well, it's time for the Christmas slow down to begin but before I go, I’d like to take this opportunity to wish you a Merry Christmas and Happy New Year from my home to yours.
-It has been a true honor and pleasure serving you and District 30 in Pierre and I am looking forward to 2022.
-Representative Trish Ladner
-District 30
+It has been a true honor and pleasure serving you and District 30 in Pierre and I am looking forward to 2022. ﻿ Representative Trish Ladner District 30 < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

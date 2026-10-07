@@ -1,4 +1,4 @@
-Attorney General Kwame Raoul was sworn in as the 42nd Attorney General of Illinois in January 2019.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us About Kwame Raoul Share Attorney General Kwame Raoul was sworn in as the 42nd Attorney General of Illinois in January 2019.
 Born in Chicago to Haitian immigrants, Kwame brings a lifetime of legal experience and public service to his work as the people’s champion.
 Kwame’s fellow Democratic Attorneys General elected him Co-Chair of their coalition in November of 2024 to lead their coordinated effort against President Trump’s unconstitutional actions.
 In his leadership in Illinois and nationwide, Kwame defends and upholds the law, protects access to health care and reproductive rights, and fights for equal rights.
@@ -39,3 +39,5 @@ Kwame began his legal career as a prosecutor in the Cook County State’s Attorn
 Kwame is a graduate of DePaul University and earned his law degree from Chicago-Kent College of Law.
 He is married to Dr.
 Lisa Moore, and the couple are the parents of Che, Mizan, John, and Madison.
+Share Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

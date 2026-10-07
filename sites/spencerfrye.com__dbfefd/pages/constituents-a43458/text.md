@@ -1,7 +1,4 @@
-Constituents
-Our legislative office provides many services to assist our constituents in District 122.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Constituents Our legislative office provides many services to assist our constituents in District 122.
 Please contact our office if you have questions, concerns, or specific issues that you would like to discuss, and a staff member will assist you.
-Office Phone: (404)-656-0265
-Office Address: Suite 604 in the Coverdell Legislative Office Building Atlanta, GA 30303
-Schedule a tour of the Capitol: http://www.libs.uga.edu/capitolmuseum/index.html
-Email: spencer.frye@house.ga.gov
+Office Phone: (404)-656-0265 Office Address: Suite 604 in the Coverdell Legislative Office Building Atlanta, GA 30303 Schedule a tour of the Capitol: http://www.libs.uga.edu/capitolmuseum/index.html Email: spencer.frye@house.ga.gov Get updates sent to your inbox Email Address Zip Code Leave this field empty if you're human: ©# Spencer Frye State House 122.
+All Rights Reserved.

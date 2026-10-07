@@ -1,15 +1,78 @@
 [
-"https://facebook.com/ron.robinson.18",
-"https://robinsonformichigan.com/",
-"https://robinsonformichigan.com/about",
-"https://robinsonformichigan.com/events",
-"https://robinsonformichigan.com/issues",
-"https://robinsonformichigan.com/results",
-"https://secure.anedot.com/cte-ron-robinson/donate",
-"https://secure.anedot.com/cte-ron-robinson?amount=100",
-"https://secure.anedot.com/cte-ron-robinson?amount=1000",
-"https://secure.anedot.com/cte-ron-robinson?amount=25",
-"https://secure.anedot.com/cte-ron-robinson?amount=250",
-"https://secure.anedot.com/cte-ron-robinson?amount=50",
-"https://secure.anedot.com/cte-ron-robinson?amount=500"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/cte-ron-robinson/?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/cte-ron-robinson/?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/cte-ron-robinson/?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/cte-ron-robinson/?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/cte-ron-robinson/?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/cte-ron-robinson/?amount=500"
+},
+{
+"text": "About",
+"href": "https://robinsonformichigan.com/about"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/cte-ron-robinson/donate"
+},
+{
+"text": "Events",
+"href": "https://robinsonformichigan.com/events"
+},
+{
+"text": "Home",
+"href": "https://robinsonformichigan.com/"
+},
+{
+"text": "Issues",
+"href": "https://robinsonformichigan.com/issues"
+},
+{
+"text": "Learn about Ron's plan to lower costs",
+"href": "https://robinsonformichigan.com/issues"
+},
+{
+"text": "Learn more about Ron",
+"href": "https://robinsonformichigan.com/about"
+},
+{
+"text": "Request Yard Sign!",
+"href": "mailto:ron@robinsonformichigan.com"
+},
+{
+"text": "Results",
+"href": "https://robinsonformichigan.com/results"
+},
+{
+"text": "View our 2025 Budget Victories",
+"href": "https://robinsonformichigan.com/results"
+},
+{
+"text": "[image: Ron Robinson for State Representative logo]",
+"href": "https://robinsonformichigan.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/ron.robinson.18"
+},
+{
+"text": "__________________________",
+"href": "https://robinsonformichigan.com/about"
+}
 ]

@@ -1,23 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=July+26+Doorknock+with+Rep.+Esther+Agbaje&dates=20260726T173000Z%2F20260726T200000Z&location=1726+Lake+Johanna+Blvd%2C+Arden+Hills%2C+Mn+",
-"http://maps.google.com/?q=1726+Lake+Johanna+Blvd+Arden+Hills%2C+Mn",
-"https://docs.google.com/forms/d/e/1FAIpQLSf4VlyulWL6W7h7kG0gJuVgJG8j_m8v6TJlOy5fmp3eAyFjRA/viewform?usp=header",
-"https://facebook.com/profile.php?id=61582579073857",
-"https://secure.actblue.com/donate/aisha-elmquist-1",
-"https://voteelmquist.com/",
-"https://voteelmquist.com/cart",
-"https://voteelmquist.com/contact",
-"https://voteelmquist.com/endorsements",
-"https://voteelmquist.com/events",
-"https://voteelmquist.com/events/2026-slice-of-shoreview-parade",
-"https://voteelmquist.com/events/aug-1-2026-doorknock",
-"https://voteelmquist.com/events/july-26-2026-doorknock?format=ical",
-"https://voteelmquist.com/events?category=Talk+to+Voters",
-"https://voteelmquist.com/meet",
-"https://voteelmquist.com/priorities",
-"https://voteelmquist.com/resources",
-"https://voteelmquist.com/take-action",
-"https://voteelmquist.com/volunteer",
-"https://voteelmquist.com/volunteer-1",
-"https://voteelmquist.com/voting-info"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1726+lake+johanna+blvd+arden+hills%2C+mn++"
+},
+{
+"text": "0",
+"href": "https://www.voteelmquist.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteelmquist.com/meet"
+},
+{
+"text": "Back",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/aisha-elmquist-1"
+},
+{
+"text": "Contact",
+"href": "https://www.voteelmquist.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteelmquist.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.voteelmquist.com/take-action"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+26+Doorknock+with+Rep.+Esther+Agbaje&dates=20260726T173000Z%2F20260726T200000Z&location=1726+Lake+Johanna+Blvd%2C+Arden+Hills%2C+Mn+"
+},
+{
+"text": "Home",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/july-26-2026-doorknock?format=ical"
+},
+{
+"text": "Immigration and Community Resources",
+"href": "https://www.voteelmquist.com/resources"
+},
+{
+"text": "Next Next August 1 August 1 Doorknock",
+"href": "https://www.voteelmquist.com/events/aug-1-2026-doorknock"
+},
+{
+"text": "Previous Previous July 25 Slice of Shoreview Parade",
+"href": "https://www.voteelmquist.com/events/2026-slice-of-shoreview-parade"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteelmquist.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf4VlyulWL6W7h7kG0gJuVgJG8j_m8v6TJlOy5fmp3eAyFjRA/viewform?usp=header"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.voteelmquist.com/volunteer-1"
+},
+{
+"text": "Talk to Voters",
+"href": "https://www.voteelmquist.com/events?category=Talk+to+Voters"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteelmquist.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteelmquist.com/voting-info"
+},
+{
+"text": "[image: Elmquist for House]",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582579073857"
+}
 ]

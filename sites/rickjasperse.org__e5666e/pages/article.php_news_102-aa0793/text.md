@@ -1,4 +1,4 @@
-[February 28, 2021] | Do I ever not say "It's a busy week"?
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ February 28, 2021 ] | Do I ever not say "It's a busy week"?
 Well, this one was!
 All committees and members are pushing to get ready for Crossover Day, which will be on Monday, March 8.
 It's the day a bill must pass the House and cross over to the Senate for them to review.
@@ -28,3 +28,4 @@ In a short article you can't cover everything, so if you want more information o
 I keep a weekly summary I can send you.
 My Capitol office number is 404-656-7153, my home 770-893-2039, and my email address is rick.jasperse@house.ga.gov.
 Please contact me anytime.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

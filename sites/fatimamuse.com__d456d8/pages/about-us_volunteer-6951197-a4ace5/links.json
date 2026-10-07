@@ -1,20 +1,62 @@
 [
-"https://facebook.com/61585159342233",
-"https://fatimamuse.com/",
-"https://fatimamuse.com/about-us",
-"https://fatimamuse.com/cdn-cgi/l/email-protection",
-"https://fatimamuse.com/contact-us",
-"https://fatimamuse.com/en-espa\u00f1ol",
-"https://fatimamuse.com/get-to-know-the-candidate",
-"https://fatimamuse.com/legal-notice",
-"https://fatimamuse.com/merchant-policies",
-"https://fatimamuse.com/services",
-"https://maps.google.com/?q=PO+Box+495%2C+%0ACommerce%2C+%0ATexas",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/votemuse",
-"https://ueni.com/",
-"https://ueni.com/en-us/privacy",
-"https://ueni.com/en-us/terms",
-"https://x.com/VoteMuseHD2"
+{
+"text": "About",
+"href": "https://www.fatimamuse.com/get-to-know-the-candidate"
+},
+{
+"text": "Contact",
+"href": "https://www.fatimamuse.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votemuse"
+},
+{
+"text": "En Español",
+"href": "https://www.fatimamuse.com/en-espa%C3%B1ol"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fatimamuse.com/about-us"
+},
+{
+"text": "Home",
+"href": "https://www.fatimamuse.com/"
+},
+{
+"text": "Legal Notice",
+"href": "https://www.fatimamuse.com/legal-notice"
+},
+{
+"text": "Merchant Policies",
+"href": "https://www.fatimamuse.com/merchant-policies"
+},
+{
+"text": "PO Box 495, Commerce, Texas",
+"href": "https://maps.google.com/?q=PO+Box+495%2C+%0ACommerce%2C+%0ATexas"
+},
+{
+"text": "Priorities",
+"href": "https://www.fatimamuse.com/services"
+},
+{
+"text": "[email protected]",
+"href": "mailto:Fatima@VoteMuse.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/61585159342233"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteMuseHD2"
+},
+{
+"text": "[no text]",
+"href": "mailto:Fatima@VoteMuse.com"
+},
+{
+"text": "[tooltip: logo]",
+"href": "https://ueni.com/"
+}
 ]

@@ -1,8 +1,4 @@
-M A R K WALCZYK
-PRINCIPLED FIGHTER
-Home
-About
-Get Involved
-Contact
-Events
-Front Yard Of America Classic
+top of page M A R K WALCZYK PRINCIPLED FIGHTER Home About Get Involved Contact Events ​Front Yard Of America Classic DONATE SUBSCRIBE YARD SIGNS All Articles Search Oswego County Conservatives Endorse Senator Mark Walczyk markcwalczyk Feb 28, 2024 0 min read Recent Posts See All St.
+Lawrence County Republicans Endorsed Sen.
+Walczyk Re-Election Proud to Receive the Herkimer County Republicans Endorsement Herkimer County Conservatives Endorsed Senator Walczyk FREEDOM FIRST New York Always DONATE VOLUNTEER SUBSCRIBE ​ Get the latest updates from the campaign trail First Name Enter your email address Subscribe Thanks for subscribing!
+Home About Endorsements Get Involved Contact ​ MARK WALCZYK - FOR SENATE - © # paid for by the Friends of Walczyk Friends of Walczyk 1 Public Square, Box 11B Watertown, NY 13601 Email Our Team (315) 608-3023 bottom of page

@@ -1,5 +1,4 @@
-The Data Center Issue
-The data center issue is one that deserves serious attention.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute The Data Center Issue Hoosiers For Tomes July 17, 2026 Indiana The Data Center Issue The data center issue is one that deserves serious attention.
 I am deeply concerned about the loss of valuable farmland to large-scale development projects like these.
 Once productive farmland is gone, it is often gone forever, taking with it not only a source of food production but also an important part of our local heritage, economy, and way of life.
 At the same time, this is primarily a local issue—not a state issue.
@@ -17,8 +16,4 @@ In a representative government, you have the power to elect them, and you have t
 If you care about the future of your community, make your voice heard.
 Attend meetings, ask questions, stay informed, and hold your elected officials accountable.
 As I often say: Vote.
-It is not only your right—it is your responsibility as a citizen of this great nation.
--Indiana State Senator Jim Tomes
-Community In Action
-https://www.14news.com/2026/07/09/another-meeting-being-held-after-public-outcry-against-potential-data-center-posey-co/
-https://www.wfyi.org/statewide/2026-07-06/indiana-counties-data-center-moratoriums-bans-2026
+It is not only your right—it is your responsibility as a citizen of this great nation. -Indiana State Senator Jim Tomes * source: www.datacentermap.com/usa/indiana Community In Action https://www.14news.com/2026/07/09/another-meeting-being-held-after-public-outcry-against-potential-data-center-posey-co/ https://www.wfyi.org/statewide/2026-07-06/indiana-counties-data-center-moratoriums-bans-2026 Tagged data center , Evansville , farmland , Indiana , Jim Tomes , Posey County , State Senator Jim Tomes , Vanderburgh County Post navigation Previous Previous post: Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

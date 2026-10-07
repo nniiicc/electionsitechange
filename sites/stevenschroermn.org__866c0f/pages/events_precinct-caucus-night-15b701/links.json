@@ -1,24 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Precinct+Caucus+Night&dates=20260204T010000Z%2F20260204T030000Z&location=Lakeville%2C+MN%2C+United+States",
-"http://maps.google.com/?q=+Lakeville%2C+MN+United+States",
-"https://bsky.app/profile/stevenschroermn.bsky.social",
-"https://instagram.com/steven.schroer_mn?igsh=d2FzbmZmNG5qNHUy",
-"https://secure.actblue.com/donate/steven-schroer-senate-57",
-"https://stevenschroermn.org/",
-"https://stevenschroermn.org/cart",
-"https://stevenschroermn.org/contact",
-"https://stevenschroermn.org/door-knocking",
-"https://stevenschroermn.org/endorsements",
-"https://stevenschroermn.org/events",
-"https://stevenschroermn.org/events/26q1s6bit999zrd6a1qq3lrrur4ojh",
-"https://stevenschroermn.org/events/fundraising-dinner",
-"https://stevenschroermn.org/events/precinct-caucus-night?format=ical",
-"https://stevenschroermn.org/get-involved",
-"https://stevenschroermn.org/get-to-know-me",
-"https://stevenschroermn.org/my-story",
-"https://stevenschroermn.org/policies",
-"https://stevenschroermn.org/volunteer",
-"https://stevenschroermn.org/yard-sign",
-"https://tiktok.com/@steven.schroer.mn?_t=ZP-8zuoHefcCoo&_r=1",
-"https://youtube.com/@stevenschroermn"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+lakeville%2C+mn+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stevenschroermn.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.stevenschroermn.org/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stevenschroermn.org/events"
+},
+{
+"text": "Contact",
+"href": "https://www.stevenschroermn.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/steven-schroer-senate-57"
+},
+{
+"text": "Events",
+"href": "https://www.stevenschroermn.org/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.stevenschroermn.org/get-involved"
+},
+{
+"text": "Folder: Get To Know Me",
+"href": "https://www.stevenschroermn.org/get-to-know-me"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Precinct+Caucus+Night&dates=20260204T010000Z%2F20260204T030000Z&location=Lakeville%2C+MN%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.stevenschroermn.org/events/precinct-caucus-night?format=ical"
+},
+{
+"text": "My Endorsements",
+"href": "https://www.stevenschroermn.org/endorsements"
+},
+{
+"text": "My Policies",
+"href": "https://www.stevenschroermn.org/policies"
+},
+{
+"text": "My Story",
+"href": "https://www.stevenschroermn.org/my-story"
+},
+{
+"text": "Next Next February 18 Candidate Forum 57B",
+"href": "https://www.stevenschroermn.org/events/26q1s6bit999zrd6a1qq3lrrur4ojh"
+},
+{
+"text": "Previous Previous January 17 Fundraising Dinner",
+"href": "https://www.stevenschroermn.org/events/fundraising-dinner"
+},
+{
+"text": "Self Scheduled Door Knocking",
+"href": "https://www.stevenschroermn.org/door-knocking"
+},
+{
+"text": "Volunteer",
+"href": "https://www.stevenschroermn.org/volunteer"
+},
+{
+"text": "Yard Sign!",
+"href": "https://www.stevenschroermn.org/yard-sign"
+},
+{
+"text": "[image: Steven Schroer MN Senate 57]",
+"href": "https://www.stevenschroermn.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/stevenschroermn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/steven.schroer_mn?igsh=d2FzbmZmNG5qNHUy"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@steven.schroer.mn?_t=ZP-8zuoHefcCoo&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@stevenschroermn"
+}
 ]

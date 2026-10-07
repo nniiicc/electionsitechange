@@ -1,5 +1,4 @@
-Supporting Workers and Strengthening Labor Rights
-I believe strong unions are essential to a healthy democracy.
+0 Skip to Content Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Folder: Issues Back Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Supporting Workers and Strengthening Labor Rights I believe strong unions are essential to a healthy democracy.
 When workers have a real voice on the job, wages rise, workplaces are safer, and communities are more stable.
 However, today too much power is concentrated in the hands of large corporations and too little with the people whose labor drives our economy.
 Rebalancing this power starts with protecting and expanding the right to organize.
@@ -9,3 +8,4 @@ Worker power also depends on basic economic security.
 I support fair scheduling, paid family and medical leave, paid sick time, and strong protections for essential and care workers.
 As industries grow, including clean energy, broadband, and technology, we must ensure these jobs come with full organizing rights, strong labor protections, and a real voice on the job.
 I will continue to stand with workers and unions to rebalance our economy and ensure every person has access to stable, well-paying work with dignity in their own community.
+Email: info@annakelles.com

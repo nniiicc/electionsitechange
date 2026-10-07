@@ -1,25 +1,122 @@
 [
-"http://pillar5/",
-"https://facebook.com/mikeklein4congress",
-"https://google.com/maps/dir?api=1&destination=Hospice+Marion+County+Administration+Building+%26+Elliott+Center%2C+3231+SW+34th+Ave%2C+Ocala%2C+FL+34474",
-"https://instagram.com/vote4klein",
-"https://maps.app.goo.gl/WLYzoJyu2cq4z6Wu5",
-"https://meetings.municode.com/adaHtmlDocument/index?cc=MICANOPYFL&me=da4847bdfefe459f99fa6626316bb127&ip=True",
-"https://mike-klein-for-congress.printify.me/",
-"https://mikeklein4congress.com/",
-"https://mikeklein4congress.com/5-pillars",
-"https://mikeklein4congress.com/events",
-"https://mikeklein4congress.com/gallery",
-"https://mikeklein4congress.com/invite-mike",
-"https://mikeklein4congress.com/meet-mike",
-"https://mikeklein4congress.com/press",
-"https://mikeklein4congress.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fmikeklein4congress.com%2Fevents%2F",
-"https://mikekleinforcongress.nationbuilder.com/https_mikeklein4congress_com",
-"https://mikekleinforcongress.nationbuilder.com/join",
-"https://mikekleinforcongress.nationbuilder.com/volunteer",
-"https://registertovoteflorida.gov/home",
-"https://threads.com/@vote4klein",
-"https://tiktok.com/@klein4congress",
-"https://x.com/klein4congress",
-"https://youtube.com/@MikeKlein4Congress"
+{
+"text": "48 SW 2nd St",
+"href": "https://maps.app.goo.gl/WLYzoJyu2cq4z6Wu5"
+},
+{
+"text": "5 Pillars",
+"href": "https://mikeklein4congress.com/5-pillars/"
+},
+{
+"text": "571-622-8880",
+"href": "tel:+15716228880"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://mikekleinforcongress.nationbuilder.com/https_mikeklein4congress_com"
+},
+{
+"text": "Events",
+"href": "https://mikeklein4congress.com/events/"
+},
+{
+"text": "Forgot password?",
+"href": "https://mikeklein4congress.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fmikeklein4congress.com%2Fevents%2F"
+},
+{
+"text": "Gallery",
+"href": "https://mikeklein4congress.com/gallery/"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=Hospice+Marion+County+Administration+Building+%26+Elliott+Center%2C+3231+SW+34th+Ave%2C+Ocala%2C+FL+34474"
+},
+{
+"text": "Join",
+"href": "https://mikekleinforcongress.nationbuilder.com/join"
+},
+{
+"text": "MORE EVENTS COMING SOON",
+"href": "http://pillar5"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikeklein4congress.com/meet-mike/"
+},
+{
+"text": "Mike Klein",
+"href": "https://mikeklein4congress.com/"
+},
+{
+"text": "Press",
+"href": "https://mikeklein4congress.com/press/"
+},
+{
+"text": "Request Mike at your event",
+"href": "https://mikeklein4congress.com/invite-mike/"
+},
+{
+"text": "Store",
+"href": "https://mike-klein-for-congress.printify.me"
+},
+{
+"text": "Tel: 352-448-8603",
+"href": "tel:+13524488603"
+},
+{
+"text": "View the agenda",
+"href": "https://meetings.municode.com/adaHtmlDocument/index?cc=MICANOPYFL&me=da4847bdfefe459f99fa6626316bb127&ip=True"
+},
+{
+"text": "Volunteer",
+"href": "https://mikekleinforcongress.nationbuilder.com/volunteer"
+},
+{
+"text": "Vote@mikeklein4congress.com",
+"href": "mailto:Vote@mikeklein4congress.com"
+},
+{
+"text": "[image: MK_header_logo copy]",
+"href": "https://mikeklein4congress.com"
+},
+{
+"text": "[image]",
+"href": "https://mikeklein4congress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikeklein4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote4klein/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@vote4klein"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@klein4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MikeKlein4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/klein4congress"
+},
+{
+"text": "anna.westbrook@mikekleinforcongress.com",
+"href": "mailto:anna.westbrook@mikekleinforcongress.com"
+},
+{
+"text": "donate",
+"href": "https://mikekleinforcongress.nationbuilder.com/https_mikeklein4congress_com"
+},
+{
+"text": "register to vote by october 5th",
+"href": "https://registertovoteflorida.gov/home"
+}
 ]

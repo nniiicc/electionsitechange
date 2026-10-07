@@ -1,3 +1,2 @@
-Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General
-Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Abner, has announced his endorsement of Jon Echols in the race for Attorney General.
-“Politicians…
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Day June 4, 2026 Uncategorized Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Abner, has announced his endorsement of Jon Echols in the race for Attorney General.
+“Politicians… campaign2026 June 4, 2026 Terms – Privacy – Opt-in Authorized and Paid for by Echols for Attorney General 2026

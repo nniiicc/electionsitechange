@@ -1,5 +1,14 @@
 [
-"https://brianlamptonohio.com/",
-"https://brianlamptonohio.com/cart",
-"https://secure.winred.com/citizens-for-lampton/donate"
+{
+"text": "0",
+"href": "https://www.brianlamptonohio.com/cart"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.winred.com/citizens-for-lampton/donate"
+},
+{
+"text": "[image: Brian Lampton for Ohio]",
+"href": "https://www.brianlamptonohio.com/"
+}
 ]

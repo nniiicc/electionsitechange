@@ -1,15 +1,8 @@
-Rear Admiral (Ret.) Nancy Lacore Highlights Military Service Record in First Ad of SC-01 General Election Fight
-Press Release | September 9, 2026CONTACT:
-Kaylie Haberstroh | kaylie@nancylacore.com
-MOUNT PLEASANT, SC — Today,Nancy Lacore, candidate for Congress in SC-01, released two cuts of her first general election ad, ‘Send in the Admiral.’ The six-figure ad buy will air on television and digital platforms across South Carolina’s first district as part of a larger investment in paid media to reach Lowcountry voters district-wide ahead of the general election.
-‘Send in the Admiral’ highlights Nancy’s decades-long commitment to nonpartisan service to this country in the military as a three-star Admiral and Chief of Navy Reserve, setting her apart from typical politicians as a Lowcountry-first fighter who “won’t be bossed around in DC.” The spot draws a strong contrast between Nancy and the Washington political establishment by emphasizing her record of servant leadership and reinforces that she is the candidate who, in Congress, will be unafraid to stand up to party operatives on both sides of the aisle to make life safer and more affordable for South Carolina families.
-Watch the full 30 second ad:
-Watch the 15 second cut here.
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate Rear Admiral (Ret.) Nancy Lacore Highlights Military Service Record in First Ad of SC-01 General Election Fight Sep 9 Written By Kasey Lacore Press Release | September 9, 2026 CONTACT: Kaylie Haberstroh | kaylie@nancylacore.com ‍ MOUNT PLEASANT, SC — Today,Nancy Lacore, candidate for Congress in SC-01, released two cuts of her first general election ad, ‘Send in the Admiral.’ The six-figure ad buy will air on television and digital platforms across South Carolina’s first district as part of a larger investment in paid media to reach Lowcountry voters district-wide ahead of the general election. ‘Send in the Admiral’ highlights Nancy’s decades-long commitment to nonpartisan service to this country in the military as a three-star Admiral and Chief of Navy Reserve, setting her apart from typical politicians as a Lowcountry-first fighter who “won’t be bossed around in DC.” The spot draws a strong contrast between Nancy and the Washington political establishment by emphasizing her record of servant leadership and reinforces that she is the candidate who, in Congress, will be unafraid to stand up to party operatives on both sides of the aisle to make life safer and more affordable for South Carolina families.
+Watch the full 30 second ad: Watch the 15 second cut here .
 The launch of ‘Send in the Admiral’ marks the start of a seven-figure district-wide ad run leading up to the general election, reflecting Nancy’s success in building a broad coalition of support around her campaign to bring service-oriented leadership back to Washington.
-Her real-world experience and demonstrated commitment to country over party have earned her bipartisan support from over 40 local and national leaders and organizations and have made her the competitive Democratic candidate fit to flip SC-01 blue.
-‘Send in the Admiral’ will air on television and digital platforms beginning today, September 9, 2026.
-AD TRANSCRIPT (15s):
-They’ve called her a lot of things.
+Her real-world experience and demonstrated commitment to country over party have earned her bipartisan support from over 40 local and national leaders and organizations and have made her the competitive Democratic candidate fit to flip SC-01 blue. ‘Send in the Admiral’ will air on television and digital platforms beginning today, September 9, 2026.
+AD TRANSCRIPT (15s): They’ve called her a lot of things.
 Navy helicopter pilot.
 Three-star Admiral.
 Chief of Navy Reserve.
@@ -17,8 +10,7 @@ Nancy Lacore.
 She led 60,000 sailors – she won’t be bossed around in DC.
 She’ll put the Lowcountry first.
 It’s time to send in the Admiral.
-AD TRANSCRIPT (30s):
-They’ve called her a lot of things.
+AD TRANSCRIPT (30s): They’ve called her a lot of things.
 Navy helicopter pilot.
 Rear Admiral.
 Three-star Admiral.
@@ -37,4 +29,5 @@ When Pete Hegseth removed her from her post without explanation in 2025, she dec
 A commitment to service, family, and country has shaped every chapter of Nancy’s life, and it continues to guide what comes next.
 Nancy wore the uniform for 35 years, but her dedication to this country and its people didn’t end when she took it off.
 In this next chapter, Nancy is ready to put her experience, her values, and her voice to work for every family in South Carolina’s first congressional district.
-###
+### Kasey Lacore Previous Previous Rear Admiral (Ret.) Nancy Lacore Centers Family Health Care Struggle in New Ad on Costs, Corruption Next Next Retired Rear Admirals Nancy Lacore and Eileen Laubacher Condemn Department of Defense Failures Amid USS Lincoln’s Extended Deployment Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

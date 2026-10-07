@@ -1,5 +1,4 @@
-Meet Lisa
-Lisa became involved in politics in 2010 when her two sons were still students in Radnor’s public schools and the School Board at the time was debating the budget.
+0 Skip to Content Home Meet Lisa Get involved On the Issues On the Issues Public Education Common Sense Gun Reform Workers' Rights Infrastructure Protecting Healthcare Access Right to Choose Access to the Ballot Box Public Safety Protecting the Environment Endorsements Donate Open Menu Close Menu Home Meet Lisa Get involved On the Issues On the Issues Public Education Common Sense Gun Reform Workers' Rights Infrastructure Protecting Healthcare Access Right to Choose Access to the Ballot Box Public Safety Protecting the Environment Endorsements Donate Open Menu Close Menu Home Meet Lisa Get involved Folder: On the Issues Back On the Issues Public Education Common Sense Gun Reform Workers' Rights Infrastructure Protecting Healthcare Access Right to Choose Access to the Ballot Box Public Safety Protecting the Environment Endorsements Donate Meet Lisa Lisa became involved in politics in 2010 when her two sons were still students in Radnor’s public schools and the School Board at the time was debating the budget.
 Her youngest came home from school crying because his gym teacher said he might lose his job.
 Lisa decided to tune into the next School Board meeting when they would be debating the budget.
 As she sat there watching it on her TV, it was clear that the Board did not have a vision which included investing in the schools and was not providing opportunity or space for growth.
@@ -29,3 +28,4 @@ Lisa has been serving her community as State Representative since 2022 because t
 Lisa is focused on listening to her constituents and finding common sense solutions.
 She isn’t afraid to defy the status quo or take hard votes – she just wants to get things done for the community she loves.
 In Harrisburg, she will always show up for the people of the 168th.
+Paid for and authorized by Friends of Lisa Borowski PO Box 92; Wallingford, PA 19063

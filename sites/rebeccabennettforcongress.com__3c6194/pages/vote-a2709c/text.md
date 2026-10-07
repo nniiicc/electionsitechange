@@ -1,16 +1,16 @@
-Voting Information
-ELECTION DAY IS TUESDAY, NOVEMBER 3.
-HERE’S HOW YOU CAN CAST YOUR BALLOT FOR
-REBECCA BENNETT FOR CONGRESS!
-THERE ARE THREE WAYS TO VOTE IN THE NOVEMBER 3 GENERAL ELECTION
-Return your ballot for Rebecca as soon as you receive it.
-Here’s how you can do that:
-- Drop off your ballot for Rebecca by 8 PM on November 3, 2026
-- Bring your ballot to your county’s Board of Elections office by 8 PM on November 3, 2026
-- Return by mail (only some counties provide a stamp, so double-check your envelope) and make sure the envelope is postmarked by 8 PM on November 3
-Request that a vote-by-mail ballot be sent by mail to you before October 27
-- You can also request your ballot in-person at your county clerk’s office until 3 PM on Monday, November 2nd
-- Ballots will be sent to voters starting on or before September 19th
-EARLY IN-PERSON VOTING: OCTOBER 24 – NOVEMBER 1
-You can vote at ANY early voting location in your county.
-Early Voting hours: Monday – Saturday from 10 AM – 8 PM, Sunday from 10 AM – 6 PM
+Skip to content Rebecca Bennett for Congress Meet Rebecca News Priorities Endorsements Events Store Volunteer Vote Meet Rebecca News Priorities Endorsements Events Store Volunteer Vote Meet Rebecca News Priorities Endorsements Events Store Volunteer Vote Meet Rebecca News Priorities Endorsements Events Store Volunteer Vote Facebook X-twitter Threads Instagram Youtube Home Meet Rebecca Priorities Endorsements News Store Upcoming Events Volunteer Donate – ActBlue Donate – Numero Home Meet Rebecca Priorities Endorsements News Store Upcoming Events Volunteer Donate – ActBlue Donate – Numero Donate with ActBlue Donate with Numero Voting Information ELECTION DAY IS TUESDAY, NOVEMBER 3.
+HERE’S HOW YOU CAN CAST YOUR BALLOT FOR REBECCA BENNETT FOR CONGRESS!
+Register to vote by Tuesday, October 13 check your voter registration register to vote THERE ARE THREE WAYS TO VOTE IN THE NOVEMBER 3 GENERAL ELECTION VOTE BY MAIL: RETURN YOUR BALLOT BY NOVEMBER 3 Return your ballot for Rebecca as soon as you receive it.
+Here’s how you can do that: Drop off your ballot for Rebecca by 8 PM on November 3, 2026 Bring your ballot to your county’s Board of Elections office by 8 PM on November 3, 2026 Return by mail (only some counties provide a stamp, so double-check your envelope) and make sure the envelope is postmarked by 8 PM on November 3 Request that a vote-by-mail ballot be sent by mail to you before October 27 You can also request your ballot in-person at your county clerk’s office until 3 PM on Monday, November 2nd Ballots will be sent to voters starting on or before September 19th Request a vote-by-mail ballot find secure ballot drop-box locations in your county EARLY IN-PERSON VOTING: OCTOBER 24 – NOVEMBER 1 You can vote at ANY early voting location in your county.
+Early Voting hours: Monday – Saturday from 10 AM – 8 PM, Sunday from 10 AM – 6 PM find early voting locations in your county ELECTION DAY: NOVEMBER 3 Polls are open from 6 AM – 8 PM Find your voting location Check Your Voter Registration Register to Vote Secure ballot drop box locations Early In-person voting locations Election day polling locations How to request a mail-in ballot JOin Our Team Let's Win This Race – Together: Email Cell Phone Zipcode Sign Up By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Rebecca Bennett (messages include donation links).
+Message & data rates may apply.
+Message frequency varies.
+Text HELP for help, Text STOP to Opt Out.
+Donate Volunteer Donate with Numero Donate with ActBlue A former U.S.
+Navy helicopter pilot, officer in the Air National Guard, business leader in healthcare, and mother of two, Rebecca Bennett is running for Congress in New Jersey’s 7th Congressional District.
+Currently held by a Republican, this district is one of the most competitive in the nation and a must-win for Democrats to take back the House in 2026.
+Support Rebecca’s campaign by signing up to volunteer or donating today.
+Facebook X-twitter Threads Instagram Youtube Contact The Campaign info@rebeccabennettforcongress.com Contributions can be mailed to: Rebecca Bennett for Congress PO Box 139 Somerville, NJ 08876 Check The Facts Paid for by Rebecca Bennett for Congress.
+Rebecca Bennett is a former member of the United States Navy and current member of the Air National Guard.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Department of the Navy or the Department of Defense or any other department, agency or service of the United States Government Privacy Policy All rights reserved

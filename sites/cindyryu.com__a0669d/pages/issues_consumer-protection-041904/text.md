@@ -1,8 +1,6 @@
-Cindy believes in
-Consumer Protection
-I have been a lifelong advocate of strengthening citizens’ rights against predatory corporate practices.
-In recent legislative sessions, I championed legislation signed into law that protects consumers from unclear and delayed ambulance billing (HB 1187) and ensures providers of service contracts (like extended warranties or add-on protections to consumer goods) have the financial backing to actually pay out claims (HB 1006).
+Skip navigation menu About Issues Endorsements Events Volunteer Contact Donate About Issues Endorsements Events Volunteer Contact Donate Addressing Affordability Fully Funding Education Housing Supporting Small Businesses Consumer Protection Reproductive Rights Community Safety Green Energy & Environmental Protection Closing Equity Gaps Transportation Maintenance and Expansion Cindy believes in Consumer Protection I have been a lifelong advocate of strengthening citizens’ rights against predatory corporate practices .
+In recent legislative sessions, I championed legislation signed into law that protects consumers from unclear and delayed ambulance billing ( HB 1187 ) and ensures providers of service contracts (like extended warranties or add-on protections to consumer goods) have the financial backing to actually pay out claims ( HB 1006 ).
 I’ve also spent 16 years leading the fight to stop the expansion of payday lending and other loans that trap Washingtonians in cycles of debt with predatory interest rates and unfair fees.
-I am committed to preventing mortgage lending fraud.
-In 2021 I made sure my bill to fund the Mortgage Lending Fraud Prosecution Account (HB 1104) was signed into law, because homeownership is one of the most important ways families build wealth and stability.
-It strengthens communities and is a pillar of a strong democracy, and I believe buying a home should be a positive step forward—not a financial risk.
+I am committed to preventing mortgage lending fraud .
+In 2021 I made sure my bill to fund the Mortgage Lending Fraud Prosecution Account ( HB 1104) was signed into law, because homeownership is one of the most important ways families build wealth and stability.
+It strengthens communities and is a pillar of a strong democracy , and I believe buying a home should be a positive step forward —not a financial risk. cindy@cindyryu.com Powered by RUN! website builder Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app.

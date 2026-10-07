@@ -1,15 +1,1 @@
-Issues
-About
-Contact
-Privacy Policy
-Donate
-Issues
-About
-Contact
-Privacy Policy
-Donate
-Scroll
-Contact
-Request a Yard Sign
-Contact Form
-Yard Sign Footer
+Issues About Contact Privacy Policy Donate Issues About Contact Privacy Policy Donate Scroll Contact Request a Yard Sign Contact Form Yard Sign Footer Tom McInnis for State Senate PO Box 3776 Pinehurst, NC 28374 (910) 895-3871 Donate PAID FOR BY TOM MCINNIS FOR NC STATE SENATE

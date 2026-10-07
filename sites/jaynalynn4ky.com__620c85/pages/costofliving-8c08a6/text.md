@@ -1,4 +1,7 @@
-Working hard should be enough to build a decent life in Kentucky.
+0 Skip to Content Write In Jayna Lynn Russelburg for Kentucky Senate District 4 Home About Me Education Healthcare Disability & Families Cost of Living Strong Communities Workers & Business How Will We Pay For It?
+Upcoming Events Open Menu Close Menu Open Menu Close Menu Write In Jayna Lynn Russelburg for Kentucky Senate District 4 Home About Me Education Healthcare Disability & Families Cost of Living Strong Communities Workers & Business How Will We Pay For It?
+Upcoming Events Home About Me Education Healthcare Disability & Families Cost of Living Strong Communities Workers & Business How Will We Pay For It?
+Upcoming Events MAKING LIFE AFFORDABLE FOR WORKING KENTUCKY FAMILIES Working hard should be enough to build a decent life in Kentucky.
 For too many families, it isn't.
 I support expanding affordable childcare and early-childhood education, including greater access to programs for two- and three-year-olds, Head Start, First Steps, and other early-intervention services.
 No Kentucky child should go hungry.
@@ -8,3 +11,4 @@ But assistance programs cannot substitute for wages.
 Kentucky needs more jobs that actually support families.
 When state and local governments provide incentives to attract employers, taxpayers should be able to expect something in return: good wages, safe workplaces, meaningful employment, and investment in the communities providing those incentives.
 I support stronger worker protections, collective bargaining rights, responsible economic-development incentives, and policies that help Kentuckians keep more of what they earn.
+Write In Janyna Lynn Russelburg for Kentucky Senate District 4: Henderson, Hopkins, Union & Webster

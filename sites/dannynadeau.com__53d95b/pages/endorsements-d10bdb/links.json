@@ -1,19 +1,74 @@
 [
-"https://dannynadeau.com/",
-"https://dannynadeau.com/about",
-"https://dannynadeau.com/articles",
-"https://dannynadeau.com/contact",
-"https://dannynadeau.com/donate",
-"https://dannynadeau.com/endorsements",
-"https://dannynadeau.com/endorsements/nfib",
-"https://dannynadeau.com/events",
-"https://dannynadeau.com/issues",
-"https://dannynadeau.com/photos",
-"https://dannynadeau.com/privacy-policy",
-"https://dannynadeau.com/suburbs-survey",
-"https://dannynadeau.com/voting",
-"https://facebook.com/dannyforhouse",
-"https://instagram.com/danny_nadeau",
-"https://x.com/NadeauDanny",
-"https://youtube.com/@dannynadeau3162"
+{
+"text": "About",
+"href": "https://dannynadeau.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://dannynadeau.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://dannynadeau.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://dannynadeau.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://dannynadeau.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dannynadeau.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/dannyforhouse"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/danny_nadeau/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@dannynadeau3162"
+},
+{
+"text": "Follow",
+"href": "https://x.com/NadeauDanny"
+},
+{
+"text": "Home",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "Issues",
+"href": "https://dannynadeau.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://dannynadeau.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dannynadeau.com/privacy-policy/"
+},
+{
+"text": "Suburbs Survey",
+"href": "https://dannynadeau.com/suburbs-survey/"
+},
+{
+"text": "Voting",
+"href": "https://dannynadeau.com/voting/"
+},
+{
+"text": "[image: Danny Nadeau]",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "[image: NFIB Endorsement]",
+"href": "https://dannynadeau.com/endorsements/nfib/"
+}
 ]

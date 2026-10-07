@@ -1,5 +1,4 @@
-'We have made progress': Second stakeholder meeting held amid probe into DCS
-PHOENIX — Lawmakers, tribal leaders, law enforcement, and more met for a second time behind closed doors Thursday amid an ongoing probe into the Arizona Department of Child Safety.
+DONATE 0 Skip to Content Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Open Menu Close Menu Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Open Menu Close Menu Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE 'We have made progress': Second stakeholder meeting held amid probe into DCS Nov 20 Written By Blake Wilson PHOENIX — Lawmakers, tribal leaders, law enforcement, and more met for a second time behind closed doors Thursday amid an ongoing probe into the Arizona Department of Child Safety.
 This all comes after the high-profile murders of Emily Pike, Rebekah Baptiste, and Zariah Dodd.
 All three girls are known to the state's child welfare system.
 "I don't think that we can fix everything in one session," said State Senator Carine Werner just minutes after the stakeholder meeting.
@@ -22,5 +21,6 @@ There are also other potential changes that could be addressed without legislati
 Thursday’s meeting, attendees felt, is just one step forward.
 "We have made progress, and it's taken everyone," said Senator Werner.
 "I feel like we're moving in the right direction," said Holman.
-"I think there is a lot of intentionality and there are many people working to try and get there."
-Senator Werner believes stakeholder meetings will go into 2026 and the push for change will stretch beyond even the next session.
+"I think there is a lot of intentionality and there are many people working to try and get there." Senator Werner believes stakeholder meetings will go into 2026 and the push for change will stretch beyond even the next session.
+Blake Wilson Previous Previous After DCS Investigation, Senator Werner Child Safety Reform Clears Legislature, Heads to Governor for Signature Next Next Senator Werner To Hold Third Oversight Hearing On AHCCCS Accountability © Copyright # - Paid For By Werner For AZ.
+Authorized By Carine Werner.

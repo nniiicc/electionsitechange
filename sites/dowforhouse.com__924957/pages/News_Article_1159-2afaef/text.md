@@ -1,15 +1,4 @@
-19
-Nov
-By housereplogin
-While NMDVS offices are temporarily closed during COVID-19, we continue to provide full-spectrum services for our Veterans via phone and email.
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home Veterans Article 19 Nov Veteran Services By housereplogin While NMDVS offices are temporarily closed during COVID-19, we continue to provide full-spectrum services for our Veterans via phone and email.
 You can now file a claim or apply for state benefits right from home.
-To receive assistance please call, text or email:
-George Vargas (575) 520-2634
-Email: george.vargas@state.nm.us
-Craig Chumley (505) 870-1349
-Email: craig.chumley@state.nm.us
-Rosa Bycenski (505) 216-8782
-Email: rosa.bycenski@state.nm.us
-For information on State Benefits please visit:
-http://www.nmdvs.org/state-benefits/ or call:
-1 (866) 433-8387
+To receive assistance please call, text or email: George Vargas (575) 520-2634 Email: george.vargas@state.nm.us Craig Chumley (505) 870-1349 Email: craig.chumley@state.nm.us Rosa Bycenski (505) 216-8782 Email: rosa.bycenski@state.nm.us For information on State Benefits please visit: http://www.nmdvs.org/state-benefits/ or call: 1 (866) 433-8387 Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

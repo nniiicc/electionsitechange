@@ -1,4 +1,5 @@
-Justice Noah Hood is a lifelong Detroiter, public servant, and jurist committed to facts, fairness, integrity, and the rule of law.
+Contribute Volunteer Follow On: Contribute Now Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Justice Noah Hood is a lifelong Detroiter, public servant, and jurist committed to facts, fairness, integrity, and the rule of law.
 Born in 1986 and raised on Detroit’s east side, he grew up in a family deeply rooted in public service, faith, and community leadership.
 His father served on the Detroit City Council and as senior minister at Plymouth United Church of Christ, while his mother has served for decades as a federal judge after being appointed to the U.S.
 District Court by President Bill Clinton.
@@ -14,4 +15,6 @@ His experience on the bench shaped his belief that justice must be both efficien
 In 2022, Hood was appointed to the Michigan Court of Appeals.
 There, he authored numerous opinions on nearly every aspect of Michigan law, including search-and-seizure, the Confrontation Clause, juvenile justice, family law, zoning law, construction law, and no-fault.
 The decisions demonstrated a commitment to high-confidence facts and our rules-based order.
-Today, Justice Hood continues his service on Michigan’s highest court, bringing a deep respect for the law, a commitment to thoughtful judicial decision-making, and a lifelong dedication to the people of Michigan.
+Today, Justice Hood continues his service on Michigan’s highest court, bringing a deep respect for the l aw, a commitment to thoughtful judicial decision-making, and a lifelong dedication to the people of Michigan.
+Paid for by Committee to Retain Justice Noah P.
+Hood, PO Box 250961, West Bloomfield, MI 48325

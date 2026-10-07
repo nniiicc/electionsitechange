@@ -1,88 +1,62 @@
-Results.
+Meet Cory The Record Issues The 52 Report Donate Stand With Cory in November Meet Cory The Record Issues The 52 Report Donate Contact Stand With Cory in November Results.
 Not Rhetoric.
-The Record
-No bill I have run has ever failed a floor vote in either chamber.
+The Record No bill I have run has ever failed a floor vote in either chamber.
 Here is what that looks like.
-The bills that define the record: public safety, growth and roads, constitutional rights, healthcare workforce, regulatory reform, and election integrity.
+Signature Legislation How I Voted What I Keep Running Constitutional Rights Healthcare Workforce Education Regulatory Reform Election Integrity Public Safety Responsible Growth Transportation & Vehicles Additional Legislation Signature Legislation The bills that define the record: public safety, growth and roads, constitutional rights, healthcare workforce, regulatory reform, and election integrity.
 Chair of the House Business, Labor, and Commerce Committee, with a consistent A+ rating from the NRA.
-Neighborhood pool gap closedRegistered child sex offenders kept out of pools, parks, and playgrounds owned by HOAs, condominium projects, and apartment complexes.
+HB 146 Neighborhood pool gap closed Registered child sex offenders kept out of pools, parks, and playgrounds owned by HOAs, condominium projects, and apartment complexes.
 Public ones were already covered.
 Neighborhood ones were not.
-Governor Signed into Law
-Transportation bondingAuthorized the state transportation bonding package that funded the I-15 Technology Corridor through Lehi and moved it up two years.
-Voted Yes
-Firearm preemptionDrafted and floor-sponsored by Representative Maloy.
+Governor Signed into Law SB 277 Transportation bonding Authorized the state transportation bonding package that funded the I-15 Technology Corridor through Lehi and moved it up two years.
+Voted Yes SB 115 Firearm preemption Drafted and floor-sponsored by Representative Maloy.
 Strengthened Second Amendment protection uniformly statewide.
-Governor Signed into Law
-Citizen-only voting confirmedOnly U.S. citizens may vote in Utah elections.
-Governor Signed into Law
-Sandbox
-Regulatory Sandbox ProgramAuthored and expanded Utah’s nationally recognized framework through HB 217 and HB 243.
-Governor Signed into Law
-Physician workforce expansionGrant program to expand medical residency capacity.
-Governor Signed into Law
-PA scope of practice reformFloor-sponsored.
+Governor Signed into Law HB 209 Citizen-only voting confirmed Only U.S. citizens may vote in Utah elections.
+Governor Signed into Law Sandbox Regulatory Sandbox Program Authored and expanded Utah’s nationally recognized framework through HB 217 and HB 243 .
+Governor Signed into Law HB 295 Physician workforce expansion Grant program to expand medical residency capacity.
+Governor Signed into Law SB 24 PA scope of practice reform Floor-sponsored.
 Expanded access to care across Utah.
-Governor Signed into Law
-Behavioral health licensing reformCounselors, marriage and family therapists, clinical social workers.
-Governor Signed into Law
-Ambulance payment frameworkFair reimbursement.
+Governor Signed into Law SB 26 Behavioral health licensing reform Counselors, marriage and family therapists, clinical social workers.
+Governor Signed into Law HB 301 / HB 269 Ambulance payment framework Fair reimbursement.
 Patients shielded from balance billing.
-Governor Signed into Law
-Assault on a peace officer amendmentsStrengthened penalties for attacks on law enforcement.
-Governor Signed into Law
-PID disclosure and HTRZ sunsetFamilies learn what they are buying into.
+Governor Signed into Law HB 124 Assault on a peace officer amendments Strengthened penalties for attacks on law enforcement.
+Governor Signed into Law SB 221 HTRZ expansion Voted No, then killed it in committee before it reached the floor.
+Voted No HB 507 PID disclosure and HTRZ sunset Families learn what they are buying into.
 Begins sunsetting the HTRZ framework.
-Voted Yes
-A representative casts far more votes than he sponsors bills.
+Voted Yes How I Voted A representative casts far more votes than he sponsors bills.
 On taxes, roads, and spending, the votes are the record.
-Highway General Obligation Bonds AuthorizationAuthorized the state’s transportation bonding package.
+SB 277 Highway General Obligation Bonds Authorization Authorized the state’s transportation bonding package.
 That bonding funded the $430 million I-15 Technology Corridor through Lehi, Main Street to SR-92, and moved it up the priority list.
 Construction started in April 2018 instead of 2020, and the road was finished in 2020.
-Voted Yes
-Seniors
-Social Security and retirement incomeVoted every time for the bills reducing income tax on Social Security and retirement income.
+Voted Yes SB 59 / HB 54 Income tax rate cuts Every income tax rate cut that reached the House floor.
+Voted Yes Seniors Social Security and retirement income Voted every time for the bills reducing income tax on Social Security and retirement income.
 The goal is to get seniors on a fixed income off the income tax entirely.
-Voted Yes
-Delta Center arena subsidyThe bill passed.
+Voted Yes SB 272 Delta Center arena subsidy The bill passed.
 I was a no.
 Taxpayers should not fund professional sports venues.
-Voted No
-PID disclosure and HTRZ sunsetFamilies learn what they are buying into.
+Voted No SB 221 HTRZ expansion Voted No, then killed it in committee before it reached the floor.
+Voted No HB 507 PID disclosure and HTRZ sunset Families learn what they are buying into.
 Begins winding down the HTRZ framework.
-Voted Yes
-Data center water reportingRepresentative Jill Koford’s bill.
+Voted Yes HB 76 Data center water reporting Representative Jill Koford’s bill.
 Know what is being used before deciding what to do about it.
-Voted Yes
-Some bills take more than one session.
+Voted Yes What I Keep Running Some bills take more than one session.
 I have run the bill to take the sales tax off prescription glasses and contact lenses three times.
-HB 525, HB 489, and HB 99.
+HB 525 , HB 489 , and HB 99 .
 Utah exempts medical devices from sales tax.
 The law lists them out, and then it specifically excludes prescription glasses and contact lenses from that exemption.
 A family of six should not pay sales tax on seeing clearly, and neither should a senior on a fixed income.
 I am running it again.
 Firearm preemption took three tries and a change of plan.
-I ran it in the House as HB 271, then again as HB 76.
+I ran it in the House as HB 271 , then again as HB 76 .
 Neither one got a floor vote in the Senate.
 So on the third try I had a senator run it on that side while I carried it on the House floor.
-That is SB 115, and it is law.
+That is SB 115 , and it is law.
 Much of Utah’s strongest firearm protection carries my name because I kept at it.
-Grouped by area of impact.
+Signed Into Law Grouped by area of impact.
 Sponsored means chief House sponsor.
 Floor-Sponsored means Representative Maloy carried a Senate bill on the House floor.
-Access to Communication Device Location Information AmendmentsSponsored · 2025
-Governor Signed into Law
-Occupational and Professional Licensing AmendmentsFloor-Sponsored · 2026
-Governor Signed into Law
-Financial Institution and Consumer Notification AmendmentsFloor-Sponsored · 2024
-Governor Signed into Law
-Hearing Instrument Specialist Licensing AmendmentsFloor-Sponsored · 2023
-Governor Signed into Law
-Election Schedule Amendments (implemented 17 of 20 state election audit recommendations)Floor-Sponsored · 2022
-Governor Signed into Law
-Emergency Vehicle Operator Duty of Care AmendmentsFloor-Sponsored · 2018
-Governor Signed into Law
-Concurrent Resolution Opposing Efforts to Weaken the Economy or Restrict Energy SupplyFloor-Sponsored · 2023
-Governor Signed into Law
-Concurrent Resolution Honoring Reverend Billy GrahamFloor-Sponsored · 2018
-Governor Signed into Law
+Constitutional Rights HB 101 Firearm Background Check Amendments Sponsored · 2026 Governor Signed into Law HB 366 Access to Communication Device Location Information Amendments Sponsored · 2025 Governor Signed into Law HB 406 Firearms Financial Transaction Amendments Sponsored · 2024 Governor Signed into Law HB 226 Sale of a Firearm Amendments Sponsored · 2023 Governor Signed into Law SB 18 Public Expression Protection Act Floor-Sponsored · 2023 Governor Signed into Law SB 115 Firearm Preemption Amendments Floor-Sponsored · 2022 Governor Signed into Law HB 200 Firearm Safe Harbor Amendments Sponsored · 2021 Governor Signed into Law SB 166 Student Data Privacy Amendments Floor-Sponsored · 2020 Governor Signed into Law HB 152 Voluntary Commitment of a Firearm Amendments Sponsored · 2019 Governor Signed into Law HB 114 Self-defense Amendments Sponsored · 2019 Governor Signed into Law SB 164 Student Data Privacy Amendments Floor-Sponsored · 2019 Governor Signed into Law SB 245 Second Amendment Special License Plates Floor-Sponsored · 2017 Governor Signed into Law Healthcare Workforce HB 269 Ambulance Provider Payment Amendments Sponsored · 2026 Governor Signed into Law HB 301 Ambulance Provider Payment Amendments Sponsored · 2025 Governor Signed into Law HB 16 Health Facility Administrator Act Amendments Sponsored · 2025 Governor Signed into Law HB 240 Certified Nursing Assistant Amendments Sponsored · 2024 Governor Signed into Law SB 26 Behavioral Health Licensing Amendments Floor-Sponsored · 2024 Governor Signed into Law SB 24 Physician Assistant Practice Amendments Floor-Sponsored · 2024 Governor Signed into Law HB 264 Certified Nursing Assistants Amendments Sponsored · 2023 Governor Signed into Law HB 295 Physician Workforce Amendments Sponsored · 2022 Governor Signed into Law Education SB 78 School Board Expansion Requirements Floor-Sponsored · 2022 Governor Signed into Law SB 173 Dual Language Immersion Amendments Floor-Sponsored · 2019 Governor Signed into Law Regulatory Reform HB 246 Local Government Drug Testing Amendments Sponsored · 2026 Governor Signed into Law SB 117 Occupational and Professional Licensing Amendments Floor-Sponsored · 2026 Governor Signed into Law HB 279 Earned Wage Access Services Act Sponsored · 2025 Governor Signed into Law SB 330 Cosmetology Modifications Floor-Sponsored · 2025 Governor Signed into Law SB 44 Professional Licensure Amendments Floor-Sponsored · 2025 Governor Signed into Law SB 42 Consumer Protection Amendments Floor-Sponsored · 2025 Governor Signed into Law HB 282 Utah Office of Regulatory Relief Amendments Sponsored · 2024 Governor Signed into Law HB 91 Utah Office of Regulatory Relief Revisions Sponsored · 2024 Governor Signed into Law HB 63 Consumer Review Fairness Amendments Sponsored · 2024 Governor Signed into Law HB 58 Licensing Amendments Sponsored · 2024 Governor Signed into Law HB 43 Charitable Solicitations Act Amendments Sponsored · 2024 Governor Signed into Law HB 40 Division of Consumer Protection Amendments Sponsored · 2024 Governor Signed into Law HB 39 Massage Therapy Practice Act Amendments Sponsored · 2024 Governor Signed into Law SB 101 Limited Liability Company Amendments Floor-Sponsored · 2024 Governor Signed into Law SB 43 Commercial Filing Amendments Floor-Sponsored · 2024 Governor Signed into Law SB 25 Financial Institution and Consumer Notification Amendments Floor-Sponsored · 2024 Governor Signed into Law SB 14 Corporate Dissolution Amendments Floor-Sponsored · 2024 Governor Signed into Law HB 20 Collection Agency Amendments Sponsored · 2023 Governor Signed into Law HB 15 Board of Credit Union Advisors Sunset Amendments Sponsored · 2023 Governor Signed into Law HB 14 Insurance Commissioner Authority Sunset Amendments Sponsored · 2023 Governor Signed into Law SB 216 Vehicle Value Protection Agreements Floor-Sponsored · 2023 Governor Signed into Law SB 36 Professional Licensing Amendments Floor-Sponsored · 2023 Governor Signed into Law SB 35 Reciprocal Professional Licensing Amendments Floor-Sponsored · 2023 Governor Signed into Law SB 12 Hearing Instrument Specialist Licensing Amendments Floor-Sponsored · 2023 Governor Signed into Law HB 243 Regulatory Sandbox Program Amendments Sponsored · 2022 Governor Signed into Law HB 217 Regulatory Sandbox Program Amendments Sponsored · 2021 Governor Signed into Law HB 412 Credit Reporting Notification Amendments Sponsored · 2020 Governor Signed into Law SB 194 Special Events Sales Tax Obligations Floor-Sponsored · 2020 Governor Signed into Law SB 118 Industrial Assistance Account Amendments Floor-Sponsored · 2020 Governor Signed into Law SB 158 Municipal Business Licensing Floor-Sponsored · 2018 Governor Signed into Law Election Integrity HB 209 Voting Amendments Sponsored · 2026 Governor Signed into Law HB 448 Election Changes Sponsored · 2023 Governor Signed into Law SB 63 Election Candidate Replacement Amendments Floor-Sponsored · 2023 Governor Signed into Law SB 170 Election Schedule Amendments (implemented 17 of 20 state election audit recommendations) Floor-Sponsored · 2022 Governor Signed into Law SB 19 Election Revisions Floor-Sponsored · 2022 Governor Signed into Law SB 18 Election Modifications Floor-Sponsored · 2022 Governor Signed into Law HB 319 Political Advertising Amendments Sponsored · 2019 Governor Signed into Law SB 151 Initiative Procedure Amendments Floor-Sponsored · 2019 Governor Signed into Law SB 69 Notification Requirements for Ballot Proposals Floor-Sponsored · 2017 Governor Signed into Law Public Safety HB 284 Murder Offense Amendments Sponsored · 2026 Governor Signed into Law HB 146 Sex Offender Restricted Area Amendments Sponsored · 2023 Governor Signed into Law HB 73 Interference with Public Servants Amendments Sponsored · 2020 Governor Signed into Law SB 178 Administrative Security Amendments Floor-Sponsored · 2020 Governor Signed into Law HB 56 Emergency Personnel Recording Amendments Sponsored · 2018 Governor Signed into Law SB 66 Emergency Vehicle Operator Duty of Care Amendments Floor-Sponsored · 2018 Governor Signed into Law HB 124 Assault on a Peace Officer Amendments Sponsored · 2017 Governor Signed into Law Responsible Growth SB 122 HOA Amendments Floor-Sponsored · 2026 Governor Signed into Law SB 201 Real Estate Amendments Floor-Sponsored · 2025 Governor Signed into Law SB 37 Municipality Incorporation Amendments Floor-Sponsored · 2023 Governor Signed into Law SB 152 Community Association Regulation Amendments Floor-Sponsored · 2022 Governor Signed into Law HB 367 Boundary Adjustment Notice Amendments Sponsored · 2019 Governor Signed into Law Transportation & Vehicles HB 52 Tribal Endorsement of Utah Driver License Amendments Sponsored · 2026 Governor Signed into Law HB 261 Towing Modifications Sponsored · 2025 Governor Signed into Law HB 292 Snowplow Amendments Sponsored · 2024 Governor Signed into Law HB 458 Clean Fuel Vehicle Decal Amendments Sponsored · 2023 Governor Signed into Law HB 143 Driver License Suspension Amendments Sponsored · 2021 Governor Signed into Law HB 180 Emissions Inspection Revisions Sponsored · 2020 Governor Signed into Law HB 120 Towing Fee Amendments Sponsored · 2020 Governor Signed into Law HB 57 Towing Signage Revisions Sponsored · 2020 Governor Signed into Law HB 228 Towing Revisions Sponsored · 2019 Governor Signed into Law HB 393 Vehicle Towing Amendments Sponsored · 2017 Governor Signed into Law SB 90 Vehicle Inspection and Registration Amendments Floor-Sponsored · 2017 Governor Signed into Law Additional Legislation SCR 9 Concurrent Resolution Opposing Efforts to Weaken the Economy or Restrict Energy Supply Floor-Sponsored · 2023 Governor Signed into Law SB 30 Legislative Process Committee Sunset Extension Floor-Sponsored · 2022 Governor Signed into Law SB 29 Executive Residence Commission Sunset Extension Floor-Sponsored · 2022 Governor Signed into Law HB 371 Wildlife Tagging Amendments Sponsored · 2020 Governor Signed into Law SCR 16 Concurrent Resolution Honoring Reverend Billy Graham Floor-Sponsored · 2018 Governor Signed into Law District 52 Needs a Proven Conservative Voice at the Table.
+Stand With Cory in November Cory Maloy ™ Utah Values.
+Firmly Defended. [email protected] 801-477-0019 (call or text) Republican · Utah House District 52 The Campaign Meet Cory The Record Issues The 52 Report Blog Contact Stand Firm Stand With Cory in November Volunteer Donate © #–# Albert Cory Maloy.
+All rights reserved.
+Cory Maloy™ and the Cory Maloy campaign logo are trademarks of Albert Cory Maloy.
+Paid for by the Campaign to Elect Cory Maloy.

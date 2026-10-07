@@ -1,10 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61578231523421",
-"https://instagram.com/steeleformissouri",
-"https://secure.actblue.com/donate/tracey-steele-1",
-"https://steeleformissouri.com/",
-"https://steeleformissouri.com/gallery",
-"https://steeleformissouri.com/rebuilding-missouri",
-"https://steeleformissouri.com/vote"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "Home",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "How to vote",
+"href": "https://www.steeleformissouri.com/vote"
+},
+{
+"text": "MEDIA GALLERY",
+"href": "https://www.steeleformissouri.com/gallery"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rebuilding Missouri",
+"href": "https://www.steeleformissouri.com/rebuilding-missouri"
+},
+{
+"text": "[image: steeleformissouri logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578231523421"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/steeleformissouri"
+},
+{
+"text": "steeleformissouri@gmail.com",
+"href": "mailto:steeleformissouri@gmail.com"
+}
 ]

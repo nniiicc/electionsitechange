@@ -1,7 +1,22 @@
 [
-"https://armstrongforassembly.com/about-1.html",
-"https://armstrongforassembly.com/contact-us.html",
-"https://armstrongforassembly.com/home.html",
-"https://docs.legis.wisconsin.gov/2025/legislators/assembly/2866",
-"https://godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+{
+"text": "About",
+"href": "https://armstrongforassembly.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "https://armstrongforassembly.com/contact-us.html"
+},
+{
+"text": "Home",
+"href": "https://armstrongforassembly.com/home.html"
+},
+{
+"text": "Link to bills authored and sponsored",
+"href": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2866"
+},
+{
+"text": "[image]",
+"href": "https://www.godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+}
 ]

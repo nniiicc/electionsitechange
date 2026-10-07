@@ -1,10 +1,34 @@
 [
-"https://bsky.app/profile/tabithak",
-"https://designedtorun.com/",
-"https://facebook.com/TabithaIsner",
-"https://tabithaisner.com/",
-"https://tabithaisner.com/about",
-"https://tabithaisner.com/endorsements",
-"https://tabithaisner.com/sdec",
-"https://tiktok.com/@tabitha.isner"
+{
+"text": "About",
+"href": "https://www.tabithaisner.com/about"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tabithaisner.com/endorsements"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "State Democratic Executive Committee",
+"href": "https://www.tabithaisner.com/sdec"
+},
+{
+"text": "[image: Vice Chair Tabitha Isner]",
+"href": "https://www.tabithaisner.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/tabithak"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TabithaIsner"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@tabitha.isner"
+}
 ]

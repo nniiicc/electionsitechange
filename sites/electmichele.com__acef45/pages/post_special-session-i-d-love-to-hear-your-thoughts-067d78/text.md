@@ -1,7 +1,7 @@
-Special Session: I'd love to hear your thoughts
-Updated: May 4
-Well… plot twist 😅 We’ve been called back into a special session.
-I want to share what I understand this special session is about—and get your feedback.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Special Session: I'd love to hear your thoughts electmichele May 3 3 min read Updated: May 4 Well… plot twist 😅 We’ve been called back into a special session.
+I want to share what I understand this special session is about—and get your feedback .
 One of the primary issues under consideration is redistricting of Tennessee’s congressional seats.
 The special session has been called following ongoing federal court challenges to current congressional maps, where plaintiffs argue the districts may violate voting rights protections and constitutional standards.
 In response, there is growing pressure for the legislature to revisit and potentially redraw the maps now—rather than waiting for the next census.
@@ -21,8 +21,7 @@ We don’t have to see every disagreement as a battle.
 Where we agree, we should work together.
 Where we don’t, we should have honest, respectful debate.
 That’s how the system is supposed to work.
-3.
-People Over Party The stated goal of creating a 9–0 congressional delegation raises a bigger concern.
+# People Over Party The stated goal of creating a 9–0 congressional delegation raises a bigger concern.
 Our responsibility is to represent people first—not parties.
 Even George Washington warned about the dangers of prioritizing party over the will of the people.
 4.
@@ -43,8 +42,8 @@ I’m listening, learning, and weighing this carefully—and I genuinely want yo
 What do you think?
 Should redistricting happen mid-cycle, or wait until after the next census?
 Hit the button below to take the survey.
-Thank you for your continued support and in helping shape these important decisions.
+Take the survey Thank you for your continued support and in helping shape these important decisions.
 It’s an honor to serve you.
-Gratefully,
-Rep.
-Michele Reneau
+Gratefully, Rep.
+Michele Reneau Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

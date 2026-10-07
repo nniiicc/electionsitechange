@@ -1,7 +1,11 @@
 {
  "description": "The weather was great, the energy was high and the momentum is growing! Pacheco for the People !!",
  "final_url": "https://www.pachecoforthepeople.com/photos/gallery/e59b84dc-9fa5-4520-9538-0f46b89fcaed",
- "paid_for_by": null,
+ "fingerprint": "5efa863ff2fcf2586cc764dcc969295001ed9f3b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Visibility 6/27/26",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

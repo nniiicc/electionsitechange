@@ -1,5 +1,4 @@
-The Special Circus - Part 1
-On Sunday, 6 August, the Governor announced from a groaning golf cart that he was calling a special session three hours before the session began at 4:00pm.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate The Special Circus - Part 1 Sep 17 Written By Amanda Ridenour On Sunday, 6 August, the Governor announced from a groaning golf cart that he was calling a special session three hours before the session began at 4:00pm.
 I found out at 1:46, giving me little more than two hours for a five-hour drive.
 The Governor showed his typical disregard for much of the state, giving many legislators nowhere near enough time to get to the session before it began.
 Many of us were forced to drive at breakneck speed to get there to try to defend against Justice’s Socialist spending agenda.
@@ -18,5 +17,6 @@ One of the important bills we passed was a fix to help taxpayers with the tax cr
 The attached graphic provides an explanation.
 This was the easy part.
 I’ll cover the rest of the Special Circus in my next post.
-Montani Semper Liberi
-Bill Ridenour
+Montani Semper Liberi Bill Ridenour Amanda Ridenour Previous Previous Resolution to Prohibit Election Interference Next Next The Special Circus - Part 2 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

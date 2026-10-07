@@ -1,10 +1,3 @@
-Back to All Events
-Candidates will gather at the Lorain County Board of Elections from approximately 4:00–5:00 p.m. before heading to St.
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Early Voting Rally and Fundraiser Wednesday, October 7, 2026 5:00 PM 7:00 PM 4221 Clinton Avenue Lorain, Ohio, 44055 United States (map) Google Calendar ICS Candidates will gather at the Lorain County Board of Elections from approximately 4:00–5:00 p.m. before heading to St.
 Lad’s to speak with guests at the rally and fundraiser.
-Previous
-Previous
-October 6
-CHIP Candidates Forum
-Next
-Next
-October 8
+Previous Previous October 6 CHIP Candidates Forum Next Next October 8 Wellington Kiwanis Candidates Night DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

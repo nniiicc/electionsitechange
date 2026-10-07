@@ -1,9 +1,30 @@
 [
-"https://facebook.com/JudgeJohnCarter",
-"https://johncarterforcongress.com/",
-"https://johncarterforcongress.com/contact-us",
-"https://johncarterforcongress.com/meet-john",
-"https://johncarterforcongress.com/on-the-issues",
-"https://secure.winred.com/john-carter/donate",
-"https://x.com/JudgeJohnCarter"
+{
+"text": "CONTACT JOHN",
+"href": "https://www.johncarterforcongress.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/john-carter/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.johncarterforcongress.com"
+},
+{
+"text": "MEET JOHN",
+"href": "https://www.johncarterforcongress.com/meet-john"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.johncarterforcongress.com/on-the-issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JudgeJohnCarter/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/JudgeJohnCarter"
+}
 ]

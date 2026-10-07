@@ -1,9 +1,19 @@
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Skip to main content Dan Cox for Governor Menu Home About Dan Cox Lt.
+Gov.
+Candidate Issues News Events Volunteer Store Get A Sign Contact Donate Donate April 9, 2026 Elections Political 35 years.
+Two trials.
+One mission.
+Most Marylanders already know it: your government isn't working for you.
+It's working against you.
+January 30, 2026 Political Updated: Cox files to run for Md. governor, with Krop as running mate Former Frederick County state delegate and gubernatorial candidate Dan Cox has filed to run for governor again, with Frederick County gun range co-owner Robert Krop as his running mate.
+January 21, 2026 Economy Political Wes Moore Needs to Go Wes Moore is now an admitted authoritarian, willfully disregarding 40% of our taxpayers’ voices.
+He’s left Maryland behind for his own ambitions.
+April 4, 2026 Events Political Fallston Barrel House Event We had a great evening speaking at the debate “Governor’s Town Hall” in Harford County tonight with the Republican Patriot club.
+January 27, 2026 Political Governor Moore on his redistricting bill Governor Moore is currently testifying on his redistricting bill.
+This is the most pathetic and divisive testimony I have ever heard.
+This is what a totalitarian government looks like.
+January 12, 2026 Political 2026 Gubernatorial Primary Election Make sure you vote in June for the 2026 Gubernatorial Primary Election.
+Dan Cox for Governor.
+Manage consent Accept All Close Save and Close Powered by (opens in a new window) Search Home Old About Dan Cox Old Lt.
+Gov.
+Candidate Issues Old News Events Volunteer Old Store Old Get A Sign Old Contact Old

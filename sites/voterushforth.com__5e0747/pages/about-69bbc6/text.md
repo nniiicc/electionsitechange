@@ -1,7 +1,4 @@
-About Me
-Garret Rushforth
-Candidate: SD 7
-Who am I?
+About Issues Contact Donate Now About Issues Contact Donate Now About Me Garret Rushforth Candidate: SD 7 Who am I?
 My name is Garret Rushforth.
 I am a native of Centerville.
 I've called Utah home for my entire life.
@@ -35,5 +32,5 @@ That small description of my life missed how much my community and my state mean
 I'm running because I want to make sure my students will never have to wonder if any politicians care about them.
 Because I will.
 And I will fight for the right for all members of my community to know that someone will stand up for them.
-I'm Garret Rushforth,
-And I'm the next Senator for Senate District 7.
+I'm Garret Rushforth, And I'm the next Senator for Senate District 7.
+Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form Navigation Home About Issues Donate Social Connect Instagram Facebook Threads Contact us Volunteer Form

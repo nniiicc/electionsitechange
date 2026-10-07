@@ -1,16 +1,66 @@
 [
-"https://facebook.com/people/Rushforth-for-Utah-Senate/61589025790787",
-"https://forms.gle/121xHWJbABMLvmsv9",
-"https://instagram.com/rushforth4utah",
-"https://voterushforth.com/",
-"https://voterushforth.com/about",
-"https://voterushforth.com/contact",
-"https://voterushforth.com/donate",
-"https://voterushforth.com/issues",
-"https://voterushforth.com/issues/accountability-and-transparency",
-"https://voterushforth.com/issues/conservation-and-restoration-of-the-great-salt-lake",
-"https://voterushforth.com/issues/education-investment-and-issues",
-"https://voterushforth.com/issues/fair-maps-for-all-utahns",
-"https://voterushforth.com/issues/housing-and-affordability",
-"https://x.com/jituux"
+{
+"text": "About",
+"href": "https://voterushforth.com/about"
+},
+{
+"text": "Contact",
+"href": "https://voterushforth.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://voterushforth.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://voterushforth.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Rushforth-for-Utah-Senate/61589025790787/"
+},
+{
+"text": "Home",
+"href": "https://voterushforth.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rushforth4utah"
+},
+{
+"text": "Issues",
+"href": "https://voterushforth.com/issues"
+},
+{
+"text": "Threads",
+"href": "https://x.com/jituux"
+},
+{
+"text": "Volunteer Form",
+"href": "https://forms.gle/121xHWJbABMLvmsv9"
+},
+{
+"text": "[image]",
+"href": "https://voterushforth.com/"
+},
+{
+"text": "[image]Accountability and Transparency",
+"href": "https://voterushforth.com/issues/accountability-and-transparency"
+},
+{
+"text": "[image]EducatIon",
+"href": "https://voterushforth.com/issues/education-investment-and-issues"
+},
+{
+"text": "[image]Fair Maps",
+"href": "https://voterushforth.com/issues/fair-maps-for-all-utahns"
+},
+{
+"text": "[image]Great Salt Lake",
+"href": "https://voterushforth.com/issues/conservation-and-restoration-of-the-great-salt-lake"
+},
+{
+"text": "[image]Housing and Affordability",
+"href": "https://voterushforth.com/issues/housing-and-affordability"
+}
 ]

@@ -1,10 +1,14 @@
 {
  "description": "Discover upcoming events and volunteer opportunities with Matt Norris for MN House. Join us to support local initiatives and make a difference in our community.",
  "final_url": "https://votefornorris.com/events",
+ "fingerprint": "6e0748b344d150e1167225213a07b8b1f404d05d",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee for Matt Norris for Minnesota",
- "title": "Upcoming Events | Get Involved Today \u2014 Join Events Now \u2014 Matt Norris for MN House",
+ "title": "Upcoming Events | Get Involved Today — Join Events Now — Matt Norris for MN House",
  "years_mentioned": [
   "2022",
+  "2023",
+  "2024",
   "2025",
   "2026"
  ]

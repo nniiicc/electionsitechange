@@ -1,59 +1,234 @@
 [
-"https://dannynadeau.com/",
-"https://dannynadeau.com/about",
-"https://dannynadeau.com/articles",
-"https://dannynadeau.com/articles/2025-legislator-of-distinction",
-"https://dannynadeau.com/articles/a-challenging-forecast",
-"https://dannynadeau.com/articles/a-few-takeaways",
-"https://dannynadeau.com/articles/charting-a-path-forward",
-"https://dannynadeau.com/articles/community-town-hall",
-"https://dannynadeau.com/articles/delivering-tax-relief",
-"https://dannynadeau.com/articles/dependent-care-credit",
-"https://dannynadeau.com/articles/educator-pension-reform",
-"https://dannynadeau.com/articles/end-of-session-letter",
-"https://dannynadeau.com/articles/finding-solutions",
-"https://dannynadeau.com/articles/happy-easter-weekend",
-"https://dannynadeau.com/articles/healthcare-crossroads",
-"https://dannynadeau.com/articles/house-health-committee",
-"https://dannynadeau.com/articles/housing-stabilization-program",
-"https://dannynadeau.com/articles/launching-my-reelection-campaign",
-"https://dannynadeau.com/articles/legislative-update-jan-27",
-"https://dannynadeau.com/articles/letter-to-county-attorney-moriarty",
-"https://dannynadeau.com/articles/lower-child-care-costs",
-"https://dannynadeau.com/articles/lower-childcare-costs",
-"https://dannynadeau.com/articles/meet-me-at-the-state-fair",
-"https://dannynadeau.com/articles/message-of-gratitude",
-"https://dannynadeau.com/articles/oath-of-office",
-"https://dannynadeau.com/articles/our-path-forward",
-"https://dannynadeau.com/articles/pending-special-session",
-"https://dannynadeau.com/articles/quick-pension-update",
-"https://dannynadeau.com/articles/regarding-taxpayer-dollars",
-"https://dannynadeau.com/articles/school-funding-and-pensions",
-"https://dannynadeau.com/articles/statement-from-representative-danny-nadeau",
-"https://dannynadeau.com/articles/strengthening-oversight",
-"https://dannynadeau.com/articles/survey-link-fixed",
-"https://dannynadeau.com/articles/town-hall-on-teacher-pensions",
-"https://dannynadeau.com/articles/tragedy-at-annunciation",
-"https://dannynadeau.com/articles/upcoming-special-elections",
-"https://dannynadeau.com/contact",
-"https://dannynadeau.com/donate",
-"https://dannynadeau.com/endorsements",
-"https://dannynadeau.com/events",
-"https://dannynadeau.com/issues",
-"https://dannynadeau.com/photos",
-"https://dannynadeau.com/privacy-policy",
-"https://dannynadeau.com/suburbs-survey",
-"https://dannynadeau.com/voting",
-"https://facebook.com/dannyforhouse",
-"https://facebook.com/share/p/1BwHbawAoo",
-"https://facebook.com/share/v/18aQ3gk1xA",
-"https://hometownsource.com/press_and_news/free/rep-nadeau-introduces-bill-to-expand-dependent-care-credit/article_5dd7fd36-f768-11ee-bde9-ef06891a75f7.html",
-"https://house.mn.gov/goppdf/Letter%20to%20the%20Governor.pdf",
-"https://house.mn.gov/goppdf/Letter%20to%20the%20President.pdf",
-"https://house.mn.gov/goppdf/Nadeau%20Statement%20pdICE.pdf",
-"https://house.mn.gov/members/membersR.asp?id=Rep_Danny_Nadeau",
-"https://instagram.com/danny_nadeau",
-"https://revisor.mn.gov/bills/bill.php?f=HF633&b=house&y=2025&ssn=0",
-"https://x.com/NadeauDanny",
-"https://youtube.com/@dannynadeau3162"
+{
+"text": "About",
+"href": "https://dannynadeau.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://dannynadeau.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://dannynadeau.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://dannynadeau.com/donate/"
+},
+{
+"text": "End of Session Letter to the Editor by Rep. Danny Nadeau",
+"href": "https://dannynadeau.com/articles/end-of-session-letter/"
+},
+{
+"text": "Endorsements",
+"href": "https://dannynadeau.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dannynadeau.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/dannyforhouse"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/danny_nadeau/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@dannynadeau3162"
+},
+{
+"text": "Follow",
+"href": "https://x.com/NadeauDanny"
+},
+{
+"text": "HF633",
+"href": "https://www.revisor.mn.gov/bills/bill.php?f=HF633&b=house&y=2025&ssn=0"
+},
+{
+"text": "Home",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "IN THE NEWS: Potential Market Value Exclusion Aims to Lower Childcare Costs",
+"href": "https://dannynadeau.com/articles/lower-childcare-costs/"
+},
+{
+"text": "Issues",
+"href": "https://dannynadeau.com/issues/"
+},
+{
+"text": "Launching my Re-Election Campaign",
+"href": "https://dannynadeau.com/articles/launching-my-reelection-campaign/"
+},
+{
+"text": "Legislative Update",
+"href": "https://dannynadeau.com/articles/legislative-update-jan-27/"
+},
+{
+"text": "Legislative Update - 02.20.2026",
+"href": "https://dannynadeau.com/articles/strengthening-oversight/"
+},
+{
+"text": "Legislative Update - 03.06.2026",
+"href": "https://dannynadeau.com/articles/house-health-committee/"
+},
+{
+"text": "Legislative Update - 04.03.2026",
+"href": "https://dannynadeau.com/articles/happy-easter-weekend/"
+},
+{
+"text": "Legislative Update - 05.21.2026",
+"href": "https://dannynadeau.com/articles/delivering-tax-relief/"
+},
+{
+"text": "Legislative Update 05.01.25",
+"href": "https://dannynadeau.com/articles/charting-a-path-forward/"
+},
+{
+"text": "Legislative Update 2.21.25",
+"href": "https://dannynadeau.com/articles/school-funding-and-pensions/"
+},
+{
+"text": "Legislative Update 3.21",
+"href": "https://dannynadeau.com/articles/a-challenging-forecast/"
+},
+{
+"text": "Legislative Update from Rep. Danny Nadeau",
+"href": "https://dannynadeau.com/articles/our-path-forward/"
+},
+{
+"text": "Legislative Update: Nadeau: 05.15.25",
+"href": "https://dannynadeau.com/articles/quick-pension-update/"
+},
+{
+"text": "Legislative Update: Nadeau: 06.12.25",
+"href": "https://dannynadeau.com/articles/a-few-takeaways/"
+},
+{
+"text": "Legislative Update: Nadeau: 08.08.25",
+"href": "https://dannynadeau.com/articles/upcoming-special-elections/"
+},
+{
+"text": "Legislative Update: Nadeau: 08.20.25",
+"href": "https://dannynadeau.com/articles/meet-me-at-the-state-fair/"
+},
+{
+"text": "Legislative Update: Nadeau: 09.08.25",
+"href": "https://dannynadeau.com/articles/survey-link-fixed/"
+},
+{
+"text": "Letter to Hennepin County Attorney Mary Moriarty on the Decision to Discontinue Subsequent Traffic Stop Prosecutions",
+"href": "https://dannynadeau.com/articles/letter-to-county-attorney-moriarty/"
+},
+{
+"text": "Letter to the Governor",
+"href": "https://www.house.mn.gov/goppdf/Letter%20to%20the%20Governor.pdf"
+},
+{
+"text": "Letter to the President",
+"href": "https://www.house.mn.gov/goppdf/Letter%20to%20the%20President.pdf"
+},
+{
+"text": "Op-Ed: Minnesota’s Healthcare Crossroads – Premium Hikes, ACA Evolution, and the Cost of Expansion",
+"href": "https://dannynadeau.com/articles/healthcare-crossroads/"
+},
+{
+"text": "Photos",
+"href": "https://dannynadeau.com/photos/"
+},
+{
+"text": "Potential market value exclusion aims to lower child care costs",
+"href": "https://dannynadeau.com/articles/lower-child-care-costs/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dannynadeau.com/privacy-policy/"
+},
+{
+"text": "Quick Message of Gratitude on Thanksgiving",
+"href": "https://dannynadeau.com/articles/message-of-gratitude/"
+},
+{
+"text": "RELEASE: Rep. Danny Nadeau Named 2025 Legislator of Distinction by the League of Minnesota Cities",
+"href": "https://dannynadeau.com/articles/2025-legislator-of-distinction/"
+},
+{
+"text": "RELEASE: Rep. Danny Nadeau Responds to FBI Raids in Housing Stabilization Program",
+"href": "https://dannynadeau.com/articles/housing-stabilization-program/"
+},
+{
+"text": "RELEASE: Rep. Danny Nadeau Statement on the End of the 2025 Legislative Session and Pending Special Session",
+"href": "https://dannynadeau.com/articles/pending-special-session/"
+},
+{
+"text": "RELEASE: Statement from Representative Danny Nadeau",
+"href": "https://dannynadeau.com/articles/statement-from-representative-danny-nadeau/"
+},
+{
+"text": "RELEASE: Statement from Representative Danny Nadeau Regarding Taxpayer Dollars Spent on Private Legal Counsel for Congressional Hearing",
+"href": "https://dannynadeau.com/articles/regarding-taxpayer-dollars/"
+},
+{
+"text": "Rep. Danny Nadeau",
+"href": "https://www.house.mn.gov/members/membersR.asp?id=Rep_Danny_Nadeau"
+},
+{
+"text": "Rep. Danny Nadeau Responds to November Budget Forecast",
+"href": "https://www.facebook.com/share/p/1BwHbawAoo/"
+},
+{
+"text": "Rep. Nadeau Introduces Bill to Expand Dependent Care Credit",
+"href": "https://dannynadeau.com/articles/dependent-care-credit/"
+},
+{
+"text": "Rep. Nadeau Statement: Respecting Rights & Reducing Gun Violence",
+"href": "https://dannynadeau.com/articles/finding-solutions/"
+},
+{
+"text": "Rep. Nadeau Takes Oath of Office, Sees Big Opportunity Ahead",
+"href": "https://dannynadeau.com/articles/oath-of-office/"
+},
+{
+"text": "Representative Danny Nadeau Champions Educator Pension Reform with Statewide Support",
+"href": "https://dannynadeau.com/articles/educator-pension-reform/"
+},
+{
+"text": "Representative Danny Nadeau to Host Town Hall in Champlin on April 19",
+"href": "https://dannynadeau.com/articles/community-town-hall/"
+},
+{
+"text": "Representative Nadeau Statement on Immigration Enforcement Tragedy",
+"href": "https://www.house.mn.gov/goppdf/Nadeau%20Statement%20pdICE.pdf"
+},
+{
+"text": "Representative Nadeau to Host Town Hall on Teacher Pensions – March 25th, 2025",
+"href": "https://dannynadeau.com/articles/town-hall-on-teacher-pensions/"
+},
+{
+"text": "Representative Nadeau's Statement on the Tragedy at Annunciation",
+"href": "https://dannynadeau.com/articles/tragedy-at-annunciation/"
+},
+{
+"text": "Suburbs Survey",
+"href": "https://dannynadeau.com/suburbs-survey/"
+},
+{
+"text": "Voting",
+"href": "https://dannynadeau.com/voting/"
+},
+{
+"text": "[image: Danny Nadeau]",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "here",
+"href": "https://www.hometownsource.com/press_and_news/free/rep-nadeau-introduces-bill-to-expand-dependent-care-credit/article_5dd7fd36-f768-11ee-bde9-ef06891a75f7.html"
+},
+{
+"text": "press conference",
+"href": "https://www.facebook.com/share/v/18aQ3gk1xA/"
+}
 ]

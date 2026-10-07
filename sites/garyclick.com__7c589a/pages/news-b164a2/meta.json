@@ -1,11 +1,17 @@
 {
  "description": "Gary Click in the News",
  "final_url": "https://www.garyclick.com/news",
- "paid_for_by": null,
+ "fingerprint": "1552825fadb234bb5bea2bb325011b3da0829ac6",
+ "format": 3,
+ "paid_for_by": "Sponsored by Representative Gary Click by a vote of 65 to 28",
  "title": "News",
  "years_mentioned": [
+  "2017",
   "2018",
+  "2019",
   "2020",
+  "2021",
+  "2022",
   "2023",
   "2024"
  ]

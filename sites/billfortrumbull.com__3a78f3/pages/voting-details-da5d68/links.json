@@ -1,23 +1,98 @@
 [
-"http://facebook.com/billfortrumbull",
-"http://instagram.com/billfortrumbull",
-"http://myvote.ct.gov/getmyab",
-"https://billfortrumbull.com/",
-"https://billfortrumbull.com/cart",
-"https://billfortrumbull.com/meet-bill",
-"https://billfortrumbull.com/teammecca",
-"https://billfortrumbull.com/voting-details",
-"https://portal.ct.gov/-/media/sots/electionservices/ab-application/2026_ab_application/2026_ab_english_ed-3.pdf?rev=6fd9f233d1214cb8a78e87908b086b37&hash=1308AEB3BEE1D334E43978C1E5EDB424",
-"https://portal.ct.gov/-/media/sots/electionservices/ab-application/2026_ab_application/2026_ab_spanish_ed-3.pdf?rev=2cc9d34ec7b344d0873d2c14600cd94b&hash=03ADC0281D042983787FC289496DB6C8",
-"https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
-"https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
-"https://portal.ct.gov/sots/election-services/register-to-vote/voter-registration-application-english-and-spanish",
-"https://portal.ct.gov/sots/election-services/registration-deadlines/registration-deadlines",
-"https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
-"https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://trumbull-ct.gov/DocumentCenter/View/5440/Voting-District-Map---Polling-Locations-PDF",
-"https://trumbull-ct.gov/DocumentCenter/View/981/Voting-District-by-Street-Listing-PDF",
-"https://trumbull-ct.gov/DocumentCenter/View/982/Voting-District-Map---Street-Detail-PDF",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "0",
+"href": "https://www.billfortrumbull.com/cart"
+},
+{
+"text": "Am I eligible to vote in CT?",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility"
+},
+{
+"text": "Am I registered to vote in CT?",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Election Day Registration Information",
+"href": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration"
+},
+{
+"text": "English Application for Absentee Ballot",
+"href": "https://portal.ct.gov/-/media/sots/electionservices/ab-application/2026_ab_application/2026_ab_english_ed-3.pdf?rev=6fd9f233d1214cb8a78e87908b086b37&hash=1308AEB3BEE1D334E43978C1E5EDB424"
+},
+{
+"text": "Meet Bill",
+"href": "https://www.billfortrumbull.com/meet-bill"
+},
+{
+"text": "Register to Vote or Update Your Registration Online",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Spanish Application for Absentee Ballot",
+"href": "https://portal.ct.gov/-/media/sots/electionservices/ab-application/2026_ab_application/2026_ab_spanish_ed-3.pdf?rev=2cc9d34ec7b344d0873d2c14600cd94b&hash=03ADC0281D042983787FC289496DB6C8"
+},
+{
+"text": "Team Mecca",
+"href": "https://www.billfortrumbull.com/teammecca"
+},
+{
+"text": "Volunteer",
+"href": "https://www.billfortrumbull.com/teammecca"
+},
+{
+"text": "Voter ID Requirements in CT",
+"href": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification"
+},
+{
+"text": "Voter Registration Deadlines",
+"href": "https://portal.ct.gov/sots/election-services/registration-deadlines/registration-deadlines"
+},
+{
+"text": "Voter Registration Paper Form",
+"href": "https://portal.ct.gov/sots/election-services/register-to-vote/voter-registration-application-english-and-spanish"
+},
+{
+"text": "Voting Details",
+"href": "https://www.billfortrumbull.com/voting-details"
+},
+{
+"text": "Voting District Map - Polling Locations (PDF)",
+"href": "https://www.trumbull-ct.gov/DocumentCenter/View/5440/Voting-District-Map---Polling-Locations-PDF"
+},
+{
+"text": "Voting District Map - Street Detail (PDF)",
+"href": "https://www.trumbull-ct.gov/DocumentCenter/View/982/Voting-District-Map---Street-Detail-PDF"
+},
+{
+"text": "Voting District by Street Listing (PDF)",
+"href": "https://www.trumbull-ct.gov/DocumentCenter/View/981/Voting-District-by-Street-Listing-PDF"
+},
+{
+"text": "Where and how do I vote?",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+},
+{
+"text": "[image: Bill Mecca for Trumbull]",
+"href": "https://www.billfortrumbull.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.trumbull-ct.gov/DocumentCenter/View/982/Voting-District-Map---Street-Detail-PDF"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/billfortrumbull"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/billfortrumbull"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@billfortrumbull.com"
+},
+{
+"text": "myvote.ct.gov/getmyab",
+"href": "http://myvote.ct.gov/getmyab"
+}
 ]

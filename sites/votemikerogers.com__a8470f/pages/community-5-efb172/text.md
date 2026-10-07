@@ -1,6 +1,4 @@
-My Community Philosophy
-Presence and Service Builds Trust
-Representing District 32 isn't just about the votes I cast in Annapolis; it is about showing up where people live.
+Home Current Situation My Philosophy Contact Back Education Economics Community Country Home Current Situation My Philosophy Education Economics Community Country Contact Veteran | PTSA President | Pop Warner Football Coach | Community Advocate My Community Philosophy Presence and Service Builds Trust Representing District 32 isn't just about the votes I cast in Annapolis; it is about showing up where people live.
 I have built my service around a simple principle: government works best when it is present in the community, not just present in the statehouse.
 That is the philosophy behind every event my office organizes, supports, and shows up personally: rain or shine.
 The Back-2-School Backpack Giveaway is one of the clearest examples of what I mean.
@@ -17,3 +15,4 @@ That's the standard I hold myself to, not just legislating on behalf of District
 Backpacks handed out one by one.
 Conversations in the park, not just in committee rooms.
 This is the kind of representation I believe in, built on relationships, not just a résumé, and it is one District 32 residents can see for themselves at every community event, because I am there.
+Contact Authority Line: Mike Rogers Campaign Antonio Downing, Treasurer

@@ -1,30 +1,11 @@
-Press Releases
-North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Raises More Than $380,000 in the Fourth Quarter of 2025
-February 1, 2026
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Johnsburg
-May 30, 2025
-This week, dairy farmer and small business owner Blake Gendebien hosted the latest town hall of his campaign to represent NY-21 in Johnsburg.
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Croghan
-May 5, 2025
-On Saturday, dairy farmer and small business owner Blake Gendebien hosted the latest town hall of his campaign to represent NY-21 in Croghan.
-NY-21 TOWN HALL ROUND UP: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Halls Throughout the District
-April 28, 2025
-This past month, dairy farmer and small business owner Blake Gendebien reached voters where they are, hosting seven town halls and addressing his district’s top priorities: making life more affordable for working families, uplifting small businesses, fixing our broken immigration system, and increasing access to rural health care.
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Canajoharie
-April 28, 2025
-On Thursday, dairy farmer and small business owner Blake Gendebien hosted the latest town hall of his campaign to represent NY-21 in Canajoharie.
-Talking Tariffs with Blake: POLITICO NY Interviews NY-21 Democratic Candidate on Impacts of Tariffs in the North Country
-April 15, 2025
-New reporting from POLITICO New York highlights the detrimental impact of new tariffs in the North Country – and how dairy farmer and Democratic candidate for NY-21 Blake Gendebien is ready to bring a farmer’s voice and first-hand experience with tariffs to Congress.
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Potsdam
-April 14, 2025
-On Saturday, dairy farmer and small business owner Blake Gendebien hosted the fourth town hall of his campaign to represent NY-21 in Potsdam.
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Plattsburgh
-April 9, 2025
-Last night, dairy farmer and small business owner Blake Gendebien hosted the third town hall of his campaign to represent NY-21 in Plattsburgh.
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Moreau
-April 7, 2025
-On Friday, dairy farmer and small business owner Blake Gendebien hosted the second town hall of his campaign to represent NY-21 in Glen Falls.
-ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Kicks Off Town Hall Series in Herkimer
-April 3, 2025
-Last night, dairy farmer and small business owner Blake Gendebien hosted the first town hall of his campaign to represent NY-21 in Herkimer County.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Press Releases North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Raises More Than $380,000 in the Fourth Quarter of 2025 February 1, 2026 Press Release Today, dairy farmer and small business owner Blake Gendebien announced his campaign to represent New York’s 21st Congressional District has raised more than $# in the fourth quarter of 2025.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Johnsburg May 30, 2025 Press Release This week, dairy farmer and small business owner Blake Gendebien hosted the latest town hall of his campaign to represent NY-21 in Johnsburg.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Croghan May 5, 2025 Press Release On Saturday, dairy farmer and small business owner Blake Gendebien hosted the latest town hall of his campaign to represent NY-21 in Croghan.
+Read More NY-21 TOWN HALL ROUND UP: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Halls Throughout the District April 28, 2025 Press Release This past month, dairy farmer and small business owner Blake Gendebien reached voters where they are, hosting seven town halls and addressing his district’s top priorities: making life more affordable for working families, uplifting small businesses, fixing our broken immigration system, and increasing access to rural health care.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Canajoharie April 28, 2025 Press Release On Thursday, dairy farmer and small business owner Blake Gendebien hosted the latest town hall of his campaign to represent NY-21 in Canajoharie.
+Read More Talking Tariffs with Blake: POLITICO NY Interviews NY-21 Democratic Candidate on Impacts of Tariffs in the North Country April 15, 2025 Press Release New reporting from POLITICO New York highlights the detrimental impact of new tariffs in the North Country – and how dairy farmer and Democratic candidate for NY-21 Blake Gendebien is ready to bring a farmer’s voice and first-hand experience with tariffs to Congress.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Potsdam April 14, 2025 Press Release On Saturday, dairy farmer and small business owner Blake Gendebien hosted the fourth town hall of his campaign to represent NY-21 in Potsdam.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Plattsburgh April 9, 2025 Press Release Last night, dairy farmer and small business owner Blake Gendebien hosted the third town hall of his campaign to represent NY-21 in Plattsburgh.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Hosts Town Hall in Moreau April 7, 2025 Press Release On Friday, dairy farmer and small business owner Blake Gendebien hosted the second town hall of his campaign to represent NY-21 in Glen Falls.
+Read More ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Kicks Off Town Hall Series in Herkimer April 3, 2025 Press Release Last night, dairy farmer and small business owner Blake Gendebien hosted the first town hall of his campaign to represent NY-21 in Herkimer County.
+Read More < 1 2 3 4 > Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

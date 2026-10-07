@@ -1,5 +1,5 @@
-Donate to Eric Conroy for Congress
-CINCINNATI, OH — Eric Conroy for Congress is calling on Steven Erbeck to immediately come clean about the source of the $400,000 he has funneled into his congressional campaign.
+Skip to content Donate to Eric Conroy for Congress Home Meet Eric Issues Close Issues Open Issues Border Security Cryptocurrency and Blockchain Education Jobs and the Economy National Defense Protecting Women's Sports Safe Neighborhoods Small Business Social Security and Medicare Transportation and Infrastructure Veterans Media Center Close Media Center Open Media Center In the News Press Kit Action Center Close Action Center Open Action Center Endorse Eric Volunteer for Eric Contact Facebook X-twitter Instagram Youtube Donate News Press Release: Is Steven Erbeck Funding His Campaign With Illegal Contributions?
+April 9, 2026 CINCINNATI, OH — Eric Conroy for Congress is calling on Steven Erbeck to immediately come clean about the source of the $400,000 he has funneled into his congressional campaign.
 This week, Steven Erbeck launched a self-funded TV advertising campaign.
 Meanwhile, Erbeck has failed to file a mandatory personal financial disclosure with the Clerk of the House of Representatives — now more than six months overdue.
 Federal law requires candidates to disclose their finances.
@@ -14,12 +14,22 @@ Where is that money really coming from – Steven or illegally from his family?
 Is that really his money or is it his dad’s?” said Conroy’s campaign manager Evan Nash.
 “Erbeck’s spending isn’t the sign of a winning campaign.
 It’s a red flag.
-Republicans need to know the truth before it’s too late.”
-OH-01 is one of the best Republican pickup opportunities in the country.
+Republicans need to know the truth before it’s too late.” OH-01 is one of the best Republican pickup opportunities in the country.
 Control of the House could come down to this seat.
 If Erbeck somehow buys the primary and then gets shredded in the general over a criminal scandal—and Democrats will absolutely dig into his shady loans—Republicans lose the House.
 And a Democrat-controlled House means one thing: impeaching President Trump.
 We can’t afford that.
 Erbeck needs to come clean now.
 His vanity project can’t come before the country’s future.
-###
+### Conroy for Congress 2692 Madison Rd.
+Suite N1, Box #358 Cincinnati, OH 45208 Quick Links Meet Eric Issues News Press Kit Volunteer Endorse Privacy Policy Terms and Conditions Facebook X-twitter Instagram Youtube Issues Jobs and the economy Safe Neighborhoods Border Security Transportation and Infrastructure Education Small Business Veterans Cryptocurrency and Blockchain Social Security and Medicare National Defense DisclaimerS By providing your telephone number, you consent to receive calls and text messages from Conroy for Congress.
+Message & data rates may apply.
+Message frequency may vary.
+Messaging may include requests for donations.
+Mobile opt-in data will not be shared with third parties.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy and our Terms & Conditions for more info.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense, Department of the Air Force, or the Central Intelligence Agency.
+Paid for by Conroy for Congress © # Conroy for Congress.
+All Rights Reserved.
+Home Meet Eric Issues News Press Kit Volunteer Endorse Contact Privacy Policy Terms and Conditions Donate

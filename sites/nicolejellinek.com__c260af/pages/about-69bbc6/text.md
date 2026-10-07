@@ -1,4 +1,4 @@
-I’m running for State Representative to make Rhode Island more affordable, equitable, and accessible for all.
+0 Skip to Content Home About Issues Volunteer Contact Open Menu Close Menu Home About Issues Volunteer Contact Open Menu Close Menu Home About Issues Volunteer Contact I’m running for State Representative to make Rhode Island more affordable, equitable, and accessible for all.
 That means ensuring that every Rhode Islander can count on high-quality health care, including mental health care; access to strong schools and safe communities; lowered everyday costs and rising wages; a protected environment, and access to affordable housing.
 As a clinical social worker, I’ve seen firsthand how gaps in our system affect individuals and families.
 I believe that comprehensive healthcare is a basic human right.
@@ -23,4 +23,4 @@ From our beaches to our open spaces, we must protect these resources while confr
 I will support bold action to reduce emissions, invest in a green economy, strengthen coastal resilience, and safeguard clean, reliable drinking water for all Rhode Islanders.
 Above all, I believe representation means showing up, listening, and working hard every day to earn your trust.
 We have the shortest state motto of the 50 states, which is quite simply, “Hope.” I believe in a hopeful future and I’m committed to the promise of a better, stronger, more affordable, and more equitable Rhode Island for all, a place where all Rhode Islanders can thrive.
-Values-Driven, Action-Oriented, Community-Centered
+Values-Driven, Action-Oriented, Community-Centered Why I'm Running Election Day: November 3rd Early Voting starts October 14 Campaign Here: Donate to Nicole’s Visit the RI Voter Information Center for info

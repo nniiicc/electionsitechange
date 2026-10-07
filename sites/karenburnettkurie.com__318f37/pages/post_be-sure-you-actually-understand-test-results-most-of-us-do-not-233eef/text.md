@@ -1,7 +1,5 @@
-Be Sure You Actually Understand Education Test Results: Most of Us Do Not
-Updated: Oct 22, 2024
-Letter to the Editor:
-Educational testing has changed substantively.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search Be Sure You Actually Understand Education Test Results: Most of Us Do Not Karen Burnett-Kurie Mar 9, 2024 4 min read Updated: Oct 22, 2024 Letter to the Editor: Educational testing has changed substantively.
 It’s likely many of us do not understand how much and in what ways, leading us to misinterpret test results.
 This misinterpretation can lead to erroneous conclusions such as ‘the system is broken’.
 To start with, the tests used have changed numerous times over recent decades.
@@ -51,5 +49,5 @@ If a student’s performance is categorized ‘At or Approaching’ it indicates
 The testing is substantively more dimensional than most of us realize.
 Today’s testing is much more complicated than discussions suggest — particularly when they only focus on what percentage of students are ‘proficient.’ As well, this is only the ‘the tip of the iceberg’ when it comes to understanding test results.
 We should all consider if we know what’s necessary to make informed and accurate conclusions.
-If we are not willing to do the research, ask questions and adjust our thinking accordingly, we should not be making declarations about a ‘broken system.’
-Karen Burnett-Kurie
+If we are not willing to do the research, ask questions and adjust our thinking accordingly, we should not be making declarations about a ‘broken system.’ Karen Burnett-Kurie Education Recent Posts See All NH Better Served by Quality Education & Lower Property Taxes Educational Freedom Accounts Part 2: Education Freedom Accounts- Part 1 Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

@@ -1,8 +1,3 @@
-Reach the campaign
-Get in touch with Cinquemani for Congress.
-Cinquemani for Congress
-40 Memorial Highway,
-New Rochelle, NY 10801
-(917) 582-3700
-cinquemaniforcongress@gmail.com
-Follow the campaign
+Skip to main content Cinquemani for Congress MENU About Issues Get Involved Contact Donate About Issues Get Involved Contact Donate Ideas Not Ideology Direction not Destination Reach the campaign Contact Get in touch with Cinquemani for Congress.
+Campaign Office Cinquemani for Congress 40 Memorial Highway, New Rochelle, NY 10801 (917) 582-3700 cinquemaniforcongress@gmail.com Follow the campaign Send a message Name Email Phone Message Send message Cinquemani for Congress Better ideas for New York's 16th Congressional District: tax relief, lower costs, good jobs, and a stronger future for Westchester and the Bronx.
+Navigate About Issues Get Involved Contact Privacy Contact Cinquemani for Congress 40 Memorial Highway, New Rochelle, NY 10801 (917) 582-3700 cinquemaniforcongress@gmail.com Paid for by Cinquemani for Congress.

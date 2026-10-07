@@ -1,7 +1,11 @@
 {
  "description": "Chris Reichard Campaign Events",
  "final_url": "https://www.reichardforrep.com/Events?range=2026-8",
+ "fingerprint": "1439bbfaa4d2bf679bfdb1b721ef90258527296e",
+ "format": 3,
  "paid_for_by": "Paid For By Reichard For Rep Powered by CampaignPartner",
  "title": "Chris Reichard Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

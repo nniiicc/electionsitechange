@@ -1,42 +1,4 @@
-A TRUSTWORTHY RECORD
-Experience with Improving Public Education
-- Served as a member of Board of Education
-- Served as a member of Hawaiʻi Teacher Standards Board
-- Served as Chair of the Career and Technical Education Coordinating Advisory Council for UH
-- Served on Dean’s Advisory Council for John A.
-Burns School of Medicine
-Experience with Supporting Families out of Homelessness
-- Recruited Pro Bono Attorneys for legal clinics in Homeless Shelters
-- Work with social service providers to house unsheltered families
-- Provide affordable housing opportunities to families qualified for housing assistance
-- Advisory Council for Residential Youth Services & Empowerment
-- Participate in the Annual Point-In-Time Count of Unsheltered Residents
-Experience with Solving Problems through Community Collaborations
-- Co-Founded the Chamber of Sustainable Commerce
-- Leveraged private funding to preserve public investment in arts in schools
-- Partnered with community organizations and state agencies to reduce bullying
-- Worked with small businesses and students to produce fundraiser for cancer research
-PAID Work Experiences in Hawaiʻi
-- Hawai‘i State Senate: Legislative Assistant
-- State of Hawaiʻi, Board of Education: Board Member
-- AQuA Rentals, LLC (Affordable Quality Apartment Rentals, LLC): Property Management
-- Volunteer Legal Services Hawaiʻi: Managing Attorney
-- Monterey Bay Canners (Ward Center): Waitress
-- Chowder House (Ward Warehouse): Waitress
-- Hilo Hattie, Pomare, Ltd: retail sales clerk
-- Roberts Hawaiʻi: Car Washer, Reservationist, Beverage Server
-- Gannett Corporation (Honolulu Star-Bulletin): Newspaper Home-Delivery
-Community Service
-- Board of Directors for Partners In Care
-- Board of Directors of HAPA
-- Commissioner on the Hawaii Civil Rights Commission
-- Board of Directors for Hawaiʻi People’s Fund
-- Board of Directors for Kūlia Nā Mamo
-- Pro Bono Attorney for Volunteer Legal Services Hawaii
-- Volunteer with Legal Aid Society of Hawaiʻi
-- Volunteer with Project Visitation of the Nā Keiki Law Center
-- Coordinator of youth leadership development program (New York)
-- Volunteer Guardian Ad Litem, representing kids in foster care
-- Member of Safe Schools Community Advisory Committee for Department of Education
-- Candy-Striper with Kapiʻolani Women and Children’s Hospital (as a youth)
-- Volunteer with Red Cross of Hawaiʻi (as a youth)
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me EXPERIENCE A TRUSTWORTHY RECORD Experience with Improving Public Education Served as a member of Board of Education Served as a member of Hawaiʻi Teacher Standards Board Served as Chair of the Career and Technical Education Coordinating Advisory Council for UH Served on Dean’s Advisory Council for John A.
+Burns School of Medicine Experience with Supporting Families out of Homelessness Recruited Pro Bono Attorneys for legal clinics in Homeless Shelters Work with social service providers to house unsheltered families Provide affordable housing opportunities to families qualified for housing assistance Advisory Council for Residential Youth Services & Empowerment Participate in the Annual Point-In-Time Count of Unsheltered Residents Experience with Solving Problems through Community Collaborations Co-Founded the Chamber of Sustainable Commerce Leveraged private funding to preserve public investment in arts in schools Partnered with community organizations and state agencies to reduce bullying Worked with small businesses and students to produce fundraiser for cancer research PAID Work Experiences in Hawaiʻi Hawai‘i State Senate: Legislative Assistant State of Hawaiʻi, Board of Education: Board Member AQuA Rentals, LLC (Affordable Quality Apartment Rentals, LLC): Property Management Volunteer Legal Services Hawaiʻi: Managing Attorney Monterey Bay Canners (Ward Center): Waitress Chowder House (Ward Warehouse): Waitress Hilo Hattie, Pomare, Ltd: retail sales clerk Roberts Hawaiʻi: Car Washer, Reservationist, Beverage Server Gannett Corporation (Honolulu Star-Bulletin): Newspaper Home-Delivery Community Service Board of Directors for Partners In Care Board of Directors of HAPA Commissioner on the Hawaii Civil Rights Commission Board of Directors for Hawaiʻi People’s Fund Board of Directors for Kūlia Nā Mamo Pro Bono Attorney for Volunteer Legal Services Hawaii Volunteer with Legal Aid Society of Hawaiʻi Volunteer with Project Visitation of the Nā Keiki Law Center Coordinator of youth leadership development program (New York) Volunteer Guardian Ad Litem, representing kids in foster care Member of Safe Schools Community Advisory Committee for Department of Education Candy-Striper with Kapiʻolani Women and Children’s Hospital (as a youth) Volunteer with Red Cross of Hawaiʻi (as a youth) Democrat for State House Representing: ALA MOANA • Kaka‘ako • Downtown Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

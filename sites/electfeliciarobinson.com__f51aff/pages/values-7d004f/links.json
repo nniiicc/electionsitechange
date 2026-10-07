@@ -1,14 +1,54 @@
 [
-"http://poliengine.com/",
-"https://electfeliciarobinson.com/",
-"https://electfeliciarobinson.com/about",
-"https://electfeliciarobinson.com/endorsements",
-"https://electfeliciarobinson.com/issues",
-"https://electfeliciarobinson.com/landing",
-"https://electfeliciarobinson.com/store/cart",
-"https://electfeliciarobinson.com/values",
-"https://electfeliciarobinson.com/volunteer",
-"https://facebook.com/",
-"https://secure.actblue.com/donate/felicia-robinson-campaign-2",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://electfeliciarobinson.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/felicia-robinson-campaign-2"
+},
+{
+"text": "Endorsements",
+"href": "https://electfeliciarobinson.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://electfeliciarobinson.com/landing"
+},
+{
+"text": "Issues",
+"href": "https://electfeliciarobinson.com/issues"
+},
+{
+"text": "Priorities",
+"href": "https://electfeliciarobinson.com/issues"
+},
+{
+"text": "Values",
+"href": "https://electfeliciarobinson.com/values"
+},
+{
+"text": "Volunteer",
+"href": "https://electfeliciarobinson.com/volunteer"
+},
+{
+"text": "[image: Felicia Robinson]",
+"href": "https://electfeliciarobinson.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://electfeliciarobinson.com/store/cart"
+},
+{
+"text": "owered by PoliEngine.com",
+"href": "http://www.poliengine.com"
+}
 ]

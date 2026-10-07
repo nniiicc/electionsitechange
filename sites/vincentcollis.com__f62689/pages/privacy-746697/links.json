@@ -1,12 +1,62 @@
 [
-"https://aboutads.info/",
-"https://facebook.com/VincentCollisIA",
-"https://linkedin.com/in/vincentcollis",
-"https://policies.google.com/technologies/partner-sites",
-"https://secure.actblue.com/donate/vincentcollis_website",
-"https://tools.google.com/dlpage/gaoptout",
-"https://vincentcollis.com/",
-"https://vincentcollis.com/mobile-terms",
-"https://vincentcollis.com/privacy",
-"https://x.com/VincentCollisIA"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vincentcollis_website"
+},
+{
+"text": "Donate",
+"href": "https://vincentcollis.com/#donate"
+},
+{
+"text": "Issues",
+"href": "https://vincentcollis.com/#issues"
+},
+{
+"text": "Meet Vincent",
+"href": "https://vincentcollis.com/#about"
+},
+{
+"text": "Mobile Terms",
+"href": "https://vincentcollis.com/mobile-terms"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vincentcollis.com/privacy"
+},
+{
+"text": "[image: Vincent Collis for Iowa House District 61]",
+"href": "https://vincentcollis.com/#top"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VincentCollisIA"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/vincentcollis/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VincentCollisIA"
+},
+{
+"text": "https://policies.google.com/technologies/partner-sites",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://vincentcollis.com/",
+"href": "https://vincentcollis.com/"
+},
+{
+"text": "https://www.aboutads.info",
+"href": "https://www.aboutads.info"
+},
+{
+"text": "info@vincentcollis.com",
+"href": "mailto:info@vincentcollis.com"
+}
 ]

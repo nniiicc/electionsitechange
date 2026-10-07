@@ -1,6 +1,3 @@
-Thank you for your interest in contributing to my campaign.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page Donate Thank you for your interest in contributing to my campaign.
 If you wish to contribute online, please click on this link to connect to my Act Blue account.
-To contribute by check, please make it out to “Friends of Sam Zurier,” print up a Contribution Form, fill it out, and mail it with the check to this address:
-Friends of Sam Zurier
-330 Grotto Avenue
-Providence, RI 02906
+To contribute by check, please make it out to “Friends of Sam Zurier,” print up a Contribution Form , fill it out, and mail it with the check to this address: Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

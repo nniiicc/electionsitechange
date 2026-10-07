@@ -1,4 +1,4 @@
-The second campaign theme is relieving the violence and oppression of women at home in the US, and finding ways to support women's survival in other countries.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Women and Girls’ Survival ​ Climate Change Women and Girls’ Survival Community Based Economics and Economic Justice Health Care for All Federal Tax Reform Foreign Policy Privacy Immigration Reform Community Peace/Stopping Police Violence The second campaign theme is relieving the violence and oppression of women at home in the US, and finding ways to support women's survival in other countries.
 The facts on women and girls' suffering in the United States and around the world are so overwhelming it is difficult to take in at once.
 Three women die in the US every day from domestic violence.
 Child abuse is rampant.
@@ -10,11 +10,8 @@ There has been progress, in many countries and cultures.
 In the US, we can make violence against women prevented and prosecuted as the individual tragedy it is, instead of a daily expectation which the courts and police are all too familiar.
 Internationally, we can increase support for the many successful efforts begun by thousands of dedicated people through for the US government.
 One of the Green Party's 10 Key Values is Feminism and Gender Equity.
-We can address this holocaust of women and girls through appropriate use of federal programs by:
-- Increase training resources for local community law enforcement on management of domestic violence.
-- Closing all gun loopholes, banning assault weapons, and
-- Work with the entertainment industry to provide a realistic rating system for violence, and particularly violence against women.
+We can address this holocaust of women and girls through appropriate use of federal programs by: Increase training resources for local community law enforcement on management of domestic violence.
+Closing all gun loopholes, banning assault weapons, and Work with the entertainment industry to provide a realistic rating system for violence, and particularly violence against women.
 This includes video games and TV shows.
-- Defend the United Nations Declaration of Human Rights to continue full and equal protection for women.
-Resources for You on Women's Survival:
-What You Can Do To Stop Domestic/Sexual Violence http://ndvsac.org/get‐involved/what‐you‐can‐do‐to‐stop‐domesticsexual‐violence/ Video on what you can do – Emma Watson speech http://www.msnbc.com/the‐last‐word/watch/emma‐watson‐if‐not‐me‐who‐if‐not‐now‐when‐ 332137027735
+Defend the United Nations Declaration of Human Rights to continue full and equal protection for women.
+Resources for You on Women's Survival: What You Can Do To Stop Domestic/Sexual Violence http://ndvsac.org/get‐involved/what‐you‐can‐do‐to‐stop‐domesticsexual‐violence/ Video on what you can do – Emma Watson speech http://www.msnbc.com/the‐last‐word/watch/emma‐watson‐if‐not‐me‐who‐if‐not‐now‐when‐ 332137027735 " Then in times of need, one should rise to the occasion & fight bravely for what is right.....it is not enough to be compassionate, one must act. " -- Dalai Lama © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

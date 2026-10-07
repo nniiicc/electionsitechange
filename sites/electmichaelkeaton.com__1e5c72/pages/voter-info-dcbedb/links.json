@@ -1,22 +1,106 @@
 [
-"https://app.leg.wa.gov/rcw/default.aspx?cite=29A.08.210",
-"https://electmichaelkeaton.com/",
-"https://electmichaelkeaton.com/about",
-"https://electmichaelkeaton.com/contact",
-"https://electmichaelkeaton.com/get-involved",
-"https://electmichaelkeaton.com/voter-info",
-"https://electmichaelkeaton.com/why-im-running",
-"https://facebook.com/electmichaelkeaton?mibextid=LQQJ4d",
-"https://instagram.com/vote4michaelkeaton?igsh=Zms1cHozNzBtM3lp",
-"https://olvr.votewa.gov/",
-"https://piercecountywa.gov/334/Ballot-Drop-Boxes",
-"https://piercecountywa.gov/6548/Contact-Pierce-County-Elections",
-"https://public.mudshare.com/privacy_policy.php",
-"https://public.mudshare.com/terms_conditions.php",
-"https://secure.anedot.com/elect-michael-keaton/donate",
-"https://secure.anedot.com/elect-michael-keaton/donation",
-"https://sos.wa.gov/elections/print-voter-registration-forms.aspx",
-"https://sos.wa.gov/elections/voter-eligibility.aspx",
-"https://voter.votewa.gov/portal2023/login.aspx",
-"https://x.com/team25_wa?s=11&t=-cl-XQC_sqJ8FqEu6N93Qg"
+{
+"text": "25th Legislative District",
+"href": "https://www.electmichaelkeaton.com"
+},
+{
+"text": "ABOUT",
+"href": "https://www.electmichaelkeaton.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electmichaelkeaton.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/elect-michael-keaton/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/elect-michael-keaton/donation"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electmichaelkeaton.com/get-involved"
+},
+{
+"text": "HERE",
+"href": "https://www.piercecountywa.gov/334/Ballot-Drop-Boxes"
+},
+{
+"text": "HOME",
+"href": "https://www.electmichaelkeaton.com"
+},
+{
+"text": "MICHAEL KEATON",
+"href": "https://www.electmichaelkeaton.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://public.mudshare.com/privacy_policy.php"
+},
+{
+"text": "Pierce County Elections Office",
+"href": "https://www.piercecountywa.gov/6548/Contact-Pierce-County-Elections"
+},
+{
+"text": "RCW 29A.08.210",
+"href": "https://app.leg.wa.gov/rcw/default.aspx?cite=29A.08.210"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://voter.votewa.gov/portal2023/login.aspx"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.electmichaelkeaton.com"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://public.mudshare.com/terms_conditions.php"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electmichaelkeaton.com/get-involved"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.electmichaelkeaton.com/voter-info"
+},
+{
+"text": "WHY I'M RUNNING",
+"href": "https://www.electmichaelkeaton.com/why-im-running"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electmichaelkeaton?mibextid=LQQJ4d"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vote4michaelkeaton?igsh=Zms1cHozNzBtM3lp"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/team25_wa?s=11&t=-cl-XQC_sqJ8FqEu6N93Qg"
+},
+{
+"text": "[image: donate button]",
+"href": "https://secure.anedot.com/elect-michael-keaton/donation"
+},
+{
+"text": "for State Representative",
+"href": "https://www.electmichaelkeaton.com"
+},
+{
+"text": "register online",
+"href": "https://olvr.votewa.gov/"
+},
+{
+"text": "voter registration form",
+"href": "https://www.sos.wa.gov/elections/print-voter-registration-forms.aspx"
+},
+{
+"text": "who can vote",
+"href": "https://www.sos.wa.gov/elections/voter-eligibility.aspx"
+}
 ]

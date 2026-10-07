@@ -1,5 +1,5 @@
-The article translated from Mandarin to English (page 15):
-Former Queen’s Civil Court Judge candidate Julie M.
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Posted on July 28, 2025 July 28, 2025 by Gonzalo Duran Former Judge Candidate Julie Holds Thank You Event Endorses Gonzalo Duran for Public Advocate Dr.
+Julie Milner, Ed.D, Esq Former Democrat Candidate Queens Civil Court The article translated from Mandarin to English (page 15): Former Queen’s Civil Court Judge candidate Julie M.
 Milner held a thank-you event on the 2nd in Queens, attracting many supporters and community leaders.
 The atmosphere at the event was warm and lively.
 In her speech, Julie expressed gratitude for the support from voters and volunteers, and officially endorsed Gonzalo Duran, a candidate for New York City Public Advocate.
@@ -12,6 +12,12 @@ He mentioned that community surveys revealed a high rate of youth crime, which i
 To address this, he launched a youth internship program to encourage young people to engage in media, public service, and political work, fostering a sense of responsibility and belonging.
 On concerns raised by parents regarding the potential continuation of the SHSAT (Specialized High School Admissions Test) if Zohran Mamdani, the Democratic mayoral candidate, takes office, Duran firmly supported retaining the system to maintain fairness in education.
 Civil Court Judge of New York, Li Changyong, also attended the event and expressed approval for Julie.
-She stated, “We need just and honest judges, and we also need to encourage the next generation of motivated young people to participate in politics and public service.”
-Report by Wang Bingyan, New York.
-Original article can be found here.
+She stated, “We need just and honest judges, and we also need to encourage the next generation of motivated young people to participate in politics and public service.” Report by Wang Bingyan, New York.
+Original article can be found here .
+Share this: Share Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Share on LinkedIn (Opens in new window) LinkedIn Share on Pinterest (Opens in new window) Pinterest Share on Tumblr (Opens in new window) Tumblr Share on Reddit (Opens in new window) Reddit Like this: Like Loading… Related Categories Articles , Gonzalo In The Press Tags Democratic Party , Gonzalo Duran , Julie M.
+Milner , Public Advocate One Reply to “Former Judge Candidate Julie Holds Thank You Event Endorses Gonzalo Duran for Public Advocate” Pingback: Gonzalo Duran Candidate for NYC Public Advocate Speaks to Democrats Against Socialism – Gonzalo Duran Leave a Reply Cancel reply Post navigation Previous Post Previous Gonzalo Duran, Candidate for NYC Public Advocate, Holds Press Conference to Oppose the Rise of Socialism in the Bronx Next Post Next Statement from Gonzalo Duran Regarding the Tragic Event at 345 Park Avenue Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

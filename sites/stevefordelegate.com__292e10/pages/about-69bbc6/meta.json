@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://stevefordelegate.com/about",
- "paid_for_by": null,
+ "fingerprint": "d5f4d04b447ae4767592fd10357adeba781bfa81",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
  "years_mentioned": [
   "2010",
   "2017",
-  "2021"
+  "2021",
+  "2026"
  ]
 }

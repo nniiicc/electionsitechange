@@ -1,6 +1,4 @@
-Paid for by Walter for Congress
-Campaign Mailing Address: PO Box 411, Elburn, IL 60119
-Campaign Phone: 630.286.9068
-Jeff Walter is a retired member of the U.S.
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Back to All Events Primary Election Night Watch Party Tuesday, March 17, 2026 6:00 PM 7:00 PM Elburn American Legion Post 630 (map) Google Calendar ICS Previous Previous March 6 Jeff Walter Meet & Greet Next Next May 6 Art and Alma's Dinner with Guest Speakers White House Correspondents Tom McCullagh and Gary Franchi Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
 Navy.
 Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

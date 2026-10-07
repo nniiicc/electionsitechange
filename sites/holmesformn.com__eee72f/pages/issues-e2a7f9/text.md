@@ -1,5 +1,4 @@
-What I’m Fighting For
-I’m not running to chase headlines or play party games—I’m running to solve problems that matter in our daily lives.
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact What I’m Fighting For I’m not running to chase headlines or play party games—I’m running to solve problems that matter in our daily lives.
 In a district like ours, that means protecting public schools, easing the cost of living, supporting the people who care for our neighbors, and making sure small towns aren’t left behind.
 These aren’t partisan issues—they’re community priorities.
 We pay more, while the wealthy and well connected pocket more.
@@ -96,7 +95,7 @@ Protecting democracy and standing up to extremism.
 The people of Minnesota deserve leaders who respect the will of voters, protect personal freedoms, and follow the rules they were elected to uphold.
 Unfortunately, too many politicians—including our current representative—treat the truth like an inconvenience, democracy like a game, and the law like it doesn’t apply to them.
 I believe in something better.
-I believe that elected officials work for you—not for themselves, not for political parties, and not to push personal agendas.
+I believe that elected officials work for you —not for themselves, not for political parties, and not to push personal agendas.
 That means protecting your right to vote, your right to privacy, and your right to live free from government overreach.
 It also means creating a Capitol that’s safe for everyone—staff, legislators, and the public—not one dominated by political stunts, threatening rhetoric, or performative outrage.
 I’ll always choose collaboration over chaos, and I’ll fight for a government that reflects our values, respects the rules, and remembers who it’s supposed to serve.
@@ -110,3 +109,5 @@ And in infrastructure dollars that disappear before they reach rural roads and b
 The truth is, our state leaders are now the last line of defense.
 That’s why I’ll fight for local control, fair funding, and smart investments that actually reach our communities.
 Because if the people in Washington won’t put Minnesotans first, then we need representatives here at home who will.
+Creative Commons Attribution-ShareAlike 3.0 Unreported Deed Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

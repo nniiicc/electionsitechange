@@ -1,6 +1,5 @@
-Signed in as:
-filler@godaddy.com
-Justice Velia J.
+CONTRIBUTE TO JUSTICE MEZA TODAY Home About Justice Velia About the 4th court CONTRIBUTE In the News Volunteer More Home About Justice Velia About the 4th court CONTRIBUTE In the News Volunteer Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Justice Velia About the 4th court CONTRIBUTE In the News Volunteer Account My Account Sign out Sign In My Account About Justice Velia J.
+Meza Justice Velia J.
 Meza grew up in El Paso, Texas.
 She attended the women's college at Columbia University in New York City where she earned her Bachelor's Degree in Economics.
 She worked briefly for Merrill Lynch, but quickly found herself working in the criminal justice system.
@@ -34,7 +33,7 @@ Meza gives honor and glory to God for the great privilege of serving her communi
 During her time as a Criminal District Court Judge, she encountered thousands of people facing uncertainty, confusion, chaos, and worries at home because of a felony accusation.
 Where possible, Justice Meza exercised her judicial discretion not only to ensure our community's safety, but also to structure felony punishment in a way that resulted in renewal and hope.
 In other cases, where the circumstances required a hefty sentence, Justice Meza delivered it swiftly.
-Copyright © 2025 Justice Velia J.
+Sign Up to Receive News & Updates SUBSCRIBE Copyright © # Justice Velia J.
 Meza Campaign- All Rights Reserved.
 Pol.
 Ad. paid by Justice Velia J.

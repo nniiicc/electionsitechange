@@ -1,18 +1,94 @@
 [
-"https://facebook.com/RonRussellforCongress",
-"https://instagram.com/ronrussellforcongress",
-"https://ronrussellforcongress.com/",
-"https://ronrussellforcongress.com/about",
-"https://ronrussellforcongress.com/contact",
-"https://ronrussellforcongress.com/event/board-meeting",
-"https://ronrussellforcongress.com/event/meeting-with-medical-workers",
-"https://ronrussellforcongress.com/event/meeting-with-the-electors",
-"https://ronrussellforcongress.com/events",
-"https://ronrussellforcongress.com/events/category/meeting/list",
-"https://ronrussellforcongress.com/events/category/meeting/list?eventDisplay=past",
-"https://ronrussellforcongress.com/issues",
-"https://ronrussellforcongress.com/privacy-policy",
-"https://ronrussellforcongress.com/volunteers",
-"https://secure.winred.com/russell-for-congress/donate-today",
-"https://x.com/RussellForHouse"
+{
+"text": "#ago",
+"href": "https://ronrussellforcongress.com/events/category/meeting/list/"
+},
+{
+"text": "(207) 604-3491",
+"href": "tel://207%20604-3491"
+},
+{
+"text": "About",
+"href": "https://ronrussellforcongress.com/about/"
+},
+{
+"text": "Board Meeting",
+"href": "https://ronrussellforcongress.com/event/board-meeting/"
+},
+{
+"text": "Contact",
+"href": "https://ronrussellforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/russell-for-congress/donate-today"
+},
+{
+"text": "Events",
+"href": "https://ronrussellforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://ronrussellforcongress.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://ronrussellforcongress.com/volunteers/"
+},
+{
+"text": "List",
+"href": "https://ronrussellforcongress.com/events/category/meeting/list/"
+},
+{
+"text": "Meeting with Medical Workers",
+"href": "https://ronrussellforcongress.com/event/meeting-with-medical-workers/"
+},
+{
+"text": "Meeting with the Electors",
+"href": "https://ronrussellforcongress.com/event/meeting-with-the-electors/"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://ronrussellforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Ron Russell] [image: Ron Russell]",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://ronrussellforcongress.com/event/board-meeting/"
+},
+{
+"text": "[image]",
+"href": "https://ronrussellforcongress.com/event/meeting-with-medical-workers/"
+},
+{
+"text": "[image]",
+"href": "https://ronrussellforcongress.com/event/meeting-with-the-electors/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RonRussellforCongress/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://ronrussellforcongress.com/events/category/meeting/list/?eventDisplay=past"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/RussellForHouse/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/ronrussellforcongress/"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Katie Kramer Campaign Events",
  "final_url": "https://kramerforalabama.com/Events?range=2026-10",
- "paid_for_by": null,
+ "fingerprint": "50cccca973b578bf5eda3a4b848f665381b55014",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Katie Kramer Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

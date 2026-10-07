@@ -1,7 +1,11 @@
 {
  "description": "RSVP Here",
  "final_url": "https://www.voteelmquist.com/events/primary-gotv-phonebank",
+ "fingerprint": "6800bccd2913a3c281152e365eeeda9f263617da",
+ "format": 3,
  "paid_for_by": "Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top",
- "title": "Primary GOTV Phonebank \u2014 Elmquist for House",
- "years_mentioned": []
+ "title": "Primary GOTV Phonebank — Elmquist for House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

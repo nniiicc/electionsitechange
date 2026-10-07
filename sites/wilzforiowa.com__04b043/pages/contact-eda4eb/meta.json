@@ -1,7 +1,11 @@
 {
  "description": "Contact the HANS WILZ Campaign",
  "final_url": "https://wilzforiowa.com/contact",
- "paid_for_by": null,
+ "fingerprint": "44938b9086573aa9be4a71cab4df9b9b8f72955c",
+ "format": 3,
+ "paid_for_by": "sponsored by Wilz for Iowa and is for informational purposes only",
  "title": "Contact the HANS WILZ Campaign",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

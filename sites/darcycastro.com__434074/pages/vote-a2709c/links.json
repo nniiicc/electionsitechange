@@ -1,26 +1,126 @@
 [
-"http://linkedin.com/in/darcy-castro-for-georgia",
-"https://bartowcountyga.gov/departments/elections/information_about_the_may_19_2026_general_primary_election.php",
-"https://cobbcounty.gov/elections/voting/advance-voting",
-"https://darcycastro.com/",
-"https://darcycastro.com/contact",
-"https://darcycastro.com/downloads",
-"https://darcycastro.com/endorsements",
-"https://darcycastro.com/event-list",
-"https://darcycastro.com/get-involved",
-"https://darcycastro.com/how-to-help",
-"https://darcycastro.com/media",
-"https://darcycastro.com/merch",
-"https://darcycastro.com/priorities",
-"https://darcycastro.com/vote",
-"https://darcycastro.com/voting-info",
-"https://facebook.com/DarcyCastroInc",
-"https://instagram.com/darcycastroga",
-"https://mvp.sos.ga.gov/s",
-"https://mvp.sos.ga.gov/s/olvr-home",
-"https://secure.actblue.com/donate/darcy-castro-for-georgia",
-"https://securemyabsenteeballot.sos.ga.gov/s",
-"https://sos.ga.gov/sites/default/files/forms/Absentee_Voting_In_Georgia_Rev_3-30-22.pdf",
-"https://tiktok.com/@darcy4ga",
-"https://youtube.com/@DarcyCastroforGeorgia"
+{
+"text": "Bartow County Junta Electoral",
+"href": "https://www.bartowcountyga.gov/departments/elections/information_about_the_may_19_2026_general_primary_election.php"
+},
+{
+"text": "Bartow County ubicaciones y horarios de los buzones de entrega",
+"href": "https://www.bartowcountyga.gov/departments/elections/information_about_the_may_19_2026_general_primary_election.php"
+},
+{
+"text": "Cobb County Junta Electoral",
+"href": "https://www.cobbcounty.gov/elections/voting/advance-voting"
+},
+{
+"text": "Cobb County ubicaciones y horarios de los buzones de entreg",
+"href": "https://www.cobbcounty.gov/elections/voting/advance-voting"
+},
+{
+"text": "Consulte aquí cuál es su centro de votación",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Contact",
+"href": "https://www.darcycastro.com/contact"
+},
+{
+"text": "Cómo Ayudar",
+"href": "https://www.darcycastro.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/darcy-castro-for-georgia"
+},
+{
+"text": "Downloadable Resources",
+"href": "https://www.darcycastro.com/downloads"
+},
+{
+"text": "En Español",
+"href": "https://www.darcycastro.com/get-involved"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darcycastro.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.darcycastro.com/event-list"
+},
+{
+"text": "How to Help",
+"href": "https://www.darcycastro.com/how-to-help"
+},
+{
+"text": "Info@DarcyCastro.com",
+"href": "mailto:Info@DarcyCastro.com"
+},
+{
+"text": "Merch",
+"href": "https://www.darcycastro.com/merch"
+},
+{
+"text": "News and Press",
+"href": "https://www.darcycastro.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.darcycastro.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darcycastro.com/contact"
+},
+{
+"text": "Votación",
+"href": "https://www.darcycastro.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://www.darcycastro.com/voting-info"
+},
+{
+"text": "[image: DC_Logo_Multi_1.png]",
+"href": "https://www.darcycastro.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DarcyCastroInc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/darcycastroga/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://www.linkedin.com/in/darcy-castro-for-georgia"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@darcy4ga"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@DarcyCastroforGeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.darcycastro.com"
+},
+{
+"text": "aquí",
+"href": "https://mvp.sos.ga.gov/s/olvr-home#no-back-button"
+},
+{
+"text": "aquí",
+"href": "https://sos.ga.gov/sites/default/files/forms/Absentee_Voting_In_Georgia_Rev_3-30-22.pdf"
+},
+{
+"text": "debe solicitar una boleta de voto en ausencia",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+},
+{
+"text": "verifique aquí el estado de su registro electoral",
+"href": "https://mvp.sos.ga.gov/s/"
+}
 ]

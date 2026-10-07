@@ -1,18 +1,70 @@
 [
-"http://fivethirtyeight.com/datalab/how-your-citys-public-transit-stacks-up",
-"http://house.ga.gov/Documents/CommitteeDocuments/2014/Critical_Trans_Infra_Funding/Transportation_Study_Committee_Final_Report_2014.pdf",
-"http://theatlantic.com/business/archive/2015/01/whats-wrong-with-georgia/384101",
-"https://facebook.com/SpencerFryeStateHouse",
-"https://flagpole.com/news/news-features/2014/04/23/the-downtown-master-plan-the-brain-train",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/blog",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/volunteer",
-"https://twitter.com/spencerfrye",
-"https://x.com/spencerfrye"
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Blog",
+"href": "https://www.spencerfrye.com/category/blog/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SpencerFryeStateHouse"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/spencerfrye"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+},
+{
+"text": "brain train",
+"href": "https://flagpole.com/news/news-features/2014/04/23/the-downtown-master-plan-the-brain-train"
+},
+{
+"text": "falls behind",
+"href": "http://www.theatlantic.com/business/archive/2015/01/whats-wrong-with-georgia/384101/"
+},
+{
+"text": "fourth busiest",
+"href": "http://fivethirtyeight.com/datalab/how-your-citys-public-transit-stacks-up/"
+},
+{
+"text": "report",
+"href": "http://www.house.ga.gov/Documents/CommitteeDocuments/2014/Critical_Trans_Infra_Funding/Transportation_Study_Committee_Final_Report_2014.pdf"
+}
 ]

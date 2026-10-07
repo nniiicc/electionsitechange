@@ -1,7 +1,9 @@
 {
  "description": "Donate to Laplante for US Senate and support community-driven change in New Hampshire. Every contribution makes a difference!",
  "final_url": "https://laplante4constitutionalnh.com/donate",
- "paid_for_by": null,
+ "fingerprint": "c76a3518b42c5f122d267eff704e90d8a5a9c845",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

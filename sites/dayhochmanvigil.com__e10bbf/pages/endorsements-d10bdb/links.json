@@ -1,24 +1,102 @@
 [
-"https://anewdayfornm.nationbuilder.com/",
-"https://apvnm.org/",
-"https://atfunion.org/",
-"https://dayhochmanvigil.com/",
-"https://dayhochmanvigil.com/2025-capital-outlay",
-"https://dayhochmanvigil.com/about-day-1",
-"https://dayhochmanvigil.com/about-district-15",
-"https://dayhochmanvigil.com/contact-us",
-"https://dayhochmanvigil.com/contribute",
-"https://dayhochmanvigil.com/endorsements",
-"https://dayhochmanvigil.com/in-the-news",
-"https://dayhochmanvigil.com/legislative-achievements",
-"https://dayhochmanvigil.com/photo-gallery",
-"https://dayhochmanvigil.com/priorities",
-"https://goiam.org/",
-"https://greenvote2026.org/about",
-"https://nmaft.org/",
-"https://nmvcaf.org/",
-"https://nmvetscaucus.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-votes-new-mexico",
-"https://riograndesierraclub.org/",
-"https://youngdemsnm.com/"
+{
+"text": "2025 Capital Outlay",
+"href": "https://dayhochmanvigil.com/2025-capital-outlay"
+},
+{
+"text": "About Day",
+"href": "https://dayhochmanvigil.com/about-day-1"
+},
+{
+"text": "About District 15",
+"href": "https://dayhochmanvigil.com/about-district-15"
+},
+{
+"text": "Contact Us",
+"href": "https://dayhochmanvigil.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://dayhochmanvigil.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://dayhochmanvigil.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://dayhochmanvigil.com/"
+},
+{
+"text": "In The News",
+"href": "https://dayhochmanvigil.com/"
+},
+{
+"text": "In the News",
+"href": "https://dayhochmanvigil.com/in-the-news"
+},
+{
+"text": "Learn More",
+"href": "https://www.greenvote2026.org/about"
+},
+{
+"text": "Learn More",
+"href": "https://www.youngdemsnm.com/"
+},
+{
+"text": "Learn more",
+"href": "https://apvnm.org/"
+},
+{
+"text": "Learn more",
+"href": "https://atfunion.org/"
+},
+{
+"text": "Learn more",
+"href": "https://nmvetscaucus.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.goiam.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.nmaft.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.nmvcaf.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-new-mexico"
+},
+{
+"text": "Learn more",
+"href": "https://www.riograndesierraclub.org/"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://dayhochmanvigil.com/legislative-achievements"
+},
+{
+"text": "Need Help With A Constituent Services Request?",
+"href": "https://dayhochmanvigil.com/about-district-15#6469be8b-f5ac-4a53-960e-0c5fef00d8b3"
+},
+{
+"text": "Photo Gallery",
+"href": "https://dayhochmanvigil.com/photo-gallery"
+},
+{
+"text": "Priorities",
+"href": "https://dayhochmanvigil.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://anewdayfornm.nationbuilder.com/"
+},
+{
+"text": "[image: Day Hochman Vigil]",
+"href": "https://dayhochmanvigil.com/"
+}
 ]

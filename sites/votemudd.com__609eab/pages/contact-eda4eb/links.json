@@ -1,11 +1,42 @@
 [
-"https://facebook.com/share/1L93oKovU6?mibextid=wwXIfr",
-"https://secure.anedot.com/ben-mudd-for-state-senate/donate",
-"https://votemudd.com/",
-"https://votemudd.com/contact",
-"https://votemudd.com/copy-of-privacy-policy",
-"https://votemudd.com/issues",
-"https://votemudd.com/meet-ben",
-"https://votemudd.com/privacy-policy",
-"https://votemudd.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.votemudd.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ben-mudd-for-state-senate/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.votemudd.com/issues"
+},
+{
+"text": "Meet Ben",
+"href": "https://www.votemudd.com/meet-ben"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votemudd.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votemudd.com/copy-of-privacy-policy"
+},
+{
+"text": "Terms and Conditions.",
+"href": "https://www.votemudd.com/copy-of-privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemudd.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1L93oKovU6/?mibextid=wwXIfr"
+},
+{
+"text": "[image: State senate (Logo).png]",
+"href": "https://www.votemudd.com"
+}
 ]

@@ -1,20 +1,90 @@
 [
-"https://awdesignsllc.com/",
-"https://facebook.com/profile.php?id=61587665953056",
-"https://instagram.com/jackson_for_pa",
-"https://jacksonforpa.com/",
-"https://jacksonforpa.com/about",
-"https://jacksonforpa.com/copy-of-priorities",
-"https://jacksonforpa.com/get-involved",
-"https://jacksonforpa.com/news",
-"https://jacksonforpa.com/news/categories/ai-legislation",
-"https://jacksonforpa.com/news/categories/economic-theory",
-"https://jacksonforpa.com/post/250th-anniversary-of-the-declaration-of-independence",
-"https://jacksonforpa.com/post/organized-labor-an-engine-of-democracy",
-"https://jacksonforpa.com/post/providing-economic-opportunity-for-the-franklin-county-middle-class",
-"https://jacksonforpa.com/priorities",
-"https://jacksonforpa.com/vote",
-"https://linkedin.com/in/shanon-jackson-460b163aa",
-"https://secure.actblue.com/donate/shannon-jackson-1",
-"https://x.com/Jackson_For_PA"
+{
+"text": "ABOUT",
+"href": "https://www.jacksonforpa.com/about"
+},
+{
+"text": "AI Legislation",
+"href": "https://www.jacksonforpa.com/news/categories/ai-legislation"
+},
+{
+"text": "AW Designs",
+"href": "https://www.awdesignsllc.com/"
+},
+{
+"text": "DONATE",
+"href": "https://www.jacksonforpa.com/copy-of-priorities"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannon-jackson-1"
+},
+{
+"text": "Economic Theory",
+"href": "https://www.jacksonforpa.com/news/categories/economic-theory"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jacksonforpa.com/get-involved"
+},
+{
+"text": "NEWS & EVENTS",
+"href": "https://www.jacksonforpa.com/news"
+},
+{
+"text": "Organized Labor: An Engine of Democracy",
+"href": "https://www.jacksonforpa.com/post/organized-labor-an-engine-of-democracy"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.jacksonforpa.com/priorities"
+},
+{
+"text": "Providing Economic Opportunity for the Franklin County Middle Class",
+"href": "https://www.jacksonforpa.com/post/providing-economic-opportunity-for-the-franklin-county-middle-class"
+},
+{
+"text": "See All",
+"href": "https://www.jacksonforpa.com/news"
+},
+{
+"text": "The 250th Anniversary of the Declaration of Independence",
+"href": "https://www.jacksonforpa.com/post/250th-anniversary-of-the-declaration-of-independence"
+},
+{
+"text": "VOTE TUES NOV 3",
+"href": "https://www.jacksonforpa.com/vote"
+},
+{
+"text": "[image: 250th Anniversary Declaration of Independence]",
+"href": "https://www.jacksonforpa.com/post/250th-anniversary-of-the-declaration-of-independence"
+},
+{
+"text": "[image: Is there a solution to the middle-class financial crisis?]",
+"href": "https://www.jacksonforpa.com/post/providing-economic-opportunity-for-the-franklin-county-middle-class"
+},
+{
+"text": "[image: Jackson for PA Logo]",
+"href": "https://www.jacksonforpa.com"
+},
+{
+"text": "[image: Solidarity Union meeting in Gdansk, Poland]",
+"href": "https://www.jacksonforpa.com/post/organized-labor-an-engine-of-democracy"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/Jackson_For_PA"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61587665953056"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/jackson_for_pa/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/shanon-jackson-460b163aa/"
+}
 ]

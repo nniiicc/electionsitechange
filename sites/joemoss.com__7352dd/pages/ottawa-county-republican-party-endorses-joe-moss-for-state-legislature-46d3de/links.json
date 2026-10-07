@@ -1,20 +1,74 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature",
-"https://facebook.com/JoeMossforOCC",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&t=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature",
-"https://joemoss.com/",
-"https://joemoss.com/about",
-"https://joemoss.com/blog",
-"https://joemoss.com/contact",
-"https://joemoss.com/district-map",
-"https://joemoss.com/endorsements",
-"https://joemoss.com/jobs",
-"https://joemoss.com/terms",
-"https://joemoss.com/volunteer",
-"https://linkedin.com/in/joe-moss",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&title=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature&summary=On+June+2%2C+2026%2C+the+Ottawa+County+Republican+Party+delegates+gathered+for+the+2026+Endorsement+Convention+to+vote+to+endorse+candidates+for+the+August+4%2C+2026+Primary+Election.%0D%0A%0D%0AJoe+Moss+received+the+highest+vote+of+any+contested+primary+election%2C+with+",
-"https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&title=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature",
-"https://secure.winred.com/joemoss/donate",
-"https://x.com/JoeMoss",
-"https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&text=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature"
+{
+"text": "About",
+"href": "https://joemoss.com/about"
+},
+{
+"text": "Contact",
+"href": "https://joemoss.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://joemoss.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joemoss.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoeMossforOCC"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&t=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature"
+},
+{
+"text": "Jobs",
+"href": "https://joemoss.com/jobs"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joe-moss/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&title=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature&summary=On+June+2%2C+2026%2C+the+Ottawa+County+Republican+Party+delegates+gathered+for+the+2026+Endorsement+Convention+to+vote+to+endorse+candidates+for+the+August+4%2C+2026+Primary+Election.%0D%0A%0D%0AJoe+Moss+received+the+highest+vote+of+any+contested+primary+election%2C+with+"
+},
+{
+"text": "News",
+"href": "https://joemoss.com/blog"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&title=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature"
+},
+{
+"text": "Terms",
+"href": "https://joemoss.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://joemoss.com/volunteer"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature"
+},
+{
+"text": "X",
+"href": "https://x.com/JoeMoss"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fottawa-county-republican-party-endorses-joe-moss-for-state-legislature&text=Ottawa+County+Republican+Party+Endorses+Joe+Moss+for+State+Legislature"
+},
+{
+"text": "[image: Joe Moss Logo] [image: Joe Moss Logo]",
+"href": "https://joemoss.com/"
+}
 ]

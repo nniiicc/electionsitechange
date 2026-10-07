@@ -1,13 +1,10 @@
-Gonzalo Duran in the Press
-Former Judge Candidate Julie Holds Thank You Event Endorses Gonzalo Duran for Public Advocate
-Gonzalo Duran NYC Votes 2023 Online
-Bronx Times: Duran Pivots from Dems to Conservative Party
-Bronx Times: Former Marine Gonzalo Duran Runs For City Council
-The Riverdale Press: Gonzalo Duran Plays Santa
-ABC Connecticut Style: Features Gonzalo Duran
-When I got out of the military I had difficulties with realtors accepting my Post 9/11 G.
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Category: Gonzalo In The Press Posted on April 25, 2026 April 25, 2026 Senator Chuck Schumer & Gonzalo Duran On the Voting Rights Act Posted on September 11, 2025 April 28, 2026 Gonzalo Duran in the Press Posted on July 28, 2025 July 28, 2025 Former Judge Candidate Julie Holds Thank You Event Endorses Gonzalo Duran for Public Advocate Posted on October 20, 2023 October 29, 2023 Gonzalo Duran NYC Votes 2023 Online Posted on May 17, 2023 August 8, 2023 Bronx Times: Duran Pivots from Dems to Conservative Party Posted on January 19, 2023 August 8, 2023 Bronx Times: Former Marine Gonzalo Duran Runs For City Council Posted on January 6, 2023 August 8, 2023 The Riverdale Press: Gonzalo Duran Plays Santa Posted on June 19, 2017 August 8, 2023 ABC Connecticut Style: Features Gonzalo Duran When I got out of the military I had difficulties with realtors accepting my Post 9/11 G.
 I.
 Bill.
 It is a Veteran’s educational benefit meant to pay for tuition and living expenses, but with no housing address, I was unable to retrieve my household goods such as my clothing.
 This left me seeking assistance through Save A Suit.
 I received a donated suit for my first interview and landed the job, which helped turn things around in a tremendous way.
+Posted on June 6, 2017 News 8 Connecticut Interview: Candidate Gonzalo Duran Posted on June 4, 2017 Riverdale Press: Gonzalo Duran Makes The Front Page Posts pagination Page 1 Page 2 Next page Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress

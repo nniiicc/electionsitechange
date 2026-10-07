@@ -1,14 +1,58 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Marion+County+Fair+Parade&dates=20250726T150000Z%2F20250726T160000Z",
-"https://facebook.com/profile.php?id=61577003908156",
-"https://mcelvainformissouri.com/",
-"https://mcelvainformissouri.com/about-me",
-"https://mcelvainformissouri.com/cart",
-"https://mcelvainformissouri.com/contat",
-"https://mcelvainformissouri.com/endorsements",
-"https://mcelvainformissouri.com/events",
-"https://mcelvainformissouri.com/events/july-4th-parade",
-"https://mcelvainformissouri.com/events/marion-county-fair-parade?format=ical",
-"https://mcelvainformissouri.com/events/marion-county-fair-sale-of-champions",
-"https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+{
+"text": "0",
+"href": "https://www.mcelvainformissouri.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.mcelvainformissouri.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.mcelvainformissouri.com/contat"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcelvainformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577003908156"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marion+County+Fair+Parade&dates=20250726T150000Z%2F20250726T160000Z"
+},
+{
+"text": "Home",
+"href": "https://www.mcelvainformissouri.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-parade?format=ical"
+},
+{
+"text": "Next Next August 2 Marion County Fair Sale of Champions",
+"href": "https://www.mcelvainformissouri.com/events/marion-county-fair-sale-of-champions"
+},
+{
+"text": "Previous Previous July 4 July 4th Parade",
+"href": "https://www.mcelvainformissouri.com/events/july-4th-parade"
+},
+{
+"text": "[image: Roth McElvain]",
+"href": "https://www.mcelvainformissouri.com/"
+}
 ]

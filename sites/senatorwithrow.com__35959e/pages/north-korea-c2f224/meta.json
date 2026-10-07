@@ -1,7 +1,11 @@
 {
  "description": "Dennis Rodman did a better job dealing with the Kims than any American Politician since the revolution.",
  "final_url": "https://www.senatorwithrow.com/north-korea",
- "paid_for_by": null,
+ "fingerprint": "7f50098a33e33744cc754df1f2382ee6cc96efe8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "North Korea | Adam Withrow for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1960"
+ ]
 }

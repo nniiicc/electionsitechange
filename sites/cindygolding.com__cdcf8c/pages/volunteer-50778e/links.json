@@ -1,13 +1,54 @@
 [
-"https://cindygolding.com/",
-"https://cindygolding.com/about",
-"https://cindygolding.com/contact",
-"https://cindygolding.com/iowa-speaks",
-"https://cindygolding.com/issues",
-"https://cindygolding.com/posts",
-"https://cindygolding.com/sign-me-up",
-"https://cindygolding.com/volunteer",
-"https://cindygolding.com/vote",
-"https://secure.anedot.com/d9960171-0760-4d53-947a-023aadcf50a0/donate",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://cindygolding.com/about/"
+},
+{
+"text": "Cindy Golding.",
+"href": "https://cindygolding.com/"
+},
+{
+"text": "Contact",
+"href": "https://cindygolding.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/d9960171-0760-4d53-947a-023aadcf50a0/donate"
+},
+{
+"text": "Home",
+"href": "https://www.cindygolding.com"
+},
+{
+"text": "I am ready to volunteer!",
+"href": "https://cindygolding.com/sign-me-up/"
+},
+{
+"text": "Iowa Speaks",
+"href": "https://cindygolding.com/iowa-speaks/"
+},
+{
+"text": "Issues",
+"href": "https://cindygolding.com/issues/"
+},
+{
+"text": "Newsletters",
+"href": "https://cindygolding.com/posts/"
+},
+{
+"text": "Volunteer",
+"href": "https://cindygolding.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://cindygolding.com/vote/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Cindy Golding]",
+"href": "https://cindygolding.com/"
+}
 ]

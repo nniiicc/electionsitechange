@@ -1,14 +1,50 @@
 [
-"http://twitter.com/cindy_neighbor",
-"https://cindyneighbor.com/",
-"https://cindyneighbor.com/2020",
-"https://cindyneighbor.com/donate",
-"https://cindyneighbor.com/endorsements",
-"https://cindyneighbor.com/meet-cindy",
-"https://cindyneighbor.com/platform",
-"https://cindyneighbor.com/v",
-"https://facebook.com/CindyNeighborForKS",
-"https://gunsensevoter.org/candidates?candidateName=Cindy+Neighbor&officeLevel=state",
-"https://kfb.org/Article/KFBs-VOTE-FBF-announces-endorsements-for-Kansas-Senate-House-elections",
-"https://knea.org/2026-elections"
+{
+"text": "CONTRIBUTE",
+"href": "https://www.cindyneighbor.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.cindyneighbor.com/endorsements"
+},
+{
+"text": "Gun Sense Candidates",
+"href": "https://gunsensevoter.org/candidates/?candidateName=Cindy+Neighbor&officeLevel=state"
+},
+{
+"text": "HOME",
+"href": "https://www.cindyneighbor.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.cindyneighbor.com/platform"
+},
+{
+"text": "Kansas Farm Bureau PAC",
+"href": "https://www.kfb.org/Article/KFBs-VOTE-FBF-announces-endorsements-for-Kansas-Senate-House-elections"
+},
+{
+"text": "Kansas National Education Association PAC",
+"href": "https://knea.org/2026-elections"
+},
+{
+"text": "MEET CINDY",
+"href": "https://www.cindyneighbor.com/meet-cindy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.cindyneighbor.com/v"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.cindyneighbor.com/2020"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/CindyNeighborForKS/"
+},
+{
+"text": "[image: X ]",
+"href": "http://www.twitter.com/cindy_neighbor"
+}
 ]

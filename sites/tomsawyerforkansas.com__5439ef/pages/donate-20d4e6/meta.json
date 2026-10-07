@@ -1,6 +1,8 @@
 {
  "description": "A link that allows you to donate online to the Tom Sawyer for State Representative campaign.",
  "final_url": "https://www.tomsawyerforkansas.com/donate",
+ "fingerprint": "eab25ae890237575189dcb7a527f84e5dbc594e8",
+ "format": 3,
  "paid_for_by": "Paid for by Sawyer for Representative, Tom Sawyer, Treasurer Powered by Webador",
  "title": "Donate to Tom Sawyer for State Representative",
  "years_mentioned": [

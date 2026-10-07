@@ -1,31 +1,122 @@
 [
-"http://arkleg.state.ar.us/assembly/2017/2018F/Pages/Home.aspx",
-"http://shilohmuseum.org/",
-"http://siloamchamber.com/",
-"http://siloamspringsmuseum.com/",
-"http://springdale.com/",
-"http://springdalear.gov/",
-"http://therichlandgroup.com/",
-"http://tontitowngrapefestival.com/",
-"https://arkansas.com/",
-"https://bentoncountyar.gov/",
-"https://co.washington.ar.us/",
-"https://downtownspringdale.org/",
-"https://elmsprings.net/",
-"https://facebook.com/Robin-Lundstrum-457537847631425",
-"https://historicelmsprings.com/",
-"https://lundstrum4arkansas.com/",
-"https://lundstrum4arkansas.com/about-robin",
-"https://lundstrum4arkansas.com/contact-us",
-"https://lundstrum4arkansas.com/donate-to-our-campaign",
-"https://lundstrum4arkansas.com/get-involved",
-"https://lundstrum4arkansas.com/links",
-"https://lundstrum4arkansas.com/map",
-"https://lundstrum4arkansas.com/privacy-policy",
-"https://mainstreetsiloam.org/",
-"https://portal.arkansas.gov/",
-"https://siloamsprings.com/",
-"https://tontitown.com/",
-"https://tontitown.com/index.php/museum",
-"https://twitter.com/RobinLundstrum"
+{
+"text": "Arkansas State Legislature",
+"href": "http://www.arkleg.state.ar.us/assembly/2017/2018F/Pages/Home.aspx"
+},
+{
+"text": "Arkansas Tourism",
+"href": "https://www.arkansas.com/"
+},
+{
+"text": "Benton County",
+"href": "https://bentoncountyar.gov/"
+},
+{
+"text": "Contact",
+"href": "https://lundstrum4arkansas.com/contact-us/"
+},
+{
+"text": "District 18",
+"href": "https://lundstrum4arkansas.com/map/"
+},
+{
+"text": "Donate",
+"href": "https://lundstrum4arkansas.com/donate-to-our-campaign/"
+},
+{
+"text": "Downtown Springdale Alliance",
+"href": "https://downtownspringdale.org/"
+},
+{
+"text": "Elm Springs",
+"href": "https://www.elmsprings.net/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Robin-Lundstrum-457537847631425/"
+},
+{
+"text": "Get Involved!",
+"href": "https://lundstrum4arkansas.com/get-involved/"
+},
+{
+"text": "Historic Elm Springs",
+"href": "https://www.historicelmsprings.com/"
+},
+{
+"text": "Home",
+"href": "https://lundstrum4arkansas.com/"
+},
+{
+"text": "Links",
+"href": "https://lundstrum4arkansas.com/links/"
+},
+{
+"text": "Main Street Siloam Springs",
+"href": "https://mainstreetsiloam.org/"
+},
+{
+"text": "Meet Robin",
+"href": "https://lundstrum4arkansas.com/about-robin/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lundstrum4arkansas.com/privacy-policy/"
+},
+{
+"text": "Shiloh Museum of Ozark History",
+"href": "http://www.shilohmuseum.org/"
+},
+{
+"text": "Siloam Springs",
+"href": "https://www.siloamsprings.com/"
+},
+{
+"text": "Siloam Springs Chamber of Commerce",
+"href": "http://www.siloamchamber.com/"
+},
+{
+"text": "Siloam Springs Museum",
+"href": "http://www.siloamspringsmuseum.com/"
+},
+{
+"text": "Springdale",
+"href": "http://www.springdalear.gov/"
+},
+{
+"text": "Springdale Chamber of Commerce",
+"href": "http://springdale.com/"
+},
+{
+"text": "State of Arkansas Government",
+"href": "https://portal.arkansas.gov/"
+},
+{
+"text": "The Richland Group",
+"href": "http://therichlandgroup.com"
+},
+{
+"text": "Tontitown",
+"href": "https://www.tontitown.com/"
+},
+{
+"text": "Tontitown Grape Festival",
+"href": "http://www.tontitowngrapefestival.com/"
+},
+{
+"text": "Tontitown Historical Museum",
+"href": "https://www.tontitown.com/index.php/museum"
+},
+{
+"text": "Washington County",
+"href": "https://www.co.washington.ar.us/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/RobinLundstrum"
+},
+{
+"text": "[image: Lundstrum for Arkansas]",
+"href": "https://lundstrum4arkansas.com/"
+}
 ]

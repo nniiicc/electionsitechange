@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61580277235089&sk=about",
-"https://hansonformn.sitesab.com/",
-"https://hansonformn.sitesab.com/accessibility-statement",
-"https://hansonformn.sitesab.com/events",
-"https://hansonformn.sitesab.com/issues",
-"https://hansonformn.sitesab.com/meet-candidate",
-"https://heyvictor.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://hansonformn.sitesab.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Events",
+"href": "https://hansonformn.sitesab.com/events/"
+},
+{
+"text": "Home",
+"href": "https://hansonformn.sitesab.com/"
+},
+{
+"text": "Issues",
+"href": "https://hansonformn.sitesab.com/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://hansonformn.sitesab.com/meet-candidate/"
+},
+{
+"text": "[image] [image]",
+"href": "https://hansonformn.sitesab.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61580277235089&sk=about"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

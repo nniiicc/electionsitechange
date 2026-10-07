@@ -1,8 +1,8 @@
-Who is JJ?
-First and foremost, JJ is a fighter.
+JJ DeFeo for Fremont NH State House District RO-7 Menu Menu Home Volunteer My Policies Why I'm The Right Choice Endorsements Contact Me Donate Who is JJ?
+First and foremost, JJ is a fighter .
 From a young age, he knew that if we wanted to see the world change, he had to get out there and do something about it.
 In the photo to the left, you can see JJ protesting for individual rights when he was in 6th grade, only 11 years old.
-He had to beg his parents to let him go, because when he heard that others were going to be out there working to make their communities a safer place, he refused to stand aside and let others do the hard work without him.
+He had to beg his parents to let him go, because when he heard that others were going to be out there working to make their communities a safer place, he refused to stand aside and let others do the hard work without him .
 Throughout his entire life, JJ has continued pushing what he believes in and fighting for his friends and neighbors.
 The photo to the right, JJ is in 8th grade, telling Pete Broderick, Jim Baker, the rest of the Sanborn School District Board, and former Superintendent Thomas Ambrose that their plan of school consolidation was a horrible idea which saved nearly no money and forced 10 year olds into the same spaces as 19 year olds.
 Most of all, this plan was the first steps in their plan to force Fremont to either get kicked out of SRHS or take an awful deal.
@@ -21,5 +21,8 @@ More broadly, his public affairs education taught him how to attack the root cau
 Today, JJ is running for State Representative, because his unique experiences have inspired him to be the change we NEED to see in NH.
 He doesn't believe that we are being treated right, and that our state government is being controlled by pro-2-party system extremists who intend to keep voters like us down; this is unacceptable, and he is proud to be supported by a nonpartisan coalition of citizens who want Fremont and NH to have a better tomorrow.
 Photo Credits: (1) Diane Glose, (2&3) Sanborn Regional School District, (4) JJ DeFeo & AIP, (5) WZMQ-19 & James Madison College & Dr.
-Jordan Cash
-*Presence of AIP, NIST, OAM, and/or ManufacturingUSA logos, imagery, or text, in images does not imply endorsement by or support on behalf of those organizations or the United States Government.
+Jordan Cash *Presence of AIP, NIST, OAM, and/or ManufacturingUSA logos, imagery, or text, in images does not imply endorsement by or support on behalf of those organizations or the United States Government.
+Follow Facebook Instagram Phone Email © JJ DeFeo.
+All rights reserved.
+Paid for by JJ for NH, JJ DeFeo, Treasurer.
+Design: HTML5 UP

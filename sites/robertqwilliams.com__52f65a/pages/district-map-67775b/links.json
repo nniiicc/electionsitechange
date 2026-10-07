@@ -1,10 +1,34 @@
 [
-"https://robertqwilliams.com/",
-"https://robertqwilliams.com/about",
-"https://robertqwilliams.com/contact",
-"https://robertqwilliams.com/copy-of-district-map",
-"https://robertqwilliams.com/district-map",
-"https://robertqwilliams.com/get-involved",
-"https://robertqwilliams.com/on-the-issues",
-"https://secure.actblue.com/donate/robert-williams"
+{
+"text": "About",
+"href": "https://www.robertqwilliams.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.robertqwilliams.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/robert-williams"
+},
+{
+"text": "District Map",
+"href": "https://www.robertqwilliams.com/district-map"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robertqwilliams.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.robertqwilliams.com"
+},
+{
+"text": "On the Issues",
+"href": "https://www.robertqwilliams.com/on-the-issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.robertqwilliams.com/copy-of-district-map"
+}
 ]

@@ -1,8 +1,46 @@
 [
-"http://wix.com/",
-"https://facebook.com/VoteTylerPaulSmith",
-"https://tpsforstatehouse.com/",
-"https://tpsforstatehouse.com/about",
-"https://tpsforstatehouse.com/donate",
-"https://tpsforstatehouse.com/issues"
+{
+"text": "About",
+"href": "https://www.tpsforstatehouse.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.tpsforstatehouse.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.tpsforstatehouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.tpsforstatehouse.com/issues"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com"
+},
+{
+"text": "[image: Facebook Clean ]",
+"href": "https://www.facebook.com/VoteTylerPaulSmith"
+},
+{
+"text": "[no text]",
+"href": "https://www.tpsforstatehouse.com/#comp-l9ugus69"
+},
+{
+"text": "[no text]",
+"href": "https://www.tpsforstatehouse.com/#comp-l9ugzpv0"
+},
+{
+"text": "[no text]",
+"href": "https://www.tpsforstatehouse.com/#comp-l9ugzzqb"
+},
+{
+"text": "[no text]",
+"href": "https://www.tpsforstatehouse.com/#comp-mlpa4r65"
+},
+{
+"text": "[no text]",
+"href": "https://www.tpsforstatehouse.com/#comp-mlpad2da"
+}
 ]

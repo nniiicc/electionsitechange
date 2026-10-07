@@ -1,20 +1,4 @@
-TRUSTED STATE REPRESENTATIVE
-PROVEN SMALL BUSINESS EXPERIENCE
-WIFE, MOM AND COMMUNITY LEADER
-MEET ANN FLOOD
-A Champion for Northampton County Families
-As our State Representative, Ann has continued her commitment to helping and serving others because nothing is more important to her than faith, family, country, and community.
+0 Skip to Content Ann Flood | State Representative Home About DONATE NOW Open Menu Close Menu Ann Flood | State Representative Home About DONATE NOW Open Menu Close Menu Home About DONATE NOW TRUSTED STATE REPRESENTATIVE PROVEN SMALL BUSINESS EXPERIENCE WIFE, MOM AND COMMUNITY LEADER MEET ANN FLOOD A Champion for Northampton County Families As our State Representative, Ann has continued her commitment to helping and serving others because nothing is more important to her than faith, family, country, and community.
 Her journey to the Pennsylvania House of Representatives was driven by a profound desire to make a difference and to improve the lives of others.
 Elected in 2020, Ann has worked hard to be a strong advocate and to represent the priorities of her constituents in Northampton’s 138th District in Harrisburg and here at home.
-COMMONSENSE CONSERVATIVE
-A PROVEN RECORD OF RESULTS
-- Protecting Taxpayers by opposing unfair tax increases, implementing budgeting reforms, cutting wasteful spending and backing more transparency
-- Putting Our Workers First by stopping job-crushing regulations, supporting American energy and standing up for our small businesses
-- Supporting Public Safety by ensuring our police and first responders have the tools to do their jobs and sponsoring policies to keep us safe
-- Prioritizing Our Students by pushing for an education system that allows parents to choose a path that meets the needs of their children
-- Helping Families and Improving Our Quality of Life by writing the law to stop opioid doctor and pharmacy shopping, and by working to stop elder abuse
-ENDORSED BY THOSE WE TRUST
-ANN FLOOD IS PROUDLY ENDORSED BY
-PA Chamber of Business and Industry
-National Federation of Independent Businesses (NFIB)
-National Rifle Association (NRA)
+Learn more COMMONSENSE CONSERVATIVE A PROVEN RECORD OF RESULTS Protecting Taxpayers by opposing unfair tax increases, implementing budgeting reforms, cutting wasteful spending and backing more transparency Putting Our Workers First by stopping job-crushing regulations, supporting American energy and standing up for our small businesses Supporting Public Safety by ensuring our police and first responders have the tools to do their jobs and sponsoring policies to keep us safe Prioritizing Our Students by pushing for an education system that allows parents to choose a path that meets the needs of their children Helping Families and Improving Our Quality of Life by writing the law to stop opioid doctor and pharmacy shopping, and by working to stop elder abuse ENDORSED BY THOSE WE TRUST ANN FLOOD IS PROUDLY ENDORSED BY PA Chamber of Business and Industry National Federation of Independent Businesses (NFIB) National Rifle Association (NRA) JOIN ANN’S TEAM TODAY DONATE NOW PAID FOR BY FRIENDS OF ANN FLOOD Copyright # Friends of Ann Flood

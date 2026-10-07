@@ -1,13 +1,66 @@
 [
-"https://facebook.com/weiseforcongress",
-"https://weiseforcongress.com/",
-"https://weiseforcongress.com/about-me",
-"https://weiseforcongress.com/blog",
-"https://weiseforcongress.com/donate-page",
-"https://weiseforcongress.com/issues",
-"https://weiseforcongress.com/media",
-"https://weiseforcongress.com/post/campaign-kickoff",
-"https://weiseforcongress.com/profile/nathan-weise-socials39015/profile",
-"https://weiseforcongress.com/volunteer",
-"https://x.com/weise4congress"
+{
+"text": "About",
+"href": "https://www.weiseforcongress.com/about-me"
+},
+{
+"text": "All Posts",
+"href": "https://www.weiseforcongress.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.weiseforcongress.com/donate-page"
+},
+{
+"text": "Donate to Weise for Congress",
+"href": "https://www.weiseforcongress.com/donate-page"
+},
+{
+"text": "Home",
+"href": "https://www.weiseforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.weiseforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.weiseforcongress.com/media"
+},
+{
+"text": "Nathan Weise",
+"href": "https://www.weiseforcongress.com/profile/nathan-weise-socials39015/profile"
+},
+{
+"text": "Nathan Weise Officially Launches Campaign for U.S. House in Ohio’s 1st Congressional District",
+"href": "https://www.weiseforcongress.com/post/campaign-kickoff"
+},
+{
+"text": "Volunteer",
+"href": "https://www.weiseforcongress.com/volunteer"
+},
+{
+"text": "[image: Nathan-Weise-for-Congress-logo]",
+"href": "https://www.weiseforcongress.com"
+},
+{
+"text": "[image: Writer: Nathan Weise]",
+"href": "https://www.weiseforcongress.com/profile/nathan-weise-socials39015/profile"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/weiseforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/weiseforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/weise4congress"
+},
+{
+"text": "support@weiseforcongress.com",
+"href": "mailto:support@weiseforcongress.com"
+}
 ]

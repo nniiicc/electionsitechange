@@ -1,23 +1,21 @@
-Retzke for Representative Campaign Unveils Comprehensive Education Finance Reform Plan to Relieve Property Taxpayers and Restore Public School Funding
-July 12, 2026
-The Retzke for Representative campaign today released an expanded policy platform on state education funding, presenting a detailed roadmap to tackle Ohio’s property tax crisis by reforming the state’s expanding private school voucher system and fully funding community public schools across Ohio House District 89.
+Home Meet the Candidate My Platform News Events Donate Follow us Donate Follow us Menu Retzke for Representative Campaign Unveils Comprehensive Education Finance Reform Plan to Relieve Property Taxpayers and Restore Public School Funding July 12, 2026 The Retzke for Representative campaign today released an expanded policy platform on state education funding, presenting a detailed roadmap to tackle Ohio’s property tax crisis by reforming the state’s expanding private school voucher system and fully funding community public schools across Ohio House District 89.
 Over 88% of K–12 students in Ohio, including thousands of children across Erie and Huron counties, rely on public school districts for their education.
 However, recent state budget expansions to programs like EdChoice have pushed state spending on nonpublic tuition vouchers above $1 billion annually.
 The campaign highlighted how this structural shift in state spending creates an unsustainable financial ripple effect across local municipalities.
 When state revenues are diverted away from traditional public school systems, local school districts are left with structural budget shortfalls.
 To keep classrooms open, cover fixed operational costs, and maintain competitive programs, local school boards are forced to place recurring operating levies on local ballots.
 The burden of these levies falls directly on property owners, fueling rapid increases in local property tax bills for homeowners, agricultural landowners, and local small businesses.
-Understanding the Crisis: How Vouchers Drive Property Tax Hikes
-- State Revenue Diversion: Over $1 billion in state general revenue funds are allocated annually to private school tuition vouchers, subsidizing nonpublic education even for high-income households up to and above 450% of the federal poverty level.
-- Local Budget Shortfalls: As state support fails to cover the full, actual cost of local public education, community districts face widening operational deficits.
-- Emergency Tax Levies: To make up the difference, local districts must repeatedly request emergency operating levies from voters.
-- Taxpayer Strain: Homeowners, seniors on fixed incomes, and farmers bear the cost through elevated real estate property assessments and local tax increases.
+Understanding the Crisis: How Vouchers Drive Property Tax Hikes State Revenue Diversion : Over $1 billion in state general revenue funds are allocated annually to private school tuition vouchers, subsidizing nonpublic education even for high-income households up to and above 450% of the federal poverty level.
+Local Budget Shortfalls: As state support fails to cover the full, actual cost of local public education, community districts face widening operational deficits.
+Emergency Tax Levies : To make up the difference, local districts must repeatedly request emergency operating levies from voters.
+Taxpayer Strain: Homeowners, seniors on fixed incomes, and farmers bear the cost through elevated real estate property assessments and local tax increases.
 “Putting Ohio taxpayers and public school students first requires an honest, practical approach to state budget priorities,” said Easton Retzke, candidate for Ohio House District 89.
 “When state dollars are funneled into private school vouchers, local public districts are left with funding gaps that get passed directly onto working families through higher local property taxes.
-By reining in runaway voucher spending and honoring our state’s commitment to public education, we can safeguard tax dollars, support our local schools, and put an end to the endless cycle of local tax hikes.”
-Key Pillars of Retzke’s Education Platform
-The campaign’s legislative proposal centers on three core commitments to voters in Erie, Ottawa, and Huron counties:
-- Protecting Taxpayer Dollars: Reallocating unrestricted voucher expansion funds back into the general fund to fully phase in the Fair School Funding Plan, ensuring predictable, direct state investment in public school districts.
-- Delivering Structural Property Tax Relief: Closing state funding gaps so community school districts no longer need to rely on frequent local emergency property tax levies to maintain basic operations.
-- Ensuring Accountability and Transparency: Requiring strict fiscal oversight, public auditing, and educational performance reporting for any entity receiving state taxpayer dollars.
-Retzke remains dedicated to grassroots voter outreach and proposing actionable legislative solutions for working families throughout Northern Ohio.
+By reining in runaway voucher spending and honoring our state’s commitment to public education, we can safeguard tax dollars, support our local schools, and put an end to the endless cycle of local tax hikes.” Key Pillars of Retzke’s Education Platform The campaign’s legislative proposal centers on three core commitments to voters in Erie, Ottawa, and Huron counties: Protecting Taxpayer Dollars: Reallocating unrestricted voucher expansion funds back into the general fund to fully phase in the Fair School Funding Plan, ensuring predictable, direct state investment in public school districts.
+Delivering Structural Property Tax Relief: Closing state funding gaps so community school districts no longer need to rely on frequent local emergency property tax levies to maintain basic operations.
+Ensuring Accountability and Transparency: Requiring strict fiscal oversight, public auditing, and educational performance reporting for any entity receiving state taxpayer dollars.
+Retzke remains dedicated to grassroots voter outreach and proposing actionable legislative solutions for working families throughout Northern Ohio. ← Back To News In Other News Press Release September 30, 2026 Sandusky City Commissioner Richard Koonce Endorses Easton Retzke for Ohio House District 89 Read Press Release News Article September 26, 2026 In-school debate series returns Read Article Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet the Candidate My Platform News Events Donate Follow us Terms of Service Contact Accessibility Statement Paid for by the committee to elect easton retzke 403.
+E.
+Washington St.
+Sandusky, OH 44870 Email: info@retzkeforrepresentative.com Retzke for Representative © #

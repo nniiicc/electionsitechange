@@ -1,7 +1,20 @@
 {
  "description": "Legislation Julie Olthoff Republican Indiana State Representative candidate",
  "final_url": "https://votersforjulie.com/legislation.php",
+ "fingerprint": "c2962ae839fa54718eeb93679e379c937a03d8ba",
+ "format": 3,
  "paid_for_by": "Paid for by Voters for Julie Olthoff",
  "title": "Voters for Julie Olthoff",
- "years_mentioned": []
+ "years_mentioned": [
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

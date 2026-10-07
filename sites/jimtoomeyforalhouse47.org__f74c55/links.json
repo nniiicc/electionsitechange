@@ -1,13 +1,54 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://pinterest.com/squarespace",
-"http://squarespace.com/",
-"https://jimtoomeyforalhouse47.org/",
-"https://jimtoomeyforalhouse47.org/about",
-"https://jimtoomeyforalhouse47.org/cart",
-"https://jimtoomeyforalhouse47.org/contact",
-"https://jimtoomeyforalhouse47.org/donate",
-"https://jimtoomeyforalhouse47.org/join",
-"https://jimtoomeyforalhouse47.org/vision"
+{
+"text": "0",
+"href": "https://www.jimtoomeyforalhouse47.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.jimtoomeyforalhouse47.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jimtoomeyforalhouse47.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jimtoomeyforalhouse47.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jimtoomeyforalhouse47.org/"
+},
+{
+"text": "Jim Toomey for AL State House District 47",
+"href": "https://www.jimtoomeyforalhouse47.org/"
+},
+{
+"text": "Learn more about Jim",
+"href": "https://www.jimtoomeyforalhouse47.org/vision"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Vision",
+"href": "https://www.jimtoomeyforalhouse47.org/vision"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://pinterest.com/squarespace"
+},
+{
+"text": "⟶",
+"href": "https://www.jimtoomeyforalhouse47.org/join"
+}
 ]

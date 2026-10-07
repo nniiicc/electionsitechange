@@ -1,9 +1,14 @@
 {
  "description": "Meet Woody",
  "final_url": "https://www.dougwoodforvthouse.org/about-doug",
- "paid_for_by": null,
+ "fingerprint": "b7ccb07394ba868f880707c5bdc2ba92d24da751",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Wood is Good! - About Doug",
  "years_mentioned": [
+  "1998",
+  "2001",
+  "2002",
   "2014",
   "2025"
  ]

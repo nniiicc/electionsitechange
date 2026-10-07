@@ -1,5 +1,18 @@
 [
-"https://electmarsh.org/contact",
-"https://electmarsh.org/donate",
-"https://electmarsh.org/home"
+{
+"text": "Contact",
+"href": "https://www.electmarsh.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electmarsh.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "MARSH for MI",
+"href": "https://www.electmarsh.org/home"
+}
 ]

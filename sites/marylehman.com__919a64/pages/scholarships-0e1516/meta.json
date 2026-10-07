@@ -1,7 +1,12 @@
 {
  "description": "Delegate Lehman's Scholarship Form: Currently closed for applications. Please check back in the winter for opportunities or contact for inquiries.",
  "final_url": "https://www.marylehman.com/scholarships",
- "paid_for_by": null,
+ "fingerprint": "c49a135be92dcffd0cd35cb513548a1bfe059971",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Scholarships: Application Updates and Information | Prince George's County, MD | Delegate Mary A. Lehman",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024"
+ ]
 }

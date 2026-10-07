@@ -1,5 +1,5 @@
-Building the Foundation for Student Success
-Last week, I wrote about what it will take to make Texas schools the best in the nation.
+top of page Donate Facebook Twitter Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media More Use tab to navigate through the menu items.
+All Posts Search Building the Foundation for Student Success Angelia Orr Aug 24 3 min read Last week, I wrote about what it will take to make Texas schools the best in the nation.
 We talked about the record $8.5 billion in new funding invested in public schools last session and some of the policies we are looking at for the 90th legislative session.
 This week, I want to take a closer look at where our schools stand today and where we go from here.
 The Texas Education Agency recently released its A–F accountability ratings for public schools across Texas.
@@ -19,7 +19,8 @@ Our teachers know their classrooms.
 Our parents know their children.
 And our local school leaders know their communities.
 We need to listen to them and make sure they have the tools and support to do their jobs well.
-That is why I was glad to be in Waco last week for an important conversation with Governor Abbott, fellow legislators, teachers and families about his new initiative for Student Success Academies and his goal of making Texas the No. 1 state in the nation in reading and math.
+That is why I was glad to be in Waco last week for an important conversation with Governor Abbott, fellow legislators, teachers and families about his new initiative for Student Success Academies and his goal of making Texas the No.
+1 state in the nation in reading and math.
 Reading and math are foundational.
 When a child learns to read well and has a strong foundation in math, we open the door to so many other opportunities in school and in life.
 The Student Success Academies build on more than $600 million already invested in reading and math supports.
@@ -32,7 +33,5 @@ Texas should have the best schools in the nation.
 I believe we will get there, but it will take all of us, teachers, parents, school leaders, students, and legislators,, working together.
 I look forward to continuing this work with Governor Abbott and my colleagues in the Legislature and doing my part to make the Student Success Academies a reality for Texas students.
 And I want to hear from you.
-Whether you are a teacher, parent, administrator,
-or community member, please email me at angelia.orr@house.texas.gov and share your ideas for making our schools the best they can be for our kids.
-Because at the end of the day, it is all about them.
-— Your Conservative State Representative Angelia Orr
+Whether you are a teacher, parent, administrator, or community member, please email me at angelia.orr@house.texas.gov and share your ideas for making our schools the best they can be for our kids.
+Because at the end of the day, it is all about them. — Your Conservative State Representative Angelia Orr Recent Posts See All Government Should Work for Texans Strengthening Rural Healthcare The Online Battle for Our Children Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media JOIN THE TEAM Welcome to Team Orr Facebook Twitter Donate Privacy Policy Pol Ad Paid For By Angelia Orr For Texas House PO Box 113 Itasca, TX 76055 bottom of page

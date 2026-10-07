@@ -1,9 +1,9 @@
 {
  "description": "Stay updated on the latest campaign news of Ivette for the People in Iowa House District 33. Join the movement today!",
  "final_url": "https://ivetteforthepeople.com/news",
- "paid_for_by": "Paid For By Ivette For The People Campaign This website uses cookies",
+ "fingerprint": "4727f37dcdf0b1d57e98b977c2343b614de4cd4b",
+ "format": 3,
+ "paid_for_by": "Paid For By Ivette For The People Campaign",
  "title": "News",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

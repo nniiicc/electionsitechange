@@ -1,5 +1,7 @@
-NEWSROOM
-- BCA Endorses Caroleene Dobson for Alabama Secretary of State MONTGOMERY, Ala. – ProgressPAC, the political affiliate of the Business Council of Alabama (BCA), is proud to announce its endorsement of Caroleene Dobson in her campaign for Alabama Secretary of State.
-- ABC of Alabama endorses Caroleene Dobson for Alabama Secretary of State The Associated Builders and Contractors of Alabama has announced its endorsement of Caroleene Dobson in her bid to become Alabama’s next Secretary of State.
-- Republican Caroleene Dobson running for one of Alabama’s top political offices Montgomery attorney Caroleene Dobson, a Republican who ran for Congress last year, announced Thursday she is running for secretary of state.
-- Caroleene Dobson running for Secretary of State in 2026 Caroleene Dobson announced her candidacy for Secretary of State in the 2026 Republican primary on Thursday.
+0 Skip to Content About Newsroom Contact DONATE Open Menu Close Menu About Newsroom Contact DONATE Open Menu Close Menu About Newsroom Contact DONATE NEWSROOM BCA Endorses Caroleene Dobson for Alabama Secretary of State MONTGOMERY, Ala. – ProgressPAC, the political affiliate of the Business Council of Alabama (BCA), is proud to announce its endorsement of Caroleene Dobson in her campaign for Alabama Secretary of State.
+READ MORE ABC of Alabama endorses Caroleene Dobson for Alabama Secretary of State The Associated Builders and Contractors of Alabama has announced its endorsement of Caroleene Dobson in her bid to become Alabama’s next Secretary of State.
+READ MORE SOS race update: Dobson raises $116K; Sorrell returns questioned funds Republican candidate for Alabama secretary of state Caroleene Dobson raised about $# for her campaign in July, ending the month with about $# on hand, according to recent campaign finance reports.
+READ MORE Republican Caroleene Dobson running for one of Alabama’s top political offices Montgomery attorney Caroleene Dobson, a Republican who ran for Congress last year, announced Thursday she is running for secretary of state.
+READ MORE Caroleene Dobson running for Secretary of State in 2026 Caroleene Dobson announced her candidacy for Secretary of State in the 2026 Republican primary on Thursday.
+READ MORE PAID FOR BY DOBSON FOR ALABAMA P.O.
+BOX 6051 MONTGOMERY, AL 36106 © # Dobson for Alabama Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

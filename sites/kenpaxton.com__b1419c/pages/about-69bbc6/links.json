@@ -1,13 +1,66 @@
 [
-"https://facebook.com/kenpaxtontx",
-"https://flickr.com/photos/204887547@N06",
-"https://kenpaxton.com/",
-"https://kenpaxton.com/about",
-"https://kenpaxton.com/issues",
-"https://kenpaxton.com/paxton-s-patriots",
-"https://kenpaxton.com/privacy",
-"https://secure.winred.com/ken-paxton-for-senate/donate-today",
-"https://secure.winred.com/ken-paxton-for-senate/storefront",
-"https://x.com/kenpaxtontx?lang=en",
-"https://youtube.com/user/KenPaxtonTX"
+{
+"text": "DONATE",
+"href": "https://www.kenpaxton.com/"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/ken-paxton-for-senate/donate-today"
+},
+{
+"text": "ElectKenPaxton@gmail.com",
+"href": "mailto:ElectKenPaxton@gmail.com"
+},
+{
+"text": "HOME",
+"href": "https://www.kenpaxton.com/"
+},
+{
+"text": "JOIN PAXTON'S PATRIOTS",
+"href": "https://www.kenpaxton.com/paxton-s-patriots"
+},
+{
+"text": "MEET KEN PAXTON",
+"href": "https://www.kenpaxton.com/about"
+},
+{
+"text": "MERCH",
+"href": "https://secure.winred.com/ken-paxton-for-senate/storefront"
+},
+{
+"text": "Media Kit",
+"href": "https://www.flickr.com/photos/204887547@N06/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kenpaxton.com/privacy"
+},
+{
+"text": "THE FIGHT AT HAND",
+"href": "https://www.kenpaxton.com/issues"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.kenpaxton.com/privacy#Termsofuse"
+},
+{
+"text": "[image]",
+"href": "https://www.kenpaxton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kenpaxtontx/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/KenPaxtonTX"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kenpaxtontx?lang=en"
+},
+{
+"text": "[no text]",
+"href": "mailto:ElectKenPaxton@gmail.com"
+}
 ]

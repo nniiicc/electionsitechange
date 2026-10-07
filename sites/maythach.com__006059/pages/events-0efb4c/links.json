@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/mayforpinellas.bsky.social",
-"https://dos.fl.gov/elections/for-voters/voting/vote-by-mail",
-"https://facebook.com/may4pinellas",
-"https://instagram.com/mayforpinellas",
-"https://maythach.com/",
-"https://maythach.com/about",
-"https://maythach.com/contact",
-"https://maythach.com/endorsements",
-"https://maythach.com/events",
-"https://registertovoteflorida.gov/home",
-"https://registration.elections.myflorida.com/",
-"https://secure.actblue.com/donate/mayforpinellas"
+{
+"text": "Confirm your district",
+"href": "https://registration.elections.myflorida.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.maythach.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/mayforpinellas"
+},
+{
+"text": "Endorsements",
+"href": "https://www.maythach.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.maythach.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.maythach.com/"
+},
+{
+"text": "Meet May",
+"href": "https://www.maythach.com/about"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "Vote by Mail",
+"href": "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/"
+},
+{
+"text": "[image: BlueSky]",
+"href": "https://bsky.app/profile/mayforpinellas.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/may4pinellas"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mayforpinellas"
+},
+{
+"text": "[image: May Thach for Florida]",
+"href": "https://www.maythach.com/"
+}
 ]

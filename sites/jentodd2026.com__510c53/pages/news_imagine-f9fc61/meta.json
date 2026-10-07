@@ -1,7 +1,11 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.jentodd2026.us/news/imagine",
+ "fingerprint": "609b192381b4ac9a4b42d11f8b84f80507c3138d",
+ "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
  "title": "Imagine",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

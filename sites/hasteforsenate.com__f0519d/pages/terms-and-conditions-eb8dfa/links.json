@@ -1,9 +1,50 @@
 [
-"https://facebook.com/JohnHasteStateSenate",
-"https://hasteforsenate.com/",
-"https://hasteforsenate.com/contact",
-"https://hasteforsenate.com/media",
-"https://hasteforsenate.com/privacy-policy",
-"https://hasteforsenate.com/terms-and-conditions",
-"https://secure.anedot.com/johhaste/donate"
+{
+"text": "CONTACT",
+"href": "https://hasteforsenate.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/johhaste/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JohnHasteStateSenate/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://hasteforsenate.com/contact/"
+},
+{
+"text": "HOME",
+"href": "https://hasteforsenate.com/"
+},
+{
+"text": "MEET JOHN",
+"href": "https://hasteforsenate.com/#meet"
+},
+{
+"text": "Media",
+"href": "https://hasteforsenate.com/media/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://hasteforsenate.com/privacy-policy/"
+},
+{
+"text": "RESULTS",
+"href": "https://hasteforsenate.com/#results"
+},
+{
+"text": "Re-Elect John Haste for State Senate",
+"href": "https://hasteforsenate.com/privacy-policy/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://hasteforsenate.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://hasteforsenate.com"
+}
 ]

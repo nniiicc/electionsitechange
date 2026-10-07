@@ -1,7 +1,11 @@
 {
- "description": "Read \"Merrimack Republican Review\" on Facebook and watch \"Chattin' with Jeanine\" on Merrimack TV \u2014 or catch the latest episode on YouTube.",
+ "description": "Read \"Merrimack Republican Review\" on Facebook and watch \"Chattin' with Jeanine\" on Merrimack TV — or catch the latest episode on YouTube.",
  "final_url": "https://jeaninenotter.com/blog/watch-and-read-stay-connected",
- "paid_for_by": "Paid for by Jeanine Notter \u00a9 2026 Jeanine Notter",
+ "fingerprint": "f7fd8c01e5406140f7532fc77e9c23aa9e16db2c",
+ "format": 3,
+ "paid_for_by": "Paid for by Jeanine Notter © # Jeanine Notter",
  "title": "Watch &amp; Read: Stay Connected with Jeanine - Jeanine Notter",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

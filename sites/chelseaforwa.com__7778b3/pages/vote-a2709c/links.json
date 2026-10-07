@@ -1,24 +1,102 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://instagram.com/chelseaforwa",
-"http://squarespace.com/",
-"https://bentoncountywa.gov/government/elected_officials/auditor/elections/index.php",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://franklincountywa.gov/213/Elections-English",
-"https://klickitatcounty.gov/1136/ElectionsVoter-Registration",
-"https://secure.actblue.com/donate/chelseaforwa",
-"https://sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights",
-"https://sos.wa.gov/elections/voters/voter-registration/county-elections-offices",
-"https://sos.wa.gov/elections/voters/voter-registration/print-voter-registration-form",
-"https://voter.votewa.gov/WhereToVote.aspx",
-"https://voter.votewa.gov/portal2023/login.aspx?returnurl=home.aspx",
-"https://yakimacounty.us/170/Elections",
-"https://youtube.com/watch?v=Vve1clkk044"
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Benton County",
+"href": "https://www.bentoncountywa.gov/government/elected_officials/auditor/elections/index.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Franklin County",
+"href": "https://www.franklincountywa.gov/213/Elections-English"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "Klickitat County",
+"href": "https://www.klickitatcounty.gov/1136/ElectionsVoter-Registration"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "Read more about felony convictions and voting rights restoration",
+"href": "https://www.sos.wa.gov/elections/voters/voter-eligibility-resources/felony-convictions-and-voting-rights"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "VoteWA.gov",
+"href": "https://voter.votewa.gov/WhereToVote.aspx"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "Watch this video to learn more.",
+"href": "https://www.youtube.com/watch?v=Vve1clkk044"
+},
+{
+"text": "Yakima County",
+"href": "https://www.yakimacounty.us/170/Elections"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+},
+{
+"text": "county elections office",
+"href": "https://www.sos.wa.gov/elections/voters/voter-registration/county-elections-offices"
+},
+{
+"text": "online",
+"href": "https://voter.votewa.gov/WhereToVote.aspx"
+},
+{
+"text": "paper form",
+"href": "https://www.sos.wa.gov/elections/voters/voter-registration/print-voter-registration-form"
+},
+{
+"text": "print your replacement ballot online by clicking here.",
+"href": "https://voter.votewa.gov/portal2023/login.aspx?returnurl=home.aspx"
+}
 ]

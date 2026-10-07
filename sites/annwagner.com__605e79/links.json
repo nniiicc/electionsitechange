@@ -1,20 +1,86 @@
 [
-"https://annwagner.com/",
-"https://annwagner.com/about",
-"https://annwagner.com/endorsements",
-"https://annwagner.com/get-involved",
-"https://annwagner.com/privacy-policy",
-"https://facebook.com/Ann4Congress",
-"https://secure.winred.com/ann-wagner/annwagner",
-"https://secure.winred.com/ann-wagner/annwagner?amount=10",
-"https://secure.winred.com/ann-wagner/annwagner?amount=100",
-"https://secure.winred.com/ann-wagner/annwagner?amount=1000",
-"https://secure.winred.com/ann-wagner/annwagner?amount=1500",
-"https://secure.winred.com/ann-wagner/annwagner?amount=2500",
-"https://secure.winred.com/ann-wagner/annwagner?amount=3300",
-"https://secure.winred.com/ann-wagner/annwagner?amount=50",
-"https://secure.winred.com/ann-wagner/annwagner?amount=500",
-"https://secure.winred.com/ann-wagner/storefront",
-"https://twitter.com/AnnLWagner",
-"https://youtube.com/channel/UCMsyU0EuZdzoN_W4ZKnCi0g"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=1000"
+},
+{
+"text": "$1,500",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=1500"
+},
+{
+"text": "$10",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=100"
+},
+{
+"text": "$2,500",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=2500"
+},
+{
+"text": "$3,300",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=3300"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/ann-wagner/annwagner?amount=500"
+},
+{
+"text": "About",
+"href": "https://annwagner.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ann-wagner/annwagner"
+},
+{
+"text": "Endorsements",
+"href": "https://annwagner.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://annwagner.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://annwagner.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://annwagner.com/privacy-policy/"
+},
+{
+"text": "Read More ➝",
+"href": "https://annwagner.com/about"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/ann-wagner/storefront/"
+},
+{
+"text": "[image: Image]",
+"href": "https://annwagner.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AnnLWagner"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Ann4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCMsyU0EuZdzoN_W4ZKnCi0g"
+},
+{
+"text": "terms & privacy policy.",
+"href": "https://annwagner.com/privacy-policy"
+}
 ]

@@ -1,6 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61570996515662",
-"https://heather-sample-website.vercel.app/index.html",
-"https://heather-sample-website.vercel.app/privacy.html",
-"https://secure.actblue.com/donate/heatherlsampleforohio67"
+{
+"text": "About",
+"href": "https://heather-sample-website.vercel.app/index.html#about"
+},
+{
+"text": "About Heather",
+"href": "https://heather-sample-website.vercel.app/index.html#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heatherlsampleforohio67"
+},
+{
+"text": "Email Heather",
+"href": "mailto:connor@heatherlsample.com"
+},
+{
+"text": "Endorsements",
+"href": "https://heather-sample-website.vercel.app/index.html#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61570996515662"
+},
+{
+"text": "Get Involved",
+"href": "https://heather-sample-website.vercel.app/index.html#join"
+},
+{
+"text": "HEATHER SAMPLE",
+"href": "https://heather-sample-website.vercel.app/index.html"
+},
+{
+"text": "Issues",
+"href": "https://heather-sample-website.vercel.app/index.html#issues"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:connor@heatherlsample.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heather-sample-website.vercel.app/privacy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://heather-sample-website.vercel.app/index.html#join"
+},
+{
+"text": "heather@heatherlsample.com",
+"href": "mailto:heather@heatherlsample.com"
+}
 ]

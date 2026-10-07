@@ -1,7 +1,9 @@
+0 Skip to Content Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
 How can a legislator work to Build A Safer West Forsyth?
 As it turns out, in lots of ways our current State Representative is ignoring.
-My 20 Strategies to Build a Safer West Forsyth: From a 20-Year Resident
-1.
+My 20 Strategies to Build a Safer West Forsyth: From a 20-Year Resident 1.
 Genuinely Help Local Victims of Crime.
 Have you ever had your car broken into or had a phone, laptop or wallet stolen and were convinced no one cared?
 I have.
@@ -52,8 +54,7 @@ Those foundations still exist in North Carolina, and to prevent future crimes we
 As our next State Representative, I know addiction is the root cause of a large portion of the non-violent property crime our county is currently fighting, and I know addiction could be the root cause of future violent crimes if we keep ignoring it like State Representative Jeff Zenger does.
 I will use all of the resources available to my office to proactively address addiction so as to prevent future crimes.
 6.
-Increase Our Use of “Second-Chance Court.”
-I’m proud to support NC’s Second-Chance Courts (conditional deferment, 12 months without additional offense).
+Increase Our Use of “Second-Chance Court.” I’m proud to support NC’s Second-Chance Courts (conditional deferment, 12 months without additional offense).
 First time offenders and non-violent and non-sexual felony offenders (for example, those possessing more than an ounce of marijuana) need a Treatment/Accountability Court that will give them a “Second Chance.” It moves us all forward when productive members in our community receive access to education, employment and purpose.
 Data show that offenders who are rehabilitated are far less likely to reoffend (recidivism), thus decreasing crime.
 This Treatment Court would also decrease the impact of the mental health crisis and court backlog.
@@ -63,8 +64,7 @@ Prison Prevention Programs.
 I’m proud to support our Prison Prevention Program which allows middle and high schoolers to meet those who have been involved in the criminal justice system.
 This program is successful in breaking the school-to-prison pipeline.
 8.
-Creating a “Judicial Efficiency Committee.”
-Our Forsyth County court system is overwhelmed, partly due to population growth.
+Creating a “Judicial Efficiency Committee.” Our Forsyth County court system is overwhelmed, partly due to population growth.
 There are ways to prevent backlogged cases and adjudicate faster.
 As a 20-year West Forsyth resident, mom of two boys and small business owner, I want our legislature to provide more oversight and support.
 Justice delayed is justice denied.
@@ -155,3 +155,5 @@ Trying to curtail future crime sprees in Forsyth without talking about the proli
 I do VERY LITTLE half-way.
 Frankly, our families and businesses deserve better than the normal left-wing demands to close gun show loopholes.
 And while I, like 84% of my North Carolina neighbors, support closing gun show loopholes, what we really need is a meaningful conversation among stakeholders – parents, specifically – about how we stem the tide of guns into our currently peaceful communities.
+NORTH for NC 6255 Town Center Drive Suite 650 Clemmons, NC 27012 CONTRIBUTE to Do.More.Good.
+Paid for by North for North Carolina.

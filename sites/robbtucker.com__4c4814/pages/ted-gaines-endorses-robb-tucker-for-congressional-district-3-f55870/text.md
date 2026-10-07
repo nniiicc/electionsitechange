@@ -1,17 +1,11 @@
-CAMPAIGN NEWS PRESS RELEASE
-Ted Gaines Endorses Robb Tucker for Congressional District 3
-April 3, 2026
-El Dorado, CA — Nevada County Supervisor Robb Tucker, a lifelong resident of California’s newly drawn Congressional District 3, has earned a significant endorsement from Board of Equalization Member Ted Gaines.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE CAMPAIGN NEWS PRESS RELEASE Ted Gaines Endorses Robb Tucker for Congressional District 3 FOR IMMEDIATE RELEASE April 3, 2026 Contact: Ryan Gardiner ryan@strategyinsightshq.com El Dorado, CA — Nevada County Supervisor Robb Tucker, a lifelong resident of California’s newly drawn Congressional District 3, has earned a significant endorsement from Board of Equalization Member Ted Gaines.
 Gaines, a respected leader with a longstanding record of public service, has represented Californians in both the State Assembly and State Senate before serving on the California State Board of Equalization.
 Known for his commitment to fiscal responsibility and principled leadership, Gaines continues to be a strong voice for the community and the state.
 “I am proud to endorse Robb Tucker for Congressional District 3,” said Gaines.
-“I am excited to watch him take his unwavering conservative voice to Washington D.C. and continue to represent our values.”
-Gaines highlighted Tucker’s proven leadership as a County Supervisor, noting his willingness to make difficult decisions and take meaningful action on behalf of his constituents.
+“I am excited to watch him take his unwavering conservative voice to Washington D.C. and continue to represent our values.” Gaines highlighted Tucker’s proven leadership as a County Supervisor, noting his willingness to make difficult decisions and take meaningful action on behalf of his constituents.
 Following a highly successful campaign kickoff and growing grassroots momentum, Tucker’s campaign continues to gain traction across the district.
 With increasing support from community leaders and voters alike, his campaign represents a strong and competitive voice for change in Congressional District 3.
 While the intent of Prop 50 was to preclude true conservatives like Robb Tucker from winning Congressional seats in CA, Robb has positioned himself as the first real challenge Ami Bera has had in years and to be the newest member of Congress.
 “I’m honored to have Ted Gaines’ support,” said Tucker.
-“Our campaign is about putting people first, restoring accountability, and ensuring our district has a representative who will stand up and deliver real results.”
-Additional endorsements and campaign updates will be announced in the coming weeks.
-To learn more or support Robb Tucker for Congress, please visit:https://robbtucker.com/
-###
+“Our campaign is about putting people first, restoring accountability, and ensuring our district has a representative who will stand up and deliver real results.” Additional endorsements and campaign updates will be announced in the coming weeks.
+To learn more or support Robb Tucker for Congress, please visit: https://robbtucker.com/ ### TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

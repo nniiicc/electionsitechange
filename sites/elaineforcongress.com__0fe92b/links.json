@@ -1,25 +1,178 @@
 [
-"https://apolloartistry.com/",
-"https://elaineforcongress.com/",
-"https://elaineforcongress.com/about",
-"https://elaineforcongress.com/accessibility",
-"https://elaineforcongress.com/cdn-cgi/l/email-protection",
-"https://elaineforcongress.com/donate",
-"https://elaineforcongress.com/endorsements",
-"https://elaineforcongress.com/facebook",
-"https://elaineforcongress.com/instagram",
-"https://elaineforcongress.com/issues",
-"https://elaineforcongress.com/media",
-"https://elaineforcongress.com/news",
-"https://elaineforcongress.com/privacy-policy",
-"https://elaineforcongress.com/take-action",
-"https://elaineforcongress.com/twitter",
-"https://elaineforcongress.com/youtube",
-"https://secure.actblue.com/donate/luria-website",
-"https://secure.actblue.com/donate/luria-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/luria-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/luria-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/luria-website?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/luria-website?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/luria-website?express_lane=true&amount=500"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=50"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=25"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=250"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=5"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=50"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/luria-website?express_lane=true&amount=500"
+},
+{
+"text": "About",
+"href": "https://elaineforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://elaineforcongress.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://elaineforcongress.com/accessibility"
+},
+{
+"text": "Chip in $25 to support Elaine Luria for Congress >>> Chip in $25 to support Elaine Luria for Congress >>>",
+"href": "https://secure.actblue.com/donate/luria-website"
+},
+{
+"text": "Contact",
+"href": "mailto:teamelaine@elaineforcongress.com"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://secure.actblue.com/donate/luria-website"
+},
+{
+"text": "Donate",
+"href": "https://elaineforcongress.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/donate/luria-website"
+},
+{
+"text": "Endorsements",
+"href": "https://elaineforcongress.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://elaineforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://elaineforcongress.com/facebook"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://elaineforcongress.com/take-action"
+},
+{
+"text": "Home",
+"href": "https://elaineforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://elaineforcongress.com/"
+},
+{
+"text": "In the News In the News",
+"href": "https://elaineforcongress.com/news"
+},
+{
+"text": "Instagram",
+"href": "https://elaineforcongress.com/instagram"
+},
+{
+"text": "Learn More Learn More",
+"href": "https://elaineforcongress.com/about"
+},
+{
+"text": "Media",
+"href": "https://elaineforcongress.com/media"
+},
+{
+"text": "Meet Elaine Meet Elaine",
+"href": "https://elaineforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://elaineforcongress.com/media/"
+},
+{
+"text": "Or Chip in $5 today → Or Chip in $5 today →",
+"href": "https://secure.actblue.com/donate/luria-website"
+},
+{
+"text": "Other Amount...",
+"href": "https://secure.actblue.com/donate/luria-website"
+},
+{
+"text": "Powered by APOLLO",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:press@elaineforcongress.com"
+},
+{
+"text": "Priorities",
+"href": "https://elaineforcongress.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elaineforcongress.com/privacy-policy"
+},
+{
+"text": "Take Action",
+"href": "https://elaineforcongress.com/take-action"
+},
+{
+"text": "Take Action Take Action",
+"href": "https://elaineforcongress.com/take-action"
+},
+{
+"text": "X-twitter",
+"href": "https://elaineforcongress.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://elaineforcongress.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://elaineforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Elaine Luria for Congress logo]",
+"href": "https://elaineforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://elaineforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://elaineforcongress.com/twitter"
+}
 ]

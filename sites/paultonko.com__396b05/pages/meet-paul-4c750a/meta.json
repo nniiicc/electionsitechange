@@ -1,10 +1,11 @@
 {
  "description": "",
  "final_url": "https://paultonko.com/meet-paul",
- "paid_for_by": null,
+ "fingerprint": "79509f0062d5546a5870e55ca229f96996b7bffa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Paul",
  "years_mentioned": [
-  "2021",
-  "2026"
+  "2009"
  ]
 }

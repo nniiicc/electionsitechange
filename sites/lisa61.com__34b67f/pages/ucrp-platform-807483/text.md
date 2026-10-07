@@ -1,12 +1,5 @@
-Signed in
-filler@godaddy.com
-Sign out
-Signed in
-filler@godaddy.com
-Account
-Sign out
-Paid for by Lisa Shepherd for State House
-Utah House District 61
-801-787-8211
-Copyright © 2024 Lisa61 - All Rights Reserved.
-Powered by
+Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account Download UCRP Platform Volunteer Contact Privacy Policy Convention Speech Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
+Powered by Thank YOU for the honor and privilege to serve!

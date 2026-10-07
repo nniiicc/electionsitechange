@@ -1,9 +1,34 @@
 [
-"https://fitzpatrickformt.com/",
-"https://fitzpatrickformt.com/about",
-"https://fitzpatrickformt.com/contact",
-"https://fitzpatrickformt.com/donate",
-"https://fitzpatrickformt.com/issues",
-"https://fitzpatrickformt.com/legislative-record",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About",
+"href": "https://fitzpatrickformt.com/about"
+},
+{
+"text": "Contact",
+"href": "https://fitzpatrickformt.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://fitzpatrickformt.com/donate"
+},
+{
+"text": "Home",
+"href": "https://fitzpatrickformt.com/"
+},
+{
+"text": "Issues",
+"href": "https://fitzpatrickformt.com/issues"
+},
+{
+"text": "Legislative Record",
+"href": "https://fitzpatrickformt.com/legislative-record"
+},
+{
+"text": "[image]",
+"href": "https://fitzpatrickformt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

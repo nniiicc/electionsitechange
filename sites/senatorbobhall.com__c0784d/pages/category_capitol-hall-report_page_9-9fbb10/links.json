@@ -1,38 +1,202 @@
 [
-"http://vicimediagroup.com/",
-"https://facebook.com/SenatorBobHall",
-"https://instagram.com/senatorbobhalldistrict2",
-"https://politics.raisethemoney.com/en/bhallVISOim9hUxrfv2Ya3fc0Zg",
-"https://senatorbobhall.com/",
-"https://senatorbobhall.com/about",
-"https://senatorbobhall.com/capitol-hall-report-april-19-2017-senate-bill-1356-a-real-solution-to-texting-while-driving",
-"https://senatorbobhall.com/capitol-hall-report-february-2-2017-evaluating-and-clarifying-senate-bill-2",
-"https://senatorbobhall.com/capitol-hall-report-january-27-2017-welcome-to-the-85th-legislative-session",
-"https://senatorbobhall.com/capitol-hall-report-march-23-2017-the-end-of-red-light-cameras",
-"https://senatorbobhall.com/capitol-hall-report-may-11-2017-education",
-"https://senatorbobhall.com/capitol-hall-report-may-4-2017-crony-capitalism-has-no-place-in-a-conservative-state-like-texas",
-"https://senatorbobhall.com/capitol-hall-report-monday-october-24-2016-paris-community-college-dollars-and-sense",
-"https://senatorbobhall.com/capitol-hall-report-november-29-2016-uniform-non-discrimination-bill-senate-bill-92",
-"https://senatorbobhall.com/capitol-hall-report-senate-bill-6-texas-privacy-act-march-16-2017",
-"https://senatorbobhall.com/category/capitol-hall-report",
-"https://senatorbobhall.com/category/capitol-hall-report/page/1",
-"https://senatorbobhall.com/category/capitol-hall-report/page/10",
-"https://senatorbobhall.com/category/capitol-hall-report/page/11",
-"https://senatorbobhall.com/category/capitol-hall-report/page/2",
-"https://senatorbobhall.com/category/capitol-hall-report/page/3",
-"https://senatorbobhall.com/category/capitol-hall-report/page/6",
-"https://senatorbobhall.com/category/capitol-hall-report/page/7",
-"https://senatorbobhall.com/category/capitol-hall-report/page/8",
-"https://senatorbobhall.com/contact-us",
-"https://senatorbobhall.com/endorse-senator-bob-hall-today",
-"https://senatorbobhall.com/endorsements",
-"https://senatorbobhall.com/get-involved",
-"https://senatorbobhall.com/news",
-"https://senatorbobhall.com/priorities",
-"https://senatorbobhall.com/privacy-statement",
-"https://senatorbobhall.com/sen-bob-hall-calls-on-gov-abbott-to-prioritize-grid-security",
-"https://senatorbobhall.com/videos",
-"https://senatorbobhall.com/videos-2",
-"https://twitter.com/SenatorBobHall",
-"https://twitter.com/share"
+{
+"text": "$",
+"href": "https://politics.raisethemoney.com/en/bhallVISOim9hUxrfv2Ya3fc0Zg"
+},
+{
+"text": "1",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/1/"
+},
+{
+"text": "10",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/10/"
+},
+{
+"text": "11",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/11/"
+},
+{
+"text": "2",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/2/"
+},
+{
+"text": "3",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/3/"
+},
+{
+"text": "6",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/6/"
+},
+{
+"text": "7",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/7/"
+},
+{
+"text": "8",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/8/"
+},
+{
+"text": "About",
+"href": "https://senatorbobhall.com/about/"
+},
+{
+"text": "CHR",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/"
+},
+{
+"text": "Capitol Hall Report – April 19, 2017 – Senate Bill 1356, A Real Solution to “Texting While Driving”",
+"href": "https://senatorbobhall.com/capitol-hall-report-april-19-2017-senate-bill-1356-a-real-solution-to-texting-while-driving/"
+},
+{
+"text": "Capitol Hall Report – February 2, 2017 – Evaluating and Clarifying Senate Bill 2",
+"href": "https://senatorbobhall.com/capitol-hall-report-february-2-2017-evaluating-and-clarifying-senate-bill-2/"
+},
+{
+"text": "Capitol Hall Report – January 27, 2017 – Welcome to the 85th Legislative Session",
+"href": "https://senatorbobhall.com/capitol-hall-report-january-27-2017-welcome-to-the-85th-legislative-session/"
+},
+{
+"text": "Capitol Hall Report – March 23, 2017 – The End of Red Light Cameras?",
+"href": "https://senatorbobhall.com/capitol-hall-report-march-23-2017-the-end-of-red-light-cameras/"
+},
+{
+"text": "Capitol Hall Report – May 11, 2017 – Education",
+"href": "https://senatorbobhall.com/capitol-hall-report-may-11-2017-education/"
+},
+{
+"text": "Capitol Hall Report – May 4, 2017 – Crony Capitalism Has no Place in a Conservative State like Texas",
+"href": "https://senatorbobhall.com/capitol-hall-report-may-4-2017-crony-capitalism-has-no-place-in-a-conservative-state-like-texas/"
+},
+{
+"text": "Capitol Hall Report – Monday, October 24, 2016 – Paris Community College – Dollars and ‘Sense’",
+"href": "https://senatorbobhall.com/capitol-hall-report-monday-october-24-2016-paris-community-college-dollars-and-sense/"
+},
+{
+"text": "Capitol Hall Report – November 29, 2016 – Uniform Non-Discrimination Bill, Senate Bill 92",
+"href": "https://senatorbobhall.com/capitol-hall-report-november-29-2016-uniform-non-discrimination-bill-senate-bill-92/"
+},
+{
+"text": "Capitol Hall Report – Senate Bill 6, Texas Privacy Act – March 16, 2017",
+"href": "https://senatorbobhall.com/capitol-hall-report-senate-bill-6-texas-privacy-act-march-16-2017/"
+},
+{
+"text": "Contact Us",
+"href": "https://senatorbobhall.com/contact-us/"
+},
+{
+"text": "Endorse Senator Bob Hall!",
+"href": "https://senatorbobhall.com/endorse-senator-bob-hall-today/"
+},
+{
+"text": "Endorse Senator Hall!",
+"href": "https://senatorbobhall.com/endorse-senator-bob-hall-today/"
+},
+{
+"text": "Endorsements",
+"href": "https://senatorbobhall.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://senatorbobhall.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://senatorbobhall.com/"
+},
+{
+"text": "News",
+"href": "https://senatorbobhall.com/news/"
+},
+{
+"text": "Priorities and Issues",
+"href": "https://senatorbobhall.com/priorities/"
+},
+{
+"text": "Privacy",
+"href": "https://senatorbobhall.com/privacy-statement/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-april-19-2017-senate-bill-1356-a-real-solution-to-texting-while-driving/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-february-2-2017-evaluating-and-clarifying-senate-bill-2/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-january-27-2017-welcome-to-the-85th-legislative-session/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-march-23-2017-the-end-of-red-light-cameras/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-may-11-2017-education/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-may-4-2017-crony-capitalism-has-no-place-in-a-conservative-state-like-texas/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-monday-october-24-2016-paris-community-college-dollars-and-sense/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-november-29-2016-uniform-non-discrimination-bill-senate-bill-92/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/capitol-hall-report-senate-bill-6-texas-privacy-act-march-16-2017/"
+},
+{
+"text": "Read more",
+"href": "https://senatorbobhall.com/sen-bob-hall-calls-on-gov-abbott-to-prioritize-grid-security/"
+},
+{
+"text": "Sen. Bob Hall calls on Gov. Abbott to Prioritize Grid Security",
+"href": "https://senatorbobhall.com/sen-bob-hall-calls-on-gov-abbott-to-prioritize-grid-security/"
+},
+{
+"text": "Site by Vici Media Group",
+"href": "http://vicimediagroup.com/"
+},
+{
+"text": "Trusted Conservative",
+"href": "https://senatorbobhall.com/videos/"
+},
+{
+"text": "Tweet",
+"href": "https://twitter.com/share"
+},
+{
+"text": "Videos",
+"href": "https://senatorbobhall.com/videos-2/"
+},
+{
+"text": "[image: Bob Hall]",
+"href": "https://senatorbobhall.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenatorBobHall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorBobHall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorbobhalldistrict2/"
+},
+{
+"text": "←",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/8/"
+},
+{
+"text": "→",
+"href": "https://senatorbobhall.com/category/capitol-hall-report/page/10/"
+}
 ]

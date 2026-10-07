@@ -1,6 +1,6 @@
-HOLLAND, MI – A bombshell new report out today details how Sean McCann’s top fundraising vendor accepted fraudulent contributions, funneled illegal donations to Democrat campaigns and then tried to cover it all up.
+Donate About Issues News Join Donate News Bombshell: Top McCann Vendor Covered Up Fraudulent Donations, Funneled Illegal Contributions To Campaigns September 17, 2026 Back to News HOLLAND, MI – A bombshell new report out today details how Sean McCann’s top fundraising vendor accepted fraudulent contributions, funneled illegal donations to Democrat campaigns and then tried to cover it all up.
 In the report, ActBlue knowingly approved illegal foreign contributions and now multiple ActBlue officials have pled the fifth.
 Southwest Michigan families deserve answers: Will Sean McCann sever ties to his embattled fundraising firm?
 Or continue allowing potentially shady cash to fuel his campaign?
 “If Sean McCann is really the ‘problem solver’ he claims to be, he’d start by severing ties to his problematic fundraising firm that’s allowed illegal cash to flow into Democrat campaigns like his across the country,” said Huizenga spokesman Calvin Moore.
-“To preserve faith in our elections, McCann must immediately freeze all fundraising from ActBlue and answer this simple question: how much of your campaign over the years has been funded by these illegal contributions?”
+“To preserve faith in our elections, McCann must immediately freeze all fundraising from ActBlue and answer this simple question: how much of your campaign over the years has been funded by these illegal contributions?” Share: PAID FOR BY HUIZENGA FOR CONGRESS PRIVACY POLICY · TERMS AND CONDITIONS About Issues News Join

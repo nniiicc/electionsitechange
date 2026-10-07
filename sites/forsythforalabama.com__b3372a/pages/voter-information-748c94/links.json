@@ -1,6 +1,22 @@
 [
-"https://alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action",
-"https://forsythforalabama.com/",
-"https://myinfo.alabamavotes.gov/voterview",
-"https://wix.com/"
+{
+"text": "Integrity, Servant-Leadership, Hard-Working",
+"href": "https://www.forsythforalabama.com"
+},
+{
+"text": "Register",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+},
+{
+"text": "Voter Status",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "©",
+"href": "https://www.wix.com"
+}
 ]

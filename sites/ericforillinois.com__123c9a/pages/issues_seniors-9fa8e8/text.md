@@ -1,5 +1,5 @@
-I believe in
-Supporting Seniors and Social Security
-I will always defend our seniors and protect their ability to retire with dignity.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate Creating Jobs and Lowering Costs for Illinois Protecting Reproductive Rights Supporting Public Safety and Law Enforcement LGBTQ+ Advocacy Supporting Veterans Strengthening Local Infrastructure Supporting Seniors and Social Security Cutting the Cost of Healthcare/Prescription Drugs Making Government Work for Illinois I believe in Supporting Seniors and Social Security I will always defend our seniors and protect their ability to retire with dignity .
 I am committed to opposing any legislation that privatizes or makes any cuts to Social Security and Medicare.
 I also support efforts to increase Social Security benefits for seniors and make the program solvent for future generations.
+Eric Sorensen for Illinois P.O.
+Box 1172 Moline, IL 61265 ​ info@ericforillinois.com Privacy Policy Powered by RUN! website builder Paid for by Eric Sorensen for Illinois You need to enable JavaScript to run this app.

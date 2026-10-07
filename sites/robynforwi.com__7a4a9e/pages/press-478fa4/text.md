@@ -1,153 +1,31 @@
-Recent Press
-In the News
-WisPolitics | March 25, 2026
-Gov.
-Tony Evers signs bill expanding postpartum care through Medicaid program
-The Wisconsin Independent | March 24, 2026
-Gov.
-Tony Evers signs law extending postpartum medicaid coverage to 1 year
-Wisconsin Public Radio | March 18, 2026
-Natalie’s Everyday Heroes update: Tosa teen introduces bill in Madison
-CBS 58 | March 11, 2026
-A teen from Wauwatosa introduces bill to end cosmetic testing on animals
-620MTMJ | March 11, 2026
-Wauwatosa middle school student leads charge for a state ban on animal tests for cosmetics
-Wisconsin Examiner | March 11, 2026
-14-year-old introduces Humane Cosmetics Act alongside state legislators
-WKOW 27 | March 10, 2026
-CBS 58 | March 6, 2026
-History tour marking 250th U.S. anniversary stops at Brookfield Central
-Milwaukee Journal Sentinel | March 6, 2026
-11 Things to Do in Milwaukee for International Women’s Day
-Milwaukee Magazine | March 4, 2026
-Wisconsin close to being the 49th state to extend postpartum Medicaid coverage to a year
-Civic Media | February 20, 2026
-FRI Health Care Report: Assembly advances legislation extending postpartum Medicaid coverage
-WisBusiness | February 20, 2026
-Wisconsin close to being the 49th state to extend postpartum Medicaid coverage to a year
-Wisconsin Examiner | February 19, 2026
-‘Gail’s law’ breast cancer screening bill passes unanimously
-Milwaukee Journal Sentinel | February 19, 2026
-Lawmakers vote to extend postpartum Medicaid coverage to a full year
-Milwaukee Journal Sentinel | February 19, 2026
-Wisconsin Assembly passes Gail’s Law, postpartum Medicaid expansion
-WSAW | February 19, 2026
-Assembly sends postpartum expansion, breast cancer screening bills to Evers
-WisPolitics | February 19, 2026
-Vos relents, Assembly to vote on postpartum Medicaid, breast cancer screening bills
-Wisconsin Examiner | February 19, 2026
-Wisconsin moves to expand postpartum Medicaid coverage
-PBS Wisconsin | February 19, 2026
-Wisconsin Republicans announce plan to pass postpartum Medicaid, breast cancer bills
-Wisconsin Public Radio | February 18, 2026
-Wisconsin’s 2026 state legislative races take shape
-Wisconsin Examiner | February 3, 2026
-Madison small businesses, residents and lawmakers show solidarity with Minnesota
-Wisconsin Examiner | January 30, 2026
-Fundraising reveals party priorities in battle for Wisconsin Legislature
-Wisconsin Public Radio | January 27, 2026
-Morning Digest: Vulnerable Republican in vulnerable chamber bails
-The Down Ballot | January 26, 2026
-Environmental Coalition Calls For Pause In Data Center Development
-Urban Milwaukee | January 24, 2026
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Recent Press In the News U.S.
+Sens.
+Baldwin, Merkley, U.S.
 Rep.
+Moore: Introduce legislation to address maternal health crisis, expand access to care WisPolitics | March 25, 2026 Gov.
+Tony Evers signs bill expanding postpartum care through Medicaid program The Wisconsin Independent | March 24, 2026 Gov.
+Tony Evers signs law extending postpartum medicaid coverage to 1 year Wisconsin Public Radio | March 18, 2026 Natalie’s Everyday Heroes update: Tosa teen introduces bill in Madison CBS 58 | March 11, 2026 A teen from Wauwatosa introduces bill to end cosmetic testing on animals 620MTMJ | March 11, 2026 Wauwatosa middle school student leads charge for a state ban on animal tests for cosmetics Wisconsin Examiner | March 11, 2026 14-year-old introduces Humane Cosmetics Act alongside state legislators WKOW 27 | March 10, 2026 Dept. of Education’s ‘History Rocks’ event stops in Brookfield; critics question ties to right-wing groups CBS 58 | March 6, 2026 History tour marking 250th U.S. anniversary stops at Brookfield Central Milwaukee Journal Sentinel | March 6, 2026 11 Things to Do in Milwaukee for International Women’s Day Milwaukee Magazine | March 4, 2026 Wisconsin close to being the 49th state to extend postpartum Medicaid coverage to a year Civic Media | February 20, 2026 FRI Health Care Report: Assembly advances legislation extending postpartum Medicaid coverage WisBusiness | February 20, 2026 Wisconsin close to being the 49th state to extend postpartum Medicaid coverage to a year Wisconsin Examiner | February 19, 2026 ‘Gail’s law’ breast cancer screening bill passes unanimously Milwaukee Journal Sentinel | February 19, 2026 Lawmakers vote to extend postpartum Medicaid coverage to a full year Milwaukee Journal Sentinel | February 19, 2026 Wisconsin Assembly passes Gail’s Law, postpartum Medicaid expansion WSAW | February 19, 2026 Assembly sends postpartum expansion, breast cancer screening bills to Evers WisPolitics | February 19, 2026 Vos relents, Assembly to vote on postpartum Medicaid, breast cancer screening bills Wisconsin Examiner | February 19, 2026 Wisconsin moves to expand postpartum Medicaid coverage PBS Wisconsin | February 19, 2026 Wisconsin Republicans announce plan to pass postpartum Medicaid, breast cancer bills Wisconsin Public Radio | February 18, 2026 Wisconsin’s 2026 state legislative races take shape Wisconsin Examiner | February 3, 2026 Madison small businesses, residents and lawmakers show solidarity with Minnesota Wisconsin Examiner | January 30, 2026 Fundraising reveals party priorities in battle for Wisconsin Legislature Wisconsin Public Radio | January 27, 2026 Morning Digest: Vulnerable Republican in vulnerable chamber bails The Down Ballot | January 26, 2026 Environmental Coalition Calls For Pause In Data Center Development Urban Milwaukee | January 24, 2026 Rep.
 Vining: Breast cancer screenings bill passes Assembly committee– unanimously!
-WisBusiness | January 23, 2026
-State Sen.
-Rob Hutton will not run for another term
-The Waukesha Freeman | January 23, 2026
-Republican Rob Hutton won’t seek re-election to key Senate district
-Milwaukee Journal Sentinel | January 23, 2026
-WisPolitics | January 22, 2026
-Assembly committee passes breast cancer screening bill known as Gail’s Law
-WAOW | January 22, 2026
-WisPolitics | January 21, 2026
-Open government experts question ban on recording Capitol lawmakers
-Milwaukee Journal Sentinel | January 16, 2026
-Wisconsin Eye is offline.
+WisBusiness | January 23, 2026 State Sen.
+Rob Hutton will not run for another term The Waukesha Freeman | January 23, 2026 Republican Rob Hutton won’t seek re-election to key Senate district Milwaukee Journal Sentinel | January 23, 2026 Hutton won’t seek reelection WisPolitics | January 22, 2026 Assembly committee passes breast cancer screening bill known as Gail’s Law WAOW | January 22, 2026 EMILYs List: State power plan targets Wisconsin as part of $15 million investment in building Democratic governing majorities in 2026 WisPolitics | January 21, 2026 Open government experts question ban on recording Capitol lawmakers Milwaukee Journal Sentinel | January 16, 2026 Wisconsin Eye is offline.
 State Republicans are making matters worse.
-The Recombobulation Area | January 15, 2026
-WisPolitics | January 13, 2026
-Lawmakers aim to make menstrual products free for Wisconsinites locked up in jails, prisons
-Wisconsin Public Radio | January 9, 2026
-State corrections committee reviews prison study, hygiene bills for incarcerated people
-Wisconsin Examiner | January 8, 2026
-Lawmakers urged to require more access to hygiene products in prisons
-Milwaukee Journal Sentinel | January 7, 2026
-State Democrats reintroduce ‘Save Our Schools’ Act
-Spectrum News 1 | December 10, 2025
-92.7 WMDX Madison | November 20, 2025
-Wisconsin legislators, Halle Berry discuss menopause stigma
-Wisconsin Examiner | October 23, 2025
-Halle Berry lobbies in Wisconsin for funding to improve women’s care
-CBS 58 | October 21, 2025
-With over a year to go, more candidates launch 2026 campaigns early
-Spectrum News | August 11, 2025
-Wisconsin Democrats launch push to take the majority in the Senate after years in the shadows
-Milwaukee Journal Sentinel | July 24, 2025
-Fight for control of Wisconsin Senate is shaping up ahead of 2026 election
-Wisconsin Public Radio | July 23, 2025
-Rep.
-Robyn Vining, calling for an inclusive and accessible Wis., launches campaign for suburban SD 5
-Wisconsin Examiner | July 18, 2025
-State Rep.
-Robyn Vining, D-Wauwatosa, announces her 2026 campaign for state Senate
-Milwaukee Journal Sentinel | July 18, 2025
-Milwaukee Journal Sentinel | July 18, 2025
-As Democrats make push to flip state Senate, here are the races to watch
-CBS 58 | July 17, 2025
-Budget deadline looms as Assembly approves new programs without funds, passes nuclear power bills
-Wisconsin Examiner | June 25, 2025
-Waukesha County families bracing for day care price hikes as state funding ends
-TMJ4 | June 17, 2025
-With federal funding in question, GOP lawmakers, Gov.
-Evers call for state to fund suicide hotline
-Wisconsin Public Radio | June 12, 2025
-Inside the mental health debate dividing Madison lawmakers
-Milwaukee Journal Sentinel | June 10, 2025
-Wisconsin lawmakers propose dozens of mental health care bills
-Wisconsin Public Radio | June 3, 2025
-PRESS RELEASES
-Sen.
+The Recombobulation Area | January 15, 2026 Rep.
+Vining: “The Wisconsin State Legislature is operating in darkness” -Rep.
+Robyn Vining on WisconsinEye shutdown & Republican crackdown WisPolitics | January 13, 2026 Lawmakers aim to make menstrual products free for Wisconsinites locked up in jails, prisons Wisconsin Public Radio | January 9, 2026 State corrections committee reviews prison study, hygiene bills for incarcerated people Wisconsin Examiner | January 8, 2026 Lawmakers urged to require more access to hygiene products in prisons Milwaukee Journal Sentinel | January 7, 2026 State Democrats reintroduce ‘Save Our Schools’ Act Spectrum News 1 | December 10, 2025 “Are you guys so afraid to vote?” Democrats try to force vote on popular postpartum Medicaid bill, blocked by Speaker Robin Vos 92.7 WMDX Madison | November 20, 2025 Wisconsin legislators, Halle Berry discuss menopause stigma Wisconsin Examiner | October 23, 2025 Halle Berry lobbies in Wisconsin for funding to improve women’s care CBS 58 | October 21, 2025 With over a year to go, more candidates launch 2026 campaigns early Spectrum News | August 11, 2025 Wisconsin Democrats launch push to take the majority in the Senate after years in the shadows Milwaukee Journal Sentinel | July 24, 2025 Fight for control of Wisconsin Senate is shaping up ahead of 2026 election Wisconsin Public Radio | July 23, 2025 Rep.
+Robyn Vining, calling for an inclusive and accessible Wis., launches campaign for suburban SD 5 Wisconsin Examiner | July 18, 2025 State Rep.
+Robyn Vining, D-Wauwatosa, announces her 2026 campaign for state Senate Milwaukee Journal Sentinel | July 18, 2025 Wisconsin Rep.
+Robyn Vining, D-Wauwatosa, announces her 2026 campaign for state Senate (VIDEO – FULL SPEECH) Milwaukee Journal Sentinel | July 18, 2025 As Democrats make push to flip state Senate, here are the races to watch CBS 58 | July 17, 2025 Budget deadline looms as Assembly approves new programs without funds, passes nuclear power bills Wisconsin Examiner | June 25, 2025 Waukesha County families bracing for day care price hikes as state funding ends TMJ4 | June 17, 2025 With federal funding in question, GOP lawmakers, Gov.
+Evers call for state to fund suicide hotline Wisconsin Public Radio | June 12, 2025 Inside the mental health debate dividing Madison lawmakers Milwaukee Journal Sentinel | June 10, 2025 Wisconsin lawmakers propose dozens of mental health care bills Wisconsin Public Radio | June 3, 2025 PRESS RELEASES Sen.
 Tammy Baldwin Endorses Rep.
-Robyn Vining for State Senate
-May 27, 2025
-Rep.
-Robyn Vining Re-Introduces Main Street Bounceback Program
-December 5, 2025
-Rep.
-Robyn Vining Re-Introduces Main Street Bounceback Program
-December 5, 2025
-“The Wisconsin Majority Wants to Close Our Schools–It’s Time to Be Alarmed”–Rep.
-Robyn Vining on Republican-led School Consolidation Plan
-November 19, 2025
-“It Shouldn’t Be This Hard To Get Republican Lawmakers To Do The Right Thing.”
-November 19, 2025
-Perimenopause & Menopause Education Bill Passed Out of Senate Committee–Unanimously!
-October 28, 2025
-Rep.
-Robyn Vining Announces Campaign to Flip the 5th Senate District
-July 17, 2025
-July 3, 2025
-A Win For Reproductive Freedom
-July 2, 2025
-Republican Lawmakers’ Budget Chaos Overshadows Assembly Session
-June 24, 2025
-“We Must End Gun Violence.” – Rep.
-Robyn Vining Co-Authors Gun Violence Prevention Bills
-June 4, 2025
-“Mental Healthcare Is Healthcare.” Rep.
-Robyn Vining Introduces Mental Healthcare Bill Package
-June 2, 2025
-Rep.
-Robyn Vining Introduces LGBTQIA+ Rights Mental Health Bill
-May 29, 2025
-96 Of 99 State Assembly Representatives Have School Districts Pushed To Referendum Since 2024
-May 29, 2025
-May 22, 2025
-“We Have To Match Our Words Today With Action.” -Rep.
-Robyn Vining on Mental Health Awareness Month
-May 13, 2025
-“Wisconsin Kids Deserve Better.” -Rep.
-Robyn Vining on Trump Mental Health Cuts
-May 5, 2025
+Robyn Vining for State Senate May 27, 2025 Rep.
+Robyn Vining Re-Introduces Main Street Bounceback Program December 5, 2025 Rep.
+Robyn Vining Re-Introduces Main Street Bounceback Program December 5, 2025 “The Wisconsin Majority Wants to Close Our Schools–It’s Time to Be Alarmed”–Rep.
+Robyn Vining on Republican-led School Consolidation Plan November 19, 2025 “It Shouldn’t Be This Hard To Get Republican Lawmakers To Do The Right Thing.” November 19, 2025 Perimenopause & Menopause Education Bill Passed Out of Senate Committee–Unanimously!
+October 28, 2025 Rep.
+Robyn Vining Announces Campaign to Flip the 5th Senate District July 17, 2025 State Budget Is A Broken Promise to Wisconsin Families. – Rep.
+Robyn Vining’s Statement on the 2025-2027 Budget July 3, 2025 A Win For Reproductive Freedom July 2, 2025 Republican Lawmakers’ Budget Chaos Overshadows Assembly Session June 24, 2025 “We Must End Gun Violence.” – Rep.
+Robyn Vining Co-Authors Gun Violence Prevention Bills June 4, 2025 “Mental Healthcare Is Healthcare.” Rep.
+Robyn Vining Introduces Mental Healthcare Bill Package June 2, 2025 Rep.
+Robyn Vining Introduces LGBTQIA+ Rights Mental Health Bill May 29, 2025 96 Of 99 State Assembly Representatives Have School Districts Pushed To Referendum Since 2024 May 29, 2025 Wisconsin Must Fund Childcare May 22, 2025 “We Have To Match Our Words Today With Action.” -Rep.
+Robyn Vining on Mental Health Awareness Month May 13, 2025 “Wisconsin Kids Deserve Better.” -Rep.
+Robyn Vining on Trump Mental Health Cuts May 5, 2025  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

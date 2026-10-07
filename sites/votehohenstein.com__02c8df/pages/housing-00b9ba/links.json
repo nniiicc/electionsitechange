@@ -1,14 +1,58 @@
 [
-"https://facebook.com/ElectJoeHohenstein",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1854",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1855",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1856",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1857",
-"https://secure.actblue.com/donate/friendsofjoehohenstein",
-"https://votehohenstein.com/",
-"https://votehohenstein.com/contact",
-"https://votehohenstein.com/issues",
-"https://votehohenstein.com/meet-joe",
-"https://votehohenstein.com/plan",
-"https://votehohenstein.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.votehohenstein.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friendsofjoehohenstein"
+},
+{
+"text": "HB1854: A Residential Construction Lemon Law",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1854"
+},
+{
+"text": "HB1855: Home Improvement Consumer Protection Act",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1855"
+},
+{
+"text": "HB1856: Adjacent Neighbor’s Bill of Rights",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1856"
+},
+{
+"text": "HB1857: Continuing Education for Construction Code Officials",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sind=0&body=H&type=B&bn=1857"
+},
+{
+"text": "Issues",
+"href": "https://www.votehohenstein.com/issues"
+},
+{
+"text": "Make Your Plan to Vote",
+"href": "https://www.votehohenstein.com/plan"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.votehohenstein.com/meet-joe"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehohenstein.com/volunteer"
+},
+{
+"text": "[image: Elect Joe Hohenstein]",
+"href": "https://www.votehohenstein.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJoeHohenstein/"
+},
+{
+"text": "[no text]",
+"href": "mailto:votehohenstein@gmail.com"
+},
+{
+"text": "votehohenstein@gmail.com",
+"href": "mailto:votehohenstein@gmail.com"
+}
 ]

@@ -1,18 +1,6 @@
-Veterans — Florida Veterans CARE Act
+Veterans — Florida Veterans CARE Act Honor and support for veterans.
 Florida's veterans and active servicepeople should be respected for their service and sacrifice.
 The Florida Veterans CARE Act would see the people who stood up for our country and Constitution receive full access to healthcare, mental health support and housing stability in a fiscally responsible way that protects Florida's taxpayers and strengthens Florida's economy.
-- Makes sure no Veteran is left behind
-- Expands mental health access, substance abuse treatment, famiiy support services and long-term care to veterans and active servicepeople
-- Prevents veterans homelessness via eviction prevention, rental assistance and emergency housing support
-- State assistance only kicks in after federal funding fails or doesn't complete service
-- Works in association with VA, Medicare, Medicaid, TRICARE and HUD-VASH
-- Creates an estimated 15,000 - 28,000 Florida jobs in high paying industries
-- Attracts federal funds and grants to Florida
-- Reduces government costs and emergency room usage without being an unlimited entitlement program
-Florida Veterans CARE Act should be fiscally positive within 5 years and will make a significant impact on the Florida's veteran homeless, which is the 2nd higest in the country.
-Annually this program should avoid $250 million in government spending, create $60-120 million in new state revenue and create over $1 billion in new economic activity and by Year 5:
-Over $300 million in new Florida revenue
-Over $1 billion in cost avoidance for the state government
-75,000 - 120,000 Florida jobs created
-Over $6 billion in economic output in Florida
-Florida will no longer be at the top of state with homeless veterans
+Makes sure no Veteran is left behind Expands mental health access, substance abuse treatment, famiiy support services and long-term care to veterans and active servicepeople Prevents veterans homelessness via eviction prevention, rental assistance and emergency housing support State assistance only kicks in after federal funding fails or doesn't complete service Works in association with VA, Medicare, Medicaid, TRICARE and HUD-VASH Creates an estimated 15,000 - 28,000 Florida jobs in high paying industries Attracts federal funds and grants to Florida Reduces government costs and emergency room usage without being an unlimited entitlement program Florida Veterans CARE Act should be fiscally positive within 5 years and will make a significant impact on the Florida's veteran homeless, which is the 2nd higest in the country.
+Annually this program should avoid $250 million in government spending, create $60-120 million in new state revenue and create over $1 billion in new economic activity and by Year 5: Over $300 million in new Florida revenue Over $1 billion in cost avoidance for the state government 75,000 - 120,000 Florida jobs created Over $6 billion in economic output in Florida Florida will no longer be at the top of state with homeless veterans ← Back to Platform Read More… Paid for by Erik Morris, Write-In Candidate for Florida Governor (2026).
+Excess funds are reinvested into Florida communities.

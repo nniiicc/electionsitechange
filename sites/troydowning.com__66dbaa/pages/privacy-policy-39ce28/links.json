@@ -1,6 +1,14 @@
 [
-"http://aboutads.info/choices",
-"https://troydowning.com/ca-opt-out",
-"https://troydowning.com/privacy-policy",
-"https://troydowning.com/www.aboutads.info"
+{
+"text": "Privacy Policy",
+"href": "https://www.troydowning.com/privacy-policy"
+},
+{
+"text": "here",
+"href": "https://www.troydowning.com/ca-opt-out"
+},
+{
+"text": "www.aboutads.info",
+"href": "https://www.troydowning.com/www.aboutads.info"
+}
 ]

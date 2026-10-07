@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=22nd+Annual+NWA+Pride+Weekend&dates=20260626T230000Z%2F20260628T230000Z&location=West+Dickson+Street%2C+Fayetteville%2C+AR%2C+72701%2C+United+States",
-"http://instagram.com/smith_for_ar_13",
-"http://maps.google.com/?q=West+Dickson+Street+Fayetteville%2C+AR%2C+72701+United+States",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://nwapride.org/",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/events/bentonville-first-friday-july",
-"https://smithforar.org/events/friday-community-hours-3",
-"https://smithforar.org/events/nwa-pride-weekend?format=ical",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=west+dickson+street+fayetteville%2C+ar%2C+72701+united+states"
+},
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=22nd+Annual+NWA+Pride+Weekend&dates=20260626T230000Z%2F20260628T230000Z&location=West+Dickson+Street%2C+Fayetteville%2C+AR%2C+72701%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/nwa-pride-weekend?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Next Next July 3 America’s 250th at Bentonville first friday",
+"href": "https://smithforar.org/events/bentonville-first-friday-july"
+},
+{
+"text": "Previous Previous June 12 Friday Community Hours - Ozark Beer Company",
+"href": "https://smithforar.org/events/friday-community-hours-3"
+},
+{
+"text": "Pride Northwest Arkansas",
+"href": "https://nwapride.org/"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+}
 ]

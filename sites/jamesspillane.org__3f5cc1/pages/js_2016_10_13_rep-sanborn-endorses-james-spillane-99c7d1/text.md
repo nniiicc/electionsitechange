@@ -1,10 +1,9 @@
-Representative Spillane has proven to be a very effective legislator in the NH House.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page Rep.
+Sanborn Endorses James Spillane Oct 13, 2016 Representative Spillane has proven to be a very effective legislator in the NH House.
 While many freshman Reps take some time to “learn the ropes,” James immediately demonstrated a strong understanding of policy, an impressive ability to articulate his viewpoints, and a principled, conservative voting record.
 Representative Spillane is a leader who has earned the respect of his peers and works tirelessly in Concord for his constituents.
 He also recently founded the New Hampshire Veteran Sportsman Foundation, a non-profit, to provide free hunting and fishing licenses to NH Veterans needing assistance.
 James Spillane is a terrific public servant and representative for the people of our state.
 It’s been an honor to serve with him and I hope you will vote for him on November 8th.
-Representative Laurie Sanborn
-Chair, House Business Caucus
-NH House of Representatives
-Bedford, NH
+Representative Laurie Sanborn Chair, House Business Caucus NH House of Representatives Bedford, NH SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

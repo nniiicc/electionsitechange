@@ -1,5 +1,4 @@
-Answering the Call to Duty
-To truly understand the multiple layers of state government, you must see it from the outside and the inside.
+Site Logo Priorities Volunteer Yard Signs Open menu Contact The Campaign Answering the Call to Duty To truly understand the multiple layers of state government, you must see it from the outside and the inside.
 That is what I have done for 25 years in public service — as a local leader, a state representative, and most recently as a top staff member helping craft proposed state budgets and researching issues to help stop some of the most reckless legislation coming out of Hartford.
 Let me clarify a point on my current job as well.
 If I win in November, I will give up my current state job and full-time salary, before being sworn into the role in January 2027.
@@ -20,5 +19,6 @@ We must demand a government that lives within its means so families can live wit
 We need a strong voice standing up for our small towns.
 That does not always mean the loudest voice, but I pledge to use every tool in my toolbox to advocate for you — for local control, for scrutiny of every dollar, and for keeping more of what you earn at home, in your own pocket to begin with.
 I have a unique perspective, and I intend to use that knowledge for all our benefit.
-Melissa Ziobron
-East Haddam
+Melissa Ziobron East Haddam Around Town Town of East Haddam Town of East Hampton Town of Salem Election Information Check Your Voter Registration Register to Vote Absentee Ballots PAID FOR BY MZ 2026.
+APPROVED BY MELISSA ZIOBRON.
+East Haddam | East Hampton | Salem

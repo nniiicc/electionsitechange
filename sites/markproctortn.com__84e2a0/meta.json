@@ -1,7 +1,11 @@
 {
  "description": "Mark Proctor for Tennessee's campaign",
  "final_url": "https://www.markproctortn.com/",
+ "fingerprint": "a828176b5e7ba9ba38bf8a10cfa1452d2aed9e9d",
+ "format": 3,
  "paid_for_by": "Paid for by Mark Proctor for Tennessee",
  "title": "Mark Proctor for Tennessee",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

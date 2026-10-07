@@ -1,10 +1,42 @@
 [
-"https://actblue.com/donate/southey4senateshirts",
-"https://secure.actblue.com/donate/southey-blanton-1",
-"https://southey4senate.com/",
-"https://southey4senate.com/7ca6c-contact",
-"https://southey4senate.com/7ca6c-projects",
-"https://southey4senate.com/classrooms",
-"https://southey4senate.com/volunteer",
-"https://southey4senate.com/why-run"
+{
+"text": "Classrooms",
+"href": "https://southey4senate.com/classrooms/"
+},
+{
+"text": "Contact",
+"href": "https://southey4senate.com/7ca6c-contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/southey-blanton-1"
+},
+{
+"text": "Home",
+"href": "https://southey4senate.com/"
+},
+{
+"text": "Issues",
+"href": "https://southey4senate.com/7ca6c-projects/"
+},
+{
+"text": "Make a Donation!",
+"href": "https://secure.actblue.com/donate/southey-blanton-1"
+},
+{
+"text": "Shirts",
+"href": "https://www.actblue.com/donate/southey4senateshirts"
+},
+{
+"text": "Volunteer",
+"href": "https://southey4senate.com/volunteer/"
+},
+{
+"text": "Why Run?",
+"href": "https://southey4senate.com/why-run/"
+},
+{
+"text": "[image: Logo that reads Southey 4 Senate with a small icon of the state of NC and the letters NC and the number 25]",
+"href": "https://southey4senate.com/"
+}
 ]

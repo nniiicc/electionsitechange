@@ -1,20 +1,98 @@
 [
-"https://facebook.com/RebeccaReimer26",
-"https://rebeccareimer.com/",
-"https://rebeccareimer.com/cart",
-"https://rebeccareimer.com/endorsements",
-"https://rebeccareimer.com/meetrebecca",
-"https://rebeccareimer.com/policy",
-"https://rebeccareimer.com/press-release/representative-rebecca-reimer-announces-candidacy-for-state-senate-in-district-26",
-"https://rebeccareimer.com/pressrelease",
-"https://rebeccareimer.com/privacy-policy",
-"https://rebeccareimer.com/takeaction",
-"https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/forms.aspx",
-"https://secure.winred.com/friends-of-rebecca-reimer/donate",
-"https://secure.winred.com/friends-of-rebecca-reimer/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://secure.winred.com/friends-of-rebecca-reimer/volunteer",
-"https://secure.winred.com/friends-of-rebecca-reimer/vote",
-"https://secure.winred.com/friends-of-rebecca-reimer/yardsign",
-"https://x.com/RebeccaReimer26"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "0",
+"href": "https://www.rebeccareimer.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rebeccareimer.com/endorsements"
+},
+{
+"text": "Get Your Yard Sign",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/yardsign"
+},
+{
+"text": "Home",
+"href": "https://www.rebeccareimer.com/"
+},
+{
+"text": "Meet Rebecca",
+"href": "https://www.rebeccareimer.com/meetrebecca"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.rebeccareimer.com/policy"
+},
+{
+"text": "Press",
+"href": "https://www.rebeccareimer.com/pressrelease"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rebeccareimer.com/privacy-policy"
+},
+{
+"text": "Privacy Policy﻿",
+"href": "https://www.rebeccareimer.com/privacy-policy"
+},
+{
+"text": "READ More",
+"href": "https://www.rebeccareimer.com/press-release/representative-rebecca-reimer-announces-candidacy-for-state-senate-in-district-26"
+},
+{
+"text": "Request absentee ballot",
+"href": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+},
+{
+"text": "Take Action",
+"href": "https://www.rebeccareimer.com/takeaction"
+},
+{
+"text": "Vote for Rebecca",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/vote"
+},
+{
+"text": "[image: Rebecca Reimer for District 26 Senate]",
+"href": "https://www.rebeccareimer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RebeccaReimer26"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RebeccaReimer26"
+},
+{
+"text": "register to vote",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/forms.aspx"
+},
+{
+"text": "volunteer for rebecca",
+"href": "https://secure.winred.com/friends-of-rebecca-reimer/volunteer"
+}
 ]

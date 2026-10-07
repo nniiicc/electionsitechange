@@ -1,19 +1,78 @@
 [
-"https://carlosgimenezforcongress.com/",
-"https://carlosgimenezforcongress.com/contact",
-"https://carlosgimenezforcongress.com/meet-carlos",
-"https://carlosgimenezforcongress.com/privacy-policy",
-"https://carlosgimenezforcongress.com/resources-for-voters",
-"https://carlosgimenezforcongress.com/take-action",
-"https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv",
-"https://facebook.com/CarlosGimenezforCongress",
-"https://instagram.com/carlosgimenezfl26",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true&amount=10",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true&amount=100",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true&amount=20",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true&amount=25",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true&amount=250",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true&amount=50",
-"https://twitter.com/CarlosGimenezFL"
+{
+"text": "$10",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true&amount=50"
+},
+{
+"text": "Contact",
+"href": "https://carlosgimenezforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true"
+},
+{
+"text": "Issues",
+"href": "https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv/"
+},
+{
+"text": "Learn More",
+"href": "https://carlosgimenezforcongress.com/meet-carlos/"
+},
+{
+"text": "Meet Carlos",
+"href": "https://carlosgimenezforcongress.com/meet-carlos/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true&amount=25"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carlosgimenezforcongress.com/privacy-policy/"
+},
+{
+"text": "Take Action",
+"href": "https://carlosgimenezforcongress.com/take-action/"
+},
+{
+"text": "Take The Survey",
+"href": "https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv/"
+},
+{
+"text": "Vote",
+"href": "https://carlosgimenezforcongress.com/resources-for-voters/"
+},
+{
+"text": "[image: Carlos Gimenez for Congress]",
+"href": "https://carlosgimenezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/CarlosGimenezFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarlosGimenezforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carlosgimenezfl26/"
+}
 ]

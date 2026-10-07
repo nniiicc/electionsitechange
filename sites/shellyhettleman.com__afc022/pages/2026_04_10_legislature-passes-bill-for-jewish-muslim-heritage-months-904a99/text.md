@@ -1,7 +1,5 @@
-JMORE
-APRIL 10, 2026
-The Maryland General Assembly passed a bill on Friday, Apr. 10, designating May as “Jewish Heritage Month” and January as “Muslim Heritage Month.”
-House Bill 661 is the culmination of a collaborative effort led by Del.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Legislature Passes Bill for Jewish & Muslim Heritage Months Apr 10, 2026 JMORE APRIL 10, 2026 The Maryland General Assembly passed a bill on Friday, Apr.
+10, designating May as “Jewish Heritage Month” and January as “Muslim Heritage Month.” House Bill 661 is the culmination of a collaborative effort led by Del.
 Sarah S.
 Wolek (D-16th) of Montgomery County, Del.
 Jared S.
@@ -16,4 +14,5 @@ Wes Moore for his signature.
 Solomon said the bill promotes dialogue and unity.
 “Given the times we’re living in, working on this bill together — and ensuring it reflects an expression of unity — is essential,” he said.
 “There is far more that unites us than divides us.
-It sends a clear message: we are stronger when we stand together, and progress is best achieved not in isolation, but through partnership and mutual respect.”
+It sends a clear message: we are stronger when we stand together, and progress is best achieved not in isolation, but through partnership and mutual respect.” Read the full article Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

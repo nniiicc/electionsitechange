@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Town+Hall&dates=20260729T230000Z%2F20260730T000000Z",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/candidate-forum-on-environmental-issues",
-"https://zebulonforcongress.com/events/virtual-town-hall-wnptw",
-"https://zebulonforcongress.com/events/virtual-town-hall?format=ical",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Town+Hall&dates=20260729T230000Z%2F20260730T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next August 12 Virtual Town Hall",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-wnptw"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous July 19 Candidate Forum on Environmental Issues",
+"href": "https://www.zebulonforcongress.com/events/candidate-forum-on-environmental-issues"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+}
 ]

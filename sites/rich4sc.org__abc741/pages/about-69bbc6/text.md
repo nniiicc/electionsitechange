@@ -1,5 +1,4 @@
-About
-Quite possibly the most important thing to know about Rich Nicoloff is that he is small town guy who values community.
+Skip to content I want to represent ALL of the citizens of District 17, not just a select few. — Rich Home About Blog Events Facebook Instagram Bluesky About Quite possibly the most important thing to know about Rich Nicoloff is that he is small town guy who values community.
 As the son of a school administrator & a teacher, Rich lived in 4 different small towns in Illinois & Vermont & attended 5 different schools before graduating high school in 1988.
 He has experienced the positives & negatives of small towns & has witnessed both the decline & growth that can occur.
 Rich Nicoloff is proud member of Generation X who grew up idolizing Ronald Reagan & Michael J.
@@ -13,7 +12,8 @@ Life was about to change dramatically for the Nicoloffs!
 After looking at childcare options Rich realized that he would be working Monday through Thursday, just to cover the bill for each week.
 After much discussion & number crunching, Rich & Kristie decided that it would be best for Rich to be a stay-at-home Dad & start his nature photography business.
 The Nicoloffs first child was born just before September 11, 2001 and that is when Rich’s political ideals began to change after seeing how fear led to government overreach led by the Republican Party.
-Fast forward to 2008 we find Rich Nicoloff featured on NBC news nationally as a stay-at-home Dad of 3 amazing kids during a time when stay-at-home Dads were extremely rare. 2008 is also the year that Rich voted for his first Democratic Presidential candidate.
+Fast forward to 2008 we find Rich Nicoloff featured on NBC news nationally as a stay-at-home Dad of 3 amazing kids during a time when stay-at-home Dads were extremely rare.
+2008 is also the year that Rich voted for his first Democratic Presidential candidate.
 Disgusted by a rise in fear mongering, the economy sinking into a recession, restricted freedoms, and the rise of Christian Nationalism in the Republican Party, Rich now an Independent voted for Barack Obama.
 During this time, Charlotte had grown too big too fast under its Republican mayor & no longer felt like a community where the Nicoloffs wanted to raise their children.
 Also wanting to live closer to the mountains that Rich loved to photograph, the Nicoloffs set their sights on the Upstate of South Carolina, specifically the small community of Travelers Rest.
@@ -27,3 +27,5 @@ Rich’s youngest has just gone off to college, Rich finally finishes his Bachel
 March 2026 rolls around & Rich learns that no one, Republican or Democrat, has stepped up to challenge the “do little” incumbent representative, so he decides to DO SOMETHING.
 Say “Hello” to Rich Nicoloff, the common sense Democratic candidate for South Carolina’s House of Representatives District 17.
 Rich is a caring, pragmatic, creative leader who has been listening to his neighbors and will put in the hard work to move South Carolina forward for all of it’s citizens and ensure that the voices of the Northern Greenville County communities can be heard at the state level.
+Forward is here to help get your organization moving in the right direction!
+Buy Now Like Us On Facebook Sponsors Paid for by Campaign Fund of Rich Nicoloff Copyright #

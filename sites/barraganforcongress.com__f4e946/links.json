@@ -1,20 +1,106 @@
 [
-"http://barraganforcongress.com/about",
-"http://barraganforcongress.com/connect",
-"http://barraganforcongress.com/endorsements",
-"http://barraganforcongress.com/find-polling-place",
-"https://barraganforcongress.com/",
-"https://barraganforcongress.com/?page_id=12",
-"https://barraganforcongress.com/?page_id=755",
-"https://barraganforcongress.com/about",
-"https://barraganforcongress.com/author/barraganforcongress",
-"https://barraganforcongress.com/connect",
-"https://barraganforcongress.com/endorsements",
-"https://barraganforcongress.com/https",
-"https://barraganforcongress.com/issues",
-"https://barraganforcongress.com/media",
-"https://barraganforcongress.com/volunteer",
-"https://facebook.com/nanettebarraganforcongress?fref=ts",
-"https://secure.ngpvan.com/buhDGILET0ukBuA_x4JizA2",
-"https://twitter.com/Nanette4CA"
+{
+"text": "About",
+"href": "https://barraganforcongress.com/about/"
+},
+{
+"text": "BarraganForCongress",
+"href": "https://barraganforcongress.com/author/barraganforcongress/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://barraganforcongress.com/?page_id=12"
+},
+{
+"text": "Connect",
+"href": "https://barraganforcongress.com/connect/"
+},
+{
+"text": "Connect With Nanette",
+"href": "http://barraganforcongress.com/connect/"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/buhDGILET0ukBuA_x4JizA2"
+},
+{
+"text": "Endorsements",
+"href": "https://barraganforcongress.com/endorsements/"
+},
+{
+"text": "Find Your Polling Place!",
+"href": "http://barraganforcongress.com/find-polling-place/"
+},
+{
+"text": "Home",
+"href": "https://barraganforcongress.com/"
+},
+{
+"text": "Internships",
+"href": "https://barraganforcongress.com/?page_id=755"
+},
+{
+"text": "Issues",
+"href": "https://barraganforcongress.com/issues/"
+},
+{
+"text": "Join Nanette's Email List",
+"href": "https://barraganforcongress.com/https"
+},
+{
+"text": "Learn More About Nanette",
+"href": "http://barraganforcongress.com/about/"
+},
+{
+"text": "Media",
+"href": "https://barraganforcongress.com/media/"
+},
+{
+"text": "News",
+"href": "https://barraganforcongress.com/?page_id=12"
+},
+{
+"text": "Read The Endorsements",
+"href": "http://barraganforcongress.com/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://barraganforcongress.com/volunteer/"
+},
+{
+"text": "[image: Facebook-Icon]",
+"href": "https://www.facebook.com/nanettebarraganforcongress?fref=ts"
+},
+{
+"text": "[image: Nanette Barragan For Congress (CA-44) Logo] [image: Nanette Barragan For Congress (CA-44) Retina Logo]",
+"href": "https://barraganforcongress.com/"
+},
+{
+"text": "[image: email-newsletter]",
+"href": "https://secure.ngpvan.com/buhDGILET0ukBuA_x4JizA2"
+},
+{
+"text": "[image: twitter-icon-final]",
+"href": "https://twitter.com/Nanette4CA"
+},
+{
+"text": "[image]",
+"href": "https://barraganforcongress.com/about/"
+},
+{
+"text": "[image]",
+"href": "https://barraganforcongress.com/connect/"
+},
+{
+"text": "[image]",
+"href": "https://barraganforcongress.com/endorsements/"
+},
+{
+"text": "[image]",
+"href": "https://secure.ngpvan.com/buhDGILET0ukBuA_x4JizA2"
+},
+{
+"text": "info@barraganforcongress.com",
+"href": "mailto:info@barraganforcongress.com"
+}
 ]

@@ -1,50 +1,206 @@
 [
-"https://commonedge.org/back-to-earth-the-case-for-lowering-speculative-land-values",
-"https://comptroller.texas.gov/economy/fiscal-notes/archive/2016/february/fuels.php",
-"https://demographics.texas.gov/Visualizations/2025/CostHousing",
-"https://discord.com/login",
-"https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP",
-"https://environmentamerica.org/texas/articles/data-center-moratorium-now",
-"https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows",
-"https://everytexan.org/2024/01/09/latest-study-confirms-unfairness-of-texas-state-and-local-tax-systems",
-"https://feeds.texastribune.org/link/16799/17489722/ken-paxton-third-quarter-fundraising-texas-senate-race-2026",
-"https://feeds.texastribune.org/link/16799/17489834/vote-2",
-"https://foundeconjust.org/henry-george",
-"https://fred.stlouisfed.org/FRED",
-"https://greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school",
-"https://greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade",
-"https://instagram.com/kevinmccormick2026",
-"https://kmm2026.org/",
-"https://kmm2026.org/2016campaign",
-"https://kmm2026.org/about",
-"https://kmm2026.org/business-cards",
-"https://kmm2026.org/campaign2026",
-"https://kmm2026.org/contact",
-"https://kmm2026.org/donate-now",
-"https://kmm2026.org/issues2026",
-"https://kmm2026.org/issues2026/election-code-reform-proposal",
-"https://kmm2026.org/issues2026/health-care-proposal",
-"https://kmm2026.org/monetary",
-"https://kmm2026.org/monetary/mrblog",
-"https://kmm2026.org/transportation",
-"https://legalclarity.org/the-history-of-property-tax-when-did-it-start",
-"https://legalclarity.org/what-are-the-pros-and-cons-of-a-texas-income-tax",
-"https://media.itep.org/ITEP-Who-Pays-7th-edition.pdf",
-"https://newamerica.org/insights/tax-land-not-buildings-to-spur-development",
-"https://reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica",
-"https://reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols",
-"https://secure.facebook.com/login",
-"https://selling-guide.fanniemae.com/sel/b4-1.3-08/comparable-sales",
-"https://statutes.capitol.texas.gov/Docs/CN/htm/CN.8.htm",
-"https://taxfoundation.org/data/all/state/state-income-tax-rates-2024",
-"https://texasfarmbureau.org/citrus-harvest-set-to-begin-after-hot-dry-summer",
-"https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief",
-"https://texasfarmbureau.org/invasive-pests-threaten-texas-agriculture",
-"https://texaspolicyresearch.com/texas-property-tax-levies-continue-climbing-in-2025",
-"https://usatoday.com/story/money/personalfinance/real-estate/2026/06/17/americas-housing-expensive-unavailable-giving-up/90487899007",
-"https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs",
-"https://usrtk.org/covid-19-origins/origin-of-sars-cov-2-gain-of-function-readings",
-"https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity",
-"https://x.com/signin",
-"https://youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+{
+"text": "2016 Campaign",
+"href": "https://www.kmm2026.org/2016campaign"
+},
+{
+"text": "About",
+"href": "https://www.kmm2026.org/about"
+},
+{
+"text": "Back to Earth: The Case for Lowering Speculative Land Values",
+"href": "https://commonedge.org/back-to-earth-the-case-for-lowering-speculative-land-values/"
+},
+{
+"text": "Business Card Campaign",
+"href": "https://www.kmm2026.org/business-cards"
+},
+{
+"text": "Campaign Donations",
+"href": "https://www.kmm2026.org/donate-now"
+},
+{
+"text": "Campaign-2026",
+"href": "https://www.kmm2026.org/campaign2026"
+},
+{
+"text": "Contact",
+"href": "https://www.kmm2026.org/contact"
+},
+{
+"text": "Data center moratorium now",
+"href": "https://environmentamerica.org/texas/articles/data-center-moratorium-now/"
+},
+{
+"text": "FOI documents on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/"
+},
+{
+"text": "FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-litigation-on-origins-of-sars-cov-2-gain-of-function-2/"
+},
+{
+"text": "Farmers call for federal diesel price relief",
+"href": "https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief/"
+},
+{
+"text": "Federal Reserve Bank of St. Louis",
+"href": "https://fred.stlouisfed.org/FRED"
+},
+{
+"text": "Forty-one states tax wage and salary income",
+"href": "https://taxfoundation.org/data/all/state/state-income-tax-rates-2024/"
+},
+{
+"text": "Graph by Texas Demographic Center",
+"href": "https://demographics.texas.gov/Visualizations/2025/CostHousing/"
+},
+{
+"text": "Henry George",
+"href": "https://foundeconjust.org/henry-george/"
+},
+{
+"text": "Home",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "Hormone-disrupting chemical mixtures linked to excess childhood weight",
+"href": "https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity/"
+},
+{
+"text": "ITEP: Who Pays? A Distributional Analysis of the Tax Systems in All 50 States",
+"href": "https://media.itep.org/ITEP-Who-Pays-7th-edition.pdf"
+},
+{
+"text": "Issues-2026",
+"href": "https://www.kmm2026.org/issues2026"
+},
+{
+"text": "MR-Blog",
+"href": "https://www.kmm2026.org/monetary/mrblog"
+},
+{
+"text": "Monetary",
+"href": "https://www.kmm2026.org/monetary"
+},
+{
+"text": "Next article: Health Care Proposal Next",
+"href": "https://www.kmm2026.org/issues2026/health-care-proposal"
+},
+{
+"text": "Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica",
+"href": "https://www.reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica/"
+},
+{
+"text": "Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols",
+"href": "https://www.reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols/"
+},
+{
+"text": "Previous article: Election Code Reform Proposal Prev",
+"href": "https://www.kmm2026.org/issues2026/election-code-reform-proposal"
+},
+{
+"text": "RELEASE: Gas power plant proposals surging, new interactive map shows",
+"href": "https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows/"
+},
+{
+"text": "Reflections on academic tenure prompted by events at The New School",
+"href": "https://www.greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school/"
+},
+{
+"text": "Sec. 24-a. INDIVIDUAL INCOME TAX PROHIBITED",
+"href": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.8.htm#8.24-a"
+},
+{
+"text": "Students discuss ag issues during 2026 SOFA Challenge",
+"href": "https://texasfarmbureau.org/students-discuss-ag-issues-during-2026-sofa-challenge/"
+},
+{
+"text": "Texas comptroller investigating spending in Austin ISD, other districts",
+"href": "https://feeds.texastribune.org/link/16799/17490892/texas-school-district-spending-review"
+},
+{
+"text": "Texas governor 2026: Who is running and what to know",
+"href": "https://feeds.texastribune.org/link/16799/17490893/texas-governor-2026-guide-abbott-hinojosa"
+},
+{
+"text": "Transportation",
+"href": "https://www.kmm2026.org/transportation"
+},
+{
+"text": "Trump signs order that expands access to tax-exempt diesel",
+"href": "https://texasfarmbureau.org/trump-signs-order-that-expands-access-to-tax-exempt-diesel/"
+},
+{
+"text": "U.S. Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade",
+"href": "https://www.greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade/"
+},
+{
+"text": "What Are the Pros and Cons of a Texas Income Tax?",
+"href": "https://legalclarity.org/what-are-the-pros-and-cons-of-a-texas-income-tax/"
+},
+{
+"text": "[image: acacia farnesiana]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://discord.com/login"
+},
+{
+"text": "[no text]",
+"href": "https://secure.facebook.com/login/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kevinmccormick2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/signin"
+},
+{
+"text": "about 10% of highway construction and maintenance costs",
+"href": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2016/february/fuels.php"
+},
+{
+"text": "align market incentives with the public good",
+"href": "https://www.newamerica.org/insights/tax-land-not-buildings-to-spur-development/"
+},
+{
+"text": "are comparable to Texas economic growth",
+"href": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP"
+},
+{
+"text": "are unaffordable for many",
+"href": "https://www.usatoday.com/story/money/personalfinance/real-estate/2026/06/17/americas-housing-expensive-unavailable-giving-up/90487899007/"
+},
+{
+"text": "comparable sales",
+"href": "https://selling-guide.fanniemae.com/sel/b4-1.3-08/comparable-sales"
+},
+{
+"text": "economic value of land",
+"href": "https://legalclarity.org/the-history-of-property-tax-when-did-it-start/"
+},
+{
+"text": "largest tax increase in Texas history",
+"href": "https://www.texaspolicyresearch.com/texas-property-tax-levies-continue-climbing-in-2025/"
+},
+{
+"text": "property ownership is unaffordable",
+"href": "https://demographics.texas.gov/Visualizations/2025/CostHousing/"
+},
+{
+"text": "regressive nature of the Texas tax system",
+"href": "https://everytexan.org/2024/01/09/latest-study-confirms-unfairness-of-texas-state-and-local-tax-systems/"
+}
 ]

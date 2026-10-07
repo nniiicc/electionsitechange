@@ -1,13 +1,2 @@
-LWV Candidate Forum
-Time
-Wednesday, Sep 30, 2026
-6:30 PM – 8:30 PM
-Location
-472 Main Street, Ridgefield
-https://ridgefieldlibrary.librarymarket.com/event/hold-lwvr-candidates-forum-145550
-About this event
-Add your event description here
-Location
-472 Main Street
-Ridgefield
-https://ridgefieldlibrary.librarymarket.com/event/hold-lwvr-candidates-forum-145550
+Meet Melissa Issues Events Volunteer Contribute Events / LWV Candidate Forum LWV Candidate Forum Time Wednesday, Sep 30, 2026 6:30 PM – 8:30 PM Location 472 Main Street, Ridgefield https://ridgefieldlibrary.librarymarket.com/event/hold-lwvr-candidates-forum-145550 About this event Add your event description here Location 472 Main Street Ridgefield https://ridgefieldlibrary.librarymarket.com/event/hold-lwvr-candidates-forum-145550 Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

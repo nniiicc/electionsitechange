@@ -1,11 +1,46 @@
 [
-"https://actionnetwork.org/forms/claire-for-delaware-volunteer-opportunities-3?clear_id=true",
-"https://clairesnyderhall.com/",
-"https://clairesnyderhall.com/2431-2",
-"https://clairesnyderhall.com/bio",
-"https://clairesnyderhall.com/issues",
-"https://clairesnyderhall.com/op-ed",
-"https://facebook.com/ClaireSnyderHall",
-"https://instagram.com/claire4delaware",
-"https://secure.actblue.com/donate/claire-for-delaware-1"
+{
+"text": "Bio",
+"href": "https://clairesnyderhall.com/bio/"
+},
+{
+"text": "Campaign Shots",
+"href": "https://clairesnyderhall.com/2431-2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/claire-for-delaware-1"
+},
+{
+"text": "Home",
+"href": "https://clairesnyderhall.com/"
+},
+{
+"text": "Issues and Platform",
+"href": "https://clairesnyderhall.com/issues/"
+},
+{
+"text": "Op/Ed",
+"href": "https://clairesnyderhall.com/op-ed/"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/claire-for-delaware-volunteer-opportunities-3?clear_id=true"
+},
+{
+"text": "[image: Follow Us on E-mail]",
+"href": "mailto:clairefordelaware@gmail.com?subject=Contact+Request"
+},
+{
+"text": "[image: Follow Us on Facebook]",
+"href": "https://www.facebook.com/ClaireSnyderHall"
+},
+{
+"text": "[image: Follow Us on Instagram]",
+"href": "https://www.instagram.com/claire4delaware/"
+},
+{
+"text": "clairefordelaware@gmail.com",
+"href": "mailto:clairefordelaware@gmail.com&subject=Contact Request"
+}
 ]

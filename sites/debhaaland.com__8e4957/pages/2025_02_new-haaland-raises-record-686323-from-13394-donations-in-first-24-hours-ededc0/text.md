@@ -1,5 +1,6 @@
-Haaland Raises Record $686,323 from 13,394 Donations in First 24 Hours
-Haaland received a groundswell of grassroots support since launching her campaign on Tuesday.
+Donate to a Campaign for All New Mexicans New Mexicans are facing tough challenges and Deb Haaland is the leader we need to challenge the status quo and move us toward a future where everyone can thrive.
+Do what you can today to help us win! $# $# $# $# $# Other amount Close Facebook Instagram X TikTok Bluesky YouTube Deb Haaland for New Mexico Menu News Home Meet Deb Deb’s Plan Endorsements Events Store Donate Press Release Haaland Raises Record $# from 13,394 Donations in First # Hours February 12, 2025 Haaland received a groundswell of grassroots support since launching her campaign on Tuesday .
+Albuquerque, N.M . – Today, the Deb Haaland for New Mexico campaign announced that just one day after launching, she has raised $686,323 from 13,394 unique donations.
 This includes donations from every county in New Mexico totaling $232,625 in more than 2,500 donations.
 A significant number of donors are educators, healthcare professionals, and artists— demonstrating Haaland’s focus on connecting with hardworking Americans.
 Haaland’s campaign received contributions from individuals in all 50 states and DC with an average online contribution of just under $50.
@@ -11,8 +12,7 @@ We’re running a grassroots campaign to change the game for New Mexico and this
 Haaland launched her campaign on Tuesday with a video highlighting her commitment to lowering costs, addressing crime, and promoting healthy communities.
 Over the next month, she will travel the state to listen to New Mexicans and learn about their struggles and ideas for solutions that fit their communities.
 Haaland’s fundraising efforts align with New Mexico’s statute which bars sitting state elected officials from fundraising during the New Mexico legislative session.
-About Deb Haaland
-Deb Haaland is a 35th-generation New Mexican, a member of the Pueblo of Laguna, a small businesswoman, a working mother who’s lived paycheck to paycheck, a former congresswoman, and for the past four years, the United States Secretary of the Interior.
+About Deb Haaland Deb Haaland is a 35th-generation New Mexican, a member of the Pueblo of Laguna, a small businesswoman, a working mother who’s lived paycheck to paycheck, a former congresswoman, and for the past four years, the United States Secretary of the Interior.
 Like many New Mexicans, Deb has faced challenges, like homelessness and financial insecurity.
 Deb helped pay for her child’s preschool by volunteering at the school for discounted tuition.
 She relied on food stamps to put food on the table and Planned Parenthood for essential care.
@@ -30,4 +30,13 @@ In Congress, Deb prioritized issues important to New Mexicans, including creatin
 She was known for working across the aisle to deliver for New Mexico, securing more bipartisan cosponsors for her legislation than all House freshmen in 2019, and introducing six bills signed into law by President Donald Trump—among the most of any member of the House that Congress.
 Growing up in a military family, Deb attended 13 public schools before graduating from Highland High School in Albuquerque.
 At age 28, she began her journey toward a Bachelor’s degree in English from the University of New Mexico and later a J.D. from UNM Law School.
-###
+### Join Deb’s Campaign Deb Haaland is running for Governor because she’s lived the struggles of New Mexicans.
+She understands that crime, homelessness, addiction, and high prices are putting success out of reach for many families in our state and Deb is determined to face those challenges head-on.
+First name Email address * Zip code * Mobile number By submitting this form and providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from Deb for New Mexico.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms.
+Sign Up!
+Give Do what you can today to help us win! $10 $25 $100 $250 $500 Other amount Deb Haaland for New Mexico Home The Latest Meet Deb Deb’s Plan Endorsements Follow Us: Facebook Instagram X TikTok Bluesky YouTube Donate By Mail Deb for New Mexico PO Box 25024 Albuquerque, NM 87125 Paid for and authorized by Deb for New Mexico Contact Privacy Policy Made with Middle Seat

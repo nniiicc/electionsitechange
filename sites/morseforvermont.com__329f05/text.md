@@ -1,4 +1,7 @@
-A Hometown Voice for Vermont’s Future.
+0 Skip to Content Home Meet Dylan Priorities Contact Join Team Morse!
+Donate Open Menu Close Menu Open Menu Close Menu Home Meet Dylan Priorities Contact Join Team Morse!
+Donate Home Meet Dylan Priorities Contact Join Team Morse!
+Donate A Hometown Voice for Vermont’s Future.
 It is no secret that Vermont is facing steep affordability challenges.
 From rising property taxes to unaffordable housing costs, Vermonters young and old are being priced out.
 That’s not right - we have to change course.
@@ -13,27 +16,10 @@ I’m committed to the community I grew up in and see clearly that everyday Verm
 I’m running for State Representative to build a more prosperous Vermont for everyday people.
 It’s time for change.
 Join Team Morse today to stay in the loop!
-Housing
-〰️
-Demographics
-〰️
-Education
-〰️
-Healthcare
-〰️
-Landscape
-〰️
-Housing 〰️ Demographics 〰️ Education 〰️ Healthcare 〰️ Landscape 〰️
-Donate Today To support Dylan!
-vote dylan for state representative!
-Hartland
-Damon Hall
-vote for dylan in the General Election!
-windsor
-Windsor Rec Center
-west windsor
-Story Memorial Hall
-Nov. 3rd
-connect with dylan
-I’m running for State Representative because I want to serve you in Montpelier.
+Join Team Morse!
+Housing 〰️ Demographics 〰️ Education 〰️ Healthcare 〰️ Landscape 〰️ Housing 〰️ Demographics 〰️ Education 〰️ Healthcare 〰️ Landscape 〰️ Housing 〰️ Demographics 〰️ Education 〰️ Healthcare 〰️ Landscape 〰️ Donate Today To support Dylan! $5 $10 $25 $50 $100 Other Amount vote dylan for state representative!
+Hartland Damon Hall vote for dylan in the General Election! windsor Windsor Rec Center west windsor Story Memorial Hall Nov.
+3rd connect with dylan I’m running for State Representative because I want to serve you in Montpelier.
 Let me know which issues matter to you and how I can help!
+Dylan Morse for Vermont Join Team Morse!
+Meet Dylan | Donate | Instagram | Facebook Paid for by Dylan Morse for Vermont Treasurer Tanner Bessette 31 Ocean View Drive Hartland, Vermont 05048

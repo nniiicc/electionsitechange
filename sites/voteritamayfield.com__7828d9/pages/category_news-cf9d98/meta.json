@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.voteritamayfield.com/category/news/",
- "paid_for_by": null,
+ "fingerprint": "d32e138ccfdfe977ad293c6ffc13150a2ba80483",
+ "format": 3,
+ "paid_for_by": "",
  "title": "news Archives - Rita Mayfield for State Rep",
  "years_mentioned": [
   "2021",
-  "2022"
+  "2022",
+  "2023",
+  "2024",
+  "2025"
  ]
 }

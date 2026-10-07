@@ -1,9 +1,13 @@
 {
  "description": "Welcome to the official homepage of Delegate Simmons, proudly representing Anne Arundel County, District 12B. Stay informed about legislative initiatives, community engagement, and advocacy efforts for a better tomorrow.",
  "final_url": "https://www.delegatesimmons12b.com/",
- "paid_for_by": null,
+ "fingerprint": "3a5f5a370b2e4952e3f6c4a6bb5a49e926fe154c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Delegate Gary Simmons | Anne Arundel County",
  "years_mentioned": [
-  "2017"
+  "2006",
+  "2017",
+  "2025"
  ]
 }

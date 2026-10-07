@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.brendaksanders.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "bee79a3df39f2d4ab7c955f984c38689a43d0364",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

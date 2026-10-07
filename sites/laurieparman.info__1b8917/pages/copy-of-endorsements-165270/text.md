@@ -1,6 +1,3 @@
-top of page
-Laurie Parman launches second campaign for House 66 District: ‘A sleeping giant is being awakened'
-6/19/25 Kane County Reporter
-““I called up about a third of the Democrats and said, ‘This is a really bad look for you guys.
-Are you sure you want to pick this fight right now when you have multiple schools in Chicago where nobody's reading at grade level, nobody's doing math at grade level?’” Parman said.”
-bottom of page
+top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
+DONATE Log In IN THE NEWS Parman on District 300 school board president's reaction to Charlie Kirk assassination: ‘You have lost your moral authority to lead’ 9/16/25 Kane County Reporter ​ “When you blame a good moral man for his own murder, you have lost your moral authority to lead in a school setting,” Full Article Laurie Parman launches second campaign for House 66 District: ‘A sleeping giant is being awakened' 6/19/25 Kane County Reporter ​ ““I called up about a third of the Democrats and said, ‘This is a really bad look for you guys.
+Are you sure you want to pick this fight right now when you have multiple schools in Chicago where nobody's reading at grade level, nobody's doing math at grade level?’” Parman said.” Full Article Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

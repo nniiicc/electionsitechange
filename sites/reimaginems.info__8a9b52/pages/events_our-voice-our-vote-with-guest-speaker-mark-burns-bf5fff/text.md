@@ -1,7 +1,9 @@
-Back to All Events
-Bennie Foster and former South Carolina candidate for Congress Pastor Mark Burns will speak at the “Our Voice, Our Vote” political event on Friday, September 25, 2026, at 1 p.m. at the Charity Event Center, 195 Raymond Road, Jackson, MS 39204.
+0 Skip to Content Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Back to All Events Our Voice Our Vote with guest speaker Mark Burns Friday, September 25, 2026 1:00 PM 3:00 PM Charity Event Center 195 Raymond Road Jackson, Mississippi, 39204 United States (map) Google Calendar ICS Bennie Foster and former South Carolina candidate for Congress Pastor Mark Burns will speak at the “Our Voice, Our Vote” political event on Friday, September 25, 2026, at 1 p.m. at the Charity Event Center, 195 Raymond Road, Jackson, MS 39204 .
 Hosted by Our Voice Our Vote, the event will bring residents and community leaders together to discuss Mississippi’s needs and opportunities for greater funding and investment.
 Topics may include infrastructure, education, healthcare, workforce development, economic growth, public safety and community programs.
-Next
-Next
-September 27
+Next Next September 27 Empowered To Vote Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up to stay connected with the campaign and receive updates.
+Email Address Sign Up Thank you!

@@ -1,6 +1,22 @@
 [
-"https://votejeffholy.com/",
-"https://votejeffholy.com/about",
-"https://votejeffholy.com/donate",
-"https://votejeffholy.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.votejeffholy.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.votejeffholy.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votejeffholy.com"
+},
+{
+"text": "Jeff Holy for State Senate",
+"href": "https://www.votejeffholy.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejeffholy.com/privacy-policy"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Veterano de combate, abogado de inmigracion y democrata candidato al Congreso por el Distrito 7 de Georgia. Soluciones, no politica.",
  "final_url": "http://kozyckiforcongress.com/es/index.html",
- "paid_for_by": null,
+ "fingerprint": "386c3ae039c4d6f7e27536349486ecc441db5382",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tony Kozycki for Congress | Distrito Congresional 7 de Georgia",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008"
+ ]
 }

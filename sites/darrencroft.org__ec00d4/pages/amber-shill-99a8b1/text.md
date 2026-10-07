@@ -1,1 +1,2 @@
-Amber Shill President, Canyons School Board Darren is a man of integrity who supports the education of our youth and possesses the skills, talents and abilities to advance good government.
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute Endorsement Amber Shill President, Canyons School Board Darren is a man of integrity who supports the education of our youth and possesses the skills, talents and abilities to advance good government.
+District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

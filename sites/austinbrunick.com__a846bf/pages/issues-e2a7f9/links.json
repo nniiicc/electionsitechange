@@ -1,16 +1,86 @@
 [
-"https://austinbrunick.com/",
-"https://austinbrunick.com/about",
-"https://austinbrunick.com/contact",
-"https://austinbrunick.com/issues/SD-Taxation",
-"https://austinbrunick.com/issues/ai-and-data-centers",
-"https://austinbrunick.com/issues/issue-1",
-"https://austinbrunick.com/issues/issue-2",
-"https://austinbrunick.com/issues/your-issue-title-here",
-"https://austinbrunick.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61573326410790",
-"https://secure.actblue.com/donate/elect-austin-brunick",
-"https://tiktok.com/@austin.brunick.for.d17",
-"https://x.com/AustinBrunick"
+{
+"text": "AI and Data Centers",
+"href": "https://www.austinbrunick.com/issues/ai-and-data-centers"
+},
+{
+"text": "About",
+"href": "https://www.austinbrunick.com/about"
+},
+{
+"text": "AustinBrunickford17@gmail.com",
+"href": "mailto:AustinBrunickford17@gmail.com"
+},
+{
+"text": "Contact",
+"href": "https://www.austinbrunick.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elect-austin-brunick"
+},
+{
+"text": "Education",
+"href": "https://www.austinbrunick.com/issues/issue-1"
+},
+{
+"text": "Fair Labor Practices",
+"href": "https://www.austinbrunick.com/issues/your-issue-title-here"
+},
+{
+"text": "Healthcare",
+"href": "https://www.austinbrunick.com/issues/issue-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "South Dakota's Tax Problem",
+"href": "https://www.austinbrunick.com/issues/SD-Taxation"
+},
+{
+"text": "View more",
+"href": "https://www.austinbrunick.com/issues/SD-Taxation"
+},
+{
+"text": "View more",
+"href": "https://www.austinbrunick.com/issues/ai-and-data-centers"
+},
+{
+"text": "View more",
+"href": "https://www.austinbrunick.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.austinbrunick.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.austinbrunick.com/issues/your-issue-title-here"
+},
+{
+"text": "Volunteer",
+"href": "https://www.austinbrunick.com/volunteer"
+},
+{
+"text": "[image: Elect Austin Brunick logo]",
+"href": "https://www.austinbrunick.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.austinbrunick.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61573326410790"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@austin.brunick.for.d17"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AustinBrunick"
+}
 ]

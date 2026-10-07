@@ -1,127 +1,114 @@
-Business Insider (November 28, 2020)
-“Interview: Tarra Simmons, the First Felon Elected to Washington’s State Legislature, Wants to Give Formerly Incarcerated People a Chance”
-“She led her campaign with her personal story and won both her primary and general election, earning endorsements from Rep.
-Pramila Jayapal and former South Bend Mayor Pete Buttigieg.”
-Read the Full Article
-The Appeal (November 4, 2020)
-“Tarra Simmons Becomes First Person Formerly Convicted of a Felony Elected to Washington State Legislature”
-“If we create thriving and healthy communities, where people have their needs met and where if they have an issue they have someone to talk to about it and have support, I think we can really reduce crime and our reliance on prisons,” Simmons told The Appeal in October.
-Read the Full Article
-The Washington Post (November 02, 2020)
-“She Is a Former Addict and Prisoner.
-This Week She Was Elected to the Washington State House”
-“Simmons said she decided to run for public office as a ‘second chance’ candidate focused on prison reform in the hope of helping those with prison records find housing and jobs and start anew with their loved ones.”
-Read the Full Article
-The Kitsap Sun (September 18, 2020)
-“Former Democratic Presidential Candidate Pete Buttigieg Weighs In on Kitsap Legislative Race”
-“One of the things that really attracted me to this campaign is the understanding of the personal stakes of political choices,” he said.
+Skip to content Skip to content Primary Menu Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe DONATE DONATE In The News Tarra’s work has been recognized by news organizations across Washington and beyond.
+From her historic path to the Legislature to her work on healthcare, public safety, transportation, reentry, and opportunity, Tarra continues to bring the voices and lived experiences of her community into the public conversation.
+The coverage below highlights the people, issues, and work that have shaped Tarra’s leadership—and the impact she continues to make in the 23rd Legislative District and across Washington.
+Recent Articles Formerly Incarcerated Women Are Pushing Systemic Change in Elected Office | Truthout (March 2026) Formerly Incarcerated Women Are Pushing Systemic Change in Elected Office From voting rights to wages to housing assistance, these officials advocate for systemic change to reduce incarceration.Simmons is among a handful of formerly incarcerated women elected to public office.
+All are open about their past convictions and incarceration, and have used those experiences to challenge longstanding “tough-on-crime” policies as well as bolster social resources that best prevent social violence, harm, and poverty.
+Read the Full Article Day In The Life Of A Lawyer And Legislator | Roadtrip Nation (April 2026) My focus is to pass laws that restore rights, expand access to education, and reduce harm in the legal system.
+I’ve worked on multiple bills, including ones to expand education in prisons, vacate records, and restore voting and firearm rights.
+I also help other lawmakers understand prison education policy by prepping advocates and building coalitions.
+I work hard to represent people like me, who were once told they didn’t belong in rooms like these.
+Read the Full Article House Democrats Push to Strip Corporate Break from ‘Millionaires Tax’ | The Seattle Times (February 2026) With lawmakers facing mounting budget pressures and potential cuts to child care and K-12 education, 13 House Democrats urged the finance committee to strip a corporate tax break from the proposed “millionaires tax” before advancing the bill.
+Rep.
+Tarra Simmons was among the co-signers of the letter supporting the amendment.
+Read the Full Article Simmons Offers Personal Commitment and Legislative Solutions | Kitsap Sun (February 2026) Former State Rep.
+Sara Eubank of Bremerton praised Simmons: “What stands out most is her humanity.
+She offers not only legislative solutions, but her time, guidance, and connections to local resources.
+That kind of steady, personal commitment goes far beyond what is required of a part-time citizen legislator.” Read the Full Article Setting Priorities for the 2026 WA Legislative Session | Kitsap Sun (January 2026) Rep.
+Tarra Simmons outlines her priorities heading into the 2026 legislative session, sharing her perspective on the key issues facing Kitsap residents and Washington state.
+Read the Full Article Legislation Would Give Prisoners Serving Longer Sentences a Path to Release | Publicola (January 2026) Simmons, the first formerly incarcerated person elected to the legislature, addressed victims’ advocates’ concerns about early release: “I empathize with that position.
+I was a survivor of crime long before I was incarcerated.” She argued that keeping rehabilitated individuals incarcerated for pure punishment offers neither hope nor incentive to engage in rehabilitation.
+Read the Full Article Previous Pieces 2025 Kitsap Sun (November 20, 2025) Simmons’ Dedication Isn’t in Question Kitsap County Prosecutor Chad Enright wrote: “In this moment of budget shortfalls, lawmakers have the unenviable task of allocating scant resources.
+Scrutinizing legal aid and other important program funding is not obstruction; it is due diligence.
+Rep.
+Simmons is rightly focused on stabilizing our fragile safety net as access to food, housing, and healthcare is on the precipice.” Read the Full Article Kitsap Sun (April 15, 2025) WA Bill Requires Insurance Coverage of Medically Necessary Mental Health Care Rep.
+Tarra Simmons, the primary sponsor of HB 1432, pushed to close a loophole allowing insurance companies to deny critical mental health and substance use disorder care.
+The bill requires private insurers to cover services a patient’s doctor deems medically necessary, using the same transparent, evidence-based standards applied to other medical care.
+Read the Full Article 2024 Washington State Standard (May 31, 2024) Lawmakers Look at Bill to Allow Resentencing of People Serving Long Prison Terms Rep.
+Tarra Simmons sponsored the Judicial Discretion Act, which would allow people serving long prison sentences to petition the court for resentencing if they can demonstrate substantial rehabilitation and minimal risk of reoffense.
+Simmons, the first formerly incarcerated lawmaker in Washington, called it an opportunity for judges to take a second look at sentences in the interest of justice.
+Read the Full Article The Seattle Times (March 6, 2024) Bill that Would Up Oversight of WA Hospital Consolidations Dies Washington’s Keep Our Care Act, the House companion bill sponsored by Rep.
+Tarra Simmons, failed to advance before the legislative deadline.
+The bill would have expanded the attorney general’s authority to review hospital mergers and acquisitions to protect patient access to reproductive, gender-affirming, and end-of-life care.
+Simmons, a former registered nurse, called the issue “very personal” given the impact of consolidations on Kitsap Peninsula communities.
+Read the Full Article Post Alley Seattle (January 10, 2024) Two State Reps Share Troubled Pasts “The first time I thought about maybe I can actually serve and help make a difference was hearing Tarra make a speech on the Capitol steps on Martin Luther King Day in 2020,” says Nance.
+“Seeing her share her story so openly and honestly was inspiring and really beautiful.
+It made me realize that maybe the challenges I’ve faced and overcome could actually be a source of great strength instead of shame, and my superpower.” Read the Full Article 2023 PBS NewsHour (November 6, 2023) Formerly Incarcerated Lawmaker Reflects on Breaking Down Barriers After Prison PBS NewsHour profiled Rep.
+Tarra Simmons as part of its “Searching for Justice” series, tracing her journey from teen mother and convicted felon to lawyer and Washington state’s first formerly incarcerated legislator.
+The segment highlighted her work eliminating barriers for people returning from prison and her continued advocacy through Civil Survival, the nonprofit she co-founded.
+Read the Full Article Washington State Standard (June 12, 2023) New Washington Law Eliminates LFO Fines and Fees Debt Rep.
+Tarra Simmons championed a new law eliminating mandatory, non-restitution court fines and fees for adults experiencing poverty and all youth — part of her years-long effort to reform Washington’s legal financial obligations system.
+Advocates noted the law breaks the debt cycle that has long prevented formerly incarcerated people from vacating convictions, finding stable work, and rebuilding their lives.
+Read the Full Article 2022 The Center Square (July 1, 2022) Washington Mandates More Hospital Charity Care A bill co-sponsored by Rep.
+Tarra Simmons expanded Washington’s Charity Care Act, extending discounted hospital care to approximately one million additional residents and mandating zero out-of-pocket costs for another million.
+Simmons said the update would make the state’s healthcare system fairer and more equitable for the four million Washingtonians now eligible for free or reduced hospital costs.
+Read the Full Article Here 2021 The Seattle Times (April 21, 2021) “From Incarceration to the Washington Legislature, Rep.
+Tarra Simmons Hits Her Stride in First Term in Olympia” “But Simmons‚ a Bremerton Democrat, lawyer, civil rights activist and freshman state representative‚ has been a leading figure in the national fight for criminal justice reform for years, breaking barriers in politics and law for people with felonies.” Read the Full Article Kitsap Sun (April 16, 2021) “Kitsap Mental Health Services Expands Facility in Bremerton for Youth Programs” “Those who showed up included KMHS staff members and leadership, as well as state legislators, Sen.
+Christine Rolfes and State Rep.
+Tarra Simmons of the 23rd Legislative District, who help secure a $321,000 state budget to fund the construction.
+The project was Simmons’s first capital budget request after she joined the Legislature in January 2021, she said.” Read the Full Article ABC News (April 9, 2021) “Some States Work to Expand Voting Rights for People with Felony Convictions” “Simmons, one of the bill’s sponsors, knows the impact of disenfranchisement first hand.
+After being ‘born into generations of addiction and incarceration and poverty and violence,’ Simmons was sentenced to prison in 2011 for selling a small amount of prescription drugs to financially fuel her own drug addiction, which she said resulted from trying to suppress the post-traumatic stress of her childhood.” Read the Full Article The Appeal (April 8, 2021) “She Lost Her Right to Vote Over a Felony.
+Now This Lawmaker Has Helped Enfranchise Thousands” “Tarra Simmons became the first formerly incarcerated lawmaker in Washington State’s recent history after she won a seat in the state House in November.
+Five months later, she is celebrating her first win as a legislator: A bill she sponsored was signed into law yesterday by Governor Jay Inslee, who credited her advocacy.
+It enables all formerly incarcerated Washingtonians to vote.” Read the Full Article 2020 Business Insider (November 28, 2020) “Interview: Tarra Simmons, the First Felon Elected to Washington’s State Legislature, Wants to Give Formerly Incarcerated People a Chance” “She led her campaign with her personal story and won both her primary and general election, earning endorsements from Rep.
+Pramila Jayapal and former South Bend Mayor Pete Buttigieg.” Read the Full Article The Appeal (November 4, 2020) “Tarra Simmons Becomes First Person Formerly Convicted of a Felony Elected to Washington State Legislature” “If we create thriving and healthy communities, where people have their needs met and where if they have an issue they have someone to talk to about it and have support, I think we can really reduce crime and our reliance on prisons,” Simmons told The Appeal in October.
+Read the Full Article The Washington Post (November 02, 2020) “She Is a Former Addict and Prisoner.
+This Week She Was Elected to the Washington State House” “Simmons said she decided to run for public office as a ‘second chance’ candidate focused on prison reform in the hope of helping those with prison records find housing and jobs and start anew with their loved ones.” Read the Full Article The Kitsap Sun (September 18, 2020) “Former Democratic Presidential Candidate Pete Buttigieg Weighs In on Kitsap Legislative Race” “One of the things that really attracted me to this campaign is the understanding of the personal stakes of political choices,” he said.
 “Life experience is going to affect their take on policy.
-If you’re going to be making healthcare policy it helps to have the experience of a doctor, or a patient, or somebody struggling with an insurance company, let’s say.”
-Read the Full Article
-The Seattle Times (September 17, 2020)
-Washington’s Prisons May Have Hit Pivotal Moment as They Eye Deep Cut in Their Population
-“I think this is a transformational moment in our overall movement,” said Tarra Simmons, a lawyer and director of the Civil Survival Project, which advocates for previously incarcerated people.
-Read the Full Article
-The Kitsap Sun (August 4, 2020)
-“Simmons Will Advance From 23rd District Primary, Will Face Ferguson”
-“Simmons drew 45% of ballots cast to Ferguson’s 34%.
+If you’re going to be making healthcare policy it helps to have the experience of a doctor, or a patient, or somebody struggling with an insurance company, let’s say.” Read the Full Article The Seattle Times (September 17, 2020) Washington’s Prisons May Have Hit Pivotal Moment as They Eye Deep Cut in Their Population “I think this is a transformational moment in our overall movement,” said Tarra Simmons, a lawyer and director of the Civil Survival Project, which advocates for previously incarcerated people.
+Read the Full Article The Kitsap Sun (August 4, 2020) “Simmons Will Advance From 23rd District Primary, Will Face Ferguson” “Simmons drew 45% of ballots cast to Ferguson’s 34%.
 Daugs drew about 16% of the votes in the contest.
-Lou Krukar, a Democrat from Kingston, garnered around 3% of the vote.”
-Read the Full Article
-The Seattle Times (August 4, 2020)
-“Washington State Primary Election: How the Day Unfolded, Plus Results of Key Races”
-Tarra Simmons, an attorney and civil rights activist, was leading in the primary race for Kitsap County’s 23rd Legislative District.
+Lou Krukar, a Democrat from Kingston, garnered around 3% of the vote.” Read the Full Article The Seattle Times (August 4, 2020) “Washington State Primary Election: How the Day Unfolded, Plus Results of Key Races” Tarra Simmons, an attorney and civil rights activist, was leading in the primary race for Kitsap County’s 23rd Legislative District.
 If elected in the November general election, Simmons would be the first Washington state lawmaker who was previously incarcerated.
 Simmons had 45% of the vote, followed by Republican April Ferguson at 34%.
-Read the Full Article
-The Kitsap Sun (July 28, 2020)
-“Simmons Will Be an Advocate in Olympia”
-By Jeromy Sullivan, Chairman of the Port Gamble S’Klallam Tribe: “Recent events have taught us that thoughtful, knowledgeable leaders are essential to how we survive and thrive in good times and bad.
-We believe Tarra Simmons will be a passionate advocate for all and is the best choice to guide our community into the future.”
-Read the Full Article
-The Kitsap Sun (July 24, 2020)
-“Simmons Has the Character to Lead”
-By Kol Medina, Bainbridge Island City Councilperson: “She is the very definition of a servant leader.
-A servant leader is a person who leads by finding out what others in her community want and then providing the inspiration, vision, hard work, and relationship-building needed to help people accomplish what they want.”
-Read the Full Article
-The Kitsap Sun (July 07, 2020)
-“Simmons Is an Inspiring Choice for Voters”
-“I am supporting Tarra Simmons for our state representative in Washington’s 23rd Legislative District.
+Read the Full Article The Kitsap Sun (July 28, 2020) “Simmons Will Be an Advocate in Olympia” By Jeromy Sullivan, Chairman of the Port Gamble S’Klallam Tribe: “Recent events have taught us that thoughtful, knowledgeable leaders are essential to how we survive and thrive in good times and bad.
+We believe Tarra Simmons will be a passionate advocate for all and is the best choice to guide our community into the future.” Read the Full Article The Kitsap Sun (July 24, 2020) “Simmons Has the Character to Lead” By Kol Medina, Bainbridge Island City Councilperson: “She is the very definition of a servant leader.
+A servant leader is a person who leads by finding out what others in her community want and then providing the inspiration, vision, hard work, and relationship-building needed to help people accomplish what they want.” Read the Full Article The Kitsap Sun (July 07, 2020) “Simmons Is an Inspiring Choice for Voters” “I am supporting Tarra Simmons for our state representative in Washington’s 23rd Legislative District.
 Tarra’s story is inspiring.
 She faced challenges post-incarceration.
 She overcame them by going to law school, then appealed to the State Supreme Court for her right to take the bar exam as a former felon ‚Äî and won.
-This is what second chances should look like.”
-Read the Article
-Mother Jones & The Marshall Project ( June 23, 2020)
-“For Tarra Simmons, Her Time In Prison Isn’t a Liability.
-It’s a Campaign-Trail Identity”
-“Simmons is one of a new crop of political candidates in 2020 for whom being formerly incarcerated isn’t a disqualifier or a political liability.
-It’s an identity ‚Äî one they say is vital to represent in state capitals and the hallways of Congress, as lawmakers try to overhaul a system that spends billions to lock up mostly Black and brown people.”
-Read the Article
-Kitsap Sun (June 19, 2020)
-“Simmons Understands the Power of a Second Chance”
-Written by Bainbridge Island resident Mark Hoffman: “She doesn’t just talk about extreme challenges ‚Äî she overcomes them.
+This is what second chances should look like.” Read the Article Mother Jones & The Marshall Project ( June 23, 2020) “For Tarra Simmons, Her Time In Prison Isn’t a Liability.
+It’s a Campaign-Trail Identity” “Simmons is one of a new crop of political candidates in 2020 for whom being formerly incarcerated isn’t a disqualifier or a political liability.
+It’s an identity ‚Äî one they say is vital to represent in state capitals and the hallways of Congress, as lawmakers try to overhaul a system that spends billions to lock up mostly Black and brown people.” Read the Article Kitsap Sun (June 19, 2020) “Simmons Understands the Power of a Second Chance” Written by Bainbridge Island resident Mark Hoffman: “She doesn’t just talk about extreme challenges ‚Äî she overcomes them.
 After graduating from law school with honors, she fought the Washington Bar Association all the way to the state Supreme Court, which ruled that she has impeccable moral character and could sit for the bar exam.
-She then served on two state boards that advocate for criminal justice reform.”
-Read the Article
-Kitsap Sun (June 15, 2020)
-“Simmons Is a Candidate Who Stands Against Injustice”
-Written by Andre Henderson: “Of everyone running to represent us, Tarra Simmons has consistently proven her determination to stand with people whose voices are often forgotten.
+She then served on two state boards that advocate for criminal justice reform.” Read the Article Kitsap Sun (June 15, 2020) “Simmons Is a Candidate Who Stands Against Injustice” Written by Andre Henderson: “Of everyone running to represent us, Tarra Simmons has consistently proven her determination to stand with people whose voices are often forgotten.
 As a mother of two young black men, Tarra has been fighting systemic racism for decades in our community.
-As a person who overcame generational poverty, she will stand up for the low-income and working families of our community.”
-Read the Article
-Kitsap Sun (May 27, 2020)
-Letter to the Editor by Becky Tatman
-Written by Becky Tatman, this letter to the editor urges the media and critics to look at Tarra’s past in the context of the incredible achievements she has made throughout her life.
+As a person who overcame generational poverty, she will stand up for the low-income and working families of our community.” Read the Article Kitsap Sun (May 27, 2020) Letter to the Editor by Becky Tatman Written by Becky Tatman, this letter to the editor urges the media and critics to look at Tarra’s past in the context of the incredible achievements she has made throughout her life.
 “She is a civil rights attorney.
-She is the co-founder of a non-profit organization, called Civil Survival, and has spent the last several years fighting at the state capitol for the rights of all people, not just for the justice-involved community.”
-Read the Article
-Kitsap Sun (April 22, 2020)
-“Simmons’ Experience Makes Her a Great Candidate”
-“Tarra has forged friendships in Olympia on both sides of the aisle while advocating for non-discriminatory legislation.
+She is the co-founder of a non-profit organization, called Civil Survival, and has spent the last several years fighting at the state capitol for the rights of all people, not just for the justice-involved community.” Read the Article Kitsap Sun (April 22, 2020) “Simmons’ Experience Makes Her a Great Candidate” “Tarra has forged friendships in Olympia on both sides of the aisle while advocating for non-discriminatory legislation.
 She formed Civil Survival.
 She worked with Rep.
 Drew Hansen and others to get the New Hope Act, a bipartisan criminal justice reform proposal, passed in 2019.
 Retiring Rep.
-Sherry Appleton has mentored her.”
-Read the Full Article
-The Stranger (May 19, 2020)
-“Washington Races to Watch in 2020”
-Written by Rich Smith, this article lists Tarra’s campaign as one of Washington’s top races to watch.
+Sherry Appleton has mentored her.” Read the Full Article The Stranger (May 19, 2020) “Washington Races to Watch in 2020” Written by Rich Smith, this article lists Tarra’s campaign as one of Washington’s top races to watch.
 “Tarra Simmons, lawyer and director at the Civil Survival Project, has been campaigning hard for that seat since last October.
-If elected, she’d be the first former inmate to serve in the Washington legislature.”
-Read the Full Article
-Bainbridge Review (May 17, 2020)
-“I’m Joining the Circle Supporting Simmons”
-Written by Rasham Nassar, Deputy Mayor of Bainbridge Island: “As a lawyer, civil rights activist, and national-level political advocate, she has acquired the professional qualifications necessary to fulfill the requirements and expectations of this position.
-Her remarkable achievements are uniquely complimented by a diversity of personal experience, instilling in Tarra rare leadership qualities that are universally admired.”
-Read the Full Article
-Kitsap Sun (May 6, 2020)
-“Simmons Speaks for Second Chances”
-Written by Bremerton resident Darold Bivens: “I ask that you pay close attention to Tarra Simmons, a candidate for 23rd District State Representative.
-Through her professional and social endeavors, Tarra’s proven she’s capable of creating opportunities for disenfranchised groups to become productive leaders of our community.”
-Read the Full Article
-Kitsap Sun (April 2020)
-“Simmons Has Committed to Helping This Community”
-Written by Bainbridge resident Mary Clare Kersten: “Public policies that support public education enabled Tarra Simmons to pull herself out of poverty.
-Recently, she applied her activism and leadership skills to pass The New Hope Act, a piece of public policy that will help formerly incarcerated people reintegrate into society.”
-Read the Full Article
-The Stranger (February 20, 2020)
-“To the State Legislature: Fulfill the Promise You Made, Pass the Clean Slate Act Today”
-“I am a formerly incarcerated mother who—because of the help and kindness of so many lawyers who fought for me and educated me throughout my incarceration—am now an attorney and advocate helping to pave the way for the successful reentry of my justice-involved brothers and sisters.”
-Read the Full Article
-King5 (January 20, 2020)
-“Hundreds Rally in Olympia to End Mass Incarceration”
-Tarra Simmons, a candidate for the 23rd District seat in this year’s election, was one of the guest speakers on the steps of the capitol building.
+If elected, she’d be the first former inmate to serve in the Washington legislature.” Read the Full Article Bainbridge Review (May 17, 2020) “I’m Joining the Circle Supporting Simmons” Written by Rasham Nassar, Deputy Mayor of Bainbridge Island: “As a lawyer, civil rights activist, and national-level political advocate, she has acquired the professional qualifications necessary to fulfill the requirements and expectations of this position.
+Her remarkable achievements are uniquely complimented by a diversity of personal experience, instilling in Tarra rare leadership qualities that are universally admired.” Read the Full Article Kitsap Sun (May 6, 2020) “Simmons Speaks for Second Chances” Written by Bremerton resident Darold Bivens: “I ask that you pay close attention to Tarra Simmons, a candidate for 23rd District State Representative.
+Through her professional and social endeavors, Tarra’s proven she’s capable of creating opportunities for disenfranchised groups to become productive leaders of our community.” Read the Full Article Kitsap Sun (April 2020) “Simmons Has Committed to Helping This Community” Written by Bainbridge resident Mary Clare Kersten: “Public policies that support public education enabled Tarra Simmons to pull herself out of poverty.
+Recently, she applied her activism and leadership skills to pass The New Hope Act, a piece of public policy that will help formerly incarcerated people reintegrate into society.” Read the Full Article The Stranger (February 20, 2020) “To the State Legislature: Fulfill the Promise You Made, Pass the Clean Slate Act Today” “I am a formerly incarcerated mother who—because of the help and kindness of so many lawyers who fought for me and educated me throughout my incarceration—am now an attorney and advocate helping to pave the way for the successful reentry of my justice-involved brothers and sisters.” Read the Full Article King5 (January 20, 2020) “Hundreds Rally in Olympia to End Mass Incarceration” Tarra Simmons, a candidate for the 23rd District seat in this year’s election, was one of the guest speakers on the steps of the capitol building.
 Simmons’ story made national headlines after she attempted to become a lawyer following her release from prison.
 Despite graduating near the top of her class, she was initially denied the ability to take the bar exam.
-A state Supreme Court ultimately ruled in her favor.”
-Read the Full Article
-KNKX (January 13, 2020)
-“Formerly Incarcerated Advocates Change Their ‘Label,’ Get Involved in Olympia and Beyond”
-Simmons is the executive director of Civil Survival.
+A state Supreme Court ultimately ruled in her favor.” Read the Full Article KNKX (January 13, 2020) “Formerly Incarcerated Advocates Change Their ‘Label,’ Get Involved in Olympia and Beyond” Simmons is the executive director of Civil Survival.
 She made national headlines when the state Supreme Court ruled in 2018 she could sit for the bar exam despite a previous drug conviction.
 She is now running for a seat in the state House of Representatives to represent parts of the Kitsap Peninsula and Bainbridge Island.
 If Simmons wins her election this year, it would be historic.
-She would be the first formerly incarcerated person to serve in the Washington state Legislature, at least in modern history.”
-Read the Full Article
+She would be the first formerly incarcerated person to serve in the Washington state Legislature, at least in modern history.” Read the Full Article Earlier KNKX (October 2019) “Former Inmate-Turned-Attorney to Run for Open Statehouse Seat” Tarra Simmons, of Bremerton, who in 2017 won a Supreme Court fight to sit for the state bar exam, despite her prior criminal conviction, formally announced her candidacy for the state House on Monday.
+“I’d like to break this concrete ceiling,” Simmons said in an exclusive interview with the public radio Northwest News Network.
+“I think we would all fare better if we have diverse people with lived experiences running for all kinds of offices.” Read the Full Article OPB (October 2019) “Tarra Simmons Looks to Become 1st Former Inmate Elected to Washington Legislature” “I’d like to break this concrete ceiling,” Simmons said.
+“I think we would all fare better if we have diverse people with lived experiences running for all kinds of offices.” Simmons co-chaired Washington’s Statewide Reentry Council and played a key role in the bipartisan passage of the New Hope Act during the 2019 legislative session.
+Read the Full Article Yale Law Journal (February 2019) “Transcending the Stigma of a Criminal Record: A Proposal to Reform State Bar Character and Fitness Evaluations” Written by Tarra Simmons herself, this essay is rooted in her experience as a formerly justice-involved individual who overcame numerous barriers to become an attorney and advocate.
+It argues that bar associations should use a conditional-approval process that informs applicants whether the bar intends to admit them before they begin law school.
+Read the Article Here NW News Network (July 2018) “Vindicated By Supreme Court, Lawyer With Criminal Past Now Finds She’s Campaign Fodder” After the Washington Supreme Court overruled the state bar and allowed Simmons to practice law, she became the unlikely subject of a Republican political mailer attacking a Democratic Senate candidate for supporting her.
+The backlash was swift — lawmakers from both parties, including a Republican state representative, publicly defended Simmons and condemned the attack.
+Read the Full Article Seattle Times (June 2018) “‘Character Is Not Static’: A Soon-to-Be Lawyer Turns Rough Past into Bright Future” “All I needed was someone to give me a seed of hope,” says Simmons, who overcame a history of crime and substance abuse to excel in law school, pass the bar exam, and earn her law license.
+Arguing before the Supreme Court on her behalf, attorney Shon Hopwood told the justices: “Character is not static.
+People change.
+And the law should recognize that.” Read the Full Article Seattle Times (June 2018) “Seattle Law-School Grad’s Bright Future Outshines Her Rough Past, State High Court Says” The Washington Supreme Court unanimously ruled that Simmons could sit for the bar exam, with Justice Mary Yu writing that Simmons “changed her life to a degree that can only be deemed remarkable.” The court’s opinion concluded: “We affirm this court’s long history of recognizing that one’s past does not dictate one’s future.” Read the Full Article New York Times (January 2018) “Are Felons Fit to Be Lawyers?
+Increasingly, the Answer Is Yes” Simmons sat down with the New York Times to discuss the challenges facing justice-involved individuals seeking to enter the legal profession.
+At the time, she had graduated magna cum laude from Seattle University School of Law and won a prestigious Skadden Fellowship, but was fighting the Washington State Bar Association’s denial of her application to sit for the bar exam.
+Read the Full Article The Atlantic (November 2017) “Why It’s Difficult for Former Inmates to Become Lawyers” The Atlantic examined the barriers formerly incarcerated people face when trying to enter the legal profession, featuring Simmons’ high-profile fight against the Washington State Bar Association — which had denied her application despite her graduating magna cum laude, earning the Dean’s Medal, and winning a Skadden Fellowship.
+Read the Full Article KNKX (May 2017) “From Drugs To Prison To Law School, Woman Faces One Extra Hurdle To Become A Lawyer” “When Simmons graduates from law school on Saturday she will be awarded the Dean’s Medal for the graduating student ‘who has the greatest potential to achieve the legal profession’s most noble aspirations for justice and ethics.’ But despite all the accolades, all the honors, and all the successes Simmons has achieved, she’s just been dealt a major setback: Simmons may not get to join the legal profession ‚Äî at least not right away.” Read the Full Article Seattle University (December 2016) “Student Tarra Simmons Wins Prestigious Skadden Fellowship” “Student Tarra Simmons has received a prestigious Skadden Fellowship.
+She is the first law student from Seattle University to join this elite group of dedicated social justice professionals working on behalf of people who are poor, elderly, disabled, or otherwise deprived of human or civil rights.” Read the Full Article cONTRIBUTE TO THE CAMPAIGN There's a place for everyone We’re building a people-powered campaign cross the 23rd legislative district.
+Add your voice, your time, or your campaign donations to the movement, and help us keep Tarra fighting for her community.
+DONATE Volunteer REQUEST A YARD SIGN Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 Read our Privacy Policy and SMS Terms Home Tarra Endorsements Events Volunteer Contact Donate Land Acknowledgement Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
+The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.
+We honor these Nations and the Indigenous communities who have stewarded these lands and waters for generations and continue that stewardship today.

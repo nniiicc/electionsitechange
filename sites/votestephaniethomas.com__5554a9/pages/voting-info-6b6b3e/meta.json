@@ -1,6 +1,8 @@
 {
  "description": "Find essential voting information, check your voter status, and prepare for Election Day. Vote Stephanie Thomas on November 3!",
  "final_url": "https://votestephaniethomas.com/voting-info",
+ "fingerprint": "c8e75fb0fa09ad1c1824e6be88d541d17b6b1527",
+ "format": 3,
  "paid_for_by": "Paid for by Stephanie Thomas for CT",
  "title": "Voting Info",
  "years_mentioned": []

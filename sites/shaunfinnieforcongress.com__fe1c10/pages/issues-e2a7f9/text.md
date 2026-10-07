@@ -1,18 +1,4 @@
-Issues
-Learn more about Shaun’s priorities in his run for Congress.
-Texas
-Texas
-Fighting For You
-Affordability
-Healthcare
-Checks & Balances
-Federal Debt
-Children's Future
-Immigration
-Education
-Women's Healthcare
-Donate
-Donate
-Show your Support
-This campaign depends on grassroots donors like you.
-Join Team Finnie by chipping in what you can today.
+Meet Shaun Issues Endorsements Get Involved News Store Donate Issues Learn more about Shaun’s priorities in his run for Congress.
+Texas Texas Fighting For You Affordability Healthcare Checks & Balances Federal Debt Children's Future Immigration Education Women's Healthcare Donate Donate Show your Support This campaign depends on grassroots donors like you.
+Join Team Finnie by chipping in what you can today. $# $# $# $# $#,# $#,# Follow Follow Follow Follow Follow Donate Checks can be written to Shaun Finnie for Congress and mailed to: Shaun Finnie for Congress PO Box 130101, Spring, TX 77393 Meet Shaun Issues Endorsements Get Involved News Media Assets Privacy Policy Sign Up for Updates Name Email Sign Up!
+Paid For By Shaun Finnie For Congress PO Box 130101, Spring, TX 77393 © # Shaun Finnie for Congress Customize Reject All Accept All Powered by

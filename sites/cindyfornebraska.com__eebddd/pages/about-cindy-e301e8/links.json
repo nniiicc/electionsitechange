@@ -1,11 +1,42 @@
 [
-"https://cindyfornebraska.com/",
-"https://cindyfornebraska.com/about-cindy",
-"https://cindyfornebraska.com/cart",
-"https://cindyfornebraska.com/contact",
-"https://cindyfornebraska.com/issues",
-"https://cindyfornebraska.com/volunteer",
-"https://facebook.com/cindyfornebraska",
-"https://instagram.com/cindyfornebraska",
-"https://secure.actblue.com/donate/cindyfornebraska2026"
+{
+"text": "0",
+"href": "https://www.cindyfornebraska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.cindyfornebraska.com/about-cindy"
+},
+{
+"text": "Contact",
+"href": "https://www.cindyfornebraska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cindyfornebraska2026/"
+},
+{
+"text": "Home",
+"href": "https://www.cindyfornebraska.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cindyfornebraska.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindyfornebraska.com/volunteer"
+},
+{
+"text": "[image: cindyfornebraska]",
+"href": "https://www.cindyfornebraska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cindyfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cindyfornebraska"
+}
 ]

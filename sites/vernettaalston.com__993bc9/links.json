@@ -1,11 +1,50 @@
 [
-"https://facebook.com/vernettaalstonNC",
-"https://instagram.com/vernettaalston?hl=en",
-"https://twitter.com/vernettaalston?lang=en",
-"https://vernettaalston.com/",
-"https://vernettaalston.com/about",
-"https://vernettaalston.com/donate",
-"https://vernettaalston.com/events",
-"https://vernettaalston.com/join",
-"https://vernettaalston.com/privacypolicy"
+{
+"text": "About",
+"href": "https://www.vernettaalston.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.vernettaalston.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.vernettaalston.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.vernettaalston.com"
+},
+{
+"text": "Join",
+"href": "https://www.vernettaalston.com/join"
+},
+{
+"text": "MEET VERNETTA",
+"href": "https://www.vernettaalston.com/about"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://www.vernettaalston.com/privacypolicy"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.vernettaalston.com/join"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/vernettaalstonNC"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vernettaalston/?hl=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/vernettaalston?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.vernettaalston.com"
+}
 ]

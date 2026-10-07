@@ -1,18 +1,78 @@
 [
-"https://berlinct.gov/department/index.php?structureid=22",
-"https://chadcardillo.com/",
-"https://chadcardillo.com/cart",
-"https://chadcardillo.com/meet-chad",
-"https://chadcardillo.com/menu",
-"https://chadcardillo.com/signs",
-"https://chadcardillo.com/vote",
-"https://cheshirect.gov/194/Elections",
-"https://docs.google.com/forms/d/e/1FAIpQLSfrx17Io_xGqhQ2O9sgLRgeQwRLA4TFtzJBp2DMaVDuNWXR3g/viewform?usp=publish-editor",
-"https://facebook.com/ChadCardilloCT",
-"https://instagram.com/chad.cardillo.ct",
-"https://meridenct.gov/city-services/voting",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "0",
+"href": "https://chadcardillo.com/cart"
+},
+{
+"text": "Back",
+"href": "https://chadcardillo.com/"
+},
+{
+"text": "Berlin Registrars of Voters:",
+"href": "https://www.berlinct.gov/department/index.php?structureid=22"
+},
+{
+"text": "Cheshire Registrars of Voters:",
+"href": "https://www.cheshirect.gov/194/Elections"
+},
+{
+"text": "Folder: Menu",
+"href": "https://chadcardillo.com/menu"
+},
+{
+"text": "Home",
+"href": "https://chadcardillo.com/"
+},
+{
+"text": "Meet Chad",
+"href": "https://chadcardillo.com/meet-chad"
+},
+{
+"text": "Meriden Registrars of Voters:",
+"href": "https://www.meridenct.gov/city-services/voting/"
+},
+{
+"text": "Register Now",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Verify now",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Voting Information",
+"href": "https://chadcardillo.com/vote"
+},
+{
+"text": "Where do I vote?",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfrx17Io_xGqhQ2O9sgLRgeQwRLA4TFtzJBp2DMaVDuNWXR3g/viewform?usp=publish-editor"
+},
+{
+"text": "Yard Signs",
+"href": "https://chadcardillo.com/signs"
+},
+{
+"text": "[image: Chad Cardillo for State Representative]",
+"href": "https://chadcardillo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChadCardilloCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chad.cardillo.ct"
+},
+{
+"text": "absentee ballot info",
+"href": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+},
+{
+"text": "online",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+}
 ]

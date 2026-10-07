@@ -1,17 +1,66 @@
 [
-"http://aboutads.info/choices",
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/Smith4NJ",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://smith4nj.com/",
-"https://smith4nj.com/about",
-"https://smith4nj.com/cdn-cgi/l/email-protection",
-"https://smith4nj.com/contact",
-"https://smith4nj.com/endorsements",
-"https://smith4nj.com/news",
-"https://smith4nj.com/privacy-policy",
-"https://smith4nj.com/volunteer",
-"https://smith4nj.com/voting-information"
+{
+"text": "732-357-0900",
+"href": "tel:7323570900"
+},
+{
+"text": "About",
+"href": "https://smith4nj.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://smith4nj.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538"
+},
+{
+"text": "Election Information",
+"href": "https://smith4nj.com/voting-information/"
+},
+{
+"text": "Endorsements",
+"href": "https://smith4nj.com/endorsements/"
+},
+{
+"text": "News",
+"href": "https://smith4nj.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://smith4nj.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://smith4nj.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "https://smith4nj.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@smith4nj.com"
+},
+{
+"text": "[image]",
+"href": "https://smith4nj.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Smith4NJ/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

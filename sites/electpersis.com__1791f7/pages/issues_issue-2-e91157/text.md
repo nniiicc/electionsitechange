@@ -1,39 +1,19 @@
-persis has a holistic view of
-Public Safety
-Safety is not just about crime, and it certainly isn’t created by marching the national guard into our cities and towns.
+Skip navigation menu Home About Volunteer Endorsements Events Listening Tour Contact Donate Because families need a champion who will put people before corporate profits and safeguard our democracy from authoritarian threats.
+Home About Volunteer Endorsements Events Listening Tour Contact Donate Because families need a champion who will put people before corporate profits and safeguard our democracy from authoritarian threats.
+Education Economic Opportunity Public Safety A Free and Just World persis has a holistic view of Public Safety Safety is not just about crime, and it certainly isn’t created by marching the national guard into our cities and towns.
 A safe community means clean water to drink, reliable transportation to get to school or work, and affordable healthcare when you get sick.
 But our community must also address emerging issues that threaten our safety: like safeguarding our personal information from data brokers and AI.
 Persis is running to make Massachusetts safe for our kids and families.
-Clean Air and Water
-Clean air and safe drinking water should not be luxuries.
+Clean Air and Water Clean air and safe drinking water should not be luxuries.
 Massachusetts must expand its investment in climate-smart infrastructure so every neighborhood can breathe easy.
 We must also hold polluters accountable for their role in climate change, and ensure those penalties benefit the communities hardest hit by our climate crisis.
-As senator, Persis will:
-- Crack down on companies that engage in illegal dumping and hazardous pollution
-- Improve the resilience of our communities by bolstering pipes, storm drains, and other infrastructure that puts our homes and streets at risk during severe weather events
-- Increase clean energy by expanding eligibility for front-end rebates for homeowners who make energy improvements, electrifying buildings and schools, and expanding Massachusetts’ conservation programs
-Robust and Universal Healthcare
-Healthcare is a human right.
+As senator, Persis will: Crack down on companies that engage in illegal dumping and hazardous pollution Improve the resilience of our communities by bolstering pipes, storm drains, and other infrastructure that puts our homes and streets at risk during severe weather events Increase clean energy by expanding eligibility for front-end rebates for homeowners who make energy improvements, electrifying buildings and schools, and expanding Massachusetts’ conservation programs Robust and Universal Healthcare Healthcare is a human right.
 High quality healthcare should be accessible in every neighborhood, without months-long wait times and surprise costs.
 Medical decisions should be made by doctors and patients and not driven by corporate profit.
-As senator, Persis will:
-- Ensure full coverage for all people by closing coverage gaps and simplifying enrollment in public insurance options
-- Protect the rights of all genders to control their body, including a woman’s right to choose and the universal right to gender-affirming care
-- Expanding accessibility of routine care in your community through school-based clinics, mobile health clinics, and language-accessible care options
-- Get corporate interests out of healthcare
-Protecting Personal Data
-Every day, companies are mining data from social media, bank accounts, and more in order to drive up costs to the highest amount they think you will pay.
+As senator, Persis will: Ensure full coverage for all people by closing coverage gaps and simplifying enrollment in public insurance options Protect the rights of all genders to control their body , including a woman’s right to choose and the universal right to gender-affirming care Expanding accessibility of routine care in your community through school-based clinics, mobile health clinics, and language-accessible care options Get corporate interests out of healthcare Protecting Personal Data Every day, companies are mining data from social media, bank accounts, and more in order to drive up costs to the highest amount they think you will pay.
 You have the right to control how your data is used, and no company should be allowed to engage in exploitative pricing.
-As senator, Persis will:
-- Establish meaningful privacy rights, like mandatory opt-in consent, data-minimization requirements for companies operating in the Commonwealth, and the right to delete for all consumers
-- Ban harmful practices by companies like the use of sensitive data or biased algorithms in housing, employment, lending, and insurance decisions
-- Impose big penalties for big violations so that companies stop thinking of fines as “the cost of doing business”
-Freedom from violence and harm
-People deserve to walk their streets and send their kids to school without fear of violence.
+As senator, Persis will: Establish meaningful privacy rights , like mandatory opt-in consent, data-minimization requirements for companies operating in the Commonwealth, and the right to delete for all consumers Ban harmful practices by companies like the use of sensitive data or biased algorithms in housing, employment, lending, and insurance decisions Impose big penalties for big violations so that companies stop thinking of fines as “the cost of doing business” Freedom from violence and harm People deserve to walk their streets and send their kids to school without fear of violence.
 Ensuring trust in law enforcement is essential to keeping communities safe.
 Law enforcement officers are vital public servants who should be held to the highest standards of professionalism.
 But Massachusetts must do more to address the underlying causes of crime and violence: economic insecurity, mental health, and substance abuse.
-As senator, Persis will:
-- Take a comprehensive approach to preventing gun violence and ensuring that Massachusetts remains one of the safest states in the nation
-- Reform our criminal justice system to rebuild trust between law enforcement and the communities while strengthening protections to ensure that law enforcement who violate civil rights are held accountable
-- Expand access to vital life-saving services and infrastructure, such as substance abuse prevention and mental health services, while supporting families with comprehensive after-school programming and better economic opportunities
+As senator, Persis will: Take a comprehensive approach to preventing gun violence and ensuring that Massachusetts remains one of the safest states in the nation Reform our criminal justice system to rebuild trust between law enforcement and the communities while strengthening protections to ensure that law enforcement who violate civil rights are held accountable Expand access to vital life-saving services and infrastructure, such as substance abuse prevention and mental health services, while supporting families with comprehensive after-school programming and better economic opportunities Privacy Policy Powered by RUN! website builder Paid for by the Yu Committee You need to enable JavaScript to run this app.

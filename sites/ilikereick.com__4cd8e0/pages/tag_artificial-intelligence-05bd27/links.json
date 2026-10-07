@@ -1,13 +1,50 @@
 [
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/videos",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "In the Land of Unlearned Lessons, Will an AI Bubble Burst?",
+"href": "https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+}
 ]

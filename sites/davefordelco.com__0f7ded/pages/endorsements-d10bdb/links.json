@@ -1,11 +1,38 @@
 [
-"https://davefordelco.com/",
-"https://davefordelco.com/about",
-"https://davefordelco.com/contactus",
-"https://davefordelco.com/endorsements",
-"https://davefordelco.com/issues",
-"https://davefordelco.com/the-162nd-district",
-"https://facebook.com/DavidMDelloso",
-"https://instagram.com/davidmdelloso",
-"https://secure.actblue.com/donate/reelectdelloso2020"
+{
+"text": "About Dave",
+"href": "https://davefordelco.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://davefordelco.com/contactus"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/reelectdelloso2020"
+},
+{
+"text": "Endorsements",
+"href": "https://davefordelco.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://davefordelco.com/issues"
+},
+{
+"text": "The 162nd District",
+"href": "https://davefordelco.com/the-162nd-district"
+},
+{
+"text": "[image: Dave Delloso for Delaware County State Rep]",
+"href": "https://davefordelco.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DavidMDelloso/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidmdelloso/"
+}
 ]

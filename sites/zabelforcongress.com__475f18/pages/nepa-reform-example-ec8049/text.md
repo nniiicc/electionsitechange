@@ -1,17 +1,15 @@
-Smarter Stewardship:Modernizing Environmental Review for Idaho's Public Lands
-A working illustration of what it means to reform laws that cost more than they deliver, without weakening the protections they were designed to provide.
-This is an example of how legal and regulatory reform can reduce the cost of the federal government, using the National Environmental Policy Act of 1969 (NEPA) to illustrate what is possible.
+0 Skip to Content Home Who I Am What I Stand For News Connect Volunteer Events Merch Donate Open Menu Close Menu Home Who I Am What I Stand For News Connect Volunteer Events Merch Donate Open Menu Close Menu Home Who I Am What I Stand For News Connect Volunteer Events Merch Donate Smarter Stewardship: Modernizing Environmental Review for Idaho's Public Lands A working illustration of what it means to reform laws that cost more than they deliver, without weakening the protections they were designed to provide.
+Fiscal Stewardship · Policy Brief This is an example of how legal and regulatory reform can reduce the cost of the federal government, using the National Environmental Policy Act of 1969 (NEPA) to illustrate what is possible.
 (This example was generated with the use of AI: Anthropic/Claude.
-It has not been rigorously evaluated.)
-- Currently: three federal agencies review the same ground under three separate laws every ten years, with overlapping responsibilities, no standardized shared data, and each agency largely reviewing in isolation.
-- A rancher renewing the same permit on the same land faces the same full review process as if nothing had ever been examined.
-- It doesn't have to work that way.
+It has not been rigorously evaluated.) Currently: three federal agencies review the same ground under three separate laws every ten years, with overlapping responsibilities, no standardized shared data, and each agency largely reviewing in isolation.
+A rancher renewing the same permit on the same land faces the same full review process as if nothing had ever been examined.
+It doesn't have to work that way.
 Satellite remote sensing already monitors rangeland condition continuously.
 In-stream sensors can track water quality in real time.
-- The better model: permit holders keep operating while continuous monitoring watches for problems.
+The better model: permit holders keep operating while continuous monitoring watches for problems.
 If something trends out of tolerance, the government tells you, early enough to fix it.
-- This is process improvement and modernization to protect air and water quality, with fewer people (meaning lower cost to tax payers), and less hassle to ranchers.
-- This is what DOGE should have been doing.
+This is process improvement and modernization to protect air and water quality, with fewer people (meaning lower cost to tax payers), and less hassle to ranchers.
+This is what DOGE should have been doing.
 Instead, they hassled the federal workforce and cut the federal workforce, without first reducing what we need a federal workforce to do.
 Reduce the work, then reduce the workforce.
 We value clean air and clean water, but not the endless paperwork our processes entail.
@@ -27,8 +25,7 @@ The result, fifty-six years later, is a system in which the same piece of ground
 This is not stewardship.
 It is process for its own sake.
 And Idaho's ranchers, along with the federal taxpayers who fund it, are paying for it.
-The scenario: a grazing permit renewal in Idaho's First District
-The Bureau of Land Management manages approximately 2,200 grazing allotments and 1,400 grazing permits in Idaho.
+The scenario: a grazing permit renewal in Idaho's First District The Bureau of Land Management manages approximately 2,200 grazing allotments and 1,400 grazing permits in Idaho.
 Most of Idaho's ranching families depend on access to these allotments, typically moving cattle from their base property to public lands in summer, and returning to their home ranch for winter.
 Without a current, valid BLM grazing permit, the summer operation shuts down.
 Grazing permits are issued for ten-year terms under the Federal Land Policy and Management Act of 1976.
@@ -38,33 +35,27 @@ It is a continuation.
 The right question is: has anything changed that would affect whether this use should continue?
 But the law does not clearly require that question.
 Instead, it typically triggers a process designed as if nothing had ever been reviewed before.
-The current process: what actually happens
-Step one: NEPA review
-The permit renewal is a federal action, which means it triggers the National Environmental Policy Act.
+The current process: what actually happens Step one: NEPA review The permit renewal is a federal action, which means it triggers the National Environmental Policy Act.
 BLM staff assess whether the renewal qualifies for a Categorical Exclusion: a determination that the action does not individually or cumulatively have a significant effect on the environment.
 For a straightforward renewal of an existing permit with no proposed changes, this is usually the correct finding, and a CE can in principle be granted relatively quickly.
 But a Categorical Exclusion satisfies NEPA.
 It does not satisfy anything else.
-Step two: ESA Section 7 consultation
-Separately, the Endangered Species Act requires BLM to consult with the U.S.
+Step two: ESA Section 7 consultation Separately, the Endangered Species Act requires BLM to consult with the U.S.
 Fish and Wildlife Service to ensure the renewed permit will not jeopardize any listed species or adversely modify designated critical habitat.
 This consultation must use the "best scientific and commercial data available," which means the current species list and current habitat designations, not the ones in effect when the permit was last reviewed.
 If any species has been listed in the intervening decade, it gets added to the analysis.
 The consultation runs on its own timeline, independent of the NEPA determination.
 Typical duration: six to eighteen months.
-Step three: NHPA Section 106 review
-The National Historic Preservation Act requires BLM to assess whether the renewed permit may adversely affect historic or cultural properties: a separate review conducted in coordination with the State Historic Preservation Office and, where applicable, tribal consultation.
+Step three: NHPA Section 106 review The National Historic Preservation Act requires BLM to assess whether the renewed permit may adversely affect historic or cultural properties: a separate review conducted in coordination with the State Historic Preservation Office and, where applicable, tribal consultation.
 Completing the Categorical Exclusion explicitly does not satisfy this requirement.
 It runs concurrently with the other reviews, drawing on overlapping field data, producing a separate document.
 Typical duration: three to twelve months.
-Step four: Rangeland health assessment
-Before a grazing permit can be fully processed, BLM field staff must complete a rangeland health assessment comparing current conditions to established land health standards.
+Step four: Rangeland health assessment Before a grazing permit can be fully processed, BLM field staff must complete a rangeland health assessment comparing current conditions to established land health standards.
 This requires physical field visits, vegetation sampling, and water quality observation.
 It is the most directly relevant review: it actually asks whether the land is being maintained in acceptable condition.
 But it is conducted by BLM staff separately from the ESA consultation and NHPA review, drawing on some of the same physical observations without a shared data system.
 Typical duration: six to twenty-four months, depending on staffing and priority queue.
-The permit waits for the slowest clock
-All three reviews must complete before the permit can be issued.
+The permit waits for the slowest clock All three reviews must complete before the permit can be issued.
 There is no requirement that they run concurrently or share data.
 The rancher waits for whichever takes longest.
 The typical total timeline from application to issued permit is one to three years, for a renewal of an identical use on land the rancher has managed for a generation.
@@ -76,21 +67,17 @@ The cost: In FY2017, $79 million was appropriated to BLM for rangeland managemen
 BLM collected $18.3 million in grazing fees the same year.
 The Forest Service spent $56.9 million on grazing management against $7.6 million in fee collections.
 The federal grazing program costs taxpayers roughly $110 million more per year than it collects, a structural deficit driven in large part by the administrative burden of a process that has never been modernized.
-What the current process costs each party
-| Party | Current burden |
-|---|---|
-| Federal government | BLM rangeland management staff shrank 39% between 2020 and 2024, yet the renewal workload did not shrink.
+What the current process costs each party Party Current burden Federal government BLM rangeland management staff shrank 39% between 2020 and 2024, yet the renewal workload did not shrink.
 Staff time is divided across NEPA documentation, ESA consultation coordination, field assessments, and administrative appeals, often for the same allotment, sequentially rather than simultaneously.
 An Environmental Assessment for a grazing permit costs between $50,000 and $200,000 in staff and contractor time.
-Litigation costs, paid to prevailing plaintiffs under the Equal Access to Justice Act when reviews are found inadequate, add an unquantified but documented additional burden. |
-| State and local government | The Idaho State Department of Agriculture maintains a rangeland program that assists ranchers with the renewal process.
+Litigation costs, paid to prevailing plaintiffs under the Equal Access to Justice Act when reviews are found inadequate, add an unquantified but documented additional burden.
+State and local government The Idaho State Department of Agriculture maintains a rangeland program that assists ranchers with the renewal process.
 State Historic Preservation Office staff participate in Section 106 reviews.
 Idaho Department of Fish and Game coordinates on species data.
-These are state resources devoted to federal process — costs that fall partly on Idaho taxpayers with no formal cost-sharing mechanism. |
-| The rancher | Filing renewal applications four months before expiration, waiting one to three years for processing, operating under expired permits during the backlog, hiring range consultants to navigate the process, participating in ESA consultations as an applicant, and remaining exposed to permit modification or cancellation at the end of a review whose outcome is uncertain regardless of the land's documented condition.
-The capitalized value of a grazing permit is reflected in the price of the associated base property, meaning the permit's uncertainty risk is embedded in the rancher's primary financial asset. |
-What is now possible that was not possible in 1970
-Three technological developments, all available today and largely already deployed in partial form, make the current process design obsolete.
+These are state resources devoted to federal process — costs that fall partly on Idaho taxpayers with no formal cost-sharing mechanism.
+The rancher Filing renewal applications four months before expiration, waiting one to three years for processing, operating under expired permits during the backlog, hiring range consultants to navigate the process, participating in ESA consultations as an applicant, and remaining exposed to permit modification or cancellation at the end of a review whose outcome is uncertain regardless of the land's documented condition.
+The capitalized value of a grazing permit is reflected in the price of the associated base property, meaning the permit's uncertainty risk is embedded in the rancher's primary financial asset.
+What is now possible that was not possible in 1970 Three technological developments, all available today and largely already deployed in partial form, make the current process design obsolete.
 The first is continuous satellite monitoring of rangeland condition.
 The USGS Rangeland Condition Monitoring Assessment and Projection dataset provides annual satellite-based measurements of vegetation cover, bare ground, invasive species, sagebrush canopy, and woody encroachment across western rangelands from 1985 to the present.
 The Rangeland Analysis Platform, operated jointly by BLM, NPS, and NRCS, now integrates Sentinel-2 satellite data at 10-meter resolution, updated annually.
@@ -106,12 +93,10 @@ The data needed for all three concurrent reviews (vegetation condition, species 
 BLM's Rangeland Analysis Platform, Fish and Wildlife's Information, Planning and Conservation System (IPaC), and State Historic Preservation Office databases do not communicate.
 Field staff from different agencies may physically visit the same allotment within months of each other, making overlapping observations, producing separate documents.
 A shared digital land record, established at original permit issuance and updated on a rolling basis, would eliminate this duplication without reducing any review's rigor.
-The achievable new process
-The reform does not eliminate environmental review.
+The achievable new process The reform does not eliminate environmental review.
 It redesigns it around the question that actually matters: is this use, on this land, currently within acceptable bounds?
 That question can be answered continuously, not periodically.
-Continuous authorization replaces periodic renewal
-Rather than issuing a permit that expires on a fixed date and requiring the rancher to apply for renewal — restarting the entire review process — a continuous authorization model issues a permit without a fixed expiration.
+Continuous authorization replaces periodic renewal Rather than issuing a permit that expires on a fixed date and requiring the rancher to apply for renewal — restarting the entire review process — a continuous authorization model issues a permit without a fixed expiration.
 The permit remains valid as long as defined, measurable land health thresholds are being met, verified by a combination of continuous remote sensing data and periodic physical spot checks.
 The government's role shifts from conducting a periodic verdict to monitoring ongoing conditions and providing early warning when a trend is heading toward a threshold.
 If satellite data shows vegetative cover declining over three consecutive growing seasons on a particular allotment, the responsible BLM field office notifies the rancher: here is what the data shows, here is the threshold, here is the window to respond.
@@ -119,38 +104,31 @@ The rancher can adjust management, provide context, or request a field verificat
 The permit is not interrupted unless the data shows a genuine problem that management changes cannot address.
 This is not a weakening of oversight.
 It is more rigorous oversight: continuous rather than periodic, data-driven rather than document-driven, and focused on actual land condition rather than administrative compliance with a calendar schedule.
-One shared baseline serves all three reviews
-At the time of original permit issuance, a comprehensive baseline is established: full vegetation survey, species inventory, water quality measurements, cultural resources survey, and photographic record.
+One shared baseline serves all three reviews At the time of original permit issuance, a comprehensive baseline is established: full vegetation survey, species inventory, water quality measurements, cultural resources survey, and photographic record.
 This baseline is stored in a shared federal digital record accessible to BLM, Fish and Wildlife, and the State Historic Preservation Office simultaneously.
 For subsequent renewal determinations, the question for each review agency becomes: what has changed from the documented baseline?
 Remote sensing data and IoT sensor readings answer most of that question automatically.
 Physical re-verification is triggered by data anomalies, not by calendar date.
 The three agencies draw on the same data, reducing duplicative field work and enabling concurrent review — when review is needed at all — rather than sequential review.
-Staff time concentrates where it matters
-Under the current system, federal rangeland staff distribute their time across all 18,000 permits on a calendar schedule.
+Staff time concentrates where it matters Under the current system, federal rangeland staff distribute their time across all 18,000 permits on a calendar schedule.
 Under a continuous monitoring system, staff attention is directed by the data: to the allotments showing adverse trends, the permits with documented compliance problems, the watersheds where sensor readings are flagging a change.
 The rancher who has managed well for twenty years, on land where the satellite data shows stable vegetative cover and the in-stream sensors show clean water, never sees a renewal process.
 The rancher whose land is showing signs of stress gets earlier, more targeted attention than the current system provides, before the situation has deteriorated to the point of permit action.
-What the new process would cost each party
-| Party | Burden under reformed process |
-|---|---|
-| Federal government | One-time investment in shared data infrastructure and sensor deployment, offset over time by elimination of redundant field reviews and document production.
+What the new process would cost each party Party Burden under reformed process Federal government One-time investment in shared data infrastructure and sensor deployment, offset over time by elimination of redundant field reviews and document production.
 Staff time redirected from routine renewal processing toward monitoring of high-priority allotments and response to data-triggered alerts.
 Reduced litigation exposure as continuous data record provides a more defensible basis for permit decisions than periodic review documentation.
-BLM's existing remote sensing infrastructure — already funded and operating — forms the foundation without new procurement. |
-| State and local government | State agency participation shifts from reactive review coordination to proactive data sharing.
-Idaho's rangeland monitoring programs and ISDA's cooperative agreements with BLM align naturally with the shared-data model: Idaho rancher monitoring data, already being collected under existing MOU frameworks, feeds into the common record rather than running parallel to it. |
-| The rancher | No renewal application for allotments in documented compliance.
+BLM's existing remote sensing infrastructure — already funded and operating — forms the foundation without new procurement.
+State and local government State agency participation shifts from reactive review coordination to proactive data sharing.
+Idaho's rangeland monitoring programs and ISDA's cooperative agreements with BLM align naturally with the shared-data model: Idaho rancher monitoring data, already being collected under existing MOU frameworks, feeds into the common record rather than running parallel to it.
+The rancher No renewal application for allotments in documented compliance.
 Permit security increases because authorization is based on continuous demonstrated performance rather than periodic bureaucratic review.
 Early warning of adverse trends allows management adjustment before a formal permit action is triggered.
-Uncertainty about permit status, currently embedded in the capitalized value of the base property, decreases as the permit's continuation depends on measurable land condition rather than administrative queue position. |
-What needs to change
-Three federal statutes require amendment: the Federal Land Policy and Management Act, which establishes the ten-year permit term; the Taylor Grazing Act of 1934, which also contains term limitations; and NEPA, which needs a codified "change-based" standard for renewal reviews that recognizes continuous monitoring data as satisfying the environmental review obligation for activities within previously analyzed parameters.
+Uncertainty about permit status, currently embedded in the capitalized value of the base property, decreases as the permit's continuation depends on measurable land condition rather than administrative queue position.
+What needs to change Three federal statutes require amendment: the Federal Land Policy and Management Act, which establishes the ten-year permit term; the Taylor Grazing Act of 1934, which also contains term limitations; and NEPA, which needs a codified "change-based" standard for renewal reviews that recognizes continuous monitoring data as satisfying the environmental review obligation for activities within previously analyzed parameters.
 Two regulatory frameworks can be updated by agency rulemaking without congressional action: the ESA Section 7 consultation regulations, to allow continuous remote sensing habitat data to satisfy the "best available data" standard for previously-consulted allotments; and the NHPA Section 106 regulations, to establish programmatic agreement mechanisms that make a single comprehensive cultural resources survey serve subsequent renewals on the same land.
 The shared data infrastructure requires no legislation at all, only interagency agreement, appropriations for data systems, and the will to stop duplicating work that technology can perform once and share.
 Congress should direct the Government Accountability Office to model the comparative costs of the current and reformed processes as a first step, so that the savings case can be made with documented evidence rather than estimates.
-The bottom line
-NEPA was six pages long when Nixon signed it.
+The bottom line NEPA was six pages long when Nixon signed it.
 Its goal — that the federal government take a hard look at environmental consequences before acting — remains sound.
 What is not sound is a process designed for 1970 that has grown into a multi-agency, multi-year, multi-document bureaucratic structure that costs the federal government $110 million more per year than it collects, has produced a backlog of thousands of unprocessed permits, and delivers oversight that is simultaneously expensive and inadequate.
 The technology to do better exists.
@@ -163,8 +141,57 @@ That is what I mean by reforming laws that cost more than they deliver.
 Not eliminating the protection.
 Delivering it better, at lower cost, with better outcomes — for Idaho's ranchers, for Idaho's public lands, and for the taxpayers who pay for both.
 This brief was prepared by the Zabel for Congress campaign as an illustration of the "Reform Laws That Cost More Than They Deliver" pillar of Sarah Zabel's Fiscal Stewardship platform.
-For the full platform, see zabelforcongress.com/fiscal-stewardship.
-References
-All URLs verified as of May 2026.
+For the full platform, see zabelforcongress.com/fiscal-stewardship . ↑ Back to top ← Fiscal Stewardship References Federal statutes and regulations National Environmental Policy Act of 1969, 42 U.S.C. §§ 4321–4347 Enacted December 1969; signed January 1, 1970 Foundation of the three-tier review process (Categorical Exclusion, Environmental Assessment, Environmental Impact Statement).
+Nixon's signing statement quoted in text. ceq.doe.gov Federal Land Policy and Management Act of 1976 (FLPMA), 43 U.S.C. §§ 1701 et seq., Section 402 Public Law 94-579; as amended through P.L.
+117-286 (December 2022) Establishes the 10-year grazing permit term and BLM's multiple-use mandate.
+Section 402(c)(2), as amended by the National Defense Authorization Act for FY2015 (P.L.
+113-291, Section 3023), provides for continuation of permit terms pending completion of NEPA and other required analysis. govinfo.gov — FLPMA full text Taylor Grazing Act of 1934, 43 U.S.C. §§ 315 et seq.
+Enacted June 28, 1934 Original source of the 10-year permit term limitation for BLM grazing permits.
+Both FLPMA and the Taylor Grazing Act would require amendment to implement continuous authorization.
+Endangered Species Act of 1973, Section 7, 16 U.S.C. § 1536 Regulations at 50 CFR Part 402 Requires federal agencies to consult with U.S.
+Fish and Wildlife Service to ensure authorized actions will not jeopardize listed species or adversely modify critical habitat.
+Applies independently of NEPA determination; a Categorical Exclusion does not satisfy Section 7. fws.gov — Section 7 consultation overview National Historic Preservation Act, Section 106, 16 U.S.C. § 470f Regulations at 36 CFR Part 800 (Advisory Council on Historic Preservation) Requires federal agencies to assess effects on historic properties prior to any federal undertaking.
+BLM policy explicitly states that completing a Categorical Exclusion satisfies NEPA but does not satisfy NHPA Section 106; both must be completed before a final grazing permit decision.
+BLM Instruction Memorandum 2012-108 — Coordinating NEPA and NHPA Section 106 43 CFR Part 4100 — BLM Grazing Administration Regulations Code of Federal Regulations, Title 43, Parts 4100–4160 Governing regulations for grazing permit issuance, renewal, modification, and rangeland health assessment requirements.
+BLM policy documents and instruction memoranda BLM Instruction Memorandum No.
+2008-019: Guidance on the Use of a New Categorical Exclusion for Grazing Permits/Leases Bureau of Land Management, October 25, 2007 Establishes that use of a CE does not reduce or eliminate requirements for cultural resources clearance, threatened and endangered species consultation, and other reviews.
+Basis for the finding that a CE satisfies NEPA but not parallel statutory requirements. blm.gov/policy/im-2008-019 BLM Instruction Memorandum No.
+2010-127: Conducting ESA Section 7 Consultation on Grazing Decisions at the Implementation Level Bureau of Land Management, May 17, 2010 Clarifies process for issuing grazing permits when Section 7 consultation is required; confirms consultation runs independently of NEPA process. blm.gov/policy/im-2010-084-1 BLM Instruction Memorandum No.
+2015-122: Implementing Amended Section 402(c)(2) of FLPMA Bureau of Land Management, July 15, 2015 Provides direction for continuing terms and conditions of expired grazing permits pending completion of NEPA and other legal requirements under the NDAA 2015 amendment. blm.gov/policy/im-2015-122 BLM Permanent Instruction Memorandum No.
+2025-004: Setting Priorities for Review and Processing of Grazing Authorizations Bureau of Land Management, December 2024 Current BLM policy on prioritizing grazing permit processing; confirms that fully processed permits require completion of NEPA, ESA, and other applicable statutes.
+Documents BLM's acknowledgment of successive renewals without full analysis due to staffing constraints. blm.gov/policy/pim-2025-004 BLM Instruction Memorandum No.
+2012-108: Coordinating NEPA and NHPA Section 106 Compliance Bureau of Land Management, April 27, 2012 Restates policy requiring coordination of NEPA and NHPA processes; explicitly confirms that a CE does not satisfy Section 106 obligations.
+Source for parallel review requirement. blm.gov/policy/im-2012-108 Government reports and congressional sources Congressional Research Service: Grazing Fees: Overview and Issues (RS21232) Congressional Research Service, March 4, 2019 Source for BLM grazing fee revenue ($18.3 million FY2017), BLM rangeland management appropriation ($79 million FY2017), Forest Service grazing appropriation ($56.9 million FY2017), Forest Service fee collections ($7.6 million FY2017), and the 7,000+ permit renewal backlog as of September 2017.
+Primary source for the $110 million net annual federal cost figure. congress.gov/crs-product/RS21232 U.S.
+Government Accountability Office: GAO-05-869 — Livestock Grazing: Federal Expenditures and Receipts Vary, Depending on the Agency and the Purpose of the Fee Charged Government Accountability Office, 2005 Found that grazing fees generated approximately $21 million in FY2004, less than one-sixth of expenditures to manage grazing that year.
+Foundation for the long-running net-cost finding of the federal grazing program.
+U.S.
+Government Accountability Office: GAO-14-369 — National Environmental Policy Act: Little Information Exists on NEPA Analyses Government Accountability Office, April 2014 Documents limited federal data on NEPA analysis costs; source for context on EA and EIS cost ranges across agencies. gao.gov/assets/gao-14-369.pdf U.S.
+Government Accountability Office: GAO-25-107500 — Sarbanes-Oxley Act: Compliance Costs Are Higher for Larger Companies but More Burdensome for Smaller Ones Government Accountability Office, July 2025 Cited for context on fixed compliance cost burdens on smaller entities; structural parallel to NEPA compliance burden on smaller ranching operations. gao.gov/products/gao-25-107500 Department of the Interior: Testimony on S.
+258 (Grazing Improvement Act), Senate Committee on Energy and Natural Resources U.S.
+Department of the Interior, April 25, 2013 Documents the BLM's backlog of 4,964 unprocessed permits anticipated at end of FY2013; supports the scope of the renewal backlog problem.
+Source for typical EA cost context. doi.gov — S.
+258 testimony Council on Environmental Quality: A Citizen's Guide to NEPA (January 2021) Executive Office of the President, Council on Environmental Quality, January 2021 Official description of the three-tier NEPA process (CE, EA, EIS) and the process flowchart referenced in the paper.
+Source for process step descriptions and timelines. ceq.doe.gov — Citizen's Guide to NEPA American Action Forum: Addressing Delays Associated with NEPA Compliance American Action Forum, March 2017 Documents average NEPA Environmental Assessment completion time of 21 months and $386,000 cost (2015 data); EIS average of 49 months and $4.19 million.
+Source for EA/EIS cost and duration estimates. americanactionforum.org Idaho-specific sources Idaho Rangeland Resource Commission: Grazing Permits — Process for Renewing BLM Grazing Permits Is Extensive Idaho Rangeland Resource Commission (idrange.org) Idaho rancher and BLM official perspectives on the permit renewal process; source for the characterization that BLM manages approximately 2,200 allotments and 1,400 permits in Idaho.
+Quotes from Carey rancher John Peavey and BLM's Mike Courtney on litigation and backlog. idrange.org — Grazing permit renewal process Idaho State Department of Agriculture: A Rancher's Guide to NEPA and Permit Renewals Idaho State Department of Agriculture (agri.idaho.gov) Idaho-specific guidance on BLM and Forest Service NEPA processes for grazing permit renewals; documents that most Idaho federal grazing permits are analyzed under an EA rather than a CE, contrary to the national 95% CE figure cited for transportation. agri.idaho.gov — Rancher's Guide to NEPA Boise State University: 11th Annual Idaho Public Policy Survey (2026) Boise State University School of Public Service, January 2026 Referenced for Idaho public opinion context, including 85% support for a legal pathway for dairy workers and their families, and 53% belief that increased ICE presence would hurt Idaho's agricultural economy.
+Background context for the agricultural workforce discussion. boisestate.edu/sps Remote sensing and monitoring technology Rangeland Analysis Platform (RAP) University of Montana, Bureau of Land Management, USDA Agricultural Research Service; rangelands.app Operational platform combining satellite imagery with field vegetation measurements to map rangeland vegetation across the United States, including 2025 data.
+Foundation for the claim that continuous satellite monitoring of rangeland condition is already deployed and operational. rangelands.app USGS Rangeland Condition Monitoring Assessment and Projection (RCMAP) U.S.
+Geological Survey, Earth Resources Observation and Science (EROS) Center Provides annual Landsat-based fractional component maps from 1985 to present, depicting vegetation cover trends across western rangelands.
+Source for the claim that satellite data for every BLM allotment in Idaho goes back to 1986. usgs.gov — RCMAP BLM Climate and Remote Sensing Data Reports (reports.climateengine.org) Bureau of Land Management / Desert Research Institute, March 2024 BLM-operated platform providing timely drought and satellite-based vegetation data for every grazing allotment, with data extending back to 1986.
+Demonstrates that per-allotment remote sensing data is already operationally available to BLM resource managers. drought.gov — Climate Engine launch announcement Sentinel-2 Based Estimates of Rangeland Fractional Cover and Canopy Gap Class for the Western United States National Center for Biotechnology Information (PMC12663396), 2025 Documents 10-meter resolution annual vegetation cover estimates from Sentinel-2 satellites for years 2018–2024.
+Source for the 10-meter resolution satellite monitoring capability cited in the paper. ncbi.nlm.nih.gov/pmc/articles/PMC12663396 Remote Sensing Techniques for Water Quality Monitoring: A Review MDPI Sensors, December 2024 (DOI: 10.3390/s24248041) Documents the state of IoT sensor technology for real-time water quality monitoring; source for the claim that turbidity, temperature, pH, sediment load, and dissolved oxygen can be continuously monitored from remote locations via wireless transmission. mdpi.com — Water quality monitoring review A Smart Sensing System of Water Quality and Intake Monitoring for Livestock and Wild Animals MDPI Sensors, April 2021 (DOI: 10.3390/s21082885) Demonstrates operational IoT water monitoring system deployed at a remote grazing site tracking 29 cattle over two weeks; supports feasibility of in-field sensor deployment for rangeland water quality monitoring. ncbi.nlm.nih.gov/pmc/articles/PMC8074319 Adaptive management framework Rangelands Gateway: Adaptive Management Rangelands Gateway (rangelandsgateway.org) Documents that adaptive management is now written into BLM and Forest Service Allotment Management Plans and Annual Operating Instructions; establishes that the threshold-and-response model is already in BLM policy, supporting the argument that continuous authorization is an extension of existing practice rather than a novel concept. rangelandsgateway.org — Adaptive management California North Coast Regional Water Quality Control Board: Federal Lands Permit California North Coast Regional Water Quality Control Board Example of a continuous activity-based authorization model for federal grazing in which the permit covers the activity of grazing rather than individual projects, and all activities are automatically enrolled.
+Cited as a working precedent for continuous authorization replacing periodic renewal. waterboards.ca.gov — Federal Lands Permit Journalism and investigative reporting ProPublica / High Country News: A Loophole Allows Ranchers to Renew Grazing Permits With Little Scrutiny of the Environmental Impact ProPublica and High Country News, December 2025 Source for BLM rangeland management staff shrinkage of 39% between 2020 and 2024; documents field evidence of oversight failures resulting from the backlog; provides context for the structural cost-quality tradeoff in the current system. propublica.org — Grazing oversight investigation E&E News: Ranchers, Greens on Edge as BLM Rewrites Grazing Rule E&E News by Politico, December 2022 Source for BLM acknowledgment that it "really has no idea what the baseline conditions are for the grazing program" — documenting the absence of consistent baseline data that makes even change-focused renewal reviews difficult to execute efficiently. eenews.net — BLM grazing rule USDA / Western Livestock Journal: USDA Clarifies Federal Grazing Permit Guidance Western Livestock Journal, February 2026 Documents January 2026 USDA guidance clarifying that grazing permits are administrative actions not necessarily requiring NEPA analysis; notes BLM-Public Lands Council MOU for cooperative monitoring.
+Source for current 2026 federal grazing fee ($1.69/AUM). wlj.net — USDA grazing guidance Permitting reform analysis American Enterprise Institute: Reforming Permitting to Build Infrastructure Zachary Liscow, American Enterprise Institute, September 2025 Documents average NEPA environmental review time of over four years; provides the "green bargain" framing for permitting reform that speeds construction while preserving environmental values.
+Source for the reform framing applied to rangeland management. aei.org — Reforming permitting Congressional Research Service: Legislative Categorical Exclusions Under NEPA (R48595) Congressional Research Service, July 2025 Documents the landscape of congressionally directed and statutory categorical exclusions; notes that the 2015 NDAA created statutory CEs for specific grazing permit renewals — the legislative precedent for the reform proposed in the paper. congress.gov/crs-product/R48595 K&L Gates: More Federal Agencies Streamline NEPA Procedures to Expedite Review and Permitting K&L Gates LLP, August 2025 Documents that following the Fiscal Responsibility Act of 2023 and the Supreme Court's Seven County Infrastructure Coalition decision, DOT, Army Corps, and DOI implemented NEPA reforms capping EIS reviews at two years.
+Source for recent reform precedent and context for achievable timeline reductions. klgates.com — NEPA streamlining ↑ Back to top ← Fiscal Stewardship All URLs verified as of May 2026.
 Federal agency policy documents are subject to revision; readers should confirm current policy status with the relevant agency.
 Cost and staffing figures are drawn from the most recent available government data at the time of writing and are cited to their original sources above.
+Paid for by Zabel for Congress · Sarah Zabel, Independent for U.S.
+Congress, Idaho's First District zabelforcongress.com Sarah Zabel is a retired member of the U.S.
+Air Force.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Paid for by Zabel for Congress P.O.
+Box 510, Athol ID 83801 info@zabelforcongress.com Terms and Conditions × Zabel for Congress No party machine. $25 $50 $100 Other amount Contributions are not tax-deductible.
+U.S. citizens and permanent residents only.
+Paid for by Zabel for Congress.

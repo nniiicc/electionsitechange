@@ -1,22 +1,94 @@
 [
-"http://oklegislature.gov/findmylegislature.aspx",
-"https://facebook.com/profile.php?id=61557218273365",
-"https://instagram.com/gabewoolley",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F71Q6QD7sY6sPZr6sTaO0xt%3Fsi%3Dhb4QC85ZQ2CKerRxxmASgw%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0iZ0fqI7LUC9U5irMa1PrX_zRIbRfH6rsYkpjhFajLHsKFGAmEsCivztY_aem_6msAg25JauC9oaZ1Og4gvw&h=AT1jgpxRmi-cmd9KKeMJnCCDbPDCFiXY5Dks840JKVH2Zxg6VJGOJ7K9rpSduGOaWGlWBm9KPL1TfidizzBnBf58k94UD8_fDUGDDhMyhqjUYDJwwxFvQNq4fzyPnm30tFfB&__tn__=-UK-R&c%5B0%5D=AT2n-P1gRQQ8cbOC_KDHsKZ4_gdrWZVtK467-8vKM9R-KOqjaONbaE18f3ympsFe3d1Od9d3V5LmvrF5uLMrSkom54Zq_hsrlHe3nrf4wWxQXJBMzgBqiB6-VyPuCcj-AENmVXuIJvE9PdMJMauz_uhYSAhHf8La7E8VrOmxySanCXyzbzjEy2ddiEA6rA4-VHb0HiA0L7mgXRpjbUhBNxBfHFLfpBabf3M",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Fthe-oklahoma-lion%2Fid1712361110&h=AT2V1LZJzslYm_MGWV971GamIj3fHpGZ-l9LG7RoikD_xwFFj-WOZA5sQMHGm8HWLah8ERcXyKjYyDWIsAeul0C_33aacwfpNKziSv6L6eRslqeyVS-wo2PHrP-x7QojJGye&__tn__=-UK-R&c%5B0%5D=AT2n-P1gRQQ8cbOC_KDHsKZ4_gdrWZVtK467-8vKM9R-KOqjaONbaE18f3ympsFe3d1Od9d3V5LmvrF5uLMrSkom54Zq_hsrlHe3nrf4wWxQXJBMzgBqiB6-VyPuCcj-AENmVXuIJvE9PdMJMauz_uhYSAhHf8La7E8VrOmxySanCXyzbzjEy2ddiEA6rA4-VHb0HiA0L7mgXRpjbUhBNxBfHFLfpBabf3M",
-"https://linkedin.com/in/gabe-woolley-08161151",
-"https://makingtheimpact.com/",
-"https://oklahoma.gov/elections.html",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://transoklahomamovie.com/",
-"https://woolleyforstatehouse.com/",
-"https://woolleyforstatehouse.com/about-gabe",
-"https://woolleyforstatehouse.com/contact-gabe",
-"https://woolleyforstatehouse.com/privacy",
-"https://woolleyforstatehouse.com/support",
-"https://woolleyforstatehouse.com/team-3",
-"https://x.com/GabeGwoolley",
-"https://youtu.be/3HS1LNHV5_U?si=TiyAy662wJSijmsP",
-"https://youtube.com/@gabewoolley",
-"https://youtube.com/@rescueclayton?si=8R7hm26dVDIN0POE"
+{
+"text": "About",
+"href": "https://www.woolleyforstatehouse.com/about-gabe"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.woolleyforstatehouse.com/team-3"
+},
+{
+"text": "Apple",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Fthe-oklahoma-lion%2Fid1712361110&h=AT2V1LZJzslYm_MGWV971GamIj3fHpGZ-l9LG7RoikD_xwFFj-WOZA5sQMHGm8HWLah8ERcXyKjYyDWIsAeul0C_33aacwfpNKziSv6L6eRslqeyVS-wo2PHrP-x7QojJGye&__tn__=-UK-R&c%5B0%5D=AT2n-P1gRQQ8cbOC_KDHsKZ4_gdrWZVtK467-8vKM9R-KOqjaONbaE18f3ympsFe3d1Od9d3V5LmvrF5uLMrSkom54Zq_hsrlHe3nrf4wWxQXJBMzgBqiB6-VyPuCcj-AENmVXuIJvE9PdMJMauz_uhYSAhHf8La7E8VrOmxySanCXyzbzjEy2ddiEA6rA4-VHb0HiA0L7mgXRpjbUhBNxBfHFLfpBabf3M"
+},
+{
+"text": "Contact",
+"href": "https://www.woolleyforstatehouse.com/contact-gabe"
+},
+{
+"text": "Election",
+"href": "https://www.oklahoma.gov/elections.html"
+},
+{
+"text": "Find My District",
+"href": "http://www.oklegislature.gov/findmylegislature.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.woolleyforstatehouse.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.woolleyforstatehouse.com/privacy"
+},
+{
+"text": "Register To Vote",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "SUPPORT GABE",
+"href": "https://www.woolleyforstatehouse.com/support"
+},
+{
+"text": "Saving Clayton : A True Story of Oklahoma Corruption",
+"href": "https://youtu.be/3HS1LNHV5_U?si=TiyAy662wJSijmsP"
+},
+{
+"text": "Spotify",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F71Q6QD7sY6sPZr6sTaO0xt%3Fsi%3Dhb4QC85ZQ2CKerRxxmASgw%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0iZ0fqI7LUC9U5irMa1PrX_zRIbRfH6rsYkpjhFajLHsKFGAmEsCivztY_aem_6msAg25JauC9oaZ1Og4gvw&h=AT1jgpxRmi-cmd9KKeMJnCCDbPDCFiXY5Dks840JKVH2Zxg6VJGOJ7K9rpSduGOaWGlWBm9KPL1TfidizzBnBf58k94UD8_fDUGDDhMyhqjUYDJwwxFvQNq4fzyPnm30tFfB&__tn__=-UK-R&c%5B0%5D=AT2n-P1gRQQ8cbOC_KDHsKZ4_gdrWZVtK467-8vKM9R-KOqjaONbaE18f3ympsFe3d1Od9d3V5LmvrF5uLMrSkom54Zq_hsrlHe3nrf4wWxQXJBMzgBqiB6-VyPuCcj-AENmVXuIJvE9PdMJMauz_uhYSAhHf8La7E8VrOmxySanCXyzbzjEy2ddiEA6rA4-VHb0HiA0L7mgXRpjbUhBNxBfHFLfpBabf3M"
+},
+{
+"text": "Support",
+"href": "https://www.woolleyforstatehouse.com/support"
+},
+{
+"text": "The Rescue Clayton Podcast",
+"href": "https://youtube.com/@rescueclayton?si=8R7hm26dVDIN0POE"
+},
+{
+"text": "Trans Oklahoma: The Stories of Oklahoma De-Transitioners",
+"href": "https://www.transoklahomamovie.com"
+},
+{
+"text": "Trans Oklahoma; The Stories of Oklahoma De-Transitioners. Leaving the LGBTQ lifestyle behind",
+"href": "https://www.transoklahomamovie.com"
+},
+{
+"text": "Website Design",
+"href": "https://makingtheimpact.com"
+},
+{
+"text": "Woolley For OK House Dist. 98",
+"href": "https://www.woolleyforstatehouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61557218273365"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gabewoolley/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/gabe-woolley-08161151/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/GabeGwoolley"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@gabewoolley"
+}
 ]

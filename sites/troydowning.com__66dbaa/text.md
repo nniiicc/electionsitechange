@@ -1,4 +1,10 @@
-Republican combat veteran and businessman Troy Downing represents Montana's second congressional district in the U.S.
+Donate Store Donate Store Join Team Troy Please fill all the required fields!
+Please accept terms and conditions to proceed By providing your telephone number, you consent to receive calls and text messages.
+Messages will be sent and donations may be solicited.
+Msg & data rates may apply.
+Msg frequency may vary.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info Join the Team Meet Troy Downing Republican combat veteran and businessman Troy Downing represents Montana's second congressional district in the U.S.
 House of Representatives.
 As a member of the House Financial Services Committee, he advocates for policies that strengthen financial markets, expand access to capital, and empower rural small businesses.
 Rep.
@@ -27,8 +33,7 @@ Downing was not on alert or forward deployed “outside the wire,” he voluntee
 Today, he continues his service as a Congressman for Montana’s Second Congressional District, where he fights for conservative values and works to secure a strong, prosperous future for Montana.
 Downing advocates for lower taxes, reducing government regulation, and championing policies that promote economic growth, energy independence, and national security.
 Troy Downing and his wife, Heather, have four grown children and live in Helena, Montana.
-Paid for by Troy Downing for Congress
-Troy Downing is a former member of the U.S.
+Fighting for Conservative Values Donate to send Troy Downing to Congress $25 $50 $100 $250 $500 $3500 $7000 Other Troy In Action Paid for by Troy Downing for Congress Troy Downing is a former member of the U.S.
 Air Force/Air National Guard.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of War.
-Please wait
+Privacy Policy Please wait

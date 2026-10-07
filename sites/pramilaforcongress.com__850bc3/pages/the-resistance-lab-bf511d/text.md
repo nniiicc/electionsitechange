@@ -1,7 +1,5 @@
-PRAMILA’S RESISTANCE LAB
-Register for upcoming sessions:
-or sign up below to stay in the loop about future sessions
-Pramila knew we need a way to turn our anger, fear, and frustration into action and progress.
+Home My Endorsed Candidates About Pramila Take Action Get Updates Pramila's Book VOLUNTEER Donate Store Back About Pramila Real Results 2026 Endorsements Contact Us Back The Resistance Lab Volunteer Back Email Social Media Story Home My Endorsed Candidates About Pramila About Pramila Real Results 2026 Endorsements Contact Us Take Action The Resistance Lab Volunteer Get Updates Email Social Media Story Pramila's Book VOLUNTEER Donate Store PRAMILA’S RESISTANCE LAB Register for upcoming sessions: Sept.
+27th RESISTANCE LAB or sign up below to stay in the loop about future sessions Pramila knew we need a way to turn our anger, fear, and frustration into action and progress.
 That’s exactly why she launched The Resistance Lab, an in-depth organizing training to build our movement and give you the tools you need in this moment.
 The scary truth is that democracies fall in a matter of months.
 So this is an immediate, urgent matter – and we need to quickly build our capacity to resist.
@@ -17,3 +15,6 @@ At the end of the day, we want to get people strike-ready and street-ready and m
 With Trump and his MAGA billionaires doubling down on their attacks on the economic livelihoods of people to thrive and on our democracy, we can’t afford to sit this moment out.
 This is about building real power together.
 And it starts with you.
+The Resistance Lab in the news Resistance Lab Gear Available Online Here Paid for by Pramila for Congress Get Email Updates Get email updates from Pramila to learn more about how she's fighting for our progressive values in Congress.
+Full Name: Email: Zip: Thank you for joining our people-first movement.
+About Pramila Privacy Policy | Contact Us | Media Resources

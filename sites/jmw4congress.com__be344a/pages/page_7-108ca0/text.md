@@ -1,46 +1,24 @@
-All Americans Vs.
-Anti-America
-#DEMvsDSA
-#GOPvsDSA
-#SwingVOTE
-#NoDSA
-#SAYNODSA
-#USAvsDSA
-Political CIVIL WAR:
-All Americans Vs.
-Anti-America
-All Americans, no matter what your political affiliation, are being called to arms to vote against the DSA.
-(DSA = The Demagogue Socialists of Anti-America & Anarchism).
-As we are all witnessing, both the Democratic Party and its radical subset, the DSA -“Democratic Socialists of ‘America”, are engaged in an all-out political civil war with each other.
+Skip to content JMW 4 CONGRESS JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 CLICK FOR TABLE OF CONTENTS All Americans Vs.
+Anti-America # DEM vs DSA # GOPvsDSA # SwingVOTE # No DSA # SAY NO DSA # USAvsDSA https://youtu.be/9Ac_QLh0Vwc?is=NpZl_Te4fSwD0NTT ​Political CIVIL WAR: All Americans Vs.
+Anti-America All Americans, no matter what your political affiliation, are being called to arms to vote against the DSA.
+(DSA = The Demagogue Socialists of Anti-America & Anarchism). ​ As we are all witnessing, both the Democratic Party and its radical subset, the DSA -“Democratic Socialists of ‘America”, are engaged in an all-out political civil war with each other.
 The Democat establishment has step aside, away, and distinguish itself from not being part of the DSA’s radical platform that proposes anarchism, wiping waste with the USA FLAG, OVERTHROWING U.S.
 GOVERNMENT, and our way of life.
-“Dems’ March of Folly’ ‘Rearranging the Deckchairs on the Titanic”
-The Dems’ establishment leadership has failed the American people by opening its doors to interests with subversive foreign agendas and extreme far-left insurgency.
+“Dems’ March of Folly’ ‘Rearranging the Deckchairs on the Titanic” The Dems’ establishment leadership has failed the American people by opening its doors to interests with subversive foreign agendas and extreme far-left insurgency.
 The ruling Dems’ party has introduced, installed, and allowed a radical faction to infiltrate our political system from within.
 Until public trust is restored by cleaning house and purging these radical threats, the Democrats’ current political judgment cannot be trusted.
 Rather than holding these anti-American, anarchist, fifth columnist, comprador, and saboteur factions accountable, the Dem party’s leadership instead attempts to cover up its political blunders, negligence, and follies behind chants of a ‘Big Tent’.
 Thus, the Democrat leaders’ lack of political prudence, their gross incompetence, and dereliction of duty to protect our nation’s interests from adverse invading foreign agents should be deemed by all Americans as a threat to our national security and public safety.
 If Paul Revere were alive today, he would be running rampant on his midnight ride, sounding the alarm that America has been severely compromised and is under attack.
-“Et tu, Brute?”:
-These political insurgents have now turned on, and back stabbing their party masters.
+“Et tu, Brute?” : ​These political insurgents have now turned on, and back stabbing their party masters.
 In primary elections across the nation, DSA candidates are unseating long-serving Democratic incumbents against the express will and wishes of the party establishment.
-The DSA shows zero loyalty and zero mercy—operating with political anarchism inside the primary system while campaigning for a radical transformation of our nation.
-The Frankenstein Experiment
-The Democratic establishment created a political Frankenstein’s monster it can no longer control:
-The Experiment:
-Mainstream Democrats welcomed and courted far-left insurgent groups like the DSA to boost youth turnout, energize grassroots fundraising, and secure key electoral victories.
-The Loss of Control: “We Created a Monster”
-Instead of remaining a quiet, subordinate voting block inside the broader coalition, these progressive insurgents weaponized the party’s own infrastructure and primary system to target and unseat moderate Democratic incumbents.
-The DSA’s mouth is foaming and its fangs are drooling and dripping.
-The Result:
-Metaphorically, the DSA is no longer acting as humble subordinates—they are pounding their chest, shouting to party leadership, “I’m King Kong!”.
-Party leadership now finds itself locked in a losing ideological tug-of-war with a monster it helped empower, leaving mainstream Democrats struggling to manage the very forces they brought into the tent.
-The Real Threat to Our Nation
-This radical subset spews anti-American rhetoric, hate, and anarchism.
-Its agenda aims to undermine and sabotage America, dismantling the country we built and reducing it to an unrecognizable state.
-By pursuing policies that erase borders, weaken national defense, disable law and order, and reshape our constitutional framework, this movement leaves the nation vulnerable and opens the door for radical restructuring.
-We cannot afford to be so naive and gullible as to ignore the writing on the wall.
-Closing
-In short reiteration, the Democratic Party’s political acumen that introduced, installed, and allowed this anti-American faction to infiltrate our political system can no longer be trusted.
+The DSA shows zero loyalty and zero mercy—operating with political anarchism inside the primary system while campaigning for a radical transformation of our nation. ​The Frankenstein Experiment ​The Democratic establishment created a political Frankenstein’s monster it can no longer control: ​The Experiment: Mainstream Democrats welcomed and courted far-left insurgent groups like the DSA to boost youth turnout, energize grassroots fundraising, and secure key electoral victories. ​The Loss of Control: “We Created a Monster” Instead of remaining a quiet, subordinate voting block inside the broader coalition, these progressive insurgents weaponized the party’s own infrastructure and primary system to target and unseat moderate Democratic incumbents.
+The DSA’s mouth is foaming and its fangs are drooling and dripping. ​The Result: Metaphorically, the DSA is no longer acting as humble subordinates—they are pounding their chest, shouting to party leadership, “ I’m King Kong !”.
+Party leadership now finds itself locked in a losing ideological tug-of-war with a monster it helped empower, leaving mainstream Democrats struggling to manage the very forces they brought into the tent. ​The Real Threat to Our Nation ​This radical subset spews anti-American rhetoric, hate, and anarchism.
+Its agenda aims to undermine and sabotage America, dismantling the country we built and reducing it to an unrecognizable state. ​By pursuing policies that erase borders, weaken national defense, disable law and order, and reshape our constitutional framework, this movement leaves the nation vulnerable and opens the door for radical restructuring.
+We cannot afford to be so naive and gullible as to ignore the writing on the wall. ​Closing ​In short reiteration, the Democratic Party’s political acumen that introduced, installed, and allowed this anti-American faction to infiltrate our political system can no longer be trusted.
 At least, not until it purges and sanitizes its ranks of these political extremists and public trust has been fully restored.
-The Democratic establishment created this monster for short-term electoral gains—and until they clean house, the American voter will ultimately pay the price.
+The Democratic establishment created this monster for short-term electoral gains—and until they clean house, the American voter will ultimately pay the price. 📋 TABLE OF CONTENTS / QUICK NAVIGATION Candidate Side-by-Side Comparison Candidate JMW, VOTING TIMES Republican and Democrat Comparison Harlem Community is Not DSA’s Political Prop SAVE Act & Election Integrity Litigation USA -vs- DSA Analysis & Platform Breakdown All Americans Vs.
+Anti-America (Political Civil War) Universal Capitalism (UCAP) Not Socialism No Sanctuary City / Dignity City Escape NYC -⚠️- DSA & DEMS’ GENTRIFICATION TOOLBOX Campaign Contribution Station RAPolitical VERZUZ Catalogues Pages: 1 2 3 4 5 6 7 8 9 10 11 12 JMW 4 CONGRESS Choose Liberty, Free Economy, and Equality.
+Say No to Communism and Anarchism.
+JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 Designed with WordPress

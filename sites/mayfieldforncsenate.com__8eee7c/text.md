@@ -1,13 +1,9 @@
-JULIE MAYFIELD
-FOR NC SENATE 49
-The proven progressive voice we need for a better Buncombe County.
+Skip to content About BECOME A MAYFIELD MAJORITY MAKER!
+Donate Endorsements Home Issues News Privacy Policy Thank You Become a Mayfield Majority Maker!
+About NEWS ISSUES ENDORSEMENTS VOLUNTEER DONATE Become a Mayfield Majority Maker!
+Menu JULIE MAYFIELD FOR NC SENATE 49 The proven progressive voice we need for a better Buncombe County.
 The experience to get things done.
-Working
-Towards
-A BETTER
-BUNCOMBE
-I love Buncombe County…
-And it is my incredible honor to serve as your Senator for North Carolina’s 49th District.
+SIGN UP DONATE Working Towards A BETTER BUNCOMBE I love Buncombe County… And it is my incredible honor to serve as your Senator for North Carolina’s 49th District.
 Since first being elected in 2020, I have been an outspoken proponent of reproductive healthcare, LGBTQ+ rights, the environment, clean renewable energy, expanding housing, gun control, the health of our community, local government control, and protecting vulnerable people.
 My focus is on putting people and our environment first.
 At times, this has required taking on a Goliath.
@@ -19,14 +15,14 @@ I’m grateful to have the opportunity to work on these same issues with my coll
 We face difficult challenges – specifically when it comes to protecting our communities and environment, enabling people to live healthy lives, ensuring elections are fair and free, and ensuring no one is left behind.
 We also need more flexibility to address our specific local challenges than Raleigh currently allows.
 As your Senator for North Carolina’s 49th District, I am putting my vision, values, experience and know-how to work to make a better Buncombe for all.
-DONATE
-Every Contribution—no matter the size—matters.
+DONATE Every Contribution—no matter the size—matters.
 This campaign is powered by people like you.
-TOGETHER, THERE’S SO MUCH WE CAN ACCOMPLISH!
+DONATE ONLINE TOGETHER, THERE’S SO MUCH WE CAN ACCOMPLISH!
 I’ve been working hard in Raleigh fighting for the issues that matter to you.
 Click below to learn more about what matters to me and how I’ve been working for Senate District 49.
-What issues matter to you?
+STANDING FOR EQUAL RIGHTS FIGHTING CORPORATE GREED PROTECTING OUR ENVIRONMENT SUPPORTING WORKING FAMILIES RESPECTING LOCAL AUTHORITY What issues matter to you?
 Share your voice, stand up for what you believe in, and have your words heard.
-How will you help?
+SHARE YOUR THOUGHTS BE HEARD How will you help?
 Sign up for news from our campaign and let us know how you can help.
 We’ll be in touch soon.
+ABOUT | ISSUES | PRIVACY POLICY | VOLUNTEER | DONATE Paid for by Julie Mayfield for NC Senate

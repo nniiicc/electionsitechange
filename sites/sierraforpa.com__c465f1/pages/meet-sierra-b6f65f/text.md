@@ -1,3 +1,15 @@
+0 Skip to Content Meet Sierra Platform Volunteer!
+Endorsements DONATE!
+Open Menu Close Menu Meet Sierra Platform Volunteer!
+Endorsements DONATE!
+Open Menu Close Menu Meet Sierra Platform Volunteer!
+Endorsements DONATE!
+My name is Sierra McNeil.
+I’m a social worker, dog mom and proud homeowner in Strawberry Mansion.
+I love my neighborhood, my neighbors and the work I do every day.
+I earned my Master’s in Social Work from Temple University and started my career in behavioral health helping families in crisis navigate systems that were never built for them.
+That work taught me how decisions made in Harrisburg directly shape people’s access to care, stability and dignity.
+Those lessons shaped me as both a social worker and an advocate.
 As Director of Workforce Development and Philadelphia Connections at FTAC, I’ve led efforts to strengthen Pennsylvania’s behavioral health workforce and build real career pathways.
 I’ve worked to make sure Black residents in clinical training are supported and stay here in Pennsylvania so communities of color have access to clinicians who reflect them and understand their experiences.
 I’ve worked with state agencies, legislators and coalitions to create better systems for crisis response, mental health care and workforce retention.
@@ -18,3 +30,6 @@ We need someone who understands what it’s like to juggle bills, care for loved
 Someone who won’t just vote the right way but who knows how to build real solutions, door by door, block by block.
 Our community has always had the answers.
 It’s time Harrisburg listens.
+CONTACT TEAM SIERRA: info@sierraforpa.com FOLLOW SIERRA!
+Sierra for PA P.O.
+Box 18685 Philadelphia, PA 19132

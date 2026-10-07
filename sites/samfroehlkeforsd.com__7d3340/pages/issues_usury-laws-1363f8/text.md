@@ -1,5 +1,4 @@
-Usury laws
-Easy credit inflates prices to the maximum it's possible to borrow.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles Usury laws Easy credit inflates prices to the maximum it's possible to borrow.
 It needs to be hard to get a loan for something you can't actually afford.
 Otherwise, when almost anyone can borrow tens of thousands of dollars to buy a car, or hundreds of thousand of dollars to buy a house, all cars will be priced at tens of thousands, and all houses at hundreds of thousands.
-People may not be able to all get the car or house they want, or they may not be able to get a credit card, but with all the money they are not paying in interest, they will be able to afford life.
+People may not be able to all get the car or house they want, or they may not be able to get a credit card, but with all the money they are not paying in interest, they will be able to afford life. « Previous: Fair play for business Next: Limit the power of zoning » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

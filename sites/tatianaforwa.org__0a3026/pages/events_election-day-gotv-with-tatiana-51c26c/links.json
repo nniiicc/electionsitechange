@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day+GOTV+With+Tatiana%21&dates=20261102T170000Z%2F20261104T040000Z",
-"https://facebook.com/profile.php?id=61589252729764",
-"https://instagram.com/tatianaforwa",
-"https://linktr.ee/TatianaforWA",
-"https://mobilize.us/tatianaforwa/event/1055337",
-"https://tatianaforwa.org/",
-"https://tatianaforwa.org/about-tatiana",
-"https://tatianaforwa.org/cart",
-"https://tatianaforwa.org/events",
-"https://tatianaforwa.org/events/canvass-with-tatiana-11-01",
-"https://tatianaforwa.org/events/election-day-gotv-with-tatiana?format=ical",
-"https://tatianaforwa.org/gallery",
-"https://tatianaforwa.org/home",
-"https://tatianaforwa.org/our-platform",
-"https://tatianaforwa.org/the-job"
+{
+"text": "0",
+"href": "https://www.tatianaforwa.org/cart"
+},
+{
+"text": "About Tatiana",
+"href": "https://www.tatianaforwa.org/about-tatiana"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tatianaforwa.org/gallery"
+},
+{
+"text": "Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://linktr.ee/TatianaforWA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day+GOTV+With+Tatiana%21&dates=20261102T170000Z%2F20261104T040000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/election-day-gotv-with-tatiana?format=ical"
+},
+{
+"text": "Our Platform",
+"href": "https://www.tatianaforwa.org/our-platform"
+},
+{
+"text": "Previous Previous November 1 Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-11-01"
+},
+{
+"text": "Talk to Tati",
+"href": "https://tatianaforwa.org/home#talk-to-tati"
+},
+{
+"text": "The Job",
+"href": "https://www.tatianaforwa.org/the-job"
+},
+{
+"text": "[image: Tatiana for Washington]",
+"href": "https://www.tatianaforwa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589252729764"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tatianaforwa"
+},
+{
+"text": "hello@tatianaforwa.org",
+"href": "mailto:hello@tatianaforwa.org"
+},
+{
+"text": "https://www.mobilize.us/tatianaforwa/event/1055337/",
+"href": "https://www.mobilize.us/tatianaforwa/event/1055337/"
+}
 ]

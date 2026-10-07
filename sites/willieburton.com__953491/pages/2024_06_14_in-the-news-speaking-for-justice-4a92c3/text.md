@@ -1,62 +1,30 @@
-Willie Burton continues to speak for you as we suffered together through the pandemic and return normalcy.
+Willie E.
+Burton for State Representative Dist.
+9 Michigan's Ninth District will be better with Burton, because Burton means business!
+Skip to content Home Contribute Contact Us Meet Willie Burton Updates & Endorsements Helpful Contacts ← Free Summit on Technology Topics for Small Business Willie E.
+Burton Launches City Council Campaign! → In the News Speaking for Justice!
+Posted on June 14, 2024 by Willie Burton Willie Burton continues to speak for you as we suffered together through the pandemic and return normalcy.
 Coleman A.
-Young Recreation Center in Detroit reopens after $11 million renovation
-“This is exactly what the community wants,” said Willie Burton, a city of Detroit police commissioner for District 5.
-“They wanted to have a community recreation center that’s accessible to the people and more so families.”
+Young Recreation Center in Detroit reopens after $11 million renovation “This is exactly what the community wants,” said Willie Burton, a city of Detroit police commissioner for District 5.
+“They wanted to have a community recreation center that’s accessible to the people and more so families.” https://www.detroitnews.com/story/news/local/detroit-city/2025/05/10/coleman-young-recreation-center-reopens/83467938007/ Why does this police commissioner keep getting muted?
 Why does this police commissioner keep getting muted?
-Facial recognition contract extension reopens rifts among Detroit police commissioners
-Detroit police commission tackles issue of facial recognition again
-Detroit IG probe: Police board chair wasn’t wrong to silence member
-Modern policing: The controversy over facial recognition
-https://web.archive.org/web/20211116214413/https://www.onedetroitpbs.org/modern-policing/
-WILLIE BURTON on WDIV
-https://www.clickondetroit.com/topic/Willie_Burton/
-A fight over facial recognition is dividing Detroit — with high stakes for police and privacy
-BOPC WILLIE BURTON.pdf
-https://www.documenters.org/documents/bopc-willie-burtonpdf-63055/
-Commissioner Willie Burton out on bond after arrest during Detroit Police Board of Commissioners meeting
-https://www.wxyz.com/news/commissioner-arrested-during-facial-recognition-meeting-in-detroit
-Detroit’s police commissioner arrested at commissioners’ meeting for demanding answers about secret meetings where facial recognition was planned
-Burton v.
-City of Detroit
-https://casetext.com/case/burton-v-city-of-detroit-6/case-details?PHONE_NUMBER_GROUP=P
-Commissioner-Willie-Burton
-https://blavity.com/tags/Commissioner-Willie-Burton
-Video: Detroit police commissioner arrested during meeting on facial recognition
-Detroit Police Commissioner sues city, police department over 2019 arrest
-Detroit Police Commissioner Handcuffed, Arrested for Asking Tough Question At Meeting – WATCH
-Detroit police commissioner sues over arrest at board meeting
-Opinion: It’s time for a public referendum on Detroit’s Project Green Light facial-recognition surveillance technology
-the charles smith blog
-https://smithforensic.blogspot.com/2020/08/bulletin-detroit-flawed-facial.html
-Detroit Police Commissioner ARRESTED for questioning city’s use of facial recognition
-https://www.fightforthefuture.org/news/2019-07-12-detroit-police-commissioner-arrested-for/
-A fight over facial recognition is dividing Detroit — with high stakes for police and privacy
-Board Approves Detroit Police’s Limited Use of Facial Recognition Software
-Detroit Police Commissioner Willie Burton Arrested After “Speaking His Mind” At A Board Meeting
-Black Police Commissioner Handcuffed, Thrown Out of Detroit Meeting Won’t Face Disorderly Conduct Charges
-Tracked and Traced: Does ShotSpotter prevent violent crime in Detroit?
-Click to access letter_to_detroit_board_of_police_commissioners_final_0.pdf
-Duggan gives thumbs-up to police using facial recognition, but not “for surveillance”
-‘It’s techno-racism’: Detroit is quietly using facial recognition to make arrests
-Detroit’s Surveillance State: Will City Council Buy In?
-Pin Posts
-Detroit Residents Air Police Facial Recognition Concerns
-https://www.govtech.com/public-safety/Detroit-Residents-Air-Police-Facial-Recognition-Concerns.html
-Detroit cops arrest their own police commissioner at heated meeting over facial recognition (VIDEO)
-https://www.rt.com/usa/464104-detroit-police-commissioner-arrested/
-Demanding justice: thousands gather to protest racism and police brutality in Detroit
-You’ve been warned: Widespread US face surveillance is ‘imminent reality’, says tech privacy report
-https://www.rt.com/usa/459678-facial-recognition-technology-america/
-‘Gestapo Tactics’: Detroit Police Commissioner Jailed for Questioning Chairwoman (Videos)
-https://sputniknews.com/20190712/gestapo-tactics-police-commissioner-jailed-1076231112.html
-Boggs Center – Living for Change News – September 16th, 2019
-Was it ‘techno-racism’?
-Facial recognition bug denies Black man’s passport photo
-https://storymaps.arcgis.com/stories/683abdaf32bb49338c29185f1c495a65
-Detroit police board secretary fired after IG report
-Police board member wants open committee meetings
-Detroit is quietly using facial recognition to make arrests
-http://www.taipeitimes.com/News/editorials/archives/2019/08/22/2003720907
-ACLU urges Detroit police board to vote no on facial recognition technology
-The Slow, Controversial Global March Of Face ID Tech
+Facial recognition contract extension reopens rifts among Detroit police commissioners https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/ Detroit police commission tackles issue of facial recognition again https://www.detroitnews.com/story/news/local/detroit-city/2019/08/15/detroit-police-commission-tackles-issue-facial-recognition-again/2018974001/ Detroit IG probe: Police board chair wasn’t wrong to silence member https://www.detroitnews.com/story/news/local/detroit-city/2021/06/09/detroit-police-board-commissioners-inspector-general/7620444002/ Modern policing: The controversy over facial recognition https://web.archive.org/web/20211116214413/https://www.onedetroitpbs.org/modern-policing/ WILLIE BURTON on WDIV https://www.clickondetroit.com/topic/Willie_Burton/ A fight over facial recognition is dividing Detroit — with high stakes for police and privacy https://web.archive.org/web/20190822170323/https://www.nbcnews.com/news/us-news/fight-over-facial-recognition-dividing-detroit-high-stakes-police-privacy-n1045046 https://findbiometrics.com/detroit-makes-controversial-decision-extend-police-facial-recognition-contract-100105/ BOPC WILLIE BURTON.pdf https://www.documenters.org/documents/bopc-willie-burtonpdf-63055/ Commissioner Willie Burton out on bond after arrest during Detroit Police Board of Commissioners meeting https://www.wxyz.com/news/commissioner-arrested-during-facial-recognition-meeting-in-detroit Detroit’s police commissioner arrested at commissioners’ meeting for demanding answers about secret meetings where facial recognition was planned Burton v.
+City of Detroit https://casetext.com/case/burton-v-city-of-detroit-6/case-details?PHONE_NUMBER_GROUP=P Commissioner-Willie-Burton https://blavity.com/tags/Commissioner-Willie-Burton Video: Detroit police commissioner arrested during meeting on facial recognition https://www.deadlinedetroit.com/articles/22779/video_detroit_police_commissioner_arrested_during_meeting_on_facial_recognition Detroit Police Commissioner sues city, police department over 2019 arrest https://www.fox2detroit.com/news/detroit-police-commissioner-sues-city-police-department-over-2019-arrest Detroit Police Commissioner Handcuffed, Arrested for Asking Tough Question At Meeting – WATCH https://eurweb.com/2019/07/12/detroit-police-commissioner-handcuffed-arrested-for-asking-tough-question-at-meeting-watch/ Detroit police commissioner sues over arrest at board meeting https://www.police1.com/legal/articles/detroit-police-commissioner-sues-over-arrest-at-board-meeting-5ENuBogQXPOASu9b/ Opinion: It’s time for a public referendum on Detroit’s Project Green Light facial-recognition surveillance technology https://www.metrotimes.com/detroit/opinion-its-time-for-a-public-referendum-on-detroits-project-green-light-facial-recognition-surveillance-technology/Content?oid=22063329 the charles smith blog https://smithforensic.blogspot.com/2020/08/bulletin-detroit-flawed-facial.html Detroit Police Commissioner ARRESTED for questioning city’s use of facial recognition https://www.fightforthefuture.org/news/2019-07-12-detroit-police-commissioner-arrested-for/ A fight over facial recognition is dividing Detroit — with high stakes for police and privacy Board Approves Detroit Police’s Limited Use of Facial Recognition Software https://securitytoday.com/articles/2019/09/23/board-approves-detroit-polices-limited-use-of-facial-recognition-software.aspx?admgarea=ht.government&m=1 Detroit Police Commissioner Willie Burton Arrested After “Speaking His Mind” At A Board Meeting Detroit Police Commissioner Willie Burton Arrested After “Speaking His Mind” At A Board Meeting Black Police Commissioner Handcuffed, Thrown Out of Detroit Meeting Won’t Face Disorderly Conduct Charges Tracked and Traced: Does ShotSpotter prevent violent crime in Detroit?
+Click to access letter_to_detroit_board_of_police_commissioners_final_0.pdf Duggan gives thumbs-up to police using facial recognition, but not “for surveillance” https://www.michiganradio.org/politics-government/2019-07-19/duggan-gives-thumbs-up-to-police-using-facial-recognition-but-not-for-surveillance ‘It’s techno-racism’: Detroit is quietly using facial recognition to make arrests https://www.theguardian.com/us-news/2019/aug/16/its-techno-racism-detroit-is-quietly-using-facial-recognition-to-make-arrests Detroit’s Surveillance State: Will City Council Buy In?
+Pin Posts Detroit Residents Air Police Facial Recognition Concerns https://www.govtech.com/public-safety/Detroit-Residents-Air-Police-Facial-Recognition-Concerns.html Detroit cops arrest their own police commissioner at heated meeting over facial recognition (VIDEO) Detroit cops arrest their own police commissioner at heated meeting over facial recognition (VIDEO) Detroit cops arrest their own police commissioner at heated meeting over facial recognition (VIDEO) https://www.rt.com/usa/464104-detroit-police-commissioner-arrested/ https://web.archive.org/web/20211023173243/https://www.rt.com/usa/464104-detroit-police-commissioner-arrested/ Demanding justice: thousands gather to protest racism and police brutality in Detroit You’ve been warned: Widespread US face surveillance is ‘imminent reality’, says tech privacy report https://www.rt.com/usa/459678-facial-recognition-technology-america/ ‘Gestapo Tactics’: Detroit Police Commissioner Jailed for Questioning Chairwoman (Videos) https://sputniknews.com/20190712/gestapo-tactics-police-commissioner-jailed-1076231112.html https://web.archive.org/web/20220219060711/https://sputniknews.com/20190712/gestapo-tactics-police-commissioner-jailed-1076231112.html Boggs Center – Living for Change News – September 16th, 2019 https://web.archive.org/web/20191016202702/http://boggscenter.org/boggscenter-living-for-change-news-september-16th-2019/ Was it ‘techno-racism’?
+Facial recognition bug denies Black man’s passport photo https://storymaps.arcgis.com/stories/683abdaf32bb49338c29185f1c495a65 Detroit police board secretary fired after IG report https://www.detroitnews.com/story/news/local/detroit-city/2019/12/05/detroit-police-board-commissioners-secretary/2618095001/ Police board member wants open committee meetings https://www.detroitnews.com/story/news/local/detroit-city/2019/04/12/detroit-police-board-member-wants-open-committee-meetings/3449132002/ https://web.archive.org/web/20191209223652/https://www.detroitnews.com/story/news/local/detroit-city/2019/04/12/detroit-police-board-member-wants-open-committee-meetings/3449132002/ Detroit is quietly using facial recognition to make arrests https://www.scmp.com/tech/innovation/article/3023312/detroit-quietly-using-facial-recognition-make-arrests https://web.archive.org/web/20191213093752/https://www.scmp.com/tech/innovation/article/3023312/detroit-quietly-using-facial-recognition-make-arrests Detroit is quietly using facial recognition to make arrests http://www.taipeitimes.com/News/editorials/archives/2019/08/22/2003720907 https://web.archive.org/web/20191212014354/http://www.taipeitimes.com/News/editorials/archives/2019/08/22/2003720907 ACLU urges Detroit police board to vote no on facial recognition technology https://www.detroitnews.com/story/news/local/detroit-city/2019/09/18/aclu-urges-detroit-police-board-reject-facial-recognition-software/2364898001/ The Slow, Controversial Global March Of Face ID Tech The Slow, Controversial Global March Of Face ID Tech Facial recognition technology approved in Detroit despite mounting opposition https://www.metrotimes.com/news-hits/archives/2019/09/20/facial-recognition-technology-approved-in-detroit-despite-mounting-opposition Detroit police can keep using facial recognition — with limits https://www.nbcnews.com/news/us-news/detroit-police-can-keep-using-facial-recognition-limits-n1056706 https://web.archive.org/web/20191117230833/https://www.nbcnews.com/news/us-news/detroit-police-can-keep-using-facial-recognition-limits-n1056706 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Share on LinkedIn (Opens in new window) LinkedIn Share on Nextdoor (Opens in new window) Nextdoor Like Loading...
+Related About Willie Burton Willie Burton is the Police Commissioner for Detroit's Fifth District.
+He answers to the people in his district.
+He is an experienced, committed, and compassionate leader who is dedicated to serving his community.
+View all posts by Willie Burton → This entry was posted in Uncategorized and tagged artificial-intelligence , facial recognition , news , surveillance , technology .
+Bookmark the permalink . ← Free Summit on Technology Topics for Small Business Willie E.
+Burton Launches City Council Campaign! → Leave a comment Cancel reply Δ Search Search for: Useful Links Instagram My Facebook Michigan House of Representatives Official Board of Police Commissioners Site Updates & Endorsements Willie Burton to Participate in Eastside Candidate Forum 7-18-2026 Willie Burton Earns Endorsement from Teamsters Local 299 Willie Burton Earns Endorsement from ATU Local 26 13th District Democrats Endorse Willie Burton for State Representative Archives Archives Select Month July 2026 (3) May 2026 (1) October 2025 (1) August 2025 (2) July 2025 (1) June 2025 (1) May 2025 (1) June 2024 (1) November 2019 (1) June 2019 (1) May 2019 (1) February 2019 (2) January 2019 (1) December 2018 (1) November 2018 (1) October 2018 (1) May 2018 (1) April 2018 (2) February 2018 (1) December 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) May 2017 (1) April 2017 (2) February 2017 (1) January 2017 (1) October 2016 (1) July 2016 (1) May 2016 (1) April 2016 (1) April 2015 (1) March 2015 (1) January 2015 (1) March 2014 (1) February 2014 (2) Categories Categories Select Category Board of Police Commissioners Body Cams Business Detroit City Council District 5 Events Honors Human Resources Issues mental health Networking People Response Times Uncategorized Use of Force Calendar June 2024 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Nov May » Meta Create account Log in Entries feed Comments feed WordPress.com Campaign related items PAID FOR BY WILLIE BURTON FOR MI Detroit Mi 48207 June 2024 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Nov May » Willie E.
+Burton for State Representative Dist.
+9 Blog at WordPress.com.
+Comment Reblog Subscribe Subscribed Willie E.
+Burton for State Representative Dist.
+9 Sign me up Have a WordPress.com account?
+Log in now.
+Willie E.
+Burton for State Representative Dist.
+9 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

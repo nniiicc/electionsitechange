@@ -1,4 +1,4 @@
-The most important title that Congresswoman Lucy McBath will ever hold is “mom.” Lucy is the mother of Jordan Davis, and Lucy considers being Jordan’s mom the most important role she will ever have.
+About Lucy Issues Get Involved Store Press Menu About Lucy Issues Get Involved Store Press Facebook Twitter Instagram Donate About Lucy Issues Get Involved Store Press Menu About Lucy Issues Get Involved Store Press Biography The most important title that Congresswoman Lucy McBath will ever hold is “mom.” Lucy is the mother of Jordan Davis, and Lucy considers being Jordan’s mom the most important role she will ever have.
 In 2012, Lucy’s son Jordan was senselessly shot and killed at a gas station in Jacksonville, Florida by a man objecting to the music Jordan was playing in his car.
 Lucy left her 30-year long career working for Delta Airlines for her second career focused on reform to make our communities safer for every single American.
 After the murder of her son, Lucy spoke out.
@@ -16,3 +16,5 @@ Prior to serving in Congress, Lucy created the “Champion in the Making Legacy 
 She is an active member of Eagle’s Nest church in Roswell, and she is also a proud member of Delta Sigma Theta Sorority’s Marietta / Roswell alumni chapter.
 Lucy received her B.A. in political science from Virginia State University in 1982.
 She is married and enjoys motorcycling and walking her dog, Harley.
+Join Team McBath Support Lucy's Campaign Lucy is running to make our communities safer, and to be a strong voice for Georgian families in Congress.
+Chip in today! $5 $10 $25 $50 $100 $250 Other Amount Privacy Policy News Coverage Photos and Videos Press Inquiries Menu Privacy Policy News Coverage Photos and Videos Press Inquiries Facebook Twitter Instagram Paid for by Friends of Lucy McBath 375 Rockbridge Road NW, Suite 172-255 Lilburn, Georgia 30047

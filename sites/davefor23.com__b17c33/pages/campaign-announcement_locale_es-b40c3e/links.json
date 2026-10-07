@@ -1,26 +1,106 @@
 [
-"https://davefor23.com/",
-"https://davefor23.com/Endorsements",
-"https://davefor23.com/campaign-announcement?locale=en",
-"https://davefor23.com/contact",
-"https://davefor23.com/events",
-"https://davefor23.com/in-the-news",
-"https://davefor23.com/issues",
-"https://davefor23.com/meet-dave",
-"https://davefor23.com/neighbor-endorsements",
-"https://davefor23.com/pollgreeter",
-"https://davefor23.com/sign-request-form",
-"https://davefor23.com/the-23rd-RD",
-"https://davefor23.com/udave",
-"https://davefor23.com/volunteer",
-"https://facebook.com/daveforthe23rd",
-"https://instagram.com/daveforthe23rd",
-"https://secure.actblue.com/donate/davefor23rd",
-"https://secure.actblue.com/donate/davefor23rd?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/davefor23rd?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/davefor23rd?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/davefor23rd?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/davefor23rd?amount=600&express_lane=true",
-"https://secure.actblue.com/donate/daveforthe23rd",
-"https://solidarity.tech/"
+{
+"text": "10 $",
+"href": "https://secure.actblue.com/donate/davefor23rd"
+},
+{
+"text": "100 $",
+"href": "https://secure.actblue.com/donate/davefor23rd?amount=100&express_lane=true"
+},
+{
+"text": "25 $",
+"href": "https://secure.actblue.com/donate/davefor23rd?amount=25&express_lane=true"
+},
+{
+"text": "250 $",
+"href": "https://secure.actblue.com/donate/davefor23rd?amount=250&express_lane=true"
+},
+{
+"text": "50 $",
+"href": "https://secure.actblue.com/donate/davefor23rd?amount=50&express_lane=true"
+},
+{
+"text": "600 $",
+"href": "https://secure.actblue.com/donate/davefor23rd?amount=600&express_lane=true"
+},
+{
+"text": "Contact",
+"href": "https://www.davefor23.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/daveforthe23rd"
+},
+{
+"text": "EN (English)",
+"href": "https://www.davefor23.com/campaign-announcement?locale=en"
+},
+{
+"text": "Election Day Poll Greeter",
+"href": "https://www.davefor23.com/pollgreeter"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davefor23.com/Endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.davefor23.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.davefor23.com/issues"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.davefor23.com/meet-dave"
+},
+{
+"text": "Neighbor Endorsements",
+"href": "https://www.davefor23.com/neighbor-endorsements"
+},
+{
+"text": "News",
+"href": "https://www.davefor23.com/in-the-news"
+},
+{
+"text": "Otro",
+"href": "https://secure.actblue.com/donate/davefor23rd"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "The 23rd RD",
+"href": "https://www.davefor23.com/the-23rd-RD"
+},
+{
+"text": "UDave",
+"href": "https://www.davefor23.com/udave"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davefor23.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.davefor23.com/sign-request-form"
+},
+{
+"text": "[image: Dave for the 23rd]",
+"href": "https://www.davefor23.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/daveforthe23rd"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/daveforthe23rd"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech/"
+}
 ]

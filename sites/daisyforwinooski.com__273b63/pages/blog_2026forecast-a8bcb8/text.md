@@ -1,5 +1,4 @@
-2026 Forecast
-As we move into the legislative session, the coming months will bring some of the most consequential decisions of the year— especially in education, health care, human services, and the judiciary.
+0 Skip to Content Welcome Priorities Blog About Donate Open Menu Close Menu Open Menu Close Menu Welcome Priorities Blog About Donate Welcome Priorities Blog About Donate 2026 Forecast Jan 6 Written By Daisy Berbeco As we move into the legislative session, the coming months will bring some of the most consequential decisions of the year— especially in education, health care, human services, and the judiciary.
 Daily issues we face in Winooski are all deeply connected, and the choices we make in Montpelier shape affordability, access, and opportunity for solutions--for years to come.
 Education will remain front and center.
 There are hard conversations ahead about education.
@@ -9,7 +8,7 @@ Health care reform will also take major legislative bandwidth.
 Whether as patients, providers, or employers, we are all feeling the strain of a health care system that is broken and entirely unaffordable.
 This session we’ll be addressing cost containment, insurance dynamics, and access to mental health and primary care.
 My focus will remain on protecting access to reproductive and gender affirming care, pushing for regulatory reforms that move us closer to universal care, and serving up more accountability and transparency measures for the entities with the biggest bottom lines in Vermont.
-Human services are under pressure—and need structural solutions.
+Human services are under pressure—and need structural solutions .
 From child welfare and disability services to substance use treatment and housing supports, our human services system is stretched thin.
 Providers face workforce shortages and funding instability, while families are navigating long waits and disconnected care.
 I will be looking at how we can oversee these dynamics to ensure care is safe, reliable and coordinated—especially for children and families who rely on them the most.
@@ -22,3 +21,6 @@ In recent months, I’ve had the opportunity to work with many of you in your pr
 Winooski is full of change-makers at a moment when Vermont truly needs them.
 Thank you all for your service.
 To see bills I’ve introduced or that I’ve co-sponsored please go to https://legislature.vermont. gov/people/single/2026/37391.
+Daisy Berbeco Previous Previous 2026 Mental Health Legislation Next Next What the Health?
+Daisy for Winooski P.O.
+Box 381 | Winooski, VT | 05404 (802) 391-4112 DaisyBerbecoVT@gmail.com Donate Welcome Priorities Blog About

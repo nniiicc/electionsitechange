@@ -1,8 +1,6 @@
-Capitol Chaos: Peak Mayhem Mode
-It’s that time — the wild, whiplash-inducing final days of session.
+Facebook Twitter Mail About Sally 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements Priorities Healthcare Education Transportation Environment Criminal Justice & Police Reform Other Issues Voter Info Events Newsletters Contact DONATE Menu Menu Sally’s Senate Snapshot 2025 #11 News Capitol Chaos: Peak Mayhem Mode It’s that time — the wild, whiplash-inducing final days of session.
 Bills are getting gutted, stuffed, and pushed through faster than you can say “committee substitute.” Thank goodness for our hardworking Senate Democratic Caucus staff, including our team of externs, that help us keep track of it all.
-Staying Focused in the Frenzy
-While everything around us is morphing by the minute, I grounded myself in my legislative agenda.
+Staying Focused in the Frenzy While everything around us is morphing by the minute, I grounded myself in my legislative agenda.
 I don’t like it when the legislative process is bypassed, but this year Republicans are only letting a handful of Democratic bills move forward so I’ve concluded that in order to do good, I must play by a different strategy.
 Chatbots + Kids = Accountability Now (HB 171): Last week, I worked with the author of HB 171, a bill that criminalizes AI-generated sexualized images of children, to add a key amendment: chatbot websites targeting kids could face criminal penalties for sexually-explicit content.
 The notoriously tough Senate Judiciary Committee tweaked the base bill (to the author’s dismay), but my amendment survived.
@@ -11,8 +9,7 @@ Let’s hope it’s on the Senate floor next week.
 Corn + Folic Acid = Health Babies (SB 278): SB 278, my bill to require folic acid in corn masa products to prevent spina bifida, got a rare dedicated hearing in the Senate Agriculture and Consumer Affairs Committee this week.
 Spina bifida prevention seems like a no-brainer, but we brought in a range of expert witnesses to testify to the costs of spina bifida to patients, their families and the state, the success of food fortification on public health, and the process of how food is fortified.
 The Ag Chair is very interested in this issue, but cautiously watching for opposition — and potentially for other states to act first.
-New Bills: Salvos in the Storm
-Amidst the chaos, I filed these bills this week.
+New Bills: Salvos in the Storm Amidst the chaos, I filed these bills this week.
 Raising the Bar on Voter Challenges (HB 357): It’s time to do away with frivolous voter challenges.
 My bill requires actual evidence.
 After bringing the Chair of the DeKalb Election Board to meet with the Senate Ethics Chair to share how much time county elections staff spend on these challenges, the Committee Chair is now a co-sponsor — a huge win!
@@ -23,8 +20,7 @@ Good Faith Grant Study Committee (SR 474): For the last two years, I’ve been w
 We are working diligently to put the funding pieces together.
 In the meantime, I signed on to a resolution to create a Senate Study Committee — with the Higher Ed Committee Chair’s signature — to keep the momentum going.
 Surprise!
-Bills Popping Up in Committees
-The Voting Frankenstein (HB 397): This bill started out in the House as a simple bill about weekend voting in municipal elections and it snowballed into another sweeping elections bill.
+Bills Popping Up in Committees The Voting Frankenstein (HB 397): This bill started out in the House as a simple bill about weekend voting in municipal elections and it snowballed into another sweeping elections bill.
 We heard over the weekend that it contained a provision to limit early voting sites to one per county, but it disappeared before it reached the Senate Ethics Committee.
 Sadly, bad provisions including limiting absentee ballot drop off on last weekend of early voting, giving more power and independence to the controversial State Elections Board, and nudging Georgia out of the Electronic Registration Information Center (aka ERIC), a data-sharing partnership with other states, despite the Secretary of State’s objections.
 It passed in a party-line vote and will likely be on the Senate floor next week.
@@ -33,8 +29,7 @@ But surprise!
 It’s back, reborn as HB 127, a bill that originally sought to increase teacher sick leave.
 Republicans passed it out of the Senate Education and Youth Committee this week.
 Until now, we avoided a Senate floor debate on this issue, but it’s likely to happen next week.
-On the Senate Floor: The Good, the Bad, and the Backroom Deals
-Distraction-Free Education (HB 340): I went to the well to speak to this bill to limit cell phone use in K–8 classrooms.
+On the Senate Floor: The Good, the Bad, and the Backroom Deals Distraction-Free Education (HB 340): I went to the well to speak to this bill to limit cell phone use in K–8 classrooms.
 When my kids were in school, having cell phones was new.
 My husband and I struggled to limit their use but teachers required the use of apps for homework assignments, making it difficult to enforce rules at home.
 This bill lets local districts decide how to implement it, which gives parents a way to advocate for policies that work best for their kids.
@@ -55,12 +50,17 @@ We’re down to three more crazy legislative days: Monday, Wednesday, and Sine D
 In between?
 Strategizing, regrouping, and bracing for impact.
 Several bad bills passed Committees this week.
-Call or email the Speaker Jon Burn’s office and ask him to keep the following bills off the House floor. jon.burns@house.ga.gov, 404-656-5052
-Religious Freedom Bill (SB 36): offers a license to discriminate based on religious views.
+Call or email the Speaker Jon Burn’s office and ask him to keep the following bills off the House floor . jon.burns@house.ga.gov, 404-656-5052 Religious Freedom Bill (SB 36): offers a license to discriminate based on religious views.
 Anti-Transgender Legislation (SB 30 & 39): One bans treatment for trans youth, another bans coverage on state plans.
 Call the Lt.
-Governor Burt Jone’s Office and ask him to keep the following bills off the Senate floor. https://ltgov.georgia.gov/contact-lt-governor, 404-656-5030
-Elections Bill (HB 397): Bans the use of the Electronic Registration Information Center (ERIC) for that helps keep voter registration lists up-to-date, and limits absentee ballot drop-off the weekend prior to Election Day.
+Governor Burt Jone’s Office and ask him to keep the following bills off the Senate floor . https://ltgov.georgia.gov/contact-lt-governor, 404-656-5030 Elections Bill (HB 397): Bans the use of the Electronic Registration Information Center (ERIC) for that helps keep voter registration lists up-to-date, and limits absentee ballot drop-off the weekend prior to Election Day.
 Bans Diversity, Equity & Inclusion (DEI) programs in schools (HB 127): Bans school clubs & resource centers that offer specialized support for various groups.
-Call the Chairman of Senate Appropriations, Chairman Blake Tillery, to ask him to fund direct support for low-income schools rather than school vouchers. https://www.legis.ga.gov/members/senate/4908/contact, 404-656-5038
-Stay alert, stay loud, and buckle up for the final lap.
+Call the Chairman of Senate Appropriations, Chairman Blake Tillery, to ask him to fund direct support for low-income schools rather than school vouchers . https://www.legis.ga.gov/members/senate/4908/contact, 404-656-5038 Stay alert, stay loud, and buckle up for the final lap.
+This week I took a break from voting to get some dog-time and some sunshine at Paws, Policy & Protection Day, sponsored by Humane World for Animals.
+It was great to get to know Jerry Hansand of Cumming, Georgia, and his dog, Polka!
+March 30, 2025 / by Sally Harrell Share this entry Share on Facebook Share on Twitter Share on WhatsApp Share by Mail https://sallyharrell.org/wp-content/uploads/2025/03/sallyandcummingdogowner.jpeg 512 384 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2025-03-30 17:06:03 2025-03-30 17:06:03 Sally’s Senate Snapshot 2025 #11 Stay in Touch Subscribe to Sally’s email list.
+Newsletter Volunteer Yard Sign Support Sally’s Campaign Our supporters are the heart of our campaign.
+Thank you!
+Yard Sign Volunteer DONATE © # Paid for by The Committee to Elect Sally Harrell.
+Designed by Benton Creative .
+Facebook Twitter Mail Sally’s Senate Snapshot 2025 #10 Sally’s Senate Snapshot 2026 #1 Scroll to top

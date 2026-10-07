@@ -1,4 +1,3 @@
-Help us build a broad and inclusive campaign!
-Thanks for your interest in our campaign.
-Here is where you can let us know you would like to join our growing list of community endorsers, sign up for a lawn sign and bumper sticker, write a letter to the editor, or volunteer your time for the campaign!
-Let us know how you might like to get involved by sending an email to melissaforbarretown@gmail.com and we’ll be in touch soon!
+Melissa Battah For State Representative Donate Get Involved Meet Melissa News & Events Get Involved Help us build a broad and inclusive campaign! ​ Thanks for your interest in our campaign.
+Here is where you can let us know you would like to join our growing list of community endorsers, sign up for a lawn sign and bumper sticker, write a letter to the editor, or volunteer your time for the campaign! ​ Let us know how you might like to get involved by sending an email to melissaforbarretown@gmail.com and we’ll be in touch soon!
+Melissa Battah For State Representative About Meet Melissa Get Involved Donate Social Facebook Instagram Twitter / X Paid for by Melissa Battah for Barre Town 3 Silver Circle, Barre 05641 Copyright (C) # – # Melissa Battah for Barre Town

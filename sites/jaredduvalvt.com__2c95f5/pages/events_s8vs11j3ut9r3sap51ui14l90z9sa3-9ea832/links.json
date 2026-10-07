@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party+hosted+by+Judith+Hinds&dates=20260721T143000Z%2F20260721T160000Z",
-"https://facebook.com/JaredDuvalVT",
-"https://instagram.com/jaredduvalvt",
-"https://instagram.com/p/DY0nYvClEYl",
-"https://jaredduvalvt.com/",
-"https://jaredduvalvt.com/about",
-"https://jaredduvalvt.com/cart",
-"https://jaredduvalvt.com/contact",
-"https://jaredduvalvt.com/endorsements",
-"https://jaredduvalvt.com/events",
-"https://jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim",
-"https://jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3?format=ical",
-"https://jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg",
-"https://jaredduvalvt.com/get-involved",
-"https://jaredduvalvt.com/home",
-"https://jaredduvalvt.com/news",
-"https://jaredduvalvt.com/on-the-issues",
-"https://secure.actblue.com/donate/jared-duval-1",
-"https://youtube.com/@jaredduvalvt5365"
+{
+"text": "0",
+"href": "https://www.jaredduvalvt.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.jaredduvalvt.com/home"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jaredduvalvt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jared-duval-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredduvalvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredduvalvt.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+Party+hosted+by+Judith+Hinds&dates=20260721T143000Z%2F20260721T160000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3?format=ical"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "News",
+"href": "https://www.jaredduvalvt.com/news"
+},
+{
+"text": "Next Next July 23 Coffee & Conversation with Jared at Capitol Grounds",
+"href": "https://www.jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg"
+},
+{
+"text": "On the Issues",
+"href": "https://www.jaredduvalvt.com/on-the-issues"
+},
+{
+"text": "Previous Previous July 21 Coffee & Conversation with Jared and Kate at Cafe NOA",
+"href": "https://www.jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim"
+},
+{
+"text": "[image: Jared for House 2026]",
+"href": "https://www.jaredduvalvt.com/"
+},
+{
+"text": "[image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km][image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km]",
+"href": "https://www.instagram.com/p/DY0nYvClEYl/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaredDuvalVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredduvalvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jaredduvalvt5365"
+}
 ]

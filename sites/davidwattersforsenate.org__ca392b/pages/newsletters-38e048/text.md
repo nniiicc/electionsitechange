@@ -1,4 +1,3 @@
-Senator Watters Newsletter May 2014 (PDF)
-Senator Watters Newsletter September 2013 (PDF)
-Senator Watters Newsletter July 2013 (PDF)
-Senator Watters Newsletter May 2013 (PDF)
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact News News Newsletters LTEs Photography Senator Watters Newsletter May 2014 (PDF) Senator Watters Newsletter September 2013 (PDF) Senator Watters Newsletter July 2013 (PDF) Senator Watters Newsletter May 2013 (PDF) Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

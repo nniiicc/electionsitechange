@@ -1,7 +1,4 @@
-Looking Though the Corporate Veil
-Supervising Corporations
-They're as good as the people who own them - no more, no less
-For-profit corporations are like people for certain legal purposes.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Looking Though the Corporate Veil Supervising Corporations They're as good as the people who own them - no more, no less For-profit corporations are like people for certain legal purposes.
 They can hold property, enter into contracts, and sue or be sued.
 But it’s an analogy, not an equivalence.
 It’s not close to an equivalence.
@@ -27,3 +24,5 @@ Our principles as “natural people,” to use the legal term, include seeking m
 But our principles go much deeper than that.
 To get philosophical for a moment, this isn’t an either/or choice, it’s a non-dualist yes+and blend.
 Our ongoing challenge is to keep our financial actions in balance with our other principles.
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

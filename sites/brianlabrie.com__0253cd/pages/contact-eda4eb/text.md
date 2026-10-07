@@ -1,37 +1,11 @@
-Labrie
-About
-Watch
-Issues
-Community
-Join Us
-Get In Touch
-We’d love to hear from you — reach out, ask questions, or join the team.
-Send a Message
-Your Name *
-Email Address *
-Phone Number
-Your Message
-Ways to Get Involved
-Door Knocking
-Phone Banking
-Yard Signs
-Event Help
-Social Media
-Other
-I agree to receive recurring text messages from Brian Labrie and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
+Labrie About Watch Issues Community Join Us Get In Touch We’d love to hear from you — reach out, ask questions, or join the team.
+Send a Message Your Name * Email Address * Phone Number Your Message Ways to Get Involved Door Knocking Phone Banking Yard Signs Event Help Social Media Other I agree to receive recurring text messages from Brian Labrie and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
 Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to opt out, HELP for help.
-See our
-Privacy Policy
-and
-Terms
-.
-Send Message
-Contact Information
-Email
-[email protected]
-Phone
-[phone protected]
-Address
-26 Reverend Houston Drive, Bedford, NH 03110
+See our Privacy Policy and Terms .
+Send Message Contact Information Email [email protected] Phone [phone protected] Address 26 Reverend Houston Drive, Bedford, NH 03110 Brian Labrie Republican State Representative for Bedford.
+Driven by common sense.
+Explore About Brian The Issues Bedford Contact Contact [email protected] [phone protected] 26 Reverend Houston Drive Bedford, NH 03110 Follow Stay connected with the campaign.
+Hillsborough District 2 Paid for by Friends of Brian Labrie, 26 Reverend Houston Drive, Bedford, NH 03110, Kerry Labrie treasurer © # Brian Labrie.
+All rights reserved.

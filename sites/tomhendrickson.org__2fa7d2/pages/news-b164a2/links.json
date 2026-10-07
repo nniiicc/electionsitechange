@@ -1,28 +1,118 @@
 [
-"https://facebook.com/profile.php?id=61588523652368",
-"https://instagram.com/tom_hendrickson",
-"https://linkedin.com/in/tom-hendrickson-a15494232",
-"https://masslive.com/politics/2021/11/three-umass-amherst-graduate-students-are-running-for-office-in-agawam-easthampton-and-holyoke.html",
-"https://masslive.com/westernmass/2026/02/hendrickson-announces-bid-for-house-seat-takes-aim-at-gop-incumbent-dem-leadership.html",
-"https://masslive.com/westernmass/2026/03/no-show-nick-opponent-calls-out-rep-boldyga-for-not-going-to-committee-hearings-in-2025.html",
-"https://masslive.com/westernmass/2026/04/rural-western-mass-schools-demand-equity-as-funding-falls-short.html",
-"https://secure.actblue.com/donate/committee-to-elect-tom-hendrickson-1",
-"https://thereminder.com/local-news/hampden-county/agawam/agawam-approves-power-supply-program-aggregation-plan",
-"https://thereminder.com/local-news/hampden-county/agawam/agawam-council-to-vote-on-recording-subcommittee-meetings",
-"https://thereminder.com/local-news/hampden-county/agawam/agawam-councilor-to-challenge-boldyga",
-"https://thereminder.com/local-news/hampden-county/agawam/agawam-councilor-wants-to-reconvene-towns-internet-task-force",
-"https://thereminder.com/localnews/agawam/agawams-newest-councilor-active-on-campaign-trail-",
-"https://tiktok.com/@agawamtom",
-"https://tomhendrickson.org/",
-"https://tomhendrickson.org/about-tom",
-"https://tomhendrickson.org/endorsements",
-"https://tomhendrickson.org/get-involved",
-"https://tomhendrickson.org/news",
-"https://tomhendrickson.org/priorities",
-"https://turley.com/agawamadvertisernews/aan-archives/AAN050125.pdf",
-"https://turley.com/agawamadvertisernews/aan-archives/AAN071323.pdf",
-"https://turley.com/agawamadvertisernews/aan-archives/AAN122922.pdf",
-"https://twitter.com/AgawamTom",
-"https://westernmassnews.com/2023/03/17/electricity-bills-rise-city-council-proposal-offers-help-agawam-residents",
-"https://youtube.com/@tomhendrickson4079"
+{
+"text": "About Tom",
+"href": "https://www.tomhendrickson.org/about-tom"
+},
+{
+"text": "Agawam Council to vote on recording subcommittee meetings",
+"href": "https://thereminder.com/local-news/hampden-county/agawam/agawam-council-to-vote-on-recording-subcommittee-meetings/"
+},
+{
+"text": "Agawam approves Power Supply Program Aggregation Plan",
+"href": "https://thereminder.com/local-news/hampden-county/agawam/agawam-approves-power-supply-program-aggregation-plan/"
+},
+{
+"text": "Agawam councilor to challenge Boldyga",
+"href": "https://thereminder.com/local-news/hampden-county/agawam/agawam-councilor-to-challenge-boldyga/"
+},
+{
+"text": "Agawam councilor wants to reconvene town’s internet task force",
+"href": "https://thereminder.com/local-news/hampden-county/agawam/agawam-councilor-wants-to-reconvene-towns-internet-task-force/"
+},
+{
+"text": "City Councilors Promote State Assistance Program for Housing Help",
+"href": "https://www.turley.com/agawamadvertisernews/aan-archives/AAN071323.pdf"
+},
+{
+"text": "Councilor Wants Town to Support Fair Pay for Farmworkers",
+"href": "https://www.turley.com/agawamadvertisernews/aan-archives/AAN050125.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-tom-hendrickson-1"
+},
+{
+"text": "Electricity Bills Rise, City Council Proposal Offers to Help Agawam Residents",
+"href": "https://www.westernmassnews.com/2023/03/17/electricity-bills-rise-city-council-proposal-offers-help-agawam-residents/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tomhendrickson.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tomhendrickson.org/get-involved"
+},
+{
+"text": "Hendrickson announces bid for House seat, takes aim at GOP incumbent, Dem leadership",
+"href": "https://www.masslive.com/westernmass/2026/02/hendrickson-announces-bid-for-house-seat-takes-aim-at-gop-incumbent-dem-leadership.html"
+},
+{
+"text": "Home",
+"href": "https://www.tomhendrickson.org"
+},
+{
+"text": "Newest councilor staying active on campaign trail, advocacy",
+"href": "https://www.thereminder.com/localnews/agawam/agawams-newest-councilor-active-on-campaign-trail-/"
+},
+{
+"text": "News",
+"href": "https://www.tomhendrickson.org/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.tomhendrickson.org/priorities"
+},
+{
+"text": "Runner Up Becomes Key Newcomer to City Council",
+"href": "https://www.turley.com/agawamadvertisernews/aan-archives/AAN122922.pdf"
+},
+{
+"text": "Rural Western Mass. schools demand equity as funding falls short",
+"href": "https://www.masslive.com/westernmass/2026/04/rural-western-mass-schools-demand-equity-as-funding-falls-short.html"
+},
+{
+"text": "THendrickson1313@gmail.com",
+"href": "mailto:THendrickson1313@gmail.com"
+},
+{
+"text": "Thomas Hendrickson to Join City Council",
+"href": "https://www.thereminder.com/localnews/agawam/agawams-newest-councilor-active-on-campaign-trail-/"
+},
+{
+"text": "Three UMass Amherst graduate students are running for office in Agawam, Easthampton and Holyoke",
+"href": "https://www.masslive.com/politics/2021/11/three-umass-amherst-graduate-students-are-running-for-office-in-agawam-easthampton-and-holyoke.html"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588523652368"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tom_hendrickson/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/tom-hendrickson-a15494232/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@agawamtom"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/AgawamTom"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@tomhendrickson4079"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.tomhendrickson.org"
+},
+{
+"text": "‘No-show Nick’?: Opponent calls out Rep. Boldyga for not going to committee hearings in 2025",
+"href": "https://www.masslive.com/westernmass/2026/03/no-show-nick-opponent-calls-out-rep-boldyga-for-not-going-to-committee-hearings-in-2025.html"
+}
 ]

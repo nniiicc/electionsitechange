@@ -1,6 +1,34 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://robertqua.com/",
-"https://x.com/RFQ4NH"
+{
+"text": "About",
+"href": "https://robertqua.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://robertqua.com/#donate"
+},
+{
+"text": "Endorsements",
+"href": "https://robertqua.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "https://robertqua.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Robert Qua",
+"href": "https://robertqua.com/"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RFQ4NH"
+}
 ]

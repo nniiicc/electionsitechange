@@ -1,15 +1,58 @@
 [
-"https://davevella.com/",
-"https://davevella.com/about",
-"https://davevella.com/cart",
-"https://davevella.com/get-involved",
-"https://davevella.com/issues",
-"https://davevella.com/issues/government-accountability",
-"https://davevella.com/issues/healthcare",
-"https://davevella.com/issues?author=600a4e7b0fb2b8550d70612f",
-"https://davevella.com/privacy-policy",
-"https://davevella.com/terms-and-conditions",
-"https://facebook.com/ElectDaveVella",
-"https://instagram.com/electdavevella",
-"https://secure.actblue.com/donate/friends-of-dave-vella-1"
+{
+"text": "0",
+"href": "https://www.davevella.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.davevella.com/about"
+},
+{
+"text": "Dave Vella",
+"href": "https://www.davevella.com/issues?author=600a4e7b0fb2b8550d70612f"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-dave-vella-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davevella.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.davevella.com/"
+},
+{
+"text": "Issues & Accomplishments",
+"href": "https://www.davevella.com/issues"
+},
+{
+"text": "Next Next Healthcare",
+"href": "https://www.davevella.com/issues/healthcare"
+},
+{
+"text": "Previous Previous Government Accountability",
+"href": "https://www.davevella.com/issues/government-accountability"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davevella.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.davevella.com/terms-and-conditions"
+},
+{
+"text": "[image: Elect Dave Vella]",
+"href": "https://www.davevella.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectDaveVella"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electdavevella/"
+}
 ]

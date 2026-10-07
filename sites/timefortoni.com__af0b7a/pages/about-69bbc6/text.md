@@ -1,5 +1,4 @@
-About Toni
-Toni Kornegay Vaughn is a woman of faith, family, and service.
+Skip to content Home Platform Meet Toni Volunteer Contact Time for Toni Home Platform Meet Toni Volunteer Contact Meet Toni About Toni Toni Kornegay Vaughn is a woman of faith, family, and service.
 Growing up in Alabama, she learned the value of helping others, showing compassion, and working hard no matter what obstacles stand in the way.
 Those lessons shaped everything she has done throughout her life.
 Toni has spent years serving her community through volunteer work, mentoring youth, and supporting families who are trying to get ahead.
@@ -11,4 +10,4 @@ She knows the frustration of watching healthcare costs rise while families do ev
 She understands the pressure parents feel when they want their children to get the best education possible but the resources simply are not there.
 Toni is running because she believes that leadership should come from people who understand real life.
 People who know what it feels like to struggle, but also what it takes to overcome.
-She believes every voice in this district matters, and she is committed to being a representative who listens, responds, and leads with honesty.
+She believes every voice in this district matters, and she is committed to being a representative who listens, responds, and leads with honesty. © # Time for Toni ALHD45 Paid for by Committee to Elect Toni Kornegay Vaughn ALHD45

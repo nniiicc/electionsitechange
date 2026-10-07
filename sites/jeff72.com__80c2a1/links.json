@@ -1,29 +1,130 @@
 [
-"http://house/",
-"https://donate.stripe.com/6oU9AT4yCayn3wD9x91Fe01",
-"https://facebook.com/JefferyJacksforMissouri",
-"https://jeff72.com/",
-"https://jeff72.com/platform",
-"https://jeff72.com/platform-1",
-"https://jeff72.com/privacy-policy",
-"https://jeff72.com/reca",
-"https://jeff72.com/wp-content/uploads/2025/07/Campaign-Flyer-bridge-pic-rev-1.png",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000163-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000167-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000169-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000171-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000173-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000177-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/07/P1000180-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/IMG_20250816_163351261-rotated.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/IMG_20250820_173805274-rotated.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/IMG_20250820_181626736-1-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/IMG_20250821_101036565_HDR-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/IMG_20250826_180146037_HDR-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/P1000121-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/P1000153-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/P1000203-Copy-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/P1000207-Copy-scaled.jpg",
-"https://jeff72.com/wp-content/uploads/2025/10/a0388614-2ec4-4d05-9850-20b720ce5157.jpeg",
-"https://square.link/u/lXwtlrZH"
+{
+"text": "314-702-3120",
+"href": "tel:425-334-5956"
+},
+{
+"text": "Contribute",
+"href": "https://donate.stripe.com/6oU9AT4yCayn3wD9x91Fe01"
+},
+{
+"text": "Do You Qualify?",
+"href": "https://jeff72.com/reca/"
+},
+{
+"text": "Home",
+"href": "https://jeff72.com/"
+},
+{
+"text": "Jeff@Jeff72.com",
+"href": "mailto:youremail@address.com"
+},
+{
+"text": "Jeffrey Jacks for State Representative",
+"href": "https://jeff72.com"
+},
+{
+"text": "Online",
+"href": "https://square.link/u/lXwtlrZH"
+},
+{
+"text": "Platform",
+"href": "https://jeff72.com/platform-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jeff72.com/privacy-policy/"
+},
+{
+"text": "RECA",
+"href": "https://jeff72.com/reca/"
+},
+{
+"text": "RECA: Radiation Exposure Compensation Act",
+"href": "https://jeff72.com/reca/"
+},
+{
+"text": "Read more",
+"href": "https://jeff72.com/platform-1"
+},
+{
+"text": "Returning Power to the People of Missouri-St. Ann & Overland",
+"href": "http://house"
+},
+{
+"text": "[image]",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/IMG_20250816_163351261-rotated.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/IMG_20250820_173805274-rotated.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/IMG_20250820_181626736-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/P1000153-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/P1000203-Copy-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/a0388614-2ec4-4d05-9850-20b720ce5157.jpeg"
+},
+{
+"text": "[image]Coldwater Creek RECA Meeting",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/IMG_20250826_180146037_HDR-scaled.jpg"
+},
+{
+"text": "[image]Jeffrey Jacks Greets Neighbor",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/Campaign-Flyer-bridge-pic-rev-1.png"
+},
+{
+"text": "[image]Lit Drop Time!",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/P1000207-Copy-scaled.jpg"
+},
+{
+"text": "[image]Overland City Hall",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000180-scaled.jpg"
+},
+{
+"text": "[image]Overland Community Center",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000177-scaled.jpg"
+},
+{
+"text": "[image]Overland Wild Acres Park",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000173-scaled.jpg"
+},
+{
+"text": "[image]Rock Road Branch, St. Louis County Library",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000163-scaled.jpg"
+},
+{
+"text": "[image]St. Ann Aquatic Center",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000171-scaled.jpg"
+},
+{
+"text": "[image]St. Ann City Hall",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000167-scaled.jpg"
+},
+{
+"text": "[image]Tiemeyer Park",
+"href": "https://jeff72.com/wp-content/uploads/2025/07/P1000169-scaled.jpg"
+},
+{
+"text": "[image]Wave the Flag.",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/P1000121-scaled.jpg"
+},
+{
+"text": "[image]Yard Signs Popping Up",
+"href": "https://jeff72.com/wp-content/uploads/2025/10/IMG_20250821_101036565_HDR-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JefferyJacksforMissouri"
+}
 ]

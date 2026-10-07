@@ -1,9 +1,3 @@
-Back to All Events
-Come join the Green County Democratic Party for a meet and greet with legislative candidates Clinton Anderson, Jenna Jacobson, and Mark Spreitzer.
-Previous
-Previous
-October 2
-Join Rep Mark Spreitzer and Congressman Mark Pocan for an event supporting Clinton Anderson for Assembly
-Next
-Next
-October 12
+0 Skip to Content Home About Issues Events Endorsements Donate Open Menu Close Menu Open Menu Close Menu Home About Issues Events Endorsements Donate Home About Issues Events Endorsements Donate Back to All Events Democratic Party of Green County Meet and Greet Supporting Jenna Jacobson, Mark Spreitzer, and Clinton Anderson Wednesday, October 5, 2022 6:00 PM 8:00 PM Three Waters Reserve 3941 Golf Course Road Brodhead, WI, 53520 United States (map) Google Calendar ICS Come join the Green County Democratic Party for a meet and greet with legislative candidates Clinton Anderson, Jenna Jacobson, and Mark Spreitzer.
+Previous Previous October 2 Join Rep Mark Spreitzer and Congressman Mark Pocan for an event supporting Clinton Anderson for Assembly Next Next October 12 Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League Email: admin@clintonforassembly.com Phone: +1 (608) 302-7913 Donate Paid for by Friends of Clinton Anderson 2282 Bootmaker Dr.
+Beloit, WI 53511

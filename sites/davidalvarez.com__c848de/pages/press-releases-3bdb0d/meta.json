@@ -1,12 +1,15 @@
 {
  "description": "Read the latest press releases by Assemblymember David Alvarez",
  "final_url": "https://www.davidalvarez.com/press-releases",
- "paid_for_by": null,
+ "fingerprint": "aa65c928ab62700222d83577271ecaec9f7962f9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Alvarez--- Press Releases",
  "years_mentioned": [
   "2016",
   "2017",
   "2018",
+  "2022",
   "2023",
   "2024",
   "2025"

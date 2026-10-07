@@ -1,11 +1,46 @@
 [
-"https://sarahcolemcintosh.com/",
-"https://sarahcolemcintosh.com/about",
-"https://sarahcolemcintosh.com/endorsements",
-"https://sarahcolemcintosh.com/privacy",
-"https://sarahcolemcintosh.com/terms",
-"https://sarahcolemcintosh.com/volunteer",
-"https://sarahcolemcintosh.com/why-im-running",
-"https://secure.actblue.com/donate/scm-website",
-"https://x.com/sarahcolemcint1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scm-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sarahcolemcintosh.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.sarahcolemcintosh.com/"
+},
+{
+"text": "Meet Sarah",
+"href": "https://www.sarahcolemcintosh.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sarahcolemcintosh.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.sarahcolemcintosh.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sarahcolemcintosh.com/volunteer"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.sarahcolemcintosh.com/why-im-running"
+},
+{
+"text": "[image: Sarah Cole McIntosh for Kentucky State Senate District 36 logo]",
+"href": "https://www.sarahcolemcintosh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sarahcolemcint1"
+},
+{
+"text": "info@sarahcolemcintosh.com",
+"href": "mailto:info@sarahcolemcintosh.com"
+}
 ]

@@ -1,4 +1,5 @@
-Bill Aims to Enhance Stand Your Ground in Idaho.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Bill Aims to Enhance Stand Your Ground Law Jan 29, 2023 | Herndon's Editorial , Policy Analysis Bill Aims to Enhance Stand Your Ground in Idaho.
 The Idaho Legislature convened on January 9 for an approximately three-month session.
 The legislature is composed of citizens who do this work part-time, yet the responsibility of the legislature is probably the most significant responsibility of our state’s government.
 The Idaho Legislature, comprised of 35 senators and 70 representatives, is the only branch of the state’s government that directly represents the people of Idaho.
@@ -25,4 +26,6 @@ My SB1002 clarifies that Idaho’s abortion ban does not criminalize miscarriage
 In another bill, I will be attempting to protect rape-conceived preborn children because we shouldn’t compound the violent felony of rape by permitting the violent force of abortion upon the innocent human child conceived in rape.
 Less controversial is my SB1010 regarding slow-moving vehicles and my SB1021, shoring up the legislative oversight of the Priest Lake Outlet Dam.
 I am adding a criminal penalty, like in 29 other states, for knowingly filing a false report of child abuse and neglect, while I am removing a criminal penalty related to raw milk sales.
-To be added to my email newsletter, please click here.
+To be added to my email newsletter, please click here .
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

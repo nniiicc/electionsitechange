@@ -1,29 +1,114 @@
 [
-"https://amandafornm.com/",
-"https://amandafornm.com/./news",
-"https://amandafornm.com/./press",
-"https://amandafornm.com/./videos",
-"https://amandafornm.com/about",
-"https://amandafornm.com/contact",
-"https://amandafornm.com/media",
-"https://amandafornm.com/media/page/2",
-"https://amandafornm.com/media/page/3",
-"https://amandafornm.com/media/page/5",
-"https://amandafornm.com/press/2026/05/11/amanda-lopez-askin-releases-first-ad",
-"https://amandafornm.com/take-action",
-"https://bsky.app/profile/letstalkamanda.bsky.social",
-"https://facebook.com/alafornm",
-"https://instagram.com/amandafornm",
-"https://organmountainnews.com/amanda-lopez-askin-endorsements-secretary-of-state-2026",
-"https://santafenewmexican.com/news/roundhouse_report/the-roundhouse-report-l-pez-askin-snags-big-endorsements/article_3b9801f3-1410-450f-b18c-7154dfe6c097.html",
-"https://santafenewmexican.com/opinion/editorials/endorsements-lt-gov-secretary-of-state-and-land-commissioner/article_07c85df0-325f-4be7-b28a-145eeb291a55.html",
-"https://secure.actblue.com/donate/ala-web",
-"https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=5",
-"https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?recurring=false",
-"https://youtube.com/watch?v=pDkNVr5o-u0"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false"
+},
+{
+"text": "2",
+"href": "https://amandafornm.com/media/page/2/"
+},
+{
+"text": "3",
+"href": "https://amandafornm.com/media/page/3/"
+},
+{
+"text": "5",
+"href": "https://amandafornm.com/media/page/5/"
+},
+{
+"text": "About",
+"href": "https://amandafornm.com/about/"
+},
+{
+"text": "Chip in $5 right now to join the fight for our future ",
+"href": "https://secure.actblue.com/donate/ala-web?amount=5"
+},
+{
+"text": "Click to read Ad: “Pass the Torch”",
+"href": "https://www.youtube.com/watch?v=pDkNVr5o-u0"
+},
+{
+"text": "Click to read Amanda López Askin Releases First Ad",
+"href": "https://amandafornm.com/press/2026/05/11/amanda-lopez-askin-releases-first-ad/"
+},
+{
+"text": "Click to read Endorsements: Lt. gov., secretary of state and land commissioner",
+"href": "https://www.santafenewmexican.com/opinion/editorials/endorsements-lt-gov-secretary-of-state-and-land-commissioner/article_07c85df0-325f-4be7-b28a-145eeb291a55.html"
+},
+{
+"text": "Click to read Gov. Lujan Grisham, Secretary of State Toulouse Oliver endorse Doña Ana County Clerk Amanda López Askin",
+"href": "https://organmountainnews.com/amanda-lopez-askin-endorsements-secretary-of-state-2026/"
+},
+{
+"text": "Click to read The Roundhouse Report: López Askin snags big endorsements",
+"href": "https://www.santafenewmexican.com/news/roundhouse_report/the-roundhouse-report-l-pez-askin-snags-big-endorsements/article_3b9801f3-1410-450f-b18c-7154dfe6c097.html"
+},
+{
+"text": "Connect on Bluesky",
+"href": "https://bsky.app/profile/letstalkamanda.bsky.social"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://facebook.com/alafornm/"
+},
+{
+"text": "Connect on Instagram",
+"href": "https://instagram.com/amandafornm/"
+},
+{
+"text": "Contact",
+"href": "https://amandafornm.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ala-web"
+},
+{
+"text": "Media",
+"href": "https://amandafornm.com/media/"
+},
+{
+"text": "News",
+"href": "https://amandafornm.com/./news/"
+},
+{
+"text": "Next Page",
+"href": "https://amandafornm.com/media/page/2/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ala-web?recurring=false"
+},
+{
+"text": "Press Releases",
+"href": "https://amandafornm.com/./press/"
+},
+{
+"text": "Take Action",
+"href": "https://amandafornm.com/take-action/"
+},
+{
+"text": "Videos",
+"href": "https://amandafornm.com/./videos/"
+},
+{
+"text": "[image: Amanda for New Mexico]Amanda for New Mexico",
+"href": "https://amandafornm.com"
+}
 ]

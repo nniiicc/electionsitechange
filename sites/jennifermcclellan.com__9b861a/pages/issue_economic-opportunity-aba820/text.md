@@ -1,5 +1,5 @@
-Economic Opportunity
-Lower Costs.
+Chip in Today Donate anything you can, we will need all the help on this campaign to fight for working people. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram YouTube Twitter Threads Jennifer McClellan for Congress – Menu Meet Jennifer Issues Donate Economic Opportunity Lower Costs.
 Real Results.
 Hardworking Americans shouldn’t have to choose between keeping the lights on, filling a prescription, or putting food on the table.
 Jenn believes a strong economy works for everyone.
@@ -15,6 +15,11 @@ In Congress, Jenn cosponsored the Power for the People Act to protect consumers 
 Expanding Housing Options: Virginia’s housing shortage drives up rent and pushes families out of the communities they’ve built their lives in.
 Jenn has worked at the state and federal level to expand the supply of affordable housing.
 Through the annual appropriations process, she secured $1,666,279 for YWCA Richmond’s Transforming Lives project, funding the construction of at least 40 new residential units with wraparound services for domestic violence survivors facing housing insecurity.
-Jenn cosponsored the Make Housing Affordable and Defend Democracy Act, which rescinds $175 billion in unaccountable slush funds from President Trump’s draconian immigration crackdown and redirects them to tackle America’s housing affordability crisis.
-Putting Money Back in Families’ Pockets: Jenn voted for the bipartisan Tax Relief for American Families and Workers Act, which expanded the Child Tax Credit to provide direct financial relief to working families.
+Jenn cosponsored the Make Housing Affordable and Defend Democracy Act , which rescinds $175 billion in unaccountable slush funds from President Trump’s draconian immigration crackdown and redirects them to tackle America’s housing affordability crisis.
+Putting Money Back in Families’ Pockets: Jenn voted for the bipartisan Tax Relief for American Families and Workers Act , which expanded the Child Tax Credit to provide direct financial relief to working families.
 She has also fought Republican efforts to gut SNAP benefits that over 447,000 Virginia families depend on to put food on the table.
+Economic Opportunity Energy & Environment Healthcare Voting Rights National Security Education and Childcare Endorse Sign up as a supporter of Rep.
+McClellan’s grassroots-powered campaign.
+Thank you for your support and endorsement.
+Contribute Will you chip in to support our grassroots campaign today? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Jennifer McClellan for Congress – Meet Jennifer Issues Endorsements Donate Follow Us Facebook Instagram YouTube Twitter Threads Paid for by McClellan for Congress Contact Privacy Policy Made with Middle Seat

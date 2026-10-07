@@ -1,4 +1,5 @@
-I hope all Bedfordites have adequate heating at a reasonable cost to heat their homes this winter.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Stop Press!
+Trump Pledges to Revive PA-to-NY Constitution Pipeline Feb 17, 2025 I hope all Bedfordites have adequate heating at a reasonable cost to heat their homes this winter.
 As I knocked on many doors this summer and fall to ask what concerns my fellow Bedfordites, high and volatile energy costs were at the top of the list.
 I share that concern.
 The solution I offered and have written here on my issues tab, is a near and medium term increase in natural gas made available through existing or to-be-built pipeline.
@@ -7,11 +8,12 @@ The linked article below discusses a REAL common sense natural gas pipeline plan
 Natural gas is the most obvious and economical energy source that is available to us as we consider longer-term “all-of-the-above” options, including Nuclear.
 Natural gas appears to be emerging as the only economically viable common sense source while we consider Nuclear, which is supported by both our governor and a bi-partisan aggregation of legislators, including your republican legislative representatives.
 Stop Press!
-Trump Pledges to Revive PA-to-NY Constitution Pipeline | Marcellus Drilling News
-Never in our wildest dreams did we see this one coming.
+Trump Pledges to Revive PA-to-NY Constitution Pipeline | Marcellus Drilling News Never in our wildest dreams did we see this one coming.
 And we must caution against too much hope.
 However, we are JAZZED.
 Last Friday, President Trump signed yet another executive order.
 This EO creates the National Energy Dominance Council, directing the new council to move quickly to increase domestic oil and gas production (see our companion post today for details).
 During comments with reporters at the EO signing, Trump vowed to complete the long-dead Pennsylvania Marcellus to New York State Constitution Pipeline!
-Trump’s own words: “We are going to get this done, and once we start construction, we’re looking at anywhere from nine to 12 months.”
+Trump’s own words: “We are going to get this done, and once we start construction, we’re looking at anywhere from nine to 12 months.” SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

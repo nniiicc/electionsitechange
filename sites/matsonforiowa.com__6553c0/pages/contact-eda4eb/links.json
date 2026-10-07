@@ -1,15 +1,66 @@
 [
-"https://facebook.com/matsonforiowa",
-"https://facebook.com/sharer.php?url=https%3A%2F%2Fmatsonforiowa.com%2Fcontact%2F",
-"https://instagram.com/matsonforhouse",
-"https://matsonforiowa.com/",
-"https://matsonforiowa.com/contact",
-"https://matsonforiowa.com/endorsements",
-"https://matsonforiowa.com/issues",
-"https://matsonforiowa.com/meet-heather-matson",
-"https://matsonforiowa.com/volunteer",
-"https://onevoice.agency/",
-"https://secure.actblue.com/donate/matsonsd21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fmatsonforiowa.com%2Fcontact%2F&via=matsonforhouse&text=Contact",
-"https://twitter.com/matsonforhouse"
+{
+"text": "(515) 201-1877",
+"href": "tel:5152011877"
+},
+{
+"text": "Contact",
+"href": "https://matsonforiowa.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/matsonsd21"
+},
+{
+"text": "Endorsements",
+"href": "https://matsonforiowa.com/endorsements/"
+},
+{
+"text": "Follow Heather on Facebook",
+"href": "https://www.facebook.com/matsonforiowa"
+},
+{
+"text": "Follow Heather on Instagram",
+"href": "https://www.instagram.com/matsonforhouse"
+},
+{
+"text": "Follow Heather on Twitter",
+"href": "https://twitter.com/matsonforhouse"
+},
+{
+"text": "Heather Matson for Iowa Senate",
+"href": "https://matsonforiowa.com"
+},
+{
+"text": "Issues",
+"href": "https://matsonforiowa.com/issues/"
+},
+{
+"text": "Meet Heather",
+"href": "https://matsonforiowa.com/meet-heather-matson/"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/sharer.php?url=https%3A%2F%2Fmatsonforiowa.com%2Fcontact%2F"
+},
+{
+"text": "Share on Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fmatsonforiowa.com%2Fcontact%2F&via=matsonforhouse&text=Contact"
+},
+{
+"text": "Share via email",
+"href": "mailto:?body=Check+out+this+page+from+Heather+Matson%3A+https%3A%2F%2Fmatsonforiowa.com%2Fcontact%2F"
+},
+{
+"text": "Volunteer",
+"href": "https://matsonforiowa.com/volunteer/"
+},
+{
+"text": "Website built in Iowa by OVMM",
+"href": "https://onevoice.agency"
+},
+{
+"text": "info@matsonforiowa.com",
+"href": "mailto:info@matsonforiowa.com"
+}
 ]

@@ -1,12 +1,62 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://kambuckner.com/",
-"https://kambuckner.com/about-4",
-"https://kambuckner.com/events",
-"https://kambuckner.com/general-5",
-"https://kambuckner.com/il-district-26",
-"https://kambuckner.com/projects-8",
-"https://secure.actblue.com/donate/friends-of-kam-buckner-1",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.kambuckner.com/about-4"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/friends-of-kam-buckner-1"
+},
+{
+"text": "Events",
+"href": "https://www.kambuckner.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.kambuckner.com"
+},
+{
+"text": "IL District 26",
+"href": "https://www.kambuckner.com/il-district-26"
+},
+{
+"text": "Info@kambuckner.com",
+"href": "mailto:Info@kambuckner.com"
+},
+{
+"text": "Issues",
+"href": "https://www.kambuckner.com/projects-8"
+},
+{
+"text": "Meet Kam",
+"href": "https://www.kambuckner.com/about-4"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kambuckner.com/general-5"
+},
+{
+"text": "[image: Buckner-Logo-Rep_edited.png]",
+"href": "https://www.kambuckner.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://www.kambuckner.com"
+},
+{
+"text": "info@kambuckner.com",
+"href": "mailto:info@kambuckner.com"
+}
 ]

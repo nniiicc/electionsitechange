@@ -1,27 +1,166 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bearkat+Mania+%40+SHSU&dates=20260909T150000Z%2F20260909T173000Z&location=1905+University+Avenue%2C+Huntsville%2C+Texas%2C+77340%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Caitlin+Rourk+Fundraiser&dates=20260910T230000Z%2F20260911T010000Z&location=1000+12th+Street%2C+Huntsville%2C+Texas%2C+77340%2C+United+States",
-"http://maps.google.com/?q=1000+12th+Street+Huntsville%2C+Texas%2C+77340+United+States",
-"http://maps.google.com/?q=1905+University+Avenue+Huntsville%2C+Texas%2C+77340+United+States",
-"https://andiefortexas.com/",
-"https://andiefortexas.com/cart",
-"https://andiefortexas.com/endorsements",
-"https://andiefortexas.com/events-1-1",
-"https://andiefortexas.com/events-1-1/bearkat-mania-shsu",
-"https://andiefortexas.com/events-1-1/bearkat-mania-shsu?format=ical",
-"https://andiefortexas.com/events-1-1/caitlin-rourk-fundraiser",
-"https://andiefortexas.com/events-1-1/caitlin-rourk-fundraiser?format=ical",
-"https://andiefortexas.com/home",
-"https://andiefortexas.com/issues-1",
-"https://andiefortexas.com/issues/enviromentalconservation",
-"https://andiefortexas.com/issues/healthcareforall",
-"https://andiefortexas.com/issues/nospacex",
-"https://andiefortexas.com/issues/pathwaystocitizenship",
-"https://andiefortexas.com/issues/strong-public-schools",
-"https://andiefortexas.com/meet-andie",
-"https://andiefortexas.com/yardsigns",
-"https://caitlinrourk.com/",
-"https://facebook.com/profile.php?id=61579577036758",
-"https://instagram.com/andiefortexas?stkn=ZDNlZDc0MzIxNw%3D%3D",
-"https://secure.actblue.com/donate/andie-ho-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1000+12th+street+huntsville%2C+texas%2C+77340+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1719+east+29th+street+bryan%2C+texas%2C+77802+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1905+university+avenue+huntsville%2C+texas%2C+77340+united+states"
+},
+{
+"text": "0",
+"href": "https://www.andiefortexas.com/cart"
+},
+{
+"text": "Andie Ho",
+"href": "https://www.andiefortexas.com/"
+},
+{
+"text": "Back",
+"href": "https://www.andiefortexas.com/"
+},
+{
+"text": "Bearkat Mania @ SHSU",
+"href": "https://www.andiefortexas.com/events-1-1/bearkat-mania-shsu"
+},
+{
+"text": "Caitlin Rourk",
+"href": "https://www.caitlinrourk.com/"
+},
+{
+"text": "Caitlin Rourk Fundraiser",
+"href": "https://www.andiefortexas.com/events-1-1/caitlin-rourk-fundraiser"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/andie-ho-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andiefortexas.com/endorsements"
+},
+{
+"text": "Environmental Conservation",
+"href": "https://www.andiefortexas.com/issues/enviromentalconservation"
+},
+{
+"text": "Events",
+"href": "https://www.andiefortexas.com/events-1-1"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.andiefortexas.com/issues-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bearkat+Mania+%40+SHSU&dates=20260909T150000Z%2F20260909T173000Z&location=1905+University+Avenue%2C+Huntsville%2C+Texas%2C+77340%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Caitlin+Rourk+Fundraiser&dates=20260910T230000Z%2F20260911T010000Z&location=1000+12th+Street%2C+Huntsville%2C+Texas%2C+77340%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Save+Our+Public+Schools&dates=20261008T230000Z%2F20261009T010000Z&location=1719+East+29th+Street%2C+Bryan%2C+Texas%2C+77802%2C+United+States"
+},
+{
+"text": "Healthcare for All",
+"href": "https://www.andiefortexas.com/issues/healthcareforall"
+},
+{
+"text": "Home",
+"href": "https://www.andiefortexas.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/bearkat-mania-shsu?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/caitlin-rourk-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andiefortexas.com/events-1-1/save-our-public-schools?format=ical"
+},
+{
+"text": "Janet Dudding",
+"href": "https://thomassonforsenate.com/"
+},
+{
+"text": "Meet Andie",
+"href": "https://www.andiefortexas.com/meet-andie"
+},
+{
+"text": "Pathways to Citizenship",
+"href": "https://www.andiefortexas.com/issues/pathwaystocitizenship"
+},
+{
+"text": "Paul Thomasson",
+"href": "https://thomassonforsenate.com/"
+},
+{
+"text": "Save Our Public Schools",
+"href": "https://www.andiefortexas.com/events-1-1/save-our-public-schools"
+},
+{
+"text": "SpaceX in Grimes County",
+"href": "https://www.andiefortexas.com/issues/nospacex"
+},
+{
+"text": "Strong Public Schools",
+"href": "https://www.andiefortexas.com/issues/strong-public-schools"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/bearkat-mania-shsu"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/caitlin-rourk-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.andiefortexas.com/events-1-1/save-our-public-schools"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andiefortexas.com/home#volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.andiefortexas.com/yardsigns"
+},
+{
+"text": "[image: Andie for Texas]",
+"href": "https://www.andiefortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.andiefortexas.com/events-1-1/bearkat-mania-shsu"
+},
+{
+"text": "[no text]",
+"href": "https://www.andiefortexas.com/events-1-1/caitlin-rourk-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.andiefortexas.com/events-1-1/save-our-public-schools"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579577036758"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andiefortexas?stkn=ZDNlZDc0MzIxNw%3D%3D"
+},
+{
+"text": "andieforHD12@gmail.com",
+"href": "mailto:andieforhd12@gmail.com"
+}
 ]

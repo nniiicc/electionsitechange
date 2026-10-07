@@ -1,4 +1,4 @@
-Brad Smith is a lifelong Wisconsinite, veteran, and business leader whose story is rooted in rural traditions, hard work, and service to community and country.
+0 Skip to Content About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Folder: Learn More Back Hear from Brad Priorities and Positions Endorsements Press Releases Folder: Get Involved Back Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Brad Smith is a lifelong Wisconsinite, veteran, and business leader whose story is rooted in rural traditions, hard work, and service to community and country.
 He is running for Congress to protect Wisconsin’s middle class, keep family farms strong, and ensure every family has access to healthcare, education, and good-paying jobs.
 Brad was born in the town of Larsen in Winnebago County, where his father worked in the feed mill and his mother at the Century Elm supper club.
 His family’s tradition of service reaches back to the Revolutionary War, when his 6th great-grandfather rode with Col.
@@ -28,3 +28,4 @@ His grandparents once received supportive, local care through a small-town nursi
 Brad knows rural hospitals and clinics are closing at alarming rates, and he will fight to strengthen Medicaid and protect the Affordable Care Act so that every family, urban or rural, has access to care close to home.
 Outside of work and service, Brad is an adventure sports enthusiast who can often be found mountain biking, trail running, or skiing.
 He has traveled to 19 countries for business and exploration, but insists there’s no place like Wisconsin to call home.
+Paid for by Citizens for Brad Smith Media Resources ‍ | ‍ Press Releases

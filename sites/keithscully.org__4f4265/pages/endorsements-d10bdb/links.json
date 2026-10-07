@@ -1,9 +1,34 @@
 [
-"https://keithscully.org/",
-"https://keithscully.org/about-keith",
-"https://keithscully.org/contact",
-"https://keithscully.org/endorse",
-"https://keithscully.org/endorsements",
-"https://keithscully.org/priorities",
-"https://secure.anedot.com/keith-scully/donatesr"
+{
+"text": "About",
+"href": "https://keithscully.org/about-keith/"
+},
+{
+"text": "Contact",
+"href": "https://keithscully.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/keith-scully/donatesr"
+},
+{
+"text": "Endorse Keith",
+"href": "https://keithscully.org/endorse"
+},
+{
+"text": "Endorsements",
+"href": "https://keithscully.org/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://keithscully.org/"
+},
+{
+"text": "Priorities",
+"href": "https://keithscully.org/priorities/"
+},
+{
+"text": "[image: Keith Scully]",
+"href": "https://keithscully.org/"
+}
 ]

@@ -1,38 +1,182 @@
 [
-"https://bsky.app/profile/sairaforgeorgia.bsky.social",
-"https://facebook.com/votesaira",
-"https://gadems.info/voprovol",
-"https://georgiademocrat.org/",
-"https://georgiademocrat.org/2026-dpg-slate",
-"https://instagram.com/votesaira",
-"https://mvp.sos.ga.gov/s",
-"https://revupga.thegao.org/",
-"https://sairadraper.com/",
-"https://sairadraper.com/accessibility",
-"https://sairadraper.com/canvass",
-"https://sairadraper.com/district",
-"https://sairadraper.com/do-not-contact",
-"https://sairadraper.com/endorsements",
-"https://sairadraper.com/es/get-involved",
-"https://sairadraper.com/get-help",
-"https://sairadraper.com/get-involved",
-"https://sairadraper.com/news",
-"https://sairadraper.com/news/draper-paper-draper-paper-and-we-re-off",
-"https://sairadraper.com/news/october-5th-is-your-last-day-to-register-to-vote",
-"https://sairadraper.com/news/speaker-burns-promised-transparency-before-redistricting-were-waiting",
-"https://sairadraper.com/privacy",
-"https://sairadraper.com/terms",
-"https://sairadraper.com/vi/get-involved",
-"https://sairadraper.com/vote",
-"https://sairadraper.com/work-with-saira",
-"https://secure.actblue.com/donate/saira-for-sd44-website",
-"https://secure.actblue.com/donate/saira-for-sd44-website?amount=100",
-"https://secure.actblue.com/donate/saira-for-sd44-website?amount=1000",
-"https://secure.actblue.com/donate/saira-for-sd44-website?amount=25",
-"https://secure.actblue.com/donate/saira-for-sd44-website?amount=3300",
-"https://secure.actblue.com/donate/saira-for-sd44-website?amount=50",
-"https://secure.actblue.com/donate/saira-for-sd44-website?amount=500",
-"https://threads.com/@votesaira",
-"https://tiktok.com/@votesaira",
-"https://youtube.com/@votesaira"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website?amount=25"
+},
+{
+"text": "$3,300",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website?amount=3300"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website?amount=500"
+},
+{
+"text": "888-730-5816",
+"href": "tel:+18887305816"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Canvass",
+"href": "https://www.sairadraper.com/canvass"
+},
+{
+"text": "Confirm your voter registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia",
+"href": "https://www.sairadraper.com/news/october-5th-is-your-last-day-to-register-to-vote"
+},
+{
+"text": "Democratic Party of Georgia website",
+"href": "https://georgiademocrat.org/"
+},
+{
+"text": "Democrats running for statewide office",
+"href": "https://georgiademocrat.org/2026-dpg-slate/"
+},
+{
+"text": "District 44",
+"href": "https://www.sairadraper.com/district"
+},
+{
+"text": "Do Not Contact",
+"href": "https://www.sairadraper.com/do-not-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website"
+},
+{
+"text": "Draper Paper: And we're off!",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-and-we-re-off"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sairadraper.com/endorsements"
+},
+{
+"text": "English",
+"href": "https://www.sairadraper.com/get-involved"
+},
+{
+"text": "Español",
+"href": "https://www.sairadraper.com/es/get-involved"
+},
+{
+"text": "Get Help",
+"href": "https://www.sairadraper.com/get-help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sairadraper.com/get-involved"
+},
+{
+"text": "Learn more about voter protection volunteering",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "Meet Saira",
+"href": "https://www.sairadraper.com/#about"
+},
+{
+"text": "News + Events",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.sairadraper.com/privacy"
+},
+{
+"text": "REV UP Georgia",
+"href": "https://revupga.thegao.org/"
+},
+{
+"text": "Read our full accessibility statement",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Saira Draper for State Senate District 44 for SD44",
+"href": "https://www.sairadraper.com/"
+},
+{
+"text": "Speaker Burns promised transparency before redistricting. We’re waiting.",
+"href": "https://www.sairadraper.com/news/speaker-burns-promised-transparency-before-redistricting-were-waiting"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.sairadraper.com/terms"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.sairadraper.com/vi/get-involved"
+},
+{
+"text": "View All News",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Vote Early",
+"href": "https://www.sairadraper.com/vote"
+},
+{
+"text": "Work with Saira",
+"href": "https://www.sairadraper.com/work-with-saira"
+},
+{
+"text": "Work with Saira →",
+"href": "https://www.sairadraper.com/work-with-saira"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sairaforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesaira"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+}
 ]

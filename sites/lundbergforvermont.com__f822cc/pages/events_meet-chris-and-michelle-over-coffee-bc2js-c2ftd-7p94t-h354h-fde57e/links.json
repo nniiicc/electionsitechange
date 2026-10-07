@@ -1,12 +1,46 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=MEET+CHRIS+AND+MICHELLE+OVER+COFFEE+&dates=20260719T170000Z%2F20260719T180000Z&location=51+Square%2C+Bellows+Falls%2C+VT%2C+05101%2C+United+States",
-"http://maps.google.com/?q=51+Square+Bellows+Falls%2C+VT%2C+05101+United+States",
-"https://facebook.com/profile.php?id=61590242772409",
-"https://lundbergforvermont.com/",
-"https://lundbergforvermont.com/cart",
-"https://lundbergforvermont.com/events",
-"https://lundbergforvermont.com/events/meet-chris-and-michelle-over-coffee-bc2js-c2ftd-7p94t",
-"https://lundbergforvermont.com/events/meet-chris-and-michelle-over-coffee-bc2js-c2ftd-7p94t-h354h-w69ay",
-"https://lundbergforvermont.com/events/meet-chris-and-michelle-over-coffee-bc2js-c2ftd-7p94t-h354h?format=ical",
-"https://secure.actblue.com/donate/chris-lundberg-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=51+square+bellows+falls%2C+vt%2C+05101+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lundbergforvermont.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lundbergforvermont.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:lundbergforvt@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris-lundberg-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=MEET+CHRIS+AND+MICHELLE+OVER+COFFEE+&dates=20260719T170000Z%2F20260719T180000Z&location=51+Square%2C+Bellows+Falls%2C+VT%2C+05101%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.lundbergforvermont.com/events/meet-chris-and-michelle-over-coffee-bc2js-c2ftd-7p94t-h354h?format=ical"
+},
+{
+"text": "Next Next July 26 MEET CHRIS AND MICHELLE OVER COFFEE",
+"href": "https://www.lundbergforvermont.com/events/meet-chris-and-michelle-over-coffee-bc2js-c2ftd-7p94t-h354h-w69ay"
+},
+{
+"text": "Previous Previous July 12 MEET CHRIS AND MICHELLE OVER COFFEE",
+"href": "https://www.lundbergforvermont.com/events/meet-chris-and-michelle-over-coffee-bc2js-c2ftd-7p94t"
+},
+{
+"text": "[image: Chris Lundberg for Vermont House of Representatives]",
+"href": "https://www.lundbergforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590242772409"
+}
 ]

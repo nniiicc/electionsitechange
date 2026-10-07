@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=HD9+House+District+Meeting&dates=20260627T163000Z%2F20260627T173000Z&location=1500+South+Dahlia+Street%2C+Denver%2C+CO%2C+80222%2C+United+States",
-"http://maps.google.com/?q=1500+South+Dahlia+Street+Denver%2C+CO%2C+80222+United+States",
-"https://flickr.com/people/monicaforcolorado",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/candidate-forum-for-hd9-b8ka8-jtsap?format=ical",
-"https://monicaforcolorado.com/events/talk-to-neighbors-with-monica-daily-shifts-z328y-bly8r-dygyb",
-"https://monicaforcolorado.com/events/talk-to-neighbors-with-monica-daily-shifts-z328y-bly8r-pdjeg-h8pxn",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1500+south+dahlia+street+denver%2C+co%2C+80222+united+states"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=HD9+House+District+Meeting&dates=20260627T163000Z%2F20260627T173000Z&location=1500+South+Dahlia+Street%2C+Denver%2C+CO%2C+80222%2C+United+States"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/candidate-forum-for-hd9-b8ka8-jtsap?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Next Next June 28 Talk to neighbors with Monica (daily shifts)",
+"href": "https://www.monicaforcolorado.com/events/talk-to-neighbors-with-monica-daily-shifts-z328y-bly8r-dygyb"
+},
+{
+"text": "Previous Previous June 27 Talk to neighbors with Monica (daily shifts)",
+"href": "https://www.monicaforcolorado.com/events/talk-to-neighbors-with-monica-daily-shifts-z328y-bly8r-pdjeg-h8pxn"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+}
 ]

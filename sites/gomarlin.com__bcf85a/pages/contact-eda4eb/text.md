@@ -1,7 +1,8 @@
-Have a general question?
+Home Meet Marlin The Issues Endorsements Store Team Marlin Menu Donate Help us continue the fight and send Marlin back to Indiana's 3rd District! $# $# $# other All donations are processed securely through WinRed.
+LIVE at 5PM ET - UAW Rally to save the American Dream Contact Have a general question?
 Email us at team@gomarlin.com.
 Have a question about an order from the campaign store?
-Please email store@gomarlin.com
+Please email store@gomarlin.com SIGN UP This is your America.
 Marlin needs your support to continue fighting for hard working Hoosiers.
 The only way we will change Washington is with your help!
 Add your name and let Marlin know you stand with America!
@@ -14,12 +15,7 @@ Stutzman for Congress will never charge for these updates, but carrier message &
 Message frequency may vary.
 Mobile messaging opt-in will not be sold, rented, or shared unless required by law.
 Reply HELP for help, STOP to end.
-Read Privacy Policy here.
-Read Terms & Conditions here.
-Stutzman for Congress
-P.O.
-Box 339
-Howe, Indiana 46746
-© Stutzman for Congress
-PAID FOR BY STUTZMAN FOR CONGRESS
-Courageous Leadership.
+Read Privacy Policy here .
+Read Terms & Conditions here .
+Learn Meet Marlin The Issues Endorsements Privacy Policy Terms & Conditions ORGANIZE Get Involved Contribute SOCIAL MEDIA Facebook Instagram TikTok Truth Social X / Twitter YouTube ABOUT Contact Store Press Media Kit Team Marlin Stutzman for Congress P.O.
+Box 339 Howe, Indiana 46746 © Stutzman for Congress PAID FOR BY STUTZMAN FOR CONGRESS Courageous Leadership.

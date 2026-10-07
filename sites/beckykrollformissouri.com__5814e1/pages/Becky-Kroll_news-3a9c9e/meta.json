@@ -1,7 +1,9 @@
 {
- "description": "Get the latest news and updates from Becky\u2019s campaign.",
+ "description": "Get the latest news and updates from Becky’s campaign.",
  "final_url": "https://www.upballot.com/Becky-Kroll/news/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
- "title": "News & Updates from Becky KrollNews & Updates from Becky Kroll",
+ "fingerprint": "b5dd21c584908dc313ef7a8aa73159a3f6d8ffa1",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "title": "News & Updates from Becky Kroll",
  "years_mentioned": []
 }

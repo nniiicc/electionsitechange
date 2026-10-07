@@ -1,4 +1,5 @@
-Assembly candidate calls for legislation allowing users to opt out of AI
-New York Assembly candidate Janet Tweed today called for legislation requiring tech companies to allow users to opt out of AI usage.
-Healthcare policy should be led by evidence, not influencers
-In the year 2000 – as I was beginning school to become a physical therapist – measles was declared “eliminated” in the United States, thanks in large part to safe, effective vaccines…
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Press Release Heather Phelps-Lipton 7/18/26 Press Release Heather Phelps-Lipton 7/18/26 Assembly candidate calls for legislation allowing users to opt out of AI New York Assembly candidate Janet Tweed today called for legislation requiring tech companies to allow users to opt out of AI usage.
+Read More Press Release Heather Phelps-Lipton 4/17/26 Press Release Heather Phelps-Lipton 4/17/26 Healthcare policy should be led by evidence, not influencers In the year 2000 – as I was beginning school to become a physical therapist – measles was declared “eliminated” in the United States, thanks in large part to safe, effective vaccines… Read More Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared with subcontractors in support services, such as customer service.
+All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

@@ -1,7 +1,3 @@
-| CRAIGforCONGRESS |
-| Missouri's 7th District, U.S.
-House of Representatives |
-| |
-| Congressional Issues 2012 THE BILL OF RIGHTS The First Amendment |
-| Congress should Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
-Why Secular Humanism is a religion, and is not a religion |
+C RAIG for C ONGRESS Missouri's 7th District, U.S.
+House of Representatives Congressional Issues 2012 T HE B ILL OF R IGHTS The First Amendment Congress should remember the First Amendment observe it Amendment I Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+Religion | Historical Resources government establishment free exercise Speech and Press | Historical Resources private speech commercial speech "The Press" Petition and Assembly | Historical Resources assembly political input Why Secular Humanism is a religion , and is not a religion next: The Constitution is Dead Meat next: The Bill of Rights is Dead Meat Government Morality and Culture Domestic Foreign

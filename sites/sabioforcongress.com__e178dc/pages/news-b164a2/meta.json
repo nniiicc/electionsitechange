@@ -1,10 +1,11 @@
 {
  "description": "Discover the latest updates and news on VA 8th Congressional District candidates, including Tony Sabio&#39;s campaign for Congress.",
  "final_url": "https://sabioforcongress.com/news",
- "paid_for_by": null,
+ "fingerprint": "bba736d2ebd959f13dc7b1a1158dbffb8176ab35",
+ "format": 3,
+ "paid_for_by": "",
  "title": "VA 8th Congressional District Candidates Overview",
  "years_mentioned": [
-  "2011",
-  "2025"
+  "2011"
  ]
 }

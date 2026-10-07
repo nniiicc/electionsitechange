@@ -1,10 +1,38 @@
 [
-"http://youtube.com/@VoteNickNeal",
-"https://facebook.com/votenickneal",
-"https://secure.actblue.com/donate/nickneal",
-"https://votenickneal.com/",
-"https://votenickneal.com/cart",
-"https://votenickneal.com/getinvolved",
-"https://votenickneal.com/home",
-"https://votenickneal.com/meetnick"
+{
+"text": "0",
+"href": "https://www.votenickneal.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nickneal"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votenickneal.com/getinvolved"
+},
+{
+"text": "Meet Nick",
+"href": "https://www.votenickneal.com/meetnick"
+},
+{
+"text": "[image: Vote Nick Neal for Indiana House District 19]",
+"href": "https://www.votenickneal.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votenickneal.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@VoteNickNeal"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votenickneal"
+},
+{
+"text": "[no text]",
+"href": "mailto:nick@votenickneal.com"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://electmikegierau.com/",
-"https://electmikegierau.com/about",
-"https://electmikegierau.com/contact",
-"https://electmikegierau.com/endorsements",
-"https://electmikegierau.com/news",
-"https://electmikegierau.com/positions",
-"https://electmikegierau.com/search",
-"https://electmikegierau.com/support",
-"https://electmikegierau.com/voter-info",
-"https://facebook.com/Mike4Wyolegislature",
-"https://instagram.com/mike4senate.17"
+{
+"text": "About",
+"href": "https://electmikegierau.com/about"
+},
+{
+"text": "Contact",
+"href": "https://electmikegierau.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://electmikegierau.com/endorsements"
+},
+{
+"text": "Learn More",
+"href": "https://electmikegierau.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://electmikegierau.com/positions"
+},
+{
+"text": "News",
+"href": "https://electmikegierau.com/news"
+},
+{
+"text": "Positions",
+"href": "https://electmikegierau.com/positions"
+},
+{
+"text": "Support",
+"href": "https://electmikegierau.com/support"
+},
+{
+"text": "Voter Info",
+"href": "https://electmikegierau.com/voter-info"
+},
+{
+"text": "[image: Mike Gierau for State Senate 17]",
+"href": "https://electmikegierau.com/"
+},
+{
+"text": "[no text]",
+"href": "https://electmikegierau.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Mike4Wyolegislature/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mike4senate.17/"
+}
 ]

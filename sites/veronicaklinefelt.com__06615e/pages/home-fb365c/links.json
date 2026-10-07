@@ -1,17 +1,106 @@
 [
-"https://bsky.app/profile/did:plc:33ortzgten55p2ja2ewjgpaa",
-"https://docs.google.com/forms/d/e/1FAIpQLSeIsBW-UiCHyd4D-WiVEYORkP25_CXcjh292cPhtNn0u2R6fQ/viewform?usp=publish-editor",
-"https://facebook.com/Klinefelt4MI",
-"https://mvic.sos.state.mi.us/",
-"https://secure.actblue.com/donate/veronicaklinefelt",
-"https://secure.actblue.com/donate/veronicaklinefelt?amount=100",
-"https://secure.actblue.com/donate/veronicaklinefelt?amount=250",
-"https://secure.actblue.com/donate/veronicaklinefelt?amount=50",
-"https://techforcampaigns.org/",
-"https://veronicaklinefelt.com/",
-"https://veronicaklinefelt.com/about",
-"https://veronicaklinefelt.com/endorsements",
-"https://veronicaklinefelt.com/get-involved",
-"https://veronicaklinefelt.com/home",
-"https://veronicaklinefelt.com/priorities"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/veronicaklinefelt?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/veronicaklinefelt?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/veronicaklinefelt?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/veronicaklinefelt"
+},
+{
+"text": "Email Veronica",
+"href": "mailto:info@veronicaklinefelt.com"
+},
+{
+"text": "Endorsements & Distinctions",
+"href": "https://veronicaklinefelt.com/endorsements/"
+},
+{
+"text": "Find your polling location",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Get Involved",
+"href": "https://veronicaklinefelt.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://veronicaklinefelt.com/get-involved/"
+},
+{
+"text": "Get a yard sign!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeIsBW-UiCHyd4D-WiVEYORkP25_CXcjh292cPhtNn0u2R6fQ/viewform?usp=publish-editor"
+},
+{
+"text": "Learn more",
+"href": "https://veronicaklinefelt.com/priorities/#education"
+},
+{
+"text": "Learn more",
+"href": "https://veronicaklinefelt.com/priorities/#loweringcosts"
+},
+{
+"text": "Learn more",
+"href": "https://veronicaklinefelt.com/priorities/#watersheds"
+},
+{
+"text": "Meet Veronica",
+"href": "https://veronicaklinefelt.com/about"
+},
+{
+"text": "Meet Veronica",
+"href": "https://veronicaklinefelt.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/veronicaklinefelt"
+},
+{
+"text": "Priorities",
+"href": "https://veronicaklinefelt.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://veronicaklinefelt.com/priorities/"
+},
+{
+"text": "Read about all of Veronica’s priorities ⇨",
+"href": "https://veronicaklinefelt.com/priorities"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "VKlinefelt on BlueSky",
+"href": "https://bsky.app/profile/did:plc:33ortzgten55p2ja2ewjgpaa"
+},
+{
+"text": "Veronica Klinefelt for State Senate",
+"href": "https://veronicaklinefelt.com/"
+},
+{
+"text": "Veronica on Facebook",
+"href": "https://www.facebook.com/Klinefelt4MI"
+},
+{
+"text": "What I Stand For",
+"href": "https://veronicaklinefelt.com/priorities"
+},
+{
+"text": "[image: Veronica Klinefelt for State Senate logo]",
+"href": "https://veronicaklinefelt.com/"
+},
+{
+"text": "[image]",
+"href": "https://veronicaklinefelt.com/home"
+}
 ]

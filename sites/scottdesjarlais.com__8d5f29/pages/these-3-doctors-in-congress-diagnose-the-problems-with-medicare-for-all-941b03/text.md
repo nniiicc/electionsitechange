@@ -1,11 +1,11 @@
-Few issues have animated conservatives as much as Obamacare.
+Skip to content Home About Dr.
+Scott Issues Endorsements Donate news > These 3 Doctors in Congress Diagnose the Problems With Medicare for All These 3 Doctors in Congress Diagnose the Problems With Medicare for All Posted by admin on March 11, 2019 Few issues have animated conservatives as much as Obamacare.
 But there’s a new threat on the horizon.
 It’s called Medicare for All—and it would be a massive government takeover of your health care.
 The Daily Signal spoke with three medical doctors who are serving in the U.S.
 House—Reps.
 Scott DesJarlais, Paul Gosar, and Andy Harris—to talk about Medicare for All and their solutions for a patient-centered alternative.
-Listen to the podcast or read the transcript below.
-Rob Bluey: I want to ask about not only some of the problems we find in health care today, but also solutions.
+Listen to the podcast or read the transcript below. https://scottdesjarlais.com/wp-content/uploads/2020/03/The-Daily-Signal-Podcast_030819_mixdown-MRG.mp3 Rob Bluey: I want to ask about not only some of the problems we find in health care today, but also solutions.
 Some of your colleagues on the left have put forward quite a radical proposal called Medicare for All.
 As doctors, I want to ask you to weigh in on what you think about it.
 Congressman Harris, would you like to begin?
@@ -13,8 +13,7 @@ Rep.
 Andy Harris, R-Md.: The Medicare for All plan that was announced a couple weeks by my Democrat colleagues, over 100 of them, really will result in care for none.
 That’s the bottom line.
 In these trying times, we must turn to the greatest document in the history of the world to promise freedom and opportunity to its citizens for guidance.
-Find out more now >>
-You can’t offer free care to everyone and expect anything but rationing to be the result.
+Find out more now >> You can’t offer free care to everyone and expect anything but rationing to be the result.
 The costs are huge.
 We already have a trillion-dollar deficit in federal government spending.
 To add more to it will result in rationing.
@@ -22,13 +21,11 @@ When you dissect this plan piece by piece, including the elimination of all priv
 We go well beyond the socialized medical schemes of Europe in the Medicare for All plan.
 It’s just going to be a nonstarter.
 Bluey: Congressman DesJarlais, we have a question from Tennessee from Katherine of Murfreesboro, Tenn.
-“With your experience and your medical practice, can you explain why Medicare for All is a bad idea when it comes to quality of care, provider satisfaction, fiscal impact, and the patient-provider relationship?”
-Rep.
+“With your experience and your medical practice, can you explain why Medicare for All is a bad idea when it comes to quality of care, provider satisfaction, fiscal impact, and the patient-provider relationship?” Rep.
 Scott DesJarlais, R-Tenn.: Thank you, Katherine.
 It’s always good to hear from Tennessee.
 When I think of Medicare for All, I think, “What can you compare that to?
-What would it be like?”
-I think right now, a system that everybody knows and is aware of is the VA system.
+What would it be like?” I think right now, a system that everybody knows and is aware of is the VA system.
 The VA system, in a way, is similar for the veterans.
 The biggest complaint you hear most times out of the VA system is long wait times or sometimes poor access to specialists.
 Can you just imagine what it would be like if you turned the whole country into a system right now that we can’t handle on a smaller scale?
@@ -52,8 +49,8 @@ Bluey: Let’s talk about some of those solutions.
 Congressman Gosar, you’re a dentist.
 In terms of the dental profession, what would Medicare for All mean and what is a market-driven, patient-focused solution?
 Gosar: First of all, dentistry never took onto Medicare.
-It walked away from the Medicare discussions in the 1960s.
-Therefore, the same dollar you spent in the 1970s, is basically the same dollar you spent today in dentistry with inflationary only.
+It walked away from the Medicare discussions in the #s.
+Therefore, the same dollar you spent in the #s, is basically the same dollar you spent today in dentistry with inflationary only.
 Medicine’s nowhere close to that because what’s happened is there’s been cost shifting.
 What the government hasn’t covered, somebody else has had to pick up.
 That’s why you got problems.
@@ -131,10 +128,10 @@ This comes from Bill Williams in Gold Canyon.
 Gosar: He’s in my district.
 Bluey: He says, “We face a massive problem with growing entitlements,” as you just mentioned.
 “Congress is willfully blind.
-Assuming that most elected officials wish to avoid a future train wreck and that solutions will inevitably be needed in time, what do you think we should start doing to solve this long-term entitlement crisis?”
-Gosar: First of all, I always come back to keeping it simple stupid and that is break everybody down to the lowest common denominator.
+Assuming that most elected officials wish to avoid a future train wreck and that solutions will inevitably be needed in time, what do you think we should start doing to solve this long-term entitlement crisis?” Gosar: First of all, I always come back to keeping it simple stupid and that is break everybody down to the lowest common denominator.
 I don’t think we know what the final solution looks like because we haven’t liberated the market.
-No. 1 is empowering physicians to create new markets.
+No.
+1 is empowering physicians to create new markets.
 That means making the insurance industry, which is the primary means of reimbursement, start competing whereas right now, they’re in a collusionary-type action.
 There’s no necessity for them to branch out to put out new market products.
 Make them compete against each other.
@@ -151,8 +148,7 @@ As we saw in the 2018 election, health care was consistently ranked as one of th
 They trusted Democrats more than Republicans on that issue, or liberals over conservatives.
 What is it that conservatives need to do to get their ideas across and gain the trust of the American people when it comes to health care?
 Harris: I’ll tell you, if Medicare for All doesn’t scare the American public, it will. … I tell people, “Look, they want coverage.
-God forbid you have a pre-existing condition because everybody either has one or is afraid they’re going to have one and knows someone who has one.”
-Once we clear that hurdle and we make it clear that our plans always cover someone with that, whether it’s, as Dr.
+God forbid you have a pre-existing condition because everybody either has one or is afraid they’re going to have one and knows someone who has one.” Once we clear that hurdle and we make it clear that our plans always cover someone with that, whether it’s, as Dr.
 Gosar says, a high-risk pooling mechanism or re-insurance pooling mechanism like we have in Maryland, we just have to make sure that the American people understand.
 We’ve always talked about that.
 Our American Health Care Act had it in it.
@@ -200,8 +196,7 @@ Bluey: Last year, a federal district court in Texas ruled that Obamacare was unc
 Can you bring us up to speed on what that means about the future of this debate on health care and where you might expect that case ultimately ends up?
 Harris: You know the background is that, of course, the landmark ruling, which Chief Justice Roberts, we think, took the wrong side on, was declaring that since it was a tax, the individual mandate was a tax, therefore the process was legitimate.
 Once we removed the tax by removing the individual mandate in our reconciliation bill, the bottom line is that argument was removed.
-It’s going to be up to federal courts to say, “OK, now that there’s no tax, is this, in fact, a legitimate plan?”
-Look, a court could rule now that, in fact, it’s out the window.
+It’s going to be up to federal courts to say, “OK, now that there’s no tax, is this, in fact, a legitimate plan?” Look, a court could rule now that, in fact, it’s out the window.
 It gives us a chance to learn the lessons.
 What did we learn?
 We learned that the American people really, really want coverage of pre-existing conditions and make it clear to them that that exists.
@@ -224,7 +219,8 @@ One of the first things I brought up is breaking down the anti-trust exclusion f
 That’s not a Democrat or Republican application.
 I think bringing that up in this partisan foil or this atmosphere, no one’s going to vote for their insurance company over their constituents.
 This is a golden opportunity for that ball to drop.
-No. 2 is, why isn’t the Senate having that conversation about HSA reform?
+No.
+2 is, why isn’t the Senate having that conversation about HSA reform?
 The Hoover Institution said it was the next best thing that we could do after the tax reforms that we passed last year or in 2017.
 Why not have that conversation right now, pre-emptively have that, empowering patients?
 Who is actually going to say no to patients controlling their destiny on their health care with their own tax dollars?
@@ -234,8 +230,7 @@ Why not creatively build it so that actually people are empowered to be fundamen
 I think there’s some ways that we can change the ground rules even in this partisan climate, that you actually set up a success instead of looking at being victims again of the system.
 Bluey: Congressman Gosar, this comes to you again.
 It’s from Bill Casale of Prescott, Arizona.
-He says, “The radical left controls the agenda and they seem only interested in endless witch hunts against the president and pushing socialist programs.” He thanks you for being a stalwart conservative but asks, “What we can do to move beyond some of the headlines and get to these serious issues?”
-Gosar: Once again, one of the things that we’ve actually done, and Bill, that was a great question, is, how do we set up the system or how do you work the system for your benefit?
+He says, “The radical left controls the agenda and they seem only interested in endless witch hunts against the president and pushing socialist programs.” He thanks you for being a stalwart conservative but asks, “What we can do to move beyond some of the headlines and get to these serious issues?” Gosar: Once again, one of the things that we’ve actually done, and Bill, that was a great question, is, how do we set up the system or how do you work the system for your benefit?
 Looking at what I just brought forward, now we’re seeing introduction of McCarran-Ferguson, which is that repeal of the Sherman and Clayton Antitrust exemption in the Senate.
 Amazing, and it’s bipartisan.
 Who is going to stop that?
@@ -271,8 +266,7 @@ We have a question from Myrna Lieberman also of Prescott, Arizona.
 She says, “I believe Dr.
 Gosar is the lone voice in Arizona for a need to get a border wall in place.
 Does Dr.
-Gosar believe that is going to happen?”
-Gosar: Remember the president has about $4.5 billion at his disposal, even before the emergency fund.
+Gosar believe that is going to happen?” Gosar: Remember the president has about $4.5 billion at his disposal, even before the emergency fund.
 He’s actually going to be building that as he promised.
 It’s sad, though, that so many people don’t understand the emergency that’s our southern border.
 The influenza that you’re seeing, the different diseases coming in, measles, mumps, a bacterial-resistant tuberculosis, typhoid, this is an emergency coming in here.
@@ -283,7 +277,8 @@ I’m tired of those people from around the country, from New York and other sta
 Andy Biggs, by the way, is also a big supporter.
 I’m not by myself.
 Bluey: Thanks for that.
-Congressman DesJarlais, the House [passed] H.R. 1, the For the People Act.
+Congressman DesJarlais, the House [passed] H.R.
+1, the For the People Act.
 You’ve had some opposition even from the left, the ACLU coming out against it.
 What can you tell us in terms of what the bill would do and why conservatives need to be concerned?
 DesJarlais: Basically, the Democrats have taken all the reasons they weren’t successful in the last election and tried to rig the game in their favor.
@@ -295,7 +290,7 @@ They’re basically trying to loosen the restrictions and let people who are not
 I think that the bill is a desperate attempt on their part to try to rig the game.
 Bluey: Finally, I want to ask each of you from your own experience as a doctor to share with what it was about that experience that motivated you to come to Congress and what message you’d like to leave with them in closing as we think about this issue of health care.
 Congressman Harris, you begin.
-Harris: This is simple, when I was trained almost 40 years ago, the bottom line is the relationship between the patient and her doctor was the most important.
+Harris: This is simple, when I was trained almost #ago, the bottom line is the relationship between the patient and her doctor was the most important.
 That was it.
 Fast forward to now.
 You’ve got an insurance company in the room.
@@ -329,3 +324,7 @@ When the market competes on you, making sure you’re satisfied with the decisio
 Bluey: Thank you for the work that you’re doing.
 Thank you for the unique perspective that you bring to this issue of health care as doctors.
 I know that I benefited from this conversation.
+Rob Bluey is executive editor of The Daily Signal, the multimedia news organization of The Heritage Foundation. https://www.dailysignal.com/2019/03/11/these-3-doctors-in-congress-diagnose-the-problems-with-medicare-for-all/ news Written by admin Follow Scott: Home About Dr.
+Scott Issues Endorsements Donate Dr.
+Scott DesJarlais PO Box 90133 Nashville, TN 37209 Paid for by Friends of Scott DesJarlais Pol.
+Adv. paid for by Dustin Burrows Campaign.

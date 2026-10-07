@@ -1,12 +1,4 @@
-Here's what Michael will fight for in Salem.
-Lower Cost of Living
-Safe Communities and a Stronger Oregon
-Affordable & Accessible Health Care
-Cutting Taxes
-Better Education & Opportunities for Students
-More Affordable Housing & Opportunities for First-Time Homebuyers
-Safeguarding Reproductive Rights
-Toll-Free Roads & On-Time Projects
-Strong Jobs & Strong Local Businesses
-Protecting Oregon Values
-Disaster Preparedness
+Skip navigation menu Home About Priorities Endorsements Yard Signs!
+Events Volunteer Contact Donate Home About Priorities Endorsements Yard Signs!
+Events Volunteer Contact Donate Michael's priorities Fighting for Our Community Here's what Michael will fight for in Salem .
+Economy Lower Cost of Living public safety Safe Communities and a Stronger Oregon Healthcare Affordable & Accessible Health Care taxes Cutting Taxes Education Better Education & Opportunities for Students housing More Affordable Housing & Opportunities for First-Time Homebuyers reproductive rights Safeguarding Reproductive Rights Transportation Toll-Free Roads & On-Time Projects Economy Strong Jobs & Strong Local Businesses basic rights Protecting Oregon Values emergency management Disaster Preparedness Contact: Info@SugarforOregon.com Powered by RUN! website builder PAID FOR BY SUGAR FOR OREGON (PAC ID 24521) You need to enable JavaScript to run this app.

@@ -1,17 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61580546764968",
-"https://findmydistrict.ohiosos.gov/",
-"https://lookup.boe.ohio.gov/vtrapp/montgomery/ballotlist.aspx",
-"https://lookup.boe.ohio.gov/vtrapp/preble/ballotlist.aspx",
-"https://ohiosos.gov/elections/voters/absentee-voting",
-"https://ohiosos.gov/elections/voters/id-requirements",
-"https://ohiosos.gov/elections/voters/toolkit/early-voting",
-"https://ohiosos.gov/elections/voters/toolkit/polling-location",
-"https://olvr.ohiosos.gov/",
-"https://umbaugh.lpo.org/",
-"https://umbaugh.lpo.org/bio",
-"https://umbaugh.lpo.org/donate",
-"https://umbaugh.lpo.org/events",
-"https://umbaugh.lpo.org/vote-for-josh",
-"https://voterlookup.ohiosos.gov/voterlookup.aspx"
+{
+"text": "Check your Voter Registration",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "Donate",
+"href": "https://umbaugh.lpo.org/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580546764968"
+},
+{
+"text": "Find Your District",
+"href": "https://findmydistrict.ohiosos.gov/"
+},
+{
+"text": "Find Your Voting Location",
+"href": "https://www.ohiosos.gov/elections/voters/toolkit/polling-location/"
+},
+{
+"text": "In-Person ID Requirements",
+"href": "https://www.ohiosos.gov/elections/voters/id-requirements/"
+},
+{
+"text": "Meet Josh",
+"href": "https://umbaugh.lpo.org/bio/"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "View Your Sample BallotMontgomery County",
+"href": "https://lookup.boe.ohio.gov/vtrapp/montgomery/ballotlist.aspx"
+},
+{
+"text": "View Your Sample BallotPreble County",
+"href": "https://lookup.boe.ohio.gov/vtrapp/preble/ballotlist.aspx"
+},
+{
+"text": "Vote for Josh",
+"href": "https://umbaugh.lpo.org/vote-for-josh/"
+},
+{
+"text": "Voting By Mail",
+"href": "https://www.ohiosos.gov/elections/voters/absentee-voting/"
+},
+{
+"text": "Voting Early",
+"href": "https://www.ohiosos.gov/elections/voters/toolkit/early-voting/"
+},
+{
+"text": "Where’s Josh?",
+"href": "https://umbaugh.lpo.org/events/"
+},
+{
+"text": "[image: Umbaugh for Ohio]",
+"href": "https://umbaugh.lpo.org"
+},
+{
+"text": "[tooltip: Umbaugh for Ohio]",
+"href": "https://umbaugh.lpo.org"
+},
+{
+"text": "here to check the Secretary of State's website",
+"href": "https://findmydistrict.ohiosos.gov/"
+}
 ]

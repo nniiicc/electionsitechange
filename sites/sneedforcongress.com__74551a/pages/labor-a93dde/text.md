@@ -1,12 +1,2 @@
-top of page
-LABOR
-Dignity in Honest Work
-OUR PRIORITIES
-CLOSE THE SKILLED TRADES GAP
-Create fast-track programs to train workers for high-demand trades.
-ELEVATE THE AMERICAN UNION WORKER
-Promote critical skilled trades to the same priority as STEM degrees.
-ENSURE WORKER PROTECTIONS & SAFETY
-FIGHT FOR THE RIGHT TO COLLECTIVE BARGAINING FOR WORKERS
-PROTECT ORGANIZED LABOR
-bottom of page
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE LABOR Dignity in Honest Work OUR PRIORITIES CLOSE THE SKILLED TRADES GAP Create fast-track programs to train workers for high-demand trades. ​ ELEVATE THE AMERICAN UNION WORKER ​ ​ Promote critical skilled trades to the same priority as STEM degrees. ​ ​ ENSURE WORKER PROTECTIONS & SAFETY FIGHT FOR THE RIGHT TO COLLECTIVE BARGAINING FOR WORKERS ​ PROTECT ORGANIZED LABOR THE ISSUES HEALTHCARE IMMIGRATION AFFORDABILITY LABOR EDUCATION | OPPORTUNITY ENVIRONMENT ENERGY FIX THE HOUSE DATA CENTERS SOCIAL SECURITY Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

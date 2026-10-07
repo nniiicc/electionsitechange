@@ -1,33 +1,142 @@
 [
-"http://facebook.com/JessHansonMN",
-"http://google.com/calendar/event?action=TEMPLATE&text=Apartment+Door+Knock+with+Team+Hanson&dates=20221022T150000Z%2F20221022T170000Z",
-"http://x.com/JessHansonMN",
-"https://bsky.app/profile/jesshansonmn.bsky.social",
-"https://instagram.com/JessHansonMN",
-"https://jesshansonforhouse.com/",
-"https://jesshansonforhouse.com/about-jess",
-"https://jesshansonforhouse.com/cart",
-"https://jesshansonforhouse.com/committeesbills",
-"https://jesshansonforhouse.com/contact-us",
-"https://jesshansonforhouse.com/contactjess",
-"https://jesshansonforhouse.com/donate",
-"https://jesshansonforhouse.com/door-knock",
-"https://jesshansonforhouse.com/endorsements-2024",
-"https://jesshansonforhouse.com/endorsements-2026",
-"https://jesshansonforhouse.com/events",
-"https://jesshansonforhouse.com/events/apartment-door-knock-with-team-hanson-1?format=ical",
-"https://jesshansonforhouse.com/events/door-knock-with-rep-esther-agbaje-1",
-"https://jesshansonforhouse.com/events/wc55pd67gc4mkf7tk7ps8tzmrw7wyk",
-"https://jesshansonforhouse.com/events?category=Volunteer",
-"https://jesshansonforhouse.com/get-involved",
-"https://jesshansonforhouse.com/getnewsletters",
-"https://jesshansonforhouse.com/houseparty",
-"https://jesshansonforhouse.com/join-email-list",
-"https://jesshansonforhouse.com/lawnsign",
-"https://jesshansonforhouse.com/learn-more",
-"https://jesshansonforhouse.com/photos",
-"https://jesshansonforhouse.com/politics-of-care-about",
-"https://jesshansonforhouse.com/volunteer",
-"https://jesshansonforhouse.com/whoisjess",
-"https://secure.actblue.com/donate/jesshansonforhouse55a"
+{
+"text": "0",
+"href": "https://www.jesshansonforhouse.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jesshansonforhouse.com/events"
+},
+{
+"text": "Click Here to Donate on ActBlue Today!",
+"href": "https://secure.actblue.com/donate/jesshansonforhouse55a"
+},
+{
+"text": "Committees & Bills",
+"href": "https://www.jesshansonforhouse.com/committeesbills"
+},
+{
+"text": "Contact Jess",
+"href": "https://www.jesshansonforhouse.com/contactjess"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jesshansonforhouse55a"
+},
+{
+"text": "Donate",
+"href": "https://www.jesshansonforhouse.com/donate"
+},
+{
+"text": "Door Knock",
+"href": "https://www.jesshansonforhouse.com/door-knock"
+},
+{
+"text": "Endorsements (2024)",
+"href": "https://www.jesshansonforhouse.com/endorsements-2024"
+},
+{
+"text": "Endorsements (2026)",
+"href": "https://www.jesshansonforhouse.com/endorsements-2026"
+},
+{
+"text": "Events",
+"href": "https://www.jesshansonforhouse.com/events"
+},
+{
+"text": "Folder: Contact Us",
+"href": "https://www.jesshansonforhouse.com/contact-us"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.jesshansonforhouse.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.jesshansonforhouse.com/learn-more"
+},
+{
+"text": "Get Email Updates",
+"href": "https://www.jesshansonforhouse.com/join-email-list"
+},
+{
+"text": "Get Newsletters",
+"href": "https://www.jesshansonforhouse.com/getnewsletters"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.jesshansonforhouse.com/lawnsign"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Apartment+Door+Knock+with+Team+Hanson&dates=20221022T150000Z%2F20221022T170000Z"
+},
+{
+"text": "Home",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "Host a House Party",
+"href": "https://www.jesshansonforhouse.com/houseparty"
+},
+{
+"text": "ICS",
+"href": "https://www.jesshansonforhouse.com/events/apartment-door-knock-with-team-hanson-1?format=ical"
+},
+{
+"text": "Next Next October 22 Door Knock with Rep. Esther Agbaje",
+"href": "https://www.jesshansonforhouse.com/events/door-knock-with-rep-esther-agbaje-1"
+},
+{
+"text": "Photos",
+"href": "https://www.jesshansonforhouse.com/photos"
+},
+{
+"text": "Previous Previous October 19 Door Knock with Team Hanson",
+"href": "https://www.jesshansonforhouse.com/events/wc55pd67gc4mkf7tk7ps8tzmrw7wyk"
+},
+{
+"text": "The Politics of Care",
+"href": "https://www.jesshansonforhouse.com/politics-of-care-about"
+},
+{
+"text": "The Story",
+"href": "https://www.jesshansonforhouse.com/about-jess"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jesshansonforhouse.com/events?category=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jesshansonforhouse.com/volunteer"
+},
+{
+"text": "Who is Jess?",
+"href": "https://www.jesshansonforhouse.com/whoisjess"
+},
+{
+"text": "[image: VOTE FOR JESS BY NOV 3]",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/JessHansonMN"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com/JessHansonMN"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jesshansonmn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/JessHansonMN"
+}
 ]

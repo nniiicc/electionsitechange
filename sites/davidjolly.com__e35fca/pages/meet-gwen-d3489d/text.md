@@ -1,16 +1,22 @@
-Meet Gwen.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT Meet Gwen.
 Not a running mate.
 A partner.
 Before the title.
 Before the ticket.
 There's the leader Florida already knows, and the work that shaped her.
-Watch her introduction
-People will try to tell you who Gwen Graham is.
+Watch her introduction People will try to tell you who Gwen Graham is.
 This page lets you hear it for yourself.
 Not through labels.
 Not through talking points.
-Gwen's Story
-Gwen Graham was born in Miami Lakes and raised in a family devoted to public service.
+Florida's next Lieutenant Governor Start here.
+Who Gwen is, and the experience she brings to this ticket.
+Competency.
+Character.
+Trust.
+The standard she holds herself to, and what Florida can expect from it.
+Gwen Graham - Proud to serve beside David Jolly Leadership is not about the title.
+It is about showing up when the moment asks for it.
+Gwen's Story Gwen Graham was born in Miami Lakes and raised in a family devoted to public service.
 A proud product of Florida’s public school system and a mother of three, Gwen built her early career around education, serving as a PTA president and school advisory council chair before working for the Leon County school district, where she focused on supporting teachers and students.
 Gwen represented Florida’s 2nd Congressional District, serving alongside David Jolly.
 They worked together to protect Florida’s coastline, co-sponsoring legislation with Senator Bill Nelson to oppose oil drilling in the Gulf of Mexico.
@@ -20,4 +26,7 @@ From 2021 to 2025, Gwen served as Assistant Secretary at the U.S.
 Department of Education.
 She holds a Bachelor’s degree from the University of North Carolina at Chapel Hill and a Juris Doctor from American University.
 Gwen and her husband Steve live in Tallahassee.
-Gwen has her own campaign site at gwengrahamfl.com, where she tells her story in her own words, shares videos from the road, and asks Floridians to come along.
+Gwen has her own campaign site at gwengrahamfl.com , where she tells her story in her own words, shares videos from the road, and asks Floridians to come along.
+About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

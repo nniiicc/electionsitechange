@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Clancy%27s+Cinco+de+Mayo+Party+for+Allen+Caruso&dates=20260505T203000Z%2F20260505T233000Z&location=43+Caroline+Street%2C+Saratoga+Springs%2C+NY%2C+12866%2C+United+States",
-"http://instagram.com/carusofornyassembly",
-"http://maps.google.com/?q=43+Caroline+Street+Saratoga+Springs%2C+NY%2C+12866+United+States",
-"https://carusoforassembly.com/",
-"https://carusoforassembly.com/about",
-"https://carusoforassembly.com/cart",
-"https://carusoforassembly.com/events",
-"https://carusoforassembly.com/events/clancys-cinco-de-mayo-party-for-allen-caruso?format=ical",
-"https://carusoforassembly.com/events/pints-perspectives-with-allen-caruso",
-"https://carusoforassembly.com/issues",
-"https://carusoforassembly.com/news",
-"https://carusoforassembly.com/privacy",
-"https://carusoforassembly.com/text-messaging",
-"https://carusoforassembly.com/volunteer",
-"https://facebook.com/CarusoforNYAssembly",
-"https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=43+caroline+street+saratoga+springs%2C+ny%2C+12866+united+states"
+},
+{
+"text": "0",
+"href": "https://carusoforassembly.com/cart"
+},
+{
+"text": "AFFORDABILITY AGENDA",
+"href": "https://carusoforassembly.com/issues"
+},
+{
+"text": "ALLEN CARUSO",
+"href": "https://carusoforassembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://carusoforassembly.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Clancy%27s+Cinco+de+Mayo+Party+for+Allen+Caruso&dates=20260505T203000Z%2F20260505T233000Z&location=43+Caroline+Street%2C+Saratoga+Springs%2C+NY%2C+12866%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://carusoforassembly.com/events/clancys-cinco-de-mayo-party-for-allen-caruso?format=ical"
+},
+{
+"text": "MEET ALLEN",
+"href": "https://carusoforassembly.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://carusoforassembly.com/news"
+},
+{
+"text": "Next Next May 21 Pints & Perspectives with Allen Caruso",
+"href": "https://carusoforassembly.com/events/pints-perspectives-with-allen-caruso"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://carusoforassembly.com/privacy"
+},
+{
+"text": "TEXT TERMS & CONDITIONS",
+"href": "https://carusoforassembly.com/text-messaging"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/carusofornyassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarusoforNYAssembly/"
+}
 ]

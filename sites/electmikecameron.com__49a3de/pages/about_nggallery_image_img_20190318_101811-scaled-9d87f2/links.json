@@ -1,13 +1,54 @@
 [
-"http://cryoutcreations.eu/",
-"http://electmikecameron.com/",
-"http://electmikecameron.com/about",
-"http://electmikecameron.com/about/nggallery/image/mike-cameron-republican-party",
-"http://electmikecameron.com/about/nggallery/image/mvimg_20180710_090345-scaled",
-"http://electmikecameron.com/contact",
-"http://electmikecameron.com/donate",
-"http://electmikecameron.com/new-committee-appointment",
-"http://electmikecameron.com/wp-content/gallery/mike/IMG_20190318_101811-scaled.jpg",
-"http://wordpress.org/",
-"https://facebook.com/mike.cameron.16752"
+{
+"text": "About",
+"href": "http://electmikecameron.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://electmikecameron.com/contact/"
+},
+{
+"text": "Donate to Re-elect Mike Cameron",
+"href": "http://electmikecameron.com/donate/"
+},
+{
+"text": "Home",
+"href": "http://electmikecameron.com"
+},
+{
+"text": "Home",
+"href": "http://electmikecameron.com/"
+},
+{
+"text": "New Committee Appointment",
+"href": "http://electmikecameron.com/new-committee-appointment/"
+},
+{
+"text": "Re-Elect Mike Cameron Representative Georgia House District 1",
+"href": "http://electmikecameron.com/"
+},
+{
+"text": "Tempera",
+"href": "http://www.cryoutcreations.eu"
+},
+{
+"text": "WordPress.",
+"href": "http://wordpress.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mike.cameron.16752"
+},
+{
+"text": "[image: Mike and Trisha Pridemore, Public Service Commissioner]",
+"href": "http://electmikecameron.com/wp-content/gallery/mike/IMG_20190318_101811-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "http://electmikecameron.com/about/nggallery/image/mike-cameron-republican-party/"
+},
+{
+"text": "[no text]",
+"href": "http://electmikecameron.com/about/nggallery/image/mvimg_20180710_090345-scaled/"
+}
 ]

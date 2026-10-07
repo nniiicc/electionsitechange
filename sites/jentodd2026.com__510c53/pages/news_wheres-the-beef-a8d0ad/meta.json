@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.jentodd2026.us/news/wheres-the-beef",
+ "fingerprint": "75c443c74db1051123e95b713df43eca5f6decc9",
+ "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
- "title": "WHERE\u2019S THE BEEF? Jennifer Todd calls on Miller to Protect Illinois Beef",
- "years_mentioned": []
+ "title": "WHERE’S THE BEEF? Jennifer Todd calls on Miller to Protect Illinois Beef",
+ "years_mentioned": [
+  "2026"
+ ]
 }

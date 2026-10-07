@@ -1,10 +1,7 @@
-Protecting Immigrant Communities and Ensuring Due Process
-Stop collaboration of local and state law enforcement with ICE
-State and local law enforcement resources should not be used to enforce federal immigration law or support ICE terrorizing immigrant communities.
+0 Skip to Content Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Folder: Issues Back Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Protecting Immigrant Communities and Ensuring Due Process Stop collaboration of local and state law enforcement with ICE State and local law enforcement resources should not be used to enforce federal immigration law or support ICE terrorizing immigrant communities.
 Passing New York for All frees up local law enforcement to focus on keeping our communities safe and protects sanctuary cities from federal retaliation by mandating non-collaboration at the state level.
-Keep New York State out of immigration detention
-New Yorkers should not be profiting from the detention of immigrants and neither should our government.
+Keep New York State out of immigration detention New Yorkers should not be profiting from the detention of immigrants and neither should our government.
 Banning contracts for immigration detention by passing Dignity Not Detention will stop the use of local jails and prisons to hold immigrants and prevent private prisons from profiteering from ICE.
-Guarantee the right to legal representation in immigration court
-Too many of our immigrant neighbors cannot afford legal representation to defend themselves in removal proceedings including children.
+Guarantee the right to legal representation in immigration court Too many of our immigrant neighbors cannot afford legal representation to defend themselves in removal proceedings including children.
 The Access to Representation Act would ensure that everyone has their rights respected and a fair chance to defend themselves in immigration court the way they do in criminal cases.
+Email: info@annakelles.com

@@ -1,5 +1,4 @@
-Meet James
-James Walkinshaw is a lifelong Virginian who has dedicated his career to ensuring that our Commonwealth remains a great place to live, work, and raise a family.
+Skip to content Endorsements Contact Us Meet James Vote Priorities Endorsements Contact Us Meet James Vote Priorities Donate Meet James Donate Endorsements Vote Priorities Contact Us Meet James James Walkinshaw is a lifelong Virginian who has dedicated his career to ensuring that our Commonwealth remains a great place to live, work, and raise a family.
 He lives in Fairfax County with his wife, Yvette, and their son, Mateo.
 Walkinshaw grew up in Prince William County, where he graduated from Unity Reed High School before earning his bachelor’s degree from New York University.
 Before being elected to Congress, Walkinshaw built a strong record of results on the Fairfax County Board of Supervisors, delivering on public safety, transportation, the environment, affordability, and economic growth.
@@ -21,3 +20,6 @@ Walkinshaw is also fighting to protect health care and lower costs.
 When Republicans blocked action, he helped force a House vote to extend Affordable Care Act premium tax credits for 335,000 Virginians.
 He is pushing back against President Trump’s tariffs that raise prices and threaten Virginia jobs, while advancing bipartisan solutions to make housing more affordable across the Commonwealth and the nation.
 In his first year in office, Walkinshaw has delivered $13.4 million in federal funding for community projects across the region and built a constituent services operation that cuts through red tape and delivers real results, helping thousands of families access the benefits they deserve.
+Chip In to Fight Back.
+It’s up to all of us to stop Donald Trump’s corrupt and dangerous agenda.
+Donate today, and let’s take back Congress. $5 $25 $50 $250 $500 Other Contact Facebook X-twitter Instagram Youtube Threads Tiktok Paid for and Authorized by Walkinshaw for Congress Website built by BCom

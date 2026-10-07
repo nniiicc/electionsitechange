@@ -1,3 +1,4 @@
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now August 5, 2026 What Does Economic Development Really Mean?
 We hear the words "economic development" all the time.
 Usually there is a big number attached to it.
 Millions of dollars invested.
@@ -5,10 +6,8 @@ Sometimes billions.
 A new building.
 New construction.
 New tax revenue.
-And we point to those numbers and say, "Look, we're growing."
-But I think we're measuring the wrong thing.
-We can measure development in dollars and cents, but what we really need to measure is something much more personal:
-Is my life better?
+And we point to those numbers and say, "Look, we're growing." But I think we're measuring the wrong thing.
+We can measure development in dollars and cents, but what we really need to measure is something much more personal: Is my life better?
 Can I live the life I want to live with some sense of safety and security?
 Can I afford the necessities?
 Can I put food on the table, get to a doctor when I need one, find a safe place to live, and earn enough money to pay my bills without constantly worrying about which one has to wait?
@@ -46,3 +45,4 @@ I just want us to remember why we're doing it.
 The goal isn't development for the sake of development.
 The goal is a better life for the people who call Missouri home.
 That's how I think we should measure progress.
+Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

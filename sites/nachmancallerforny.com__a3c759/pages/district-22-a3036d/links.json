@@ -1,6 +1,30 @@
 [
-"https://nachmancallerforny.com/",
-"https://nachmancallerforny.com/district-22",
-"https://nachmancallerforny.com/policies",
-"https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+{
+"text": "ABOUT",
+"href": "https://www.nachmancallerforny.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.nachmancallerforny.com"
+},
+{
+"text": "DISTRICT 22",
+"href": "https://www.nachmancallerforny.com/district-22"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.nachmancallerforny.com"
+},
+{
+"text": "POLICIES",
+"href": "https://www.nachmancallerforny.com/policies"
+},
+{
+"text": "info@nachmancallerforny.com",
+"href": "mailto:info@nachmancallerforny.com"
+}
 ]

@@ -1,4 +1,5 @@
-Josh Umbaugh grew up in a small Midwestern town, the kind with one stoplight and cornfields stretching in every direction.
+Meet Josh Where’s Josh?
+Vote for Josh Donate Meet Josh Meet Josh Josh Umbaugh grew up in a small Midwestern town, the kind with one stoplight and cornfields stretching in every direction.
 Those early years taught him the value of hard work, honesty, and looking out for your neighbors.
 It was a close-knit community where people helped each other, and that spirit of connection has guided Josh ever since.
 After earning his Bachelor of Fine Arts, Josh married his wife and began a busy new chapter, moving nine times in ten years before finally putting down roots in Miamisburg.
@@ -14,8 +15,13 @@ Today, he sees a different landscape, one where fear, division, and political ga
 “I love my neighbors and my community,” Josh says.
 “I want to help facilitate the best outcomes possible.
 We need leadership that shows grace and empathy, not political games.
-That’s what I hope to bring moving forward.”
-That belief is what led Josh to run for State Representative.
+That’s what I hope to bring moving forward.” That belief is what led Josh to run for State Representative.
 He’s seen how disconnected politics has become from real life and wants to help restore a sense of trust and belonging in Ohio’s communities.
 For Josh, public service isn’t about power or partisanship; it’s about people.
 It’s about building a future where his daughter, and every child in Ohio, can grow up in a community that’s safe, kind, and free.
+Josh Umbaugh is running in Ohio House District 40, which includes includes Preble County, the western edge of Montgomery County including his hometown of Miamisburg, and the northern edge of Butler County including Seven Mile and Trenton.
+Not sure what district you're in?
+Click here to check the Secretary of State's website and find out.
+Ohio's House District 40 Facebook Paid for by Umbaugh for Ohio.
+Meet Josh Where’s Josh?
+Vote for Josh Donate

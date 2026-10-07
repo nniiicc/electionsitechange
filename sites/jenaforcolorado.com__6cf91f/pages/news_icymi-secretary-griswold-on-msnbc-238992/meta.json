@@ -1,9 +1,12 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.jenaforcolorado.com/news/icymi-secretary-griswold-on-msnbc",
+ "fingerprint": "f211e0c547af7d3f33776db83e4abd947faa0058",
+ "format": 3,
  "paid_for_by": "Paid for by Jena for Colorado",
  "title": "ICYMI: Secretary Griswold on MSNBC",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2025"
  ]
 }

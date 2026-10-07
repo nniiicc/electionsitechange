@@ -1,27 +1,2 @@
-Skip links
-Skip to primary navigation
-Skip to content
-Meet AJ
-Issues
-Accomplishments
-Constitutional Amendments
-Endorsements
-News
-Get Involved
-Donate
-Meet AJ
-Issues
-Accomplishments
-Constitutional Amendments
-Endorsements
-News
-Get Involved
-Donate
-Victoria County Animal Services Seeks Christmas Donations
-Amazon WishList
-Home
-Account
-Cart
-Search
-Loading...
-×
+Skip links Skip to primary navigation Skip to content Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Donate Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Donate Victoria County Animal Services Seeks Christmas Donations Amazon WishList Facebook-f Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Capital Contact: PO BOX 2910 Austin TX 76768-2910 512-463-0456 District Contact: PO BOX 1792 Victoria TX 77902 361-582-9712 Texas House of Representatives Website Pol.
+Ad Paid for by AJ Louderback Campaign Home Account Cart Search Adding {{itemName}} to cart Added {{itemName}} to cart Loading... ×

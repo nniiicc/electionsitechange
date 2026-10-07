@@ -1,3 +1,2 @@
-Plain Dealer Editorial Review Board finds that Judge Terri Jamison is more than up to the job.
-Read the article and listen to the endorsement interview here:
-https://www.cleveland.com/opinion/2022/09/terri-jamison-for-ohio-supreme-court-jan-1-term-endorsement-editorial.html
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison News / Plain Dealer Editorial Board Endorses Jamison 23 Sep Friday, 7:18 AM · 2022 Plain Dealer Editorial Board Endorses Jamison Plain Dealer Editorial Review Board finds that Judge Terri Jamison is more than up to the job.
+Read the article and listen to the endorsement interview here: https://www.cleveland.com/opinion/2022/09/terri-jamison-for-ohio-supreme-court-jan-1-term-endorsement-editorial.html Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

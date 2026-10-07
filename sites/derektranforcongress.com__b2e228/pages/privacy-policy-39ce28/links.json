@@ -1,12 +1,46 @@
 [
-"https://derektranforcongress.com/",
-"https://derektranforcongress.com/privacy-policy",
-"https://facebook.com/DerekTranForCongress",
-"https://flickr.com/photos/199233905@N05",
-"https://instagram.com/DerekTranCA",
-"https://secure.actblue.com/donate/derektran-website",
-"https://shop.derektranforcongress.com/",
-"https://tiktok.com/@DerekTranCA",
-"https://twitter.com/DerekTranCA45",
-"https://youtube.com/@DerekTranCA"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "Privacy Policy and Terms of Service",
+"href": "https://www.derektranforcongress.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://shop.derektranforcongress.com/"
+},
+{
+"text": "[image: Derek Tran for Congress]",
+"href": "https://www.derektranforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/DerekTranForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/199233905@N05/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/DerekTranCA"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@DerekTranCA"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DerekTranCA45"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@DerekTranCA"
+},
+{
+"text": "info@derektranforcongress.com",
+"href": "mailto:info@derektranforcongress.com"
+}
 ]

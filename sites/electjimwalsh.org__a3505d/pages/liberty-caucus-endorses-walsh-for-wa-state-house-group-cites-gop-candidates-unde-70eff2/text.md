@@ -1,15 +1,13 @@
-January 8, 2016 — the Republican Liberty Caucus of Washington has formally endorsed Jim Walsh for State Representative (Position 1) from the 19th Legislative District.
-Announcing the endorsement, RLC/WA Chairman Tony Stephens said of Walsh:
-We have searched your positions, recalled your past statements, looked into your political alliances and your service to this state in various capacities.
+Skip to content Home About News Contact Subscribe Campaign Videos Donate To Jim’s Campaign LIBERTY CAUCUS ENDORSES WALSH FOR WA STATE HOUSE: Group cites GOP candidate’s “understanding” and “service to this state” Posted on April 12, 2016 September 25, 2017 by abhays January 8, 2016 — the Republican Liberty Caucus of Washington has formally endorsed Jim Walsh for State Representative (Position 1) from the 19th Legislative District.
+Announcing the endorsement, RLC/WA Chairman Tony Stephens said of Walsh: We have searched your positions, recalled your past statements, looked into your political alliances and your service to this state in various capacities.
 We have determined you possess a maturity in the understanding of the philosophy of liberty and have demonstrated your ability to defend individual rights and have done so as an exemplary member of the Republican Party.
 Walsh—who serves a Vice Chairman of the Washington State Republican Party and Chairman of the Grays Harbor GOP—accepted the endorsement, adding that the RLC/WA’s commitment to principled limited government and personal liberty matches the attitudes of the 19th District well.
 Recent polls show that voters in the 19th have grown tired of the empty promises of Big Government politicians.
 From both major Parties.
 “We want Olympia to provide basic services, like safe neighborhoods, good roads and solid K-12 education,” says Walsh.
-“Beyond that, we mostly want to be left alone.”
-RLC/WA Chairman Tony Stephens agrees:
-We encourage those who value the first article of our State Constitution, which declares all political power is inherent in the people and governments exist to protect individual rights, to vote for Jim Wash if eligible, to work with Walsh’s campaign if able, and to promote Walsh to everyone around them.
+“Beyond that, we mostly want to be left alone.” RLC/WA Chairman Tony Stephens agrees: We encourage those who value the first article of our State Constitution, which declares all political power is inherent in the people and governments exist to protect individual rights, to vote for Jim Wash if eligible, to work with Walsh’s campaign if able, and to promote Walsh to everyone around them.
 Walsh believes a few, simple changes in public policy can ignite major economic development in the 19th District: “We’ve sort of sleepwalked through the past few decades, letting other parts of the state tell us what to do.
 The time has come to change that.” He plans to develop the District’s strengths—and expand its influence—by improving its use of ports, transportation infrastructure and natural resources.
-The RLC/WA’s endorsement concludes:
-We look forward to you becoming a member of the Washington House of Representatives, to your votes in that House which expand liberty and limit government, and to your influence among other members of the House to help them protect the rights of individuals in the great State of Washington.
+The RLC/WA’s endorsement concludes: We look forward to you becoming a member of the Washington House of Representatives, to your votes in that House which expand liberty and limit government, and to your influence among other members of the House to help them protect the rights of individuals in the great State of Washington.
+Posted in Uncategorized .
+Post navigation ← Jim Walsh – The secret… Legislature candidate says more voters… → Sign up to receive campaign news and updates Name * First Last Email * Paid for by Friends of Jim Walsh (R) · PO Box 2259 · Aberdeen, WA 98520 A SiteOrigin Theme

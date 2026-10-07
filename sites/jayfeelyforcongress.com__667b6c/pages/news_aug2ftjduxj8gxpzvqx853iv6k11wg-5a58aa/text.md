@@ -1,5 +1,3 @@
-How CD1 candidate Jay Feely plans to work across the aisle in Congress
-Jay Feely, a candidate for Arizona's 1st Congressional District, joined The Mike Broomhead Show to talk about how he plans to reach Independent voters in the district.
-Written By Blake Wilson
-Previous
-Next
+0 Skip to Content Meet Jay Issues MEDIA News Contact Donate Open Menu Close Menu Meet Jay Issues MEDIA News Contact Donate Open Menu Close Menu Meet Jay Issues MEDIA News Contact Donate How CD1 candidate Jay Feely plans to work across the aisle in Congress Jul 27 Written By Blake Wilson Jay Feely, a candidate for Arizona's 1st Congressional District, joined The Mike Broomhead Show to talk about how he plans to reach Independent voters in the district.
+WATCH VIDEO HERE Blake Wilson Previous Previous From NFL Kicker to Congressional Candidate in Arizona | Jay Feely on 13th & Park Next Next From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill SUBSCRIBE PAID FOR BY FEELY FOR CONGRESS © Copyright #.
+All rights reserved.

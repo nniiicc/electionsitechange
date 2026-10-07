@@ -1,10 +1,46 @@
 [
-"http://facebook.com/fritzfor90",
-"https://fritzfor90.com/",
-"https://fritzfor90.com/about",
-"https://fritzfor90.com/cart",
-"https://fritzfor90.com/issues",
-"https://fritzfor90.com/join",
-"https://fritzfor90.com/voting",
-"https://instagram.com/fritzfor90"
+{
+"text": "0",
+"href": "https://www.fritzfor90.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.fritzfor90.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.fritzfor90.com/join"
+},
+{
+"text": "Home",
+"href": "https://www.fritzfor90.com/"
+},
+{
+"text": "How Can You Help?",
+"href": "https://www.fritzfor90.com/join"
+},
+{
+"text": "Issues",
+"href": "https://www.fritzfor90.com/issues"
+},
+{
+"text": "Voting",
+"href": "https://www.fritzfor90.com/voting"
+},
+{
+"text": "[image: David Fritz for State Representative]",
+"href": "https://www.fritzfor90.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/fritzfor90"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fritzfor90/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@fritzfor90.com"
+}
 ]

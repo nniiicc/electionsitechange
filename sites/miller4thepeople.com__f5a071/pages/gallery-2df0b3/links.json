@@ -1,11 +1,42 @@
 [
-"https://facebook.com/Miller4AD5",
-"https://miller4thepeople.com/",
-"https://miller4thepeople.com/blog",
-"https://miller4thepeople.com/district-5",
-"https://miller4thepeople.com/gallery",
-"https://miller4thepeople.com/issues-1",
-"https://miller4thepeople.com/meet-brittney",
-"https://miller4thepeople.com/new-index",
-"https://miller4thepeople.com/search"
+{
+"text": "Contact",
+"href": "https://www.miller4thepeople.com/new-index"
+},
+{
+"text": "DISTRICT 5",
+"href": "https://www.miller4thepeople.com/district-5"
+},
+{
+"text": "Gallery",
+"href": "https://www.miller4thepeople.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.miller4thepeople.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.miller4thepeople.com/issues-1"
+},
+{
+"text": "Meet Brittney",
+"href": "https://www.miller4thepeople.com/meet-brittney"
+},
+{
+"text": "Miller4ThePeople",
+"href": "https://www.miller4thepeople.com/"
+},
+{
+"text": "Twitter",
+"href": "https://www.miller4thepeople.com/blog"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Miller4AD5/"
+},
+{
+"text": "[no text]",
+"href": "https://www.miller4thepeople.com/search"
+}
 ]

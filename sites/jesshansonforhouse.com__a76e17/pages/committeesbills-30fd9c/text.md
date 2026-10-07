@@ -1,22 +1,7 @@
-Committee Assignments
-Bills & Legislative Record
-- With the House of Representatives in tie between parties for only the second time in state history, here is what I was able to get done with bills I chief authored:
-- Bills Introduced: 53
-- Bills Heard in Committee: 39
-- Bills Passed into Law: 29
-- Overall hearing rate: 74%
-- Overall passage rate: 55%
-- A DFL Trifecta passed nation leading legislation to set Minnesota on a track to continue to be the best place to live, work, and raise a family.
-Here is waht I was able to get done with bills I cheif authored:
-- Bills Introduced: 70
-- Bills Heard in Committee: 42
-- Bills Passed into Law: 37
-- Overall hearing rate: 88%
-- Overall passage rate: 53%
-- As one of the only divided legislatures in the nation at the time, the DFL controlled House of Representatives and the GOP controlled Senate was a trying time to navigate the constraints of COVID and virtual legislating in my very first term.
-Here is waht I was able to get done with bills I cheif authored:
-- Bills Introduced: 37
-- Bills Heard in Committee: 28
-- Bills Passed into Law: 23
-- Overall hearing rate: 82%
-- Overall passage rate: 62%
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Committee Assignments 2025-2026 Committee Assignments Children & Families Finance & Policy (co-vice chair) Higher Education Finance & Policy (3rd term) Taxes (2025) Commerce Finance & Policy (2026) Conference Committees: 2025 Cannabis Finance & Policy Bill (HF1615) 2023-2024 Committee Assignments Economic Development (vice chair) Human Services Policy (2nd term) Higher Education Finance & Policy (2nd term) Children & Families Finance & Policy Conference Committees: 2023 Cannabis Finance & Policy Bill (HF100) 2024 Cannabis Policy Bill (HF4757) 2021-2022 Committee Assignments Human Services Finance & Policy Agriculture Finance & Policy Behavioral Health Policy Division Higher Education Finance and Policy Bills & Legislative Record 2025-2026 (94th Legislative Session) With the House of Representatives in tie between parties for only the second time in state history, here is what I was able to get done with bills I chief authored: Bills Introduced: 53 Bills Heard in Committee: 39 Bills Passed into Law: 29 Overall hearing rate: 74% Overall passage rate: 55% 2023-2024 (93rd Legislative Session) A DFL Trifecta passed nation leading legislation to set Minnesota on a track to continue to be the best place to live, work, and raise a family.
+Here is waht I was able to get done with bills I cheif authored: Bills Introduced: 70 Bills Heard in Committee: 42 Bills Passed into Law: 37 Overall hearing rate: 88% Overall passage rate: 53% 2021-2022 (92nd Legislative Session) As one of the only divided legislatures in the nation at the time, the DFL controlled House of Representatives and the GOP controlled Senate was a trying time to navigate the constraints of COVID and virtual legislating in my very first term.
+Here is what I was able to get done with bills I chief authored: Bills Introduced: 37 Bills Heard in Committee: 28 Bills Passed into Law: 23 Overall hearing rate: 82% Overall passage rate: 62% Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

@@ -1,11 +1,42 @@
 [
-"https://facebook.com/rep.john.a.torbett",
-"https://johntorbett.com/",
-"https://johntorbett.com/bio",
-"https://johntorbett.com/contact",
-"https://johntorbett.com/contribute",
-"https://johntorbett.com/issues",
-"https://johntorbett.com/letters-of-support",
-"https://johntorbett.com/links",
-"https://twitter.com/JohnTorbett"
+{
+"text": "BIO",
+"href": "https://johntorbett.com/bio/"
+},
+{
+"text": "CONTACT",
+"href": "https://johntorbett.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://johntorbett.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://johntorbett.com/"
+},
+{
+"text": "Issues",
+"href": "https://johntorbett.com/issues/"
+},
+{
+"text": "LETTERS OF SUPPORT",
+"href": "https://johntorbett.com/letters-of-support/"
+},
+{
+"text": "LINKS",
+"href": "https://johntorbett.com/links/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://johntorbett.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/JohnTorbett"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/rep.john.a.torbett%20"
+}
 ]

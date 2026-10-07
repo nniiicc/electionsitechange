@@ -1,11 +1,10 @@
-For immediate release: December 11, 2013
-(BOSTON) – Representative Mark Cusack (D-Braintree) has announced legislation to assist Braintree’s small businesses.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Representative Cusack Announces Legislation to help Braintree’s Small Businesses For immediate release: December 11, 2013 (BOSTON) – Representative Mark Cusack (D-Braintree) has announced legislation to assist Braintree’s small businesses.
 The legislation will increase the local option tax exemption on small business property from 10% to 20%, which will lead to greater savings for Braintree’s small business community.
 “This legislation is right for Braintree.
 It will not only help our businesses but make our entire community more competitive.
 This legislation will allow our businesses to reinvest and grow.” said Representative Mark Cusack.
-“I look forward to working with Mayor Sullivan and the Town Council to move this legislation forward and making Braintree a more attractive place to conduct business.”
-“I will be working with my colleagues to expand the definition of small business by increasing the property value limit as well as the employee threshold across the Commonwealth,” Representative Cusack added.
+“I look forward to working with Mayor Sullivan and the Town Council to move this legislation forward and making Braintree a more attractive place to conduct business.” “I will be working with my colleagues to expand the definition of small business by increasing the property value limit as well as the employee threshold across the Commonwealth,” Representative Cusack added.
 Under this plan, commercial property owners will receive a 20% reduction on their property taxes if they have less than 10 employees and their property is valued at less than $1 million.
 Currently, there are 142 businesses that qualify.
-####
+#### Newsroom Press Releases Previous Massachusetts House of Representatives Supports Bill to Expand Veterans’ Benefits Next State Representative, Mayor, and Police Chief Outline Plans for Additional State Funding; Braintree receives $100,000 for Public Safety Improvements Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

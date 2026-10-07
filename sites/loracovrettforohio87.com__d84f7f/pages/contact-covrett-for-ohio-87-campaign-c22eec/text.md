@@ -1,3 +1,1 @@
-Reach out with any questions or concerns you have about our district or if you would like to volunteer — we are going to need people making phone calls and knocking on doors to reach those 11,000 voters this fall.
-← Back
-Δ
+Skip to content Lora Covrett for Ohio House District 87 Contact Us Covrett For Ohio 87 District 87 Office Hours Lora’s Policies US 23-71 Bypass N211 Alignment Contact Us Reach out with any questions or concerns you have about our district or if you would like to volunteer — we are going to need people making phone calls and knocking on doors to reach those 11,000 voters this fall. ← Back Thank you for your response. ✨ Name (required) Email (required) Message Contact Covrett for Ohio 87 Campaign Δ Lora Covrett for Ohio House District 87 Proudly powered by WordPress

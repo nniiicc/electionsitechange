@@ -1,7 +1,9 @@
 {
  "description": "Maine District 150 encompasses all of Eliot and portions of Kittery and South Berwick. Not sure what district you're in? Use your address to find out",
  "final_url": "https://www.micheleformaine.com/find-my-district",
- "paid_for_by": null,
+ "fingerprint": "c2c92e4abfe8393d274004cfc86308b09c25c470",
+ "format": 3,
+ "paid_for_by": "authorized by Michele for Maine bottom of page",
  "title": "Michele Meyer | District 150 | Find my District",
  "years_mentioned": [
   "2026"

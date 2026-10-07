@@ -1,11 +1,50 @@
 [
-"https://joanfitzgeraldforassembly.com/",
-"https://joanfitzgeraldforassembly.com/about",
-"https://joanfitzgeraldforassembly.com/cart",
-"https://joanfitzgeraldforassembly.com/contact",
-"https://joanfitzgeraldforassembly.com/district-map-1",
-"https://joanfitzgeraldforassembly.com/events",
-"https://joanfitzgeraldforassembly.com/home",
-"https://joanfitzgeraldforassembly.com/volunteer",
-"https://secure.actblue.com/donate/joan-fitzgerald-for-assembly-1"
+{
+"text": "0",
+"href": "https://www.joanfitzgeraldforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.joanfitzgeraldforassembly.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.joanfitzgeraldforassembly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/joan-fitzgerald-for-assembly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joanfitzgeraldforassembly.com/district-map-1"
+},
+{
+"text": "Events",
+"href": "https://www.joanfitzgeraldforassembly.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.joanfitzgeraldforassembly.com/home"
+},
+{
+"text": "Request a yard sign/volunteer",
+"href": "https://www.joanfitzgeraldforassembly.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joanfitzgeraldforassembly.com/volunteer"
+},
+{
+"text": "[image: Joan Fitzgerald for Assembly]",
+"href": "https://www.joanfitzgeraldforassembly.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.joanfitzgeraldforassembly.com/home"
+},
+{
+"text": "info@joanfitzgeraldforassembly.com",
+"href": "mailto:info@joanfitzgeraldforassembly.com"
+}
 ]

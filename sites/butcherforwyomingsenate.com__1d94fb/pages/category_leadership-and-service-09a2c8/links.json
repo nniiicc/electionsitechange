@@ -1,17 +1,74 @@
 [
-"https://action.butcherforwyomingsenate.com/volunteer",
-"https://butcherforwyomingsenate.com/",
-"https://butcherforwyomingsenate.com/author/mdbutcher",
-"https://butcherforwyomingsenate.com/category/campaign",
-"https://butcherforwyomingsenate.com/category/leadership-and-service",
-"https://butcherforwyomingsenate.com/category/stewardship-conservatism",
-"https://butcherforwyomingsenate.com/donate",
-"https://butcherforwyomingsenate.com/experience-humility-public-service",
-"https://butcherforwyomingsenate.com/melissas-story",
-"https://butcherforwyomingsenate.com/my-pledge-to-wyoming",
-"https://butcherforwyomingsenate.com/support-from-across-wyoming",
-"https://butcherforwyomingsenate.com/two-different-approaches-to-wyomings-future",
-"https://butcherforwyomingsenate.com/updates",
-"https://butcherforwyomingsenate.com/where-i-stand",
-"https://facebook.com/profile.php?id=61583041353865"
+{
+"text": "About",
+"href": "https://butcherforwyomingsenate.com/melissas-story/"
+},
+{
+"text": "Campaign",
+"href": "https://butcherforwyomingsenate.com/category/campaign/"
+},
+{
+"text": "Donate",
+"href": "https://butcherforwyomingsenate.com/donate/"
+},
+{
+"text": "Experience, Humility and Public Service",
+"href": "https://butcherforwyomingsenate.com/experience-humility-public-service/"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Leadership and Service",
+"href": "https://butcherforwyomingsenate.com/category/leadership-and-service/"
+},
+{
+"text": "Pledge",
+"href": "https://butcherforwyomingsenate.com/my-pledge-to-wyoming/"
+},
+{
+"text": "Read More",
+"href": "https://butcherforwyomingsenate.com/experience-humility-public-service/"
+},
+{
+"text": "Read More",
+"href": "https://butcherforwyomingsenate.com/two-different-approaches-to-wyomings-future/"
+},
+{
+"text": "Stewardship Conservatism",
+"href": "https://butcherforwyomingsenate.com/category/stewardship-conservatism/"
+},
+{
+"text": "Support",
+"href": "https://butcherforwyomingsenate.com/support-from-across-wyoming/"
+},
+{
+"text": "Two Different Approaches to Wyoming’s Future",
+"href": "https://butcherforwyomingsenate.com/two-different-approaches-to-wyomings-future/"
+},
+{
+"text": "Updates",
+"href": "https://butcherforwyomingsenate.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "Where I Stand",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/"
+},
+{
+"text": "[image]",
+"href": "https://butcherforwyomingsenate.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61583041353865"
+},
+{
+"text": "mdbutcher",
+"href": "https://butcherforwyomingsenate.com/author/mdbutcher/"
+}
 ]

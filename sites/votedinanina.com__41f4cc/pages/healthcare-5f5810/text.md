@@ -1,9 +1,8 @@
-Healthcare as a Human Right
-- Fight for BadgerCare For All so every Wisconsinite can access affordable, comprehensive coverage through a public option.
-- Finally accept federal dollars to expand Medicaid.
-- Crack down on prescription drug costs and hold pharmaceutical companies accountable for taking advantage of consumers.
-- Require that health insurance companies regulated by the state disclose data on claim denials and appeals.
-- Advocate for paid medical leave for all workers.
+0 Skip to Content Home About Policy Endorsements Yard Signs Volunteer Mutual Aid Donate Open Menu Close Menu Home About Policy Endorsements Yard Signs Volunteer Mutual Aid Donate Open Menu Close Menu Home About Policy Endorsements Yard Signs Volunteer Mutual Aid Donate Healthcare as a Human Right Fight for BadgerCare For All so every Wisconsinite can access affordable, comprehensive coverage through a public option.
+Finally accept federal dollars to expand Medicaid .
+Crack down on prescription drug costs and hold pharmaceutical companies accountable for taking advantage of consumers.
+Require that health insurance companies regulated by the state disclose data on claim denials and appeals.
+Advocate for paid medical leave for all workers.
 For most of my life, I have gone without health insurance because I simply couldn't afford it.
 I live in constant fear that one accident or medical emergency could send me into bankruptcy.
 Too many Wisconsinites know exactly what this feels like.
@@ -13,3 +12,5 @@ Families should never have to skip appointments or ration medication because of 
 I will push for laws that crack down on the drug companies that are forcing Wisconsinites to choose between getting their prescriptions and putting food on the table.
 Healthcare should relieve stress, not add to it.
 I will fight every day to ensure that our state treats it as a human right.
+DONATE Paid for by Dina Nina for Wisconsin PO Box 1834 Madison WI 53701 Dina Nina for Wisconsin is a grassroots, people-powered campaign.
+We do not accept contributions from corporations or corporate PACs.

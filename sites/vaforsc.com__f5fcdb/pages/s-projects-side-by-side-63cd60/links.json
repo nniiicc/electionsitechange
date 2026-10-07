@@ -1,12 +1,66 @@
 [
-"https://bonfire.com/store/vaforsc",
-"https://facebook.com/vaforsc",
-"https://instagram.com/vaforsc",
-"https://mobilize.us/spcdp/event/1002319",
-"https://secure.actblue.com/donate/runladiesrun26",
-"https://secure.anedot.com/vaforsc/donate",
-"https://vaforsc.com/",
-"https://vaforsc.com/about-5",
-"https://vaforsc.com/contact-8",
-"https://vaforsc.com/s-projects-side-by-side"
+{
+"text": "About",
+"href": "https://www.vaforsc.com/about-5"
+},
+{
+"text": "Contact",
+"href": "https://www.vaforsc.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vaforsc/donate"
+},
+{
+"text": "Events",
+"href": "https://www.vaforsc.com/s-projects-side-by-side"
+},
+{
+"text": "Home",
+"href": "https://www.vaforsc.com"
+},
+{
+"text": "P. O. Box 394, Duncan, SC 29334",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "Shop Merch",
+"href": "https://www.bonfire.com/store/vaforsc/"
+},
+{
+"text": "Sign Up",
+"href": "https://secure.actblue.com/donate/runladiesrun26"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/spcdp/event/1002319/"
+},
+{
+"text": "Values & Vision",
+"href": "https://www.vaforsc.com"
+},
+{
+"text": "Virginia McLean for SC House District 36",
+"href": "https://www.vaforsc.com"
+},
+{
+"text": "Voter Information",
+"href": "https://www.vaforsc.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/vaforsc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vaforsc"
+},
+{
+"text": "info@spartanburgdemocrats.com",
+"href": "mailto:info@spartanburgdemocrats.com"
+},
+{
+"text": "mcleanforsc@gmail.com",
+"href": "mailto:info@mysite.com"
+}
 ]

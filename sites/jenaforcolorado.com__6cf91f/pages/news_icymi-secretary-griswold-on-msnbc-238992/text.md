@@ -1,7 +1,7 @@
-PRESS RELEASE
-ICYMI: Secretary Griswold on MSNBC
-Earlier, Secretary Jena Griswold joined MSNBC to talk about Trump's ongoing attacks on our democracy.
+Skip navigation menu About Issues Endorsements Volunteer Contact News Campaign Shop Donate About Issues Endorsements Volunteer Contact News Campaign Shop Donate PRESS RELEASE Griswold campaign releases campaign ad PRESS RELEASE Poll Shows Griswold with dominant position in Democratic Attorney General Primary PRESS RELEASE EMILYs List, 30 Colorado Leaders and Organizations Endorse Griswold for Attorney General PRESS RELEASE ICYMI: Secretary Griswold on MSNBC PRESS RELEASE ICYMI: Jena Griswold Fights Trump’s “direct attack” on Democracy PRESS RELEASE Griswold announces 40 more endorsements in bid for attorney general PRESS RELEASE Griswold Breaks Fundraising record PRESS RELEASE New Poll Shows Griswold with Commanding Lead PRESS RELEASE Griswold announces 30 new endorsements PRESS RELEASE Griswold Campaign Sees Unprecedented Momentum in First 24 Hours PRESS RELEASE Jena Griswold Launches Campaign for Attorney General Oct 29 2025 PRESS RELEASE ICYMI: Secretary Griswold on MSNBC Earlier, Secretary Jena Griswold joined MSNBC to talk about Trump's ongoing attacks on our democracy.
 The Secretary told Katy, "Trump has attacked our democracy since before he was elected in 2016, and his lies have incited violence and insurrection.
 But we've beaten him before, and we can beat him again.
-I'm staying in this fight."
-You can find the interview here.
+I'm staying in this fight." You can find the interview here .
+Privacy Policy Powered by RUN! website builder Paid for by Jena for Colorado.
+Registered Agent Rachel Gordon.
+You need to enable JavaScript to run this app.

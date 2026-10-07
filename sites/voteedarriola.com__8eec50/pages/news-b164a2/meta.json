@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.voteedarriola.com/news",
- "paid_for_by": null,
+ "fingerprint": "55b661122f94e3f386b69ea55e909570278c1087",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Ed For Precinct 3",
  "years_mentioned": [
   "2026"

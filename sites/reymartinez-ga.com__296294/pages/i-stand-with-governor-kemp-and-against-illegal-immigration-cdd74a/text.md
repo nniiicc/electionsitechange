@@ -1,4 +1,4 @@
-As reported in The Epoch Times, on February 13th, Governor Kemp announced an estimated 15-20 more National Guardsmen would be deployed to Texas to set up a forward operating base and further assist Gov.
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate I Stand With Governor Kemp and Against Illegal Immigration February 16, 2024 Rey Martinez The Latest 0 As reported in The Epoch Time s , on February 13th, Governor Kemp announced an estimated 15-20 more National Guardsmen would be deployed to Texas to set up a forward operating base and further assist Gov.
 Greg Abbott in his efforts to stop the flow of illegal immigrants across the border.
 This action was taken after both the Georgia House and Georgia Senate passed resolutions condemning the Biden Administration for its handling of the southern border.
 I voted in favor of the resolution and I was not surprised that most of my Democrat colleagues voted against it.
@@ -9,15 +9,18 @@ But by their actions- or lack of them- Democrats have shown me they don’t care
 It seems their only concern is to allow as many illegal immigrants into the country as part of a plan to make sure Republicans don’t win elections.
 I guess if a few hundred thousand people die in the process, so be it.
 If you read The Epoch Times article linked above, you’ll see that there was quite a bit of debate before the House voted on the resolution.
-And, as stated in the article, “In an attempt to pander to the Hispanic community, Rep.
-Park Cannon gave her comments completely in Spanish and ended by asking in English, “Did anyone understand what I just said?”
-The Times went on to report, “Rep.
-Rey Martinez, born in Puerto Rico to Cuban immigrants, denounced her speech, saying, ‘I’m not going to pander to my community.
+And, as stated in the article, “ In an attempt to pander to the Hispanic community, Rep.
+Park Cannon gave her comments completely in Spanish and ended by asking in English, “Did anyone understand what I just said?” The Times went on to report, “ Rep.
+Rey Martinez, born in Puerto Rico to Cuban immigrants, denounced her speech, saying, ‘ I’m not going to pander to my community.
 I respect this body.
 I respect the state.
 And in this country, we speak English.
 Some of these are not my Latino friends that are the only ones that are coming in that border,’ he said, highlighting 24,000 encounters with Chinese border crossers in 2023 and 9,000 so far in 2024.
-Of that combined total, 29,000 were single adults.”
-I am proud of my Hispanic heritage and fully support immigrants of all nationalities that are in our country legally.
+Of that combined total, 29,000 were single adults .” I am proud of my Hispanic heritage and fully support immigrants of all nationalities that are in our country legally.
 But I will not pander to any group.
-I’ll leave that to my Democrat colleagues.
+I’ll leave that to my Democrat colleagues. illegal immigration pandering Rey Martinez Previous FY 2025 Balanced Budget Next Illegal Immigrant Crime- A National Crisis Be the first to comment Leave a Reply Cancel reply Your email address will not be published.
+Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

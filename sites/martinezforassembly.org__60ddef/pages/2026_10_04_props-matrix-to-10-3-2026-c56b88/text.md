@@ -1,14 +1,2 @@
-Skip to content
-Facebook
-Mail
-Instagram
-X
-News
-About
-Contact Me
-Gallery
-Give
-Prop’s Matrix to 10/3/2026
-October 4, 2026
-Mark Bustamonte
-Uncategorized
+Skip to content Facebook Mail Instagram X News About Contact Me Gallery Give Prop’s Matrix to 10/3/2026 October 4, 2026 Mark Bustamonte Uncategorized WHAT’S GOING ON?
+Ballot Statement – English Do NOT vote for me if you want: High taxesHigh… Read more : Ballot Statement – English Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de… Read more : Ballot Statement – Spanish SOCIAL MEDIA Facebook Mail Instagram X Email: martinezforassembly@gmail.com Phone: (562) 347-7202 Home About News Paid for by: Jessica Martinez for 56th Assembly 2026 FPPC #: 1479619

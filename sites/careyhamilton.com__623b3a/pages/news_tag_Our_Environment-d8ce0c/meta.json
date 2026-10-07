@@ -1,7 +1,16 @@
 {
  "description": "",
  "final_url": "https://www.careyhamilton.com/news?tag=Our+Environment",
- "paid_for_by": null,
- "title": "News \u2014 Carey Hamilton",
- "years_mentioned": []
+ "fingerprint": "abb19d7136245b0b8c30e310baeaf0c79f84d7bf",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Carey Hamilton",
+ "title": "News — Carey Hamilton",
+ "years_mentioned": [
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022"
+ ]
 }

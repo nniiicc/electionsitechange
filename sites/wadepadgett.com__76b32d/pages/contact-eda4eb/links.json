@@ -1,6 +1,34 @@
 [
-"https://wadepadgett.com/",
-"https://wadepadgett.com/about",
-"https://wadepadgett.com/contact",
-"https://wadepadgett.com/donate"
+{
+"text": "706-799-7300",
+"href": "tel:706-799-7300"
+},
+{
+"text": "About",
+"href": "https://wadepadgett.com/about"
+},
+{
+"text": "Contact",
+"href": "https://wadepadgett.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://wadepadgett.com/donate"
+},
+{
+"text": "Home",
+"href": "https://wadepadgett.com"
+},
+{
+"text": "[image: Judge Wade Padgett Logo - White]",
+"href": "https://wadepadgett.com"
+},
+{
+"text": "[image: Judge Wade Padgett Logo]",
+"href": "https://wadepadgett.com"
+},
+{
+"text": "wade@wadepadgett.com",
+"href": "mailto:wade@wadepadgett.com"
+}
 ]

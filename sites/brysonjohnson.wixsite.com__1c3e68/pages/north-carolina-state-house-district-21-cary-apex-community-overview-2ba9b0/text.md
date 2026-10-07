@@ -1,35 +1,19 @@
-North Carolina State House District 21:
-Cary and Apex’s Thriving Community
-North Carolina State House District 21, located in the growing communities of Cary and Apex, North Carolina, represents one of the most vibrant and dynamic regions in the state.
-Known for its strong economy, diverse population, and family-friendly neighborhoods, District 21 in Wake County reflects the spirit of the American dream—where Cary and Apex Voter families, professionals, and entrepreneurs come to build opportunity and community.
-A Diverse Community in Cary and Apex
-One of the defining strengths of NC House District 21 is its cultural diversity.
-Nearly 40% of the population in parts of Cary and Apex identifies as Asian, bringing extraordinary cultural richness, entrepreneurship, and global perspective to the district.
-Families from across Asia and around the world have chosen Cary and Apex in Wake County as a place to raise their children, grow businesses, and pursue opportunity.
-Their contributions can be seen in the district’s thriving technology sector, small business community, and vibrant cultural traditions.
-This diversity is one of the reasons North Carolina House District 21 continues to grow and prosper.
-Families and Professionals Building the American Dream
-Families are the backbone of North Carolina House District 21.
-Parents are drawn to the area because of strong schools, safe neighborhoods, and abundant parks and recreation opportunities.
-Professionals working in technology, healthcare, cybersecurity, research, and education also call Cary and Apex home.
-The district benefits from its proximity to the Research Triangle, one of the most innovative economic regions in the United States.
-Together, these families and professionals represent the modern American dream—people working hard to build better lives for themselves and their children.
-A Thriving Business Environment
-Small businesses and entrepreneurs play a vital role in NC State House District 21.
+top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
+Blog Asian Americans for Bryson Bryson refuses all PAC money.
+When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
+North Carolina State House District 21: Cary and Apex’s Thriving Community ​​North Carolina State House District 21, located in the growing communities of Cary and Apex, North Carolina, represents one of the most vibrant and dynamic regions in the state.
+Known for its strong economy, diverse population, and family-friendly neighborhoods, District 21 in Wake County reflects the spirit of the American dream—where Cary and Apex Voter families, professionals, and entrepreneurs come to build opportunity and community.​ ​​​​​​​​​​​​​​​​A Diverse Community in Cary and Apex One of the defining strengths of NC House District 21 is its cultural diversity.
+Nearly 40% of the population in parts of Cary and Apex identifies as Asian, bringing extraordinary cultural richness, entrepreneurship, and global perspective to the district. ​ Families from across Asia and around the world have chosen Cary and Apex in Wake County as a place to raise their children, grow businesses, and pursue opportunity.
+Their contributions can be seen in the district’s thriving technology sector, small business community, and vibrant cultural traditions. ​ This diversity is one of the reasons North Carolina House District 21 continues to grow and prosper.
+Families and Professionals Building the American Dream Families are the backbone of North Carolina House District 21.
+Parents are drawn to the area because of strong schools, safe neighborhoods, and abundant parks and recreation opportunities. ​ Professionals working in technology, healthcare, cybersecurity, research, and education also call Cary and Apex home.
+The district benefits from its proximity to the Research Triangle, one of the most innovative economic regions in the United States. ​ Together, these families and professionals represent the modern American dream—people working hard to build better lives for themselves and their children.
+A Thriving Business Environment Small businesses and entrepreneurs play a vital role in NC State House District 21.
 From family-owned restaurants and retail shops to fast-growing technology startups, the district’s economy reflects the innovation and determination of its residents.
-The Cary and Apex business environment thrives thanks to:
-- A highly educated workforce
-- Access to Research Triangle Park
-- Strong community support for small businesses
-- A culture of innovation and entrepreneurship
-These factors make District 21 one of the most economically dynamic areas in North Carolina.
-Leadership That Respects Every Culture
-Bryson Johnson believes the diversity of District 21 is one of its greatest strengths.
-With a significant Asian population and residents from many backgrounds, the district deserves leadership that respects every culture and values every voice.
-Bryson believes no community should ever be treated as a political bargaining chip or taken for granted.
+The Cary and Apex business environment thrives thanks to: A highly educated workforce Access to Research Triangle Park Strong community support for small businesses A culture of innovation and entrepreneurship These factors make District 21 one of the most economically dynamic areas in North Carolina.
+Leadership That Respects Every Culture Bryson Johnson believes the diversity of District 21 is one of its greatest strengths. ​ With a significant Asian population and residents from many backgrounds, the district deserves leadership that respects every culture and values every voice. ​ Bryson believes no community should ever be treated as a political bargaining chip or taken for granted.
 Instead, District 21 should be represented by someone who believes all residents—regardless of background—are part of the same American story.
 His vision is simple: people from every culture, profession, and walk of life rising together as Americans while building a stronger North Carolina.
-The Future of North Carolina House District 21
-As Cary and Apex continue to grow, North Carolina House District 21 will remain a critical part of Wake County’s future.
-Families want responsible leadership that supports opportunity, strengthens the economy, and keeps the district one of the best places in America to live and raise a family.
-The story of NC State House District 21 is still being written—by the families, workers, entrepreneurs, and community leaders who believe in opportunity and the promise of the American dream.
+The Future of North Carolina House District 21 As Cary and Apex continue to grow, North Carolina House District 21 will remain a critical part of Wake County’s future.
+Families want responsible leadership that supports opportunity, strengthens the economy, and keeps the district one of the best places in America to live and raise a family. ​ The story of NC State House District 21 is still being written—by the families, workers, entrepreneurs, and community leaders who believe in opportunity and the promise of the American dream.
+Bryson Johnson - FOR NC STATE HOUSE- DISTRICT 21 PAID FOR BY COMMITTEE TO ELECT BRYSON JOHNSON © # by Committee to Elect Bryson Johnson BrysonForNC@gmail.com Call or Text: 919-396-4244 bottom of page

@@ -1,57 +1,42 @@
-1.
-Overview
-Senator Judith Zaffirini Campaign (“we,” “us,” or “our”) is committed to protecting the privacy of supporters, volunteers, and visitors to this website.
+Meet Judith Zaffirini On the Issues Economy & Jobs Education Faith and Family Health Care Videos Find My Polling Station Donate 1.
+Overview Senator Judith Zaffirini Campaign (“we,” “us,” or “our”) is committed to protecting the privacy of supporters, volunteers, and visitors to this website.
 This Privacy Policy describes how we collect, use, disclose, and safeguard information when you visit judithzaffirini.com or engage with the Senator Judith Zaffirini campaign.
 2.
-Information We Collect
-We may collect the following categories of information:
-- Contact Information: Name, email address, phone number, and ZIP code provided through our volunteer, endorsement, yard sign, and email signup forms.
-- Website Usage Data: IP address, browser type, device information, pages visited, and referring URLs collected automatically through standard web technologies.
-- Communications: Records of correspondence between you and the campaign, including messages submitted through our contact forms.
+Information We Collect We may collect the following categories of information: Contact Information: Name, email address, phone number, and ZIP code provided through our volunteer, endorsement, yard sign, and email signup forms.
+Website Usage Data: IP address, browser type, device information, pages visited, and referring URLs collected automatically through standard web technologies.
+Communications: Records of correspondence between you and the campaign, including messages submitted through our contact forms.
 3.
-How We Use Your Information
-- To respond to inquiries and coordinate volunteer activities
-- To send campaign updates, event invitations, and voter contact messages
-- To deliver yard signs, endorsements, and other campaign materials
-- To improve our website and outreach efforts
-- To comply with legal obligations, including Oregon election law
-4.
-Information Sharing & Disclosure
-We do not sell personal information.
-We may share information in the following circumstances:
-- Service Providers: With trusted vendors who assist in hosting, email delivery, and campaign operations, bound by confidentiality obligations.
-- Legal Compliance: When required by law, subpoena, or government inquiry, including Oregon election reporting requirements.
-- Campaign Coordination: With affiliated political committees or organizations as permitted by law.
+How We Use Your Information To respond to inquiries and coordinate volunteer activities To send campaign updates, event invitations, and voter contact messages To deliver yard signs, endorsements, and other campaign materials To improve our website and outreach efforts To comply with legal obligations, including Oregon election law 4.
+Information Sharing & Disclosure We do not sell personal information.
+We may share information in the following circumstances: Service Providers: With trusted vendors who assist in hosting, email delivery, and campaign operations, bound by confidentiality obligations.
+Legal Compliance: When required by law, subpoena, or government inquiry, including Oregon election reporting requirements.
+Campaign Coordination: With affiliated political committees or organizations as permitted by law.
 5.
-Third-Party Services
-Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+Third-Party Services Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
 Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share your Personal Information with third parties for marketing purposes without your consent.
 Our website may contain links to third-party websites or services.
 We are not responsible for the privacy practices or content of those third parties.
 We encourage you to review their privacy policies when accessing their websites or services.
 6.
-Data Security
-We implement reasonable administrative, technical, and physical safeguards designed to protect the information we handle.
+Data Security We implement reasonable administrative, technical, and physical safeguards designed to protect the information we handle.
 Access is limited to authorized campaign personnel.
 While we take reasonable measures to protect your information, no method of transmission or storage is completely secure.
 7.
-Data Retention
-We retain supporter and volunteer data for the duration necessary to fulfill campaign purposes and comply with applicable record-keeping requirements under Oregon and federal election law.
+Data Retention We retain supporter and volunteer data for the duration necessary to fulfill campaign purposes and comply with applicable record-keeping requirements under Oregon and federal election law.
 Website usage data is retained for analytical purposes and periodically purged.
 8.
-Your Rights
-You may request access to, correction of, or deletion of personal information we hold about you by contacting us through the Get Involved page.
+Your Rights You may request access to, correction of, or deletion of personal information we hold about you by contacting us through the Get Involved page.
 Please note that certain data processed in connection with political campaigns may be subject to public records laws and may not be eligible for deletion.
 9.
-Third-Party Links
-Our website may contain links to third-party websites or services.
+Third-Party Links Our website may contain links to third-party websites or services.
 We are not responsible for the privacy practices of those third parties.
 We encourage you to review their privacy policies.
 10.
-Changes to This Policy
-We may update this Privacy Policy from time to time.
+Changes to This Policy We may update this Privacy Policy from time to time.
 Changes will be posted on this page with an updated effective date.
 Continued use of our website constitutes acceptance of the revised policy.
 11.
-Contact Us
-If you have questions about this Privacy Policy or our data practices, please contact us at campaign@judithzaffirini.com or 512-964-6735, or through the Get Involved page.
+Contact Us If you have questions about this Privacy Policy or our data practices, please contact us at campaign@judithzaffirini.com or 512-964-6735, or through the Get Involved page.
+Find My Polling Station Home On The Issues Meet Judith Zaffirini Videos Donate Pol.
+Adv. paid for by Senator Judith Zaffirini Campaign. campaign@judithzaffirini.com 512-964-6735 All rights reserved.
+Meet Judith Zaffirini On the Issues Economy & Jobs Education Faith and Family Health Care Videos Find My Polling Station Donate

@@ -1,7 +1,9 @@
 {
  "description": "Official campaign site for NYS Assemblyman Charles Fall",
  "final_url": "https://www.charlesfallforny.com/",
- "paid_for_by": "Paid for by Charles Fall for NY | Managed by CreatEscape bottom of page",
+ "fingerprint": "c633ea4d2415ca8be30fee0d50a7b7219464d997",
+ "format": 3,
+ "paid_for_by": "Paid for by Charles Fall for NY",
  "title": "61st Assembly District | Charles Fall for NY | New York",
  "years_mentioned": []
 }

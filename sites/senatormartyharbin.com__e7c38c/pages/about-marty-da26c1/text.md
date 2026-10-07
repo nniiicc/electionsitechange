@@ -1,6 +1,5 @@
-About
-Marty Harbin
-My name is Marty Harbin.
+Home About Marty Issues Contact Us Donate Today DONATE NOW!
+Home About Marty Issues Contact Us Donate Today Book an Audit 10 Street Name, City Name Country, Zip Code 555-555-5555 myemail@mailservice.com About Marty Harbin My name is Marty Harbin.
 I am a husband, a father, a grandfather, a local businessman, and a Christian.
 I also have the honor of representing you in the State Senate.
 This community is my home, and I’m passionate about continuing to serve the wonderful people here with hard work and principle-centered leadership.
@@ -26,8 +25,7 @@ As a small business owner myself, I know firsthand that getting government out o
 I humbly ask for your vote once again with a simple pledge to continue to be your bold, conservative champion fighting for you and our conservative values in the State Senate.
 I ask for your prayers, your support and your vote on May 22nd.
 God bless you, the great State of Georgia and our United States.
-Thank you,
-Marty Harbin has served in the Georgia State Senate since 2015.
+Thank you, Marty Harbin has served in the Georgia State Senate since 2015.
 He graduated from Georgia State University in 1977 then started The Harbin Agency, growing the insurance and investments business from two employees to currently 22 team members.
 He and his wife, Debbie, were married in 1978 and have lived in Tyrone for 40 years.
 They have six children and nine grandchildren, with another precious one on the way.
@@ -39,17 +37,9 @@ In 2008 he served on Huckabee’s Presidential Team100.
 A well-known conservative leader, Marty gained broad support in conservative Republican circles for his bold speeches on reducing taxes and reining in an out of control federal government.
 He has served in various leadership positions within the Republican Party including Fayette County District Representative, 3rd Vice Chair and 1st Vice Chair of the Third Congressional District.
 In 2012, he served as a delegate to the National Republican Convention in Tampa.
-Serving in the Georgia General Assembly on the following committees:
-- Government Oversight (Vice Chair)
-- Natural Resources & the Environment
-- State & Local Government
-- Insurance and Labor
-- Reapportionment & Redistricting
-Donate Today
-Senator Marty Harbin is fighting for you.
+Serving in the Georgia General Assembly on the following committees: ﻿ Government Oversight (Vice Chair) Natural Resources & the Environment State & Local Government Insurance and Labor Reapportionment & Redistricting Donate Today Senator Marty Harbin is fighting for you.
 He is fighting for Georgia, and he needs your help.
-"A" Rating from NRA
-(Lifetime Member)
-Issues that matter to you!
+DONATE NOW "A" Rating from NRA (Lifetime Member) Issues that matter to you!
 Senator Marty Harbin is fighting for everyday Georgians.
 He is fighting for the issues that matter to you!
+LEARN MORE ABOUT ISSUES → Paid For By Friends Of Marty Harbin Senator Marty Harbin Campaign 215 Greencastle Road, Tyrone, Georgia 30290 • (404) 500-9925 Home About Marty Issues Donate Today © # Senator Marty Harbin Campaign

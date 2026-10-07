@@ -1,26 +1,12 @@
-Upcoming & Past Events
-OCTOBER 7TH FILM
-MUSEUM & ARTIFACTS
-ISRAEL EXPERIENCE
-A Night of Prayer & Remembrance
-October 7 | Three Years
-We remember, We will not look away.
-Remember, Soar, Stand With Israel
-Date: Wednesday, October 7, 2026
-Time: 6-10 PM
-Speaker Programs @ 7pm, 8pm and 9pm
-Location: Legacy International Center
-875 Hotel Circle South, San Diego, CA
-SOAR OVER ISRAEL 4D
-Every Thursday from 5:30 PM to 6:30 PM.
+0 Skip to Content Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Folder: Meet Art Back About Art Candidate Comparison Photo Gallery 250 Club Folder: Media Back News Events Issues Endorsements District Map Get Involved English Back DONATE Upcoming & Past Events OCTOBER 7TH FILM MUSEUM & ARTIFACTS ISRAEL EXPERIENCE A Night of Prayer & Remembrance October 7 | Three Years We remember, We will not look away.
+Remember, Soar, Stand With Israel Date: Wednesday, October 7, 2026 Time: 6-10 PM Speaker Programs @ 7pm, 8pm and 9pm Location: Legacy International Center 875 Hotel Circle South, San Diego, CA FREE REGISTRATION HERE SOAR OVER ISRAEL 4D Every Thursday from 5:30 PM to 6:30 PM.
 Volunteers, donors, supporters, and friends of the campaign are invited to join us for campaign updates, upcoming events, volunteer opportunities, voter outreach plans, and ways you can help us build momentum across Senate District 18.
 This is also a great opportunity to hear what’s happening behind the scenes, ask questions, and stay connected with the campaign team.
-National Apostolic Christian Leadership Conference
-Art Hodges will be a special guest speaker at this upcoming conference in St.
+JOIN THE TOWN HALL ZOOM CALL Every Monday from 12:00 PM to 1:00 PM Volunteers, donors, supporters, and friends of the campaign are invited to join us for prayer every Monday.
+JOIN THE PRAYER ZOOM CALL Sep 25 Chula Vista Town Hall Friday, September 25, 2026 6:00 PM 7:30 PM New Covenant Tabernacle Church (map) Google Calendar ICS Chula Vista Town Hall Meet the candidates View Event → Apr 30 Meet The Candidate Thursday, April 30, 2026 5:30 PM 7:00 PM Legacy International Center (map) Google Calendar ICS Legacy International Center View Event → Sep 24 National Apostolic Christian Leadership Conference Wednesday, September 24, 2025 2:00 PM 3:30 PM Google Calendar ICS Art Hodges will be a special guest speaker at this upcoming conference in St.
 Louis, MO.
-About the NACLC :
-Our Mission
-Our primary mission is to develop and implement a strategic alliance of Apostolic organizations to foster unity amongst us and meaningful interactions with others.
+About the NACLC : Our Mission Our primary mission is to develop and implement a strategic alliance of Apostolic organizations to foster unity amongst us and meaningful interactions with others.
 Such an alliance will assist in effectively influencing local, state and national policy through the cultivation of relationships with elected leaders, appointed department heads, state agencies and other government entities and contacts.
-Our Goals
-Promote a unified voice for the Apostolic movementImplement a multi-faceted approach to build a nationwide, grassroots Apostolic coalition that provides instant access to a company of like-minded members of the Apostolic faith communityProvide a clear method to engage with government on issues that are vital to protecting the rights of people of faith to practice their beliefs without fear of government interference or discrimination
+Our Goals Promote a unified voice for the Apostolic movementImplement a multi-faceted approach to build a nationwide, grassroots Apostolic coalition that provides instant access to a company of like-minded members of the Apostolic faith communityProvide a clear method to engage with government on issues that are vital to protecting the rights of people of faith to practice their beliefs without fear of government interference or discrimination View Event → Aug 16 The Hope Event Saturday, August 16, 2025 4:00 PM 7:00 PM Google Calendar ICS View Event → Jul 25 Untitled Event Friday, July 25, 2025 8:30 PM 9:30 PM Google Calendar ICS View Event → GET INVOLVED JOIN OUR TEAM JOIN US NOW - GO HERE!
+Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+All Rights Reserved

@@ -1,24 +1,5 @@
-Agenda:
-- Motions and Resolutions:
-- HB 1220 – Voter registration verification
-- HB 1024 – Amend certain fees collected by the Secretary of State
-- HB 1165 – Agricultural producer assessment rejection
-- SCR 604 – Supporting expanded transportation services for veterans
-- Committee Reports (Amended Bills):
-- Second Reading & Consent Calendar:
-- HB 1141 – Employers & opioid antagonist access
-- HB 1144 – Dietitian licensure compact
-- SB 25 – Plumbing code adoption
-- Second Reading of House Bills & Joint Resolutions:
-- HB 1157 – County drainage permit fee removal
-- HB 1152 – Prohibiting directives from intergovernmental organizations
-- HB 1222 – Expanding concealed pistol possession
-- Additional House Bills:
-- HB 1193 – Prohibiting mandatory on-campus housing and meal plans
-- HB 1042 – Appropriation for historical exhibits
-- HB 1180 – Candidate party affiliation disclosure for school boards
-- HJR 5006 – Constitutional amendment on initiative reintroduction
-- HB 1194 – County cooperation for equalization office operations
-- Second Reading of Senate Bills & Joint Resolutions:
-- SB 33 – Water and environmental appropriations (emergency declaration)
-📌 More Info: South Dakota Legislature Website
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events House of Representatives - Legislative Session Agenda Tuesday, February 18, 2025 2:00 PM 6:00 PM South Dakota State Capitol 500 E Capitol Ave Pierre, SD 57501 United States (map) Google Calendar ICS Agenda: Motions and Resolutions: HB 1220 – Voter registration verification HB 1024 – Amend certain fees collected by the Secretary of State HB 1165 – Agricultural producer assessment rejection SCR 604 – Supporting expanded transportation services for veterans Committee Reports (Amended Bills): HB 1132 , HB 1223 , HB 1256 , HB 1259 , HB 1260 Second Reading & Consent Calendar: HB 1141 – Employers & opioid antagonist access HB 1144 – Dietitian licensure compact SB 25 – Plumbing code adoption Second Reading of House Bills & Joint Resolutions: HB 1157 – County drainage permit fee removal HB 1152 – Prohibiting directives from intergovernmental organizations HB 1222 – Expanding concealed pistol possession Additional House Bills: HB 1193 – Prohibiting mandatory on-campus housing and meal plans HB 1042 – Appropriation for historical exhibits HB 1180 – Candidate party affiliation disclosure for school boards HJR 5006 – Constitutional amendment on initiative reintroduction HB 1194 – County cooperation for equalization office operations Second Reading of Senate Bills & Joint Resolutions: SB 33 – Water and environmental appropriations (emergency declaration) 📌 More Info: South Dakota Legislature Website Take Action: Contact Your Representatives → Tagged: House of Representatives Previous Previous February 15 2025 February Rapid City Legislative Crackerbarrel Next Next March 8 2025 March Rapid City Legislative Crackerbarrel Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

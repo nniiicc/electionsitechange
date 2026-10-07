@@ -1,17 +1,11 @@
-Stephanie M.
-Vargas
-for Congress
-June 2, 2026
-League of CA Cities
-Housing, Community, Economic Development Policy Committee (HCED)
-Costa Mesa, CA — March 27, 2026
-Congressional candidate Stephanie Vargas participated in the League of California Cities’ Housing, Community, and Economic Development Policy Committee meeting, joining city representatives from across the state to review major legislative proposals affecting local governments.
-Vargas attended as a representative of the City Clerks Department, contributing to discussions on housing policy, land‑use challenges, and economic development issues facing California communities.
-The committee received a detailed presentation on affordable housing development in Orange County from Todd Cottle of C&C Development, who outlined the financial and regulatory hurdles that continue to limit project feasibility.
-Members discussed the growing demand for affordable housing, rising construction costs, and the need for greater certainty in the entitlement process to ensure projects can move forward.
-Committee members also reviewed several key bills, including AB 1674, which would create the Food Desert Elimination Grant Program; AB 1738, requiring local governments to offer remote building inspections; and AB 1914, which would add childcare considerations to multiple general plan elements.
-Discussions focused on the balance between statewide mandates and local flexibility, the fiscal impacts of new requirements, and the importance of ensuring that legislation supports—not hinders—housing production and community development.
-Vargas emphasized that addressing housing, community well‑being, and economic development requires thoughtful policymaking and collaboration between state and local leaders.
-She noted that these issues are central to the long‑term stability of cities across California and remain a priority for the communities she seeks to represent in District 33.
-The meeting concluded with a legislative and budget update from Cal Cities staff, who highlighted upcoming deadlines and the increasing number of state proposals affecting local land‑use authority.
+top of page Stephanie M.
+Vargas for Congress June 2, 2026 Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+DONATE Click Here to Register to Vote Click Here to Report Voter Fraud League of CA Cities Housing, Community, Economic Development Policy Committee (HCED) Costa Mesa, CA — March 27, 2026 Congressional candidate Stephanie Vargas participated in the League of California Cities’ Housing, Community, and Economic Development Policy Committee meeting, joining city representatives from across the state to review major legislative proposals affecting local governments.
+Vargas attended as a representative of the City Clerks Department, contributing to discussions on housing policy, land‑use challenges, and economic development issues facing California communities. ​ The committee received a detailed presentation on affordable housing development in Orange County from Todd Cottle of C&C Development, who outlined the financial and regulatory hurdles that continue to limit project feasibility.
+Members discussed the growing demand for affordable housing, rising construction costs, and the need for greater certainty in the entitlement process to ensure projects can move forward. ​ Committee members also reviewed several key bills, including AB 1674, which would create the Food Desert Elimination Grant Program; AB 1738, requiring local governments to offer remote building inspections; and AB 1914, which would add childcare considerations to multiple general plan elements.
+Discussions focused on the balance between statewide mandates and local flexibility, the fiscal impacts of new requirements, and the importance of ensuring that legislation supports—not hinders—housing production and community development. ​ Vargas emphasized that addressing housing, community well‑being, and economic development requires thoughtful policymaking and collaboration between state and local leaders.
+She noted that these issues are central to the long‑term stability of cities across California and remain a priority for the communities she seeks to represent in District 33. ​ The meeting concluded with a legislative and budget update from Cal Cities staff, who highlighted upcoming deadlines and the increasing number of state proposals affecting local land‑use authority.
 The committee’s recommendations will help guide the League’s advocacy efforts as the legislative session progresses.
+Home Endorsements Platform Meet Stephanie Donate Get Involved Simple Politics Election Integrity Parental Rights High Gas Prices Ephesians 6:10-20 News Blog More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Paid for by Friends of Stephanie Vargas Terms & Conditions Privacy Policy Accessibility Statement © # by Stephanie M.
+Vargas, Powered and secured by Wix bottom of page

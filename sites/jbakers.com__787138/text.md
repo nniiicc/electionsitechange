@@ -1,4 +1,4 @@
-My name is JB Akers.
+JB Akers for WV DONATE Home About Issues Contact Volunteer JB Akers for WV Common Sense Solutions for Uncommon Times DONATE My name is JB Akers.
 I am a Republican who represents the 55th District (part of Kanawha County) in the West Virginia Legislature.
 I am a husband, a father, a business owner and a lifelong West Virginian.
 I believe that faith and family are the foundation for a brighter future.
@@ -20,3 +20,8 @@ We should offer help to those who will accept it.
 But, we must send a clear message that we will not tolerate distribution of deadly drugs or any drug related violence in the place we call home.
 I would be honored to earn your vote.
 Together, we can make this a better State.
+Follow JB Akers Sign Up For Updates newsletter Name: Email: Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+Paid For By JB Akers Privacy Policy Powered by Ryvall Share by:

@@ -1,30 +1,14 @@
-John Duresky
-Endorsements
-Proudly Endorsed By:
-Washington State Labor Council
-“The working class has always been the backbone of our state and our nation.
+0 Skip to Content Veterans for John Contact About John Duresky The District Endorsements Ballot drop boxes News Issues Events Volunteer English DONATE Open Menu Close Menu English DONATE Veterans for John Contact About John Duresky The District Endorsements Ballot drop boxes News Issues Events Volunteer Open Menu Close Menu Veterans for John Contact Folder: About Back John Duresky The District Endorsements Ballot drop boxes News Issues Events Volunteer English Back DONATE John Duresky Endorsements Proudly Endorsed By: Washington State Labor Council “The working class has always been the backbone of our state and our nation.
 Our working families are feeling the sting of bad policy in the wallet and on the dinner table.
-If we don’t protect our workers, we can’t succeed as a society.”
-- John Duresky
-Laborers' International Union of North America Local 348
-International Association of Machinists & Aerospace Workers District Lodge 751
-Washington Education Association
-“The candidates we endorse share our vision for strengthening public education, the middle class, and our country.” -WEA
-Teamsters Local 839
-Washington Retired Public Employees Council
-Backed by the Community
-John is proud to have earned the support of community leaders and organizations across Central Washington and the nation.
-County Democratic Organizations
-Legislative District Organizations
-National Pledge
-What Endorsing John Means
-John has signed the Take BAC Congress Pledge, committing to:
-- Congressional term limits
-- A lobbying moratorium after leaving office
-- Banning Congressional stock trading
-- Overturning Citizens United
-- Supreme Court ethics reform
-“The candidates we endorse share our vision for strengthening public education, the middle class, and our country.”
-“The working class has always been the backbone of our state and our nation.
+If we don’t protect our workers, we can’t succeed as a society.” - John Duresky Laborers' International Union of North America Local 348 International Association of Machinists & Aerospace Workers District Lodge 751 Washington Education Association “The candidates we endorse share our vision for strengthening public education, the middle class, and our country.” -WEA Teamsters Local 839 Washington Retired Public Employees Council Backed by the Community John is proud to have earned the support of community leaders and organizations across Central Washington and the nation.
+County Democratic Organizations Yakima County Democrats Douglas County Democrats Adams County Democrats Grant County Democrats Okanogan County Democrats Franklin County Democrats Benton County Democrats Klickitat County Democrats Legislative District Organizations 8th Legislative District Democrats 13th Legislative District Democrats 7th Legislative District Democrats National Pledge What Endorsing John Means John has signed the Take BAC Congress Pledge , committing to: Congressional term limits A lobbying moratorium after leaving office Banning Congressional stock trading Overturning Citizens United Supreme Court ethics reform “The candidates we endorse share our vision for strengthening public education, the middle class, and our country.” “The working class has always been the backbone of our state and our nation.
 Our working families are feeling the sting of bad policy in the wallet and on the dinner table.
-If we don’t protect our workers, we can’t succeed as a society.” John Duresky
+If we don’t protect our workers, we can’t succeed as a society.” John Duresky Home ‍ ‍ About‍ ‍ Issues‍ ‍ Events ‍ ‍ Endorsements‍ ‍ Volunteer ‍ Donate © # John Duresky for Congress.
+All rights reserved.
+Privacy Policy‍ Plain Talk.
+Real Service. info@johnduresky.com John Duresky is a retired member of the U.S.
+Air Force.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the U.S.
+Air Force or the Department of Defense.
+Plain Talk.
+Real Service. info@johnduresky.com Paid for by John Duresky for Congress

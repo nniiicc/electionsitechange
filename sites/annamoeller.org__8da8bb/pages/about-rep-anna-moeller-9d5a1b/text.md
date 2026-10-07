@@ -1,52 +1,19 @@
-Anna and her family have lived in the 43rd District since 1997, when she and her husband Marc chose Elgin, IL as a place to live and raise their two daughters, Madeline and Eleanor.
-Meet Anna Moeller
-State Representative, 43rd District of Illinois
-Anna Moeller has proudly served the 43rd District in the Illinois House of Representatives since 2014.
+Skip to content Anna Moeller for Illinois Focused on solving problems over politics Menu About Anna Moeller How You Can Support Anna Awards, Recognitions and Endorsements Contact About Anna Moeller Anna and her family have lived in the 43rd District since 1997, when she and her husband Marc chose Elgin, IL as a place to live and raise their two daughters, Madeline and Eleanor.
+Meet Anna Moeller State Representative, 43rd District of Illinois Anna Moeller has proudly served the 43rd District in the Illinois House of Representatives since 2014.
 A proven leader and tireless advocate for equity, transparency, and opportunity, she currently chairs the pivotal Health and Human Services Appropriations Committee and leads the Medicaid Working Group.
 She also co-chairs the House Progressive Caucus, the House Green Caucus, and serves on the Commission on Government Forecasting and Accountability (COGFA)—a key bicameral, bipartisan panel guiding state fiscal policy.
 In the House, Anna serves on critical committees including Human Services, Energy & Environment, Education K-12 Licensing and Administration and Healthcare Licensing.
 She has previously chaired the Human Services, Aging, and Healthcare Licensing Committees.
-Throughout her tenure, Anna has been a legislative leader on:
-- Pay equity and worker protections
-- Consumer Protections
-- Healthcare access and affordability
-- Environmental stewardship
-- Reproductive rights and LGBTQ equality
-- Nursing home and Medicaid reform
-- Support for immigrants and survivors of sexual violence
-A Career of Public Service
-Before joining the General Assembly, Anna built a strong record in local government and civic engagement.
-She served as:
-- Councilwoman for the City of Elgin (elected 2011)
-- Founding Executive Director, McHenry County Council of Governments
-- Assistant Village Administrator for the Village of Lake in the Hills
-Her early career includes service as a Legislative Aide in the Illinois General Assembly, a Congressional Intern in Washington D.C., and an ESL teacher in Andorra, Europe.
+Throughout her tenure, Anna has been a legislative leader on: Pay equity and worker protections Consumer Protections Healthcare access and affordability Environmental stewardship Reproductive rights and LGBTQ equality Nursing home and Medicaid reform Support for immigrants and survivors of sexual violence A Career of Public Service Before joining the General Assembly, Anna built a strong record in local government and civic engagement.
+She served as: Councilwoman for the City of Elgin (elected 2011) Founding Executive Director, McHenry County Council of Governments Assistant Village Administrator for the Village of Lake in the Hills Her early career includes service as a Legislative Aide in the Illinois General Assembly, a Congressional Intern in Washington D.C., and an ESL teacher in Andorra, Europe.
 Anna holds both a Bachelor’s Degree in History and a Master’s in Public Administration (MPA) from Northern Illinois University.
-She has earned multiple honors for her leadership, including:
-- Paul Simon Courage in Public Service Award (Lutheran Social Services of Illinois)
-- Agent of Change Award (AAUW of Illinois)
-- Environmental Leadership Award (Illinois Environmental Council)
-- Fellowships from the Edgar Fellows Program, the Council of State Governments Bowhay Institute for Legislative Leadership, and Toll Fellowship from the Council of State Governments
-- Named one of the Top Five most effective State Representatives in the Illinois House Democratic Caucus by the non-partisan Center for Effective Lawmaking at the University of Virginia and Vanderbilt University
-Deep Roots in the Community
-Anna is not only a legislator—she’s a lifelong community advocate.
+She has earned multiple honors for her leadership, including: Paul Simon Courage in Public Service Award (Lutheran Social Services of Illinois) Agent of Change Award (AAUW of Illinois) Environmental Leadership Award (Illinois Environmental Council) Fellowships from the Edgar Fellows Program, the Council of State Governments Bowhay Institute for Legislative Leadership, and Toll Fellowship from the Council of State Governments Named one of the Top Five most effective State Representatives in the Illinois House Democratic Caucus by the non-partisan Center for Effective Lawmaking at the University of Virginia and Vanderbilt University Deep Roots in the Community Anna is not only a legislator—she’s a lifelong community advocate.
 She has served on the Elgin Planning and Development Commission, Human Relations Commission, and as a PTO Treasurer, neighborhood association vice president, and literacy tutor.
-She is proud to support and partner with organizations that make the 43rd District stronger, healthier, and more vibrant, including:
-- Community Crisis Center
-- Food for Greater Elgin
-- YWCA of Elgin
-- Centro de Información
-- Elgin Hispanic Network
-- Ecker Mental Health Center
-- Elgin Symphony Orchestra
-- Boys & Girls Club of Elgin
-- Literacy Connection
-- Downtown Neighborhood Association
-- Elgin Public Museum
-- Gifford Park Association
-- Dennis Jurs Memorial Bike Race
-- Rotary Club of Carpentersville
-- African American Coalition of Kane County
-- New Life Covenant Church, and many more.
-Anna believes that strong communities are built on compassion, opportunity, and a commitment to justice—and she brings those values to every aspect of her work in Springfield and at home.
--Website Paid for by Friends for Anna Moeller-
+She is proud to support and partner with organizations that make the 43rd District stronger, healthier, and more vibrant, including: Community Crisis Center Food for Greater Elgin YWCA of Elgin Centro de Información Elgin Hispanic Network Ecker Mental Health Center Elgin Symphony Orchestra Boys & Girls Club of Elgin Literacy Connection Downtown Neighborhood Association Elgin Public Museum Gifford Park Association Dennis Jurs Memorial Bike Race Rotary Club of Carpentersville African American Coalition of Kane County New Life Covenant Church, and many more.
+Anna believes that strong communities are built on compassion, opportunity, and a commitment to justice—and she brings those values to every aspect of her work in Springfield and at home. -Website Paid for by Friends for Anna Moeller- Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+About Anna Moeller How You Can Support Anna Awards, Recognitions and Endorsements Contact Blog at WordPress.com.
+Subscribe Subscribed Anna Moeller for Illinois Sign me up Have a WordPress.com account?
+Log in now.
+Anna Moeller for Illinois Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

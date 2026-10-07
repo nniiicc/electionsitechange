@@ -1,16 +1,23 @@
-6th Annual Lead Like Lincoln Campaign Fundraiser
-Join Suzanne Ness and host committee September 26th for the 6th Annual Lead Like Lincoln Breakfast Fundraiser.
-The Suzanne Ness campaign is excited to welcome Jack Thompson as Field Organizer for the 2026 re-election campaign.
-The Suzanne Ness campaign is excited to welcome Kate Norten as Campaign Manager for the 2026 re-election campaign.
-Saturday, July 11th from 6 - 9 pm, Emmett's Brewing Co., 128 W Main St., West Dundee, IL.
-Join Suzanne Ness and host committee September 20th for the 5th Annual Lead Like Lincoln Breakfast Fundraiser.
-Care for a pint after petitions?
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT AdminRoxie Home » Archives for Roxie S About Roxie S This author has not yet filled in any details.
+So far Roxie S has created 31 blog entries.
+6th Annual Lead Like Lincoln Campaign Fundraiser Gallery 6th Annual Lead Like Lincoln Campaign Fundraiser Fundraiser , Upcoming Event 6th Annual Lead Like Lincoln Campaign Fundraiser Join Suzanne Ness and host committee September 26th for the 6th Annual Lead Like Lincoln Breakfast Fundraiser.
+By Roxie S | 2026-09-10T15:57:11+00:00 August 13, 2026 | Fundraiser , Upcoming Event | Comments Off on 6th Annual Lead Like Lincoln Campaign Fundraiser Read More Meet Jack Thompson Gallery Meet Jack Thompson 2026 Re-Election Campaign Meet Jack Thompson The Suzanne Ness campaign is excited to welcome Jack Thompson as Field Organizer for the 2026 re-election campaign.
+By Roxie S | 2026-09-10T15:57:15+00:00 July 21, 2026 | 2026 Re-Election Campaign | Comments Off on Meet Jack Thompson Read More Meet Kate Norten Gallery Meet Kate Norten 2026 Re-Election Campaign Meet Kate Norten The Suzanne Ness campaign is excited to welcome Kate Norten as Campaign Manager for the 2026 re-election campaign.
+By Roxie S | 2026-09-10T15:57:16+00:00 July 12, 2026 | 2026 Re-Election Campaign | Comments Off on Meet Kate Norten Read More Join the Party Fundraiser 2026 Gallery Join the Party Fundraiser 2026 Fundraiser , Upcoming Event Join the Party Fundraiser 2026 Saturday, July 11th from 6 - 9 pm, Emmett's Brewing Co., 128 W Main St., West Dundee, IL.
+By Roxie S | 2026-09-10T15:57:17+00:00 June 10, 2026 | Fundraiser , Upcoming Event | Comments Off on Join the Party Fundraiser 2026 Read More 5th Annual Lead Like Lincoln Campaign Fundraiser Gallery 5th Annual Lead Like Lincoln Campaign Fundraiser Fundraiser , Upcoming Event 5th Annual Lead Like Lincoln Campaign Fundraiser Join Suzanne Ness and host committee September 20th for the 5th Annual Lead Like Lincoln Breakfast Fundraiser.
+By Roxie S | 2026-09-10T15:57:17+00:00 August 25, 2025 | Fundraiser , Upcoming Event | Comments Off on 5th Annual Lead Like Lincoln Campaign Fundraiser Read More Suds and Signatures Gallery Suds and Signatures Upcoming Event , Volunteer Suds and Signatures Care for a pint after petitions?
 Join Team Ness for petition gathering on Saturday, September 6th from 12PM-3PM, and after head to Scorched Earth Brewing for some suds!
 Email us at vote4suzanneness@gmail.com to volunteer!
+By Roxie S | 2026-09-10T15:57:18+00:00 August 23, 2025 | Upcoming Event , Volunteer | Comments Off on Suds and Signatures Read More Coffee with Suzanne – May 18th!
+Gallery Coffee with Suzanne – May 18th!
+Uncategorized Coffee with Suzanne – May 18th!
 Coffee and conversation with Suzanne Ness!
 May 18th, hosted by Katie and Kirk.
 Email Citizens for Suzanne Ness at: vote4suzanneness@gmail.com for details.
-"...when more women lead in politics—no matter the level of government—there are more role models for women all over the country to look up to as an example of how they could lead in their communities."
-Join Suzanne Ness and host committee September 28th for the 4th Annual Lead Like Lincoln Breakfast Fundraiser in her efforts for re-election.
-Unfortunately, many people do not have this same access to healthcare, especially when it comes to services such as mental health care.
+By Roxie S | 2026-09-10T15:57:20+00:00 April 30, 2025 | Uncategorized | Comments Off on Coffee with Suzanne – May 18th!
+Read More When Women Lead Gallery When Women Lead Uncategorized When Women Lead "...when more women lead in politics—no matter the level of government—there are more role models for women all over the country to look up to as an example of how they could lead in their communities." By Roxie S | 2026-09-10T15:57:20+00:00 September 23, 2024 | Uncategorized | Comments Off on When Women Lead Read More 4th Annual Lead Like Lincoln Campaign Fundraiser Gallery 4th Annual Lead Like Lincoln Campaign Fundraiser Fundraiser , Upcoming Event 4th Annual Lead Like Lincoln Campaign Fundraiser Join Suzanne Ness and host committee September 28th for the 4th Annual Lead Like Lincoln Breakfast Fundraiser in her efforts for re-election.
+By Roxie S | 2026-09-10T15:57:21+00:00 September 3, 2024 | Fundraiser , Upcoming Event | Comments Off on 4th Annual Lead Like Lincoln Campaign Fundraiser Read More How Suzanne Ness is Expanding Healthcare in Illinois Gallery How Suzanne Ness is Expanding Healthcare in Illinois Healthcare , Uncategorized How Suzanne Ness is Expanding Healthcare in Illinois Unfortunately, many people do not have this same access to healthcare, especially when it comes to services such as mental health care.
 People should not have to worry about finances while also grappling with the stress associated with medical complications...
+By Roxie S | 2026-09-10T15:57:22+00:00 August 22, 2024 | Healthcare , Uncategorized | Comments Off on How Suzanne Ness is Expanding Healthcare in Illinois Read More 1 2 Next Contact Our Team Address: P.O.
+Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
+Settings OK Go to Top

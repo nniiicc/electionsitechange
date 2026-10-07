@@ -1,6 +1,34 @@
 [
-"https://clevelandforindiana.com/index.html",
-"https://facebook.com/clevelandforindiana",
-"https://secure.winred.com/cleveland-for-indiana/main",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "About",
+"href": "https://clevelandforindiana.com/index.html#about"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/cleveland-for-indiana/main"
+},
+{
+"text": "Home",
+"href": "https://clevelandforindiana.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://clevelandforindiana.com/index.html#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://clevelandforindiana.com/index.html#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://clevelandforindiana.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/clevelandforindiana"
+},
+{
+"text": "contact@clevelandforindiana.com",
+"href": "mailto:contact@clevelandforindiana.com"
+}
 ]

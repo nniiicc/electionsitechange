@@ -1,17 +1,74 @@
 [
-"https://bsky.app/profile/projectduecourse.bsky.social",
-"https://facebook.com/projectduecourse",
-"https://instagram.com/projectduecourse",
-"https://projectduecourse.org/",
-"https://projectduecourse.org/data-deletion",
-"https://projectduecourse.org/issues",
-"https://projectduecourse.org/oklahoma",
-"https://projectduecourse.org/privacy",
-"https://projectduecourse.org/robert-for-congress",
-"https://projectduecourse.org/terms",
-"https://secure.anedot.com/robert-p-henri-for-congress/contribute",
-"https://threads.com/@projectduecourse",
-"https://tiktok.com/@projectduecourse",
-"https://x.com/produecourse",
-"https://youtube.com/@projectduecourse"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/projectduecourse.bsky.social"
+},
+{
+"text": "Campaign",
+"href": "https://projectduecourse.org/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/robert-p-henri-for-congress/contribute"
+},
+{
+"text": "Data Deletion",
+"href": "https://projectduecourse.org/data-deletion"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/projectduecourse"
+},
+{
+"text": "Get Updates",
+"href": "https://projectduecourse.org/#join"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/projectduecourse"
+},
+{
+"text": "Issues",
+"href": "https://projectduecourse.org/issues"
+},
+{
+"text": "Meet Robert",
+"href": "https://projectduecourse.org/robert-for-congress"
+},
+{
+"text": "Oklahoma",
+"href": "https://projectduecourse.org/oklahoma"
+},
+{
+"text": "Privacy Policy",
+"href": "https://projectduecourse.org/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://projectduecourse.org/terms"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@projectduecourse"
+},
+{
+"text": "TikTok",
+"href": "https://tiktok.com/@projectduecourse"
+},
+{
+"text": "X",
+"href": "https://x.com/produecourse"
+},
+{
+"text": "YouTube",
+"href": "https://youtube.com/@projectduecourse"
+},
+{
+"text": "[image: PDC]PROJECT DUE COURSEROBERT P. HENRI FOR CONGRESS · OK-05",
+"href": "https://projectduecourse.org/"
+},
+{
+"text": "info@projectduecourse.org",
+"href": "mailto:info@projectduecourse.org"
+}
 ]

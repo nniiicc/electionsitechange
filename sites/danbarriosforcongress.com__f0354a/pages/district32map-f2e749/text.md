@@ -1,3 +1,2 @@
-top of page
-As a result of gerrymandering by Trump and Texas Republicans, Congressional District 32 was redrawn to dilute voters’ voices and now extends from northern Dallas County and southern Collin County to Upshur and Camp county in East Texas.
-bottom of page
+top of page Home About Dan Issues District 32 Map Contact Dan Get Involved Get Involved Events DONATE STORE As a result of gerrymandering by Trump and Texas Republicans, Congressional District 32 was redrawn to dilute voters’ voices and now extends from northern Dallas County and southern Collin County to Upshur and Camp county in East Texas.
+Click Here to Check Your Voter Registration info@danbarriosforcongress.com PO Box 830507 Richardson, Texas 75083 PAID FOR BY DAN BARRIOS FOR CONGRESS bottom of page

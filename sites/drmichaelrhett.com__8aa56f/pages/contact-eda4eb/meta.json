@@ -1,7 +1,9 @@
 {
  "description": "Get in touch with Sen. Rhett's office. Find contact information, sign up for our newsletter, and ways to reach our team.",
  "final_url": "https://www.drmichaelrhett.com/contact",
- "paid_for_by": null,
+ "fingerprint": "744c2bcb0b636f5412b06b608171128030d8bc29",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact Sen. Rhett",
  "years_mentioned": []
 }

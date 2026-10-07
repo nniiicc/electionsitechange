@@ -1,5 +1,4 @@
-Myrna Munoz
-Myrna Arely Muñoz is a lifelong educator, equity advocate, and proud daughter of migrant and farmworker communities running for Oregon State Senate District 15.
+0 Skip to Content Supporters About Issues Contact Donate Open Menu Close Menu Supporters About Issues Contact Donate Open Menu Close Menu Supporters About Issues Contact Donate Myrna Munoz Myrna Arely Muñoz is a lifelong educator, equity advocate, and proud daughter of migrant and farmworker communities running for Oregon State Senate District 15.
 For more than 25 years, Myrna has dedicated her career to building inclusive, accessible systems that affirm the dignity, language, culture, and potential of every student and family.
 A bilingual and multicultural leader, Myrna has worked across classrooms, schools, districts, universities, nonprofits, and state government to strengthen education systems from preschool through postgraduate levels.
 Her work centers culturally responsive instruction, biliteracy, and community-driven solutions that prioritize those who have historically been underserved, including multilingual learners, migrant families, and students with diverse learning needs.
@@ -11,15 +10,8 @@ She has taught bilingually at every elementary grade level, served as an adjunct
 Myrna is a proud union member and longtime advocate for educators, students, and families.
 She holds a Master’s degree in Educational Leadership, an equity-focused administrative license, and a bilingual teaching credential.
 She is also a frequent keynote speaker, conference organizer, and mentor, and has served on numerous boards advancing bilingual education, food security, and community leadership.
-During the primary, Myrna’s run was based on 3 priorities, but has expanded to 4 legislative priorities given the feedback received from voters across the Senate District 15 community:
-1.
-Our civil rights intact: dignity for all Oregonians
-Preservation of our constitutionally protected civil liberties requires abolition of:
--ICE
--The AI surveillance state
--The prison industrial complex
--Government systems that are undemocratic
-2.
+During the primary, Myrna’s run was based on 3 priorities, but has expanded to 4 legislative priorities given the feedback received from voters across the Senate District 15 community: 1.
+Our civil rights intact: dignity for all Oregonians Preservation of our constitutionally protected civil liberties requires abolition of: -ICE -The AI surveillance state -The prison industrial complex -Government systems that are undemocratic 2.
 Prioritization of a quality education: ALL Oregonians should count on the education they need to make their dreams and aspirations come to life.
 From cradle to career, we need to redefine and support education to have the outcomes we desire.
 3.
@@ -31,7 +23,6 @@ We need a strategic plan that helps us think outside of the box to house all Ore
 Myrna with her husband Graeme in the backyard.
 Myrna and her two children, Gilberto and Magdalena.
 Myrna (Right) with her sisters Cynthia (Center) and Lesly (Left).
-Contact Myrna
-Myrna believes in hearing the community first.
+Contact Myrna Myrna believes in hearing the community first.
 She looks forward to connecting with you to learn more about your interests and desires for our neighborhoods.
-Email Myrna or fill out the form below so she can hear from you.
+Email Myrna or fill out the form below so she can hear from you. myrna.arely.munoz@gmail.com Paid for by Myrna for Oregon ID: 24761 Donate Contact myrna.arely.munoz@gmail.com

@@ -1,17 +1,70 @@
 [
-"https://app.leg.wa.gov/BillSummary?BillNumber=2049&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5192&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?billNumber=5192&year=2025&initiative=False",
-"https://facebook.com/GerryPollet",
-"https://fnspublic.ofm.wa.gov/FNSPublicSearch/GetPDF?packageID=74589",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://leg.wa.gov/jlarc/reports/2024/SPED/f_01/defaultpart2.html",
-"https://secure.actblue.com/donate/gerry-pollet-2"
+{
+"text": "< Back",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "Senate Bill 5192",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5192&Year=2025&Initiative=False"
+},
+{
+"text": "Senate Bill 5263",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025&Initiative=false"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "a Senate bill",
+"href": "https://app.leg.wa.gov/billsummary/?billNumber=5192&year=2025&initiative=False"
+},
+{
+"text": "a performance audit issued in January",
+"href": "https://leg.wa.gov/jlarc/reports/2024/SPED/f_01/defaultpart2.html"
+},
+{
+"text": "allow an increase in annual property tax growth",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=2049&Year=2025&Initiative=false"
+},
+{
+"text": "fiscal analysis",
+"href": "https://fnspublic.ofm.wa.gov/FNSPublicSearch/GetPDF?packageID=74589"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+}
 ]

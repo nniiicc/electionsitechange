@@ -1,16 +1,82 @@
 [
-"http://instagram.com/checklevy",
-"https://checklevy.com/",
-"https://checklevy.com/about",
-"https://checklevy.com/news",
-"https://checklevy.com/post/our-voice-our-values-why-district-99-representation-starts-now",
-"https://checklevy.com/post/veleria-levy-announces-campaign-for-nc-house",
-"https://checklevy.com/post/when-everyone-becomes-a-target-ice-dhs-why-this-moment-should-alarm-us-all",
-"https://checklevy.com/upcoming-events",
-"https://checklevy.com/vision",
-"https://facebook.com/CheckLevy",
-"https://forms.gle/777hBZG1XSBeRcJPA",
-"https://mlmcreativestudio.com/",
-"https://ncleg.gov/FindYourLegislators",
-"https://secure.actblue.com/donate/veleria-m-levy-1"
+{
+"text": "About",
+"href": "https://www.checklevy.com/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.checklevy.com/news"
+},
+{
+"text": "Are you in District 99? Check your address ✓",
+"href": "https://www.ncleg.gov/FindYourLegislators"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/veleria-m-levy-1"
+},
+{
+"text": "Events",
+"href": "https://www.checklevy.com/upcoming-events"
+},
+{
+"text": "FOR NC HOUSE DISTRICT 99",
+"href": "https://www.checklevy.com"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/777hBZG1XSBeRcJPA"
+},
+{
+"text": "MLM Creative",
+"href": "https://www.mlmcreativestudio.com/"
+},
+{
+"text": "News",
+"href": "https://www.checklevy.com/news"
+},
+{
+"text": "Our Voice, Our Values: Why District 99 Representation Starts Now",
+"href": "https://www.checklevy.com/post/our-voice-our-values-why-district-99-representation-starts-now"
+},
+{
+"text": "See All",
+"href": "https://www.checklevy.com/news"
+},
+{
+"text": "VELERIA M. LEVY",
+"href": "https://www.checklevy.com"
+},
+{
+"text": "Veleria Levy Announces Campaign for NC House",
+"href": "https://www.checklevy.com/post/veleria-levy-announces-campaign-for-nc-house"
+},
+{
+"text": "Vision",
+"href": "https://www.checklevy.com/vision"
+},
+{
+"text": "When Everyone Becomes a Target: ICE, DHS & Why This Moment Should Alarm Us All",
+"href": "https://www.checklevy.com/post/when-everyone-becomes-a-target-ice-dhs-why-this-moment-should-alarm-us-all"
+},
+{
+"text": "[image: Our Voice, Our Values: Why District 99 Representation Starts Now]",
+"href": "https://www.checklevy.com/post/our-voice-our-values-why-district-99-representation-starts-now"
+},
+{
+"text": "[image: Veleria Levy Announces Campaign for NC House]",
+"href": "https://www.checklevy.com/post/veleria-levy-announces-campaign-for-nc-house"
+},
+{
+"text": "[image: When Everyone Becomes a Target: ICE, DHS & Why This Moment Should Alarm Us All]",
+"href": "https://www.checklevy.com/post/when-everyone-becomes-a-target-ice-dhs-why-this-moment-should-alarm-us-all"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/checklevy"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/CheckLevy"
+}
 ]

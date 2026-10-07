@@ -1,6 +1,4 @@
-Terms of Use
-Effective Date: January 1st, 2026
-1.
+Kurt For Progress Home About Kurt On The Issues Endorsements and Designations Get Involved Kurt For Progress Home About Kurt On The Issues Endorsements and Designations Get Involved Home Terms Terms of Use Terms of Use Effective Date: January 1st, 2026 1.
 Acceptance of Terms: By accessing and using kurtforprogress.com (the "Site"), you agree to be bound by these Terms of Use.
 If you do not agree to these terms, please do not use the Site.
 2.
@@ -18,4 +16,4 @@ Limitation of Liability: Kurt For Progress shall not be liable for any direct, i
 Changes to Terms: We reserve the right to modify these Terms of Use at any time.
 Your continued use of the Site following any changes indicates your acceptance of the new Terms.
 7.
-Contact Us: If you have any questions about these Terms or the Privacy Policy, please contact us at: contact@kurtforprogress.com
+Contact Us: If you have any questions about these Terms or the Privacy Policy, please contact us at: contact@kurtforprogress.com Home About Kurt On The Issues Endorsements and Designations Get Involved Donate Subscribe Copyright © # All rights reserved - Kurt For Progress Terms of Use | Privacy | Accessibility - Paid for by Kurt For Progress contact@kurtforprogress.com

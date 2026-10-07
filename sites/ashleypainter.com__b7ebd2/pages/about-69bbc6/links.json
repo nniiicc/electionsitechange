@@ -1,10 +1,34 @@
 [
-"https://ashleypainter.com/",
-"https://ashleypainter.com/about",
-"https://ashleypainter.com/news",
-"https://ashleypainter.com/terms-conditions",
-"https://ashleypainter.com/the-opponent",
-"https://facebook.com/ashleypaintersc",
-"https://instagram.com/ashleybelongsinthehouse",
-"https://secure.actblue.com/donate/ashleypainter117"
+{
+"text": "About",
+"href": "https://ashleypainter.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ashleypainter117"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ashleypaintersc/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/ashleybelongsinthehouse/"
+},
+{
+"text": "News",
+"href": "https://ashleypainter.com/news"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://ashleypainter.com/terms-conditions/"
+},
+{
+"text": "The Opponent",
+"href": "https://ashleypainter.com/the-opponent/"
+},
+{
+"text": "[image: Elect Ashley Painter]",
+"href": "https://ashleypainter.com/"
+}
 ]

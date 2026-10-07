@@ -1,16 +1,62 @@
 [
-"https://ellmanforcongress.com/",
-"https://ellmanforcongress.com/about",
-"https://ellmanforcongress.com/cart",
-"https://ellmanforcongress.com/contact-us",
-"https://ellmanforcongress.com/events",
-"https://ellmanforcongress.com/issues",
-"https://ellmanforcongress.com/meetalissa",
-"https://ellmanforcongress.com/priorities",
-"https://ellmanforcongress.com/privacy-policy",
-"https://ellmanforcongress.com/volunteer",
-"https://ellmanforcongress.com/vote",
-"https://facebook.com/EllmanforCongress",
-"https://instagram.com/alissaellman4congress",
-"https://secure.actblue.com/donate/alissaellman"
+{
+"text": "0",
+"href": "https://www.ellmanforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ellmanforcongress.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.ellmanforcongress.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/alissaellman"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/alissaellman"
+},
+{
+"text": "Events",
+"href": "https://www.ellmanforcongress.com/events"
+},
+{
+"text": "How to Vote",
+"href": "https://www.ellmanforcongress.com/vote"
+},
+{
+"text": "Issues",
+"href": "https://www.ellmanforcongress.com/issues"
+},
+{
+"text": "Meet Alissa",
+"href": "https://www.ellmanforcongress.com/meetalissa"
+},
+{
+"text": "Priorities",
+"href": "https://www.ellmanforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ellmanforcongress.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ellmanforcongress.com/volunteer"
+},
+{
+"text": "[image: Ellman for Congress]",
+"href": "https://www.ellmanforcongress.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EllmanforCongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/alissaellman4congress/"
+}
 ]

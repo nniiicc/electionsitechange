@@ -1,22 +1,94 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Last+Day+to+Request+Absentee+By+Mail&dates=20261020T140000Z%2F20261020T150000Z&location=PO+Box+321%2C+Anoka%2C+MN+55303%2C+USA",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=PO+Box+321+Anoka%2C+MN+55303+USA",
-"https://mnvotes.gov/",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/early-voting-in-person",
-"https://walkerforward.com/events/election-day",
-"https://walkerforward.com/events/last-day-to-request-absentee-by-mail?format=ical",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=po+box+321+anoka%2C+mn+55303+usa"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Last+Day+to+Request+Absentee+By+Mail&dates=20261020T140000Z%2F20261020T150000Z&location=PO+Box+321%2C+Anoka%2C+MN+55303%2C+USA"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/last-day-to-request-absentee-by-mail?format=ical"
+},
+{
+"text": "Learn more",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next November 3 Election Day",
+"href": "https://www.walkerforward.com/events/election-day"
+},
+{
+"text": "Previous Previous October 16 Early Voting in Person",
+"href": "https://www.walkerforward.com/events/early-voting-in-person"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "mnvotes.gov",
+"href": "https://mnvotes.gov"
+}
 ]

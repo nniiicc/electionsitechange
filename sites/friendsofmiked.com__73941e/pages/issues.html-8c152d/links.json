@@ -1,9 +1,34 @@
 [
-"https://collectcheckout.com/r/nf3s9otmg9j8bwrvqiv6yjmku9quvq",
-"https://facebook.com/MikeDForGA",
-"https://friendsofmiked.com/about.html",
-"https://friendsofmiked.com/index.html",
-"https://friendsofmiked.com/issues.html",
-"https://instagram.com/dvorscakga",
-"https://senate.ga.gov/senators/Documents/Maps/2023SD14.pdf"
+{
+"text": "ABOUT MIKE",
+"href": "https://friendsofmiked.com/about.html"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.senate.ga.gov/senators/Documents/Maps/2023SD14.pdf"
+},
+{
+"text": "DONATE",
+"href": "https://collectcheckout.com/r/nf3s9otmg9j8bwrvqiv6yjmku9quvq"
+},
+{
+"text": "ISSUES",
+"href": "https://friendsofmiked.com/issues.html"
+},
+{
+"text": "[image: Logo]",
+"href": "https://friendsofmiked.com/index.html"
+},
+{
+"text": "[image: Mike]",
+"href": "https://friendsofmiked.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeDForGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dvorscakga/"
+}
 ]

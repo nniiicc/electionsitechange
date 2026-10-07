@@ -1,60 +1,246 @@
 [
-"https://authentic.org/",
-"https://facebook.com/IlhanMN",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Filhanomar.com%2Fmedia%2F",
-"https://ilhanomar.com/",
-"https://ilhanomar.com/contact",
-"https://ilhanomar.com/endorsements",
-"https://ilhanomar.com/jobs",
-"https://ilhanomar.com/media",
-"https://ilhanomar.com/my-record",
-"https://ilhanomar.com/news",
-"https://ilhanomar.com/privacy-policy",
-"https://ilhanomar.com/progress",
-"https://ilhanomar.com/visions",
-"https://ilhanomar.com/volunteer",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IO-crowdf-footage-v2.mp4",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IO-shows-up-30-sec-v3.mp4",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IO-shows-up-60-sec-v3-1.mp4",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IlhanPortrait3-scaled-1.jpeg",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IlhanPortrait4.png",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IlhanPride2-scaled-1.jpeg",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IlhanReadingKids.jpeg",
-"https://ilhanomar.com/wp-content/uploads/2021/12/IlhanSupporters.jpeg",
-"https://ilhanomar.com/wp-content/uploads/2021/12/OmarEllisonThumbsUp.jpeg",
-"https://ilhanomar.com/wp-content/uploads/2021/12/Photo-Dec-13-9-40-03-PM.jpeg",
-"https://ilhanomar.com/wp-content/uploads/2021/12/The-Fight-Ad-15-sec-Gamut-Basis_updated.mp4",
-"https://ilhanomar.com/wp-content/uploads/2021/12/The-Fight-Ad-30-sec-Ampersand-CTV-1-1.mp4",
-"https://ilhanomar.com/wp-content/uploads/2021/12/fiercely-ad-30-sec-Ampersand-CTV.mp4",
-"https://ilhanomar.com/wp-content/uploads/2021/12/isra-sick-and-tired-30-sec-v3.mp4",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5395-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5435-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5887-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5974-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A6056-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A6852-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A6899-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7151-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7318-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7411-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7472-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/06/Don-Samuels-Republican-Donors.pdf",
-"https://ilhanomar.com/wp-content/uploads/2024/06/Don-Samuels-and-Public-Schools.pdf",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A5724-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A5836-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A5855-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A6309-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A6430-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A7076-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A7120-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A7547-scaled.jpg",
-"https://ilhanomar.com/wp-content/uploads/2024/08/Amy.jpeg",
-"https://insightnews.com/news/burn-north-high-rhetoric-ignites-call-for-samuels-to-step-down/article_a53b6c89-4a0f-5e8d-a64b-00840dc86a28.html",
-"https://instagram.com/ilhanmn",
-"https://secure.actblue.com/donate/ilhan_for_congress",
-"https://store.ilhanomar.com/",
-"https://twitter.com/IlhanMN",
-"https://twitter.com/intent/tweet?text=Media&url=https%3A%2F%2Filhanomar.com%2Fmedia%2F",
-"https://web.archive.org/web/20071008225437/http:/www.americanexperiment.org/uploaded/files/achievement_gaps__vouchers_012507.pdf",
-"https://youtube.com/watch?v=bUpS22p6hTo"
+{
+"text": "Authentic",
+"href": "https://www.authentic.org"
+},
+{
+"text": "Contact Us",
+"href": "https://ilhanomar.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ilhan_for_congress"
+},
+{
+"text": "Endorsements",
+"href": "https://ilhanomar.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://ilhanomar.com/volunteer/"
+},
+{
+"text": "Get the Facts",
+"href": "https://ilhanomar.com/my-record/"
+},
+{
+"text": "Home",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "Ilhan’s Record",
+"href": "https://ilhanomar.com/progress/"
+},
+{
+"text": "Jobs",
+"href": "https://ilhanomar.com/jobs/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://ilhanomar.com/media/"
+},
+{
+"text": "News",
+"href": "https://ilhanomar.com/news/"
+},
+{
+"text": "North High School to be burned down — prompting the Northside community to demand his resignation",
+"href": "https://www.insightnews.com/news/burn-north-high-rhetoric-ignites-call-for-samuels-to-step-down/article_a53b6c89-4a0f-5e8d-a64b-00840dc86a28.html"
+},
+{
+"text": "Our Opponent’s Record on Public Schools",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/Don-Samuels-and-Public-Schools.pdf"
+},
+{
+"text": "Our Opponent’s Republican Donors",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/Don-Samuels-Republican-Donors.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilhanomar.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.ilhanomar.com/"
+},
+{
+"text": "Vision",
+"href": "https://ilhanomar.com/visions/"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IlhanPortrait3-scaled-1.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IlhanPortrait4.png"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IlhanPride2-scaled-1.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IlhanReadingKids.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IlhanSupporters.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/OmarEllisonThumbsUp.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/Photo-Dec-13-9-40-03-PM.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5395-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5435-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5887-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A5974-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A6056-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A6852-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A6899-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7151-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7318-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7411-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/06/1Q8A7472-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A5724-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A5836-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A5855-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A6309-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A6430-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A7076-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A7120-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/07/1Q8A7547-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://ilhanomar.com/wp-content/uploads/2024/08/Amy.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IO-crowdf-footage-v2.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IO-shows-up-30-sec-v3.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/IO-shows-up-60-sec-v3-1.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/The-Fight-Ad-15-sec-Gamut-Basis_updated.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/The-Fight-Ad-30-sec-Ampersand-CTV-1-1.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/fiercely-ad-30-sec-Ampersand-CTV.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com/wp-content/uploads/2021/12/isra-sick-and-tired-30-sec-v3.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/IlhanMN"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Media&url=https%3A%2F%2Filhanomar.com%2Fmedia%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/IlhanMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Filhanomar.com%2Fmedia%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ilhanmn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=bUpS22p6hTo"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Media&body=...+view+more%3A+https%3A%2F%2Filhanomar.com%2Fmedia%2F"
+},
+{
+"text": "children who attend public schools",
+"href": "https://web.archive.org/web/20071008225437/http:/www.americanexperiment.org/uploaded/files/achievement_gaps__vouchers_012507.pdf"
+},
+{
+"text": "ilhanomar.com",
+"href": "https://ilhanomar.com"
+}
 ]

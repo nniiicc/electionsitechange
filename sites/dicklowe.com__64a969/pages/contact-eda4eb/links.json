@@ -1,7 +1,34 @@
 [
-"https://dicklowe.com/",
-"https://dicklowe.com/contact",
-"https://dicklowe.com/privacy-policy",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://secure.anedot.com/friends-of-dick-lowe-2020/donate"
+{
+"text": "CONTACT US",
+"href": "https://dicklowe.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-dick-lowe-2020/donate"
+},
+{
+"text": "HOME",
+"href": "https://dicklowe.com/"
+},
+{
+"text": "MEET DICK LOWE",
+"href": "https://dicklowe.com#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://dicklowe.com/privacy-policy/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://dicklowe.com#take-action"
+},
+{
+"text": "[image]",
+"href": "https://dicklowe.com"
+}
 ]

@@ -1,32 +1,178 @@
 [
-"https://ballotapplication.elections.ny.gov/home/earlymail",
-"https://docs.google.com/forms/d/e/1FAIpQLSdR6qUaTqn6Ka6C-GJVmre4AcQsriqJzH4sfXe3OF7bp27avA/viewform",
-"https://elections.ny.gov/request-ballot",
-"https://facebook.com/tom.suozzi",
-"https://findmypollsite.vote.nyc/",
-"https://icrmedia.com/",
-"https://instagram.com/tom_suozzi",
-"https://mobilize.us/s/6LjiU7",
-"https://nassaucountyny.gov/DocumentCenter/View/52938/Nassau-Early-Voting-Flyer",
-"https://secure.actblue.com/donate/ts_web",
-"https://suozziforcongress.com/",
-"https://suozziforcongress.com/about-tom",
-"https://suozziforcongress.com/article/police-firefighter-unions-back-dem-ny-rep-tom-suozzi-after-trump-linked-super-pac-spends-8m-on-attack-ads",
-"https://suozziforcongress.com/article/rep-suozzi-kicks-off-re-election-bid-with-bipartisan-support-from-mayors",
-"https://suozziforcongress.com/article/suozzi-launches-reelection-bid-as-lipetri-heads-to-gop-midterm-convention",
-"https://suozziforcongress.com/contact",
-"https://suozziforcongress.com/endorsements",
-"https://suozziforcongress.com/join",
-"https://suozziforcongress.com/media",
-"https://suozziforcongress.com/news",
-"https://suozziforcongress.com/privacy",
-"https://suozziforcongress.com/signs",
-"https://suozziforcongress.com/tom-suozzi-gets-things-done-for-new-yorks-third-district",
-"https://suozziforcongress.com/tom-suozzis-five-point-american-affordability-plan",
-"https://suozziforcongress.com/vote",
-"https://suozziforcongress.com/wp-content/uploads/2024/09/New_York_Daily_News_nydredblack-1.svg",
-"https://suozziforcongress.com/wp-content/uploads/2024/09/The_New_York_Times_Logo.svg",
-"https://suozziforcongress.com/wp-content/uploads/2026/05/Early-Voting-Info-ENGLISH-05-14-26.pdf",
-"https://vote411.org/",
-"https://x.com/Tom_Suozzi"
+{
+"text": "About Tom",
+"href": "https://suozziforcongress.com/about-tom/"
+},
+{
+"text": "Accomplishments",
+"href": "https://suozziforcongress.com/tom-suozzi-gets-things-done-for-new-yorks-third-district/"
+},
+{
+"text": "American Affordability Plan",
+"href": "https://suozziforcongress.com/tom-suozzis-five-point-american-affordability-plan/"
+},
+{
+"text": "Contact",
+"href": "https://suozziforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ts_web"
+},
+{
+"text": "Endorsements",
+"href": "https://suozziforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/tom.suozzi"
+},
+{
+"text": "Five - Point \"American Affordability Plan\"",
+"href": "https://suozziforcongress.com/tom-suozzis-five-point-american-affordability-plan/"
+},
+{
+"text": "Get involved here.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdR6qUaTqn6Ka6C-GJVmre4AcQsriqJzH4sfXe3OF7bp27avA/viewform"
+},
+{
+"text": "Here",
+"href": "https://vote411.org"
+},
+{
+"text": "Home",
+"href": "https://suozziforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tom_suozzi/"
+},
+{
+"text": "InterCreative Media",
+"href": "https://icrmedia.com"
+},
+{
+"text": "Join Us",
+"href": "https://suozziforcongress.com/join"
+},
+{
+"text": "Join Us!",
+"href": "https://suozziforcongress.com/join"
+},
+{
+"text": "Join Us!",
+"href": "https://suozziforcongress.com/join/"
+},
+{
+"text": "Lawn Sign",
+"href": "https://mobilize.us/s/6LjiU7"
+},
+{
+"text": "Learn More",
+"href": "https://suozziforcongress.com/about-tom"
+},
+{
+"text": "Mail-In Vote Application",
+"href": "https://ballotapplication.elections.ny.gov/home/earlymail"
+},
+{
+"text": "Media",
+"href": "https://suozziforcongress.com/media/"
+},
+{
+"text": "Nassau",
+"href": "https://www.nassaucountyny.gov/DocumentCenter/View/52938/Nassau-Early-Voting-Flyer"
+},
+{
+"text": "Police, firefighter unions back Dem NY Rep. Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads",
+"href": "https://suozziforcongress.com/article/police-firefighter-unions-back-dem-ny-rep-tom-suozzi-after-trump-linked-super-pac-spends-8m-on-attack-ads/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://suozziforcongress.com/privacy"
+},
+{
+"text": "Queens",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Rep. Suozzi kicks off re-election bid with bipartisan support from mayors",
+"href": "https://suozziforcongress.com/article/rep-suozzi-kicks-off-re-election-bid-with-bipartisan-support-from-mayors/"
+},
+{
+"text": "Request a Sign!",
+"href": "https://suozziforcongress.com/signs"
+},
+{
+"text": "See all endorsements",
+"href": "https://suozziforcongress.com/endorsements"
+},
+{
+"text": "Suffolk",
+"href": "https://suozziforcongress.com/wp-content/uploads/2026/05/Early-Voting-Info-ENGLISH-05-14-26.pdf"
+},
+{
+"text": "Suozzi launches reelection bid as LiPetri heads to GOP midterm convention",
+"href": "https://suozziforcongress.com/article/suozzi-launches-reelection-bid-as-lipetri-heads-to-gop-midterm-convention/"
+},
+{
+"text": "Tom in the News",
+"href": "https://suozziforcongress.com/news/"
+},
+{
+"text": "Twitter Logo",
+"href": "https://x.com/Tom_Suozzi"
+},
+{
+"text": "VOTE!",
+"href": "https://suozziforcongress.com/vote"
+},
+{
+"text": "View the plan here.",
+"href": "https://suozziforcongress.com/tom-suozzis-five-point-american-affordability-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdR6qUaTqn6Ka6C-GJVmre4AcQsriqJzH4sfXe3OF7bp27avA/viewform"
+},
+{
+"text": "[image: NY Daily News logo]",
+"href": "https://suozziforcongress.com/wp-content/uploads/2024/09/New_York_Daily_News_nydredblack-1.svg"
+},
+{
+"text": "[image: New York Times logo]",
+"href": "https://suozziforcongress.com/wp-content/uploads/2024/09/The_New_York_Times_Logo.svg"
+},
+{
+"text": "[image: Suozzi for Congress 2026 logo]",
+"href": "https://suozziforcongress.com"
+},
+{
+"text": "[image: Tom Suozzi attends a get out the vote rally at Cove Glen Polish Home, Sunday, Feb. 4, 2024.]",
+"href": "https://suozziforcongress.com/article/police-firefighter-unions-back-dem-ny-rep-tom-suozzi-after-trump-linked-super-pac-spends-8m-on-attack-ads/"
+},
+{
+"text": "[image: U.S. Rep. Tom Suozzi kicked off his re-election campaign in Mineola.]",
+"href": "https://suozziforcongress.com/article/rep-suozzi-kicks-off-re-election-bid-with-bipartisan-support-from-mayors/"
+},
+{
+"text": "[image: U.S. Rep. Tom Suozzi speaks at the Mineola event at which he kicked off his re-election campaign for the 3rd Congressional District on Tuesday. Credit: Barry Sloan]",
+"href": "https://suozziforcongress.com/article/suozzi-launches-reelection-bid-as-lipetri-heads-to-gop-midterm-convention/"
+},
+{
+"text": "https://elections.ny.gov/request-ballot",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "read more >>",
+"href": "https://suozziforcongress.com/article/police-firefighter-unions-back-dem-ny-rep-tom-suozzi-after-trump-linked-super-pac-spends-8m-on-attack-ads/"
+},
+{
+"text": "read more >>",
+"href": "https://suozziforcongress.com/article/rep-suozzi-kicks-off-re-election-bid-with-bipartisan-support-from-mayors/"
+},
+{
+"text": "read more >>",
+"href": "https://suozziforcongress.com/article/suozzi-launches-reelection-bid-as-lipetri-heads-to-gop-midterm-convention/"
+}
 ]

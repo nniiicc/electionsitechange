@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://stickwithnick.org/donate",
- "paid_for_by": null,
+ "fingerprint": "acc9a42da533e32b64cc749a51ec8bdd470ebbc3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

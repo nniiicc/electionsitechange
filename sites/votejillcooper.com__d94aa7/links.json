@@ -1,13 +1,54 @@
 [
-"https://facebook.com/votejillcooper",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=10",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=100",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=20.24",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=5",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=50",
-"https://votejillcooper.com/",
-"https://votejillcooper.com/about-1",
-"https://votejillcooper.com/copy-of-about-jill-2",
-"https://votejillcooper.com/copy-of-endorsements"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=100"
+},
+{
+"text": "$20.24",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=20.24"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=50"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today"
+},
+{
+"text": "KEEP JILL FIGHTING FOR US IN HARRISBURG. DONATE NOW!",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.votejillcooper.com/about-1"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.votejillcooper.com/copy-of-endorsements"
+},
+{
+"text": "PENNSYLVANIA'S 55TH LEGISLATIVE DISTRICT",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=5"
+},
+{
+"text": "SEE WHO'S SUPPORTING JILL",
+"href": "https://www.votejillcooper.com/copy-of-about-jill-2"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/votejillcooper"
+},
+{
+"text": "[image: Logo_Transparent.png]",
+"href": "https://www.votejillcooper.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today"
+}
 ]

@@ -1,7 +1,11 @@
 {
- "description": "A conversation with Dr. Shirley Weber, California\u2019s secretary of state, who was a leader in starting the reparations process.",
+ "description": "A conversation with Dr. Shirley Weber, California’s secretary of state, who was a leader in starting the reparations process.",
  "final_url": "https://drshirleyweber.com/the-new-york-times-california-today-explaining-the-reparations-effort/",
- "paid_for_by": null,
+ "fingerprint": "f8ba58829e95286392f6c051ae74cd0be4863662",
+ "format": 3,
+ "paid_for_by": "",
  "title": "[The New York Times] California Today: Explaining the Reparations Effort - Shirley Weber for Secretary of State",
- "years_mentioned": []
+ "years_mentioned": [
+  "2021"
+ ]
 }

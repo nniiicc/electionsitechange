@@ -1,24 +1,90 @@
 [
-"https://314action.org/",
-"https://designedtorun.com/",
-"https://facebook.com/votegross",
-"https://instagram.com/votegross",
-"https://mdpruralcaucus.com/",
-"https://mea.org/",
-"https://michiganjustice.org/",
-"https://milist.org/",
-"https://minurses.org/",
-"https://miruralpac.com/",
-"https://pwa-westmi.org/",
-"https://secure.actblue.com/donate/rachelgross",
-"https://seiumi.org/",
-"https://tiktok.com/@votegross",
-"https://uaw.org/",
-"https://votegross.com/",
-"https://votegross.com/about",
-"https://votegross.com/contact",
-"https://votegross.com/events",
-"https://votegross.com/gallery",
-"https://votegross.com/issues",
-"https://votegross.com/volunteer"
+{
+"text": "About",
+"href": "https://www.votegross.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votegross.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rachelgross"
+},
+{
+"text": "Events",
+"href": "https://www.votegross.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.votegross.com/gallery"
+},
+{
+"text": "Issues",
+"href": "https://www.votegross.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://314action.org/"
+},
+{
+"text": "Learn More",
+"href": "https://mdpruralcaucus.com/"
+},
+{
+"text": "Learn More",
+"href": "https://mea.org/"
+},
+{
+"text": "Learn More",
+"href": "https://milist.org/"
+},
+{
+"text": "Learn More",
+"href": "https://minurses.org/"
+},
+{
+"text": "Learn More",
+"href": "https://miruralpac.com/"
+},
+{
+"text": "Learn More",
+"href": "https://pwa-westmi.org/"
+},
+{
+"text": "Learn More",
+"href": "https://uaw.org/"
+},
+{
+"text": "Learn More",
+"href": "https://www.michiganjustice.org/"
+},
+{
+"text": "Learn More",
+"href": "https://www.seiumi.org/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votegross.com/volunteer"
+},
+{
+"text": "[image: Rachel Gross for State House 78]",
+"href": "https://www.votegross.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votegross"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votegross"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@votegross"
+}
 ]

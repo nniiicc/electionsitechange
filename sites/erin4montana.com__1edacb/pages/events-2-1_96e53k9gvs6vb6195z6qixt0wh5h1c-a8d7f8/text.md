@@ -1,15 +1,5 @@
-Back to All Events
-Join our doggie group — Prickly Pear Land Trust’s Don’t Fence Me In Weekend
-My dog, Maeve, and I will be out for the 5K Dog Walk at Helena’s Don’t Fence Me In weekend — come join us for a relaxed walk and good company!
-📅 Saturday, May 9
-⏰ 11 AM start
-Sign up for the 5K Dog Walk and email me if you want join our crew!
+0 Skip to Content Home About Contact Endorsements Priorities Neighborhood Notes What's Cookin' Donate Here Open Menu Close Menu Open Menu Close Menu Donate Here Home About Contact Endorsements Priorities Neighborhood Notes What's Cookin' Home About Contact Endorsements Priorities Neighborhood Notes What's Cookin' Donate Here Back to All Events Join me at Don’t Fence Me In (5K Dog Walk) Saturday, May 9, 2026 11:00 AM 2:00 PM Google Calendar ICS Join our doggie group — Prickly Pear Land Trust’s Don’t Fence Me In Weekend My dog, Maeve, and I will be out for the 5K Dog Walk at Helena’s Don’t Fence Me In weekend — come join us for a relaxed walk and good company! 📅 Saturday, May 9 ⏰ 11 AM start Sign up for the 5K Dog Walk and email me if you want join our crew!
 If you’re doing another race, be sure to grab a sticker so you can still be part of the crew.
-Previous
-Previous
-April 28
-Candidate Forum for Progressives @ St.
-Paul’s United Methodist Church
-Next
-Next
-May 17
+Previous Previous April 28 Candidate Forum for Progressives @ St.
+Paul’s United Methodist Church Next Next May 17 Phone & Text Bank erin4montana@gmail.com www.erin4montana.com Jon Motl, Treasurer Erin Farris-Olsen is running for Senate District 41 Paid for by Erin 4 Montana Democrat P.O.
+Box 141 Helena, MT 59624 Additional Terms and Conditions

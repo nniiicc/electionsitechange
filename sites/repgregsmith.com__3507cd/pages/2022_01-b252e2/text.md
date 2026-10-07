@@ -1,8 +1,4 @@
-Press Release: Representative Greg Smith Announces 2022 Priorities
-FOR IMMEDIATE RELEASE:
-January 20, 2022
-Representative Greg Smith Announces 2022 Priorities
-SALEM, Ore. – On February 1 the Oregon Legislature will convene the 2022 Legislative Session.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Greg Smith Announces 2022 Priorities January 20, 2022 / in News FOR IMMEDIATE RELEASE : January 20, 2022 Representative Greg Smith Announces 2022 Priorities SALEM, Ore. – On February 1 the Oregon Legislature will convene the 2022 Legislative Session.
 Representative Greg Smith (R-Heppner) offered the following statements regarding District 57 priorities for the upcoming session.
 Behavior Health – Local health professionals and law enforcement officers have shared how this issue has proliferated and affects the district.
 During the 2022 Legislative Session, I will be looking for every way I can help contribute to finding effective and sustainable solutions, both at the state-wide and local levels.
@@ -13,7 +9,7 @@ For context, large contractors charge 100 percent of residential project costs u
 Once payment is received, the consumer is at their mercy and completion of the project can often become an incredibly difficult process.
 This legislation would strengthen the consumer’s interests and improve project outcomes.
 Housing – Studies have shown that rural Oregon needs more housing at all levels of income.
-While I will advocate for the various levels of development, my specific focus will be on District 57’s most pressing housing need: middle income housing.
+While I will advocate for the various levels of development, my specific focus will be on District 57’s most press ing housing need: middle income housing.
 I-5 Bridge Replacement – While seemingly not important to District 57, the replacement of the I-5 bridge between the states of Oregon and Washington is important to many other regions besides the Metro.
 Activities involved in the construction and eventual movement of commerce are critical to the five ports of District 57, including the Port of Morrow which is the second largest port in Oregon.
 As a member of the Joint I-5 Bridge Committee, I support the new bridge and will be intimately involved in its development.
@@ -34,7 +30,8 @@ Getting Back to Normal – We have all been slowly returning to ‘normal’ lif
 However, we must balance this with sensitivity to the real threat COVID-19 poses to Oregon’s most vulnerable.
 The 2021 Legislative Session was a long and difficult session coupled with a full reconstructive shoulder surgery that I dealt with.
 This session, I am hoping to see many constituents in Salem again because, unlike last session, the Capitol is slated to be open to the public.
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-01-20 09:55:54 2023-10-02 09:57:51 Press Release: Representative Greg Smith Announces 2022 Priorities Press Release: Representative Greg Smith Comments on the Passing of Ryan Neal January 18, 2022 / in News FOR IMMEDIATE RELEASE : January 18, 2022 Representative Greg Smith Comments on the Passing of Ryan Neal BOARDMAN, Ore. – Representative Greg Smith (R-Heppner) said, “It is with a heavy heart we share the passing of our colleague and friend, Ryan Neal, Executive Director and CEO of the Port of Morrow.
+He has been a strong advocate for ports throughout the United States and abroad, and his work in economic development at the Port of Morrow has made our economy stronger in Eastern Oregon.
+Ryan has left a legacy of hard work, professionalism, and good will throughout our region and will be missed by all of us.” ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-01-18 09:53:33 2023-10-02 09:54:53 Press Release: Representative Greg Smith Comments on the Passing of Ryan Neal Press Release: Representative Greg Smith Encourages Firearm Safety January 11, 2022 / in News FOR IMMEDIATE RELEASE: January 11, 2022 Representative Greg Smith Encourages Firearm Safety Heppner, OR – The National Rifle Association (NRA) offers various firearm safety opportunities at the regional level, including but not limited to, pistol training, rifle training, shotgun training, self defense training, and home firearm safety training.
+Due to increased demand, the NRA has added more of these local courses. “ As a staunch supporter of the second amendment, I believe firearm safety is of the utmost importance and would encourage all of my fellow gun owners to attend a course” said Representative Greg Smith (R-Heppner), “I would also recommend that all of my non gun-owning constituents consider attending one of these invaluable courses.” ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-01-11 09:51:28 2023-10-02 09:52:33 Press Release: Representative Greg Smith Encourages Firearm Safety July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

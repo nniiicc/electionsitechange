@@ -1,15 +1,31 @@
-Overview: This table compares Floyd’s bill against Iowa’s 2024 foreign farmland law (SF 2204) and the federal PASS Act proposals.
+Floyd 2026 “A name you think you might know… but a leader you’ll never forget.” ❮ Home The Congress App Donate Draft Legislation Public/Press Statements Volunteer Community Scoreboard About Beliefs Issues FAQ Calendar Contact Finance Subscribe to SMS updates ❯ Family Farm Protection & Land Freedom Act — Side‑by‑side comparison Overview: This table compares Floyd’s bill against Iowa’s 2024 foreign farmland law (SF 2204) and the federal PASS Act proposals.
 It highlights scope, enforcement, transparency, and protections for local farmers.
-| Feature | Floyd’s Family Farm Protection & Land Freedom Act | Iowa SF 2204 (2024) | Federal PASS Act |
-|---|---|---|---|
-| Scope | Indiana agricultural land; comprehensive ownership, leasing, and control. | Foreign interests in Iowa agricultural land; focuses on reporting and enforcement enhancements. | National security focus; foreign adversaries’ purchases of ag land/businesses near sensitive sites and expanded federal review. |
-| Ownership restrictions | Bans purchase, lease, or acquisition by foreign entities; voids violative transfers. | Iowa historically restricts foreign ownership with exceptions; SF 2204 tightens oversight and penalties. | Targets entities from China, Russia, Iran, North Korea; bars acquisitions near military/sensitive sites and mandates prohibitions after review. |
-| Right of first refusal | Yes — 180‑day window for nearby family farmers to purchase at fair market value before sale to outside corporations/funds. | Not included. | Not included. |
-| Transparency / registry | Public registry of ownership >25 acres with beneficial owners; dashboard publication. | Enhances reporting to the state; requires annual reports; AG subpoena authority to investigate violations. | Expands federal CFIUS review to agriculture; no public land ownership registry component. |
-| Enforcement | State AG concurrent with DOJ; forfeiture of land on violations (compensation limited to original price); civil penalties for concealment. | Increases fines; empowers AG with subpoenas and enhanced oversight of foreign land holdings and reporting. | Directs CFIUS and President to prohibit covered transactions; national‑security enforcement mechanisms. |
-| Penalties | Up to $10,000 per acre for concealment; forfeiture for violative ownership. | Up to $10,000 per reporting violation; failure to disclose may incur up to 25% of property value; tightens from prior $2,000 cap. | Prohibition of transactions; no per‑acre civil penalty framework specified in public summaries. |
-| Local farmer advantage | Explicit purchasing priority for nearby family farmers. | Focus on oversight; no explicit purchasing priority mechanism. | National security focus; no local purchasing priority mechanism. |
+Feature Floyd’s Family Farm Protection & Land Freedom Act Iowa SF 2204 (2024) Federal PASS Act Scope Indiana agricultural land; comprehensive ownership, leasing, and control.
+Foreign interests in Iowa agricultural land; focuses on reporting and enforcement enhancements.
+National security focus; foreign adversaries’ purchases of ag land/businesses near sensitive sites and expanded federal review.
+Ownership restrictions Bans purchase, lease, or acquisition by foreign entities; voids violative transfers.
+Iowa historically restricts foreign ownership with exceptions; SF 2204 tightens oversight and penalties.
+Targets entities from China, Russia, Iran, North Korea; bars acquisitions near military/sensitive sites and mandates prohibitions after review.
+Right of first refusal Yes — 180‑day window for nearby family farmers to purchase at fair market value before sale to outside corporations/funds.
+Not included.
+Not included.
+Transparency / registry Public registry of ownership >25 acres with beneficial owners; dashboard publication.
+Enhances reporting to the state; requires annual reports; AG subpoena authority to investigate violations.
+Expands federal CFIUS review to agriculture; no public land ownership registry component.
+Enforcement State AG concurrent with DOJ; forfeiture of land on violations (compensation limited to original price); civil penalties for concealment.
+Increases fines; empowers AG with subpoenas and enhanced oversight of foreign land holdings and reporting.
+Directs CFIUS and President to prohibit covered transactions; national‑security enforcement mechanisms.
+Penalties Up to $10,000 per acre for concealment; forfeiture for violative ownership.
+Up to $10,000 per reporting violation; failure to disclose may incur up to 25% of property value; tightens from prior $2,000 cap.
+Prohibition of transactions; no per‑acre civil penalty framework specified in public summaries.
+Local farmer advantage Explicit purchasing priority for nearby family farmers.
+Focus on oversight; no explicit purchasing priority mechanism.
+National security focus; no local purchasing priority mechanism.
 Why mine goes further: Unlike Iowa’s law, which concentrates on reporting and penalties, my bill adds a public beneficial‑ownership registry and a right‑of‑first‑refusal that concretely advantages local family farmers.
 Unlike the PASS Act’s national‑security lens, my bill directly defends ownership, transparency, and local purchasing power statewide.
 Context: Iowa’s SF 2204 strengthened an already strict regime by raising fines, expanding reporting, and empowering the Attorney General; it sits atop decades‑old limits and exceptions.
-At the federal level, PASS Act proposals expand CFIUS to agriculture, focus on adversary nations, and aim to block sensitive‑site acquisitions; currently, there is no comprehensive federal ownership cap, only AFIDA reporting and proposed restrictions through national‑security channels.
+At the federal level, PASS Act proposals expand CFIUS to agriculture, focus on adversary nations, and aim to block sensitive‑site acquisitions; currently, there is no comprehensive federal ownership cap, only AFIDA reporting and proposed restrictions through national‑security channels. © # Floyd Taylor for Congress.
+All rights reserved.
+Paid for by Floyd Taylor for Congress.
+Contributions are not tax deductible.
+Privacy Policy and Terms of Service .

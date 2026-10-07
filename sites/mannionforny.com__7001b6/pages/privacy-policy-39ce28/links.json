@@ -1,35 +1,150 @@
 [
-"https://bsky.app/profile/mannionforny.bsky.social",
-"https://facebook.com/JohnMannionforNY",
-"https://instagram.com/mannionforNY",
-"https://landslide.digital/",
-"https://mannionforny.com/",
-"https://mannionforny.com/accessibility-statement",
-"https://mannionforny.com/cdn-cgi/l/email-protection",
-"https://mannionforny.com/donate",
-"https://mannionforny.com/donate?express_lane=true&amount=10",
-"https://mannionforny.com/donate?express_lane=true&amount=100",
-"https://mannionforny.com/donate?express_lane=true&amount=25",
-"https://mannionforny.com/donate?express_lane=true&amount=250",
-"https://mannionforny.com/donate?express_lane=true&amount=50",
-"https://mannionforny.com/endorsements",
-"https://mannionforny.com/get-involved",
-"https://mannionforny.com/get-involved/get-updates",
-"https://mannionforny.com/get-involved/volunteer",
-"https://mannionforny.com/media",
-"https://mannionforny.com/meet-the-candidate",
-"https://mannionforny.com/on-the-issues",
-"https://mannionforny.com/on-the-issues/affordability",
-"https://mannionforny.com/on-the-issues/education",
-"https://mannionforny.com/on-the-issues/healthcare",
-"https://mannionforny.com/on-the-issues/public-safety",
-"https://mannionforny.com/on-the-issues/the-environment",
-"https://mannionforny.com/on-the-issues/veterans",
-"https://mannionforny.com/privacy-policy",
-"https://mannionforny.com/vote",
-"https://mannionforny.com/vote/check-if-im-registered-to-vote",
-"https://mannionforny.com/vote/more-voting-information",
-"https://mannionforny.com/vote/register-to-vote",
-"https://mannionforny.com/vote/vote-by-mail",
-"https://store.mannionforny.com/"
+{
+"text": "$#",
+"href": "https://www.mannionforny.com/donate?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.mannionforny.com/donate?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.mannionforny.com/donate?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.mannionforny.com/donate?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.mannionforny.com/donate?express_lane=true&amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://www.mannionforny.com/accessibility-statement/"
+},
+{
+"text": "Affordability",
+"href": "https://www.mannionforny.com/on-the-issues/affordability/"
+},
+{
+"text": "Check if I’m Registered to Vote",
+"href": "https://www.mannionforny.com/vote/check-if-im-registered-to-vote/"
+},
+{
+"text": "Donate Now!",
+"href": "https://www.mannionforny.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.mannionforny.com/on-the-issues/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mannionforny.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mannionforny.com/get-involved/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.mannionforny.com/get-involved/get-updates/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.mannionforny.com/on-the-issues/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://www.mannionforny.com/"
+},
+{
+"text": "Landslide Digital",
+"href": "https://landslide.digital"
+},
+{
+"text": "Mannion for New York BlueSky",
+"href": "https://bsky.app/profile/mannionforny.bsky.social"
+},
+{
+"text": "Mannion for New York Facebook",
+"href": "https://www.facebook.com/JohnMannionforNY"
+},
+{
+"text": "Mannion for New York Instagram",
+"href": "https://www.instagram.com/mannionforNY/"
+},
+{
+"text": "Media",
+"href": "https://www.mannionforny.com/media/"
+},
+{
+"text": "Meet John",
+"href": "https://www.mannionforny.com/meet-the-candidate/"
+},
+{
+"text": "More Voting Information",
+"href": "https://www.mannionforny.com/vote/more-voting-information/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.mannionforny.com/on-the-issues/"
+},
+{
+"text": "Other",
+"href": "https://www.mannionforny.com/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mannionforny.com/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://www.mannionforny.com/on-the-issues/public-safety/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.mannionforny.com/vote/register-to-vote/"
+},
+{
+"text": "Store",
+"href": "https://store.mannionforny.com/"
+},
+{
+"text": "Support Congressman Mannion. Donate Now",
+"href": "https://www.mannionforny.com/donate"
+},
+{
+"text": "The Environment",
+"href": "https://www.mannionforny.com/on-the-issues/the-environment/"
+},
+{
+"text": "Veterans",
+"href": "https://www.mannionforny.com/on-the-issues/veterans/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mannionforny.com/get-involved/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.mannionforny.com/vote/"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.mannionforny.com/vote/vote-by-mail/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@mannionforny.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:support@getthru.io"
+},
+{
+"text": "[image: logo-mannion]",
+"href": "https://www.mannionforny.com/"
+}
 ]

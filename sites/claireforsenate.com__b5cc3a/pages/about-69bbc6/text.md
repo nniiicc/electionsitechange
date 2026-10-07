@@ -1,5 +1,4 @@
-About Claire
-For the past eight years, Claire has represented the 30th district, advocating for accessible early education, safe and healthy communities, comprehensive sex ed, accessible transportation, environmental protections, and more.
+Toggle navigation Contribute Volunteer About About Claire Photos Accomplishments Community Investment Early Education Sexuality Health Education Issues Affordability Education Environment and Sustainability Gun Responsibility Healthcare and Reproductive Rights Transportation and Taxpayer Accountability Endorsements Join Volunteer Endorse Contact About Claire For the past eight years, Claire has represented the 30th district, advocating for accessible early education, safe and healthy communities, comprehensive sex ed, accessible transportation, environmental protections, and more.
 She also serves as an advisory board member on the Washington State Family and Community Trust Organization and as a Senate member to the Department of Children, Youth, and Family (DCYF) Oversight Board.
 Prior to her election to the Washington State Senate, Claire spent 25 years working for the Puget Sound Educational Service District (PSESD), specializing in early education and family involvement.
 Before working for the PSESD, Claire taught pregnant and parenting teens at Mt.
@@ -11,3 +10,4 @@ Claire is a proud lesbian woman and mother of two adult children.
 She is a Washington State native, grew up in Seattle, and graduated from Roosevelt High School and Washington State University.
 She received her Master’s Degree from the University of Northern Colorado.
 Now a long-term resident of the 30th LD, Claire has lived in South King County since 1999.
+Paid for by Claire for Senate 31811 Pacific Hwy S, Ste B #288 | Federal Way, WA 98003 info@claireforsenate.com

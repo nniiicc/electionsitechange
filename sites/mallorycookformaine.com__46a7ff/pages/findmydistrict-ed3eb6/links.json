@@ -1,12 +1,42 @@
 [
-"https://maine.gov/portal/government/edemocracy/voter_lookup.php",
-"https://mallorycookformaine.com/",
-"https://mallorycookformaine.com/about",
-"https://mallorycookformaine.com/about-1",
-"https://mallorycookformaine.com/findmydistrict",
-"https://mallorycookformaine.com/mainecleanelections",
-"https://mallorycookformaine.com/priorities",
-"https://mallorycookformaine.com/testimonials",
-"https://mallorycookformaine.com/why",
-"https://mallorycookformaine.com/yard-signs"
+{
+"text": "About",
+"href": "https://www.mallorycookformaine.com/about"
+},
+{
+"text": "Click Here",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Donate",
+"href": "https://www.mallorycookformaine.com/mainecleanelections"
+},
+{
+"text": "Find My District",
+"href": "https://www.mallorycookformaine.com/findmydistrict"
+},
+{
+"text": "Home",
+"href": "https://www.mallorycookformaine.com"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://www.mallorycookformaine.com/priorities"
+},
+{
+"text": "Testimonials",
+"href": "https://www.mallorycookformaine.com/testimonials"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mallorycookformaine.com/about-1"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.mallorycookformaine.com/why"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.mallorycookformaine.com/yard-signs"
+}
 ]

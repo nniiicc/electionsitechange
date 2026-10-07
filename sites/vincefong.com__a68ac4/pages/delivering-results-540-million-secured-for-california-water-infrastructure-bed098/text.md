@@ -1,6 +1,4 @@
-Delivering Results: $540 Million Secured for California Water Infrastructure
-March 30, 2026
-We are making real progress of the issue of water infrastructure in the Central Valley—and we have results to show for it.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Delivering Results: $540 Million Secured for California Water Infrastructure March 30, 2026 We are making real progress of the issue of water infrastructure in the Central Valley—and we have results to show for it.
 For the past several months, I have been working alongside my colleagues and federal partners to help secure federal funding to modernize and strengthen our state’s critical water infrastructure.
 Thanks in part to our efforts, and the leadership of President Trump, that critical funding was included in the Working Families Tax Cuts Act that Congress passed last year.
 In the past couple weeks, the Department of the interior finally announced the deployment of $540 million for water infrastructure projects here in California.
@@ -8,7 +6,7 @@ This is one of the most significant water investments the Central Valley has see
 As you know, Central Valley families, farmers, and communities depend on reliable water every single day.
 We grow nearly three-quarters of the nation’s fresh fruits and nuts and half of its vegetables, yet for far too long we’ve been forced to rely on outdated infrastructure that cannot keep up with today’s demands.
 Gavin Newsom and the California Democrats have pushed a radical environmental agenda that has stood in the way of numerous needed projects.
-Voters approved Prop 1 over 12 years ago, promising new dams and expanded reservoirs, yet the state has nothing to show for it.
+Voters approved Prop 1 over #ago, promising new dams and expanded reservoirs, yet the state has nothing to show for it.
 We can no longer wait for California Democrats to do their jobs.
 We are taking action and delivering results.
 These new investments will go directly toward repairing and upgrading the systems that move water across our state — including the Friant-Kern Canal, Delta-Mendota Canal, San Luis Canal, and Tehama-Colusa Canal, along with important work to expand water storage at Shasta Dam.
@@ -18,3 +16,4 @@ A stronger, more reliable water system means greater agricultural stability, str
 While this is a significant step forward, our work is not done.
 We will continue to advance policies that allow for expanded water storage, improved conveyance, and bringing California’s water management into the 21st century.
 Thank you for your continued support and for standing with me in the fight to secure a stronger future for the Central Valley.
+Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

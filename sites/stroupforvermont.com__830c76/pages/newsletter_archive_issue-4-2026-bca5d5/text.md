@@ -1,6 +1,5 @@
-Thank you for your support in the primary!
-(Election Results Here)
-I am honored to run as one of your Democratic candidates for the Addison-3 House of Representatives seat.
+JOHN STROUP FOR VERMONT HOUSE About Issues Endorsements Get Involved Newsletter Home About Issues Endorsements Get Involved Newsletter August 2026 Issue 4 Thank You!
+Onward to the November 3rd General Election By John Stroup ← All Newsletters August 2026 ✕ ← → Thank you for your support in the primary! ( Election Results Here ) I am honored to run as one of your Democratic candidates for the Addison-3 House of Representatives seat.
 Democracy requires our continued commitment.
 Thank you to all the volunteers who knocked on a door, made a phone call, put up a sign, wrote a letter, made a donation or just talked with a neighbor about our shared hopes for Vermont.
 Your hard work made all the difference.
@@ -25,4 +24,6 @@ We need healthcare that gives people dignity and access to the care that they ne
 We can support a sustainable farming system and protect our forests, waterways and lakes for the next generation.
 That is a positive vision for Vermont.
 Join this effort as we work together for our best days ahead!
-John
+Volunteer Today Please go to this link to volunteer with the campaign.
+Volunteer John August 2026 Issue 4 ← Back to all newsletters John Stroup for Vermont House PO Box 72 · Vergennes, Vermont 05491 Paid for by the Stroup for Vermont Campaign Enable JavaScript to view email address.
+Instagram Contact Volunteer Contribute Get Updates © # John Stroup for Vermont

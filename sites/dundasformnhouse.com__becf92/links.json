@@ -1,14 +1,62 @@
 [
-"http://facebook.com/dundasformnhouse",
-"http://instagram.com/dundas_for_mn_house",
-"https://dundasformnhouse.com/",
-"https://dundasformnhouse.com/challenge",
-"https://dundasformnhouse.com/connect",
-"https://dundasformnhouse.com/priorities",
-"https://dundasformnhouse.com/spanish",
-"https://dundasformnhouse.com/vote",
-"https://forms.gle/5bjQUFGfXxd4Zp168",
-"https://forms.gle/R6YfsAdKhnm215CU7",
-"https://secure.actblue.com/donate/dundasformnhouse",
-"https://secure.countonme.org/dundas-for-mn-house-committee/website-email"
+{
+"text": "Connect",
+"href": "https://www.dundasformnhouse.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dundasformnhouse"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.actblue.com/donate/dundasformnhouse"
+},
+{
+"text": "English",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "LEARN MORE ABOUT OUR VISION",
+"href": "https://www.dundasformnhouse.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.dundasformnhouse.com/priorities"
+},
+{
+"text": "SIGN UP",
+"href": "https://forms.gle/5bjQUFGfXxd4Zp168"
+},
+{
+"text": "Sign Up!",
+"href": "https://secure.countonme.org/dundas-for-mn-house-committee/website-email"
+},
+{
+"text": "Spanish",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/R6YfsAdKhnm215CU7"
+},
+{
+"text": "Volunteer Challenge",
+"href": "https://www.dundasformnhouse.com/challenge"
+},
+{
+"text": "Vote",
+"href": "https://www.dundasformnhouse.com/vote"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/dundasformnhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/dundas_for_mn_house"
+}
 ]

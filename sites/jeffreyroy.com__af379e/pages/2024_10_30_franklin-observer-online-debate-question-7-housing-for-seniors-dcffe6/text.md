@@ -1,10 +1,11 @@
-The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate ← Franklin Observer online debate question #6: Overrides Governor signs climate and energy bill → Franklin Observer online debate question #7: Housing for seniors Posted on October 30, 2024 by Jeffrey Roy The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
 One question and the candidate’s respective responses will be published for a total of seven weeks leading up to the election.
 Here is question number 7 and Rep.
 Roy’s response on housing for seniors.
 What can or should be done to provide housing for seniors that is actually affordable (as opposed to 55+ housing that still requires a robust middle- to upper-middle class income)?
 Housing for seniors has been a priority for me and the legislature and we have taken bold action on that issue.
-In August, the Legislature passed the Affordable Homes Act, the largest housing investment in Massachusetts history and a powerful first step in tackling the state’s housing affordability crisis.
+In August, the Legislature passed the Affordable Homes Act , the largest housing investment in Massachusetts history and a powerful first step in tackling the state’s housing affordability crisis.
 The legislation authorizes $5.16 billion in bond authorizations and tax credits to spur housing production in Massachusetts, while implementing sweeping policy initiatives to facilitate the development of affordable housing and preserve public housing in Massachusetts.
 Among the many policy initiatives included in the bill to create more housing, particularly for seniors, is a provision to permit one accessory dwelling unit (ADU) equal to or less than 900 square feet to be built by-right on a property in single-family zoning districts in all Massachusetts communities.
 This will allow seniors the option to stay with their property, stay in their community, and offer a younger generation or other family members to live there as well.
@@ -16,11 +17,17 @@ Twenty-five per cent of funds must be used to fund projects which preserve housi
 In the bill, there is also $60 million to modify homes of individuals or families with disabilities or seniors so that they may maintain residency or return home from institutional settings.
 We also doubled the Affordable Housing Trust Fund to $800 million, doubling the Housing Innovations Fund to $200 million and nearly tripling the Housing Stabilization and Investment Fund to $425 million included which provides resources to create or preserve affordable housing for households earning less than 100 per cent of AMI and $200 million to accelerate the development of mixed-income multifamily housing.
 The bill also establishes an Office of Fair Housing and Fair Housing Trust Fund, mandating the establishment of a statewide housing plan, and establishing special commissions on extremely low-income housing, senior housing, and accessible housing for persons with disabilities.
-Locally, we included the following funding in the bill which is targeted for senior housing in Franklin:
-- $3,000,000 shall be expended for the Franklin Ridge senior housing project; and
-- $1,000,000 shall be expended for the Franklin Housing Authority
-I’m incredibly proud of the investments included in this bill, which together make the largest investment in affordable and middle-income housing in the history of the Commonwealth.
+Locally, we included the following funding in the bill which is targeted for senior housing in Franklin: $3,000,000 shall be expended for the Franklin Ridge senior housing project; and $1,000,000 shall be expended for the Franklin Housing Authority I’m incredibly proud of the investments included in this bill, which together make the largest investment in affordable and middle-income housing in the history of the Commonwealth.
 Given that Massachusetts is one of the most expensive states in the entire country to buy a home or rent an apartment, the funding and tax credits provided by this bill will be crucial as we work to ensure that every Massachusetts resident can afford to live here, work here, and raise a family here, and seniors aren’t priced out of communities where they want to live.
 As we enter into the final days of the campaign, I invite readers to view the video below which highlights work we have done together over the past 12 years.
 In addition, I invite you to view the graphic below which also highlights our work together on behalf of Franklin and Medway.
 I thank you for your continued support and ask for your vote on Tuesday, November 5.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Related This entry was posted in Uncategorized .
+Bookmark the permalink . ← Franklin Observer online debate question #6: Overrides Governor signs climate and energy bill → Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Reblog Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

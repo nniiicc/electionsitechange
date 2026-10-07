@@ -1,13 +1,2 @@
-A CONSERVATIVE,
-PRINCIPLED LEADER
-REPRESENTING YOU
-Why I’m Running
-My Priorities
-As your representative, my priorities are to:
-- Defend the divinely inspired Constitution
-- Listen to your concerns
-- Understand the issues
-- Innovatively solve problems
-- Stand up for our community
-- Report back and be accountable
-Working together, we can solve any problem.
+0 Skip to Content About Working For You Issues Team Work Newsletter Media Volunteer Contact DONATE Open Menu Close Menu About Working For You Issues Team Work Newsletter Media Volunteer Contact DONATE Open Menu Close Menu About Working For You Issues Team Work Newsletter Media Volunteer Contact DONATE A CONSERVATIVE, PRINCIPLED LEADER REPRESENTING YOU Learn More About Stephen Here Why I’m Running My Priorities As your representative, my priorities are to: Defend the divinely inspired Constitution Listen to your concerns Understand the issues Innovatively solve problems Stand up for our community Report back and be accountable Working together, we can solve any problem.
+Key Issues Business Environment Attainable Housing Natural Resources Education and Workforce Development Healthcare Transportation and Infrastructure Learn more CONTACT STEPHEN SOCIAL MEDIA FEED Site Navigation Home About Issues Newsletter Volunteer Contact Endorsements Media Connect Copyright #; All rights reserved; Paid for by Friends of Stephen Whyte

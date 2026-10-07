@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+me+at+Don%E2%80%99t+Fence+Me+In+%285K+Dog+Walk%29&dates=20260509T170000Z%2F20260509T200000Z",
-"https://erin4montana.com/",
-"https://erin4montana.com/about-erin-farris-olsen",
-"https://erin4montana.com/blog",
-"https://erin4montana.com/cart",
-"https://erin4montana.com/contact-erin-farris-olsen",
-"https://erin4montana.com/donate-to-erin-farris-olsen",
-"https://erin4montana.com/events-2-1",
-"https://erin4montana.com/events-2-1/96e53k9gvs6vb6195z6qixt0wh5h1c?format=ical",
-"https://erin4montana.com/events-2-1/candidate-forum-for-progressives",
-"https://erin4montana.com/events-2-1/phone-text-bank",
-"https://erin4montana.com/issues",
-"https://erin4montana.com/services-1",
-"https://erin4montana.com/terms-of-service-1",
-"https://erin4montana.com/whats-cookin",
-"https://facebook.com/profile.php?id=61576145584064",
-"https://instagram.com/erinformontana",
-"https://runsignup.com/Race/MT/Helena/DONTFENCEMEINTRAILRUN",
-"https://x.com/erinformontana"
+{
+"text": "0",
+"href": "https://www.erin4montana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.erin4montana.com/about-erin-farris-olsen"
+},
+{
+"text": "Additional Terms and Conditions",
+"href": "https://www.erin4montana.com/terms-of-service-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.erin4montana.com/events-2-1"
+},
+{
+"text": "Contact",
+"href": "https://www.erin4montana.com/contact-erin-farris-olsen"
+},
+{
+"text": "Donate Here",
+"href": "https://www.erin4montana.com/donate-to-erin-farris-olsen"
+},
+{
+"text": "Endorsements",
+"href": "https://www.erin4montana.com/blog"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+me+at+Don%E2%80%99t+Fence+Me+In+%285K+Dog+Walk%29&dates=20260509T170000Z%2F20260509T200000Z"
+},
+{
+"text": "Home",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.erin4montana.com/events-2-1/96e53k9gvs6vb6195z6qixt0wh5h1c?format=ical"
+},
+{
+"text": "Neighborhood Notes",
+"href": "https://www.erin4montana.com/services-1"
+},
+{
+"text": "Next Next May 17 Phone & Text Bank",
+"href": "https://www.erin4montana.com/events-2-1/phone-text-bank"
+},
+{
+"text": "Previous Previous April 28 Candidate Forum for Progressives @ St. Paul’s United Methodist Church",
+"href": "https://www.erin4montana.com/events-2-1/candidate-forum-for-progressives"
+},
+{
+"text": "Priorities",
+"href": "https://www.erin4montana.com/issues"
+},
+{
+"text": "Sign up for the 5K Dog Walk",
+"href": "https://runsignup.com/Race/MT/Helena/DONTFENCEMEINTRAILRUN"
+},
+{
+"text": "What's Cookin'",
+"href": "https://www.erin4montana.com/whats-cookin"
+},
+{
+"text": "[image: Erin Farris-Olsen for Senate District 41]",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/erinformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576145584064"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/erinformontana"
+}
 ]

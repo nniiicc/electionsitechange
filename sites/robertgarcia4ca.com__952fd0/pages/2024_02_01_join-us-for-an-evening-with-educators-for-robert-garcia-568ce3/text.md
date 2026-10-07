@@ -1,4 +1,6 @@
-Join us for an evening in support of Robert Garcia on Saturday, February 3, from 4 PM – 6 PM.
-Hosted by Sam and Julie Sager at 5101 La Barre Dr, Fontana, CA
-To donate online, visit https://secure.actblue.com/donate/robert-garcia-for-assembly-2024-1
-For any questions, contact Jack Yao at jack@sc-strategies.com
+Skip to content Menu Meet Robert News Endorsements District Map Media Volunteer Donate Quick Links: Facebook Twitter Instagram Open Search Window Home Announcements Join us for an evening with Educators for Robert Garcia Join us for an evening with Educators for Robert Garcia February 1, 2024 | Announcements | admin Join us for an evening in support of Robert Garcia on Saturday, February 3, from 4 PM – 6 PM.
+Hosted by Sam and Julie Sager at 5101 La Barre Dr, Fontana, CA To donate online, visit https://secure.actblue.com/donate/robert-garcia-for-assembly-2024-1 For any questions, contact Jack Yao at jack@sc-strategies.com Last modified: February 1, 2024 Previous: Join us for a fundraiser in support of Robert Garcia Next: Robert Garcia Advances to General Election in AD-50 Race Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Browse Categories Announcements 14 Search for: Search Recent Posts Speaker Robert Rivas Endorses Robert Garcia for Assembly March 18, 2024 Robert Garcia Advances to General Election in AD-50 Race March 12, 2024 Join us for an evening with Educators for Robert Garcia February 1, 2024 Join us for a fundraiser in support of Robert Garcia January 22, 2024 E-mail: info@robertgarcia4ca.com Social Media Facebook Instagram Twitter Join Team Robert Volunteer Donate Now Important Links Meet Robert Endorsements Our District Issues Facebook Twitter Instagram Open Search Window Copyright © # - PAID FOR BY ROBERT GARCIA FOR ASSEMBLY 2026 - FPPC #1477689 Search for: Search Close Search Window ↑

@@ -1,9 +1,38 @@
 [
-"https://chicagoelections.gov/voting/vote-mail",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail",
-"https://facebook.com/RickRyanforStateRep",
-"https://rickryan36district.com/",
-"https://rickryan36district.com/cart",
-"https://rickryan36district.com/get-involved",
-"https://secure.actblue.com/entity/fundraisers/152244"
+{
+"text": "0",
+"href": "https://www.rickryan36district.com/cart"
+},
+{
+"text": "Chicago Voters",
+"href": "https://chicagoelections.gov/voting/vote-mail"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/entity/fundraisers/152244"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rickryan36district.com/get-involved"
+},
+{
+"text": "Suburban Cook Voters",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rickryan36district.com/get-involved"
+},
+{
+"text": "[image: Rick Ryan for State Representative]",
+"href": "https://www.rickryan36district.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RickRyanforStateRep"
+},
+{
+"text": "rickryan36district@gmail.com",
+"href": "mailto:rickryan36district@gmail.com"
+}
 ]

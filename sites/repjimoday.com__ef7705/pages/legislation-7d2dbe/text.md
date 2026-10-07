@@ -1,13 +1,4 @@
-State Representative for the 14th Worcester district of Massachusetts
-HOME
-ISSUES & POLICIES
-GALLERY
-NEWSROOM
-CONTACT
-More
-H. 2505 An Act relative to end of life options
-H.1923 An Act to promote public safety and better outcomes for young adults
-H.1278 An Act relative to wheelchair repair requirements and consumer protection
-H. 380 An Act establishing the social work licensure compact in Massachusetts
-H. 656 An Act relative to healthy youth
-For a complete list of sponsored and co-sponsored bills, click here
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items. legislation H.
+2505 An Act relative to end of life options H.1923 An Act to promote public safety and better outcomes for young adults H.1278 An Act relative to wheelchair repair requirements and consumer protection H.
+380 An Act establishing the social work licensure compact in Massachusetts H.
+656 An Act relative to healthy youth For a complete list of sponsored and co-sponsored bills, click here bottom of page

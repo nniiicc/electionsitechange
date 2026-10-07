@@ -1,12 +1,78 @@
 [
-"https://carter4nv.com/",
-"https://carter4nv.com/about",
-"https://carter4nv.com/es/inicio",
-"https://carter4nv.com/issues",
-"https://carter4nv.com/media",
-"https://carter4nv.com/privacy-policy",
-"https://carter4nv.com/terms-of-use",
-"https://facebook.com/Max4ad12",
-"https://secure.actblue.com/donate/linda-for-nevada-1",
-"https://secure.actblue.com/donate/the-committee-to-elect-max-e--carter-ii-1"
+{
+"text": "About",
+"href": "https://www.carter4nv.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/linda-for-nevada-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/the-committee-to-elect-max-e--carter-ii-1"
+},
+{
+"text": "Español",
+"href": "https://www.carter4nv.com/es/inicio"
+},
+{
+"text": "Issues",
+"href": "https://www.carter4nv.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.carter4nv.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carter4nv.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.carter4nv.com/terms-of-use"
+},
+{
+"text": "[image]",
+"href": "https://www.carter4nv.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Max4ad12"
+},
+{
+"text": "[image]Education",
+"href": "https://www.carter4nv.com/issues#education"
+},
+{
+"text": "[image]Good Paying Jobs and Economy",
+"href": "https://www.carter4nv.com/issues#jobs"
+},
+{
+"text": "[image]Healthcare",
+"href": "https://www.carter4nv.com/issues#healthcare"
+},
+{
+"text": "[image]Housing",
+"href": "https://www.carter4nv.com/issues#housing"
+},
+{
+"text": "[image]Lowering Costs",
+"href": "https://www.carter4nv.com/issues#costs"
+},
+{
+"text": "[image]Privacy and Security",
+"href": "https://www.carter4nv.com/issues#privacy"
+},
+{
+"text": "[image]Public Safety",
+"href": "https://www.carter4nv.com/issues#safety"
+},
+{
+"text": "[image]Women's Healthcare",
+"href": "https://www.carter4nv.com/issues#womenshealth"
+},
+{
+"text": "view more",
+"href": "https://www.carter4nv.com/media"
+}
 ]

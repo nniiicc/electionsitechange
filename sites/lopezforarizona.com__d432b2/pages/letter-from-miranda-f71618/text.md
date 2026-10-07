@@ -1,5 +1,4 @@
-A Letter From Miranda
-On Election Day 2024, I showed up early to the Student Union at the University of Arizona to set up a table and sign saying "Are you trying to turn in your ballot?" because what most students didn't know was that the on-campus voting center at the UA Student Union had been quietly moved to a Methodist church a short walk off campus.
+HOME ABOUT MIRANDA PRIORITIES CONTACT US ENDORSEMENTS DONATE HOME ABOUT MIRANDA PRIORITIES CONTACT US ENDORSEMENTS DONATE A Letter From Miranda On Election Day 2024, I showed up early to the Student Union at the University of Arizona to set up a table and sign saying "Are you trying to turn in your ballot?" because what most students didn't know was that the on-campus voting center at the UA Student Union had been quietly moved to a Methodist church a short walk off campus.
 Students who had been seeing "VOTE HERE" signs at the Student Union for weeks arrived with their ballots and had nowhere to drop them off.
 Dozens of students walked over to us.
 We stayed there all day despite administrators telling me that the number of students potentially not voting was insignificant.
@@ -29,8 +28,7 @@ I know what paycheck-to-paycheck looks like because I am living it while I run f
 I am telling you this because I think the people who write the laws about working families should know what it feels like to be one.
 I do.
 Vote for me, Miranda Lopez, on or before July 21.
-I want to tell you who I am running against, and why it matters:
-Consuelo Hernandez has filed two-thirds of her campaign finance reports late.
+I want to tell you who I am running against, and why it matters: Consuelo Hernandez has filed two-thirds of her campaign finance reports late.
 She accumulated almost twenty-five thousand dollars in fines from the Arizona Secretary of State and refused to pay them until a primary opponent took her to court.
 She paid the entire twenty-four thousand eight hundred and forty dollars at once, only after she was caught.
 She has spent four years showing Southern Arizona that the laws she writes do not apply to her.
@@ -115,15 +113,14 @@ That is the campaign I am running, and that is the representative I will be in P
 I know I am asking you to vote out a candidate you have voted for before.
 I have spent eight years showing up where the institutions are supposed to.
 I want to spend the next term doing the same in Phoenix.
-If you have a question or feedback to share, write to me at info@lopezforarizona.com.
+If you have a question or feedback to share, write to me at info@lopezforarizona.com .
 I want to know what matters to you.
-In solidarity,
-Miranda Lopez Candidate, Arizona House of Representatives, LD21
-P.S.
+In solidarity, Miranda Lopez Candidate, Arizona House of Representatives, LD21 P.S.
 When I walk into the State House next January, I will be thinking about those students who gave up on voting in 2024.
 About the kid in my class who got the help he needed because a teacher broke the rules to give it to him.
 About the five hundred Tucson neighbors who packed that high school to fight for our water.
 About every family being priced out of the city they grew up in.
 Vote for me, Miranda Lopez, on or before July 21.
-Join The Movement
-Get updates about Miranda's campaign and how she's addressing the issues that matter most to you!
+Join The Movement Name Email* SUBMIT Get updates about Miranda's campaign and how she's addressing the issues that matter most to you!
+MIRANDA LOPEZ FOLLOW OUR CAMPAIGN ON SOCIAL MEDIA: ABOUT MIRANDA PRIORITIES DONATE NOW CONTACT US PAID FOR BY MIRANDA LOPEZ FOR STATE REPRESENTATIVE.
+AUTHORIZED BY MIRANDA LOPEZ.

@@ -1,8 +1,9 @@
-18th Avenue & 71st Street
-Event Details
-We invite you to listen to live bands play beautiful music in the park.
+Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce More Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Upcoming Events 08/27/2026 District 49 Community Cleanup 10am - 12pm 18th Avenue & 71st Street Event Details 08/27/2026 District 49 Community Cleanup We invite you to listen to live bands play beautiful music in the park.
 Enjoy the sounds of Laureen Davis and the Kings, and enjoy wine tast...
-Wanghao Restaurant 717 61st Street, Brooklyn, NY 11220
-You’re cordially invited!
+Event Details 10am - 12pm 18th Avenue & 71st Street 07/26/2026 District 49 Community Cleanup 10am - 12pm 18th Avenue & 71st Street Event Details 07/26/2026 District 49 Community Cleanup We invite you to listen to live bands play beautiful music in the park.
+Enjoy the sounds of Laureen Davis and the Kings, and enjoy wine tast...
+Event Details 10am - 12pm 18th Avenue & 71st Street 05/24/2026 Campaign Launch Fundraiser 6pm - 9pm Wanghao Restaurant 717 61st Street, Brooklyn, NY 11220 Event Details 05/24/2026 Campaign Launch Fundraiser You’re cordially invited!
 Join us this Sunday, May 24th, for a special fundraiser supporting Joyce Xiaoqiong Xie for NYS Assembly.
 Your suppo...
+Event Details 6pm - 9pm Wanghao Restaurant 717 61st Street, Brooklyn, NY 11220 Copyright © # Joyce For New York State Assembly District 49 - All Rights Reserved.
+Privacy Policy

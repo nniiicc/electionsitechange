@@ -1,7 +1,9 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/bobby-charles-demands-immediate-public-release-of-island-institute-grant-records-contracts-and-communications-2",
- "paid_for_by": null,
+ "fingerprint": "6a4775ff303b1a2648ff82d7488a5f768082725c",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
  "years_mentioned": [
   "2026"

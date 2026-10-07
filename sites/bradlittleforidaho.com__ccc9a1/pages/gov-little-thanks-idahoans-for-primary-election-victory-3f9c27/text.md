@@ -1,8 +1,8 @@
-Gov.
-Little thanks Idahoans for primary election victory
-Boise, Idaho – Governor Brad Little issued the following statement today after winning the Republican primary election for Governor of Idaho:
-“Teresa and I are deeply humbled and grateful for the confidence Idahoans have once again placed in us to continue serving the greatest state in the greatest nation.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu Gov.
+Little thanks Idahoans for primary election victory May 20, 2026 Boise, Idaho – Governor Brad Little issued the following statement today after winning the Republican primary election for Governor of Idaho: “Teresa and I are deeply humbled and grateful for the confidence Idahoans have once again placed in us to continue serving the greatest state in the greatest nation.
 “Over the past eight years, Idaho has stood strong by defending our freedoms, backing law enforcement, lowering taxes, cutting red tape, and protecting the conservative values that make our state stand out.
 As Idaho continues to grow, we remain committed to meeting new challenges with the grit, independence, and common sense that define our people while continuing to invest in the long-term strength of our economy, infrastructure, education, and public safety.
 “Idaho will continue leading by example and standing proudly for faith, family, freedom, and the American Dream.
 Teresa and I are incredibly thankful for the support of Idahoans across our state,” Governor Little said.
+Back P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

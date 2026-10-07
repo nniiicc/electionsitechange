@@ -1,13 +1,50 @@
 [
-"https://facebook.com/kozak4pa",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/Kozak4PA",
-"https://kozakforpa.com/about-1",
-"https://kozakforpa.com/donate",
-"https://kozakforpa.com/endorsements",
-"https://kozakforpa.com/home",
-"https://kozakforpa.com/issues-1",
-"https://kozakforpa.com/volunteer",
-"https://kozakforpa.com/vote",
-"https://x.com/Kozak4PA"
+{
+"text": "ABOUT",
+"href": "https://kozakforpa.com/about-1"
+},
+{
+"text": "DONATE",
+"href": "https://kozakforpa.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://kozakforpa.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://kozakforpa.com/home"
+},
+{
+"text": "ISSUES",
+"href": "https://kozakforpa.com/issues-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://kozakforpa.com/volunteer"
+},
+{
+"text": "VOTE",
+"href": "https://kozakforpa.com/vote"
+},
+{
+"text": "[image: KozakForPA]",
+"href": "https://kozakforpa.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kozak4pa"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Kozak4PA"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Kozak4PA"
+}
 ]

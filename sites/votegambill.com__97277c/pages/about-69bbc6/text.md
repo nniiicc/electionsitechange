@@ -1,5 +1,4 @@
-Meet MATTHEW
-A life-long resident of Bartow County, Matthew Gambill comes from a family with a long record of service to our community.
+HOME ABOUT MY RECORD VOLUNTEER CONTACT REPORT WASTEFUL SPENDING DONATE ABOUT Meet MATTHEW "I will be an unwavering and conservative voice for our families at our State Capitol." A life-long resident of Bartow County, Matthew Gambill comes from a family with a long record of service to our community.
 He is a graduate of Cartersville High School and holds a Bachelors of Arts Degree from Lee University.
 Matthew currently serves as Business Development Manager for Parrish Construction Group.
 In this role, Gambill, is responsible for leading Parrish’s industrial and higher education initiatives, driving revenue, maintaining and growing business relationships, and is a key part of the implementation of new business.
@@ -9,4 +8,5 @@ It was during that time he worked with teachers and school systems across the st
 Active in our community, Matthew is a member of the Board of Directors for the Cartersville-Bartow County Chamber of Commerce, serves on the Board of Directors of the Indian Springs Holiness Camp Meeting, Boys and Girls Clubs of Bartow County, Recovery Bartow, State Workforce Development Board, Truett McConnell University, and is the Past Chair of the Boys and Girls Clubs Georgia Area Council and the Murphy-Harpst Children’s Home.
 He is a graduate of the 2007 Leadership Bartow Class, a graduate of the 2010 Leadership Georgia Class, and was selected by Georgia Trend Magazine for their 2012 “40 Under 40” publication.
 Committed to his faith and family, Matthew and his wife Danae are the proud parents of 3 children—Mary Harris, David, and James.
-The Gambills are members of Tabernacle Baptist Church where they are actively involved.
+The Gambills are members of Tabernacle Baptist Church where they are actively involved. ﻿ HOME ABOUT MY RECORD VOLUNTEER CONTACT REPORT WASTEFUL SPENDING DONATE Follow Us Paid for by Matthew Gambill for State House P.O.
+Box 487, Cartersville, GA 30120 matthew@votegambill.com (770) 655-0046 Share by:

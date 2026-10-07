@@ -1,23 +1,98 @@
 [
-"http://laramiemuralproject.org/",
-"http://laramiemuseum.org/",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"http://telclaramie.com/",
-"https://facebook.com/reptreysherwood",
-"https://instagram.com/electtreysherwood",
-"https://laramiemainstreet.org/",
-"https://laramiepublicart.org/",
-"https://leadershipwyoming.org/",
-"https://lightfolly.com/",
-"https://treysherwood.com/",
-"https://treysherwood.com/contact",
-"https://treysherwood.com/donate",
-"https://treysherwood.com/mascot",
-"https://treysherwood.com/platfom",
-"https://treysherwood.com/record",
-"https://treysherwood.com/search",
-"https://treysherwood.com/volunteer",
-"https://treysherwood.com/vote",
-"https://wgfd.wyo.gov/education/becoming-an-outdoors-woman",
-"https://wyoachs.com/"
+{
+"text": "Albany County Historical Society",
+"href": "https://www.wyoachs.com"
+},
+{
+"text": "Becoming an Outdoor Woman",
+"href": "https://wgfd.wyo.gov/education/becoming-an-outdoors-woman"
+},
+{
+"text": "Contact",
+"href": "https://treysherwood.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://treysherwood.com/donate"
+},
+{
+"text": "Downtown Laramie",
+"href": "https://laramiemainstreet.org"
+},
+{
+"text": "Home",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "I Believe",
+"href": "https://treysherwood.com/platfom"
+},
+{
+"text": "Laramie Mural Project",
+"href": "http://www.laramiemuralproject.org"
+},
+{
+"text": "Laramie Plains Museum",
+"href": "http://laramiemuseum.org"
+},
+{
+"text": "Laramie Public Art Coalition",
+"href": "https://www.laramiepublicart.org"
+},
+{
+"text": "Leadership Wyoming",
+"href": "https://leadershipwyoming.org"
+},
+{
+"text": "Lightfolly",
+"href": "https://www.lightfolly.com"
+},
+{
+"text": "Mascot",
+"href": "https://treysherwood.com/mascot"
+},
+{
+"text": "Platform",
+"href": "https://treysherwood.com/platfom"
+},
+{
+"text": "Record",
+"href": "https://treysherwood.com/record"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Trinity Lutheran",
+"href": "http://www.telclaramie.com"
+},
+{
+"text": "Volunteer",
+"href": "https://treysherwood.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://treysherwood.com/vote"
+},
+{
+"text": "[image: Trey Sherwood]",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://treysherwood.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reptreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electtreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "mailto:treysherwood@gmail.com"
+}
 ]

@@ -1,27 +1,10 @@
-Press and Media Center
-Media Contact: media@stegnerforidaho.com
-Press Releases:
-FOR IMMEDIATE RELEASE
-Statewide Poll Finds John Stegner is the Only Candidate with Path to Defeat Brad Little in Upcoming Election
-BOISE, Idaho — August 6, 2026 — A new statewide poll finds former Idaho Supreme Court Justice John Stegner is the only gubernatorial candidate with a path to majority support against Gov.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Press and Media Center Media Contact: media@stegnerforidaho.com Press Releases: FOR IMMEDIATE RELEASE Statewide Poll Finds John Stegner is the Only Candidate with Path to Defeat Brad Little in Upcoming Election BOISE, Idaho — August 6, 2026 — A new statewide poll finds former Idaho Supreme Court Justice John Stegner is the only gubernatorial candidate with a path to majority support against Gov.
 Brad Little.
 In an informed head-to-head matchup Stegner leads Little 51 to 35 percent.
-Click here to read more
-Click here for a summary of findings
-FOR IMMEDIATE RELEASE
-Former Idaho Supreme Court Justice John Stegner Launches Campaign for Governor
-BOISE, Idaho — July 7, 2026 — Former Idaho Supreme Court Justice John Stegner launched his campaign for governor today, introducing a statewide movement centered on principled leadership, integrity and restoring confidence in Idaho's future.
+Click here to read more Click here for a summary of findings FOR IMMEDIATE RELEASE Former Idaho Supreme Court Justice John Stegner Launches Campaign for Governor BOISE, Idaho — July 7, 2026 — Former Idaho Supreme Court Justice John Stegner launched his campaign for governor today, introducing a statewide movement centered on principled leadership, integrity and restoring confidence in Idaho's future.
 BOISE, Idaho — August 6, 2026 — A new statewide poll suggests independent candidates could reshape several of Idaho's highest-profile 2026 races.
 The poll indicates widespread dissatisfaction with the state's direction and voter opinions on several major ballot measures.
 The survey examined Idaho’s races for governor, U.S.
 Senate, Idaho's 1st Congressional District, statewide voter attitudes, and three proposed ballot measures.
-Click here to read more
-Latest Campaign News
-Moscow-Pullman Daily News
-The Lewiston Tribune
-Idaho Capital Sun
-KTVB
-CDA Press
-Idaho County Free Press
-Idaho Capital Sun
-New York Times
+Click here to read more Latest Campaign News Former Supreme Court Justice John Stegner Eyes Governorship in Independent Bid Moscow-Pullman Daily News Stegner Plots a Centrist Path to Governor's Seat The Lewiston Tribune Idaho governor’s race: Pickens, Stegner say they are in it to win it Idaho Capital Sun The 208: Independent candidate for Idaho Gov.
+John Stegner KTVB Stegner visits Cd'A for 'Do the Work' tour CDA Press Former ISC justice Stegner launches hometown appeal in gubernatorial stop Idaho County Free Press Little’s challengers in Idaho gubernatorial race express concern over nuclear innovation campus deal Idaho Capital Sun As Democrats Struggle in Some Western States, Independents See an Opening New York Times Media Kit: Candidate Photos Campaign Logos Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

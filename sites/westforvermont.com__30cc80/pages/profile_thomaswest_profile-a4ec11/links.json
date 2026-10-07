@@ -1,28 +1,110 @@
 [
-"https://facebook.com/profile.php?id=61564508385116",
-"https://instagram.com/thomaswestvt",
-"https://linkedin.com/in/thomaswestvt",
-"https://secure.actblue.com/donate/thomas-west-100",
-"https://westforvermont.com/",
-"https://westforvermont.com/contact",
-"https://westforvermont.com/events-1",
-"https://westforvermont.com/get-involved",
-"https://westforvermont.com/issues",
-"https://westforvermont.com/meet-thomas",
-"https://westforvermont.com/news",
-"https://westforvermont.com/policies/cost-of-living",
-"https://westforvermont.com/policies/education",
-"https://westforvermont.com/policies/environment-climate",
-"https://westforvermont.com/policies/good-government-democracy",
-"https://westforvermont.com/policies/healthy-communities",
-"https://westforvermont.com/policies/housing",
-"https://westforvermont.com/policies/public-safety",
-"https://westforvermont.com/policies/rural-vermont",
-"https://westforvermont.com/post/thomas-west-earns-endorsement-from-planned-parenthood-vermont-action-fund-ie-pac",
-"https://westforvermont.com/post/thomas-west-earns-endorsement-from-vpirg-votes",
-"https://westforvermont.com/post/thomas-west-named-a-2026-moms-demand-action-gun-sense-candidate",
-"https://westforvermont.com/profile/thomaswest/profile",
-"https://westforvermont.com/profile/thomaswest/profile?disableScrollToTop=true",
-"https://westforvermont.com/supporters",
-"https://youtube.com/@ThomasWestVT"
+{
+"text": "Contact",
+"href": "https://www.westforvermont.com/contact"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.westforvermont.com/policies/cost-of-living"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/thomas-west-100"
+},
+{
+"text": "Education",
+"href": "https://www.westforvermont.com/policies/education"
+},
+{
+"text": "Environment & Climate",
+"href": "https://www.westforvermont.com/policies/environment-climate"
+},
+{
+"text": "Events",
+"href": "https://www.westforvermont.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.westforvermont.com/get-involved"
+},
+{
+"text": "Good Government & Democracy",
+"href": "https://www.westforvermont.com/policies/good-government-democracy"
+},
+{
+"text": "Healthy Communities",
+"href": "https://www.westforvermont.com/policies/healthy-communities"
+},
+{
+"text": "Home",
+"href": "https://www.westforvermont.com/profile/thomaswest/profile"
+},
+{
+"text": "Housing",
+"href": "https://www.westforvermont.com/policies/housing"
+},
+{
+"text": "Issues",
+"href": "https://westforvermont.com/issues"
+},
+{
+"text": "Meet Thomas",
+"href": "https://www.westforvermont.com/meet-thomas"
+},
+{
+"text": "News",
+"href": "https://www.westforvermont.com/news"
+},
+{
+"text": "Profile",
+"href": "https://www.westforvermont.com/profile/thomaswest/profile?disableScrollToTop=true"
+},
+{
+"text": "Public Safety",
+"href": "https://www.westforvermont.com/policies/public-safety"
+},
+{
+"text": "Rural Vermont",
+"href": "https://www.westforvermont.com/policies/rural-vermont"
+},
+{
+"text": "Supporters",
+"href": "https://www.westforvermont.com/supporters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61564508385116"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/thomaswestvt"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/thomaswestvt/"
+},
+{
+"text": "[image: TWSR_final_logo.png]",
+"href": "https://www.westforvermont.com"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@ThomasWestVT"
+},
+{
+"text": "[image]Jul 20, 2026 ∙ 1 minThomas West Earns Endorsement from VPIRG VotesThomas West, Democratic candidate for Vermont House representing the Bennington-4 district, is proud to announce that his campaign has earned the endorsement of VPIRG Votes for the 2026 election.20",
+"href": "https://www.westforvermont.com/post/thomas-west-earns-endorsement-from-vpirg-votes"
+},
+{
+"text": "[image]Jul 28, 2026 ∙ 1 minThomas West Named a 2026 Moms Demand Action Gun Sense CandidateThomas West, Democratic candidate for Vermont House representing the Bennington-4 district, has been recognized as a 2026 Moms Demand Action Gun Sense Candidate.70",
+"href": "https://www.westforvermont.com/post/thomas-west-named-a-2026-moms-demand-action-gun-sense-candidate"
+},
+{
+"text": "[image]Jul 29, 2026 ∙ 1 minThomas West Earns Endorsement from Planned Parenthood Vermont Action Fund IE PACThomas West, Democratic candidate for Vermont House representing the Bennington-4 district, is proud to announce that his campaign has earned the endorsement of the Planned Parenthood Vermont Action Fund IE PAC (PPVTAF IE PAC) for the 2026 election.50",
+"href": "https://www.westforvermont.com/post/thomas-west-earns-endorsement-from-planned-parenthood-vermont-action-fund-ie-pac"
+},
+{
+"text": "thomas@westforvermont.com",
+"href": "mailto:thomas@westforvermont.com"
+}
 ]

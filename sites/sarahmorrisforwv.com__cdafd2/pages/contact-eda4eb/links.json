@@ -1,11 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/1ErFyBESFt?mibextid=wwXIfr",
-"https://instagram.com/sarahmorrisforwv",
-"https://sarahmorrisforwv.com/",
-"https://sarahmorrisforwv.com/about",
-"https://sarahmorrisforwv.com/issues",
-"https://sarahmorrisforwv.com/privacy-policy",
-"https://secure.actblue.com/donate/sarah-morris-for-wv",
-"https://tiktok.com/@sarahmorrisforwv"
+{
+"text": "About",
+"href": "https://www.sarahmorrisforwv.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarah-morris-for-wv"
+},
+{
+"text": "Issues",
+"href": "https://www.sarahmorrisforwv.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sarahmorrisforwv.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Sarah Morris for WV]",
+"href": "https://www.sarahmorrisforwv.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/1ErFyBESFt/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sarahmorrisforwv"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@sarahmorrisforwv"
+}
 ]

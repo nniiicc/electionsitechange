@@ -1,10 +1,42 @@
 [
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmk4ar.org%2Fdonate%2F&title=Donate",
-"https://mk4ar.org/",
-"https://mk4ar.org/bio",
-"https://mk4ar.org/contact",
-"https://mk4ar.org/donate",
-"https://mk4ar.org/issues-2",
-"https://mk4ar.org/media",
-"https://plus.google.com/share?url=https%3A%2F%2Fmk4ar.org%2Fdonate%2F"
+{
+"text": "Bio",
+"href": "https://mk4ar.org/bio/"
+},
+{
+"text": "Contact",
+"href": "https://mk4ar.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://mk4ar.org/donate/"
+},
+{
+"text": "Home",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Issues",
+"href": "https://mk4ar.org/issues-2/"
+},
+{
+"text": "Media",
+"href": "https://mk4ar.org/media/"
+},
+{
+"text": "Michael Kalagias For LT Governor",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "[no text]",
+"href": "https://plus.google.com/share?url=https%3A%2F%2Fmk4ar.org%2Fdonate%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmk4ar.org%2Fdonate%2F&title=Donate&summary="
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+}
 ]

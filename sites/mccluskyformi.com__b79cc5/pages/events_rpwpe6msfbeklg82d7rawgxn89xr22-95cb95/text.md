@@ -1,11 +1,3 @@
-Back to All Events
-One more week until In Person Early Voting begins and the weather is perfect for door knocking!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Door Knocking with Joseph McClusky Saturday, October 17, 2026 11:00 AM 2:00 PM Google Calendar ICS One more week until In Person Early Voting begins and the weather is perfect for door knocking!
 Come out to join us to get our message to voters.
-Training and a walking buddy can be provided!
-Previous
-Previous
-October 11
-Door Knocking with Joseph McClusky
-Next
-Next
-October 24
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051781/ Previous Previous October 11 Door Knocking with Joseph McClusky Next Next October 24 GOTV Kick Off with Mallory McMorrow Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

@@ -1,9 +1,13 @@
 {
  "description": "Read the Latest News and Releases from Kathy Landing",
  "final_url": "https://www.kathylanding.com/news",
- "paid_for_by": null,
+ "fingerprint": "9bd1cf92396bf762263a65c04490e8077729d468",
+ "format": 3,
+ "paid_for_by": "Sponsored by Rep",
  "title": "News | Kathy Landing",
  "years_mentioned": [
+  "2020",
+  "2021",
   "2022",
   "2023",
   "2024",

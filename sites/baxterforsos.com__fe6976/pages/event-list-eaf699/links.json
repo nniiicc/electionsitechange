@@ -1,13 +1,54 @@
 [
-"https://baxterforsos.com/",
-"https://baxterforsos.com/event-details/rapid-city-fundraiser",
-"https://baxterforsos.com/event-details/sioux-falls-fundraiser",
-"https://baxterforsos.com/event-list",
-"https://baxterforsos.com/get-involved",
-"https://baxterforsos.com/press-releases",
-"https://baxterforsos.com/privacy-policy",
-"https://baxterforsos.com/terms-conditions",
-"https://facebook.com/BaxterForSecretaryofState",
-"https://givebutter.com/baxterforsos",
-"https://x.com/baxterforsos"
+{
+"text": "DONATE",
+"href": "https://givebutter.com/baxterforsos"
+},
+{
+"text": "Details",
+"href": "https://www.baxterforsos.com/event-details/rapid-city-fundraiser"
+},
+{
+"text": "Details",
+"href": "https://www.baxterforsos.com/event-details/sioux-falls-fundraiser"
+},
+{
+"text": "EVENTS",
+"href": "https://www.baxterforsos.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.baxterforsos.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.baxterforsos.com"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.baxterforsos.com/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.baxterforsos.com/privacy-policy"
+},
+{
+"text": "Rapid City Fundraiser",
+"href": "https://www.baxterforsos.com/event-details/rapid-city-fundraiser"
+},
+{
+"text": "Sioux Falls Fundraiser",
+"href": "https://www.baxterforsos.com/event-details/sioux-falls-fundraiser"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.baxterforsos.com/terms-conditions"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BaxterForSecretaryofState"
+},
+{
+"text": "[image]",
+"href": "https://x.com/baxterforsos"
+}
 ]

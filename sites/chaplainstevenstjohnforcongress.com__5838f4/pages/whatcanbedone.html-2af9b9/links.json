@@ -1,11 +1,42 @@
 [
-"https://chaplainstevenstjohnforcongress.com/Donation.html",
-"https://chaplainstevenstjohnforcongress.com/Endorsements.html",
-"https://chaplainstevenstjohnforcongress.com/GasPrices.html",
-"https://chaplainstevenstjohnforcongress.com/HealthcareForum.html",
-"https://chaplainstevenstjohnforcongress.com/News Articles/New version.html",
-"https://chaplainstevenstjohnforcongress.com/Solutions.html",
-"https://chaplainstevenstjohnforcongress.com/Why.html",
-"https://chaplainstevenstjohnforcongress.com/index.html",
-"https://chaplainstevenstjohnforcongress.com/seniors.html"
+{
+"text": "Healthcare Forum",
+"href": "https://chaplainstevenstjohnforcongress.com/HealthcareForum.html"
+},
+{
+"text": "Home",
+"href": "https://chaplainstevenstjohnforcongress.com/index.html"
+},
+{
+"text": "Interviews",
+"href": "https://chaplainstevenstjohnforcongress.com/News%20Articles/New%20version.html"
+},
+{
+"text": "No Donors. Why?",
+"href": "https://chaplainstevenstjohnforcongress.com/Why.html"
+},
+{
+"text": "Return Home",
+"href": "https://chaplainstevenstjohnforcongress.com/index.html"
+},
+{
+"text": "Seniors",
+"href": "https://chaplainstevenstjohnforcongress.com/seniors.html"
+},
+{
+"text": "[no text]",
+"href": "https://chaplainstevenstjohnforcongress.com/Donation.html"
+},
+{
+"text": "[no text]",
+"href": "https://chaplainstevenstjohnforcongress.com/Endorsements.html"
+},
+{
+"text": "[no text]",
+"href": "https://chaplainstevenstjohnforcongress.com/GasPrices.html"
+},
+{
+"text": "[no text]",
+"href": "https://chaplainstevenstjohnforcongress.com/Solutions.html"
+}
 ]

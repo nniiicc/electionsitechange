@@ -1,34 +1,134 @@
 [
-"http://allenbuckleyforsenate.com/",
-"https://allenbuckleyforsenate.com/",
-"https://allenbuckleyforsenate.com/about-me",
-"https://allenbuckleyforsenate.com/ballot-access",
-"https://allenbuckleyforsenate.com/economy/summary-of-the-financial-sanity-act-of-2027",
-"https://allenbuckleyforsenate.com/how-i-am-different/balance-of-powers-restoration-act-summary",
-"https://allenbuckleyforsenate.com/how-i-am-different/environmental-protection",
-"https://allenbuckleyforsenate.com/how-i-am-different/fix-the-finances",
-"https://allenbuckleyforsenate.com/how-i-am-different/immigration-reform-proposal",
-"https://allenbuckleyforsenate.com/media-inquires",
-"https://allenbuckleyforsenate.com/other/summary-of-the-consumer-protection-act-of-2027",
-"https://allenbuckleyforsenate.com/participate",
-"https://allenbuckleyforsenate.com/press-releases",
-"https://allenbuckleyforsenate.com/uncategorized/what-is-a-libertarian",
-"https://allenbuckleyforsenate.com/why-vote-for-me",
-"https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions",
-"https://allenbuckleyforsenate.com/why-vote-for-me/balance-of-powers-restoration-act-summary",
-"https://allenbuckleyforsenate.com/why-vote-for-me/environmental-protection",
-"https://allenbuckleyforsenate.com/why-vote-for-me/fix-the-finances",
-"https://allenbuckleyforsenate.com/why-vote-for-me/immigration-reform-proposal",
-"https://allenbuckleyforsenate.com/why-vote-for-me/reduce-healthcare-costs",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Fair-Act-of-2025.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Ltr-to-Editor-of-WSJ-Cato-Feb-14-15-2026.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Opening-appellate-brief-filed-July-19-2024.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Reply-re-Supp-Brief-Dec-2-2025.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/The-Consumer-Protection-Act-of-2027.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/The-Financial-Sanity-Act-of-2027.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/WSJ-editorial-Feb-5-2026_rotated.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/03/WSJ-article-on-drug-cartels-in-Mexico-1.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/04/WSJ-article-Holman-Jenkins-Iran-Mar-18-2026.pdf",
-"https://allenbuckleyforsenate.com/wp-content/uploads/2026/08/Balance-of-Powers-Restoration-Act-Aug-6-2026.pdf",
-"https://zeffy.com/en-US/donation-form/donate-to-allen-buckley-for-us-senate--2026"
+{
+"text": "About Me",
+"href": "https://allenbuckleyforsenate.com/about-me/"
+},
+{
+"text": "All Solutions and Positions",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions/"
+},
+{
+"text": "Allen Buckley for U.S. Senate",
+"href": "https://allenbuckleyforsenate.com/"
+},
+{
+"text": "Balance of Powers Restoration Act of 2027",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/08/Balance-of-Powers-Restoration-Act-Aug-6-2026.pdf"
+},
+{
+"text": "Ballot Access",
+"href": "https://allenbuckleyforsenate.com/ballot-access/"
+},
+{
+"text": "Consumer Protection Act of 2027",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/The-Consumer-Protection-Act-of-2027.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-allen-buckley-for-us-senate--2026"
+},
+{
+"text": "Editorial in the Wall Street Journal",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/WSJ-editorial-Feb-5-2026_rotated.pdf"
+},
+{
+"text": "Environmental Protection",
+"href": "https://allenbuckleyforsenate.com/how-i-am-different/environmental-protection/"
+},
+{
+"text": "Environmental Protection",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/environmental-protection/"
+},
+{
+"text": "FAIR Act of 2025",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Fair-Act-of-2025.pdf"
+},
+{
+"text": "Fix the Finances",
+"href": "https://allenbuckleyforsenate.com/how-i-am-different/fix-the-finances/"
+},
+{
+"text": "Fix the Finances",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/fix-the-finances/"
+},
+{
+"text": "Home",
+"href": "https://allenbuckleyforsenate.com/"
+},
+{
+"text": "Immigration Reform",
+"href": "https://allenbuckleyforsenate.com/how-i-am-different/immigration-reform-proposal/"
+},
+{
+"text": "Immigration Reform Proposal",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/immigration-reform-proposal/"
+},
+{
+"text": "Letter from the CATO Institute to the Wall Street Journal",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Ltr-to-Editor-of-WSJ-Cato-Feb-14-15-2026.pdf"
+},
+{
+"text": "Media Inquires",
+"href": "https://allenbuckleyforsenate.com/media-inquires/"
+},
+{
+"text": "Pages 37-51 of the attached brief",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Opening-appellate-brief-filed-July-19-2024.pdf"
+},
+{
+"text": "Participate",
+"href": "https://allenbuckleyforsenate.com/participate/"
+},
+{
+"text": "Press Releases",
+"href": "https://allenbuckleyforsenate.com/press-releases/"
+},
+{
+"text": "Reduce Healthcare Costs",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/reduce-healthcare-costs/"
+},
+{
+"text": "Rein in the Executive Branch",
+"href": "https://allenbuckleyforsenate.com/how-i-am-different/balance-of-powers-restoration-act-summary/"
+},
+{
+"text": "Rein in the Executive Branch",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/balance-of-powers-restoration-act-summary/"
+},
+{
+"text": "Summary of the Consumer Protection Act",
+"href": "https://allenbuckleyforsenate.com/other/summary-of-the-consumer-protection-act-of-2027/"
+},
+{
+"text": "Summary of the Financial Sanity Act of 2027",
+"href": "https://allenbuckleyforsenate.com/economy/summary-of-the-financial-sanity-act-of-2027/"
+},
+{
+"text": "The Financial Sanity Act of 2027",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/The-Financial-Sanity-Act-of-2027.pdf"
+},
+{
+"text": "The attached brief from a related case",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/02/Reply-re-Supp-Brief-Dec-2-2025.pdf"
+},
+{
+"text": "WSJ Article by Holman Jenkins on Iran",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/04/WSJ-article-Holman-Jenkins-Iran-Mar-18-2026.pdf"
+},
+{
+"text": "WSJ Article on Drug Cartels in Mexico",
+"href": "https://allenbuckleyforsenate.com/wp-content/uploads/2026/03/WSJ-article-on-drug-cartels-in-Mexico-1.pdf"
+},
+{
+"text": "What is a Libertarian?",
+"href": "https://allenbuckleyforsenate.com/uncategorized/what-is-a-libertarian/"
+},
+{
+"text": "Why Vote For Me",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/"
+},
+{
+"text": "[image]",
+"href": "http://allenbuckleyforsenate.com/"
+}
 ]

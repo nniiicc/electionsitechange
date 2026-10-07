@@ -1,10 +1,3 @@
-Back to All Events
-Zyon Khalifa will be speaking at the Young Democrats of the Central Midlands meeting, engaging with young leaders on the future of our communities and the role of the next generation in shaping it.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Back to All Events Speaking at Young Democrats of Central Midlands Meeting Wednesday, April 8, 2026 6:30 PM 7:30 PM South Carolina Democratic Party 1929 Gadsden Street Columbia, SC, 29201 United States (map) Google Calendar ICS Zyon Khalifa will be speaking at the Young Democrats of the Central Midlands meeting, engaging with young leaders on the future of our communities and the role of the next generation in shaping it.
 Join us for an evening of conversation, connection, and forward-thinking leadership.
-Previous
-Previous
-April 7
-USCA NAACP General Body Meeting
-Next
-Next
-April 16
+Previous Previous April 7 USCA NAACP General Body Meeting Next Next April 16 Community Conversations Meet Zyon Khalifa Platform Volunteer Privacy Policy

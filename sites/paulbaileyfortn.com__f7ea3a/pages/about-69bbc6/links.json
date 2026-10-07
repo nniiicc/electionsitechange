@@ -1,14 +1,54 @@
 [
-"https://facebook.com/paulbaileyforsenate",
-"https://paulbaileyfortn.com/",
-"https://paulbaileyfortn.com/about",
-"https://paulbaileyfortn.com/contact",
-"https://paulbaileyfortn.com/news",
-"https://paulbaileyfortn.com/privacy-policy",
-"https://paulbaileyfortn.com/rsvp",
-"https://paulbaileyfortn.com/wp-login.php?action=lostpassword",
-"https://twitter.com/paulbaileyfortn",
-"https://youtube.com/channel/UCqod96fU_ydluA6BN7LojbA",
-"https://youtube.com/playlist?list=PLxHWqBXIc-dD78NNi3cOMaRWJxh_whkj5",
-"https://youtube.com/watch?v=EddfBnXUm8o&list=PLxHWqBXIc-dD78NNi3cOMaRWJxh_whkj5"
+{
+"text": "About Paul",
+"href": "https://paulbaileyfortn.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://paulbaileyfortn.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://paulbaileyfortn.com/rsvp/"
+},
+{
+"text": "Forgot password?",
+"href": "https://paulbaileyfortn.com/wp-login.php?action=lostpassword"
+},
+{
+"text": "Home",
+"href": "https://paulbaileyfortn.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulbaileyfortn.com/privacy-policy/"
+},
+{
+"text": "WEEKLY CAPITOL UPDATES",
+"href": "https://www.youtube.com/watch?v=EddfBnXUm8o&list=PLxHWqBXIc-dD78NNi3cOMaRWJxh_whkj5"
+},
+{
+"text": "Weekly Capitol Update",
+"href": "https://paulbaileyfortn.com/news/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://paulbaileyfortn.com"
+},
+{
+"text": "[image: Paul Bailey Weekly Capitol Update April 3 2019]",
+"href": "https://www.youtube.com/playlist?list=PLxHWqBXIc-dD78NNi3cOMaRWJxh_whkj5"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/paulbaileyfortn"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/paulbaileyforsenate/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCqod96fU_ydluA6BN7LojbA"
+}
 ]

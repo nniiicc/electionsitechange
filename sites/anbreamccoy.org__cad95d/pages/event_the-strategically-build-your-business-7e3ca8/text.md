@@ -1,27 +1,11 @@
-- Home
-- Conference
-- The Strategically Build Your Business
-The City Government is excited to announce an upcoming event that will showcase all the amazing things our community has to offer.
+Home About Issues & Priorities Events Contact Report Issues Mccoy4 delegate@gmail.com P.O Box 6319 Waldorf , MD 20603 Facebook X-twitter Instagram Linkedin Menu Home About Issues & Priorities Events Contact Call anytime 501-487-1807 Donate Now Home Conference The Strategically Build Your Business The Strategically Build Your Business The Strategically Build Your Business August 16, 2023 7:00 am - 3:00 pm 8 Street, San Marcos London, UK + Google Calendar + Ical Export Register Yourself The City Government is excited to announce an upcoming event that will showcase all the amazing things our community has to offer.
 Join us on Saturday for our community fair, where local vendors, artists, and organizations will come together to showcase their products and services.
 This fun-filled event will feature live music performances, food trucks, children’s activities, and much more.
 Meet local business owners and community leaders and learn about their vision for our city’s future.
 There will also be opportunities to learn more about local government initiatives and community development projects.
-This event is free and open to the public, so bring your family and friends along to enjoy a day of fun and community spirit.
+Event requirements This event is free and open to the public, so bring your family and friends along to enjoy a day of fun and community spirit.
 We look forward to seeing you there!
-- A range of support services available
-- Event planners, audiovisual and technical support
-- Good lighting, clear signage, and well-maintained areas.
-This includes securing a venue, obtaining any necessary permits or licenses, arranging for seating or equipment rentals, coordinating with vendors or catering services, and ensuring that any special requirements or accommodations are met for attendees
-- Organizer Name: Ovatheme
-- Phone: 0123456789
-- Email: info@company.com
-- Website: https://ovatheme.com
-Mon
-09:00
-8 Street, San Marcos London, UK
-P.O Box 6319 Waldorf ,
-MD 20603
-- News & Events
-- Contact Us
-- Information
-© Copyright 2026 by Anbrea McCoy Delegate
+A range of support services available Event planners, audiovisual and technical support Good lighting, clear signage, and well-maintained areas.
+This includes securing a venue, obtaining any necessary permits or licenses, arranging for seating or equipment rentals, coordinating with vendors or catering services, and ensuring that any special requirements or accommodations are met for attendees Location Contact Details Gallery Organizer Name: Ovatheme Phone: 0123456789 Email: info@company.com Website: https://ovatheme.com Share: City Innovation And Technology Meeting The Upstairs Room of A art Taminiau Related Events 21 Jun Museum Events for the public in South East Asia 07:00 - 20:00 Bangkok, Thailand View Details 03 Sep Conference Real Entrepreneurship Bootcamp in Gimont Mon 09:00 8 Street, San Marcos London, UK View Details Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Save my name, email, and website in this browser for the next time I comment.
+Feature Event 21 Jun Events for the public in South East Asia 07:00 - 20:00 Bangkok, Thailand 14 Mar The Upstairs Room of A art Taminiau Thu 08:00 8 Street, San Marcos London, UK 17 Jul Organizing 2024 city photography new contest 08:00 - 15:00 8 Street, San Marcos London, UK 18 Jun Organizing City Contest 2025 07:00 - 20:00 Bangkok, Thailand Event Categories Conference (2) Health & Sports (1) Museum (6) Event Tags City Culture Gimont Government Museum Join The Movement Contact mccoy4 delegate@gmail.com 501-487-1807 P.O Box 6319 Waldorf , MD 20603 News & Events Contact Us Information MEET MCCOY WHY I’M RUNNING ISSUES EVENT CONTACT Careers Facebook X-twitter Instagram Linkedin © Copyright # by Anbrea McCoy Delegate

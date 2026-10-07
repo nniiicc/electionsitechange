@@ -1,21 +1,3 @@
-Skip to content
-Pettus for Congress
-Home
-About Mia
-Priorities
-Campaign Updates, Events and News
-Volunteer
-Donations
-Pettus for Congress
-About Mia
-Campaign Updates, Events and News
-Donations
-Home
-Priorities
-Privacy Policy
-Volunteer
-Donate
-Donate
-Donations
-Support Our Movement
-Scroll to Top
+Skip to content Pettus for Congress Home About Mia Priorities Campaign Updates, Events and News Volunteer Donations Pettus for Congress About Mia Campaign Updates, Events and News Donations Home Priorities Privacy Policy Volunteer Donate Donate Donations Support Our Movement Contact: info@pettusforcongress.org 810-901-0898 Campaign Address: Pettus For Congress 2461 W Hill Rd Unit #3003 Flint, MI 48507 (810) 901-0898 info@pettusforcongress.org Privacy Policy © # Pettus For Congress.
+All Rights Reserved.
+Paid for by Pettus for Congress Campaign Headquarters Pettus For Congress 2461 W Hill Rd Unit #3003 Flint, MI 48507 Scroll to Top

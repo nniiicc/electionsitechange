@@ -1,11 +1,3 @@
-Endorsements
-FELLOW OREGON REPUBLICANS
-OR House District 12 Incumbent: Darin Harbick
-OR Senate District 7 Candidate: Jack Huff
-I believe Mr Vivian would better represent the district than the current state representative cause unlike her, he cares about the constituents of the district and wants to help make things better for his fellow Oregonians.Tim Anderson
-Lucetta Elmer
-Oregon State House Republican Leader
-Alek Skarlatos
-Oregon House of Representatives Deputy Republican Leader
-Jack Tibbetts
-Candidate for State Senator, 6th District Republican
+Meet Bill Issues News Volunteer Contribute Endorsements FELLOW OREGON REPUBLICANS OR House District 12 Incumbent: Darin Harbick OR Senate District 7 Candidate: Jack Huff I believe Mr Vivian would better represent the district than the current state representative cause unlike her, he cares about the constituents of the district and wants to help make things better for his fellow Oregonians.
+Tim Anderson Lucetta Elmer Oregon State House Republican Leader Alek Skarlatos Oregon House of Representatives Deputy Republican Leader Jack Tibbetts Candidate for State Senator, 6th District Republican Click here to add your endorsement VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Eugene Blue Protest includes Bill Vivian Sign Candidates Q&A Event- Out of the Horse's Mouth Oregon Pro-Life Gala Atttendance U of O Ducks Opening Football Game Day Flag Waving- Labor Day Weekend Voter Information Endorsements Yard Signs Events Photos Contact Self Treasurer to Elect Bill Vivian Powered by CampaignPartner.com - Political Websites Home Meet Bill Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

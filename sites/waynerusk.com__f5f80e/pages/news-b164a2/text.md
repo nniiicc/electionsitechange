@@ -1,6 +1,7 @@
-by Rick Graetz
-Bitterroot Star, May 27, 2026
-Citizens of Montana’s Hamilton area in the Bitterroot valley have a chance this June to keep authentic conservative Republican representation in the Montana House of Representatives by electing Wayne Rusk to the open seat for House District 86, the Hamilton area.
+Home Meet Wayne Issues Const.
+Conservatism Individual Rights Second Amendment Pro-Life Pro-Family Election Integrity Public Lands News Donate Now More Home Meet Wayne Issues Const.
+Conservatism Individual Rights Second Amendment Pro-Life Pro-Family Election Integrity Public Lands News Donate Now Home Meet Wayne Issues Const.
+Conservatism Individual Rights Second Amendment Pro-Life Pro-Family Election Integrity Public Lands News Donate Now NEWS "Promoting Wayne Rusk’s candidacy" by Rick Graetz Bitterroot Star, May 27, 2026 Citizens of Montana’s Hamilton area in the Bitterroot valley have a chance this June to keep authentic conservative Republican representation in the Montana House of Representatives by electing Wayne Rusk to the open seat for House District 86, the Hamilton area.
 He is running to keep the tradition going.
 The Republican Party of Montana has been changing, and true conservatives like Wayne are facing primary challenges from dark money coming from beyond Montana, hoping to elect people who will answer only to party bosses rather than the electorate.
 Overall, the party elders have been espousing radical ideology that runs counter to finding common ground.
@@ -11,10 +12,8 @@ Simply put, he believes in putting principles above partisanship and putting the
 This is the only way there will be opportunities to preserve, protect, and defend the life and liberty we cherish.
 And as public lands and access are important issues Montanans consider their birthright, Rusk will continue to be a leader in developing policies that assure his constituents that public lands will remain in public hands and that the right to access them will be preserved.
 The suggestion, then, is to select Wayne Rusk as your next Montana legislative representative for House District 86.
-Read the article here.
-by Wayne Rusk
-Bitterroot Star, May 20, 2026
-As the primary election approaches, I would take a moment to commend the electorate for their patience and discernment in the messy and often frustrating business of "government by the people." I have been to hundreds of your doors in the Hamilton area for which I am running.
+Read the article here .
+NEWS “To the voters of Ravalli County” by Wayne Rusk Bitterroot Star , May 20, 2026 As the primary election approaches, I would take a moment to commend the electorate for their patience and discernment in the messy and often frustrating business of "government by the people." I have been to hundreds of your doors in the Hamilton area for which I am running.
 Our conversations have ranged from our best hopes to our worst fears and everything in between.
 If I had to make a general observation of what I've heard, it would be that people feel their voice has been lost somewhere between their vote and the people for whom they have cast it and that the consent of the governed has, in some measure, become the consent of the deepest pockets and the most ruthless special interest.
 You are not wrong and having conceded the point the question is, what can be done?
@@ -27,9 +26,8 @@ The price of this common ground was, on occasion, to lay aside partisanship - no
 It was a price I was willing to pay.
 In fact, as your Representative, I understood it to be my "bounden duty" rather than any merit on my part.
 If you vote to send me back to Helena you will again have a voice there that will put you first by standing firm against those who are animated by party malice rather than the public good.
-by Chris Hoffman, Ravalli County Sheriff (Ret.), former Ravalli County Commissioner
-Bitterroot Star, May 14, 2024
-Two years ago, I felt the need to write a letter in support of Wayne Rusk in his bid for the House District 88 seat.
+NEWS The news items below this line are from Wayne's 2024 campaign for SD 44.
+NEWS “Continuing support for Wayne Rusk” by Chris Hoffman, Ravalli County Sheriff (Ret.), former Ravalli County Commissioner Bitterroot Star , May 14, 2024 Two years ago, I felt the need to write a letter in support of Wayne Rusk in his bid for the House District 88 seat.
 I was completely convinced of Wayne’s ability to serve our community in the state legislature, and having watched closely during this last session, I was not disappointed.
 Wayne proved himself to be that level-headed man I touted him to be.
 He did measure his words; he thought before he spoke; and his actions proved him to be the deep man of conviction I know him to be.
@@ -38,9 +36,9 @@ He is approachable and open to hear other opinions, and then make the hard decis
 It disappoints me that Wayne and his family find him under attack again, with the same tired, outdated allegations we heard two years ago.
 While I am confident that citizens in Ravalli County, specifically in Senate District 44, will not be duped by this type of politics, I once again wish to voice my wholehearted support of Wayne in the upcoming primary election.
 Please vote for Wayne Rusk in Senate District 44.
-Read the same article in the Ravalli Republic here.
-by Carrie Rusk, Corvallis
-Two years ago Wayne Rusk ran for HD 88 with a vision in mind of Uniting the Conservative Community of Ravalli County.
+Read the article here .
+Read the same article in the Ravalli Republic here .
+NEWS “Support for Rusk” by Carrie Rusk, Corvallis Bitterroot Star , May 14, 2024 Two years ago Wayne Rusk ran for HD 88 with a vision in mind of Uniting the Conservative Community of Ravalli County.
 He decisively won a tough campaign battle against Alan Lackey, despite the fact that he was “Manzella Approved”.
 I believe he is getting closer to accomplishing his vision.
 The next step is unseating Mrs.
@@ -63,10 +61,9 @@ He will always protect these rights.
 Don’t believe the lies that he won’t.
 If you are tired of your elected leader telling you, bulling you, or outright shaming you into how you should feel, then now is your chance to vote for a new choice for SD 44.
 Please cast your vote for Wayne Rusk on June 4th.
-by Rep.
-Wayne Rusk HD-88, candidate for SD-44, Corvallis
-Bitterroot Star, March 12, 2024
-I would take a moment to address a letter to the editor by candidate Davis last week claiming that I voted against hunting, fishing and trapping, and to demonstrate that the assertion is patently false.
+Read the article here .
+NEWS "Preservation of Our Harvest Heritage" by Rep.
+Wayne Rusk HD-88, candidate for SD-44, Corvallis Bitterroot Star , March 12, 2024 I would take a moment to address a letter to the editor by candidate Davis last week claiming that I voted against hunting, fishing and trapping, and to demonstrate that the assertion is patently false.
 In 2004 our state constitution was amended to include Article IX, Section 7 which reads as follows: “The opportunity to harvest wild fish and wild game animals is a heritage that shall forever be preserved to the individual citizens of the state and does not create a right to trespass on private property or dimunition of other private rights.” It received overwhelming and bipartisan support in both the legislature and on the ballot.
 As you can see, our harvest heritage is already constitutionally forever preserved.
 The referendum Mr.
@@ -76,3 +73,9 @@ Consequently, this proposed amendment has met with defeat three times in as many
 Nothing—absolutely nothing—was lost, or for that matter could have been gained in regard to these privileges.
 As a lifelong sportsman and now a legislator, I keep a constant vigil over our rich sporting heritage and have passed it on to my children.
 These priceless pastimes could not be in better hands, and I will always be found fighting to protect them.
+Read the article here .
+Paid for by Rusk for Legislature.
+P.O.
+Box 531, Corvallis, MT 59828.
+Republican.
+Powered by

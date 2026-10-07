@@ -1,5 +1,4 @@
-Meet Marilyn
-Not only have I had the pleasure of growing up in Huntsville, but I’ve also spent the last thirty years as your neighbor in this community that we call House District 10.
+0 Skip to Content About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu Folder: About Back About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Meet Marilyn Not only have I had the pleasure of growing up in Huntsville, but I’ve also spent the last thirty years as your neighbor in this community that we call House District 10.
 I say that because as a wife, a mother, and as a professional woman with a career, I understand many of the challenges and issues that are specific to our district because this is my home and my heart.
 Here’s a little about my background and why I chose to run as a Representative for our district in the Alabama State House.
 Professionally, I work as a Licensed Professional Counselor in a private practice and as a Supervising Counselor to help aspiring clinicians meet their requirements for state licensure.
@@ -23,3 +22,5 @@ Especially on critical and life-changing issues as Creating Economic Opportunity
 Together, we really can make a difference.
 Let’s keep sharing our stories and let’s keep working together to help Alabama reach its greatest potential.
 Please sign up for my newsletter and/or email me and let’s stay in touch!
+Constituent Resources Contact Rep.
+Lands Issues Legislative News News & Media Website designed and created by Clete Wetli & Tektite.Digital

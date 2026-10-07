@@ -1,48 +1,194 @@
 [
-"https://facebook.com/gonzalodurannyc",
-"https://gonzaloduran.nyc/",
-"https://gonzaloduran.nyc/animal-issues",
-"https://gonzaloduran.nyc/burn-pit-has-heart",
-"https://gonzaloduran.nyc/candidate-forum-theres-another-option",
-"https://gonzaloduran.nyc/category/articles",
-"https://gonzaloduran.nyc/category/event-photos",
-"https://gonzaloduran.nyc/category/gonzalo-in-the-press",
-"https://gonzaloduran.nyc/category/press-release",
-"https://gonzaloduran.nyc/category/videos",
-"https://gonzaloduran.nyc/civil-engagement",
-"https://gonzaloduran.nyc/contact",
-"https://gonzaloduran.nyc/contribute",
-"https://gonzaloduran.nyc/education",
-"https://gonzaloduran.nyc/employment",
-"https://gonzaloduran.nyc/environment",
-"https://gonzaloduran.nyc/events",
-"https://gonzaloduran.nyc/former-judge-candidate-julie-holds-thank-you-event-endorses-gonzalo-duran-for-public-advocate",
-"https://gonzaloduran.nyc/gonzalo-duran-autobiography",
-"https://gonzaloduran.nyc/gonzalo-duran-honors-jason-murillo-a-rising-force-in-manhattan",
-"https://gonzaloduran.nyc/gonzalo-duran-press",
-"https://gonzaloduran.nyc/gonzalo-duran-press-conference-bronx-vs-socialism-event-photos",
-"https://gonzaloduran.nyc/gonzalo-duran-to-participate-in-n-a-r-e-b-political-advocacy-day",
-"https://gonzaloduran.nyc/gonzalo-duran-vice-chairman-of-the-bronx-conservative-party",
-"https://gonzaloduran.nyc/health",
-"https://gonzaloduran.nyc/housing",
-"https://gonzaloduran.nyc/mayor-bill-de-blasio-gonzalo-duran-interviewed-by-italian-media",
-"https://gonzaloduran.nyc/safety",
-"https://gonzaloduran.nyc/safety-press-conference-with-conservative-party-candidates",
-"https://gonzaloduran.nyc/senator-chuck-schumer-gonzalo-duran-on-the-voting-rights-act",
-"https://gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23",
-"https://gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot",
-"https://gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop",
-"https://gonzaloduran.nyc/the-bronx-is-maga-rally-in-morris-park",
-"https://gonzaloduran.nyc/transportation",
-"https://gonzaloduran.nyc/united-alliance-party-expands-petitioning-infrastructure-statewide",
-"https://gonzaloduran.nyc/veterans",
-"https://gonzaloduran.nyc/volunteer",
-"https://gonzalodurannyc.tumblr.com/",
-"https://instagram.com/gonzalodurannyc",
-"https://linkedin.com/in/gonzalodurannyc",
-"https://ny1.com/nyc/all-boroughs/inside-city-hall/2025/10/10/public-advocate-candidates-talk-campaigns-and-more",
-"https://pinterest.com/gonzalodurannyc",
-"https://twitter.com/gonzalodurannyc",
-"https://wordpress.org/",
-"https://youtube.com/user/@gonzalodurannyc"
+{
+"text": "Animal Issues",
+"href": "https://www.gonzaloduran.nyc/animal-issues/"
+},
+{
+"text": "Articles",
+"href": "https://www.gonzaloduran.nyc/category/articles/"
+},
+{
+"text": "Autobiography",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-autobiography/"
+},
+{
+"text": "Burn Pits – Has Heart",
+"href": "https://www.gonzaloduran.nyc/burn-pit-has-heart/"
+},
+{
+"text": "Candidate Forum: There’s Another Option",
+"href": "https://www.gonzaloduran.nyc/candidate-forum-theres-another-option/"
+},
+{
+"text": "Civil Engagement",
+"href": "https://www.gonzaloduran.nyc/civil-engagement/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gonzaloduran.nyc/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.gonzaloduran.nyc/contribute/"
+},
+{
+"text": "Education",
+"href": "https://www.gonzaloduran.nyc/education/"
+},
+{
+"text": "Employment",
+"href": "https://www.gonzaloduran.nyc/employment/"
+},
+{
+"text": "Environment",
+"href": "https://www.gonzaloduran.nyc/environment/"
+},
+{
+"text": "Event Photos",
+"href": "https://www.gonzaloduran.nyc/category/event-photos/"
+},
+{
+"text": "Former Judge Candidate Julie Holds Thank You Event Endorses Gonzalo Duran for Public Advocate",
+"href": "https://www.gonzaloduran.nyc/former-judge-candidate-julie-holds-thank-you-event-endorses-gonzalo-duran-for-public-advocate/"
+},
+{
+"text": "Gonzalo Duran",
+"href": "https://www.gonzaloduran.nyc/"
+},
+{
+"text": "Gonzalo Duran Honors Jason Murillo: A Rising Force in Manhattan",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-honors-jason-murillo-a-rising-force-in-manhattan/"
+},
+{
+"text": "Gonzalo Duran Press Conference Bronx vs Socialism Event Photos",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-press-conference-bronx-vs-socialism-event-photos/"
+},
+{
+"text": "Gonzalo Duran in the Press",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-press/"
+},
+{
+"text": "Gonzalo Duran to Participate in N.A.R.E.B. Political Advocacy Day",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-to-participate-in-n-a-r-e-b-political-advocacy-day/"
+},
+{
+"text": "Gonzalo Duran – Vice Chairman of the Bronx Conservative Party",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-vice-chairman-of-the-bronx-conservative-party/"
+},
+{
+"text": "Gonzalo In The Press",
+"href": "https://www.gonzaloduran.nyc/category/gonzalo-in-the-press/"
+},
+{
+"text": "Health",
+"href": "https://www.gonzaloduran.nyc/health/"
+},
+{
+"text": "Housing",
+"href": "https://www.gonzaloduran.nyc/housing/"
+},
+{
+"text": "Mayor Bill de Blasio & Gonzalo Duran Interviewed by Italian Media",
+"href": "https://www.gonzaloduran.nyc/mayor-bill-de-blasio-gonzalo-duran-interviewed-by-italian-media/"
+},
+{
+"text": "Press Release",
+"href": "https://www.gonzaloduran.nyc/category/press-release/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Safety",
+"href": "https://www.gonzaloduran.nyc/safety/"
+},
+{
+"text": "Safety Press Conference with Conservative Party Candidates",
+"href": "https://www.gonzaloduran.nyc/safety-press-conference-with-conservative-party-candidates/"
+},
+{
+"text": "Scheduled Events",
+"href": "https://www.gonzaloduran.nyc/events/"
+},
+{
+"text": "Senator Chuck Schumer & Gonzalo Duran On the Voting Rights Act",
+"href": "https://www.gonzaloduran.nyc/senator-chuck-schumer-gonzalo-duran-on-the-voting-rights-act/"
+},
+{
+"text": "Shery Olivo Secures Her Place on the Bronx Republican Ballot",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "Shery Olivo for the Republican NYS Assembly District 86: Vote June 23",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "Statement on Leadership & Coordination Failures in the Bronx GOP",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "The Bronx is MAGA Rally in Morris Park",
+"href": "https://www.gonzaloduran.nyc/the-bronx-is-maga-rally-in-morris-park/"
+},
+{
+"text": "Transportation",
+"href": "https://www.gonzaloduran.nyc/transportation/"
+},
+{
+"text": "United Alliance Party Expands Petitioning Infrastructure Statewide",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-expands-petitioning-infrastructure-statewide/"
+},
+{
+"text": "Veterans",
+"href": "https://www.gonzaloduran.nyc/veterans/"
+},
+{
+"text": "Videos",
+"href": "https://www.gonzaloduran.nyc/category/videos/"
+},
+{
+"text": "View @gonzalodurannyc’s profile on YouTube",
+"href": "https://www.youtube.com/user/@gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Facebook",
+"href": "https://www.facebook.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Instagram",
+"href": "https://www.instagram.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on LinkedIn",
+"href": "https://www.linkedin.com/in/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Pinterest",
+"href": "https://www.pinterest.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Tumblr",
+"href": "https://gonzalodurannyc.tumblr.com"
+},
+{
+"text": "View gonzalodurannyc’s profile on Twitter",
+"href": "https://twitter.com/gonzalodurannyc/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gonzaloduran.nyc/volunteer/"
+},
+{
+"text": "[image: Gonzalo Duran]",
+"href": "https://www.gonzaloduran.nyc/"
+},
+{
+"text": "initiatives",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-press"
+},
+{
+"text": "proven leadership",
+"href": "https://ny1.com/nyc/all-boroughs/inside-city-hall/2025/10/10/public-advocate-candidates-talk-campaigns-and-more"
+}
 ]

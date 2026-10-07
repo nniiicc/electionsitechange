@@ -1,12 +1,50 @@
 [
-"https://facebook.com/100929481572633",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://stevegistformontana.com/",
-"https://stevegistformontana.com/about-steve",
-"https://stevegistformontana.com/contact-us",
-"https://stevegistformontana.com/donate-today",
-"https://stevegistformontana.com/endorsements",
-"https://stevegistformontana.com/m/account",
-"https://stevegistformontana.com/m/create-account",
-"https://stevegistformontana.com/the-issues"
+{
+"text": "About Steve",
+"href": "https://stevegistformontana.com/about-steve"
+},
+{
+"text": "Contact Us",
+"href": "https://stevegistformontana.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://stevegistformontana.com/m/create-account"
+},
+{
+"text": "Donate Today",
+"href": "https://stevegistformontana.com/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://stevegistformontana.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://stevegistformontana.com/"
+},
+{
+"text": "My Account",
+"href": "https://stevegistformontana.com/m/account"
+},
+{
+"text": "Sign In",
+"href": "https://stevegistformontana.com/m/account"
+},
+{
+"text": "Steve Gist For The Montana Legislature HD 25Steve Gist For The Montana Legislature HD 25Steve Gist For The Montana Legislature HD 25Steve Gist For The Montana Legislature HD 25",
+"href": "https://stevegistformontana.com/"
+},
+{
+"text": "The Issues",
+"href": "https://stevegistformontana.com/the-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/100929481572633"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

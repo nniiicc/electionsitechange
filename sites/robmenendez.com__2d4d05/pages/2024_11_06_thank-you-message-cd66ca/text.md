@@ -1,8 +1,5 @@
-Latest News
-Thank You
-Thank you so much to the voters of our incredible Eighth District and our diverse coalition of supporters!
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Latest News Thank You November 6, 2024 Thank you so much to the voters of our incredible Eighth District and our diverse coalition of supporters!
 It’s the honor of a lifetime to serve our communities and I look forward to continuing to fight for all of us in Congress, deliver for our district, and work collaboratively to move our country forward.
 We’re going to continue keeping the faith, carrying on with the fight, and working hard for our constituents every single day.
 Always remember, there isn’t anything we can’t do – together.
-Sincerely,
-Rob
+Sincerely, Rob Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

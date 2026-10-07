@@ -1,3 +1,4 @@
+Home Meet Spencer Issues "Go" for Igo Donate Messages Join Team Igo More Home Meet Spencer Issues "Go" for Igo Donate Messages Join Team Igo Home Meet Spencer Issues "Go" for Igo Donate Messages Join Team Igo Facebook X Facebook X Facebook X Facebook X Facebook X Facebook X Meet SPencer Hi, my name is Spencer Igo.
 I grew up here in Grand Rapids.
 In my time in school I was an active member of the renowned Grand Rapids Bands.
 I was also a member of the Grand Rapids Swim Team.
@@ -31,3 +32,5 @@ Paul and that is what I have worked to deliver.
 The privilege to serve and be the best voice I can for all of us drives me everyday.
 Growing up in Northern Minnesota is what I consider to be my greatest blessing in my life.
 The communities that I am serving have given me so many memories, skills, and relationships.
+Paid and prepared for by the Spencer Igo Campaign Committee PO Box 634, Grand Rapids, MN 55744 Powered by "Go" for Igo I need you to "GO" for Igo!
+Donate to Team Igo

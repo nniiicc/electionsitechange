@@ -1,13 +1,46 @@
 [
-"http://aboutads.info/choices",
-"http://adobe.com/products/flashplayer/security\u00a0for",
-"http://repelik.com/",
-"https://amyelik.com/",
-"https://amyelik.com/about",
-"https://amyelik.com/contact",
-"https://amyelik.com/news",
-"https://amyelik.com/privacy",
-"https://facebook.com/amyelikforstaterep",
-"https://google.com/maps/d/u/1/viewer?mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&ll=38.8236708909218%2C-90.08678549999999&z=11",
-"https://secure.winred.com/citizens-for-amy-elik/donate"
+{
+"text": "ABOUT",
+"href": "https://www.amyelik.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.amyelik.com/contact"
+},
+{
+"text": "Click Here",
+"href": "http://repelik.com"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.google.com/maps/d/u/1/viewer?mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&ll=38.8236708909218%2C-90.08678549999999&z=11"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.winred.com/citizens-for-amy-elik/donate"
+},
+{
+"text": "ElikforRep@gmail.com",
+"href": "mailto:ElikforRep@gmail.com"
+},
+{
+"text": "HOME",
+"href": "https://www.amyelik.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.amyelik.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.amyelik.com/privacy"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/amyelikforstaterep"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+}
 ]

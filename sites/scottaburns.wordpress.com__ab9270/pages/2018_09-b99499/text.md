@@ -1,27 +1,15 @@
-- Recent Tweets Tweets by sbpres
-- Events
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: September 2018
-Main Points on Education Funding
-Education funding will be my main focus.
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: September 2018 Main Points on Education Funding Posted on September 28, 2018 by Scott Burns for State Representative Education funding will be my main focus.
 There is the cost per pupil, the loss of stabilization, reduction of building aid and the loss of retirement funding to the communities.
-Stabilization is something I will consider restoring or freeze the … Continue reading
-We need E Waste program in state of NH.
-I am glad I still have my network of friends, lobbyist and etc as a state legislator.
+Stabilization is something I will consider restoring or freeze the … Continue reading → Posted in Uncategorized | Leave a comment We need E Waste program in state of NH.
+Posted on September 28, 2018 by Scott Burns for State Representative I am glad I still have my network of friends, lobbyist and etc as a state legislator.
 I was emailed to help submit a bill and gain support for it.
-Even though I have not won yet, I like the … Continue reading
-We need Annie Kuster because of her bipartisan efforts to end the opioid crisis.
-Letter to the editor submitted to Laconia Daily Sun and Concord Monitor The opioid crisis claimed nearly 72,000 American lives last year.
-To make matters worse, New Hampshire had the tragic distinction of leading the nation in fentanyl overdose deaths … Continue reading
-Education Funding
-Last Monday night, Franklin School Board has a special guest of the Claremont lawsuit; John Tobin.
+Even though I have not won yet, I like the … Continue reading → Posted in Uncategorized | Leave a comment We need Annie Kuster because of her bipartisan efforts to end the opioid crisis.
+Posted on September 28, 2018 by Scott Burns for State Representative Letter to the editor submitted to Laconia Daily Sun and Concord Monitor The opioid crisis claimed nearly 72,000 American lives last year.
+To make matters worse, New Hampshire had the tragic distinction of leading the nation in fentanyl overdose deaths … Continue reading → Posted in Uncategorized | Leave a comment Education Funding Posted on September 21, 2018 by Scott Burns for State Representative Last Monday night, Franklin School Board has a special guest of the Claremont lawsuit; John Tobin.
 Mr Tobin stated the Claremont 3 or another lawsuit should be last resort.
-Mr Tobin asked the public to ask all those who are … Continue reading
-NH needs more recycling programs
-Submitted to Concord Monitor and Laconia Daily Sun.
+Mr Tobin asked the public to ask all those who are … Continue reading → Posted in Uncategorized | Leave a comment NH needs more recycling programs Posted on September 14, 2018 by Scott Burns for State Representative Submitted to Concord Monitor and Laconia Daily Sun.
 I want to thank the voters who voted for me in the Primary.
 Education is my focus but there are other issues.
-The state needs to move towards more stewardship programs … Continue reading
+The state needs to move towards more stewardship programs … Continue reading → Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events September 2018 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Aug Oct » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

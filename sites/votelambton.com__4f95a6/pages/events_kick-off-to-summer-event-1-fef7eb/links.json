@@ -1,19 +1,90 @@
 [
-"https://facebook.com/VoteLambton",
-"https://instagram.com/votechrislambton",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fchrislambton-kickofftosummer2026%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExN1hxRmJDcUlHNlN1NnZXcXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4MKV6E2LZhM2qV8XobvepQzIXlqDy9A7Z1mgUtfSNhmG6rZJ-ZPmT8ykEHpw_aem_-yLuCa33jJAshSMEPXlrCg&h=AUCHaTUphzFXiGvcdXLtWHVp0SzLhxiv2masNQpysmCAKLHZERBs_0gyY4Q7CfFpEe7FHLaT569zVL7uXf6QCq3YHtXFYVUHaSdbxD2-b4T2vL6qpA6XgBCu98awr_iI2a8Dl7OsAI3Wj42VE5dvMA",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1",
-"https://secure.actblue.com/donate/chrislambtoncommittee",
-"https://tiktok.com/@votelambton",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://votelambton.com/",
-"https://votelambton.com/about-3",
-"https://votelambton.com/about-chris-lambton",
-"https://votelambton.com/chris-lambton-events",
-"https://votelambton.com/chris-lambton-get-involved",
-"https://votelambton.com/chris-lambton-news",
-"https://votelambton.com/chris-lambton-priorities",
-"https://votelambton.com/contact-chris-lambton",
-"https://votelambton.com/howtovote",
-"https://votelambton.com/terms-and-conditions"
+{
+"text": "About",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "About",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Chris Lambton",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Contact",
+"href": "https://www.votelambton.com/contact-chris-lambton"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chrislambtoncommittee"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelambton.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.votelambton.com/chris-lambton-events"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votelambton.com/chris-lambton-get-involved"
+},
+{
+"text": "HERE",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fchrislambton-kickofftosummer2026%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExN1hxRmJDcUlHNlN1NnZXcXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4MKV6E2LZhM2qV8XobvepQzIXlqDy9A7Z1mgUtfSNhmG6rZJ-ZPmT8ykEHpw_aem_-yLuCa33jJAshSMEPXlrCg&h=AUCHaTUphzFXiGvcdXLtWHVp0SzLhxiv2masNQpysmCAKLHZERBs_0gyY4Q7CfFpEe7FHLaT569zVL7uXf6QCq3YHtXFYVUHaSdbxD2-b4T2vL6qpA6XgBCu98awr_iI2a8Dl7OsAI3Wj42VE5dvMA"
+},
+{
+"text": "Home",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "How to Vote",
+"href": "https://www.votelambton.com/howtovote"
+},
+{
+"text": "News",
+"href": "https://www.votelambton.com/chris-lambton-news"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votelambton.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteLambton"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votechrislambton"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@votelambton"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1"
+},
+{
+"text": "info@votelambton.com",
+"href": "mailto:info@votelambton.com"
+}
 ]

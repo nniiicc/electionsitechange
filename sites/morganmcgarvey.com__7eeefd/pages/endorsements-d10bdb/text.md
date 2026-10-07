@@ -1,175 +1,20 @@
-Morgan McGarvey has been endorsed by the following people for his 2026 reelection campaign for Congress:
-Andy Beshear, Governor of Kentucky
-Jacqueline Coleman, Lt.
-Governor of Kentucky
-Craig Greenberg, Mayor of Louisville
-Gerina Whethers, Commonwealth’s Attorney
-David Yates, County Clerk
-Sheriff David James
-Colleen Younger, PVA
-Queenie Averette, Judge Executive
-Mike O’Connell, County Attorney
-David Nicholson, Circuit Court Clerk
-Gerald Neal, Senate Minority Leader
-Karen Berg, State Senator
-Keturah Herron, State Senator
-Cassie Chambers Armstrong, State Senator
-Pamela Stevenson, House Democratic Leader
-Josh Watkins, House Democratic Whip
-Tina Bojanowski, State Representative
-Beverly Chester-Burton, State Representative
-Al Gentry, State Representative
-Mary Lou Marzian, State Representative
-Rachel Roarx, State Representative
-Sarah Stalker, State Representative
-Jennifer Chappell, Metro Councilmember, Democratic Caucus Vice Chair
-Ben Reno-Weber, Metro Councilmember
-Tammy Hawkins, Metro Councilmember, Democratic Caucus Chair
-Ken Herndon, Metro Councilmember
-Paula McCraney, Metro Councilmember
-Andrew Owen, Metro Councilmember
-Shameka Parrish-Wright, Metro Councilmember
-Josie Raymond, Metro Councilmember
-Betsy Ruhe, Metro Councilmember
-Barbara Shanklin, Metro Councilmember
-Markus Winkler, Metro Councilmember
-Jerry Abramson, Former Mayor of Louisville/ Lt.
-Governor of Kentucky
-Greg Fischer, Former Mayor of Louisville
-Mike Ward, Former Congressman
-John Yarmuth, Former Congressman
-Rev.
+Volunteer with Morgan McGarvey for Congress Meet Morgan Endorsements Take Action Donate Endorsements Morgan McGarvey has been endorsed by the following people for his 2026 reelection campaign for Congress: Andy Beshear, Governor of Kentucky Jacqueline Coleman, Lt.
+Governor of Kentucky Craig Greenberg, Mayor of Louisville Gerina Whethers, Commonwealth’s Attorney David Yates, County Clerk Sheriff David James Colleen Younger, PVA Queenie Averette, Judge Executive Mike O’Connell, County Attorney David Nicholson, Circuit Court Clerk Gerald Neal, Senate Minority Leader Karen Berg, State Senator Keturah Herron, State Senator Cassie Chambers Armstrong, State Senator Pamela Stevenson, House Democratic Leader Josh Watkins, House Democratic Whip Tina Bojanowski, State Representative Beverly Chester-Burton, State Representative Al Gentry, State Representative Mary Lou Marzian, State Representative Rachel Roarx, State Representative Sarah Stalker, State Representative Jennifer Chappell, Metro Councilmember, Democratic Caucus Vice Chair Ben Reno-Weber, Metro Councilmember Tammy Hawkins, Metro Councilmember, Democratic Caucus Chair Ken Herndon, Metro Councilmember Paula McCraney, Metro Councilmember Andrew Owen, Metro Councilmember Shameka Parrish-Wright, Metro Councilmember Josie Raymond, Metro Councilmember Betsy Ruhe, Metro Councilmember Barbara Shanklin, Metro Councilmember Markus Winkler, Metro Councilmember Jerry Abramson, Former Mayor of Louisville/ Lt.
+Governor of Kentucky Greg Fischer, Former Mayor of Louisville Mike Ward, Former Congressman John Yarmuth, Former Congressman Rev.
 Dr.
 Kevin W.
-Cosby
-Morgan McGarvey has been endorsed by the following organizations for his 2026 reelection campaign for Congress:
-2026 Moms Demand Action Gun Sense Candidate
-Alliance for Retired Americans
-Amalgamated Transit Union (ATU)
-American Federation of Government Employees (AFGE)
-Better Schools Kentucky Committee
-Boilermakers Local Lodge 40
-Bricklayers Local 4 IN/KY
-Communication Workers of America Local 3310
-Congressional Progressive Caucus PAC
-Greater Louisville Central Labor Council
-Human Rights Campaign PAC
-IBEW Local 369
-International Association of Heat & Frost Insulators and Allied Workers
-International Union of Operating Engineers Local 181
-Iron Workers Local 70
-IUE-CWA Local 83761
-Kentucky State Building and Construction Trade Council Executive Board
-Kentucky State AFL-CIO
-League of Conservation Voters Action Fund
-Louisville Professional Firefighters IAFF Local # 54
-National Association of Social Workers - Political Action for Candidate Election
-National Council of the Coal Miners Political Action Committee
-National Wildlife Federation Action Fund
-Sustainable Energy and Environment Coalition PAC
-Teamsters Local Union No. 89
-Teamsters Local Union No. 783
-United Auto Workers Community Action Program (CAP)
-United Food and Commercial Workers Local 227 (UFCW 227)
-United Steelworkers District 8
-Kentucky State AFL-CIO Committee on Political Education (COPE)
-Jerry Abramson
-Former Mayor / Lt.
-Gov
-Denise Harper Angel
-State Senator
-Cassie Chambers Armstrong
-Metro Councilmember
-John Aubrey
-Sheriff
-Better Schools Kentucky / Jefferson County Teachers Association
-Karen Berg
-Larry Clark
-Former Kentucky House Speaker Pro Tempore
-Perry Clark
-Former State Representative and State Senator
-Brandon Coan
-Former Metro Councilmember
-Jack Conway
-Former Attorney General
-Keisha Dorsey
-Jeff Donohue
-State Representative
-Derrick Graham
-House Minority Caucus Chair
-Guarding Against Pandemics
-Cindi Fowler
-Bill Hollander
-IAFF Local 345 & Kentucky Professional Firefighters
-Indiana Kentucky Ohio Regional Council of Carpenters
-International Brotherhood of Boilermakers Local 40
-International Union of Bricklayers Local 4
-International Union of Painters and Allied Trades Local 91
-David James
-Metro Council President
-Joni Jenkins
-House Minority Leader
-David Karem
-Former State Senator
-Rev.
+Cosby Morgan McGarvey has been endorsed by the following organizations for his 2026 reelection campaign for Congress: 2026 Moms Demand Action Gun Sense Candidate Alliance for Retired Americans Amalgamated Transit Union (ATU) American Federation of Government Employees ( AFGE ) Better Schools Kentucky Committee Boilermakers Local Lodge 40 Bricklayers Local 4 IN/KY Communication Workers of America Local 3310 Congressional Progressive Caucus PAC Greater Louisville Central Labor Council Human Rights Campaign PAC IBEW Local 369 International Association of Heat & Frost Insulators and Allied Workers International Union of Operating Engineers Local 181 Iron Workers Local 70 IUE-CWA Local 83761 Kentucky State Building and Construction Trade Council Executive Board Kentucky State AFL-CIO League of Conservation Voters Action Fund Louisville Professional Firefighters IAFF Local # 54 National Association of Social Workers - Political Action for Candidate Election National Council of the Coal Miners Political Action Committee National Wildlife Federation Action Fund Sustainable Energy and Environment Coalition PAC Teamsters Local Union No.
+89 Teamsters Local Union No.
+783 United Auto Workers Community Action Program (CAP) United Food and Commercial Workers Local 227 (UFCW 227) United Steelworkers District 8 ‍ Kentucky State AFL-CIO Committee on Political Education (COPE) Jerry Abramson Former Mayor / Lt.
+Gov Denise Harper Angel State Senator Cassie Chambers Armstrong Metro Councilmember John Aubrey Sheriff Better Schools Kentucky / Jefferson County Teachers Association Karen Berg State Senator Larry Clark Former Kentucky House Speaker Pro Tempore Perry Clark Former State Representative and State Senator Brandon Coan Former Metro Councilmember Jack Conway Former Attorney General Rev.
+Dr.
+Kevin W.
+Cosby Keisha Dorsey Metro Councilmember Jeff Donohue State Representative Derrick Graham House Minority Caucus Chair Guarding Against Pandemics Cindi Fowler Metro Councilmember Bill Hollander Metro Councilmember IAFF Local 345 & Kentucky Professional Firefighters Indiana Kentucky Ohio Regional Council of Carpenters International Brotherhood of Boilermakers Local 40 IBEW Local 369 International Union of Bricklayers Local 4 International Union of Painters and Allied Trades Local 91 Iron Workers Local 70 David James Metro Council President Joni Jenkins House Minority Leader David Karem Former State Senator Rev.
 Dr.
 Steven M.
-Kelsey
-Kentucky AFL-CIO
-Kentucky Education Association
-Kentucky Justice Association
-Kentucky Pipe Trades Association
-Kentucky State Building & Construction Trades Council
-Crit Luallen
-Former State Auditor and Lt.
-Governor
-Mary Lou Marzian
-Charlie Miller
-Pat Mulvihill
-National Conference of Firemen & Oilers SEIU 32BJ
-National Education Association
-Gerald Neal
-Maria Sorolis
-Former State Representative
-Tim Shaughnessy
-Rev.
+Kelsey Kentucky AFL-CIO Kentucky Education Association Kentucky Justice Association Kentucky Pipe Trades Association Kentucky State Building & Construction Trades Council Crit Luallen Former State Auditor and Lt.
+Governor Mary Lou Marzian State Representative Charlie Miller State Representative Pat Mulvihill Metro Councilmember National Conference of Firemen & Oilers SEIU 32BJ National Education Association Gerald Neal State Senator Maria Sorolis Former State Representative Tim Shaughnessy Former State Senator Rev.
 Dr.
 Frank M.
 Smith, Jr.
-Pamela Stevenson
-Colonel (ret) / State Representative
-Chris Sanders
-Teamsters Locals 89 and 783
-Reggie Thomas
-State Senate Democratic Caucus Chairman
-UAW Kentucky
-Mike Ward
-Former Congressman
-Jim Wayne
-Markus Winkler
-John Yarmuth
-Congressman
-David Yates
-Colleen Younger
-PVA
-AFSCME Council 962
-American Association of Justice
-Brady PAC
-Planned Parenthood Action Fund
-Future Forum
-Greater Louisville Building & Construction Trades Council
-Heat & Frost Insulators Local 51
-International Brotherhood of Boilermakers Local Lodge 40
-International Union of Painters and Allied Trades District 90
-Laborers’ International Union of North America (Local 576)
-League of Conservation Voters
-NARAL Pro-Choice America
-New Democrats Action Fund
-Progressive Turnout Project
-United Food & Commercial Workers Local 227
-United Mine Workers of America
-United Steelworkers
-National Organization for Women PAC
-National Association of Social Workers
-National Committee to Preserve Social Security and Medicare
-Sierra Club
+Pamela Stevenson Colonel (ret) / State Representative Chris Sanders Teamsters Locals 89 and 783 Reggie Thomas State Senate Democratic Caucus Chairman UAW Kentucky Mike Ward Former Congressman Jim Wayne Former State Representative Markus Winkler Metro Councilmember John Yarmuth Congressman David Yates State Senator Colleen Younger PVA AFSCME Council 962 American Association of Justice Brady PAC Planned Parenthood Action Fund Communication Workers of America Local 3310 Congressional Progressive Caucus PAC Future Forum Greater Louisville Building & Construction Trades Council Heat & Frost Insulators Local 51 International Brotherhood of Boilermakers Local Lodge 40 International Union of Painters and Allied Trades District 90 IUE-CWA Local 83761 Kentucky Pipe Trades Association Laborers’ International Union of North America (Local 576) League of Conservation Voters NARAL Pro-Choice America New Democrats Action Fund Progressive Turnout Project United Food & Commercial Workers Local 227 United Mine Workers of America United Steelworkers National Organization for Women PAC National Association of Social Workers National Committee to Preserve Social Security and Medicare Sierra Club Home Meet Morgan Endorsements Media Donate Email Us Press Inquiries Paid for by Morgan McGarvey for Congress Donate By Mail Morgan McGarvey for Congress ‍ PO Box 5324 Louisville, KY 40255 Terms of Service Privacy Policy

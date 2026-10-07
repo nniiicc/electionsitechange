@@ -1,11 +1,38 @@
 [
-"http://instagram.com/emeritatorresny",
-"https://emeritatorres.com/",
-"https://emeritatorres.com/accomplishments",
-"https://emeritatorres.com/cart",
-"https://emeritatorres.com/district-map",
-"https://emeritatorres.com/get-involved",
-"https://emeritatorres.com/meet-emerita",
-"https://secure.actblue.com/donate/torres85",
-"https://twitter.com/EmeritaTorresNY"
+{
+"text": "0",
+"href": "https://www.emeritatorres.com/cart"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.emeritatorres.com/accomplishments"
+},
+{
+"text": "District Map",
+"href": "https://www.emeritatorres.com/district-map"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/torres85"
+},
+{
+"text": "Get Involved",
+"href": "https://www.emeritatorres.com/get-involved"
+},
+{
+"text": "Meet Emerita",
+"href": "https://www.emeritatorres.com/meet-emerita"
+},
+{
+"text": "[image: Emerita Torres for NY]",
+"href": "https://www.emeritatorres.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/emeritatorresny"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EmeritaTorresNY/"
+}
 ]

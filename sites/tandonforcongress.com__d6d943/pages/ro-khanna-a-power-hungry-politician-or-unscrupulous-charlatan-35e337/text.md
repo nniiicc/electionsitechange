@@ -1,4 +1,4 @@
-In early August 2019, Ro Khanna, the congressman representing the 17th district of California, joined the Congressional Pakistan Caucus.
+Home Chinese Vietnamese Volunteering Donation Sign-Up Contact News Ro Khanna News Ro Khanna-A Power-Hungry Politician or Unscrupulous Charlatan January 8, 2020 In early August 2019, Ro Khanna, the congressman representing the 17th district of California, joined the Congressional Pakistan Caucus.
 Then subsequently, on August 29th, Representative Khanna tweeted “it’s the duty of every American politician of Hindu faith to stand for pluralism, reject Hindutva, and speak for equal rights for Hindus, Muslims, Sikhs, Buddhist & Christians.
 That is the vision of India my grandfather, Amarnath Vidyalankar fought for..” The tweet was in response to a long-winded diatribe published by a radical anti-Hindu agitator, Pieter Friedrich, in a dubious publication.
 Ro Khanna’s explicit support for an anti-Hindu bigot and his tacit endorsement for Pakistan has angered a large swath of the Hindu-American community across America and particularly in the Bay Area.
@@ -11,13 +11,13 @@ He supported an anti-Gandhi and anti-Hindu bigot, Pieter Friedrich and ditched t
 The Hindu-American community was surprised and disgusted with Representative Khanna’s actions.
 Hindu-Americans believed that Representative Khanna was trustworthy due to his affiliation with Gandhi, but his actions have demonstrated that the affiliation is meaningless.
 Khanna simply used the affiliation with Gandhi to boost his progressive credentials but acted like a power-hungry politician and abandoned the community’s interests when those interests became an impediment to his ambition.
-Representative Khanna’s tweet lends credibility and support to a radical anti-Hindu agitator, Pieter Friedrich, and to The Caravan, a magazine with dubious credibility.
+Representative Khanna’s tweet lends credibility and support to a radical anti-Hindu agitator, Pieter Friedrich , and to The Caravan , a magazine with dubious credibility.
 This should be concerning to all moderate and independent voters in California’s District 17.
 Pieter, Friedrich, is a well-known anti-Hindu bigot, who has promoted numerous anti-Gandhi and anti-Hindu protests.
-Friedrich masquerades as a South Asian affairs analyst but provides scant, if any, information about his qualifications and credentials.
+Friedrich masquerades as a South Asian affairs analyst but provides scant, if any, information about his qualifications and credentials .
 Friedrich has a long track record of affiliating with an organization called Organization for Minorities of India (“OFMI”), whose founder was investigated by the United States Customs Service for supporting a terrorist movement in India.
-To spread his hate-filled venom, Friedrich has coopted The Caravan.
-Representative Khanna’s tweet has lent credibility to this dubious magazine, whose editors are well known for vocally supporting terrorists and spewing hatred towards Hindus and the current government of India.
+To spread his hate-filled venom, Friedrich has coopted The Caravan .
+Representative Khanna’s tweet has lent credibility to this dubious magazine , whose editors are well known for vocally supporting terrorists and spewing hatred towards Hindus and the current government of India.
 By joining the Congressional Pakistan Caucus Representative Khanna has delivered the proverbial slap in the face to the Hindu American community.
 Khanna’s action raises the stature of a country that has initiated multiple wars with India and has been fomenting and supporting terrorism against its neighbors for at least the last two decades, if not from its inception.
 Additionally, by joining the Congressional Pakistan Caucus Khanna has also implicitly rewarded a country that openly rejects religious pluralism and terrorizes its Hindu community by forcibly converting its girls to Islam, destroying its temples, and glorifying genocidal invaders.
@@ -27,4 +27,4 @@ He has shown that he is an opportunist, who will alter his politics, as needed, 
 As Tal Kopan of the San Francisco Chronicle notes, “he’s an opportunist, one who shopped for congressional seats and did whatever he could to win, then adapted his politics to what could help him rise”.
 He has also demonstrated that his frequent reference to his affiliation with Gandhi is simply meant to boost his progressive credentials, but his actions are more akin to a power hungry politician who is about as trustworthy as a used car salesman.
 I truly hope the citizens of California’s District 17 will send a strong message to Representative Khanna by withholding campaign donations and supporting challengers in the upcoming primary election and subsequent congressional election in the November 2020.
-Source: medium.com
+Source : medium.com admin previous Ro Khanna, the anti-poverty crusader and messiah of plurality next Ro Khanna doesn’t deserve support PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress.com Popular Links Home News How Can You Help Volunteering Donation Contact Terms & Conditions Privacy Policy

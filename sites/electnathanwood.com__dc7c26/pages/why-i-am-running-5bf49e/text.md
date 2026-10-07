@@ -1,5 +1,4 @@
-We have an existential problem
-I served at the district office manager of then-Representative Greg Rothman, our now-incumbent senator.
+0 Skip to Content HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Donate Open Menu Close Menu Donate HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Open Menu Close Menu HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Donate We have an existential problem I served at the district office manager of then-Representative Greg Rothman, our now-incumbent senator.
 I saw first-hand how much good state government can do for people.
 I also saw how desperately we need it to do better.
 We have the third highest-paid legislature in the nation – simultaneously, it is one of the most corrupt, least productive, and least transparent.
@@ -17,3 +16,6 @@ These are not ideals, but necessities.
 To that end, I am running for Pennsylvania’s 34th Senate District to be the change we require.
 If you too demand more from your government, please make your voice known by lending me your support.
 With your help, we can restore servant-leadership to our Commonwealth.
+Are you in?
+Click here to support! other inquiries: Committee to Elect Nathan Wood 361 Pine Hill Road Carlisle, PA 17013 email: admin@electnathanwood.com call: 717.683.7065 © # Committee to Elect Nathan Wood.
+All rights reserved.

@@ -1,14 +1,3 @@
-top of page
-Legislative Speeches
-Legislative Speeches
-Search video...
-HJR2009: Gun Safety, School Shootings: 3-20-18
-06:56
-Stop Targeting Teachers, March 29, 2022
-01:09
-Reproductive Choice 5-1-18
-17:07
-4/24/2022: Fair Taxes for the Middle Class
-00:31
-Paid for by Iowans for Liz Bennett
-bottom of page
+top of page Donate Home Legislative Updates Endorsements Email Signup Video More Use tab to navigate through the menu items.
+Legislative Speeches Legislative Speeches Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Search videos Search video...
+Now Playing HJR2009: Gun Safety, School Shootings: 3-20-18 06:56 Play Video Now Playing Stop Targeting Teachers, March 29, 2022 01:09 Play Video Now Playing Reproductive Choice 5-1-18 17:07 Play Video Now Playing 4/24/2022: Fair Taxes for the Middle Class 00:31 Play Video Paid for by Iowans for Liz Bennett bottom of page

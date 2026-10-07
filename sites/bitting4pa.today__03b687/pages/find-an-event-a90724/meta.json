@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://bitting4pa.today/find-an-event",
- "paid_for_by": null,
+ "fingerprint": "5a3ee253f3a0bfbe8ed348e0c3597aac37635eda",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Find an Event",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

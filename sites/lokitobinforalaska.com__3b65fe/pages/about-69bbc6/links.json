@@ -1,12 +1,50 @@
 [
-"https://bsky.app/profile/lgtobin.bsky.social",
-"https://facebook.com/lokitobinforalaska",
-"https://instagram.com/lgtobin",
-"https://lokitobinforalaska.com/",
-"https://lokitobinforalaska.com/about",
-"https://lokitobinforalaska.com/cart",
-"https://lokitobinforalaska.com/issues-1",
-"https://lokitobinforalaska.com/social-media-policy",
-"https://lokitobinforalaska.com/volunteer",
-"https://secure.actblue.com/donate/reelectloki"
+{
+"text": "0",
+"href": "https://lokitobinforalaska.com/cart"
+},
+{
+"text": "About Löki",
+"href": "https://lokitobinforalaska.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reelectloki"
+},
+{
+"text": "Get Involved",
+"href": "https://lokitobinforalaska.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://lokitobinforalaska.com/"
+},
+{
+"text": "Social Media Policy",
+"href": "https://lokitobinforalaska.com/social-media-policy"
+},
+{
+"text": "Vote",
+"href": "https://lokitobinforalaska.com/issues-1"
+},
+{
+"text": "[image: Löki for Alaska State Senate]",
+"href": "https://lokitobinforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/lgtobin.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lokitobinforalaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lgtobin"
+},
+{
+"text": "info@lokitobinforalaska.com",
+"href": "mailto:info@lokitobinforalaska.com?subject=From+Website"
+}
 ]

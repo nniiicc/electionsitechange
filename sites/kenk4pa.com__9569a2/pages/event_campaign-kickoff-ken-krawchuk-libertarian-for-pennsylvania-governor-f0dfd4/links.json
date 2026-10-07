@@ -1,36 +1,162 @@
 [
-"http://kenk4pa.com/",
-"https://elegantthemes.com/",
-"https://facebook.com/KenK4Pa",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260516T120000%2F20260516T150000&text=Campaign+Kickoff+%26%238211%3B+Ken+Krawchuk%2C+Libertarian+for+Pennsylvania+Governor&details=Join+Ken+Krawchuk%2C+the+Libertarian+Party+gubernatorial+candidate%2C+and+his+running+mate+John+Thomas+on+the+steps+of+the+Harrisburg+Capitol+Rotunda+to+help+kick+off+his+2026+campaign+for+Pennsylvania+Governor.%C2%A0+The+event+is+free%2C+and+the+public+and+media+are+invited+to+attend.%C2%A0+Details+about+the+after-event+to+come%21&location=Pennsylvania+State+Capitol%2C+N+3rd+St%2C+Harrisburg%2C+PA%2C+17120%2C+United+States&trp=false&ctz=UTC-4&sprop=website%3Ahttps%3A%2F%2Fwww.kenk4pa.com",
-"https://kenk4pa.com/",
-"https://kenk4pa.com/1726-2",
-"https://kenk4pa.com/1783-2",
-"https://kenk4pa.com/1800-2",
-"https://kenk4pa.com/data-centers",
-"https://kenk4pa.com/donate",
-"https://kenk4pa.com/event/statewide-pub-crawl",
-"https://kenk4pa.com/events",
-"https://kenk4pa.com/events/tag/2026",
-"https://kenk4pa.com/feed",
-"https://kenk4pa.com/issues",
-"https://kenk4pa.com/issues/abortion",
-"https://kenk4pa.com/issues/constitution",
-"https://kenk4pa.com/issues/crime",
-"https://kenk4pa.com/issues/drugs",
-"https://kenk4pa.com/issues/education",
-"https://kenk4pa.com/issues/elections",
-"https://kenk4pa.com/issues/environment",
-"https://kenk4pa.com/issues/gun-control",
-"https://kenk4pa.com/issues/lgbt",
-"https://kenk4pa.com/issues/responses-to-facebook-questions",
-"https://kenk4pa.com/issues/taxes",
-"https://kenk4pa.com/issues/taxes/welfare",
-"https://kenk4pa.com/press-releases",
-"https://kenk4pa.com/volunteer",
-"https://maps.google.com/maps?f=q&hl=en&q=N+3rd+St+Harrisburg+PA+17120+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-16T12%3A00%3A00-03%3A00&enddt=2026-05-16T15%3A00%3A00-03%3A00&location=Pennsylvania+State+Capitol%2C+N+3rd+St%2C+Harrisburg%2C+PA%2C+17120%2C+United+States&subject=Campaign+Kickoff+-+Ken+Krawchuk%2C+Libertarian+for+Pennsylvania+Governor&body=Join+Ken+Krawchuk%2C+the+Libertarian+Party+gubernatorial+candidate%2C+and+his+running+mate+John+Thomas+on+the+steps+of+the+Harrisburg+Capitol+Rotunda+to+help+kick+off+his+2026+campaign+for+Pennsylvania+Governor.%C2%A0+The+event+is+free%2C+and+the+public+and+media+are+invited+to+attend.%C2%A0+Details+about+the+after-event+to+come%21",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-16T12%3A00%3A00-03%3A00&enddt=2026-05-16T15%3A00%3A00-03%3A00&location=Pennsylvania+State+Capitol%2C+N+3rd+St%2C+Harrisburg%2C+PA%2C+17120%2C+United+States&subject=Campaign+Kickoff+-+Ken+Krawchuk%2C+Libertarian+for+Pennsylvania+Governor&body=Join+Ken+Krawchuk%2C+the+Libertarian+Party+gubernatorial+candidate%2C+and+his+running+mate+John+Thomas+on+the+steps+of+the+Harrisburg+Capitol+Rotunda+to+help+kick+off+his+2026+campaign+for+Pennsylvania+Governor.%C2%A0+The+event+is+free%2C+and+the+public+and+media+are+invited+to+attend.%C2%A0+Details+about+the+after-event+to+come%21",
-"https://twitter.com/kenk4pa",
-"https://wordpress.org/"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=N+3rd+St+Harrisburg+PA+17120+United+States"
+},
+{
+"text": "2026",
+"href": "https://www.kenk4pa.com/events/tag/2026/"
+},
+{
+"text": "Abortion",
+"href": "https://www.kenk4pa.com/issues/abortion/"
+},
+{
+"text": "Campaign Songs",
+"href": "https://www.kenk4pa.com/1726-2/"
+},
+{
+"text": "Constitution",
+"href": "https://www.kenk4pa.com/issues/constitution/"
+},
+{
+"text": "Crime",
+"href": "https://www.kenk4pa.com/issues/crime/"
+},
+{
+"text": "Data Centers",
+"href": "https://www.kenk4pa.com/data-centers/"
+},
+{
+"text": "Donate",
+"href": "https://www.kenk4pa.com/donate/"
+},
+{
+"text": "Drugs",
+"href": "https://www.kenk4pa.com/issues/drugs/"
+},
+{
+"text": "Education",
+"href": "https://www.kenk4pa.com/issues/education/"
+},
+{
+"text": "Elections",
+"href": "https://www.kenk4pa.com/issues/elections/"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Environment",
+"href": "https://www.kenk4pa.com/issues/environment/"
+},
+{
+"text": "Events",
+"href": "https://www.kenk4pa.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KenK4Pa/"
+},
+{
+"text": "Flock Cameras",
+"href": "https://www.kenk4pa.com/1800-2/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260516T120000%2F20260516T150000&text=Campaign+Kickoff+%26%238211%3B+Ken+Krawchuk%2C+Libertarian+for+Pennsylvania+Governor&details=Join+Ken+Krawchuk%2C+the+Libertarian+Party+gubernatorial+candidate%2C+and+his+running+mate+John+Thomas+on+the+steps+of+the+Harrisburg+Capitol+Rotunda+to+help+kick+off+his+2026+campaign+for+Pennsylvania+Governor.%C2%A0+The+event+is+free%2C+and+the+public+and+media+are+invited+to+attend.%C2%A0+Details+about+the+after-event+to+come%21&location=Pennsylvania+State+Capitol%2C+N+3rd+St%2C+Harrisburg%2C+PA%2C+17120%2C+United+States&trp=false&ctz=UTC-4&sprop=website%3Ahttps%3A%2F%2Fwww.kenk4pa.com"
+},
+{
+"text": "Gun Control",
+"href": "https://www.kenk4pa.com/issues/gun-control/"
+},
+{
+"text": "Home",
+"href": "https://www.kenk4pa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kenk4pa.com/issues/"
+},
+{
+"text": "LGBT",
+"href": "https://www.kenk4pa.com/issues/lgbt/"
+},
+{
+"text": "MEET KEN – STATEWIDE PUB CRAWL »",
+"href": "https://www.kenk4pa.com/event/statewide-pub-crawl/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T12%3A00%3A00-03%3A00&enddt=%23T15%3A00%3A00-03%3A00&location=Pennsylvania+State+Capitol%2C+N+3rd+St%2C+Harrisburg%2C+PA%2C+17120%2C+United+States&subject=Campaign+Kickoff+-+Ken+Krawchuk%2C+Libertarian+for+Pennsylvania+Governor&body=Join+Ken+Krawchuk%2C+the+Libertarian+Party+gubernatorial+candidate%2C+and+his+running+mate+John+Thomas+on+the+steps+of+the+Harrisburg+Capitol+Rotunda+to+help+kick+off+his+2026+campaign+for+Pennsylvania+Governor.%C2%A0+The+event+is+free%2C+and+the+public+and+media+are+invited+to+attend.%C2%A0+Details+about+the+after-event+to+come%21"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T12%3A00%3A00-03%3A00&enddt=%23T15%3A00%3A00-03%3A00&location=Pennsylvania+State+Capitol%2C+N+3rd+St%2C+Harrisburg%2C+PA%2C+17120%2C+United+States&subject=Campaign+Kickoff+-+Ken+Krawchuk%2C+Libertarian+for+Pennsylvania+Governor&body=Join+Ken+Krawchuk%2C+the+Libertarian+Party+gubernatorial+candidate%2C+and+his+running+mate+John+Thomas+on+the+steps+of+the+Harrisburg+Capitol+Rotunda+to+help+kick+off+his+2026+campaign+for+Pennsylvania+Governor.%C2%A0+The+event+is+free%2C+and+the+public+and+media+are+invited+to+attend.%C2%A0+Details+about+the+after-event+to+come%21"
+},
+{
+"text": "Press Releases",
+"href": "https://www.kenk4pa.com/press-releases/"
+},
+{
+"text": "RSS",
+"href": "https://www.kenk4pa.com/feed/"
+},
+{
+"text": "Responses to Facebook Questions",
+"href": "https://www.kenk4pa.com/issues/responses-to-facebook-questions/"
+},
+{
+"text": "Shutdowns",
+"href": "https://www.kenk4pa.com/1783-2/"
+},
+{
+"text": "Socials",
+"href": "https://www.kenk4pa.com/"
+},
+{
+"text": "Taxes",
+"href": "https://www.kenk4pa.com/issues/taxes/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kenk4pa.com/volunteer/"
+},
+{
+"text": "Welfare",
+"href": "https://www.kenk4pa.com/issues/taxes/welfare/"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "X",
+"href": "https://twitter.com/kenk4pa"
+},
+{
+"text": "[image: Ken Krawchuk Libertarian for Pennsylvania Governor!]",
+"href": "https://www.kenk4pa.com/"
+},
+{
+"text": "http://KenK4Pa.com",
+"href": "http://kenk4pa.com"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.kenk4pa.com/event/campaign-kickoff-ken-krawchuk-libertarian-for-pennsylvania-governor/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.kenk4pa.com/events/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/KenK4Pa/"
+},
+{
+"text": "",
+"href": "https://twitter.com/kenk4pa"
+}
 ]

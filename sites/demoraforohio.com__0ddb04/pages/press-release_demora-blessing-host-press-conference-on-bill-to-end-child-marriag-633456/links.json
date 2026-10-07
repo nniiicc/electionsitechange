@@ -1,13 +1,46 @@
 [
-"https://demoraforohio.com/",
-"https://demoraforohio.com/accomplishments",
-"https://demoraforohio.com/endorsements",
-"https://demoraforohio.com/meet-bill",
-"https://demoraforohio.com/press-releases",
-"https://facebook.com/DeMoraForOhio",
-"https://instagram.com/billdemoraforohio",
-"https://legislature.ohio.gov/legislation/136/sb341",
-"https://ohiochannel.org/programs/press-conference-2-11-2026-discussing-senate-bill-341",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1",
-"https://x.com/billdemora"
+{
+"text": "Accomplishments",
+"href": "https://demoraforohio.com/accomplishments/"
+},
+{
+"text": "Bill DeMora",
+"href": "https://demoraforohio.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1"
+},
+{
+"text": "Endorsements",
+"href": "https://demoraforohio.com/endorsements/"
+},
+{
+"text": "Meet Bill",
+"href": "https://demoraforohio.com/meet-bill/"
+},
+{
+"text": "News",
+"href": "https://demoraforohio.com/press-releases/"
+},
+{
+"text": "Senate Bill 341",
+"href": "https://legislature.ohio.gov/legislation/136/sb341"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DeMoraForOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billdemoraforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/billdemora"
+},
+{
+"text": "here",
+"href": "https://ohiochannel.org/programs/press-conference-2-11-2026-discussing-senate-bill-341"
+}
 ]

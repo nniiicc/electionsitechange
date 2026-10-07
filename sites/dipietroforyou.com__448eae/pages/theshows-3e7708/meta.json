@@ -1,7 +1,9 @@
 {
  "description": "Listen in on Assemblyman DiPietro's radio show or join him and Pastor Al Robinson on their weekly podcast.",
  "final_url": "https://www.dipietroforyou.com/theshows",
- "paid_for_by": null,
+ "fingerprint": "f03647a9053abab984358fb06d7beca9e390515a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "THE SHOWS | DiPietro For You",
  "years_mentioned": []
 }

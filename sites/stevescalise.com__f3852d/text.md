@@ -1,3 +1,7 @@
+Menu Contribute Home Meet Steve Your Priorities Take Action Contribute Louisiana Conservative Join Team Scalise ABOUT STEVE Steve Scalise is a hardworking, Conservative leader fighting for Louisiana families.
 Steve is working hard to promote fiscal discipline, create good-paying jobs, protect our freedoms, and get our economy back on track.
+Learn more WHAT MATTERS TO YOU?
 Steve wants to know what problems you want fixed, what you think is working well, and how you would rate the job your government is doing.
-"Focus on the solving the deficit and debt equation."
+Take the survey My priority is...
+CREATING JOBS BUILDING THE WALL FIXING HEALTHCARE CUTTING SPENDING DRAINING THE SWAMP MAKING AMERICA SAFE WHAT PEOPLE ARE SAYING "Focus on the solving the deficit and debt equation." - J "Taking care of veterans should be paramount." - Carl "The Louisiana Legend is doing a great job." - Olivier "Keep up the good job you are doing.
+It is very comforting knowing we have you in Washington representing us. " - Pat "All parts of government need to act together for all of America without partisanship." - Anna "Stand firm on constitutional principles." - Wayne "The real strength of America is opportunity for all." - Paul "We can use more good people like you." - Steven "Keep fighting for us because no one else will." - Michael "Defend our liberty, right to life, freedom rights, protect the border and stop illegal immigration! " - Rosemary "" - "" - CONTRIBUTE TODAY FIGHT FOR CONSERVATIVE VALUES $10.00 $25.00 $50.00 Join Team Scalise Meet Steve Your Priorities Take Action Contribute Paid for by Scalise for Congress Copyright # Scalise for Congress Privacy policy 504-831-3105 info@stevescalise.com

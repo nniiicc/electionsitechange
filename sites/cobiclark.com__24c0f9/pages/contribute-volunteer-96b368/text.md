@@ -1,3 +1,3 @@
-Join the Campaign Help Bring a Better Way to the 47th.
-If you want a candidate focused on freedom, affordability, and common-sense solutions, now is the time to get involved.
-Volunteer Donate Spread the Word Host a Sign Endorse Me
+DONATE NOW DONATE NOW Home About the Candidate Solutions Housing Healthcare Taxes / Spending Civil Rights Education / Parents Energy & Gas Prices Small Business / Jobs Homelessness Policy Priorities Enact Reform Repeal Events Endorsements Media Record Video Print Contribute & Volunteer Contact Join the Campaign Help Bring a Better Way to the 47th.
+If you want a candidate focused on freedom, affordability, and common-sense solutions, now is the time to get involved.  Volunteer  Donate  Spread the Word  Host a Sign  Endorse Me FACEBOOK Follow for Updates LINKEDIN Connect Professionally YOUTUBE Watch & Subscribe POLICY SURVEY Take the Survey 206-854-1136 campaign@cobiclark.com Website paid for by the Clark Campaign PO Box 284, Auburn WA, 98071 © #, The Clark Campaign - All Rights Reserved.
+Privacy Policy Website design, hosting, and maintenance by New Tech Web, Inc.

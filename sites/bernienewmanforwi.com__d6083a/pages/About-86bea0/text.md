@@ -1,4 +1,4 @@
-Bernie Newman is a lifelong resident of Washington County whose roots run deep in the communities, traditions, and values of southeastern Wisconsin.
+Skip to content Bernie Newman For Assembly Home About Bernie District Map Volunteer Contact Donate Terms & Privacy Policy About Bernie Bernie Newman is a lifelong resident of Washington County whose roots run deep in the communities, traditions, and values of southeastern Wisconsin.
 Growing up outdoors hunting, fishing, and trapping, Bernie developed an early appreciation for Wisconsin’s natural resources.
 He understands the importance of conservation, stewardship, and personal responsibility.
 These are the values that continue to shape his outlook today.
@@ -20,3 +20,8 @@ His public service also includes membership on the City of West Bend Plan Commis
 He is also a longtime member of the Republican Party, the NRA, the West Bend Moose Lodge, and a lifetime member of the Old Farmers Antique Club.
 Bernie believes public service is about listening, showing up, and standing up for the people you represent.
 His campaign for the 58th Assembly District is rooted in the same principles that have guided his life: hard work, honesty, community involvement, and a commitment to making sure local voices are heard.
+Home About Bernie District Map Volunteer Contact Donate Terms & Privacy Policy Facebook bernienewmanforwi@gmail.com © # Bernie Newman for Wisconsin.
+All Rights Reserved.
+Paid for by Bernie Newman for Wisconsin, John Kitzerow, Treasurer Subscribe Subscribed Bernie Newman For Assembly Sign me up Have a WordPress.com account?
+Log in now.
+Bernie Newman For Assembly Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

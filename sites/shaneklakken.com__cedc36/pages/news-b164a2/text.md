@@ -1,8 +1,5 @@
-top of page
-Lewistown News-Argus Opinion: Restoring the balance of the Republic: The moral responsibility of the states
-June 3, 2026
-Lewistown News-Argus Opinion: Navigating the modern implications: The relevance of constitutional renewal in a fractured republic
-May 23, 2026
-- Page 1
-latest news
-bottom of page
+top of page News Principles Calendar About Menu Close Donate KXLO Radio Interview – June 18, 2025 Read more June 18, 2026 Lewistown News-Argus Opinion: Restoring the balance of the Republic: The moral responsibility of the states Read more June 3, 2026 Lewistown News-Argus Opinion: Navigating the modern implications: The relevance of constitutional renewal in a fractured republic Read more May 23, 2026 Lewistown News-Argus Logged In - May 10-16th, 2026 - Week in Review Read more May 16, 2026 Logged In - April 5-11th, 2026 - Week in Review Read more April 12, 2026 Logged In - April 10th, 2026 - KXLO Live!
+Read more April 10, 2026 First Prev 1 Page 1 Next Last latest news Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

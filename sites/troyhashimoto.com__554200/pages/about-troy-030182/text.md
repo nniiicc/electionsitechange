@@ -1,4 +1,4 @@
-Born and raised on Maui, Troy Hashimoto is deeply rooted in the community and is a fifth generation Maui boy.
+Toggle navigation Home About Troy Issues Media Contact Contribute About Troy Born and raised on Maui, Troy Hashimoto is deeply rooted in the community and is a fifth generation Maui boy.
 The middle child of Noel and Kathy, he learned the value of hard work through days of working on his family’s persimmon farm.
 Both of his siblings, Chad and Leah are public school teachers.
 Troy went away for college and earned a bachelor’s and Master of Business Administration from the University of Denver.
@@ -20,3 +20,5 @@ The legislation helped the State of Hawaii transition away from our eviction mor
 Mediation between tenant and landlords was central to the legislation and created an organized timeline for the moratorium to be phased out as federal rental relief was disseminated.
 During his time at the Legislature, he has focused on securing funding for the Maui Memorial Medical Center and also our public schools.
 He is a 2021 graduate of the prestigious Council of State Government’s – West, Western Leadership Academy and a 2024 recipient of the Council of State Governments 20 under 40 award.
+Paid for by Friends of Troy Hashimoto P.O.
+Box 3028 Wailuku, Hawaii 96793

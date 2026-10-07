@@ -1,10 +1,7 @@
-standing up for what matters most
-Common sense.
+Carey Marin for House District 2 standing up for what matters most Common sense.
 Strong families.
 Real results.
-CAREY MARIN
-CANDIDATE FOR COLORADO HOUSE DISTRICT 2
-I'm a business owner, I've been married to my husband, Paul for 28 years and I'm a mom of four teenagers.
+DONATE CAREY MARIN CANDIDATE FOR COLORADO HOUSE DISTRICT 2 I'm a business owner, I've been married to my husband, Paul for 28 years and I'm a mom of four teenagers.
 My faith and family are what keep me grounded.
 I’m running for House District 2 in the South Denver, Wash Park/Cherry Creek area because I’m concerned for my children’s future.
 Families deserve a Denver that works again.
@@ -25,9 +22,7 @@ We can be compassionate and still expect progress.
 Stand up with me for what matters most.
 I’m Carey Marin and I’d be honored to earn your vote for House District 2.
 Together, we can make Denver work again.
-ISSUES
-COST OF LIVING
-Make it easier to live here again.
+ISSUES COST OF LIVING Make it easier to live here again.
 Families are working hard but everything costs more.
 Housing.
 Groceries.
@@ -40,14 +35,8 @@ We need to get serious about costs.
 Let's start with putting a leash on government spending and cutting what’s driving prices up.
 Colorado has a Taxpayer Bill of Rights for a reason: to protect people from government growing faster than they can afford.
 We need to respect that again.
-What needs to change:
--Get government spending under control
--Protect TABOR and taxpayer refunds
--Stop pushing new taxes and fees on families
--Focus on what actually helps people keep more of what they earn
-We shouldn't feel like we're falling behind just to live here.
-CRIME & SAFETY
-Fight to make Denver safe.
+What needs to change: -Get government spending under control -Protect TABOR and taxpayer refunds -Stop pushing new taxes and fees on families -Focus on what actually helps people keep more of what they earn We shouldn't feel like we're falling behind just to live here.
+CRIME & SAFETY Fight to make Denver safe.
 Safety isn’t complicated.
 It’s a basic right.
 But people don’t feel safe in their communities.
@@ -57,14 +46,8 @@ And what’s most frustrating is that it often feels like the same cycle of repe
 That’s not fair to families.
 And it’s not fair to the people who are trying to do the right thing every day.
 Families shouldn’t have to think twice about walking their neighborhood, going to the store or letting their kids play outside.
-What needs to change:
--Clear expectations and consistent enforcement of the law
--Tougher sentences for repeat offenders
--Beef up recruitment and support law enforcement so they can do their job
--Stop ignoring quality of life issues
-Families deserve to feel safe in our neighborhoods.
-HOMELESSNESS
-Real solutions.
+What needs to change: -Clear expectations and consistent enforcement of the law -Tougher sentences for repeat offenders -Beef up recruitment and support law enforcement so they can do their job -Stop ignoring quality of life issues Families deserve to feel safe in our neighborhoods.
+HOMELESSNESS Real solutions.
 Not more of the same.
 We all see it.
 And everyone wants it addressed.
@@ -74,8 +57,5 @@ It’s also a mental health and addiction issue.
 With homelessness, we see more drug activity and crime on our streets.
 It’s clear we need better solutions that actually address the root of the problem.
 Not policies that enable it.
-What needs to change:
--Better coordination between wrap-around services
--Focus on outcomes, not just spending
--Accountability alongside support
-We can be compassionate and still expect progress.
+What needs to change: -Better coordination between wrap-around services -Focus on outcomes, not just spending -Accountability alongside support We can be compassionate and still expect progress.
+PAID FOR BY CAREY MARIN FOR HOUSE DISTRICT 2 Registered Agent: Carey Marin Contact: Info@careymarin.com careymarin@yahooContact: Copyright © All rights reserved.

@@ -1,5 +1,5 @@
-Use this form to request a citation from the Maryland General Assembly on behalf of District 11.
-Skip to content
-MGA Citation Request
-Use this form to request a citation from the Maryland General Assembly on behalf of District 11.
-Maryland's District 11B
+Skip to content Delegate Dana Stein Maryland's District 11B Menu Meet Dana Endorsements Contact Dana Legislative Scholarships Donate More On the Issues Resources MGA Citation Request Dana’s Newsletter MGA Citation Request Use this form to request a citation from the Maryland General Assembly on behalf of District 11.
+Please enable JavaScript in your browser to complete this form.
+Your Name * First Last Your Email * Details Provide Honor Requesting/Sponsoring Organization (optional) Honoree's Name * First Last Occassion of Honor * — Select Choice — Birthday (60+) Wedding Anniversary (25+ Years) Retirements/Years of Service (18+ Years) Preeminent Scouting Awards Senatorial/Delegate Scholarships Prestigious Non-Academic Youth Achievement Youth Awards for Academics, Athletics, or Extracurriculars (State-Level & Above) Exceptional Community Service Extraordinary Act of Heroism or Service Please Provide Details of Honor * Submit Follow Dana!
+By Authority: Friends of Dana Stein.
+Jerry Jurick, Treasurer

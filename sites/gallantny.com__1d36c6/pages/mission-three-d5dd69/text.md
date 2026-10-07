@@ -1,8 +1,5 @@
-Mission Three: Protect Medicare, Medicaid, Social Security, and Provide Affordable Health Care
-Objective:
-Protect the health care and retirement security Long Islanders have earned, lower prescription drug costs, and make health care more affordable, reliable, and accessible for every family.
-Why This Mission Matters:
-Programs like Medicare, Medicaid, and Social Security are the backbone of health and retirement security for millions of Americans who paid into them over a lifetime of work.
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate Mission Three: Protect Medicare, Medicaid, Social Security, and Provide Affordable Health Care Mission Three: Protect Medicare, Medicaid, Social Security, and Provide Affordable Health Care Objective: Protect the health care and retirement security Long Islanders have earned, lower prescription drug costs, and make health care more affordable, reliable, and accessible for every family.
+Why This Mission Matters: Programs like Medicare, Medicaid, and Social Security are the backbone of health and retirement security for millions of Americans who paid into them over a lifetime of work.
 This issue is personal to Chris.
 His parents rely on Medicare, and he has seen firsthand how much that stability matters for families who did everything right and simply want to age with dignity.
 Chris also knows how broken the system can feel even when you are insured.
@@ -13,28 +10,21 @@ Seniors should not have to worry about affording care after a lifetime of work.
 People with disabilities and chronic conditions deserve stability, not uncertainty.
 Working families deserve health care that provides peace of mind, not fear.
 In Congress, Chris Gallant will fight to protect and strengthen affordable, reliable health care for every Long Island family.
-Congressional Action Plan:
-- Oppose any cuts or privatization of Medicare, Medicaid, or Social Security.
-- Protect Social Security and Medicare for current and future generations.
-- Weed out fraud, waste, and abuse without cutting earned benefits.
-- Lower prescription drug costs by allowing Medicare to negotiate prices.
-- Cap out-of-pocket prescription drug expenses so seniors and families are not crushed by rising costs.
-- Expand Medicare to cover dental, hearing, and vision care.
-- Protect coverage for pre-existing conditions so no family loses care because they get sick.
-- Strengthen community health centers to expand access to care close to home.
-- Fix surprise billing and insurance loopholes that leave families paying thousands they never expected.
-- Support rural and community hospitals that serve Long Island families.
-- Expand access to mental health care and substance abuse treatment.
-- Make sure seniors, veterans, people with disabilities, and working families can access the care they need without being buried in paperwork,
-Mission Success Metrics:
-Protected Medicare, Medicaid, and Social Security
-Lower prescription drug costs
-Expanded dental, hearing, and vision coverage
-Stronger protections for pre-existing conditions
-Fewer surprise medical bills
-Better access to local community health care
-More affordable care for seniors, families, and people with disabilities
-Greater peace of mind for Long Island families
-Mission Bottom Line:
-Long Islanders worked hard and paid into these programs.
+Congressional Action Plan: Oppose any cuts or privatization of Medicare, Medicaid, or Social Security.
+Protect Social Security and Medicare for current and future generations.
+Weed out fraud, waste, and abuse without cutting earned benefits.
+Lower prescription drug costs by allowing Medicare to negotiate prices.
+Cap out-of-pocket prescription drug expenses so seniors and families are not crushed by rising costs.
+Expand Medicare to cover dental, hearing, and vision care.
+Protect coverage for pre-existing conditions so no family loses care because they get sick.
+Strengthen community health centers to expand access to care close to home.
+Fix surprise billing and insurance loopholes that leave families paying thousands they never expected.
+Support rural and community hospitals that serve Long Island families.
+Expand access to mental health care and substance abuse treatment.
+Make sure seniors, veterans, people with disabilities, and working families can access the care they need without being buried in paperwork, Mission Success Metrics: Protected Medicare, Medicaid, and Social Security Lower prescription drug costs Expanded dental, hearing, and vision coverage Stronger protections for pre-existing conditions Fewer surprise medical bills Better access to local community health care More affordable care for seniors, families, and people with disabilities Greater peace of mind for Long Island families Mission Bottom Line: Long Islanders worked hard and paid into these programs.
 Chris Gallant will fight to protect Medicare, Medicaid, and Social Security, lower the cost of prescription drugs, and make sure every family can access affordable health care with dignity and peace of mind.
+This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

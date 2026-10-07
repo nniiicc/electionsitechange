@@ -1,4 +1,5 @@
-The Issues:
-Nadine is tuned into Kaua'i and the State's most pressing issues.
-As House Representative, she sat on the Finance and Health Committees, served as Vice Chair on the Human Services & Homelessness Committee, and currently serves as Speaker of the House with her pulse on the entire State of Hawai'i.
-To read more about the specific issues facing our Kaua'i community, click on the topic links below:
+Home About Issues Affordable Housing Agriculture & Locally Grown Food Economy Education Protecting Natural Resources & Cultural Sites Renewable Energy Traffic Congestion Good Government Events Volunteer Contribute Endorsements The Issues: Nadine is tuned into Kaua'i and the State's most pressing issues.
+As House Representative, she sat on the Finance and Health Committees, served as Vice Chair on the Human Services & Homelessness Committee, and currently serves as Speaker of the House with her pulse on the entire State of Hawai'i. ​To read more about the specific issues facing our Kaua'i community, click on the topic links below: * Affordable Housing * Agriculture & Locally Grown Food * Economy * Education * Protecting Natural Resources & Cultural Sites * Renewable Energy * Traffic Congestion * Good Government Stay in touch! ﻿ ﻿ Join our mailing list: Sign Up!
+Quick Links : County of Kaua'i State House of Representatives ​ Rep.
+Nakamura's Website Friends of Nadine PO Box 1005, Lihue, HI 96766 808.635.1507 Webmaster: SYBEEDESIGNS.COM © # Nadine Nakamura.
+All Rights Reserved. ​ Home About Issues Affordable Housing Agriculture & Locally Grown Food Economy Education Protecting Natural Resources & Cultural Sites Renewable Energy Traffic Congestion Good Government Events Volunteer Contribute Endorsements

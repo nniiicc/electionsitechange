@@ -1,35 +1,27 @@
-The Law & Order Candidate
-Mike Tannousis is a native Staten Islander and the son of Greek immigrants from Cyprus that came to this country seeking the American dream.
+Skip to Content Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Vote Tannousis on Tues, Nov 3 FIND YOUR POLLING SITE ENTER YOUR ADDRESS SEARCH YOUR ADDRESS 251 Test Road Staten Island, NY 10312 ELECTION DAY VOTING LOCATION PS 56 The Louis Desario School 250 Kramer Avenue Staten Island, NY 10309 6 am - 9 pm GET DIRECTIONS Data provided by Google Civic Information.
+For the most up to date information, visit the NYC BOE Official Website first step second step The Law & Order Candidate Mike Tannousis is a native Staten Islander and the son of Greek immigrants from Cyprus that came to this country seeking the American dream.
 Mike attended local schools, including PS 23, IS 24, and Monsignor Farrell High School.
 While in law school, he worked as a legislative aide to then-Council Member James Oddo where he learned the gold standard of constituent service.
 In 2011, Mike passed the bar exam and accepted an offer to work as an Assistant District Attorney in the Bronx.
 In 2016, he became an ADA on Staten Island.
 As a Staten Island prosecutor, Mike successfully prosecuted serious felony cases involving violent crimes and drug sales.
 Mike is currently serving as Legal Counsel to Council Member Joe Borelli.
+Mike began his time as an Assistant District Attorney in the Bronx DA’s office in 2011 where he honed his craft prosecuting misdemeanors and later major offenses.
+In 2016, the Richmond County District Attorney hired him to work in his office.
 In his tenure in the Staten Island office, Mike Tannousis successfully prosecuted serious felony cases involving violent crimes and drug sales.
 Two of his highest profile cases included the conviction after trial of Ricky Dennis of a double-murder in Dongan Hills and the successful re-trial of Michael Sykes for the infamous Ramada Inn murders.
 It was the radical policies coming out of Albany that made Mike first think about running to succeed Nicole Malliotakis in the 64th Assembly District (East Shore/Bay Ridge).
 Making prosecutions harder to achieve, giving driver’s licenses to illegal aliens, and the general anti-business posture, make him realize he could take his mission of public service from the courtrooms in St.
 George to the Legislature in Albany.
-Mike Tannousis PARTY & UNION ENDORSEMENTS
-- Police Benevolent Association
-- Detectives Endowment Association
-- Sergeants Benevolent Association
-- Lieutenants Benevolent Association
-- Captains Endowment Association
-- Port Authority Police Benevolent Association
-- Supreme Court Officers Association
-- NYS Court Clerks Association
-- Protect Our Police PAC
-- National 10-13 Organizations
-- Retired Sergeants Association
-- Staten Island & Brooklyn Republican Parties
-- Staten Island & Brooklyn Conservative Parties
-- National Federation of Independent Business
-ENDORSED BY ALL OF OUR MOST TRUSTED LEADERS
-- Borough President James Oddo
-- State Senator Andrew Lanza
-- Minority Leader Steven Matteo
-- Councilman Joe Borelli
-- Assemblywoman Nicole Malliotakis
-- Assemblyman Mike Reilly
+Mike Tannousis PARTY & UNION ENDORSEMENTS Police Benevolent Association Detectives Endowment Association Sergeants Benevolent Association Lieutenants Benevolent Association Captains Endowment Association Port Authority Police Benevolent Association Supreme Court Officers Association NYS Court Clerks Association Protect Our Police PAC National 10-13 Organizations Retired Sergeants Association Staten Island & Brooklyn Republican Parties Staten Island & Brooklyn Conservative Parties National Federation of Independent Business ENDORSED BY ALL OF OUR MOST TRUSTED LEADERS Borough President James Oddo State Senator Andrew Lanza Minority Leader Steven Matteo Councilman Joe Borelli Assemblywoman Nicole Malliotakis Assemblyman Mike Reilly LATEST NEWS Endorsements BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly “Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.” Endorsements BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly “As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.” Featured Tannousis Wins Republican Primary for State Assembly We have great news!
+Mike Tannousis has won the Republican Primary for the 64th Assembly District.
+It was a hard-fought campaign and after the absentee ballots were counted we maintained a commanding lead!
+Endorsements Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly “Law enforcement is about integrity.
+There is no question that Mike Tannousis has the integrity to do the job and to support law enforcement.” – Ed Mullins, SBA President Endorsements Detectives’ Union Endorses Mike Tannousis for State Assembly As a former Assistant District Attorney for both the Bronx and Staten Island DA offices, Michael Tannousis has a proven record of standing up for law enforcement and the safety of our community.
+Endorsements Tannousis Endorsed by the Staten Island Republican Party The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis.
+Featured Mike Tannousis: 5 Reasons Why I’m Running Former prosecutor and candidate for State Assembly Mike Tannousis outlines why he’s running to represent Staten Island & Brooklyn.
+Learn more.
+Endorsements Tannousis Endorsed by the Staten Island & Brooklyn Conservative Party The executive committees have jointly nominated and endorsed Tannousis in the 2020 election for the Assembly’s 64th District.
+Policy Former Prosecutor Mike Tannousis Blasts Radical Bail Reform Law For the past eight years as a prosecutor, I have seen defendants coming into the criminal justice system every single day.
+It has become a revolving door.
+VISIT NEWSROOM Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

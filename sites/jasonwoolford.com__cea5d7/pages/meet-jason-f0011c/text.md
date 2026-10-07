@@ -1,5 +1,4 @@
-MEET JASON
-Jason Woolford was born and raised in Howell, Michigan.
+Skip to content Facebook X YouTube Search for: HOME MEET JASON AGENDA JOIN US DONATE ENDORSEMENTS PRESS & EVENTS MEET JASON jwoolford 2024-03-26T20:44:09+00:00 MEET JASON Jason Woolford was born and raised in Howell, Michigan.
 He graduated from Howell High School, then was honorably discharged after his service in the United States Marine Corps.
 He is married to his wife of 31 years, Maria, who also served in the United States Marine Corps as well as in the reserves in the Army National Guard.
 The Woolford’s have three wonderful children: Jenna, Jason II and Juliana who currently serves in the Marine Corps reserves.
@@ -11,3 +10,6 @@ In 2010, Woolford was appointed president of Mission Cry / Christian Resources I
 He believes the unique life he has lived helped shape his family’s lives with discipline, attention to detail and a love for others, noting his entire family has been willing to serve in multiple capacities.
 Woolford’s experience in global travel opportunities, holding leadership seminars, Marine Corps, corporate America, for-profit business and nonprofit organizations has provided him with the ability and experience to legislate, negotiate and fight on behalf of all Michiganders.
 He understands the meaning of the Marine Corps motto Semper Fidelis “always faithful,” and will use this same successful strategy in the state legislature.
+Paid for by Jason Woolford for State Representative, P.O.
+Box 2281, Howell, MI 48844 Republican © # | All Rights Reserved.
+Facebook X YouTube Page load link Go to Top

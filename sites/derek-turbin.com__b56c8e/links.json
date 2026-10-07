@@ -1,9 +1,38 @@
 [
-"https://derek-turbin.com/",
-"https://derek-turbin.com/endorsements",
-"https://derek-turbin.com/issues",
-"https://derek-turbin.com/meet-derek",
-"https://derek-turbin.com/privacy-policy",
-"https://derek-turbin.com/volunteer",
-"https://secure.actblue.com/donate/em-dt-2026"
+{
+"text": "Contact",
+"href": "https://www.derek-turbin.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/em-dt-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.derek-turbin.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.derek-turbin.com"
+},
+{
+"text": "Media",
+"href": "https://www.derek-turbin.com"
+},
+{
+"text": "Meet Derek",
+"href": "https://www.derek-turbin.com/meet-derek"
+},
+{
+"text": "Priorities",
+"href": "https://www.derek-turbin.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.derek-turbin.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.derek-turbin.com/volunteer"
+}
 ]

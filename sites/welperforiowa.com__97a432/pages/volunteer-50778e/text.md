@@ -1,9 +1,3 @@
-Jacob Welper
-For Iowa House District 59
-Platform/About Me
-Volunteer
-Contact
-More
-Join Jacob, Sign Up Now
-Tell us how you’d like to get involved, a member of our team will get in touch soon
-FOLLOW JACOB ON SOCIAL MEDIA
+top of page Jacob Welper For Iowa House District 59 Platform/About Me Volunteer Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE GET INVOLVED Join Jacob, Sign Up Now WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Multi choice Knock on Doors Make Calls Write Letters Host Fundraiser First name * Last name * Email * Phone Zip code Message Submit FOLLOW JACOB ON SOCIAL MEDIA Donation Information For online donations, please click the "Donate" button in the top right corner or the link below: ​ https://secure.actblue.com/donate/welperforiowa For Check or Cash donations, please mail them to the address below: (make checks out to "Welper for Iowa") ​ Welper for Iowa PO Box 145 Mason City, IA 50401 ​ SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home Platform/About Me Volunteer Contact Jacob Welper For Iowa House District 59 Paid for by Welper For Iowa © # by Jacob Welper.
+Powered and secured by Wix Not Endorsed by the Department of Defense or the Iowa National Guard To Contact by Email: info@welperforiowa.com ​ Please Direct Mail to: Welper for Iowa PO Box 145 Mason City, IA 50401 bottom of page

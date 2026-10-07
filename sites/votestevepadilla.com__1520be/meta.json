@@ -1,7 +1,11 @@
 {
  "description": "State Senator Steve Padilla's campaign",
  "final_url": "https://www.votestevepadilla.com/",
- "paid_for_by": null,
+ "fingerprint": "185cbfead8e8a2031f06324217a1bb6e514c655c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "State Senator Steve Padilla",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,5 +1,4 @@
-Meet Senator Jim Burgin
-James Andrew “Jim” Burgin has proudly represented North Carolina's 12th Senate District, currently including Harnett, Lee, and part of Sampson counties, since January 2019.
+0 Skip to Content Home Meet Jim Get Involved Contact SUPPORT Open Menu Close Menu Home Meet Jim Get Involved Contact SUPPORT Open Menu Close Menu Home Meet Jim Get Involved Contact SUPPORT Meet Senator Jim Burgin James Andrew “Jim” Burgin has proudly represented North Carolina's 12th Senate District, currently including Harnett, Lee, and part of Sampson counties, since January 2019.
 Born in Knoxville, Tennessee, he earned his bachelor’s degree in Business Administration from the University of Tennessee at Knoxville.
 In Angier, North Carolina, Jim has had a blessed life alongside his wife, Ann, with three children and four grandchildren.
 Senator Jim Burgin is the President and Owner of C&D Insurance.
@@ -13,4 +12,4 @@ Elected in 2018 and re-elected overwhelmingly in 2020, 2022, and 2024, Burgin is
 He serves as Chairman of the Senate Healthcare Committee, the Appropriations Committee on Health and Human Services, and the Joint Legislative Oversight Committee on Health and Human Services.
 In addition, he is Vice Chair of the Council of State Governments Health Committee and a member of the National Conference of State Legislatures.
 Senator Burgin also serves on several other key committees and commissions, including the Committees on Agriculture, Energy, and Environment; Finance; Pensions and Retirement and Aging; State and Local Government; Joint Legislative Commission on Governmental Operations; the North Carolina Child Fatality Task Force; the Joint Legislative Committee on Local Government; and the Joint Legislative Commission on Energy Policy.
-Official Senate Portrait of Senator Jim Burgin 2025 Legislative Session
+Official Senate Portrait of Senator Jim Burgin 2025 Legislative Session About Get Involved Contact

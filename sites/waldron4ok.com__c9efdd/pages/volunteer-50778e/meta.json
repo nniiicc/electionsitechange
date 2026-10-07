@@ -1,7 +1,9 @@
 {
  "description": "Volunteer for John Waldron&#39;s campaign",
  "final_url": "https://www.waldron4ok.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "247b0baa582b9f701c763e85ca535d80cc8dede6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
  "years_mentioned": [
   "2020"

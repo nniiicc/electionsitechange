@@ -1,8 +1,4 @@
-Missoula Families Are Paying the Price for One-Party Rule
-Articles
-For Immediate Release: August 13, 2026
-by Lyn Hellegaard
-Raising a child in Missoula now costs families $32,400 a year.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate Missoula Families Are Paying the Price for One-Party Rule Articles For Immediate Release: August 13, 2026 by Lyn Hellegaard Raising a child in Missoula now costs families $32,400 a year.
 I didn't need a study to tell me that.
 I hear it from parents at the grocery store, at church, and at the door when I'm out talking to voters.
 But now there's a number behind what everyone already feels.
@@ -22,11 +18,11 @@ Missoula fits the same profile as the other 24.
 That's not a coincidence.
 It's a pattern, and Missoula families are living inside it at position 13, ahead of cities like New York, Los Angeles, Chicago, and Washington, D.C.
 So where does the $32,400 actually go?
-- Childcare is the single biggest driver, adding $13,737 a year for a Missoula family with one child.
-- Housing adds another $3,087.
-- Transportation costs $2,683 more.
-- Medical expenses climb by $2,650.
-- Food costs an extra $1,976.
+Childcare is the single biggest driver, adding $13,737 a year for a Missoula family with one child.
+Housing adds another $3,087.
+Transportation costs $2,683 more.
+Medical expenses climb by $2,650.
+Food costs an extra $1,976.
 Those five categories alone account for roughly $24,100 of the increase.
 The rest, about $8,300, comes from two places people often overlook.
 Roughly $5,100 of it is higher taxes families owe on the additional income they need just to keep up.
@@ -48,7 +44,7 @@ SB 542.
 SB 143.
 HJ 17.
 Every one of those votes made it a little harder for a Missoula family to hold onto what they earn.
-I've signed the Taxpayer Protection Pledge.
+I've signed the Taxpayer Protection Pledge .
 Mark Thane won't.
 That's not a talking point.
 It's a direct answer to the question every family raising a kid in this city should be asking right now: Will the person representing me in Helena make this easier, or harder?
@@ -65,3 +61,5 @@ I'm running because I believe Missoula families deserve a legislator who makes t
 Mark Thane's record speaks for itself.
 So does mine.
 Lyn Hellegaard is the Republican candidate for Montana House District 89.
+Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

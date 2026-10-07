@@ -1,7 +1,4 @@
-In the News
-September 9, 2026
-Wichita is home to Bombardier’s U.S. headquarters.
-Trump wants to block plane sales
-April 8, 2026
-Kansas deserves the truth about Ron Estes and the ‘Big Beautiful’ tax bill | Opinion
-March 30, 2026
+Skip to content Issues News Events Store Vote Donate Issues News Events Store Vote Donate In the News September 9, 2026 Tyndell Brings Message of Community Read More September 9, 2026 Wichita is home to Bombardier’s U.S. headquarters.
+Trump wants to block plane sales Read More August 10, 2026 Katy Tyndell Wins Democratic Primary, Sets Up Challenge to Rep.
+Ron Estes Read More August 4, 2026 Democrat Tyndell advances to U.S.
+House Fourth District race in November Read More July 17, 2026 Kansas 4th District Democratic primary narrows to two candidates Read More June 1, 2026 Letter to the Editor: Voting Rights and the Fierce Urgency of Now Read More April 8, 2026 Kansas deserves the truth about Ron Estes and the ‘Big Beautiful’ tax bill | Opinion Read More March 30, 2026 ‘People are hurting’: Kansas Democrat takes aim at Republican incumbent’s congressional seat Read More Donate PO Box 781004 Wichita, KS 67207 PAID FOR BY TYNDELL FOR CONGRESS Privacy Policy Privacy Policy Site by Kinetic Strategies Get in touch Facebook Instagram Youtube Tiktok info@katyforkansas.com Tyndell Campaign Headquarters 7803 E Osie St, Suite 110 Wichita, KS 67207 Mon–Fri: 10 AM – 2 PM (Mon & Thu also 5 – 7 PM) Sat–Sun: 10 AM – 4 PM Issues News Events Store Vote Donate Issues News Events Store Vote Donate

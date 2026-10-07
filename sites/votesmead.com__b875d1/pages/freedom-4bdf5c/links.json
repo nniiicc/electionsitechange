@@ -1,19 +1,82 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://instagram.com/smead_for_missouri",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/events",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "All Freedom priorities →",
+"href": "https://votesmead.com/the-plan/#freedom"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+}
 ]

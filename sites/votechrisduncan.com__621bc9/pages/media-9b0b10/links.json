@@ -1,14 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/12-jDt1Y9XN1F1zDK2vmmNWWZTPI-XZQl",
-"https://drive.google.com/drive/folders/1BOrs1d8O5hYgRJachAm11H_4bsWCOvI9",
-"https://facebook.com/ChrisDuncanCA",
-"https://instagram.com/chrisduncanca",
-"https://secure.actblue.com/donate/duncanwebsite",
-"https://twitter.com/chrisduncanca",
-"https://votechrisduncan.com/",
-"https://votechrisduncan.com/about",
-"https://votechrisduncan.com/contact",
-"https://votechrisduncan.com/endorsements",
-"https://votechrisduncan.com/news"
+{
+"text": "About",
+"href": "https://www.votechrisduncan.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votechrisduncan.com/contact"
+},
+{
+"text": "District 36",
+"href": "https://www.votechrisduncan.com/news"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/duncanwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votechrisduncan.com/endorsements"
+},
+{
+"text": "More Photos/Video/Mail",
+"href": "https://drive.google.com/drive/folders/12-jDt1Y9XN1F1zDK2vmmNWWZTPI-XZQl"
+},
+{
+"text": "Photos/Video/Mail",
+"href": "https://drive.google.com/drive/folders/1BOrs1d8O5hYgRJachAm11H_4bsWCOvI9"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Chris Duncan for State Senate]",
+"href": "https://www.votechrisduncan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/chrisduncanca"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChrisDuncanCA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisduncanca"
+}
 ]

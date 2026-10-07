@@ -1,11 +1,42 @@
 [
-"https://atkinsonforarkansas.com/",
-"https://atkinsonforarkansas.com/district-19",
-"https://atkinsonforarkansas.com/join-us",
-"https://atkinsonforarkansas.com/meet-jamie",
-"https://atkinsonforarkansas.com/platform-values",
-"https://facebook.com/profile.php?id=61581445914877",
-"https://forms.gle/bdSidmt2jvim5QGK8",
-"https://goodchange.app/donate/suppo-2j",
-"https://instagram.com/jamieatkinsonforar"
+{
+"text": "DONATE",
+"href": "https://goodchange.app/donate/suppo-2j"
+},
+{
+"text": "District 19",
+"href": "https://www.atkinsonforarkansas.com/district-19"
+},
+{
+"text": "Home",
+"href": "https://www.atkinsonforarkansas.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.atkinsonforarkansas.com/join-us"
+},
+{
+"text": "Meet Jamie",
+"href": "https://www.atkinsonforarkansas.com/meet-jamie"
+},
+{
+"text": "Platform & Values",
+"href": "https://www.atkinsonforarkansas.com/platform-values"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/bdSidmt2jvim5QGK8"
+},
+{
+"text": "[image: Atkinson for Arkansas (59).png]",
+"href": "https://www.atkinsonforarkansas.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61581445914877"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/jamieatkinsonforar/"
+}
 ]

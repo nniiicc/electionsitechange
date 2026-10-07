@@ -1,12 +1,7 @@
-top of page
-Working Families
-First
-Strong Public Schools
-I believe in fully funding public shcools and trusting in our teachers.
-Representation, NOT Control
-Our community deserves to have our voices heard and our votes actually respected.
-Affordable Living
-Everyone deserves the ability to live, work, and afford the place they call home.
-Voices of
-Support
-bottom of page
+top of page Home About Issues Events Contact DONATE DONATE TODAY Elect Bekki Brewer Missouri State Representative District 44 Let's make a difference in our community Together Meet Bekki Brewer Bekki Brewer lives in Hallsville with her wife and youngest son, who is a junior there.
+She has three grown children, two living in Columbia and one stationed in North Carolina, as well as grandchildren who attend Columbia Public Schools.
+Read More Working Families First Strong Public Schools I believe in fully funding public shcools and trusting in our teachers.
+Representation, NOT Control Our community deserves to have our voices heard and our votes actually respected.
+Affordable Living Everyone deserves the ability to live, work, and afford the place they call home.
+Voices of Support Bekki Brewer is proud to be endorsed by the following: "We are grateful for your leadership and advocacy in fighting for the rights of all Missourians to make their own reproductive healthcare decisions without fear or retribution" ACCESS MO - ACCESS FOR ALL MISSOURIANS "Whether it be standing up for working families in an affordability crisis, protecting the right to safe job sites, or ensuring access to public education, we believe that we have a partner in you and can work together on these core values for years to come.
+Missouri AFL-cio Previous Next Next Previous From the Campaign Trail See Bekki in the Community Join the Movement DONATE Facebook Instagram Home About Issues Events Contact Privacy Policy Accessibility Statement bekkibrewerforthe44th@gmail.com 6121 Ruth Ann, Hallsville, Mo 65255 (573) 289-1616 Paid for by Friends of Bekki Brewer Jan Russell, Treasurer bottom of page

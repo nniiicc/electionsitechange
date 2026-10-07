@@ -1,5 +1,4 @@
-Closing the Gap: Aligning Georgia’s Schools with Workforce Needs
-With programs such as the Zell Miller and HOPE scholarships making college education more accessible to Georgia students, university enrollment is often presented as the primary path to success.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Closing the Gap: Aligning Georgia’s Schools with Workforce Needs Posted March 27, 2026 By Faith Tucker Capitol Corner Tagged Labor & Economic Development With programs such as the Zell Miller and HOPE scholarships making college education more accessible to Georgia students, university enrollment is often presented as the primary path to success.
 This approach can leave students who would thrive in trades without a clear direction.
 Georgia’s high schools are not providing adequate career counseling and exposure to non-college pathways.
 Georgia should divert more resources to school-based career counseling and require structured career pathway exposure through partnerships with technical colleges and workforce programs.
@@ -37,10 +36,11 @@ The earlier a student develops career aspirations, the better.
 Third, Georgia should strengthen their partnerships with technical colleges.
 The General Assembly collaborating directly with the Technical College System of Georgia (TCSG) would encourage legislation more catered to market-specific needs.
 Lastly, policymakers must create accountability measures that require schools to report career outcomes beyond merely college enrollment.
-Maryland implemented a similar program known as Blueprint for Maryland’s Future.
+Maryland implemented a similar program known as Blueprint for Maryland’s Future .
 Through this program, students have individualized career counseling and exposure to multiple pathways early.
 Upon its implementation, approximately 4,100 students completed apprenticeships or earned industry credentials the following year.
 Overall, opportunity should not be contingent on a student’s access to information.
 Georgia must ensure that every student has a clear path forward and does not have to figure it out independently.
 Faith is a second-year at the University of Georgia studying political science and English.
-She is a member of our Labor and Economic Development group.
+She is a member of our Labor and Economic Development group. ©# Spencer Frye State House 122.
+All Rights Reserved.

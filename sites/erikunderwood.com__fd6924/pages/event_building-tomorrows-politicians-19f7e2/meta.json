@@ -1,7 +1,12 @@
 {
  "description": "Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernaturaut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo.",
  "final_url": "https://erikunderwood.com/event/building-tomorrows-politicians/",
- "paid_for_by": "Paid for by Underwood for Colorado \u00a9 2026",
- "title": "Building tomorrow\u2019s politicians - Erik Underwood",
- "years_mentioned": []
+ "fingerprint": "87b794577bfab42491db2bc3cd3e3cd04e3d88f7",
+ "format": 3,
+ "paid_for_by": "Paid for by Underwood for Colorado © #",
+ "title": "Building tomorrow’s politicians - Erik Underwood",
+ "years_mentioned": [
+  "2024",
+  "2027"
+ ]
 }

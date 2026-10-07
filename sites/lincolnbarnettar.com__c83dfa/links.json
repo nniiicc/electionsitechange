@@ -1,6 +1,34 @@
 [
-"https://facebook.com/Lincoln4Arkansas",
-"https://lincolnbarnettar.com/",
-"https://secure.actblue.com/donate/lincoln4arkansas",
-"https://twitter.com/MayorBarnettAR"
+{
+"text": "About Mayor Barnett",
+"href": "https://www.lincolnbarnettar.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lincoln4arkansas"
+},
+{
+"text": "Donate Here!",
+"href": "https://secure.actblue.com/donate/lincoln4arkansas"
+},
+{
+"text": "Home",
+"href": "https://www.lincolnbarnettar.com"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.lincolnbarnettar.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Lincoln4Arkansas"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/MayorBarnettAR"
+},
+{
+"text": "info@LincolnBarnett.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,4 +1,3 @@
-Meet Keenon and hear about his platform and plans for representing District 23.
-(NOTE: Private event hosted at a private residence.)
-Meet Keenon and hear about his platform and plans for representing District 23.
-(NOTE: Private event hosted at a private residence)
+Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Home Meet Keenon Priorities #KeenTeam Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Home Meet Keenon Priorities #KeenTeam More Home Meet Keenon Priorities #KeenTeam Home Meet Keenon Priorities #KeenTeam Upcoming Events April 8th at Balmoral in Upper Marlboro, MD Meet Keenon and hear about his platform and plans for representing District 23.
+(NOTE: Private event hosted at a private residence.) Coming Soon April 29th at Oak Creek in Upper Marlboro, MD Meet Keenon and hear about his platform and plans for representing District 23.
+(NOTE: Private event hosted at a private residence) Coming Soon Authorized by Friends of Keenon James - London Wills, PhD, MBA - Treasurer Events Powered by

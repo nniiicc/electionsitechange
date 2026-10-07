@@ -1,13 +1,54 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61589281034642",
-"https://instagram.com/candidate",
-"https://jennc4house1b.com/",
-"https://jennc4house1b.com/about",
-"https://jennc4house1b.com/contact",
-"https://jennc4house1b.com/donate",
-"https://jennc4house1b.com/endorsements",
-"https://jennc4house1b.com/issues",
-"https://jennc4house1b.com/news",
-"https://jennc4house1b.com/volunteer"
+{
+"text": "About",
+"href": "https://www.jennc4house1b.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jennc4house1b.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jennc4house1b.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jennc4house1b.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.jennc4house1b.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jennc4house1b.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.jennc4house1b.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jennc4house1b.com/volunteer"
+},
+{
+"text": "[image: jennc4house1b.com logo]",
+"href": "https://www.jennc4house1b.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.jennc4house1b.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61589281034642"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/candidate"
+}
 ]

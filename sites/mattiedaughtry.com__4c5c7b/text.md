@@ -1,4 +1,8 @@
-Join Our Campaign
-Mattie is running for the Maine State Senate in District 23 (Brunswick, Freeport, Harpswell, Pownal, Chebeague Island, and part of Yarmouth).
-I’m excited to running for re-election in the new Senate District 23.
+0 Skip to Content Mattie Daughtry Donate Home Announcement Endorsements Volunteer Contact DONATE Open Menu Close Menu Mattie Daughtry Donate Home Announcement Endorsements Volunteer Contact DONATE Open Menu Close Menu Donate Home Announcement Endorsements Volunteer Contact DONATE Join Our Campaign Mattie is running for the Maine State Senate in District 23 (Brunswick, Freeport, Harpswell, Pownal, Chebeague Island, and part of Yarmouth).
+Request a Ballot I’m excited to running for re-election in the new Senate District 23.
 Whether it’s meaningful tax reform, education funding, supporting our seniors, or economic development, I’ve worked to find solutions that benefit our community.
+Announcement Watch The Video Endorsements MAINE CONSERVATION VOTERS “Mattie Daughtry has consistently voted to protect Maine’s land, water, and health, and promote clean energy,” said MCV Action Fund Director of Government Affairs Beth Ahearn.
+“MCV Action Fund is proud to support her campaign for the Maine State Senate because we know she’ll be a leader for the communities of Brunswick, Freeport, Harpswell, North Yarmouth, and Pownal in Augusta.” Brownie Carson Senator “Mattie works hard, and she listens well.
+She grew up here; she cares deeply about her neighbors.
+She brings a thoughtful approach and positive energy to every task.
+Mattie has solid experience and a demonstrated record of success in two areas that are crucial for Maine’s recovery from the impacts of the pandemic: education policy and small business.” See All Endorsements Mattie Daughtry For Maine District 23 State Senate (207) 370-9871 mattieforsenate@gmail.com Home Announcements Endorsements Volunteer Contact Paid for and authorized by the Candidate.

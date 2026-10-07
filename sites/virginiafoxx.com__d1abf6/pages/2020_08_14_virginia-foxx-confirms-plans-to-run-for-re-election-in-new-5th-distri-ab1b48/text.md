@@ -1,12 +1,10 @@
-U.S.
+RUSH $10 TO VIRGINIA FOXX FOR CONGRESS >> Issues Voter Info News Donate News Back to News Page Virginia Foxx Confirms Plans to Run for Re-Election in New 5th District U.S.
 Representative Virginia Foxx (R-NC) confirmed today that she plans to run for re-election to the United States House of Representatives in North Carolina’s recently re-drawn 5th Congressional District in 2020.
-Foxx made the following statement:
-“It is heartening to see that the voters of North Carolina will not experience further disruption as they prepare to vote on their representation in Congress next year, now that the judicial injunction halting preparations for the 2020 election has been lifted,” Foxx said.
-“As the voters begin their considerations in the now-settled districts, I am confirming my plans to file for re-election in 2020 in the 5th District.”
-“My constituents all across western North Carolina have told me for years that they want a conservative fighter with a backbone who is ready to fight for the solutions our communities need.
+Foxx made the following statement: “It is heartening to see that the voters of North Carolina will not experience further disruption as they prepare to vote on their representation in Congress next year, now that the judicial injunction halting preparations for the 2020 election has been lifted,” Foxx said.
+“As the voters begin their considerations in the now-settled districts, I am confirming my plans to file for re-election in 2020 in the 5th District.” “My constituents all across western North Carolina have told me for years that they want a conservative fighter with a backbone who is ready to fight for the solutions our communities need.
 And my track-record is clear: I have worked hard to represent and fight for our communities, and I plan to continue to do so if I am re-elected in 2020.
 While I will miss the communities that no longer remain in the 5th District, I look forward to working tirelessly in Washington on behalf of the new communities that have been added to the district.
 “The greatest honor of my life is representing the amazing people of the 5th District in Congress.
 It is a blessing to serve these wonderful communities and a privilege to fight every day for the North Carolina values we hold dear.
 The fact that I have the honor of serving in Congress is testimony to the power of the American dream: that a woman like me, who grew up in the mountains of North Carolina in a home without running water and electricity, would go on to serve in Congress.
-It never ceases to amaze and humble me and is one reason why I am excited to be running for re-election in 2020.”
+It never ceases to amaze and humble me and is one reason why I am excited to be running for re-election in 2020.” Previous Next Donate web@virginiafoxx.com | PO Box 2676 Boone, NC 28607 Privacy Policy Paid for by Virginia Foxx for Congress

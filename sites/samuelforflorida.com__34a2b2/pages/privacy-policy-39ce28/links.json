@@ -1,16 +1,66 @@
 [
-"https://actblue.com/legal-privacy",
-"https://facebook.com/samuelforfl",
-"https://instagram.com/samuelforfl",
-"https://samuelforflorida.com/",
-"https://samuelforflorida.com/about",
-"https://samuelforflorida.com/cart",
-"https://samuelforflorida.com/contact",
-"https://samuelforflorida.com/endorsements",
-"https://samuelforflorida.com/in-the-news",
-"https://samuelforflorida.com/privacy-policy",
-"https://samuelforflorida.com/samuelspriorities",
-"https://secure.actblue.com/donate/samuelforflweb",
-"https://statecraftmedia.com/",
-"https://x.com/samuelforfl"
+{
+"text": "0",
+"href": "https://www.samuelforflorida.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.samuelforflorida.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/samuelforflweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.samuelforflorida.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.samuelforflorida.com/contact"
+},
+{
+"text": "In The News",
+"href": "https://www.samuelforflorida.com/in-the-news"
+},
+{
+"text": "Meet Samuel",
+"href": "https://www.samuelforflorida.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.samuelforflorida.com/privacy-policy"
+},
+{
+"text": "Samuel's Priorities",
+"href": "https://www.samuelforflorida.com/samuelspriorities"
+},
+{
+"text": "Site Design by Statecraft Media",
+"href": "https://www.statecraftmedia.com"
+},
+{
+"text": "[image: Samuel Vilchez Santiago]",
+"href": "https://www.samuelforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/samuelforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/samuelforfl/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/samuelforfl"
+},
+{
+"text": "https://secure.actblue.com/donate/samuelforflweb",
+"href": "https://secure.actblue.com/donate/samuelforflweb"
+},
+{
+"text": "https://www.actblue.com/legal-privacy/",
+"href": "https://www.actblue.com/legal-privacy/"
+}
 ]

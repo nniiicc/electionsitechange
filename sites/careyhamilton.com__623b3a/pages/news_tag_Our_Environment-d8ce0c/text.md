@@ -1,42 +1,4 @@
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Our Environment Carey Hamilton 2/26/26 Our Environment Carey Hamilton 2/26/26 Hamilton speaks out against environmental deregulation bill that will endanger human health Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton commends IDEM for moving forward with climate action plan, calls for the legislature to contribute Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Rep.
+Hamilton to host sneak peek of new nature park Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Our climate change summer is here: Hamilton laments wildfire-fueled toxic air, calls for ‘proactive and strategic’ climate action Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton addresses young environmental activists Read More Our Environment , Economy For All Carey Hamilton 9/15/22 Our Environment , Economy For All Carey Hamilton 9/15/22 Hamilton receives national recognition with 2022 Rail-Trail Champion Award Read More Carey Hamilton 4/30/21 Carey Hamilton 4/30/21 Hamilton receives award for work expanding Hoosier trails (2021) Read More Carey Hamilton 2/13/21 Carey Hamilton 2/13/21 Rep.
+Carey Hamilton receives Conservation Champion Award (2021) Read More Carey Hamilton 1/8/21 Carey Hamilton 1/8/21 Hamilton focuses on improving quality of life for all Hoosiers during 2021 Legislative Session (2021) Read More Carey Hamilton 7/19/20 Carey Hamilton 7/19/20 Hamilton to co-chair bicameral, bipartisan Trails Caucus (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton authors HB 1134 (2020): flame retardant ban.
+Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton sponsors HB 1228 (2020): Net Metering Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton hosts first annual Youth Climate Action Day (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton opposes HB 1414 (2020): Coal Industry Bailout Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton proposes climate resolution (2020) Read More Carey Hamilton 8/1/19 Carey Hamilton 8/1/19 Hamilton supports preserving old forests (2019) Read More 8/1/19 8/1/19 Hamilton supports HB1406 (2019): Water infrastructure assistance fund and program Read More Carey Hamilton 8/1/18 Carey Hamilton 8/1/18 Hamilton supports HB1267 (2018): Water infrastructure task force Read More Carey Hamilton 8/1/17 Carey Hamilton 8/1/17 Hamilton opposes HB1494 (2017): Regulation of confined feeding operations Read More Carey Hamilton 8/1/17 Carey Hamilton 8/1/17 Hamilton supports clean energy - opposes SB309 (2017) Read More Paid for and authorized by the Committee to Elect Carey Hamilton

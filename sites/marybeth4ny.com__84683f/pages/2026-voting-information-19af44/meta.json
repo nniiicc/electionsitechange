@@ -1,10 +1,11 @@
 {
  "description": "Find essential 2024 voting information, including absentee voting, early voting, and poll site details for your convenience.",
  "final_url": "https://marybeth4ny.com/2026-voting-information",
- "paid_for_by": null,
+ "fingerprint": "f481aa8fe16cd96fbd538824d9d50b65e63fd21f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2026 VOTING INFORMATION",
  "years_mentioned": [
-  "2020",
   "2026"
  ]
 }

@@ -1,12 +1,42 @@
 [
-"https://facebook.com/FranklinWisconsin",
-"https://franklinforwisconsin.com/",
-"https://franklinforwisconsin.com/about-ben.html",
-"https://franklinforwisconsin.com/cdn-cgi/l/email-protection",
-"https://franklinforwisconsin.com/contact.html",
-"https://franklinforwisconsin.com/district.html",
-"https://franklinforwisconsin.com/issues.html",
-"https://instagram.com/franklinforwisconsin",
-"https://secure.winred.com/franklin-for-wisconsin",
-"https://twitter.com/Franklin4WI"
+{
+"text": "About Ben",
+"href": "https://www.franklinforwisconsin.com/about-ben.html"
+},
+{
+"text": "Contact",
+"href": "https://www.franklinforwisconsin.com/contact.html"
+},
+{
+"text": "District",
+"href": "https://www.franklinforwisconsin.com/district.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/franklin-for-wisconsin"
+},
+{
+"text": "Home",
+"href": "https://www.franklinforwisconsin.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.franklinforwisconsin.com/issues.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Franklin4WI"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FranklinWisconsin/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/franklinforwisconsin/"
+},
+{
+"text": "[no text]",
+"href": "mailto:ben@franklinforwisconsin.com"
+}
 ]

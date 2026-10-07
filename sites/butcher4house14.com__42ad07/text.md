@@ -1,2 +1,1 @@
-Crystal Butcher for District 14
-The digital home for Crystal Butcher's campaign for the West Virginia House of Delegates, focused on community-driven solutions, transparent governance, and a resilient vision for District 14.
+Crystal Butcher for District 14 The digital home for Crystal Butcher's campaign for the West Virginia House of Delegates, focused on community-driven solutions, transparent governance, and a resilient vision for District 14.

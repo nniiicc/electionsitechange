@@ -1,11 +1,14 @@
 {
  "description": "Danielle Bell is a community-centered leader running for the Georgia House of Representatives in District 44, focused on principled leadership.",
  "final_url": "https://danielleforgeorgia.com/about",
- "paid_for_by": null,
+ "fingerprint": "af91926726841fba8e8d08231a20caa9037dd638",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Danielle Bell Campaign for Georgia House District 44",
  "years_mentioned": [
+  "2007",
+  "2009",
   "2011",
-  "2015",
-  "2024"
+  "2015"
  ]
 }

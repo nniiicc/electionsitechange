@@ -1,13 +1,8 @@
-Back to All Events
-Join team Ryder for New York for a canvass in Greenwich Village followed by a Knicks watch party at Bleecker Street Bar!
+0 Skip to Content Home About Platform Endorsements Events Donate Open Menu Close Menu Donate Home About Platform Endorsements Events Open Menu Close Menu Home About Platform Endorsements Events Donate Back to All Events Knicks Watch Party & Greenwich Village Canvass with Ryder for New York!
+Friday, June 5, 2026 5:00 PM 7:30 PM Google Calendar ICS Join team Ryder for New York for a canvass in Greenwich Village followed by a Knicks watch party at Bleecker Street Bar!
 We'll be talking to voters across the neighborhood about the upcoming election and spreading the word about Ryder and our campaign.
 First time canvassing?
 No worries!
 We'll equip you with the tools and confidence to succeed, and first timers will be paired up with a seasoned canvasser!
-Previous
-Previous
-June 4
-Day of Action for Ryder for New York with Abundance New York!
-Next
-Next
-June 6
+RSVP Previous Previous June 4 Day of Action for Ryder for New York with Abundance New York!
+Next Next June 6 Abingdon Square Greenmarket Canvass hello@ryderfornewyork.com Paid for by Ryder for New York 2026

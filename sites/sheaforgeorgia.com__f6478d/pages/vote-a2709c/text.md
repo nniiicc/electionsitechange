@@ -1,4 +1,4 @@
-Step 1: Enter Your Address Below to See if You Live In-District
-Step 2: Take Action to Ensure Your Vote is Counted
-On election day, you must vote at your assigned polling location and bring photo identification.
+Cart 0 Meet Shea Platform Vote Contribute Cart 0 Meet Shea Platform Vote Contribute Scroll House District 52 Voting Resources and Information Step 1: Enter Your Address Below to See if You Live In-District Step 2: Take Action to Ensure Your Vote is Counted Check Registration Status Request an Absentee Ballot Early Voting Locations Drop Box Locations On election day, you must vote at your assigned polling location and bring photo identification.
 Many polling locations have changed recently, so always be sure to check your polling location at mvp.sos.ga.gov before you go!
+Voter Protection Hotline 888-730-5816 Vote-Banner Vote Page Get Updates Contact Us Paid for by Shea Roberts for Georgia Campaign Address: P.O Box 28571 Atlanta, GA 30358 Capitol Office Address: 608-B Coverdell Legislative Office Bldg.
+Atlanta, GA 30334 (404) 656-0298 shea@sheaforgeorgia.com | shea.roberts@house.ga.gov

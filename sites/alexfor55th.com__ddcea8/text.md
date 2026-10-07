@@ -1,10 +1,7 @@
-Let’s Work Together for the 55th
-Strengthen Community
-Manage Increasing Costs
-Uplift Education
-Strengthen Community Manage Increasing Costs Uplift Education
-Alex’s Story
-Alex Corrigan didn’t come from money or connections.
+0 Skip to Content Alex Corrigan for 55th Are You in 55th?
+Our Mission Endorsements Donate Open Menu Close Menu Alex Corrigan for 55th Are You in 55th?
+Our Mission Endorsements Donate Open Menu Close Menu Are You in 55th?
+Our Mission Endorsements Donate Donate on ActBlue Let’s Work Together for the 55th Strengthen Community Manage Increasing Costs Uplift Education Strengthen Community Manage Increasing Costs Uplift Education Strengthen Community Manage Increasing Costs Uplift Education Alex’s Story Alex Corrigan didn’t come from money or connections.
 She came from a family that worked hard and figured it out, and that’s exactly how she leads today.
 She chose to put down roots in the 55th District, raise her 4 kids here, and serve this community on the school board.
 What she’s seen up close is that the problems keeping her neighbors up at night aren’t local failures.
@@ -15,3 +12,5 @@ Teachers the community adore, leaving a profession they love because the funding
 Alex isn’t running because she has all the answers.
 She’s running because she knows how to find them, and because the 55th District deserves someone in Madison who understands both how the systems work and what it costs when they don’t.
 Make an impact, show your support today.
+#% of your donations go directly to action in supporting Alex’s campaign.
+Donate on ActBlue Alex Corrigan for 55th District General Assembly Created and managed by So Fetch Consulting Paid for by Alex for the 55th

@@ -1,13 +1,11 @@
-April 24, 2020
-Governor Tom Wolf has now created a new - and difficult to calculate - exit strategy target in the continuing saga of the COVID-19 lockdown.
+Home Donate Blog News About Connect Tom Wolf's Mysterious New Target April 24, 2020 Governor Tom Wolf has now created a new - and difficult to calculate - exit strategy target in the continuing saga of the COVID-19 lockdown.
 This is just the latest sign of mismanagement since he first declared his disaster emergency on March 6, 2020.
 We were told then that the big concern was "flattening the curve" so hospitals were not overwhelmed.
 Overall, hospitals were NOT overwhelmed.
 Rather, some hospital systems are now laying off hundreds of workers due to Wolf's lockdown.
 In fact, as of April 22 Pennsylvania was potentially on the cusp of achieving the federal objective (maybe) of 14 days past peak occurrence.
 But on that same day, Wolf announced a new metric his administration would be using to guide Pennsylvania out of his lockdown.
-Specifically, "a regional assessment will measure the COVID-19 cases per the population, and will need to be an average of less than 50 cases per 100,000 individuals over the course of 14 days to return to work." (Process to Reopen Pennsylvania – April 21, 2020 ; page 7)
-So what is this new 50 cases per 100,000 individuals metric, and where did it come from?
+Specifically, "a regional assessment will measure the COVID-19 cases per the population, and will need to be an average of less than 50 cases per 100,000 individuals over the course of 14 days to return to work." ( Process to Reopen Pennsylvania – April 21, 2020 ; page 7) So what is this new 50 cases per 100,000 individuals metric, and where did it come from?
 Is this a national standard of some sort?
 Who came up with it?
 Where's the chart or dashboard the public can watch so we know where we're at today, and on a day-by-day basis moving forward?
@@ -25,7 +23,8 @@ Looking at the map of those regions, it's really easy to see how some rural area
 Getting out of this COVID mess seems only slightly less ham-fisted than the way we got into it.
 The prospect of moving in and out of Red/Yellow/Green conditions only means that commerce, and the re-establishment of regular employment, will be hesitant at best.
 On top of that, employees will need to overcome the already-present fear factor to be willing to return to work, while employers will need to deal with workers who may have become accustomed to collecting more in overall unemployment benefits than they were earning on the job due to additional federal COVID benefits.
-Tom Wolf's new exit strategy target metrics, combined with his Department of Health's confusing handling of COVID data, his lack of transparency with the business waiver list, and the shock and panic he created getting us into this lockdown, have all put Pennsylvania in a very precarious position.
+Tom Wolf's new exit strategy target metrics, combined with his Department of Health's confusing handling of COVID data, his lack of transparency with the business waiver list , and the shock and panic he created getting us into this lockdown, have all put Pennsylvania in a very precarious position.
 My job, unfortunately, will be to continue to clean up his mess for the people I serve in the 102nd District while also attempting to smooth things along legislatively as we all work together to get back to normal.
 Here's hoping that's sooner rather than later.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

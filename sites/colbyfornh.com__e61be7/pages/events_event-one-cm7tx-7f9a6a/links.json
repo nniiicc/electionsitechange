@@ -1,25 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Online+Event+NH+Local+Government++101+&dates=20251130T230000Z%2F20251201T003000Z&location=Concord%2C+NH",
-"http://maps.google.com/?q=+Concord%2C+NH",
-"https://bsky.app/profile/colbyfornh.bsky.social",
-"https://colbyfornh.com/",
-"https://colbyfornh.com/cart",
-"https://colbyfornh.com/contact",
-"https://colbyfornh.com/events",
-"https://colbyfornh.com/events/event-demsmonthlymeeting",
-"https://colbyfornh.com/events/event-one-cm7tx?format=ical",
-"https://colbyfornh.com/events?tag=live",
-"https://colbyfornh.com/events?tag=livestream",
-"https://colbyfornh.com/events?tag=local+government",
-"https://colbyfornh.com/events?tag=municipal+government",
-"https://colbyfornh.com/events?tag=new+hampshire",
-"https://colbyfornh.com/events?tag=online",
-"https://colbyfornh.com/events?tag=tiktok",
-"https://colbyfornh.com/events?tag=zoom",
-"https://colbyfornh.com/legislative-updates",
-"https://colbyfornh.com/policy",
-"https://colbyfornh.com/support",
-"https://colbyfornh.com/takingaction",
-"https://facebook.com/ColbyForNH",
-"https://secure.actblue.com/donate/colby"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+concord%2C+nh+"
+},
+{
+"text": "0",
+"href": "https://colbyfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "ColbyForNH@gmail.com",
+"href": "mailto:ColbyForNH@gmail.com"
+},
+{
+"text": "Contact",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/colby"
+},
+{
+"text": "Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Online+Event+NH+Local+Government++101+&dates=20251130T230000Z%2F20251201T003000Z&location=Concord%2C+NH"
+},
+{
+"text": "ICS",
+"href": "https://colbyfornh.com/events/event-one-cm7tx?format=ical"
+},
+{
+"text": "Legislative Updates",
+"href": "https://colbyfornh.com/legislative-updates"
+},
+{
+"text": "Next Next December 11 Legislative Preview 2026",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting"
+},
+{
+"text": "Policy",
+"href": "https://colbyfornh.com/policy"
+},
+{
+"text": "Support the Campaign",
+"href": "https://colbyfornh.com/support"
+},
+{
+"text": "Taking Action",
+"href": "https://colbyfornh.com/takingaction"
+},
+{
+"text": "[image: Eleana Colby for State Representative]",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/colbyfornh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColbyForNH"
+},
+{
+"text": "live",
+"href": "https://colbyfornh.com/events?tag=live"
+},
+{
+"text": "livestream",
+"href": "https://colbyfornh.com/events?tag=livestream"
+},
+{
+"text": "local government",
+"href": "https://colbyfornh.com/events?tag=local+government"
+},
+{
+"text": "municipal government",
+"href": "https://colbyfornh.com/events?tag=municipal+government"
+},
+{
+"text": "new hampshire",
+"href": "https://colbyfornh.com/events?tag=new+hampshire"
+},
+{
+"text": "online",
+"href": "https://colbyfornh.com/events?tag=online"
+},
+{
+"text": "tiktok",
+"href": "https://colbyfornh.com/events?tag=tiktok"
+},
+{
+"text": "zoom",
+"href": "https://colbyfornh.com/events?tag=zoom"
+}
 ]

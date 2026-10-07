@@ -1,12 +1,50 @@
 [
-"https://biscardiforok.com/",
-"https://biscardiforok.com/_sites/www.biscardiforok.com/privacy-policy",
-"https://biscardiforok.com/about",
-"https://biscardiforok.com/contact",
-"https://biscardiforok.com/issues",
-"https://biscardiforok.com/ways-to-donate",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61588897354356",
-"https://instagram.com/biscardi4ok",
-"https://secure.actblue.com/donate/andrea-biscardi-1"
+{
+"text": "About",
+"href": "https://www.biscardiforok.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrea-biscardi-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.biscardiforok.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.biscardiforok.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.biscardiforok.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.biscardiforok.com/_sites/www.biscardiforok.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Ways to Donate",
+"href": "https://www.biscardiforok.com/ways-to-donate"
+},
+{
+"text": "[image: Andrea Biscardi for HD9]",
+"href": "https://www.biscardiforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588897354356"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/biscardi4ok"
+},
+{
+"text": "biscardi4ok@gmail.com",
+"href": "mailto:biscardi4ok@gmail.com"
+}
 ]

@@ -1,13 +1,50 @@
 [
-"http://aboutads.info/",
-"http://aboutads.info/choices",
-"http://allaboutdnt.com/",
-"http://tools.google.com/dlpage/gaoptout",
-"http://www/",
-"https://facebook.com/markforstaterep",
-"https://instagram.com/repmarkcochran?igsh=MW1hOTVyd2c5Y3hjcg%3D%3D",
-"https://markforstaterep.com/",
-"https://markforstaterep.com/privacy-policy",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate",
-"https://x.com/repmarkcochran"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate"
+},
+{
+"text": "Google page",
+"href": "http://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "Home",
+"href": "https://www.markforstaterep.com/"
+},
+{
+"text": "Privacy Policy/Terms and Conditions",
+"href": "https://www.markforstaterep.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/markforstaterep"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/repmarkcochran?igsh=MW1hOTVyd2c5Y3hjcg%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.markforstaterep.com/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/repmarkcochran"
+},
+{
+"text": "[no text]",
+"href": "http://www"
+},
+{
+"text": "http://www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+},
+{
+"text": "http://www.allaboutdnt.com",
+"href": "http://www.allaboutdnt.com"
+},
+{
+"text": "www.aboutads.info",
+"href": "http://www.aboutads.info"
+}
 ]

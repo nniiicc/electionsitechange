@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://chillicothegazette.com/story/news/2022/05/31/ohio-supreme-court-justice-jennifer-brunner-visits-chillicothe/9941370002",
-"https://secure.actblue.com/donate/judge-terri-jamison-4-appeals",
-"https://voteterrijamison.com/",
-"https://voteterrijamison.com/about_terri",
-"https://voteterrijamison.com/biography",
-"https://voteterrijamison.com/contact",
-"https://voteterrijamison.com/contribute",
-"https://voteterrijamison.com/email-signup",
-"https://voteterrijamison.com/endorsements",
-"https://voteterrijamison.com/events",
-"https://voteterrijamison.com/home",
-"https://voteterrijamison.com/judicial-philosophy",
-"https://voteterrijamison.com/news",
-"https://voteterrijamison.com/volunteer",
-"https://voteterrijamison.com/vote"
+{
+"text": "About Terri",
+"href": "https://www.voteterrijamison.com/about_terri"
+},
+{
+"text": "Biography",
+"href": "https://www.voteterrijamison.com/biography"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voteterrijamison.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.voteterrijamison.com/contribute"
+},
+{
+"text": "Donate to Judge Jamison",
+"href": "https://secure.actblue.com/donate/judge-terri-jamison-4-appeals"
+},
+{
+"text": "Email Signup",
+"href": "https://www.voteterrijamison.com/email-signup"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteterrijamison.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteterrijamison.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.voteterrijamison.com/home"
+},
+{
+"text": "Judicial Philosophy",
+"href": "https://www.voteterrijamison.com/judicial-philosophy"
+},
+{
+"text": "News",
+"href": "https://www.voteterrijamison.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteterrijamison.com/volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://www.voteterrijamison.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://www.voteterrijamison.com/"
+},
+{
+"text": "https://www.chillicothegazette.com/story/news/2022/05/31/ohio-supreme-court-justice-jennifer-brunner-visits-chillicothe/9941370002/",
+"href": "https://www.chillicothegazette.com/story/news/2022/05/31/ohio-supreme-court-justice-jennifer-brunner-visits-chillicothe/9941370002/"
+}
 ]

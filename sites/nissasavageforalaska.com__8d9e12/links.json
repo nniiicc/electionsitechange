@@ -1,10 +1,46 @@
 [
-"http://cascadecomputerconsulting.com/",
-"https://akcenter.org/endorsements",
-"https://facebook.com/nissaforstatehouse",
-"https://nissasavageforalaska.com/",
-"https://nissasavageforalaska.com/about",
-"https://nissasavageforalaska.com/contact",
-"https://nissasavageforalaska.com/priorities",
-"https://secure.anedot.com/nissa-for-state-house-alaska/donate"
+{
+"text": "About Me",
+"href": "https://nissasavageforalaska.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://nissasavageforalaska.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/nissa-for-state-house-alaska/donate"
+},
+{
+"text": "Home",
+"href": "https://nissasavageforalaska.com/"
+},
+{
+"text": "More About Nissa",
+"href": "https://nissasavageforalaska.com/about"
+},
+{
+"text": "Nissa for State House",
+"href": "https://nissasavageforalaska.com"
+},
+{
+"text": "Priorities",
+"href": "https://nissasavageforalaska.com/priorities/"
+},
+{
+"text": "[image: CCC]",
+"href": "http://cascadecomputerconsulting.com/"
+},
+{
+"text": "[image: Nissa Savage logo]",
+"href": "https://www.facebook.com/nissaforstatehouse"
+},
+{
+"text": "[image: Nissa for State House]",
+"href": "https://nissasavageforalaska.com/"
+},
+{
+"text": "[image: The Alaska Center]",
+"href": "https://akcenter.org/endorsements/"
+}
 ]

@@ -1,9 +1,9 @@
 {
  "description": "Explore the Kenny Cody blog for conservative insights and updates on Tennessee politics from columnist Kenny Cody.",
  "final_url": "https://votekennycody.com/blog",
- "paid_for_by": null,
+ "fingerprint": "c18b7741ccf42cce32d90cae53397bd833228e9e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Blog",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

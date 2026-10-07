@@ -1,28 +1,186 @@
 [
-"http://iga.in.gov/legislative/2019/bills/house/1004",
-"http://iga.in.gov/legislative/2019/bills/house/1053",
-"http://iga.in.gov/legislative/2019/bills/senate/631",
-"http://tylerreifsteck.com/",
-"https://billtrack50.com/BillDetail/1001475",
-"https://calendar.google.com/calendar/embed?src=3b0otmnas815kh5h7n5tvc8v1c%40group.calendar.google.com&ctz=America%2FChicago",
-"https://facebook.com/repwendymac",
-"https://indianahouserepublicans.com/index.php?src=news&srctype=press_release_lister&submenu=Media_Room",
-"https://legiscan.com/IN/bill/SB0240/2019",
-"https://legiscan.com/IN/bill/SB0551/2019",
-"https://openstates.org/person/wendy-mcnamara-5Et272w20LVUtyFKpUhmoR",
-"https://secure.winred.com/wendy-mcnamara-for-state-representative/donate-today",
-"https://twitter.com/INHouseGOP?ref_src=twsrc%5Etfw",
-"https://twitter.com/RepWendyMac",
-"https://wendymcnamara.com/Index.html",
-"https://wendymcnamara.com/McNamara_logo.png",
-"https://wendymcnamara.com/about.html",
-"https://wendymcnamara.com/contact.html",
-"https://wendymcnamara.com/election-day.html",
-"https://wendymcnamara.com/endorsements.html",
-"https://wendymcnamara.com/events.html",
-"https://wendymcnamara.com/index.html",
-"https://wendymcnamara.com/issues.html",
-"https://wendymcnamara.com/photos.html",
-"https://wendymcnamara.com/press.html",
-"https://wendymcnamara.com/volunteer.html"
+{
+"text": "About",
+"href": "https://wendymcnamara.com/about.html"
+},
+{
+"text": "About Wendy",
+"href": "https://wendymcnamara.com/about.html"
+},
+{
+"text": "Attend",
+"href": "https://calendar.google.com/calendar/embed?src=3b0otmnas815kh5h7n5tvc8v1c%40group.calendar.google.com&ctz=America%2FChicago"
+},
+{
+"text": "Caucus Updates",
+"href": "https://www.indianahouserepublicans.com/index.php?src=news&srctype=press_release_lister&submenu=Media_Room"
+},
+{
+"text": "Contact",
+"href": "https://wendymcnamara.com/contact.html"
+},
+{
+"text": "Contact Us",
+"href": "https://wendymcnamara.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/wendy-mcnamara-for-state-representative/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/wendy-mcnamara-for-state-representative/donate-today"
+},
+{
+"text": "Election 2022 – Time to Vote!",
+"href": "https://wendymcnamara.com/election-day.html"
+},
+{
+"text": "Endorsements",
+"href": "https://wendymcnamara.com/endorsements.html"
+},
+{
+"text": "Events",
+"href": "https://wendymcnamara.com/events.html"
+},
+{
+"text": "Facebook Updates",
+"href": "https://www.facebook.com/repwendymac"
+},
+{
+"text": "Gallery",
+"href": "https://wendymcnamara.com/photos.html"
+},
+{
+"text": "Home",
+"href": "https://wendymcnamara.com/Index.html"
+},
+{
+"text": "Home",
+"href": "https://wendymcnamara.com/index.html"
+},
+{
+"text": "House Bill 1004",
+"href": "http://iga.in.gov/legislative/2019/bills/house/1004/"
+},
+{
+"text": "House Bill 1053",
+"href": "http://iga.in.gov/legislative/2019/bills/house/1053/"
+},
+{
+"text": "House Bill 1057",
+"href": "https://www.billtrack50.com/BillDetail/1001475"
+},
+{
+"text": "Issues",
+"href": "https://wendymcnamara.com/issues.html"
+},
+{
+"text": "Issues",
+"href": "https://wendymcnamara.com/issues.html/"
+},
+{
+"text": "Latest Legislation",
+"href": "https://openstates.org/person/wendy-mcnamara-5Et272w20LVUtyFKpUhmoR/"
+},
+{
+"text": "Media Photos",
+"href": "https://wendymcnamara.com/photos.html"
+},
+{
+"text": "Press",
+"href": "https://wendymcnamara.com/press.html"
+},
+{
+"text": "Press Releases",
+"href": "https://wendymcnamara.com/press.html"
+},
+{
+"text": "Read More",
+"href": "https://wendymcnamara.com/Index.html"
+},
+{
+"text": "Read More",
+"href": "https://wendymcnamara.com/volunteer.html"
+},
+{
+"text": "Read more »",
+"href": "http://iga.in.gov/legislative/2019/bills/house/1004/"
+},
+{
+"text": "Read more »",
+"href": "http://iga.in.gov/legislative/2019/bills/house/1053/"
+},
+{
+"text": "Read more »",
+"href": "http://iga.in.gov/legislative/2019/bills/senate/631/"
+},
+{
+"text": "Read more »",
+"href": "https://legiscan.com/IN/bill/SB0240/2019"
+},
+{
+"text": "Read more »",
+"href": "https://legiscan.com/IN/bill/SB0551/2019"
+},
+{
+"text": "Read more »",
+"href": "https://www.billtrack50.com/BillDetail/1001475"
+},
+{
+"text": "Senate Bill 240",
+"href": "https://legiscan.com/IN/bill/SB0240/2019"
+},
+{
+"text": "Senate Bill 551",
+"href": "https://legiscan.com/IN/bill/SB0551/2019"
+},
+{
+"text": "Senate Bill 631",
+"href": "http://iga.in.gov/legislative/2019/bills/senate/631/"
+},
+{
+"text": "Tweets by INHouseGOP",
+"href": "https://twitter.com/INHouseGOP?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Tyler Reifsteck 2016",
+"href": "http://tylerreifsteck.com/"
+},
+{
+"text": "View Program",
+"href": "https://calendar.google.com/calendar/embed?src=3b0otmnas815kh5h7n5tvc8v1c%40group.calendar.google.com&ctz=America%2FChicago"
+},
+{
+"text": "Volunteer",
+"href": "https://wendymcnamara.com/volunteer.html"
+},
+{
+"text": "[image: Wendy McNamara]",
+"href": "https://wendymcnamara.com/index.html"
+},
+{
+"text": "[image]",
+"href": "https://wendymcnamara.com/Index.html"
+},
+{
+"text": "[image]",
+"href": "https://wendymcnamara.com/volunteer.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepWendyMac"
+},
+{
+"text": "[no text]",
+"href": "https://wendymcnamara.com/McNamara_logo.png"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repwendymac/"
+},
+{
+"text": "[no text]",
+"href": "mailto:repwendymac@gmail.com"
+}
 ]

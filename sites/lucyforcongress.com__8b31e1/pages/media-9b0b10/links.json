@@ -1,28 +1,118 @@
 [
-"http://instagram.com/lucymcbath",
-"http://twitter.com/lucymcbath",
-"https://drive.google.com/drive/folders/13lxXhDmCOwV0eC0PxnIrUA9CnX98h9O2?usp=sharing",
-"https://drive.google.com/drive/folders/1vZcHOY2F706MaG9nZ1BHoHWkDOUvvKeG?usp=sharing",
-"https://drive.google.com/drive/u/1/folders/1CbuKIlG995PaFTxFCRXT4kGeaDCTu6ay?usp=sharing",
-"https://drive.google.com/file/d/1Oc7k3o9OEpp-SBM75yG55__LfR2ffPgH/view?usp=sharing",
-"https://drive.google.com/file/d/1ukPbMiXia5F1fwOffM45OCh2atiLG4ly/view",
-"https://facebook.com/electlucymcbath",
-"https://instagram.com/lucymcbath",
-"https://lucyforcongress.com/",
-"https://lucyforcongress.com/about",
-"https://lucyforcongress.com/getinvolved",
-"https://lucyforcongress.com/issues",
-"https://lucyforcongress.com/media",
-"https://lucyforcongress.com/news",
-"https://lucyforcongress.com/privacy",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=10&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=100&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=25&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=250&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=5&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?amount=50&express_lane=true",
-"https://secure.actblue.com/contribute/page/support-lucy?express_lane=true",
-"https://store.lucyforcongress.com/",
-"https://veraciu1-cdn-1.nyc3.digitaloceanspaces.com/Lucy-Mcbath/Videos/Lucy%20McBath%20Footage%20Stringout%20v2.mp4",
-"https://youtube.com/watch?v=iI3hHgGThEc&feature=youtu.be"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=25&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=250&express_lane=true"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=5&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?amount=50&express_lane=true"
+},
+{
+"text": "About Lucy",
+"href": "https://lucyforcongress.com/about/"
+},
+{
+"text": "Click here for biographical photos of Lucy McBath and her family.",
+"href": "https://drive.google.com/drive/folders/13lxXhDmCOwV0eC0PxnIrUA9CnX98h9O2?usp=sharing"
+},
+{
+"text": "Click here for great background video footage of Lucy and her campaign",
+"href": "https://drive.google.com/file/d/1Oc7k3o9OEpp-SBM75yG55__LfR2ffPgH/view?usp=sharing"
+},
+{
+"text": "Click here for updated photos of Lucy McBath",
+"href": "https://drive.google.com/drive/u/1/folders/1CbuKIlG995PaFTxFCRXT4kGeaDCTu6ay?usp=sharing"
+},
+{
+"text": "Click here for updated photos of Lucy McBath (2022)",
+"href": "https://drive.google.com/drive/folders/1vZcHOY2F706MaG9nZ1BHoHWkDOUvvKeG?usp=sharing"
+},
+{
+"text": "Click here for updated video of Lucy McBath",
+"href": "https://www.youtube.com/watch?v=iI3hHgGThEc&feature=youtu.be"
+},
+{
+"text": "Click here for video footage of Lucy engaging with constituents.",
+"href": "https://veraciu1-cdn-1.nyc3.digitaloceanspaces.com/Lucy-Mcbath/Videos/Lucy%20McBath%20Footage%20Stringout%20v2.mp4"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?express_lane=true"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electlucymcbath"
+},
+{
+"text": "Get Involved",
+"href": "https://lucyforcongress.com/getinvolved/"
+},
+{
+"text": "Here are several gigabytes of photos of Lucy and her campaign",
+"href": "https://drive.google.com/file/d/1ukPbMiXia5F1fwOffM45OCh2atiLG4ly/view"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/lucymcbath"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/lucymcbath"
+},
+{
+"text": "Issues",
+"href": "https://lucyforcongress.com/issues/"
+},
+{
+"text": "News Coverage",
+"href": "https://lucyforcongress.com/news/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/contribute/page/support-lucy?express_lane=true"
+},
+{
+"text": "Photos and Videos",
+"href": "https://lucyforcongress.com/media/"
+},
+{
+"text": "Press",
+"href": "mailto:john@lucyforcongress.com"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:john@lucyforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lucyforcongress.com/privacy/"
+},
+{
+"text": "Store",
+"href": "https://store.lucyforcongress.com/"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/lucymcbath"
+},
+{
+"text": "[image]",
+"href": "https://lucyforcongress.com/"
+}
 ]

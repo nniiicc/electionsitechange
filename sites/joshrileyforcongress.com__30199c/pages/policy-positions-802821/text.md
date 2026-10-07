@@ -1,176 +1,74 @@
-FIND YOUR POLLING LOCATION >>
-Putting Upstate First.
+VOTE EARLY OCT.
+26 - NOV.
+3 OR ON ELECTION DAY NOV.
+5 FIND YOUR POLLING LOCATION >> Meet Josh Issues Endorsements News Media Volunteer Donate Meet Josh Issues Endorsements News Media Volunteer Donate Putting Upstate First.
 Always.
 Join the team.
-Issues
-TAKING ON UTILITY COMPANIES TO BRING DOWN BILLS
-Utility bills are out of control.
+Issues TAKING ON UTILITY COMPANIES TO BRING DOWN BILLS Utility bills are out of control.
 And while Upstate New Yorkers struggle just to keep the lights on, foreign-owned utility companies are raking in record profits and sending millions overseas.
 It’s robbery.
-Josh is working to hold utility companies accountable and lower your bills by:
-- Taking regulators and the utility monopolies to court to block them from raising rates;
-- Helping families save up to $400 a year on utility bills with straightforward home energy-efficiency upgrades;
-- Banning foreign ownership of American utilities, because your money should stay in your pocket and our community, not line the pockets of corporate executives in Spain;
-- Blocking utility CEOs from paying themselves massive bonuses while raising rates on working people;
-- Lowering your monthly energy bills by making state-mandated utility fees tax deductible, because things are expensive enough already; and
-- Stopping data centers from driving up energy bills by requiring Big Tech to pay for the grid upgrades instead of passing those costs on to Upstate families.
-CHAMPIONING EQUALITY FOR ALL
-Love is love.
+Josh is working to hold utility companies accountable and lower your bills by: Taking regulators and the utility monopolies to court to block them from raising rates; Helping families save up to $400 a year on utility bills with straightforward home energy-efficiency upgrades; Banning foreign ownership of American utilities , because your money should stay in your pocket and our community, not line the pockets of corporate executives in Spain; Blocking utility CEOs from paying themselves massive bonuses while raising rates on working people; Lowering your monthly energy bills by making state-mandated utility fees tax deductible , because things are expensive enough already; and Stopping data centers from driving up energy bills by requiring Big Tech to pay for the grid upgrades instead of passing those costs on to Upstate families.
+CHAMPIONING EQUALITY FOR ALL Love is love.
 At a time when constitutional freedoms are threatened, Josh knows we cannot take for granted the progress we have made in the civil rights movement.
-Josh is fighting for equality for all by:
-- Backing the Equality Act to ban anti-LGBTQ+ discrimination nationwide;
-- Supporting life-saving mental health and suicide prevention services tailored specifically for LGBTQ+ youth in crisis; and
-- Standing firm against extremists who target and bully LGBTQ+ kids just for being who they are.
-CREATING OPPORTUNITIES FOR PEOPLE WITH DISABILITIES
-Josh believes that everyone deserves an opportunity to live a fulfilling life and reach their full potential, regardless of their abilities.
-Josh is creating opportunities for people with disabilities by:
-- Fighting to fully fund special education and ensure every student has the resources to thrive;
-- Cutting bureaucratic red tape to eliminate unfair waiting periods for Social Security Disability Insurance and Medicare benefits; and
-- Working to raise outdated SSI asset limits that penalize disabled Americans for building financial security and saving for emergencies
-CUTTING TAXES FOR THE MIDDLE CLASS
-The Middle Class needs a tax cut; billionaires and big corporations don’t.
+Josh is fighting for equality for all by: Backing the Equality Act to ban anti-LGBTQ+ discrimination nationwide; Supporting life-saving mental health and suicide prevention services tailored specifically for LGBTQ+ youth in crisis; and Standing firm against extremists who target and bully LGBTQ+ kids just for being who they are.
+CREATING OPPORTUNITIES FOR PEOPLE WITH DISABILITIES Josh believes that everyone deserves an opportunity to live a fulfilling life and reach their full potential, regardless of their abilities.
+Josh is creating opportunities for people with disabilities by: Fighting to fully fund special education and ensure every student has the resources to thrive; Cutting bureaucratic red tape to eliminate unfair waiting periods for Social Security Disability Insurance and Medicare benefits; and Working to raise outdated SSI asset limits that penalize disabled Americans for building financial security and saving for emergencies CUTTING TAXES FOR THE MIDDLE CLASS The Middle Class needs a tax cut; billionaires and big corporations don’t.
 Josh believes it is unacceptable that hedge fund managers pay lower tax rates than janitors, and he believes the tax code should be reformed to be simpler, fairer, and less of a burden for working families.
-Josh is fighting to put working people first by:
-- Putting money back in the pockets of middle-class families by boosting the Child Tax Credit;
-- Lowering your monthly energy bills by making state-mandated utility fees tax deductible, because things are expensive enough already;
-- Eliminating federal taxes on Social Security benefits, because Upstate seniors deserve every penny they’ve earned; and
-- Making union dues and out-of-pocket work expenses 100% tax-deductible for all employees.
-DEFENDING ABORTION RIGHTS
-Anti-abortion extremists want to take away women’s most personal healthcare decisions and put them in the hands of politicians – even here in New York.
+Josh is fighting to put working people first by: Putting money back in the pockets of middle-class families by boosting the Child Tax Credit ; Lowering your monthly energy bills by making state-mandated utility fees tax deductible , because things are expensive enough already; Eliminating federal taxes on Social Security benefits, because Upstate seniors deserve every penny they’ve earned; and Making union dues and out-of-pocket work expenses 100% tax-deductible for all employees.
+DEFENDING ABORTION RIGHTS Anti-abortion extremists want to take away women’s most personal healthcare decisions and put them in the hands of politicians – even here in New York.
 Josh’s view is simple: women’s healthcare decisions are women’s healthcare decisions, and politicians should stay the hell out of them.
 Josh championed an effort in federal court to ratify the Equal Rights Amendment, which would make abortion access a constitutional right.
-As a member of the Reproductive Freedom Caucus, he’s:
-- Pushing to restore the full protections of Roe v.
-Wade into law by passing the Women’s Health Protection Act;
-- Working to protect access to birth control so politicians can’t meddle in private family planning decisions; and
-- Fighting in the Supreme Court to block attempts to restrict access to mifepristone
-EMPOWERING LABOR
-Josh knows that strong unions built a strong Middle Class.
+As a member of the Reproductive Freedom Caucus, he’s: Pushing to restore the full protections of Roe v.
+Wade into law by passing the Women’s Health Protection Act ; Working to protect access to birth control so politicians can’t meddle in private family planning decisions; and Fighting in the Supreme Court to block attempts to restrict access to mifepristone EMPOWERING LABOR Josh knows that strong unions built a strong Middle Class.
 He served as a Policy Analyst at the U.S.
 Department of Labor, focusing on unemployment and job training programs.
 As an attorney in private practice, he represented workers whose rights were violated under the Fair Labor Standards Act, and as a Fellow on the U.S.
 Senate Labor & Pensions Committee, he fought for pro-labor legislation.
-He believes we have to make it easier to join a union and harder to bust one, and is standing with organized labor by:
-- Fighting to pass the PRO Act to protect workers’ right to organize and penalize companies that union-bust;
-- Ending stall tactics by requiring companies start contract negotiations within 10 days of a successful union vote;
-- Stripping corporate tax write-offs for companies that try to block union organizing efforts; and
-- Making union dues 100% tax-deductible.
-ENDING GUN VIOLENCE
-Josh believes we can keep vulnerable populations safe from gun violence while honoring law-abiding gun owners’ Second Amendment rights.
+He believes we have to make it easier to join a union and harder to bust one, and is standing with organized labor by: Fighting to pass the PRO Act to protect workers’ right to organize and penalize companies that union-bust; Ending stall tactics by requiring companies start contract negotiations within # days of a successful union vote; Stripping corporate tax write-offs for companies that try to block union organizing efforts; and Making union dues 100% tax-deductible .
+ENDING GUN VIOLENCE Josh believes we can keep vulnerable populations safe from gun violence while honoring law-abiding gun owners’ Second Amendment rights.
 Josh served as counsel on the U.S.
 Senate Judiciary Committee following the massacre at Sandy Hook Elementary School, and he worked on common-sense legislation to keep communities safe.
-Josh is:
-- Fighting for universal background checks to close dangerous loopholes and keep weapons out of the hands of individuals who pose a danger to themselves or others; and
-- Backing common-sense safe storage laws to protect children by ensuring firearms are kept secure in residential homes.
-ENHANCING PUBLIC EDUCATION
-Josh is a proud product of Upstate New York’s public schools, and he wants every child to have the great education and opportunities he had.
-He is delivering on that promise by:
-- Helping recruit and train science and math teachers to boost STEM education in rural communities and ensure our students are prepared to compete in the global economy;
-- Expanding access to arts and music programming so kids of all ages can explore their passions and creativity;
-- Hiring more counselors and mental health professionals to give kids the support they need directly in the classroom;
-- Blocking extreme efforts to dismantle the Department of Education and strip funding from our local schools; and
-- Promoting career and technical education (CTE) pathways as a member of the Bipartisan CTE Caucus—because a four-year degree should not be the price of admission to the Middle Class.
-EXPANDING ACCESS TO HEALTHCARE
-Josh believes that healthcare should be a civil right in America, not something that bankrupts so many American families.
+Josh is: Fighting for universal background checks to close dangerous loopholes and keep weapons out of the hands of individuals who pose a danger to themselves or others; and Backing common-sense safe storage laws to protect children by ensuring firearms are kept secure in residential homes.
+ENHANCING PUBLIC EDUCATION Josh is a proud product of Upstate New York’s public schools, and he wants every child to have the great education and opportunities he had.
+He is delivering on that promise by: Helping recruit and train science and math teachers to boost STEM education in rural communities and ensure our students are prepared to compete in the global economy; Expanding access to arts and music programming so kids of all ages can explore their passions and creativity; Hiring more counselors and mental health professionals to give kids the support they need directly in the classroom; Blocking extreme efforts to dismantle the Department of Education and strip funding from our local schools; and Promoting career and technical education (CTE) pathways as a member of the Bipartisan CTE Caucus—because a four-year degree should not be the price of admission to the Middle Class.
+EXPANDING ACCESS TO HEALTHCARE Josh believes that healthcare should be a civil right in America, not something that bankrupts so many American families.
 Josh believes that our healthcare system should put patients over profits.
-He’s working to expand access to quality healthcare and lower costs by:
-- Securing $1M for a new Licensed Practical Nursing training facility in Johnson City, to address workforce shortages and train the next generation of healthcare workers right here in Upstate New York;
-- Delivering millions to rural hospitals across Upstate New York, including $600,000 for renovations at Margaretville Memorial Hospital, $1,000,000 for new diagnostic equipment at Mary Imogene Bassett Hospital, and $1,000,000 to construct a new Refuah Health outpatient facility in South Fallsburg.
-- Requiring insurance companies spend more of your premiums on care and less on overhead and corporate profit;
-- Empowering Medicare to negotiate down the price of drugs for everyone, and capping out-of-pocket prescription costs at $2,000 per year;
-- Expanding Medicare benefits to cover dental, vision, and hearing services for our seniors;
-- Surging resources to rural hospitals to help keep doors open and care close to home;
-- Promoting access to telehealth to ensure every Upstate family can see a doctor regardless of their zip code;
-FIGHTING CORRUPTION AND CORPORATE PACS
-Growing up in Endicott, Josh saw firsthand how greedy corporations and corrupt politicians cut backroom deals that left working people behind.
+He’s working to expand access to quality healthcare and lower costs by : Securing $1M for a new Licensed Practical Nursing training facility in Johnson City , to address workforce shortages and train the next generation of healthcare workers right here in Upstate New York; Delivering millions to rural hospitals across Upstate New York, including $600,000 for renovations at Margaretville Memorial Hospital, $1,000,000 for new diagnostic equipment at Mary Imogene Bassett Hospital, and $1,000,000 to construct a new Refuah Health outpatient facility in South Fallsburg.
+Requiring insurance companies spend more of your premiums on care and less on overhead and corporate profit; Empowering Medicare to negotiate down the price of drugs for everyone, and capping out-of-pocket prescription costs at $2,000 per year; Expanding Medicare benefits to cover dental, vision, and hearing services for our seniors; Surging resources to rural hospitals to help keep doors open and care close to home; Promoting access to telehealth to ensure every Upstate family can see a doctor regardless of their zip code; FIGHTING CORRUPTION AND CORPORATE PACS Growing up in Endicott, Josh saw firsthand how greedy corporations and corrupt politicians cut backroom deals that left working people behind.
 Josh isn’t a career politician, and he’s never taken a penny of corporate PAC money.
 He’s running to fix a broken system that has been rigged against Upstate New Yorkers for far too long.
-That’s why he introduced the Drain the Swamp Act – a comprehensive blueprint to hold politicians accountable and return power to the American people by:
-- Banning corporate PACs and dark money in politics to ensure elected officials answer to working people, not corporations and special interests;
-- Ending insider trading in Washington by prohibiting Members of Congress and the President from owning or trading individual stocks;
-- Establishing term limits for Congress to stop politicians from turning public service into a lifelong career;
-- Strengthening anti-bribery protections to permanently block federal officials from accepting foreign gifts and corporate favors; and
-- Reforming the Supreme Court with term limits and a strict code of ethics to ensure justices are held to the highest standards of transparency and public trust.
-FOSTERING INNOVATION
-Technological progress is accelerating in everything from artificial intelligence to blockchain and digital currencies.
+That’s why he introduced the Drain the Swamp Act – a comprehensive blueprint to hold politicians accountable and return power to the American people by: Banning corporate PACs and dark money in politics to ensure elected officials answer to working people, not corporations and special interests; Ending insider trading in Washington by prohibiting Members of Congress and the President from owning or trading individual stocks; Establishing term limits for Congress to stop politicians from turning public service into a lifelong career; Strengthening anti-bribery protections to permanently block federal officials from accepting foreign gifts and corporate favors; and Reforming the Supreme Court with term limits and a strict code of ethics to ensure justices are held to the highest standards of transparency and public trust.
+FOSTERING INNOVATION Technological progress is accelerating in everything from artificial intelligence to blockchain and digital currencies.
 Josh believes we need to establish clear and balanced policies that foster innovation, empower consumers, and promote national security, and he believes that we must be at the forefront in the global competition around these technologies.
-Josh will promote growth and innovation while ensuring these technologies are used ethically and beneficially by:
-- Supporting the development of comprehensive regulations that provide clarity and security for emerging technologies like blockchain, cryptocurrency, artificial intelligence, and machine learning;
-- Encouraging public-private partnerships to drive innovation, ensuring the U.S. remains a global leader;
-- Implementing measures to deter fraud and promote transparency and trust; and
-- Ensuring that the development and implementation of these technologies align with national security interests, preventing adversaries from exploiting them for malicious purposes.
-HONORING OUR VETERANS
-We owe no greater debt than to those who have served our country in uniform.
+Josh will promote growth and innovation while ensuring these technologies are used ethically and beneficially by: Supporting the development of comprehensive regulations that provide clarity and security for emerging technologies like blockchain, cryptocurrency, artificial intelligence, and machine learning; Encouraging public-private partnerships to drive innovation, ensuring the U.S. remains a global leader; Implementing measures to deter fraud and promote transparency and trust; and Ensuring that the development and implementation of these technologies align with national security interests, preventing adversaries from exploiting them for malicious purposes.
+HONORING OUR VETERANS We owe no greater debt than to those who have served our country in uniform.
 Josh’s grandpa served in the U.S.
 Army, and Josh has spent his career fighting for our service members – from advocating in federal court for veterans service organizations to expanding mental health resources for veterans experiencing crisis.
-Josh believes that supporting our veterans is our most solemn responsibility, and he is delivering on that promise by:
-- Modernizing VA scheduling to cut wait times and make it easier for veterans to access benefits the benefits they’ve earned;
-- Backing the bipartisan Major Richard Star Act to ensure combat-disabled veterans receive their full retirement pay and disability benefits without unfair penalties;
-- Expanding comprehensive dental and hearing care to ensure every veteran enrolled in the VA system has full coverage; and
-- Guaranteeing VA care for exposure to toxic “forever chemicals.”
-IMPROVING PUBLIC SAFETY
-Josh comes from a law enforcement family, so he knows first-hand the sacrifices our law enforcement and first responders make to keep our communities safe.
+Josh believes that supporting our veterans is our most solemn responsibility, and he is delivering on that promise by: Modernizing VA scheduling to cut wait times and make it easier for veterans to access benefits the benefits they’ve earned; Backing the bipartisan Major Richard Star Act to ensure combat-disabled veterans receive their full retirement pay and disability benefits without unfair penalties; Expanding comprehensive dental and hearing care to ensure every veteran enrolled in the VA system has full coverage; and Guaranteeing VA care for exposure to toxic “forever chemicals.” IMPROVING PUBLIC SAFETY Josh comes from a law enforcement family, so he knows first-hand the sacrifices our law enforcement and first responders make to keep our communities safe.
 Josh is adamantly opposed to proposals to “defund the police,” and he believes that public safety requires more resources, not fewer.
 Josh also believes that New York’s cashless bail policy needs to be changed to give judges more discretion and clearer criteria to apply to keep repeat and violent offenders off the streets.
 As counsel in the U.S.
 Senate, Josh worked to bring Democrats and Republicans together to advance legislation that was supported by the National Sheriffs Association and National Association of Police Organizations, including reauthorization of the Justice & Mental Health Collaboration Program and updates to the Bulletproof Vest Partnership Program.
-He is delivering real results to back up our local police departments by:
-- Securing $30M to help equip police departments in rural communities with life-saving bullet proof vests;
-- Delivering millions to support first responders across Upstate New York, including $850,000 for a new police headquarters in East Greenbush, $1,015,000 to replace a deteriorating fire station in Guilford, $1,015,000 for a new fire house in West Athens, and $1,000,000 for a state-of-the-art public safety hub at Village Hall in Monticello.
-- Leading the fight against the opioid epidemic with a crackdown on fentanyl smuggling and support for evidence-based addiction treatment programs to help those impacted get on the path to recovery;
-- Raising pay for federal correctional officers to ensure they receive fair compensation for doing dangerous, difficult work;
-- Cracking down on organized retail theft rings to protect Upstate small businesses; and
-- Expanding support for families of police officers and first responders who die or become disabled due to service-related illness or injuries.
-LIFTING CHILDREN OUT OF POVERTY
-Josh believes that every child deserves an opportunity to meet his or her full potential, and no child should live in poverty.
+He is delivering real results to back up our local police departments by: Securing $30M to help equip police departments in rural communities with life-saving bullet proof vests; Delivering millions to support first responders across Upstate New York, including $850,000 for a new police headquarters in East Greenbush, $1,015,000 to replace a deteriorating fire station in Guilford, $1,015,000 for a new fire house in West Athens, and $1,000,000 for a state-of-the-art public safety hub at Village Hall in Monticello.
+Leading the fight against the opioid epidemic with a crackdown on fentanyl smuggling and support for evidence-based addiction treatment programs to help those impacted get on the path to recovery; Raising pay for federal correctional officers to ensure they receive fair compensation for doing dangerous, difficult work; Cracking down on organized retail theft rings to protect Upstate small businesses; and Expanding support for families of police officers and first responders who die or become disabled due to service-related illness or injuries.
+LIFTING CHILDREN OUT OF POVERTY Josh believes that every child deserves an opportunity to meet his or her full potential, and no child should live in poverty.
 He wants every child in Upstate New York to have the same opportunities he had and a fair shot at upward mobility.
 Yet child poverty rates remain at unacceptably high levels across Upstate New York.
-Josh is delivering real resources to support local families, lower costs, and eliminate childhood hunger by:
-- Fighting to reverse cruel SNAP cuts that took food out of the mouths of tens of thousands of Upstate New Yorkers, all to pay for tax breaks for billionaires;
-- Working to raise the Child Tax Credit and put money back in the pockets of middle-class and low-income families;
-- Pushing for universal preschool for three and four-year-olds to expand early learning opportunities and support working parents; and
-- Expanding access to healthy meals at local daycares and schools, because kids can’t learn on an empty stomach.
-LOWERING COSTS
-Big corporations are enjoying record profits even while working families are struggling to make ends meet.
+Josh is delivering real resources to support local families, lower costs, and eliminate childhood hunger by: Fighting to reverse cruel SNAP cuts that took food out of the mouths of tens of thousands of Upstate New Yorkers, all to pay for tax breaks for billionaires; Working to raise the Child Tax Credit and put money back in the pockets of middle-class and low-income families; Pushing for universal preschool for three and four-year-olds to expand early learning opportunities and support working parents; and Expanding access to healthy meals at local daycares and schools, because kids can’t learn on an empty stomach.
+LOWERING COSTS Big corporations are enjoying record profits even while working families are struggling to make ends meet.
 That’s not fair.
 As an attorney, Josh represented consumers, workers, and small businesses who were being ripped off by big corporations.
-In Congress, Josh is taking on corporations and special interests to lower costs for Upstate families by:
-- Taking on utility monopolies by fighting to block price hikes, ban CEO bonuses, and hold foreign-owned energy companies accountable so you can keep the lights on without breaking the bank;
-- Lowering prescription drug costs by empowering Medicare to negotiate better prices, and expanding coverage to include dental, vision, and hearing services for our seniors;
-- Driving down the cost of housing by surging construction and banning Wall Street investors from buying up homes;
-- Capping childcare costs and expanding access to affordable, high-quality child care so parents don’t have to choose between keeping a job and caring for their kids;
-- Suspending the federal gas tax to provide immediate relief at the pump;
-- Reversing outdated regulations driving up the cost of eggs at the grocery store; and
-- Banning corporate price gouging, because no one should get rich by screwing over working people.
-PROTECTING SOCIAL SECURITY
-Seniors have earned the right to retire with dignity.
+In Congress, Josh is taking on corporations and special interests to lower costs for Upstate families by: Taking on utility monopolies by fighting to block price hikes, ban CEO bonuses , and hold foreign-owned energy companies accountable so you can keep the lights on without breaking the bank; Lowering prescription drug costs by empowering Medicare to negotiate better prices , and expanding coverage to include dental, vision, and hearing services for our seniors ; Driving down the cost of housing by surging construction and banning Wall Street investors from buying up homes ; Capping childcare costs and expanding access to affordable, high-quality child care so parents don’t have to choose between keeping a job and caring for their kids; Suspending the federal gas tax to provide immediate relief at the pump; Reversing outdated regulations driving up the cost of eggs at the grocery store; and Banning corporate price gouging , because no one should get rich by screwing over working people.
+PROTECTING SOCIAL SECURITY Seniors have earned the right to retire with dignity.
 Josh will never cut a penny from Social Security or Medicare.
-He believes that retirement programs should be strengthened, not weakened, and he’s standing up for our seniors by:
-- Eliminating federal taxes on Social Security benefits, because Upstate seniors deserve every penny they’ve earned;
-- Blocking attempts to shut down local Social Security field offices or end service over the phone, so everyone can access their benefits and get help in the way they choose;
-- Expanding Medicare benefits to cover dental, vision, and hearing services; and
-- Making Medicare telehealth coverage permanent, so seniors can continue to get the care they need right from their home.
-PROTECTING OUR ENVIRONMENT
-Josh believes we are facing existential threats to our environment, which require bold action.
+He believes that retirement programs should be strengthened, not weakened, and he’s standing up for our seniors by: Eliminating federal taxes on Social Security benefits, because Upstate seniors deserve every penny they’ve earned; Blocking attempts to shut down local Social Security field offices or end service over the phone, so everyone can access their benefits and get help in the way they choose; Expanding Medicare benefits to cover dental, vision, and hearing services; and Making Medicare telehealth coverage permanent , so seniors can continue to get the care they need right from their home.
+PROTECTING OUR ENVIRONMENT Josh believes we are facing existential threats to our environment, which require bold action.
 As a dad, Josh is especially concerned about the state of the planet we’re leaving to future generations.
-He’s protecting our clean air and water by:
-- Forcing corporate polluters to pay for environmental cleanups they cause;
-- Protecting the EPA’s ability to regulate greenhouse gases and combat climate change;
-- Securing accurate and reliable data on clean energy manufacturing projects to promote investments in good-paying jobs of the future and push back on big-oil disinformation;
-- Safeguarding Upstate New York’s natural treasures, including the Delaware River Basin and Hudson River;
-- Upgrading outdated water infrastructure to filter out toxic pollutants like PFAS; and
-- Expanding recycling infrastructure in rural communities so everyone can do their part to protect the planet, no matter where they live
-PURSUING PEACE THROUGH STRENGTH
-Josh believes that America is strongest and most secure when we demonstrate strength while pursuing peace.
+He’s protecting our clean air and water by: Forcing corporate polluters to pay for environmental cleanups they cause; Protecting the EPA’s ability to regulate greenhouse gases and combat climate change; Securing accurate and reliable data on clean energy manufacturing projects to promote investments in good-paying jobs of the future and push back on big-oil disinformation; Safeguarding Upstate New York’s natural treasures, including the Delaware River Basin and Hudson River; Upgrading outdated water infrastructure to filter out toxic pollutants like PFAS ; and Expanding recycling infrastructure in rural communities so everyone can do their part to protect the planet, no matter where they live PURSUING PEACE THROUGH STRENGTH Josh believes that America is strongest and most secure when we demonstrate strength while pursuing peace.
 Josh believes that keeping our homeland safe is among the federal government’s most important functions.
 He believes we must lead by example in the world, defending American values and interests by engaging strategically.
-Josh supports policies that:
-- Confront threats posed by adversaries like Iran, Russia, China, and North Korea;
-- Combat terrorism and the states that sponsor it;
-- Secure America’s borders; and
-- Use defense funds wisely and efficiently, always promoting American job creation first.
-SECURING THE BORDER
-The Southern Border is an absolute disaster, and Joe Biden, Marc Molinaro, and Washington politicians from both parties have failed us by refusing to secure it.
+Josh supports policies that: Confront threats posed by adversaries like Iran, Russia, China, and North Korea; Combat terrorism and the states that sponsor it; Secure America’s borders; and Use defense funds wisely and efficiently, always promoting American job creation first.
+SECURING THE BORDER The Southern Border is an absolute disaster, and Joe Biden, Marc Molinaro, and Washington politicians from both parties have failed us by refusing to secure it.
 It’s time for the career politicians who got us into this mess to stop pointing fingers at each other and do their damn jobs–or get out of the way for someone who will.
 Josh knows that our immigration system is completely broken, and he will bring Democrats and Republicans together to fix it in a way that upholds both the law and our values.
 As an attorney, Josh advocated in the U.S.
@@ -178,46 +76,19 @@ Supreme Court against immigration policies that discriminate based on religion a
 As counsel in the U.S.
 Senate, Josh helped draft a bipartisan and comprehensive immigration reform proposal that would have secured the border once-and-for-all by adding thousands of border patrol agents.
 Josh’s wife is the daughter of immigrants from India and Ecuador who came to America legally to pursue the American Dream, and Josh will always support legal immigration that has contributed so much to our country and community.
-Josh supports policies that:
-- Hire new border agents and ensure law enforcement has the resources they need to secure the border and stop and deter illegal immigration;
-- Hire more immigration judges so asylum claims are processed quickly, fairly, and accurately;
-- Halt the flow of fentanyl into the US by making long-overdue technological improvements at our ports of entry and expanding the number of fentanyl detection machines;
-- Update visa programs to ensure our farmers and trades unions have access to labor; and
-- Reflect America’s values, including our tradition as a nation of immigrants and our identity as a nation of laws.
-STRENGTHENING OUR DEMOCRACY
-To do the hard work of solving common challenges with a shared purpose, we first must strengthen our democracy and restore faith in it–and in each other.
-Josh is fighting to safeguard our elections, uphold the rule of law, and make government work by:
-- Fighting to restore the Voting Rights Act and guarantee that every voter can have their voice heard;
-- Working to overturn Citizens United and get dark money out of politics for good;
-- Ending partisan gerrymandering–because voters should choose their political leaders, not the other way around;
-- Suspending pay for Congress during government shutdowns, so politicians face real consequences when they fail to do their jobs; and
-- Ensuring federal courts have the power to enforce their own rulings if the executive branch refuses to follow them, because no President is above the law.
-SUPPORTING SMALL FARMERS
-Our family farms are the backbone of Upstate New York’s economy and the heart of our communities.
+Josh supports policies that: Hire new border agents and ensure law enforcement has the resources they need to secure the border and stop and deter illegal immigration; Hire more immigration judges so asylum claims are processed quickly, fairly, and accurately; Halt the flow of fentanyl into the US by making long-overdue technological improvements at our ports of entry and expanding the number of fentanyl detection machines; Update visa programs to ensure our farmers and trades unions have access to labor; and Reflect America’s values, including our tradition as a nation of immigrants and our identity as a nation of laws.
+STRENGTHENING OUR DEMOCRACY To do the hard work of solving common challenges with a shared purpose, we first must strengthen our democracy and restore faith in it–and in each other.
+Josh is fighting to safeguard our elections, uphold the rule of law, and make government work by: Fighting to restore the Voting Rights Act and guarantee that every voter can have their voice heard; Working to overturn Citizens United and get dark money out of politics for good; Ending partisan gerrymandering –because voters should choose their political leaders, not the other way around; Suspending pay for Congress during government shutdowns, so politicians face real consequences when they fail to do their jobs; and Ensuring federal courts have the power to enforce their own rulings if the executive branch refuses to follow them, because no President is above the law.
+SUPPORTING SMALL FARMERS Our family farms are the backbone of Upstate New York’s economy and the heart of our communities.
 But today, too many Upstate growers are working harder than ever while falling further behind.
-Josh is supporting our family farms by:
-- Reforming the farmworker visa program to help Upstate dairy farmers and apple growers address labor shortages;
-- Helping schools and food banks buy directly from nearby farms to feed our kids fresh, homegrown food and support local farmers;
-- Banning foreign adversaries like the Chinese Communist Party from buying up American farmland to protect our national security and local food supply;
-- Fighting to force the federal government to honor its contracts with over 150 Upstate New York farms;
-- Expanding the ROPS rebate program to make it easier and more affordable for farmers to install roll-over protection and stay safe on the job;
-- Supporting training and career opportunities to nurture the next generation of family farmers;
-- Strengthening local agricultural co-ops to keep our small-town econ
-MAKING THINGS IN AMERICA AGAIN
-Throughout history, when the world has faced big challenges, Upstate New Yorkers have risen to meet them by making the things the world needs to meet the moment.
+Josh is supporting our family farms by: Reforming the farmworker visa program to help Upstate dairy farmers and apple growers address labor shortages; Helping schools and food banks buy directly from nearby farms to feed our kids fresh, homegrown food and support local farmers; Banning foreign adversaries like the Chinese Communist Party from buying up American farmland to protect our national security and local food supply; Fighting to force the federal government to honor its contracts with over 150 Upstate New York farms; Expanding the ROPS rebate program to make it easier and more affordable for farmers to install roll-over protection and stay safe on the job; Supporting training and career opportunities to nurture the next generation of family farmers; Strengthening local agricultural co-ops to keep our small-town econ MAKING THINGS IN AMERICA AGAIN Throughout history, when the world has faced big challenges, Upstate New Yorkers have risen to meet them by making the things the world needs to meet the moment.
 Josh believes we can revitalize our economy and rebuild the middle class by putting Upstate New York back on the forefront of manufacturing to build batteries, semiconductors, solar panels, and other products the world needs now.
-Josh is putting American workers first by:
-- Securing $175 million in funding so local small-business manufacturers can access the tools and training they need to scale up;
-- Standing up to unfair trade practices by closing backdoors that allow cheap foreign goods to flood our markets and hurt American manufacturers;
-- Strengthening critical semiconductor supply chains to boost domestic manufacturing and create good-paying technology jobs right here at home;
-- Cutting through bureaucratic red tape to speed up local infrastructure projects, helping major manufacturing investments get off the ground faster;
-- Eliminating federal tax breaks for corporations that ship American jobs overseas; and
-- Rewarding companies that choose American-grown materials over foreign imports.
-WORKING TOWARD RACIAL JUSTICE
-Civil rights enforcement is critically important as communities of color continue to face unique barriers to the American Dream.
+Josh is putting American workers first by: Securing $175 million in funding so local small-business manufacturers can access the tools and training they need to scale up; Standing up to unfair trade practices by closing backdoors that allow cheap foreign goods to flood our markets and hurt American manufacturers; Strengthening critical semiconductor supply chains to boost domestic manufacturing and create good-paying technology jobs right here at home; Cutting through bureaucratic red tape to speed up local infrastructure projects , helping major manufacturing investments get off the ground faster; Eliminating federal tax breaks for corporations that ship American jobs overseas ; and Rewarding companies that choose American-grown materials over foreign imports.
+WORKING TOWARD RACIAL JUSTICE Civil rights enforcement is critically important as communities of color continue to face unique barriers to the American Dream.
 As counsel in the U.S.
 Senate, Josh worked on legislation to advance racial justice, including bills to eliminate mandatory minimum sentences for non-violent drug offenses (thereby giving judges more discretion in sentencing decisions), and he worked on legislation to help inmates build productive lives after serving their sentences.
-Josh supports policies that:
-- Combat discrimination by strengthening and enforcing our civil rights and equal opportunity laws;
-- Reduce recidivism by helping people find good jobs and housing after paying their debts and by sealing records for certain non-violent offenses; and
-- Protect voting rights, particularly against efforts at disenfranchisement targeted at communities of color.
+Josh supports policies that: Combat discrimination by strengthening and enforcing our civil rights and equal opportunity laws; Reduce recidivism by helping people find good jobs and housing after paying their debts and by sealing records for certain non-violent offenses; and Protect voting rights, particularly against efforts at disenfranchisement targeted at communities of color.
+Meet Josh Issues Endorsements News Media Volunteer Donate Donate by Mail: PO Box 836.
+213 Tioga Street Ithaca, NY 14851 For General Inquiries: info@joshrileyforcongress.com For Press Inquiries: press@joshrileyforcongress.com Paid for by Josh Riley for Congress Donate by Mail: PO Box 836.
+213 Tioga Street Ithaca, NY 14851 For General Inquiries: info@joshrileyforcongress.com For Press Inquiries: press@joshrileyforcongress.com PO Box 836.
+213 Tioga Street Ithaca, NY 14851 Privacy Policy ©

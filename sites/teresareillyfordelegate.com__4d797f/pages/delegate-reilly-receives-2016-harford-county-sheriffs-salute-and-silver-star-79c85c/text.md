@@ -1,5 +1,4 @@
-Delegate Teresa Reilly, Maryland District 35B, was awarded the 2016 Harford County Sheriff’s Salute and Silver Star for her efforts in the passage of the Statewide Warrant Intercept Bill during the 2016 Legislative session.
+Home About Priorities Resources Scholarship Contact Us News Delegate Reilly receives 2016 Harford County Sheriff’s Salute and Silver Star Jun 1, 2016 Teresa Reilly 0 Comments Delegate Teresa Reilly, Maryland District 35B, was awarded the 2016 Harford County Sheriff’s Salute and Silver Star for her efforts in the passage of the Statewide Warrant Intercept Bill during the 2016 Legislative session.
 Signed by Harford County Sheriff Jeffrey R.
 Gahler, she was recognized “for her tireless devotion to her constituents and dedication to the law enforcement community and the citizens of Maryland”.
-Delegate Reilly being presented The Sheriff’s Salute and Silver Star by Harford County Chief Deputy Colonel Steven Bodway
-Category: News, Press Release
+Delegate Reilly being presented The Sheriff’s Salute and Silver Star by Harford County Chief Deputy Colonel Steven Bodway Category: News , Press Release About the Author Comments are closed. « Hogan Signs ‘Heroes Highway’ Legislation Honoring Slain Harford Deputies 2017 End of Session Letter » Search for: Get Weekly Updates Sign up to get weekly e-newsletters about what's going on in Annapolis from Teresa during the legislative session. © Copyright # - Theme Chip Zero 1.2 by TutorialChip - Powered by WordPress 5.4.16

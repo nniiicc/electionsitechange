@@ -1,44 +1,178 @@
 [
-"https://bsky.app/profile/sabadosama.bsky.social",
-"https://facebook.com/LSabadosaMA",
-"https://instagram.com/sabadosama",
-"https://lindsaysabadosa.com/",
-"https://lindsaysabadosa.com/about",
-"https://lindsaysabadosa.com/accessing-health-care",
-"https://lindsaysabadosa.com/advocacy-news",
-"https://lindsaysabadosa.com/caucuses-",
-"https://lindsaysabadosa.com/citation-request",
-"https://lindsaysabadosa.com/committees-copy",
-"https://lindsaysabadosa.com/committeevotes",
-"https://lindsaysabadosa.com/constituent-case-work",
-"https://lindsaysabadosa.com/contact-us",
-"https://lindsaysabadosa.com/criminal-justice-1",
-"https://lindsaysabadosa.com/democracy",
-"https://lindsaysabadosa.com/education-1",
-"https://lindsaysabadosa.com/events-1",
-"https://lindsaysabadosa.com/food-insecurity",
-"https://lindsaysabadosa.com/fuel-assistance",
-"https://lindsaysabadosa.com/giving-and-receiving-aid",
-"https://lindsaysabadosa.com/health-care-1",
-"https://lindsaysabadosa.com/housing-1",
-"https://lindsaysabadosa.com/housing-2",
-"https://lindsaysabadosa.com/immigration",
-"https://lindsaysabadosa.com/intern-with-us",
-"https://lindsaysabadosa.com/labor",
-"https://lindsaysabadosa.com/local-bills-1",
-"https://lindsaysabadosa.com/medicine-disposal",
-"https://lindsaysabadosa.com/new-page-5",
-"https://lindsaysabadosa.com/our-district",
-"https://lindsaysabadosa.com/our-team-1",
-"https://lindsaysabadosa.com/protecting-privacy-1",
-"https://lindsaysabadosa.com/public-health",
-"https://lindsaysabadosa.com/tax-assistance",
-"https://lindsaysabadosa.com/transportation-2",
-"https://lindsaysabadosa.com/working-with-state-agencies",
-"https://malegislature.gov/Bills/194/HD1541",
-"https://malegislature.gov/Bills/194/HD365",
-"https://malegislature.gov/Bills/194/HD4048",
-"https://malegislature.gov/Bills/194/HD4254",
-"https://malegislature.gov/Bills/194/HD715",
-"https://malegislature.gov/Bills/194/HD921"
+{
+"text": "ACCESSING HEALTH CARE",
+"href": "https://www.lindsaysabadosa.com/accessing-health-care"
+},
+{
+"text": "ADVOCACY & NEWS",
+"href": "https://www.lindsaysabadosa.com/advocacy-news"
+},
+{
+"text": "ASK FOR HELP",
+"href": "https://www.lindsaysabadosa.com/constituent-case-work"
+},
+{
+"text": "An Act protecting personal security",
+"href": "https://malegislature.gov/Bills/194/HD1541"
+},
+{
+"text": "An Act relating to protecting the interests of minor children featured on for-profit family vlogs",
+"href": "https://malegislature.gov/Bills/194/HD4048"
+},
+{
+"text": "An Act relative to adoptions",
+"href": "https://malegislature.gov/Bills/194/HD365"
+},
+{
+"text": "An Act relative to consumer health data",
+"href": "https://malegislature.gov/Bills/194/HD715"
+},
+{
+"text": "An Act relative to privileged communications in defamation actions",
+"href": "https://malegislature.gov/Bills/194/HD4048"
+},
+{
+"text": "An Act relative to surveillance pricing in grocery stores",
+"href": "https://malegislature.gov/Bills/194/HD921"
+},
+{
+"text": "An act relative to parent names on birth certificates",
+"href": "https://malegislature.gov/Bills/194/HD4254"
+},
+{
+"text": "BIO",
+"href": "https://www.lindsaysabadosa.com/about"
+},
+{
+"text": "CAUCUSES",
+"href": "https://www.lindsaysabadosa.com/caucuses-"
+},
+{
+"text": "CITATION REQUEST",
+"href": "https://www.lindsaysabadosa.com/citation-request"
+},
+{
+"text": "CIVIL RIGHTS & DEMOCRACY",
+"href": "https://www.lindsaysabadosa.com/democracy"
+},
+{
+"text": "CLIMATE",
+"href": "https://www.lindsaysabadosa.com/new-page-5"
+},
+{
+"text": "COMMISSIONS",
+"href": "https://www.lindsaysabadosa.com/committees-copy"
+},
+{
+"text": "COMMITTEES",
+"href": "https://www.lindsaysabadosa.com/committeevotes"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.lindsaysabadosa.com/contact-us"
+},
+{
+"text": "CRIMINAL JUSTICE",
+"href": "https://www.lindsaysabadosa.com/criminal-justice-1"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.lindsaysabadosa.com/education-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.lindsaysabadosa.com/events-1"
+},
+{
+"text": "FOOD INSECURITY",
+"href": "https://www.lindsaysabadosa.com/food-insecurity"
+},
+{
+"text": "FUEL ASSISTANCE",
+"href": "https://www.lindsaysabadosa.com/fuel-assistance"
+},
+{
+"text": "GIVING AND RECEIVING AID",
+"href": "https://www.lindsaysabadosa.com/giving-and-receiving-aid"
+},
+{
+"text": "HOME",
+"href": "https://www.lindsaysabadosa.com/"
+},
+{
+"text": "HOUSING",
+"href": "https://www.lindsaysabadosa.com/housing-1"
+},
+{
+"text": "HOUSING",
+"href": "https://www.lindsaysabadosa.com/housing-2"
+},
+{
+"text": "IMMIGRATION",
+"href": "https://www.lindsaysabadosa.com/immigration"
+},
+{
+"text": "INTERN WITH US",
+"href": "https://www.lindsaysabadosa.com/intern-with-us"
+},
+{
+"text": "LABOR",
+"href": "https://www.lindsaysabadosa.com/labor"
+},
+{
+"text": "LOCAL BILLS",
+"href": "https://www.lindsaysabadosa.com/local-bills-1"
+},
+{
+"text": "MEDICINE DISPOSAL",
+"href": "https://www.lindsaysabadosa.com/medicine-disposal"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.lindsaysabadosa.com/our-district"
+},
+{
+"text": "OUR TEAM",
+"href": "https://www.lindsaysabadosa.com/our-team-1"
+},
+{
+"text": "PROTECTING PRIVACY",
+"href": "https://www.lindsaysabadosa.com/protecting-privacy-1"
+},
+{
+"text": "PUBLIC HEALTH",
+"href": "https://www.lindsaysabadosa.com/public-health"
+},
+{
+"text": "REPRODUCTIVE AND MATERNAL HEALTH CARE",
+"href": "https://www.lindsaysabadosa.com/health-care-1"
+},
+{
+"text": "TAX ASSISTANCE",
+"href": "https://www.lindsaysabadosa.com/tax-assistance"
+},
+{
+"text": "TRANSPORTATION",
+"href": "https://www.lindsaysabadosa.com/transportation-2"
+},
+{
+"text": "WORKING WITH STATE AGENCIES",
+"href": "https://www.lindsaysabadosa.com/working-with-state-agencies"
+},
+{
+"text": "[image: LINDSAY SABADOSA]",
+"href": "https://www.lindsaysabadosa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sabadosama.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LSabadosaMA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sabadosama/"
+}
 ]

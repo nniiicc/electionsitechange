@@ -1,21 +1,102 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://lpcolorado.org/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://dougjones4co.com/",
-"https://dougjones4co.com/blog",
-"https://dougjones4co.com/donate",
-"https://dougjones4co.com/event-details/innovation-and-action-colorados-future-seminar",
-"https://dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15",
-"https://dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15-1",
-"https://dougjones4co.com/event-details/libertarian-family-picnic",
-"https://dougjones4co.com/event-details/uniting-colorado-a-common-ground-rally",
-"https://dougjones4co.com/event-details/volunteer-strategy-meetup-for-doug-jones-campaign",
-"https://dougjones4co.com/event-list",
-"https://dougjones4co.com/notifications",
-"https://dougjones4co.com/volunteer"
+{
+"text": "Blog",
+"href": "https://www.dougjones4co.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.dougjones4co.com/donate"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/innovation-and-action-colorados-future-seminar"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15-1"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/libertarian-family-picnic"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/uniting-colorado-a-common-ground-rally"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/volunteer-strategy-meetup-for-doug-jones-campaign"
+},
+{
+"text": "Events",
+"href": "https://www.dougjones4co.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.dougjones4co.com"
+},
+{
+"text": "Innovation and Action: Colorado's Future Seminar",
+"href": "https://www.dougjones4co.com/event-details/innovation-and-action-colorados-future-seminar"
+},
+{
+"text": "League of Women Voters Candidate Forum for House District 15",
+"href": "https://www.dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15"
+},
+{
+"text": "League of Women Voters Candidate Forum for House District 15",
+"href": "https://www.dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15-1"
+},
+{
+"text": "Libertarian Family Picnic",
+"href": "https://www.dougjones4co.com/event-details/libertarian-family-picnic"
+},
+{
+"text": "Notifications",
+"href": "https://www.dougjones4co.com/notifications"
+},
+{
+"text": "Uniting Colorado: A Common Ground Rally",
+"href": "https://www.dougjones4co.com/event-details/uniting-colorado-a-common-ground-rally"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dougjones4co.com/volunteer"
+},
+{
+"text": "Volunteer Strategy Meetup for Doug Jones Campaign",
+"href": "https://www.dougjones4co.com/event-details/volunteer-strategy-meetup-for-doug-jones-campaign"
+},
+{
+"text": "[image: Doug-Jones-for-Colorado-House-15-logo]",
+"href": "http://www.lpcolorado.org"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+}
 ]

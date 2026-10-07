@@ -1,17 +1,13 @@
-JOINT FUNDRAISING NOTICE
-Brandon Herrera Victory Committee is a joint fundraising committee composed of the following participants:
-- Brandon Herrera for Congress
-- BRANDON PAC
-- Patriotic Leadership PAC
-All contributions received by Brandon Herrera Victory Committee will be allocated as follows:
-The first $3,500 per contributor will be allocated to Brandon Herrera for Congress – General Election Fund (2026).
-The next $3,300 per contributor will be allocated to Brandon Herrera for Congress – Debt Repayment for 2024.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram JOINT FUNDRAISING NOTICE Brandon Herrera Victory Committee is a joint fundraising committee composed of the following participants: Brandon Herrera for Congress BRANDON PAC Patriotic Leadership PAC All contributions received by Brandon Herrera Victory Committee will be allocated as follows: The first $# per contributor will be allocated to Brandon Herrera for Congress – General Election Fund (2026) .
+The next $# per contributor will be allocated to Brandon Herrera for Congress – Debt Repayment for 2024 .
 These funds will repay candidate loans from the 2024 election cycle and will immediately be re-loaned to the campaign.
-The next $5,000 per contributor will be allocated to BRANDON PAC, a federal leadership PAC.
-The next $5,000 per contributor will be allocated to Patriotic Leadership PAC, an independent expenditure-only political committee (hybrid super PAC).
+The next $# per contributor will be allocated to BRANDON PAC , a federal leadership PAC.
+The next $# per contributor will be allocated to Patriotic Leadership PAC , an independent expenditure-only political committee (hybrid super PAC).
 Contributions allocated to this entity will be placed in its non-contribution account and may be used for independent expenditures.
 Any contributor may designate their contribution for a particular participant.
 The allocation formula above will be used for undesignated contributions.
 Contributions to Brandon Herrera for Congress and BRANDON PAC are subject to the limits and prohibitions of the Federal Election Campaign Act.
 Contributions to Patriotic Leadership PAC’s independent expenditure account are not subject to contribution limits but may not be made from foreign nationals.
 Contributions from corporations, labor organizations, federal government contractors, and foreign nationals are prohibited for Brandon Herrera for Congress and BRANDON PAC.
+Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

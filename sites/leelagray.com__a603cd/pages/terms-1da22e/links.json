@@ -1,18 +1,74 @@
 [
-"https://bsky.app/profile/leelagray.bsky.social",
-"https://facebook.com/profile.php?id=61587323275903",
-"https://instagram.com/LeelaJGray",
-"https://leelagray.com/",
-"https://leelagray.com/_sites/www.leelagray.com/terms",
-"https://leelagray.com/about",
-"https://leelagray.com/endorsements",
-"https://leelagray.com/issues",
-"https://leelagray.com/news",
-"https://leelagray.com/privacy-policy",
-"https://mobilize.us/leelagrayforcongress",
-"https://secure.actblue.com/donate/lg-web",
-"https://store.leelagray.com/",
-"https://tiktok.com/@LeelaGray5",
-"https://x.com/LeelaJGray",
-"https://youtube.com/@LeelaJGray"
+{
+"text": "About",
+"href": "https://www.leelagray.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lg-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leelagray.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://mobilize.us/leelagrayforcongress"
+},
+{
+"text": "Home",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.leelagray.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.leelagray.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leelagray.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.leelagray.com/"
+},
+{
+"text": "Terms",
+"href": "https://www.leelagray.com/_sites/www.leelagray.com/terms"
+},
+{
+"text": "[image: Leela Gray - Veteran for Florida]",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/leelagray.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61587323275903"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/LeelaJGray"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@LeelaGray5"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LeelaJGray"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LeelaJGray"
+},
+{
+"text": "outreach@leelagray.com",
+"href": "mailto:outreach@leelagray.com"
+}
 ]

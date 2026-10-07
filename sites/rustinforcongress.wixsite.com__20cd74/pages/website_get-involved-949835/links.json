@@ -1,10 +1,42 @@
 [
-"http://facebook.com/profile.php?id=100078170832887",
-"http://m.me/108349411804991",
-"https://rustinforcongress.wixsite.com/website",
-"https://rustinforcongress.wixsite.com/website/about-1",
-"https://rustinforcongress.wixsite.com/website/events",
-"https://rustinforcongress.wixsite.com/website/get-involved",
-"https://rustinforcongress.wixsite.com/website/projects-1",
-"https://wix.com/lpviral/enviral?adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=de36265c-4f26-4808-8990-78e78b00aca9&adsVersion=banner_2024"
+{
+"text": "About",
+"href": "https://rustinforcongress.wixsite.com/website/about-1"
+},
+{
+"text": "Events",
+"href": "https://rustinforcongress.wixsite.com/website/events"
+},
+{
+"text": "Get Involved",
+"href": "https://rustinforcongress.wixsite.com/website/get-involved"
+},
+{
+"text": "Home",
+"href": "https://rustinforcongress.wixsite.com/website"
+},
+{
+"text": "Projects",
+"href": "https://rustinforcongress.wixsite.com/website/projects-1"
+},
+{
+"text": "Rustin Provance For Wisconsin Congressional District 3",
+"href": "https://rustinforcongress.wixsite.com/website"
+},
+{
+"text": "This website was built on Wix. Create yours today.Get Started",
+"href": "https://www.wix.com/lpviral/enviral?adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=de36265c-4f26-4808-8990-78e78b00aca9&adsVersion=banner_2024"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/profile.php?id=100078170832887"
+},
+{
+"text": "[image]",
+"href": "http://m.me/108349411804991"
+},
+{
+"text": "rustinforcongress@gmail.com",
+"href": "mailto:rustinforcongress@gmail.com"
+}
 ]

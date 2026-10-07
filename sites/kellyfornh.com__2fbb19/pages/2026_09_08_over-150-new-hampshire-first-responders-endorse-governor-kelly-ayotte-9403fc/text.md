@@ -1,178 +1,24 @@
-NASHUA, N.H. — Last week, Governor Kelly Ayotte’s campaign launched its First Responders Coalition with endorsements from over 150 law enforcement officers, firefighters, and emergency medical personnel from across the Granite State.
+Skip to main content Skip to footer Opens in a new tab Vote Kelly — Keep New Hampshire Safe, Prosperous and Free!
+Home About Kelly Accomplishments News Join Team Kelly Donate Join Team Kelly Donate September 8, 2026 | Press Release Over 150 New Hampshire First Responders Endorse Governor Kelly Ayotte NASHUA, N.H. — Last week, Governor Kelly Ayotte’s campaign launched its First Responders Coalition with endorsements from over 150 law enforcement officers, firefighters, and emergency medical personnel from across the Granite State.
 The launch comes just weeks after New Hampshire was once again ranked the safest state in the nation.
-“I’m honored to have the support of first responders from across our state, and I’m grateful for the work we’ve done together to keep New Hampshire the safest state in the country,” said Governor Kelly Ayotte.
+“I’m honored to have the support of first responders from across our state, and I’m grateful for the work we’ve done together to keep New Hampshire the safest state in the country,” said Governor Kelly Ayotte .
 “These men and women put their lives on the line each day to protect our communities, and we’ll continue to make sure they have the resources and support they need to safely do their jobs.
-I will always have their backs, and together, we’ll ensure New Hampshire remains #1 for public safety for years to come.”
-“Governor Ayotte understands that keeping New Hampshire safe starts with standing with the men and women of law enforcement,” said Hillsborough County Sheriff Brian Newcomb.
+I will always have their backs, and together, we’ll ensure New Hampshire remains #1 for public safety for years to come.” “Governor Ayotte understands that keeping New Hampshire safe starts with standing with the men and women of law enforcement,” said Hillsborough County Sheriff Brian Newcomb .
 “From fixing the broken bail system and keeping dangerous repeat offenders off our streets to pushing critical highway safety initiatives, she has delivered for the Granite State.
-Kelly listens to us, supports us, and will never hesitate to put the safety of New Hampshire families first.”
-“Governor Ayotte has consistently stood with New Hampshire’s firefighters,” said Brian Ryll, President of the Professional Firefighters of New Hampshire.
+Kelly listens to us, supports us, and will never hesitate to put the safety of New Hampshire families first.” “Governor Ayotte has consistently stood with New Hampshire’s firefighters,” said Brian Ryll, President of the Professional Firefighters of New Hampshire .
 “From expanding access to mental health coverage and life-saving cancer screenings to restoring the retirement benefits our first responders have earned, she has ensured fire and EMS professionals across our state — and our families — get the support we need.
-We know Governor Ayotte has our backs, and we’re proud to have hers.”
-Members of the coalition include:
-- Firefighter/AEMT Adam Hamilton, Pelham Fire Department
-- Trooper Andrew Vautrin, New Hampshire State Police
-- Chief Anne Perriello, Pelham Police Department
-- Sergeant Anthony Cattabriga, New Hampshire State Police
-- Lieutenant Ben Williams, New Hampshire Liquor Commission: Division of Enforcement and Licensing
-- High Sheriff Bill Wright, Belknap County Sheriff’s Office
-- Deputy Sheriff Bob McConn, Hillsborough County Sheriff’s Office
-- Fire Marshal Brendan J.
-O’Sullivan, Durham Fire Department
-- Fire Captain Brian Ryll, Portsmouth Fire Department
-- High Sheriff Brian Newcomb, Hillsborough County Sheriff’s Office
-- Chief Brian Michael, Epsom Police Department
-- Firefighter/EMT Brian Johnson, Walpole Fire & EMS
-- BWC Manager Brian Pinsonneault, Nashua Police Department
-- Chief Brian Levesque, Merrimack Police Department
-- Trooper Cam Vetter, New Hampshire State Police
-- Fire Alarm Operator Supervisor Cassandra Leavitt, Hampton Fire & Rescue
-- District Court Prosecutor Cayla Slaughter, Campton Police Department
-- Officer Chris Dustin, Hillsboro Police Department
-- Deputy Chief Investigator Christopher Ward, New Hampshire Department of Corrections
-- Lieutenant Christopher Wyman, Merrimack Fire Rescue
-- High Sheriff Chuck Massahos, Rockingham County Sheriff’s Office
-- Trooper Conor Doyle, New Hampshire State Police
-- Firefighter/Paramedic Cylan Gosselin, Keene Fire Department
-- Trooper Dan Bourque, New Hampshire State Police
-- Captain/Shift Commander Daniel Nowill, Keene Fire Department
-- Chief Daniel Gilman, Thornton Police Department
-- Deputy Chief Danielle Ellston, New Hampshire Liquor Commission: Division of Enforcement and Licensing
-- Chief Dave Suckling, Alexandria Police Department
-- Lieutenant/Safety Officer David McElroy, Northwood Fire & Rescue
-- Patrolman/Digital Evidence Officer Dennis Mannion, Hampstead Police Department
-- Firefighter/EMT Derek Palmieri, Berlin Fire Department
-- EMT Donna Ehman, Raymond Ambulance
-- Fire Alarm Supervisor Eric Murphy, Nashua Fire & Rescue
-- Sergeant Garrett Rella, New Hampshire State Police
-- Chief Deputy Sheriff Gary Fisher, Hillsborough County Sheriff’s Office
-- Sergeant Greg Dube, New Hampshire State Police
-- Captain-Fire Prevention Ian Tewksbury, Hooksett Fire-Rescue Department
-- Lieutenant Jacob Hatch, Hillsborough County Sheriff’s Office
-- Fire Marshal Jason Smedick, Merrimack Fire & Rescue Department
-- Trooper Jason Yarosz, New Hampshire State Police
-- Sergeant Jay LaPointe, New Hampshire State Police
-- Bureau Chief of Investigations Jay Darrah, New Hampshire Department of Corrections
-- Fire Inspector and Investigator Jeff Labrie, Nashua Fire Department
-- Detective Jeremy Brann, New Hampshire State Police
-- Paramedic Admin Supervisor Joe Lipshetz, AMR
-- Chief Joe Wood, Bethlehem Fire Department
-- Trooper First Class John Fagerholm, New Hampshire State Police
-- Chief Jon Goldman, Lakes Region Mutual Fire Aid Association
-- Sergeant Jonathan Swift, Pittsfield Police Department
-- Officer Jonathan Nightingale, Auburn Police Department
-- Lieutenant Joseph Ronchi, New Hampshire State Police
-- State Trooper Joseph Leva, New Hampshire State Police
-- Sergeant Joshua Toms, Hillsborough County Sheriff’s Office
-- Investigator Joshua Beauchemin, New Hampshire Liquor Commission: Division of Enforcement and Licensing
-- Fire Captain/AEMT Justin Bellen, Milton Fire & Rescue
-- Dispatch Supervisor Kathleen Donovan, Grafton County Sheriff’s Office
-- Captain/Dispatcher Ken Paul, Wakefield Fire & Rescue, Wolfeboro Police Department
-- Dispatcher Kevin Nugent, Belknap County Sheriff’s Office
-- Deputy Sheriff Leandro Hidalgo, Hillsborough County Sheriff’s Office
-- Lieutenant Loran Sheley, Chester Fire Department
-- Captain/Paramedic Lucas Harvey, Littleton Fire Rescue
-- Major Matt Amatucci, New Hampshire State Police
-- Lieutenant Matt Hatcher, New Ipswich Fire Department
-- Staff Sergeant Matthew Locke, New Hampshire State Police
-- Sergeant Matthew Favreau, New Hampshire State Police
-- Trooper Matthew Dushame, New Hampshire State Police
-- EMT Megan Joyce-Root, Canaan Fire Rescue
-- EMT Melody Champagne, Dalton Fire Rescue
-- Deputy Sheriff Michael Merrifield, Hillsborough County Sheriff’s Office
-- Detective Michael Bruno, New Hampshire State Police
-- Firefighter Michael Sitar, Bedford Fire Department
-- Investigator Michael Machado, Hillsborough County Sheriff’s Office
-- Clinical Operations Manager/Paramedic Mike Steckevicz, Boston Medflight Manchester
-- Emergency Communications Dispatcher Nicholas Bridle, Derry Fire Department
-- Sergeant Nicky Cyr, New Hampshire State Police
-- Lieutenant Paul Callaghan, Strafford County Sheriff Office
-- Deputy Sheriff Paul Montray, Hillsborough County Sheriff’s Office
-- High Sheriff Keith Roberge, Coos County Sheriff’s Office
-- Captain Paul Kelly, Litchfield Fire Department
-- Chief Philip Cloutier, Gorham Fire & EMS
-- Chief Deputy Sheriff Raymond Pardy, Strafford County Sheriff’s Office
-- High Sheriff David Croft, Merrimack County Sheriff’s Office
-- Lieutenant Richard Bilodeau, Loudon Fire Department
-- Deputy Sheriff Rick Walter, Belknap County Sheriff’s Office
-- Firefighter/Union President Robert Skrocki, Keene Fire Department
-- Trooper Robert Selfridge, New Hampshire State Police
-- Chief Robert Faas, Rindge Fire Department
-- Firefighter/AEMT Scott Mooney, Gilford Fire & Rescue
-- Detective Sergeant Sean Smarz, New Hampshire State Police
-- Lieutenant Sean Eaton, New Hampshire State Police
-- Deputy Sheriff Sean Kilbreth, Hillsborough County Sheriff’s Office
-- Sergeant Seth Turner, New Hampshire State Police
-- Officer Seth Murch, Hampton Police Department
-- Trooper Stefan Czyzowski, New Hampshire State Police
-- Lieutenant Stephen McMullen, Wakefield Fire Rescue
-- Fire Investigator Stephen Dennis, Department of Safety
-- Sergeant Stephen Wallin, Merrimack Police Department
-- Captain Steve Sloper, New Hampshire State Police
-- Court Security Officer Steven Reynolds, Administrative Office of the Courts
-- Fire Inspector Steven Dube, Litchfield Fire & Rescue
-- Detective Steven Carter, Concord Police Department
-- Lieutenant Thomas Burke, Hillsborough County Sheriff’s Office
-- President Thomas Green, New Hampshire State Firemen’s Association
-- Chief Tom Hebert, Milton Police Department
-- Trooper Tyler Dodds, New Hampshire State Police
-- Probationary Trooper Zach Adler, New Hampshire State Police
-- Chief Zachary Byam, Marlborough Police Department
-- Officer Timothy Beers, Franklin Police Department
-- Firefighter/AEMT Lauren Cote
-- Chief Ben Hatcher, New Ipswich Fire Department
-- Paramedic Leanne Spears, Linwood Ambulance Service
-- Deputy Chief Mark Proulx, Epping Fire Rescue
-- Detective Chip Morley (Ret.), Bedford Police Department
-- Firefighter/Paramedic Daniel Gorman (Ret.), Hollis Fire Department
-- Sergeant Danielle Nightingale (Ret.), Bedford Police Department
-- Chief Deborah Black (Ret.), Belmont Fire Department
-- Director/Chief Donald Vittum (Ret.), Police Standards and Training
-- Chief Douglas Wyman (Ret.), Sandwich Police Department
-- Sheriff Douglas Dutile (Ret.), Grafton County Sheriff’s Office
-- Dispatcher Ed Walsh (Ret.), Portsmouth Emergency Communications Center
-- Captain Jeff Ladieu (Ret.), New Hampshire State Police
-- DBHRT/Firefighter/EMT John McIntear (Ret.), DHHS Bureau of Emergency Response Personnel
-- Deputy Sheriff John Clark (Ret.), Sullivan County Sheriff’s Office
-- Chief Probation/Parole Officer (Ret.) John Clemons, New Hampshire Department of Corrections
-- Officer Caren Machado (Ret.), New York City Police Department
-- Parole/Probation Chief (Ret.) Keith Phelps, New Hampshire Department of Corrections
-- Captain Kerry Baxter (Ret.), Nashua Police Department
-- Chief Kyle Aspinwall (Ret.), Mont Vernon Police Department
-- Dispatcher Lynn Fitzpatrick (Ret.), Manchester Fire Department
-- Deputy Sheriff Matthew Poulicakos (Ret.), Hillsborough County Sheriff’s Office
-- Captain Michael Auciello (Ret.), Hillsborough County Sheriff’s Office
-- Officer Michelle Murch (Ret.), Dover Police Department
-- Lieutenant Nicole Armaganian (Ret.), New Hampshire State Police
-- Paul Brodeur (Ret.), Manchester Police Department
-- Fire Marshal Peter Lennon (Ret.), Manchester Fire Department
-- Investigator Peter Morency (Ret.), Coos County Sheriff’s Office
-- Captain Peter Franggos (Ret.), Manchester Fire Department
-- Chief Rob Browne (Ret.), Goffstown Police Department
-- Deputy Sheriff Sean Ford (Ret.), Hillsborough County Sheriff’s Office
-- Chief Shawn Murray (Ret.), Hudson Fire Department
-- Chief Stephen Monier (Ret.), Goffstown Police Department
-- Assistant Chief Steve Mangone (Ret.), Manchester Police Department
-- Chief Steven Marshall (Ret.), Washington Police Department
-- Former Firefighter Brandon Thompson, New Ipswich Fire Department
-- Sergeant Steven Henderson (Ret.), Hampton Police Department
-- Captain Sturdy Thomas (Ret.), Keene Police Department
-- Lieutenant Theodore Dillon (Ret.), Merrimack Police Department
-- Chief Investigator Thomas Hart (Ret.), Strafford County Attorney’s Office
-- Detective Sergeant Thomas Maille (Ret.), Bedford Police Department
-- Chief Vinnie Baiocchetti (Ret.), Belmont Police Department
-- Detective Bill Sommer (Ret.), Southampton Police Department
-Governor Ayotte’s public safety accomplishments include:
-- Led the fight for a bipartisan law to fix the broken bail system and keep dangerous repeat offenders off New Hampshire’s streets
-- Established a Domestic Violence Fatality Review Committee
-- Launched a firefighter cancer screening program
-- Expanded access to mental health coverage for volunteer first responders
-- Strengthened penalties for DUI test refusals
-- Invested in a new system to ensure timely restitution payments for crime victims
-- Reversed cuts to first responder retirement benefits
-- Fully funded the Northern Border Alliance
-- Improved coordination between agencies on public safety
-- Expanded drug interdiction efforts
-- Established a Highway Safety Task Force
-- Strengthened penalties for human trafficking
-- Cracked down on AI-generated child sexual abuse material
+We know Governor Ayotte has our backs, and we’re proud to have hers.” Members of the coalition include: Firefighter/AEMT Adam Hamilton, Pelham Fire Department Trooper Andrew Vautrin, New Hampshire State Police Chief Anne Perriello, Pelham Police Department Sergeant Anthony Cattabriga, New Hampshire State Police Lieutenant Ben Williams, New Hampshire Liquor Commission: Division of Enforcement and Licensing High Sheriff Bill Wright, Belknap County Sheriff’s Office Deputy Sheriff Bob McConn, Hillsborough County Sheriff’s Office Fire Marshal Brendan J.
+O’Sullivan, Durham Fire Department Fire Captain Brian Ryll, Portsmouth Fire Department High Sheriff Brian Newcomb, Hillsborough County Sheriff’s Office Chief Brian Michael, Epsom Police Department Firefighter/EMT Brian Johnson, Walpole Fire & EMS BWC Manager Brian Pinsonneault, Nashua Police Department Chief Brian Levesque, Merrimack Police Department Trooper Cam Vetter, New Hampshire State Police Fire Alarm Operator Supervisor Cassandra Leavitt, Hampton Fire & Rescue District Court Prosecutor Cayla Slaughter, Campton Police Department Officer Chris Dustin, Hillsboro Police Department Deputy Chief Investigator Christopher Ward, New Hampshire Department of Corrections Lieutenant Christopher Wyman, Merrimack Fire Rescue High Sheriff Chuck Massahos, Rockingham County Sheriff’s Office Trooper Conor Doyle, New Hampshire State Police Firefighter/Paramedic Cylan Gosselin, Keene Fire Department Trooper Dan Bourque, New Hampshire State Police Captain/Shift Commander Daniel Nowill, Keene Fire Department Chief Daniel Gilman, Thornton Police Department Deputy Chief Danielle Ellston, New Hampshire Liquor Commission: Division of Enforcement and Licensing Chief Dave Suckling, Alexandria Police Department Lieutenant/Safety Officer David McElroy, Northwood Fire & Rescue Patrolman/Digital Evidence Officer Dennis Mannion, Hampstead Police Department Firefighter/EMT Derek Palmieri, Berlin Fire Department EMT Donna Ehman, Raymond Ambulance Fire Alarm Supervisor Eric Murphy, Nashua Fire & Rescue Sergeant Garrett Rella, New Hampshire State Police Chief Deputy Sheriff Gary Fisher, Hillsborough County Sheriff’s Office Sergeant Greg Dube, New Hampshire State Police Captain-Fire Prevention Ian Tewksbury, Hooksett Fire-Rescue Department Lieutenant Jacob Hatch, Hillsborough County Sheriff’s Office Fire Marshal Jason Smedick, Merrimack Fire & Rescue Department Trooper Jason Yarosz, New Hampshire State Police Sergeant Jay LaPointe, New Hampshire State Police Bureau Chief of Investigations Jay Darrah, New Hampshire Department of Corrections Fire Inspector and Investigator Jeff Labrie, Nashua Fire Department Detective Jeremy Brann, New Hampshire State Police Paramedic Admin Supervisor Joe Lipshetz, AMR Chief Joe Wood, Bethlehem Fire Department Trooper First Class John Fagerholm, New Hampshire State Police Chief Jon Goldman, Lakes Region Mutual Fire Aid Association Sergeant Jonathan Swift, Pittsfield Police Department Officer Jonathan Nightingale, Auburn Police Department Lieutenant Joseph Ronchi, New Hampshire State Police State Trooper Joseph Leva, New Hampshire State Police Sergeant Joshua Toms, Hillsborough County Sheriff’s Office Investigator Joshua Beauchemin, New Hampshire Liquor Commission: Division of Enforcement and Licensing Fire Captain/AEMT Justin Bellen, Milton Fire & Rescue Dispatch Supervisor Kathleen Donovan, Grafton County Sheriff’s Office Captain/Dispatcher Ken Paul, Wakefield Fire & Rescue, Wolfeboro Police Department Dispatcher Kevin Nugent, Belknap County Sheriff’s Office Deputy Sheriff Leandro Hidalgo, Hillsborough County Sheriff’s Office Lieutenant Loran Sheley, Chester Fire Department Captain/Paramedic Lucas Harvey, Littleton Fire Rescue Major Matt Amatucci, New Hampshire State Police Lieutenant Matt Hatcher, New Ipswich Fire Department Staff Sergeant Matthew Locke, New Hampshire State Police Sergeant Matthew Favreau, New Hampshire State Police Trooper Matthew Dushame, New Hampshire State Police EMT Megan Joyce-Root, Canaan Fire Rescue EMT Melody Champagne, Dalton Fire Rescue Deputy Sheriff Michael Merrifield, Hillsborough County Sheriff’s Office Detective Michael Bruno, New Hampshire State Police Firefighter Michael Sitar, Bedford Fire Department Investigator Michael Machado, Hillsborough County Sheriff’s Office Clinical Operations Manager/Paramedic Mike Steckevicz, Boston Medflight Manchester Emergency Communications Dispatcher Nicholas Bridle, Derry Fire Department Sergeant Nicky Cyr, New Hampshire State Police Lieutenant Paul Callaghan, Strafford County Sheriff Office Deputy Sheriff Paul Montray, Hillsborough County Sheriff’s Office High Sheriff Keith Roberge, Coos County Sheriff’s Office Captain Paul Kelly, Litchfield Fire Department Chief Philip Cloutier, Gorham Fire & EMS Chief Deputy Sheriff Raymond Pardy, Strafford County Sheriff’s Office High Sheriff David Croft, Merrimack County Sheriff’s Office Lieutenant Richard Bilodeau, Loudon Fire Department Deputy Sheriff Rick Walter, Belknap County Sheriff’s Office Firefighter/Union President Robert Skrocki, Keene Fire Department Trooper Robert Selfridge, New Hampshire State Police Chief Robert Faas, Rindge Fire Department Firefighter/AEMT Scott Mooney, Gilford Fire & Rescue Detective Sergeant Sean Smarz, New Hampshire State Police Lieutenant Sean Eaton, New Hampshire State Police Deputy Sheriff Sean Kilbreth, Hillsborough County Sheriff’s Office Sergeant Seth Turner, New Hampshire State Police Officer Seth Murch, Hampton Police Department Trooper Stefan Czyzowski, New Hampshire State Police Lieutenant Stephen McMullen, Wakefield Fire Rescue Fire Investigator Stephen Dennis, Department of Safety Sergeant Stephen Wallin, Merrimack Police Department Captain Steve Sloper, New Hampshire State Police Court Security Officer Steven Reynolds, Administrative Office of the Courts Fire Inspector Steven Dube, Litchfield Fire & Rescue Detective Steven Carter, Concord Police Department Lieutenant Thomas Burke, Hillsborough County Sheriff’s Office President Thomas Green, New Hampshire State Firemen’s Association Chief Tom Hebert, Milton Police Department Trooper Tyler Dodds, New Hampshire State Police Probationary Trooper Zach Adler, New Hampshire State Police Chief Zachary Byam, Marlborough Police Department Officer Timothy Beers, Franklin Police Department Firefighter/AEMT Lauren Cote Chief Ben Hatcher, New Ipswich Fire Department Paramedic Leanne Spears, Linwood Ambulance Service Deputy Chief Mark Proulx, Epping Fire Rescue Detective Chip Morley (Ret.), Bedford Police Department Firefighter/Paramedic Daniel Gorman (Ret.), Hollis Fire Department Sergeant Danielle Nightingale (Ret.), Bedford Police Department Chief Deborah Black (Ret.), Belmont Fire Department Director/Chief Donald Vittum (Ret.), Police Standards and Training Chief Douglas Wyman (Ret.), Sandwich Police Department Sheriff Douglas Dutile (Ret.), Grafton County Sheriff’s Office Dispatcher Ed Walsh (Ret.), Portsmouth Emergency Communications Center Captain Jeff Ladieu (Ret.), New Hampshire State Police DBHRT/Firefighter/EMT John McIntear (Ret.), DHHS Bureau of Emergency Response Personnel Deputy Sheriff John Clark (Ret.), Sullivan County Sheriff’s Office Chief Probation/Parole Officer (Ret.) John Clemons, New Hampshire Department of Corrections Officer Caren Machado (Ret.), New York City Police Department Parole/Probation Chief (Ret.) Keith Phelps, New Hampshire Department of Corrections Captain Kerry Baxter (Ret.), Nashua Police Department Chief Kyle Aspinwall (Ret.), Mont Vernon Police Department Dispatcher Lynn Fitzpatrick (Ret.), Manchester Fire Department Deputy Sheriff Matthew Poulicakos (Ret.), Hillsborough County Sheriff’s Office Captain Michael Auciello (Ret.), Hillsborough County Sheriff’s Office Officer Michelle Murch (Ret.), Dover Police Department Lieutenant Nicole Armaganian (Ret.), New Hampshire State Police Paul Brodeur (Ret.), Manchester Police Department Fire Marshal Peter Lennon (Ret.), Manchester Fire Department Investigator Peter Morency (Ret.), Coos County Sheriff’s Office Captain Peter Franggos (Ret.), Manchester Fire Department Chief Rob Browne (Ret.), Goffstown Police Department Deputy Sheriff Sean Ford (Ret.), Hillsborough County Sheriff’s Office Chief Shawn Murray (Ret.), Hudson Fire Department Chief Stephen Monier (Ret.), Goffstown Police Department Assistant Chief Steve Mangone (Ret.), Manchester Police Department Chief Steven Marshall (Ret.), Washington Police Department Former Firefighter Brandon Thompson, New Ipswich Fire Department Sergeant Steven Henderson (Ret.), Hampton Police Department Captain Sturdy Thomas (Ret.), Keene Police Department Lieutenant Theodore Dillon (Ret.), Merrimack Police Department Chief Investigator Thomas Hart (Ret.), Strafford County Attorney’s Office Detective Sergeant Thomas Maille (Ret.), Bedford Police Department Chief Vinnie Baiocchetti (Ret.), Belmont Police Department Detective Bill Sommer (Ret.), Southampton Police Department Governor Ayotte’s public safety accomplishments include: Led the fight for a bipartisan law to fix the broken bail system and keep dangerous repeat offenders off New Hampshire’s streets Established a Domestic Violence Fatality Review Committee Launched a firefighter cancer screening program Expanded access to mental health coverage for volunteer first responders Strengthened penalties for DUI test refusals Invested in a new system to ensure timely restitution payments for crime victims Reversed cuts to first responder retirement benefits Fully funded the Northern Border Alliance Improved coordination between agencies on public safety Expanded drug interdiction efforts Established a Highway Safety Task Force Strengthened penalties for human trafficking Cracked down on AI-generated child sexual abuse material Donate to Keep New Hampshire Safe, Prosperous, and Free $5 $10 $25 $50 $100 $250 Want to donate another amount?
+Click here Sign Up for Updates Sign Up - Vertical First Name Email Mobile Number Zip Code By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Kelly for New Hampshire, Inc..
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Terms & conditions / privacy policy apply .
+Join the Team Home About Kelly Accomplishments News Get Involved Donate Paid for by Kelly for New Hampshire, Inc.
+PO Box 4723, Manchester, NH 03108 Christopher Connelly, Treasurer Please provide your mobile phone to opt-in to Kelly for New Hampshire, Inc. campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy

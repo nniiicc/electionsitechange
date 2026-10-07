@@ -1,18 +1,70 @@
 [
-"http://danielbiss.com/",
-"https://bsky.app/profile/danielbiss.bsky.social",
-"https://danielbiss.com/",
-"https://danielbiss.com/contact",
-"https://danielbiss.com/endorsements",
-"https://danielbiss.com/issues",
-"https://danielbiss.com/resources",
-"https://danielbiss.substack.com/",
-"https://designedtorun.com/",
-"https://facebook.com/danielbiss",
-"https://instagram.com/daniel.biss",
-"https://mobilize.us/danielbiss/event/827815",
-"https://secure.actblue.com/donate/dkb-web",
-"https://tiktok.com/@bissforcongress",
-"https://x.com/danielbiss",
-"https://youtube.com/@bissforcongress?si=iaW1q5g_gjeIX7aj"
+{
+"text": "Contact",
+"href": "https://www.danielbiss.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dkb-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danielbiss.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.danielbiss.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Resources",
+"href": "https://www.danielbiss.com/resources"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/danielbiss/event/827815/"
+},
+{
+"text": "[image: Daniel Biss for Congress]",
+"href": "https://www.danielbiss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/danielbiss.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://danielbiss.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/danielbiss"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/daniel.biss"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bissforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/danielbiss"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@bissforcongress?si=iaW1q5g_gjeIX7aj"
+},
+{
+"text": "danielbiss.com",
+"href": "http://danielbiss.com"
+},
+{
+"text": "info@",
+"href": "mailto:info@danielbiss.com"
+}
 ]

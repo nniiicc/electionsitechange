@@ -1,6 +1,6 @@
-Happy St.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Happy St.
 Patrick’s Day, Colorado!
-One year ago today, I had the honor to attend the first Official State visit hosted by the White House for Prime Minister Micheál Martin of Ireland on St.
+Mar 17 Written By Jack Cutter #ago today, I had the honor to attend the first Official State visit hosted by the White House for Prime Minister Micheál Martin of Ireland on St.
 Patrick’s Day.
 President Trump and Prime Minister Martin celebrated an Irish American tradition that dates to 1952, with the gift of Shamrocks to the White House.
 During the event, I met several legislators from Ireland, and we discussed ways to increase trade between Colorado and Ireland.
@@ -14,8 +14,10 @@ Ireland is a gateway to the European Union, and the United Kingdom.
 We would have been able to trade anything from medical equipment like heart stents to everyone’s favorite Colorado Beef.
 Unfortunately, we were unable to move the bill forward this session, but we will bring it back next session.
 My great-grandparents were immigrants from Ireland.
-They settled in Douglas, Wyoming. 31.5 million Americans claim Irish ancestry (about 1 in 10 Americans), and about half of all U.S.
+They settled in Douglas, Wyoming.
+31.5 million Americans claim Irish ancestry (about 1 in 10 Americans), and about half of all U.S.
 Presidents had Irish ancestry.
 Irish Americans have served our country with pride in the military and have played a major role in building and shaping the United States.
 Their legacy continues to be a meaningful part of the American story.
-Go n-éirí an bóthar leat, “May the road rise to meet you.”
+Go n-éirí an bóthar leat, “May the road rise to meet you.” It was an incredible honor to receive the Ireland Seal of Office from the President of Ireland’s Senate, Mark Daly.
+Jack Cutter Previous Previous STOLEN DOLLARS: Colorado’s Attack On TABOR Next Next I Will Continue To Fight For Common Sense Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

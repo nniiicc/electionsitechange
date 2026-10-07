@@ -1,9 +1,30 @@
 [
-"https://andrewmathews.com/",
-"https://andrewmathews.com/author/josh",
-"https://andrewmathews.com/contact",
-"https://andrewmathews.com/donate",
-"https://andrewmathews.com/issues",
-"https://facebook.com/SenAndrewMathews",
-"https://twitter.com/AndrewMathewsMN"
+{
+"text": "Andrew’s Issues",
+"href": "https://andrewmathews.com/issues/"
+},
+{
+"text": "Contact Andrew",
+"href": "https://andrewmathews.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://andrewmathews.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SenAndrewMathews/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/AndrewMathewsMN"
+},
+{
+"text": "[image: Andrew Mathews for State Senate Logo]",
+"href": "https://andrewmathews.com/"
+},
+{
+"text": "josh",
+"href": "https://andrewmathews.com/author/josh/"
+}
 ]

@@ -1,40 +1,210 @@
 [
-"http://facebook.com/hobbskatie",
-"http://instagram.com/katie4az",
-"http://twitter.com/katiehobbs",
-"http://youtube.com/@KatieHobbsAZ",
-"https://52092-info.com/",
-"https://arizona.vote/",
-"https://go.katiehobbs.org/signup/katie-hobbs-sms-signup",
-"https://katiehobbs.org/",
-"https://katiehobbs.org/campaign-updates",
-"https://katiehobbs.org/campaign-updates/in-the-news",
-"https://katiehobbs.org/campaign-updates/in-the-news/page/2",
-"https://katiehobbs.org/campaign-updates/in-the-news/page/4",
-"https://katiehobbs.org/campaign-updates/in-the-news/page/5",
-"https://katiehobbs.org/campaign-updates/in-the-news/page/6",
-"https://katiehobbs.org/campaign-updates/press-releases",
-"https://katiehobbs.org/donate",
-"https://katiehobbs.org/get-involved",
-"https://katiehobbs.org/get-involved/email-signup",
-"https://katiehobbs.org/get-involved/volunteer",
-"https://katiehobbs.org/home/election-updates-2026",
-"https://katiehobbs.org/katie-hobbs-launches-familias-primero-coalition",
-"https://katiehobbs.org/meet-john",
-"https://katiehobbs.org/meet-katie",
-"https://katiehobbs.org/privacy-policy",
-"https://katiehobbs.org/roundup-katie-hobbs-crisscrosses-state-on-arizona-first-tour-meeting-with-families-farmers-small-businesses-and-healthcare-providers",
-"https://katiehobbs.org/roundup-katie-hobbs-launches-familias-primero-coalition",
-"https://katiehobbs.org/roundup-katie-hobbs-votes-early-alongside-students-at-arizona-state-university",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=0",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=20.26",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=50",
-"https://store.katiehobbs.org/"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=50"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=100"
+},
+{
+"text": "$20.26",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=20.26"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=50"
+},
+{
+"text": "1",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/"
+},
+{
+"text": "2",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/page/2/"
+},
+{
+"text": "4",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/page/4/"
+},
+{
+"text": "5",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/page/5/"
+},
+{
+"text": "6",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/page/6/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://katiehobbs.org/campaign-updates/"
+},
+{
+"text": "Contribute",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Election Updates 2026",
+"href": "https://katiehobbs.org/home/election-updates-2026/"
+},
+{
+"text": "Email Signup",
+"href": "https://katiehobbs.org/get-involved/email-signup/"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://katiehobbs.org/get-involved"
+},
+{
+"text": "In the News",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/"
+},
+{
+"text": "Join",
+"href": "https://katiehobbs.org/get-involved/"
+},
+{
+"text": "Katie Hobbs Launches Familias Primero Coalition",
+"href": "https://katiehobbs.org/katie-hobbs-launches-familias-primero-coalition/"
+},
+{
+"text": "Meet John",
+"href": "https://katiehobbs.org/meet-john/"
+},
+{
+"text": "Meet Katie",
+"href": "https://katiehobbs.org/meet-katie/"
+},
+{
+"text": "Meet Katie Meet Katie",
+"href": "https://katiehobbs.org/meet-katie"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=0"
+},
+{
+"text": "Press Releases",
+"href": "https://katiehobbs.org/campaign-updates/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katiehobbs.org/privacy-policy"
+},
+{
+"text": "ROUNDUP: Katie Hobbs Crisscrosses State on Arizona First Tour, Meeting with Families, Farmers, Small Businesses, and Healthcare Providers",
+"href": "https://katiehobbs.org/roundup-katie-hobbs-crisscrosses-state-on-arizona-first-tour-meeting-with-families-farmers-small-businesses-and-healthcare-providers/"
+},
+{
+"text": "ROUNDUP: Katie Hobbs Launches Familias Primero Coalition",
+"href": "https://katiehobbs.org/roundup-katie-hobbs-launches-familias-primero-coalition/"
+},
+{
+"text": "ROUNDUP: Katie Hobbs Votes Early Alongside Students at Arizona State University",
+"href": "https://katiehobbs.org/roundup-katie-hobbs-votes-early-alongside-students-at-arizona-state-university/"
+},
+{
+"text": "Read More",
+"href": "https://katiehobbs.org/katie-hobbs-launches-familias-primero-coalition/"
+},
+{
+"text": "Read More",
+"href": "https://katiehobbs.org/roundup-katie-hobbs-crisscrosses-state-on-arizona-first-tour-meeting-with-families-farmers-small-businesses-and-healthcare-providers/"
+},
+{
+"text": "Read More",
+"href": "https://katiehobbs.org/roundup-katie-hobbs-launches-familias-primero-coalition/"
+},
+{
+"text": "Read More",
+"href": "https://katiehobbs.org/roundup-katie-hobbs-votes-early-alongside-students-at-arizona-state-university/"
+},
+{
+"text": "Store",
+"href": "https://store.katiehobbs.org"
+},
+{
+"text": "Terms of Service",
+"href": "https://52092-info.com"
+},
+{
+"text": "Text Message Updates",
+"href": "https://go.katiehobbs.org/signup/katie-hobbs-sms-signup/"
+},
+{
+"text": "Updates",
+"href": "https://katiehobbs.org/campaign-updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://katiehobbs.org/get-involved/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.arizona.vote/"
+},
+{
+"text": "[image: Katie Hobbs for Governor]",
+"href": "https://katiehobbs.org"
+},
+{
+"text": "[image: Katie Hobbs for Governor]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/hobbskatie"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/katie4az"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/katiehobbs"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@KatieHobbsAZ"
+},
+{
+"text": "[no text]",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/page/2/"
+},
+{
+"text": "[no text]",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/page/4/"
+},
+{
+"text": "info@katiehobbs.org",
+"href": "mailto:info@katiehobbs.org"
+}
 ]

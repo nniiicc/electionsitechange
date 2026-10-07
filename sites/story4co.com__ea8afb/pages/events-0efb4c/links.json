@@ -1,131 +1,902 @@
 [
-"http://facebook.com/story4co",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beverages+%26amp%3B+Bites+Supporting+Tammy+Story&dates=20241020T220000Z%2F20241021T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beverages+and+Bites+on+Sep.+6th&dates=20240906T233000Z%2F20240907T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Littleton&dates=20241019T150000Z%2F20241019T190000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rep.+Story+and+Sen.+Kolker+on+Aug.+31st&dates=20240831T150000Z%2F20240831T190000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation&dates=20240910T140000Z%2F20240910T153000Z&location=29003+Upper+Bear+Creek+Road%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+and+Conversation&dates=20260812T140000Z%2F20260812T153000Z&location=6328+South+Turkey+Creek+Road%2C+Morrison%2C+CO%2C+80465%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+and+Conversation+on+Sep.+20th&dates=20240920T140000Z%2F20240920T153000Z&location=6328+South+Turkey+Creek+Road%2C+Morrison%2C+CO%2C+80465%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day+Team+Tammy+Phone+Bank+&dates=20241105T140000Z%2F20241106T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fall+Canvassing+Kickoff+for+Team+Tammy&dates=20240928T150000Z%2F20240928T210000Z&location=16235+West+Belleview+Avenue%2C+Morrison%2C+CO%2C+80465%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Halloween+Phone+Bank+Party&dates=20241031T220000Z%2F20241101T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Jeffco+Foothills+Town+Hall%3A+Ballot+Breakdown&dates=20241005T150000Z%2F20241005T163000Z&location=5000+County+Highway+73%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+w%2F+Rep.+Story+and+Sen.+Kolker&dates=20240907T150000Z%2F20240907T190000Z&location=8800+West+Columbine+Drive%2C+Littleton%2C+CO%2C+80128%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+w%2F+Rep.+Story+and+Sen.+Kolker&dates=20240914T150000Z%2F20240914T190000Z&location=7950+Sangre+De+Cristo+Road%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Looking+Forward%3A+Supporting+Tammy+Story&dates=20241004T000000Z%2F20241004T013000Z&location=Littleton%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Party+with+a+Purpose%21+&dates=20241011T233000Z%2F20241012T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pints+and+Politics&dates=20260817T230000Z%2F20260818T003000Z&location=27618+Fireweed+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pints+and+Politics+on+Sep.+23rd&dates=20240923T230000Z%2F20240924T013000Z&location=27845+Colorado+74%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Solstice+Campaign+Kickoff&dates=20260625T233000Z%2F20260626T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass&dates=20240920T160000Z%2F20240920T200000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass&dates=20240921T160000Z%2F20240921T200000Z&location=8800+West+Columbine+Drive%2C+Littleton%2C+CO%2C+80128%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass&dates=20241030T160000Z%2F20241030T200000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+AFL-CIO%2C+CEA+%26amp%3B+Affiliates&dates=20241103T170000Z%2F20241103T210000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+LiUNA+&dates=20241102T150000Z%2F20241102T200000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Rep.+Mabrey&dates=20241013T230000Z%2F20241014T020000Z&location=27+Mule+Deer+Trail%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Rep.+Mabrey&dates=20241023T223000Z%2F20241024T023000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Sen.+Kolker%2C+Planned+Parenthood+Votes%2C+Cobalt%2C+and+COLOR+AF&dates=20241013T150000Z%2F20241013T190000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Young+Dems&dates=20241027T160000Z%2F20241027T200000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvassing%3A+Evergreen+Day+of+Action&dates=20241012T190000Z%2F20241013T000000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvassing+with+Rep.+Clifford&dates=20241009T213000Z%2F20241010T003000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Phone+Bank&dates=20241024T230000Z%2F20241025T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall-+Ballot+Initiative+Forum&dates=20261010T153000Z%2F20261010T173000Z&location=5000+County+Highway+73%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://maps.google.com/?q=+Littleton%2C+CO",
-"http://maps.google.com/?q=10558+West+Vista+View+Drive+Littleton%2C+CO%2C+80127+United+States",
-"http://maps.google.com/?q=16235+West+Belleview+Avenue+Morrison%2C+CO%2C+80465+United+States",
-"http://maps.google.com/?q=27+Mule+Deer+Trail+Littleton%2C+CO%2C+80127+United+States",
-"http://maps.google.com/?q=27618+Fireweed+Drive+Evergreen%2C+CO%2C+80439+United+States",
-"http://maps.google.com/?q=27845+Colorado+74+Evergreen%2C+CO%2C+80439+United+States",
-"http://maps.google.com/?q=29003+Upper+Bear+Creek+Road+Evergreen%2C+CO%2C+80439+United+States",
-"http://maps.google.com/?q=3229+El+Pinal+Drive+Evergreen%2C+CO%2C+80439+United+States",
-"http://maps.google.com/?q=5000+County+Highway+73+Evergreen%2C+CO%2C+80439+United+States",
-"http://maps.google.com/?q=6328+South+Turkey+Creek+Road+Morrison%2C+CO%2C+80465+United+States",
-"http://maps.google.com/?q=7950+Sangre+De+Cristo+Road+Littleton%2C+CO%2C+80127+United+States",
-"http://maps.google.com/?q=8800+West+Columbine+Drive+Littleton%2C+CO%2C+80128+United+States",
-"http://maps.google.com/?q=RSVP+For+More+Details",
-"https://forms.gle/AzNLgZH6j2PrCYR5A",
-"https://forms.gle/UJMABDhaTKsDQURY7",
-"https://forms.gle/YXgNH2umGpTG3PAg7",
-"https://forms.gle/fsVB5mn3wTFnfJMXA",
-"https://forms.gle/idFCK1syT378SgBk6",
-"https://forms.gle/zWsEJkmjgWWe7nTP8",
-"https://instagram.com/story4co",
-"https://secure.actblue.com/donate/story-for-colorado-1",
-"https://story4co.com/",
-"https://story4co.com/achievements",
-"https://story4co.com/contact",
-"https://story4co.com/donate",
-"https://story4co.com/endorsements",
-"https://story4co.com/events",
-"https://story4co.com/events//teamtammycanvasswithrepmabrey",
-"https://story4co.com/events//teamtammycanvasswithrepmabrey?format=ical",
-"https://story4co.com/events/2024/10/19/canvass-in-littleton",
-"https://story4co.com/events/2024/10/19/canvass-in-littleton?format=ical",
-"https://story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker",
-"https://story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker?format=ical",
-"https://story4co.com/events/2024/9/20/coffeeandconversation",
-"https://story4co.com/events/2024/9/20/coffeeandconversation?format=ical",
-"https://story4co.com/events/2024/9/21/team-tammy-canvass",
-"https://story4co.com/events/2024/9/21/team-tammy-canvass?format=ical",
-"https://story4co.com/events/2024/9/27pintandpolitics",
-"https://story4co.com/events/2024/9/27pintandpolitics?format=ical",
-"https://story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker",
-"https://story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker?format=ical",
-"https://story4co.com/events/2024/ballotbreakdown",
-"https://story4co.com/events/2024/ballotbreakdown?format=ical",
-"https://story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum",
-"https://story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum?format=ical",
-"https://story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff",
-"https://story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff?format=ical",
-"https://story4co.com/events/9/10/coffeeandconversation",
-"https://story4co.com/events/9/10/coffeeandconversation?format=ical",
-"https://story4co.com/events/bevsandbites",
-"https://story4co.com/events/bevsandbites?format=ical",
-"https://story4co.com/events/bevsandbitessep20th",
-"https://story4co.com/events/bevsandbitessep20th?format=ical",
-"https://story4co.com/events/canvassatstagecoach",
-"https://story4co.com/events/canvassatstagecoach?format=ical",
-"https://story4co.com/events/canvasswithus31",
-"https://story4co.com/events/canvasswithus31?format=ical",
-"https://story4co.com/events/canvasswithuslittleton",
-"https://story4co.com/events/canvasswithuslittleton?format=ical",
-"https://story4co.com/events/coffeeandconversationaug12",
-"https://story4co.com/events/coffeeandconversationaug12?format=ical",
-"https://story4co.com/events/election-day",
-"https://story4co.com/events/election-day?format=ical",
-"https://story4co.com/events/evergreendayofaction",
-"https://story4co.com/events/evergreendayofaction?format=ical",
-"https://story4co.com/events/fallcanvassingwithspecialguests",
-"https://story4co.com/events/fallcanvassingwithspecialguests?format=ical",
-"https://story4co.com/events/jointcanvass",
-"https://story4co.com/events/jointcanvass?format=ical",
-"https://story4co.com/events/laborcanvass",
-"https://story4co.com/events/laborcanvass?format=ical",
-"https://story4co.com/events/lookingforward",
-"https://story4co.com/events/lookingforward?format=ical",
-"https://story4co.com/events/partywithapurpose",
-"https://story4co.com/events/partywithapurpose?format=ical",
-"https://story4co.com/events/phonebanking",
-"https://story4co.com/events/phonebanking?format=ical",
-"https://story4co.com/events/phonebankingthursdays",
-"https://story4co.com/events/phonebankingthursdays?format=ical",
-"https://story4co.com/events/pintsandpoliticsaug17",
-"https://story4co.com/events/pintsandpoliticsaug17?format=ical",
-"https://story4co.com/events/teamtammycanvass",
-"https://story4co.com/events/teamtammycanvass?format=ical",
-"https://story4co.com/events/teamtammycanvasswithrepjmabrey",
-"https://story4co.com/events/teamtammycanvasswithrepjmabrey?format=ical",
-"https://story4co.com/events/teamtammywithrepclifford",
-"https://story4co.com/events/teamtammywithrepclifford?format=ical",
-"https://story4co.com/events/youngdems",
-"https://story4co.com/events/youngdems?format=ical",
-"https://story4co.com/issues",
-"https://story4co.com/jointheteam",
-"https://story4co.com/news",
-"https://story4co.com/ourstory",
-"https://story4co.com/priorities",
-"https://story4co.com/search",
-"https://story4co.com/yardsigns",
-"https://tinyurl.com/StoryKickoff?link_id=1&can_id=2e2b834b837adfb54bb8a3d60e6166c7&email_subject=this-thursday-lets-kick-off-this-campaign-together"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+littleton%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10558+west+vista+view+drive+littleton%2C+co%2C+80127+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=16235+west+belleview+avenue+morrison%2C+co%2C+80465+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=27+mule+deer+trail+littleton%2C+co%2C+80127+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=27618+fireweed+drive+evergreen%2C+co%2C+80439+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=27845+colorado+74+evergreen%2C+co%2C+80439+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=29003+upper+bear+creek+road+evergreen%2C+co%2C+80439+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3229+el+pinal+drive+evergreen%2C+co%2C+80439+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5000+county+highway+73+evergreen%2C+co%2C+80439+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6328+south+turkey+creek+road+morrison%2C+co%2C+80465+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7950+sangre+de+cristo+road+littleton%2C+co%2C+80127+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8800+west+columbine+drive+littleton%2C+co%2C+80128+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=rsvp+for+more+details"
+},
+{
+"text": "720-620-8519",
+"href": "tel:720-620-8519"
+},
+{
+"text": "About",
+"href": "https://www.story4co.com/ourstory"
+},
+{
+"text": "Aug 12 8:00 AM08:00",
+"href": "https://www.story4co.com/events/coffeeandconversationaug12"
+},
+{
+"text": "Aug 17 5:00 PM17:00",
+"href": "https://www.story4co.com/events/pintsandpoliticsaug17"
+},
+{
+"text": "Aug 31 9:00 AM09:00",
+"href": "https://www.story4co.com/events/canvasswithus31"
+},
+{
+"text": "Beverages & Bites Supporting Tammy Story",
+"href": "https://www.story4co.com/events/bevsandbitessep20th"
+},
+{
+"text": "Beverages and Bites on Sep. 6th",
+"href": "https://www.story4co.com/events/bevsandbites"
+},
+{
+"text": "CONTACT",
+"href": "https://www.story4co.com/contact"
+},
+{
+"text": "Canvass in Littleton",
+"href": "https://www.story4co.com/events/2024/10/19/canvass-in-littleton"
+},
+{
+"text": "Canvass with Rep. Story and Sen. Kolker on Aug. 31st",
+"href": "https://www.story4co.com/events/canvasswithus31"
+},
+{
+"text": "Coffee & Conversation",
+"href": "https://www.story4co.com/events/9/10/coffeeandconversation"
+},
+{
+"text": "Coffee and Conversation",
+"href": "https://www.story4co.com/events/coffeeandconversationaug12"
+},
+{
+"text": "Coffee and Conversation on Sep. 20th",
+"href": "https://www.story4co.com/events/2024/9/20/coffeeandconversation"
+},
+{
+"text": "DONATE",
+"href": "https://www.story4co.com/donate"
+},
+{
+"text": "Election Day Team Tammy Phone Bank",
+"href": "https://www.story4co.com/events/election-day"
+},
+{
+"text": "Endorsements",
+"href": "https://www.story4co.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.story4co.com/events"
+},
+{
+"text": "Fall Canvassing Kickoff for Team Tammy",
+"href": "https://www.story4co.com/events/fallcanvassingwithspecialguests"
+},
+{
+"text": "Fuel our grassroots campaign with a donation today!",
+"href": "https://secure.actblue.com/donate/story-for-colorado-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beverages+%26amp%3B+Bites+Supporting+Tammy+Story&dates=20241020T220000Z%2F20241021T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beverages+and+Bites+on+Sep.+6th&dates=20240906T233000Z%2F20240907T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Littleton&dates=20241019T150000Z%2F20241019T190000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rep.+Story+and+Sen.+Kolker+on+Aug.+31st&dates=20240831T150000Z%2F20240831T190000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation&dates=20240910T140000Z%2F20240910T153000Z&location=29003+Upper+Bear+Creek+Road%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+and+Conversation&dates=20260812T140000Z%2F20260812T153000Z&location=6328+South+Turkey+Creek+Road%2C+Morrison%2C+CO%2C+80465%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+and+Conversation+on+Sep.+20th&dates=20240920T140000Z%2F20240920T153000Z&location=6328+South+Turkey+Creek+Road%2C+Morrison%2C+CO%2C+80465%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day+Team+Tammy+Phone+Bank+&dates=20241105T140000Z%2F20241106T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fall+Canvassing+Kickoff+for+Team+Tammy&dates=20240928T150000Z%2F20240928T210000Z&location=16235+West+Belleview+Avenue%2C+Morrison%2C+CO%2C+80465%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Halloween+Phone+Bank+Party&dates=20241031T220000Z%2F20241101T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Jeffco+Foothills+Town+Hall%3A+Ballot+Breakdown&dates=20241005T150000Z%2F20241005T163000Z&location=5000+County+Highway+73%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+w%2F+Rep.+Story+and+Sen.+Kolker&dates=20240907T150000Z%2F20240907T190000Z&location=8800+West+Columbine+Drive%2C+Littleton%2C+CO%2C+80128%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+w%2F+Rep.+Story+and+Sen.+Kolker&dates=20240914T150000Z%2F20240914T190000Z&location=7950+Sangre+De+Cristo+Road%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Looking+Forward%3A+Supporting+Tammy+Story&dates=20241004T000000Z%2F20241004T013000Z&location=Littleton%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Party+with+a+Purpose%21+&dates=20241011T233000Z%2F20241012T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pints+and+Politics&dates=20260817T230000Z%2F20260818T003000Z&location=27618+Fireweed+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pints+and+Politics+on+Sep.+23rd&dates=20240923T230000Z%2F20240924T013000Z&location=27845+Colorado+74%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Solstice+Campaign+Kickoff&dates=20260625T233000Z%2F20260626T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass&dates=20240920T160000Z%2F20240920T200000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass&dates=20240921T160000Z%2F20240921T200000Z&location=8800+West+Columbine+Drive%2C+Littleton%2C+CO%2C+80128%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass&dates=20241030T160000Z%2F20241030T200000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+AFL-CIO%2C+CEA+%26amp%3B+Affiliates&dates=20241103T170000Z%2F20241103T210000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+LiUNA+&dates=20241102T150000Z%2F20241102T200000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Rep.+Mabrey&dates=20241013T230000Z%2F20241014T020000Z&location=27+Mule+Deer+Trail%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Rep.+Mabrey&dates=20241023T223000Z%2F20241024T023000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Sen.+Kolker%2C+Planned+Parenthood+Votes%2C+Cobalt%2C+and+COLOR+AF&dates=20241013T150000Z%2F20241013T190000Z&location=10558+West+Vista+View+Drive%2C+Littleton%2C+CO%2C+80127%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvass+with+Young+Dems&dates=20241027T160000Z%2F20241027T200000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvassing%3A+Evergreen+Day+of+Action&dates=20241012T190000Z%2F20241013T000000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvassing+with+Rep.+Clifford&dates=20241009T213000Z%2F20241010T003000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Phone+Bank&dates=20241024T230000Z%2F20241025T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall-+Ballot+Initiative+Forum&dates=20261010T153000Z%2F20261010T173000Z&location=5000+County+Highway+73%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "HERE",
+"href": "https://forms.gle/AzNLgZH6j2PrCYR5A"
+},
+{
+"text": "HERE",
+"href": "https://forms.gle/UJMABDhaTKsDQURY7"
+},
+{
+"text": "HERE",
+"href": "https://forms.gle/YXgNH2umGpTG3PAg7"
+},
+{
+"text": "HERE",
+"href": "https://forms.gle/zWsEJkmjgWWe7nTP8"
+},
+{
+"text": "HERE.",
+"href": "https://forms.gle/idFCK1syT378SgBk6"
+},
+{
+"text": "Halloween Phone Bank Party",
+"href": "https://www.story4co.com/events/phonebankingthursdays"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events//teamtammycanvasswithrepmabrey?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/10/19/canvass-in-littleton?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/9/20/coffeeandconversation?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/9/21/team-tammy-canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/9/27pintandpolitics?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2024/ballotbreakdown?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/9/10/coffeeandconversation?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/bevsandbites?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/bevsandbitessep20th?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/canvassatstagecoach?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/canvasswithus31?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/canvasswithuslittleton?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/coffeeandconversationaug12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/election-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/evergreendayofaction?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/fallcanvassingwithspecialguests?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/jointcanvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/laborcanvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/lookingforward?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/partywithapurpose?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/phonebanking?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/phonebankingthursdays?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/pintsandpoliticsaug17?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/teamtammycanvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/teamtammycanvasswithrepjmabrey?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/teamtammywithrepclifford?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/youngdems?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://www.story4co.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.story4co.com/issues"
+},
+{
+"text": "Jeffco Foothills Town Hall: Ballot Breakdown",
+"href": "https://www.story4co.com/events/2024/ballotbreakdown"
+},
+{
+"text": "Joint Canvass w/ Rep. Story and Sen. Kolker",
+"href": "https://www.story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "Joint Canvass w/ Rep. Story and Sen. Kolker",
+"href": "https://www.story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "Jun 25 5:30 PM17:30",
+"href": "https://www.story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://www.story4co.com/achievements"
+},
+{
+"text": "Looking Forward: Supporting Tammy Story",
+"href": "https://www.story4co.com/events/lookingforward"
+},
+{
+"text": "Nov 2 9:00 AM09:00",
+"href": "https://www.story4co.com/events/canvasswithuslittleton"
+},
+{
+"text": "Nov 3 10:00 AM10:00",
+"href": "https://www.story4co.com/events/laborcanvass"
+},
+{
+"text": "Nov 5 7:00 AM07:00",
+"href": "https://www.story4co.com/events/election-day"
+},
+{
+"text": "Oct 10 9:30 AM09:30",
+"href": "https://www.story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum"
+},
+{
+"text": "Oct 11 5:30 PM17:30",
+"href": "https://www.story4co.com/events/partywithapurpose"
+},
+{
+"text": "Oct 12 1:00 PM13:00",
+"href": "https://www.story4co.com/events/evergreendayofaction"
+},
+{
+"text": "Oct 13 5:00 PM17:00",
+"href": "https://www.story4co.com/events//teamtammycanvasswithrepmabrey"
+},
+{
+"text": "Oct 13 9:00 AM09:00",
+"href": "https://www.story4co.com/events/jointcanvass"
+},
+{
+"text": "Oct 19 9:00 AM09:00",
+"href": "https://www.story4co.com/events/2024/10/19/canvass-in-littleton"
+},
+{
+"text": "Oct 20 4:00 PM16:00",
+"href": "https://www.story4co.com/events/bevsandbitessep20th"
+},
+{
+"text": "Oct 23 4:30 PM16:30",
+"href": "https://www.story4co.com/events/teamtammycanvasswithrepjmabrey"
+},
+{
+"text": "Oct 24 5:00 PM17:00",
+"href": "https://www.story4co.com/events/phonebanking"
+},
+{
+"text": "Oct 27 10:00 AM10:00",
+"href": "https://www.story4co.com/events/youngdems"
+},
+{
+"text": "Oct 3 6:00 PM18:00",
+"href": "https://www.story4co.com/events/lookingforward"
+},
+{
+"text": "Oct 30 10:00 AM10:00",
+"href": "https://www.story4co.com/events/canvassatstagecoach"
+},
+{
+"text": "Oct 31 4:00 PM16:00",
+"href": "https://www.story4co.com/events/phonebankingthursdays"
+},
+{
+"text": "Oct 5 9:00 AM09:00",
+"href": "https://www.story4co.com/events/2024/ballotbreakdown"
+},
+{
+"text": "Oct 9 3:30 PM15:30",
+"href": "https://www.story4co.com/events/teamtammywithrepclifford"
+},
+{
+"text": "Party with a Purpose!",
+"href": "https://www.story4co.com/events/partywithapurpose"
+},
+{
+"text": "Pints and Politics",
+"href": "https://www.story4co.com/events/pintsandpoliticsaug17"
+},
+{
+"text": "Pints and Politics on Sep. 23rd",
+"href": "https://www.story4co.com/events/2024/9/27pintandpolitics"
+},
+{
+"text": "Priorities",
+"href": "https://www.story4co.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://forms.gle/fsVB5mn3wTFnfJMXA"
+},
+{
+"text": "Sep 10 8:00 AM08:00",
+"href": "https://www.story4co.com/events/9/10/coffeeandconversation"
+},
+{
+"text": "Sep 14 9:00 AM09:00",
+"href": "https://www.story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "Sep 20 10:00 AM10:00",
+"href": "https://www.story4co.com/events/teamtammycanvass"
+},
+{
+"text": "Sep 20 8:00 AM08:00",
+"href": "https://www.story4co.com/events/2024/9/20/coffeeandconversation"
+},
+{
+"text": "Sep 21 10:00 AM10:00",
+"href": "https://www.story4co.com/events/2024/9/21/team-tammy-canvass"
+},
+{
+"text": "Sep 23 5:00 PM17:00",
+"href": "https://www.story4co.com/events/2024/9/27pintandpolitics"
+},
+{
+"text": "Sep 28 9:00 AM09:00",
+"href": "https://www.story4co.com/events/fallcanvassingwithspecialguests"
+},
+{
+"text": "Sep 6 5:30 PM17:30",
+"href": "https://www.story4co.com/events/bevsandbites"
+},
+{
+"text": "Sep 7 9:00 AM09:00",
+"href": "https://www.story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "Summer Solstice Campaign Kickoff",
+"href": "https://www.story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff"
+},
+{
+"text": "Team Tammy Canvass",
+"href": "https://www.story4co.com/events/2024/9/21/team-tammy-canvass"
+},
+{
+"text": "Team Tammy Canvass",
+"href": "https://www.story4co.com/events/canvassatstagecoach"
+},
+{
+"text": "Team Tammy Canvass",
+"href": "https://www.story4co.com/events/teamtammycanvass"
+},
+{
+"text": "Team Tammy Canvass with AFL-CIO, CEA & Affiliates",
+"href": "https://www.story4co.com/events/laborcanvass"
+},
+{
+"text": "Team Tammy Canvass with LiUNA",
+"href": "https://www.story4co.com/events/canvasswithuslittleton"
+},
+{
+"text": "Team Tammy Canvass with Rep. Mabrey",
+"href": "https://www.story4co.com/events//teamtammycanvasswithrepmabrey"
+},
+{
+"text": "Team Tammy Canvass with Rep. Mabrey",
+"href": "https://www.story4co.com/events/teamtammycanvasswithrepjmabrey"
+},
+{
+"text": "Team Tammy Canvass with Sen. Kolker, Planned Parenthood Votes, Cobalt, and COLOR AF",
+"href": "https://www.story4co.com/events/jointcanvass"
+},
+{
+"text": "Team Tammy Canvass with Young Dems",
+"href": "https://www.story4co.com/events/youngdems"
+},
+{
+"text": "Team Tammy Canvassing with Rep. Clifford",
+"href": "https://www.story4co.com/events/teamtammywithrepclifford"
+},
+{
+"text": "Team Tammy Canvassing: Evergreen Day of Action",
+"href": "https://www.story4co.com/events/evergreendayofaction"
+},
+{
+"text": "Team Tammy Phone Bank",
+"href": "https://www.story4co.com/events/phonebanking"
+},
+{
+"text": "Town Hall- Ballot Initiative Forum",
+"href": "https://www.story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events//teamtammycanvasswithrepmabrey"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/10/19/canvass-in-littleton"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/9/20/coffeeandconversation"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/9/21/team-tammy-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/9/27pintandpolitics"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2024/ballotbreakdown"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/9/10/coffeeandconversation"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/bevsandbites"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/bevsandbitessep20th"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/canvassatstagecoach"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/canvasswithus31"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/canvasswithuslittleton"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/coffeeandconversationaug12"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/election-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/evergreendayofaction"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/fallcanvassingwithspecialguests"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/jointcanvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/laborcanvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/lookingforward"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/partywithapurpose"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/phonebanking"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/phonebankingthursdays"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/pintsandpoliticsaug17"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/teamtammycanvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/teamtammycanvasswithrepjmabrey"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/teamtammywithrepclifford"
+},
+{
+"text": "View Event →",
+"href": "https://www.story4co.com/events/youngdems"
+},
+{
+"text": "Volunteer",
+"href": "https://www.story4co.com/jointheteam"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.story4co.com/yardsigns"
+},
+{
+"text": "[image: Beverages &amp; Bites Supporting Tammy Story]",
+"href": "https://www.story4co.com/events/bevsandbitessep20th"
+},
+{
+"text": "[image: Beverages and Bites on Sep. 6th]",
+"href": "https://www.story4co.com/events/bevsandbites"
+},
+{
+"text": "[image: Canvass with Rep. Story and Sen. Kolker on Aug. 31st]",
+"href": "https://www.story4co.com/events/canvasswithus31"
+},
+{
+"text": "[image: Coffee &amp; Conversation]",
+"href": "https://www.story4co.com/events/9/10/coffeeandconversation"
+},
+{
+"text": "[image: Coffee and Conversation on Sep. 20th]",
+"href": "https://www.story4co.com/events/2024/9/20/coffeeandconversation"
+},
+{
+"text": "[image: Coffee and Conversation]",
+"href": "https://www.story4co.com/events/coffeeandconversationaug12"
+},
+{
+"text": "[image: Election Day Team Tammy Phone Bank ]",
+"href": "https://www.story4co.com/events/election-day"
+},
+{
+"text": "[image: Fall Canvassing Kickoff for Team Tammy]",
+"href": "https://www.story4co.com/events/fallcanvassingwithspecialguests"
+},
+{
+"text": "[image: Halloween Phone Bank Party]",
+"href": "https://www.story4co.com/events/phonebankingthursdays"
+},
+{
+"text": "[image: Jeffco Foothills Town Hall: Ballot Breakdown]",
+"href": "https://www.story4co.com/events/2024/ballotbreakdown"
+},
+{
+"text": "[image: Joint Canvass w/ Rep. Story and Sen. Kolker]",
+"href": "https://www.story4co.com/events/2024/9/14/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "[image: Joint Canvass w/ Rep. Story and Sen. Kolker]",
+"href": "https://www.story4co.com/events/2024/9/5/joint-canvass-w-rep-story-and-sen-kolker"
+},
+{
+"text": "[image: Looking Forward: Supporting Tammy Story]",
+"href": "https://www.story4co.com/events/lookingforward"
+},
+{
+"text": "[image: Party with a Purpose! ]",
+"href": "https://www.story4co.com/events/partywithapurpose"
+},
+{
+"text": "[image: Pints and Politics on Sep. 23rd]",
+"href": "https://www.story4co.com/events/2024/9/27pintandpolitics"
+},
+{
+"text": "[image: Pints and Politics]",
+"href": "https://www.story4co.com/events/pintsandpoliticsaug17"
+},
+{
+"text": "[image: Representative Tammy Story]",
+"href": "https://www.story4co.com/"
+},
+{
+"text": "[image: Team Tammy Canvass with AFL-CIO, CEA &amp; Affiliates]",
+"href": "https://www.story4co.com/events/laborcanvass"
+},
+{
+"text": "[image: Team Tammy Canvass with LiUNA ]",
+"href": "https://www.story4co.com/events/canvasswithuslittleton"
+},
+{
+"text": "[image: Team Tammy Canvass with Rep. Mabrey]",
+"href": "https://www.story4co.com/events//teamtammycanvasswithrepmabrey"
+},
+{
+"text": "[image: Team Tammy Canvass with Rep. Mabrey]",
+"href": "https://www.story4co.com/events/teamtammycanvasswithrepjmabrey"
+},
+{
+"text": "[image: Team Tammy Canvass with Sen. Kolker, Planned Parenthood Votes, Cobalt, and COLOR AF]",
+"href": "https://www.story4co.com/events/jointcanvass"
+},
+{
+"text": "[image: Team Tammy Canvass with Young Dems]",
+"href": "https://www.story4co.com/events/youngdems"
+},
+{
+"text": "[image: Team Tammy Canvass]",
+"href": "https://www.story4co.com/events/2024/9/21/team-tammy-canvass"
+},
+{
+"text": "[image: Team Tammy Canvass]",
+"href": "https://www.story4co.com/events/canvassatstagecoach"
+},
+{
+"text": "[image: Team Tammy Canvass]",
+"href": "https://www.story4co.com/events/teamtammycanvass"
+},
+{
+"text": "[image: Team Tammy Canvassing with Rep. Clifford]",
+"href": "https://www.story4co.com/events/teamtammywithrepclifford"
+},
+{
+"text": "[image: Team Tammy Canvassing: Evergreen Day of Action]",
+"href": "https://www.story4co.com/events/evergreendayofaction"
+},
+{
+"text": "[image: Team Tammy Phone Bank]",
+"href": "https://www.story4co.com/events/phonebanking"
+},
+{
+"text": "[image: Town Hall- Ballot Initiative Forum]",
+"href": "https://www.story4co.com/events/2026/10/10/town-hall-ballot-initiative-forum"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/story4co"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/story4co/"
+},
+{
+"text": "[no text]",
+"href": "https://www.story4co.com/events/2024/10/19/canvass-in-littleton"
+},
+{
+"text": "[no text]",
+"href": "https://www.story4co.com/events/2026/6/25/summer-solstice-campaign-kickoff"
+},
+{
+"text": "[no text]",
+"href": "https://www.story4co.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:tammy.story.house@coleg.gov"
+},
+{
+"text": "https://tinyurl.com/StoryKickoff",
+"href": "https://tinyurl.com/StoryKickoff?link_id=1&can_id=2e2b834b837adfb54bb8a3d60e6166c7&email_referrer=&email_subject=this-thursday-lets-kick-off-this-campaign-together"
+},
+{
+"text": "story4CO@gmail.com",
+"href": "mailto:story4CO@gmail.com"
+}
 ]

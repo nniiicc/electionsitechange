@@ -1,13 +1,11 @@
-Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional
-Dear Casper,
-I am writing as a concerned citizen of Wyoming and parent of a child in public school.
+top of page Erickson for House District 37 Home About Why I am Running Endorsements Blog JOIN THE MOVEMENT More Use tab to navigate through the menu items.
+Donate All Posts Search Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional ericksonforhd37 Feb 11 5 min read Dear Casper, I am writing as a concerned citizen of Wyoming and parent of a child in public school.
 In the 2025 legislative session, House Bill 199 passed.
 This bill was sponsored by Ocean Andrew.
 HB199, or the Wyoming Freedom Scholarship Act, gives $7,000 per child to any family that chooses not to have their child or children in public school.
 This money can then be used for homeschooling curriculum or to pay tuition at private schools, even parochial schools.
 While I respect that people have the right to choose the education that will best fit their children and family, taking this money away from our public schools is unconstitutional.
-Article 1, Section 19, of the Wyoming State Constitution reads as follows: “No money of the state shall ever be given or appropriated to any sectarian or religious society or institution,” Then, Article 7, Section 8 of the Wyoming Constitution reads, “Nor shall any portion of any public-school fund ever be used to support or assist any private school, or any school, academy, seminary, or sectarian organization or religious denomination whatsoever.”
-Perhaps the majority of our state legislators and the governor did not read the state constitution before putting this on the docket and passing it through.
+Article 1, Section 19, of the Wyoming State Constitution reads as follows: “No money of the state shall ever be given or appropriated to any sectarian or religious society or institution,” Then, Article 7, Section 8 of the Wyoming Constitution reads, “Nor shall any portion of any public-school fund ever be used to support or assist any private school, or any school, academy, seminary, or sectarian organization or religious denomination whatsoever.” Perhaps the majority of our state legislators and the governor did not read the state constitution before putting this on the docket and passing it through.
 Perhaps they did not understand what they were reading.
 Regardless of how it passed, it did.
 House Bill 199 is undeniably unconstitutional.
@@ -30,8 +28,7 @@ According to the Learning Policy Institute study from 2021–2022 and published 
 This number equates to roughly 93,093 students.
 That is a lot of students who are having funding taken away from their schools.
 Furthermore, of the 32 private schools in Wyoming, 20 of them are religiously affiliated.
-I guess it was easy to skip over the piece of the state constitution that says, “No money from the state shall ever be given or appropriated to a sectarian or religious institution.” Perhaps the majority of our legislators did not understand the part of the constitution that says, “Nor shall any portion of any public-school fund ever be used to support or assist any private school whatsoever.”
-Public schools are pillars of our communities.
+I guess it was easy to skip over the piece of the state constitution that says, “No money from the state shall ever be given or appropriated to a sectarian or religious institution.” Perhaps the majority of our legislators did not understand the part of the constitution that says, “Nor shall any portion of any public-school fund ever be used to support or assist any private school whatsoever.” Public schools are pillars of our communities.
 For those of us who do not have the gumption to homeschool our children, these spaces are where our children will spend most of their time during the day during the school year.
 According to the Wyoming Community Foundation during the 2019–2020 school year Wyoming spent almost $16,000 per student.
 When we cut the funding for public schools many important things go on the chopping block like: school administration, home ec classes, dual enrollment for college courses, career guidance, school library services, crossing guards and building alarms, assistance for visually impaired students, distance learning, funding to care for our At-Risk youth, and health and media services.
@@ -55,7 +52,5 @@ Stop giving money to private and religiously affiliated schools, because it is u
 Take care of our communities.
 The children of Wyoming deserve better.
 Writing in Solidarity for a Better Wyoming Future.
-Betsy Erickson
-Casper
-Wyoming Constitution: Constitution of the State of Wyoming
-Learning Policy Institute: Distribution of Public and Private Schools
+Betsy Erickson Casper Wyoming Constitution: Constitution of the State of Wyoming Wyofile: Wyoming lawmakers forewarned of school voucher lawsuit as they debated program’s constitutionality – WyoFile Learning Policy Institute: Distribution of Public and Private Schools Oil City News Recent Posts See All Wyoming’s ‘old man’ government isn’t just a myth (3/15/2026) Rep.
+Harriet Hageman Bill Targets Wyoming Public Lands (5/31/2026) Letter to the Editor 7/13/25: More than books: Public library plays vital role in community life Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

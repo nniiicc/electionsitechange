@@ -1,14 +1,6 @@
-Priorities
-Education Reform
-To this day, federal education laws and programs continue to allow and enable discrimination against students.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement Priorities Education Reform To this day, federal education laws and programs continue to allow and enable discrimination against students.
 Education is a power reserved under the 10th Amendment of the U.S.
-Constitution, yet federal policy and funding remain outdated compared to the advancements of States.
+Constitution , yet federal policy and funding remain outdated compared to the advancements of States.
 Laws set in place need improvement to address systemic barriers to ensure all students regardless of background or socioeconomic situations have access to high-quality learning.
 From early childhood to adulthood, education is a right.
-It is important to transform learning and empower our students and teachers by:
-- Co-sponsoring the IDEA Full Funding Act and Keep Our PACT Act
-- Implementing Universal School Meal Programs
-- Investing in School Safety
-- Supporting the PREP Act
-- Strengthening Title I and Career & Technical Education (CTE)
-- Opposing All School Vouchers
+It is important to transform learning and empower our students and teachers by: Co-sponsoring the IDEA Full Funding Act and Keep Our PACT Act Implementing Universal School Meal Programs Investing in School Safety Supporting the PREP Act Strengthening Title I and Career & Technical Education (CTE) Opposing All School Vouchers hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

@@ -1,2 +1,2 @@
-Contact Us Please get in touch with any questions, concerns, or ideas.
-Matt would like to hear from you! mattbeckformaine@gmail.com Click here to join our campaign Click here to receive news and updates Click here to donate
+0 Skip to Content About Issues Press Support Vote Contact Open Menu Close Menu About Issues Press Support Vote Contact Open Menu Close Menu About Issues Press Support Vote Contact Contact Us Please get in touch with any questions, concerns, or ideas.
+Matt would like to hear from you! mattbeckformaine@gmail.com Click here to join our campaign Click here to receive news and updates Click here to donate Our Work About Issues Press Join Us Donate Follow Instagram Facebook Made with Squarespace Contact Matthew Beck (he/him) South Portland, ME 04106 mattbeckformaine@gmail.com Paid for and authorized by the candidate

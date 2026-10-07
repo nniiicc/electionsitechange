@@ -1,547 +1,2254 @@
 [
-"http://blogs.law.columbia.edu/climatechange/2021/01/08/net-zero-stretch-code-a-new-model-for-municipal-building-decarbonization-in-massachusetts",
-"http://brookline.wickedlocal.com/article/20140910/NEWS/140919730",
-"http://brookline.wickedlocal.com/article/20151110/NEWS/151119078",
-"http://brookline.wickedlocal.com/news/20160727/guest-column-senate-bill-on-climate-change-is-stronger-of-two",
-"http://brookline.wickedlocal.com/news/20170418/brookline-high-students-propose-gas-tax-to-promote-alternative-transportation",
-"http://brookline.wickedlocal.com/news/20170719/brookline-launches-renewable-energy-program-with-opt-out-system",
-"http://brookline.wickedlocal.com/news/20171023/brookline-committee-plans-to-honor-renowned-sculptor",
-"http://brookline.wickedlocal.com/news/20171221/brookline-state-rep-frank-smizik-to-retire-after-18-years",
-"http://brookline.wickedlocal.com/news/20180722/letter-to-editor-lets-work-together",
-"http://brookline.wickedlocal.com/news/20180728/letters-to-editor-writing-in-support-of-state-rep-candidate-tommy-vitolo",
-"http://brookline.wickedlocal.com/news/20180805/letters-to-editor-vote-for-tommy-vitolo",
-"http://brookline.wickedlocal.com/news/20180812/letters-to-editor-tommy-vitolo-for-state-rep",
-"http://brookline.wickedlocal.com/news/20180818/letters-to-editor-tommy-vitolo-for-state-rep",
-"http://brookline.wickedlocal.com/news/20180819/guest-commentary-brookline-pax-endorsements",
-"http://brookline.wickedlocal.com/news/20180825/letters-to-editor-vote-for-vitolo-for-state-rep",
-"http://brookline.wickedlocal.com/news/20180829/brookline-candidates-nearing-end-of-their-campaigns",
-"http://brookline.wickedlocal.com/news/20180904/brookline-elects-tommy-vitolo-for-state-rep",
-"http://brookline.wickedlocal.com/news/20180914/letter-to-editor--thank-you-brookline",
-"http://brookline.wickedlocal.com/news/20181106/around-town-election-day-in-brookline",
-"http://brookline.wickedlocal.com/news/20190108/tommy-vitolo-sworn-in-as-brooklines-new-state-rep",
-"http://brookline.wickedlocal.com/x1157493202/Town-Update-Green-cleaning-adopted-Daly-seeks-to-appease-union",
-"http://brookline.wickedlocal.com/x1260742342/Proposed-Brookline-water-rates-face-contention",
-"http://brookline.wickedlocal.com/x1417077095",
-"http://brookline.wickedlocal.com/x1689552738",
-"http://brookline.wickedlocal.com/x297841334/Brookline-residents-turn-out-to-decry-MBTA-proposals",
-"http://brookline.wickedlocal.com/x524588904/In-Brookline-pharmacy-cigarette-sales-could-go-up-in-smoke",
-"http://brooklinepax.org/2020%20PAX%20Newsletter%20for%20Web.pdf",
-"http://bu.edu/articles/2021/mbta-b-branch-station-consolidation-to-begin-february-15",
-"http://bu.edu/eng/2019/03/08/state-representative-tackling-societal-challenges",
-"http://lowellsun.com/breakingnews/ci_32117612/primary-wins-appear-seal-sets-nine-democrats-legislature",
-"https://bankerandtradesman.com/bill-seeks-electric-ready-infrastructure-in-all-new-construction",
-"https://bcheights.com/2020/11/29/fuller-opposes-proposed-mbta-service-cuts",
-"https://berkshireeagle.com/stories/our-opinion-millennials-take-the-lead,570196",
-"https://blog.greenenergyconsumers.org/blog/electricity-suppliers-the-good-the-bad-the-ugly",
-"https://blog.greenenergyconsumers.org/blog/powering-municipal-aggregation-with-offshore-wind",
-"https://blogs.timesofisrael.com/glowing-faith",
-"https://boston.cbslocal.com/2019/06/13/mbta-red-line-delays-derailment-massachusetts-governor-charlie-baker",
-"https://boston.com/news/local-news/2019/11/21/brookline-gas-oil-ban",
-"https://boston.com/news/local-news/2020/03/23/massachusetts-new-england-coronavirus-covid-19-latest-news",
-"https://boston.com/news/local-news/2020/07/22/maura-healey-brookline-oil-gas-ban-ruling",
-"https://boston.com/news/local-news/2024/10/23/stickers-combining-swastikas-with-israeli-flag-found-in-brookline-police-say",
-"https://boston25news.com/news/brookline-overwhelmingly-passes-bylaw-to-ban-use-of-oil-gas-in-new-buildings/1010850067",
-"https://boston25news.com/news/local/carnage-survivor-hingham-apple-store-crash-asks-why-more-isnt-being-done-protect-people/EUMTY2I3KZEH7BQIRMCFL6E5SQ",
-"https://bostonglobe.com/2020/05/19/nation/ayanna-pressley-says-mass-isnt-ready-reopen",
-"https://bostonglobe.com/2020/07/21/metro/ag-rejects-brooklines-ban-oil-gas-pipes-new-buildings",
-"https://bostonglobe.com/2022/02/25/science/brookline-wants-fossil-fuel-free-future-with-latest-ruling-state-says-not-yet-again",
-"https://bostonglobe.com/2022/03/29/business/move-afoot-ban-home-equity-theft-massachusetts",
-"https://bostonglobe.com/2022/07/25/business/wu-joins-striking-starbucks-workers-comm-ave-picket-line",
-"https://bostonglobe.com/2022/08/28/metro/with-clear-path-democratic-primary-healey-takes-another-role-helping-allies-survive-theirs",
-"https://bostonglobe.com/2023/05/31/business/supreme-court-ruling-could-spell-death-equity-theft-mass",
-"https://bostonglobe.com/2023/11/05/metro/middle-east-war-continues-brookline-jews-muslims-gather-collective-mourning",
-"https://bostonglobe.com/2024/04/12/metro/hate-crimes-fuel-push-more-security-grants",
-"https://bostonglobe.com/2024/06/26/business/mass-house-bill-home-equity-theft-talking-points",
-"https://bostonglobe.com/2024/10/28/metro/bradley-jones-massachusetts-house-blocked-climate-bill",
-"https://bostonglobe.com/metro/2019/07/10/beacon-hill-and-beyond-women-seeking-male-allies/MprDbDv6Pv27ZcNUiEshcJ/story.html",
-"https://bostonglobe.com/metro/2019/08/20/potential-candidates-are-already-jostling-for-joe-kennedy-congressional-seat/GLKeVd1Vaob4qcCCx6Fn5H/story.html",
-"https://bostonglobe.com/metro/2019/09/20/joe-kennedy-announces-senate-campaign-pols-move-toward-bids-for-his-congressional-seat/ciz6cGaTXegQ8kgIawKtYK/story.html",
-"https://bostonglobe.com/metro/2019/09/23/they-off-grossman-first-candidate-declare-for-kennedy-seat/CJav3cGV1FlDzHteXcMkwM/story.html",
-"https://bostonglobe.com/metro/2019/11/20/first-for-massachusetts-brookline-votes-ban-oil-and-gas-pipes-new-buildings/24RdqjUOldI5qrqF6zfiHP/story.html",
-"https://brookline.news/behind-the-home-rule-petition-how-brookline-town-meetings-progressive-pushes-keep-running-into-beacon-hill-roadblocks",
-"https://brookline.news/bha-breaks-ground-on-new-115-unit-affordable-housing-project-on-marion-street",
-"https://brookline.news/bha-opens-brooklines-largest-affordable-housing-development-in-more-than-50-years",
-"https://brookline.news/brookline-demonstrators-fill-coolidge-corner-to-mark-american-revolution-anniversary-protest-trump",
-"https://brookline.news/brookline-housing-authority-will-use-500k-earmark-to-redo-dozens-of-kitchens-with-electric-stoves",
-"https://brookline.news/brookline-weighs-its-housing-future-as-zoning-law-deadline-approaches",
-"https://brookline.news/brooklines-rent-control-bid-advances-through-state-legislature",
-"https://brookline.news/eyes-on-the-state-house-rep-tommy-vitolo-reflects-on-2023-and-his-future",
-"https://brookline.news/faith-groups-and-activists-mobilize-in-brookline-to-support-immigrant-families",
-"https://brookline.news/five-state-legislators-outline-strategy-to-counter-trump-administration-at-brookline-forum",
-"https://brookline.news/gateway-arts-opens-new-expanded-center-on-station-street",
-"https://brookline.news/how-brooklines-representatives-in-the-state-house-are-gearing-up-to-combat-trumps-agenda",
-"https://brookline.news/mbta-will-use-federal-grant-to-make-14-green-line-stations-more-accessible-including-nine-in-brookline",
-"https://brookline.news/re-brookline-plans-to-add-25-new-bluebikes-stations-2",
-"https://brookline.news/re-city-charter-campaign-falls-short-but-is-challenging-signature-certification-process-2",
-"https://brookline.news/state-house-roundup-approval-for-pierce-school-geothermal-earmarks-for-brookline",
-"https://brookline.news/the-town-just-got-100000-for-two-new-bluebikes-stations-where-should-they-go",
-"https://brookline.news/this-is-not-normal-brookline-lawmakers-outline-priorities-for-pivotal-year-on-beacon-hill",
-"https://brookline.news/vitolo-bill-to-expand-commuter-deduction-passed-as-part-of-tax-package",
-"https://brookline.news/vitolo-bill-would-gradually-ban-tobacco-products-in-massachusetts",
-"https://brookline.news/with-no-challenger-in-sight-state-rep-tommy-vitolo-cements-his-place-in-brookline-politics",
-"https://brookline.wickedlocal.com/news/20190212/state-rep-tommy-vitolos-first-bill-passes-state-house",
-"https://brookline.wickedlocal.com/news/20190315/brookline-to-offer-reduced-fare-t-passes-for-low-income-riders",
-"https://brookline.wickedlocal.com/news/20190404/brookline-au-pairs-get-full-american-experience",
-"https://brookline.wickedlocal.com/news/20190416/brookline-youth-awards-recognize-student-altruism",
-"https://brookline.wickedlocal.com/news/20190417/vitolo-advocates-for-funding-brookline-causes",
-"https://brookline.wickedlocal.com/news/20190513/green-house-fest-showcases-green-homes-vehicles",
-"https://brookline.wickedlocal.com/news/20190529/a-home-like-any-other-jfk-birthplace-celebrates-50th-anniversary-as-historic-site-in-brookline",
-"https://brookline.wickedlocal.com/news/20190723/brookline-organizations-get-nod-in-state-fy2020-budget",
-"https://brookline.wickedlocal.com/news/20190913/affordable-senior-housing-project-breaks-ground-in-brookline",
-"https://brookline.wickedlocal.com/news/20190920/our-lives-depend-on-it-brookline-students-demand-action-on-climate-change",
-"https://brookline.wickedlocal.com/news/20190926/word-on-street-soofa-signs-hit-brookline",
-"https://brookline.wickedlocal.com/news/20191001/brooklines-commercial-sector-going-green",
-"https://brookline.wickedlocal.com/news/20191021/brookline-reps-secure-50k-for-brookline",
-"https://brookline.wickedlocal.com/news/20191111/on-veterans-day-brookline-veteran-recalls-small-act-of-kindness",
-"https://brookline.wickedlocal.com/news/20191114/with-brookline-reps-support-house-passes-flavored-tobacco-ban",
-"https://brookline.wickedlocal.com/news/20191120/gas-is-in-past-after-second-night-of-brookline-special-town-meeting",
-"https://brookline.wickedlocal.com/news/20191122/brookline-adopts-ban-on-new-gas-and-oil-infrastructure-in-major-construction",
-"https://brookline.wickedlocal.com/news/20191221/letter-to-editor-progress-toward-more-humane-and-green-beacon-street-in-brookline",
-"https://brookline.wickedlocal.com/news/20191225/legislative-lookback-at-2019-with-brooklines-rep-vitolo",
-"https://brookline.wickedlocal.com/news/20200101/brooklines-rep-vitolo-all-roads-lead-to-transportation",
-"https://brookline.wickedlocal.com/news/20200110/vitolo-warren-has-my-vote-for-president",
-"https://brookline.wickedlocal.com/news/20200210/brookline-schools-receive-7k-from-massachusetts-cultural-council-grants",
-"https://brookline.wickedlocal.com/news/20200313/as-uncertainty-grows-brookline-community-gathers-in-solidarity-at-sichuan-gourmet",
-"https://brookline.wickedlocal.com/news/20200325/brookline-firefighters-test-positive-for-coronavirus-others-in-isolation",
-"https://brookline.wickedlocal.com/news/20200416/vitolo-plan-for-democracy-and-distancing",
-"https://brookline.wickedlocal.com/news/20200520/engaged-citizen-corner-vote-by-mail",
-"https://brookline.wickedlocal.com/news/20201026/opinion-guest-column-vote-yes-on-question-2",
-"https://brooklineforeveryone.com/2024/06/16/affordable-homes-act-passes-the-house-brooklines-juneteenth-celebrations-and-noteworthy-town-meetings",
-"https://brooklinehub.com/brooklinehub-interviews-with-15th-norfolk-state-rep-candidates",
-"https://brooklinehub.com/tonights-2019-brookline-youth-awards-student-adult-honorees",
-"https://brooklineinteractive.org/2024-annual-town-election-show",
-"https://brooklineinteractive.org/age-friendly-cities-ep-54-tommy-vitolo",
-"https://brooklineinteractive.org/bhs-varsity-basketball-vs-newton-north-february-9-2024",
-"https://brooklineinteractive.org/brookline-911-remembrance-event-september-11-2020",
-"https://brooklineinteractive.org/brookline-election-day-coverage-2025",
-"https://brooklineinteractive.org/brookline-interactive-group-live-stream-132",
-"https://brooklineinteractive.org/brookline-interactive-group-live-stream-91",
-"https://brooklineinteractive.org/brookline-memorial-day-2024",
-"https://brooklineinteractive.org/brookline-strong-the-heartbeat-sessions",
-"https://brooklineinteractive.org/brookline-strong-tommy-vitolo",
-"https://brooklineinteractive.org/brookline-town-election-2021-live-results",
-"https://brooklineinteractive.org/brookline-virtual-town-hall-communities-of-faith-april-22nd-2020-2",
-"https://brooklineinteractive.org/brookline-warriors-girls-varsity-play-off-game-2",
-"https://brooklineinteractive.org/brookline-warriors-vs-newton-north-tigers",
-"https://brooklineinteractive.org/brooklines-2021-9-11-memorial-service-sept-11th-2021",
-"https://brooklineinteractive.org/brooklines-veterans-day-ceremony-november-11-2020",
-"https://brooklineinteractive.org/democratic-town-committee-meeting",
-"https://brooklineinteractive.org/interview-of-dr-asaf-bitton-hosted-by-state-rep-tommy-vitolo",
-"https://brooklineinteractive.org/the-fun-show-august-13-2018",
-"https://brooklineinteractive.org/tommy-town-tv-episode-3-allana-taranto",
-"https://brooklineinteractive.org/tommy-vitolo-and-rep-jake-auchincloss-on-facebook-live",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-brookline-public-library-trustee-jon-margolis-on-tv-on-tv",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-brooklines-director-of-public-health-and-human-services-sigalle-reiss",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-dave-cavell",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-ernie-frey-vp-of-brookline-league-of-women-voters-on-weekly-show-tv-on-tv",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-jake-auchincloss",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-mayor-kim-driscoll",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-poet-eric-hyett-on-weekly-show-tv-on-tv",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-state-rep-ruth-balser-on-weekly-show-tv-on-tv",
-"https://brooklineinteractive.org/tommy-vitolo-interviews-tami-gouveia-lg-candidate-on-weekly-show-tv-on-tv",
-"https://brooklineinteractive.org/tommy-vitolo-weekly-update-7-16-2020",
-"https://brooklineinteractive.org/tommy-vitolo-weekly-update-july-9-2020-2",
-"https://brooklineinteractive.org/tommy-vitolo-weekly-update-june-25-2020-2",
-"https://brooklineinteractive.org/tommy-vitolo-weekly-update-with-guest-malcolm-cawthorne",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-betsy-pollock",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-debbie-miller",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-fire-department-chief-john-f-sullivan",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-franklin-d-friedman-md-ms-facep-march-26-2020",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-jason-kaufman-phd-lmft",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-kevin-lang",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-lisa-gozashti",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-sal-partan",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guests-bonnie-bastien-and-daniel-j-ryan",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-guests-mayuri-sharma-and-onkar-sharma",
-"https://brooklineinteractive.org/tommy-vitolos-weekly-update-with-guest-natalia-linos",
-"https://brooklineinteractive.org/transportation-board-meeting-april-13-2020",
-"https://brooklineinteractive.org/tv-on-tv-Milee-Pradhan",
-"https://brooklineinteractive.org/tv-on-tv-adam-deitch",
-"https://brooklineinteractive.org/tv-on-tv-alexandra-vecchio",
-"https://brooklineinteractive.org/tv-on-tv-amy-ingles",
-"https://brooklineinteractive.org/tv-on-tv-anne-meyers",
-"https://brooklineinteractive.org/tv-on-tv-aylit-schultz",
-"https://brooklineinteractive.org/tv-on-tv-ben-stone",
-"https://brooklineinteractive.org/tv-on-tv-bill-humphrey",
-"https://brooklineinteractive.org/tv-on-tv-bob-weintraub",
-"https://brooklineinteractive.org/tv-on-tv-bradford-kimball",
-"https://brooklineinteractive.org/tv-on-tv-brookline-housing-authority-commissioner-election",
-"https://brooklineinteractive.org/tv-on-tv-brookline-select-board-candidate-arden-reamer",
-"https://brooklineinteractive.org/tv-on-tv-brookline-select-board-candidate-john-vanscoyoc",
-"https://brooklineinteractive.org/tv-on-tv-brookline-select-board-candidate-paul-warren",
-"https://brooklineinteractive.org/tv-on-tv-candidate-series-2025-akiva-leibowitz",
-"https://brooklineinteractive.org/tv-on-tv-candidate-series-2025-bob-weintraub",
-"https://brooklineinteractive.org/tv-on-tv-candidate-series-2025-michael-rubenstein",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-batia-bloomenthal",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-carlos-ridruejo",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-danna-perry",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-felina-silver",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-helen-charlupski",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-joey-elasmar",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-judith-vanderkay",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-liz-linder",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-logan-potere",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-michael-burstein",
-"https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-val-frias",
-"https://brooklineinteractive.org/tv-on-tv-caroline-staudt",
-"https://brooklineinteractive.org/tv-on-tv-chris-hope",
-"https://brooklineinteractive.org/tv-on-tv-cindy-rowe-brookline-democratic-town-committee-chair",
-"https://brooklineinteractive.org/tv-on-tv-craig-maclellan",
-"https://brooklineinteractive.org/tv-on-tv-danna-perry",
-"https://brooklineinteractive.org/tv-on-tv-darlene-dibona-chesko",
-"https://brooklineinteractive.org/tv-on-tv-dave-cavell",
-"https://brooklineinteractive.org/tv-on-tv-david-kroop",
-"https://brooklineinteractive.org/tv-on-tv-david-tierney",
-"https://brooklineinteractive.org/tv-on-tv-deborah-pepper",
-"https://brooklineinteractive.org/tv-on-tv-dennis-doughty",
-"https://brooklineinteractive.org/tv-on-tv-dennis-doughty-2-2",
-"https://brooklineinteractive.org/tv-on-tv-djuna-perkins",
-"https://brooklineinteractive.org/tv-on-tv-elizabeth-boen",
-"https://brooklineinteractive.org/tv-on-tv-ellice-patterson",
-"https://brooklineinteractive.org/tv-on-tv-gio-valencia",
-"https://brooklineinteractive.org/tv-on-tv-greg-connor",
-"https://brooklineinteractive.org/tv-on-tv-greg-liakos",
-"https://brooklineinteractive.org/tv-on-tv-greg-schwartz",
-"https://brooklineinteractive.org/tv-on-tv-interview-with-brookline-town-administrator-charles-cary",
-"https://brooklineinteractive.org/tv-on-tv-interviews-with-brookline-school-committee-candidates-natalia-linos-christopher-mutty",
-"https://brooklineinteractive.org/tv-on-tv-james-drake",
-"https://brooklineinteractive.org/tv-on-tv-jessica-smyser",
-"https://brooklineinteractive.org/tv-on-tv-jim-barakat",
-"https://brooklineinteractive.org/tv-on-tv-john-dempsey",
-"https://brooklineinteractive.org/tv-on-tv-john-vanscoyoc",
-"https://brooklineinteractive.org/tv-on-tv-kelly-hardebeck",
-"https://brooklineinteractive.org/tv-on-tv-laila-mcgeorge",
-"https://brooklineinteractive.org/tv-on-tv-leslie-forde",
-"https://brooklineinteractive.org/tv-on-tv-live-october-12-2023",
-"https://brooklineinteractive.org/tv-on-tv-macy-lee",
-"https://brooklineinteractive.org/tv-on-tv-michael-rubenstein",
-"https://brooklineinteractive.org/tv-on-tv-nancy-heller",
-"https://brooklineinteractive.org/tv-on-tv-petra-bignami-and-chris-chanysaulkit",
-"https://brooklineinteractive.org/tv-on-tv-rick-lipof",
-"https://brooklineinteractive.org/tv-on-tv-sarah-kaplan",
-"https://brooklineinteractive.org/tv-on-tv-susan-park",
-"https://brooklineinteractive.org/tv-on-tv-tim-davis",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-aba-taylor",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-alec-lebovitz",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-bernard-greene",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-carolyn-thall",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-chris-mutty",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-david-gladstone-of-brookline-bank",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-david-pearlman",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-diana-mcclure",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-elizabeth-stillman",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-harry-friedman",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-jesse-hefter",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-kasey-boston",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-kathleen-scanlon",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-kimberley-richardson",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-larry-ruttman",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-lg-candidate-eric-lesser",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-lynne-sweet",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-michael-a-burstein",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-michael-alperin",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-miriam-aschkenasy",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-neil-wishinsky",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-nia-jacobs",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-paul-saner",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-paul-saner-part-2",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-paul-warren",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-rabbi-claudia-kreiman",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-rebecca-ogbuku-president-of-the-black-and-brown-club",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-sana-hafeez",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-sarah-moghtader",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-shawn-oneal",
-"https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-susan-park",
-"https://brooklineinteractive.org/tv-on-tv-town-budget-discussion-2026",
-"https://brooklineinteractive.org/tv-on-tv-with-amanda-zimmerman",
-"https://brooklineinteractive.org/tv-on-tv-with-amy-newell-shawn-oneal",
-"https://brooklineinteractive.org/tv-on-tv-with-anthony-buono",
-"https://brooklineinteractive.org/tv-on-tv-with-faiza-khan",
-"https://brooklineinteractive.org/tv-on-tv-with-laura-baines-walsh",
-"https://brooklineinteractive.org/tv-on-tv-with-marissa-vogt-and-jonathan-klein",
-"https://brooklineinteractive.org/tv-on-tv-with-norfolk-county-commissioner-richard-staiti",
-"https://brooklineinteractive.org/tv-on-tv-with-robert-jubinville",
-"https://brooklineinteractive.org/tv-on-tv-with-suzanne-federspiel",
-"https://brooklineinteractive.org/virtual-town-hall-meeting-for-brookline-businesses-and-nonprofits-january-7th-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-1-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-15-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-22-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-29-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-8-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-12-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-13-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-19-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-27-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-5-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-6-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-10-2020-2",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-16-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-2-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-3-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-9-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-11-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-18-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-25-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-4-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-13-2022",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-14-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-21-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-28-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-6th-2022",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-7-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-1-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-15-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-2-2020-2",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-22-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-29-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-8-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-10-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-17-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-24-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-3-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-11-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-18-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-25-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-4-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-may-20-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-may-27-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-11-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-12-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-18-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-19-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-4-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-5-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-1-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-14-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-15-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-21-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-22-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-28-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-7-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-8-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-10-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-16-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-17-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-23-2021",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-24-2020",
-"https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-30-2021",
-"https://brooklinepax.files.wordpress.com/2021/04/2021-pax-newsletter.pdf",
-"https://bunewsservice.com/this-is-not-normal-brookline-lawmakers-outline-priorities-for-pivotal-year-on-beacon-hill",
-"https://capecodtimes.com/news/20200720/state-lawmakers-call-for-action-on-wind-farm",
-"https://cbsnews.com/boston/news/antisemitic-stickers-brookline-cambridge",
-"https://cleantechnica.com/2022/07/26/massachusetts-legislature-legalizes-gas-bans",
-"https://climate-xchange.org/2018/11/06/carbon-pricing-winning-issue-mass-legislative-races",
-"https://commondreams.org/news/2019/11/22/offering-national-model-new-england-town-just-banned-natural-gas-and-oil-new-home",
-"https://commonwealthmagazine.org/courts/lawsuit-challenges-statute-that-denies-homeowners-profit-from-foreclosed-homes",
-"https://commonwealthmagazine.org/energy/healey-reluctantly-rejects-brookline-bylaw",
-"https://commonwealthmagazine.org/media/lawmakers-news-business-needs-state-help",
-"https://commonwealthmagazine.org/opinion/end-the-dpus-stall-on-municipal-electricity-aggregation",
-"https://commonwealthmagazine.org/state-government/baker-proposes-2-month-not-2-day-sales-tax-holiday",
-"https://commonwealthmagazine.org/transportation/baker-rides-the-t",
-"https://commonwealthmagazine.org/transportation/rep-faults-t-for-holding-info-session-far-from-transit",
-"https://commonwealthmagazine.org/transportation/riders-give-t-worst-marks-yet-in-june-performance-review",
-"https://commonwealthmagazine.org/transportation/senate-pushed-to-pass-transpo-revenue-package",
-"https://dailyfreepress.com/2023/10/11/brookline-celebrates-indigenous-peoples-day-with-community-event",
-"https://dailyfreepress.com/2023/10/24/bring-them-home-now-event-held-to-support-israelis-held-hostage",
-"https://dailyfreepress.com/2024/03/29/a-historic-day-coolidge-corner-theatre-debuts-expanded-space",
-"https://desmogblog.com/2019/01/08/massachusetts-state-reps-support-100-renewable-energy-2050",
-"https://digboston.com/stand-with-ukraine-through-film-at-coolidge-corner",
-"https://dotnews.com/2020/commentary-my-grandson-gbio-faithful-take-righteous-cause-racial",
-"https://eagletribune.com/news/boston/lawmakers-urged-to-help-house-rich-cash-poor-seniors/article_5be6b196-68bf-11ec-b441-fb2c62aaa7f4.html",
-"https://eagletribune.com/opinion/our-view-vote-could-be-harbinger-of-energy-shift/article_a7a6d669-f2ec-5055-b5ce-b2f084dcf8a9.html",
-"https://eenews.net/stories/1063720135",
-"https://energynews.us/2023/10/04/massachusetts-seeks-to-streamline-approvals-for-community-choice-aggregation",
-"https://facebook.com/VoteVitolo",
-"https://fallriverreporter.com/governor-baker-punctuates-formal-sessions-end-by-signing-clean-energy-bill",
-"https://fallriverreporter.com/mass-pols-stand-with-israel-as-new-war-unfolds",
-"https://fee.org/articles/restaurants-are-winning-the-fight-with-cities-trying-to-ban-gas-powered-stoves",
-"https://gazettenet.com/Activists-clamor-for-Baker-to-sign-climate-bill-47360353",
-"https://grist.org/energy/does-your-state-want-to-cut-carbon-emissions-these-old-laws-could-be-standing-in-the-way-buildings-heat-pumps",
-"https://heraldnews.com/news/20190408/millennial-legislators-bond-around-push-for-renewables",
-"https://iheart.com/podcast/1002-nightside-with-dan-28654279/episode/home-equity-theft-in-ma-examined-112405391",
-"https://iheart.com/podcast/960-cindy-stumpo-is-tough-as-n-29001812/episode/the-brookline-gas-ban-53635615",
-"https://instagram.com/tommyvitolo",
-"https://lexington.wickedlocal.com/news/20200608/lexington-at-large-virtual-town-meeting-is-first",
-"https://mass.streetsblog.org/2020/03/12/public-transit-and-public-health",
-"https://mass.streetsblog.org/2020/12/23/brookline-contemplates-bus-lanes-for-its-biggest-transit-bottleneck",
-"https://mass.streetsblog.org/2023/02/06/this-years-legislative-agenda-includes-rail-electrification-congestion-pricing-and-traffic-enforcement-cameras",
-"https://mass.streetsblog.org/2023/10/04/billion-dollar-state-tax-cut-includes-expanded-deductions-for-bike-and-transit-expenses",
-"https://mass.streetsblog.org/2024/06/25/house-economic-development-bill-could-include-language-to-keep-cars-out-of-bus-lanes",
-"https://masslive.com/politics/2024/11/mass-bill-would-prohibit-tobacco-sales-to-anyone-born-after-specific-date.html",
-"https://medium.com/@PerryGrossman/energy-economics-and-extra-interview-with-tommy-vitolo-1762888480cc",
-"https://milforddailynews.com/news/20190824/political-notebook-pols-jump-at-possible-opening-for-4th-district-seat",
-"https://milforddailynews.com/news/20190924/grossman-khazei-jump-into-4th-district-race-for-kennedys-soon-to-be-vacant-seat",
-"https://msn.com/en-us/news/politics/ma-house-passes-offshore-wind-bill-with-rep-vitolo-s-amendment/ar-AAUJQph",
-"https://nbcboston.com/news/local/Who-Will-Run-for-RepJoe-Kennedy-III--House-Seat-Massachusetts-561273191.html",
-"https://nbcboston.com/news/local/mass-pike-allston-multimodal-project-reaction-boston/3307543",
-"https://nbcboston.com/on-air/as-seen-on/gas-tax-increase-proposed-in-bay-state/2083015",
-"https://newbedfordguide.com/brookline-artists-disabilities-space/2025/07/08",
-"https://newbedfordlight.org/local-lawmakers-condemn-home-equity-theft-as-city-officials-defend-tax-collection-tactics",
-"https://newburyportnews.com/news/regional_news/mass-trailing-on-seatbelt-use-oui-prevention-officials-testify/article_4cacf435-3a42-586c-8eae-19cac4a6faef.html",
-"https://patch.com/massachusetts/across-ma/new-ma-tax-bill-has-benefits-bike-train-bus-commuters",
-"https://patch.com/massachusetts/beaconhill/house-announces-1b-greenworks-resilient-communities-investment",
-"https://patch.com/massachusetts/brookline/2020-state-budget-includes-more-1-million-brookline",
-"https://patch.com/massachusetts/brookline/2022-brookline-state-rep-election-results-polls-closed",
-"https://patch.com/massachusetts/brookline/314-action-backs-brookline-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/ag-maura-healey-endorses-brookline-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/boston-teachers-union-endorses-brookline-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/brookline-joins-mbta-youth-pass-program",
-"https://patch.com/massachusetts/brookline/brookline-leaders-sign-statement-denouncing-atlanta-murders-hate",
-"https://patch.com/massachusetts/brookline/brookline-officials-share-their-goals-2020",
-"https://patch.com/massachusetts/brookline/brookline-organizations-funded-3-82b-arpa-spending-package",
-"https://patch.com/massachusetts/brookline/brookline-organizations-receive-200k-arpa-spending-package",
-"https://patch.com/massachusetts/brookline/brookline-pax-endorses-rep-tommy-vitolo-sen-cindy-creem",
-"https://patch.com/massachusetts/brookline/brookline-pushes-ma-continue-allow-remote-meetings",
-"https://patch.com/massachusetts/brookline/brookline-reenvision-beacon-street-inspired-olmsted",
-"https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-colleagues-announce-tax-reform-bill",
-"https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-endorsed-former-gov-mike-dukakis",
-"https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-endorsed-young-democrats-ma",
-"https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-joins-ma-legislators-debate-fy23-budget",
-"https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-speaks-out-state-s-fy-2023-budget",
-"https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-working-ban-home-equity-theft",
-"https://patch.com/massachusetts/brookline/brookline-rep-vitolo-join-auchincloss-state-union",
-"https://patch.com/massachusetts/brookline/brookline-rep-vitolo-secures-10m-local-transportation-projects",
-"https://patch.com/massachusetts/brookline/brookline-resident-recognized-state-house",
-"https://patch.com/massachusetts/brookline/brookline-resident-tommy-vitolo-kicks-state-rep-campaign",
-"https://patch.com/massachusetts/brookline/brookline-s-hybrid-town-meeting-home-rule-reported-favorably",
-"https://patch.com/massachusetts/brookline/brookline-state-rep-tommy-vitolo-announces-bid-reelection",
-"https://patch.com/massachusetts/brookline/brookline-town-meeting-member-recognized-black-excellence",
-"https://patch.com/massachusetts/brookline/brooklines-colonel-floyd-home-rule-petition-signed-law",
-"https://patch.com/massachusetts/brookline/brooklines-state-rep-tommy-vitolo-secures-spot-ballot",
-"https://patch.com/massachusetts/brookline/brooklines-tommy-vitolo-gets-another-enforcement-state-rep",
-"https://patch.com/massachusetts/brookline/brooklines-tommy-vitolo-gets-ma-afl-cio-endorsement",
-"https://patch.com/massachusetts/brookline/brooklines-tommy-vitolo-wins-democratic-primary-state-rep",
-"https://patch.com/massachusetts/brookline/brooklines-tv-tv-election-night-results-special-returns-tonight",
-"https://patch.com/massachusetts/brookline/brooklines-year-review-2018-top-stories",
-"https://patch.com/massachusetts/brookline/carpenters-local-328-endorses-brookline-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/coolidge-corner-theatre-breaks-ground-12-5m-expansion",
-"https://patch.com/massachusetts/brookline/election-2018-candidate-profile-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/election-day-brookline-2019-results-turnout",
-"https://patch.com/massachusetts/brookline/emergencys-end-complicates-brooklines-ongoing-town-meeting",
-"https://patch.com/massachusetts/brookline/ep/3793669/nodx",
-"https://patch.com/massachusetts/brookline/ep/3797988/nodx",
-"https://patch.com/massachusetts/brookline/ep/3803320/nodx",
-"https://patch.com/massachusetts/brookline/fair-share-amendment-maxes-tax-system-more-equitable-says-vitolo",
-"https://patch.com/massachusetts/brookline/five-more-unions-endorse-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/former-congressman-barney-frank-endorses-brookline-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/fy23-budget-include-175k-brookline-center-council-aging",
-"https://patch.com/massachusetts/brookline/house-addresses-challenges-faced-brookline-restaurants",
-"https://patch.com/massachusetts/brookline/house-completes-fy23-budget-debate-adds-50k-brookline-parklets",
-"https://patch.com/massachusetts/brookline/house-moves-create-women-s-history-trail-vitolo-s-support",
-"https://patch.com/massachusetts/brookline/house-passes-anti-hair-discrimination-act-vitolo-s-support",
-"https://patch.com/massachusetts/brookline/house-passes-bills-extend-covid-19-provisions-support-veterans",
-"https://patch.com/massachusetts/brookline/house-passes-bond-bill-1m-brookline-fire-station",
-"https://patch.com/massachusetts/brookline/house-passes-brookline-s-colonel-floyd-home-rule-petition",
-"https://patch.com/massachusetts/brookline/house-passes-chapter-90-transit-funding-vitolo-s-support",
-"https://patch.com/massachusetts/brookline/house-passes-gun-safety-amendment-rep-tommy-vitolo-s-support",
-"https://patch.com/massachusetts/brookline/house-passes-reproductive-rights-bill-rep-vitolo-s-support",
-"https://patch.com/massachusetts/brookline/house-passes-step-therapy-rodenticide-holyoke-soldiers-home-bills",
-"https://patch.com/massachusetts/brookline/house-passes-votes-act-brookline-rep-tommy-vitolo-s-support",
-"https://patch.com/massachusetts/brookline/how-ma-climate-bill-helps-brookline-meet-clean-energy-goals",
-"https://patch.com/massachusetts/brookline/how-mbta-s-new-proposed-bus-network-affects-brookline",
-"https://patch.com/massachusetts/brookline/i-will-continue-fight-reproductive-freedom-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/iron-workers-local-7-endorses-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/john-wilson-sculpture-mlk-unveiled-brookline-town-hall",
-"https://patch.com/massachusetts/brookline/juvenile-court-cases-return-brookline-after-just-2-days",
-"https://patch.com/massachusetts/brookline/lawmakers-include-25k-steps-success-brookline-fy23-budget",
-"https://patch.com/massachusetts/brookline/letter-editor-thank-you-note-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/ma-economic-development-bill-includes-funding-brookline-homes",
-"https://patch.com/massachusetts/brookline/ma-lawmakers-pass-2022-budget-funding-brookline-programs",
-"https://patch.com/massachusetts/brookline/ma-organization-state-engineers-scientists-endorses-rep-vitolo",
-"https://patch.com/massachusetts/brookline/mass-retirees-endorses-brookline-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/mass-voters-animals-endorses-brookline-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/maura-healey-endorses-brookline-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/pedestrian-death-sparks-safety-concerns-brookline-residents",
-"https://patch.com/massachusetts/brookline/politicians-pick-signs-stop-shop-workers-brookline",
-"https://patch.com/massachusetts/brookline/rep-tommy-vitolo-endorsed-bay-state-stonewall-democrats",
-"https://patch.com/massachusetts/brookline/rep-tommy-vitolo-endorsed-environmental-league-ma-action-fund",
-"https://patch.com/massachusetts/brookline/rep-tommy-vitolo-votes-favor-work-family-mobility-act",
-"https://patch.com/massachusetts/brookline/rep-vitolo-celebrates-342k-cultural-sector-grants-brookline",
-"https://patch.com/massachusetts/brookline/reproductive-equity-now-endorses-brookline-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/retired-brookline-police-officer-honored-black-excellence-award",
-"https://patch.com/massachusetts/brookline/saint-patricks-day-amid-pandemic-brooklines-irish-pub",
-"https://patch.com/massachusetts/brookline/sen-cindy-creem-endorses-brookline-rep-tommy-vitolo-reelection",
-"https://patch.com/massachusetts/brookline/several-brookline-residents-eye-kennedys-seat-congress",
-"https://patch.com/massachusetts/brookline/sierra-club-endorses-brookline-rep-tommy-vitolo-re-election",
-"https://patch.com/massachusetts/brookline/somerville-mayor-endorses-rep-tommy-vitolo-reelection",
-"https://patch.com/massachusetts/brookline/state-rep-vitolo-visits-brooklines-bay-cove-acaedmy",
-"https://patch.com/massachusetts/brookline/state-representative-vitolo-tours-new-senior-housing-site-nodx",
-"https://patch.com/massachusetts/brookline/tommy-vitolo-knows-how-play-sandbox-nodx",
-"https://patch.com/massachusetts/brookline/treasurer-deb-goldberg-endorses-brookline-rep-tommy-vitolo",
-"https://patch.com/massachusetts/brookline/whats-happening-brookline-hills-t-station-what-know",
-"https://patch.com/massachusetts/brookline/whats-next-brookline-tommy-vitolo-ahead-november",
-"https://patch.com/massachusetts/concord/concord-swimmers-outraged-new-restrictions-walden-pond ",
-"https://patch.com/massachusetts/fenwaykenmore/bicycle-advocates-form-human-chain-ask-dcr-protected-lanes",
-"https://patch.com/massachusetts/westford/where-find-christmas-trees-2021-westford-area",
-"https://politico.com/newsletters/massachusetts-playbook/2020/01/09/mass-reports-fourth-vaping-death-488022",
-"https://politico.com/newsletters/massachusetts-playbook/2020/01/13/healeys-take-on-nh-primary-kennedy-slams-markey-for-iraq-vote-pressleys-2020-plans-488052",
-"https://portuguese-american-journal.com/community-president-vasco-cordeiro-honored-at-the-portuguese-heritage-day-boston-ma",
-"https://recorder.com/COL-Norman-Home-Equity-Theft-45813539",
-"https://recorder.com/Governor-signs-ban-on-home-equity-theft-56265964",
-"https://recorder.com/Homeequity-51116018",
-"https://secure.actblue.com/donate/tommyforbrookline",
-"https://soundcloud.com/scamwell-tarley/house-cleaning-w-state-rep-tommy-vitolo-part-1",
-"https://soundcloud.com/scamwell-tarley/house-cleaning-w-tommy-vitolo-part-2",
-"https://spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/mass-building-gas-ban-movement-expands-after-2020-setback-62026427",
-"https://spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/massachusetts-gas-ban-movement-gathers-support-from-state-lawmakers-68732892",
-"https://telegram.com/news/20190930/seniors-struggle-with-rising-property-taxes-as-lawmakers-debate-solutions",
-"https://telegram.com/story/news/state/2024/06/28/massachusetts-bill-aims-to-save-homeowners-from-foreclosures-evictions/74225381007",
-"https://thecypressonline.com/48765/sports/btc-and-big-launch-new-broadcast-program",
-"https://thesagonline.com/37821/news/school-committee-addresses-community-questions-regarding-layoffs",
-"https://thesagonline.com/39414/news/climate-organizers-face-winding-path",
-"https://thesunchronicle.com/news/local_news/candidates-lining-up-to-run-for-kennedy-seat-in-congress/article_f23fda05-576f-5db4-b02b-0d761b9ebb59.html",
-"https://thesunchronicle.com/opinion/columns/jim-hand-crowded-field-for-kennedy-seat-could-create-an/article_9e9b2c91-adb8-5c4a-a0ce-57e1befb7864.html",
-"https://tommyvitolo.com/",
-"https://tommyvitolo.com/author/tjvitolo",
-"https://tommyvitolo.com/bills",
-"https://tommyvitolo.com/boards-committees",
-"https://tommyvitolo.com/contact",
-"https://tommyvitolo.com/endorsements",
-"https://tommyvitolo.com/mbta-fare-increase",
-"https://tommyvitolo.com/meet-tommy",
-"https://tommyvitolo.com/news",
-"https://tommyvitolo.com/organizations",
-"https://twitter.com/TommyVitolo",
-"https://universalhub.com/2019/nazis-find-their-way-brookline-village",
-"https://universalhub.com/2019/red-line-riders-complain-where-frickin-train",
-"https://universalhub.com/2019/your-morning-t-report-ts-no-smoking-policy-doesnt",
-"https://universalhub.com/2022/back-school-brookline-town-teachers-reach-deal",
-"https://washingtonpost.com/climate-environment/2021/02/23/climate-change-natural-gas",
-"https://wbjournal.com/article/state-reps-propose-bill-to-eventually-ban-sales-of-tobacco-and-nicotine-products",
-"https://wbur.org/earthwhile/2019/11/20/brookline-fossil-fuel-ban-heating-oil-natural-gas",
-"https://wbur.org/news/2022/03/17/massachusetts-energy-environmental-building-code-proposal-explainer",
-"https://wbur.org/news/2023/10/13/clean-energy-municipal-aggregation-program-backlog",
-"https://wbur.org/news/2024/11/25/massachusetts-tobacco-nicotine-phased-ban",
-"https://wbznewsradio.iheart.com/content/muni-officials-say-greener-power-wrapped-in-red-tape",
-"https://wcvb.com/article/brookline-passes-bylaw-banning-future-use-of-oil-gas-in-new-buildings/29865658",
-"https://wcvb.com/article/more-antisemitic-stickers-found-on-signs-poles/62690909",
-"https://wcvb.com/article/proposed-legislation-would-phase-out-nicotine-tobacco-sales-in-massachusetts/63012392",
-"https://wellesley.wickedlocal.com/news/20190919/kennedys-choice-shines-spotlight-on-two-races-creem-plans-to-stay-put",
-"https://wgbh.org/news/local-news/2021/12/16/legislators-push-for-towns-flexibility-to-lower-speed-limits-on-massachusetts-roads",
-"https://wgbh.org/news/politics/2022/08/11/baker-signs-bill-to-accelerate-clean-energy-push",
-"https://wickedlocal.com/story/brookline-tab/2020/11/04/brookline-teen-center-reopens/114699464",
-"https://wickedlocal.com/story/brookline-tab/2020/12/23/brookline-liquor-licenses-extended/4031531001",
-"https://wickedlocal.com/story/brookline-tab/2021/01/13/climate-bill-draws-brooklines-fossil-fuel-infrastructure-ban/4153801001",
-"https://wickedlocal.com/story/brookline-tab/2021/04/06/vitolo-new-climate-law-only-beginning/7096489002",
-"https://wickedlocal.com/story/brookline-tab/2021/05/14/massachusetts-house-passes-fiscal-year-2022-budget/4960434001",
-"https://wickedlocal.com/story/brookline-tab/2021/06/22/brooklines-first-juneteenth-moment-learn-and-celebrate/5296689001",
-"https://wickedlocal.com/story/country-gazette/2021/10/26/beacon-hill-roll-call-oct-18-22/8551208002",
-"https://wickedlocal.com/videos/brookline-tab/2021/10/19/brookline-mothers-out-front-rally-gas-leaks/8517531002",
-"https://wpri.com/new-england/massachusetts/proposed-law-would-gradually-phase-out-nicotine-tobacco-in-massachusetts",
-"https://wsj.com/articles/cities-try-to-phase-out-gas-stovesbut-cooks-are-pushing-back-11626514200",
-"https://yahoo.com/now/losing-home-unpaid-taxes-often-035900444.html",
-"https://youtube.com/watch?t=1912&v=uoPpQFQ8Lms",
-"https://youtube.com/watch?v=-24pPnKGGxo",
-"https://youtube.com/watch?v=2wmEu0Uspqw",
-"https://youtube.com/watch?v=6tvPaQThlVg",
-"https://youtube.com/watch?v=DXQ7d0T7kRs&t=26m40s",
-"https://youtube.com/watch?v=Hdu16OWZKjg",
-"https://youtube.com/watch?v=J5QG6SYgUxg",
-"https://youtube.com/watch?v=KZ03oqnb2So&feature=youtu.be",
-"https://youtube.com/watch?v=NCbFoRC1aaM",
-"https://youtube.com/watch?v=e6wy4rHb-EI",
-"https://youtube.com/watch?v=fzHs9_YZuTE&list=PL_kXbXA0-Qd4b99H0p8bAxt-oyR8bLv3o",
-"https://youtube.com/watch?v=hut3eOMgrvc",
-"https://youtube.com/watch?v=rOwPyyIUy_s",
-"https://youtube.com/watch?v=xOoVnscoVEM"
+{
+"text": "14 new Massachusetts State Reps support 100% renewable energy by 2050",
+"href": "https://www.desmogblog.com/2019/01/08/massachusetts-state-reps-support-100-renewable-energy-2050"
+},
+{
+"text": "2020 state budget includes more than $22.7 million for Brookline",
+"href": "https://patch.com/massachusetts/brookline/2020-state-budget-includes-more-1-million-brookline"
+},
+{
+"text": "314 Action backs Brookline Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/314-action-backs-brookline-rep-tommy-vitolo-re-election"
+},
+{
+"text": "A Conversation with School Committee Members Suzanne Federspiel & David Pearlman",
+"href": "https://www.youtube.com/watch?v=xOoVnscoVEM"
+},
+{
+"text": "A legislative lookback at 2019 with Brookline’s Rep. Vitolo",
+"href": "https://brookline.wickedlocal.com/news/20191225/legislative-lookback-at-2019-with-brooklines-rep-vitolo"
+},
+{
+"text": "A plan for democracy and distancing",
+"href": "https://brookline.wickedlocal.com/news/20200416/vitolo-plan-for-democracy-and-distancing"
+},
+{
+"text": "A thank you note from Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/letter-editor-thank-you-note-rep-tommy-vitolo"
+},
+{
+"text": "AG Maura Healey endorses Brookline Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/ag-maura-healey-endorses-brookline-rep-tommy-vitolo-re-election"
+},
+{
+"text": "AG rejects Brookline’s ban on oil, gas pipes in new buildings",
+"href": "https://www.bostonglobe.com/2020/07/21/metro/ag-rejects-brooklines-ban-oil-gas-pipes-new-buildings/"
+},
+{
+"text": "Activists clamor for Baker to sign climate bill",
+"href": "https://www.gazettenet.com/Activists-clamor-for-Baker-to-sign-climate-bill-47360353"
+},
+{
+"text": "Activists hail Supreme Court ruling on ‘home equity theft’",
+"href": "https://www.recorder.com/Homeequity-51116018"
+},
+{
+"text": "Affordable Homes Act passes the House…",
+"href": "https://brooklineforeveryone.com/2024/06/16/affordable-homes-act-passes-the-house-brooklines-juneteenth-celebrations-and-noteworthy-town-meetings/"
+},
+{
+"text": "Affordable senior housing project breaks ground in Brookline",
+"href": "https://brookline.wickedlocal.com/news/20190913/affordable-senior-housing-project-breaks-ground-in-brookline"
+},
+{
+"text": "Age Friendly Cities",
+"href": "https://www.youtube.com/watch?v=hut3eOMgrvc"
+},
+{
+"text": "Age Friendly Cities Episode 54: Tommy Vitolo",
+"href": "https://brooklineinteractive.org/age-friendly-cities-ep-54-tommy-vitolo/"
+},
+{
+"text": "All-electric new construction – how to electrify buildings in the US",
+"href": "https://www.youtube.com/watch?v=NCbFoRC1aaM"
+},
+{
+"text": "Around town: Election Day in Brookline",
+"href": "http://brookline.wickedlocal.com/news/20181106/around-town-election-day-in-brookline"
+},
+{
+"text": "As Joe Kennedy announces Senate campaign, pols move toward bids for his Congressional seat",
+"href": "https://www.bostonglobe.com/metro/2019/09/20/joe-kennedy-announces-senate-campaign-pols-move-toward-bids-for-his-congressional-seat/ciz6cGaTXegQ8kgIawKtYK/story.html"
+},
+{
+"text": "As the Middle East war continues, Brookline Jews and Muslims gather for collective mourning",
+"href": "https://www.bostonglobe.com/2023/11/05/metro/middle-east-war-continues-brookline-jews-muslims-gather-collective-mourning/"
+},
+{
+"text": "As uncertainty grows, Brookline community gathers in solidarity at Sichuan Gourmet",
+"href": "https://brookline.wickedlocal.com/news/20200313/as-uncertainty-grows-brookline-community-gathers-in-solidarity-at-sichuan-gourmet"
+},
+{
+"text": "Ayanna Pressley warns Mass. is reopening too quickly, asks Baker to ‘re-evaluate his timeline’",
+"href": "https://www.bostonglobe.com/2020/05/19/nation/ayanna-pressley-says-mass-isnt-ready-reopen/"
+},
+{
+"text": "BHA breaks ground on new 115-unit affordable housing project on Marion Street",
+"href": "https://brookline.news/bha-breaks-ground-on-new-115-unit-affordable-housing-project-on-marion-street/"
+},
+{
+"text": "BHA opens Brookline’s largest affordable housing development in more than 50 years",
+"href": "https://brookline.news/bha-opens-brooklines-largest-affordable-housing-development-in-more-than-50-years/"
+},
+{
+"text": "BHS varsity basketball vs. Newton North, featuring Tommy Vitolo on color commentary",
+"href": "https://brooklineinteractive.org/bhs-varsity-basketball-vs-newton-north-february-9-2024/"
+},
+{
+"text": "BTC and BIG launch new broadcast program",
+"href": "https://thecypressonline.com/48765/sports/btc-and-big-launch-new-broadcast-program/"
+},
+{
+"text": "Back to school in Brookline: Town, teachers reach deal",
+"href": "https://www.universalhub.com/2022/back-school-brookline-town-teachers-reach-deal"
+},
+{
+"text": "Background",
+"href": "https://tommyvitolo.com/meet-tommy/"
+},
+{
+"text": "Baker proposes 2-month, not 2-day, sales tax holiday",
+"href": "https://commonwealthmagazine.org/state-government/baker-proposes-2-month-not-2-day-sales-tax-holiday/"
+},
+{
+"text": "Baker rides the T",
+"href": "https://commonwealthmagazine.org/transportation/baker-rides-the-t/"
+},
+{
+"text": "Baker signs bill to accelerate clean energy push",
+"href": "https://www.wgbh.org/news/politics/2022/08/11/baker-signs-bill-to-accelerate-clean-energy-push"
+},
+{
+"text": "Battle reignites over first East Coast gas bans",
+"href": "https://www.eenews.net/stories/1063720135"
+},
+{
+"text": "Beacon Hill roll call",
+"href": "https://www.wickedlocal.com/story/country-gazette/2021/10/26/beacon-hill-roll-call-oct-18-22/8551208002/"
+},
+{
+"text": "Behind the home rule petition",
+"href": "https://brookline.news/behind-the-home-rule-petition-how-brookline-town-meetings-progressive-pushes-keep-running-into-beacon-hill-roadblocks/"
+},
+{
+"text": "Bicycle advocates form human chain, ask DCR for protected lanes",
+"href": "https://patch.com/massachusetts/fenwaykenmore/bicycle-advocates-form-human-chain-ask-dcr-protected-lanes"
+},
+{
+"text": "Bike shops now included as an essential service during pandemic (March 26)",
+"href": "https://www.boston.com/news/local-news/2020/03/23/massachusetts-new-england-coronavirus-covid-19-latest-news"
+},
+{
+"text": "Bill seeks electric-ready infrastructure in all new construction",
+"href": "https://www.bankerandtradesman.com/bill-seeks-electric-ready-infrastructure-in-all-new-construction/"
+},
+{
+"text": "Billion-dollar state tax cut includes expanded deductions for bike and transit expenses",
+"href": "https://mass.streetsblog.org/2023/10/04/billion-dollar-state-tax-cut-includes-expanded-deductions-for-bike-and-transit-expenses/"
+},
+{
+"text": "Bills",
+"href": "https://tommyvitolo.com/bills"
+},
+{
+"text": "Bills",
+"href": "https://tommyvitolo.com/bills/"
+},
+{
+"text": "Bills support homeowners in foreclosures, bars municipalities from keeping more than owed",
+"href": "https://www.telegram.com/story/news/state/2024/06/28/massachusetts-bill-aims-to-save-homeowners-from-foreclosures-evictions/74225381007/"
+},
+{
+"text": "Boston Teachers Union endorses Brookline Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/boston-teachers-union-endorses-brookline-rep-tommy-vitolo"
+},
+{
+"text": "Brookline 911 Remembrance Event",
+"href": "https://brooklineinteractive.org/brookline-911-remembrance-event-september-11-2020/"
+},
+{
+"text": "Brookline Democratic Town Committee Legislative Roundtable",
+"href": "https://brooklineinteractive.org/democratic-town-committee-meeting/"
+},
+{
+"text": "Brookline High students propose gas tax to promote alternative transportation",
+"href": "http://brookline.wickedlocal.com/news/20170418/brookline-high-students-propose-gas-tax-to-promote-alternative-transportation"
+},
+{
+"text": "Brookline Housing Authority will use $500k earmark to redo dozens of kitchens with electric stoves",
+"href": "https://brookline.news/brookline-housing-authority-will-use-500k-earmark-to-redo-dozens-of-kitchens-with-electric-stoves/"
+},
+{
+"text": "Brookline Housing Authority’s Trustman Apartments and Egmont Street Veterans Renovation Project",
+"href": "https://www.youtube.com/watch?v=2wmEu0Uspqw"
+},
+{
+"text": "Brookline Memorial Day 2024",
+"href": "https://brooklineinteractive.org/brookline-memorial-day-2024/"
+},
+{
+"text": "Brookline Mothers Out Front rally on gas leaks",
+"href": "https://www.wickedlocal.com/videos/brookline-tab/2021/10/19/brookline-mothers-out-front-rally-gas-leaks/8517531002/"
+},
+{
+"text": "Brookline PAX endorses Rep. Tommy Vitolo & Sen. Cindy Creem",
+"href": "https://patch.com/massachusetts/brookline/brookline-pax-endorses-rep-tommy-vitolo-sen-cindy-creem"
+},
+{
+"text": "Brookline Pushes MA to continue to allow remote meetings",
+"href": "https://patch.com/massachusetts/brookline/brookline-pushes-ma-continue-allow-remote-meetings"
+},
+{
+"text": "Brookline Rep. Tommy Vitolo endorsed by former Gov. Mike Dukakis",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-endorsed-former-gov-mike-dukakis"
+},
+{
+"text": "Brookline Rep. Tommy Vitolo endorsed by the Young Democrats Of MA",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-endorsed-young-democrats-ma"
+},
+{
+"text": "Brookline Rep. Tommy Vitolo joins MA legislators to debate FY23 budget",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-joins-ma-legislators-debate-fy23-budget"
+},
+{
+"text": "Brookline Rep. Tommy Vitolo speaks out on state’s FY 2023 budget",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-speaks-out-state-s-fy-2023-budget"
+},
+{
+"text": "Brookline Rep. Tommy Vitolo working to ban ‘home equity theft’",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-working-ban-home-equity-theft"
+},
+{
+"text": "Brookline Rep. Tommy Vitolo, colleagues announce tax reform bill",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-tommy-vitolo-colleagues-announce-tax-reform-bill"
+},
+{
+"text": "Brookline Rep. Vitolo to join Auchincloss for State of the Union",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-vitolo-join-auchincloss-state-union"
+},
+{
+"text": "Brookline State Rep Tommy Vitolo announces bid for reelection",
+"href": "https://patch.com/massachusetts/brookline/brookline-state-rep-tommy-vitolo-announces-bid-reelection"
+},
+{
+"text": "Brookline State Rep. Frank Smizik to retire after 18 years",
+"href": "http://brookline.wickedlocal.com/news/20171221/brookline-state-rep-frank-smizik-to-retire-after-18-years"
+},
+{
+"text": "Brookline Strong — the HeartBeat Sessions",
+"href": "https://brooklineinteractive.org/brookline-strong-the-heartbeat-sessions/"
+},
+{
+"text": "Brookline Teen Center reopens",
+"href": "https://www.wickedlocal.com/story/brookline-tab/2020/11/04/brookline-teen-center-reopens/114699464/"
+},
+{
+"text": "Brookline Town Election – 2021 Live Results",
+"href": "https://brooklineinteractive.org/brookline-town-election-2021-live-results/"
+},
+{
+"text": "Brookline Town Meeting Member recognized for Black excellence",
+"href": "https://patch.com/massachusetts/brookline/brookline-town-meeting-member-recognized-black-excellence"
+},
+{
+"text": "Brookline Transportation Board Meeting: MBTA C Line closure and track rebuild plans",
+"href": "https://brooklineinteractive.org/transportation-board-meeting-april-13-2020/"
+},
+{
+"text": "Brookline Veterans Day Ceremony",
+"href": "https://brooklineinteractive.org/brooklines-veterans-day-ceremony-november-11-2020/"
+},
+{
+"text": "Brookline Virtual Town Hall: Communities of Faith",
+"href": "https://brooklineinteractive.org/brookline-virtual-town-hall-communities-of-faith-april-22nd-2020-2/"
+},
+{
+"text": "Brookline Youth Awards recognize student altruism",
+"href": "https://brookline.wickedlocal.com/news/20190416/brookline-youth-awards-recognize-student-altruism"
+},
+{
+"text": "Brookline adopts ban on new gas and oil infrastructure in major construction",
+"href": "https://brookline.wickedlocal.com/news/20191122/brookline-adopts-ban-on-new-gas-and-oil-infrastructure-in-major-construction"
+},
+{
+"text": "Brookline au pairs get the full American experience",
+"href": "https://brookline.wickedlocal.com/news/20190404/brookline-au-pairs-get-full-american-experience"
+},
+{
+"text": "Brookline candidates nearing end of their campaigns",
+"href": "http://brookline.wickedlocal.com/news/20180829/brookline-candidates-nearing-end-of-their-campaigns"
+},
+{
+"text": "Brookline celebrates Indigenous Peoples’ Day with community event",
+"href": "https://dailyfreepress.com/2023/10/11/brookline-celebrates-indigenous-peoples-day-with-community-event/"
+},
+{
+"text": "Brookline committee plans to honor renowned sculptor",
+"href": "http://brookline.wickedlocal.com/news/20171023/brookline-committee-plans-to-honor-renowned-sculptor"
+},
+{
+"text": "Brookline considers bus lanes for its biggest transit bottleneck",
+"href": "https://mass.streetsblog.org/2020/12/23/brookline-contemplates-bus-lanes-for-its-biggest-transit-bottleneck"
+},
+{
+"text": "Brookline considers bus lanes for its biggest transit bottleneck",
+"href": "https://mass.streetsblog.org/2020/12/23/brookline-contemplates-bus-lanes-for-its-biggest-transit-bottleneck/"
+},
+{
+"text": "Brookline demonstrators fill Coolidge Corner to mark American Revolution anniversary, protest Trump",
+"href": "https://brookline.news/brookline-demonstrators-fill-coolidge-corner-to-mark-american-revolution-anniversary-protest-trump/"
+},
+{
+"text": "Brookline election results: Fernandez wins, override fails",
+"href": "https://patch.com/massachusetts/brookline/election-day-brookline-2019-results-turnout"
+},
+{
+"text": "Brookline elects Tommy Vitolo for State Rep",
+"href": "http://brookline.wickedlocal.com/news/20180904/brookline-elects-tommy-vitolo-for-state-rep"
+},
+{
+"text": "Brookline firefighters test positive for coronavirus; others in isolation",
+"href": "https://brookline.wickedlocal.com/news/20200325/brookline-firefighters-test-positive-for-coronavirus-others-in-isolation"
+},
+{
+"text": "Brookline is still cooking with gas, but has banned fossil fuels for heating",
+"href": "https://www.wbur.org/earthwhile/2019/11/20/brookline-fossil-fuel-ban-heating-oil-natural-gas"
+},
+{
+"text": "Brookline joins MBTA Youth Pass program",
+"href": "https://patch.com/massachusetts/brookline/brookline-joins-mbta-youth-pass-program"
+},
+{
+"text": "Brookline launches renewable energy program with opt-out system",
+"href": "http://brookline.wickedlocal.com/news/20170719/brookline-launches-renewable-energy-program-with-opt-out-system"
+},
+{
+"text": "Brookline leaders sign statement denouncing Atlanta murders, hate",
+"href": "https://patch.com/massachusetts/brookline/brookline-leaders-sign-statement-denouncing-atlanta-murders-hate"
+},
+{
+"text": "Brookline liquor licenses extended",
+"href": "https://www.wickedlocal.com/story/brookline-tab/2020/12/23/brookline-liquor-licenses-extended/4031531001/"
+},
+{
+"text": "Brookline moved to ban oil and gas pipes in new buildings. Maura Healey says they can’t.",
+"href": "https://www.boston.com/news/local-news/2020/07/22/maura-healey-brookline-oil-gas-ban-ruling"
+},
+{
+"text": "Brookline officials share their goals for 2020",
+"href": "https://patch.com/massachusetts/brookline/brookline-officials-share-their-goals-2020"
+},
+{
+"text": "Brookline organizations funded in $#B ARPA spending package",
+"href": "https://patch.com/massachusetts/brookline/brookline-organizations-funded-3-82b-arpa-spending-package"
+},
+{
+"text": "Brookline organizations get a nod in the state FY2020 budget",
+"href": "https://brookline.wickedlocal.com/news/20190723/brookline-organizations-get-nod-in-state-fy2020-budget"
+},
+{
+"text": "Brookline organizations to receive $300K in ARPA spending package",
+"href": "https://patch.com/massachusetts/brookline/brookline-organizations-receive-200k-arpa-spending-package"
+},
+{
+"text": "Brookline overwhelmingly passes bylaw to ban use of oil & gas in new buildings",
+"href": "https://www.boston25news.com/news/brookline-overwhelmingly-passes-bylaw-to-ban-use-of-oil-gas-in-new-buildings/1010850067"
+},
+{
+"text": "Brookline passes bylaw banning future use of oil, gas in new buildings",
+"href": "https://www.wcvb.com/article/brookline-passes-bylaw-banning-future-use-of-oil-gas-in-new-buildings/29865658"
+},
+{
+"text": "Brookline public school parent recognized at State House",
+"href": "https://patch.com/massachusetts/brookline/brookline-resident-recognized-state-house"
+},
+{
+"text": "Brookline reps secure $50K for Brookline",
+"href": "https://brookline.wickedlocal.com/news/20191021/brookline-reps-secure-50k-for-brookline"
+},
+{
+"text": "Brookline resident Tommy Vitolo kicks off State Rep campaign",
+"href": "https://patch.com/massachusetts/brookline/brookline-resident-tommy-vitolo-kicks-state-rep-campaign"
+},
+{
+"text": "Brookline residents rail against proposed MBTA service cuts",
+"href": "http://brookline.wickedlocal.com/x297841334/Brookline-residents-turn-out-to-decry-MBTA-proposals"
+},
+{
+"text": "Brookline schools receive $7K from Massachusetts Cultural Council grants",
+"href": "https://brookline.wickedlocal.com/news/20200210/brookline-schools-receive-7k-from-massachusetts-cultural-council-grants"
+},
+{
+"text": "Brookline to offer reduced fare T passes for low-income riders",
+"href": "https://brookline.wickedlocal.com/news/20190315/brookline-to-offer-reduced-fare-t-passes-for-low-income-riders"
+},
+{
+"text": "Brookline to reenvision Beacon Street inspired by Olmsted",
+"href": "https://patch.com/massachusetts/brookline/brookline-reenvision-beacon-street-inspired-olmsted"
+},
+{
+"text": "Brookline vs. Newton North Tigers Varsity Basketball",
+"href": "https://brooklineinteractive.org/brookline-warriors-vs-newton-north-tigers/"
+},
+{
+"text": "Brookline vs. Springfield Central girls varsity basketball",
+"href": "https://brooklineinteractive.org/brookline-warriors-girls-varsity-play-off-game-2/"
+},
+{
+"text": "Brookline wants a fossil fuel-free future. With latest ruling, the AG says: Not yet (again).",
+"href": "https://www.bostonglobe.com/2022/02/25/science/brookline-wants-fossil-fuel-free-future-with-latest-ruling-state-says-not-yet-again/"
+},
+{
+"text": "Brookline weighs its housing future as zoning law deadline approaches",
+"href": "https://brookline.news/brookline-weighs-its-housing-future-as-zoning-law-deadline-approaches/"
+},
+{
+"text": "BrooklineHub Interviews with 15th Norfolk State Rep candidates",
+"href": "https://www.brooklinehub.com/brooklinehub-interviews-with-15th-norfolk-state-rep-candidates/"
+},
+{
+"text": "BrooklineStrong.org the heartbeat sessions, featuring State Representative Tommy Vitolo",
+"href": "https://brooklineinteractive.org/brookline-strong-tommy-vitolo/"
+},
+{
+"text": "Brookline’s 9/11 Remembrance Ceremony",
+"href": "https://brooklineinteractive.org/brooklines-2021-9-11-memorial-service-sept-11th-2021/"
+},
+{
+"text": "Brookline’s Colonel Floyd home rule signed into law",
+"href": "https://patch.com/massachusetts/brookline/brooklines-colonel-floyd-home-rule-petition-signed-law"
+},
+{
+"text": "Brookline’s Rep. Vitolo secures $10M for local transportation projects",
+"href": "https://patch.com/massachusetts/brookline/brookline-rep-vitolo-secures-10m-local-transportation-projects"
+},
+{
+"text": "Brookline’s Rep. Vitolo: All roads lead to transportation",
+"href": "https://brookline.wickedlocal.com/news/20200101/brooklines-rep-vitolo-all-roads-lead-to-transportation"
+},
+{
+"text": "Brookline’s State Rep. Tommy Vitolo secures spot on ballot",
+"href": "https://patch.com/massachusetts/brookline/brooklines-state-rep-tommy-vitolo-secures-spot-ballot"
+},
+{
+"text": "Brookline’s Tommy Vitolo gets MA AFL-CIO endorsement",
+"href": "https://patch.com/massachusetts/brookline/brooklines-tommy-vitolo-gets-ma-afl-cio-endorsement"
+},
+{
+"text": "Brookline’s Tommy Vitolo gets another endorsement for State Rep",
+"href": "https://patch.com/massachusetts/brookline/brooklines-tommy-vitolo-gets-another-enforcement-state-rep"
+},
+{
+"text": "Brookline’s Tommy Vitolo wins Democratic primary for State Rep",
+"href": "https://patch.com/massachusetts/brookline/brooklines-tommy-vitolo-wins-democratic-primary-state-rep"
+},
+{
+"text": "Brookline’s ban on oil and gas in new buildings could just be the start",
+"href": "https://www.boston.com/news/local-news/2019/11/21/brookline-gas-oil-ban"
+},
+{
+"text": "Brookline’s commercial sector going green",
+"href": "https://brookline.wickedlocal.com/news/20191001/brooklines-commercial-sector-going-green"
+},
+{
+"text": "Brookline’s hybrid town meeting home rule reported favorably",
+"href": "https://patch.com/massachusetts/brookline/brookline-s-hybrid-town-meeting-home-rule-reported-favorably"
+},
+{
+"text": "Brookline’s rent control bid advances through state legislature",
+"href": "https://brookline.news/brooklines-rent-control-bid-advances-through-state-legislature/"
+},
+{
+"text": "Brookline’s year in review: 2018 top stories",
+"href": "https://patch.com/massachusetts/brookline/brooklines-year-review-2018-top-stories"
+},
+{
+"text": "Brookline’s ‘TV on TV: Election Night Results Special’ returns tonight",
+"href": "https://patch.com/massachusetts/brookline/brooklines-tv-tv-election-night-results-special-returns-tonight"
+},
+{
+"text": "Candidates lining up to run for Kennedy seat in Congress",
+"href": "https://www.thesunchronicle.com/news/local_news/candidates-lining-up-to-run-for-kennedy-seat-in-congress/article_f23fda05-576f-5db4-b02b-0d761b9ebb59.html"
+},
+{
+"text": "Carbon pricing winning issue in Mass. legislative races",
+"href": "https://climate-xchange.org/2018/11/06/carbon-pricing-winning-issue-mass-legislative-races/"
+},
+{
+"text": "Carpenters Local 328 endorses Brookline Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/carpenters-local-328-endorses-brookline-rep-tommy-vitolo"
+},
+{
+"text": "Cities try to phase out gas stoves – but cooks are pushing back",
+"href": "https://www.wsj.com/articles/cities-try-to-phase-out-gas-stovesbut-cooks-are-pushing-back-11626514200"
+},
+{
+"text": "Climate organizers face winding path",
+"href": "https://thesagonline.com/39414/news/climate-organizers-face-winding-path/"
+},
+{
+"text": "Commentary: ‘This is for my grandson’– GBIO faithful take up the righteous cause of racial justice",
+"href": "https://www.dotnews.com/2020/commentary-my-grandson-gbio-faithful-take-righteous-cause-racial"
+},
+{
+"text": "Committees",
+"href": "https://tommyvitolo.com/boards-committees/"
+},
+{
+"text": "Community: President Vasco Cordeiro honored at the Portuguese Heritage Day",
+"href": "https://portuguese-american-journal.com/community-president-vasco-cordeiro-honored-at-the-portuguese-heritage-day-boston-ma/"
+},
+{
+"text": "Concord swimmers outraged by new restrictions on Walden Pond",
+"href": "https://patch.com/massachusetts/concord/concord-swimmers-outraged-new-restrictions-walden-pond%20/"
+},
+{
+"text": "Contact",
+"href": "https://tommyvitolo.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://tommyvitolo.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/tommyforbrookline"
+},
+{
+"text": "Coolidge Corner Theatre breaks ground on $12.5M expansion",
+"href": "https://patch.com/massachusetts/brookline/coolidge-corner-theatre-breaks-ground-12-5m-expansion"
+},
+{
+"text": "Democrats want Charlie Baker to ride the T as Red Line repairs cause delays",
+"href": "https://boston.cbslocal.com/2019/06/13/mbta-red-line-delays-derailment-massachusetts-governor-charlie-baker/"
+},
+{
+"text": "Does your state want to cut carbon emissions? These old laws could be standing in the way.",
+"href": "https://grist.org/energy/does-your-state-want-to-cut-carbon-emissions-these-old-laws-could-be-standing-in-the-way-buildings-heat-pumps/"
+},
+{
+"text": "Down to earth: Residents find small ways to make big change",
+"href": "http://brookline.wickedlocal.com/x1689552738"
+},
+{
+"text": "Election 2018: Candidate profile of Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/election-2018-candidate-profile-tommy-vitolo"
+},
+{
+"text": "Electricity suppliers: The good, the bad, & the ugly",
+"href": "https://blog.greenenergyconsumers.org/blog/electricity-suppliers-the-good-the-bad-the-ugly"
+},
+{
+"text": "Emergency’s end complicates Brookline’s ongoing Town Meeting",
+"href": "https://patch.com/massachusetts/brookline/emergencys-end-complicates-brooklines-ongoing-town-meeting"
+},
+{
+"text": "End the DPU’s stall on municipal electricity aggregation",
+"href": "https://commonwealthmagazine.org/opinion/end-the-dpus-stall-on-municipal-electricity-aggregation/"
+},
+{
+"text": "Endorsements",
+"href": "https://tommyvitolo.com/endorsements"
+},
+{
+"text": "Energy Economics and Extra: Interview with Tommy Vitolo",
+"href": "https://medium.com/@PerryGrossman/energy-economics-and-extra-interview-with-tommy-vitolo-1762888480cc"
+},
+{
+"text": "Engaged citizen corner: vote by mail",
+"href": "https://brookline.wickedlocal.com/news/20200520/engaged-citizen-corner-vote-by-mail"
+},
+{
+"text": "Eye on 2020",
+"href": "https://www.politico.com/newsletters/massachusetts-playbook/2020/01/09/mass-reports-fourth-vaping-death-488022"
+},
+{
+"text": "Eyes on the State House: Rep. Tommy Vitolo reflects on 2023 and his future",
+"href": "https://brookline.news/eyes-on-the-state-house-rep-tommy-vitolo-reflects-on-2023-and-his-future/"
+},
+{
+"text": "FY23 budget to include $175k for Brookline Center, Council on Aging",
+"href": "https://patch.com/massachusetts/brookline/fy23-budget-include-175k-brookline-center-council-aging"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteVitolo/"
+},
+{
+"text": "Fair Share Amendment makes tax system more equitable, says Vitolo",
+"href": "https://patch.com/massachusetts/brookline/fair-share-amendment-maxes-tax-system-more-equitable-says-vitolo"
+},
+{
+"text": "Faith groups and activists mobilize in Brookline to support immigrant families",
+"href": "https://brookline.news/faith-groups-and-activists-mobilize-in-brookline-to-support-immigrant-families/"
+},
+{
+"text": "Five more unions endorse Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/five-more-unions-endorse-rep-tommy-vitolo-re-election"
+},
+{
+"text": "Five state legislators outline strategy to counter Trump administration at Brookline forum",
+"href": "https://brookline.news/five-state-legislators-outline-strategy-to-counter-trump-administration-at-brookline-forum/"
+},
+{
+"text": "Former Congressman Barney Frank endorses Brookline Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/former-congressman-barney-frank-endorses-brookline-rep-tommy-vitolo"
+},
+{
+"text": "Gas is in the past after second night of Brookline Special Town Meeting",
+"href": "https://brookline.wickedlocal.com/news/20191120/gas-is-in-past-after-second-night-of-brookline-special-town-meeting"
+},
+{
+"text": "Gas tax increase proposed in Bay State",
+"href": "https://www.nbcboston.com/on-air/as-seen-on/gas-tax-increase-proposed-in-bay-state/2083015/"
+},
+{
+"text": "Gateway Arts opens new expanded center on Station Street",
+"href": "https://brookline.news/gateway-arts-opens-new-expanded-center-on-station-street/"
+},
+{
+"text": "Glowing Faith",
+"href": "https://blogs.timesofisrael.com/glowing-faith/"
+},
+{
+"text": "Governor Baker punctuates formal session’s end by signing clean energy bill",
+"href": "https://fallriverreporter.com/governor-baker-punctuates-formal-sessions-end-by-signing-clean-energy-bill/"
+},
+{
+"text": "Governor signs ban on home equity theft",
+"href": "https://www.recorder.com/Governor-signs-ban-on-home-equity-theft-56265964"
+},
+{
+"text": "Green House Fest showcases green homes, vehicles",
+"href": "https://brookline.wickedlocal.com/news/20190513/green-house-fest-showcases-green-homes-vehicles"
+},
+{
+"text": "Grossman, Khazei jump into 4th District race for Kennedy’s soon-to-be-vacant seat",
+"href": "https://www.milforddailynews.com/news/20190924/grossman-khazei-jump-into-4th-district-race-for-kennedys-soon-to-be-vacant-seat"
+},
+{
+"text": "Guest Column: Senate bill on climate change is the stronger of the two",
+"href": "http://brookline.wickedlocal.com/news/20160727/guest-column-senate-bill-on-climate-change-is-stronger-of-two"
+},
+{
+"text": "Guest Column: Vote Yes on Question 2",
+"href": "https://brookline.wickedlocal.com/news/20201026/opinion-guest-column-vote-yes-on-question-2/"
+},
+{
+"text": "Guest commentary: Brookline PAX endorsements",
+"href": "http://brookline.wickedlocal.com/news/20180819/guest-commentary-brookline-pax-endorsements"
+},
+{
+"text": "Hate crimes fuel push for more security grants",
+"href": "https://www.bostonglobe.com/2024/04/12/metro/hate-crimes-fuel-push-more-security-grants/"
+},
+{
+"text": "Healey reluctantly rejects Brookline bylaw",
+"href": "https://commonwealthmagazine.org/energy/healey-reluctantly-rejects-brookline-bylaw/"
+},
+{
+"text": "Healey’s take on NH primary",
+"href": "https://www.politico.com/newsletters/massachusetts-playbook/2020/01/13/healeys-take-on-nh-primary-kennedy-slams-markey-for-iraq-vote-pressleys-2020-plans-488052"
+},
+{
+"text": "Home",
+"href": "https://tommyvitolo.com"
+},
+{
+"text": "Home",
+"href": "https://tommyvitolo.com/"
+},
+{
+"text": "Home equity theft in Massachusetts examined",
+"href": "https://www.iheart.com/podcast/1002-nightside-with-dan-28654279/episode/home-equity-theft-in-ma-examined-112405391/"
+},
+{
+"text": "House addresses challenges faced by Brookline restaurants",
+"href": "https://patch.com/massachusetts/brookline/house-addresses-challenges-faced-brookline-restaurants"
+},
+{
+"text": "House announces $1B GreenWorks resilient communities investment",
+"href": "https://patch.com/massachusetts/beaconhill/house-announces-1b-greenworks-resilient-communities-investment"
+},
+{
+"text": "House cleaning w/ State Rep. Tommy Vitolo (part 1)",
+"href": "https://soundcloud.com/scamwell-tarley/house-cleaning-w-state-rep-tommy-vitolo-part-1"
+},
+{
+"text": "House cleaning w/ State Rep. Tommy Vitolo (part 2)",
+"href": "https://soundcloud.com/scamwell-tarley/house-cleaning-w-tommy-vitolo-part-2"
+},
+{
+"text": "House completes FY23 budget debate, adds $50k for Brookline parklets",
+"href": "https://patch.com/massachusetts/brookline/house-completes-fy23-budget-debate-adds-50k-brookline-parklets"
+},
+{
+"text": "House economic development bill could include language to keep cars out of bus lanes",
+"href": "https://mass.streetsblog.org/2024/06/25/house-economic-development-bill-could-include-language-to-keep-cars-out-of-bus-lanes"
+},
+{
+"text": "House moves to create women’s history trail with Vitolo’s support",
+"href": "https://patch.com/massachusetts/brookline/house-moves-create-women-s-history-trail-vitolo-s-support"
+},
+{
+"text": "House passes Brookline’s Colonel Floyd home rule petition",
+"href": "https://patch.com/massachusetts/brookline/house-passes-brookline-s-colonel-floyd-home-rule-petition"
+},
+{
+"text": "House passes Chapter 90 transit funding with Vitolo’s support",
+"href": "https://patch.com/massachusetts/brookline/house-passes-chapter-90-transit-funding-vitolo-s-support"
+},
+{
+"text": "House passes anti-hair discrimination act with Vitolo’s support",
+"href": "https://patch.com/massachusetts/brookline/house-passes-anti-hair-discrimination-act-vitolo-s-support"
+},
+{
+"text": "House passes bills to extend COVID-19 provisions & support veterans",
+"href": "https://patch.com/massachusetts/brookline/house-passes-bills-extend-covid-19-provisions-support-veterans"
+},
+{
+"text": "House passes bond bill with $1M for Brookline fire station",
+"href": "https://patch.com/massachusetts/brookline/house-passes-bond-bill-1m-brookline-fire-station"
+},
+{
+"text": "House passes gun safety amendment with Rep. Tommy Vitolo’s support",
+"href": "https://patch.com/massachusetts/brookline/house-passes-gun-safety-amendment-rep-tommy-vitolo-s-support"
+},
+{
+"text": "House passes reproductive rights bill with Rep. Vitolo’s support",
+"href": "https://patch.com/massachusetts/brookline/house-passes-reproductive-rights-bill-rep-vitolo-s-support"
+},
+{
+"text": "House passes step therapy, rodenticide, & Holyoke Soldiers’ Home bills",
+"href": "https://patch.com/massachusetts/brookline/house-passes-step-therapy-rodenticide-holyoke-soldiers-home-bills"
+},
+{
+"text": "House passes the VOTES Act with Brookline Rep. Tommy Vitolo’s support",
+"href": "https://patch.com/massachusetts/brookline/house-passes-votes-act-brookline-rep-tommy-vitolo-s-support"
+},
+{
+"text": "How Brookline’s representatives in the State House are gearing up to combat Trump’s agenda",
+"href": "https://brookline.news/how-brooklines-representatives-in-the-state-house-are-gearing-up-to-combat-trumps-agenda/"
+},
+{
+"text": "How the MA climate bill helps Brookline meet clean energy goals",
+"href": "https://patch.com/massachusetts/brookline/how-ma-climate-bill-helps-brookline-meet-clean-energy-goals"
+},
+{
+"text": "How the MBTA’s new proposed bus network affects Brookline",
+"href": "https://patch.com/massachusetts/brookline/how-mbta-s-new-proposed-bus-network-affects-brookline"
+},
+{
+"text": "In Brookline, pharmacy cigarette sales could go up in smoke",
+"href": "http://brookline.wickedlocal.com/x524588904/In-Brookline-pharmacy-cigarette-sales-could-go-up-in-smoke"
+},
+{
+"text": "In a first for Massachusetts, Brookline votes to ban oil and gas pipes in new buildings",
+"href": "https://www.bostonglobe.com/metro/2019/11/20/first-for-massachusetts-brookline-votes-ban-oil-and-gas-pipes-new-buildings/24RdqjUOldI5qrqF6zfiHP/story.html"
+},
+{
+"text": "In addition to all else, Tommy is a mensch!",
+"href": "https://patch.com/massachusetts/brookline/ep/3797988/nodx"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tommyvitolo/"
+},
+{
+"text": "Iron Workers Local 7 endorses Rep. Tommy Vitolo for Re-Election",
+"href": "https://patch.com/massachusetts/brookline/iron-workers-local-7-endorses-rep-tommy-vitolo-re-election"
+},
+{
+"text": "Jim Hand: Crowded field for Kennedy seat could create an opening for a local candidate",
+"href": "https://www.thesunchronicle.com/opinion/columns/jim-hand-crowded-field-for-kennedy-seat-could-create-an/article_9e9b2c91-adb8-5c4a-a0ce-57e1befb7864.html"
+},
+{
+"text": "John Wilson sculpture dedication",
+"href": "https://www.youtube.com/watch?v=DXQ7d0T7kRs&t=26m40s"
+},
+{
+"text": "Juvenile court cases return to Brookline after just 2 days",
+"href": "https://patch.com/massachusetts/brookline/juvenile-court-cases-return-brookline-after-just-2-days"
+},
+{
+"text": "Kennedy’s choice shines spotlight on two races, Creem plans to stay put",
+"href": "https://wellesley.wickedlocal.com/news/20190919/kennedys-choice-shines-spotlight-on-two-races-creem-plans-to-stay-put"
+},
+{
+"text": "Lawmakers include $25k for Steps to Success Brookline in FY23 budget",
+"href": "https://patch.com/massachusetts/brookline/lawmakers-include-25k-steps-success-brookline-fy23-budget"
+},
+{
+"text": "Lawmakers urged to help ‘house rich, cash poor’ seniors",
+"href": "https://www.eagletribune.com/news/boston/lawmakers-urged-to-help-house-rich-cash-poor-seniors/article_5be6b196-68bf-11ec-b441-fb2c62aaa7f4.html"
+},
+{
+"text": "Lawmakers: News business needs state help",
+"href": "https://commonwealthmagazine.org/media/lawmakers-news-business-needs-state-help/"
+},
+{
+"text": "Lawsuit challenges statute that denies homeowners profit from foreclosed homes",
+"href": "https://commonwealthmagazine.org/courts/lawsuit-challenges-statute-that-denies-homeowners-profit-from-foreclosed-homes/"
+},
+{
+"text": "League of Women Voters’ Friday Conversations: Home Rule Legislation",
+"href": "https://www.youtube.com/watch?v=Hdu16OWZKjg"
+},
+{
+"text": "Legislative agenda includes rail electrification, congestion pricing, and traffic enforcement cameras",
+"href": "https://mass.streetsblog.org/2023/02/06/this-years-legislative-agenda-includes-rail-electrification-congestion-pricing-and-traffic-enforcement-cameras/"
+},
+{
+"text": "Legislators push for towns’ flexibility to lower speed limits on Massachusetts roads",
+"href": "https://www.wgbh.org/news/local-news/2021/12/16/legislators-push-for-towns-flexibility-to-lower-speed-limits-on-massachusetts-roads"
+},
+{
+"text": "Letter to the Editor: Let’s work together",
+"href": "http://brookline.wickedlocal.com/news/20180722/letter-to-editor-lets-work-together"
+},
+{
+"text": "Letter to the Editor: Progress toward a more humane and green Beacon Street in Brookline",
+"href": "https://brookline.wickedlocal.com/news/20191221/letter-to-editor-progress-toward-more-humane-and-green-beacon-street-in-brookline"
+},
+{
+"text": "Letters to the Editor: Tommy Vitolo for State Rep.",
+"href": "http://brookline.wickedlocal.com/news/20180812/letters-to-editor-tommy-vitolo-for-state-rep"
+},
+{
+"text": "Letters to the Editor: Tommy Vitolo for State Rep.",
+"href": "http://brookline.wickedlocal.com/news/20180818/letters-to-editor-tommy-vitolo-for-state-rep"
+},
+{
+"text": "Letters to the Editor: Vote for Tommy Vitolo",
+"href": "http://brookline.wickedlocal.com/news/20180805/letters-to-editor-vote-for-tommy-vitolo"
+},
+{
+"text": "Letters to the Editor: Vote for Vitolo for State Rep.",
+"href": "http://brookline.wickedlocal.com/news/20180825/letters-to-editor-vote-for-vitolo-for-state-rep"
+},
+{
+"text": "Letters to the Editor: Writing in support of State Rep. candidate Tommy Vitolo",
+"href": "http://brookline.wickedlocal.com/news/20180728/letters-to-editor-writing-in-support-of-state-rep-candidate-tommy-vitolo"
+},
+{
+"text": "Lexington at large: virtual Town Meeting is a first",
+"href": "https://lexington.wickedlocal.com/news/20200608/lexington-at-large-virtual-town-meeting-is-first"
+},
+{
+"text": "Local lawmakers condemn ‘home equity theft’ as city officials defend tax collection tactics",
+"href": "https://newbedfordlight.org/local-lawmakers-condemn-home-equity-theft-as-city-officials-defend-tax-collection-tactics/"
+},
+{
+"text": "Losing a home for unpaid taxes often means losing your equity, too",
+"href": "https://www.yahoo.com/now/losing-home-unpaid-taxes-often-035900444.html"
+},
+{
+"text": "MA House passes offshore wind bill with Rep. Vitolo’s amendment",
+"href": "https://www.msn.com/en-us/news/politics/ma-house-passes-offshore-wind-bill-with-rep-vitolo-s-amendment/ar-AAUJQph"
+},
+{
+"text": "MA Organization Of State Engineers & Scientists endorses Rep. Vitolo",
+"href": "https://patch.com/massachusetts/brookline/ma-organization-state-engineers-scientists-endorses-rep-vitolo"
+},
+{
+"text": "MA economic development bill includes funding for Brookline homes",
+"href": "https://patch.com/massachusetts/brookline/ma-economic-development-bill-includes-funding-brookline-homes"
+},
+{
+"text": "MA lawmakers pass 2022 budget with funding for Brookline programs",
+"href": "https://patch.com/massachusetts/brookline/ma-lawmakers-pass-2022-budget-funding-brookline-programs/"
+},
+{
+"text": "MBTA B Branch station consolidation to begin February 15",
+"href": "http://www.bu.edu/articles/2021/mbta-b-branch-station-consolidation-to-begin-february-15/"
+},
+{
+"text": "MBTA will use federal grant to make 14 Green Line stations more accessible, including nine in Brookline",
+"href": "https://brookline.news/mbta-will-use-federal-grant-to-make-14-green-line-stations-more-accessible-including-nine-in-brookline/"
+},
+{
+"text": "MLK sculpture by John Wilson unveiled at Brookline Town Hall",
+"href": "https://patch.com/massachusetts/brookline/john-wilson-sculpture-mlk-unveiled-brookline-town-hall"
+},
+{
+"text": "Mass Retirees endorses Brookline Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/mass-retirees-endorses-brookline-rep-tommy-vitolo-re-election"
+},
+{
+"text": "Mass Voters for Animals endorses Brookline Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/mass-voters-animals-endorses-brookline-rep-tommy-vitolo"
+},
+{
+"text": "Mass. House Republican again blocks climate bill, forcing Democrats to table it until a formal vote",
+"href": "https://www.bostonglobe.com/2024/10/28/metro/bradley-jones-massachusetts-house-blocked-climate-bill/"
+},
+{
+"text": "Mass. House passes bill to ban ‘home equity theft’",
+"href": "https://www.bostonglobe.com/2024/06/26/business/mass-house-bill-home-equity-theft-talking-points/"
+},
+{
+"text": "Mass. bill would ban kids from buying tobacco once they’re adults",
+"href": "https://www.wbur.org/news/2024/11/25/massachusetts-tobacco-nicotine-phased-ban"
+},
+{
+"text": "Mass. bill would prohibit tobacco sales to anyone born after specific date",
+"href": "https://www.masslive.com/politics/2024/11/mass-bill-would-prohibit-tobacco-sales-to-anyone-born-after-specific-date.html"
+},
+{
+"text": "Mass. building gas ban movement expands after 2020 setback",
+"href": "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/mass-building-gas-ban-movement-expands-after-2020-setback-62026427"
+},
+{
+"text": "Mass. is drafting a new climate-friendly building code. Here’s what you need to know",
+"href": "https://www.wbur.org/news/2022/03/17/massachusetts-energy-environmental-building-code-proposal-explainer"
+},
+{
+"text": "Mass. trailing on seatbelt use, OUI prevention, officials testify",
+"href": "https://www.newburyportnews.com/news/regional_news/mass-trailing-on-seatbelt-use-oui-prevention-officials-testify/article_4cacf435-3a42-586c-8eae-19cac4a6faef.html"
+},
+{
+"text": "Massachusetts House passes fiscal year 2022 budget",
+"href": "https://www.wickedlocal.com/story/brookline-tab/2021/05/14/massachusetts-house-passes-fiscal-year-2022-budget/4960434001/"
+},
+{
+"text": "Massachusetts Legislature legalizes gas bans",
+"href": "https://cleantechnica.com/2022/07/26/massachusetts-legislature-legalizes-gas-bans/"
+},
+{
+"text": "Massachusetts Pols Stand With Israel As New War Unfolds",
+"href": "https://fallriverreporter.com/mass-pols-stand-with-israel-as-new-war-unfolds/"
+},
+{
+"text": "Massachusetts gas ban movement gathers support from state lawmakers",
+"href": "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/massachusetts-gas-ban-movement-gathers-support-from-state-lawmakers-68732892"
+},
+{
+"text": "Massachusetts seeks to streamline approvals for community choice aggregation",
+"href": "https://energynews.us/2023/10/04/massachusetts-seeks-to-streamline-approvals-for-community-choice-aggregation/"
+},
+{
+"text": "Maura Healey endorses Brookline Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/maura-healey-endorses-brookline-rep-tommy-vitolo-re-election"
+},
+{
+"text": "Mayor Fuller Opposes Proposed MBTA Service Cuts",
+"href": "https://www.bcheights.com/2020/11/29/fuller-opposes-proposed-mbta-service-cuts/"
+},
+{
+"text": "Meet Tommy",
+"href": "https://tommyvitolo.com/meet-tommy"
+},
+{
+"text": "Millennial legislators bond around push for renewables",
+"href": "https://www.heraldnews.com/news/20190408/millennial-legislators-bond-around-push-for-renewables"
+},
+{
+"text": "More antisemitic stickers found on Boston-area signs, poles",
+"href": "https://www.wcvb.com/article/more-antisemitic-stickers-found-on-signs-poles/62690909"
+},
+{
+"text": "Move afoot to ban “home equity theft” in Massachusetts",
+"href": "https://www.bostonglobe.com/2022/03/29/business/move-afoot-ban-home-equity-theft-massachusetts/"
+},
+{
+"text": "Muni Officials Say Greener Power Wrapped In Red Tape",
+"href": "https://wbznewsradio.iheart.com/content/muni-officials-say-greener-power-wrapped-in-red-tape/"
+},
+{
+"text": "Nazis find their way to Brookline Village",
+"href": "https://www.universalhub.com/2019/nazis-find-their-way-brookline-village"
+},
+{
+"text": "Net-zero stretch code: a new model for municipal building decarbonization in Massachusetts",
+"href": "http://blogs.law.columbia.edu/climatechange/2021/01/08/net-zero-stretch-code-a-new-model-for-municipal-building-decarbonization-in-massachusetts/"
+},
+{
+"text": "New Brookline Space Celebrates Artists with Disabilities",
+"href": "https://www.newbedfordguide.com/brookline-artists-disabilities-space/2025/07/08"
+},
+{
+"text": "New MA tax bill has benefits for bike, train, bus commuters",
+"href": "https://patch.com/massachusetts/across-ma/new-ma-tax-bill-has-benefits-bike-train-bus-commuters"
+},
+{
+"text": "New blood sweeps Precinct 1",
+"href": "http://brookline.wickedlocal.com/x1417077095"
+},
+{
+"text": "News",
+"href": "https://tommyvitolo.com/news"
+},
+{
+"text": "News",
+"href": "https://tommyvitolo.com/news/"
+},
+{
+"text": "Offering national model, this New England town just banned natural gas and oil in new home construction",
+"href": "https://www.commondreams.org/news/2019/11/22/offering-national-model-new-england-town-just-banned-natural-gas-and-oil-new-home"
+},
+{
+"text": "On Beacon Hill and beyond, everyone has a stake in women’s rights",
+"href": "https://www.bostonglobe.com/metro/2019/07/10/beacon-hill-and-beyond-women-seeking-male-allies/MprDbDv6Pv27ZcNUiEshcJ/story.html"
+},
+{
+"text": "On Brookline’s first Juneteenth, a moment to learn and celebrate",
+"href": "https://www.wickedlocal.com/story/brookline-tab/2021/06/22/brooklines-first-juneteenth-moment-learn-and-celebrate/5296689001/"
+},
+{
+"text": "On Veterans Day, Brookline veteran recalls small act of kindness",
+"href": "https://brookline.wickedlocal.com/news/20191111/on-veterans-day-brookline-veteran-recalls-small-act-of-kindness"
+},
+{
+"text": "Organizations",
+"href": "https://tommyvitolo.com/organizations/"
+},
+{
+"text": "Our View: Vote could be harbinger of energy shift",
+"href": "https://www.eagletribune.com/opinion/our-view-vote-could-be-harbinger-of-energy-shift/article_a7a6d669-f2ec-5055-b5ce-b2f084dcf8a9.html"
+},
+{
+"text": "Our opinion: millennials take the lead",
+"href": "https://www.berkshireeagle.com/stories/our-opinion-millennials-take-the-lead,570196"
+},
+{
+"text": "PSB Sustainability Initiatives",
+"href": "https://www.youtube.com/watch?v=fzHs9_YZuTE&list=PL_kXbXA0-Qd4b99H0p8bAxt-oyR8bLv3o"
+},
+{
+"text": "Pedestrian death sparks safety concerns from Brookline residents",
+"href": "https://patch.com/massachusetts/brookline/pedestrian-death-sparks-safety-concerns-brookline-residents"
+},
+{
+"text": "Political Notebook: Pols jump at possible opening for 4th District seat",
+"href": "https://www.milforddailynews.com/news/20190824/political-notebook-pols-jump-at-possible-opening-for-4th-district-seat"
+},
+{
+"text": "Politicians pick up signs with Stop & Shop workers in Brookline",
+"href": "https://patch.com/massachusetts/brookline/politicians-pick-signs-stop-shop-workers-brookline"
+},
+{
+"text": "Potential candidates are already jostling for Joe Kennedy’s congressional seat",
+"href": "https://www.bostonglobe.com/metro/2019/08/20/potential-candidates-are-already-jostling-for-joe-kennedy-congressional-seat/GLKeVd1Vaob4qcCCx6Fn5H/story.html"
+},
+{
+"text": "Powering municipal aggregation with offshore wind",
+"href": "https://blog.greenenergyconsumers.org/blog/powering-municipal-aggregation-with-offshore-wind"
+},
+{
+"text": "Primary wins appear to seal sets for nine Democrats in legislature",
+"href": "http://www.lowellsun.com/breakingnews/ci_32117612/primary-wins-appear-seal-sets-nine-democrats-legislature"
+},
+{
+"text": "Proposed Brookline water rates face contention",
+"href": "http://brookline.wickedlocal.com/x1260742342/Proposed-Brookline-water-rates-face-contention"
+},
+{
+"text": "Proposed law would gradually phase out nicotine, tobacco in Massachusetts",
+"href": "https://www.wpri.com/new-england/massachusetts/proposed-law-would-gradually-phase-out-nicotine-tobacco-in-massachusetts/"
+},
+{
+"text": "Proposed legislation would phase out nicotine, tobacco sales in Massachusetts",
+"href": "https://www.wcvb.com/article/proposed-legislation-would-phase-out-nicotine-tobacco-sales-in-massachusetts/63012392"
+},
+{
+"text": "Public transit and public health",
+"href": "https://mass.streetsblog.org/2020/03/12/public-transit-and-public-health/"
+},
+{
+"text": "Pushback with Columnist Al Norman: Let’s end ‘home equity theft’",
+"href": "https://www.recorder.com/COL-Norman-Home-Equity-Theft-45813539"
+},
+{
+"text": "RE: Brookline plans to add 25 new Bluebikes stations",
+"href": "https://brookline.news/re-brookline-plans-to-add-25-new-bluebikes-stations-2/"
+},
+{
+"text": "RE: City charter campaign falls short, but is challenging signature certification process",
+"href": "https://brookline.news/re-city-charter-campaign-falls-short-but-is-challenging-signature-certification-process-2/"
+},
+{
+"text": "Red Line riders complain: where is the frickin’ train?",
+"href": "https://www.universalhub.com/2019/red-line-riders-complain-where-frickin-train"
+},
+{
+"text": "Rep faults T for holding info session far from transit",
+"href": "https://commonwealthmagazine.org/transportation/rep-faults-t-for-holding-info-session-far-from-transit/"
+},
+{
+"text": "Rep. Tommy Vitolo endorsed by Environmental League of MA Action Fund",
+"href": "https://patch.com/massachusetts/brookline/rep-tommy-vitolo-endorsed-environmental-league-ma-action-fund"
+},
+{
+"text": "Rep. Tommy Vitolo endorsed by the Bay State Stonewall Democrats",
+"href": "https://patch.com/massachusetts/brookline/rep-tommy-vitolo-endorsed-bay-state-stonewall-democrats"
+},
+{
+"text": "Rep. Tommy Vitolo inducted into NC Computer Science Hall of Fame",
+"href": "https://patch.com/massachusetts/westford/where-find-christmas-trees-2021-westford-area"
+},
+{
+"text": "Rep. Tommy Vitolo votes in favor of Work & Family Mobility Act",
+"href": "https://patch.com/massachusetts/brookline/rep-tommy-vitolo-votes-favor-work-family-mobility-act"
+},
+{
+"text": "Rep. Tommy Vitolo wins Brookline State Rep. race, to begin 3rd term",
+"href": "https://patch.com/massachusetts/brookline/2022-brookline-state-rep-election-results-polls-closed"
+},
+{
+"text": "Rep. Tommy Vitolo’s comments on proposed MBTA fare increase",
+"href": "https://tommyvitolo.com/mbta-fare-increase"
+},
+{
+"text": "Rep. Vitolo celebrates $342K in cultural sector grants for Brookline",
+"href": "https://patch.com/massachusetts/brookline/rep-vitolo-celebrates-342k-cultural-sector-grants-brookline"
+},
+{
+"text": "Representative Tommy Vitolo updates Brookline Select Board on COVID-19 efforts",
+"href": "https://www.youtube.com/watch?v=rOwPyyIUy_s"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring A Better Brookline’s Sam Winickoff",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-10-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Ann Bracket and Bishnu Tamang of Women Thriving",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-30-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring BAAFN Founder Chi Chi Wu",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-24-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Biking Brookline’s Mitch Heineman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-11-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Bonnie Bastien and Representative Dan Ryan (D-Charlestown, Chelsea)",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guests-bonnie-bastien-and-daniel-j-ryan/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Bridle Path advocate Jules Milner-Brage",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-1-2021/%20"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Booksmith co-owner Lisa Gozashti",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-lisa-gozashti/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline By Design Steering Committee Member Linda Olson Pehlke",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-14-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Chamber of Commerce Executive Director Debbie Good Miller",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-debbie-miller/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Community Development Administrator Ewana Lindo-Smith",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-2-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Community Foundation Executive Director Gisele Ferro Puigbo",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-3-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Dem Town Committee Chair Cindy Rowe",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-5-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Emergency Management Coordinator Cheryl Anne Snyder",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-1-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Food Pantry executive director Elizabeth Boen",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-4-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline High School METCO Coordinator Malcolm Cawthorne",
+"href": "https://brooklineinteractive.org/tommy-vitolo-weekly-update-with-guest-malcolm-cawthorne/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline High School’s Headmaster Anthony Meyer and Assistant Head of School Hal Mason",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-17-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Historical Society President Ken Liss discussing Florida Ruffin Ridley",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-28-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Housing Advisory Board chair Roger Blood",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-21-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Housing Authority Executive Director Michael Alperin",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-15-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Interactive Group Executive Director Kathy Bisbee",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-27-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Library Trustee Chris Chanyasulkit",
+"href": "https://brooklineinteractive.org/brookline-interactive-group-live-stream-91/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Parents Organization Co-president Lauren Bernard",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-4-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Public Schools Remote Learning Academy Principal Meg Maccini and Coordinator of School Health Services Tricia Laham, RN",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-10-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Public Schools Superintendent Jim Marini and Dave Gacioch, co-chair of Expert Panel #4",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-27-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Teen Center Executive Director Alicia Adamson",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-12-2020/%20"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Town Administrator Chas Carey",
+"href": "https://brooklineinteractive.org/tv-on-tv-interview-with-brookline-town-administrator-charles-cary/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline Veteran’s Services director Bill McGroarty",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-11-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Brookline for Everyone board member Michael Zoorob",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-21-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Climate Action Brookline co-chair John Harris",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-28-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Coolidge Corner Theatre CEO Katherine Tallman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-8-2021/%20"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring DPW Commissioner Erin Gallentine",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-7-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Deborah Brown, President of the Brookline Improvement Coalition",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-5-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring District Attorney Michael Morrissey",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-6th-2022/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Dr. Asaf Bitton",
+"href": "https://brooklineinteractive.org/interview-of-dr-asaf-bitton-hosted-by-state-rep-tommy-vitolo/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Dr. Frank Friedman",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-franklin-d-friedman-md-ms-facep-march-26-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Elenore Parker of Brookline Community Aging Network",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-25-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Emerge Co-Chair Sharon Stout",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-13-2022/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Felice Vitolo, age 10",
+"href": "https://brooklineinteractive.org/brookline-interactive-group-live-stream-132/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Fire Chief John Sullivan",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-fire-department-chief-john-f-sullivan/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Housing Authority Candidates Susan Cohen and Kimberley Richardson",
+"href": "https://brooklineinteractive.org/tv-on-tv-brookline-housing-authority-commissioner-election/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Jonathan Klein, co-founder of Building a Better Brookline",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-12-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Juan Cantu, Jr., Executive Director of Steps to Success",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-19-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Lionel Pomerantz, volunteer with Kehilath Israel Synagogue",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-february-18-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Alan Khazei",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-6-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Becky Grossman",
+"href": "https://brooklineinteractive.org/tommy-vitolo-weekly-update-july-9-2020-2/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Ben Sigel",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-2-2020-2/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Dave Cavell",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-dave-cavell/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Ihssane Leckey",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-august-13-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Jake Auchincloss",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-jake-auchincloss/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Jesse Mermell",
+"href": "https://brooklineinteractive.org/tommy-vitolo-weekly-update-7-16-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Natalia Linos",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-with-guest-natalia-linos/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Marty Rosenthal of Brookline PAX",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-4-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Moderator Kate Poverman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-17-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Mothers Out Front organizer Kathleen Scanlon",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-15-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Norfolk County Sheriff Pat McDermott",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-16-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Paula Friedman & Sean Lynn-Jones of the Brookline Neighborhood Alliance",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-11-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Rabbi Claudia Kreiman",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-rabbi-claudia-kreiman/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring School Committee Candidates Natalia Linos and Chris Mutty",
+"href": "https://brooklineinteractive.org/tv-on-tv-interviews-with-brookline-school-committee-candidates-natalia-linos-christopher-mutty/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring School Committee Member Dimitry Ansalme",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-22-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring School Committee Member Val Frias",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-23-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring School Committee candidates Steven Ehrenberg and Val Frias, and Moderator Candidates Scott Ananian and Kate Poverman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-29-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board Candidate Arden Reamer",
+"href": "https://brooklineinteractive.org/tv-on-tv-brookline-select-board-candidate-arden-reamer/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board Candidate John VanScoyoc",
+"href": "https://brooklineinteractive.org/tv-on-tv-brookline-select-board-candidate-john-vanscoyoc/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board Candidate Paul Warren",
+"href": "https://brooklineinteractive.org/tv-on-tv-brookline-select-board-candidate-paul-warren/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board Member Miriam Aschkenasy",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-22-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board candidate Donelle O’Neal",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-22-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board candidate Miriam Aschkenasy",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-15-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board candidate Zoe Lynn",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-8-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board candidate for re-election Bernard Greene",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-25-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Select Board candidate for re-election Nancy Heller",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-april-1-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Superintendent Linus Guillory",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-june-3-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring The Grandstander’s Scott Kerman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-july-29-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Town Clerk Ben Kaufman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-7-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Town Clerk candidate Ben Kaufman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-march-18-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Town Meeting Member Michael Burstein",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-10-2020-2/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring Viking Sports CEO LeRoy Watkins",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-september-24-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring author Asako Serizawa",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-9-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring city planner and urban designer Jeff Speck",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-18-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring economics professor Kevin Lang",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-kevin-lang/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring family therapist Dr. Jason Kaufman",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-jason-kaufman-phd-lmft/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring former Advisory Committee Chair Michael Sandman",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-december-16-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring former Select Board Chair Neil Wishinsky",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-may-20-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring gov’t participation advocate Jonathan Golden",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-may-27-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring grocery store worker Sal Partan",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-sal-partan/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring political scientist Eitan Hersh",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-january-14-2021/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring recovered COVID-19 patient Allana Taranto",
+"href": "https://brooklineinteractive.org/tommy-town-tv-episode-3-allana-taranto/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring social worker Betsy Pollock LICSW",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guest-betsy-pollock/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring step-by-step instructions on how to make Italian Sunday Gravy",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-october-8-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring the People’s Pike’s Harry Mattison",
+"href": "https://brooklineinteractive.org/weekly-update-with-tommy-vitolo-november-19-2020/"
+},
+{
+"text": "Representative Tommy Vitolo’s weekly update, featuring vaccine scientists Dr. Mayuri Sharma and Dr. Onkar Sharma",
+"href": "https://brooklineinteractive.org/tommy-vitolos-weekly-update-guests-mayuri-sharma-and-onkar-sharma/"
+},
+{
+"text": "Reproductive Equity Now endorses Brookline Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/reproductive-equity-now-endorses-brookline-rep-tommy-vitolo"
+},
+{
+"text": "Resident looks to add e-cigs to town tobacco regs",
+"href": "http://brookline.wickedlocal.com/article/20140910/NEWS/140919730"
+},
+{
+"text": "Restaurants are winning the fight with cities trying to ban gas-powered stoves",
+"href": "https://fee.org/articles/restaurants-are-winning-the-fight-with-cities-trying-to-ban-gas-powered-stoves/"
+},
+{
+"text": "Retired Brookline Police Officer Honored With Black Excellence Award",
+"href": "https://patch.com/massachusetts/brookline/retired-brookline-police-officer-honored-black-excellence-award"
+},
+{
+"text": "Riders give T worst marks yet in June performance review",
+"href": "https://commonwealthmagazine.org/transportation/riders-give-t-worst-marks-yet-in-june-performance-review/"
+},
+{
+"text": "School Committee addresses community questions regarding layoffs",
+"href": "https://thesagonline.com/37821/news/school-committee-addresses-community-questions-regarding-layoffs/"
+},
+{
+"text": "Sen. Cindy Creem endorses Brookline Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/sen-cindy-creem-endorses-brookline-rep-tommy-vitolo-reelection"
+},
+{
+"text": "Senate pushed to pass transpo revenue package",
+"href": "https://commonwealthmagazine.org/transportation/senate-pushed-to-pass-transpo-revenue-package/"
+},
+{
+"text": "Seniors struggle with rising property taxes as lawmakers debate solutions",
+"href": "https://www.telegram.com/news/20190930/seniors-struggle-with-rising-property-taxes-as-lawmakers-debate-solutions"
+},
+{
+"text": "Several Brookline residents eye Kennedy’s seat in Congress",
+"href": "https://www.nbcboston.com/news/local/Who-Will-Run-for-RepJoe-Kennedy-III--House-Seat-Massachusetts-561273191.html"
+},
+{
+"text": "Somerville mayor endorses Rep. Tommy Vitolo for reelection",
+"href": "https://patch.com/massachusetts/brookline/somerville-mayor-endorses-rep-tommy-vitolo-reelection"
+},
+{
+"text": "St. Patrick’s Day amid pandemic for Brookline Irish pub",
+"href": "https://patch.com/massachusetts/brookline/saint-patricks-day-amid-pandemic-brooklines-irish-pub"
+},
+{
+"text": "State House roundup: Approval for Pierce School geothermal, earmarks for Brookline",
+"href": "https://brookline.news/state-house-roundup-approval-for-pierce-school-geothermal-earmarks-for-brookline/"
+},
+{
+"text": "State Rep. Tommy Vitolo’s first bill passes State House",
+"href": "https://brookline.wickedlocal.com/news/20190212/state-rep-tommy-vitolos-first-bill-passes-state-house"
+},
+{
+"text": "State Representative Tommy Vitolo’s weekly update, featuring MA-4 congressional candidate Chris Zannetos",
+"href": "https://brooklineinteractive.org/tommy-vitolo-weekly-update-june-25-2020-2/"
+},
+{
+"text": "State Representative Vitolo tours new senior housing site",
+"href": "https://patch.com/massachusetts/brookline/state-representative-vitolo-tours-new-senior-housing-site-nodx"
+},
+{
+"text": "State Representative tackling societal challenges",
+"href": "http://www.bu.edu/eng/2019/03/08/state-representative-tackling-societal-challenges/"
+},
+{
+"text": "State climate bill draws inspiration from Brookline roots",
+"href": "https://www.wickedlocal.com/story/brookline-tab/2021/01/13/climate-bill-draws-brooklines-fossil-fuel-infrastructure-ban/4153801001/"
+},
+{
+"text": "State lawmakers call for action on wind farm",
+"href": "https://www.capecodtimes.com/news/20200720/state-lawmakers-call-for-action-on-wind-farm"
+},
+{
+"text": "State reps. propose bill to eventually ban sales of tobacco and nicotine products",
+"href": "https://www.wbjournal.com/article/state-reps-propose-bill-to-eventually-ban-sales-of-tobacco-and-nicotine-products"
+},
+{
+"text": "State. Rep Vitolo visits Brookline’s Bay Cove Academy",
+"href": "https://patch.com/massachusetts/brookline/state-rep-vitolo-visits-brooklines-bay-cove-acaedmy"
+},
+{
+"text": "Stickers combining swastikas with Israeli flag found in Brookline, police say",
+"href": "https://www.boston.com/news/local-news/2024/10/23/stickers-combining-swastikas-with-israeli-flag-found-in-brookline-police-say/"
+},
+{
+"text": "Stickers found in Brookline, Cambridge “a clear target on the Jewish community” police say",
+"href": "https://www.cbsnews.com/boston/news/antisemitic-stickers-brookline-cambridge/%20"
+},
+{
+"text": "Supporting Tommy Vitolo’s re-election",
+"href": "https://patch.com/massachusetts/brookline/ep/3793669/nodx"
+},
+{
+"text": "Supreme Court ruling could spell the death of ‘equity theft’ in Mass.",
+"href": "https://www.bostonglobe.com/2023/05/31/business/supreme-court-ruling-could-spell-death-equity-theft-mass/"
+},
+{
+"text": "TV on TV special edition: Brookline election night results show",
+"href": "https://www.youtube.com/watch?v=6tvPaQThlVg"
+},
+{
+"text": "TV on TV: Brookline Election Day Coverage 2025",
+"href": "https://brooklineinteractive.org/brookline-election-day-coverage-2025/"
+},
+{
+"text": "TV on TV: Election Night Special",
+"href": "https://brooklineinteractive.org/2024-annual-town-election-show/"
+},
+{
+"text": "TV on TV: Tommy Vitolo chats with Congressman Jake Auchincloss about the State of the Union",
+"href": "https://brooklineinteractive.org/tommy-vitolo-and-rep-jake-auchincloss-on-facebook-live/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Adam Deitch, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-adam-deitch/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Akiva Leibowtiz, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidate-series-2025-akiva-leibowitz/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Alec Lebovitz, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-alec-lebovitz/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Alexandra Vecchio, Brookline Director of Sustainability and Natural Resources",
+"href": "https://brooklineinteractive.org/tv-on-tv-alexandra-vecchio/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Amanda Zimmerman, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-amanda-zimmerman/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Amy Ingles, Brookline Transportation Director",
+"href": "https://brooklineinteractive.org/tv-on-tv-amy-ingles/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Amy Newell and Shawn O’Neal, candidates for Library Trustees",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-amy-newell-shawn-oneal/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Anne Meyers, Chair of Brookline’s Economic Development Advisory Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-anne-meyers/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Anthony Buono, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-anthony-buono/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Aylit Schultz, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-aylit-schultz/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Batia Bloomenthal, candidate for Library Trustee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-batia-bloomenthal/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Ben Stone, Executive Director of the Brookline Housing Authority",
+"href": "https://brooklineinteractive.org/tv-on-tv-ben-stone/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Bernard Greene, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-bernard-greene/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Bob Weintraub, School Committee Member",
+"href": "https://brooklineinteractive.org/tv-on-tv-bob-weintraub/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Bob Weintraub, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidate-series-2025-bob-weintraub/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Bradford Kimball, Town Meeting Member",
+"href": "https://brooklineinteractive.org/tv-on-tv-bradford-kimball/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Advisory Committee Vice Chairman Harry Friedman",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-harry-friedman/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Bank’s David Gladstone",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-david-gladstone-of-brookline-bank/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Community Foundation Executive Director Aba Taylor",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-aba-taylor/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Democratic Town Committee Chair Cindy Rowe",
+"href": "https://brooklineinteractive.org/tv-on-tv-cindy-rowe-brookline-democratic-town-committee-chair/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Economic Development Advisory Board Co-Chair Paul Saner (episode 1 of 2)",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-paul-saner/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Economic Development Advisory Board Co-Chair Paul Saner (episode 2 of 2)",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-paul-saner-part-2/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Food Pantry executive director Elizabeth Boen",
+"href": "https://brooklineinteractive.org/tv-on-tv-elizabeth-boen/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Housing Authority Executive Director Michael Alperin",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-michael-alperin/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline LWV’s Diana McClure",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-diana-mcclure/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline Teen Center Exec Dir Kasey Boston",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-kasey-boston/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline ZEAB Board Member Kathleen Scanlon",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-kathleen-scanlon/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Brookline’s Director of Public health and Human Services, Sigalle Reiss",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-brooklines-director-of-public-health-and-human-services-sigalle-reiss/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Carlos Ridruejo, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-carlos-ridruejo/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Caroline Staudt, Energy Advocate for the Town of Brookline",
+"href": "https://brooklineinteractive.org/tv-on-tv-caroline-staudt/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Carolyn Thall, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-carolyn-thall/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Chair of the Library Trustees Michael Burstein",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-michael-a-burstein/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Chris Hope, CEO of The Loop Lab",
+"href": "https://brooklineinteractive.org/tv-on-tv-chris-hope/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Chris Mutty, Executive Director of the Brookline Chamber of Commerce",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-chris-mutty/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews County Commissioner Richard Staiti",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-norfolk-county-commissioner-richard-staiti/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Craig MacLellan, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-craig-maclellan/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Danna Perry, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-danna-perry/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Darlene DiBona Chesko, artist and owner of Odyssey Wellness Tattoo",
+"href": "https://brooklineinteractive.org/tv-on-tv-darlene-dibona-chesko/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Dave Cavell, Brookline Community Development Corp",
+"href": "https://brooklineinteractive.org/tv-on-tv-dave-cavell/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews David Kroop, President of Biking Brookline",
+"href": "https://brooklineinteractive.org/tv-on-tv-david-kroop/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews David Pearlman, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-david-pearlman/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews David Tierney, Executive Director of the Brookline Music School",
+"href": "https://brooklineinteractive.org/tv-on-tv-david-tierney/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Deborah Pepper, Executive Director of Hospitality Homes",
+"href": "https://brooklineinteractive.org/tv-on-tv-deborah-pepper/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Dennis Doughty (1 of 2), Chair of Brookline’s Advisory Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-dennis-doughty/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Dennis Doughty (2 of 2), Chair of Brookline’s Advisory Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-dennis-doughty-2-2/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Dennis Doughty, Chair of the Advisory Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-dennis-doughty/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Djuna Perkins, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-djuna-perkins/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Elizabeth Stillman, Chair of Commission for Women",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-elizabeth-stillman/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Ellice Patterson, Executive Director and Founder of Abilities Dance",
+"href": "https://brooklineinteractive.org/tv-on-tv-ellice-patterson/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Faiza Khan, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-faiza-khan/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Felina Silver, candidate for Library Trustee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-felina-silver/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Gio Valencia, Exec Dir of the Brookline Community Development Corp",
+"href": "https://brooklineinteractive.org/tv-on-tv-gio-valencia/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Greg Connor, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-greg-connor/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Greg Liakos, Executive Director of Gateway Arts",
+"href": "https://brooklineinteractive.org/tv-on-tv-greg-liakos/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Helen Charlupski, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-helen-charlupski/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews James Drake, Chief of Strategic Partnerships and Innovation at the Brookline Center For Community Mental Health",
+"href": "https://brooklineinteractive.org/tv-on-tv-james-drake/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Jesse Hefter, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-jesse-hefter/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Jessica Smyser, Executive Director of Brookline Interactive Group",
+"href": "https://brooklineinteractive.org/tv-on-tv-jessica-smyser/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Jim Barakat, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-jim-barakat/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Joey Elasmar, candidate for Library Trustee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-joey-elasmar/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews John Dempsey, Chair of the Brookline Solid Waste Advisory Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-john-dempsey/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews John VanScoyoc, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-john-vanscoyoc/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Judith Vanderkay, candidate for Library Trustee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-judith-vanderkay/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Kelly Hardebeck, Brookline Advisory Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-kelly-hardebeck/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Kimberley Richardson, candidate for Housing Authority",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-kimberley-richardson/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews LG Candidate Bret Bero",
+"href": "https://www.youtube.com/watch?v=J5QG6SYgUxg"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews LG Candidate Eric Lesser",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-lg-candidate-eric-lesser/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews LG Candidate Kim Driscoll",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-mayor-kim-driscoll/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews LG Candidate Tami Gouveia",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-tami-gouveia-lg-candidate-on-weekly-show-tv-on-tv/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews LWV VP Ernie Frey",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-ernie-frey-vp-of-brookline-league-of-women-voters-on-weekly-show-tv-on-tv/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Laila McGeorge, Brookline’s Substance Use Prevention Coalition Coordinator",
+"href": "https://brooklineinteractive.org/tv-on-tv-laila-mcgeorge/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Laura Baines-Walsh, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-laura-baines-walsh/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Leslie Forde, CEO, Mom’s Hierarchy of Needs",
+"href": "https://brooklineinteractive.org/tv-on-tv-leslie-forde/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Library Trustee Jon Margolis",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-brookline-public-library-trustee-jon-margolis-on-tv-on-tv/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Liz Linder, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-liz-linder/%20"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Logan Potere, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-logan-potere/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Lynne Sweet, candidate for Housing Authority",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-lynne-sweet/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Macy Lee, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-macy-lee/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Marissa Vogt, candidate for Library Trustee, and Jonathan Klein, candidate for Housing Authority Commissioner",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-marissa-vogt-and-jonathan-klein/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Michael Burstein, candidate for Library Trustee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-michael-burstein/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Michael Rubenstein, Brookline Select Board Member",
+"href": "https://brooklineinteractive.org/tv-on-tv-michael-rubenstein/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Michael Rubenstein, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidate-series-2025-michael-rubenstein/%20"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Milee Pradhan, Director of Parks and Open Space",
+"href": "https://brooklineinteractive.org/tv-on-tv-Milee-Pradhan/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Miriam Aschkenasy, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-miriam-aschkenasy/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Nancy Heller, Community Preservation Committee Chair",
+"href": "https://brooklineinteractive.org/tv-on-tv-nancy-heller/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Neil Wishinsky, candidate for Moderator",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-neil-wishinsky/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Nia Jacobs, Executive Director of Steps to Success",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-nia-jacobs/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Petra Bignami and Chris Chanyasullkit, candidates for Library Trustees",
+"href": "https://brooklineinteractive.org/tv-on-tv-petra-bignami-and-chris-chanysaulkit/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews President of Black N Brown Club Rebecca Ogbuku",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-rebecca-ogbuku-president-of-the-black-and-brown-club/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Rep Ruth Balser",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-state-rep-ruth-balser-on-weekly-show-tv-on-tv/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Robert Jubinville, candidate for Norfolk Co. District Attorney",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-robert-jubinville/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Sana Hafeez, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-sana-hafeez/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Sarah Kaplan, Brookline’s ADA Coordinator and Community Relations Specialist",
+"href": "https://brooklineinteractive.org/tv-on-tv-sarah-kaplan/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Sarah Moghtader, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-sarah-moghtader/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews School Committee Chair David Pearlman",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-david-pearlman/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews School Committee Member Danna Perry",
+"href": "https://brooklineinteractive.org/tv-on-tv-danna-perry/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Scott Gladstone about the attack on Israel",
+"href": "https://brooklineinteractive.org/tv-on-tv-live-october-12-2023/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Select Board Chair Bernard Greene",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-bernard-greene/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Select Board Member Paul Warren about MBTACA and Harvard St",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-paul-warren/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Shawn O’Neal, candidate for Housing Authority",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-shawn-oneal/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews State Rep Candidate Bill Humphrey",
+"href": "https://brooklineinteractive.org/tv-on-tv-bill-humphrey/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews State Rep Candidate Greg Schwartz",
+"href": "https://brooklineinteractive.org/tv-on-tv-greg-schwartz/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews State Rep Candidate Rick Lipof",
+"href": "https://brooklineinteractive.org/tv-on-tv-rick-lipof/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Susan Park, Host of Asian Flavors",
+"href": "https://brooklineinteractive.org/tv-on-tv-susan-park/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Susan Park, candidate for Select Board",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-susan-park/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Suzanne Federspiel, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-with-suzanne-federspiel/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Tim Davis, Brookline Director of Recreation",
+"href": "https://brooklineinteractive.org/tv-on-tv-tim-davis/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Toby Sillman, School Committee Climate and Sustainability Task Force member",
+"href": "https://brooklineinteractive.org/tv-on-tv-deborah-pepper/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews Val Frias, candidate for School Committee",
+"href": "https://brooklineinteractive.org/tv-on-tv-candidates-series-2025-val-frias/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews author Larry Ruttman",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-larry-ruttman/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews childrens author Susan Park",
+"href": "https://brooklineinteractive.org/tv-on-tv-tommy-vitolo-interviews-susan-park/"
+},
+{
+"text": "TV on TV: Tommy Vitolo interviews poet Eric Hyett",
+"href": "https://brooklineinteractive.org/tommy-vitolo-interviews-poet-eric-hyett-on-weekly-show-tv-on-tv/"
+},
+{
+"text": "TV on TV: budget discussions with Brookline Superintendent Chas Carey, Superintendent Bella Wong, and Police Chief Jen Paster",
+"href": "https://brooklineinteractive.org/tv-on-tv-town-budget-discussion-2026/"
+},
+{
+"text": "Thank you, Brookline",
+"href": "http://brookline.wickedlocal.com/news/20180914/letter-to-editor--thank-you-brookline"
+},
+{
+"text": "The Brookline gas ban",
+"href": "https://www.iheart.com/podcast/960-cindy-stumpo-is-tough-as-n-29001812/episode/the-brookline-gas-ban-53635615/"
+},
+{
+"text": "The Fun Show",
+"href": "https://brooklineinteractive.org/the-fun-show-august-13-2018/"
+},
+{
+"text": "The Sierra Club endorses Brookline Rep. Tommy Vitolo for re-election",
+"href": "https://patch.com/massachusetts/brookline/sierra-club-endorses-brookline-rep-tommy-vitolo-re-election"
+},
+{
+"text": "The View from Beacon Hill",
+"href": "http://brooklinepax.org/2020%20PAX%20Newsletter%20for%20Web.pdf"
+},
+{
+"text": "The View from Beacon Hill",
+"href": "https://brooklinepax.files.wordpress.com/2021/04/2021-pax-newsletter.pdf"
+},
+{
+"text": "The battle over climate change is boiling over on the home front",
+"href": "https://www.washingtonpost.com/climate-environment/2021/02/23/climate-change-natural-gas/"
+},
+{
+"text": "The town just got $100,000 for two new Bluebikes stations. Where should they go?",
+"href": "https://brookline.news/the-town-just-got-100000-for-two-new-bluebikes-stations-where-should-they-go/"
+},
+{
+"text": "They’re off! Grossman is first new candidate to declare for Kennedy seat",
+"href": "https://www.bostonglobe.com/metro/2019/09/23/they-off-grossman-first-candidate-declare-for-kennedy-seat/CJav3cGV1FlDzHteXcMkwM/story.html"
+},
+{
+"text": "Tommy V Dancing with the Brookline Stars for LivableStreets",
+"href": "https://www.youtube.com/watch?v=-24pPnKGGxo"
+},
+{
+"text": "Tommy Vitolo congratulates four new Eagle Scouts",
+"href": "https://www.youtube.com/watch?v=e6wy4rHb-EI"
+},
+{
+"text": "Tommy Vitolo for Warrant Article 21",
+"href": "https://www.youtube.com/watch?v=KZ03oqnb2So&feature=youtu.be"
+},
+{
+"text": "Tommy Vitolo is the best candidate for public education",
+"href": "https://patch.com/massachusetts/brookline/ep/3803320/nodx"
+},
+{
+"text": "Tommy Vitolo knows how to play in the sandbox",
+"href": "https://patch.com/massachusetts/brookline/tommy-vitolo-knows-how-play-sandbox-nodx"
+},
+{
+"text": "Tommy Vitolo sworn in as Brookline’s new State Rep.",
+"href": "http://brookline.wickedlocal.com/news/20190108/tommy-vitolo-sworn-in-as-brooklines-new-state-rep"
+},
+{
+"text": "Tommy Vitolo’s remarks at Brookline’s 9/11 Remembrance Ceremony",
+"href": "https://www.youtube.com/watch?t=1912&v=uoPpQFQ8Lms"
+},
+{
+"text": "Tonight’s 2019 Brookline Youth Awards student & adult honorees",
+"href": "https://www.brooklinehub.com/tonights-2019-brookline-youth-awards-student-adult-honorees/"
+},
+{
+"text": "Town Update: Green cleaning adopted",
+"href": "http://brookline.wickedlocal.com/x1157493202/Town-Update-Green-cleaning-adopted-Daly-seeks-to-appease-union"
+},
+{
+"text": "Towns say state is holding up plans for cheaper, greener electricity",
+"href": "https://www.wbur.org/news/2023/10/13/clean-energy-municipal-aggregation-program-backlog"
+},
+{
+"text": "Treasurer Deb Goldberg endorses Brookline Rep. Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/treasurer-deb-goldberg-endorses-brookline-rep-tommy-vitolo"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/TommyVitolo"
+},
+{
+"text": "Virtual town hall meeting for Brookline businesses and nonprofits",
+"href": "https://brooklineinteractive.org/virtual-town-hall-meeting-for-brookline-businesses-and-nonprofits-january-7th-2021/"
+},
+{
+"text": "Vitolo advocates for funding Brookline causes",
+"href": "https://brookline.wickedlocal.com/news/20190417/vitolo-advocates-for-funding-brookline-causes"
+},
+{
+"text": "Vitolo bill to expand commuter tax benefit passes as part of broader tax package",
+"href": "https://brookline.news/vitolo-bill-to-expand-commuter-deduction-passed-as-part-of-tax-package/"
+},
+{
+"text": "Vitolo bill would gradually ban tobacco products in Massachusetts",
+"href": "https://brookline.news/vitolo-bill-would-gradually-ban-tobacco-products-in-massachusetts/"
+},
+{
+"text": "Vitolo: Warren has my vote for president",
+"href": "https://brookline.wickedlocal.com/news/20200110/vitolo-warren-has-my-vote-for-president"
+},
+{
+"text": "Vitolo: With new climate law, the work is only just beginning",
+"href": "https://www.wickedlocal.com/story/brookline-tab/2021/04/06/vitolo-new-climate-law-only-beginning/7096489002/"
+},
+{
+"text": "Volunteers renovate Brookline Community Foundation building as part of global climate action day",
+"href": "http://brookline.wickedlocal.com/x1260742342/Proposed-Brookline-water-rates-face-contention"
+},
+{
+"text": "What the $335M for revamping the Mass. Pike will mean for Allston",
+"href": "https://www.nbcboston.com/news/local/mass-pike-allston-multimodal-project-reaction-boston/3307543/"
+},
+{
+"text": "What’s happening to Brookline Hills T Station, what to know",
+"href": "https://patch.com/massachusetts/brookline/whats-happening-brookline-hills-t-station-what-know"
+},
+{
+"text": "What’s next for Brookline and Tommy Vitolo ahead of November",
+"href": "https://patch.com/massachusetts/brookline/whats-next-brookline-tommy-vitolo-ahead-november"
+},
+{
+"text": "Who will run for Joe Kennedy’s House seat?",
+"href": "https://patch.com/massachusetts/brookline/several-brookline-residents-eye-kennedys-seat-congress"
+},
+{
+"text": "With Brookline rep’s support, House passes flavored tobacco ban",
+"href": "https://brookline.wickedlocal.com/news/20191114/with-brookline-reps-support-house-passes-flavored-tobacco-ban"
+},
+{
+"text": "With clear path in Democratic primary, Healey takes on another role: Helping allies survive theirs",
+"href": "https://www.bostonglobe.com/2022/08/28/metro/with-clear-path-democratic-primary-healey-takes-another-role-helping-allies-survive-theirs/"
+},
+{
+"text": "With no challenger in sight, State Rep Tommy Vitolo cements his place in Brookline politics",
+"href": "https://brookline.news/with-no-challenger-in-sight-state-rep-tommy-vitolo-cements-his-place-in-brookline-politics/"
+},
+{
+"text": "Word on the street: Soofa signs hit Brookline",
+"href": "https://brookline.wickedlocal.com/news/20190926/word-on-street-soofa-signs-hit-brookline"
+},
+{
+"text": "Wu joins striking Starbucks workers on Comm. Ave picket line",
+"href": "https://www.bostonglobe.com/2022/07/25/business/wu-joins-striking-starbucks-workers-comm-ave-picket-line/"
+},
+{
+"text": "Your morning T report: T’s no-smoking policy doesn’t apply to trains; the trolley waits for no one, not even Mike Dukakis",
+"href": "https://www.universalhub.com/2019/your-morning-t-report-ts-no-smoking-policy-doesnt"
+},
+{
+"text": "[image: Tommy Vitolo State Representative]",
+"href": "https://tommyvitolo.com/"
+},
+{
+"text": "[image: Tommy Vitolo – State Representative for Brookline, Massachusetts Logo]",
+"href": "https://tommyvitolo.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VoteVitolo/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/tommyvitolo/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/TommyVitolo"
+},
+{
+"text": "tjvitolo",
+"href": "https://tommyvitolo.com/author/tjvitolo/"
+},
+{
+"text": "‘A historic day’: Coolidge Corner Theatre debuts expanded space",
+"href": "https://dailyfreepress.com/2024/03/29/a-historic-day-coolidge-corner-theatre-debuts-expanded-space/"
+},
+{
+"text": "‘Bring them home now!’ event held to support Israelis held hostage",
+"href": "https://dailyfreepress.com/2023/10/24/bring-them-home-now-event-held-to-support-israelis-held-hostage/"
+},
+{
+"text": "‘Carnage’: Survivor of Hingham Apple Store crash asks why more isn’t being done to protect people",
+"href": "https://www.boston25news.com/news/local/carnage-survivor-hingham-apple-store-crash-asks-why-more-isnt-being-done-protect-people/EUMTY2I3KZEH7BQIRMCFL6E5SQ/"
+},
+{
+"text": "‘Dancing Stars’ still turning out money for charities",
+"href": "http://brookline.wickedlocal.com/article/20151110/NEWS/151119078"
+},
+{
+"text": "‘I will continue the fight for reproductive freedom’: Rep Tommy Vitolo",
+"href": "https://patch.com/massachusetts/brookline/i-will-continue-fight-reproductive-freedom-rep-tommy-vitolo"
+},
+{
+"text": "‘Our lives depend on it’: Brookline students demand action on climate change",
+"href": "https://brookline.wickedlocal.com/news/20190920/our-lives-depend-on-it-brookline-students-demand-action-on-climate-change"
+},
+{
+"text": "‘This is not normal’: Brookline lawmakers outline priorities for pivotal year on Beacon Hill",
+"href": "https://brookline.news/this-is-not-normal-brookline-lawmakers-outline-priorities-for-pivotal-year-on-beacon-hill/"
+},
+{
+"text": "‘This is not normal’: Brookline lawmakers outline priorities for pivotal year on Beacon Hill",
+"href": "https://bunewsservice.com/this-is-not-normal-brookline-lawmakers-outline-priorities-for-pivotal-year-on-beacon-hill/"
+},
+{
+"text": "’A home like any other’: JFK birthplace celebrates 50th anniversary as historic site in Brookline",
+"href": "https://brookline.wickedlocal.com/news/20190529/a-home-like-any-other-jfk-birthplace-celebrates-50th-anniversary-as-historic-site-in-brookline"
+},
+{
+"text": "“Stand with Ukraine Through Film” at Coolidge Corner",
+"href": "https://digboston.com/stand-with-ukraine-through-film-at-coolidge-corner/"
+}
 ]

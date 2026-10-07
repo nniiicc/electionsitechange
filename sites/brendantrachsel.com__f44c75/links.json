@@ -1,8 +1,34 @@
 [
-"https://brendantrachsel.com/",
-"https://brendantrachsel.com/contact",
-"https://brendantrachsel.com/platform",
-"https://brendantrachsel.com/support",
-"https://instagram.com/trachselforarizona",
-"https://kubiobuilder.com/"
+{
+"text": "About",
+"href": "https://brendantrachsel.com/"
+},
+{
+"text": "Contact",
+"href": "https://brendantrachsel.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://brendantrachsel.com/support"
+},
+{
+"text": "Kubio",
+"href": "https://kubiobuilder.com"
+},
+{
+"text": "Platform",
+"href": "https://brendantrachsel.com/platform/"
+},
+{
+"text": "Read Brendan’s Platform for Arizona",
+"href": "https://brendantrachsel.com/platform/"
+},
+{
+"text": "[image][image]",
+"href": "https://brendantrachsel.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/trachselforarizona"
+}
 ]

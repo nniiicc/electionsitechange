@@ -1,5 +1,4 @@
-Strengthen and stabilize your core with this dynamic flow that blends mindful movement and breath.
+0 Skip to Content Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Folder: Support Back Team of Volunteers Get Involved Events Merchandise Contact DONATE Yoga for Beginners , • 8/29/25 30 Minute Bedtime Unwind Strengthen and stabilize your core with this dynamic flow that blends mindful movement and breath.
 Ideal for building inner strength, balance, and body awareness without high intensity.
-Next
-•
-8/29/25
+Next 5 Tips for Beginners You Might Also Like # Minute Morning Flow Practicing Mindfulness # Minute Midday Routine Tips for Better Focus 5 Tips for Beginners Quick Links Meet Carrie Get Involved Issues & Priorities Purchase Supporting Merchandise Contact Email: carriecareshd60@yahoo.com Register to vote ©# Carrie Syczylo All rights reserved.
+Privacy Policy Terms & Conditions Site Design by Kimmy

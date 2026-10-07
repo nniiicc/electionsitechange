@@ -1,8 +1,26 @@
 [
-"https://judgedouglas.com/",
-"https://judgedouglas.com/about",
-"https://judgedouglas.com/experience-qualifications",
-"https://judgedouglas.com/news",
-"https://judgedouglas.com/why-im-running",
-"https://judgedouglas.com/wp-content/uploads/Jim-Douglas-Midday-Interview-1926.mp3"
+{
+"text": "About Jim",
+"href": "https://judgedouglas.com/about/"
+},
+{
+"text": "Experience",
+"href": "https://judgedouglas.com/experience-qualifications/"
+},
+{
+"text": "News & Commentary",
+"href": "https://judgedouglas.com/news/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://judgedouglas.com/why-im-running/"
+},
+{
+"text": "[image: Judge Jim Douglas for West Virginia Intermediate Court of Appeals]",
+"href": "https://judgedouglas.com/"
+},
+{
+"text": "https://judgedouglas.com/wp-content/uploads/Jim-Douglas-Midday-Interview-1926.mp3",
+"href": "https://judgedouglas.com/wp-content/uploads/Jim-Douglas-Midday-Interview-1926.mp3"
+}
 ]

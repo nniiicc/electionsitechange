@@ -1,21 +1,114 @@
 [
-"https://facebook.com/VoteDonnaDyeSholk",
-"https://instagram.com/VoteDonnaDyeSholk",
-"https://secure.actblue.com/donate/donna-dye-sholk",
-"https://votedonnadyesholk.com/",
-"https://votedonnadyesholk.com/about",
-"https://votedonnadyesholk.com/blog",
-"https://votedonnadyesholk.com/contact",
-"https://votedonnadyesholk.com/event-details-1/lockport-homecoming-parade",
-"https://votedonnadyesholk.com/event-details-1/lockport-meet-the-candidates",
-"https://votedonnadyesholk.com/event-details-1/locktoberfest",
-"https://votedonnadyesholk.com/event-details-1/town-hall-on-utility-bills",
-"https://votedonnadyesholk.com/event-details-1/vote-toberfest",
-"https://votedonnadyesholk.com/event-details-1/wilson-meet-the-candidates",
-"https://votedonnadyesholk.com/event-list",
-"https://votedonnadyesholk.com/get-involved",
-"https://votedonnadyesholk.com/mobile-terms",
-"https://votedonnadyesholk.com/priorities",
-"https://votedonnadyesholk.com/privacy-policy",
-"https://votedonnadyesholk.com/vote"
+{
+"text": "About",
+"href": "https://www.votedonnadyesholk.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.votedonnadyesholk.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.votedonnadyesholk.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/donna-dye-sholk"
+},
+{
+"text": "Events",
+"href": "https://www.votedonnadyesholk.com/event-list"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votedonnadyesholk.com/get-involved"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedonnadyesholk.com/event-details-1/lockport-homecoming-parade"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedonnadyesholk.com/event-details-1/lockport-meet-the-candidates"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedonnadyesholk.com/event-details-1/locktoberfest"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedonnadyesholk.com/event-details-1/town-hall-on-utility-bills"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedonnadyesholk.com/event-details-1/vote-toberfest"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedonnadyesholk.com/event-details-1/wilson-meet-the-candidates"
+},
+{
+"text": "Lockport Homecoming Parade",
+"href": "https://www.votedonnadyesholk.com/event-details-1/lockport-homecoming-parade"
+},
+{
+"text": "Lockport Meet the Candidates",
+"href": "https://www.votedonnadyesholk.com/event-details-1/lockport-meet-the-candidates"
+},
+{
+"text": "Locktoberfest",
+"href": "https://www.votedonnadyesholk.com/event-details-1/locktoberfest"
+},
+{
+"text": "Mobile Terms",
+"href": "https://www.votedonnadyesholk.com/mobile-terms"
+},
+{
+"text": "New York State Assembly",
+"href": "https://www.votedonnadyesholk.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.votedonnadyesholk.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedonnadyesholk.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.votedonnadyesholk.com"
+},
+{
+"text": "Town Hall on Utility Bills",
+"href": "https://www.votedonnadyesholk.com/event-details-1/town-hall-on-utility-bills"
+},
+{
+"text": "Vote",
+"href": "https://www.votedonnadyesholk.com/vote"
+},
+{
+"text": "Vote Donna Dye Sholk",
+"href": "https://www.votedonnadyesholk.com"
+},
+{
+"text": "Vote-toberfest",
+"href": "https://www.votedonnadyesholk.com/event-details-1/vote-toberfest"
+},
+{
+"text": "Wilson Meet the Candidates",
+"href": "https://www.votedonnadyesholk.com/event-details-1/wilson-meet-the-candidates"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteDonnaDyeSholk"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/VoteDonnaDyeSholk"
+},
+{
+"text": "[no text]",
+"href": "mailto:VoteDonnaDyeSholk@gmail.com"
+}
 ]

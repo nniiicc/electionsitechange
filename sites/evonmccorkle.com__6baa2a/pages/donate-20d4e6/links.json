@@ -1,10 +1,42 @@
 [
-"https://buy.stripe.com/dRmaEY9Hsg9FdB0byf6sw00",
-"https://evonmccorkle.com/",
-"https://evonmccorkle.com/cart",
-"https://evonmccorkle.com/contact",
-"https://evonmccorkle.com/donate",
-"https://evonmccorkle.com/mylife",
-"https://evonmccorkle.com/priorities",
-"https://evonmccorkle.com/service-impact"
+{
+"text": "0",
+"href": "https://www.evonmccorkle.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.evonmccorkle.com/donate"
+},
+{
+"text": "Email",
+"href": "mailto:voteevonmccorkle@gmail.com?subject=Question+or+request"
+},
+{
+"text": "Evon Mccorkle's page",
+"href": "https://www.evonmccorkle.com/"
+},
+{
+"text": "Home",
+"href": "https://www.evonmccorkle.com/"
+},
+{
+"text": "Join The Cause",
+"href": "https://www.evonmccorkle.com/contact"
+},
+{
+"text": "My Life",
+"href": "https://www.evonmccorkle.com/mylife"
+},
+{
+"text": "Service & Impact",
+"href": "https://www.evonmccorkle.com/service-impact"
+},
+{
+"text": "Support the Campaign",
+"href": "https://buy.stripe.com/dRmaEY9Hsg9FdB0byf6sw00"
+},
+{
+"text": "‍ ‍ Priorities",
+"href": "https://www.evonmccorkle.com/priorities"
+}
 ]

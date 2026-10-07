@@ -1,15 +1,78 @@
 [
-"https://eepurl.com/iM4DlI",
-"https://facebook.com/Jeremydean4mo",
-"https://instagram.com/jeremydean4mo",
-"https://secure.actblue.com/donate/reelectjeremydean",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://upballot.com/",
-"https://upballot.com/jeremy-dean",
-"https://upballot.com/jeremy-dean/about",
-"https://upballot.com/jeremy-dean/events",
-"https://upballot.com/jeremy-dean/get-involved",
-"https://upballot.com/jeremy-dean/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Jeremy",
+"href": "https://www.upballot.com/jeremy-dean/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/reelectjeremydean"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/jeremy-dean/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/jeremy-dean/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/jeremy-dean"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/jeremy-dean/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Reach Out",
+"href": "https://eepurl.com/iM4DlI"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "View Events",
+"href": "https://www.upballot.com/jeremy-dean/events/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "[image: Jeremy Dean Logo]",
+"href": "https://www.upballot.com/jeremy-dean/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Jeremydean4mo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeremydean4mo"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/Jeremydean4mo/"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/jeremydean4mo"
+},
+{
+"text": "citizensforjeremydean@gmail.com",
+"href": "mailto:citizensforjeremydean@gmail.com"
+},
+{
+"text": "tel:417-708-4139",
+"href": "tel:417-708-4139"
+}
 ]

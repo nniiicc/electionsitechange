@@ -1,8 +1,30 @@
 [
-"https://facebook.com/MelissaFor44",
-"https://melissafor44.com/",
-"https://melissafor44.com/issue-posts",
-"https://melissafor44.com/melissa",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://secure.winred.com/friends-of-melissa-dicranian-6ed05e09/friends-of-melissa-dicranian-2026"
+{
+"text": "CONNECT WITH THE CAMPAIGN",
+"href": "mailto:info@MelissaFor44.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-melissa-dicranian-6ed05e09/friends-of-melissa-dicranian-2026"
+},
+{
+"text": "Home",
+"href": "https://melissafor44.com/"
+},
+{
+"text": "Issue Posts",
+"href": "https://melissafor44.com/issue-posts"
+},
+{
+"text": "Melissa",
+"href": "https://melissafor44.com/melissa"
+},
+{
+"text": "PA Voter Registration",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MelissaFor44/"
+}
 ]

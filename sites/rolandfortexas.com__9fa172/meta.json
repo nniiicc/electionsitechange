@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Texas State Senator Roland Gutierrez. Fighting for working families, gun violence prevention, education, and healthcare from San Antonio to Uvalde and across Texas.",
  "final_url": "https://www.rolandfortexas.com/",
- "paid_for_by": null,
+ "fingerprint": "20019d15f49e3d157a1b1d4f130a12dd1b02b3e6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Roland Gutierrez for Texas | Fighting for Working Families",
  "years_mentioned": []
 }

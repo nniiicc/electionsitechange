@@ -1,12 +1,54 @@
 [
-"https://campaign4charity.com/",
-"https://campaign4charity.com/about",
-"https://campaign4charity.com/coming-soon-03",
-"https://campaign4charity.com/contact",
-"https://campaign4charity.com/platform",
-"https://facebook.com/groups/144552958888943",
-"https://facebook.com/share/g/1E6gXbB5q6?mibextid=wwXIfr",
-"https://instagram.com/campaign4charity",
-"https://linkedin.com/in/charity-martin-king-347ba918",
-"https://secure.actblue.com/donate/charity-martin-king-1"
+{
+"text": "Contact Form",
+"href": "https://www.campaign4charity.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/charity-martin-king-1"
+},
+{
+"text": "Home",
+"href": "https://www.campaign4charity.com"
+},
+{
+"text": "Join Us!",
+"href": "https://www.campaign4charity.com/coming-soon-03"
+},
+{
+"text": "Learn More",
+"href": "https://www.campaign4charity.com/platform"
+},
+{
+"text": "Meet Charity",
+"href": "https://www.campaign4charity.com/about"
+},
+{
+"text": "Platform",
+"href": "https://www.campaign4charity.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/groups/144552958888943/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/g/1E6gXbB5q6/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/campaign4charity/"
+},
+{
+"text": "[image: Linkedin]",
+"href": "https://www.linkedin.com/in/charity-martin-king-347ba918"
+},
+{
+"text": "campaign4charity@gmail.com",
+"href": "mailto:campaign4charity@gmail.com"
+},
+{
+"text": "cmkcampaigntreasurer@gmail.com",
+"href": "mailto:cmkcampaigntreasurer@gmail.com"
+}
 ]

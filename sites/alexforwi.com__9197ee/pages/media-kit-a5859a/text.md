@@ -1,30 +1,3 @@
-top of page
-Sign up to volunteer and request a yard sign →
-Home
-About
-Meet Alex
-District 81
-Solutions
-Take Action
-Volunteer & Yard Signs
-Donate
-Contact
-Vote
-Events
-The Latest
-News
-Media Kit
-Photos
-Brand Tool Kit
-Jobs
-More
-Use tab to navigate through the menu items.
-Donate
-About ALEX
-BRAND KIT
-PHOTOGRAPHY
-FOLLOW ON FB
-MEDIA Kit
-For Press Inquiries Email:
-alexforwi@gmail.com
-bottom of page
+top of page Sign up to volunteer and request a yard sign → Home About Meet Alex District 81 Solutions Take Action Volunteer & Yard Signs Donate Contact Vote Events The Latest News Media Kit Photos Brand Tool Kit Jobs More Use tab to navigate through the menu items.
+Donate About ALEX BRAND KIT PHOTOGRAPHY FOLLOW ON FB MEDIA Kit For Press Inquiries Email: alexforwi@gmail.com Home About Meet Alex District 81 Solutions Take Action Volunteer & Yard Signs Donate Contact Vote Events The Latest News Media Kit Photos Brand Tool Kit Jobs More Use tab to navigate through the menu items.
+Jobs Contact Privacy Policy Accessibility PAID FOR BY ALEX FOR WISCONSIN Website Made by NXTGEN Agency Fuel OUR PEOPLE-POWERED CAMPAIGN $5 $10 $15 $50 $100 OTHER bottom of page

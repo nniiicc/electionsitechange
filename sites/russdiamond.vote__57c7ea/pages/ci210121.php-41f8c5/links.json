@@ -1,32 +1,130 @@
 [
-"http://russdiamond.vote/ci210109.php",
-"https://drive.google.com/file/d/125pRuRZKFZMv9XgmS942Rdy19huMX_Ya/view?usp=sharing",
-"https://drive.google.com/file/d/178Me93ISciVLFqZqCEiQBtAW-qTE1TtK/view?usp=sharing",
-"https://drive.google.com/file/d/17OM35TkQt2e3vPaCAujo1Drtm0z4h7rd/view?usp=sharing",
-"https://drive.google.com/file/d/1HMgIMyG5C9wb5jC8wz7oxaHJ-afTFUG-/view?usp=sharing",
-"https://drive.google.com/file/d/1JSkRp45lzlZDq65VBCkL2dCStKET84s1/view?usp=sharing",
-"https://drive.google.com/file/d/1SbqvHyBgUFJFFG9GyP3kb-p1b4cK96IE/view?usp=sharing",
-"https://drive.google.com/file/d/1XhBpY2L1RugNIAdhqkjJTJy-SsRQ_yiY/view?usp=sharing",
-"https://drive.google.com/file/d/1Y9ES8RMhj1Q6CESyke8p9hcqDWGngVZ5/view?usp=sharing",
-"https://drive.google.com/file/d/1bkP-2UFZNUQbZdPIGUWAt65rezKV5I4Q/view?usp=sharing",
-"https://drive.google.com/file/d/1yJjmU_8zRaDEnw0H7XFQpq2_b3L3vXzQ/view?usp=sharing",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/posts/3380558708732773",
-"https://facebook.com/repdiamond/reels",
-"https://instagram.com/russdiamond",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=B&billNbr=2626&pn=4335",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=1032&pn=4432",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=1094&pn=4634",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=R&billNbr=0007&pn=0015",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=R&billNbr=0008&pn=0016",
-"https://penncapital-star.com/election-2020/gop-leaders-once-again-say-they-cant-overturn-election-results-but-send-letter-disputing-results-to-congress",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "HB2626",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=B&billNbr=2626&pn=4335"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "House Resolution 1032",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=1032&pn=4432"
+},
+{
+"text": "House Resolution 1094",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=1094&pn=4634"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "a letter to Governor Tom Wolf",
+"href": "https://drive.google.com/file/d/1yJjmU_8zRaDEnw0H7XFQpq2_b3L3vXzQ/view?usp=sharing"
+},
+{
+"text": "administrative error.",
+"href": "https://www.penncapital-star.com/election-2020/gop-leaders-once-again-say-they-cant-overturn-election-results-but-send-letter-disputing-results-to-congress/"
+},
+{
+"text": "complaint for declaratory and injunctive relief",
+"href": "https://drive.google.com/file/d/178Me93ISciVLFqZqCEiQBtAW-qTE1TtK/view?usp=sharing"
+},
+{
+"text": "filing a brief",
+"href": "https://drive.google.com/file/d/125pRuRZKFZMv9XgmS942Rdy19huMX_Ya/view?usp=sharing"
+},
+{
+"text": "filing a brief",
+"href": "https://drive.google.com/file/d/1XhBpY2L1RugNIAdhqkjJTJy-SsRQ_yiY/view?usp=sharing"
+},
+{
+"text": "introduced as HR7.",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=R&billNbr=0007&pn=0015"
+},
+{
+"text": "introduced as HR8.",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=R&billNbr=0008&pn=0016"
+},
+{
+"text": "issuing a report",
+"href": "https://www.facebook.com/repdiamond/posts/3380558708732773"
+},
+{
+"text": "letter to Congressman Scott Perry",
+"href": "https://drive.google.com/file/d/17OM35TkQt2e3vPaCAujo1Drtm0z4h7rd/view?usp=sharing"
+},
+{
+"text": "letter to Pennsylvania’s congressional delegation",
+"href": "https://drive.google.com/file/d/1SbqvHyBgUFJFFG9GyP3kb-p1b4cK96IE/view?usp=sharing"
+},
+{
+"text": "letter to Vice President Mike Pence",
+"href": "https://drive.google.com/file/d/1bkP-2UFZNUQbZdPIGUWAt65rezKV5I4Q/view?usp=sharing"
+},
+{
+"text": "letter to my Republican colleagues",
+"href": "http://russdiamond.vote/ci210109.php"
+},
+{
+"text": "letter to the Speaker of the House and Majority Leader",
+"href": "https://drive.google.com/file/d/1Y9ES8RMhj1Q6CESyke8p9hcqDWGngVZ5/view?usp=sharing"
+},
+{
+"text": "petition to call a special session",
+"href": "https://drive.google.com/file/d/1JSkRp45lzlZDq65VBCkL2dCStKET84s1/view?usp=sharing"
+},
+{
+"text": "requesting that the Commonwealth Court issue a Writ of Mandamus",
+"href": "https://drive.google.com/file/d/1HMgIMyG5C9wb5jC8wz7oxaHJ-afTFUG-/view?usp=sharing"
+}
 ]

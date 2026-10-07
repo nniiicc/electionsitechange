@@ -1,7 +1,9 @@
 {
  "description": "Explore the political issues that matter to you with Elect Pam Howard. Engage with community issues and stay informed on electoral topics.",
  "final_url": "https://electpamhoward.com/issues",
- "paid_for_by": null,
+ "fingerprint": "322b5a06292a3f7387e0a852d40e3c9dc1a48d62",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": []
 }

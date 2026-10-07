@@ -1,15 +1,62 @@
 [
-"https://facebook.com/MarkBurrowsNC",
-"https://instagram.com/markburrowsnc",
-"https://markburrowsnc.com/",
-"https://markburrowsnc.com/about",
-"https://markburrowsnc.com/contact-us",
-"https://markburrowsnc.com/economic-opportunity",
-"https://markburrowsnc.com/environment",
-"https://markburrowsnc.com/government-accountability",
-"https://markburrowsnc.com/healthcare",
-"https://markburrowsnc.com/platform",
-"https://markburrowsnc.com/working-families",
-"https://secure.actblue.com/donate/burrowsfornc",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://markburrowsnc.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://markburrowsnc.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/burrowsfornc"
+},
+{
+"text": "Economic Opportunity",
+"href": "https://markburrowsnc.com/economic-opportunity"
+},
+{
+"text": "Environment",
+"href": "https://markburrowsnc.com/environment"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Government Accountability",
+"href": "https://markburrowsnc.com/government-accountability"
+},
+{
+"text": "Healthcare",
+"href": "https://markburrowsnc.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://markburrowsnc.com/"
+},
+{
+"text": "Platform",
+"href": "https://markburrowsnc.com/platform"
+},
+{
+"text": "Working Families",
+"href": "https://markburrowsnc.com/working-families"
+},
+{
+"text": "[image: Mark Burrows for NC House 119]",
+"href": "https://markburrowsnc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MarkBurrowsNC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/markburrowsnc"
+},
+{
+"text": "markburrowsfornc119@gmail.com",
+"href": "mailto:markburrowsfornc119@gmail.com"
+}
 ]

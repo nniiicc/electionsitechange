@@ -1,6 +1,2 @@
-Back to All Events
-Come visit your local DFL candidates at the Sherburne Country Fair DFL Booth!
-If you are interested in volunteering, please use the Google Sheets
-Next
-Next
-July 18
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Sherburne County Fair SD27/27 Booth Thursday, July 16, 2026 8:00 AM Sunday, July 19, 2026 7:00 PM Elk River Fair Grounds 18335 Joplin Street Northwest Elk River, Minnesota, 55330 United States (map) Google Calendar ICS Come visit your local DFL candidates at the Sherburne Country Fair DFL Booth!
+If you are interested in volunteering, please use the Google Sheets Next Next July 18 Sherburne County Fair Parade Paid for by Davenport for Minnesota House 27A

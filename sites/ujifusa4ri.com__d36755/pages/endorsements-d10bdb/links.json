@@ -1,11 +1,42 @@
 [
-"https://facebook.com/Ujifusa4RI",
-"https://instagram.com/linda_ujifusa",
-"https://ujifusa4ri.com/",
-"https://ujifusa4ri.com/contact",
-"https://ujifusa4ri.com/donate",
-"https://ujifusa4ri.com/endorsements",
-"https://ujifusa4ri.com/meetlinda",
-"https://ujifusa4ri.com/news",
-"https://ujifusa4ri.com/priorities"
+{
+"text": "Contact",
+"href": "https://www.ujifusa4ri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.ujifusa4ri.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ujifusa4ri.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.ujifusa4ri.com"
+},
+{
+"text": "Meet Linda",
+"href": "https://www.ujifusa4ri.com/meetlinda"
+},
+{
+"text": "News",
+"href": "https://www.ujifusa4ri.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.ujifusa4ri.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Ujifusa4RI"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/linda_ujifusa/"
+},
+{
+"text": "[image: LindaUjifusa-WIX LOGO copy.jpg]",
+"href": "https://www.ujifusa4ri.com"
+}
 ]

@@ -1,13 +1,58 @@
 [
-"https://colinwjack.com/about-colin",
-"https://colinwjack.com/campaign",
-"https://colinwjack.com/contact",
-"https://colinwjack.com/donate",
-"https://colinwjack.com/home",
-"https://colinwjack.com/issues",
-"https://colinwjack.com/legislative-reports/2023-legislative-report",
-"https://colinwjack.com/legislative-reports/2024-legislative-report",
-"https://colinwjack.com/legislative-reports/2025-legislative-report",
-"https://colinwjack.com/legislative-reports/2026-legislative-report",
-"https://google.com/url?q=https%3A%2F%2Fsecure.utah.gov%2Fvoterreg%2Flogin.html%3Fselection%3DREGISTER&sa=D&sntz=1&usg=AOvVaw2Vu2IycZAn0JLzQNARQtCv"
+{
+"text": "2023 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2023-legislative-report"
+},
+{
+"text": "2024 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2024-legislative-report"
+},
+{
+"text": "2025 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2025-legislative-report"
+},
+{
+"text": "2026 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2026-legislative-report"
+},
+{
+"text": "About Colin",
+"href": "https://www.colinwjack.com/about-colin"
+},
+{
+"text": "Campaign",
+"href": "https://www.colinwjack.com/campaign"
+},
+{
+"text": "Colin W. Jack",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "Contact",
+"href": "https://www.colinwjack.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.colinwjack.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.colinwjack.com/issues"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.utah.gov%2Fvoterreg%2Flogin.html%3Fselection%3DREGISTER&sa=D&sntz=1&usg=AOvVaw2Vu2IycZAn0JLzQNARQtCv"
+},
+{
+"text": "[image]",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "[image]Colin W. Jack",
+"href": "https://www.colinwjack.com/home"
+}
 ]

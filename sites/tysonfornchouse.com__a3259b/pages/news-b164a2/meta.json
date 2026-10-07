@@ -1,10 +1,14 @@
 {
  "description": "Steve Tyson in the News",
  "final_url": "https://www.tysonfornchouse.com/news",
- "paid_for_by": null,
+ "fingerprint": "72dd4fb88c96e4a086e1ecc2ac95bb361e5d586b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
+  "2019",
   "2020",
-  "2021"
+  "2021",
+  "2022"
  ]
 }

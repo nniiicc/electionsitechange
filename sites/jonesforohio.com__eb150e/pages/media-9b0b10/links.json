@@ -1,21 +1,126 @@
 [
-"https://facebook.com/JonesForOhio",
-"https://instagram.com/jones4ohio",
-"https://jonesforohio.com/",
-"https://jonesforohio.com/contact",
-"https://jonesforohio.com/events",
-"https://jonesforohio.com/media",
-"https://jonesforohio.com/media/aaron-and-tracy.jpg",
-"https://jonesforohio.com/media/aaron-jones-campaign-photo-1.jpg",
-"https://jonesforohio.com/media/aaron-jones-campaign-photo-2.png",
-"https://jonesforohio.com/media/aaron-jones-casual-landscape.jpg",
-"https://jonesforohio.com/media/aaron-jones-kickoff.jpg",
-"https://jonesforohio.com/media/aaron-jones-official-portrait.jpg",
-"https://jonesforohio.com/media/aaron-jones-portrait-landscape.jpg",
-"https://jonesforohio.com/media/jones-family.jpg",
-"https://jonesforohio.com/media/jones-upscaled-headshot.png",
-"https://jonesforohio.com/privacy-policy-terms",
-"https://jonesforohio.com/vote",
-"https://secure.actblue.com/donate/aaron-jones",
-"https://x.com/JonesForOhio"
+{
+"text": "@JonesForOhio",
+"href": "https://www.facebook.com/JonesForOhio"
+},
+{
+"text": "@JonesForOhio",
+"href": "https://x.com/JonesForOhio"
+},
+{
+"text": "@jones4ohio",
+"href": "https://www.instagram.com/jones4ohio/"
+},
+{
+"text": "Aaron Jones for State Representative",
+"href": "https://www.jonesforohio.com/"
+},
+{
+"text": "About",
+"href": "https://www.jonesforohio.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.jonesforohio.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-jones"
+},
+{
+"text": "Download JPG (190 KB)",
+"href": "https://www.jonesforohio.com/media/aaron-jones-kickoff.jpg"
+},
+{
+"text": "Download JPG (35 KB)",
+"href": "https://www.jonesforohio.com/media/aaron-jones-casual-landscape.jpg"
+},
+{
+"text": "Download JPG (37 KB)",
+"href": "https://www.jonesforohio.com/media/aaron-jones-portrait-landscape.jpg"
+},
+{
+"text": "Download JPG (446 KB)",
+"href": "https://www.jonesforohio.com/media/aaron-and-tracy.jpg"
+},
+{
+"text": "Download JPG (465 KB)",
+"href": "https://www.jonesforohio.com/media/aaron-jones-campaign-photo-1.jpg"
+},
+{
+"text": "Download JPG (497 KB)",
+"href": "https://www.jonesforohio.com/media/aaron-jones-official-portrait.jpg"
+},
+{
+"text": "Download JPG (864 KB)",
+"href": "https://www.jonesforohio.com/media/jones-family.jpg"
+},
+{
+"text": "Download PNG (1.6 MB)",
+"href": "https://www.jonesforohio.com/media/aaron-jones-campaign-photo-2.png"
+},
+{
+"text": "Download PNG (1.6 MB)",
+"href": "https://www.jonesforohio.com/media/jones-upscaled-headshot.png"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonesforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jonesforohio.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonesforohio.com/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jonesforohio.com/"
+},
+{
+"text": "Media",
+"href": "https://www.jonesforohio.com/media/"
+},
+{
+"text": "News",
+"href": "https://www.jonesforohio.com/#news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jonesforohio.com/#priorities"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.jonesforohio.com/privacy-policy-terms"
+},
+{
+"text": "Vote",
+"href": "https://www.jonesforohio.com/vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JonesForOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jones4ohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JonesForOhio"
+},
+{
+"text": "info@jonesforohio.com",
+"href": "mailto:info@jonesforohio.com"
+},
+{
+"text": "press@jonesforohio.com",
+"href": "mailto:press@jonesforohio.com"
+},
+{
+"text": "www.jonesforohio.com",
+"href": "https://www.jonesforohio.com"
+}
 ]

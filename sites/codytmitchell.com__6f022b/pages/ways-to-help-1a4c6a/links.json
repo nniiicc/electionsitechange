@@ -1,12 +1,54 @@
 [
-"http://facebook.com/ElectCodyTMitchell",
-"https://codytmitchell.com/",
-"https://codytmitchell.com/about",
-"https://codytmitchell.com/donate",
-"https://codytmitchell.com/media",
-"https://codytmitchell.com/my-platform",
-"https://codytmitchell.com/ways-to-help",
-"https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Abc0631f2-1c57-3861-8936-4f6370887908",
-"https://facebook.com/ElectCodyTMitchell",
-"https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeRequest"
+{
+"text": "About",
+"href": "https://www.codytmitchell.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.codytmitchell.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.codytmitchell.com/donate"
+},
+{
+"text": "Media",
+"href": "https://www.codytmitchell.com/media"
+},
+{
+"text": "My Platform",
+"href": "https://www.codytmitchell.com/my-platform"
+},
+{
+"text": "Ways to Help",
+"href": "https://www.codytmitchell.com/ways-to-help"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/ElectCodyTMitchell"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectCodyTMitchell"
+},
+{
+"text": "[image: Mitchell logo FINAL-name-white.png]",
+"href": "https://www.codytmitchell.com"
+},
+{
+"text": "cody@codytmitchell.com",
+"href": "mailto:cody@codytmitchell.com"
+},
+{
+"text": "ctmitchellsc@gmail.com",
+"href": "mailto:cody@codytmitchell.com"
+},
+{
+"text": "here",
+"href": "https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeRequest"
+},
+{
+"text": "here.",
+"href": "https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Abc0631f2-1c57-3861-8936-4f6370887908"
+}
 ]

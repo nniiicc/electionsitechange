@@ -1,18 +1,90 @@
 [
-"https://clintforidaho.com/",
-"https://clintforidaho.com/about",
-"https://clintforidaho.com/author/effyis",
-"https://clintforidaho.com/contact",
-"https://clintforidaho.com/donate",
-"https://clintforidaho.com/email-signup",
-"https://clintforidaho.com/issues",
-"https://clintforidaho.com/media",
-"https://cpac.org/bio/id-clint-hostetler",
-"https://facebook.com/clintforidaho",
-"https://gopscorecard.com/",
-"https://idahogop.limitedgov.org/",
-"https://idgopscorecard.com/",
-"https://index.idahofreedom.org/",
-"https://thefreedomindex.org/id",
-"https://twitter.com/clintforidaho"
+{
+"text": "About",
+"href": "https://clintforidaho.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://clintforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://clintforidaho.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://clintforidaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://clintforidaho.com/issues/"
+},
+{
+"text": "Learn more",
+"href": "https://clintforidaho.com/about"
+},
+{
+"text": "Media",
+"href": "https://clintforidaho.com/media/"
+},
+{
+"text": "Signup for Emails",
+"href": "https://clintforidaho.com/email-signup"
+},
+{
+"text": "[image: Clint Hostetler for Idaho Logo]",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://cpac.org/bio/id-clint-hostetler"
+},
+{
+"text": "[no text]",
+"href": "https://gopscorecard.com/"
+},
+{
+"text": "[no text]",
+"href": "https://idahogop.limitedgov.org/"
+},
+{
+"text": "[no text]",
+"href": "https://idgopscorecard.com/"
+},
+{
+"text": "[no text]",
+"href": "https://index.idahofreedom.org/"
+},
+{
+"text": "[no text]",
+"href": "https://thefreedomindex.org/id"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/clintforidaho"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/clintforidaho"
+},
+{
+"text": "contact me",
+"href": "https://clintforidaho.com/contact"
+},
+{
+"text": "effyis",
+"href": "https://clintforidaho.com/author/effyis/"
+},
+{
+"text": "issues",
+"href": "https://clintforidaho.com/issues"
+}
 ]

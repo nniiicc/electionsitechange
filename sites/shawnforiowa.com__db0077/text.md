@@ -1,15 +1,11 @@
-Fighting for
-everyday Iowans.
-Your help will make
-the difference.
-Meet Shawn Ellerbroek
-Shawn Ellerbroek brings his passion for education and community to his campaign for Iowa House of Representatives District 57.
+Home “The Dude” Iowa Voices Request Gear Butler County Request Gear Bremer County Make a Donation Make a Donation Fighting for everyday Iowans.
+Your help will make the difference.
+Contact Contact Volunteer Volunteer Donate Donate Gear Request - Butler County Gear Request - Butler County Gear Request - Bremer County Gear Request - Bremer County Meet Shawn Ellerbroek Shawn Ellerbroek brings his passion for education and community to his campaign for Iowa House of Representatives District 57.
 With over two decades of experience as a biochemistry professor, Ellerbroek is deeply committed to shaping policies that prioritize water quality, reduce cancer rates, produce a common-sense balanced state budget, protect and improve rural public education, and provide affordable and accessible healthcare for all Iowans.
 Shawn is a life-long Iowan who has raised three children in Waverly with his wife, Angie.
 His service as President of the Waverly-Shell Rock School Board and career in cancer research give him a profound understanding of many of the key issues facing Iowans.
 The Shawn for Iowa platform emphasizes being present in the community, listening and inclusive governance, and evidence-based decision-making that fosters a brighter, more equitable future for all Iowans.
-Water Quality
-There are two outstanding concerns about Iowa water: its poor quality and no understanding of how much or little of it exists under our feet.
+Water Quality There are two outstanding concerns about Iowa water: its poor quality and no understanding of how much or little of it exists under our feet.
 We are experiencing unprecedented concentrations of nitrates, PFAS, chemicals, and coliform bacteria in our waterways.
 These substances are polluting our drinking and recreational waters and likely contributing to our nation-leading rise in cancer rates.
 We need legislation that supports more inclusive rural water well surveillance and treatment, fully funds real-time water monitoring efforts to track safety and success of nutrient reduction efforts, requires water treatment facilities to create plans to protect municipal water supplies, and properly tracks and enforces waste management activity.
@@ -27,8 +23,7 @@ We still have no idea how much water Iowa has in its aquifers.
 With water-consuming industries like data centers, ethanol plants, and carbon capture pipelines being proposed, discussed, or in the case of the latter forced upon us, we have to recognize the serious negative consequences of over permitting.
 The last time Iowa updated its comprehensive water plan was 1985, when the Bears won the Super Bowl.
 Let's figure out what we have for water and how we want to use and protect it.
-Lower Cancer Rates
-Cancer often takes years to develop.
+Lower Cancer Rates Cancer often takes years to develop.
 Even if we magically mitigated cancer drivers today, high cancer rates will be with us for years to come.
 We cannot wait; future generations need action now.
 Unfortunately, the legislature has been slow to understand and respond, even proposing bills that protect the chemical companies.
@@ -54,8 +49,7 @@ We have too many young people getting cancer, and Iowa is number one in key canc
 And it is not just cancer – other diseases including Parkinson’s are on the rise and linked to agrochemicals.
 We can start by limiting vertical integration by corporations and creating and enforcing antitrust laws to break up monopolistic pricing.
 Iowa should empower the DNR to enforce existing regulations, require proper aerial application through reasonable fine enforcement and robust damage compensation for over spraying, and clean up our water through partnership practices I mention under water quality.
-Budget - Yours and the State's
-The legislature in Des Moines doesn’t have a plan to fix the damage they have done to our economy and budget.
+Budget - Yours and the State's The legislature in Des Moines doesn’t have a plan to fix the damage they have done to our economy and budget.
 They’ve accelerated the installment of a 3.8% flat tax.
 When combined with a nation-lagging economy, the result is a huge loss of income for the state.
 Inevitably, the state has been running billion dollar deficits.
@@ -82,7 +76,15 @@ That is crap; we are failing them.
 Young Iowans do not want to stay and get cancer with limited job prospects while seeing their rights and beliefs attacked.
 And companies don’t want to come to a state running billion dollar deficits, that cannot support infrastructure needs, and cannot promise a pool of skilled workers because they are leaving or sick.
 For the long-term health of our budget and economy, we must address Iowa's cancer and water quality issues and fund public education and critical services that will make Iowa graduates want to plant roots in our state.
-Shawn for Iowa Endorsements
-Request Your Campaign Gear
-Would you like to display a yard sign or get a Shawn Ellerbroek for Iowa House tee shirt?
+On the Record: Video Shawn for Iowa Endorsements Request Your Campaign Gear Would you like to display a yard sign or get a Shawn Ellerbroek for Iowa House tee shirt?
 Submit your request at the Butler County or Bremer County link below.
+Butler County Gear Request Form Bremer County Gear Request Form Make a donation today to invest in our Schools, our communities, and Our Health.
+Show your support Show your support Want to Be Part of the Shawn for Iowa Campaign?
+We'd Love to Hear From You.
+Connect Today Connect Today Iowa House District 57 Parkersburg Shell Rock Allison Clarksville Aplington Dumont Greene Bristow Waverly Janesville Denver Plainfield Aredale New Hartford Connect with Shawn Want to know when Shawn Ellerbroek will be holding events near you?
+Want to help flip representation in Des Moines to a candidate who values Education and Health Care?
+Let’s connect.
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Comment or Message Submit Follow us: Facebook-f X-twitter Instagram The Official Site of Shawn for Iowa – the Campaign to Elect Shawn Ellerbroek to Iowa House of Representatives District 57 .
+All rights reserved

@@ -1,9 +1,13 @@
 {
  "description": "View the latest updates from the Mark Pocan for Congress campaign.",
  "final_url": "https://pocanforcongress.com/news/",
- "paid_for_by": "Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top Scroll to top",
- "title": "News - Mark Pocan for Wisconsin US House of RepresentativesScroll to top",
+ "fingerprint": "812f019e36ab7e312174641186337bbfa3af75a6",
+ "format": 3,
+ "paid_for_by": "Paid for by Mark Pocan for Congress",
+ "title": "News - Mark Pocan for Wisconsin US House of Representatives",
  "years_mentioned": [
-  "2018"
+  "2017",
+  "2018",
+  "2022"
  ]
 }

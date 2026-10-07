@@ -1,10 +1,4 @@
-Back to All Events
-Amelia for Texas volunteer training provides important information, tools, and guidance to help you feel confident and prepared as we continue our grassroots efforts together.
+0 Skip to Content FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Back to All Events Amelia for Texas - Volunteer Training Sunday, April 12, 2026 2:00 PM 4:00 PM The Art Space of Central Texas 103 Mountain Lion Road Harker Heights, TX, 76548 United States (map) Google Calendar ICS Amelia for Texas volunteer training provides important information, tools, and guidance to help you feel confident and prepared as we continue our grassroots efforts together.
 Your time and commitment truly make a difference, and we are grateful for your continued support.
-Previous
-Previous
-January 23
-Painting a Bright Future - Fundraiser
-Next
-Next
-April 22
+Source: https://www.mobilize.us/ameliafortexashd55-1/event/934311/ Previous Previous January 23 Painting a Bright Future - Fundraiser Next Next April 22 Rooted In Community - Earth Day Meet and Greet with Local Candidates Amelia for Texas Pol.
+Ad paid for by the Amelia for Texas Campaign © # Amelia for Texas info@ameliafortexas.com

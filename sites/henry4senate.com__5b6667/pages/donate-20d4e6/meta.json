@@ -1,7 +1,11 @@
 {
- "description": "Contribute securely to Friends of Jackie Henry. Grassroots donations fund the mail, doors, and ads to win Minnesota Senate District 18 \u2014 or mail a check.",
+ "description": "Contribute securely to Friends of Jackie Henry. Grassroots donations fund the mail, doors, and ads to win Minnesota Senate District 18 — or mail a check.",
  "final_url": "https://www.henry4senate.com/donate/",
+ "fingerprint": "612555e100e0ef95fe90f4283919725893ef33aa",
+ "format": 3,
  "paid_for_by": "paid for by Friends of Jackie Henry, PO Box 125, St",
- "title": "Donate \u00b7 Jackie Henry for Senate",
- "years_mentioned": []
+ "title": "Donate · Jackie Henry for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

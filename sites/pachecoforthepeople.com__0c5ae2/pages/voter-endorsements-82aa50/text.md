@@ -1,6 +1,5 @@
-Video of support from Mr. & Mrs.
-Medeiros.
-_______________________________________________________________________________________
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Video of support from Mr. & Mrs.
+Medeiros. https://www.facebook.com/share/r/1D1WeEZ4xZ/ _______________________________________________________________________________________ I hope this message finds you well.
 I am writing to you today regarding the upcoming primary election for the state legislative seat, a pivotal moment for our district as we seek a successor to Chris Markey.
 The choice of our next representative carries significant weight for the future direction of our community.
 After dedicating considerable time to evaluating the candidates, I have come to a firm decision to lend my support to Ed Pacheco.
@@ -16,9 +15,8 @@ As a fellow Dartmouth voter, I am particularly enthusiastic about the potential 
 I am personally committed to actively supporting his campaign, including attending public events and offering my time for various volunteer efforts.
 I would sincerely appreciate it if you would consider exploring his candidacy further.
 Should you find alignment with his principles and proposals, any form of support would be invaluable – from hosting a brief informational gathering to assisting with community outreach or simply engaging in discussions about his platform with your network.
-To gain a deeper understanding of his positions, I strongly encourage you to visit his official campaign website at pachecoforthepeople.com.
+To gain a deeper understanding of his positions, I strongly encourage you to visit his official campaign website at pachecoforthepeople.com .
 For a thoroughly informed decision, I also recommend reviewing the platforms of all candidates, including Mr.
 Medeiros.
 Thank you for your time and thoughtful consideration of this vital election.
-Sincerely,
-Jeanne Robinson
+Sincerely, Jeanne Robinson Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

@@ -1,9 +1,13 @@
 {
  "description": "A documented account of where Iowa ranks, built from federal statistical agencies, state agency reports and the Legislature's own published record. Every number carries its source.",
  "final_url": "https://mohlerforiowa.com/where-iowa-ranks.html",
+ "fingerprint": "46f4f2cefbc198c3e8614b3a3922bbed00bcc6e2",
+ "format": 3,
  "paid_for_by": "Paid for by Mohler for Iowa",
  "title": "Where Iowa Ranks | Mohler for Iowa",
  "years_mentioned": [
+  "2000",
+  "2005",
   "2010",
   "2011",
   "2015",

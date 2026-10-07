@@ -1,18 +1,74 @@
 [
-"https://facebook.com/votewarrenpetersen",
-"https://instagram.com/warrenpetersenag",
-"https://petersenforag.com/",
-"https://petersenforag.com/accomplishments",
-"https://petersenforag.com/bio",
-"https://petersenforag.com/cart",
-"https://petersenforag.com/endorsements",
-"https://petersenforag.com/get-involved",
-"https://petersenforag.com/get-involved-2",
-"https://petersenforag.com/home",
-"https://petersenforag.com/issues",
-"https://petersenforag.com/media",
-"https://petersenforag.com/privacy-policy",
-"https://secure.winred.com/friends-of-warren-petersen/donate",
-"https://secure.winred.com/friends-of-warren-petersen/storefront",
-"https://x.com/votewarren"
+{
+"text": "0",
+"href": "https://www.petersenforag.com/cart"
+},
+{
+"text": "Bio",
+"href": "https://www.petersenforag.com/bio"
+},
+{
+"text": "Connect@petersenforag.com",
+"href": "mailto:Connect@petersenforag.com?subject=Website+Inquiry"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate"
+},
+{
+"text": "EVENT SPEAKING REQUEST FORM",
+"href": "https://www.petersenforag.com/get-involved-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenforag.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.petersenforag.com/get-involved"
+},
+{
+"text": "Get your Merch",
+"href": "https://secure.winred.com/friends-of-warren-petersen/storefront/"
+},
+{
+"text": "Issues",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.petersenforag.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.petersenforag.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://www.petersenforag.com/accomplishments"
+},
+{
+"text": "Request a Yard Sign!",
+"href": "mailto:chad@petersenforag.com?subject=I+want+a+Warren+Petersen+Yard+Sign%21&body=Please+send+or+deliver+a+yard+sign.+My+address+is%3AMy+name+is%3AMy+phone+number+is%3A"
+},
+{
+"text": "[image: Petersen for Attorney General]",
+"href": "https://www.petersenforag.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.petersenforag.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votewarrenpetersen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/warrenpetersenag/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votewarren"
+}
 ]

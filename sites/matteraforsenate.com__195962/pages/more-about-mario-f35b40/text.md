@@ -1,58 +1,29 @@
-ABOUT
-MARIO
-MATTERA
-Mario Mattera
-A lifelong resident of Smithtown, Mario is a union leader, a community leader and, most importantly, a father who is raising two daughters with his wife Terry.
-As someone who has lived and worked in the 2nd Senate District his entire life,
-Mario understands the needs of local families and the need to reduce the impact
-Albany’s tax burden is placing on our way of life.
-As a longtime union leader in the
-Plumbers Local Union #200, he has cultivated a keen understanding of the needs of
-our working men and women and how a good economic climate is essential to helping
-local businesses create much-needed jobs that provide workers with decent pay and benefits.
-And as a father and husband, he is personally aware that the key to achieving all of this is ensuring that everyone has access to a quality education.
-This understanding and his experience in the region led Mario to representing the residents of the 2nd Senate District and bringing their voice to Albany.
-As a member and leader of the Plumbers Local Union #200 union for over 39 years, Mario has dedicated himself to working to protect the needs of Long Island’s workers and their families.
+top of page Home Early Voting Issues About More About Mario News Contact More Use tab to navigate through the menu items.
+DONATE ABOUT MARIO MATTERA Mario Mattera A lifelong resident of Smithtown, Mario is a union leader, a community leader and, most importantly, a father who is raising two daughters with his wife Terry.
+As someone who has lived and worked in the 2nd Senate District his entire life, Mario understands the needs of local families and the need to reduce the impact Albany’s tax burden is placing on our way of life.
+As a longtime union leader in the Plumbers Local Union #200, he has cultivated a keen understanding of the needs of our working men and women and how a good economic climate is essential to helping local businesses create much-needed jobs that provide workers with decent pay and benefits.
+And as a father and husband, he is personally aware that the key to achieving all of this is ensuring that everyone has access to a quality education. ​ This understanding and his experience in the region led Mario to representing the residents of the 2nd Senate District and bringing their voice to Albany. ​ As a member and leader of the Plumbers Local Union #200 union for over 39 years, Mario has dedicated himself to working to protect the needs of Long Island’s workers and their families.
 That has led him to oversee the protection of over 1,300 working men and women and manage over $250 million in benefit funds to protect their futures.
-It has also provided him with the opportunity to help his fellow union brothers and sisters gain access to good paying jobs while ensuring that they have safe work environments where their rights are protected.
-For his work on behalf of his fellow members, Mario has been presented with the Order Sons of Italy in America’s Golden Lion Award as 2019’s Labor Leader of the Year as well as the PBA Columbia’s 2012 Labor Leader of the Year.
-He has also led the way for the younger generation of union employees by serving 25 years as a board member on the apprenticeship program at Plumbers Local Union #200 to improve their opportunities and to ensure that our region has a qualified workforce.
-In his community, Mario has continued the hard work he has delivered for the union members to the lives of his fellow Long Islanders by dedicating his time to his community.
+It has also provided him with the opportunity to help his fellow union brothers and sisters gain access to good paying jobs while ensuring that they have safe work environments where their rights are protected. ​ For his work on behalf of his fellow members, Mario has been presented with the Order Sons of Italy in America’s Golden Lion Award as 2019’s Labor Leader of the Year as well as the PBA Columbia’s 2012 Labor Leader of the Year.
+He has also led the way for the younger generation of union employees by serving 25 years as a board member on the apprenticeship program at Plumbers Local Union #200 to improve their opportunities and to ensure that our region has a qualified workforce. ​ In his community, Mario has continued the hard work he has delivered for the union members to the lives of his fellow Long Islanders by dedicating his time to his community.
 To ensure that all have a better quality of life, he has dedicated himself to helping local organizations and has served as a board member on the St.
 Catherine’s Health And Wellness Advisory Board, the Suffolk County Water Authority, Community Association of Greater St.
-James and the Smithtown Advisory Board for new construction projects.
-His work with the Smithtown Advisory Board was part of their successful effort to work with Senator Flanagan to secure millions in state funding for sewers in the area.
+James and the Smithtown Advisory Board for new construction projects. ​ His work with the Smithtown Advisory Board was part of their successful effort to work with Senator Flanagan to secure millions in state funding for sewers in the area.
 This funding will deliver sewers in the Smithtown, Kings Park and St.
-James business districts to protect the environment while also enhancing business opportunities for local business owners – leading to more jobs for those in the area.
-Additionally, he has joined efforts with the Work Force Housing Committee, Helmets to Hardhats for our returning veterans and the Long Island Housing Partnership where he assisted in their Superstorm Sandy relief program to help people in trying times.
-While Mario has undertaken these efforts for the betterment of his community, he is proud to have been recognized by the Children’s Museum at Hallock Farm, St.
-Catherine of Siena Medical Center and the Ward Melville Heritage Organization for his efforts.
-A COMMUNITY LEADER
-Mario is committed to improving life for Long Islanders and has been active with a number of organizations including:
-• Suffolk County Water Authority Board
-• Suffolk County Consumer Affairs Plumbing,Licensing and Fire Protection Board
-• St.
-Catherine’s Health And Wellness Advisory Board
-• Community Association of Greater St.
-James and
-• Smithtown Advisory Board (SAB)
-His work on the SAB helped secure millions in funding for infrastructure projects in Smithtown, Kings Park and St.
-James that will protect the environment and create jobs.
-AN INVOLVED CIVIC
-He has devoted himself to working with:
-• Suffolk County District Attorney’s Labor Advisory Board
-• Helmets to Hardhats
-• Heros 4 Our Heroes and
-• The Long Island Housing Partnership
-A UNION LEADER
-As a leader of United Association Plumbers Local Union #200, Mario has dedicated to protect the hardworking men and women of labor by ensuring they have access to a decent wage, good benefits and a proper retirement.
-That is what those who work every day deserve for their families.
-It is clear that one-party control in Albany is failing our residents and our families.
+James business districts to protect the environment while also enhancing business opportunities for local business owners – leading to more jobs for those in the area. ​ Additionally, he has joined efforts with the Work Force Housing Committee, Helmets to Hardhats for our returning veterans and the Long Island Housing Partnership where he assisted in their Superstorm Sandy relief program to help people in trying times. ​ While Mario has undertaken these efforts for the betterment of his community, he is proud to have been recognized by the Children’s Museum at Hallock Farm, St.
+Catherine of Siena Medical Center and the Ward Melville Heritage Organization for his efforts. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ A COMMUNITY LEADER ​ ​ ​ Mario is committed to improving life for Long Islanders and has been active with a number of organizations including: • Suffolk County Water Authority Board • Suffolk County Consumer Affairs Plumbing,Licensing and Fire Protection Board • St.
+Catherine’s Health And Wellness Advisory Board • Community Association of Greater St.
+James and • Smithtown Advisory Board (SAB) His work on the SAB helped secure millions in funding for infrastructure projects in Smithtown, Kings Park and St.
+James that will protect the environment and create jobs. ​ AN INVOLVED CIVIC He has devoted himself to working with: • Suffolk County District Attorney’s Labor Advisory Board • Helmets to Hardhats • Heros 4 Our Heroes and • The Long Island Housing Partnership ​ A UNION LEADER As a leader of United Association Plumbers Local Union #200, Mario has dedicated to protect the hardworking men and women of labor by ensuring they have access to a decent wage, good benefits and a proper retirement.
+That is what those who work every day deserve for their families. ​ It is clear that one-party control in Albany is failing our residents and our families.
 They need and deserve common sense from New York State leaders - a direction that respects the rights of our law-abiding residents and protects the future of our families.
 For too long, Democrats on both the state and national level have put ideology over our families and we can and must do better.
 We need to restore safety to our communities, give our men and women in blue the tools they need to protect our communities, fight to ensure our families can have a better life and work to make certain that our children are able to stay and live here.
 Most importantly, we must return the government to the residents and make sure they know that their elected officials work for them and have their best interests at heart..
 That is why I am seeking to continue representing the residents of Huntington and Smithtown - to bring sanity back to our state.
-I am asking for your support on Election Day, Tuesday, November 5th, and thank you for your interest in my efforts to bring common sense back to New York State.
-New York State Senator Mario R.
-Mattera
+I am asking for your support on Election Day, Tuesday, November 5th, and thank you for your interest in my efforts to bring common sense back to New York State. ​ New York State Senator Mario R.
+Mattera Contact MARIO MATTERA Senator for New York State 2nd Senate District Contact us today and find out what you can do to help us bring Common Sense to New York State Government! ​ Friends of Mario Mattera P.O.
+Box 2 St.
+James, New York 11780 ​ matterafornewyork@gmail.com © 2026 Friends of Mario Mattera.
+All Rights Reserved.
+PAID FOR BY THE NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE Enter Your Name Enter Your Email Show your support: Yes, I'd like to volunteer Yes, I'd like to request a lawn sign Address Message Submit Thanks for submitting! bottom of page

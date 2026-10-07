@@ -1,7 +1,11 @@
 {
  "description": "Review the 2026 Indiana House District 24 map",
  "final_url": "https://www.rachealforindiana.com/district-maps",
+ "fingerprint": "45bff95662aaf0a4058dd0d3ecefcb9b8d4c73da",
+ "format": 3,
  "paid_for_by": "Paid for by Racheal for Indiana",
- "title": "Indiana House District 24 MapExample Page Title",
- "years_mentioned": []
+ "title": "Indiana House District 24 Map",
+ "years_mentioned": [
+  "2026"
+ ]
 }

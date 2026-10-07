@@ -1,17 +1,12 @@
-Regarding the news that the most offending parts of the Eastern Corridor Project have been eliminated, State Representative Tom Brinkman said
-“I am so happy for the communities that had been threatened by this project that they finally got a reprieve.
+Skip to primary content Skip to secondary content Go Brinkman Go Brinkman!
+Search Main menu Home About Tom Accomplishments Contact Us Contribute CountMeIn Economic and Personal Liberty Endorsements Home Issues Join Us Neighborhoods Neighborhoods Old Pro Life Legislation Request Vote by Mail Application What’s New Monthly Archives: June 2015 Brinkman’s Statement on Fate of the Eastern Corridor Posted on June 5, 2015 by admin Regarding the news that the most offending parts of the Eastern Corridor Project have been eliminated, State Representative Tom Brinkman said “I am so happy for the communities that had been threatened by this project that they finally got a reprieve.
 I am honored that they trusted me to serve knowing that I would force this issue.
-Special thanks to Speaker Cliff Roseburger and Senator Seitz who both worked hard helping bring this to a conclusion.”
-Cincinnati Enquirer
-6/4/15
-Part of Eastern Corridor roadway plan killed
-UNION TOWNSHIP The state has killed a controversial plan to relocate a major commuter route through parts of eastern Hamilton County – ending an arduous, years-long battle between residents and public officials.
+Special thanks to Speaker Cliff Roseburger and Senator Seitz who both worked hard helping bring this to a conclusion.” Cincinnati Enquirer 6/4/15 Part of Eastern Corridor roadway plan killed UNION TOWNSHIP The state has killed a controversial plan to relocate a major commuter route through parts of eastern Hamilton County – ending an arduous, years-long battle between residents and public officials.
 The plan to re-route a part of Ohio 32 around Newtown and through historic land in Mariemont has been scrapped, state officials told The Enquirer on Thursday.
 Work will continue on other parts of the $1 billion Eastern Corridor project across eastern Hamilton and western Clermont counties, but eliminating a big chunk of the Ohio 32 relocation plan could untangle a bureaucratic mess.
 “I’m elated,” Mariemont Mayor Dan Policastro said.
 “We’ve been saying for years (for the state) not to do this, and they finally did it.
-It’s going to work out for everybody.”
-The Eastern Corridor is designed to improve access and alleviate congestion with roadway improvements, a new highway interchange, bike lanes and passenger rail.
+It’s going to work out for everybody.” The Eastern Corridor is designed to improve access and alleviate congestion with roadway improvements, a new highway interchange, bike lanes and passenger rail.
 It has been on the drawing boards since the 1970s, and many phases have failed to move forward because of a lack of consensus and money.
 Thursday’s news was a long-time coming for residents of Mariemont and Newtown, but the roadway relocation plan isn’t officially dead just yet.
 The state, which has spent at least $14 million planning the Ohio 32 relocation, still is beholden to a federal process that requires more time and paperwork.
@@ -24,21 +19,24 @@ Many had long questioned the merits of spending up to $277 million on relocating
 The mediator’s findings gave extra ammunition for opponents of the roadway relocation.
 Hamilton County Commissioners Greg Hartmann and Chris Monzel have opposed the project, and state Rep.
 Tom Brinkman tried to kill that part of the Eastern Corridor in the Legislature earlier this year.
-Brinkman’s efforts helped establish a do-or-die deadline of Dec. 31 on the plan to relocate Ohio 32 through Mariemont and Newtown.
+Brinkman’s efforts helped establish a do-or-die deadline of Dec.
+31 on the plan to relocate Ohio 32 through Mariemont and Newtown.
 “I’m pleased for the people who were going to be in harm’s way, and I’m happy that I was able to force a conclusion,” said Brinkman, a Mount Lookout Republican.
 Mariemont loathed the plan because the roadway would have cut through the South 80 park, which residents use to plant gardens and for recreational activities.
 Newtown feared a new bypass would cripple the village’s small business district and deplete its tax base.
 The mediation process helped guide ODOT’s call.
 “They really cared about what we had to say,” Policastro said.
-The state will consider minor congestion-relief improvements to Ohio 32 through Newtown and U.S. 50 in Mariemont.
+The state will consider minor congestion-relief improvements to Ohio 32 through Newtown and U.S.
+50 in Mariemont.
 Those could include different road striping patterns and new traffic lights with prioritization technology.
 The state also will continue to look at expanding Ohio 32 east of Newtown in Anderson Township near the border of Hamilton and Clermont counties.
 The controversy over the Ohio 32 relocation created a negative perception of the entire Easter Corridor, Hamilton County Commissioner Todd Portune said.
 He now hopes the criticism will stop.
 “The Eastern Corridor program is more than the relocation of State Route 32, but in the minds of the public, that’s what it became,” Portune said.
-“This provides some real clarity as to where this is going.”
-Others aren’t so sure.
+“This provides some real clarity as to where this is going.” Others aren’t so sure.
 Many also have questioned the merits of a plan for a passenger rail from Downtown to Clermont County.
 Ridership projections have been low, and the rail line has a $230 million to $323 million price tag.
 The state has spent $4.4 million on the railway.
 “It would be a waste of taxpayer dollars,” Monzel said.
+Click here to read the article on Cincinnati.com.
+Posted in breaking news , Eastern Corridor , freedom Archives November 2022 October 2022 September 2022 August 2022 July 2022 April 2022 August 2020 July 2020 May 2020 November 2019 May 2019 November 2018 October 2018 July 2018 June 2018 May 2018 February 2018 January 2018 March 2017 January 2017 November 2016 September 2016 August 2016 April 2016 March 2016 January 2016 December 2015 October 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 August 2013 Meta Log in Proudly powered by WordPress nhentai footjob 無料 エッチ 動画 porno por categorias porno

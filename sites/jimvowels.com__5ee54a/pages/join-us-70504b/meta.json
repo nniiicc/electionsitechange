@@ -1,7 +1,11 @@
 {
  "description": "Write a question or message to Jim Vowels, candidate in 2026 for Iowa State Senate. Vote for Jim on November 3, 2026.",
  "final_url": "https://www.jimvowels.com/join-us",
+ "fingerprint": "4602074a5441953bc257eddb12dbdaf3b6cb5978",
+ "format": 3,
  "paid_for_by": "Paid for by Vote Vowels 2026 bottom of page",
  "title": "Join | Jim Vowels for Iowa Senate | Butler, Bremer, Floyd, and Chickasaw Counties",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

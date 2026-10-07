@@ -1,20 +1,78 @@
 [
-"http://wix.com/",
-"https://arizonatalks.org/voices/2026-05-putting-represent-back-in-representative",
-"https://azcapitoltimes.com/news/2026/05/22/more-needs-to-be-done-to-protect-medicare-advantage-for-the-future",
-"https://azcentral.com/story/news/politics/arizona/2026/03/05/arizona-is-trying-to-make-cancelling-subscriptions-easier/88988529007?gnt-cfr=1&gca-cat=p&gca-ds=timeout",
-"https://azjaneen.com/",
-"https://azjaneen.com/about-3",
-"https://azjaneen.com/about-3-1",
-"https://azjaneen.com/get-involved",
-"https://azjaneen.com/news",
-"https://bsky.app/profile/azjaneen.bsky.social",
-"https://digitaledition.thetempetribune.com/html5/reader/production/default.aspx?edid=163e8b68-ccad-43c1-be2a-6fa2038b2a8c&pnum=14",
-"https://digitaledition.thetempetribune.com/html5/reader/production/default.aspx?edid=4699be4a-394b-4e70-bb96-2adbd72f740c&pnum=5",
-"https://facebook.com/AZJaneen",
-"https://instagram.com/azjaneen",
-"https://linkedin.com/in/janeen-connolly-formerly-rohovit-38963a213",
-"https://secure.actblue.com/donate/janeen-for-arizona-1",
-"https://servicearizona.com/VoterRegistration/selectLanguage",
-"https://x.com/janeenrohovit"
+{
+"text": "About",
+"href": "https://www.azjaneen.com/about-3"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janeen-for-arizona-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.azjaneen.com/about-3-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.azjaneen.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.azjaneen.com"
+},
+{
+"text": "News",
+"href": "https://www.azjaneen.com/news"
+},
+{
+"text": "Voter Registration",
+"href": "https://servicearizona.com/VoterRegistration/selectLanguage"
+},
+{
+"text": "Wix",
+"href": "http://wix.com/"
+},
+{
+"text": "[image: 13.png]",
+"href": "https://www.azcentral.com/story/news/politics/arizona/2026/03/05/arizona-is-trying-to-make-cancelling-subscriptions-easier/88988529007/?gnt-cfr=1&gca-cat=p&gca-ds=timeout"
+},
+{
+"text": "[image: 14.png]",
+"href": "https://arizonatalks.org/voices/2026-05-putting-represent-back-in-representative"
+},
+{
+"text": "[image: 15.png]",
+"href": "https://azcapitoltimes.com/news/2026/05/22/more-needs-to-be-done-to-protect-medicare-advantage-for-the-future/"
+},
+{
+"text": "[image: 16.png]",
+"href": "https://digitaledition.thetempetribune.com/html5/reader/production/default.aspx?pubname=&edid=4699be4a-394b-4e70-bb96-2adbd72f740c&pnum=5"
+},
+{
+"text": "[image: 17.png]",
+"href": "https://digitaledition.thetempetribune.com/html5/reader/production/default.aspx?pubname=&edid=163e8b68-ccad-43c1-be2a-6fa2038b2a8c&pnum=14"
+},
+{
+"text": "[image][image][image]",
+"href": "https://bsky.app/profile/azjaneen.bsky.social"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.azjaneen.com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.facebook.com/AZJaneen/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.instagram.com/azjaneen/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.linkedin.com/in/janeen-connolly-formerly-rohovit-38963a213/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://x.com/janeenrohovit"
+}
 ]

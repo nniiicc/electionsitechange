@@ -1,68 +1,8 @@
-Individual Endorsements
-State Senator
-Kevin Van De Wege
-“Adam is truly dedicated to serving our community.
+top of page ​ adam@electadambernbaum.com Home About Adam Platform Endorsements Donate Individual Endorsements State Senator Kevin Van De Wege “Adam is truly dedicated to serving our community.
 He understands the problems we face.
-He’s ready to begin tackling those problems as a State Representative on day one.”
-State Representative
-Mike Chapman
-"Adam has been an effective and tireless advocate for the 24th LD serving as Senator Van De Wege's Legislative Assistant.
-He knows and understands the issues and challenges facing all of us these days and he will bring the same dedication and work ethic to his campaign for public office."
-Jefferson County Commissioner
-Kate Dean
-Clallam County Commissioner
-Mike French
-Clallam County Commissioner
-Mark Ozias
-Port Angeles Mayor
-Kate Dexter
-Port Angeles Councilmember
-Navarra Carr
-Port Townsend Councilmember
-Libby Urner Wennstrom
-Port Townsend Mayor
-David Faber
-Port Townsend Councilmember
-Aislinn Palmer
-Montesano Councilmember
-Clint Bryson
-Elma Mayor
-Josh Collete
-Hoquiam Councilmember
-Steven Puvogel
-Elma Councilmember
-Jacob Borden
-Elma Councilmember
-Bethany Whipple-Boling
-Elma Councilmember
-Mike Cooper
-Port Angeles Councilmember
-Brendan Meyer
-Port Townsend Councilmember
-Amy Howard
-Port Angeles Councilmember
-Lindsey Schromen-Wawrin
-Aberdeen Councilmember
-Liz Ellis
-Fmr.
-Jefferson County Commissioner
-Kathleen Kler
-Grays Harbor Hospital Commissioner
-Chris Thomas
-Fmr.
-State Representative
-Lynn Kessler
-Ocean Shores Councilmember
-Alison Cline
-Aberdeen Councilmember
-Sidney Newbill
-State Senator
-Jesse Salomon
-Port Angeles School Board Dir.
-Sarah Methner
-Port Angeles School Board Dir.
-Sandy Long
-Jefferson County Commissioner
-Greg Brotherton
-Jefferson County Commissioner
-Heidi Eisenhour
+He’s ready to begin tackling those problems as a State Representative on day one.” State Representative Mike Chapman "Adam has been an effective and tireless advocate for the 24th LD serving as Senator Van De Wege's Legislative Assistant.
+He knows and understands the issues and challenges facing all of us these days and he will bring the same dedication and work ethic to his campaign for public office." Jefferson County Commissioner Kate Dean Clallam County Commissioner Mike French Clallam County Commissioner Mark Ozias Port Angeles Mayor Kate Dexter Port Angeles Councilmember Navarra Carr Port Townsend Councilmember Libby Urner Wennstrom Port Townsend Mayor David Faber Port Townsend Councilmember Aislinn Palmer Montesano Councilmember Clint Bryson Elma Mayor Josh Collete Hoquiam Councilmember Steven Puvogel Elma Councilmember Jacob Borden Elma Councilmember Bethany Whipple-Boling Elma Councilmember Mike Cooper ​Port Angeles Councilmember Brendan Meyer Port Townsend Councilmember Amy Howard Port Angeles Councilmember Lindsey Schromen-Wawrin Aberdeen Councilmember Liz Ellis Fmr.
+Jefferson County Commissioner Kathleen Kler Grays Harbor Hospital Commissioner Chris Thomas Fmr.
+State Representative Lynn Kessler Ocean Shores Councilmember Alison Cline Aberdeen Councilmember Sidney Newbill State Senator Jesse Salomon Port Angeles School Board Dir.
+Sarah Methner Port Angeles School Board Dir.
+Sandy Long Jefferson County Commissioner Greg Brotherton Jefferson County Commissioner Heidi Eisenhour Congressman Derek Kilmer State Senator Emily Randall Institutional Endorsements First name Last name Email Phone Comment or Message Submit Endorse the Campaign Paid for by Elect Adam Bernbaum (D) 834 E 4th St | Port Angeles, WA | 98362 Adam@ElectAdamBernbaum.com Home About Adam Platform Endorsements bottom of page

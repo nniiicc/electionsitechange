@@ -1,7 +1,9 @@
 {
  "description": "Welcome to WordPress. This is your first post. Edit or [...]",
  "final_url": "https://donahuestaterep.com/2022/03/hello-world/",
- "paid_for_by": null,
+ "fingerprint": "1e8584beb1ffad9371b81023cd725d3aa8d90ad3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Hello world! - Kyle Donahue",
  "years_mentioned": [
   "2022"

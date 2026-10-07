@@ -1,20 +1,82 @@
 [
-"https://christian4tx.com/",
-"https://christian4tx.com/about",
-"https://christian4tx.com/cart",
-"https://christian4tx.com/home-1",
-"https://christian4tx.com/newsletters",
-"https://christian4tx.com/resources",
-"https://christian4tx.com/updating",
-"https://christian4tx.com/vote",
-"https://facebook.com/christian4texas",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://instagram.com/christian4texas",
-"https://jeffcotxvotes.gov/",
-"https://jeffcotxvotes.gov/wp-content/uploads/2026/08/EDPollingLocationsNOV202631-1.pdf",
-"https://jeffcotxvotes.gov/wp-content/uploads/2026/08/EVPollingLocationsNewFormat2NOV2026-1.pdf",
-"https://secure.actblue.com/donate/txhd22",
-"https://twitter.com/Christian4Texas",
-"https://votetexas.gov/register-to-vote/update-voter-registration.html",
-"https://votetexas.gov/voting/need-id.html"
+{
+"text": ".",
+"href": "https://christian4tx.com/updating"
+},
+{
+"text": "0",
+"href": "https://christian4tx.com/cart"
+},
+{
+"text": "About",
+"href": "https://christian4tx.com/about"
+},
+{
+"text": "Contact",
+"href": "https://christian4tx.com/home-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/txhd22"
+},
+{
+"text": "Home",
+"href": "https://christian4tx.com/"
+},
+{
+"text": "JCTX",
+"href": "https://www.jeffcotxvotes.gov"
+},
+{
+"text": "JCTX",
+"href": "https://www.jeffcotxvotes.gov/wp-content/uploads/2026/08/EDPollingLocationsNOV202631-1.pdf"
+},
+{
+"text": "JCTX",
+"href": "https://www.jeffcotxvotes.gov/wp-content/uploads/2026/08/EVPollingLocationsNewFormat2NOV2026-1.pdf"
+},
+{
+"text": "Newsletters",
+"href": "https://christian4tx.com/newsletters"
+},
+{
+"text": "Resources",
+"href": "https://christian4tx.com/resources"
+},
+{
+"text": "VTG",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "VTG",
+"href": "https://www.votetexas.gov/register-to-vote/update-voter-registration.html"
+},
+{
+"text": "VTG",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+},
+{
+"text": "Vote",
+"href": "https://christian4tx.com/vote"
+},
+{
+"text": "[image: Christian4Texas.com]",
+"href": "https://christian4tx.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Christian4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/christian4texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christian4texas/"
+},
+{
+"text": "christianmanueld22@gmail.com",
+"href": "mailto:christianmanueld22@gmail.com"
+}
 ]

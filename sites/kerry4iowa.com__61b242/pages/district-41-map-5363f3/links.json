@@ -1,10 +1,58 @@
 [
-"https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=d32118cf09ed47beacd12742c1cf3fb3",
-"https://kerry4iowa.com/",
-"https://kerry4iowa.com/about",
-"https://kerry4iowa.com/contact-1",
-"https://kerry4iowa.com/district-41-map",
-"https://kerry4iowa.com/gallery",
-"https://kerry4iowa.com/issues",
-"https://secure.winred.com/kerry-gruenhagen-for-iowa-senate/donate"
+{
+"text": "About",
+"href": "https://www.kerry4iowa.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.kerry4iowa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kerry4iowa.com"
+},
+{
+"text": "Contact",
+"href": "https://www.kerry4iowa.com/contact-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/kerry-gruenhagen-for-iowa-senate/donate"
+},
+{
+"text": "District 41 Map",
+"href": "https://www.kerry4iowa.com/district-41-map"
+},
+{
+"text": "Find Your District Here",
+"href": "https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=d32118cf09ed47beacd12742c1cf3fb3"
+},
+{
+"text": "Gallery",
+"href": "https://www.kerry4iowa.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kerry4iowa.com/contact-1"
+},
+{
+"text": "Home",
+"href": "https://www.kerry4iowa.com/district-41-map"
+},
+{
+"text": "IOWA SENATE",
+"href": "https://www.kerry4iowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.kerry4iowa.com/issues"
+},
+{
+"text": "Kerry Gruenhagen",
+"href": "https://www.kerry4iowa.com"
+},
+{
+"text": "kerry4iowa@gmail.com",
+"href": "mailto:kerry4iowa@gmail.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "State Representative Susan Lynn",
  "final_url": "https://www.susanlynn.us/capitoltour.html",
- "paid_for_by": null,
+ "fingerprint": "adc0c3c8fd6ad56e71ccdf94a8352f634b2e5159",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Susan Lynn State Representative",
  "years_mentioned": []
 }

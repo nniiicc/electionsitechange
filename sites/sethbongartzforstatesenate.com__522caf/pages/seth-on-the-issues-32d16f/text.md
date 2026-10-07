@@ -1,5 +1,5 @@
-Economic Development
-The legislature needs to be almost singularly focused on Vermont’s economic recovery for the next couple of years.
+Facebook Campaign 2026 Join In!
+Community Testimonials Endorsing Organizations Letters to the Editor News Issues Seth’s Bio Rob’s Bio Archives End of Session 2022 Donate Select Page Economic Development The legislature needs to be almost singularly focused on Vermont’s economic recovery for the next couple of years.
 People are unemployed, small businesses are trying to hang on, our health-care system is under huge economic stress and the education fund is in trouble.
 The challenge is enormous but must be faced head-on.
 In fact, it must be faced with confidence.
@@ -35,8 +35,7 @@ We have gorgeous mountains with excellent hiking opportunities and excellent ski
 We offer a strong sense of community to those who are looking for a sane place to raise their children, work remotely, start or bring business, or to retire.
 This potential has always been here and we need to bring it fully to life.
 We don’t pretend to have all the answers, but we believe strongly in our potential.
-Thinking Regionally
-We believe in a regional approach to economic development.
+Thinking Regionally We believe in a regional approach to economic development.
 It is fine for an individual town to market itself, but it is most effective when resources are pooled and it is done under a regional umbrella.
 Individual towns are all too small and don’t have the resources to do it effectively.
 That is why Seth helped found The Shires to bring the people of Bennington County together both socially and economically.
@@ -48,8 +47,7 @@ There is real danger in being dependent on large-scale agriculture in the south 
 As we emerge from the pandemic, we must rebuild in a way that recognizes the importance of local agriculture/local food.
 We must understand the impediments to small-scale farmers making a living and make smart investments to help aggregate marketing and delivery of products.
 By way of example, we need a slaughterhouse closer to us and we need to help food producers with marketing so they can focus on producing food.
-Climate Change/The Green Economy
-The warming of the planet is an existential threat to every living creature on earth, including human beings.
+Climate Change/The Green Economy The warming of the planet is an existential threat to every living creature on earth, including human beings.
 It is a man-made phenomenon and only we can fix it.
 The lack of effort on the federal level is appalling.
 Once again, as it has in the past (billboard law, bottle return law, protecting mountainsides, farmland and forestland) Vermont must lead.
@@ -59,8 +57,7 @@ With good reason, they are very focused on climate change.
 They want to live in communities with cutting-edge technology and green jobs.
 They also want clean air, clean water, hiking, biking and skiing.
 We have a lot of that; we need to fill out the green economy with solar jobs, weatherization jobs and other challenging job opportunities.
-Vermont’s Environment
-Vermont’s environment is our single greatest asset.
+Vermont’s Environment Vermont’s environment is our single greatest asset.
 Our mountains, valleys and streams, clean air and clean water are a good part of the reason we live here and why others want to join us.
 It is also our single biggest economic driver.
 Our environment and our economy are inseparable and interdependent.
@@ -70,8 +67,7 @@ By focusing development in downtowns we build the vibrant communities in which y
 By increasing density for housing we make renting or owning a home affordable for people currently struggling with those costs and we use land far more efficiently than the outmoded system of large lot zoning.
 When Seth was previously in the legislature, he was an early proponent of the Housing and Conservation Fund, which has since conserved thousands of acres of farm and forest land and created hundreds and hundreds of permanently affordable homes.
 It is a national model and one we intend to support if elected this November.
-Education
-One of the greatest strengths of the four communities in this legislative district is the educational opportunities we make available to families.
+Education One of the greatest strengths of the four communities in this legislative district is the educational opportunities we make available to families.
 This district’s education system is unique within Vermont.
 The people of Arlington have opted for a stand-alone district, seeking to go their own way in maintaining their pre-k through 12 system.
 They see small size as a virtue.
@@ -95,17 +91,9 @@ The same is still true in the Vermont legislature.
 Once you are there, working in committee or with the full body, people work together without regard to party.
 That will be more necessary than ever as we work our way forward in the wake of this pandemic.
 We would welcome the opportunity to be a part of the process.
-Contact Us
-Email Addresses:
-sethbongartzforstatesenate@gmail.com
-robplunkettforstatesenate@gmail.com
-Mailing Address:
-147 Butternut Lane
-Manchester Center, VT 05255
-Phone Number:
-(802) 598-3477
-Find Us on Social Media:
-Facebook:
-Instagram: @bongartzandplunkettvt
-Reports
-End of Session Report 2024
+Follow Our Work Check out Seth’s voting record and sponsored bills from the recent session.
+Check out Rob’s voting record and sponsored bills from the recent session.
+Contact Us Join our mailing list here!
+Email Addresses: sethbongartzforstatesenate@gmail.com robplunkettforstatesenate@gmail.com Mailing Address: 147 Butternut Lane Manchester Center, VT 05255 Phone Number: (802) 598-3477 Find Us on Social Media: Facebook: Seth Bongartz Rob Plunkett Instagram: @bongartzandplunkettvt DONATE Reports End of Session Report 2026 End of Session Report 2024 End of Session Report 2023 End of Session Report 2022 Follow Our Work Check out Seth’s voting record and sponsored bills from the recent session.
+Check out Rob’s voting record and sponsored bills from the recent session.
+Campaign 2026 News Issues Seth’s Bio Rob’s Bio Archives Donate Facebook Designed by Elegant Themes | Powered by WordPress

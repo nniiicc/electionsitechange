@@ -1,46 +1,186 @@
 [
-"https://davidjolly.com/",
-"https://davidjolly.com/about",
-"https://davidjolly.com/about-david",
-"https://davidjolly.com/about-david/about-david-watch-believe-in-better-david-jolly-for-florida-governor",
-"https://davidjolly.com/about-david/about-david-watch-david-jolly-it-s-not-want-it-s-willingness",
-"https://davidjolly.com/about-david/about-david-watch-voices-on-the-trail-rev-dr-r-b-holmes",
-"https://davidjolly.com/about-david/watch-voices-on-the-trail-jadene",
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/contact",
-"https://davidjolly.com/es/about-david/about-david-watch-what-makes-america-great-has-nothing-to-do-with-politics-es",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/from-the-trail",
-"https://davidjolly.com/get-involved",
-"https://davidjolly.com/ht/about-david/about-david-watch-what-makes-america-great-has-nothing-to-do-with-politics-ht",
-"https://davidjolly.com/issues",
-"https://davidjolly.com/issues/republicans-for-jolly",
-"https://davidjolly.com/issues/watch-believe-in-better",
-"https://davidjolly.com/issues/watch-david-jolly-people-and-priorities-first-always",
-"https://davidjolly.com/issues/watch-david-jolly-tomorrow-is-a-big-day-for-our-state",
-"https://davidjolly.com/issues/watch-gwen-graham-competency-character-trust",
-"https://davidjolly.com/issues/watch-gwen-graham-like-my-father",
-"https://davidjolly.com/issues/watch-gwen-graham-proud-to-serve-beside-david-jolly",
-"https://davidjolly.com/issues/watch-it-takes-you-back-the-power-of-hymns",
-"https://davidjolly.com/issues/watch-meet-gwen-graham-florida-s-next-lieutenant-governor",
-"https://davidjolly.com/media",
-"https://davidjolly.com/meet-gwen",
-"https://davidjolly.com/video",
-"https://davidjolly.com/where-david-stands",
-"https://facebook.com/davidjollyflorida",
-"https://instagram.com/davidjollyfl",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://x.com/davidjollyfl",
-"https://youtube.com/watch?v=bTK3uNt8Z_E"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "About David Jolly",
+"href": "https://davidjolly.com/about/"
+},
+{
+"text": "Commentary",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://davidjolly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "ES",
+"href": "https://davidjolly.com/es/about-david/about-david-watch-what-makes-america-great-has-nothing-to-do-with-politics-es/"
+},
+{
+"text": "From the Trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/about-david/about-david-watch-what-makes-america-great-has-nothing-to-do-with-politics-ht/"
+},
+{
+"text": "In depthBelieve In Better",
+"href": "https://davidjolly.com/issues/watch-believe-in-better/"
+},
+{
+"text": "In depthBelieve in Better - David Jolly for Florida Governor",
+"href": "https://davidjolly.com/about-david/about-david-watch-believe-in-better-david-jolly-for-florida-governor/"
+},
+{
+"text": "In depthDavid Jolly - Tomorrow is a big day for our state",
+"href": "https://davidjolly.com/issues/watch-david-jolly-tomorrow-is-a-big-day-for-our-state/"
+},
+{
+"text": "In depthDavid Jolly: It's Not Want. It's Willingness.",
+"href": "https://davidjolly.com/about-david/about-david-watch-david-jolly-it-s-not-want-it-s-willingness/"
+},
+{
+"text": "In depthDavid Jolly: People and Priorities First. Always.",
+"href": "https://davidjolly.com/issues/watch-david-jolly-people-and-priorities-first-always/"
+},
+{
+"text": "In depthGwen Graham - Competency. Character. Trust.",
+"href": "https://davidjolly.com/issues/watch-gwen-graham-competency-character-trust/"
+},
+{
+"text": "In depthGwen Graham - Like My Father",
+"href": "https://davidjolly.com/issues/watch-gwen-graham-like-my-father/"
+},
+{
+"text": "In depthGwen Graham - Proud to serve beside David Jolly",
+"href": "https://davidjolly.com/issues/watch-gwen-graham-proud-to-serve-beside-david-jolly/"
+},
+{
+"text": "In depthIt Takes You Back - The Power of Hymns",
+"href": "https://davidjolly.com/issues/watch-it-takes-you-back-the-power-of-hymns/"
+},
+{
+"text": "In depthMeet Gwen Graham - Florida's next Lieutenant Governor",
+"href": "https://davidjolly.com/issues/watch-meet-gwen-graham-florida-s-next-lieutenant-governor/"
+},
+{
+"text": "In depthVoices on the Trail - Rev. Dr. R.B. Holmes",
+"href": "https://davidjolly.com/about-david/about-david-watch-voices-on-the-trail-rev-dr-r-b-holmes/"
+},
+{
+"text": "In depthVoices on the trail - Jadene",
+"href": "https://davidjolly.com/about-david/watch-voices-on-the-trail-jadene/"
+},
+{
+"text": "Issues",
+"href": "https://davidjolly.com/issues/"
+},
+{
+"text": "Join the movement",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://davidjolly.com/media/"
+},
+{
+"text": "Meet David",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "OverviewMeet David Jolly — Florida Governor 2026",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Republicans for Jolly",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "Store",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "The 2026 Race",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "Video",
+"href": "https://davidjolly.com/video/"
+},
+{
+"text": "Where David Stands",
+"href": "https://davidjolly.com/where-david-stands/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+},
+{
+"text": "https://www.youtube.com/watch?v=bTK3uNt8Z_E",
+"href": "https://www.youtube.com/watch?v=bTK3uNt8Z_E"
+}
 ]

@@ -1,6 +1,4 @@
-A recap of the 2026 Maryland General Assembly Legislative Session
-Dear Friend,
-Thank you for contacting me to express your views during the 2026 Legislative Session of the Maryland General Assembly.
+Home About About Me Endorsements Leadership Session Recap Scholarships State Resource Archive Voter Information Media Delegate News Virtual Town Halls Articles Interviews Campaign Videos Campaign Update Get Involved Subscribe Attend Volunteer Contribute Contact Contribute Home About About Me Endorsements Leadership Session Recap Scholarships State Resource Archive Voter Information Media Delegate News Virtual Town Halls Articles Interviews Campaign Videos Campaign Update Get Involved Subscribe Attend Volunteer Contribute Contact Contribute A recap of the 2026 Maryland General Assembly Legislative Session Session Recap 2026 Session Recap 2025 Session Recap 2024 Session Recap 2023 Session Recap HGO Highlights 2022 2022 Session Recap 2021 Session Recap 2020 Session Recap 2019 Session Recap Dear Friend, Thank you for contacting me to express your views during the 2026 Legislative Session of the Maryland General Assembly.
 Hearing from my constituents is an invaluable part of serving as your Delegate, and I truly appreciate engaging in the legislative process with you.
 It is an honor to serve as your District 33C Delegate in Annapolis.
 As we close the books on this Legislative Session, I am writing to provide a recap of the work that the Maryland General Assembly has accomplished.
@@ -20,10 +18,9 @@ I also continue to serve on several commissions to guide policy decisions at our
 Childhood Childcare Task Force.
 Thank you for the honor of representing you.
 As we conclude the 2026 Legislative Session, I am pleased to share this update on the bills I passed and highlight some of the essential work we’ve accomplished together.
-For a complete list of all the bills introduced this session, and how I voted, please visit the Maryland General Assembly Home Page: http://mgaleg.maryland.gov.
+For a complete list of all the bills introduced this session, and how I voted, please visit the Maryland General Assembly Home Page: http://mgaleg.maryland.gov .
 Please reach out to my office if you have any questions about navigating the website.
-Constituent Connections
-As your Delegate, I remain committed to putting my constituents first.
+Constituent Connections As your Delegate, I remain committed to putting my constituents first.
 If you are encountering issues with a state agency, have questions about legislation in the General Assembly, or require assistance with government-related matters, please know that my office stands ready to assist you.
 Seeing the continued growth and success of our community is one of the most fulfilling aspects of my work.
 Throughout the year, I have the opportunity to attend ribbon cuttings and local celebrations recognizing new business openings, anniversaries, and other important milestones across Severna Park, Arnold, Cape St.
@@ -35,74 +32,21 @@ This year, alongside my colleagues Senator Dawn Gile, Delegate Andrew Pruski, an
 District Night offers residents a chance to come to Annapolis, connect with their representatives, and gain a firsthand look at the legislative process.
 We were pleased to welcome more than 200 attendees from across the District to the House Office Building, located just next to the State House, during this year’s session.
 We hope to see even more of you there next year – this free event is a great way to get involved and connect with us folks over in Annapolis.
-District 33C Scholarships
-I was proud to award 54 students from across District 33C with Delegate Scholarships this year in recognition of their hard work, achievements, and future potential.
+District 33C Scholarships I was proud to award 54 students from across District 33C with Delegate Scholarships this year in recognition of their hard work, achievements, and future potential.
 As an educator and artist in office, supporting educational opportunities for students in our community remains one of my greatest priorities, and I look forward to seeing all they accomplish in the years ahead.
 Are you a D33C Resident?
 Please reach out during the next legislative session to learn more about our scholarship program.
-Federal Worker Protections and Resources
-I am continuing to monitor developments closely, particularly as they affect our District.
+Federal Worker Protections and Resources I am continuing to monitor developments closely, particularly as they affect our District.
 If you or someone you know may need assistance, information on available state and local resources is provided below.
-Please do not hesitate to contact my office if you need help accessing support.
-Maryland is constitutionally required to pass a balanced budget each year, and this session required the General Assembly to make difficult but important fiscal decisions while continuing to invest in the priorities that matter most to Maryland families.
+Please do not hesitate to contact my office if you need help accessing support. · County Federal Employee Assistance: https://www.aacounty.org/federal-employee-assistance · State Federal Employee Assistance: https://labor.maryland.gov/federalworkers/ Maryland’s Budget Maryland is constitutionally required to pass a balanced budget each year, and this session required the General Assembly to make difficult but important fiscal decisions while continuing to invest in the priorities that matter most to Maryland families.
 When the General Assembly convened in January, Maryland faced ongoing fiscal pressures, uncertainty surrounding future federal funding, and continued concerns about affordability for working families.
 Despite these challenges, the General Assembly passed a balanced $70.8 billion budget for Fiscal Year 2027 that protects core services, supports public education, strengthens healthcare access, and invests in public safety, housing, transportation, and economic development throughout Maryland.
-Maryland Budget Highlights
-· Balanced $70.8 billion Fiscal Year 2027 budget
-· Projected $250 million budget surplus
-· More than $2.2 billion maintained in Maryland’s Rainy Day Fund
-· $124 million in statewide funding for local law enforcement
-· $384 million for low-income rental assistance and housing support
-· $1.7 billion in SNAP funding
-· $100 million in utility relief assistance
-· $100 million in tax relief for Maryland businesses
-· $73 million invested in energy efficiency initiatives
-Anne Arundel County Budget Highlights
-· More than $732 million in direct State aid to Anne Arundel County
-· More than $615 million in State funding for Anne Arundel County Public Schools
-· Approximately $100.5 million in retirement and pension contributions for Anne Arundel County teachers, librarians, and community college faculty
-· $369.5 million in Medicaid funding serving Anne Arundel County residents
-· $133.8 million for Behavioral Health Services and $114 million for Developmental Disabilities programs in Anne Arundel County
-· $15 million in transportation aid, $12 million in police and public safety aid, and $1.4 million in fire and rescue aid for Anne Arundel County
-· $47.1 million in operational support for Anne Arundel Community College, along with $18.8 million for renovations to the Dragun Building
-· Major school construction and renovation funding for Annapolis High School, Broadneck High School, Chesapeake High School, Old Mill High School, and numerous elementary schools throughout Anne Arundel County
-Capital Budget
-The Maryland General Assembly passes the capital budget each year to fund infrastructure improvements and community investments across the State.
+Maryland Budget Highlights · Balanced $70.8 billion Fiscal Year 2027 budget · Projected $250 million budget surplus · More than $2.2 billion maintained in Maryland’s Rainy Day Fund · $124 million in statewide funding for local law enforcement · $384 million for low-income rental assistance and housing support · $1.7 billion in SNAP funding · $100 million in utility relief assistance · $100 million in tax relief for Maryland businesses · $73 million invested in energy efficiency initiatives Anne Arundel County Budget Highlights · More than $732 million in direct State aid to Anne Arundel County · More than $615 million in State funding for Anne Arundel County Public Schools · Approximately $100.5 million in retirement and pension contributions for Anne Arundel County teachers, librarians, and community college faculty · $369.5 million in Medicaid funding serving Anne Arundel County residents · $133.8 million for Behavioral Health Services and $114 million for Developmental Disabilities programs in Anne Arundel County · $15 million in transportation aid, $12 million in police and public safety aid, and $1.4 million in fire and rescue aid for Anne Arundel County · $47.1 million in operational support for Anne Arundel Community College, along with $18.8 million for renovations to the Dragun Building · Major school construction and renovation funding for Annapolis High School, Broadneck High School, Chesapeake High School, Old Mill High School, and numerous elementary schools throughout Anne Arundel County Capital Budget The Maryland General Assembly passes the capital budget each year to fund infrastructure improvements and community investments across the State.
 This year’s budget includes major investments throughout Anne Arundel County and District 33.
-Anne Arundel County and District 33 Capital Budget Grants
-· Annapolis High School Renovations (Chiller): $809,524
-· Broadneck High School Renovations (Roof): $4,329,006
-· Chesapeake High School Renovations (Communications/Electrical/Chiller): $3,666,667
-· Old Mill High School Construction: $2,255,393
-· Public Schools Facilities Priority Fund: $3,000,000
-· Anne Arundel Community College Dragun Building Renovation: $18,808,000
-· Historic Annapolis, Inc.: $3,000,000
-· St.
-John’s College Arts and Academic Hall: $3,600,000
-· Banneker-Douglass-Tubman Museum: $1,000,000
-· Annapolis Emergency Medical Unit Systems: $950,000
-· Annapolis Housing Authority: $1,000,000
-· University of Maryland Baltimore Washington Medical Center: $1,125,000
-· Anne Arundel County Crownsville Hospital Memorial Park: $4,000,000
-· Program Open Space – Park Acquisition and Development: $6,090,765
-· Anne Arundel County Food Bank, Inc.: $400,000
-· Annapolis Maritime Museum: $250,000
-· Public Library Association of Annapolis & Anne Arundel County: $425,000
-· AACo Economic Development Corp Business Facade Improvement Program: $150,000
-· YWCA Pamela G.
-Beidle Community Center: $170,000
-· Odenton Heritage Society Old Masonic Hall Project: $120,000
-District 33C Legislative Bond Initiatives
-In addition to county-wide investments, I successfully advocated for several legislative bond initiatives benefiting organizations and institutions serving District 33C residents:
-· Elks Camp Barrett: $100,000
-· Gloria Dei!
-Lutheran Church: $90,000
-· Goshen Farm Preservation Society, Inc.: $80,000
-· Maryland Therapeutic Riding, Inc.: $465,000
-· Severna Park Library Renovation: $200,000
-TOTAL DISTRICT 33C LEGISLATIVE BOND INITIATIVES: $935,000
-My Primary Legislation
-In my first session as Chair of the Health Committee, I made it my mission to protect Maryland’s health investments and Marylanders' access to care.
+Anne Arundel County and District 33 Capital Budget Grants · Annapolis High School Renovations (Chiller): $809,524 · Broadneck High School Renovations (Roof): $4,329,006 · Chesapeake High School Renovations (Communications/Electrical/Chiller): $3,666,667 · Old Mill High School Construction: $2,255,393 · Public Schools Facilities Priority Fund: $3,000,000 · Anne Arundel Community College Dragun Building Renovation: $18,808,000 · Historic Annapolis, Inc.: $3,000,000 · St.
+John’s College Arts and Academic Hall: $3,600,000 · Banneker-Douglass-Tubman Museum: $1,000,000 · Annapolis Emergency Medical Unit Systems: $950,000 · Annapolis Housing Authority: $1,000,000 · University of Maryland Baltimore Washington Medical Center: $1,125,000 · Anne Arundel County Crownsville Hospital Memorial Park: $4,000,000 · Program Open Space – Park Acquisition and Development: $6,090,765 · Anne Arundel County Food Bank, Inc.: $400,000 · Annapolis Maritime Museum: $250,000 · Public Library Association of Annapolis & Anne Arundel County: $425,000 · AACo Economic Development Corp Business Facade Improvement Program: $150,000 · YWCA Pamela G.
+Beidle Community Center: $170,000 · Odenton Heritage Society Old Masonic Hall Project: $120,000 District 33C Legislative Bond Initiatives In addition to county-wide investments, I successfully advocated for several legislative bond initiatives benefiting organizations and institutions serving District 33C residents: · Elks Camp Barrett: $100,000 · Gloria Dei!
+Lutheran Church: $90,000 · Goshen Farm Preservation Society, Inc.: $80,000 · Maryland Therapeutic Riding, Inc.: $465,000 · Severna Park Library Renovation: $200,000 TOTAL DISTRICT 33C LEGISLATIVE BOND INITIATIVES: $935,000 My Primary Legislation In my first session as Chair of the Health Committee, I made it my mission to protect Maryland’s health investments and Marylanders' access to care.
 Facing a challenging budget year, I focused on high-efficiency, low-cost reforms that move our state forward without placing a burden on taxpayers.
 This year’s successful legislative package included key protections for public health and new support systems for our schools, demonstrating that we can protect our community's values within strict fiscal bounds.
 I am honored to continue this work to ensure our district and our state remain resilient and ready for the future.
@@ -110,22 +54,20 @@ HB 42 / SB 419 - State Board of Massage Therapy Examiners Revisions: Streamlines
 This bill updates regulatory standards to ensure the Board can effectively oversee practitioners, maintaining high safety and professional standards for Maryland consumers.
 HB 422 / SB 394 - Expedited Partner Therapy for Bacterial Vaginosis: Enhances public health by allowing licensed certified midwives to utilize expedited partner therapy for bacterial vaginosis.
 This proactive approach reduces reinfection rates and expands the tools available to healthcare providers to treat infections efficiently within our community.
-HB 746 / SB 428 - Collaborative Care Model Cost Sharing Prohibition: Increases access to integrated mental health services by prohibiting insurance cost-sharing for the Collaborative Care Model.
+HB 746 / SB 428 - Collaborative Care Model Cost Sharing Prohibition : Increases access to integrated mental health services by prohibiting insurance cost-sharing for the Collaborative Care Model.
 This ensures that Marylanders can receive coordinated primary and behavioral healthcare without the barrier of additional out-of-pocket expenses.
 HB 1181 - Family Law – Voluntary Placement Agreements: Strengthens protections for children in out-of-home placements by clarifying and improving the process for voluntary placement agreements.
 This bill provides much-needed stability and clear legal frameworks for families and children navigating the foster care and placement systems.
 HB 1192 / SB 645 - State Board of Sign Language Interpreters – Membership and Licensing: Updates the membership and licensing requirements for the State Board of Sign Language Interpreters.
 By modernizing these standards, the bill ensures that Maryland continues to have a robust and qualified pool of interpreters to support the deaf and hard-of-hearing community.
-SB 447 / (HB 1326) - Child Abuse and Neglect Disclosure: Improves the transparency and safety of child welfare by refining the protocols for the disclosure of reports and records related to child abuse and neglect.
+SB 447 / ( HB 1326 ) - Child Abuse and Neglect Disclosure: Improves the transparency and safety of child welfare by refining the protocols for the disclosure of reports and records related to child abuse and neglect.
 This legislation ensures that critical information is shared with appropriate authorities to better protect at-risk children.
 HB 1109 / SB 790 - Public Health Reform Act - Moves Maryland’s goal to modernize the public health system and prepare for the future of public health.
 It seeks to implement many of the recommendations described in the Report of the Maryland Public Health Commission, which was established by legislation to bring together expertise from across Maryland’s Public Health System to assess gaps in our public health infrastructure.
 This legislation will create the framework to realize the vision of an integrated, world class public health system.
 HB 1365 (formerly HB 1121) - Health Occupations and Insurance - Menopause - Provider Training and Coverage Requirements: Improves the quality of women’s health care by requiring insurance coverage for menopause treatment.
 The bill will also allow certified or licensed health care providers who are required to complete continuing education to receive double credits for continuing education on menopause and menopause-related symptoms.
-(HB 1121 was amended into HB 1365.)
-Health Committee Highlights
-I was honored to be appointed by Speaker Joseline Peña-Melnyk just prior to session to lead the Health Committee.
+(HB 1121 was amended into HB 1365.) Health Committee Highlights I was honored to be appointed by Speaker Joseline Peña-Melnyk just prior to session to lead the Health Committee.
 This session, the Committee advanced legislation addressing some of the most urgent challenges facing Maryland families and individuals.
 These challenges include protecting access to mental health and substance use treatment, addressing behavioral health workforce shortages, improving women’s cardiovascular health, and ensuring that children in foster care are placed in safe, trauma-informed settings.
 See below for more highlights of what the Health Committee passed during the 2026 session.
@@ -152,41 +94,33 @@ It reduces prolonged hospital stays for youth who are medically cleared but lack
 HB 1563 - Emergency Room Services and Post-Acute Care - Coverage and Facility Studies: Protects patients in emergencies and helps Maryland plan smarter for emergency hospital and post-acute care needs.
 The studies will focus on hospital and post-acute bed capacity and fulfill the state’s need for clear data on insurance denials and hospital capacity to fix system bottlenecks.
 It will also examine how to improve hospital discharges and look at ways to move patients safely and efficiently from hospitals to appropriate follow-up care.
-Other Session Highlights
-ENERGY
-HB 1532 - Utility RELIEF Act - (Reducing Energy Load Inflation for Everyday Families): The Act builds on the progress of the 2025 Next Generation Energy Act to further protect ratepayers, ensure reliability while responding to rising energy demand (especially from data center growth), continue to advance clean energy, and preserve programs that reduce energy costs over time.
-HB 1 / SB 2 - Investor-Owned Electric, Gas, and Gas and Electric Companies – CostRecovery: Ensures that Maryland’s ratepayers do not pay for the bonus compensation of top wage-earners at investor–owned gas and electric companies.
+Other Session Highlights ENERGY HB 1532 - Utility RELIEF Act - (Reducing Energy Load Inflation for Everyday Families): The Act builds on the progress of the 2025 Next Generation Energy Act to further protect ratepayers, ensure reliability while responding to rising energy demand (especially from data center growth), continue to advance clean energy, and preserve programs that reduce energy costs over time.
+HB 1 / SB 2 - Investor-Owned Electric, Gas, and Gas and Electric Companies – Cost Recovery: Ensures that Maryland’s ratepayers do not pay for the bonus compensation of top wage-earners at investor–owned gas and electric companies.
 While ratepayers have seen their costs rise, shareholders of investor–owned utilities have seen their profits soar; HB1 bans taxpayers from footing the bill for utility CEO bonuses.
-ECONOMY AND BUSINESS
-HB 798 / SB 920 - Economic Development - Small, Minority, and Women-Owned Business Accounts - Management Fees (Small Business Increased Access to Capital Act): Prioritizes Maryland small businesses by making it easier for small businesses to access the capital they need to start and grow their businesses.
+ECONOMY AND BUSINESS HB 798 / SB 920 - Economic Development - Small, Minority, and Women-Owned Business Accounts - Management Fees (Small Business Increased Access to Capital Act): Prioritizes Maryland small businesses by making it easier for small businesses to access the capital they need to start and grow their businesses.
 The bill ensures the full utilization of state funds for small loans at or below market rates and increases technical assistance needed by Maryland’s emerging entrepreneurs.
 HB 561 / SB 467 - Maryland Child Care Credential Program: Extension of Funding helps Maryland’s childcare workers obtain professional credentials and advance their career training.
 Investing in their professional development will help childcare providers stay in the field, strengthen the quality of care, and ensure that families have access to skilled early educators.
-HB 849 - Child Care Scholarship Program - Freeze in Enrollment - Exceptions andWaitlist: Establishes clearer policies for how families access the Child Care Scholarship Program while the current waitlist is in place.
+HB 849 - Child Care Scholarship Program - Freeze in Enrollment - Exceptions and Waitlist: Establishes clearer policies for how families access the Child Care Scholarship Program while the current waitlist is in place.
 The bill prioritizes families with the greatest financial need and ensures that those facing the most significant barriers to accessing care can continue to access support.
 HB 1321 - Child Care Scholarship Program - Application Process and Copays: Reforms how families contribute to the cost of childcare while protecting affordability.
 It authorizes the Maryland State Department of Education to implement a partial scholarship system that gradually adjusts family contributions based on income while ensuring that childcare costs remain affordable.
-TRANSPORTATION
-HB 1504 - Highways - Sidewalks and Bicycle Pathways - Construction and Reconstruction (The Honorable Anne Healey Pedestrian Safety Act of 2026): Meets the goal of Vision Zero, the plan to make roadways safer for drivers and passengers of motor vehicles, bicyclists, and pedestrians and to have zero vehicle-related deaths or serious injuries on roadways by 2030 by prioritizing funding for the construction and reconstruction of sidewalks and bicycle pathways to sidewalks and bicycle pathways that are, or are adjacent to, highways that are subject to a Vision Zero program.
-COMMUNITY POLICING
-HB 634 / SB 745 - Police Training - Autism and Dementia (LEAD Act of 2026): Strengthens Maryland’s emergency response to wandering and elopement incidents involving individuals with autism and other intellectual and developmental disabilities by standardizing disability-informed training across law enforcement, EMS, and 9-1-1 dispatch and improving coordination during time-critical emergencies.
+TRANSPORTATION HB 1504 - Highways - Sidewalks and Bicycle Pathways - Construction and Reconstruction (The Honorable Anne Healey Pedestrian Safety Act of 2026): Meets the goal of Vision Zero, the plan to make roadways safer for drivers and passengers of motor vehicles, bicyclists, and pedestrians and to have zero vehicle-related deaths or serious injuries on roadways by 2030 by prioritizing funding for the construction and reconstruction of sidewalks and bicycle pathways to sidewalks and bicycle pathways that are, or are adjacent to, highways that are subject to a Vision Zero program.
+COMMUNITY POLICING HB 634 / SB 745 - Police Training - Autism and Dementia (LEAD Act of 2026) : Strengthens Maryland’s emergency response to wandering and elopement incidents involving individuals with autism and other intellectual and developmental disabilities by standardizing disability-informed training across law enforcement, EMS, and 9-1-1 dispatch and improving coordination during time-critical emergencies.
 This legislation improves coordination across first responders and ensures safer, more effective responses during time-sensitive emergencies.
-IMMIGRATION
-HB 444 / SB 245 - Public Safety - Immigration Enforcement Agreements - Prohibition: Bars local law enforcement agencies from entering into 287(g) agreements—or any similar contracts—that deputize local officers to perform the work of federal immigration agents.
+IMMIGRATION HB 444 / SB 245 - Public Safety - Immigration Enforcement Agreements - Prohibition : Bars local law enforcement agencies from entering into 287(g) agreements—or any similar contracts—that deputize local officers to perform the work of federal immigration agents.
 Counties with existing agreements will be required to terminate them immediately.
-HB 1017 / SB 984 - Correctional Services - Private Immigration Detention Facilities - Zoning Requirement: A zoning transparency bill which demands honest language in land-use decisions.
+HB 1017 / SB 984 - Correctional Services - Private Immigration Detention Facilities - Zoning Requirement : A zoning transparency bill which demands honest language in land-use decisions.
 It creates a clear statewide rule instead of county-by-county guesswork to ensure that a private detention facility can’t be approved unless the zoning code explicitly allows it.
 Requires explicit zoning authorization for a private immigration detention facility – broad, inclusive phrases won’t work.
 HB 1341 / SB 810 - Enforcement - Expanding Sensitive Locations, Notification, and Guidance (Maryland Values Act of 2026): Updates current Maryland law by including courthouses to the list of sensitive locations to ensure that the areas past security are off limits for federal immigration enforcement.
 Additionally, it expands sensitive locations to include school bus stops, school buses, and food distribution sites.
 It also prevents education personnel from sharing information and data with Immigration and Customs Enforcement.
-VETERANS AND MILITARY FAMILIES
-HB 102 / SB 263 - Education - Dependent Children of Active Service Members - Advance Enrollment Procedures: Allows eligible military-connected students to enroll in Maryland public schools remotely, without fees or in-person requirements.
+VETERANS AND MILITARY FAMILIES HB 102 / SB 263 - Education - Dependent Children of Active Service Members - Advance Enrollment Procedures: Allows eligible military-connected students to enroll in Maryland public schools remotely, without fees or in-person requirements.
 This bill will help prevent enrollment delays for students with disabilities.
 HB 232 / SB 142 - Maryland Military Department - National Guard - Tuition Assistance: Expands tuition assistance for active members of the Maryland National Guard to include the use of trade and career schools.
 HB 623 / SB 709 - Education - Purple Star Schools Program and Purple Star Colleges Program: Promotes opportunity for military families by helping students complete their degrees, navigate frequent moves, and access stable career pathways - resulting in educational attainment and workforce participation in Maryland.
-Future Legislation
-Every year I am presented with great ideas for legislation, often from my constituents.
+Future Legislation Every year I am presented with great ideas for legislation, often from my constituents.
 As you know, some bills take multiple sessions to pass - and this year was no exception.
 Three key priorities this year did not make it across the finish line, either because they required additional stakeholder engagement, or because they were simply victims of the clock.
 This year I built upon past efforts in establishing stronger whistleblower protections for state employees and greater accountability to the state by working to establish a state-wide Office of the Inspector General.
@@ -199,3 +133,6 @@ Your feedback and comments are important to me, and how legislation impacts you 
 Should our office be able to provide any assistance, or if you would like to voice your opinion on matters being considered by the General Assembly, please do not hesitate to contact me at Heather.Bagnall@house.maryland.gov or (410) 841-3406.
 I am proud of all that we accomplished this session in the General Assembly.
 Together, we achieved many bipartisan solutions that will ensure Marylanders have access to care, a strong education, affordable housing, and equal protections under the law.
+Sincerely, Delegate Heather Bagnall District 33C Back to Top Citizens For Heather Bagnall, 1521 Ritchie Highway, PO Box 129, Arnold, MD, 21012, United States +1 (443) 254-6729 Heather@HeatherBagnall.com BY AUTHORITY: CITIZENS FOR HEATHER BAGNALL.
+LUKE TUDBALL - TREASURER.
+COPYRIGHT © # SCHOLARSHIPS - EVENTS - CONTRIBUTE - CONTACT US - TERMS & CONDITIONS

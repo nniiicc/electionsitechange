@@ -1,11 +1,42 @@
 [
-"https://facebook.com/votejeraldraymond",
-"https://jeraldraymond.com/",
-"https://jeraldraymond.com/about",
-"https://jeraldraymond.com/donation-form",
-"https://jeraldraymond.com/endorsements",
-"https://jeraldraymond.com/updates",
-"https://jeraldraymond.com/volunteer",
-"https://jeraldraymond.com/voting-record",
-"https://voteidaho.gov/online-voter-tools"
+{
+"text": "About",
+"href": "https://jeraldraymond.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://jeraldraymond.com/donation-form/"
+},
+{
+"text": "Endorsements",
+"href": "https://jeraldraymond.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://jeraldraymond.com/"
+},
+{
+"text": "Updates",
+"href": "https://jeraldraymond.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://jeraldraymond.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://jeraldraymond.com/voting-record/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/online-voter-tools/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/votejeraldraymond"
+},
+{
+"text": "[image] Jerald Raymond",
+"href": "https://jeraldraymond.com/"
+}
 ]

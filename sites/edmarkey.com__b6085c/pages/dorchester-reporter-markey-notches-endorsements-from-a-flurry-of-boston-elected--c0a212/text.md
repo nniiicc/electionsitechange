@@ -1,19 +1,15 @@
-Dorchester Reporter: Markey notches endorsements from a flurry of Boston elected officials
-February, 25th 2026
-By Reporter Staff
-BOSTON — Senator Ed Markey today announced a flurry of endorsements, including 12 of the 13 members of the Boston City Council, several state lawmakers from Boston, and the Boston Teachers Union in what his campaign characterized as “a sweeping and unified show of support from across Boston’s elected leadership.”
-The news comes two days after Markey scored an endorsement from Mayor Michelle Wu in his primary contest against US Rep.
+English English Español Português 繁體中文 Meet Ed Endorsements Issues & Priorities The Latest Volunteer Donate Dorchester Reporter: Markey notches endorsements from a flurry of Boston elected officials February, 25th 2026 By Reporter Staff BOSTON — Senator Ed Markey today announced a flurry of endorsements, including 12 of the 13 members of the Boston City Council, several state lawmakers from Boston, and the Boston Teachers Union in what his campaign characterized as “a sweeping and unified show of support from across Boston’s elected leadership.” The news comes two days after Markey scored an endorsement from Mayor Michelle Wu in his primary contest against US Rep.
 Seth Moulton.
 “I am honored to have earned the endorsement of Boston’s City Councilors, our state elected leaders, and the Boston Teachers Union – leaders who know their neighborhoods block by block and fight for their communities every day,” Sen.
 Markey said in a statement.
-“I will continue to fight for Boston every single day in the Senate, standing up to Trump, protecting our democracy, lowering costs for families, and building a future that works for everyone, not just the powerful and well-connected.”
-Among the elected endorsers announced Wednesday are Suffolk County DA Kevin Hayden, Senator Liz Miranda and State Reps.
+“I will continue to fight for Boston every single day in the Senate, standing up to Trump, protecting our democracy, lowering costs for families, and building a future that works for everyone, not just the powerful and well-connected.” Among the elected endorsers announced Wednesday are Suffolk County DA Kevin Hayden, Senator Liz Miranda and State Reps.
 Brandy Fluker-Reid and Russell Holmes, Supreme Judicial Court Clerk Allison Cartwright, and Suffolk County Register of Probate Stephanie Everett.
 Markey has also earned the support of 12 of 13 Boston city councillors, with one exception: Julia Mejia, an at-large delegate who typically does not endorse other candidates.
 Councillor Ed Flynn, a veteran of the US Navy, said Markey’s support for veterans and military families distinguished him.
 “Senator Markey has always been willing to listen and understand the challenges we face, and he has fought tirelessly to ensure veterans are treated with the dignity and respect they earned.
 I’m proud to endorse Senator Markey,” said Flynn.
-Senator Miranda, who represents parts of Dorchester and Roxbury, said Markey was a “steadfast partner for my district.”
-“He understands that health, housing, and climate are interconnected, and he fights for the dignity and wellbeing of every community,” Miranda said.
-The president of the Boston Teachers Union, Erik Berg, said Markey “has always been in the corner of working people, educators, and students – and we’re proud to stand in his corner now.”
-VIEW ORIGINAL ARTICLE: https://www.dotnews.com/2026/02/25/markey-notches-endorsements-from-a-flurry-of-boston-elected-officials/
+Senator Miranda, who represents parts of Dorchester and Roxbury, said Markey was a “steadfast partner for my district.” “He understands that health, housing, and climate are interconnected, and he fights for the dignity and wellbeing of every community,” Miranda said.
+The president of the Boston Teachers Union, Erik Berg, said Markey “has always been in the corner of working people, educators, and students – and we’re proud to stand in his corner now.” VIEW ORIGINAL ARTICLE: https://www.dotnews.com/2026/02/25/markey-notches-endorsements-from-a-flurry-of-boston-elected-officials/ Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Click here to make an Offline Donation .
+Gear Up for the Campaign Jobs & Justice T-Shirt $30.00 Green New Deal Tote $30.00 Comeback T-Shirt $30.00 Green New Deal Hat $30.00 Shop Our Store Store Privacy Policy Contact Us Volunteer Paid For By The Markey Committee © # - Ed Markey.
+All Rights Reserved.

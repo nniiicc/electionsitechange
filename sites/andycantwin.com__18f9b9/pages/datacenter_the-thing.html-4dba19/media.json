@@ -1,0 +1,14 @@
+[
+"alt:images/ill-anatomy.jpg|Collage illustration of a data center with its wall peeled back, revealing rows of server racks, cooling pipes, and a yard of backup generators.",
+"alt:images/ill-scale.jpg|Collage illustration of a coal plant on one side and a data center of nearly equal size on the other, joined by a single power line that passes over a valley of small houses.",
+"alt:images/real-colossus.jpg|Aerial photograph of an xAI Colossus data center campus: a warehouse-scale building with white roofs, long rows of power and cooling machinery along its sides, a substation at one corner, and open fields around it.",
+"alt:images/real-councilbluffs.jpg|Aerial photograph at dusk of a Google data center outside Council Bluffs, Iowa: one long warehouse-scale building with rows of cooling equipment along its wall, surrounded by roads, fields, and a lake.",
+"alt:images/real-stargate.jpg|Aerial photograph of OpenAI's Stargate campus under construction outside Abilene, Texas: rows of warehouse-scale data halls with tan roofs, cooling infrastructure lining their walls, and construction equipment across the site.",
+"img:images/cutaway.jpg",
+"img:images/hyperscale-campus.jpg",
+"img:images/ill-anatomy.jpg",
+"img:images/ill-scale.jpg",
+"img:images/real-colossus.jpg",
+"img:images/real-councilbluffs.jpg",
+"img:images/real-stargate.jpg"
+]

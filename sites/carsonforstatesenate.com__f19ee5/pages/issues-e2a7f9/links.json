@@ -1,14 +1,54 @@
 [
-"https://carsonforstatesenate.com/",
-"https://carsonforstatesenate.com/about",
-"https://carsonforstatesenate.com/accomplishments",
-"https://carsonforstatesenate.com/blank-12",
-"https://carsonforstatesenate.com/issues",
-"https://carsonforstatesenate.com/privacy-policy",
-"https://carsonforstatesenate.com/terms",
-"https://facebook.com/CarsonforStateSenate?rdid=rfrx4ZtJPGOZi3Le",
-"https://instagram.com/johncarsonforsenate",
-"https://linkedin.com/in/johnkcarson",
-"https://secure.anedot.com/carson-for-state-senate/1f75a851-9ea2-4fbd-a784-0903a78705be",
-"https://x.com/carson4dougco?s=11&t=IgDxhz5RwuNHrOVEzmzY2A"
+{
+"text": "About",
+"href": "https://www.carsonforstatesenate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/carson-for-state-senate/1f75a851-9ea2-4fbd-a784-0903a78705be"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carsonforstatesenate.com/accomplishments"
+},
+{
+"text": "Gallery",
+"href": "https://www.carsonforstatesenate.com/blank-12"
+},
+{
+"text": "Home",
+"href": "https://www.carsonforstatesenate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.carsonforstatesenate.com/issues"
+},
+{
+"text": "John Carson for Senate",
+"href": "https://www.carsonforstatesenate.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carsonforstatesenate.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.carsonforstatesenate.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarsonforStateSenate/?rdid=rfrx4ZtJPGOZi3Le"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johncarsonforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/johnkcarson"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/carson4dougco?s=11&t=IgDxhz5RwuNHrOVEzmzY2A"
+}
 ]

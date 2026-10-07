@@ -1,9 +1,30 @@
 [
-"https://daniforiowahouse.com/",
-"https://daniforiowahouse.com/donate",
-"https://daniforiowahouse.com/editorials",
-"https://daniforiowahouse.com/event-list",
-"https://daniforiowahouse.com/stay-connected",
-"https://facebook.com/profile.php?id=61588630676742",
-"https://instagram.com/daniollenburgforhouse"
+{
+"text": "Donate",
+"href": "https://www.daniforiowahouse.com/donate"
+},
+{
+"text": "Editorials",
+"href": "https://www.daniforiowahouse.com/editorials"
+},
+{
+"text": "Events",
+"href": "https://www.daniforiowahouse.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.daniforiowahouse.com"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.daniforiowahouse.com/stay-connected"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588630676742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/daniollenburgforhouse/"
+}
 ]

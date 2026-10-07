@@ -1,13 +1,50 @@
 [
-"https://electlombardo.com/",
-"https://electlombardo.com/about",
-"https://electlombardo.com/contact",
-"https://electlombardo.com/election-info",
-"https://electlombardo.com/events",
-"https://electlombardo.com/privacy-policy",
-"https://electlombardo.com/termsandconditions",
-"https://electlombardo.com/yardsign",
-"https://facebook.com/electjohnlombardo",
-"https://instagram.com/electjohnlombardo",
-"https://secure.winred.com/friends-of-john-lombardo/donate-today"
+{
+"text": "ABOUT",
+"href": "https://www.electlombardo.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electlombardo.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-john-lombardo/donate-today"
+},
+{
+"text": "ELECTION INFO",
+"href": "https://www.electlombardo.com/election-info"
+},
+{
+"text": "EVENTS",
+"href": "https://www.electlombardo.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.electlombardo.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electlombardo.com/privacy-policy"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.electlombardo.com/yardsign"
+},
+{
+"text": "Text Terms & Conditions",
+"href": "https://www.electlombardo.com/termsandconditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electjohnlombardo/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electjohnlombardo/"
+},
+{
+"text": "info@electlombardo.com",
+"href": "mailto:info@electlombardo.com"
+}
 ]

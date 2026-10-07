@@ -1,9 +1,34 @@
 [
-"http://secure.winred.com/mike-vinton-for-montana",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://vintonformontana.com/about-mike",
-"https://vintonformontana.com/contact-1",
-"https://vintonformontana.com/donate-1",
-"https://vintonformontana.com/home",
-"https://vintonformontana.com/issues"
+{
+"text": "ABOUT MIKE",
+"href": "https://vintonformontana.com/about-mike"
+},
+{
+"text": "CONTACT",
+"href": "https://vintonformontana.com/contact-1"
+},
+{
+"text": "DONATE",
+"href": "https://vintonformontana.com/donate-1"
+},
+{
+"text": "Donate",
+"href": "http://secure.winred.com/mike-vinton-for-montana"
+},
+{
+"text": "HOME",
+"href": "https://vintonformontana.com/home"
+},
+{
+"text": "ISSUES",
+"href": "https://vintonformontana.com/issues"
+},
+{
+"text": "[image: Vinton for Montana]",
+"href": "https://vintonformontana.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

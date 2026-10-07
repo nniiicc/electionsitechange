@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://joecourtney.com/campaign-news-list/",
- "paid_for_by": null,
+ "fingerprint": "df32d6dc12e1c31e63f65647b05e076a79ce65c6",
+ "format": 3,
+ "paid_for_by": "Authorized by Joe Courtney for Congress",
  "title": "Campaign News - Joe Courtney",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024",
+  "2025"
+ ]
 }

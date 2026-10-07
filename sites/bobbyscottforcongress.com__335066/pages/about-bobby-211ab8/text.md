@@ -1,4 +1,4 @@
-Bobby Scott has been fighting for us in Congress representing Virginia’s third congressional district since 1993.
+About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE ABOUT BOBBY Bobby Scott has been fighting for us in Congress representing Virginia’s third congressional district since 1993.
 Prior to serving in Congress, Bobby served 15 years in the Virginia General Assembly where he focused his legislative efforts on creating jobs, increasing access to affordable healthcare, improving education and economic opportunities, promoting evidence-based crime prevention strategies and enhancing consumer protections.
 Bobby's legislative successes in the General Assembly include raising Virginia's minimum wage, enhancing opportunities for Virginia's families, and establishing the Governor's Employment and Training Council.
 With his first election to Congress in November 1992, Bobby made history by becoming the first African-American elected to Congress from Virginia since the Reconstruction-era.
@@ -34,3 +34,6 @@ To ensure representation of those unable to afford an attorney, Bobby founded th
 He also served as one of the youngest branch presidents of the Newport News NAACP.
 Bobby is an active member of many community organizations and is a member of St.
 Augustine’s Episcopal Church in southeast Newport News.
+Paid for by Bobby Scott for Congress P.O.
+Box 251 | Newport News, Virginia 23607 | (757) 245-2000 DONATE Virginia Dems Where Do I Vote?
+VAYD

@@ -1,4 +1,10 @@
 [
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmichaelguest.ms%2Femail-signup%2F&t=Email+Signup",
-"https://x.com/intent/tweet?text=Email+Signup&url=https%3A%2F%2Fmichaelguest.ms%2Femail-signup%2F"
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmichaelguest.ms%2Femail-signup%2F&t=Email+Signup"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=Email+Signup&url=https%3A%2F%2Fmichaelguest.ms%2Femail-signup%2F"
+}
 ]

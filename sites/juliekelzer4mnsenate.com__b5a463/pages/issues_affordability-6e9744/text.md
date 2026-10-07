@@ -1,8 +1,2 @@
-Affordability
-So many people are struggling to afford the basic necessities of living.
-It's time to take action to help people, talking about it ends here.
-- Lowering Health Care Costs
-- Reducing Energy Costs
-- Making Childcare Affordable
-- Reducing Housing Costs
-- Stabilizing Grocery Costs
+Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Home ❭ Issues ❭ Affordability Affordability So many people are struggling to afford the basic necessities of living.
+It's time to take action to help people, talking about it ends here. - Lowering Health Care Costs - Reducing Energy Costs - Making Childcare Affordable - Reducing Housing Costs - Stabilizing Grocery Costs Next: Education » Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu

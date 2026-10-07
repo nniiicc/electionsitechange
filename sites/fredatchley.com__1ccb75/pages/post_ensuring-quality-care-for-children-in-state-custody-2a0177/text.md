@@ -1,5 +1,5 @@
-Ensuring Quality Care for Children in State Custody
-Every child in Tennessee deserves safety, stability, and the chance to thrive.
+top of page HOME ABOUT NEWS DONATE More Use tab to navigate through the menu items.
+All Posts Search Ensuring Quality Care for Children in State Custody Team Atchley Jun 15 2 min read Every child in Tennessee deserves safety, stability, and the chance to thrive.
 For children in state custody, that responsibility falls to the Department of Children's Services.
 It is one of the most important and difficult jobs in state government.
 This session, the General Assembly passed several measures to strengthen oversight of DCS and ensure that children in state care receive consistent, high-quality services.
@@ -20,3 +20,6 @@ The men and women who work there are dedicated public servants doing incredibly 
 But like any government agency, they need oversight, accountability, and the resources to do their jobs well.
 These measures help provide all three.
 Our children are counting on us to get this right.
+1130 S.
+Fork Dr., Sevierville, TN 37862 team@fredatchley.com Paid for by Fred Atchley for State Representative, Phil Whaley, Treasurer.
+Web design by ZDStephens Company . bottom of page

@@ -1,13 +1,62 @@
 [
-"https://axios.com/2025/08/04/electricity-costs-bills-data-centers-ai",
-"https://cpapracticeadvisor.com/2024/12/01/how-the-50-states-rank-by-tax-burden/103495",
-"https://google.com/url?q=https%3A%2F%2Fapps1.web.maine.gov%2Fcgi-bin%2Fonline%2Fethics%2Fcleanelection%2Fhome.pl&sa=D&sntz=1&usg=AOvVaw1bJgsTY4oXUFN2M5fno6se",
-"https://google.com/url?q=https%3A%2F%2Fregistertovote.sos.maine.gov%2FHome&sa=D&sntz=1&usg=AOvVaw3KfA03ehJbxt1PPSwwr5Og",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FKenneyForSenate&sa=D&sntz=1&usg=AOvVaw2qDGeldx-eOlHzOYeS5tO1",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fkenneyforsenate%2F&sa=D&sntz=1&usg=AOvVaw2dnGkiDYyjBXRs99AzMaT8",
-"https://leokenneyforsenate.com/about",
-"https://leokenneyforsenate.com/home",
-"https://leokenneyforsenate.com/issues",
-"https://pressherald.com/2025/04/09/maines-hospitals-in-poor-financial-shape-report-says",
-"https://usnews.com/education/best-high-schools/articles/how-states-compare"
+{
+"text": "About",
+"href": "https://www.leokenneyforsenate.com/about"
+},
+{
+"text": "DONATE SECURELY TODAY",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fapps1.web.maine.gov%2Fcgi-bin%2Fonline%2Fethics%2Fcleanelection%2Fhome.pl&sa=D&sntz=1&usg=AOvVaw1bJgsTY4oXUFN2M5fno6se"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fapps1.web.maine.gov%2Fcgi-bin%2Fonline%2Fethics%2Fcleanelection%2Fhome.pl&sa=D&sntz=1&usg=AOvVaw1bJgsTY4oXUFN2M5fno6se"
+},
+{
+"text": "Home",
+"href": "https://www.leokenneyforsenate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.leokenneyforsenate.com/issues"
+},
+{
+"text": "Leo Kenney for State Senate",
+"href": "https://www.leokenneyforsenate.com/home"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fregistertovote.sos.maine.gov%2FHome&sa=D&sntz=1&usg=AOvVaw3KfA03ehJbxt1PPSwwr5Og"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FKenneyForSenate&sa=D&sntz=1&usg=AOvVaw2qDGeldx-eOlHzOYeS5tO1"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fkenneyforsenate%2F&sa=D&sntz=1&usg=AOvVaw2dnGkiDYyjBXRs99AzMaT8"
+},
+{
+"text": "[image]",
+"href": "https://www.leokenneyforsenate.com/home"
+},
+{
+"text": "[image]Leo Kenney for State Senate",
+"href": "https://www.leokenneyforsenate.com/home"
+},
+{
+"text": "https://www.axios.com/2025/08/04/electricity-costs-bills-data-centers-ai",
+"href": "https://www.axios.com/2025/08/04/electricity-costs-bills-data-centers-ai"
+},
+{
+"text": "https://www.cpapracticeadvisor.com/2024/12/01/how-the-50-states-rank-by-tax-burden/103495/",
+"href": "https://www.cpapracticeadvisor.com/2024/12/01/how-the-50-states-rank-by-tax-burden/103495/#:~:text=As%20previously%20stated%2C%20New%20York,than%20blue%20states%2C%20on%20average."
+},
+{
+"text": "https://www.pressherald.com/2025/04/09/maines-hospitals-in-poor-financial-shape-report-says",
+"href": "https://www.pressherald.com/2025/04/09/maines-hospitals-in-poor-financial-shape-report-says/#:~:text=Related,Hospital%20and%20MaineHealth%20Waldo%20Hospital"
+},
+{
+"text": "https://www.usnews.com/education/best-high-schools/articles/how-states-compare",
+"href": "https://www.usnews.com/education/best-high-schools/articles/how-states-compare#:~:text=Massachusetts%20tops%20all%20other%20states,top-ranked%20public%20high%20schools.&text=April%2022%2C%202024%2C%20at%209%3A00%20p.m.&text=A%20breakdown%20by%20state%20of,once%20again%20the%20leading%20performer"
+}
 ]

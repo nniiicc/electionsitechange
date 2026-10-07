@@ -1,10 +1,13 @@
 {
  "description": "This is the official site for Lisa Deane's State Senate Campaign | Deane2026",
  "final_url": "https://www.deane2026.com/",
- "paid_for_by": "Paid for by &quot;Deane 2026&quot; - Angela Driver, Treasurer",
+ "fingerprint": "bf6b2052d9353edaf0b594db3efcf7e799bc7cef",
+ "format": 3,
+ "paid_for_by": "Paid for by \"Deane 2026\" - Angela Driver, Treasurer",
  "title": "Deane 2026 | Lisa Deane for State Senate",
  "years_mentioned": [
   "2018",
-  "2023"
+  "2023",
+  "2026"
  ]
 }

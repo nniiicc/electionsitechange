@@ -1,36 +1,138 @@
 [
-"https://bls.gov/web/laus/laumstrk.htm",
-"https://bsky.app/profile/teamfordnv.bsky.social",
-"https://cnn.com/2025/10/14/climate/trump-solar-project-nevada-electricity",
-"https://designedtorun.com/",
-"https://eenews.net/articles/trump-tariffs-threaten-transportation-ambitions",
-"https://eia.gov/states/NV/analysis",
-"https://eia.gov/states/NV/overview",
-"https://epi.org/blog/data-show-anti-union-right-to-work-laws-damage-state-economies-as-michigans-repeal-takes-effect-new-hampshire-should-continue-to-reject-right-to-work-legislation",
-"https://eurekasentinel.com/2025/08/01/the-economics-of-rural-nevada-small-businesses-in-2025-2",
-"https://facebook.com/teamfordnv",
-"https://fordfornevada.com/",
-"https://fordfornevada.com/about",
-"https://fordfornevada.com/contact",
-"https://fordfornevada.com/endorsements",
-"https://fordfornevada.com/facts",
-"https://fordfornevada.com/issues",
-"https://fordfornevada.com/job-openings",
-"https://fordfornevada.com/media",
-"https://fordfornevada.com/news",
-"https://fordfornevada.myshopify.com/",
-"https://fox5vegas.com/2026/04/29/las-vegas-advocates-oppose-nv-energy-demand-charge-town-hall",
-"https://instagram.com/teamfordnv",
-"https://lasvegasweekly.com/news/2026/mar/12/nevada-college-tuition-to-rise-up-to-12-percent",
-"https://leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6651/Votes",
-"https://linktree.com/teamfordnv",
-"https://press.lvcva.com/news-releases/las-vegas-welcomes-38.5-million-visitors-in-a-complex-year-marked-by-shifting-travel-dynamics/s/eb1a5d19-71e6-4df5-b0da-c20fc38fa2ac",
-"https://puc.nv.gov/renewables/renewable-portfolio-standard",
-"https://reviewjournal.com/business/housing/a-new-york-hedge-fund-is-the-largest-homeowner-in-clark-county-3344395",
-"https://secure.actblue.com/donate/aaron-ford-for-nevada-1",
-"https://thenevadaindependent.com/article/indy-environment-nevada-voters-put-renewable-standards-in-the-state-constitution-what-does-it-mean-for-addressing-climate-change",
-"https://thenevadaindependent.com/article/limos-liquor-hotels-among-nv-energys-millions-in-inappropriate-charges-ided-by-watchdog",
-"https://thenevadaindependent.com/article/outdoor-recreation-fuels-the-nevada-economy-a-new-report-shows-how-much",
-"https://tiktok.com/@teamfordnv",
-"https://x.com/teamfordnv"
+{
+"text": "$1,600",
+"href": "https://www.epi.org/blog/data-show-anti-union-right-to-work-laws-damage-state-economies-as-michigans-repeal-takes-effect-new-hampshire-should-continue-to-reject-right-to-work-legislation/"
+},
+{
+"text": "3.1 million tourists in just 2025 alone",
+"href": "https://press.lvcva.com/news-releases/las-vegas-welcomes-38.5-million-visitors-in-a-complex-year-marked-by-shifting-travel-dynamics/s/eb1a5d19-71e6-4df5-b0da-c20fc38fa2ac"
+},
+{
+"text": "About",
+"href": "https://www.fordfornevada.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-ford-for-nevada-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fordfornevada.com/endorsements"
+},
+{
+"text": "FACT & MYTH",
+"href": "https://www.fordfornevada.com/facts"
+},
+{
+"text": "Investors own about 15 percent of all the single-family homes in Clark County",
+"href": "https://www.reviewjournal.com/business/housing/a-new-york-hedge-fund-is-the-largest-homeowner-in-clark-county-3344395/"
+},
+{
+"text": "Issues",
+"href": "https://www.fordfornevada.com/issues"
+},
+{
+"text": "Job Openings",
+"href": "https://www.fordfornevada.com/job-openings"
+},
+{
+"text": "Join Us!",
+"href": "https://www.fordfornevada.com/contact"
+},
+{
+"text": "Media",
+"href": "https://www.fordfornevada.com/media"
+},
+{
+"text": "News",
+"href": "https://www.fordfornevada.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://fordfornevada.myshopify.com/"
+},
+{
+"text": "[image: Aaron Ford for Nevada Governor]",
+"href": "https://www.fordfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/teamfordnv.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/teamfordnv"
+},
+{
+"text": "attacked solar",
+"href": "https://www.cnn.com/2025/10/14/climate/trump-solar-project-nevada-electricity"
+},
+{
+"text": "bipartisan",
+"href": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6651/Votes"
+},
+{
+"text": "clean energy requirements",
+"href": "https://www.puc.nv.gov/renewables/renewable-portfolio-standard/"
+},
+{
+"text": "could add more than $30 a month",
+"href": "https://www.fox5vegas.com/2026/04/29/las-vegas-advocates-oppose-nv-energy-demand-charge-town-hall/"
+},
+{
+"text": "driving up the costs",
+"href": "https://www.eenews.net/articles/trump-tariffs-threaten-transportation-ambitions/"
+},
+{
+"text": "expand rural housing supply, expand access to small business financing",
+"href": "https://eurekasentinel.com/2025/08/01/the-economics-of-rural-nevada-small-businesses-in-2025-2/"
+},
+{
+"text": "face 12% tuition hikes",
+"href": "https://lasvegasweekly.com/news/2026/mar/12/nevada-college-tuition-to-rise-up-to-12-percent/"
+},
+{
+"text": "highest unemployment rates of any state in the country",
+"href": "https://www.bls.gov/web/laus/laumstrk.htm"
+},
+{
+"text": "inappropriate charges",
+"href": "https://thenevadaindependent.com/article/limos-liquor-hotels-among-nv-energys-millions-in-inappropriate-charges-ided-by-watchdog"
+},
+{
+"text": "leads the nation",
+"href": "https://www.eia.gov/states/NV/analysis"
+},
+{
+"text": "more",
+"href": "https://www.eia.gov/states/NV/overview"
+},
+{
+"text": "state support and marketing",
+"href": "https://thenevadaindependent.com/article/outdoor-recreation-fuels-the-nevada-economy-a-new-report-shows-how-much"
+},
+{
+"text": "voter-approved",
+"href": "https://thenevadaindependent.com/article/indy-environment-nevada-voters-put-renewable-standards-in-the-state-constitution-what-does-it-mean-for-addressing-climate-change"
+}
 ]

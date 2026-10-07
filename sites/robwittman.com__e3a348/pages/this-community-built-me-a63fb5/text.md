@@ -1,4 +1,4 @@
-My story begins in Richmond with an act of extraordinary generosity.
+Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate This Community Built Me My story begins in Richmond with an act of extraordinary generosity.
 When I was born, my birth mother made the difficult decision to place me for adoption.
 For the first months of my life, I was cared for by the Children’s Home Society of Virginia in Richmond.
 At eight months old, I was blessed to be adopted by two wonderful parents who gave me a loving home, a strong foundation, and opportunities I never could have imagined.
@@ -42,5 +42,9 @@ And I am grateful to the people of Virginia who have entrusted me with the privi
 My story began because someone made an extraordinary decision to give me an opportunity.
 I have tried never to take that opportunity for granted.
 This community helped shape who I am.
-Serving it remains one of the greatest honors of my life.
-— Rob Wittman
+Serving it remains one of the greatest honors of my life. — Rob Wittman Support Me in Making Virginia a Better Place! $50 $100 $250 $500 Other PO Box 427, Alexandria, VA 22313 | campaign@robwittman.com Want to get involved?
+Contact us today!
+By providing your phone number, you are consenting to receive calls and texts, including auto-dial and automated calls and tests, to that number from the committee.
+Paid for by Rob Wittman for Congress © # Re-Elect Rob Wittman for Congress.
+All Rights Reserved.
+Media Kit Site Map Store

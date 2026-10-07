@@ -1,14 +1,54 @@
 [
-"http://actblue.com/donate/socswag",
-"https://clancyforassembly.com/",
-"https://clancyforassembly.com/about.html",
-"https://clancyforassembly.com/cdn-cgi/l/email-protection",
-"https://clancyforassembly.com/contact.html",
-"https://clancyforassembly.com/endorsements.html",
-"https://clancyforassembly.com/map.html",
-"https://clancyforassembly.com/media.html",
-"https://clancyforassembly.com/priorities.html",
-"https://facebook.com/clancyformilwaukee",
-"https://myvote.wi.gov/en-US/MyElectedOfficials",
-"https://secure.actblue.com/donate/clancy-for-assembly-1"
+{
+"text": "About",
+"href": "https://www.clancyforassembly.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.clancyforassembly.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clancy-for-assembly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clancyforassembly.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.clancyforassembly.com/"
+},
+{
+"text": "Map",
+"href": "https://www.clancyforassembly.com/map.html"
+},
+{
+"text": "Media",
+"href": "https://www.clancyforassembly.com/media.html"
+},
+{
+"text": "Merchandise",
+"href": "http://actblue.com/donate/socswag"
+},
+{
+"text": "Priorities",
+"href": "https://www.clancyforassembly.com/priorities.html"
+},
+{
+"text": "[image: Clancy for Assembly, District 19]",
+"href": "https://www.clancyforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/clancyformilwaukee"
+},
+{
+"text": "[no text]",
+"href": "mailto:rmclancy@gmail.com"
+},
+{
+"text": "enter your address here at myvote.wi.gov",
+"href": "https://myvote.wi.gov/en-US/MyElectedOfficials"
+}
 ]

@@ -1,7 +1,3 @@
-DONATE
--
-DONATE -
-Meet the Senator
-Warren Daniel
-I am committed to the ideals of self-discipline, integrity, and professionalism, which I learned at home growing up, while working to become an Eagle Scout, and later as a West Point cadet.
+Issues Bio Contact Donate Issues Bio Contact Donate Scroll “I’m Dedicated to Serving the People of Burke, McDowell, and Buncombe counties.” DONATE - DONATE - DONATE - Meet the Senator Warren Daniel I am committed to the ideals of self-discipline, integrity, and professionalism, which I learned at home growing up, while working to become an Eagle Scout, and later as a West Point cadet.
 During my years at West Point, the principles of Duty, Honor, and Country were instilled in me, and these values are still very much a part of who I am and what I believe.
+Biography Our Pledge Create Jobs in North Carolina Cut Wasteful Spending In North Carolina Improve Education For North Carolina Sanctity of Life in North carolina View All New Page Donate Banner About Issues © # Paid for by Warren Daniel for Senate

@@ -1,14 +1,66 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MattforNHsenate",
-"https://mclaughlin4nh.com/",
-"https://mclaughlin4nh.com/about",
-"https://mclaughlin4nh.com/contact",
-"https://mclaughlin4nh.com/issues/climate-change",
-"https://mclaughlin4nh.com/issues/education",
-"https://mclaughlin4nh.com/issues/protect-collective-bargaining",
-"https://mclaughlin4nh.com/issues/reproductive-rights",
-"https://mclaughlin4nh.com/volunteer",
-"https://secure.actblue.com/donate/mattmclaughlinnh",
-"https://x.com/MclaughlinForNH"
+{
+"text": "About",
+"href": "https://www.mclaughlin4nh.com/about"
+},
+{
+"text": "Clean Energy and Climate Change",
+"href": "https://www.mclaughlin4nh.com/issues/climate-change"
+},
+{
+"text": "Collective Bargaining",
+"href": "https://www.mclaughlin4nh.com/issues/protect-collective-bargaining"
+},
+{
+"text": "Contact",
+"href": "https://www.mclaughlin4nh.com/contact"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.mclaughlin4nh.com/issues/reproductive-rights"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mattmclaughlinnh"
+},
+{
+"text": "Education",
+"href": "https://www.mclaughlin4nh.com/issues/education"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.mclaughlin4nh.com/issues/climate-change"
+},
+{
+"text": "View more",
+"href": "https://www.mclaughlin4nh.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.mclaughlin4nh.com/issues/protect-collective-bargaining"
+},
+{
+"text": "View more",
+"href": "https://www.mclaughlin4nh.com/issues/reproductive-rights"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mclaughlin4nh.com/volunteer"
+},
+{
+"text": "[image: Matt McLaughlin for State Senate]",
+"href": "https://www.mclaughlin4nh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MattforNHsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MclaughlinForNH"
+}
 ]

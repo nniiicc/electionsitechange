@@ -1,11 +1,1 @@
-Oronoco Township Meeting
-Time
-Monday, Sep 14, 2026
-5:30 PM – 10:00 PM
-Location
-115 2nd Street NW, Oronoco, MN
-About this event
-Add your event description here
-Location
-115 2nd Street NW
-Oronoco, MN
+Meet Brad Issues News Volunteer Contribute Events / Oronoco Township Meeting Oronoco Township Meeting Time Monday, Sep 14, 2026 5:30 PM – 10:00 PM Location 115 2nd Street NW, Oronoco, MN About this event Add your event description here Location 115 2nd Street NW Oronoco, MN Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

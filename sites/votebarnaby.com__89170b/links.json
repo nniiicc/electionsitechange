@@ -1,4 +1,18 @@
 [
-"https://facebook.com/VoteBarnaby",
-"https://secure.anedot.com/webster-barnaby-campaign/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/webster-barnaby-campaign/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/webster-barnaby-campaign/donate"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/VoteBarnaby"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteBarnaby"
+}
 ]

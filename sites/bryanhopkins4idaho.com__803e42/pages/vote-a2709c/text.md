@@ -1,10 +1,2 @@
-Voter Information
-Register to vote:
-https://votertools.voteidaho.gov/electionlink/electionlink/ApplicationInstructions.aspx
-Get out and Vote!
-Election Calendar:
-https://voteidaho.gov/calendar/
-The Primary:
-https://voteidaho.gov/election-information/
-Committee to Elect Bryan Hopkins
-Powered by CampaignPartner.com - Political Campaign Websites
+Meet Bryan Volunteer Contribute Voter Information Register to vote: https://votertools.voteidaho.gov/electionlink/electionlink/ApplicationInstructions.aspx Get out and Vote!
+Election Calendar: https://voteidaho.gov/calendar/ The Primary: https://voteidaho.gov/election-information/ Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Events Contact Committee to Elect Bryan Hopkins Powered by CampaignPartner.com - Political Campaign Websites Home Meet Bryan Contribute Volunteer Events Contact Voter Information Close Menu

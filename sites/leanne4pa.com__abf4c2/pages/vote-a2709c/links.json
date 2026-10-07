@@ -1,17 +1,62 @@
 [
-"http://facebook.com/voteleanne",
-"http://maps.google.com/?q=Leanne+for+PA%2C+PO+Box+22%2C+Swarthmore%2C+PA+19081",
-"http://twitter.com/leanne4pa",
-"https://delcopa.gov/vote",
-"https://delcopa.gov/vote/ballotdropbox.html",
-"https://leanne4pa.com/",
-"https://leanne4pa.com/how-redistricting-could-alter-control-of-the-pa-legislature-other-changes-to-watch",
-"https://leanne4pa.com/krueger-continues-winning-streak",
-"https://leanne4pa.com/leanne",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/BallotTracking.aspx",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://secure.actblue.com/donate/lkbweb",
-"https://twitter.com/leanne4pa"
+{
+"text": "Apply for a Mail-in Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "Check your Mail-in Ballot status",
+"href": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/lkbweb"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/voteleanne"
+},
+{
+"text": "Find your Election Day polling location",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "How Redistricting Could Alter Control Of The PA Legislature & Other Changes To Watch",
+"href": "https://www.leanne4pa.com/how-redistricting-could-alter-control-of-the-pa-legislature-other-changes-to-watch/"
+},
+{
+"text": "Krueger continues winning streak",
+"href": "https://www.leanne4pa.com/krueger-continues-winning-streak/"
+},
+{
+"text": "Leanne for PA, PO Box 22, Swarthmore, PA 19081",
+"href": "http://maps.google.com/?q=Leanne+for+PA%2C+PO+Box+22%2C+Swarthmore%2C+PA+19081"
+},
+{
+"text": "Meet Leanne",
+"href": "https://www.leanne4pa.com/leanne/"
+},
+{
+"text": "Register to vote",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Tweets by leanne4pa",
+"href": "https://twitter.com/leanne4pa"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/leanne4pa"
+},
+{
+"text": "[image: Leanne Krueger for State Representative]",
+"href": "https://www.leanne4pa.com/"
+},
+{
+"text": "https://delcopa.gov/vote/",
+"href": "https://delcopa.gov/vote/"
+},
+{
+"text": "https://delcopa.gov/vote/ballotdropbox.html",
+"href": "https://delcopa.gov/vote/ballotdropbox.html"
+}
 ]

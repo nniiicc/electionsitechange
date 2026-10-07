@@ -1,12 +1,9 @@
-Meet Mark
-- - - - - - - -
-It continues to be my honor and privilege to represent the people of the 10th Congressional District in the United States House of Representatives.
-At the beginning of each day, I start with one guiding principle, and that is this: I work for YOU, the people of the East Bay.
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu DONATE Meet Mark - - - - - - - - It continues to be my honor and privilege to represent the people of the 10 th Congressional District in the United States House of Representatives.
+At the beginning of each day, I start with one guiding principle, and that is this: I work for YOU , the people of the East Bay.
 I want to continue delivering results for our region and to move our nation forward by growing our economy, creating good paying jobs, ensuring America’s students receive a quality education without being shackled by debt, investing in our nation’s infrastructure, protecting Medicare and Social Security, promoting health care for all, safeguarding the environment, creating sensible gun laws that protect all of us, and making the United States a leader in innovation around the globe.
 Together we can promote our shared progressive values, and we will leave America more just, fair, and equal.
 I thank you for your support.
-About Mark:
-Mark DeSaulnier was sworn in to the 118th Congress in 2023.
+About Mark: Mark DeSaulnier was sworn in to the 118th Congress in 2023.
 He represents California’s 10th Congressional District which includes most of Contra Costa County and parts of Alameda County.
 He serves on three committees including the Committee on Transportation and Infrastructure, the Committee on Education and Labor, where he serves as Ranking Member on Health, Employment, Labor, and Pensions (HELP), as well as serving on the House Committee on Ethics.
 Prior to the 118th Congress, Mark served on the exclusive House Committee on Rules.
@@ -25,3 +22,4 @@ DeSaulnier was a member of both the Teamsters International Union and the Hotel 
 Mark lives in Concord where he raised his sons.
 For most of his career, he was a small business manager and owner of several successful Bay Area restaurants including Henry Africa’s in San Francisco, Santa Fe Bar and Grill with Jeremiah Tower in Berkeley, and TR’s in Concord.
 DeSaulnier is a cancer survivor, an avid runner who has completed twenty-one marathons, an amateur historian, and loves to read.
+Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

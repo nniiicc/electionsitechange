@@ -1,17 +1,10 @@
-Representative Goodwin will be swimmin’ through Abilene on Monday, July 20 with a shoal of Democratic candidates.
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Back to All Events South Plains Swing: Abilene Monday, July 20, 2026 5:00 PM 7:00 PM Abilene Public Library South Branch 4310 Buffalo Gap Road Abilene, Texas, 79606 United States (map) Google Calendar ICS Representative Goodwin will be swimmin’ through Abilene on Monday, July 20 with a shoal of Democratic candidates.
 Doors open at 4:30 PM, event starts at 5:00 PM.
-RSVP here.
+RSVP here .
 You’ll have a chance to meet: Lt.
 Governor nominee Rep.
-Vikki Goodwin
-U.S.
-House District 19 nominee Kyle Rable
-Comptroller nominee Senator Sarah Eckhardt
-AG Commissioner nominee Clayton Tucker
-Railroad Commissioner nominee Rep.
-Jon Rosenthal
-Texas Court of Criminal Appeals Place 9 nominee Holly Taylor
-State Senate District 28 nominee Riley Rodriquez
-Texas House District 71 nominee Diana Luna
-This event is part of the South Plains Swing Tour: Connecting South Plains Voters with Democratic Candidates.
+Vikki Goodwin U.S.
+House District 19 nominee Kyle Rable Comptroller nominee Senator Sarah Eckhardt AG Commissioner nominee Clayton Tucker Railroad Commissioner nominee Rep.
+Jon Rosenthal Texas Court of Criminal Appeals Place 9 nominee Holly Taylor State Senate District 28 nominee Riley Rodriquez Texas House District 71 nominee Diana Luna This event is part of the South Plains Swing Tour: Connecting South Plains Voters with Democratic Candidates.
 The inclusion of any judge or judicial candidate does not constitute an endorsement by that judge or judicial candidate of any other candidate.
+Previous Previous July 19 South Plains Swing: Big Spring Next Next July 21 The People's Hearing Houston Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

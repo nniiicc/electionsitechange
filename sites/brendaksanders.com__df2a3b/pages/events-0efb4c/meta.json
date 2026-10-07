@@ -1,7 +1,12 @@
 {
  "description": "Brenda K. Sanders Campaign Events",
  "final_url": "https://www.brendaksanders.com/events",
- "paid_for_by": null,
+ "fingerprint": "8ad560771f301b9d8038e16dd810d037afeba08d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Brenda K. Sanders Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

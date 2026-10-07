@@ -1,11 +1,42 @@
 [
-"http://tiktok.com/@hopkinsforhouse",
-"https://facebook.com/HopkinsforHouse",
-"https://instagram.com/hopkinsforhouse",
-"https://mobilize.us/evonnehopkinsforhouse",
-"https://ncsbe.gov/voting",
-"https://secure.actblue.com/donate/hopkins-for-house-1",
-"https://secure.actblue.com/donate/hopkinsforhouse",
-"https://secure.ngpvan.com/2HgYv0yp5Eq2nJ4hlz9Y_Q2",
-"https://x.com/hopkinsforhouse"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hopkins-for-house-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hopkinsforhouse"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/2HgYv0yp5Eq2nJ4hlz9Y_Q2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/evonnehopkinsforhouse/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.ncsbe.gov/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/HopkinsforHouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hopkinsforhouse/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@hopkinsforhouse"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/hopkinsforhouse"
+},
+{
+"text": "ella@hopkinsforhouse.com",
+"href": "mailto:ella@hopkinsforhouse.com"
+}
 ]

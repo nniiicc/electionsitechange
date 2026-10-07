@@ -1,11 +1,12 @@
-By U.S.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Philadelphia Inquirer: Trump Weakens America by Overlooking North Korean Human Rights Issues August 30, 2018 August 30, 2018 By U.S.
 Rep.
 Brendan F.
-Boyle
-In 2015, I voted against the Iran nuclear agreement because I disagreed with the strategy of decoupling Iran’s nuclear threat from its other malign activities.
+Boyle In 2015, I voted against the Iran nuclear agreement because I disagreed with the strategy of decoupling Iran’s nuclear threat from its other malign activities.
 President Obama had painstakingly negotiated a credible deal, but I believed that denuclearization of Iran could never truly be achievable without also addressing its gross human rights violations and regionally destabilizing behavior.
 In my view, transparency on issues such as support for terrorism and detention of dissidents serves as a bellwether for a dictatorship’s readiness to disarm peacefully.
-Today, President Trump claims “there is no longer a nuclear threat from North Korea,” but he has accomplished little more than a pinkie-swear with Kim Jung Un.
+Today, President Trump claims “there is no longer a nuclear threat from North Korea,” but he has accomplished little more than a pinkie-swear with Kim Jung Un .
 In fact, he downplayed Kim’s human rights atrocities during the Singapore summit and referred to the North Korean leader as “smart” and beloved by his people.
 There is compelling evidence that the Kim regime runs political prison camps and commits torture, abductions, and forced abortion, among other crimes.
 As many as 120,000 people are likely detained, living under what can only be described as torturous conditions.
@@ -19,7 +20,7 @@ America is stronger when we speak with our values, especially when dealing with 
 Human rights must always be a core tenet of American foreign policy.
 That’s why the way in which we negotiate with regimes like North Korea – and not simply the outcome of those negotiations – ought to be of concern to the American people.
 We must be steadfast and consistent in the principles that truly make America great.
-We are at the beginning of a negotiation, and any President deserves some space to reach a deal.
+We are at the beginning of a negotiation , and any President deserves some space to reach a deal.
 But President Trump’s impulsiveness and apparent willingness to ignore human rights issues demands that Congress play a strong oversight role.
 We must not allow him to compromise our core values for the sake of reaching any deal.
 Our core values are not negotiable.
@@ -29,5 +30,7 @@ I hope Democrats and Republicans will stand together to demand that we not aband
 The ultimate success of any engagement with North Korea will depend upon it.
 Brendan F.
 Boyle is a Democratic member of the U.S.
-House of Representatives, representing Pennsylvania’s 13th Congressional District since Jan. 3, 2015.
-Read the original article here
+House of Representatives, representing Pennsylvania’s 13th Congressional District since Jan.
+3, 2015.
+Read the original article here Northeast Times: Buy American 2.0 Act to Help Create American Jobs CNN: In Syria, is the Worst Yet to Come?
+Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

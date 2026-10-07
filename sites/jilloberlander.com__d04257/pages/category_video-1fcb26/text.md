@@ -1,3 +1,3 @@
-Video
-- Our first ad “The Race” is running!
-I’m running as an independent Democrat — ready to keep housing decisions local, hold the line on taxes, and fight the special interests and corruption…
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Video Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video Video • September 1, 2026 Our first ad “The Race” is running!
+I’m running as an independent Democrat — ready to keep housing decisions local, hold the line on taxes, and fight the special interests and corruption… Read more… CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

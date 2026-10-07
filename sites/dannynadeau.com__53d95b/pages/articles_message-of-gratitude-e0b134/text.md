@@ -1,7 +1,4 @@
-Quick Message of Gratitude on Thanksgiving
-Wednesday, November 26, 2025
-Dear Friends and Neighbors,
-As we approach this season of Thanksgiving, I want to take a moment to express my heartfelt gratitude to all of you.
+Home About Issues Endorsements Articles Events Photos Voting Suburbs Survey Contact Donate Quick Message of Gratitude on Thanksgiving Wednesday, November 26, 2025 Dear Friends and Neighbors, As we approach this season of Thanksgiving, I want to take a moment to express my heartfelt gratitude to all of you.
 This holiday offers us an opportunity to pause, reflect, and give thanks, not just for the comforts in our lives, but for the people who bring the magic to our neighborhoods and communities.
 And this year, I find myself thinking more intentionally about the true meaning of gratitude.
 Gratitude is more than a passive feeling.
@@ -28,5 +25,6 @@ This Thanksgiving, let’s be intentional about our gratitude, not just for the 
 Let’s appreciate the opportunity to sit at someone else’s table and share not just food, but conversation with grace.
 Let us embrace the chance to talk about what matters, to disagree with curiosity not hostility, and to understand that, in the end, it is our shared humanity that unites us.
 May your Thanksgiving be filled with warmth, connection, curiosity, and joy.
-With gratitude,
-Representative Danny Nadeau
+With gratitude, Representative Danny Nadeau Follow Follow Follow Follow Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374 Follow Follow Follow Follow Privacy Policy Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374

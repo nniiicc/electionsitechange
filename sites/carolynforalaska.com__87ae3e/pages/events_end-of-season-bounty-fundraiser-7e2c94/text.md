@@ -1,12 +1,3 @@
-Back to All Events
-Join us for a local harvest, end of season bounty fundraiser for Carolyn Hall, hosted by Kay Brown and Mark Foster.
-Date: Thursday, August 15, 5:30 to 7pm
-Location: The Home of Kay Brown and Mark Foster
-1820 East 24th Avenue
-Previous
-Previous
-July 19
-Carolyn for Alaska Volunteer Event Kick Off
-Next
-Next
-August 19
+0 Skip to Content DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Back to All Events End of Season Bounty Fundraiser Thursday, August 15, 2024 5:30 PM 7:00 PM 1820 East 24th Avenue Anchorage, AK, 99508 United States (map) Google Calendar ICS Join us for a local harvest, end of season bounty fundraiser for Carolyn Hall, hosted by Kay Brown and Mark Foster.
+Date: Thursday, August 15, 5:30 to 7pm Location: The Home of Kay Brown and Mark Foster 1820 East 24th Avenue Source: https://www.facebook.com/events/1506286360289207/ Previous Previous July 19 Carolyn for Alaska Volunteer Event Kick Off Next Next August 19 Monday Evening Sign Waving for Carolyn Hall Connect with us. carolyn@carolynforalaska.com Paid for by Carolyn for Alaska P.O.
+Box 91771, Anchorage, Alaska 99509

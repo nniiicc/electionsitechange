@@ -1,59 +1,402 @@
 [
-"https://abcnews.go.com/Politics/navy-admiral-removed-hegseth-announces-run-congress/story?id=129398751",
-"https://abcnews4.com/news/local/navy-veteran-nancy-lacore-announces-bid-for-congress-in-south-carolinas-1st-district",
-"https://abcnews4.com/news/local/story/admiral-nancy-lacore-to-participate-in-cooper-river-bridge-run-honoring-women-veterans-veteran-congress-usa-america-charleston-south-carolina-lowcountry-news",
-"https://bsky.app/profile/nancylacore.bsky.social",
-"https://cnn.com/2026/03/28/politics/video/admiral-removed-by-hegseth-hes-focused-on-politics-not-personnel-lcl",
-"https://docs.google.com/document/d/1DdH6OMnmDNHIL38Bx3lKJJjAJBIr8xg2/edit",
-"https://docs.google.com/document/d/1h5Hc35H86b0SISsF-GoPQO1qHEWtjd423IHq4mr6YnA/edit?usp=sharing",
-"https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform",
-"https://drive.google.com/drive/folders/1be5xMo9Qe5Rn-FzVH6NvYsVGOYSP-Jju?usp=sharing",
-"https://facebook.com/nancylacore",
-"https://instagram.com/nancylacore",
-"https://live5news.com/2026/01/20/navy-veteran-announces-run-represent-scs-first-congressional-district",
-"https://mobilize.us/nancylacoreforcongress",
-"https://nancylacore.com/",
-"https://nancylacore.com/about-nancy",
-"https://nancylacore.com/cart",
-"https://nancylacore.com/contact",
-"https://nancylacore.com/endorsements",
-"https://nancylacore.com/get-involved",
-"https://nancylacore.com/media",
-"https://nancylacore.com/media//admiral-nancy-lacore-lowcountry-tv-ad",
-"https://nancylacore.com/media//nancy-lacore-lowcountry-endorsements-sc-1",
-"https://nancylacore.com/media//nancy-lacore-mount-pleasant-early-voting",
-"https://nancylacore.com/media/admiral-nancy-lacore-debuts-sc01-general-election-ad",
-"https://nancylacore.com/media/billy-keyserling-endorses-nancy-lacore",
-"https://nancylacore.com/media/cook-political-report-sc01-competitive-nancy-lacore",
-"https://nancylacore.com/media/lacore-laubacher-condemn-dod-failures-uss-lincoln",
-"https://nancylacore.com/media/nancy-lacore-fighting-for-healthcare-ad-release",
-"https://nancylacore.com/media/nancy-lacore-first-tv-ad-sc-01-primary",
-"https://nancylacore.com/media/nancy-lacore-lowcountry-endorsements-sc-01",
-"https://nancylacore.com/media/nancy-lacore-sc-1-primary-results",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-announces-bid-for-congress",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01-dp73p",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe",
-"https://nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe-34p4k",
-"https://nancylacore.com/media/press-release-spencer-wetmore-endorses-nancy-lacore",
-"https://nancylacore.com/media/rep-leon-stavrinakis-endorses-nancy-lacore",
-"https://nancylacore.com/media/secretary-navy-carlos-del-toro-endorses-nancy-lacore-sc01",
-"https://nancylacore.com/priorities",
-"https://nancylacore.com/privacy",
-"https://nancylacore.com/terms-and-conditions",
-"https://nancylacore.com/vote",
-"https://postandcourier.com/politics/mount-pleasant-haynie-lacore-congress-sc/article_f705a213-7cb3-4c88-bd92-f1837664f0f3.html",
-"https://postandcourier.com/politics/navy-nancy-lacore-congress-south-carolina/article_9ab78b5f-8e93-47b4-aa25-2d820221ae74.html",
-"https://scdailygazette.com/briefs/former-navy-reserve-chief-announces-bid-for-scs-1st-district",
-"https://secure.actblue.com/donate/nl-web",
-"https://secure.actblue.com/donate/nl-web?amount=10",
-"https://secure.actblue.com/donate/nl-web?amount=100",
-"https://secure.actblue.com/donate/nl-web?amount=25",
-"https://secure.actblue.com/donate/nl-web?amount=250",
-"https://secure.actblue.com/donate/nl-web?amount=50",
-"https://tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI",
-"https://washingtonexaminer.com/news/campaigns/congressional/4426227/top-navy-official-fired-by-hegseth-running-mace-seat-south-carolina",
-"https://wtoc.com/2026/01/20/navy-veteran-announces-campaign-congress-south-carolinas-first-district",
-"https://x.com/nancylacore?s=21"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/nl-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nl-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nl-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nl-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nl-web?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.nancylacore.com/cart"
+},
+{
+"text": "78th Secretary of the United States Navy and Marine Corps Endorses RADM Nancy Lacore for Congress in SC-01",
+"href": "https://www.nancylacore.com/media/secretary-navy-carlos-del-toro-endorses-nancy-lacore-sc01"
+},
+{
+"text": "About Nancy",
+"href": "https://www.nancylacore.com/about-nancy"
+},
+{
+"text": "Additional resources",
+"href": "https://docs.google.com/document/d/1DdH6OMnmDNHIL38Bx3lKJJjAJBIr8xg2/edit"
+},
+{
+"text": "Admiral Nancy Lacore Earns the Most Votes In Democratic Primary for South Carolina’s First Congressional District",
+"href": "https://www.nancylacore.com/media/nancy-lacore-sc-1-primary-results"
+},
+{
+"text": "Admiral Nancy Lacore Releases First Television Ad of SC-01 Democratic Primary",
+"href": "https://www.nancylacore.com/media/nancy-lacore-first-tv-ad-sc-01-primary"
+},
+{
+"text": "Admiral Nancy Lacore Releases New Wave of Lowcountry Endorsements Ahead of June 9 Democratic Primary Election",
+"href": "https://www.nancylacore.com/media//nancy-lacore-lowcountry-endorsements-sc-1"
+},
+{
+"text": "Admiral Nancy Lacore Releases “The Lowcountry,” Second Television Ad of SC-01 Democratic Primary",
+"href": "https://www.nancylacore.com/media//admiral-nancy-lacore-lowcountry-tv-ad"
+},
+{
+"text": "Admiral Nancy Lacore to participate in Cooper River Bridge Run, honoring women veterans",
+"href": "https://abcnews4.com/news/local/story/admiral-nancy-lacore-to-participate-in-cooper-river-bridge-run-honoring-women-veterans-veteran-congress-usa-america-charleston-south-carolina-lowcountry-news"
+},
+{
+"text": "Admiral removed by Hegseth: 'He’s focused on politics not personnel'",
+"href": "https://www.cnn.com/2026/03/28/politics/video/admiral-removed-by-hegseth-hes-focused-on-politics-not-personnel-lcl"
+},
+{
+"text": "Back",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.nancylacore.com/contact"
+},
+{
+"text": "Cook Political Report Moves SC-01 Toward Competitive Territory, Cites Nancy Lacore’s Fundraising Strength",
+"href": "https://www.nancylacore.com/media/cook-political-report-sc01-competitive-nancy-lacore"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancylacore.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.nancylacore.com/get-involved"
+},
+{
+"text": "Former Navy Reserve chief announces bid for SC’s 1st District",
+"href": "https://scdailygazette.com/briefs/former-navy-reserve-chief-announces-bid-for-scs-1st-district/"
+},
+{
+"text": "Home",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform"
+},
+{
+"text": "Media",
+"href": "https://www.nancylacore.com/media"
+},
+{
+"text": "More Lowcountry Leaders Endorse Rear Admiral Nancy Lacore for U.S. Congress",
+"href": "https://www.nancylacore.com/media/nancy-lacore-lowcountry-endorsements-sc-01"
+},
+{
+"text": "Mount Pleasant mayor crosses party line, endorses Democrat Nancy Lacore for local seat in Congress",
+"href": "https://www.postandcourier.com/politics/mount-pleasant-haynie-lacore-congress-sc/article_f705a213-7cb3-4c88-bd92-f1837664f0f3.html"
+},
+{
+"text": "Navy Veteran Nancy Lacore Announces Campaign for Congress in SC-01",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-announces-bid-for-congress"
+},
+{
+"text": "Navy Veteran Nancy Lacore Officially Files to Appear on the Ballot in SC-01",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01"
+},
+{
+"text": "Navy Veteran Nancy Lacore Raises Over $250K in First 24 Hours, Nearly Double Entire Primary Field Combined",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours"
+},
+{
+"text": "Navy admiral removed by Hegseth announces run for Congress",
+"href": "https://abcnews.go.com/Politics/navy-admiral-removed-hegseth-announces-run-congress/story?id=129398751"
+},
+{
+"text": "Navy veteran Nancy Lacore announces bid for Congress in South Carolina's 1st District",
+"href": "https://abcnews4.com/news/local/navy-veteran-nancy-lacore-announces-bid-for-congress-in-south-carolinas-1st-district"
+},
+{
+"text": "Navy veteran announces campaign for Congress in South Carolina’s First District",
+"href": "https://www.wtoc.com/2026/01/20/navy-veteran-announces-campaign-congress-south-carolinas-first-district/"
+},
+{
+"text": "Navy veteran announces run to represent SC’s First Congressional District",
+"href": "https://www.live5news.com/2026/01/20/navy-veteran-announces-run-represent-scs-first-congressional-district/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Priorities",
+"href": "https://www.nancylacore.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nancylacore.com/privacy"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media//admiral-nancy-lacore-lowcountry-tv-ad"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media//nancy-lacore-lowcountry-endorsements-sc-1"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media//nancy-lacore-mount-pleasant-early-voting"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/admiral-nancy-lacore-debuts-sc01-general-election-ad"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/billy-keyserling-endorses-nancy-lacore"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/cook-political-report-sc01-competitive-nancy-lacore"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/lacore-laubacher-condemn-dod-failures-uss-lincoln"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/nancy-lacore-fighting-for-healthcare-ad-release"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/nancy-lacore-first-tv-ad-sc-01-primary"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/nancy-lacore-lowcountry-endorsements-sc-01"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/nancy-lacore-sc-1-primary-results"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-announces-bid-for-congress"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01-dp73p"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe-34p4k"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/press-release-spencer-wetmore-endorses-nancy-lacore"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/rep-leon-stavrinakis-endorses-nancy-lacore"
+},
+{
+"text": "Read More",
+"href": "https://www.nancylacore.com/media/secretary-navy-carlos-del-toro-endorses-nancy-lacore-sc01"
+},
+{
+"text": "Rear Admiral (Ret.) Nancy Lacore Centers Family Health Care Struggle in New Ad on Costs, Corruption",
+"href": "https://www.nancylacore.com/media/nancy-lacore-fighting-for-healthcare-ad-release"
+},
+{
+"text": "Rear Admiral (Ret.) Nancy Lacore Highlights Military Service Record in First Ad of SC-01 General Election Fight",
+"href": "https://www.nancylacore.com/media/admiral-nancy-lacore-debuts-sc01-general-election-ad"
+},
+{
+"text": "Rear Admiral Nancy Lacore Announces State Rep. Leon Stavrinakis Endorsement as Runoff Coalition Continues to Grow",
+"href": "https://www.nancylacore.com/media/rep-leon-stavrinakis-endorses-nancy-lacore"
+},
+{
+"text": "Rear Admiral Nancy Lacore Casts Ballot in Mount Pleasant on First Day of Early Voting, Speaks Out Against Mid-Election Redistricting Effort",
+"href": "https://www.nancylacore.com/media//nancy-lacore-mount-pleasant-early-voting"
+},
+{
+"text": "Rear Admiral Nancy Lacore Expands Growing Lowcountry Coalition with Endorsement From Former Beaufort Mayor Billy Keyserling",
+"href": "https://www.nancylacore.com/media/billy-keyserling-endorses-nancy-lacore"
+},
+{
+"text": "Rear Admiral Nancy Lacore, Ret., Raises $1 Million in First Quarter, Establishes Early Strength in SC-01",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01-dp73p"
+},
+{
+"text": "Retired Rear Admirals Nancy Lacore and Eileen Laubacher Condemn Department of Defense Failures Amid USS Lincoln’s Extended Deployment",
+"href": "https://www.nancylacore.com/media/lacore-laubacher-condemn-dod-failures-uss-lincoln"
+},
+{
+"text": "SC-01 Candidate Nancy Lacore Announces Over $# Raised in Two Weeks",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe"
+},
+{
+"text": "SC-01 Candidate Nancy Lacore Brings in Donations from More Than 10,000 Individuals in Under # Days",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe-34p4k"
+},
+{
+"text": "State Representative Spencer Wetmore Endorses Rear Admiral Nancy Lacore for Congress",
+"href": "https://www.nancylacore.com/media/press-release-spencer-wetmore-endorses-nancy-lacore"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.nancylacore.com/terms-and-conditions"
+},
+{
+"text": "Top Navy official fired by Hegseth running for Mace’s seat in South Carolina",
+"href": "https://www.washingtonexaminer.com/news/campaigns/congressional/4426227/top-navy-official-fired-by-hegseth-running-mace-seat-south-carolina/"
+},
+{
+"text": "View Media Kit",
+"href": "https://drive.google.com/drive/folders/1be5xMo9Qe5Rn-FzVH6NvYsVGOYSP-Jju?usp=sharing"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/nancylacoreforcongress/%20"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.nancylacore.com/vote"
+},
+{
+"text": "[image: 78th Secretary of the United States Navy and Marine Corps Endorses RADM Nancy Lacore for Congress in SC-01]",
+"href": "https://www.nancylacore.com/media/secretary-navy-carlos-del-toro-endorses-nancy-lacore-sc01"
+},
+{
+"text": "[image: Admiral Nancy Lacore Earns the Most Votes In Democratic Primary for South Carolina’s First Congressional District]",
+"href": "https://www.nancylacore.com/media/nancy-lacore-sc-1-primary-results"
+},
+{
+"text": "[image: Admiral Nancy Lacore Releases First Television Ad of SC-01 Democratic Primary]",
+"href": "https://www.nancylacore.com/media/nancy-lacore-first-tv-ad-sc-01-primary"
+},
+{
+"text": "[image: Admiral Nancy Lacore Releases New Wave of Lowcountry Endorsements Ahead of June 9 Democratic Primary Election]",
+"href": "https://www.nancylacore.com/media//nancy-lacore-lowcountry-endorsements-sc-1"
+},
+{
+"text": "[image: Admiral Nancy Lacore Releases “The Lowcountry,” Second Television Ad of SC-01 Democratic Primary]",
+"href": "https://www.nancylacore.com/media//admiral-nancy-lacore-lowcountry-tv-ad"
+},
+{
+"text": "[image: Cook Political Report Moves SC-01 Toward Competitive Territory, Cites Nancy Lacore’s Fundraising Strength]",
+"href": "https://www.nancylacore.com/media/cook-political-report-sc01-competitive-nancy-lacore"
+},
+{
+"text": "[image: More Lowcountry Leaders Endorse Rear Admiral Nancy Lacore for U.S. Congress]",
+"href": "https://www.nancylacore.com/media/nancy-lacore-lowcountry-endorsements-sc-01"
+},
+{
+"text": "[image: Nancy Lacore for Congress ]",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "[image: Navy Veteran Nancy Lacore Announces Campaign for Congress in SC-01]",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-announces-bid-for-congress"
+},
+{
+"text": "[image: Navy Veteran Nancy Lacore Officially Files to Appear on the Ballot in SC-01]",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01"
+},
+{
+"text": "[image: Navy Veteran Nancy Lacore Raises Over $250K in First 24 Hours, Nearly Double Entire Primary Field Combined]",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours"
+},
+{
+"text": "[image: Rear Admiral (Ret.) Nancy Lacore Centers Family Health Care Struggle in New Ad on Costs, Corruption]",
+"href": "https://www.nancylacore.com/media/nancy-lacore-fighting-for-healthcare-ad-release"
+},
+{
+"text": "[image: Rear Admiral (Ret.) Nancy Lacore Highlights Military Service Record in First Ad of SC-01 General Election Fight]",
+"href": "https://www.nancylacore.com/media/admiral-nancy-lacore-debuts-sc01-general-election-ad"
+},
+{
+"text": "[image: Rear Admiral Nancy Lacore Announces State Rep. Leon Stavrinakis Endorsement as Runoff Coalition Continues to Grow]",
+"href": "https://www.nancylacore.com/media/rep-leon-stavrinakis-endorses-nancy-lacore"
+},
+{
+"text": "[image: Rear Admiral Nancy Lacore Casts Ballot in Mount Pleasant on First Day of Early Voting, Speaks Out Against Mid-Election Redistricting Effort]",
+"href": "https://www.nancylacore.com/media//nancy-lacore-mount-pleasant-early-voting"
+},
+{
+"text": "[image: Rear Admiral Nancy Lacore Expands Growing Lowcountry Coalition with Endorsement From Former Beaufort Mayor Billy Keyserling]",
+"href": "https://www.nancylacore.com/media/billy-keyserling-endorses-nancy-lacore"
+},
+{
+"text": "[image: Rear Admiral Nancy Lacore, Ret., Raises $1 Million in First Quarter, Establishes Early Strength in SC-01]",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-officially-files-to-appear-on-the-ballot-in-sc-01-dp73p"
+},
+{
+"text": "[image: Retired Rear Admirals Nancy Lacore and Eileen Laubacher Condemn Department of Defense Failures Amid USS Lincoln’s Extended Deployment]",
+"href": "https://www.nancylacore.com/media/lacore-laubacher-condemn-dod-failures-uss-lincoln"
+},
+{
+"text": "[image: SC-01 Candidate Nancy Lacore Announces Over $500,000 Raised in Two Weeks]",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe"
+},
+{
+"text": "[image: SC-01 Candidate Nancy Lacore Brings in Donations from More Than 10,000 Individuals in Under 10 Days]",
+"href": "https://www.nancylacore.com/media/navy-veteran-nancy-lacore-raises-over-250k-in-first-24-hours-smhpe-34p4k"
+},
+{
+"text": "[image: State Representative Spencer Wetmore Endorses Rear Admiral Nancy Lacore for Congress]",
+"href": "https://www.nancylacore.com/media/press-release-spencer-wetmore-endorses-nancy-lacore"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nancylacore.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancylacore"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nancylacore/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/nancylacore?s=21"
+},
+{
+"text": "these zipcodes",
+"href": "https://docs.google.com/document/d/1h5Hc35H86b0SISsF-GoPQO1qHEWtjd423IHq4mr6YnA/edit?usp=sharing"
+},
+{
+"text": "‘I’m not done yet:’ Fired Navy leader enters coastal SC congressional race as a Democrat",
+"href": "https://www.postandcourier.com/politics/navy-nancy-lacore-congress-south-carolina/article_9ab78b5f-8e93-47b4-aa25-2d820221ae74.html"
+}
 ]

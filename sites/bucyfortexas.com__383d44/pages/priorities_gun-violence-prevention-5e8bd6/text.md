@@ -1,11 +1,7 @@
-Gun violence must be treated like a public health crisis.
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Gun Violence Prevention Posted on April 2, 2019 May 25, 2022 by John Bucy Campaign Gun violence must be treated like a public health crisis.
 I was a student in high school when Columbine happened.
 I remember the shock and horror but also the fear that this could happen in my own community.
 In 20 years, it seems like nothing has changed except that more and more communities have suffered a similar fate.
 As a society, we must say enough is enough.
-I support common sense gun safety measures, including:
-- universal background checks
-- closing the gun show and private sales loopholes
-- red flag laws
-- restoring the federal prohibition on the sale of assault weapons
-- repealing campus carry and permit-less carry of handguns
+I support common sense gun safety measures, including: universal background checks closing the gun show and private sales loopholes red flag laws restoring the federal prohibition on the sale of assault weapons repealing campus carry and permit-less carry of handguns Posted in Priorities Categories Awards Bucy Bulletin Events Press Releases Priorities Town Hall Uncategorized Voting Information Archives July 2025 June 2025 January 2025 May 2024 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 January 2022 December 2021 July 2021 June 2021 November 2020 October 2020 September 2020 July 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 Post navigation Bucy Bulletin: March 2019 Criminal Justice Reform Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns

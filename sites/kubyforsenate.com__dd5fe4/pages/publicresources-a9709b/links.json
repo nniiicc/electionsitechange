@@ -1,13 +1,46 @@
 [
-"https://azleg.gov/legtext/55leg/2R/laws/0105.pdf",
-"https://azleg.gov/legtext/55leg/2R/laws/0388.pdf",
-"https://campaigndetective.com/view/611",
-"https://kubyforsenate.com/cart",
-"https://kubyforsenate.com/endorsements",
-"https://kubyforsenate.com/record",
-"https://pro.stateaffairs.com/az/yellow-sheet/elections/nardozzi-kaiser-housing-alliance",
-"https://seethemoney.az.gov/PublicReports/2026/3DB72443-92D9-4CBA-B387-EA7D18808614.pdf",
-"https://seethemoney.az.gov/PublicReports/2026/764FBA02-51E7-4E17-B450-6E6F7476215C.pdf",
-"https://seethemoney.az.gov/PublicReports/2026/91FF8A2B-0A5E-4159-BB04-3629D00E21A5.pdf",
-"https://seethemoney.az.gov/Reporting/Explore"
+{
+"text": "0",
+"href": "https://www.kubyforsenate.com/cart"
+},
+{
+"text": "Arizona Values Fund",
+"href": "https://seethemoney.az.gov/PublicReports/2026/3DB72443-92D9-4CBA-B387-EA7D18808614.pdf"
+},
+{
+"text": "HB 2853",
+"href": "https://www.azleg.gov/legtext/55leg/2R/laws/0388.pdf"
+},
+{
+"text": "Responsible Tourism Coalition",
+"href": "https://seethemoney.az.gov/PublicReports/2026/764FBA02-51E7-4E17-B450-6E6F7476215C.pdf"
+},
+{
+"text": "SB 1164",
+"href": "https://www.azleg.gov/legtext/55leg/2R/laws/0105.pdf"
+},
+{
+"text": "campaign contributions",
+"href": "https://seethemoney.az.gov/Reporting/Explore#JurisdictionId=0%7CPage=11%7CstartYear=2025%7CendYear=2026%7CIsLessActive=false%7CShowOfficeHolder=false%7CView=Detail%7CName=1~101862%7CTablePage=1%7CTableLength=10"
+},
+{
+"text": "endorsements",
+"href": "https://www.kubyforsenate.com/endorsements"
+},
+{
+"text": "independent expenditure",
+"href": "https://campaigndetective.com/view/611/"
+},
+{
+"text": "independent expenditure",
+"href": "https://seethemoney.az.gov/PublicReports/2026/91FF8A2B-0A5E-4159-BB04-3629D00E21A5.pdf"
+},
+{
+"text": "knocking doors",
+"href": "https://pro.stateaffairs.com/az/yellow-sheet/elections/nardozzi-kaiser-housing-alliance"
+},
+{
+"text": "record",
+"href": "https://www.kubyforsenate.com/record"
+}
 ]

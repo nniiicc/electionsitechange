@@ -1,41 +1,4 @@
-Skip to content
-Search for:
-About
-District 144
-Priorities
-Endorsements
-Volunteer
-Donate
-Search for:
-About
-District 144
-Priorities
-Endorsements
-Volunteer
-Donate
-About
-District 144
-Priorities
-Endorsements
-Volunteer
-Donate
-Search for:
-Texas House District 144
-Texas House District 144
-Home
-Texas House District 144
-Texas House District 144
-districtadmin
-2020-08-18T18:20:29-05:00
-Download District 144 Map
-Click here to find out if you live in House District 144.
-STAY INFORMED
-With The Latest Community News
-First Name
-*
-Last Name
-Email
-*
-Δ
-Page load link
-Go to Top
+Skip to content Search for: About District 144 Priorities Endorsements Volunteer Donate Search for: About District 144 Priorities Endorsements Volunteer Donate About District 144 Priorities Endorsements Volunteer Donate Search for: Texas House District 144 Texas House District 144 Home Texas House District 144 Texas House District 144 districtadmin 2020-08-18T18:20:29-05:00 Download District 144 Map Click here to find out if you live in House District 144.
+STAY INFORMED With The Latest Community News First Name * Last Name Email * Subscribe Δ Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
+Adv.
+Paid for by the Mary Ann Perez Campaign | Privacy Policy Page load link Go to Top

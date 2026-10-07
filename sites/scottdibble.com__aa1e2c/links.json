@@ -1,10 +1,54 @@
 [
-"https://facebook.com/d.scott.dibble",
-"https://scottdibble.com/",
-"https://scottdibble.com/endorsements",
-"https://scottdibble.com/meet-scott",
-"https://scottdibble.com/record",
-"https://scottdibble.com/search",
-"https://scottdibble.com/vision",
-"https://secure.actblue.com/contribute/page/scottdibble"
+{
+"text": "Contact",
+"href": "mailto:scott@scottdibble.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/scottdibble"
+},
+{
+"text": "Donate at ActBlue",
+"href": "https://secure.actblue.com/contribute/page/scottdibble"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scottdibble.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/d.scott.dibble"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.scottdibble.com/meet-scott"
+},
+{
+"text": "Record",
+"href": "https://www.scottdibble.com/record"
+},
+{
+"text": "Scott on Facebook",
+"href": "https://www.facebook.com/d.scott.dibble"
+},
+{
+"text": "Scott's Record",
+"href": "https://www.scottdibble.com/record"
+},
+{
+"text": "Scott's Vision",
+"href": "https://www.scottdibble.com/vision"
+},
+{
+"text": "Vision",
+"href": "https://www.scottdibble.com/vision"
+},
+{
+"text": "[image: Scott Dibble for Minnesota Senate]",
+"href": "https://www.scottdibble.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.scottdibble.com/search"
+}
 ]

@@ -1,77 +1,314 @@
 [
-"http://gobrinkman.com/wp-content/uploads/2015/12/Sponsor-Testimony-on-HB377-12-1-15.pdf",
-"https://gobrinkman.com/",
-"https://gobrinkman.com/2013/08",
-"https://gobrinkman.com/2014/03",
-"https://gobrinkman.com/2014/04",
-"https://gobrinkman.com/2014/05",
-"https://gobrinkman.com/2014/06",
-"https://gobrinkman.com/2014/07",
-"https://gobrinkman.com/2014/08",
-"https://gobrinkman.com/2014/09",
-"https://gobrinkman.com/2014/10",
-"https://gobrinkman.com/2014/11",
-"https://gobrinkman.com/2014/12",
-"https://gobrinkman.com/2015/01",
-"https://gobrinkman.com/2015/02",
-"https://gobrinkman.com/2015/03",
-"https://gobrinkman.com/2015/04",
-"https://gobrinkman.com/2015/05",
-"https://gobrinkman.com/2015/06",
-"https://gobrinkman.com/2015/10",
-"https://gobrinkman.com/2015/12",
-"https://gobrinkman.com/2016/01",
-"https://gobrinkman.com/2016/03",
-"https://gobrinkman.com/2016/04",
-"https://gobrinkman.com/2016/08",
-"https://gobrinkman.com/2016/09",
-"https://gobrinkman.com/2016/11",
-"https://gobrinkman.com/2017/01",
-"https://gobrinkman.com/2017/03",
-"https://gobrinkman.com/2018/01",
-"https://gobrinkman.com/2018/02",
-"https://gobrinkman.com/2018/05",
-"https://gobrinkman.com/2018/06",
-"https://gobrinkman.com/2018/07",
-"https://gobrinkman.com/2018/10",
-"https://gobrinkman.com/2018/11",
-"https://gobrinkman.com/2019/05",
-"https://gobrinkman.com/2019/11",
-"https://gobrinkman.com/2020/05",
-"https://gobrinkman.com/2020/07",
-"https://gobrinkman.com/2020/08",
-"https://gobrinkman.com/2022/04",
-"https://gobrinkman.com/2022/07",
-"https://gobrinkman.com/2022/08",
-"https://gobrinkman.com/2022/09",
-"https://gobrinkman.com/2022/10",
-"https://gobrinkman.com/2022/11",
-"https://gobrinkman.com/about-tom",
-"https://gobrinkman.com/accomplishments",
-"https://gobrinkman.com/author/admin",
-"https://gobrinkman.com/blog",
-"https://gobrinkman.com/brinkman-gives-sponsor-testimony-for-ohios-right-to-work-legislation",
-"https://gobrinkman.com/category/freedom",
-"https://gobrinkman.com/category/right-to-work",
-"https://gobrinkman.com/contact-us",
-"https://gobrinkman.com/contribute",
-"https://gobrinkman.com/countmein",
-"https://gobrinkman.com/economic-and-personal-liberty",
-"https://gobrinkman.com/endorsements",
-"https://gobrinkman.com/home",
-"https://gobrinkman.com/issues",
-"https://gobrinkman.com/join-us",
-"https://gobrinkman.com/neighborhoods",
-"https://gobrinkman.com/neighborhoods-old",
-"https://gobrinkman.com/pro-life-legislation",
-"https://gobrinkman.com/request-vote-by-mail-application",
-"https://gobrinkman.com/tag/freedom",
-"https://gobrinkman.com/tag/legislation",
-"https://gobrinkman.com/tag/right-to-work",
-"https://gobrinkman.com/wp-login.php",
-"https://japanesejav.com/\u30a8\u30c3\u30c1-\u52d5\u753b",
-"https://maxpornogratis.com/footjob",
-"https://pornofun.com/",
-"https://pornotarado.com/categorias",
-"https://wordpress.org/"
+{
+"text": "About Tom",
+"href": "https://gobrinkman.com/about-tom/"
+},
+{
+"text": "Accomplishments",
+"href": "https://gobrinkman.com/accomplishments/"
+},
+{
+"text": "April 2014",
+"href": "https://gobrinkman.com/2014/04/"
+},
+{
+"text": "April 2015",
+"href": "https://gobrinkman.com/2015/04/"
+},
+{
+"text": "April 2016",
+"href": "https://gobrinkman.com/2016/04/"
+},
+{
+"text": "April 2022",
+"href": "https://gobrinkman.com/2022/04/"
+},
+{
+"text": "August 2013",
+"href": "https://gobrinkman.com/2013/08/"
+},
+{
+"text": "August 2014",
+"href": "https://gobrinkman.com/2014/08/"
+},
+{
+"text": "August 2016",
+"href": "https://gobrinkman.com/2016/08/"
+},
+{
+"text": "August 2020",
+"href": "https://gobrinkman.com/2020/08/"
+},
+{
+"text": "August 2022",
+"href": "https://gobrinkman.com/2022/08/"
+},
+{
+"text": "Brinkman Gives Sponsor Testimony for Ohio’s Right to Work Legislation",
+"href": "https://gobrinkman.com/brinkman-gives-sponsor-testimony-for-ohios-right-to-work-legislation/"
+},
+{
+"text": "Contact Us",
+"href": "https://gobrinkman.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://gobrinkman.com/contribute/"
+},
+{
+"text": "CountMeIn",
+"href": "https://gobrinkman.com/countmein/"
+},
+{
+"text": "December 1, 2015",
+"href": "https://gobrinkman.com/brinkman-gives-sponsor-testimony-for-ohios-right-to-work-legislation/"
+},
+{
+"text": "December 2014",
+"href": "https://gobrinkman.com/2014/12/"
+},
+{
+"text": "December 2015",
+"href": "https://gobrinkman.com/2015/12/"
+},
+{
+"text": "Economic and Personal Liberty",
+"href": "https://gobrinkman.com/economic-and-personal-liberty/"
+},
+{
+"text": "Endorsements",
+"href": "https://gobrinkman.com/endorsements/"
+},
+{
+"text": "February 2015",
+"href": "https://gobrinkman.com/2015/02/"
+},
+{
+"text": "February 2018",
+"href": "https://gobrinkman.com/2018/02/"
+},
+{
+"text": "Go Brinkman",
+"href": "https://gobrinkman.com/"
+},
+{
+"text": "Home",
+"href": "https://gobrinkman.com/"
+},
+{
+"text": "Home",
+"href": "https://gobrinkman.com/home/"
+},
+{
+"text": "Issues",
+"href": "https://gobrinkman.com/issues/"
+},
+{
+"text": "January 2015",
+"href": "https://gobrinkman.com/2015/01/"
+},
+{
+"text": "January 2016",
+"href": "https://gobrinkman.com/2016/01/"
+},
+{
+"text": "January 2017",
+"href": "https://gobrinkman.com/2017/01/"
+},
+{
+"text": "January 2018",
+"href": "https://gobrinkman.com/2018/01/"
+},
+{
+"text": "Join Us",
+"href": "https://gobrinkman.com/join-us/"
+},
+{
+"text": "July 2014",
+"href": "https://gobrinkman.com/2014/07/"
+},
+{
+"text": "July 2018",
+"href": "https://gobrinkman.com/2018/07/"
+},
+{
+"text": "July 2020",
+"href": "https://gobrinkman.com/2020/07/"
+},
+{
+"text": "July 2022",
+"href": "https://gobrinkman.com/2022/07/"
+},
+{
+"text": "June 2014",
+"href": "https://gobrinkman.com/2014/06/"
+},
+{
+"text": "June 2015",
+"href": "https://gobrinkman.com/2015/06/"
+},
+{
+"text": "June 2018",
+"href": "https://gobrinkman.com/2018/06/"
+},
+{
+"text": "Log in",
+"href": "https://gobrinkman.com/wp-login.php"
+},
+{
+"text": "March 2014",
+"href": "https://gobrinkman.com/2014/03/"
+},
+{
+"text": "March 2015",
+"href": "https://gobrinkman.com/2015/03/"
+},
+{
+"text": "March 2016",
+"href": "https://gobrinkman.com/2016/03/"
+},
+{
+"text": "March 2017",
+"href": "https://gobrinkman.com/2017/03/"
+},
+{
+"text": "May 2014",
+"href": "https://gobrinkman.com/2014/05/"
+},
+{
+"text": "May 2015",
+"href": "https://gobrinkman.com/2015/05/"
+},
+{
+"text": "May 2018",
+"href": "https://gobrinkman.com/2018/05/"
+},
+{
+"text": "May 2019",
+"href": "https://gobrinkman.com/2019/05/"
+},
+{
+"text": "May 2020",
+"href": "https://gobrinkman.com/2020/05/"
+},
+{
+"text": "Neighborhoods",
+"href": "https://gobrinkman.com/neighborhoods/"
+},
+{
+"text": "Neighborhoods Old",
+"href": "https://gobrinkman.com/neighborhoods-old/"
+},
+{
+"text": "November 2014",
+"href": "https://gobrinkman.com/2014/11/"
+},
+{
+"text": "November 2016",
+"href": "https://gobrinkman.com/2016/11/"
+},
+{
+"text": "November 2018",
+"href": "https://gobrinkman.com/2018/11/"
+},
+{
+"text": "November 2019",
+"href": "https://gobrinkman.com/2019/11/"
+},
+{
+"text": "November 2022",
+"href": "https://gobrinkman.com/2022/11/"
+},
+{
+"text": "October 2014",
+"href": "https://gobrinkman.com/2014/10/"
+},
+{
+"text": "October 2015",
+"href": "https://gobrinkman.com/2015/10/"
+},
+{
+"text": "October 2018",
+"href": "https://gobrinkman.com/2018/10/"
+},
+{
+"text": "October 2022",
+"href": "https://gobrinkman.com/2022/10/"
+},
+{
+"text": "Pro Life Legislation",
+"href": "https://gobrinkman.com/pro-life-legislation/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Request Vote by Mail Application",
+"href": "https://gobrinkman.com/request-vote-by-mail-application/"
+},
+{
+"text": "Right to Work",
+"href": "https://gobrinkman.com/category/right-to-work/"
+},
+{
+"text": "September 2014",
+"href": "https://gobrinkman.com/2014/09/"
+},
+{
+"text": "September 2016",
+"href": "https://gobrinkman.com/2016/09/"
+},
+{
+"text": "September 2022",
+"href": "https://gobrinkman.com/2022/09/"
+},
+{
+"text": "What’s New",
+"href": "https://gobrinkman.com/blog/"
+},
+{
+"text": "[image: Go Brinkman]",
+"href": "https://gobrinkman.com/"
+},
+{
+"text": "[image: rtw testimony][image: rtw testimony]",
+"href": "http://gobrinkman.com/wp-content/uploads/2015/12/Sponsor-Testimony-on-HB377-12-1-15.pdf"
+},
+{
+"text": "admin",
+"href": "https://gobrinkman.com/author/admin/"
+},
+{
+"text": "freedom",
+"href": "https://gobrinkman.com/category/freedom/"
+},
+{
+"text": "freedom",
+"href": "https://gobrinkman.com/tag/freedom/"
+},
+{
+"text": "legislation",
+"href": "https://gobrinkman.com/tag/legislation/"
+},
+{
+"text": "nhentai footjob",
+"href": "https://maxpornogratis.com/footjob/"
+},
+{
+"text": "porno",
+"href": "https://pornofun.com"
+},
+{
+"text": "porno por categorias",
+"href": "https://pornotarado.com/categorias/"
+},
+{
+"text": "right to work",
+"href": "https://gobrinkman.com/tag/right-to-work/"
+},
+{
+"text": "無料 エッチ 動画",
+"href": "https://japanesejav.com/%E3%82%A8%E3%83%83%E3%83%81-%E5%8B%95%E7%94%BB/"
+}
 ]

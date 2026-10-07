@@ -1,9 +1,46 @@
 [
-"https://amygaley.com/",
-"https://amygaley.com/contact",
-"https://amygaley.com/donate",
-"https://amygaley.com/privacy-policy",
-"https://facebook.com/alamanceamy",
-"https://instagram.com/amy_scott_galey",
-"https://twitter.com/amyscottgaley"
+{
+"text": "CONTACT",
+"href": "https://amygaley.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://amygaley.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/alamanceamy/"
+},
+{
+"text": "Home",
+"href": "https://amygaley.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/amy_scott_galey/%20"
+},
+{
+"text": "Issues",
+"href": "https://amygaley.com/#issues"
+},
+{
+"text": "Meet Amy",
+"href": "https://amygaley.com/#meet-amy"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://amygaley.com/privacy-policy"
+},
+{
+"text": "X",
+"href": "https://twitter.com/amyscottgaley"
+},
+{
+"text": "[image: Amy Galey]",
+"href": "https://amygaley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://amygaley.com/"
+}
 ]

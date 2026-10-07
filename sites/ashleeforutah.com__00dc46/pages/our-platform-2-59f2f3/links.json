@@ -1,49 +1,194 @@
 [
-"http://ashleeforutah.com/",
-"https://ashleeforutah.com/",
-"https://ashleeforutah.com/about-ashlee",
-"https://ashleeforutah.com/contact",
-"https://ashleeforutah.com/endorsements",
-"https://ashleeforutah.com/new-district-boundaries",
-"https://ashleeforutah.com/our-platform-2",
-"https://ashleeforutah.com/volunteer",
-"https://facebook.com/AshleeforUtah",
-"https://le.utah.gov/Session/2021/bills/static/HB0093.html",
-"https://le.utah.gov/Session/2021/bills/static/HB0277.html",
-"https://le.utah.gov/Session/2022/bills/static/HB0032.html",
-"https://le.utah.gov/Session/2022/bills/static/HB0121.html",
-"https://le.utah.gov/Session/2022/bills/static/HB0173.html",
-"https://le.utah.gov/Session/2022/bills/static/HB0396.html",
-"https://le.utah.gov/Session/2022/bills/static/HB0410.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0181.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0267.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0311.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0332.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0415.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0477.html",
-"https://le.utah.gov/Session/2023/bills/static/HB0539.html",
-"https://le.utah.gov/Session/2023/bills/static/SB0025.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0066.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0192.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0210.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0403.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0418.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0432.html",
-"https://le.utah.gov/Session/2024/bills/static/HB0461.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0065.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0161.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0248.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0251.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0258.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0382.html",
-"https://le.utah.gov/Session/2025/bills/static/HB0547.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0190.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0247.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0299.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0329.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0390.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0531.html",
-"https://le.utah.gov/Session/2026/bills/static/SB0038.html",
-"https://secure.actblue.com/donate/ashlee-matthews-for-utah-1",
-"https://twitter.com/AshleeUT38"
+{
+"text": "About Me",
+"href": "https://www.ashleeforutah.com/about-ashlee/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleeforutah.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ashlee-matthews-for-utah-1"
+},
+{
+"text": "District 37 Boundaries",
+"href": "https://www.ashleeforutah.com/new-district-boundaries/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleeforutah.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AshleeforUtah"
+},
+{
+"text": "HB 121",
+"href": "https://le.utah.gov/Session/2022/bills/static/HB0121.html"
+},
+{
+"text": "HB 173",
+"href": "https://le.utah.gov/Session/2022/bills/static/HB0173.html"
+},
+{
+"text": "HB 190",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0190.html"
+},
+{
+"text": "HB 192",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0192.html"
+},
+{
+"text": "HB 210:",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0210.html"
+},
+{
+"text": "HB 247:",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0247.html"
+},
+{
+"text": "HB 251",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0251.html"
+},
+{
+"text": "HB 267:",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0267.html"
+},
+{
+"text": "HB 277",
+"href": "https://le.utah.gov/Session/2021/bills/static/HB0277.html"
+},
+{
+"text": "HB 299",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0299.html"
+},
+{
+"text": "HB 311",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0311.html"
+},
+{
+"text": "HB 32:",
+"href": "https://le.utah.gov/Session/2022/bills/static/HB0032.html"
+},
+{
+"text": "HB 332",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0332.html"
+},
+{
+"text": "HB 382:",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0382.html"
+},
+{
+"text": "HB 390",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0390.html"
+},
+{
+"text": "HB 403",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0403.html"
+},
+{
+"text": "HB 410",
+"href": "https://le.utah.gov/Session/2022/bills/static/HB0410.html"
+},
+{
+"text": "HB 461",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0461.html"
+},
+{
+"text": "HB 519",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0258.html"
+},
+{
+"text": "HB161",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0161.html"
+},
+{
+"text": "HB181",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0181.html"
+},
+{
+"text": "HB248",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0248.html"
+},
+{
+"text": "HB258",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0258.html"
+},
+{
+"text": "HB329",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0329.html"
+},
+{
+"text": "HB396",
+"href": "https://le.utah.gov/Session/2022/bills/static/HB0396.html"
+},
+{
+"text": "HB415:",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0415.html"
+},
+{
+"text": "HB418",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0418.html"
+},
+{
+"text": "HB432",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0432.html"
+},
+{
+"text": "HB477",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0477.html"
+},
+{
+"text": "HB531:",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0531.html"
+},
+{
+"text": "HB539",
+"href": "https://le.utah.gov/Session/2023/bills/static/HB0539.html"
+},
+{
+"text": "HB547",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0547.html"
+},
+{
+"text": "HB65",
+"href": "https://le.utah.gov/Session/2025/bills/static/HB0065.html"
+},
+{
+"text": "HB66",
+"href": "https://le.utah.gov/Session/2024/bills/static/HB0066.html"
+},
+{
+"text": "HB93",
+"href": "https://le.utah.gov/Session/2021/bills/static/HB0093.html"
+},
+{
+"text": "Home",
+"href": "http://www.ashleeforutah.com/"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://www.ashleeforutah.com/our-platform-2/"
+},
+{
+"text": "SB 25:",
+"href": "https://le.utah.gov/Session/2023/bills/static/SB0025.html"
+},
+{
+"text": "SB38",
+"href": "https://le.utah.gov/Session/2026/bills/static/SB0038.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ashleeforutah.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/AshleeUT38"
+},
+{
+"text": "[image: Ashlee Matthews]",
+"href": "https://www.ashleeforutah.com/"
+}
 ]

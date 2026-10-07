@@ -1,5 +1,4 @@
-Reclaiming Freedom, Community, and Democracy in Pennsylvania’s 199th District
-Every year around the Fourth of July, we hear a lot of big words.
+top of page Like Like Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Menu Close DONATE GET INVOLVED DONATE All Posts Campaign Reclaiming Freedom, Community, and Democracy in Pennsylvania’s 199th District TaWanda Stallworth Jul 3 5 min read Every year around the Fourth of July, we hear a lot of big words.
 Freedom.
 Patriotism.
 Liberty.
@@ -12,8 +11,7 @@ My family has roots here.
 My faith was shaped here.
 My sense of service was shaped here.
 My understanding of community was shaped here.
-So when I hear people talk about patriotism like it only belongs to one kind of person, one political party, one ideology, or one flag-waving crowd, I need to say something clearly:
-You don’t own the flag.
+So when I hear people talk about patriotism like it only belongs to one kind of person, one political party, one ideology, or one flag-waving crowd, I need to say something clearly: You don’t own the flag.
 The flag belongs to all of us.
 It belongs to the families working two jobs and still wondering how they will afford groceries, gas, rent, or child care.
 It belongs to the parents showing up at school board meetings because they want their children to be safe, protected, and respected.
@@ -108,6 +106,9 @@ If you believe, as I do, that Pennsylvania’s 199th District deserves better, I
 You can donate your time by volunteering with the campaign, knocking doors, making calls, talking with neighbors, helping at events, or sharing your gifts in whatever way you are able.
 Visit https://www.stallworthforpa.com/ to fill out the volunteer form and let us know how you’d like to help.
 You can also donate to help us reach more voters, expand our outreach across the district, and ensure people hear directly from a campaign rooted in service, community, and real representation.
-To give, visit https://secure.actblue.com/donate/stallworthforpa.
+To give, visit https://secure.actblue.com/donate/stallworthforpa .
 This campaign is powered by people who believe Cumberland County deserves leadership that listens, shows up, and puts the people first.
 I would be honored to have you with us.
+Recent Posts See All We Can’t Do This Without You You’re the Neighbor We’ve Been Waiting For Why Does Responsible Development Matter?
+Home Accessibility Statement Privacy Policy Terms of Service Stallworth for PA | PO Box 314 | Carlisle, PA 17013 hello@stallworthforpa.com Paid for by Stallworth For PA Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Empowering Community, Championing Change.
+VOTE FOR TAWANDA 2026 bottom of page

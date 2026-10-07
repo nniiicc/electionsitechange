@@ -1,12 +1,50 @@
 [
-"http://instagram.com/jonesforpa",
-"https://facebook.com/jonesforpa",
-"https://jones4pa.com/",
-"https://jones4pa.com/bio",
-"https://jones4pa.com/contact",
-"https://jones4pa.com/donate",
-"https://jones4pa.com/events",
-"https://jones4pa.com/home",
-"https://jones4pa.com/issues",
-"https://support.squarespace.com/hc/articles/205814638"
+{
+"text": "About Mike",
+"href": "https://www.jones4pa.com/bio"
+},
+{
+"text": "Click Here to Support Jones for PA",
+"href": "https://www.jones4pa.com/donate"
+},
+{
+"text": "Contact",
+"href": "https://www.jones4pa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jones4pa.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.jones4pa.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.jones4pa.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://support.squarespace.com/hc/articles/205814638"
+},
+{
+"text": "[image: Jones For PA]",
+"href": "https://www.jones4pa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jonesforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jonesforpa/"
+},
+{
+"text": "home",
+"href": "https://www.jones4pa.com/home"
+}
 ]

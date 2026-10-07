@@ -1,17 +1,11 @@
-Dr.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Pay it forward – Six Pillar Induction Dr.
 Bergen, Mr.
 Ogden, Mr.
-Parnell, students, faculty, staff and honored guests:
-Thank you for inviting me to this ceremony and for letting me be a part of this special event.
+Parnell, students, faculty, staff and honored guests: Thank you for inviting me to this ceremony and for letting me be a part of this special event.
 It is truly a privilege to be here to honor the six pillars of character ambassadors.
 When I look at the students here on the stage and out in the audience, I see the future.
-And I see young lives who strive to live up to the six pillars:
-Trustworthiness,
-Respect,
-Responsibility,
-Fairness,
-Caring, and
-Citizenship.
+And I see young lives who strive to live up to the six pillars: Trustworthiness, Respect, Responsibility, Fairness, Caring, and Citizenship.
 And as I look out, I think about how you got here.
 Each of you are who you are because you have some wonderful people in your lives.
 You have great parents, grandparents, aunts, uncles, friends, neighbors, teachers, principals, esp’s, custodians, cafeteria workers, secretaries, and coaches – all contributing in their own way to the formation of your character.
@@ -33,14 +27,12 @@ And then when they ask how they can pay it back, i say they have to pay it forwa
 To 3 more people.
 Each.
 So 9 people get helped.
-Then those people have to do 27.” he turned on the calculator, punched in a few numbers.
-“then it sort of spreads out, see.
+Then those people have to do 27.” he turned on the calculator, punched in a few numbers. “then it sort of spreads out, see.
 To 81.
 Then 243.
 Then 729.
 Then 2,187.
-See how big it gets?”
-Before Trevor knows it, his little idea has spread throughout the world and made a profound difference in people’s lives.
+See how big it gets?” Before Trevor knows it, his little idea has spread throughout the world and made a profound difference in people’s lives.
 I have seen and read about many wonderful examples of how you all have done some wonderful things for this community and others outside of Franklin.
 That’s a tribute to all of you and underlies the notion of pay it forward.
 I’d like to tell you about someone who paid it forward to me.
@@ -65,3 +57,9 @@ On behalf of the School Committee, I applaud you for your efforts, congratulate 
 Today the six pillar society is receiving a talented group of individuals who no doubt will give that organization a strong foundation.
 The Franklin community is blessed and we are indeed proud of you.
 Congratulations and thank you.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

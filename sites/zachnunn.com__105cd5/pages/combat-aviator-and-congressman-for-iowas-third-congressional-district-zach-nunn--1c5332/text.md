@@ -1,13 +1,12 @@
-Nunn Builds on Record-Breaking Fundraising as Campaign Enters Final Stretch
+CHIP IN $10 TODAY TO SUPPORT ZACH NUNN >> ABOUT ISSUES UPDATES GET IN TOUCH VOLUNTEER ABOUT ISSUES UPDATES GET IN TOUCH VOLUNTEER DONATE Close Trigger DONATE Combat Aviator and Congressman for Iowa’s Third Congressional District Zach Nunn Raises Over $1.3 Million in Third Quarter Nunn Builds on Record-Breaking Fundraising as Campaign Enters Final Stretch Des Moines, IA – Congressman Zach Nunn, a combat aviator and Representative for Iowa’s Third Congressional District, announced more than $1.3 million raised in the third quarter of 2026 and more than $1 million cash on hand as the campaign enters the final stretch of one of the nation’s most competitive House races.
 The strong quarter gives Nunn’s campaign the resources to reach voters across Iowa’s Third Congressional District through the closing weeks of the race.
 “I’m grateful to every Iowan who has chipped in their hard-earned dollars to stand with this campaign and support our fight to lower costs for families and keep our communities safe,” said Rep.
 Zach Nunn.
 “Because of their support, we head into the final weeks with a strong grassroots team and the resources to reach voters in all 21 counties.
-We’re going to work hard every single day, and on November 3, we’re going to win and keep delivering for Iowa.”
-“Zach is entering the final stretch in the strongest position, with the resources, organization, and grassroots support to compete through Election Day,” said Nunn Campaign Manager Brendan Duffy.
-“We’re going to spend the next four weeks taking Zach’s record and commonsense message directly to voters across the district, and we’re confident Iowans will send him back to Congress on November 3.”
-Details on Nunn’s Third Quarter Fundraising:
-- Nunn brought in over $800,000 into his campaign committee, “Iowans for Zach Nunn.” Additionally, Nunn directed $250,000 from “Team Nunn” into “Iowans for Zach Nunn” to reinforce general election efforts.
-- Nunn secured over $550,000 through his joint fundraising committee (JFC), “Team Nunn.”
-- Nunn added over $100,000 into his Leadership PAC, “Call to Service.”
-###
+We’re going to work hard every single day, and on November 3, we’re going to win and keep delivering for Iowa.” “Zach is entering the final stretch in the strongest position, with the resources, organization, and grassroots support to compete through Election Day,” said Nunn Campaign Manager Brendan Duffy.
+“We’re going to spend the next four weeks taking Zach’s record and commonsense message directly to voters across the district, and we’re confident Iowans will send him back to Congress on November 3.” Details on Nunn’s Third Quarter Fundraising: Nunn brought in over $800,000 into his campaign committee, “Iowans for Zach Nunn.” Additionally, Nunn directed $250,000 from “Team Nunn” into “Iowans for Zach Nunn” to reinforce general election efforts.
+Nunn secured over $550,000 through his joint fundraising committee (JFC), “Team Nunn.” Nunn added over $100,000 into his Leadership PAC, “Call to Service.” ### GET INVOLVED Zach Nunn is a member of the US Air Force Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the US Air Force or the Department of War.
+HOME ABOUT ISSUES GET IN TOUCH PRIVACY POLICY HOME ABOUT ISSUES GET IN TOUCH PRIVACY POLICY Facebook X-twitter Instagram Team Nunn PO Box 8036 Des Moines, IA 50301 ‪(515) 216-0686‬ Paid for by Team Nunn Copyright ©# Team Nunn.
+All rights reserved.
+DONATE VOLUNTEER × Table of Contents Table of Contents About Issues Media Get In Touch Volunteer About Issues Media Get In Touch Volunteer DONATE VOLUNTEER Facebook Twitter Instagram

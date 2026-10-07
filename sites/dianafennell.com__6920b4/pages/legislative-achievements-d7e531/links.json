@@ -1,136 +1,566 @@
 [
-"http://instagram.com/dianamfennell",
-"https://dianafennell.com/",
-"https://dianafennell.com/about",
-"https://dianafennell.com/campaign-friends-of-diana-fennell",
-"https://dianafennell.com/cart",
-"https://dianafennell.com/contact",
-"https://dianafennell.com/endorsements-supporters",
-"https://dianafennell.com/events",
-"https://dianafennell.com/friends-and-neighbors",
-"https://dianafennell.com/get-involved",
-"https://dianafennell.com/legislative-achievements",
-"https://dianafennell.com/media",
-"https://dianafennell.com/office",
-"https://dianafennell.com/priorities",
-"https://dianafennell.com/scholarship",
-"https://facebook.com/share/17Kr3zDoDv?mibextid=wwXIfr",
-"https://flickr.com/photos/dianafennell",
-"https://link.dianafennell.com/eosletter2026",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0118?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0166?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0191?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0214?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0324?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0325?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0336?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0355?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0428?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0440?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0477?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0479?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0481?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0506?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0523?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0524?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0534?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0560?ys=2021RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0601?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0602?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0659?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0671?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0672?ys=2015rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0679?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0696?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0697?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0713?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0740?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0768?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0771?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0771?ys=2020RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0773?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0777?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0779?ys=2015RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0781?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0790?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0797?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0811?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0814?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0827?ys=2015rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0828?ys=2015RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0837?ys=2020RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0847?ys=2015rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0847?ys=2020RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0849?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0852?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0854?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0874?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0917?ys=2020RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1013?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1029?ys=2020RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1072?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1097?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1144?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1169?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1187?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1209?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1261?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1266?ys=2019RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1270?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1283?ys=2017RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1342?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1423?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1596?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1624?ys=2016RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1697?ys=2018RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0283?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0285?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0338?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0347?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0376?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0385?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0444?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0449?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0455?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0465?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0478?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0480?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0499?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0500?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0501?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0501?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0502?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0506?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0535?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0571?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0573?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0626?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0634?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0637?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0649?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0707?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0721?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0728?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0738?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0815?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0816?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0853?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0894?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0895?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0898?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0902?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0919?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0930?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1051?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1083?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1100?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1118?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1120?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1259?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1300?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1473?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1533?ys=2026RS",
-"https://secure.actblue.com/donate/reelectdianafennell",
-"https://tiktok.com/@dianamfennell?_t=ZP-8zmFscWvT94&_r=1"
+{
+"text": "0",
+"href": "https://www.dianafennell.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.dianafennell.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.dianafennell.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.dianafennell.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reelectdianafennell"
+},
+{
+"text": "End of Session Letter 2026",
+"href": "https://link.dianafennell.com/eosletter2026"
+},
+{
+"text": "Endorsements & Supporters",
+"href": "https://www.dianafennell.com/endorsements-supporters"
+},
+{
+"text": "Events",
+"href": "https://www.dianafennell.com/events"
+},
+{
+"text": "Folder: Campaign Friends of Diana Fennell",
+"href": "https://www.dianafennell.com/campaign-friends-of-diana-fennell"
+},
+{
+"text": "Folder: Office",
+"href": "https://www.dianafennell.com/office"
+},
+{
+"text": "Friends and Neighbors",
+"href": "https://www.dianafennell.com/friends-and-neighbors"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dianafennell.com/get-involved"
+},
+{
+"text": "HB0118 — Higher Education: Senatorial & Delegate Scholarships — In-State Tuition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0118?ys=2019RS"
+},
+{
+"text": "HB0166 — “Fight for Fifteen” Minimum Wage Act (Primary sponsor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0166?ys=2019RS"
+},
+{
+"text": "HB0191 — Homeowner’s Insurance — Surviving Spouse Protections",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0191?ys=2019RS"
+},
+{
+"text": "HB0214 — U-Visa Certification for Crime Victims",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0214?ys=2019RS"
+},
+{
+"text": "HB0283 — Trans Health Equity Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0283?ys=2023RS"
+},
+{
+"text": "HB0285 — Property Appraisal & Valuation Equity Task Force",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0285?ys=2024RS"
+},
+{
+"text": "HB0324 — Minority Participation in Alcoholic Beverages Industry – Study",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0324?ys=2022RS"
+},
+{
+"text": "HB0325 — State Procurement: Prompt Payment",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0325?ys=2022RS"
+},
+{
+"text": "HB0336 — Federal Shutdown Paycheck Protection Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0336?ys=2019RS"
+},
+{
+"text": "HB0338 — Maryland Capitol Police Statewide Jurisdiction",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0338?ys=2026RS"
+},
+{
+"text": "HB0347 — Workers’ Compensation - Hypertension Presumption",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0347?ys=2026RS"
+},
+{
+"text": "HB0355 — County Boards of Education: Disclosures & Requirements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0355?ys=2019RS"
+},
+{
+"text": "HB0376 — Breast Cancer Diagnostics",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0376?ys=2023RS"
+},
+{
+"text": "HB0385 — Pay Stub Transparency(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0385?ys=2024RS"
+},
+{
+"text": "HB0428 — Flood Management Grants — Mandatory Funding",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0428?ys=2019RS"
+},
+{
+"text": "HB0440 — P-TECH Expansion Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0440?ys=2019RS"
+},
+{
+"text": "HB0444 — Immigration Enforcement Agreements Prohibition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0444?ys=2026RS"
+},
+{
+"text": "HB0449 — Flood Management Grants",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0449?ys=2024RS"
+},
+{
+"text": "HB0455 — Braille Flag Memorial Act of 2025",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0455?ys=2025RS"
+},
+{
+"text": "HB0465 — Workplace Fraud & Prevailing Wage",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0465?ys=2024RS"
+},
+{
+"text": "HB0477 — Public Safety Officer Property-Tax Credit",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0477?ys=2019RS"
+},
+{
+"text": "HB0478 — Classroom Supplies Tax Subtraction",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0478?ys=2026RS"
+},
+{
+"text": "HB0480 — Transportation Network Companies - Deactivation of Operators",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0480?ys=2026RS"
+},
+{
+"text": "HB0481 — Criminal Law — Sale of a Minor Reclassified as Felony",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0481?ys=2019RS"
+},
+{
+"text": "HB0499 — Expungement Reform Act of 2025",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0499?ys=2025RS"
+},
+{
+"text": "HB0500 — Procurement Reform Act of 2025(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0500?ys=2025RS"
+},
+{
+"text": "HB0501 — Charter Counties Enforcement of Local Laws",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0501?ys=2024RS"
+},
+{
+"text": "HB0501 — RAISE Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0501?ys=2025RS"
+},
+{
+"text": "HB0502 — Disability Employment & Maryland as a Model Employer",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0502?ys=2025RS"
+},
+{
+"text": "HB0506 — Chesapeake Bay Legacy Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0506?ys=2025RS"
+},
+{
+"text": "HB0506 — WIC Program Reporting — Maryland Department of Health",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0506?ys=2019RS"
+},
+{
+"text": "HB0523 — E-Cigarettes & Vaping Liquids – Licensing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0523?ys=2017RS"
+},
+{
+"text": "HB0524 — Prevailing Wage — Employee Right to Sue",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0524?ys=2019RS"
+},
+{
+"text": "HB0534 — Protective Orders – Notification of Service – Sunset Repeal",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0534?ys=2016RS"
+},
+{
+"text": "HB0535 — Election Procedures & 2024 Primary Date(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0535?ys=2023RS"
+},
+{
+"text": "HB0560 — Housing Discrimination: Reentry-Into-Society Status",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0560?ys=2021RS"
+},
+{
+"text": "HB0571 — Family & Medical Leave Insurance Program Reform",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0571?ys=2024RS"
+},
+{
+"text": "HB0573 — Fair Housing and Housing Discrimination",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0573?ys=2026RS"
+},
+{
+"text": "HB0601 — Senior Call-Check Service & Notification Program – Establishment",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0601?ys=2017RS"
+},
+{
+"text": "HB0602 — Keep Antibiotics Effective Act of 2017 (",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0602?ys=2017RS"
+},
+{
+"text": "HB0626 — Human-Relevant Research Funding(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0626?ys=2023RS"
+},
+{
+"text": "HB0634 — LEAD Act of 2026",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0634?ys=2026RS"
+},
+{
+"text": "HB0637 — The Vax Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0637?ys=2026RS"
+},
+{
+"text": "HB0649 — Wage Range Transparency",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0649?ys=2024RS"
+},
+{
+"text": "HB0659 — Victim’s Right to Restitution – Appeal",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0659?ys=2016RS"
+},
+{
+"text": "HB0671 — Household Goods Movers — Registration",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0671?ys=2019RS"
+},
+{
+"text": "HB0672 — Maryland College Education Export Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0672?ys=2015rs"
+},
+{
+"text": "HB0679 — County Boards of Education: Length of School Year – Adjustments",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0679?ys=2018RS"
+},
+{
+"text": "HB0696 — Electric School Bus Pilot Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0696?ys=2022RS"
+},
+{
+"text": "HB0697 — Health Insurance Consumer Protections & Coverage Commission",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0697?ys=2019RS"
+},
+{
+"text": "HB0707 — Eric’s ID Law(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0707?ys=2025RS"
+},
+{
+"text": "HB0713 — School Behavioral Health Accountability Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0713?ys=2016RS"
+},
+{
+"text": "HB0721 — Uniformed Services Spouses Act (",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0721?ys=2026RS"
+},
+{
+"text": "HB0728 — Access to Care Act(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0728?ys=2024RS"
+},
+{
+"text": "HB0738 — Transfer-on-Death Deed",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0738?ys=2026RS"
+},
+{
+"text": "HB0740 — Task Force to Study Family & Medical Leave Insurance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0740?ys=2016RS"
+},
+{
+"text": "HB0768 — Prescription Drug Affordability Board",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0768?ys=2019RS"
+},
+{
+"text": "HB0771 — Accessible Hotel Rooms: Bed Height",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0771?ys=2020RS"
+},
+{
+"text": "HB0771 — Public Schools – Diabetes Care Services – Guidelines",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0771?ys=2016RS"
+},
+{
+"text": "HB0773 — Clean Energy – Energy Storage Technology Study",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0773?ys=2017RS"
+},
+{
+"text": "HB0777 — Credit-Card Processors — Merchant Agreement Standards",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0777?ys=2019RS"
+},
+{
+"text": "HB0779 — Higher Education Outreach and College Access Pilot Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0779?ys=2015RS"
+},
+{
+"text": "HB0781 — Educational Excellence Awards – Diploma by Examination",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0781?ys=2018RS"
+},
+{
+"text": "HB0790 — Equal Pay for Equal Work — Civil Penalties",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0790?ys=2019RS"
+},
+{
+"text": "HB0797 — Inmates – Menstrual Hygiene Products",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0797?ys=2018RS"
+},
+{
+"text": "HB0811 — Collective Bargaining – Access to New Employee Processing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0811?ys=2018RS"
+},
+{
+"text": "HB0814 — Maryland Easy Enrollment Health Insurance Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0814?ys=2019RS"
+},
+{
+"text": "HB0815 — Cancer Screening Equity Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0815?ys=2023RS"
+},
+{
+"text": "HB0816 — Maryland Automobile Insurance Fund Affordability Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0816?ys=2026RS"
+},
+{
+"text": "HB0827 — Alcoholic Beverage Taxes — Wine Revenue Distribution",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0827?ys=2015rs"
+},
+{
+"text": "HB0828 — Estate Tax — Filing of Tax Returns",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0828?ys=2015RS"
+},
+{
+"text": "HB0837 — Maternal Mortality & Morbidity: Implicit Bias Training",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0837?ys=2020RS"
+},
+{
+"text": "HB0847 — Community Colleges — Human Trafficking Victims Fee Exemption",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0847?ys=2015rs"
+},
+{
+"text": "HB0847 — State Coordinator for Autism Strategy",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0847?ys=2020RS"
+},
+{
+"text": "HB0849 — Rental Dwellings – Carbon Monoxide Alarms",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0849?ys=2016RS"
+},
+{
+"text": "HB0852 — Municipal Elections – Tie Votes",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0852?ys=2016RS"
+},
+{
+"text": "HB0853 — Maryland Second Look Act(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0853?ys=2025RS"
+},
+{
+"text": "HB0854 — SHA – Relocation of Water/Sewer Lines – Cost Sharing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0854?ys=2016RS"
+},
+{
+"text": "HB0874 — Postconviction Review — State’s Motion to Vacate",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0874?ys=2019RS"
+},
+{
+"text": "HB0894 — Maryland Transit and Housing Opportunity Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0894?ys=2026RS"
+},
+{
+"text": "HB0895 — Protection From Predatory Pricing Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0895?ys=2026RS"
+},
+{
+"text": "HB0898 — DECADE Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0898?ys=2026RS"
+},
+{
+"text": "HB0902 — Coal Combustion By-Products",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0902?ys=2025RS"
+},
+{
+"text": "HB0917 — Hate Crimes – Basis (Lt. Richard Collins III’s Law)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0917?ys=2020RS"
+},
+{
+"text": "HB0919 — PAREA Grant Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0919?ys=2026RS"
+},
+{
+"text": "HB0930 — Public Health Abortion Grant Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0930?ys=2025RS"
+},
+{
+"text": "HB1012 — Tax Credit – Commuter Benefits",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0852?ys=2016RS"
+},
+{
+"text": "HB1013 — Open Transportation Investment Decision Act (Veto Override)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1013?ys=2016RS"
+},
+{
+"text": "HB1029 — Clean Energy Jobs – Workforce Development (",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1029?ys=2020RS"
+},
+{
+"text": "HB1051 — Maryland Maternal Health Act of 2024(",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1051?ys=2024RS"
+},
+{
+"text": "HB1072 — Transportation Network Companies — Insurance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1072?ys=2019RS"
+},
+{
+"text": "HB1076 — Blind/Visually Impaired Students Textbook Equity",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS"
+},
+{
+"text": "HB1083 — Behavioral Health Advisory Council/Commission",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1083?ys=2025RS"
+},
+{
+"text": "HB1083 — Health – Family Planning Services – Continuity of Care",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1169?ys=2017RS"
+},
+{
+"text": "HB1097 — Task Force on Property Appraisal & Valuation Equity",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1097?ys=2022RS"
+},
+{
+"text": "HB1100 — Health Equity Dashboard",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1100?ys=2025RS"
+},
+{
+"text": "HB1118 — Perinatal Behavioral Health Conditions",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1118?ys=2026RS"
+},
+{
+"text": "HB1120 — Professional Licensing Portability",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1120?ys=2026RS"
+},
+{
+"text": "HB1144 — School Systems — Language Access for LEP Families",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1144?ys=2019RS"
+},
+{
+"text": "HB1169 — Connecting Rural Maryland Act of 2017",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1169?ys=2017RS"
+},
+{
+"text": "HB1187 — Highway User Revenues: Distribution",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1187?ys=2022RS"
+},
+{
+"text": "HB1209 — Public Safety – Missing Persons – Information",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1209?ys=2018RS"
+},
+{
+"text": "HB1259 — Breast & Lung Cancer Screening Coverage",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1259?ys=2024RS"
+},
+{
+"text": "HB1261 — Barbers – Penalties – Repeal",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1261?ys=2017RS"
+},
+{
+"text": "HB1266 — National Capital Strategic Economic Development Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1266?ys=2019RS"
+},
+{
+"text": "HB1270 — Credit Regulation – Unsecured Open-End Credit Plans – Fees",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1270?ys=2017RS"
+},
+{
+"text": "HB1283 — Alcoholic Beverages – Class 5 Brewery License",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1283?ys=2017RS"
+},
+{
+"text": "HB1300 — African American Heritage Preservation & Commission for Women",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1300?ys=2026RS"
+},
+{
+"text": "HB1342 — Drunk Driving Reduction Act (“Noah’s Law”)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1342?ys=2016RS"
+},
+{
+"text": "HB1423 — State Personnel – Sexual Harassment Prevention Training",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1423?ys=2018RS"
+},
+{
+"text": "HB1473 — Equal Access to Public Services Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1473?ys=2025RS"
+},
+{
+"text": "HB1533 — Crown and Care Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1533?ys=2026RS"
+},
+{
+"text": "HB1596 — Disclosing Sexual Harassment in the Workplace Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1596?ys=2018RS"
+},
+{
+"text": "HB1624 — Transportation – Highways – Heroes Highway (",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1624?ys=2016RS"
+},
+{
+"text": "HB1697 — Education – Commercial Gaming Revenues – Constitutional Amendment (“Fix the Fund”)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1697?ys=2018RS"
+},
+{
+"text": "Home",
+"href": "https://www.dianafennell.com/"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://www.dianafennell.com/legislative-achievements"
+},
+{
+"text": "Media",
+"href": "https://www.dianafennell.com/media"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/dianafennell/"
+},
+{
+"text": "Priorities",
+"href": "https://www.dianafennell.com/priorities"
+},
+{
+"text": "Read the Bill",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0166?ys=2019RS"
+},
+{
+"text": "Read the Bill",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0815?ys=2023RS"
+},
+{
+"text": "Scholarship",
+"href": "https://www.dianafennell.com/scholarship"
+},
+{
+"text": "Tuskegee Airmen Commemoration Day",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0479?ys=2022RS"
+},
+{
+"text": "[image: Friends of Diana Fennell ]",
+"href": "https://www.dianafennell.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/dianamfennell"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/17Kr3zDoDv/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@dianamfennell?_t=ZP-8zmFscWvT94&_r=1"
+},
+{
+"text": "©# MADE WITH CLOUD 9 BRAND, LLC.",
+"href": "mailto:cloud9brand@lovedajanee.com?subject=Inquire+-+Diana+Fennell+Website"
+}
 ]

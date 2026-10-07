@@ -1,64 +1,36 @@
-PRIORITIES
-Public Safety
-Reducing crime and making our neighborhoods safer is a top priority for me and my colleagues in the legislature.
+0 Skip to Content About About Meredith House District 20 Priorities Legislation 2026 Legislation 2026 Capital Outlay Volunteer Contact CONTRIBUTE Open Menu Close Menu About About Meredith House District 20 Priorities Legislation 2026 Legislation 2026 Capital Outlay Volunteer Contact CONTRIBUTE Open Menu Close Menu Folder: About Back About Meredith House District 20 Priorities Folder: Legislation Back 2026 Legislation 2026 Capital Outlay Volunteer Contact CONTRIBUTE PRIORITIES Public Safety Reducing crime and making our neighborhoods safer is a top priority for me and my colleagues in the legislature.
 We must continue to tackle the systemic causes of crime, such as improving access to affordable housing and mental and behavioral healthcare, while also ensuring our local law enforcement officers and first responders have the resources they need to protect our communities.
 This year, the legislature passed HB 8, a robust public safety package that made targeted penalty enhancements for serious crimes, including high-volume fentanyl trafficking, mass shooting threats, repeat vehicle theft, and possession of devices that can convert a semi-automatic weapon into a fully automatic one. , .
 Critically, this integrated package also expanded options for how the state’s criminal justice system assists individuals suffering from serious mental or behavioral health issues by creating more pathways to get them appropriate levels of treatment.
-Additionally, the 2025 session budget included significant investments in public safety, such as:
-- $50M for first responder recruitment and retention
-- $10M for local law enforcement capacity building
-- $4M for officer recruitment and retention
-Housing and Homelessness
-We know that the lack of available and affordable housing for hardworking New Mexicans causes ripple effects across our communities.
+Additionally, the 2025 session budget included significant investments in public safety, such as: #M for first responder recruitment and retention #M for local law enforcement capacity building #M for officer recruitment and retention Housing and Homelessness We know that the lack of available and affordable housing for hardworking New Mexicans causes ripple effects across our communities.
 That’s why improving housing access is a top priority of mine.
 I am proud to share that the 2025 budget includes $110 million for affordable housing, with over $80 million devoted to Albuquerque and Bernalillo County, as well as almost $50 million now available for housing providers that offer strategic responses to homelessness.
 I also carried legislation this session that would have created an Office of Housing Planning and Production in NM’s executive branch and directed critical funding - and focus - to addressing this urgent issue.
 I plan to continue to raise housing and affordability issues throughout my tenure in the legislature.
-Education
-Every child in New Mexico, no matter their zip code, deserves access to a high-quality education.
+Education Every child in New Mexico, no matter their zip code, deserves access to a high-quality education.
 As your state legislators, I am focused on working with families and educators to craft policy solutions that set our students up for success and allow them to achieve their dreams.
 From investing in early childhood education and getting our kids off to the right start, to improving career technical education and building up the workforce for the next generation, I am passionate about creating cradle-to-career opportunities for students in Albuquerque and across New Mexico.
 This year, we tackled a foundational tenet of improving education in New Mexico: investing in our educational workforce.
 In 2025, the legislature made some of the largest investments in building and retaining our educational workforce in our state’s history.
 This includes passing a 4% salary increase for educators, with additional funding to keep health insurance premium increases affordable, and approving a $5,000 increase in minimum teacher salaries per license level.
-Veterans & Military Families
-I am honored to represent the many veterans and active duty personnel that call House District 20 home.
-This year, we passed several laws and dedicated funding in the state budget to improve the quality of life for these brave service members, including:
-- HB 47, which increases property tax exemptions to $10,000, and allows additional exemptions for veterans with service-related disabilities
-- HB 161, which provides veterans free day passes at all of New Mexico’s state parks
-- Quality of life grants and suicide prevention funding
-Healthcare Reform
-Healthcare is top of mind for many New Mexicans across the state and throughout our district.
+Veterans & Military Families I am honored to represent the many veterans and active duty personnel that call House District 20 home.
+This year, we passed several laws and dedicated funding in the state budget to improve the quality of life for these brave service members, including: HB 47, which increases property tax exemptions to $10,000, and allows additional exemptions for veterans with service-related disabilities HB 161, which provides veterans free day passes at all of New Mexico’s state parks Quality of life grants and suicide prevention funding Healthcare Reform Healthcare is top of mind for many New Mexicans across the state and throughout our district.
 It is incredibly important to me that the legislature pass policies that improve access to high-quality, affordable healthcare, so our citizens do not have to travel out-of-state to get the care they deserve.
 This includes addressing our healthcare worker shortage, reducing wait times, and ensuring affordable access to care.
-This year, we made several notable investments in healthcare reform and access, including:
-- $280M for mental and behavioral health infrastructure
-- $100M for initial funding for a new Behavioral Health Trust Fund to sustain these improvements
-- $25M to expand access to care in all parts of our state through the Rural Health Care Delivery Fund
-Workforce and Economic Development
-Amidst national and global economic uncertainty, it is imperative that New Mexico takes steps now to diversify and strengthen our economy here at home.
+This year, we made several notable investments in healthcare reform and access, including: #M for mental and behavioral health infrastructure #M for initial funding for a new Behavioral Health Trust Fund to sustain these improvements #M to expand access to care in all parts of our state through the Rural Health Care Delivery Fund Workforce and Economic Development Amidst national and global economic uncertainty, it is imperative that New Mexico takes steps now to diversify and strengthen our economy here at home.
 And today, we are uniquely positioned to unlock New Mexico’s strategic advantage in emerging industries, such as artificial intelligence, bioscience, quantum technology, and clean energy.
 If we don’t, we risk further falling behind neighboring states, who are already stepping up and recruiting industry leaders to their communities.
 That’s why I’m proud to have sponsored a bill in the 2025 session creating the Technology and Innovation Division at the New Mexico Economic Development Department.
 This new office will build capacity for the state to actively recruit and grow businesses in target industries with significant growth potential, while directing critical capital to homegrown New Mexico startups.
 Additionally, I co-sponsored SB 169, which created the Site Readiness Fund to help businesses more easily set up shop or expand in New Mexico, as well as SB 170, which supports site-ready projects by creating a predictable process for utilities interested in pre-deploying infrastructure.
-The state budget this year also includes significant investments in economic development:
-- $70M to attract new and growing industries to New Mexico, including funds for physical infrastructure, operational needs, and collaboration among startups
-- $24M to prepare construction-ready locations for companies to quickly and easily set up in New Mexico, as outlined in SB 169
-- $12M for grants and non-dilutive capital awards, like the New Mexico Advanced Energy Award and other target sector grants
-- $7M to help build the next generation of STEM leaders in our state, with money directed to quantum and artificial intelligence fellowships and programs at UNM and NMSU
-Climate and Energy
-Globally, we are on track to exceed 1.5°C of warming, the precipice at which scientists agree will cause irreversible climate change.
+The state budget this year also includes significant investments in economic development: $70M to attract new and growing industries to New Mexico, including funds for physical infrastructure, operational needs, and collaboration among startups $24M to prepare construction-ready locations for companies to quickly and easily set up in New Mexico, as outlined in SB 169 $12M for grants and non-dilutive capital awards, like the New Mexico Advanced Energy Award and other target sector grants $7M to help build the next generation of STEM leaders in our state, with money directed to quantum and artificial intelligence fellowships and programs at UNM and NMSU Climate and Energy Globally, we are on track to exceed 1.5°C of warming, the precipice at which scientists agree will cause irreversible climate change.
 In New Mexico, we have seen these impacts firsthand, including devastating fires, shifting precipitation patterns, and growing numbers of extreme weather events.
 This threatens New Mexico’s economy, ecosystems and the way of life for communities in every corner of our state.
 I am passionate about pragmatic policy solutions that diversify our energy portfolio, strengthen our economy, and modernize our electricity grid, all while using innovation - not ideology - to meaningfully reduce greenhouse gas emissions.
 I was thrilled to help pass a bipartisan carbon capture framework bill this session, with broad support from environmental groups, trade organizations, New Mexico Cattle Growers Association, San Juan College, and more.
 International climate organizations agree that carbon capture, the technology of physically removing CO2 from point sources or from the atmosphere at large, must play an increasingly important role in our global emission reduction strategy.
-This year, we passed the single largest investments in climate resilience in our state’s history, including:
-- More than $200M in funding for local water infrastructure and water planning
-- $210M for community benefit fund to support climate initiatives including grid modernization and local solar access
-- $50M to help New Mexico communities recover from natural disasters
-- $13M to build capacity of our state agencies to implement climate action policies
-Other efforts I am working on include tackling decarbonization in our industrial sector, which is also critical to reaching net-zero goals.
+This year, we passed the single largest investments in climate resilience in our state’s history, including: More than $200M in funding for local water infrastructure and water planning $210M for community benefit fund to support climate initiatives including grid modernization and local solar access $50M to help New Mexico communities recover from natural disasters $13M to build capacity of our state agencies to implement climate action policies Other efforts I am working on include tackling decarbonization in our industrial sector, which is also critical to reaching net-zero goals.
 This year, I carried bills that would have created a tax incentive for New Mexico businesses that make products such as asphalt and concrete to reduce carbon emissions.
 I also worked on legislation to help signal to industry that New Mexico stands ready to purchase low- and no-emissions industrial products, which I look forward to bringing again in future sessions.
+CONTRIBUTE SIGN UP!
+Meredith for New Mexico info@meredithfornewmexico.com (505) 401-8339 Website Design | BGC

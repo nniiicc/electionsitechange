@@ -1,8 +1,3 @@
-Prepared and Paid for by the
-Julie Kelzer for MN Senate Committee
-PO Box 88
-NYA, MN 55368
-Julie Kelzer for MN Senate Committee
-PO Box 88
-NYA, MN 55368
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Home ❭ Issues ❭ Transparency & Accountability Transparency & Accountability Taxpayers deserve access to see where and how their money is spent.
+Easy access to information and remove law/legislation terminology.
+More auditing and oversight for programs. « Previous: Business Next: Public Safety » Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu

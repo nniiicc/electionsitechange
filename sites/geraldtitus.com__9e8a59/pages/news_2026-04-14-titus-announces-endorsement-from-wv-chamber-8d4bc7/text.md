@@ -1,14 +1,10 @@
-West Virginia Supreme Court Justice Gerald Titus Announces Endorsement from West Virginia Chamber of Commerce
-Charleston, WV — Gerald Titus, candidate for the West Virginia Supreme Court of Appeals,today announced the endorsement of the West Virginia Chamber of Commerce, a leading voice for job creators and economic growth across the Mountain State.
+Contribute About News Endorsements Get Involved Contribute About News Get Involved Contribute Back to News 2026-04-14 West Virginia Supreme Court Justice Gerald Titus Announces Endorsement from West Virginia Chamber of Commerce Share: Charleston, WV — Gerald Titus, candidate for the West Virginia Supreme Court of Appeals,today announced the endorsement of the West Virginia Chamber of Commerce, a leading voice for job creators and economic growth across the Mountain State.
 The Chamber’s endorsement underscores Titus’ commitment to upholding the rule of law,ensuring a fair and impartial judiciary, and fostering a legal climate that supports economicopportunity and stability.
-West Virginia Chamber President Steve Roberts emphasized the importance of judicial integrity in the endorsement, stating:
-“An independent and well-qualified judiciary is essential to maintaining public trust inour legal system.
-These endorsements reflect our confidence in each candidate’s abilityto uphold the law with impartiality and professionalism.”
-Titus, a longtime attorney with a record of legal excellence and public service, expressed hisappreciation for the Chamber’s support and highlighted the importance of a judiciary grounded in fairness and constitutional principles.
+West Virginia Chamber President Steve Roberts emphasized the importance of judicial integrity in the endorsement, stating: “An independent and well-qualified judiciary is essential to maintaining public trust inour legal system.
+These endorsements reflect our confidence in each candidate’s abilityto uphold the law with impartiality and professionalism.” Titus, a longtime attorney with a record of legal excellence and public service, expressed hisappreciation for the Chamber’s support and highlighted the importance of a judiciary grounded in fairness and constitutional principles.
 “I am honored to have the endorsement of the West Virginia Chamber of Commerce,”said Gerald Titus.
 “Throughout my career, I have been committed to upholding theConstitution, applying the law as written, and ensuring every West Virginian is treatedfairly in our courts.
 A strong, independent judiciary is critical not only to justice, but tothe continued growth and success of our state.
-I look forward to continuing to bring aprincipled, disciplined approach to the Supreme Court—one rooted in integrity,impartiality, and respect for the rule of law.”
-Titus’ campaign has centered on restoring confidence in the judicial system by emphasizing constitutional fidelity, judicial restraint, and equal application of the law.
+I look forward to continuing to bring aprincipled, disciplined approach to the Supreme Court—one rooted in integrity,impartiality, and respect for the rule of law.” Titus’ campaign has centered on restoring confidence in the judicial system by emphasizing constitutional fidelity, judicial restraint, and equal application of the law.
 His experience and approach have earned growing support from leaders across West Virginia who are seeking a system that is fair, predictable, and free from political influence.
-For more information on Gerald Titus and his campaign, please visit www.geraldtitus.com
+For more information on Gerald Titus and his campaign, please visit www.geraldtitus.com View All News Paid for by Titus for Supreme Court Privacy Policy

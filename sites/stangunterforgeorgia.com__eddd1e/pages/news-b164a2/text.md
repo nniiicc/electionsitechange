@@ -1,40 +1,12 @@
-2026 Legislative Update: Sine Die
-The Georgia General Assembly reconvened at the State Capitol on Tuesday, March 31, 2026, for the 12th and final week of the 2026 legislative […]
-Read More
-Skip to content
-News and Events
-2026 Legislative Update: Sine Die
-The Georgia General Assembly reconvened at the State Capitol on Tuesday, March 31, 2026, for the 12th and final week of the 2026 legislative […]
-Read More
-2026 Legislative Update – Week 9, 10 & 11 Recap
-My House colleagues and I returned to the Gold Dome on Monday, March 23, for Legislative Day 36, marking the start of week 11 […]
-Read More
-Rep.
-Stan Gunther Formally Qualified for Re-Election
-Rep.
-Stan Gunter (R-Blairsville) announced today that he formally qualified to seek re-election to the Georgia House of Representatives “It is an honor to […]
-Read More
-2026 Legislative Update – Week 6 Recap
-The Georgia House of Representatives reconvened at the State Capitol on Tuesday, February 17, 2026, to begin the sixth week of the legislative session […]
-Read More
-2026 Legislative Update – 2/9/26
-The Georgia House of Representatives returned to the Gold Dome last Monday, February 9, 2026, for Legislative Day 15.
-We are now more than […]
-Read More
-2026 Legislative Update: Four Weeks Into The Session
-On Monday, February 2, 2026, my colleagues and I returned to the Georgia State Capitol for the fourth week of the legislative session.
-The […]
-Read More
-2025 Legislative Session Update: Week Ending 3/14/2025
-This Update House Action: After a fast-paced and eventful Crossover Day last week, members of the Georgia House of Representatives returned to the State Capitol on […]
-Read More
-2025 Legislation Session Update: Week 8
-This week, the Georgia House of Representatives returned to the Gold Dome on Monday, March 3rd, kicking off the busiest week of the 2025 legislative session […]
-Read More
-2025 Legislation Session Update: Week Ending 2/28/25
-The Georgia House of Representatives reconvened at the State Capitol on Monday, February 24th to resume our legislative duties.
-During our seventh week of session, […]
-Read More
-2025 Legislative Session Update: Week Ending 2/7/25
-The Georgia House of Representatives returned to the State Capitol on Monday, February 3rd to begin the fourth week of the 2025 legislative session. […]
-Read More
+Skip to content Stan Gunter State Representative ☰ Home Meet Stan Issues Get Involved News and Events Donate Donate X Home Meet Stan Issues Get Involved News and Events Donate Donate News and Events News and Events 2026 Legislative Update: Sine Die July 23, 2026 The Georgia General Assembly reconvened at the State Capitol on Tuesday, March 31, 2026, for the 12th and final week of the 2026 legislative […] Read More 2026 Legislative Update – Week 9, 10 & 11 Recap Jul 9, 2026 My House colleagues and I returned to the Gold Dome on Monday, March 23, for Legislative Day 36, marking the start of week 11 […] Read More Rep.
+Stan Gunther Formally Qualified for Re-Election July 5, 2026 Rep.
+Stan Gunter (R-Blairsville) announced today that he formally qualified to seek re-election to the Georgia House of Representatives “It is an honor to […] Read More 2026 Legislative Update – Week 6 Recap Jul 1, 2026 The Georgia House of Representatives reconvened at the State Capitol on Tuesday, February 17, 2026, to begin the sixth week of the legislative session […] Read More 2026 Legislative Update – 2/9/26 Jun 25, 2026 The Georgia House of Representatives returned to the Gold Dome last Monday, February 9, 2026, for Legislative Day 15.
+We are now more than […] Read More 2026 Legislative Update: Four Weeks Into The Session Jun 22, 2026 On Monday, February 2, 2026, my colleagues and I returned to the Georgia State Capitol for the fourth week of the legislative session.
+The […] Read More 2025 Legislative Session Update: Week Ending 3/14/2025 April 29, 2025 This Update House Action: After a fast-paced and eventful Crossover Day last week, members of the Georgia House of Representatives returned to the State Capitol on […] Read More 2025 Legislation Session Update: Week 8 April 29, 2025 This week, the Georgia House of Representatives returned to the Gold Dome on Monday, March 3rd, kicking off the busiest week of the 2025 legislative session […] Read More 2025 Legislation Session Update: Week Ending 2/28/25 April 29, 2025 The Georgia House of Representatives reconvened at the State Capitol on Monday, February 24th to resume our legislative duties.
+During our seventh week of session, […] Read More 2025 Legislative Session Update: Week Ending 2/7/25 April 28, 2025 The Georgia House of Representatives returned to the State Capitol on Monday, February 3rd to begin the fourth week of the 2025 legislative session. […] Read More Load More Latest News 2026 Legislative Update: Sine Die 2026 Legislative Update – Week 9, 10 & 11 Recap Rep.
+Stan Gunther Formally Qualified for Re-Election 2026 Legislative Update – Week 6 Recap 2026 Legislative Update – 2/9/26 2026 Legislative Update: Four Weeks Into The Session Stay Connected Contribute Today Stan Gunter is the Conservative Fighter We Need.
+Can Stan Count on Your Support?
+Make a Donation! $# $# $# $# $# Join the Team!
+Add Your Name to Stay Up to Date on the Gunter Campaign: Email * Cell Phone Zip Code Δ Home Meet Stan Issues Get Involved News and Events Donate Donate Paid for by Stan Gunter for Georgia CONTACT TEAM GUNTER TODAY!
+Phone: 706.897.5609 Email: Stan@StanGunterForGeorgia.com Mail: P.O.
+Box 2376, Blairsville, Georgia 30514 © #

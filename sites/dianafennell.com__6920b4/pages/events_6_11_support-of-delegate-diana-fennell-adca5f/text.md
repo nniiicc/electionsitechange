@@ -1,17 +1,10 @@
-Join Us in Support of Delegate Diana Fennell
-You are cordially invited to a special reception in support of Delegate Diana Fennell, a dedicated advocate for Maryland’s 47A District, as she continues her work on behalf of our community.
-We are honored to be joined by distinguished special guests:
-Maryland State Treasurer Dereck E.
-Davis
-Civil Rights Attorney Ben Crump
-Date: Wednesday, June 11, 2025
-Time: 6:00 PM – 8:00 PM
-Location: Station 202
-5820 Landover Road, Hyattsville, MD 20784
-Support levels:
-$2,000 Champion | $1,000 Supporter | $500 Friend | $250 Guest
-RSVP Here: secure.actblue.com/donate/dianafennelljun112025event
-For additional information or to RSVP directly, please contact Jeremiah Pope at
-DianaFennellEvent@jpopeconsulting.com
-This event is an opportunity to stand with a proven leader and help ensure Delegate Fennell has the support she needs to continue making a difference in Annapolis.
-Authorized by Friends of Diana Fennell, Treasurer Janet Lucas
+0 Skip to Content Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Folder: Office Back Contact Scholarship End of Session Letter 2026 Media Folder: Campaign Friends of Diana Fennell Back Donate Endorsements & Supporters Friends and Neighbors Get Involved Back to All Events Support of Delegate Diana Fennell Wednesday, June 11, 2025 6:00 PM 8:00 PM Friends of Diana Fennell P.O BOX 514 Bladensburg, Maryland, 20710 USA (map) Google Calendar ICS Join Us in Support of Delegate Diana Fennell You are cordially invited to a special reception in support of Delegate Diana Fennell , a dedicated advocate for Maryland’s 47A District, as she continues her work on behalf of our community.
+We are honored to be joined by distinguished special guests: Maryland State Treasurer Dereck E.
+Davis Civil Rights Attorney Ben Crump Date: Wednesday, June 11, 2025 Time: 6:00 PM – 8:00 PM Location: Station 202 5820 Landover Road, Hyattsville, MD 20784 Support levels: $2,000 Champion | $1,000 Supporter | $500 Friend | $250 Guest RSVP Here: secure.actblue.com/donate/dianafennelljun112025event RSVP HERE For additional information or to RSVP directly, please contact Jeremiah Pope at DianaFennellEvent@jpopeconsulting.com This event is an opportunity to stand with a proven leader and help ensure Delegate Fennell has the support she needs to continue making a difference in Annapolis.
+Authorized by Friends of Diana Fennell, Treasurer Janet Lucas Previous Previous October 10 Support Delegate Diana Fennell Fundraiser Next Next August 2 Delegate Diana Fennell and Wanda Durant Community Giveback Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to receive timely updates, news, and announcements from the office of Delegate Diana M.
+Fennell.
+First Name Last Name Email Address Sign Up Thank you!
+About Contact Events Photos Friends of Diana Fennell PO BOX 514 Bladensburg, MD 20710 info@dianafennell.com (301) 615-2845‬ ©# MADE WITH CLOUD 9 BRAND, LLC.
+FOLLOW SOCIAL MEDIA

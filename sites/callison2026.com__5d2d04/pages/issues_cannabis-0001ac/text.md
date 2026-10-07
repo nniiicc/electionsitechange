@@ -1,3 +1,2 @@
-- Ease fees and regulations to enable profit and growth for small, medium, and large-scale operations.
-- Encourage the federal government to legalize cannabis and cannabis banking.
-Gun rights must be protected under the Constitution while ensuring responsible safety measures.
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Cannabis Ease fees and regulations to enable profit and growth for small, medium, and large-scale operations.
+Encourage the federal government to legalize cannabis and cannabis banking. get involved Related Issues Second Amendment Gun rights must be protected under the Constitution while ensuring responsible safety measures. learn more Cannabis Lower fees, fair regulations, and federal legalization can grow the cannabis industry and create opportunity. learn more Prev Public Safety Second Amendment Next Paid for by Callison for Assembly 2026, FPPC ID #1483879.

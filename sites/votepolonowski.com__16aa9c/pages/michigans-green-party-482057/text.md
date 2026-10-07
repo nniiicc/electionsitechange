@@ -1,4 +1,6 @@
-The Green Party is a non-corporate Left party with ballot access, our objective is to bring a better political option for the people of Michigan.
+Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us More Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Michigan's Green Party We are the Green Party of Michigan The Green Party is a non-corporate Left party with ballot access, our objective is to bring a better political option for the people of Michigan.
 Amplifying the voices of working-class Michiganders negatively impacted by the antics of the thoroughly degraded Republican and Democratic parties by ultra-wealthy commercial interests.
 And by promoting individual influence through direct participation.
 Help us to create a culture of politics of the people, by the people and for the people, without corporate influence.
+Learn more Green Party of Michigan Platform The National Green Party Learn more Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078 Copyright © # The Committee to elect Jared Polonowski - All Rights Reserved.
+Powered by

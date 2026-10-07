@@ -1,9 +1,3 @@
-Back to All Events
-Join us on October 17th at 9AM at Brooktree Park (6800 Dunmore Ave.) with School Board Member and Candidate Manuel Perez to connect with neighbors and support Josh & Manuel.
-Previous
-Previous
-October 10
-Orangevale Walk
-Next
-Next
-October 24
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE Back to All Events Citrus Heights Walk Saturday, October 17, 2026 9:00 AM 12:00 PM Google Calendar ICS Join us on October 17th at 9AM at Brooktree Park (6800 Dunmore Ave.) with School Board Member and Candidate Manuel Perez to connect with neighbors and support Josh & Manuel.
+Previous Previous October 10 Orangevale Walk Next Next October 24 Folsom Walk ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

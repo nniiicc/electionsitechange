@@ -1,9 +1,1 @@
-Back to All Events
-Meet Team Barnes and the rest of the York County Democratic Candidates at the State Fair!
-Previous
-Previous
-July 23
-Walk and talk at York Township Park
-Next
-Next
-August 8
+0 Skip to Content Priorities & Values Events Blog Donate Open Menu Close Menu Priorities & Values Events Blog Donate Open Menu Close Menu Priorities & Values Events Blog Donate Back to All Events York State Fair Wednesday, July 29, 2026 3:30 PM 8:00 PM York Fairgrounds 334 Carlisle Avenue York, Pennsylvania, 17404 United States (map) Google Calendar ICS Meet Team Barnes and the rest of the York County Democratic Candidates at the State Fair! https://www.yorkstatefair.com Previous Previous July 23 Walk and talk at York Township Park Next Next August 8 Red Lion Street Fair Paid for by BarnesForPA93 Made with Squarespace

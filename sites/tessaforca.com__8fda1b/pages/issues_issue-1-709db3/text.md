@@ -1,5 +1,6 @@
-Healthcare Affordability & Access
-I grew up in this district.
+Skip navigation menu About Issues Endorsements Knock doors with us!
+Contact Donate About Issues Endorsements Knock doors with us!
+Contact Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military Healthcare Affordability & Access I grew up in this district.
 I know what it’s like to wait weeks for care, to drive hours just to see a doctor, and to worry about the cost of something as basic as a checkup.
 That’s the reality for too many families in our rural communities.
 Now it’s getting worse.
@@ -12,3 +13,4 @@ As your representative, I will fight for a single-payer healthcare system so eve
 I will take on a system where CEOs profit by denying care to the very people it’s supposed to serve.
 Healthcare is a right.
 It’s time we treat it that way.
+Contact us: info@tessaforca.com Powered by RUN! website builder Paid for by Tessa Lynn Hodge for Congress You need to enable JavaScript to run this app.

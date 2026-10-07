@@ -1,22 +1,94 @@
 [
-"https://facebook.com/marisaforwv",
-"https://heyvictor.com/",
-"https://marisaforwv.com/",
-"https://marisaforwv.com/accessibility-statement",
-"https://marisaforwv.com/endorsements",
-"https://marisaforwv.com/event/text-district-33-voters",
-"https://marisaforwv.com/events",
-"https://marisaforwv.com/issues",
-"https://marisaforwv.com/meet-candidate",
-"https://marisaforwv.com/news",
-"https://marisaforwv.com/terms-of-service",
-"https://marisaforwv.com/volunteer",
-"https://marisaforwv.com/voting-info",
-"https://secure.actblue.com/donate/marisa-jackson-1",
-"https://secure.actblue.com/donate/marisa-jackson-1?amount=150",
-"https://secure.actblue.com/donate/marisa-jackson-1?amount=25",
-"https://secure.actblue.com/donate/marisa-jackson-1?amount=250",
-"https://secure.actblue.com/donate/marisa-jackson-1?amount=5",
-"https://secure.actblue.com/donate/marisa-jackson-1?amount=50",
-"https://secure.actblue.com/donate/marisa-jackson-1?amount=500"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount=150"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount=500"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://marisaforwv.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://marisaforwv.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://marisaforwv.com/events/"
+},
+{
+"text": "Home",
+"href": "https://marisaforwv.com/"
+},
+{
+"text": "Issues",
+"href": "https://marisaforwv.com/issues/"
+},
+{
+"text": "Meet Marisa",
+"href": "https://marisaforwv.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://marisaforwv.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/marisa-jackson-1?amount="
+},
+{
+"text": "Terms of Service",
+"href": "https://marisaforwv.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://marisaforwv.com/volunteer/"
+},
+{
+"text": "Voter Outreach Campaign Volunteer Opportunities Ongoing See Event Info",
+"href": "https://marisaforwv.com/event/text-district-33-voters/"
+},
+{
+"text": "Voting Info",
+"href": "https://marisaforwv.com/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://marisaforwv.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/marisaforwv"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

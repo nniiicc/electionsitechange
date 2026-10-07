@@ -1,6 +1,6 @@
-Sarita Edgerton is a committed conservative voice in the South Carolina House of Representatives, serving District 34 in Spartanburg County.
+Home About The Issues Endorsements Newsletter Contact Donate Home About The Issues Endorsements Newsletter Contact DONATE Meet Sarita MEET SARITA EDGERTON MEET SARITA EDGERTON The "Hammer" for Spartanburg The "Hammer" for Spartanburg Sarita Edgerton is a committed conservative voice in the South Carolina House of Representatives, serving District 34 in Spartanburg County.
 A wife, mother, small businesswoman, and longtime community advocate, Sarita entered public service with one clear mission: to defend the values of faith, family, and freedom against the creeping influence of big government and progressive ideology.
-Sarita Edgerton has earned the nickname “The Hammer” in Columbia because she hammers down on fellow legislators whenever they try to pull fast ones on the people of South Carolina.
+Sarita Edgerton has earned the nickname “ The Hammer ” in Columbia because she hammers down on fellow legislators whenever they try to pull fast ones on the people of South Carolina.
 Whether it’s hidden spending, backroom deals, or policies that betray conservative values, Sarita doesn’t let anything slide.
 She calls it out, she confronts it, and she fights to protect her constituents from being taken advantage of by the political establishment.
 In addition to her fiscal conservatism, Sarita is a champion for parents and students.
@@ -8,7 +8,7 @@ She has been a visible presence at the Statehouse, welcoming Spartanburg 4-H stu
 Her background as a homeschooling mom gives her a front-row perspective on the need for school choice, transparency, and accountability in South Carolina classrooms.
 Sarita Edgerton is a committed conservative voice in the South Carolina House of Representatives, serving District 34 in Spartanburg County.
 A wife, mother, small businesswoman, and longtime community advocate, Sarita entered public service with one clear mission: to defend the values of faith, family, and freedom against the creeping influence of big government and progressive ideology.
-Sarita Edgerton has earned the nickname “The Hammer” in Columbia because she hammers down on fellow legislators whenever they try to pull fast ones on the people of South Carolina.
+Sarita Edgerton has earned the nickname “ The Hammer ” in Columbia because she hammers down on fellow legislators whenever they try to pull fast ones on the people of South Carolina.
 Whether it’s hidden spending, backroom deals, or policies that betray conservative values, Sarita doesn’t let anything slide.
 She calls it out, she confronts it, and she fights to protect her constituents from being taken advantage of by the political establishment.
 In addition to her fiscal conservatism, Sarita is a champion for parents and students.
@@ -24,3 +24,6 @@ Constituents know they can trust her to speak the truth, fight for limited gover
 She believes public service is not about personal gain, but about giving ordinary citizens a voice in a system too often dominated by elites.
 Sarita Edgerton is more than a legislator—she is a wife, a mother, a neighbor, and a fighter who refuses to back down when the principles of freedom, faith, and responsibility are at stake.
 She continues to work tirelessly to ensure Spartanburg families, and all South Carolinians, have a government that reflects their values and respects their sacrifices.
+The fight for our values is only just beginning.
+Get Updates DONATE Privacy Policy Terms of Service Email: [email protected] Call: (864) 381-8225 PAID FOR BY SARITA EDGERTON ©# Sarita Edgerton.
+All rights reserved.

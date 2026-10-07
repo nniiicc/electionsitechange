@@ -1,4 +1,4 @@
-Pleased to meet you.
+0 Skip to Content Home Meet Kevin Issues Volunteer Yard Sign Request Contact English Donate Open Menu Close Menu Home Meet Kevin Issues Volunteer Yard Sign Request Contact English Donate Open Menu Close Menu Home Meet Kevin Issues Volunteer Yard Sign Request Contact English Back Donate Pleased to meet you.
 My name is Kevin Burge.
 I don’t come from a wealthy or powerful family – everything I have achieved, I’ve had to work for.
 I was born into a family of humble means in Los Alamos New Mexico.
@@ -39,5 +39,4 @@ Our values are under attack.
 It’s time for bold action to restore faith in America.
 I am answering the call to serve once again and fight for our values.
 If you are ready to work for the better America we know is possible — I hope you’ll join me and our team.
-Let’s make some history — and preserve it as well.
--Kevin
+Let’s make some history — and preserve it as well. -Kevin Paid for by Kevin Burge for United States Congress Campaign Committee To contribute by check please mail to: PO Box 821283 North Richland Hills, TX 76182

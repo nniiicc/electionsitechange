@@ -1,18 +1,18 @@
-Join State Representative Neeley and Friends at the 18th Golden Egg Hunt on Saturday April 16th, from 11am – 1pm
-Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
-Yesterday, the governor and Flint Mayor…
-Today as we presented HR 256 (KUPPA), Michigan Water Day and World Water Day, we were honored to acknowledge water warriors from our communities.
-Thank…
-March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/
-God blessed my husband and I to take the pain of losing our mothers with the vision of sharing with other mothers.
-Today the vision…
-Today, Gov.
+Home About News Volunteer Donate Contact Contribute All Posts Home All Posts Home About News Volunteer Donate Contact Family News 18th Annual Golden Egg Hunt April 14, 2022 by webmaster 0 Comments Join State Representative Neeley and Friends at the 18th Golden Egg Hunt on Saturday April 16th, from 11am – 1pm Continue reading News Priorities & Structure Rights & Obligations Recognizing Civil Rights leader and Union organizer Cesar Chavez April 1, 2022 by webmaster 0 Comments Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
+Yesterday, the governor and Flint Mayor… Continue reading News Priorities & Structure Michigan Water Day and World Water Day March 22, 2022 by webmaster 0 Comments Today as we presented HR 256 (KUPPA), Michigan Water Day and World Water Day, we were honored to acknowledge water warriors from our communities.
+Thank… Continue reading Family News Priorities & Structure Encouraging all children to read… March 9, 2022 by webmaster 0 Comments March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/ Continue reading Family News Celebrating Mothers February 13, 2022 by webmaster 0 Comments God blessed my husband and I to take the pain of losing our mothers with the vision of sharing with other mothers.
+Today the vision… Continue reading News Cynthia Neeley on Gov.
+Whitmer’s State of the State Address January 26, 2022 by webmaster 0 Comments Today, Gov.
 Gretchen Whitmer delivered her fourth State of the State address from Detroit Diesel.
-Her remarks highlighted proposals that put Michiganders first by growing…
-Beginning Wednesday, January 19th, you can order free rapid COVID-19 test kits through the government at the following website www.covidtests.gov A total of four test…
-Gov.
+Her remarks highlighted proposals that put Michiganders first by growing… Continue reading News Free COVID test kits January 18, 2022 by webmaster 0 Comments Beginning Wednesday, January 19th, you can order free rapid COVID-19 test kits through the government at the following website www.covidtests.gov A total of four test… Continue reading News “Genesee County is open for business!” November 10, 2021 by webmaster 3 Comments Gov.
 Gretchen Whitmer and the Michigan Economic Development Corp.
-(MEDC) announced the Michigan Strategic Fund’s support for an Allegiant Air operational base at Flint Bishop…
-LANSING, Mich., Oct. 14, 2021 — Gov.
-Gretchen Whitmer and the Michigan Economic Development Corp. announced the $23 million expansion of two businesses in Genesee…
-Thanks for all you do Captain Taylor.
+(MEDC) announced the Michigan Strategic Fund’s support for an Allegiant Air operational base at Flint Bishop… Continue reading News Now more than ever, we need to create good, decent-paying jobs!
+October 15, 2021 by webmaster 1 Comment LANSING, Mich., Oct.
+14, 2021 — Gov.
+Gretchen Whitmer and the Michigan Economic Development Corp. announced the $23 million expansion of two businesses in Genesee… Continue reading Law News Celebrating our Men & Women frontline and remembering 9/11 September 10, 2021 by webmaster 0 Comments Thanks for all you do Captain Taylor.
+Continue reading Posts pagination < Page 1 Page 2 Page 3 Page 4 > Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

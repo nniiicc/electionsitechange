@@ -1,10 +1,3 @@
-Paid for by Tatiana for Washington (D)
-PO Box 27113 • Seattle, WA 98165
-(206) 412-1535 • hello@tatianaforwa.org
-Previous
-Previous
-October 5
-2026 Healthcare Candidates Forum
-Next
-Next
-October 8
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Back to All Events Canvass with Tatiana in Othello!
+Tuesday, October 6, 2026 5:30 PM 8:00 PM Google Calendar ICS Source: https://www.mobilize.us/dashboard/tatianaforwa/timeslot/6544876/ Previous Previous October 5 2026 Healthcare Candidates Forum Next Next October 8 Canvass with Tatiana in Rainier Beach!
+Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

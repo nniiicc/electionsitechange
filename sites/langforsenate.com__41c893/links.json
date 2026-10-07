@@ -1,60 +1,458 @@
 [
-"https://assets.teepublic.com/assets/pdfs/designing-for-dtg-061ba741bd403ab1a5d84d0ed3ce584bae150e47068f0a275f72e64e8b577189.pdf",
-"https://bbb.org/us/ny/new-york/profile/online-retailer/teepublic-0121-168669",
-"https://kermitsoutlawkitchen.com/about",
-"https://langforsenate.com/",
-"https://langforsenate.com/about",
-"https://langforsenate.com/baseball-t-shirt",
-"https://langforsenate.com/ccpa",
-"https://langforsenate.com/contact",
-"https://langforsenate.com/crewneck-sweatshirt",
-"https://langforsenate.com/designer-signup",
-"https://langforsenate.com/en-us/articles/29890745668631-General-Product-Safety-Regulation-GSPR",
-"https://langforsenate.com/featured-designers",
-"https://langforsenate.com/hats",
-"https://langforsenate.com/hoodie",
-"https://langforsenate.com/intellectual-property-policy",
-"https://langforsenate.com/kids-hoodies",
-"https://langforsenate.com/kids-long-sleeve-t-shirts",
-"https://langforsenate.com/kids-t-shirt",
-"https://langforsenate.com/long-sleeve-t-shirt",
-"https://langforsenate.com/magnets",
-"https://langforsenate.com/mug",
-"https://langforsenate.com/newest-designers",
-"https://langforsenate.com/order/status",
-"https://langforsenate.com/phone-case",
-"https://langforsenate.com/pins",
-"https://langforsenate.com/posters-and-art",
-"https://langforsenate.com/privacy_policy",
-"https://langforsenate.com/shipping",
-"https://langforsenate.com/shorts",
-"https://langforsenate.com/sizechart",
-"https://langforsenate.com/social-responsibility",
-"https://langforsenate.com/stickers",
-"https://langforsenate.com/stores/aapi-artists",
-"https://langforsenate.com/stores/artists-to-watch",
-"https://langforsenate.com/stores/bipoc-artists",
-"https://langforsenate.com/stores/black-artists-on-teepublic",
-"https://langforsenate.com/stores/celebrate-women",
-"https://langforsenate.com/stores/creators-to-watch",
-"https://langforsenate.com/stores/lgbtqia-artists",
-"https://langforsenate.com/stores/ukrainian-artists",
-"https://langforsenate.com/t-shirts",
-"https://langforsenate.com/t-shirts/anime",
-"https://langforsenate.com/t-shirts/drinks",
-"https://langforsenate.com/t-shirts/fantasy",
-"https://langforsenate.com/t-shirts/food",
-"https://langforsenate.com/t-shirts/politics",
-"https://langforsenate.com/t-shirts/sci-fi",
-"https://langforsenate.com/t-shirts?sort=popular",
-"https://langforsenate.com/tag-directory",
-"https://langforsenate.com/tank-top",
-"https://langforsenate.com/tapestries",
-"https://langforsenate.com/terms",
-"https://langforsenate.com/throw-pillows",
-"https://langforsenate.com/totes",
-"https://langforsenate.com/users/sign_in",
-"https://langforsenate.com/users/sign_up",
-"https://langforsenate.pages.dev/",
-"https://teepublic.com/"
+{
+"text": "AAPI Artists",
+"href": "https://langforsenate.com/stores/aapi-artists"
+},
+{
+"text": "About TeePublic",
+"href": "https://langforsenate.com/about"
+},
+{
+"text": "About Us",
+"href": "https://langforsenate.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "All Designs",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "All Popular Designs",
+"href": "https://langforsenate.com/t-shirts?sort=popular"
+},
+{
+"text": "Artist Sign Up",
+"href": "https://langforsenate.com/designer-signup"
+},
+{
+"text": "Artist Signup",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Artists to Watch",
+"href": "https://langforsenate.com/stores/artists-to-watch"
+},
+{
+"text": "BIPOC Artists",
+"href": "https://langforsenate.com/stores/bipoc-artists"
+},
+{
+"text": "Baseball T-Shirts",
+"href": "https://langforsenate.com/baseball-t-shirt"
+},
+{
+"text": "Black Artists",
+"href": "https://langforsenate.com/stores/black-artists-on-teepublic"
+},
+{
+"text": "CA: Do Not Sell My Personal Information",
+"href": "https://langforsenate.com/ccpa"
+},
+{
+"text": "Careers",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Celebrate Women Artists",
+"href": "https://langforsenate.com/stores/celebrate-women"
+},
+{
+"text": "Contact Us",
+"href": "https://langforsenate.com/contact"
+},
+{
+"text": "Content Directory",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Coupon Codes",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Create Account",
+"href": "https://langforsenate.com/users/sign_up"
+},
+{
+"text": "Create a Dashery Store",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Create an Account",
+"href": "https://langforsenate.com/users/sign_up"
+},
+{
+"text": "Creators to Watch",
+"href": "https://langforsenate.com/stores/creators-to-watch%20"
+},
+{
+"text": "Crewneck Sweatshirts",
+"href": "https://langforsenate.com/crewneck-sweatshirt"
+},
+{
+"text": "DAFTAR",
+"href": "https://langforsenate.pages.dev/"
+},
+{
+"text": "DAFTAR AKUN",
+"href": "https://langforsenate.pages.dev/"
+},
+{
+"text": "DAFTAR DISINI",
+"href": "https://langforsenate.pages.dev/"
+},
+{
+"text": "Design Guide",
+"href": "https://assets.teepublic.com/assets/pdfs/designing-for-dtg-061ba741bd403ab1a5d84d0ed3ce584bae150e47068f0a275f72e64e8b577189.pdf"
+},
+{
+"text": "FAQ",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Featured Artists",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Featured Designers",
+"href": "https://langforsenate.com/featured-designers"
+},
+{
+"text": "Free Shipping",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "GAME SLOT",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Hats",
+"href": "https://langforsenate.com/hats"
+},
+{
+"text": "Hats New!",
+"href": "https://langforsenate.com/hats"
+},
+{
+"text": "Hire an Artist",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Hoodies",
+"href": "https://langforsenate.com/hoodie"
+},
+{
+"text": "Intellectual Property Policy",
+"href": "https://langforsenate.com/intellectual-property-policy"
+},
+{
+"text": "Kids Hoodie",
+"href": "https://langforsenate.com/kids-hoodies"
+},
+{
+"text": "Kids Long Sleeve T-Shirt",
+"href": "https://langforsenate.com/kids-long-sleeve-t-shirts"
+},
+{
+"text": "Kids T-Shirts",
+"href": "https://langforsenate.com/kids-t-shirt"
+},
+{
+"text": "LGBTQIA Artists",
+"href": "https://langforsenate.com/stores/lgbtqia-artists"
+},
+{
+"text": "LOGIN",
+"href": "https://langforsenate.pages.dev/"
+},
+{
+"text": "LOGIN DISINI",
+"href": "https://langforsenate.pages.dev/"
+},
+{
+"text": "Log In",
+"href": "https://langforsenate.com/users/sign_in"
+},
+{
+"text": "Long Sleeve T-Shirts",
+"href": "https://langforsenate.com/long-sleeve-t-shirt"
+},
+{
+"text": "Magnets",
+"href": "https://langforsenate.com/magnets"
+},
+{
+"text": "Mugs",
+"href": "https://langforsenate.com/mug"
+},
+{
+"text": "Newest Designers",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Newest Designers",
+"href": "https://langforsenate.com/newest-designers"
+},
+{
+"text": "Newest T-Shirts",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Order Status",
+"href": "https://langforsenate.com/order/status"
+},
+{
+"text": "Phone Cases",
+"href": "https://langforsenate.com/phone-case"
+},
+{
+"text": "Pillows",
+"href": "https://langforsenate.com/throw-pillows"
+},
+{
+"text": "Pins",
+"href": "https://langforsenate.com/pins"
+},
+{
+"text": "Privacy Policy",
+"href": "https://langforsenate.com/privacy_policy"
+},
+{
+"text": "Product Safety",
+"href": "https://langforsenate.com/en-us/articles/29890745668631-General-Product-Safety-Regulation-GSPR"
+},
+{
+"text": "RAJA SLOT",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Refunds & Returns",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "SITUS SLOT",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "SITUS SLOT TERPERCAYA",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "SLOT MAXWIN",
+"href": "https://kermitsoutlawkitchen.com/about/"
+},
+{
+"text": "SLOT MAXWIN",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "SLOT ONLINE",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "SLOT TERPERCAYA",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "SLOT88",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Shipping Info",
+"href": "https://langforsenate.com/shipping"
+},
+{
+"text": "Shop All Designs",
+"href": "https://langforsenate.com/t-shirts"
+},
+{
+"text": "Shorts",
+"href": "https://langforsenate.com/shorts"
+},
+{
+"text": "Shorts New!",
+"href": "https://langforsenate.com/shorts"
+},
+{
+"text": "Size Chart",
+"href": "https://langforsenate.com/sizechart"
+},
+{
+"text": "Social Responsibility",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Social Responsibility",
+"href": "https://langforsenate.com/social-responsibility"
+},
+{
+"text": "Stickers",
+"href": "https://langforsenate.com/stickers"
+},
+{
+"text": "T-Shirts",
+"href": "https://langforsenate.com/t-shirts"
+},
+{
+"text": "TOYOTA 308",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "TOYOTA308",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Tag Directory",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Tag Directory",
+"href": "https://langforsenate.com/tag-directory"
+},
+{
+"text": "Tank Tops",
+"href": "https://langforsenate.com/tank-top"
+},
+{
+"text": "Tapestries",
+"href": "https://langforsenate.com/tapestries"
+},
+{
+"text": "TeePublic Blog",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "TeePublic Reviews",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "Terms",
+"href": "https://langforsenate.com/terms"
+},
+{
+"text": "Totes",
+"href": "https://langforsenate.com/totes"
+},
+{
+"text": "Ukrainian Artists",
+"href": "https://langforsenate.com/stores/ukrainian-artists"
+},
+{
+"text": "Wall Art",
+"href": "https://langforsenate.com/posters-and-art"
+},
+{
+"text": "[image: Better Business Bureau Accredited Business]",
+"href": "https://www.bbb.org/us/ny/new-york/profile/online-retailer/teepublic-0121-168669"
+},
+{
+"text": "[image: SLOT TERPERCAYA]",
+"href": "https://www.teepublic.com/"
+},
+{
+"text": "[image: TOYOTA308 ]",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image: TOYOTA308 by Hey siriusly]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[image: Toyota308 — Pecinta Otomotif Pasti Familiar dengan Auranya by Hey siriusly]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[image]",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] GAME SLOT",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] RAJA SLOT",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] SITUS SLOT",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] SLOT MAXWIN",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] SLOT88",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] TOYOTA 308",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[image] TOYOTA308",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "[tooltip: Home]",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "animals",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "anime",
+"href": "https://langforsenate.com/t-shirts/anime"
+},
+{
+"text": "drinks",
+"href": "https://langforsenate.com/t-shirts/drinks"
+},
+{
+"text": "fantasy",
+"href": "https://langforsenate.com/t-shirts/fantasy"
+},
+{
+"text": "food",
+"href": "https://langforsenate.com/t-shirts/food"
+},
+{
+"text": "funny",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "movies",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "music",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "politics",
+"href": "https://langforsenate.com/t-shirts/politics"
+},
+{
+"text": "sci-fi",
+"href": "https://langforsenate.com/t-shirts/sci-fi"
+},
+{
+"text": "sports",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "television",
+"href": "https://langforsenate.com/"
+},
+{
+"text": "vintage",
+"href": "https://langforsenate.com/"
+}
 ]

@@ -1,5 +1,4 @@
-My Story
-I was raised on a farm in Texas.
+Skip to content Home My Story Issues Contact Home My Story Issues Contact My Story I was raised on a farm in Texas.
 A few years before I was born, my parents, who adopted me, moved from Dallas and purchased the small farm where I grew up using money they received from an inheritance.
 Obviously, growing up on a farm instead of Dallas completely changed the trajectory of my life.
 Like most people, my dad was not perfect, but he valued hard work above almost anything.
@@ -36,3 +35,4 @@ We need to make that first hardest step more available to all.
 Incidentally, things came full circle when I sold my farms.
 Although we were not related like in my situation, I had to put up collateral so the buyer of my farms could get his loan as well.
 It’s always the first step that’s the hardest.
+Authorized and Paid for by Brown for State House 2026

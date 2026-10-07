@@ -1,20 +1,82 @@
 [
-"http://bsky.app/profile/alexisforcolorado.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=JeffCo+League+of+Women+Voters+-+Candidate+Forum&dates=20261003T000000Z%2F20261003T020000Z",
-"http://instagram.com/alexisforcolorado",
-"https://alexisforcolorado.com/",
-"https://alexisforcolorado.com/cart",
-"https://alexisforcolorado.com/endorsements",
-"https://alexisforcolorado.com/events",
-"https://alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling-m6bw8-2kl6p-fp7ay",
-"https://alexisforcolorado.com/events/jeffco-league-of-women-voters-candidate-forum?format=ical",
-"https://alexisforcolorado.com/media",
-"https://alexisforcolorado.com/voterguide",
-"https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2",
-"https://facebook.com/profile.php?id=61575273157265",
-"https://google.com/maps/search/6750+Carr+Street?entry=gmail",
-"https://meganhelseth.com/",
-"https://secure.actblue.com/donate/alexisforcolorado",
-"https://secure.actblue.com/donate/alexisforcolorado?recurring=true",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+{
+"text": "0",
+"href": "https://www.alexisforcolorado.com/cart"
+},
+{
+"text": "6750 Carr Street",
+"href": "https://www.google.com/maps/search/6750+Carr+Street?entry=gmail"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexisforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "GIVE MONTHLY",
+"href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=JeffCo+League+of+Women+Voters+-+Candidate+Forum&dates=20261003T000000Z%2F20261003T020000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.alexisforcolorado.com/events/jeffco-league-of-women-voters-candidate-forum?format=ical"
+},
+{
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
+"text": "Media",
+"href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Previous Previous September 26 Canvass with your community for Dr. Alexis",
+"href": "https://www.alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling-m6bw8-2kl6p-fp7ay"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.alexisforcolorado.com/voterguide"
+},
+{
+"text": "[image: Alexis for Colorado]",
+"href": "https://www.alexisforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/alexisforcolorado.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/alexisforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575273157265"
+}
 ]

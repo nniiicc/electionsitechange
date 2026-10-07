@@ -1,11 +1,10 @@
-John served two terms as President of St.
+Skip to content Follow John Marquardt FACEBOOK JOHN MARQUARDT For District 18 State House Home About John Testimonials Media Donate John served two terms as President of St.
 John’s Lutheran Church and has served as an Elder for several years.
 In his service to St.
 John’s, he has helped lead the congregation through its celebrations, including the reception of the Employer Support of the Guard and Reserve (ESGR) Pro Patria and Freedom Awards for its support of a deployed military employee.
 He has also helped the congregation recover from the challenges of an arson church fire and COVID pandemic, and navigate through ministry, preschool, and office staff transitions.
 Pastor Steve, St.
-John’s Lutheran Church
-John Marquardt has served in many capacities within the Marquardt family of businesses in the Yankton area.
+John’s Lutheran Church John Marquardt has served in many capacities within the Marquardt family of businesses in the Yankton area.
 He has distinguished himself as a team leader, technology strategist, transportation innovator, and customer service specialist.
 When he took over operations of the grain elevator facility at Tabor; he worked diligently to develop a new customer base for the feed products that he and his staff produced.
 He also endeavored to interact with local producers to offer them a competitive price for their grain as well as a place to store their products prior to marketing them.
@@ -18,8 +17,7 @@ John will be a good County Commissioner.
 He will listen to his constituents and be an excellent custodian of taxpayer dollars.
 He will search for new ideas and opportunities while at the same time maintaining those practices and procedures that are in place that make good sense for Yankton County.
 We need John’s leadership now for a more positive agri-business perspective and a prosperous and safe Yankton County.
-Dave Husby, Marquardt Companies
-I have known John Marquardt for many years through USA Softball of South Dakota.
+Dave Husby, Marquardt Companies I have known John Marquardt for many years through USA Softball of South Dakota.
 He has become a personal friend.
 Let me tell you what I admire about John other than the pride he has in his community.
 He makes decisions on what is best for those that he represents.
@@ -32,4 +30,4 @@ He will work to improve the quality of life that you want your family to enjoy a
 For years, John has demonstrated his commitment through his contributions to the community and our organization.
 John has exhibited an understanding of the shared vested interest every member of the community should feel.
 I urge the voters of Yankton County to give John Marquardt the opportunity to represent you in the future.
-Gary Young, Commissioner, USA Softball of South Dakota
+Gary Young, Commissioner, USA Softball of South Dakota Paid for by Friends of John Marquardt campaign Scroll to Top

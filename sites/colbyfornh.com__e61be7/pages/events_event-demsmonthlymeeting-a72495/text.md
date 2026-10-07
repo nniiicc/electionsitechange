@@ -1,10 +1,3 @@
-Back to All Events
-Join us at the Bow Baker Free Library for the Bow Democrats’ December meeting.
+0 Skip to Content About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Open Menu Close Menu About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Open Menu Close Menu About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Back to All Events Legislative Preview 2026 Thursday, December 11, 2025 7:00 PM 8:30 PM Baker Free Library 509 South Street Bow, NH 03304 United States (map) Google Calendar ICS Join us at the Bow Baker Free Library for the Bow Democrats’ December meeting.
 New Hampshire Representatives Eleana Colby, Muriel Hall, David Luneau, and James Newsom will provide a preview of what to expect in the upcoming legislative session and discuss how to effectively advocate for the needs of our fellow Granite Staters.
-Previous
-Previous
-November 30
-Online Event NH Local Government 101
-Next
-Next
-January 4
+Tagged: Hopkinton , Bow , New Hampshire , Politics , Legislation , State House , Concord , Democrats Previous Previous November 30 Online Event NH Local Government 101 Next Next January 4 ZOOM: Navigate to Advocate: How to Testify Online Paid for by Colby For NH 2025

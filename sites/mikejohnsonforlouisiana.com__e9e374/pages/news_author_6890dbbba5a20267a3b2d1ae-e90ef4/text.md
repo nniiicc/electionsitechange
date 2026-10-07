@@ -1,32 +1,18 @@
-Speaker Johnson Sets Record for Republican House Speaker in Third Quarter
-Since being unanimously elected by his Republican colleagues last October, Speaker Johnson has now surpassed $70 million in his direct fundraising efforts to grow the majority, and has invested more than $30 million into Republican campaign accounts across the country.
-Speaker Johnson on the Vice Presidential Debate:'Tonight proved Harris and Walz are the most radical, left-wing ticket in history'
-Tonight, America saw a clear contrast between the failed, radical polices of Kamala Harris that have made our lives worse, and Donald Trump’s common sense, successful America First policies that improved our lives.
-Speaker Johnson on the Presidential Debate:"President Trump will deliver a secure border, the best economy in history, and peace through strength"
-While Harris lied about her radical positions and spoke about things she would supposedly do as President, and despite the biased moderators shamelessly covering for Harris, there are two problems that Americans were reminded of in prime-time: she has a lifelong record as a Marxist, and she's the sitting Vice President who could secure the border and bring down costs today.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Guest User 10/14/24 Guest User 10/14/24 Speaker Johnson Sets Record for Republican House Speaker in Third Quarter Since being unanimously elected by his Republican colleagues last October, Speaker Johnson has now surpassed $70 million in his direct fundraising efforts to grow the majority, and has invested more than $30 million into Republican campaign accounts across the country.
+Read More Guest User 10/1/24 Guest User 10/1/24 Speaker Johnson on the Vice Presidential Debate:'Tonight proved Harris and Walz are the most radical, left-wing ticket in history' Tonight, America saw a clear contrast between the failed, radical polices of Kamala Harris that have made our lives worse, and Donald Trump’s common sense, successful America First policies that improved our lives.
+Read More Guest User 9/10/24 Guest User 9/10/24 Speaker Johnson on the Presidential Debate:"President Trump will deliver a secure border, the best economy in history, and peace through strength" While Harris lied about her radical positions and spoke about things she would supposedly do as President, and despite the biased moderators shamelessly covering for Harris, there are two problems that Americans were reminded of in prime-time: she has a lifelong record as a Marxist, and she's the sitting Vice President who could secure the border and bring down costs today.
 Yet when Bernie Sanders and Kamala Harris both say Harris' values 'have not changed,' we should believe them.
-Speaker Johnson Releases Statement on the Most Radical Left-Wing Ticket in American History
-Speaker Mike Johnson released the following statement concerning the decision of Vice President and San Francisco radical Kamala Harris to name Minnesota Governor Tim Walz…
-Speaker Johnson to RNC:"We Will Make America Safe Again!"
-Speaker Mike Johnson, Permanent Chair of the 2024 RNC Convention, delivered remarks Tuesday evening focused on tonight's Convention theme of “Make America Safe Again.”
-Speaker Johnson Releases Statement on President Trump's Vice Presidential Selection
-Speaker Mike Johnson, Permanent Chair of the 2024 RNC Convention, released the following statement on President Donald Trump's selection of Senator J.D.
-Vance to serve…
-Speaker Johnson Raises $23.5 million in Second Quarter
-Johnson surpasses $50 million raised for House Republicans as Speaker
-Speaker Johnson Following Meeting with President Trump:
-‘We will win the White House, win the Senate, and grow the House Majority’
-Speaker Johnson Endorsed by President Trump in LA-04
-On Sunday, President Trump posted, "Congressman Mike Johnson is a tremendous champion for Louisiana's 4th Congressional District!
+Read More Guest User 8/6/24 Guest User 8/6/24 Speaker Johnson Releases Statement on the Most Radical Left-Wing Ticket in American History Speaker Mike Johnson released the following statement concerning the decision of Vice President and San Francisco radical Kamala Harris to name Minnesota Governor Tim Walz… Read More Guest User 7/16/24 Guest User 7/16/24 Speaker Johnson to RNC:"We Will Make America Safe Again!" Speaker Mike Johnson, Permanent Chair of the 2024 RNC Convention, delivered remarks Tuesday evening focused on tonight's Convention theme of “Make America Safe Again.” Read More Guest User 7/15/24 Guest User 7/15/24 Speaker Johnson Releases Statement on President Trump's Vice Presidential Selection Speaker Mike Johnson, Permanent Chair of the 2024 RNC Convention, released the following statement on President Donald Trump's selection of Senator J.D.
+Vance to serve… Read More Guest User 7/11/24 Guest User 7/11/24 Speaker Johnson Raises $23.5 million in Second Quarter Johnson surpasses $# million raised for House Republicans as Speaker Read More Guest User 6/13/24 Guest User 6/13/24 Speaker Johnson Following Meeting with President Trump: ‘We will win the White House, win the Senate, and grow the House Majority’ Read More Guest User 5/26/24 Guest User 5/26/24 Speaker Johnson Endorsed by President Trump in LA-04 On Sunday, President Trump posted, "Congressman Mike Johnson is a tremendous champion for Louisiana's 4th Congressional District!
 Mike is not only our Speaker but is also a Patriot.
-Speaker Johnson Raises Over $20 Million in First Quarter to Grow the Majority
-Speaker Johnson Transfers Additional $1.5 Million to the NRCC
-Speaker Mike Johnson announced today a transfer of an additional $1.5 million to the National Republican Congressional Committee
-Speaker Johnson Releases Statement on Super Tuesday
-Speaker Johnson Releases Statement on New Hampshire Primary
-“It’s now past time for the Republican Party to unite around President Trump so we can focus on ending the disastrous Biden presidency and growing our majority in Congress.”
-Speaker Johnson Raises $10.6 Million in Q4
-Speaker Johnson Releases Statement on Iowa Caucus
-"Tonight's vote was an endorsement of President Trump's extraordinary record and his ongoing vision to fix our economy, secure our border, and defend the freedoms and values that make America great.
-Speaker Johnson Announces “Grow the Majority” Joint Fundraising Committee
-The Grow the Majority joint fundraising committee is comprised of over 70 Republican entities adding up to a maximum contribution of $850,600.
+Read More Guest User 4/11/24 Guest User 4/11/24 Speaker Johnson Raises Over $20 Million in First Quarter to Grow the Majority Speaker Mike Johnson announced he raised more than $# million in the first quarter of 2024.
+Read More Guest User 3/5/24 Guest User 3/5/24 Speaker Johnson Transfers Additional $1.5 Million to the NRCC Speaker Mike Johnson announced today a transfer of an additional $1.5 million to the National Republican Congressional Committee Read More Guest User 3/5/24 Guest User 3/5/24 Speaker Johnson Releases Statement on Super Tuesday Speaker Mike Johnson announced he raised more than $# million in the first quarter of 2024.
+Read More Guest User 1/23/24 Guest User 1/23/24 Speaker Johnson Releases Statement on New Hampshire Primary “It’s now past time for the Republican Party to unite around President Trump so we can focus on ending the disastrous Biden presidency and growing our majority in Congress.” Read More Guest User 1/16/24 Guest User 1/16/24 Speaker Johnson Raises $10.6 Million in Q4 Speaker Mike Johnson announced he raised more than $# million in the fourth quarter of 2023 as he leads the Republican conference to grow the majority this year.
+Read More Guest User 1/15/24 Guest User 1/15/24 Speaker Johnson Releases Statement on Iowa Caucus "Tonight's vote was an endorsement of President Trump's extraordinary record and his ongoing vision to fix our economy, secure our border, and defend the freedoms and values that make America great.
+Read More Guest User 11/20/23 Guest User 11/20/23 Speaker Johnson Announces “Grow the Majority” Joint Fundraising Committee The Grow the Majority joint fundraising committee is comprised of over 70 Republican entities adding up to a maximum contribution of $850,600.
+Read More Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

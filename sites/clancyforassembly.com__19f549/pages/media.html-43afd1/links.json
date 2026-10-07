@@ -1,26 +1,110 @@
 [
-"http://actblue.com/donate/socswag",
-"http://cc.com/video-clips/ct7e92/the-daily-show-with-jon-stewart-weakened-getaway",
-"http://monologuesofdissent.blogspot.com/2015/12/open-letter-of-year-scott-walker-gets.html",
-"https://clancyforassembly.com/",
-"https://clancyforassembly.com/about.html",
-"https://clancyforassembly.com/cdn-cgi/l/email-protection",
-"https://clancyforassembly.com/contact.html",
-"https://clancyforassembly.com/endorsements.html",
-"https://clancyforassembly.com/map.html",
-"https://clancyforassembly.com/media.html",
-"https://clancyforassembly.com/priorities.html",
-"https://facebook.com/clancyformilwaukee",
-"https://flickr.com/photos/ruggless/sets/72157694168141605",
-"https://jsonline.com/story/news/local/2020/01/04/protests-condemn-u-s-killing-iranian-general-and-sending-more-troops-middle-east/2814028001",
-"https://jsonline.com/story/news/local/milwaukee/2016/05/19/custard-stand-owner-rights-group-to-meet-over-language-issue/84996756",
-"https://nytimes.com/2003/08/14/us/after-the-war-dissent-us-may-fine-some-who-shielded-iraq-sites.html?searchResultPosition=1",
-"https://onmilwaukee.com/dining/articles/bounce-mock-chicken-leg-pizza.html",
-"https://podcasts.apple.com/us/podcast/24-mke-co-supervisor-candidate-ryan-clancy/id1437121277?i=1000445099921",
-"https://secure.actblue.com/donate/clancy-for-assembly-1",
-"https://urbanmilwaukee.com/pressrelease/ryan-clancy-candidate-for-milwaukee-county-supervisor-calls-for-divestment-from-southwest-key",
-"https://vdlf.org/school-walkouts-civil-disobedience-as-wisconsin-rises-up-for-the-clean-dream-act",
-"https://wisconsinexaminer.com/2019/09/25/new-restaurant-lobby-takes-aim-at-state-association",
-"https://wpr.org/milwaukee-man-sets-pinball-record-while-raising-money-hospital",
-"https://wsj.com/articles/SB104820429231352200?mod=searchresults&page=1&pos=20++%E2%80%8B"
+{
+"text": "About",
+"href": "https://www.clancyforassembly.com/about.html"
+},
+{
+"text": "Activists Arrested Protesting In Favor of Clean DREAM Act",
+"href": "https://vdlf.org/school-walkouts-civil-disobedience-as-wisconsin-rises-up-for-the-clean-dream-act/"
+},
+{
+"text": "Activists Arrested for Civil Disobedience for Clean DREAM Act",
+"href": "https://www.flickr.com/photos/ruggless/sets/72157694168141605/"
+},
+{
+"text": "Bounce Milwaukee's Mock Chicken Leg Pizza Raises Funds For Public School Advocacy",
+"href": "https://onmilwaukee.com/dining/articles/bounce-mock-chicken-leg-pizza.html"
+},
+{
+"text": "Contact",
+"href": "https://www.clancyforassembly.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clancy-for-assembly-1"
+},
+{
+"text": "Donate to Ryan Clancy for Assembly",
+"href": "https://secure.actblue.com/donate/clancy-for-assembly-1"
+},
+{
+"text": "Ed Helms Interviews Ryan About \"Vacationing\" in Iraq",
+"href": "http://www.cc.com/video-clips/ct7e92/the-daily-show-with-jon-stewart-weakened-getaway"
+},
+{
+"text": "Encouraging Diversity at Bounce Milwaukee",
+"href": "https://www.jsonline.com/story/news/local/milwaukee/2016/05/19/custard-stand-owner-rights-group-to-meet-over-language-issue/84996756/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clancyforassembly.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.clancyforassembly.com/"
+},
+{
+"text": "Human Shield Returns Home, His Work Undone",
+"href": "https://www.wsj.com/articles/SB104820429231352200?mod=searchresults&page=1&pos=20++%E2%80%8B"
+},
+{
+"text": "Map",
+"href": "https://www.clancyforassembly.com/map.html"
+},
+{
+"text": "Media",
+"href": "https://www.clancyforassembly.com/media.html"
+},
+{
+"text": "Merchandise",
+"href": "http://actblue.com/donate/socswag"
+},
+{
+"text": "Milwaukee Demonstrations Against US Military Strikes in Iran",
+"href": "https://www.jsonline.com/story/news/local/2020/01/04/protests-condemn-u-s-killing-iranian-general-and-sending-more-troops-middle-east/2814028001/"
+},
+{
+"text": "Priorities",
+"href": "https://www.clancyforassembly.com/priorities.html"
+},
+{
+"text": "Rival restaurant lobby says it wants to put employees first",
+"href": "https://wisconsinexaminer.com/2019/09/25/new-restaurant-lobby-takes-aim-at-state-association/"
+},
+{
+"text": "Ryan Clancy Raises Thousands of Dollars for Children's Hospital of Wisconsin",
+"href": "https://www.wpr.org/milwaukee-man-sets-pinball-record-while-raising-money-hospital"
+},
+{
+"text": "Ryan Clancy interview on the State Reppin' podcast with Rep. Jonathan Brostoff and Rep. David Bowen",
+"href": "https://podcasts.apple.com/us/podcast/24-mke-co-supervisor-candidate-ryan-clancy/id1437121277?i=1000445099921"
+},
+{
+"text": "Ryan Clancy, candidate for Milwaukee County Supervisor, calls for divestment from Southwest Key",
+"href": "https://urbanmilwaukee.com/pressrelease/ryan-clancy-candidate-for-milwaukee-county-supervisor-calls-for-divestment-from-southwest-key/"
+},
+{
+"text": "Scott Walker Gets Schooled by Former Teacher Turned Small-Business Owner",
+"href": "http://monologuesofdissent.blogspot.com/2015/12/open-letter-of-year-scott-walker-gets.html"
+},
+{
+"text": "US Fines Human Shields",
+"href": "https://www.nytimes.com/2003/08/14/us/after-the-war-dissent-us-may-fine-some-who-shielded-iraq-sites.html?searchResultPosition=1"
+},
+{
+"text": "Volunteer or connect with us",
+"href": "https://www.clancyforassembly.com/contact.html"
+},
+{
+"text": "[image: Clancy for Assembly, District 19]",
+"href": "https://www.clancyforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/clancyformilwaukee"
+},
+{
+"text": "[no text]",
+"href": "mailto:rmclancy@gmail.com"
+}
 ]

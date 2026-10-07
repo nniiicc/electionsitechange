@@ -1,5 +1,7 @@
-We’re running a grassroots campaign powered by the people of District 34—not political insiders.
+Skip to content About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact Donate Now Contact We’re running a grassroots campaign powered by the people of District 34—not political insiders.
 From placing a yard sign in your front lawn to helping spread the word at local events, every act of support brings us closer to victory.
 Whether you can volunteer your time, share Rusty’s message with friends and neighbors, or simply show up on election day, your involvement matters.
 Join Team Glover today and let’s work together to keep Alabama strong.
-Ask ChatGPT
+Ask ChatGPT Contact Us Alabama District 34 info@electrustyglover.com Facebook-f Send Rusty A message Name Email Phone Message Send Message newsletter STAY CONNECTED WITH RUSTY Get the latest updates from the campaign trail, community events, and election news.
+Be the first to know how you can get involved and help make a difference in District 34.
+Email Subscribe Now Trusted Leadership for Alabama’s Future. about About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact Contact Us Alabama District 34 rustyglover34@gmail.com Facebook-f PAID FOR BY COMMITTEE TO ELECT RUSTY GLOVER, PO BOX 2175, SEMMES, AL 36575 Web Development by Websites Inc.

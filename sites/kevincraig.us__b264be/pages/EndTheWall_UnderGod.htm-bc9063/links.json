@@ -1,24 +1,114 @@
 [
-"http://anncoulter.com/cgi-local/printer_friendly.cgi?article=272",
-"http://books.google.com/books?id=aw2wysFo4_gC&pg=PA220&lpg=PA220&dq=%22under+God%22&ots=UuqG5MBgHH&sig=-_T0B_vv0lJXe_rbub2XOrOEOng&hl=en&sa=X&oi=book_result&resnum=3&ct=result",
-"http://books.google.com/books?id=kXMQAAAAYAAJ&pg=PA369&dq=%22under+God%22",
-"http://caselaw.findlaw.com/data2/circs/9th/0016423p.pdf",
-"http://kevincraig.us/",
-"http://kevincraig.us/EndTheWall/romans13sep.htm",
-"http://kevincraig.us/EndTheWall/true_religion.htm",
-"http://kevincraig.us/campaign.htm",
-"http://kevincraig.us/deism.htm",
-"http://kevincraig.us/duty.htm",
-"http://kevincraig.us/judge.htm",
-"http://kevincraig.us/organic.htm",
-"http://kevincraig.us/religion/nature.htm",
-"http://kevincraig.us/religion/providence.htm",
-"http://memory.loc.gov/cgi-bin/query/r",
-"http://vftonline.org/EndTheWall/cases.htm",
-"http://vftonline.org/EndTheWall/morris.htm",
-"http://vftonline.org/EndTheWall/pre-ref.htm",
-"http://vftonline.org/TestOath/21atheists.htm",
-"https://kevincraig.us/EndTheWall/10commandments.htm",
-"https://kevincraig.us/EndTheWall/contents.htm",
-"https://kevincraig.us/EndTheWall/separation.htm"
+{
+"text": "AnnCoulter.com",
+"href": "http://www.anncoulter.com/cgi-local/printer_friendly.cgi?article=272"
+},
+{
+"text": "Benjamin Franklin",
+"href": "http://books.google.com/books?id=aw2wysFo4_gC&pg=PA220&lpg=PA220&dq=%22under+God%22&ots=UuqG5MBgHH&sig=-_T0B_vv0lJXe_rbub2XOrOEOng&hl=en&sa=X&oi=book_result&resnum=3&ct=result"
+},
+{
+"text": "Campaign Finance, Corruption and the Oath of Office",
+"href": "http://kevincraig.us/campaign.htm"
+},
+{
+"text": "Divine Providence",
+"href": "http://kevincraig.us/religion/providence.htm"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/EndTheWall/contents.htm#Domestic"
+},
+{
+"text": "Engel v Vitale",
+"href": "http://vftonline.org/EndTheWall/cases.htm#ENGEL"
+},
+{
+"text": "For more on the religious foundations of American Government.",
+"href": "http://kevincraig.us/EndTheWall/romans13sep.htm"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/EndTheWall/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/EndTheWall/contents.htm#Government"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/EndTheWall/contents.htm#Culture"
+},
+{
+"text": "Our laws were patterned after the Ten Commandments",
+"href": "https://kevincraig.us/EndTheWall/10commandments.htm"
+},
+{
+"text": "Providence",
+"href": "http://kevincraig.us/religion/providence.htm"
+},
+{
+"text": "Separation of Church and State",
+"href": "https://kevincraig.us/EndTheWall/separation.htm"
+},
+{
+"text": "Supreme Judge of the world",
+"href": "http://kevincraig.us/judge.htm"
+},
+{
+"text": "That summer, in 1776",
+"href": "http://memory.loc.gov/cgi-bin/query/r?ammem%2Fmgw%3A%40field%28DOCID+%40lit%28gw050196%29%29="
+},
+{
+"text": "The Ninth Circuit Court of Appeals recently declared",
+"href": "http://caselaw.findlaw.com/data2/circs/9th/0016423p.pdf"
+},
+{
+"text": "True Religion",
+"href": "http://kevincraig.us/EndTheWall/true_religion.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "atheists",
+"href": "http://vftonline.org/TestOath/21atheists.htm"
+},
+{
+"text": "deists",
+"href": "http://kevincraig.us/deism.htm%20"
+},
+{
+"text": "duties",
+"href": "http://kevincraig.us/duty.htm"
+},
+{
+"text": "p.368-69",
+"href": "http://books.google.com/books?id=kXMQAAAAYAAJ&pg=PA369&dq=%22under+God%22"
+},
+{
+"text": "the Laws of Nature and of Nature's God",
+"href": "http://kevincraig.us/religion/nature.htm"
+},
+{
+"text": "the Organic Laws of the United States",
+"href": "http://kevincraig.us/organic.htm"
+},
+{
+"text": "the early Protestant Reformer John Wycliffe",
+"href": "http://vftonline.org/EndTheWall/pre-ref.htm"
+},
+{
+"text": "the guidance of Almighty Providence",
+"href": "http://kevincraig.us/religion/providence.htm"
+},
+{
+"text": "the myth of the \"separation of church and state",
+"href": "https://kevincraig.us/EndTheWall/separation.htm"
+},
+{
+"text": "we are told",
+"href": "http://vftonline.org/EndTheWall/morris.htm"
+}
 ]

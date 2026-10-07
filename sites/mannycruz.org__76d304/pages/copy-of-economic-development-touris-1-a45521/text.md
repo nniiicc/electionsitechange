@@ -1,8 +1,5 @@
-Reproductive
-Justice
-Proudly Endorsed by:
-FOR IMMEDIATE RELEASE: May 6th, 2022
-This week, I am joining our federal, state, and local leaders in denouncing the draft opinion and the forthcoming decision by the conservative Supreme Court to overturn the case of Roe v.
+top of page Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
+Reproductive Justice Proudly Endorsed by: HOUSING & SENIORS EDUCATION & YOUNG PEOPLE CLIMATE & ENVIRONMENTAL JUSTICE ECONOMIC DEVELOPMENT & TOURISM JOBS MENTAL HEALTH & OPIOIDS FOR IMMEDIATE RELEASE: May 6th, 2022 ​ This week, I am joining our federal, state, and local leaders in denouncing the draft opinion and the forthcoming decision by the conservative Supreme Court to overturn the case of Roe v.
 Wade.
 ROE has been the law of the land for 50 years.
 The court is now occupied by liars, ideologues, and unqualified jurists who fully intend to take us back to the days in which access to Reproductive care for abortion patients is subjected to the will of the states.
@@ -23,3 +20,4 @@ My pledge is that as the next State Representative of Salem I will actively cham
 I am calling on ALL declared candidates for State Representative for the 7th Essex to publicly release their positions on the leaked draft opinion overturning ROE.
 I stand in solidarity with ALL the advocates for Reproductive Health, Justice, Equity, and Abortion Access.
 Salem voters deserve to know where my fellow candidates stand.
+PUBLIC SAFETY & COVID-19 Email mannycruzsalem@gmail.com Follow Paid for by The Cruz Committee bottom of page

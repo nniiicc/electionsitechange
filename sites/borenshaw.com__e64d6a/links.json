@@ -1,8 +1,38 @@
 [
-"https://borenshaw.com/",
-"https://borenshaw.com/about",
-"https://borenshaw.com/press",
-"https://borenshaw.com/privacy",
-"https://secure.winred.com/bo-renshaw-for-state-representative/donate-today",
-"https://voterview.ar-nova.org/VoterView"
+{
+"text": "About",
+"href": "https://borenshaw.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bo-renshaw-for-state-representative/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/bo-renshaw-for-state-representative/donate-today"
+},
+{
+"text": "Find My Polling Place →",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "Home",
+"href": "https://borenshaw.com/"
+},
+{
+"text": "Press",
+"href": "https://borenshaw.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://borenshaw.com/privacy"
+},
+{
+"text": "Read Bo's Full Story →",
+"href": "https://borenshaw.com/about"
+},
+{
+"text": "[image: Bo Renshaw — State Representative]",
+"href": "https://borenshaw.com/"
+}
 ]

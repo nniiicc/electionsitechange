@@ -1,6 +1,4 @@
-Homelessness
-Los datos no mienten
-Con mucho, California tiene la mayor población sin hogar en el país.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Homelessness Stanford Institute for Economic Policy Research (SIEPR) 2022 Los datos no mienten Con mucho, California tiene la mayor población sin hogar en el país.
 Esto no debería sorprender dado el hecho de que nuestro liderazgo actual ha incentivado y desarrollado toda una economía en torno a ella.
 Mientras que los políticos y los promotores inmobiliarios se alinean en sus bolsillos, fingiendo abordar el problema, las causas fundamentales nunca se enfrentan.
 Como resultado, el resto de nosotros nos convertimos en víctimas del crimen y la anarquía que se producen como consecuencia natural.
@@ -18,3 +16,6 @@ Hay una correlación directa entre el aumento del liderazgo demócrata en Califo
 La falta de vivienda es un tema que no podemos comenzar a tratar con las mismas personas en la oficina que crearon el problema.
 Si dejáramos de subvencionar las drogas y los sin hogar, podríamos empezar a ver que se desarrollan soluciones reales.
 Pero para hacerlo, necesitamos un nuevo liderazgo, de arriba a abajo, ¡y lo necesitamos AHORA!
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

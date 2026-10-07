@@ -1,4 +1,4 @@
-The state government must do much more for our elderly.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute Our Elderly Home / Issues / Our Elderly The state government must do much more for our elderly.
 This should include voluntary welfare checks, assessments, and referral to medical care.
 No older person should have to go without needed care or, heaven forbid, die alone.
 My mom passed away in 2020 at the age of 88 during the covid outbreak.
@@ -33,3 +33,11 @@ Maine must put people first.
 We must re-prioritize our spending, work more efficiently and effectively, and restructure our tax system to have the resources needed to help our seniors and their families.
 We must focus our resources on those who need them the most.
 As the state with the highest median age, we have a lot of work to do.
+Issues John M.
+Glowa, Sr.
+An experienced public servant and lifelong advocate for government reform, environmental protection, and putting people before politics.
+Recent Post ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News John Glowa, Sr.
+Announces Gubernatorial Candidacy Why Should You Vote For Me?
+See All Posts John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

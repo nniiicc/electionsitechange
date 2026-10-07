@@ -1,4 +1,4 @@
-- We need to use the tax code to redistribute our over-concentration of wealth from the top 1% and large, multi-national corporations.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Federal Tax Reform ​ Climate Change Women and Girls’ Survival Community Based Economics and Economic Justice Health Care for All Federal Tax Reform Foreign Policy Privacy Immigration Reform Community Peace/Stopping Police Violence We need to use the tax code to redistribute our over-concentration of wealth from the top 1% and large, multi-national corporations.
 I support reinstating estate and capital gains taxes at 1970s rates.
 Increase subsidies for solar, wind, geothermal, tidal energy.
 Stop subsidies for the petroleum, natural gas, and nuclear industries.
@@ -17,4 +17,4 @@ I also support tax assistance for employee-owned companies, to build a more just
 The tax system should support our emergency switch to renewable energy to reverse climate change.
 I support removing all tax subsidies for the petroleum, natural gas, and nuclear industries, including the Price Anderson Act shielding the nuclear industry from bearing its full cost.
 I support tax subsidies for renewable energy as a minimum step in fighting climate change, since every second counts towards planetary survival.
-And Congress needs to end our massive farm bill tax subsidies for the four grains which are the basis of our snack foods, and instead provide a fair, free market for production of healthier fruits and vegetables.
+And Congress needs to end our massive farm bill tax subsidies for the four grains which are the basis of our snack foods, and instead provide a fair, free market for production of healthier fruits and vegetables. " Then in times of need, one should rise to the occasion & fight bravely for what is right.....it is not enough to be compassionate, one must act. " -- Dalai Lama © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

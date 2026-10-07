@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Vivacity+Leadership+Alliance&dates=20260413T020000Z%2F20260413T030000Z",
-"https://bsky.app/profile/valyndaformt.bsky.social",
-"https://facebook.com/valyndaformt",
-"https://instagram.com/valyndaformt",
-"https://secure.actblue.com/donate/valyndaformt",
-"https://tiktok.com/@valyndaformt",
-"https://us06web.zoom.us/j/88679362405?pwd=DDh47qW5eXpPp1dZLehtwn59oIEag9.1",
-"https://us06web.zoom.us/meetings/88679362405/invitations?signature=jvc01ai8Bm_IX9qJ7vS7_3b_cP5zXh5s4gxFQXi4oaI",
-"https://valyndaformt.com/",
-"https://valyndaformt.com/about",
-"https://valyndaformt.com/calendar",
-"https://valyndaformt.com/calendar/clean-up-day",
-"https://valyndaformt.com/calendar/town-hall-candidate-forum",
-"https://valyndaformt.com/calendar/vivacity-leadership-alliance?format=ical",
-"https://valyndaformt.com/cart",
-"https://valyndaformt.com/contact",
-"https://valyndaformt.com/endorsements",
-"https://x.com/valyndaformt",
-"https://youtube.com/@ValyndaforMT"
+{
+"text": "0",
+"href": "https://www.valyndaformt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.valyndaformt.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.valyndaformt.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.valyndaformt.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.valyndaformt.com/contact"
+},
+{
+"text": "Donate To The Cause!",
+"href": "https://secure.actblue.com/donate/valyndaformt"
+},
+{
+"text": "Endorsements",
+"href": "https://www.valyndaformt.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Vivacity+Leadership+Alliance&dates=20260413T020000Z%2F20260413T030000Z"
+},
+{
+"text": "Home",
+"href": "https://www.valyndaformt.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.valyndaformt.com/calendar/vivacity-leadership-alliance?format=ical"
+},
+{
+"text": "Next Next April 28 Town Hall & Candidate Forum",
+"href": "https://www.valyndaformt.com/calendar/town-hall-candidate-forum"
+},
+{
+"text": "Previous Previous April 4 Clean Up Day!",
+"href": "https://www.valyndaformt.com/calendar/clean-up-day"
+},
+{
+"text": "[image: Valynda Holland for MT Senate District 11]",
+"href": "https://www.valyndaformt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/valyndaformt.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/valyndaformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/valyndaformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@valyndaformt"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ValyndaforMT"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/valyndaformt"
+},
+{
+"text": "https://us06web.zoom.us/j/88679362405?pwd=DDh47qW5eXpPp1dZLehtwn59oIEag9.1",
+"href": "https://us06web.zoom.us/j/88679362405?pwd=DDh47qW5eXpPp1dZLehtwn59oIEag9.1"
+},
+{
+"text": "https://us06web.zoom.us/meetings/88679362405/invitations?signature=jvc01ai8Bm_IX9qJ7vS7_3b_cP5zXh5s4gxFQXi4oaI",
+"href": "https://us06web.zoom.us/meetings/88679362405/invitations?signature=jvc01ai8Bm_IX9qJ7vS7_3b_cP5zXh5s4gxFQXi4oaI"
+}
 ]

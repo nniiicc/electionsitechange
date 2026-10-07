@@ -1,5 +1,4 @@
-Robb Ryerse
-Faith.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Robb Ryerse Faith.
 Family.
 Freedom.
 These words have been used to divide us.
@@ -13,6 +12,8 @@ Since then, he’s helped start national and local groups that fight extremism a
 He’s worked with Vote Common Good and co-founded with Dr.
 Chris Jones Vortex PAC to bring people together and support good leaders.
 Robb and his wife Vanessa have lived in Springdale for 20 years.
-They raised four kids and started a church called Vintage Fellowship.
+They raised four kids and started a church called Vintage Fellowship .
 Robb knows what it’s like to worry about health care bills, student loans, and an economy that leaves too many people behind.
 That’s why he’s fighting for working families—because he’s one of them.
+This campaign isn’t about Democrats or Republicans.
+Here’s how we Get there—together. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

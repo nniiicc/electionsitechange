@@ -1,6 +1,18 @@
 [
-"https://derrickcoley.com/",
-"https://derrickcoley.com/biography",
-"https://derrickcoley.com/voting-location-information-access",
-"https://secure.actblue.com/donate/derrick-coley-1"
+{
+"text": "ABOUT",
+"href": "https://www.derrickcoley.com/biography"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/derrick-coley-1"
+},
+{
+"text": "VOTING",
+"href": "https://www.derrickcoley.com/voting-location-information-access"
+},
+{
+"text": "[image]",
+"href": "https://www.derrickcoley.com/"
+}
 ]

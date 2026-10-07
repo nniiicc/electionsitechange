@@ -1,7 +1,9 @@
-“Mike Levin is a national leader in efforts to control wildfires and protect neighborhoods.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate International Association of Fire Fighters endorses Mike Levin for Congress March 26, 2026 “Mike Levin is a national leader in efforts to control wildfires and protect neighborhoods.
 Congressmember Levin played a significant role in passing the Wildfire Response and Drought Resiliency Act which included provisions he co-authored to increase the reliability and safety of our nation’s electric grid in the face of worsening drought and wildfire.
 As we’ve seen with the recent disasters in Southern California, wildfire preparedness saves lives.
 Mike Levin has been a leader on this, and the IAFF is proud to stand with him.
 Mike Levin has also successfully secured millions to help local firefighters, including funding for firefighting helicopters and to improve fire fighting capabilities at Camp Pendleton.
-The IAFF, which represents 353,000 professional firefighters and emergency response workers, is proud to stand with Mike Levin, because he stands with us.”
-– Frank Lima, IAFF General Secretary-Treasurer
+The IAFF, which represents 353,000 professional firefighters and emergency response workers, is proud to stand with Mike Levin, because he stands with us.” – Frank Lima, IAFF General Secretary-Treasurer Hear more about why the IAFF is backing Mike Levin!
+Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

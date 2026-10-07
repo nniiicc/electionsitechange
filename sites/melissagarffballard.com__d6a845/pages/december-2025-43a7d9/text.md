@@ -1,67 +1,40 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| CHECKING IN AT THE LEGISLATURE: DECEMBER 2025 |
-| |
-| Dear Friends and Neighbors, As we celebrate the Christmas season and the year comes to a close, I find myself especially grateful for the people and communities that make Utah such a wonderful place to call home.
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session CHECKING IN AT THE LEGISLATURE: DECEMBER 2025 Dear Friends and Neighbors, As we celebrate the Christmas season and the year comes to a close, I find myself especially grateful for the people and communities that make Utah such a wonderful place to call home.
 December is a time to slow down, reflect, and appreciate the values that unite us.
 In this newsletter, you’ll read about my time in Peru earlier this month and be among the first to watch my re-election campaign launch video.
 Looking ahead to the New Year, I’m excited for what’s to come.
 With the Legislative Session beginning in January and the campaign season underway, there is important work ahead.
 Thank you for your support and for the many ways you serve your families and communities.
 I hope you had a joyful Christmas and wish you a peaceful, healthy New Year.
-Warmest regards, Melissa |
-| |
-| |
-| QUICK LINKS |
-| |
-| |
-| IN THIS ISSUE Declaring my Candidacy for House District 20 Touching Down in Lima 2025 Year in Review |
-| |
-| |
-| Declaring my Candidacy for House District 20 |
-| |
-| Serving our community has been one of the greatest honors of my life.
+Warmest regards, Melissa QUICK LINKS Direct Flight to Peru Bridge building: How Utah Leaders are making a commercial, cultural strides in Peru My 2025 General Session Legislation 2025 Utah House Majority Accomplishments Passing Inspection: Stress-Testing the State's Fiscal Foundation Winning Peers and Influencing Policymakers: A Performance Vision Board for the New Year IN THIS ISSUE Declaring my Candidacy for House District 20 Touching Down in Lima 2025 Year in Review Declaring my Candidacy for House District 20 Serving our community has been one of the greatest honors of my life.
 From the neighborhood where I was raised to the Capitol where I represent you, my work has always been rooted in strengthening families, improving transparency in government, and planning responsibly for the future.
 In this short video, I share why I’m running for re-election, what we’ve accomplished together, and why there is still important work ahead.
-I hope you’ll take a moment to watch and hear directly from me about the values that guide my service and my commitment to our community. |
-| |
-| |
-| |
-| Direct from Salt Lake: Touching Down in Lima |
-| |
-| |
-| Delta Airlines marked an exciting milestone with its inaugural direct flight from Salt Lake City to South America, a first for our state.
+I hope you’ll take a moment to watch and hear directly from me about the values that guide my service and my commitment to our community.
+Direct from Salt Lake: Touching Down in Lima Delta Airlines marked an exciting milestone with its inaugural direct flight from Salt Lake City to South America, a first for our state.
 I was grateful to join District 20 resident Nikki Eberhart from Delta’s Global Management Team and David Utrilla, former Honorary Consul of Peru in Utah, to celebrate this historic step.
 As reported by the Deseret News, the return flight brought Peruvian produce through SLC and then directly to destinations around the world, including blueberries to Amsterdam, asparagus to Paris, and mangos to Korea.
 It is another reminder of Utah’s growing role as the Crossroads of the World.
 This short three day trip also helped connect Utah businesses with Peruvian partners and allowed Utah policy makers to meet members of the Peruvian Congress and several presidential candidates.
-Strengthening these ties supports long term opportunities for Utah companies and expands our global relationships. |
-| |
-| |
-| 2025 Year in Review |
-| |
-| 2025 has been a productive year for the legislature.
+Strengthening these ties supports long term opportunities for Utah companies and expands our global relationships.
+2025 Year in Review 2025 has been a productive year for the legislature.
 As it comes to a close, I wanted to give you easy access to the legislative newsletters and to my work, from the last twelve months.
-Transparency about the work I'm doing has always been, and will continue to be, my top priority for you. |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Copyright © 2025, All rights reserved.
+Transparency about the work I'm doing has always been, and will continue to be, my top priority for you.
+My 2025 General Session Legislation 2025 Utah House Majority Accomplishments May Interm June Interm August Interm September Interm October Interm November Interm Learn More About Melissa Facebook Instagram Email Copyright © #, All rights reserved.
 Paid for by the Committee to Elect Melissa Garff Ballard Want to change how you receive these emails?
-You can update your preferences or unsubscribe from this list. |
+You can update your preferences or unsubscribe from this list .
+Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

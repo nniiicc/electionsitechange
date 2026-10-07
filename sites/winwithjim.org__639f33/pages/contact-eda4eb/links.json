@@ -1,10 +1,38 @@
 [
-"http://facebook.com/",
-"https://secure.anedot.com/225d3183-1379-4cb0-8d13-80247ccfbf5d/donate",
-"https://winwithjim.org/",
-"https://winwithjim.org/about-page",
-"https://winwithjim.org/contact",
-"https://winwithjim.org/news-grid",
-"https://winwithjim.org/privacy-policy",
-"https://winwithjim.org/volunteer"
+{
+"text": "About",
+"href": "https://winwithjim.org/about-page/"
+},
+{
+"text": "Contact",
+"href": "https://winwithjim.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/225d3183-1379-4cb0-8d13-80247ccfbf5d/donate"
+},
+{
+"text": "Home",
+"href": "https://winwithjim.org/"
+},
+{
+"text": "News",
+"href": "https://winwithjim.org/news-grid/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.winwithjim.org/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://winwithjim.org/volunteer/"
+},
+{
+"text": "[image: Jim DeSana for State Representative]",
+"href": "https://winwithjim.org/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com"
+}
 ]

@@ -1,3 +1,8 @@
+DONATE Home Meet Rick Why I’m Running Press Contact Safe Neighborhoods.
+Great Schools.
+High-Paying Jobs.
+Why I'm Running The Future of Anderson County Families We need leaders more interested with the future of Anderson County families, than in their own political future.
+We need thoughtful leaders who listen and work to solve problems, not chase headlines.
 While I am running to serve you and the people of Anderson County as State Representative, I was recently given the most important title I will ever have – Pops.
 For my wife Mollie, it’s Lollie.
 We are the proud new grandparents to three boys: Jack, Eli, and George.
@@ -17,4 +22,6 @@ There is too much at stake for us to bicker and miss our opportunity to make a d
 We need leaders who will lift us above the fray.
 I will always stand on conservative principles and seek to do what is best for our community.
 I thank you for your consideration, and I look forward to working hard to earn your vote.
-Thank you,
+Thank you, Question?
+Rick will always work to ensure the people of Anderson County are heard!
+Send Rick A Message Paid for by the Rick Scarbrough for State Representative, Jody Wright, Treasurer.

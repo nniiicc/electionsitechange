@@ -1,15 +1,58 @@
 [
-"https://drive.google.com/drive/folders/1eEG1K9RLqMgLid7uM1YvU4HVGr0xS237?usp=sharing",
-"https://facebook.com/MenistPK",
-"https://instagram.com/evanmenist",
-"https://menistforsenate.com/",
-"https://menistforsenate.com/about-evan",
-"https://menistforsenate.com/cart",
-"https://menistforsenate.com/media",
-"https://menistforsenate.com/privacy-policy",
-"https://menistforsenate.com/text-messages",
-"https://menistforsenate.com/volunteer",
-"https://menistforsenate.com/voting-info",
-"https://secure.actblue.com/donate/menist",
-"https://x.com/EvanMenist"
+{
+"text": "0",
+"href": "https://menistforsenate.com/cart"
+},
+{
+"text": "About Evan",
+"href": "https://menistforsenate.com/about-evan"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/menist"
+},
+{
+"text": "Home",
+"href": "https://menistforsenate.com/"
+},
+{
+"text": "Media",
+"href": "https://menistforsenate.com/media"
+},
+{
+"text": "Opt-in for text messages here.",
+"href": "https://menistforsenate.com/text-messages"
+},
+{
+"text": "THIS LINK",
+"href": "https://drive.google.com/drive/folders/1eEG1K9RLqMgLid7uM1YvU4HVGr0xS237?usp=sharing"
+},
+{
+"text": "Terms & Privacy Policy",
+"href": "https://menistforsenate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://menistforsenate.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://menistforsenate.com/voting-info"
+},
+{
+"text": "[image: Evan Menist - Democrat]",
+"href": "https://menistforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MenistPK"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evanmenist/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvanMenist"
+}
 ]

@@ -1,10 +1,42 @@
 [
-"https://elaine4cda.com/",
-"https://elaine4cda.com/about",
-"https://elaine4cda.com/blog",
-"https://elaine4cda.com/contact-us",
-"https://elaine4cda.com/m/account",
-"https://elaine4cda.com/privacy-policy",
-"https://facebook.com/Elaine4NorthIdaho",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About",
+"href": "https://elaine4cda.com/about"
+},
+{
+"text": "Blog",
+"href": "https://elaine4cda.com/blog"
+},
+{
+"text": "Contact Us",
+"href": "https://elaine4cda.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://elaine4cda.com/"
+},
+{
+"text": "My Account",
+"href": "https://elaine4cda.com/m/account"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elaine4cda.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://elaine4cda.com/m/account"
+},
+{
+"text": "[image]",
+"href": "https://elaine4cda.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Elaine4NorthIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

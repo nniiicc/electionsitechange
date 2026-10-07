@@ -1,5 +1,4 @@
-Since joining the legislature in 2018,
-I have been working for you.
+DONATE About Sydney Priorities Media In the News Media Gallery About CD 37 Endorsements About Sydney Priorities Media In the News Media Gallery About CD 37 Endorsements Fighting for Donate Volunteer Congressional District 37 Since joining the legislature in 2018, I have been working for you.
 And a just new world.
 Sydney Kamlager-Dove is the one we need fighting for us in Congress.
 She’s ready to drive the change we seek.
@@ -8,5 +7,5 @@ Sydney’s a bold, effective leader who’s as strong at building consensus as s
 And that’s just what we need: a new kind of Washington – a place we can respect.
 We deserve someone who can weather the storms, stand up to the attacks, work for all of the constituents of the 37th, and win.
 This is our chance to send in fresh leadership to Washington.
-ABOUT SYDNEY
-Sydney Kamlager-Dove is the Representative for California’s 37th Congressional District in Los Angeles.
+ABOUT SYDNEY Sydney Kamlager-Dove is the Representative for California’s 37th Congressional District in Los Angeles.
+Learn More About Sydney html, body { overflow-x: hidden !important; overflow-y: auto !important; height: auto !important; } Paid for by Sydney Kamlager-Dove for Congress - 5870 Melrose Ave · Ste 3-805 · Los Angeles, CA 90038

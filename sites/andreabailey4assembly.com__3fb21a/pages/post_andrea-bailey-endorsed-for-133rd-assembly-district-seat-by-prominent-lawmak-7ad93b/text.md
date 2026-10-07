@@ -1,2 +1,7 @@
-In a significant show of support, Andrea Bailey, the Livingston County Clerk, has received endorsements from both state and federal lawmakers for her candidacy for the 133rd District State Assembly seat.
+top of page Home About Endorsements Around the 133rd Get Involved Contact More Use tab to navigate through the menu items.
+DONATE Log In All Articles Search Andrea Bailey endorsed for 133rd Assembly District seat by prominent lawmakers Team AKB Jun 30, 2024 1 min read In a significant show of support, Andrea Bailey, the Livingston County Clerk, has received endorsements from both state and federal lawmakers for her candidacy for the 133rd District State Assembly seat.
 With the retirement of Assemblywoman Marjorie Byrnes, Bailey is praised for her dedication to public service, her knowledge of community issues, and her strong work ethic.
+Read Fingerlakes1.com March 23, 2024 Andrea Bailey, candidate for New York State Assembly, 133rd Assembly District Recent Posts See All Elections 2026: Bailey vows to continue voicing rural concerns Bright Spot shines on the Ontario County Women's Republican Club helping give local veterans the trip of a lifetime.
+Marjorie Byrnes won’t seek another term in New York State Assembly; Andrea Bailey announces candidacys candidacy Help Send Andrea Back to Albany!
+DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About Me Endorsements Around the 133rd Get Involved Contact ​ ​ © # Friends of AKB Friends of AKB PO Box 312 Geneseo, NY 14454 abailey4assembly@gmail.com andrea@andreabaileyforassembly.com PAID FOR BY FRIENDS OF AKB bottom of page

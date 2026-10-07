@@ -1,6 +1,8 @@
 {
  "description": "The official news feed of the Matthew Kolodoski Campaign.",
  "final_url": "https://www.kolodoski4justice.com/news.php",
+ "fingerprint": "5bc1712cecac0d8c4e316f43a1c9ee2555210e84",
+ "format": 3,
  "paid_for_by": "paid for by Matthew Kolodoski Campaign",
  "title": "Kolodoski4Justice | News",
  "years_mentioned": [

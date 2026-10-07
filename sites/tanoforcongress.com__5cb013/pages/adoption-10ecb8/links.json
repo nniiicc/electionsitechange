@@ -1,11 +1,42 @@
 [
-"https://childwelfare.gov/",
-"https://facebook.com/judgetanotijerina",
-"https://secure.winred.com/tano-tijerina-for-congress/donate-today",
-"https://tanoforcongress.com/",
-"https://tanoforcongress.com/endorsements",
-"https://tanoforcongress.com/issues",
-"https://tanoforcongress.com/news",
-"https://tanoforcongress.com/privacy-policy",
-"https://twitter.com/JudgeTano"
+{
+"text": "ABOUT",
+"href": "https://www.tanoforcongress.com/#ABOUTTANO"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tano-tijerina-for-congress/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.tanoforcongress.com/endorsements"
+},
+{
+"text": "ISSUES",
+"href": "https://www.tanoforcongress.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://www.tanoforcongress.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.tanoforcongress.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.tanoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JudgeTano"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/judgetanotijerina/"
+},
+{
+"text": "childwelfare.gov",
+"href": "https://www.childwelfare.gov/"
+}
 ]

@@ -1,17 +1,78 @@
 [
-"https://blueskydirectory.com/profiles/senatortomsullivan.bsky.social",
-"https://facebook.com/SullivanForColorado",
-"https://secure.actblue.com/donate/sullivanwebsite",
-"https://secure.actblue.com/donate/sully-s-leadership-fund-1",
-"https://sullivanforcolorado.com/",
-"https://sullivanforcolorado.com/contact",
-"https://sullivanforcolorado.com/endorse",
-"https://sullivanforcolorado.com/meet-tom",
-"https://sullivanforcolorado.com/privacypolicy",
-"https://sullivanforcolorado.com/terms-of-service",
-"https://sullivanforcolorado.com/the-issues",
-"https://sullivanforcolorado.com/volunteer",
-"https://sullyfund.org/",
-"https://threads.com/@senatortomsullivan",
-"https://twitter.com/Sully_720"
+{
+"text": "Action Fund",
+"href": "https://www.sullyfund.org"
+},
+{
+"text": "Contact",
+"href": "https://sullivanforcolorado.com/contact"
+},
+{
+"text": "Endorse",
+"href": "https://sullivanforcolorado.com/endorse"
+},
+{
+"text": "Home",
+"href": "https://sullivanforcolorado.com/"
+},
+{
+"text": "Issues",
+"href": "https://sullivanforcolorado.com/the-issues"
+},
+{
+"text": "Meet Tom",
+"href": "https://sullivanforcolorado.com/meet-tom"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sullivanforcolorado.com/privacypolicy"
+},
+{
+"text": "Sullivan for Colorado",
+"href": "https://secure.actblue.com/donate/sullivanwebsite"
+},
+{
+"text": "Sullivan for Colorado",
+"href": "https://sullivanforcolorado.com/"
+},
+{
+"text": "Sully's Action Fund",
+"href": "https://sullyfund.org"
+},
+{
+"text": "Sully's Leadership Fund",
+"href": "https://secure.actblue.com/donate/sully-s-leadership-fund-1"
+},
+{
+"text": "Terms of Service",
+"href": "https://sullivanforcolorado.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://sullivanforcolorado.com/volunteer"
+},
+{
+"text": "[image: Sullivan for Colorado ]",
+"href": "https://sullivanforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://blueskydirectory.com/profiles/senatortomsullivan.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Sully_720"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SullivanForColorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@senatortomsullivan"
+},
+{
+"text": "[no text]",
+"href": "mailto:tom.sullivan.senate@coleg.gov"
+}
 ]

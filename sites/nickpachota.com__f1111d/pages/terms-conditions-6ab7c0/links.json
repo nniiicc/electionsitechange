@@ -1,6 +1,22 @@
 [
-"https://nickpachota.com/",
-"https://nickpachota.com/cdn-cgi/l/email-protection",
-"https://nickpachota.com/privacy-policy",
-"https://nickpachota.com/terms-conditions"
+{
+"text": "[email protected]",
+"href": "https://nickpachota.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:nick@nickpachota.com"
+},
+{
+"text": "https://nickpachota.com",
+"href": "https://nickpachota.com"
+},
+{
+"text": "privacy policy",
+"href": "https://nickpachota.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://nickpachota.com/terms-conditions/"
+}
 ]

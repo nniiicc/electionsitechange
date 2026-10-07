@@ -1,4 +1,4 @@
-America is in a crisis of conscience, and you deserve a legislator who understands the stakes, has a proven track record of solutions, and a burning drive for our community.
+0 Skip to Content About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute America is in a crisis of conscience, and you deserve a legislator who understands the stakes, has a proven track record of solutions, and a burning drive for our community.
 That is why I am humbly asking to be your Democratic nominee for State House District 41.
 I won’t accept the premise that solutions to big problems cannot be found.
 I refuse to submit that the promise of our democracy will be left unfulfilled.
@@ -24,9 +24,11 @@ I realized I could no longer wait for elected officials to create the needed sol
 I first sought appointment, and was then elected, as a Trustee in Kalamazoo Township where I served for 3 1/2 years.
 In 2021, I went on to win an election as Commissioner for Kalamazoo County.
 Now, I am in my third term and serving as Chairperson of the Kalamazoo County Commission, this is work that has helped me truly see the potential of public service and the impact we can make for the community when we have the will to fight for it.
-And now, I want to bring my experience to Lansing and build on what Kalamazoo County has accomplished by serving as your next representative for State House District 41.
-← Read more at Ballotpedia!
-Jen has a Bachelor of Science from Western Michigan University in American Public Policy and Psychology (summa cum laude).
+And now, I want to bring my experience to Lansing and build on what Kalamazoo County has accomplished by serving as your next representative for State House District 41. ← Read more at Ballotpedia! “ Jen is a superwoman.
+At home, she’s raising beautiful kids.
+At work she’s helping people with developmental disabilities.
+As an elected official, she’s fighting to make our communities better for our most vulnerable citizens. ” — Hon.
+Chris Burns, City of Portage Councilmember Read More Endorsements Jen has a Bachelor of Science from Western Michigan University in American Public Policy and Psychology (summa cum laude).
 She is a Clinical Quality Specialist, Qualified Intellectual Disability Professional, and Qualified Mental Health Professional at Southwest Michigan Behavioral Health.
 Jen is a three-term Kalamazoo County Commissioner from District 2 and the current Chairperson.
 She currently serves on the Board of Directors for the Continuum of Care, Kalamazoo County Environmental Health Advisory Council, Open Data Citizen Oversight Advisory Committee, Department of Health and Human Services Board, and she Chairs the Kalamazoo County Board Appointments committee.
@@ -39,3 +41,4 @@ She has helped build several grassroots organizations to bring people into an ac
 Jen lives in the Westwood neighborhood in Kalamazoo Township, she loves to spend time with her children Jude and Olive.
 She enjoys singing (badly) and dancing whenever there is the chance.
 She loves being near trees, reading, or baking something delicious.
+Paid for by Committee to Elect Jen Strebs P.O Box 20061, Kalamazoo MI 49009

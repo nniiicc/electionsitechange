@@ -1,14 +1,70 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdJm-_1ExuFuZJzKrGNr65f-dNtBOwOZuxLu0wgsRz_pFkD2A/viewform",
-"https://facebook.com/VoteKateForState",
-"https://indianavoters.in.gov/",
-"https://instagram.com/votekateforstate",
-"https://secure.actblue.com/donate/kate4statetee",
-"https://secure.actblue.com/donate/votekateforstate",
-"https://tiktok.com/@votekateforstate",
-"https://votekateforstate.com/",
-"https://votekateforstate.com/get-involved",
-"https://votekateforstate.com/kate",
-"https://votekateforstate.com/my-priorities",
-"https://votekateforstate.com/wp-content/uploads/2026/05/IndianaSenateDistrictMap2021.pdf"
+{
+"text": "CHECK STATUS",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "DONATE TO KATE",
+"href": "https://secure.actblue.com/donate/votekateforstate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteKateForState"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votekateforstate.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votekateforstate"
+},
+{
+"text": "Kate For State | Holley For Indiana Senate 6",
+"href": "https://www.tiktok.com/@votekateforstate"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.votekateforstate.com/kate/"
+},
+{
+"text": "My Priorities",
+"href": "https://www.votekateforstate.com/my-priorities/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "SHOP NOW",
+"href": "https://secure.actblue.com/donate/kate4statetee"
+},
+{
+"text": "SIGN UP TO VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdJm-_1ExuFuZJzKrGNr65f-dNtBOwOZuxLu0wgsRz_pFkD2A/viewform"
+},
+{
+"text": "VIEW DISTRICT MAP",
+"href": "https://www.votekateforstate.com/wp-content/uploads/2026/05/IndianaSenateDistrictMap2021.pdf"
+},
+{
+"text": "VOTING LOCATION",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.votekateforstate.com/get-involved/#vote"
+},
+{
+"text": "[image: Kate for State | Holley for Indiana Senate 6]",
+"href": "https://www.votekateforstate.com"
+},
+{
+"text": "[no text]",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "votekateforstate@gmail.com",
+"href": "mailto:votekateforstate@gmail.com"
+}
 ]

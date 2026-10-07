@@ -1,7 +1,5 @@
-RESOURCES
-Social Media Kit, Things to Do, Things to Learn, Things to Love
-Register to Vote
-Are you registered to vote?
+Skip to content Get Involved Meet Morgan Issues Resources Blog Get Involved Meet Morgan Issues Resources Blog DONATE Get Involved Meet Morgan Dawicki Issues Resources Blog Donate Get Involved Meet Morgan Dawicki Issues Resources Blog Donate DONATE Get Involved Meet Morgan Issues Resources Blog Get Involved Meet Morgan Issues Resources Blog RESOURCES Social Media Kit, Things to Do, Things to Learn, Things to Love Show Morgan your support!
+Follow Morgan's Spotify Playlist Get grooving with some good tunes to save democracy Listen Now Follow Morgan's Goodreads Read some of Morgan's favorite books Read Now Register to Vote Are you registered to vote?
 Make sure your voter registration information is up to date in the correct state or territory.
-Press Inquiries
-All press inquiries can be directed to press@votemgd.com.
+Get Started Press Inquiries All press inquiries can be directed to press@votemgd.com.
+Get Involved Meet Morgan Issues Resources Blog Donate Get Involved Meet Morgan Issues Resources Blog Donate © # Campaign for Morgan G Dawicki PAID FOR BY THE CAMPAIGN FOR MORGAN G DAWICKI Get Involved Meet Morgan Issues Resources Blog Donate Get Involved Meet Morgan Issues Resources Blog Donate © # Campaign for Morgan G Dawicki PAID FOR BY THE CAMPAIGN FOR MORGAN G DAWICKI Scroll to Top

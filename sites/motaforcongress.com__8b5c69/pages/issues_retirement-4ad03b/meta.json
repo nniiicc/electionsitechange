@@ -1,9 +1,12 @@
 {
- "description": "Write a little something about your issue here. You can only put a short blurb here, but you can publish out a full issue page, which the View More button will link to by default. If you want to link\u2026",
+ "description": "Write a little something about your issue here. You can only put a short blurb here, but you can publish out a full issue page, which the View More button will link to by default. If you want to link…",
  "final_url": "https://www.motaforcongress.com/issues/retirement",
- "paid_for_by": "Paid for by Samantha Mota for Congress",
+ "fingerprint": "b2b819478f77e34827874e21f3c54602954adcd1",
+ "format": 3,
+ "paid_for_by": "Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app",
  "title": "Retirement",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2032"
  ]
 }

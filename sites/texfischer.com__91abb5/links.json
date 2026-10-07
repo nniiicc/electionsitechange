@@ -1,5 +1,14 @@
 [
-"https://ohiohouse.gov/members/tex-fischer/contact",
-"https://secure.winred.com/fischer-for-ohio/donate",
-"https://texfischer.com/cart"
+{
+"text": "0",
+"href": "https://texfischer.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/fischer-for-ohio/donate"
+},
+{
+"text": "please click here",
+"href": "https://ohiohouse.gov/members/tex-fischer/contact"
+}
 ]

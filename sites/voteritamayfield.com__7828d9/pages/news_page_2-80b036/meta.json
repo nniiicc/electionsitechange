@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.voteritamayfield.com/news/page/2/",
- "paid_for_by": null,
+ "fingerprint": "405ab8a552f3650f6c9b9dbd476de0cfbfbd54f2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News - Rita Mayfield for State Rep",
  "years_mentioned": [
   "2019",
-  "2020"
+  "2020",
+  "2024"
  ]
 }

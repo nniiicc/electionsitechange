@@ -1,7 +1,5 @@
-By Steven Tendo
-The Garden City Telegram
-Note: This story was originally printed in The Garden City Telegram in 2015.
-The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database.
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute News / 🌻Kiwanis reaching out to local teachers 15 Mar Sunday, 12:45 PM · 2015 🌻Kiwanis reaching out to local teachers By Steven Tendo The Garden City Telegram Note : This story was originally printed in The Garden City Telegram in 2015.
+The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database .
 A local fraternal organization on Monday provided funds for teacher projects that otherwise might have had to have been paid for out of the teachers pockets.
 The Kiwanis Sunrisers Club came to Bernadine Sitts Intermediate Center on Monday to award five teachers at the school with $200 grants to be used for classroom projects.
 While the event showcased the teachers projects, the Kiwanis also used it to appeal for more applications from teachers.
@@ -34,3 +32,4 @@ Each member has 40 to 50 homes on their route, and there are nine routes.
 The residents pay $30 for the flag program for the year.
 This year is the 100th anniversary of the Kiwanis movement.
 Kiwanis International was founded in 1915 in Detroit, and became an international organization with the creation of the Kiwanis Club of Hamilton, Ontario, the following year.
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

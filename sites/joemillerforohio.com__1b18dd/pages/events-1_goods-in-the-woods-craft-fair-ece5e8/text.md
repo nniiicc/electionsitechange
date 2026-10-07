@@ -1,9 +1,2 @@
-Back to All Events
-Join Joe Miller at the Goods in the Woods Craft Fair on Oct 17th & Oct 18th from 10am - 4pm both days!
-Previous
-Previous
-October 13
-YWCA and League of Women Voters Voter Education Forum
-Next
-Next
-October 24
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Goods in the Woods Craft Fair Saturday, October 17, 2026 10:00 AM Sunday, October 18, 2026 4:00 PM Willard City Park 561 West Laurel Street Willard, Ohio, 44890 United States (map) Google Calendar ICS Join Joe Miller at the Goods in the Woods Craft Fair on Oct 17th & Oct 18th from 10am - 4pm both days!
+Previous Previous October 13 YWCA and League of Women Voters Voter Education Forum Next Next October 24 New London Fall Fest DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

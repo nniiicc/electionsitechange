@@ -1,18 +1,82 @@
 [
-"https://donate.stripe.com/fZecNJ0320TY84U8ww",
-"https://electbenniefoster.com/",
-"https://electbenniefoster.com/about",
-"https://electbenniefoster.com/cart",
-"https://electbenniefoster.com/events",
-"https://electbenniefoster.com/initiatives",
-"https://electbenniefoster.com/meetfoster",
-"https://electbenniefoster.com/news",
-"https://electbenniefoster.com/our-district-ms02",
-"https://electbenniefoster.com/platform",
-"https://electbenniefoster.com/policies",
-"https://electbenniefoster.com/questions-answers",
-"https://electbenniefoster.com/resources-1",
-"https://electbenniefoster.com/voting",
-"https://facebook.com/reimaginems",
-"https://instagram.com/fosterforcongress"
+{
+"text": "0",
+"href": "https://www.electbenniefoster.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.electbenniefoster.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.electbenniefoster.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://donate.stripe.com/fZecNJ0320TY84U8ww"
+},
+{
+"text": "Donate",
+"href": "https://www.electbenniefoster.com/donate"
+},
+{
+"text": "Elect Bennie Foster for U.S. Congress MS-02",
+"href": "https://www.electbenniefoster.com/"
+},
+{
+"text": "Events",
+"href": "https://www.electbenniefoster.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/reimaginems/"
+},
+{
+"text": "Folder: About",
+"href": "https://www.electbenniefoster.com/about"
+},
+{
+"text": "Folder: News",
+"href": "https://www.electbenniefoster.com/news"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.electbenniefoster.com/platform"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.electbenniefoster.com/resources-1"
+},
+{
+"text": "Initiatives",
+"href": "https://www.electbenniefoster.com/initiatives"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fosterforcongress"
+},
+{
+"text": "Meet Foster",
+"href": "https://www.electbenniefoster.com/meetfoster"
+},
+{
+"text": "Our District | MS-02",
+"href": "https://www.electbenniefoster.com/our-district-ms02"
+},
+{
+"text": "Policies",
+"href": "https://www.electbenniefoster.com/policies"
+},
+{
+"text": "Questions & Answers",
+"href": "https://www.electbenniefoster.com/questions-answers"
+},
+{
+"text": "Voting",
+"href": "https://www.electbenniefoster.com/voting"
+},
+{
+"text": "team@electbenniefoster.com",
+"href": "mailto:team@electbenniefoster.com"
+}
 ]

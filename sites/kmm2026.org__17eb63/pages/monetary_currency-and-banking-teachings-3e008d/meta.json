@@ -1,12 +1,27 @@
 {
  "description": "currency, banking, theory, money, monetary",
  "final_url": "https://www.kmm2026.org/monetary/currency-and-banking-teachings",
- "paid_for_by": null,
+ "fingerprint": "f913f9a042403e03b03d68258f87825065a14754",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Currency and Banking Teachings",
  "years_mentioned": [
+  "1959",
+  "1969",
+  "1970",
+  "1975",
+  "1976",
+  "1984",
+  "1989",
+  "1994",
+  "1995",
+  "1997",
+  "1998",
   "2010",
   "2011",
   "2012",
-  "2013"
+  "2013",
+  "2016",
+  "2026"
  ]
 }

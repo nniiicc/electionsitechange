@@ -1,12 +1,4 @@
-Back to All Events
-Meet at Lion Shelter 3
-Join us for a celebration of all your good work toward the priMARY win and help us kick off the second phase of this campaign.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Party in the Park- Terre Haute Friday, May 22, 2026 5:30 PM 7:00 PM Deming Park 500 South Fruitridge Avenue Terre Haute, IN, 47803 United States (map) Google Calendar ICS Meet at Lion Shelter 3 Join us for a celebration of all your good work toward the priMARY win and help us kick off the second phase of this campaign.
 Join us for ice cream sundaes, outdoor games, and a drop of new campaign swag.
 This party is free and all about this movement of working together for the people of the 8th district.
-Previous
-Previous
-May 21
-Party in the Park- Vincennes
-Next
-Next
-May 27
+Source: https://www.mobilize.us/maryallenforcongress/event/953952/ Previous Previous May 21 Party in the Park- Vincennes Next Next May 27 Party in the Park - Vanderburgh REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

@@ -1,13 +1,50 @@
 [
-"https://12ft.io/proxy?q=https%3A%2F%2Fwww.thecut.com%2F%2Fwww.thecut.com%2Fauthor%2Fandrea-gonzalez-ramirez%2F",
-"https://drshirleyweber.com/",
-"https://drshirleyweber.com/about",
-"https://drshirleyweber.com/endorsements",
-"https://drshirleyweber.com/in-the-media",
-"https://drshirleyweber.com/priorities",
-"https://facebook.com/ShirleyWeber4SOS",
-"https://secure.actblue.com/donate/2025-website",
-"https://secure.ngpvan.com/qM2wK_QCY02UBcGV0A7YRw2",
-"https://thecut.com/2021/12/trailblazer-ca-secretary-of-state-shirley-weber.html",
-"https://twitter.com/drweber4ca"
+{
+"text": "About",
+"href": "https://drshirleyweber.com/about/"
+},
+{
+"text": "Andrea González-Ramírez",
+"href": "https://12ft.io/proxy?q=https%3A%2F%2Fwww.thecut.com%2F%2Fwww.thecut.com%2Fauthor%2Fandrea-gonzalez-ramirez%2F"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2025-website"
+},
+{
+"text": "Endorsements",
+"href": "https://drshirleyweber.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ShirleyWeber4SOS"
+},
+{
+"text": "Get Involved",
+"href": "https://secure.ngpvan.com/qM2wK_QCY02UBcGV0A7YRw2"
+},
+{
+"text": "Home",
+"href": "https://drshirleyweber.com/"
+},
+{
+"text": "In the Media",
+"href": "https://drshirleyweber.com/in-the-media/"
+},
+{
+"text": "Priorities",
+"href": "https://drshirleyweber.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://www.thecut.com/2021/12/trailblazer-ca-secretary-of-state-shirley-weber.html"
+},
+{
+"text": "X",
+"href": "https://twitter.com/drweber4ca"
+},
+{
+"text": "[image: Shirley Weber for Secretary of State]",
+"href": "https://drshirleyweber.com/"
+}
 ]

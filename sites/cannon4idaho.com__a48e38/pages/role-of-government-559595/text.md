@@ -1,4 +1,5 @@
-Government has a number of legitimate purposes.
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Role of Government Government has a number of legitimate purposes.
 For example, it is vital that our federal government defend the American people against foreign threats.
 Local, state and federal government also provide law enforcement services which help to prevent anarchy, maintain social peace and “ensure domestic tranquility”.
 These are examples of “public goods” which cannot be as effectively provided through the free market as they can be through government.
@@ -16,3 +17,4 @@ Economic prosperity which has resulted from free markets has worked miracles in 
 While always striving to include more and more people in the increases in prosperity, we must not lose the miraculous good that comes from freedom and private enterprise by looking to government to do what it can not do as effectively nor as efficiently as individuals and businesses who have freedom and market-based incentives motivating them.
 My commitment as a member of the Idaho Legislature is that I will turn to the free-market for economic growth and prosperity and innovation and improvements in life, except in those unique areas (such as national defense, social peace, the court system, the legislative processes, etc.) where the free market can not provide the service or good in question.
 I am a firm believer that (almost) anything that the government can do the private sector of the American economy can do better, faster and more efficiently.
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

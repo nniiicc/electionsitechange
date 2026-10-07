@@ -1,9 +1,12 @@
 {
  "description": "Join us for virtual happy hour on Wednesday, October 7 at 5:00pm!",
  "final_url": "https://tashaboerner.com/meet-tasha/happy-hour-with-tasha",
+ "fingerprint": "a1b968f98f79e35a1510d8831e89f66996d86c6b",
+ "format": 3,
  "paid_for_by": "Paid for by Tasha Boerner Horvath for Assembly 2020, ID #1414240",
- "title": "Happy Hour with Tasha \u2014 Tasha Boerner for Assembly 2024",
+ "title": "Happy Hour with Tasha — Tasha Boerner for Assembly 2024",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

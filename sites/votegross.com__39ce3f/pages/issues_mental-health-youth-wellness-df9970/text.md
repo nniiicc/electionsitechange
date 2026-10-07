@@ -1,6 +1,4 @@
-Rachel Gross believes in
-Mental Health & Youth Wellness
-Across rural Michigan and right here in the 78th District, families are facing a mental health crisis that demands urgent attention.
+Skip navigation menu About Volunteer Issues Events Endorsements Contact Donate About Volunteer Issues Events Endorsements Contact Donate Safe Nurse Staffing Standards HB 4141 - Restricting Cell Phones in Schools Rural Homeownership & Housing Stability Rural Rental Housing Relief Mental Health & Youth Wellness Rachel Gross believes in Mental Health & Youth Wellness Across rural Michigan and right here in the 78th District, families are facing a mental health crisis that demands urgent attention.
 Rates of depression, anxiety and suicide among young people have risen sharply over the last decade and rural communities bear a disproportionately higher burden.
 Rural Americans die by suicide at rates nearly twice that of their urban counterparts and the 78th district is not immune to that reality.
 Limited access to mental health providers, a shortage of specialists in rural communities, and the stigma that still surrounds asking for help means too many people in our district are suffering and dying in silence.
@@ -54,3 +52,4 @@ This is an issue that cannot be tackled by one person alone.
 It takes a community dedicated to creating a healthier environment where both our children and our adults can grow and thrive.
 Together with the people of the 78th district I am ready to help lead the conversation in Michigan, because doing nothing is not an option.
 The 78th District deserves better and together we will fight for it.
+Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

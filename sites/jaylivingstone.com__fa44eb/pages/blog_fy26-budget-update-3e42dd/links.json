@@ -1,32 +1,134 @@
 [
-"https://doe.mass.edu/soa",
-"https://facebook.com/VoteJayLivingstone",
-"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mass.gov%2Feconomic-assistance-cash-benefits&data=05%7C01%7CSean.Fitzgerald%40masenate.gov%7C11a0ed4a5fcb4fa3159c08db4c44976e%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638187629727909916%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ubqpBvqbjokaOw3SmqeER4V6XC36NVTjy3l6bQ0XrZQ%3D&reserved=0",
-"https://instagram.com/jaylivingstone",
-"https://jaylivingstone.com/",
-"https://jaylivingstone.com/8th-suffolk-district",
-"https://jaylivingstone.com/about",
-"https://jaylivingstone.com/blog",
-"https://jaylivingstone.com/blog/joint-rules-update",
-"https://jaylivingstone.com/blog/location-shield-act-update",
-"https://jaylivingstone.com/blog?author=5f73547970bb0d570f082690",
-"https://jaylivingstone.com/cart",
-"https://jaylivingstone.com/constituent-resource-center",
-"https://jaylivingstone.com/contact",
-"https://jaylivingstone.com/endorsements",
-"https://jaylivingstone.com/getinvolved",
-"https://jaylivingstone.com/how-can-jay-help",
-"https://jaylivingstone.com/legislative-agenda",
-"https://malegislature.gov/PressRoom/Detail?pressReleaseId=219",
-"https://mass.gov/info-details/commonwealth-cares-for-children-c3-grants",
-"https://mass.gov/info-details/massachusetts-emergency-food-assistance-program-mefap",
-"https://mass.gov/info-details/massachusetts-healthy-incentives-program-hip-frequently-asked-questions",
-"https://mass.gov/info-details/public-transportation-in-massachusetts",
-"https://mass.gov/news/healey-driscoll-administration-highlights-first-year-successes-of-state-funded-universal-free-school-meals",
-"https://mass.gov/orgs/masshealth",
-"https://mass.gov/orgs/women-infants-children-nutrition-program",
-"https://mbta.com/",
-"https://mbta.com/fares/reduced/income-eligible",
-"https://secure.actblue.com/donate/livingstoneforstaterepresentative",
-"https://threads.com/@jaylivingstone"
+{
+"text": "0",
+"href": "https://www.jaylivingstone.com/cart"
+},
+{
+"text": "8th Suffolk District",
+"href": "https://www.jaylivingstone.com/8th-suffolk-district"
+},
+{
+"text": "8th Suffolk District,",
+"href": "https://www.jaylivingstone.com/8th-suffolk-district"
+},
+{
+"text": "About",
+"href": "https://www.jaylivingstone.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jaylivingstone.com/"
+},
+{
+"text": "Blog",
+"href": "https://www.jaylivingstone.com/blog"
+},
+{
+"text": "Commonwealth Cares for Children grant program",
+"href": "https://www.mass.gov/info-details/commonwealth-cares-for-children-c3-grants#overview"
+},
+{
+"text": "Constituent Resource Center",
+"href": "https://www.jaylivingstone.com/constituent-resource-center"
+},
+{
+"text": "Contact",
+"href": "https://www.jaylivingstone.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/livingstoneforstaterepresentative"
+},
+{
+"text": "Emergency Aid to the Elderly, Disabled and Children",
+"href": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mass.gov%2Feconomic-assistance-cash-benefits&data=05%7C01%7CSean.Fitzgerald%40masenate.gov%7C11a0ed4a5fcb4fa3159c08db4c44976e%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638187629727909916%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ubqpBvqbjokaOw3SmqeER4V6XC36NVTjy3l6bQ0XrZQ%3D&reserved=0"
+},
+{
+"text": "Emergency Food Assistance",
+"href": "https://www.mass.gov/info-details/massachusetts-emergency-food-assistance-program-mefap"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaylivingstone.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaylivingstone.com/getinvolved"
+},
+{
+"text": "Healthy Incentives Program",
+"href": "https://www.mass.gov/info-details/massachusetts-healthy-incentives-program-hip-frequently-asked-questions"
+},
+{
+"text": "How Can Jay Help?",
+"href": "https://www.jaylivingstone.com/how-can-jay-help"
+},
+{
+"text": "Jay Livingstone",
+"href": "https://www.jaylivingstone.com/blog?author=5f73547970bb0d570f082690"
+},
+{
+"text": "Legislative Agenda",
+"href": "https://www.jaylivingstone.com/legislative-agenda"
+},
+{
+"text": "MassHealth",
+"href": "https://www.mass.gov/orgs/masshealth"
+},
+{
+"text": "Massachusetts Bay Transportation Authority",
+"href": "https://www.mbta.com/"
+},
+{
+"text": "Next Next Joint Rules Update",
+"href": "https://www.jaylivingstone.com/blog/joint-rules-update"
+},
+{
+"text": "Previous Previous Location Shield Act Update",
+"href": "https://www.jaylivingstone.com/blog/location-shield-act-update"
+},
+{
+"text": "Regional Transit Authorities",
+"href": "https://www.mass.gov/info-details/public-transportation-in-massachusetts#regional-transit-authorities"
+},
+{
+"text": "Student Opportunity Act",
+"href": "https://www.doe.mass.edu/soa/"
+},
+{
+"text": "Transitional Aid to Families with Dependent Children",
+"href": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mass.gov%2Feconomic-assistance-cash-benefits&data=05%7C01%7CSean.Fitzgerald%40masenate.gov%7C11a0ed4a5fcb4fa3159c08db4c44976e%7C0b947e6bff264b13ae1c573c6750c888%7C0%7C0%7C638187629727909916%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ubqpBvqbjokaOw3SmqeER4V6XC36NVTjy3l6bQ0XrZQ%3D&reserved=0"
+},
+{
+"text": "Women, Infants, and Children (WIC) Nutrition Program",
+"href": "https://www.mass.gov/orgs/women-infants-children-nutrition-program"
+},
+{
+"text": "[image: Jay Livingstone State Rep. ]",
+"href": "https://www.jaylivingstone.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteJayLivingstone/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaylivingstone/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jaylivingstone"
+},
+{
+"text": "here",
+"href": "https://malegislature.gov/PressRoom/Detail?pressReleaseId=219#:~:text=(BOSTON%E2%80%946%2F30%2F,to%20confront%20the%20underlying%20budget"
+},
+{
+"text": "low-income fare relief",
+"href": "https://www.mbta.com/fares/reduced/income-eligible"
+},
+{
+"text": "universal free school meals",
+"href": "https://www.mass.gov/news/healey-driscoll-administration-highlights-first-year-successes-of-state-funded-universal-free-school-meals"
+}
 ]

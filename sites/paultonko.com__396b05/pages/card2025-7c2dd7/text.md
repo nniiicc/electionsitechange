@@ -1,30 +1,7 @@
+Home Meet Paul Issues Updates Volunteer card2025 CONTRIBUTE More Home Meet Paul Issues Updates Volunteer card2025 CONTRIBUTE Home Meet Paul Issues Updates Volunteer card2025 CONTRIBUTE Happy Holidays!
 Each year during the Holiday season, Paul likes to place focus on the beauty in our communities in a card to supporters, volunteers and our friends in the community, showing his gratitude for the hard work they put in each and every day.
 Please enjoy this year's Holiday card below.
-This year's theme is Hearths: a source of light and warmth for holiday gatherings for loved ones.
-Photos were again taken from throughout the Capital Region in New York and Washington, D.C.:
-1) Amsterdam City Hall, Montgomery County
-2) Fort Johnson, Montgomery County
-3) Library of Congress, Washington, DC
-4) The White House, Washington, DC
-5) Schenectady Co Community College Mohawk Room, Schenectady County
-6) Schenectady County Community College, Schenectady County
-7) Ten Broeck Mansion, Albany County
-8) Yaddo, Saratoga County
-9) Library of Congress, Washington, DC
-10) Fort Johnson, Montgomery County
-11) Pruyn House, Albany County
-12) Pruyn House, Albany County
-13) Hart Cluett Museum, Rensselaer County
-14) Dora Jackson House, Schenectady County
-15) President’s House, Russell Sage College, Rensselaer County
-16) Howe Library, Children’s Room, Albany County
-17) U.S.
-Capitol, Washington, DC
-18) Amsterdam City Hall, Montgomery County
-19) Glen Sanders Mansion, Schenectady County
-20) Yaddo, Saratoga County
-21) Grooms Tavern, Saratoga County
-22) Fort Crailo, Rensselaer County
-Copyright © 2021-2026 Paul Tonko for Congress - All Rights Reserved.
-911 Central Ave., #221 Albany, NY 12206
-info@paultonko.com | 518.217.2726
+This year's theme is Hearths : a source of light and warmth for holiday gatherings for loved ones.
+Photos were again taken from throughout the Capital Region in New York and Washington, D.C.: 1) Amsterdam City Hall, Montgomery County 2) Fort Johnson, Montgomery County 3) Library of Congress, Washington, DC 4) The White House, Washington, DC 5) Schenectady Co Community College Mohawk Room, Schenectady County 6) Schenectady County Community College, Schenectady County 7) Ten Broeck Mansion, Albany County 8) Yaddo, Saratoga County 9) Library of Congress, Washington, DC 10) Fort Johnson, Montgomery County 11) Pruyn House, Albany County 12) Pruyn House, Albany County 13) Hart Cluett Museum, Rensselaer County 14) Dora Jackson House, Schenectady County 15) President’s House, Russell Sage College, Rensselaer County 16) Howe Library, Children’s Room, Albany County 17) U.S.
+Capitol, Washington, DC 18) Amsterdam City Hall, Montgomery County 19) Glen Sanders Mansion, Schenectady County 20) Yaddo, Saratoga County 21) Grooms Tavern, Saratoga County 22) Fort Crailo, Rensselaer County Click to Expand Click to Expand Copyright © #-# Paul Tonko for Congress - All Rights Reserved.
+911 Central Ave., #221 Albany, NY 12206 info@paultonko.com | 518.217.2726 Privacy Policy CONTRIBUTE

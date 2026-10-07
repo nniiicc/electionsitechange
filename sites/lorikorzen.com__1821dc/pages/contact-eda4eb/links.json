@@ -1,8 +1,46 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/lorikorzen",
-"https://lorikorzen.com/",
-"https://tiktok.com/@lkorzen1",
-"https://x.com/LKorzen"
+{
+"text": "About",
+"href": "https://lorikorzen.com/#about"
+},
+{
+"text": "Community",
+"href": "https://lorikorzen.com/#community"
+},
+{
+"text": "Donate",
+"href": "https://lorikorzen.com/#donate"
+},
+{
+"text": "Events",
+"href": "https://lorikorzen.com/#events"
+},
+{
+"text": "Priorities",
+"href": "https://lorikorzen.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[image: Lori Korzen Logo] Lori Korzen",
+"href": "https://lorikorzen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lorikorzen/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lkorzen1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LKorzen"
+}
 ]

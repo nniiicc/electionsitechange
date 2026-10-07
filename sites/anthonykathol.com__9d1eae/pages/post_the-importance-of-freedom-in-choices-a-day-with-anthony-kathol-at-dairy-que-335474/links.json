@@ -1,20 +1,98 @@
 [
-"http://gozoek.com/",
-"https://anthonykathol.com/",
-"https://anthonykathol.com/about-me",
-"https://anthonykathol.com/blog",
-"https://anthonykathol.com/blog/tags/capitalism",
-"https://anthonykathol.com/blog/tags/democratic-socialist-of-america",
-"https://anthonykathol.com/blog/tags/free-enterprise",
-"https://anthonykathol.com/blog/tags/freedom-1",
-"https://anthonykathol.com/blog/tags/kathol-for-district-27-state-senate",
-"https://anthonykathol.com/blog/tags/kathol4d27",
-"https://anthonykathol.com/contact",
-"https://anthonykathol.com/donate",
-"https://anthonykathol.com/post/property-rights-and-local-control",
-"https://anthonykathol.com/post/protecting-the-integrity-of-our-elections-part-2",
-"https://anthonykathol.com/post/right-to-defend-yourself",
-"https://anthonykathol.com/testimonials",
-"https://facebook.com/profile.php?id=61555753134314",
-"https://maps.app.goo.gl/auAHsvBpLJkLwfeC9"
+{
+"text": "#freedom",
+"href": "https://www.anthonykathol.com/blog/tags/freedom-1"
+},
+{
+"text": "About Me",
+"href": "https://www.anthonykathol.com/about-me"
+},
+{
+"text": "Blog",
+"href": "https://www.anthonykathol.com/blog"
+},
+{
+"text": "Capitalism",
+"href": "https://www.anthonykathol.com/blog/tags/capitalism"
+},
+{
+"text": "Contact",
+"href": "https://www.anthonykathol.com/contact"
+},
+{
+"text": "Democratic Socialist of America",
+"href": "https://www.anthonykathol.com/blog/tags/democratic-socialist-of-america"
+},
+{
+"text": "Donate",
+"href": "https://www.anthonykathol.com/donate"
+},
+{
+"text": "Free Enterprise",
+"href": "https://www.anthonykathol.com/blog/tags/free-enterprise"
+},
+{
+"text": "GoZoek.com",
+"href": "http://gozoek.com/"
+},
+{
+"text": "Home",
+"href": "https://www.anthonykathol.com"
+},
+{
+"text": "Kathol for District 27 State Senate",
+"href": "https://www.anthonykathol.com/blog/tags/kathol-for-district-27-state-senate"
+},
+{
+"text": "Kathol4D27",
+"href": "https://www.anthonykathol.com/blog/tags/kathol4d27"
+},
+{
+"text": "Kathol4D27@goldenwest.net",
+"href": "mailto:Kathol4D27@goldenwest.net"
+},
+{
+"text": "P.O. Box 165 Martin, SD 57551",
+"href": "https://maps.app.goo.gl/auAHsvBpLJkLwfeC9"
+},
+{
+"text": "Property Rights and Local Control",
+"href": "https://www.anthonykathol.com/post/property-rights-and-local-control"
+},
+{
+"text": "Protecting the Integrity of our Elections - Part 2",
+"href": "https://www.anthonykathol.com/post/protecting-the-integrity-of-our-elections-part-2"
+},
+{
+"text": "See All",
+"href": "https://www.anthonykathol.com/blog"
+},
+{
+"text": "Testimonials",
+"href": "https://www.anthonykathol.com/testimonials"
+},
+{
+"text": "The Right to Defend Yourself",
+"href": "https://www.anthonykathol.com/post/right-to-defend-yourself"
+},
+{
+"text": "[image: Anthony Kathol]",
+"href": "https://www.anthonykathol.com"
+},
+{
+"text": "[image: Property Rights and Local Control]",
+"href": "https://www.anthonykathol.com/post/property-rights-and-local-control"
+},
+{
+"text": "[image: Protecting the Integrity of our Elections - Part 2]",
+"href": "https://www.anthonykathol.com/post/protecting-the-integrity-of-our-elections-part-2"
+},
+{
+"text": "[image: The Right to Defend Yourself ]",
+"href": "https://www.anthonykathol.com/post/right-to-defend-yourself"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61555753134314"
+}
 ]

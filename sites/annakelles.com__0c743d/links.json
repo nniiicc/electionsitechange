@@ -1,22 +1,98 @@
 [
-"http://facebook.com/annakellesNY",
-"http://instagram.com/kelles4ny",
-"https://annakelles.com/",
-"https://annakelles.com/about-anna",
-"https://annakelles.com/cart",
-"https://annakelles.com/childcare",
-"https://annakelles.com/get-involved",
-"https://annakelles.com/healthcare",
-"https://annakelles.com/housing-as-a-human-right",
-"https://annakelles.com/improving-public-safety",
-"https://annakelles.com/isses-home",
-"https://annakelles.com/issues",
-"https://annakelles.com/legislative-accomplishments",
-"https://annakelles.com/protecting-immigrant-communities",
-"https://annakelles.com/protecting-the-environment",
-"https://annakelles.com/rural-resources",
-"https://annakelles.com/strengthening-worker-rights",
-"https://annakelles.com/voterinformation",
-"https://secure.actblue.com/donate/annakelles-home",
-"https://threads.net/@kelles4ny"
+{
+"text": "0",
+"href": "https://www.annakelles.com/cart"
+},
+{
+"text": "About Anna",
+"href": "https://www.annakelles.com/about-anna"
+},
+{
+"text": "Back",
+"href": "https://www.annakelles.com/"
+},
+{
+"text": "Childcare",
+"href": "https://www.annakelles.com/childcare"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/annakelles-home"
+},
+{
+"text": "Environment",
+"href": "https://www.annakelles.com/protecting-the-environment"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.annakelles.com/issues"
+},
+{
+"text": "Get Involved",
+"href": "https://www.annakelles.com/get-involved"
+},
+{
+"text": "Healthcare",
+"href": "https://www.annakelles.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.annakelles.com/"
+},
+{
+"text": "Housing for All",
+"href": "https://www.annakelles.com/housing-as-a-human-right"
+},
+{
+"text": "Improving Public Safety",
+"href": "https://www.annakelles.com/improving-public-safety"
+},
+{
+"text": "Learn More",
+"href": "https://www.annakelles.com/isses-home"
+},
+{
+"text": "Learn more",
+"href": "https://www.annakelles.com/about-anna"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.annakelles.com/legislative-accomplishments"
+},
+{
+"text": "Protecting Immigrant Communities",
+"href": "https://www.annakelles.com/protecting-immigrant-communities"
+},
+{
+"text": "Rural Resources",
+"href": "https://www.annakelles.com/rural-resources"
+},
+{
+"text": "Strengthening Worker Rights",
+"href": "https://www.annakelles.com/strengthening-worker-rights"
+},
+{
+"text": "Voter Information",
+"href": "https://www.annakelles.com/voterinformation"
+},
+{
+"text": "[image: Anna Kelles]",
+"href": "https://www.annakelles.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/kelles4ny"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/annakellesNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@kelles4ny"
+},
+{
+"text": "info@annakelles.com",
+"href": "mailto:info@annakelles.com"
+}
 ]

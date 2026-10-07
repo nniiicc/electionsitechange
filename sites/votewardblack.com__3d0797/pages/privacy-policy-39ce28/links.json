@@ -1,6 +1,34 @@
 [
-"https://secure.anedot.com/vote-ward-black/donate",
-"https://votewardblack.com/",
-"https://votewardblack.com/issues",
-"https://votewardblack.com/privacy-policy"
+{
+"text": "Contact Us",
+"href": "https://www.votewardblack.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/vote-ward-black/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votewardblack.com"
+},
+{
+"text": "Meet Ward",
+"href": "https://www.votewardblack.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.votewardblack.com/issues"
+},
+{
+"text": "Privacy",
+"href": "https://www.votewardblack.com/privacy-policy"
+},
+{
+"text": "contact@votewardblack.com",
+"href": "mailto:contact@votewardblack.com"
+},
+{
+"text": "ward@votewardblack.com",
+"href": "mailto:ward@votewardblack.com"
+}
 ]

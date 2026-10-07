@@ -1,12 +1,54 @@
 [
-"https://didiforcongress.com/",
-"https://didiforcongress.com/accessibility-statement",
-"https://didiforcongress.com/events",
-"https://didiforcongress.com/privacy-policy",
-"https://facebook.com/profile.php?id=61578120718982",
-"https://instagram.com/didiforcongress",
-"https://secure.anedot.com/didi-for-congress/27bfa72f-8212-49d6-8614-e7d3cb09142c",
-"https://secure.winred.com/ndidiamaka-okpareke-for-congress/storefront",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://x.com/DidiForCongress"
+{
+"text": "ABOUT",
+"href": "https://www.didiforcongress.com"
+},
+{
+"text": "ACCESSIBILITY STATEMENT",
+"href": "https://www.didiforcongress.com/accessibility-statement"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/didi-for-congress/27bfa72f-8212-49d6-8614-e7d3cb09142c"
+},
+{
+"text": "EVENTS",
+"href": "https://www.didiforcongress.com/events"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61578120718982"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.didiforcongress.com"
+},
+{
+"text": "HOME",
+"href": "https://www.didiforcongress.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/didiforcongress/"
+},
+{
+"text": "MERCH",
+"href": "https://secure.winred.com/ndidiamaka-okpareke-for-congress/storefront"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.didiforcongress.com/privacy-policy"
+},
+{
+"text": "X",
+"href": "https://x.com/DidiForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.didiforcongress.com/privacy-policy"
+}
 ]

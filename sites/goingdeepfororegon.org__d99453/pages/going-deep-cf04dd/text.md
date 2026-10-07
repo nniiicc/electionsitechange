@@ -1,7 +1,5 @@
-Going Deep
-Act in the Short Run While Thinking about the Long Run
-Going deep has many meanings.
-The sports meanings in baseball, football, and basketball meanings – home runs, long passes, and three point shots – mean being bold and going deep to score and to win.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Going Deep Act in the Short Run While Thinking about the Long Run Going deep has many meanings.
+In baseball, football, and basketball, going deep – home runs, long passes, and three point shots – means being bold to score and win.
 Some people think of it as a double entendre, one that I was unfamiliar with until I created my campaign this March.
 Honestly, there are so many double entendres in American English that if some people see it that way, well I’m OK with that.
 Life is complicated, and I don’t want to be a Puritan about it here.
@@ -66,3 +64,5 @@ He wasn’t talking about destiny.
 He was talking about making best use of what’s available, with the knowledge that what’s available changes over time.
 We all have to adapt, individually and collectively, to how our world changes.
 The Oregon Legislature has a role to play in helping you and all Oregonians adapt successfully to our changing times.
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

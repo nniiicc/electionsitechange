@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Republican+Candidate+Forum&dates=20260501T010000Z%2F20260501T023000Z&location=6485+Tamarack+Lane%2C+Bonners+Ferry%2C+ID%2C+83805%2C+United+States",
-"http://maps.google.com/?q=6485+Tamarack+Lane+Bonners+Ferry%2C+ID%2C+83805+United+States",
-"https://facebook.com/profile.php?id=61582690706514",
-"https://instagram.com/p/DV2D8Sql2hj",
-"https://janesauterforidaho.com/",
-"https://janesauterforidaho.com/about-me",
-"https://janesauterforidaho.com/cart",
-"https://janesauterforidaho.com/contact-me",
-"https://janesauterforidaho.com/events",
-"https://janesauterforidaho.com/events/bonner-county-farm-bureau-forum",
-"https://janesauterforidaho.com/events/grace-and-joy-spring-fashion-show",
-"https://janesauterforidaho.com/events/republican-candidate-forum?format=ical",
-"https://janesauterforidaho.com/gallery",
-"https://janesauterforidaho.com/introduction",
-"https://janesauterforidaho.com/media",
-"https://janesauterforidaho.com/news",
-"https://secure.anedot.com/janesauterforidaho/donate",
-"https://x.com/janesauterforID",
-"https://youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6485+tamarack+lane+bonners+ferry%2C+id%2C+83805+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janesauterforidaho.com/cart"
+},
+{
+"text": "About me",
+"href": "https://www.janesauterforidaho.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Contact me",
+"href": "https://www.janesauterforidaho.com/contact-me"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/janesauterforidaho/donate"
+},
+{
+"text": "Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.janesauterforidaho.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Republican+Candidate+Forum&dates=20260501T010000Z%2F20260501T023000Z&location=6485+Tamarack+Lane%2C+Bonners+Ferry%2C+ID%2C+83805%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.janesauterforidaho.com/events/republican-candidate-forum?format=ical"
+},
+{
+"text": "Introduction",
+"href": "https://www.janesauterforidaho.com/introduction"
+},
+{
+"text": "Media",
+"href": "https://www.janesauterforidaho.com/media"
+},
+{
+"text": "News",
+"href": "https://www.janesauterforidaho.com/news"
+},
+{
+"text": "Next Next May 1 Grace and Joy Spring Fashion Show",
+"href": "https://www.janesauterforidaho.com/events/grace-and-joy-spring-fashion-show"
+},
+{
+"text": "Previous Previous April 29 Bonner County Farm Bureau Forum",
+"href": "https://www.janesauterforidaho.com/events/bonner-county-farm-bureau-forum"
+},
+{
+"text": "[image: Jane Sauter for Idaho]",
+"href": "https://www.janesauterforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582690706514"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DV2D8Sql2hj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/janesauterforID"
+}
 ]

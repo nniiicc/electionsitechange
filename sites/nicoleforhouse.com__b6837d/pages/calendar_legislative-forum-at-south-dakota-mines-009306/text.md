@@ -1,8 +1,12 @@
-Thank You For Coming!
-2024 Local Election Forum at South Dakota Mines
-On September 12th, the Surbeck Center’s Beck Ballroom will be the place to be from 7:00 to 9:00 p.m. for anyone interested in the upcoming local election.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events Legislative Forum at South Dakota Mines Thursday, September 12, 2024 7:00 PM 9:00 PM Surbeck Center, Beck Ballroom Surbeck Lane Rapid City, SD, 57701 United States (map) Google Calendar ICS Thank You For Coming!
+View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize 2024 Local Election Forum at South Dakota Mines On September 12th, the Surbeck Center’s Beck Ballroom will be the place to be from 7:00 to 9:00 p.m. for anyone interested in the upcoming local election.
 The evening starts with candidates stepping up to the mic, each getting just 2 minutes to make their case and introduce themselves to the crowd.
 Then, it’s onto the ballot initiatives, where speakers will break down the key issues, each taking 5 minutes to explain what’s at stake.
-After the presentations wrap up, the event will shift to a Q&A session.
+View fullsize After the presentations wrap up, the event will shift to a Q&A session.
 This is where the real conversation happens, as attendees get the chance to ask questions and dive deeper into what the candidates and initiatives really mean for the community.
 Hosted by the South Dakota Mines Office of Student Engagement and the Department of Humanities, Arts, & Social Sciences, this forum is more than just a meeting—it's a chance for voters to get informed and connect directly with the people and ideas that will shape the future.
+RSVP (Optional) → Previous Previous September 10 Meet & Greet "Friendraiser" and Presidential Debate Watch Party Next Next September 17 Robbinsdale Meet the Candidate Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

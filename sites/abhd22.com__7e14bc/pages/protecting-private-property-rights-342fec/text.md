@@ -1,6 +1,12 @@
-Private Property
-I believe protecting private property rights is fundamental to Wyoming’s way of life.
+0 Skip to Content Get to Know Andrew Priorities Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Newsletters Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Open Menu Close Menu Get to Know Andrew Priorities Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Newsletters Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Open Menu Close Menu Get to Know Andrew Folder: Priorities Back Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Folder: Newsletters Back Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Private Property I believe protecting private property rights is fundamental to Wyoming’s way of life.
 Whether it’s a ranch, a small business, or family land passed down for generations, people deserve certainty that what’s theirs will be respected and protected.
 I’ve worked to support policies that provide clear rules, limit government overreach, and ensure decisions impacting property are made as close to home as possible.
 That’s exactly how I approached the corner crossing issue, focusing on clarifying the law so both landowners and the public understand where the line is.
-Property rights only work when they’re clearly defined and consistently applied, and I’ll continue to support practical solutions that protect those rights while bringing certainty to everyone involved.
+Property rights only work when they’re clearly defined and consistently applied, and I’ll continue to support practical solutions that protect those rights while bringing certainty to everyone involved. ■ Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Campaign Email Subscription Subscribe to Andrew’s campaign emails to learn more about him and upcoming events.
+Email Address Sign Up Thank you!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Campaign Email Subscription Subscribe to Andrew’s campaign emails to learn more about him and upcoming events.
+Email Address Sign Up Thank you! [ NAVIGATION ] Home Issues Get to know Andrew Newsletters Contact Paid for by AB for HD22

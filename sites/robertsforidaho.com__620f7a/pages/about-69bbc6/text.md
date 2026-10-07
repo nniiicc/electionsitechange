@@ -1,6 +1,4 @@
-The Work That Made Nate Roberts
-Finding Home Through Learning
-Growing up, home was not always one place.
+0 Skip to Content Issues About Volunteer News Media Donate Open Menu Close Menu Issues About Volunteer News Media Donate Open Menu Close Menu Issues About Volunteer News Media Donate The Work That Made Nate Roberts Finding Home Through Learning Growing up, home was not always one place.
 My dad managed chemical plants, and his work required our family to move from community to community.
 Every move meant a new town, a new school, and a new group of people.
 There were times when I wished we could stay put long enough for one place to truly feel like being part of a community.
@@ -15,8 +13,7 @@ That experience still shapes how I think about education and libraries.
 A good school or a public library is more than a building.
 It can be an anchor for a young person trying to find their place in the world.
 Every Idaho child deserves that same freedom to learn, discover, and prepare for a better future.
-Building a Family with Kirsten
-When my family moved to New Mexico, I was once again the new kid in a new place.
+Building a Family with Kirsten When my family moved to New Mexico, I was once again the new kid in a new place.
 But this time, I was not completely alone for long.
 I was 17 years old when I met the love of my life, Kirsten Lopez.
 After spending so much of my childhood moving around, committing myself to another person was not easy.
@@ -33,8 +30,7 @@ You show up.
 You do the work.
 You stay when things get difficult, and you keep building together.
 That is also how I believe public service should work.
-Choosing a Career and Becoming an Electrician
-When Kirsten and I were first married, we had two children and were working hard just to make ends meet.
+Choosing a Career and Becoming an Electrician When Kirsten and I were first married, we had two children and were working hard just to make ends meet.
 I had been working at a formaldehyde plant since graduating from high school.
 It was steady work, but I knew I wanted more than a job.
 I wanted a career and trade I could take pride in, one that would allow me to provide for my family and build a more secure future.
@@ -55,8 +51,7 @@ A four-year college degree can be a great opportunity, but it is not the only pa
 Young Idahoans should also have the freedom to become electricians, plumbers, welders, dental hygienists, and other skilled professionals without being buried in debt.
 That is why the Idaho LAUNCH program mattered so much to me when I served in the Legislature.
 I know firsthand what a skilled trade can do for a working family because it did it for mine.
-Finding Solidarity in Pocatello
-Eventually, Kirsten and I moved to Idaho to be closer to my aging parents and help support them.
+Finding Solidarity in Pocatello Eventually, Kirsten and I moved to Idaho to be closer to my aging parents and help support them.
 I first accepted a job in Wood River Valley, and it did not take me long to realize that an overly manicured tourist town was not where I wanted to put down roots.
 When we moved to Pocatello, I felt at home much more quickly.
 Pocatello is a working town.
@@ -80,8 +75,7 @@ Unions give workers the freedom to join together, negotiate a fair return on the
 Unions are democracy in the workplace.
 My years in organized labor taught me that lasting progress does not come from waiting for somebody else to do the right thing.
 It comes when ordinary people organize and act together.
-Taking the Next Step & Running for Office
-For years, I had been involved in campaigns and in the labor movement.
+Taking the Next Step & Running for Office For years, I had been involved in campaigns and in the labor movement.
 I saw good people working hard to make Idaho better, but I also saw how few working people had a seat at the table where decisions were being made.
 Too many legislators had never worried about missing a paycheck, paying for a medical emergency, or choosing between a steady job and an apprenticeship that might provide a better future.
 Working families were being talked about, but they were not always being listened to.
@@ -109,8 +103,10 @@ Through every chapter, I have learned the same lesson: progress happens when ord
 I am running because Idaho’s working families deserve a representative who has walked in their boots.
 They deserve someone who has learned the dignity of skilled work, the strength of solidarity, the importance of public education, and the responsibility we have to leave our children and grandchildren a better future.
 That is the work that made me, and I am ready to get back to work for you.
-Preserving
-the Idaho
-We Love
-True leadership means looking out for our neighbors and protecting the communities we love.
+Preserving the Idaho We Love Volunteer With Me True leadership means looking out for our neighbors and protecting the communities we love.
 I am running to return to the Legislature to ensure our state thrives, our workers are respected, and our corner of Idaho remains a place where regular families can afford to live and succeed.
+Make a donation Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you for signing up for the newsletter! [email protected] (208) 807-8323 PO Box 2173 Pocatello ID, 83206 EIN 88-0822224 Paid for by Roberts for Idaho | Treasurer - Steve Landon

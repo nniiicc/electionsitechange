@@ -1,1 +1,2 @@
-2026 Endorsements 2026 Candidate Distinctions Previous Endorsements Endorsed by organizations we trust.
+0 Skip to Content Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us Open Menu Close Menu Home Issues Endorsements Volunteer Request a Yard Sign Donate Contact Us 2026 Endorsements 2026 Candidate Distinctions Previous Endorsements Endorsed by organizations we trust.
+Prepared and paid for by Jen McEwen for Senate campaign@votemcewen.com www.votemcewen.com Back to Home Jen McEwen for Senate PO Box 161141 Duluth, MN 55816 Campaign Finance Laws limit contributions to $1,000 per individual and $2,000 per couple.

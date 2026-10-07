@@ -1,7 +1,20 @@
-PRESS RELEASE
-MSEA-SEIU Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
-Senate
-PORTLAND, ME — Today the Maine Service Employees Association, SEIU Local 1989, endorsed fifth-generation Mainer and logger, longtime union member, and former Maine Senate President Troy Jackson for U.S.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE PRESS RELEASE Ahead of Debate, Jackson Highlights Reproductive Freedom On Anniversary Of Collins’ Kavanaugh Vote PRESS RELEASE Jackson Hits Canvass Launches, Town Hall In Ellsworth, And Virtual Town Hall In Washington County PRESS RELEASE As Early Voting Begins, Troy Jackson Urges Mainers To Make Their Voices Heard PRESS RELEASE Former Collins Voter Disgusted By Pay To Play Corruption Scheme Demands Collins Hold Town Hall PRESS RELEASE Troy Joins Maine Calling To Take Live Questions From Mainers While Collins Refuses PRESS RELEASE Troy Jackson Continues Building Momentum With Four New Polls Showing His Lead Against Susan Collins PRESS RELEASE NEW AD: Jackson Shares His Commitment To Fighting For Working Mainers PRESS RELEASE Read What They’re Saying: Mainers Outraged By Susan Collins’ Failure To Show Up For Them PRESS RELEASE HUFFPOST: Collins Faced An FBI Investigation Over Dark Money.
+It’s Still Flowing To Her Campaign.
+PRESS RELEASE Heather Cox Richardson Applauds Troy Jackson For His Authenticity And Record Of Getting Things Done PRESS RELEASE “Families for Troy” Highlights Jackson’s Record Delivering For Maine Families PRESS RELEASE Troy Jackson And Heather Cox Richardson Address Mainers’ Priorities, Take Questions In Portland PRESS RELEASE Jackson Launches “Families For Troy” And Campaigns Across Southern Maine PRESS RELEASE Jackson Takes Questions Directly From Mainers At Belfast Community Conversation With Matt Dunlap PRESS RELEASE NEW: Voters Are Tired Of Susan Collins’ Broken Economy Making It Harder For Mainers To Get By PRESS RELEASE Mainers Respond To Collins’ Pay-to-Play Scandal Grows, Demand Further Investigations PRESS RELEASE NEW AD: Mainer Calls Out Susan Collins For Advancing $1 Trillion In Medicaid Cuts PRESS RELEASE NEW AD: Mainers Lose Trust in Susan Collins After Dozens Of Votes To Confirm Anti-Abortion Judges PRESS RELEASE Pay-to-Play Scandal Grows As Second Report Calls Out Collins’ “Inaccurate” & “Misleading” Claims PRESS RELEASE NEW VIDEO: Corrupt Collins Embroiled In A Pay-To-Play Scheme Involving Millions Of Taxpayer Dollars PRESS RELEASE Troy Jackson Vows To Fight For Affordable Health Care At Community Conversation With Dr.
+Nirav Shah PRESS RELEASE Bombshell Investigation Surrounding Collins Operation Drawing Wave Of Local And National Scrutiny PRESS RELEASE NEW REPORT: “The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way” PRESS RELEASE Jackson Gains Traction Through His Working-Class Roots, Humility, and Relentless Fight for Mainers PRESS RELEASE Troy Jackson Hosts Patriots Watch Party With Fans At Portland Bowling Alley PRESS RELEASE NEW YORK TIMES: “Troy Jackson, A Progressive Brawler, Tries To Flip A Senate Seat In Maine” PRESS RELEASE Jackson Promises To Protect Social Security, Lower Health Care Costs, Ensure Billionaires Pay Taxes PRESS RELEASE NEW: Inside Elections Moves Maine Senate Race From Tilt Republican To Toss-Up PRESS RELEASE Jackson Stands With Residents Protesting Out-Of-State Private Equity Firms Increasing Costs PRESS RELEASE Across The State, Mainers Are Backing Troy Jackson For U.S.
+Senate PRESS RELEASE MSEA-SEIU Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
+Senate PRESS RELEASE Jackson Spends Another Weekend On The Trail Connecting With Mainers, Holds Fourth Town Hall PRESS RELEASE Troy Jackson Calls Out Susan Collins’ For Vote To Confirm Another Anti-Abortion Judge PRESS RELEASE New TV Ad: Jackson Calls For A Government That Works For Working People PRESS RELEASE Troy Jackson Campaigns Across Southern Maine, Holds Solidarity For Seniors Town Hall PRESS RELEASE Jackson Joins Canvass Launches Across State, Cheers on UMaine Football Team PRESS RELEASE Troy Jackson, Bangor Daily: “Mainers Depend On The Promise Of Social Security.
+I Intend To Keep It.” PRESS RELEASE New TV Ad: Jackson For Maine Calls Out Collins For Supporting Donald Trump, Blank Check For ICE PRESS RELEASE Troy Jackson Amasses Statewide Attention After Earning Endorsement Of Maine’s Largest Union PRESS RELEASE BOSTON GLOBE: “Organized labor inspired Troy Jackson’s political career.
+Now, he’s counting on it." PRESS RELEASE Troy Jackson Roots For Portland Sea Dogs Alongside Carpenters Union Members PRESS RELEASE MEA Endorses Jackson, Citing His Legislative Record And Commitment To Fighting For Working Families PRESS RELEASE New CNN Poll Shows Jackson With Narrow Edge In Maine Senate Race, Voters Motivated To Retire Collins PRESS RELEASE Over Labor Day Weekend, Jackson Barnstormed Maine With 13 Campaign Events, Standing With Workers PRESS RELEASE Following Packed Labor Day Weekend, Troy Jackson Shores Up Sweeping Support Across Key Unions PRESS RELEASE Troy Jackson Ends Labor Day Weekend Blitz Honoring Working People And Organizers Across Maine PRESS RELEASE In Jam-Packed Labor Day Weekend Across The State, Jackson Meets Mainers & Celebrates Solidarity PRESS RELEASE Jackson Kicks Off Labor Day Weekend With A Packed Day Meeting With Working Mainers PRESS RELEASE Troy Jackson Garners Attention Nationwide Campaigning To Bring A Working Class Voice To U.S.
+Senate PRESS RELEASE At Packed Town Hall In Gorham, Troy Jackson Answers Questions On Mainers’ Minds, Calls Out Collins PRESS RELEASE TROY JACKSON ACCEPTS FOUR DEBATES AS COLLINS CONTINUES TO DODGE TOWN HALLS PRESS RELEASE Planned Parenthood Action Fund Endorses Troy Jackson For U.S.
+Senate PRESS RELEASE UNITE HERE Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
+Senate PRESS RELEASE Troy Jackson Fires Up Supporters, Takes Questions At Packed Lewiston Town Hall PRESS RELEASE End Citizens United Endorses Troy Jackson For U.S.
+Senate PRESS RELEASE At First Town Hall, Troy Jackson Connects With Voters While The No Show Senator Again Fails To Show PRESS RELEASE 19th News: Jackson Record Of Fighting For Repro.
+Rights Garners Support From Former Collins Voters PRESS RELEASE Hours Before Lewiston Town Hall, Troy Jackson Still Waiting On Susan Collins’ RSVP PRESS RELEASE Nation’s Largest Transit Union Endorses Troy Jackson For U.S.
+Senate PRESS RELEASE Troy Jackson Meets With Mainers Across Washington And Waldo Counties PRESS RELEASE Troy Launches Women for Troy, Hits The Airwaves, And Highlights Record Of Fighting For Mainers PRESS RELEASE Troy Jackson Shares Vision For Maine With York County Voters, Stands With Railworkers In Portland PRESS RELEASE Troy Jackson Calls For Town Hall Debates And Invites Susan Collins To Three Town Halls Next Week PRESS RELEASE At Women for Troy Launch, Reproductive Freedom For All Backs Troy Jackson For U.S.
+Senate PRESS RELEASE New Ad Highlights Troy Jackson’s Firsthand Experience Trying To Make Ends Meet For His Family PRESS RELEASE One Month Since Entering The Race, Troy Connects With Mainers, Leads Polls, Mobilizes Grassroots PRESS RELEASE Association of Flight Attendants Join Growing List Of Union Endorsements For Troy Jackson PRESS RELEASE Across Maine, Troy Jackson Meets With Supporters, Shares His Vision to Put Working People First PRESS RELEASE New TV AD Highlights Troy Jackson’s Working Class Roots PRESS RELEASE Troy Jackson Joins MS NOW’s “The Weekend” To Highlight His Fight For Maine Workers PRESS RELEASE Troy Connects With Maine Voters On The Trail And On The Airways PRESS RELEASE League of Conservation Voters Action Fund Endorses Troy Jackson for U.S.
+Senate PRESS RELEASE Troy Jackson Hosts Meet and Greet With Maine Voters At Locally-Owned Portland Bar PRESS RELEASE Fox News Poll: Jackson Leads Collins As Majority Say She Votes With Trump Too Often PRESS RELEASE Troy Jackson Meets With Union Workers, Tours American Roots Clothing Factory PRESS RELEASE NEW TV AD: Troy Jackson Fights For Everyday Mainers Struggling To Get By In Trump, Collins’ Economy PRESS RELEASE Troy Jackson’s Authentic, Hard-Working Roots Resonate with Voters, Make Him the Right Pick for Maine PRESS RELEASE Troy Jackson on MS NOW’s “The Weeknight” PRESS RELEASE Read All About It: Troy Jackson, The Right Candidate For Maine All Along PRESS RELEASE Troy Jackson Fights for Rural Health Care, Veterans and Working Families Across Maine PRESS RELEASE Troy Jackson Raises $2 Million Since Securing Democratic Nomination Sep 16 2026 PRESS RELEASE MSEA-SEIU Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
+Senate PORTLAND, ME — Today the Maine Service Employees Association, SEIU Local 1989, endorsed fifth-generation Mainer and logger, longtime union member, and former Maine Senate President Troy Jackson for U.S.
 Senate.
 The endorsement comes as Troy campaigns for Senate with a strong focus on his honest roots as a union member and working-class Mainer who got his political start organizing for loggers in The County.
 Troy has spent his life standing shoulder to shoulder with working Mainers, and he’s ready to take that fight to Washington.
@@ -9,13 +22,11 @@ Troy has spent his life standing shoulder to shoulder with working Mainers, and 
 “In Trump’s broken economy, working people are putting in more hours for less pay while people like Susan Collins benefit from stock trading.
 I got into politics organizing loggers because the people doing the work deserved a fair shake, and that’s what I’ve fought for ever since.
 In the Senate, I’ll stand with working people fighting for better wages, safer workplaces, the right to organize, and a government that works for them instead of the wealthy and well-connected.
-It’s time we brought some working-class power to Washington.”
-“Troy has always listened to my issues and concerns,” said MSEA-SEIU Retiree Member Robyn Egan of Windham, who worked for 37 years for the Maine Department of Corrections.
+It’s time we brought some working-class power to Washington.” “Troy has always listened to my issues and concerns,” said MSEA-SEIU Retiree Member Robyn Egan of Windham , who worked for 37 years for the Maine Department of Corrections.
 “He has worked with me to find solutions that have benefited myself, my family and my union brothers and sisters.
 I am supporting Troy Jackson for U.S.
-Senate and believe he will work diligently for all Maine citizens.”
-“Too often, workers lack a voice and are afraid to speak up for fear of losing their jobs and livelihood.
-Over the last few years, we have all witnessed the hoarding of wealth and the exploitation of hardworking people at the hands of greedy politicians—both nationwide and in our own state,” MSEA-SEIU Member Shane Lewis of Bangor, a housing navigator for Preble Street said.
+Senate and believe he will work diligently for all Maine citizens.” “Too often, workers lack a voice and are afraid to speak up for fear of losing their jobs and livelihood.
+Over the last few years, we have all witnessed the hoarding of wealth and the exploitation of hardworking people at the hands of greedy politicians—both nationwide and in our own state,” MSEA-SEIU Member Shane Lewis of Bangor , a housing navigator for Preble Street said.
 “Troy Jackson has always been an advocate for healthcare, workers' rights, dignity, and a livable wage in the face of an ever-increasing cost of living.
 MSEA-SEIU Retiree Member Ginette Rivard of Caribou said Jackson represented her and her fellow citizens well in the Maine Senate.
 “Troy is a proven champion for Maine people.
@@ -23,49 +34,9 @@ In his years in the Maine Senate, he has consistently taken on corporations, inc
 “As my senator during this time, I have found him to be accessible and a persistent advocate for all of us.
 He is a man of integrity who sets high standards for himself.
 In Troy, Maine will have a true representative in the U.S.
-Senate.”
-MSEA-SEIU’s endorsement adds to the growing coalition of more than forty unions backing Jackson’s campaign for Senate — a reflection of the broad support he has built from working people across Maine.
+Senate.” MSEA-SEIU’s endorsement adds to the growing coalition of more than forty unions backing Jackson’s campaign for Senate — a reflection of the broad support he has built from working people across Maine.
 Jackson has paired that grassroots enthusiasm with strong fundraising and polling showing him in a competitive position to defeat Susan Collins this November.
-Labor endorsements include:
-- AFL-CIO — American Federation of Labor and Congress of Industrial Organizations
-- AFSCME — American Federation of State, County and Municipal Employees
-- AFSCME Council 93
-- AFT — American Federation of Teachers
-- Association of Heat and Frost Insulators & Allied Workers Local 6
-- ATU — Amalgamated Transit Union
-- CWA — Communications Workers of America
-- CWA Local 1400
-- Eastern Maine Labor Council
-- IAM — International Association of Machinists and Aerospace Workers
-- IBEW — International Brotherhood of Electrical Workers
-- IBEW Local 104
-- IBEW Local 567
-- IFPTE — International Federation of Professional and Technical Engineers
-- Interior Systems Union Local 352
-- International Association of Bridge, Structural, Ornamental, and Reinforcing Iron Workers (IW) Local 7
-- International Union of Operating Engineers (IUOE) Local 4
-- International Union of Painters and Allied Trades (IUPAT) DC 35
-- IUOE — International Union of Operating Engineers
-- IUPAT — International Union of Painters and Allied Trades
-- Laborers' International Union of North America (LiUNA!) Local 327
-- Laborers' International Union of North America (LiUNA!) Local 976
-- LiUNA — Laborers' International Union of North America
-- Local S7
-- Maine AFL-CIO
-- Maine Building & Construction Trades Council
-- Maine Education Association
-- Maine State Nurses Association
-- MSEA-SEIU Local 1989
-- National Nurses United
-- National Education Association
-- North Atlantic States Regional Council of Carpenters
-- NPMHU 205
-- SMART — International Association of Sheet Metal, Air, Rail and Transportation Workers
-- Southern Maine Labor Council
-- Teamsters Local 340
-- UAW Region 9A
-- UBC & JA Local 349
-- UFCW Local 1445
-- UNITE HERE - New England Joint Board
-- United Steelworkers
-###
+Labor endorsements include: AFL-CIO — American Federation of Labor and Congress of Industrial Organizations AFSCME — American Federation of State, County and Municipal Employees AFSCME Council 93 AFT — American Federation of Teachers Association of Heat and Frost Insulators & Allied Workers Local 6 ATU — Amalgamated Transit Union CWA — Communications Workers of America CWA Local 1400 Eastern Maine Labor Council IAM — International Association of Machinists and Aerospace Workers IBEW — International Brotherhood of Electrical Workers IBEW Local 104 IBEW Local 567 IFPTE — International Federation of Professional and Technical Engineers Interior Systems Union Local 352 International Association of Bridge, Structural, Ornamental, and Reinforcing Iron Workers (IW) Local 7 International Union of Operating Engineers (IUOE) Local 4 International Union of Painters and Allied Trades (IUPAT) DC 35 IUOE — International Union of Operating Engineers IUPAT — International Union of Painters and Allied Trades Laborers' International Union of North America (LiUNA!) Local 327 Laborers' International Union of North America (LiUNA!) Local 976 LiUNA — Laborers' International Union of North America Local S7 Maine AFL-CIO Maine Building & Construction Trades Council Maine Education Association Maine State Nurses Association MSEA-SEIU Local 1989 National Nurses United National Education Association North Atlantic States Regional Council of Carpenters NPMHU 205 SMART — International Association of Sheet Metal, Air, Rail and Transportation Workers Southern Maine Labor Council Teamsters Local 340 UAW Region 9A UBC & JA Local 349 UFCW Local 1445 UNITE HERE - New England Joint Board United Steelworkers ### To reach the campaign, email info@jacksonformaine.com .
+For press inquiries, email press@jacksonformaine.com .
+If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
+Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

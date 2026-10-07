@@ -1,9 +1,42 @@
 [
-"https://facebook.com/DrAnthonyPhillips",
-"https://phillipsforwisconsin.com/",
-"https://phillipsforwisconsin.com/about",
-"https://phillipsforwisconsin.com/contact",
-"https://phillipsforwisconsin.com/endorsements",
-"https://secure.winred.com/phillips-for-wisconsin-b886c593/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://sites.generatepress.com/conserve"
+{
+"text": "About",
+"href": "https://phillipsforwisconsin.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://phillipsforwisconsin.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/phillips-for-wisconsin-b886c593/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://phillipsforwisconsin.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://phillipsforwisconsin.com/"
+},
+{
+"text": "Home",
+"href": "https://sites.generatepress.com/conserve/"
+},
+{
+"text": "Phillips for Wisconsin",
+"href": "https://www.facebook.com/DrAnthonyPhillips/"
+},
+{
+"text": "[image: Dr Anthony PHILLIPS]",
+"href": "https://phillipsforwisconsin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DrAnthonyPhillips"
+},
+{
+"text": "anthonyphillips@phillipsforwisconsin.com",
+"href": "mailto:anthonyphillips@phillipsforwisconsin.com"
+}
 ]

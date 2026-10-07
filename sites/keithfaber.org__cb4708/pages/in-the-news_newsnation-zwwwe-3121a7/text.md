@@ -1,6 +1,1 @@
-Previous
-Previous
-Ohio auditor describes how widespread Medicaid fraud affects taxpayers
-Next
-Next
-Written By Guest User
+0 Skip to Content Home Meet Keith His Record Issues In the News Endorsements Media Kit DONATE Open Menu Close Menu Home Meet Keith His Record Issues In the News Endorsements Media Kit DONATE Open Menu Close Menu Home Meet Keith His Record Issues In the News Endorsements Media Kit DONATE Ohio Medicaid fraud has gone unchecked, until now: Auditor Jun 4 Written By Guest User Link: https://www.newsnationnow.com/crime/ohio-medicaid-fraud/ Guest User Previous Previous Ohio auditor describes how widespread Medicaid fraud affects taxpayers Next Next State Auditor Keith Faber on the Medicaid crack-down Privacy Policy | Terms & Conditions PAID FOR BY FRIENDS OF FABER

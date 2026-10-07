@@ -1,9 +1,46 @@
 [
-"https://danielleduggar.com/",
-"https://danielleduggar.com/about-danielle",
-"https://danielleduggar.com/copy-of-about-danielle",
-"https://danielleduggar.com/donations",
-"https://danielleduggar.com/the-issues",
-"https://myinfo.alabamavotes.gov/VoterView",
-"https://secure.anedot.com/danielle-duggar/danielleduggar"
+{
+"text": "About Danielle",
+"href": "https://www.danielleduggar.com/about-danielle"
+},
+{
+"text": "Check Here",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/danielle-duggar/danielleduggar"
+},
+{
+"text": "Donations",
+"href": "https://www.danielleduggar.com/donations"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danielleduggar.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.danielleduggar.com"
+},
+{
+"text": "Home",
+"href": "https://www.danielleduggar.com"
+},
+{
+"text": "Issues",
+"href": "https://www.danielleduggar.com/the-issues"
+},
+{
+"text": "Resources",
+"href": "https://www.danielleduggar.com"
+},
+{
+"text": "See Where Danielle Stands",
+"href": "https://www.danielleduggar.com/the-issues"
+},
+{
+"text": "Social/Media",
+"href": "https://www.danielleduggar.com/copy-of-about-danielle"
+}
 ]

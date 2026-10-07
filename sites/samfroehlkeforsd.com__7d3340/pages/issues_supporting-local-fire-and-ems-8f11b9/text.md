@@ -1,5 +1,2 @@
-Supporting local fire and EMS
-As some of our most essential services, the counties should be required to fully maintain and equip their fire and ambulance services.
-If they do not have the resources, the state will help support them.
-Paid for by Sam Froehlke for House
-Powered by CampaignPartner.com - Political Websites
+Meet Sam Platform Yard Signs and Highway Signs News and Articles Supporting local fire and EMS As some of our most essential services, the counties should be required to fully maintain and equip their fire and ambulance services.
+If they do not have the resources, the state will help support them. « Previous: Local control of schools Next: Radical financial responsibility » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

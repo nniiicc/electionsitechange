@@ -1,5 +1,4 @@
-TEXT TERMS AND CONDITIONS
-We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Home Meet Jodee PROPERTY TAX & VOTES Bills Passed 2023-25 HD 51 CONTACT DONATE Privacy Policy More Home Meet Jodee PROPERTY TAX & VOTES Bills Passed 2023-25 HD 51 CONTACT DONATE Privacy Policy Home Meet Jodee PROPERTY TAX & VOTES Bills Passed 2023-25 HD 51 CONTACT DONATE Privacy Policy Privacy Policy TEXT TERMS AND CONDITIONS We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 We respect your right to privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
@@ -13,5 +12,5 @@ Please make sure you review those separate Privacy Policies, located on our webs
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign.
 We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Policy Terms and Conditions Paid for by Jodee Etchart • Republican • PO Box 22014, Billings, MT 59104.
+Powered by

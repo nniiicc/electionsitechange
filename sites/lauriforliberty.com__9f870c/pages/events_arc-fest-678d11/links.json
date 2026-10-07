@@ -1,27 +1,110 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=ARC+Fest+Candidate+Forum&dates=20261003T192000Z%2F20261003T203000Z",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://fpinews.org/arcfest",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/arc-fest?format=ical",
-"https://lauriforliberty.com/events/dandy-trail-community-forum",
-"https://lauriforliberty.com/events/riley-days-greenfield-in",
-"https://lauriforliberty.com/events?tag=Indiana",
-"https://lauriforliberty.com/events?tag=candidate+forum",
-"https://lauriforliberty.com/events?tag=indianapolis",
-"https://lauriforliberty.com/events?tag=moderated",
-"https://lauriforliberty.com/events?tag=speaking+event",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ARC+Fest+Candidate+Forum&dates=20261003T192000Z%2F20261003T203000Z"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/arc-fest?format=ical"
+},
+{
+"text": "Indiana",
+"href": "https://www.lauriforliberty.com/events?tag=Indiana"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Next Next October 4 Riley Days - Greenfield IN",
+"href": "https://www.lauriforliberty.com/events/riley-days-greenfield-in"
+},
+{
+"text": "Previous Previous September 28 Dandy Trail Community Forum",
+"href": "https://www.lauriforliberty.com/events/dandy-trail-community-forum"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+},
+{
+"text": "candidate forum",
+"href": "https://www.lauriforliberty.com/events?tag=candidate+forum"
+},
+{
+"text": "https://fpinews.org/arcfest/",
+"href": "https://fpinews.org/arcfest/"
+},
+{
+"text": "indianapolis",
+"href": "https://www.lauriforliberty.com/events?tag=indianapolis"
+},
+{
+"text": "moderated",
+"href": "https://www.lauriforliberty.com/events?tag=moderated"
+},
+{
+"text": "speaking event",
+"href": "https://www.lauriforliberty.com/events?tag=speaking+event"
+}
 ]

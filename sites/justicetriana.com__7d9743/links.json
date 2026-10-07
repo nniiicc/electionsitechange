@@ -1,7 +1,34 @@
 [
-"https://facebook.com/JudgeTriana",
-"https://instagram.com/JudgeTriana",
-"https://justicetriana.com/",
-"https://twitter.com/JudgeTriana",
-"https://twitter.com/JusticeTriana"
+{
+"text": "DONATE",
+"href": "https://www.justicetriana.com/"
+},
+{
+"text": "[image: Judge Triana's Facebook]",
+"href": "https://www.facebook.com/JudgeTriana"
+},
+{
+"text": "[image: Judge Triana's Twitter]",
+"href": "https://twitter.com/JusticeTriana"
+},
+{
+"text": "[image: Justice Gisela Triana][image: Justice Gisela Triana][image: Justice Gisela Triana][image: Justice Gisela Triana]",
+"href": "https://www.justicetriana.com"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/JudgeTriana/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/JudgeTriana"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/JudgeTriana/"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://twitter.com/JudgeTriana"
+}
 ]

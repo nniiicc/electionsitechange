@@ -1,18 +1,90 @@
 [
-"https://facebook.com/SenatorFredrickson",
-"https://instagram.com/johnforne",
-"https://instagram.com/johnforne?hl=en",
-"https://johnfornebraska.com/",
-"https://johnfornebraska.com/about",
-"https://johnfornebraska.com/about-5",
-"https://johnfornebraska.com/get-involved",
-"https://johnfornebraska.com/privacy-policy",
-"https://johnfornebraska.com/terms-and-conditions",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=10",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=25",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=250",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=50",
-"https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=500",
-"https://x.com/JohnforNE"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.johnfornebraska.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-for-john-fredrickson-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.johnfornebraska.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.johnfornebraska.com"
+},
+{
+"text": "Nebraska's Unicameral",
+"href": "https://www.johnfornebraska.com/about-5"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnfornebraska.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.johnfornebraska.com/about"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.johnfornebraska.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnfornebraska.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorFredrickson/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/johnforne/?hl=en"
+},
+{
+"text": "[image: JF SENATE_LOGO_FNL-01.png]",
+"href": "https://www.johnfornebraska.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/JohnforNE"
+},
+{
+"text": "[image: social-icon__facebook__v2]",
+"href": "https://www.facebook.com/SenatorFredrickson/"
+},
+{
+"text": "[image: social-icon__instagram__v1]",
+"href": "https://www.instagram.com/johnforne"
+},
+{
+"text": "[image: social-icon__x__v1]",
+"href": "https://x.com/JohnforNE"
+},
+{
+"text": "hello@johnfornebraska.com",
+"href": "mailto:hello@johnfornebraska.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "I want to make sure everyone has the opportunity to vote and have their voice heard. The 36th Senate District has seven election authorities, so make sure you get information[...]",
  "final_url": "https://www.halpinforillinois.com/early-voting/",
- "paid_for_by": null,
+ "fingerprint": "e2661aa2b95f9635b86775cd2f740d3e7d06c753",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Early Voting - Mike Halpin for Illinois",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

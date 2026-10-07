@@ -1,11 +1,46 @@
 [
-"https://burley4congress.com/",
-"https://burley4congress.com/contact",
-"https://burley4congress.com/endorsements",
-"https://burley4congress.com/lawnsign",
-"https://burley4congress.com/volunteer",
-"https://facebook.com/Burley4HB",
-"https://locator.lavote.gov/locations/vc?culture=en",
-"https://ocvote.gov/elections/vote-center-locations",
-"https://secure.anedot.com/brian-burley-for-congress/donate"
+{
+"text": "(714) 824-0032",
+"href": "tel:1-714-824-0032"
+},
+{
+"text": "CONTACT",
+"href": "https://www.burley4congress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/brian-burley-for-congress/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.burley4congress.com/endorsements"
+},
+{
+"text": "FIND AN LA COUNTY VOTER CENTER",
+"href": "https://locator.lavote.gov/locations/vc?culture=en"
+},
+{
+"text": "FIND AN ORANGE COUNTY VOTER CENTER",
+"href": "https://ocvote.gov/elections/vote-center-locations"
+},
+{
+"text": "FREE LAWN SIGN",
+"href": "https://www.burley4congress.com/lawnsign"
+},
+{
+"text": "HOME",
+"href": "https://www.burley4congress.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.burley4congress.com/volunteer"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/Burley4HB/"
+},
+{
+"text": "campaign@brianburley.com",
+"href": "mailto:campaign@brianburley.com"
+}
 ]

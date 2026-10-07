@@ -1,18 +1,8 @@
-Alabama continues to have a maternal and infant mortality crisis, with high rates of poverty for moms and children.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events Diaper Drive & Candidate Meet-and-Greet Sunday, July 12, 2026 2:30 PM 4:30 PM Google Calendar ICS Alabama continues to have a maternal and infant mortality crisis , with high rates of poverty for moms and children.
 Fortunately, we have several great candidates on the ballot this year who are equally passionate about these important causes.
 We will hold a diaper drive and candidate meet-and-greet at the same time and location.
-Party Details
-July 12
-2:30 PM
-457 St Anne's Drive, Birmingham, 35244
-Email elizabunny@gmail.com to RSVP.
+Party Details July 12 2:30 PM 457 St Anne's Drive, Birmingham, 35244 Email elizabunny@gmail.com to RSVP.
 Door prize: one lucky winner at the party will win a handmade 14k Gold Filled IUD necklace by Kenda Kist Jewelry.
-What to bring:
-- Bring diapers, wipes, or period products to donate to Bundles of Hope.
-Meet the candidates:
-You'll have the opportunity to meet each of these candidates and hear them speak.
-- AshLeigh Mayer Dunham, candidate for Alabama Supreme Court
-- Violet Edwards, candidate for Alabama State Auditor
-- Ashtyn Kennedy, candidate for US Congress in District 6
-- Mandie Ledkins, candidate for Alabama State Senate in District 14
-- Sheila McNeil, candidate for Alabama Public Service Commission
+What to bring: Bring diapers, wipes, or period products to donate to Bundles of Hope .
+Meet the candidates: You'll have the opportunity to meet each of these candidates and hear them speak.
+AshLeigh Mayer Dunham , candidate for Alabama Supreme Court Violet Edwards , candidate for Alabama State Auditor Ashtyn Kennedy , candidate for US Congress in District 6 Mandie Ledkins , candidate for Alabama State Senate in District 14 Sheila McNeil , candidate for Alabama Public Service Commission Previous Previous July 11 Birmingham Meet-and-Greet Next Next July 24 Christmas in July AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

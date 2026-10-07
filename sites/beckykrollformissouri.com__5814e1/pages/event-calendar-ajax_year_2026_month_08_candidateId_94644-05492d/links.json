@@ -1,4 +1,10 @@
 [
-"https://upballot.com/event-calendar-ajax?year=2026&month=07&candidateId=94644",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=94644"
+{
+"text": "[tooltip: Navigate to July 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=07&candidateId=94644"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=94644"
+}
 ]

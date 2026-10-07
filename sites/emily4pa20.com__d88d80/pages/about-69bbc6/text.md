@@ -1,5 +1,4 @@
-Meet Emily Kinkead
-Emily was elected to serve Pennsylvania's 20th Legislative District in 2020.
+About Issues News District 20 Contact Home Volunteer Make a Vote Plan Endorsements Donate Toggle navigation Donate Contact District 20 News Issues About Meet Emily Kinkead Download HQ Headshot Emily was elected to serve Pennsylvania's 20th Legislative District in 2020.
 In a time filled with turmoil because of a raging pandemic, growing partisan strife, and ongoing attacks on our democracy and ability to vote, Emily has spent her time in office committed to being a voice for her district and advocating for the values that she believes need to be more central in our government policy - justice, equity, and diversity.
 Emily was born on Pittsburgh's Northside, the child of a Pittsburgh paramedic, and after living everywhere from North Dakota to Washington, DC, returned to her roots in Pittsburgh.
 She learned her commitment to service from her dad who lives by the mantra that that you help people if you can.
@@ -13,3 +12,4 @@ She knows we need leaders with the guts and determination to put themselves on t
 We need leaders who listen to the needs of every community and take those concerns into the halls of power to effectuate long-overdue changes.
 Emily received two Bachelor's degrees - Biology and Political Science - from Bloomsburg University of Pennsylvania and her Juris Doctorate from the University of Pittsburgh School of Law.
 She lives in Brighton Heights with her cats.
+Home Contact Volunteer Make a Vote Plan Issues News About Endorsements District 20 Donate Donate PAID FOR BY PEOPLE FOR EMILY KINKEAD

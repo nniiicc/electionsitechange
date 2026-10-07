@@ -1,6 +1,5 @@
-Deb Haaland Earns Endorsement From Communications Workers of America Local 7076
-CWA Local 7076 Represents Public Employees Across New Mexico
-ALBUQUERQUE, NM – Today, the Communications Workers of America Local 7076 announced their endorsement for Deb Haaland in the New Mexico gubernatorial election.
+Donate to a Campaign for All New Mexicans New Mexicans are facing tough challenges and Deb Haaland is the leader we need to challenge the status quo and move us toward a future where everyone can thrive.
+Do what you can today to help us win! $# $# $# $# $# Other amount Close Facebook Instagram X TikTok Bluesky YouTube Deb Haaland for New Mexico Menu News Home Meet Deb Deb’s Plan Endorsements Events Store Donate Press Release Deb Haaland Earns Endorsement From Communications Workers of America Local 7076 February 24, 2026 CWA Local 7076 Represents Public Employees Across New Mexico ALBUQUERQUE, NM – Today, the Communications Workers of America Local 7076 announced their endorsement for Deb Haaland in the New Mexico gubernatorial election.
 CWA Local 7076 represents public employees across the state with members working for the State of New Mexico, University of New Mexico, University of New Mexico Hospital, Central New Mexico Community College, Timberon Water and Sanitation Department, and Albuquerque Community Safety Department.
 CWA Local 7076 joins the Committee of Interns and Residents, of the Service Employees International Union and the American Federation of Teachers New Mexico in supporting Haaland’s record fighting for workers and leadership for New Mexico.
 Haaland also recently stood with public workers to include a raise for public sector employees in the next state budget.
@@ -18,3 +17,13 @@ Haaland has stood in solidarity with unions her entire career and understands th
 In Congress, Haaland voted to raise the minimum wage and cosponsored legislation to strengthen workers’ rights to organize.
 Under Haaland’s leadership the Department of the Interior was voted one of the best agencies to work by the public servants who work there, and she oversaw hundreds of millions of dollars of investments across the country that created good-paying union jobs.
 Haaland will bring that experience to New Mexico.
+Join Deb’s Campaign Deb Haaland is running for Governor because she’s lived the struggles of New Mexicans.
+She understands that crime, homelessness, addiction, and high prices are putting success out of reach for many families in our state and Deb is determined to face those challenges head-on.
+First name Email address * Zip code * Mobile number By submitting this form and providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from Deb for New Mexico.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms.
+Sign Up!
+Give Do what you can today to help us win! $10 $25 $100 $250 $500 Other amount Deb Haaland for New Mexico Home The Latest Meet Deb Deb’s Plan Endorsements Follow Us: Facebook Instagram X TikTok Bluesky YouTube Donate By Mail Deb for New Mexico PO Box 25024 Albuquerque, NM 87125 Paid for and authorized by Deb for New Mexico Contact Privacy Policy Made with Middle Seat

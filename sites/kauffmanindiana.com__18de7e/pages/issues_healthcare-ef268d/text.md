@@ -1,9 +1,10 @@
-Healthcare You Can Actually Reach
-I do not think any family should have to drive an hour to see a doctor.
+Skip to content Home About Issues Our District News Get Involved Contact Donate Donate Home About Issues Our District News Get Involved Contact Home Issues Healthcare Where Kelsey stands Healthcare .
+No family should have to drive an hour to see a doctor.
+Kelsey will fight to keep our hospitals open, expand mental health services, and protect the care our families depend on.
+Healthcare You Can Actually Reach I do not think any family should have to drive an hour to see a doctor.
 Putnam County has fewer primary care doctors per person than almost anywhere in Central Indiana.
 That is not a statistic — that is your neighbor waiting weeks for an appointment, your parent unable to get mental health care, your local hospital fighting just to keep the lights on.
-The Problem
-Putnam County Hospital is a 12-bed Critical Access Hospital serving a county with just 32 primary care physicians per 100,000 residents — tied for the lowest ratio in all of Central Indiana.
+The Problem Putnam County Hospital is a 12-bed Critical Access Hospital serving a county with just 32 primary care physicians per 100,000 residents — tied for the lowest ratio in all of Central Indiana.
 Residents regularly travel 45 miles to Indianapolis or 30 miles to Terre Haute for advanced care.
 Montgomery County is better served by Franciscan Health Crawfordsville, a 103-bed facility, but the county still faces provider shortages.
 Every single one of Indiana's 92 counties is federally designated as a mental health professional shortage area.
@@ -19,16 +20,26 @@ While both counties currently maintain OB services, the pressures driving closur
 Now, proposed federal cuts threaten $1.1 billion in Medicaid spending for Indiana's rural hospitals over the next decade.
 Our Critical Access Hospitals already operate at roughly negative 16% on operations.
 This is not sustainable.
-Where Kelsey Stands
-Kelsey believes healthcare is not a luxury — it is what keeps families working, kids in school, and communities whole.
+Where Kelsey Stands Kelsey believes healthcare is not a luxury — it is what keeps families working, kids in school, and communities whole.
 She has seen up close what happens when people fall through the cracks, through her years directing the CASA program and working with at-risk youth and families.
 She will fight for practical, achievable improvements to healthcare access in our district.
-What She'll Fight For
-- Protect rural hospitals from funding cuts that threaten their survival
-- Expand mental health services in both counties, starting with school-based mental health support
-- Close the substance abuse gap in Putnam County by advocating for participation in state programs Montgomery County already uses
-- Defend maternal healthcare so no family in our district loses access to OB services
-- Support programs like Project Swaddle in Crawfordsville and expand maternal support across the district
-- Fight Medicaid cuts that would devastate rural healthcare infrastructure
-Keeping our families healthy and strong should not depend on whether you can afford to drive an hour each way to see a specialist.
+What She'll Fight For Protect rural hospitals from funding cuts that threaten their survival Expand mental health services in both counties, starting with school-based mental health support Close the substance abuse gap in Putnam County by advocating for participation in state programs Montgomery County already uses Defend maternal healthcare so no family in our district loses access to OB services Support programs like Project Swaddle in Crawfordsville and expand maternal support across the district Fight Medicaid cuts that would devastate rural healthcare infrastructure Keeping our families healthy and strong should not depend on whether you can afford to drive an hour each way to see a specialist.
 We need healthcare that works for people who live here — not just people who can afford to go somewhere else.
+Agree?
+Let's make it count.
+The only way this voice reaches the Statehouse is with neighbors like you behind it.
+Donate Get involved Keep reading Explore other issues.
+Education Our local schools are the heart of this community.
+Kelsey will fight to protect them from Statehouse budget games that put corporate tax breaks ahead of our children.
+Read stand → Economy and Jobs We have good jobs in this district.
+But when hardworking families can't find affordable housing or keep up with rising costs, something is out of balance.
+Read stand → Property Taxes They called it property tax relief.
+But when families with modest homes pay more while corporations get $2 million breaks, that is not relief — that is a shell game.
+Read stand → Childcare A parent in Putnam County has fewer than 10 licensed childcare options for the entire county.
+Three accept infants.
+That is families falling through the cracks.
+Read stand → Immigration Immigration enforcement is a federal responsibility.
+When the Statehouse forces our county sheriffs to act as federal agents without funding or training, it does not make us safer — it pulls resources from the calls that matter.
+Read stand → Donate Now Making Our Voices Heard at the Statehouse .
+Fighting for strong schools, affordable healthcare, and working families in District 44 .
+Navigate Home About Kelsey Issues News Contact Issues Education Healthcare Economy and Jobs Property Taxes Childcare Immigration Connect Greencastle, Indiana Paid for by Kelsey Kauffman for House District 44 Image Credits

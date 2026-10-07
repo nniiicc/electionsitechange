@@ -1,17 +1,82 @@
 [
-"http://eepurl.com/c8gBO9",
-"http://google.com/calendar/event?action=TEMPLATE&text=Happy+Hour+with+Tasha&dates=20201008T000000Z%2F20201008T010000Z",
-"http://instagram.com/tashaboerner",
-"https://efundraisingconnections.com/c/TashaBoernerforAssembly2026",
-"https://facebook.com/Tasha4Assembly",
-"https://flickr.com/photos/derekhumphrey/albums/72177720312376632",
-"https://secure.anedot.com/tashaboernerhorvathforassembly2020/tbhcocktails-10-7-20",
-"https://tashaboerner.com/",
-"https://tashaboerner.com/about-tasha",
-"https://tashaboerner.com/issues",
-"https://tashaboerner.com/meet-tasha",
-"https://tashaboerner.com/meet-tasha/2020/10/6/virtual-meet-and-greet-with-tasha-and-eusb-candidates-marlon-taylor-and-jodie-williams",
-"https://tashaboerner.com/meet-tasha/cocktail-hour",
-"https://tashaboerner.com/meet-tasha/happy-hour-with-tasha?format=ical",
-"https://tashaboerner.com/yourpriorities"
+{
+"text": "About",
+"href": "https://tashaboerner.com/about-tasha"
+},
+{
+"text": "Back to All Events",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Cocktail Hour with Tasha and Friends",
+"href": "https://tashaboerner.com/meet-tasha/cocktail-hour"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/tashaboernerhorvathforassembly2020/tbhcocktails-10-7-20"
+},
+{
+"text": "Contribute",
+"href": "https://www.efundraisingconnections.com/c/TashaBoernerforAssembly2026/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Happy+Hour+with+Tasha&dates=20201008T000000Z%2F20201008T010000Z"
+},
+{
+"text": "Home",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "ICS",
+"href": "https://tashaboerner.com/meet-tasha/happy-hour-with-tasha?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://tashaboerner.com/issues"
+},
+{
+"text": "Meet Encinitas Union School Board Candidates Marlon Taylor and Jodie Williams",
+"href": "https://tashaboerner.com/meet-tasha/2020/10/6/virtual-meet-and-greet-with-tasha-and-eusb-candidates-marlon-taylor-and-jodie-williams"
+},
+{
+"text": "Meet Tasha",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Newsletter sign-up",
+"href": "http://eepurl.com/c8gBO9"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632/"
+},
+{
+"text": "Your priorities",
+"href": "https://tashaboerner.com/yourpriorities"
+},
+{
+"text": "[image: Tasha Boerner for Assembly 2024]",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/tashaboerner"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Tasha4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632"
+},
+{
+"text": "[no text]",
+"href": "mailto:tasha@tasha4assembly.com"
+},
+{
+"text": "tasha@tashaboerner.com",
+"href": "mailto:tasha@tashaboerner.com"
+}
 ]

@@ -1,7 +1,7 @@
-I've knocked on more than 10,000 doors during this campaign, and I've heard YOUR concerns.
+Meet Caitlin Issues Volunteer Contribute I've knocked on more than 10,000 doors during this campaign, and I've heard YOUR concerns.
 We have so much more in common than what divides us.
 Here are a few of the issues that I am prioritizing in my campaign.
-If you would like to share the issues that are most important to you, please visit this link to fill out a short form.
+If you would like to share the issues that are most important to you, please visit this link to fill out a short form .
 Nebraska is facing a $471 million - and growing - deficit.
 Prioritizing corporate tax giveaways, tariffs, and federal cuts has landed us here.
 Common sense says we need to re-examine incoming revenue streams, closely look into places we can trim, and spend our money where we receive the greatest return - our people.
@@ -21,3 +21,4 @@ Many of us worry about the world our children and grandchildren will inherit.
 In an age of discord, one commonality among us is the desire for a better future for them.
 Nebraskans work hard to provide for our families.
 In exchange, our families deserve access to healthy food, healthcare, high-quality childcare, clean air and water, and an economy that provides freedom and opportunity.
+Voter Information Endorsements Yard Signs Contact Knutson for Legislature Committee Powered by CampaignPartner.com - Political Websites Home Meet Caitlin Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

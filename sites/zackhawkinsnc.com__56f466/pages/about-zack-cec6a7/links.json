@@ -1,13 +1,62 @@
 [
-"https://facebook.com/zackhawkinsnc",
-"https://instagram.com/zackhawkinsnc",
-"https://secure.actblue.com/donate/zackhawkinsnc",
-"https://zackhawkinsnc.com/",
-"https://zackhawkinsnc.com/about-zack",
-"https://zackhawkinsnc.com/cdn-cgi/l/email-protection",
-"https://zackhawkinsnc.com/contact",
-"https://zackhawkinsnc.com/endorsements",
-"https://zackhawkinsnc.com/event-request",
-"https://zackhawkinsnc.com/issues",
-"https://zackhawkinsnc.com/volunteer"
+{
+"text": "About Zack",
+"href": "https://zackhawkinsnc.com/about-zack/"
+},
+{
+"text": "Contact",
+"href": "https://zackhawkinsnc.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/zackhawkinsnc"
+},
+{
+"text": "Endorsements",
+"href": "https://zackhawkinsnc.com/endorsements/"
+},
+{
+"text": "Event Request",
+"href": "https://zackhawkinsnc.com/event-request/"
+},
+{
+"text": "Home",
+"href": "https://zackhawkinsnc.com/"
+},
+{
+"text": "Issues",
+"href": "https://zackhawkinsnc.com/issues/"
+},
+{
+"text": "Menu Close",
+"href": "https://zackhawkinsnc.com/#mobile-menu-toggle"
+},
+{
+"text": "Volunteer",
+"href": "https://zackhawkinsnc.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:connect@zackhawkinsnc.com"
+},
+{
+"text": "[image: Zack Hawkins for NC Logo]",
+"href": "https://zackhawkinsnc.com/"
+},
+{
+"text": "[image: Zack Hawkins for North Carolina]",
+"href": "https://zackhawkinsnc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/zackhawkinsnc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/zackhawkinsnc"
+},
+{
+"text": "[no text]",
+"href": "https://zackhawkinsnc.com/#mobile-fullscreen-menu"
+}
 ]

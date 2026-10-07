@@ -1,4 +1,1 @@
-Wed, Mar 04
-DeMotte Library
-Mar 04, 2026, 6:00 PM – 8:00 PM CST
-DeMotte Library, 901 Birch St SW, De Motte, IN 46310, USA
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Meet the Candidate - Jay Starkey Wed, Mar 04 | DeMotte Library Tickets are not on sale See other events Time & Location Mar 04, 2026, 6:00 PM – 8:00 PM CST DeMotte Library, 901 Birch St SW, De Motte, IN 46310, USA Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

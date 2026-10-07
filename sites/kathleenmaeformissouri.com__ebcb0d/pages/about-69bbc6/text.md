@@ -1,8 +1,9 @@
-General Election · November 3, 2026
-Missouri's 4th Congressional District
-“Americans are not asking for special treatment.
-They are asking for the opportunity to work, provide for our families, and build a better future for ourselves.”
-KathleenMae Rogers is a Marine Corps veteran and graduate student living in Missouri.
+General Election · November 3, 2026 Missouri's 4th Congressional District KathleenMae Rogers Independent · MO‑4 Home The Issues About KathleenMae Why Independent FAQ Contribute Volunteer Share Share on Facebook Share on X Share by Email Copy Link Print & Hand Out Business Card (PDF) Yard Sign & Banner Design (PDF) ☰ Meet KathleenMae About KathleenMae Rogers An independent American to represent Missouri’s 4th Congressional District Meet KathleenMae Rogers “Americans are not asking for special treatment.
+They are asking for the opportunity to work, provide for our families, and build a better future for ourselves.” KathleenMae Rogers is a Marine Corps veteran and graduate student living in Missouri.
 She moved to the state after attending a Kansas City Chiefs preseason game and found a deep connection to its communities and its landscape.
 Her graduate work centers on healthcare through physical therapy, with research focused on PTSD treatment and accessibility.
 KathleenMae describes service as “showing up, listening, and working alongside others to solve problems.” She believes in accessible healthcare, quality education, strong community support systems, and the dignity of honest work — and that farmers, veterans, teachers, healthcare workers, and everyone in between deserve a voice in civic life.
+Why She’s Running Independent See Her Positions KathleenMae Rogers Independent for Missouri’s 4th Congressional District.
+Write‑in, General Election, November 3, 2026.
+Campaign The Issues About KathleenMae Why Independent FAQ Take Action Contribute Volunteer How to Write Her In Print at Home Business Card (PDF) Yard Sign & Banner Design (PDF) Contact — Always Here Mo4KMR@gmail.com (816) 608-9500 Share a Concern Email Us Register to Vote Help her reach more voters — share the campaign Share This Campaign Share on Facebook Share on X Share by Email Copy Link Paid for by KathleenMaeforMissouri. © # KathleenMae Rogers for Missouri.
+Top

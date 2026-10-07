@@ -1,11 +1,4 @@
-BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly
-“Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.”
-READ post
-BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly
-“As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.”
-READ post
-Tannousis Wins Republican Primary for State Assembly
-We have great news!
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Tannousis for Assembly NEWSROOM Fri, Aug 14 2020 Endorsements BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly “Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.” READ post share Fri, Aug 14 2020 Endorsements BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly “As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.” READ post share Thu, Jul 09 2020 Featured Tannousis Wins Republican Primary for State Assembly We have great news!
 Mike Tannousis has won the Republican Primary for the 64th Assembly District.
 It was a hard-fought campaign and after the absentee ballots were counted we maintained a commanding lead!
-READ post
+READ post share Posts pagination 1 2 … 4 Next page STAND WITH MIKE Your email address * Your ZIP code * Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

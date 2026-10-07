@@ -1,4 +1,4 @@
-MARYJANE SHIMSKY has represented New York’s 92nd District in Westchester County since January 2023.
+0 Skip to Content Home About Endorsements Media Contact Donate Open Menu Close Menu Home About Endorsements Media Contact Donate Open Menu Close Menu Home About Endorsements Media Contact Donate About MaryJane MARYJANE SHIMSKY has represented New York’s 92nd District in Westchester County since January 2023.
 The district includes most of the Towns of Greenburgh and Mount Pleasant and a portion of northwest Yonkers.
 She serves on the Assembly’s committees on Corporations, Authorities, and Commissions; Governmental Operations; Judiciary; Local Governments; Tourism, Parks, Arts, and Sports Development; and Transportation.
 She is also a member of the New Americans and Puerto Rican/Hispanic task forces, Legislative Women’s Caucus, and Bipartisan Pro-Choice Legislative Caucus.
@@ -29,3 +29,4 @@ She earned her law degree from New York University School of Law in 1985, and wo
 She taught history and geography at Marymount College in Tarrytown, on her way toward earning a PhD in History from the City University of New York in 2007.
 MaryJane and her husband, David Agosto, have two grown children who attended the Hastings-on-Hudson public schools.
 Now living in Dobbs Ferry, they are 30-year residents of the Rivertowns area of Westchester County.
+Donate shimsky4assembly@gmail.com Paid for by Shimsky for Assembly 2026

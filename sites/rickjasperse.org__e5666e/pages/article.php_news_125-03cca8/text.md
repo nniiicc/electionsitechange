@@ -1,4 +1,4 @@
-[March 20, 2023] | In the last few weeks after the legislative session ends, I'm always surprised how busy we are.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK CONSTITUTIONAL CARRY BILL SB 319 [ March 20, 2023 ] | In the last few weeks after the legislative session ends, I'm always surprised how busy we are.
 Besides trying to catch up on emails and calls we may have missed during the busy last two to three weeks of session, we have bill signings with the Governor that go on across Georgia.
 Also, people want to you come speak to their groups about what we did or didn't do during the legislative session.
 So that is why I laugh when folks say, "Are you getting some rest after the session?"!
@@ -29,3 +29,4 @@ Sometimes it's easier to answer your specific question by phone or email; whiche
 Over the next month I will go over other bills we passed to keep you up to date on what we did.
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov, or in the grocery store when you see me.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at the Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

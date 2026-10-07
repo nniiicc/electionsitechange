@@ -1,8 +1,42 @@
 [
-"https://rutland4wa.com/",
-"https://rutland4wa.com/about",
-"https://rutland4wa.com/contact",
-"https://rutland4wa.com/endorsements",
-"https://rutland4wa.com/get-involved",
-"https://rutland4wa.com/issues"
+{
+"text": "About",
+"href": "https://rutland4wa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://rutland4wa.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://rutland4wa.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://rutland4wa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://rutland4wa.com/"
+},
+{
+"text": "Issues",
+"href": "https://rutland4wa.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://rutland4wa.com/get-involved"
+},
+{
+"text": "Rutland4WA.com",
+"href": "https://rutland4wa.com"
+},
+{
+"text": "[image: Michael Rutland for State Senate]RUTLAND FOR WASHINGTON",
+"href": "https://rutland4wa.com/"
+},
+{
+"text": "rutlandforwashington@gmail.com",
+"href": "mailto:rutlandforwashington@gmail.com"
+}
 ]

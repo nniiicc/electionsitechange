@@ -1,5 +1,5 @@
-Issues
-Protect Conservative Values – My wife and I are blessed to have both been raised by families who instilled in us the importance of hard work, strong character, all stemming from a Christian faith.
+top of page HOME ISSUES JOIN THE TEAM DONATE More Use tab to navigate through the menu items.
+Issues Protect Conservative Values – My wife and I are blessed to have both been raised by families who instilled in us the importance of hard work, strong character, all stemming from a Christian faith.
 As we raise our daughter, we want to instill these same values and leave for her a country that is stronger than it is today.
 Government’s reach into in our schools, churches, our neighborhoods and our wallets should be limited.
 Our citizens know best how to uphold the values of our community, protecting life and ending funding for organizations like planned parenthood.
@@ -29,8 +29,7 @@ I believe in the right to bear arms and that it’s education and responsible gu
 Immigration, the Right Way – I had the honor of writing a letter of recommendation for a man seeking to become a legal US citizen.
 We both agreed illegal immigration has become a huge problem in our country.
 Many illegal immigrants don’t take the necessary steps to learn what this great country is about and assimilate to our culture and our laws.
-To continue being a strong nation we must enforce the laws that promote the ideals of America and control our borders.
-Modernizing Infrastructure– Tennessee has seen steady growth as a manufacturing state the last several years.
+To continue being a strong nation we must enforce the laws that promote the ideals of America and control our borders. ​ Modernizing Infrastructure – Tennessee has seen steady growth as a manufacturing state the last several years.
 Our location is ideal for receiving and shipping both raw materials and finished products.
 That is why it is so important to maintain and strengthen our infrastructure, including highways, services and rural internet.
 In order to capitalize on the advantages low taxes and geography already provide, we must continue to maintain and improve our infrastructure to attract new businesses and serve the people of East TN.
@@ -42,20 +41,13 @@ It becomes a kind of web that stops people from creating solutions because they 
 Over regulation leads to stagnation and is harmful to innovation.
 Regulation creates barriers for entrepreneurs who may be able bring a new product to market, create jobs or lower the cost of some existing good or service.
 I believe in limited government rules to bolster the creativity of our people to drive our economy.
-These things are good for all involved.
-Healthcare – The government is too heavily involved in healthcare at every level.
+These things are good for all involved. ​ Healthcare – The government is too heavily involved in healthcare at every level.
 While trying to “protect the consumer’s right to health care coverage”, they have driven increases that far the exceed the normal rate of inflation and made it completely unaffordable to the citizens of Tennessee.
 This is a classic example of how too much government involvement artificially increases costs and reduces benefits to the consumers.
 Government intervention has been disastrous for the health care industry and even more so for the consumer.
 I have watched friends and small business owners struggle to keep up with the out-of-control cost while just trying to take care of basic health needs.
 It’s time to get government out of the way and return healthcare to the private market.
 Let’s sell policies across state lines, put an end to frivolous law suits and allow doctors to treat their patients without having to look over their shoulder and keep our drug costs in check.
-Justin Lafferty
-TN House of Representative – District 89
-Justin Lafferty
-Phone: 865-300-9534
-Email: VoteForLafferty@gmail.com
-Conservative for State Representative
-District 89
-Donate to Lafferty for House
-Purpose: Elect Justin Lafferty for State Representative District 89
+Justin Lafferty TN House of Representative – District 89 Justin Lafferty ​ Phone: 865-300-9534 ​ Email: VoteForLafferty@gmail.com ​ Conservative for State Representative District 89 ​ P.O.
+Box 30971 Knoxville, TN 3793 0 JOIN THE TEAM Donate to Lafferty for House Purpose: Elect Justin Lafferty for State Representative District 89 Share Donate Page Justin Lafferty | Candidate for State Representative District 89 | 865-300-9534 | voteforlafferty@gmail.com | P.O.
+Box 30971 Knoxville, TN 37930 | https://www.facebook.com/LaffertyforStateHouse/ ​ Register to Vote: https://ovr.govote.tn.gov/ bottom of page

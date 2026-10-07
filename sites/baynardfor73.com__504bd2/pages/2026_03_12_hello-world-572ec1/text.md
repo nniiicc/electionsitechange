@@ -1,4 +1,4 @@
-At some point, you stop talking about problems and start asking what you are going to do about them.
+Home About Issues Donate Petition to Qualify Contact Select Page Why I’m Running for Georgia House District 73 by Landen | Mar 12, 2026 | Uncategorized | 0 comments At some point, you stop talking about problems and start asking what you are going to do about them.
 For me, that point came after trying to engage the way a constituent is supposed to.
 Over the past several months, I reached out multiple times to my current representative about issues that matter to me and to families in our district.
 I brought up concerns about loopholes in the Mandatory Reporter system and gaps in labor laws that leave workers exposed.
@@ -37,6 +37,6 @@ I am not running because I have all the solutions.
 I am running because I believe our district deserves someone who will actually listen, respond, and take responsibility.
 Someone who is not tied to a party first, but to the people they represent.
 At the end of the day, this is about doing what is right, even when it is uncomfortable.
-And if nothing else, I want my son to know that when it mattered, I stepped forward.
-— Landen Baynard
-Related
+And if nothing else, I want my son to know that when it mattered, I stepped forward. — Landen Baynard Related Leave a Reply Cancel reply Facebook X Instagram RSS Designed by Elegant Themes | Powered by WordPress.com .
+Discover more from Baynard for 73 Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

@@ -1,6 +1,4 @@
-About Grant
-A no-nonsense approach to just deliver for our communities
-Senator Grant Hauschild and his wife Grace are raising their family in the Northland because they love it here.
+Skip to content About Delivered Promises Delivered Projects MN District 3 News Get Involved Contact About Delivered Promises Delivered Projects MN District 3 News Get Involved Contact Donate About Grant A no-nonsense approach to just deliver for our communities Senator Grant Hauschild and his wife Grace are raising their family in the Northland because they love it here.
 First and foremost, Grant is a father, and that responsibility shapes how he approaches his work every day.
 He serves in the State Senate because he wants Minnesota to be better off for the next generation and because he believes government should deliver real results for families and communities.
 Before serving in the Minnesota Senate, Grant built his career fighting for rural communities at the local, state, and federal level.
@@ -18,3 +16,5 @@ By focusing on respect, collaboration, and outcomes over politics, he has built 
 Grant believes that in the Northland, people look out for one another.
 Neighbors step up, communities come together, and people do what needs to be done.
 He believes our elected leaders should do the same, and that belief guides his work every day as Senator for the Northland.
+As a State Senator, Grant will focus on the bread-and-butter issues that matter most to our communities.
+Delivered Promises Delivered Projects Grant will focus on bread-and-butter issues to reduce our costs & keep us safe Eliminate income taxes on Social Security Fully fund our schools with state funding to help keep property taxes from continuing to rise Hold insurance & drug companies accountable for skyrocketing costs Strongly support the mining, forestry, and tourism industries Make historic investment in broadband and efficient low-cost utilities Increase public safety funding for police and mental health services Fix the funding gap for rural emergency medical services Provide childcare tax credits for families, not tax cuts for millionaires Contact the Campaign Contact Us PO Box 1045 Duluth, MN 55810 Contribute $50 $75 $100 $250 $500 $1000 Other Amount Follow Us Facebook Twitter Flickr Vimeo @Grant_Hauschild @GrantforMN Privacy Policy Prepared and paid for by the Grant Hauschild for the Minnesota State Senate Committee PO Box 1045 Duluth, MN 55810

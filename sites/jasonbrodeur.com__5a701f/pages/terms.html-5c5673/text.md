@@ -1,26 +1,31 @@
+Call or Text Jason at 407-413-1765 Home Meet Jason Issues Results Vote Volunteer Donate Mobile Messaging Terms & Conditions.
 The rules of the Friends of Jason Brodeur SMS program: opt-in, opt-out, and what to expect.
 Friends of Jason Brodeur (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the Program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
-- By signing up for the Program through a form provided on this website or by giving your information to Us at an in-person event, you are giving your express consent to receive automated text messages at the phone number you provided.
+By signing up for the Program through a form provided on this website or by giving your information to Us at an in-person event, you are giving your express consent to receive automated text messages at the phone number you provided.
 Regardless of your opt-in method, you agree that these Terms apply to your participation in the Program.
 By opting in you agree to receive autodialed mobile messages, and you understand that your consent to be contacted in this method is not required to make any purchase from Us.
-- We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your mobile service operator.
+We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your mobile service operator.
 SMS MESSAGE SERVICES ARE PROVIDED ON AN “AS IS” BASIS, AND WE MAKE NO WARRANTY, EXPRESS OR IMPLIED, AND ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE HEREBY EXPRESSLY DISCLAIMED.
-- Carriers are not liable for delayed or undelivered messages.
-- Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, and the date, time, and content of your messages, as well as other information that you provide.
+Carriers are not liable for delayed or undelivered messages.
+Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, and the date, time, and content of your messages, as well as other information that you provide.
 We may use this information to contact you and to provide the services you request from us.
 If you change, forfeit, or deactivate the phone number you have provided, you agree to notify Us immediately.
-- For additional information regarding use of information collected in connection with the Program, please refer to the Privacy Policy.
-- By subscribing, you consent to receive text messages including alerts and updates.
+For additional information regarding use of information collected in connection with the Program, please refer to the Privacy Policy .
+By subscribing, you consent to receive text messages including alerts and updates.
 Message frequency varies.
-- By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice.
-- To cancel your SMS subscriptions, text STOP in reply to any text message you receive.
+By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice.
+To cancel your SMS subscriptions, text STOP in reply to any text message you receive.
 You will receive a subsequent message confirming your opt-out request.
-- For additional help, text HELP in reply to a text message you receive.
+For additional help, text HELP in reply to a text message you receive.
 You can also contact us at info@jasonbrodeur.com for additional assistance.
-- Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Metro®, Boost, and U.S.
+Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Metro®, Boost, and U.S.
 Cellular®, among others.
-- Message and data rates may apply.
-- By signing up, you are confirming you are over the age of 13, and are either the wireless account subscriber or have the permission of the wireless account subscriber to send and receive text messages under these Terms and Conditions.
-- Program Availability: Currently, the Program is only available to residents of the United States.
-See also: Privacy Policy.
+Message and data rates may apply.
+By signing up, you are confirming you are over the age of 13, and are either the wireless account subscriber or have the permission of the wireless account subscriber to send and receive text messages under these Terms and Conditions.
+Program Availability: Currently, the Program is only available to residents of the United States.
+See also: Privacy Policy .
+Call or text Jason directly with any questions you have!
+407-413-1765 Make your plan to vote for Jason.
+Campaign Watch About Jason Issues Results Our Record Vote Media Get Involved Donate Volunteer Request a Yard Sign Join the Email List Contact Jason Brodeur Campaign Post Office Box 471 Sanford, FL 32772 info@jasonbrodeur.com Privacy Policy · Mobile Messaging Terms · Contact Political advertisement paid for and approved by Jason Brodeur, Republican, for State Senate District 10. © # Friends of Jason Brodeur.
+All rights reserved.

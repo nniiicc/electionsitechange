@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Estes+Park+-+Listening+Tour+2026&dates=20260108T210000Z%2F20260108T220000Z",
-"https://facebook.com/janiceforcolorado",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/estesvalley",
-"https://janiceforcolorado.com/events/listening-jan-7b",
-"https://janiceforcolorado.com/events/listening-jan-8?format=ical",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1",
-"https://secure.actblue.com/donate/listening_tour_estes"
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Estes+Park+-+Listening+Tour+2026&dates=20260108T210000Z%2F20260108T220000Z"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-8?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Next Next February 5 Estes Valley Listening Session",
+"href": "https://www.janiceforcolorado.com/events/estesvalley"
+},
+{
+"text": "Previous Previous January 7 Wellington - Listening Tour 2026",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7b"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/listening_tour_estes"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+}
 ]

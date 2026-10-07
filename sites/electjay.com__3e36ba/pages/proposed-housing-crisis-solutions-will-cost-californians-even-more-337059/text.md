@@ -1,4 +1,4 @@
-California is facing a severe housing crisis as home prices have skyrocketed in recent years.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Proposed Housing Crisis Solutions Will Cost Californians Even More experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat California is facing a severe housing crisis as home prices have skyrocketed in recent years.
 Many working families can no longer afford homes.
 In an attempt to address this growing problem, the California State Legislature is considering several proposals, including a new tax and a housing bond.
 Unfortunately, neither legislative measure even comes close to addressing the magnitude of our housing shortage.
@@ -30,4 +30,4 @@ Cutting government red tape is the only way to help alleviate our housing shorta
 The legislative housing package being considered in the Legislature will do little or nothing to alleviate the worsening crisis that faces our state.
 Ultimately, we must increase the supply of housing by reducing the cost of construction and streamlining the permitting process.
 Every Californian deserves the opportunity to be a homeowner.
-Jay Obernolte, R-Hesperia, represents the High Desert and the 33rd District in the state Assembly.
+Jay Obernolte, R-Hesperia, represents the High Desert and the 33rd District in the state Assembly. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

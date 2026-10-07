@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://davidjohnsonad23.com/vote",
- "paid_for_by": null,
+ "fingerprint": "252381ba288a6a984d8a41df193830574b68367c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

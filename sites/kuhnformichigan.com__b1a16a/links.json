@@ -1,8 +1,26 @@
 [
-"http://facebook.com/VoteTomKuhn",
-"http://instagram.com/VoteTomKuhn",
-"http://twitter.com/VoteTomKuhn",
-"https://kuhnformichigan.com/",
-"https://kuhnformichigan.com/cart",
-"https://secure.anedot.com/srtomkuhn/cc7eb378-1883-4bac-829e-39167fa0f4cb"
+{
+"text": "0",
+"href": "https://www.kuhnformichigan.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/srtomkuhn/cc7eb378-1883-4bac-829e-39167fa0f4cb"
+},
+{
+"text": "Kuhn For Michigan",
+"href": "https://www.kuhnformichigan.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/VoteTomKuhn"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/VoteTomKuhn"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/VoteTomKuhn"
+}
 ]

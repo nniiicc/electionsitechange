@@ -1,28 +1,158 @@
 [
-"https://clarkforwi.com/",
-"https://clarkforwi.com/49072daa-3874-4022-82fc-85ddc46ef3e4",
-"https://clarkforwi.com/about",
-"https://clarkforwi.com/contact",
-"https://clarkforwi.com/endorsements",
-"https://clarkforwi.com/events",
-"https://clarkforwi.com/issues",
-"https://clarkforwi.com/issues/a-real-affordability-agenda",
-"https://clarkforwi.com/issues/issue-2",
-"https://clarkforwi.com/media",
-"https://clarkforwi.com/new-north-woods",
-"https://clarkforwi.com/privacy-policy",
-"https://clarkforwi.com/volunteer1",
-"https://creativecommons.org/licenses/by-sa/4.0",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeDODUE44kYaBfA8U2gvK226yQKR43S3k9vzMjZ3BFqmiPLAg/viewform",
-"https://facebook.com/profile.php?id=61580798786652",
-"https://instagram.com/fredclarkforwi",
-"https://myvote.wi.gov/en-us/register-to-vote",
-"https://secure.actblue.com/donate/fred-clark-web",
-"https://secure.actblue.com/donate/fred-clark-web?amount=10",
-"https://secure.actblue.com/donate/fred-clark-web?amount=100",
-"https://secure.actblue.com/donate/fred-clark-web?amount=25",
-"https://secure.actblue.com/donate/fred-clark-web?amount=250",
-"https://secure.actblue.com/donate/fred-clark-web?amount=50",
-"https://store.clarkforwi.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/fred-clark-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fred-clark-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/fred-clark-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/fred-clark-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/fred-clark-web?amount=50"
+},
+{
+"text": "A Future for our Farms and Forests",
+"href": "https://www.clarkforwi.com/issues"
+},
+{
+"text": "Border Safety and Immigration",
+"href": "https://www.clarkforwi.com/issues#block-8a9f2128-d73b-4aed-bb43-24f94731a084"
+},
+{
+"text": "Contact",
+"href": "https://www.clarkforwi.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fred-clark-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clarkforwi.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clarkforwi.com/events"
+},
+{
+"text": "FIND UPCOMING EVENTS",
+"href": "https://www.clarkforwi.com/events"
+},
+{
+"text": "Fairness",
+"href": "https://www.clarkforwi.com/new-north-woods#block-b30c64ed-7e38-4a57-b97d-529559e0bfa8"
+},
+{
+"text": "Health Care for Everyone",
+"href": "https://www.clarkforwi.com/issues/issue-2"
+},
+{
+"text": "Innovation",
+"href": "https://www.clarkforwi.com/new-north-woods#block-d3826639-0da4-4384-8f52-c54d1d746a22"
+},
+{
+"text": "Issues",
+"href": "https://www.clarkforwi.com/issues"
+},
+{
+"text": "MERCH",
+"href": "https://store.clarkforwi.com/"
+},
+{
+"text": "Media",
+"href": "https://www.clarkforwi.com/media"
+},
+{
+"text": "Meet Fred",
+"href": "https://www.clarkforwi.com/about"
+},
+{
+"text": "New Northwoods",
+"href": "https://www.clarkforwi.com/new-north-woods"
+},
+{
+"text": "Or Donate Online",
+"href": "https://secure.actblue.com/donate/fred-clark-web"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/fred-clark-web"
+},
+{
+"text": "Our Constitution and the Rule of Law",
+"href": "https://www.clarkforwi.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.clarkforwi.com/privacy-policy"
+},
+{
+"text": "READ THE PLAN",
+"href": "https://www.clarkforwi.com/new-north-woods"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read Now",
+"href": "https://www.clarkforwi.com/new-north-woods"
+},
+{
+"text": "Rebuilding Our Rural Economy",
+"href": "https://www.clarkforwi.com/issues/a-real-affordability-agenda"
+},
+{
+"text": "Register Here",
+"href": "https://myvote.wi.gov/en-us/register-to-vote"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeDODUE44kYaBfA8U2gvK226yQKR43S3k9vzMjZ3BFqmiPLAg/viewform"
+},
+{
+"text": "Responsibility",
+"href": "https://www.clarkforwi.com/new-north-woods#block-60058263-1404-46f5-9eb9-214d46e14c92"
+},
+{
+"text": "Volunteer",
+"href": "https://www.clarkforwi.com/volunteer1"
+},
+{
+"text": "[image: Clark for Wisconsin logo]",
+"href": "https://www.clarkforwi.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.clarkforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61580798786652"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/fredclarkforwi"
+},
+{
+"text": "https://creativecommons.org/licenses/by-sa/4.0/",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/"
+},
+{
+"text": "info@clarkforwi.com",
+"href": "mailto:info@clarkforwi.com"
+},
+{
+"text": "privacy policy",
+"href": "https://www.clarkforwi.com/49072daa-3874-4022-82fc-85ddc46ef3e4"
+}
 ]

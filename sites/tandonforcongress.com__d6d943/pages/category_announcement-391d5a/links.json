@@ -1,24 +1,106 @@
 [
-"https://facebook.com/TandonforCongress",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tandonforcongress.com%2Fend-war-and-take-care-of-our-veterans%2F",
-"https://instagram.com/tandonforcongress",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.tandonforcongress.com%2Fend-war-and-take-care-of-our-veterans%2F",
-"https://secure.anedot.com/tandon-for-congress/donate",
-"https://tandonforcongress.com/",
-"https://tandonforcongress.com/?page_id=25",
-"https://tandonforcongress.com/category/announcement",
-"https://tandonforcongress.com/category/news",
-"https://tandonforcongress.com/category/statement",
-"https://tandonforcongress.com/chi",
-"https://tandonforcongress.com/contact",
-"https://tandonforcongress.com/donation",
-"https://tandonforcongress.com/end-war-and-take-care-of-our-veterans",
-"https://tandonforcongress.com/privacy",
-"https://tandonforcongress.com/sign-up",
-"https://tandonforcongress.com/terms",
-"https://tandonforcongress.com/v",
-"https://tandonforcongress.com/volunteering",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.tandonforcongress.com%2Fend-war-and-take-care-of-our-veterans%2F",
-"https://twitter.com/tandon4congress",
-"https://youtube.com/channel/UCzmoRZdVDRiy9ZeaWV5_d7A?view_as=subscriber"
+{
+"text": "Announcement",
+"href": "https://www.tandonforcongress.com/category/announcement/"
+},
+{
+"text": "Chinese",
+"href": "https://www.tandonforcongress.com/chi/"
+},
+{
+"text": "Contact",
+"href": "https://www.tandonforcongress.com/contact/"
+},
+{
+"text": "Donation",
+"href": "https://secure.anedot.com/tandon-for-congress/donate"
+},
+{
+"text": "Donation",
+"href": "https://www.tandonforcongress.com/donation/"
+},
+{
+"text": "End War and Take Care of our Veterans",
+"href": "https://www.tandonforcongress.com/end-war-and-take-care-of-our-veterans/"
+},
+{
+"text": "Home",
+"href": "https://www.tandonforcongress.com/"
+},
+{
+"text": "News",
+"href": "https://www.tandonforcongress.com/?page_id=25"
+},
+{
+"text": "News",
+"href": "https://www.tandonforcongress.com/category/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tandonforcongress.com/privacy/"
+},
+{
+"text": "Read more",
+"href": "https://www.tandonforcongress.com/end-war-and-take-care-of-our-veterans/"
+},
+{
+"text": "Sign-Up",
+"href": "https://www.tandonforcongress.com/sign-up/"
+},
+{
+"text": "Statement",
+"href": "https://www.tandonforcongress.com/category/statement/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.tandonforcongress.com/terms/"
+},
+{
+"text": "Vietnamese",
+"href": "https://www.tandonforcongress.com/v/"
+},
+{
+"text": "Volunteering",
+"href": "https://www.tandonforcongress.com/volunteering/"
+},
+{
+"text": "[image: End War and Take Care of our Veterans]",
+"href": "https://www.tandonforcongress.com/end-war-and-take-care-of-our-veterans/"
+},
+{
+"text": "[image: Ritesh Tandon for Congress][image: Ritesh Tandon for Congress]",
+"href": "https://www.tandonforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/tandon4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TandonforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tandonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCzmoRZdVDRiy9ZeaWV5_d7A?view_as=subscriber"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tandonforcongress.com%2Fend-war-and-take-care-of-our-veterans%2F"
+},
+{
+"text": "[tooltip: Share on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.tandonforcongress.com%2Fend-war-and-take-care-of-our-veterans%2F"
+},
+{
+"text": "[tooltip: Share on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.tandonforcongress.com%2Fend-war-and-take-care-of-our-veterans%2F"
+},
+{
+"text": "ritesh@tandonforcongress.com",
+"href": "mailto:ritesh@tandonforcongress.com"
+}
 ]

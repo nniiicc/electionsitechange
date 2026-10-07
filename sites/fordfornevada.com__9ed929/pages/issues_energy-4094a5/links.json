@@ -1,21 +1,78 @@
 [
-"https://bsky.app/profile/teamfordnv.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/teamfordnv",
-"https://fordfornevada.com/",
-"https://fordfornevada.com/about",
-"https://fordfornevada.com/contact",
-"https://fordfornevada.com/endorsements",
-"https://fordfornevada.com/facts",
-"https://fordfornevada.com/issues",
-"https://fordfornevada.com/job-openings",
-"https://fordfornevada.com/media",
-"https://fordfornevada.com/news",
-"https://fordfornevada.myshopify.com/",
-"https://instagram.com/teamfordnv",
-"https://linktree.com/teamfordnv",
-"https://reviewjournal.com/news/politics-and-government/nevada/senate-passes-prevailing-wage-exemption-bill",
-"https://secure.actblue.com/donate/aaron-ford-for-nevada-1",
-"https://tiktok.com/@teamfordnv",
-"https://x.com/teamfordnv"
+{
+"text": "About",
+"href": "https://www.fordfornevada.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-ford-for-nevada-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fordfornevada.com/endorsements"
+},
+{
+"text": "FACT & MYTH",
+"href": "https://www.fordfornevada.com/facts"
+},
+{
+"text": "Issues",
+"href": "https://www.fordfornevada.com/issues"
+},
+{
+"text": "Job Openings",
+"href": "https://www.fordfornevada.com/job-openings"
+},
+{
+"text": "Join Us!",
+"href": "https://www.fordfornevada.com/contact"
+},
+{
+"text": "Media",
+"href": "https://www.fordfornevada.com/media"
+},
+{
+"text": "News",
+"href": "https://www.fordfornevada.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://fordfornevada.myshopify.com/"
+},
+{
+"text": "[image: Aaron Ford for Nevada Governor]",
+"href": "https://www.fordfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/teamfordnv.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@teamfordnv"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/teamfordnv"
+},
+{
+"text": "prevailing wage standards",
+"href": "https://www.reviewjournal.com/news/politics-and-government/nevada/senate-passes-prevailing-wage-exemption-bill/"
+}
 ]

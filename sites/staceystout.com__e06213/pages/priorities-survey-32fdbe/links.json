@@ -1,14 +1,54 @@
 [
-"https://facebook.com/stout4house",
-"https://instagram.com/stout4house",
-"https://staceystout.com/",
-"https://staceystout.com/contact",
-"https://staceystout.com/donate",
-"https://staceystout.com/endorsements",
-"https://staceystout.com/meet-stacey",
-"https://staceystout.com/photos",
-"https://staceystout.com/priorities-survey",
-"https://staceystout.com/voting-information",
-"https://x.com/stout4house",
-"https://youtube.com/@Stout4House"
+{
+"text": "Contact",
+"href": "https://staceystout.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://staceystout.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://staceystout.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/stout4house"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/stout4house/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@Stout4House"
+},
+{
+"text": "Follow",
+"href": "https://x.com/stout4house"
+},
+{
+"text": "Home",
+"href": "https://staceystout.com/"
+},
+{
+"text": "Meet Stacey",
+"href": "https://staceystout.com/meet-stacey/"
+},
+{
+"text": "Photos",
+"href": "https://staceystout.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://staceystout.com/priorities-survey/"
+},
+{
+"text": "Voting Information",
+"href": "https://staceystout.com/voting-information/"
+},
+{
+"text": "[image: Stacey Stout for 33A]",
+"href": "https://staceystout.com/"
+}
 ]

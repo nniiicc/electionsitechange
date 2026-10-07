@@ -1,11 +1,42 @@
 [
-"https://facebook.com/TrevorDoironMaine",
-"https://instagram.com/TrevorDoironME",
-"https://trevordoiron.com/",
-"https://trevordoiron.com/blank",
-"https://trevordoiron.com/donate-1",
-"https://trevordoiron.com/get-involved",
-"https://trevordoiron.com/meet-trevor",
-"https://trevordoiron.com/priorities",
-"https://youtube.com/@TrevorDoironME"
+{
+"text": "Donate",
+"href": "https://www.trevordoiron.com/donate-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.trevordoiron.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.trevordoiron.com"
+},
+{
+"text": "Meet Trevor",
+"href": "https://www.trevordoiron.com/meet-trevor"
+},
+{
+"text": "Paid for and Authorized by Trevor Doiron for Maine House",
+"href": "https://www.trevordoiron.com/blank"
+},
+{
+"text": "Priorities",
+"href": "https://www.trevordoiron.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TrevorDoironMaine"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/TrevorDoironME"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@TrevorDoironME"
+},
+{
+"text": "trevor@trevordoiron.com",
+"href": "mailto:trevor@trevordoiron.com"
+}
 ]

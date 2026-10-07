@@ -1,6 +1,6 @@
+top of page DONATE Volunteer Home About Get Involved Contact Blog More Use tab to navigate through the menu items.
 Meet SGT.
-Luther wilkins:
-Meet Sergeant Luther Wilkins Sergeant Luther Wilkins is a U.S.
+Luther wilkins: Meet Sergeant Luther Wilkins Sergeant Luther Wilkins is a U.S.
 Army veteran, business leader, and Floridian committed to strengthening local communities and fighting for the people of Florida House District 70.
 With experience in business leadership, marketing, sales management, and civic engagement, Sergeant Wilkins has spent his career helping Florida businesses grow and creating economic opportunities for working families and small businesses in Hillsborough and Manatee counties.
 A Veteran of the United States Army and Army National Guard, Sergeant Wilkins spent 12 years in uniform serving with leadership roles in charge of managing personnel, logistics, and mission readiness.
@@ -23,8 +23,7 @@ Sergeant Wilkins is running for State House District 70 because he wants to figh
 From expanding affordable housing options and strengthening public education to standing up for veterans and Florida's natural resources, Sergeant Wilkins plans to focus on policies that promote responsible economic growth and job creation.
 Sergeant Luther Wilkins approaches leadership with a commitment to serve others.
 When it comes to politics, he will listen first, lead with integrity, and always put the people of House District 70 before party politics and special interests.
-Sergeant Wilkins
-Sergeant Wilkins had a successful career in automotive sales management.
+Sergeant Wilkins Sergeant Wilkins had a successful career in automotive sales management.
 In that capacity, he managed top-producing sales teams, created customer-centric business strategies, and acted as a liaison between local businesses and the communities they serve.
 Sergeant Wilkins was able to improve customer relations by cultivating trust, accountability, and building partnerships that benefited the community for years to come.
 Sergeant Wilkins has been devoted to serving his community and encouraging others to get involved with civic activities his entire life.
@@ -51,11 +50,7 @@ Insurance Agent.
 Democrat and proud of it.
 These are just some of the ways you can describe Luther Wilkins.
 Serving his community has been a part of Sergeant Wilkins’ life since he was old enough to understand what it means to be a part of something bigger than himself.
-If elected, Sergeant Wilkins plans to continue serving District 70 by standing on the Army values that he was taught:
-● LOYALTY - faithfulness to the nation, the Constitution, the Florida State House of Representatives, and your fellow citizens
-● DUTY - fulfill your obligations
-● RESPECT - treat people as they should be treated
-● SELFLESS SERVICE - place the needs of others before your own
-● HONOR - live up to all the Army values
-● INTEGRITY - do what’s right, even when no one is watching
-● PERSONAL COURAGE - Face your fears, doubts, and do what’s right even though it’s not always the popular thing to do.
+If elected, Sergeant Wilkins plans to continue serving District 70 by standing on the Army values that he was taught: ● LOYALTY - faithfulness to the nation, the Constitution, the Florida State House of Representatives, and your fellow citizens ● DUTY - fulfill your obligations ● RESPECT - treat people as they should be treated ● SELFLESS SERVICE - place the needs of others before your own ● HONOR - live up to all the Army values ● INTEGRITY - do what’s right, even when no one is watching ● PERSONAL COURAGE - Face your fears, doubts, and do what’s right even though it’s not always the popular thing to do.
+SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE paid for by Luther Wilkins, Democrat, for Florida State House District 70.
+Military rank and service references are used for identification purposes only and do not imply endorsement by the U.S.
+Department of Defense or the United States Army. bottom of page

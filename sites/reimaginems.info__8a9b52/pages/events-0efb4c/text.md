@@ -1,23 +1,20 @@
-Upcoming Events
-Kosciusko Meet and Greet
-Meet Independent Candidate for Congress Bennie Foster and the ReIMAGINE Mississippi team.
+0 Skip to Content Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Upcoming Events Oct 6 Grenada County Meet and Greet Tuesday, October 6, 2026 2:30 PM 4:30 PM Walmart (map) Google Calendar ICS View Event → Oct 6 Montgomery County Meet and Greet Tuesday, October 6, 2026 1:00 PM 2:00 PM Dollar General (map) Google Calendar ICS View Event → Oct 6 Carroll County Meet and Greet Tuesday, October 6, 2026 12:15 PM 12:45 PM 35-55 Truck Stop (map) Google Calendar ICS View Event → Oct 5 Kosciusko Meet and Greet Monday, October 5, 2026 5:30 PM 6:30 PM Adam's Grocery (map) Google Calendar ICS Meet Independent Candidate for Congress Bennie Foster and the ReIMAGINE Mississippi team.
 Share your concerns, ask questions, and learn more about his plan to Foster our Future for the Mississippi 2nd Congressional District.
-Carthage Meet and Greet
-Meet Independent Candidate for Congress Bennie Foster and the ReIMAGINE Mississippi team.
+View Event → Oct 5 Carthage Meet and Greet Monday, October 5, 2026 3:30 PM 5:00 PM Walmart (map) Google Calendar ICS Meet Independent Candidate for Congress Bennie Foster and the ReIMAGINE Mississippi team.
 Share your concerns, ask questions, and learn more about his plan to Foster our Future for the Mississippi 2nd Congressional District.
-Walnut Grove Meet and Greet
-Meet Independent Candidate for Congress Bennie Foster and the ReIMAGINE Mississippi team.
+View Event → Oct 5 Walnut Grove Meet and Greet Monday, October 5, 2026 2:00 PM 3:00 PM Dollar General (map) Google Calendar ICS Meet Independent Candidate for Congress Bennie Foster and the ReIMAGINE Mississippi team.
 Share your concerns, ask questions, and learn more about his plan to Foster our Future for the Mississippi 2nd Congressional District.
-Lexington Town Hall
-Join Bennie Foster at Hamp’s Place in Lexington, MS for a town hall meeting where Foster will take questions from voters, and share his platform and vision for Mississippi as our next congressman.
-Durant City Hall (On the steps)
-Bennie Foster and the ReIMAGINE Mississippi team will be standing on the steps of Durant City Hall and will be available for questions and discussions.
-Goodman Meet & Greet
-Bennie Foster for US Congress MS-02 | October 4, 2026 Campaign Tour Dates and Locations.
-Empowered To Vote
-Join us for a voter registration event for young adults in Vicksburg and surrounding areas.
+View Event → Oct 4 Lexington Town Hall Sunday, October 4, 2026 6:00 PM 7:30 PM Hamp's Place (map) Google Calendar ICS Join Bennie Foster at Hamp’s Place in Lexington, MS for a town hall meeting where Foster will take questions from voters, and share his platform and vision for Mississippi as our next congressman.
+View Event → Oct 4 Durant City Hall (On the steps) Sunday, October 4, 2026 3:30 PM 4:30 PM Durant City Hall (map) Google Calendar ICS Bennie Foster and the ReIMAGINE Mississippi team will be standing on the steps of Durant City Hall and will be available for questions and discussions.
+View Event → Oct 4 Goodman Meet & Greet Sunday, October 4, 2026 2:00 PM 3:00 PM One 50 Stop (map) Google Calendar ICS Bennie Foster for US Congress MS-02 | October 4, 2026 Campaign Tour Dates and Locations.
+View Event → Sep 27 Empowered To Vote Sunday, September 27, 2026 4:15 PM 7:00 PM Traveler's Rest Church (map) Google Calendar ICS Join us for a voter registration event for young adults in Vicksburg and surrounding areas.
 US Congress Candidate Bennie Foster will be present to meet you and hear your concerns.
-Our Voice Our Vote with guest speaker Mark Burns
-Bennie Foster and former South Carolina candidate for Congress Pastor Mark Burns will speak at the “Our Voice, Our Vote” political event on Friday, September 25, 2026, at 1 p.m. at the Charity Event Center, 195 Raymond Road, Jackson, MS 39204.
+View Event → Sep 25 Our Voice Our Vote with guest speaker Mark Burns Friday, September 25, 2026 1:00 PM 3:00 PM Charity Event Center (map) Google Calendar ICS Bennie Foster and former South Carolina candidate for Congress Pastor Mark Burns will speak at the “Our Voice, Our Vote” political event on Friday, September 25, 2026, at 1 p.m. at the Charity Event Center, 195 Raymond Road, Jackson, MS 39204 .
 Hosted by Our Voice Our Vote, the event will bring residents and community leaders together to discuss Mississippi’s needs and opportunities for greater funding and investment.
 Topics may include infrastructure, education, healthcare, workforce development, economic growth, public safety and community programs.
+View Event → Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up to stay connected with the campaign and receive updates.
+Email Address Sign Up Thank you!

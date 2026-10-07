@@ -1,9 +1,30 @@
 [
-"https://facebook.com/repjeanschmidt",
-"https://schmidtforohio.com/",
-"https://schmidtforohio.com/about",
-"https://schmidtforohio.com/home",
-"https://schmidtforohio.com/privacy-policy",
-"https://schmidtforohio.com/search",
-"https://secure.anedot.com/schmidt-for-ohio/donate"
+{
+"text": "About",
+"href": "https://www.schmidtforohio.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.schmidtforohio.com/home/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/schmidt-for-ohio/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.schmidtforohio.com/privacy-policy"
+},
+{
+"text": "[image: Jean Schmidt for Ohio]",
+"href": "https://www.schmidtforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repjeanschmidt"
+},
+{
+"text": "[no text]",
+"href": "https://www.schmidtforohio.com/search"
+}
 ]

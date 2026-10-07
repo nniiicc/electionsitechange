@@ -1,8 +1,4 @@
-Velma Davis
-VDavisKSHouseRep@gmail.com
-PO Box 183 | Valley Center, Kansas 67147 316.302.5255
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-copyright © 2026 Velma Davis for Kansas.
+Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Home About Voting Donate Contact Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Home About Voting Donate Contact More Home About Voting Donate Contact Home About Voting Donate Contact Contact Us Contact Us Velma Davis VDavisKSHouseRep@gmail.com PO Box 183 | Valley Center, Kansas 67147 316.302.5255 Velma Davis for KS House of Representatives Send us an Email Send us an Email Name Email* This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Connect With Us copyright © # Velma Davis for Kansas.
 All Rights Reserved.
-Paid for by Velma Davis for Kansas, Lloyd Barton, Treasurer
-Powered by
+Paid for by Velma Davis for Kansas, Lloyd Barton, Treasurer Powered by Donate Privacy Policy Terms of Use

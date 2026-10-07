@@ -1,6 +1,5 @@
-Dirección de correo electrónico
-Contraseña
-Recuérdame
+Buscar: Buscar × Registrarse Dirección de correo electrónico Contraseña Recuérdame × Casa Facturas Noticias Conoce a meghan Valores Voluntario Votar Votación anticipada en persona y votación de emergencia Vote por correo Contacto Donar DONAR sección-3a36045 Want to see the actual policy?
 This link will enable you to see Senator Kallman's current legislation.
 Enter her name in the box labeled "Sponsor", and the site will produce the bills she's working on.
-Herramientas de accesibilidad
+View Bills Conoce a meghan Meghan está comprometida a llevar las voces de la gente de Pawtucket y Providence a la Cámara de Representantes estatal.
+Aprende más Recursos Noticias Recursos COVID-19 Votar Censo Lectura y recursos Suscripción al boletín informativo © Pagado por Friends of Meghan Kallman 2023 Spanish English Spanish saltar al contenido Barra de herramientas abierta Herramientas de accesibilidad Aumentar texto Disminuir texto Escala de grises Alto contraste Contraste negativo Fondo claro Enlaces subrayados Fuente legible Reiniciar

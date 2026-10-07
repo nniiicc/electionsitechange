@@ -1,4 +1,4 @@
-Rob Wittman’s life began in Richmond with an act of extraordinary generosity.
+Skip to main content Skip to footer Endorsements About Information Get The Facts Voting Get Involved Issues Donate Endorsements About Information Get The Facts Voting Get Involved Issues Donate About Rob Wittman Rob Wittman’s life began in Richmond with an act of extraordinary generosity.
 When Rob was born, his birth mother made the difficult decision to place him for adoption.
 He spent the first months of his life at the Children’s Home Society of Virginia in Richmond before being adopted at eight months old by two loving parents who gave him a strong foundation and opportunities that would shape the rest of his life.
 Rob’s father was a World War II Army veteran, and his mother was a public school teacher.
@@ -34,3 +34,9 @@ His family, his faith in hard work and service, and the communities of Virginia 
 From an adopted child growing up in Richmond and Henrico, to a young man working on fishing boats and in a tomato cannery, to a public health professional, local elected official, and Member of Congress, the thread throughout Rob’s life has been gratitude and service.
 He has never forgotten where he came from or the people who gave him opportunities along the way.
 For Rob, serving Virginia is a way to give something back to the communities that have given him so much.
+Support Me in Making Virginia a Better Place! $50 $100 $250 $500 Other PO Box 427, Alexandria, VA 22313 | campaign@robwittman.com Want to get involved?
+Contact us today!
+By providing your phone number, you are consenting to receive calls and texts, including auto-dial and automated calls and tests, to that number from the committee.
+Paid for by Rob Wittman for Congress © # Re-Elect Rob Wittman for Congress.
+All Rights Reserved.
+Media Kit Site Map Store

@@ -1,21 +1,78 @@
 [
-"http://capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=794&year=2017",
-"http://capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=957&year=2017",
-"http://hawaiinewsnow.com/story/31854707/hawaii-schools-will-get-100m-to-cool-classrooms",
-"http://ppshi.org/",
-"https://act.myngp.com/el/ZOQlR4hJDBkV4MVIgQ_kwQ==/Nux9ZNgyzG0A8YLLoRs48g==",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HCR&billnumber=236&year=2018",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/healthcare",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://chrisleehawaii.com/greenschoolsnationalnetwork.org/green-schools-national-network-u-s-green-building-council-announce-2016-best-green-schools-honorees",
-"https://chrisleehawaii.com/mauinow.com/2016/06/30/clean-energy-bill-becomes-law",
-"https://chrisleehawaii.com/www.bizjournals.com/pacific/news/2015/06/09/university-of-hawaii-to-be-net-zero-with-respect.html",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://khon2.com/local-news/leeward-community-college-running-on-solar-energy-becomes-uhs-first-net-zero-campus",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "Chris also passed a law",
+"href": "http://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=794&year=2017"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/healthcare"
+},
+{
+"text": "Leeward Community College's efforts will save the UH system $269,000 in energy and operational costs this year and $8.4million in operating costs over the next 20 years.",
+"href": "https://www.khon2.com/local-news/leeward-community-college-running-on-solar-energy-becomes-uhs-first-net-zero-campus/"
+},
+{
+"text": "Parents for Public Schools Hawaii",
+"href": "http://ppshi.org/"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "a deal to provide $100 million to cool hot classrooms, modernize aging campuses, and install solar panels and batteries",
+"href": "http://www.hawaiinewsnow.com/story/31854707/hawaii-schools-will-get-100m-to-cool-classrooms"
+},
+{
+"text": "all public schools",
+"href": "https://www.chrisleehawaii.com/mauinow.com/2016/06/30/clean-energy-bill-becomes-law/"
+},
+{
+"text": "it has achieved our net-zero",
+"href": "https://act.myngp.com/el/ZOQlR4hJDBkV4MVIgQ_kwQ==/Nux9ZNgyzG0A8YLLoRs48g=="
+},
+{
+"text": "passed legislation",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HCR&billnumber=236&year=2018"
+},
+{
+"text": "passing another bill providing an additional $46 million",
+"href": "http://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=957&year=2017"
+},
+{
+"text": "universities",
+"href": "https://www.chrisleehawaii.com/www.bizjournals.com/pacific/news/2015/06/09/university-of-hawaii-to-be-net-zero-with-respect.html"
+},
+{
+"text": "“Best Policymaker” by the US Green Building Council Center for Green Schools",
+"href": "https://www.chrisleehawaii.com/greenschoolsnationalnetwork.org/green-schools-national-network-u-s-green-building-council-announce-2016-best-green-schools-honorees/"
+}
 ]

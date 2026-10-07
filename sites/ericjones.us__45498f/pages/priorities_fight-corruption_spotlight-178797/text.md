@@ -1,8 +1,6 @@
-PRIORITIES • Fight Corruption • Policy to
-Shine a Spotlight on Money and Influence
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to Shine a Spotlight on Money and Influence Why I believe this — and how I’ll fight for it.
 Everything on these pages comes back to one question: who’s really paying — and do you get to know?
-Corruption grows in the dark, and the most powerful disinfectant we have is sunlight.
+Corruption grows in the dark , and the most powerful disinfectant we have is sunlight.
 The simple rule that if someone is spending money to influence your vote or your government, you have the right to know exactly who they are.
 Right now, too often you can’t.
 “Dark money” groups — many of them organized as tax-exempt nonprofits — spend enormous sums to move elections and policy while hiding their donors completely.
@@ -24,31 +22,27 @@ The other is backed by the very interests I’m fighting — funding him, again 
 This is the rare fix that doesn’t take beating the other side — it just takes turning on the lights.
 Corruption can’t survive being seen.
 A government you can actually watch is one that finally has to answer to you.
-Here’s what I’ll do — and why
-Full disclosure of every dollar in politics.
+Here’s what I’ll do — and why Full disclosure of every dollar in politics.
 Every group that spends to influence an election or a law discloses its donors — publicly, in real time, no exceptions.
 If you want to spend money on our democracy, you sign your name to it.
 End dark money and shut down the shell games.
 Close the loophole that lets “social welfare” nonprofits and shell entities pour money into politics while hiding who’s behind them.
 No more laundering influence through a chain of front groups until the trail vanishes.
 Show us the conflicts — as they happen.
-As I lay out in Term Limits & Real Accountability, members of Congress should disclose their financial interests in real time, so you can see the moment a vote might make your representative richer.
+As I lay out in Term Limits & Real Accountability , members of Congress should disclose their financial interests in real time, so you can see the moment a vote might make your representative richer.
 Information should be everywhere and easy to find.
 We work for you — you don’t work for us, and neither of us works for secret donors.
 Give the law real teeth — because no one is above it.
-Here’s something both sides should agree on: the agency that’s supposed to enforce our election laws — the FEC — right now can’t.
+Here’s something both sides should agree on: the agency that’s supposed to enforce our election laws — the FEC — right now can’t .
 It’s been left without enough members to open a single investigation, issue a single penalty, or close a single case.
 The cop is off the beat.
 I’d fix that — a functioning, fully staffed, empowered enforcer — and back real penalties for the fraud, waste, and corruption that thrive when no one’s watching.
 Breaking the public’s trust for private gain should carry consequences as serious as any other crime.
 That’s not left or right.
 That’s law and order, applied to the powerful too.
-The bottom line
-Sunlight, disclosure, and real enforcement don’t favor one party — they favor the people over the powerful.
+The bottom line Sunlight, disclosure, and real enforcement don’t favor one party — they favor the people over the powerful.
 Imagine a democracy where you can see every dollar behind every decision, where no one is above the law, and where your voice isn’t drowned out by donors you’ll never meet.
 That’s a government we can trust again, and the one we owe our kids.
 Let’s turn the lights on.
-SOURCES
-- The FEC currently lacks the quorum required to open investigations, enforce campaign finance law, or issue rules: FEC — Notice of Lack of Quorum, April 2026
-- Background on the FEC’s four-vote quorum requirement and what the agency cannot do without it: Congressional Research Service — “Federal Election Commission: Membership and Policymaking Quorum,” R45160
-- Enforcement impact of the quorum loss: The Hill — “FEC’s lack of quorum impacts election process and enforcement”
+All Policies Next Policy Return to Top SOURCES The FEC currently lacks the quorum required to open investigations, enforce campaign finance law, or issue rules: FEC — Notice of Lack of Quorum, April 2026 Background on the FEC’s four-vote quorum requirement and what the agency cannot do without it: Congressional Research Service — “Federal Election Commission: Membership and Policymaking Quorum,” R45160 Enforcement impact of the quorum loss: The Hill — “FEC’s lack of quorum impacts election process and enforcement” Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

@@ -1,6 +1,26 @@
 [
-"https://arieldefay.com/",
-"https://arieldefay.com/about-3",
-"https://arieldefay.com/contact",
-"https://arieldefay.com/team-1"
+{
+"text": "About",
+"href": "https://www.arieldefay.com/about-3"
+},
+{
+"text": "Contact",
+"href": "https://www.arieldefay.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.arieldefay.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.arieldefay.com/team-1"
+},
+{
+"text": "[image]",
+"href": "https://www.arieldefay.com"
+},
+{
+"text": "adefay@le.utah.gov",
+"href": "mailto:adefay@le.utah.gov"
+}
 ]

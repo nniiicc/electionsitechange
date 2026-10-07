@@ -1,17 +1,86 @@
 [
-"https://facebook.com/MiaForRep",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://miaforri.com/",
-"https://miaforri.com/about",
-"https://miaforri.com/contact",
-"https://miaforri.com/get-involved",
-"https://miaforri.com/news",
-"https://miaforri.com/post/mia-introduces-consumer-protection-legislation-for-solar-industry",
-"https://miaforri.com/post/mia-joins-american-cancer-society-to-promote-legislation-to-held-patients",
-"https://miaforri.com/post/mia-raises-awareness-of-skin-cancer-prevention",
-"https://twitter.com/MiaForRep",
-"https://twitter.com/wix",
-"https://wix.com/",
-"https://wix.com/templateslp/links"
+{
+"text": "About",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.miaforri.com/contact"
+},
+{
+"text": "D 45 - Cumberland, Lincoln",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.wix.com/templateslp/links"
+},
+{
+"text": "Get Involved",
+"href": "https://www.miaforri.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "Mia Ackerman",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "Mia introduces consumer protection legislation for solar industry",
+"href": "https://www.miaforri.com/post/mia-introduces-consumer-protection-legislation-for-solar-industry"
+},
+{
+"text": "Mia joins American Cancer Society to promote legislation to help patients",
+"href": "https://www.miaforri.com/post/mia-joins-american-cancer-society-to-promote-legislation-to-held-patients"
+},
+{
+"text": "Mia raises awareness of skin cancer prevention",
+"href": "https://www.miaforri.com/post/mia-raises-awareness-of-skin-cancer-prevention"
+},
+{
+"text": "News",
+"href": "https://www.miaforri.com/news"
+},
+{
+"text": "RI STATE REPRESENTATIVE",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.miaforri.com/get-involved"
+},
+{
+"text": "Wix.com",
+"href": "https://wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MiaForRep"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/MiaForRep"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "miaforrep@gmail.com",
+"href": "mailto:miaforrep@gmail.com"
+}
 ]

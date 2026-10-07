@@ -1,9 +1,2 @@
-Joint Select Committee on Civic Health
-Joint Legislative Committee on Water Supply During Drought
-Crisis Response Improvement Strategy Committee
-CSG West’s Legislative Council on River Governance
-Oversight Board for Children, Youth and Families
-Pesticide Application Safety Committee
-Washington Economic Development Finance Authority
-State Commercial Aviation Work Group
-Washington State Horse Park Authority
+Tom Dent - State Representative, Washington Representing voters from Grant, Kittitas, Adams, and Douglas Counties.
+Home Bio District Map Community Endorsements Projects Legislative Achievements 2014-2026 Buffalo Soldiers Crop Life America Gallery Contact Us Statutory Committees Joint Select Committee on Civic Health Joint Legislative Committee on Water Supply During Drought Crisis Response Improvement Strategy Committee CSG West’s Legislative Council on River Governance Oversight Board for Children, Youth and Families Pesticide Application Safety Committee Washington Economic Development Finance Authority State Commercial Aviation Work Group Washington State Horse Park Authority Search This Site Search for: Translate This Site English English Japanese Portuguese Russian Spanish Ukrainian Tom Dent on Facebook Visit Tom Dent on Facebook Pages Awards & Recognitions Bio Buffalo Soldiers Campaign Donations Community Endorsements Contact Us Crop Life America District Map Gallery Home Keeping in Touch and Working Hard Legislative Achievements 2014-2026 Oganizational Endorsements Other Committees Parade Schedule 2026 Re-Elect Press Release Short Bio Sponsored – House Joint Memorials Sponsored – Resolutions Standing Committees Statutory Committees Tom Dent - State Representative © #

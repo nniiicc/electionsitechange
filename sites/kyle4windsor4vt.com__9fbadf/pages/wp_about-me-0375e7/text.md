@@ -1,4 +1,5 @@
-I was raised in North Pomfret, Vermont, the only place I’ve ever called home.
+Skip to content Policies and Priorities About Me Towns of Windsor – 4 Get Involved Why the Bull Moose?
+About Me I was raised in North Pomfret, Vermont, the only place I’ve ever called home.
 I attended The Pomfret School, and I graduated from Woodstock Union High School.
 Later, I obtained a bachelor’s degree in Political Science from Norwich University.
 After working for a couple years, I returned to school and obtained a master’s degree in climate and environmental policy from Vermont Law and Graduate School.
@@ -24,3 +25,5 @@ This is my fifth season as a coach for the Woodstock 5th and 6th grade mountain 
 I am honored to be able to volunteer my time to teach the next generation of mountain bikers, and to help this three-season sport and hobby grow.
 We must ensure access for three-season outdoor recreation to offset shorter winter seasons.
 This will sustain and support local businesses, and will expand, and diversify Vermont’s rural economy.
+Kyle Hansen for State Representative – Windsor 4 About Policies and Priorities About Me Towns of Windsor – 4 Get Involved Why the Bull Moose?
+Paid for by Kyle4Windsor4VT / 7309 Pomfret Road, North Pomfret, VT 05053 Designed with WordPress

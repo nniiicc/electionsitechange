@@ -1,109 +1,22 @@
-Skip navigation menu
-We strongly support
-Marni von Wilpert for Congress
-Barbara Boxer
-former u.s.
-Senator
-Mark Takano
-u.s.
-Representative (CA-39)
-Adam Schiff
-U.s.
-Senator
-I.A.F.F.
-Local 145
-California Federation of Labor Unions,
-AFL-CIO
-California Teachers Association
-SEIU California
-Planned Parenthood Action Fund
-Equality PAC
-Juan Vargas
-u.s.
-Representative (CA-52)
-Sara Jacobs
-u.s.
-Representative (CA-51)
-Scott Peters
-u.s.
-Representative (CA-50)
-Mike Levin
-u.s.
-Representative (CA-49)
-Gil Cisneros
-u.s.
-Representative (CA-31)
-Julia Brownley
-u.s.
-Representative (CA-26)
-Becca Balint
-u.s.
-Representative (VT-AL)
-Emily Randall
-u.s.
-Representative (WA-06)
-Bobby Scott
-u.s.
-Representative (VA-03)
-Julie Johnson
-u.s.
-Representative (TX-32)
-Catherine Blakespear
-CA State Senator
-Steve Padilla
-ca State Senator
-Tasha Boerner
-CA State Assemblymember
-Chris Ward
-CA State Assemblymember
-Dr.
-Darshana Patel
-CA State Assemblymember
-Dr.
-Corey Jackson
-CA State Assemblymember
-Toni Atkins
-Former CA state senator
-Christine Kehoe
-former ca State senator
-Marty Block
-former ca state senator
-Julie Bornstein
-Former CA Assemblymember
-Esther Sanchez
-Oceanside mayor
-Christy Holstege
-former mayor of Palm Springs
-Paul McNamara
-former mayor of escondido
-Geoff Kors
-Former Mayor of Palm Springs
-Terra Lawson-Remer
-San Diego County Supervisor
-Dan O'Donnell
-Vista City Council
-Olga Diaz
-Former Escondido City CouncilmembeR
-Erin Edwards
-former riverside City Councilmember
-Tauna Rodarte
-Fallbrook union High school trustee
-Tracy Martinez
-DEL MAR MAYOR
-Alysson Snow
-lemon grove mayor
-Mary Salas
-Mayor of Chula Vista, retired
-Heather Ferbert
-San diego city attorney
-Stephen Whitburn
-San Diego City Council
-Dr.
-Jen Campbell
-San Diego City Council
-Lauren Cazares
-La Mesa City Council
-MoveOn
-Individuals
-Organizations
-AFL-CIO
+Skip navigation menu About Endorsements Issues Volunteer Store News Media Donate Only Marni Can Flip the 48th!
+About Endorsements Issues Volunteer Store News Media Donate Only Marni Can Flip the 48th!
+We strongly support Marni von Wilpert for Congress Barbara Boxer former u.s.
+Senator Mark Takano u.s.
+Representative (CA-39) Adam Schiff U.s.
+Senator I.A.F.F.
+Local 145 California Federation of Labor Unions, AFL-CIO California Teachers Association SEIU California Planned Parenthood Action Fund Equality PAC Juan Vargas u.s.
+Representative (CA-52) Sara Jacobs u.s.
+Representative (CA-51) Scott Peters u.s.
+Representative (CA-50) Mike Levin u.s.
+Representative (CA-49) Gil Cisneros u.s.
+Representative (CA-31) Julia Brownley u.s.
+Representative (CA-26) Becca Balint u.s.
+Representative (VT-AL) Emily Randall u.s.
+Representative (WA-06) Bobby Scott u.s.
+Representative (VA-03) Julie Johnson u.s.
+Representative (TX-32) Catherine Blakespear CA State Senator Steve Padilla ca State Senator Tasha Boerner CA State Assemblymember Chris Ward CA State Assemblymember Dr.
+Darshana Patel CA State Assemblymember Dr.
+Corey Jackson CA State Assemblymember Toni Atkins Former CA state senator Christine Kehoe former ca State senator Marty Block former ca state senator Julie Bornstein Former CA Assemblymember Esther Sanchez Oceanside mayor Christy Holstege former mayor of Palm Springs Paul McNamara former mayor of escondido Geoff Kors Former Mayor of Palm Springs Terra Lawson-Remer San Diego County Supervisor Dan O'Donnell Vista City Council Olga Diaz Former Escondido City CouncilmembeR Erin Edwards former riverside City Councilmember Tauna Rodarte Fallbrook union High school trustee Tracy Martinez DEL MAR MAYOR Alysson Snow lemon grove mayor Mary Salas Mayor of Chula Vista, retired Heather Ferbert San diego city attorney Stephen Whitburn San Diego City Council Dr.
+Jen Campbell San Diego City Council Lauren Cazares La Mesa City Council MoveOn Individuals Rena Marrocco, Vista Unified School District Boardmember Stacy Carlson, San Marcos Unified Board of Education Teresa Acosta, Carlsbad City Council Cesar Fernandez, Chula Vista City Council Michael Inzunza, Chula Vista City Council Richard Barrera, San Diego Unified School District Cody Petterson, San Diego Unified School District Shana Hazan, San Diego Unified School District Marti Emerald, Former San Diego City Councilmember Bonnie Dumanis, Former San Diego District Attorney Andrea Beth Damsky, Division 2 Director Helix Water District Judy Ki, Founder, AAPI Democratic Club Michael Zucchet, General Manager, Municipal Employees Association Dr.
+Mohammad Rahimi, East County Democratic Club, President Rachel D.
+White, CADEM Appointed Delegate Theresa Beauchamp, Community Leader Bob Ayers, Community Leader Stephen Clemons, Former candidate for CA-48 Organizations New Democrat Coalition Action Fund Defend the Vote Equality California Giffords PAC 2026 Moms Demand Action Gun Sense Candidate Brady PAC California Federation of Labor Unions, AFL-CIO California Teachers Association National Education Association California School Employees Association San Diego County Building and Construction Trades Council United Auto Workers Region 6 San Diego Municipal Employees Association IUPAT Painters and Allied Trades District Council 36 National Union of Healthcare Workers United Food and Commercial Workers International Union (UFCW) Local 135 Teamsters Joint Council 42 New Politics Square One Politics San Diego Democrats for Equality San Diegans for Gun Violence Prevention Voter Protection Project LPAC LGBTQ+ Victory Fund Elect Democratic Women Women's Political Committee End Citizens United - Unrig Washington Democratic Majority for Israel JStreet PAC Youth Save Democracy Fallbrook Democratic Club San Marcos Democratic Club Escondido Democratic Club Black Mountain Democratic Club San Diego County Young Democrats College Democrats of SDSU UCSD Triton Democrats North County Young Democrats California Young Democrats California High School Democrats College Democrats of San Diego State University Heart of LA Democratic Club Democratic Woman's Club of San Diego, rated acceptable info@marnivonwilpert.com (760) 239-9684 To contribute by check: Marni von Wilpert for Congress 663 S Rancho Santa Fe Rd #689 San Marcos, CA 92078 Privacy Policy | Terms & Conditions Powered by RUN! website builder Paid for by Marni von Wilpert for Congress You need to enable JavaScript to run this app.

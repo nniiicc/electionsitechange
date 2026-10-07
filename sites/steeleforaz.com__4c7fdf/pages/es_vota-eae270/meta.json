@@ -1,8 +1,10 @@
 {
- "description": "Informaci\u00f3n sobre el registro de votantes, las fechas electorales de 2026 y los recursos oficiales para votar en Arizona.",
+ "description": "Información sobre el registro de votantes, las fechas electorales de 2026 y los recursos oficiales para votar en Arizona.",
  "final_url": "https://steeleforaz.com/es/vota/",
- "paid_for_by": null,
- "title": "C\u00f3mo votar en Arizona en 2026 | Frank Steele, LD24",
+ "fingerprint": "d8e30b21c7c8ef71a0d1cac6b883e628a5bdefbe",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Cómo votar en Arizona en 2026 | Frank Steele, LD24",
  "years_mentioned": [
   "2026"
  ]

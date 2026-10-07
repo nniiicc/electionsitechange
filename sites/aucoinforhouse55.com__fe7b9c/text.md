@@ -1,9 +1,1 @@
-Maureen AuCoin
-District 55
-West Gardiner, Manchester & Hallowell
-Working for solutions
-- Creating affordability
-- Advocating for healthcare for all
-- Advancing equality
-- Safeguarding workers' rights
-- Preserving our natural resources and outdoor recreational spaces
+0 Skip to Content AuCoin for House District 55 Home About Priorities Making Change Community Endorsements Contact Donate Open Menu Close Menu AuCoin for House District 55 Home About Priorities Making Change Community Endorsements Contact Donate Open Menu Close Menu Home About Priorities Making Change Community Endorsements Contact Donate Maureen AuCoin District 55 West Gardiner, Manchester & Hallowell Working for solutions Creating affordability Advocating for healthcare for all Advancing equality Safeguarding workers' rights Preserving our natural resources and outdoor recreational spaces AuCoin for House District 55 (207) 446-3479 aucoinforhouse55@gmail.com Paid for and authorized by the candidate

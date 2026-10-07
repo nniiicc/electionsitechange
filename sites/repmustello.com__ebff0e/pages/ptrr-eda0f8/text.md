@@ -1,14 +1,16 @@
-Property Tax/Rent Rebate Program
-Older adults and Pennsylvanians with disabilities may be eligible for the Pennsylvania Property Tax/Rent Rebate program.
+PA State Rep.
+Marci Mustello Serving PA's 11th Legislative District Subscribe Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care & Assisted Living Guide REAL ID Contact Property Tax/Rent Rebate Program Older adults and Pennsylvanians with disabilities may be eligible for the Pennsylvania Property Tax/Rent Rebate program.
 Income limits have increased to $46,520 for both homeowners and renters, so if you were earning too much to qualify before, you may be eligible now.
 Remember to exclude 50% of Social Security when determining your income.
 The maximum rebate has increased to $1,000.
 The program is open to residents age 65 years and older; widows and widowers 50 years and older; and people with disabilities 18 years and older.
-Learn more about the program here or apply online.
+Learn more about the program here or apply online .
 You're also welcome to contact my district office(s) for assistance.
 Contact information is at the bottom of this page.
-Remember, assistance through my offices is always free.
+Remember, assistance through my offices is always free .
 You need not pay a private firm for assistance.
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations BUTLER 100 Barracks Road Butler, PA 16001 724-283-5852 1-855-282-0613 Mon-Fri 9 a.m. to 4:30 p.m.
+CAPITOL 147A East Wing PO Box 202011 Harrisburg, PA 17120-2011 717-787-7686 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care &amp; Assisted Living Guide REAL ID Contact

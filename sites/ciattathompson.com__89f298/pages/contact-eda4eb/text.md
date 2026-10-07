@@ -1,5 +1,2 @@
-Contact the campaign
-Your feedback is valued.
-Follow Ciatta on Socials:
-Mail donations to: Friends of Ciatta Thompson, PAC | PO Box 95, Bend, OR, 97709
-Call or Text: 971-520-9261
+0 Skip to Content Home About Policy Legislative Concepts Volunteer Contact Donate Open Menu Close Menu Home About Policy Legislative Concepts Volunteer Contact Donate Open Menu Close Menu Home About Policy Legislative Concepts Volunteer Contact Donate Contact the campaign Your feedback is valued.
+Follow Ciatta on Socials: Mail donations to: Friends of Ciatta Thompson, PAC | PO Box 95, Bend, OR, 97709 Call or Text: 971-520-9261 Explore Video Privacy Policy Subscribe Contact Volunteer Donate About Policy Endorsements Terms & Conditions ©# Friends of Ciatta Thompson, PAC

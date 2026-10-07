@@ -1,30 +1,21 @@
-Energy & Infrastructure
-Meeting the Needs of Tomorrow
-Reliable and affordable energy is essential to Texans’ way of life.
+Skip to content Home About House District 83 Issues Latest News Volunteer Home About House District 83 Issues Latest News Volunteer Donate Issues Energy & Infrastructure A Foundation for Growth Meeting the Needs of Tomorrow Reliable and affordable energy is essential to Texans’ way of life.
 Energy production funds public schools and universities, builds roads, supports first responders and provides the service Texans rely on.
 Speaker Burrows and the Texas House have advanced Texas’ energy dominance, strengthened the electric grid, supported a dependable and affordable energy supply and invested in the infrastructure needed to meet the demands of a growing state.
-Powering Texas’ Energy Future
-Keeping energy affordable and reliable requires a strong grid, dependable energy production and smart investments in the infrastructure that powers Texas.
+Powering Texas’ Energy Future Keeping energy affordable and reliable requires a strong grid, dependable energy production and smart investments in the infrastructure that powers Texas.
 During the 89th Legislative Session, the Texas House passed measures to strengthen every part of Texas’ energy economy.
-- Bolstered electric grid reliability by setting standards for how large energy users connect to the grid, protecting service for homes, businesses and utility customers statewide (SB 6)
-- Created the Texas Grid Security Commission to strengthen grid security and help keep the lights on during emergencies, severe weather, cyberattacks and other threats (SB 75)
-- Expanded reliable energy sources by allowing certain local districts to develop geothermal energy projects to help meet Texas’ growing energy needs (HB 4370)
-- Supported the safe and reliable expansion of battery storage infrastructure by requiring fire safety standards and emergency response plans (HB 3824)
-- Positioned Texas as a national leader in advanced nuclear energy by supporting the development and construction of next-generation nuclear projects, helping meet growing energy demand while maintaining grid reliability (HB 14)
-- Encouraged new oil and gas production by creating a severance tax exemption for certain previously inactive wells to be brought back into production, strengthening Texas’ energy supply and economy (HB 3159)
-- Streamlined pipeline development by preventing counties from requiring costly cash bonds as a condition of approval (HB 206)
-- Backed new technologies to safely reuse produced water by providing greater legal certainty for companies and landowners (HB 49)
-Protecting Texas Infrastructure
-- Created a dedicated statewide water fund to invest in critical water infrastructure and secure Texas’ long-term water supply (HJR 7)
-- Held oil and gas operators accountable by requiring long-term inactive wells to be plugged, protecting taxpayers and reducing environmental risks (SB 1150)
-- Protected Texas’ electric grid and other critical infrastructure by strengthening security requirements and increasing oversight of entities linked to hostile foreign nations (SB 2368)
-- Increased transparency for high-speed rail projects and protected landowners from uncertainty around potential land acquisition (HB 2003)
-- Created the Texas Cyber Command to protect critical infrastructure from cyberattacks (HB 150)
-- Established a dedicated DPS unit to combat organized oilfield theft, helping protect Texas businesses from millions of dollars in annual losses (HB 48)
-- Protected Texas landowners by requiring wind, solar and battery storage facilities to pay for the full cleanup and restoration of property when projects are retired (HB 3809 & HB 3228)
-- Invested billions of dollars in highway planning, construction and maintenance, along with major investments in rail, aviation and public transportation to keep Texans and goods moving safely and efficiently (SB 1)
-Building for Tomorrow
-As Texas continues to expand, so will the demands on our energy systems, infrastructure and natural resources.
+Bolstered electric grid reliability by setting standards for how large energy users connect to the grid, protecting service for homes, businesses and utility customers statewide (SB 6) Created the Texas Grid Security Commission to strengthen grid security and help keep the lights on during emergencies, severe weather, cyberattacks and other threats (SB 75) Expanded reliable energy sources by allowing certain local districts to develop geothermal energy projects to help meet Texas’ growing energy needs (HB 4370) Supported the safe and reliable expansion of battery storage infrastructure by requiring fire safety standards and emergency response plans (HB 3824) Positioned Texas as a national leader in advanced nuclear energy by supporting the development and construction of next-generation nuclear projects, helping meet growing energy demand while maintaining grid reliability (HB 14) Encouraged new oil and gas production by creating a severance tax exemption for certain previously inactive wells to be brought back into production, strengthening Texas’ energy supply and economy (HB 3159) Streamlined pipeline development by preventing counties from requiring costly cash bonds as a condition of approval (HB 206) Backed new technologies to safely reuse produced water by providing greater legal certainty for companies and landowners (HB 49) Protecting Texas Infrastructure As Texas grows, infrastructure must grow with it.
+The Texas House invested in critical infrastructure to strengthen Texas’ water, energy, transportation and cybersecurity systems while better preparing for long-term growth.
+Created a dedicated statewide water fund to invest in critical water infrastructure and secure Texas’ long-term water supply (HJR 7) Held oil and gas operators accountable by requiring long-term inactive wells to be plugged, protecting taxpayers and reducing environmental risks (SB 1150) Protected Texas’ electric grid and other critical infrastructure by strengthening security requirements and increasing oversight of entities linked to hostile foreign nations (SB 2368) Increased transparency for high-speed rail projects and protected landowners from uncertainty around potential land acquisition (HB 2003) Created the Texas Cyber Command to protect critical infrastructure from cyberattacks (HB 150) Established a dedicated DPS unit to combat organized oilfield theft, helping protect Texas businesses from millions of dollars in annual losses (HB 48) Protected Texas landowners by requiring wind, solar and battery storage facilities to pay for the full cleanup and restoration of property when projects are retired (HB 3809 & HB 3228) Invested billions of dollars in highway planning, construction and maintenance, along with major investments in rail, aviation and public transportation to keep Texans and goods moving safely and efficiently (SB 1) Building for Tomorrow As Texas continues to expand, so will the demands on our energy systems, infrastructure and natural resources.
 To meet those challenges, Speaker Burrows and the Texas House are focused on long-term planning, strategic investments and policies that keep pace with a rapidly advancing economy.
 Speaker Burrows has directed House committees to continue examining the state’s long-term energy, water and infrastructure needs, including electric grid reliability, responsible and accountable data center development, critical infrastructure security and protecting Texas’ oil and gas industry from growing geopolitical and economic risks.
 By planning ahead and investing wisely, the Texas House is working to ensure Texas has the reliable energy, modern infrastructure and resilient foundation needed to support continued growth and prosperity for the next generation.
+JOIN OUR EMAIL LIST First Name Last Name Email Sign Up By providing my mobile number I consent to receive informational text messages from Dustin Burrows Campaign.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms & Conditions and Privacy Policies.
+POL.
+ADV.
+PAID FOR BY DUSTIN BURROWS CAMPAIGN Mailing Address: Dustin Burrows Campaign P.O.
+Box 2569 | Lubbock, TX 79408 Privacy Policy Terms of Use Contact Donate

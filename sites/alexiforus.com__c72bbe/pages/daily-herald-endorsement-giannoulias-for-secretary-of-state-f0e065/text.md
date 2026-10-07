@@ -1,4 +1,4 @@
-With more than 23 years in office as a wildly popular secretary of state, Democrat Jesse White has finally decided to hang up his spurs.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Daily Herald endorsement: Giannoulias for Secretary of State With more than 23 years in office as a wildly popular secretary of state, Democrat Jesse White has finally decided to hang up his spurs.
 The 88-year-old has been hinting about retirement for the last couple of terms.
 And that has opened the floodgates to candidates from his own party who would have been loath to challenge him, as well as a pair of Republicans who see opportunities in what could be a red wave in November.
 Among the Democrats are: former state Treasurer Alexi Giannoulias; Chicago City Clerk Anna Valencia; David Moore, who represents Chicago’s 17th Ward on the city council; and Chicago entrepreneur Sidney Moore, who has been largely absent from campaign events and interviews.
@@ -9,8 +9,7 @@ Most of us know the office as the place to go for driver’s licenses and licens
 Few of us emerge from visits to a driver’s license facility with happy stories to tell, so there clearly is work to be done.
 But the office is much more than that, employing some 4,000 workers who also handle business licensing, the state library system, registration of lobbyists and financial advisers, the entire Capitol Complex, providing official record keeping for the state and protection of historical documents.
 It also promotes safe driving habits and organ donation.
-Democrats: Giannoulias
-Alexi Giannoulias knows something about how to run a constitutional office, having been elected state treasurer when he was 30.
+Democrats: Giannoulias Alexi Giannoulias knows something about how to run a constitutional office, having been elected state treasurer when he was 30.
 Since then, he was appointed chairman of the Illinois Community College system and has pursued private sector ventures.
 What Giannoulias brings is a well-crafted plan for addressing the challenges of the office, with a primary focus on customer service.
 He wants to create a smartphone app that would allow users to conduct many of their transactions with the office at home or on a smartphone, bypassing a DMV facility.
@@ -25,3 +24,7 @@ But she is handicapped by the fact she failed to disclose her husband’s lobbyi
 She waved it off as an oversight, but she’s running for a position that has oversight of the registration and activities of lobbyists.
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
+Read the Daily Herald’s endorsement here.
+Related Posts ‘Skip-the-Line’ program coming to all Illinois DMVs Secretary of State Alexi Giannoulias is implementing a Skip-the-Line program across Illinois.
+“You no longer have to block off the whole day to visit a Keep Reading → Giannoulias Campaign Ends 2021 Strong with $4+ Million on Hand End-of-Year Fundraising Total Reflects Democrat’s Broad-Based Support Across Illinois Keep Reading → Democrat Secretary of State Candidate Alexi Giannoulias Earns New Suburban and Labor Endorsements New Trier, Schaumburg Democrats and Six Unions Pledge Support for Former State Treasurer Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

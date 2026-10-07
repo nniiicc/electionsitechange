@@ -1,4 +1,4 @@
-Richard Hudson has represented North Carolina in Congress since 2013.
+Meet Richard Hudson Richard Hudson for Congress facebook instagram twitter Donate Meet Richard News Issues Get Involved Store Navigation Meet Richard News Issues Get Involved Store Richard Hudson has represented North Carolina in Congress since 2013.
 In the U.S.
 House of Representatives, Richard is recognized as a conservative leader, focused on common-sense solutions to support our economy, veterans, and families.
 He also serves as chairman of the National Republican Congressional Committee (NRCC), placing him as the fifth-ranking Member in leadership and one of the highest-ranking Congressmen from North Carolina in history.
@@ -14,5 +14,11 @@ Richard’s past volunteer leadership service includes membership on the Rowan-C
 Richard is also an avid hunter and outdoorsman and long-time fan of NASCAR.
 Richard grew up in Charlotte and graduated from Myers Park High School before serving as Student Body President and earning a Bachelor of Arts at UNC Charlotte.
 Richard, his wife Renee, and their son live in Southern Pines.
-About the District:
-North Carolina’s 9th District includes all or portions of Alamance, Chatham, Guilford, Cumberland, Hoke, Moore, and Randolph Counties.
+About the District: North Carolina’s 9th District includes all or portions of Alamance, Chatham, Guilford, Cumberland, Hoke, Moore, and Randolph Counties.
+Join Team Hudson Email * Zip Code Phone Mobile Opt-In I agree By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Richard Hudson for Congress at the number provided.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for assistance.
+Reply STOP to opt out at any time.
+Terms & Conditions + Privacy Policy apply.
+Privacy Policy Contact Us PO Box 1875 Southern Pines, NC 28388 Paid for by Hudson for Congress

@@ -1,7 +1,26 @@
 [
-"https://jenniferkincartjonsson.com/",
-"https://jenniferkincartjonsson.com/announcements",
-"https://jenniferkincartjonsson.com/issues",
-"https://jenniferkincartjonsson.com/privacy-policy",
-"https://jenniferkincartjonsson.com/volunteer"
+{
+"text": "Announcements",
+"href": "https://www.jenniferkincartjonsson.com/announcements/"
+},
+{
+"text": "Home",
+"href": "https://www.jenniferkincartjonsson.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jenniferkincartjonsson.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenniferkincartjonsson.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jenniferkincartjonsson.com/volunteer/"
+},
+{
+"text": "[image: Jennifer Kincart Jonsson for State Representative]",
+"href": "https://www.jenniferkincartjonsson.com/"
+}
 ]

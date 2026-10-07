@@ -1,9 +1,14 @@
 {
  "description": "`",
  "final_url": "https://www.voterondunn.com/tank",
- "paid_for_by": null,
+ "fingerprint": "3561dd690a11e4b9811007a4b6987525eefde947",
+ "format": 3,
+ "paid_for_by": "Sponsored by Ron Dunn - that means Ron did the work to see it through to the end",
  "title": "TANK",
  "years_mentioned": [
+  "1979",
+  "2000",
+  "2009",
   "2010",
   "2012",
   "2015",
@@ -12,10 +17,12 @@
   "2020",
   "2021",
   "2022",
+  "2023",
   "2024",
   "2025",
   "2026",
   "2027",
-  "2028"
+  "2028",
+  "2032"
  ]
 }

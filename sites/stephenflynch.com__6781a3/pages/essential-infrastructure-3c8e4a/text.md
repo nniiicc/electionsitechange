@@ -1,5 +1,4 @@
-Infrastructure & Transportation
-While frequently overlooked, transportation and infrastructure issues are major factors in both our economy and quality of life.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page Infrastructure & Transportation While frequently overlooked, transportation and infrastructure issues are major factors in both our economy and quality of life.
 Stephen knows that in order to strengthen our economy and help working families these issues must be addressed.
 As the senior New England member of the Transportation Committee, Stephen has continuously pushed for funding to repair our crumbling roads and bridges to bring them up to date and safe for travel.
 Beyond our roads and bridges, Stephen knows that many people rely on a public transportation system that is outdated and inadequate.
@@ -11,50 +10,30 @@ Stephen believes that Congress must take the lead in fixing these antiquated sys
 Broadband access is another critical infrastructure need where we have fallen behind, particularly in our rural and underserved areas.
 As America shifts the way we learn and work in the wake of the Coronavirus pandemic, universal access to broadband is even more essential.
 In Congress, Stephen has consistently supported federal efforts to increase broadband access and knows that this, like other necessary infrastructure improvements, are essential to working families and our economic future.
-As a member of the Transportation Committee, Stephen helped to craft the Moving Forward Act.
+As a member of the Transportation Committee, Stephen helped to craft the Moving Forward Act .
 The bill will invest billions of dollars in transportation and infrastructure needs including roads and bridges, transportation systems and broadband access – all while putting our country on a path toward zero carbon emission, making communities and roads safer and addressing long-standing disparities.
 The bill passed the House in July 2020 and included three initiatives authored by Stephen: The Green Buses for Every Community Act which requires 10 percent of zero-emissions bus grants to go to low- income communities; The Pedestrian and Bicyclist Safety Act which requires the Department of Transportation to study dangerous intersections and roads every two years and make improvements to increase pedestrian and cyclist safety.
 Additionally it requires DOT to document any accidents or fatalities and maintain a database of high-risk intersections and roads; Ensuring Health Safety in Skys Act which requires the establishment of a joint task force to create federal safety guidelines for passengers and employees to help protect them against coronavirus as they travel.
-As your Congressman, Stephen will continue to continue to fight for these necessary and critical transportation and infrastructure improvements.
-‘Let’s protect folks’: Rep.
-Lynch urges Congress to invalidate Trump’s mail-in ballot order
-Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that's now receiving...
-US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work
-Rep.
-Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
-Lynch warns as job cuts continue
-By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump...
-US Representative Lynch seeking review of flight operations at Logan Airport after safety incidents
-By Travis Andersen Globe Staff,Updated March 8, 2023, 3:18 p.m.
+As your Congressman, Stephen will continue to continue to fight for these necessary and critical transportation and infrastructure improvements. ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order May 14, 2026 | 8th Congressional District , Essential Infrastructure , News & Updates , Protecting the Post Office Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that's now receiving... read more US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work Jun 18, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , National Security , News & Updates Rep.
+Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one... read more Lynch warns as job cuts continue Feb 23, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump... read more US Representative Lynch seeking review of flight operations at Logan Airport after safety incidents Mar 8, 2023 | 8th Congressional District , Essential Infrastructure , News & Updates By Travis Andersen Globe Staff,Updated March 8, 2023, 3:18 p.m.
 Representative Stephen F.
 Lynch is seeking an “urgent review” of flight operations by the FAA after “troubling” recent safety incidents at Boston Logan International Airport.
-Lynch, a South Boston...
-Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety
-WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
-Click here to watch interview
+Lynch, a South Boston... read more Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety Aug 31, 2022 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
+Click here to watch interview read more Rep.
+Lynch, transportation commitee member, advocates for receivership of MBTA Aug 19, 2022 | 8th Congressional District , Essential Infrastructure , News & Updates WCVB-TV A Massachusetts congressman who serves on the House Committee on Transportation and Infrastructure says he is in favor of federal authorities taking more direct control over the troubled MBTA.
 Rep.
-Lynch, transportation commitee member, advocates for receivership of MBTA
-WCVB-TV A Massachusetts congressman who serves on the House Committee on Transportation and Infrastructure says he is in favor of federal authorities taking more direct control over the troubled MBTA.
-Rep.
-Stephen Lynch, a Democrat whose district includes part...
-Rep.
-Stephen Lynch discusses woes facing the MBTA
-WBUR Radio By Sydney Boles and Tiziana Dearing Massachusetts Congressman Stephen Lynch discusses his talks with the MBTA as the public transit agency deals with ongoing safety concerns, service cuts and recommendations from the Federal Transit Administration.
-Click...
-Déjà vu for Congressman Lynch
-MBTA is once again cutting service, this time for safety reasons Commonwealth Magazine By Bruce Mohl IT’S A BIT of déjà vu for US Rep.
+Stephen Lynch, a Democrat whose district includes part... read more Rep.
+Stephen Lynch discusses woes facing the MBTA Aug 18, 2022 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates WBUR Radio By Sydney Boles and Tiziana Dearing Massachusetts Congressman Stephen Lynch discusses his talks with the MBTA as the public transit agency deals with ongoing safety concerns, service cuts and recommendations from the Federal Transit Administration.
+Click... read more Déjà vu for Congressman Lynch Jul 5, 2022 | 8th Congressional District , Essential Infrastructure , News & Updates MBTA is once again cutting service, this time for safety reasons Commonwealth Magazine By Bruce Mohl IT’S A BIT of déjà vu for US Rep.
 Stephen Lynch.
-Last year, he was upset with the MBTA because it had received billions in federal aid but was nevertheless...
-Rep.
-Lynch and MA Delegation Announce First Round of Federal Transit Funding for Massachusetts and Regional Transit Authorities from Bipartisan Infrastructure Law
-Washington, D.C. — U.S.
+Last year, he was upset with the MBTA because it had received billions in federal aid but was nevertheless... read more Rep.
+Lynch and MA Delegation Announce First Round of Federal Transit Funding for Massachusetts and Regional Transit Authorities from Bipartisan Infrastructure Law Feb 15, 2022 | 8th Congressional District , Essential Infrastructure , News & Updates Washington, D.C. — U.S.
 Representative Stephen F.
 Lynch (MA-08) joined U.S.
 Senators Elizabeth Warren (D-MA) and Edward J.
 Markey (D-MA), and U.S.
 Representatives Richard E.
 Neal (D-MA-01), James P.
-McGovern (D-MA-02), Bill Keating (D-MA-09), Assistant Speaker...
-Rep.
-Lynch and Massachusetts Congressional Delegation Applaud First Round of Bridge Formula Funding from Bipartisan Infrastructure Law
-Nine percent of Massachusetts bridges are currently classified as structurally deficient Washington D.C. – The United States Department of Transportation’s Federal Highway Administration (FHWA) recently announced the first round of funding from a $27.5 billion...
+McGovern (D-MA-02), Bill Keating (D-MA-09), Assistant Speaker... read more Rep.
+Lynch and Massachusetts Congressional Delegation Applaud First Round of Bridge Formula Funding from Bipartisan Infrastructure Law Jan 20, 2022 | 8th Congressional District , Essential Infrastructure , News & Updates Nine percent of Massachusetts bridges are currently classified as structurally deficient Washington D.C. – The United States Department of Transportation’s Federal Highway Administration (FHWA) recently announced the first round of funding from a $27.5 billion... read more « Older Entries Read about additional priorities get email updates from stephen Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

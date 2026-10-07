@@ -1,12 +1,70 @@
 [
-"https://contact-us/",
-"https://facebook.com/NathanBiahDistrict3",
-"https://nathanbiahpvd.com/",
-"https://nathanbiahpvd.com/meet",
-"https://nathanbiahpvd.com/priorities",
-"https://nathanbiahpvd.com/privacy-policy",
-"https://nathanbiahpvd.com/termsandconditions",
-"https://secure.actblue.com/donate/friends-of-nathan-biah-1",
-"https://termsandconditions/",
-"https://x.com/NathanBiah"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "Contact",
+"href": "https://contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "Meet Rep. Biah",
+"href": "https://nathanbiahpvd.com/meet"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/friends-of-nathan-biah-1"
+},
+{
+"text": "Priorities",
+"href": "https://nathanbiahpvd.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nathanbiahpvd.com/privacy-policy"
+},
+{
+"text": "Rep.'s Priorities",
+"href": "https://nathanbiahpvd.com/priorities"
+},
+{
+"text": "Terms of Service",
+"href": "https://nathanbiahpvd.com/termsandconditions"
+},
+{
+"text": "Terms of Service",
+"href": "https://termsandconditions"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://nathanbiahpvd.com/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/NathanBiahDistrict3/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://x.com/NathanBiah"
+}
 ]

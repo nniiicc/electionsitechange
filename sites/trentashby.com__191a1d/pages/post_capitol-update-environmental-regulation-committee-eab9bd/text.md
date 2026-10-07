@@ -1,11 +1,9 @@
-Capitol Update: Environmental Regulation Committee
-As we enter this season of Thanksgiving, I’m reminded of the importance of gratitude.
+top of page HOME ENDORSEMENTS MEET TRENT PRESS ROOM GET INVOLVED DONATE All Posts Search Capitol Update: Environmental Regulation Committee Trent Ashby Nov 25, 2024 2 min read As we enter this season of Thanksgiving, I’m reminded of the importance of gratitude.
 Gathering around the table with friends and family serves as a perfect opportunity for us to recenter our lives in the present and acknowledge the countless blessings God has given us.
 A mindset of thankfulness helps us see what is there instead of what is not.
 As we celebrate Thanksgiving with our loved ones this year, let us be mindful of God’s grace and favor in our lives and the importance of having a heart of gratitude that recognizes the good no matter the circumstances.
 With that, we'll dive back into our examination of House interim charges. . .
-House Interim Charge: Environmental Regulation
-The House Committee on Environmental Regulation has jurisdiction over all matters related to air, land, and water pollution, the environmental regulation of industrial development, and the regulation of waste disposal.
+House Interim Charge: Environmental Regulation The House Committee on Environmental Regulation has jurisdiction over all matters related to air, land, and water pollution, the environmental regulation of industrial development, and the regulation of waste disposal.
 The Committee also has jurisdiction over the Texas Low-Level Radioactive Waste Disposal Compact Commission and certain aspects of the Department of State Health Services and the Texas Commission on Environmental Quality.
 During the interim, the Committee will monitor the implementation of House Bills 3060 and 4885.
 HB 3060 updated and modernized a number of definitions of recycling practices in Texas.
@@ -19,4 +17,8 @@ The Committee will make recommendations to build a competitive hydrogen industry
 The mobile office is taking a break from the road in December but will be back after the Christmas holiday.
 In the meantime, please do not hesitate to contact my office if we can help you in any way.
 My District Office may be reached at (936) 634-2762 and my Capitol Office may be reached at (512) 463-0508.
-Additionally, I welcome you to follow along on my Official Facebook Page, where I will be posting regular updates on what's happening in your State Capitol and sharing information that could be useful to you and your family: https://www.facebook.com/RepTrentAshby/.
+Additionally, I welcome you to follow along on my Official Facebook Page, where I will be posting regular updates on what's happening in your State Capitol and sharing information that could be useful to you and your family: https://www.facebook.com/RepTrentAshby/ .
+Recent Posts See All Capitol Update: Transportation Committee As we move past Thanksgiving and approach Christmas, I want to encourage you and your loved ones to embrace the spirit of giving during...
+Capitol Update: Defense & Veterans' Affairs Committee I want to start this week’s column by expressing my sincere gratitude to everyone who exercised their right to vote in our most recent...
+Capitol Update: House Committee on Elections With early voting currently underway, Texans are busy casting their votes to determine the future of our cities, counties, state, and...
+Privacy Policy Political advertising paid for by Texans for Trent Ashby bottom of page

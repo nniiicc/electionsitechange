@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260309T220000Z%2F20260310T000000Z&location=2101+18th+Street%2C+Menominee%2C+MI%2C+49858%2C+United+States",
-"http://maps.google.com/?q=2101+18th+Street+Menominee%2C+MI%2C+49858+United+States",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://youtube.com/@MCDPComms",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/campaign-event-1?format=ical",
-"https://zebulonforcongress.com/events/campaign-event-2",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2101+18th+street+menominee%2C+mi%2C+49858+united+states"
+},
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260309T220000Z%2F20260310T000000Z&location=2101+18th+Street%2C+Menominee%2C+MI%2C+49858%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/campaign-event-1?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next March 10 Candidate Forum",
+"href": "https://www.zebulonforcongress.com/events/campaign-event-2"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous March 4 Online Town Hall/Q&A",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "https://www.youtube.com/@MCDPComms",
+"href": "https://www.youtube.com/@MCDPComms"
+}
 ]

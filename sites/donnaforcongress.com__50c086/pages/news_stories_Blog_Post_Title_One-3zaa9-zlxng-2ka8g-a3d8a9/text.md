@@ -1,3 +1,3 @@
-Miller helps establish task force to reduce violence against women
-Cook County Commissioner Donna Miller led the first meeting of the Chicago-Cook County Task Force to Reduce Violence Against Women on Jan. 7.
-Miller said the task force is an effort to strengthen protections and coordinate solutions for survivors of domestic violence…
+0 Skip to Content Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Miller helps establish task force to reduce violence against women Jan 8 Written By Guest User Cook County Commissioner Donna Miller led the first meeting of the Chicago-Cook County Task Force to Reduce Violence Against Women on Jan.
+7.
+Miller said the task force is an effort to strengthen protections and coordinate solutions for survivors of domestic violence… Guest User Previous Previous NAACP Chicago Far South Suburban branch kicks off youth civic engagement program Next Next Cook County and Chicago launch new violence against women task force Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

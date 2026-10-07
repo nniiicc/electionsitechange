@@ -1,10 +1,11 @@
 {
  "description": "Learn about Howard Penny, your North Carolina House Representative, and support our community. Join us to ensure a brighter future for NC!",
  "final_url": "https://pennyfornchouse.com/",
- "paid_for_by": null,
+ "fingerprint": "ee934d5122b32d021c48dbacda566c6d474b2fce",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Penny for NC House",
  "years_mentioned": [
-  "2025",
-  "2026"
+  "2025"
  ]
 }

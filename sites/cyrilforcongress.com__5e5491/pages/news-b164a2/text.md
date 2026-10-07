@@ -1,13 +1,5 @@
-Skip navigation menu
-National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America
-PRESS RELEASE
-Mayor Cyril Jefferson Joins “Take BAC Congress” to Advance Government Accountability Reforms
-PRESS RELEASE
-Jefferson Represents High Point at U.S.
-Global Leadership Coalition’s Mayors Foreign Policy Summit
-PRESS RELEASE
-Mayor Cyril Jefferson Selected for Prestigious ElevateNC: Higher Education Leadership Cohort
-PRESS RELEASE
-Cyril Jefferson Blasts Trump’s Federal Takeover of D.C.
-Police and National Guard Deployment
-PRESS RELEASE
+Skip navigation menu Home About Issues News Endorsements Get Involved Contact Donate News & Press Home About Issues News Endorsements Get Involved Contact Donate News & Press news & press Latest Campaign Developments Cyril For Congress Media Kit Download PRESS RELEASE National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America Read more Jun 22 2026 PRESS RELEASE UNCF to Honor Mayor Cyril Jefferson at 2nd Annual Triad “A Mind Is...”® Read more Feb 2 2026 PRESS RELEASE Mayor Cyril Jefferson Joins “Take BAC Congress” to Advance Government Accountability Reforms Read more Jan 13 2026 PRESS RELEASE Cyril Jefferson Officially Files to Run for Congress in North Carolina’s 6th District Read more Dec 2 2025 PRESS RELEASE Jefferson Represents High Point at U.S.
+Global Leadership Coalition’s Mayors Foreign Policy Summit Read more Nov 19 2025 PRESS RELEASE Mayor Cyril Jefferson Selected for Prestigious ElevateNC: Higher Education Leadership Cohort Read more Nov 6 2025 PRESS RELEASE Cyril Jefferson Calls for Bold Action on Soaring Cost of Living Read more Sep 24 2025 PRESS RELEASE Mayor Cyril Jefferson Opposes New Tariffs on Imported Furniture Read more Aug 25 2025 PRESS RELEASE Cyril Jefferson Blasts Trump’s Federal Takeover of D.C.
+Police and National Guard Deployment Read more Aug 11 2025 PRESS RELEASE Cyril Jefferson Announces Run for Congress Read more Aug 5 2025 PRESS RELEASE Cyril Jefferson Slams Addison McDowell’s Anti-Community Votes Read more Aug 5 2025 ARTICLE Mayor Jefferson Delivers State of the City Address Read more Jul 24 2025 Article High Point Mayor Jefferson '18 to Receive 2025 Keeper of the Flame Award Read more Jul 17 2025 ARTICLE Meet the Jeffersons Read more Jul 6 2025 Privacy Cyril For Congress | P.O.
+Box 5043 | High Point, NC 27262 Paid for by Cyril for Congress committee.
+You need to enable JavaScript to run this app.

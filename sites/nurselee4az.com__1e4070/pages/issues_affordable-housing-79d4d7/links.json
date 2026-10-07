@@ -1,30 +1,114 @@
 [
-"http://publichealth.lacounty.gov/ha/reports/LAHealthBrief2011/HousingHealth/SD_Housing_Fs.pdf",
-"https://bsky.app/profile/nurselee4az.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/NurseLee4AZ",
-"https://instagram.com/NurseLee4AZ",
-"https://jech.bmj.com/content/jech/77/2/65.full.pdf",
-"https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281912",
-"https://linkedin.com/in/nurselee4az",
-"https://ncbi.nlm.nih.gov/search/research-news/17769",
-"https://nurselee4az.com/",
-"https://nurselee4az.com/JoinUs",
-"https://nurselee4az.com/Your_voice",
-"https://nurselee4az.com/about",
-"https://nurselee4az.com/community-resources",
-"https://nurselee4az.com/contact",
-"https://nurselee4az.com/endorsements",
-"https://nurselee4az.com/events",
-"https://nurselee4az.com/issues",
-"https://nurselee4az.com/news",
-"https://nurselee4az.com/socials",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC6980953",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC6980955",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC9934450",
-"https://schaeffer.usc.edu/research/what-is-driving-deaths-of-despair-deaton-and-case-point-to-the-way-we-pay-for-healthcare",
-"https://secure.actblue.com/donate/nurselee4az",
-"https://threads.net/@NurseLee4AZ",
-"https://wtamu-ir.tdl.org/items/686ab021-0b1d-4dec-a139-15357d75e561",
-"https://youtube.com/watch?v=NcDQyZByJfQ"
+{
+"text": "About",
+"href": "https://www.nurselee4az.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.nurselee4az.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nurselee4az"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nurselee4az.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.nurselee4az.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.nurselee4az.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.nurselee4az.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Resources",
+"href": "https://www.nurselee4az.com/community-resources"
+},
+{
+"text": "Socials",
+"href": "https://www.nurselee4az.com/socials"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nurselee4az.com/JoinUs"
+},
+{
+"text": "Your Voice",
+"href": "https://www.nurselee4az.com/Your_voice"
+},
+{
+"text": "[image: Elizabeth \"Nurse Lee\" for Congress | Arizona District 5 | 2026]",
+"href": "https://www.nurselee4az.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nurselee4az.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/NurseLee4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/NurseLee4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/nurselee4az"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@NurseLee4AZ"
+},
+{
+"text": "http://publichealth.lacounty.gov/ha/reports/LAHealthBrief2011/HousingHealth/SD_Housing_Fs.pdf",
+"href": "http://publichealth.lacounty.gov/ha/reports/LAHealthBrief2011/HousingHealth/SD_Housing_Fs.pdf"
+},
+{
+"text": "https://jech.bmj.com/content/jech/77/2/65.full.pdf",
+"href": "https://jech.bmj.com/content/jech/77/2/65.full.pdf"
+},
+{
+"text": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281912",
+"href": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281912"
+},
+{
+"text": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6980953/",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6980953/"
+},
+{
+"text": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6980955/",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6980955/"
+},
+{
+"text": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9934450/",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9934450/"
+},
+{
+"text": "https://schaeffer.usc.edu/research/what-is-driving-deaths-of-despair-deaton-and-case-point-to-the-way-we-pay-for-healthcare/",
+"href": "https://schaeffer.usc.edu/research/what-is-driving-deaths-of-despair-deaton-and-case-point-to-the-way-we-pay-for-healthcare/"
+},
+{
+"text": "https://wtamu-ir.tdl.org/items/686ab021-0b1d-4dec-a139-15357d75e561",
+"href": "https://wtamu-ir.tdl.org/items/686ab021-0b1d-4dec-a139-15357d75e561"
+},
+{
+"text": "https://www.ncbi.nlm.nih.gov/search/research-news/17769/",
+"href": "https://www.ncbi.nlm.nih.gov/search/research-news/17769/"
+},
+{
+"text": "https://www.youtube.com/watch?v=NcDQyZByJfQ",
+"href": "https://www.youtube.com/watch?v=NcDQyZByJfQ"
+}
 ]

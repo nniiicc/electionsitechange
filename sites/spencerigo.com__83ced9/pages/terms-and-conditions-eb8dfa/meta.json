@@ -1,7 +1,9 @@
 {
  "description": "Explore our mobile messaging terms and conditions to understand your rights, our privacy policy, and how to opt-out of the program.",
  "final_url": "https://spencerigo.com/terms-and-conditions",
- "paid_for_by": null,
+ "fingerprint": "640d7f54d460283b3e0200415fc481d1a9b1b302",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Terms and Conditions",
  "years_mentioned": []
 }

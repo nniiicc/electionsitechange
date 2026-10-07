@@ -1,16 +1,70 @@
 [
-"https://kslegislature.org/",
-"https://secure.anedot.com/howeks71/0ceb8584-6d47-4494-a998-7cc45848af35",
-"https://secure.anedot.com/howeks71/ca7526e2e9d43dca24512",
-"https://secure.anedot.com/howeks71/contribute",
-"https://stevenkhowe.com/",
-"https://stevenkhowe.com/About",
-"https://stevenkhowe.com/Contact",
-"https://stevenkhowe.com/Home",
-"https://stevenkhowe.com/blog",
-"https://stevenkhowe.com/issues",
-"https://stevenkhowe.com/store",
-"https://stevenkhowe.com/store/cart",
-"https://stevenkhowe.com/store/checkout",
-"https://stevenkhowe.com/volunteer"
+{
+"text": "CONTACT STEVEN",
+"href": "mailto:steven.howe@house.ks.gov"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/howeks71/0ceb8584-6d47-4494-a998-7cc45848af35"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/howeks71/ca7526e2e9d43dca24512"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/howeks71/contribute"
+},
+{
+"text": "Campaign Issues",
+"href": "https://stevenkhowe.com/issues"
+},
+{
+"text": "Checkout",
+"href": "https://stevenkhowe.com/store/checkout"
+},
+{
+"text": "Contact",
+"href": "https://stevenkhowe.com/Contact"
+},
+{
+"text": "Continue",
+"href": "https://stevenkhowe.com/store"
+},
+{
+"text": "EMAIL STEVEN",
+"href": "mailto:howeks71@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://stevenkhowe.com/Home"
+},
+{
+"text": "Meet Steven",
+"href": "https://stevenkhowe.com/About"
+},
+{
+"text": "Updates",
+"href": "https://stevenkhowe.com/blog"
+},
+{
+"text": "VISIT WEBSITE",
+"href": "https://www.kslegislature.org"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://stevenkhowe.com/volunteer"
+},
+{
+"text": "View Cart",
+"href": "https://stevenkhowe.com/store/cart"
+},
+{
+"text": "[image: Representative Steven Howe]",
+"href": "https://stevenkhowe.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://stevenkhowe.com/store/cart"
+}
 ]

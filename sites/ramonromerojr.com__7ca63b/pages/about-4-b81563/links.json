@@ -1,15 +1,58 @@
 [
-"http://instagram.com/repramonromero",
-"http://x.comrepramonromero/",
-"https://facebook.com/RepRamonRomero",
-"https://facebook.com/events/815956250281785",
-"https://malc.org/",
-"https://ramonromerojr.com/",
-"https://ramonromerojr.com/about-4",
-"https://ramonromerojr.com/blog",
-"https://ramonromerojr.com/contact",
-"https://ramonromerojr.com/get-involved",
-"https://ramonromerojr.com/meet-ramon",
-"https://secure.actblue.com/contribute/page/ramonromero",
-"https://twitter.com/RepRamonRomero"
+{
+"text": "CONTACT",
+"href": "https://www.ramonromerojr.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/ramonromero"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ramonromerojr.com/get-involved"
+},
+{
+"text": "Learn more about MALC here.",
+"href": "https://malc.org/"
+},
+{
+"text": "MALC",
+"href": "https://www.ramonromerojr.com/about-4"
+},
+{
+"text": "MEET RAMON",
+"href": "https://www.ramonromerojr.com/meet-ramon"
+},
+{
+"text": "NEWS",
+"href": "https://www.ramonromerojr.com/blog"
+},
+{
+"text": "You Can Count On Me Ramon!",
+"href": "https://www.facebook.com/events/815956250281785"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepRamonRomero"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepRamonRomero/"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/repramonromero"
+},
+{
+"text": "[image: RR Logo.png]",
+"href": "https://www.ramonromerojr.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/RepRamonRomero"
+},
+{
+"text": "[image: X]",
+"href": "http://x.comrepramonromero"
+}
 ]

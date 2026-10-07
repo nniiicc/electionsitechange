@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/timoriamcqueen.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=100038071301679",
-"https://form.jotform.com/261369056316055",
-"https://instagram.com/timoriamcqueen",
-"https://secure.actblue.com/donate/timoria-mcqueen-saba-1",
-"https://timoria.org/",
-"https://timoria.org/Endorsements",
-"https://timoria.org/about",
-"https://timoria.org/formal-statement",
-"https://timoria.org/issues",
-"https://timoria.org/voting"
+{
+"text": "About",
+"href": "https://www.timoria.org/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/timoria-mcqueen-saba-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.timoria.org/Endorsements"
+},
+{
+"text": "Formal Statement",
+"href": "https://www.timoria.org/formal-statement"
+},
+{
+"text": "Home",
+"href": "https://www.timoria.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.timoria.org/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Sign Up Here",
+"href": "https://form.jotform.com/261369056316055"
+},
+{
+"text": "Vote",
+"href": "https://www.timoria.org/voting"
+},
+{
+"text": "[image: Timoria McQueen Saba for Georgia House District 68]",
+"href": "https://www.timoria.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/timoriamcqueen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=100038071301679"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/timoriamcqueen/"
+},
+{
+"text": "timoria@timoria.org",
+"href": "mailto:timoria@timoria.org"
+}
 ]

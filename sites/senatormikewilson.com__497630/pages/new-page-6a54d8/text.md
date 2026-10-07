@@ -1,4 +1,4 @@
-Get to know Senator Mike Wilson...
+Home About Mike Volunteer Donate Welcome Blog Home About Mike Volunteer Donate Welcome Blog Bio Get to know Senator Mike Wilson...
 Mike was born in New Albany, Mississippi, close to Tupelo where Elvis was from.
 At the age of 5 his father moved the family to Memphis, Tennessee after taking a job at a cotton seed mill.
 Mike grew up in Memphis but spent many wonderful summers on family farms in Mississippi.
@@ -49,3 +49,5 @@ She has appeared on CMT in country music singing star Kelly Pickler's music vide
 Mike will tell you that the most important decision he ever made was in November of 1979 when he accepted Jesus Christ as his Savior.
 “It changed the whole direction of my life and my belief system about life.” Today I realize my life is about serving others and that's what drives me on a daily basis.
 I am here to make a difference and I want to do that for my family, my friends, and my community.
+Stand with Mike!
+Paid for by Mike Wilson for State Senate Back to Top Video Service © # Mike Wilson for State Senate

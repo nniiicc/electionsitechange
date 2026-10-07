@@ -1,33 +1,11 @@
-Eric in Action.
+0 Skip to Content Home Why Eric?
+Eric in Action Issues Voter Info Contact DONATE Open Menu Close Menu Home Why Eric?
+Eric in Action Issues Voter Info Contact DONATE Open Menu Close Menu Home Why Eric?
+Eric in Action Issues Voter Info Contact DONATE Eric in Action .
 “I have been a unifying policy-focused problem solver, and a true voice for Brentwood in Concord.
-With 30+ years of senior policy consulting on government effectiveness and 25 years raising a family here in Brentwood, I’ll make sure our government trulyworks for this community.”
-In the News
-Feb 7, 2026
-Ayotte issues first veto, rejecting bill to segregate by biological sex
-October 10, 2024
-NH lawmakers uphold Sununu veto of transgender bathroom bill
-Jan 19, 2024
-Abortion: House Judiciary Votes Against 15-Day Ban, Ties on Making Constitutional Right
-Jan 5, 2024
-NH House passes bill that would ban gender-affirming surgery for minors
-Jun 23, 2023
-Turer: SB 272 was a threat to LGBTQ+ students and school staff
-Nov 29, 2022
-Recount results are unchanged after Ballot Law Commission meets
-No Change in House Winners After Ballot Law Commission Meets
-GOP retains control of New Hampshire State House with 1 race still unsettled
-Nov 18, 2022
-Ballot counting to continue for two seats narrowly held by Democrats
-Scanlan: Some Recount Numbers Don’t Add Up, Some Ballots May Not Have Been Counted
-Brentwood NH House election result in doubt after 27 ballots are found
-Video Clips
-House Floor: Supporting Constitutional Amendment Guaranteeing Reproductive Freedom
-House Floor: Supporting Constitutional Amendment Establishing Right to Abortion Up To 24 Weeks
-House Floor: Parliamentary Inquiry Opposing Invasive Anti-Trans Sex Classification Bill
-House Floor: Upholding Governor’s Veto of Invasive Anti-Trans Sex Classification Bill
-Addiction Help Video Running In All NH State Liquor Stores as a result of Eric’s HB1621
-Reducing Partisanship
-The political divisions are killing our communities and families.
+With 30+ years of senior policy consulting on government effectiveness and 25 years raising a family here in Brentwood, I’ll make sure our government trulyworks for this community.” • Eric in Concord • Eric’s Community Updates • In the News • Video Cips • Reducing Partisanship Eric in Concord • Voting Record • Sponsored Legislation Eric's Community Updates (Brentwood Newsletter) 2025 January (page 12) February (None, election edition) March (page 14) April (page 16) May (page 14) June (page 10) July/August (page 14) September (page 10) October (page 14) November (page 12) December (page 11) 2026 January (page 15) February (None, election edition) March (page 13) April (page 19) May (page 15) June (page 11) July/August (page 16) September (page 11) October (page 14) 2024 January (page 13) February (None, election edition) March (page 13) April (page 12) May (page 10) June (page 13) July/August (page 15) September (None, election edition) October (page 12) November (No Rep Statements) December (page 14) 2023 January (n/a) February (page 12) March (page 13) April (page 7) May (page 10) June (page 12) July/August (page 15) September (page 6) October (page 10) November (page 13) December (page 17) In the News Feb 7, 2026 Ayotte issues first veto, rejecting bill to segregate by biological sex Feb 1, 2025 Andrew Carnegie Foundation: What Would It Take for Politicians to Find Common Ground?
+One State House Tries an Experiment October 10, 2024 NH lawmakers uphold Sununu veto of transgender bathroom bill Jan 19, 2024 Abortion: House Judiciary Votes Against 15-Day Ban, Ties on Making Constitutional Right Jan 5, 2024 NH House passes bill that would ban gender-affirming surgery for minors Jun 23, 2023 Turer: SB 272 was a threat to LGBTQ+ students and school staff Nov 29, 2022 Recount results are unchanged after Ballot Law Commission meets No Change in House Winners After Ballot Law Commission Meets GOP retains control of New Hampshire State House with 1 race still unsettled Nov 18, 2022 Ballot counting to continue for two seats narrowly held by Democrats Scanlan: Some Recount Numbers Don’t Add Up, Some Ballots May Not Have Been Counted Brentwood NH House election result in doubt after 27 ballots are found Video Clips House Floor: Supporting Constitutional Amendment Guaranteeing Reproductive Freedom House Floor: Supporting Constitutional Amendment Establishing Right to Abortion Up To 24 Weeks House Floor: Parliamentary Inquiry Opposing Invasive Anti-Trans Sex Classification Bill House Floor : Upholding Governor’s Veto of Invasive Anti-Trans Sex Classification Bill Addiction Help Video Running In All NH State Liquor Stores as a result of Eric’s HB1621 NHPR - The Middle with Jeremy Hobson, “What’s At Stake For You In This Election” (38:45) Reducing Partisanship The political divisions are killing our communities and families.
 Many scoff at the problem, but Eric has been taking action.
 He invited the Braver Angels to Brentwood for a first of it's kind community training on disagreeing constructively.
-He is also a founding member and current co-Chair of the nation's first Legislative Caucus based on these principles, The Granite Bridge Legislative Alliance (GBLA), which has attracted participation by many House members of all political persuasions.
+He is also a founding member and current co-Chair of the nation's first Legislative Caucus based on these principles, The Granite Bridge Legislative Alliance (GBLA) , which has attracted participation by many House members of all political persuasions.
+Home ‍ ‍ Why Eric ‍ ‍ Eric in Action ‍ ‍ Issues ‍ ‍ Voter Info ‍ ‍ Contact ‍ ‍ Get a Yard Sign State Representative for Rockingham District 6 Paid for by The Committee to Elect Eric Turer, Roger Goun - Fiscal Agent

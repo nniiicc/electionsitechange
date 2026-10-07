@@ -1,8 +1,30 @@
 [
-"https://impact-ky.com/",
-"https://rachelroarx.com/",
-"https://rachelroarx.com/endorsements",
-"https://rachelroarx.com/issues",
-"https://rachelroarx.com/vote",
-"https://secure.actblue.com/entity/fundraisers/131816"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/entity/fundraisers/131816"
+},
+{
+"text": "Endorsements",
+"href": "https://rachelroarx.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://rachelroarx.com/"
+},
+{
+"text": "Impact Kentucky",
+"href": "https://impact-ky.com/"
+},
+{
+"text": "Issues",
+"href": "https://rachelroarx.com/issues"
+},
+{
+"text": "Voting Information",
+"href": "https://rachelroarx.com/vote"
+},
+{
+"text": "[image] [image]",
+"href": "https://rachelroarx.com/"
+}
 ]

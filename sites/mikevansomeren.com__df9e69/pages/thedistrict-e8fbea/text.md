@@ -1,7 +1,5 @@
-I’m running to represent Wisconsin's
-33rd STATE Senate District.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate I’m running to represent Wisconsin's 33rd STATE Senate District.
 This district includes much of western Waukesha County and portions of Jefferson, Dodge, and Washington Counties, including communities like Delafield, Oconomowoc, Hartland, Sussex, Ashippun, Wales, Hartford, Eagle, and North Prairie.
 Not sure whether you're in the district?
-Use Wisconsin's district lookup tool to find your State Senate district:
-Whether you live in District 33 or not, I'd still love to hear from you.
-The issues facing Wisconsin families don't stop at district lines.
+Use Wisconsin's district lookup tool to find your State Senate district: Find Your District Whether you live in District 33 or not, I'd still love to hear from you.
+The issues facing Wisconsin families don't stop at district lines. info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

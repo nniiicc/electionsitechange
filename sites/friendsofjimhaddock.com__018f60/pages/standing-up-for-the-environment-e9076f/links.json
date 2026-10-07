@@ -1,16 +1,86 @@
 [
-"http://url/",
-"https://facebook.com/jimhaddockforstaterep",
-"https://friendsofjimhaddock.com/",
-"https://friendsofjimhaddock.com/about-jim",
-"https://friendsofjimhaddock.com/education",
-"https://friendsofjimhaddock.com/fighting-for-hardworking-pennsylvanians",
-"https://friendsofjimhaddock.com/get-involved",
-"https://friendsofjimhaddock.com/issues",
-"https://friendsofjimhaddock.com/standing-up-for-our-community",
-"https://friendsofjimhaddock.com/standing-up-for-the-environment",
-"https://friendsofjimhaddock.com/upcoming-events",
-"https://friendsofjimhaddock.com/womens-rights",
-"https://secure.actblue.com/donate/friends-of-jim-haddock-1",
-"https://twitter.com/Haddock4Pa"
+{
+"text": "0",
+"href": "https://friendsofjimhaddock.com"
+},
+{
+"text": "About Jim",
+"href": "https://friendsofjimhaddock.com/about-jim/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-jim-haddock-1"
+},
+{
+"text": "Education",
+"href": "https://friendsofjimhaddock.com/education/"
+},
+{
+"text": "Fighting for Hardworking Pennsylvanians",
+"href": "https://friendsofjimhaddock.com/fighting-for-hardworking-pennsylvanians/"
+},
+{
+"text": "Get Involved",
+"href": "https://friendsofjimhaddock.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://friendsofjimhaddock.com/"
+},
+{
+"text": "Issues",
+"href": "https://friendsofjimhaddock.com/issues/"
+},
+{
+"text": "Return to shop",
+"href": "https://friendsofjimhaddock.com"
+},
+{
+"text": "Standing Up for Our Community",
+"href": "https://friendsofjimhaddock.com/standing-up-for-our-community/"
+},
+{
+"text": "Standing Up for the Environment",
+"href": "https://friendsofjimhaddock.com/standing-up-for-the-environment/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://friendsofjimhaddock.com/upcoming-events/"
+},
+{
+"text": "Women’s Rights",
+"href": "https://friendsofjimhaddock.com/womens-rights/"
+},
+{
+"text": "[image: friendsofjimhaddock.com][image: friendsofjimhaddock.com]",
+"href": "https://friendsofjimhaddock.com/"
+},
+{
+"text": "[tooltip: Follow on Facebook]",
+"href": "http://url"
+},
+{
+"text": "[tooltip: Follow on Facebook]",
+"href": "https://www.facebook.com/jimhaddockforstaterep"
+},
+{
+"text": "[tooltip: Follow on Instagram]",
+"href": "http://url"
+},
+{
+"text": "[tooltip: Follow on Twitter]",
+"href": "http://url"
+},
+{
+"text": "[tooltip: Follow on Twitter]",
+"href": "https://twitter.com/Haddock4Pa"
+},
+{
+"text": "[tooltip: Send us an email]",
+"href": "mailto:friendsofjimhaddock@gmail.com"
+},
+{
+"text": "[tooltip: Send us an email]",
+"href": "mailto:your@email"
+}
 ]

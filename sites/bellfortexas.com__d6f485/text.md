@@ -1,5 +1,3 @@
-Family man, successful businessman, rancher –
-and a strong conservative
-"We need strong leadership with a record of success, committed to growth and conservative values.
-I will bring results as your state representative."
-– Keith Bell
+Toggle navigation Home Meet Keith Issues Get Involved Endorsements Donate Join Our Team First Name * Last Name * Email Address * Zip Code * I'm with Keith » Contribute Now Get Involved Endorse Keith Like Keith Family man, successful businessman, rancher – and a strong conservative "We need strong leadership with a record of success, committed to growth and conservative values.
+I will bring results as your state representative." – Keith Bell Get to Know Keith As our next state representative, Keith Bell will apply his conservative values, successful business skills and extensive public education knowledge to address skyrocketing property taxes, protect private property from forced annexation, and act as champion for our local public schools so our kids get the high-quality resources they need.
+Meet Keith » On the Issues Balance the Budget Ensure Property Tax Relief Strengthen Public Schools Secure the Border Protect Our Property Defend Second Amendment Protect Innocent Life Cut Regulation & Create Jobs Learn More » Home Meet Keith Issues Get Involved Endorsements Donate Political ad paid for by Keith Bell Campaign Contact the Keith Bell Campaign at [email protected] PO Box 1178 Forney, TX 75126 Privacy Policy

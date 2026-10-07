@@ -1,9 +1,6 @@
-Why the August 11 primary is important
-For voters in the Chittenden Central Senate District, the August primary election is the election that matters most.
-Read More …
-This month, we are highlighting our work to ban Paraquat, a pesticide that is heavily linked to Parkinson’s disease.
-Read More …
-As the primary approaches this August 11th, it is important to remember what is at stake.
-Read More …
-Attempting a fix to the system, when the undergirding is still shaky, and the very structure is riddled with inequality will be a challenge.
-Read More …
+Home Priorities Martine Legislation Endorsements Events Contact DONATE Menu Martine Laroque Gulick for Vermont State Senate Menu Secondary Menu Skip to content Home Priorities Martine Legislation Endorsements Events Contact DONATE Author: Steve Why the August 11 primary is important Posted on July 9, 2026 July 9, 2026 Author Steve For voters in the Chittenden Central Senate District, the August primary election is the election that matters most.
+Read More … Categories Uncategorized June Action Call ft.
+Senator Martine Gulick Posted on June 19, 2026 July 9, 2026 Author Steve This month, we are highlighting our work to ban Paraquat, a pesticide that is heavily linked to Parkinson’s disease.
+Read More … Categories Uncategorized Work From The Past Biennium Posted on June 19, 2026 June 19, 2026 Author Steve As the primary approaches this August 11th, it is important to remember what is at stake.
+Read More … Categories Uncategorized Campaign Kickoff Posted on June 10, 2026 July 7, 2026 Author Steve Categories Events A Step Toward Education Reform Posted on June 10, 2026 June 19, 2026 Author Steve Attempting a fix to the system, when the undergirding is still shaky, and the very structure is riddled with inequality will be a challenge.
+Read More … Categories Uncategorized DONATE Georgia Lavigne, Treasurer PO Box 3359 Burlington, VT 05408 ©# Martine Gulick for State Senate Instagram Facebook Scroll Up Home 2024 End of Session Report Contact Education Reform and Act 73 School Redistricting Endorsements Events Healthcare Reform Legislative Updates Meet Martine Priorities Home Priorities Martine Legislation Endorsements Events Contact DONATE

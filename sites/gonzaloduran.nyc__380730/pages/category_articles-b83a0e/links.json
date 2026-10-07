@@ -1,44 +1,258 @@
 [
-"https://facebook.com/gonzalodurannyc",
-"https://gonzaloduran.nyc/",
-"https://gonzaloduran.nyc/animal-issues",
-"https://gonzaloduran.nyc/burn-pit-has-heart",
-"https://gonzaloduran.nyc/category/articles",
-"https://gonzaloduran.nyc/category/articles/page/10",
-"https://gonzaloduran.nyc/category/articles/page/2",
-"https://gonzaloduran.nyc/category/event-photos",
-"https://gonzaloduran.nyc/category/gonzalo-in-the-press",
-"https://gonzaloduran.nyc/category/press-release",
-"https://gonzaloduran.nyc/category/videos",
-"https://gonzaloduran.nyc/civil-engagement",
-"https://gonzaloduran.nyc/contact",
-"https://gonzaloduran.nyc/contribute",
-"https://gonzaloduran.nyc/education",
-"https://gonzaloduran.nyc/election-2026-gonzalo-duran-announces-ballot-access",
-"https://gonzaloduran.nyc/employment",
-"https://gonzaloduran.nyc/environment",
-"https://gonzaloduran.nyc/events",
-"https://gonzaloduran.nyc/gonzalo-duran-autobiography",
-"https://gonzaloduran.nyc/gonzalo-duran-endorses-edward-lee-for-nys-assembly-district-36",
-"https://gonzaloduran.nyc/gonzalo-duran-endorses-james-washington-ward-for-ny-assembly-83",
-"https://gonzaloduran.nyc/health",
-"https://gonzaloduran.nyc/housing",
-"https://gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website",
-"https://gonzaloduran.nyc/safety",
-"https://gonzaloduran.nyc/seeking-gonzalo-durans-endorsement",
-"https://gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23",
-"https://gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot",
-"https://gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop",
-"https://gonzaloduran.nyc/transportation",
-"https://gonzaloduran.nyc/united-alliance-party-announces-independent-petition-support",
-"https://gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14",
-"https://gonzaloduran.nyc/veterans",
-"https://gonzaloduran.nyc/volunteer",
-"https://gonzalodurannyc.tumblr.com/",
-"https://instagram.com/gonzalodurannyc",
-"https://linkedin.com/in/gonzalodurannyc",
-"https://pinterest.com/gonzalodurannyc",
-"https://twitter.com/gonzalodurannyc",
-"https://wordpress.org/",
-"https://youtube.com/user/@gonzalodurannyc"
+{
+"text": "Animal Issues",
+"href": "https://www.gonzaloduran.nyc/animal-issues/"
+},
+{
+"text": "April 10, 2026April 10, 2026",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-announces-independent-petition-support/"
+},
+{
+"text": "April 12, 2026April 25, 2026",
+"href": "https://www.gonzaloduran.nyc/election-2026-gonzalo-duran-announces-ballot-access/"
+},
+{
+"text": "April 13, 2026April 13, 2026",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14/"
+},
+{
+"text": "April 21, 2026April 21, 2026",
+"href": "https://www.gonzaloduran.nyc/seeking-gonzalo-durans-endorsement/"
+},
+{
+"text": "April 28, 2026April 28, 2026",
+"href": "https://www.gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website/"
+},
+{
+"text": "April 29, 2026April 29, 2026",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "Articles",
+"href": "https://www.gonzaloduran.nyc/category/articles/"
+},
+{
+"text": "Autobiography",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-autobiography/"
+},
+{
+"text": "Burn Pits – Has Heart",
+"href": "https://www.gonzaloduran.nyc/burn-pit-has-heart/"
+},
+{
+"text": "Civil Engagement",
+"href": "https://www.gonzaloduran.nyc/civil-engagement/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gonzaloduran.nyc/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.gonzaloduran.nyc/contribute/"
+},
+{
+"text": "Education",
+"href": "https://www.gonzaloduran.nyc/education/"
+},
+{
+"text": "Election 2026: Gonzalo Duran Announces Ballot Access",
+"href": "https://www.gonzaloduran.nyc/election-2026-gonzalo-duran-announces-ballot-access/"
+},
+{
+"text": "Employment",
+"href": "https://www.gonzaloduran.nyc/employment/"
+},
+{
+"text": "Environment",
+"href": "https://www.gonzaloduran.nyc/environment/"
+},
+{
+"text": "Event Photos",
+"href": "https://www.gonzaloduran.nyc/category/event-photos/"
+},
+{
+"text": "Gonzalo Duran",
+"href": "https://www.gonzaloduran.nyc/"
+},
+{
+"text": "Gonzalo Duran Endorses Edward Lee for NYS Assembly District 36",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-endorses-edward-lee-for-nys-assembly-district-36/"
+},
+{
+"text": "Gonzalo Duran Endorses James Washington-Ward for NY Assembly 83",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-endorses-james-washington-ward-for-ny-assembly-83/"
+},
+{
+"text": "Gonzalo In The Press",
+"href": "https://www.gonzaloduran.nyc/category/gonzalo-in-the-press/"
+},
+{
+"text": "Health",
+"href": "https://www.gonzaloduran.nyc/health/"
+},
+{
+"text": "Housing",
+"href": "https://www.gonzaloduran.nyc/housing/"
+},
+{
+"text": "June 22, 2026June 22, 2026",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "Library of Congress Archives Gonzalo Duran’s Website",
+"href": "https://www.gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website/"
+},
+{
+"text": "March 23, 2026March 22, 2026",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-endorses-edward-lee-for-nys-assembly-district-36/"
+},
+{
+"text": "March 25, 2026March 25, 2026",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-endorses-james-washington-ward-for-ny-assembly-83/"
+},
+{
+"text": "May 7, 2026May 7, 2026",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "Next page",
+"href": "https://www.gonzaloduran.nyc/category/articles/page/2/"
+},
+{
+"text": "Page 10",
+"href": "https://www.gonzaloduran.nyc/category/articles/page/10/"
+},
+{
+"text": "Page 2",
+"href": "https://www.gonzaloduran.nyc/category/articles/page/2/"
+},
+{
+"text": "Press Release",
+"href": "https://www.gonzaloduran.nyc/category/press-release/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Safety",
+"href": "https://www.gonzaloduran.nyc/safety/"
+},
+{
+"text": "Scheduled Events",
+"href": "https://www.gonzaloduran.nyc/events/"
+},
+{
+"text": "Seeking Gonzalo Duran’s Endorsement",
+"href": "https://www.gonzaloduran.nyc/seeking-gonzalo-durans-endorsement/"
+},
+{
+"text": "Shery Olivo Secures Her Place on the Bronx Republican Ballot",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "Shery Olivo for the Republican NYS Assembly District 86: Vote June 23",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "Statement on Leadership & Coordination Failures in the Bronx GOP",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "Transportation",
+"href": "https://www.gonzaloduran.nyc/transportation/"
+},
+{
+"text": "United Alliance Party Announces Independent Petition Support",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-announces-independent-petition-support/"
+},
+{
+"text": "United Alliance Party Begins Independent Petitioning on April 14",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14/"
+},
+{
+"text": "Veterans",
+"href": "https://www.gonzaloduran.nyc/veterans/"
+},
+{
+"text": "Videos",
+"href": "https://www.gonzaloduran.nyc/category/videos/"
+},
+{
+"text": "View @gonzalodurannyc’s profile on YouTube",
+"href": "https://www.youtube.com/user/@gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Facebook",
+"href": "https://www.facebook.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Instagram",
+"href": "https://www.instagram.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on LinkedIn",
+"href": "https://www.linkedin.com/in/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Pinterest",
+"href": "https://www.pinterest.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Tumblr",
+"href": "https://gonzalodurannyc.tumblr.com"
+},
+{
+"text": "View gonzalodurannyc’s profile on Twitter",
+"href": "https://twitter.com/gonzalodurannyc/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gonzaloduran.nyc/volunteer/"
+},
+{
+"text": "[image: Gonzalo Duran Endorses Edward Lee for New York State Assembly 36]",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-endorses-edward-lee-for-nys-assembly-district-36/"
+},
+{
+"text": "[image: Gonzalo Duran for Election 2026]",
+"href": "https://www.gonzaloduran.nyc/election-2026-gonzalo-duran-announces-ballot-access/"
+},
+{
+"text": "[image: Gonzalo Duran for New York Congressional District 15 Logo Endorsement]",
+"href": "https://www.gonzaloduran.nyc/seeking-gonzalo-durans-endorsement/"
+},
+{
+"text": "[image: Gonzalo Duran]",
+"href": "https://www.gonzaloduran.nyc/"
+},
+{
+"text": "[image: James Washington-Ward, District Leader for the 83rd Assembly District]",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-endorses-james-washington-ward-for-ny-assembly-83/"
+},
+{
+"text": "[image: Library of Congress Archiving Gonzalo Duran's Website]",
+"href": "https://www.gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website/"
+},
+{
+"text": "[image: Political Pins]",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "[image: Shery Olivo and Gonzalo Duran]",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "[image: Shery Olivo]",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "[image: The United Alliance Party]",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-announces-independent-petition-support/"
+},
+{
+"text": "[image: The United Alliance Party]",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14/"
+}
 ]

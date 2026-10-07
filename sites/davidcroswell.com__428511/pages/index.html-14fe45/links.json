@@ -1,8 +1,38 @@
 [
-"https://davidcroswell.com/donate.html",
-"https://davidcroswell.com/meet-david.html",
-"https://davidcroswell.com/podcasts.html",
-"https://davidcroswell.com/priorities.html",
-"https://davidcroswell.com/volunteer.html",
-"https://secure.anedot.com/friends-of-david-croswell/support"
+{
+"text": "Donate",
+"href": "https://davidcroswell.com/donate.html"
+},
+{
+"text": "Listen to podcasts",
+"href": "https://davidcroswell.com/podcasts.html"
+},
+{
+"text": "Meet David",
+"href": "https://davidcroswell.com/meet-david.html"
+},
+{
+"text": "Podcasts",
+"href": "https://davidcroswell.com/podcasts.html"
+},
+{
+"text": "Priorities",
+"href": "https://davidcroswell.com/priorities.html"
+},
+{
+"text": "Read the detailed priorities",
+"href": "https://davidcroswell.com/priorities.html"
+},
+{
+"text": "Read the plan",
+"href": "https://davidcroswell.com/priorities.html"
+},
+{
+"text": "Volunteer",
+"href": "https://davidcroswell.com/volunteer.html"
+},
+{
+"text": "secure Anedot donation link",
+"href": "https://secure.anedot.com/friends-of-david-croswell/support"
+}
 ]

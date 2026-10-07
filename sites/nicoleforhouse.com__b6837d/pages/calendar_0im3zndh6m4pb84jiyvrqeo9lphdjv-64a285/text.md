@@ -1,18 +1,9 @@
-Back to All Events
-Champagne & Chocolate with the Pennington County Democratic Party
-Join the Pennington County Democratic Party for an evening of community, conversation, and indulgence at Champagne & Chocolate.
-This event welcomes all who want to connect with fellow Democrats and supporters while enjoying a delightful pairing of bubbly and sweets.
-📅 Friday, February 7
-⏰ 5:30 – 7:30 PM
-📍 Prairie Edge, 606 Main St, Rapid City
-💰 $25 Suggested Donation
-Come raise a glass, enjoy some chocolate, and support the local Democratic movement.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events Champagne and Chocolate Friday, February 7, 2025 5:30 PM 7:30 PM Prairie Edge Trading Co & Galleries 606 Main St Rapid City, SD, 57701 United States (map) Google Calendar ICS Champagne & Chocolate with the Pennington County Democratic Party Join the Pennington County Democratic Party for an evening of community, conversation, and indulgence at Champagne & Chocolate.
+This event welcomes all who want to connect with fellow Democrats and supporters while enjoying a delightful pairing of bubbly and sweets. 📅 Friday, February 7 ⏰ 5:30 – 7:30 PM 📍 Prairie Edge, 606 Main St, Rapid City 💰 $# Suggested Donation Come raise a glass, enjoy some chocolate, and support the local Democratic movement.
 We look forward to seeing you there!
 Paid for by the Pennington County Democratic Party (penningtoncountydemocrats.com) and not authorized by any candidate or candidate's committee.
-Previous
-Previous
-November 5
-Election Night Watch Party at the Dahl Arts Center
-Next
-Next
-February 10
+RSVP using the Facebook event → View fullsize Tagged: 2025 Previous Previous November 5 Election Night Watch Party at the Dahl Arts Center Next Next February 10 House Education Committee Agenda Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

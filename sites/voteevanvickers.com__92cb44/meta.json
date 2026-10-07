@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://voteevanvickers.com/",
- "paid_for_by": "Paid for by the Committee to Elect Evan Vickers Copyright 2022",
+ "fingerprint": "b56e40dd41d45fa81e55dabfd3282350e6f61050",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Evan Vickers Copyright #",
  "title": "Evan Vickers",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2026"
+ ]
 }

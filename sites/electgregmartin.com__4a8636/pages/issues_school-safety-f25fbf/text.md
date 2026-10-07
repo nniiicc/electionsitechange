@@ -1,4 +1,6 @@
-School Safety
-Since 2018 the Tennessee General Assembly has invested $750 million into school safety.
+Skip to content Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE Home About Issues Volunteer News Home About Issues Volunteer News DONATE DONATE Issues The Facts On Greg Taxes Public Safety Education School Safety Immigration School Safety Since 2018 the Tennessee General Assembly has invested $750 million into school safety.
 That includes a school resource officer for every Tennessee public school and charter school and a homeland security officer in all 95 counties.
-I promise you and my wife, who was a public school teacher, that I’m going to do everything I can to protect the most valuable so they aren’t the most vulnerable in our society.
+I promise you and my wife, who was a public school teacher , that I’m going to do everything I can to protect the most valuable so they aren’t the most vulnerable in our society.
+Join Team Greg Martin Volunteer Join Team Greg Martin Volunteer The Facts on Greg Taxes Public Safety School Safety Immigration Education Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Home About Issues Volunteer News Contact: info@ElectGregMartin.com (423) 596-7338 © Copyright # Committee to Elect Greg Martin.
+All rights reserved.
+The Committee to Elect Greg Martin | Fred Decosimo, Treasurer Facebook Instagram X-twitter Youtube Home About Issues Volunteer News Home About Issues Volunteer News DONATE Facebook Instagram X-twitter Youtube Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

@@ -1,5 +1,4 @@
-To My District 24 Neighbors:
-There has been a lot of talk about the state budget this month.
+Skip to main content Bruce Bannister bruce@brucebannister.com Facebook Instagram Home About Bruce Issues Updates Home About Bruce Issues Updates Donate Now State Budget Update Home / Budget / State Budget Update July 17, 2026 Budget , News To My District 24 Neighbors: There has been a lot of talk about the state budget this month.
 Truth be told, I thought the budget would be finished by now.
 The House has worked hard to address the Senate’s concerns.
 We have negotiated in good faith.
@@ -25,14 +24,10 @@ The final few percent is always a sticking point.
 We’ll get through it, and I will do my best to ensure this doesn’t happen again in the future.
 Thank you for taking the time to read this.
 Have a great rest of your summer as the clock ticks down to the start of the school year in a few weeks!
-Bruce Bannister
-S.C.
-House of Representatives – District 24
-Gower-Augusta Road-Alta Vista-Hollingsworth Park-Mauldin
-brucebannister@schouse.gov (official email)
-bruce@brucebannister.com (campaign email)
-Statehouse Phone: (803) 734-3144
-Keep up with the SC House Republican Caucus:
-https://www.facebook.com/SCHouseGOP
-https://twitter.com/SCHouseGOP
-https://www.schousegop.com
+Bruce Bannister S.C.
+House of Representatives – District 24 Gower-Augusta Road-Alta Vista-Hollingsworth Park-Mauldin brucebannister@schouse.gov (official email) bruce@brucebannister.com (campaign email) Statehouse Phone: (803) 734-3144 Keep up with the SC House Republican Caucus: https://www.facebook.com/SCHouseGOP https://twitter.com/SCHouseGOP https://www.schousegop.com Prev Promises Made.
+Promises Kept.
+Share Via Facebook X LinkedIn Recent Posts Election 2026 Campaign Kickoff August 13, 2026 Budget Promises Made.
+Promises Kept.
+May 26, 2026 Legislation Racking Up Wins In The Final Days May 11, 2026 Categories News Legislation Election Budget About Us About Bruce Issues Contact Us P.O.
+Box 1828 Greenville, SC 29602 Donate Now Copyright © # Bruce Bannister for State House Design, Development, & Hosting by Uncle Jake Media

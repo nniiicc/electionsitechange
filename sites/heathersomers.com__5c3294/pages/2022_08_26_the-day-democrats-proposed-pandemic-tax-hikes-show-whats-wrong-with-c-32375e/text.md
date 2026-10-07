@@ -1,8 +1,5 @@
-The Day: Democrats’ Proposed Pandemic Tax Hikes Show What’s Wrong with Connecticut
-Sen.
-Heather Somers
-January 29, 2021
-I first decided to run for local office because I saw first-hand the punitive nature of the property tax in Connecticut.
+Home About Heather Issues & Record News Donate SMS Opt-In The Day: Democrats’ Proposed Pandemic Tax Hikes Show What’s Wrong with Connecticut Posted on August 26, 2022 by Heather Somers The Day: Democrats’ Proposed Pandemic Tax Hikes Show What’s Wrong with Connecticut Sen.
+Heather Somers January 29, 2021 I first decided to run for local office because I saw first-hand the punitive nature of the property tax in Connecticut.
 I saw my friends’ parents, people who had given their entire lives to our communities, being forced out of their homes.
 Community members that have paid taxes for years, coached our Little League teams, volunteered for our schools and charities forced to sell their lifetime homes because of unrealized increases in property value and an out-of-control tax climate in our state.
 For the most vulnerable among us, particularly seniors living on a fixed income, the property tax is a burden that too often reduces quality of life, forces people from their homes or, for those with the means to leave, forces people to leave Connecticut.
@@ -32,3 +29,6 @@ These Democratic leaders should condemn the Looney plan.
 Those who won’t either support it or lack the courage to stand up for the citizens of Connecticut.
 Heather Somers represents the 18th District, consisting of Griswold, Groton, North Stonington, Plainfield, Preston, Sterling, Stonington and Voluntown.
 She is a Republican.
+Delivering Results.
+Challenging the Status Quo.
+Paid for by Somers for Senate, Constantine Antipas Treasurer, Approved by Heather Somers

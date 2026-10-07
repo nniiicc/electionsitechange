@@ -1,28 +1,170 @@
 [
-"https://facebook.com/VoteSheriBiggs",
-"https://instagram.com/votesheribiggs",
-"https://irp.cdn-website.com/a9d7b90b/files/uploaded/Sheri_Biggs_Official_Headshot.JPG",
-"https://secure.winred.com/votesheribiggs/donate",
-"https://sheribiggs.com/",
-"https://sheribiggs.com/about",
-"https://sheribiggs.com/biggsannouncescandidacy",
-"https://sheribiggs.com/biggsbreaksfundraisingrecord",
-"https://sheribiggs.com/biggscallsburnsafraud",
-"https://sheribiggs.com/biggslaunchesfirsttvad",
-"https://sheribiggs.com/biggslaunchesnewtvad",
-"https://sheribiggs.com/biggssecuresrunoffposition",
-"https://sheribiggs.com/biggsstatementontrumpverdict",
-"https://sheribiggs.com/biggswinsgopnomination",
-"https://sheribiggs.com/borderwartvad",
-"https://sheribiggs.com/get-involved",
-"https://sheribiggs.com/governorhenrymcmasterendorsement",
-"https://sheribiggs.com/issues",
-"https://sheribiggs.com/news",
-"https://sheribiggs.com/privacy-policy",
-"https://sheribiggs.com/sheribiggsofficiallyfiles",
-"https://sheribiggs.com/sheriffrowlandendorsement",
-"https://sheribiggs.com/sheriffsendorsesheribiggs",
-"https://sheribiggs.com/veteranscoalitionlaunch",
-"https://twitter.com/VoteSheriBiggs",
-"https://youtube.com/@votesheribiggs"
+{
+"text": "ABOUT",
+"href": "https://www.sheribiggs.com/about"
+},
+{
+"text": "After Debate Win, Sheri Biggs Demands Burns Confess the Truth",
+"href": "https://www.sheribiggs.com/biggscallsburnsafraud"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/votesheribiggs/donate"
+},
+{
+"text": "Edgefield County Sheriff Jody Rowland Endorses Sheri Biggs for Congress",
+"href": "https://www.sheribiggs.com/sheriffrowlandendorsement"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sheribiggs.com/get-involved"
+},
+{
+"text": "Governor Henry McMaster Endorses Sheri Biggs for Congress",
+"href": "https://www.sheribiggs.com/governorhenrymcmasterendorsement"
+},
+{
+"text": "HOME",
+"href": "https://www.sheribiggs.com/"
+},
+{
+"text": "Lieutenant Colonel, Board Certified Family Nurse Practitioner, and Board Certified Psychiatric Mental Health Nurse Practitioner Sheri Biggs Announces Candidacy for South Carolina’s Third Congressional District",
+"href": "https://www.sheribiggs.com/biggsannouncescandidacy"
+},
+{
+"text": "NEWS",
+"href": "https://www.sheribiggs.com/news"
+},
+{
+"text": "Over 100 Veterans Launch Coalition in Support of Sheri Biggs in South Carolina’s Third Congressional District",
+"href": "https://www.sheribiggs.com/veteranscoalitionlaunch"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.sheribiggs.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sheribiggs.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggsannouncescandidacy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggsbreaksfundraisingrecord"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggscallsburnsafraud"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggslaunchesfirsttvad"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggslaunchesnewtvad"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggssecuresrunoffposition"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggsstatementontrumpverdict"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/biggswinsgopnomination"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/borderwartvad"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/governorhenrymcmasterendorsement"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/sheribiggsofficiallyfiles"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/sheriffrowlandendorsement"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/sheriffsendorsesheribiggs"
+},
+{
+"text": "READ MORE",
+"href": "https://www.sheribiggs.com/veteranscoalitionlaunch"
+},
+{
+"text": "Seven Sheriffs in SC03 Endorse Sheri Biggs for Congress",
+"href": "https://www.sheribiggs.com/sheriffsendorsesheribiggs"
+},
+{
+"text": "Sheri Biggs Announces Record-Breaking Haul in SC's 3rd Congressional District Race",
+"href": "https://www.sheribiggs.com/biggsbreaksfundraisingrecord"
+},
+{
+"text": "Sheri Biggs Issues Statement on President Trump Trail Verdict",
+"href": "https://www.sheribiggs.com/biggsstatementontrumpverdict"
+},
+{
+"text": "Sheri Biggs Launches First TV Ad",
+"href": "https://www.sheribiggs.com/biggslaunchesfirsttvad"
+},
+{
+"text": "Sheri Biggs Launches New TV Ad",
+"href": "https://www.sheribiggs.com/biggslaunchesnewtvad"
+},
+{
+"text": "Sheri Biggs Officially Files for SC's 3rd Congressional District",
+"href": "https://www.sheribiggs.com/sheribiggsofficiallyfiles"
+},
+{
+"text": "Sheri Biggs Secures Runoff Position in SC-03 Race",
+"href": "https://www.sheribiggs.com/biggssecuresrunoffposition"
+},
+{
+"text": "Sheri Biggs Wins Republican Nomination in SC-03",
+"href": "https://www.sheribiggs.com/biggswinsgopnomination"
+},
+{
+"text": "[image]",
+"href": "https://www.sheribiggs.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteSheriBiggs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteSheriBiggs"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesheribiggs"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesheribiggs"
+},
+{
+"text": "here",
+"href": "https://irp.cdn-website.com/a9d7b90b/files/uploaded/Sheri_Biggs_Official_Headshot.JPG"
+},
+{
+"text": "press@sheribiggs.com",
+"href": "mailto:press@sheribiggs.com"
+},
+{
+"text": "“Border War” Focus of New Sheri Biggs TV Ad in South Carolina’s Third Congressional District Race",
+"href": "https://www.sheribiggs.com/borderwartvad"
+}
 ]

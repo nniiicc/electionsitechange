@@ -1,2 +1,4 @@
-Moscow-Pullman Daily News Washington Senate unanimously passes anti-hazing bill March 4, 2022 Bill drafted in response to the death of a WSU student moves to Gov.
-Inslee for final approval Read More
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact Moscow-Pullman Daily News Washington Senate unanimously passes anti-hazing bill March 4, 2022 Bill drafted in response to the death of a WSU student moves to Gov.
+Inslee for final approval Related reading on marileavitt.com More on public health and student safety legislation: 890 assaults against staff, 9 months, 1 hospital.
+That’s… More on public health and student safety legislation: ‘I miss Sam every day’: Sam Martinez’s mother reacts as Inslee… More on public health and student safety legislation: Inslee signs law intended to reduce hazing incidents after WSU… More on public health and student safety legislation: Senate Committee Passes Leavitt Bill Addressing Controlled… For official reference, see Washington State Department of Health and Office of the Governor of Washington .
+Read More « Previous: Lakewood Receives $3.7 Million For Quality Of Life Projects » Next: ‘I miss Sam every day’: Sam Martinez’s mother reacts as Inslee signs Sam’s Law into effect

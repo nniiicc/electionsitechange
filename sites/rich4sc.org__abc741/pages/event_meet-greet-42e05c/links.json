@@ -1,14 +1,62 @@
 [
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260915T173000%2F20260915T190000&text=Meet+%26%23038%3B+Greet&details=%3Ch3%3EDetails+TBA%3C%2Fh3%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Frich4sc.org",
-"https://instagram.com/rich4sc",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-15T17%3A30%3A00-04%3A00&enddt=2026-09-15T19%3A00%3A00-04%3A00&subject=Meet+%26+Greet&body=Details+TBA",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-15T17%3A30%3A00-04%3A00&enddt=2026-09-15T19%3A00%3A00-04%3A00&subject=Meet+%26+Greet&body=Details+TBA",
-"https://rich4sc.org/",
-"https://rich4sc.org/about",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/event/candidate-happy-hour",
-"https://rich4sc.org/event/eastside-dems-gvl-mtg",
-"https://rich4sc.org/events"
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Eastside Dems GVL Mtg »",
+"href": "https://rich4sc.org/event/eastside-dems-gvl-mtg/"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260915T173000%2F20260915T190000&text=Meet+%26%23038%3B+Greet&details=%3Ch3%3EDetails+TBA%3C%2Fh3%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Frich4sc.org"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A30%3A00-04%3A00&enddt=%23T19%3A00%3A00-04%3A00&location=&subject=Meet+%26+Greet&body=Details+TBA"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A30%3A00-04%3A00&enddt=%23T19%3A00%3A00-04%3A00&location=&subject=Meet+%26+Greet&body=Details+TBA"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rich4sc.org/event/meet-greet/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "« Candidate Happy Hour",
+"href": "https://rich4sc.org/event/candidate-happy-hour/"
+}
 ]

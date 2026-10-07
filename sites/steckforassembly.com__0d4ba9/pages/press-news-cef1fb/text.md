@@ -1,41 +1,16 @@
-In the News
-Just how different are the Democrats and the Democratic Socialists?
-Times Union | September 8, 2026
-"At the end of the day, if Democrats adhered to the principles on which the modern party was founded, there would be no need for DSA.”
-Environmental Advocates NY releases 2026 legislative scorecard following disastrous climate rollback
-Environmental Advocates NY | August 17, 2026
-Environmental Advocates NY’s 2026 Legislative Scorecard ranked Assemblymember Phil Steck second among the 150 members of the New York State Assembly based on his environmental advocacy, including his opposition to changes that weakened New York’s climate law.
-State funds rescue Colonie senior transportation program, for now
-Times Union | July 23, 2026
-Assemblyman Phil Steck announced this week that he had secured $150,000 to sustain a door-to-door shuttle service for residents in CSSC facilities and other nonresident clients of the center.
+Skip to main content About The Issues Freedom from Economic Injustice Freedom from Addiction Freedom from Corruption and Waste Freedom from Criminal Violence Freedom of a Woman’s Right to Choose Freedom from Global Warming Get Involved Take Action & Volunteer Make a Donation In the News Endorsements DONATE About The Issues Freedom from Economic Injustice Freedom from Addiction Freedom from Corruption and Waste Freedom from Criminal Violence Freedom of a Woman’s Right to Choose Freedom from Global Warming Get Involved Take Action & Volunteer Make a Donation In the News Endorsements DONATE In the News Just how different are the Democrats and the Democratic Socialists?
+Times Union | September 8, 2026 "At the end of the day, if Democrats adhered to the principles on which the modern party was founded, there would be no need for DSA.” CONTINUE READING Make A Donation Take Action & Volunteer Send a Message to Phil Environmental Advocates NY releases 2026 legislative scorecard following disastrous climate rollback Environmental Advocates NY | August 17, 2026 Environmental Advocates NY’s 2026 Legislative Scorecard ranked Assemblymember Phil Steck second among the 150 members of the New York State Assembly based on his environmental advocacy, including his opposition to changes that weakened New York’s climate law.
+CONTINUE READING State funds rescue Colonie senior transportation program, for now Times Union | July 23, 2026 Assemblyman Phil Steck announced this week that he had secured $150,000 to sustain a door-to-door shuttle service for residents in CSSC facilities and other nonresident clients of the center.
 The Town Board voted to cut its contribution to the program last year to reallocate funds to the town’s own programming for seniors.
-Mohawk Hudson Humane Society gets $1.2M for new center
-WNYT NewsChannel 13 | July 14, 2026
-“State leaders announced $1.2 million for a Mohawk Hudson Humane Society expansion aimed at growing animal care, education and emergency support.”
-NYS Legislature agrees to ban on synthetic kratom products
-Newsday | June 10, 2026
-“New York lawmakers approved legislation to prohibit dangerous synthetic kratom products, advancing an effort supported by Assemblymember Phil Steck to protect consumers from highly concentrated substances.”
-New York families plea for state help to care for medically fragile children
-Spectrum News 1 | June 11, 2026
-“These severely disabled children are entitled to have private duty nursing paid for by the state in the Medicaid program,” said Steck.
+CONTINUE READING Mohawk Hudson Humane Society gets $1.2M for new center WNYT NewsChannel 13 | July 14, 2026 “State leaders announced $1.2 million for a Mohawk Hudson Humane Society expansion aimed at growing animal care, education and emergency support.” CONTINUE READING NYS Legislature agrees to ban on synthetic kratom products Newsday | June 10, 2026 “New York lawmakers approved legislation to prohibit dangerous synthetic kratom products, advancing an effort supported by Assemblymember Phil Steck to protect consumers from highly concentrated substances.” CONTINUE READING New York families plea for state help to care for medically fragile children Spectrum News 1 | June 11, 2026 “These severely disabled children are entitled to have private duty nursing paid for by the state in the Medicaid program,” said Steck.
 “However, there’s a shortage of private duty nurses available.
-So, you might be entitled to 80 hours private nursing and only get ten.”
-Advocates say the result is some parents are having to quit their jobs to care for their medically fragile children which is putting many of them in a financial bind.
-NYS Assemblymember Phil Steck (D-Colonie) Discusses Late Budget, Proposes Changes for Future
-CBS6 Albany | April 21, 2026
-New York State Assemblymember Phil Steck speaks with Tom Eschen about the 2026 legislative, much of which was taken up by the late NYS Budget.
-He says the Governor wields too much power in this process, and the legislature needs to take that powe
-New law bans agreements that trap workers into staying or paying to leave
-Spectrum News 1 | March 3, 2026
-“The idea is that if the employer is giving you what’s called a transferable credit, something that you can go and use somewhere else that has value, the employer has improved your value as an employee and would have a right to reimbursement,” said Steck.
-“In the absence of that, you can’t have employers bringing lawsuits against employees after they leave the company because most employees can’t possibly afford to defend such a thing even if they’re right.”
-New York Democrats Push to Bring Back State Tax on Stock Sales
-Bloomberg | April 23, 2025
-Assemblymember Phil Steck and other New York lawmakers renewed their push to reinstate the state’s stock transfer tax and direct the revenue toward pressing public needs.
-Commentary: Democrats need to return to being the party of FDR
-Times Union | April 14, 2025
-The idea that government cannot do anything right has been deeply ingrained in the American people by propaganda from billionaires and their allies.
+So, you might be entitled to 80 hours private nursing and only get ten.” Advocates say the result is some parents are having to quit their jobs to care for their medically fragile children which is putting many of them in a financial bind.
+CONTINUE READING NYS Assemblymember Phil Steck (D-Colonie) Discusses Late Budget, Proposes Changes for Future CBS6 Albany | April 21, 2026 New York State Assemblymember Phil Steck speaks with Tom Eschen about the 2026 legislative, much of which was taken up by the late NYS Budget.
+He says the Governor wields too much power in this process, and the legislature needs to take that powe CONTINUE READING New law bans agreements that trap workers into staying or paying to leave Spectrum News 1 | March 3, 2026 “The idea is that if the employer is giving you what’s called a transferable credit, something that you can go and use somewhere else that has value, the employer has improved your value as an employee and would have a right to reimbursement,” said Steck.
+“In the absence of that, you can’t have employers bringing lawsuits against employees after they leave the company because most employees can’t possibly afford to defend such a thing even if they’re right.” CONTINUE READING New York Democrats Push to Bring Back State Tax on Stock Sales Bloomberg | April 23, 2025 Assemblymember Phil Steck and other New York lawmakers renewed their push to reinstate the state’s stock transfer tax and direct the revenue toward pressing public needs.
+CONTINUE READING Commentary: Democrats need to return to being the party of FDR Times Union | April 14, 2025 The idea that government cannot do anything right has been deeply ingrained in the American people by propaganda from billionaires and their allies.
 But to stabilize this country, the Democratic Party must return to its Rooseveltian roots.
-Assemblyman Phil Steck bill aims to end subminimum wage pay for disabled workers
-The Daily Gazette | 2025
-“Assemblymember Phil Steck’s legislation would eliminate New York’s subminimum wage for workers with disabilities and affirm the principle of equal pay for equal work.”
+CONTINUE READING Assemblyman Phil Steck bill aims to end subminimum wage pay for disabled workers The Daily Gazette | 2025 “Assemblymember Phil Steck’s legislation would eliminate New York’s subminimum wage for workers with disabilities and affirm the principle of equal pay for equal work.” CONTINUE READING Quick Links Make a Donation Get Involved Contact Phil In the News Prefer to donate by check?
+Please make your check payable to Steck for Assembly 2026 and mail it to: Steck for Assembly 2026 P.O.
+Box 7123 Albany, NY 12224 Thank you for your support! © 2026 All rights reserved.
+Privacy Policy Paid for and authorized by Steck for Assembly 2026.

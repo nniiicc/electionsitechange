@@ -1,9 +1,38 @@
 [
-"https://caseysnider.com/",
-"https://caseysnider.com/contact-us",
-"https://caseysnider.com/donate",
-"https://caseysnider.com/experience",
-"https://caseysnider.com/issues",
-"https://caseysnider.com/request-a-free-sign",
-"https://facebook.com/Snider.Casey"
+{
+"text": "CSNIDER5@GMAIL.COM",
+"href": "mailto:CSNIDER5@GMAIL.COM"
+},
+{
+"text": "DONATE",
+"href": "https://www.caseysnider.com/donate"
+},
+{
+"text": "EXPERIENCE",
+"href": "https://www.caseysnider.com/experience"
+},
+{
+"text": "HOME",
+"href": "https://www.caseysnider.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.caseysnider.com/issues"
+},
+{
+"text": "JOIN US",
+"href": "https://www.caseysnider.com/contact-us"
+},
+{
+"text": "LATEST NEWS",
+"href": "https://www.facebook.com/Snider.Casey/"
+},
+{
+"text": "REQUEST A FREE SIGN",
+"href": "https://www.caseysnider.com/request-a-free-sign"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/Snider.Casey/"
+}
 ]

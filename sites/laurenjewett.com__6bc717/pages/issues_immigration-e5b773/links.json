@@ -1,33 +1,134 @@
 [
-"https://aclu.org/press-releases/new-aclu-report-documents-widespread-and-unchecked-civil-rights-abuses-by-immigration-agents-in-president-trumps-second-term",
-"https://brookings.edu/articles/ice-expansion-has-outpaced-accountability-what-are-the-remedies",
-"https://bsky.app/profile/doitjewett.bsky.social",
-"https://census.gov/newsroom/releases/archives/housing/cb11-28.html",
-"https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform",
-"https://facebook.com/electlaurenjewett",
-"https://instagram.com/electlaurenjewett",
-"https://kennedyhumanrights.org/our-impact/justice/us-justice/close-nola-ice",
-"https://laaclu.org/press-releases/new-report-immigrant-detention-in-louisiana-reaches-crisis-levels-under-trump-administrations-first-year",
-"https://laurenjewett.com/",
-"https://laurenjewett.com/about",
-"https://laurenjewett.com/accessibility",
-"https://laurenjewett.com/contact",
-"https://laurenjewett.com/district-voting",
-"https://laurenjewett.com/endorsements",
-"https://laurenjewett.com/events",
-"https://laurenjewett.com/issues",
-"https://laurenjewett.com/privacy-policy",
-"https://laurenjewett.com/volunteer",
-"https://law.berkeley.edu/press-release/tulane-uc-berkeley-study-shows-katrina-rebuilding-leads-to-violations-of-workers-rights",
-"https://nbcnews.com/storyline/hurricane-katrina-anniversary/latino-workers-helped-rebuild-new-orleans-many-werent-paid-n417571",
-"https://npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back",
-"https://secure.numero.ai/contribute/laurenjewett",
-"https://secure.numero.ai/contribute/laurenjewett?amount=100",
-"https://secure.numero.ai/contribute/laurenjewett?amount=25",
-"https://secure.numero.ai/contribute/laurenjewett?amount=250",
-"https://secure.numero.ai/contribute/laurenjewett?amount=50",
-"https://tiktok.com/@electlaurenjewett",
-"https://triplenc.org/pledge",
-"https://x.com/ElectLJewett",
-"https://youtube.com/@ElectLaurenJewett"
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=50"
+},
+{
+"text": "ACLU",
+"href": "https://www.aclu.org/press-releases/new-aclu-report-documents-widespread-and-unchecked-civil-rights-abuses-by-immigration-agents-in-president-trumps-second-term"
+},
+{
+"text": "ACLU of Louisiana",
+"href": "https://www.laaclu.org/press-releases/new-report-immigrant-detention-in-louisiana-reaches-crisis-levels-under-trump-administrations-first-year/"
+},
+{
+"text": "Accessibility",
+"href": "https://www.laurenjewett.com/accessibility"
+},
+{
+"text": "Brookings Institution",
+"href": "https://www.brookings.edu/articles/ice-expansion-has-outpaced-accountability-what-are-the-remedies/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/laurenjewett"
+},
+{
+"text": "Contact",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "District & Voting",
+"href": "https://www.laurenjewett.com/district-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurenjewett.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjewett.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.laurenjewett.com/issues"
+},
+{
+"text": "Lauren Jewett for Congress - Return to homepage[image: Lauren Jewett for Congress LA-01 campaign logo]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Lauren Jewett for Congress[image: Lauren Jewett for Congress LA-01]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://www.laurenjewett.com/about"
+},
+{
+"text": "NBC News",
+"href": "https://www.nbcnews.com/storyline/hurricane-katrina-anniversary/latino-workers-helped-rebuild-new-orleans-many-werent-paid-n417571"
+},
+{
+"text": "NPR",
+"href": "https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back"
+},
+{
+"text": "Robert F. Kennedy Human Rights",
+"href": "https://kennedyhumanrights.org/our-impact/justice/us-justice/close-nola-ice/"
+},
+{
+"text": "Triple N Community Coalition",
+"href": "https://www.triplenc.org/pledge"
+},
+{
+"text": "U.S. Census Bureau",
+"href": "https://www.census.gov/newsroom/releases/archives/housing/cb11-28.html"
+},
+{
+"text": "UC Berkeley Law",
+"href": "https://www.law.berkeley.edu/press-release/tulane-uc-berkeley-study-shows-katrina-rebuilding-leads-to-violations-of-workers-rights/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laurenjewett.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doitjewett.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectLaurenJewett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectLJewett"
+},
+{
+"text": "privacy policy",
+"href": "https://www.laurenjewett.com/privacy-policy"
+},
+{
+"text": "← All issues",
+"href": "https://www.laurenjewett.com/issues"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.hutchings4house.org/events-1",
- "paid_for_by": null,
+ "fingerprint": "2cd623eee75c54700dcf0a1eb963e64255caba1d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Hutchings For House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

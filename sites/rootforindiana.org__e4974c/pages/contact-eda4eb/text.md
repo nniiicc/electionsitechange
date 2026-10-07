@@ -1,0 +1,6 @@
+0 Skip to Content Home Platform The Platform In the News Endorsements Get Involved Newsletter Volunteer Yard Sign Merch Events Voting Info Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Donate Open Menu Close Menu Home Platform The Platform In the News Endorsements Get Involved Newsletter Volunteer Yard Sign Merch Events Voting Info Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Donate Open Menu Close Menu Home Folder: Platform Back The Platform In the News Endorsements Folder: Get Involved Back Newsletter Volunteer Yard Sign Merch Events Folder: Voting Info Back Voter Registration Know Your Rights Ballotpedia Voter Guide Contact Kirsten English Back Donate Reach out to Kirsten Root Ask me anything — I want to hear from you!
+Email the campaign or use the form below to get in touch.
+Thank you for reaching out, and I look forward to hearing from you!
+Email info@rootforindiana.org Support The Campaign Kirsten has a plan to support Hoosiers through healthcare for all, ending corporate greed, keeping Hoosiers safe, and providing freedom and opportunity for all.
+Donate today to help our campaign reach every corner of District 21. $5 $10 $20 $50 $100 Other Root for Indiana Contact us: info@rootforindiana.org Follow us on social media!
+Paid for by Root for IN

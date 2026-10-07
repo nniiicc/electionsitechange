@@ -1,7 +1,11 @@
 {
- "description": "Marci Mustello",
+ "description": "",
  "final_url": "https://www.repmustello.com/districtmap",
- "paid_for_by": null,
+ "fingerprint": "9a07016bd87ea61274ce5cac68137519bfaa7fd0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District Map | PA State Rep. Marci Mustello",
- "years_mentioned": []
+ "years_mentioned": [
+  "2011"
+ ]
 }

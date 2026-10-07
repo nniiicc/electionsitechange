@@ -1,8 +1,38 @@
 [
-"https://polsgrove4calif.com/",
-"https://polsgrove4calif.com/home-2/contact",
-"https://polsgrove4calif.com/home-2/events",
-"https://polsgrove4calif.com/home-2/issues",
-"https://polsgrove4calif.com/home-2/news",
-"https://polsgrove4calif.com/home-2/portfolio"
+{
+"text": "Contact",
+"href": "https://www.polsgrove4calif.com/home-2/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.polsgrove4calif.com/home-2/portfolio/"
+},
+{
+"text": "Events",
+"href": "https://www.polsgrove4calif.com/home-2/events/"
+},
+{
+"text": "Home",
+"href": "https://www.polsgrove4calif.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.polsgrove4calif.com/home-2/issues/"
+},
+{
+"text": "News",
+"href": "https://www.polsgrove4calif.com/home-2/news/"
+},
+{
+"text": "Polsgrove For California",
+"href": "https://www.polsgrove4calif.com/"
+},
+{
+"text": "https://polsgrove4calif.com",
+"href": "https://polsgrove4calif.com/"
+},
+{
+"text": "info@polsgrove4calif.com",
+"href": "mailto:info@polsgrove4calif.com"
+}
 ]

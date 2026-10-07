@@ -1,7 +1,12 @@
 {
  "description": "Here are all the events coming up, so you can join Randy on the campaign trail!",
  "final_url": "https://www.villegasforcongress.com/events",
- "paid_for_by": "Paid for by Villegas for Congress",
+ "fingerprint": "9739b1dfa60b2e9c6564f469ae9fbd44ffcfcb1c",
+ "format": 3,
+ "paid_for_by": "Paid for by Villegas for Congress You need to enable JavaScript to run this app",
  "title": "Campaign Events - Randy Villegas for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

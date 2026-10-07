@@ -1,5 +1,4 @@
-MEET HIPOLITO
-I was born and raised in Lindsay, California—a community that shaped my values, my work ethic, and my commitment to public service.
+0 Skip to Content HOME MEET HIPOLITO PRIORITIES GET INVOLVED Donate Open Menu Close Menu HOME MEET HIPOLITO PRIORITIES GET INVOLVED Donate Open Menu Close Menu HOME MEET HIPOLITO PRIORITIES GET INVOLVED Donate MEET HIPOLITO I was born and raised in Lindsay, California—a community that shaped my values, my work ethic, and my commitment to public service.
 I am a proud graduate of the University of California, Davis, where I earned departmental honors in Science and Technology Studies, along with a minor in Management.
 My commitment to serving the Central Valley began early.
 I interned in the California State Senate, working on legislation that directly impacts our region.
@@ -15,4 +14,4 @@ I’m running to bring a new voice to District 33—one rooted in service, drive
 I am ready to get to work.
 Pitch in today to support Hipolito Cerros for California State Assembly - District 33.
 Together, we can move our community forward.
-Every dollar you chip in goes directly toward the tools we need to win: reaching more voters, printing materials, and fueling our grassroots organizing efforts across the district.
+Every dollar you chip in goes directly toward the tools we need to win: reaching more voters, printing materials, and fueling our grassroots organizing efforts across the district. $10 $25 $250 other amount $100 $50 Paid for by Cerros for State Assembly 2026 FPPC: 1489501

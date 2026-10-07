@@ -1,4 +1,4 @@
-Bobby Pulido was born and raised in Edinburg, Texas, where he still lives today with his wife.
+Meet Bobby Issues News Creator Hub Store Donate Meet Bobby Issues News Creator Hub Store Donate Meet Bobby Ver en Español Bobby Pulido was born and raised in Edinburg, Texas, where he still lives today with his wife.
 He is the proud father of four sons, raising his family in the same community that shaped him.
 The son of a farmworker-turned-musician, Bobby grew up surrounded by the values that define South Texas: hard work, humility, family, and faith.
 After graduating from Edinburg High School, Bobby studied political science before pursuing a music career that would make him one of Tejano’s most recognized voices.
@@ -13,3 +13,4 @@ He believes in practical solutions, honest leadership, and putting people ahead 
 Bobby’s life has always been about connection — listening to people, telling their stories, and building bridges across communities.
 From his earliest days growing up in Edinburg to his career on stage and his work in business, he has carried with him a belief that service to others is what matters most.
 For Bobby, the Rio Grande Valley isn’t just where he’s from — it’s who he is.
+Donate Meet Bobby Issues News Creator Hub Store Bobby Pulido for Texas PO Box 1604, Edinburg, TX 78540 paid for by Bobby Pulido for Texas Terms & Conditions Privacy Policy © 2026

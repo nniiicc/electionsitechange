@@ -1,4 +1,5 @@
-RALEIGH – This week, a national news outlet confirmed that Roy Cooper’s billion dollar electric vehicle manufacturing plan is in shambles.
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE ICYMI – Gov.
+Cooper’s Green-Energy-New-Deal Obsession Once Again Takes Money from NC Taxpayers as Billion-Dollar Electric Vehicle Deal Crumbles August 5, 2026 RALEIGH – This week, a national news outlet confirmed that Roy Cooper’s billion dollar electric vehicle manufacturing plan is in shambles.
 Chatham County Commissioners terminated an Electric Vehicle (EV) agreement that failed to meet performance obligations and project deadlines.
 Cooper gave VinFast, a Vietnamese-based EV manufacturer, over $1 billion of taxpayer money all for no jobs to support his failed Green New Deal agenda.
 “An unproven Vietnamese electric vehicle manufacturer’s billion-dollar deal championed by then-Gov.
@@ -10,8 +11,8 @@ At a scheduled monthly meeting on July 27, Chatham County commissioners terminat
 Chatham County sits 35 miles west of the state capital of Raleigh.
 In May, North Carolina Attorney General Jeff Jackson, a Democrat, told media, “VinFast agreed to build a factory and create jobs for North Carolinians – it didn’t do either.” The attorney general filed the lawsuit on behalf of the state commerce department.
 In 2022, Cooper announced the deal with great fanfare, saying at the time, ‘North Carolina is quickly becoming the center of our country’s emerging, clean energy economy.
-VinFast’s transformative project will bring many good jobs to our state, along with a healthier environment as more electric vehicles take to the road to help us reduce greenhouse gas emissions.’”
-Click HERE to read more.
+VinFast’s transformative project will bring many good jobs to our state, along with a healthier environment as more electric vehicles take to the road to help us reduce greenhouse gas emissions.’” Click HERE to read more.
 “The Green New Deal policies pushed by Roy Cooper have resulted in nothing more than higher electric rates for North Carolina families and billions of taxpayer dollars flushed down the drain.
 Rather than work to lower rates, Roy Cooper pushed fantasy policies that fulfilled Biden’s EV mandates and helped his family secure a sweetheart solar deal that pays them more than $1 million per year.
 Roy Cooper doesn’t care about your family, just making a profit for himself,” said Whatley Campaign Spokesman DJ Griffin.
+X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

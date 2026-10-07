@@ -1,9 +1,62 @@
 [
-"http://aboutads.info/choices.",
-"http://enquistforhouse.com/",
-"http://fec.gov/",
-"https://enquistforhouse.com/",
-"https://enquistforhouse.com/accessibility-statement",
-"https://enquistforhouse.com/english-privacy-policy",
-"https://secure.actblue.com/donate/enquist-for-house"
+{
+"text": "About Emelia",
+"href": "https://www.enquistforhouse.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.enquistforhouse.com/accessibility-statement"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/enquist-for-house"
+},
+{
+"text": "English - Privacy Policy",
+"href": "https://www.enquistforhouse.com/english-privacy-policy"
+},
+{
+"text": "Enquist for House",
+"href": "https://www.enquistforhouse.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.enquistforhouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.enquistforhouse.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.enquistforhouse.com"
+},
+{
+"text": "Values",
+"href": "https://www.enquistforhouse.com"
+},
+{
+"text": "enquistforhouse@gmail.com",
+"href": "mailto:enquistforhouse@gmail.com"
+},
+{
+"text": "enquistforhouse@gmail.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "enquistforhouse@gmail.coms",
+"href": "mailto:enquistforhouse@gmail.coms"
+},
+{
+"text": "http://www.fec.gov",
+"href": "http://www.fec.gov"
+},
+{
+"text": "www.aboutads.info/choices.",
+"href": "http://www.aboutads.info/choices."
+},
+{
+"text": "www.enquistforhouse.com",
+"href": "http://www.enquistforhouse.com"
+}
 ]

@@ -1,3 +1,4 @@
-by Don Schaible | Oct 20, 2025 | Campaign News, Legislative News
-District 31, ND – Senator Don Schaible, a lifelong farmer, educator, and public-service leader, announced today that he will seek re-election to represent District 31 in the North Dakota Senate.
+DONATE District 31 Team Request Absentee Ballot Latest Updates FOLLOW Senator Don Schaible Announces Re-Election Campaign for North Dakota Senate, District 31 by Don Schaible | Oct 20, 2025 | Campaign News , Legislative News District 31, ND – Senator Don Schaible, a lifelong farmer, educator, and public-service leader, announced today that he will seek re-election to represent District 31 in the North Dakota Senate.
 First elected in 2010, Schaible has built a reputation as a steady,...
+Search Search Recent Posts A Firsthand Look at a Critical Defense Mission Senator Don Schaible Announces Re-Election Campaign for North Dakota Senate, District 31 EMS Study Property Tax Relief End of Session 2025 Recent Comments No comments to show.
+PAID FOR BY SCHAIBLE FOR SENATE © # COPYRIGHT | SCHAIBLE FOR SENATE CREATED BY ELEVATED IMPACT

@@ -1,5 +1,6 @@
-Arizona State Senator Mark Finchem joined Newsmax following Arizona’s Republican primary to discuss the momentum heading into the general election and the issues he says matter most to Arizona voters.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Mark Finchem: Arizona Voters Are Ready for Change (Newsmax Interview) July 23, 2026 Arizona State Senator Mark Finchem joined Newsmax following Arizona’s Republican primary to discuss the momentum heading into the general election and the issues he says matter most to Arizona voters.
 During the interview, Finchem criticized Governor Katie Hobbs’ record number of vetoes, arguing that Arizonans are looking for leadership that gets results instead of obstructing legislation.
 He also discussed government accountability, highlighting legislative audits that uncovered waste, fraud, and abuse, while emphasizing the need to support law enforcement, improve public safety, and restore affordability.
 Finchem also credited Arizona’s Republican grassroots volunteers, precinct committeemen, and local activists for the party’s strong primary turnout, saying their efforts have built momentum for November.
-Watch the full interview:
+Watch the full interview: Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

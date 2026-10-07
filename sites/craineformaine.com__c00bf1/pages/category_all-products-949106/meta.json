@@ -1,7 +1,9 @@
 {
- "description": "This is your category description. It\u2019s a great place to tell customers what this category is about, connect with your audience and draw attention to your products.",
+ "description": "This is your category description. It’s a great place to tell customers what this category is about, connect with your audience and draw attention to your products.",
  "final_url": "https://www.jantzencraine.com/category/all-products",
- "paid_for_by": null,
+ "fingerprint": "62e2c0a18ff6ce9ea335c97a5c7c9eebefe29b29",
+ "format": 3,
+ "paid_for_by": "",
  "title": "All Products | Jantzen Craine",
  "years_mentioned": []
 }

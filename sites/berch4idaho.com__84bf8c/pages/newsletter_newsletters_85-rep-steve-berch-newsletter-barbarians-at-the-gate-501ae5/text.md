@@ -1,5 +1,6 @@
-| |
-| Rep.
+Contact Representative Steve Berch: sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 Contribute Now Get Involved Home How to Contribute How to Volunteer Subscribe to Newsletter Back Subscribe to Newsletter Newsletter Archive (2019-present) Meet Steve Contact Request a Yard Sign!
+Rep.
+Steve Berch Newsletter: Barbarians at the gate Rep.
 Steve Berch Newsletter: Barbarians at the gate The phrase “barbarians at the gate” refers to a threat or danger, often political, which is perceived as coming from outside a system or organization.
 This is the scene today within Idaho’s majority party.
 Some of my previous newsletters have described the 5-6 political factions in the legislature as a way to explain certain voting coalitions that are visible to the public.
@@ -14,10 +15,8 @@ This article also helps explain why many lifelong, traditional Republicans in my
 It’s why people should vote for the person, not a letter.
 You can’t assume what that letter stands for in Idaho anymore.
 NOTE: The sections in the article highlighted in red font provide insight into the sources and tactics of an unprecedented smear campaign being waged against me today – 18 months before the next election.
-To my knowledge, I am the only Democratic legislator in Idaho being targeted by these out-of-state funded organizations, which strengthens my resolve to stand up to them. |
-| |
-| |
-| How Party Bosses Are Replacing Republicans Who Think For Themselves Elected Republicans are being pushed out by unelected party leaders in a coordinated campaign to seize power and silence dissent.
+To my knowledge, I am the only Democratic legislator in Idaho being targeted by these out-of-state funded organizations, which strengthens my resolve to stand up to them.
+How Party Bosses Are Replacing Republicans Who Think For Themselves Elected Republicans are being pushed out by unelected party leaders in a coordinated campaign to seize power and silence dissent.
 By Gregory Graf June 2, 2025 Rep.
 Lori McCann won more votes than any other lawmaker in her legislative district last election.
 A lifelong Republican from Lewiston, she listens to constituents, votes her conscience, and represents more than 52,000 Idahoans from all walks of life.
@@ -69,7 +68,7 @@ These aren't grassroots challenges.
 They are coordinated efforts designed to force compliance through fear.
 Suppose a legislator doesn't follow the demands of the IFF network.
 In that case, they'll face a well-funded opponent, often promoted by operatives who received “confrontational politics” training from Idaho Dispatch propagandist Greg Pruett.
-They then outsource the campaign work to the Citizens Alliance of Idaho, where money flows to a Florida marketing company to deploy out-of-state door-to-door canvassers to spread IFF-engineered narratives that align with legislation their side has concocted to use against their targeted enemies.
+They then outsource the campaign work to the Citizens Alliance of Idaho , where money flows to a Florida marketing company to deploy out-of-state door-to-door canvassers to spread IFF-engineered narratives that align with legislation their side has concocted to use against their targeted enemies.
 The Florida-based marketing company is also owned by the same person as the parent organization, Citizens Alliance of America, which provides funding to Citizens Alliance of Idaho.
 This is not a representative democracy.
 It is authoritarian behavior disguised as grassroots efforts.
@@ -95,11 +94,14 @@ But if they don’t, the purge will continue.
 This is not the path of a principled Republican party.
 It is the strategy of a machine that punishes independent thought, rewards obedience, and pushes fear-based politics to create power for a few at the expense of everyone else.
 Idaho deserves better.
-But unless more voters demand it, this is what we get. |
-| |
-| |
-| About the Author Gregory Graf is the creator of Political Potatoes and a lifelong conservative Republican.
+But unless more voters demand it, this is what we get.
+About the Author Gregory Graf is the creator of Political Potatoes and a lifelong conservative Republican.
 Graf is the CEO of Snake River Strategies, a strategic communications and political consulting firm based in Eagle, Idaho.
 You can follow Graf’s work on X, Threads, or Facebook.
 Disclaimer The following is intended to convey an opinion on newsworthy events of public concern regarding public figures and/or public officials in exercising their official duties.
-No implications or inferences—beyond those explicitly stated in the preceding— are intended to be conveyed or endorsed by the Author. |
+No implications or inferences—beyond those explicitly stated in the preceding— are intended to be conveyed or endorsed by the Author.
+Steve Berch Campaign Office P.O.
+Box 4903 Boise, ID 83711 sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 SOCIAL MEDIA POLICY Legislative Committees Education Business Local Government Meet Steve Steve's Newsletters Legislature Coverage Eye on Boise Idaho Education News IPTV Idaho Reports Idaho in Session Support Steve Contribute Volunteer Contact © 2018 - 2026 by Committee to Elect Steve Berch.
+Joan Wallace, Treasurer.
+All rights reserved.
+Facebook Twitter YouTube Social Media Policy Privacy Policy Terms and Conditions

@@ -1,15 +1,58 @@
 [
-"http://facebook.com/SchweyerForStateRep",
-"http://instagram.com/peter_schweyer",
-"http://squarespace.com/",
-"http://twitter.com/peter_schweyer",
-"https://bsky.app/profile/peterschweyer.com",
-"https://peterschweyer.com/",
-"https://peterschweyer.com/aboutpeter",
-"https://peterschweyer.com/cart",
-"https://peterschweyer.com/contact",
-"https://peterschweyer.com/issues",
-"https://peterschweyer.com/volunteer",
-"https://secure.actblue.com/donate/friends-of-peter-schweyer-2",
-"https://tiktok.com/@reppeterschweyer"
+{
+"text": "0",
+"href": "https://www.peterschweyer.com/cart"
+},
+{
+"text": "About Peter",
+"href": "https://www.peterschweyer.com/aboutpeter"
+},
+{
+"text": "Contact",
+"href": "https://www.peterschweyer.com/contact"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/friends-of-peter-schweyer-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-peter-schweyer-2"
+},
+{
+"text": "Issues",
+"href": "https://www.peterschweyer.com/issues"
+},
+{
+"text": "MADE WITH SQUARESPACE",
+"href": "http://squarespace.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.peterschweyer.com/volunteer"
+},
+{
+"text": "[image: Peter Schweyer - Working For Our Community]",
+"href": "https://www.peterschweyer.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/SchweyerForStateRep"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/peter_schweyer"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/peter_schweyer"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/peterschweyer.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@reppeterschweyer"
+}
 ]

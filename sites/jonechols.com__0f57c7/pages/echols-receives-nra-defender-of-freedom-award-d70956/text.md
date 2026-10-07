@@ -1,17 +1,14 @@
-Oklahoma City, OK – Today, Jon Echols, the frontrunner for the Oklahoma Attorney General’s race, received the Defender of Freedom Award from the National Rifle Association (NRA).
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Echols Receives NRA Defender of Freedom Award March 10, 2026 Oklahoma City, OK – Today, Jon Echols, the frontrunner for the Oklahoma Attorney General’s race, received the Defender of Freedom Award from the National Rifle Association (NRA).
 The award was presented in recognition of Jon’s work to pass constitutional carry and his twelve-year commitment to our 2nd Amendment rights in the State House.
 Echols was Majority Floor Leader of the Oklahoma House of Representatives in 2019 and was the lead sponsor of Oklahoma’s constitutional carry legislation.
 He also had an A+ rating with the NRA during his time in the legislature.
 Mark Vaughan, the 1st Vice-President of the NRA and President of the Oklahoma Rifle Association, presented the award.
-“Jon Echols is a proven defender of our 2nd Amendment and has earned this award for his tireless efforts in the Oklahoma Legislature,” Vaughan said.
-“Jon was the leading voice that got constitutional carry passed in Oklahoma and he has shown time and again that his support for our freedom isn’t just rhetoric; it is backed by action.“
-“Jon Echols is the real deal when it comes to our 2nd Amendment rights,” said Kevin Wallace, Vice President of the Oklahoma Rifle Association.
+“Jon Echols is a proven defender of our 2nd Amendment and has earned this award for his tireless efforts in the Oklahoma Legislature,” Vaughan said. “ Jon was the leading voice that got constitutional carry passed in Oklahoma and he has shown time and again that his support for our freedom isn’t just rhetoric; it is backed by action. “ “ Jon Echols is the real deal when it comes to our 2nd Amendment rights ,” said Kevin Wallace, Vice President of the Oklahoma Rifle Association.
 “Very few have led with the dedication and commitment on this issue that Jon has, and he has achieved real wins.
-This award signifies our gratitude for that leadership.”
-“I am truly honored to receive this award, and it was an honor to fight for Oklahoman’s 2nd Amendment rights in the legislature,” Jon Echols said.
+This award signifies our gratitude for that leadership.” “I am truly honored to receive this award, and it was an honor to fight for Oklahoman’s 2nd Amendment rights in the legislature,” Jon Echols said.
 “I am running for Attorney General to continue my fight to secure your liberties and protect the Oklahoma way of life.
-That includes our proud heritage of preserving our God-given right to keep and bear arms.“
-Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
+That includes our proud heritage of preserving our God-given right to keep and bear arms. “ Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
 Holding the title for 8 years, he is the longest-serving Floor Leader in Oklahoma history.
 Jon has a proven track record of conservative leadership and is running for Attorney General to make Oklahoma safer, freer, and stronger.
-###
+### Share: More Posts Oklahoma Farm Bureau Endorses Jon Echols for Attorney General Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Polling Memo: Echols Holds Commanding Lead in AG’s Race New polling is out and it shows Jon Echols up by 20 points in the Republican Primary for Attorney General.
+The full memo is below Media Advisory: Echols to File for Attorney General Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.

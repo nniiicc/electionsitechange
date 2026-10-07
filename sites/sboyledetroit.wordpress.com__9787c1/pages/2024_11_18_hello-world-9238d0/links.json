@@ -1,20 +1,94 @@
 [
-"http://migreenparty.org/",
-"https://automattic.com/cookies",
-"https://facebook.com/",
-"https://gp.org/4_pillars",
-"https://instagram.com/stephenboylenow",
-"https://sboyledetroit.wordpress.com/",
-"https://sboyledetroit.wordpress.com/2024/11/18/hello-world",
-"https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant",
-"https://sboyledetroit.wordpress.com/2025/06/19/streetscape-projects",
-"https://sboyledetroit.wordpress.com/2025/06/19/taxes",
-"https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency",
-"https://sboyledetroit.wordpress.com/about",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2024%2F11%2F18%2Fhello-world%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2024%2F11%2F18%2Fhello-world%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/239131096/posts/2",
-"https://wordpress.com/start",
-"https://wp.me/pgbmVa-2"
+{
+"text": "About",
+"href": "https://sboyledetroit.wordpress.com/about/"
+},
+{
+"text": "Cancel reply",
+"href": "https://sboyledetroit.wordpress.com/2024/11/18/hello-world/#respond"
+},
+{
+"text": "Comment",
+"href": "https://sboyledetroit.wordpress.com/2024/11/18/hello-world/#respond"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/pgbmVa-2"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/"
+},
+{
+"text": "Get started",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Green Party of Michigan.",
+"href": "http://migreenparty.org"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stephenboylenow/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2024%2F11%2F18%2Fhello-world%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2024%2F11%2F18%2Fhello-world%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Open Meetings Act Compliant?",
+"href": "https://sboyledetroit.wordpress.com/2025/01/21/open-meetings-act-compliant/"
+},
+{
+"text": "Public Transportation Dependency",
+"href": "https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency/"
+},
+{
+"text": "Read more",
+"href": "https://sboyledetroit.wordpress.com/about/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2024%2F11%2F18%2Fhello-world%2F"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Streetscape Projects",
+"href": "https://sboyledetroit.wordpress.com/2025/06/19/streetscape-projects/"
+},
+{
+"text": "Taxes",
+"href": "https://sboyledetroit.wordpress.com/2025/06/19/taxes/"
+},
+{
+"text": "The Four Pillars of the Green Party of the United States",
+"href": "https://www.gp.org/4_pillars"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/239131096/posts/2"
+},
+{
+"text": "[image: Stephen Boyle for State Representative District 8]",
+"href": "https://sboyledetroit.wordpress.com/"
+},
+{
+"text": "[image]Stephen Boyle for State Representative District 8",
+"href": "https://sboyledetroit.wordpress.com"
+},
+{
+"text": "[no text]",
+"href": "https://wordpress.com/start/"
+}
 ]

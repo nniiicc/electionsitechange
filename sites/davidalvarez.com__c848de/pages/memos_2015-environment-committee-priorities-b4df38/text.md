@@ -1,93 +1,9 @@
-January 27, 2015
-As Chair of the Environment Committee I look forward to discussing and implementing key issues impacting our environment in 2016.
+About Media Press Releases News Articles Memos OPPORTUNITY EDU DREAMING BIG | WORKING HARD Donate Memos 2016 Environment Committee Priorities and Work Plan January 27, 2015 As Chair of the Environment Committee I look forward to discussing and implementing key issues impacting our environment in 2016.
 I have received suggestions from several Councilmembers about topics they would like to bring to Committee this year.
-I have integrated some of these suggested topics of discussion with my priorities below:
-Climate Action Plan (CAP):
-● Review and approve a Climate ActionPlan Implementation Plan
-● Request regular updates on development of Climate Mitigation/Adaptation Plan
-● Move forward with regular updates regarding the implementation of Climate Action Plan goals
-● Establish a Climate Action PlanImplementation Working Group, directly reportable to the Environment Committee
-● Receive presentation of the initialCity ordinances outlined in the Local Implementation Actions section of thePlan, particularly those outlined in Phase 1
-● Receive updates from the BikeAdvisory Council regarding the implementation of the Bike StrategicImplementation Plan
-● Monitor and receive updates regarding progress on citywide bicycle infrastructure improvements
-● Monitor Vision Zero progress
-Energy Efficiency and Independence:
-● Support and review ways to invest in solar technology throughout the City including:
-o Continuing partnership efforts that allow solar and efficiency programs at HousingCommission or City owned or operated facilities;
-o Review and update Sustainable Expedite Policy with new energy and water efficiency requirements to meet CAP goals;
-o Supporting, expanding and monitoring success of approved Property Assessed Clean Energy(PACE) programs, including allowing the program to be more accessible to residential and commercial users;
-o Continued monitoring of potential rate changes by San Diego Gas and Electric (SDG&E),including weighing in on rate structure changes that would impact conservation efforts;
-o Receive updates on Community Choice Aggregation(CCA) including completion of feasibility studies and make recommendations for implementing a program in San Diego
-· Explore legislation requiring periodic energy audits, starting with City-owned buildings, to establish a baseline for greenhouse gas reductions
-· ReviewComparative Data Initiatives as a strategy for behavioral energy efficiency
-Environmental Growth Fund:
-● Request City Attorney provide theCommittee with a presentation regarding the Environmental Growth Fund and its potential uses.
-Natural Resource Preservation Efforts:
-● Discuss designation of Cortes andTanner Banks as Protected Areas in order to safeguard biological, ecological and recreational value
-● Request progress report on the development of the Coastal Marine Life Management Plan, funded in FY16 budget
-● Explore Establishment of a San DiegoCoastal Regional Park system
-Park & Recreation/Open Space:
-● Pursue further dedication and designation of park lands, where appropriate
-● Consider designation of Chollas Creek as a regional park or open space and receive updates on the Chollas CreekEnhancement Program
-● Discuss enhancement of a contiguous river park along the San Diego River
-● Continue implementation of the SanDiego River Park Master Plan
-● Monitor Brush Clearing in Canyons andOpen Space
-● Monitor shoreline and park ranger program for parks and beaches
-● Monitor progress of Coastal RailTrail environmental review and design
-● Discuss protecting and finding new ways to enhance park and recreation activities in the City’s regional parks
-o Explore feasibility of purchasing privately owned land that interrupts hiking and biking trails at Mission Trails Regional Park
-o Explore ways to allow City staff greater flexibility for increasing the different types of trails used by the public (mountain biking, equestrian, pedestrian etc)
-Proactive Monitoring and Advocacy of Environmental Issues at the Federal, State and Regional Levels:
-● Review and discuss action the committee can take regarding environmental issues at all levels of government affecting San Diegans’ quality of life
-Recycling and Waste Reduction:
-● Monitoring and adjust Zero Waste Management Plan as needed
-● Awarding of RFP for study related to solid waste collection exclusive franchise system
-● RequestEnvironmental Services staff to conduct a cost benefit analysis of making single family recycling collection weekly and refuse collection biweekly
-● Review duplicative receptacle delivery fee\Discuss further efforts to expand the life of the Miramar Landfill
-● Receive update from the Mayor’s Office on implementing the San Diego plastic bag ban measure
-● ExploreCity-run mattress disposal program
-Storm Water:
-● Coordinate with the Transportation and Storm Water Department and the City’s legislative consultants to work collaboratively with the Regional Water Quality Control Board, Army Corp ofEngineers and other applicable regulators to achieve to streamline the stormWater permitting process and renewals in a fiscally responsible and environmentally effective manner
-● Review progress on storm water pump station maintenance
-● Expedite replacement schedule of corrugated steel storm water pipes
-● Continue review and monitoring of city-wide storm water channel and storm drain maintenance efforts, including increasing maintenance efforts in FY17 and beyond
-● Explore possibility of installing permanent barrier gates in high risk flood areas
-● Receive regular updates regarding effect of El Nino related winter storms on storm drains and storm water channels
-● Explore establishment of voluntary assessment districts designed to allow private property owners abutting areas that regularly flood to maintain their property to prevent or lessen future flooding conditions
-● Discuss feasibility study to explore alternative compliance to the Municipal Storm Water Permit
-● Review and monitor Transportation andStorm Water Department’s outreach to the small business community regarding MS4compliance
-● Review updates from T&SW and PUD regarding storm water capture and reuse pilot projects
-Urban Forestry Program:
-● Discuss expanded urban forestry program, as described in the Climate Action Plan
-● Support urban greening throughout SanDiego
-Utility Undergrounding Program:
-● Receive updates on utility undergrounding program, adjust project schedule as needed
-Water Reuse:
-● Receive updates on the Pure Water project, and provide all appropriate recommendations and support
-● Continue pursuit of Direct Potable Reuse regulations with quarterly updates to theCommittee
-● Discuss strategy of continuing to diversify the city’s sources of water and how the city can minimize importing water from outside the region, including city efforts to incentivize water conservation
-● Consider the current level of purple pipe connections and discuss opportunities and trade-offs to expanding the existing network
-Water and Wastewater Rates and Related Infrastructure:
-● Discuss options for streamlining Water and Wastewater billings
-● Discuss options for low income water rate assistance programs through the Public Utilities Department
-● Receive reports from IndependentRates Oversight Committee and the County Water Authority
-● Receive an update on County Water Authority's Water Purchase Agreement with PoseidonWater
-● Receive progress reports on the Advanced Metering Infrastructure System
-● Receive regular updates on Public Utilities Department Customer Service and BillingPolicies
-● Review staff progress on amendments to 2015 Cost of Service Study and take action as needed
-● ReviewWastewater Billing Calculations for Industrial Uses
-● Request update from the County Water Authority regarding the Metropolitan WaterDistrict litigation and state mandated drought regulations
-Water Conservation:
-● Receive regular Water Conservation and Drought Updates
-● Consider ways to increase water conservation efforts and address ongoing drought conditions
-● Identify further action to reduce water loss in the city’s delivery system, including investment in new technology and pipeline repair/replacement
-● Consider a plan to retrofit allCity-owned properties with drought tolerant landscaping and weather-based irrigation controllers
-● Review and update, as needed, CouncilPolicy 400-15, Comprehensive Policy for a Sustainable Water Supply in San Diego
-I am thankful for the opportunity to serve as the Chair of the EnvironmentCommittee in 2016.
-I look forward to working with each committee member on our priorities to ensure the City continues its commitment to protection and oversight of our precious natural resources throughout San Diego.
-NEWSLETTER
-Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
-Thank you!
+I have integrated some of these suggested topics of discussion with my priorities below: Climate Action Plan (CAP): ● Review and approve a Climate ActionPlan Implementation Plan ● Request regular updates on development of Climate Mitigation/Adaptation Plan ● Move forward with regular updates regarding the implementation of Climate Action Plan goals ● Establish a Climate Action PlanImplementation Working Group, directly reportable to the Environment Committee ● Receive presentation of the initialCity ordinances outlined in the Local Implementation Actions section of thePlan, particularly those outlined in Phase 1 ● Receive updates from the BikeAdvisory Council regarding the implementation of the Bike StrategicImplementation Plan ● Monitor and receive updates regarding progress on citywide bicycle infrastructure improvements ● Monitor Vision Zero progress ‍ Energy Efficiency and Independence: ● Support and review ways to invest in solar technology throughout the City including: o Continuing partnership efforts that allow solar and efficiency programs at HousingCommission or City owned or operated facilities; o Review and update Sustainable Expedite Policy with new energy and water efficiency requirements to meet CAP goals; o Supporting, expanding and monitoring success of approved Property Assessed Clean Energy(PACE) programs, including allowing the program to be more accessible to residential and commercial users; o Continued monitoring of potential rate changes by San Diego Gas and Electric (SDG&E),including weighing in on rate structure changes that would impact conservation efforts; o Receive updates on Community Choice Aggregation(CCA) including completion of feasibility studies and make recommendations for implementing a program in San Diego · Explore legislation requiring periodic energy audits, starting with City-owned buildings, to establish a baseline for greenhouse gas reductions · ReviewComparative Data Initiatives as a strategy for behavioral energy efficiency ‍ Environmental Growth Fund: ● Request City Attorney provide theCommittee with a presentation regarding the Environmental Growth Fund and its potential uses.
+Natural Resource Preservation Efforts: ● Discuss designation of Cortes andTanner Banks as Protected Areas in order to safeguard biological, ecological and recreational value ● Request progress report on the development of the Coastal Marine Life Management Plan, funded in FY16 budget ● Explore Establishment of a San DiegoCoastal Regional Park system Park & Recreation/Open Space: ● Pursue further dedication and designation of park lands, where appropriate ● Consider designation of Chollas Creek as a regional park or open space and receive updates on the Chollas CreekEnhancement Program ● Discuss enhancement of a contiguous river park along the San Diego River ● Continue implementation of the SanDiego River Park Master Plan ● Monitor Brush Clearing in Canyons andOpen Space ● Monitor shoreline and park ranger program for parks and beaches ● Monitor progress of Coastal RailTrail environmental review and design ● Discuss protecting and finding new ways to enhance park and recreation activities in the City’s regional parks o Explore feasibility of purchasing privately owned land that interrupts hiking and biking trails at Mission Trails Regional Park o Explore ways to allow City staff greater flexibility for increasing the different types of trails used by the public (mountain biking, equestrian, pedestrian etc) Proactive Monitoring and Advocacy of Environmental Issues at the Federal, State and Regional Levels: ● Review and discuss action the committee can take regarding environmental issues at all levels of government affecting San Diegans’ quality of life Recycling and Waste Reduction: ● Monitoring and adjust Zero Waste Management Plan as needed ● Awarding of RFP for study related to solid waste collection exclusive franchise system ● RequestEnvironmental Services staff to conduct a cost benefit analysis of making single family recycling collection weekly and refuse collection biweekly ● Review duplicative receptacle delivery fee\Discuss further efforts to expand the life of the Miramar Landfill ● Receive update from the Mayor’s Office on implementing the San Diego plastic bag ban measure ● ExploreCity-run mattress disposal program Storm Water: ● Coordinate with the Transportation and Storm Water Department and the City’s legislative consultants to work collaboratively with the Regional Water Quality Control Board, Army Corp ofEngineers and other applicable regulators to achieve to streamline the stormWater permitting process and renewals in a fiscally responsible and environmentally effective manner ● Review progress on storm water pump station maintenance ● Expedite replacement schedule of corrugated steel storm water pipes ● Continue review and monitoring of city-wide storm water channel and storm drain maintenance efforts, including increasing maintenance efforts in FY17 and beyond ● Explore possibility of installing permanent barrier gates in high risk flood areas ● Receive regular updates regarding effect of El Nino related winter storms on storm drains and storm water channels ● Explore establishment of voluntary assessment districts designed to allow private property owners abutting areas that regularly flood to maintain their property to prevent or lessen future flooding conditions ● Discuss feasibility study to explore alternative compliance to the Municipal Storm Water Permit ● Review and monitor Transportation andStorm Water Department’s outreach to the small business community regarding MS4compliance ● Review updates from T&SW and PUD regarding storm water capture and reuse pilot projects Urban Forestry Program: ● Discuss expanded urban forestry program, as described in the Climate Action Plan ● Support urban greening throughout SanDiego Utility Undergrounding Program: ● Receive updates on utility undergrounding program, adjust project schedule as needed Water Reuse: ● Receive updates on the Pure Water project, and provide all appropriate recommendations and support ● Continue pursuit of Direct Potable Reuse regulations with quarterly updates to theCommittee ● Discuss strategy of continuing to diversify the city’s sources of water and how the city can minimize importing water from outside the region, including city efforts to incentivize water conservation ● Consider the current level of purple pipe connections and discuss opportunities and trade-offs to expanding the existing network Water and Wastewater Rates and Related Infrastructure: ● Discuss options for streamlining Water and Wastewater billings ● Discuss options for low income water rate assistance programs through the Public Utilities Department ● Receive reports from IndependentRates Oversight Committee and the County Water Authority ● Receive an update on County Water Authority's Water Purchase Agreement with PoseidonWater ● Receive progress reports on the Advanced Metering Infrastructure System ● Receive regular updates on Public Utilities Department Customer Service and BillingPolicies ● Review staff progress on amendments to 2015 Cost of Service Study and take action as needed ● ReviewWastewater Billing Calculations for Industrial Uses ● Request update from the County Water Authority regarding the Metropolitan WaterDistrict litigation and state mandated drought regulations Water Conservation: ● Receive regular Water Conservation and Drought Updates ● Consider ways to increase water conservation efforts and address ongoing drought conditions ● Identify further action to reduce water loss in the city’s delivery system, including investment in new technology and pipeline repair/replacement ● Consider a plan to retrofit allCity-owned properties with drought tolerant landscaping and weather-based irrigation controllers ● Review and update, as needed, CouncilPolicy 400-15, Comprehensive Policy for a Sustainable Water Supply in San Diego I am thankful for the opportunity to serve as the Chair of the EnvironmentCommittee in 2016.
+I look forward to working with each committee member on our priorities to ensure the City continues its commitment to protection and oversight of our precious natural resources throughout San Diego. ‍ more memos Assemblymember Alvarez Issues Statement on the May Revision of the Budget and Need for Cal Grant Reform May 20, 2024 State Assembly’s Fentanyl Committee to hold hearing on Viejas Reservation to address rising fentanyl deaths in tribal communities August 17, 2023 Assemblymember David Alvarez Congratulates and Welcomes New Assembly Speaker Robert Rivas June 30, 2023 More Memos NEWSLETTER SIGN UP TO STAY UPDATED Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
+FIRST NAME LAST NAME ZIP CODE EMAIL ADDRESS PHONE Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
@@ -96,4 +12,4 @@ Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
-Privacy Policy&Terms
+Privacy Policy & Terms For meeting requests and legislative questions, call: (619) 498-8580 For all press inquires: Jeremy Addis-Mills (760) 880-4397 or Jeremy@digitalimpactand.com ‍ For campaign questions: (619) 870-8385 Press Releases Memos News Articles Privacy Statement Paid for David Alvarez for State Assembly 2022 FPPC ID: 1443355 Design & Hosting by Digital Impact &

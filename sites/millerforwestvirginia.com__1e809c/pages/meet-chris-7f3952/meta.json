@@ -1,7 +1,11 @@
 {
  "description": "Chris Miller isn't a career politician. He's a businessman who believes government should solve problems, not create them.",
  "final_url": "https://millerforwestvirginia.com/meet-chris",
- "paid_for_by": "Paid for by Miller for State Senate WV Copyright 2026",
+ "fingerprint": "76dd1d3b61edefc319c5499504c5dfb2559412e2",
+ "format": 3,
+ "paid_for_by": "Paid for by Miller for State Senate WV Copyright #",
  "title": "Meet Chris",
- "years_mentioned": []
+ "years_mentioned": [
+  "2004"
+ ]
 }

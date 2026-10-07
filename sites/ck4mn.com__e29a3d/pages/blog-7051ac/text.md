@@ -1,20 +1,14 @@
-Public Safety Means More Than Policing — A Complete Community Safety Plan for 54B
-Chris Kartschoke's community safety plan for 54B: backing officers, funding crisis response teams, and keeping fire and EMS answering the call.
-What Common-Sense Leadership Actually Looks Like for Anyone in District 54B
-"Common sense" is the most overused phrase in politics.
+0 Skip to Content Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Chris Kartschoke 9/3/26 Chris Kartschoke 9/3/26 Public Safety Means More Than Policing — A Complete Community Safety Plan for 54B Chris Kartschoke's community safety plan for 54B: backing officers, funding crisis response teams, and keeping fire and EMS answering the call.
+Read More government , leadership Chris Kartschoke 8/31/26 government , leadership Chris Kartschoke 8/31/26 What Common-Sense Leadership Actually Looks Like for Anyone in District 54B "Common sense" is the most overused phrase in politics.
 Here is mine, made specific: five kinds of proposals I would support and five I would question, whoever authors them.
-Childcare, Elder Care, and the Squeeze Nobody Budgeted For
-Daycare that costs like a mortgage, aging parents who need help, and one household paying for both.
+Read More child care , elder care Chris Kartschoke 8/20/26 child care , elder care Chris Kartschoke 8/20/26 Childcare, Elder Care, and the Squeeze Nobody Budgeted For Daycare that costs like a mortgage, aging parents who need help, and one household paying for both.
 The affordability problem in 54B that rarely makes a campaign flyer.
-Small Business Is the Engine of District 54B
-Payroll, permits and thin margins teach you things a floor speech cannot.
+Read More small business Chris Kartschoke 8/10/26 small business Chris Kartschoke 8/10/26 Small Business Is the Engine of District 54B Payroll, permits and thin margins teach you things a floor speech cannot.
 What running a small business taught me about representing Prior Lake, Jordan, Shakopee and our townships.
-Keeping District 54B and its communities - Affordable and Safe for everyone
-Keeping District 54B Affordable and Safe: Tackling Housing, Cost of Living, and Community Stability
-Minnesota Deserves Better: Stopping Fraud, Protecting Taxpayers, and Telling the Truth
-Minnesotans were robbed by massive fraud schemes.
+Read More Chris Kartschoke 7/9/26 Chris Kartschoke 7/9/26 Keeping District 54B and its communities - Affordable and Safe for everyone Keeping District 54B Affordable and Safe: Tackling Housing, Cost of Living, and Community Stability Read More Tanya Troska 6/2/26 Tanya Troska 6/2/26 Minnesota Deserves Better: Stopping Fraud, Protecting Taxpayers, and Telling the Truth Minnesotans were robbed by massive fraud schemes.
 Christopher Kartschoke backs tough sentences, DFL fraud reforms, and honest leadership that puts victims first.
-Minnesota’s Environmental Future: A Vision for Clean Water, Safe Land, and Climate Leadership in 54B
-Christopher, proudly endorsed by the DFL Environmental Caucus, outlines a clear plan to protect Minnesota’s Boundary Waters, safeguard clean drinking water, rein in data centers, and achieve carbon‑free energy while growing our local economy responsibly.
-Multiple Pathways to the American Dream
-Chris Kartschoke’s plan to lower college costs, expand PSEO and online learning, and grow career‑ready high school programs like MNCAPS and the Academies of Shakopee.
+Read More environment Chris Kartschoke 4/25/26 environment Chris Kartschoke 4/25/26 Minnesota’s Environmental Future: A Vision for Clean Water, Safe Land, and Climate Leadership in 54B Christopher, proudly endorsed by the DFL Environmental Caucus, outlines a clear plan to protect Minnesota’s Boundary Waters, safeguard clean drinking water, rein in data centers, and achieve carbon‑free energy while growing our local economy responsibly.
+Read More Chris Kartschoke 3/11/26 Chris Kartschoke 3/11/26 Multiple Pathways to the American Dream Chris Kartschoke’s plan to lower college costs, expand PSEO and online learning, and grow career‑ready high school programs like MNCAPS and the Academies of Shakopee.
+Read More for MN House Representative - District 54B Christopher Kartschoke Serving People and Communities for Shakopee, Prior Lake, and Jordan Additional Resources Articles and PR Find Chris on Facebook Follow Chris on Instagram Listen to Chris on YouTube Minnesota Voting Information MN District 54B Poll Finder (PDF) Key Links Our Vision Donate Now Contact Chris﻿ Upcoming Events Discovering District 54B Prepared and paid for by CK4MN at P.O.
+Box 152 Prior Lake, MN 55372 #© All Rights Reserved.
+CK4MN, Christopher Kartschoke Proudly Designed and Cared for by Back2Basics, LLC

@@ -1,4 +1,4 @@
-DON’T WAIT FOR IT TO HAPPEN.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute Employment Home / Issues / Employment DON’T WAIT FOR IT TO HAPPEN.
 MAKE IT HAPPEN!
 Yep.
 This is a pep talk for those who want better.
@@ -46,4 +46,11 @@ We must SUSTAINABLY manage our forests while taking care not to destroy them and
 We must have SUSTAINABLE, environmentally friendly ocean based seafood industries.
 We must take advantage of our location and quality of life and develop the huge potential for remote internet-based businesses.
 We must change our attitude from “Maine has little opportunity” to “Maine’s economic potential is tremendous.
-We can and must create our own opportunities to reach our fullest potential.”
+We can and must create our own opportunities to reach our fullest potential.” Issues John M.
+Glowa, Sr.
+An experienced public servant and lifelong advocate for government reform, environmental protection, and putting people before politics.
+Recent Post ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News John Glowa, Sr.
+Announces Gubernatorial Candidacy Why Should You Vote For Me?
+See All Posts John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

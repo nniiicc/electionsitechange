@@ -1,15 +1,78 @@
 [
-"https://google.com/maps/place/Red+Brick+Meeting+House/@44.6114708,-73.0111064,667m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cca753b571e2ac7:0xcb6a5991709be689!8m2!3d44.611467!4d-73.0085261!16s%2Fg%2F1tddrtvm?authuser=0&entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2FDocuments%2FSmallMaps%2F2022%2FHouse%2FChittenden-25.pdf&sa=D&sntz=1&usg=AOvVaw1NVZlaopXoyvEUyNRQEOPS",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr",
-"https://steadyforvthouse.org/about",
-"https://steadyforvthouse.org/community",
-"https://steadyforvthouse.org/contact",
-"https://steadyforvthouse.org/donate",
-"https://steadyforvthouse.org/endorsements",
-"https://steadyforvthouse.org/highlights",
-"https://steadyforvthouse.org/home",
-"https://steadyforvthouse.org/key-issues",
-"https://steadyforvthouse.org/legislative-updates-2026",
-"https://steadyforvthouse.org/legislature"
+{
+"text": "About",
+"href": "https://www.steadyforvthouse.org/about"
+},
+{
+"text": "Click here to learn more about Brenda’s endorsements",
+"href": "https://www.steadyforvthouse.org/endorsements"
+},
+{
+"text": "Community",
+"href": "https://www.steadyforvthouse.org/community"
+},
+{
+"text": "Contact",
+"href": "https://www.steadyforvthouse.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.steadyforvthouse.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.steadyforvthouse.org/endorsements"
+},
+{
+"text": "For Recent Homepage Highlights (Click Here).",
+"href": "https://www.steadyforvthouse.org/highlights"
+},
+{
+"text": "For her position on Key Issues (Click Here)",
+"href": "https://www.steadyforvthouse.org/key-issues"
+},
+{
+"text": "For legislative updates during the 2026 session (Click Here).",
+"href": "https://www.steadyforvthouse.org/legislative-updates-2026"
+},
+{
+"text": "Highlights",
+"href": "https://www.steadyforvthouse.org/highlights"
+},
+{
+"text": "Home",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "Key Issues",
+"href": "https://www.steadyforvthouse.org/key-issues"
+},
+{
+"text": "Legislature",
+"href": "https://www.steadyforvthouse.org/legislature"
+},
+{
+"text": "Red Brick Meeting House",
+"href": "https://www.google.com/maps/place/Red+Brick+Meeting+House/@44.6114708,-73.0111064,667m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4cca753b571e2ac7:0xcb6a5991709be689!8m2!3d44.611467!4d-73.0085261!16s%2Fg%2F1tddrtvm?authuser=0&entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2FDocuments%2FSmallMaps%2F2022%2FHouse%2FChittenden-25.pdf&sa=D&sntz=1&usg=AOvVaw1NVZlaopXoyvEUyNRQEOPS"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr"
+},
+{
+"text": "[image]",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+}
 ]

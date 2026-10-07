@@ -1,8 +1,4 @@
-About
-Home / About
-Service to Leadership
-About Rick Crawford
-Rick Crawford grew up in a military family where his father served in the United States Air Force.
+Skip to content Email Us: info@meetrickcrawford.com X-twitter Instagram About Rick Donate Volunteers Contact X Donate About Home / About Service to Leadership About Rick Crawford Rick Crawford grew up in a military family where his father served in the United States Air Force.
 After graduating high school, he continued in his father’s patriotic footsteps by enlisting in the United States Army, where he served as an Explosive Ordnance Disposal Technician.
 He completed four years of service, advanced to the rank of Sergeant in under three years, and earned numerous medals for service at home and in Southwest Asia.
 After completing his military service, Rick attended Arkansas State University and graduated in 1996 with a degree in Agriculture Business and Economics.
@@ -19,3 +15,7 @@ Rick is also honored to serve as a ranking member on the House Transportation & 
 Congressman Crawford has founded numerous caucuses that reflect his work from his time in the Army to his efforts for areas across the Delta and the First District.
 He been recognized by numerous groups for his efforts to help small businesses, seniors, and Ag-producers.
 Rick and his wife Stacy, also an ASU graduate, live in Jonesboro with their two children.
+Public Service Rick Crawford for Congress Email: info@meetrickcrawford.com Address: P.O.
+Box 16956 Jonesboro, AR 72403 Quick Links About Rick Donate Volunteers Contact Receive Updates Paid for & approved by Crawford for Congress Get Our News Subscribe Subscribe to stay updated with our latest news and updates.
+Copyright # © Crawford for Congress. | All Rights Reserved.
+#plethpowered X-twitter Instagram

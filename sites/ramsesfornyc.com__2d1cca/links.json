@@ -1,9 +1,46 @@
 [
-"https://facebook.com/people/Ramses-Frias/61555880956121",
-"https://instagram.com/ramses.frias.ny",
-"https://ramsesfornyc.com/",
-"https://ramsesfornyc.com/in-the-media",
-"https://secure.anedot.com/friends-for-frias/donate",
-"https://tiktok.com/@ramses.frias",
-"https://x.com/ramses4qns?lang=en"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-for-frias/donate"
+},
+{
+"text": "GET INVOLVED TODAY",
+"href": "mailto:Ramses4qns@gmail.com?subject=Campaign+Volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.ramsesfornyc.com"
+},
+{
+"text": "HOST A FUNDRAISER",
+"href": "mailto:ramses4qns@gmail.com?subject=Host+a+Fundraiser"
+},
+{
+"text": "IN THE MEDIA",
+"href": "https://www.ramsesfornyc.com/in-the-media"
+},
+{
+"text": "Paid for by Friends for Frias",
+"href": "https://www.ramsesfornyc.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "mailto:ramses4qns@gmail.com?subject=Volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Ramses-Frias/61555880956121/?_rdr="
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ramses.frias.ny/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@ramses.frias"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/ramses4qns?lang=en"
+}
 ]

@@ -1,16 +1,58 @@
 [
-"https://facebook.com/RalphCarterNC",
-"https://fvap.gov/military-voter",
-"https://hoke.nc.gop/",
-"https://instagram.com/ralphcarternc",
-"https://ncsbe.gov/registering/how-register",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://ralphcarterfornchouse.com/",
-"https://ralphcarterfornchouse.com/contact",
-"https://ralphcarterfornchouse.com/endorsements",
-"https://ralphcarterfornchouse.com/issues",
-"https://ralphcarterfornchouse.com/meet-dr-carter",
-"https://scotland.nc.gop/",
-"https://secure.anedot.com/ralph-carter-for-nc-house/donate",
-"https://x.com/ralphcarternc"
+{
+"text": "Bio",
+"href": "https://ralphcarterfornchouse.com/meet-dr-carter/"
+},
+{
+"text": "Contact",
+"href": "https://ralphcarterfornchouse.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ralph-carter-for-nc-house/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://ralphcarterfornchouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RalphCarterNC"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Hoke County GOP",
+"href": "https://hoke.nc.gop/"
+},
+{
+"text": "Home",
+"href": "https://ralphcarterfornchouse.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ralphcarternc"
+},
+{
+"text": "Issues",
+"href": "https://ralphcarterfornchouse.com/issues/"
+},
+{
+"text": "Military Voting In NC",
+"href": "https://www.fvap.gov/military-voter"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.ncsbe.gov/registering/how-register"
+},
+{
+"text": "Scotland County GOP",
+"href": "https://scotland.nc.gop/"
+},
+{
+"text": "X",
+"href": "https://x.com/ralphcarternc"
+}
 ]

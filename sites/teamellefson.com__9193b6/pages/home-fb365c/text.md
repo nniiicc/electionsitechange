@@ -1,9 +1,3 @@
-What I commit to doing when elected:
-- I will fight for renters’ rights and hold out-of-state corporate landlords accountable
-- I will strengthen the integration of mental health crisis responders into 9-1-1 calls
-- I will rally against the Trump administration’s illegal ICE raids
-- I will stand up for workers’ rights
-- I will support comprehensive gun control laws
-- I will advance policies to combat climate change
-- I will act to reduce the costs of childcare
-- I will bolster funding for programs that support small businesses
+Meet Sebastian Priorities Delegate Info Get Involved Events Endorsements Donate What I commit to doing when elected: I will fight for renters’ rights and hold out-of-state corporate landlords accountable I will strengthen the integration of mental health crisis responders into 9-1-1 calls I will rally against the Trump administration’s illegal ICE raids I will stand up for workers’ rights I will support comprehensive gun control laws I will advance policies to combat climate change I will act to reduce the costs of childcare I will bolster funding for programs that support small businesses PRIORITIES Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Voter Information Endorsements Yard Signs Make An Endorsement Events Contact Prepared and paid for by: Team Ellefson for 65B P.O.
+Box 7181 St.
+Paul, MN 55107 Powered by CampaignPartner.com - Political Websites Home Meet Sebastian Priorities Delegate Info Endorsements Donate Get Involved Yard Signs Events Contact Voter Information Close Menu

@@ -1,6 +1,1 @@
-It happened to be Brandon Day at the Legislature, so Manuel got his picture taken with Governor Rhoden and the BV folks:
-27
-Feb
-Thursday, 1:34 PM · 2025
-Paid for By: Manuel Luschas
-Powered by CampaignPartner.com - Political Websites
+Home Meet Manuel Platform Scorecard News Endorsements Photos Contact News / Manuel Testifies for SB219 Accept Cash at School Events 27 Feb Thursday, 1:34 PM · 2025 Manuel Testifies for SB219 Accept Cash at School Events It happened to be Brandon Day at the Legislature, so Manuel got his picture taken with Governor Rhoden and the BV folks: Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

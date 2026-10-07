@@ -1,17 +1,9 @@
-Get Involved
-Events with Scott Edwards
-Join a community conversation, meet Scott, and learn more about an independent, rule-of-law approach to the Washington Supreme Court.
-How to help
-If you’d like to host a meet-and-greet, invite Scott to speak, or request a campaign presence at your community event, please reach out using the form below.
-Host or invite Scott
-Bring the campaign to your community
-We welcome opportunities to listen, answer questions, and participate in civic life across Washington.
-Community meet-and-greets
-Small-group conversations focused on the rule of law, judicial independence, and public service.
-Speaking & civic forums
-Panels, bar association events, and community forums—when permitted and appropriate.
-Events FAQ
-Quick answers to common questions about attending and hosting campaign events.
+Home About Scott Edwards About The Supreme Court Get Involved Volunteer Request a Yard Sign Events Donate Contact Get Involved Events with Scott Edwards Join a community conversation, meet Scott, and learn more about an independent, rule-of-law approach to the Washington Supreme Court.
+RSVP / Updates Volunteer How to help If you’d like to host a meet-and-greet, invite Scott to speak, or request a campaign presence at your community event, please reach out using the form below.
+Host or invite Scott Bring the campaign to your community We welcome opportunities to listen, answer questions, and participate in civic life across Washington.
+Community meet-and-greets Small-group conversations focused on the rule of law, judicial independence, and public service.
+Speaking & civic forums Panels, bar association events, and community forums—when permitted and appropriate.
+Request an Event Request Yard Sign Events FAQ Quick answers to common questions about attending and hosting campaign events.
 Do I need to RSVP?
 RSVP is recommended when available so we can plan seating and accessibility.
 If an event is open to the public, you’re welcome to attend even if you can’t RSVP.
@@ -30,6 +22,9 @@ Please RSVP for your full party when possible.
 Are there guidelines for signs, photos, or media?
 Event pages will note any venue rules.
 If you’re a member of the media, please use the contact form to coordinate coverage.
-Event requests & questions
-Send an invitation, ask a question about an upcoming event, or request a campaign appearance.
+Stay informed about upcoming events Get notified when new events are posted, or send an invitation for Scott to attend your community gathering.
+Contact Campaign Event requests & questions Send an invitation, ask a question about an upcoming event, or request a campaign appearance.
 We’ll respond as quickly as possible.
+Seattle, Washington (206) 201-1108 info@votescottedwards.com Send a message Full Name * Email Address * Phone Number How can we help? — Select an option — RSVP / event question Host an event Invite Scott to speak Volunteer Request a yard sign Media inquiry Brief Description of Your Matter Submit Paid for by Vote Scott Edwards, P.O.
+Box 4475, Rollingbay, Wa.
+98061 Home About Scott Edwards About The Supreme Court Get Involved Volunteer Request a Yard Sign Events Donate Contact Site Photos of Scott and Team Credit: Dillon Royset Facebook

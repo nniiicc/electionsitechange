@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61581640422275",
-"https://higginsforrep.com/",
-"https://higginsforrep.com/campaign-shop",
-"https://higginsforrep.com/cart",
-"https://higginsforrep.com/donate",
-"https://higginsforrep.com/endorsements",
-"https://higginsforrep.com/new-page",
-"https://higginsforrep.com/requestyardsign",
-"https://secure.anedot.com/citizens-for-higgins/hat",
-"https://secure.anedot.com/citizens-for-higgins/jacket",
-"https://secure.anedot.com/citizens-for-higgins/shirt",
-"https://secure.anedot.com/citizens-for-higgins/sweatshirt"
+{
+"text": "0",
+"href": "https://www.higginsforrep.com/cart"
+},
+{
+"text": "Campaign Shop",
+"href": "https://www.higginsforrep.com/campaign-shop"
+},
+{
+"text": "DOANTE FOR HAT ($50)",
+"href": "https://secure.anedot.com/citizens-for-higgins/hat"
+},
+{
+"text": "DONATE FOR JACKET ($250)",
+"href": "https://secure.anedot.com/citizens-for-higgins/jacket"
+},
+{
+"text": "DONATE FOR SHIRT ($25)",
+"href": "https://secure.anedot.com/citizens-for-higgins/shirt"
+},
+{
+"text": "DONATE FOR SWEATSHIRT ($100)",
+"href": "https://secure.anedot.com/citizens-for-higgins/sweatshirt"
+},
+{
+"text": "Donate",
+"href": "https://www.higginsforrep.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.higginsforrep.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.higginsforrep.com/"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://www.higginsforrep.com/requestyardsign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.higginsforrep.com/new-page"
+},
+{
+"text": "[image: Higgins For Rep]",
+"href": "https://www.higginsforrep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581640422275"
+}
 ]

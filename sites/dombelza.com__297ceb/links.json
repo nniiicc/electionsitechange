@@ -1,15 +1,62 @@
 [
-"https://dombelza.com/",
-"https://dombelza.com/about",
-"https://dombelza.com/contact-us",
-"https://dombelza.com/endorsements",
-"https://dombelza.com/issues",
-"https://dombelza.com/media",
-"https://dombelza.com/news",
-"https://dombelza.com/privacy-policy",
-"https://dombelza.com/volunteer",
-"https://efundraisingconnections.com/c/BelzaforAssembly2026",
-"https://facebook.com/ElectDomBelza",
-"https://instagram.com/dombelza",
-"https://youtube.com/@DomBelzaForStateAssembly"
+{
+"text": "ABOUT DOM BELZA",
+"href": "https://dombelza.com/about/"
+},
+{
+"text": "About",
+"href": "https://dombelza.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://dombelza.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/BelzaforAssembly2026"
+},
+{
+"text": "Endorsements",
+"href": "https://dombelza.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ElectDomBelza"
+},
+{
+"text": "Home",
+"href": "https://dombelza.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dombelza/"
+},
+{
+"text": "Issues",
+"href": "https://dombelza.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://dombelza.com/media/"
+},
+{
+"text": "News",
+"href": "https://dombelza.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dombelza.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://dombelza.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@DomBelzaForStateAssembly"
+},
+{
+"text": "[image]",
+"href": "https://dombelza.com/"
+}
 ]

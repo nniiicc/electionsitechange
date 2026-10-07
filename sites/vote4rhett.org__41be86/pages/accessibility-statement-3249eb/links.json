@@ -1,11 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61593625937059",
-"https://vote4rhett.org/",
-"https://vote4rhett.org/accessibility-statement",
-"https://vote4rhett.org/blank-1",
-"https://vote4rhett.org/electioninformation",
-"https://vote4rhett.org/meetrhett",
-"https://vote4rhett.org/priorities",
-"https://vote4rhett.org/privacy-policy",
-"https://vote4rhett.org/terms-and-conditions"
+{
+"text": "Accessibility Statement",
+"href": "https://www.vote4rhett.org/accessibility-statement"
+},
+{
+"text": "Contact & Get Involved",
+"href": "https://www.vote4rhett.org/blank-1"
+},
+{
+"text": "Election Information",
+"href": "https://www.vote4rhett.org/electioninformation"
+},
+{
+"text": "Meet Rhett",
+"href": "https://www.vote4rhett.org/meetrhett#Section%207"
+},
+{
+"text": "Priorities",
+"href": "https://www.vote4rhett.org/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vote4rhett.org/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.vote4rhett.org/terms-and-conditions"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.vote4rhett.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61593625937059"
+},
+{
+"text": "rhettsmith@gmail.com",
+"href": "mailto:rhettsmith@gmail.com"
+}
 ]

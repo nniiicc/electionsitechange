@@ -1,8 +1,30 @@
 [
-"http://squarespace.com/circle?channel=web_sqsp&subchannel=bree_template",
-"https://johndleonardformd.com/",
-"https://johndleonardformd.com/cart",
-"https://johndleonardformd.com/projects",
-"https://johndleonardformd.com/scheduling",
-"https://johndleonardformd.com/the-issues"
+{
+"text": "0",
+"href": "https://www.johndleonardformd.com/cart"
+},
+{
+"text": "Connect",
+"href": "https://www.johndleonardformd.com/scheduling"
+},
+{
+"text": "Explore Projects",
+"href": "https://www.johndleonardformd.com/projects"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.johndleonardformd.com/"
+},
+{
+"text": "Squarespace Circle",
+"href": "http://squarespace.com/circle?channel=web_sqsp&subchannel=bree_template"
+},
+{
+"text": "The Issues",
+"href": "https://www.johndleonardformd.com/the-issues"
+},
+{
+"text": "[image: John D. Leonard for Delegate]",
+"href": "https://www.johndleonardformd.com/"
+}
 ]

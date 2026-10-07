@@ -1,5 +1,34 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://jamesguzofski.com/"
+{
+"text": "About",
+"href": "https://jamesguzofski.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://jamesguzofski.com/#contact"
+},
+{
+"text": "Mission",
+"href": "https://jamesguzofski.com/#duty"
+},
+{
+"text": "Platform",
+"href": "https://jamesguzofski.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Record",
+"href": "https://jamesguzofski.com/#record"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[image: Guzofski Logo] GuzofskiRockingham 1",
+"href": "https://jamesguzofski.com/"
+}
 ]

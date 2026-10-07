@@ -1,37 +1,202 @@
 [
-"https://ams.usda.gov/rules-regulations/paca",
-"https://civileats.com/2020/02/07/new-york-farmers-are-struggling-to-sell-their-onions-u-s-lawmakers-want-a-trade-investigation",
-"https://energy.gov/eere/solar/articles/potential-agrivoltaics-us-solar-industry-farmers-and-communities",
-"https://ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110378",
-"https://facebook.com/profile.php?id=61588564963009",
-"https://fitzsimmonsforassembly.com/",
-"https://fitzsimmonsforassembly.com/about",
-"https://fitzsimmonsforassembly.com/donate",
-"https://fitzsimmonsforassembly.com/energy",
-"https://fitzsimmonsforassembly.com/events-donate",
-"https://fitzsimmonsforassembly.com/family-farms",
-"https://fitzsimmonsforassembly.com/health-care",
-"https://fitzsimmonsforassembly.com/photos-video",
-"https://fitzsimmonsforassembly.com/privacy-policy",
-"https://fitzsimmonsforassembly.com/rein-in-ai",
-"https://fitzsimmonsforassembly.com/short-form-primary",
-"https://fitzsimmonsforassembly.com/short-form-primary-copy",
-"https://fitzsimmonsforassembly.com/sms-signup",
-"https://fitzsimmonsforassembly.com/sms-terms",
-"https://fitzsimmonsforassembly.com/solutions",
-"https://fitzsimmonsforassembly.com/volunteer",
-"https://fitzsimmonsforassembly.com/voter-resources",
-"https://freshfruitportal.com/news/2026/08/24/usapple-report",
-"https://fruitgrowersnews.com/news/us-apple-industry-faces-falling-prices-rising-costs",
-"https://ftc.gov/news-events/news/press-releases/2025/01/ftc-states-sue-deere-company-protect-farmers-unfair-corporate-tactics-high-repair-costs",
-"https://ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
-"https://gillibrand.senate.gov/?p=2986",
-"https://grocerydive.com/news/grocery-market-share-united-states-biggest-winners-losers/758672",
-"https://instagram.com/butchfitzsimmons",
-"https://kffhealthnews.org/news/article/farmers-health-insurance-costs-aca-obamacare-subsidies",
-"https://norc.org/research/library/new-uvm-study--health-insurance-costs-threaten-farm-viability.html",
-"https://nysolarmap.com/media/1091/commercialnysnetmeteringfaq.pdf",
-"https://osc.ny.gov/files/reports/pdf/profile-of-agriculture-in-nys.pdf",
-"https://secure.actblue.com/donate/carl-fitzsimmons-1",
-"https://spectrumlocalnews.com/nys/hudson-valley/news/2020/04/03/after-100-years--hudson-valley-pawelski-farm-shuts-down"
+{
+"text": "About",
+"href": "https://fitzsimmonsforassembly.com/about/"
+},
+{
+"text": "About Carl",
+"href": "https://fitzsimmonsforassembly.com/about"
+},
+{
+"text": "Come to an event",
+"href": "https://fitzsimmonsforassembly.com/events-donate/"
+},
+{
+"text": "Content – General",
+"href": "https://fitzsimmonsforassembly.com/short-form-primary-copy/"
+},
+{
+"text": "Content – Primary",
+"href": "https://fitzsimmonsforassembly.com/short-form-primary/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/carl-fitzsimmons-1"
+},
+{
+"text": "Donate",
+"href": "https://fitzsimmonsforassembly.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carl-fitzsimmons-1"
+},
+{
+"text": "Donate — matched up to 12×",
+"href": "https://secure.actblue.com/donate/carl-fitzsimmons-1"
+},
+{
+"text": "Energy",
+"href": "https://fitzsimmonsforassembly.com/energy/"
+},
+{
+"text": "Events & Donate",
+"href": "https://fitzsimmonsforassembly.com/events-donate/"
+},
+{
+"text": "Family Farms",
+"href": "https://fitzsimmonsforassembly.com/family-farms/"
+},
+{
+"text": "Finger Lakes Times – Full response to questions",
+"href": "https://fitzsimmonsforassembly.com/flt-full-response/"
+},
+{
+"text": "Follow the Health Care Money",
+"href": "https://fitzsimmonsforassembly.com/health-care/"
+},
+{
+"text": "Follow the Health Care Money →",
+"href": "https://fitzsimmonsforassembly.com/health-care/"
+},
+{
+"text": "Follow us on Facebook →",
+"href": "https://www.facebook.com/profile.php?id=61588564963009"
+},
+{
+"text": "Follow us on Instagram →",
+"href": "https://www.instagram.com/butchfitzsimmons"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://fitzsimmonsforassembly.com/volunteer"
+},
+{
+"text": "Health Care",
+"href": "https://fitzsimmonsforassembly.com/health-care/"
+},
+{
+"text": "Home",
+"href": "https://fitzsimmonsforassembly.com/"
+},
+{
+"text": "Photos & Video",
+"href": "https://fitzsimmonsforassembly.com/photos-video/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fitzsimmonsforassembly.com/privacy-policy"
+},
+{
+"text": "Rein in AI",
+"href": "https://fitzsimmonsforassembly.com/rein-in-ai/"
+},
+{
+"text": "SMS Terms",
+"href": "https://fitzsimmonsforassembly.com/sms-terms"
+},
+{
+"text": "SMS signup",
+"href": "https://fitzsimmonsforassembly.com/sms-signup"
+},
+{
+"text": "Solutions",
+"href": "https://fitzsimmonsforassembly.com/solutions"
+},
+{
+"text": "Solutions",
+"href": "https://fitzsimmonsforassembly.com/solutions/"
+},
+{
+"text": "The distributed energy plan →",
+"href": "https://fitzsimmonsforassembly.com/energy/"
+},
+{
+"text": "Volunteer",
+"href": "https://fitzsimmonsforassembly.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://fitzsimmonsforassembly.com/volunteer/"
+},
+{
+"text": "Voter Resources",
+"href": "https://fitzsimmonsforassembly.com/voter-resources"
+},
+{
+"text": "Voter Resources",
+"href": "https://fitzsimmonsforassembly.com/voter-resources/"
+},
+{
+"text": "[image: Carl Fitzsimmons for Assembly][image: Carl Fitzsimmons for Assembly]",
+"href": "https://fitzsimmonsforassembly.com"
+},
+{
+"text": "ams.usda.gov",
+"href": "https://www.ams.usda.gov/rules-regulations/paca"
+},
+{
+"text": "civileats.com",
+"href": "https://civileats.com/2020/02/07/new-york-farmers-are-struggling-to-sell-their-onions-u-s-lawmakers-want-a-trade-investigation/"
+},
+{
+"text": "energy.gov",
+"href": "https://www.energy.gov/eere/solar/articles/potential-agrivoltaics-us-solar-industry-farmers-and-communities"
+},
+{
+"text": "ers.usda.gov",
+"href": "https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110378"
+},
+{
+"text": "freshfruitportal.com",
+"href": "https://www.freshfruitportal.com/news/2026/08/24/usapple-report/"
+},
+{
+"text": "friends@friendsofbutch.com",
+"href": "mailto:friends@friendsofbutch.com"
+},
+{
+"text": "fruitgrowersnews.com",
+"href": "https://fruitgrowersnews.com/news/us-apple-industry-faces-falling-prices-rising-costs/"
+},
+{
+"text": "ftc.gov",
+"href": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-states-sue-deere-company-protect-farmers-unfair-corporate-tactics-high-repair-costs"
+},
+{
+"text": "ftc.gov",
+"href": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair"
+},
+{
+"text": "gillibrand.senate.gov",
+"href": "https://www.gillibrand.senate.gov/?p=2986"
+},
+{
+"text": "grocerydive.com",
+"href": "https://www.grocerydive.com/news/grocery-market-share-united-states-biggest-winners-losers/758672/"
+},
+{
+"text": "kffhealthnews.org",
+"href": "https://kffhealthnews.org/news/article/farmers-health-insurance-costs-aca-obamacare-subsidies/"
+},
+{
+"text": "norc.org",
+"href": "https://www.norc.org/research/library/new-uvm-study--health-insurance-costs-threaten-farm-viability.html"
+},
+{
+"text": "nysolarmap.com",
+"href": "https://nysolarmap.com/media/1091/commercialnysnetmeteringfaq.pdf"
+},
+{
+"text": "osc.ny.gov",
+"href": "https://www.osc.ny.gov/files/reports/pdf/profile-of-agriculture-in-nys.pdf"
+},
+{
+"text": "spectrumlocalnews.com",
+"href": "https://spectrumlocalnews.com/nys/hudson-valley/news/2020/04/03/after-100-years--hudson-valley-pawelski-farm-shuts-down"
+},
+{
+"text": "the distributed energy plan",
+"href": "https://fitzsimmonsforassembly.com/energy/"
+}
 ]

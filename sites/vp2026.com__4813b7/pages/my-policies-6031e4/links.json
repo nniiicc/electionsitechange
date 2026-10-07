@@ -1,9 +1,38 @@
 [
-"https://discord.gg/emQtVyAkJy",
-"https://itep.org/undocumented-immigrants-taxes-2024",
-"https://vp2026.com/",
-"https://vp2026.com/donate",
-"https://vp2026.com/how-to-vote",
-"https://vp2026.com/my-policies",
-"https://vp2026.com/who-i-am"
+{
+"text": "Discord channel",
+"href": "https://discord.gg/emQtVyAkJy"
+},
+{
+"text": "Donate",
+"href": "https://www.vp2026.com/donate/"
+},
+{
+"text": "Email Me",
+"href": "mailto:valentin.p.117@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://www.vp2026.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://www.vp2026.com/how-to-vote/"
+},
+{
+"text": "My Policies",
+"href": "https://www.vp2026.com/my-policies/"
+},
+{
+"text": "Source",
+"href": "https://itep.org/undocumented-immigrants-taxes-2024/"
+},
+{
+"text": "Who I am",
+"href": "https://www.vp2026.com/who-i-am/"
+},
+{
+"text": "[no text]",
+"href": "https://www.vp2026.com/"
+}
 ]

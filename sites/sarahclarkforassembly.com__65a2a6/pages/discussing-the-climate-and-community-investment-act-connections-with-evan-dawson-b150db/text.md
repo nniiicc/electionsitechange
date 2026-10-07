@@ -1,5 +1,4 @@
-What is the Climate and Community Investment Act?
+Toggle navigation Vote About Sarah In The News Issues Get Involved Volunteer Subscribe Contact Donate Discussing the Climate and Community Investment Act | Connections with Evan Dawson May 26, 2021 What is the Climate and Community Investment Act?
 The legislation – which has passed the New York State Senate and Assembly – seeks to transition the state to 100 percent renewable energy.
 If enacted, supporters say the bill would create hundreds of thousands of jobs, protect workers in the fossil fuel industry, and support communities most impacted by climate change.
-We’re joined by local climate activists and Assemblymember Sarah Clark to discuss the Act, the impact it would have if implemented, and how New York State is addressing climate change.
-“Discussing the Climate and Community Investment Act | Connections with Evan Dawson,” May 26, 2021 via WXXI News
+We’re joined by local climate activists and Assemblymember Sarah Clark to discuss the Act, the impact it would have if implemented, and how New York State is addressing climate change. “ Discussing the Climate and Community Investment Act | Connections with Evan Dawson,” May 26, 2021 via WXXI News climate Post navigation ￼Community planning process in place for Town Hall transformation Financial, mental health resources available for New York small businesses Vote About Sarah In The News Issues Volunteer Subscribe Media Contact

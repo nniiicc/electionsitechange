@@ -1,26 +1,110 @@
 [
-"https://bsky.app/profile/ldsfn.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/dkcalder",
-"https://tiktok.com/@uintahiker",
-"https://votedavecalder.com/",
-"https://votedavecalder.com/about",
-"https://votedavecalder.com/donate",
-"https://votedavecalder.com/events",
-"https://votedavecalder.com/issues",
-"https://votedavecalder.com/new-page",
-"https://votedavecalder.com/news/calder-calls-on-utahs-congressional-deligation-to-begin-impeachment-and-removal-of-donald-trump",
-"https://votedavecalder.com/news/calder-criticizes-lack-of-transparency-with-stratos-data-center",
-"https://votedavecalder.com/news/calder-endorsed-by-the-utah-veterans-democratic-caucus",
-"https://votedavecalder.com/news/calder-files-for-utah-house-district-11",
-"https://votedavecalder.com/news/candidate-corner-interview-with-dave-calder",
-"https://votedavecalder.com/news/county-convention-season",
-"https://votedavecalder.com/news/dave-calder-opposes-the-draconian-reduction-of-two-utah-national-monument",
-"https://votedavecalder.com/news/house-district-11-katy-hall-vs-dave-calder",
-"https://votedavecalder.com/news/keep-trump-out-of-utah-redistricting",
-"https://votedavecalder.com/news/news-1",
-"https://votedavecalder.com/news/news-2",
-"https://votedavecalder.com/news/utah-democratic-convention-24-25-april",
-"https://votedavecalder.com/news/utah-state-bar-deeply-alarmed-by-bills-it-says-would-weaken-the-judiciarys-independence",
-"https://votedavecalder.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://www.votedavecalder.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedavecalder.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/dkcalder"
+},
+{
+"text": "Home",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.votedavecalder.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.votedavecalder.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedavecalder.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/calder-calls-on-utahs-congressional-deligation-to-begin-impeachment-and-removal-of-donald-trump"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/calder-criticizes-lack-of-transparency-with-stratos-data-center"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/calder-endorsed-by-the-utah-veterans-democratic-caucus"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/calder-files-for-utah-house-district-11"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/candidate-corner-interview-with-dave-calder"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/county-convention-season"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/dave-calder-opposes-the-draconian-reduction-of-two-utah-national-monument"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/house-district-11-katy-hall-vs-dave-calder"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/keep-trump-out-of-utah-redistricting"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/news-1"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/news-2"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/utah-democratic-convention-24-25-april"
+},
+{
+"text": "Read more",
+"href": "https://www.votedavecalder.com/news/utah-state-bar-deeply-alarmed-by-bills-it-says-would-weaken-the-judiciarys-independence"
+},
+{
+"text": "Want to Help?",
+"href": "https://www.votedavecalder.com/new-page"
+},
+{
+"text": "[image: VoteDaveCalder logo]",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ldsfn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dkcalder"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@uintahiker"
+}
 ]

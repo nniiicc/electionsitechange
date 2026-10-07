@@ -1,6 +1,5 @@
-Rep.
-Mark Pocan: Dem gubernatorial candidates must focus on Walker, not each other
-Over the next month, Democratic candidates for governor will make their closing arguments to Wisconsin voters, working to set themselves apart from the rest of the field and earn a spot on the general election ballot.
+Meet Mark News Contact Nomination Papers Join The Team Get Involved Contribute Menu Menu Link to Facebook Link to X Rep.
+Mark Pocan: Dem gubernatorial candidates must focus on Walker, not each other July 17, 2018 Over the next month, Democratic candidates for governor will make their closing arguments to Wisconsin voters, working to set themselves apart from the rest of the field and earn a spot on the general election ballot.
 With eight candidates still vying for the nomination, voters have strong choices to defeat Gov.
 Scott Walker in November.
 However, if we want to be successful, Democrats must focus on Gov.
@@ -29,3 +28,6 @@ We have our best shot of winning in November if every candidate focuses on Gov.
 Walker, while showing voters the positive vision their campaigns offer.
 The stakes are too high for cheap shots, personal attacks, and misguided campaign tactics.
 I commend the eight gubernatorial candidates for their strong statements on clean campaigning.
+Read the original article here .
+Share this entry Share on Facebook Share on X Share on WhatsApp Share on Pinterest Share on LinkedIn Share by Mail https://pocanforcongress.com/wp-content/uploads/2018/07/5b47f618bfe8d.image_.jpg 900 1200 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2018-07-17 18:08:33 2018-10-07 18:10:26 Rep.
+Mark Pocan: Dem gubernatorial candidates must focus on Walker, not each other Contact the Campaign Mark Pocan for Congress PO Box 327 Madison, WI 53701 (608) 286-1073 [email protected] Follow Mark on Facebook Get Email Updates Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top

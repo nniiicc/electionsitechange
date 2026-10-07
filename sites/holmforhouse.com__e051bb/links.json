@@ -1,11 +1,74 @@
 [
-"https://holmforhouse.com/",
-"https://holmforhouse.com/about",
-"https://holmforhouse.com/contact",
-"https://holmforhouse.com/events/absentee-early-voting-election-day",
-"https://holmforhouse.com/events/deadline-advance-voter-registration-general-election",
-"https://holmforhouse.com/events/election-day",
-"https://holmforhouse.com/get-involved",
-"https://pollfinder.sos.mn.gov/",
-"https://secure.actblue.com/donate/holm_for_house"
+{
+"text": "- FOR MN HOUSE -",
+"href": "https://www.holmforhouse.com"
+},
+{
+"text": "About",
+"href": "https://www.holmforhouse.com/about"
+},
+{
+"text": "Absentee & Early Voting -- Election Day",
+"href": "https://www.holmforhouse.com/events/absentee-early-voting-election-day"
+},
+{
+"text": "Contact",
+"href": "https://www.holmforhouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/holm_for_house"
+},
+{
+"text": "Deadline - Advance Voter Registration - General Election",
+"href": "https://www.holmforhouse.com/events/deadline-advance-voter-registration-general-election"
+},
+{
+"text": "Election Day!",
+"href": "https://www.holmforhouse.com/events/election-day"
+},
+{
+"text": "FIND MY POLLING LOCATION",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.holmforhouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.holmforhouse.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.holmforhouse.com/about"
+},
+{
+"text": "MORE ABOUT STEVE",
+"href": "https://www.holmforhouse.com/about"
+},
+{
+"text": "RSVP",
+"href": "https://www.holmforhouse.com/events/absentee-early-voting-election-day"
+},
+{
+"text": "RSVP",
+"href": "https://www.holmforhouse.com/events/deadline-advance-voter-registration-general-election"
+},
+{
+"text": "RSVP",
+"href": "https://www.holmforhouse.com/events/election-day"
+},
+{
+"text": "Steve Holm",
+"href": "https://www.holmforhouse.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.holmforhouse.com/get-involved"
+},
+{
+"text": "[image: White MN Star - No Background]",
+"href": "https://www.holmforhouse.com"
+}
 ]

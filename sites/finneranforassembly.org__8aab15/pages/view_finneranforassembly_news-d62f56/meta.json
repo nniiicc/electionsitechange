@@ -1,7 +1,9 @@
 {
  "description": "Click or scroll down to read published news articles.",
  "final_url": "https://sites.google.com/view/finneranforassembly/news",
- "paid_for_by": null,
+ "fingerprint": "7ec7489dd61906c6130334f8b111cbec59721e93",
+ "format": 3,
+ "paid_for_by": "",
  "title": "FinneranForAssembly.org - News",
  "years_mentioned": [
   "2025",

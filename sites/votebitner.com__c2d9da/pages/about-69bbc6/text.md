@@ -1,5 +1,4 @@
-Meet Lili Bitner
-Lili Bitner is a lifelong Republican and Utahn.
+0 Skip to Content Home About Priorities Endorsements Join the Team Contact Donate Open Menu Close Menu Home About Priorities Endorsements Join the Team Contact Donate Open Menu Close Menu Home About Priorities Endorsements Join the Team Contact Donate Meet Lili Bitner Lili Bitner is a lifelong Republican and Utahn.
 Lili is the oldest of seven children and eight adopted children.
 She was raised in a home that fostered a love of family, heritage, faith, and America.
 She was taught the value and the joy of hard work, and she has raised her kids with the same values.
@@ -18,3 +17,4 @@ She has served for nearly 20 years as a county and state delegate and remains ac
 She currently serves as Secretary of the Davis County Republican Women and has organized Flag Day celebrations for many years.
 Lili is deeply committed to serving her community.
 She is a member of the Davis County Medical Alliance, advocating for improved healthcare policy, has supported the Davis County Women’s Shelter, and has served on the Davis County Interfaith Council since 2013.
+Copyright # All Rights Reserved Paid for by Friends of Lili Bitner Site Navigation Home Meet Lili Priorities Contact

@@ -1,7 +1,5 @@
-Josh Harbour
-The Garden City Telegram
-Note: This story was originally printed in The Garden City Telegram in 2016.
-The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database.
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute News / 🌻Burnfin, Herdman, Terpstra named 2016 Crystal Apple winners 8 Nov Tuesday, 12:37 PM · 2016 🌻Burnfin, Herdman, Terpstra named 2016 Crystal Apple winners Josh Harbour The Garden City Telegram Note : This story was originally printed in The Garden City Telegram in 2016.
+The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database .
 Rebecca Burnfin, Dr.
 Jennifer Herdman, and Wendi Terpstra are the 2016 Crystal Apple winners.
 About 100 people, including friends, family and co-workers of the the six Crystal Apple finalists congregated in the ballroom of the Clarion Inn for the ceremony and banquet.
@@ -39,6 +37,6 @@ The community is standing behind you and supports you in all of your endeavors, 
 While there will only be three winners named tonight, in reality, there are thousands of winners - the students of USD 457 and USD 363.
 Shelby McNutt, GCHS journalism and photography teacher and a 1995 Crystal Apple winner who acted as master of ceremonies for the banquet, said the event shines a big spotlight on the best educators in Finney County.
 These six ladies have shown dedication, enthusiasm, and professionalism in our classrooms every day, McNutt said.
-Caption:
-Wendi Terpstra, Garden City High School; Dr.
-Jennifer Herdman, GCHS; and Rebecca Burnfin, Bernadine Sitts Intermediate Center, were named the 2016 Crystal Apple winners on Thursday during the Crystal Apple Banquet at the Clarion Inn.
+Caption: Wendi Terpstra, Garden City High School; Dr.
+Jennifer Herdman, GCHS; and Rebecca Burnfin , Bernadine Sitts Intermediate Center, were named the 2016 Crystal Apple winners on Thursday during the Crystal Apple Banquet at the Clarion Inn.
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

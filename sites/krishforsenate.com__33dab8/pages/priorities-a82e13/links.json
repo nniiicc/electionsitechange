@@ -1,17 +1,86 @@
 [
-"https://facebook.com/krishforsenate",
-"https://instagram.com/krishforsenate",
-"https://krishforsenate.com/",
-"https://krishforsenate.com/cart",
-"https://krishforsenate.com/contact",
-"https://krishforsenate.com/endorsements",
-"https://krishforsenate.com/media",
-"https://krishforsenate.com/meet-krish",
-"https://krishforsenate.com/priorities",
-"https://krishforsenate.com/privacy",
-"https://mobilize.us/subrahmanian-for-mn-senatedfl",
-"https://secure.actblue.com/donate/krish-for-senate",
-"https://secure.actblue.com/donate/krish-for-senate?amount=100",
-"https://secure.actblue.com/donate/krish-for-senate?amount=25",
-"https://secure.actblue.com/donate/krish-for-senate?amount=50"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/krish-for-senate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/krish-for-senate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/krish-for-senate?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.krishforsenate.com/cart"
+},
+{
+"text": "@krishforsenate",
+"href": "https://www.instagram.com/krishforsenate/"
+},
+{
+"text": "Contact",
+"href": "https://www.krishforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/krish-for-senate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.krishforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/subrahmanian-for-mn-senatedfl/"
+},
+{
+"text": "Home",
+"href": "https://www.krishforsenate.com/"
+},
+{
+"text": "In the Media",
+"href": "https://www.krishforsenate.com/media"
+},
+{
+"text": "KRISH! for Senate",
+"href": "https://www.krishforsenate.com/"
+},
+{
+"text": "Meet Krish",
+"href": "https://www.krishforsenate.com/meet-krish"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/krish-for-senate"
+},
+{
+"text": "Priorities",
+"href": "https://www.krishforsenate.com/priorities"
+},
+{
+"text": "Privacy",
+"href": "https://www.krishforsenate.com/privacy"
+},
+{
+"text": "See who's on board",
+"href": "https://www.krishforsenate.com/endorsements"
+},
+{
+"text": "Send Krish a note",
+"href": "https://www.krishforsenate.com/contact"
+},
+{
+"text": "[image: Krish for Senate]",
+"href": "https://www.krishforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/krishforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krishforsenate/"
+}
 ]

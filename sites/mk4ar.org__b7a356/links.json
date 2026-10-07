@@ -1,13 +1,46 @@
 [
-"http://lpar.org/",
-"https://mk4ar.org/",
-"https://mk4ar.org/bio",
-"https://mk4ar.org/contact",
-"https://mk4ar.org/donate",
-"https://mk4ar.org/event/baxter-county-farm-bureau-candidate-forum",
-"https://mk4ar.org/event/meet-the-candidates",
-"https://mk4ar.org/event/pea-ridge-mule-jump",
-"https://mk4ar.org/issues-2",
-"https://mk4ar.org/media",
-"https://sos.arkansas.gov/elections/voter-information/voter-registration-information"
+{
+"text": "Bio",
+"href": "https://mk4ar.org/bio/"
+},
+{
+"text": "Contact",
+"href": "https://mk4ar.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://mk4ar.org/donate/"
+},
+{
+"text": "Home",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Issues",
+"href": "https://mk4ar.org/issues-2/"
+},
+{
+"text": "Media",
+"href": "https://mk4ar.org/media/"
+},
+{
+"text": "Meet the Candidates",
+"href": "https://mk4ar.org/event/meet-the-candidates/"
+},
+{
+"text": "Michael Kalagias For LT Governor",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Pea Ridge Mule Jump",
+"href": "https://mk4ar.org/event/pea-ridge-mule-jump/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information"
+},
+{
+"text": "[image]",
+"href": "http://www.lpar.org"
+}
 ]

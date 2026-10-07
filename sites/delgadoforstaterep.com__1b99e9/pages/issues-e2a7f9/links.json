@@ -1,15 +1,90 @@
 [
-"http://elections.il.gov/",
-"https://delgadoforstaterep.com/",
-"https://delgadoforstaterep.com/accomplishments",
-"https://delgadoforstaterep.com/endorsements",
-"https://delgadoforstaterep.com/events",
-"https://delgadoforstaterep.com/get-involved",
-"https://delgadoforstaterep.com/how-to-vote",
-"https://delgadoforstaterep.com/issues",
-"https://delgadoforstaterep.com/meet-eva-dina",
-"https://facebook.com/EvaDina4Rep",
-"https://instagram.com/evadina4staterep",
-"https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1",
-"https://twitter.com/delgadorep"
+{
+"text": "Accomplishments",
+"href": "https://www.delgadoforstaterep.com/accomplishments"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1"
+},
+{
+"text": "Economd Developmnt",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Endorsements",
+"href": "https://www.delgadoforstaterep.com/endorsements"
+},
+{
+"text": "Environment",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Ethcs Reform",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Events",
+"href": "https://www.delgadoforstaterep.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.delgadoforstaterep.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.delgadoforstaterep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Meet Eva-Dina",
+"href": "https://www.delgadoforstaterep.com/meet-eva-dina"
+},
+{
+"text": "Property Tax Reform",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Public Safety",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Public Transprtation & Infrastructure",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Strong Schools",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Top of Page",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Voter Information",
+"href": "https://www.delgadoforstaterep.com/how-to-vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EvaDina4Rep"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/evadina4staterep/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/delgadorep"
+},
+{
+"text": "evadina@delgadoforstaterep.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

@@ -1,7 +1,7 @@
-Leadership spans the roles we play.
+0 Skip to Content Home A Lifetime of Work & Service Why I'm Running Issues Donate Open Menu Close Menu Open Menu Close Menu Home A Lifetime of Work & Service Why I'm Running Issues Donate Home A Lifetime of Work & Service Why I'm Running Issues Donate AFL-CIO For Jen Heck Congressman Jim McGovern for Jen Heck IUOE Local 4 for Jen Heck SEIU Local 509 for Jen Heck Van Jones for Jen Heck UFCW Local 1445 for Jen Heck Young Democrats of Massachusetts for Jen Heck Progressive MA for Jen Heck Worcester-Fitchburg Building and Construction Trades Council for Jen Heck MA Voters for Animals, For Jen Heck Central MA AFL-CIO for Jen Heck Leadership spans the roles we play.
 I'm a mother, a citizen, a small business owner, an artist, a daughter, and a friend.
 I grew up in Sutton and Grafton, went out into the world, and came home to raise my kids and build in the place that matters most to me.
-For 25 years, I've worked as a producer, listening and finding the truth in complicated stories.
+For 25 years, I've worked as a producer , listening and finding the truth in complicated stories.
 From war zones to kitchen tables, I've asked hard questions, found common ground, and worked to amplify and elevate the voices of others.
 I'm running for State Representative because government needs those same skills.
 The 18th District isn't a monolith of beliefs.
@@ -28,3 +28,6 @@ From rising costs to health care to the quiet crush of the sandwich generation, 
 A Lifetime of Work Should Mean Security.
 As cancer rates rise, our drinking water needs to be universally tested for toxins like PFAS so we can assess and respond.
 Clean water is infrastructure.
+The Next Public Health Crisis Is Already Here.
+The Basics Have To Work.
+Vote Jen heck hey@voteJenHeck.com

@@ -1,11 +1,42 @@
 [
-"https://rickforgov.org/",
-"https://rickforgov.org/_blank",
-"https://rickforgov.org/cdn-cgi/l/email-protection",
-"https://rickforgov.org/contact.html",
-"https://rickforgov.org/events.html",
-"https://rickforgov.org/pressmedia.html",
-"https://rickforgov.org/t-shirts-and-gear.html",
-"https://rickforgov.org/team.html",
-"https://rickforgov.org/the-simple-plan.html"
+{
+"text": "Contact",
+"href": "https://www.rickforgov.org/contact.html"
+},
+{
+"text": "Events",
+"href": "https://www.rickforgov.org/events.html"
+},
+{
+"text": "Home",
+"href": "https://www.rickforgov.org/"
+},
+{
+"text": "Press/Media",
+"href": "https://www.rickforgov.org/pressmedia.html"
+},
+{
+"text": "RICK BEARD FOR GOVERNOR",
+"href": "https://www.rickforgov.org/"
+},
+{
+"text": "T-Shirts and Gear",
+"href": "https://www.rickforgov.org/t-shirts-and-gear.html"
+},
+{
+"text": "Team",
+"href": "https://www.rickforgov.org/team.html"
+},
+{
+"text": "The Simple Plan",
+"href": "https://www.rickforgov.org/the-simple-plan.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.rickforgov.org/cdn-cgi/l/email-protection"
+}
 ]

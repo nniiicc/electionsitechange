@@ -1,5 +1,4 @@
-Back to All Events
-Earlier Event: December 10
-Holiday Brunch with State Representative Perry Warren
-Later Event: July 20
-Come Celebrate National Ice Cream Day with Perry and Liz
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Back to All Events Join Us at Vecchia Osteria to Re-Elect Our State Representative Perry Warren Tuesday, May 28, 2024 5:30 PM 7:30 PM 17:30 19:30 Vecchia Osteria by Pasquale 20 Richboro Road Newtown, PA, 18940 United States (map) Google Calendar ICS Join us for a Reception to Re-Elect The Newtown Democrats,The Upper Makefield Democrats and The Lower Makefield-Yardley Democratic Committee Invite you to enjoy a dinner selected by Pasquale at his popular Newtown restaurant Vecchia Osteria by Pasquale 20 Richboro-Newtown Road, Newtown, PA Tuesday, May 28th from 5:30-7:30 p.m.
+RSVP HERE Earlier Event: December 10 Holiday Brunch with State Representative Perry Warren Later Event: July 20 Come Celebrate National Ice Cream Day with Perry and Liz Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

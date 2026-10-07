@@ -1,14 +1,50 @@
 [
-"http://linkedin.com/in/tonyjscott",
-"http://tonyscottforstaterep.com/",
-"http://tonyscottforstaterep.com/contact",
-"http://tonyscottforstaterep.com/home",
-"http://tonyscottforstaterep.com/issues",
-"http://tonyscottforstaterep.com/meet_tony",
-"http://tonyscottforstaterep.com/press-releases",
-"http://tonyscottforstaterep.com/view-endorsements",
-"http://tonyscottforstaterep.com/volunteer",
-"http://tonyscottforstaterep.com/vote",
-"https://campaignpartner.com/",
-"https://facebook.com/TonyScottforStateRep"
+{
+"text": "Contact",
+"href": "http://www.tonyscottforstaterep.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "http://www.tonyscottforstaterep.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "http://www.tonyscottforstaterep.com/home"
+},
+{
+"text": "Issues",
+"href": "http://www.tonyscottforstaterep.com/issues"
+},
+{
+"text": "Meet Tony",
+"href": "http://www.tonyscottforstaterep.com/meet_tony"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Press Releases",
+"href": "http://www.tonyscottforstaterep.com/press-releases"
+},
+{
+"text": "Request a Sign",
+"href": "http://www.tonyscottforstaterep.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "http://www.tonyscottforstaterep.com/vote"
+},
+{
+"text": "[image]",
+"href": "http://www.tonyscottforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/in/tonyjscott"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TonyScottforStateRep/"
+}
 ]

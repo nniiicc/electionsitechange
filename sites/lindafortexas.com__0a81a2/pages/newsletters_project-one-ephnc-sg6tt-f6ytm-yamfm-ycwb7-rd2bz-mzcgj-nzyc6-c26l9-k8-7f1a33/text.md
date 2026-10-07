@@ -1,6 +1,4 @@
-🔔 HD 107 Weekly Newsletter 🔔
-“ We connected with with so many passionate individuals and organizations working to create a more inclusive, equitable Texas.
-I'm so grateful to keep fighting for the issues that matter most to District 107!”
--Linda G.-
-Previous
-Next
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect 🔔 HD 107 Weekly Newsletter 🔔 View fullsize “ We connected with with so many passionate individuals and organizations working to create a more inclusive, equitable Texas.
+I'm so grateful to keep fighting for the issues that matter most to District 107! ” -Linda G.- SEE MORE 🔔 Boletín Semanal de HD 107 🔔 Nos conectamos con tantas personas y organizaciones Desde la presentación de una cláusula presupuestaria para apoyar a los sobrevivientes hasta recibiendo estudiantes y líderes de la comunidad en el Capitolio, estamos trabajando arduamente por HD 107.
+Estamos muy orgullosos de defender nuestro distrito y de luchar por un Tejas más fuerte! (haga clic en el enlace) Previous Previous April 4 Next Next March 21 LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

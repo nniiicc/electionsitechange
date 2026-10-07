@@ -1,17 +1,66 @@
 [
-"https://chicagoelections.gov/",
-"https://cookcountyclerkil.gov/elections/polling-places",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations",
-"https://elections.il.gov/electionoperations/districtlocator/districtofficialsearchbyaddress.aspx",
-"https://facebook.com/LisaFor2",
-"https://illinoispolicy.org/maps/illinois-house",
-"https://instagram.com/lisaforstatehouse",
-"https://ova.elections.il.gov/",
-"https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1",
-"https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=10",
-"https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=150",
-"https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=25",
-"https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=250",
-"https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=50",
-"https://winnable.app/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=10"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/LisaFor2"
+},
+{
+"text": "Find early voting locations and hours",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lisaforstatehouse"
+},
+{
+"text": "Look up your Election Day polling location in Suburban Cook County",
+"href": "https://www.cookcountyclerkil.gov/elections/polling-places"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/citizens-for-elizabeth-hernandez-1"
+},
+{
+"text": "Register or update your voter registration online",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Search by address to see who represents you",
+"href": "https://www.elections.il.gov/electionoperations/districtlocator/districtofficialsearchbyaddress.aspx"
+},
+{
+"text": "View a map of Illinois House of Representatives districts",
+"href": "https://www.illinoispolicy.org/maps/illinois-house/"
+},
+{
+"text": "Visit the Chicago Board of Elections website",
+"href": "https://chicagoelections.gov/"
+},
+{
+"text": "[image: Winnable]",
+"href": "https://winnable.app"
+}
 ]

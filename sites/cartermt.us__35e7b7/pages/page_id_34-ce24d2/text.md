@@ -1,14 +1,4 @@
-Inspired by other role models who have taught me so much, these are the issues that I am passionate about:
-- Public Education
-- Small businesses
-- Human Rights
-- Voting Rights
-- Public Lands
-- Wildlife Habitat
-- Enjoying and protecting our Natural Resources
-- Consumer Protection
-- Public Healthcare
-- Renewable Energy
-- Critical Thinking, Science and The Scientific Method
-Volunteering is the ultimate exercise in democracy.
-You vote in elections once a year, but when you volunteer, you vote every day about the kind of community you want to live in. – Author Unknown
+Skip to content Home About Principles Donate Ethics Supporters and Endorsements Press Principles Home Principles Inspired by other role models who have taught me so much, these are the issues that I am passionate about: Early childhood education is essential to success of our next generations.
+Public Education Small businesses Human Rights Voting Rights Public Lands Wildlife Habitat Enjoying and protecting our Natural Resources Consumer Protection Public Healthcare Renewable Energy Critical Thinking, Science and The Scientific Method Volunteering is the ultimate exercise in democracy.
+You vote in elections once a year, but when you volunteer, you vote every day about the kind of community you want to live in. – Author Unknown Re-Elect Bob Carter for Montana HD96.
+4299 Spurgin Road, Missoula MT 59804 - Montana democrat - Barbara Berens treasurer Scroll to Top

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/",
-"https://facebook.com/profile.php?id=61590838102376",
-"https://harrysawickiforsenate.org/",
-"https://harrysawickiforsenate.org/about",
-"https://harrysawickiforsenate.org/contact",
-"https://harrysawickiforsenate.org/donate-today",
-"https://harrysawickiforsenate.org/endorsements",
-"https://harrysawickiforsenate.org/legal-notice",
-"https://harrysawickiforsenate.org/privacy-policy",
-"https://instagram.com/",
-"https://x.com/"
+{
+"text": "About",
+"href": "https://www.harrysawickiforsenate.org/about/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.harrysawickiforsenate.org/donate-today/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.harrysawickiforsenate.org/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.harrysawickiforsenate.org/"
+},
+{
+"text": "Join Us",
+"href": "https://www.harrysawickiforsenate.org/contact/"
+},
+{
+"text": "Legal Notice",
+"href": "https://www.harrysawickiforsenate.org/legal-notice/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.harrysawickiforsenate.org/privacy-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590838102376"
+},
+{
+"text": "[no text]",
+"href": "https://www.harrysawickiforsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:harrysawicki4senate2@gmail.com"
+}
 ]

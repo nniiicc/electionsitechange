@@ -1,8 +1,10 @@
-Do you believe in leadership focused on getting results and bringing people together?
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Do you believe in leadership focused on getting results and bringing people together?
 Do you want a campaign based on honesty and integrity?
 Then we want you to join our team!
-Volunteer
-Volunteers are a critical part of any successful campaign.
+Volunteer Volunteers are a critical part of any successful campaign.
 From calling and door knocking to stuffing envelopes, there’s something for everyone to do!
-Check out our upcoming events below or on this page.
+Check out our upcoming events below or on this page .
 Or, if you don’t see what you’re looking for, fill out this form, and we’ll be sure to let you know when we could use your help to elect Matt!
+Check out our upcoming volunteer opportunities Matt is the champion we need at the State Capitol Join Us Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

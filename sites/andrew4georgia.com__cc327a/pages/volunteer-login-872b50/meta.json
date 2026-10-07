@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://andrew4georgia.com/wp-login.php?volunteer-login&redirect=false",
- "paid_for_by": null,
+ "fingerprint": "ee79aab209c3cd2110647ac32367ec89e227b537",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer Login",
  "years_mentioned": []
 }

@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the Jan Allen Aspelund campaign",
  "final_url": "https://janassemblynv23.com/contribute?amount=1000",
- "paid_for_by": null,
+ "fingerprint": "ec5070840541d544de8454c56f3fc7977c9855ec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

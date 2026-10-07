@@ -1,7 +1,22 @@
 [
-"https://nicklangworthy.com/",
-"https://nicklangworthy.com/privacy-policy",
-"https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today",
-"https://secure.winred.com/langworthy-for-congress/storefront",
-"https://vimeo.com/738715467/30a9da0e38"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/d0857e4d-cf21-42a8-ae60-e6b50dcb52b2/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nicklangworthy.com/privacy-policy/"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/langworthy-for-congress/storefront/"
+},
+{
+"text": "Vimeo",
+"href": "https://vimeo.com/738715467/30a9da0e38"
+},
+{
+"text": "[image: Nick Langworthy for Congress]",
+"href": "https://nicklangworthy.com/"
+}
 ]

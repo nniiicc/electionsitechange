@@ -1,7 +1,4 @@
-News and Updates
-Categories
-2026 Mid-Session Update
-The first half of this session has been a whirlwind; there is a lot of chaos and unknowns that we are working with as we try to make Vermont more affordable, protect the most vulnerable, and build a sustainable economy.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now News and Updates Categories Democracy Education Housing Lawsuit Safety Session Preview Taxes Town Meeting Day Report Uncategorized Democracy , Session Preview , Town Meeting Day Report 3/2/26 Democracy , Session Preview , Town Meeting Day Report 3/2/26 2026 Mid-Session Update The first half of this session has been a whirlwind; there is a lot of chaos and unknowns that we are working with as we try to make Vermont more affordable, protect the most vulnerable, and build a sustainable economy.
 The attached report outlines the work done so far in both Senate Government Operations Committee and Senate Judiciary Committee, along with upcoming events and calls to actions.
 In the unprecedented time we are experiencing in politics, it is more important than ever to be engaged and to vote.
 With town meeting coming up, our local elections and ballot initiatives will be up for a vote, and these decisions have the most impact on our daily lives.
@@ -10,11 +7,7 @@ Municipal elections have some of the lowest turnouts of any election.
 It is too late to request a ballot online, but you can vote at your town clerk’s office or at the polls on Tuesday.
 When the legislature returns to the statehouse on March 10th, it will be crossover week, which is the deadline for all policy bills to be on their way to the other chamber.
 If there are bills or issues of particular importance to you, please reach out and let me know.
-Chittenden Central District Polling Locations:
-https://sos.vermont.gov/elections/voters/polling-places/
-2026 Town Meeting Report Download
-Defending Democracy
-As many of you may know, Sen.
+Chittenden Central District Polling Locations: https://sos.vermont.gov/elections/voters/polling-places/ 2026 Town Meeting Report Download Read More Democracy , Lawsuit 6/27/24 Democracy , Lawsuit 6/27/24 Defending Democracy As many of you may know, Sen.
 McCormack and I filed a lawsuit in VT Superior Court on Wednesday.
 The suit asks the court to enforce the separation of powers and declare Gov.
 Scott’s “interim” appointment of Zoie Saunders after the senate’s rejection of her appointment to be invalid and illegal.
@@ -70,3 +63,4 @@ Putting together a lawsuit like this isn’t something that is accessible to man
 This lawsuit wouldn’t be possible without the financial contributions of a wide network of supporters from across the political spectrum who donated directly to my attorneys to cover their fees and to whom I’m deeply grateful.
 I’m also grateful for the outpouring of support I’ve received from my constituents since news of the lawsuit went public yesterday.
 This action is the culmination of so many people who believe that democracy is worth defending and in honor of all of them I will continue to do what I believe is right, even when it’s not easy.
+Read More Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

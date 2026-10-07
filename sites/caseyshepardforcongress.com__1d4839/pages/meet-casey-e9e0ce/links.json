@@ -1,7 +1,22 @@
 [
-"https://caseyshepardforcongress.com/caseys-vision",
-"https://caseyshepardforcongress.com/meet-casey",
-"https://caseyshepardforcongress.com/stay-connected",
-"https://caseyshepardforcongress.com/why-casey",
-"https://secure.actblue.com/donate/casey-shepard"
+{
+"text": "Casey's Vision",
+"href": "https://caseyshepardforcongress.com/caseys-vision"
+},
+{
+"text": "DONATE TO THE CAUSE",
+"href": "https://secure.actblue.com/donate/casey-shepard"
+},
+{
+"text": "Meet Casey",
+"href": "https://caseyshepardforcongress.com/meet-casey"
+},
+{
+"text": "Stay Connected!",
+"href": "https://caseyshepardforcongress.com/stay-connected"
+},
+{
+"text": "Why Casey?",
+"href": "https://caseyshepardforcongress.com/why-casey"
+}
 ]

@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://maps.google.com/maps?daddr=328+Hillcrest+Drive%2C+Suite+1%2C+Laurens%2C+SC&z=15",
-"https://votemichannatate.com/",
-"https://votemichannatate.com/contact",
-"https://votemichannatate.com/contribute",
-"https://votemichannatate.com/events",
-"https://votemichannatate.com/events/8tlgpct8.ics?s=20261015T180000Z",
-"https://votemichannatate.com/home",
-"https://votemichannatate.com/issues",
-"https://votemichannatate.com/make-endorsement",
-"https://votemichannatate.com/meet_michanna",
-"https://votemichannatate.com/news",
-"https://votemichannatate.com/photos",
-"https://votemichannatate.com/privacy-policy",
-"https://votemichannatate.com/view-endorsements",
-"https://votemichannatate.com/volunteer"
+{
+"text": "Add to calendar",
+"href": "https://votemichannatate.com/events/8tlgpct8.ics?s=20261015T180000Z"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://votemichannatate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://votemichannatate.com/contribute"
+},
+{
+"text": "Directions →",
+"href": "https://maps.google.com/maps?daddr=328+Hillcrest+Drive%2C+Suite+1%2C+Laurens%2C+SC&z=15"
+},
+{
+"text": "Endorsements",
+"href": "https://votemichannatate.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://votemichannatate.com/events"
+},
+{
+"text": "Home",
+"href": "https://votemichannatate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://votemichannatate.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://votemichannatate.com/make-endorsement"
+},
+{
+"text": "Meet Michanna",
+"href": "https://votemichannatate.com/meet_michanna"
+},
+{
+"text": "News",
+"href": "https://votemichannatate.com/news"
+},
+{
+"text": "Photos",
+"href": "https://votemichannatate.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemichannatate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://votemichannatate.com/volunteer"
+},
+{
+"text": "[image: Michanna Tate South Carolina House Representative - District 14]",
+"href": "https://votemichannatate.com/"
+}
 ]

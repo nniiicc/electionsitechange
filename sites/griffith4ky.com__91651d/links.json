@@ -1,9 +1,30 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://griffith4ky.com/",
-"https://griffith4ky.com/privacy-policy",
-"https://griffith4ky.com/terms-and-conditions",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://square.link/u/CWIvSPUc"
+{
+"text": "Donate",
+"href": "https://square.link/u/CWIvSPUc"
+},
+{
+"text": "Griffith for KentuckyGriffith for KentuckyGriffith for KentuckyGriffith for Kentucky",
+"href": "https://griffith4ky.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://griffith4ky.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://griffith4ky.com/terms-and-conditions"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

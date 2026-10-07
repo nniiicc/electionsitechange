@@ -1,8 +1,5 @@
-top of page
-Iowa Caucus Summary
-I recently participated in the 2026 Democratic Caucus — my first since Independents in Iowa don’t have that opportunity.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Iowa Caucus Summary I recently participated in the 2026 Democratic Caucus — my first since Independents in Iowa don’t have that opportunity.
 I joined the Democratic Party to fully engage in the process and earn a place on the ballot.
 At the caucus, I heard real concerns about affordability, education, and leadership that listens.
 If elected, my responsibility will be to the people of Iowa — to think independently and lead with common sense.
-ALEN BLANCO HARNANDEZ 2035
-bottom of page
+2 min read PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

@@ -1,5 +1,4 @@
-Van Drew: Why South Jersey Needs Congressional Hearings on Offshore Wind Energy
-Since the very beginning, I have expressed my heartfelt concerns that these offshore wind projects are moving far too quickly and have failed to receive proper vetting and local input.
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Van Drew: Why South Jersey Needs Congressional Hearings on Offshore Wind Energy Since the very beginning, I have expressed my heartfelt concerns that these offshore wind projects are moving far too quickly and have failed to receive proper vetting and local input.
 In the years following their announcement, my concerns have only continued to mount.
 I am tired of being misled by big corporations, lectured by elites on what we must be willing to accept, and sold out by our own government, which is all too willing to ship our hard-earned money overseas.
 I remain deeply concerned that these offshore wind projects are the latest, and perhaps most egregious, example of this sad reality.
@@ -31,7 +30,11 @@ Additionally, rumors of tax windfalls for municipalities as a result of these pr
 We must know for certain how far the scope of these projects goes, and what, if any, tax benefits local municipalities stand to gain.
 This is why I will continue to push for formal, in-depth hearings in the United States Congress.
 South Jersey is an amazing place, and I am going to keep doing everything I possibly can to keep it that way and to protect the shore we all know and love.
-###
-Rep.
+### Rep.
 Jeff Van Drew, of Dennis Township, is a Republican representing New Jersey’s Second Congressional District.
-(Published in the Press of Atlantic City February 5, 2023)
+(Published in the Press of Atlantic City February 5, 2023) Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

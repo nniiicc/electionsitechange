@@ -1,5 +1,4 @@
-The Rural Access Gap Nobody Is Talking About
-Before Texas school vouchers passed in 2025, the coalition that kept blocking them was not what most people would expect.
+0 Skip to Content Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Home Meet Angie Priorities Endorsements Events News Shop Donate The Rural Access Gap Nobody Is Talking About Jun 8 Written By Angie Before Texas school vouchers passed in 2025, the coalition that kept blocking them was not what most people would expect.
 Not just Democrats, but rural Republicans also worked session after session, voting the same way on the same bills.
 The Democrats opposed vouchers on principle.
 The rural Republicans opposed them on math.
@@ -55,4 +54,7 @@ And they were replaced.
 Universal eligibility was the language used to sell this program.
 The county map is what the program actually looks like.
 In the next post, we will look at where this is headed: what the trajectory of voucher programs in Arizona, Indiana, and North Carolina suggests about what Texas families and Texas public schools should expect in the years ahead.
-Photo by Raychel Sanner on Unsplash
+Photo by Raychel Sanner on Unsplash ‍ ‍ Public Education Texas Education Freedom Accounts TEFA Texas school vouchers Angie Previous Previous BONUS: The Texas Two-Step: What $8.5 Billion Bought Next Next BONUS: Who Is Getting Paid to Run Texas School Vouchers?
+Angie Carraway for Texas HD-89 Citizens for Carraway PO Box 322, Allen, TX 75013 contact@citizensforcarraway.com 972-302-9914 Explore Meet Angie Priorities Endorsements News Contact Take Action Donate Volunteer Shop Campaign Gear Register to vote Voting information Political advertising paid for by Citizens for Carraway Contributions or gifts to Citizens for Carraway are not deductible as charitable contributions for Federal income tax purposes.
+Texas law requires political committees to report certain contributor information.
+Privacy Policy · © # Citizens for Carraway

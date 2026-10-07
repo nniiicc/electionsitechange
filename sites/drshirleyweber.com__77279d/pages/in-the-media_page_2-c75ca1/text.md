@@ -1,14 +1,6 @@
-In the Media
-[The New York Times] California Today: Explaining the Reparations Effort
-A conversation with Dr.
-Shirley Weber, California’s secretary of state, who was a leader in starting the reparations process.
-[The San Diego Union Tribune] Opinion: Rebuilding trust in our election systems will take hard work.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page In the Media [The New York Times] California Today: Explaining the Reparations Effort Jun 3, 2021 A conversation with Dr.
+Shirley Weber, California’s secretary of state, who was a leader in starting the reparations process. [The San Diego Union Tribune] Opinion: Rebuilding trust in our election systems will take hard work.
 I’m ready for that responsibility.
-Those of us lucky enough to be elections officers have a solemn responsibility: to root out toxic mistrust, ensure transparency and continue to expand access to the ballot.
-[KQED] California’s Secretary of State Shirley Weber Talks About her New Role
-Shirley Weber made history when she was sworn in as California’s first Black Secretary of State last week.
-[Los Angeles Times] Essential Politics: California’s new elections chief is ‘a sister who doesn’t back down’
-“This is a sister who doesn’t back down,” Weber said with a chuckle.
-“This is a woman that when it’s right, it’s right.”
-[KQED] Shirley Weber Confirmed as California’s First Black Secretary of State
-“How ironic it is that a girl whose father could not vote, whose grandparents never had a chance to vote, is now responsible for 40 million Californians and their right to vote,”
+Feb 21, 2021 Those of us lucky enough to be elections officers have a solemn responsibility: to root out toxic mistrust, ensure transparency and continue to expand access to the ballot. [KQED] California’s Secretary of State Shirley Weber Talks About her New Role Feb 4, 2021 Shirley Weber made history when she was sworn in as California’s first Black Secretary of State last week. [Los Angeles Times] Essential Politics: California’s new elections chief is ‘a sister who doesn’t back down’ Feb 1, 2021 “This is a sister who doesn’t back down,” Weber said with a chuckle.
+“This is a woman that when it’s right, it’s right.” [KQED] Shirley Weber Confirmed as California’s First Black Secretary of State Jan 29, 2021 “How ironic it is that a girl whose father could not vote, whose grandparents never had a chance to vote, is now responsible for 40 million Californians and their right to vote,” Next Entries » Paid for by Shirley Weber for Secretary of State 2026.
+FPPC # 1456658 Facebook X

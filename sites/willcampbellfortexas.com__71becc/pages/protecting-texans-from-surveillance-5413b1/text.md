@@ -1,61 +1,77 @@
-Texas Public Surveillance Technology Privacy, Security, and Accountability Act
-Establishes statewide standards for the acquisition, use, retention, security, disclosure, public oversight, and enforcement of public surveillance technology and public-place observation data.
-By: Campbell
+0 Skip to Content About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Folder: Solutions Back Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Folder: Proposed Laws Back AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Skip to bill text Texas Public Surveillance Technology Privacy, Security, and Accountability Act Government Code, Chapter 424 · Proposed 90th Legislature Establishes statewide standards for the acquisition, use, retention, security, disclosure, public oversight, and enforcement of public surveillance technology and public-place observation data.
 H.B.
-No. _____
-relating to the acquisition, deployment, collection, use, retention, security, disclosure, and accountability of certain public surveillance technology and public-place observation data; creating criminal offenses and civil remedies; providing administrative enforcement and civil penalties.
-ARTICLE 1.
-GENERAL PROVISIONS
-SECTION 1.01.
+No. _____ Rep.
+Will Campbell — HD 109 Effective September 1, 2027 🖶 Print / Save PDF Table of Contents ARTICLE 1 General Provisions SECTION 1.01.
+Short Title SECTION 1.02.
+Purpose And Construction SECTION 1.03.
+Government Code CHAPTER 424 Public Surveillance Technology Privacy, Security, And Accountability SUBCHAPTER A General Provisions Sec.
+Definitions Sec.
+Applicability; Private-System Safe Harbors Sec.
+Ownership And Control Of Government-Contract Data SUBCHAPTER B Public Approval, Registry, And Use Tiers Sec.
+Public Approval Required Sec.
+Public Registry Sec.
+Use Tiers Sec.
+Prohibited Uses SUBCHAPTER C Authorized Access, Searches, And Sensitive Locations Sec.
+Authorized Purpose Required Sec.
+Historical Queries Sec.
+Real-Time Alerts Sec.
+Facial And Biometric Recognition Sec.
+Wireless-Device Data; Communications Content Sec.
+Sensitive Locations Sec.
+User Authorization; Search Record Sec.
+Disclosure To Governmental Entities And Private Operators SUBCHAPTER D Retention, Commercial Limits, Data Residency, And Security Sec.
+Retention And Deletion Sec.
+Sale, Monetization, And Commercial Aggregation Prohibited Sec.
+Artificial Intelligence Sec.
+United States Residency; United States Ownership Sec.
+Minimum Security Safeguards Sec.
+Incident Response; Certification; Audit SUBCHAPTER E Transparency, Discipline, Remedies, And Penalties Sec.
+Annual Report; Complaints; Whistleblowers Sec.
+Individual Discipline; Referral Sec.
+Civil Enforcement; Standing Sec.
+Attorney General Enforcement; Civil Penalties Sec.
+Contract Remedies; Debarment Sec.
+Offenses Sec.
+Civil-To-Criminal Referral; Due Process Sec.
+Unlawfully Obtained Or Maintained Data Sec.
+Good-Faith Protection For First Responders SUBCHAPTER F Local Authority And Rulemaking Sec.
+Local Standards Sec.
+Rulemaking ARTICLE 2 Conforming Amendments SECTION 2.01.
+Biometric Identifiers Sec.
+Public Surveillance Technology SECTION 2.02.
+Cellular Telephones And Wireless Communications Devices ARTICLE 3 Implementation And Transition SECTION 3.01.
+Initial Implementation SECTION 3.02.
+Existing Systems And Contracts SECTION 3.03.
+Prospective Application SECTION 3.04.
+Severability SECTION 3.05.
+Effective Date By: Campbell H.B.
+No. _____ A BILL TO BE ENTITLED AN ACT relating to the acquisition, deployment, collection, use, retention, security, disclosure, and accountability of certain public surveillance technology and public-place observation data; creating criminal offenses and civil remedies; providing administrative enforcement and civil penalties.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: ARTICLE 1.
+GENERAL PROVISIONS SECTION 1.01.
 SHORT TITLE.
 This Act may be cited as the Texas Public Surveillance Technology Privacy, Security, and Accountability Act.
 SECTION 1.02.
-PURPOSE AND CONSTRUCTION.
-(a) The purposes of this Act are to:
-(1) permit accountable public-safety uses of surveillance technology to protect life, respond to emergencies, locate missing or endangered persons, recover stolen property, and investigate criminal offenses;
-(2) protect Texans from warrantless mass tracking, unauthorized identification, unauthorized device surveillance, commercial exploitation, foreign access, and misuse of data generated by surveillance technology;
-(3) preserve the ability of peace officers and first responders to use narrowly tailored, lawfully authorized tools while protecting honest personnel, agencies, investigations, and evidence from misuse by an individual user, contractor, or vendor;
-(4) prevent a governmental body from outsourcing, purchasing, receiving, or accessing surveillance data through a private intermediary to evade a constitutional, statutory, warrant, retention, disclosure, security, or accountability limitation;
-(5) protect the ordinary use of privately owned residential and business security systems while preventing those systems from being converted into undisclosed government-accessible or commercial surveillance networks; and
-(6) establish enforceable public approval, transparency, security, audit, retention, deletion, ownership, and accountability requirements.
-(b) This Act shall be construed to protect the rights guaranteed by the United States Constitution and the Texas Constitution.
-This Act does not:
-(1) authorize a search, seizure, interception, disclosure, or use of information prohibited by the United States Constitution, the Texas Constitution, or other law;
-(2) limit a peace officer's authority to respond to an imminent threat to life or serious bodily injury when acting under otherwise applicable law;
-(3) alter a warrant requirement, legal-process requirement, or privacy protection provided by another law except as this Act expressly provides a greater protection; or
-(4) authorize an automated match, classification, inference, alert, or other technological output to establish identity, probable cause, guilt, or a basis for an adverse action without trained human review and independent corroboration.
+PURPOSE AND CONSTRUCTION. (a) The purposes of this Act are to: (1) permit accountable public-safety uses of surveillance technology to protect life, respond to emergencies, locate missing or endangered persons, recover stolen property, and investigate criminal offenses; (2) protect Texans from warrantless mass tracking, unauthorized identification, unauthorized device surveillance, commercial exploitation, foreign access, and misuse of data generated by surveillance technology; (3) preserve the ability of peace officers and first responders to use narrowly tailored, lawfully authorized tools while protecting honest personnel, agencies, investigations, and evidence from misuse by an individual user, contractor, or vendor; (4) prevent a governmental body from outsourcing, purchasing, receiving, or accessing surveillance data through a private intermediary to evade a constitutional, statutory, warrant, retention, disclosure, security, or accountability limitation; (5) protect the ordinary use of privately owned residential and business security systems while preventing those systems from being converted into undisclosed government-accessible or commercial surveillance networks; and (6) establish enforceable public approval, transparency, security, audit, retention, deletion, ownership, and accountability requirements. (b) This Act shall be construed to protect the rights guaranteed by the United States Constitution and the Texas Constitution.
+This Act does not: (1) authorize a search, seizure, interception, disclosure, or use of information prohibited by the United States Constitution, the Texas Constitution, or other law; (2) limit a peace officer's authority to respond to an imminent threat to life or serious bodily injury when acting under otherwise applicable law; (3) alter a warrant requirement, legal-process requirement, or privacy protection provided by another law except as this Act expressly provides a greater protection; or (4) authorize an automated match, classification, inference, alert, or other technological output to establish identity, probable cause, guilt, or a basis for an adverse action without trained human review and independent corroboration.
 SECTION 1.03.
 GOVERNMENT CODE.
-Subtitle F, Title 4, Government Code, is amended by adding Chapter 424 to read as follows:
-CHAPTER 424.
-PUBLIC SURVEILLANCE TECHNOLOGY PRIVACY, SECURITY, AND ACCOUNTABILITY
-SUBCHAPTER A.
-GENERAL PROVISIONS
-Sec. 424.001.
+Subtitle F, Title 4, Government Code, is amended by adding Chapter 424 to read as follows: CHAPTER 424.
+PUBLIC SURVEILLANCE TECHNOLOGY PRIVACY, SECURITY, AND ACCOUNTABILITY SUBCHAPTER A.
+GENERAL PROVISIONS Sec.
+424.001.
 DEFINITIONS.
-In this chapter:
-(1) "Access" means to view, query, search, retrieve, copy, download, export, transmit, alter, delete, or otherwise interact with covered surveillance data.
+In this chapter: (1) "Access" means to view, query, search, retrieve, copy, download, export, transmit, alter, delete, or otherwise interact with covered surveillance data.
 (2) "Active operation" means a documented law enforcement investigation, pursuit, apprehension operation, emergency response, missing-person investigation, or other public-safety operation that is ongoing at the time surveillance technology is used.
 (3) "Automated license plate reader" or "ALPR" means a fixed, mobile, portable, vehicle-mounted, aerial, or other camera system or related service that uses optical character recognition, machine learning, artificial intelligence, or another automated process to detect, capture, interpret, compare, analyze, or index a license plate number or vehicle-identifying information.
 (4) "Biometric identifier" has the meaning assigned by Section 560.001 and includes a biometric template, faceprint, voiceprint, embedding, feature vector, hash, mathematical representation, or other derived record that is used or capable of being used to identify or verify a specific individual.
 (5) "Communications content" means the substance, meaning, or information contained in a wire, oral, electronic, text, visual, or other communication, including information displayed on the screen of a wireless communications device and data stored on such a device.
 (6) "Covered surveillance data" means data, an image, audio, video, metadata, alert, query result, audit record, location record, identifier, search index, biometric identifier, derivative, or analytical product generated, captured, retained, received, or made available by public surveillance technology.
-The term includes:
-(A) a license plate image or number; a vehicle image; vehicle characteristics, including make, model, type, color, damage, decals, bumper stickers, racks, cargo, or other distinguishing features; and associated date, time, location, direction, speed, camera identifier, alert, query result, hit, non-hit, confidence score, and metadata;
-(B) an image, video, audio, thermal, infrared, radar, lidar, acoustic, or other sensor recording associated with a person, vehicle, device, residence, location, or activity;
-(C) a face, body, clothing, gait, voice, iris, retina, hand geometry, or other biological, behavioral, or identifying characteristic;
-(D) a wireless-device identifier, including an IMSI, IMEI, MAC address, Bluetooth identifier, Wi-Fi probe request, radio-frequency identifier, device-presence record, proximity record, connection record, or location record;
-(E) a travel history, movement pattern, association, recurring-location pattern, profile, score, prediction, classification, inference, watchlist result, candidate list, search result, or dataset derived from information described by Paragraphs (A) through (D);
-(F) information created by combining information described by Paragraphs (A) through (E) with another public or private dataset; and
-(G) an access log, query log, export log, disclosure record, model-training record, or other record necessary to establish compliance with this chapter.
+The term includes: (A) a license plate image or number; a vehicle image; vehicle characteristics, including make, model, type, color, damage, decals, bumper stickers, racks, cargo, or other distinguishing features; and associated date, time, location, direction, speed, camera identifier, alert, query result, hit, non-hit, confidence score, and metadata; (B) an image, video, audio, thermal, infrared, radar, lidar, acoustic, or other sensor recording associated with a person, vehicle, device, residence, location, or activity; (C) a face, body, clothing, gait, voice, iris, retina, hand geometry, or other biological, behavioral, or identifying characteristic; (D) a wireless-device identifier, including an IMSI, IMEI, MAC address, Bluetooth identifier, Wi-Fi probe request, radio-frequency identifier, device-presence record, proximity record, connection record, or location record; (E) a travel history, movement pattern, association, recurring-location pattern, profile, score, prediction, classification, inference, watchlist result, candidate list, search result, or dataset derived from information described by Paragraphs (A) through (D); (F) information created by combining information described by Paragraphs (A) through (E) with another public or private dataset; and (G) an access log, query log, export log, disclosure record, model-training record, or other record necessary to establish compliance with this chapter.
 (7) "Covered technology" means a fixed, mobile, portable, vehicle-mounted, aerial, networked, or software-enabled system used by or on behalf of a governmental body, or a private operator subject to this chapter, to collect, retain, process, analyze, infer, identify, associate, track, search, classify, predict, disclose, or otherwise use covered surveillance data.
-The term includes:
-(A) an ALPR or vehicle-recognition system;
-(B) a public-space video network, persistent video system, real-time video feed, cross-camera tracking system, person re-identification system, or vehicle-fingerprinting system;
-(C) facial detection, facial recognition, face search, biometric recognition, gait analysis, voice analysis, behavioral recognition, or other system using a biometric identifier;
-(D) a cell-site simulator or a system that collects, detects, identifies, analyzes, or locates an IMSI, IMEI, MAC address, Bluetooth identifier, Wi-Fi identifier, radio-frequency identifier, or comparable device identifier;
-(E) a thermal, infrared, radar, lidar, acoustic, sensor-fusion, object-recognition, or artificial-intelligence system when its output is associated with a person, vehicle, device, residence, location, or activity; and
-(F) a successor or substantially similar system designated by rule based on its function.
+The term includes: (A) an ALPR or vehicle-recognition system; (B) a public-space video network, persistent video system, real-time video feed, cross-camera tracking system, person re-identification system, or vehicle-fingerprinting system; (C) facial detection, facial recognition, face search, biometric recognition, gait analysis, voice analysis, behavioral recognition, or other system using a biometric identifier; (D) a cell-site simulator or a system that collects, detects, identifies, analyzes, or locates an IMSI, IMEI, MAC address, Bluetooth identifier, Wi-Fi identifier, radio-frequency identifier, or comparable device identifier; (E) a thermal, infrared, radar, lidar, acoustic, sensor-fusion, object-recognition, or artificial-intelligence system when its output is associated with a person, vehicle, device, residence, location, or activity; and (F) a successor or substantially similar system designated by rule based on its function.
 (8) "Data host" means a person that stores, processes, transmits for processing, backs up, indexes, administers, or provides remote support for covered surveillance data.
 (9) "Derived data" means data, an inference, analytical product, profile, score, prediction, classification, alert, vehicle-location history, person-location history, association, biometric template, or another record created from covered surveillance data, whether or not the originating data remains attached to the record.
 (10) "Emergency" means circumstances in which a reasonable peace officer would believe immediate action is necessary to prevent imminent death, serious bodily injury, abduction, or the escape of a person who presents an imminent threat of death or serious bodily injury.
@@ -67,361 +83,159 @@ The term does not include a person or entity excepted by a federal statute, fede
 (15) "Material expansion" means an acquisition, deployment, renewal, or change that materially increases the number, geographic reach, type, capability, data collected, retention period, data sharing, government access, analytical function, or vendor access of covered technology.
 The term includes activation of facial recognition, biometric recognition, wireless-device collection, communications-content collection, cross-camera tracking, real-time crime-center integration, or a materially new artificial-intelligence function.
 (16) "Operator" means a governmental body, private operator, vendor, contractor, subcontractor, data host, or person that owns, deploys, manages, operates, maintains, accesses, or provides covered technology or covered surveillance data.
-(17) "Private operator" means a nongovernmental person that operates covered technology and:
-(A) provides, sells, licenses, transfers, or makes covered surveillance data available to a governmental body or law enforcement agency;
-(B) permits a governmental body or law enforcement agency to search the operator's data or system;
-(C) operates the technology under a contract, grant, memorandum of understanding, donation, subsidy, or other arrangement with a governmental body; or
-(D) operates a commercial network that collects public-place observation data for identification, tracking, aggregation, sale, licensing, monetization, or disclosure to another person.
+(17) "Private operator" means a nongovernmental person that operates covered technology and: (A) provides, sells, licenses, transfers, or makes covered surveillance data available to a governmental body or law enforcement agency; (B) permits a governmental body or law enforcement agency to search the operator's data or system; (C) operates the technology under a contract, grant, memorandum of understanding, donation, subsidy, or other arrangement with a governmental body; or (D) operates a commercial network that collects public-place observation data for identification, tracking, aggregation, sale, licensing, monetization, or disclosure to another person.
 (18) "Public-place observation data" means an image, video, audio, sensor record, identifier, location record, vehicle record, person record, device record, or derivative captured from a street, sidewalk, public right-of-way, park, public facility, or another place open to the public.
 The term does not include an ordinary private-security recording used solely for security, access control, parking management, safety, loss prevention, or documentation of a specific incident and not used for identification, persistent tracking, aggregation, sale, monetization, or routine government access.
 (19) "Public surveillance technology" means covered technology used by or on behalf of a governmental body or by a private operator.
-(20) "Sensitive location" means:
-(A) a house of worship, religious school, or ministry;
-(B) a political event, campaign office, polling place, election office, or lawful assembly;
-(C) a medical facility, reproductive-health facility, mental-health facility, school, child-care facility, youth shelter, domestic-violence shelter, homeless shelter, or social-services location;
-(D) a news organization, newsgathering location, legal office, attorney-client meeting location, or court location when a person is seeking legal services; or
-(E) another location designated by rule because surveillance of the location presents a comparable risk to protected constitutional activity or confidential services.
+(20) "Sensitive location" means: (A) a house of worship, religious school, or ministry; (B) a political event, campaign office, polling place, election office, or lawful assembly; (C) a medical facility, reproductive-health facility, mental-health facility, school, child-care facility, youth shelter, domestic-violence shelter, homeless shelter, or social-services location; (D) a news organization, newsgathering location, legal office, attorney-client meeting location, or court location when a person is seeking legal services; or (E) another location designated by rule because surveillance of the location presents a comparable risk to protected constitutional activity or confidential services.
 (21) "United States business entity" means a business entity organized under the laws of the United States or a state or territory of the United States, with its principal place of business in the United States, that is owned and controlled exclusively by United States citizens.
 (22) "Vendor" means a person that sells, leases, licenses, provides, maintains, hosts, or supports public surveillance technology or covered surveillance data.
 (23) "Wireless-device data" means information identifying, locating, associating, or inferring the presence, movement, use, or activity of a wireless communications device.
-Sec. 424.002.
-APPLICABILITY; PRIVATE-SYSTEM SAFE HARBORS.
-(a) This chapter applies to:
-(1) a governmental body that acquires, operates, accesses, receives, or contracts for public surveillance technology or covered surveillance data;
-(2) a vendor, contractor, subcontractor, or data host acting for or providing services to a governmental body;
-(3) a private operator; and
-(4) a person that provides public-place observation data to a governmental body, except as provided by Subsection (c).
-(b) A governmental body may not avoid a requirement of this chapter by obtaining covered surveillance data or public-place observation data through a vendor, data broker, private operator, affiliate, contractor, gift, donation, grant, memorandum of understanding, reciprocal-access arrangement, or other intermediary.
-(c) A person who owns or controls a residential security camera, doorbell camera, or ordinary private-business security camera is not an operator solely because the camera incidentally records an entrance, driveway, parking area, sidewalk, street, or adjacent public place.
-This subsection applies only if the person does not:
-(1) enroll the system in a government-connected, commercial, or neighborhood surveillance network;
-(2) permit automatic, routine, bulk, real-time, or searchable government access;
-(3) aggregate observations for identification, persistent tracking, biometric recognition, wireless-device identification, sale, licensing, monetization, or commercial analysis; or
-(4) act as an agent of a governmental body.
-(d) A private person may voluntarily provide a recording, photograph, or information concerning a specific incident personally observed to a law enforcement agency.
-A governmental body may not use this subsection to require access to a historical database, obtain routine access to a private system, or evade a warrant or other legal-process requirement.
-(e) Enrollment of a residential or private-business system in a government-connected or neighborhood surveillance program must be voluntary, affirmative, informed, and documented.
+Sec.
+424.002.
+APPLICABILITY; PRIVATE-SYSTEM SAFE HARBORS. (a) This chapter applies to: (1) a governmental body that acquires, operates, accesses, receives, or contracts for public surveillance technology or covered surveillance data; (2) a vendor, contractor, subcontractor, or data host acting for or providing services to a governmental body; (3) a private operator; and (4) a person that provides public-place observation data to a governmental body, except as provided by Subsection (c). (b) A governmental body may not avoid a requirement of this chapter by obtaining covered surveillance data or public-place observation data through a vendor, data broker, private operator, affiliate, contractor, gift, donation, grant, memorandum of understanding, reciprocal-access arrangement, or other intermediary. (c) A person who owns or controls a residential security camera, doorbell camera, or ordinary private-business security camera is not an operator solely because the camera incidentally records an entrance, driveway, parking area, sidewalk, street, or adjacent public place.
+This subsection applies only if the person does not: (1) enroll the system in a government-connected, commercial, or neighborhood surveillance network; (2) permit automatic, routine, bulk, real-time, or searchable government access; (3) aggregate observations for identification, persistent tracking, biometric recognition, wireless-device identification, sale, licensing, monetization, or commercial analysis; or (4) act as an agent of a governmental body. (d) A private person may voluntarily provide a recording, photograph, or information concerning a specific incident personally observed to a law enforcement agency.
+A governmental body may not use this subsection to require access to a historical database, obtain routine access to a private system, or evade a warrant or other legal-process requirement. (e) Enrollment of a residential or private-business system in a government-connected or neighborhood surveillance program must be voluntary, affirmative, informed, and documented.
 A program may not use prechecked consent, condition a government benefit or service on enrollment, or represent that voluntary enrollment authorizes a governmental body to conduct a search not otherwise authorized by law.
-Sec. 424.003.
-OWNERSHIP AND CONTROL OF GOVERNMENT-CONTRACT DATA.
-(a) Covered surveillance data collected, generated, obtained, or maintained under a contract or other arrangement with a governmental body is controlled by the governmental body for purposes of this chapter.
-(b) A vendor, contractor, subcontractor, or data host has no independent ownership, licensing, commercialization, advertising, product-development, or independent-use right in covered surveillance data described by Subsection (a).
-(c) A contract concerning public surveillance technology must provide that the governmental body retains the right to obtain, preserve, export, audit, delete, and direct the disposition of covered surveillance data without unreasonable delay, fee, or technical impediment.
-(d) This chapter supplements and does not limit Chapter 560, Government Code, Chapter 503, Business & Commerce Code, or another law providing a greater protection for biometric or other identifying information.
+Sec.
+424.003.
+OWNERSHIP AND CONTROL OF GOVERNMENT-CONTRACT DATA. (a) Covered surveillance data collected, generated, obtained, or maintained under a contract or other arrangement with a governmental body is controlled by the governmental body for purposes of this chapter. (b) A vendor, contractor, subcontractor, or data host has no independent ownership, licensing, commercialization, advertising, product-development, or independent-use right in covered surveillance data described by Subsection (a). (c) A contract concerning public surveillance technology must provide that the governmental body retains the right to obtain, preserve, export, audit, delete, and direct the disposition of covered surveillance data without unreasonable delay, fee, or technical impediment. (d) This chapter supplements and does not limit Chapter 560, Government Code, Chapter 503, Business & Commerce Code, or another law providing a greater protection for biometric or other identifying information.
 If this chapter imposes a greater restriction on a governmental body, public surveillance technology, or public-place observation data, this chapter controls to the extent of the conflict.
 SUBCHAPTER B.
-PUBLIC APPROVAL, REGISTRY, AND USE TIERS
-Sec. 424.051.
-PUBLIC APPROVAL REQUIRED.
-(a) Except as provided by Subsection (d), before acquiring, deploying, materially expanding, renewing a material contract for, or activating a materially new capability of public surveillance technology, a governmental body shall:
-(1) prepare a surveillance-technology impact report;
-(2) publish the report, proposed use policy, vendor identity, proposed contract, data categories, retention period, sharing arrangement, data-hosting location, security requirements, expected cost, funding source, and reasonably available alternatives;
-(3) provide notice and accept public comment at an open meeting held in compliance with Chapter 551; and
-(4) obtain an affirmative vote of the governmental body's governing body at the open meeting approving the acquisition, deployment, expansion, renewal, or capability activation.
-(b) A surveillance-technology impact report must state:
-(1) the specific public-safety purpose and capability of the technology;
-(2) the categories of data collected, created, received, analyzed, retained, or disclosed;
-(3) the applicable use tier under Section 424.053;
-(4) the retention, deletion, security, audit, and accountability measures;
-(5) each governmental body, vendor, data host, affiliate, contractor, subcontractor, or other person that may access the data;
-(6) the potential effects on civil liberties, privacy, protected speech, association, religion, voting, journalism, and legal representation;
-(7) the measures used to minimize collection of information about non-targets and sensitive locations; and
-(8) the reason less intrusive means are inadequate to accomplish the stated purpose.
-(c) Approval under this section expires on the earlier of:
-(1) the expiration of the associated contract; or
-(2) the fifth anniversary of the approval date.
-(d) A governmental body may make an emergency acquisition or deployment without prior approval only if the chief executive of the governmental body determines in writing that an emergency requires immediate action to prevent imminent death or serious bodily injury.
+PUBLIC APPROVAL, REGISTRY, AND USE TIERS Sec.
+424.051.
+PUBLIC APPROVAL REQUIRED. (a) Except as provided by Subsection (d), before acquiring, deploying, materially expanding, renewing a material contract for, or activating a materially new capability of public surveillance technology, a governmental body shall: (1) prepare a surveillance-technology impact report; (2) publish the report, proposed use policy, vendor identity, proposed contract, data categories, retention period, sharing arrangement, data-hosting location, security requirements, expected cost, funding source, and reasonably available alternatives; (3) provide notice and accept public comment at an open meeting held in compliance with Chapter 551; and (4) obtain an affirmative vote of the governmental body's governing body at the open meeting approving the acquisition, deployment, expansion, renewal, or capability activation. (b) A surveillance-technology impact report must state: (1) the specific public-safety purpose and capability of the technology; (2) the categories of data collected, created, received, analyzed, retained, or disclosed; (3) the applicable use tier under Section 424.053; (4) the retention, deletion, security, audit, and accountability measures; (5) each governmental body, vendor, data host, affiliate, contractor, subcontractor, or other person that may access the data; (6) the potential effects on civil liberties, privacy, protected speech, association, religion, voting, journalism, and legal representation; (7) the measures used to minimize collection of information about non-targets and sensitive locations; and (8) the reason less intrusive means are inadequate to accomplish the stated purpose. (c) Approval under this section expires on the earlier of: (1) the expiration of the associated contract; or (2) the fifth anniversary of the approval date. (d) A governmental body may make an emergency acquisition or deployment without prior approval only if the chief executive of the governmental body determines in writing that an emergency requires immediate action to prevent imminent death or serious bodily injury.
 The body shall cease use of the technology not later than the 90th day after deployment unless it complies with Subsection (a).
-Sec. 424.052.
-PUBLIC REGISTRY.
-(a) Each governmental body using public surveillance technology shall maintain on a publicly accessible Internet website a continuously updated registry identifying:
-(1) each covered system and its vendor;
-(2) the camera or sensor category and general deployment location;
-(3) the governmental owner and operating agency;
-(4) the approved purpose, authorized capabilities, and applicable use tier;
-(5) whether the system can perform ALPR, vehicle fingerprinting, facial recognition, biometric analysis, wireless-device collection, audio capture, cross-camera tracking, or artificial-intelligence analytics;
-(6) the categories of data collected and the retention period;
-(7) data-sharing partners, network connections, and government-access arrangements;
-(8) each vendor, cloud host, data-hosting region, data-center location, affiliate, subcontractor, and remote-support provider with access to covered surveillance data;
-(9) the governing-body approval date and links to the impact report, use policy, contract, and material amendments;
-(10) contract amount, duration, renewal date, and funding source; and
-(11) completed audits, substantiated misuse findings, material security incidents, and corrective actions, subject only to a narrowly tailored redaction necessary to protect an active investigation, a specific security vulnerability, or information made confidential by law.
-(b) The registry must be updated not later than 30 days after a material change.
-Sec. 424.053.
-USE TIERS.
-(a) For purposes of this chapter, public surveillance technology is assigned to the following tiers:
-(1) Tier 1 includes ordinary fixed video of a defined public facility or government property that is not configured to perform biometric identification, wireless-device collection, cross-camera tracking, or persistent person or vehicle location tracking;
-(2) Tier 2 includes ALPR, vehicle fingerprinting, persistent public-space video, cross-camera tracking, person re-identification, location-history analysis, object recognition, and a comparable system capable of identifying, associating, or tracking a person or vehicle over time; and
-(3) Tier 3 includes facial recognition, biometric recognition, cell-site simulators, wireless-device collection, communications-content capture, device-content capture, covert device tracking, and a comparable technology capable of identifying or tracking a person or device through highly sensitive information.
-(b) A Tier 1 system is subject to the public approval, use-policy, security, retention, audit, no-sale, and accountability requirements of this chapter.
-(c) A Tier 2 system is subject to the requirements of Subsection (b) and may be used only on a documented case, incident, alert, or other authorized-purpose basis.
-A governmental body shall require query-level documentation, supervisory review, and searchable audit records for Tier 2 use.
-(d) A Tier 3 system may be used only as expressly authorized by this chapter and only after the requirements applicable to the particular Tier 3 technology are satisfied.
-Sec. 424.054.
+Sec.
+424.052.
+PUBLIC REGISTRY. (a) Each governmental body using public surveillance technology shall maintain on a publicly accessible Internet website a continuously updated registry identifying: (1) each covered system and its vendor; (2) the camera or sensor category and general deployment location; (3) the governmental owner and operating agency; (4) the approved purpose, authorized capabilities, and applicable use tier; (5) whether the system can perform ALPR, vehicle fingerprinting, facial recognition, biometric analysis, wireless-device collection, audio capture, cross-camera tracking, or artificial-intelligence analytics; (6) the categories of data collected and the retention period; (7) data-sharing partners, network connections, and government-access arrangements; (8) each vendor, cloud host, data-hosting region, data-center location, affiliate, subcontractor, and remote-support provider with access to covered surveillance data; (9) the governing-body approval date and links to the impact report, use policy, contract, and material amendments; (10) contract amount, duration, renewal date, and funding source; and (11) completed audits, substantiated misuse findings, material security incidents, and corrective actions, subject only to a narrowly tailored redaction necessary to protect an active investigation, a specific security vulnerability, or information made confidential by law. (b) The registry must be updated not later than 30 days after a material change.
+Sec.
+424.053.
+USE TIERS. (a) For purposes of this chapter, public surveillance technology is assigned to the following tiers: (1) Tier 1 includes ordinary fixed video of a defined public facility or government property that is not configured to perform biometric identification, wireless-device collection, cross-camera tracking, or persistent person or vehicle location tracking; (2) Tier 2 includes ALPR, vehicle fingerprinting, persistent public-space video, cross-camera tracking, person re-identification, location-history analysis, object recognition, and a comparable system capable of identifying, associating, or tracking a person or vehicle over time; and (3) Tier 3 includes facial recognition, biometric recognition, cell-site simulators, wireless-device collection, communications-content capture, device-content capture, covert device tracking, and a comparable technology capable of identifying or tracking a person or device through highly sensitive information. (b) A Tier 1 system is subject to the public approval, use-policy, security, retention, audit, no-sale, and accountability requirements of this chapter. (c) A Tier 2 system is subject to the requirements of Subsection (b) and may be used only on a documented case, incident, alert, or other authorized-purpose basis.
+A governmental body shall require query-level documentation, supervisory review, and searchable audit records for Tier 2 use. (d) A Tier 3 system may be used only as expressly authorized by this chapter and only after the requirements applicable to the particular Tier 3 technology are satisfied.
+Sec.
+424.054.
 PROHIBITED USES.
-An operator may not use public surveillance technology, covered surveillance data, or public-place observation data for:
-(1) commercial exploitation, advertising, marketing, consumer profiling, credit, insurance, employment, housing, debt collection, repossession, private investigation, or commercial location tracking;
-(2) social scoring, generalized population tracking, indiscriminate identification of persons in public, or surveillance based on a person's lawful speech, association, religious exercise, political activity, voting, journalism, legal representation, or lawful assembly;
-(3) harassment, stalking, retaliation, discrimination, or monitoring a person because of race, color, religion, sex, national origin, age, disability, political belief, viewpoint, party affiliation, or another status protected by law; or
-(4) an unauthorized private-enforcement purpose.
+An operator may not use public surveillance technology, covered surveillance data, or public-place observation data for: (1) commercial exploitation, advertising, marketing, consumer profiling, credit, insurance, employment, housing, debt collection, repossession, private investigation, or commercial location tracking; (2) social scoring, generalized population tracking, indiscriminate identification of persons in public, or surveillance based on a person's lawful speech, association, religious exercise, political activity, voting, journalism, legal representation, or lawful assembly; (3) harassment, stalking, retaliation, discrimination, or monitoring a person because of race, color, religion, sex, national origin, age, disability, political belief, viewpoint, party affiliation, or another status protected by law; or (4) an unauthorized private-enforcement purpose.
 SUBCHAPTER C.
-AUTHORIZED ACCESS, SEARCHES, AND SENSITIVE LOCATIONS
-Sec. 424.101.
-AUTHORIZED PURPOSE REQUIRED.
-(a) A governmental body or user may access or use covered surveillance data only for:
-(1) a specific criminal investigation supported by reasonable suspicion that an identified criminal offense has occurred, is occurring, or is about to occur;
-(2) execution of a warrant, court order, subpoena, or other legal process;
-(3) an active missing-person, endangered-person, or abducted-person investigation;
-(4) identification or recovery of a stolen vehicle or property;
-(5) an emergency;
-(6) a documented effort to locate a person subject to a valid arrest warrant, including a person sought for a violent offense or felony offense; or
-(7) a purpose expressly authorized by another state or federal law that does not conflict with this chapter.
-(b) A generalized law-enforcement interest, curiosity, personal interest, or a purpose prohibited by Section 424.054 is not an authorized purpose.
-Sec. 424.102.
-HISTORICAL QUERIES.
-(a) A governmental body may conduct a narrowly tailored historical query of Tier 1 or Tier 2 data without a warrant if the query:
-(1) is supported by reasonable suspicion;
-(2) concerns an identified offense, a missing or endangered person, a stolen vehicle or property, or a documented active investigation;
-(3) is limited to the target, geographic area, and period reasonably necessary for the authorized purpose; and
-(4) is recorded under Section 424.106 and approved by a supervisor before the query when practicable and otherwise not later than 24 hours after the query.
-(b) A warrant is required for a Tier 1 or Tier 2 historical query that:
-(1) is extended, repeated, or broad enough to reconstruct a person's, vehicle's, or device's movements over time beyond the scope reasonably necessary under Subsection (a);
-(2) concerns a sensitive location; or
-(3) otherwise requires a warrant under the United States Constitution, the Texas Constitution, or other law.
-(c) Emergency access without prior legal process is permitted only if the user documents the facts establishing the emergency before the query when practicable and otherwise not later than 24 hours after the query.
+AUTHORIZED ACCESS, SEARCHES, AND SENSITIVE LOCATIONS Sec.
+424.101.
+AUTHORIZED PURPOSE REQUIRED. (a) A governmental body or user may access or use covered surveillance data only for: (1) a specific criminal investigation supported by reasonable suspicion that an identified criminal offense has occurred, is occurring, or is about to occur; (2) execution of a warrant, court order, subpoena, or other legal process; (3) an active missing-person, endangered-person, or abducted-person investigation; (4) identification or recovery of a stolen vehicle or property; (5) an emergency; (6) a documented effort to locate a person subject to a valid arrest warrant, including a person sought for a violent offense or felony offense; or (7) a purpose expressly authorized by another state or federal law that does not conflict with this chapter. (b) A generalized law-enforcement interest, curiosity, personal interest, or a purpose prohibited by Section 424.054 is not an authorized purpose.
+Sec.
+424.102.
+HISTORICAL QUERIES. (a) A governmental body may conduct a narrowly tailored historical query of Tier 1 or Tier 2 data without a warrant if the query: (1) is supported by reasonable suspicion; (2) concerns an identified offense, a missing or endangered person, a stolen vehicle or property, or a documented active investigation; (3) is limited to the target, geographic area, and period reasonably necessary for the authorized purpose; and (4) is recorded under Section 424.106 and approved by a supervisor before the query when practicable and otherwise not later than 24 hours after the query. (b) A warrant is required for a Tier 1 or Tier 2 historical query that: (1) is extended, repeated, or broad enough to reconstruct a person's, vehicle's, or device's movements over time beyond the scope reasonably necessary under Subsection (a); (2) concerns a sensitive location; or (3) otherwise requires a warrant under the United States Constitution, the Texas Constitution, or other law. (c) Emergency access without prior legal process is permitted only if the user documents the facts establishing the emergency before the query when practicable and otherwise not later than 24 hours after the query.
 Continued access requires a warrant or other legal process as soon as practicable if required by law.
-Sec. 424.103.
-REAL-TIME ALERTS.
-(a) A warrant is not required for a real-time alert if a peace officer could lawfully act on the same information had the officer personally observed the relevant facts in a public place.
-(b) A warrantless alert under Subsection (a) must be tied to:
-(1) a crime in progress;
-(2) a verified stolen vehicle;
-(3) a valid arrest warrant;
-(4) a missing, abducted, endangered, or vulnerable person;
-(5) an immediate and articulable threat to life, serious bodily injury, or public safety; or
-(6) a documented active pursuit or active operation.
-(c) An alert must be narrowly keyed to a known vehicle, person, or device; limited to the shortest duration reasonably necessary; reviewed periodically; and disabled when its factual basis ends.
-Sec. 424.104.
-FACIAL AND BIOMETRIC RECOGNITION.
-(a) A governmental body shall keep facial-recognition and biometric-recognition capabilities disabled unless use is authorized by a judicial warrant.
-(b) A warrant under this section must:
-(1) identify a known suspect;
-(2) describe the active criminal investigation, active pursuit, or court-sanctioned operation;
-(3) authorize the use solely to locate and apprehend the known suspect; and
-(4) state the geographic scope and duration of the authorized use.
-(c) A governmental body may not use facial-recognition or biometric-recognition technology for generalized scanning, continuous facial surveillance, real-time crowd identification, or reverse-image searching of the general public.
-(d) A facial or biometric match is an investigative lead only and may not alone establish identity, probable cause, guilt, or a basis for enforcement.
-A trained person shall review the match and independently corroborate the match before an enforcement action.
-(e) The governmental body shall promptly delete nonresponsive facial images, biometric identifiers, templates, embeddings, candidate lists, and related search outputs, except to the extent retention is required by a warrant, court order, evidentiary duty, or investigation of a violation of this chapter.
-Sec. 424.105.
-WIRELESS-DEVICE DATA; COMMUNICATIONS CONTENT.
-(a) A governmental body may not collect, detect, identify, analyze, or locate wireless-device data, or operate a cell-site simulator, unless authorized by a judicial warrant.
-(b) Subsection (a) does not prohibit narrowly tailored warrantless use during an active, authorized pursuit of a known suspect if the officer reasonably believes the suspect is a violent offender, fugitive, or person whose immediate apprehension is necessary to prevent imminent death or serious bodily injury.
-The user shall document the facts and seek a warrant as soon as practicable if continued use is required.
-(c) A governmental body may not capture, obtain, retain, analyze, or use communications content, phone-screen content, or data stored on a wireless communications device without a judicial warrant.
-This subsection does not limit a greater protection or requirement under Article 18.0215, Code of Criminal Procedure, or other law.
-(d) A warrant or emergency use under this section must be target-specific; minimize collection of non-target data; document the area and duration of use; segregate nonresponsive data; and require prompt deletion of nonresponsive data.
+Sec.
+424.103.
+REAL-TIME ALERTS. (a) A warrant is not required for a real-time alert if a peace officer could lawfully act on the same information had the officer personally observed the relevant facts in a public place. (b) A warrantless alert under Subsection (a) must be tied to: (1) a crime in progress; (2) a verified stolen vehicle; (3) a valid arrest warrant; (4) a missing, abducted, endangered, or vulnerable person; (5) an immediate and articulable threat to life, serious bodily injury, or public safety; or (6) a documented active pursuit or active operation. (c) An alert must be narrowly keyed to a known vehicle, person, or device; limited to the shortest duration reasonably necessary; reviewed periodically; and disabled when its factual basis ends.
+Sec.
+424.104.
+FACIAL AND BIOMETRIC RECOGNITION. (a) A governmental body shall keep facial-recognition and biometric-recognition capabilities disabled unless use is authorized by a judicial warrant. (b) A warrant under this section must: (1) identify a known suspect; (2) describe the active criminal investigation, active pursuit, or court-sanctioned operation; (3) authorize the use solely to locate and apprehend the known suspect; and (4) state the geographic scope and duration of the authorized use. (c) A governmental body may not use facial-recognition or biometric-recognition technology for generalized scanning, continuous facial surveillance, real-time crowd identification, or reverse-image searching of the general public. (d) A facial or biometric match is an investigative lead only and may not alone establish identity, probable cause, guilt, or a basis for enforcement.
+A trained person shall review the match and independently corroborate the match before an enforcement action. (e) The governmental body shall promptly delete nonresponsive facial images, biometric identifiers, templates, embeddings, candidate lists, and related search outputs, except to the extent retention is required by a warrant, court order, evidentiary duty, or investigation of a violation of this chapter.
+Sec.
+424.105.
+WIRELESS-DEVICE DATA; COMMUNICATIONS CONTENT. (a) A governmental body may not collect, detect, identify, analyze, or locate wireless-device data, or operate a cell-site simulator, unless authorized by a judicial warrant. (b) Subsection (a) does not prohibit narrowly tailored warrantless use during an active, authorized pursuit of a known suspect if the officer reasonably believes the suspect is a violent offender, fugitive, or person whose immediate apprehension is necessary to prevent imminent death or serious bodily injury.
+The user shall document the facts and seek a warrant as soon as practicable if continued use is required. (c) A governmental body may not capture, obtain, retain, analyze, or use communications content, phone-screen content, or data stored on a wireless communications device without a judicial warrant.
+This subsection does not limit a greater protection or requirement under Article 18.0215, Code of Criminal Procedure, or other law. (d) A warrant or emergency use under this section must be target-specific; minimize collection of non-target data; document the area and duration of use; segregate nonresponsive data; and require prompt deletion of nonresponsive data.
 The warrant return must describe the use, data obtained, and data deleted.
-Sec. 424.106.
-SENSITIVE LOCATIONS.
-(a) A governmental body may use Tier 2 or Tier 3 technology to collect, query, or search data concerning a sensitive location only under a warrant supported by probable cause.
-(b) In addition to other warrant requirements, an application under Subsection (a) must establish:
-(1) the identity of the known suspect;
-(2) the active warrant or active criminal operation;
-(3) specific facts showing that the suspect frequents or is likely to appear at the sensitive location;
-(4) why the surveillance is necessary and less intrusive means are inadequate;
-(5) the steps that will be used to avoid collecting or using information about non-targets;
-(6) the narrowest reasonable geographic scope and shortest reasonable duration; and
-(7) the plan to avoid unnecessary interference with worship, voting, medical care, education, journalism, legal representation, or protected assembly.
-(c) A warrant authorizing use under this section must state the findings required by Subsection (b).
-Sec. 424.107.
-USER AUTHORIZATION; SEARCH RECORD.
-(a) A governmental body shall ensure that each access is attributable to an individual user with unique credentials.
-Shared, generic, anonymous, or untraceable accounts are prohibited.
-(b) Before or contemporaneously with an access or search, the user shall create a record stating:
-(1) the user's name, employing agency, and unique account identifier;
-(2) the date and time;
-(3) the query terms and data searched;
-(4) the authorized purpose;
-(5) the associated offense report, incident number, warrant, court order, alert identifier, or emergency justification;
-(6) the data accessed, exported, copied, or disclosed; and
-(7) the recipient and legal basis for each disclosure.
-Sec. 424.108.
-DISCLOSURE TO GOVERNMENTAL ENTITIES AND PRIVATE OPERATORS.
-(a) A governmental body may disclose covered surveillance data to another governmental body only if the receiving body is authorized to receive the data, the disclosure serves an authorized purpose, the receiving body agrees to comply with this chapter, and the disclosure is recorded in an audit log.
-(b) A private operator may not provide public-place observation data or covered surveillance data to a governmental body except:
-(1) in response to a warrant, court order, or other legal process;
-(2) during an emergency;
-(3) in response to a specific request for information concerning a particular incident personally observed by the operator; or
-(4) through a voluntary, affirmative, informed, and documented enrollment arrangement that complies with this chapter.
-(c) A governmental body may not obtain routine, bulk, real-time, or searchable access to a private operator's system or historical database unless expressly authorized by a warrant, a court order, or a government contract approved under Subchapter B.
+Sec.
+424.106.
+SENSITIVE LOCATIONS. (a) A governmental body may use Tier 2 or Tier 3 technology to collect, query, or search data concerning a sensitive location only under a warrant supported by probable cause. (b) In addition to other warrant requirements, an application under Subsection (a) must establish: (1) the identity of the known suspect; (2) the active warrant or active criminal operation; (3) specific facts showing that the suspect frequents or is likely to appear at the sensitive location; (4) why the surveillance is necessary and less intrusive means are inadequate; (5) the steps that will be used to avoid collecting or using information about non-targets; (6) the narrowest reasonable geographic scope and shortest reasonable duration; and (7) the plan to avoid unnecessary interference with worship, voting, medical care, education, journalism, legal representation, or protected assembly. (c) A warrant authorizing use under this section must state the findings required by Subsection (b).
+Sec.
+424.107.
+USER AUTHORIZATION; SEARCH RECORD. (a) A governmental body shall ensure that each access is attributable to an individual user with unique credentials.
+Shared, generic, anonymous, or untraceable accounts are prohibited. (b) Before or contemporaneously with an access or search, the user shall create a record stating: (1) the user's name, employing agency, and unique account identifier; (2) the date and time; (3) the query terms and data searched; (4) the authorized purpose; (5) the associated offense report, incident number, warrant, court order, alert identifier, or emergency justification; (6) the data accessed, exported, copied, or disclosed; and (7) the recipient and legal basis for each disclosure.
+Sec.
+424.108.
+DISCLOSURE TO GOVERNMENTAL ENTITIES AND PRIVATE OPERATORS. (a) A governmental body may disclose covered surveillance data to another governmental body only if the receiving body is authorized to receive the data, the disclosure serves an authorized purpose, the receiving body agrees to comply with this chapter, and the disclosure is recorded in an audit log. (b) A private operator may not provide public-place observation data or covered surveillance data to a governmental body except: (1) in response to a warrant, court order, or other legal process; (2) during an emergency; (3) in response to a specific request for information concerning a particular incident personally observed by the operator; or (4) through a voluntary, affirmative, informed, and documented enrollment arrangement that complies with this chapter. (c) A governmental body may not obtain routine, bulk, real-time, or searchable access to a private operator's system or historical database unless expressly authorized by a warrant, a court order, or a government contract approved under Subchapter B.
 SUBCHAPTER D.
-RETENTION, COMMERCIAL LIMITS, DATA RESIDENCY, AND SECURITY
-Sec. 424.151.
-RETENTION AND DELETION.
-(a) Except as provided by Subsection (b), an operator shall permanently delete covered surveillance data and public-place observation data not later than the 30th day after collection.
-(b) Data may be retained longer only if it is associated with a documented criminal investigation, prosecution, warrant, court order, missing-person investigation, stolen-property investigation, emergency, preservation notice, litigation hold, evidentiary duty, or suspected violation of this chapter.
-(c) An operator shall delete a record retained under Subsection (b) when the legal, evidentiary, investigative, or compliance basis ends, unless another lawful basis for retention applies.
-(d) An operator shall use a method that makes deleted information unrecoverable by ordinary means.
+RETENTION, COMMERCIAL LIMITS, DATA RESIDENCY, AND SECURITY Sec.
+424.151.
+RETENTION AND DELETION. (a) Except as provided by Subsection (b), an operator shall permanently delete covered surveillance data and public-place observation data not later than the 30th day after collection. (b) Data may be retained longer only if it is associated with a documented criminal investigation, prosecution, warrant, court order, missing-person investigation, stolen-property investigation, emergency, preservation notice, litigation hold, evidentiary duty, or suspected violation of this chapter. (c) An operator shall delete a record retained under Subsection (b) when the legal, evidentiary, investigative, or compliance basis ends, unless another lawful basis for retention applies. (d) An operator shall use a method that makes deleted information unrecoverable by ordinary means.
 If immediate deletion from a backup system is not technically feasible, the operator shall isolate the data, prohibit ordinary restoration or use, delete it at the first technically feasible backup-rotation opportunity, and document completion.
-Sec. 424.152.
-SALE, MONETIZATION, AND COMMERCIAL AGGREGATION PROHIBITED.
-(a) An operator may not sell, license, rent, exchange, monetize, commercially exploit, disclose, transfer, provide subscription access to, or otherwise make covered surveillance data, derived data, or public-place observation data available to a person not expressly authorized by this chapter.
-(b) A transaction is prohibited under Subsection (a) whether or not the operator receives money and whether consideration is monetary, in-kind, reciprocal, contingent, or otherwise valuable.
-(c) A private business may capture ordinary security video of an adjacent public area for security, access control, parking management, safety, loss prevention, or documentation of a specific incident.
-The business may not use the recording to identify, persistently track, aggregate, sell, license, monetize, or otherwise commercially exploit people, vehicles, or devices observed in the public area.
-(d) A vendor, contractor, subcontractor, or data host may process data only as necessary to provide an authorized service and may not independently use or disclose the data.
-(e) The restrictions imposed by this section survive expiration or termination of a contract or other arrangement.
-Sec. 424.153.
-ARTIFICIAL INTELLIGENCE.
-(a) Covered surveillance data may be used to train, test, validate, calibrate, or improve an artificial-intelligence model only if:
-(1) the model is wholly owned and operated by the operator of the specific surveillance product;
-(2) the use is strictly necessary to improve the product's accuracy, reliability, error detection, bias testing, security, or lawful functionality;
-(3) the data is not transferred to a third-party artificial-intelligence developer or used to train or improve a generalized commercial or shared foundation model, advertising model, consumer-profile model, or unrelated analytics product;
-(4) government-collected data is used only with the written approval of the governmental body that controls the data;
-(5) the training environment complies with the residency, security, logging, deletion, and no-sale requirements of this chapter; and
-(6) the data is minimized, access-restricted, and pseudonymized or de-identified when practicable.
-(b) An artificial-intelligence output is an investigative lead only and may not alone establish identity, probable cause, guilt, culpability, or a basis for adverse action.
-Sec. 424.154.
-UNITED STATES RESIDENCY; UNITED STATES OWNERSHIP.
-(a) An operator shall store, process, transmit for processing, back up, replicate, index, administer, and remotely access covered surveillance data only within the United States.
-(b) Subsection (a) applies to primary databases, camera and edge-device storage, backups, disaster-recovery systems, caches, indexes, logs, exports, analytics systems, development and test environments, model-training datasets, support systems, and telemetry containing covered surveillance data.
-(c) A governmental body may contract for public surveillance technology only with a United States business entity.
-A contract may not permit a foreign ownership interest in the vendor, contractor, subcontractor, data host, affiliate, or remote-support provider that owns, controls, or accesses covered surveillance data.
-(d) A governmental body may approve a limited exception to Subsection (c) only to the extent required by controlling federal law, federal procurement requirements, treaty obligations, or a federal order.
-An exception must be made in writing, identify the controlling authority, be limited to the minimum extent required, and be entered in the public registry.
-(e) A governmental body may approve temporary access from outside the United States only during a declared disaster or comparable emergency that makes domestic access unavailable.
-The approval must be written, limited to the least data and shortest duration necessary, use encryption and multifactor authentication, be continuously logged, and be reported in the registry not later than 30 days after the access ends.
-(f) A vendor, contractor, subcontractor, data host, affiliate, or remote-support provider shall notify the contracting governmental body not later than the fifth business day after a change in ownership, control, beneficial ownership, parent company, affiliate structure, data-hosting arrangement, subprocessor, or foreign-access risk.
-Sec. 424.155.
-MINIMUM SECURITY SAFEGUARDS.
-(a) An operator shall implement and maintain reasonable administrative, technical, and physical safeguards, including at least:
-(1) encryption in transit and at rest, including for backups, exports, logs, removable media, and edge-device storage;
-(2) multifactor authentication for every governmental, vendor, privileged, administrative, and remote-support account;
-(3) unique credentials, role-based access, least-privilege permissions, separation of administrative and auditing functions, and prompt access revocation;
-(4) network segmentation between field devices, administrative systems, and data-storage systems;
-(5) tamper-evident audit logs retained for at least five years;
-(6) automated monitoring and alerts for bulk searches, unusual geographic searches, repeated searches, mass exports, after-hours access, failed access attempts, and access outside assigned duties;
-(7) vulnerability management, secure software-development, code-signing, patching, update controls, and remediation deadlines based on severity;
-(8) annual independent security assessments and penetration testing;
-(9) hardware, firmware, software, cloud-service, and supply-chain risk controls;
-(10) a written incident-response, continuity, and disaster-recovery plan;
-(11) secure deletion practices required by Section 424.151; and
-(12) contractual flow-down of each requirement of this section to each affiliate, contractor, subcontractor, data host, and remote-support provider.
-(b) The Department of Information Resources shall adopt and update minimum technical cybersecurity standards under this section.
+Sec.
+424.152.
+SALE, MONETIZATION, AND COMMERCIAL AGGREGATION PROHIBITED. (a) An operator may not sell, license, rent, exchange, monetize, commercially exploit, disclose, transfer, provide subscription access to, or otherwise make covered surveillance data, derived data, or public-place observation data available to a person not expressly authorized by this chapter. (b) A transaction is prohibited under Subsection (a) whether or not the operator receives money and whether consideration is monetary, in-kind, reciprocal, contingent, or otherwise valuable. (c) A private business may capture ordinary security video of an adjacent public area for security, access control, parking management, safety, loss prevention, or documentation of a specific incident.
+The business may not use the recording to identify, persistently track, aggregate, sell, license, monetize, or otherwise commercially exploit people, vehicles, or devices observed in the public area. (d) A vendor, contractor, subcontractor, or data host may process data only as necessary to provide an authorized service and may not independently use or disclose the data. (e) The restrictions imposed by this section survive expiration or termination of a contract or other arrangement.
+Sec.
+424.153.
+ARTIFICIAL INTELLIGENCE. (a) Covered surveillance data may be used to train, test, validate, calibrate, or improve an artificial-intelligence model only if: (1) the model is wholly owned and operated by the operator of the specific surveillance product; (2) the use is strictly necessary to improve the product's accuracy, reliability, error detection, bias testing, security, or lawful functionality; (3) the data is not transferred to a third-party artificial-intelligence developer or used to train or improve a generalized commercial or shared foundation model, advertising model, consumer-profile model, or unrelated analytics product; (4) government-collected data is used only with the written approval of the governmental body that controls the data; (5) the training environment complies with the residency, security, logging, deletion, and no-sale requirements of this chapter; and (6) the data is minimized, access-restricted, and pseudonymized or de-identified when practicable. (b) An artificial-intelligence output is an investigative lead only and may not alone establish identity, probable cause, guilt, culpability, or a basis for adverse action.
+Sec.
+424.154.
+UNITED STATES RESIDENCY; UNITED STATES OWNERSHIP. (a) An operator shall store, process, transmit for processing, back up, replicate, index, administer, and remotely access covered surveillance data only within the United States. (b) Subsection (a) applies to primary databases, camera and edge-device storage, backups, disaster-recovery systems, caches, indexes, logs, exports, analytics systems, development and test environments, model-training datasets, support systems, and telemetry containing covered surveillance data. (c) A governmental body may contract for public surveillance technology only with a United States business entity.
+A contract may not permit a foreign ownership interest in the vendor, contractor, subcontractor, data host, affiliate, or remote-support provider that owns, controls, or accesses covered surveillance data. (d) A governmental body may approve a limited exception to Subsection (c) only to the extent required by controlling federal law, federal procurement requirements, treaty obligations, or a federal order.
+An exception must be made in writing, identify the controlling authority, be limited to the minimum extent required, and be entered in the public registry. (e) A governmental body may approve temporary access from outside the United States only during a declared disaster or comparable emergency that makes domestic access unavailable.
+The approval must be written, limited to the least data and shortest duration necessary, use encryption and multifactor authentication, be continuously logged, and be reported in the registry not later than 30 days after the access ends. (f) A vendor, contractor, subcontractor, data host, affiliate, or remote-support provider shall notify the contracting governmental body not later than the fifth business day after a change in ownership, control, beneficial ownership, parent company, affiliate structure, data-hosting arrangement, subprocessor, or foreign-access risk.
+Sec.
+424.155.
+MINIMUM SECURITY SAFEGUARDS. (a) An operator shall implement and maintain reasonable administrative, technical, and physical safeguards, including at least: (1) encryption in transit and at rest, including for backups, exports, logs, removable media, and edge-device storage; (2) multifactor authentication for every governmental, vendor, privileged, administrative, and remote-support account; (3) unique credentials, role-based access, least-privilege permissions, separation of administrative and auditing functions, and prompt access revocation; (4) network segmentation between field devices, administrative systems, and data-storage systems; (5) tamper-evident audit logs retained for at least five years; (6) automated monitoring and alerts for bulk searches, unusual geographic searches, repeated searches, mass exports, after-hours access, failed access attempts, and access outside assigned duties; (7) vulnerability management, secure software-development, code-signing, patching, update controls, and remediation deadlines based on severity; (8) annual independent security assessments and penetration testing; (9) hardware, firmware, software, cloud-service, and supply-chain risk controls; (10) a written incident-response, continuity, and disaster-recovery plan; (11) secure deletion practices required by Section 424.151; and (12) contractual flow-down of each requirement of this section to each affiliate, contractor, subcontractor, data host, and remote-support provider. (b) The Department of Information Resources shall adopt and update minimum technical cybersecurity standards under this section.
 The Department of Public Safety and the Texas Commission on Law Enforcement shall adopt rules concerning permissible law-enforcement uses, documentation, supervision, and training.
 A rule may not weaken a protection established by this chapter.
-Sec. 424.156.
-INCIDENT RESPONSE; CERTIFICATION; AUDIT.
-(a) An operator that discovers unauthorized access to, acquisition of, disclosure of, loss of, alteration of, or inability to account for covered surveillance data shall:
-(1) immediately contain and investigate the incident;
-(2) preserve relevant evidence, logs, configurations, and records;
-(3) notify the contracting governmental body not later than 24 hours after discovery;
-(4) notify the Department of Information Resources and the attorney general not later than 72 hours after discovery, unless the attorney general authorizes a longer period in writing for an active criminal investigation;
-(5) provide notice to affected individuals when required by Chapter 521, Business & Commerce Code, or when the attorney general determines misuse creates a material risk of harm; and
-(6) submit a corrective-action report not later than the 30th day after discovery unless an extension is approved in writing.
-(b) Not later than January 31 of each year, each operator shall submit to the contracting governmental body a certification signed by a responsible official that identifies data locations, hosting regions, data centers, affiliates, subcontractors, remote-support providers, technically possible access locations, material security incidents, deletion practices, and ownership or control changes.
-(c) A governmental body shall conduct quarterly access recertification and an annual audit that includes a statistically valid review of searches, historical queries, exports, disclosures, user access, deletion, vendor compliance, and adherence to approved use tiers.
+Sec.
+424.156.
+INCIDENT RESPONSE; CERTIFICATION; AUDIT. (a) An operator that discovers unauthorized access to, acquisition of, disclosure of, loss of, alteration of, or inability to account for covered surveillance data shall: (1) immediately contain and investigate the incident; (2) preserve relevant evidence, logs, configurations, and records; (3) notify the contracting governmental body not later than 24 hours after discovery; (4) notify the Department of Information Resources and the attorney general not later than 72 hours after discovery, unless the attorney general authorizes a longer period in writing for an active criminal investigation; (5) provide notice to affected individuals when required by Chapter 521, Business & Commerce Code, or when the attorney general determines misuse creates a material risk of harm; and (6) submit a corrective-action report not later than the 30th day after discovery unless an extension is approved in writing. (b) Not later than January 31 of each year, each operator shall submit to the contracting governmental body a certification signed by a responsible official that identifies data locations, hosting regions, data centers, affiliates, subcontractors, remote-support providers, technically possible access locations, material security incidents, deletion practices, and ownership or control changes. (c) A governmental body shall conduct quarterly access recertification and an annual audit that includes a statistically valid review of searches, historical queries, exports, disclosures, user access, deletion, vendor compliance, and adherence to approved use tiers.
 SUBCHAPTER E.
-TRANSPARENCY, DISCIPLINE, REMEDIES, AND PENALTIES
-Sec. 424.201.
-ANNUAL REPORT; COMPLAINTS; WHISTLEBLOWERS.
-(a) Not later than March 1 of each year, each governmental body using public surveillance technology shall publish an annual report stating the number of searches, historical queries, alerts, exports, disclosures, emergency accesses, suspected misuse incidents, substantiated violations, disciplinary actions, contract actions, referrals, security incidents, corrective actions, and amount of data deleted.
-(b) A governmental body shall maintain a process for receiving, documenting, investigating, and resolving a complaint alleging a violation of this chapter.
-(c) An operator or supervisor may not retaliate against a person who in good faith reports a suspected violation of this chapter to an appropriate governmental authority.
+TRANSPARENCY, DISCIPLINE, REMEDIES, AND PENALTIES Sec.
+424.201.
+ANNUAL REPORT; COMPLAINTS; WHISTLEBLOWERS. (a) Not later than March 1 of each year, each governmental body using public surveillance technology shall publish an annual report stating the number of searches, historical queries, alerts, exports, disclosures, emergency accesses, suspected misuse incidents, substantiated violations, disciplinary actions, contract actions, referrals, security incidents, corrective actions, and amount of data deleted. (b) A governmental body shall maintain a process for receiving, documenting, investigating, and resolving a complaint alleging a violation of this chapter. (c) An operator or supervisor may not retaliate against a person who in good faith reports a suspected violation of this chapter to an appropriate governmental authority.
 This subsection does not immunize a person from an independently justified action that would have occurred in the absence of the report.
-Sec. 424.202.
-INDIVIDUAL DISCIPLINE; REFERRAL.
-(a) A governmental body shall promptly investigate a credible allegation that an officer, employee, contractor, or other user violated this chapter.
-(b) If an investigation substantiates a negligent violation, the governmental body shall require corrective action and retraining.
-If an investigation substantiates a knowing or repeated violation, the body shall impose proportionate discipline, which may include suspension, termination, revocation of access, contract termination, or referral for criminal investigation.
-(c) The governmental body shall preserve the evidence and audit records relevant to an alleged violation.
+Sec.
+424.202.
+INDIVIDUAL DISCIPLINE; REFERRAL. (a) A governmental body shall promptly investigate a credible allegation that an officer, employee, contractor, or other user violated this chapter. (b) If an investigation substantiates a negligent violation, the governmental body shall require corrective action and retraining.
+If an investigation substantiates a knowing or repeated violation, the body shall impose proportionate discipline, which may include suspension, termination, revocation of access, contract termination, or referral for criminal investigation. (c) The governmental body shall preserve the evidence and audit records relevant to an alleged violation.
 If the allegation concerns a licensed peace officer and may constitute misconduct within the jurisdiction of the Texas Commission on Law Enforcement, the body shall make a referral as required by law.
-Sec. 424.203.
-CIVIL ENFORCEMENT; STANDING.
-(a) A person may bring an action for declaratory or injunctive relief to enforce this chapter without proving that the person's own data was collected, accessed, or disclosed.
-(b) A person whose data was knowingly accessed, used, retained, disclosed, sold, or otherwise handled in violation of this chapter may recover proven direct economic damages and statutory damages of not less than $1,000 or more than $5,000 for each violation, as determined by the court.
-(c) A plaintiff shall provide written notice to the governmental body or operator not later than 30 days before filing suit, describing the alleged violation and requested corrective action.
-Notice is not required for temporary or emergency injunctive relief to prevent imminent irreparable harm.
-(d) An action must be brought not later than two years after the date the plaintiff discovered or reasonably should have discovered the violation and not later than five years after the violation occurred.
-(e) A court may consolidate related actions, restrict duplicative recovery, and award reasonable attorney's fees and court costs to a substantially prevailing plaintiff.
-A court may award fees and costs to a defendant only if the court finds the action frivolous, objectively groundless, brought in bad faith, or brought for harassment.
-(f) Sovereign immunity and governmental immunity from suit and liability are waived and abolished solely to the extent necessary to permit the relief expressly authorized by this section against a governmental body.
+Sec.
+424.203.
+CIVIL ENFORCEMENT; STANDING. (a) A person may bring an action for declaratory or injunctive relief to enforce this chapter without proving that the person's own data was collected, accessed, or disclosed. (b) A person whose data was knowingly accessed, used, retained, disclosed, sold, or otherwise handled in violation of this chapter may recover proven direct economic damages and statutory damages of not less than $1,000 or more than $5,000 for each violation, as determined by the court. (c) A plaintiff shall provide written notice to the governmental body or operator not later than 30 days before filing suit, describing the alleged violation and requested corrective action.
+Notice is not required for temporary or emergency injunctive relief to prevent imminent irreparable harm. (d) An action must be brought not later than two years after the date the plaintiff discovered or reasonably should have discovered the violation and not later than five years after the violation occurred. (e) A court may consolidate related actions, restrict duplicative recovery, and award reasonable attorney's fees and court costs to a substantially prevailing plaintiff.
+A court may award fees and costs to a defendant only if the court finds the action frivolous, objectively groundless, brought in bad faith, or brought for harassment. (f) Sovereign immunity and governmental immunity from suit and liability are waived and abolished solely to the extent necessary to permit the relief expressly authorized by this section against a governmental body.
 This subsection does not waive immunity for exemplary damages, noneconomic damages, or a claim not expressly authorized by this section.
-Sec. 424.204.
-ATTORNEY GENERAL ENFORCEMENT; CIVIL PENALTIES.
-(a) The attorney general may bring an action in the name of the state to enforce this chapter against a governmental body, operator, vendor, contractor, subcontractor, data host, or private operator.
-(b) A court may assess a civil penalty of not less than $5,000 or more than $25,000 for each knowing violation and not less than $25,000 or more than $100,000 for a pattern or practice of violations.
-(c) In addition to a civil penalty, a court may order compliance monitoring, corrective action, data remediation, deletion, function-specific suspension, contract suspension or termination, recovery of investigation and remediation costs, and debarment as authorized by law.
-(d) A civil penalty collected under this section shall be deposited to the credit of the compensation to victims of crime fund.
-Sec. 424.205.
-CONTRACT REMEDIES; DEBARMENT.
-(a) A governmental body shall suspend or terminate a contract with an operator that knowingly or repeatedly violates this chapter, makes a materially false certification, refuses a lawful audit, permits prohibited foreign ownership or access, or fails to delete data as required.
-(b) The comptroller, after notice and opportunity for a hearing, may debar an operator described by Subsection (a) from state contracts involving public surveillance technology for a period not to exceed five years.
-Sec. 424.206.
-OFFENSES.
-(a) A person commits an offense if the person knowingly accesses, uses, discloses, retains, sells, or provides covered surveillance data or public-place observation data in violation of this chapter.
-(b) Except as provided by Subsection (c) or (d), an offense under this section is a Class A misdemeanor.
-(c) An offense under this section is a state jail felony if the actor:
-(1) commits the offense for a pecuniary benefit;
-(2) obtains or discloses information concerning 50 or more vehicles, persons, or devices;
-(3) commits the offense to facilitate stalking, harassment, family violence, trafficking, retaliation, or another offense involving violence or a credible threat of violence; or
-(4) knowingly defeats, alters, deletes, conceals, or materially falsifies an audit log or other record required by this chapter.
-(d) An offense under this section is a felony of the third degree if the actor commits the offense to facilitate or conceal a felony offense or knowingly sells or discloses information concerning 1,000 or more vehicles, persons, or devices.
-(e) It is a defense to prosecution under this section that the actor reasonably relied on a facially valid warrant, court order, legal process, or written request that appeared to authorize the conduct, unless the actor knew the conduct was unlawful.
-Sec. 424.207.
-CIVIL-TO-CRIMINAL REFERRAL; DUE PROCESS.
-(a) If a final judgment or administrative finding establishes facts that reasonably indicate a knowing violation of Section 424.206, the governmental body or tribunal shall refer the judgment or finding and supporting records to the prosecuting attorney with jurisdiction and to the attorney general.
-A referral involving a licensed peace officer shall also be made to the Texas Commission on Law Enforcement when applicable.
-(b) A civil or administrative finding under this chapter does not establish criminal guilt, create collateral estoppel in a criminal proceeding, alter the presumption of innocence, or reduce the state's burden of proof.
-Sec. 424.208.
-UNLAWFULLY OBTAINED OR MAINTAINED DATA.
-(a) Covered surveillance data knowingly obtained, accessed, or retained in violation of this chapter shall be deleted or placed in restricted segregation pending a lawful determination concerning preservation, disclosure, or evidentiary use.
-(b) Evidence obtained by an officer or other person in violation of this chapter is subject to Article 38.23, Code of Criminal Procedure, to the extent otherwise provided by that article.
-(c) Covered surveillance data obtained or maintained in violation of this chapter may not be used to impose a governmental penalty, licensing consequence, benefit termination, or civil liability, except to the extent an independent lawful source, inevitable discovery rule, or other applicable rule of law permits the use.
-Sec. 424.209.
+Sec.
+424.204.
+ATTORNEY GENERAL ENFORCEMENT; CIVIL PENALTIES. (a) The attorney general may bring an action in the name of the state to enforce this chapter against a governmental body, operator, vendor, contractor, subcontractor, data host, or private operator. (b) A court may assess a civil penalty of not less than $5,000 or more than $25,000 for each knowing violation and not less than $25,000 or more than $100,000 for a pattern or practice of violations. (c) In addition to a civil penalty, a court may order compliance monitoring, corrective action, data remediation, deletion, function-specific suspension, contract suspension or termination, recovery of investigation and remediation costs, and debarment as authorized by law. (d) A civil penalty collected under this section shall be deposited to the credit of the compensation to victims of crime fund.
+Sec.
+424.205.
+CONTRACT REMEDIES; DEBARMENT. (a) A governmental body shall suspend or terminate a contract with an operator that knowingly or repeatedly violates this chapter, makes a materially false certification, refuses a lawful audit, permits prohibited foreign ownership or access, or fails to delete data as required. (b) The comptroller, after notice and opportunity for a hearing, may debar an operator described by Subsection (a) from state contracts involving public surveillance technology for a period not to exceed five years.
+Sec.
+424.206.
+OFFENSES. (a) A person commits an offense if the person knowingly accesses, uses, discloses, retains, sells, or provides covered surveillance data or public-place observation data in violation of this chapter. (b) Except as provided by Subsection (c) or (d), an offense under this section is a Class A misdemeanor. (c) An offense under this section is a state jail felony if the actor: (1) commits the offense for a pecuniary benefit; (2) obtains or discloses information concerning 50 or more vehicles, persons, or devices; (3) commits the offense to facilitate stalking, harassment, family violence, trafficking, retaliation, or another offense involving violence or a credible threat of violence; or (4) knowingly defeats, alters, deletes, conceals, or materially falsifies an audit log or other record required by this chapter. (d) An offense under this section is a felony of the third degree if the actor commits the offense to facilitate or conceal a felony offense or knowingly sells or discloses information concerning 1,000 or more vehicles, persons, or devices. (e) It is a defense to prosecution under this section that the actor reasonably relied on a facially valid warrant, court order, legal process, or written request that appeared to authorize the conduct, unless the actor knew the conduct was unlawful.
+Sec.
+424.207.
+CIVIL-TO-CRIMINAL REFERRAL; DUE PROCESS. (a) If a final judgment or administrative finding establishes facts that reasonably indicate a knowing violation of Section 424.206, the governmental body or tribunal shall refer the judgment or finding and supporting records to the prosecuting attorney with jurisdiction and to the attorney general.
+A referral involving a licensed peace officer shall also be made to the Texas Commission on Law Enforcement when applicable. (b) A civil or administrative finding under this chapter does not establish criminal guilt, create collateral estoppel in a criminal proceeding, alter the presumption of innocence, or reduce the state's burden of proof.
+Sec.
+424.208.
+UNLAWFULLY OBTAINED OR MAINTAINED DATA. (a) Covered surveillance data knowingly obtained, accessed, or retained in violation of this chapter shall be deleted or placed in restricted segregation pending a lawful determination concerning preservation, disclosure, or evidentiary use. (b) Evidence obtained by an officer or other person in violation of this chapter is subject to Article 38.23, Code of Criminal Procedure, to the extent otherwise provided by that article. (c) Covered surveillance data obtained or maintained in violation of this chapter may not be used to impose a governmental penalty, licensing consequence, benefit termination, or civil liability, except to the extent an independent lawful source, inevitable discovery rule, or other applicable rule of law permits the use.
+Sec.
+424.209.
 GOOD-FAITH PROTECTION FOR FIRST RESPONDERS.
 This chapter does not create a claim for money damages against an individual peace officer, firefighter, emergency medical services personnel, or other first responder who acted in good-faith reliance on a facially valid agency policy, warrant, court order, legal process, or supervisory direction, unless the individual knew the conduct was unlawful.
 SUBCHAPTER F.
-LOCAL AUTHORITY AND RULEMAKING
-Sec. 424.251.
+LOCAL AUTHORITY AND RULEMAKING Sec.
+424.251.
 LOCAL STANDARDS.
 A political subdivision may adopt a more protective privacy, retention, transparency, security, accountability, or use restriction for public surveillance technology if the standard does not prevent compliance with a valid statewide missing-person, stolen-vehicle, or emergency-alert system.
-Sec. 424.252.
+Sec.
+424.252.
 RULEMAKING.
 The Department of Information Resources, the Department of Public Safety, the Texas Commission on Law Enforcement, the attorney general, and the comptroller may adopt rules necessary to implement their respective duties under this chapter.
 ARTICLE 2.
-CONFORMING AMENDMENTS
-SECTION 2.01.
+CONFORMING AMENDMENTS SECTION 2.01.
 BIOMETRIC IDENTIFIERS.
-Chapter 560, Government Code, is amended by adding Section 560.004 to read as follows:
-Sec. 560.004.
+Chapter 560, Government Code, is amended by adding Section 560.004 to read as follows: Sec.
+560.004.
 PUBLIC SURVEILLANCE TECHNOLOGY.
 This chapter does not limit a requirement or prohibition imposed by Chapter 424.
 If a governmental body possesses a biometric identifier through public surveillance technology, the governmental body shall comply with Chapter 424 to the extent that chapter imposes a greater protection or restriction.
 SECTION 2.02.
 CELLULAR TELEPHONES AND WIRELESS COMMUNICATIONS DEVICES.
-Article 18.0215, Code of Criminal Procedure, is amended by adding Subsection (h) to read as follows:
-(h) This article does not limit a requirement or prohibition imposed by Chapter 424, Government Code.
+Article 18.0215, Code of Criminal Procedure, is amended by adding Subsection (h) to read as follows: (h) This article does not limit a requirement or prohibition imposed by Chapter 424, Government Code.
 A governmental body using a cell-site simulator or obtaining wireless-device data, communications content, phone-screen content, or data stored on a wireless communications device through public surveillance technology shall comply with Chapter 424 to the extent that chapter imposes a greater protection or restriction.
 ARTICLE 3.
-IMPLEMENTATION AND TRANSITION
-SECTION 3.01.
-INITIAL IMPLEMENTATION.
-(a) Not later than September 1, 2027, each governmental body subject to Chapter 424, Government Code, as added by this Act, shall:
-(1) inventory every covered system, feature, vendor, subcontractor, data host, data flow, retention setting, government-access arrangement, and foreign-access path;
-(2) suspend prohibited sale, monetization, routine government access to private databases, and new deployment of a prohibited capability;
-(3) disable facial recognition, biometric recognition, wireless-device collection, communications-content collection, behavioral analytics, and cross-camera tracking capabilities unless and until their use is approved and authorized under Chapter 424, Government Code, as added by this Act;
-(4) publish the public registry required by Section 424.052, Government Code, as added by this Act;
-(5) submit initial ownership, control, and data-location certifications required by Section 424.156, Government Code, as added by this Act; and
-(6) adopt the policy required by Section 424.051, Government Code, as added by this Act.
-(b) Not later than September 1, 2027, the Department of Information Resources shall adopt initial security rules and standards, and the Department of Public Safety and Texas Commission on Law Enforcement shall adopt initial use, documentation, supervision, and training rules.
+IMPLEMENTATION AND TRANSITION SECTION 3.01.
+INITIAL IMPLEMENTATION. (a) Not later than September 1, 2027, each governmental body subject to Chapter 424, Government Code, as added by this Act, shall: (1) inventory every covered system, feature, vendor, subcontractor, data host, data flow, retention setting, government-access arrangement, and foreign-access path; (2) suspend prohibited sale, monetization, routine government access to private databases, and new deployment of a prohibited capability; (3) disable facial recognition, biometric recognition, wireless-device collection, communications-content collection, behavioral analytics, and cross-camera tracking capabilities unless and until their use is approved and authorized under Chapter 424, Government Code, as added by this Act; (4) publish the public registry required by Section 424.052, Government Code, as added by this Act; (5) submit initial ownership, control, and data-location certifications required by Section 424.156, Government Code, as added by this Act; and (6) adopt the policy required by Section 424.051, Government Code, as added by this Act. (b) Not later than September 1, 2027, the Department of Information Resources shall adopt initial security rules and standards, and the Department of Public Safety and Texas Commission on Law Enforcement shall adopt initial use, documentation, supervision, and training rules.
 SECTION 3.02.
-EXISTING SYSTEMS AND CONTRACTS.
-(a) A governmental body and operator shall bring an existing system or contract into compliance with Chapter 424, Government Code, as added by this Act, not later than September 1, 2028.
-(b) Compliance under Subsection (a) includes obtaining governing-body approval for a system that will remain in operation, amending, replacing, or terminating noncompliant contracts, relocating data and backups to the United States, eliminating prohibited foreign ownership or access, disabling prohibited features, deleting impermissibly held records, and documenting completion.
-(c) A governmental body may not renew, extend, or materially modify a contract after September 1, 2027, unless the contract complies with Chapter 424, Government Code, as added by this Act.
-(d) Not later than October 1, 2028, each governmental body shall submit a compliance report to the attorney general, the Department of Information Resources, the Department of Public Safety, and the Texas Commission on Law Enforcement.
+EXISTING SYSTEMS AND CONTRACTS. (a) A governmental body and operator shall bring an existing system or contract into compliance with Chapter 424, Government Code, as added by this Act, not later than September 1, 2028. (b) Compliance under Subsection (a) includes obtaining governing-body approval for a system that will remain in operation, amending, replacing, or terminating noncompliant contracts, relocating data and backups to the United States, eliminating prohibited foreign ownership or access, disabling prohibited features, deleting impermissibly held records, and documenting completion. (c) A governmental body may not renew, extend, or materially modify a contract after September 1, 2027, unless the contract complies with Chapter 424, Government Code, as added by this Act. (d) Not later than October 1, 2028, each governmental body shall submit a compliance report to the attorney general, the Department of Information Resources, the Department of Public Safety, and the Texas Commission on Law Enforcement.
 SECTION 3.03.
 PROSPECTIVE APPLICATION.
 The changes in law made by this Act apply only to conduct occurring on or after September 1, 2028.
@@ -432,3 +246,4 @@ If any provision of this Act or its application to a person or circumstance is h
 SECTION 3.05.
 EFFECTIVE DATE.
 Except as otherwise provided by this Act, this Act takes effect September 1, 2027.
+South Grand Prairie Cedar Hill East De Soto Lancaster North Glenn Heights Texas House of Representatives District 109 Hutchins Wilmer Seagoville Combine North Ferris South Dallas CONTRIBUTE Official campaign website Cedar Hill, TX 75104 817-313-2927 communication@willcampbellfortexas.com Made with Squarespace Will Campbell for Texas

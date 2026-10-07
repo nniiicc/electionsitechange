@@ -1,8 +1,38 @@
 [
-"https://jerrycarlforcongress.com/",
-"https://jerrycarlforcongress.com/about",
-"https://jerrycarlforcongress.com/issues",
-"https://jerrycarlforcongress.com/news",
-"https://jerrycarlforcongress.com/privacy-policy",
-"https://secure.winred.com/jerry-carl-for-congress/website"
+{
+"text": "About",
+"href": "https://jerrycarlforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jerry-carl-for-congress/website"
+},
+{
+"text": "Home",
+"href": "https://jerrycarlforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://jerrycarlforcongress.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://jerrycarlforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://jerrycarlforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jerrycarlforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://jerrycarlforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Jerry Carl for Congress]",
+"href": "https://jerrycarlforcongress.com"
+}
 ]

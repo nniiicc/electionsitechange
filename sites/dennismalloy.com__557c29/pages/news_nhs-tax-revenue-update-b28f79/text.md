@@ -1,4 +1,4 @@
-The following was published in the NH Union Leader on March 3, 2026, written by State Representative Michael Cahill of Newmarket, and are his views.
+Why I Serve News Donate Why I Serve News Donate Dennis Malloy April 2, 2026 NH's Tax Revenue Update Dennis Malloy April 2, 2026 The following was published in the NH Union Leader on March 3, 2026, written by State Representative Michael Cahill of Newmarket, and are his views.
 For purposes of this discussion, I do not support any new taxes for NH nor do I support the “3-3 plan” to fund education.
 Taxes have been back in the headlines lately.
 Some are seeking a .5% cut to the Business Enterprise Tax (BET) — or even an outright repeal — while others are suggesting a “3–3 plan” to fund education.
@@ -21,13 +21,11 @@ There was even a downside for the businesses themselves, as their 3% commission 
 While everyone appreciates lower taxes, they inevitably result in lower state revenues and difficult budgeting decisions.
 When state programs are cut, the burden often “downshifts” to local governments, ultimately driving property taxes higher.
 State revenues have been disappointing recently, and we have only avoided a deficit thanks to a tax amnesty program.
-Here is a summary of the amnesty amounts collected:
-Business Taxes: $96.7 million
-Interest and Dividends Tax: $4.4 million
-Meals & Rentals: $1.0 million
-Tobacco: $0.7 million
-Real Estate Transfer & Communications: $1.0 million
-Total: $103.8 million
-By waiving approximately $4 million in penalties and $13.4 million in interest, the state realized a net revenue of $86.7 million.
+Here is a summary of the amnesty amounts collected: Business Taxes: $96.7 million Interest and Dividends Tax: $4.4 million Meals & Rentals: $1.0 million Tobacco: $0.7 million Real Estate Transfer & Communications: $1.0 million Total: $103.8 million By waiving approximately $4 million in penalties and $13.4 million in interest, the state realized a net revenue of $86.7 million.
 While an $86 million return on a $17 million “investment” (the waived fees) isn’t bad, we must remember that if these taxes had been paid in full and on time, $103.8 million would have been available to the state.
 These figures should serve as a cautionary note as further tax cuts are considered.
+Newer Post NH's Struggle to Support Sustainable Energy Older Post Unions and Kids Win.
+Environment Loses.
+Have a question or comment for Dennis Malloy?
+Contact information: dennis@dennismalloy.com 10 Van Etten Drive Greenland, NH 03840 603 970 1827 Dennis Malloy, Rockingham District 24, NH House of Representatives.
+Back to Top Donate dennis@dennismalloy.com Powered by Squarespace

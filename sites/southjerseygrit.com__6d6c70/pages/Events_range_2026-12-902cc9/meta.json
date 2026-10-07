@@ -1,7 +1,11 @@
 {
  "description": "Ramon Mora Jr Campaign Events",
  "final_url": "https://www.southjerseygrit.com/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "da80314a21fe4a9a6cc27e5a0e67fecab29b0ab8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ramon Mora Jr Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

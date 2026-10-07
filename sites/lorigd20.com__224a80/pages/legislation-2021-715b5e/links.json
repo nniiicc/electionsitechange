@@ -1,20 +1,190 @@
 [
-"https://facebook.com/charkoudian.lorig",
-"https://instagram.com/lorigcharkoudian?hl=en",
-"https://lorigd20.com/",
-"https://lorigd20.com/2021-legislation",
-"https://lorigd20.com/about-4",
-"https://lorigd20.com/community-resources",
-"https://lorigd20.com/contact",
-"https://lorigd20.com/delegate-scholarship",
-"https://lorigd20.com/donate",
-"https://lorigd20.com/get-involved",
-"https://lorigd20.com/immigration-resources",
-"https://lorigd20.com/legislation",
-"https://lorigd20.com/legislation-2021",
-"https://lorigd20.com/news",
-"https://lorigd20.com/power-in-the-park",
-"https://lorigd20.com/precinct-official-information",
-"https://lorigd20.com/subscribe",
-"https://twitter.com/LCharkoudian"
+{
+"text": "About",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "About Lorig",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "Accuracy in Recycling – Removing Incineration Ash",
+"href": "https://www.lorigd20.com/legislation-2021#accuacyinrecycling"
+},
+{
+"text": "Accuracy in Recycling – Removing Incineration Ash (HB 280)(SB 304)",
+"href": "https://www.lorigd20.com/legislation-2021#accuacyinrecycling"
+},
+{
+"text": "Community Choice Energy",
+"href": "https://www.lorigd20.com/legislation-2021#communitychoceenegy"
+},
+{
+"text": "Contact",
+"href": "https://www.lorigd20.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.lorigd20.com/donate"
+},
+{
+"text": "Delegate Scholarship",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "Effective Corporate Tax Rate Transparency Act (HB330)",
+"href": "https://www.lorigd20.com/legislation-2021#effectivecorporatetaxrate"
+},
+{
+"text": "Energy Efficiency for Low Income Households (HB379)",
+"href": "https://www.lorigd20.com/legislation-2021#enegyefficiency"
+},
+{
+"text": "Events",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Flower Branch",
+"href": "https://www.lorigd20.com/legislation-2021#flowerbranch"
+},
+{
+"text": "Flower Branch Gas Service Regulator Safety Act (HB345)",
+"href": "https://www.lorigd20.com/legislation-2021#flowerbranch"
+},
+{
+"text": "Food System Resiliency Council",
+"href": "https://www.lorigd20.com/legislation-2021#foodsystemresiliencycouncil"
+},
+{
+"text": "Geothermal Energy",
+"href": "https://www.lorigd20.com/legislation-2021#geothermalenergy"
+},
+{
+"text": "Geothermal Energy Development (HB40)",
+"href": "https://www.lorigd20.com/legislation-2021#geothermalenergy"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Heat and Eat",
+"href": "https://www.lorigd20.com/legislation-2021#heatandeat"
+},
+{
+"text": "Heat and Eat – SNAP Benefits (HB101)",
+"href": "https://www.lorigd20.com/legislation-2021#heatandeat"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com/legislation-2021"
+},
+{
+"text": "Immigration Resources",
+"href": "https://www.lorigd20.com/immigration-resources"
+},
+{
+"text": "Legislation",
+"href": "https://www.lorigd20.com/legislation"
+},
+{
+"text": "Medical Debt Protection",
+"href": "https://www.lorigd20.com/legislation-2021#medicaldebtprotection"
+},
+{
+"text": "Mobile Crisis Units",
+"href": "https://www.lorigd20.com/legislation-2021#mobilecrisisunits"
+},
+{
+"text": "Mobile Crisis Units (HB108/SB 286)",
+"href": "https://www.lorigd20.com/legislation-2021#mobilecrisisunits"
+},
+{
+"text": "Newsroom",
+"href": "https://www.lorigd20.com/news"
+},
+{
+"text": "Organic Waste Ban",
+"href": "https://www.lorigd20.com/legislation-2021#organicwasteban"
+},
+{
+"text": "Organic Waste Ban – Large Generators (HB264)",
+"href": "https://www.lorigd20.com/legislation-2021#organicwasteban"
+},
+{
+"text": "Power in the Park",
+"href": "https://www.lorigd20.com/power-in-the-park"
+},
+{
+"text": "Precinct Official Information",
+"href": "https://www.lorigd20.com/precinct-official-information"
+},
+{
+"text": "Public Service Commission",
+"href": "https://www.lorigd20.com/legislation-2021#publicservicecommission"
+},
+{
+"text": "Public Service Commission – Consideration of Climate and Labor (HB298/SB83)",
+"href": "https://www.lorigd20.com/legislation-2021#publicservicecommission"
+},
+{
+"text": "Purple Line Tree Replacement",
+"href": "https://www.lorigd20.com/legislation-2021#purplelinetreereplacement"
+},
+{
+"text": "Purple Line Tree Replacement (HB80)",
+"href": "https://www.lorigd20.com/legislation-2021#purplelinetreereplacement"
+},
+{
+"text": "Resources/Scholarship",
+"href": "https://www.lorigd20.com/community-resources"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.lorigd20.com/subscribe"
+},
+{
+"text": "Unemployment Insurance",
+"href": "https://www.lorigd20.com/legislation-2021#unemploymentinsurance"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "WSSC",
+"href": "https://www.lorigd20.com/legislation-2021#wssc"
+},
+{
+"text": "WSSC – Video Streaming and Archiving",
+"href": "https://www.lorigd20.com/legislation-2021#wssc"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/charkoudian.lorig"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lorigcharkoudian/?hl=en"
+},
+{
+"text": "[image: Screen Shot 2021-11-21 at 4.58.01 PM.png]",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LCharkoudian"
+},
+{
+"text": "friendsoflorig@gmail.com",
+"href": "mailto:friendsoflorig@gmail.com"
+},
+{
+"text": "​",
+"href": "https://lorigd20.com/2021-legislation/#top"
+}
 ]

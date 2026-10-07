@@ -1,5 +1,4 @@
-About
-Alex is a conservative Republican who has served as the State Representative for Missouri’s 134th House District since January 2021.
+Home About Issues Take Action Donate About Alex is a conservative Republican who has served as the State Representative for Missouri’s 134th House District since January 2021.
 He currently serves as the House Majority Leader and has been elected to be the next Speaker of the House, where he will help set the legislative agenda for the state.
 As Majority Leader, Alex is responsible for advancing priority legislation and guiding key conservative reforms through the legislative process.
 Born and raised in Springfield, Alex lives in the Parkcrest neighborhood with his wife and high school sweetheart, Ellen, and their four children—Mitchell, Sophie, Carson, and Jessie.
@@ -25,3 +24,4 @@ Alex is currently an attorney with the Healy Law Offices and has successfully re
 His legal work gives him first hand insight into how government regulation and litigation impact Missouri families and job creators.
 Alex and his family attend Connect Church in Springfield.
 In their free time, they enjoy participating in community events, camping, traveling, exploring the Ozarks countryside, and cheering on the Springfield Cardinals.
+Support Alex Donate Home About Issues Take Action Donate Paid for by Alex Riley for State Representative, Rose Clark, Treasurer.

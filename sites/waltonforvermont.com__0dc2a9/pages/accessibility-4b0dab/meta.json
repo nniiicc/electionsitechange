@@ -1,7 +1,11 @@
 {
- "description": "Walton for Vermont\u2019s commitment to an accessible campaign website.",
+ "description": "Walton for Vermont’s commitment to an accessible campaign website.",
  "final_url": "https://www.waltonforvermont.com/accessibility",
- "paid_for_by": null,
+ "fingerprint": "3601c35d2f73ac1a30c1d7de6ff29ff51efa7dbc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Accessibility | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

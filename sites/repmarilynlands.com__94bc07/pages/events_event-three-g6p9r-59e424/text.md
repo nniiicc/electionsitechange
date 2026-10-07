@@ -1,9 +1,4 @@
-Back to All Events
-Last day to apply for an absentee ballot by mail.
-Previous
-Previous
-October 21
-Voter Registration Deadline for the November 5th, 2024 General Election
-Next
-Next
-October 31
+0 Skip to Content About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu Folder: About Back About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Back to All Events Last day to apply for an absentee ballot by mail Tuesday, October 29, 2024 5:00 PM Sunday, January 5, 2025 7:30 PM Google Calendar ICS Last day to apply for an absentee ballot by mail.
+More information here.
+Previous Previous October 21 Voter Registration Deadline for the November 5th, 2024 General Election Next Next October 31 Last day to apply for an absentee ballot in person Constituent Resources Contact Rep.
+Lands Issues Legislative News News & Media Website designed and created by Clete Wetli & Tektite.Digital

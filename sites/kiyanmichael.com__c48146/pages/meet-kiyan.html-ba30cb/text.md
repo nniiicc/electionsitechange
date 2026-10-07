@@ -1,5 +1,4 @@
-Fighting for You
-I was elected to the Florida State House of Representatives for District 16 in 2022.
+Home Meet Kiyan The Issues Legislative Victories Contact Stand with Kiyan MEET STATE REPRESENTATIVE KIYAN MICHAEL Fighting for You I was elected to the Florida State House of Representatives for District 16 in 2022.
 It has been my honor to serve and advocate for you in the Florida Legislature.
 For too long, we have suffered at the hands of politicians who have promised reform and then become caught up in the self-dealing and political games of state and federal government.
 Like you, I’m not interested in games.
@@ -12,7 +11,13 @@ Government at almost every level has failed us.
 It is better in Florida because our citizens have stood up and elected true leaders.
 But there is still a swamp in our state capitol just like there is in Washington.
 And both need to be drained.
-My priorities are to give a voice to Angel Families like ours, defend conservative values, and advocate for more robust measures to protect our state from illegal aliens and similar threats to public safety, protect the taxpayers from the insider dealing of special interests, and protect our freedom from the over-reach of government.
+My priorities are to give a voice to Angel Families like ours, defend conservative values , and advocate for more robust measures to protect our state from illegal aliens and similar threats to public safety, protect the taxpayers from the insider dealing of special interests, and protect our freedom from the over-reach of government.
 It is an honor that you have elected me to fight for you, and I will do so with all my heart, so help me God.
-WHAT I STAND FOR
-Please show your support for Kiyan Michael so she may continue to fight the good fight in Tallahassee!
+WHAT I STAND FOR STAND WITH KIYAN Please show your support for Kiyan Michael so she may continue to fight the good fight in Tallahassee!
+STAND WITH KIYAN Keep Our State Great and Join Me!
+Contact Kiyan Stand with Kiyan Thank you for contacting Kiyan.
+Oops...! some problem!
+Get In Touch Contact Kiyan Send Together we can protect our state from the radical left!
+Involve Your Friends and Family Share Kiyan on Social Media Vote Kiyan Paid by Kiyan Michael, Republican, for Florida State Representative District 16.
+Contact Us P.O.
+Box 350655 Jacksonville, FL 32235 Facebook Twitter Links Home Meet Kiyan Legislative Victories The Issues

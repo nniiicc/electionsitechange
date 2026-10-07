@@ -1,16 +1,66 @@
 [
-"https://facebook.com/VoteMercedes2026",
-"https://mercedes2026.com/",
-"https://mercedes2026.com/_files/ugd/b48daa_215a6294d5924fd6ae4a3a4b0c645973.pdf",
-"https://mercedes2026.com/about",
-"https://mercedes2026.com/about-2",
-"https://mercedes2026.com/community",
-"https://mercedes2026.com/donate",
-"https://mercedes2026.com/endorsements",
-"https://mercedes2026.com/register-to-vote-absentee",
-"https://mercedes2026.com/volunteer",
-"https://monroecounty.gov/elections-sites",
-"https://monroedemocrats.com/",
-"https://nydems.org/",
-"https://voterlookup.elections.ny.gov/"
+{
+"text": "About",
+"href": "https://www.mercedes2026.com/about"
+},
+{
+"text": "Community",
+"href": "https://www.mercedes2026.com/community"
+},
+{
+"text": "DONATE",
+"href": "https://www.mercedes2026.com/donate"
+},
+{
+"text": "Democrat",
+"href": "https://monroedemocrats.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mercedes2026.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mercedes2026.com"
+},
+{
+"text": "MAP OF DISTRICT 137",
+"href": "https://www.mercedes2026.com/_files/ugd/b48daa_215a6294d5924fd6ae4a3a4b0c645973.pdf"
+},
+{
+"text": "Record",
+"href": "https://www.mercedes2026.com/about-2"
+},
+{
+"text": "Register",
+"href": "https://www.mercedes2026.com/register-to-vote-absentee"
+},
+{
+"text": "Register to Vote / Absentee",
+"href": "https://www.mercedes2026.com/register-to-vote-absentee"
+},
+{
+"text": "VOTER LOOK-UP PORTAL",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.mercedes2026.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.monroecounty.gov/elections-sites"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteMercedes2026"
+},
+{
+"text": "https://www.nydems.org/",
+"href": "https://www.nydems.org/"
+},
+{
+"text": "votemercedes2026@gmail.com",
+"href": "mailto:votemercedes2026@gmail.com"
+}
 ]

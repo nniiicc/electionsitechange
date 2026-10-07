@@ -1,10 +1,7 @@
-Miguel Granda Campaign (“Miguel Granda Campaign,” “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
-1.
-(a) By opting into or participating in any of our Programs, you are giving your express consent to receive automated text messages at the phone number you provided.
+Home About Issues Contact Volunteer Donate Get in touch Miguel Granda Campaign Miguel Granda Campaign Home About Issues Contact Volunteer Donate Miguel Granda Campaign (“Miguel Granda Campaign,” “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program. ﻿ 1. (a) By opting into or participating in any of our Programs, you are giving your express consent to receive automated text messages at the phone number you provided.
 Regardless of your opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
-By opting-in you agree to receive autodialed marketing mobile messages and you understand that your consent to be contacted in this method is not required to make any purchase from Us.
-(b) By signing up for the program through a form provided on https://www.miguelgranda.net or any other web page controlled by Miguel Granda Campaign, by texting our short code, or by giving your information to Us at an in-person event, you are giving your express consent to receive automated text messages at the phone number you provided.
+By opting-in you agree to receive autodialed marketing mobile messages and you understand that your consent to be contacted in this method is not required to make any purchase from Us. (b) By signing up for the program through a form provided on https://www.miguelgranda.net or any other web page controlled by Miguel Granda Campaign, by texting our short code, or by giving your information to Us at an in-person event, you are giving your express consent to receive automated text messages at the phone number you provided.
 Regardless of your opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 By opting-in you understand that your consent to be contacted in this method is not required to make any purchase from Us.
 1.
@@ -44,3 +41,15 @@ You understand and acknowledge that you may not sign up for, access, or attempt 
 You agree to abide by U.S. and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a national destination or person prohibited under such laws.
 13.
 Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+Follow Miguel Granda Campaign Sign Up For Updates newsletter Name: Email: Phone Opt-In I agree to opt in to text messages from Miguel Granda Campaign.
+By providing your mobile phone number and opting in, you are giving your express written consent to receive calls and recurring SMS/MMS messages, including autodialed and automated calls and texts, to that number from Miguel Granda Campaign.
+Messages may include requests for donations.
+Msg frequency varies.
+Additional msg & data rates may apply.
+Text STOP to opt-out and stop receiving messages.
+Text HELP for assistance or e-mail noreen@pacfm.net Privacy Policy | Terms and Conditions .
+Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+Paid by Miguel Granda, Republican, for State Representative District 117 Privacy Policy Powered by Ryvall Share by:

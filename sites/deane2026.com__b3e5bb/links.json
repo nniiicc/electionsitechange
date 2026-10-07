@@ -1,7 +1,26 @@
 [
-"https://deane2026.com/",
-"https://deane2026.com/about-me",
-"https://deane2026.com/contact",
-"https://facebook.com/LisaDeane2026",
-"https://secure.anedot.com/deane-2026/general_fund"
+{
+"text": "About Me",
+"href": "https://www.deane2026.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://www.deane2026.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/deane-2026/general_fund"
+},
+{
+"text": "Home",
+"href": "https://www.deane2026.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LisaDeane2026"
+},
+{
+"text": "[image: Untitled design (27).png]",
+"href": "https://www.deane2026.com"
+}
 ]

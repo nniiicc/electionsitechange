@@ -1,9 +1,18 @@
-Donate NowHomeMeet UsReviewsFAQ
-I agree to be contacted by Marisa for Minnesota.
-To opt out, click the unsubscribe link in the emails.
-How to Spot HVAC Issues Before They Wreck Your Summer in Savage, Rosemount, and Jordan
-Join us & receive email updates.
-Marisa for Minnesota US Senate
-Lot #7060 PO BOX 17370 Saint Paul, MN 55117
-RECOMMENDED BY
-Donate Now
+Donate Now Home Meet Us Reviews FAQ Join us & receive email updates.
+Marisa for Minnesota US Senate Join Us I agree to be contacted by Marisa for Minnesota.
+To opt out, click the unsubscribe link in the emails. marisa4minnesota@marisasimonetti.com © # Prepared and paid for by Marisa for Minnesota Lot #7060 PO BOX 17370 Saint Paul, MN 55117 RECOMMENDED BY John Bristol for State Representative Tad Jude for US Congress Pam Altendorf House of Representatives 20A Steven Jacob House of Representatives 20B Senator Karin Housely Donate Now Dennis Walsh, Mayor of Orono ≡ :::: Tap to close menu Home News Blog Housing & Homeownership in Minnesota Minnesota Eats & Local Food Culture Things to Do in Minnesota How to Spot HVAC Issues Before They Wreck Your Summer in Savage, Rosemount, and Jordan When the summer heat hits Minnesota, the last thing any homeowner wants is a failing AC system.
+Whether you’re living in Savage, Rosemount, or Jordan, knowing how to spot HVAC issues before they turn into major repairs can save you thousands—and possibly your home sale.
+Let’s break down the warning signs, average repair costs, and what it all means if you’re planning to sell your house in Dakota or Scott County this summer. ☀️ Common HVAC Problems in Minnesota Summers In the upper Midwest, HVAC systems get a workout all year long—but summer presents unique challenges.
+Here are the most common issues homeowners face: 1.Low Refrigerant Levels Symptom: Weak airflow or warm air Fix: Recharge refrigerant lines, repair leaks Cost: $200–$600 2.Frozen Evaporator Coils Symptom: Ice buildup on indoor unit or weak airflow Fix: Thaw coils, replace filters, check airflow restrictions Cost: $150–$500 3.Clogged Drain Lines Symptom: Water leaks around the unit or damp smells Fix: Clean or replace drain lines Cost: $75–$300 4.Dirty Condenser Coils Symptom: Overheating unit, system short cycling Fix: Professional coil cleaning Cost: $100–$400 5.Faulty Capacitor or Contactor Symptom: AC won’t start or randomly shuts off Fix: Replace capacitor/contact relay Cost: $150–$450 🔧 Why These Repairs Matter if You’re Selling Buyers in Savage, Rosemount, and Jordan aren’t just looking for great neighborhoods—they want peace of mind.
+An HVAC system in disrepair can tank your sale or lead to steep concessions.
+Even if you’re working with companies that buy houses in Savage MN, they’ll factor HVAC costs into their offers. 🧊 Cool air = higher offers.
+A working HVAC system in June can increase buyer confidence and reduce time on the market—especially in Dakota and Scott counties, where buyers expect turnkey readiness. 🛠️ Should You Repair or Sell As-Is?
+If your system needs $2,000+ in repairs and you’re already considering moving, selling to a local buyer who offers cash might make more sense than doing the work.
+For instance, if you live in Rosemount, the average homebuyer will likely request an HVAC inspection—and failing that could delay your close.
+But a local buyer offering a no-obligation quote might buy your house as-is with zero repairs. 🏠 Thinking of skipping repairs altogether?
+You can still get a fair price—especially if you work with local home buyers in Jordan MN. 🔍 Homeowner Tip: Schedule a Mid-Year Tune-Up Whether or not you’re planning to sell this summer, get your system inspected before July 1st.
+Many HVAC companies in Scott and Dakota Counties offer mid-season tune-up specials.
+You’ll typically get: •Filter replacement •Refrigerant level check •Thermostat calibration •Coil cleaning •Drain line flush 💸 Cost: $90–$150 📆 Best Time: Now through July 4th 🏡 Final Thoughts: Your HVAC Health = Your Home’s Value Summer in Minnesota is short, but a broken AC can drag it out.
+If you're in Savage, Rosemount, or Jordan and you're thinking about selling—or just trying to avoid surprise repair bills—start with your HVAC. 📍 Service Area This guide applies to homes across: •Carver County •Scott County •Dakota County •Anoka County •Washington County •Ramsey County • Sherburne County • Le Sueur County 👤 About the Author Marisa Simonetti is a Minnesota-based housing advocate, real estate investor, and 2026 candidate for U.S.
+Senate in Minnesota .
+She writes about affordable housing, home repairs, and sustainable homeownership in counties like Dakota, Scott, Ramsey, and beyond.

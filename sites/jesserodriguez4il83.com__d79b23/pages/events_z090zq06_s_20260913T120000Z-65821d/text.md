@@ -1,8 +1,1 @@
-Boulder Hill Community Picnic
-Time
-Sunday, Sep 13, 2026
-12:00 PM – 2:00 PM
-About this event
-Map
-21 Winrock Road
-Montgomery, IL 60538
+Meet Jesse Issues News Volunteer Contribute Events / Boulder Hill Community Picnic Boulder Hill Community Picnic Time Sunday, Sep 13, 2026 12:00 PM – 2:00 PM Location 21 Winrock Road, Montgomery, IL, 60538 Map About this event Map 21 Winrock Road Montgomery, IL 60538 Directions → Add to calendar Voter Information Yard Signs Events Photos Contact Privacy Policy Citizens for Jesse Rodriguez Illinois 83rd Powered by CampaignPartner.com - Political Websites Home Meet Jesse Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

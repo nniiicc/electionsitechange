@@ -1,32 +1,126 @@
 [
-"https://bridgewater.com/",
-"https://dceo.illinois.gov/businesshelp/rev.html",
-"https://dceo.illinois.gov/expandrelocate/incentives/micro-agreements.html",
-"https://fool.com/ext-content/one-ai-insider-just-admitted-he-believes-the-hype?advertisingadgroupid=187573939668&advertisingcampaignid=21277482911&aid=11189&gad_campaignid=21277482911&gad_source=1&gbraid=0AAAAAC_nUm-tqXDkW_0rZHPtijXyDG1Xo&paid=11189&psource=esagglwdg0501282&psource=esagglwdg0501282&waid=11189&wsource=esagglwdg0501282&wsource=esagglwdg0501282&testId=a-sa-against-ai-bubble&cellId=0&campaign=sa-against-ai-bubble&source_system_name=fool_splitter",
-"https://forbes.com/sites/solrashidi/2024/08/22/illinois-gov-jb-pritzker-invested-430m-in-ai-research-since-2020",
-"https://get.investors.com/marketsurge",
-"https://goodjobsfirst.org/cloudy-with-a-loss-of-spending-control-how-data-centers-are-endangering-state-budgets",
-"https://hpcwire.com/2024/05/07/illinois-considers-50-billion-quantum-manhattan-project-says-report",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/tag/ai",
-"https://ilikereick.com/tag/artificial-intelligence",
-"https://ilikereick.com/tag/subsidies",
-"https://ilikereick.com/videos",
-"https://imdb.com/title/tt1596363",
-"https://investors.com/etfs-and-funds/sectors/bursting-ai-stock-bubble-worsens-destroys-1-8-trillion-in-value",
-"https://research.investors.com/quote.aspx?symbol=AIQ",
-"https://research.investors.com/quote.aspx?symbol=META",
-"https://research.investors.com/quote.aspx?symbol=NVDA",
-"https://thequantuminsider.com/2024/07/25/psiquantum-announces-it-will-anchor-governor-j-b-pritzkers-illinois-quantum-and-microelectronics-park-in-chicago",
-"https://turnkeydigital.com/",
-"https://wsj.com/finance/investing/who-will-pay-for-the-ai-revolution-retirees-67b9f1a2?mod=djem10point",
-"https://wsj.com/tech/ai/big-tech-is-spending-more-than-ever-on-ai-and-its-still-not-enough-f2398cfe?mod=article_inline"
+{
+"text": "AI",
+"href": "https://ilikereick.com/tag/ai/"
+},
+{
+"text": "AIQ",
+"href": "https://research.investors.com/quote.aspx?symbol=AIQ"
+},
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Artificial Intelligence",
+"href": "https://ilikereick.com/tag/artificial-intelligence/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/in-the-land-of-unlearned-lessons-will-an-ai-bubble-burst/#respond"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Data Centers:",
+"href": "https://goodjobsfirst.org/cloudy-with-a-loss-of-spending-control-how-data-centers-are-endangering-state-budgets/"
+},
+{
+"text": "Investor’s Business Daily",
+"href": "https://www.investors.com/etfs-and-funds/sectors/bursting-ai-stock-bubble-worsens-destroys-1-8-trillion-in-value/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "META",
+"href": "https://research.investors.com/quote.aspx?symbol=META"
+},
+{
+"text": "Making Illinois Chips for Real Opportunity (MICRO) Act,",
+"href": "https://dceo.illinois.gov/expandrelocate/incentives/micro-agreements.html"
+},
+{
+"text": "MarketSurge",
+"href": "https://get.investors.com/marketsurge/"
+},
+{
+"text": "NVDA",
+"href": "https://research.investors.com/quote.aspx?symbol=NVDA"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Quantum Computing:",
+"href": "https://www.hpcwire.com/2024/05/07/illinois-considers-50-billion-quantum-manhattan-project-says-report/"
+},
+{
+"text": "Reimagining Energy and Vehicles (REV) Program:",
+"href": "https://dceo.illinois.gov/businesshelp/rev.html"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "Subsidies",
+"href": "https://ilikereick.com/tag/subsidies/"
+},
+{
+"text": "The Motley Fool",
+"href": "https://www.fool.com/ext-content/one-ai-insider-just-admitted-he-believes-the-hype/?advertisingadgroupid=187573939668&advertisingcampaignid=21277482911&aid=11189&gad_campaignid=21277482911&gad_source=1&gbraid=0AAAAAC_nUm-tqXDkW_0rZHPtijXyDG1Xo&paid=11189&psource=esagglwdg0501282&psource=esagglwdg0501282&waid=11189&wsource=esagglwdg0501282&wsource=esagglwdg0501282&testId=a-sa-against-ai-bubble&cellId=0&campaign=sa-against-ai-bubble&source_system_name=fool_splitter"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "Wall Street Journal",
+"href": "https://www.wsj.com/finance/investing/who-will-pay-for-the-ai-revolution-retirees-67b9f1a2?mod=djem10point#comments_sector"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+},
+{
+"text": "enormous investment need",
+"href": "https://www.wsj.com/tech/ai/big-tech-is-spending-more-than-ever-on-ai-and-its-still-not-enough-f2398cfe?mod=article_inline"
+},
+{
+"text": "largest hedge funds",
+"href": "https://www.bridgewater.com/"
+},
+{
+"text": "public costs",
+"href": "https://www.forbes.com/sites/solrashidi/2024/08/22/illinois-gov-jb-pritzker-invested-430m-in-ai-research-since-2020/"
+},
+{
+"text": "single company",
+"href": "https://thequantuminsider.com/2024/07/25/psiquantum-announces-it-will-anchor-governor-j-b-pritzkers-illinois-quantum-and-microelectronics-park-in-chicago/"
+},
+{
+"text": "“The Big Short”",
+"href": "https://www.imdb.com/title/tt1596363/"
+}
 ]

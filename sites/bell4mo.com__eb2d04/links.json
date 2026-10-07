@@ -1,21 +1,118 @@
 [
-"https://bell4mo.com/",
-"https://bell4mo.com/about",
-"https://bell4mo.com/endorsements",
-"https://bell4mo.com/issues",
-"https://bell4mo.com/privacy",
-"https://bell4mo.com/race-update",
-"https://bell4mo.com/terms",
-"https://bell4mo.com/volunteer",
-"https://bell4mo.com/vote",
-"https://facebook.com/bell4mo",
-"https://instagram.com/bell4mo",
-"https://mobilize.us/bell4mo",
-"https://secure.actblue.com/donate/bell-for-missouri-2",
-"https://secure.actblue.com/donate/bell-for-missouri-2?amount=100",
-"https://secure.actblue.com/donate/bell-for-missouri-2?amount=20.26",
-"https://secure.actblue.com/donate/bell-for-missouri-2?amount=250",
-"https://secure.actblue.com/donate/bell-for-missouri-2?amount=5",
-"https://secure.actblue.com/donate/bell-for-missouri-2?amount=50",
-"https://twitter.com/bell4mo"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2?amount=100"
+},
+{
+"text": "$20.26",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2?amount=20.26"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2?amount=50"
+},
+{
+"text": "Chip In TodayDonate",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2"
+},
+{
+"text": "Learn more",
+"href": "https://www.bell4mo.com/about"
+},
+{
+"text": "On the Issues Affordability & Cost of Living",
+"href": "https://www.bell4mo.com/issues/#affordability-cost-of-living"
+},
+{
+"text": "On the Issues Delivering for St. Louis",
+"href": "https://www.bell4mo.com/issues/#delivering-for-st-louis"
+},
+{
+"text": "On the Issues Standing Up to Trump",
+"href": "https://www.bell4mo.com/issues/#standing-up-to-trump"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2?amount="
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bell4mo.com/privacy"
+},
+{
+"text": "Read More All Issues",
+"href": "https://www.bell4mo.com/issues"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.bell4mo.com/terms"
+},
+{
+"text": "[image: Wesley Bell for Congress logo]",
+"href": "https://www.bell4mo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bell4mo"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bell4mo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bell4mo/"
+},
+{
+"text": "about",
+"href": "https://www.bell4mo.com/about"
+},
+{
+"text": "endorsements",
+"href": "https://www.bell4mo.com/endorsements"
+},
+{
+"text": "events",
+"href": "https://www.mobilize.us/bell4mo/"
+},
+{
+"text": "home",
+"href": "https://www.bell4mo.com/"
+},
+{
+"text": "info@bell4mo.com",
+"href": "mailto:info@bell4mo.com"
+},
+{
+"text": "issues",
+"href": "https://www.bell4mo.com/issues"
+},
+{
+"text": "race update",
+"href": "https://www.bell4mo.com/race-update"
+},
+{
+"text": "terms",
+"href": "https://www.bell4mo.com/terms"
+},
+{
+"text": "volunteer",
+"href": "https://www.bell4mo.com/volunteer"
+},
+{
+"text": "vote",
+"href": "https://www.bell4mo.com/vote"
+}
 ]

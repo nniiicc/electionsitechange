@@ -1,10 +1,4 @@
-Back to All Events
-NOTE: This event starts at 1PM Central/2PM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events TEAM AMG/VOLUNTEERS: Northwest Florida Championship Parade Saturday, October 3, 2026 1:00 PM 4:00 PM Bonifay, Florida, 32425 United States (map) Google Calendar ICS NOTE: This event starts at 1PM Central/2PM Eastern.
 Team AMG will be participating in the Northwest Florida Championship Rodeo Parade brings thousands of spectators, young and old, to downtown Bonifay on Friday and Saturday afternoon to view many floats, dignitaries, bands, ATV’s, go carts, motorcycles, wagon trains and hundreds of horses!
-Previous
-Previous
-October 3
-FSU vs UVA Tailgate Hosted by FSU Dems
-Next
-Next
-October 4
+Previous Previous October 3 FSU vs UVA Tailgate Hosted by FSU Dems Next Next October 4 TEAM AMG/VOLUNTEERS: Postcard Writing TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

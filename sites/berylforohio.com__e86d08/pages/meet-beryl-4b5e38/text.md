@@ -1,4 +1,4 @@
-I am so honored to be serving Ohio House District 4 as your State Representative!
+Skip to main content Beryl Brown Piccolantonio A Trusted Leader for State Representative Meet Beryl Endorsements Volunteer Request a Yard Sign Donate Meet Beryl I am so honored to be serving Ohio House District 4 as your State Representative!
 I’m running to keep this seat because all Ohioans deserve to have their individual rights and wishes respected and honored, and you deserve elected leaders who are accountable and transparent.
 No games.
 No gimmicks.
@@ -27,3 +27,5 @@ I will always fight for fairness and the opportunity for all to achieve our shar
 I have an unwavering dedication to conducting myself with integrity and remaining committed to doing the right thing, not the easy thing.
 We expect our children to be respectful, responsible, and honest, and that is the least we should expect from our elected leaders.
 I am asking for your vote on November 5 so I can continue serving you and all the residents of Ohio House District 4.
+Help us keep Beryl in the Statehouse!
+Contribute Volunteer Contact Us Request a Yard Sign Paid for by Friends for Beryl Brown Piccolantonio

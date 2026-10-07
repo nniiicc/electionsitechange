@@ -1,8 +1,46 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/product-category/lets-deploy-malloy",
-"https://deploymalloy.com/product/malloy-black-glossy-mug",
-"https://deploymalloy.com/product/womens-micro-rib-raglan-baby-tee-3",
-"https://facebook.com/geraldmalloyvt"
+{
+"text": "Home",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "Let's Deploy Malloy",
+"href": "https://www.deploymalloy.com/product-category/lets-deploy-malloy/"
+},
+{
+"text": "MALLOY Black Glossy Mug",
+"href": "https://www.deploymalloy.com/product/malloy-black-glossy-mug/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/malloy-black-glossy-mug/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/womens-micro-rib-raglan-baby-tee-3/"
+},
+{
+"text": "Women’s micro rib raglan baby tee",
+"href": "https://www.deploymalloy.com/product/womens-micro-rib-raglan-baby-tee-3/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/malloy-black-glossy-mug/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/womens-micro-rib-raglan-baby-tee-3/"
+}
 ]

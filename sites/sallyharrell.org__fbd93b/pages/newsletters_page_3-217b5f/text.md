@@ -1,41 +1,27 @@
-The Latest News from Sally:
-Sally’s Senate Snapshot 2026 #1 First of Session Jitters I get the jitters before the start of every new legislative session.
+Facebook Twitter Mail About Sally 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements Priorities Healthcare Education Transportation Environment Criminal Justice & Police Reform Other Issues Voter Info Events Newsletters Contact DONATE Menu Menu The Latest News from Sally: Sally’s Senate Snapshot 2026 #1 News Sally’s Senate Snapshot 2026 #1 First of Session Jitters I get the jitters before the start of every new legislative session.
 When I reflect on the years I’ve been in the Senate, there’s reason to be anxious!
 My first year, the abortion ban was slammed through.
-The next year we shut down early due […]
-Capitol Chaos: Peak Mayhem Mode It’s that time — the wild, whiplash-inducing final days of session.
+The next year we shut down early due […] January 19, 2026 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png 0 0 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2026-01-19 18:53:40 2026-01-25 18:53:59 Sally’s Senate Snapshot 2026 #1 Sally’s Senate Snapshot 2025 #11 News Capitol Chaos: Peak Mayhem Mode It’s that time — the wild, whiplash-inducing final days of session.
 Bills are getting gutted, stuffed, and pushed through faster than you can say “committee substitute.” Thank goodness for our hardworking Senate Democratic Caucus staff, including our team of externs, that help us keep track of it all.
-Staying Focused […]
-Bugs in the System The germs circulating at the Capitol finally found me.
+Staying Focused […] March 30, 2025 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2025/03/sallyandcummingdogowner.jpeg 512 384 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2025-03-30 17:06:03 2025-03-30 17:06:03 Sally’s Senate Snapshot 2025 #11 Sally’s Senate Snapshot 2025 #10 News Bugs in the System The germs circulating at the Capitol finally found me.
 I stayed home sick the early part of the week, but got busy as a bee later in the week keeping my legislative agenda moving.
-Bitten by the Trump Bug I was glad to be cocooned at home Tuesday when the Senate […]
-Rising Up at the Capitol Rising Tensions Over Tort Reform Governor Kemp’s blood pressure must have been rising this week as the heat turned up on SB 68, his signature tort reform bill.
-The week kicked off with a bombshell article landing on our desks in the House and Senate chambers, revealing that Florida’s Republican […]
-Opposing Forces Those of us working at the State Capitol this week felt wedged between a clash of forces.
+Bitten by the Trump Bug I was glad to be cocooned at home Tuesday when the Senate […] March 23, 2025 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2025/03/SallyAndSamWatson-scaled.jpg 1707 2560 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2025-03-23 18:22:16 2026-02-15 15:45:49 Sally’s Senate Snapshot 2025 #10 Sally’s Senate Snapshot 2025 #9 News Rising Up at the Capitol Rising Tensions Over Tort Reform Governor Kemp’s blood pressure must have been rising this week as the heat turned up on SB 68, his signature tort reform bill.
+The week kicked off with a bombshell article landing on our desks in the House and Senate chambers, revealing that Florida’s Republican […] March 15, 2025 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2025/03/YellowRoseSarahMom.jpg 2048 1253 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2025-03-15 18:48:44 2025-03-15 18:48:44 Sally’s Senate Snapshot 2025 #9 Sally’s Senate Snapshot 2025 #8 News Opposing Forces Those of us working at the State Capitol this week felt wedged between a clash of forces.
 Inside the Senate chamber, 33 Republicans forced through their Trump-aligned agenda while the 23 members of the Democratic Caucus pulled out every tool we had to fight back.
-Outside the chamber, crowds of people poured into […]
-Congestion around the Capitol In January of 2000, I was serving my first term as a Georgia State Representative.
+Outside the chamber, crowds of people poured into […] March 9, 2025 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2025/03/ProtestGroupsCapitol-scaled.jpg 1920 2560 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2025-03-09 14:44:42 2025-03-09 14:44:42 Sally’s Senate Snapshot 2025 #8 Sally’s Senate Snapshot 2025 #7 News Congestion around the Capitol In January of 2000, I was serving my first term as a Georgia State Representative.
 I had also just become a new mother.
 Prior to the start of session, I received a phone call from Speaker of the House Tom Murphy.
-“What are you planning to do with that baby during […]
-Stay in Touch
-Sign up to receive Sally’s newsletter in your inbox!
+“What are you planning to do with that baby during […] March 2, 2025 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2025/03/youngDems.jpeg 384 512 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2025-03-02 16:27:12 2025-03-02 16:27:20 Sally’s Senate Snapshot 2025 #7 Page 3 of 31 ‹ 1 2 3 4 5 › » Stay in Touch Sign up to receive Sally’s newsletter in your inbox!
 “I appreciate your emails more than I anticipated.
-They are informative while being upbeat.”
-“I appreciate your updates and have read all of them.
-Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.”
-“Your emails are so informative I suspect you have reawakened an interest in government by your constituents.”
-“Senator, thoroughly enjoy your missives — informative, insightful and timely.”
-“Again, I have to say that you write extraordinarily wonderful newsletters.
+They are informative while being upbeat.” Carol WOODSTOCK, GA “I appreciate your updates and have read all of them.
+Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.” Nancy DUNWOODY, GA “Your emails are so informative I suspect you have reawakened an interest in government by your constituents.” Rich DUNWOODY, GA “Senator, thoroughly enjoy your missives — informative, insightful and timely.” Gee Gee ATLANTA “Again, I have to say that you write extraordinarily wonderful newsletters.
 I have to read them from beginning to end so I don’t miss a sentence where you nail the truth so well.
-You have a great sense of humor which is so important in today’s world.”
-“I enjoy your newsletters so much.
-They always have all the information I really need to have.”
-“Sally, your communication is spectacular!”
-“I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
-They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.”
-Support Sally’s Campaign
-Your contribution will help us reach more voters.
-Sally’s campaign is fueled by volunteer enthusiasm and energy.
+You have a great sense of humor which is so important in today’s world.” Sara DEKALB COUNTY “I enjoy your newsletters so much.
+They always have all the information I really need to have.” Lisa STONE MOUNTAIN “Sally, your communication is spectacular!” Mary AVONDALE ESTATES “I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
+They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.” Karen BUFORD Support Sally’s Campaign Your contribution will help us reach more voters.
+DONATE Sally’s campaign is fueled by volunteer enthusiasm and energy.
 Join us!
-Show your support for Sally, request a yard sign!
+VOLUNTEER Show your support for Sally, request a yard sign!
+YARD SIGN © # Paid for by The Committee to Elect Sally Harrell.
+Designed by Benton Creative .
+Facebook Twitter Mail Scroll to top

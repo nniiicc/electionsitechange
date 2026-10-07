@@ -1,12 +1,74 @@
 [
-"https://barnesformo.com/",
-"https://barnesformo.com/about",
-"https://barnesformo.com/media-gallery",
-"https://facebook.com/SherekaBarnesforMO",
-"https://instagram.com/barnesformo",
-"https://plattecountymovotes.gov/",
-"https://secure.actblue.com/donate/shereka-barnes-1",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://vote.org/absentee-ballot",
-"https://voteroutreach.sos.mo.gov/portal"
+{
+"text": "About",
+"href": "https://www.barnesformo.com/about"
+},
+{
+"text": "Board of Elections",
+"href": "https://www.plattecountymovotes.gov"
+},
+{
+"text": "Check your voter registration",
+"href": "https://voteroutreach.sos.mo.gov/portal"
+},
+{
+"text": "Contact us",
+"href": "https://www.barnesformo.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shereka-barnes-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.barnesformo.com/#Endorsements"
+},
+{
+"text": "Find your polling location",
+"href": "https://voteroutreach.sos.mo.gov/portal"
+},
+{
+"text": "Get tickets today",
+"href": "https://secure.actblue.com/donate/aconcertforunity"
+},
+{
+"text": "Home",
+"href": "https://www.barnesformo.com/"
+},
+{
+"text": "Media",
+"href": "https://www.barnesformo.com/media-gallery"
+},
+{
+"text": "Platte County Board of Elections",
+"href": "https://www.plattecountymovotes.gov"
+},
+{
+"text": "Priorities",
+"href": "https://www.barnesformo.com/#Priorities"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Request absentee ballot",
+"href": "https://www.vote.org/absentee-ballot/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.barnesformo.com/#VotingInfo"
+},
+{
+"text": "[image]",
+"href": "https://www.barnesformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SherekaBarnesforMO/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/barnesformo/"
+}
 ]

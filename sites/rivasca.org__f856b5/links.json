@@ -1,22 +1,130 @@
 [
-"https://bsky.app/profile/caspeakerrivas.bsky.social",
-"https://facebook.com/assemblymemberrivas",
-"https://flickr.com/photos/155539210@N04",
-"https://instagram.com/robertrivas_ca",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rivasca.org/",
-"https://rivasca.org/accessibility",
-"https://rivasca.org/affordable-future",
-"https://rivasca.org/contact",
-"https://rivasca.org/disclaimer",
-"https://rivasca.org/donate",
-"https://rivasca.org/endorsements",
-"https://rivasca.org/getting-results",
-"https://rivasca.org/getting-results/ ",
-"https://rivasca.org/join-the-campaign",
-"https://rivasca.org/meet-robert",
-"https://rivasca.org/privacy-policy",
-"https://rivasca.org/shop",
-"https://youtube.com/@RobertRivasCA"
+{
+"text": "Accessibility",
+"href": "https://rivasca.org/accessibility/"
+},
+{
+"text": "Affordable Future",
+"href": "https://rivasca.org/affordable-future/"
+},
+{
+"text": "Contact",
+"href": "https://rivasca.org/contact/"
+},
+{
+"text": "Disclaimer",
+"href": "https://rivasca.org/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://rivasca.org/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://rivasca.org/endorsements/"
+},
+{
+"text": "Getting Results",
+"href": "https://rivasca.org/getting-results/"
+},
+{
+"text": "Home",
+"href": "https://rivasca.org/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://rivasca.org/join-the-campaign/"
+},
+{
+"text": "Learn More",
+"href": "https://rivasca.org/getting-results/"
+},
+{
+"text": "Learn More",
+"href": "https://rivasca.org/meet-robert/"
+},
+{
+"text": "Meet Robert",
+"href": "https://rivasca.org/meet-robert/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rivasca.org/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://rivasca.org/affordable-future/"
+},
+{
+"text": "Robert Rivas",
+"href": "https://rivasca.org"
+},
+{
+"text": "Shop",
+"href": "https://rivasca.org/shop/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "View all Endorsements",
+"href": "https://rivasca.org/endorsements/"
+},
+{
+"text": "View all Issues",
+"href": "https://rivasca.org/getting-results/"
+},
+{
+"text": "[image] [image] Affordability",
+"href": "https://rivasca.org/getting-results/%20#affordability"
+},
+{
+"text": "[image] [image] Climate/Natural Disasters",
+"href": "https://rivasca.org/getting-results/%20#climate-and-natural-disasters"
+},
+{
+"text": "[image] [image] Housing",
+"href": "https://rivasca.org/getting-results/%20#housing"
+},
+{
+"text": "[image] [image] Making Government Work",
+"href": "https://rivasca.org/getting-results/%20#making-government-work"
+},
+{
+"text": "[image] [image] Safe Streets",
+"href": "https://rivasca.org/getting-results/%20#safe-streets"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/caspeakerrivas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/155539210@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/assemblymemberrivas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/robertrivas_ca/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RobertRivasCA"
+},
+{
+"text": "donate to the campaign",
+"href": "https://rivasca.org/donate/"
+},
+{
+"text": "here",
+"href": "https://rivasca.org/privacy-policy/"
+}
 ]

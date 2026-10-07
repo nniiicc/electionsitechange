@@ -1,6 +1,8 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.andrewsmainesenate.com/yard-sign",
+ "fingerprint": "46cd12ee2108f8e30d11073de14c54943f6f3682",
+ "format": 3,
  "paid_for_by": "Paid for by the candidate, not at taxpayer expense",
  "title": "Request a Yard Sign",
  "years_mentioned": []

@@ -1,10 +1,38 @@
 [
-"https://haggerty-for-utah.mailerpage.io/contact",
-"https://haggertyforutah.com/",
-"https://haggertyforutah.com/about",
-"https://haggertyforutah.com/get-involved",
-"https://haggertyforutah.com/notebook",
-"https://haggertyforutah.com/policy",
-"https://mailerlite.com/",
-"https://secure.actblue.com/donate/barbara-haggerty"
+{
+"text": "About",
+"href": "https://www.haggertyforutah.com/about"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/barbara-haggerty"
+},
+{
+"text": "Get Involved",
+"href": "https://haggerty-for-utah.mailerpage.io/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.haggertyforutah.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.haggertyforutah.com/"
+},
+{
+"text": "Notebook",
+"href": "https://www.haggertyforutah.com/notebook"
+},
+{
+"text": "Policy",
+"href": "https://www.haggertyforutah.com/policy"
+},
+{
+"text": "[image: Created with MailerLite]",
+"href": "https://www.mailerlite.com"
+},
+{
+"text": "[image]",
+"href": "https://www.haggertyforutah.com/"
+}
 ]

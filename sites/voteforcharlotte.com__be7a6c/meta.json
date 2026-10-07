@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.voteforcharlotte.com/",
- "paid_for_by": null,
+ "fingerprint": "a188d25b9ecbb0394d2bc131f1375284f86c510e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote for Charlotte",
  "years_mentioned": []
 }

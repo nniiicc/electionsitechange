@@ -1,7 +1,9 @@
 {
  "description": "Official Website for Ron Dunn New Hampshire State Representative. Ron Dunn is representing Londonderry, NH District 16 Rockingham County.",
  "final_url": "https://www.voterondunn.com/",
- "paid_for_by": null,
+ "fingerprint": "08cd8b6bb3b32f5c95201adba772224b1815b715",
+ "format": 3,
+ "paid_for_by": "",
  "title": "New Hampshire State Representative",
  "years_mentioned": [
   "2013",

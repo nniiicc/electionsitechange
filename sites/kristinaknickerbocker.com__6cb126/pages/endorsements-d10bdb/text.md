@@ -1,34 +1,4 @@
-Former Mayor of Dayton
-OH State Rep
-Ohio State Senator
-Dayton School Board
-Dayton City Commission
-Yellow Springs City Council
-West Carrollton City Schools Board
-Montgomery County Auditor
-State Senator
-AFSCME Ohio Council 8
-BAC PAC
-Buckeye Veterans Coalition
-Committee to Protect Health Care
-Elect Democratic Women
-EMILYs List
-End Citizens United
-Feminist Majority PAC
-IUE-CWA
-Leaders We Deserve
-League of Conservation Voters
-Moms Demand Action Gun Sense Candidate
-Moms Fed Up
-New Democrat Coalition Action Fund
-Nurses for America
-Ohio AFL-CIO
-Ohio Federation of Teachers
-Ohio Young Dems
-Planned Parenthood Action Fund
-Reproductive Freedom For All
-Sierra Club
-Sustainable Energy and Environment Coalition PAC
-Springfield/Dayton Area UAW CAP Council
-UFCW Local 75
-VoteVets
+Meet Kristina Why I’m Running Media Endorsements Donate Meet Kristina Why I’m Running Media Endorsements Donate Endorsements Endorsed by Senator Mark Kelly Congressman Pat Ryan Nan Whaley Former Mayor of Dayton Desiree Tims OH State Rep Crystal Lett OH State Rep Munira Abdullahi OH State Rep Willis Blackshear Jr Ohio State Senator Rachel Baker OH State Rep Jocelyn Rhynard Dayton School Board Matt Joseph Dayton City Commission Angie Hsu Yellow Springs City Council Senay Semere Yellow Springs City Council Karen Brownlee OH State Rep Dormetria Robinson Thompson West Carrollton City Schools Board Karl Keith Montgomery County Auditor Casey Weinstein State Senator AFSCME Ohio Council 8 BAC PAC Buckeye Veterans Coalition Committee to Protect Health Care Elect Democratic Women EMILYs List End Citizens United Feminist Majority PAC IUE-CWA Leaders We Deserve League of Conservation Voters Moms Demand Action Gun Sense Candidate Moms Fed Up New Democrat Coalition Action Fund Nurses for America Ohio AFL-CIO Ohio Federation of Teachers Ohio Young Dems Planned Parenthood Action Fund Reproductive Freedom For All Sierra Club Sustainable Energy and Environment Coalition PAC Springfield/Dayton Area UAW CAP Council UFCW Local 75 VoteVets Donate Meet Kristina Why I’m Running Media Endorsements Kristina Knickerbocker is a U.S.
+Air Force veteran.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement from the Department of Defense or the Department of the Air Force.
+Paid for By Knickerbocker for Congress Terms & Conditions Privacy Policy © 2026 To contact the campaign: info@kristinaknickerbocker.com Donate by Mail: Knickerbocker for Congress PO Box 292068 Dayton, Ohio 45429

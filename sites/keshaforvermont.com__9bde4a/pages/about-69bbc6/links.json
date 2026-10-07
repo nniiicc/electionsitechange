@@ -1,20 +1,82 @@
 [
-"https://authentic.org/",
-"https://docs.google.com/forms/d/e/1FAIpQLSf8OOSIjrgUCgAiYdWVGKabFMrf8cdsWQeBkWX9fBu4baCUlA/viewform?pli=1",
-"https://facebook.com/kesharamvt",
-"https://instagram.com/kesharamvt",
-"https://keshaforvermont.com/",
-"https://keshaforvermont.com/about",
-"https://keshaforvermont.com/endorsements",
-"https://keshaforvermont.com/issues",
-"https://keshaforvermont.com/news",
-"https://keshaforvermont.com/privacy-policy",
-"https://linkedin.com/in/kesharam",
-"https://secure.actblue.com/donate/keshaforsenate",
-"https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=8.02",
-"https://twitter.com/kesharam"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=50"
+},
+{
+"text": "$#.#",
+"href": "https://secure.actblue.com/donate/keshaforsenate?express_lane=true&amount=8.02"
+},
+{
+"text": "Authentic",
+"href": "https://authentic.org/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@keshaforvermont.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/keshaforsenate"
+},
+{
+"text": "Endorsements",
+"href": "https://keshaforvermont.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://keshaforvermont.com/issues/"
+},
+{
+"text": "Kesha Ram",
+"href": "https://keshaforvermont.com"
+},
+{
+"text": "Meet Kesha",
+"href": "https://keshaforvermont.com/about/"
+},
+{
+"text": "News",
+"href": "https://keshaforvermont.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/keshaforsenate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://keshaforvermont.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf8OOSIjrgUCgAiYdWVGKabFMrf8cdsWQeBkWX9fBu4baCUlA/viewform?pli=1+"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/kesharamvt"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kesharamvt"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/kesharam"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kesharam/"
+}
 ]

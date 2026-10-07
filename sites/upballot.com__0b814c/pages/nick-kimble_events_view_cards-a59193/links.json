@@ -1,17 +1,90 @@
 [
-"https://facebook.com/profile.php?id=100095399677677",
-"https://instagram.com/kimblestl_82",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/kimble-for-missouri-1",
-"https://twitter.com/Nick_KimbleSTL",
-"https://upballot.com/",
-"https://upballot.com/nick-kimble",
-"https://upballot.com/nick-kimble/about",
-"https://upballot.com/nick-kimble/events",
-"https://upballot.com/nick-kimble/events?view=cards",
-"https://upballot.com/nick-kimble/get-involved",
-"https://upballot.com/nick-kimble/issues",
-"https://upballot.com/nick-kimble/news",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Nick",
+"href": "https://www.upballot.com/nick-kimble/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/kimble-for-missouri-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/nick-kimble/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/nick-kimble/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/nick-kimble"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/nick-kimble/issues/"
+},
+{
+"text": "KimbleForMO@gmail.com",
+"href": "mailto:KimbleForMO@gmail.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/nick-kimble/news/"
+},
+{
+"text": "[image: Nick Kimble Logo]",
+"href": "https://www.upballot.com/nick-kimble/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Nick_KimbleSTL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100095399677677"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kimblestl_82/"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=100095399677677"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/kimblestl_82/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/Nick_KimbleSTL"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/nick-kimble/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/nick-kimble/events?view=cards"
+},
+{
+"text": "tel:314-546-2936",
+"href": "tel:314-546-2936"
+}
 ]

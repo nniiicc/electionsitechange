@@ -1,42 +1,15 @@
-Michael Bahry for U.S.
-Senate
-Last updated: July 2026
-Michael Bahry for U.S.
+Michael Bahry Back to Homepage Privacy Policy Michael Bahry for U.S.
+Senate Last updated: July 2026 Michael Bahry for U.S.
 Senate ("we," "our," or "us") respects your privacy.
 This Privacy Policy explains how we collect, use, and protect your information when you visit our website, submit information through our volunteer and contact form, or make a campaign contribution.
-When you use our website or submit the "Get Involved" form, we may collect the following information:
-- Full name
-- Email address
-- Phone number
-- City or town in Rhode Island
-- Areas of interest (e.g., phone banking, canvassing, events, digital, yard signs)
-- Any additional message or questions you choose to provide
-When you contribute online, our payment processor (Anedot) may collect information required by federal campaign finance law, which can include your name, contact details, mailing address, occupation, employer, contribution amount, and payment details.
+Information We Collect When you use our website or submit the "Get Involved" form, we may collect the following information: Full name Email address Phone number City or town in Rhode Island Areas of interest (e.g., phone banking, canvassing, events, digital, yard signs) Any additional message or questions you choose to provide When you contribute online, our payment processor (Anedot) may collect information required by federal campaign finance law, which can include your name, contact details, mailing address, occupation, employer, contribution amount, and payment details.
 That information may also be shared with our campaign compliance and donor management system (ISPolitical).
-We use the information you provide to:
-- Respond to your inquiries and requests
-- Coordinate volunteer activities and campaign outreach
-- Keep you informed about campaign news, events, and opportunities to get involved
-- Process contributions and comply with federal campaign finance reporting requirements
-- Improve our website and communications
-We do not sell or rent your personal information.
-We may share your information with:
-- Campaign staff and volunteers who need the information to organize events or respond to you
-- Service providers who help us operate the website and campaign systems, including Formspree (volunteer form processing), Anedot (secure contribution processing), and ISPolitical (campaign compliance and donor management)
-- Government agencies when required by law (including Federal Election Commission reporting)
-We will only share your information with third parties when necessary to fulfill the purposes described above or when required by law.
+How We Use Your Information We use the information you provide to: Respond to your inquiries and requests Coordinate volunteer activities and campaign outreach Keep you informed about campaign news, events, and opportunities to get involved Process contributions and comply with federal campaign finance reporting requirements Improve our website and communications Sharing of Information We do not sell or rent your personal information.
+We may share your information with: Campaign staff and volunteers who need the information to organize events or respond to you Service providers who help us operate the website and campaign systems, including Formspree (volunteer form processing), Anedot (secure contribution processing), and ISPolitical (campaign compliance and donor management) Government agencies when required by law (including Federal Election Commission reporting) We will only share your information with third parties when necessary to fulfill the purposes described above or when required by law.
 Contribution payments are completed on Anedot’s secure platform; see Anedot’s Privacy Policy for how they handle payment data.
-We take reasonable measures to protect your personal information from unauthorized access, alteration, or disclosure.
+Data Security We take reasonable measures to protect your personal information from unauthorized access, alteration, or disclosure.
 However, no method of transmission over the internet or electronic storage is 100% secure.
-You have the right to:
-- Request access to the personal information we hold about you
-- Request that we correct or delete your information
-- Opt out of future communications from us
-To exercise these rights, please contact us using the information below.
-Our website may use basic cookies or similar technologies to improve functionality and analyze traffic.
-You can control cookies through your browser settings.
-We may update this Privacy Policy from time to time.
+Your Rights You have the right to: Request access to the personal information we hold about you Request that we correct or delete your information Opt out of future communications from us To exercise these rights, please contact us using the information below.
+Changes to This Policy We may update this Privacy Policy from time to time.
 The date at the top of this page indicates when it was last revised.
-If you have any questions about this Privacy Policy or how we handle your information, please contact us at:
-Michael Bahry for Senate Committee
-[email protected]
+Contact Us If you have any questions about this Privacy Policy or how we handle your information, please contact us at: Michael Bahry for Senate Committee [email protected] Return to Homepage Paid for by Michael Bahry for Senate Committee © # All Rights Reserved

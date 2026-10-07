@@ -1,7 +1,4 @@
-Born 1970
-Jennifer Fidler
-Biography
-Jennifer Fidler was born on June 19, 1970, in Mobile, Alabama, and raised on her family’s farm in Baldwin County.
+251.239.0624‬ jennifer@fidlerforhouse.com  About Donate New and Media News and Media Press Releases Session Updates Town Hall Meetings Proposed Bill – HB453 District 94 Map Search for: Contact Us About Jennifer Fidler Donate Born 1970 Jennifer Fidler Biography Jennifer Fidler was born on June 19, 1970, in Mobile, Alabama, and raised on her family’s farm in Baldwin County.
 From an early age, she embraced hard work and responsibility—selling produce at the family farmstand before she turned 16, and delivering to Pensacola markets as a teenager.
 A 1988 graduate of Robertsdale High School, Jennifer continued her education at Faulkner State Junior College and earned a degree in Ornamental Horticulture from Auburn University in 1992.
 At just 22, Jennifer began her career in public service as the first arborist and horticulturist for the City of Eufaula, where she established and led the city’s first horticulture and arboriculture program.
@@ -17,3 +14,11 @@ After more than 25 years of distinguished service in local government, Jennifer 
 That same year, she launched Fidler Consulting, a design firm dedicated to supporting small towns and municipalities with landscape planning and expertise.
 In 2020, she began serving as an advisor with the national America in Bloom program, continuing her commitment to thriving, beautiful communities.
 Jennifer is married to Reagan Scroggins and is an active member of Grace Fellowship Church in Fairhope, Alabama.
+Friends of Jennifer Fidler 20103 Bohemian Hall Road Silverhill, AL 36576 Email: jennifer@fidlerforhouse.com Tel: 251.239.0624‬ Terms and Conditions Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from our team.
+SUBSCRIBE!
+You have Successfully Subscribed!
+Copyright © # Fidler For House.
+All rights reserved.
+Paid for by Friends of Jennifer Fidler.
+Site design by j thomas, inc.
+Manage consent

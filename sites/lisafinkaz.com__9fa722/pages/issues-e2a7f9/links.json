@@ -1,18 +1,66 @@
 [
-"https://azleg.gov/const/arizona_constitution.pdf",
-"https://constitutioncenter.org/media/files/constitution.pdf",
-"https://constitutioncenter.org/the-constitution/historic-document-library/detail/montesquieuthe-spirit-of-the-laws-1748",
-"https://constitutionus.com/wp-content/uploads/2021/12/federalist-papers.pdf",
-"https://facebook.com/lisafinkforaz",
-"https://fee.org/media/14951/thelaw.pdf",
-"https://gutenberg.org/files/7370/7370-h/7370-h.htm",
-"https://instagram.com/lisafinkaz",
-"https://lisafinkaz.com/",
-"https://lisafinkaz.com/about",
-"https://lisafinkaz.com/contact",
-"https://lisafinkaz.com/get-involved",
-"https://lisafinkaz.com/issues",
-"https://nccs.net/products/the-making-of-america",
-"https://x.com/LisaFink4AZ",
-"https://youtube.com/@LisaFink-AZLD27"
+{
+"text": "About",
+"href": "https://www.lisafinkaz.com/about"
+},
+{
+"text": "Arizona Constitution",
+"href": "https://www.azleg.gov/const/arizona_constitution.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.lisafinkaz.com/contact"
+},
+{
+"text": "Federalist Papers",
+"href": "https://constitutionus.com/wp-content/uploads/2021/12/federalist-papers.pdf"
+},
+{
+"text": "Frederic Bastiat-The Law",
+"href": "https://fee.org/media/14951/thelaw.pdf"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisafinkaz.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lisafinkaz.com"
+},
+{
+"text": "Issues",
+"href": "https://www.lisafinkaz.com/issues"
+},
+{
+"text": "John Locke- Second Treatise of Government",
+"href": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm"
+},
+{
+"text": "Montesquieu-Spirit of the Laws",
+"href": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/montesquieuthe-spirit-of-the-laws-1748"
+},
+{
+"text": "The Making of America",
+"href": "https://nccs.net/products/the-making-of-america"
+},
+{
+"text": "US Constitution",
+"href": "https://constitutioncenter.org/media/files/constitution.pdf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lisafinkforaz"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lisafinkaz/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/LisaFink4AZ"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@LisaFink-AZLD27"
+}
 ]

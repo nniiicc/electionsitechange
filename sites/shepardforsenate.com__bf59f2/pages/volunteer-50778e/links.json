@@ -1,12 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/michaelshepardforsenate",
-"https://secure.actblue.com/donate/ws-shepard",
-"https://shepardforsenate.com/",
-"https://shepardforsenate.com/about",
-"https://shepardforsenate.com/contact",
-"https://shepardforsenate.com/endorsements",
-"https://shepardforsenate.com/issues",
-"https://shepardforsenate.com/media-gallery",
-"https://shepardforsenate.com/shepard-for-senate-2026-code-of-conduct.pdf"
+{
+"text": "About",
+"href": "https://www.shepardforsenate.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.shepardforsenate.com/contact"
+},
+{
+"text": "Code of Conduct",
+"href": "https://www.shepardforsenate.com/shepard-for-senate-2026-code-of-conduct.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ws-shepard"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shepardforsenate.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.shepardforsenate.com/issues"
+},
+{
+"text": "Media Gallery",
+"href": "https://www.shepardforsenate.com/media-gallery"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Michael Shepard for State Senate logo]",
+"href": "https://www.shepardforsenate.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.shepardforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/michaelshepardforsenate/"
+},
+{
+"text": "michael@shepardforsenate.com",
+"href": "mailto:michael@shepardforsenate.com"
+}
 ]

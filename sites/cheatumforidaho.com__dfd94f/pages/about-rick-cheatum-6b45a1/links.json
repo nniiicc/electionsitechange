@@ -1,7 +1,22 @@
 [
-"https://cheatumforidaho.com/about-rick-cheatum",
-"https://cheatumforidaho.com/priorities",
-"https://facebook.com/Cheatumforidaho",
-"https://instagram.com/cheatumforidaho",
-"https://secure.anedot.com/cheatum-for-house/donate"
+{
+"text": "About Rick",
+"href": "https://www.cheatumforidaho.com/about-rick-cheatum"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cheatum-for-house/donate"
+},
+{
+"text": "Priorities",
+"href": "https://www.cheatumforidaho.com/priorities"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/Cheatumforidaho/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/cheatumforidaho/"
+}
 ]

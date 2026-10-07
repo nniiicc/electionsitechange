@@ -1,9 +1,82 @@
 [
-"http://facebook.com/votejohngeorge",
-"https://secure.anedot.com/friends-of-john-george-2026/donate",
-"https://votejohngeorge.com/",
-"https://votejohngeorge.com/contact",
-"https://votejohngeorge.com/media",
-"https://votejohngeorge.com/privacy-policy",
-"https://votejohngeorge.com/terms-and-conditions"
+{
+"text": "$ 10",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "$ 100",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "$ 25",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "$ 250",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "$ 50",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "CONTACT",
+"href": "https://votejohngeorge.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/votejohngeorge"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votejohngeorge.com/contact/"
+},
+{
+"text": "HOME",
+"href": "https://votejohngeorge.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://votejohngeorge.com/contact/"
+},
+{
+"text": "MEDIA",
+"href": "https://votejohngeorge.com/media/"
+},
+{
+"text": "MEET JOHN",
+"href": "https://votejohngeorge.com/#meet"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/friends-of-john-george-2026/donate"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votejohngeorge.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votejohngeorge.com/privacy-policy"
+},
+{
+"text": "RESULTS",
+"href": "https://votejohngeorge.com/#results"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votejohngeorge.com/terms-and-conditions/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votejohngeorge.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://votejohngeorge.com"
+}
 ]

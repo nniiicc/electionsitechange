@@ -1,17 +1,70 @@
 [
-"http://loesby.us/donate",
-"http://loesby.us/platform",
-"http://lpid.org/membership",
-"https://defendtheguard.us/",
-"https://facebook.com/profile.php?id=61557763598681",
-"https://loesby.us/",
-"https://loesby.us/can-i-win",
-"https://loesby.us/category/libertarian-party-politics",
-"https://loesby.us/category/uncategorized",
-"https://loesby.us/platform",
-"https://loesby.us/volunteer",
-"https://loesby.us/who-am-i",
-"https://lpid.org/membership",
-"https://secure.anedot.com/loesby/donate",
-"https://twitter.com/LoesbyForIdaho"
+{
+"text": "Campaign Platform",
+"href": "https://www.loesby.us/platform/"
+},
+{
+"text": "Can I Win?",
+"href": "https://www.loesby.us/can-i-win/"
+},
+{
+"text": "Defend the Guard",
+"href": "https://defendtheguard.us"
+},
+{
+"text": "Defend the Guard",
+"href": "https://defendtheguard.us/"
+},
+{
+"text": "Donate",
+"href": "http://loesby.us/donate"
+},
+{
+"text": "Donate to Matt Loesby for Congress",
+"href": "https://secure.anedot.com/loesby/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557763598681"
+},
+{
+"text": "Help the Campaign",
+"href": "https://www.loesby.us/volunteer/"
+},
+{
+"text": "Libertarian Party Politics",
+"href": "https://www.loesby.us/category/libertarian-party-politics/"
+},
+{
+"text": "Matt Loesby for Idaho",
+"href": "https://www.loesby.us"
+},
+{
+"text": "Platform",
+"href": "http://loesby.us/platform"
+},
+{
+"text": "Support the Libertarian Party of Idaho",
+"href": "http://lpid.org/membership"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/LoesbyForIdaho"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.loesby.us/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.loesby.us/volunteer/"
+},
+{
+"text": "Who Am I?",
+"href": "https://www.loesby.us/who-am-i/"
+},
+{
+"text": "give your support to the Libertarian Party of Idaho",
+"href": "https://lpid.org/membership"
+}
 ]

@@ -1,6 +1,4 @@
-Animal Rescue in Washington County, Tennessee
-Apr 1
-Updated: May 5
-As part of our All95 initiative, we are heading out into the community and highlighting some amazing people, nonprofits, small businesses, and those that make our Tennessee communities brighter!
+top of page HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG Mobile Home Menu Close All Posts Public Events Animal Rescue in Washington County, Tennessee Apr 1 1 min read Updated: May 5 As part of our All95 initiative, we are heading out into the community and highlighting some amazing people, nonprofits, small businesses, and those that make our Tennessee communities brighter!
 Check out our INTERVIEW with Tammy Davis the Executive Director, of the Washington County Animal Shelter in Johnson City, Tennessee.
-DONATE funds or supplies
+DONATE funds or supplies VOLUNTEER or FOSTER WISH LISTS ADOPT Tags: all95 all95 interview nonprofit washington county animal rescue Recent Posts See All Yard Signs, Forums, and More!
+THE LIBERTY BEAGLE HAS ARRIVED Morristown, Tennessee CONTACT US Go robert@all95.com PAID FOR BY ROBERT JONES FOR TENNESSEE Treasurer Cindy Harlow Updates Accessibility Statement Privacy Policy Yard Signs Pledge Events ALL95 Blog HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG HOME LIBERTY BEAGLE ABOUT VOLUNTEER RESOURCES CONTACT EVENTS ISSUES TRANSPARENCY ACCOUNTABILITY ACT ISSUES YARD SIGNS PUBLIC SERVICE PLEDGE VOTING RESOURCES ALL95 BLOG bottom of page

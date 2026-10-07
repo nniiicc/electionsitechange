@@ -1,9 +1,38 @@
 [
-"https://amazon.com/Enchanted-Globe-Sean-Faircloth/dp/1634311019",
-"https://facebook.com/fairclothmaine",
-"https://seanfaircloth.com/",
-"https://seanfaircloth.com/attack_of_the-thecrats",
-"https://seanfaircloth.com/downtown-revitalization-leader",
-"https://seanfaircloth.com/public-speaking",
-"https://seanfaircloth.com/the-enchanted-globe"
+{
+"text": "Attack of the Theocrats!",
+"href": "https://seanfaircloth.com/attack_of_the-thecrats/"
+},
+{
+"text": "BUY NOW",
+"href": "https://www.amazon.com/Enchanted-Globe-Sean-Faircloth/dp/1634311019"
+},
+{
+"text": "Downtown Revitalization Leader",
+"href": "https://seanfaircloth.com/downtown-revitalization-leader/"
+},
+{
+"text": "Home",
+"href": "https://seanfaircloth.com"
+},
+{
+"text": "Sean Speaking on Issues",
+"href": "https://seanfaircloth.com/public-speaking/"
+},
+{
+"text": "The Enchanted Globe",
+"href": "https://seanfaircloth.com/the-enchanted-globe/"
+},
+{
+"text": "[image: Faircloth][image: Faircloth]",
+"href": "https://seanfaircloth.com/"
+},
+{
+"text": "[tooltip: Follow on Facebook]",
+"href": "https://www.facebook.com/fairclothmaine/"
+},
+{
+"text": "[tooltip: Send us an email]",
+"href": "mailto:sean@seanfaircloth.com"
+}
 ]

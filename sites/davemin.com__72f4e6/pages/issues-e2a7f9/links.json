@@ -1,32 +1,174 @@
 [
-"https://bsky.app/profile/daveminca.bsky.social",
-"https://davemin.com/",
-"https://davemin.com/about",
-"https://davemin.com/ca47",
-"https://davemin.com/endorsements",
-"https://davemin.com/issues/climate-action-environmental-justice",
-"https://davemin.com/issues/democracy-and-the-rule-of-law",
-"https://davemin.com/issues/education",
-"https://davemin.com/issues/gun-violence-prevention",
-"https://davemin.com/issues/healthcare",
-"https://davemin.com/issues/housing-and-homelessness",
-"https://davemin.com/issues/immigration",
-"https://davemin.com/issues/protecting-survivors-of-domestic-violence-and-sex-abuse",
-"https://davemin.com/issues/public-safety",
-"https://davemin.com/issues/reproductive-rights",
-"https://davemin.com/issues/small-business-relief",
-"https://davemin.com/issues/standing-up-to-maga-extremists",
-"https://davemin.com/privacy-policy",
-"https://davemin.com/request-a-yard-sign",
-"https://davemin.com/terms-conditions",
-"https://davemin.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/daveminca",
-"https://flickr.com/photos/164422259@N03",
-"https://instagram.com/davemin_ca",
-"https://secure.actblue.com/donate/dm-launch",
-"https://store.davemin.com/",
-"https://threads.net/@davemin_ca",
-"https://x.com/daveminCA",
-"https://youtube.com/@DaveMinCA"
+{
+"text": "Climate Action & Environmental Justice",
+"href": "https://www.davemin.com/issues/climate-action-environmental-justice"
+},
+{
+"text": "Contact",
+"href": "mailto:info@davemin.com"
+},
+{
+"text": "Democracy and the Rule of Law",
+"href": "https://www.davemin.com/issues/democracy-and-the-rule-of-law"
+},
+{
+"text": "District 47",
+"href": "https://www.davemin.com/ca47"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dm-launch"
+},
+{
+"text": "Education",
+"href": "https://www.davemin.com/issues/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davemin.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davemin.com/volunteer"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.davemin.com/issues/gun-violence-prevention"
+},
+{
+"text": "Healthcare",
+"href": "https://www.davemin.com/issues/healthcare"
+},
+{
+"text": "Housing and Homelessness",
+"href": "https://www.davemin.com/issues/housing-and-homelessness"
+},
+{
+"text": "Immigration",
+"href": "https://www.davemin.com/issues/immigration"
+},
+{
+"text": "Meet Dave & Jane",
+"href": "https://www.davemin.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davemin.com/privacy-policy"
+},
+{
+"text": "Protecting Survivors of Domestic Violence and Sex Abuse",
+"href": "https://www.davemin.com/issues/protecting-survivors-of-domestic-violence-and-sex-abuse"
+},
+{
+"text": "Public Safety",
+"href": "https://www.davemin.com/issues/public-safety"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.davemin.com/issues/reproductive-rights"
+},
+{
+"text": "Request A Yard Sign!",
+"href": "https://www.davemin.com/request-a-yard-sign"
+},
+{
+"text": "Small Business Relief",
+"href": "https://www.davemin.com/issues/small-business-relief"
+},
+{
+"text": "Standing Up To Hate & MAGA Extremism",
+"href": "https://www.davemin.com/issues/standing-up-to-maga-extremists"
+},
+{
+"text": "Store",
+"href": "https://store.davemin.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.davemin.com/terms-conditions"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/climate-action-environmental-justice"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/democracy-and-the-rule-of-law"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/gun-violence-prevention"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/healthcare"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/housing-and-homelessness"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/immigration"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/protecting-survivors-of-domestic-violence-and-sex-abuse"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/public-safety"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/reproductive-rights"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/small-business-relief"
+},
+{
+"text": "View more",
+"href": "https://www.davemin.com/issues/standing-up-to-maga-extremists"
+},
+{
+"text": "[image: Dave Min for Congress]",
+"href": "https://www.davemin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/daveminca.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/daveminca"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/164422259@N03/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/davemin_ca"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@davemin_ca"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DaveMinCA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/daveminCA"
+}
 ]

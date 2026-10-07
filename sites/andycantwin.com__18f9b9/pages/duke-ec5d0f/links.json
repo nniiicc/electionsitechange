@@ -1,40 +1,186 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/duke/bill",
-"https://andycantwin.com/guides",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
-"https://canarymedia.com/articles/utilities/north-carolina-duke-plans-data-center-demand",
-"https://carolinajournal.com/nc-house-votes-to-repeal-2030-carbon-mandate-promising-15b-in-savings",
-"https://duke-energy.com/home/billing/dec-nc-rate-case",
-"https://en.wikipedia.org/wiki/Averch%E2%80%93Johnson_effect",
-"https://en.wikipedia.org/wiki/Virgil_C._Summer_Nuclear_Generating_Station",
-"https://facebook.com/andycantwin",
-"https://fortune.com/2026/04/25/utility-giant-duke-energy-spend-industry-record-103-billion-growth-data-centers-affordability",
-"https://governor.nc.gov/news/press-releases/2025/12/02/governor-josh-stein-opposes-duke-energy-rate-hike-supports-attorney-general-jeff-jacksons-motion",
-"https://governor.nc.gov/news/press-releases/2026/04/15/governor-stein-reacts-duke-energy-efforts-charge-ratepayers-additional-800-million",
-"https://insideclimatenews.org/news/29072025/will-north-carolina-power-bill-reduction-act-work",
-"https://instagram.com/andycantwin",
-"https://investors.duke-energy.com/news/news-details/2025/Duke-Energy-files-2025-Carolinas-Resource-Plan-continues-modernizing-energy-infrastructure-to-support-future-growth/default.aspx",
-"https://ncdoj.gov/no-deal-attorney-general-jackson-wont-sign-duke-energy-settlement-that-raises-families-bills-about-9-5",
-"https://ncleg.gov/BillLookup/2021/H951",
-"https://ncleg.gov/BillLookup/2025/S266",
-"https://ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/H/586",
-"https://ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/431",
-"https://news.duke-energy.com/releases/duke-energy-carolinas-customer-rates-drop-6-2-on-jan-1-due-to-falling-fuel-prices",
-"https://news.duke-energy.com/releases/duke-energy-carolinas-proposes-annual-adjustment-for-fuel-and-other-riders-with-north-carolina-utilities-commission",
-"https://news.duke-energy.com/releases/duke-energy-carolinas-receives-approval-for-new-rates-in-north-carolina-implements-new-programs-to-help-customers",
-"https://news.duke-energy.com/releases/duke-energy-submits-early-site-permit-application-for-potential-new-nuclear-development-in-north-carolina",
-"https://prnewswire.com/news-releases/duke-energy-carolinas-reaches-agreement-with-north-carolina-public-staff-and-other-stakeholders-to-deliver-a-lower-cost-path-to-power-north-carolinas-future-302828900.html",
-"https://puc.hawaii.gov/energy/pbr",
-"https://secure.actblue.com/donate/andybowline",
-"https://syemc.com/",
-"https://wccbcharlotte.com/2026/07/22/nc-attorney-general-jeff-jackson-says-dukes-lower-rate-hike-proposal-still-isnt-low-enough",
-"https://wsoctv.com/news/local/duke-energy-carolinas-lowers-rate-hike-request-116/ZWQ5POKOINFQRMICKAZTFYBGJE",
-"https://wunc.org/2026-07-20/duke-energy-carolinas-halves-its-rate-hike-request-in-new-settlement",
-"https://wunc.org/environment/2025-10-08/epa-emissions-rollback-duke-energy-coal-plant-retirements",
-"https://wunc.org/politics/2025-06-19/nc-energy-bill-power-costs-duke-energy-residential-customers"
+{
+"text": "$ your bill, line by line",
+"href": "https://andycantwin.com/duke/bill/"
+},
+{
+"text": "AG Jackson's July 21 \"No Deal\" statement",
+"href": "https://ncdoj.gov/no-deal-attorney-general-jackson-wont-sign-duke-energy-settlement-that-raises-families-bills-about-9-5/"
+},
+{
+"text": "AG Jackson's July 21 statement",
+"href": "https://ncdoj.gov/no-deal-attorney-general-jackson-wont-sign-duke-energy-settlement-that-raises-families-bills-about-9-5/"
+},
+{
+"text": "Averch & Johnson, \"Behavior of the Firm Under Regulatory Constraint,\" American Economic Review (1962)",
+"href": "https://en.wikipedia.org/wiki/Averch%E2%80%93Johnson_effect"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Canary Media on Duke's data-center forecasts",
+"href": "https://www.canarymedia.com/articles/utilities/north-carolina-duke-plans-data-center-demand"
+},
+{
+"text": "Canary Media on the proposed data-center tariff",
+"href": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina"
+},
+{
+"text": "Carolina Journal on the supporters' $15B savings projection",
+"href": "https://www.carolinajournal.com/nc-house-votes-to-repeal-2030-carbon-mandate-promising-15b-in-savings/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Duke's 2025 Carolinas Resource Plan",
+"href": "https://investors.duke-energy.com/news/news-details/2025/Duke-Energy-files-2025-Carolinas-Resource-Plan-continues-modernizing-energy-infrastructure-to-support-future-growth/default.aspx"
+},
+{
+"text": "Duke's Dec 30, 2025 early site permit application for Belews Creek",
+"href": "https://news.duke-energy.com/releases/duke-energy-submits-early-site-permit-application-for-potential-new-nuclear-development-in-north-carolina"
+},
+{
+"text": "Duke's own release on the approved 2023 rate case",
+"href": "https://news.duke-energy.com/releases/duke-energy-carolinas-receives-approval-for-new-rates-in-north-carolina-implements-new-programs-to-help-customers"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Fortune on Duke's $103B capital plan",
+"href": "https://fortune.com/2026/04/25/utility-giant-duke-energy-spend-industry-record-103-billion-growth-data-centers-affordability/"
+},
+{
+"text": "Get the updates",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Gov. Stein on Duke's announced $800M fuel-cost request",
+"href": "https://governor.nc.gov/news/press-releases/2026/04/15/governor-stein-reacts-duke-energy-efforts-charge-ratepayers-additional-800-million"
+},
+{
+"text": "Gov. Stein's office on NC State and Duke University independently finding $23B",
+"href": "https://governor.nc.gov/news/press-releases/2025/12/02/governor-josh-stein-opposes-duke-energy-rate-hike-supports-attorney-general-jeff-jacksons-motion"
+},
+{
+"text": "HB 951 (S.L. 2021-165)",
+"href": "https://www.ncleg.gov/BillLookup/2021/H951"
+},
+{
+"text": "Hawaii Act 5 (2018) and the Hawaii PUC's performance-based regulation framework (Docket 2018-0088)",
+"href": "https://puc.hawaii.gov/energy/pbr/"
+},
+{
+"text": "House Roll Call 586",
+"href": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/H/586"
+},
+{
+"text": "Inside Climate News on what the Public Staff estimate left out",
+"href": "https://insideclimatenews.org/news/29072025/will-north-carolina-power-bill-reduction-act-work/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "NC State and Duke University analyses of the interim-target repeal (up to $23B) and the ~19% residential fuel-cost shift, via WUNC",
+"href": "https://www.wunc.org/politics/2025-06-19/nc-energy-bill-power-costs-duke-energy-residential-customers"
+},
+{
+"text": "NCUC Docket E-7 Sub 1329",
+"href": "https://www.duke-energy.com/home/billing/dec-nc-rate-case"
+},
+{
+"text": "NCUC Docket E-7 Sub 1329, comprehensive settlement announced July 17, 2026",
+"href": "https://www.prnewswire.com/news-releases/duke-energy-carolinas-reaches-agreement-with-north-carolina-public-staff-and-other-stakeholders-to-deliver-a-lower-cost-path-to-power-north-carolinas-future-302828900.html"
+},
+{
+"text": "SB 266 (Session Law 2025-78)",
+"href": "https://www.ncleg.gov/BillLookup/2025/S266"
+},
+{
+"text": "Senate Roll Call 431",
+"href": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/431"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Surry-Yadkin EMC",
+"href": "https://www.syemc.com/"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "V.C. Summer Units 2 & 3 abandonment, 2017",
+"href": "https://en.wikipedia.org/wiki/Virgil_C._Summer_Nuclear_Generating_Station"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WCCB's July 22 interview",
+"href": "https://www.wccbcharlotte.com/2026/07/22/nc-attorney-general-jeff-jackson-says-dukes-lower-rate-hike-proposal-still-isnt-low-enough/"
+},
+{
+"text": "WSOC on the 11.6% partial settlement",
+"href": "https://www.wsoctv.com/news/local/duke-energy-carolinas-lowers-rate-hike-request-116/ZWQ5POKOINFQRMICKAZTFYBGJE/"
+},
+{
+"text": "WUNC on the coal retirement delays",
+"href": "https://www.wunc.org/environment/2025-10-08/epa-emissions-rollback-duke-energy-coal-plant-retirements"
+},
+{
+"text": "WUNC on the settlement figures",
+"href": "https://www.wunc.org/2026-07-20/duke-energy-carolinas-halves-its-rate-hike-request-in-new-settlement"
+},
+{
+"text": "WUNC's coverage of the NC State cost analysis and the residential fuel-cost shift",
+"href": "https://www.wunc.org/politics/2025-06-19/nc-energy-bill-power-costs-duke-energy-residential-customers"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "how to read your power bill, line by line",
+"href": "https://andycantwin.com/duke/bill/"
+},
+{
+"text": "separate field guide on the data-center push",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "the Jan 2025 fuel decrease",
+"href": "https://news.duke-energy.com/releases/duke-energy-carolinas-customer-rates-drop-6-2-on-jan-1-due-to-falling-fuel-prices"
+},
+{
+"text": "the July 17 settlement's refund rider for late projects",
+"href": "https://www.prnewswire.com/news-releases/duke-energy-carolinas-reaches-agreement-with-north-carolina-public-staff-and-other-stakeholders-to-deliver-a-lower-cost-path-to-power-north-carolinas-future-302828900.html"
+},
+{
+"text": "the Sept 2023 fuel adjustment",
+"href": "https://news.duke-energy.com/releases/duke-energy-carolinas-proposes-annual-adjustment-for-fuel-and-other-riders-with-north-carolina-utilities-commission"
+},
+{
+"text": "the comprehensive settlement announced July 17, 2026",
+"href": "https://www.prnewswire.com/news-releases/duke-energy-carolinas-reaches-agreement-with-north-carolina-public-staff-and-other-stakeholders-to-deliver-a-lower-cost-path-to-power-north-carolinas-future-302828900.html"
+},
+{
+"text": "tour an actual bill, line by line",
+"href": "https://andycantwin.com/duke/bill/"
+},
+{
+"text": "← back to the guides",
+"href": "https://andycantwin.com/guides/"
+}
 ]

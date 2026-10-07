@@ -1,35 +1,138 @@
 [
-"https://facebook.com/SaraLove4MD",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/sara.love4md",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0009?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0012?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0198?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0230?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0337?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0744",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0381?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0182",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0513?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0517",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0550?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1173",
-"https://saralove4md.com/",
-"https://saralove4md.com/animal-protection-1",
-"https://saralove4md.com/biography",
-"https://saralove4md.com/contact",
-"https://saralove4md.com/education",
-"https://saralove4md.com/endorsements",
-"https://saralove4md.com/energy",
-"https://saralove4md.com/gun-safety",
-"https://saralove4md.com/justice-and-safety",
-"https://saralove4md.com/newsletters",
-"https://saralove4md.com/press",
-"https://saralove4md.com/reproductive-rights",
-"https://saralove4md.com/scholarships",
-"https://saralove4md.com/the-environment",
-"https://saralove4md.com/transportation",
-"https://saralove4md.com/voting-information",
-"https://secure.actblue.com/donate/friends-of-sara-love-1",
-"https://x.com/@saralove4MD"
+{
+"text": "Animal Protection",
+"href": "https://saralove4md.com/animal-protection-1"
+},
+{
+"text": "Automated Enforcement Privacy Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0381?ys=2025RS"
+},
+{
+"text": "Biography",
+"href": "https://saralove4md.com/biography"
+},
+{
+"text": "Clean Transportation and Energy Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0550/?ys=2023rs"
+},
+{
+"text": "Clean Trucks Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0230?ys=2023RS&search=True"
+},
+{
+"text": "Contact",
+"href": "https://saralove4md.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sara-love-1"
+},
+{
+"text": "Education",
+"href": "https://saralove4md.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://saralove4md.com/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://saralove4md.com/energy"
+},
+{
+"text": "Equitable and Inclusive Transit-Oriented Development Enhancement Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0012?ys=2023RS&search=True"
+},
+{
+"text": "Gun Safety",
+"href": "https://saralove4md.com/gun-safety"
+},
+{
+"text": "Home",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "Justice and Safety",
+"href": "https://saralove4md.com/justice-and-safety"
+},
+{
+"text": "Maryland Metro Funding Act of 2024",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0198?ys=2024RS&search=True"
+},
+{
+"text": "Maryland Road Worker Protection Act of 2024",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0513/?ys=2024rs"
+},
+{
+"text": "Montgomery County - Speed Monitoring Systems - High-Risk Highway",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1173"
+},
+{
+"text": "Newsletters",
+"href": "https://saralove4md.com/newsletters"
+},
+{
+"text": "Press",
+"href": "https://saralove4md.com/press"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://saralove4md.com/reproductive-rights"
+},
+{
+"text": "Sarah Debbink Langenkamp Memorial Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0337?ys=2024RS&search=True"
+},
+{
+"text": "Scholarships",
+"href": "https://saralove4md.com/scholarships"
+},
+{
+"text": "Speed Monitoring Systems - Penalties",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0182"
+},
+{
+"text": "The Environment",
+"href": "https://saralove4md.com/the-environment"
+},
+{
+"text": "The Sergeant Patrick Kepp Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0744"
+},
+{
+"text": "Transportation",
+"href": "https://saralove4md.com/transportation"
+},
+{
+"text": "Transportation Equity",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0009?ys=2023RS&search=True"
+},
+{
+"text": "Voting Information",
+"href": "https://saralove4md.com/voting-information"
+},
+{
+"text": "Workgroup on the Reorganization of the Maryland Transit Administration",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0517"
+},
+{
+"text": "[image: Sara Love for Maryland Delegate]",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraLove4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sara.love4md"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@saralove4MD"
+}
 ]

@@ -1,11 +1,3 @@
-Let’s re-elect Nicole Malliotakis to Congress on Tuesday, November 3rd.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Tue, Nov 03 2026 Vote: Election Day – Tuesday, November 3, 2026 6:00AM - 9:00PM Staten Island & Brooklyn Let’s re-elect Nicole Malliotakis to Congress on Tuesday, November 3rd.
 Fill out the form to volunteer to get out the vote.
-Staten Island Headquarters
-2300 Richmond Road
-Staten Island, NY 10306
-Tue, Nov 03 2026
-Vote: Election Day – Tuesday, November 3, 2026
-Let’s re-elect Nicole Malliotakis to Congress on Tuesday, November 3rd.
-Fill out the form to volunteer to get out the vote.
-6:00AM - 9:00PM
-Staten Island & Brooklyn
+FIND YOUR POLL SITE Staten Island Headquarters 2300 Richmond Road Staten Island, NY 10306 First Name * Last Name * Email * Street Address * City * State * State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Zip Code * Mobile Phone * Choose a Location * Staten Island Brooklyn TIME SLOTS TO VOLUNTEER (Check any time slots you are available on Tuesday, November 5th) 6am-9am 9am-1pm 1pm-5pm 5pm-9pm Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

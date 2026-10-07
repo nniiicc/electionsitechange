@@ -1,5 +1,38 @@
 [
-"https://mattesonnh.com/",
-"https://mattesonnh.com/blog",
-"https://mattesonnh.com/contact"
+{
+"text": "About Gary",
+"href": "https://mattesonnh.com#about"
+},
+{
+"text": "Community",
+"href": "https://mattesonnh.com#community"
+},
+{
+"text": "Contact",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Contact Form",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://mattesonnh.com#donate"
+},
+{
+"text": "Gary Matteson",
+"href": "https://mattesonnh.com"
+},
+{
+"text": "Priorities",
+"href": "https://mattesonnh.com#issues"
+},
+{
+"text": "mattesonnh@gmail.com",
+"href": "mailto:mattesonnh@gmail.com"
+},
+{
+"text": "← Back to all posts",
+"href": "https://mattesonnh.com/blog"
+}
 ]

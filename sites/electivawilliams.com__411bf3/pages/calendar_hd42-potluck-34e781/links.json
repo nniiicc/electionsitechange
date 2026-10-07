@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=HD42+Potluck&dates=20260920T000000Z%2F20260920T020000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://maps.google.com/?q=2725+Grouse+Creek+Circle+Sandy%2C+Utah%2C+84092+United+States",
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/calendar/cottage-party",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr",
-"https://electivawilliams.com/calendar/hd42-potluck?format=ical",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://mobilize.us/utahdemocrats/event/1014637?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link",
-"https://secure.actblue.com/donate/electivawilliams"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2725+grouse+creek+circle+sandy%2C+utah%2C+84092+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=HD42+Potluck&dates=20260920T000000Z%2F20260920T020000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/hd42-potluck?format=ical"
+},
+{
+"text": "Next Next September 22 Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr"
+},
+{
+"text": "Previous Previous September 8 Cottage Party",
+"href": "https://www.electivawilliams.com/calendar/cottage-party"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1014637/?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

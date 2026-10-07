@@ -1,19 +1,7 @@
-REAL PROGRESS
-LEGISLATIVE
-RECORD
-For Teton County & Wyoming
-Tax Relief
-Liz authored a bipartisan ballot referendum to separate commercial and second homes from owner-occupied residences for property tax assessment – voters passed it overwhelmingly in 2024
-Expanded the property tax refund program to higher income and asset households
-Pushed for short-term property tax exemption of 25%, up to $2MM for 2 years.
-In Teton County, this would amount to an average of $5450 per homeowner
-Wildlife Protection
-Championed an effort to include a budget provision to transfer the state-owned Kelly Parcel to Grand Teton National Park
-Education Funding
-Secured Bronc Achievement Center funding for the expansion of the Jackson Hole High School
-Funding for the Central WY College’s Jackson Outreach Center campus
-Increased funding for early child care providers for special needs kids
-In her freshman session, Liz led an effort to resurrect a bill to put a constitutional amendment on the ballot that would allow the state to assess residential property separately from commercial property and primary, owner-occupied residences separately from second homes.
+top of page Issues Record About Get Involved!
+More Use tab to navigate through the menu items.
+Donate Now REAL PROGRESS LEGISLATIVE RECORD For Teton County & Wyoming Tax Relief Liz authored a bipartisan ballot referendum to separate commercial and second homes from owner-occupied residences for property tax assessment – voters passed it overwhelmingly in 2024 Expanded the property tax refund program to higher income and asset households Pushed for short-term property tax exemption of 25%, up to $2MM for 2 years.
+In Teton County, this would amount to an average of $5450 per homeowner Wildlife Protection Championed an effort to include a budget provision to transfer the state-owned Kelly Parcel to Grand Teton National Park Education Funding Secured Bronc Achievement Center funding for the expansion of the Jackson Hole High School Funding for the Central WY College’s Jackson Outreach Center campus Increased funding for early child care providers for special needs kids In her freshman session, Liz led an effort to resurrect a bill to put a constitutional amendment on the ballot that would allow the state to assess residential property separately from commercial property and primary, owner-occupied residences separately from second homes.
 She needed two-thirds votes in both the House and Senate.
 Working across the aisle, she succeeded.
 This amendment will be on the ballot in the general election in November, 2024.
@@ -30,3 +18,6 @@ Storer prevailed and the bill passed almost unanimously in both houses.
 Sadly, Governor Gordon vetoed the bill, causing several legislators to call for a special session that was ultimately defeated.
 Looking ahead, Storer knows she will be working with her colleagues on the Revenue Committee to craft bills that could be enacted as a result of the constitutional amendment passing in November.
 “This will give us an opportunity to craft property tax revisions in a thoughtful, constitutional manner,” something she is looking forward to working on.
+My Committees Where the work gets done.
+Revenue Committee​ ​ Travel, Recreation, Wildlife & Cultural Resources Select Committee on Capital Finance & Investments I would be honored to have your support in my re-election campaign Get involved, stay connected Subscribe Now You're making a difference in Teton County Donate Now MY COMMITTEES ISSUES RECORD ABOUT GET INVOLVED Liz@storerforstatehouse.com PO Box 7974 Jackson, WY 83002 ©# All Rights Reserved.
+Paid for by Storer for State House bottom of page

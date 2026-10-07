@@ -1,5 +1,4 @@
-IDAHO VOICES: “JIM RISCH HAS DONE MUCH FOR IDAHO”
-“Over the course of my life, I’ve had the privilege of serving Idaho in many capacities — as a legislator, attorney, businessman, and citizen engaged in our state’s civic life.
+About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu IDAHO VOICES: “JIM RISCH HAS DONE MUCH FOR IDAHO” “Over the course of my life, I’ve had the privilege of serving Idaho in many capacities — as a legislator, attorney, businessman, and citizen engaged in our state’s civic life.
 I’ve watched governors, legislators, members of Congress, and presidents come and go.
 One lesson stands above the rest: experience only matters when it’s paired with sound judgment, integrity, and an unwavering commitment to the people you serve.
 Jim Risch has all three.
@@ -24,6 +23,7 @@ Wisdom, relationships, and credibility are not liabilities.
 They’re assets that benefit every Idahoan.
 Our state is fortunate to have one of the Senate’s most respected conservative voices representing us.
 We should keep him there.
-That’s why I’ll proudly vote to re-elect Jim Risch to the United States Senate.”
-C.A.
+That’s why I’ll proudly vote to re-elect Jim Risch to the United States Senate.” C.A.
 “Skip” Smyser, of Boise, served in the Idaho State Senate from 1983 to 1990.
+READ MORE Help Defend Idaho Values DONATE NOW 208-506-5500 [email protected] For all media related inquiries please contact [email protected] PAID FOR BY JIM RISCH FOR U.S.
+SENATE COMMITTEE Privacy Policy

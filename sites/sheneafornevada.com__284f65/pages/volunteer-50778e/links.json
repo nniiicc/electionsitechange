@@ -1,15 +1,66 @@
 [
-"http://facebook.com/sheneabooth",
-"http://instagram.com/sheneastiletto",
-"http://linkedin.com/in/shenea-stiletto-5a9a8656",
-"http://twitter.com/sheneastiletto",
-"https://acestudios.com/",
-"https://secure.actblue.com/donate/shenea-booth-for-assembly",
-"https://sheneafornevada.com/",
-"https://sheneafornevada.com/about-shenea",
-"https://sheneafornevada.com/contact",
-"https://sheneafornevada.com/privacy",
-"https://sheneafornevada.com/terms",
-"https://sheneafornevada.com/the-issues",
-"https://sheneafornevada.com/volunteer"
+{
+"text": "About Shenea",
+"href": "https://sheneafornevada.com/about-shenea/"
+},
+{
+"text": "Contact",
+"href": "https://sheneafornevada.com/contact/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/shenea-booth-for-assembly"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shenea-booth-for-assembly"
+},
+{
+"text": "Follow",
+"href": "http://facebook.com/sheneabooth"
+},
+{
+"text": "Follow",
+"href": "http://instagram.com/sheneastiletto"
+},
+{
+"text": "Follow",
+"href": "http://twitter.com/sheneastiletto"
+},
+{
+"text": "Follow",
+"href": "http://www.linkedin.com/in/shenea-stiletto-5a9a8656"
+},
+{
+"text": "Home",
+"href": "https://sheneafornevada.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sheneafornevada.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://sheneafornevada.com/terms/"
+},
+{
+"text": "The Issues",
+"href": "https://sheneafornevada.com/the-issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://sheneafornevada.com/volunteer/"
+},
+{
+"text": "Website Design",
+"href": "https://acestudios.com/"
+},
+{
+"text": "[image: Shenea Booth for Nevada Assembly]",
+"href": "https://sheneafornevada.com/"
+},
+{
+"text": "info@sheneafornevada.com",
+"href": "mailto:info@sheneafornevada.com"
+}
 ]

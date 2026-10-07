@@ -1,9 +1,12 @@
 {
  "description": "America has the longest standing democracy in the world. As an experiment in participatory society, America asks its citizens every election to show up.",
  "final_url": "https://bankshelfrich.com/vote-or-leave/",
- "paid_for_by": null,
+ "fingerprint": "5b5a58962ac2ba4c712b7c05f1dfae58410407c3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote or Leave - Elect Banks Helfrich",
  "years_mentioned": [
+  "2000",
   "2020"
  ]
 }

@@ -1,48 +1,8 @@
-Endorsements
-I’m proud to be endorsed by local leaders and organizations!
-Organizations and Unions
-Adelante Progressive Caucus
-American Federation of State, County, and Municipal Employees Council 18 (AFSCME)
-Environmental Justice Caucus
-Equality New Mexico (EQNM)
-New Mexico Working Families Party (WFP)
-Communications Workers of America (CWA)
-New Mexico Voices for Children
-Action Fund (NMVCAF)
-Organizers in the Land of Enchantment (OLÉ)
-Semilla Action
-Young Democrats of New Mexico (YDNM)
-Elected Leaders
-Harold Pope, State Senator, District 23
-Stephanie Telles, Albuquerque City Councilor, District 1
-Joaquin Baca, Albuquerque City Councilor, District 2
-Dr.
+0 Skip to Content About Abby Issues Endorsements Volunteer Contribute Open Menu Close Menu About Abby Issues Endorsements Volunteer Contribute Open Menu Close Menu About Abby Issues Endorsements Volunteer Contribute Endorsements I’m proud to be endorsed by local leaders and organizations!
+Organizations and Unions Adelante Progressive Caucus American Federation of State, County, and Municipal Employees Council 18 (AFSCME) Environmental Justice Caucus Equality New Mexico (EQNM) New Mexico Working Families Party (WFP) Communications Workers of America (CWA) New Mexico Voices for Children Action Fund (NMVCAF) Organizers in the Land of Enchantment (OLÉ) Semilla Action Young Democrats of New Mexico (YDNM) Elected Leaders Harold Pope, State Senator, District 23 Stephanie Telles, Albuquerque City Councilor, District 1 Joaquin Baca, Albuquerque City Councilor, District 2 Dr.
 Warigia Bowman.
-Albuquerque Public Schools Board Member, District 6
-Brian Colon, Fmr.
-State Auditor
-Brenda McKenna, Fmr.
-State Senator, District 9
-Bill Tallman, Fmr.
-State Senator, District 18
-Diane Gibson, Fmr.
-Albuquerque City Councilor, District 7
-Community Leaders
-Ben Decker, Albuquerque
-Bill Rider, Albuquerque
-Carol Trujillo-Fay, Albuquerque
-Carolina Barrera, Albuquerque
-Colton Dean, Albuquerque
-Dan Fay, Albuquerque
-Darcy Bushnell, Albuquerque
-Felicia Rider, Albuquerque
-Grace Dukes, Albuquerque
-Greg Seeley, Albuquerque
-Joni Rae Harstine, Albuquerque
-Julie Rochman, Albuquerque
-Kenny Jones, Albuquerque
-Kiersten Steiner, Albuquerque
-Kristin Wood-Hegner, Albuquerque
-Nancy Plevin, Albuquerque
-Pat Foster, Albuquerque
-Teresa Garcia, Albuquerque
+Albuquerque Public Schools Board Member, District 6 Brian Colon, Fmr.
+State Auditor Brenda McKenna, Fmr.
+State Senator, District 9 Bill Tallman, Fmr.
+State Senator, District 18 Diane Gibson, Fmr.
+Albuquerque City Councilor, District 7 Community Leaders Ben Decker, Albuquerque Bill Rider, Albuquerque Carol Trujillo-Fay, Albuquerque Carolina Barrera, Albuquerque Colton Dean, Albuquerque Dan Fay, Albuquerque Darcy Bushnell, Albuquerque Felicia Rider, Albuquerque Grace Dukes, Albuquerque Greg Seeley, Albuquerque Joni Rae Harstine, Albuquerque Julie Rochman, Albuquerque Kenny Jones, Albuquerque Kiersten Steiner, Albuquerque Kristin Wood-Hegner, Albuquerque Nancy Plevin, Albuquerque Pat Foster, Albuquerque Teresa Garcia, Albuquerque Contribute Volunteer Showing Up Fostering Change Volunteer Contribute Contact About Abby Issues Paid for and authorized by Friends of Abby Foster

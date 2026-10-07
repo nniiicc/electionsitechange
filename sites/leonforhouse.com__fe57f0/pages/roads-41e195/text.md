@@ -1,15 +1,6 @@
-top of page
-Fixing Our Roads and Improving Traffic
-The General Assembly has until June to pass a roads funding bill or we will have to start from scratch in 2017.
+top of page Home Meet Leon Issues News Action Survey More Use tab to navigate through the menu items.
+CONTRIBUTE Fixing Our Roads and Improving Traffic The General Assembly has until June to pass a roads funding bill or we will have to start from scratch in 2017.
 I have made this issue a top priority throughout my service in the legislature.
 I am working with both parties to pass a smart roads plan this year that fixes our crumbling roads, reforms DOT, and makes sure Charleston receives its fair share of funds back home.
-- Finish 526: Leon secured the $420 million for I-526 in 2006 and special interests have stood in the way of the project for too long.
-I will continue fighting for this project so that residents in West Ashley and the Islands have an alternative route to and from work and a safe evacuation route
-- Complete the flyover at Main & Highway 17
-- Improvements Maybank Highway, Folly Road, Savannah Highway, Highway 61, Glenn McConnell Parkway, and more
-- Provide more bike/pedestrian options
-- Invest in Bus Rapid Transit to create affordable express service from our suburbs to employment center
-- Provide more park and ride options
-- Sync up traffic lights in real time to improve traffic flow on Savannah Highway, Highway 61, Folly Road and more
-- Reform DOT including capping administrative costs
-bottom of page
+Finish 526: Leon secured the $420 million for I-526 in 2006 and special interests have stood in the way of the project for too long.
+I will continue fighting for this project so that residents in West Ashley and the Islands have an alternative route to and from work and a safe evacuation route Complete the flyover at Main & Highway 17 Improvements Maybank Highway, Folly Road, Savannah Highway, Highway 61, Glenn McConnell Parkway, and more Provide more bike/pedestrian options Invest in Bus Rapid Transit to create affordable express service from our suburbs to employment center Provide more park and ride options Sync up traffic lights in real time to improve traffic flow on Savannah Highway, Highway 61, Folly Road and more Reform DOT including capping administrative costs Paid for by Leon for House One Cool Blow Street, Suite 201, Charleston, SC 29403 Site by bottom of page

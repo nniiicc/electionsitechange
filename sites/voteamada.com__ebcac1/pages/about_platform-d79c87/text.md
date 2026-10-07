@@ -1,9 +1,9 @@
-I am running for the Minnesota House of Representatives because I am a steadfast community organizer and public servant who has a solid track record in District 39B.
+Skip to content for Minnesota House 39B Menu About Issues Donate Menu About Issues Donate I am running for the Minnesota House of Representatives because I am a steadfast community organizer and public servant who has a solid track record in District 39B.
 My core belief is that no person must ever be excluded from our society or our policies.
 That means everyone in my district has a voice, everyone has rights, nobody is left out, and nobody is above the law.
 Living in the area is just the beginning.
 I started a sustainable community nonprofit specifically to serve Columbia Heights and our neighboring cities in the district.
-For more than a decade, I have actively worked on campaigns and DFL initiatives in District 39B.
+For more than a decade, I have actively worked on campaigns and DFL initiatives in District 39B .
 I have also been a poll worker and election judge in 39B.
 Respecting the endorsement process is important to me, and I have always fully backed our endorsed candidates.
 In my experience, I know exactly how challenging the demands of public office can be and the weight of responsibility that is entrusted to me.
@@ -19,16 +19,21 @@ It’s a job most people would avoid!
 Making progress means lowering the temperature, finding common ground, and building coalitions one ally at a time.
 It means long hours doing deep research to ensure that our measures benefit Minnesota as a whole and exclude no one.
 With my connections, experience, and track record of success in office, I am fully prepared to be your public servant in the Minnesota House of Representatives.
-In Community,
-The American Dream
-Our district is one of the most diverse communities in Minnesota.
+In Community, The American Dream Our district is one of the most diverse communities in Minnesota.
 Since taking office, Amáda has helped two people become US citizens.
 This includes reuniting a family that was separated internationally.
 As an elected official, she has no power to make these changes.
 She simply saw opportunities to leverage her network and connect people with the resources they needed.
-Strategic Thinking
-The government was built to benefit some people more than others.
+Strategic Thinking The government was built to benefit some people more than others.
 We need more representative government and city staff, specifically more Black and brown people in these roles.
 Creating a balanced and just system is difficult and will take generations.
 Amáda regularly meets with various cultural leaders, community groups, other elected officials of color for support and long-term strategies.
 If you want to represent your community in district 39B, please contact Amáda so she can help.
+Making Headlines Let’s Stay in Touch!
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Read past newsletters or sign up for the mailing list.
+Email * Sign Up Show your support!
+Get a Lawn Sign FAQ Press Kit Privacy Policy Join the Campaign Team Contact Authorized and paid for by Vote Amada. © # VoteAmada.com.
+All Rights Reserved.
+About Issues Donate Close

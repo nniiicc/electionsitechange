@@ -1,9 +1,46 @@
 [
-"https://bannonforpa.com/",
-"https://bannonforpa.com/blog",
-"https://bannonforpa.com/blog/petitions",
-"https://bannonforpa.com/calendar",
-"https://bannonforpa.com/links",
-"https://bannonforpa.com/michael-bannon-for-pa-state-representitive",
-"https://facebook.com/MichaelBannonJrforstaterep"
+{
+"text": "Blog",
+"href": "https://www.bannonforpa.com/blog/"
+},
+{
+"text": "Calendar",
+"href": "https://www.bannonforpa.com/calendar/"
+},
+{
+"text": "Home",
+"href": "https://www.bannonforpa.com/"
+},
+{
+"text": "Links",
+"href": "https://www.bannonforpa.com/links/"
+},
+{
+"text": "Michael Bannon for PA State Representitive",
+"href": "https://www.bannonforpa.com/michael-bannon-for-pa-state-representitive/"
+},
+{
+"text": "Petitions",
+"href": "https://www.bannonforpa.com/blog/petitions/"
+},
+{
+"text": "Read more",
+"href": "https://www.bannonforpa.com/blog/petitions/"
+},
+{
+"text": "[image: Petitions]",
+"href": "https://www.bannonforpa.com/blog/petitions/"
+},
+{
+"text": "[no text]",
+"href": "https://www.bannonforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MichaelBannonJrforstaterep"
+},
+{
+"text": "[no text]",
+"href": "mailto:orders@mywebsite-now.com"
+}
 ]

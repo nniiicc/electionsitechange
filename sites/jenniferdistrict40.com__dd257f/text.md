@@ -1,5 +1,8 @@
-Jennifer Gilkerson
-Candidate for House District 40
-I love hearing from residents of Monroe and Summers County, so feel free to reach out!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Meet Your Candidate My Platform More Home Meet Your Candidate My Platform Home Meet Your Candidate My Platform People over politics People over politics People over politics People over politics Jennifer Gilkerson Candidate for House District 40 Support my Campaign People over politics People over politics People over politics People over politics Jennifer Gilkerson Candidate for House District 40 Support my Campaign President, West Virginia Agritourism Association District 8 International Woman Farmer of the Year Lowering the Cost of Living Community Control & Responsible Development Community Control & Responsible Development Community Control & Responsible Development Community Control & Responsible Development Community Control & Responsible Development Serving the community Community Control & Responsible Development Serving the community education Growing Jobs from the Ground Up Serving the community healthcare access Growing Jobs from the Ground Up Growing Jobs from the Ground Up Growing Jobs from the Ground Up Growing Jobs from the Ground Up Growing Jobs from the Ground Up Strengthening Local Food & Farm Infrastructure Strengthening Local Food & Farm Infrastructure Strengthening Local Food & Farm Infrastructure Learn more Contribute to My Campaign Help our voices be heard in Charleston.
+Donate Now I love hearing from residents of Monroe and Summers County, so feel free to reach out!
+Jennifer Gilkerson WV House District 40 304-646-3784 Get in Touch!
+Get in Touch!
+Name Email* Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Cancel Get in Touch!
+Volunteer For My Campaign Email* Join Us Copyright © # Jennifer Gilkerson WV House District 40 - All Rights Reserved.
+Powered by

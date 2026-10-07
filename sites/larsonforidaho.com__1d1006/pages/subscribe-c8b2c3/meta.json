@@ -1,7 +1,9 @@
 {
  "description": "Thank you for requesting our newsletters. The Larson Ledger . It will show up in your mailbox each Tuesday.",
  "final_url": "https://larsonforidaho.com/subscribe/",
- "paid_for_by": null,
- "title": "Subscribe \u2013 Larson for Idaho",
+ "fingerprint": "e45f75f98938ff0ef629e414d8dcabcb6a3078d9",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Subscribe – Larson for Idaho",
  "years_mentioned": []
 }

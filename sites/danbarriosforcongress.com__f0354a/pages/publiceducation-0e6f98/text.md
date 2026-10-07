@@ -1,29 +1,19 @@
-Quality Public Education
-As a first-generation high school graduate, a PTA parent, and a former public school teacher, I know firsthand the transformative power of education.
+top of page Home About Dan Issues District 32 Map Contact Dan Get Involved Get Involved Events DONATE STORE Quality Public Education As a first-generation high school graduate, a PTA parent, and a former public school teacher, I know firsthand the transformative power of education.
 It changed the course of my life, and I’ve seen how it can change the trajectory of families for generations.
 I taught high school business courses in Dallas and served as a community college adjunct.
 I’ve witnessed the challenges students, teachers, parents, and administrators face every day — from overcrowded classrooms to underfunded programs.
 But I’ve also seen the difference that dedicated teachers, supportive schools, and engaged communities can make.
-That evidence is in my life and in the lives of countless students I’ve had the privilege to teach.
-Education is the foundation of opportunity.
+That evidence is in my life and in the lives of countless students I’ve had the privilege to teach. ​ ​ Education is the foundation of opportunity.
 As the richest country in the world, we cannot accept anything less than investing in our youth and the professionals who guide them.
 We must partner with parents, teachers, and students to improve teacher pay, expand early childhood education, grow career and technical pathways, and give every child the tools to succeed.
 Right now, public schools face attacks from special-interest billionaires and programs that divert funding to private schools, leaving neighborhood schools underfunded.
 In Texas, for example, voucher programs have redirected taxpayer dollars away from public schools, benefiting the wealthiest Americans rather than the children in our communities.
-I’m ready to fight in Washington to protect public schools — and make them the envy of the world — so every child has the chance to succeed in a global economy.
-My Priorities in Congress
-•Boost Reading and Math Achievement: Grants and incentives for schools to adopt evidence-based programs, like phonics and early literacy initiatives. 1:1 intensive tutoring for students who need extra support to reach grade-level proficiency.
-•Recruit, Retain, and Equip Teachers: Expand programs like Supporting Effective Educator Development and TEACH grants to train and retain high-quality teachers.
-Ensure teachers have the resources and professional development they need to succeed in the classroom.
-•Protect Public Schools from Big-Money Influence: Reject private school voucher programs that divert taxpayer dollars away from neighborhood schools.
-Stand up to special-interest billionaires whose actions undermine public education.
-•Expand Early Childhood Education and Childcare: Establish universal Pre-K for every 3- and 4-year-old.
-Increase support for children under 3, protect Head Start programs, and make childcare more accessible and affordable.
-•Support Students with Special Needs: Maintain federal oversight that ensures special education students receive proper funding and support.
-Expand access to programs and tools that help students thrive in inclusive classrooms.
-•Prepare Students for Careers and College: Strengthen Career and Technical Education (CTE) programs in middle and high schools.
-Improve junior college partnerships so students have flexible pathways to careers or further education.
-•Prioritize Student Health and Wellbeing: Expand National School Lunch and Breakfast programs to ensure no child learns on an empty stomach.
-Increase access to school counselors and mental health resources to support students’ social-emotional development.
-•Harness AI to Improve Learning: Establish guidelines for safe, effective AI use in classrooms that enhance learning without replacing teacher guidance.
-Support innovation that helps teachers personalize instruction and students develop 21st-century skills.
+I’m ready to fight in Washington to protect public schools — and make them the envy of the world — so every child has the chance to succeed in a global economy. ​ My Priorities in Congress ​ ​ ​ ​ •Boost Reading and Math Achievement: Grants and incentives for schools to adopt evidence-based programs, like phonics and early literacy initiatives.
+1:1 intensive tutoring for students who need extra support to reach grade-level proficiency. ​ •Recruit, Retain, and Equip Teachers: Expand programs like Supporting Effective Educator Development and TEACH grants to train and retain high-quality teachers.
+Ensure teachers have the resources and professional development they need to succeed in the classroom. ​ •Protect Public Schools from Big-Money Influence: Reject private school voucher programs that divert taxpayer dollars away from neighborhood schools.
+Stand up to special-interest billionaires whose actions undermine public education. ​ •Expand Early Childhood Education and Childcare: Establish universal Pre-K for every 3- and 4-year-old.
+Increase support for children under 3, protect Head Start programs, and make childcare more accessible and affordable. •Support Students with Special Needs: Maintain federal oversight that ensures special education students receive proper funding and support.
+Expand access to programs and tools that help students thrive in inclusive classrooms. •Prepare Students for Careers and College: Strengthen Career and Technical Education (CTE) programs in middle and high schools.
+Improve junior college partnerships so students have flexible pathways to careers or further education. •Prioritize Student Health and Wellbeing: Expand National School Lunch and Breakfast programs to ensure no child learns on an empty stomach.
+Increase access to school counselors and mental health resources to support students’ social-emotional development. •Harness AI to Improve Learning: Establish guidelines for safe, effective AI use in classrooms that enhance learning without replacing teacher guidance.
+Support innovation that helps teachers personalize instruction and students develop 21st-century skills. info@danbarriosforcongress.com PO Box 830507 Richardson, Texas 75083 PAID FOR BY DAN BARRIOS FOR CONGRESS bottom of page

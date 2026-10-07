@@ -1,27 +1,15 @@
-Rep.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Latest News October 29, 2019 Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff kamgarv18 Comments Off on Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff Uncategorized Rep.
 Kambrell Garvin (D-Richland) will file the “South Carolina Dignity in Pregnancy and Childbirth Act,” which would require health care providers to implement an evidence-based implicit bias program to train health care staff.
-Read More
-The House of Representatives amended, approved, and sent the Senate H.4000, the General Appropriation Bill, and H.4001, the joint resolution making appropriations from the Capital Reserve Fund, which together comprise…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.3759, the “SOUTH CAROLINA EDUCATION, CAREER OPPORTUNITY, AND ACCESS FOR ALL ACT”.
-The legislation makes comprehensive revisions that are offered…
-Read More
-Over the past several weeks our state has been forced to grapple with the novel coronavirus pandemic.
-This contagion has exposed the glaring gaps in health care access within South…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.5201, the General Appropriation Bill, and H.5202, the joint resolution making appropriations from the Capital Reserve Fund, which together comprise the FISCAL…
-Read More
-The House of Representatives and the Senate adopted the conference committee report on S.16, legislation that relates to EMERGENCY REFILLS OF PRESCRIPTIONS BY PHARMACISTS, and the bill was enrolled for ratification.
-Current…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.4431, a bill to enact the “SOUTH CAROLINA BUSINESS LICENSE TAX STANDARDIZATION ACT” as a means of: reducing the complexity of…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.3197, the “STUDENT LOAN BILL OF RIGHTS ACT”, which establishes consumer protection measures for those who obtain loans to finance postsecondary…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.4940, a joint resolution creating a temporary ELECTRICITY MARKET REFORM MEASURES STUDY COMMITTEE to examine whether the legislature should adopt market…
-Read More
-The House of Representatives and the Senate adopted the conference committee report on H.3357 and the bill was enrolled for ratification.
-The legislation allows for a HEARING IMPAIRMENT NOTATION ON A MOTOR VEHICLE…
-Read More
-The House of Representatives amended, approved, and sent the Senate H.4760, a bill revising the STUDENT ASSESSMENTS that are administered in the state’s public schools as a means of: ensuring that…
-Read More
+Read More The State Capitol Report – 3/15/2019 Kambrell Garvin March 21, 2019 Comments Off on The State Capitol Report – 3/15/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4000, the General Appropriation Bill, and H.4001, the joint resolution making appropriations from the Capital Reserve Fund, which together comprise… Read More The State Capitol Report – 3/8/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 3/8/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3759, the “SOUTH CAROLINA EDUCATION, CAREER OPPORTUNITY, AND ACCESS FOR ALL ACT”.
+The legislation makes comprehensive revisions that are offered… Read More Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Kambrell Garvin April 16, 2020 Comments Off on Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Uncategorized Over the past several weeks our state has been forced to grapple with the novel coronavirus pandemic.
+This contagion has exposed the glaring gaps in health care access within South… Read More Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Kambrell Garvin April 16, 2020 Comments Off on Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Uncategorized Read More Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County Kambrell Garvin April 14, 2020 Comments Off on Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County Uncategorized Read More The State Capitol Report – 3/13/2020 Kambrell Garvin March 17, 2020 Comments Off on The State Capitol Report – 3/13/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.5201, the General Appropriation Bill, and H.5202, the joint resolution making appropriations from the Capital Reserve Fund, which together comprise the FISCAL… Read More The State Capitol Report – 3/6/2020 Kambrell Garvin March 17, 2020 Comments Off on The State Capitol Report – 3/6/2020 Uncategorized The House of Representatives and the Senate adopted the conference committee report on S.16, legislation that relates to EMERGENCY REFILLS OF PRESCRIPTIONS BY PHARMACISTS, and the bill was enrolled for ratification.
+Current… Read More The State Capitol Report – 2/28/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/28/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4431, a bill to enact the “SOUTH CAROLINA BUSINESS LICENSE TAX STANDARDIZATION ACT” as a means of: reducing the complexity of… Read More The State Capitol Report – 2/21/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/21/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3197, the “STUDENT LOAN BILL OF RIGHTS ACT”, which establishes consumer protection measures for those who obtain loans to finance postsecondary… Read More The State Capitol Report – 2/14/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/14/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4940, a joint resolution creating a temporary ELECTRICITY MARKET REFORM MEASURES STUDY COMMITTEE to examine whether the legislature should adopt market… Read More The State Capitol Report – 2/7/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/7/2020 Uncategorized The House of Representatives and the Senate adopted the conference committee report on H.3357 and the bill was enrolled for ratification.
+The legislation allows for a HEARING IMPAIRMENT NOTATION ON A MOTOR VEHICLE… Read More The State Capitol Report – 1/31/2020 Kambrell Garvin February 1, 2020 Comments Off on The State Capitol Report – 1/31/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4760, a bill revising the STUDENT ASSESSMENTS that are administered in the state’s public schools as a means of: ensuring that… Read More Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020 Posts pagination Page 1 Page 2 Page 3

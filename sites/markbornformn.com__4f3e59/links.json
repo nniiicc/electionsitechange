@@ -1,16 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://markbornformn.com/",
-"https://markbornformn.com/contact-2",
-"https://markbornformn.com/contribute",
-"https://markbornformn.com/contribute?amount=100",
-"https://markbornformn.com/contribute?amount=1000",
-"https://markbornformn.com/contribute?amount=25",
-"https://markbornformn.com/contribute?amount=250",
-"https://markbornformn.com/contribute?amount=50",
-"https://markbornformn.com/contribute?amount=500",
-"https://markbornformn.com/contribute?amount=75",
-"https://markbornformn.com/home",
-"https://markbornformn.com/meet_mark",
-"https://markbornformn.com/volunteer"
+{
+"text": "$#",
+"href": "https://markbornformn.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://markbornformn.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://markbornformn.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://markbornformn.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://markbornformn.com/contribute?amount=500"
+},
+{
+"text": "$#",
+"href": "https://markbornformn.com/contribute?amount=75"
+},
+{
+"text": "$1000",
+"href": "https://markbornformn.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://markbornformn.com/contact-2"
+},
+{
+"text": "Contribute",
+"href": "https://markbornformn.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://markbornformn.com/home"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://markbornformn.com/volunteer"
+},
+{
+"text": "Meet Mark",
+"href": "https://markbornformn.com/meet_mark"
+},
+{
+"text": "Other",
+"href": "https://markbornformn.com/contribute"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://markbornformn.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://markbornformn.com/volunteer"
+},
+{
+"text": "[image: Mark Born for House of Representatives in District 66A]",
+"href": "https://markbornformn.com/"
+}
 ]

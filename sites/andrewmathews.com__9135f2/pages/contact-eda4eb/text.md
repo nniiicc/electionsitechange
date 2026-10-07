@@ -1,7 +1,3 @@
-Stay in touch with Andrew!
+Skip to content Search for: Andrew’s Issues Contact Andrew Donate Contact Andrew josh 2022-10-01T19:38:26+00:00 Stay in touch with Andrew!
 Get on the email list to be notified of upcoming events, news, and announcements.
-Email: andrewmathewsforsenate@gmail.com
-Phone: 763-482-1393
-Address: 8565 85th Ave., Milaca MN 56353
-Facebook: www.facebook.com/AndrewforSenate
-Twitter: twitter.com/AndrewMathewsMN
+First Name Last Name Email address: Leave this field empty if you're human: Email: andrewmathewsforsenate@gmail.com Phone: 763-482-1393 Address: 8565 85th Ave., Milaca MN 56353 Facebook: www.facebook.com/AndrewforSenate Twitter: twitter.com/AndrewMathewsMN Like My Facebook Page Like My Facebook Page Follow me on Twitter My Tweets © Copyright | Prepared and Paid for by Andrew for Senate PO Box 193, Princeton, MN 55371 Facebook X Page load link Go to Top

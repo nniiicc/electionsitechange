@@ -1,13 +1,4 @@
-Endorsements
-Community Members
-State Senator Kim Thatcher
-State Representative Kevin Mannix
-Marion County Commissioner Danielle Bethell
-Marion County District Attorney Paige Clarkson
-Marion County Sheriff Nick Hunter
-Salem-Keizer School Board Director Krissy Hudson
-Betsy Vega, Salem Business Owner
-Santiago Puente, Woodburn Resident
-Olivia Nava, Woodburn teacher
-Rosie Burkoff, Woodburn Resident
-Taras Sarapin, Salem Business Owner
+0 Skip to Content Home Priorities Endorsements Volunteer SD 11 Map Contact English Donate!
+Open Menu Close Menu Home Priorities Endorsements Volunteer SD 11 Map Contact English Donate!
+Open Menu Close Menu Home Priorities Endorsements Volunteer SD 11 Map Contact English Back Donate!
+Endorsements Endorse Tracy Community Members State Senator Kim Thatcher State Representative Kevin Mannix Marion County Commissioner Danielle Bethell Marion County District Attorney Paige Clarkson Marion County Sheriff Nick Hunter Salem-Keizer School Board Director Krissy Hudson Betsy Vega, Salem Business Owner Santiago Puente , Woodburn Resident Olivia Nava , Woodburn teacher Rosie Burkoff , Woodburn Resident Taras Sarapin , Salem Business Owner Organizations View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Home | Priorities | Volunteer | SD 11 Map | Contact | Privacy Policy | Donate Paid for by Tracy Cramer PAC © #

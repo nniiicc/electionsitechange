@@ -1,7 +1,3 @@
-I would love to meet you for coffee or stop by your home or place of business.
-email: kingstonjvt@gmail.com
-phone or text: (802) 734-1826
-Copyright © 2026, John Kingston for State Representative
-All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative John Kingston for Vermont State Representative Home About Endorsements/Testimonials Positions Media Contact Me More Home About Endorsements/Testimonials Positions Media Contact Me Home About Endorsements/Testimonials Positions Media Contact Me Contact John Send a note Name* Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Better yet, reach out in person!
+I would love to meet you for coffee or stop by your home or place of business. email: kingstonjvt@gmail.com phone or text: (802) 734-1826 John Kingston for State Representative Copyright © #, John Kingston for State Representative All Rights Reserved.

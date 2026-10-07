@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.markwarnerva.com/about/",
+ "fingerprint": "32c64f6488688e364333217724aa2ef2596b829b",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Mark Warner",
  "title": "About - Mark Warner",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001",
+  "2021"
+ ]
 }

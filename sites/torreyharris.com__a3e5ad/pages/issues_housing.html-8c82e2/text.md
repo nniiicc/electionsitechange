@@ -1,10 +1,17 @@
-Memphis and Shelby County are living through a serious housing crisis.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate Why I'm Running Photos & Memories About Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← All Issues Where I Stand · 04 Housing Memphis and Shelby County are living through a serious housing crisis.
 Out-of-state investors are buying up affordable homes across our community, inflating rents, and pushing working- and middle-class families out of the neighborhoods they built.
 You deserve a home you can afford.
 In Nashville, I fight to crack down on predatory practices, help first-time buyers get and keep their homes, and protect renters from abuse.
-What I'm Fighting For
-- Invest state dollars in affordable housing through the Tennessee Housing Development Agency and expand down payment assistance for first-time homebuyers.
-- Crack down on corporate and out-of-state landlords buying up single-family homes across Shelby County and squeezing our families out.
-- Protect renters with stronger eviction protections and enforcement against housing discrimination, and roll back the state preemption laws that tie the hands of local governments trying to help.
-- Keep homeowners in their homes.
+What I'm Fighting For Invest state dollars in affordable housing through the Tennessee Housing Development Agency and expand down payment assistance for first-time homebuyers.
+Crack down on corporate and out-of-state landlords buying up single-family homes across Shelby County and squeezing our families out.
+Protect renters with stronger eviction protections and enforcement against housing discrimination, and roll back the state preemption laws that tie the hands of local governments trying to help.
+Keep homeowners in their homes.
 I passed property tax relief for our oldest homeowners (Public Chapter 1063, for homeowners 80 and older), and I’ll keep fighting to expand relief so seniors and working families aren’t taxed out of the homes they’ve lived in for decades.
+Previous ← Education Next Family & Children → The Issues Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Technology & Innovation Reproductive Freedom LGBTQ+ Rights Immigration Free & Fair Elections Gun Violence Stand With Torrey Grassroots support keeps this fight going.
+Donate Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

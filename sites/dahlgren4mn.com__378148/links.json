@@ -1,6 +1,22 @@
 [
-"https://dahlgren4mn.com/",
-"https://dahlgren4mn.com/cart",
-"https://dahlgren4mn.com/overview",
-"https://secure.actblue.com/donate/emily-dahlgren-1"
+{
+"text": "0",
+"href": "https://dahlgren4mn.com/cart"
+},
+{
+"text": "About",
+"href": "https://dahlgren4mn.com/overview"
+},
+{
+"text": "Contact Me",
+"href": "mailto:Dahlgren4MN@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emily-dahlgren-1"
+},
+{
+"text": "Emily Dahlgren for MN House 29A",
+"href": "https://dahlgren4mn.com/"
+}
 ]

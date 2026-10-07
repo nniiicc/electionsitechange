@@ -1,4 +1,6 @@
 Less Government, More Freedom!
-Jimmy Gordon For House - Volunteer
-NOTE: By providing your phone number you are consenting to receive calls and reoccurring SMS/MMS messages including autodial and automated dial and txt to that number from the Jimmy for House campaign.
-View terms and conditions at https://www.jimmyforhouse.com/mobile-terms-and-conditions/
+Home About Jimmy My Principles Yard Sign Volunteer Contact Donate Early voting starts September 18th!
+Find My Polling Location Jimmy Gordon For House - Volunteer * First Name: * Last Name: * Address: * City: * State: * Zip: * Email: * Phone: Questions/Comments: I am interested in Volunteering Are you interested in a yard sign?
+Choose One > Yes No * Spam Control: For spam control purposes, type the following characters in the box below: 75839 NOTE: By providing your phone number you are consenting to receive calls and reoccurring SMS/MMS messages including autodial and automated dial and txt to that number from the Jimmy for House campaign.
+View terms and conditions at https://www.jimmyforhouse.com/mobile-terms-and-conditions/ Editable Region Save Details Cancel/Close Cancel/Close Contact Details Jimmy Gordon For House PO Box 185 Isanti, MN 55040 [email protected] 763-587-5633 Quick Links About Jimmy Contact Info Terms of Use Privacy Policy Accessibility Statement Mobile Terms and Conditions Copyright: # - # Prepared and Paid For by the Jimmy Gordon For House Campaign.
+Please ensure Javascript is enabled for purposes of website accessibility Type your search into the box below Cancel/Close Window

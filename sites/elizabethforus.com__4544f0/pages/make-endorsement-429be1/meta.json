@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.elizabethforus.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "47ac852571f5e5b6bb9873810d27b1abb79f4e14",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

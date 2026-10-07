@@ -1,4 +1,4 @@
-[March 04, 2021] | I haven't written about it a lot in these articles, but work on next year's budget is moving right along.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ March 04, 2021 ] | I haven't written about it a lot in these articles, but work on next year's budget is moving right along.
 The committee chairmen who work on the budget focus almost entirely on this for weeks, and the committee members of these subcommittees work alongside the Chairman making sure we are spending your money wisely and carefully for Georgians.
 I can't tell you how many hours go into the work to create a budget to meet the needs of Georgians, but it is a lot.
 On Friday we voted on our version of the 2022 budget.
@@ -21,3 +21,4 @@ It you have a question on this or any of the bills you may have heard about, let
 I greatly appreciate any feedback I receive from my constituents, and I welcome you to contact my office for questions or concerns about the legislative session.
 My Capitol office number is 404-656-7153, my home 770-893-2039, and my email address is rick.jasperse@house.ga.gov.
 Please contact me anytime.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

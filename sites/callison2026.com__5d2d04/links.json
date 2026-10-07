@@ -1,35 +1,190 @@
 [
-"https://callison2026.com/",
-"https://callison2026.com/about",
-"https://callison2026.com/blog-page",
-"https://callison2026.com/cdn-cgi/l/email-protection",
-"https://callison2026.com/contacts",
-"https://callison2026.com/district",
-"https://callison2026.com/donations-page",
-"https://callison2026.com/event/campaign-kickoff-rally",
-"https://callison2026.com/event/environmental-action-day",
-"https://callison2026.com/event/justice-equity-listening-session",
-"https://callison2026.com/events-page",
-"https://callison2026.com/events/category/community-engagement",
-"https://callison2026.com/events/category/volunteer-campaign-activities",
-"https://callison2026.com/issues",
-"https://callison2026.com/our-projects",
-"https://callison2026.com/shop",
-"https://callison2026.com/sign-me-up",
-"https://callison2026.com/survey",
-"https://callison2026.com/wp-content/uploads/2025/08/Army-Buddies-McPherson-Pena-and-Lewis.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Army-Wolfe-pack-picture.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Army-in-front-of-the-launcher-dawg-house.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Graduation-picture-with-Julia-scaled.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Jenny-on-electric-skateboard-10th-street.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Jenny-with-Poppy-the-CA-State-Fair-Bear.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Jenny-with-shotgun-scaled.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Junior-Giants-orange.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Junior-Giants-white.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Junior-Giants-yellow.jpg",
-"https://callison2026.com/wp-content/uploads/2025/08/Young-Jenny-at-Recital-scaled.jpg",
-"https://callison2026.com/wp-content/uploads/2025/09/Roller-Derby-Game-Day-selfie-scaled.jpg",
-"https://callison2026.com/wp-content/uploads/2025/09/Untitled-design-44.png",
-"https://callison2026.com/wp-content/uploads/2025/09/Untitled-design-45.png",
-"https://secure.anedot.com/callison-for-assembly-2026/donate"
+{
+"text": "About",
+"href": "https://callison2026.com/about/"
+},
+{
+"text": "About me",
+"href": "https://callison2026.com/about/"
+},
+{
+"text": "Campaign Kickoff Rally",
+"href": "https://callison2026.com/event/campaign-kickoff-rally/"
+},
+{
+"text": "Community Engagement",
+"href": "https://callison2026.com/events/category/community-engagement/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/callison-for-assembly-2026/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/callison-for-assembly-2026/donate"
+},
+{
+"text": "District",
+"href": "https://callison2026.com/district/"
+},
+{
+"text": "Environmental Action Day",
+"href": "https://callison2026.com/event/environmental-action-day/"
+},
+{
+"text": "Home",
+"href": "https://callison2026.com/"
+},
+{
+"text": "Join the campaign",
+"href": "https://callison2026.com/contacts/"
+},
+{
+"text": "Justice & Equity Listening Session",
+"href": "https://callison2026.com/event/justice-equity-listening-session/"
+},
+{
+"text": "Sign Me Up",
+"href": "https://callison2026.com/sign-me-up/"
+},
+{
+"text": "Survey",
+"href": "https://callison2026.com/survey/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://callison2026.com/sign-me-up/"
+},
+{
+"text": "Volunteer & Campaign Activities",
+"href": "https://callison2026.com/events/category/volunteer-campaign-activities/"
+},
+{
+"text": "[email protected]",
+"href": "https://callison2026.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:example@example.com"
+},
+{
+"text": "[image: Jenny Leilani Callison][image: Jenny Leilani Callison]",
+"href": "https://callison2026.com"
+},
+{
+"text": "[image][image]",
+"href": "https://callison2026.com/event/campaign-kickoff-rally/"
+},
+{
+"text": "[image][image]",
+"href": "https://callison2026.com/event/environmental-action-day/"
+},
+{
+"text": "[image][image]",
+"href": "https://callison2026.com/event/justice-equity-listening-session/"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Army-Buddies-McPherson-Pena-and-Lewis.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Army-Wolfe-pack-picture.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Army-in-front-of-the-launcher-dawg-house.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Graduation-picture-with-Julia-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Jenny-on-electric-skateboard-10th-street.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Jenny-with-Poppy-the-CA-State-Fair-Bear.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Jenny-with-shotgun-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Junior-Giants-orange.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Junior-Giants-white.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Junior-Giants-yellow.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/08/Young-Jenny-at-Recital-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/09/Roller-Derby-Game-Day-selfie-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/09/Untitled-design-44.png"
+},
+{
+"text": "[no text]",
+"href": "https://callison2026.com/wp-content/uploads/2025/09/Untitled-design-45.png"
+},
+{
+"text": "all issues",
+"href": "https://callison2026.com/issues/"
+},
+{
+"text": "all projects",
+"href": "https://callison2026.com/our-projects/"
+},
+{
+"text": "contact for more",
+"href": "https://callison2026.com/sign-me-up/"
+},
+{
+"text": "donate In-Person",
+"href": "https://callison2026.com/events-page/"
+},
+{
+"text": "donate online",
+"href": "https://callison2026.com/donations-page/"
+},
+{
+"text": "make a donation",
+"href": "https://callison2026.com/donations-page/"
+},
+{
+"text": "to the shop",
+"href": "https://callison2026.com/shop/"
+},
+{
+"text": "view all events",
+"href": "https://callison2026.com/events-page/"
+},
+{
+"text": "view all posts",
+"href": "https://callison2026.com/blog-page/"
+},
+{
+"text": "view details",
+"href": "https://callison2026.com/event/campaign-kickoff-rally/"
+},
+{
+"text": "view details",
+"href": "https://callison2026.com/event/environmental-action-day/"
+},
+{
+"text": "view details",
+"href": "https://callison2026.com/event/justice-equity-listening-session/"
+}
 ]

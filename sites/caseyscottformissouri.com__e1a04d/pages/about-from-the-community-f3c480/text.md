@@ -1,24 +1,12 @@
-From the Community
-Community members who believe in Casey’s mission
-What District 2 is Saying
-“Huge fan and supporter of everything you are doing… I live in Trenton, Missouri and would love to vote for you on my ballot.”
-— Melodie, Trenton Resident
-“Casey, I follow you on FB so I know where you stand on the issues - I agree with you and appreciate you running to make our rural area a better place for all of us.
-Wishing you the very best.”
-— Marie Sue, Trenton Resident
-“It was nice to meet you yesterday.
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate From the Community Community members who believe in Casey’s mission “ I’m messaging you just to tell you how amazing I think you are for running!
+Like, a true God send!
+Also, THANK YOU for advocating for education and healthcare… thank you for CLEARLY stating how you stand and supporting those communities.
+I get to wake up everyday knowing I’ll get to vote for someone I morally stand beside.
+As a teacher at a VERY rural school, you are changing our lives. ” — Tristan, District 2 Resident What District 2 is Saying “Huge fan and supporter of everything you are doing… I live in Trenton, Missouri and would love to vote for you on my ballot.” — Melodie, Trenton Resident “Casey, I follow you on FB so I know where you stand on the issues - I agree with you and appreciate you running to make our rural area a better place for all of us.
+Wishing you the very best.” — Marie Sue, Trenton Resident “It was nice to meet you yesterday.
 Taking on the responsibility of stepping up for your constituents is greatly appreciated.
-It will take a great deal of strength and courage over the next few months, but please know you have our support.”
-— Anonymous, District 2 Resident “So excited that you are running.
-We are pulling for you!”
-— Jill, Brimson Resident
-What Missouri is Saying
-“So proud to have democratic woman running!”
-— Anonymous, Missouri Resident
-“Thank you for running as a Democrat here in Missouri–I Truly admire your courage and commitment.
-I’ll be cheering you on!”
-— Zoe, Missouri Resident
-“Thank you for stepping up to the plate and running for State Rep.”
-— Mia, Missouri Resident
-Have something to share?
+It will take a great deal of strength and courage over the next few months, but please know you have our support.” — Anonymous, District 2 Resident “So excited that you are running.
+We are pulling for you!” — Jill, Brimson Resident What Missouri is Saying “So proud to have democratic woman running!” — Anonymous, Missouri Resident “Thank you for running as a Democrat here in Missouri–I Truly admire your courage and commitment.
+I’ll be cheering you on!” — Zoe, Missouri Resident “Thank you for stepping up to the plate and running for State Rep.” — Mia, Missouri Resident Have something to share?
 Send Casey a message and your story may be featured here.
+Send a message Casey Scott For Missouri caseyscottformissouri@gmail.com

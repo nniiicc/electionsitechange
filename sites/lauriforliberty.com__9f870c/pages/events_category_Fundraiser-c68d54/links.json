@@ -1,23 +1,98 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=Tasting+Liberty&dates=20251020T230000Z%2F20251021T003000Z&location=6964+West+Whiteland+Road%2C+Bargersville%2C+IN%2C+46106%2C+United+States",
-"http://maps.google.com/?q=6964+West+Whiteland+Road+Bargersville%2C+IN%2C+46106+United+States",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/tasting-liberty",
-"https://lauriforliberty.com/events/tasting-liberty?format=ical",
-"https://lauriforliberty.com/events?category=Fundraiser",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://mallowrun.com/",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6964+west+whiteland+road+bargersville%2C+in%2C+46106+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Fundraiser",
+"href": "https://www.lauriforliberty.com/events?category=Fundraiser"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tasting+Liberty&dates=20251020T230000Z%2F20251021T003000Z&location=6964+West+Whiteland+Road%2C+Bargersville%2C+IN%2C+46106%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Mallow Run Winery",
+"href": "https://www.mallowrun.com/"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Tasting Liberty",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "View Event →",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[image: Tasting Liberty]",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+}
 ]

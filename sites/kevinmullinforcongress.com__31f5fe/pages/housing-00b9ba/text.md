@@ -1,6 +1,4 @@
-Kevin's Priorities
-Lowering the Cost of Housing
-The federal government has largely left the playing field when it comes to lowering the cost of housing.
+top of page Home Meet Kevin Current Updates State of Play: 2026 Kevin's Recent Activity State of Play: 2026 Kevin's Recent Activity Priorities Combatting Authoritarianism Fighting For Our Democracy Making Healthcare More Affordable Lowering the Cost of Housing Fighting for Climate Action Protecting Reproductive Rights Fiscal Responsibility & Fair Tax Policy Combatting Authoritarianism Fighting For Our Democracy Making Healthcare More Affordable Lowering the Cost of Housing Fighting for Climate Action Protecting Reproductive Rights Fiscal Responsibility & Fair Tax Policy Accomplishments Legislation Delivering For CA-15 Legislation Delivering For CA-15 Endorsements Menu Close SIGN UP DONATE Kevin's Priorities Lowering the Cost of Housing The federal government has largely left the playing field when it comes to lowering the cost of housing.
 Kevin is a proud member of the Congressional YIMBY Caucus, and will continue to advocate for federal funds that would help CA-15 build more housing and lower costs that drive housing prices up.
 Overcoming America’s housing shortage is possible.
 But building the 4.9 million homes that the housing market currently needs to meet demands will take bold leadership.
@@ -13,3 +11,5 @@ Extreme weather, like the atmospheric rivers that wrecked havoc on San Mateo Cou
 These environmental challenges are increasingly putting people at risk of losing their homes and property to extreme weather.
 As a solution, Kevin introduced the WRAP Act during his first year in Congress.
 This bill would provide federal assistance to low-income homeowners and affordable housing providers to make changes to their homes and property, making them less vulnerable to climate-driven natural disasters.
+Join the Fight First name * Last name * Email * Phone Street Address City State Zip Code Host and event Request a call Request a yard sign Sign up to stay connected Submit Paid for by Kevin Mullin for Congress.
+PO Box 869 Belmont, CA 94002 Home Meet Kevin Current Updates State of Play: 2026 Kevin's Recent Activity Priorities Combatting Authoritarianism Fighting For Our Democracy Making Healthcare More Affordable Lowering the Cost of Housing Fighting for Climate Action Protecting Reproductive Rights Fiscal Responsibility & Fair Tax Policy Accomplishments Legislation Delivering For CA-15 Endorsements bottom of page

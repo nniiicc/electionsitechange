@@ -1,5 +1,4 @@
-A Strong Voice for Kansas Families in the Legislature
-When we do what’s right for our children, we do what’s right for our state.
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE A Strong Voice for Kansas Families in the Legislature Blog May 28 Written By Suzanne Wikle When we do what’s right for our children, we do what’s right for our state.
 That’s why we need more parents in the legislature who understand the challenges facing Kansas families.
 I will bring this perspective to the Kansas legislature if elected to represent District 10.
 I know how much it costs to feed a family of four, how quickly kids outgrow their clothes and shoes, and how the high cost of child care creates impossible decisions for families.
@@ -21,3 +20,6 @@ With over 17 years of experience advocating for policies to advance health, econ
 My greatest qualification, however, isn’t my years of professional experience.
 Rather, it’s my perspective as a mom who manages our family's bills and sees the great work of the teachers at my kids’ schools.
 If elected to represent District 10 I will be a steadfast champion for policies that strengthen our community by improving families’ economic security and placing children at the center of decisions.
+Blog Suzanne Wikle Previous Previous Representative Suzanne Wikle Kicks Off Re-Election Campaign for House District 10 Next Next New legislation will allow providers to administer drug used to reverse opioid overdoses past its expiration date Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

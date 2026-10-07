@@ -1,5 +1,4 @@
-SNAPSHOT: Volunteering at Glens Falls Salvation Army
-nate1457
-Nov 28, 2021
-Congresswoman Elise Stefanik (R-Schuylerville) joined State Senator Dan Stec and Assemblyman Matt Simpson earlier this week in volunteering at the Glens Falls Salvation Army passing out Thanksgiving boxes to North Country families.
-Read the full article here:
+top of page DONATE SENATOR DAN STEC Home About Dan Contact More Use tab to navigate through the menu items.
+All Posts Search SNAPSHOT: Volunteering at Glens Falls Salvation Army nate1457 Nov 28, 2021 1 min read Congresswoman Elise Stefanik (R-Schuylerville) joined State Senator Dan Stec and Assemblyman Matt Simpson earlier this week in volunteering at the Glens Falls Salvation Army passing out Thanksgiving boxes to North Country families.
+Read the full article here: SNAPSHOT: Volunteering at Glens Falls Salvation Army – Saratogian Recent Posts See All Stec outlines priorities ahead of 2022 session Stec talks prison closures, reforms Calls for Cuomo's impeachment revive following Assembly report STEC FOR SENATE PO Box 4668 Queensbury, NY 12804 (518) 531-6054 stecforsenate@gmail.com Connect with DAN SUBSCRIBE Join Thanks for submitting!
+Thank you for visiting my website. © # STEC FOR SENATE -- PAID FOR BY NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

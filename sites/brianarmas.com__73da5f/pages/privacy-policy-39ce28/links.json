@@ -1,6 +1,22 @@
 [
-"https://brianarmas.com/",
-"https://brianarmas.com/193-2",
-"https://brianarmas.com/privacy-policy",
-"https://secure.winred.com/armas-for-arkansas/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/armas-for-arkansas/donate-today"
+},
+{
+"text": "Home",
+"href": "https://brianarmas.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brianarmas.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://brianarmas.com/193-2/"
+},
+{
+"text": "[image: Brian Armas]",
+"href": "https://brianarmas.com/"
+}
 ]

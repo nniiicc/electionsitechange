@@ -1,12 +1,12 @@
-Vehicle manufacturers are trying to stop H.R.1566 and make vehicle maintenance information proprietary (ie: not available to the public).
+Skip to content Skip to sidebar Skip to footer Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Donate Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Donate Home About Ask David Virtual Rally Volunteer Events Voter Resources H.R.1566 Right to Equitqable and Professional Auto Industry Repair Act January 20, 2026 0 Comments Vehicle manufacturers are trying to stop H.R.1566 and make vehicle maintenance information proprietary (ie: not available to the public).
 Is your vehicle yours?
-Do…
-According to ChatGPT, there have been over9000 Bills filed* in the House of Representatives in 119th Congress of The United States Of America as…
-Introduced in House 10/21/2025 by Representative Jodey Arrington (D-NJ8)
-As the Republican Candidate for a mostly Rural and partly Urban District, I find this…
-This is the Bill that caused "The Great Schumer Government Shut Down of 2025."
-It is long and boring, and it references a lot of…
-Introduced in House 1/31/2025 by Representative Jodey Arrington (R-TX19)
-To amend title XVIII of the Social Security Act to provide for Medicare coverage of multi-cancer…
-Introduced in House 9/23/2025 by your current OR CD6 Representative - Andrea Salinas
-As of September 26, 2025 this bill has no published text.…
+Do… Voter Resources Bad Congressional Bills?
+January 20, 2026 0 Comments According to ChatGPT, there have been over9000 Bills filed* in the House of Representatives in 119th Congress of The United States Of America as… Voter Resources H.R.
+5804 – Providing Robust Organics and Diets for Urban Communities Everywhere Act November 14, 2025 0 Comments Introduced in House 10/21/2025 by Representative Jodey Arrington (D-NJ8) As the Republican Candidate for a mostly Rural and partly Urban District, I find this… Voter Resources H.R.
+5371 – Continuing Appropriations and Extensions Act, 2026 October 17, 2025 0 Comments This is the Bill that caused "The Great Schumer Government Shut Down of 2025." It is long and boring, and it references a lot of… Voter Resources H.R.
+842 – Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act October 1, 2025 0 Comments Introduced in House 1/31/2025 by Representative Jodey Arrington (R-TX19) To amend title XVIII of the Social Security Act to provide for Medicare coverage of multi-cancer… Voter Resources H.R.
+5557 – To amend the Public Health Service Act… September 26, 2025 0 Comments Introduced in House 9/23/2025 by your current OR CD6 Representative - Andrea Salinas As of September 26, 2025 this bill has no published text.… Posts pagination Page 1 Page 2 Page 3 > Table of Contents Recent Posts Uncategorized Andrea Salinas Congressional Record October 1, 2026 Uncategorized, Civic Participation, Electoral Education, Government Policy, Political Analysis Willamette Week 9/29/26 September 29, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
+Paid for by David Russ Is For US.
+Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.
+Site Managed by David Russ

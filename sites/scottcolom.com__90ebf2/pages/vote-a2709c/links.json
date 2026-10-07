@@ -1,22 +1,98 @@
 [
-"https://facebook.com/ColomForSenate",
-"https://instagram.com/scott_colom?hl=en",
-"https://msegov.com/sos/voter_registration/amiregistered/Search",
-"https://myelectionday.sos.state.ms.us/VoterOutreach/Pages/VOSearch.aspx",
-"https://sbdigital.com/",
-"https://scottcolom.com/",
-"https://scottcolom.com/cdn-cgi/l/email-protection",
-"https://scottcolom.com/endorsements",
-"https://scottcolom.com/jobs",
-"https://scottcolom.com/latest",
-"https://scottcolom.com/media",
-"https://scottcolom.com/privacy-policy",
-"https://scottcolom.com/terms-of-service",
-"https://scottcolom.com/volunteer",
-"https://scottcolom.com/vote",
-"https://secure.actblue.com/donate/sbd-sc-fr-web",
-"https://sos.ms.gov/sites/default/files/elections/Mail-in%20Voter%20Registration%20Application.pdf",
-"https://store.scottcolom.com/",
-"https://tiktok.com/@scott.colom",
-"https://x.com/scott_colom?s=11&t=n6jFsMnxC2Y_uDLfw3Wxyw"
+{
+"text": "Contact Us",
+"href": "mailto:info@scottcolom.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sbd-sc-fr-web"
+},
+{
+"text": "Endorsements",
+"href": "https://scottcolom.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ColomForSenate/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://myelectionday.sos.state.ms.us/VoterOutreach/Pages/VOSearch.aspx"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scott_colom/?hl=en"
+},
+{
+"text": "Jobs",
+"href": "https://scottcolom.com/jobs/"
+},
+{
+"text": "Mail-In Ballot Application",
+"href": "https://www.sos.ms.gov/sites/default/files/elections/Mail-in%20Voter%20Registration%20Application.pdf"
+},
+{
+"text": "Media",
+"href": "https://scottcolom.com/media/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@scottcolom.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scottcolom.com/privacy-policy/"
+},
+{
+"text": "Privacy policy.",
+"href": "https://scottcolom.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.scottcolom.com"
+},
+{
+"text": "Terms of Service",
+"href": "https://scottcolom.com/terms-of-service/"
+},
+{
+"text": "The Latest",
+"href": "https://scottcolom.com/latest/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@scott.colom"
+},
+{
+"text": "Verify Voter Registration",
+"href": "https://www.msegov.com/sos/voter_registration/amiregistered/Search"
+},
+{
+"text": "Volunteer",
+"href": "https://scottcolom.com/volunteer/"
+},
+{
+"text": "Voting Information",
+"href": "https://scottcolom.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/scott_colom?s=11&t=n6jFsMnxC2Y_uDLfw3Wxyw"
+},
+{
+"text": "[image: Website by SBDigital, sbdigital.com]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[image]",
+"href": "https://scottcolom.com"
+},
+{
+"text": "making a contribution",
+"href": "https://secure.actblue.com/donate/sbd-sc-fr-web"
+},
+{
+"text": "signing up to volunteer",
+"href": "https://scottcolom.com/volunteer/"
+}
 ]

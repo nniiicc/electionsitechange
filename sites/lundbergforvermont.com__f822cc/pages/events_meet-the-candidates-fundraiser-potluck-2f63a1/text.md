@@ -1,11 +1,2 @@
-Back to All Events
-All Souls Church, 29 South St., Brattleboro, VT
-Meet Chris Lundberg, other Windham County Democratic House and Senate candidates, and statewide Democratic candidates, including gubernatorial candidate Amanda Janoo.
-Hosted by the Windham County Democratic Committee
-Previous
-Previous
-August 11
-VERMONT PRIMARY ELECTION
-Next
-Next
-September 18
+0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Back to All Events Meet the Candidates: Fundraiser & Potluck (Brattleboro) Thursday, September 17, 2026 5:00 PM 6:30 PM Google Calendar ICS All Souls Church, 29 South St., Brattleboro, VT Meet Chris Lundberg, other Windham County Democratic House and Senate candidates, and statewide Democratic candidates, including gubernatorial candidate Amanda Janoo.
+Hosted by the Windham County Democratic Committee Buy tickets Previous Previous August 11 VERMONT PRIMARY ELECTION Next Next September 18 Meet & Greet & Walk with Amanda (Bellows Falls) CHRIS LUNDBERG For Vermont House of Representatives Windham-3 (Rockingham, Westminster, & Brookline) Donate Contact Paid for by Chris Lundberg for State Representative, 19 Prospect St., Bellows Falls, VT 05101

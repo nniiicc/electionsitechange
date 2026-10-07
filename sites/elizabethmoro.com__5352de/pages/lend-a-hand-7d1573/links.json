@@ -1,18 +1,66 @@
 [
-"https://elizabethmoro.com/",
-"https://elizabethmoro.com/endorsements",
-"https://elizabethmoro.com/issues",
-"https://elizabethmoro.com/join",
-"https://elizabethmoro.com/lend-a-hand",
-"https://elizabethmoro.com/meet-elizabeth",
-"https://elizabethmoro.com/mobile-terms-and-conditions",
-"https://elizabethmoro.com/press",
-"https://elizabethmoro.com/privacy-policy",
-"https://elizabethmoro.com/vote",
-"https://facebook.com/ElizabethMoroForPA160",
-"https://feedingamerica.org/hunger-blog/what-donate-food-bank-and-what-avoid",
-"https://foodpantriesnear.me/",
-"https://instagram.com/ElizabethMoroForPA160",
-"https://secure.actblue.com/donate/elizabethmoroforpa160",
-"https://tiktok.com/@elizabethmoroforpa160"
+{
+"text": "Be Active",
+"href": "https://elizabethmoro.com/join/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elizabethmoroforpa160"
+},
+{
+"text": "Endorsements",
+"href": "https://elizabethmoro.com/endorsements/"
+},
+{
+"text": "Feeding America’s guide",
+"href": "https://www.feedingamerica.org/hunger-blog/what-donate-food-bank-and-what-avoid"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ElizabethMoroForPA160/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/ElizabethMoroForPA160"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@elizabethmoroforpa160"
+},
+{
+"text": "Issues",
+"href": "https://elizabethmoro.com/issues/"
+},
+{
+"text": "Lend a Hand",
+"href": "https://elizabethmoro.com/lend-a-hand/"
+},
+{
+"text": "Meet Elizabeth",
+"href": "https://elizabethmoro.com/meet-elizabeth/"
+},
+{
+"text": "Mobile Terms",
+"href": "https://elizabethmoro.com/mobile-terms-and-conditions/"
+},
+{
+"text": "Press",
+"href": "https://elizabethmoro.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elizabethmoro.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://elizabethmoro.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/"
+},
+{
+"text": "find your nearest food pantry here",
+"href": "https://www.foodpantriesnear.me/"
+}
 ]

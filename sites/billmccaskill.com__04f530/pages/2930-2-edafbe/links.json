@@ -1,20 +1,82 @@
 [
-"http://billmccaskill.com/",
-"https://billmccaskill.com/",
-"https://billmccaskill.com/author/billmccaskill",
-"https://billmccaskill.com/category/info",
-"https://billmccaskill.com/imunify-bot-check",
-"https://billmccaskill.com/meet-bill",
-"https://billmccaskill.com/priorities",
-"https://billmccaskill.com/register-to-vote",
-"https://billmccaskill.com/volunteer-with-bills-campaign",
-"https://billmccaskill.com/wp-content/uploads/2026/05/dis70-e1778110866751.png",
-"https://facebook.com/BillMcCaskillforNCHouse",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fbillmccaskill.com%2F2930-2%2F",
-"https://follow.it/now",
-"https://randolphcountync.gov/201/Board-of-Elections",
-"https://secure.actblue.com/donate/william-mccaskill-1",
-"https://themeisle.com/",
-"https://x.com/share?url=https%3A%2F%2Fbillmccaskill.com%2F2930-2%2F&text=Where+is+District+70%3F",
-"https://youtube.com/@BillMcCaskillForNCHouse70"
+{
+"text": "Contact",
+"href": "http://billmccaskill.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/william-mccaskill-1"
+},
+{
+"text": "Experience, Integrity, Commitment",
+"href": "https://billmccaskill.com/meet-bill/"
+},
+{
+"text": "Info",
+"href": "https://billmccaskill.com/category/info/"
+},
+{
+"text": "Putting NC First",
+"href": "https://billmccaskill.com/priorities/"
+},
+{
+"text": "Randolph County Board of Elections",
+"href": "https://www.randolphcountync.gov/201/Board-of-Elections"
+},
+{
+"text": "Read more",
+"href": "https://billmccaskill.com/register-to-vote/"
+},
+{
+"text": "Register to Vote",
+"href": "https://billmccaskill.com/register-to-vote/"
+},
+{
+"text": "ThemeIsle",
+"href": "https://themeisle.com"
+},
+{
+"text": "Volunteer",
+"href": "https://billmccaskill.com/volunteer-with-bills-campaign/"
+},
+{
+"text": "[image: Elect Bill McCaskill to NC House District 70]",
+"href": "https://billmccaskill.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BillMcCaskillforNCHouse"
+},
+{
+"text": "[image: Map overlay of NC House District 70]",
+"href": "https://billmccaskill.com/wp-content/uploads/2026/05/dis70-e1778110866751.png"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@BillMcCaskillForNCHouse70"
+},
+{
+"text": "[image]",
+"href": "https://follow.it/now"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbillmccaskill.com%2F2930-2%2F"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/share?url=https%3A%2F%2Fbillmccaskill.com%2F2930-2%2F&text=Where+is+District+70%3F"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Where+is+District+70%3F&body=https%3A%2F%2Fbillmccaskill.com%2F2930-2%2F"
+},
+{
+"text": "billmccaskill",
+"href": "https://billmccaskill.com/author/billmccaskill/"
+},
+{
+"text": "imunify-bot-check",
+"href": "https://billmccaskill.com/imunify-bot-check"
+}
 ]

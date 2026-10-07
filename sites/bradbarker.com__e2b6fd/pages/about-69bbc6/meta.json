@@ -1,7 +1,9 @@
 {
  "description": "Learn more about Representative Brad Barker, his history, and how his experiences have shaped his platform.",
  "final_url": "https://bradbarker.com/about/",
- "paid_for_by": null,
+ "fingerprint": "0f0271ae71b85a41bed2b6527bd704fa34ae7b23",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About - Representative Brad Barker",
  "years_mentioned": [
   "2014",

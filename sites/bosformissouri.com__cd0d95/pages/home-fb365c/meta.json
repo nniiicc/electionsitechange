@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Bradley Bos for State Representative",
  "final_url": "https://www.bosformissouri.com/home",
- "paid_for_by": null,
+ "fingerprint": "1d05306bf469cceadbb1cd55ccb41bfbf30ed697",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bradley Bos for State Representative",
  "years_mentioned": []
 }

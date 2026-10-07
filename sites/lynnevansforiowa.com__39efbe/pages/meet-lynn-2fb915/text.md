@@ -1,4 +1,4 @@
-Lynn Evans is a Republican State Senator representing Iowa’s 3rd Senate District, which includes Buena Vista, Osceola, and O’Brien counties, along with parts of Cherokee and Clay counties.
+HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT More HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT Trusted Leader for Northwest Iowa Lynn Evans is a Republican State Senator representing Iowa’s 3rd Senate District, which includes Buena Vista, Osceola, and O’Brien counties, along with parts of Cherokee and Clay counties.
 A lifelong Iowan and proven public servant, Evans is known for his principled leadership, dedication to education, and unwavering commitment to the conservative values that define rural Iowa.
 Evans was one of the first legislators in the state to endorse President Donald J.
 Trump, standing with the President early and without hesitation.
@@ -14,8 +14,7 @@ Governor Reynolds appointed Evans to represent Iowa on the Education Commission 
 In the Iowa Senate, Evans has consistently championed landowner property rights, education reform, lower taxes, limited government, individual liberty, pro-life initiatives, pro-second amendment legislation and local control.
 Now, he’s taking the fight for true conservative leadership to Des Moines to ensure that the voices of rural Iowans are not only heard but respected.
 Raised in Aurelia, Lynn currently lives in his hometown of Aurelia with his wife, Midge.
-Copyright © 2025-2026 - All Rights Reserved.
+Copyright © #-# - All Rights Reserved.
 Paid for by K.
 Lynn Evans Campaign Committee.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+PRIVACY POLICY PRESS KIT TERMS AND CONDITIONS

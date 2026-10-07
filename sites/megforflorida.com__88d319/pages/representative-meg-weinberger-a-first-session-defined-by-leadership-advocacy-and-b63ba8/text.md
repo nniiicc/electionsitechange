@@ -1,3 +1,4 @@
+Skip to main content Home Platform News & Events Endorsements Press Releases Image and Video Gallery Join Meg Donate Representative Meg Weinberger: A First Session Defined by Leadership, Advocacy, and Community Impact Spread the word!
 Representative Meg Weinberger’s first legislative session has been defined by hands-on leadership, compassionate values, and a clear commitment to serving the people of District 94.
 Upon arriving in Tallahassee, Meg quickly immersed herself in committee work, earning respect for her active engagement and thoughtful contributions.
 She currently serves on the State Affairs Committee, the Civil Justice & Claims Subcommittee, the Education Administration & Choice Subcommittee, the Government Operations Subcommittee, the Agriculture & Natural Resources Appropriations Subcommittee, and the Joint Administrative Procedures Committee.
@@ -8,4 +9,7 @@ These bills reflect her solutions-focused approach, balancing public safety, env
 On the appropriations front, Meg has submitted funding requests to support initiatives like PBSC – Emergency Response Training Center, Alpert Jewish Family Service – Mental Health Services for Persons with Disabilities, and Palm Beach County RESTORE Reentry Program, to name a few.
 Outside of the Capitol, Representative Weinberger has remained closely connected to the community, showing up at local events, meeting with city leaders, and engaging directly with students, seniors, and small business owners.
 Her service on the board of Animal Rescue organizations and her founding of the rescue-focused nonprofit, Rescue Life, show her dedication to animal protection, a cause she continues to champion in office.
-As her first session progresses, Meg’s leadership is already leaving a mark, not just through policy, but through the trust she’s building and the example she’s setting for what it means to serve with compassion, courage, and commitment.
+As her first session progresses, Meg’s leadership is already leaving a mark, not just through policy, but through the trust she’s building and the example she’s setting for what it means to serve with compassion, courage, and commitment. ← Florida Senate passes bill to fund foster-care pilot program House Passes Bill Changing 'Gulf of Mexico' to 'Gulf of America' →  Meg for Florida RSS Feed Contribute Today Join Meg's Team!
+Copyright ©# Meg Weinberger | Paid by Meg Weinberger, Republican, for State House, District 94. | Contributions are not tax deductible for federal income tax purposes.
+The Maximum contribution allowed by Florida Law is $1,000.00 per individual or business.
+Privacy Policy | Messaging Terms, Conditions & Policies Terms | Site by KO.

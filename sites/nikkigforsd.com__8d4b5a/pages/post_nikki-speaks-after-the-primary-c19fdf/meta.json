@@ -1,7 +1,11 @@
 {
  "description": "Here is Dakota News Now article including Nikki speaking after the June 2nd primary.https://www.dakotanewsnow.com/2026/06/04/candidates-spared-primaries-feel-equipped-thanks-early-starts/",
  "final_url": "https://www.nikkigforsd.com/post/nikki-speaks-after-the-primary",
- "paid_for_by": null,
+ "fingerprint": "bbd5ed066bd4feb43fe6ca77aa4c232010ce6d58",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Nikki Speaks After The Primary",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

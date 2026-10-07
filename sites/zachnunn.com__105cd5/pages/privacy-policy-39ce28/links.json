@@ -1,15 +1,78 @@
 [
-"https://adobe.com/products/flashplayer/security",
-"https://facebook.com/Zach-Nunn-for-Congress-102079292151917",
-"https://instagram.com/NunnForIowa",
-"https://secure.winred.com/iowans-for-zach-nunn/donate?amount=10",
-"https://secure.winred.com/iowans-for-zach-nunn/website",
-"https://twitter.com/nunnforcongress",
-"https://zachnunn.com/",
-"https://zachnunn.com/about",
-"https://zachnunn.com/contact-us",
-"https://zachnunn.com/issues",
-"https://zachnunn.com/media",
-"https://zachnunn.com/privacy-policy",
-"https://zachnunn.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://zachnunn.com/about/"
+},
+{
+"text": "Close Trigger",
+"href": "javascript:void(0)"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/iowans-for-zach-nunn/donate?amount=10"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/iowans-for-zach-nunn/website"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Zach-Nunn-for-Congress-102079292151917"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://zachnunn.com/contact-us/"
+},
+{
+"text": "HOME",
+"href": "https://zachnunn.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://zachnunn.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/NunnForIowa/"
+},
+{
+"text": "Media",
+"href": "https://zachnunn.com/media/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://zachnunn.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/nunnforcongress"
+},
+{
+"text": "UPDATES",
+"href": "https://zachnunn.com/media/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://zachnunn.com/contact-us/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://zachnunn.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/nunnforcongress"
+},
+{
+"text": "[image: Zach Nunn for Congress Logo][image: Zach Nunn for Congress Logo][image: Zach Nunn for Congress Logo][image: Zach Nunn for Congress Logo]",
+"href": "https://zachnunn.com"
+},
+{
+"text": "http://www.adobe.com/products/flashplayer/security",
+"href": "https://www.adobe.com/products/flashplayer/security"
+},
+{
+"text": "https://zachnunn.com/privacy-policy",
+"href": "https://zachnunn.com/privacy-policy"
+}
 ]

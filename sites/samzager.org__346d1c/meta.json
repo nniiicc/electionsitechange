@@ -1,9 +1,14 @@
 {
  "description": "My name is Sam Zager and I am running as a Democrat for the Maine House of Representatives for District 116",
  "final_url": "https://samzager.org/",
- "paid_for_by": null,
+ "fingerprint": "8d1f4d8b425af71d3cedb103b455963c569512c1",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Sam Zager",
  "title": "Sam Zager - Democrat for Maine House District 116",
  "years_mentioned": [
+  "1993",
+  "1997",
+  "2004",
   "2010",
   "2011",
   "2020"

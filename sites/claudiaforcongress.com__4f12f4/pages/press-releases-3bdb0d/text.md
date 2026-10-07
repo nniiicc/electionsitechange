@@ -1,6 +1,2 @@
-NY22 ALERT: Claudia Tenney on Track to Win After Last Votes Counted
-NY22 Alert: Claudia Tenney Confident of Victory for Congress
-Utica Chamber Awards Claudia Tenney Perfect Score, Brindisi ZERO
-NY22 ADVISORY for 11/3: Claudia Tenney Voting & Watch Party
-ICYMI: Tenney Met Remington Plant Owner, Gets Jobs Promise
-Tenney Meets Remington Plant Owner, Gets Jobs Promise After Protest
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Press Releases Press Releases Opinion Editorials Press Releases Opinion Editorials Press Releases NY22 ALERT: Claudia Tenney on Track to Win After Last Votes Counted November 19 2020 Learn More Share NY22 Alert: Claudia Tenney Confident of Victory for Congress November 4 2020 Learn More Share Utica Chamber Awards Claudia Tenney Perfect Score, Brindisi ZERO November 2 2020 Learn More Share NY22 ADVISORY for 11/3: Claudia Tenney Voting & Watch Party November 2 2020 Learn More Share ICYMI: Tenney Met Remington Plant Owner, Gets Jobs Promise October 30 2020 Learn More Share Tenney Meets Remington Plant Owner, Gets Jobs Promise After Protest October 29 2020 Learn More Share 1 2 3 4 5 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

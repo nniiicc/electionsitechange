@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=73322",
- "paid_for_by": null,
+ "fingerprint": "7f508868e9b51bd7a5d5735801c03b44ce8b070d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,91 +1,22 @@
-Gary Johnson
-Former NM Governor
-Election Day is November 3, 2026 — early voting begins October 6th.
-A growing movement of community leaders, local officials, and small business owners who trust Hull & Gallegos to lead New Mexico into a new era of prosperity and security.
+Skip to main content Election Day is November 3, 2026 — early voting begins October 6th.
+Find your polling place Register to vote Close Meet the Team Governor Gregg Hull Lt.
+Governor David Gallegos Priorities News Endorsements Shop Volunteer Request Sign Donate Want a Hull / Gallegos yard sign?
+Click here to request your a free sign delivered right to your door.
+Endorsements A growing movement of community leaders, local officials, and small business owners who trust Hull & Gallegos to lead New Mexico into a new era of prosperity and security.
 These individuals represent the diverse voices of our community standing together for change.
-NM Chapter
-Former Mayor of Las Cruces / Former Gubernatorial Candidate
-Former Gubernatorial Candidate
-State Senate District 2 / Former Gubernatorial Candidate
-Traditional Chief, Jicarilla
-Mayor of Rio Rancho
-Mayor of Farmington
-Mayor of Clovis
-Mayor of Belen
-Mayor of Ruidoso
-Mayor of Red River
-Mayor of Estancia
-Mayor of Raton
-Mayor of Questa
-Mayor of Bloomfield
-Mayor of Elida
-Mayor of Elephant Butte
-Mayor of Aztec
-Mayor of Jal
-Mayor of Tatum
-Former Mayor of Edgewood
-Former Mayor of Espanola
-Former Mayor of Corrales
-Former Mayor of Moriarty
-Former Mayor of Rio Rancho
-Former Mayor of Raton
-Former Mayor of Willard
-Former Mayor of Elephant Butte
-Former Mayor of Roswell
-Former Mayor, Village of Cuba / NM Right to Life
-Former Mayor of Portales
-Former Mayor, Los Ranchos de Albuquerque
-Mayor of Eagle Nest
-Mayor of Portales
-State House District 57
-State House District 60
-State Senate District 40
-State Senate District 28
-State Senate District 35
-State Senate District 32
-State Senate District 27
-State Senate District 34
-State Senate District 7
-State Senate District 19
-State House District 54 / Former Mayor of Artesia
-State Senate District 21
-Former State Senator
-Former NM State Senator
-Former NM State Representative
-Former State Representative
-Rio Rancho City Council
-Espanola City Council
-Bloomfield City Council
-Sandoval County Commissioner
-Former Rio Rancho City Council
-Estancia Trustee
-Former Sandoval County Commissioner
-Rio Rancho Firefighters Association
-Former Farmington Deputy Police Chief / Former Rio Rancho School Board
-2019 NM Teacher of the Year
-Former Rio Rancho Fire Chief
-NM Education Commission
-Fmr.
-RR Police & Comms Association President
-San Juan County Sheriff
-Catron County Sheriff
-Torrance County Sheriff
-NMSU
-Trade Organization
-News Organization
+Featured Endorsements Gary Johnson Former NM Governor Fraternal Order of Police NM Chapter Ken Miyagishima Former Mayor of Las Cruces / Former Gubernatorial Candidate Doug Turner Former Gubernatorial Candidate Steve Lanier State Senate District 2 / Former Gubernatorial Candidate Raynard Fabor Traditional Chief, Jicarilla Mayors Paul Wymer Mayor of Rio Rancho Nate Duckett Mayor of Farmington Mike Morris Mayor of Clovis Robert Noblin Mayor of Belen Lynn Crawford Mayor of Ruidoso Linda Calhoun Mayor of Red River Nathan Dial Mayor of Estancia Lori Chatterlay Mayor of Raton John Anthony Ortega Mayor of Questa John Mohler Mayor of Bloomfield Durward Dixon Mayor of Elida Richard Holcomb Mayor of Elephant Butte Brett Lanier Mayor of Aztec Phillip Little Mayor of Jal Isabella Salazar Mayor of Tatum Kenneth Brennan Former Mayor of Edgewood Javier Sanchez Former Mayor of Espanola Scott Kominiak Former Mayor of Corrales Ted Hart Former Mayor of Moriarty Jim Owen Former Mayor of Rio Rancho Neil Segotta Former Mayor of Raton David Dean Former Mayor of Willard Phillip Mortensen Former Mayor of Elephant Butte Dennis J.
+Kintigh Former Mayor of Roswell Ethel Maharg Former Mayor, Village of Cuba / NM Right to Life Mike Miller Former Mayor of Portales Don Lopez Former Mayor, Los Ranchos de Albuquerque Fox Guinn Mayor of Eagle Nest Mike Davidson Mayor of Portales State Legislators Catherine Cullen State House District 57 Joshua Hernandez State House District 60 Craig Brandt State Senate District 40 Gabe Ramos State Senate District 28 Crystal Brantley State Senate District 35 Candy Spence Ezell State Senate District 32 Pat Boone State Senate District 27 Jim Townsend State Senate District 34 Pat Woods State Senate District 7 Anthony Thornton State Senate District 19 Jonathan Henry State House District 54 / Former Mayor of Artesia Nicole Tobiassen State Senate District 21 Candace Gould Former State Senator Steve Komadina Former NM State Senator Tim Lewis Former NM State Representative James Strickler Former NM State Representative Jane Powdrell-Culbert Former State Representative County & local Leaders Jeremy Lenentine Rio Rancho City Council Nicole List Rio Rancho City Council Robert Tyler Rio Rancho City Council Sam Ledoux Espanola City Council Scott Eckstein Bloomfield City Council Jordan Juarez Sandoval County Commissioner Jon Herr Sandoval County Commissioner Shelby Smith Former Rio Rancho City Council Steve Shaw Former Rio Rancho City Council Amy May Estancia Trustee Dave Heil Former Sandoval County Commissioner Glenn Walters Former Sandoval County Commissioner Community & Public Safety Leaders IAFF 4877 Rio Rancho Firefighters Association Jessica Tyler Former Farmington Deputy Police Chief / Former Rio Rancho School Board Jessica Sanders 2019 NM Teacher of the Year Jimmy DeFillippo Former Rio Rancho Fire Chief Sharon Clahchischilliage NM Education Commission Justin Garcia Fmr.
+RR Police & Comms Association President Shane Ferrari San Juan County Sheriff Keith Hughes Catron County Sheriff David Frazee Torrance County Sheriff Organizations New Mexico Young Republicans College Republicans NMSU Republican National Hispanic Assembly New Mexico Automotive Industry Alliance Trade Organization Editorial Endorsements SF New Mexican News Organization Roswell Express News Organization Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
-Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory.
-Campaign Office:
-2201 San Pedro NE Bldg 1
-Albuquerque, NM 87110
-2201 San Pedro NE Bldg 1
-Albuquerque, NM 87110
-Mail Contributions to:
-2003 Southern Blvd.
-SE Box 102-59
-Rio Rancho, NM 87124
-2003 Southern Blvd.
-SE Box 102-59
-Rio Rancho, NM 87124
-Paid for By Hull For New Mexico
-Follow Us
+First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.
+Link to Privacy Policy Join The Team Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Paid for By Hull For New Mexico Meet Gregg Priorities News Volunteer Endorsements Shop Follow Us Contact Privacy Policy Meet Gregg Issues News Volunteer Endorsements Shop Follow Us Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Privacy Policy Contact Paid for By Hull For New Mexico Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Follow Us Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Privacy Policy Contact Paid for By Hull For New Mexico

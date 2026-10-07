@@ -1,4 +1,22 @@
 [
-"https://pdc.wa.gov/",
-"https://reedyberg.com/donate"
+{
+"text": "(509) 255-7116",
+"href": "tel:+15092557116"
+},
+{
+"text": "Donate",
+"href": "https://reedyberg.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://reedyberg.com/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://reedyberg.com/donate"
+},
+{
+"text": "pdc.wa.gov",
+"href": "https://www.pdc.wa.gov/"
+}
 ]

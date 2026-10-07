@@ -1,26 +1,2 @@
-Events
-More events coming soon!
-3
-Sep
-Thursday, 4:00 PM – 6:30 PM
-Phone Banking for New Voters
-605 E Walnut St, Garden City, KS, 67846
-Add your event description here
-4
-Sep
-Friday, 4:00 PM – 6:30 PM
-Phone Banking for New Voters
-605 E Walnut St, Garden City, KS, 67846
-Add your event description here
-12
-Sep
-Saturday, 9:00 AM
-Community Mexican Fiesta
-Stevens Park, Garden City, KS, 67846
-Add your event description here
-19
-Sep
-Saturday, 9:00 AM – 4:00 PM
-Fall Fest
-Main St. , Garden City, KS, 67846
-Add your event description here
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute Events More events coming soon!
+#ago This Week This Month ‹ Previous Tue Sep 1 2026 - Wed Sep 30 2026 Next › 3 Sep Thursday, 4:00 PM – 6:30 PM Phone Banking for New Voters 605 E Walnut St, Garden City, KS, 67846 Add your event description here More info › 4 Sep Friday, 4:00 PM – 6:30 PM Phone Banking for New Voters 605 E Walnut St, Garden City, KS, 67846 Add your event description here More info › 12 Sep Saturday, 9:00 AM Community Mexican Fiesta Stevens Park, Garden City, KS, 67846 Add your event description here More info › 19 Sep Saturday, 9:00 AM – 4:00 PM Fall Fest Main St. , Garden City, KS, 67846 Add your event description here More info › Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

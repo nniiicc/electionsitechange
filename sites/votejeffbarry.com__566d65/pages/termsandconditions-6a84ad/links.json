@@ -1,13 +1,70 @@
 [
-"https://facebook.com/votejeffbarry",
-"https://secure.anedot.com/jeff-barry-campaign/donate",
-"https://secure.anedot.com/jeff-barry-campaign/jambalaya2026",
-"https://twitter.com/JeffBarryforTX",
-"https://votejeffbarry.com/",
-"https://votejeffbarry.com/endorsements",
-"https://votejeffbarry.com/issues",
-"https://votejeffbarry.com/news",
-"https://votejeffbarry.com/privacy-page",
-"https://votejeffbarry.com/privacy-page.",
-"https://votejeffbarry.com/voting"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jeff-barry-campaign/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votejeffbarry.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votejeffbarry"
+},
+{
+"text": "HOME",
+"href": "https://www.votejeffbarry.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votejeffbarry.com/issues"
+},
+{
+"text": "Jammin' Jambalaya",
+"href": "https://secure.anedot.com/jeff-barry-campaign/jambalaya2026"
+},
+{
+"text": "MEET JEFF",
+"href": "https://www.votejeffbarry.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.votejeffbarry.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejeffbarry.com/privacy-page"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/JeffBarryforTX"
+},
+{
+"text": "VOTING",
+"href": "https://www.votejeffbarry.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/votejeffbarry"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/JeffBarryforTX"
+},
+{
+"text": "[image]",
+"href": "https://www.votejeffbarry.com"
+},
+{
+"text": "https://www.votejeffbarry.com/privacy-page.",
+"href": "https://www.votejeffbarry.com/privacy-page.%C2%A0"
+},
+{
+"text": "info@votejeffbarry.com",
+"href": "mailto:info@votejeffbarry.com"
+},
+{
+"text": "jeff@votejeffbarry.com",
+"href": "mailto:jeff@votejeffbarry.com"
+}
 ]

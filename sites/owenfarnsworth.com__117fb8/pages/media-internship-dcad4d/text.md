@@ -1,10 +1,3 @@
-top of page
-Internships
-Media/Comms Internship
-Media interns will be responsible for crafting and executing a social media/general media strategy.
+top of page Home My Policies Volunteer Contact Donate Donate Contact Volunteer Yard Sign Request Internships Media Internships Media About Policy Finance Field APPLY ↗ Media/Comms Internship Media interns will be responsible for crafting and executing a social media/general media strategy.
 They will also be responsible for public communication about campaign events; interacting with voter, media, and PAC inquiries; and creating releases for the press.
-Responsibilities
-Applicants will demonstrate experience with or knowledge of at least one of social media, conventional media, public relations, marketing, and/or graphic design
-Qualifications
-Email questions to Campaign@OwenFarnsworth.com
-bottom of page
+Responsibilities Applicants will demonstrate experience with or knowledge of at least one of social media, conventional media, public relations, marketing, and/or graphic design Qualifications Email questions to Campaign@OwenFarnsworth.com ActBlue Donate Paid for by the Committee to Elect Owen Farnsworth, Jaia Peterson, Treasurer Email: Campaign@OwenFarnsworth.com Phone: (615) 848-4377 bottom of page

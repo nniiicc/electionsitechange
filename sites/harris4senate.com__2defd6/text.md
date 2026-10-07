@@ -1,5 +1,4 @@
-Tim Harris: Championing Independent Leadership
-Well, God damn it — how about we just get something done?
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Tim Harris: Championing Independent Leadership Well, God damn it — how about we just get something done?
 Truly, isn’t that how most people feel?
 Aren’t we tired of watching them argue back and forth without moving the needle or even picking up the thread?
 Democrats seem mad at Democrat politicians.
@@ -38,8 +37,7 @@ So I am running as an independent.
 And hopefully we’ll get all their requirements done and I’ll jump through as many of their hoops as I can.
 But in order to do that, we need your participation.
 If you want somebody who is as independent as you are and wants to live your life in the “Live Free or Die” state, you need to cast your ballot for me.
-The What
-There are a lot of things that could be done in DC — in spite of the destructiveness of someone else’s hundred things.
+Donate to the Campaign The What There are a lot of things that could be done in DC — in spite of the destructiveness of someone else’s hundred things.
 I have my own version of a hundred things, but that’s because there are things that affect you every day.
 You already have at least half of that list in your head.
 But as a Senator, I can get a lot more done with you and for you than I can from the outside of the system.
@@ -49,20 +47,16 @@ That wasn’t his property.
 If a house sitter tore off your garage, don’t you think there’s something you could do about it?
 If they’re that Bambi, then there’s no reason we should have expected them to hold the line on losing all of New Hampshire’s health care.
 And I know the one thing you’re worried about: they still have theirs.
-The When
-If you had to have somebody stand up for you right now, would you want a Scottish Highlander Paladin — or one of those other guys?
+The When If you had to have somebody stand up for you right now, would you want a Scottish Highlander Paladin — or one of those other guys?
 There are some good people in Congress: Cory Booker, AOC, Josh Hawley.
 But none of those people live in New Hampshire.
 I do.
 If you’ve got to be in a dogfight, don’t send a Chihuahua or a blind one.
-Here’s the problem: If those people had had the guts, they would have used them already — instead of worrying about whether or not they’re going to lose their place in line as being “the most bipartisan.”
-There are some things you have to stand up for whether you want to or not.
+Here’s the problem: If those people had had the guts, they would have used them already — instead of worrying about whether or not they’re going to lose their place in line as being “the most bipartisan.” There are some things you have to stand up for whether you want to or not.
 What’s that old saying my grandfather used to say?
-“If you don’t stand for something, you’ll fall for anything.”
-Tell me that doesn’t completely define the politics for New Hampshire in the last couple of decades.
+“If you don’t stand for something, you’ll fall for anything.” Tell me that doesn’t completely define the politics for New Hampshire in the last couple of decades.
 New Hampshire might not be the biggest state, but it takes up a major amount of room in my heart.
-The Where
-“Where” is a lot bigger than Washington DC.
+The Where “Where” is a lot bigger than Washington DC.
 But considering how many Congresspeople never seem to remember where home is and never go back — that’s not my problem.
 I know where my heart and soul live.
 It’s right here.
@@ -79,8 +73,7 @@ One of them brags a lot about bringing in funds for homeless or HUD housing.
 Maybe he needs to check with the housing advocates that don’t work there and ask them why the job is so far undone you almost don’t even recognize that anybody passed a dollar past it.
 By the way, I have talked to them — at the HUD office and in the streets, trying to help people.
 And speaking of the homeless, I’m working with major corporations to come up with a solution that requires no new tax dollars.
-The Why
-I have been all over the world and all over the Americas — north, south, east, and west.
+The Why I have been all over the world and all over the Americas — north, south, east, and west.
 Guess where I come home to.
 Do you think that’s because I’ve got nowhere else to go?
 I’m not those other candidates.
@@ -94,8 +87,7 @@ Food in our food banks.
 Care for seniors and veterans.
 Come on, folks.
 That they have the audacity to try and explain why they can’t do that is all the reason in the world they shouldn’t be in those jobs.
-The How
-The “how” isn’t as hard as you might think.
+The How The “how” isn’t as hard as you might think.
 Let me give you one example: There are lots of empty buildings in the state of New Hampshire that are owned by the federal government.
 All I need is a lock undone.
 If they don’t give me the lock, I have an F-350.
@@ -116,3 +108,6 @@ There is food stored in warehouses in this state that the taxpayers have paid fo
 Why isn’t that in our food banks?
 We have reserves of almost everything that we’ve just been collecting.
 If not now — when?
+Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

@@ -1,13 +1,66 @@
 [
-"http://instagram.com/",
-"https://facebook.com/",
-"https://facebook.com/ChrisTaylorForJudge",
-"https://secure.winred.com/judge-taylor-for-judge/donate-today",
-"https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=100",
-"https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=1000",
-"https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=25",
-"https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=50",
-"https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=500",
-"https://taylor4judge.com/",
-"https://twitter.com/"
+{
+"text": "$100",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.taylor4judge.com/#About"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today"
+},
+{
+"text": "DONATE TO JUDGE CHRIS TAYLOR TODAY →",
+"href": "https://secure.winred.com/judge-taylor-for-judge/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://www.taylor4judge.com/#Issues"
+},
+{
+"text": "Join",
+"href": "https://www.taylor4judge.com/#Join"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChrisTaylorForJudge/"
+}
 ]

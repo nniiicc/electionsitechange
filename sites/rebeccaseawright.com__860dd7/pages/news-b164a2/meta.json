@@ -1,9 +1,14 @@
 {
  "description": "Find out the latest news about Assemblymember Rebecca Seawright.",
  "final_url": "https://rebeccaseawright.com/news/",
+ "fingerprint": "a491896984b53339fc30d1821b804f91546bc731",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Rebecca Seawright",
  "title": "News - Rebecca Seawright",
  "years_mentioned": [
-  "2020"
+  "2019",
+  "2020",
+  "2021",
+  "2022"
  ]
 }

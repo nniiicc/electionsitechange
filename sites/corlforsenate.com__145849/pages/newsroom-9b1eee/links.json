@@ -1,33 +1,134 @@
 [
-"https://corlforsenate.com/",
-"https://corlforsenate.com/about-1",
-"https://corlforsenate.com/blank",
-"https://corlforsenate.com/endorsements",
-"https://corlforsenate.com/going-the-extra-mile-tour",
-"https://corlforsenate.com/hope-for-home",
-"https://corlforsenate.com/newsroom",
-"https://corlforsenate.com/platform",
-"https://corlforsenate.com/volunteer-2",
-"https://corlforsenate.com/yard-signs",
-"https://facebook.com/profile.php?id=61584779167057",
-"https://iheart.com/podcast/1248-the-bob-lonsberry-show-on-28344638/episode/the-bob-lonsberry-show-on-570-wsyr-336978828",
-"https://iheart.com/podcast/98-dave-allen-podcast-30301588/episode/cicero-republican-running-for-state-senate-312381651",
-"https://iheart.com/podcast/98-dave-allen-podcast-30301588/episode/james-corl-challenges-senator-chris-ryan-to-3-debates-346220033",
-"https://iheart.com/podcast/98-newsradio-570-wsyr-on-deman-28366308/episode/new-york-ranks-1-for-state-and-local-tax-collections-in-the-country-and-yet-albany-wonders-why-people-are-leaving-339992674",
-"https://instagram.com/corlforsenate",
-"https://instagram.com/p/DVghPvbkQOn",
-"https://linkedin.com/in/james-corl",
-"https://open.spotify.com/episode/1Y4qWcnxnA2UBLfuCvCtLh",
-"https://oswegocountynewsnow.com/news/50th-district-candidate-plans-to-walk-150-miles-in-district/article_9b1cd706-b99c-4973-97c9-47b75d7e16ae.html",
-"https://oswegocountynewsnow.com/news/cicero-republican-announces-bid-for-50th-district-state-senate-seat/article_6908ec31-7ef4-42d3-8bb7-62dbb403b11a.html",
-"https://oswegocountynewsnow.com/news/state-senate-candidate-walks-through-oswego-county/article_a2ab773a-5664-4339-927c-467b6525a660.html",
-"https://podcasts.apple.com/cy/podcast/going-the-extra-mile/id1601673426?i=1000771670449",
-"https://secure.winred.com/corl-for-senate/donate",
-"https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/11/james-corl-to-run-for-state-senate-seat-in-cny",
-"https://syracuse.com/opinion/2026/03/state-senate-candidate-albanys-energy-policy-is-to-blame-for-rising-prices-your-letters.html",
-"https://syracuse.com/opinion/2026/06/vote-for-my-candidate-matthew-doran-james-corl-maurice-brown-your-letters.html",
-"https://syracuse.com/opinion/2026/09/vote-for-my-ny-state-legislature-candidate-corl-phillips-your-letters.html",
-"https://syracuse.com/politics/cny/2025/12/a-23-year-old-cicero-republican-seeks-to-unseat-ny-state-sen-chris-ryan.html",
-"https://syracuse.com/politics/cny/2026/02/onondaga-county-republicans-choose-candidates-for-2026-election-see-full-list.html",
-"https://syracuse.com/politics/cny/2026/05/ny-senate-candidates-plan-to-meet-voters-walk-150-miles-across-central-new-york.html"
+{
+"text": "About",
+"href": "https://www.corlforsenate.com/about-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/corl-for-senate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.corlforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.corlforsenate.com/volunteer-2"
+},
+{
+"text": "Going The Extra Mile Tour",
+"href": "https://www.corlforsenate.com/going-the-extra-mile-tour"
+},
+{
+"text": "Home",
+"href": "https://www.corlforsenate.com"
+},
+{
+"text": "Hope For Home",
+"href": "https://www.corlforsenate.com/hope-for-home"
+},
+{
+"text": "Newsroom",
+"href": "https://www.corlforsenate.com/newsroom"
+},
+{
+"text": "Platform",
+"href": "https://www.corlforsenate.com/platform"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.corlforsenate.com/blank"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.corlforsenate.com/yard-signs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584779167057"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/corlforsenate/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/james-corl/"
+},
+{
+"text": "[image: Newsroom 1.jpg]",
+"href": "https://www.oswegocountynewsnow.com/news/state-senate-candidate-walks-through-oswego-county/article_a2ab773a-5664-4339-927c-467b6525a660.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 184553.png]",
+"href": "https://www.oswegocountynewsnow.com/news/state-senate-candidate-walks-through-oswego-county/article_a2ab773a-5664-4339-927c-467b6525a660.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 185024.png]",
+"href": "https://www.syracuse.com/politics/cny/2026/05/ny-senate-candidates-plan-to-meet-voters-walk-150-miles-across-central-new-york.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 185840.png]",
+"href": "https://www.syracuse.com/opinion/2026/03/state-senate-candidate-albanys-energy-policy-is-to-blame-for-rising-prices-your-letters.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 191049.png]",
+"href": "https://www.iheart.com/podcast/1248-the-bob-lonsberry-show-on-28344638/episode/the-bob-lonsberry-show-on-570-wsyr-336978828"
+},
+{
+"text": "[image: Screenshot 2026-06-20 210714.png]",
+"href": "https://www.syracuse.com/opinion/2026/06/vote-for-my-candidate-matthew-doran-james-corl-maurice-brown-your-letters.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 212516.png]",
+"href": "https://www.oswegocountynewsnow.com/news/50th-district-candidate-plans-to-walk-150-miles-in-district/article_9b1cd706-b99c-4973-97c9-47b75d7e16ae.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 213026.png]",
+"href": "https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/11/james-corl-to-run-for-state-senate-seat-in-cny"
+},
+{
+"text": "[image: Screenshot 2026-06-20 213048.png]",
+"href": "https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/11/james-corl-to-run-for-state-senate-seat-in-cny"
+},
+{
+"text": "[image: Screenshot 2026-06-20 214021.png]",
+"href": "https://www.syracuse.com/politics/cny/2025/12/a-23-year-old-cicero-republican-seeks-to-unseat-ny-state-sen-chris-ryan.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 214355.png]",
+"href": "https://www.oswegocountynewsnow.com/news/cicero-republican-announces-bid-for-50th-district-state-senate-seat/article_6908ec31-7ef4-42d3-8bb7-62dbb403b11a.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 214657.png]",
+"href": "https://www.syracuse.com/politics/cny/2026/02/onondaga-county-republicans-choose-candidates-for-2026-election-see-full-list.html"
+},
+{
+"text": "[image: Screenshot 2026-06-20 215155.png]",
+"href": "https://open.spotify.com/episode/1Y4qWcnxnA2UBLfuCvCtLh"
+},
+{
+"text": "[image: Screenshot 2026-06-20 215546.png]",
+"href": "https://www.instagram.com/p/DVghPvbkQOn/"
+},
+{
+"text": "[image: Screenshot 2026-06-24 173304.png]",
+"href": "https://podcasts.apple.com/cy/podcast/going-the-extra-mile/id1601673426?i=1000771670449"
+},
+{
+"text": "[image: Screenshot 2026-06-24 174444.png]",
+"href": "https://www.iheart.com/podcast/98-dave-allen-podcast-30301588/episode/cicero-republican-running-for-state-senate-312381651/"
+},
+{
+"text": "[image: Screenshot 2026-08-12 181225.png]",
+"href": "https://www.iheart.com/podcast/98-newsradio-570-wsyr-on-deman-28366308/episode/new-york-ranks-1-for-state-and-local-tax-collections-in-the-country-and-yet-albany-wonders-why-people-are-leaving-339992674"
+},
+{
+"text": "[image: Screenshot 2026-10-03 201932.png]",
+"href": "https://www.iheart.com/podcast/98-dave-allen-podcast-30301588/episode/james-corl-challenges-senator-chris-ryan-to-3-debates-346220033"
+},
+{
+"text": "[image: Screenshot 2026-10-03 202416_edited.jpg]",
+"href": "https://www.syracuse.com/opinion/2026/09/vote-for-my-ny-state-legislature-candidate-corl-phillips-your-letters.html"
+}
 ]

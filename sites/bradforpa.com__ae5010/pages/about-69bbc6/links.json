@@ -1,24 +1,102 @@
 [
-"https://bradforpa.com/",
-"https://bradforpa.com/about",
-"https://bradforpa.com/cart",
-"https://bradforpa.com/district-41",
-"https://bradforpa.com/endorsements",
-"https://bradforpa.com/home",
-"https://bradforpa.com/issues",
-"https://bradforpa.com/press",
-"https://bradforpa.com/privacy",
-"https://bradforpa.com/stateoftherace",
-"https://bradforpa.com/volunteer",
-"https://facebook.com/bradforpa",
-"https://instagram.com/bradforpa",
-"https://secure.actblue.com/donate/bradforpa",
-"https://secure.actblue.com/donate/bradforpa?amount=50&recurring=1",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/bradforpa?express_lane_other=true",
-"https://x.com/bradforpa"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=50"
+},
+{
+"text": "0",
+"href": "https://bradforpa.com/cart"
+},
+{
+"text": "Contact",
+"href": "mailto:hello@bradforpa.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bradforpa"
+},
+{
+"text": "District 41",
+"href": "https://bradforpa.com/district-41"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradforpa"
+},
+{
+"text": "Endorsements",
+"href": "https://bradforpa.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://bradforpa.com/home"
+},
+{
+"text": "Issues",
+"href": "https://bradforpa.com/issues"
+},
+{
+"text": "Meet Brad",
+"href": "https://bradforpa.com/about"
+},
+{
+"text": "Or make it monthly ➔",
+"href": "https://secure.actblue.com/donate/bradforpa?amount=50&recurring=1"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane_other=true"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://bradforpa.com/privacy"
+},
+{
+"text": "Press",
+"href": "https://bradforpa.com/press"
+},
+{
+"text": "STATE/OF/THE/RACE",
+"href": "https://bradforpa.com/stateoftherace"
+},
+{
+"text": "Volunteer",
+"href": "https://bradforpa.com/volunteer"
+},
+{
+"text": "[image: Brad Chambers for Pennsylvania State House District 41]",
+"href": "https://bradforpa.com/home"
+},
+{
+"text": "[image: Brad for PA]",
+"href": "https://bradforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bradforpa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bradforpa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bradforpa"
+}
 ]

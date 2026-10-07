@@ -1,35 +1,146 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/ht/enfomasyon-pou-elekte-yo",
-"https://ayannapressley.com/ht/kontakte-nou",
-"https://ayannapressley.com/ht/pwoblem",
-"https://ayannapressley.com/ht/pwoblem/abode-disparite-ki-genyen-nan-swen-lasante",
-"https://ayannapressley.com/ht/pwoblem/adrese-enpak-vyolans-ak-chok",
-"https://ayannapressley.com/ht/pwoblem/agrandi-opotinite-edikasyon",
-"https://ayannapressley.com/ht/pwoblem/imajine-lavni-transpo",
-"https://ayannapressley.com/ht/pwoblem/kanpe-avek-kominote-lgbtq",
-"https://ayannapressley.com/ht/pwoblem/konfwonte-kriz-klimatik-la",
-"https://ayannapressley.com/ht/pwoblem/lojman-kom-dwa-moun",
-"https://ayannapressley.com/ht/pwoblem/politik-etranje-te-santre-sou-senpati-ak-pouswit-lape",
-"https://ayannapressley.com/ht/pwoblem/pwoteje-dwa-fanm-tifi-ak-timoun-jistis-repwodiktif-ak-jistis-sivivan",
-"https://ayannapressley.com/ht/pwoblem/transfome-sistem-jidisye-penal-nou",
-"https://ayannapressley.com/ht/pwoblem/yon-ekonomi-ki-mache-pou-tout-moun",
-"https://ayannapressley.com/ht/pwoblem/yon-sistem-imigrasyon-ki-jis-ak-imen",
-"https://ayannapressley.com/ht/rankontre-ayanna",
-"https://ayannapressley.com/ht/volonte",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Batay pou yon ekonomi ki jis",
+"href": "https://ayannapressley.com/ht/pwoblem/kanpe-avek-kominote-lgbtq/"
+},
+{
+"text": "Don",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Edikasyon pou tout moun",
+"href": "https://ayannapressley.com/ht/pwoblem/pwoteje-dwa-fanm-tifi-ak-timoun-jistis-repwodiktif-ak-jistis-sivivan/"
+},
+{
+"text": "Enfòmasyon pou elektè yo",
+"href": "https://ayannapressley.com/ht/enfomasyon-pou-elekte-yo/"
+},
+{
+"text": "Evenman",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Imajine tranpè a nan tan kap vini an",
+"href": "https://ayannapressley.com/ht/pwoblem/yon-sistem-imigrasyon-ki-jis-ak-imen/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Kanpe kont Rayisab ak Vyolans",
+"href": "https://ayannapressley.com/ht/pwoblem/adrese-enpak-vyolans-ak-chok/"
+},
+{
+"text": "Konfidansyalite",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Konfwonte kriz klima a",
+"href": "https://ayannapressley.com/ht/pwoblem/imajine-lavni-transpo/"
+},
+{
+"text": "Kontakte",
+"href": "https://ayannapressley.com/ht/kontakte-nou/"
+},
+{
+"text": "Kontakte Nou",
+"href": "https://ayannapressley.com/ht/kontakte-nou/"
+},
+{
+"text": "Lojman kòm yon dwa moun",
+"href": "https://ayannapressley.com/ht/pwoblem/yon-ekonomi-ki-mache-pou-tout-moun/"
+},
+{
+"text": "Magazen",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Pale de Enpak vyolans ak Chòk",
+"href": "https://ayannapressley.com/ht/pwoblem/konfwonte-kriz-klimatik-la/"
+},
+{
+"text": "Politik etranje santre sou Senpati ak pouswit lapè",
+"href": "https://ayannapressley.com/ht/pwoblem/abode-disparite-ki-genyen-nan-swen-lasante/"
+},
+{
+"text": "Pwoblem",
+"href": "https://ayannapressley.com/ht/pwoblem/"
+},
+{
+"text": "Rankontre Ayanna",
+"href": "https://ayannapressley.com/ht/rankontre-ayanna/"
+},
+{
+"text": "Swen avòtman kòm yon Dwa Moun",
+"href": "https://ayannapressley.com/ht/pwoblem/politik-etranje-te-santre-sou-senpati-ak-pouswit-lape/"
+},
+{
+"text": "Transfòme Sistèm Legal Kriminèl nou an",
+"href": "https://ayannapressley.com/ht/pwoblem/transfome-sistem-jidisye-penal-nou/"
+},
+{
+"text": "Tretman gwo diferans nan swen sante",
+"href": "https://ayannapressley.com/ht/pwoblem/agrandi-opotinite-edikasyon/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Volontè",
+"href": "https://ayannapressley.com/ht/volonte/"
+},
+{
+"text": "Yon sistèm Imigrasyon jis ak Imen",
+"href": "https://ayannapressley.com/ht/pwoblem/lojman-kom-dwa-moun/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+}
 ]

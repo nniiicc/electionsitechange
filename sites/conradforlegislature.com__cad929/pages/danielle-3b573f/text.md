@@ -1,5 +1,4 @@
-Meet Danielle
-Senator Danielle Conrad is a civil rights attorney who was elected to the Nebraska Legislature in 2006, 2010, and 2022.
+0 Skip to Content Meet Danielle Why I'm Running Volunteer News Awards & Recognition Donate Open Menu Close Menu Donate Meet Danielle Why I'm Running Volunteer News Awards & Recognition Open Menu Close Menu Meet Danielle Why I'm Running Volunteer News Awards & Recognition Donate Meet Danielle Senator Danielle Conrad is a civil rights attorney who was elected to the Nebraska Legislature in 2006, 2010, and 2022.
 Senator Conrad has a reputation for being a hard worker and someone who reaches across party lines.
 She has been selected by her peers to serve in numerous leadership roles including eight years on the Appropriations Committee, Redistricting Committee, Committee on Committees, Legislative Performance Audit Committee, and Chair of the Innovation and Entrepreneurship Task Force.
 Senator Conrad was re-elected in 2022 and was the first woman to beat term limits in Nebraska.
@@ -12,3 +11,6 @@ She then earned a Bachelor of Arts Degree in Political Science from the Universi
 Her professional experience as a State Senator, public interest attorney, nonprofit executive, political consultant, and ballot initiative expert has established her as a thought leader in Nebraska politics.
 Her advocacy has been acknowledged by a host of awards and recognitions, and she is a highly sought after public speaker and newsmaker.
 Senator Conrad is married and has two children.
+If you want to talk issues or get involved, let us know!
+Let's do it!
+Donate Volunteer We all belong in Nebraska. ❤️ PAID FOR BY CONRAD FOR LEGISLATURE 3818 Dudley Street, Lincoln NE 68503 Kate Wofe, Treasurer Meet Danielle Why I’m Running Volunteer Donate

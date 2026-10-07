@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bonner+County+Fair&dates=20260818T170000Z%2F20260822T230000Z&location=4203+North+Boyer+Road%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States",
-"http://maps.google.com/?q=4203+North+Boyer+Road+Sandpoint%2C+Idaho%2C+83864+United+States",
-"https://facebook.com/profile.php?id=61582690706514",
-"https://instagram.com/p/DV2D8Sql2hj",
-"https://janesauterforidaho.com/",
-"https://janesauterforidaho.com/about-me",
-"https://janesauterforidaho.com/cart",
-"https://janesauterforidaho.com/contact-me",
-"https://janesauterforidaho.com/events",
-"https://janesauterforidaho.com/events/bonner-county-fair?format=ical",
-"https://janesauterforidaho.com/events/boundary-county-fair",
-"https://janesauterforidaho.com/events/pro-life-get-out-the-vote-workshop",
-"https://janesauterforidaho.com/gallery",
-"https://janesauterforidaho.com/introduction",
-"https://janesauterforidaho.com/media",
-"https://janesauterforidaho.com/news",
-"https://secure.anedot.com/janesauterforidaho/donate",
-"https://x.com/janesauterforID",
-"https://youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4203+north+boyer+road+sandpoint%2C+idaho%2C+83864+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janesauterforidaho.com/cart"
+},
+{
+"text": "About me",
+"href": "https://www.janesauterforidaho.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Contact me",
+"href": "https://www.janesauterforidaho.com/contact-me"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/janesauterforidaho/donate"
+},
+{
+"text": "Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.janesauterforidaho.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bonner+County+Fair&dates=20260818T170000Z%2F20260822T230000Z&location=4203+North+Boyer+Road%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.janesauterforidaho.com/events/bonner-county-fair?format=ical"
+},
+{
+"text": "Introduction",
+"href": "https://www.janesauterforidaho.com/introduction"
+},
+{
+"text": "Media",
+"href": "https://www.janesauterforidaho.com/media"
+},
+{
+"text": "News",
+"href": "https://www.janesauterforidaho.com/news"
+},
+{
+"text": "Next Next August 27 Pro-Life Get Out The Vote Workshop",
+"href": "https://www.janesauterforidaho.com/events/pro-life-get-out-the-vote-workshop"
+},
+{
+"text": "Previous Previous August 11 Boundary County Fair",
+"href": "https://www.janesauterforidaho.com/events/boundary-county-fair"
+},
+{
+"text": "[image: Jane Sauter for Idaho]",
+"href": "https://www.janesauterforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582690706514"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DV2D8Sql2hj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/janesauterforID"
+}
 ]

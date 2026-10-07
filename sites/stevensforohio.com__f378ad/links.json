@@ -1,6 +1,18 @@
 [
-"https://secure.winred.com/shawn-stevens-ohio/donate",
-"https://stevensforohio.com/",
-"https://stevensforohio.com/cart",
-"https://stevensforohio.com/privacy-terms"
+{
+"text": "0",
+"href": "https://www.stevensforohio.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/shawn-stevens-ohio/donate"
+},
+{
+"text": "Privacy Policy / Terms & Conditions",
+"href": "https://www.stevensforohio.com/privacy-terms"
+},
+{
+"text": "[image: Vote Shawn Stevens for State Representative]",
+"href": "https://www.stevensforohio.com/"
+}
 ]

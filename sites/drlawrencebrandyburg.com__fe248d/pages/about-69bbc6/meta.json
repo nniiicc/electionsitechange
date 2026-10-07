@@ -1,7 +1,15 @@
 {
  "description": "Dr. Lawrence D. Brandyburg shares his vision for Texas District 85, focusing on public education, fair policies, and lowering costs for families.",
  "final_url": "https://drlawrencebrandyburg.com/about/",
- "paid_for_by": null,
+ "fingerprint": "4af6c39cd7780ccf0837d4d7f083027da82259e8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About The Dr. Lawrence D. Brandyburg | Texas, USA",
- "years_mentioned": []
+ "years_mentioned": [
+  "1961",
+  "1982",
+  "1984",
+  "1995",
+  "2005"
+ ]
 }

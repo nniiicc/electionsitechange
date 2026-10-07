@@ -1,36 +1,190 @@
 [
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/crypto-lender-to-pay-illinois-more-than-400000",
-"https://alexiforus.com/endorsements",
-"https://alexiforus.com/giannoulias-voices-opposition-to-book-bans",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/newly-installed-secretary-of-state-alexi-giannoulias-issues-comprehensive-executive-ethics-order",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/press-releases",
-"https://alexiforus.com/press-releases/2",
-"https://alexiforus.com/press-releases/4",
-"https://alexiforus.com/press-releases/5",
-"https://alexiforus.com/press-releases/6",
-"https://alexiforus.com/press-releases/7",
-"https://alexiforus.com/press-releases/8",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/secretary-of-state-alexi-giannoulias-releases-comprehensive-transition-team-report",
-"https://alexiforus.com/secretary-of-state-giannoulias-executes-settlement-agreement-with-carvana",
-"https://alexiforus.com/secretary-of-state-giannoulias-reveals-rejected-vanity-plates-in-2022",
-"https://alexiforus.com/secretary-of-state-offices-to-close-for-abraham-lincolns-birthday",
-"https://alexiforus.com/secretary-of-state-offices-to-close-for-martin-luther-king-jr-day",
-"https://alexiforus.com/secretary-of-state-to-offer-real-ids-for-the-first-time-at-chicago-auto-show",
-"https://alexiforus.com/springfield-dirksen-parkway-driver-services-facility-to-close-for-renovation",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/videos",
-"https://alexiforus.com/volunteer",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://twitter.com/Giannoulias",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Crypto Lender to Pay Illinois More Than $400,000",
+"href": "https://alexiforus.com/crypto-lender-to-pay-illinois-more-than-400000/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexiforus.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Giannoulias Voices Opposition to Book Bans",
+"href": "https://alexiforus.com/giannoulias-voices-opposition-to-book-bans/"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "In the News",
+"href": "https://www.alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/crypto-lender-to-pay-illinois-more-than-400000/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-voices-opposition-to-book-bans/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/newly-installed-secretary-of-state-alexi-giannoulias-issues-comprehensive-executive-ethics-order/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-alexi-giannoulias-releases-comprehensive-transition-team-report/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-giannoulias-executes-settlement-agreement-with-carvana/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-giannoulias-reveals-rejected-vanity-plates-in-2022/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-offices-to-close-for-abraham-lincolns-birthday/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-offices-to-close-for-martin-luther-king-jr-day/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-to-offer-real-ids-for-the-first-time-at-chicago-auto-show/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/springfield-dirksen-parkway-driver-services-facility-to-close-for-renovation/"
+},
+{
+"text": "Newly Installed Secretary of State Alexi Giannoulias Issues Comprehensive Executive Ethics Order",
+"href": "https://alexiforus.com/newly-installed-secretary-of-state-alexi-giannoulias-issues-comprehensive-executive-ethics-order/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Page1",
+"href": "https://alexiforus.com/press-releases/"
+},
+{
+"text": "Page2",
+"href": "https://alexiforus.com/press-releases/2/"
+},
+{
+"text": "Page4",
+"href": "https://alexiforus.com/press-releases/4/"
+},
+{
+"text": "Page5",
+"href": "https://alexiforus.com/press-releases/5/"
+},
+{
+"text": "Page6",
+"href": "https://alexiforus.com/press-releases/6/"
+},
+{
+"text": "Page7",
+"href": "https://alexiforus.com/press-releases/7/"
+},
+{
+"text": "Page8",
+"href": "https://alexiforus.com/press-releases/8/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Secretary of State Alexi Giannoulias Releases Comprehensive Transition Team Report",
+"href": "https://alexiforus.com/secretary-of-state-alexi-giannoulias-releases-comprehensive-transition-team-report/"
+},
+{
+"text": "Secretary of State Giannoulias Executes Settlement Agreement with Carvana",
+"href": "https://alexiforus.com/secretary-of-state-giannoulias-executes-settlement-agreement-with-carvana/"
+},
+{
+"text": "Secretary of State Giannoulias reveals rejected vanity plates in 2022",
+"href": "https://alexiforus.com/secretary-of-state-giannoulias-reveals-rejected-vanity-plates-in-2022/"
+},
+{
+"text": "Secretary of State Offices to Close for Abraham Lincoln’s Birthday",
+"href": "https://alexiforus.com/secretary-of-state-offices-to-close-for-abraham-lincolns-birthday/"
+},
+{
+"text": "Secretary of State Offices to Close for Martin Luther King Jr. Day",
+"href": "https://alexiforus.com/secretary-of-state-offices-to-close-for-martin-luther-king-jr-day/"
+},
+{
+"text": "Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show",
+"href": "https://alexiforus.com/secretary-of-state-to-offer-real-ids-for-the-first-time-at-chicago-auto-show/"
+},
+{
+"text": "Springfield Dirksen Parkway Driver Services Facility to Close for Renovation",
+"href": "https://alexiforus.com/springfield-dirksen-parkway-driver-services-facility-to-close-for-renovation/"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Videos",
+"href": "https://www.alexiforus.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+}
 ]

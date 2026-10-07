@@ -1,25 +1,98 @@
 [
-"https://businessfilings.sc.gov/businessfiling",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://governor.sc.gov/",
-"https://joewilson.house.gov/",
-"https://lex-co.sc.gov/",
-"https://lexsc.gov/",
-"https://lgraham.senate.gov/public",
-"https://sc.gov/",
-"https://sc.gov/agency-listing",
-"https://scbos.sc.gov/",
-"https://scchamber.net/",
-"https://sccourts.org/index.cfm",
-"https://scdhec.gov/",
-"https://scott.senate.gov/",
-"https://scstatehouse.gov/",
-"https://scvotes.gov/",
-"https://secure.anedot.com/wooten-for-house/aca70d59-dc2b-4f39-ba41-2849e51d8db5",
-"https://votechriswooten.com/",
-"https://votechriswooten.com/endorsements-1",
-"https://votechriswooten.com/gallery",
-"https://votechriswooten.com/meet-chris",
-"https://votechriswooten.com/on-the-issues-1",
-"https://votechriswooten.com/resources"
+{
+"text": "Business Filing",
+"href": "https://businessfilings.sc.gov/businessfiling"
+},
+{
+"text": "Congressman Joe Wilson",
+"href": "https://joewilson.house.gov/"
+},
+{
+"text": "County of Lexington",
+"href": "https://lex-co.sc.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/wooten-for-house/aca70d59-dc2b-4f39-ba41-2849e51d8db5"
+},
+{
+"text": "Endorsements",
+"href": "https://votechriswooten.com/endorsements-1"
+},
+{
+"text": "Gallery",
+"href": "https://votechriswooten.com/gallery"
+},
+{
+"text": "General South Carolina Government Information",
+"href": "https://sc.gov/"
+},
+{
+"text": "Home",
+"href": "https://votechriswooten.com/"
+},
+{
+"text": "Judicial Branch Information",
+"href": "https://www.sccourts.org/index.cfm"
+},
+{
+"text": "Meet Chris",
+"href": "https://votechriswooten.com/meet-chris"
+},
+{
+"text": "Office of the Governor",
+"href": "https://governor.sc.gov/"
+},
+{
+"text": "On the Issues",
+"href": "https://votechriswooten.com/on-the-issues-1"
+},
+{
+"text": "Resources",
+"href": "https://votechriswooten.com/resources"
+},
+{
+"text": "Senator Lindsay Graham",
+"href": "https://www.lgraham.senate.gov/public/"
+},
+{
+"text": "Senator Tim Scott",
+"href": "https://www.scott.senate.gov/"
+},
+{
+"text": "South Carolina Business One-Stop",
+"href": "https://scbos.sc.gov/"
+},
+{
+"text": "South Carolina Chamber of Commerce",
+"href": "https://www.scchamber.net/"
+},
+{
+"text": "South Carolina DHEC",
+"href": "https://scdhec.gov/"
+},
+{
+"text": "South Carolina Election Commission",
+"href": "https://www.scvotes.gov/"
+},
+{
+"text": "State Agency Listing",
+"href": "https://sc.gov/agency-listing"
+},
+{
+"text": "State Legislature Information and Calendar",
+"href": "https://www.scstatehouse.gov/"
+},
+{
+"text": "Town of Lexington",
+"href": "https://www.lexsc.gov/"
+},
+{
+"text": "[image: votechriswooten]",
+"href": "https://votechriswooten.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

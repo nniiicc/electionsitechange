@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=An+Evening+with+Erin+Farris-Olsen&dates=20260331T230000Z%2F20260401T003000Z",
-"https://erin4montana.com/",
-"https://erin4montana.com/about-erin-farris-olsen",
-"https://erin4montana.com/blog",
-"https://erin4montana.com/cart",
-"https://erin4montana.com/contact-erin-farris-olsen",
-"https://erin4montana.com/donate-to-erin-farris-olsen",
-"https://erin4montana.com/events-2-1",
-"https://erin4montana.com/events-2-1/7april-tuesdays-ten-mile",
-"https://erin4montana.com/events-2-1/march-24-mt-ascension",
-"https://erin4montana.com/events-2-1/march-31-evening?format=ical",
-"https://erin4montana.com/issues",
-"https://erin4montana.com/services-1",
-"https://erin4montana.com/terms-of-service-1",
-"https://erin4montana.com/whats-cookin",
-"https://facebook.com/profile.php?id=61576145584064",
-"https://instagram.com/erinformontana",
-"https://x.com/erinformontana"
+{
+"text": "0",
+"href": "https://www.erin4montana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.erin4montana.com/about-erin-farris-olsen"
+},
+{
+"text": "Additional Terms and Conditions",
+"href": "https://www.erin4montana.com/terms-of-service-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.erin4montana.com/events-2-1"
+},
+{
+"text": "Contact",
+"href": "https://www.erin4montana.com/contact-erin-farris-olsen"
+},
+{
+"text": "Donate Here",
+"href": "https://www.erin4montana.com/donate-to-erin-farris-olsen"
+},
+{
+"text": "Endorsements",
+"href": "https://www.erin4montana.com/blog"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=An+Evening+with+Erin+Farris-Olsen&dates=20260331T230000Z%2F20260401T003000Z"
+},
+{
+"text": "Home",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.erin4montana.com/events-2-1/march-31-evening?format=ical"
+},
+{
+"text": "Neighborhood Notes",
+"href": "https://www.erin4montana.com/services-1"
+},
+{
+"text": "Next Next April 7 April Tuesdays: Hang Out @ Ten Mile Creek Brewery",
+"href": "https://www.erin4montana.com/events-2-1/7april-tuesdays-ten-mile"
+},
+{
+"text": "Previous Previous March 24 Meet & Greet @ Mt. Ascension Brewery",
+"href": "https://www.erin4montana.com/events-2-1/march-24-mt-ascension"
+},
+{
+"text": "Priorities",
+"href": "https://www.erin4montana.com/issues"
+},
+{
+"text": "What's Cookin'",
+"href": "https://www.erin4montana.com/whats-cookin"
+},
+{
+"text": "[image: Erin Farris-Olsen for Senate District 41]",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/erinformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576145584064"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/erinformontana"
+}
 ]

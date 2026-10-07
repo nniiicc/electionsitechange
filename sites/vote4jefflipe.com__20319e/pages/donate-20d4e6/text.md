@@ -1,1 +1,1 @@
-Please donate to Jeff’s campaign via ActBlue Use the QR Code above or Click here to go to my ActBlue page
+0 Skip to Content Jeff Lipe for Utah House District 74 Platform About Contact Donate Resources Open Menu Close Menu Jeff Lipe for Utah House District 74 Platform About Contact Donate Resources Open Menu Close Menu Platform About Contact Donate Resources Please donate to Jeff’s campaign via ActBlue Use the QR Code above or Click here to go to my ActBlue page Jeff Lipe for Utah House District 74 Paid for by Friends of Jeffrey Lipe info@vote4jefflipe.com

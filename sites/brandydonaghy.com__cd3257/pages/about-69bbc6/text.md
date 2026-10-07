@@ -1,4 +1,4 @@
-Brandy Donaghy lives in unincorporated Snohomish County with her family.
+Skip to content Brandy Donaghy.com Home About Issues Legislation Donate ENDORSEMENTS – 2026 Media Brandy Donaghy.com Home About Issues Legislation Donate ENDORSEMENTS – 2026 Media About Brandy Donaghy lives in unincorporated Snohomish County with her family.
 She is a community organizer and volunteers with a number of local, state, and national organizations.
 Brandy credits her mother who was a registered nurse and active with her union in instilling the importance of public service.
 She is a First Gulf War era U.S.
@@ -10,3 +10,7 @@ After a successful retention campaign in 2022, she returned to continue work on 
 She was re-elected in 2024, and would be honored to earn the opportunity to continue to serve in the 44th Legislative District in for the 2027-2026 biennium.
 In Olympia, Brandy serves on the House Consumer Protection and Business Committee, House Technology, Economic Development and Veterans Committee, House Education Committee and as a Vice Chair on the House Transportation Committee.
 She has also been appointed to and serves on the Legislative Oral History Committee, the Joint Committee on Veterans and Military Affairs, and the Joint Select Committee on Civic Health.
+Friends of Brandy Donaghy (D) P.
+O.
+Box 12572 Mill Creek, WA 98082 info@brandydonaghy.com @electbrandydonaghy © # BrandyDonaghy.com.
+Built using WordPress and Mesmerize Theme .

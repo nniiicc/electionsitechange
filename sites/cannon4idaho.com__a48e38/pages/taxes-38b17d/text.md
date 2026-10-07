@@ -1,4 +1,5 @@
-My views relative to taxation is described by the phrase “Common Sense Conservatism”.
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Taxes My views relative to taxation is described by the phrase “Common Sense Conservatism”.
 I believe tax revenue is important for vital governmental functions which can not be accomplished in the private sector of the economy.
 Examples of such government functions include: a legislature and a judicial system which pass laws protecting individual rights–including the right to engage in commerce–and then provides people a way to enforce those rights; infrastructure–including roads and bridges–which make it possible for individuals and businesses to efficiently move themselves, their families and their products from Point A to Point B; national security; and law enforcement services and a criminal justice system to keep people safe.
 That said, there are three principles that I believe in which form my belief that government spending (and, correspondingly, government taxation) should not extend beyond those governmental functions which can not be accomplished (or can not be accomplished efficiently) in the private sector.
@@ -13,3 +14,4 @@ Third, I believe in freedom.
 To the extent that people and businesses within a free market economy are driving a high percentage of the economy, freedom is prevalent.
 To the extent a higher percentage of the economy is turned over to the government (with the resulting higher taxes to pay for more goods and services) freedom is suppressed.
 To the extent that we can embrace freedom and capture the gains that result from competition and capitalistic motivations in a free market economy (with resulting modest government taxes and spending), Idaho’s future will be prosperous!
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

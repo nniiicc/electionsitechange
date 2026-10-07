@@ -1,14 +1,54 @@
 [
-"https://billgalvin.com/",
-"https://billgalvin.com/accessibility",
-"https://billgalvin.com/contact",
-"https://billgalvin.com/meet-bill",
-"https://billgalvin.com/news",
-"https://billgalvin.com/privacy-policy",
-"https://billgalvin.com/volunteer",
-"https://billgalvin.com/welcome",
-"https://cart/",
-"https://facebook.com/BillGalvin4MA",
-"https://instagram.com/secretarybillgalvin",
-"https://twitter.com/BillGalvin4MA"
+{
+"text": "Accessibility",
+"href": "https://billgalvin.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://billgalvin.com/contact"
+},
+{
+"text": "Meet Bill",
+"href": "https://billgalvin.com/meet-bill"
+},
+{
+"text": "News",
+"href": "https://billgalvin.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://billgalvin.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://billgalvin.com/volunteer"
+},
+{
+"text": "[image: Bill Galvin for Massachusetts Secretary of State ]",
+"href": "https://billgalvin.com"
+},
+{
+"text": "[image]",
+"href": "https://billgalvin.com/welcome"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BillGalvin4MA%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillGalvin4MA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/secretarybillgalvin"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+},
+{
+"text": "campaign@billgalvin.com",
+"href": "mailto:campaign@billgalvin.com"
+}
 ]

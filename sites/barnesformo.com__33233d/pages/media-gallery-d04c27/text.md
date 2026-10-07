@@ -1,17 +1,1 @@
-Donate
-Home
-Priorities
-About
-Endorsements
-Voting Info
-Media
-Contact us
-Home
-Priorities
-About
-Endorsements
-Voting Info
-Media
-Media resources
-Shereka Barnes | High resolution image
-Photos
+Donate Home Priorities About Endorsements Voting Info Media Contact us Home Priorities About Endorsements Voting Info Media Media resources Shereka Barnes | High resolution image Photos Contact: barnesformo@gmail.com Mailing address: Barnes for MO PO Box 20651 Kansas City, MO 64195 Paid for by the Committee to Elect Shereka Barnes for Missouri, Stephanie Racy, Treasurer Home Priorities About Endorsements Voting Info Media

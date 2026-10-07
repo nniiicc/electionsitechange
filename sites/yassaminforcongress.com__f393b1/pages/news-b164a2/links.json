@@ -1,38 +1,170 @@
 [
-"https://facebook.com/yassaminansari",
-"https://instagram.com/yassaminansari",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/yassaminansari_web",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=10",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=100",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=25",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=250",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=50",
-"https://twitter.com/yassaminansari",
-"https://yassaminforcongress.com/",
-"https://yassaminforcongress.com/?page_id=944",
-"https://yassaminforcongress.com/about",
-"https://yassaminforcongress.com/contact",
-"https://yassaminforcongress.com/endorsements",
-"https://yassaminforcongress.com/es/news",
-"https://yassaminforcongress.com/media",
-"https://yassaminforcongress.com/news",
-"https://yassaminforcongress.com/news/2",
-"https://yassaminforcongress.com/news/3",
-"https://yassaminforcongress.com/news/4",
-"https://yassaminforcongress.com/news/5",
-"https://yassaminforcongress.com/news/ansari-calls-for-miller-to-be-investigated-and-prosecuted-for-illegal-push-to-end-birthright-citizenship",
-"https://yassaminforcongress.com/news/congresswomen-rashida-tlaib-yassamin-ansari-denounce-immoral-iran-war",
-"https://yassaminforcongress.com/news/meaww-he-belongs-in-jail-dem-lawmaker-erupts-on-blanche-over-epstein-files-ag-confirmation-vote",
-"https://yassaminforcongress.com/news/rep-ansari-says-send-trump-to-prison-as-he-dismisses-family-concerns-over-uss-lincolns-record-length-deployment-saying-not-nearly-long-enough",
-"https://yassaminforcongress.com/news/where-is-the-buzz-rep-yassamin-ansari-accuses-ice-of-murdering-maine-man-witnesses-described-it-as-an-execution",
-"https://yassaminforcongress.com/news/yassamin-ansari-calls-for-closure-of-texas-ice-detention-center-after-oversight-visit",
-"https://yassaminforcongress.com/press/ansari-announces-accountability-summer-town-halls-in-republican-held-districts",
-"https://yassaminforcongress.com/press/mayor-kate-gallego-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/press/representative-elect-yassamin-ansari-elected-as-democratic-freshman-class-president",
-"https://yassaminforcongress.com/press/yassamin-ansari-wins-in-arizonas-3rd-congressional-district",
-"https://yassaminforcongress.com/press/yassamin-ansaris-statement-on-arizonas-victory-for-reproductive-rights",
-"https://yassaminforcongress.com/press/yassamin-ansaris-statement-on-donald-trumps-victory",
-"https://yassaminforcongress.com/privacy-policy",
-"https://yassaminforcongress.myshopify.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=50"
+},
+{
+"text": "About Yassamin",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "Ansari Announces “Accountability Summer” Town Halls in Republican-held Districts",
+"href": "https://yassaminforcongress.com/press/ansari-announces-accountability-summer-town-halls-in-republican-held-districts/"
+},
+{
+"text": "Ansari Calls for Miller to Be ‘Investigated and Prosecuted’ for Illegal Push to End Birthright Citizenship",
+"href": "https://yassaminforcongress.com/news/ansari-calls-for-miller-to-be-investigated-and-prosecuted-for-illegal-push-to-end-birthright-citizenship/"
+},
+{
+"text": "Congresswomen Rashida Tlaib, Yassamin Ansari denounce ‘immoral’ Iran war",
+"href": "https://yassaminforcongress.com/news/congresswomen-rashida-tlaib-yassamin-ansari-denounce-immoral-iran-war/"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Endorsements",
+"href": "https://yassaminforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/yassaminansari/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yassaminansari/"
+},
+{
+"text": "Issues & Policy",
+"href": "https://yassaminforcongress.com/?page_id=944"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "MEAWW: ‘He belongs in jail’: Dem lawmaker erupts on Blanche over Epstein files, AG confirmation vote",
+"href": "https://yassaminforcongress.com/news/meaww-he-belongs-in-jail-dem-lawmaker-erupts-on-blanche-over-epstein-files-ag-confirmation-vote/"
+},
+{
+"text": "Mayor Kate Gallego Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/press/mayor-kate-gallego-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media/"
+},
+{
+"text": "Meet Yass",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://yassaminforcongress.com/news"
+},
+{
+"text": "News & Press",
+"href": "https://yassaminforcongress.com/news/"
+},
+{
+"text": "Next »",
+"href": "https://yassaminforcongress.com/news/2/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Page2",
+"href": "https://yassaminforcongress.com/news/2/"
+},
+{
+"text": "Page3",
+"href": "https://yassaminforcongress.com/news/3/"
+},
+{
+"text": "Page4",
+"href": "https://yassaminforcongress.com/news/4/"
+},
+{
+"text": "Page5",
+"href": "https://yassaminforcongress.com/news/5/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://yassaminforcongress.com/privacy-policy"
+},
+{
+"text": "Rep. Ansari Says “Send Trump to Prison” as He Dismisses Family Concerns Over USS Lincoln’s Record-Length Deployment, Saying “Not Nearly Long Enough”",
+"href": "https://yassaminforcongress.com/news/rep-ansari-says-send-trump-to-prison-as-he-dismisses-family-concerns-over-uss-lincolns-record-length-deployment-saying-not-nearly-long-enough/"
+},
+{
+"text": "Representative Elect Yassamin Ansari Elected as Democratic Freshman Class President",
+"href": "https://yassaminforcongress.com/press/representative-elect-yassamin-ansari-elected-as-democratic-freshman-class-president/"
+},
+{
+"text": "Shop",
+"href": "https://yassaminforcongress.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/yassaminansari"
+},
+{
+"text": "Where is the Buzz: Rep. Yassamin Ansari Accuses ICE of Murdering Maine Man: “Witnesses Described It as an Execution”",
+"href": "https://yassaminforcongress.com/news/where-is-the-buzz-rep-yassamin-ansari-accuses-ice-of-murdering-maine-man-witnesses-described-it-as-an-execution/"
+},
+{
+"text": "Yassamin Ansari Wins in Arizona’s 3rd Congressional District",
+"href": "https://yassaminforcongress.com/press/yassamin-ansari-wins-in-arizonas-3rd-congressional-district/"
+},
+{
+"text": "Yassamin Ansari calls for closure of Texas ICE detention center after oversight visit",
+"href": "https://yassaminforcongress.com/news/yassamin-ansari-calls-for-closure-of-texas-ice-detention-center-after-oversight-visit/"
+},
+{
+"text": "Yassamin Ansari’s Statement on Arizona’s Victory for Reproductive Rights",
+"href": "https://yassaminforcongress.com/press/yassamin-ansaris-statement-on-arizonas-victory-for-reproductive-rights/"
+},
+{
+"text": "Yassamin Ansari’s Statement on Donald Trump’s Victory",
+"href": "https://yassaminforcongress.com/press/yassamin-ansaris-statement-on-donald-trumps-victory/"
+},
+{
+"text": "[image: es_ES]Español",
+"href": "https://yassaminforcongress.com/es/news/"
+},
+{
+"text": "[image]",
+"href": "https://yassaminforcongress.com"
+}
 ]

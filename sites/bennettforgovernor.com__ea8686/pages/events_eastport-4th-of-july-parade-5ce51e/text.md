@@ -1,10 +1,6 @@
-Back to All Events
-Join us in celebrating the 250th 4th of July by marching alongside Rick and fellow supporters in the Eastport Parade.
-Learn more and RSVP here: https://www.supportrickbennett.com/7_4_eastport
-Previous
-Previous
-July 4
-Bangor 4th of July Parade
-Next
-Next
-July 10
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Eastport 4th of July Parade Saturday, July 4, 2026 1:30 PM 3:30 PM Google Calendar ICS Join us in celebrating the 250th 4th of July by marching alongside Rick and fellow supporters in the Eastport Parade.
+Learn more and RSVP here: https://www.supportrickbennett.com/7_4_eastport Previous Previous July 4 Bangor 4th of July Parade Next Next July 10 Meet Rick at the L/A Islamic Center Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

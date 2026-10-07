@@ -1,14 +1,54 @@
 [
-"https://craiggoldman.org/",
-"https://craiggoldman.org/about-craig",
-"https://craiggoldman.org/cdn-cgi/l/email-protection",
-"https://craiggoldman.org/contact",
-"https://craiggoldman.org/issues",
-"https://craiggoldman.org/privacy-policy",
-"https://facebook.com/teamgoldman",
-"https://instagram.com/goldmancraig",
-"https://secure.anedot.com/craig-goldman-for-congress-0b833f16-9579-4129-9829-d537f16d630a/craiggoldmandonate",
-"https://secure.anedot.com/craig-goldman-for-congress-tx/donate",
-"https://twitter.com/GoldmanCraig",
-"https://youtube.com/@thecraiggoldmancampaign119"
+{
+"text": "ABOUT CRAIG",
+"href": "https://www.craiggoldman.org/about-craig/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.craiggoldman.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/craig-goldman-for-congress-0b833f16-9579-4129-9829-d537f16d630a/craiggoldmandonate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/craig-goldman-for-congress-tx/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/teamgoldman/"
+},
+{
+"text": "Home",
+"href": "https://www.craiggoldman.org/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.craiggoldman.org/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/goldmancraig"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.craiggoldman.org/privacy-policy"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/GoldmanCraig"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@thecraiggoldmancampaign119"
+},
+{
+"text": "[email protected]",
+"href": "https://www.craiggoldman.org/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.craiggoldman.org"
+}
 ]

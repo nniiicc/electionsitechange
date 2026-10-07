@@ -1,13 +1,3 @@
-Endorsements
-IOWA
-Iowa State Education Association
-Iowa Federation of Labor, AFL-CIO
-Central Iowa Building & Construction Trades Council
-Planned Parenthood Advocates of Iowa
-IBEW Local 347
-Laborers’ Local 177
-Ironworkers Local 67
-NATIONAL
-States Win
-DLCC – First 50 Targeted Races
-Moms Demand Action – Candidate of Distinction
+Heather Matson for Iowa Senate Open Menu Meet Heather Issues Endorsements Volunteer Contact Volunteer Donate Endorsements IOWA Iowa State Education Association Iowa Federation of Labor, AFL-CIO Central Iowa Building & Construction Trades Council Planned Parenthood Advocates of Iowa IBEW Local 347 Laborers’ Local 177 Ironworkers Local 67 NATIONAL States Win DLCC – First 50 Targeted Races Moms Demand Action – Candidate of Distinction Follow Heather on Facebook Follow Heather on Twitter Follow Heather on Instagram info@matsonforiowa.com | (515) 201-1877 © # Heather Matson for Iowa Senate.
+All rights reserved.
+Privacy Policy | Website built in Iowa by OVMM Paid for by Heather Matson for Iowa.

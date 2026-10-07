@@ -1,16 +1,62 @@
 [
-"https://facebook.com/wix",
-"https://forwardwithcolin.org/",
-"https://forwardwithcolin.org/about",
-"https://forwardwithcolin.org/blog",
-"https://forwardwithcolin.org/donate",
-"https://forwardwithcolin.org/events",
-"https://forwardwithcolin.org/post/march-statement",
-"https://forwardwithcolin.org/privacy-policy",
-"https://forwardwithcolin.org/profile/info75082/profile?disableScrollToTop=true",
-"https://forwardwithcolin.org/saving-the-lake",
-"https://forwardwithcolin.org/volunteer",
-"https://instagram.com/wix",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.forwardwithcolin.org/about"
+},
+{
+"text": "Blog",
+"href": "https://www.forwardwithcolin.org/blog"
+},
+{
+"text": "Colin Smith",
+"href": "https://www.forwardwithcolin.org"
+},
+{
+"text": "Donate",
+"href": "https://www.forwardwithcolin.org/donate"
+},
+{
+"text": "Events",
+"href": "https://www.forwardwithcolin.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.forwardwithcolin.org"
+},
+{
+"text": "Mar 20, 2026 ∙ 2 minMarch StatementThanks to everyone that has expressed an interest in my campaign. I am so honored and thankful for your support. Our first event was our Campaign Launch Party at the Rose Park Library last Saturday, March 14. The event was a huge success! We had nearly 70 people in attendance and heard from Forward Party Senator, Emily Buss, Forward Party Communications Director, Philip Boileau, and my dear friend Annie. It was interesting to hear about Emily’s experience in her first legislative session...1501",
+"href": "https://www.forwardwithcolin.org/post/march-statement"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.forwardwithcolin.org/privacy-policy"
+},
+{
+"text": "Profile",
+"href": "https://www.forwardwithcolin.org/profile/info75082/profile?disableScrollToTop=true"
+},
+{
+"text": "Saving The Lake",
+"href": "https://www.forwardwithcolin.org/saving-the-lake"
+},
+{
+"text": "Volunteer",
+"href": "https://www.forwardwithcolin.org/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+}
 ]

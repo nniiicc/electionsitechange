@@ -1,8 +1,50 @@
 [
-"https://flchamber.com/",
-"https://floridafop.com/",
-"https://fpfp.org/",
-"https://randymaggard.com/privacy-policy",
-"https://randymaggard.com/terms-conditions",
-"https://secure.anedot.com/randymaggardcampaign/contribute"
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/randymaggardcampaign/contribute"
+},
+{
+"text": "Florida Chamber of Commerce",
+"href": "https://www.flchamber.com/"
+},
+{
+"text": "Florida Fraternal Order of Police",
+"href": "https://www.floridafop.com/"
+},
+{
+"text": "Florida Professional Firefighters",
+"href": "https://www.fpfp.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://randymaggard.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://randymaggard.com/terms-conditions/"
+},
+{
+"text": "[image: Florida Chamber of Commerce]",
+"href": "https://www.flchamber.com/"
+},
+{
+"text": "[image: Florida Fraternal Order of Police]",
+"href": "https://www.floridafop.com/"
+},
+{
+"text": "[image: Florida Professional Firefighters]",
+"href": "https://www.fpfp.org/"
+},
+{
+"text": "https://www.flchamber.com/",
+"href": "https://www.flchamber.com/"
+},
+{
+"text": "https://www.floridafop.com/",
+"href": "https://www.floridafop.com/"
+},
+{
+"text": "https://www.fpfp.org/",
+"href": "https://www.fpfp.org/"
+}
 ]

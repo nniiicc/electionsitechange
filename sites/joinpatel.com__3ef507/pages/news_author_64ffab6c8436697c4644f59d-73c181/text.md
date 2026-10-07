@@ -1,14 +1,4 @@
-Maui News 9.9.26
-Lahaina residents, elected officials press USPS to rebuild post office, restore home delivery
-Akaku 7.8.26
-Democratic candidate Sne Patel makes his case for State House District 14, laying out his plan for Lahaina recovery, affordability, and accountable leadership for West Maui families.
-Maui Now 7.1.26
-State House District 14 candidate Sne Patel earns endorsements from UHPA, RPAC and Plumbers & Fitters UA Local 675
-Hawai’i Journalism Initiative 6.21.26
-‘A lot at stake for West Maui’: Three longtime residents face off in Aug. 8 Democratic primary
-Maui Now 6.18.26
-Hawaiʻi Regional Council of Carpenters endorses Sne Patel for State House District 14
-Hawai’i Journalism Initiative 6.6.26
-Costliest repairs to Lahaina Harbor still ahead as dredging gets underway
-Hawaii Public Radio 9.5.24
-Lawmakers reflect on federal recovery efforts and community impact in Lahaina post-wildfire
+0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Tambara Garrick 9/9/26 Tambara Garrick 9/9/26 Maui News 9.9.26 Lahaina residents, elected officials press USPS to rebuild post office, restore home delivery Read More Tambara Garrick 7/22/26 Tambara Garrick 7/22/26 Maui Now 7.22.26 IBEW Local 1186 endorses Sne Patel for State House District 14 Read More Tambara Garrick 7/20/26 Tambara Garrick 7/20/26 Civil Beat 7.20.26 Candidate Q&A: State House District 14 — Sne Patel Read More Tambara Garrick 7/9/26 Tambara Garrick 7/9/26 Star Advertiser 7.9.26 2026 Election: Sne Patel Read More Tambara Garrick 7/8/26 Tambara Garrick 7/8/26 Akaku 7.8.26 Democratic candidate Sne Patel makes his case for State House District 14, laying out his plan for Lahaina recovery, affordability, and accountable leadership for West Maui families.
+Read More Tambara Garrick 7/1/26 Tambara Garrick 7/1/26 Maui Now 7.1.26 State House District 14 candidate Sne Patel earns endorsements from UHPA, RPAC and Plumbers & Fitters UA Local 675 Read More Tambara Garrick 6/21/26 Tambara Garrick 6/21/26 Hawai’i Journalism Initiative 6.21.26 ‘A lot at stake for West Maui’: Three longtime residents face off in Aug.
+8 Democratic primary Read More Tambara Garrick 6/18/26 Tambara Garrick 6/18/26 Maui Now 6.18.26 Hawaiʻi Regional Council of Carpenters endorses Sne Patel for State House District 14 Read More Tambara Garrick 6/12/26 Tambara Garrick 6/12/26 Maui Now 6.12.26 Four labor unions endorse Sne Patel for State House District 14 Read More Tambara Garrick 6/6/26 Tambara Garrick 6/6/26 Hawai’i Journalism Initiative 6.6.26 Costliest repairs to Lahaina Harbor still ahead as dredging gets underway Read More Tambara Garrick 5/19/26 Tambara Garrick 5/19/26 Maui Now 5.19.26 Sne Patel seeks State House of Representatives, West Maui seat Read More Tambara Garrick 2/18/26 Tambara Garrick 2/18/26 Hawaii Public Radio 2.18.26 Lahaina Food & Wine Festival kicks off amid town recovery Read More Tambara Garrick 9/23/24 Tambara Garrick 9/23/24 KITV 9.23.24 Lahaina Town Cleanup preserves Maui’s coast for 20 years Read More Tambara Garrick 9/5/24 Tambara Garrick 9/5/24 Hawaii Public Radio 9.5.24 Lawmakers reflect on federal recovery efforts and community impact in Lahaina post-wildfire Read More Tambara Garrick 8/28/24 Tambara Garrick 8/28/24 KHON2 8.28.24 Excitement forms for Maui Invitational’s return home Read More Tambara Garrick 10/27/23 Tambara Garrick 10/27/23 Maui Now 10.27.23 Sne Patel with Lahaina Town Action Committee discusses Kokua for Maui Read More Learn More About Priorities Take Action Connect Contact Donate Instagram Paid for by Friends of Sne Patel P.O.
+Box 10187 Lahaina, HI 96761 © # Friends of Sne Patel

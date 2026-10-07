@@ -1,12 +1,12 @@
-Voting in KS-04
-Election Day is Tuesday, August 4th.
+Skip to content Issues News Events Store Vote Donate Issues News Events Store Vote Donate Voting in KS-04 Election Day is Tuesday, August 4th.
 Kansas requires that polls are open from 7:00a.m. – 7:00p.m. and allows counties to open as early as 6:00a.m. and close as late as 8:00p.m..
-Find your polling location and hours here.
+Find your polling location and hours here .
 If you would like to vote early, please go to your county website or call the election office to find out when and where you can vote early.
 Counties are permitted to begin Early Vote on Tuesday, July 15 and are required to provide an Early Voting starting on Tuesday, July 28.
 Please see below for websites and phone numbers for your county.
 If you would like to vote by mail you have until Tuesday, July 28 to request a ballot.
 Mail ballots must be received by the county election office by polls close on Election Day.
-Find the mail in ballot application here.
-To vote by mail you must complete this form and submit it your county Board of Elections.
+Find the mail in ballot application here .
+Early Voting Info County Website Phone Barber https://barber.ks.gov/ (620) 886-3961 Butler https://www.bucoks.gov/ (316) 322-4300 Comanche https://www.comanchecoks.org/ (620) 582-2361 Chautauqua https://www.chautauquacountyks.com/ (620) 725-5800 Cowley https://www.cowleycountyks.gov/202/Election-Services (620) 221-5400 Edwards https://www.edwardscountyks.org/ (620) 659-3000 Elk https://www.elkcountyks.org/index.php/elected-officials/election-information (620) 374-2490 Harper https://www.harpercountyks.gov/s-projects-basic (620) 842-5555 Harvey https://www.hvcoksvote.gov/2026-election-information (316) 284-6800 Kingman https://www.kingmancoks.org/ (620) 532-2521 Kiowa https://www.kiowacountyks.gov/ (620) 723-3366 Pawnee https://www.pawneecountykansas.com/201/Election-Information (620) 285-3721 Pratt https://www.prattcounty.org/114/Elections (620) 672-4110 Sedgwick https://www.sedgwickcounty.org/elections/election-office-calendar-of-important-dates/ (316) 660-7100 Stafford https://www.staffordcounty.org/ (620) 549-3509 Sumner https://www.co.sumner.ks.us/elected_officials/county_clerk_and_election_officer/election_office/current_election.php (620) 326-3395 To vote by mail you must complete this form and submit it your county Board of Elections.
 Mail ballots must be received by the time polls close on Election Day to be counted.
+Donate PO Box 781004 Wichita, KS 67207 PAID FOR BY TYNDELL FOR CONGRESS Privacy Policy Privacy Policy Site by Kinetic Strategies Get in touch Facebook Instagram Youtube Tiktok info@katyforkansas.com Tyndell Campaign Headquarters 7803 E Osie St, Suite 110 Wichita, KS 67207 Mon–Fri: 10 AM – 2 PM (Mon & Thu also 5 – 7 PM) Sat–Sun: 10 AM – 4 PM Issues News Events Store Vote Donate Issues News Events Store Vote Donate

@@ -1,7 +1,11 @@
 {
  "description": "Contact information for the campaign.",
  "final_url": "https://votevarian2026.com/contact.html",
- "paid_for_by": null,
+ "fingerprint": "3bb61149d847ec1d89fe06e76f5e8a2c21e0fb2e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | VoteVarian2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

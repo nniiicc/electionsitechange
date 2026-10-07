@@ -1,9 +1,42 @@
 [
-"http://vote.gov/",
-"https://secure.winred.com/friends-to-elect-bob-brinson/donate-today",
-"https://votebobbrinson.com/",
-"https://votebobbrinson.com/endorsements",
-"https://votebobbrinson.com/get-involved",
-"https://votebobbrinson.com/meet-bob",
-"https://votebobbrinson.com/platform"
+{
+"text": "BOB BRINSON",
+"href": "https://www.votebobbrinson.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-to-elect-bob-brinson/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votebobbrinson.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votebobbrinson.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votebobbrinson.com"
+},
+{
+"text": "MEET BOB",
+"href": "https://www.votebobbrinson.com/meet-bob"
+},
+{
+"text": "NC SENATE 2026 (DISTRICT 3)",
+"href": "https://www.votebobbrinson.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votebobbrinson.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://www.vote.gov"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/friends-to-elect-bob-brinson/donate-today"
+}
 ]

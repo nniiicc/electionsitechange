@@ -1,15 +1,62 @@
 [
-"http://elect@shelley4senate.com/",
-"https://facebook.com/Shelley4Senate",
-"https://instagram.com/Shelley4Senate",
-"https://secure.actblue.com/donate/shelley-mayer-for-ny-5",
-"https://shelley4senate.com/",
-"https://shelley4senate.com/accessibility-statement",
-"https://shelley4senate.com/endorsements",
-"https://shelley4senate.com/in-the-news",
-"https://shelley4senate.com/media",
-"https://shelley4senate.com/privacy-policy",
-"https://shelley4senate.com/volunteer",
-"https://twitter.com/Shelley4Senate",
-"https://votenydems.org/vote"
+{
+"text": "Accessibility Statement",
+"href": "https://www.shelley4senate.com/accessibility-statement/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shelley-mayer-for-ny-5"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shelley4senate.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://www.shelley4senate.com/media/"
+},
+{
+"text": "Home",
+"href": "https://www.shelley4senate.com/"
+},
+{
+"text": "News",
+"href": "https://www.shelley4senate.com/in-the-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shelley4senate.com/privacy-policy/"
+},
+{
+"text": "VOTE INFO",
+"href": "https://www.votenydems.org/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shelley4senate.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.votenydems.org/vote"
+},
+{
+"text": "[image]",
+"href": "https://shelley4senate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Shelley4Senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Shelley4Senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Shelley4Senate/"
+},
+{
+"text": "copyright © #-# all rights reserved",
+"href": "http://elect@shelley4senate.com"
+}
 ]

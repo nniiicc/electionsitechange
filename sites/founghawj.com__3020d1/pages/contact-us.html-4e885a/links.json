@@ -1,10 +1,38 @@
 [
-"http://facebook.com/senatorhawj",
-"http://youtube.com/founghawj",
-"https://founghawj.com/about-1.html",
-"https://founghawj.com/contact-us.html",
-"https://founghawj.com/donation.html",
-"https://founghawj.com/home.html",
-"https://founghawj.com/supporters.html",
-"https://twitter.com/founghawj"
+{
+"text": "Background",
+"href": "https://www.founghawj.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.founghawj.com/contact-us.html"
+},
+{
+"text": "Donation",
+"href": "https://www.founghawj.com/donation.html"
+},
+{
+"text": "Home",
+"href": "https://www.founghawj.com/home.html"
+},
+{
+"text": "Supporters",
+"href": "https://www.founghawj.com/supporters.html"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/senatorhawj"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/founghawj"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/founghawj"
+},
+{
+"text": "info@founghawj.com",
+"href": "mailto:info@founghawj.com"
+}
 ]

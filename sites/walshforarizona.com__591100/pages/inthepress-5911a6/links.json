@@ -1,9 +1,50 @@
 [
-"https://walshforarizona.com/",
-"https://walshforarizona.com/about",
-"https://walshforarizona.com/events-1",
-"https://walshforarizona.com/inthepress",
-"https://walshforarizona.com/post/gilbert-chamber-candidate-endorsement",
-"https://walshforarizona.com/priorities",
-"https://walshforarizona.com/vote"
+{
+"text": "About Stephanie",
+"href": "https://www.walshforarizona.com/about"
+},
+{
+"text": "DEMOCRATIC CANDIDATE",
+"href": "https://www.walshforarizona.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.walshforarizona.com"
+},
+{
+"text": "Events",
+"href": "https://www.walshforarizona.com/events-1"
+},
+{
+"text": "FOR ARIZONA SENATE",
+"href": "https://www.walshforarizona.com"
+},
+{
+"text": "Gilbert Chamber Candidate Endorsement",
+"href": "https://www.walshforarizona.com/post/gilbert-chamber-candidate-endorsement"
+},
+{
+"text": "Home",
+"href": "https://www.walshforarizona.com"
+},
+{
+"text": "Press",
+"href": "https://www.walshforarizona.com/inthepress"
+},
+{
+"text": "Priorities",
+"href": "https://www.walshforarizona.com/priorities"
+},
+{
+"text": "Stephanie Walsh",
+"href": "https://www.walshforarizona.com"
+},
+{
+"text": "Vote",
+"href": "https://www.walshforarizona.com/vote"
+},
+{
+"text": "contactus@WalshForArizona.com",
+"href": "mailto:contactus@WalshForArizona.com"
+}
 ]

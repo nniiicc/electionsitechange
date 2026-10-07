@@ -1,7 +1,9 @@
 {
  "description": "Click Here Register To Vote",
  "final_url": "https://www.joygoeben.com/district.html",
- "paid_for_by": null,
+ "fingerprint": "0212bf47e28570cb6db5dbed830a5b2a799458a2",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Joy Goeben",
  "title": "District - GOEBEN FOR ASSEMBLY",
  "years_mentioned": []
 }

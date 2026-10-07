@@ -1,52 +1,26 @@
-Securing a Future for the Chippewa Valley
-Jeff raised his family and grew a successful business in western Wisconsin, but like you, he’s worried about what the future holds for the next generation that wants to do the same.
+Meet Jeff Priorities Endorsements Gallery District 31 Volunteer Donate Meet Jeff Priorities Endorsements Gallery District 31 Volunteer Re-elect Senator Jeff Smith the 31st state Senate District of Wisconsin Donate Scroll Securing a Future for the Chippewa Valley Jeff raised his family and grew a successful business in western Wisconsin, but like you, he’s worried about what the future holds for the next generation that wants to do the same.
 We must work together to secure a stable, affordable future with well-supported public schools, access to clean water, and access to high-quality health care.
 We can count on Jeff to stand up for the Chippewa Valley.
-Clean Water for All
+Clean Water for All Jeff knows that clean water is key to the history and future of the Chippewa Valley.
 In the land of clean lakes and flowing rivers, water is life.
 The Chippewa Valley’s economy was built on water.
 Ojibwe birch bark canoes carried food and family on the currents of the Eau Claire River.
 Log rollers drove the growing lumber industry forward with every bend of the Chippewa River.
 Today, pollution and invasive species threaten the health and safety of our water.
 As a lifelong western Wisconsinite, Jeff is committed to protecting our water so future generations can enjoy all its benefits.
-He has introduced proposals to create a Water Fund for Our Future and add $500,000 in funding to the Groundwater Coordinating Council.
-Jeff also worked on legislation to:
-- Expand the safe drinking water loan program to replace lead service lines
-- Add $1.5 million in funding for protection and management of lakes and rivers
-- Increase funding for local governments to do soil and water resource management
-- Raise the annual fee for concentrated animal feeding operations (CAFOs)
-- Fund rapid response testing of water from wells near sources of PFAS contamination
-- Provide technical assistance to farmers working to improve water quality
-Access to Quality Health Care
-With the Chippewa Valley’s recent loss of HSHS hospitals, our region is challenged with increased emergency room wait times, rising health care costs, and staffing shortages.
+He has introduced proposals to create a Water Fund for Our Future and add $500,000 in funding to the Groundwater Coordinating Council .
+Jeff also worked on legislation to: Expand the safe drinking water loan program to replace lead service lines Add $1.5 million in funding for protection and management of lakes and rivers Increase funding for local governments to do soil and water resource management Raise the annual fee for concentrated animal feeding operations (CAFOs) Fund rapid response testing of water from wells near sources of PFAS contamination Provide technical assistance to farmers working to improve water quality Access to Quality Health Care Local health care professionals support Jeff because they know they can count on him to work toward greater health care access With the Chippewa Valley’s recent loss of HSHS hospitals, our region is challenged with increased emergency room wait times, rising health care costs, and staffing shortages.
 Additionally, mental health challenges and substance abuse are straining our health care system and impacting the lives of our neighbors.
-Jeff has worked to:
-- Reduce emergency room wait times to help ensure our community is receiving life-saving care
-- Require research into mental health issues and challenges accessing mental health services in rural areas of the state
-- Provide grants to counties, cities, and towns to staff law enforcement agencies with mental health crisis intervention teams to connect those in crisis with health care services sooner
-He has also supported legislation that would:
-- Retain health care staff by providing hazard pay to certain workers during a public health emergency
-- Connect tax filers with information on affordable health insurance coverage options
-- Require health insurance to cover infertility treatments and services
-- Cover maternal mental health screenings under BadgerCare
-Fair Funding for Public Schools
+Jeff has worked to: Reduce emergency room wait times to help ensure our community is receiving life-saving care Require research into mental health issues and challenges accessing mental health services in rural areas of the state Provide grants to counties, cities, and towns to staff law enforcement agencies with mental health crisis intervention teams to connect those in crisis with health care services sooner He has also supported legislation that would: Retain health care staff by providing hazard pay to certain workers during a public health emergency Connect tax filers with information on affordable health insurance coverage options Require health insurance to cover infertility treatments and services Cover maternal mental health screenings under BadgerCare Fair Funding for Public Schools Jeff’s wife, Sue, taught in the Eau Claire public school system for decades.
+He has a proven record of standing up for children, teachers, and public education.
 Jeff’s decades of public service began as a volunteer in his daughters’ classrooms.
 He knows how valuable our public schools are for Wisconsin families, so he has worked since day one to provide fair funding to every school in the state.
 Every kid deserves a great education - rural and urban kids alike.
-Jeff has worked on legislation that would:
-- Restore our state’s commitment to covering two-thirds of public school costs
-- Supports school district efforts to remediate lead contamination
-- Expand funding for special education aid
-- Create grant programs for school boards to collaborate with community mental
-health agencies to provide mental health services to students
-Wisconsin’s technical schools and UW System schools are critical to the state’s economy.
+Jeff has worked on legislation that would: Restore our state’s commitment to covering two-thirds of public school costs Supports school district efforts to remediate lead contamination Expand funding for special education aid Create grant programs for school boards to collaborate with community mental health agencies to provide mental health services to students Wisconsin’s technical schools and UW System schools are critical to the state’s economy.
 Jeff has also worked to support students in higher education.
-Jeff has supported efforts to:
-- Create a Freedom to Learn Program to cover resident tuition and fees at technical colleges and two-year UW System schools in the 2022-23 academic year
-- Provide funding to the UW System for additional or improved student health services related to mental and behavioral health
-Right to Choose an Abortion
-Jeff supports a person’s right to choose for themselves whether to continue or terminate a pregnancy.
+Jeff has supported efforts to: Create a Freedom to Learn Program to cover resident tuition and fees at technical colleges and two-year UW System schools in the 2022-23 academic year Provide funding to the UW System for additional or improved student health services related to mental and behavioral health Right to Choose an Abortion Jeff supporting reproductive rights in Madison Jeff supports a person’s right to choose for themselves whether to continue or terminate a pregnancy.
 He doesn’t believe that the government should be able to force a person to carry a pregnancy to term that is unwanted or unsafe, yet that is the reality for people in Wisconsin today.
 Wisconsinites that need an abortion must now travel out-of-state to access this necessary health care thanks to a felony law which pre-dates the Civil War.
 Though most people agree that this draconian law has no place in modern society, Jeff’s opponent has been endorsed by organizations that support it and other abortion bans with no exceptions for rape or incest.
-Jeff has a proven record of standing up for access to reproductive health care:
+Jeff has a proven record of standing up for access to reproductive health care: Repeal Wisconsin’s 173-year-old law that makes providing abortion a felony Require insurance companies to cover maternity and newborn care Require insurance companies to cover up to 12-month supplies of birth control pills Increase access to maternal mental health screenings Priorities Banner Priorities Description Contribute to Re-elect Senator Jeff Smith Volunteer with Jeff Mail Contributions to Together with Jeff 440 Broadway St.
+Eau Claire, WI 54703 Paid for by Together with Jeff | Tammy Tollefson, Treasurer info@togetherwithjeff.com Donate Media Toolkit

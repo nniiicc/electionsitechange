@@ -1,8 +1,30 @@
 [
-"https://absenteeballot.elections.ny.gov/",
-"https://dursoforny.com/",
-"https://dursoforny.com/meet-michael",
-"https://dursoforny.com/sign",
-"https://dursoforny.com/volunteer",
-"https://secure.winred.com/michaeldurso/2020"
+{
+"text": "About",
+"href": "https://www.dursoforny.com/meet-michael"
+},
+{
+"text": "Absentee",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/michaeldurso/2020"
+},
+{
+"text": "Home",
+"href": "https://www.dursoforny.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dursoforny.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.dursoforny.com/sign"
+},
+{
+"text": "[image: Logo.png]",
+"href": "https://www.dursoforny.com"
+}
 ]

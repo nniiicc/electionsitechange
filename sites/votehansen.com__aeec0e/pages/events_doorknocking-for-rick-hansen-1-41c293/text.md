@@ -1,11 +1,1 @@
-Back to All Events
-Home of Greg Genz (Gazebo along the river) - 121 10th Street, Newport, MN
-Food provided
-Rick’s cell: 651-260-8583
-Previous
-Previous
-October 11
-Doorknocking for Rick Hansen
-Next
-Next
-November 1
+0 Skip to Content Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Back to All Events Doorknocking for Rick Hansen Tuesday, October 18, 2022 4:30 PM 6:30 PM Google Calendar ICS Home of Greg Genz (Gazebo along the river) - 121 10th Street, Newport, MN Food provided Rick’s cell: 651-260-8583 Previous Previous October 11 Doorknocking for Rick Hansen Next Next November 1 Doorknocking for Rick Hansen Prepared and paid for by People for Hansen PO Box 231 South St Paul, MN 55075

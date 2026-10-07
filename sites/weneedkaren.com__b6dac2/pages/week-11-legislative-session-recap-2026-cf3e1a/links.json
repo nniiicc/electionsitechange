@@ -1,51 +1,290 @@
 [
-"https://facebook.com/weneedkaren",
-"https://legis.ga.gov/legislation/69327",
-"https://legis.ga.gov/legislation/70211",
-"https://legis.ga.gov/legislation/70242",
-"https://legis.ga.gov/legislation/70559",
-"https://legis.ga.gov/legislation/71006",
-"https://legis.ga.gov/legislation/71940",
-"https://legis.ga.gov/legislation/72198",
-"https://legis.ga.gov/legislation/72252",
-"https://legis.ga.gov/legislation/72304",
-"https://legis.ga.gov/legislation/72360",
-"https://legis.ga.gov/legislation/72468",
-"https://legis.ga.gov/legislation/72472",
-"https://legis.ga.gov/legislation/72487",
-"https://legis.ga.gov/legislation/72533",
-"https://legis.ga.gov/legislation/72632",
-"https://legis.ga.gov/legislation/72635",
-"https://legis.ga.gov/legislation/72639",
-"https://legis.ga.gov/legislation/72966",
-"https://legis.ga.gov/legislation/72998",
-"https://legis.ga.gov/legislation/73054",
-"https://legis.ga.gov/legislation/73166",
-"https://legis.ga.gov/legislation/73184",
-"https://legis.ga.gov/legislation/73452",
-"https://legis.ga.gov/legislation/73480",
-"https://legis.ga.gov/legislation/73482",
-"https://legis.ga.gov/legislation/73564",
-"https://legis.ga.gov/legislation/73567",
-"https://legis.ga.gov/legislation/73650",
-"https://legis.ga.gov/legislation/73658",
-"https://legis.ga.gov/legislation/73715",
-"https://politics.raisethemoney.com/en/kmathiak",
-"https://secure.anedot.com/c87af4dd-3c2e-4da3-b014-41b07f36a8f8/contribute",
-"https://weneedkaren.com/",
-"https://weneedkaren.com/annual-sporting-clays-tournament",
-"https://weneedkaren.com/articles",
-"https://weneedkaren.com/contact",
-"https://weneedkaren.com/issues",
-"https://weneedkaren.com/week-1-special-legislative-session-2026",
-"https://weneedkaren.com/week-10-legislative-session-recap-2026",
-"https://weneedkaren.com/week-12-legislative-session-recap-2026",
-"https://weneedkaren.com/week-2-special-legislative-session-2026",
-"https://weneedkaren.com/week-4-legislative-session-recap-2026",
-"https://weneedkaren.com/week-5-legislative-session-recap-2026",
-"https://weneedkaren.com/week-6-legislative-session-recap-2026",
-"https://weneedkaren.com/week-7-legislative-session-recap-2026",
-"https://weneedkaren.com/week-8-legislative-session-recap-2026",
-"https://weneedkaren.com/week-9-legislative-session-recap-2026",
-"https://weneedkaren.com/where-is-the-82nd-district"
+{
+"text": "678-478-6534",
+"href": "tel:678-478-6534"
+},
+{
+"text": "< Older Post",
+"href": "https://www.weneedkaren.com/week-10-legislative-session-recap-2026"
+},
+{
+"text": "About",
+"href": "https://www.weneedkaren.com/#WeNeedKaren"
+},
+{
+"text": "Annual Sporting Clays Tournament",
+"href": "https://www.weneedkaren.com/annual-sporting-clays-tournament"
+},
+{
+"text": "Conservative Values",
+"href": "https://www.weneedkaren.com/issues#ConservativeValues"
+},
+{
+"text": "Contact",
+"href": "https://www.weneedkaren.com/contact"
+},
+{
+"text": "Contribute Now",
+"href": "https://politics.raisethemoney.com/en/kmathiak"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.anedot.com/c87af4dd-3c2e-4da3-b014-41b07f36a8f8/contribute"
+},
+{
+"text": "Election Integrity",
+"href": "https://www.weneedkaren.com/issues#ElectionIntegrity"
+},
+{
+"text": "Georgia Healthcare",
+"href": "https://www.weneedkaren.com/issues#GeorgiaHealthcare"
+},
+{
+"text": "Home",
+"href": "https://www.weneedkaren.com/"
+},
+{
+"text": "House Bill 1009",
+"href": "https://www.legis.ga.gov/legislation/72304"
+},
+{
+"text": "House Bill 1030",
+"href": "https://www.legis.ga.gov/legislation/72360"
+},
+{
+"text": "Issues",
+"href": "https://www.weneedkaren.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://www.weneedkaren.com/#JointheTeam"
+},
+{
+"text": "Karen's Blog",
+"href": "https://www.weneedkaren.com/articles"
+},
+{
+"text": "Newer Post >",
+"href": "https://www.weneedkaren.com/week-12-legislative-session-recap-2026"
+},
+{
+"text": "Public Safety",
+"href": "https://www.weneedkaren.com/issues#PublicSafety"
+},
+{
+"text": "Senate Bill 146",
+"href": "https://www.legis.ga.gov/legislation/70211"
+},
+{
+"text": "Senate Bill 150",
+"href": "https://www.legis.ga.gov/legislation/70242"
+},
+{
+"text": "Senate Bill 220",
+"href": "https://www.legis.ga.gov/legislation/70559"
+},
+{
+"text": "Senate Bill 306",
+"href": "https://www.legis.ga.gov/legislation/71006"
+},
+{
+"text": "Senate Bill 369",
+"href": "https://www.legis.ga.gov/legislation/71940"
+},
+{
+"text": "Senate Bill 395",
+"href": "https://www.legis.ga.gov/legislation/72198"
+},
+{
+"text": "Senate Bill 403",
+"href": "https://www.legis.ga.gov/legislation/72252"
+},
+{
+"text": "Senate Bill 428",
+"href": "https://www.legis.ga.gov/legislation/72468"
+},
+{
+"text": "Senate Bill 430",
+"href": "https://www.legis.ga.gov/legislation/72487"
+},
+{
+"text": "Senate Bill 433",
+"href": "https://www.legis.ga.gov/legislation/72533"
+},
+{
+"text": "Senate Bill 441",
+"href": "https://www.legis.ga.gov/legislation/72632"
+},
+{
+"text": "Senate Bill 442",
+"href": "https://www.legis.ga.gov/legislation/72635"
+},
+{
+"text": "Senate Bill 443",
+"href": "https://www.legis.ga.gov/legislation/72639"
+},
+{
+"text": "Senate Bill 472",
+"href": "https://www.legis.ga.gov/legislation/72966"
+},
+{
+"text": "Senate Bill 478",
+"href": "https://www.legis.ga.gov/legislation/72998"
+},
+{
+"text": "Senate Bill 485",
+"href": "https://www.legis.ga.gov/legislation/73054"
+},
+{
+"text": "Senate Bill 500",
+"href": "https://www.legis.ga.gov/legislation/73166"
+},
+{
+"text": "Senate Bill 503",
+"href": "https://www.legis.ga.gov/legislation/73184"
+},
+{
+"text": "Senate Bill 540",
+"href": "https://www.legis.ga.gov/legislation/73452"
+},
+{
+"text": "Senate Bill 542",
+"href": "https://www.legis.ga.gov/legislation/73480"
+},
+{
+"text": "Senate Bill 547",
+"href": "https://www.legis.ga.gov/legislation/73482"
+},
+{
+"text": "Senate Bill 566",
+"href": "https://www.legis.ga.gov/legislation/73564"
+},
+{
+"text": "Senate Bill 569",
+"href": "https://www.legis.ga.gov/legislation/73567"
+},
+{
+"text": "Senate Bill 589",
+"href": "https://www.legis.ga.gov/legislation/73650"
+},
+{
+"text": "Senate Bill 594",
+"href": "https://www.legis.ga.gov/legislation/73658"
+},
+{
+"text": "Senate Bill 605",
+"href": "https://www.legis.ga.gov/legislation/73715"
+},
+{
+"text": "Senate Bill 8",
+"href": "https://www.legis.ga.gov/legislation/69327"
+},
+{
+"text": "Senate Resolution 622",
+"href": "https://www.legis.ga.gov/legislation/72472"
+},
+{
+"text": "The 2nd Amendment",
+"href": "https://www.weneedkaren.com/issues#The2ndAmendment"
+},
+{
+"text": "Week 1 Special Legislative Session 2026",
+"href": "https://www.weneedkaren.com/week-1-special-legislative-session-2026"
+},
+{
+"text": "Week 10 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-10-legislative-session-recap-2026"
+},
+{
+"text": "Week 12 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-12-legislative-session-recap-2026"
+},
+{
+"text": "Week 2 Special Legislative Session 2026",
+"href": "https://www.weneedkaren.com/week-2-special-legislative-session-2026"
+},
+{
+"text": "Week 4 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-4-legislative-session-recap-2026"
+},
+{
+"text": "Week 5 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-5-legislative-session-recap-2026"
+},
+{
+"text": "Week 6 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-6-legislative-session-recap-2026"
+},
+{
+"text": "Week 7 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-7-legislative-session-recap-2026"
+},
+{
+"text": "Week 8 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-8-legislative-session-recap-2026"
+},
+{
+"text": "Week 9 Legislative Session Recap 2026",
+"href": "https://www.weneedkaren.com/week-9-legislative-session-recap-2026"
+},
+{
+"text": "Where is the 82nd District",
+"href": "https://www.weneedkaren.com/where-is-the-82nd-district"
+},
+{
+"text": "[image: Karen Mathiak, GA State House]",
+"href": "https://www.weneedkaren.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-1-special-legislative-session-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-10-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-12-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-2-special-legislative-session-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-4-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-5-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-6-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-7-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-8-legislative-session-recap-2026"
+},
+{
+"text": "[image]",
+"href": "https://www.weneedkaren.com/week-9-legislative-session-recap-2026"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/weneedkaren"
+},
+{
+"text": "karen.mathiak@house.ga.gov",
+"href": "mailto:karen.mathiak@house.ga.gov"
+}
 ]

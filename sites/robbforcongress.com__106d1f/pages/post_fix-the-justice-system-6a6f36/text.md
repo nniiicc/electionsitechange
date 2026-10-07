@@ -1,8 +1,4 @@
-Fix the Justice System
-Updated: Mar 22
-Justice Should Mean More Than Punishment
-One of the most important things I’ve learned in 30 years as a pastor is this:
-People are more than their worst decision.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Fix the Justice System Jun 2, 2025 2 min read Updated: Mar 22 Justice Should Mean More Than Punishment One of the most important things I’ve learned in 30 years as a pastor is this: People are more than their worst decision.
 Our justice system doesn’t always see it that way.
 I’m running for Congress because justice should be about fairness, accountability, and the chance to rebuild—not just punishment.
 Right now, our system is out of balance.
@@ -21,12 +17,7 @@ It destabilizes communities.
 And it makes it harder for people to move forward.
 We call it a justice system.
 But too often, it traps people instead of helping them change.
-Here’s what needs to change:
-- End mandatory minimum sentences that ignore individual circumstances
-- Reform cash bail so people aren’t jailed for being poor
-- Invest in rehabilitation and reentry so people have a real path forward
-- Address racial disparities in policing, courts, and sentencing
-This isn’t about being soft.
+Here’s what needs to change: End mandatory minimum sentences that ignore individual circumstances Reform cash bail so people aren’t jailed for being poor Invest in rehabilitation and reentry so people have a real path forward Address racial disparities in policing, courts, and sentencing This isn’t about being soft.
 It’s about being effective.
 Because what we’re doing now isn’t working.
 It’s not making us safer.
@@ -44,4 +35,4 @@ We can support law enforcement and still demand fairness and transparency.
 We can build a system that protects communities without discarding people.
 Because real justice doesn’t end with punishment.
 It continues with the possibility of something better.
-And if we believe in second chances for ourselves, we should be willing to make them possible for others.
+And if we believe in second chances for ourselves, we should be willing to make them possible for others. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

@@ -1,33 +1,146 @@
 [
-"https://erikaforwhatcom.com/",
-"https://erikaforwhatcom.com/about",
-"https://erikaforwhatcom.com/blog",
-"https://erikaforwhatcom.com/blog/categories/affordability",
-"https://erikaforwhatcom.com/blog/categories/corruption-accountability",
-"https://erikaforwhatcom.com/blog/categories/mental-health",
-"https://erikaforwhatcom.com/blog/categories/news",
-"https://erikaforwhatcom.com/blog/categories/schools",
-"https://erikaforwhatcom.com/blog/categories/taxes",
-"https://erikaforwhatcom.com/blog/tags/erika-creydt",
-"https://erikaforwhatcom.com/blog/tags/mike-shepard",
-"https://erikaforwhatcom.com/blog/tags/senate",
-"https://erikaforwhatcom.com/blog/tags/whatcom-elections",
-"https://erikaforwhatcom.com/contact",
-"https://erikaforwhatcom.com/donate",
-"https://erikaforwhatcom.com/events",
-"https://erikaforwhatcom.com/get-involved",
-"https://erikaforwhatcom.com/members-area/96d7f9a3-0444-40d3-9ca7-a8eec9cbdb8c53570/profile",
-"https://erikaforwhatcom.com/post/dr-erika-creydt-files-for-open-42nd-district-senate-seat",
-"https://erikaforwhatcom.com/post/erika-in-the-bellingham-metro-news",
-"https://erikaforwhatcom.com/post/i-am-strongly-opposed-to-a-state-income-tax-for-working-families",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-1",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1-1",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1-1-1",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1-1-1-1",
-"https://erikaforwhatcom.com/whatcom-county-is-being-priced-out-2",
-"https://facebook.com/erika4whatcom",
-"https://instagram.com/erika4whatcom",
-"https://static.wixstatic.com/media/bef611_e14a2f12e70548ca94c84fcdc14a6129~mv2.png"
+{
+"text": "About Erika",
+"href": "https://www.erikaforwhatcom.com/about"
+},
+{
+"text": "Addressing the Housing Crisis",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-1"
+},
+{
+"text": "Affordability",
+"href": "https://www.erikaforwhatcom.com/blog/categories/affordability"
+},
+{
+"text": "All Posts",
+"href": "https://www.erikaforwhatcom.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.erikaforwhatcom.com/blog"
+},
+{
+"text": "Campaign Staff",
+"href": "https://www.erikaforwhatcom.com/members-area/96d7f9a3-0444-40d3-9ca7-a8eec9cbdb8c53570/profile"
+},
+{
+"text": "Contact",
+"href": "https://www.erikaforwhatcom.com/contact"
+},
+{
+"text": "Corruption & Accountability",
+"href": "https://www.erikaforwhatcom.com/blog/categories/corruption-accountability"
+},
+{
+"text": "Donate",
+"href": "https://www.erikaforwhatcom.com/donate"
+},
+{
+"text": "Dr. Erika Creydt Files for Open 42nd District Senate Seat",
+"href": "https://www.erikaforwhatcom.com/post/dr-erika-creydt-files-for-open-42nd-district-senate-seat"
+},
+{
+"text": "Erika Creydt",
+"href": "https://www.erikaforwhatcom.com/blog/tags/erika-creydt"
+},
+{
+"text": "Erika in the Bellingham Metro News",
+"href": "https://www.erikaforwhatcom.com/post/erika-in-the-bellingham-metro-news"
+},
+{
+"text": "Events",
+"href": "https://www.erikaforwhatcom.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.erikaforwhatcom.com/get-involved"
+},
+{
+"text": "I am strongly opposed to a state income tax for working families",
+"href": "https://www.erikaforwhatcom.com/post/i-am-strongly-opposed-to-a-state-income-tax-for-working-families"
+},
+{
+"text": "Mental Health",
+"href": "https://www.erikaforwhatcom.com/blog/categories/mental-health"
+},
+{
+"text": "Mike Shepard",
+"href": "https://www.erikaforwhatcom.com/blog/tags/mike-shepard"
+},
+{
+"text": "News",
+"href": "https://www.erikaforwhatcom.com/blog/categories/news"
+},
+{
+"text": "Protecting Mental Health",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1"
+},
+{
+"text": "Protecting Our Agricultural Heritage",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1-1"
+},
+{
+"text": "Protecting Washington's Competitive Adva",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1-1-1-1"
+},
+{
+"text": "Schools",
+"href": "https://www.erikaforwhatcom.com/blog/categories/schools"
+},
+{
+"text": "Schools",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1"
+},
+{
+"text": "See All",
+"href": "https://www.erikaforwhatcom.com/blog"
+},
+{
+"text": "Senate",
+"href": "https://www.erikaforwhatcom.com/blog/tags/senate"
+},
+{
+"text": "Taxes",
+"href": "https://www.erikaforwhatcom.com/blog/categories/taxes"
+},
+{
+"text": "The Water Adjudication",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-1-1-1-1-1"
+},
+{
+"text": "Whatcom County is being priced out",
+"href": "https://www.erikaforwhatcom.com/whatcom-county-is-being-priced-out-2"
+},
+{
+"text": "Whatcom elections",
+"href": "https://www.erikaforwhatcom.com/blog/tags/whatcom-elections"
+},
+{
+"text": "[image: Dr. Erika Creydt Files for Open 42nd District Senate Seat]",
+"href": "https://www.erikaforwhatcom.com/post/dr-erika-creydt-files-for-open-42nd-district-senate-seat"
+},
+{
+"text": "[image: Erika Creydt for state senate]",
+"href": "https://static.wixstatic.com/media/bef611_e14a2f12e70548ca94c84fcdc14a6129~mv2.png"
+},
+{
+"text": "[image: Erika in the Bellingham Metro News]",
+"href": "https://www.erikaforwhatcom.com/post/erika-in-the-bellingham-metro-news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/erika4whatcom/"
+},
+{
+"text": "[image: I am strongly opposed to a state income tax for working families]",
+"href": "https://www.erikaforwhatcom.com/post/i-am-strongly-opposed-to-a-state-income-tax-for-working-families"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/erika4whatcom/"
+},
+{
+"text": "[image: logo2.jpg]",
+"href": "https://www.erikaforwhatcom.com"
+}
 ]

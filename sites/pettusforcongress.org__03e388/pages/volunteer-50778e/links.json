@@ -1,9 +1,42 @@
 [
-"https://pettusforcongress.org/",
-"https://pettusforcongress.org/about-mia",
-"https://pettusforcongress.org/campaign-updates",
-"https://pettusforcongress.org/donations",
-"https://pettusforcongress.org/priorities",
-"https://pettusforcongress.org/privacy-policy",
-"https://pettusforcongress.org/volunteer"
+{
+"text": "About Mia",
+"href": "https://pettusforcongress.org/about-mia/"
+},
+{
+"text": "Campaign Updates, Events and News",
+"href": "https://pettusforcongress.org/campaign-updates/"
+},
+{
+"text": "Donate",
+"href": "https://pettusforcongress.org/#donate"
+},
+{
+"text": "Donations",
+"href": "https://pettusforcongress.org/donations/"
+},
+{
+"text": "Home",
+"href": "https://pettusforcongress.org/"
+},
+{
+"text": "Pettus for Congress",
+"href": "https://pettusforcongress.org/"
+},
+{
+"text": "Priorities",
+"href": "https://pettusforcongress.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pettusforcongress.org/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://pettusforcongress.org/volunteer/"
+},
+{
+"text": "[image: Pettus for Congress]",
+"href": "https://pettusforcongress.org/"
+}
 ]

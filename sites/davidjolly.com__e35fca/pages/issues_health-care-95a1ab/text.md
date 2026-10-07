@@ -1,10 +1,9 @@
-Health care shouldn't be this hard.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT Health care shouldn't be this hard.
 No one should be one diagnosis away from fear, delay, or debt.
-David Jolly's health care plan for Florida expands Medicaid to cover hundreds of thousands of uninsured Floridians and invests in more primary care clinics throughout the state so people can access care when and where they need it, regardless of income.
+In short David Jolly's health care plan for Florida expands Medicaid to cover hundreds of thousands of uninsured Floridians and invests in more primary care clinics throughout the state so people can access care when and where they need it, regardless of income.
 Medicaid expansion can start within months once the Legislature approves it, with coverage beginning in the first year.
 Jolly proposes a five-year pilot to dramatically expand community health centers in every Florida county so care is available, not just coverage on paper.
-A Plan as Governor to Improve Health Care
-This system isn't working for the people who need it.
+A Plan as Governor to Improve Health Care David Jolly on health care in Florida This system isn't working for the people who need it.
 Across Florida, families are making impossible choices when it comes to health care.
 Going without insurance.
 Delaying treatment.
@@ -28,12 +27,9 @@ Not barriers.
 And right now, there are too many barriers standing in the way.
 Getting care shouldn't feel like a risk.
 It should feel within reach for every Floridian.
-Join the fight for accessible health care in Florida
-Real solutions start with real action.
+Join the fight for accessible health care in Florida Real solutions start with real action.
 Stand with David Jolly to expand health care access across Florida.
-Get involved
-Frequently asked questions
-Q.
+Get involved Frequently asked questions Q.
 Why isn't Medicaid expansion enough on its own?
 Because expansion provides coverage, but people still need somewhere to actually get care.
 Jolly proposes a 5-year pilot to dramatically expand community health centers in every Florida county so new enrollees can connect with primary care providers, not just have coverage on paper.
@@ -68,3 +64,6 @@ How would this plan affect Florida hospitals?
 Florida hospitals would see two direct benefits.
 First, Medicaid expansion would shift much of the uncompensated care burden to the federal government at the 90% match rate.
 Second, scaling community health centers reduces preventable ER visits by triaging patients in primary care.
+Explore this issue In depth As Governor Health care In depth Why Florida's Next Governor Will Fire the Surgeon General In depth Healthcare.mp4 About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

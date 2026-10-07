@@ -1,7 +1,9 @@
 {
  "description": "Jan's Endorsements",
  "final_url": "https://janassemblynv23.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "999227dd2127461c8608c2deeda7a6811b74bb49",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": [
   "2026"

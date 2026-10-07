@@ -1,4 +1,4 @@
-ST.
+Skip to the content About Sam About Sam Legislative Highlights Get Involved News Issues About Sam About Sam Legislative Highlights Get Involved News Issues Facebook Twitter Donate Day: September 3, 2026 Categories Uncategorized Former Senator Samuel “Sam” Carrión Announces Candidacy for 37th Legislature Post author By swiftkurrent Post date September 3, 2026 No Comments on Former Senator Samuel “Sam” Carrión Announces Candidacy for 37th Legislature ST.
 CROIX, U.S.V.I. — Former Senator Samuel “Sam” Carrión today officially announced his candidacy for the St.
 Croix District in the upcoming election for the 37th Legislature of the Virgin Islands.
 Carrión is launching his campaign to return to public service, emphasizing that there is still much critical work to be done.
@@ -8,17 +8,23 @@ His legislative record features landmark achievements, including establishing th
 Croix and the wider Virgin Islands has never wavered,” Carrión stated.
 “While my time away from the Senate floor allowed me to engage with our community from a different perspective, it also highlighted how urgent our challenges remain.
 Our people deserve proactive, common-sense leadership.
-I am ready to return to the Legislature to do the heavy lifting required to move the Virgin Islands forward.”
-Carrión’s legislative priorities will center on revitalizing economic development, supporting local non-profit organizations, strengthening government transparency, enhancing public safety, and enforcing strict oversight on long-delayed federal recovery projects.
+I am ready to return to the Legislature to do the heavy lifting required to move the Virgin Islands forward.” Carrión’s legislative priorities will center on revitalizing economic development, supporting local non-profit organizations, strengthening government transparency, enhancing public safety, and enforcing strict oversight on long-delayed federal recovery projects.
 “I also remain especially concerned about the state of healthcare, energy, and our schools,” he said.
 “I currently have children in our public school system and, while there are certainly many good things happening, our students and teachers deserve better.
 And we must take a look at how a public private partnership with a hospital on the mainland could better support our health care services available in the Virgin Islands.
 I am one of the many in our community whose family members have sought care offisland.
-It is extremely challenging.”
-Carrión said there is a great deal at stake right now given the territory’s ongoing recovery efforts coupled with drastic policy shifts within the federal government.
+It is extremely challenging.” Carrión said there is a great deal at stake right now given the territory’s ongoing recovery efforts coupled with drastic policy shifts within the federal government.
 “We must position ourselves to be more self-sufficient while maximizing the assistance we receive,” he said.
 “I also believe we can create new economic opportunities by forming strategic relationships within the wider region to truly move the territory forward.
-My mission remains
-‘Progress for All.’”
-A St.
+My mission remains ‘Progress for All.’” A St.
 Croix native, entrepreneur, and community advocate, Carrión remains deeply committed to fostering sustainable economic growth, preserving local culture, and improving the quality of life for all Virgin Islanders.
+Yelp Facebook Twitter Instagram Email About This Site This may be a good place to introduce yourself and your site or include some credits.
+Find Us Address 123 Main Street New York, NY 10001 Hours Monday–Friday: 9:00AM–5:00PM Saturday & Sunday: 11:00AM–3:00PM News Former Senator Samuel “Sam” Carrión Announces Candidacy for 37th Legislature September 3, 2026 ST.
+CROIX, U.S.V.I. — Former Senator Samuel “Sam” Carrión today officially announced his candidacy for the St.
+Croix District in the upcoming election for the Read More » Senator Carrión Expresses Disappointment in Governor’s Veto of Bill No.
+35-0236 July 11, 2024 St.
+Croix, U.S.
+Virgin Islands– Senator Samuel Carrión today issued a statement in response to Governor Albert Bryan Jr.’s veto of Bill No.
+35-0236, the Read More » Senator Carrión position over Governor Albert Bryan’s Request for a $200,000 Allocation to support relief efforts and GVI’s General Fund Financial Constraints.
+July 11, 2024 Senator Samuel Carrión regrettably is unable to support the $200,000 allocation request made by Governor Albert Bryan; as the General Fund has severely exceeded its Read More » More News >> Facebook Twitter Paid for by Friends of Samuel Carrion Friends of Samuel Carrion PO Box 223233 Christiansted, St.
+Croix USVI 00822-3233 340-227-2266 info@samcarrion.com

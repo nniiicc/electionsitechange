@@ -1,5 +1,5 @@
-Meet Marilyn
-Marilyn Dondero Loop has deep roots in Las Vegas.
+top of page Home About Endorsements Issues Education Public Safety Healthcare Jobs Volunteer More Use tab to navigate through the menu items.
+Contribute Meet Marilyn ​ Marilyn Dondero Loop has deep roots in Las Vegas.
 Born and raised in Clark County, Marilyn grew up in a family dedicated to public service.
 The fourth in a family of five children, Marilyn and her brothers and sister learned at a young age the importance of public service and giving back to the community, which would eventually lead her to seek public office.
 Marilyn is the product of Nevada’s K-12 public education and higher education systems.
@@ -20,3 +20,4 @@ She will fight to make our public schools better and work to bring good-paying j
 Marilyn has lived in State Senate district 8 for 25 years.
 She has 3 daughters and 5 grandchildren.
 She enjoys cooking, reading, and being involved in making education better for Nevada.
+Contact Marilyn Contribute Paid for and Authorized by the Marilyn Dondero Loop Campaign 9811 W Charleston Blvd, Ste 2-420, Las Vegas, NV 89117 | 702-278-7892 www.DonderoLoopNV.com bottom of page

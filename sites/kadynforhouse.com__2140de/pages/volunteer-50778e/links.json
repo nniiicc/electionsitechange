@@ -1,11 +1,42 @@
 [
-"https://kadynforhouse.com/",
-"https://kadynforhouse.com/cart",
-"https://kadynforhouse.com/connect",
-"https://kadynforhouse.com/connect-1",
-"https://kadynforhouse.com/issues",
-"https://kadynforhouse.com/meet-kadyn",
-"https://kadynforhouse.com/volunteer",
-"https://kadynforhouse.com/yard-signs",
-"https://secure.actblue.com/donate/kadyn-for-house"
+{
+"text": "0",
+"href": "https://kadynforhouse.com/cart"
+},
+{
+"text": "Back",
+"href": "https://kadynforhouse.com/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/kadyn-for-house"
+},
+{
+"text": "Folder: Connect",
+"href": "https://kadynforhouse.com/connect-1"
+},
+{
+"text": "Issues",
+"href": "https://kadynforhouse.com/issues"
+},
+{
+"text": "Meet Kadyn",
+"href": "https://kadynforhouse.com/meet-kadyn"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://kadynforhouse.com/yard-signs"
+},
+{
+"text": "Send a Message",
+"href": "https://kadynforhouse.com/connect"
+},
+{
+"text": "Volunteer",
+"href": "https://kadynforhouse.com/volunteer"
+},
+{
+"text": "[image: Wittman for House]",
+"href": "https://kadynforhouse.com/"
+}
 ]

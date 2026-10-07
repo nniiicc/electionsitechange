@@ -1,20 +1,74 @@
 [
-"http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7427.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8308.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8309.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8310.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8325.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8327.pdf",
-"https://facebook.com/Marie4RI",
-"https://marie4ri.com/",
-"https://marie4ri.com/about",
-"https://marie4ri.com/connect",
-"https://marie4ri.com/donate-now",
-"https://marie4ri.com/email-us",
-"https://marie4ri.com/gallery",
-"https://marie4ri.com/how-marie-can-help",
-"https://marie4ri.com/primary-care-bills",
-"https://marie4ri.com/request-a-sign-district-21-map-1",
-"https://marie4ri.com/vision",
-"https://twitter.com/MarieForRI"
+{
+"text": "...",
+"href": "https://www.marie4ri.com/"
+},
+{
+"text": "About",
+"href": "https://www.marie4ri.com/about"
+},
+{
+"text": "CONNECT",
+"href": "https://www.marie4ri.com/connect"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.marie4ri.com/donate-now"
+},
+{
+"text": "Email Us",
+"href": "https://www.marie4ri.com/email-us"
+},
+{
+"text": "Gallery",
+"href": "https://www.marie4ri.com/gallery"
+},
+{
+"text": "How Marie Can Help",
+"href": "https://www.marie4ri.com/how-marie-can-help"
+},
+{
+"text": "Primary Care Bills",
+"href": "https://www.marie4ri.com/primary-care-bills"
+},
+{
+"text": "Read More",
+"href": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H7427.pdf"
+},
+{
+"text": "Read More",
+"href": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8308.pdf"
+},
+{
+"text": "Read More",
+"href": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8309.pdf"
+},
+{
+"text": "Read More",
+"href": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8310.pdf"
+},
+{
+"text": "Read More",
+"href": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8325.pdf"
+},
+{
+"text": "Read More",
+"href": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8327.pdf"
+},
+{
+"text": "Request a Sign / District 21 Map",
+"href": "https://www.marie4ri.com/request-a-sign-district-21-map-1"
+},
+{
+"text": "VISION",
+"href": "https://www.marie4ri.com/vision"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MarieForRI"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marie4RI/"
+}
 ]

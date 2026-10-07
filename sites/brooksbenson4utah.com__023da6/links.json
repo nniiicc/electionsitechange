@@ -1,13 +1,54 @@
 [
-"https://brooksbenson4utah.com/education.html",
-"https://brooksbenson4utah.com/energy.html",
-"https://brooksbenson4utah.com/fiscal.html",
-"https://brooksbenson4utah.com/infrastructure.html",
-"https://brooksbenson4utah.com/privacy.html",
-"https://brooksbenson4utah.com/sms-terms.html",
-"https://brooksbenson4utah.com/text.html",
-"https://brooksbenson4utah.com/water.html",
-"https://facebook.com/profile.php?id=100068498047572",
-"https://instagram.com/brooksbenson4utahsenate",
-"https://mnto.dev/"
+{
+"text": "DONATE",
+"href": "javascript:void(0)"
+},
+{
+"text": "Donate Now",
+"href": "javascript:void(0)"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100068498047572"
+},
+{
+"text": "Get Text Updates",
+"href": "https://brooksbenson4utah.com/text.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brooksbenson4utahsenate"
+},
+{
+"text": "Learn More →",
+"href": "https://brooksbenson4utah.com/education.html"
+},
+{
+"text": "Learn More →",
+"href": "https://brooksbenson4utah.com/energy.html"
+},
+{
+"text": "Learn More →",
+"href": "https://brooksbenson4utah.com/fiscal.html"
+},
+{
+"text": "Learn More →",
+"href": "https://brooksbenson4utah.com/infrastructure.html"
+},
+{
+"text": "Learn More →",
+"href": "https://brooksbenson4utah.com/water.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brooksbenson4utah.com/privacy.html"
+},
+{
+"text": "SMS Terms",
+"href": "https://brooksbenson4utah.com/sms-terms.html"
+},
+{
+"text": "memento",
+"href": "https://mnto.dev"
+}
 ]

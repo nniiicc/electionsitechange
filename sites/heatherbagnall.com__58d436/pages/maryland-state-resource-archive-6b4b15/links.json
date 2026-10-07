@@ -1,67 +1,278 @@
 [
-"http://djs.maryland.gov/Pages/default.aspx",
-"http://doit.maryland.gov/",
-"http://facebook.com/DelegateHeatherBagnall/events",
-"http://instagram.com/delegateheatherbagnall",
-"http://labor.maryland.gov/",
-"http://mdot.maryland.gov/",
-"http://mdsp.maryland.gov/",
-"http://news.maryland.gov/dpscs/home",
-"http://planning.maryland.gov/",
-"http://veterans.maryland.gov/",
-"https://211md.org/",
-"https://aging.maryland.gov/Pages/default.aspx",
-"https://bpw.maryland.gov/Pages/default.aspx",
-"https://commerce.maryland.gov/",
-"https://courts.state.md.us/",
-"https://dgs.maryland.gov/Pages/default.aspx",
-"https://dhcd.maryland.gov/Pages/default.aspx",
-"https://dhs.maryland.gov/",
-"https://dnr.maryland.gov/Pages/default.aspx",
-"https://egov.maryland.gov/BusinessExpress",
-"https://facebook.com/DelegateHeatherBagnall",
-"https://facebook.com/DelegateHeatherBagnall/events",
-"https://governor.maryland.gov/",
-"https://health.maryland.gov/pages/index.aspx",
-"https://heatherbagnall.com/",
-"https://heatherbagnall.com/about-me",
-"https://heatherbagnall.com/articles",
-"https://heatherbagnall.com/campaign-update",
-"https://heatherbagnall.com/campaign-videos",
-"https://heatherbagnall.com/contact",
-"https://heatherbagnall.com/contribute",
-"https://heatherbagnall.com/covid19",
-"https://heatherbagnall.com/delegate-news",
-"https://heatherbagnall.com/endorsements",
-"https://heatherbagnall.com/interviews",
-"https://heatherbagnall.com/leadership",
-"https://heatherbagnall.com/maryland-state-resource-archive",
-"https://heatherbagnall.com/scholarship-2025",
-"https://heatherbagnall.com/scholarships",
-"https://heatherbagnall.com/session-recap",
-"https://heatherbagnall.com/subscribe",
-"https://heatherbagnall.com/term-conditions",
-"https://heatherbagnall.com/virtual-town-halls",
-"https://heatherbagnall.com/volunteer",
-"https://heatherbagnall.com/voter-information",
-"https://industry.visitmaryland.org/",
-"https://marylandattorneygeneral.gov/",
-"https://marylandpublicschools.org/Pages/default.aspx",
-"https://marylandtaxes.gov/",
-"https://mda.maryland.gov/Pages/default.aspx",
-"https://mdchamber.org/",
-"https://mde.maryland.gov/Pages/index.aspx",
-"https://mdem.maryland.gov/Pages/default.aspx",
-"https://mdfarmbureau.com/",
-"https://mdmunicipal.org/",
-"https://mdod.maryland.gov/Pages/Home.aspx",
-"https://mgaleg.maryland.gov/mgawebsite",
-"https://mhec.maryland.gov/",
-"https://msa.maryland.gov/msa/mdmanual/11dbm/html/dbm.html",
-"https://msa.maryland.gov/msa/mdmanual/html/mmtoc.html",
-"https://msac.org/",
-"https://mva.maryland.gov/Pages/default.aspx",
-"https://usmd.edu/",
-"https://usna.edu/homepage.php",
-"https://youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+{
+"text": "About Me",
+"href": "https://www.heatherbagnall.com/about-me"
+},
+{
+"text": "Articles",
+"href": "https://www.heatherbagnall.com/articles"
+},
+{
+"text": "Attend",
+"href": "http://www.facebook.com/DelegateHeatherBagnall/events/"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:administrator@heatherbagnall.com?subject=A+Contact+from+HeatherBagnall.com"
+},
+{
+"text": "COVID-19 RESOURCES",
+"href": "https://www.heatherbagnall.com/covid19"
+},
+{
+"text": "Campaign Update",
+"href": "https://www.heatherbagnall.com/campaign-update"
+},
+{
+"text": "Campaign Videos",
+"href": "https://www.heatherbagnall.com/campaign-videos"
+},
+{
+"text": "Contact",
+"href": "https://www.heatherbagnall.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.heatherbagnall.com/contribute"
+},
+{
+"text": "Delegate News",
+"href": "https://www.heatherbagnall.com/delegate-news"
+},
+{
+"text": "EVENTS",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heatherbagnall.com/endorsements"
+},
+{
+"text": "Heather@HeatherBagnall.com",
+"href": "mailto:Heather@HeatherBagnall.com"
+},
+{
+"text": "Home",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "Interviews",
+"href": "https://www.heatherbagnall.com/interviews"
+},
+{
+"text": "Leadership",
+"href": "https://www.heatherbagnall.com/leadership"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.heatherbagnall.com/scholarship-2025"
+},
+{
+"text": "Scholarships",
+"href": "https://www.heatherbagnall.com/scholarships"
+},
+{
+"text": "Session Recap",
+"href": "https://www.heatherbagnall.com/session-recap"
+},
+{
+"text": "State Resource Archive",
+"href": "https://www.heatherbagnall.com/maryland-state-resource-archive"
+},
+{
+"text": "Subscribe",
+"href": "https://www.heatherbagnall.com/subscribe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.heatherbagnall.com/term-conditions"
+},
+{
+"text": "Virtual Town Halls",
+"href": "https://www.heatherbagnall.com/virtual-town-halls"
+},
+{
+"text": "Volunteer",
+"href": "https://www.heatherbagnall.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.heatherbagnall.com/voter-information"
+},
+{
+"text": "[image: Aging][image: Aging]",
+"href": "https://aging.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Agriculture][image: Agriculture]",
+"href": "https://mda.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Board of Public Works][image: Board of Public Works]",
+"href": "https://bpw.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Budget & Management][image: Budget & Management]",
+"href": "https://msa.maryland.gov/msa/mdmanual/11dbm/html/dbm.html"
+},
+{
+"text": "[image: Business Express][image: Business Express]",
+"href": "https://egov.maryland.gov/BusinessExpress/"
+},
+{
+"text": "[image: Commerce][image: Commerce]",
+"href": "https://commerce.maryland.gov"
+},
+{
+"text": "[image: Disabilities][image: Disabilities]",
+"href": "https://mdod.maryland.gov/Pages/Home.aspx"
+},
+{
+"text": "[image: Education][image: Education]",
+"href": "https://marylandpublicschools.org/Pages/default.aspx"
+},
+{
+"text": "[image: Environment][image: Environment]",
+"href": "https://mde.maryland.gov/Pages/index.aspx"
+},
+{
+"text": "[image: General Services][image: General Services]",
+"href": "https://dgs.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Governor's Office][image: Governor's Office]",
+"href": "https://governor.maryland.gov"
+},
+{
+"text": "[image: Health][image: Health]",
+"href": "https://health.maryland.gov/pages/index.aspx"
+},
+{
+"text": "[image: Heather Bagnall - Maryland State Delegate - District 33]",
+"href": "https://www.heatherbagnall.com/"
+},
+{
+"text": "[image: Housing][image: Housing]",
+"href": "https://dhcd.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Human Services][image: Human Services]",
+"href": "https://dhs.maryland.gov"
+},
+{
+"text": "[image: Information Technology][image: Information Technology]",
+"href": "http://doit.maryland.gov"
+},
+{
+"text": "[image: Juvenile Services][image: Juvenile Services]",
+"href": "http://djs.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Labor][image: Labor]",
+"href": "http://labor.maryland.gov"
+},
+{
+"text": "[image: MD Chamber of Commerce][image: MD Chamber of Commerce]",
+"href": "https://mdchamber.org"
+},
+{
+"text": "[image: MD Farm Bureau][image: MD Farm Bureau]",
+"href": "https://www.mdfarmbureau.com"
+},
+{
+"text": "[image: MD Municipal League][image: MD Municipal League]",
+"href": "https://www.mdmunicipal.org"
+},
+{
+"text": "[image: MD State Arts Council][image: MD State Arts Council]",
+"href": "https://www.msac.org"
+},
+{
+"text": "[image: MEMA][image: MEMA]",
+"href": "https://mdem.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: MHEC][image: MHEC]",
+"href": "https://www.mhec.maryland.gov"
+},
+{
+"text": "[image: Maryland 211][image: Maryland 211]",
+"href": "https://211md.org"
+},
+{
+"text": "[image: Maryland Attorney General][image: Maryland Attorney General]",
+"href": "https://www.marylandattorneygeneral.gov"
+},
+{
+"text": "[image: Maryland Comptroller][image: Maryland Comptroller]",
+"href": "https://www.marylandtaxes.gov"
+},
+{
+"text": "[image: Maryland General Assembly][image: Maryland General Assembly]",
+"href": "https://mgaleg.maryland.gov/mgawebsite/"
+},
+{
+"text": "[image: Maryland Judiciary][image: Maryland Judiciary]",
+"href": "https://www.courts.state.md.us"
+},
+{
+"text": "[image: Maryland State Police][image: Maryland State Police]",
+"href": "http://mdsp.maryland.gov"
+},
+{
+"text": "[image: Motor Vehicle Administration][image: Motor Vehicle Administration]",
+"href": "https://mva.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Natural Resources][image: Natural Resources]",
+"href": "https://dnr.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image: Planning][image: Planning]",
+"href": "http://planning.maryland.gov"
+},
+{
+"text": "[image: Public Safety][image: Public Safety]",
+"href": "http://news.maryland.gov/dpscs/home/"
+},
+{
+"text": "[image: The Maryland Manual][image: The Maryland Manual]",
+"href": "https://msa.maryland.gov/msa/mdmanual/html/mmtoc.html"
+},
+{
+"text": "[image: Tourism][image: Tourism]",
+"href": "https://industry.visitmaryland.org"
+},
+{
+"text": "[image: Transportation][image: Transportation]",
+"href": "http://mdot.maryland.gov"
+},
+{
+"text": "[image: US Naval Academy][image: US Naval Academy]",
+"href": "https://www.usna.edu/homepage.php"
+},
+{
+"text": "[image: University of Maryland][image: University of Maryland]",
+"href": "https://www.usmd.edu"
+},
+{
+"text": "[image: Veterans Affairs][image: Veterans Affairs]",
+"href": "http://veterans.maryland.gov"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/delegateheatherbagnall"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateHeatherBagnall/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCKYoHAIJrljAfVlvW57rvJQ"
+},
+{
+"text": "[no text]",
+"href": "mailto:Heather@HeatherBagnall.com"
+}
 ]

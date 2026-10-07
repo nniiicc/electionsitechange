@@ -1,7 +1,6 @@
-The Colorado Association of Professional Sureties (CAPS) is pleased to endorse Naomi Riess for Colorado House District 59.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from CAPS CAPS endorses Naomi Riess for Colorado House District 59 The Colorado Association of Professional Sureties (CAPS) is pleased to endorse Naomi Riess for Colorado House District 59.
 Naomi took the time to complete our candidate questionnaire and meet with our association to discuss issues affecting Colorado’s bail and surety profession.
 We appreciate her thoughtful engagement and her willingness to learn more about the important role professional sureties play in Colorado’s criminal justice system.
 CAPS is proud to support candidates who are willing to listen, ask questions, and engage directly with the professionals affected by decisions made at the State Capitol.
 We appreciate Naomi Riess’ interest in the issues important to our members and are pleased to endorse her candidacy for the Colorado General Assembly.
-Nicole Martinez, President
-Colorado Association of Professional Sureties
+Nicole Martinez, President Colorado Association of Professional Sureties Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

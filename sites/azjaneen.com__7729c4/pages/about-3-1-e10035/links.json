@@ -1,15 +1,58 @@
 [
-"http://wix.com/",
-"https://azjaneen.com/",
-"https://azjaneen.com/about-3",
-"https://azjaneen.com/about-3-1",
-"https://azjaneen.com/get-involved",
-"https://azjaneen.com/news",
-"https://bsky.app/profile/azjaneen.bsky.social",
-"https://facebook.com/AZJaneen",
-"https://instagram.com/azjaneen",
-"https://linkedin.com/in/janeen-connolly-formerly-rohovit-38963a213",
-"https://secure.actblue.com/donate/janeen-for-arizona-1",
-"https://servicearizona.com/VoterRegistration/selectLanguage",
-"https://x.com/janeenrohovit"
+{
+"text": "About",
+"href": "https://www.azjaneen.com/about-3"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janeen-for-arizona-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.azjaneen.com/about-3-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.azjaneen.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.azjaneen.com"
+},
+{
+"text": "News",
+"href": "https://www.azjaneen.com/news"
+},
+{
+"text": "Voter Registration",
+"href": "https://servicearizona.com/VoterRegistration/selectLanguage"
+},
+{
+"text": "Wix",
+"href": "http://wix.com/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://bsky.app/profile/azjaneen.bsky.social"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.azjaneen.com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.facebook.com/AZJaneen/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.instagram.com/azjaneen/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.linkedin.com/in/janeen-connolly-formerly-rohovit-38963a213/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://x.com/janeenrohovit"
+}
 ]

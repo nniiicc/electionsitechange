@@ -1,6 +1,4 @@
-Skip navigation menu
-Meet Paula Swift
-Dr.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Swift Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Swift Dr.
 Paula Swift is a devoted small business owner, educator, advocate, and proud wife and mother who understands the complexity of life in California, the opportunities it creates, and the challenges that too often keep families from thriving.
 She is running for State Assembly District 70 because Californians deserve a leader who listens, understands, and delivers real solutions that make daily life more affordable.
 A native Californian raised with the values of hard work, service, and community, Paula put herself through college while raising a family.
@@ -22,3 +20,5 @@ Paula believes leadership is measured by outcomes, not slogans.
 She has never forgotten who she is fighting for families overwhelmed by the high cost of living, individuals looking for fair and affordable health care, workers seeking stability, and young people, especially those in foster care, who deserve a future shaped by opportunity rather than circumstance.
 Dr.
 Paula Swift is ready to fight for a better, fairer, and more compassionate California, one where every family and every child has the chance to thrive.
+Support our campaign today! $ 500 $ 250 $ 100 $ 50 $ 25 Other $ 500 $ 250 $ 100 $ 50 $ 25 Other Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
+Manchester Blvd., Suite 700, Inglewood, CA 90301 You need to enable JavaScript to run this app.

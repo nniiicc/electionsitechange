@@ -1,7 +1,5 @@
-Dear Friends,
-Alaska deserves leadership that listens, that solves problems, and that puts people over politics.
-That’s why I’m running for re-election, to keep fighting for a future that works for all Alaskans.
-Since 2019, it has been one of the greatest privileges of my life to serve the people of District I, and now District G.
+top of page BACK Dear Friends, ​​​ Alaska deserves leadership that listens, that solves problems, and that puts people over politics.
+That’s why I’m running for re-election, to keep fighting for a future that works for all Alaskans. ​ Since 2019, it has been one of the greatest privileges of my life to serve the people of District I, and now District G.
 Together, we’ve faced challenges, made meaningful progress, and demonstrated what it means to lead with integrity, resilience, and heart.
 My commitment to this community has never wavered, and today, it’s stronger than ever.
 From investing in strong public schools, supporting public safety, advocating for affordable healthcare, protecting our natural resources, focusing on a comprehensive and sustainable fiscal plan, and strengthening opportunities for working families.
@@ -17,5 +15,5 @@ During my time in the Senate, I’m proud, alongside others, to have delivered r
 These are hard-earned accomplishments, and I believe we’re just getting started.
 There is still a lot of work to do.
 The challenges before the legislature are significant, but I promise to continue working with all 59 legislators, and whomever is elected Governor, to get the job done on behalf of all Alaskans.
-I will continue working diligently on your behalf, never for special interests, but always:
-Representing Your Interests!
+I will continue working diligently on your behalf, never for special interests, but always: ​ Representing Your Interests! - ELVI GRAY-JACKSON | SERVING ALASKA STATE SENATE DISTRICT G Paid for by Friends of Elvi Gray-Jackson, P.O.
+Box 240091, Anchorage, AK 99524-0091 bottom of page

@@ -1,4 +1,9 @@
-I would be honored to represent you in the State House.
+0 Skip to Content Contact Priorities About Donate Open Menu Close Menu Contact Priorities About Donate Open Menu Close Menu Contact Priorities About Donate I would be honored to represent you in the State House.
+Vermont is my home, in every sense of the word.
+I was born and raised here and proudly brought the skills and knowledge I gained in Vermont public schools out into the wider world.
+I went to college in Massachusetts, toured the country working for a rock band, lived in Boston for a while, then moved to New York City, where I stayed for almost a decade.
+All along (and my city-bred husband will attest to this), I knew I would return to Vermont to raise my kids.
+I wanted them to have the same Vermont childhood I’d experienced; a relatively carefree youth spent outside and in community without the pressure to grow up too fast.
 Part of that wish came true.
 I moved back to Vermont two weeks after our second child was born in 2010.
 We soon made friends and co-created a loving community around our kids.
@@ -18,3 +23,5 @@ But I promise you that I will bring a critical problem-solving component to Mont
 I will listen and learn with an awareness of all that I know and don’t know.
 I will lead with an open heart and seek out knowledge from all members of our community – including folks whose voices have typically been undervalued, as well as those who disagree with me.
 Because true representation is how we make progress.
+Donate Angela Arsenault for State Representative P.O.
+Box 1102 Williston, VT 05495 Paid for by Angela Arsenault for State Representative Priorities About Home Contact Donate

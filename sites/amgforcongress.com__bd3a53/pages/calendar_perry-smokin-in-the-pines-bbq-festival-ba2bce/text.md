@@ -1,12 +1,5 @@
-Back to All Events
-NOTE: This event starts at 3PM Central/4PM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Perry Smokin' in the Pines BBQ Festival Friday, September 25, 2026 4:00 PM 7:00 PM 203 Forest Park Drive Perry, Florida, 32348 United States (map) Google Calendar ICS NOTE: This event starts at 3PM Central/4PM Eastern.
 Amanda will be attending with members of Team AMG!
 Taylor County, Florida is home to one of the largest and most popular BBQ Festivals in the state and southeastern United States!
-Learn More: https://www.smokininthepinesbbq.com/
-Previous
-Previous
-September 24
-Amanda Green for Congress Rally
-Next
-Next
-September 26
+Learn More: https://www.smokininthepinesbbq.com/ Previous Previous September 24 Amanda Green for Congress Rally Next Next September 26 TEAM AMG/VOLUNTEERS: Panacea Blue Crab Festival TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

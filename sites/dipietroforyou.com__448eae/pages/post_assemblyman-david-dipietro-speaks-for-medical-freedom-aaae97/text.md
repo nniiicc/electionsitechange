@@ -1,3 +1,6 @@
-Assemblyman David DiPietro Speaks for Medical Freedom
-On January 14, 2025, Assemblyman David DiPietro spoke at the MAHA Event in Albany, along with Del Bigtree, Bobbie Ann Cox, Tricia Lindsay, John Gilmore, and Mary Holland.
+top of page Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated HOME THE SHOWS The David DiPietro Show Silent Majority Speaks Podcast ABOUT DAVE LATEST NEWS THE ISSUES GET INVOLVED OPERATION GIFT CERTIFICATE POWERFUL PARTNERSHIP More Use tab to navigate through the menu items.
+All Posts Latest Political News Culture and Opinions Events Your Community Vaccines & Health Search Assemblyman David DiPietro Speaks for Medical Freedom David Dipietro Jan 16, 2025 1 min read On January 14, 2025, Assemblyman David DiPietro spoke at the MAHA Event in Albany, along with Del Bigtree, Bobbie Ann Cox, Tricia Lindsay, John Gilmore, and Mary Holland.
 He provides updates on the current policies in place in Albany and the bills he is introducing to bring medical freedom back in New York State.
+Tags: New York Assembly Albany Dipietro updates events vaccines vax medical freedom Latest Political News Events Vaccines & Health Recent Posts See All The Big, Bad Bills - Vaccines in the New York State Assembly Introducing...A Report on Vaccine Bills in New York State Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated © # DiPietro For You bottom of page

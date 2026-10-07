@@ -1,15 +1,70 @@
 [
-"http://aboutads.info/choices",
-"https://chrissheaforcongress.com/",
-"https://chrissheaforcongress.com/issues",
-"https://chrissheaforcongress.com/privacy-policy",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/profile.php?id=61586811124047",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/chris-shea-for-congress/donate",
-"https://secure.winred.com/chris-shea-for-congress/storefront",
-"https://x.com/sheaforcongress"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586811124047"
+},
+{
+"text": "Home",
+"href": "https://chrissheaforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://chrissheaforcongress.com/issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://chrissheaforcongress.com/#contact"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrissheaforcongress.com/#meet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrissheaforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/chris-shea-for-congress/storefront/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "X",
+"href": "https://x.com/sheaforcongress"
+},
+{
+"text": "[image: Chris Shea for Congress]",
+"href": "https://chrissheaforcongress.com/"
+},
+{
+"text": "[image: Logo - Chris Shea for Congress]",
+"href": "https://chrissheaforcongress.com/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "info@chrissheaforcongress.com",
+"href": "mailto:info@chrissheaforcongress.com"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

@@ -1,43 +1,170 @@
 [
-"https://facebook.com/RobertJWittman",
-"https://robwittman.com/",
-"https://robwittman.com/about",
-"https://robwittman.com/contact",
-"https://robwittman.com/endorsements",
-"https://robwittman.com/get-involved",
-"https://robwittman.com/get-the-facts",
-"https://robwittman.com/issues",
-"https://robwittman.com/media-kit",
-"https://robwittman.com/site-map",
-"https://robwittman.com/voting",
-"https://robwittman.com/wp-content/uploads/2024/06/full-family-1024x640.jpg",
-"https://robwittman.com/wp-content/uploads/2024/06/grandkids-2-1024x640.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/1.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/2-IMG_0975-1024x640.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/2.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/admin-ajax-3.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/admin-ajax-4.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/admin-ajax.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/boat.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/campaign.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/firestation.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/fishin.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/gov-1024x640.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/group.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/groupphoto.jpg",
-"https://robwittman.com/wp-content/uploads/2024/07/truck.jpg",
-"https://robwittman.com/wp-content/uploads/2026/07/Image-39-1024x575.jpeg",
-"https://robwittman.com/wp-content/uploads/2026/07/Image-40-1024x565.jpeg",
-"https://robwittman.com/wp-content/uploads/2026/07/Image-41-1024x576.jpeg",
-"https://robwittman.com/wp-content/uploads/2026/07/Image-42-1024x575.jpeg",
-"https://robwittman.com/wp-content/uploads/2026/07/Image-44-1024x575.jpeg",
-"https://secure.winred.com/rob-wittman/donate",
-"https://secure.winred.com/rob-wittman/donate?amount=100",
-"https://secure.winred.com/rob-wittman/donate?amount=250",
-"https://secure.winred.com/rob-wittman/donate?amount=50",
-"https://secure.winred.com/rob-wittman/donate?amount=500",
-"https://secure.winred.com/rob-wittman/storefront",
-"https://secure.winred.com/wittman-victory-committee/donate",
-"https://twitter.com/reelectwittman",
-"https://youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/rob-wittman/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://robwittman.com/about/"
+},
+{
+"text": "Contact us today!",
+"href": "https://robwittman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/wittman-victory-committee/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://robwittman.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://robwittman.com/get-involved/"
+},
+{
+"text": "Get The Facts",
+"href": "https://robwittman.com/get-the-facts/"
+},
+{
+"text": "Issues",
+"href": "https://robwittman.com/issues/"
+},
+{
+"text": "Media Kit",
+"href": "https://robwittman.com/media-kit/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/rob-wittman/donate"
+},
+{
+"text": "Site Map",
+"href": "https://robwittman.com/site-map/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/rob-wittman/storefront/"
+},
+{
+"text": "Voting",
+"href": "https://robwittman.com/voting/"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/06/full-family-1024x640.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/06/grandkids-2-1024x640.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/2-IMG_0975-1024x640.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/admin-ajax-3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/admin-ajax-4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/admin-ajax.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/boat.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/campaign.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/firestation.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/fishin.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/gov-1024x640.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/group.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/groupphoto.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2024/07/truck.jpg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2026/07/Image-39-1024x575.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2026/07/Image-40-1024x565.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2026/07/Image-41-1024x576.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2026/07/Image-42-1024x575.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://robwittman.com/wp-content/uploads/2026/07/Image-44-1024x575.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reelectwittman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RobertJWittman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCTgPbi41IMkbTnnXm9FDCHg"
+},
+{
+"text": "campaign@robwittman.com",
+"href": "mailto:campaign@robwittman.com"
+}
 ]

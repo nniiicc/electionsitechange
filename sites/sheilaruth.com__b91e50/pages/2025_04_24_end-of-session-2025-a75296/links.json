@@ -1,45 +1,174 @@
 [
-"https://chesbay.us/",
-"https://facebook.com/SheilaRuthD44B",
-"https://instagram.com/marylandlgbtqcaucus",
-"https://instagram.com/mdlatinocaucus",
-"https://marylandtransitcaucus.org/news",
-"https://mdwomenslegislativecaucus.org/",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0232?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0277?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0340?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0341?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0386?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0417?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0627?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0639?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0642?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0858?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1066?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1265?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1422?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1511?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HJ0003?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0096?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0344?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0345?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0346?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0587?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0635?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0736?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0901?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SJ0001?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0641?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0731?ys=2025RS",
-"https://secure.actblue.com/donate/sheilaruthd44b",
-"https://sheilaruth.com/",
-"https://sheilaruth.com/about-sheila",
-"https://sheilaruth.com/blog",
-"https://sheilaruth.com/contact",
-"https://sheilaruth.com/home",
-"https://sheilaruth.com/social-media-policy",
-"https://sheilaruth.com/subscribe",
-"https://sheilaruth.com/volunteer",
-"https://twitter.com/SheilaRuthD44B",
-"https://us17.campaign-archive.com/home?u=a893cb03214f26c7245ed8164&id=feffd77258"
+{
+"text": "About Sheila",
+"href": "https://www.sheilaruth.com/about-sheila/"
+},
+{
+"text": "Chesapeake Bay Commission",
+"href": "https://www.chesbay.us"
+},
+{
+"text": "Contact",
+"href": "https://www.sheilaruth.com/contact/"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/sheilaruthd44b"
+},
+{
+"text": "HB0232",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0232?ys=2025RS"
+},
+{
+"text": "HB0277",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0277?ys=2025RS"
+},
+{
+"text": "HB0340",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0340?ys=2025RS"
+},
+{
+"text": "HB0341",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0341?ys=2025RS"
+},
+{
+"text": "HB0386",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0386?ys=2025RS"
+},
+{
+"text": "HB0417",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0417?ys=2025RS"
+},
+{
+"text": "HB0627",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0627?ys=2025RS"
+},
+{
+"text": "HB0639",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0639?ys=2025RS"
+},
+{
+"text": "HB0641",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0641?ys=2025RS"
+},
+{
+"text": "HB0642",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0642?ys=2025RS"
+},
+{
+"text": "HB0731",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0731?ys=2025RS"
+},
+{
+"text": "HB0858",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0858?ys=2025RS"
+},
+{
+"text": "HB1066",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1066?ys=2025RS"
+},
+{
+"text": "HB1265",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1265?ys=2025RS"
+},
+{
+"text": "HB1422",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1422?ys=2025RS"
+},
+{
+"text": "HB1511",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1511?ys=2025RS"
+},
+{
+"text": "HJ3",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HJ0003?ys=2025RS"
+},
+{
+"text": "Home",
+"href": "https://www.sheilaruth.com/home/"
+},
+{
+"text": "LGBTQ+ Caucus",
+"href": "https://www.instagram.com/marylandlgbtqcaucus/"
+},
+{
+"text": "Maryland Legislative Latino Caucus",
+"href": "https://www.instagram.com/mdlatinocaucus/"
+},
+{
+"text": "Maryland Transit Caucus",
+"href": "https://www.marylandtransitcaucus.org/news"
+},
+{
+"text": "SB0096",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0096?ys=2025RS"
+},
+{
+"text": "SB0344",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0344?ys=2025RS"
+},
+{
+"text": "SB0345",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0345?ys=2025RS"
+},
+{
+"text": "SB0346",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0346?ys=2025RS"
+},
+{
+"text": "SB0587",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0587?ys=2025RS"
+},
+{
+"text": "SB0635",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0635?ys=2025RS"
+},
+{
+"text": "SB0736",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0736?ys=2025RS"
+},
+{
+"text": "SB0901",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0901?ys=2025RS"
+},
+{
+"text": "SJ1",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SJ0001?ys=2025RS"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.sheilaruth.com/social-media-policy/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.sheilaruth.com/subscribe/"
+},
+{
+"text": "Updates",
+"href": "https://www.sheilaruth.com/blog/"
+},
+{
+"text": "View Past Issues",
+"href": "https://us17.campaign-archive.com/home/?u=a893cb03214f26c7245ed8164&id=feffd77258"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sheilaruth.com/volunteer/"
+},
+{
+"text": "Women Legislators of Maryland,",
+"href": "https://www.mdwomenslegislativecaucus.org"
+},
+{
+"text": "[image: Image]",
+"href": "https://www.sheilaruth.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SheilaRuthD44B"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SheilaRuthD44B"
+}
 ]

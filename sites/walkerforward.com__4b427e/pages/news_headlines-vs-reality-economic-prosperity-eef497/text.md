@@ -1,10 +1,9 @@
-Headlines vs.
-Reality: Economic Prosperity
-There's been a lot of party platforms come and go in my time.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Headlines vs.
+Reality: Economic Prosperity Jul 16 Written By Brian Walker There's been a lot of party platforms come and go in my time.
 First as a Republican, now as a DFLer.
 Here's something I've learned: the headline always sounds good.
 It's the fine print that tells you the truth.
-Take the Minnesota GOP platform.
+Take the Minnesota GOP platform .
 First headline: "Promote Economic Prosperity." Who's against that?
 Nobody.
 That's the point of a headline.
@@ -42,4 +41,9 @@ Sounds like prosperity for everyone, delivers tax breaks for the wealthy and lec
 I want Minnesotans doing better — all of us, no matter what your family looks like or what zip code you're in.
 That's not a headline.
 That's the job.
-Brian Walker
+Brian Walker Brian Walker Previous Previous Headlines vs.
+Reality: Preserving Civil Rights Next Next Showboating vs. the Truth Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

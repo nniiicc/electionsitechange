@@ -1,6 +1,4 @@
-May 29, 2024
-General Assembly left unfinished business on crime, budget; lessons to be learned from college protests | READER COMMENTARIES
-At midnight on April 8th, the 2024 Maryland General Assembly Session officially came to a close.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate May 29, 2024 General Assembly left unfinished business on crime, budget; lessons to be learned from college protests | READER COMMENTARIES At midnight on April 8th, the 2024 Maryland General Assembly Session officially came to a close.
 It’s a great honor to serve Carroll County as well as the Frederick County portion of Mount Airy in the State Senate.
 In the 90 day session we dealt with dozens of subjects.
 However, there were two main areas that received the most focus – crime and our budget and taxation policies.
@@ -25,6 +23,4 @@ In the coming months as we prepare for the next Session, I will continue to advo
 It is possible – in fact quite doable – to keep our state budget balanced and modestly increase investment for important priorities like education, transportation and public safety.
 We simply have to re-prioritize and slow down the rate of spending growth.
 As we move forward, I will do my best to keep the community updated and I welcome comments and questions anytime.
-Justin Ready
-The writer is a State Senator representing District 5
-Return To News >
+Justin Ready The writer is a State Senator representing District 5 Return To News > Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

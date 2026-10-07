@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://vickiquisenberry.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "5de331c97937d2254e0be9fc49dbc1b5a149bd9c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

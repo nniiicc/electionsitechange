@@ -1,9 +1,3 @@
-Back to All Events
-Our legendary five-day summer fair celebrating 4-H and FFA youth to exciting grandstand entertainment, motorsports, and community events, we bring together families, exhibitors, and visitors from across the region.
-Previous
-Previous
-August 16
-Forward for Wisconsin Rally: Elkhorn!
-Next
-Next
-August 22
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Dodge County Fair Friday, August 21, 2026 12:00 PM 3:00 PM Dodge County Fair Grounds N6885 High Point Road Beaver Dam, Wisconsin, 53916 United States (map) Google Calendar ICS Our legendary five-day summer fair celebrating 4-H and FFA youth to exciting grandstand entertainment, motorsports, and community events, we bring together families, exhibitors, and visitors from across the region.
+Previous Previous August 16 Forward for Wisconsin Rally: Elkhorn!
+Next Next August 22 Dodge County Fair DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

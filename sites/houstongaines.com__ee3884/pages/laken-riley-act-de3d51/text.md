@@ -1,6 +1,4 @@
-Laken Riley Act
-One Year After the Laken Riley Act, Leadership and Law Enforcement Are Saving Lives
-One year ago, I stood in the White House as President Donald Trump signed the Laken Riley Act into law.
+Donate About Issues Volunteer News Endorsements Donate Laken Riley Act One Year After the Laken Riley Act, Leadership and Law Enforcement Are Saving Lives One Year After the Laken Riley Act, Leadership and Law Enforcement Are Saving Lives #ago, I stood in the White House as President Donald Trump signed the Laken Riley Act into law.
 Laken was a 22-year-old nursing student whose life was brutally cut short by an illegal alien in Athens.
 Her murder shook our community, a place I’ve lived my entire life, and our state – and showed the nation the real-world consequences of failed immigration enforcement.
 After four years of Joe Biden’s failure to enforce the law, President Trump has focused on securing the border and deporting those who’ve illegally come to our country.
@@ -27,3 +25,11 @@ They deserve our thanks—not scorn—for enforcing the law and protecting Ameri
 I am deeply grateful to President Trump for his leadership in securing the border, restoring accountability, and honoring Laken Riley’s memory with action instead of empty rhetoric.
 One year after he signed the Laken Riley Act, the results are clear: enforcement works, cooperation saves lives, and leadership matters.
 We must remain unwavering in our commitment to public safety, the rule of law, and the men and women who stand on the front lines every day to protect us.
+JOIN TEAM GAINES First Name (Required) Last Name (Required) Email (Required) Phone Consent By submitting this form and signing up for texts, you consent to receive text messages (GOTV, informational, and political donations may also be solicited) from Gaines for Congress Gaines at the number provided, including messages sent by auto-dialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available in the message).
+Reply HELP for help.
+See Privacy Policy & Terms and Conditions .
+JOIN Media Center Paid for by Gaines for congress PRIVACY POLICY · TERMS AND CONDITIONS About Issues Volunteer News Endorsements Donate

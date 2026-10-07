@@ -1,3 +1,5 @@
+Skip to content (919) 710-0588 Facebook-f X-twitter Youtube Envelope Meet Meet Matthew Kordon House 11 People. not Politics.
+News News Events Priorities Stronger Economy Smarter Education Cost-effective Healthcare Restorative Justice Innovative Conservation Protecting Your Rights Take Action Donate Volunteer When & Where to Vote Donate Go An entrepreneur of Wake County, with passion for community and the ethics of liberty.
 I was born in Maryland but grew up in Raleigh, North Carolina.
 I graduated from Wakefield High in 2015, after which I attended the University of NC at Wilmington where I earned a degree in Computer Science with a Concentration in Business.
 My time there gave me a love for critical thinking.
@@ -14,6 +16,7 @@ Hensley(R) and Allison Dahle(D).
 I felt I was articulate, mature, and well-read enough to be a lawmaker, and running helped me build charisma and courage.
 Nevertheless, the community choose to reelect Allison.
 I sought to understand why in 2025 by getting involved in local town politics while also conducting a survey, speaking to dozens of neighbors.
+I yearn to increase power, prosperity, and the pursuit of happiness among our state’s citizens.
 Libertarianism is as glorious now as it was when the Founding Fathers established self-rule.
 This community needs a caring leader with integrity, willing to listen with discernment.
 Thus, the small survey of my local precinct was my bargain with reality: if the survey uncovered that my neighbors prefer a platform of liberty over Representative Dahle’s, and disliked her shortcomings, then I would run for office a second time to grant you the thing you say you want: transparent/ listening government, freedom, stable prosperity, effective leadership.
@@ -29,3 +32,6 @@ But now I need your help!
 Electing me will not be easy so I am calling on you to give North Carolina this upset victory!
 Make history by electing someone different.
 I await the solemn duties of the oath.
+LEARN MORE ABOUT OUR CAMPAIGN FOR LIBERTY IN NORTH CAROLINA Sign up for our email newsletter and receive occasional news and event communications from the campaign.
+First Name Last Name Email Subscribe Now Together we can restore power and the pursuit of happiness to the people!
+Join Us Contribute Volunteer Events News Voting Voter Lookup Voter Registration Polling Stations Early Voting Election Day Libertarian Party LP National website LPNC website LPNC Facebook LPNC Twitter WakeLP website Contact Committee to Elect Matthew Kordon, 714 Brisbane Woods Way, Cary, North Carolina 27518 (919) 710-0588 contact@kordonforliberty.org Facebook-f X-twitter

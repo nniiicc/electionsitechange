@@ -1,45 +1,6 @@
-Endorsements
-Labor Union and Organizations:
-Elected Officials:
-Rep.
-Lillian Ortiz-Self
-Rep.
-Strom Peterson
-Congresswoman Suzan DelBene
-Congressman Rick Larsen
-Governor Bob Ferguson
-Lt.
-Governor Denny Heck
-Secretary of State Steve Hobbs
-Attorney General Nick Brown
-Former Governor Jay Inslee
-Senate Majority Leader Jamie Pedersen
-Senator Manka Dhingra
-Senator Claudia Kauffman
-Senator Liz Lovelett
-Senator John Lovick
-Senator June Robinson
-Senator Jesse Salomon
-Senator Derek Stanford
-Senator Claire Wilson
-Rep.
-Brandy Donaghy
-Rep.
-Janice Zahn
-Snohomish County Executive Dave Somers
-Snohomish County Sheriff Susanna Johnson
-Snohomish County Treasurer Brian Sullivan
-Snohomish County Councilmember Megan Dunn
-Edmonds City Councilmember Chris Eck
-Issaquah Mayor Mark Mullet
-Lynnwood City Council President Nick Coehlo
-Lynnwood City Councilmember Robert Leutwyler
-Lynnwood City Councilmember David Parshall
-Former Mukilteo City Councilmember Mike Dixon
-Mukilteo City Councilmember Richard Emery
-Mukilteo City Councilmember Ilona Van Duser
-Snohomish PUD Commissioner Julieta Altamirano-Crosby
-Edmonds School Board Member Thom Garrard
-King County Councilmember Teresa Mosqueda
-Port of Seattle Commissioner Ryan Calkins
-Port of Seattle Commissioner Sam Cho
+About Marko Record News Contact Endorsements Donate About Marko Record News Contact Endorsements Donate Endorsements Labor Union and Organizations: Elected Officials: Rep.
+Lillian Ortiz-Self Rep.
+Strom Peterson Congresswoman Suzan DelBene Congressman Rick Larsen Governor Bob Ferguson Lt.
+Governor Denny Heck Secretary of State Steve Hobbs Attorney General Nick Brown Former Governor Jay Inslee Senate Majority Leader Jamie Pedersen Senator Manka Dhingra Senator Claudia Kauffman Senator Liz Lovelett Senator John Lovick Senator June Robinson Senator Jesse Salomon Senator Derek Stanford Senator Claire Wilson Rep.
+Brandy Donaghy Rep.
+Janice Zahn Snohomish County Executive Dave Somers Snohomish County Sheriff Susanna Johnson Snohomish County Treasurer Brian Sullivan Snohomish County Councilmember Megan Dunn Edmonds City Councilmember Chris Eck Issaquah Mayor Mark Mullet Lynnwood City Council President Nick Coehlo Lynnwood City Councilmember Robert Leutwyler Lynnwood City Councilmember David Parshall Former Mukilteo City Councilmember Mike Dixon Mukilteo City Councilmember Richard Emery Mukilteo City Councilmember Ilona Van Duser Snohomish PUD Commissioner Julieta Altamirano-Crosby Edmonds School Board Member Thom Garrard King County Councilmember Teresa Mosqueda Port of Seattle Commissioner Ryan Calkins Port of Seattle Commissioner Sam Cho Donate Paid for by Marko Liias for Senate 401 2nd Ave S Ste 303, Seattle, WA 98104

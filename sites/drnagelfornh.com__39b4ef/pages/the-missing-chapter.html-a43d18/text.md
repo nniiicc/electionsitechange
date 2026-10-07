@@ -1,9 +1,6 @@
-The Missing Chapter
-Ellen, a Man in Despair, and too Many in Pain
-The Missing Chapter is my second book, and I am sharing it with you because the thoughts expressed in it are what motivate me to do what I do.
+Home About Dave Priorities Accomplishments Upcoming Events/Get Involved Latest News The Missing Chapter Contact The Missing Chapter Ellen, a Man in Despair, and too Many in Pain The Missing Chapter is my second book, and I am sharing it with you because the thoughts expressed in it are what motivate me to do what I do.
 There is nothing worse than poverty—it is the most terrible of all sufferings.
-A person who is crushed by poverty is like the one to whom all the troubles of the world cling and upon whom all the curses mentioned in the Bible come. [i]
-Transforming moments happen often when we least expect them, when we are unaware.
+A person who is crushed by poverty is like the one to whom all the troubles of the world cling and upon whom all the curses mentioned in the Bible come. [i] Transforming moments happen often when we least expect them, when we are unaware.
 Sometimes the transformation is immediate.
 More often, the moment is a seed planted, one nurtured over time as a journey, one which yields its harvest slowly, over time.
 This is the story of such a journey.
@@ -24,8 +21,7 @@ As much as her tough façade gave me pause, I quickly came to see that beneath t
 Immediately we became friends, lifelong ones at that.
 What a gift.
 For a short time, we dated.
-Quickly, we realized that perhaps that was more than was intended for us.
-Ellen graduated too soon.
+Quickly, we realized that perhaps that was more than was intended for us. ​ Ellen graduated too soon.
 She returned to her native New York City, a place that scared me.
 The noise, the crowds, the smell… One thing scared me more than any other, the homeless.
 I had never seen such people where I grew up.
@@ -34,33 +30,25 @@ I think it was their un-predictability.
 Perhaps I feared that there was really little but fortune than separated us.
 I was afraid of what they would do to me if I ventured too close.
 I think that what frightened me most were the ethical challenges they posed to me.
-As I thought of them, I could not help but be drawn to Jesus’ story of the Good Samaritan in the Book of Luke.
+As I thought of them, I could not help but be drawn to Jesus’ story of the Good Samaritan in the Book of Luke .
 The story is complex and has great meaning to many, the morality shared guiding virtually every code of ethics in every culture, one we all profess, but rarely live up to.
 There are two parts to the story which are connected by a challenge to Jesus posed by a scholar of the law.
 He begins by asking Jesus what he must do to achieve eternal life.
 Jesus asks him what the Law says.
-The scholar replies: “You shall love the Lord, your God, with your heart, with all your being, with all your strength, and with all your heart, and your neighbor as yourself.”
-The so called “greatest commandment,” which gives rise to the “golden rule,” rules proclaimed long before Jesus form the basis for every faith and every code of ethics in our world.
-So easy to say, so hard to do.
-After Jesus praises him for his answer, the scholar further tests Jesus by asking him: “And who is my neighbor?” Jesus, as he was prone to do, answers this inquiry with a story, a parable, one we know as the story of the Good Samaritan.
-He begins by speaking of a man who was traveling from Jerusalem to Jericho, a mountain road notorious for its danger.
+The scholar replies: “You shall love the Lord, your God, with your heart, with all your being, with all your strength, and with all your heart, and your neighbor as yourself.” The so called “greatest commandment,” which gives rise to the “golden rule,” rules proclaimed long before Jesus form the basis for every faith and every code of ethics in our world.
+So easy to say, so hard to do .
+After Jesus praises him for his answer, the scholar further tests Jesus by asking him: “And who is my neighbor?” Jesus, as he was prone to do, answers this inquiry with a story, a parable, one we know as the story of the Good Samaritan. ​ He begins by speaking of a man who was traveling from Jerusalem to Jericho, a mountain road notorious for its danger.
 Upon this road, he was attacked by robbers.
 They stripped him of his clothes, beat him and went away, leaving him half dead.
-A priest happened to be going down the same road, and when he saw the man, he passed by on the other side.
-So too, a Levite, when he came to the place and saw him, he also passed by on the other side.
+A priest happened to be going down the same road, and when he saw the man, he passed by on the other side .
+So too, a Levite, when he came to the place and saw him, he also passed by on the other side .
 Both the Levite and the priest would be expected to proclaim and follow the Golden Rule.
 But a Samaritan, a person considered impure to the scholar whom Jesus was addressing the story, came to where the injured man was; when he saw him, he took pity on him.
 He went to him and bandaged his wounds, pouring on oil and wine.
 Then he put the man on his own donkey, brought him to an inn and took care of him.
-The next day he took out two denarii[c] and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
-Jesus then asks the scholar, “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”
-The expert in the law replied, “The one who had mercy on him.”
-Jesus told him, “Go and do likewise.” [ii]
-As a child, I found it easy to criticize the scholar, the Levite, and the priest.
+The next day he took out two denarii[c] and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’ ​ Jesus then asks the scholar, “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” The expert in the law replied, “The one who had mercy on him.” ​ Jesus told him, “Go and do likewise.” [ii] As a child, I found it easy to criticize the scholar, the Levite, and the priest.
 As an adult, I realized that I am the same as them, a lazy coward afraid of those in need, too easily crossing the street to avoid any responsibility for those in need, too often justifying my actions by blaming the one suffering as responsible for their sorry state.
-So easy to say, so hard to do.
-∞
-In 1982, Ellen invited me to stay with her in New York.
+So easy to say, so hard to do . ∞ In 1982, Ellen invited me to stay with her in New York.
 One day, we walked down one of the major thoroughfares.
 As we did, the object of my fear knelt on the sidewalk just to the right side of our path.
 I, big, tough, compassionate me, sought any means at my disposal to cross to the opposite side of the road.
@@ -73,23 +61,20 @@ I was embarrassed by my reaction, or, more aptly, my lack of action.
 If Ellen noticed, she never told me.
 She merely continued on down the road oblivious to the effect her action had on me.
 My journey of transformation had begun.
-Like most journeys, I had no idea where this one was taking me.
-∞
-On a beautiful sunny day a few years later, I strolled down a sidewalk in Seattle.
+Like most journeys, I had no idea where this one was taking me. ∞ On a beautiful sunny day a few years later, I strolled down a sidewalk in Seattle.
 It was a weekend, so the streets were relatively quiet.
 I had just left church, and was deep in thought, reflecting on the sermon I had just heard.
 I was oblivious to the world around me.
 While I strolled aimlessly along, others were scurrying to wherever they were going.
 I was in no hurry.
 The sermon had been about our responsibility to help those in need.
-“Clothe the naked, heal the sick, feed the hungry, give hope to the hopeless…” Mathew 25 31 – 46, referred to as Judgment of the Nations.
+“Clothe the naked, heal the sick, feed the hungry, give hope to the hopeless…” Mathew 25 31 – 46, referred to as Judgment of the Nations .
 I don’t know if I thought about Ellen that day, but I did think about the poor.
 What could I do to help?
 Great plans came to mind.
 I could work in a soup kitchen, or raise money to buy blankets, or say some prayers.
 In the midst of my reflections, I was suddenly confronted with the object of my thought.
-A man sat on the sidewalk with a sign, which read:
-He was a young man, perhaps mid-thirties.
+A man sat on the sidewalk with a sign, which read: He was a young man, perhaps mid-thirties.
 He was average height and average build.
 His hair was brown and scraggly, about shoulder length.
 He hadn’t shaved in days.
@@ -119,9 +104,7 @@ He deserved what he had and his lot in life was no worry of mine.
 My soul was tortured.
 All these thoughts ran through my head simultaneously.
 I was being challenged.
-The words of the sermon kept ringing in my head:
-“Clothe the naked, feed the hungry….”
-Didn’t Jesus also say there will always be poor?
+The words of the sermon kept ringing in my head: “Clothe the naked, feed the hungry….” Didn’t Jesus also say there will always be poor?
 However, he also admonished us to do unto others as we would have done to us.
 He told us love was the greatest commandment.
 I was afraid of this man.
@@ -145,8 +128,7 @@ Would they help him?
 How would they do it?
 Would they experience the ambivalence I was feeling?
 It shamed me to feel that way.
-I looked again at the words on his sign:
-He didn’t want money.
+I looked again at the words on his sign: He didn’t want money.
 He wanted an opportunity.
 I wondered where they were and what they were doing.
 I thought of my own children.
@@ -257,8 +239,7 @@ The next day, he started looking for work.
 He looked everywhere he could.
 The employers looked at his hair and his clothes.
 “A bum,” they thought.
-“Never get a decent day’s work from him.”
-Days went by, then weeks.
+“Never get a decent day’s work from him.” Days went by, then weeks.
 All he wanted was a chance.
 Reality came to him.
 He had a child to feed.
@@ -275,8 +256,7 @@ I forgot all I had thought about him before.
 I looked at him and apologized that I didn’t have any work for him.
 I handed him $40, which was the money I planned on spending at an expensive restaurant that night.
 He told me he couldn’t take it.
-I told him, “God loves you.”
-“I know,” he replied.
+I told him, “God loves you.” “I know,” he replied.
 I often wonder what happened to him.
 I would like to fantasize that all the trials that God delivered to this Job would be undone.
 I imagine him living in a nice house, sending his kid to a nice school.
@@ -290,9 +270,7 @@ It could happen.
 Would I have the courage to respond that way?
 Was I a Good Samaritan that day?
 At least I did not flee to the other side of the street.
-Too often I have.
-∞
-Our lives are a book and the world a library, full of wonderful stories.
+Too often I have. ∞ Our lives are a book and the world a library, full of wonderful stories.
 Some books have pristine covers.
 Gold and leather adorn them.
 Others have covers that are worn and tattered.
@@ -347,9 +325,7 @@ Bums live only to annoy those around them.
 Right?
 Wrong?
 Do you have the courage to question your view of reality?
-Do I?
-∞
-Years later, in medical school, I came to see the same of those in pain to the medical world as the homeless to the world as a whole.
+Do I? ∞ Years later, in medical school, I came to see the same of those in pain to the medical world as the homeless to the world as a whole.
 As a student, I was taught to ostracize, stigmatize and blame those in pain for their infirmities.
 The medical establishment taught me to walk the other side of the street and avoid caring for those in pain, those in need.
 In my travels, I met Ben and Mr.
@@ -358,6 +334,7 @@ They in turn forced me in my book, Needless Suffering, How Society Fails Those w
 Heroes among us, too often invisible.
 Yet, they have the potential to guide us when we least expect it.
 Thank you, Ellen.
-Thank you to the homeless man in Seattle whose name I will never know.
-My journey is well on its way.
-I look forward to where it will take me, hopefully to the right side of the road.
+Thank you to the homeless man in Seattle whose name I will never know. ​ My journey is well on its way.
+I look forward to where it will take me, hopefully to the right side of the road. [i] The Midrash , Exodus Rabbah31.14, New York, Soncino, 1877 [ii] Luke 10, 25 – 37. ©David Nagel February 18, 2018.
+General Election: November 3, 2026 ​Please Vote!!!
+Home About Dave Priorities Accomplishments Upcoming Events/Get Involved Latest News The Missing Chapter Contact

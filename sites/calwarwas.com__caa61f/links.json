@@ -1,11 +1,46 @@
 [
-"http://secure.winred.com/cal-warwas-for-house/donate",
-"https://calwarwas.com/",
-"https://calwarwas.com/about",
-"https://calwarwas.com/donate",
-"https://calwarwas.com/issues",
-"https://calwarwas.com/news",
-"https://calwarwas.com/radio-ads",
-"https://facebook.com/cal.warwas.for.house",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About",
+"href": "https://calwarwas.com/about"
+},
+{
+"text": "Click Here to view",
+"href": "https://calwarwas.com/radio-ads#aeeca1f1-f139-4a16-9092-ae245ec3ff3d"
+},
+{
+"text": "DONATE",
+"href": "https://calwarwas.com/donate"
+},
+{
+"text": "Donate",
+"href": "http://secure.winred.com/cal-warwas-for-house/donate"
+},
+{
+"text": "Full Bio",
+"href": "https://calwarwas.com/about"
+},
+{
+"text": "Home",
+"href": "https://calwarwas.com/"
+},
+{
+"text": "Issues",
+"href": "https://calwarwas.com/issues"
+},
+{
+"text": "News",
+"href": "https://calwarwas.com/news"
+},
+{
+"text": "[image: Cal Warwas for Minnesota House]",
+"href": "https://calwarwas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cal.warwas.for.house"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

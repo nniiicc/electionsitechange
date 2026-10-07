@@ -1,5 +1,4 @@
-About Sherry
-Kansas has always been my home.
+0 Skip to Content About Sherry Issues Endorsements Media Assets Get Involved CONTRIBUTE Open Menu Close Menu Open Menu Close Menu CONTRIBUTE About Sherry Issues Endorsements Media Assets Get Involved About Sherry Issues Endorsements Media Assets Get Involved CONTRIBUTE About Sherry Kansas has always been my home.
 From an early age, I learned the value of hard work and resilience.
 My family moved throughout Kansas during my childhood as my father worked as a union truck driver, an over-the-road career that exemplified the strong Midwest work ethic he passed on to me.
 My mother, an educator, nurtured my love of learning and fueled my commitment to public education.
@@ -19,3 +18,5 @@ That must change.
 I am not afraid of hard work.
 I am dedicated to listening, learning, and working collaboratively to find pragmatic solutions to the very real challenges facing everyday Kansans.
 With your support, I will bring the values of integrity, service, and common sense to the Statehouse on behalf of House District 14.
+Paid for by Sherry For Kansas, Laila Adsero- Treasurer.
+CONTRIBUTE

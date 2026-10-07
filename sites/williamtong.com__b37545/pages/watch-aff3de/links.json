@@ -1,20 +1,94 @@
 [
-"https://facebook.com/teamtong2018",
-"https://instagram.com/williamtongct",
-"https://williamtong.com/",
-"https://williamtong.com/about",
-"https://williamtong.com/accomplishments",
-"https://williamtong.com/contact",
-"https://williamtong.com/watch",
-"https://youtu.be/FUwN79WeFS8?si=Bn-eD87IIzp7Se12",
-"https://youtu.be/Fa3uSw0NTF0?si=PUFY9nwnASFZAJex",
-"https://youtu.be/MHOnHckotM8?si=CxX0bMqOcl7QwPCW",
-"https://youtu.be/Yh4ErHAV_Ms?si=najj7MyMXVu5cudJ",
-"https://youtu.be/ew6ETpqKOHI?si=LyFKd5lX2VZKVl28",
-"https://youtu.be/kVlaj0zdWPU?si=9ESTD8AzKAzXAK5r",
-"https://youtu.be/oSNqS5Yuhtg?si=X6Ii_5u6y3P7Gp53",
-"https://youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw",
-"https://youtube.com/watch?v=ACKhgtng_GM",
-"https://youtube.com/watch?v=dIFzY4v6YTc",
-"https://youtube.com/watch?v=tejap7FAGg4"
+{
+"text": "About",
+"href": "https://www.williamtong.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.williamtong.com/accomplishments/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.williamtong.com/"
+},
+{
+"text": "TongTV",
+"href": "https://www.williamtong.com/watch/"
+},
+{
+"text": "[image: William Tong]",
+"href": "https://www.williamtong.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/teamtong2018/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamtongct/"
+},
+{
+"text": "[no text]",
+"href": "https://www.williamtong.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/teamtong2018/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/williamtongct/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.williamtong.com/contact/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+},
+{
+"text": "https://www.youtube.com/watch?v=ACKhgtng_GM",
+"href": "https://www.youtube.com/watch?v=ACKhgtng_GM"
+},
+{
+"text": "https://www.youtube.com/watch?v=dIFzY4v6YTc",
+"href": "https://www.youtube.com/watch?v=dIFzY4v6YTc"
+},
+{
+"text": "https://www.youtube.com/watch?v=tejap7FAGg4",
+"href": "https://www.youtube.com/watch?v=tejap7FAGg4"
+},
+{
+"text": "https://youtu.be/FUwN79WeFS8?si=Bn-eD87IIzp7Se12",
+"href": "https://youtu.be/FUwN79WeFS8?si=Bn-eD87IIzp7Se12"
+},
+{
+"text": "https://youtu.be/Fa3uSw0NTF0?si=PUFY9nwnASFZAJex",
+"href": "https://youtu.be/Fa3uSw0NTF0?si=PUFY9nwnASFZAJex"
+},
+{
+"text": "https://youtu.be/MHOnHckotM8?si=CxX0bMqOcl7QwPCW",
+"href": "https://youtu.be/MHOnHckotM8?si=CxX0bMqOcl7QwPCW"
+},
+{
+"text": "https://youtu.be/Yh4ErHAV_Ms?si=najj7MyMXVu5cudJ",
+"href": "https://youtu.be/Yh4ErHAV_Ms?si=najj7MyMXVu5cudJ"
+},
+{
+"text": "https://youtu.be/ew6ETpqKOHI?si=LyFKd5lX2VZKVl28",
+"href": "https://youtu.be/ew6ETpqKOHI?si=LyFKd5lX2VZKVl28"
+},
+{
+"text": "https://youtu.be/kVlaj0zdWPU?si=9ESTD8AzKAzXAK5r",
+"href": "https://youtu.be/kVlaj0zdWPU?si=9ESTD8AzKAzXAK5r"
+},
+{
+"text": "https://youtu.be/oSNqS5Yuhtg?si=X6Ii_5u6y3P7Gp53",
+"href": "https://youtu.be/oSNqS5Yuhtg?si=X6Ii_5u6y3P7Gp53"
+}
 ]

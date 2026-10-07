@@ -1,10 +1,10 @@
-ENVIRONMENT • MICHIGAN'S 88th DISTRICT
-EGLE - Michigan's environmental watchdog is the agency protecting our dunes, our shoreline, and our Great Lakes.
+Donate Now About Me Endorsements Issues Volunteering Events Media Home Data Centers On Our Terms ENVIRONMENT • MICHIGAN'S 88th DISTRICT Data Centers On Our Terms EGLE - Michigan's environmental watchdog is the agency protecting our dunes, our shoreline, and our Great Lakes.
 It's also at the top of the cut list in Lansing because it slows down corporate developments like data centers.
 As your State Representative, my job is to protect the people who are trying to protect us.
+Our Community.
 Our Water.
 Our Decision.
-HERE'S WHERE I START
+HERE'S WHERE I START The dunes, the lake, and the water under our feet are the reason people live here - and the one thing we can never get back.
 Protecting them isn't politics.
 It's the job.
 We all know data centers aren’t popular – for good reason.
@@ -14,8 +14,7 @@ Where they aren’t being steamrolled, more than two dozen Michigan townships an
 Some are hoping the federal government will step in with rules.
 Let’s be honest: Washington isn’t going to regulate any of this anytime soon.
 But we can take care of ourselves.
-My plan:
-There’s bipartisan legislation in Lansing right now – House Bills 5594–5596 – that would put a one-year pause on new data center approvals statewide.
+My plan: There’s bipartisan legislation in Lansing right now – House Bills 5594–5596 – that would put a one-year pause on new data center approvals statewide.
 Not a ban.
 A pause: time to make sure data centers pay the full cost of their own electricity and water, sign real community benefits agreements, and answer to the neighbors before the bulldozers arrive.
 Republicans and Democrats introduced it together, and lakeshore lawmakers from both parties have championed it – because whether your water bill and your farmland get protected shouldn’t depend on your party.
@@ -25,97 +24,57 @@ I don’t take corporate money – so when a data center deal comes to the 88th,
 Growth is welcome in West Michigan.
 Steamrolling isn’t.
 Any company that wants to build here can start by being honest with the people who are already here.
-Sun
-Mon
-Tue
-Wed
-Thu
-Fri
-Sat
-S
-M
-T
-W
-F
-12:00 PM - Canvassing - Sunday, Aug 30
-8:00 AM - Canvassing - Monday, Aug 31
-4:00 PM - Meet & Greet – Brooklyn Bagels Coffee
-6:00 PM - Meet & Greet – Mill Point Park
-8:00 AM - Canvassing - Tuesday, Sep 1
-4:00 PM - Meet & Greet – Kenzie's Be Café
-6:00 PM - Meet & Greet – Burzurk Brewery
-8:00 AM - Canvassing - Wednesday, Sep 2
-8:00 AM - Canvassing - Thursday, Sep 3
-8:00 AM - Canvassing - Friday, Sep 4
-8:00 AM - Canvassing - Saturday, Sep 5
-12:00 PM - Canvassing - Sunday, Sep 6
-8:00 AM - Canvassing - Monday, Sep 7
-8:00 AM - Canvassing - Tuesday, Sep 8
-8:00 AM - Canvassing - Wednesday, Sep 9
-8:00 AM - Canvassing - Thursday, Sep 10
-8:00 AM - Canvassing - Friday, Sep 11
-8:00 AM - Canvassing - Saturday, Sep 12
-12:00 PM - Canvassing - Sunday, Sep 13
-8:00 AM - Canvassing - Monday, Sep 14
-4:00 PM - Meet & Greet – Greek Tony's Pizza/Subs
-6:00 PM - Meet & Greet – Ross Park Picnic Area
-8:00 AM - Canvassing - Tuesday, Sep 15
-8:00 AM - Canvassing - Wednesday, Sep 16
-8:00 AM - Canvassing - Thursday, Sep 17
-8:00 AM - Canvassing - Friday, Sep 18
-12:00 PM - Canvassing - Sunday, Sep 20
-8:00 AM - Canvassing - Tuesday, Sep 22
-8:00 AM - Canvassing - Wednesday, Sep 23
-8:00 AM - Canvassing - Thursday, Sep 24
-8:00 AM - Canvassing - Friday, Sep 25
-8:00 AM - Canvassing - Saturday, Sep 26
-12:00 PM - Canvassing - Sunday, Sep 27
-8:00 AM - Canvassing - Monday, Sep 28
-8:00 AM - Canvassing - Tuesday, Sep 29
-8:00 AM - Canvassing - Wednesday, Sep 30
-8:00 AM - Canvassing - Friday, Oct 2
-8:00 AM - Canvassing - Saturday, Oct 3
-Events on August 31, 2026
-31
-Aug
-August 31, 2026
-8:00 am - 8:00 pm
-Events on September 1, 2026
-01
-Sep
-September 1, 2026
-Events on September 8, 2026
-08
-Sep
-September 8, 2026
-4:00 pm - 5:00 pm
-Robinson Township Park Picnic Area
-12010 120th Ave, Robinson Township, MI
-12010 120th Ave, Robinson Township, MI
-6:00 pm - 7:00 pm
-Hemlock Crossing Park Picnic Area
-8115 West Olive Road, West Olive, MI
-8115 West Olive Road, West Olive, MI
-Events on September 14, 2026
-14
-Sep
-September 14, 2026
-Greek Tony's Pizza/Subs
-4543 Old Grand Haven Road, Norton Shores, MI
-4543 Old Grand Haven Road, Norton Shores, MI
-Events on September 15, 2026
-15
-Sep
-September 15, 2026
-5:30 pm - 8:30 pm
-Grand Haven Ottawa Dems Office
-S 601 Beacon St, Grand Haven, MI, 49417
-S 601 Beacon St, Grand Haven, MI, 49417
-Events on September 21, 2026
-21
-Sep
-September 21, 2026
-Events on October 1, 2026
-01
-Oct
-October 1, 2026
+Help Put Our Community First.
+Chip In Volunteer Contact 1-616-414-4865 reid4rep@proton.me Prepare to Vote Find Your State Rep Voter Registration Status Events Calendar #ago Sun Mon Tue Wed Thu Fri Sat S M T W T F S 27 12:00 PM - Canvassing - Sunday, Sep 27 28 12:00 PM - Canvassing - Monday, Sep 28 29 12:00 PM - Canvassing - Tuesday, Sep 29 30 12:00 PM - Canvassing - Wednesday, Sep 30 1 5:00 PM - Joint Canvass Team Reid and Team Abdul 6:00 PM - LWV Candidate Forum – State House & Senate 2 12:00 PM - Canvassing - Friday, Oct 2: Grand Haven 3 11:00 AM - Canvassing - Saturday, Oct 3 4 5 12:00 PM - Canvassing - Monday, Oct 5: Spring Lake 6 12:00 PM - Canvassing - Tuesday, Oct 6: Grand Haven Township 7 12:00 PM - Canvassing - Wednesday, Oct 7 8 5:00 PM - Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 8 9 12:00 PM - Canvassing - Friday, Oct 9: Grand Haven 10 11:00 AM - Canvassing - Saturday, Oct 10 11 12 12:00 PM - Canvassing - Monday, Oct 12: Spring Lake 13 12:00 PM - Canvassing - Tuesday, Oct 13: Grand Haven Township 14 12:00 PM - Canvassing - Wednesday, Oct 14 15 5:00 PM - Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 15 16 12:00 PM - Canvassing - Friday, Oct 16: Grand Haven 17 11:00 AM - Canvassing - Saturday, Oct 17 18 19 12:00 PM - Canvassing - Monday, Oct 19: Spring Lake 20 12:00 PM - Canvassing - Tuesday, Oct 20: Grand Haven Township 21 12:00 PM - Canvassing - Wednesday, Oct 21 22 5:00 PM - Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 22 23 12:00 PM - Canvassing - Friday, Oct 23: Grand Haven 24 11:00 AM - Canvassing - Saturday, Oct 24 25 26 12:00 PM - Canvassing - Monday, Oct 26: Spring Lake 27 12:00 PM - Canvassing - Tuesday, Oct 27: Grand Haven Township 28 12:00 PM - Canvassing - Wednesday, Oct 28 29 5:00 PM - Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 29 30 12:00 PM - Canvassing - Friday, Oct 30: Grand Haven 31 11:00 AM - Canvassing - Saturday, Oct 31 Canvassing - Sunday, Sep 27 September 27, 2026 12:00 pm - 8:00 pm Canvassing Join us Sunday, September 27 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Monday, Sep 28 September 28, 2026 12:00 pm - 7:00 pm Canvassing Join us Monday, September 28 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Tuesday, Sep 29 September 29, 2026 12:00 pm - 7:00 pm Canvassing Join us Tuesday, September 29 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Canvassing - Wednesday, Sep 30 September 30, 2026 12:00 pm - 7:00 pm Canvassing Join us Wednesday, September 30 for a shift of canvassing across House District 88.
+Pick a start time that works for you, and let's get [...] More Info Joint Canvass Team Reid and Team Abdul October 1, 2026 5:00 pm - 7:00 pm St.
+Francis Parking Lot Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 1 at 5:00 PM.
+We'll [...] More Info LWV Candidate Forum – State House & Senate October 1, 2026 6:00 pm - 8:00 pm Central Park Place Candidate Forum The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals. [...] More Info Canvassing - Friday, Oct 2: Grand Haven October 2, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Friday, October 2 to knock doors across House District 88.
+Our evening canvass works Grand Haven and launches at 5:00 PM from the [...] More Info Canvassing - Saturday, Oct 3 October 3, 2026 11:00 am - 8:00 pm Canvassing Join us Saturday, October 3 for a shift of canvassing across House District 88.
+Shifts start at 11 AM and 2 PM.
+Pick the one [...] More Info Canvassing - Monday, Oct 5: Spring Lake October 5, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, October 5 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info Canvassing - Tuesday, Oct 6: Grand Haven Township October 6, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Tuesday, October 6 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...] More Info Canvassing - Wednesday, Oct 7 October 7, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Wednesday, October 7 to knock doors across House District 88.
+Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...] More Info Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 8 October 8, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 8 at 5:00 PM.
+We'll [...] More Info Canvassing - Friday, Oct 9: Grand Haven October 9, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Friday, October 9 to knock doors across House District 88.
+Our evening canvass works Grand Haven and launches at 5:00 PM from the [...] More Info Canvassing - Saturday, Oct 10 October 10, 2026 11:00 am - 5:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Saturday, October 10 for a shift of canvassing across House District 88.
+Shifts start at 11 AM and 2 PM from the Grand [...] More Info Canvassing - Monday, Oct 12: Spring Lake October 12, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, October 12 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info Canvassing - Tuesday, Oct 13: Grand Haven Township October 13, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Tuesday, October 13 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...] More Info Canvassing - Wednesday, Oct 14 October 14, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Wednesday, October 14 to knock doors across House District 88.
+Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...] More Info Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 15 October 15, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Knock doors in Norton Shores with Team Reid for State Representative, Team Amidon and Team Abdul for US Senate on Thursday, October 15 at 5:00 [...] More Info Canvassing - Friday, Oct 16: Grand Haven October 16, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Friday, October 16 to knock doors across House District 88.
+Our evening canvass works Grand Haven and launches at 5:00 PM from the [...] More Info Canvassing - Saturday, Oct 17 October 17, 2026 11:00 am - 5:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Saturday, October 17 for a shift of canvassing across House District 88.
+Shifts start at 11 AM and 2 PM from the Grand [...] More Info Canvassing - Monday, Oct 19: Spring Lake October 19, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, October 19 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info Canvassing - Tuesday, Oct 20: Grand Haven Township October 20, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Tuesday, October 20 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...] More Info Canvassing - Wednesday, Oct 21 October 21, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Wednesday, October 21 to knock doors across House District 88.
+Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...] More Info Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 22 October 22, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Knock doors in Norton Shores with Team Reid for State Representative, Team Amidon and Team Abdul for US Senate on Thursday, October 22 at 5:00 [...] More Info Canvassing - Friday, Oct 23: Grand Haven October 23, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Friday, October 23 to knock doors across House District 88.
+Our evening canvass works Grand Haven and launches at 5:00 PM from the [...] More Info Canvassing - Saturday, Oct 24 October 24, 2026 11:00 am - 5:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Saturday, October 24 for a shift of canvassing across House District 88.
+Shifts start at 11 AM and 2 PM from the Grand [...] More Info Canvassing - Monday, Oct 26: Spring Lake October 26, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, October 26 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info Canvassing - Tuesday, Oct 27: Grand Haven Township October 27, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Tuesday, October 27 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...] More Info Canvassing - Wednesday, Oct 28 October 28, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Wednesday, October 28 to knock doors across House District 88.
+Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...] More Info Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 29 October 29, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Knock doors in Norton Shores with Team Reid for State Representative, Team Amidon and Team Abdul for US Senate on Thursday, October 29 at 5:00 [...] More Info Canvassing - Friday, Oct 30: Grand Haven October 30, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Friday, October 30 to knock doors across House District 88.
+Our evening canvass works Grand Haven and launches at 5:00 PM from the [...] More Info Canvassing - Saturday, Oct 31 October 31, 2026 11:00 am - 5:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Saturday, October 31 for a shift of canvassing across House District 88.
+Shifts start at 11 AM and 2 PM from the Grand [...] More Info Events on September 27, 2026 27 Sep Canvassing - Sunday, Sep 27 September 27, 2026 12:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 28, 2026 28 Sep Canvassing - Monday, Sep 28 September 28, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 29, 2026 29 Sep Canvassing - Tuesday, Sep 29 September 29, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on September 30, 2026 30 Sep Canvassing - Wednesday, Sep 30 September 30, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on October 1, 2026 01 Oct Joint Canvass Team Reid and Team Abdul October 1, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live St.
+Francis Parking Lot 2929 McCracken St., Norton Shores, MI, 49441 Canvassing 01 Oct LWV Candidate Forum – State House & Senate October 1, 2026 6:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Central Park Place 421 Columbus Avenue, Grand Haven, MI, 49417 Candidate Forum Events on October 2, 2026 02 Oct Canvassing - Friday, Oct 2: Grand Haven October 2, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 3, 2026 03 Oct Canvassing - Saturday, Oct 3 October 3, 2026 11:00 am - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing Events on October 5, 2026 05 Oct Canvassing - Monday, Oct 5: Spring Lake October 5, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 6, 2026 06 Oct Canvassing - Tuesday, Oct 6: Grand Haven Township October 6, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 7, 2026 07 Oct Canvassing - Wednesday, Oct 7 October 7, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 8, 2026 08 Oct Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 8 October 8, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Ross Park Picnic Area 82 Randall, Norton Shores, MI Canvassing Events on October 9, 2026 09 Oct Canvassing - Friday, Oct 9: Grand Haven October 9, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 10, 2026 10 Oct Canvassing - Saturday, Oct 10 October 10, 2026 11:00 am - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 12, 2026 12 Oct Canvassing - Monday, Oct 12: Spring Lake October 12, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 13, 2026 13 Oct Canvassing - Tuesday, Oct 13: Grand Haven Township October 13, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 14, 2026 14 Oct Canvassing - Wednesday, Oct 14 October 14, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 15, 2026 15 Oct Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 15 October 15, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Ross Park Picnic Area 82 Randall, Norton Shores, MI Canvassing Events on October 16, 2026 16 Oct Canvassing - Friday, Oct 16: Grand Haven October 16, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 17, 2026 17 Oct Canvassing - Saturday, Oct 17 October 17, 2026 11:00 am - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 19, 2026 19 Oct Canvassing - Monday, Oct 19: Spring Lake October 19, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 20, 2026 20 Oct Canvassing - Tuesday, Oct 20: Grand Haven Township October 20, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 21, 2026 21 Oct Canvassing - Wednesday, Oct 21 October 21, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 22, 2026 22 Oct Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 22 October 22, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Ross Park Picnic Area 82 Randall, Norton Shores, MI Canvassing Events on October 23, 2026 23 Oct Canvassing - Friday, Oct 23: Grand Haven October 23, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 24, 2026 24 Oct Canvassing - Saturday, Oct 24 October 24, 2026 11:00 am - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 26, 2026 26 Oct Canvassing - Monday, Oct 26: Spring Lake October 26, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 27, 2026 27 Oct Canvassing - Tuesday, Oct 27: Grand Haven Township October 27, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 28, 2026 28 Oct Canvassing - Wednesday, Oct 28 October 28, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 29, 2026 29 Oct Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 29 October 29, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Ross Park Picnic Area 82 Randall, Norton Shores, MI Canvassing Events on October 30, 2026 30 Oct Canvassing - Friday, Oct 30: Grand Haven October 30, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on October 31, 2026 31 Oct Canvassing - Saturday, Oct 31 October 31, 2026 11:00 am - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing PAID FOR BY CTE KIEL REID | PO BOX 96 MUSKEGON, MI 49443

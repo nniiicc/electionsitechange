@@ -1,13 +1,34 @@
 [
-"https://moodusmedia.com/",
-"https://pam4pa.com/",
-"https://pam4pa.com/about",
-"https://pam4pa.com/accessibility",
-"https://pam4pa.com/cookie-policy",
-"https://pam4pa.com/fact-cards",
-"https://pam4pa.com/news",
-"https://pam4pa.com/privacy-policy",
-"https://pam4pa.com/terms-of-use",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/donate/pamela-hemann-1"
+{
+"text": "About Pam",
+"href": "https://pam4pa.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pamela-hemann-1"
+},
+{
+"text": "Facts",
+"href": "https://pam4pa.com/fact-cards/"
+},
+{
+"text": "News",
+"href": "https://pam4pa.com/news/"
+},
+{
+"text": "[image: Pam 4 PA]",
+"href": "https://pam4pa.com/"
+},
+{
+"text": "[image]",
+"href": "https://pam4pa.com"
+},
+{
+"text": "pam4pa.com",
+"href": "https://pam4pa.com"
+},
+{
+"text": "pjhemann@gmail.com",
+"href": "mailto:pjhemann@gmail.com"
+}
 ]

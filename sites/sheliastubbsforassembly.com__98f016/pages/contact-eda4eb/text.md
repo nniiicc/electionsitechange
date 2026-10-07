@@ -1,7 +1,2 @@
-CONTACT SHELIA
-SHELIA STUBBS FOR STATE ASSEMBLY
-P.O.
-Box 259863
-Madison, Wisconsin 53725
-sheliastubbsforassembly@gmail.com
-(608) 206-1818
+0 Skip to Content About Issues Endorsements Volunteer Contact CONTRIBUTE Open Menu Close Menu About Issues Endorsements Volunteer Contact CONTRIBUTE Open Menu Close Menu About Issues Endorsements Volunteer Contact CONTRIBUTE CONTACT SHELIA SHELIA STUBBS FOR STATE ASSEMBLY P.O.
+Box 259863 Madison, Wisconsin 53725 sheliastubbsforassembly@gmail.com (608) 206-1818 Paid for by Shelia Stubbs for State Assembly

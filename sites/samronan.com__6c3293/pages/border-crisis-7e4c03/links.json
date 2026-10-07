@@ -1,17 +1,86 @@
 [
-"https://facebook.com/RonanForProgress",
-"https://samronan.com/",
-"https://samronan.com/about",
-"https://samronan.com/america-works",
-"https://samronan.com/border-crisis",
-"https://samronan.com/contact",
-"https://samronan.com/donate",
-"https://samronan.com/issues",
-"https://samronan.com/police-reforms",
-"https://samronan.com/press-releases",
-"https://samronan.com/ronanstatement",
-"https://samronan.com/taxation-economics",
-"https://samronan.com/volunteer",
-"https://twitter.com/Ronan4Progress",
-"https://youtube.com/@Ronan4Progress"
+{
+"text": "About",
+"href": "https://www.samronan.com/about"
+},
+{
+"text": "America Works",
+"href": "https://www.samronan.com/america-works"
+},
+{
+"text": "Border Crisis",
+"href": "https://www.samronan.com/border-crisis"
+},
+{
+"text": "Contact",
+"href": "https://www.samronan.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.samronan.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.samronan.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RonanForProgress"
+},
+{
+"text": "Home",
+"href": "https://www.samronan.com"
+},
+{
+"text": "Issues",
+"href": "https://www.samronan.com/issues"
+},
+{
+"text": "Other Policies",
+"href": "https://www.samronan.com/issues"
+},
+{
+"text": "Police Reforms",
+"href": "https://www.samronan.com/police-reforms"
+},
+{
+"text": "Press",
+"href": "mailto:press@samronan.com"
+},
+{
+"text": "Press Releases",
+"href": "https://www.samronan.com/press-releases"
+},
+{
+"text": "Ronan Statement",
+"href": "https://www.samronan.com/ronanstatement"
+},
+{
+"text": "Taxation",
+"href": "https://www.samronan.com/taxation-economics"
+},
+{
+"text": "Taxation & Economics",
+"href": "https://www.samronan.com/taxation-economics"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Ronan4Progress"
+},
+{
+"text": "Volunteer",
+"href": "https://www.samronan.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "mailto:careers@samronan.com"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@Ronan4Progress"
+},
+{
+"text": "[image: House.png]",
+"href": "https://www.samronan.com"
+}
 ]

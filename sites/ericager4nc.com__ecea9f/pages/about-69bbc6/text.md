@@ -1,4 +1,4 @@
-Eric Ager comes from a farming family in Fairview and is a retired Navy pilot.
+Skip to content Home About Vote Donate Home About Vote Donate Menu Eric Ager comes from a farming family in Fairview and is a retired Navy pilot.
 Growing up on a working family farm in Fairview prepared Eric not only for the Navy, but for becoming Operations Manager of that very same farm where he works today.
 Eric is the eldest of three brothers.
 He learned the mountain values of honesty and hard work from his parents, extended family, and community.
@@ -17,3 +17,7 @@ Everywhere he was stationed, Eric volunteered: he coached youth baseball, softba
 Eric retired from the Navy as a Commander.
 Back home in Buncombe County, Eric founded and runs a small business and Project HNG, a non-profit operating on Hickory Nut Gap Farm, a fourth-generation family farm.
 Eric and Rachel live in Fairview and their children work and attend school in North Carolina.
+Eric’s Values Respect Civility Equality Listening Integrity Building Community Cooperation Determination Eric Ager is a former member of the Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+P.O.
+Box 737 Fairview, NC, 28730 electericager@gmail.com Paid for by Elect Eric Ager | Privacy Policy | Website designed with real human labor & creativity by Express Lane Strategies .

@@ -1,10 +1,38 @@
 [
-"https://devoidfornh.com/",
-"https://devoidfornh.com/about",
-"https://devoidfornh.com/contact",
-"https://devoidfornh.com/issues",
-"https://facebook.com/profile.php?id=100064278122508",
-"https://linkedin.com/in/rick-devoid-0a3b9735",
-"https://secure.anedot.com/d98223f4-f585-43d6-83fa-bec070035fbe/0ca21d58-c9e5-4100-b76d-ea2b7072c640",
-"https://twitter.com/Rdevoid"
+{
+"text": "About",
+"href": "https://www.devoidfornh.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.devoidfornh.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/d98223f4-f585-43d6-83fa-bec070035fbe/0ca21d58-c9e5-4100-b76d-ea2b7072c640"
+},
+{
+"text": "Home",
+"href": "https://www.devoidfornh.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.devoidfornh.com/issues/"
+},
+{
+"text": "Rick Devoid for State Rep",
+"href": "https://www.devoidfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Rdevoid"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100064278122508"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/rick-devoid-0a3b9735/"
+}
 ]

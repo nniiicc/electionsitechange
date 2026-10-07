@@ -1,7 +1,9 @@
 {
  "description": "Join Jake Banta for Pennsylvania events, including political petition signings and live music in your community!",
  "final_url": "https://jakebantaforpa.com/events",
- "paid_for_by": "PAID FOR BY THE COMMITTEE TO ELECT JAKE Copyright \u00a9 2022 Jake Banta - All Rights Reserved",
+ "fingerprint": "a15062476d1867343862cd7567a87a563203bc8f",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY THE COMMITTEE TO ELECT JAKE Copyright © # Jake Banta - All Rights Reserved",
  "title": "Events",
  "years_mentioned": []
 }

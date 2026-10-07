@@ -1,9 +1,1 @@
-Back to All Events
-Join Mark, Independent Candidate for Nebraska House of Representatives District 3 for a town hall in Holdrege at the Charlotte Erickson Community Room
-Previous
-Previous
-October 8
-Johnson Lake Meet & Greet
-Next
-Next
-October 10
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Holdrege Town Hall Friday, October 9, 2026 1:00 PM 2:00 PM 1698 12th Avenue Holdrege, Nebraska, 68949 (map) Google Calendar ICS Join Mark, Independent Candidate for Nebraska House of Representatives District 3 for a town hall in Holdrege at the Charlotte Erickson Community Room Previous Previous October 8 Johnson Lake Meet & Greet Next Next October 10 Hastings Town Hall Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

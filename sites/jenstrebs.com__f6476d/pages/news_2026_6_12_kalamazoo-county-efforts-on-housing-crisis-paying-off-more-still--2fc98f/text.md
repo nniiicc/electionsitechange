@@ -1,6 +1,5 @@
-Kalamazoo County efforts on housing crisis paying off, more still needed
-KALAMAZOO, MI (WKZO AM/FM) – Kalamazoo County has put a major dent in the housing crisis with one of the most aggressive community efforts in the state, with a lot more needed and to come.
+0 Skip to Content About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute Kalamazoo County efforts on housing crisis paying off, more still needed Jun 12 Written By Sam Longlet KALAMAZOO, MI (WKZO AM/FM) – Kalamazoo County has put a major dent in the housing crisis with one of the most aggressive community efforts in the state, with a lot more needed and to come.
 The data comes from the Kalamazoo County Housing Department’s latest annual report.
 Much of the public funding so far comes from the county’s one-of-a-kind “Housing for All” millage, adopted by voters four years ago.
 County board chair Jen Strebs says it has been spent leveraging tens of millions more from private and non-profit investors for new homes.
-Read More →
+Read More → Sam Longlet Previous Previous County opens new $8 million homeless shelter in former hotel Next Next Plan to reduce road deaths by removing trees draws pushback Paid for by Committee to Elect Jen Strebs P.O Box 20061, Kalamazoo MI 49009

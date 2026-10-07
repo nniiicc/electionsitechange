@@ -1,17 +1,74 @@
 [
-"http://facebook.com/jimpresselforstaterep",
-"http://nwitimes.com/news/opinion/editorial/editorial-our-picks-for-nwi-legislative-races/article_746a7afd-62c2-5ab1-b0a7-7f8a508bd89e.html",
-"http://wp.me/P7dl50-1ef",
-"http://wp.me/P7dl50-1gK",
-"http://wp.me/P7dl50-1jb",
-"https://jimpressel.com/",
-"https://jimpressel.com/about-jim",
-"https://jimpressel.com/contact-jim",
-"https://jimpressel.com/district-20",
-"https://jimpressel.com/donate",
-"https://jimpressel.com/endorsements",
-"https://jimpressel.com/gallery-jp",
-"https://jimpressel.com/platform",
-"https://jimpressel.com/wp-content/uploads/2015/03/Dermody.mp4",
-"https://jimpressel.com/wp-content/uploads/2015/03/JTB_Endorsement.mp4"
+{
+"text": "About Jim",
+"href": "https://jimpressel.com/about-jim/"
+},
+{
+"text": "Contact Jim",
+"href": "https://jimpressel.com/contact-jim/"
+},
+{
+"text": "District 20",
+"href": "https://jimpressel.com/district-20/"
+},
+{
+"text": "Donate",
+"href": "https://jimpressel.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://jimpressel.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://jimpressel.com/gallery-jp/"
+},
+{
+"text": "Home",
+"href": "https://jimpressel.com/"
+},
+{
+"text": "Learn more",
+"href": "http://wp.me/P7dl50-1ef"
+},
+{
+"text": "Learn more",
+"href": "http://wp.me/P7dl50-1gK"
+},
+{
+"text": "Learn more",
+"href": "http://wp.me/P7dl50-1jb"
+},
+{
+"text": "Platform",
+"href": "https://jimpressel.com/platform/"
+},
+{
+"text": "[image: Jim Pressel for State Representative] [image: Jim Pressel for State Representative]",
+"href": "https://jimpressel.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/jimpresselforstaterep"
+},
+{
+"text": "http://www.nwitimes.com/news/opinion/editorial/editorial-our-picks-for-nwi-legislative-races/article_746a7afd-62c2-5ab1-b0a7-7f8a508bd89e.html",
+"href": "http://www.nwitimes.com/news/opinion/editorial/editorial-our-picks-for-nwi-legislative-races/article_746a7afd-62c2-5ab1-b0a7-7f8a508bd89e.html"
+},
+{
+"text": "https://jimpressel.com/wp-content/uploads/2015/03/Dermody.mp4",
+"href": "https://jimpressel.com/wp-content/uploads/2015/03/Dermody.mp4"
+},
+{
+"text": "https://jimpressel.com/wp-content/uploads/2015/03/JTB_Endorsement.mp4",
+"href": "https://jimpressel.com/wp-content/uploads/2015/03/JTB_Endorsement.mp4"
+},
+{
+"text": "jimpressel20@gmail.com",
+"href": "mailto:jimpressel20@gmail.com"
+}
 ]

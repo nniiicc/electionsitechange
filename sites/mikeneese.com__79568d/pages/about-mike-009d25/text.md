@@ -1,5 +1,4 @@
-Mike Neese
-A lifelong servant leader.
+0 Skip to Content Home About Mike A Voice For Indian Land Contact Donate Open Menu Close Menu Home About Mike A Voice For Indian Land Contact Donate Open Menu Close Menu Home About Mike A Voice For Indian Land Contact Donate Mike Neese A lifelong servant leader.
 Mike Neese represents House District 44 in the South Carolina General Assembly.
 He was first elected in 2022, and is now serving his 2nd term in the S.C.
 General Assembly.
@@ -10,3 +9,4 @@ His goal is to be a voice for Indian Land and deliver results that matter.
 With deep roots in faith, family, and service, Mike has spent over 30 years building up his community - starting as an Eagle Scout and student leader and continuing as a youth mentor and public servant.
 Mike lives in Indian Land with his wife, Christine, and their two daughters, Della and Clara.
 He is a proud graduate of Appalachian State University.
+9789 Charlotte Hwy Suite #400-161 Indian Land, SC 29707 | 803-451-9663 | mikeneese.sc.house@gmail.com Paid for by Friends of Mike Neese

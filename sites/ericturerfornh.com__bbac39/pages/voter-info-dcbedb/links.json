@@ -1,17 +1,70 @@
 [
-"https://brentwoodnh.gov/pview.aspx?id=620",
-"https://docs.google.com/forms/d/e/1FAIpQLSdgaJj3JCBlnhWj26rVp6FC6jLNAiMTMDoDRQm0_WxbQ_Ls9Q/viewform",
-"https://ericturerfornh.com/",
-"https://ericturerfornh.com/cart",
-"https://ericturerfornh.com/contact",
-"https://ericturerfornh.com/eric-in-action",
-"https://ericturerfornh.com/home",
-"https://ericturerfornh.com/issues",
-"https://ericturerfornh.com/voter-info",
-"https://ericturerfornh.com/why-eric",
-"https://facebook.com/ETforStateRep",
-"https://secure.actblue.com/donate/ericturer4nh",
-"https://sos.nh.gov/elections/register-vote",
-"https://voteinnh.org/absentee",
-"https://voteinnh.org/register"
+{
+"text": "0",
+"href": "https://www.ericturerfornh.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.ericturerfornh.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ericturer4nh"
+},
+{
+"text": "Eric in Action",
+"href": "https://www.ericturerfornh.com/eric-in-action"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdgaJj3JCBlnhWj26rVp6FC6jLNAiMTMDoDRQm0_WxbQ_Ls9Q/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.ericturerfornh.com/"
+},
+{
+"text": "Home",
+"href": "https://www.ericturerfornh.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.ericturerfornh.com/issues"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.voteinnh.org/register"
+},
+{
+"text": "Voter Info",
+"href": "https://www.ericturerfornh.com/voter-info"
+},
+{
+"text": "Voting Absentee",
+"href": "https://www.voteinnh.org/absentee"
+},
+{
+"text": "Why Eric",
+"href": "https://www.ericturerfornh.com/why-eric"
+},
+{
+"text": "Why Eric?",
+"href": "https://www.ericturerfornh.com/why-eric"
+},
+{
+"text": "[image: Eric Turer for NH]",
+"href": "https://www.ericturerfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ETforStateRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.sos.nh.gov/elections/register-vote"
+},
+{
+"text": "brentwoodnh.gov",
+"href": "https://www.brentwoodnh.gov/pview.aspx?id=620"
+}
 ]

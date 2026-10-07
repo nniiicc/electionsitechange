@@ -1,12 +1,42 @@
 [
-"https:// joelkitchens1@gmail.com/",
-"https://facebook.com/joelkitchens1",
-"https://joelkitchens.com/",
-"https://joelkitchens.com/about-joel.html",
-"https://joelkitchens.com/contact.html",
-"https://joelkitchens.com/district.html",
-"https://joelkitchens.com/issues.html",
-"https://legis.wisconsin.gov/assembly/01/kitchens",
-"https://secure.anedot.com/joel-kitchens-for-assembly01/donate",
-"https://twitter.com/joel_kitchens"
+{
+"text": "About Joel",
+"href": "https://www.joelkitchens.com/about-joel.html"
+},
+{
+"text": "Contact",
+"href": "https://www.joelkitchens.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/joel-kitchens-for-assembly01/donate"
+},
+{
+"text": "District",
+"href": "https://www.joelkitchens.com/district.html"
+},
+{
+"text": "Home",
+"href": "https://www.joelkitchens.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.joelkitchens.com/issues.html"
+},
+{
+"text": "[no text]",
+"href": "https://%20joelkitchens1@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/joel_kitchens"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joelkitchens1"
+},
+{
+"text": "legislative page",
+"href": "https://legis.wisconsin.gov/assembly/01/kitchens"
+}
 ]

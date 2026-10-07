@@ -1,8 +1,8 @@
-The election of Ro Khanna, US Representative from California’s 17th congressional district, in 2018, was supported by some leading Hindu Americans in CA17 district.
+Home Chinese Vietnamese Volunteering Donation Sign-Up Contact News Ro Khanna News Ro Khanna doesn’t deserve support January 9, 2020 The election of Ro Khanna, US Representative from California’s 17th congressional district, in 2018, was supported by some leading Hindu Americans in CA17 district.
 The trust of Hindu American community on his abilities went far beyond the trust on his principal opponent Ron Cohen in 2018.
 Ron Cohen couldn’t match the financial strength and community support that Ro Khanna had.
 Major corporations and wealthy individuals propelled him to victory in 2016 and then again in 2018.
-According to the East Bay Times, Khanna won with a campaign platform focused on “moving the Democratic Party to a more progressive stance”.
+According to the East Bay Times , Khanna won with a campaign platform focused on “moving the Democratic Party to a more progressive stance”.
 What was that progressive stance?
 Ro Khanna served on the board of Planned Parenthood Mar Monte between 2003 and 2012.
 Planned Parenthood is clearly not a pro life organisation.
@@ -35,20 +35,10 @@ Ro Khanna has been a member of this PAC since 9 May 2017.
 On social grounds, Ro Khanna has abandoned core issues of his principal constituency.
 He has openly supported religion inspired Pakistani terror against Hindus in Kashmir.
 Most Hindu Americans have moved away from him and have questioned him on his betrayal.
-To summarise, Ro Khanna stands for:
-• Higher taxes in CA17.
-• Promoting corporate greed.
-• Disloyalty to his principal Hindu American supporters.
-• Terrorism in the US by opposing laws that protect Americans.
-• Socialistic policies of forced division of wealth through repressive taxation policies.
-• Uncontrolled immigration.
-• Ultra left leaning politics.
-To summarise, Ro Khanna stands against:
-• Freedom of speech by supporting corporations that deplatformize views of American citizens.
-• Rights of Asian American Pacific Islander Community.
-• Rights of hard working immigrants from Asia.
+To summarise, Ro Khanna stands for: • Higher taxes in CA17. • Promoting corporate greed. • Disloyalty to his principal Hindu American supporters. • Terrorism in the US by opposing laws that protect Americans. • Socialistic policies of forced division of wealth through repressive taxation policies. • Uncontrolled immigration. • Ultra left leaning politics.
+To summarise, Ro Khanna stands against: • Freedom of speech by supporting corporations that deplatformize views of American citizens. • Rights of Asian American Pacific Islander Community. • Rights of hard working immigrants from Asia.
 It is really up to voters to decide if they really want to elect him as their representative.
 CA17 Bay Area needs a progressive candidate who values life, family and upholds moral values of community.
 Also, CA17 needs a representative who allows all immigrants to realise their American dream.
 We do have a better alternative now in Ritesh Tandon from CA17, who is supported by all residents from that district.
-Source: The Sunday Guardian Live
+Source : The Sunday Guardian Live admin previous Ro Khanna-A Power-Hungry Politician or Unscrupulous Charlatan PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress.com Popular Links Home News How Can You Help Volunteering Donation Contact Terms & Conditions Privacy Policy

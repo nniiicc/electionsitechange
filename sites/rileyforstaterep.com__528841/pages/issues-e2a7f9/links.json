@@ -1,10 +1,46 @@
 [
-"https://facebook.com/rileyforstaterep",
-"https://instagram.com/alexrileymo",
-"https://rileyforstaterep.com/",
-"https://rileyforstaterep.com/about",
-"https://rileyforstaterep.com/donate",
-"https://rileyforstaterep.com/issues",
-"https://rileyforstaterep.com/up-to-date",
-"https://twitter.com/AlexRileyMO"
+{
+"text": "About",
+"href": "https://www.rileyforstaterep.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.rileyforstaterep.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.rileyforstaterep.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.rileyforstaterep.com/issues/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.rileyforstaterep.com/up-to-date"
+},
+{
+"text": "Take Action",
+"href": "https://www.rileyforstaterep.com/up-to-date/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AlexRileyMO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rileyforstaterep/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alexrileymo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.rileyforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@rileyforstaterep.com"
+}
 ]

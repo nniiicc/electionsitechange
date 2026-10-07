@@ -1,8 +1,6 @@
-San Clemente beach restoration project completes first phase
-Rep.
-Mike Levin Announces Completion of Sand Replenishment Project for Encinitas, Solana Beach
-Levin announces funding for local projects throughout district, including Del Mar, Solana Beach and Encinitas
-Rep.
-Mike Levin announces winners of 2024 Congressional Art Competition
-Rep.
-Mike Levin introduces new bill to cap Medicare-related premium hikes
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate Latest News News & Media View All News & Media Press Releases June 3, 2024 San Clemente beach restoration project completes first phase May 14, 2024 Rep.
+Mike Levin Announces Completion of Sand Replenishment Project for Encinitas, Solana Beach May 1, 2024 Levin announces funding for local projects throughout district, including Del Mar, Solana Beach and Encinitas April 27, 2024 Rep.
+Mike Levin announces winners of 2024 Congressional Art Competition March 4, 2024 Rep.
+Mike Levin introduces new bill to cap Medicare-related premium hikes 1 2 3 Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

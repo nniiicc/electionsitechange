@@ -1,17 +1,106 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/product-category/help-deploy-malloy",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/1",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/2",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/3?add-to-cart=1480",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/3?add-to-cart=2959",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/3?add-to-cart=2961",
-"https://deploymalloy.com/product/backpack",
-"https://deploymalloy.com/product/deploy-malloy-large-organic-tote-bag",
-"https://deploymalloy.com/product/hardcover-bound-notebook",
-"https://deploymalloy.com/product/kids-fleece-hoodie",
-"https://deploymalloy.com/product/skater-dress",
-"https://deploymalloy.com/product/unisex-classic-embroidered-tee",
-"https://facebook.com/geraldmalloyvt"
+{
+"text": "1",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/1/"
+},
+{
+"text": "2",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/2/"
+},
+{
+"text": "Backpack",
+"href": "https://www.deploymalloy.com/product/backpack/"
+},
+{
+"text": "Deploy Malloy Kids fleece hoodie",
+"href": "https://www.deploymalloy.com/product/kids-fleece-hoodie/"
+},
+{
+"text": "Deploy Malloy Large organic tote bag",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-large-organic-tote-bag/"
+},
+{
+"text": "Hardcover bound notebook",
+"href": "https://www.deploymalloy.com/product/hardcover-bound-notebook/"
+},
+{
+"text": "Help Deploy Malloy!",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/"
+},
+{
+"text": "Home",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/kids-fleece-hoodie/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/skater-dress/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/unisex-classic-embroidered-tee/"
+},
+{
+"text": "Skater Dress",
+"href": "https://www.deploymalloy.com/product/skater-dress/"
+},
+{
+"text": "Unisex classic embroidered tee",
+"href": "https://www.deploymalloy.com/product/unisex-classic-embroidered-tee/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/backpack/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-large-organic-tote-bag/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/hardcover-bound-notebook/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/kids-fleece-hoodie/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/skater-dress/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/unisex-classic-embroidered-tee/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/2/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/3/?add-to-cart=1480"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/3/?add-to-cart=2959"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/3/?add-to-cart=2961"
+}
 ]

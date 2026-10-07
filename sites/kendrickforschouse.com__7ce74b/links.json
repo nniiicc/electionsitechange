@@ -1,17 +1,70 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScR-wx4i2nVaQ8C5cCQD9uzSylVQEDt8n2aQI7DFWcs5v1AoQ/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSdxYQI5DkY-yBCTn4n98CZZlXVhf5SEdko5y_ySnTDzK1mX-g/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSfq0x42YA3nnmDmYJoO4CE9OQ1Bq0BLKMsW8Upn3717yqTBmA/viewform?usp=header",
-"https://facebook.com/KendrickforSCHouse?mibextid=wwXIfr&rdid=iqgUKEA4JiIjXkP8&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18kNuu67VL%2F%3Fmibextid%3DwwXIfr",
-"https://instagram.com/kendrickforschouse?igsh=MXM4YWE0cXByZDB4cw%3D%3D",
-"https://kendrickforschouse.com/",
-"https://kendrickforschouse.com/cart",
-"https://kendrickforschouse.com/contact",
-"https://scstatehouse.gov/legislatorssearch.php",
-"https://secure.actblue.com/donate/josh-kendrick-for-22",
-"https://secure.actblue.com/donate/josh-kendrick-for-22?amount=10",
-"https://secure.actblue.com/donate/josh-kendrick-for-22?amount=100",
-"https://secure.actblue.com/donate/josh-kendrick-for-22?amount=25",
-"https://secure.actblue.com/donate/josh-kendrick-for-22?amount=250",
-"https://secure.actblue.com/donate/josh-kendrick-for-22?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.kendrickforschouse.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.kendrickforschouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22"
+},
+{
+"text": "Find Your District",
+"href": "https://www.scstatehouse.gov/legislatorssearch.php"
+},
+{
+"text": "Key Issues",
+"href": "https://www.kendrickforschouse.com/#issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/josh-kendrick-for-22"
+},
+{
+"text": "Request a Phone Banking List",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfq0x42YA3nnmDmYJoO4CE9OQ1Bq0BLKMsW8Upn3717yqTBmA/viewform?usp=header"
+},
+{
+"text": "Request a Postcard Packet",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScR-wx4i2nVaQ8C5cCQD9uzSylVQEDt8n2aQI7DFWcs5v1AoQ/viewform?usp=header"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdxYQI5DkY-yBCTn4n98CZZlXVhf5SEdko5y_ySnTDzK1mX-g/viewform?usp=header"
+},
+{
+"text": "[image: Josh Kendrick for SC]",
+"href": "https://www.kendrickforschouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KendrickforSCHouse?mibextid=wwXIfr&rdid=iqgUKEA4JiIjXkP8&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18kNuu67VL%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kendrickforschouse?igsh=MXM4YWE0cXByZDB4cw%3D%3D"
+}
 ]

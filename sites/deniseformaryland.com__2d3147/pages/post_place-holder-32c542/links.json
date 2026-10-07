@@ -1,40 +1,178 @@
 [
-"http://facebook.com/delegatedenise",
-"http://instagram.com/delegatedenise",
-"http://linkedin.com/in/denisegeneva",
-"http://twitter.com/delegatedenise",
-"https://deniseformaryland.com/",
-"https://deniseformaryland.com/contact",
-"https://deniseformaryland.com/copy-of-legislation",
-"https://deniseformaryland.com/donate",
-"https://deniseformaryland.com/end-of-session-letter",
-"https://deniseformaryland.com/endorsements",
-"https://deniseformaryland.com/eventlist",
-"https://deniseformaryland.com/get-involved",
-"https://deniseformaryland.com/key-issues",
-"https://deniseformaryland.com/legislation",
-"https://deniseformaryland.com/meet-denise",
-"https://deniseformaryland.com/meet-my-team",
-"https://deniseformaryland.com/mylinks",
-"https://deniseformaryland.com/news-updates",
-"https://deniseformaryland.com/news-updates/categories/blog",
-"https://deniseformaryland.com/news-updates/categories/news-article",
-"https://deniseformaryland.com/news-updates/categories/press-release",
-"https://deniseformaryland.com/news-updates/tags/denise-roberts",
-"https://deniseformaryland.com/news-updates/tags/dereck-davis",
-"https://deniseformaryland.com/news-updates/tags/election-law",
-"https://deniseformaryland.com/news-updates/tags/fundraising",
-"https://deniseformaryland.com/news-updates/tags/treasurer",
-"https://deniseformaryland.com/our-district",
-"https://deniseformaryland.com/post/denise-roberts-chosen-by-prince-george-s-democrats-to-fill-vacant-delegate-seat",
-"https://deniseformaryland.com/post/u-s-senator-angela-alsobrooks-endorses-delegate-denise-g-roberts-for-district-25",
-"https://deniseformaryland.com/product-page/team-roberts-jersey",
-"https://deniseformaryland.com/profile/90842da1-507d-4ea3-bbd1-9ec5188bd9e4/profile",
-"https://deniseformaryland.com/scholarships",
-"https://deniseformaryland.com/services",
-"https://deniseformaryland.com/voter-resources",
-"https://kevinmharris.org/",
-"https://marylandmatters.org/2024/03/13/treasurer-enthusiastically-backs-bill-imposing-limits-on-his-fundraising",
-"https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html",
-"https://youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+{
+"text": "All Posts",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Blog",
+"href": "https://www.deniseformaryland.com/news-updates/categories/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.deniseformaryland.com/contact"
+},
+{
+"text": "Contact Information",
+"href": "https://www.kevinmharris.org/"
+},
+{
+"text": "DONATE",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "Denise Roberts",
+"href": "https://www.deniseformaryland.com/profile/90842da1-507d-4ea3-bbd1-9ec5188bd9e4/profile"
+},
+{
+"text": "Denise Roberts Chosen by Prince George’s Democrats to Fill Vacant Delegate Seat",
+"href": "https://www.deniseformaryland.com/post/denise-roberts-chosen-by-prince-george-s-democrats-to-fill-vacant-delegate-seat"
+},
+{
+"text": "END OF SESSION LETTER",
+"href": "https://www.deniseformaryland.com/end-of-session-letter"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deniseformaryland.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.deniseformaryland.com/eventlist"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deniseformaryland.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.deniseformaryland.com/key-issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.deniseformaryland.com/legislation"
+},
+{
+"text": "MEET DENISE",
+"href": "https://www.deniseformaryland.com/meet-denise"
+},
+{
+"text": "MEET MY TEAM",
+"href": "https://www.deniseformaryland.com/meet-my-team"
+},
+{
+"text": "MY LINKS",
+"href": "https://www.deniseformaryland.com/mylinks"
+},
+{
+"text": "NEWS & UPDATES",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "News Article",
+"href": "https://www.deniseformaryland.com/news-updates/categories/news-article"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.deniseformaryland.com/our-district"
+},
+{
+"text": "Press Release",
+"href": "https://www.deniseformaryland.com/news-updates/categories/press-release"
+},
+{
+"text": "Prince George's County",
+"href": "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html"
+},
+{
+"text": "Read more...",
+"href": "https://marylandmatters.org/2024/03/13/treasurer-enthusiastically-backs-bill-imposing-limits-on-his-fundraising/"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.deniseformaryland.com/scholarships"
+},
+{
+"text": "SERVICES",
+"href": "https://www.deniseformaryland.com/services"
+},
+{
+"text": "SINE DIE STATEMENT",
+"href": "https://www.deniseformaryland.com/copy-of-legislation"
+},
+{
+"text": "STORE",
+"href": "https://www.deniseformaryland.com/product-page/team-roberts-jersey"
+},
+{
+"text": "See All",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "U.S. SENATOR ANGELA ALSOBROOKS ENDORSES DELEGATE DENISE G. ROBERTS FOR DISTRICT 25",
+"href": "https://www.deniseformaryland.com/post/u-s-senator-angela-alsobrooks-endorses-delegate-denise-g-roberts-for-district-25"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.deniseformaryland.com/voter-resources"
+},
+{
+"text": "[image: Denise Roberts Chosen by Prince George’s Democrats to Fill Vacant Delegate Seat]",
+"href": "https://www.deniseformaryland.com/post/denise-roberts-chosen-by-prince-george-s-democrats-to-fill-vacant-delegate-seat"
+},
+{
+"text": "[image: U.S. SENATOR ANGELA ALSOBROOKS ENDORSES DELEGATE DENISE G. ROBERTS FOR DISTRICT 25]",
+"href": "https://www.deniseformaryland.com/post/u-s-senator-angela-alsobrooks-endorses-delegate-denise-g-roberts-for-district-25"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/denisegeneva"
+},
+{
+"text": "denise roberts",
+"href": "https://www.deniseformaryland.com/news-updates/tags/denise-roberts"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denisedenise.roberts@house.state.md.us"
+},
+{
+"text": "dereck davis",
+"href": "https://www.deniseformaryland.com/news-updates/tags/dereck-davis"
+},
+{
+"text": "election law",
+"href": "https://www.deniseformaryland.com/news-updates/tags/election-law"
+},
+{
+"text": "fundraising",
+"href": "https://www.deniseformaryland.com/news-updates/tags/fundraising"
+},
+{
+"text": "hello@deniseformaryland.com",
+"href": "mailto:hello@deniseformaryland.com"
+},
+{
+"text": "treasurer",
+"href": "https://www.deniseformaryland.com/news-updates/tags/treasurer"
+}
 ]

@@ -1,6 +1,30 @@
 [
-"https://taffyhoward.com/",
-"https://taffyhoward.com/donate",
-"https://taffyhoward.com/privacy-policy",
-"https://taffyhoward.com/voter-information"
+{
+"text": "CONNECT NOW",
+"href": "https://www.taffyhoward.com/#contact"
+},
+{
+"text": "LATEST UPDATES",
+"href": "https://www.taffyhoward.com/#news"
+},
+{
+"text": "MEET TAFFY",
+"href": "https://www.taffyhoward.com/#meet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.taffyhoward.com/privacy-policy/"
+},
+{
+"text": "SUPPORT US",
+"href": "https://www.taffyhoward.com/donate/"
+},
+{
+"text": "VISION & VALUES",
+"href": "https://www.taffyhoward.com/#plat"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.taffyhoward.com/voter-information/"
+}
 ]

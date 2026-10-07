@@ -1,41 +1,18 @@
-Category: Videos
-I pledge to support K-12 students and teachers
-Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
-You will also…
-View More I pledge to support K-12 students and teachers
-Unwavering support for K-12 Education.
-“As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for…
-View More Unwavering support for K-12 Education.
-My commitment to the students and teachers will be unwavering.
-“As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for…
-View More My commitment to the students and teachers will be unwavering.
-If the discussion for education must focus around one word, let that word be AND, not OR.
-K-12 Education: AND, not OR.
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Category: Videos Important Issues Videos I am on a mission for the people and families of District 18 Editor October 30, 2024 View More I am on a mission for the people and families of District 18 Education Important Issues Videos I pledge to support K-12 students and teachers Editor October 16, 2024 Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
+You will also… View More I pledge to support K-12 students and teachers Education Important Issues Videos Unwavering support for K-12 Education.
+Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More Unwavering support for K-12 Education.
+Education Important Issues Videos My commitment to the students and teachers will be unwavering.
+Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More My commitment to the students and teachers will be unwavering.
+Education Important Issues Videos If the discussion for education must focus around one word, let that word be AND, not OR.
+Editor October 16, 2024 K-12 Education: AND, not OR.
 View More If the discussion for education must focus around one word, let that word be AND, not OR.
-Supporting Agriculture
-Lowering Taxes
-State Senator for ALL of District 18
-K-12 Students & Teachers are a Priority
-Let’s Use This Money for K-12 Education
-Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson
-The long-awaited update on the private property rights battle in South Dakota is finally here.
-Learn about where things stand with the egregious bill, SB201…
-View More Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson
-I pledge to listen & engage the people of District 18
-Out in the community, I hear over and over that the people running our government are out of touch with the struggles the average family…
-View More I pledge to listen & engage the people of District 18
-I pledge to stand strong for Life.
-Every child deserves to be safe and loved — and our state law should reflect that!
-I will ALWAYS vote to defend the unborn here…
-View More I pledge to stand strong for Life.
-Yankton County GOP District 18 Legislative Republican Primary Forum – May 13, 2024 Utica, SD
-2024 District 18 State Senate and House Republican Primary Candidate Forum
-Lower Taxes
-LOWER TAXES is one of ten principles of the SD Republican Platform.
+Important Issues Videos Supporting Agriculture Editor September 26, 2024 View More Supporting Agriculture Important Issues Videos Lowering Taxes Editor September 26, 2024 View More Lowering Taxes News Videos State Senator for ALL of District 18 Editor September 26, 2024 View More State Senator for ALL of District 18 Education Important Issues Videos K-12 Students & Teachers are a Priority Editor September 26, 2024 View More K-12 Students & Teachers are a Priority Education Important Issues Videos Let’s Use This Money for K-12 Education Editor September 26, 2024 View More Let’s Use This Money for K-12 Education News Videos Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson Editor May 29, 2024 The long-awaited update on the private property rights battle in South Dakota is finally here.
+Learn about where things stand with the egregious bill, SB201… View More Standing Up to the Carbon Pipeline Land Grab with Julie Auch & Lauren Nelson Important Issues Platform Videos I pledge to listen & engage the people of District 18 Editor May 26, 2024 Out in the community, I hear over and over that the people running our government are out of touch with the struggles the average family… View More I pledge to listen & engage the people of District 18 Important Issues Platform Videos I pledge to stand strong for Life.
+Editor May 26, 2024 Every child deserves to be safe and loved — and our state law should reflect that!
+I will ALWAYS vote to defend the unborn here… View More I pledge to stand strong for Life.
+Videos Yankton County GOP District 18 Legislative Republican Primary Forum – May 13, 2024 Utica, SD Editor May 24, 2024 Yankton County GOP District 18 Legislative Republican Primary Forum – May 13, 2024 Utica, SD View More Yankton County GOP District 18 Legislative Republican Primary Forum – May 13, 2024 Utica, SD News Videos 2024 District 18 State Senate and House Republican Primary Candidate Forum Editor May 20, 2024 View More 2024 District 18 State Senate and House Republican Primary Candidate Forum News Videos Lower Taxes Editor May 20, 2024 LOWER TAXES is one of ten principles of the SD Republican Platform.
 This is “real” economic development.
-To ask me about this topic in person,…
-View More Lower Taxes
-New Choice – District 18
-SPRING IS HERE.
+To ask me about this topic in person,… View More Lower Taxes Videos New Choice – District 18 Editor May 12, 2024 SPRING IS HERE.
 It’s time to vote Lauren Nelson for Senate – District 18 on June 4, 2024.
-View More New Choice – District 18
+View More New Choice – District 18 Videos I will protect personal property rights Editor May 9, 2024 View More I will protect personal property rights Videos Interview – Coffee With The Candidates Editor April 29, 2024 View More Interview – Coffee With The Candidates Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

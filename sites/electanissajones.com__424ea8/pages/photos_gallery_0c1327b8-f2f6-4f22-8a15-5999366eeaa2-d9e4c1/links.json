@@ -1,23 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://electanissajones.com/",
-"https://electanissajones.com/contact",
-"https://electanissajones.com/contribute",
-"https://electanissajones.com/events",
-"https://electanissajones.com/home",
-"https://electanissajones.com/issues",
-"https://electanissajones.com/meet_anissa",
-"https://electanissajones.com/news",
-"https://electanissajones.com/photos",
-"https://electanissajones.com/privacy-policy",
-"https://electanissajones.com/view-endorsements",
-"https://electanissajones.com/volunteer",
-"https://electanissajones.com/vote",
-"https://facebook.com/drnissapolitico",
-"https://i.campaignpartner.net/images/cdn_queue/107670/1eeb47d1bb7046a9868737bda9048f31.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/107670/257c80a7137b45d983a56e976019bc5d.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/107670/7cba816ebed045a9a8371e8e81fa9ae6.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/107670/ab68c9d89c5c4e05988937dc9eec57ba.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/107670/f704eeccbc044015a355342e82c77cfd.jpg",
-"https://instagram.com/drnissapolitico"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.electanissajones.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.electanissajones.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electanissajones.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.electanissajones.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.electanissajones.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.electanissajones.com/issues"
+},
+{
+"text": "Meet Anissa",
+"href": "https://www.electanissajones.com/meet_anissa"
+},
+{
+"text": "News",
+"href": "https://www.electanissajones.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.electanissajones.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electanissajones.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electanissajones.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.electanissajones.com/vote"
+},
+{
+"text": "[image: Anissa Jones at Seuss on the Loose]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/107670/f704eeccbc044015a355342e82c77cfd.jpg"
+},
+{
+"text": "[image: Anissa Jones distributing free books at Suess on the Loose]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/107670/1eeb47d1bb7046a9868737bda9048f31.jpg"
+},
+{
+"text": "[image: Anissa Jones for Georgia House]",
+"href": "https://www.electanissajones.com/"
+},
+{
+"text": "[image: Anissa Jones giving the commencement address at the Urban Leadership Academy.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/107670/ab68c9d89c5c4e05988937dc9eec57ba.jpg"
+},
+{
+"text": "[image: Anissa Jones speaking at Mercer University]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/107670/7cba816ebed045a9a8371e8e81fa9ae6.jpg"
+},
+{
+"text": "[image: Representative Jones at Macon Day at the Capitol.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/107670/257c80a7137b45d983a56e976019bc5d.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/drnissapolitico/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drnissapolitico/"
+}
 ]

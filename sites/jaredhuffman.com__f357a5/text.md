@@ -1,7 +1,9 @@
-Serving California’s great northern region from the Golden Gate Bridge to the Oregon border.
-“Representing California’s great northern region in Congress is an honor and responsibility I will never take for granted.
+500 0 0 Skip to Content Home Meet Jared Events Endorsements Get Involved Contact DONATE Open Menu Close Menu Open Menu Close Menu DONATE Home Meet Jared Events Endorsements Get Involved Contact Home Meet Jared Events Endorsements Get Involved Contact DONATE Serving California’s great northern region from the Golden Gate Bridge to the Oregon border.
+View fullsize “Representing California’s great northern region in Congress is an honor and responsibility I will never take for granted.
 With so much at stake—rising costs for working families, attacks on democracy and the rule of law, the worsening climate crisis and more—the need for bold, effective, productive leadership is greater than ever.
-You can count on me to always fight for our values and priorities, and to get things done.”
-We’re building a movement to safeguard our democracy, our climate, and Northern California’s communities.
-Contribute today to power Jared’s campaign →
-*If you've saved your information with ActBlue Express, your donation will go through immediately.
+You can count on me to always fight for our values and priorities, and to get things done. ” We’re building a movement to safeguard our democracy, our climate, and Northern California’s communities.
+Contribute today to power Jared’s campaign → *If you've saved your information with ActBlue Express, your donation will go through immediately. $25 $50 $100 $250 OTHER AMOUNT $3500 Jared Huffman is fighting for our communities, our environment and our democracy.
+Learn More → Follow Jared on social media Whether hosting a house party, walking precincts, talking to voters, helping with office work or contributing support, you can make a difference in the next election by getting involved in Jared’s campaign today.
+TAKE ACTION Volunteer Contribute Endorse Jared Become a monthly donor NO PROPHETS The Fight to Save Democracy from Christian Nationalism Jared’s critically-acclaimed new book will be released August 18, 2026 – pre-orders available now from major booksellers!
+Pre-Order NO PROPHETS Pre-Order NO PROPHETS Huffman for Congress P.O.
+Box 664 Petaluma, CA 94953-0664 Paid for by Huffman for Congress, FEC# C00536680

@@ -1,7 +1,9 @@
 {
  "description": "Donate online: Personal checks may be sent to: Bill McCaskill for NC House 801 Salem Ct. Asheboro, NC 27205",
  "final_url": "https://billmccaskill.com/donate/",
- "paid_for_by": null,
+ "fingerprint": "f57bbc96d9395afe27846186787e1545e860cc32",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate - Bill McCaskill for NC House 70",
  "years_mentioned": []
 }

@@ -1,20 +1,86 @@
 [
-"http://elections.il.gov/",
-"https://@ericaforil47.bsky.social/",
-"https://ericaforil47.com/",
-"https://ericaforil47.com/about-erica",
-"https://ericaforil47.com/endorsements",
-"https://ericaforil47.com/events",
-"https://ericaforil47.com/home",
-"https://ericaforil47.com/my-priorities",
-"https://ericaforil47.com/news",
-"https://facebook.com/share/16gAdy9zmJ?mibextid=wwXlfr",
-"https://forms.gle/1DBZjuukNzdfjC1L8",
-"https://forms.gle/bDMoFdgVyMj7Zc4T7",
-"https://forms.gle/kymaBAyDA2pRXVpDA",
-"https://instagram.com/ericaforil47?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://secure.actblue.com/donate/ericaforil47",
-"https://termsfeed.com/live/6b59f297-6b09-4d2a-80ba-6ffbefc7e5da",
-"https://tiktok.com/@ericaforil47?is_from_webapp=1&sender_device=pc",
-"https://x.com/ericaforil47"
+{
+"text": "@ericaforil47.bsky.social‬",
+"href": "https://@ericaforil47.bsky.social"
+},
+{
+"text": "About Erica",
+"href": "https://ericaforil47.com/about-erica/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ericaforil47"
+},
+{
+"text": "Endorsements",
+"href": "https://ericaforil47.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://ericaforil47.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/16gAdy9zmJ/?mibextid=wwXlfr"
+},
+{
+"text": "Home",
+"href": "https://ericaforil47.com/home/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ericaforil47?igsh=ZDNlZDc0MzIxNw%3D%3D"
+},
+{
+"text": "Join Us",
+"href": "https://forms.gle/kymaBAyDA2pRXVpDA"
+},
+{
+"text": "Mail",
+"href": "mailto:erica@ericaforil47.com"
+},
+{
+"text": "My Priorities",
+"href": "https://ericaforil47.com/my-priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.termsfeed.com/live/6b59f297-6b09-4d2a-80ba-6ffbefc7e5da"
+},
+{
+"text": "Receive News",
+"href": "https://ericaforil47.com/news/"
+},
+{
+"text": "Sign up for our newsletter here",
+"href": "https://forms.gle/1DBZjuukNzdfjC1L8"
+},
+{
+"text": "Subscribe to our Newsletter",
+"href": "https://forms.gle/1DBZjuukNzdfjC1L8"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ericaforil47?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "View our Privacy Policy",
+"href": "https://www.termsfeed.com/live/6b59f297-6b09-4d2a-80ba-6ffbefc7e5da"
+},
+{
+"text": "Volunteer/Lawn Signs",
+"href": "https://forms.gle/bDMoFdgVyMj7Zc4T7"
+},
+{
+"text": "X",
+"href": "https://x.com/ericaforil47"
+},
+{
+"text": "[image]",
+"href": "https://ericaforil47.com/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

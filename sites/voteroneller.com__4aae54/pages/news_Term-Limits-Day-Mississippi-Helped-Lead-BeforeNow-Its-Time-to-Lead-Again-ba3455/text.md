@@ -1,6 +1,5 @@
-By Ron Eller, Mississippi State Chair, U.S.
-Term Limits
-On February 27th, Americans celebrate Term Limits Day, marking the 75th anniversary of the passage of the 22nd Amendment, which limits a president to two terms in office.
+Meet Ron Issues News Volunteer Swag Contribute News / Term Limits Day: Mississippi Helped Lead Before—Now It's Time to Lead Again 27 Feb Friday, 7:00 AM · 2026 Term Limits Day: Mississippi Helped Lead Before—Now It's Time to Lead Again By Ron Eller, Mississippi State Chair, U.S.
+Term Limits On February 27th, Americans celebrate Term Limits Day, marking the 75th anniversary of the passage of the 22nd Amendment, which limits a president to two terms in office.
 It's a milestone worth reflecting on—especially here in Mississippi, a state that has long understood the value of citizen government and constitutional guardrails.
 When Congress debated the 22nd Amendment in 1950 and 1951, the idea of term limits for presidents was far from universally accepted.
 In fact, some of the loudest opposition came from Washington insiders who had spent decades in power themselves.
@@ -44,3 +43,4 @@ On this Term Limits Day, as we celebrate the wisdom of the 22nd Amendment 75 yea
 We helped lead once before.
 Now it's time to lead again.
 Sign the Term Limits Pledge now at www.termlimits.com and show your support.
+Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

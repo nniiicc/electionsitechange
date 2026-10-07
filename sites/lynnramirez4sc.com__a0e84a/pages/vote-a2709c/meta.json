@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.lynnramirez4sc.com/vote",
- "paid_for_by": null,
+ "fingerprint": "038eb5ab2ee0db34b4d0fcb573c2e6661b08e936",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

@@ -1,15 +1,11 @@
-Ming Zhang for MA state senate
-Worcester & middlesex
-Privacy Policy
-A LEGAL DISCLAIMER
-The explanations and information provided on this page are only general and high-level explanations and information on how to write your own document of a Privacy Policy.
+top of page Ming Zhang for MA state senate Worcester & middlesex Log In Home News About Get Involved Contact Privacy Policy A LEGAL DISCLAIMER The explanations and information provided on this page are only general and high-level explanations and information on how to write your own document of a Privacy Policy.
 You should not rely on this article as legal advice or as recommendations regarding what you should actually do, because we cannot know in advance what are the specific privacy policies you wish to establish between your business and your customers and visitors.
 We recommend that you seek legal advice to help you understand and to assist you in the creation of your own Privacy Policy.
-PRIVACY POLICY - THE BASICS
-Having said that, a privacy policy is a statement that discloses some or all of the ways a website collects, uses, discloses, processes, and manages the data of its visitors and customers.
+PRIVACY POLICY - THE BASICS Having said that, a privacy policy is a statement that discloses some or all of the ways a website collects, uses, discloses, processes, and manages the data of its visitors and customers.
 It usually also includes a statement regarding the website’s commitment to protecting its visitors’ or customers’ privacy, and an explanation about the different mechanisms the website is implementing in order to protect privacy.
 Different jurisdictions have different legal obligations of what must be included in a Privacy Policy.
 You are responsible to make sure you are following the relevant legislation to your activities and location.
-WHAT TO INCLUDE IN THE PRIVACY POLICY
-Generally speaking, a Privacy Policy often addresses these types of issues: the types of information the website is collecting and the manner in which it collects the data; an explanation about why is the website collecting these types of information; what are the website’s practices on sharing the information with third parties; ways in which your visitors and customers can exercise their rights according to the relevant privacy legislation; the specific practices regarding minors’ data collection; and much, much more.
-To learn more about this, check out our article “Creating a Privacy Policy”.
+WHAT TO INCLUDE IN THE PRIVACY POLICY Generally speaking, a Privacy Policy often addresses these types of issues: the types of information the website is collecting and the manner in which it collects the data; an explanation about why is the website collecting these types of information; what are the website’s practices on sharing the information with third parties; ways in which your visitors and customers can exercise their rights according to the relevant privacy legislation; the specific practices regarding minors’ data collection; and much, much more.
+To learn more about this, check out our article “ Creating a Privacy Policy ”. ​Support Our Cause When making a donation, please make sure that you are:​​ - At least eighteen years old. - The contribution is made from your own funds, and funds are not being provided to you by another person or entity for the purpose of making this contribution. - You are a U.S. citizen or permanent resident. - You are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution. - You are making this contribution with your own personal credit card and not with a corporate or business credit card or a card issue to another person.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Monthly Newsletters Newsletter - April Issue 20 Hampshire Road Wayland, MA 01778.
+Newsletter - May Issue Newsletter - June Issue Newsletter - July Issue Newsletter - August Issue Home About Me Get Involved Contact Ming Zhang - FOR STATE SENATE- Terms & Conditions Privacy Policy Accessibility Statement ​ Zhang Committee, ngdddd Westford, MA 01886 mingzhang.for2026@gmail.com 617-460-1538 bottom of page

@@ -1,8 +1,8 @@
-Goldsboro News-Argus
-By Rep.
-John Bell
-July 20, 2018
-With a history in aviation that dates back to the Wright Brothers, it is an undisputed fact that North Carolina has been a pioneer in the field of aeronautical prototypes and industry firsts.
+Make a donation Please finish the form below Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form CONTRIBUTE Home ABOUT priorities NEWS Join GAllery John Bell: New refueling tankers will ring huge benefits to Eastern North Carolina Written by: John Bell July 20, 2018 Back to News Goldsboro News-Argus By Rep.
+John Bell July 20, 2018 With a history in aviation that dates back to the Wright Brothers, it is an undisputed fact that North Carolina has been a pioneer in the field of aeronautical prototypes and industry firsts.
 Thus, it comes as no surprise that a state, which is the grandfather of aeronautics, and known for being industry leaders in everything from tar to furniture, would again be chosen to host the U.S.
 Air Force’s new KC-46 refueling tanker.
 As announced last year, the KC-46 will replace the existing refueling tankers assigned to the 916th Air Refueling Wing as the next generation refueling tanker at Goldsboro’s Seymour Johnson Air Force Base.
@@ -27,3 +27,6 @@ The tankers will call Seymour Johnson AFB home and provide direct benefit to the
 I am proud to have helped lead the fight to bring this next generation aircraft to North Carolina and urge all citizens in our great state to support the KC-46 refueling program.
 John Richard Bell IV is a Republican member of the North Carolina General Assembly.
 He represents the 10th district.
+Contact us john@electjohnbell.com POL.
+AD.
+PAID FOR BY ELECT JOHN BELL COMMITTTEE.

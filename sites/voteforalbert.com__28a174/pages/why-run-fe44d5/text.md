@@ -1,7 +1,8 @@
-Why Run?
-House District 20 – Why I’m Running
-Hello citizens of Sublette County and House District 20,
-After serving 12 years in the Wyoming House, I stepped away in 2024 to run for the Senate because I believed I still had more to give in public service.
+0 Skip to Content Home Why Run?
+Issues All Issues Minerals Agriculture Public Lands Second Amendment Education Pro-Life Protect Girls' Sports Voter Integrity Water The Facts About Contact Donate Open Menu Close Menu Home Why Run?
+Issues All Issues Minerals Agriculture Public Lands Second Amendment Education Pro-Life Protect Girls' Sports Voter Integrity Water The Facts About Contact Donate Open Menu Close Menu Home Why Run?
+Folder: Issues Back All Issues Minerals Agriculture Public Lands Second Amendment Education Pro-Life Protect Girls' Sports Voter Integrity Water The Facts About Contact Donate Why Run?
+Albert is a lifelong resident of Sublette County House District 20 – Why I’m Running Hello citizens of Sublette County and House District 20, After serving 12 years in the Wyoming House, I stepped away in 2024 to run for the Senate because I believed I still had more to give in public service.
 That race didn’t go my way, and I respected the outcome.
 But over the past two years, after closely watching the direction of the Wyoming House—and hearing from many of you encouraging me to return—I’ve come to believe that House District 20 once again needs experienced, common-sense conservative leadership that will stand up for our people, our industries, and our natural resources.
 I followed this past legislative session closely and spent time at the Capitol.
@@ -30,7 +31,10 @@ I believe the best government is the one closest to the people.
 Local control isn’t just a principle—it’s how we ensure decisions reflect the needs of our communities.
 I will always stand for that.
 I look forward to earning your support and seeing you on the campaign trail.
-For more information visit VoteforAlbert.com.
+For more information visit VoteforAlbert.com .
 Please don’t hesitate to reach out at albert@albertsommers.com with any questions or ideas.
-Respectfully,
-Albert Sommers
+Respectfully, Albert Sommers View my Track Record Here Real Solutions—Not Distractions.
+ACT NOW.
+Donate to the Albert Sommers for House District 20 Campaign Today $50 $100 $250 $500 OTHER Or, send a check to: PO Box 1608 Pinedale, WY 82941 If mailing a donation, please make check payable to Albert Sommers.
+Thank You!
+Email albert@albertsommers.com Phone (307) 360-7060 Navigation Home Issues About Contact This website is paid for by Albert Sommers

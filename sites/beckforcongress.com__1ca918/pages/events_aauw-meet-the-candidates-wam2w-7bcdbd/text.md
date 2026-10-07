@@ -1,9 +1,1 @@
-Back to All Events
-Candidate Forum
-Previous
-Previous
-October 14
-AAUW Meet the Candidates
-Next
-Next
-October 17
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Jefferson County Candidate Forum Thursday, October 15, 2026 7:00 PM 8:30 PM Jefferson County Fair Grounds 503 North Jackson Avenue Jefferson, Wisconsin, 53549 United States (map) Google Calendar ICS Candidate Forum Previous Previous October 14 AAUW Meet the Candidates Next Next October 17 West Bend Farmer's Market DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

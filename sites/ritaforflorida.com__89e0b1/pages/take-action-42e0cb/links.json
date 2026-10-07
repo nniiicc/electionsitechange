@@ -1,12 +1,54 @@
 [
-"http://instagram.com/",
-"https://docs.google.com/forms/d/1gL3EmPVgLpkWcuncsVZ5jfM1HxlfGeXO4RiakXWYSn0/viewform?edit_requested=true",
-"https://facebook.com/RitaForFL",
-"https://mobilize.us/reprita",
-"https://ritaforflorida.com/",
-"https://ritaforflorida.com/platform",
-"https://ritaforflorida.com/take-action",
-"https://secure.actblue.com/donate/jenniferritaharris",
-"https://tiktok.com/@ritaforflorida",
-"https://twitter.com/RitaForFlorida"
+{
+"text": "Contact",
+"href": "mailto:rita@ritaforflorida.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenniferritaharris"
+},
+{
+"text": "FLORIDA",
+"href": "https://www.ritaforflorida.com"
+},
+{
+"text": "Home",
+"href": "https://www.ritaforflorida.com"
+},
+{
+"text": "Platform",
+"href": "https://www.ritaforflorida.com/platform"
+},
+{
+"text": "RITA",
+"href": "https://www.ritaforflorida.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.ritaforflorida.com/take-action"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RitaForFL"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@ritaforflorida"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/RitaForFlorida"
+},
+{
+"text": "find events",
+"href": "https://www.mobilize.us/reprita"
+},
+{
+"text": "volunteer",
+"href": "https://docs.google.com/forms/d/1gL3EmPVgLpkWcuncsVZ5jfM1HxlfGeXO4RiakXWYSn0/viewform?edit_requested=true"
+}
 ]

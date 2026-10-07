@@ -1,9 +1,9 @@
-STATEHOUSE/REMOTELY — Representative Nathan Carlow, a member of the Joint Standing Committee on Energy, Utilities, and Technology (EUT), issued a statement following his vote to recommend to the State Senate confirmation of the following gubernatorial nominations;
-- Suzanne MacDonald of Rockland
-- Mark Isaacson of Cumberland
-- Kenneth Colburn of Bar Harbor
-The E.U.T.
+Skip to content Nathan Carlow for Representative Join Nathan in bringing common-sense solutions to the Maine State Legislature Menu + × expanded collapsed Home Meet Nathan Biography Newsroom Services Help With an Agency Sentiments and Letters Flag Requests Legislative Concerns Contact CONTRIBUTE Rep.
+Carlow’s Statement on Recommending Confirmation of Nominations to the Efficiency Maine Trust Board of Trustees Posted by communicationsdirector February 9, 2021 February 9, 2021 Posted in General STATEHOUSE/REMOTELY — Representative Nathan Carlow , a member of the Joint Standing Committee on Energy, Utilities, and Technology (EUT), issued a statement following his vote to recommend to the State Senate confirmation of the following gubernatorial nominations; Suzanne MacDonald of Rockland Mark Isaacson of Cumberland Kenneth Colburn of Bar Harbor The E.U.T.
 Committee unanimously voted to recommend each of the Governor’s nominations to the Board.
 “I found that each of the nominees were highly qualified and demonstrated fervent commitment to promoting a cleaner and more sustainable energy infrastructure in Maine,” he said.
 The Maine Senate must vote on above nominations within 35-days after the nomination was sent to the Legislature by the Governor.
-###
+### Posted by communicationsdirector February 9, 2021 February 9, 2021 Posted in General Post navigation Previous Post Previous post: Rep.
+Carlow Co-Sponsors Bipartisan Broadband Infrastructure Bill Next Post Next post: ICYMI: 52 lawmakers call on state to ease restrictions to allow more Maine schools to reopen full time Leave a comment Cancel reply Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Log in now.
+Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

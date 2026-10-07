@@ -1,10 +1,2 @@
-Press and Media.
-For media inquiries please contact hello@bradforpa.com
-Letter to the Editor
-Erin Gibson
-Letter to the Editor
-Erin Gibson
-In the News
-Erin Gibson
-In the News
-Erin Gibson
+0 Skip to Content Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Press and Media.
+For media inquiries please contact hello@bradforpa.com Press Releases Erin Gibson 9/9/24 Press Releases Erin Gibson 9/9/24 PRESS RELEASE: Governor Josh Shapiro Endorses Brad Chambers for Pennsylvania’s House of Representatives, Joining 41 other Elected Officials, Community Leaders, Labor Unions, and Organizations Read More In the News , Press Releases Erin Gibson 9/9/24 In the News , Press Releases Erin Gibson 9/9/24 Governor Josh Shapiro Endorses Key Democratic State House Candidates to Continue Delivering on Commonsense Priorities for Pennsylvanians Read More Letter to the Editor Erin Gibson 9/5/24 Letter to the Editor Erin Gibson 9/5/24 Voting for Chambers in 41st District Read More In the News Erin Gibson 9/3/24 In the News Erin Gibson 9/3/24 Down-ballot Democrats aim to kick out election deniers Read More Letter to the Editor Erin Gibson 8/22/24 Letter to the Editor Erin Gibson 8/22/24 Don’t overlook down-ballot races Read More In the News Erin Gibson 2/5/24 In the News Erin Gibson 2/5/24 Two Democrats look to unseat longtime GOP state lawmakers in this year’s election Read More In the News Erin Gibson 2/5/24 In the News Erin Gibson 2/5/24 Brad Chambers is one of the Democrats looking to unseat longtime GOP state lawmakers in this year’s election Read More In the News Erin Gibson 1/28/24 In the News Erin Gibson 1/28/24 County Democrats endorse four candidates in state House races Read More In the News Erin Gibson 1/4/24 In the News Erin Gibson 1/4/24 County Democrats announce 2024 candidates seeking its endorsement Read More Newer Posts HOME VOLUNTEER PRESS Contact DONATE STATE / OF / THE / RACE PAID FOR BY BRAD FOR PA PO BOX 471 • EAST PETERSBURG, PA 17520 © BRAD FOR PA / PRIVACY POLICY

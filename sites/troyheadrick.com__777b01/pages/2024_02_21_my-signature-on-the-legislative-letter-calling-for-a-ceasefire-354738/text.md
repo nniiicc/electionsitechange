@@ -1,6 +1,4 @@
-My Signature on the Legislative Letter Calling for a Ceasefire
-Friends and Neighbors,
-By now many of you have likely already learned of a pending letter from elected state officials that will ask the Biden administration to advocate for a ceasefire between Israel and Hamas while ending our continued arms sales or military aid to the nation of Israel.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / My Signature on the Legislative Letter Calling for a Ceasefire February 21, 2024 Friends and Neighbors, By now many of you have likely already learned of a pending letter from elected state officials that will ask the Biden administration to advocate for a ceasefire between Israel and Hamas while ending our continued arms sales or military aid to the nation of Israel.
 I’ve already written this response to a few of our neighbors who reached out directly and want to share my reasons for signing the letter.
 My apologies for including statements I’ve already made within those responses.
 I know that my response is going to disappoint some of you and I certainly know the feeling of realizing that those I’ve helped to elect are in such distinct disagreement with my own values.
@@ -28,5 +26,4 @@ This is precisely how a democracy thrives.
 Never doubt that a small group of thoughtful, committed citizens can change the world (Margaret Mead).
 To restate it, I’m truly sorry to disappoint some of you with my actions in this instance.
 I hope our disagreement can exist within a mutual respect nonetheless.
-With continued hopes of peace,
-Troy
+With continued hopes of peace, Troy < Open Letter of Concern Regarding the Recent MOU Between UVM and the City of Burlington > State Auditor’s Report on the MOU Between the City of Burlington and UVM Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

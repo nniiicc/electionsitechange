@@ -1,2 +1,2 @@
-Official campaign photos approved for press use.
-For questions, please contact press@deliaforcongress.com Campaign B-Roll
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE Official campaign photos approved for press use.
+For questions, please contact press@deliaforcongress.com Campaign B-Roll MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

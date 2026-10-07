@@ -1,17 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61591802939592",
-"https://form.jotform.com/213107092527147",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/max.ganorkar",
-"https://maxforcongress.com/about",
-"https://maxforcongress.com/donate",
-"https://maxforcongress.com/go-ask-an-indian",
-"https://maxforcongress.com/home",
-"https://maxforcongress.com/issues",
-"https://maxforcongress.com/videos",
-"https://secure.anedot.com/max-for-congress/c4d615d5-f153-4edb-80b7-02fe54dc3d74",
-"https://secure.anedot.com/max-for-congress/donate",
-"https://tiktok.com/@maxforcongress",
-"https://x.com/GanorkarMax",
-"https://youtube.com/@MaxforCongressNC-04"
+{
+"text": "About",
+"href": "https://maxforcongress.com/about"
+},
+{
+"text": "Click on the social-media links below",
+"href": "https://maxforcongress.com/donate"
+},
+{
+"text": "Constitutionalist for Congress NC-04Constitutionalist for Congress NC-04Constitutionalist for Congress NC-04Constitutionalist for Congress NC-04",
+"href": "https://maxforcongress.com/home"
+},
+{
+"text": "Donate",
+"href": "https://maxforcongress.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/max-for-congress/donate"
+},
+{
+"text": "Go Ask An Indian",
+"href": "https://maxforcongress.com/go-ask-an-indian"
+},
+{
+"text": "Home",
+"href": "https://maxforcongress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://maxforcongress.com/issues"
+},
+{
+"text": "Loan",
+"href": "https://secure.anedot.com/max-for-congress/c4d615d5-f153-4edb-80b7-02fe54dc3d74"
+},
+{
+"text": "Videos",
+"href": "https://maxforcongress.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://form.jotform.com/213107092527147"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591802939592"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/max.ganorkar"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maxforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/GanorkarMax"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaxforCongressNC-04"
+}
 ]

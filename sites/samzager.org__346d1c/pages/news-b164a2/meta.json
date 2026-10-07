@@ -1,7 +1,9 @@
 {
  "description": "Get updates on all things about Sam Zager. Campaign news, articles, endorsements and more.",
  "final_url": "https://samzager.org/news/",
- "paid_for_by": null,
+ "fingerprint": "7e0c7e044055801e0752d211e7da9f6115a5b1d8",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Sam Zager",
  "title": "Recent news about Sam - Sam Zager",
  "years_mentioned": []
 }

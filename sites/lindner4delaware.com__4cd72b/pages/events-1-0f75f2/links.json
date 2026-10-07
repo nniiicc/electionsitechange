@@ -1,25 +1,106 @@
 [
-"http://facebook.com/Lindner4Delaware",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fkickoff-fundraiser-building-a-stronger-community-together&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fplease-join-us-for-a-fundraiser&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/lindner4delaware",
-"https://lindner4delaware.com/",
-"https://lindner4delaware.com/about-1",
-"https://lindner4delaware.com/about-5",
-"https://lindner4delaware.com/contact",
-"https://lindner4delaware.com/copy-of-donate",
-"https://lindner4delaware.com/donate",
-"https://lindner4delaware.com/events-1",
-"https://lindner4delaware.com/events/kickoff-fundraiser-building-a-stronger-community-together",
-"https://lindner4delaware.com/events/please-join-us-for-a-fundraiser",
-"https://lindner4delaware.com/family",
-"https://lindner4delaware.com/get-involved",
-"https://lindner4delaware.com/news",
-"https://lindner4delaware.com/privacy",
-"https://lindner4delaware.com/voting",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fkickoff-fundraiser-building-a-stronger-community-together",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fplease-join-us-for-a-fundraiser",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fkickoff-fundraiser-building-a-stronger-community-together&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fplease-join-us-for-a-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://wix.com/"
+{
+"text": "About Me",
+"href": "https://www.lindner4delaware.com"
+},
+{
+"text": "Contact",
+"href": "https://www.lindner4delaware.com/contact"
+},
+{
+"text": "Details",
+"href": "https://www.lindner4delaware.com/events/kickoff-fundraiser-building-a-stronger-community-together"
+},
+{
+"text": "Details",
+"href": "https://www.lindner4delaware.com/events/please-join-us-for-a-fundraiser"
+},
+{
+"text": "Donate",
+"href": "https://www.lindner4delaware.com/copy-of-donate"
+},
+{
+"text": "Donate",
+"href": "https://www.lindner4delaware.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lindner4delaware.com/about-1"
+},
+{
+"text": "Events",
+"href": "https://www.lindner4delaware.com/events-1"
+},
+{
+"text": "Family",
+"href": "https://www.lindner4delaware.com/family"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lindner4delaware.com/get-involved"
+},
+{
+"text": "Gregg's Message",
+"href": "https://www.lindner4delaware.com/about-5"
+},
+{
+"text": "Home",
+"href": "https://www.lindner4delaware.com"
+},
+{
+"text": "Lindner4Delaware@gmail.com",
+"href": "mailto:Lindner4Delaware@gmail.com?subject=Let%27s+Connect%21"
+},
+{
+"text": "News & Media",
+"href": "https://www.lindner4delaware.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.lindner4delaware.com/about-5"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lindner4delaware.com/privacy"
+},
+{
+"text": "Voting",
+"href": "https://www.lindner4delaware.com/voting"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/Lindner4Delaware"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lindner4delaware/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fkickoff-fundraiser-building-a-stronger-community-together&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fplease-join-us-for-a-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fkickoff-fundraiser-building-a-stronger-community-together&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fplease-join-us-for-a-fundraiser&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fkickoff-fundraiser-building-a-stronger-community-together"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lindner4delaware.com%2Fevents%2Fplease-join-us-for-a-fundraiser"
+}
 ]

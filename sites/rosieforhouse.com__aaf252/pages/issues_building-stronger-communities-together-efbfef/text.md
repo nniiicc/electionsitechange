@@ -1,6 +1,5 @@
-Rosie believes in
-Building Stronger Communities Together
-Throughout her life, Rosie has believed that real change happens when neighbors come together to solve problems.
+Skip navigation menu Home About Issues Volunteer Contact Donate Home About Issues Volunteer Contact Donate Strengthen Rural Healthcare Investing in Public Education Growing Rural Communities Honoring Veterans and Supporting Seniors Supporting Working Families Leading with Integrity Building Stronger Communities Together Rosie believes in Building Stronger Communities Together Throughout her life, Rosie has believed that real change happens when neighbors come together to solve problems.
 Whether serving overseas, helping local organizations succeed, or volunteering in her community, she has seen firsthand what people can accomplish when they work together.
 In the Legislature, Rosie will bring people together across differences to find practical solutions that strengthen families, support local communities, and create new opportunities for future generations.
 Her focus will always be on serving the people of House District 16 with compassion, integrity, and a commitment to getting results.
+Privacy Policy THE FUTURE IS ROSIE Powered by RUN! website builder PAID FOR AND AUTHORIZED BY ROSIE LYNCH FOR OKLAHOMA STATE HOUSE DISTRICT 16 You need to enable JavaScript to run this app.

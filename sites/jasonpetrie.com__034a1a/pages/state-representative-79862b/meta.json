@@ -1,7 +1,9 @@
 {
  "description": "JASON PETRIE STATE REPRESENTATIVE",
  "final_url": "https://www.jasonpetrie.com/state-representative",
- "paid_for_by": null,
+ "fingerprint": "c974276c9da2c59c1c1539451d65ad97814f4308",
+ "format": 3,
+ "paid_for_by": "",
  "title": "State Representative",
  "years_mentioned": []
 }

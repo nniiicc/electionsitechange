@@ -1,19 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://lackawannacounty.org/government/departments/elections/index.php",
-"https://pa.gov/agencies/vote",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
-"https://sabiaforstate.com/",
-"https://sabiaforstate.com/contact",
-"https://sabiaforstate.com/contribute",
-"https://sabiaforstate.com/events",
-"https://sabiaforstate.com/home",
-"https://sabiaforstate.com/issues",
-"https://sabiaforstate.com/meet_joseph",
-"https://sabiaforstate.com/news",
-"https://sabiaforstate.com/privacy-policy",
-"https://sabiaforstate.com/volunteer",
-"https://sabiaforstate.com/vote",
-"https://sabiaforstate.com/yard-sign"
+{
+"text": "Contact",
+"href": "https://www.sabiaforstate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.sabiaforstate.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.sabiaforstate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.sabiaforstate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.sabiaforstate.com/issues"
+},
+{
+"text": "Meet Joseph",
+"href": "https://www.sabiaforstate.com/meet_joseph"
+},
+{
+"text": "News",
+"href": "https://www.sabiaforstate.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sabiaforstate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sabiaforstate.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.sabiaforstate.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.sabiaforstate.com/yard-sign"
+},
+{
+"text": "[image: Joseph J. Sabia Jr. State Representative]",
+"href": "https://www.sabiaforstate.com/"
+},
+{
+"text": "https://www.lackawannacounty.org/government/departments/elections/index.php",
+"href": "https://www.lackawannacounty.org/government/departments/elections/index.php"
+},
+{
+"text": "https://www.pa.gov/agencies/vote",
+"href": "https://www.pa.gov/agencies/vote"
+},
+{
+"text": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+}
 ]

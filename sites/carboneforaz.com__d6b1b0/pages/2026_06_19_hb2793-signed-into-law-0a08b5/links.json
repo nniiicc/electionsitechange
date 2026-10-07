@@ -1,13 +1,50 @@
 [
-"https://apps.azleg.gov/BillStatus/BillOverview/84614",
-"https://azleg.gov/legtext/57leg/2r/laws/0205.htm",
-"https://carboneforaz.com/",
-"https://carboneforaz.com/category/posts",
-"https://carboneforaz.com/in-the-news",
-"https://carboneforaz.com/volunteer",
-"https://facebook.com/profile.php?id=100079817160405",
-"https://give.cornerstone.cc/conservativesforcarbone/checkout",
-"https://instagram.com/michael_carbone42",
-"https://legiscan.com/AZ/bill/HB2793/2026",
-"https://twitter.com/MichaelCarbone"
+{
+"text": "All Posts",
+"href": "https://carboneforaz.com/category/posts/"
+},
+{
+"text": "Click Here to Donate",
+"href": "https://give.cornerstone.cc/conservativesforcarbone/checkout"
+},
+{
+"text": "Donate",
+"href": "https://give.cornerstone.cc/conservativesforcarbone/checkout"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100079817160405"
+},
+{
+"text": "Final chaptered law",
+"href": "https://www.azleg.gov/legtext/57leg/2r/laws/0205.htm"
+},
+{
+"text": "In the News",
+"href": "https://carboneforaz.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/michael_carbone42/"
+},
+{
+"text": "Legiscan",
+"href": "https://legiscan.com/AZ/bill/HB2793/2026"
+},
+{
+"text": "Official Arizona Legislature bill overview",
+"href": "https://apps.azleg.gov/BillStatus/BillOverview/84614"
+},
+{
+"text": "Volunteer",
+"href": "https://carboneforaz.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://carboneforaz.com"
+},
+{
+"text": "twitter / X",
+"href": "https://www.twitter.com/MichaelCarbone"
+}
 ]

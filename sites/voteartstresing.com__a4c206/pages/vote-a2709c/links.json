@@ -1,17 +1,66 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://dos.fl.gov/elections/candidates-committees",
-"https://facebook.com/profile.php?id=61590713094866",
-"https://instagram.com/artstresingfl18",
-"https://register.vote.org/",
-"https://verify.vote.org/",
-"https://voteartstresing.com/",
-"https://voteartstresing.com/contribute",
-"https://voteartstresing.com/events",
-"https://voteartstresing.com/home",
-"https://voteartstresing.com/photos",
-"https://voteartstresing.com/view-endorsements",
-"https://voteartstresing.com/volunteer",
-"https://voteartstresing.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contribute",
+"href": "https://voteartstresing.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://voteartstresing.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://voteartstresing.com/events"
+},
+{
+"text": "Florida Department of State - Florida Division of Elections",
+"href": "https://dos.fl.gov/elections/candidates-committees/"
+},
+{
+"text": "Home",
+"href": "https://voteartstresing.com/home"
+},
+{
+"text": "Photos",
+"href": "https://voteartstresing.com/photos"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "VOTING INFO",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://voteartstresing.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://voteartstresing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590713094866"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/artstresingfl18/"
+}
 ]

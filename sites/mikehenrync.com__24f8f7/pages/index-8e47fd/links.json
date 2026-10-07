@@ -1,6 +1,18 @@
 [
-"https://b12.io/ai-web-design",
-"https://google.com/maps/place/PO+Box+10121+Southport+NC+28461",
-"https://mikehenrync.com/",
-"https://mikehenrync.com/index"
+{
+"text": "PO Box 10121, Southport, NC, 28461",
+"href": "https://www.google.com/maps/place/PO+Box+10121+Southport+NC+28461"
+},
+{
+"text": "Web design by",
+"href": "https://www.b12.io/ai-web-design/"
+},
+{
+"text": "[image: 0.png] Mike Henry Reform Committee",
+"href": "https://mikehenrync.com/index"
+},
+{
+"text": "[image: 00 thank you 2.png] Paid for by the Mike Henry Reform Committe",
+"href": "https://mikehenrync.com/"
+}
 ]

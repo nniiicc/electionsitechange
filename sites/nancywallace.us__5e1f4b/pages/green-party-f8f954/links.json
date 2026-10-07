@@ -1,24 +1,102 @@
 [
-"http://aiso.net/",
-"http://gp.org/",
-"http://jill2016.com/",
-"http://mdgreens.org/",
-"http://montgomerycountygreenparty.org/",
-"http://montgomerycountygreenparty.org/ten-key-values",
-"http://nancywallace.us/",
-"http://nancywallace.us/list",
-"http://therealnews.com/t2/index.php?option=com_content&task=view&id=767&Itemid=74&jumival=13161",
-"https://en.wikipedia.org/wiki/Ecological_wisdom",
-"https://en.wikipedia.org/wiki/Grassroots_democracy",
-"https://en.wikipedia.org/wiki/Nonviolence",
-"https://en.wikipedia.org/wiki/Social_justice",
-"https://globalgreens.org/",
-"https://nancywallace.us/about/community-peacestopping-police-violence",
-"https://nancywallace.us/contact",
-"https://nancywallace.us/donate",
-"https://nancywallace.us/endorsements",
-"https://nancywallace.us/green-party/green-party",
-"https://nancywallace.us/issues",
-"https://nancywallace.us/meet-nancy",
-"https://nancywallace.us/vote-for-nancy"
+{
+"text": "10 Key Values",
+"href": "http://www.montgomerycountygreenparty.org/ten-key-values/"
+},
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Contact",
+"href": "https://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.nancywallace.us/donate/"
+},
+{
+"text": "Ecological wisdom",
+"href": "https://en.wikipedia.org/wiki/Ecological_wisdom"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Grassroots democracy",
+"href": "https://en.wikipedia.org/wiki/Grassroots_democracy"
+},
+{
+"text": "Green Party",
+"href": "https://www.nancywallace.us/green-party/green-party"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Issues",
+"href": "https://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "https://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Meet Nancy",
+"href": "https://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Nonviolence",
+"href": "https://en.wikipedia.org/wiki/Nonviolence"
+},
+{
+"text": "Police",
+"href": "https://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Social justice",
+"href": "https://en.wikipedia.org/wiki/Social_justice"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "http://therealnews.com/t2/index.php?option=com_content&task=view&id=767&Itemid=74&jumival=13161",
+"href": "http://therealnews.com/t2/index.php?option=com_content&task=view&id=767&Itemid=74&jumival=13161"
+},
+{
+"text": "http://www.gp.org/",
+"href": "http://www.gp.org/"
+},
+{
+"text": "http://www.jill2016.com/",
+"href": "http://www.jill2016.com/"
+},
+{
+"text": "http://www.mdgreens.org/",
+"href": "http://www.mdgreens.org/"
+},
+{
+"text": "http://www.montgomerycountygreenparty.org/",
+"href": "http://www.montgomerycountygreenparty.org/"
+},
+{
+"text": "https://www.globalgreens.org/",
+"href": "https://www.globalgreens.org/"
+},
+{
+"text": "nancy@nancywallace.us",
+"href": "mailto:nancy@nancywallace.us"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

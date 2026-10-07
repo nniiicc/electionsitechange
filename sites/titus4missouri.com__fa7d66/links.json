@@ -1,13 +1,58 @@
 [
-"https://facebook.com/TitusForMissouri",
-"https://instagram.com/titusformissouri",
-"https://secure.anedot.com/bobtitus/donate",
-"https://titus4missouri.com/",
-"https://titus4missouri.com/issues",
-"https://titus4missouri.com/privacy-policy",
-"https://titus4missouri.com/privacy-policy/terms-and-conditions",
-"https://x.com/Titus4Missouri",
-"https://youtube.com/watch?v=-Gx1OAPzxS8",
-"https://youtube.com/watch?v=CejhXNNm_oE",
-"https://youtube.com/watch?v=vCTISDL5MTc"
+{
+"text": "CONTACT ME",
+"href": "https://www.titus4missouri.com"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.anedot.com/bobtitus/donate"
+},
+{
+"text": "MEET BOB",
+"href": "https://www.titus4missouri.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.titus4missouri.com/privacy-policy"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.titus4missouri.com/issues"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.titus4missouri.com/privacy-policy/terms-and-conditions"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.titus4missouri.com"
+},
+{
+"text": "WATCH",
+"href": "https://www.youtube.com/watch?v=-Gx1OAPzxS8"
+},
+{
+"text": "WATCH",
+"href": "https://www.youtube.com/watch?v=CejhXNNm_oE"
+},
+{
+"text": "WATCH",
+"href": "https://www.youtube.com/watch?v=vCTISDL5MTc"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/TitusForMissouri/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/titusformissouri/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/Titus4Missouri"
+},
+{
+"text": "titusformissouri@gmail.com",
+"href": "mailto:titusformissouri@gmail.com?subject=From+Website%3A"
+}
 ]

@@ -1,5 +1,30 @@
 [
-"https://fournierforohio.com/",
-"https://fournierforohio.com/get-involved",
-"https://secure.actblue.com/donate/fournierforohio"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fournierforohio"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fournierforohio.com/#workers"
+},
+{
+"text": "Home",
+"href": "https://www.fournierforohio.com/"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.fournierforohio.com/#meet"
+},
+{
+"text": "Priorities",
+"href": "https://www.fournierforohio.com/#priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fournierforohio.com/get-involved"
+},
+{
+"text": "[image: Fournier for State Representative, District 44]",
+"href": "https://www.fournierforohio.com/"
+}
 ]

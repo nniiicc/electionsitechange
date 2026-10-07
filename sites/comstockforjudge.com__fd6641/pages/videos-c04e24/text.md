@@ -1,6 +1,6 @@
-Having served on the front lines of emergencies as a fire chief and EMT, Chip brings a unique human-centered perspective to the appellate bench.
+david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact More Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact First Responder Having served on the front lines of emergencies as a fire chief and EMT, Chip brings a unique human-centered perspective to the appellate bench.
 He understands the value of calm judgment under pressure, the weight of responsibility, and the importance of public trust.
-His life of service ensures he sees not just legal arguments—but the people behind the cases.
-As Judge of the Ohio Seventh District Court of Appeals, David “Chip” Comstock envisions a judiciary that is faithful to the Constitution, grounded in common sense, and committed to equal justice under law.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+His life of service ensures he sees not just legal arguments—but the people behind the cases .
+Experience & Qualifications As Judge of the Ohio Seventh District Court of Appeals, David “Chip” Comstock envisions a judiciary that is faithful to the Constitution, grounded in common sense, and committed to equal justice under law .
+Copyright © # Comstock for Judge - All Rights Reserved.
+Powered by

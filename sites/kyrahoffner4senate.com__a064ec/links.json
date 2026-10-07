@@ -1,23 +1,106 @@
 [
-"https://app.jotform.com/250326592282154",
-"https://elections.delaware.gov/",
-"https://elections.delaware.gov/maps/sd/2023/newcastle/sen-district-14.pdf",
-"https://elections.delaware.gov/public/calendar/calendars.shtml",
-"https://elections.delaware.gov/voter/absentee/index.shtml",
-"https://elections.delaware.gov/voter/specialneeds.shtml",
-"https://facebook.com/kyrahoffner4senate",
-"https://gis.elections.delaware.gov/apps/5bc1fa9352464944be601441655e36a0/explore",
-"https://instagram.com/kyra_hoffner",
-"https://ivote.de.gov/VoterView",
-"https://kyrahoffner4senate.com/",
-"https://kyrahoffner4senate.com/about",
-"https://kyrahoffner4senate.com/contact",
-"https://kyrahoffner4senate.com/legislation",
-"https://kyrahoffner4senate.com/press",
-"https://kyrahoffner4senate.com/privacy-policy",
-"https://kyrahoffner4senate.com/work",
-"https://legis.delaware.gov/BillDetail?legislationId=142727",
-"https://legis.delaware.gov/BillDetail?legislationId=142749",
-"https://linkedin.com/in/kyra-hoffner-74681b16",
-"https://secure.actblue.com/donate/kyra-hoffner-1"
+{
+"text": "About",
+"href": "https://www.kyrahoffner4senate.com/about"
+},
+{
+"text": "Access the App",
+"href": "https://app.jotform.com/250326592282154"
+},
+{
+"text": "Contact",
+"href": "https://www.kyrahoffner4senate.com/contact"
+},
+{
+"text": "Contact Senator Hoffner",
+"href": "https://www.kyrahoffner4senate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kyra-hoffner-1"
+},
+{
+"text": "Delaware Department of Elections",
+"href": "https://elections.delaware.gov/"
+},
+{
+"text": "Delaware Election Calendars",
+"href": "https://elections.delaware.gov/public/calendar/calendars.shtml"
+},
+{
+"text": "Delaware Polling Place Locator",
+"href": "https://gis.elections.delaware.gov/apps/5bc1fa9352464944be601441655e36a0/explore"
+},
+{
+"text": "District 14 Map",
+"href": "https://elections.delaware.gov/maps/sd/2023/newcastle/sen-district-14.pdf"
+},
+{
+"text": "Get In Touch",
+"href": "https://www.kyrahoffner4senate.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.kyrahoffner4senate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kyrahoffner4senate.com/work"
+},
+{
+"text": "Join The Email List",
+"href": "https://www.kyrahoffner4senate.com/#EmailList"
+},
+{
+"text": "Learn more",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142727"
+},
+{
+"text": "Learn more",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142749"
+},
+{
+"text": "Legislation",
+"href": "https://www.kyrahoffner4senate.com/legislation"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.kyrahoffner4senate.com/privacy-policy"
+},
+{
+"text": "Press",
+"href": "https://www.kyrahoffner4senate.com/press"
+},
+{
+"text": "Register to Vote",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "SEE MORE LEGISLATION",
+"href": "https://www.kyrahoffner4senate.com/legislation"
+},
+{
+"text": "Voters with Special Needs",
+"href": "https://elections.delaware.gov/voter/specialneeds.shtml"
+},
+{
+"text": "Voting by Absentee Ballot",
+"href": "https://elections.delaware.gov/voter/absentee/index.shtml"
+},
+{
+"text": "[image: Kyra Hoffner for Senate Logo]",
+"href": "https://www.kyrahoffner4senate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kyrahoffner4senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kyra_hoffner/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kyra-hoffner-74681b16/"
+}
 ]

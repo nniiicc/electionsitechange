@@ -1,5 +1,4 @@
-The Reality In Our District
-Mental health care is not a luxury—it’s a necessity.
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate The Reality In Our District Mental health care is not a luxury—it’s a necessity.
 Yet across Northwest Missouri, too many individuals and families are struggling to access the support they need.
 In rural communities like ours, mental health resources are limited and often out of reach.
 Many people face long waitlists just to see a therapist.
@@ -18,3 +17,8 @@ We cannot continue to ignore the mental health crisis in rural Missouri.
 People deserve timely, compassionate care—close to home.
 It’s time to start having honest conversations, investing in real solutions, and building a system that works for everyone.
 Because taking care of mental health is taking care of our communities.
+Stay in the loop Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address get updates from Casey directly to your inbox.
+Email Address Sign Up Thank you!
+Donate ‍ Volunteer ‍ Events Casey Scott For Missouri caseyscottformissouri@gmail.com PAID FOR BY: CASEY SCOTT FOR MISSOURI, DEPUTY TREASURER CYNTHIA SCOTT

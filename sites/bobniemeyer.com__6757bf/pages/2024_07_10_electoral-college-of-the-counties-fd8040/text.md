@@ -1,5 +1,4 @@
-Fellow Oregonians:
-Our Founding Fathers created a system that would prevent small, highly populated areas of the United States of America from turning themselves into something very much like King George and the Government of England in the 1700’s.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Electoral College of the Counties Fellow Oregonians: Our Founding Fathers created a system that would prevent small, highly populated areas of the United States of America from turning themselves into something very much like King George and the Government of England in the 1700’s.
 King George and the form of government in England was every bit a dictatorial form of rule.
 The Founding Fathers saw that the population of the Colonies was extremely “Diverse”.
 Meaning that there were a great deal of skill sets such as farming, blacksmithing, or carpentry mixed with a wide variety of Religious beliefs further mixed with ideas of self-governance showing up in the Colonies.
@@ -24,3 +23,5 @@ The Electoral College of the Counties would also apply to all State-wide issues 
 And with the County Commissioners operating as Executive Branch, the Counties would have far better local control of the government.
 The problem with high density population centers is something that is plaguing every State of the Union.
 The number one goal behind the Electoral College of the Counties is to diversify the control of natural resources back to the Counties where the local population knows how to use and live with what they have.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

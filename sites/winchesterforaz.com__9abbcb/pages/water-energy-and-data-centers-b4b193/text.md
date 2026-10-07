@@ -1,4 +1,4 @@
-Data centers pay their own way.
+Meet John Get Involved Press Kit Priorities Education Water, Energy, and Data Centers Donate Skip to content John Winchester for Arizona Primary Menu Meet John Get Involved Press Kit Priorities Education Water, Energy, and Data Centers Donate Donate Water, Energy, and Data Centers Data centers pay their own way.
 They do not belong in neighborhoods.
 Data centers use a lot of power.
 In a time of cuts to the Colorado River, more infrastructure can look backwards.
@@ -42,3 +42,6 @@ Reliability still comes first: firm power in July, then nuclear over time, solar
 Do not retire what we have before the replacement is on the line.
 Cities and counties can still refuse a bad site.
 Neighborhoods are a bad site.
+Connect Contact john@winchesterforaz.com Paid for by Winchester for Arizona.
+Authorized by John Winchester.
+Privacy Policy | Terms and Conditions Press Kit

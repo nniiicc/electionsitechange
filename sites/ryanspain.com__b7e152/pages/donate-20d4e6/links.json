@@ -1,15 +1,58 @@
 [
-"https://facebook.com/wix",
-"https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo",
-"https://instagram.com/wix",
-"https://ryanspain.com/",
-"https://ryanspain.com/about-ryan",
-"https://ryanspain.com/donate",
-"https://ryanspain.com/get-involved",
-"https://ryanspain.com/on-the-issues",
-"https://ryanspain.com/the-district",
-"https://secure.anedot.com/friends-of-ryan-spain/donate",
-"https://tiktok.com/@wix?_d=secCgYIASAHKAESPgo8bJWqrWC4Nr%2BRYzP%2BVtrmkW1yv8onKe340Iy%2FTDOE1GiC5K1C6e8qw19A1ZDHAm8CRSncDs9zU2FiADwVGgA%3D&checksum=6ee3b8ed09a7b80754f53d8d9654f3607efacb929e1fe7cb2168ab163f9c106d&language=en&sec_uid=MS4wLjABAAAAYHhFoEGKGLJwnIBxd-QXc1KVcUtlG1sHpsa0HQUHGw4zmND_lFqx6z2IPJH7chg_&sec_user_id=MS4wLjABAAAAgPHZ_FdpBZBJUM3ddmqfpjOvm-vJLKHpFiyv4dstvGcgdF3_apqTw54z5V4uOXel&share_app_id=1233&share_author_id=6795533291946083333&share_link_id=830633BB-5464-41EC-A582-52B78B5041AC&tt_from=copy&u_code=dccm9a1hm10m3e&user_id=6827810298247119878&_r=1",
-"https://twitter.com/wix",
-"https://youtube.com/user/Wix"
+{
+"text": "ABOUT RYAN",
+"href": "https://www.ryanspain.com/about-ryan"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-ryan-spain/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.ryanspain.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ryanspain.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.ryanspain.com"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.ryanspain.com/on-the-issues"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.ryanspain.com/the-district"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.ryanspain.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix?_d=secCgYIASAHKAESPgo8bJWqrWC4Nr%2BRYzP%2BVtrmkW1yv8onKe340Iy%2FTDOE1GiC5K1C6e8qw19A1ZDHAm8CRSncDs9zU2FiADwVGgA%3D&checksum=6ee3b8ed09a7b80754f53d8d9654f3607efacb929e1fe7cb2168ab163f9c106d&language=en&sec_uid=MS4wLjABAAAAYHhFoEGKGLJwnIBxd-QXc1KVcUtlG1sHpsa0HQUHGw4zmND_lFqx6z2IPJH7chg_&sec_user_id=MS4wLjABAAAAgPHZ_FdpBZBJUM3ddmqfpjOvm-vJLKHpFiyv4dstvGcgdF3_apqTw54z5V4uOXel&share_app_id=1233&share_author_id=6795533291946083333&share_link_id=830633BB-5464-41EC-A582-52B78B5041AC&tt_from=copy&u_code=dccm9a1hm10m3e&user_id=6827810298247119878&_r=1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/Wix"
+}
 ]

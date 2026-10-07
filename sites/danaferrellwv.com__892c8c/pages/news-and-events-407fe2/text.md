@@ -1,6 +1,1 @@
-News and Events to be added soon
-Skip to content
-News and Events
-News and Events to be added soon
-Copyright © 2018 Dana Ferrell for 39th House of Delegates
-WV 39th House of Delegates
+Skip to content Dana Ferrell WV 39th House of Delegates Home About Dana News and Events Issues Get Involved Campaign Donations News and Events News and Events to be added soon Search for: Recent Posts Welcome to the new Dana Ferrell for 39th House of Delegates site Recent Comments Archives April 2018 Contact Us Email dferrell@rsnsports.co Copyright © # Dana Ferrell for 39th House of Delegates

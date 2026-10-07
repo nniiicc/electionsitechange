@@ -1,63 +1,37 @@
-The Latest News & Press
-Harden Holler
-Podcast
-Chris has a conversation with Michael Hettig, Candidate for Senate District 12
-Streamed Live - September 28, 2026
-Episode Captain America Steven Rogers
-Streamed Live - September 17, 2026
-Chris Harden has a conversation with a CD11 voter.
-Streamed Live - September 2, 2026
-Talking about minerals and how it is affecting our foreign policy.
-Streamed Live - August 21, 2026
-IN THE NEWS
-SOCIAL MEDIA
-PRESS RELEASES
-PRESS RELEASE
-FOR IMMEDIATE RELEASE
-Chris Harden Unveils “Fair Deal for Working Families,” Outlining 11 Priorities for Georgia’s 11th District
-Congressional candidate’s agenda focuses on lowering costs, strengthening healthcare, creating good-paying jobs, and bringing greater accountability to Washington
-FOR IMMEDIATE RELEASE
-WOODSTOCK, Ga. — Chris Harden, candidate for Congress in Georgia’s 11th Congressional District, today unveiled his “Fair Deal for Working Families: 11 Priorities for the 11th District,” an agenda focused on lowering everyday costs, strengthening the middle class, expanding access to healthcare, creating good-paying jobs and demanding greater accountability from Washington.
+top of page HOME ABOUT CHRIS PRIORITIES NEWS SHOP VOLUNTEER EVENTS Menu Close Donate VOLUNTEER CONTACT US Volunteer DONATE DONATE Host A Chris Chat Request Yard Signs The Latest News & Press Harden Holler Podcast Chris has a conversation with Rasmus Jensen, Candidate for State House District 5 Streamed Live - October 6, 2026 Chris has a conversation with Michael Hettig, Candidate for Senate District 12 Streamed Live - September 28, 2026 Episode Captain America Steven Rogers Streamed Live - September 17, 2026 Chris Harden has a conversation with a CD11 voter.
+Streamed Live - September 2, 2026 Talking about minerals and how it is affecting our foreign policy.
+Streamed Live - August 21, 2026 IN THE NEWS Grain of salt?: Internal poll shows Democrat Chris Harden leading in Georgia’s deep red CD 11 September 17, 2026 Read Article IN THE NEWS This Georgia candidate says disappointed voters are ready to flip.
+September 6, 2026 - Atlanta News First Watch Now IN THE NEWS IN THE NEWS Candidates on file with the FEC for the Georgia House race in District 11, the money behind them, and outside spending on the contest.
+September 16, 2026 View Resource Georgia Democrats Hold State Convention in Savannah August 1, 2026 C-SPAN Watch Now Is there anything that can better prepare to to serve in Congress better than raising triplets?
+August 31, 2026 Listen Now IN THE NEWS Chris Harden Is Betting on Practical Leadership to Build a Stronger Future for Georgia August 15, 2026 Read Article Chris Harden Wants to Bring a Neighbor-First Voice to Congress—and a New Future for Georgia’s 11th District August 15, 2026 Read Article Chris Harden Is Applying Pressure: From the Courtroom to Congress, He Says It’s Time to Show Up August 15, 2026 Read Article IN THE NEWS Cheers, chants and 'No Kings' signs greet Trump in east Cob July 22, 2026 Read Article Georgia Democrats Hold State Convention in Savannah August 1, 2026 C-SPAN Watch Now Guest Chris Harden June 24,2026 Listen Now Chris Harden Says the American Dream Is on the Ballot June 22, 2026 Read More Cowan wins GOP runoff, will face Harden this fall.
+June 16,2026 Watch Now SOCIAL MEDIA PRESS RELEASES PRESS RELEASE FOR IMMEDIATE RELEASE Chris Harden Unveils “Fair Deal for Working Families,” Outlining 11 Priorities for Georgia’s 11th District Congressional candidate’s agenda focuses on lowering costs, strengthening healthcare, creating good-paying jobs, and bringing greater accountability to Washington FOR IMMEDIATE RELEASE WOODSTOCK, Ga. — Chris Harden, candidate for Congress in Georgia’s 11th Congressional District, today unveiled his “Fair Deal for Working Families: 11 Priorities for the 11th District,” an agenda focused on lowering everyday costs, strengthening the middle class, expanding access to healthcare, creating good-paying jobs and demanding greater accountability from Washington.
 “Working families are doing everything right — working hard, raising their kids, paying their bills and trying to build a better future — but Washington keeps making it harder to get ahead,” Harden said.
 “If you work hard and play by the rules, you deserve a fair shot at the American Dream.
-Government should work for you, not corporations, special interests or career politicians.”
-Harden’s 11 priorities for the 11th District include:
-- Healthcare That Puts Patients Over Profits Make healthcare more affordable, expand Affordable Care Act premium tax credits, lower prescription costs and improve access to healthcare services in rural communities.
-- A Tax Cut for Our Middle Class Provide targeted tax relief for working and middle-class families while requiring large corporations and the wealthiest Americans to pay their fair share.
-- Get Corporate Money Out of Politics Harden has pledged not to accept corporate PAC money and supports greater campaign-finance transparency and reforms reducing the influence of special-interest spending.
-- Lower Costs, Raise Wages Protect Georgia workers, farmers and consumers through responsible trade policies while supporting higher wages that provide greater economic security for working families.
-- Ban Congressional Stock Trading Prohibit members of Congress, federal judges, senior Executive Branch officials and their immediate families from trading individual stocks while holding positions of public trust.
-- Demand Real Transparency in Washington Increase government transparency and disclosure while holding public officials accountable regardless of wealth, political party or connections.
-- Clean Up Congress Establish a lifetime ban on former members of Congress lobbying the federal government and an age limit of 80 for members of Congress.
-- Ban Partisan Gerrymandering Establish independent redistricting commissions designed to create fairer maps and more competitive elections.
+Government should work for you, not corporations, special interests or career politicians.” Harden’s 11 priorities for the 11th District include: Healthcare That Puts Patients Over Profits Make healthcare more affordable, expand Affordable Care Act premium tax credits, lower prescription costs and improve access to healthcare services in rural communities.
+A Tax Cut for Our Middle Class Provide targeted tax relief for working and middle-class families while requiring large corporations and the wealthiest Americans to pay their fair share.
+Get Corporate Money Out of Politics Harden has pledged not to accept corporate PAC money and supports greater campaign-finance transparency and reforms reducing the influence of special-interest spending.
+Lower Costs, Raise Wages Protect Georgia workers, farmers and consumers through responsible trade policies while supporting higher wages that provide greater economic security for working families.
+Ban Congressional Stock Trading Prohibit members of Congress, federal judges, senior Executive Branch officials and their immediate families from trading individual stocks while holding positions of public trust.
+Demand Real Transparency in Washington Increase government transparency and disclosure while holding public officials accountable regardless of wealth, political party or connections.
+Clean Up Congress Establish a lifetime ban on former members of Congress lobbying the federal government and an age limit of 80 for members of Congress.
+Ban Partisan Gerrymandering Establish independent redistricting commissions designed to create fairer maps and more competitive elections.
 “Politicians shouldn’t get to pick their voters,” Harden said.
-“Voters should pick their politicians.”
-- Crack Down on Price Gouging Strengthen protections against abusive price-gouging practices and prohibit AI-driven surveillance pricing that uses consumer data to individually price essential goods such as groceries.
-- Responsible Oversight of Data Center Development Create stronger standards protecting water and natural resources, encourage local job creation, scrutinize public subsidies and prevent ordinary utility customers from disproportionately absorbing infrastructure and energy costs associated with large data centers.
+“Voters should pick their politicians.” Crack Down on Price Gouging Strengthen protections against abusive price-gouging practices and prohibit AI-driven surveillance pricing that uses consumer data to individually price essential goods such as groceries.
+Responsible Oversight of Data Center Development Create stronger standards protecting water and natural resources, encourage local job creation, scrutinize public subsidies and prevent ordinary utility customers from disproportionately absorbing infrastructure and energy costs associated with large data centers.
 “Northwest Georgia can welcome innovation without writing a blank check,” Harden said.
-“If massive corporations want to build data centers in our communities, they need to be good neighbors, protect our resources, create good local jobs and pay their fair share.”
-- Invest in Clean Energy and 21st-Century Infrastructure Invest in affordable energy, modernize Georgia’s electric grid, roads and bridges, and expand housing opportunities for working families, younger Georgians and seniors.
+“If massive corporations want to build data centers in our communities, they need to be good neighbors, protect our resources, create good local jobs and pay their fair share.” Invest in Clean Energy and 21st-Century Infrastructure Invest in affordable energy, modernize Georgia’s electric grid, roads and bridges, and expand housing opportunities for working families, younger Georgians and seniors.
 Harden said the Fair Deal reflects his belief that Congress should focus on restoring economic opportunity and making the American Dream attainable for another generation.
 “I grew up in a trailer park in Rossville, Georgia,” Harden said.
 “I know what the American Dream can mean to a working family because I lived it.
 My parents worked hard, public schools gave me an opportunity, and I was able to build a life they could be proud of.
-That promise shouldn’t disappear for the next generation.”
-Harden says the agenda is intended to reach beyond traditional partisan divisions and address concerns shared by families throughout the district.
+That promise shouldn’t disappear for the next generation.” Harden says the agenda is intended to reach beyond traditional partisan divisions and address concerns shared by families throughout the district.
 “This campaign isn’t about left versus right,” Harden said.
-“It’s about whether the people we send to Washington are working for families in Cobb, Cherokee, Bartow, Pickens and Gordon counties — or working for themselves and the special interests that keep them there.”
-“The people of the 11th District deserve a fair deal.
-These are the 11 commitments I’ll take with me to Congress.”
-About Chris Harden
-Chris Harden is a husband, father of triplets, attorney, small business owner, and candidate for the United States House of Representatives in Georgia’s 11th Congressional District.
+“It’s about whether the people we send to Washington are working for families in Cobb, Cherokee, Bartow, Pickens and Gordon counties — or working for themselves and the special interests that keep them there.” “The people of the 11th District deserve a fair deal.
+These are the 11 commitments I’ll take with me to Congress.” About Chris Harden Chris Harden is a husband, father of triplets, attorney, small business owner, and candidate for the United States House of Representatives in Georgia’s 11th Congressional District.
 Raised in a working-class family in Rossville, Georgia, Harden’s campaign is focused on affordability, healthcare access, economic opportunity, government accountability and practical solutions for working families throughout Northwest Georgia.
-August 17, 2026
-Volunteer
-SIGN UP
-The future of Georgia’s 11th District will not be determined by politicians in Washington.
-It will be determined by the people who live here, work here, raise families here, and invest in their communities every day.
-If you believe the government should work for working people…
-If you believe opportunity should be available to everyone willing to work for it…
-If you believe leadership should listen more and solve problems more…
-Then join us.
+ElectHarden.com August 17, 2026 First name * Last name * Phone Email * Join Us!
+Volunteer SIGN UP The future of Georgia’s 11th District will not be determined by politicians in Washington. ​ It will be determined by the people who live here, work here, raise families here, and invest in their communities every day. ​ If you believe the government should work for working people… If you believe opportunity should be available to everyone willing to work for it… If you believe leadership should listen more and solve problems more… Then join us.
 The American Dream Is On The Ballot.
 Let’s Do Something Different Together.
+SIGN UP Volunteer First name * Last name * Phone Email * Join Us! © # Paid For By Chris Harden For Congerss Privacy Policy Accessibility Statement Media Inquiry Contact Chris Harden Headquarters P.O.
+Box 510 Woodstock, GA 30188 404-480-3155 info@chrishardenforcongress.com NAVIGATION About Chris News Shop Volunteer FOLLOW US Facebook Instagram TikTok YouTube PAID FOR BY CHRIS HARDEN FOR CONGRESS PAID FOR BY CHRIS HARDEN FOR CONGRESS HOME ABOUT CHRIS PRIORITIES NEWS SHOP VOLUNTEER EVENTS bottom of page

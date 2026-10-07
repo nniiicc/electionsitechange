@@ -1,5 +1,4 @@
-Public Education
-Public education is the foundation of American democracy.
+0 Skip to Content About Deborah Issues Events Volunteer Endorsements Yard Signs Merch Media Contact Donate Open Menu Close Menu About Deborah Issues Events Volunteer Endorsements Yard Signs Merch Media Contact Donate Open Menu Close Menu About Deborah Issues Events Volunteer Endorsements Yard Signs Merch Media Contact Donate Public Education Public education is the foundation of American democracy.
 Education not only creates dreams.
 It makes them possible.
 I am outraged by the decades-long assault on public education in Arizona, and I am committed to putting an end to it.
@@ -11,3 +10,6 @@ I will do everything in my power to end the abuses of the school voucher program
 This commitment extends to our great public colleges and universities.
 The Arizona Constitution promises that higher education should be “as free as possible,” yet students are still graduating with mountains of unforgivable debt.
 I will fight to make that constitutional promise a reality.
+Paid for by Deborah Howard for State Representative - LD27.
+Authorized by Deborah Howard.
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318

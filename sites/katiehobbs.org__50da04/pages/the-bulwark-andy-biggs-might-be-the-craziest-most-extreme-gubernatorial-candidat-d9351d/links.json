@@ -1,41 +1,194 @@
 [
-"http://facebook.com/hobbskatie",
-"http://instagram.com/katie4az",
-"http://twitter.com/katiehobbs",
-"http://youtube.com/@KatieHobbsAZ",
-"https://52092-info.com/",
-"https://arizona.vote/",
-"https://azcentral.com/story/news/politics/fact-check/2020/11/17/andy-biggs-paul-gosar-still-touting-baseless-election-fraud-claims/6334872002?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z1171xxe1171xxv003147d--34--b--34--&gca-ft=171&gca-ds=sophi",
-"https://azmirror.com/2026/07/23/doctors-warn-andy-biggs-record-on-healthcare-abortion-should-alarm-arizona-voters",
-"https://clerk.house.gov/Votes/202660",
-"https://clerk.house.gov/Votes/202665?Date=02%2F11%2F2026",
-"https://coppercourier.com/news/biggs-votes-20-years",
-"https://foxbusiness.com/video/6327860256112",
-"https://go.katiehobbs.org/signup/katie-hobbs-sms-signup",
-"https://jezebel.com/here-are-the-125-members-of-congress-who-sponsored-a-bill-that-would-restrict-ivf",
-"https://katiehobbs.org/",
-"https://katiehobbs.org/campaign-updates",
-"https://katiehobbs.org/campaign-updates/in-the-news",
-"https://katiehobbs.org/campaign-updates/press-releases",
-"https://katiehobbs.org/donate",
-"https://katiehobbs.org/get-involved",
-"https://katiehobbs.org/get-involved/email-signup",
-"https://katiehobbs.org/get-involved/volunteer",
-"https://katiehobbs.org/home/election-updates-2026",
-"https://katiehobbs.org/meet-john",
-"https://katiehobbs.org/meet-katie",
-"https://katiehobbs.org/privacy-policy",
-"https://katiehobbs.org/red-line-new-video-details-andy-biggs-failure-to-protect-women-and-children-in-colorado-city",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=0",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=20.26",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=50",
-"https://store.katiehobbs.org/",
-"https://youtube.com/watch?v=MlJGh86jzKs"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=50"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=100"
+},
+{
+"text": "$20.26",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=20.26"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=50"
+},
+{
+"text": "Campaign Updates",
+"href": "https://katiehobbs.org/campaign-updates/"
+},
+{
+"text": "Contribute",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Election Updates 2026",
+"href": "https://katiehobbs.org/home/election-updates-2026/"
+},
+{
+"text": "Email Signup",
+"href": "https://katiehobbs.org/get-involved/email-signup/"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://katiehobbs.org/get-involved"
+},
+{
+"text": "In the News",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/"
+},
+{
+"text": "Join",
+"href": "https://katiehobbs.org/get-involved/"
+},
+{
+"text": "Meet John",
+"href": "https://katiehobbs.org/meet-john/"
+},
+{
+"text": "Meet Katie",
+"href": "https://katiehobbs.org/meet-katie/"
+},
+{
+"text": "Meet Katie Meet Katie",
+"href": "https://katiehobbs.org/meet-katie"
+},
+{
+"text": "Next Post",
+"href": "https://katiehobbs.org/red-line-new-video-details-andy-biggs-failure-to-protect-women-and-children-in-colorado-city/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=0"
+},
+{
+"text": "Press Releases",
+"href": "https://katiehobbs.org/campaign-updates/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katiehobbs.org/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.katiehobbs.org"
+},
+{
+"text": "Terms of Service",
+"href": "https://52092-info.com"
+},
+{
+"text": "Text Message Updates",
+"href": "https://go.katiehobbs.org/signup/katie-hobbs-sms-signup/"
+},
+{
+"text": "Tim Miller Digs Into Andy Biggs’ Record—and Finds Something Disturbing",
+"href": "https://www.youtube.com/watch?v=MlJGh86jzKs"
+},
+{
+"text": "Updates",
+"href": "https://katiehobbs.org/campaign-updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://katiehobbs.org/get-involved/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.arizona.vote/"
+},
+{
+"text": "[image: Katie Hobbs for Governor]",
+"href": "https://katiehobbs.org"
+},
+{
+"text": "[image: Katie Hobbs for Governor]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/hobbskatie"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/katie4az"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/katiehobbs"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@KatieHobbsAZ"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=The+Bulwark%3A+Andy+Biggs+Might+Be+the+%E2%80%9CCraziest%2C+Most+Extreme%E2%80%9D+Gubernatorial+Candidate+This+Cycle+-+Katie+Hobbs+for+Governor&body=https%3A%2F%2Fkatiehobbs.org%2Fthe-bulwark-andy-biggs-might-be-the-craziest-most-extreme-gubernatorial-candidate-this-cycle%2F"
+},
+{
+"text": "ban abortion",
+"href": "https://www.jezebel.com/here-are-the-125-members-of-congress-who-sponsored-a-bill-that-would-restrict-ivf"
+},
+{
+"text": "defund the FBI",
+"href": "https://www.foxbusiness.com/video/6327860256112"
+},
+{
+"text": "devastating cuts to Medicaid",
+"href": "https://azmirror.com/2026/07/23/doctors-warn-andy-biggs-record-on-healthcare-abortion-should-alarm-arizona-voters/"
+},
+{
+"text": "info@katiehobbs.org",
+"href": "mailto:info@katiehobbs.org"
+},
+{
+"text": "refusal",
+"href": "https://www.azcentral.com/story/news/politics/fact-check/2020/11/17/andy-biggs-paul-gosar-still-touting-baseless-election-fraud-claims/6334872002/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z1171xxe1171xxv003147d--34--b--34--&gca-ft=171&gca-ds=sophi"
+},
+{
+"text": "repeated",
+"href": "https://clerk.house.gov/Votes/202665?Date=02%2F11%2F2026"
+},
+{
+"text": "siding with predators",
+"href": "https://coppercourier.com/news/biggs-votes-20-years/"
+},
+{
+"text": "votes",
+"href": "https://clerk.house.gov/Votes/202660"
+},
+{
+"text": "“Red Line”: New Video Details Andy Biggs’ Failure To Protect Women and Children in Colorado City",
+"href": "https://katiehobbs.org/red-line-new-video-details-andy-biggs-failure-to-protect-women-and-children-in-colorado-city/"
+}
 ]

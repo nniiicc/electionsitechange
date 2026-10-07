@@ -1,104 +1,75 @@
-Recent News
-Campaign Updates
-- In the News, NewsNation
-- In the News, NewsNation
-- In the News, The Bulwark
-- In the News, The Bulwark
-- In the News, WSET
-- In the News, WSET
-- Augusta Free Press, In the News
-- Augusta Free Press, In the News
-- Daily News Record, In the News
-- Daily News Record, In the News
-- In the News, The Roanoke Rambler
-- In the News, The Roanoke Rambler
-- In the News, The Jim Acosta Show
-- In the News, The Jim Acosta Show
-- Daily News Record, In the News
-- Daily News Record, In the News
-Retired U.S.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All September 30, 2026 In the News , NewsNation Virginia Dem seeks Seat in GOP Stronghold September 30, 2026 In the News , NewsNation Beth Macy speaks with NewsNation about her campaign for Congress....
+Read More September 30, 2026 In the News , The Bulwark More Democrats Who Can Win Red America September 30, 2026 In the News , The Bulwark AS WE HEAD INTO THE HOME STRETCH before the midterms, things are looking so good for Democrats that candidates once thought to be in tough races...
+Read More September 28, 2026 In the News , WSET Congressional candidate Beth Macy meets with constituents in Lexington September 28, 2026 In the News , WSET LEXINGTON, Va.
+(WSET) — About 150 people gathered at the Virginia Horse Center in Lexington as Democratic congressional candidate Beth Macy made her case for representing Virginia’s 6th Congressional District....
+Read More September 28, 2026 Augusta Free Press , In the News Ben Cline leaving the chair empty at Oct.
+14 Clifton Forge forum, which is now off September 28, 2026 Augusta Free Press , In the News Ben Cline, who just last week said his Democratic opponent, Beth Macy, “wanted the headline ‘debate me’ more than she wanted the night itself,” apparently wanted the headline “she didn’t show” more than he wanted the debate itself....
+Read More September 21, 2026 Daily News Record , In the News Harrisonburg Rotary Club cancels Cline-Macy candidate forum September 21, 2026 Daily News Record , In the News The much-anticipated Harrisonburg Rotary Club Forum, which was supposed to let Sixth District Republican incumbent Ben Cline and his Democratic challenger Beth Macy appear together to compare and contrast their views, will not happen, the Harrisonburg Rotary Club said in a Facebook post Tuesday afternoon....
+Read More September 16, 2026 In the News , The Roanoke Rambler The Reporter who Wrote about the Opioid Crisis is now Running Against the Congressman She Says Helped Cause It September 16, 2026 In the News , The Roanoke Rambler For 25 years, Beth Macy's job was to ask other people uncomfortable questions.
+On Nov.
+3, voters in Virginia's 6th Congressional District will decide whether she gets to ask them from a seat in Congress....
+Read More September 15, 2026 In the News , The Jim Acosta Show The Jim Acosta Show – Beth Macy Interview September 15, 2026 In the News , The Jim Acosta Show Jim Acosta interviews Congressional Candidate and author Beth Macy....
+Read More September 14, 2026 Daily News Record , In the News ICE raids, election security discussed at Page County fundraiser for Beth Macy September 14, 2026 Daily News Record , In the News Retired U.S.
 Army Maj.
 Gen.
 Randy Manner, who spoke at a fundraiser for Sixth District Democratic Congressional Candidate Beth Macy at River’s Bend Ranch in Stanley on Sunday night, was asked by Macy to address the ICE raid that took place in Page County in June.
-Read the full article here: https://www.dnronline.com/news/elections/ice-raids-election-security-discussed-at-page-county-fundraiser-for-beth-macy/article_1574a787-18d8-5136-94d3-a18e83b063e3.html?fbclid=IwdGRjcAUXxeRwZG9mBWZkaWQWUOiFrAuFxSUtifJAkNgg2L0_Wi5yrWV4dG4DYWVtAjExAHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR41tLBI0JAY8qhkv1BCPxcyI1y6e9BfTU-0-4Nt7u1OqeyJ7P2sEEFMbISWfg_aem_NG87lxSyfVVs4hLktDNviw
-...
-- In the News, Royal Examiner
-- In the News, Royal Examiner
-Macy, a longtime journalist and author, recently sat down with the Royal Examiner for an interview to discuss why she is running, the issues she is hearing across the district, and several policies she would support if elected.
+Read the full article here: https://www.dnronline.com/news/elections/ice-raids-election-security-discussed-at-page-county-fundraiser-for-beth-macy/article_1574a787-18d8-5136-94d3-a18e83b063e3.html?fbclid=IwdGRjcAUXxeRwZG9mBWZkaWQWUOiFrAuFxSUtifJAkNgg2L0_Wi5yrWV4dG4DYWVtAjExAHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR41tLBI0JAY8qhkv1BCPxcyI1y6e9BfTU-0-4Nt7u1OqeyJ7P2sEEFMbISWfg_aem_NG87lxSyfVVs4hLktDNviw ...
+Read More September 11, 2026 In the News , Royal Examiner Beth Macy Discusses Sixth District Campaign, Health Care, Farming and Data Centers September 11, 2026 In the News , Royal Examiner Macy, a longtime journalist and author, recently sat down with the Royal Examiner for an interview to discuss why she is running, the issues she is hearing across the district, and several policies she would support if elected.
 Her remarks included criticism of Republican Rep.
-Ben Cline and the Trump administration, along with proposals involving […]
-...
-- Augusta Free Press, In the News
-- Augusta Free Press, In the News
-- In the News, WSLS News
-- In the News, WSLS News
-- Press Release
-- Press Release
-Hi Friends!
+Ben Cline and the Trump administration, along with proposals involving […] ...
+Read More September 10, 2026 The Advocate Who will really fight for us in Congress?
+September 10, 2026 The Advocate Read More September 10, 2026 Augusta Free Press , In the News Ben Cline goes solo, as planned, at Salem Rotary Club event: Where’s the beef?
+September 10, 2026 Augusta Free Press , In the News Ben Cline is trying to claim that Beth Macy failed to show up for a second time to a “scheduled debate” of Sixth District congressional candidates, which, in fact, he scheduled to be a solo from the jump....
+Read More September 10, 2026 In the News , WSLS News Rep.
+Cline, Beth Macy prepare for November September 10, 2026 In the News , WSLS News With the midterm election just weeks away, the two candidates vying for Virginia’s Sixth Congressional District are making their case to voters....
+Read More September 4, 2026 Press Release The Best of Beth: September 4 September 4, 2026 Press Release Hi Friends!
 We kick off our gorgeous Virginia fall Monday with a big political tradition – the Buena Vista Labor Day Parade.
 I’m looking forward to the hand waves, hugs and conversations about where the heck this country is going – and why I believe I can best serve you in the 6th District.
-To […]
-...
-- Daily News Record, In the News
-- Daily News Record, In the News
-When Kris Nelson looks at Virginia’s 6th Congressional District, she sees a swath of geography the size of New Jersey.
+To […] ...
+Read More September 2, 2026 Daily News Record , In the News Handicapping the 6th District race: Beth Macy’s best path to an upset lies in energizing party’s base September 2, 2026 Daily News Record , In the News When Kris Nelson looks at Virginia’s 6th Congressional District, she sees a swath of geography the size of New Jersey.
 While not apathetic, the district contains tens of thousands of residents who typically only vote in presidential elections.
-Read the full article here: https://www.dnronline.com/news/elections/handicapping-the-6th-district-race-beth-macy-s-best-path-to-an-upset-lies-in/article_a24082fe-7743-5228-a7dd-0390c1677469.html
-...
-- Daily News Record, In the News
-- Daily News Record, In the News
-Although she had campaign events before and after, Beth Macy, the Democrat who is hoping to turn Virginia’s ruby red 6th District bright blue again for the first time since the 1990s this election season, took a brief break from the campaign trail Saturday to participate in a sold-out reading/fundraiser for the Harrisonburg nonprofit Strength […]
-...
-- In the News, The Washington Post
-- In the News, The Washington Post
-Veterans flock to a law office in this old railroad town for help wrestling with the feds over health care.
+Read the full article here: https://www.dnronline.com/news/elections/handicapping-the-6th-district-race-beth-macy-s-best-path-to-an-upset-lies-in/article_a24082fe-7743-5228-a7dd-0390c1677469.html ...
+Read More August 30, 2026 Daily News Record , In the News Beth Macy reads at Woodstock bookstore to raise money for Harrisonburg nonprofit Strength in Peers August 30, 2026 Daily News Record , In the News Although she had campaign events before and after, Beth Macy, the Democrat who is hoping to turn Virginia’s ruby red 6th District bright blue again for the first time since the 1990s this election season, took a brief break from the campaign trail Saturday to participate in a sold-out reading/fundraiser for the Harrisonburg nonprofit Strength […] ...
+Read More August 29, 2026 In the News , The Washington Post This Appalachian memoir author is running as a Democratic contrast to JD Vance August 29, 2026 In the News , The Washington Post Veterans flock to a law office in this old railroad town for help wrestling with the feds over health care.
 Across the mountains in Waynesboro, families who can’t afford groceries spend hours waiting outside the food pantry.
 Up in Monterey, the town economic development director works for free because budgets are thin.
-Read the full […]
-...
-- Daily News Record, In the News
-- Daily News Record, In the News
-A prominent national Democratic organization announced it is backing author and journalist Beth Macy in her attempt to defeat Republican incumbent Ben Cline in Virginia’s 6th Congressional District in November.
-Read the full article here: https://www.dnronline.com/news/elections/emilys-list-endorses-beth-macy-in-mission-to-flip-the-6th-congressional-district/article_2610ac57-b7a2-5c6e-8312-6404e55b80b8.html
-...
-- Cardinal News, In the News
-- Cardinal News, In the News
-One of the few things I hate about covering politics is writing about the inevitable debate over debates.
+Read the full […] ...
+Read More August 28, 2026 Daily News Record , In the News EMILYs List endorses Beth Macy in ‘mission’ to flip the 6th Congressional District August 28, 2026 Daily News Record , In the News A prominent national Democratic organization announced it is backing author and journalist Beth Macy in her attempt to defeat Republican incumbent Ben Cline in Virginia’s 6th Congressional District in November.
+Read the full article here: https://www.dnronline.com/news/elections/emilys-list-endorses-beth-macy-in-mission-to-flip-the-6th-congressional-district/article_2610ac57-b7a2-5c6e-8312-6404e55b80b8.html ...
+Read More August 26, 2026 Cardinal News , In the News Cline, Macy debate over debates.
+Here’s what a real debate would look like but don’t count on seeing it.
+August 26, 2026 Cardinal News , In the News One of the few things I hate about covering politics is writing about the inevitable debate over debates.
 This column is about the debate over debates.
 The immediate question is whether there will be any debates in the 6th District congressional race between Republican incumbent Ben Cline and Democratic challenger Beth Macy.
-Read the full article […]
-...
-- Daily News Record, In the News
-- Daily News Record, In the News
-Beth Macy, the Democrat hoping to unseat Sixth District Republican incumbent Ben Cline, has been busy reaching out to groups such as farmers, faith leaders and veterans.
+Read the full article […] ...
+Read More August 26, 2026 Daily News Record , In the News Beth Macy meets with veterans in Harrisonburg August 26, 2026 Daily News Record , In the News Beth Macy, the Democrat hoping to unseat Sixth District Republican incumbent Ben Cline, has been busy reaching out to groups such as farmers, faith leaders and veterans.
 And Tuesday night, her campaign held the third of three veterans’ forums, this one at AMVETS Post 7 in Harrisonburg.
-Read the full article here: https://www.dnronline.com/news/elections/beth-macy-meets-with-veterans-in-harrisonburg/article_a741830c-944e-564c-953c-dbea947ccc3c.html
-...
-- In the News, The Roanoke Times
-- In the News, The Roanoke Times
-Democrat Beth Macy is disputing a debate schedule announced Monday evening by her opponent in the 6th Congressional District.
-Read the full article here: https://roanoke.com/news/local/government-politics/elections/article_396bd5f2-b747-4ee0-a701-c62f98b51600.html#tracking-source=home-top-story
-...
-- Daily News Record, In the News
-- Daily News Record, In the News
-Sixth District Rep.
+Read the full article here: https://www.dnronline.com/news/elections/beth-macy-meets-with-veterans-in-harrisonburg/article_a741830c-944e-564c-953c-dbea947ccc3c.html ...
+Read More August 25, 2026 In the News , The Roanoke Times Macy calls debate schedule announced by Cline ‘phony’ August 25, 2026 In the News , The Roanoke Times Democrat Beth Macy is disputing a debate schedule announced Monday evening by her opponent in the 6th Congressional District.
+Read the full article here: https://roanoke.com/news/local/government-politics/elections/article_396bd5f2-b747-4ee0-a701-c62f98b51600.html#tracking-source=home-top-story ...
+Read More August 25, 2026 Daily News Record , In the News Rep.
+Ben Cline criticizes Beth Macy’s comments about debate invitations August 25, 2026 Daily News Record , In the News Sixth District Rep.
 Ben Cline on Tuesday criticized Democratic challenger Beth Macy for comments in The Roanoke Times about three debate invitations by service clubs, saying she smeared the clubs and labeled them as phony.
-Read the full article here: https://www.dnronline.com/news/elections/rep-ben-cline-criticizes-beth-macy-s-comments-about-debate-invitations/article_929d56a6-f1a8-5e19-84af-36ac62b4e203.html
-...
-- Augusta Free Press, In the News
-- Augusta Free Press, In the News
-Beth Macy, last week, went public with her desire to schedule three candidate debates with Ben Cline, the Sixth District MAGA incumbent, coinciding with the commencement of voting in their congressional race.
-Read the full article here: https://augustafreepress.com/news/ben-cline-tries-to-squirm-out-of-actual-debates-beth-macy-aint-havin-it/
-...
-- In the News, WFIR
-- In the News, WFIR
-A statement from 6th District Democratic Congressional Candidate Beth Macy: Read the full article here: https://wfirnews.com/news/beth-macy-calls-congressman-clines-debate-schedule-phony
-...
-- Daily News Record, In the News
-- Daily News Record, In the News
-Hundreds of Democrats from across the commonwealth, including Lt.
+Read the full article here: https://www.dnronline.com/news/elections/rep-ben-cline-criticizes-beth-macy-s-comments-about-debate-invitations/article_929d56a6-f1a8-5e19-84af-36ac62b4e203.html ...
+Read More August 25, 2026 Augusta Free Press , In the News Update: Ben Cline tries to squirm out of actual debates: Beth Macy ain’t havin’ it August 25, 2026 Augusta Free Press , In the News Beth Macy, last week, went public with her desire to schedule three candidate debates with Ben Cline, the Sixth District MAGA incumbent, coinciding with the commencement of voting in their congressional race.
+Read the full article here: https://augustafreepress.com/news/ben-cline-tries-to-squirm-out-of-actual-debates-beth-macy-aint-havin-it/ ...
+Read More August 25, 2026 In the News , WFIR Beth Macy calls Congressman Cline’s debate schedule phony August 25, 2026 In the News , WFIR A statement from 6th District Democratic Congressional Candidate Beth Macy: Read the full article here: https://wfirnews.com/news/beth-macy-calls-congressman-clines-debate-schedule-phony ...
+Read More August 22, 2026 Daily News Record , In the News Virginia Democrats rally behind 6th congressional district candidate Beth Macy August 22, 2026 Daily News Record , In the News Hundreds of Democrats from across the commonwealth, including Lt.
 Gov.
 Ghazala Hashmi, gathered for the NETWORK NOVA Big Ten Women’s Summit this weekend.
 The year’s summit was called Big Ten because it celebrated 10 years of activism by NETWORK NOVA, which was formed in 2017.
-Read the full article here: https://www.dnronline.com/news/elections/virginia-democrats-rally-behind-6th-congressional-district-candidate-beth-macy/article_dd3f12c2-698a-5bf2-96d9-6a37c1cb39d2.html
-...
+Read the full article here: https://www.dnronline.com/news/elections/virginia-democrats-rally-behind-6th-congressional-district-candidate-beth-macy/article_dd3f12c2-698a-5bf2-96d9-6a37c1cb39d2.html ...
+Read More Page 1 Page 2 Page 3 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text START to opt in.
+Text HELP for help.
+Terms of Service and Privacy Policy apply.
+Sign Up or Donate Now Beth Macy is a Democrat running for Congress in Virginia.
+She is an author and a longtime Roanoke resident running because Ben Cline has failed his constituents.
+Support her campaign by making a donation today .
+Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com [email protected] Contributions can be mailed to: Beth Macy For Congress P.O.
+Box 4527 Roanoke, VA 24015 Paid for by Beth Macy for Congress © Copyright #.
+All Rights Reserved.
+Privacy Policy.

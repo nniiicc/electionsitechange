@@ -1,13 +1,46 @@
 [
-"https://facebook.com/electlisabarnes",
-"https://instagram.com/electlisabarnes",
-"https://lisabarnesfornc.com/",
-"https://lisabarnesfornc.com/about",
-"https://lisabarnesfornc.com/services",
-"https://lisabarnesfornc.com/team",
-"https://ncsbe.gov/Voters/Registering-to-Vote",
-"https://ncsbe.gov/ncsbe/Voter-Id",
-"https://twitter.com/ElectLisaBarnes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-"https://vt.ncsbe.gov/PPLkup",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "Home",
+"href": "https://lisabarnesfornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://lisabarnesfornc.com/services/"
+},
+{
+"text": "Media",
+"href": "https://lisabarnesfornc.com/team/"
+},
+{
+"text": "Meet Lisa",
+"href": "https://lisabarnesfornc.com/about/"
+},
+{
+"text": "POLLING LOCATIONS",
+"href": "https://vt.ncsbe.gov/PPLkup/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncsbe.gov/Voters/Registering-to-Vote"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.ncsbe.gov/ncsbe/Voter-Id"
+},
+{
+"text": "VOTER LOOKUP",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ElectLisaBarnes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlisabarnes"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlisabarnes/"
+}
 ]

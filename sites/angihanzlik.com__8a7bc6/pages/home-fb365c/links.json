@@ -1,15 +1,58 @@
 [
-"https://angihanzlik.com/",
-"https://angihanzlik.com/about",
-"https://angihanzlik.com/home",
-"https://angihanzlik.com/volunteer",
-"https://cart/",
-"https://content.app-sources.com/s/185846547336965751/uploads/Images/AngiHanzlik-PrivacyNotice_copy_1-7578462.pdf",
-"https://content.app-sources.com/s/185846547336965751/uploads/Images/AngiHanzlik-TermsAndConditions_copy-7571408.pdf",
-"https://facebook.com/profile.php?id=61587015423811",
-"https://secure.winred.com/friends-of-angi-hanzlik/donate-today",
-"https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=100",
-"https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=25",
-"https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=250",
-"https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=50"
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-angi-hanzlik/donate-today?amount=50"
+},
+{
+"text": "About",
+"href": "https://angihanzlik.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-angi-hanzlik/donate-today"
+},
+{
+"text": "Home",
+"href": "https://angihanzlik.com/home"
+},
+{
+"text": "Privacy Policy",
+"href": "https://content.app-sources.com/s/185846547336965751/uploads/Images/AngiHanzlik-PrivacyNotice_copy_1-7578462.pdf"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://content.app-sources.com/s/185846547336965751/uploads/Images/AngiHanzlik-TermsAndConditions_copy-7571408.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://angihanzlik.com/volunteer"
+},
+{
+"text": "[image: Angi Hanzlik for District 26b House of Representatives]",
+"href": "https://angihanzlik.com"
+},
+{
+"text": "[no text]",
+"href": "https://content.app-sources.com/s/185846547336965751/uploads/Images/AngiHanzlik-PrivacyNotice_copy_1-7578462.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587015423811"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

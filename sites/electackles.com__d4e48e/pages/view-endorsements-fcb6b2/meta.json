@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://electackles.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "a3e93f3f9410b173bb92f438521b3b308c9b0acc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ENDORSEMENTS",
  "years_mentioned": []
 }

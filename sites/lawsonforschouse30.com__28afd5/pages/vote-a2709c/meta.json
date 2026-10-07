@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://lawsonforschouse30.com/vote",
- "paid_for_by": null,
+ "fingerprint": "cec50a2318fddf101e836610bb02b8151d069302",
+ "format": 3,
+ "paid_for_by": "paid for by Lawson for SC House Seat 30 Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

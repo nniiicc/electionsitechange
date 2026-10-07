@@ -1,24 +1,138 @@
 [
-"https://annjohnsonstewart.com/",
-"https://annjohnsonstewart.com/contact",
-"https://annjohnsonstewart.com/contribute",
-"https://annjohnsonstewart.com/endorsements",
-"https://annjohnsonstewart.com/meet-ann",
-"https://annjohnsonstewart.com/priorities",
-"https://annjohnsonstewart.com/priorities/clean-water-quality",
-"https://annjohnsonstewart.com/priorities/clean-water-quality/municipal-water-grants",
-"https://annjohnsonstewart.com/priorities/clean-water-quality/pfas-contaminant-mitigation",
-"https://annjohnsonstewart.com/volunteer",
-"https://brookings.edu/articles/ai-data-centers-and-water",
-"https://dnr.state.mn.us/waters/watermgmt_section/appropriations/interference.html",
-"https://dnr.state.mn.us/waters/watermgmt_section/appropriations/permits.html",
-"https://facebook.com/annjohnsonstewartformnsenate",
-"https://flic.kr/ps/47UZo1",
-"https://instagram.com/annjsmn",
-"https://lwvmn.org/league-news/2026/capitol-letter-for-april-10",
-"https://mprnews.org/story/2026/04/06/minnesota-lawmakers-push-for-water-permits-for-data-centers-and-other-big-industries",
-"https://revisor.mn.gov/bills/94/2026/0/SF/3852",
-"https://revisor.mn.gov/statutes/cite/103G.287",
-"https://secure.actblue.com/donate/ann-johnson-stewart-senate-committtee-1",
-"https://senatedfl.mn/senator-ann-johnson-stewart-appointed-to-task-force-on-the-future-of-minnesotas-water-2"
+{
+"text": "A clear example of this regulatory gap occurred in Elko New Market",
+"href": "https://www.mprnews.org/story/2026/04/06/minnesota-lawmakers-push-for-water-permits-for-data-centers-and-other-big-industries"
+},
+{
+"text": "A prime example occurred in Farmington, Minnesota, where a proposed data center sought to draw 900 million gallons of water annually while pushing to remain under the city’s municipal umbrella permit to avoid independent accountability",
+"href": "https://www.lwvmn.org/league-news/2026/capitol-letter-for-april-10"
+},
+{
+"text": "A single hyperscale data center can consume up to 5 million gallons of water per day for server cooling—an extraction rate equivalent to the daily usage of an entire residential suburb or a town of 50,000 people",
+"href": "https://www.brookings.edu/articles/ai-data-centers-and-water/"
+},
+{
+"text": "Contact",
+"href": "https://annjohnsonstewart.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ann-johnson-stewart-senate-committtee-1"
+},
+{
+"text": "During these mandatory 72-hour stress tests, state hydrologists monitor the surrounding aquifer network while the commercial applicant pumps water at their maximum requested rate.",
+"href": "https://www.dnr.state.mn.us/waters/watermgmt_section/appropriations/permits.html"
+},
+{
+"text": "Endorsements",
+"href": "https://annjohnsonstewart.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://flic.kr/ps/47UZo1"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/annjohnsonstewartformnsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/annjsmn/"
+},
+{
+"text": "Get Involved",
+"href": "https://annjohnsonstewart.com/volunteer/"
+},
+{
+"text": "Go Back to Clean Water Quality Page",
+"href": "https://annjohnsonstewart.com/priorities/clean-water-quality/"
+},
+{
+"text": "Go Back to Priorities Page",
+"href": "https://annjohnsonstewart.com/priorities/"
+},
+{
+"text": "High-volume commercial consumption gets mixed into public drinking water metrics, making it difficult for hydrogeologists to track industrial impact",
+"href": "https://www.mprnews.org/story/2026/04/06/minnesota-lawmakers-push-for-water-permits-for-data-centers-and-other-big-industries"
+},
+{
+"text": "Home",
+"href": "https://annjohnsonstewart.com/"
+},
+{
+"text": "Homeowners experiencing well interference must pay out-of-pocket for temporary water supplies and well driller inspections while investigations take place",
+"href": "https://www.dnr.state.mn.us/waters/watermgmt_section/appropriations/interference.html"
+},
+{
+"text": "If a commercial cone of depression overlaps with nearby shallow domestic wells or city water supply wells, water levels can drop below the intake pumps of local homes. Under Minnesota Rules 6115.0730, heavy appropriators can be held liable for causing well interference, but investigating these failures after the fact forces local homeowners to rely on temporary emergency water supplies while lengthy state investigations take place.",
+"href": "https://www.dnr.state.mn.us/waters/watermgmt_section/appropriations/interference.html"
+},
+{
+"text": "If unmeasured, a severe cone of depression causes “well interference,” leaving nearby home wells sucking dry air",
+"href": "https://www.dnr.state.mn.us/waters/watermgmt_section/appropriations/interference.html"
+},
+{
+"text": "In Minnesota, municipalities obtain water appropriation permits from the DNR to supply residential homes, small businesses, and essential services",
+"href": "https://www.dnr.state.mn.us/waters/watermgmt_section/appropriations/permits.html"
+},
+{
+"text": "Meet Ann",
+"href": "https://annjohnsonstewart.com/meet-ann/"
+},
+{
+"text": "Municipal Water Grants & Taxpayer Protections",
+"href": "https://annjohnsonstewart.com/priorities/clean-water-quality/municipal-water-grants/"
+},
+{
+"text": "Priorities",
+"href": "https://annjohnsonstewart.com/priorities/"
+},
+{
+"text": "Public Transparency & PFAS Protection",
+"href": "https://annjohnsonstewart.com/priorities/clean-water-quality/pfas-contaminant-mitigation/"
+},
+{
+"text": "S.F. 3852 requires hydrogeologic pump testing upfront to map drawdown before permits are finalized",
+"href": "https://www.revisor.mn.gov/statutes/cite/103G.287"
+},
+{
+"text": "S.F. 3852 would ensure that financial liability, monitoring obligations, and mitigation costs rest squarely on the commercial operator—not on local taxpayers or municipal water utilities",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3852/"
+},
+{
+"text": "S.F. 3852 would strengthen preventive protections by authorizing the DNR Commissioner to mandate rigorous hydrogeologic aquifer tests prior to permit issuance",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3852/"
+},
+{
+"text": "Senator Ann Johnson Stewart chief-authored S.F. 3852 to establish strict new transparency standards for mega-users",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3852/"
+},
+{
+"text": "Support Ann’s 2026 Campaign for Water & Infrastructure Security Here",
+"href": "https://annjohnsonstewart.com/contribute/"
+},
+{
+"text": "The statutory threshold in S.F. 3852",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3852/"
+},
+{
+"text": "This legislation would mandate that mega-users apply directly to the DNR for an individual water-use permit",
+"href": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3852/"
+},
+{
+"text": "This would require applicants to pump test wells while monitoring nearby test sites to verify aquifer drawdown before commercial operations begin",
+"href": "https://www.revisor.mn.gov/statutes/cite/103G.287"
+},
+{
+"text": "[image]",
+"href": "https://annjohnsonstewart.com/"
+},
+{
+"text": "can connect to a city’s utility system and consume vast quantities of groundwater under the city’s umbrella permit",
+"href": "https://www.mprnews.org/story/2026/04/06/minnesota-lawmakers-push-for-water-permits-for-data-centers-and-other-big-industries"
+},
+{
+"text": "— Sen. Ann Johnson Stewart",
+"href": "https://senatedfl.mn/senator-ann-johnson-stewart-appointed-to-task-force-on-the-future-of-minnesotas-water-2/"
+}
 ]

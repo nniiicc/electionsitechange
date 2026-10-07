@@ -1,10 +1,38 @@
 [
-"https://secure.winred.com/terri-leo-wilson-campaign/contribute",
-"https://terrifortexas.com/",
-"https://terrifortexas.com/about",
-"https://terrifortexas.com/endorsements",
-"https://terrifortexas.com/policies/privacy",
-"https://terrifortexas.com/policies/terms",
-"https://terrifortexas.com/promises",
-"https://terrifortexas.com/record"
+{
+"text": "About Terri",
+"href": "https://terrifortexas.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/terri-leo-wilson-campaign/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://terrifortexas.com/endorsements"
+},
+{
+"text": "Learn More about Terri's Record",
+"href": "https://terrifortexas.com/record"
+},
+{
+"text": "Privacy Policies",
+"href": "https://terrifortexas.com/policies/privacy"
+},
+{
+"text": "Promises Kept",
+"href": "https://terrifortexas.com/promises"
+},
+{
+"text": "Record",
+"href": "https://terrifortexas.com/record"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://terrifortexas.com/policies/terms"
+},
+{
+"text": "[image: About Terri Leo Wilson]",
+"href": "https://terrifortexas.com/"
+}
 ]

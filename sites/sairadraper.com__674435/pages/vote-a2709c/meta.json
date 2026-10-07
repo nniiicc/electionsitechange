@@ -1,8 +1,10 @@
 {
  "description": "Find your three nearest Georgia early voting locations with hours and directions, for the November 3 general election.",
  "final_url": "https://www.sairadraper.com/vote",
+ "fingerprint": "e9deab521b4c84805ea0888046026825cd8c7b30",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Saira Draper, Inc",
- "title": "Find your early voting location \u2014 Saira Draper for Senate District 44",
+ "title": "Find your early voting location — Saira Draper for Senate District 44",
  "years_mentioned": [
   "2026"
  ]

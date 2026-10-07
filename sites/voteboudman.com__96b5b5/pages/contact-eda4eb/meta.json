@@ -1,7 +1,9 @@
 {
  "description": "Bobbi Boudman bobbi@voteboudman.com https://www.facebook.com/voteboudman",
  "final_url": "https://www.voteboudman.com/contact",
- "paid_for_by": null,
+ "fingerprint": "4f168a86a4c01451ba3f4b01385eda96f718596b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | VoteBoudman",
  "years_mentioned": [
   "2026"

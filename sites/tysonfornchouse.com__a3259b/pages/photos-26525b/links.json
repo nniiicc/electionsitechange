@@ -1,22 +1,82 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=100057843828700",
-"https://tysonfornchouse.com/",
-"https://tysonfornchouse.com/about_steve",
-"https://tysonfornchouse.com/contact",
-"https://tysonfornchouse.com/contribute",
-"https://tysonfornchouse.com/events",
-"https://tysonfornchouse.com/home",
-"https://tysonfornchouse.com/issues",
-"https://tysonfornchouse.com/make-endorsement",
-"https://tysonfornchouse.com/news",
-"https://tysonfornchouse.com/photos",
-"https://tysonfornchouse.com/photos/gallery/27cd3377-9ad4-4b50-ac58-45f9460928f1",
-"https://tysonfornchouse.com/photos/gallery/4cb22ddf-9d97-434a-81ff-519812789efe",
-"https://tysonfornchouse.com/photos/gallery/b9117c77-40bb-466e-96cb-c2a2955b373b",
-"https://tysonfornchouse.com/photos/gallery/cd495e80-fb13-425c-9340-5a8fab14872d",
-"https://tysonfornchouse.com/photos/gallery/d068fc43-1d05-4d4d-9a2b-af3475f9c2db",
-"https://tysonfornchouse.com/view-endorsements",
-"https://tysonfornchouse.com/volunteer",
-"https://tysonfornchouse.com/vote"
+{
+"text": "About Steve",
+"href": "https://www.tysonfornchouse.com/about_steve"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.tysonfornchouse.com/contribute"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tysonfornchouse.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.tysonfornchouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.tysonfornchouse.com/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.tysonfornchouse.com/make-endorsement"
+},
+{
+"text": "News",
+"href": "https://www.tysonfornchouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.tysonfornchouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.tysonfornchouse.com/photos"
+},
+{
+"text": "Send us a Message",
+"href": "https://www.tysonfornchouse.com/contact"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.tysonfornchouse.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.tysonfornchouse.com/vote"
+},
+{
+"text": "[image: Christmas Parades 2019] Christmas Parades 2019",
+"href": "https://www.tysonfornchouse.com/photos/gallery/27cd3377-9ad4-4b50-ac58-45f9460928f1"
+},
+{
+"text": "[image: Elect Steve Tyson for NC House, District 3 in 2022]",
+"href": "https://www.tysonfornchouse.com/"
+},
+{
+"text": "[image: Events at the Capitol] Events at the Capitol",
+"href": "https://www.tysonfornchouse.com/photos/gallery/cd495e80-fb13-425c-9340-5a8fab14872d"
+},
+{
+"text": "[image: January 2020] January 2020",
+"href": "https://www.tysonfornchouse.com/photos/gallery/4cb22ddf-9d97-434a-81ff-519812789efe"
+},
+{
+"text": "[image: River Bend Meet & Greet] River Bend Meet & Greet",
+"href": "https://www.tysonfornchouse.com/photos/gallery/b9117c77-40bb-466e-96cb-c2a2955b373b"
+},
+{
+"text": "[image: Steve Tyson Campaigns for NC House District 3] Steve Tyson Campaigns for NC House District 3",
+"href": "https://www.tysonfornchouse.com/photos/gallery/d068fc43-1d05-4d4d-9a2b-af3475f9c2db"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100057843828700"
+}
 ]

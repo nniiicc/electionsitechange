@@ -1,4 +1,5 @@
-In Political Issues REP.
-JARED PATTERSON REFILES BILL TO CORRECT MARKET PRICE DISTORTIONS THAT HAVE LED TO ELECTRICITY SHORTAGES IN TEXAS
-In Political Issues REP.
-JARED PATTERSON FILES CONSTITUTIONAL AMENDMENT TO PROTECT BUSINESS OWNERS AND WORKERS
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now In Political Issues REP.
+JARED PATTERSON REFILES BILL TO CORRECT MARKET PRICE DISTORTIONS THAT HAVE LED TO ELECTRICITY SHORTAGES IN TEXAS Continue Reading In Political Issues REP.
+JARED PATTERSON FILES CONSTITUTIONAL AMENDMENT TO PROTECT BUSINESS OWNERS AND WORKERS Continue Reading In Political Issues REP.
+JARED PATTERSON ANNOUNCES COMMITTEE APPOINTMENTS FOR THE 87TH LEGISLATURE Continue Reading Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

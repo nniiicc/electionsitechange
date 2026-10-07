@@ -1,5 +1,5 @@
-By Kris Kobach for Breitbart News
-While the mainstream media focuses 24/7 on the war over the territorial sovereignty of Ukraine, the territorial sovereignty of the United States may get even worse.
+Toggle navigation Meet Kris Endorsements Newsroom Press Releases Join the Press List Videos Get Involved!
+Volunteer E-Mail Updates Store CONTRIBUTE Kobach: Biden’s Immigration Policy May Soon Get Much Worse March 30, 2022 By Kris Kobach for Breitbart News While the mainstream media focuses 24/7 on the war over the territorial sovereignty of Ukraine, the territorial sovereignty of the United States may get even worse.
 The open-borders Left has been putting intense pressure on the Biden Administration to end the use of “Title 42” removals at the border—a policy that Biden’s Centers for Disease Control and Prevention (CDC) is about to review in April.
 Title 42 removals are based on the provision of federal law found at 42 U.S.C. § 265 that empowers the president “to prohibit, in whole or in part, the introduction of persons and property” into the United States in order to stop a contagious disease from spreading.
 President Trump’s CDC issued an order announcing the use of this provision on March 20, 2020, to stop the spread of COVID-19; and the Biden Administration has kept it in place.
@@ -33,3 +33,6 @@ Kris W.
 Kobach served as the elected Secretary of State of Kansas during 2011-19.
 He currently serves as general counsel for the Alliance for Free Citizens and is lead counsel for Texas sheriffs and Federal Police Foundation ICE officers who are suing to stop the illegal Biden policies in federal court.
 His website is www.kriskobach.com.
+Post navigation Kobach Sues Biden Administration on Behalf of Kansas Airmen Kris Kobach Endorsed by Kansans for Life in AG Race Notice: JavaScript is required for this content.
+Home Contribute Meet Kris Newsroom Volunteer E-Mail Updates Store PAID FOR BY KRIS KOBACH FOR ATTORNEY GENERAL LAURA FRANCIS, TREASURER KRIS KOBACH FOR ATTORNEY GENERAL P.O.
+Box 4088 • Topeka, Kansas 66604 Copyright © #-#

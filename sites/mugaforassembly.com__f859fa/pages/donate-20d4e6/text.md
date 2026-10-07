@@ -1,3 +1,1 @@
-Your support and contributions will enable us to meet our goals and fund the campaign.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home The Issues About Me Our District Current Representation Donate 404 Page Not Found Sorry, the page you're looking for doesn't exist or has been moved. 🏠 Go Home ← Go Back Patricia Muga for Assembly District 20 925-551-1734 Quick Links Home The Issues About Me Our District Current Representation Donate Legal Copyright © # · Paid for by Patricia Muga for Assembly · All Rights Reserved · ID# 1487632

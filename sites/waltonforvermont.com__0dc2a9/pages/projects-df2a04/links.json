@@ -1,24 +1,130 @@
 [
-"https://secure.anedot.com/waltonforvermont",
-"https://waltonforvermont.com/",
-"https://waltonforvermont.com/about",
-"https://waltonforvermont.com/accessibility",
-"https://waltonforvermont.com/contact",
-"https://waltonforvermont.com/events",
-"https://waltonforvermont.com/get-involved",
-"https://waltonforvermont.com/news",
-"https://waltonforvermont.com/privacy",
-"https://waltonforvermont.com/projects",
-"https://waltonforvermont.com/projects/common-scroll",
-"https://waltonforvermont.com/projects/construction-development",
-"https://waltonforvermont.com/projects/great-honk",
-"https://waltonforvermont.com/projects/hello-world-peace",
-"https://waltonforvermont.com/projects/housing-rehabilitation",
-"https://waltonforvermont.com/projects/independent-vermont",
-"https://waltonforvermont.com/projects/keep-vermont-independent",
-"https://waltonforvermont.com/projects/property-services",
-"https://waltonforvermont.com/projects/real-estate-property-services",
-"https://waltonforvermont.com/projects/software-media",
-"https://waltonforvermont.com/projects/who-governs-vermont",
-"https://waltonforvermont.com/terms"
+{
+"text": "$250 Standard",
+"href": "https://secure.anedot.com/waltonforvermont/"
+},
+{
+"text": "About",
+"href": "https://www.waltonforvermont.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.waltonforvermont.com/accessibility"
+},
+{
+"text": "Build With Us",
+"href": "https://www.waltonforvermont.com/#participate"
+},
+{
+"text": "Building and reinvestmentConstruction & DevelopmentExperience with construction, development, financing, and small-scale neighborhood reinvestment as sources of practical public-policy judgment.",
+"href": "https://www.waltonforvermont.com/projects/construction-development"
+},
+{
+"text": "Contact",
+"href": "https://www.waltonforvermont.com/contact"
+},
+{
+"text": "Developing public platformCommon ScrollA better public layer for discovering and following important information.",
+"href": "https://www.waltonforvermont.com/projects/common-scroll"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/waltonforvermont/"
+},
+{
+"text": "Events",
+"href": "https://www.waltonforvermont.com/events"
+},
+{
+"text": "Explore this area",
+"href": "https://www.waltonforvermont.com/projects/independent-vermont"
+},
+{
+"text": "Explore this area",
+"href": "https://www.waltonforvermont.com/projects/real-estate-property-services"
+},
+{
+"text": "Explore this area",
+"href": "https://www.waltonforvermont.com/projects/software-media"
+},
+{
+"text": "Explore this area",
+"href": "https://www.waltonforvermont.com/projects/who-governs-vermont"
+},
+{
+"text": "Help build",
+"href": "https://www.waltonforvermont.com/get-involved"
+},
+{
+"text": "Housing operationsHousing & RehabilitationPractical work with residential housing, property rehabilitation, maintenance, financing, and the recurring challenge of making difficult buildings function.",
+"href": "https://www.waltonforvermont.com/projects/housing-rehabilitation"
+},
+{
+"text": "Independent Vermont",
+"href": "https://www.waltonforvermont.com/projects/independent-vermont"
+},
+{
+"text": "Independent media and communicationsHello World PeaceIndependent media, original programming, and direct distribution.",
+"href": "https://www.waltonforvermont.com/projects/hello-world-peace"
+},
+{
+"text": "Journal",
+"href": "https://www.waltonforvermont.com/news"
+},
+{
+"text": "Organizing platformIndependent VermontA durable organizing platform for public work, local groups, research, and long-term independent political infrastructure in Vermont.",
+"href": "https://www.waltonforvermont.com/projects/independent-vermont"
+},
+{
+"text": "Practical operationsProperty ServicesThe daily maintenance, trash, repair, and service work required to keep properties and small businesses functioning.",
+"href": "https://www.waltonforvermont.com/projects/property-services"
+},
+{
+"text": "Privacy",
+"href": "https://www.waltonforvermont.com/privacy"
+},
+{
+"text": "Privacy-focused vehicle softwareGreat HonkGreat Honk is a free, privacy-focused vehicle utility designed to help people manage the practical realities of owning a car—from maintenance and expenses to documents, trips, parts, and vehicle history.",
+"href": "https://www.waltonforvermont.com/projects/great-honk"
+},
+{
+"text": "Projects",
+"href": "https://www.waltonforvermont.com/#projects"
+},
+{
+"text": "Projects",
+"href": "https://www.waltonforvermont.com/projects"
+},
+{
+"text": "Public campaign and missionKeep Vermont IndependentThe central public message and political mission within the broader Independent Vermont organizing platform.",
+"href": "https://www.waltonforvermont.com/projects/keep-vermont-independent"
+},
+{
+"text": "Public meetings and researchWho Governs Vermont?A public meeting, research, and discussion series examining who actually holds power over Vermont’s government, economy, land, housing, institutions, and political choices.",
+"href": "https://www.waltonforvermont.com/projects/who-governs-vermont"
+},
+{
+"text": "Terms",
+"href": "https://www.waltonforvermont.com/terms"
+},
+{
+"text": "The Campaign",
+"href": "https://www.waltonforvermont.com/#campaign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.waltonforvermont.com/#participate"
+},
+{
+"text": "WALTON FOR VERMONTIndependent for U.S. House · Vermont",
+"href": "https://www.waltonforvermont.com/"
+},
+{
+"text": "Who Governs Vermont",
+"href": "https://www.waltonforvermont.com/projects/who-governs-vermont"
+},
+{
+"text": "Why Independent",
+"href": "https://www.waltonforvermont.com/#independent"
+}
 ]

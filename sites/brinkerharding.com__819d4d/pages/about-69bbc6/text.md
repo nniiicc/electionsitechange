@@ -1,9 +1,8 @@
-Husband.
+0 Skip to Content About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Husband.
 Father.
 Omaha City Councilman representing Omaha’s 6th District.
 Candidate for Congress in NE-02.
-About Brinker
-My name is Brinker Harding – I am a fourth-generation Omahan, husband to Rebecca, dad to Elizabeth and Grace, business leader, Omaha City Councilman, and candidate for the United States Congress in Nebraska’s 2nd District.
+About Brinker My name is Brinker Harding – I am a fourth-generation Omahan, husband to Rebecca, dad to Elizabeth and Grace, business leader, Omaha City Councilman, and candidate for the United States Congress in Nebraska’s 2nd District.
 Prior to serving on the Omaha City Council, I was a business leader and public servant.
 From 1995 – 2000, I served as Chief of Staff and Director of Economic Development to Mayor Hal Daub.
 From City Hall, we formed public-private partnerships that invested over $2 billion dollars in the restoration of the Riverfront parks, driving business and job growth in Omaha’s urban core.
@@ -20,3 +19,6 @@ Now, I am running for Congress because I believe we need to make America more li
 We need proven leaders we can count on to restore, grow, secure, and renew America–to make our next 250 years a new Golden Age.
 We have so much momentum and, together, we have so much more to accomplish for Nebraska and America.
 I hope you’ll join me.
+About Brinker Vision Endorsements Donate Privacy Press inquiries can be sent to press@brinkerharding.com © # Brinker Harding for Congress.
+All Rights Reserved.
+PAID FOR BY BRINKER HARDING FOR CONGRESS

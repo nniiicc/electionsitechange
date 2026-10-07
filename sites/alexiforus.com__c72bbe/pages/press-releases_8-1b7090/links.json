@@ -1,35 +1,182 @@
 [
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/endorsements",
-"https://alexiforus.com/giannoulias-ends-quarter-with-more-than-2-1-million-in-campaign-for-secretary-of-state-race",
-"https://alexiforus.com/giannoulias-lanza-su-primer-video-en-espanol",
-"https://alexiforus.com/giannoulias-releases-first-2022-campaign-ad-for-secretary-of-state",
-"https://alexiforus.com/giannoulias-releases-first-spanish-language-video",
-"https://alexiforus.com/illinois-iatse-locals-endorse-giannoulias-for-illinois-secretary-of-state-2",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/organized-labor-endorses-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/press-releases",
-"https://alexiforus.com/press-releases/2",
-"https://alexiforus.com/press-releases/3",
-"https://alexiforus.com/press-releases/4",
-"https://alexiforus.com/press-releases/5",
-"https://alexiforus.com/press-releases/6",
-"https://alexiforus.com/press-releases/7",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/seiu-illinois-endorses-giannoulias-for-secretary-of-state-in-2022",
-"https://alexiforus.com/southern-il-democrats-endorse-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/stronger-state-ethics-laws",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/videos",
-"https://alexiforus.com/volunteer",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://twitter.com/Giannoulias",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexiforus.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Giannoulias Calls for Stronger State Ethics Laws",
+"href": "https://alexiforus.com/stronger-state-ethics-laws/"
+},
+{
+"text": "Giannoulias Ends Quarter with more than $2.1 million in Campaign for Secretary of State Race",
+"href": "https://alexiforus.com/giannoulias-ends-quarter-with-more-than-2-1-million-in-campaign-for-secretary-of-state-race/"
+},
+{
+"text": "Giannoulias Lanza Su Primer Video En Español",
+"href": "https://alexiforus.com/giannoulias-lanza-su-primer-video-en-espanol/"
+},
+{
+"text": "Giannoulias Releases First 2022 Campaign Ad for Secretary of State",
+"href": "https://alexiforus.com/giannoulias-releases-first-2022-campaign-ad-for-secretary-of-state/"
+},
+{
+"text": "Giannoulias Releases First Spanish Language Video",
+"href": "https://alexiforus.com/giannoulias-releases-first-spanish-language-video/"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "Illinois IATSE Locals Endorse Giannoulias for Illinois Secretary of State",
+"href": "https://alexiforus.com/illinois-iatse-locals-endorse-giannoulias-for-illinois-secretary-of-state-2/"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "In the News",
+"href": "https://www.alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-ends-quarter-with-more-than-2-1-million-in-campaign-for-secretary-of-state-race/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-lanza-su-primer-video-en-espanol/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-releases-first-2022-campaign-ad-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-releases-first-spanish-language-video/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/illinois-iatse-locals-endorse-giannoulias-for-illinois-secretary-of-state-2/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/organized-labor-endorses-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/seiu-illinois-endorses-giannoulias-for-secretary-of-state-in-2022/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/southern-il-democrats-endorse-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/stronger-state-ethics-laws/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Organized Labor Endorses Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/organized-labor-endorses-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Page1",
+"href": "https://alexiforus.com/press-releases/"
+},
+{
+"text": "Page2",
+"href": "https://alexiforus.com/press-releases/2/"
+},
+{
+"text": "Page3",
+"href": "https://alexiforus.com/press-releases/3/"
+},
+{
+"text": "Page4",
+"href": "https://alexiforus.com/press-releases/4/"
+},
+{
+"text": "Page5",
+"href": "https://alexiforus.com/press-releases/5/"
+},
+{
+"text": "Page6",
+"href": "https://alexiforus.com/press-releases/6/"
+},
+{
+"text": "Page7",
+"href": "https://alexiforus.com/press-releases/7/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "SEIU Illinois Endorses Giannoulias for Secretary of State in 2022",
+"href": "https://alexiforus.com/seiu-illinois-endorses-giannoulias-for-secretary-of-state-in-2022/"
+},
+{
+"text": "Southern IL Democrats Endorse Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/southern-il-democrats-endorse-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Videos",
+"href": "https://www.alexiforus.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+}
 ]

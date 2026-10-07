@@ -1,34 +1,166 @@
 [
-"https://facebook.com/profile.php?id=61554997457236",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/shawndygert4idaho",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho",
-"https://secure.anedot.com/shawn-dygert-4-idaho/donate",
-"https://shawndygert4idaho.com/",
-"https://shawndygert4idaho.com/about",
-"https://shawndygert4idaho.com/accomplishments",
-"https://shawndygert4idaho.com/contact",
-"https://shawndygert4idaho.com/event/canyon-county-republican-forum-with-shawn-dygert-4-idaho-23b",
-"https://shawndygert4idaho.com/event/coffee-and-doughnuts-with-shawn-dygert-for-23b",
-"https://shawndygert4idaho.com/event/coffee-and-doughnuts-with-shawn-dygert-for-district-23b",
-"https://shawndygert4idaho.com/event/meet-and-greet-shawn-dygert-23b-at-kuna-grange",
-"https://shawndygert4idaho.com/event/meet-and-greet-shawn-dygert-4-idaho-23b-in-nampa",
-"https://shawndygert4idaho.com/event/meet-greet-shawn-dygert-4-idaho-23b-in-kuna",
-"https://shawndygert4idaho.com/event/meet-shawn-dygert-at-extreme-pizza-in-melba",
-"https://shawndygert4idaho.com/event/nampa-chamber-of-commerce-candidate-forum",
-"https://shawndygert4idaho.com/event/owyhee-county-republican-candidate-forum",
-"https://shawndygert4idaho.com/event/owyhee-county-republican-central-committee-candidate-forum",
-"https://shawndygert4idaho.com/events",
-"https://shawndygert4idaho.com/events/list",
-"https://shawndygert4idaho.com/events/list/page/2?eventDisplay=past",
-"https://shawndygert4idaho.com/events/list?eventDisplay=past&ical=1",
-"https://shawndygert4idaho.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://shawndygert4idaho.com/events/month",
-"https://shawndygert4idaho.com/events/today",
-"https://shawndygert4idaho.com/issues",
-"https://shawndygert4idaho.com/supporters",
-"https://twitter.com/ShawnDygert23B",
-"https://voteidaho.gov/",
-"https://x.com/ShawnDygert4ID"
+{
+"text": "#ago",
+"href": "https://www.shawndygert4idaho.com/events/list/"
+},
+{
+"text": "About",
+"href": "https://www.shawndygert4idaho.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.shawndygert4idaho.com/accomplishments/"
+},
+{
+"text": "Canyon County Republican Forum with Shawn Dygert 4 Idaho 23B",
+"href": "https://www.shawndygert4idaho.com/event/canyon-county-republican-forum-with-shawn-dygert-4-idaho-23b/"
+},
+{
+"text": "Coffee and Doughnuts with Shawn Dygert for 23B Homedale",
+"href": "https://www.shawndygert4idaho.com/event/coffee-and-doughnuts-with-shawn-dygert-for-23b/"
+},
+{
+"text": "Coffee and Doughnuts with Shawn Dygert for District 23B at Latte Da Kuna",
+"href": "https://www.shawndygert4idaho.com/event/coffee-and-doughnuts-with-shawn-dygert-for-district-23b/"
+},
+{
+"text": "Contact",
+"href": "https://www.shawndygert4idaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/shawn-dygert-4-idaho/donate"
+},
+{
+"text": "DONATE ONLINE",
+"href": "https://secure.anedot.com/shawn-dygert-4-idaho/donate"
+},
+{
+"text": "Day",
+"href": "https://www.shawndygert4idaho.com/events/today/"
+},
+{
+"text": "Events",
+"href": "https://www.shawndygert4idaho.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://www.shawndygert4idaho.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://www.shawndygert4idaho.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61554997457236"
+},
+{
+"text": "Facebook page opens in new window",
+"href": "https://www.facebook.com/profile.php?id=61554997457236"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://www.shawndygert4idaho.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/shawndygert4idaho/"
+},
+{
+"text": "Instagram page opens in new window",
+"href": "https://www.instagram.com/shawndygert4idaho/"
+},
+{
+"text": "Issues",
+"href": "https://www.shawndygert4idaho.com/issues/"
+},
+{
+"text": "List",
+"href": "https://www.shawndygert4idaho.com/events/list/"
+},
+{
+"text": "Meet & Greet Shawn Dygert 4 Idaho 23B in Kuna",
+"href": "https://www.shawndygert4idaho.com/event/meet-greet-shawn-dygert-4-idaho-23b-in-kuna/"
+},
+{
+"text": "Meet Shawn Dygert at Extreme Pizza in Melba!",
+"href": "https://www.shawndygert4idaho.com/event/meet-shawn-dygert-at-extreme-pizza-in-melba/"
+},
+{
+"text": "Meet and Greet Shawn Dygert 23B at Kuna Grange",
+"href": "https://www.shawndygert4idaho.com/event/meet-and-greet-shawn-dygert-23b-at-kuna-grange/"
+},
+{
+"text": "Meet and Greet Shawn Dygert 4 Idaho 23B in Nampa",
+"href": "https://www.shawndygert4idaho.com/event/meet-and-greet-shawn-dygert-4-idaho-23b-in-nampa/"
+},
+{
+"text": "Month",
+"href": "https://www.shawndygert4idaho.com/events/month/"
+},
+{
+"text": "Nampa Chamber of Commerce Candidate Forum",
+"href": "https://www.shawndygert4idaho.com/event/nampa-chamber-of-commerce-candidate-forum/"
+},
+{
+"text": "Next Events",
+"href": "https://www.shawndygert4idaho.com/events/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho"
+},
+{
+"text": "Owyhee County Republican Candidate Forum",
+"href": "https://www.shawndygert4idaho.com/event/owyhee-county-republican-candidate-forum/"
+},
+{
+"text": "Owyhee County Republican Central Committee Candidate Forum",
+"href": "https://www.shawndygert4idaho.com/event/owyhee-county-republican-central-committee-candidate-forum/"
+},
+{
+"text": "Previous Events",
+"href": "https://www.shawndygert4idaho.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "Supporters",
+"href": "https://www.shawndygert4idaho.com/supporters/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ShawnDygert23B"
+},
+{
+"text": "X page opens in new window",
+"href": "https://x.com/ShawnDygert4ID"
+},
+{
+"text": "[image: Shawn Dygert 4 Idaho]",
+"href": "https://www.shawndygert4idaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://www.shawndygert4idaho.com/events/list/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://www.shawndygert4idaho.com/events/list/page/2/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.shawndygert4idaho.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

@@ -1,5 +1,4 @@
-Role of Government
-My goal is to win the election, but even if I don’t win I hope to at least inform people about what is going on.
+Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Role of Government My goal is to win the election, but even if I don’t win I hope to at least inform people about what is going on.
 To bring more awareness to this community about what is happening in this country and how it affects people here.
 If I am able to help change a few people’s minds then I will consider this a success.
 We the people are the government.
@@ -25,3 +24,5 @@ The taboos about talking about politics, salary, religion and sex needed to be b
 More information should not be feared but instead should be welcomed.
 What are they afraid we might say?
 Are they afraid we might agree?
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

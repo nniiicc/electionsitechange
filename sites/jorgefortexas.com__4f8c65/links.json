@@ -1,16 +1,114 @@
 [
-"https://jorgefortexas.com/en",
-"https://jorgefortexas.com/en/about",
-"https://jorgefortexas.com/en/endorsements",
-"https://jorgefortexas.com/en/get-involved",
-"https://jorgefortexas.com/en/issues",
-"https://jorgefortexas.com/en/privacy",
-"https://jorgefortexas.com/en/terms",
-"https://jorgefortexas.com/es",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=10",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=100",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=25",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=250",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=50"
+{
+"text": "$#",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.jorgefortexas.com/en/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jorgefortexas.com/en/endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.jorgefortexas.com/es"
+},
+{
+"text": "Get involved",
+"href": "https://www.jorgefortexas.com/en/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jorgefortexas.com/en"
+},
+{
+"text": "Issues",
+"href": "https://www.jorgefortexas.com/en/issues"
+},
+{
+"text": "Join Our Team",
+"href": "https://www.jorgefortexas.com/en/get-involved"
+},
+{
+"text": "Jorge Borrego",
+"href": "https://www.jorgefortexas.com/en"
+},
+{
+"text": "Learn More",
+"href": "https://www.jorgefortexas.com/en/about"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "Privacy",
+"href": "https://www.jorgefortexas.com/en/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jorgefortexas.com/en/privacy"
+},
+{
+"text": "See all endorsements",
+"href": "https://www.jorgefortexas.com/en/endorsements"
+},
+{
+"text": "Terms",
+"href": "https://www.jorgefortexas.com/en/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jorgefortexas.com/en/get-involved"
+},
+{
+"text": "[image: A Texas family walking together, representing working families getting ahead]Lower the Cost of Living for Families Across District 118Fight rising prices on groceries, gas, utilities, insurance, and everyday essentials.Keep Texas the strongest economy in America so working families can get ahead.Support policies that create good jobs and protect the paychecks families work hard to earn.",
+"href": "https://www.jorgefortexas.com/en/issues#issue-1"
+},
+{
+"text": "[image: High school girls' basketball players competing during a game in a packed school gym]Banning Men from Competing Against GirlsBan men from competing in girls' sports.Protect fair competition and athletic opportunities for girls.Keep girls' sports for girls.",
+"href": "https://www.jorgefortexas.com/en/issues#issue-5"
+},
+{
+"text": "[image: Smiling police officer talking with a family in a neighborhood]Criminals Off the StreetKeep violent criminals off our streets and out of our communities.Back law enforcement with the resources and support needed to stop dangerous offenders.Put victims, families, and neighborhood safety first.",
+"href": "https://www.jorgefortexas.com/en/issues#issue-2"
+},
+{
+"text": "[image: Teacher reading to students at desks in a classroom with an American flag]Teacher Pay RaisesRaise pay for public school librarians, counselors, nurses, and teachers.Put more education dollars into the people who work directly with students.Make Texas a place where great educators can build a career and stay in our schools.",
+"href": "https://www.jorgefortexas.com/en/issues#issue-6"
+},
+{
+"text": "[image: Texas home and tax tag graphic for lower property taxes]Cutting Property TaxesStop local bureaucrats from driving property taxes higher year after year.Bring down property tax rates so families can keep more of what they earn.Protect homeowners from being taxed out of the homes they already own.",
+"href": "https://www.jorgefortexas.com/en/issues#issue-4"
+},
+{
+"text": "[image: Two young students with backpacks walking to school holding hands]Protecting Kids from FentanylLead the fight to get deadly fentanyl off our streets and away from our children.Give law enforcement the tools to target fentanyl dealers and traffickers.Expand prevention and awareness so families understand the danger before tragedy strikes.",
+"href": "https://www.jorgefortexas.com/en/issues#issue-3"
+}
 ]

@@ -1,10 +1,4 @@
-Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly
-“Law enforcement is about integrity.
-There is no question that Mike Tannousis has the integrity to do the job and to support law enforcement.” – Ed Mullins, SBA President
-READ post
-Detectives’ Union Endorses Mike Tannousis for State Assembly
-As a former Assistant District Attorney for both the Bronx and Staten Island DA offices, Michael Tannousis has a proven record of standing up for law enforcement and the safety of our community.
-READ post
-Tannousis Endorsed by the Staten Island Republican Party
-The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis.
-READ post
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Tannousis for Assembly NEWSROOM Sun, Jun 07 2020 Endorsements Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly “Law enforcement is about integrity.
+There is no question that Mike Tannousis has the integrity to do the job and to support law enforcement.” – Ed Mullins, SBA President READ post share Sun, May 31 2020 Endorsements Detectives’ Union Endorses Mike Tannousis for State Assembly As a former Assistant District Attorney for both the Bronx and Staten Island DA offices, Michael Tannousis has a proven record of standing up for law enforcement and the safety of our community.
+READ post share Tue, Jan 07 2020 Endorsements Tannousis Endorsed by the Staten Island Republican Party The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis.
+READ post share Posts pagination Previous page 1 2 3 4 Next page STAND WITH MIKE Your email address * Your ZIP code * Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

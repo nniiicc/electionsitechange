@@ -1,5 +1,5 @@
-About Don Chapman
-Don Chapman was elected to the South Carolina House of Representatives in 2022.
+top of page Home Endorsements Meet Don My Values Accomplishments Key Issues Contact More Use tab to navigate through the menu items.
+Donate About Don Chapman Don Chapman was elected to the South Carolina House of Representatives in 2022.
 He is a lifelong Anderson County resident and businessman who has been very active in the community for more than four decades, beginning with the Anderson Rescue Squad in 1980.
 Prior to serving in the State House, he served as a Councilman for the City of Anderson for nearly 14 years.
 After attending Anderson District 5 public schools, Don self-funded his education to attend the Savannah College of Art and Design where he received a Bachelor's degree in Interior Design and a Master’s degree in Architecture.
@@ -11,10 +11,4 @@ Don also served on the Anderson Area Transit Study Committee for thirteen years,
 He has received numerous local, state, and national awards for his architectural designs.
 One award remains most special to him, being named the 2018 Small Business of the Year by the Anderson Area Chamber of Commerce.
 This year, Don and Amy celebrate 32 years in business.
-Don is currently a member of Rotery Club of Anderson, Friends of the Anderson County Museum, Home Builders of Anderson, Lake Hartwell Association, American Institute of Architects, and a lifetime member of the National Rifle Association.
-At the State House, Don serves on the following committees:
-1) Standing Committee: (LCI) Labor, Commerce & Industry
-Sub-Committee: Real Estate
-Sub-Committee: Business & Commerce
-2) (O&M) Opperations & Management
-3) Ad-hoc Modernization of SCDOT
+Don is currently a member of Rotery Club of Anderson, Friends of the Anderson County Museum, Home Builders of Anderson, Lake Hartwell Association, American Institute of Architects, and a lifetime member of the National Rifle Association. ​ At the State House, Don serves on the following committees: 1) Standing Committee: (LCI) Labor, Commerce & Industry Sub-Committee: Real Estate Sub-Committee: Business & Commerce 2) (O&M) Opperations & Management 3) Ad-hoc Modernization of SCDOT don@chapmanforschouse.com (864) 940-6676 PO Box 3969, Anderson, SC 29622 Paid for by Don Chapman for SC House Privacy Policy Resources bottom of page

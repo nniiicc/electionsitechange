@@ -1,3 +1,3 @@
-Scott charland for state senate
-Scott Charland is a longtime strength and conditioning professional, community volunteer, and now, a candidate for Ohio Senate District 19.
+0 Skip to Content strongwithscott About Donate Open Menu Close Menu strongwithscott About Donate Open Menu Close Menu About Donate meet scott Scott charland for state senate Scott Charland is a longtime strength and conditioning professional, community volunteer, and now, a candidate for Ohio Senate District 19.
 He is running to strengthen public schools, protect Ohio’s natural resources, and champion policies that put working families first.
+Give Today ⁎ Give Today ⁎ Give Today ⁎ SIGN UP FOR CAMPAIGN NEWS AND UPDATES Strongwithscott PAID FOR BY FRIENDS OF SCOTT CHARLAND 26 INFO@STRONGWITHSCOTT.COM

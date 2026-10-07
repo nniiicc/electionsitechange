@@ -1,5 +1,4 @@
-About Brenna
-I’m running for the Indiana House to bring the voice of the everyday Hoosier to the Statehouse.
+0 Skip to Content Home About District 13 Platform Support Volunteer Donate Open Menu Close Menu Home About District 13 Platform Support Volunteer Donate Open Menu Close Menu Home About District 13 Platform Support Volunteer Donate About Brenna I’m running for the Indiana House to bring the voice of the everyday Hoosier to the Statehouse.
 I’m a mom to two boys, ages 18 and 21, and a bonus mom to four adult children with six wonderful grandkids.
 I hold a mechanical engineering degree and an MBA from the University of Illinois at Urbana-Champaign.
 Through volunteering with Habitat for Humanity of Lafayette as a six-year board member and now financial coach, I have seen the tough choices people families face between paying rent, buying food and keeping the lights on.
@@ -12,3 +11,4 @@ I’m running because our legislature has lost sight of the basics.
 Families need attainable homeownership, strong public schools, and healthcare that is accessible and affordable.
 These aren’t partisan issues; they’re the foundation of a thriving Indiana.
 I’m stepping forward because we can do better and because everyday Hoosiers deserve to be heard, respected, and represented.
+Democratic Candidate for Indiana State Representative - District 13 This website is paid for by Supporters of Brenna.

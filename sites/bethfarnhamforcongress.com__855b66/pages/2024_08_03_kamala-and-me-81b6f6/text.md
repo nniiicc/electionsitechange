@@ -1,5 +1,5 @@
-(Originally published by The Gettysburg Connection on July 31, 2024 under the title, “Why I Support Kamala Harris.”)
-With a grace and humility that convicted felon Donald Trump has never known, President Biden ended his campaign to be re-elected, then endorsed Vice President Kamala Harris.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Gun Safety , Immigration reform , Our Precious Democracy , Public Education , Reproductive Freedom · August 3, 2024 Kamala and Me (Originally published by The Gettysburg Connection on July 31, 2024 under the title, “Why I Support Kamala Harris.” ) With a grace and humility that convicted felon Donald Trump has never known, President Biden ended his campaign to be re-elected, then endorsed Vice President Kamala Harris.
 Vice President Harris brings not only a fresh energy to the top of the Democratic ticket, she brings her whip-smart intellect as a former prosecutor, her electability as a former U.S. senator, and a continuation of the successful Biden administration.
 I can’t think of anyone I would rather see defeat convicted felon Trump than this history-making woman of color.
 Not only did she break the glass ceiling of elected offices held by women in the USA, she broke the 24-hour donation record for ActBlue after the announcement of her candidacy for President of the United States of America.
@@ -21,14 +21,13 @@ I do however believe in the Right to Life…of our living breathing children who
 I advocate safe storage of firearms, reporting of lost or stolen guns, universal background checks for all gun sales, and Extreme Risk Protection Orders or Red Flag Laws for those who present a risk of harm to themselves or others.
 Executive director of Moms Demand Action, Angela Ferrell-Zabala stated, “Throughout her career, Vice President Harris has shaped gun safety policy to protect survivors, invest in communities, and get firearms out of the hands of people who shouldn’t have them.
 Our movement of 11 million is well-prepared to meet this historic moment and elect Vice President Harris as our next president.” In June, I received recognition as a Candidate of Distinction from Moms Demand Action.
-John Feinblatt, president of Everytown for Gun Safety, stated,“Vice President Kamala Harris has helped lead the strongest gun safety administration in American history, with accomplishments that include breaking the 30-year logjam on federal gun safety legislation and taking historic executive actions to combat gun trafficking and ghost guns.”
-Vice President Harris has soundly criticized Project 2025 for its backward policies on Public Education, like dismantling the federal Department of Education, ending student loan forgiveness for public sector workers like teachers, and getting rid of Head Start which provides Early Education to 800,000 low-income families around the country.
+John Feinblatt, president of Everytown for Gun Safety, stated,“Vice President Kamala Harris has helped lead the strongest gun safety administration in American history, with accomplishments that include breaking the 30-year logjam on federal gun safety legislation and taking historic executive actions to combat gun trafficking and ghost guns.” Vice President Harris has soundly criticized Project 2025 for its backward policies on Public Education, like dismantling the federal Department of Education, ending student loan forgiveness for public sector workers like teachers, and getting rid of Head Start which provides Early Education to 800,000 low-income families around the country.
 Like me, Vice President Harris recognizes herself as a product of public education and understands the benefits it provides for society as a whole.
 While Project 2025 asserts that the Department of Health and Human Services should be “Biblically-based,” Vice President Harris has an agenda, just like the Revolutionary Founders of this country, that separates Church from State.
 “We can expect her to try to build on the Biden legacy of expanding coverage,” said Sabrina Corlette, a health policy expert and research professor at Georgetown University.
 “And she’s going to have to do something to bring down costs.” “Corlette predicted Harris would look to protect the Affordable Care Act and extend the enhanced subsidies designed to lower costs, which are set to expire at the end of 2025.
 She would also be likely to work with Congress to try to extend Medicaid coverage in the 10 states that haven’t expanded it under the Affordable Care Act.
-And she could carry on Biden’s attempts to expand Medicare to cover dental, vision and hearing benefits for seniors.” Harris to Expand Affordable Care Act.
+And she could carry on Biden’s attempts to expand Medicare to cover dental, vision and hearing benefits for seniors.” Harris to Expand Affordable Care Act .
 Vice President Harris and I agree that the right to healthcare should never depend on one’s economic, marital, or employment status, gender, age, sex, color, race, creed, ethnicity, country of origin, nor their religion.
 As a child of immigrants, Vice President Harris has a full understanding of what immigration does for America – creating American families and workers, for example.
 Like me, she recognizes that clear paths to citizenship are most needed and beneficial to our country.
@@ -36,4 +35,12 @@ Like me, she recognizes that clear paths to citizenship are most needed and bene
 Kamala Harris will work with Congress and get that done” – Senator Elizabeth Warren.
 As a high tide lifts all boats, I believe that Vice President Harris will not only win the election, but boost all down ballot Democratic candidates, including me.
 Please vote for her, me, and other Democratic candidates on November 5th.
-Together, we CHOOSE DEMOCRACY
+Together, we CHOOSE DEMOCRACY Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from Beth Farnham for Congress Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe Latest posts PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal… District Round-up , healthcare , Our Precious Democracy , Uncategorized · October 4, 2026 Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
+Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 27, 2026 The Most Terrifying Conversation I Ever Had With Voters So I asked, “What is on your heart and mind at the federal level of government?” They responded, “Nothing, really.” I got specific.
+“How are you doing with the price… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 20, 2026 Get updates Spam-free subscription, we guarantee.
+This is just a friendly ping when new content is out. ← Back Thank you for your response. ✨ Name (required) Email (required) Subscribe Submitting form Δ Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Discover more from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Get the latest post from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Subscribe %d

@@ -1,32 +1,134 @@
 [
-"https://ericgrayforflorida.com/",
-"https://ericgrayforflorida.com/about",
-"https://ericgrayforflorida.com/bluesky",
-"https://ericgrayforflorida.com/contact",
-"https://ericgrayforflorida.com/donate",
-"https://ericgrayforflorida.com/endorsements",
-"https://ericgrayforflorida.com/facebook",
-"https://ericgrayforflorida.com/get-involved",
-"https://ericgrayforflorida.com/instagram",
-"https://ericgrayforflorida.com/issues",
-"https://ericgrayforflorida.com/mobile-donate",
-"https://ericgrayforflorida.com/news",
-"https://ericgrayforflorida.com/privacy",
-"https://ericgrayforflorida.com/share",
-"https://ericgrayforflorida.com/sign-up",
-"https://ericgrayforflorida.com/store",
-"https://ericgrayforflorida.com/terms",
-"https://ericgrayforflorida.com/tiktok",
-"https://ericgrayforflorida.com/twitter",
-"https://ericgrayforflorida.com/volunteer",
-"https://ericgrayforflorida.com/yardsign",
-"https://mandatemedia.com/",
-"https://secure.actblue.com/donate/stand-with-eric-gray",
-"https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=500",
-"https://secure.ngpvan.com/p/U5YLbxaD6kGrA3cxh32SoA2",
-"https://secure.ngpvan.com/p/jvbOf5SO7UKjpiusCrelGg2"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=10&refcode2=express-buttons"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=100&refcode2=express-buttons"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=25&refcode2=express-buttons"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=50&refcode2=express-buttons"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/stand-with-eric-gray?express_lane=true&amount=500&refcode2=express-buttons"
+},
+{
+"text": "Contact",
+"href": "https://ericgrayforflorida.com/contact/"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://ericgrayforflorida.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://ericgrayforflorida.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://ericgrayforflorida.com/mobile-donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://ericgrayforflorida.com/endorsements/"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://ericgrayforflorida.com/yardsign/"
+},
+{
+"text": "Get Involved",
+"href": "https://ericgrayforflorida.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://ericgrayforflorida.com/"
+},
+{
+"text": "Issues",
+"href": "https://ericgrayforflorida.com/issues/"
+},
+{
+"text": "Mandate Media",
+"href": "https://www.mandatemedia.com"
+},
+{
+"text": "Meet Eric",
+"href": "https://ericgrayforflorida.com/about/"
+},
+{
+"text": "My Priorities",
+"href": "https://ericgrayforflorida.com/issues/"
+},
+{
+"text": "News",
+"href": "https://ericgrayforflorida.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/stand-with-eric-gray"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericgrayforflorida.com/privacy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://secure.ngpvan.com/p/jvbOf5SO7UKjpiusCrelGg2"
+},
+{
+"text": "Read More",
+"href": "https://ericgrayforflorida.com/about/"
+},
+{
+"text": "Sign Up",
+"href": "https://ericgrayforflorida.com/sign-up/"
+},
+{
+"text": "Spread the Word",
+"href": "https://ericgrayforflorida.com/share/"
+},
+{
+"text": "Store",
+"href": "https://ericgrayforflorida.com/store/"
+},
+{
+"text": "Terms",
+"href": "https://secure.ngpvan.com/p/U5YLbxaD6kGrA3cxh32SoA2"
+},
+{
+"text": "Terms of Service",
+"href": "https://ericgrayforflorida.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://ericgrayforflorida.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/bluesky/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/facebook/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/instagram/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/tiktok/"
+},
+{
+"text": "[no text]",
+"href": "https://ericgrayforflorida.com/twitter/"
+}
 ]

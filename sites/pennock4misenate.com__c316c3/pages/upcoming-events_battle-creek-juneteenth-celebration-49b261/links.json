@@ -1,19 +1,86 @@
 [
-"http://facebook.com/pennock4misenate",
-"http://google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Juneteenth+Celebration&dates=20260620T140000Z%2F20260620T210000Z&location=320+North+Washington+Avenue%2C+Battle+Creek%2C+Michigan%2C+49037%2C+United+States",
-"http://instagram.com/pennock4misenate",
-"http://maps.google.com/?q=320+North+Washington+Avenue+Battle+Creek%2C+Michigan%2C+49037+United+States",
-"https://pennock4misenate.bsky.social/",
-"https://pennock4misenate.com/",
-"https://pennock4misenate.com/about",
-"https://pennock4misenate.com/cart",
-"https://pennock4misenate.com/contact",
-"https://pennock4misenate.com/issues",
-"https://pennock4misenate.com/privacy-policy",
-"https://pennock4misenate.com/upcoming-events",
-"https://pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration?format=ical",
-"https://pennock4misenate.com/upcoming-events/battle-creek-pride-parade",
-"https://pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1",
-"https://pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns",
-"https://secure.actblue.com/donate/pennock4misenate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=320+north+washington+avenue+battle+creek%2C+michigan%2C+49037+united+states"
+},
+{
+"text": "0",
+"href": "https://www.pennock4misenate.com/cart"
+},
+{
+"text": "About Anthony",
+"href": "https://www.pennock4misenate.com/about"
+},
+{
+"text": "Aligned Priorities",
+"href": "https://www.pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns"
+},
+{
+"text": "Back",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "BlueSky",
+"href": "https://pennock4misenate.bsky.social"
+},
+{
+"text": "Contact Us",
+"href": "https://www.pennock4misenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pennock4misenate"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Battle+Creek+Juneteenth+Celebration&dates=20260620T140000Z%2F20260620T210000Z&location=320+North+Washington+Avenue%2C+Battle+Creek%2C+Michigan%2C+49037%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-juneteenth-celebration?format=ical"
+},
+{
+"text": "Next Next July 17 Battle Creek Pride Parade",
+"href": "https://www.pennock4misenate.com/upcoming-events/battle-creek-pride-parade"
+},
+{
+"text": "Previous Previous June 17 Kalamazoo County Democratic Party Monthly Meeting",
+"href": "https://www.pennock4misenate.com/upcoming-events/kalamazoo-county-democratic-party-monthly-meeting-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pennock4misenate.com/privacy-policy"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "Working People's Priorities",
+"href": "https://www.pennock4misenate.com/issues"
+},
+{
+"text": "[image: Dr. Anthony Pennock for MI Senate District 18]",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:pennock4misenate@gmail.com"
+},
+{
+"text": "pennock4misenate.com",
+"href": "mailto:info@pennock4misenate.com"
+}
 ]

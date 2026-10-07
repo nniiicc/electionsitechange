@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for State Representative Joe Sweeney. Fighting for the New Hampshire Advantage, low taxes, limited government, and common-sense leadership in Salem and across the Granite State.",
  "final_url": "https://www.joesweeneynh.com/",
- "paid_for_by": null,
+ "fingerprint": "0f0d091eb41ec025660f8437ee4aec1be624d68a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Joe Sweeney for New Hampshire",
  "years_mentioned": []
 }

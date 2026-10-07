@@ -1,6 +1,5 @@
-Terms & Conditions
-Jackson for Governor (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Jackson for Governor), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Home About Rick Action Plan Contact Press Volunteer Coalitions Donate Home About Rick Action Plan Contact Press Volunteer Coalitions Donate Terms & Conditions Jackson for Governor (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Jackson for Governor), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Jackson for Governor: You’ve subscribed to receive messages from Jackson for Governor, Inc..
 Msg & Data Rates May Apply.
 Message frequency varies.
@@ -64,4 +63,4 @@ No consent is required to buy.
 Msg&data rates may apply.
 Reply HELP for help or STOP to opt-out at any time.
 SMS information is not rented, sold, or shared.
-Privacy Policy and Terms and Conditions
+Privacy Policy and Terms and Conditions Follow Follow Follow Follow Follow Privacy Policy | Terms and Conditions Donate PAID FOR BY JACKSON FOR GOVERNOR, INC.

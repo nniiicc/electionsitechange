@@ -1,4 +1,4 @@
-When Donald Trump called into question the “One China” policy – that Beijing has a “right” to control and dominate the free-market democracy of Taiwan – he made waves.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page Congresswoman-elect Tenney: Days of China ripping us off are over Share January 4 2019 When Donald Trump called into question the “One China” policy – that Beijing has a “right” to control and dominate the free-market democracy of Taiwan – he made waves.
 The so-called experts and Chinese officials are angry that the President-elect is no longer kowtowing to the Communist regime.
 But Trump is right and they are wrong: China can no longer be allowed to rip off America – especially on trade secrets.
 It is costing us jobs, wealth, and endangering our national security.
@@ -13,8 +13,7 @@ And the problem is only getting worse, with industrial spying and sabotage up 53
 Then there is China’s huge industry of counterfeit goods like knock-off watches, handbags, DVDs and smartphones.
 That costs foreign companies, many of them American, another $20 billion every year.
 In other words, the Chinese steal much more from America than they trade with us.
-It may well be, in Trump’s words, “the greatest theft in the history of the world.”
-And Congress and the administration must act because American jobs, competitiveness, wealth and national security are at stake.
+It may well be, in Trump’s words, “the greatest theft in the history of the world.” And Congress and the administration must act because American jobs, competitiveness, wealth and national security are at stake.
 First, intellectual property theft deprives American workers of some of the best paying job opportunities.
 According to one recent study, industries that rely on intellectual property pay low-skilled workers 40 percent more than industries that are not reliant on I.P., and hire them even during economic downturns.
 The Department of Commerce estimates that 45 million American workers — almost one in three U.S. jobs — rely on intellectual property protections.
@@ -38,3 +37,5 @@ Beijing must learn that the United States will defend American jobs and business
 Donald Trump appears committed to communicating that message as president.
 The damage such crime does to the U.S. economy is real, and Trump is right to focus on it.
 When China is stealing more than it buys from us, it is time to stand up and say: The days of China ripping us off are over and we mean it.
+Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

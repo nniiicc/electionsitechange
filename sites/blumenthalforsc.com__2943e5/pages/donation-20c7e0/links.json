@@ -1,10 +1,46 @@
 [
-"https://blumenthalforsc.com/",
-"https://blumenthalforsc.com/about",
-"https://blumenthalforsc.com/cart",
-"https://blumenthalforsc.com/contact",
-"https://blumenthalforsc.com/donation",
-"https://blumenthalforsc.com/policy",
-"https://blumenthalforsc.com/resume",
-"https://secure.actblue.com/donate/george-blumenthal-1"
+{
+"text": "0",
+"href": "https://www.blumenthalforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.blumenthalforsc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.blumenthalforsc.com/contact"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/george-blumenthal-1"
+},
+{
+"text": "Donation Information",
+"href": "https://www.blumenthalforsc.com/donation"
+},
+{
+"text": "Help Save Our State",
+"href": "https://secure.actblue.com/donate/george-blumenthal-1"
+},
+{
+"text": "Home",
+"href": "https://www.blumenthalforsc.com/"
+},
+{
+"text": "LetsVote2026@gmail.com",
+"href": "mailto:LetsVote2026@gmail.com"
+},
+{
+"text": "Policy",
+"href": "https://www.blumenthalforsc.com/policy"
+},
+{
+"text": "Resume",
+"href": "https://www.blumenthalforsc.com/resume"
+},
+{
+"text": "[image: Blumenthal for SC]",
+"href": "https://www.blumenthalforsc.com/"
+}
 ]

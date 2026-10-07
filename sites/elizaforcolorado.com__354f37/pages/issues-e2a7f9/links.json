@@ -1,15 +1,58 @@
 [
-"https://elizaforcolorado.com/",
-"https://elizaforcolorado.com/contact",
-"https://elizaforcolorado.com/education",
-"https://elizaforcolorado.com/endorsements",
-"https://elizaforcolorado.com/health-and-safety",
-"https://elizaforcolorado.com/issues",
-"https://elizaforcolorado.com/join-us",
-"https://elizaforcolorado.com/meet-eliza",
-"https://elizaforcolorado.com/thriving-communities",
-"https://facebook.com/eliza4colorado",
-"https://instagram.com/eliza4colorado",
-"https://secure.actblue.com/donate/eliza-for-colorado-1",
-"https://twitter.com/eliza4colorado"
+{
+"text": "Contact Us",
+"href": "https://www.elizaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/eliza-for-colorado-1"
+},
+{
+"text": "Education",
+"href": "https://www.elizaforcolorado.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elizaforcolorado.com/endorsements"
+},
+{
+"text": "Health and Safety",
+"href": "https://www.elizaforcolorado.com/health-and-safety"
+},
+{
+"text": "Issues",
+"href": "https://www.elizaforcolorado.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.elizaforcolorado.com/join-us"
+},
+{
+"text": "Let me know!",
+"href": "https://www.elizaforcolorado.com/contact"
+},
+{
+"text": "Meet Eliza",
+"href": "https://www.elizaforcolorado.com/meet-eliza"
+},
+{
+"text": "Thriving Communities",
+"href": "https://www.elizaforcolorado.com/thriving-communities"
+},
+{
+"text": "[image: Eliza Hamrick for Colorado House]",
+"href": "https://www.elizaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/eliza4colorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eliza4colorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/eliza4colorado"
+}
 ]

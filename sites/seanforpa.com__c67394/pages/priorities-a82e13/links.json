@@ -1,8 +1,30 @@
 [
-"https://facebook.com/SeanDoughertyForPA",
-"https://seanforpa.com/",
-"https://seanforpa.com/about-sean",
-"https://seanforpa.com/priorities",
-"https://secure.actblue.com/donate/seandougherty",
-"https://twitter.com/SeanforPA172"
+{
+"text": "About Sean",
+"href": "https://www.seanforpa.com/about-sean/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/seandougherty"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/SeanforPA172"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/SeanDoughertyForPA"
+},
+{
+"text": "Home",
+"href": "https://www.seanforpa.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.seanforpa.com/priorities/"
+},
+{
+"text": "[image: Sean Dougherty for PA]",
+"href": "https://www.seanforpa.com/"
+}
 ]

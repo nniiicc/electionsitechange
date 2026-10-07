@@ -1,27 +1,106 @@
 [
-"http://youtube.com/@repstaceyevans",
-"https://airtable.com/app57Z7ls47VVzZ6e/shr95a5wAKaAt6KXK?prefill_Event+Roles=Farm+Volunteer+-+Farm+Day+at+Doghead+Farm+-+01%2F19%2F2026&prefill_Role+Description=Almost+every+week+throughout+the+year+we%27re+out+on+CJ%27s+farm+planting%2C+cultivating%2C+and+harvesting+produce+to+donate.+Join+us+to+lend+a+hand+and+learn+a+thing+or+two+about+farming%21+&emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://eventbrite.com/e/mlk-day-of-service-cascade-community-clean-up-tickets-1980085650483?aff=ebdssbdestsearch&emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://facebook.com/StaceyEvansGA",
-"https://instagram.com/evansforgeorgia",
-"https://legis.ga.gov/legislation/72128?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAQssLYcAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://mustministries.volunteerhub.com/vv2?startDate=2026-01-19&endDate=2026-01-19&emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://ourcac.org/wp-content/uploads/2025/10/At-Home-Office-Volunteer-Projects-Flyer.pdf?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2",
-"https://staceyevans.com/",
-"https://staceyevans.com/cart",
-"https://staceyevans.com/contact",
-"https://staceyevans.com/ga-house-district-57",
-"https://staceyevans.com/get-involved",
-"https://staceyevans.com/issues",
-"https://staceyevans.com/meet-stacey",
-"https://staceyevans.com/news",
-"https://staceyevans.com/news/2025/04/09/evans-e-bulletin-week-12",
-"https://staceyevans.com/news/evans-examiner-week-1-6dep3",
-"https://staceyevans.com/news?author=6941670c17540a6865bb3789",
-"https://staceyevans.com/privacy-policy-1",
-"https://unitedwayatlanta.org/volunteer/volunteer-for-vita?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://x.com/EvansforGeorgia"
+{
+"text": "0",
+"href": "https://www.staceyevans.com/cart"
+},
+{
+"text": "A link to the Legislative Session schedule",
+"href": "https://www.legis.ga.gov/legislation/72128?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Contact Us",
+"href": "https://www.staceyevans.com/contact"
+},
+{
+"text": "Develop your green thumb and harvest some produce",
+"href": "https://airtable.com/app57Z7ls47VVzZ6e/shr95a5wAKaAt6KXK?prefill_Event+Roles=Farm+Volunteer+-+Farm+Day+at+Doghead+Farm+-+01%2F19%2F2026&prefill_Role+Description=Almost+every+week+throughout+the+year+we%27re+out+on+CJ%27s+farm+planting%2C+cultivating%2C+and+harvesting+produce+to+donate.+Join+us+to+lend+a+hand+and+learn+a+thing+or+two+about+farming%21+&emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2"
+},
+{
+"text": "Elijah Johnson",
+"href": "https://www.staceyevans.com/news?author=6941670c17540a6865bb3789"
+},
+{
+"text": "GA House District 57",
+"href": "https://www.staceyevans.com/ga-house-district-57"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staceyevans.com/get-involved"
+},
+{
+"text": "Help clean up a neighborhood or park",
+"href": "https://www.eventbrite.com/e/mlk-day-of-service-cascade-community-clean-up-tickets-1980085650483?aff=ebdssbdestsearch&emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Help your neighbors file their taxes",
+"href": "https://unitedwayatlanta.org/volunteer/volunteer-for-vita/?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Home",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.staceyevans.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://www.staceyevans.com/meet-stacey"
+},
+{
+"text": "News",
+"href": "https://www.staceyevans.com/news"
+},
+{
+"text": "Next Next Evans E-Bulletin: Week 12",
+"href": "https://www.staceyevans.com/news/2025/04/09/evans-e-bulletin-week-12"
+},
+{
+"text": "Previous Previous Evans Examiner: Budget Week",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-6dep3"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staceyevans.com/privacy-policy-1"
+},
+{
+"text": "Volunteer at a food pantry",
+"href": "https://mustministries.volunteerhub.com/vv2/?startDate=%23&endDate=%23&emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Watch the House Floor happenings Jan 26",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAQssLYcAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "You can even volunteer from home",
+"href": "https://ourcac.org/wp-content/uploads/2025/10/At-Home-Office-Volunteer-Projects-Flyer.pdf?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "[image: Rep. Stacey Evans]",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@repstaceyevans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StaceyEvansGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evansforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvansforGeorgia"
+},
+{
+"text": "great time to tune in",
+"href": "https://www.legis.ga.gov/schedule/house?emci=fc2f7763-d3f0-f011-8194-000d3a11f903&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+}
 ]

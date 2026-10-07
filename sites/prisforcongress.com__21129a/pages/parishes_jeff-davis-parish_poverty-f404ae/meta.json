@@ -1,9 +1,12 @@
 {
  "description": "Poverty in Davis Parish is a significant issue, affecting 16.9% of the population. The economic challenges faced by this region have been exacerbated by historical events and recent crises.",
  "final_url": "https://prisforcongress.com/parishes/jeff-davis-parish/poverty/",
- "paid_for_by": null,
+ "fingerprint": "67ec111bed0f353ee3b582bc16e19d3eff39539d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Poverty in Davis Parish",
  "years_mentioned": [
+  "2008",
   "2020"
  ]
 }

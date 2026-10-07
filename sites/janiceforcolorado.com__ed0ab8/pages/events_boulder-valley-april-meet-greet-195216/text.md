@@ -1,9 +1,3 @@
-Back to All Events
-Join us for this opportunity to hear updates from Senator Marchman about the campaign trail, the legislative session, and how she plans to make Colorado a place we can afford to live.
-Previous
-Previous
-April 16
-SD-15 Virtual Listening Session
-Next
-Next
-April 25
+0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Back to All Events Boulder Valley April Meet + Greet Saturday, April 18, 2026 2:00 PM 4:00 PM Boulder, CO (map) Google Calendar ICS Join us for this opportunity to hear updates from Senator Marchman about the campaign trail, the legislative session, and how she plans to make Colorado a place we can afford to live.
+RSVP Previous Previous April 16 SD-15 Virtual Listening Session Next Next April 25 Estes Valley Meet and Greet Ask a question © # by Janice Marchman.
+Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

@@ -1,8 +1,26 @@
 [
-"http://aboutads.info/",
-"http://networkadvertising.org/",
-"https://facebook.com/ryan.busse.39",
-"https://ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy",
-"https://secure.actblue.com/donate/strand2026",
-"https://strandformontana.com/"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/strand2026"
+},
+{
+"text": "HOME",
+"href": "https://strandformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryan.busse.39/"
+},
+{
+"text": "http://networkadvertising.org",
+"href": "http://networkadvertising.org/"
+},
+{
+"text": "http://www.aboutads.info",
+"href": "http://www.aboutads.info/"
+},
+{
+"text": "https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy",
+"href": "https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy"
+}
 ]

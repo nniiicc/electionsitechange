@@ -1,5 +1,3 @@
-Previous
-Previous
-New legislation will allow providers to administer drug used to reverse opioid overdoses past its expiration date
-Next
-Next
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE Kansas signs off on using expired Narcan to reverse overdoses In the News May 5 Written By Suzanne Wikle Suzanne Wikle Previous Previous New legislation will allow providers to administer drug used to reverse opioid overdoses past its expiration date Next Next Representative Wikle talks about how out of touch Trump and Kansas Republicans are with Kansans Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

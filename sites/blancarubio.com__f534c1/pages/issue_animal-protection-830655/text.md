@@ -1,11 +1,2 @@
-Safe Transportation of Dogs and Cats (AB 2362)
-Increases health and safety standards for mobile or traveling housing facilities for dogs and cats, including sufficient heating and cooling, ventilation, and lighting.
-Skip to content
-Ξ
-Animal Protection
-Safe Transportation of Dogs and Cats (AB 2362)
-Increases health and safety standards for mobile or traveling housing facilities for dogs and cats, including sufficient heating and cooling, ventilation, and lighting.
-Issues sidebar
-Post navigation
-Working for you
-Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Animal Protection Safe Transportation of Dogs and Cats (AB 2362) Increases health and safety standards for mobile or traveling housing facilities for dogs and cats, including sufficient heating and cooling, ventilation, and lighting.
+Issues sidebar Women’s Issues Education & Youth Housing & Homelessness Domestic Violence Climate Change Public Safety & Criminal Justice Aging Water Animal Protection Healthcare Post navigation Previous: Healthcare Next: Water Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

@@ -1,3 +1,2 @@
-Memorial Day- Looking Back & Ahead
-Each year as we observe Memorial Day, let us never forget the meaning of the holiday & the ultimate sacrifices our men and women have [More]
-Copyright © 2026 | WordPress Theme by MH Themes
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate Arlington National Cemetery Memorial Day- Looking Back & Ahead June 5, 2024 Rey Martinez 0 Each year as we observe Memorial Day, let us never forget the meaning of the holiday & the ultimate sacrifices our men and women have [More] Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

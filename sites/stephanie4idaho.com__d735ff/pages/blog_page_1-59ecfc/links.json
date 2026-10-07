@@ -1,21 +1,86 @@
 [
-"https://stephanie4idaho.com/",
-"https://stephanie4idaho.com/about",
-"https://stephanie4idaho.com/blog",
-"https://stephanie4idaho.com/blog/posts/an-incredible-community",
-"https://stephanie4idaho.com/blog/posts/bonneville-county-central-committee-response",
-"https://stephanie4idaho.com/blog/posts/building-up-idaho-s-energy-infrastructure",
-"https://stephanie4idaho.com/blog/posts/censure-me-all-you-want-i-answer-to-idaho-voters-not-some-central-committee",
-"https://stephanie4idaho.com/blog/posts/legislators-tackle-everyday-issues-in-boise",
-"https://stephanie4idaho.com/blog/posts/mickelsen-and-wheeler-talk-legislature-in-virtual-town-hall",
-"https://stephanie4idaho.com/blog/posts/new-water-agreement-protects-idaho-ag",
-"https://stephanie4idaho.com/blog/posts/the-future-of-idaho-s-water",
-"https://stephanie4idaho.com/blog/posts/the-idaho-constitution-strictly-prohibits-public-funds-for-religious-schooling",
-"https://stephanie4idaho.com/blog/posts/water-transparency-and-your-priorities",
-"https://stephanie4idaho.com/blog?page=1",
-"https://stephanie4idaho.com/blog?page=2",
-"https://stephanie4idaho.com/contact",
-"https://stephanie4idaho.com/donate",
-"https://stephanie4idaho.com/endorsements",
-"https://stephanie4idaho.com/volunteer"
+{
+"text": "1",
+"href": "https://stephanie4idaho.com/blog/?page=1"
+},
+{
+"text": "2",
+"href": "https://stephanie4idaho.com/blog/?page=2"
+},
+{
+"text": "About",
+"href": "https://stephanie4idaho.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://stephanie4idaho.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://stephanie4idaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://stephanie4idaho.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://stephanie4idaho.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://stephanie4idaho.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://stephanie4idaho.com/volunteer/"
+},
+{
+"text": "[image] An incredible community",
+"href": "https://stephanie4idaho.com/blog/posts/an-incredible-community/"
+},
+{
+"text": "[image] Bonneville County Central Committee Response",
+"href": "https://stephanie4idaho.com/blog/posts/bonneville-county-central-committee-response/"
+},
+{
+"text": "[image] Building up Idaho's energy infrastructure",
+"href": "https://stephanie4idaho.com/blog/posts/building-up-idaho-s-energy-infrastructure/"
+},
+{
+"text": "[image] Censure me all you want. I answer to Idaho voters, not some central committee.",
+"href": "https://stephanie4idaho.com/blog/posts/censure-me-all-you-want-i-answer-to-idaho-voters-not-some-central-committee/"
+},
+{
+"text": "[image] Legislators Tackle Everyday Issues in Boise",
+"href": "https://stephanie4idaho.com/blog/posts/legislators-tackle-everyday-issues-in-boise/"
+},
+{
+"text": "[image] Mickelsen and Wheeler Talk Legislature in Virtual Town Hall",
+"href": "https://stephanie4idaho.com/blog/posts/mickelsen-and-wheeler-talk-legislature-in-virtual-town-hall/"
+},
+{
+"text": "[image] New Water Agreement Protects Idaho Ag",
+"href": "https://stephanie4idaho.com/blog/posts/new-water-agreement-protects-idaho-ag/"
+},
+{
+"text": "[image] Stephanie Mickelsen",
+"href": "https://stephanie4idaho.com/"
+},
+{
+"text": "[image] The Future of Idaho's Water",
+"href": "https://stephanie4idaho.com/blog/posts/the-future-of-idaho-s-water/"
+},
+{
+"text": "[image] The Idaho Constitution strictly prohibits public funds for religious schooling",
+"href": "https://stephanie4idaho.com/blog/posts/the-idaho-constitution-strictly-prohibits-public-funds-for-religious-schooling/"
+},
+{
+"text": "[image] Water, Transparency, and Your Priorities",
+"href": "https://stephanie4idaho.com/blog/posts/water-transparency-and-your-priorities/"
+},
+{
+"text": "[tooltip: Next]",
+"href": "https://stephanie4idaho.com/blog/?page=2"
+}
 ]

@@ -1,19 +1,2 @@
-FOLLOW US
-ALINA MERCH
-Campaign Hoodie — "Team Alina Bonsell" Political Support Sweatshirt
-Political Humor Mug – someone who wants everything you have...
-Except your job."
-Definition of a Socialist T‑Shirt — “Except Your Job” Political Graphic Tee
-Tote Bag — "Definition of a Socialist: Except Your Job" Retro Political Tote
-Team Alina Crewneck Sweatshirt – Save NYC Supporter Pullover
-Team Alina T-Shirt — Save NYC Support Tee
-Team Alina Hoodie — Supportive Fan Pullover
-Campaign T-Shirt — "Team Alina" NY State Senate Support Tee
-Team Alina Kiss-Cut Sticker — "Save NYC" Support Decal
-Tote Bag — "Team Alina" Canvas Shopper Tote (Save the NYC)
-Cotton Tote Bag — Vote Alina Bonsell NY State Senate Campaign Tote with QR Code
-Alina Bonsell Campaign Mug | Ceramic Mug
-Hoodie — “I’m With Alina ” Campaign Merch - Pullover
-Ceramic Mug (Green), (11oz, 15oz)
-SUPPORT THE CAMPAIGN
-Every contribution helps us reach D28 voters.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Log In Shop ALINA MERCH Sort by: Recommended Campaign Hoodie — "Team Alina Bonsell" Political Support Sweatshirt Price $55.00 Political Humor Mug – someone who wants everything you have...
+Except your job." Price $19.99 Definition of a Socialist T‑Shirt — “Except Your Job” Political Graphic Tee Price $29.99 Tote Bag — "Definition of a Socialist: Except Your Job" Retro Political Tote Price $19.34 Team Alina Crewneck Sweatshirt – Save NYC Supporter Pullover Price $50.99 Team Alina T-Shirt — Save NYC Support Tee Price $28.99 Team Alina Hoodie — Supportive Fan Pullover Price $43.16 Campaign T-Shirt — "Team Alina" NY State Senate Support Tee Price $36.02 Team Alina Kiss-Cut Sticker — "Save NYC" Support Decal Price $2.84 Tote Bag — "Team Alina" Canvas Shopper Tote (Save the NYC) Price $18.96 Cotton Tote Bag — Vote Alina Bonsell NY State Senate Campaign Tote with QR Code Price $31.36 Alina Bonsell Campaign Mug | Ceramic Mug Price $15.99 Hoodie — “I’m With Alina ” Campaign Merch - Pullover Price $46.50 Ceramic Mug (Green), (11oz, 15oz) Price $15.99 Donate SUPPORT THE CAMPAIGN Every contribution helps us reach D28 voters. $28 $50 $100 $150 $250 $1050 $5000 Other DONATE CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

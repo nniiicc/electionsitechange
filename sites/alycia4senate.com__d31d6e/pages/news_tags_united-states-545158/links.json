@@ -1,34 +1,138 @@
 [
-"https://alyciaforamerica.com/",
-"https://alyciaforamerica.com/contact",
-"https://alyciaforamerica.com/donate-now",
-"https://alyciaforamerica.com/news",
-"https://alyciaforamerica.com/news/categories/2nd-amendment",
-"https://alyciaforamerica.com/news/categories/abortion-alternatives",
-"https://alyciaforamerica.com/news/categories/agriculture",
-"https://alyciaforamerica.com/news/categories/article-v",
-"https://alyciaforamerica.com/news/categories/boarder-security",
-"https://alyciaforamerica.com/news/categories/border-security",
-"https://alyciaforamerica.com/news/categories/dei-diversity-equity-inclusion",
-"https://alyciaforamerica.com/news/categories/department-of-justic-doj",
-"https://alyciaforamerica.com/news/categories/deportation",
-"https://alyciaforamerica.com/news/categories/federal-debt",
-"https://alyciaforamerica.com/news/categories/foreign-aid",
-"https://alyciaforamerica.com/news/categories/inflation",
-"https://alyciaforamerica.com/news/categories/intergenerational",
-"https://alyciaforamerica.com/news/categories/lawfare",
-"https://alyciaforamerica.com/news/categories/life",
-"https://alyciaforamerica.com/news/categories/mining",
-"https://alyciaforamerica.com/news/categories/national-secutiry",
-"https://alyciaforamerica.com/news/categories/united-states-boarder-security",
-"https://alyciaforamerica.com/news/categories/united-states-border",
-"https://alyciaforamerica.com/news/categories/united-states-constituiton",
-"https://alyciaforamerica.com/news/categories/united-we-stand",
-"https://alyciaforamerica.com/news/categories/voting-integrity",
-"https://alyciaforamerica.com/news/categories/women",
-"https://alyciaforamerica.com/post/__dei",
-"https://alyciaforamerica.com/post/controlling-inflation",
-"https://alyciaforamerica.com/post/foreign-aid",
-"https://alyciaforamerica.com/post/national-secuity",
-"https://alyciaforamerica.com/views"
+{
+"text": "2nd Amendment",
+"href": "https://www.alyciaforamerica.com/news/categories/2nd-amendment"
+},
+{
+"text": "Abortion Alternatives",
+"href": "https://www.alyciaforamerica.com/news/categories/abortion-alternatives"
+},
+{
+"text": "Agriculture",
+"href": "https://www.alyciaforamerica.com/news/categories/agriculture"
+},
+{
+"text": "All Articles",
+"href": "https://www.alyciaforamerica.com/news"
+},
+{
+"text": "Alycia Gruenhagen",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "Article V",
+"href": "https://www.alyciaforamerica.com/news/categories/article-v"
+},
+{
+"text": "Boarder Security",
+"href": "https://www.alyciaforamerica.com/news/categories/boarder-security"
+},
+{
+"text": "Border Security",
+"href": "https://www.alyciaforamerica.com/news/categories/border-security"
+},
+{
+"text": "Contact",
+"href": "https://www.alyciaforamerica.com/contact"
+},
+{
+"text": "Controlling Inflation",
+"href": "https://www.alyciaforamerica.com/post/controlling-inflation"
+},
+{
+"text": "DEI (Diversity, Equity, Inclusion)",
+"href": "https://www.alyciaforamerica.com/news/categories/dei-diversity-equity-inclusion"
+},
+{
+"text": "DONATE",
+"href": "https://www.alyciaforamerica.com/donate-now"
+},
+{
+"text": "Department of Justic (DOJ)",
+"href": "https://www.alyciaforamerica.com/news/categories/department-of-justic-doj"
+},
+{
+"text": "Deportation",
+"href": "https://www.alyciaforamerica.com/news/categories/deportation"
+},
+{
+"text": "Federal Debt",
+"href": "https://www.alyciaforamerica.com/news/categories/federal-debt"
+},
+{
+"text": "Foreign Aid",
+"href": "https://www.alyciaforamerica.com/news/categories/foreign-aid"
+},
+{
+"text": "Fostering a Movement to Challenge and Rethink DEI Initiatives",
+"href": "https://www.alyciaforamerica.com/post/__dei"
+},
+{
+"text": "Home",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "Inflation",
+"href": "https://www.alyciaforamerica.com/news/categories/inflation"
+},
+{
+"text": "Intergenerational",
+"href": "https://www.alyciaforamerica.com/news/categories/intergenerational"
+},
+{
+"text": "Investing In National Security",
+"href": "https://www.alyciaforamerica.com/post/national-secuity"
+},
+{
+"text": "Lawfare",
+"href": "https://www.alyciaforamerica.com/news/categories/lawfare"
+},
+{
+"text": "Life",
+"href": "https://www.alyciaforamerica.com/news/categories/life"
+},
+{
+"text": "Mining",
+"href": "https://www.alyciaforamerica.com/news/categories/mining"
+},
+{
+"text": "My Views",
+"href": "https://www.alyciaforamerica.com/views"
+},
+{
+"text": "National Secutiry",
+"href": "https://www.alyciaforamerica.com/news/categories/national-secutiry"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "Sending Foreign Aid to Ukraine",
+"href": "https://www.alyciaforamerica.com/post/foreign-aid"
+},
+{
+"text": "United States Boarder Security",
+"href": "https://www.alyciaforamerica.com/news/categories/united-states-boarder-security"
+},
+{
+"text": "United States Border",
+"href": "https://www.alyciaforamerica.com/news/categories/united-states-border"
+},
+{
+"text": "United States Constituiton",
+"href": "https://www.alyciaforamerica.com/news/categories/united-states-constituiton"
+},
+{
+"text": "United We Stand",
+"href": "https://www.alyciaforamerica.com/news/categories/united-we-stand"
+},
+{
+"text": "Voting Integrity",
+"href": "https://www.alyciaforamerica.com/news/categories/voting-integrity"
+},
+{
+"text": "Women",
+"href": "https://www.alyciaforamerica.com/news/categories/women"
+}
 ]

@@ -1,67 +1,54 @@
-Jomo Manuel Williams -vs- Darializa Avila Chevalier – (Table)
-CANDIDATE SIDE-BY-SIDE COMPARISON
-JOMO MANUEL WILLIAMS
-R / Urbanist Conservative
-DARIALIZA AVILA CHEVALIER
-DSA / Anarchist Socialist
-Nationality Hatred & Racism Explicit Below
-CANDIDATE DARIALIZA & PIKER
-E.g.: Tio Tom Abeed Akata Tethers F-USA below
-Quoting Democrats:
-“Chevalier is our David Duke.
-She is poisoning the possibility of a Democratic majority.” She needs to be tucked away and placed into hiding until after the midterms elections are over! — Democratic Party stalwart, reported by Mark Halperin and later amplified by political commentators and figures, including former Republican congressman Peter Meijer.
-Darializa’s Quotes, Scandals, & Backlash
-Anti-American Remarks: Deleted posts from her past included calling America a “disgrace” and stating she wiped away her waste on an American flag because she lacked tissue napkins.
+Skip to content JMW 4 CONGRESS JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 CLICK TABLE OF CONTENT Jomo Manuel Williams -vs- Darializa Avila Chevalier – (Table) CANDIDATE SIDE-BY-SIDE COMPARISON JOMO MANUEL WILLIAMS R / Urbanist Conservative DARIALIZA AVILA CHEVALIER DSA / Anarchist Socialist 📌 BORN & RAISED JOMO Harlem, NY (Born in Harlem; Lifelong Harlem Resident & NY-13 Harlem Business Owner) DARIALIZA Miami, FL (allegedly Born and Grew up in Florida) 🌍 ETHNICITY & NATIONALITY JOMO FBA (Foundational Black American) / Nuyorican / Native American DARIALIZA Afro / Haitian? / Dominican Republic 🎖️ MILITARY & VETERAN STATUS JOMO ▪ U.S.
+Army (ACTIVE, RESERVE, Veteran) ➢ 1985–Present: E5 NCO Grade, Squad Supervisor, 31M Communications, Digital Graphics ➢ Multi-Generational Legacy: Proudly serving from a dedicated family of multi-generational U.S.
+Military Veterans DARIALIZA Non-Veteran (Publicly labeled U.S. leaders & military as “war criminals”) 🎓 EDUCATION JOMO ▪ John Jay College of Criminal Justice (New York) ▪ Paralegal Studies & Federal Court Filings (S.D.N.Y. & NYS) ▪ Telecommunications Training (U.S.
+Army & Verizon) ▪ Graphic Design ▪ A+ Certification, Networking & Computer Programming (Ace Technologies, et al.) ▪ Entrepreneurial Responsibilities (Harlem Empowerment Zone) DARIALIZA Florida / New York (Columbia University) 💼 EMPLOYMENT, CAREER, OCCUPATION JOMO ▪ Summer Youth Employment Program ▪ U.S.
+Army Veteran ▪ Verizon Communications Technician ▪ Cable Industry Contractor ▪ Paralegal for Harlem Law Firms & Legal Entities (American Paralegal Services) ▪ Business Owner (N.J. & Harlem Retail Shops, et al.) DARIALIZA ▪ Public Defense Investigator 🏛️ POLITICAL BACKGROUND JOMO ▪ Former Democrat converted Urbanist Conservative ➢ Left Dem’s Party Machine: Left the Democratic Party machine because Democratic policies actively undermine rather than protect local community interests. ➢ Fighting as a Republican: Fighting for working-class, displaced, and hard-to-find-work Harlem/Bronx resident citizens adversely impacted by DSA Sanctuary City policies.
+DARIALIZA DSA Party Machine / Socialist Insurgent • Promotes far-left sanctuary city expansion, abolitionist policies, and open border frameworks • Supports age-inappropriate multi-gender/sexuality curricula for developing children • Fosters social and civil disorder • Prioritizes non-citizen needs over local citizens 💼 ECONOMIC VISION JOMO Universal Capitalism (Direct Wealth Creation & Capital Access for Working Families) DARIALIZA Socialism & Communism (Abolition of private capital structures) ⚖️ LAW & ORDER & CJS REFORM JOMO No to Defund Police • Fully fund public safety • Execute complete Criminal Justice System (CJS) Overhaul DARIALIZA Abolish Law Enforcement • Supports abolishing police, prisons, and ICE • Supports Anarchism and lawlessness 📜 CIVIL LEGAL ACCESS & RTC JOMO Pioneered Right to Counsel (RTC) Advocacy Early champion of RTC in NYC Housing Courts prior to citywide enactment Fights for Universal Attorney Access in all civil matters to protect civil rights DARIALIZA No Universal Civil Defense Plan • Lacks a structural framework for civil court legal representation 🗽 U.S.
+BORDERS & IMMIGRATION JOMO Close & Secure Borders • Pause immigration to protect local wages, housing availability, and public resources • Support Control Immigration laws and bills like the Bipartisan Dignity Act Bill • Proposed Addendums to the Dignity Act: Strict Ideological Vetting: Robust vetting process to ensure legal status candidates align with American civic values and do not hold subverted or anarchist ideologies.
+Economic Stability Pauses: Trigger data-driven local pauses when unemployment, housing shortages, or displacement of working-class citizens spike.
+Constituents’ Quorum Power: Accept and pass community-driven addenda proposals by public quorum vote during district meetings.
+DARIALIZA Open Borders & No Deportations or Citizenship • Supports complete abolishment of both U.S. borders and I.C.E. 🌐 NATIONAL SOVEREIGNTY & BORDERS JOMO Supports Sovereign Borders & Self-Determination • Enforce U.S. borders to protect local working families • Protect Dominican Republic national sovereignty • Support Puerto Rico Statehood & equal U.S. rights • Support Two-State Solution for peaceful coexistence DARIALIZA Radical Globalist / Borderless Agenda • Abolish U.S. borders & law enforcement (ICE) • Force unification of Haiti & Dominican Republic • Deny Puerto Rico full U.S.
+Statehood rights • Deny Israel’s right to exist / Oppose Two-State Solution 🏠 SANCTUARY STATUS & HOUSING JOMO NO to NYC Sanctuary Jurisdiction • Stop sanctuary gentrification and rent-spiking corporate buyouts DARIALIZA YES to Sanctuary Status • Supports expanded sanctuary city policies 🗳️ ELECTION INTEGRITY JOMO YES to SAVE Act & Voter ID • 83% Bipartisan National Support for voter ID & citizenship verification • Active litigation vs.
+Bd. of Elections to close election system loopholes (NYS.
+Sup.
+Ct.
+NY CNTY, Index #: 157172/2026) DARIALIZA NO to SAVE Act & Voter ID ✊ REPARATIONS & SOVEREIGN DEBT JOMO Pursuing Outstanding Sovereign Debt and inheritance owed to descendants of American Slavery & Puerto Rico colonialism.
+DARIALIZA No Sovereign Debt Strategy 🇵🇷 PUERTO RICO STATUS JOMO ▪ YES to Statehood ➢ Certified 2024 Status Vote: Honors the 58.6% (~59%) majority vote for Statehood in Puerto Rico’s self-determination referendum ➢ Guarantees equal constitutional rights, full U.S. citizenship, complete congressional representation, and sovereign debt resolution DARIALIZA NO to Statehood 🇭🇹 🇩🇴 HAITI & DOMINICAN REP.
+JOMO NO to Unification | Pro-Sovereignty & Reconstruction Framework Haitian Talent Leadership Program (HTLP): Transition former U.S.
+TPS beneficiaries into compensated leadership roles in Haiti to lead local governance and infrastructure rebuilding.
+Targeted Development Aid: Bilateral U.S.–Haiti Development Fund focused on structural capacity-building, economic mobility, and energy infrastructure.
+DARIALIZA YES to Unification (“unified Quisquey”) 🕊️ FOREIGN POLICY & ISRAEL & PALESTINE JOMO YES to Two-State Solution & Protection of Civilians Support a secure, sovereign Two-State model for long-term peace and self-determination for both Israelis and Palestinians.
+Absolute opposition to violence against civilian populations.
+DARIALIZA NO to Two-State Solution • Claims Israel has no right to exist 📚 SCHOOL CURRICULA & GENDER JOMO ▪ Biological 2-Gender Standard (M/F) ▪ Modernize curricula with AI literacy & multicultural history ▪ No multi-gender sexuality ideology in early education ▪ Protect women’s sports & private spaces ▪ Full equal protection for LGBTQ under anti-hate laws (e.g., NY CPL 485) ▪ “Rape By Deception” Laws: Prosecute non-disclosure of transgender history or biological birth sex as sexual assault (aligned with UK & Israel standards) DARIALIZA Multi-Gender Ideology (6+ Genders) She supports multi 6+ gender/sexuality curricula in early education and biological males in women’s sports & private spaces. (allegedly “Haram” in her beliefs) 🇺🇸 AMERICAN FLAG & NATIONAL SYMBOLS JOMO Honors & Carries the U.S.
+Flag 🇺🇸 • Proudly carried the USA Flag in military service and official marches (Legacy of multi-generational U.S.
+Military Veterans).
+DARIALIZA Disrespects U.S.
+Flag & Symbols • Publicly admitted to using the American Flag as a napkin to wipe off hands/waste.
+Nationality Hatred & Racism Explicit Below CANDIDATE DARIALIZA & PIKER E.g.: Tio Tom Abeed Akata Tethers F-USA below Quoting Democrats: “Chevalier is our David Duke.
+She is poisoning the possibility of a Democratic majority.” She needs to be tucked away and placed into hiding until after the midterms elections are over! — Democratic Party stalwart , reported by Mark Halperin and later amplified by political commentators and figures, including former Republican congressman Peter Meijer.
+Darializa’s Quotes, Scandals, & Backlash Anti-American Remarks: Deleted posts from her past included calling America a “disgrace” and stating she wiped away her waste on an American flag because she lacked tissue napkins.
 Criticism of Leaders: She criticized high-profile Democrats, labeling former President Joe Biden a war criminal and using profanity regarding Kamala Harris.
 Policy Stances: Past posts also reflected views supporting the total abolishment (abolition) of police, prisons, citizenship, and borders.
 In September 2021, Darializa Avila Chevalier tweeted “Fxck Kamala Harris” in response to Harris telling Guatemalan migrants not to come to the U.S. illegally.
 Darializa Avila Chevalier’s Twitter bio read “how communist of you,” and her posts featured phrases like “seize the means of production” alongside calls to abolish police, prisons, citizenship, and borders.
-During her 2026 congressional campaign, Darializa Avila Chevalier was found guilty of resurfaced, deleted social media posts belonging to her from 2020 to 2022 that she framed the U.S. military, and referred to all U.S. service members and U.S. veterans as war criminals.
-In her unearthed past tweets, Darializa Avila Chevalier equated white homeownership to a “weapon of white supremacy”
-She also charged Black men and Arab men as weird perverts who fetish ugly White colonizer women.”
-In a tweet, Darializa Avila Chevalier noted that while she mostly read communist theory, “the pyromania associated with anarchism is very intriguing to me.”
-Darializa Avila Chevalier is receiving much 2026 Campaign Backlash and Identity Attacks: During her primary congressional race, critics and opponents heavily scrutinized her questionable true ancestry, background, Birth certificate, and citizenship statuses.
+During her 2026 congressional campaign, Darializa Avila Chevalier was found guilty of resurfaced, deleted social media posts belonging to her from 2020 to 2022 that she framed the U.S. military, and referred to all U.S. service members and U.S. veterans as war criminals .
+In her unearthed past tweets, Darializa Avila Chevalier equated white homeownership to a “weapon of white supremacy” She also charged Black men and Arab men as weird perverts who fetish ugly White colonizer women.” In a tweet, Darializa Avila Chevalier noted that while she mostly read communist theory, “the pyromania associated with anarchism is very intriguing to me.” ​Darializa Avila Chevalier is receiving much 2026 Campaign Backlash and Identity Attacks: During her primary congressional race, critics and opponents heavily scrutinized her questionable true ancestry, background, Birth certificate, and citizenship statuses.
 This environment included intense ongoing online debates among Dominican Republic, Haiti, and USA nationalists regarding her suspicious identity, as well as separate accusations from political opponents targeting her dubious background, associations, and birth certificate authorship.
-LITIGATION INQUIRY OF DAC
-This document translates, summarizes, and maps all 6 media and public inquiry video sources directly to your October 5 perfection record in **`Williams v.
-NYS BOE` (Appellate Case No. 2026-05681 / Index No. 157172/2026)**.
-—
-### **Overview of Media Exhibits & English Translations**
-#### **Exhibit M-1: `DARIALIZA CHEVALIER OFENDE A LOS DOMINICANOS` (42NORTH)**
-* **English Title:** *Darializa Chevalier Offends Dominicans*
-* **Transcript Highlights:** Details public outrage over statements attacking national symbols (referring to the Dominican flag in tweets as “a violent piece of shit”).
+LITIGATION INQUIRY OF DAC This document translates, summarizes, and maps all 6 media and public inquiry video sources directly to your October 5 perfection record in **`Williams v.
+NYS BOE` (Appellate Case No.
+2026-05681 / Index No.
+157172/2026)**. — ### **Overview of Media Exhibits & English Translations** #### **Exhibit M-1: `DARIALIZA CHEVALIER OFENDE A LOS DOMINICANOS` (42NORTH)** * **English Title:** *Darializa Chevalier Offends Dominicans* * **Transcript Highlights:** Details public outrage over statements attacking national symbols (referring to the Dominican flag in tweets as “a violent piece of shit”).
 Documents her shifting identity claims depending on the audience (“Afro-Dominican” with Dominican electors, “Afro-American” in Harlem, and wearing a hijab in mosques).
-Exposes that while claiming financial inability to visit the Dominican Republic for 4 years, she spent 2 months in Nablus (West Bank/Palestine) with radical activist networks.
-* **Verbatim Translation:** *”Miss Ávila described the Dominican flag as a ‘violent excrement.’ That is an insult.
-Ask forgiveness from all Dominicans… She has three personalities: Dominican when speaking to Dominicans, Afro-American when addressing Harlem, and Muslim when in a mosque.”*
-—
-#### **Exhibit M-2: `Darializa Avila quiere unir la ISLA?` (Tiempo Real Noticias)**
-* **English Title:** *Darializa Avila Wants to Unify the Island?*
-* **Transcript Highlights:** Analyzes community backlash over Chevalier’s public calls for “island unification” (merging Haiti and the Dominican Republic into a single state), which local voters reject as an anti-historical imposition.
-* **Verbatim Translation:** *”Ungrateful and stupid… you can’t even call yourself Dominican.
+Exposes that while claiming financial inability to visit the Dominican Republic for 4 years, she spent 2 months in Nablus (West Bank/Palestine) with radical activist networks. * **Verbatim Translation:** *”Miss Ávila described the Dominican flag as a ‘violent excrement.’ That is an insult.
+Ask forgiveness from all Dominicans… She has three personalities: Dominican when speaking to Dominicans, Afro-American when addressing Harlem, and Muslim when in a mosque.”* — #### **Exhibit M-2: `Darializa Avila quiere unir la ISLA?` (Tiempo Real Noticias)** * **English Title:** *Darializa Avila Wants to Unify the Island?* * **Transcript Highlights:** Analyzes community backlash over Chevalier’s public calls for “island unification” (merging Haiti and the Dominican Republic into a single state), which local voters reject as an anti-historical imposition. * **Verbatim Translation:** *”Ungrateful and stupid… you can’t even call yourself Dominican.
 It hurts me so much that people think I am not proud of being Dominican, because I am.
-You were the one who said that the island had to be unified… Haiti is one country and the Dominican Republic is another country!”*
-—
-#### **Exhibit M-3: `Plan contra dominicanos en Nueva York de Darializa Ávila Chevalier` (José Peguero / R.
-Pimentel)**
-* **English Title:** *Plan Against Dominicans in New York by Darializa Ávila Chevalier*
-* **Transcript Highlights:** Investigates CNN, New York Post, and independent journalist (John Levy) reports uncovering deleted social media posts from X/Twitter.
-Documents Chevalier’s Wikipedia edits where her background was originally listed as “born to Haitian immigrant parents” and later changed to “Dominican immigrant parents” upon entering the NY-13 Democratic primary.
-* **Verbatim Translation:** *”CNN conducted an extensive investigation into the history she tried to erase… messages on X where she said when she didn’t have a napkin, she used the American flag to wipe her hands… In Wikipedia, her bio originally stated she was born to Haitian parents, and when she entered a Dominican district, she changed it to make people believe she was Dominican.”*
-—
-#### **Exhibit M-4: `¿DARIALIZA AVILA CHEVALIER , HAITIANA O DOMINICANA?` (Via Lactea Media)**
-* **English Title:** *Darializa Avila Chevalier: Haitian or Dominican?*
-* **Transcript Highlights:** Investigates the complete absence of verifiable public vital records or ancestral documentation proving Chevalier’s parentage (listing “Maria Chevalier” with no documented father).
-Reviews Polymarket and Kalshi betting prediction markets showing a tight primary race in NY-13, and traces her Wikipedia profile creation in February 2026 (matching petition gathering) and subsequent identity edits.
-* **Verbatim Translation:** *”We found no reliable public source revealing the name of her father… Her Wikipedia page was created in February of this year during petition gathering.
-Originally it stated: ‘Ávila Chevalier was raised in Florida by Haitian immigrant parents,’ and was later modified to ‘Dominican immigrant parents.’ In her tweets she wrote: ‘I love my people, but that fucking nationalism… that shit is violent and nothing good can come from it.’”*
-—
-#### **Exhibit M-5: `Why Dominicans in New York Are LIVID About Darializa Avila Chevalier` (Ellie De La Cruz)**
-* **English Title:** *Why Dominicans in New York Are LIVID About Darializa Avila Chevalier*
-* **Transcript Highlights:** Analyzes candidate transparency demands, deleted tweets attacking national symbols, and why electors in Washington Heights, Harlem, and the Bronx demand verified candidate qualifications prior to ballot placement.
-—
-#### **Exhibit M-6: `Viven en EEUU pero quieren OBLIGAR a que Puerto Rico sea Independiente` (Revolucion Racional)**
-* **English Title:** *They Live in the US but Want to FORCE Puerto Rico to be Independent*
-* **Transcript Highlights:** Exposes mainland Democratic Socialists of America (DSA) activists—including Chevalier—pushing for forced independence for Puerto Rico despite island voters consistently choosing statehood or commonwealth status.
+You were the one who said that the island had to be unified… Haiti is one country and the Dominican Republic is another country!”* — #### **Exhibit M-3: `Plan contra dominicanos en Nueva York de Darializa Ávila Chevalier` (José Peguero / R.
+Pimentel)** * **English Title:** *Plan Against Dominicans in New York by Darializa Ávila Chevalier* * **Transcript Highlights:** Investigates CNN, New York Post, and independent journalist (John Levy) reports uncovering deleted social media posts from X/Twitter.
+Documents Chevalier’s Wikipedia edits where her background was originally listed as “born to Haitian immigrant parents” and later changed to “Dominican immigrant parents” upon entering the NY-13 Democratic primary. * **Verbatim Translation:** *”CNN conducted an extensive investigation into the history she tried to erase… messages on X where she said when she didn’t have a napkin, she used the American flag to wipe her hands… In Wikipedia, her bio originally stated she was born to Haitian parents, and when she entered a Dominican district, she changed it to make people believe she was Dominican.”* — #### **Exhibit M-4: `¿DARIALIZA AVILA CHEVALIER , HAITIANA O DOMINICANA?` (Via Lactea Media)** * **English Title:** *Darializa Avila Chevalier: Haitian or Dominican?* * **Transcript Highlights:** Investigates the complete absence of verifiable public vital records or ancestral documentation proving Chevalier’s parentage (listing “Maria Chevalier” with no documented father).
+Reviews Polymarket and Kalshi betting prediction markets showing a tight primary race in NY-13, and traces her Wikipedia profile creation in February 2026 (matching petition gathering) and subsequent identity edits. * **Verbatim Translation:** *”We found no reliable public source revealing the name of her father… Her Wikipedia page was created in February of this year during petition gathering.
+Originally it stated: ‘Ávila Chevalier was raised in Florida by Haitian immigrant parents,’ and was later modified to ‘Dominican immigrant parents.’ In her tweets she wrote: ‘I love my people, but that fucking nationalism… that shit is violent and nothing good can come from it.’”* — #### **Exhibit M-5: `Why Dominicans in New York Are LIVID About Darializa Avila Chevalier` (Ellie De La Cruz)** * **English Title:** *Why Dominicans in New York Are LIVID About Darializa Avila Chevalier* * **Transcript Highlights:** Analyzes candidate transparency demands, deleted tweets attacking national symbols, and why electors in Washington Heights, Harlem, and the Bronx demand verified candidate qualifications prior to ballot placement. — #### **Exhibit M-6: `Viven en EEUU pero quieren OBLIGAR a que Puerto Rico sea Independiente` (Revolucion Racional)** * **English Title:** *They Live in the US but Want to FORCE Puerto Rico to be Independent* * **Transcript Highlights:** Exposes mainland Democratic Socialists of America (DSA) activists—including Chevalier—pushing for forced independence for Puerto Rico despite island voters consistently choosing statehood or commonwealth status.
 Quotes Chevalier’s public panel statements calling for the total abolition of prisons, borders, and corporate ownership.
-Click Below Image For Further Details
+Click Below Image For Further Details 📋 TABLE OF CONTENTS / QUICK NAVIGATION Candidate JMW, VOTING TIMES Candidate Side-by-Side Comparison Republican and Democrat Comparison Harlem Community is Not DSA’s Political Prop SAVE Act & Election Integrity Litigation USA -vs- DSA Analysis & Platform Breakdown All Americans Vs.
+Anti-America (Political Civil War) Universal Capitalism (UCAP) Not Socialism No Sanctuary City / Dignity City Escape NYC -⚠️- DSA & DEMS’ GENTRIFICATION TOOLBOX Campaign Contribution Station RAPolitical VERZUZ Catalogues Pages: 1 2 3 4 5 6 7 8 9 10 11 12 JMW 4 CONGRESS Choose Liberty, Free Economy, and Equality.
+Say No to Communism and Anarchism.
+JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 Designed with WordPress

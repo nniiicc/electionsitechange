@@ -1,15 +1,70 @@
 [
-"https://a.jimdo.com/app/auth/signin/jumpcms?page=2469407092",
-"https://cms.e.jimdo.com/app/cms/logout.php",
-"https://dotsethmn.com/",
-"https://dotsethmn.com/ads",
-"https://dotsethmn.com/cdn-cgi/l/email-protection",
-"https://dotsethmn.com/donate",
-"https://dotsethmn.com/endorsements",
-"https://dotsethmn.com/gallery",
-"https://dotsethmn.com/issues",
-"https://dotsethmn.com/social",
-"https://dotsethmn.com/volunteer",
-"https://dotsethmn.com/who",
-"https://secure.winred.com/jeffdotseth/storefront"
+{
+"text": "Ads",
+"href": "https://www.dotsethmn.com/ads/"
+},
+{
+"text": "Donate",
+"href": "https://www.dotsethmn.com/donate/"
+},
+{
+"text": "Donate Here",
+"href": "https://www.dotsethmn.com/donate/"
+},
+{
+"text": "Edit",
+"href": "https://a.jimdo.com/app/auth/signin/jumpcms/?page=2469407092"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dotsethmn.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://www.dotsethmn.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.dotsethmn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dotsethmn.com/issues/"
+},
+{
+"text": "Log out",
+"href": "https://cms.e.jimdo.com/app/cms/logout.php"
+},
+{
+"text": "Scroll to top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/jeffdotseth/storefront/"
+},
+{
+"text": "Social",
+"href": "https://www.dotsethmn.com/social/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dotsethmn.com/volunteer/"
+},
+{
+"text": "Who",
+"href": "https://www.dotsethmn.com/who/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.dotsethmn.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Jeff Dotseth for District 11A]",
+"href": "https://www.dotsethmn.com/"
+},
+{
+"text": "[image]",
+"href": "javascript:"
+}
 ]

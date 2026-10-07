@@ -1,12 +1,54 @@
 [
-"https://facebook.com/GerryPollet",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://seattleschools.org/departments/risk-management/environmental-health-issues-and-water-quality/drinking-water-quality-program",
-"https://secure.actblue.com/donate/gerry-pollet-2"
+{
+"text": "< Back",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "at the link here",
+"href": "https://www.seattleschools.org/departments/risk-management/environmental-health-issues-and-water-quality/drinking-water-quality-program/"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+},
+{
+"text": "leadfreekids@doh.wa.gov",
+"href": "mailto:leadfreekids@doh.wa.gov"
+}
 ]

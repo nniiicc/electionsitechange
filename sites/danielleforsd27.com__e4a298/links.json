@@ -1,8 +1,34 @@
 [
-"https://coloradosos.gov/pubs/elections/vote/primaryCandidates.html",
-"https://danielleforsd27.com/endorsements",
-"https://danielleforsd27.com/events",
-"https://danielleforsd27.com/meet-greet-oct-4",
-"https://danielleforsd27.com/news",
-"https://leg.colorado.gov/find-my-legislator"
+{
+"text": "Call",
+"href": "tel:"
+},
+{
+"text": "Colorado SOS candidates",
+"href": "https://www.coloradosos.gov/pubs/elections/vote/primaryCandidates.html"
+},
+{
+"text": "Email",
+"href": "mailto:"
+},
+{
+"text": "Endorsements",
+"href": "https://danielleforsd27.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://danielleforsd27.com/events"
+},
+{
+"text": "Look up your district →",
+"href": "https://leg.colorado.gov/find-my-legislator"
+},
+{
+"text": "News",
+"href": "https://danielleforsd27.com/news"
+},
+{
+"text": "RSVP for Oct 4 →",
+"href": "https://danielleforsd27.com/meet-greet-oct-4"
+}
 ]

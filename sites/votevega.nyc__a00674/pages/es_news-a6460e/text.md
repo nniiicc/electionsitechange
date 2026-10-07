@@ -1,5 +1,5 @@
-News & Media
-Latest news, media appearances, and campaign updates from Jose Vega's congressional race in the Bronx
-Jimmy Dore se suma al foro en NYC por los 25 años del 11-S
-Jimmy Dore encabezará La guerra interminable, un evento por los 25 años del 11-S en Manhattan el 13 de septiembre de 2026.
-Read Full Article
+Skip to content Conoce a Jose Prensa Noticias Declaraciones Eventos Propuestas de Política Una verdadera política de Medicare para Todos Hacer del Bronx el centro de reindustrialización de Estados Unidos Una reforma migratoria robusta Un enfoque revolucionario de política exterior: Paz a través del Desarrollo Todas las Políticas Eng Donar Registrarse News & Media Latest news, media appearances, and campaign updates from Jose Vega's congressional race in the Bronx Latest News September 8, 2026 Jimmy Dore se suma al foro en NYC por los 25 años del 11-S Jimmy Dore encabezará La guerra interminable, un evento por los 25 años del 11-S en Manhattan el 13 de septiembre de 2026.
+Read Full Article Apoya Nuestro Movimiento Tu contribución impulsa un cambio real en el Bronx.
+Cada donación nos ayuda a luchar por Medicare para Todos, reindustrialización y paz a través del desarrollo.
+Donar Ahora Únete a Nuestra Campaña Manténte informado sobre nuestra lucha para transformar el Bronx.
+Recibe actualizaciones sobre eventos, anuncios de políticas y noticias de campaña. Únete Ahora press@votevega.nyc Bronx, NY 10459 (800) 498-8561 Política de Privacidad | Términos y Condiciones | Pagado por Vega para el Congreso

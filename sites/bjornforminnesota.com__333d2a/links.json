@@ -1,13 +1,54 @@
 [
-"https://bjornforminnesota.com/",
-"https://bjornforminnesota.com/about",
-"https://bjornforminnesota.com/bjornfspeaking-bjorn-speaking-events-bjorn-speaking-events",
-"https://bjornforminnesota.com/contact-minnesota-senate",
-"https://bjornforminnesota.com/get-involved-volunteer-opportunities-bjornforminnesota",
-"https://bjornforminnesota.com/our-district-1-homes-bjorn-for-minnesota",
-"https://bjornforminnesota.com/priorities",
-"https://facebook.com/people/Bjorn-for-Minnesota/61586368473370",
-"https://instagram.com/bjorn_for_minnesota",
-"https://linkedin.com/in/bjorn-solberg-360633381",
-"https://secure.actblue.com/donate/team-bjorn-solberg"
+{
+"text": "About",
+"href": "https://www.bjornforminnesota.com/about"
+},
+{
+"text": "Bjorn For Minnesota",
+"href": "https://www.bjornforminnesota.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.bjornforminnesota.com/contact-minnesota-senate"
+},
+{
+"text": "Events",
+"href": "https://www.bjornforminnesota.com/bjornfspeaking-bjorn-speaking-events-bjorn-speaking-events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bjornforminnesota.com/get-involved-volunteer-opportunities-bjornforminnesota"
+},
+{
+"text": "Home",
+"href": "https://www.bjornforminnesota.com/"
+},
+{
+"text": "Our District",
+"href": "https://www.bjornforminnesota.com/our-district-1-homes-bjorn-for-minnesota"
+},
+{
+"text": "Priorities",
+"href": "https://www.bjornforminnesota.com/priorities"
+},
+{
+"text": "Support Bjorn's Campaign",
+"href": "https://secure.actblue.com/donate/team-bjorn-solberg"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/people/Bjorn-for-Minnesota/61586368473370/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/bjorn_for_minnesota/"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/in/bjorn-solberg-360633381/"
+},
+{
+"text": "→ See Bjorn’s full priorities",
+"href": "https://www.bjornforminnesota.com/priorities"
+}
 ]

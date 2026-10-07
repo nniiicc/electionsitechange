@@ -1,7 +1,42 @@
 [
-"https://facebook.com/BarreiroFL",
-"https://instagram.com/BarreiroFL",
-"https://linkedin.com/in/barreirofl",
-"https://secure.anedot.com/barreiro/113",
-"https://x.com/BarreiroFL"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/barreiro/113"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/barreiro/113"
+},
+{
+"text": "$20",
+"href": "https://secure.anedot.com/barreiro/113"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/barreiro/113"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/barreiro/113"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BarreiroFL"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/BarreiroFL"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/barreirofl/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/barreiro/113"
+},
+{
+"text": "X-twitter",
+"href": "https://www.x.com/BarreiroFL"
+}
 ]

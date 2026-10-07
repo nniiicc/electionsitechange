@@ -1,9 +1,30 @@
 [
-"https://facebook.com/janegaribayforhouse",
-"https://instagram.com/janegaribayforhouse",
-"https://janegaribayforhouse.com/",
-"https://janegaribayforhouse.com/about",
-"https://janegaribayforhouse.com/contact",
-"https://janegaribayforhouse.com/issues",
-"https://janegaribayforhouse.com/news"
+{
+"text": "About Jane Garibay",
+"href": "https://janegaribayforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://janegaribayforhouse.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/janegaribayforhouse"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/janegaribayforhouse/"
+},
+{
+"text": "Issues",
+"href": "https://janegaribayforhouse.com/issues/"
+},
+{
+"text": "Jane M. Garibay",
+"href": "https://janegaribayforhouse.com"
+},
+{
+"text": "Latest News",
+"href": "https://janegaribayforhouse.com/news/"
+}
 ]

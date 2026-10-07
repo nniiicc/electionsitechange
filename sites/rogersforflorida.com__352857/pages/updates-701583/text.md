@@ -1,13 +1,1 @@
-Updates
-CONGRESSMAN BRANDON GILL ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02
-August 13, 2026 | Press Release
-NEW POLL: AUSTIN ROGERS SURGES TO A DOUBLE-DIGIT LEAD IN FL-02 RACE FIVE DAYS BEFORE ELECTION DAY
-August 13, 2026 | Press Release
-HOUSE MAJORITY LEADER STEVE SCALISE ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02
-August 6, 2026 | Press Release
-Washington leaders line up behind Austin Rogers in open CD 2 Primary
-August 4, 2026 | News
-CONGRESSMAN GUY RESCHENTHALER ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02
-August 4, 2026 | Press Release
-HOUSE JUDICIARY CHAIRMAN JIM JORDAN ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02
-August 4, 2026 | Press Release
+Skip to main content Skip to footer Opens in a new tab Donate Home Issues Endorsements Updates Media Donate Updates Filter - Checkbox Blog News Press Release CONGRESSMAN BRANDON GILL ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02 August 13, 2026 | Press Release Read More NEW POLL: AUSTIN ROGERS SURGES TO A DOUBLE-DIGIT LEAD IN FL-02 RACE FIVE DAYS BEFORE ELECTION DAY August 13, 2026 | Press Release Read More HOUSE MAJORITY LEADER STEVE SCALISE ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02 August 6, 2026 | Press Release Read More Washington leaders line up behind Austin Rogers in open CD 2 Primary August 4, 2026 | News Read More CONGRESSMAN GUY RESCHENTHALER ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02 August 4, 2026 | Press Release Read More HOUSE JUDICIARY CHAIRMAN JIM JORDAN ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02 August 4, 2026 | Press Release Read More 1 2 3 … 6 → Paid for by Rogers for Florida Privacy Policy Contact: info@rogersforflorida.com Connect

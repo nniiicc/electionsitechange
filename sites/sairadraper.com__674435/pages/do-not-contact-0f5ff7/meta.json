@@ -1,8 +1,10 @@
 {
  "description": "Ask the Saira Draper campaign to stop contacting you by email newsletters, fundraising emails or text messages.",
  "final_url": "https://www.sairadraper.com/do-not-contact",
+ "fingerprint": "55c2188860bda98ac90575593bc42b41a6707d2d",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Saira Draper, Inc",
- "title": "Do Not Contact \u2014 Saira Draper for Senate District 44",
+ "title": "Do Not Contact — Saira Draper for Senate District 44",
  "years_mentioned": [
   "2026"
  ]

@@ -1,11 +1,42 @@
 [
-"https://facebook.com/FreibergForStateSenator",
-"https://mikefreiberg.com/",
-"https://mikefreiberg.com/accomplishments",
-"https://mikefreiberg.com/donate",
-"https://mikefreiberg.com/endorsements",
-"https://mikefreiberg.com/events",
-"https://mikefreiberg.com/issues",
-"https://mikefreiberg.com/media",
-"https://mikefreiberg.com/voting"
+{
+"text": "Accomplishments",
+"href": "https://www.mikefreiberg.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://www.mikefreiberg.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikefreiberg.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikefreiberg.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.mikefreiberg.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.mikefreiberg.com/media"
+},
+{
+"text": "Mike Freiberg",
+"href": "https://www.mikefreiberg.com"
+},
+{
+"text": "Voting",
+"href": "https://www.mikefreiberg.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FreibergForStateSenator/"
+},
+{
+"text": "freibergforsenate@gmail.com",
+"href": "mailto:freibergforsenate@gmail.com"
+}
 ]

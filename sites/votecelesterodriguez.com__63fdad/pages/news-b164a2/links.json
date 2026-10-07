@@ -1,13 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/CelesteforCityCouncil",
-"https://instagram.com/votecelesterodriguez",
-"https://secure.actblue.com/donate/celeste-rodriguez-1",
-"https://votecelesterodriguez.com/",
-"https://votecelesterodriguez.com/events",
-"https://votecelesterodriguez.com/issues",
-"https://votecelesterodriguez.com/news/assembly-speaker-robert-rivas-endorses-mayor-celeste-rodriguez",
-"https://votecelesterodriguez.com/news/city-of-san-fernando-mayor-and-living-kidney-donor-celeste-rodriguez-in-rose-parade",
-"https://votecelesterodriguez.com/news/rodriguez-announcement",
-"https://votecelesterodriguez.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/celeste-rodriguez-1"
+},
+{
+"text": "Events",
+"href": "https://www.votecelesterodriguez.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.votecelesterodriguez.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votecelesterodriguez.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.votecelesterodriguez.com/news/assembly-speaker-robert-rivas-endorses-mayor-celeste-rodriguez"
+},
+{
+"text": "Read more",
+"href": "https://www.votecelesterodriguez.com/news/city-of-san-fernando-mayor-and-living-kidney-donor-celeste-rodriguez-in-rose-parade"
+},
+{
+"text": "Read more",
+"href": "https://www.votecelesterodriguez.com/news/rodriguez-announcement"
+},
+{
+"text": "[image: Re-Elect Celeste Rodriguez for Assembly]",
+"href": "https://www.votecelesterodriguez.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CelesteforCityCouncil/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votecelesterodriguez"
+},
+{
+"text": "celeste@votecelesterodriguez.com",
+"href": "mailto:celeste@votecelesterodriguez.com"
+}
 ]

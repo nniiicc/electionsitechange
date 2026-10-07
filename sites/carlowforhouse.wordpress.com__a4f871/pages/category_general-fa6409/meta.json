@@ -1,10 +1,14 @@
 {
  "description": "Posts about General written by communicationsdirector",
  "final_url": "https://carlowforhouse.wordpress.com/category/general/",
- "paid_for_by": null,
- "title": "General \u2013 Nathan Carlow for Representative",
+ "fingerprint": "cf2771f5f247c011500de388ed73f3618536b2de",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
+ "title": "General – Nathan Carlow for Representative",
  "years_mentioned": [
+  "2020",
   "2021",
-  "2022"
+  "2022",
+  "2024"
  ]
 }

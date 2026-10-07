@@ -1,13 +1,12 @@
-- This event has passed.
-Meet and Greet with Danny Davis at the mailroom wine and beer lounge
-August 27 @ 5:30 pm – 7:00 pm
-Join us for an evening of good conversation, great company, and an opportunity to get to know Danny Davis, candidate for North Carolina House District 118.
+Skip to content Yard signs now available!
+Contact (828) 400-4812 to request yours Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact Donate Donate YARD SIGNS NOW AVAILABLE!
+CONTACT (828) 400-4812 TO REQUEST YOURS Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact This event has passed. « All Events Meet and Greet with Danny Davis at the mailroom wine and beer lounge August 27 @ 5:30 pm – 7:00 pm Join us for an evening of good conversation, great company, and an opportunity to get to know Danny Davis, candidate for North Carolina House District 118.
 This isn’t a rally or a formal speech; it’s a chance to sit down, enjoy a glass of wine or beer, share a charcuterie board, and have real conversations about the issues that matter most to Haywood and Madison Counties.
 Whether you have questions, ideas, or simply want to meet Danny, we’d love to have you join us.
-Thursday, August 27
-5:30 PM – 7:00 PM
-The Mailroom Wine & Beer Lounge
-79 Park St.
-Canton, NC 28716
-We’ll also have campaign yard signs available for pickup, so if you’ve been wanting to show your support, this is a great opportunity to grab one.
+Thursday, August 27 5:30 PM – 7:00 PM The Mailroom Wine & Beer Lounge 79 Park St.
+Canton, NC 28716 We’ll also have campaign yard signs available for pickup, so if you’ve been wanting to show your support, this is a great opportunity to grab one.
 We hope to see you there!
+The Mailroom Wine and Beer Lounge 79 Park St Canton , North Carolina 28716 United States + Google Map Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Event Navigation « Fundraising Reception for Danny Davis (NC House District 118) Meet & Greet with Jamie Ager and Danny Davis » PAID FOR BY DAVIS FOR NC HOUSE 118 Email * Stay Informed QUICK LINKS Meet Danny Issues Contact GET INVOLVED Volunteer Events Donate STAY CONNECTED Facebook Instagram TikTok X/Twitter YouTube Contact: Danny@Davis4NCHouse.com | P.O.
+Box 196, Waynesville, NC 28786 Copyright © 2026 Davis For NC House 118 | Privacy Policy | Designed by WNC Web Design English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

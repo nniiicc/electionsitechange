@@ -1,11 +1,42 @@
 [
-"https://facebook.com/pamlauria",
-"https://pamlauria.com/",
-"https://pamlauria.com/contact",
-"https://pamlauria.com/endorsements",
-"https://pamlauria.com/issues1",
-"https://pamlauria.com/sample-page",
-"https://pamlauria.com/volunteer",
-"https://secure.actblue.com/donate/friends-of-pam-lauria-1",
-"https://twitter.com/pam_lauria"
+{
+"text": "ABOUT",
+"href": "https://pamlauria.com/sample-page/"
+},
+{
+"text": "CONTACT",
+"href": "https://pamlauria.com/contact/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://pamlauria.com/endorsements/"
+},
+{
+"text": "HOME",
+"href": "https://pamlauria.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://pamlauria.com/issues1/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://pamlauria.com/volunteer/"
+},
+{
+"text": "[ DONATE ]",
+"href": "https://secure.actblue.com/donate/friends-of-pam-lauria-1"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/pam_lauria"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/pamlauria"
+},
+{
+"text": "[tooltip: PAM LAURIA FOR RI STATE SENATE DISTRICT 32]",
+"href": "https://pamlauria.com/"
+}
 ]

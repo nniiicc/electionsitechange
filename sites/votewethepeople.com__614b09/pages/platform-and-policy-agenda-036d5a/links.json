@@ -1,34 +1,138 @@
 [
-"https://amazon.com/Farmer-Servant-Mission-Divided-Against/dp/B0FVTX8JXL",
-"https://facebook.com/profile.php?id=61581745371863",
-"https://tiktok.com/@robertebrooksforgovernor",
-"https://votewethepeople.com/",
-"https://votewethepeople.com/about-robert-brooks",
-"https://votewethepeople.com/audit-the-criminal-justice-system",
-"https://votewethepeople.com/data-centers",
-"https://votewethepeople.com/flock-the-government",
-"https://votewethepeople.com/help-fund-the-movement",
-"https://votewethepeople.com/oklahomas-ai-and-modernization-plan",
-"https://votewethepeople.com/paid-time-off",
-"https://votewethepeople.com/peoples_army",
-"https://votewethepeople.com/platform-and-policy-agenda",
-"https://votewethepeople.com/prevent-and-end-homelessness-in-oklahoma",
-"https://votewethepeople.com/protecting-oklahoma-land",
-"https://votewethepeople.com/take-the-oath",
-"https://votewethepeople.com/the-farmer-servant-cannabis-holistic-medicine-plan",
-"https://votewethepeople.com/the-farmer-servant-creed",
-"https://votewethepeople.com/the-farmer-servant-criminal-justice-reform-plan",
-"https://votewethepeople.com/the-farmer-servant-education-plan",
-"https://votewethepeople.com/the-farmer-servant-healthcare-plan",
-"https://votewethepeople.com/the-farmer-servant-immigration-plan",
-"https://votewethepeople.com/the-farmer-servant-movement",
-"https://votewethepeople.com/the-farmer-servant-tribal-relations-plan",
-"https://votewethepeople.com/the-farmer-servants-prayer",
-"https://votewethepeople.com/the-four-promises-to-oklahoma",
-"https://votewethepeople.com/the-peoples-app",
-"https://votewethepeople.com/the-peoples-oklahoma-energy-partnership",
-"https://votewethepeople.com/the-peoples-promise",
-"https://votewethepeople.com/the-peoples-rights-plan",
-"https://votewethepeople.com/the-peoples-table",
-"https://votewethepeople.com/the-peoples-tax-reform-plan"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php/?id=61581745371863"
+},
+{
+"text": "Help Fund the Movement",
+"href": "https://votewethepeople.com/help-fund-the-movement/"
+},
+{
+"text": "Home",
+"href": "https://votewethepeople.com/"
+},
+{
+"text": "Meet Robert Brooks",
+"href": "https://votewethepeople.com/about-robert-brooks/"
+},
+{
+"text": "Platform and Policy Agenda",
+"href": "https://votewethepeople.com/platform-and-policy-agenda/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/audit-the-criminal-justice-system/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/data-centers/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/flock-the-government/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/oklahomas-ai-and-modernization-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/paid-time-off/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/peoples_army/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/prevent-and-end-homelessness-in-oklahoma/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/protecting-oklahoma-land/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-cannabis-holistic-medicine-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-criminal-justice-reform-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-education-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-healthcare-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-immigration-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-tribal-relations-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-inola-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-peoples-app/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-peoples-oklahoma-energy-partnership/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-peoples-promise/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-peoples-rights-plan/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-peoples-table/"
+},
+{
+"text": "Read Plan",
+"href": "https://votewethepeople.com/the-peoples-tax-reform-plan/"
+},
+{
+"text": "Take the Oath",
+"href": "https://votewethepeople.com/take-the-oath/"
+},
+{
+"text": "The Creed",
+"href": "https://votewethepeople.com/the-farmer-servant-creed/"
+},
+{
+"text": "The Movement",
+"href": "https://votewethepeople.com/the-farmer-servant-movement/"
+},
+{
+"text": "The People’s Covenant to Oklahoma",
+"href": "https://votewethepeople.com/the-peoples-promise/"
+},
+{
+"text": "The Prayer",
+"href": "https://votewethepeople.com/the-farmer-servants-prayer/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@robertebrooksforgovernor"
+},
+{
+"text": "Vote - We the People! - The Farmer Servant[image: Vote - We the People! - The Farmer Servant]",
+"href": "https://votewethepeople.com/"
+},
+{
+"text": "[image: Ad]",
+"href": "https://www.amazon.com/Farmer-Servant-Mission-Divided-Against/dp/B0FVTX8JXL"
+}
 ]

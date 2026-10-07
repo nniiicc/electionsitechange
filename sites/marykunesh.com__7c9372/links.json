@@ -1,12 +1,46 @@
 [
-"http://fb.me/marykunesh4mn",
-"http://marykunesh.com/joinus",
-"https://marykunesh.com/",
-"https://marykunesh.com/about",
-"https://marykunesh.com/donate",
-"https://marykunesh.com/elections-2026",
-"https://marykunesh.com/joinus",
-"https://marykunesh.com/vision",
-"https://senate.mn/members/member_bio.html?mem_id=1242",
-"https://twitter.com/MaryKunesh9"
+{
+"text": "About",
+"href": "https://marykunesh.com/about/"
+},
+{
+"text": "Contribute",
+"href": "https://marykunesh.com/donate/"
+},
+{
+"text": "Election 2026",
+"href": "https://marykunesh.com/elections-2026/"
+},
+{
+"text": "Facebook",
+"href": "http://fb.me/marykunesh4mn"
+},
+{
+"text": "Home",
+"href": "https://marykunesh.com/"
+},
+{
+"text": "Join Us",
+"href": "https://marykunesh.com/joinus/"
+},
+{
+"text": "Join our grassroots campaign!",
+"href": "http://www.marykunesh.com/joinus/"
+},
+{
+"text": "My Senate information can be found here.",
+"href": "https://www.senate.mn/members/member_bio.html?mem_id=1242"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/MaryKunesh9"
+},
+{
+"text": "Vision",
+"href": "https://marykunesh.com/vision/"
+},
+{
+"text": "[image: Mary Kunesh for Minnesota State Senate]",
+"href": "https://marykunesh.com/"
+}
 ]

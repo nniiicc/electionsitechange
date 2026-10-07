@@ -1,12 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/1R-qW9wMnhLi_SkWsQzZ9_8pLHUKy4ruR?usp=sharing",
-"https://facebook.com/voteleilanamvar",
-"https://instagram.com/voteleilanamvar",
-"https://leilanamvar.com/",
-"https://leilanamvar.com/endorsements",
-"https://leilanamvar.com/issues",
-"https://leilanamvar.com/meet-leila",
-"https://secure.actblue.com/donate/leilanamvar",
-"https://x.com/voteleilanamvar"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leilanamvar"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leilanamvar.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.leilanamvar.com/issues"
+},
+{
+"text": "Meet Leila",
+"href": "https://www.leilanamvar.com/meet-leila"
+},
+{
+"text": "Photo Gallery",
+"href": "https://drive.google.com/drive/folders/1R-qW9wMnhLi_SkWsQzZ9_8pLHUKy4ruR?usp=sharing"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Leila Namvar for California State Assembly District 47]",
+"href": "https://www.leilanamvar.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteleilanamvar"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteleilanamvar"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/voteleilanamvar"
+}
 ]

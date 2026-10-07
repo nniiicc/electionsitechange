@@ -1,14 +1,62 @@
 [
-"http://standupme.org/",
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://mainehousedemocrats.com/volunteer2026",
-"https://samzager.org/",
-"https://samzager.org/ballotpedia-survey",
-"https://samzager.org/endorsers",
-"https://samzager.org/leadership-and-education",
-"https://samzager.org/news",
-"https://samzager.org/priorities",
-"https://samzager.org/show-your-support",
-"https://samzager.org/taking-a-stand",
-"https://samzager.org/what-others-say"
+{
+"text": "Ballotpedia Survey",
+"href": "https://samzager.org/ballotpedia-survey/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Endorsers",
+"href": "https://samzager.org/endorsers/"
+},
+{
+"text": "Home",
+"href": "https://samzager.org/"
+},
+{
+"text": "Leadership and Education",
+"href": "https://samzager.org/leadership-and-education/"
+},
+{
+"text": "News",
+"href": "https://samzager.org/news/"
+},
+{
+"text": "Please consider contributing $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Priorities",
+"href": "https://samzager.org/priorities/"
+},
+{
+"text": "Show your support",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Sure, I'll chip in",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Taking a Stand",
+"href": "https://samzager.org/taking-a-stand/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mainehousedemocrats.com/volunteer2026"
+},
+{
+"text": "What Others Say",
+"href": "https://samzager.org/what-others-say/"
+},
+{
+"text": "[image]",
+"href": "https://samzager.org"
+},
+{
+"text": "standupme.org",
+"href": "http://standupme.org"
+}
 ]

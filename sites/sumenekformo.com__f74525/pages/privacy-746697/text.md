@@ -1,7 +1,10 @@
-PRIVACY AND DATA
-Information you share with Sumenek for MO will be shared within the campaign and with the Missouri Democratic Party.
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE PRIVACY AND DATA Information you share with Sumenek for MO will be shared within the campaign and with the Missouri Democratic Party.
 We will not use your information for commercial purposes or sell your information to any other outside parties.
 The above excludes text messaging originator opt-in data and consent, which information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); and (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
 If you sign up to receive SMS texts messages from us, message and data rates may apply.
 We will text you information about the campaign, information about upcoming Sumenek for MO events and volunteer opportunities, helpful voter education information and reminders to vote.
 To OPT OUT of receiving emails and/or texts from us, please use the form below.
+OPT OUT FORM EXPLORE MEET MEREDITH PLATFORM THE DISTRICT SUPPORT EVENTS VOLUNTEER DONATE FOLLOW PRIVACY POLICY MEREDITH SUMENEK FOR MISSOURI Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314.649.8049 Email: info@sumenekformo.com Mail: 4648 Villa Knoll Drive, Saint Louis MO 63128 DONATE When you donate through ActBlue, ActBlue will retain 3.95% of the contribution for processing fees.
+Meredith Sumenek Campaign Fund will retain the remaining 96.05%.
+Prefer to send a check?
+Please send to Meredith Sumenek Campaign Fund, 4648 Villa Knoll Dr, Saint Louis MO 63128

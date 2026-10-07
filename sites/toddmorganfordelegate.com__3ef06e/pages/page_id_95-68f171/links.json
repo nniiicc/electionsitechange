@@ -1,12 +1,50 @@
 [
-"https://toddmorganfordelegate.com/",
-"https://toddmorganfordelegate.com/category/about-the-city",
-"https://toddmorganfordelegate.com/category/city-events",
-"https://toddmorganfordelegate.com/category/politics-environment",
-"https://toddmorganfordelegate.com/contacts",
-"https://toddmorganfordelegate.com/donate",
-"https://toddmorganfordelegate.com/our-platform-style-2",
-"https://toddmorganfordelegate.com/privacy",
-"https://toddmorganfordelegate.com/terms-of-service",
-"https://toddmorganfordelegate.com/volunteering"
+{
+"text": "About The City",
+"href": "https://toddmorganfordelegate.com/category/about-the-city/"
+},
+{
+"text": "About Todd",
+"href": "https://toddmorganfordelegate.com/our-platform-style-2/"
+},
+{
+"text": "City Events",
+"href": "https://toddmorganfordelegate.com/category/city-events/"
+},
+{
+"text": "Contact Us",
+"href": "https://toddmorganfordelegate.com/contacts/"
+},
+{
+"text": "Donate",
+"href": "https://toddmorganfordelegate.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "Politics & Enviroment",
+"href": "https://toddmorganfordelegate.com/category/politics-environment/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://toddmorganfordelegate.com/privacy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://toddmorganfordelegate.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://toddmorganfordelegate.com/volunteering/"
+},
+{
+"text": "[image: logo-footer-image]",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "[image]",
+"href": "https://toddmorganfordelegate.com/"
+}
 ]

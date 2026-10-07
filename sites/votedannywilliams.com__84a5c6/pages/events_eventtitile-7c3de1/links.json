@@ -1,16 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Event+Two&dates=20240711T233000Z%2F20240712T003000Z",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://facebook.com/VoteDannyWilliams",
-"https://secure.anedot.com/friends-of-danny-williams/donate",
-"https://votedannywilliams.com/",
-"https://votedannywilliams.com/about",
-"https://votedannywilliams.com/cart",
-"https://votedannywilliams.com/contact",
-"https://votedannywilliams.com/events",
-"https://votedannywilliams.com/events/doorknocking",
-"https://votedannywilliams.com/events/event-three-rbgcg",
-"https://votedannywilliams.com/events/eventtitile?format=ical",
-"https://votedannywilliams.com/home"
+{
+"text": "0",
+"href": "https://www.votedannywilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votedannywilliams.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votedannywilliams.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedannywilliams.com/events"
+},
+{
+"text": "Faq's",
+"href": "https://www.votedannywilliams.com/home#faq"
+},
+{
+"text": "Gallery",
+"href": "https://www.votedannywilliams.com/home#Gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Event+Two&dates=20240711T233000Z%2F20240712T003000Z"
+},
+{
+"text": "Home",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votedannywilliams.com/events/eventtitile?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.votedannywilliams.com/home#news"
+},
+{
+"text": "Next Next July 12 Event Three",
+"href": "https://www.votedannywilliams.com/events/event-three-rbgcg"
+},
+{
+"text": "Previous Previous April 27 Door Knocking in Seminole, OK",
+"href": "https://www.votedannywilliams.com/events/doorknocking"
+},
+{
+"text": "VOTE DANNY WILLIAMS",
+"href": "https://www.votedannywilliams.com/home"
+},
+{
+"text": "[image: Vote Danny Williams]",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteDannyWilliams/"
+},
+{
+"text": "donate",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+}
 ]

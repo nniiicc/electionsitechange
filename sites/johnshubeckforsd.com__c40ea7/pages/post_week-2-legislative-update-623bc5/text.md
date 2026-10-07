@@ -1,9 +1,4 @@
-Week 2 - Legislative Update
-Representative John Shubeck | District 16
-South Dakota Legislature
-House of Representatives
-Originally Posted on Facebook: January 24, 2026
-This week the South Dakota House of Representatives really got into full swing with votes on several bills.
+top of page Home Meet John On the Issues News Menu Back to site Get Involved News Week 2 - Legislative Update Jan 24 3 min read Representative John Shubeck | District 16 South Dakota Legislature House of Representatives Originally Posted on Facebook : January 24, 2026 This week the South Dakota House of Representatives really got into full swing with votes on several bills.
 Two bills that I have supported in committee and on the floor dealt with education.
 HB 1078 dealt with agriculture education and HB 1034 dealt with physical education.
 House Bill (HB) 1078 sought to streamline the process by which Agricultural Education courses can be used to satisfy the science requirement for high school graduation.
@@ -32,5 +27,4 @@ Those were the two bills that I was most passionate about from last week.
 This next week I will present HB 1064 which will make it easier for livestock producers to direct market their meat to consumers.
 I will keep you updated as much as possible on Facebook.
 Additionally, please email me with any questions or come out and meet your state representatives in Parker on February 14th at 9:30 or Canton on February 14th at 1:00.
-Representative John Shubeck
-South Dakota District 16
+Representative John Shubeck South Dakota District 16 Recent Posts See All Week 6 - Legislative Update Week 5 - Legislative Update Week 3 - Legislative Update QUICK LINKS Home Meet John On the Issues Get Involved News Contact SOCIAL Facebook ​ CONTACT johnshubeckforsd@gmail.com 605-553-1094 ​ 29341 468th Ave Beresford, SD 57004 Paid for by John Shubeck for SD © # | Terms & Conditions | Privacy Policy | Accessibility Statement JOIN OUR NEWSLETTER First name Last name Email * Yes, subscribe me to your newsletter * Submit Home Meet John On the Issues News bottom of page

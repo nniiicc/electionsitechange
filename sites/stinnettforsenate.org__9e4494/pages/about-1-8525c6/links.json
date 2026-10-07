@@ -1,7 +1,26 @@
 [
-"https://squarespace.com/",
-"https://stinnettforsenate.org/",
-"https://stinnettforsenate.org/about-1",
-"https://stinnettforsenate.org/cart",
-"https://stinnettforsenate.org/main-ideas"
+{
+"text": "0",
+"href": "https://www.stinnettforsenate.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.stinnettforsenate.org/about-1"
+},
+{
+"text": "Home",
+"href": "https://www.stinnettforsenate.org/"
+},
+{
+"text": "Main Ideas",
+"href": "https://www.stinnettforsenate.org/main-ideas"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Stinnett For Senate",
+"href": "https://www.stinnettforsenate.org/"
+}
 ]

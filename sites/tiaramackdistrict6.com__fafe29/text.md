@@ -1,18 +1,5 @@
-TIARA MACK
-RI SENATE DISTRICT 6
-HOPE, IN ACTION.
-TIARA SUPPORTS
-Affordable housing for all
-Quality public schools
-LGBTQ Rights
-Criminal justice reform
-Common sense gun control
-Reproductive healthcare
-$15 minimum wage
-Climate Justice/Green New Deal
-A LETTER FROM TIARA
-Dear Friends and Neighbors,
-My name is Tiara Mack and I am running for State Senate District 6.
+0 Skip to Content Tiara Mack, RI Senate District 6 About Why I'm Running What We Believe Issues Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Cuestiones Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Contact Reach Out Social Media Contribute / Contribuir Open Menu Close Menu Tiara Mack, RI Senate District 6 About Why I'm Running What We Believe Issues Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Cuestiones Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Contact Reach Out Social Media Contribute / Contribuir Open Menu Close Menu Folder: About Back Why I'm Running What We Believe Folder: Issues Back Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Folder: Cuestiones Back Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Folder: Contact Back Reach Out Social Media Contribute / Contribuir TIARA MACK RI SENATE DISTRICT 6 CONTRIBUTE HOPE, IN ACTION.
+Join my email list WHY I’M RUNNING Find out about our campaign and mission LEARN MORE TAKE ACTION Sign up to volunteer FIND OUT HOW TIARA SUPPORTS Affordable housing for all Quality public schools LGBTQ Rights Criminal justice reform Common sense gun control Reproductive healthcare $15 minimum wage Climate Justice/Green New Deal A LETTER FROM TIARA Dear Friends and Neighbors, My name is Tiara Mack and I am running for State Senate District 6.
 I believe that all communities can, and should, have all the tools that they need to thrive.
 I believe we are all deserving of affordable housing, quality schools, a livable wage, clean air, and healthy communities, no matter your zip code.
 I grew up in a big family with many siblings, cousins, an amazing aunt, and a wonderful mother.
@@ -62,5 +49,7 @@ Patience is not an option.
 These communities have already spent decades waiting for justice, opportunity, and a fair shot.
 I think it’s time our representatives fight for everyone.
 That’s why I stopped waiting and decided to run for state senate.
-In Solidarity,
-Tiara Mack
+In Solidarity, Tiara Mack Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Campaign For info and updates First Name Last Name Email Address JOIN US Thank you!
+CONTACT // TIARAMACKRI@GMAIL.COM // +1 (401) 288-1288 CONTRIBUTE / CONTRIBUIR

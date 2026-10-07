@@ -1,10 +1,38 @@
 [
-"https://bsntech.com/",
-"https://dangosaforiowa.com/",
-"https://dangosaforiowa.com/contact",
-"https://dangosaforiowa.com/endorsements",
-"https://dangosaforiowa.com/get-involved",
-"https://dangosaforiowa.com/issues",
-"https://dangosaforiowa.com/meet-dan",
-"https://secure.actblue.com/donate/dan-gosa-for-iowa-1"
+{
+"text": "Contact",
+"href": "https://dangosaforiowa.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dan-gosa-for-iowa-1"
+},
+{
+"text": "Endorsements",
+"href": "https://dangosaforiowa.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://dangosaforiowa.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://dangosaforiowa.com/issues/"
+},
+{
+"text": "Meet Dan",
+"href": "https://dangosaforiowa.com/meet-dan/"
+},
+{
+"text": "Website Design",
+"href": "https://www.bsntech.com"
+},
+{
+"text": "[image: Affordable Website Design]",
+"href": "https://www.bsntech.com"
+},
+{
+"text": "[image: Dan Gosa for Iowa]",
+"href": "https://dangosaforiowa.com/"
+}
 ]

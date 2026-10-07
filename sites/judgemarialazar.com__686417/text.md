@@ -5,3 +5,4 @@ While this wasn't the result we hoped for, I'm proud of the way we ran this race
 That support means more than I can fully put into words.
 Thank you for being part of it.
 It has been an honor of a lifetime to earn your trust and connect with voters across my home state of Wisconsin.
+Follow Follow Follow PAID FOR BY FRIENDS OF MARIA LAZAR Friends of Maria Lazar PO Box 620476 Middleton, WI 53562 Privacy Policy

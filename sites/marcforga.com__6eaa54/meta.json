@@ -1,7 +1,12 @@
 {
  "description": "Marc McMain is a conservative businessman running for Georgia's 46th Senate District.",
  "final_url": "https://www.marcforgeorgia.com/",
+ "fingerprint": "49f4c661cf76ec97b3639b3c5b38a7edebc1a659",
+ "format": 3,
  "paid_for_by": "PAID FOR BY MARC FOR GEORGIA, INC",
  "title": "Home | Marc Mcmain for Georgia",
- "years_mentioned": []
+ "years_mentioned": [
+  "2003",
+  "2025"
+ ]
 }

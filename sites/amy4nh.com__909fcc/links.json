@@ -1,4 +1,10 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms"
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+}
 ]

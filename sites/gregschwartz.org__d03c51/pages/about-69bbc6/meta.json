@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.gregschwartz.org/about",
- "paid_for_by": null,
+ "fingerprint": "12e9b836e58995d4807d93af3e9ddbc9e2d4ef65",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Rep. Greg Schwartz",
- "years_mentioned": []
+ "years_mentioned": [
+  "1998",
+  "2009"
+ ]
 }

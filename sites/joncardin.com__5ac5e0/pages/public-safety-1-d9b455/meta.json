@@ -1,12 +1,14 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/public-safety-1",
- "paid_for_by": null,
+ "fingerprint": "59a56cdd6e1fa5bbe04085c5c52b185791a99e33",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Public Safety",
  "years_mentioned": [
+  "2007",
   "2013",
   "2014",
-  "2020",
   "2023"
  ]
 }

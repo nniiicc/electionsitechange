@@ -1,9 +1,34 @@
 [
-"https://secure.winred.com/friends-of-brian-stewart/donate-today",
-"https://stewartforohio.com/",
-"https://stewartforohio.com/contact.html",
-"https://stewartforohio.com/endorsements.html",
-"https://stewartforohio.com/issues.html",
-"https://stewartforohio.com/meet-brian.html",
-"https://stewartforohio.com/news.html"
+{
+"text": "Contact",
+"href": "https://www.stewartforohio.com/contact.html"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-brian-stewart/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stewartforohio.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.stewartforohio.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.stewartforohio.com/issues.html"
+},
+{
+"text": "Meet Brian",
+"href": "https://www.stewartforohio.com/meet-brian.html"
+},
+{
+"text": "News",
+"href": "https://www.stewartforohio.com/news.html"
+},
+{
+"text": "[image: BRIAN STEWART FOR STATE REPRESENTATIVE]",
+"href": "https://www.stewartforohio.com/"
+}
 ]

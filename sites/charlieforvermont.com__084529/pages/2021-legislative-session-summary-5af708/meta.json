@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.charlieforvermont.com/2021-legislative-session-summary",
- "paid_for_by": null,
- "title": "2021 Legislative Session Summary \u2014 Charlie Kimbell - Vermont Rep",
+ "fingerprint": "f648b8a27337e15d1dc53444d71165b250a763d7",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "2021 Legislative Session Summary — Charlie Kimbell - Vermont Rep",
  "years_mentioned": [
   "2016",
+  "2017",
   "2018",
   "2019",
   "2020",
@@ -12,6 +15,7 @@
   "2022",
   "2023",
   "2024",
+  "2025",
   "2026",
   "2027"
  ]

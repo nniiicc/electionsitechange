@@ -1,9 +1,7 @@
-EPLocalNews: Additional Q-and-A with Alex Falconer
-Here’s candidate Q-and-A content in addition to what appeared in EPLN’s print Voter Guide, mailed to Eden Prairie homes in early October.
+top of page IN THE NEWS Meet Alex The Issues VOTE EARLY Volunteer Endorsements More Use tab to navigate through the menu items.
+DONATE All Posts Press Releases In the News Letters to the Editor Search EPLocalNews: Additional Q-and-A with Alex Falconer Sep 27, 2024 3 min read Here’s candidate Q-and-A content in addition to what appeared in EPLN’s print Voter Guide, mailed to Eden Prairie homes in early October.
 We are repeating the Voter Guide’s introduction of the candidate.
-Alex Falconer
-Website: www.alexforhouse.org
-Falconer, the Democrat in the House District 49A race, is an 11-year resident of Eden Prairie who lives on Avon Court.
+Alex Falconer Website: www.alexforhouse.org Falconer, the Democrat in the House District 49A race, is an 11-year resident of Eden Prairie who lives on Avon Court.
 He is in charge of government affairs for the Campaign to Save the Boundary Waters, part of a coalition that advocates for federal and state legislation to protect the Boundary Waters Canoe Area Wilderness (BWCAW) in Minnesota.
 He said a career working for advocacy organizations and alongside residents and leaders on local, state and federal legislation has prepared him for elective office.
 As for community involvement, he is a volunteer coach for the Minnetonka Middle School East cross-country running team and for Minnetonka High School’s Nordic cross-country ski team.
@@ -31,4 +29,6 @@ FALCONER: If your toilet consistently flushes, if you rode a bus to the State Fa
 Like most government organizations or departments, they are not perfect, but they do a lot that provides stability and comfort in our daily lives.
 However, we can and should increase transparency and accountability to the taxpayers.
 We should expect better communication to residents, and ensure a fair and transparent auditing process so projects are on time and on budget.
-We must pursue a more accountable structure, perhaps with term limits or more oversight, given the members of the Met Council are appointed positions.
+We must pursue a more accountable structure, perhaps with term limits or more oversight, given the members of the Met Council are appointed positions. https://www.eplocalnews.org/2024/09/27/additional-q-and-a-with-alex-falconer/ In the News Recent Posts See All Letter to the Editor: Support for Falconer as education advocate Letter to the Editor: Falconer earns voter’s support for state House Letter to the Editor: Letter writer criticizes GOP tax plans, backs DFL House candidates Falconer, Kotyza-Witthuhn Meet Alex The Issues VOTE EARLY Volunteer Endorsements More Use tab to navigate through the menu items.
+Meet Alex The Issues VOTE EARLY Volunteer Endorsements DONATE alexforhouse@gmail.com ©# by Alex For House Prepared and paid for by Campaign Fund of Alexander Falconer P.O.
+Box 1346 Minnetonka, MN 55345 bottom of page

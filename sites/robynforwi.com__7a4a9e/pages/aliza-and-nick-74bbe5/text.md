@@ -1,5 +1,4 @@
-Aliza and Nick
-I am voting to re-elect Robyn because she is a champion for all of her constituents.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Aliza and Nick More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett I am voting to re-elect Robyn because she is a champion for all of her constituents.
 She listens to her community to ensure she is a true representative of our voices and values.
 Robyn is grounded and empathetic to the issues and concerns in our district, and takes action to make positive change.
 When I ran into her at a neighborhood event, I wanted to say a quick hello and thank her for her work, but she insisted that we sit down together and asked me “What issues do you care about?
@@ -12,4 +11,4 @@ Our community flourishes when it is safe, healthy, and inclusive of people of al
 We need leaders in office who sit down to listen to their neighbors’ stories of both success and struggle.
 Robyn is that leader.
 She puts humanity and humble service back into government.
-I trust Robyn to continue her outstanding work in the legislature and that is why I am proudly voting for Robyn again and invite you to do the same!” -Aliza
+I trust Robyn to continue her outstanding work in the legislature and that is why I am proudly voting for Robyn again and invite you to do the same!” -Aliza More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

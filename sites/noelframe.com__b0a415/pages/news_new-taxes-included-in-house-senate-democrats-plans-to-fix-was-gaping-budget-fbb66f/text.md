@@ -1,6 +1,4 @@
-New taxes included in House, Senate Democrats’ plans to fix WA’s gaping budget hole
-By Simone Carter for the Washington State Standard • March 25, 2025
-Democratic lawmakers in both chambers of the Washington Legislature on Monday rolled out proposals to close the multi-billion-dollar hole in the state’s operating budget.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate New taxes included in House, Senate Democrats’ plans to fix WA’s gaping budget hole Mar 25 Written By Upper Left Strategies By Simone Carter for the Washington State Standard • March 25, 2025 Democratic lawmakers in both chambers of the Washington Legislature on Monday rolled out proposals to close the multi-billion-dollar hole in the state’s operating budget.
 While both plans include new taxes, Senate lawmakers adopted a more aggressive approach.
 Before the end of this year’s 105-day legislative session, lawmakers will need to negotiate and agree on a budget, which then must be signed by Gov.
 Bob Ferguson.
@@ -48,9 +46,12 @@ Chris Gildon, was among the “yes” votes.
 State Rep.
 Travis Couture, the ranking Republican on the House Appropriations Committee, blasted the lower chamber’s budget proposal in a statement.
 He railed against a “devastating” set of suggested tax hikes.
-“If Democrats pass this budget without reforming the budget process,” the Allyn Republican said, “we will have continued reckless spending and increased taxes, but we will be back here once again facing the same budget woes in the future, and regular Washingtonians will pay the price.”
-Senate Republican budget writers have insisted the budget can be balanced without imposing new taxes or drastic cuts.
+“If Democrats pass this budget without reforming the budget process,” the Allyn Republican said, “we will have continued reckless spending and increased taxes, but we will be back here once again facing the same budget woes in the future, and regular Washingtonians will pay the price.” Senate Republican budget writers have insisted the budget can be balanced without imposing new taxes or drastic cuts.
 Gildon, a Puyallup Republican, took aim at his Democratic counterparts’ plan.
 “It’s easy to see what the majority values most — just look at all the new spending, and how more than half of the 10 largest line items are about increasing pay and benefits for public servants,” Gildon said in a statement.
 The Senate and House budget proposals both receive public hearings this week.
 Lawmakers must negotiate and approve a final budget by April 27, the last day of session.
+Upper Left Strategies https://upperleftstrategies.com Previous Previous Push for social media safeguards to protect children derails in Washington House Next Next Democratic state senators push $17B tax package to balance Washington budget HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

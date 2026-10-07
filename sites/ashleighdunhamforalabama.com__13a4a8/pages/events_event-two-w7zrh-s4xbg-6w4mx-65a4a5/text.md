@@ -1,10 +1,3 @@
-Back to All Events
-AshLeigh Meyer Dunham, a Jefferson County Juvenile Court Referee and attorney at Magic City Fertility Law, has 15 years of legal experience, including roles as a family law attorney and Special Circuit Court Judge.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events Birmingham Meet-and-Greet Saturday, July 11, 2026 2:00 PM 4:00 PM 5145 7th Court South Birmingham, Alabama, 35212 United States (map) Google Calendar ICS AshLeigh Meyer Dunham, a Jefferson County Juvenile Court Referee and attorney at Magic City Fertility Law, has 15 years of legal experience, including roles as a family law attorney and Special Circuit Court Judge.
 After seeking IVF care to start her family, she is now running for the Alabama Supreme Court, aiming to bring a family-centered perspective and ensure integrity, empathy, and equal access to justice for all Alabamians.
-Previous
-Previous
-July 9
-Florence Meet and Greet
-Next
-Next
-July 12
+Tagged: Birmingham Previous Previous July 9 Florence Meet and Greet Next Next July 12 Diaper Drive & Candidate Meet-and-Greet AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

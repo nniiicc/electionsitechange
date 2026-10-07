@@ -1,5 +1,4 @@
-By CHLOE TROFATTER
-Capital News Service
-LANSING — The Legislature is reviewing bills that would reduce insulin copays, allow pharmacies to provide emergency insulin refills and cover those refills under health insurance.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Legislature working to reduce insulin costs By CHLOE TROFATTER Capital News Service LANSING — The Legislature is reviewing bills that would reduce insulin copays, allow pharmacies to provide emergency insulin refills and cover those refills under health insurance.
 One vial of insulin can cost up to $100-$600 or more, according to GoodRX, a California-based telemedicine platform that helps users track prescription drug prices.
-Read More >
+Read More > Kelly Breen April 12, 2021 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Western students connect with legislators to advocate for environmental policies Kelly Breen April 26, 2021 Next Who's New in the Michigan House Representatives Kelly Breen January 5, 2021 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

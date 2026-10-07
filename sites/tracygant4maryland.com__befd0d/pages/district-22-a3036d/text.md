@@ -1,17 +1,4 @@
-Embedded Files
-DISTRICT 22 COMMUNITY
-FIGHTING FOR EVERY CORNER OF DISTRICT 22
-District 22 is made up of vibrant municipalities and unincorporated communities, each with unique strengths and needs.
+Search this site Embedded Files Skip to main content Skip to navigation VOTE TRACY GANT 2026 Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE VOTE TRACY GANT 2026 Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE More Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE DISTRICT 22 COMMUNITY FIGHTING FOR EVERY CORNER OF DISTRICT 22 District 22 is made up of vibrant municipalities and unincorporated communities, each with unique strengths and needs.
 Tracy is committed to representing every resident and every neighborhood across the district in Annapolis.
-District 22:
-- Berwyn Heights
-- Edmonston
-- Greenbelt
-- Hyattsville
-- Landover Hills
-- New Carrollton
-- Riverdale Park
-- University Park
-Page updated
-Google Sites
-Report abuse
+District 22: Berwyn Heights Edmonston Greenbelt Hyattsville Landover Hills New Carrollton Riverdale Park University Park TRACY GANT FOR MD DELEGATE tracygant4maryland@tracygant4maryland.com Copyright © # By Authority of Friends of Tracy Gant, Bridgette Gant, Treasurer.
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Glenns+Ferry&dates=20260919T183000Z%2F20260919T200000Z&location=92+South+Joseph+Ferry+Drive%2C+Glenns+Ferry%2C+Idaho%2C+83623%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=92+South+Joseph+Ferry+Drive+Glenns+Ferry%2C+Idaho%2C+83623+United+States",
-"https://eventbrite.com/e/join-john-in-glenns-ferry-tickets-1999799529225",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/boise",
-"https://stegnerforidaho.com/events/glenns-ferry?format=ical",
-"https://stegnerforidaho.com/events/twin-falls-92326",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=92+south+joseph+ferry+drive+glenns+ferry%2C+idaho%2C+83623+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Glenns+Ferry&dates=20260919T183000Z%2F20260919T200000Z&location=92+South+Joseph+Ferry+Drive%2C+Glenns+Ferry%2C+Idaho%2C+83623%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/glenns-ferry?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next September 23 Join John at An Evening with Independent Candidates",
+"href": "https://www.stegnerforidaho.com/events/twin-falls-92326"
+},
+{
+"text": "Previous Previous September 17 Join John in Boise",
+"href": "https://www.stegnerforidaho.com/events/boise"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.eventbrite.com/e/join-john-in-glenns-ferry-tickets-1999799529225"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "https://www.stegnerforidaho.com/events",
+"href": "https://www.stegnerforidaho.com/events"
+}
 ]

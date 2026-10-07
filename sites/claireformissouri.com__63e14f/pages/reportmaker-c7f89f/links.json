@@ -1,9 +1,30 @@
 [
-"https://claireformissouri.com/",
-"https://claireformissouri.com/aidem",
-"https://claireformissouri.com/aidem\"Media",
-"https://claireformissouri.com/legal-notice",
-"https://claireformissouri.com/privacy",
-"https://facebook.com/profile.php?id=61567407576444",
-"https://instagram.com/claireformissouri?igsh=MWZiMDFmOWY3azEwZw%3D%3D"
+{
+"text": "Legal Notice",
+"href": "https://claireformissouri.com/legal-notice"
+},
+{
+"text": "MEDIA",
+"href": "https://claireformissouri.com/aidem"
+},
+{
+"text": "Privacy Policy",
+"href": "https://claireformissouri.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://claireformissouri.com/aidem%22Media"
+},
+{
+"text": "[tooltip: Claire for District 110]",
+"href": "https://www.facebook.com/profile.php?id=61567407576444"
+},
+{
+"text": "[tooltip: Claire on Instagram!]",
+"href": "https://www.instagram.com/claireformissouri?igsh=MWZiMDFmOWY3azEwZw%3D%3D"
+},
+{
+"text": "claireformissouri.com",
+"href": "https://claireformissouri.com"
+}
 ]

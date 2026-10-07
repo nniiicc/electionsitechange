@@ -1,18 +1,74 @@
 [
-"https://bikebus.org/what-are-the-benefits-of-cycling-to-school",
-"https://colibriwp.com/",
-"https://educationdata.org/public-education-spending-statistics",
-"https://jbartlett.org/wp-content/uploads/NH-Ed-Funding-Trends-2020-24-2025-4.pdf",
-"https://kylehainesnh.com/",
-"https://kylehainesnh.com/about-2",
-"https://kylehainesnh.com/contact",
-"https://kylehainesnh.com/democracy-representation",
-"https://kylehainesnh.com/education",
-"https://kylehainesnh.com/housing-main-street",
-"https://kylehainesnh.com/justice-safety-accountability",
-"https://kylehainesnh.com/pillars-2",
-"https://kylehainesnh.com/rights-liberty",
-"https://kylehainesnh.com/schedule",
-"https://kylehainesnh.com/stewardship-conservation-energy-the-future",
-"https://lunduniversity.lu.se/article/free-and-nutritious-school-lunches-help-create-richer-and-healthier-adults"
+{
+"text": "About",
+"href": "https://kylehainesnh.com/about-2/"
+},
+{
+"text": "Colibri",
+"href": "https://colibriwp.com"
+},
+{
+"text": "Contact",
+"href": "https://kylehainesnh.com/contact/"
+},
+{
+"text": "Democracy & Representation",
+"href": "https://kylehainesnh.com/democracy-representation/"
+},
+{
+"text": "Education",
+"href": "https://kylehainesnh.com/education/"
+},
+{
+"text": "HERE (Educationdata.org Public Education Spending Statistics)",
+"href": "https://educationdata.org/public-education-spending-statistics/#nh"
+},
+{
+"text": "HERE (Josiah Bartlett Center for Public Policy, Falling Students, Rising Spending II)",
+"href": "https://jbartlett.org/wp-content/uploads/NH-Ed-Funding-Trends-2020-24-2025-4.pdf"
+},
+{
+"text": "HERE( BikeBus.org Benefits of Cycling to School)",
+"href": "https://bikebus.org/what-are-the-benefits-of-cycling-to-school"
+},
+{
+"text": "HERE(Lund University Free and Nutritious School Lunches Create Richer and Healthier Adults)",
+"href": "https://www.lunduniversity.lu.se/article/free-and-nutritious-school-lunches-help-create-richer-and-healthier-adults"
+},
+{
+"text": "Home",
+"href": "https://kylehainesnh.com/"
+},
+{
+"text": "Housing & Main Street",
+"href": "https://kylehainesnh.com/housing-main-street/"
+},
+{
+"text": "Justice, Safety & Accountability",
+"href": "https://kylehainesnh.com/justice-safety-accountability/"
+},
+{
+"text": "Pillars",
+"href": "https://kylehainesnh.com/pillars-2/"
+},
+{
+"text": "Rights & Liberties",
+"href": "https://kylehainesnh.com/rights-liberty/"
+},
+{
+"text": "Schedule",
+"href": "https://kylehainesnh.com/schedule/"
+},
+{
+"text": "Stewardship: Conservation, Energy & The Future",
+"href": "https://kylehainesnh.com/stewardship-conservation-energy-the-future/"
+},
+{
+"text": "[image]",
+"href": "https://kylehainesnh.com"
+},
+{
+"text": "[no text]",
+"href": "https://kylehainesnh.com/"
+}
 ]

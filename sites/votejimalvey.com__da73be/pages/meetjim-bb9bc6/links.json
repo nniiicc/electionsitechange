@@ -1,11 +1,46 @@
 [
-"https://donate.stripe.com/4gMcMYem33ukdPd2wP8bS00",
-"https://votejimalvey.com/",
-"https://votejimalvey.com/cart",
-"https://votejimalvey.com/home",
-"https://votejimalvey.com/media",
-"https://votejimalvey.com/meetjim",
-"https://votejimalvey.com/priorities",
-"https://votejimalvey.com/team",
-"https://votejimalvey.com/volunteer"
+{
+"text": "0",
+"href": "https://www.votejimalvey.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.votejimalvey.com/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/4gMcMYem33ukdPd2wP8bS00"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejimalvey.com/team"
+},
+{
+"text": "Home",
+"href": "https://www.votejimalvey.com/"
+},
+{
+"text": "Home",
+"href": "https://www.votejimalvey.com/home"
+},
+{
+"text": "Media",
+"href": "https://www.votejimalvey.com/media"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.votejimalvey.com/meetjim"
+},
+{
+"text": "Priorities",
+"href": "https://www.votejimalvey.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejimalvey.com/volunteer"
+},
+{
+"text": "[image: Jim Alvey for Utah State House District 10]",
+"href": "https://www.votejimalvey.com/"
+}
 ]

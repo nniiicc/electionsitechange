@@ -1,5 +1,4 @@
-Janelle believes in
-FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE
-President Trump and his Administration have raised costs, thrown our economy into chaos, and trampled on our democracy and ideals.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Issues Meet Janelle Issues Press Media Center Donate Issues LOWERING THE COST OF HOUSING STRENGTHENING THE ECONOMY AND CREATING JOBS IMPROVING ACCESS TO EDUCATION FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE TAKING CLIMATE ACTION LOWERING THE COST OF HEALTH CARE PROTECTING REPRODUCTIVE RIGHTS ENDING HOMELESSNESS Janelle believes in FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE President Trump and his Administration have raised costs, thrown our economy into chaos, and trampled on our democracy and ideals.
 Janelle has been outspoken against this Administration’s state sponsored terror, their attempted takeover of Oregon, and their ill-advised economic policies that sent costs skyrocketing.
 She’ll always stand up and fight for Oregonians.
+Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

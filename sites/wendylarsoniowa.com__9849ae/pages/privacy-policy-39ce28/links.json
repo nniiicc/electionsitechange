@@ -1,8 +1,38 @@
 [
-"https://facebook.com/Wendy.Larson.For.Iowa.House",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.anedot.com/wendy-larson-for-iowa-house/donate",
-"https://wendylarsoniowa.com/",
-"https://wendylarsoniowa.com/iowa-house-district-7",
-"https://wendylarsoniowa.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/wendy-larson-for-iowa-house/donate"
+},
+{
+"text": "Home",
+"href": "https://wendylarsoniowa.com/"
+},
+{
+"text": "Iowa House District 7",
+"href": "https://wendylarsoniowa.com/iowa-house-district-7"
+},
+{
+"text": "Join Our Team!",
+"href": "https://wendylarsoniowa.com/#3ad1e754-0b8d-4c19-b733-9f4a69ee7caa"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wendylarsoniowa.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://wendylarsoniowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Wendy.Larson.For.Iowa.House"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "wendy@wendylarsoniowa.com",
+"href": "mailto:wendy@wendylarsoniowa.com"
+}
 ]

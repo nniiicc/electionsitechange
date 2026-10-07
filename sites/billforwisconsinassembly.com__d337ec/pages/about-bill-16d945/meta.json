@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.billforwisconsinassembly.com/about-bill",
+ "fingerprint": "50b1caba9c0d45fdfeeef2586cbe28de06b84c4b",
+ "format": 3,
  "paid_for_by": "Paid for by Bill for Wisconsin Assembly",
- "title": "About Bill \u2014 Your Site Title",
- "years_mentioned": []
+ "title": "About Bill — Your Site Title",
+ "years_mentioned": [
+  "2001"
+ ]
 }

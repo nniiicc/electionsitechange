@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Paint+%26+Sip+Fundraiser&dates=20260815T230000Z%2F20260816T013000Z&location=Shrewsbury%2C+PA%2C+United+States",
-"http://maps.google.com/?q=+Shrewsbury%2C+PA+United+States",
-"https://barnesforpa93.com/",
-"https://barnesforpa93.com/blog",
-"https://barnesforpa93.com/cart",
-"https://barnesforpa93.com/events",
-"https://barnesforpa93.com/events/new-freedom-end-of-summer-parade",
-"https://barnesforpa93.com/events/paint-sip-fundraiser?format=ical",
-"https://barnesforpa93.com/events/penn-ag-democrats-summer-picnic",
-"https://facebook.com/people/Missy-Barnes-for-PA-93/61578485223105",
-"https://instagram.com/missybarnesforpa93",
-"https://secure.actblue.com/donate/missy-barnes-1",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+shrewsbury%2C+pa+united+states"
+},
+{
+"text": "0",
+"href": "https://barnesforpa93.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Blog",
+"href": "https://barnesforpa93.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missy-barnes-1"
+},
+{
+"text": "Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Paint+%26+Sip+Fundraiser&dates=20260815T230000Z%2F20260816T013000Z&location=Shrewsbury%2C+PA%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://barnesforpa93.com/events/paint-sip-fundraiser?format=ical"
+},
+{
+"text": "Next Next August 29 New Freedom End Of Summer Parade",
+"href": "https://barnesforpa93.com/events/new-freedom-end-of-summer-parade"
+},
+{
+"text": "Previous Previous August 12 Penn Ag Democrats Summer Picnic",
+"href": "https://barnesforpa93.com/events/penn-ag-democrats-summer-picnic"
+},
+{
+"text": "Priorities & Values",
+"href": "https://barnesforpa93.com/#priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Forward Together]",
+"href": "https://barnesforpa93.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Missy-Barnes-for-PA-93/61578485223105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missybarnesforpa93/"
+}
 ]

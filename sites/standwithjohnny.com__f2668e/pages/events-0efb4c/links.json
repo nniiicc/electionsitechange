@@ -1,12 +1,50 @@
 [
-"https://facebook.com/austin.thompson.1829",
-"https://instagram.com/Johnny.athompson",
-"https://secure.actblue.com/donate/standwithjohnny",
-"https://secure.actblue.com/donate/standwithjohnny?amount=10",
-"https://secure.actblue.com/donate/standwithjohnny?amount=25",
-"https://secure.actblue.com/donate/standwithjohnny?amount=50",
-"https://standwithjohnny.com/",
-"https://standwithjohnny.com/about",
-"https://standwithjohnny.com/events",
-"https://standwithjohnny.com/posts"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/standwithjohnny?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/standwithjohnny?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/standwithjohnny?amount=50"
+},
+{
+"text": "About",
+"href": "https://standwithjohnny.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/standwithjohnny"
+},
+{
+"text": "Events",
+"href": "https://standwithjohnny.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/austin.thompson.1829"
+},
+{
+"text": "Give any amount",
+"href": "https://secure.actblue.com/donate/standwithjohnny"
+},
+{
+"text": "Home",
+"href": "https://standwithjohnny.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/Johnny.athompson"
+},
+{
+"text": "Updates",
+"href": "https://standwithjohnny.com/posts/"
+},
+{
+"text": "[image: Johnny Thompson — Florida Deserves Better]",
+"href": "https://standwithjohnny.com/"
+}
 ]

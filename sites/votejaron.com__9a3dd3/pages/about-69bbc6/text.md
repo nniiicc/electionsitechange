@@ -1,6 +1,4 @@
-JARON DELIVERS:
-Past Work, Continuing Priorities
-When we say “Jaron Delivers,” we don’t mean pizza.
+Skip to content Facebook Instagram Linkedin Contribute Policies Shop Volunteer Endorsements All Endorsements Endorse Jaron About Get Updates Media Contact JARON DELIVERS: Past Work, Continuing Priorities When we say “Jaron Delivers,” we don’t mean pizza.
 We mean a leader who listens, finds a way, empowers his team, and gets the job done.
 From sidewalks to youth sports fields to narcotics enforcement, Jaron is about real progress on issues.
 Ink is cheap.
@@ -8,107 +6,46 @@ Actions speak louder.
 “Worthy goals take great teams and support.
 I saw those teams didn’t have the resources or leadership they needed.
 I’ve only done my part to prioritize our most difficult challenges, support those on the front lines of solving them, and get out there myself to show anyone can make a difference.
-This is exactly the GSD attitude I will bring to Sacramento for us.” — Jaron
-Public Safety
-From a Sheriff’s office with the lowest-paid deputies of any city or county in the region in 2021 and struggling with significant chronic vacancies and personnel loss, Jaron recognized that protecting public safety is our first priority.
+This is exactly the GSD attitude I will bring to Sacramento for us.” — Jaron Public Safety From a Sheriff’s office with the lowest-paid deputies of any city or county in the region in 2021 and struggling with significant chronic vacancies and personnel loss, Jaron recognized that protecting public safety is our first priority.
 The last five years have seen aggressive investments (some of the largest in Tuolumne County history) which helped re-establish a fully-staffed department expanding its service to the community and reducing minimum response times.
-- Restoring competitive deputy pay through two aggressive one-year bargaining contracts that were the largest in County history turning emergency level vacancy rates into a fully staffed patrol division.
+Restoring competitive deputy pay through two aggressive one-year bargaining contracts that were the largest in County history turning emergency level vacancy rates into a fully staffed patrol division.
 This amounted to about a 24% total increase in pay to just under median for the region.
-- Restoring Captain ranks to retain home-grown experience and leadership over losses to laterals
-- Approving allocations for a new $1.8 million dispatch center to ensure 9-1-1 never goes down again while working with our Sheriff to address chronic vacancies and fatigue within the team from staffing shortfalls.
-- Re-establishing the Tuolumne Narcotics Team (TNT) through support and partnership with our Sheriff’s office, which, thanks to their work over the past 9 months of operation, has obtained over 30 felony convictions have been obtained against drug dealers and producers, particularly for fentanyl.
-- Shutting down all long-standing illegal encampments around his district one by one, which had allowed drug use, fire risk, and economic distress in main street areas.
+Restoring Captain ranks to retain home-grown experience and leadership over losses to laterals Approving allocations for a new $1.8 million dispatch center to ensure 9-1-1 never goes down again while working with our Sheriff to address chronic vacancies and fatigue within the team from staffing shortfalls.
+Re-establishing the Tuolumne Narcotics Team (TNT) through support and partnership with our Sheriff’s office, which, thanks to their work over the past 9 months of operation, has obtained over 30 felony convictions have been obtained against drug dealers and producers, particularly for fentanyl.
+Shutting down all long-standing illegal encampments around his district one by one, which had allowed drug use, fire risk, and economic distress in main street areas.
 In 2013, the Rim Fire devastated the Stanislaus National Forest as California’s first megafire.
 Despite work in forest management, however, local fire equipment atrophied while service hadn’t expanded.
 Jaron prioritized increasing fire coverage, modernizing equipment, and enacting safe fire practices to ensure Tuolumne would be safe.
-- More than doubling fire station coverage in vulnerable communities, the first expansion since 2013
-- Halving the age of fire fleet apparatus that was breaking down en route to calls, from 26 years to 12
-- Implementing new vegetation management provisions and fire clearance requirements
-- Supporting the work of Yosemite Stanislaus Solutions (YSS) in treating over 300,000 acres of federal forest which is now more fire resilient and productive.
-- Soliciting and approving biomass utilization plants to ensure all fuels are disposed of cleanly, safely, and creating local jobs and exports, including green hydrogen fuels
-- Rebuilding CHIPS Forestry, a 501(c)3 nonprofit that supports tribal fuel reduction crews
-Fires & Forests
-Housing & Development
-After 20 years of not building, housing construction was not a priority of leadership when Jaron first ran.
+More than doubling fire station coverage in vulnerable communities, the first expansion since 2013 Halving the age of fire fleet apparatus that was breaking down en route to calls, from 26 years to 12 Implementing new vegetation management provisions and fire clearance requirements Supporting the work of Yosemite Stanislaus Solutions (YSS) in treating over 300,000 acres of federal forest which is now more fire resilient and productive.
+Soliciting and approving biomass utilization plants to ensure all fuels are disposed of cleanly, safely, and creating local jobs and exports, including green hydrogen fuels Rebuilding CHIPS Forestry, a 501(c)3 nonprofit that supports tribal fuel reduction crews Fires & Forests Housing & Development After 20 years of not building, housing construction was not a priority of leadership when Jaron first ran.
 Despite the challenge, he put it as his #1 campaign issue to stop locals from being priced out of their homes.
 It has since become a top county priority with massive efforts to be builder-ready and support projects.
-- Cut red tape on accessory dwelling units (ADUs), conditional zonings, lot sizes, and housing policy
-- Modernized building process through a fully digital and concurrent permit system
-- Directed millions in funding from PLHA, REAP, and SB 2 for housing, utility, and policy improvement
-- Approved every housing project, including initiating a partnership with the Stanislaus Regional Housing Authority (SRHA) for 56 approved affordable units
-- Co-founded a local housing collaborative to bring together the community, developers, local planning staff, business owners, and community organizations to support pro-housing policy
-- Applying for the HCD Pro-Housing designation and acquiring funds for community-specific plans.
+Cut red tape on accessory dwelling units (ADUs), conditional zonings, lot sizes, and housing policy Modernized building process through a fully digital and concurrent permit system Directed millions in funding from PLHA, REAP, and SB 2 for housing, utility, and policy improvement Approved every housing project, including initiating a partnership with the Stanislaus Regional Housing Authority (SRHA) for 56 approved affordable units Co-founded a local housing collaborative to bring together the community, developers, local planning staff, business owners, and community organizations to support pro-housing policy Applying for the HCD Pro-Housing designation and acquiring funds for community-specific plans.
 We all agree there are many opportunities to make government more efficient.
 Jaron has been an outspoken advocate of government efficiency and fiscal discipline to ensure we prioritize our core mission.
-- Reduced highly paid administrative overhead through targeted staffing reductions and consolidations
-- Supporting the line staff groundskeepers, IT, and facilities workers who keep everything running
-- Doubled contributions to rebuilding a “rainy day fund” reserve to ensure the stability of operations
-- Created Section 115 trust funds to begin paying down unfunded pension liabilities
-- Promoted an award-winning budget transparency software through OpenGov to ensure easy, transparent citizen access
-- Modernizing cybersecurity by trusting in our IT team to ensure that systems are resilient to attack, from catastrophic backup to firewalls and redundant cloud storage to early AI threat detection.
-Government Efficiency
-Family & Youth Services
-Services for our families and kids have an incalculable value but are often left behind other priorities.
+Reduced highly paid administrative overhead through targeted staffing reductions and consolidations Supporting the line staff groundskeepers, IT, and facilities workers who keep everything running Doubled contributions to rebuilding a “rainy day fund” reserve to ensure the stability of operations Created Section 115 trust funds to begin paying down unfunded pension liabilities Promoted an award-winning budget transparency software through OpenGov to ensure easy, transparent citizen access Modernizing cybersecurity by trusting in our IT team to ensure that systems are resilient to attack, from catastrophic backup to firewalls and redundant cloud storage to early AI threat detection.
+Government Efficiency Family & Youth Services Services for our families and kids have an incalculable value but are often left behind other priorities.
 Over 5 years, we’ve restored funding, invested in arts, fixed up sports fields, and worked regionally on youth education programs like 4-H.
-- Restored cuts to libraries, youth centers, and recreation, supporting everything from community swim lessons to adult education, senior computer access, and children’s reading times after school
-- Facilitated a $50,000 investment in local arts and assisted in a $300,000 allocation from Sierra Jobs First to support the arts as a form of economic development
-- Initiated a seed fund to restore a local school play field, replacing grass, irrigation, and making it safe for Jamestown Elementary kids.
-- Invested in the UC Cooperative Extension through 4-H to protect the sustainability of kids programs
-- Regularly speaking to high school classes about local government, the importance of civic engagement, and encouraging active participation in their community
-Without infrastructure, our communities cannot be prosperous and grow.
+Restored cuts to libraries, youth centers, and recreation, supporting everything from community swim lessons to adult education, senior computer access, and children’s reading times after school Facilitated a $50,000 investment in local arts and assisted in a $300,000 allocation from Sierra Jobs First to support the arts as a form of economic development Initiated a seed fund to restore a local school play field, replacing grass, irrigation, and making it safe for Jamestown Elementary kids.
+Invested in the UC Cooperative Extension through 4-H to protect the sustainability of kids programs Regularly speaking to high school classes about local government, the importance of civic engagement, and encouraging active participation in their community Without infrastructure, our communities cannot be prosperous and grow.
 Over 4 years, Jaron has worked in expanding broadband, fixing sidewalks, repairing what were the worst roads in California, and steadily making progress on years of deferred maintenance.
-- Repaired long-deferred major road projects that increased the pavement condition index (PCI) by 10% in just 4 years, losing the “worst roads” title.
+Repaired long-deferred major road projects that increased the pavement condition index (PCI) by 10% in just 4 years, losing the “worst roads” title.
 There’s still much to be done here, particularly at the Capitol, in fixing our current infrastructure first.
-- Following through on a campaign promise, allocated $1.5 million from a Clean California grant to redo Main Street Jamestown sidewalks that had become hazards.
-- Led high-speed broadband internet efforts to include 1,200 new homes and 250 businesses through programmatic CEQA studies, a master build-out plan, hiring a broadband specialist, and challenging FCC data that falsely showed unserved areas as served in the “fabric.”
-- Partnering with CivicWell for millions in Safe Routes To Schools and Safe Routes for All grants at local elementary schools to ensure adequate parking, student safety, and walkability
-Roads & Infrastructure
-Homelessness
-With homelessness tripling in 2017 at nearly 1.4% of the population, it had reached a community crisis point.
+Following through on a campaign promise, allocated $1.5 million from a Clean California grant to redo Main Street Jamestown sidewalks that had become hazards.
+Led high-speed broadband internet efforts to include 1,200 new homes and 250 businesses through programmatic CEQA studies, a master build-out plan, hiring a broadband specialist, and challenging FCC data that falsely showed unserved areas as served in the “fabric.” Partnering with CivicWell for millions in Safe Routes To Schools and Safe Routes for All grants at local elementary schools to ensure adequate parking, student safety, and walkability Roads & Infrastructure Homelessness With homelessness tripling in 2017 at nearly 1.4% of the population, it had reached a community crisis point.
 Jaron spearheaded a three-legged stool approach to recovery services, housing, and strong enforcement that has created the first combined system to address this issue in county history — at no local cost.
-- Establishing a safe stay encampment site to provide a point of access to services while reducing the burden to law enforcement.
+Establishing a safe stay encampment site to provide a point of access to services while reducing the burden to law enforcement.
 It’s not only recognized as a critical tool for our law enforcement partners but also one of the most cost-effective interventions — funded entirely through state funding at less than $1,000 per person per year.
-- Founded the community-driven county Homelessness Committee to take the decision-making from back rooms for the community to public spaces with and by the community.
-- Acquired with Health & Human Services a 40-unit 6-month facility, a 2-year assisted living facility, and a veterans housing complex at no local cost, to ensure a hand up for those willing to seek help.
+Founded the community-driven county Homelessness Committee to take the decision-making from back rooms for the community to public spaces with and by the community.
+Acquired with Health & Human Services a 40-unit 6-month facility, a 2-year assisted living facility, and a veterans housing complex at no local cost, to ensure a hand up for those willing to seek help.
 This is the first coherent three-step housing pathway in county history, allowing people to move up.
-- Enacting strict camping restrictions prior to the Grants Pass decision to remove illegal encampments from ADA sidewalks, river flood areas, public safety facilities, schools, and utility infrastructure.
-- Provided grants to local nonprofits to flexibly invest, including replacing leaky commercial fridges at InterFaith and parking lots at the Food Bank.
+Enacting strict camping restrictions prior to the Grants Pass decision to remove illegal encampments from ADA sidewalks, river flood areas, public safety facilities, schools, and utility infrastructure.
+Provided grants to local nonprofits to flexibly invest, including replacing leaky commercial fridges at InterFaith and parking lots at the Food Bank.
 A position of leadership isn’t just meetings and email.
 Since day one and even before taking office, Jaron has been an engaged community member that leads by examples and celebrates his district.
-- Jaron maintains close friendships with both the Easter Bunny and Santa who come out to his district during the holidays.
+Jaron maintains close friendships with both the Easter Bunny and Santa who come out to his district during the holidays.
 Suspiciously, they’ve never been seen with Jaron in the same place.
-- Helping the #1PileAtATime group clean up thousands of yards of illegal dumping and waste
-- Volunteering during holidays to pack food and serve the less fortunate
-- Joining in community events such as Los Posades nativity reenactments and 4th of July parades
-- Recognizing the sacrifice of our Veterans at annual memorials, halls, and events
-- Taking 2nd place in the Tuolumne Lumber Jubilee “Bull of the Woods” with only a minor concussion
-Community Celebration!
+Helping the #1PileAtATime group clean up thousands of yards of illegal dumping and waste Volunteering during holidays to pack food and serve the less fortunate Joining in community events such as Los Posades nativity reenactments and 4th of July parades Recognizing the sacrifice of our Veterans at annual memorials, halls, and events Taking 2nd place in the Tuolumne Lumber Jubilee “Bull of the Woods” with only a minor concussion Community Celebration!
 Support recognized leadership that gets results.
 Join Jaron's team.
-Current Leadership Positions:
-Chair, Tuolumne County Board of Supervisors
-UC Agriculture & Natural Resource Presidential Advisory Committee Member
-Vice-Chair of the Central Sierra Economic Development District (CSEDD)
-Chair of CHIPS Forestry
-CALAFCO Board of Directors, Central California County Representative
-California State Rail Museum Foundation Board of Directors (CSRMF)
-Valley Sierra Small Business Development Center Advisory Board Member (SBDC)
-Board member of CivicWell
-Sierra Nevada Conservancy (SNC)
-Yosemite Stanislaus Solutions (YSS)
-Co-Founder of the Tuolumne County Housing Collaborative
-Amador-Tuolumne County Action Agency Board of Directors (ATCAA)
-Member of the Columbia Chamber of Commerce
-Member of the Jamestown Promotion Club
-Member of the Tuolumne Historic Railroad Association (THRA)
-Former Leadership Efforts:
-Vice-Chair of the National Association of Counties Technology and Telecommunications Committee
-Board of Directors for the Institute for Local Government (ILG)
-Yosemite Gateway Partners (YGP)
-Central Sierra Child Support Agency
-TC Housing & Planning Policy Committees
-TC Commission on Homelessness
-TC Behavioral Health Advisory Board
-TC Solid Waste Committee
-Tuolumne County Chamber of Commerce Board of Directors
-California Illegal Dumping Techincal Advisory Committee
+Current Leadership Positions: Chair, Tuolumne County Board of Supervisors UC Agriculture & Natural Resource Presidential Advisory Committee Member Vice-Chair of the Central Sierra Economic Development District (CSEDD) Chair of CHIPS Forestry CALAFCO Board of Directors, Central California County Representative California State Rail Museum Foundation Board of Directors (CSRMF) Valley Sierra Small Business Development Center Advisory Board Member (SBDC) Board member of CivicWell Sierra Nevada Conservancy (SNC) Yosemite Stanislaus Solutions (YSS) Co-Founder of the Tuolumne County Housing Collaborative Amador-Tuolumne County Action Agency Board of Directors (ATCAA) Member of the Columbia Chamber of Commerce Member of the Jamestown Promotion Club Member of the Tuolumne Historic Railroad Association (THRA) Former Leadership Efforts: Vice-Chair of the National Association of Counties Technology and Telecommunications Committee Board of Directors for the Institute for Local Government (ILG) Yosemite Gateway Partners (YGP) Central Sierra Child Support Agency TC Housing & Planning Policy Committees TC Commission on Homelessness TC Behavioral Health Advisory Board TC Solid Waste Committee Tuolumne County Chamber of Commerce Board of Directors California Illegal Dumping Techincal Advisory Committee Facebook Instagram Linkedin Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies Home Endorsements View All Endorse Jaron Contribute Volunteer About Get Updates Media Contact Privacy Policy Policies (209) 770-5084 info@votejaron.com 371 Lakeport Blvd, #391 Lakeport, CA 95453 Paid For By The Committee to Elect Jaron Brandon For State Senate 2026 FPPC# 1479551 Site by Sierra Focus Media

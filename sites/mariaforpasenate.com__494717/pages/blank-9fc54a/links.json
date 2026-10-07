@@ -1,11 +1,46 @@
 [
-"https://bsky.app/profile/mariaforpasenate.bsky.social",
-"https://facebook.com/MariaforPA",
-"https://instagram.com/mariaforpa",
-"https://mariaforpasenate.com/",
-"https://mariaforpasenate.com/about-6",
-"https://mariaforpasenate.com/blank",
-"https://mariaforpasenate.com/general-6-1",
-"https://secure.actblue.com/donate/maria-for-pa-1",
-"https://threads.com/@mariaforpa"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/maria-for-pa-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mariaforpasenate.com/blank"
+},
+{
+"text": "HOME",
+"href": "https://www.mariaforpasenate.com"
+},
+{
+"text": "MEDIA INQUIRIES",
+"href": "mailto:finn@mariaforpasenate.com?subject=Collett+Campaign+Inquiry"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.mariaforpasenate.com/about-6"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mariaforpasenate.com/general-6-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mariaforpasenate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MariaforPA/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mariaforpa/"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/mariaforpasenate.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.threads.com/@mariaforpa"
+}
 ]

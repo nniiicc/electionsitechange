@@ -1,7 +1,42 @@
 [
-"https://bentonsawrey.com/",
-"https://bentonsawrey.com/media",
-"https://bentonsawrey.com/wp-content/uploads/2022/02/Sawrey_043-scaled.jpg",
-"https://bentonsawrey.com/wp-content/uploads/2022/02/Sawrey_091-scaled.jpg",
-"https://bentonsawrey.com/wp-content/uploads/2022/02/Sawrey_162-scaled.jpg"
+{
+"text": "Donate",
+"href": "https://bentonsawrey.com/#donate"
+},
+{
+"text": "Download Image",
+"href": "https://bentonsawrey.com/wp-content/uploads/2022/02/Sawrey_043-scaled.jpg"
+},
+{
+"text": "Download Image",
+"href": "https://bentonsawrey.com/wp-content/uploads/2022/02/Sawrey_091-scaled.jpg"
+},
+{
+"text": "Download Image",
+"href": "https://bentonsawrey.com/wp-content/uploads/2022/02/Sawrey_162-scaled.jpg"
+},
+{
+"text": "Get Involved",
+"href": "https://bentonsawrey.com/#get-involved"
+},
+{
+"text": "Media",
+"href": "https://bentonsawrey.com/media/"
+},
+{
+"text": "Meet Benton",
+"href": "https://bentonsawrey.com/#meet-benton"
+},
+{
+"text": "News",
+"href": "https://bentonsawrey.com/#news"
+},
+{
+"text": "The Issues",
+"href": "https://bentonsawrey.com/#the-issues"
+},
+{
+"text": "[image: Logo]",
+"href": "https://bentonsawrey.com"
+}
 ]

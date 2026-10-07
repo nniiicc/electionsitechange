@@ -1,19 +1,114 @@
 [
-"https://facebook.com/mikerounds",
-"https://roundsforsenate.com/",
-"https://roundsforsenate.com/about",
-"https://roundsforsenate.com/contact",
-"https://roundsforsenate.com/issues",
-"https://roundsforsenate.com/media",
-"https://roundsforsenate.com/privacy-policy",
-"https://roundsforsenate.com/rounds-announces-re-election-bid",
-"https://roundsforsenate.com/sd-senator-mike-rounds-questions-epa-decision-on-ethanol",
-"https://roundsforsenate.com/sen-rounds-and-beef-industry-voice-approval-for-new-product-of-u-s-a-label-legislation",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D10",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D100",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D25",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D50",
-"https://twitter.com/RoundsforSenate",
-"https://youtube.com/@RoundsforSenateSD"
+{
+"text": "$10",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite%3Famount%3D50"
+},
+{
+"text": "About",
+"href": "https://roundsforsenate.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Issues",
+"href": "https://roundsforsenate.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://roundsforsenate.com/media/"
+},
+{
+"text": "Meet Mike",
+"href": "https://roundsforsenate.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://roundsforsenate.com/privacy-policy/"
+},
+{
+"text": "Read more",
+"href": "https://roundsforsenate.com/rounds-announces-re-election-bid/"
+},
+{
+"text": "Read more",
+"href": "https://roundsforsenate.com/sd-senator-mike-rounds-questions-epa-decision-on-ethanol/"
+},
+{
+"text": "Read more",
+"href": "https://roundsforsenate.com/sen-rounds-and-beef-industry-voice-approval-for-new-product-of-u-s-a-label-legislation/"
+},
+{
+"text": "Rounds Announces Re-election Bid",
+"href": "https://roundsforsenate.com/rounds-announces-re-election-bid/"
+},
+{
+"text": "SD Senator Mike Rounds Questions EPA Decision on Ethanol",
+"href": "https://roundsforsenate.com/sd-senator-mike-rounds-questions-epa-decision-on-ethanol/"
+},
+{
+"text": "Sen. Rounds and beef industry voice approval for new ‘Product of U.S.A’ label legislation",
+"href": "https://roundsforsenate.com/sen-rounds-and-beef-industry-voice-approval-for-new-product-of-u-s-a-label-legislation/"
+},
+{
+"text": "Take Action",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/rounds-announces-re-election-bid/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/sd-senator-mike-rounds-questions-epa-decision-on-ethanol/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/sen-rounds-and-beef-industry-voice-approval-for-new-product-of-u-s-a-label-legislation/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RoundsforSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikerounds"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RoundsforSenateSD"
+}
 ]

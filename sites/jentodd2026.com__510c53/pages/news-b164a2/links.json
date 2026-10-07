@@ -1,45 +1,190 @@
 [
-"https://bsky.app/profile/jentodd2026.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/jentoddforcongress",
-"https://instagram.com/jentodd2026",
-"https://jentodd2026.us/",
-"https://jentodd2026.us/about",
-"https://jentodd2026.us/campaign-updates",
-"https://jentodd2026.us/contact",
-"https://jentodd2026.us/endorse",
-"https://jentodd2026.us/events",
-"https://jentodd2026.us/issues",
-"https://jentodd2026.us/news/an-open-letter-to-congresswoman-mary-miller",
-"https://jentodd2026.us/news/big-energy-big-turnout-madison-county-democrats-kick-off-2026-election-season",
-"https://jentodd2026.us/news/candidates-for-15th-congressional-district-engage-with-community-at-springfield-forum",
-"https://jentodd2026.us/news/congressional-candidate-jennifer-todd-endorsed-by-citizen-action-in-illinois-15th-district",
-"https://jentodd2026.us/news/democrat-wants-to-unseat-a-3-term-republican-in-ultra-conservative-illinois-district",
-"https://jentodd2026.us/news/diesel-and-this-deadline-matter",
-"https://jentodd2026.us/news/https-www-prlog-org-13146198-jennifer-todd-to-host-virtual-community-conversation-on-data-centers-in-illinois-15th-district-html",
-"https://jentodd2026.us/news/illinois-afl-cio-endorses-jennifer-todd-for-congress-in-il-15",
-"https://jentodd2026.us/news/imagine",
-"https://jentodd2026.us/news/jennifer-todd-aims-to-challenge-rep-mary-miller-for-congressional-seat-in-2026",
-"https://jentodd2026.us/news/jennifer-todd-files-petitions",
-"https://jentodd2026.us/news/jennifer-todd-files-petitions-to-run-for-congress-in-illinois-15th-district",
-"https://jentodd2026.us/news/jennifer-todd-invites-il-15-candidates-to-sign-a-common-sense-pledge-to-restore-real-representation",
-"https://jentodd2026.us/news/jennifer-todd-launches-listening-tour-across-illinoiss-15th-congressional-district",
-"https://jentodd2026.us/news/jennifer-todd-mary-miller-backs-education-changes-that-endanger-critical-jobs-in-il-15",
-"https://jentodd2026.us/news/join-jennifer-for-an-end-of-quarter-fundraiser",
-"https://jentodd2026.us/news/listening-to-medical-evidence",
-"https://jentodd2026.us/news/local-democrat-to-challenge-mary-miller",
-"https://jentodd2026.us/news/mary-miller-needs-to-answer-for-this",
-"https://jentodd2026.us/news/no-pride-in-mary-millers-proposal",
-"https://jentodd2026.us/news/outrage",
-"https://jentodd2026.us/news/protest-trump-miller-mahomet",
-"https://jentodd2026.us/news/running-out-of-time",
-"https://jentodd2026.us/news/stronger-together-todds-campaign-surges-as-former-opponents-stand-united",
-"https://jentodd2026.us/news/wheres-the-beef",
-"https://jentodd2026.us/news/you-could-feel-it-in-the-air-the-minute-we-arrived",
-"https://jentodd2026.us/privacy-policy",
-"https://jentodd2026.us/volunteer",
-"https://secure.actblue.com/donate/deadline-september-30-2026",
-"https://store.jentodd2026.us/",
-"https://thetelegraph.com/news/article/madison-county-democrats-jfk-dinner-jennifer-todd-22412876.php",
-"https://tiktok.com/@jentodd2026"
+{
+"text": "About",
+"href": "https://www.jentodd2026.us/about"
+},
+{
+"text": "Campaign Updates",
+"href": "https://www.jentodd2026.us/campaign-updates"
+},
+{
+"text": "Contact",
+"href": "https://www.jentodd2026.us/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/deadline-september-30-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jentodd2026.us/endorse"
+},
+{
+"text": "Events",
+"href": "https://www.jentodd2026.us/events"
+},
+{
+"text": "Home",
+"href": "https://www.jentodd2026.us/"
+},
+{
+"text": "Issues",
+"href": "https://www.jentodd2026.us/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jentodd2026.us/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/an-open-letter-to-congresswoman-mary-miller"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/big-beautiful-bill-is-creating-an-ambulance-emergency-in-illinois-15"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/big-energy-big-turnout-madison-county-democrats-kick-off-2026-election-season"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/candidates-for-15th-congressional-district-engage-with-community-at-springfield-forum"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/congressional-candidate-jennifer-todd-endorsed-by-citizen-action-in-illinois-15th-district"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/democrat-wants-to-unseat-a-3-term-republican-in-ultra-conservative-illinois-district"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/diesel-and-this-deadline-matter"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/https-www-prlog-org-13146198-jennifer-todd-to-host-virtual-community-conversation-on-data-centers-in-illinois-15th-district-html"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/illinois-afl-cio-endorses-jennifer-todd-for-congress-in-il-15"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/imagine"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/jennifer-todd-aims-to-challenge-rep-mary-miller-for-congressional-seat-in-2026"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/jennifer-todd-files-petitions"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/jennifer-todd-files-petitions-to-run-for-congress-in-illinois-15th-district"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/jennifer-todd-invites-il-15-candidates-to-sign-a-common-sense-pledge-to-restore-real-representation"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/jennifer-todd-launches-listening-tour-across-illinoiss-15th-congressional-district"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/jennifer-todd-mary-miller-backs-education-changes-that-endanger-critical-jobs-in-il-15"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/join-jennifer-for-an-end-of-quarter-fundraiser"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/listening-to-medical-evidence"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/local-democrat-to-challenge-mary-miller"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/mary-miller-needs-to-answer-for-this"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/no-pride-in-mary-millers-proposal"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/outrage"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/protest-trump-miller-mahomet"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/running-out-of-time"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/stronger-together-todds-campaign-surges-as-former-opponents-stand-united"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/wheres-the-beef"
+},
+{
+"text": "Read more",
+"href": "https://www.jentodd2026.us/news/you-could-feel-it-in-the-air-the-minute-we-arrived"
+},
+{
+"text": "Read more",
+"href": "https://www.thetelegraph.com/news/article/madison-county-democrats-jfk-dinner-jennifer-todd-22412876.php"
+},
+{
+"text": "Store",
+"href": "https://store.jentodd2026.us/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jentodd2026.us/volunteer"
+},
+{
+"text": "[image: Jenntodd2026, Jennifer Todd for Congress]",
+"href": "https://www.jentodd2026.us/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jentodd2026.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/jentoddforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jentodd2026"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@jentodd2026"
+},
+{
+"text": "jennifer@jentodd2026.us",
+"href": "mailto:jennifer@jentodd2026.com"
+},
+{
+"text": "kurthkitty@gmail.com",
+"href": "mailto:PoliticalJunkie@gmail.com"
+}
 ]

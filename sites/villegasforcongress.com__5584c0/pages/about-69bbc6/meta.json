@@ -1,7 +1,11 @@
 {
- "description": "Randy is running for Congress in California\u2019s 22nd District",
+ "description": "Randy is running for Congress in California’s 22nd District",
  "final_url": "https://www.villegasforcongress.com/about",
- "paid_for_by": "Paid for by Villegas for Congress",
+ "fingerprint": "2240858281b7789516e71d0f324b8a1c1bc0cc5d",
+ "format": 3,
+ "paid_for_by": "Paid for by Villegas for Congress You need to enable JavaScript to run this app",
  "title": "Meet Randy - Villegas for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2017"
+ ]
 }

@@ -1,21 +1,82 @@
 [
-"http://nhhousegop.com/",
-"https://archives.gov/founding-docs/bill-of-rights",
-"https://archives.gov/founding-docs/constitution",
-"https://archives.gov/founding-docs/declaration-transcript",
-"https://bit.ly/3S7OJgc",
-"https://facebook.com/maureenmooneynh",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://nh.gop/platform",
-"https://nh.gov/glance/constitution.htm",
-"https://votemooney.com/",
-"https://votemooney.com/biography",
-"https://votemooney.com/contact-1",
-"https://votemooney.com/contribute",
-"https://votemooney.com/endorsement-testimonials",
-"https://votemooney.com/merrimack-voter-info",
-"https://votemooney.com/n-h-house-bills",
-"https://votemooney.com/on-the-issues",
-"https://x.com/MaureenCMooney",
-"https://youtube.com/watch?v=4uE-tqe0xsQ&t=68s"
+{
+"text": "Biography",
+"href": "https://votemooney.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://votemooney.com/contact-1"
+},
+{
+"text": "Contribute",
+"href": "https://votemooney.com/contribute"
+},
+{
+"text": "Endorsement Testimonials",
+"href": "https://votemooney.com/endorsement-testimonials"
+},
+{
+"text": "Home",
+"href": "https://votemooney.com/"
+},
+{
+"text": "Merrimack Voter Info",
+"href": "https://votemooney.com/merrimack-voter-info"
+},
+{
+"text": "N.H. House Bills",
+"href": "https://votemooney.com/n-h-house-bills"
+},
+{
+"text": "On the Issues",
+"href": "https://votemooney.com/on-the-issues"
+},
+{
+"text": "[image: Maureen Mooney for State Representative in Merrimack, N.H.]",
+"href": "https://votemooney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/maureenmooneynh"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/MaureenCMooney"
+},
+{
+"text": "http://www.nhhousegop.com/",
+"href": "http://www.nhhousegop.com/"
+},
+{
+"text": "https://bit.ly/3S7OJgc",
+"href": "https://bit.ly/3S7OJgc"
+},
+{
+"text": "https://nh.gop/platform/",
+"href": "https://nh.gop/platform/"
+},
+{
+"text": "https://www.archives.gov/founding-docs/bill-of-rights",
+"href": "https://www.archives.gov/founding-docs/bill-of-rights"
+},
+{
+"text": "https://www.archives.gov/founding-docs/constitution",
+"href": "https://www.archives.gov/founding-docs/constitution"
+},
+{
+"text": "https://www.archives.gov/founding-docs/declaration-transcript",
+"href": "https://www.archives.gov/founding-docs/declaration-transcript"
+},
+{
+"text": "https://www.nh.gov/glance/constitution.htm",
+"href": "https://www.nh.gov/glance/constitution.htm"
+},
+{
+"text": "https://www.youtube.com/watch?v=4uE-tqe0xsQ&t=68s",
+"href": "https://www.youtube.com/watch?v=4uE-tqe0xsQ&t=68s"
+}
 ]

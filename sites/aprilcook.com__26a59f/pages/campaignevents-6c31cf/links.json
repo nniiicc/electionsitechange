@@ -1,15 +1,58 @@
 [
-"https://aprilcook.com/",
-"https://aprilcook.com/campaignevents",
-"https://aprilcook.com/contactus",
-"https://aprilcook.com/copy-of-events",
-"https://aprilcook.com/meetapril",
-"https://aprilcook.com/platform",
-"https://docs.google.com/forms/d/e/1FAIpQLSf7_7cQ-qwDj7eOec6w6ngCTfxTgji7yOH-jabgR4fbYsyW0w/viewform?usp=sharing&ouid=101883557768735240046",
-"https://mobilize.us/nc-coordinated/event/1015065",
-"https://mobilize.us/nc-coordinated/event/961526",
-"https://mobilize.us/nc-coordinated/event/961530",
-"https://mobilize.us/nc-coordinated/event/986229",
-"https://secure.actblue.com/donate/ac10-3",
-"https://secure.actblue.com/donate/cook-website"
+{
+"text": "Contact Us",
+"href": "https://www.aprilcook.com/contactus"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cook-website"
+},
+{
+"text": "Events",
+"href": "https://www.aprilcook.com/campaignevents"
+},
+{
+"text": "Home",
+"href": "https://www.aprilcook.com"
+},
+{
+"text": "LINK",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf7_7cQ-qwDj7eOec6w6ngCTfxTgji7yOH-jabgR4fbYsyW0w/viewform?usp=sharing&ouid=101883557768735240046"
+},
+{
+"text": "LINK",
+"href": "https://secure.actblue.com/donate/ac10-3"
+},
+{
+"text": "LINK",
+"href": "https://www.mobilize.us/nc-coordinated/event/1015065/"
+},
+{
+"text": "LINK",
+"href": "https://www.mobilize.us/nc-coordinated/event/961526/"
+},
+{
+"text": "LINK",
+"href": "https://www.mobilize.us/nc-coordinated/event/961530/"
+},
+{
+"text": "LINK",
+"href": "https://www.mobilize.us/nc-coordinated/event/986229/"
+},
+{
+"text": "Meet April",
+"href": "https://www.aprilcook.com/meetapril"
+},
+{
+"text": "Platform",
+"href": "https://www.aprilcook.com/platform"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.aprilcook.com/copy-of-events"
+},
+{
+"text": "[image: VarB Background - Jasmine Gailliard.png]",
+"href": "https://www.aprilcook.com"
+}
 ]

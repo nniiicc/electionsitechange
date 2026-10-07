@@ -1,42 +1,222 @@
 [
-"http://facebook.com/hobbskatie",
-"http://instagram.com/katie4az",
-"http://twitter.com/katiehobbs",
-"http://youtube.com/@KatieHobbsAZ",
-"https://12news.com/video/news/politics/gov-hobbs-lt-gov-candidate-john-giles-visit-12news/75-b4ab45c5-6c8a-4bd4-bca0-257325179166",
-"https://52092-info.com/",
-"https://arizona.vote/",
-"https://azfamily.com/video/2026/08/11/gov-katie-hobbs-john-giles-sit-down-first-television-appearance?outputType=amp",
-"https://azmirror.com/2026/08/11/katie-hobbs-names-john-giles-as-her-running-mate-in-a-play-for-crossover-voters",
-"https://bloomberg.com/opinion/articles/2026-08-09/hobbs-bet-on-a-former-gop-running-mate-could-pay-off-in-arizona",
-"https://fox10phoenix.com/video/fmc-girc30fb0ziy4aaw",
-"https://go.katiehobbs.org/signup/katie-hobbs-sms-signup",
-"https://katiehobbs.org/",
-"https://katiehobbs.org/campaign-updates",
-"https://katiehobbs.org/campaign-updates/in-the-news",
-"https://katiehobbs.org/campaign-updates/press-releases",
-"https://katiehobbs.org/donate",
-"https://katiehobbs.org/get-involved",
-"https://katiehobbs.org/get-involved/email-signup",
-"https://katiehobbs.org/get-involved/volunteer",
-"https://katiehobbs.org/home/election-updates-2026",
-"https://katiehobbs.org/meet-john",
-"https://katiehobbs.org/meet-katie",
-"https://katiehobbs.org/ms-now-arizona-gov-hobbs-forms-bipartisan-re-election-ticket",
-"https://katiehobbs.org/privacy-policy",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=0",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=20.26",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=50",
-"https://store.katiehobbs.org/",
-"https://univision.com/local/arizona-ktvw/politica-arizona/katie-hobbs-john-giles-companero-formula",
-"https://washingtonpost.com/politics/2026/08/11/partisan-age-democratic-governor-goes-outside-her-brand-running-mate",
-"https://youtube.com/watch?v=l_eAYAC_5iQ&t=82s",
-"https://youtube.com/watch?v=oDaIWkzcBf0"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/kmh-web?express_lane=true&amount=50"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=100"
+},
+{
+"text": "$20.26",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=20.26"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=50"
+},
+{
+"text": "12 News",
+"href": "https://www.12news.com/video/news/politics/gov-hobbs-lt-gov-candidate-john-giles-visit-12news/75-b4ab45c5-6c8a-4bd4-bca0-257325179166"
+},
+{
+"text": "2026 AZ governor’s race: Hobbs, Giles address key issues",
+"href": "https://www.fox10phoenix.com/video/fmc-girc30fb0ziy4aaw"
+},
+{
+"text": "Campaign Updates",
+"href": "https://katiehobbs.org/campaign-updates/"
+},
+{
+"text": "Contribute",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://katiehobbs.org/donate"
+},
+{
+"text": "Election Updates 2026",
+"href": "https://katiehobbs.org/home/election-updates-2026/"
+},
+{
+"text": "Email Signup",
+"href": "https://katiehobbs.org/get-involved/email-signup/"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://katiehobbs.org/get-involved"
+},
+{
+"text": "Gob. Hobbs anuncia su compañero de fórmula, John Giles",
+"href": "https://www.youtube.com/watch?v=oDaIWkzcBf0"
+},
+{
+"text": "Gov. Hobbs, Lt. Gov. candidate John Giles visit 12News",
+"href": "https://www.12news.com/video/news/politics/gov-hobbs-lt-gov-candidate-john-giles-visit-12news/75-b4ab45c5-6c8a-4bd4-bca0-257325179166"
+},
+{
+"text": "Gov. Katie Hobbs, John Giles sit down for first television appearance",
+"href": "https://www.azfamily.com/video/2026/08/11/gov-katie-hobbs-john-giles-sit-down-first-television-appearance/?outputType=amp"
+},
+{
+"text": "In the News",
+"href": "https://katiehobbs.org/campaign-updates/in-the-news/"
+},
+{
+"text": "Join",
+"href": "https://katiehobbs.org/get-involved/"
+},
+{
+"text": "Katie Hobbs anuncia en N+Univision Arizona a John Giles como su compañero de fórmula",
+"href": "https://www.univision.com/local/arizona-ktvw/politica-arizona/katie-hobbs-john-giles-companero-formula"
+},
+{
+"text": "MS NOW: “Arizona Gov. Hobbs Forms Bipartisan Re-Election Ticket”",
+"href": "https://katiehobbs.org/ms-now-arizona-gov-hobbs-forms-bipartisan-re-election-ticket/"
+},
+{
+"text": "Meet John",
+"href": "https://katiehobbs.org/meet-john/"
+},
+{
+"text": "Meet Katie",
+"href": "https://katiehobbs.org/meet-katie/"
+},
+{
+"text": "Meet Katie Meet Katie",
+"href": "https://katiehobbs.org/meet-katie"
+},
+{
+"text": "Next Post",
+"href": "https://katiehobbs.org/ms-now-arizona-gov-hobbs-forms-bipartisan-re-election-ticket/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/khvf-web?express_lane=true&amount=0"
+},
+{
+"text": "Press Releases",
+"href": "https://katiehobbs.org/campaign-updates/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katiehobbs.org/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.katiehobbs.org"
+},
+{
+"text": "Terms of Service",
+"href": "https://52092-info.com"
+},
+{
+"text": "Text Message Updates",
+"href": "https://go.katiehobbs.org/signup/katie-hobbs-sms-signup/"
+},
+{
+"text": "Updates",
+"href": "https://katiehobbs.org/campaign-updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://katiehobbs.org/get-involved/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.arizona.vote/"
+},
+{
+"text": "[image: Katie Hobbs for Governor]",
+"href": "https://katiehobbs.org"
+},
+{
+"text": "[image: Katie Hobbs for Governor]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[image]",
+"href": "https://www.12news.com/video/news/politics/gov-hobbs-lt-gov-candidate-john-giles-visit-12news/75-b4ab45c5-6c8a-4bd4-bca0-257325179166"
+},
+{
+"text": "[image]",
+"href": "https://www.azfamily.com/video/2026/08/11/gov-katie-hobbs-john-giles-sit-down-first-television-appearance/?outputType=amp"
+},
+{
+"text": "[image]",
+"href": "https://www.fox10phoenix.com/video/fmc-girc30fb0ziy4aaw"
+},
+{
+"text": "[image]",
+"href": "https://www.univision.com/local/arizona-ktvw/politica-arizona/katie-hobbs-john-giles-companero-formula"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=oDaIWkzcBf0"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/hobbskatie"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/katie4az"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/katiehobbs"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@KatieHobbsAZ"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=%E2%80%9CFirst+of+Its+Kind%E2%80%9D%3A+Hobbs+and+Giles+Take+Their+Historic%2C+Bipartisan+Ticket+to+Arizona+Airwaves+-+Katie+Hobbs+for+Governor&body=https%3A%2F%2Fkatiehobbs.org%2Ffirst-of-its-kind-hobbs-and-giles-take-their-historic-bipartisan-ticket-to-arizona-airwaves%2F"
+},
+{
+"text": "called",
+"href": "https://www.bloomberg.com/opinion/articles/2026-08-09/hobbs-bet-on-a-former-gop-running-mate-could-pay-off-in-arizona"
+},
+{
+"text": "called",
+"href": "https://www.washingtonpost.com/politics/2026/08/11/partisan-age-democratic-governor-goes-outside-her-brand-running-mate/"
+},
+{
+"text": "info@katiehobbs.org",
+"href": "mailto:info@katiehobbs.org"
+},
+{
+"text": "noted",
+"href": "https://www.youtube.com/watch?v=l_eAYAC_5iQ&t=82s"
+},
+{
+"text": "said",
+"href": "https://azmirror.com/2026/08/11/katie-hobbs-names-john-giles-as-her-running-mate-in-a-play-for-crossover-voters/"
+}
 ]

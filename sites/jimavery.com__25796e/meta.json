@@ -1,7 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.jimavery.com/",
- "paid_for_by": null,
+ "fingerprint": "ec4beb909ca852af3c775c32e9712ebf3ac6cf89",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Avery for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1991",
+  "1995",
+  "2001",
+  "2003",
+  "2009"
+ ]
 }

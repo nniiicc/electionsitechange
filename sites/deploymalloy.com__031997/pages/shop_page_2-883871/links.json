@@ -1,35 +1,218 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/landing",
-"https://deploymalloy.com/landing/about",
-"https://deploymalloy.com/landing/album",
-"https://deploymalloy.com/landing/email-signup",
-"https://deploymalloy.com/landing/events",
-"https://deploymalloy.com/landing/positions",
-"https://deploymalloy.com/landing/qanda",
-"https://deploymalloy.com/landing/request-a-sign",
-"https://deploymalloy.com/product-category/help-deploy-malloy",
-"https://deploymalloy.com/product-category/lets-deploy-malloy",
-"https://deploymalloy.com/product-category/prayers",
-"https://deploymalloy.com/product-category/the-mission",
-"https://deploymalloy.com/product/14th-star-black-glossy-mug",
-"https://deploymalloy.com/product/embroidered-structured-twill-cap",
-"https://deploymalloy.com/product/malloy-black-glossy-mug",
-"https://deploymalloy.com/product/mug-with-black-inside",
-"https://deploymalloy.com/product/playing-cards",
-"https://deploymalloy.com/product/rocks-glass-2",
-"https://deploymalloy.com/product/shaker-pint-glass-2",
-"https://deploymalloy.com/product/skater-dress-2",
-"https://deploymalloy.com/product/womens-relaxed-t-shirt",
-"https://deploymalloy.com/product/yard-sign-3",
-"https://deploymalloy.com/shop",
-"https://deploymalloy.com/shop/page/1",
-"https://deploymalloy.com/shop/page/2?add-to-cart=4022",
-"https://deploymalloy.com/shop/page/2?add-to-cart=4024",
-"https://deploymalloy.com/shop/page/2?add-to-cart=4029",
-"https://deploymalloy.com/shop/page/3",
-"https://deploymalloy.com/shop/page/4",
-"https://facebook.com/geraldmalloyvt",
-"https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+{
+"text": "1",
+"href": "https://www.deploymalloy.com/shop/page/1/"
+},
+{
+"text": "14th Star Black Glossy Mug",
+"href": "https://www.deploymalloy.com/product/14th-star-black-glossy-mug/"
+},
+{
+"text": "3",
+"href": "https://www.deploymalloy.com/shop/page/3/"
+},
+{
+"text": "4",
+"href": "https://www.deploymalloy.com/shop/page/4/"
+},
+{
+"text": "About",
+"href": "https://www.deploymalloy.com/landing/about/"
+},
+{
+"text": "Album",
+"href": "https://www.deploymalloy.com/landing/album/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
+},
+{
+"text": "Embroidered Structured Twill Cap",
+"href": "https://www.deploymalloy.com/product/embroidered-structured-twill-cap/"
+},
+{
+"text": "Events",
+"href": "https://www.deploymalloy.com/landing/events/"
+},
+{
+"text": "Help Deploy Malloy!",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/"
+},
+{
+"text": "Home",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "Let's Deploy Malloy",
+"href": "https://www.deploymalloy.com/product-category/lets-deploy-malloy/"
+},
+{
+"text": "MALLOY Black Glossy Mug",
+"href": "https://www.deploymalloy.com/product/malloy-black-glossy-mug/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Mug with Black Inside",
+"href": "https://www.deploymalloy.com/product/mug-with-black-inside/"
+},
+{
+"text": "Playing cards",
+"href": "https://www.deploymalloy.com/product/playing-cards/"
+},
+{
+"text": "Positions",
+"href": "https://www.deploymalloy.com/landing/positions/"
+},
+{
+"text": "Prayers are welcome",
+"href": "https://www.deploymalloy.com/product-category/prayers/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Q&A",
+"href": "https://www.deploymalloy.com/landing/qanda/"
+},
+{
+"text": "Rocks glass",
+"href": "https://www.deploymalloy.com/product/rocks-glass-2/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/14th-star-black-glossy-mug/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/embroidered-structured-twill-cap/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/malloy-black-glossy-mug/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/mug-with-black-inside/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/skater-dress-2/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/womens-relaxed-t-shirt/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/yard-sign-3/"
+},
+{
+"text": "Shaker pint glass",
+"href": "https://www.deploymalloy.com/product/shaker-pint-glass-2/"
+},
+{
+"text": "Shop",
+"href": "https://www.deploymalloy.com/shop/"
+},
+{
+"text": "Signs",
+"href": "https://www.deploymalloy.com/landing/request-a-sign/"
+},
+{
+"text": "Skater Dress",
+"href": "https://www.deploymalloy.com/product/skater-dress-2/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.deploymalloy.com/landing/email-signup/"
+},
+{
+"text": "The mission",
+"href": "https://www.deploymalloy.com/product-category/the-mission/"
+},
+{
+"text": "Women’s Relaxed T-Shirt",
+"href": "https://www.deploymalloy.com/product/womens-relaxed-t-shirt/"
+},
+{
+"text": "Yard sign",
+"href": "https://www.deploymalloy.com/product/yard-sign-3/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/landing/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/playing-cards/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/14th-star-black-glossy-mug/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/embroidered-structured-twill-cap/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/malloy-black-glossy-mug/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/mug-with-black-inside/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/rocks-glass-2/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/shaker-pint-glass-2/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/skater-dress-2/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/womens-relaxed-t-shirt/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/yard-sign-3/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/2/?add-to-cart=4022"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/2/?add-to-cart=4024"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/2/?add-to-cart=4029"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/shop/page/3/"
+}
 ]

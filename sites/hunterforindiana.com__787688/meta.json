@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.hunterforindiana.com/",
- "paid_for_by": "Paid for by Hunter Smith for Indiana \u00a9 Copyright 2024 | Privacy Policy",
+ "fingerprint": "64f65a6de63230177d0d2c3d68f72191d17664fa",
+ "format": 3,
+ "paid_for_by": "Paid for by Hunter Smith for Indiana © Copyright #",
  "title": "Hunter for Indiana",
- "years_mentioned": []
+ "years_mentioned": [
+  "1999",
+  "2008"
+ ]
 }

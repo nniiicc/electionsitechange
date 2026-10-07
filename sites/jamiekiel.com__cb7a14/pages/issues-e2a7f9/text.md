@@ -1,7 +1,4 @@
-Believes in shrinking state government and cutting wasteful spending
-Will do everything in his power to improve infrastructure in Northwest Alabama
-Will reform the tax code to make Alabama more competitive in attracting new jobs and industry
-Staunch supporter of the 2nd Amendment
-100% pro-life
-Believes marriage is between one man and one woman
-Will always serve with honesty and integrity and never participate in embarrassing behavior
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 ISSUES Believes in shrinking state government and cutting wasteful spending Will do everything in his power to improve infrastructure in Northwest Alabama Will reform the tax code to make Alabama more competitive in attracting new jobs and industry Staunch supporter of the 2nd Amendment 100% pro-life Believes marriage is between one man and one woman Will always serve with honesty and integrity and never participate in embarrassing behavior Get Involved Learn how you can get involved in the Jamie Kiel Campaign.
+Sign up to Volunteer Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

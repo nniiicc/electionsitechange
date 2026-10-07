@@ -1,8 +1,30 @@
 [
-"https://kreibichforassembly.com/",
-"https://kreibichforassembly.com/about",
-"https://kreibichforassembly.com/issues",
-"https://kreibichforassembly.com/join",
-"https://kreibichforassembly.com/privacy-policy",
-"https://secure.winred.com/kreibich-for-assembly/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "About",
+"href": "https://www.kreibichforassembly.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kreibich-for-assembly/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://www.kreibichforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kreibichforassembly.com/issues"
+},
+{
+"text": "Join",
+"href": "https://www.kreibichforassembly.com/join"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kreibichforassembly.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.kreibichforassembly.com/"
+}
 ]

@@ -1,19 +1,82 @@
 [
-"https://absenteeballotapplication.alaska.gov/",
-"https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1",
-"https://elections.alaska.gov/election-information",
-"https://elections.alaska.gov/voter-information",
-"https://facebook.com/lisakellerforalaska",
-"https://instagram.com/lisakellerforalaska",
-"https://lisakellerforalaska.com/",
-"https://lisakellerforalaska.com/about",
-"https://lisakellerforalaska.com/cart",
-"https://lisakellerforalaska.com/endorsements",
-"https://lisakellerforalaska.com/volunteer",
-"https://lisakellerforalaska.com/voter-info",
-"https://myvoterinformation.alaska.gov/",
-"https://myvoterportal.alaska.gov/",
-"https://secure.anedot.com/lisa-keller-for-alaska/web",
-"https://voterregistration.alaska.gov/",
-"https://youtube.com/watch?list=PLmaJaiSaUP8s2yEsQSZ3tJYwOx_1mUgdi&v=H163LS6iN0o"
+{
+"text": "0",
+"href": "https://www.lisakellerforalaska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lisakellerforalaska.com/about"
+},
+{
+"text": "Confirm your voter registration",
+"href": "https://myvoterportal.alaska.gov/%20"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/lisa-keller-for-alaska/web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisakellerforalaska.com/endorsements"
+},
+{
+"text": "Find your assigned precinct and polling location",
+"href": "https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisakellerforalaska.com/volunteer"
+},
+{
+"text": "Review your voting options and rights",
+"href": "https://www.elections.alaska.gov/voter-information/"
+},
+{
+"text": "Voter Info",
+"href": "https://www.lisakellerforalaska.com/voter-info"
+},
+{
+"text": "We encourage voters to review how ranked choice voting works before Election Day",
+"href": "https://youtube.com/watch?list=PLmaJaiSaUP8s2yEsQSZ3tJYwOx_1mUgdi&v=H163LS6iN0o"
+},
+{
+"text": "[image: Lisa Keller for State House District 13]",
+"href": "https://www.lisakellerforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lisakellerforalaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisakellerforalaska/"
+},
+{
+"text": "https://absenteeballotapplication.alaska.gov/",
+"href": "https://absenteeballotapplication.alaska.gov/"
+},
+{
+"text": "https://myvoterinformation.alaska.gov/",
+"href": "https://myvoterinformation.alaska.gov/"
+},
+{
+"text": "https://myvoterportal.alaska.gov/",
+"href": "https://myvoterportal.alaska.gov/"
+},
+{
+"text": "https://voterregistration.alaska.gov/",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "https://www.elections.alaska.gov/election-information/#GENR",
+"href": "https://www.elections.alaska.gov/election-information/#GENR"
+},
+{
+"text": "https://www.elections.alaska.gov/election-information/#PRIM",
+"href": "https://www.elections.alaska.gov/election-information/#PRIM"
+},
+{
+"text": "lisakeller@lisakellerforalaska.com",
+"href": "mailto:lisakeller@lisakellerforalaska.com"
+}
 ]

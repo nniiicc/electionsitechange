@@ -1,4 +1,9 @@
-Supporting Deirdre McEachern for state representative
-Having served on the Tuftonboro Selectboard for nine years, as both a member and chair, I know how important local representation can be, and how important it is for our state representatives to understand and listen to the communities they serve.
+0 Skip to Content Meet Deirdre Why I'm Running Issues Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Endorsements Endorsements Testimonials News Contact Donate Open Menu Close Menu Meet Deirdre Why I'm Running Issues Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Endorsements Endorsements Testimonials News Contact Donate Open Menu Close Menu Meet Deirdre Why I'm Running Folder: Issues Back Strong Public Schools Reasonable Taxes Housing within Reach Protect Our Land & Lakes Support Business & Infrastructure Folder: Endorsements Back Endorsements Testimonials News Contact Donate Supporting Deirdre McEachern for state representative Sep 24 Written By Rebecca Henry Having served on the Tuftonboro Selectboard for nine years, as both a member and chair, I know how important local representation can be, and how important it is for our state representatives to understand and listen to the communities they serve.
 That is why I am pleased to support Deirdre McEachern for state representative.
-Read More.
+Read More .
+Rebecca Henry Next Next 350NH Action Endorses Deirdre McEachern for State Representative The weathered pilings along our shoreline remind us of what makes our communities strong.
+Each stands on its own, but bound together, they are strong enough to weather the storms and steady enough to meet changing waters.
+That same strength comes from neighbors working together—listening to one another, finding common ground, and remaining firmly anchored in the values we share.
+Deirdre McEachern for NH State Rep Proudly endorsed by: © Deirdre McEachern.
+All rights reserved.
+Paid for by the Committee to Elect Deirdre McEachern, Carolyn Sundquist, Treasurer, PO Box 322, Wolfeboro, NH 03894.

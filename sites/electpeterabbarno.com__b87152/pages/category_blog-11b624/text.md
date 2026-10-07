@@ -1,18 +1,16 @@
-by Peter Abbarno | Aug 27, 2026 | Blog
-For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn’t an abstract policy issue.
+Stronger Families.
+Stronger Communities.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow Making Home Energy Improvements Work Better for Washington Communities by Peter Abbarno | Aug 27, 2026 | Blog For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn’t an abstract policy issue.
 It can mean a warmer home in the winter, lower monthly utility bills, needed home repairs, and a safer and healthier...
-by Peter Abbarno | Aug 27, 2026 | Blog
-Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
+Protecting Washington’s Working Lands and Strengthening Rural Communities by Peter Abbarno | Aug 27, 2026 | Blog Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
 They also support thousands of jobs, produce food and timber, protect habitat and water quality, and sustain rural communities across our state.
 As Assistant Ranking...
-by Peter Abbarno | Jul 31, 2025 | Blog
-ICYMI: Kim Ashmore joined Peter Abbarno on AM1470 KELA / KMNT Radio to discuss Centralia’s Transportation Benefit District, his time on the Centralia School District Board, and 41 years of amazing service to the City of Centralia.
+Peter Abbarno with Kim Ashmore on KELA Radio by Peter Abbarno | Jul 31, 2025 | Blog ICYMI: Kim Ashmore joined Peter Abbarno on AM1470 KELA / KMNT Radio to discuss Centralia’s Transportation Benefit District, his time on the Centralia School District Board, and 41 years of amazing service to the City of Centralia.
 Radio interview with Kim...
-by Peter Abbarno | Jun 26, 2025 | Blog
-ICYMI: Peter Abbarno interviewed Miss Lewis County WA Madeline Scalici and Miss Lewis County’s Teen Hailey Sturdevant on AM1470 KELA / KMNT...
-by Peter Abbarno | Jun 21, 2024 | Blog
-Peter Abbarno was joined by Samantha Magnuson with NOMAD Turck and SUV Outfitters on KELA-KMNT radio to discuss National Camping Month in June and how you can equip your vehicle to create memories with your...
-by Peter Abbarno | Feb 27, 2024 | Blog
-I offered an amendment to the proposed House Operating Budget that would remove a rebate-for-votes provision.
+Meet the Miss Lewis County and Miss Lewis County Teen! by Peter Abbarno | Jun 26, 2025 | Blog ICYMI: Peter Abbarno interviewed Miss Lewis County WA Madeline Scalici and Miss Lewis County’s Teen Hailey Sturdevant on AM1470 KELA / KMNT...
+Abbarno: National Camping Month a great way to build bonds and seek adventure with your family by Peter Abbarno | Jun 21, 2024 | Blog Peter Abbarno was joined by Samantha Magnuson with NOMAD Turck and SUV Outfitters on KELA-KMNT radio to discuss National Camping Month in June and how you can equip your vehicle to create memories with your...
+Rep.
+Abbarno opposing payments that could influence elections by Peter Abbarno | Feb 27, 2024 | Blog I offered an amendment to the proposed House Operating Budget that would remove a rebate-for-votes provision.
 The House Democrat’s proposed Operating Budget creates a rebate, If and only If, you vote against Initiative-2117.
-A $100 payment would be made on or...
+A $100 payment would be made on or... « Older Entries Stay up to date on the lastest news from Olympia.
+Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

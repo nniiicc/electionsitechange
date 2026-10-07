@@ -1,7 +1,11 @@
 {
  "description": "Senator Susan Rubio's photo gallery showcases her various endeavors and proud family portraits.",
  "final_url": "https://www.susanrubio.com/photo-gallery/",
+ "fingerprint": "ecec072cebee6fbb3674bb0deceeb054e964311e",
+ "format": 3,
  "paid_for_by": "Paid for by Susan Rubio for Senate 2026",
  "title": "Photo Gallery",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

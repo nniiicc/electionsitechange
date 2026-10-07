@@ -1,12 +1,17 @@
 {
  "description": "I want to learn more about the key issues that matter to you, the Hampstead voters and how I can make a difference in the upcoming election as your state representative.",
  "final_url": "https://lilliwalsh.com/",
- "paid_for_by": null,
+ "fingerprint": "0cc9772f8d9b641e287dcd94b59bc01af818f9b4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Hampstead Voters: Your Voice Matters",
  "years_mentioned": [
+  "1979",
   "2010",
   "2020",
   "2021",
-  "2026"
+  "2022",
+  "2026",
+  "2027"
  ]
 }

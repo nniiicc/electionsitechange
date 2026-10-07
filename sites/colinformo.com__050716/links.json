@@ -1,10 +1,38 @@
 [
-"https://colinformo.com/",
-"https://colinformo.com/accessibility",
-"https://colinformo.com/donate",
-"https://colinformo.com/privacy",
-"https://facebook.com/WellenkampforMO",
-"https://house.mo.gov/LegislatorLookup.aspx",
-"https://house.mo.gov/MemberDetails.aspx?district=105",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate"
+{
+"text": "Accessibility",
+"href": "https://colinformo.com/accessibility/"
+},
+{
+"text": "Check your address",
+"href": "https://house.mo.gov/LegislatorLookup.aspx"
+},
+{
+"text": "Chip in",
+"href": "https://colinformo.com/donate/"
+},
+{
+"text": "Chip in",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WellenkampforMO"
+},
+{
+"text": "More on Facebook →",
+"href": "https://www.facebook.com/WellenkampforMO"
+},
+{
+"text": "Privacy",
+"href": "https://colinformo.com/privacy/"
+},
+{
+"text": "Wellenkamp State Rep. · District 105",
+"href": "https://colinformo.com/"
+},
+{
+"text": "house.mo.gov",
+"href": "https://house.mo.gov/MemberDetails.aspx?district=105"
+}
 ]

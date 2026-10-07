@@ -1,11 +1,5 @@
-Restoring the balance of the Republic: The moral responsibility of the states
-By Shane Klakken, Montana House District 37
-June 24, 2026
-Restoring the balance of the Republic: The moral responsibility of the states
-June 24th, 2026
-By Rep.
-Shane Klakken, HD 37
-Every constitution, like every civilization, reaches moments when endurance alone is no longer enough.
+top of page News Principles Calendar About Menu Close Donate Restoring the balance of the Republic: The moral responsibility of the states By Shane Klakken, Montana House District 37 June 24, 2026 Restoring the balance of the Republic: The moral responsibility of the states June 24th, 2026 By Rep.
+Shane Klakken, HD 37 Every constitution, like every civilization, reaches moments when endurance alone is no longer enough.
 The United States has reached such a moment.
 Our political machinery still turns, but it no longer aligns with the moral geometry that once guided it.
 The imbalance between federal reach and civic restraint has grown into a defining feature of modern governance.
@@ -14,8 +8,7 @@ And that responsibility, by design, belongs above all to the states.
 The states were never intended to be administrative districts of a national authority.
 They were meant to be counterweights, repositories of diverse wisdom that together limit central ambition.
 When the Founders included the Article V convention provision, they entrusted the states with a specific duty: to act when federal institutions become insulated from the people they serve.
-In an age when Washington's reflex is to expand, the states remain the only American institutions structurally positioned to say, "enough."
-To shoulder that duty now requires courage of a peculiar kind.
+In an age when Washington's reflex is to expand, the states remain the only American institutions structurally positioned to say, "enough." To shoulder that duty now requires courage of a peculiar kind.
 The temptation of modern politics is complacency—a belief that because no catastrophe has yet undone us, the system must be sound.
 But erosion, not explosion, is the usual agent of decline.
 The modern republic erodes quietly: in deficits treated as abstractions, in regulations that substitute decree for debate, and in cultural exhaustion that prefers management to meaning.
@@ -53,3 +46,7 @@ In a world where many nations rewrite their charters by decree, America still po
 That is not a weakness to fear but a strength to cherish.
 The Founders gave us Article V so that the republic could be continually redeemed by its own citizens.
 The time has come for the states to remember their duty— to restore balance, renew faith, and remind the nation that freedom, like the Constitution itself, survives only by being exercised.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

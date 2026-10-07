@@ -1,24 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Mingle+and+Jingle+with+Jeff&dates=20251212T230000Z%2F20251213T010000Z",
-"http://truthsocial.com/JeffWalterIL",
-"https://facebook.com/JeffWalterIL",
-"https://instagram.com/jeffwalterforcongress?hl=en",
-"https://jeffwalterforcongress.com/",
-"https://jeffwalterforcongress.com/about",
-"https://jeffwalterforcongress.com/cart",
-"https://jeffwalterforcongress.com/contact",
-"https://jeffwalterforcongress.com/district",
-"https://jeffwalterforcongress.com/endorsements",
-"https://jeffwalterforcongress.com/events",
-"https://jeffwalterforcongress.com/events/fundraiser-at-quigleys-irish-pub",
-"https://jeffwalterforcongress.com/events/fundraising-dinner-for-jeff-walter",
-"https://jeffwalterforcongress.com/events/mingle-and-jingle-with-jeff?format=ical",
-"https://jeffwalterforcongress.com/home",
-"https://jeffwalterforcongress.com/in-the-news",
-"https://jeffwalterforcongress.com/issues",
-"https://jeffwalterforcongress.com/privacy",
-"https://jeffwalterforcongress.com/volunteer",
-"https://secure.winred.com/committee-to-elect-jeff-walter/donate-today",
-"https://secure.winred.com/committee-to-elect-jeff-walter/storefront",
-"https://x.com/jeffwalteril"
+{
+"text": "0",
+"href": "https://www.jeffwalterforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jeffwalterforcongress.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jeffwalterforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jeffwalterforcongress.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.jeffwalterforcongress.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.jeffwalterforcongress.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jeffwalterforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jeffwalterforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mingle+and+Jingle+with+Jeff&dates=20251212T230000Z%2F20251213T010000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.jeffwalterforcongress.com/events/mingle-and-jingle-with-jeff?format=ical"
+},
+{
+"text": "In The News",
+"href": "https://www.jeffwalterforcongress.com/in-the-news"
+},
+{
+"text": "Next Next January 28 Fundraiser at Quigley's Irish Pub",
+"href": "https://www.jeffwalterforcongress.com/events/fundraiser-at-quigleys-irish-pub"
+},
+{
+"text": "Positions",
+"href": "https://www.jeffwalterforcongress.com/issues"
+},
+{
+"text": "Previous Previous October 29 Fundraising Dinner for Jeff Walter",
+"href": "https://www.jeffwalterforcongress.com/events/fundraising-dinner-for-jeff-walter"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jeffwalterforcongress.com/privacy"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jeffwalterforcongress.com/volunteer"
+},
+{
+"text": "[image: Jeff Walter for Congress Logo]",
+"href": "https://www.jeffwalterforcongress.com/home"
+},
+{
+"text": "[image: Jeff Walter for Congress]",
+"href": "https://www.jeffwalterforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://truthsocial.com/JeffWalterIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JeffWalterIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffwalterforcongress/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jeffwalteril"
+}
 ]

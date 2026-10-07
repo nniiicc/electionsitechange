@@ -1,7 +1,9 @@
 {
  "description": "Paul Nolley for Congress Event Calendar. A list of upcoming campaign events for Illinois' 16th Congressional District race against incumbent Darin LaHood.",
  "final_url": "https://www.nolleyforcongress.com/events",
- "paid_for_by": "Paid for by Nolley for Congress",
+ "fingerprint": "4db8152045cfc2cfff44d30747e26a825183efbb",
+ "format": 3,
+ "paid_for_by": "sponsored by the Democratic County Parties in Marshall, Peoria, Stark, Tazewell, and Woodford counties, as we unite to support our shared vision for the 16th Congressional",
  "title": "Paul Nolley for Congress Events",
  "years_mentioned": []
 }

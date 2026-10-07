@@ -1,13 +1,54 @@
 [
-"https://estesforcongress.com/",
-"https://estesforcongress.com/blog",
-"https://estesforcongress.com/contact",
-"https://estesforcongress.com/issues",
-"https://estesforcongress.com/media-gallery",
-"https://estesforcongress.com/meet-ron",
-"https://estesforcongress.com/volunteer",
-"https://facebook.com/ronesteskansas",
-"https://secure.winred.com/ronestes/donate",
-"https://twitter.com/ronestesks",
-"https://youtube.com/channel/UCBPbo2I77pZMBfGeA0ain0A"
+{
+"text": "Contact",
+"href": "https://www.estesforcongress.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/ronestes/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.estesforcongress.com/issues"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.estesforcongress.com/meet-ron"
+},
+{
+"text": "News",
+"href": "https://www.estesforcongress.com/blog"
+},
+{
+"text": "View the Media Gallery",
+"href": "https://www.estesforcongress.com/media-gallery"
+},
+{
+"text": "Volunteer",
+"href": "https://www.estesforcongress.com/volunteer"
+},
+{
+"text": "[image: Ron Estes is a US Congressman]",
+"href": "https://www.estesforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ronestesks"
+},
+{
+"text": "[no text]",
+"href": "https://www.estesforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ronesteskansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCBPbo2I77pZMBfGeA0ain0A"
+},
+{
+"text": "press@estesforcongress.com",
+"href": "mailto:press@estesforcongress.com"
+}
 ]

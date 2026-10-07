@@ -1,36 +1,194 @@
 [
-"https://erikunderwood.com/",
-"https://erikunderwood.com/about-erik",
-"https://erikunderwood.com/contact-us",
-"https://erikunderwood.com/donation-form",
-"https://erikunderwood.com/endorsements",
-"https://erikunderwood.com/event/building-tomorrows-politicians",
-"https://erikunderwood.com/event/cultural-heritage-day",
-"https://erikunderwood.com/event/football-tournament",
-"https://erikunderwood.com/event/from-revolution-to-representation",
-"https://erikunderwood.com/event/human-rights-advocacy-campaign",
-"https://erikunderwood.com/event/lobbying-for-environmental-legislation",
-"https://erikunderwood.com/event/new-year-celebrations",
-"https://erikunderwood.com/events/list",
-"https://erikunderwood.com/events/list?eventDisplay=past",
-"https://erikunderwood.com/events/list?ical=1",
-"https://erikunderwood.com/events/list?outlook-ical=1",
-"https://erikunderwood.com/events/month",
-"https://erikunderwood.com/events/today",
-"https://erikunderwood.com/general-election-message",
-"https://erikunderwood.com/issues",
-"https://erikunderwood.com/media",
-"https://erikunderwood.com/news",
-"https://erikunderwood.com/privacy-policy",
-"https://erikunderwood.com/terms-condition",
-"https://erikunderwood.com/volunteer",
-"https://facebook.com/Erik4CO",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Ferikunderwood.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/erik_underwood",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ferikunderwood.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Erik+Underwood+Events+Archive+-+Erik+Underwood",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ferikunderwood.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Erik+Underwood+Events+Archive+-+Erik+Underwood",
-"https://secure.actblue.com/donate/underwood-303",
-"https://tiktok.com/@erikmunderwood",
-"https://x.com/ErikMUnderwood",
-"https://youtube.com/@erikmunderwood"
+{
+"text": "#ago",
+"href": "https://erikunderwood.com/events/list/"
+},
+{
+"text": "+1(720)-722-9404",
+"href": "tel:+17207229404"
+},
+{
+"text": "About Erik",
+"href": "https://erikunderwood.com/about-erik/"
+},
+{
+"text": "Building tomorrow’s politicians",
+"href": "https://erikunderwood.com/event/building-tomorrows-politicians/"
+},
+{
+"text": "Contact",
+"href": "https://erikunderwood.com/contact-us/"
+},
+{
+"text": "Cultural heritage day",
+"href": "https://erikunderwood.com/event/cultural-heritage-day/"
+},
+{
+"text": "Day",
+"href": "https://erikunderwood.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/underwood-303"
+},
+{
+"text": "Donate Now",
+"href": "https://erikunderwood.com/donation-form/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/underwood-303"
+},
+{
+"text": "Endorsements",
+"href": "https://erikunderwood.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://erikunderwood.com/events/list/"
+},
+{
+"text": "Export .ics file",
+"href": "https://erikunderwood.com/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://erikunderwood.com/events/list/?outlook-ical=1"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/Erik4CO/"
+},
+{
+"text": "Football tournament",
+"href": "https://erikunderwood.com/event/football-tournament/"
+},
+{
+"text": "From revolution to representation",
+"href": "https://erikunderwood.com/event/from-revolution-to-representation/"
+},
+{
+"text": "General Election Message",
+"href": "https://erikunderwood.com/general-election-message/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Ferikunderwood.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://erikunderwood.com/"
+},
+{
+"text": "Human rights advocacy campaign",
+"href": "https://erikunderwood.com/event/human-rights-advocacy-campaign/"
+},
+{
+"text": "Issues",
+"href": "https://erikunderwood.com/issues/"
+},
+{
+"text": "List",
+"href": "https://erikunderwood.com/events/list/"
+},
+{
+"text": "Lobbying for environmental legislation",
+"href": "https://erikunderwood.com/event/lobbying-for-environmental-legislation/"
+},
+{
+"text": "Media",
+"href": "https://erikunderwood.com/media/"
+},
+{
+"text": "Month",
+"href": "https://erikunderwood.com/events/month/"
+},
+{
+"text": "New Year celebrations",
+"href": "https://erikunderwood.com/event/new-year-celebrations/"
+},
+{
+"text": "News",
+"href": "https://erikunderwood.com/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ferikunderwood.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Erik+Underwood+Events+Archive+-+Erik+Underwood"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ferikunderwood.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Erik+Underwood+Events+Archive+-+Erik+Underwood"
+},
+{
+"text": "Previous Events",
+"href": "https://erikunderwood.com/events/list/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://erikunderwood.com/privacy-policy/"
+},
+{
+"text": "Send Brief",
+"href": "https://erikunderwood.com/contact-us/"
+},
+{
+"text": "Terms & Condition",
+"href": "https://erikunderwood.com/terms-condition/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@erikmunderwood"
+},
+{
+"text": "Volunteer",
+"href": "https://erikunderwood.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/ErikMUnderwood"
+},
+{
+"text": "Youtube",
+"href": "https://youtube.com/@erikmunderwood"
+},
+{
+"text": "[image: Erik Underwood]",
+"href": "https://erikunderwood.com/"
+},
+{
+"text": "[no text]",
+"href": "tel:+17207229404"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://erikunderwood.com/events/list/?eventDisplay=past"
+},
+{
+"text": "facebook-1",
+"href": "https://www.facebook.com/Erik4CO/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://erikunderwood.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "info@website.com",
+"href": "mailto:info@website.com"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/erik_underwood"
+},
+{
+"text": "team@erikunderwood.com",
+"href": "mailto:team@erikunderwood.com"
+},
+{
+"text": "tik-tok",
+"href": "https://www.tiktok.com/@erikmunderwood"
+},
+{
+"text": "twitter-x",
+"href": "https://x.com/ErikMUnderwood"
+}
 ]

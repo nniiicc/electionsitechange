@@ -1,165 +1,662 @@
 [
-"https://facebook.com/gladysarobinson.nc",
-"https://gladysarobinson.com/",
-"https://gladysarobinson.com/20232024-legislative-session",
-"https://gladysarobinson.com/about-gladys",
-"https://gladysarobinson.com/blog",
-"https://gladysarobinson.com/cart",
-"https://gladysarobinson.com/contact",
-"https://gladysarobinson.com/donate",
-"https://gladysarobinson.com/event-gallery",
-"https://gladysarobinson.com/meet-gladys",
-"https://instagram.com/gladysarobinson",
-"https://ncleg.gov/BillLookUp/2023/S102",
-"https://ncleg.gov/BillLookUp/2023/S109",
-"https://ncleg.gov/BillLookUp/2023/S128",
-"https://ncleg.gov/BillLookUp/2023/S137",
-"https://ncleg.gov/BillLookUp/2023/S142",
-"https://ncleg.gov/BillLookUp/2023/S156",
-"https://ncleg.gov/BillLookUp/2023/S161",
-"https://ncleg.gov/BillLookUp/2023/S167",
-"https://ncleg.gov/BillLookUp/2023/S168",
-"https://ncleg.gov/BillLookUp/2023/S170",
-"https://ncleg.gov/BillLookUp/2023/S177",
-"https://ncleg.gov/BillLookUp/2023/S178",
-"https://ncleg.gov/BillLookUp/2023/S184",
-"https://ncleg.gov/BillLookUp/2023/S185",
-"https://ncleg.gov/BillLookUp/2023/S187",
-"https://ncleg.gov/BillLookUp/2023/S19",
-"https://ncleg.gov/BillLookUp/2023/S193",
-"https://ncleg.gov/BillLookUp/2023/S195",
-"https://ncleg.gov/BillLookUp/2023/S196",
-"https://ncleg.gov/BillLookUp/2023/S197",
-"https://ncleg.gov/BillLookUp/2023/S202",
-"https://ncleg.gov/BillLookUp/2023/S210",
-"https://ncleg.gov/BillLookUp/2023/S213",
-"https://ncleg.gov/BillLookUp/2023/S214",
-"https://ncleg.gov/BillLookUp/2023/S215",
-"https://ncleg.gov/BillLookUp/2023/S219",
-"https://ncleg.gov/BillLookUp/2023/S220",
-"https://ncleg.gov/BillLookUp/2023/S223",
-"https://ncleg.gov/BillLookUp/2023/S224",
-"https://ncleg.gov/BillLookUp/2023/S226",
-"https://ncleg.gov/BillLookUp/2023/S231",
-"https://ncleg.gov/BillLookUp/2023/S244",
-"https://ncleg.gov/BillLookUp/2023/S263",
-"https://ncleg.gov/BillLookUp/2023/S283",
-"https://ncleg.gov/BillLookUp/2023/S288",
-"https://ncleg.gov/BillLookUp/2023/S291",
-"https://ncleg.gov/BillLookUp/2023/S292",
-"https://ncleg.gov/BillLookUp/2023/S293",
-"https://ncleg.gov/BillLookUp/2023/S294",
-"https://ncleg.gov/BillLookUp/2023/S295",
-"https://ncleg.gov/BillLookUp/2023/S296",
-"https://ncleg.gov/BillLookUp/2023/S298",
-"https://ncleg.gov/BillLookUp/2023/S304",
-"https://ncleg.gov/BillLookUp/2023/S305",
-"https://ncleg.gov/BillLookUp/2023/S306",
-"https://ncleg.gov/BillLookUp/2023/S310",
-"https://ncleg.gov/BillLookUp/2023/S311",
-"https://ncleg.gov/BillLookUp/2023/S312",
-"https://ncleg.gov/BillLookUp/2023/S313",
-"https://ncleg.gov/BillLookUp/2023/S315",
-"https://ncleg.gov/BillLookUp/2023/S317",
-"https://ncleg.gov/BillLookUp/2023/S320",
-"https://ncleg.gov/BillLookUp/2023/S321",
-"https://ncleg.gov/BillLookUp/2023/S326",
-"https://ncleg.gov/BillLookUp/2023/S328",
-"https://ncleg.gov/BillLookUp/2023/S330",
-"https://ncleg.gov/BillLookUp/2023/S338",
-"https://ncleg.gov/BillLookUp/2023/S348",
-"https://ncleg.gov/BillLookUp/2023/S353",
-"https://ncleg.gov/BillLookUp/2023/S371",
-"https://ncleg.gov/BillLookUp/2023/S372",
-"https://ncleg.gov/BillLookUp/2023/S376",
-"https://ncleg.gov/BillLookUp/2023/S377",
-"https://ncleg.gov/BillLookUp/2023/S387",
-"https://ncleg.gov/BillLookUp/2023/S390",
-"https://ncleg.gov/BillLookUp/2023/S394",
-"https://ncleg.gov/BillLookUp/2023/S397",
-"https://ncleg.gov/BillLookUp/2023/S398",
-"https://ncleg.gov/BillLookUp/2023/S399",
-"https://ncleg.gov/BillLookUp/2023/S403",
-"https://ncleg.gov/BillLookUp/2023/S407",
-"https://ncleg.gov/BillLookUp/2023/S415",
-"https://ncleg.gov/BillLookUp/2023/S418",
-"https://ncleg.gov/BillLookUp/2023/S419",
-"https://ncleg.gov/BillLookUp/2023/S420",
-"https://ncleg.gov/BillLookUp/2023/S421",
-"https://ncleg.gov/BillLookUp/2023/S422",
-"https://ncleg.gov/BillLookUp/2023/S423",
-"https://ncleg.gov/BillLookUp/2023/S424",
-"https://ncleg.gov/BillLookUp/2023/S432",
-"https://ncleg.gov/BillLookUp/2023/S433",
-"https://ncleg.gov/BillLookUp/2023/S437",
-"https://ncleg.gov/BillLookUp/2023/S440",
-"https://ncleg.gov/BillLookUp/2023/S443",
-"https://ncleg.gov/BillLookUp/2023/S447",
-"https://ncleg.gov/BillLookUp/2023/S448",
-"https://ncleg.gov/BillLookUp/2023/S449",
-"https://ncleg.gov/BillLookUp/2023/S450",
-"https://ncleg.gov/BillLookUp/2023/S453",
-"https://ncleg.gov/BillLookUp/2023/S455",
-"https://ncleg.gov/BillLookUp/2023/S461",
-"https://ncleg.gov/BillLookUp/2023/S462",
-"https://ncleg.gov/BillLookUp/2023/S467",
-"https://ncleg.gov/BillLookUp/2023/S468",
-"https://ncleg.gov/BillLookUp/2023/S469",
-"https://ncleg.gov/BillLookUp/2023/S471",
-"https://ncleg.gov/BillLookUp/2023/S478",
-"https://ncleg.gov/BillLookUp/2023/S479",
-"https://ncleg.gov/BillLookUp/2023/S480",
-"https://ncleg.gov/BillLookUp/2023/S481",
-"https://ncleg.gov/BillLookUp/2023/S482",
-"https://ncleg.gov/BillLookUp/2023/S483",
-"https://ncleg.gov/BillLookUp/2023/S484",
-"https://ncleg.gov/BillLookUp/2023/S485",
-"https://ncleg.gov/BillLookUp/2023/S486",
-"https://ncleg.gov/BillLookUp/2023/S488",
-"https://ncleg.gov/BillLookUp/2023/S493",
-"https://ncleg.gov/BillLookUp/2023/S494",
-"https://ncleg.gov/BillLookUp/2023/S495",
-"https://ncleg.gov/BillLookUp/2023/S496",
-"https://ncleg.gov/BillLookUp/2023/S497",
-"https://ncleg.gov/BillLookUp/2023/S498",
-"https://ncleg.gov/BillLookUp/2023/S500",
-"https://ncleg.gov/BillLookUp/2023/S501",
-"https://ncleg.gov/BillLookUp/2023/S502",
-"https://ncleg.gov/BillLookUp/2023/S503",
-"https://ncleg.gov/BillLookUp/2023/S509",
-"https://ncleg.gov/BillLookUp/2023/S51",
-"https://ncleg.gov/BillLookUp/2023/S519",
-"https://ncleg.gov/BillLookUp/2023/S520",
-"https://ncleg.gov/BillLookUp/2023/S523",
-"https://ncleg.gov/BillLookUp/2023/S524",
-"https://ncleg.gov/BillLookUp/2023/S532",
-"https://ncleg.gov/BillLookUp/2023/S538",
-"https://ncleg.gov/BillLookUp/2023/S555",
-"https://ncleg.gov/BillLookUp/2023/S557",
-"https://ncleg.gov/BillLookUp/2023/S567",
-"https://ncleg.gov/BillLookUp/2023/S568",
-"https://ncleg.gov/BillLookUp/2023/S575",
-"https://ncleg.gov/BillLookUp/2023/S584",
-"https://ncleg.gov/BillLookUp/2023/S590",
-"https://ncleg.gov/BillLookUp/2023/S598",
-"https://ncleg.gov/BillLookUp/2023/S601",
-"https://ncleg.gov/BillLookUp/2023/S614",
-"https://ncleg.gov/BillLookUp/2023/S625",
-"https://ncleg.gov/BillLookUp/2023/S652",
-"https://ncleg.gov/BillLookUp/2023/S682",
-"https://ncleg.gov/BillLookUp/2023/S69",
-"https://ncleg.gov/BillLookUp/2023/S694",
-"https://ncleg.gov/BillLookUp/2023/S699",
-"https://ncleg.gov/BillLookUp/2023/S701",
-"https://ncleg.gov/BillLookUp/2023/S702",
-"https://ncleg.gov/BillLookUp/2023/S713",
-"https://ncleg.gov/BillLookUp/2023/S715",
-"https://ncleg.gov/BillLookUp/2023/S716",
-"https://ncleg.gov/BillLookUp/2023/S736",
-"https://ncleg.gov/BillLookUp/2023/S74",
-"https://ncleg.gov/BillLookUp/2023/S748",
-"https://ncleg.gov/BillLookUp/2023/S76",
-"https://ncleg.gov/BillLookUp/2023/S77",
-"https://ncleg.gov/BillLookUp/2023/S98",
-"https://secure.actblue.com/donate/committee-to-elect-gladys-a-robinson-1"
+{
+"text": "0",
+"href": "https://www.gladysarobinson.com/cart"
+},
+{
+"text": "ABOUT GLADYS",
+"href": "https://www.gladysarobinson.com/about-gladys"
+},
+{
+"text": "Back",
+"href": "https://www.gladysarobinson.com/"
+},
+{
+"text": "DONATE",
+"href": "https://www.gladysarobinson.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-gladys-a-robinson-1"
+},
+{
+"text": "Folder: MEET GLADYS",
+"href": "https://www.gladysarobinson.com/meet-gladys"
+},
+{
+"text": "GALLERY",
+"href": "https://www.gladysarobinson.com/event-gallery"
+},
+{
+"text": "GLADYS' RECORD",
+"href": "https://www.gladysarobinson.com/20232024-legislative-session"
+},
+{
+"text": "NEWS",
+"href": "https://www.gladysarobinson.com/blog"
+},
+{
+"text": "SB 102",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S102"
+},
+{
+"text": "SB 109",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S109"
+},
+{
+"text": "SB 128",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S128"
+},
+{
+"text": "SB 137",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S137"
+},
+{
+"text": "SB 142",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S142"
+},
+{
+"text": "SB 156",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S156"
+},
+{
+"text": "SB 161",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S161"
+},
+{
+"text": "SB 167",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S167"
+},
+{
+"text": "SB 168",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S168"
+},
+{
+"text": "SB 170",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S170"
+},
+{
+"text": "SB 177",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S177"
+},
+{
+"text": "SB 178",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S178"
+},
+{
+"text": "SB 184",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S184"
+},
+{
+"text": "SB 185",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S185"
+},
+{
+"text": "SB 187",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S187"
+},
+{
+"text": "SB 19",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S19"
+},
+{
+"text": "SB 193",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S193"
+},
+{
+"text": "SB 195",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S195"
+},
+{
+"text": "SB 196",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S196"
+},
+{
+"text": "SB 197",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S197"
+},
+{
+"text": "SB 202",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S202"
+},
+{
+"text": "SB 210",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S210"
+},
+{
+"text": "SB 213",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S213"
+},
+{
+"text": "SB 214",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S214"
+},
+{
+"text": "SB 215",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S215"
+},
+{
+"text": "SB 219",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S219"
+},
+{
+"text": "SB 223",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S223"
+},
+{
+"text": "SB 224",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S224"
+},
+{
+"text": "SB 226",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S226"
+},
+{
+"text": "SB 231",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S231"
+},
+{
+"text": "SB 244",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S244"
+},
+{
+"text": "SB 263",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S263"
+},
+{
+"text": "SB 283",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S283"
+},
+{
+"text": "SB 288",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S288"
+},
+{
+"text": "SB 291",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S291"
+},
+{
+"text": "SB 292",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S292"
+},
+{
+"text": "SB 293",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S293"
+},
+{
+"text": "SB 294",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S294"
+},
+{
+"text": "SB 295",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S295"
+},
+{
+"text": "SB 296",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S296"
+},
+{
+"text": "SB 298",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S298"
+},
+{
+"text": "SB 304",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S304"
+},
+{
+"text": "SB 305",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S305"
+},
+{
+"text": "SB 306",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S306"
+},
+{
+"text": "SB 310",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S310"
+},
+{
+"text": "SB 311",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S311"
+},
+{
+"text": "SB 312",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S312"
+},
+{
+"text": "SB 313",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S313"
+},
+{
+"text": "SB 315",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S315"
+},
+{
+"text": "SB 317",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S317"
+},
+{
+"text": "SB 320",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S320"
+},
+{
+"text": "SB 321",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S321"
+},
+{
+"text": "SB 326",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S326"
+},
+{
+"text": "SB 328",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S328"
+},
+{
+"text": "SB 330",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S330"
+},
+{
+"text": "SB 338",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S338"
+},
+{
+"text": "SB 348",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S348"
+},
+{
+"text": "SB 353",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S353"
+},
+{
+"text": "SB 371",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S371"
+},
+{
+"text": "SB 372",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S372"
+},
+{
+"text": "SB 376",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S376"
+},
+{
+"text": "SB 377",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S377"
+},
+{
+"text": "SB 387",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S387"
+},
+{
+"text": "SB 390",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S390"
+},
+{
+"text": "SB 394",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S394"
+},
+{
+"text": "SB 397",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S397"
+},
+{
+"text": "SB 398",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S398"
+},
+{
+"text": "SB 399",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S399"
+},
+{
+"text": "SB 403",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S403"
+},
+{
+"text": "SB 407",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S407"
+},
+{
+"text": "SB 415",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S415"
+},
+{
+"text": "SB 418",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S418"
+},
+{
+"text": "SB 419",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S419"
+},
+{
+"text": "SB 420",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S420"
+},
+{
+"text": "SB 421",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S421"
+},
+{
+"text": "SB 422",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S422"
+},
+{
+"text": "SB 423",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S423"
+},
+{
+"text": "SB 424",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S424"
+},
+{
+"text": "SB 432",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S432"
+},
+{
+"text": "SB 433",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S433"
+},
+{
+"text": "SB 437",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S437"
+},
+{
+"text": "SB 440",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S440"
+},
+{
+"text": "SB 443",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S443"
+},
+{
+"text": "SB 447",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S447"
+},
+{
+"text": "SB 448",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S448"
+},
+{
+"text": "SB 449",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S449"
+},
+{
+"text": "SB 450",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S450"
+},
+{
+"text": "SB 453",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S453"
+},
+{
+"text": "SB 455",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S455"
+},
+{
+"text": "SB 461",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S461"
+},
+{
+"text": "SB 462",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S462"
+},
+{
+"text": "SB 467",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S467"
+},
+{
+"text": "SB 468",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S468"
+},
+{
+"text": "SB 469",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S469"
+},
+{
+"text": "SB 471",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S471"
+},
+{
+"text": "SB 478",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S478"
+},
+{
+"text": "SB 479",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S479"
+},
+{
+"text": "SB 480",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S480"
+},
+{
+"text": "SB 481",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S481"
+},
+{
+"text": "SB 482",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S482"
+},
+{
+"text": "SB 483",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S483"
+},
+{
+"text": "SB 484",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S484"
+},
+{
+"text": "SB 485",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S485"
+},
+{
+"text": "SB 486",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S486"
+},
+{
+"text": "SB 488",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S488"
+},
+{
+"text": "SB 493",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S493"
+},
+{
+"text": "SB 494",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S494"
+},
+{
+"text": "SB 495",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S495"
+},
+{
+"text": "SB 496",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S496"
+},
+{
+"text": "SB 497",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S497"
+},
+{
+"text": "SB 498",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S498"
+},
+{
+"text": "SB 500",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S500"
+},
+{
+"text": "SB 501",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S501"
+},
+{
+"text": "SB 502",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S502"
+},
+{
+"text": "SB 503",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S503"
+},
+{
+"text": "SB 509",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S509"
+},
+{
+"text": "SB 51",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S51"
+},
+{
+"text": "SB 519",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S519"
+},
+{
+"text": "SB 520",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S520"
+},
+{
+"text": "SB 523",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S523"
+},
+{
+"text": "SB 524",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S524"
+},
+{
+"text": "SB 532",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S532"
+},
+{
+"text": "SB 538",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S538"
+},
+{
+"text": "SB 555",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S555"
+},
+{
+"text": "SB 557",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S557"
+},
+{
+"text": "SB 567",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S567"
+},
+{
+"text": "SB 568",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S568"
+},
+{
+"text": "SB 575",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S575"
+},
+{
+"text": "SB 584",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S584"
+},
+{
+"text": "SB 590",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S590"
+},
+{
+"text": "SB 598",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S598"
+},
+{
+"text": "SB 601",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S601"
+},
+{
+"text": "SB 614",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S614"
+},
+{
+"text": "SB 625",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S625"
+},
+{
+"text": "SB 652",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S652"
+},
+{
+"text": "SB 682",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S682"
+},
+{
+"text": "SB 69",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S69"
+},
+{
+"text": "SB 694",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S694"
+},
+{
+"text": "SB 699",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S699"
+},
+{
+"text": "SB 701",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S701"
+},
+{
+"text": "SB 702",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S702"
+},
+{
+"text": "SB 713",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S713"
+},
+{
+"text": "SB 715",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S715"
+},
+{
+"text": "SB 716",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S716"
+},
+{
+"text": "SB 736",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S736"
+},
+{
+"text": "SB 74",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S74"
+},
+{
+"text": "SB 748",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S748"
+},
+{
+"text": "SB 76",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S76"
+},
+{
+"text": "SB 77",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S77"
+},
+{
+"text": "SB 98",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S98"
+},
+{
+"text": "SJR 220",
+"href": "https://www.ncleg.gov/BillLookUp/2023/S220"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.gladysarobinson.com/contact"
+},
+{
+"text": "[image: Gladys A. Robinson for NC Senate]",
+"href": "https://www.gladysarobinson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gladysarobinson.nc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.gladysarobinson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gladysarobinson/"
+}
 ]

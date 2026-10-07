@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://fosterforhouse.com/ruby",
- "paid_for_by": null,
+ "fingerprint": "9ef85495ecf1944c070ed84f00acea75e32de752",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ruby",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

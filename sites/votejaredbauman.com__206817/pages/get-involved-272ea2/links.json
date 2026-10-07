@@ -1,9 +1,34 @@
 [
-"https://facebook.com/profile.php?id=100077207126549",
-"https://secure.winred.com/jared-bauman-for-state-house/vote-jared-bauman?money_bomb=false&recurring=false&sc=winred-directory",
-"https://votejaredbauman.com/",
-"https://votejaredbauman.com/about-jared",
-"https://votejaredbauman.com/cart",
-"https://votejaredbauman.com/get-involved",
-"https://votejaredbauman.com/key-issues"
+{
+"text": "0",
+"href": "https://www.votejaredbauman.com/cart"
+},
+{
+"text": "About Jared",
+"href": "https://www.votejaredbauman.com/about-jared"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jared-bauman-for-state-house/vote-jared-bauman?money_bomb=false&recurring=false&sc=winred-directory"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votejaredbauman.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votejaredbauman.com/"
+},
+{
+"text": "Key Issues",
+"href": "https://www.votejaredbauman.com/key-issues"
+},
+{
+"text": "[image: Vote Jared Bauman for State House]",
+"href": "https://www.votejaredbauman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100077207126549"
+}
 ]

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/FitzgibbonforCongress",
-"https://fitzgibbonforcongress.com/",
-"https://fitzgibbonforcongress.com/about",
-"https://fitzgibbonforcongress.com/getinvolved",
-"https://fitzgibbonforcongress.com/issues",
-"https://fitzgibbonforcongress.com/solutions",
-"https://fitzgibbonforcongress.com/stayconnected",
-"https://instagram.com/FitzgibbonforCongress",
-"https://secure.anedot.com/elizabeth-fitzgibbon-for-congress/donation",
-"https://tiktok.com/@fitzgibbonforcongress"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/elizabeth-fitzgibbon-for-congress/donation"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fitzgibbonforcongress.com/getinvolved"
+},
+{
+"text": "Get Updates",
+"href": "https://www.fitzgibbonforcongress.com/stayconnected"
+},
+{
+"text": "Home",
+"href": "https://www.fitzgibbonforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.fitzgibbonforcongress.com/issues"
+},
+{
+"text": "Solutions",
+"href": "https://www.fitzgibbonforcongress.com/solutions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fitzgibbonforcongress.com/getinvolved"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.fitzgibbonforcongress.com/about"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FitzgibbonforCongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/FitzgibbonforCongress"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@fitzgibbonforcongress"
+}
 ]

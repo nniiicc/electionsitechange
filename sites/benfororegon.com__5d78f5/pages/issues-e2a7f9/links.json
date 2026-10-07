@@ -1,13 +1,54 @@
 [
-"http://squarespace.com/",
-"https://benfororegon.com/",
-"https://benfororegon.com/about",
-"https://benfororegon.com/cart",
-"https://benfororegon.com/contact",
-"https://benfororegon.com/endorsements",
-"https://benfororegon.com/issues",
-"https://facebook.com/BenBowmanforOregon",
-"https://instagram.com/benfororegon",
-"https://secure.actblue.com/donate/benfortigard",
-"https://twitter.com/BenBowman"
+{
+"text": "0",
+"href": "https://www.benfororegon.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.benfororegon.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.benfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/benfortigard"
+},
+{
+"text": "Endorsements",
+"href": "https://www.benfororegon.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "http://squarespace.com"
+},
+{
+"text": "Instagram",
+"href": "http://squarespace.com"
+},
+{
+"text": "Issues",
+"href": "https://www.benfororegon.com/issues"
+},
+{
+"text": "Twitter",
+"href": "http://squarespace.com"
+},
+{
+"text": "[image: Ben Bowman for HD25]",
+"href": "https://www.benfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BenBowman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BenBowmanforOregon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/benfororegon/"
+}
 ]

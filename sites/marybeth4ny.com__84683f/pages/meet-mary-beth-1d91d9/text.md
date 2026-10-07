@@ -1,3 +1,6 @@
+HOME MEET MARY BETH ISSUES MY STANCE NEWS & MEDIA 2026 VOTING INFORMATION CONTACT DONATE Testimonials More HOME MEET MARY BETH ISSUES MY STANCE NEWS & MEDIA 2026 VOTING INFORMATION CONTACT DONATE Testimonials HOME MEET MARY BETH ISSUES MY STANCE NEWS & MEDIA 2026 VOTING INFORMATION CONTACT DONATE Testimonials MEET MARY BETH Experienced.
+Dedicated.
+Professional.
 Mary Beth Walsh was elected to the New York State Assembly on November 8, 2016.
 She proudly serves the 112th Assembly District, which includes parts of Saratoga, Schenectady and Fulton Counties.
 Mary Beth’s experience as an attorney, advocate for children and families and small business owner provides her with a unique perspective and background when dealing with pieces of legislation and initiatives.
@@ -17,4 +20,5 @@ Mary Beth has been a practicing attorney for over 30 years, and has practiced al
 She previously served as the municipal attorney for the Town of Edinburg and as an Assistant Saratoga County Attorney.
 Prior to being elected to the Assembly, Mary Beth served in a variety of leadership positions in local and county government, including two terms as a Councilwoman in the Town of Ballston and as a member of Saratoga County IDA, Saratoga County Ethics Advisory Council and Saratoga County Autism Council.
 Mary Beth lives in Burnt Hills with her adorable, but naughty labradoodle Kelly.
-Copyright © 2020 Mary Beth Walsh for NY State Assembly - All Rights Reserved.
+Copyright © # Mary Beth Walsh for NY State Assembly - All Rights Reserved.
+MEET MARY BETH NEWS & MEDIA 2026 VOTING INFORMATION CONTACT DONATE Powered by

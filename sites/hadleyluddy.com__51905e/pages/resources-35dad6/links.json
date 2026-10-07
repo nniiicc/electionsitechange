@@ -1,86 +1,382 @@
 [
-"http://capecdp.org/",
-"http://chathamha.org/",
-"http://easthamhousing.org/Home.aspx",
-"http://facebook.com/electhadleyluddy",
-"http://harwichha.org/",
-"http://hpccapecod.org/",
-"http://mass.gov/",
-"http://orleanshousing.org/Home.aspx",
-"https://alzfamilysupport.org/services",
-"https://apcc.org/",
-"https://asgcc.org/about/our-organization",
-"https://cacci.cc/",
-"https://capecodfishermen.org/",
-"https://capecodhealth.org/",
-"https://capecodhealth.org/medical-services/visiting-nurse-association",
-"https://capecodrta.org/",
-"https://capekidmeals.org/",
-"https://capeveterans.com/",
-"https://capewellness.org/",
-"https://ccyp.org/job-board",
-"https://chathamharvesters.com/",
-"https://childrenscove.org/",
-"https://dtaconnect.eohhs.mass.gov/apply",
-"https://duffyhealthcenter.org/",
-"https://elliefund.org/",
-"https://escci.org/",
-"https://facebook.com/electhadleyluddy",
-"https://familytablecollaborative.org/",
-"https://fishingpartnership.org/chatham-ma",
-"https://gbfb.org/need-food",
-"https://haconcapecod.org/",
-"https://hadleyluddy.com/",
-"https://hadleyluddy.com/cart",
-"https://hadleyluddy.com/contact",
-"https://hadleyluddy.com/home",
-"https://hadleyluddy.com/news",
-"https://hadleyluddy.com/newsletter",
-"https://hadleyluddy.com/priorities",
-"https://hadleyluddy.com/resources",
-"https://helpingourwomen.org/",
-"https://independencehouse.org/",
-"https://instagram.com/hadleyluddy",
-"https://instagram.com/hadleyluddy?hl=en",
-"https://keating.house.gov/",
-"https://lcoutreach.org/",
-"https://mahealthconnector.org/",
-"https://mapthatcapecod.com/",
-"https://markey.senate.gov/",
-"https://mass.gov/how-to/apply-for-unemployment-insurance-benefits",
-"https://mass.gov/info-details/massachusetts-emergency-food-assistance-program-mefap",
-"https://mass.gov/info-details/massachusetts-law-about-medicare",
-"https://mass.gov/info-details/resources-for-immigrants-in-massachusetts",
-"https://mass.gov/orgs/department-of-unemployment-assistance",
-"https://mass.gov/orgs/division-of-fisheries-and-wildlife",
-"https://mass.gov/orgs/massachusetts-department-of-environmental-protection",
-"https://mass.gov/orgs/massachusetts-department-of-transportation",
-"https://mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
-"https://mass.gov/service-details/low-income-home-energy-assistance-program-liheap",
-"https://mass.gov/service-details/meals-on-wheels",
-"https://mass.gov/snap-benefits-formerly-food-stamps",
-"https://mass.gov/topics/masshealth",
-"https://masshire-capeandislands.com/",
-"https://masslegalhelp.org/",
-"https://massoptions.org/massoptions",
-"https://mbta.com/",
-"https://medicare.gov/",
-"https://mefa.org/",
-"https://mlri.org/advocacy-issue/family-law-domestic-violence",
-"https://monomoy.edu/",
-"https://nausetschools.org/",
-"https://nps.gov/caco/index.htm",
-"https://outercape.org/services/community-based-services",
-"https://provincetownhousingauthority.com/",
-"https://sccls.org/",
-"https://secure.actblue.com/donate/friends-of-hadley-luddy-1",
-"https://senatorcyr.com/",
-"https://skipfood.org/",
-"https://sustainablecape.org/",
-"https://thefamilypantry.com/",
-"https://trurocommunitykitchen.org/",
-"https://warren.senate.gov/",
-"https://wecancenter.org/",
-"https://wellfleet246.org/",
-"https://wellfleethousing.org/"
+{
+"text": "0",
+"href": "https://www.hadleyluddy.com/cart"
+},
+{
+"text": "@hadleyluddy",
+"href": "https://instagram.com/hadleyluddy"
+},
+{
+"text": "About Hadley",
+"href": "https://www.hadleyluddy.com/"
+},
+{
+"text": "About Hadley",
+"href": "https://www.hadleyluddy.com/home"
+},
+{
+"text": "Aids Support Group",
+"href": "https://asgcc.org/about/our-organization"
+},
+{
+"text": "Alzheimer’s Family Support Center",
+"href": "https://www.alzfamilysupport.org/services"
+},
+{
+"text": "Cape Cod Fisherman’s Alliance",
+"href": "https://capecodfishermen.org/"
+},
+{
+"text": "Cape Cod Healthcare",
+"href": "https://www.capecodhealth.org/"
+},
+{
+"text": "Cape Cod National Seashore",
+"href": "https://www.nps.gov/caco/index.htm"
+},
+{
+"text": "Cape Cod Wellness Collaborative",
+"href": "https://www.capewellness.org/"
+},
+{
+"text": "Cape Cod Young Professionals Job Board",
+"href": "https://ccyp.org/job-board"
+},
+{
+"text": "Cape Kid Meals",
+"href": "https://capekidmeals.org/#:~:text=Cape%20Kid%20Meals%20currently%20provides,supported%20weekly%20through%20our%20programs"
+},
+{
+"text": "Chatham Harvesters",
+"href": "https://www.chathamharvesters.com/"
+},
+{
+"text": "Children’s Cove",
+"href": "https://www.childrenscove.org/"
+},
+{
+"text": "Community Development Partnership",
+"href": "http://www.capecdp.org"
+},
+{
+"text": "Contact",
+"href": "https://www.hadleyluddy.com/contact"
+},
+{
+"text": "Delegations",
+"href": "https://www.hadleyluddy.com/resources#delegations"
+},
+{
+"text": "Department of Unemployment Assistance",
+"href": "https://www.mass.gov/orgs/department-of-unemployment-assistance"
+},
+{
+"text": "Division of Fisheries and Wildlife",
+"href": "https://www.mass.gov/orgs/division-of-fisheries-and-wildlife"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-hadley-luddy-1"
+},
+{
+"text": "Duffy Health Center",
+"href": "https://www.duffyhealthcenter.org/"
+},
+{
+"text": "Elder Services of Cape Cod and the Islands",
+"href": "https://escci.org/"
+},
+{
+"text": "Environment",
+"href": "https://www.hadleyluddy.com/resources#environment"
+},
+{
+"text": "Family Table Collaborative",
+"href": "https://www.familytablecollaborative.org/"
+},
+{
+"text": "Fishing Partnership",
+"href": "https://fishingpartnership.org/chatham-ma/"
+},
+{
+"text": "Hadley.Luddy@mahouse.gov",
+"href": "mailto:Hadley.Luddy@mahouse.gov"
+},
+{
+"text": "Health Care and Food Insecurity",
+"href": "https://www.hadleyluddy.com/resources#health-and-food"
+},
+{
+"text": "Health Connector",
+"href": "https://www.mahealthconnector.org/"
+},
+{
+"text": "Helping Our Women",
+"href": "https://helpingourwomen.org/"
+},
+{
+"text": "Home Energy Assistance Program",
+"href": "https://www.mass.gov/service-details/low-income-home-energy-assistance-program-liheap"
+},
+{
+"text": "Homeless Prevention Council",
+"href": "http://www.hpccapecod.org"
+},
+{
+"text": "Housing Assistance Corporation on Cape Cod",
+"href": "https://haconcapecod.org/"
+},
+{
+"text": "Housing, Unemployment, Transportation",
+"href": "https://www.hadleyluddy.com/resources#housing-unemployment-transportation"
+},
+{
+"text": "Legislative Priorities",
+"href": "https://www.hadleyluddy.com/priorities"
+},
+{
+"text": "Lower Cape Outreach Council",
+"href": "https://lcoutreach.org/"
+},
+{
+"text": "Map That Cape Cod",
+"href": "https://www.mapthatcapecod.com/"
+},
+{
+"text": "Mass Legal Help",
+"href": "https://www.masslegalhelp.org"
+},
+{
+"text": "Mass.gov",
+"href": "http://mass.gov"
+},
+{
+"text": "MassHealth",
+"href": "https://www.mass.gov/topics/masshealth"
+},
+{
+"text": "MassHire For the Cape and Islands",
+"href": "https://www.masshire-capeandislands.com/"
+},
+{
+"text": "MassOptions",
+"href": "https://www.massoptions.org/massoptions/"
+},
+{
+"text": "Massachusetts Educational Financing Authority (MEFA)",
+"href": "https://www.mefa.org"
+},
+{
+"text": "Massachusetts Emergency Food Assistance Program (MEFAP)",
+"href": "https://www.mass.gov/info-details/massachusetts-emergency-food-assistance-program-mefap"
+},
+{
+"text": "Massachusetts Registry of Motor Vehicles",
+"href": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles"
+},
+{
+"text": "Meals on Wheels",
+"href": "https://www.mass.gov/service-details/meals-on-wheels"
+},
+{
+"text": "Medicare",
+"href": "https://www.medicare.gov/"
+},
+{
+"text": "Monomoy Regional Public Schools",
+"href": "https://www.monomoy.edu/"
+},
+{
+"text": "My Newsletters",
+"href": "https://www.hadleyluddy.com/newsletter"
+},
+{
+"text": "Nauset Public Schools",
+"href": "https://www.nausetschools.org/"
+},
+{
+"text": "News",
+"href": "https://www.hadleyluddy.com/news"
+},
+{
+"text": "Other Resources",
+"href": "https://www.hadleyluddy.com/resources#other-resources"
+},
+{
+"text": "Outer Cape Health Services",
+"href": "https://www.outercape.org/services/community-based-services/"
+},
+{
+"text": "Resources",
+"href": "https://www.hadleyluddy.com/resources"
+},
+{
+"text": "Resources for Immigrants in Massachusetts",
+"href": "https://www.mass.gov/info-details/resources-for-immigrants-in-massachusetts"
+},
+{
+"text": "SKIP",
+"href": "https://www.skipfood.org/"
+},
+{
+"text": "SNAP benefits (formerly food stamps)",
+"href": "https://www.mass.gov/snap-benefits-formerly-food-stamps"
+},
+{
+"text": "School and Education",
+"href": "https://www.hadleyluddy.com/resources#school-and-education"
+},
+{
+"text": "Senior Services and Elder Care",
+"href": "https://www.hadleyluddy.com/resources#senior-care"
+},
+{
+"text": "South Coastal Counties Legal Services",
+"href": "https://sccls.org/"
+},
+{
+"text": "Sustainable CAPE",
+"href": "https://sustainablecape.org/"
+},
+{
+"text": "The 246 Community Kitchen",
+"href": "https://wellfleet246.org/"
+},
+{
+"text": "The APCC",
+"href": "https://apcc.org/"
+},
+{
+"text": "The Cape Cod Regional Transit Authority",
+"href": "https://capecodrta.org/"
+},
+{
+"text": "The Cape and Islands Veterans Outreach Center",
+"href": "https://capeveterans.com/"
+},
+{
+"text": "The Community Action Committee of Cape Cod and The Islands",
+"href": "https://www.cacci.cc/"
+},
+{
+"text": "The Ellie Fund",
+"href": "https://www.elliefund.org/"
+},
+{
+"text": "The Family Pantry of Cape Cod",
+"href": "https://www.thefamilypantry.com/"
+},
+{
+"text": "The Independence House",
+"href": "https://independencehouse.org/"
+},
+{
+"text": "The Laws Surrounding Medicare",
+"href": "https://www.mass.gov/info-details/massachusetts-law-about-medicare"
+},
+{
+"text": "The MBTA",
+"href": "https://www.mbta.com"
+},
+{
+"text": "The Massachusetts Department of Environmental Protection",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection"
+},
+{
+"text": "The Massachusetts Department of Transportation",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-transportation"
+},
+{
+"text": "The Massachusetts Law Reform Institute",
+"href": "https://www.mlri.org/advocacy-issue/family-law-domestic-violence/"
+},
+{
+"text": "The Need Food? Program",
+"href": "https://www.gbfb.org/need-food/#googtrans(en%7Cen)"
+},
+{
+"text": "Truro Community Kitchen",
+"href": "https://www.trurocommunitykitchen.org/"
+},
+{
+"text": "Veterans, Legal, Domestic Violence, and Immigration",
+"href": "https://www.hadleyluddy.com/resources#legal"
+},
+{
+"text": "Visiting Nurse Association",
+"href": "https://www.capecodhealth.org/medical-services/visiting-nurse-association/"
+},
+{
+"text": "We Can",
+"href": "https://www.wecancenter.org/"
+},
+{
+"text": "[image: MA State Representative Hadley Luddy]",
+"href": "https://www.hadleyluddy.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/electhadleyluddy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hadleyluddy/?hl=en"
+},
+{
+"text": "facebook.com/electhadleyluddy",
+"href": "https://facebook.com/electhadleyluddy"
+},
+{
+"text": "gracyn.rountree@mahouse.gov",
+"href": "mailto:gracyn.rountree@mahouse.gov"
+},
+{
+"text": "http://www.chathamha.org/",
+"href": "http://www.chathamha.org/"
+},
+{
+"text": "http://www.easthamhousing.org/Home.aspx",
+"href": "http://www.easthamhousing.org/Home.aspx"
+},
+{
+"text": "http://www.harwichha.org/",
+"href": "http://www.harwichha.org/"
+},
+{
+"text": "http://www.orleanshousing.org/Home.aspx",
+"href": "http://www.orleanshousing.org/Home.aspx"
+},
+{
+"text": "https://dtaconnect.eohhs.mass.gov/apply",
+"href": "https://dtaconnect.eohhs.mass.gov/apply"
+},
+{
+"text": "https://keating.house.gov/",
+"href": "https://keating.house.gov/"
+},
+{
+"text": "https://www.provincetownhousingauthority.com/",
+"href": "https://www.provincetownhousingauthority.com/"
+},
+{
+"text": "https://www.senatorcyr.com/",
+"href": "https://www.senatorcyr.com/"
+},
+{
+"text": "https://www.wellfleethousing.org/",
+"href": "https://www.wellfleethousing.org/"
+},
+{
+"text": "link",
+"href": "https://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits"
+},
+{
+"text": "www.markey.senate.gov",
+"href": "https://www.markey.senate.gov/"
+},
+{
+"text": "www.warren.senate.gov",
+"href": "https://www.warren.senate.gov/"
+}
 ]

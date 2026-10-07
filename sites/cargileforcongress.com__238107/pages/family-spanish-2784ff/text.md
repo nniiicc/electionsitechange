@@ -1,6 +1,4 @@
-La Familia
-Nuestros hijos son nuestro mayor tesoro
-Como cristiano y hombre de familia, soy un hombre de la santidad de la definición bíblica del matrimonio y de la protección de la familia nuclear.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP La Familia Nuestros hijos son nuestro mayor tesoro Como cristiano y hombre de familia, soy un hombre de la santidad de la definición bíblica del matrimonio y de la protección de la familia nuclear.
 La unidad familiar es la piedra angular de nuestra sociedad, como va, así también la nación.
 Hace años, mi viejo pastor dijo: "Si sabes lo que sabe un abogado, sería un abogado.
 Si sabes lo que sabe un médico, sería un médico.
@@ -16,3 +14,6 @@ Viajábamos por California Central cuando paramos por gas.
 Mientras estaba llenando la mini-furgoneta, desconocida para mí, un hombre adulto, con mini-falda y tacones caminaron al baño de la mujer mientras mi hija estaba allí.
 Gracias a Dios, nada le pasó, pero prometo a las familias del 35th que trabajaré duro para asegurar que ninguna otra familia tenga que soportar algo así en el futuro.
 A diferencia de mi oponente, Norma J Torres, protegiré a nuestras familias y a nuestros hijos del alcance de estos depredadores pedófilos y trabajaré para salvaguardar sus mentes, corazones y emociones también.
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

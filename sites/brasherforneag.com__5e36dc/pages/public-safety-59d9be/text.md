@@ -1,4 +1,5 @@
-Strengthen Public Safety
-- As the state’s top law enforcement agency, the AG’s Office should lead by example and support law enforcement with the training, guidance, and resources they need to keep our communities safe.
-- Jocelyn’s plan targets cracking down on violent crimes, human trafficking, and the substance abuse epidemic, as well as child exploitation by establishing the PROTECT Task Force - Protecting Rights Online Through Enforcement, Collaboration, and Technology.
+0 Skip to Content Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Strengthen Public Safety As the state’s top law enforcement agency, the AG’s Office should lead by example and support law enforcement with the training, guidance, and resources they need to keep our communities safe.
+Jocelyn’s plan targets cracking down on violent crimes, human trafficking, and the substance abuse epidemic, as well as child exploitation by establishing the PROTECT Task Force - Protecting Rights Online Through Enforcement, Collaboration, and Technology.
 We must work proactively to protect our children both online and in our communities!
+Back to Priorities Connect with Jocelyn: Priorities Get Involved Contribution checks can be made payable to: Brasher for NE AG Address: P.O.
+Box 540098 Omaha, Nebraska 68154 CAMPAIGN EMAIL: vote@brasherforneag.com MEDIA INQUIRIES: media@brasherforneag.com PHONE: 402-739-9793 Paid for by BRASHER FOR NE AG Donate

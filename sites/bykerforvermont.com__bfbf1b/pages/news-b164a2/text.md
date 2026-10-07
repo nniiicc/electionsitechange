@@ -1,5 +1,1 @@
-NEWS ARTICLE
-ADDISON INDEPENDENT
-Addison independent - opinion
-Addison independent - opinion
-ADDISON INDEPENENT - OPINION
+Skip navigation menu About Issues Endorsements Volunteer News Donate About Issues Endorsements Volunteer News Donate news & press TANYA IN THE NEWS NEWS ARTICLE County to elect four new reps, new state’s attorney Read more Jun 5 2026 ADDISON INDEPENDENT Cornwall’s Byker aims for Addison-2 House seat Read more May 21 2026 Addison independent - opinion Tanya byker has proven her ability to lead Read more May 14 2026 Addison independent - opinion Tanya Byker will help us face our challenges Read more May 14 2026 ADDISON INDEPENENT - OPINION Tanya Byker Will Fight For You Read more May 14 2026 Get in touch: tanya@bykerforvermont.com Powered by RUN! website builder Paid for by Byker for Vermont, 3372 Route 30, Cornwall, VT 05753 You need to enable JavaScript to run this app.

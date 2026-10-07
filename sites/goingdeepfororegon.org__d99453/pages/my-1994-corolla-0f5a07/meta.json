@@ -1,7 +1,11 @@
 {
  "description": "Tom Lum Forest for Oregon House District 31",
  "final_url": "https://goingdeepfororegon.org/my-1994-corolla/",
- "paid_for_by": null,
+ "fingerprint": "b7b0a1ca172e042b5dadaf12bfe27e3d8df04f81",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My 1994 Corolla | Going Deep for Oregon",
- "years_mentioned": []
+ "years_mentioned": [
+  "1994"
+ ]
 }

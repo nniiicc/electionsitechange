@@ -1,14 +1,50 @@
 [
-"https://app.box.com/s/sb6uhen66c42xtdnjw53hogtlt8jj37t",
-"https://birdforiowa.com/",
-"https://birdforiowa.com/cdn-cgi/l/email-protection",
-"https://birdforiowa.com/information",
-"https://birdforiowa.com/news",
-"https://birdforiowa.com/privacy-policy",
-"https://birdforiowa.com/terms-conditions",
-"https://facebook.com/BirdforIowa",
-"https://globegazette.com/news/state-regional/government-politics/article_d4994980-b3cc-4adc-a8ac-d7fb7341c1fa.html",
-"https://secure.winred.com/bird-for-iowa/donate",
-"https://truthsocial.com/@BrennaBirdIA",
-"https://x.com/brennabird"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bird-for-iowa/donate"
+},
+{
+"text": "INFORMATION",
+"href": "https://birdforiowa.com/information"
+},
+{
+"text": "News",
+"href": "https://birdforiowa.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://birdforiowa.com/privacy-policy"
+},
+{
+"text": "RESEARCH",
+"href": "https://app.box.com/s/sb6uhen66c42xtdnjw53hogtlt8jj37t"
+},
+{
+"text": "Read more here",
+"href": "https://globegazette.com/news/state-regional/government-politics/article_d4994980-b3cc-4adc-a8ac-d7fb7341c1fa.html"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://birdforiowa.com/terms-conditions"
+},
+{
+"text": "[image: Brenna Bird Attorney General]",
+"href": "https://birdforiowa.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://truthsocial.com/@BrennaBirdIA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BirdforIowa/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/brennabird"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=AG+Bird+dedicates+Iowa%27s+%24126M+from+Meta+settlement&amp%3Bbody=https%3A%2F%2Fbirdforiowa.com%2Fnews%2Fag-bird-dedicates-iowa-s-126m-from-meta-settlement%2F"
+}
 ]

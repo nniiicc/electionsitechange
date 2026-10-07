@@ -1,11 +1,70 @@
 [
-"https://doyleheffleyforpa.com/",
-"https://facebook.com/heffley4rep",
-"https://instagram.com/doyleheffleyforpa",
-"https://pa.gov/agencies/vote/contact-us/contact-your-election-officials",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://secure.winred.com/committee-to-elect-doyle-heffley/donate-today?sc=winred-directory&money_pledge=false&recurring=false&exitintent=true",
-"https://tiktok.com/@doyleheffleyforpa"
+{
+"text": "About",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Contribute",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-doyle-heffley/donate-today?sc=winred-directory&money_pledge=false&recurring=false&exitintent=true"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.winred.com/committee-to-elect-doyle-heffley/donate-today?sc=winred-directory&money_pledge=false&recurring=false&exitintent=true"
+},
+{
+"text": "Election Information",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Find Your Polling Place Here",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Home",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.doyleheffleyforpa.com"
+},
+{
+"text": "Register To Vote Here",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request A Mail-In Ballot Here",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/heffley4rep/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/doyleheffleyforpa/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@doyleheffleyforpa"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/committee-to-elect-doyle-heffley/donate-today?sc=winred-directory&money_pledge=false&recurring=false&exitintent=true"
+},
+{
+"text": "county election office",
+"href": "https://www.pa.gov/agencies/vote/contact-us/contact-your-election-officials"
+}
 ]

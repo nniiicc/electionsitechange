@@ -1,36 +1,178 @@
 [
-"https://abc7.com/post/over-300-arrests-made-during-immigration-raids-marijuana-farms-camarillo-carpinteria-dhs-says/17075922",
-"https://bobsmithforcongress.com/",
-"https://bobsmithforcongress.com/Op-Eds",
-"https://bobsmithforcongress.com/bob-talks",
-"https://bobsmithforcongress.com/contact",
-"https://bobsmithforcongress.com/get-involved",
-"https://bobsmithforcongress.com/in-the-news",
-"https://bobsmithforcongress.com/issues",
-"https://bobsmithforcongress.com/latinos-con-bob",
-"https://bobsmithforcongress.com/media",
-"https://bobsmithforcongress.com/op-eds",
-"https://bobsmithforcongress.com/privacy-policy",
-"https://bobsmithforcongress.com/terms",
-"https://bobsmithforcongress.com/the-choice",
-"https://bobsmithforcongress.com/why-bob",
-"https://brennancenter.org/our-work/analysis-opinion/how-congressional-maps-could-change-2030",
-"https://california.ballottrax.net/voter",
-"https://carpinteria.granicus.com/MetaViewer.php?clip_id=1648&meta_id=105855",
-"https://cbsnews.com/losangeles/news/chirla-responds-to-potential-investigation-into-nonprofits-involvement-in-l-a-protests",
-"https://facebook.com/bobsmith4congress",
-"https://fec.gov/data/receipts/individual-contributions?two_year_transaction_period=2026&min_date=01%2F01%2F2025&max_date=12%2F31%2F2026",
-"https://governing.com/workforce/californias-long-term-population-slide-threatens-its-economy",
-"https://hagerty.senate.gov/press-releases/2024/01/25/hagerty-colleagues-introduce-legislation-to-end-counting-of-illegal-immigrants-in-determining-electoral-college-votes-and-congressional-district-apportionment",
-"https://hoover.org/research/despite-california-spending-24-billion-it-2019-homelessness-increased-what-happened",
-"https://instagram.com/bobsmith4congress",
-"https://linkedin.com/company/bobsmithforcongress",
-"https://noozhawk.com/rep-salud-carbajal-brown-people-are-targets-now-but-next-it-could-be-you",
-"https://ppic.org/publication/californias-population",
-"https://sbcurrent.com/p/the-immigration-corruption-complex",
-"https://secure.anedot.com/bob-smith-for-congress/contributehere",
-"https://secure.anedot.com/bob-smith-for-congress/donate",
-"https://sfgate.com/centralcoast/article/santa-barbara-county-cannabis-ice-detainees-20396002.php",
-"https://x.com/bobsmith4usa",
-"https://youtube.com/@BobSmithforCongress"
+{
+"text": "$24 billion spent on homelessness",
+"href": "https://www.hoover.org/research/despite-california-spending-24-billion-it-2019-homelessness-increased-what-happened"
+},
+{
+"text": "$35 million",
+"href": "https://www.cbsnews.com/losangeles/news/chirla-responds-to-potential-investigation-into-nonprofits-involvement-in-l-a-protests/"
+},
+{
+"text": "Analysts project we could lose up to four more after the 2030 census",
+"href": "https://www.brennancenter.org/our-work/analysis-opinion/how-congressional-maps-could-change-2030"
+},
+{
+"text": "Bob Talks",
+"href": "https://bobsmithforcongress.com/bob-talks/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "California has a citizen deficit each year",
+"href": "https://www.ppic.org/publication/californias-population/"
+},
+{
+"text": "Congressional seats and electoral votes aren’t based on citizenship; they’re based on total population",
+"href": "https://www.hagerty.senate.gov/press-releases/2024/01/25/hagerty-colleagues-introduce-legislation-to-end-counting-of-illegal-immigrants-in-determining-electoral-college-votes-and-congressional-district-apportionment/"
+},
+{
+"text": "Contact",
+"href": "https://bobsmithforcongress.com/contact/"
+},
+{
+"text": "Contact Bob’s Campaign",
+"href": "mailto:social@bobsmithforcongress.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/bob-smith-for-congress/contributehere"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "ES",
+"href": "https://bobsmithforcongress.com/latinos-con-bob/"
+},
+{
+"text": "FEC.gov Campaign Contributions.",
+"href": "https://www.fec.gov/data/receipts/individual-contributions/?two_year_transaction_period=2026&min_date=01%2F01%2F2025&max_date=12%2F31%2F2026"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "Follow on LinkedIn",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/bobsmith4usa"
+},
+{
+"text": "Follow on YouTube",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "In The News",
+"href": "https://bobsmithforcongress.com/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://bobsmithforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://bobsmithforcongress.com/media/"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/Op-Eds"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/op-eds/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bobsmithforcongress.com/privacy-policy/"
+},
+{
+"text": "Santa Barbara County Supervisors cut $240,000 in June",
+"href": "https://www.sfgate.com/centralcoast/article/santa-barbara-county-cannabis-ice-detainees-20396002.php"
+},
+{
+"text": "Santa Barbara Current",
+"href": "https://www.sbcurrent.com/p/the-immigration-corruption-complex"
+},
+{
+"text": "Terms of Use",
+"href": "https://bobsmithforcongress.com/terms/"
+},
+{
+"text": "The Choice",
+"href": "https://bobsmithforcongress.com/the-choice/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "Where's My Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Why Bob",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "[image: Bob Smith for Congress Logo]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[image: Bob Smith for US Congress]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bobsmith4usa"
+},
+{
+"text": "bleeding population",
+"href": "https://www.governing.com/workforce/californias-long-term-population-slide-threatens-its-economy"
+},
+{
+"text": "budget deficit",
+"href": "https://carpinteria.granicus.com/MetaViewer.php?clip_id=1648&meta_id=105855&view="
+},
+{
+"text": "judicial ICE warrants in Carpinteria and Camarillo",
+"href": "https://abc7.com/post/over-300-arrests-made-during-immigration-raids-marijuana-farms-camarillo-carpinteria-dhs-says/17075922/"
+},
+{
+"text": "“brown people” are being targeted to meet “xenophobic quotas.”",
+"href": "https://www.noozhawk.com/rep-salud-carbajal-brown-people-are-targets-now-but-next-it-could-be-you/"
+}
 ]

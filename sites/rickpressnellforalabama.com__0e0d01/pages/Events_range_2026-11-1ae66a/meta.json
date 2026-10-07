@@ -1,7 +1,11 @@
 {
  "description": "Rick Pressnell Campaign Events",
  "final_url": "https://www.rickpressnellforalabama.com/Events?range=2026-11",
- "paid_for_by": null,
+ "fingerprint": "4f67c5eeeb8c6998a1380d8c8827d428b32107c5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Rick Pressnell Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,16 +1,8 @@
-March 5, 2026
-|
-Press Release
-“Republicans ran a spirited campaign during the primary in Texas’s 32nd Congressional District, but now it is time for us to unite to defeat the Democrats in November.”
-Rockwall, TX – Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced that TX-32 primary opponent Monty Montanez has endorsed his campaign in the Republican primary runoff election for Texas’s 32nd Congressional District.
-Montanez, who ran in the initial round of the Republican primary, called for Republicans to unite behind Yarbrough as the party prepares for the general election this November.
-“Republicans ran a spirited campaign during the primary in Texas’s 32nd Congressional District, but now it is time for us to unite to defeat the Democrats in November,” said Monty Montanez.
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate Monty Montanez Endorses Jace Yarbrough, Urges Republicans to Unite Behind Trump-Endorsed Candidate March 5, 2026 | Press Release “Republicans ran a spirited campaign during the primary in Texas’s 32nd Congressional District, but now it is time for us to unite to defeat the Democrats in November.” ‍ Rockwall, TX – Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced that TX-32 primary opponent Monty Montanez has endorsed his campaign in the Republican primary runoff election for Texas’s 32nd Congressional District.
+Montanez, who ran in the initial round of the Republican primary, called for Republicans to unite behind Yarbrough as the party prepares for the general election this November. ‍ “Republicans ran a spirited campaign during the primary in Texas’s 32nd Congressional District, but now it is time for us to unite to defeat the Democrats in November,” said Monty Montanez.
 “I’m proud to endorse Jace Yarbrough, and I call on my fellow Republicans to join me in uniting behind the candidate endorsed by President Donald Trump.
-Now we move forward together and keep Texas red.”
-Yarbrough finished with over 49% of the vote in the Republican nine-person primary.
-“I am grateful for Monty’s support and for the campaign he ran on behalf of the people of this district,” said Jace Yarbrough.
+Now we move forward together and keep Texas red.” ‍ Yarbrough finished with over 49% of the vote in the Republican nine-person primary. ‍ “I am grateful for Monty’s support and for the campaign he ran on behalf of the people of this district,” said Jace Yarbrough.
 “Monty and his supporters care deeply about faith, freedom, and the future of Texas.
-As President Trump’s endorsed candidate in this race, I will continue working hard in the weeks ahead to unite Republicans across TX-32 so we can win this runoff, focus on the general election, and keep this seat in conservative hands.”
-Montanez’s endorsement adds to the growing coalition backing Yarbrough’s campaign, including President Donald J.
-Trump, Governor Greg Abbott, Turning Point Action, members of Congress, Texas state legislators, and a broad alliance of national, statewide, and local conservative grassroots, Second Amendment, pro-life, and family advocacy organizations.
-The full list of Jace’s endorsements can be viewed HERE.
+As President Trump’s endorsed candidate in this race, I will continue working hard in the weeks ahead to unite Republicans across TX-32 so we can win this runoff, focus on the general election, and keep this seat in conservative hands.” ‍ Montanez’s endorsement adds to the growing coalition backing Yarbrough’s campaign, including President Donald J.
+Trump, Governor Greg Abbott, Turning Point Action, members of Congress, Texas state legislators, and a broad alliance of national, statewide, and local conservative grassroots, Second Amendment, pro-life, and family advocacy organizations. ‍ The full list of Jace’s endorsements can be viewed HERE .
+Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

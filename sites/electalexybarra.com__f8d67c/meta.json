@@ -1,9 +1,9 @@
 {
  "description": "Official campaign website for Alex Ybarra for State Senate from the 13th Legislative District. Learn more about Alex's work in Olympia on your behalf.",
  "final_url": "https://electalexybarra.com/",
- "paid_for_by": "Paid for by: Friends of Alex Ybarra (R) | P",
+ "fingerprint": "593286401867ef9a1e8d326fd5f9bb92da9e4fae",
+ "format": 3,
+ "paid_for_by": "Paid for by: Friends of Alex Ybarra (R)",
  "title": "Alex Ybarra for State Senate",
- "years_mentioned": [
-  "2019"
- ]
+ "years_mentioned": []
 }

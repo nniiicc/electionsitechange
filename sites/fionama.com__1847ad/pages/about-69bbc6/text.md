@@ -1,4 +1,4 @@
-Fiona Ma, CPA is California’s 34th State Treasurer.
+Skip to content Home Endorsements Endorse Fiona Donate Media Videos Photos News Newsletter Press Releases About Fiona My Story Awards Agricultural Tours Recycling Tours Tell Fiona What Matters Why I Am Running ☰ Home Endorsements Endorse Fiona Donate Media Videos Photos News Newsletter Press Releases About Fiona My Story Awards Agricultural Tours Recycling Tours Tell Fiona What Matters Why I Am Running ☰ Fiona Ma, CPA is California’s 34th State Treasurer.
 Fiona is running to be California’s next Lieutenant Governor.
 She was first elected on November 6, 2018 with more votes than any other candidate for treasurer in the state’s history and re-elected to her second term in 2022.
 She is the first woman of color and the first woman Certified Public Accountant (CPA) elected to the position.
@@ -27,3 +27,5 @@ She was appointed to the Vatican’s Council on Inclusive Capitalism in 2020 and
 She is an Aspen Rodel Fellow and a Hunt- Kean Leadership Fellow, is a Member of the California Society of Certified Public Accountants, Co-Founded the San Francisco Farm Bureau, is an Honorary Chair and Spokesperson for the San Francisco Hepatitis B Free Campaign, and is a member of the Screen Actors Guild.
 She is married to Jason Hodge, a firefighter and Oxnard Harbor Commissioner.
 They are the proud parents of three adopted rescues, Monkey, Henry and Mina.
+Paid for by Fiona Ma for Lieutenant Governor 2026 • FPPC # 1457360 Contact Us | Privacy Policy Please contact Fiona directly at: Fiona@FionaMa.com .
+Correspondence can be sent to Fiona at 1032 Irving Street, #908, San Francisco, CA 94122 For official State Treasurer’s Office business correspondence, please send to the following address: 901 P Street, Sacramento, CA 95814 Scroll to Top About Fiona My Story Why I Am Running About Fiona Awards Agriculture Tours Recycling Tours Endorsements Endorsements Endorse Fiona Media Videos Photos News Newsletter Press Releases Tell Fiona What Matters Donate Instagram Facebook Youtube X-twitter Support Fiona Ma for Lieutenant Governor $100 $250 $500 $1,000 $2,500 $5,000 $9,800 Other

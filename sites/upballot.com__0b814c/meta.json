@@ -1,7 +1,11 @@
 {
  "description": "Elect Nick for Missouri State Representative for Mo House District 82",
  "final_url": "https://www.upballot.com/nick-kimble",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "4570e3c1fcc675cc0df1d50c931223b5cdcf1b49",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Elect Nick Kimble",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018"
+ ]
 }

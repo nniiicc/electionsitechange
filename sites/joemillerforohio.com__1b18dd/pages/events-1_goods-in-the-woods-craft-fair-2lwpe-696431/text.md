@@ -1,5 +1,2 @@
-Back to All Events
-The New London Fall Fest will feature West Clarksfield Smokers, face painting, ice cream, apple dumplings, kettle corn, crafts, live entertainment, and a Touch-a-Truck display.
-Previous
-Previous
-October 17
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events New London Fall Fest Saturday, October 24, 2026 12:00 PM 6:00 PM 67 South Main Street New London, Ohio, 44851 United States (map) Google Calendar ICS The New London Fall Fest will feature West Clarksfield Smokers, face painting, ice cream, apple dumplings, kettle corn, crafts, live entertainment, and a Touch-a-Truck display.
+Previous Previous October 17 Goods in the Woods Craft Fair DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

@@ -1,6 +1,26 @@
 [
-"https://google.com/maps/search/3620+Pelham+Rd.,+Suite+5+%0D%0A++++++++++++++++++++++++South+Carolina,+++29615?entry=gmail",
-"https://jessica4sc.com/",
-"https://jessica4sc.com/blank",
-"https://jessica4sc.com/donate"
+{
+"text": "3620 Pelham Rd., Suite 5",
+"href": "https://www.google.com/maps/search/3620+Pelham+Rd.,+Suite+5+%0D%0A++++++++++++++++++++++++South+Carolina,+++29615?entry=gmail"
+},
+{
+"text": "DONATE",
+"href": "https://www.jessica4sc.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jessica4sc.com"
+},
+{
+"text": "South Carolina, 29615",
+"href": "https://www.google.com/maps/search/3620+Pelham+Rd.,+Suite+5+%0D%0A++++++++++++++++++++++++South+Carolina,+++29615?entry=gmail"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.jessica4sc.com/blank"
+},
+{
+"text": "jessicaethridgeforsc@gmail.com",
+"href": "mailto:jessicaethridgeforsc@gmail.com"
+}
 ]

@@ -1,8 +1,14 @@
-ABC News
-Spa shootings could be first test of Georgia hate crimes law
-The murder case against a white man accused of shooting and killing six women of Asian descent and two other people at Atlanta-area massage businesses could become the first big test for Georgia’s new hate crimes law.
-ATLANTA — The murder case against a white man charged with shooting and killing six women of Asian descent and two other people at Atlanta-area massage businesses this week could become the first big test for Georgia’s new hate crimes law.
+Meet Michelle Priorities Economic Prosperity Public Safety Reproductive Rights Healthcare Education Voting Rights Voter Guide News Join #TeamAu DONATE Menu Menu Meet Michelle Priorities Economic Prosperity Public Safety Reproductive Rights Healthcare Education Voting Rights News Voter Guide Join #TeamAu In the News ABC News Spa shootings could be first test of Georgia hate crimes law The murder case against a white man accused of shooting and killing six women of Asian descent and two other people at Atlanta-area massage businesses could become the first big test for Georgia’s new hate crimes law.
+Biden addresses deadly Atlanta-area spa shootings By KATE BRUMBACK Associated Press March 20, 2021, 3:06 PM ATLANTA — The murder case against a white man charged with shooting and killing six women of Asian descent and two other people at Atlanta-area massage businesses this week could become the first big test for Georgia’s new hate crimes law.
 Robert Aaron Long, 21, told police that the attacks Tuesday at two spas in Atlanta and another massage business near suburban Woodstock were not racially motivated and claimed to have a sex addiction.
 Authorities said he apparently lashed out at what he saw as sources of temptation but were still investigating his motive.
 Because most of the victims were women of Asian descent, there’s skepticism of that explanation and public clamoring for hate crime charges, especially among the Asian American community, which has faced rising numbers of attacks since the coronavirus pandemic took hold.
 But, like many states, the Georgia law enacted last summer does not provide for a standalone hate crime, instead allowing an additional penalty when a person is convicted of another crime.
+READ MORE March 20, 2021 Share this entry Share on Facebook Share on X Share on LinkedIn Share by Mail https://auforga.com/wp-content/uploads/2021/03/ABCNews-Biden.png 710 1262 Dr.
+Michelle Au https://auforga.com/wp-content/uploads/2021/12/AuLogo-388x190-1.png Dr.
+Michelle Au 2021-03-20 22:49:43 2024-05-03 18:36:29 ABC News Recent Posts Threat To Mail-In Ballots September 8, 2026 Special Session Recap June 29, 2026 Deep Dive into Next Week’s Redistricting Special Session June 8, 2026 Today is Sine Die!
+April 2, 2026 From operating room to the Gold Dome: How Georgia’s medical lawmakers shape policy March 23, 2026 Au for Georgia, Inc.
+5805 State Bridge Road, Suite G238 Johns Creek, Georgia 30097 michelle@auforga.com 770-405-9418 Site Map Meet Michelle Voter Guide In the News Join #TeamAu Privacy Policy Terms of Use © # Paid for by Au for Georgia, inc.
+Designed by Benton Creative .
+Link to: WABE 90.1FM WABE 90.1FM Link to: “It is easier to buy a gun here than it is to vote”: Georgia State Senator Michelle Au “It is easier to buy a gun here than it is to vote”: Georgia State...
+Scroll to top Scroll to top

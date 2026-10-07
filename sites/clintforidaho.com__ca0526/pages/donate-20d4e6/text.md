@@ -1,4 +1,4 @@
-Donate Today!
+Skip to content Toggle Navigation Home About Issues Donate Media Contact Donate effyis 2026-03-16T22:11:29-06:00 Donate Today!
 In my first term, I earned the #1 Republican ranking in Idaho by standing firm on conservative principles — constitutional liberties, fiscal responsibility, family values, and secure borders.
 Now I need your help to continue this fight.
 My opponents are well-funded by special interests who want to replace conservative leadership in District 24.
@@ -15,4 +15,4 @@ Every dollar goes directly to the campaign — yard signs, door knocking, mailer
 No corporate PAC money.
 No backroom deals.
 Just Idaho families standing together.
-Your donation, no matter the size, makes a real difference in keeping District 24 conservative.
+Your donation, no matter the size, makes a real difference in keeping District 24 conservative. © # Clint Hostetler for State Representative | All Rights Reserved Privacy Policy | Paid for by Dannielle Hostetler Treasurer Page load link Go to Top

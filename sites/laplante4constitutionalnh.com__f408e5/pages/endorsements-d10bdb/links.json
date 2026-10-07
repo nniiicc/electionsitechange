@@ -1,9 +1,34 @@
 [
-"https://facebook.com/laplante4constitutionalnh",
-"https://laplante4constitutionalnh.com/about-me",
-"https://laplante4constitutionalnh.com/contact",
-"https://laplante4constitutionalnh.com/donate",
-"https://laplante4constitutionalnh.com/endorsements",
-"https://laplante4constitutionalnh.com/my-platform",
-"https://x.com/laplante4senate"
+{
+"text": "About Me",
+"href": "https://laplante4constitutionalnh.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://laplante4constitutionalnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://laplante4constitutionalnh.com/donate"
+},
+{
+"text": "Edmond Laplante for US SenateEdmond Laplante for US SenateEdmond Laplante for US SenateEdmond Laplante for US Senate",
+"href": "https://laplante4constitutionalnh.com/about-me"
+},
+{
+"text": "Endorsements",
+"href": "https://laplante4constitutionalnh.com/endorsements"
+},
+{
+"text": "My Platform",
+"href": "https://laplante4constitutionalnh.com/my-platform"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/laplante4constitutionalnh"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/laplante4senate"
+}
 ]

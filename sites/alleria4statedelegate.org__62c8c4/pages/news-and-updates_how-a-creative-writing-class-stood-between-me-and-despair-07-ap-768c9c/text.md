@@ -1,4 +1,6 @@
-“How a Creative Writing Class Stood Between Me and Despair”, 07 April 2025, Op-Ed, The Advocate
-How a creative writing class stood between me and despair, Amid a rising tide of prejudice, a transgender veteran transforms her battle for identity by using her voice.
-Written by Alleria Stanley
-https://www.advocate.com/voices/transgender-veteran-art-activism
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign “How a Creative Writing Class Stood Between Me and Despair”, 07 April 2025, Op-Ed, The Advocate Sep 22 Written By Apple User How a creative writing class stood between me and despair, Amid a rising tide of prejudice, a transgender veteran transforms her battle for identity by using her voice.
+Written by Alleria Stanley https://www.advocate.com/voices/transgender-veteran-art-activism Apple User Previous Previous “Veterans Affairs clinicians sign letter against Trump's ban on trans vets' care: ‘There is resistance’”, 11 April 2025, Interview, The Advocate Next Next “Trans troops face a difficult choice with Department of Defense initiative”, All Things Considered, 04 April 2025, Interview, NPR, Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

@@ -1,8 +1,6 @@
-Gov.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu Gov.
 Little celebrates U.S.
-Supreme Court’s decision upholding protections for women’s sports
-Jun 30, 2026
-Boise, Idaho – Governor Brad Little commented today on the U.S.
+Supreme Court’s decision upholding protections for women’s sports Jun 30, 2026 Boise, Idaho – Governor Brad Little commented today on the U.S.
 Supreme Court’s decision in Little v.
 Hecox.
 The ruling upholds Idaho’s ban on men participating in women’s sports.
@@ -10,3 +8,5 @@ The ruling upholds Idaho’s ban on men participating in women’s sports.
 We are leading the nation in supporting generations of women and men who fought hard to uphold Title IX protections and keep girls and women safe.
 I want to thank the Idaho Legislature and Representative Barbara Ehardt in particular for her leadership on this issue of great importance to female athletes across Idaho and the nation.
 This is a historic moment for common sense!” Governor Little said.
+Back P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

@@ -1,6 +1,4 @@
-Podcast: California Screamin’
--
-9/16/26 California Screamin' Episode 2: Scotts Valley's Threat from Sacramento One shot.
+Skip to Content Open Menu Close Menu Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Open Menu Close Menu Folder: Meet Carol Back About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Folder: Get Involved Back Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Folder: Housing Mandates Back The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Folder: Vote 2026 Back Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Folder: Podcasts Back California Screamin Carol Pefley for Assembly Patriot Store Donate Podcast: California Screamin’ Skip to Videos 9/16/26 California Screamin' Episode 2: Scotts Valley's Threat from Sacramento One shot.
 That's all Scotts Valley got to save a prime commercial building from being bulldozed for a project the City Council never even got to vote on.
 On this episode of California Screamin', I sit down with Scotts Valley Vice Mayor Steve Clark, who tells the story firsthand: how state housing mandates let a developer bypass local review entirely, how the city tried to offer an alternative site instead of tearing down a building that provides local jobs, and how state officials threatened to bring "the full force of the Attorney General's office" down on Scotts Valley for simply asking to be heard.
 This is exactly the kind of Sacramento overreach I talk about constantly, cities aren't opposing housing, they're being stripped of any say in how and where it gets built.
@@ -10,14 +8,11 @@ I wrote about this exact pattern happening across our district.
 Read more at, Local control matters.
 Local voices matter.
 It's time Sacramento remembered that. 🎙️ Subscribe, share, and join the movement to bring common sense back to California.
--
-• 2/17/26 Designed to Explode "They are designed to explode."- Dr.
+Environment , Tech Exposed , • 2/17/26 Designed to Explode "They are designed to explode."- Dr.
 Michael Hogan, a Stanford PhD physicist and environmental expert, reveals a shocking truth: lithium-ion batteries are inherently designed to explode.
 With 8 major plant explosions in California last year alone, he explains why this is not an accident, but a feature.
--
-• 2/15/26 California Screamin' Episode 1: Moss Landing BESS Fire Exposed This episode spotlights the devastating Moss Landing Battery Energy Storage System (BESS) fire and features an exclusive interview with physicist Dr.
+Environment , • 2/15/26 California Screamin' Episode 1: Moss Landing BESS Fire Exposed This episode spotlights the devastating Moss Landing Battery Energy Storage System (BESS) fire and features an exclusive interview with physicist Dr.
 Michael Hogan.
--
 9/16/26 California Screamin' Episode 2: California Mandates and the Hidden Costs of Sacramento's Plan In this episode, host Carol Pefley, candidate for California State Assembly District 28, sits down with Steve Clark, Vice Mayor of Scotts Valley, to explore how California's aggressive state housing mandates are reshaping small communities across the state, often against the will of local residents and elected officials.
 What You'll Learn The Laws Behind the Chaos Discover how legislation like SB330, AB 2011, and the density bonus law strip cities of local planning authority and force high-density developments regardless of community needs or infrastructure capacity.
 Real-World Impacts Hear directly from a city leader about the concrete consequences: Scotts Valley must add 1,200 housing units, forcing the demolition of commercial properties, loss of tax revenue, and strain on roads, water systems, fire, and police services—all without state funding.
@@ -27,7 +22,6 @@ Developer Profits vs.
 Community Needs Explore who's really benefiting from these mandates, builders and unions, and why a one-size-fits-all approach designed for urban centers fails in smaller bedroom communities like Scotts Valley, Morgan Hill, and Willow Glen.
 What Citizens Can Do Get actionable steps to reclaim local control: contact state legislators, research and vote for candidates who defend community values, and help restore balance to California governance.
 This episode reveals the unintended consequences of well-intentioned policy and makes the case for restoring local decision-making power to the communities that know their needs best.
--
 9/3/26 California Screamin' Episode 3: Campus Violence, Cancel Culture, & the Fight for Free Speech Free speech is under siege on American college campuses, and the stakes have never been higher.
 In this episode of California Screamin', host Carol Pefley sits down with Sean Semanko, founder of Uncensored America, to discuss the alarming rise of campus violence, cancel culture, and the organized efforts to silence dissenting voices.
 Sean shares firsthand accounts of violent disruptions at major universities—from Antifa attacks that forced event cancellations to coordinated efforts by student governments to defund free speech organizations.
@@ -38,7 +32,6 @@ He explains why young people are increasingly aware of these threats to freedom 
 From the assassination of Charlie Kirk to violent protests at UC Berkeley, we examine how far some will go to suppress speech they disagree with and what that means for democracy.
 Plus, hear about Uncensored America's expansion plans in California and why Sean believes the Golden State is worth fighting for.
 Don't miss this essential conversation about protecting one of America's most fundamental rights.
--
 10/2/26 California Screamin' Episode 4: Prop 43 Explained, Protect Prop 13 & Stop Local Tax Hikes Can California taxpayers restore the two-thirds vote requirement for local special taxes?
 In Episode 4 of California Screamin, Carol Pefley sits down with Jon Coupal, President of the Howard Jarvis Taxpayers Association, for a timely discussion about Proposition 43, the Local Taxpayer Protection Act—an initiative focused on restoring an important voter safeguard associated with Proposition 13.
 They break down what Prop 43 would do, why the “Upland loophole” matters, how local special taxes can reach the ballot with only a simple majority under current rules, and why the Howard Jarvis Taxpayers Association believes Californians should restore the two-thirds approval threshold for these taxes.
@@ -46,3 +39,10 @@ Carol and Jon also discuss: Why Proposition 43 is different from the original Pr
 But taxpayer protections only work when voters understand what is on the ballot and make their voices heard.
 Carol Pefley is a small-business owner, real-estate broker, mother, and candidate for California State Assembly District 28.
 She is running to fight for lower costs, taxpayer accountability, local control, safer communities, and real checks and balances in Sacramento.
+Help Carol Pefley Win Donate Today Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Email List Join our email list to stay connected with campaign updates and local news.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
+All Rights Reserved. | site design by Conservative Toolbox

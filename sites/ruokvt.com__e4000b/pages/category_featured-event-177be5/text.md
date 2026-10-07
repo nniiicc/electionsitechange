@@ -1,9 +1,13 @@
-by suz | Oct 1, 2026 | Featured event, From the Trail, Uncategorized
-Comedy Show “Independently Funny!” A star-studded line up to include a Boston Comedy Stop regular: hilarious comedienne ANNIE POWELL, who will be headlining this show, as well as Julia Colasanti, Jermy Rayburn, King Mecca and your host, Tam Lantz~Open to...
-by admin | Jul 16, 2026 | Featured event, Press
-My first time on the radio as a political candidate AND a comedian… who knew policy and punchlines could mix so well?
+Are you okay, Vermont?
+Suzanne Seymour: Independent Candidate for U.S.
+Congress – Vermont Home Donate Events About Issues Contact Get Involved COMEDY SHOW “Independently Funny!” with Special Guest, ANNIE POWELL by suz | Oct 1, 2026 | Featured event , From the Trail , Uncategorized Comedy Show “Independently Funny!” A star-studded line up to include a Boston Comedy Stop regular: hilarious comedienne ANNIE POWELL, who will be headlining this show, as well as Julia Colasanti, Jermy Rayburn, King Mecca and your host, Tam Lantz~Open to...
+July 14, 2026 Alison Despathy and Elizabeth Brown welcome in Suzanne Seymour, Independent candidate for U.S.
+Congress in Vermont by admin | Jul 16, 2026 | Featured event , Press My first time on the radio as a political candidate AND a comedian… who knew policy and punchlines could mix so well?
 Alison and Elizabeth talk with Suzanne about her campaign to be Vermont’s next representative in the U.S.
 House.
 Suzanne’s website is...
-by admin | Jul 14, 2026 | Featured event, Press
-“Politics Unusual” Campaign Focuses on Listening to Vermonters, Strengthening Communities, and Restoring Trust in Government MONTPELIER, VERMONT — June 28, 2026 — Suzanne “Suz” Seymour, a Colchester small-business owner, massage therapist,...
+Suzanne “Suz” Seymour announces independent campaign for U.S.
+Congress by admin | Jul 14, 2026 | Featured event , Press “Politics Unusual” Campaign Focuses on Listening to Vermonters, Strengthening Communities, and Restoring Trust in Government MONTPELIER, VERMONT — June 28, 2026 — Suzanne “Suz” Seymour, a Colchester small-business owner, massage therapist,...
+Search Search Recent Posts COMEDY SHOW “Independently Funny!” with Special Guest, ANNIE POWELL WVMT Radio “Chronicle Conversations” w/Guy Page WVMT News Talk interview 07.18.2026 July 14, 2026 Alison Despathy and Elizabeth Brown welcome in Suzanne Seymour, Independent candidate for U.S.
+Congress in Vermont Suzanne “Suz” Seymour announces independent campaign for U.S.
+Congress Recent Comments No comments to show. © # Suz for Vermont

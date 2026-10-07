@@ -1,7 +1,9 @@
 {
  "description": "Bill Vivian Campaign Events",
  "final_url": "https://www.billvivianhd8.net/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "cb2aab588b205493756b4c4bea3f3e34637f62bb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bill Vivian Campaign Events",
  "years_mentioned": [
   "2026"

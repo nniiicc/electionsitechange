@@ -1,12 +1,16 @@
 {
  "description": "See upcoming campaign events to attend along with news stories, videos, and all other campaign news...",
  "final_url": "https://www.ransonhouse34.com/news",
- "paid_for_by": null,
+ "fingerprint": "9170c5199d7d4b9db1473d02beb3c771863ae117",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Trish Ranson",
  "years_mentioned": [
+  "1979",
   "2018",
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

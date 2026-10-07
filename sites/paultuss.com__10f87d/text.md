@@ -1,28 +1,38 @@
-Paul Tuss for House District 27
-PAUL TUSS
-For House District 27
-Thanks to everyone who has been so encouraging in my decision to run for the Montana Legislature in House District 27.
+Home Contribute Follow on Facebook In the News Select Page Paul Tuss for House District 27 Good Jobs and a Growing Economy I have worked for 27 years in Havre and northern Montana to help the private sector expand and create jobs and to build communities that are great places to work, start a business and invest.
+In the Montana Legislature I will support those initiatives that help small businesses flourish, that encourage entrepreneurial growth and that promote strong public-private partnerships.
+Accessing Public Lands Montana is fortunate to have an abundance of public lands used for hunting, fishing, hiking and other recreational purposes.
+Protecting these special places for us and future generations will always be a top priority of mine.
+I will resist efforts to sell off public lands to the highest bidder and will always be on the side of assuring access to our state’s public lands and waterways.
+Building A Solid Infrastructure The foundation of a strong economy is a solid infrastructure.
+The State of Montana has a critical role to play in funding the construction and rehabilitation of our roads, highways, water and sewer systems, irrigation projects, airports and bridges.
+I will fight for every dollar that rural northern Montana has coming to it to assure that our basic infrastructure is strong.
+Quality Public Schools Public schools are the foundation of our democracy and are critical in educating our citizens and future workforce.
+Proper funding for K-12 education and our university system will benefit Montana for decades to come.
+I will always support our public school system, including MSU-Northern.
+Working Together A hallmark of a functioning democracy is working with diverse interests for the common good, not worrying about who gets credit and understanding that compromise is necessary to develop sound public policy.
+I am committed to working in a bipartisan manner to get results for Havre and northern Montana.
+Supporting Law Enforcement Safe communities are important for business growth and quality of life and are key for housing development as well.
+The State of Montana has a significant obligation to partner with local communities to properly support law enforcement, mental health professionals, our court system and addiction services.
+I will strongly support the tools that law enforcement, our criminal justice system and our mental health professionals need to maintain safe, healthy communities.
+PAUL TUSS For House District 27 Thanks to everyone who has been so encouraging in my decision to run for the Montana Legislature in House District 27.
 I would be honored with your continued support as we focus on common sense priorities for our state.
-In the News
-A Brawl of the Wild tradition: Let the bands play!
+Contribute In the News A Brawl of the Wild tradition: Let the bands play!
 Paul Tuss, Opinion, Havre Daily News11/24/2023 Montanans just enjoyed the largest sporting event of the year, with more than 27,000 of us coming together in person to witness this year’s version of the Brawl of the Wild.
 The football game and intrastate rivalry...
-Supporting MSU-Northern
-Havre Daily News - August 4, 2022Opinion - Paul Tuss In a few short years, Montana State University-Northern will be celebrating the 100th year of its founding.
+Supporting MSU-Northern Havre Daily News - August 4, 2022Opinion - Paul Tuss In a few short years, Montana State University-Northern will be celebrating the 100th year of its founding.
 Over the course of the near-century it has been in existence, thousands upon thousands of Montana’s sons...
-Governing from the middle
-Havre Daily News - May 13, 2022 Given today’s political environment, it is sometimes difficult to recall a time, not so long ago, when working across party lines and seeking compromise on public policy issues was commonplace, expected, and the appropriate way to...
+Governing from the middle Havre Daily News - May 13, 2022 Given today’s political environment, it is sometimes difficult to recall a time, not so long ago, when working across party lines and seeking compromise on public policy issues was commonplace, expected, and the appropriate way to...
 An old-fashioned idea: Let’s debate!
 Havre Daily News - April 7, 2022 The stage is now set.
 Although the general election is still months away, we know who will be on the ballot in November to represent Havre in the Montana House of Representatives.
 I’ve had the great honor of working for and with the...
-Hill County Democrats introduce candidates
-Havre Daily News - March 21, 2022 Hill County Democrats introduced seven candidates for local, state and national elections at a meeting Sunday, where the candidates spoke about their goals and qualifications and encouraged attendees to get as many Democrats as...
-Tuss Enters Race to Represent Havre in State Legislature
-High-Line Today - February 14, 2022 A second candidate is planning to enter the race to represent Havre in the State Legislature.
+Hill County Democrats introduce candidates Havre Daily News - March 21, 2022 Hill County Democrats introduced seven candidates for local, state and national elections at a meeting Sunday, where the candidates spoke about their goals and qualifications and encouraged attendees to get as many Democrats as...
+Tuss Enters Race to Represent Havre in State Legislature High-Line Today - February 14, 2022 A second candidate is planning to enter the race to represent Havre in the State Legislature.
 Democrat Paul Tuss has announced he is joining the race for House District 28, where incumbent Republican Ed Hill had been the only...
-Tuss files for house seat
-Havre Daily News - February 15, 2022 Paul Tuss has announced he will file as a Democrat as a candidate in the race for House District 28.
+Tuss files for house seat Havre Daily News - February 15, 2022 Paul Tuss has announced he will file as a Democrat as a candidate in the race for House District 28.
 First-year Rep.
 Ed Hill, R-Havre, has filed for reelection in the race.
-More…
+More… Paid for by Tuss for House, P.O.
+Box 411, Havre, MT 59501.
+Debbie Rhines, Treasurer.
+Democrat Website by BigSkyWeb

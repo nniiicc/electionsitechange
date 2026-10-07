@@ -1,10 +1,3 @@
-Back to All Events
-Join us for a Community Conversation at Claflin University in partnership with the NAACP.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Back to All Events Forward Together Friday, March 27, 2026 5:00 PM 7:00 PM Google Calendar ICS Join us for a Community Conversation at Claflin University in partnership with the NAACP.
 Learn about the power of your vote, how to get involved, and your congressional candidate for District 2 Zyon Khalifa!
-Previous
-Previous
-March 21
-Campaign Kickoff
-Next
-Next
-April 7
+Previous Previous March 21 Campaign Kickoff Next Next April 7 USCA NAACP General Body Meeting Meet Zyon Khalifa Platform Volunteer Privacy Policy

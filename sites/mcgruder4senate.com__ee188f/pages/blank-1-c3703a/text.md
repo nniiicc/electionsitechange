@@ -1,5 +1,5 @@
-MEET JESSIE
-Hello, I am Rep.
+top of page Home About Jessie Issues News Donate Use tab to navigate through the menu items.
+MEET JESSIE Hello, I am Rep.
 Jessie McGruder, son of Julious and Laverne McGruder and a lifelong Arkansan.
 My parents taught me about God, the importance of education, and most of all the importance of family.
 My drive to participate and serve in the activities that I am most passionate about began during my time at my Alma Mater, Barton High School.
@@ -16,4 +16,13 @@ I take pleasure in cooking, cruising, family, basketball, and reading.
 My family is no stranger to politics; my father served on the Barton School board, and my mother is currently a board member for the Phillips Community College of the University of Arkansas.
 Following in their footsteps, I currently serve as a Personnel Policy Committee representative in West Memphis School District, and a coach for the football, basketball, and track teams at Wonder Jr High School.
 In the State House, I've worked hard to strengthen our community's public schools and protect the voting rights of Arkansans in the Delta.
-As your State Senator, I'll continue to speak up for those who feel their voices have been silenced.
+As your State Senator, I'll continue to​ speak up for those who feel their voices have been silenced.
+Cayden Berry Bonus son Born & raised in West Memphis, AR "I am a junior at The University of Arkansas at Little Rock studying Electrical & Computer Engineering.
+I am an advocate for Mr.
+McGruder because of his tenacious attitude and potent compassion for others.
+A selfless man with a bright vision for Arkansas." Jessika McGruder Daughter Born in West Helena, AR Currently residing in Marion, AR "I graduated from the Academies of West Memphis during the Covid-19 Pandemic.
+I am currently working as a CNA in a local nursing home.
+I am working towards becoming an LPN.
+My goal is to be a pediatric nurse at one of Memphis's children's hospitals.
+I support Jessie McGruder because he has always been there for me in every situation. " Join us!
+Sign up to volunteer with our campaign Volunteer CashApp Donate McGruder4Senate mcgruder4arkansashouse@gmail.com bottom of page

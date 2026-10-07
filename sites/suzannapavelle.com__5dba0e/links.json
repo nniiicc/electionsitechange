@@ -1,19 +1,98 @@
 [
-"https://act.suzannapavelle.com/contact-us",
-"https://act.suzannapavelle.com/events",
-"https://act.suzannapavelle.com/volunteer",
-"https://bsky.app/profile/suzannapavelle.bsky.social",
-"https://facebook.com/suzannapavellefl19",
-"https://secure.actblue.com/donate/suzanna-pavelle",
-"https://suzannapavelle.com/",
-"https://suzannapavelle.com/get-involved",
-"https://suzannapavelle.com/issue/affordability",
-"https://suzannapavelle.com/issue/public-education",
-"https://suzannapavelle.com/issue/smart-growth-water-and-natural-heritage",
-"https://suzannapavelle.com/issues",
-"https://suzannapavelle.com/meet-suzanna",
-"https://suzannapavelle.com/news",
-"https://suzannapavelle.com/priorities",
-"https://threads.com/@suzannapavellefl19?hl=en",
-"https://x.com/SPavelleForFL"
+{
+"text": "Affordability",
+"href": "https://suzannapavelle.com/issue/affordability/"
+},
+{
+"text": "BlueSky",
+"href": "https://bsky.app/profile/suzannapavelle.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://act.suzannapavelle.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/suzanna-pavelle"
+},
+{
+"text": "Events",
+"href": "https://act.suzannapavelle.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/suzannapavellefl19"
+},
+{
+"text": "Get Involved",
+"href": "https://suzannapavelle.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://suzannapavelle.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://suzannapavelle.com/issue/affordability/"
+},
+{
+"text": "Learn More",
+"href": "https://suzannapavelle.com/issue/public-education/"
+},
+{
+"text": "Learn More",
+"href": "https://suzannapavelle.com/issue/smart-growth-water-and-natural-heritage/"
+},
+{
+"text": "Meet Suzanna",
+"href": "https://suzannapavelle.com/meet-suzanna/"
+},
+{
+"text": "News",
+"href": "https://suzannapavelle.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://suzannapavelle.com/priorities/"
+},
+{
+"text": "Public Education",
+"href": "https://suzannapavelle.com/issue/public-education/"
+},
+{
+"text": "Smart Growth",
+"href": "https://suzannapavelle.com/issue/smart-growth-water-and-natural-heritage/"
+},
+{
+"text": "Support The Campaign",
+"href": "https://secure.actblue.com/donate/suzanna-pavelle"
+},
+{
+"text": "Suzanna Pavelle for Florida House 19",
+"href": "https://suzannapavelle.com"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@suzannapavellefl19?hl=en"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/SPavelleForFL"
+},
+{
+"text": "Volunteer",
+"href": "https://act.suzannapavelle.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://suzannapavelle.com/issue/affordability/"
+},
+{
+"text": "[no text]",
+"href": "https://suzannapavelle.com/issue/public-education/"
+},
+{
+"text": "[no text]",
+"href": "https://suzannapavelle.com/issue/smart-growth-water-and-natural-heritage/"
+}
 ]

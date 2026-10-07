@@ -1,11 +1,5 @@
-Support the Campaign
-Get involved, Attend Events,
-get out the vote
-Host an event, write postcards & more!
-Fill out the form or email hello@jjgalvez.com
-We’re building a grassroots campaign
-Bringing a new voice and new perspective to Sacramento—one focused on improving all our lives in real, measurable ways—is challenging, and we need your help to get there.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Support the Campaign Get involved, Attend Events, get out the vote Hear from the Candidate Join In Join In Host an event, write postcards & more!
+Fill out the form or email hello@jjgalvez.com More town halls & candidate forums We’re building a grassroots campaign Bringing a new voice and new perspective to Sacramento—one focused on improving all our lives in real, measurable ways—is challenging, and we need your help to get there.
 Donating money helps a lot since I’m not taking big PAC or corporate money.
 Donating time is also tremendously helpful—whether you have two hours a month or want to take on a leadership role to help our campaign across the finish line, there’s a space for you!
-Or schedule time to talk
-Use the link below to schedule time on my calendar for a quick conversation
+Donate Or schedule time to talk Use the link below to schedule time on my calendar for a quick conversation Find Time to talk DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

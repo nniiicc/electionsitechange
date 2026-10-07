@@ -1,10 +1,9 @@
-Carlton’s Story
-Air Force veteran.
+Skip to content Carlton Bowen for US Congress Independent American Party • Northern Utah's new CD2 Issues Data Center About Get Involved Events Media Volunteer Donate About Carlton’s Story Air Force veteran.
 Former American Fork City Council member.
 State Chair of the Independent American Party of Utah.
 Candidate for U.S.
 House in Northern Utah’s new CD2.
-Carlton Bowen is running for Congress because the system is not listening — not in Washington, not in Utah, and not in the way ordinary citizens are treated when powerful interests already seem to have the inside track.
+Stand with Carlton Join the campaign Volunteer Donate Carlton Bowen is running for Congress because the system is not listening — not in Washington, not in Utah, and not in the way ordinary citizens are treated when powerful interests already seem to have the inside track.
 He is not running to make a point.
 He is running to represent Northern Utah.
 He has taken the oath before.
@@ -57,4 +56,11 @@ The debt, the division, the loss of constitutional seriousness, and the growing 
 Carlton Bowen is running to bring real representation back to Northern Utah — grounded in the Constitution, serious about the debt, honest about public trust, and independent enough to say no when Washington gets it wrong.
 Stand with Carlton.
 If you believe the Constitution comes first, the debt matters, and Northern Utah deserves real representation, stand with Carlton.
-BowenForCongress.com
+Stand with Carlton Join the campaign Volunteer Donate BowenForCongress.com Carlton Bowen for US Congress Northern Utah's new CD2 • Independent American Party Built precinct by precinct — powered by people who want constitutional government , fiscal sanity , and real representation .
+Follow the campaign: Facebook Instagram TikTok X / Grok Paid for by Carlton Bowen for US Congress .
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed $200 in an election cycle.
+Contributions from corporations, labor organizations, foreign nationals, and federal government contractors are prohibited.
+Contributions are not tax deductible. © # Carlton Bowen for US Congress.
+All rights reserved.
+Get updates Join the list for campaign updates, volunteer opportunities, and local events.
+Join Donate Build 2.9.1.3

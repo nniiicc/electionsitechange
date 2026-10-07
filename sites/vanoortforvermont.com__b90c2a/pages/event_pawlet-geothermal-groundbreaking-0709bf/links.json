@@ -1,13 +1,58 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260918T160000%2F20260918T180000&text=Pawlet+Geothermal+Groundbreaking&details=This+is+not+a+campaign+event%2C+but+it%27s+the+groundbreaking+for+a+project+Jessica+has+been+working+on+as+a+Selectboard+member+and+she+will+be+speaking+about+its+benefits+for+the+community.Funded+by+the+Municipal+Energy+Resilience+program%2C+the+construction+of+this+new+renewable+energy+system+will+provide+heating+and+cooling+for+the+Pawlet+Town+Office+and+Public+Library+while+reducing+energy+costs+and+greenhouse+gas+emissions.+Enjoy+remarks+from+local+officials+and+project+partners%2C+a+ceremonial+groundbreaking%2C+music%2C+refreshments%2C+and+opportunities+to+learn+more+about+the+project.&location=Pawlet+Public+Library%2C+141+School+St%2C+Pawlet%2C+VT%2C+05761%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com",
-"https://maps.google.com/maps?f=q&hl=en&q=141+School+St+Pawlet+VT+05761+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-18T16%3A00%3A00-04%3A00&enddt=2026-09-18T18%3A00%3A00-04%3A00&location=Pawlet+Public+Library%2C+141+School+St%2C+Pawlet%2C+VT%2C+05761%2C+United+States&subject=Pawlet+Geothermal+Groundbreaking&body=This+is+not+a+campaign+event%2C+but+it%27s+the+groundbreaking+for+a+project+Jessica+has+been+working+on+as+a+Selectboard+member+and+she+will+be+speaking+about+its+benefits+for+the+community.Funded+by+the+Municipal+Energy+Resilience+program%2C+the+construction+of+this+new+renewable+energy+system+will+provide+heating+and+cooling+for+the+Pawlet+Town+Office+and+Public+Library+while+reducing+energy+costs+and+greenhouse+gas+emissions.+Enjoy+remarks+from+local+officials+and+project+partners%2C+a+ceremonial+groundbreaking%2C+music%2C+refreshments%2C+and+opportunities+to+learn+more+about+the+project.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-18T16%3A00%3A00-04%3A00&enddt=2026-09-18T18%3A00%3A00-04%3A00&location=Pawlet+Public+Library%2C+141+School+St%2C+Pawlet%2C+VT%2C+05761%2C+United+States&subject=Pawlet+Geothermal+Groundbreaking&body=This+is+not+a+campaign+event%2C+but+it%27s+the+groundbreaking+for+a+project+Jessica+has+been+working+on+as+a+Selectboard+member+and+she+will+be+speaking+about+its+benefits+for+the+community.Funded+by+the+Municipal+Energy+Resilience+program%2C+the+construction+of+this+new+renewable+energy+system+will+provide+heating+and+cooling+for+the+Pawlet+Town+Office+and+Public+Library+while+reducing+energy+costs+and+greenhouse+gas+emissions.+Enjoy+remarks+from+local+officials+and+project+partners%2C+a+ceremonial+groundbreaking%2C+music%2C+refreshments%2C+and+opportunities+to+learn+more+about+the+project.",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/canvassing-for-jessica-van-oort-for-state-house",
-"https://vanoortforvermont.com/event/middletown-springs-house-party",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=141+School+St+Pawlet+VT+05761+United+States"
+},
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Canvassing for Jessica Van Oort for State House »",
+"href": "https://vanoortforvermont.com/event/canvassing-for-jessica-van-oort-for-state-house/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260918T160000%2F20260918T180000&text=Pawlet+Geothermal+Groundbreaking&details=This+is+not+a+campaign+event%2C+but+it%27s+the+groundbreaking+for+a+project+Jessica+has+been+working+on+as+a+Selectboard+member+and+she+will+be+speaking+about+its+benefits+for+the+community.Funded+by+the+Municipal+Energy+Resilience+program%2C+the+construction+of+this+new+renewable+energy+system+will+provide+heating+and+cooling+for+the+Pawlet+Town+Office+and+Public+Library+while+reducing+energy+costs+and+greenhouse+gas+emissions.+Enjoy+remarks+from+local+officials+and+project+partners%2C+a+ceremonial+groundbreaking%2C+music%2C+refreshments%2C+and+opportunities+to+learn+more+about+the+project.&location=Pawlet+Public+Library%2C+141+School+St%2C+Pawlet%2C+VT%2C+05761%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A00%3A00-04%3A00&enddt=%23T18%3A00%3A00-04%3A00&location=Pawlet+Public+Library%2C+141+School+St%2C+Pawlet%2C+VT%2C+05761%2C+United+States&subject=Pawlet+Geothermal+Groundbreaking&body=This+is+not+a+campaign+event%2C+but+it%27s+the+groundbreaking+for+a+project+Jessica+has+been+working+on+as+a+Selectboard+member+and+she+will+be+speaking+about+its+benefits+for+the+community.Funded+by+the+Municipal+Energy+Resilience+program%2C+the+construction+of+this+new+renewable+energy+system+will+provide+heating+and+cooling+for+the+Pawlet+Town+Office+and+Public+Library+while+reducing+energy+costs+and+greenhouse+gas+emissions.+Enjoy+remarks+from+local+officials+and+project+partners%2C+a+ceremonial+groundbreaking%2C+music%2C+refreshments%2C+and+opportunities+to+learn+more+about+the+project."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A00%3A00-04%3A00&enddt=%23T18%3A00%3A00-04%3A00&location=Pawlet+Public+Library%2C+141+School+St%2C+Pawlet%2C+VT%2C+05761%2C+United+States&subject=Pawlet+Geothermal+Groundbreaking&body=This+is+not+a+campaign+event%2C+but+it%27s+the+groundbreaking+for+a+project+Jessica+has+been+working+on+as+a+Selectboard+member+and+she+will+be+speaking+about+its+benefits+for+the+community.Funded+by+the+Municipal+Energy+Resilience+program%2C+the+construction+of+this+new+renewable+energy+system+will+provide+heating+and+cooling+for+the+Pawlet+Town+Office+and+Public+Library+while+reducing+energy+costs+and+greenhouse+gas+emissions.+Enjoy+remarks+from+local+officials+and+project+partners%2C+a+ceremonial+groundbreaking%2C+music%2C+refreshments%2C+and+opportunities+to+learn+more+about+the+project."
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/event/pawlet-geothermal-groundbreaking/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "« Middletown Springs House Party",
+"href": "https://vanoortforvermont.com/event/middletown-springs-house-party/"
+}
 ]

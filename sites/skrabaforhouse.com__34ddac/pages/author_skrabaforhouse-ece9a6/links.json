@@ -1,10 +1,66 @@
 [
-"https://facebook.com/skrabaforhouse",
-"https://instagram.com/skrabaforhouse",
-"https://linkedin.com/in/roger-skraba",
-"https://skrabaforhouse.com/",
-"https://skrabaforhouse.com/media",
-"https://skrabaforhouse.com/privacy-policy",
-"https://twitter.com/skrabaforhouse",
-"https://youtube.com/channel/UC4AT44LDm9GJvXeyXs_CZ9A"
+{
+"text": "About Roger J. Skraba",
+"href": "https://skrabaforhouse.com/#MeetRoger"
+},
+{
+"text": "Contact Roger J. Skraba",
+"href": "https://skrabaforhouse.com/#ContactMe"
+},
+{
+"text": "Downloadable Media",
+"href": "https://skrabaforhouse.com/media/"
+},
+{
+"text": "Endorsements",
+"href": "https://skrabaforhouse.com/#Endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://skrabaforhouse.com/#Volunteer"
+},
+{
+"text": "Meet Roger",
+"href": "https://skrabaforhouse.com/#MeetRoger"
+},
+{
+"text": "Priorities",
+"href": "https://skrabaforhouse.com/#Priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://skrabaforhouse.com/privacy-policy/"
+},
+{
+"text": "Roger Skraba for MN House 3A",
+"href": "https://skrabaforhouse.com/"
+},
+{
+"text": "Support",
+"href": "https://skrabaforhouse.com/#Donate"
+},
+{
+"text": "[no text]",
+"href": "https://skrabaforhouse.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/skrabaforhouse"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/skrabaforhouse/"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/in/roger-skraba/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/skrabaforhouse"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UC4AT44LDm9GJvXeyXs_CZ9A/"
+}
 ]

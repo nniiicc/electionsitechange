@@ -1,17 +1,62 @@
 [
-"https://facebook.com/JohnMoolenaarforCongress",
-"https://johnmoolenaarforcongress.com/",
-"https://johnmoolenaarforcongress.com/cart",
-"https://johnmoolenaarforcongress.com/contactus",
-"https://johnmoolenaarforcongress.com/endorsements",
-"https://johnmoolenaarforcongress.com/get-involved",
-"https://johnmoolenaarforcongress.com/issues",
-"https://johnmoolenaarforcongress.com/news",
-"https://johnmoolenaarforcongress.com/privacy-policy",
-"https://johnmoolenaarforcongress.com/updates-sign-up",
-"https://johnmoolenaarforcongress.com/voting-information",
-"https://secure.winred.com/johnmoolenaar/donate",
-"https://secure.winred.com/johnmoolenaar/storefront",
-"https://twitter.com/JohnMoolenaar",
-"https://youtube.com/channel/UC9CpBZbuMo9EhnEx-ygIN2A?app=desktop"
+{
+"text": "0",
+"href": "https://www.johnmoolenaarforcongress.com/cart"
+},
+{
+"text": "Contact Team Moolenaar",
+"href": "https://www.johnmoolenaarforcongress.com/contactus"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/johnmoolenaar/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnmoolenaarforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.johnmoolenaarforcongress.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.johnmoolenaarforcongress.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.johnmoolenaarforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnmoolenaarforcongress.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/johnmoolenaar/storefront/"
+},
+{
+"text": "Updates",
+"href": "https://www.johnmoolenaarforcongress.com/updates-sign-up"
+},
+{
+"text": "Voting Information",
+"href": "https://www.johnmoolenaarforcongress.com/voting-information"
+},
+{
+"text": "[image: John Moolenaar for Congress]",
+"href": "https://www.johnmoolenaarforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JohnMoolenaar"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnMoolenaarforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC9CpBZbuMo9EhnEx-ygIN2A?app=desktop"
+}
 ]

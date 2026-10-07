@@ -1,23 +1,94 @@
 [
-"https://facebook.com/voteamada",
-"https://instagram.com/amadaformnhouse",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house/admin",
-"https://voteamada.com/about",
-"https://voteamada.com/author/admin",
-"https://voteamada.com/category/headlines",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://voteamada.com/tag/dfl",
-"https://voteamada.com/tag/endorsement",
-"https://voteamada.com/tag/house-of-representatives",
-"https://voteamada.com/tag/minnesota"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Amáda Márquez Simula wins DFL Primary Election for MN House",
+"href": "https://www.voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house/admin/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "DFL",
+"href": "https://www.voteamada.com/tag/dfl/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Headlines",
+"href": "https://www.voteamada.com/category/headlines/"
+},
+{
+"text": "House of Representatives",
+"href": "https://www.voteamada.com/tag/house-of-representatives/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Minnesota",
+"href": "https://www.voteamada.com/tag/minnesota/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house/admin/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "[image: Amáda Márquez Simula wins DFL Primary election for Minnesota House 39B!]",
+"href": "https://www.voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house/admin/"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "admin",
+"href": "https://www.voteamada.com/author/admin/"
+},
+{
+"text": "endorsement",
+"href": "https://www.voteamada.com/tag/endorsement/"
+}
 ]

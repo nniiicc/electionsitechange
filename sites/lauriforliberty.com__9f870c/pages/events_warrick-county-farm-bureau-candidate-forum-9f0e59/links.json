@@ -1,22 +1,90 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=Warrick+County+Farm+Bureau+Candidate+Forum&dates=20260922T220000Z%2F20260922T230000Z&location=133+East+Degonia+Road%2C+Boonville%2C+Indiana%2C+47601%2C+United+States",
-"http://maps.google.com/?q=133+East+Degonia+Road+Boonville%2C+Indiana%2C+47601+United+States",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/dandy-trail-community-forum",
-"https://lauriforliberty.com/events/gotv-hancock-county-door-knocking",
-"https://lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum?format=ical",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=133+east+degonia+road+boonville%2C+indiana%2C+47601+united+states"
+},
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Warrick+County+Farm+Bureau+Candidate+Forum&dates=20260922T220000Z%2F20260922T230000Z&location=133+East+Degonia+Road%2C+Boonville%2C+Indiana%2C+47601%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/warrick-county-farm-bureau-candidate-forum?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Next Next September 28 Dandy Trail Community Forum",
+"href": "https://www.lauriforliberty.com/events/dandy-trail-community-forum"
+},
+{
+"text": "Previous Previous September 20 GOTV Hancock County Door-Knocking!",
+"href": "https://www.lauriforliberty.com/events/gotv-hancock-county-door-knocking"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+}
 ]

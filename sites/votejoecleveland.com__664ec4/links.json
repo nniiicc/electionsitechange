@@ -1,9 +1,38 @@
 [
-"https://bsky.app/profile/votejoecleveland",
-"https://docs.google.com/forms/d/1bxlQFlL-hC19L2Hpjnp1iJq469ucd51Oql5BqT0oD6U/viewform?edit_requested=true",
-"https://donorbox.org/vote-joe-cleveland",
-"https://facebook.com/groups/1326459285081293",
-"https://instagram.com/votejoecleveland",
-"https://tiktok.com/@votejoecleveland",
-"https://votejoecleveland.com/endorsements"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/votejoecleveland"
+},
+{
+"text": "Contact",
+"href": "mailto:votejoecleveland@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/vote-joe-cleveland"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejoecleveland.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/groups/1326459285081293/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votejoecleveland"
+},
+{
+"text": "Open Volunteer Form",
+"href": "https://docs.google.com/forms/d/1bxlQFlL-hC19L2Hpjnp1iJq469ucd51Oql5BqT0oD6U/viewform?edit_requested=true"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@votejoecleveland"
+},
+{
+"text": "votejoecleveland@gmail.com",
+"href": "mailto:votejoecleveland@gmail.com"
+}
 ]

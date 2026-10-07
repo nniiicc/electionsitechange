@@ -1,60 +1,266 @@
 [
-"https://apps.legislature.ky.gov/record/23rs/SB115.html",
-"https://apps.legislature.ky.gov/record/23rs/SB118.html",
-"https://apps.legislature.ky.gov/record/23rs/SB140.html",
-"https://apps.legislature.ky.gov/record/23rs/SB156.html",
-"https://apps.legislature.ky.gov/record/23rs/SB4.html",
-"https://apps.legislature.ky.gov/record/23rs/SB98.html",
-"https://apps.legislature.ky.gov/record/23rs/sb150.html",
-"https://apps.legislature.ky.gov/record/24rs/SB103.html",
-"https://apps.legislature.ky.gov/record/24rs/SB106.html",
-"https://apps.legislature.ky.gov/record/24rs/SB147.html",
-"https://apps.legislature.ky.gov/record/24rs/SB167.html",
-"https://apps.legislature.ky.gov/record/24rs/SB205.html",
-"https://apps.legislature.ky.gov/record/24rs/SB246.html",
-"https://apps.legislature.ky.gov/record/24rs/SB249.html",
-"https://apps.legislature.ky.gov/record/24rs/SB295.html",
-"https://apps.legislature.ky.gov/record/24rs/SB314.html",
-"https://apps.legislature.ky.gov/record/24rs/SB336.html",
-"https://apps.legislature.ky.gov/record/24rs/SB349.html",
-"https://apps.legislature.ky.gov/record/24rs/SB74.html",
-"https://apps.legislature.ky.gov/record/24rs/SR61.html",
-"https://apps.legislature.ky.gov/record/25rs/SB106.html",
-"https://apps.legislature.ky.gov/record/25rs/SB107.html",
-"https://apps.legislature.ky.gov/record/25rs/SB120.html",
-"https://apps.legislature.ky.gov/record/25rs/SB151.html",
-"https://apps.legislature.ky.gov/record/25rs/SB164.html",
-"https://apps.legislature.ky.gov/record/25rs/SB166.html",
-"https://apps.legislature.ky.gov/record/25rs/SB171.html",
-"https://apps.legislature.ky.gov/record/25rs/SB180.html",
-"https://apps.legislature.ky.gov/record/25rs/SB181.html",
-"https://apps.legislature.ky.gov/record/25rs/SB2.html",
-"https://apps.legislature.ky.gov/record/25rs/SB207.html",
-"https://apps.legislature.ky.gov/record/25rs/SB257.html",
-"https://apps.legislature.ky.gov/record/25rs/SB258.html",
-"https://apps.legislature.ky.gov/record/25rs/SB60.html",
-"https://apps.legislature.ky.gov/record/25rs/SB73.html",
-"https://apps.legislature.ky.gov/record/25rs/SB84.html",
-"https://apps.legislature.ky.gov/record/26rs/SB123.html",
-"https://apps.legislature.ky.gov/record/26rs/SB154.html",
-"https://apps.legislature.ky.gov/record/26rs/SB215.html",
-"https://apps.legislature.ky.gov/record/26rs/SB26.html",
-"https://apps.legislature.ky.gov/record/26rs/SB3.html",
-"https://apps.legislature.ky.gov/record/26rs/SB318.html",
-"https://apps.legislature.ky.gov/record/26rs/SB319.html",
-"https://apps.legislature.ky.gov/record/26rs/SB320.html",
-"https://apps.legislature.ky.gov/record/26rs/SB51.html",
-"https://apps.legislature.ky.gov/record/26rs/SB91.html",
-"https://facebook.com/LindseyforKy",
-"https://instagram.com/lindsey4ky?hl=en",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=100",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=1000",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=250",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=3500",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=50",
-"https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=500",
-"https://tichenorforkentucky.com/",
-"https://vrsws.sos.ky.gov/ovrweb",
-"https://x.com/tichenor4ky"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=250"
+},
+{
+"text": "$3,500",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e?amount=500"
+},
+{
+"text": "2nd Amendment",
+"href": "https://apps.legislature.ky.gov/record/23rs/SB98.html"
+},
+{
+"text": "Abortion Pill Restrictions & Penalties",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB106.html"
+},
+{
+"text": "Baby Olivia Act",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB320.html"
+},
+{
+"text": "Chevron Deference",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB84.html"
+},
+{
+"text": "Child Abuse Training",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB106.html"
+},
+{
+"text": "Child Fatality Review Commission",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB74.html"
+},
+{
+"text": "Constitutional Amendment (Abortion)",
+"href": "https://apps.legislature.ky.gov/record/23rs/SB118.html"
+},
+{
+"text": "Cursive",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB167.html"
+},
+{
+"text": "Data Centers",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB319.html"
+},
+{
+"text": "Donate by Card →",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e"
+},
+{
+"text": "Donate via Anedot",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e"
+},
+{
+"text": "Drag (SB 115)",
+"href": "https://apps.legislature.ky.gov/record/23rs/SB115.html"
+},
+{
+"text": "Drag (SB 147)",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB147.html"
+},
+{
+"text": "EPIC Commission",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB349.html"
+},
+{
+"text": "Eliminating Fluoride",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB180.html"
+},
+{
+"text": "Eliminating Porn in Books for Children",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB246.html"
+},
+{
+"text": "Ending Covid Vaccine Employee Mandate",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB295.html"
+},
+{
+"text": "Ending DEI",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB26.html"
+},
+{
+"text": "Ending DEI in State Agencies",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB164.html"
+},
+{
+"text": "English Only Driver's Licensing",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB123.html"
+},
+{
+"text": "Financial Transparency for School Districts",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB3.html"
+},
+{
+"text": "Free Standing Birthing Centers",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB103.html"
+},
+{
+"text": "Give",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e"
+},
+{
+"text": "Human Trafficking",
+"href": "https://apps.legislature.ky.gov/record/24rs/SR61.html"
+},
+{
+"text": "KY DOGE",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB257.html"
+},
+{
+"text": "KY Residency in Postsecondary Education",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB258.html"
+},
+{
+"text": "Limiting Digital Instruction",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB318.html"
+},
+{
+"text": "Literacy",
+"href": "https://apps.legislature.ky.gov/record/23rs/SB156.html"
+},
+{
+"text": "Maternity Leave for Educators",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB205.html"
+},
+{
+"text": "Misuse of Tax Dollars",
+"href": "https://apps.legislature.ky.gov/record/23rs/SB140.html"
+},
+{
+"text": "Parental Rights, Protections from Trans-Agenda",
+"href": "https://apps.legislature.ky.gov/record/23rs/sb150.html"
+},
+{
+"text": "Prohibit Tax-Payer Funded Gender Transition Services for Prisoners",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB2.html"
+},
+{
+"text": "Property Rights / Eminent Domain",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB171.html"
+},
+{
+"text": "Property Tax Exemption",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB51.html"
+},
+{
+"text": "Protecting Coal",
+"href": "https://apps.legislature.ky.gov/record/23rs/SB4.html"
+},
+{
+"text": "Protecting Religious Liberty",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB60.html"
+},
+{
+"text": "Protections of Minors from Grooming in Athletics",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB120.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "Register to Vote in Kentucky →",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "Repeal Covid Immunities for Universities",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB107.html"
+},
+{
+"text": "Returning Licensing to the Counties",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB166.html"
+},
+{
+"text": "School Financial Transparency",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB3.html"
+},
+{
+"text": "School Innovation Act",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB207.html"
+},
+{
+"text": "Sex Offender Online Disclosure",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB249.html"
+},
+{
+"text": "Sextortion",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB73.html"
+},
+{
+"text": "Single-Sex Bathrooms, Parental Rights, Protections from Trans-Agenda",
+"href": "https://apps.legislature.ky.gov/record/23rs/sb150.html"
+},
+{
+"text": "Standardizing Property Tax Bills",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB91.html"
+},
+{
+"text": "State Dollars Not to Compensate Illegal Aliens",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB151.html"
+},
+{
+"text": "State Sovereignty",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB314.html"
+},
+{
+"text": "Strengthen Open Meetings/Records",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB215.html"
+},
+{
+"text": "Student Communications",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB181.html"
+},
+{
+"text": "Student Communications and Grooming",
+"href": "https://apps.legislature.ky.gov/record/25rs/SB181.html"
+},
+{
+"text": "Voter ID",
+"href": "https://apps.legislature.ky.gov/record/26rs/SB154.html"
+},
+{
+"text": "XX/XY Defined",
+"href": "https://apps.legislature.ky.gov/record/24rs/SB336.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindseyforKy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lindsey4ky/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tichenor4ky"
+},
+{
+"text": "info@tichenorforkentucky.com",
+"href": "mailto:info@tichenorforkentucky.com"
+},
+{
+"text": "tichenorforkentucky.com",
+"href": "https://tichenorforkentucky.com"
+},
+{
+"text": "💳 Donate Securely via Anedot →",
+"href": "https://secure.anedot.com/63326d79-8e55-4b76-abd7-0113f212adf2/f1c77716-e4a4-4506-bc21-ed099c8de31e"
+}
 ]

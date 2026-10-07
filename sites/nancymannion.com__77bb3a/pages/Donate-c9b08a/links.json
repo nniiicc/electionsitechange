@@ -1,17 +1,82 @@
 [
-"https://facebook.com/nancymannionpa",
-"https://instagram.com/nancymannionpa",
-"https://nancymannion.com/",
-"https://nancymannion.com/Contact-Us",
-"https://nancymannion.com/Donate",
-"https://nancymannion.com/Endorsements",
-"https://nancymannion.com/In-The-News",
-"https://nancymannion.com/Meet-Nancy",
-"https://nancymannion.com/Meet-Nancy/Events",
-"https://nancymannion.com/Newsletters",
-"https://nancymannion.com/Priorities",
-"https://nancymannion.com/Sign-Up",
-"https://nancymannion.com/Site-Map",
-"https://nancymannion.com/Volunteer/Sign-Up",
-"https://secure.actblue.com/donate/nancy-mannion-1"
+{
+"text": "Contact Us",
+"href": "https://www.nancymannion.com/Contact-Us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nancy-mannion-1"
+},
+{
+"text": "Donate",
+"href": "https://www.nancymannion.com/Donate/"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/nancy-mannion-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancymannion.com/Endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.nancymannion.com/Meet-Nancy/Events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/nancymannionpa"
+},
+{
+"text": "Home",
+"href": "https://www.nancymannion.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nancymannionpa"
+},
+{
+"text": "Meet Nancy",
+"href": "https://www.nancymannion.com/Meet-Nancy/"
+},
+{
+"text": "News & Press",
+"href": "https://www.nancymannion.com/In-The-News/"
+},
+{
+"text": "Newsletters",
+"href": "https://www.nancymannion.com/Newsletters/"
+},
+{
+"text": "Priorities",
+"href": "https://www.nancymannion.com/Priorities/"
+},
+{
+"text": "Sign Up →",
+"href": "https://www.nancymannion.com/Sign-Up/"
+},
+{
+"text": "Sitemap",
+"href": "https://www.nancymannion.com/Site-Map/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nancymannion.com/Volunteer/Sign-Up/"
+},
+{
+"text": "[image: Nancy Mannion for Congress]",
+"href": "https://www.nancymannion.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancymannionpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nancymannionpa"
+},
+{
+"text": "info@nancymannion.com",
+"href": "mailto:info@nancymannion.com"
+}
 ]

@@ -1,8 +1,30 @@
 [
-"https://sites.google.com/view/shanuncarey4nh/about",
-"https://sites.google.com/view/shanuncarey4nh/contact",
-"https://sites.google.com/view/shanuncarey4nh/donate",
-"https://sites.google.com/view/shanuncarey4nh/home",
-"https://sites.google.com/view/shanuncarey4nh/priorities",
-"https://sites.google.com/view/shanuncarey4nh/volunteer"
+{
+"text": "About",
+"href": "https://sites.google.com/view/shanuncarey4nh/about"
+},
+{
+"text": "Contact",
+"href": "https://sites.google.com/view/shanuncarey4nh/contact"
+},
+{
+"text": "Donate",
+"href": "https://sites.google.com/view/shanuncarey4nh/donate"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/shanuncarey4nh/home"
+},
+{
+"text": "Priorities",
+"href": "https://sites.google.com/view/shanuncarey4nh/priorities"
+},
+{
+"text": "ShanunCarey4NH",
+"href": "https://sites.google.com/view/shanuncarey4nh/home"
+},
+{
+"text": "Volunteer",
+"href": "https://sites.google.com/view/shanuncarey4nh/volunteer"
+}
 ]

@@ -1,15 +1,70 @@
 [
-"https://danblueforsenate.org/",
-"https://danblueforsenate.org/about",
-"https://danblueforsenate.org/category/child-care",
-"https://danblueforsenate.org/category/news",
-"https://danblueforsenate.org/category/sourced",
-"https://danblueforsenate.org/democratic-leaders-advocate-for-child-care-funding-as-federal-support-ends",
-"https://danblueforsenate.org/issues",
-"https://danblueforsenate.org/news-and-events",
-"https://danblueforsenate.org/volunteer",
-"https://facebook.com/danbluenc",
-"https://medium.com/@DanBlueNC",
-"https://secure.actblue.com/donate/dan-blue-1",
-"https://twitter.com/DanBlueNC"
+{
+"text": "Child Care",
+"href": "https://danblueforsenate.org/category/child-care/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Democratic Leaders Advocate for Child Care Funding as Federal Support Ends",
+"href": "https://danblueforsenate.org/democratic-leaders-advocate-for-child-care-funding-as-federal-support-ends/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Follow",
+"href": "https://medium.com/@DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/danbluenc"
+},
+{
+"text": "Home",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "Issues",
+"href": "https://danblueforsenate.org/issues/"
+},
+{
+"text": "Meet Dan Blue",
+"href": "https://danblueforsenate.org/about/"
+},
+{
+"text": "News",
+"href": "https://danblueforsenate.org/category/news/"
+},
+{
+"text": "News and Events",
+"href": "https://danblueforsenate.org/news-and-events/"
+},
+{
+"text": "Sourced",
+"href": "https://danblueforsenate.org/category/sourced/"
+},
+{
+"text": "Volunteer",
+"href": "https://danblueforsenate.org/volunteer/"
+},
+{
+"text": "[image: Dan Blue For Senate]",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "[tooltip: Close dialog window]",
+"href": "javascript:;"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/democratic-leaders-advocate-for-child-care-funding-as-federal-support-ends/"
+}
 ]

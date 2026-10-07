@@ -1,19 +1,15 @@
-Meet Amy
-Teaching and surfing for decades in Hawai’i led me to the practices, people, and politics of aloha ʻāina.
+top of page voteamyperruso.com Tel: (808) 351-0980 Home Meet Amy Legislative Reform 2026 Issues Public Education ʻĀina, Climate, and Community Resilience Working Families Taxing the Ultra-Rich Contribute Contact More Use tab to navigate through the menu items.
+Meet Amy Teaching and surfing for decades in Hawai’i led me to the practices, people, and politics of aloha ʻāina.
 As I immersed myself in the culture of Hawai'i and taught my students how to engage with our shared history, I became convinced of the importance of educating our children and working with people hand-in-hand to address the challenges that face our islands today.
 History and civics came alive, for me, both in my classroom and beyond its walls.
 As I have become more engaged, I have felt more empowered to work for the public good.
 Nowhere is this more critical than with the future of our keiki.
 When I saw our students' education being damaged by the federal No Child Left Behind policy, I became more active in my union, the Hawaii State Teachers Association, and ran for state office, becoming HSTA Secretary-Treasurer in 2015.
-During my tenure, I helped lead the development of HSTA's Schools Our Keiki Deserve campaign, in which teachers were organized to fight for a fully-funded education system that serves the unique needs of every child.
-I am also an active participant in Hawai'i's labor movement, which is rooted in a politics that puts people before profit.
-With colleagues across the state, I have fought for better healthcare for our families, genuinely affordable housing, clean energy investments, and a government that is truly accountable to the citizens of our state.
-Teaching children, including my own, forced me each day to recommit to public service.
+During my tenure, I helped lead the development of HSTA's Schools Our Keiki Deserve campaign, in which teachers were organized to fight for a fully-funded education system that serves the unique needs of every child. ​ I am also an active participant in Hawai'i's labor movement, which is rooted in a politics that puts people before profit.
+With colleagues across the state, I have fought for better healthcare for our families, genuinely affordable housing, clean energy investments, and a government that is truly accountable to the citizens of our state. ​ Teaching children, including my own, forced me each day to recommit to public service.
 I ran for office to take that commitment to public service to a new level, to help create a more sustainable, just, and prosperous future for our community and our islands.
 I have worked hard to earn the trust of our district and to preserve your right to participate in government.
 Public officials are accountable, first and foremost, to the people who elect them.
-They can only be successful if they are transparent in their actions.
-Over the past seven years, I have hosted 21 community forums to ensure that your voice is heard in the decision-making process and to inform our community about what is happening in legislative affairs.
-Through the use of social media and local media outlets, like 'Olelo Broadcasting, I strive to strengthen our community's engagement in public affairs.
-I believe that we should move away from a faceless bureaucracy that benefits a privileged few to a democratic system that responds to everyone's needs.
-As much as possible, we should remember that all politics is local, that power ultimately rests in the hands of the people, and that our society can only move forward when we listen to one another and overcome our differences to lay the foundations of a better future on common ground.
+They can only be successful if they are transparent in their actions. ​Over the past seven years, I have hosted 21 community forums to ensure that your voice is heard in the decision-making process and to inform our community about what is happening in legislative affairs.
+Through the use of social media and local media outlets, like 'Olelo Broadcasting, I strive to strengthen our community's engagement in public affairs. ​​ I believe that we should move away from a faceless bureaucracy that benefits a privileged few to a democratic system that responds to everyone's needs.
+As much as possible, we should remember that all politics is local, that power ultimately rests in the hands of the people, and that our society can only move forward when we listen to one another and overcome our differences to lay the foundations of a better future on common ground. bottom of page

@@ -1,5 +1,5 @@
-Friends,
-Thanksgiving Day is one of our most beloved holidays, an occasion that is uniquely American.
+Home About Endorsements Take Action Welcome News Donate Home About Endorsements Take Action Welcome News Donate November 26, 2015 ELIZABETH CUSTY Happy Thanksgiving!
+November 26, 2015 ELIZABETH CUSTY Friends, Thanksgiving Day is one of our most beloved holidays, an occasion that is uniquely American.
 Since before we were a nation, we have set aside a day to thank God prayerfully and humbly for the blessings He has bestowed on us and this beautiful, bountiful land.
 As President Reagan observed, perhaps no custom reveals our rich history as a Nation so clearly as our celebration of Thanksgiving Day.
 Rooted deeply in our Christian heritage, the practice of offering thanksgiving underscores our founders' unshakeable belief in God as the foundation of our Nation and a firm reliance upon Him from Whom all blessings flow.
@@ -11,8 +11,8 @@ This reminds us to be even more thankful for what we have, and to keep these fol
 Most of all we thank God for the gift of His Son.
 It's been said that Creation shows us God's power, and Calvary shows us His love.
 The ultimate expression of God's love for us is Jesus Christ and His sacrifice for us on the Cross and His resurrection from the dead.
-"He who did not spare his own Son, but gave him up for us all-how will he not also, along with him, graciously give us all things?" - Romans 8.32
-In times like these it's easy for us to get discouraged.
+"He who did not spare his own Son, but gave him up for us all-how will he not also, along with him, graciously give us all things?" - Romans 8.32 In times like these it's easy for us to get discouraged.
 Thanksgiving provides a great opportunity to take stock of all that God has done for us, and to seek Him for provision and protection and wisdom as we move forward.
-I hope you have a great Thanksgiving,
-- Bryan Hughes
+I hope you have a great Thanksgiving, - Bryan Hughes November 26, 2015 ELIZABETH CUSTY ELIZABETH CUSTY Gov.
+Rick Perry Endorses Hughes for Senate!
+Hughes Joins Lawsuit To Stop EPA Overreach Back To Top Donate Political advertisement paid for by the Bryan Hughes Campaign, PO Box 450, Mineola, Texas 75773

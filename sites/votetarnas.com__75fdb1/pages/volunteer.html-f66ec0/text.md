@@ -1,21 +1,2 @@
-TARNAS FOR STATE HOUSE
-Home
-My Story
-Community Values
-Protect the Environment
-Strengthen Public Education
-Build a Sustainable Economy
-Liberty and Justice for All
-Leadership with Ethics
-Legislative Achievements
-News
-Home
-My Story
-Community Values
-Protect the Environment
-Strengthen Public Education
-Build a Sustainable Economy
-Liberty and Justice for All
-Leadership with Ethics
-Legislative Achievements
-News
+TARNAS FOR STATE HOUSE Home My Story Community Values Protect the Environment Strengthen Public Education Build a Sustainable Economy Liberty and Justice for All Leadership with Ethics Legislative Achievements News Become a Volunteer Paid for by Tarnas for State House Tarnas for State House ​​P.O.
+Box 6882 Kamuela, Hawaii 96743 Home My Story Community Values Protect the Environment Strengthen Public Education Build a Sustainable Economy Liberty and Justice for All Leadership with Ethics Legislative Achievements News

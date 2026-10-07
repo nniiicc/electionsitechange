@@ -1,7 +1,5 @@
-Rural Life
-It's quiet and beautiful, but it's complicated.
-Looking out my study window past the wellhouse to the deer in my driveway
-I want to secure your rights to Life, Liberty and the pursuit of Happiness for you – today, tomorrow, and far into the future – whether you’re urban, suburban, or rural.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Rural Life It's quiet and beautiful, but it's complicated.
+Looking out my study window past the wellhouse to the deer in my driveway I want to secure your rights to Life, Liberty and the pursuit of Happiness for you – today, tomorrow, and far into the future – whether you’re urban, suburban, or rural.
 I’m running because I care about all Oregonians.
 I’m running because I know what it’s like to live in rural Oregon, with the many logistical challenges it presents with water, electricity, Internet, and roads.
 The last three miles of road to my home are gravel.
@@ -21,3 +19,5 @@ Our cities are small enough that they have a rural feel: St.
 Helens is the biggest with 13K people, then Scappoose with 8K, and none of the other incorporated cities – North Plains, Vernonia, Columbia City, Rainier, Banks, Gaston, or Prescott – have even 4K.
 Regardless of where you live, life is quite different from Portland or suburban Washington County, with distinct needs and challenges to address in the legislature.
 I’m here for that.
+Manning Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

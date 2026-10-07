@@ -1,4 +1,5 @@
-State Senator Vandana Slatter (D, 48th District) is a former Bellevue City Councilmember, community leader, public school parent, and biotech and healthcare professional.
+Vandana Slatter Meet Vandana Priorities Accomplishments Endorsements Media En Español Donate Meet Vandana Priorities Accomplishments Endorsements Media En Español Donate Join the Team Meet Vandana State Senator Vandana Slatter (D, 48th District) is a former Bellevue City Councilmember, community leader, public school parent, and biotech and healthcare professional.
 A Doctor of Pharmacy (UW), Vandana worked for over twenty years at leading biotechnology companies, including Amgen and Genentech, bringing multiple parties together, making sense of complex information, and achieving safe and efficient solutions to best serve patients.
 She is a licensed pharmacist in the State of Washington.
-Learn More
+Learn More Working Hard for the 48th Every Day.
+Learn more about Vandana’s Accomplishments Endorsed by Leaders across Washington Read Vandana’s List of Endorsements Get Involved Sign Up to Volunteer Vandana Slatter for Rep Donate Contact Paid for by Vandana Slatter for State Senate PO Box 20664 Seattle, WA 98102 [email protected]

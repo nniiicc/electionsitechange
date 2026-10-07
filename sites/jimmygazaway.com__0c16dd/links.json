@@ -1,16 +1,74 @@
 [
-"https://arkansashouse.org/district/31",
-"https://arkansashouse.org/news/post/21101/final-week-of-the-2023-regular-session",
-"https://arkleg.state.ar.us/Bills/Detail?id=sb495&ddBienniumSession=2023%2F2023R",
-"https://arkleg.state.ar.us/Bills/Detail?id=sb549&ddBienniumSession=2023%2F2023R",
-"https://arkleg.state.ar.us/Legislators/Detail?member=Gazaway&ddBienniumSession=2023%2F2023R",
-"https://arkleg.state.ar.us/legislators/detail?member=Gazaway&ddBienniumSession=2023%2F2023R",
-"https://atwillmedia.com/",
-"https://facebook.com/JimmyGazawayAR",
-"https://jimmygazaway.com/",
-"https://jimmygazaway.com/about",
-"https://jimmygazaway.com/contact",
-"https://jimmygazaway.com/photo-gallery",
-"https://jimmygazaway.com/site-map",
-"https://twitter.com/jimmygazaway"
+{
+"text": "About",
+"href": "https://www.jimmygazaway.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jimmygazaway.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.jimmygazaway.com/"
+},
+{
+"text": "LET'S TALK",
+"href": "https://www.jimmygazaway.com/contact"
+},
+{
+"text": "Legislation",
+"href": "https://www.arkleg.state.ar.us/Legislators/Detail?member=Gazaway&ddBienniumSession=2023%2F2023R"
+},
+{
+"text": "Legislation",
+"href": "https://www.arkleg.state.ar.us/legislators/detail?member=Gazaway&ddBienniumSession=2023%2F2023R"
+},
+{
+"text": "Newsroom",
+"href": "https://www.arkansashouse.org/district/31"
+},
+{
+"text": "Photos",
+"href": "https://www.jimmygazaway.com/photo-gallery"
+},
+{
+"text": "READ MORE",
+"href": "https://www.arkansashouse.org/news/post/21101/final-week-of-the-2023-regular-session"
+},
+{
+"text": "SB495",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=sb495&ddBienniumSession=2023%2F2023R&Search="
+},
+{
+"text": "SB549",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=sb549&ddBienniumSession=2023%2F2023R&Search="
+},
+{
+"text": "Site Map",
+"href": "https://www.jimmygazaway.com/site-map"
+},
+{
+"text": "[image: AltWill media logo in blue and black text with a stylized underline.]",
+"href": "https://atwillmedia.com/"
+},
+{
+"text": "[image: Faint outline of a generic user profile avatar icon on a white background]",
+"href": "https://www.jimmygazaway.com/about"
+},
+{
+"text": "[image: Light gray line icon of a checklist with a checkmark badge and a small cloud]",
+"href": "https://www.arkleg.state.ar.us/Legislators/Detail?member=Gazaway&ddBienniumSession=2023%2F2023R"
+},
+{
+"text": "[image: White outline icon of a hanging document or clipboard with lines and a side tab, centered on white background]",
+"href": "https://www.arkansashouse.org/district/31"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/JimmyGazawayAR"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jimmygazaway"
+}
 ]

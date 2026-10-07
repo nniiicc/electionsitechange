@@ -1,11 +1,7 @@
-Today, Rep.
-Peters authored an op-ed for The San Diego Union-Tribune entitled, “Now Congress must act to protect dreamers.” The September 15 op-ed is posted below:
-Rep.
-Scott Peters: Now Congress must act to protect dreamers
-By Rep.
-Scott Peters
-September 15, 2017
-America is founded on the promise that if you work hard and play by the rules then you will have a fair shot at making a better life.
+Meet Scott About Scott Accomplishments Awards Issues Jobs & the Economy Health Care Medicare & Social Security Veterans Energy & the Environment Education Equal Rights Immigration Keeping Americans Safe Biden Administration Fix Congress Endorsements Supporters Elected Officials Organizations AAPI Community News TV Ads Photo Gallery Hi-Resolution Photos Press Inquiries Get Involved Donate Meet Scott Issues Endorsements News News Op-Ed: Congress Must Act to Protect Dreamers September 15, 2017 Today, Rep.
+Peters authored an op-ed for The San Diego Union-Tribune entitled, “Now Congress must act to protect dreamers.” The September 15 op-ed is posted below: Rep.
+Scott Peters: Now Congress must act to protect dreamers By Rep.
+Scott Peters September 15, 2017 America is founded on the promise that if you work hard and play by the rules then you will have a fair shot at making a better life.
 That’s the American dream.
 There’s no reason this opportunity should not extend to young immigrants brought here as children who know no other home.
 President Donald Trump’s decision to rescind the Deferred Action for Childhood Arrivals, or DACA, program was cruel and rooted in fear and will weaken our economy.
@@ -26,8 +22,7 @@ In many cases, they couldn’t apply for citizenship or even a work permit.
 After all this time, they still feared being deported.
 San Diego has the seventh-highest DACA-eligible population of any county in America.
 Here, there are an estimated 38,000 individuals who were either eligible for DACA, or would have been upon meeting the education or age requirements.
-(DACA ceased taking new applications after the announcement earlier this month.)
-Dreamers are our friends, our neighbors, our co-workers.
+(DACA ceased taking new applications after the announcement earlier this month.) Dreamers are our friends, our neighbors, our co-workers.
 They are San Diegans working toward their own American dream.
 Many dreamers are getting a college degree, even though they don’t qualify for federal financial aid.
 DACA recipients pay taxes, even toward benefits for which they themselves are not eligible.
@@ -50,3 +45,14 @@ I’ll tell you what you get for passing the Dream Act.
 You get more than a million determined, hardworking young people who will continue to make this country stronger and more prosperous.
 For our dealmaker of a president, that seems an obvious win.
 Now it’s time for Congress to send it to his desk.
+3.31.02 News Peters called “one of the more statesmanlike of our elected representatives” Young, old challenge San Diego's history of civic status quoBy Neil MorganSAN DIEGO UNION TRIBUNEMarch 31, 2002I welcome the tangy...
+Scott Peters for CA 50 Get Involved Sign up to our newsletter and stay up to date with the campaign.
+Address PO Box 22074 San Diego, CA 92192 Phone (858) 848-7515 Email [email protected] ©# Scott Peters for Congress Contact Privacy Policy Paid for by Scott Peters for Congress Get Updates Get Updates Get Involved Get Involved Donate Now Donate Now Share Share Tweet Email California District 52 Is Scott your Representative in Congress?
+Type in your address to find out.
+You are in District 52!
+For more ways to help, please check out the link below: Get Involved Not in this district!
+According to our data, you are not in District 52!
+Please verify this information at the CA Dems website!
+CA Dems Go!
+The data here is provided by 3rd-party services.
+For best results, please visit CA Dems

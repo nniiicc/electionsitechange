@@ -1,9 +1,42 @@
 [
-"http://facebook.com/Nordwick",
-"http://linkedin.com/in/suzzann-nordwick",
-"https://mtflg.org/blog/montana-2024-primary-election",
-"https://nordwick.com/abit2cute@yahoo.com",
-"https://nordwick.com/info@Nordwick.com",
-"https://nordwick.com/services.html",
-"https://secure.winred.com/nordwick-for-montana-c05ddc40/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/nordwick-for-montana-c05ddc40/donate-today"
+},
+{
+"text": "INFORMATION",
+"href": "https://nordwick.com/services.html"
+},
+{
+"text": "SEND",
+"href": "https://nordwick.com/abit2cute@yahoo.com"
+},
+{
+"text": "WinRed - GOP secure payment",
+"href": "https://secure.winred.com/nordwick-for-montana-c05ddc40/donate-today"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/Nordwick"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/suzzann-nordwick/"
+},
+{
+"text": "[image]",
+"href": "https://mtflg.org/blog/montana-2024-primary-election"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/nordwick-for-montana-c05ddc40/donate-today"
+},
+{
+"text": "[image]",
+"href": "mailto:info@nordwick.com"
+},
+{
+"text": "send a MESSAGE to SUZZANN NORDWICK",
+"href": "https://nordwick.com/info@Nordwick.com"
+}
 ]

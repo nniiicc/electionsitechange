@@ -1,4 +1,4 @@
-| Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
+UT 74 VOTE ABOUT Posts Experience Contact Political Semantics 9/7/2022 Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
 Over long periods of time, the meaning of words change.
 The context for their use may change, the way they are used may change, and their frequency may change.
 "Square" in the 1950s was used differently and more frequently that it is today.
@@ -34,4 +34,5 @@ Who will defend the words?
 If we choose to change their meaning, what words do we use to say what we used to mean?
 The solution to economic prosperity is straightforward.
 Fiscal responsibility, sound money, and stable regulatory policy.
-The solution to our identity is not to rewrite history, whitewash it, or redefine it, it is to learn from it and be better today because of it. | |
+The solution to our identity is not to rewrite history, whitewash it, or redefine it, it is to learn from it and be better today because of it.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

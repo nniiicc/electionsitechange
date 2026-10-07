@@ -1,6 +1,3 @@
-July 3, 2026 America 250: An Inspiring Milestone Friends and Neighbors, This Fourth of July Weekend is particularly special.
-As I reflect on the 250-year anniversary of our Declaration of Independence, I am reminded of all the sacrifices made by those who came before us that brought us to this…
-Read More
-June 12, 2026 A Thrilling End to the Spring Athletic Season Friends and neighbors, Following up on last week’s highlights, high school athletes from our area continued to perform exceptionally well at the state level, securing multiple individual state championship titles in track and field!
-Softball I would like to…
-Read More
+Welcome District 24A News Events Issues Contact Media Pictures Radio Ads Volunteer Donate Duane Quam for Minnesota House Category: events News July 3, 2026 By Duane on July 02, 2026 in community , events , news July 3, 2026 America 250: An Inspiring Milestone Friends and Neighbors, This Fourth of July Weekend is particularly special.
+As I reflect on the 250-year anniversary of our Declaration of Independence, I am reminded of all the sacrifices made by those who came before us that brought us to this… Read More News June 12,2026 By Duane on June 12, 2026 in community , events , news June 12, 2026 A Thrilling End to the Spring Athletic Season Friends and neighbors, Following up on last week’s highlights, high school athletes from our area continued to perform exceptionally well at the state level, securing multiple individual state championship titles in track and field!
+Softball I would like to… Read More © #-# prepared and paid for by the Quam for House Committee

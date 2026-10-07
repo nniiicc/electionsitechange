@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://elaineforgeorgia.com/vote",
- "paid_for_by": null,
+ "fingerprint": "8933d6e8150fb11a97bc33fe68ccdb6dcea8fe28",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

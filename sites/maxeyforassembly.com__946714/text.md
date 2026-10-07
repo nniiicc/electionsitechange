@@ -1,4 +1,4 @@
-As the incumbent running for the State Assembly District 83, my commitment to serving our community is unwavering.
+Search this site Embedded Files Skip to main content Skip to navigation Home Issue Volunteer Donate District # M ap Home Issue Volunteer Donate District # M ap More Home Issue Volunteer Donate District # M ap Find my Polling Location Donate As the incumbent running for the State Assembly District 83, my commitment to serving our community is unwavering.
 I am a dedicated member of the New Berlin City Council and a former President of the New Berlin Board of Education.
 But beyond these roles, I am a devoted husband and father of three.
 My role as a community leader, husband, and father has given me a deep understanding of the issues that matter most to our families, and it is this understanding that drives my commitment to public service.
@@ -15,3 +15,4 @@ The renowned work ethic of Wisconsinites is intrinsic to my efforts, and I am de
 They deserve a representative who matches their dedication and hard work.
 As the fiscal and family values conservative running for the State Assembly, I want to bring our shared family values and the expertise I have gained through my business career and public service to Madison.
 I am committed to advocating for our community and ensuring our voices remain heard at the state level.
+Mark your Calender November, 5 th, 202 4 General Election Day Maxey4Assembly@gmail.com 262-290-3362 Paid for by Friends of Dave Maxey Google Sites Report abuse Page details Page updated Google Sites Report abuse

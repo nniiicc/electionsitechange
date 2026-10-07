@@ -1,25 +1,158 @@
 [
-"https://bsky.app/profile/jackrichardsonma.bsky.social",
-"https://capeandislands.org/local-news/2026-03-13/falmouth-looks-to-limit-ice-activity-on-town-property?_amp=true",
-"https://capecod.gov/2025/09/25/cape-cod-assembly-hears-input-on-luxury-real-estate-transfer-fee-differing-opinions-on-local-control",
-"https://capecodtimes.com/story/news/local/2026/03/25/david-vieira-jack-richardson-falmouth-third-barnstable-district-house-legislature-election-democrat/89210867007",
-"https://capenews.net/falmouth/news/falmouth-select-board-declines-support-for-revised-sandwich-road-40b/article_e9ca824f-b0be-4a22-94cc-584584a82ba9.html",
-"https://capenews.net/falmouth/news/falmouth-select-board-moves-to-bar-ice-from-town-buildings/article_c3eb012a-3300-408d-a751-44506dd02224.html",
-"https://capenews.net/falmouth/news/falmouths-ice-policy-sparks-clash-between-vieira-richardson/article_821be28b-f13b-497b-b6e9-51940e52476a.html",
-"https://capenews.net/falmouth/news/galasso-retains-3-4-million-town-commitment-despite-project-uncertainty/article_49f09f15-94c0-49b2-b0b4-c7949e4747a6.html",
-"https://capenews.net/falmouth/news/lost-revenue-spurs-fresh-look-at-recreational-cannabis-ban-in-falmouth/article_2da0716a-2b7c-4c12-9421-dd4e20bd4ad0.html",
-"https://capenews.net/falmouth/news/richardson-sets-sights-on-vieiras-seat/article_a5bb44b4-68b4-4516-8e75-f476e5299de6.html",
-"https://capenews.net/falmouth/news/select-board-directs-majority-of-unexpected-revenue-to-debt-stabilization-fund/article_4951df9d-4883-404c-82b2-e244f0d718e9.html",
-"https://capenews.net/falmouth/news/vieira-richardson-establish-priority-differences-and-similarities-in-first-forum-on-cai/article_ced798ba-2d3e-4e32-9fd8-fe7d8d980a06.html",
-"https://facebook.com/jackrichardsonma",
-"https://facebook.com/profile.php?id=61592024602614",
-"https://instagram.com/jackrichardsonma",
-"https://jackprichardson.com/endorsements.html",
-"https://jackprichardson.com/get-involved.html",
-"https://jackprichardson.com/index.html",
-"https://jackprichardson.com/my-opponent.html",
-"https://jackprichardson.com/priorities.html",
-"https://jackprichardson.com/{{ donateHref }}",
-"https://threads.com/@jackrichardsonma",
-"https://tiktok.com/@jackrichardsonma"
+{
+"text": "About",
+"href": "https://jackprichardson.com/index.html#about"
+},
+{
+"text": "About Jack",
+"href": "https://jackprichardson.com/index.html#about"
+},
+{
+"text": "Bluesky@jackprichardson",
+"href": "https://bsky.app/profile/jackrichardsonma.bsky.social"
+},
+{
+"text": "Cape Cod Assembly Hears Input on Luxury Real Estate Transfer Fee",
+"href": "https://www.capecod.gov/2025/09/25/cape-cod-assembly-hears-input-on-luxury-real-estate-transfer-fee-differing-opinions-on-local-control/"
+},
+{
+"text": "Donate",
+"href": "https://jackprichardson.com/%7B%7B%20donateHref%20%7D%7D"
+},
+{
+"text": "Donate $25",
+"href": "https://jackprichardson.com/%7B%7B%20donateHref%20%7D%7D"
+},
+{
+"text": "Endorsements",
+"href": "https://jackprichardson.com/endorsements.html"
+},
+{
+"text": "FacebookJack Richardson",
+"href": "https://www.facebook.com/profile.php?id=61592024602614"
+},
+{
+"text": "Falmouth Select Board Declines Support For Revised Sandwich Road 40B",
+"href": "https://www.capenews.net/falmouth/news/falmouth-select-board-declines-support-for-revised-sandwich-road-40b/article_e9ca824f-b0be-4a22-94cc-584584a82ba9.html"
+},
+{
+"text": "Falmouth Select Board Moves To Bar ICE From Town Buildings",
+"href": "https://www.capenews.net/falmouth/news/falmouth-select-board-moves-to-bar-ice-from-town-buildings/article_c3eb012a-3300-408d-a751-44506dd02224.html"
+},
+{
+"text": "Falmouth looks to limit ICE activity on town property",
+"href": "https://www.capeandislands.org/local-news/2026-03-13/falmouth-looks-to-limit-ice-activity-on-town-property?_amp=true"
+},
+{
+"text": "Falmouth official announces bid for David Vieira's House seat",
+"href": "https://www.capecodtimes.com/story/news/local/2026/03/25/david-vieira-jack-richardson-falmouth-third-barnstable-district-house-legislature-election-democrat/89210867007/"
+},
+{
+"text": "Falmouth's ICE Policy Sparks Clash Between Vieira, Richardson",
+"href": "https://www.capenews.net/falmouth/news/falmouths-ice-policy-sparks-clash-between-vieira-richardson/article_821be28b-f13b-497b-b6e9-51940e52476a.html"
+},
+{
+"text": "Follow Jack on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61592024602614"
+},
+{
+"text": "Galasso Retains $3.4 Million Town Commitment Despite Project Uncertainty",
+"href": "https://www.capenews.net/falmouth/news/galasso-retains-3-4-million-town-commitment-despite-project-uncertainty/article_49f09f15-94c0-49b2-b0b4-c7949e4747a6.html"
+},
+{
+"text": "Get alerts",
+"href": "https://jackprichardson.com/get-involved.html#signup"
+},
+{
+"text": "Get involved",
+"href": "https://jackprichardson.com/get-involved.html"
+},
+{
+"text": "Instagram@jackrichardsonma",
+"href": "https://www.instagram.com/jackrichardsonma/"
+},
+{
+"text": "Jack Richardson for State Representative",
+"href": "https://www.facebook.com/profile.php?id=61592024602614"
+},
+{
+"text": "Jack's record",
+"href": "https://jackprichardson.com/index.html#record"
+},
+{
+"text": "Lost Revenue Spurs Fresh Look At Recreational Cannabis Ban In Falmouth",
+"href": "https://www.capenews.net/falmouth/news/lost-revenue-spurs-fresh-look-at-recreational-cannabis-ban-in-falmouth/article_2da0716a-2b7c-4c12-9421-dd4e20bd4ad0.html"
+},
+{
+"text": "My Opponent",
+"href": "https://jackprichardson.com/my-opponent.html"
+},
+{
+"text": "My Opponent’s Record",
+"href": "https://jackprichardson.com/my-opponent.html"
+},
+{
+"text": "Priorities",
+"href": "https://jackprichardson.com/priorities.html"
+},
+{
+"text": "Record",
+"href": "https://jackprichardson.com/index.html#record"
+},
+{
+"text": "Richardson Sets Sights on Third Barnstable Seat",
+"href": "https://www.capenews.net/falmouth/news/richardson-sets-sights-on-vieiras-seat/article_a5bb44b4-68b4-4516-8e75-f476e5299de6.html"
+},
+{
+"text": "Select Board Directs Majority Of Unexpected Revenue To Debt Stabilization Fund",
+"href": "https://www.capenews.net/falmouth/news/select-board-directs-majority-of-unexpected-revenue-to-debt-stabilization-fund/article_4951df9d-4883-404c-82b2-e244f0d718e9.html"
+},
+{
+"text": "Threads@jackrichardsonma",
+"href": "https://www.threads.com/@jackrichardsonma"
+},
+{
+"text": "TikTok@jackrichardsonma",
+"href": "https://www.tiktok.com/@jackrichardsonma"
+},
+{
+"text": "Vieira, Richardson Establish Priority Differences And Similarities In First Forum On CAI",
+"href": "https://www.capenews.net/falmouth/news/vieira-richardson-establish-priority-differences-and-similarities-in-first-forum-on-cai/article_ced798ba-2d3e-4e32-9fd8-fe7d8d980a06.html"
+},
+{
+"text": "Volunteer",
+"href": "https://jackprichardson.com/get-involved.html"
+},
+{
+"text": "[image: Jack Richardson, State Representative] [image: Jack Richardson, State Representative]",
+"href": "https://jackprichardson.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jackrichardsonma.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jackrichardsonma"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61592024602614"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jackrichardsonma/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jackrichardsonma"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jackrichardsonma"
+},
+{
+"text": "jack@jackprichardson.com",
+"href": "mailto:jack@jackprichardson.com"
+}
 ]

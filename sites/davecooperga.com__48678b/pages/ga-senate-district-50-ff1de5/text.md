@@ -1,9 +1,4 @@
-Georgia's State Senate District 50 is made up of all of Banks, Franklin, Habersham, Rabun, Stephens, and Towns counties and parts of Hall, Jackson, and White counties.
-Paid for by Elect Dave Cooper GA
-Elect Dave Cooper GA
-P.O.
-Box 1571
-Clayton, GA 30525
-DISCLAIMER: Contributions or gifts to Elect Dave Cooper GA are not deductible as charitable contributions for federal income tax purposes.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Meet Dave Issues Runaway Inflation Election Crisis Volunteer DONATE GA Senate District 50 Dave in Action More Home Meet Dave Issues Runaway Inflation Election Crisis Volunteer DONATE GA Senate District 50 Dave in Action Home Meet Dave Issues Runaway Inflation Election Crisis Volunteer DONATE GA Senate District 50 Dave in Action Georgia State Senate - District 50 Georgia's State Senate District 50 is made up of all of Banks, Franklin, Habersham, Rabun, Stephens, and Towns counties and parts of Hall, Jackson, and White counties.
+Check Your Voter Registration Paid for by Elect Dave Cooper GA Elect Dave Cooper GA P.O.
+Box 1571 Clayton, GA 30525 davecooperga@gmail.com DISCLAIMER: Contributions or gifts to Elect Dave Cooper GA are not deductible as charitable contributions for federal income tax purposes.
+Meet Dave Runaway Inflation Election Crisis Volunteer DONATE GA Senate District 50 Privacy Policy

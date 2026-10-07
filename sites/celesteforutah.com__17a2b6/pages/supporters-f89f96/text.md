@@ -1,109 +1,7 @@
-Celeste Shows-Up for Utah
-Support is growing for Celeste.
+0 Skip to Content Home Meet Celeste Issues Supporters Join The Team Contact Donate Open Menu Close Menu Home Meet Celeste Issues Supporters Join The Team Contact Donate Open Menu Close Menu Home Meet Celeste Issues Supporters Join The Team Contact Donate Celeste Shows-Up for Utah Support is growing for Celeste.
 Watch these short testimonials to see why!
-President Trump Endorses Congresswoman Celeste Maloy
-Former Congressman Chris Stewart Supports Celeste
-We Support Celeste
-Congressional Endorsements
-Former Congressman Chris Stewart
-Former Congressman Rob Bishop
-Congressman Burgess Owens
-Utah State Senators
-President Stuart Adams, Utah State Senator
-Don Ipson, Utah State Senator
-Evan Vickers, Utah State Senator
-Derrin Owens, Utah State Senator
-Scott Sandall, Utah State Senator
-Todd Weiler, Utah State Senator
-Mike McKell, Utah State Senator
-David Hinkins, Utah State Senator
-Keven Stratton, Utah State Senator
-Utah State Representatives
-Stephen Whyte, Utah State House
-Doug Welton, Utah State House
-Tyler Clancy, Former Utah State House
-Val Peterson, Utah State House
-Norm Thurston, Utah State House
-David Shallenberger, Utah State House
-Paul Cutler, Utah State House
-Bridger Bolinder, Utah State House
-Walt Brooks, Utah State House
-Carl Albrecht, Utah State House
-Steve Lund, Utah State House
-Neil Walter, Utah State House
-Colin Jack, Utah State House
-Anthony Loubet, Utah State House
-Doug Welton, Utah State House
-County Sheriffs
-Kelly Sparks, Davis County Sheriff
-Mike Smith, Utah County Sheriff
-Nate Brooksby, Washington County Sheriff
-Ken Carpenter, Iron County Sheriff
-Paul Wimmer, Tooele County Sheriff
-Nathan Curtis, Sevier County Sheriff
-Rich Jacobson, Millard County Sheriff
-Cody Black, Beaver County Sheriff
-Tracy Glover, Kane County Sheriff
-Marty Gleave, Piute County Sheriff
-Eric Houston, Garfield County Sheriff
-Mayors
-Kress Staheli, Mayor, Washington
-Chris Hart, Mayor, Ivins
-Rick Rosenberg, Mayor, Santa Clara
-Brian Burrows, Mayor, Richfield
-Ward Dotson, Mayor, Minersville
-Matt Robinson, Mayor, Beaver
-Nolan Davis, Mayor, Milford
-Deborah Herron, Mayor, Duchesen
-County Commissioners
-Brandon Gorda, Utah County Commission
-Adam Snow, Washington County Commission
-Gil Almquist, Washington County Commission
-Victor Iverson, Washington County Commission
-Tammy Pearson, Beaver County Commission
-Wade Hollingshead, Beaver County Commission
-Brandon Yardley, Beaver County Commission
-Leland Pollock, Garfield County Commission
-David Tebbs, Garfield County Commission
-Jerry Taylor, Garfield County Commission
-Mike Bleak, Iron County Commission
-Ken Robinson, Iron County Commission
-Wade Heaton, Kane County Commission
-Dennis Blackburn, Wayne County Commission
-Kerry Cook, County Commission
-Roger Brian, County Commission
-Greg Jensen, Sevier County Commission
-Scott Johnson, Sevier County Commission
-Ralph Brown, Sevier County Commission
-Bill Wright, Millard County Commission
-Trevor Johnson, Millard County Commission
-Tye Hoffmann, Tooele County Council
-Jared Hamner, Tooele County Council
-Scott Wardle, Tooele County Council
-Clint Painter, Juab County Commission
-Marty Palmer, Juab County Commission
-Marvin Kenison, Juab County Commission
-Darin Bushman, Piute County Commission
-Will Talbot, Piute County Commission
-Scott Dalton, Piute County Commission
-Bill Winfield, Grand County Commission
-Brian Martinez, Grand County Commission
-Lori Maughan, San Juan County Commission
-Tony Martines, Carbon County Commission
-Brandon Gordon, Utah County Commission
-Laurie Stringham, Salt Lake County Council
-Kendall Crittenden, Wasatch County Council
-Will LeFevre, Uintah County Commission
-Traci Killian, Duchesne County Commission
-Greg Miles, Duchesne County Commission
-Jeff Chugg, Duchesne County Commission
-Jack Lytle, Daggett County Commission
-County Attorneys
-Chad Dotson, Iron County Attorney
-Rob Van Dyke, Kane County Attorney
-Eric Clarke, Washington County Attorney
-Congressman Chris Stewart
-- “I made the decision to step down from Congress in the best interest of my family.
+President Trump Endorses Congresswoman Celeste Maloy Former Congressman Chris Stewart Supports Celeste Click to see video Trevor Barnson Utah Fam Bureau State Board of Directors Click to see video Patty Kubeja Kane County Commissioner Click to see video Neil Walter Utah House Representative Click to see video Leland Pollock Garfield County Commissioner Click to see video Spencer Gibbons CEO of Utah Farm Bureau Click to see video Tammy Pearson Beaver County Commissioner Click to see video Bridger Bolinder Utah House Representative Click to see video Koby Willis Superintendent, Piute County School District Click to see video Warren Peterson Retired VP, Farmland Reserve, Inc.
+Click to see video Wade Garrett VP Utah Farm Bureau Click to see video Jerry Taylor Garfield County Commissioner Click to see video Nathaniel Johnson Executive Director, Utah Rural Electric Cooperative Association Click to see video Logan Wilde Former Commissioner of Utah Agriculture and Food Click to see video Travis Kyhl Executive Director of SCAOG Click to see video Evan Vickers Utah State Senator Click to see video Scott Stubbs Iron County Farm Bureau President Click to see video Rex Shipp Utah House Representative Click to see video Greg Miles Duchesne County Commissioner Click to see video Greg Jensen Sevier County Commissioner Click to see video Don Ipson Utah State Senator Click to see video Curtis Koch Utah Association of Counties President Click to see videos Colin Jack Utah House Representative Click to see video Clayton Peay FFA Student Click Here Celeste Meyers Kane County Commissioner Click to see video Carl Albrecht Utah House Representative Click to see video Bruce Adams San Juan County Commissioner Click to see video Brian Somers President of the Utah Mining Association Click to see video Brandon Yardley Beaver County Commissioner Click to see video Brad Horrocks Uintah County Commissioner Click to see video Randy Elliot Davis County Commissioner Click to see video We Support Celeste Congressional Endorsements Former Congressman Chris Stewart Former Congressman Rob Bishop Congressman Burgess Owens Utah State Senators President Stuart Adams, Utah State Senator Don Ipson, Utah State Senator Evan Vickers, Utah State Senator Derrin Owens, Utah State Senator Scott Sandall, Utah State Senator Todd Weiler, Utah State Senator Mike McKell, Utah State Senator David Hinkins, Utah State Senator Keven Stratton, Utah State Senator Utah State Representatives Stephen Whyte, Utah State House Doug Welton, Utah State House Tyler Clancy, Former Utah State House Val Peterson, Utah State House Norm Thurston, Utah State House David Shallenberger, Utah State House Paul Cutler, Utah State House Bridger Bolinder, Utah State House Walt Brooks, Utah State House Carl Albrecht, Utah State House Steve Lund, Utah State House Neil Walter, Utah State House Colin Jack, Utah State House Anthony Loubet, Utah State House Doug Welton, Utah State House County Sheriffs Kelly Sparks, Davis County Sheriff Mike Smith, Utah County Sheriff Nate Brooksby, Washington County Sheriff Ken Carpenter, Iron County Sheriff Paul Wimmer, Tooele County Sheriff Nathan Curtis, Sevier County Sheriff Rich Jacobson, Millard County Sheriff Cody Black, Beaver County Sheriff Tracy Glover, Kane County Sheriff Marty Gleave, Piute County Sheriff Eric Houston, Garfield County Sheriff Mayors Kress Staheli, Mayor, Washington Chris Hart, Mayor, Ivins Rick Rosenberg, Mayor, Santa Clara Brian Burrows, Mayor, Richfield Ward Dotson, Mayor, Minersville Matt Robinson, Mayor, Beaver Nolan Davis, Mayor, Milford Deborah Herron, Mayor, Duchesen County Commissioners Brandon Gorda, Utah County Commission Adam Snow, Washington County Commission Gil Almquist, Washington County Commission Victor Iverson, Washington County Commission Tammy Pearson, Beaver County Commission Wade Hollingshead, Beaver County Commission Brandon Yardley, Beaver County Commission Leland Pollock, Garfield County Commission David Tebbs, Garfield County Commission Jerry Taylor, Garfield County Commission Mike Bleak, Iron County Commission Ken Robinson, Iron County Commission Wade Heaton, Kane County Commission Dennis Blackburn, Wayne County Commission Kerry Cook, County Commission Roger Brian, County Commission Greg Jensen, Sevier County Commission Scott Johnson, Sevier County Commission Ralph Brown, Sevier County Commission Bill Wright, Millard County Commission Trevor Johnson, Millard County Commission Tye Hoffmann, Tooele County Council Jared Hamner, Tooele County Council Scott Wardle, Tooele County Council Clint Painter, Juab County Commission Marty Palmer, Juab County Commission Marvin Kenison, Juab County Commission Darin Bushman, Piute County Commission Will Talbot, Piute County Commission Scott Dalton, Piute County Commission Bill Winfield, Grand County Commission Brian Martinez, Grand County Commission Lori Maughan, San Juan County Commission Tony Martines, Carbon County Commission Brandon Gordon, Utah County Commission Laurie Stringham, Salt Lake County Council Kendall Crittenden, Wasatch County Council Will LeFevre, Uintah County Commission Traci Killian, Duchesne County Commission Greg Miles, Duchesne County Commission Jeff Chugg, Duchesne County Commission Jack Lytle, Daggett County Commission County Attorneys Chad Dotson, Iron County Attorney Rob Van Dyke, Kane County Attorney Eric Clarke, Washington County Attorney Congressman Chris Stewart I Support Celeste Because: “I made the decision to step down from Congress in the best interest of my family.
 Today, I couldn’t be more proud to make this decision in the best interest of Utah: I enthusiastically and wholeheartedly endorse Celeste Maloy for Congress.
 I’ve served our nation in various leadership positions throughout my life.
 And whether I was fighting in the skies or in the halls of Congress, I found two things to be necessary.
@@ -113,79 +11,64 @@ Those pillars of service and leadership describe Celeste Maloy to her core.
 I have long said that America’s best and brightest days are still ahead, and voting for Celeste Maloy is the best way to ensure our future.
 She is a strong conservative woman with Utah values and the one person in the race I know for certain is ready to serve on day one.
 Celeste embodies the American dream and is an exceptional leader for our exceptional nation.
-Please join me in supporting Celeste Maloy for Congress.”
-Congressman Rob
-Bishop
-- “Congressman Chris Stewart’s value to Utah has been his knowledge of rural lands, Hill AFB, and Congressional procedure,” said Bishop.
+Please join me in supporting Celeste Maloy for Congress.” Congressman Rob Bishop I Support Celeste Because: “Congressman Chris Stewart’s value to Utah has been his knowledge of rural lands, Hill AFB, and Congressional procedure,” said Bishop.
 “As a lands attorney and legislative staffer who worked these issues through Congress, Celeste Maloy possesses these same qualities.
 I’ve known Celeste for years.
 She is the right person for this seat.
 I am endorsing Celeste for Congress because I know she will be a conservative fighter for Utah and the west.
-She also has a sense of humor.”
-Utah State Senator Don Ipson
-- “She’s the real deal.
+She also has a sense of humor.” Utah State Senator Don Ipson I Support Celeste Because: “She’s the real deal.
 I know her and I know her work ethic.
-That’s why I am voting for Celeste Maloy.”
-Utah State Senator Derrin Owens
-- “We will miss the leadership of Congressman Chris Stewart.
+That’s why I am voting for Celeste Maloy.” Utah State Senator Derrin Owens I Support Celeste Because: “We will miss the leadership of Congressman Chris Stewart.
 He has been a rock for the great citizens and elected officials of my 10-county wide senate district.
 Advising and working alongside Congressman Stewart has been his trusted legal counsel, Celeste Maloy.
 She knows the issues and how to navigate Washington, D.C.
 I trust Congressman Stewart’s endorsement of Celeste and will be voting for her in the Republican primary.
-You go girl!”
-Former Utah House Representative Lowry Snow
-- “Celeste keenly understands the critical issues that impact the lives of families in Washington County and Southern Utah.
+You go girl!” Former Utah House Representative Lowry Snow I Support Celeste Because: “Celeste keenly understands the critical issues that impact the lives of families in Washington County and Southern Utah.
 For the past 4 years, Celeste has worked side by side with Congressman Stewart, advocating for good policy, fighting against bad policy, and together they have been a strong voice for Washington County and Southern Utah.
 The convention delegates wisely chose Celeste as the Republican convention candidate, and I am proud and honored to add my own personal endorsement for her.
 I know she will continue to represent all the conservative traditions we value in Southern Utah.
-Let’s send Celeste back to Washington to stay the course and continue the good cause.“
-Beaver County Commissioner Tammy Pearson
-- “I support Celeste Maloy for Congress.
+Let’s send Celeste back to Washington to stay the course and continue the good cause.“ Beaver County Commissioner Tammy Pearson I Support Celeste Because: “I support Celeste Maloy for Congress.
 She is the only candidate in the race that has on the ground experience working with county government.
 That is what we need in Washington to advance local government and states’ rights.
-In this special election, I hope Republicans will unite behind the delegate’s choice for Congressional District 2.“
-“I am pleased to extend my endorsement for Celeste Maloy as our candidate for US Congress.
+In this special election, I hope Republicans will unite behind the delegate’s choice for Congressional District 2.“ “I am pleased to extend my endorsement for Celeste Maloy as our candidate for US Congress.
 Being from Southern Utah she has a deep understanding of our region’s federal issues, particularly those concerning land and water which sets her apart as a leader with the knowledge and dedication we need in Congress.
 I have known her for many years.
 She is intelligent, strong and has a commanding understanding of the law.
 With her experience and conservative policies, she knows how to push back on federal overreach, controlling social issues and how to stand strong for our values.
 Celeste Maloy is the best choice to represent our community’s interests on the national stage.
-I wholeheartedly endorse Celeste Maloy and I am confident that she will be a tireless advocate for our community.” Utah House Representative Walt Brooks
-“Celeste is awesome.
+I wholeheartedly endorse Celeste Maloy and I am confident that she will be a tireless advocate for our community.” Utah House Representative Walt Brooks “Celeste is awesome.
 As an Iron County Commissioner, I have had the pleasure of working closely with Celeste on many issues from public lands to funding for roads and law enforcement.
 She is a true champion for rural issues in our district.
 On a personal note, Celeste is hard working, dedicated, and completely honest in her dealings.
 I am proud to count Celeste as a colleague and friend.
-She will do a fantastic job representing us in the US Congress.” Iron County Commissioner Mike Bleak
-“As a county with over 90% public lands, Kane County is greatly affected by public land issues and policies.
+She will do a fantastic job representing us in the US Congress.” Iron County Commissioner Mike Bleak “As a county with over 90% public lands, Kane County is greatly affected by public land issues and policies.
 For many years now, when Kane County has needed help navigating public land issues, Celeste Maloy has been our first call.
 Celeste is one of the nation’s leading experts regarding public lands in the West and I am grateful that she is willing to continue to help and fight for rural counties in Utah.
-I wholehearted endorse Celeste Maloy for Congress and look forward to working with her to safeguard our public lands.” Kane County Commissioner Wade Heaton
-“I have enjoyed working and serving with Celeste Maloy for years.
+I wholehearted endorse Celeste Maloy for Congress and look forward to working with her to safeguard our public lands.” Kane County Commissioner Wade Heaton “I have enjoyed working and serving with Celeste Maloy for years.
 I’ve worked with Celeste on tortoise habitat issues when she was with the Washington County Attorney’s office, on Lake Powell Pipeline issues when she was at the Washington County Water Conservancy, and on energy issues when she was in Washington DC working for CD2.
 She and I served together on the Washington County Republican Party executive committee in several capacities; had she not gone to work for Congressman Stewart in 2019 I’m sure she would have been the next Party Chair.
-I’m excited to have Celeste Maloy as the next Congresswoman from Utah’s CD2.” Utah House Representative Colin Jack
-“I have known Celeste Maloy since 2015.
+I’m excited to have Celeste Maloy as the next Congresswoman from Utah’s CD2.” Utah House Representative Colin Jack “I have known Celeste Maloy since 2015.
 As a commission, we interviewed her for an attorney to deal with public land, environmental and endangered species issues for Washington County, after she graduated from law school.
 Celeste served the county very well, then went on to also provide that expertise for the Washington County Water Conservancy District and for the “Utah Association of Counties”, for rural counties of Utah.
 Recognizing her ability, Congressman Stewart invited her to join his staff, where she has expanded her abilities even further a with several years on his staff.
-She will make an excellent Congresswoman.” Former Washington County Commissioner Alan Gardner
-It is my pleasure to Endorse Celeste Maloy for Congress in Utah’s 2nd Congressional District.
+She will make an excellent Congresswoman.” Former Washington County Commissioner Alan Gardner It is my pleasure to Endorse Celeste Maloy for Congress in Utah’s 2nd Congressional District.
 Celeste has experience in Washington, DC and is endorsed by Chris Stewart who is the current congressman.
 Celeste is one of the most knowledgeable people I know regarding the public lands and a solid resource and ally to the public lands counties.
 She will be a solid advocate for our district.
 Celeste also solidly represents the values and principles that have made America great.
-I wholeheartedly endorse her and encourage everyone to do the same.” Former Kane County Commissioner Doug Heaton
-“Celeste Maloy is uniquely qualified to represent Utah’s 2nd District in the United States Congress.
+I wholeheartedly endorse her and encourage everyone to do the same.” Former Kane County Commissioner Doug Heaton “Celeste Maloy is uniquely qualified to represent Utah’s 2nd District in the United States Congress.
 She has vast experience in law, county government support, Utah Association of Counties, Washington County Water Conservancy District, and served as special counsel to Congressman Chris Stewart.
 She has been on the front lines in Washington, DC.
 She is personable but knows how to crack the whip.
 I am impressed with her knowledge of rural and urban issues.
 Celeste understands the issues and challenges that Utahns deal with and she will fight for us in the halls of Congress and on the ground.
-I wholeheartedly support Celeste Maloy for Utah’s 2nd District congresswoman.” Former Iron County Commissioner Alma Adams
-“I have worked with Celeste to stop federal overreach on our land, from controlling our water, and preserving critically important range access.
+I wholeheartedly support Celeste Maloy for Utah’s 2nd District congresswoman.” Former Iron County Commissioner Alma Adams “I have worked with Celeste to stop federal overreach on our land, from controlling our water, and preserving critically important range access.
 Celeste has fought to protect and expand local control in our everyday lives, for our livelihoods and for our children.
-That’s why I endorse her.” Former Mayor of Hurricane City John Bramell
-“I support Celeste because she know how to get things done for Utah.” Phyllis Hall
-Join Our Team
-Sign up to join the growing list of people in Congressional District 2 who are supporting Celeste Maloy for Congress!
+That’s why I endorse her.” Former Mayor of Hurricane City John Bramell “I support Celeste because she know how to get things done for Utah.” Phyllis Hall Join Our Team Sign up to join the growing list of people in Congressional District 2 who are supporting Celeste Maloy for Congress!
+STAY UPDATED Sign up to stay up to date with Congresswoman Celeste Maloy.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Email Address Sign Up Thank you!
+Celeste for Congress P.O.
+Box 2410 Cedar City UT 84721 Paid For By Celeste For Congress Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Please see our Privacy Policy for more information

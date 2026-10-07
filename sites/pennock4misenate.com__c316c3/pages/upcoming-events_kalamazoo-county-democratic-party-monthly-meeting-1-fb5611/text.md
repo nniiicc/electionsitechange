@@ -1,10 +1,5 @@
-Back to All Events
-Grassroots energy is what drives real structural reform, and that energy starts right here in our local party rooms.
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Kalamazoo County Democratic Party Monthly Meeting Wednesday, June 17, 2026 6:00 PM 8:00 PM Shakespeare's Pub 241 East Kalamazoo Avenue Kalamazoo, Michigan, 49007 United States (map) Google Calendar ICS Grassroots energy is what drives real structural reform, and that energy starts right here in our local party rooms.
 Anthony is headed to the Kalamazoo County Democratic Party meeting on June 17th, and he wants you there standing with him!
-Previous
-Previous
-June 15
-Barry County Chamber and Economic Development Alliance Forum
-Next
-Next
-June 20
+Previous Previous June 15 Barry County Chamber and Economic Development Alliance Forum Next Next June 20 Battle Creek Juneteenth Celebration Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

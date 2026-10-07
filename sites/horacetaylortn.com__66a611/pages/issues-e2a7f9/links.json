@@ -1,18 +1,106 @@
 [
-"https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00",
-"https://facebook.com/share/1Esw9w8VTz",
-"https://horacetaylortn.com/",
-"https://horacetaylortn.com/about",
-"https://horacetaylortn.com/contact",
-"https://horacetaylortn.com/events",
-"https://horacetaylortn.com/get-involved",
-"https://horacetaylortn.com/issues",
-"https://horacetaylortn.com/merch",
-"https://horacetaylortn.com/photos",
-"https://horacetaylortn.com/videos",
-"https://horacetaylortn.com/vision",
-"https://horacetaylortn.com/voices",
-"https://instagram.com/horaceforcongress",
-"https://share.google/dkxhmUxvvUivAqMoY",
-"https://youtube.com/@horacetforcongress?si=tn8GjOpY9d3QO_im"
+{
+"text": "About",
+"href": "https://horacetaylortn.com/about"
+},
+{
+"text": "About Horace",
+"href": "https://horacetaylortn.com/about"
+},
+{
+"text": "Campaign Photos",
+"href": "https://horacetaylortn.com/photos"
+},
+{
+"text": "Campaign Store",
+"href": "https://horacetaylortn.com/merch"
+},
+{
+"text": "Campaign Videos",
+"href": "https://horacetaylortn.com/videos"
+},
+{
+"text": "Check Your Registration",
+"href": "https://share.google/dkxhmUxvvUivAqMoY"
+},
+{
+"text": "Contact",
+"href": "https://horacetaylortn.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://buy.stripe.com/7sY28rbqr9gD0hCg7167S00"
+},
+{
+"text": "Events",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Events & Appearances",
+"href": "https://horacetaylortn.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://horacetaylortn.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://horacetaylortn.com/get-involved#volunteer"
+},
+{
+"text": "HTHorace TaylorIndependent · Tennessee 8th",
+"href": "https://horacetaylortn.com/"
+},
+{
+"text": "Issues",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://horacetaylortn.com/issues"
+},
+{
+"text": "Meet Horace",
+"href": "https://horacetaylortn.com/about"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://horacetaylortn.com/merch#yard-sign"
+},
+{
+"text": "Store",
+"href": "https://horacetaylortn.com/merch"
+},
+{
+"text": "Taylored Advisory",
+"href": "https://tayloredadvisory.com"
+},
+{
+"text": "Vision",
+"href": "https://horacetaylortn.com/vision"
+},
+{
+"text": "Vision & Values",
+"href": "https://horacetaylortn.com/vision"
+},
+{
+"text": "Voices",
+"href": "https://horacetaylortn.com/voices"
+},
+{
+"text": "Voices of the District",
+"href": "https://horacetaylortn.com/voices"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Esw9w8VTz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/horaceforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@horacetforcongress?si=tn8GjOpY9d3QO_im"
+}
 ]

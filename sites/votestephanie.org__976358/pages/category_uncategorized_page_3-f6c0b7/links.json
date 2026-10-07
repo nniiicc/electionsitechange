@@ -1,50 +1,218 @@
 [
-"http://le.utah.gov/",
-"https://buzzsprout.com/2171775/episodes/16555721-vote-by-mail-isn-t-going-anywhere-here-s-how-lawmakers-plan-to-make-it-more-secure",
-"https://deseret.com/utah/2025/02/06/utah-nuclear-energy-generation-expansion",
-"https://deseret.com/utah/2025/02/10/bill-legislature-schultz-house-committee-education-cte-grant-industry-utah",
-"https://facebook.com/events/954070533233815?acontext=%7B%22event_action_history%22%3A%5B%7B%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-"https://house.utleg.gov/13225-2",
-"https://le.utah.gov/~2025/bills/static/HB0029.html",
-"https://le.utah.gov/~2025/bills/static/HB0037.html",
-"https://le.utah.gov/~2025/bills/static/HB0038.html",
-"https://le.utah.gov/~2025/bills/static/HB0069.html",
-"https://le.utah.gov/~2025/bills/static/HB0070.html",
-"https://le.utah.gov/~2025/bills/static/HB0072.html",
-"https://le.utah.gov/~2025/bills/static/HB0081.html",
-"https://le.utah.gov/~2025/bills/static/HB0087.html",
-"https://le.utah.gov/~2025/bills/static/HB0199.html",
-"https://le.utah.gov/~2025/bills/static/HB0204.html",
-"https://le.utah.gov/~2025/bills/static/HB0215.html",
-"https://le.utah.gov/~2025/bills/static/HB0226.html",
-"https://le.utah.gov/~2025/bills/static/HB0249.html",
-"https://le.utah.gov/~2025/bills/static/HB0260.html",
-"https://le.utah.gov/~2025/bills/static/HB0269.html",
-"https://le.utah.gov/~2025/bills/static/HB0300.html",
-"https://le.utah.gov/~2025/bills/static/HB0312.html",
-"https://le.utah.gov/~2025/bills/static/HB0344.html",
-"https://le.utah.gov/~2025/bills/static/HB0360.html",
-"https://le.utah.gov/~2025/bills/static/HB0368.html",
-"https://le.utah.gov/~2025/bills/static/HB0381.html",
-"https://le.utah.gov/~2025/bills/static/HB0447.html",
-"https://olag.utleg.gov/audits_current.jsp",
-"https://slc-ut2034.org/salt-lake-city-utah-2034-announces-organizing-committee",
-"https://usnews.com/news/best-states/rankings/education",
-"https://votestephanie.org/",
-"https://votestephanie.org/2025-general-session",
-"https://votestephanie.org/2026-legislative-priorities",
-"https://votestephanie.org/247764-2",
-"https://votestephanie.org/247768-2",
-"https://votestephanie.org/?page_id=96351",
-"https://votestephanie.org/category/uncategorized/page/2",
-"https://votestephanie.org/category/uncategorized/page/4",
-"https://votestephanie.org/investing-for-utah",
-"https://votestephanie.org/issues",
-"https://votestephanie.org/legislative-work-in-progress",
-"https://votestephanie.org/meet-stephanie",
-"https://votestephanie.org/securing-utahs-future",
-"https://votestephanie.org/upcomingtownhall",
-"https://votestephanie.org/update-from-capitol-hill",
-"https://votestephanie.org/week-4-session-update",
-"https://votestephanie.org/week-5-session-update"
+{
+"text": "2025 General Session",
+"href": "https://votestephanie.org/2025-general-session/"
+},
+{
+"text": "2026 Legislative Priorities",
+"href": "https://votestephanie.org/2026-legislative-priorities/"
+},
+{
+"text": "Advancing nuclear power",
+"href": "https://le.utah.gov/~2025/bills/static/HB0249.html"
+},
+{
+"text": "Ballot Information Accessibility Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0069.html"
+},
+{
+"text": "Child Visitation Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0029.html"
+},
+{
+"text": "Fluoride Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0081.html"
+},
+{
+"text": "H.B. 204",
+"href": "https://le.utah.gov/~2025/bills/static/HB0204.html"
+},
+{
+"text": "H.B. 226",
+"href": "https://le.utah.gov/~2025/bills/static/HB0226.html"
+},
+{
+"text": "H.B. 249",
+"href": "https://le.utah.gov/~2025/bills/static/HB0249.html"
+},
+{
+"text": "H.B. 260",
+"href": "https://le.utah.gov/~2025/bills/static/HB0260.html"
+},
+{
+"text": "H.B. 300",
+"href": "https://le.utah.gov/~2025/bills/static/HB0300.html"
+},
+{
+"text": "H.B. 312",
+"href": "https://le.utah.gov/~2025/bills/static/HB0312.html"
+},
+{
+"text": "H.B. 344",
+"href": "https://le.utah.gov/~2025/bills/static/HB0344.html"
+},
+{
+"text": "H.B. 360",
+"href": "https://le.utah.gov/~2025/bills/static/HB0360.html"
+},
+{
+"text": "H.B. 368",
+"href": "https://le.utah.gov/~2025/bills/static/HB0368.html"
+},
+{
+"text": "H.B. 38",
+"href": "https://le.utah.gov/~2025/bills/static/HB0038.html"
+},
+{
+"text": "H.B. 447",
+"href": "https://le.utah.gov/~2025/bills/static/HB0447.html"
+},
+{
+"text": "H.B. 87",
+"href": "https://le.utah.gov/~2025/bills/static/HB0087.html"
+},
+{
+"text": "H.B.37",
+"href": "https://le.utah.gov/~2025/bills/static/HB0037.html"
+},
+{
+"text": "HB 215",
+"href": "https://le.utah.gov/~2025/bills/static/HB0215.html"
+},
+{
+"text": "HB381",
+"href": "https://le.utah.gov/~2025/bills/static/HB0381.html"
+},
+{
+"text": "HB81",
+"href": "https://le.utah.gov/~2025/bills/static/HB0081.html"
+},
+{
+"text": "Home",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "Investing for Utah",
+"href": "https://votestephanie.org/investing-for-utah/"
+},
+{
+"text": "Issues",
+"href": "https://votestephanie.org/issues/"
+},
+{
+"text": "Legislative Work in Progress",
+"href": "https://votestephanie.org/legislative-work-in-progress/"
+},
+{
+"text": "Meet Stephanie",
+"href": "https://votestephanie.org/meet-stephanie/"
+},
+{
+"text": "Next Entries »",
+"href": "https://votestephanie.org/category/uncategorized/page/2/"
+},
+{
+"text": "Privacy Protections in Sex-designated Areas",
+"href": "https://le.utah.gov/~2025/bills/static/HB0269.html"
+},
+{
+"text": "Recent Updates",
+"href": "https://votestephanie.org/?page_id=96351"
+},
+{
+"text": "Securing Utah’s Future",
+"href": "https://votestephanie.org/securing-utahs-future/"
+},
+{
+"text": "U.S. News and World Report",
+"href": "https://www.usnews.com/news/best-states/rankings/education"
+},
+{
+"text": "Upcoming Town Hall",
+"href": "https://votestephanie.org/247764-2/"
+},
+{
+"text": "Upcoming Town Hall",
+"href": "https://votestephanie.org/upcomingtownhall/"
+},
+{
+"text": "Update From Capitol Hill",
+"href": "https://votestephanie.org/update-from-capitol-hill/"
+},
+{
+"text": "Week 4 Session Update",
+"href": "https://votestephanie.org/week-4-session-update/"
+},
+{
+"text": "Week 5 Session Update",
+"href": "https://votestephanie.org/week-5-session-update/"
+},
+{
+"text": "Wrapping Up the Interim Process",
+"href": "https://votestephanie.org/247768-2/"
+},
+{
+"text": "[image: Stephanie Gricius]",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "[no text]",
+"href": "https://votestephanie.org"
+},
+{
+"text": "here",
+"href": "https://house.utleg.gov/13225-2/"
+},
+{
+"text": "here",
+"href": "https://olag.utleg.gov/audits_current.jsp"
+},
+{
+"text": "here",
+"href": "https://www.deseret.com/utah/2025/02/10/bill-legislature-schultz-house-committee-education-cte-grant-industry-utah/"
+},
+{
+"text": "here",
+"href": "https://www.facebook.com/events/954070533233815/?acontext=%7B%22event_action_history%22%3A%5B%7B%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
+},
+{
+"text": "latest episode",
+"href": "https://www.buzzsprout.com/2171775/episodes/16555721-vote-by-mail-isn-t-going-anywhere-here-s-how-lawmakers-plan-to-make-it-more-secure"
+},
+{
+"text": "le.utah.gov",
+"href": "http://le.utah.gov/"
+},
+{
+"text": "le.utah.gov.",
+"href": "http://le.utah.gov/"
+},
+{
+"text": "organizing committee officially formed",
+"href": "https://slc-ut2034.org/salt-lake-city-utah-2034-announces-organizing-committee/"
+},
+{
+"text": "promoting investment",
+"href": "https://le.utah.gov/~2025/bills/static/HB0072.html"
+},
+{
+"text": "responsible decommissioning",
+"href": "https://le.utah.gov/~2025/bills/static/HB0070.html"
+},
+{
+"text": "root causes",
+"href": "https://le.utah.gov/~2025/bills/static/HB0199.html"
+},
+{
+"text": "this article",
+"href": "https://www.deseret.com/utah/2025/02/06/utah-nuclear-energy-generation-expansion/"
+},
+{
+"text": "we are building on these past reforms",
+"href": "https://le.utah.gov/~2025/bills/static/HB0300.html"
+},
+{
+"text": "« Older Entries",
+"href": "https://votestephanie.org/category/uncategorized/page/4/"
+}
 ]

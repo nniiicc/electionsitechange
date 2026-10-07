@@ -1,13 +1,54 @@
 [
-"https://facebook.com/caloza4california",
-"https://flickr.com/photos/derekhumphrey/albums/72177720311617867/with/53228056799",
-"https://instagram.com/jessicacaloza",
-"https://jessicacaloza.com/",
-"https://jessicacaloza.com/2026-supporters",
-"https://jessicacaloza.com/issues",
-"https://jessicacaloza.com/meet-jessica",
-"https://secure.actblue.com/donate/teamcaloza2026",
-"https://twitter.com/jessicacaloza",
-"https://youtube.com/channel/UCNqRgAwg4cC6SXfG0njuQfQ",
-"https://youtube.com/watch?v=uZblLb-zdzo"
+{
+"text": "Caloza4California@gmail.com",
+"href": "mailto:Caloza4California@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/teamcaloza2026"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jessicacaloza.com"
+},
+{
+"text": "HOME",
+"href": "https://www.jessicacaloza.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jessicacaloza.com/issues"
+},
+{
+"text": "MEET JESSICA",
+"href": "https://www.jessicacaloza.com/meet-jessica"
+},
+{
+"text": "MY SUPPORTERS",
+"href": "https://www.jessicacaloza.com/2026-supporters"
+},
+{
+"text": "[image: Flickr]",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720311617867/with/53228056799/"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCNqRgAwg4cC6SXfG0njuQfQ"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/watch?v=uZblLb-zdzo"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jessicacaloza"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/caloza4california"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/jessicacaloza/"
+}
 ]

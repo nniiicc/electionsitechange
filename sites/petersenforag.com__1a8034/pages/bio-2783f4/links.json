@@ -1,16 +1,62 @@
 [
-"https://facebook.com/votewarrenpetersen",
-"https://instagram.com/warrenpetersenag",
-"https://petersenforag.com/",
-"https://petersenforag.com/accomplishments",
-"https://petersenforag.com/bio",
-"https://petersenforag.com/cart",
-"https://petersenforag.com/endorsements",
-"https://petersenforag.com/get-involved",
-"https://petersenforag.com/home",
-"https://petersenforag.com/issues",
-"https://petersenforag.com/media",
-"https://petersenforag.com/privacy-policy",
-"https://secure.winred.com/friends-of-warren-petersen/donate",
-"https://x.com/votewarren"
+{
+"text": "0",
+"href": "https://www.petersenforag.com/cart"
+},
+{
+"text": "Bio",
+"href": "https://www.petersenforag.com/bio"
+},
+{
+"text": "CONTACT",
+"href": "https://www.petersenforag.com/get-involved"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-warren-petersen/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenforag.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.petersenforag.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.petersenforag.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.petersenforag.com/media"
+},
+{
+"text": "Privacy PoliCY",
+"href": "https://www.petersenforag.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://www.petersenforag.com/accomplishments"
+},
+{
+"text": "[image: Petersen for Attorney General]",
+"href": "https://www.petersenforag.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.petersenforag.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votewarrenpetersen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/warrenpetersenag/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votewarren"
+}
 ]

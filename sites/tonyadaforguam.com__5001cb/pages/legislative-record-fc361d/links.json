@@ -1,55 +1,238 @@
 [
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-04%20Bill%20No.%2058-31%20.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-109%20SBill%20No.%20214-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-114%20SBill%20No.%20224-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-138%20-%20SBill%20No.%20238-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-149%20SBill%20No.%20212-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-171%20-%20SBill%20No.%2099-31%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-184%20-%20Bill%20No.%20276-31%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-201%20Bill%20No.%20201-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-202%20Bill%20No.%20202-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-228%20Bill%20No.%20438-31%20(LS).pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-242%20Bill%20No.%20480-31%20(COR).PDF",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-248%20Bill%20No.%20385-31%20(COR).PDF",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-256%20Bill%20No.%20322-31(COR).pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-257%20Bill%20No.%20237-31(COR).pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-26%20Bill%20No.%2059-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-30%20SBill%20No.%2067-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-34%20Bill%20No.%2076-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-38%20Bill%20No.%20100-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-47%20SBill%20No.%20101-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-48%20SBill%20No%20%20102-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-52%20ABill%20No.%20126-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-85%20Bill%20No.%20114-31.pdf",
-"http://guamlegislature.com/Public_Laws_31st/P.L.%2031-91%20Bill%20No.%20150-31.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-004%20-%20Bill%20No%20%2033-32-Re%20to%20requiring%20proof%20of%20use%20of%20tax%20payment%20as%20a%20cond%20of%20regs%20for%20vehicles%20acq%20off-island.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-015%20-%20Bill%20No%2031-32.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-016%20-%20Bill%20No%2032-32.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-029%20-%20Bill%20No%2058-32.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-033%20-%20Bill%20No%2072-32.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-047%20-%20Bill%20No%20119-32.pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-108%20-%20Bill%20No%2070-32%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-109%20-%20Bill%20No%2071-32%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-111%20-%20Bill%20No%20146-32%20(LS).pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-116%20-%20Bill%20No%20202-32%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-139%20-%20Bill%20No%20183-32%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-156%20-%20Bill%20No%2034-32%20(COR).pdf",
-"http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-213%20-%20Bill%20No%20391-32.pdf",
-"http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-126.pdf",
-"http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-134.pdf",
-"http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-169.pdf",
-"http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-69.pdf",
-"https://facebook.com/tonyadaforguam",
-"https://gop.com/",
-"https://guamlegislature.com/36th_Guam_Legislature/Public_Laws_36th/Public%20Law%20No.%2036-109%20ABill%20No.%20303-36%20(COR).pdf",
-"https://guamlegislature.com/36th_Guam_Legislature/Public_Laws_36th/Public%20Law%20No.%2036-17%20Bill%20No.%208-36%20(COR)%20V.%20Anthony%20Ada.pdf",
-"https://guamlegislature.com/36th_Guam_Legislature/Public_Laws_36th/Public%20Law%20No.%2036-30%20Bill%20No.%2047-36%20(COR)%20vaa.pdf",
-"https://guampedia.com/republican-party-of-guam",
-"https://instagram.com/tonyadaforsenator",
-"https://tonyadaforguam.com/",
-"https://tonyadaforguam.com/about",
-"https://tonyadaforguam.com/contact",
-"https://tonyadaforguam.com/interviews",
-"https://tonyadaforguam.com/legislative-record",
-"https://tonyadaforguam.com/platform"
+{
+"text": "An act § 58110(d) of Article 1, Chapter 58, Title 12, Guam Code Annotated, relative to expansion of the public investments options for qualifying certificate holders to include municipal programs and projects.",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-38%20Bill%20No.%20100-31.pdf"
+},
+{
+"text": "Bio",
+"href": "https://www.tonyadaforguam.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tonyadaforguam.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.tonyadaforguam.com"
+},
+{
+"text": "Interviews",
+"href": "https://www.tonyadaforguam.com/interviews"
+},
+{
+"text": "Legislative Record",
+"href": "https://www.tonyadaforguam.com/legislative-record"
+},
+{
+"text": "PL 31-109",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-109%20SBill%20No.%20214-31.pdf"
+},
+{
+"text": "PL 31-114",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-114%20SBill%20No.%20224-31.pdf"
+},
+{
+"text": "PL 31-138",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-138%20-%20SBill%20No.%20238-31.pdf"
+},
+{
+"text": "PL 31-149",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-149%20SBill%20No.%20212-31.pdf"
+},
+{
+"text": "PL 31-171",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-171%20-%20SBill%20No.%2099-31%20(COR).pdf"
+},
+{
+"text": "PL 31-184",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-184%20-%20Bill%20No.%20276-31%20(COR).pdf"
+},
+{
+"text": "PL 31-201",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-201%20Bill%20No.%20201-31.pdf"
+},
+{
+"text": "PL 31-202",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-202%20Bill%20No.%20202-31.pdf"
+},
+{
+"text": "PL 31-228",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-228%20Bill%20No.%20438-31%20(LS).pdf"
+},
+{
+"text": "PL 31-242",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-242%20Bill%20No.%20480-31%20(COR).PDF"
+},
+{
+"text": "PL 31-248",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-248%20Bill%20No.%20385-31%20(COR).PDF"
+},
+{
+"text": "PL 31-256",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-256%20Bill%20No.%20322-31(COR).pdf"
+},
+{
+"text": "PL 31-257",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-257%20Bill%20No.%20237-31(COR).pdf"
+},
+{
+"text": "PL 31-26",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-26%20Bill%20No.%2059-31.pdf"
+},
+{
+"text": "PL 31-30",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-30%20SBill%20No.%2067-31.pdf"
+},
+{
+"text": "PL 31-34",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-34%20Bill%20No.%2076-31.pdf"
+},
+{
+"text": "PL 31-38",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-38%20Bill%20No.%20100-31.pdf"
+},
+{
+"text": "PL 31-4",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-04%20Bill%20No.%2058-31%20.pdf"
+},
+{
+"text": "PL 31-47",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-47%20SBill%20No.%20101-31.pdf"
+},
+{
+"text": "PL 31-48",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-48%20SBill%20No%20%20102-31.pdf"
+},
+{
+"text": "PL 31-52",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-52%20ABill%20No.%20126-31.pdf"
+},
+{
+"text": "PL 31-85",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-85%20Bill%20No.%20114-31.pdf"
+},
+{
+"text": "PL 31-91",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-91%20Bill%20No.%20150-31.pdf"
+},
+{
+"text": "PL 32-004",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-004%20-%20Bill%20No%20%2033-32-Re%20to%20requiring%20proof%20of%20use%20of%20tax%20payment%20as%20a%20cond%20of%20regs%20for%20vehicles%20acq%20off-island.pdf"
+},
+{
+"text": "PL 32-015",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-015%20-%20Bill%20No%2031-32.pdf"
+},
+{
+"text": "PL 32-016",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-016%20-%20Bill%20No%2032-32.pdf"
+},
+{
+"text": "PL 32-029",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-029%20-%20Bill%20No%2058-32.pdf"
+},
+{
+"text": "PL 32-033",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-033%20-%20Bill%20No%2072-32.pdf"
+},
+{
+"text": "PL 32-047",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-047%20-%20Bill%20No%20119-32.pdf"
+},
+{
+"text": "PL 32-108",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-108%20-%20Bill%20No%2070-32%20(COR).pdf"
+},
+{
+"text": "PL 32-109",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-109%20-%20Bill%20No%2071-32%20(COR).pdf"
+},
+{
+"text": "PL 32-111",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-111%20-%20Bill%20No%20146-32%20(LS).pdf"
+},
+{
+"text": "PL 32-116",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-116%20-%20Bill%20No%20202-32%20(COR).pdf"
+},
+{
+"text": "PL 32-139",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-139%20-%20Bill%20No%20183-32%20(COR).pdf"
+},
+{
+"text": "PL 32-156",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-156%20-%20Bill%20No%2034-32%20(COR).pdf"
+},
+{
+"text": "PL 32-213",
+"href": "http://guamlegislature.com/Public_Laws_32nd/Public%20Law%2032-213%20-%20Bill%20No%20391-32.pdf"
+},
+{
+"text": "PL 33-126",
+"href": "http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-126.pdf"
+},
+{
+"text": "PL 33-134",
+"href": "http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-134.pdf"
+},
+{
+"text": "PL 33-169",
+"href": "http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-169.pdf"
+},
+{
+"text": "PL 33-69",
+"href": "http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-69.pdf"
+},
+{
+"text": "PL 36-130",
+"href": "https://www.guamlegislature.com/36th_Guam_Legislature/Public_Laws_36th/Public%20Law%20No.%2036-109%20ABill%20No.%20303-36%20(COR).pdf"
+},
+{
+"text": "PL 36-17",
+"href": "https://www.guamlegislature.com/36th_Guam_Legislature/Public_Laws_36th/Public%20Law%20No.%2036-17%20Bill%20No.%208-36%20(COR)%20V.%20Anthony%20Ada.pdf"
+},
+{
+"text": "PL 36-20",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-38%20Bill%20No.%20100-31.pdf"
+},
+{
+"text": "PL 36-30",
+"href": "https://www.guamlegislature.com/36th_Guam_Legislature/Public_Laws_36th/Public%20Law%20No.%2036-30%20Bill%20No.%2047-36%20(COR)%20vaa.pdf"
+},
+{
+"text": "Platform",
+"href": "https://www.tonyadaforguam.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/tonyadaforguam"
+},
+{
+"text": "[image: GOPGuam.png]",
+"href": "https://www.guampedia.com/republican-party-of-guam/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tonyadaforsenator/"
+},
+{
+"text": "[image: rnc logo.png]",
+"href": "https://www.gop.com/"
+},
+{
+"text": "[no text]",
+"href": "http://guamlegislature.com/Public_Laws_31st/P.L.%2031-171%20-%20SBill%20No.%2099-31%20(COR).pdf"
+},
+{
+"text": "[no text]",
+"href": "http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-126.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://guamlegislature.com/Public_Laws_33rd/P.L.%20No.%2033-69.pdf"
+},
+{
+"text": "tonyadaforguam@gmail.com",
+"href": "mailto:tonyadaforsenator@gmail.com"
+}
 ]

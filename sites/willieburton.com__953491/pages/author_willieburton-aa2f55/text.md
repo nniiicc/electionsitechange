@@ -1,52 +1,43 @@
-- Search
-- Useful Links
-- Updates & Endorsements
-- Archives
-- Categories
-Author Archives: Willie Burton
-In the News Speaking for Justice!
-Willie Burton continues to speak for you as we suffered together through the pandemic and return normalcy.
+Willie E.
+Burton for State Representative Dist.
+9 Michigan's Ninth District will be better with Burton, because Burton means business!
+Skip to content Home Contribute Contact Us Meet Willie Burton Updates & Endorsements Helpful Contacts Author Archives: Willie Burton About Willie Burton Willie Burton is the Police Commissioner for Detroit's Fifth District.
+He answers to the people in his district.
+He is an experienced, committed, and compassionate leader who is dedicated to serving his community. ← Older posts In the News Speaking for Justice!
+Posted on June 14, 2024 by Willie Burton Willie Burton continues to speak for you as we suffered together through the pandemic and return normalcy.
 Coleman A.
-Young Recreation Center in Detroit reopens after $11 million renovation “This is exactly what the community wants,” said Willie Burton, a … Continue reading
-Free Summit on Technology Topics for Small Business
-Detroit Police Commissioner (Dist. 5) Willie Burton cordially invites you to a free summit on Technology Topics for Small Business Thursday, December 5th 2019 4:30-5:00 Networking Reception with food and refreshments 5:00 PM to 7:00 PM Program Michigan State University … Continue reading
-Electronic Surveillance Policy Conference
-How much is too much?
-Wednesday June 26th 6-8 PM Red Door Art Gallery 7500 Oakland St., Detroit, MI 48211 Panelists: Charles Williams (NAN) Eric Williams (ACLU) Willie Burton (Board of Police Commissioners) Darryl Brown (Board of Police Commissioners) Dan … Continue reading
-May 16th Small Business Summit
-Thursday, May 16th 2019 4:30-5:00 PM VIP Reception with Hotel Tours 5:00 PM to 7:00 PM Networking and Presentation Register by Eventbrite
-Commissioner Burton: James Craig Needs to Resign as Deputy Mayor
-Detroit police commissioner: Chief Craig must resign as deputy mayor and focus on crime Steve Neavling Metro Times For years, Detroit residents have expressed their concerns pertaining to slow response times by the Detroit police, …We often hear Detroiters shouting that there … Continue reading
-Commissioner Burton Questions Response Time Claims
-Commissioner Burton in’t taking response time statistics for granted.
+Young Recreation Center in Detroit reopens after $11 million renovation “This is exactly what the community wants,” said Willie Burton, a … Continue reading → Posted in Uncategorized | Tagged artificial-intelligence , facial recognition , news , surveillance , technology | Leave a comment Free Summit on Technology Topics for Small Business Posted on November 22, 2019 by Willie Burton Detroit Police Commissioner (Dist.
+5) Willie Burton cordially invites you to a free summit on Technology Topics for Small Business Thursday, December 5th 2019 4:30-5:00 Networking Reception with food and refreshments 5:00 PM to 7:00 PM Program Michigan State University … Continue reading → Posted in Business , Events , Networking | Tagged Free summit on Technology , Small Business | Leave a comment Electronic Surveillance Policy Conference Posted on June 26, 2019 by Willie Burton How much is too much?
+Wednesday June 26th 6-8 PM Red Door Art Gallery 7500 Oakland St., Detroit, MI 48211 Panelists: Charles Williams (NAN) Eric Williams (ACLU) Willie Burton (Board of Police Commissioners) Darryl Brown (Board of Police Commissioners) Dan … Continue reading → Posted in Board of Police Commissioners , Body Cams , Events , Issues , Networking | Tagged facial recognition | Leave a comment May 16th Small Business Summit Posted on May 15, 2019 by Willie Burton Thursday, May 16th 2019 4:30-5:00 PM VIP Reception with Hotel Tours 5:00 PM to 7:00 PM Networking and Presentation Register by Eventbrite Posted in Uncategorized | Leave a comment Commissioner Burton: James Craig Needs to Resign as Deputy Mayor Posted on February 12, 2019 by Willie Burton Detroit police commissioner: Chief Craig must resign as deputy mayor and focus on crime Steve Neavling Metro Times For years, Detroit residents have expressed their concerns pertaining to slow response times by the Detroit police, …We often hear Detroiters shouting that there … Continue reading → Posted in Uncategorized | Leave a comment Commissioner Burton Questions Response Time Claims Posted on February 12, 2019 by Willie Burton Commissioner Burton in’t taking response time statistics for granted.
 He has been making news highlighting inconsistencies and inequities.
-Police commissioner wants answers on response times George Hunter Detroit News For years Detroit residents have expressed their concerns pertaining to slow response … Continue reading
-Family of Police Brutality Victim Interviewed
-On Sunday January 6th.
+Police commissioner wants answers on response times George Hunter Detroit News For years Detroit residents have expressed their concerns pertaining to slow response … Continue reading → Posted in Board of Police Commissioners , Response Times | Tagged Board of Police Commissioners , crime , Detroit , Police , Response Time , willie Burton | Leave a comment Family of Police Brutality Victim Interviewed Posted on January 8, 2019 by Willie Burton On Sunday January 6th.
 Commissioner Willie Burton and DRACO founder Scotty Boman filled in for Robert Ficano on 910 AM Superstation.
 They were joined by Special guest Greg Dunmore.
-Dunmore is multimedia journalist and executive producer of Pulse Beat Media. … Continue reading
-Willie Burton Speaks Out On Excessive Force & Mental Health
-Today Police Commissioner (Detoit District 5) Willie E.
+Dunmore is multimedia journalist and executive producer of Pulse Beat Media. … Continue reading → Posted in Board of Police Commissioners , Events , Issues , mental health , Use of Force | Tagged beating , Bob Ficano , brutality , Detroit , Dwayne Jones , Greg Dunmore , Kwajalyn Bradley , Lakeisha Williams , Police , Robert Ficano , Shantell Bradley , willie Burton | 1 Comment Willie Burton Speaks Out On Excessive Force & Mental Health Posted on December 19, 2018 by Willie Burton Today Police Commissioner (Detoit District 5) Willie E.
 Burton, National Action Network (Michigan Chapter) President Rev.
-Charles Williams, and Detroit Residents Advancing Civilian Oversight Founder Scotty Boman held a Press Conference with WDIV Local 4 / ClickOnDetroit (Jason Colthorp) and … Continue reading
-Family Fun Skating Party!
-Treasure The Moment Willie Burton & Herman Davis Present A Family Fun Skating Party With A Live DJ At Northland Roller Rink 22311 West 8 Mile Rd Detroit, MI 48219 Wednesday, December 26, 2018 6:00 pm – 9:00 pm Admission: … Continue reading
-2018 Human Resources Business Summit
-Click here to download and print a flyer!
+Charles Williams, and Detroit Residents Advancing Civilian Oversight Founder Scotty Boman held a Press Conference with WDIV Local 4 / ClickOnDetroit (Jason Colthorp) and … Continue reading → Posted in Board of Police Commissioners , mental health , Use of Force | Tagged Board of Police Commissioners , mental health , Use of Force | Leave a comment Family Fun Skating Party!
+Posted on November 22, 2018 by Willie Burton Treasure The Moment Willie Burton & Herman Davis Present A Family Fun Skating Party With A Live DJ At Northland Roller Rink 22311 West 8 Mile Rd Detroit, MI 48219 Wednesday, December 26, 2018 6:00 pm – 9:00 pm Admission: … Continue reading → Posted in Events , Networking , People | Tagged Events , Skating | Leave a comment 2018 Human Resources Business Summit Posted on October 18, 2018 by Willie Burton Click here to download and print a flyer!
 Eventbrite link here.
-Human Resources Business Summit
-Community Town Hall Meeting
-Commissioner Burton Joins With Victims Families To Take On Crime
-Early today (Sunday April 8th) Tawanna Rankin, whose daughter died from gunshot wounds, joined with other victims and their families for a Victim Awareness Walk in Clark Park.
-An article about the walk by James David Dickson is posted here: … Continue reading
-Business Summit Networking Event
-Download a flyer to share Thursday, February 22nd 2018.
-DoubleTree Suites by Hilton Hotel Detroit Downtown-Fort Shelby. 525 W.
-Lafayette Blvd, Detroit, MI 48226 Detroit Police Commissioner (Dist. 5) Willie Burton Cordially invites you to a free Business Summit Networking … Continue reading
-2017 Holiday Celebration
-Honorable Detroit Police Commissioner (Dist. #5) Willie Burton cordially invites you to this annual holiday celebration… Where: Bert’s Warehouse. 2739 Russell.
+Posted in Uncategorized | Leave a comment Human Resources Business Summit Posted on May 25, 2018 by Willie Burton Posted in Business , Events , Human Resources , Issues , Networking , People | Tagged Business , Events , Human Resources , Issues , Networking , People | Leave a comment Community Town Hall Meeting Posted on April 21, 2018 by Willie Burton Posted in Events , Networking , People | Tagged Community , crime , Meeting , mental health , poverty , Town Hall | Leave a comment Commissioner Burton Joins With Victims Families To Take On Crime Posted on April 9, 2018 by Willie Burton Early today (Sunday April 8th) Tawanna Rankin, whose daughter died from gunshot wounds, joined with other victims and their families for a Victim Awareness Walk in Clark Park.
+An article about the walk by James David Dickson is posted here: … Continue reading → Posted in Events , Issues , People | Leave a comment Business Summit Networking Event Posted on February 13, 2018 by Willie Burton Download a flyer to share Thursday, February 22nd 2018.
+DoubleTree Suites by Hilton Hotel Detroit Downtown-Fort Shelby.
+525 W.
+Lafayette Blvd, Detroit, MI 48226 Detroit Police Commissioner (Dist.
+5) Willie Burton Cordially invites you to a free Business Summit Networking … Continue reading → Posted in Events , Networking | 2 Comments 2017 Holiday Celebration Posted on December 27, 2017 by Willie Burton Honorable Detroit Police Commissioner (Dist.
+#5) Willie Burton cordially invites you to this annual holiday celebration… Where: Bert’s Warehouse.
+2739 Russell.
 Detroit, Michigan 48207.
 When: 5PM to 8PM.
 Friday December 29th 2017.
-What: Free Food, Live Music, Entertainment, Cash Bar, … Continue reading
+What: Free Food, Live Music, Entertainment, Cash Bar, … Continue reading → Posted in Uncategorized | Leave a comment ← Older posts Search Search for: Useful Links Instagram My Facebook Michigan House of Representatives Official Board of Police Commissioners Site Updates & Endorsements Willie Burton to Participate in Eastside Candidate Forum 7-18-2026 Willie Burton Earns Endorsement from Teamsters Local 299 Willie Burton Earns Endorsement from ATU Local 26 13th District Democrats Endorse Willie Burton for State Representative Archives Archives Select Month July 2026 (3) May 2026 (1) October 2025 (1) August 2025 (2) July 2025 (1) June 2025 (1) May 2025 (1) June 2024 (1) November 2019 (1) June 2019 (1) May 2019 (1) February 2019 (2) January 2019 (1) December 2018 (1) November 2018 (1) October 2018 (1) May 2018 (1) April 2018 (2) February 2018 (1) December 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) May 2017 (1) April 2017 (2) February 2017 (1) January 2017 (1) October 2016 (1) July 2016 (1) May 2016 (1) April 2016 (1) April 2015 (1) March 2015 (1) January 2015 (1) March 2014 (1) February 2014 (2) Categories Categories Select Category Board of Police Commissioners Body Cams Business Detroit City Council District 5 Events Honors Human Resources Issues mental health Networking People Response Times Uncategorized Use of Force Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Meta Create account Log in Entries feed Comments feed WordPress.com Campaign related items PAID FOR BY WILLIE BURTON FOR MI Detroit Mi 48207 October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul Willie E.
+Burton for State Representative Dist.
+9 Blog at WordPress.com.
+Subscribe Subscribed Willie E.
+Burton for State Representative Dist.
+9 Sign me up Have a WordPress.com account?
+Log in now.
+Willie E.
+Burton for State Representative Dist.
+9 View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

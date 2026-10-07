@@ -1,11 +1,5 @@
-Home
-About
-Issues
-Events & Fundraisers
-Connect
-News
-More
-The Needham Local, September 4, 2024
-Needham Observer, September 4, 2024
-The Needham Local, August 23, 2024
-Needham Observer, August 21, 2024
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+All Posts Press Releases In The News Election 2026 Search In The News Posts Coming Soon Explore other categories in this blog or check back later.
+2024 election news Tarsky Secures State Primary The Needham Local, September 4, 2024 read article Tarsky wins democratic Primary Needham Observer, September 4, 2024 read article HOUSING, PUBLIC TRANSIT TAKE CENTER STAGE IN STATE REP.
+RACE The Needham Local, August 23, 2024 read article State Rep candidates cordial in forum Needham Observer, August 21, 2024 read article Read More 2024 Election News Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

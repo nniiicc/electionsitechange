@@ -1,6 +1,18 @@
 [
-"https://davidhallforgeorgia.com/",
-"https://davidhallforgeorgia.com/about",
-"https://davidhallforgeorgia.com/cart",
-"https://facebook.com/share/1LuAFDsap4"
+{
+"text": "0",
+"href": "https://www.davidhallforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.davidhallforgeorgia.com/about"
+},
+{
+"text": "David Hall For Georgia",
+"href": "https://www.davidhallforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1LuAFDsap4/"
+}
 ]

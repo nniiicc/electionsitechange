@@ -1,9 +1,11 @@
-Public Safety
-I feel bad for our police, firemen and first responders.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll Public Safety en español Allowing Illegals to assault cops, fire and first responders Norma Torres - Removing qualified immunity for cops Supports Open Borders Mike supports SRO's I feel bad for our police, firemen and first responders.
 While the rank and file are selfless, everyday heroes who are generally conservative in their beliefs and actions, their union leaders have consistently sold them out to Socialist politicians.
-How else can you explain supporting someone like Norma Torres, who literally voted to allow police, fire and first responders to be assaulted by illegal aliens (H.R. 7343)?
+How else can you explain supporting someone like Norma Torres, who literally voted to allow police, fire and first responders to be assaulted by illegal aliens (H.R.
+7343)?
 How else can you explain supporting someone who thinks all cops are racists and voted to remove their qualified immunity which would expose them to personal liability in the conduct of their jobs?
-How else can you explain supporting someone who consistently supports open borders (H.R. 957) and the resultant tsunami of human/child trafficking, the flood of fentanyl on our streets and the overwhelming homelessness and crime (H.R. 7511)?
+How else can you explain supporting someone who consistently supports open borders (H.R.
+957) and the resultant tsunami of human/child trafficking, the flood of fentanyl on our streets and the overwhelming homelessness and crime (H.R.
+7511)?
 Unlike my opponent, Norma Torres, I will always DEFEND the police and I will never support DEFUNDING them.
 Law enforcement and all our First Responders have my unwavering support, in every aspect of their profession, to do their jobs effectively, proficiently and professionally.
 This election, the vote you cast will have literal life or death consequences.
@@ -20,3 +22,6 @@ Student loan funding/forgiveness and payment for higher education opportunities 
 When you cast your ballot in November, please remember this… Safety and Security should never be politicized!
 In the end, the most precious thing you possess is your LIFE.
 We must place its care and protection in the hands of those who value it the same way.
+SO HELP ME GOD… Please Contribute Safety Copy of Flag Footer CTA (Copy) (Copy) (Copy) (Copy) (Copy) Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

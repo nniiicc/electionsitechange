@@ -1,46 +1,23 @@
-PRIVACY POLICY
-This Privacy Policy applies to the website www.KellyKeislingTN.com (the “Site”) owned and operated by Kelly Keisling for State Representative.
-Kelly Keisling for State Representative has created this privacy policy to explain how we use information that you may provide while visiting this Site.
+top of page HOME ABOUT THE ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+PRIVACY POLICY This Privacy Policy applies to the website www.KellyKeislingTN.com (the “Site”) owned and operated by Kelly Keisling for State Representative. ​ Kelly Keisling for State Representative has created this privacy policy to explain how we use information that you may provide while visiting this Site.
 Kelly Keisling for State Representative may modify this policy from time to time, so we encourage you to check this page when revisiting this Site.
-By using this Site, you agree to the terms of this Privacy Policy.
-HOW WE USE YOUR INFORMATION
-When you register, contribute, sign up to volunteer, or take any other action on our Site, we may ask you to give us contact information, including your name, address, telephone number, mobile telephone number, and/or e-mail address.
-We may obtain information about you from outside sources and add it to or combine it with the information we collect through this Site.
-We use this information to operate this Site, send you news and information about Kelly Keisling for State Representative’s activities, solicit your participation in Kelly Keisling for State Representative activities, events, and programs, and for related uses.
-We use your e-mail address to send such information by e-mail and may use your telephone number to call you or send you a text message or phone call for these purposes.
-Additionally, we may share your information as follows, or as otherwise described in this Privacy Policy:
-- To companies that assist us in maintaining this Site or with Kelly Keisling for State Representative activities for purposes of providing services to Kelly Keisling for State Representative;
-- To comply with applicable law or legal requirements (for example, a lawful subpoena), to protect our rights or property, or to protect our supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records;
-- To other groups.
-Submitting your personal information (including e-mail address) on this page will sign you up to receive e-mails from Kelly Keisling for State Representative.
-We may also use your first name to indicate the latest actions taken on this site.
-CONTRIBUTIONS TO KELLY KEISLING FOR STATE REPRESENTATIVE
-Kelly Keisling for State Representative is required to file regular reports with the Tennessee Registry of Election Finance that publicly disclose the name, address, occupation and employer of persons who contribute along with the amount and date of the contribution.
-COOKIES AND DATA TRACKING
-A cookie is a piece of data stored on the user’s hard drive containing information about the user.
+By using this Site, you agree to the terms of this Privacy Policy. ​ HOW WE USE YOUR INFORMATION When you register, contribute, sign up to volunteer, or take any other action on our Site, we may ask you to give us contact information, including your name, address, telephone number, mobile telephone number, and/or e-mail address.
+We may obtain information about you from outside sources and add it to or combine it with the information we collect through this Site. ​ We use this information to operate this Site, send you news and information about Kelly Keisling for State Representative’s activities, solicit your participation in Kelly Keisling for State Representative activities, events, and programs, and for related uses.
+We use your e-mail address to send such information by e-mail and may use your telephone number to call you or send you a text message or phone call for these purposes. ​ Additionally, we may share your information as follows, or as otherwise described in this Privacy Policy: ​ To companies that assist us in maintaining this Site or with Kelly Keisling for State Representative activities for purposes of providing services to Kelly Keisling for State Representative; To comply with applicable law or legal requirements (for example, a lawful subpoena), to protect our rights or property, or to protect our supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records; To other groups. ​ Submitting your personal information (including e-mail address) on this page will sign you up to receive e-mails from Kelly Keisling for State Representative.
+We may also use your first name to indicate the latest actions taken on this site. ​ CONTRIBUTIONS TO KELLY KEISLING FOR STATE REPRESENTATIVE Kelly Keisling for State Representative is required to file regular reports with the Tennessee Registry of Election Finance that publicly disclose the name, address, occupation and employer of persons who contribute along with the amount and date of the contribution. ​ A cookie is a piece of data stored on the user’s hard drive containing information about the user.
 Some parts of this Site may be password-protected.
-We may use a cookie (cookies reside on your computer and are under the control of your browser) to help us remember and process items that you purchase through this Site; and/or to compile aggregate data about visitors to the Site and their interaction with the Site for the purposes of improving the operation of the Site and/or offering better Site experiences and tools in the future.
-We may also use cookies to enable you to return to password-protected areas of the Site without having to re-enter your password.
+We may use a cookie (cookies reside on your computer and are under the control of your browser) to help us remember and process items that you purchase through this Site; and/or to compile aggregate data about visitors to the Site and their interaction with the Site for the purposes of improving the operation of the Site and/or offering better Site experiences and tools in the future. ​ We may also use cookies to enable you to return to password-protected areas of the Site without having to re-enter your password.
 If you wish to disable these cookies, the help portion of the tool bar on most browsers can assist.
-If you set your browser to disable cookies, however, you may not be able to access certain parts of this Site.
-We may also use third-party services such as Google Analytics.
+If you set your browser to disable cookies, however, you may not be able to access certain parts of this Site. ​ We may also use third-party services such as Google Analytics.
 This helps us understand traffic patterns and know if there are problems with our Site.
-We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to Kelly Keisling for State Representative supporters.
-ADVERTISING
-We may place online advertising with third-party vendors, including Google, which will be shown on other Sites on the internet.
-In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the Site.
-At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors.
-If you prefer to opt out of the use of these third-party cookies on the Site, you can do so by visiting the Network Advertising Initiative opt-out page.
-LINKS TO OTHER SITES
-The privacy policies and practices contained in this Privacy Policy do not apply to any third-party websites linked to by this Site.
+We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to Kelly Keisling for State Representative supporters. ​ ADVERTISING ​ LINKS TO OTHER SITES The privacy policies and practices contained in this Privacy Policy do not apply to any third-party websites linked to by this Site.
 This Privacy Policy only applies to our Site or any future webpages that we may develop.
 It does not cover third-party websites that are linked to by this Site or websites for which we are not responsible (“linked-Sites”).
 These linked-Sites will have their own policies and practices that may be different from ours.
-We encourage you to familiarize yourself with the policies and practices of the linked-Sites, especially if you provide personal information to them.
-AMENDMENTS AND CONSENT TO THIS PRIVACY POLICY
-We retain the right to amend or otherwise update this Privacy Policy at any time.
+We encourage you to familiarize yourself with the policies and practices of the linked-Sites, especially if you provide personal information to them. ​ AMENDMENTS AND CONSENT TO THIS PRIVACY POLICY We retain the right to amend or otherwise update this Privacy Policy at any time.
 By using our Site, you consent to the collection and use of the information as we have described.
 If we change our policies and practices, we will post the changes in our Privacy Policy so that you are always aware of them.
-With this knowledge, you can make an informed decision about whether you wish to provide personal information to us.
-HOW TO CONTACT US
-If you have any questions about this Privacy Policy, you may contact us by sending an e-mail to kelly@kellykeislingtn.com.
+With this knowledge, you can make an informed decision about whether you wish to provide personal information to us. ​ HOW TO CONTACT US If you have any questions about this Privacy Policy, you may contact us by sending an e-mail to kelly@kellykeislingtn.com .
+Post Office Box 577, Byrdstown, Tennessee 38549 ( 615) 741-6852 | ktkeisling@gmail.com Paid for by Kelly Keisling for State Representative, John Keisling, Treasurer.
+Web design by ZDStephens Company .
+Privacy Policy: Click Here bottom of page

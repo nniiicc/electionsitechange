@@ -1,6 +1,22 @@
 [
-"https://reginafornh.com/",
-"https://reginafornh.com/about",
-"https://reginafornh.com/contact",
-"https://reginafornh.com/donate"
+{
+"text": "About",
+"href": "https://www.reginafornh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.reginafornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.reginafornh.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.reginafornh.com"
+},
+{
+"text": "[image: logo 2022 transparent.png]",
+"href": "https://www.reginafornh.com"
+}
 ]

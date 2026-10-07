@@ -1,5 +1,4 @@
-Teri Ann PhD for Governor – Professional Bio
-Born and raised in Glendale, Arizona, Teri Ann Hourihan embodies the strength, resilience, and faith that define the American Dream.
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Teri Ann PhD for Governor – Professional Bio Born and raised in Glendale, Arizona, Teri Ann Hourihan embodies the strength, resilience, and faith that define the American Dream.
 On May 21, 2008, Teri made the decision that changed her life forever.
 At age 23 she chose to enter a life of recovery, gave her life to Christ, and committed herself to helping others reclaim their purpose.
 What followed is a story of redemption through hard work, perseverance, and unshakable belief in God and country.
@@ -16,22 +15,16 @@ Out of that crucible came USA Advocate4All, a new platform for advocacy, account
 Now, Teri Ann Hourihan is stepping forward as a candidate for Governor of Arizona—a conservative voice for faith, family, and freedom.
 “I’ve lived the bottom and the top.
 I’ve seen what happens when government fails families, and I’ve witnessed what can happen when people refuse to give up.
-I’m not a career politician or a product of the system , I’m a product of grace, grit, and the American Dream.”
-Teri has voted in the past for candidates she believed were best for Arizona—Republican and Democrat alike—but she’s learned that true leadership isn’t built on party lines or political spin.
+I’m not a career politician or a product of the system , I’m a product of grace, grit, and the American Dream.” Teri has voted in the past for candidates she believed were best for Arizona—Republican and Democrat alike—but she’s learned that true leadership isn’t built on party lines or political spin.
 It’s built on character, accountability, and real-world experience.
-Her mission is simple:
-- Protect Arizona’s families from government and agency overreach.
-- Defend the Constitution and the rule of law.
-- Preserve Arizona sovereignty against federal intrusion.
-- Restore faith in government by putting people before politics.
+Her mission is simple: Protect Arizona’s families from government and agency overreach.
+Defend the Constitution and the rule of law.
+Preserve Arizona sovereignty against federal intrusion.
+Restore faith in government by putting people before politics.
 “We need leaders who’ve lived real life, not just written papers about it.
-Arizona deserves a governor who understands both hardship and hard work—someone who fights for every family, every small business, and every right our Constitution guarantees.”
-Teri Ann Hourihan is running to serve from the people, for the people—an authentic conservative voice dedicated to keeping Arizona free, sovereign, and strong.
+Arizona deserves a governor who understands both hardship and hard work—someone who fights for every family, every small business, and every right our Constitution guarantees.” Teri Ann Hourihan is running to serve from the people, for the people—an authentic conservative voice dedicated to keeping Arizona free, sovereign, and strong.
 Teri A.
-Hourihan PhD, LPC
-Teri Ann Hourihan PHD, LPC
-MY PERSONAL STORY AND BIO
-I am an Arizona native.
+Hourihan PhD, LPC Teri Ann Hourihan PHD, LPC MY PERSONAL STORY AND BIO I am an Arizona native.
 I grew up with alcoholism disease within my family and by age 10 I was already on the way to a hard path of addiction.
 I dropped out of high school at 16 and earned my GED and began college.
 My lifestyle and the disease of addiction following me.
@@ -65,3 +58,6 @@ I am a Christian, attend Church Christ of the Valley (CCV), and daily read my Bi
 I do believe that God has called me to this place and time of running for Governor of Arizona 2026.
 My life chapter is Psalm 23 and my life verse is 1 Corinthians 2:9.
 Through my battle the last two years to save my company for the sake of my patients and staff, my mission chapter is Isaiah 43 and mission verse is Romans 8:31.
+TERI'S PROFESSIONAL CV Sign my Petition to get on the ballot for Governor!
+Thank you!
+PLEDGE $5 TO TERI DONATE $1 to $220 Individual Only - no business can donate Articles, Podcasts, videos, Links Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

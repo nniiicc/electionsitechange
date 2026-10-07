@@ -1,19 +1,78 @@
 [
-"https://facebook.com/nateuldricksforstatesenate",
-"https://facebook.com/nateuldricksforstatesenate/events",
-"https://nateuldricks.com/",
-"https://nateuldricks.com/about",
-"https://nateuldricks.com/cart",
-"https://nateuldricks.com/get-involved",
-"https://nateuldricks.com/meetnate",
-"https://nateuldricks.com/press",
-"https://nateuldricks.com/priorities",
-"https://nateuldricks.com/privacy",
-"https://nateuldricks.com/terms",
-"https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate",
-"https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=100",
-"https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=1000",
-"https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=250",
-"https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=50",
-"https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=500"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.nateuldricks.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.nateuldricks.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-nate-uldricks/forsenate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.facebook.com/nateuldricksforstatesenate/events%20"
+},
+{
+"text": "Folder: ABOUT",
+"href": "https://www.nateuldricks.com/about"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.nateuldricks.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.nateuldricks.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.nateuldricks.com/press"
+},
+{
+"text": "MEET NATE",
+"href": "https://www.nateuldricks.com/meetnate"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.nateuldricks.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nateuldricks.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://nateuldricks.com/terms"
+},
+{
+"text": "[image: Nate Uldricks for Indiana State Senate]",
+"href": "https://www.nateuldricks.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nateuldricksforstatesenate"
+}
 ]

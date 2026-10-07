@@ -1,25 +1,110 @@
 [
-"http://cityofchicago.org/city/en.html",
-"http://cityofchicago.org/city/en/about/wards/28.html",
-"https://cityofchicago.org/city/en/about/wards/01.html",
-"https://cityofchicago.org/city/en/about/wards/02.html",
-"https://cityofchicago.org/city/en/about/wards/22.html",
-"https://cityofchicago.org/city/en/about/wards/24.html",
-"https://cityofchicago.org/city/en/about/wards/25.html",
-"https://cityofchicago.org/city/en/about/wards/27.html",
-"https://cityofchicago.org/city/en/about/wards/32.html",
-"https://cityofchicago.org/city/en/about/wards/37.html",
-"https://cityofchicago.org/city/en/about/wards/42.html",
-"https://cityofchicago.org/city/en/about/wards/43.html",
-"https://cookcountyil.gov/",
-"https://elections.il.gov/ElectionOperations/DistrictLocator/DistrictOfficialSearchByAddress.aspx",
-"https://facebook.com/sencollins5",
-"https://instagram.com/senlakesiacollins",
-"https://lakesiacollinsforsenate.com/",
-"https://lakesiacollinsforsenate.com/about",
-"https://lakesiacollinsforsenate.com/contact",
-"https://lakesiacollinsforsenate.com/issues",
-"https://lakesiacollinsforsenate.com/news-achievements",
-"https://lakesiacollinsforsenate.com/privacy-policy",
-"https://secure.actblue.com/donate/friends-of-lakesia-2"
+{
+"text": "About Lakesia",
+"href": "https://lakesiacollinsforsenate.com/about/"
+},
+{
+"text": "Chicago",
+"href": "http://www.cityofchicago.org/city/en.html"
+},
+{
+"text": "Contact",
+"href": "https://lakesiacollinsforsenate.com/contact/"
+},
+{
+"text": "Cook County",
+"href": "https://www.cookcountyil.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-lakesia-2"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sencollins5/"
+},
+{
+"text": "Home",
+"href": "https://lakesiacollinsforsenate.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/senlakesiacollins/"
+},
+{
+"text": "Issues",
+"href": "https://lakesiacollinsforsenate.com/issues/"
+},
+{
+"text": "News & Achievements",
+"href": "https://lakesiacollinsforsenate.com/news-achievements/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://lakesiacollinsforsenate.com/privacy-policy/"
+},
+{
+"text": "State Board of Elections website.",
+"href": "https://www.elections.il.gov/ElectionOperations/DistrictLocator/DistrictOfficialSearchByAddress.aspx"
+},
+{
+"text": "Ward 1",
+"href": "https://www.cityofchicago.org/city/en/about/wards/01.html"
+},
+{
+"text": "Ward 2",
+"href": "https://www.cityofchicago.org/city/en/about/wards/02.html"
+},
+{
+"text": "Ward 22",
+"href": "https://www.cityofchicago.org/city/en/about/wards/22.html"
+},
+{
+"text": "Ward 24",
+"href": "https://www.cityofchicago.org/city/en/about/wards/24.html"
+},
+{
+"text": "Ward 25",
+"href": "https://www.cityofchicago.org/city/en/about/wards/25.html"
+},
+{
+"text": "Ward 27",
+"href": "https://www.cityofchicago.org/city/en/about/wards/27.html"
+},
+{
+"text": "Ward 28",
+"href": "http://www.cityofchicago.org/city/en/about/wards/28.html"
+},
+{
+"text": "Ward 32",
+"href": "https://www.cityofchicago.org/city/en/about/wards/32.html"
+},
+{
+"text": "Ward 37",
+"href": "https://www.cityofchicago.org/city/en/about/wards/37.html"
+},
+{
+"text": "Ward 42",
+"href": "https://www.cityofchicago.org/city/en/about/wards/42.html"
+},
+{
+"text": "Ward 43",
+"href": "https://www.cityofchicago.org/city/en/about/wards/43.html"
+},
+{
+"text": "[image]",
+"href": "https://lakesiacollinsforsenate.com"
+},
+{
+"text": "about",
+"href": "https://lakesiacollinsforsenate.com/about/"
+},
+{
+"text": "achievements",
+"href": "https://lakesiacollinsforsenate.com/news-achievements/"
+},
+{
+"text": "lakesia4rep9@gmail.com",
+"href": "mailto:lakesia4rep9@gmail.com"
+}
 ]

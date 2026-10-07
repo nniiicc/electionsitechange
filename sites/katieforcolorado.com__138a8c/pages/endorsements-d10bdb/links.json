@@ -1,29 +1,114 @@
 [
-"https://flickr.com/photos/201113713@N08",
-"https://katieforcolorado.com/",
-"https://katieforcolorado.com/about",
-"https://katieforcolorado.com/contact-us",
-"https://katieforcolorado.com/en-espanol",
-"https://katieforcolorado.com/endorsements",
-"https://katieforcolorado.com/issues",
-"https://katieforcolorado.com/stay-updated",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/Blue-Flower.jpg",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/CC_Stacked-6-1030x1030.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/CEA-1030x1030.jpg",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/COMP.jpg",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/Endorsed-stamp-graphic-1-1030x858.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/Firefighters.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/NASW-ColoradoLogoStacked.jpg",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/OC-Endorsement-Badge-e1727631720406.jpg",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-15-at-9.44.54-PM-1.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-29-at-11.32.01-AM.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-29-at-11.39.23-AM.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/UFCW-7-Logo-for-light-backgrounds.png",
-"https://katieforcolorado.com/wp-content/uploads/2024/09/smart-local-9-1030x493.jpg",
-"https://katieforcolorado.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-7.27.38-PM.png",
-"https://kriesi.at/",
-"https://m.facebook.com/profile.php?id=61554388276206&eav=AfYP2wflUrVob04_IJ1AOkdegSjLr8QnVH-DRNSXHO0nTUX19bLmNVrMfdlCh8ERcE4&paipv=0",
-"https://secure.actblue.com/donate/k4c-website",
-"https://secure.actblue.com/donate/katie-for-colorado-1",
-"https://secure.actblue.com/donate/katiefor59"
+{
+"text": "Contact Us",
+"href": "https://www.katieforcolorado.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/k4c-website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/katiefor59"
+},
+{
+"text": "En Español",
+"href": "https://www.katieforcolorado.com/en-espanol/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.katieforcolorado.com/endorsements/"
+},
+{
+"text": "Enfold Theme by Kriesi",
+"href": "https://kriesi.at"
+},
+{
+"text": "Facebook",
+"href": "https://m.facebook.com/profile.php?id=61554388276206&eav=AfYP2wflUrVob04_IJ1AOkdegSjLr8QnVH-DRNSXHO0nTUX19bLmNVrMfdlCh8ERcE4&paipv=0"
+},
+{
+"text": "HERE",
+"href": "https://secure.actblue.com/donate/katie-for-colorado-1"
+},
+{
+"text": "Issues",
+"href": "https://www.katieforcolorado.com/issues/"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.katieforcolorado.com/about"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/201113713@N08/"
+},
+{
+"text": "Search",
+"href": "https://www.katieforcolorado.com/endorsements/?s="
+},
+{
+"text": "Stay Updated",
+"href": "https://www.katieforcolorado.com/stay-updated/"
+},
+{
+"text": "[image: Katie Stewart for Colorado][image: Katie Stewart for Colorado]",
+"href": "https://www.katieforcolorado.com/"
+},
+{
+"text": "[tooltip: AFSCME]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-15-at-9.44.54-PM-1.png"
+},
+{
+"text": "[tooltip: Blue Flower]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/Blue-Flower.jpg"
+},
+{
+"text": "[tooltip: Colorado Education Association]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/CEA-1030x1030.jpg"
+},
+{
+"text": "[tooltip: Colorado Medical Society PAC]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/COMP.jpg"
+},
+{
+"text": "[tooltip: Colorado Professional Fire Fighters]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/Firefighters.png"
+},
+{
+"text": "[tooltip: Conservation Colorado]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/CC_Stacked-6-1030x1030.png"
+},
+{
+"text": "[tooltip: NASW-Colorado]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/NASW-ColoradoLogoStacked.jpg"
+},
+{
+"text": "[tooltip: Planned Parenthood]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/Endorsed-stamp-graphic-1-1030x858.png"
+},
+{
+"text": "[tooltip: SMART Local Union 9]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/smart-local-9-1030x493.jpg"
+},
+{
+"text": "[tooltip: Screen Shot 2024-09-29 at 11.39.23 AM]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-29-at-11.39.23-AM.png"
+},
+{
+"text": "[tooltip: Screenshot 2026-07-18 at 7.27.38 PM]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-7.27.38-PM.png"
+},
+{
+"text": "[tooltip: UFCW Local 7]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/UFCW-7-Logo-for-light-backgrounds.png"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/OC-Endorsement-Badge-e1727631720406.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.katieforcolorado.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-29-at-11.32.01-AM.png"
+}
 ]

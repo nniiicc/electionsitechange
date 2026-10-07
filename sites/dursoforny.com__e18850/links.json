@@ -1,9 +1,50 @@
 [
-"https://absenteeballot.elections.ny.gov/",
-"https://dursoforny.com/",
-"https://dursoforny.com/meet-michael",
-"https://dursoforny.com/sign",
-"https://dursoforny.com/volunteer",
-"https://facebook.com/dursoforny",
-"https://secure.winred.com/michaeldurso/2020"
+{
+"text": "About",
+"href": "https://www.dursoforny.com/meet-michael"
+},
+{
+"text": "Absentee",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/michaeldurso/2020"
+},
+{
+"text": "Home",
+"href": "https://www.dursoforny.com"
+},
+{
+"text": "LIKE Michael on Facebook",
+"href": "https://www.facebook.com/dursoforny"
+},
+{
+"text": "Learn More about Michael",
+"href": "https://www.dursoforny.com/meet-michael"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dursoforny.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.dursoforny.com/sign"
+},
+{
+"text": "[image: Logo.png]",
+"href": "https://www.dursoforny.com"
+},
+{
+"text": "[image: facebook-3.png]",
+"href": "https://www.facebook.com/dursoforny"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/michaeldurso/2020"
+},
+{
+"text": "[no text]",
+"href": "https://www.dursoforny.com/volunteer"
+}
 ]

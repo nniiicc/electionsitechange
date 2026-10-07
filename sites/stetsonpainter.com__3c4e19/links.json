@@ -1,7 +1,22 @@
 [
-"https://secure.winred.com/painter-for-arkansas/donate-today",
-"https://stetsonpainter.com/",
-"https://stetsonpainter.com/about",
-"https://stetsonpainter.com/contact",
-"https://stetsonpainter.com/copy-of-about"
+{
+"text": "About",
+"href": "https://www.stetsonpainter.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.stetsonpainter.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/painter-for-arkansas/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.stetsonpainter.com"
+},
+{
+"text": "News",
+"href": "https://www.stetsonpainter.com/copy-of-about"
+}
 ]

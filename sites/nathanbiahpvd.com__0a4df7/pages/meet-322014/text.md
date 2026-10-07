@@ -1,5 +1,7 @@
+Donate Today!
 Your contribution powers our fight for District 3.
-Every dollar makes a difference.
+Every dollar makes a difference. $50 $100 $250 $500 $1000 Other Amount Follow Us Meet Rep.
+Biah Priorities Donate MEET Rep.
 Leading with Purpose.
 Serving with Heart.
 Nathan Biah's story is unlike any other in Rhode Island politics.
@@ -16,10 +18,22 @@ He taught math in Providence schools before becoming principal of Dr.
 Jorge Alvarez High School.
 Rep.
 Biah is committed to every Rhode Islander who deserves better.
-Sign up to learn more about our campaign and how you can be involved.
-Rep.
+Join Our Team Sign up to learn more about our campaign and how you can be involved.
+I consent to receive email communications from Friends Of Nathan Biah, including campaign updates, event invitations, and donation requests.
+You may unsubscribe at any time by clicking the unsubscribe link in any email.
+I consent to receive Occasional Marketing Communication from Friends Of Nathan Biah, including campaign updates, event invitations, volunteer opportunities, fundraising requests, policy positions, endorsements, voter outreach messages, and election reminders.
+Message frequency varies.
+Message & data rates may apply.
+Text HELP for assistance.
+You can reply STOP to unsubscribe at any time.
+I consent to receive non-marketing messages from Friends Of Nathan Biah, including voter registration assistance, polling location information, voting hours and deadlines, ballot tracking notifications, responses to inquiries, and administrative updates related to your interaction with the campaign.
+Message frequency varies.
+Message & data rates may apply.
+Text HELP for assistance.
+You can reply STOP to unsubscribe at any time.
+I WANT TO BE A VOLUNTEER Join Our Team Privacy Policy & Terms of Service Contribute Rep.
 Nathan Biah is running to keep fighting for education, working families, and opportunity in Providence.
-Support the campaign today.
-DONATE BY MAIL
-120 Metcalf St
-Providence, RI 02904
+Support the campaign today. $50 $100 $250 $500 $1000 Other Amount Meet Rep.
+Biah Priorities Donate Meet Rep.
+Biah Priorities Donate DONATE BY MAIL 120 Metcalf St Providence, RI 02904 Paid for by THE Rep.
+Biah CAMPAIGN Contact Privacy Policy Terms of Service

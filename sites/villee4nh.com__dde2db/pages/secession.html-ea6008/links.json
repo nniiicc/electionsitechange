@@ -1,30 +1,126 @@
 [
-"https://club75alliance.com/",
-"https://club75alliance.com/manifesto",
-"https://en.wikipedia.org/wiki/1991_Lithuanian_independence_referendum",
-"https://en.wikipedia.org/wiki/1992_Bosnian_independence_referendum",
-"https://en.wikipedia.org/wiki/1993_Eritrean_independence_referendum",
-"https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum",
-"https://en.wikipedia.org/wiki/Consent_of_the_governed",
-"https://en.wikipedia.org/wiki/East_Timor_independence",
-"https://en.wikipedia.org/wiki/Texas_v._White",
-"https://en.wikipedia.org/wiki/Treaty_on_European_Union",
-"https://en.wikipedia.org/wiki/Unilateral_declaration_of_independence",
-"https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
-"https://irs.gov/pub/irs-prior/p1304--2021.pdf",
-"https://legiscan.com/NH/bill/CACR20/2024",
-"https://legiscan.com/NH/bill/CACR32/2022",
-"https://secure.anedot.com/stephen-villee-for-governor/donate",
-"https://villee4nh.com/",
-"https://villee4nh.com/20000-activists.html",
-"https://villee4nh.com/article-83.html",
-"https://villee4nh.com/contact.html",
-"https://villee4nh.com/drugs.html",
-"https://villee4nh.com/end-of-life.html",
-"https://villee4nh.com/grandfathering.html",
-"https://villee4nh.com/libertarianism.html",
-"https://villee4nh.com/lpnh-tweets.html",
-"https://villee4nh.com/pandemic-response.html",
-"https://villee4nh.com/secession.html",
-"https://villee4nh.com/veto-list.html"
+{
+"text": "20,000 Activists",
+"href": "https://villee4nh.com/20000-activists.html"
+},
+{
+"text": "Article 83",
+"href": "https://villee4nh.com/article-83.html"
+},
+{
+"text": "Bosnia and Herzegovina from Yugoslavia",
+"href": "https://en.wikipedia.org/wiki/1992_Bosnian_independence_referendum"
+},
+{
+"text": "CACR20",
+"href": "https://legiscan.com/NH/bill/CACR20/2024"
+},
+{
+"text": "CACR32",
+"href": "https://legiscan.com/NH/bill/CACR32/2022"
+},
+{
+"text": "Club 75 Alliance",
+"href": "https://club75alliance.com/"
+},
+{
+"text": "Contact",
+"href": "https://villee4nh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/stephen-villee-for-governor/donate"
+},
+{
+"text": "Drugs",
+"href": "https://villee4nh.com/drugs.html"
+},
+{
+"text": "East Timor from Indonesia",
+"href": "https://en.wikipedia.org/wiki/East_Timor_independence"
+},
+{
+"text": "End of Life",
+"href": "https://villee4nh.com/end-of-life.html"
+},
+{
+"text": "Eritrea from Ethiopia",
+"href": "https://en.wikipedia.org/wiki/1993_Eritrean_independence_referendum"
+},
+{
+"text": "Grandfathering",
+"href": "https://villee4nh.com/grandfathering.html"
+},
+{
+"text": "Home",
+"href": "https://villee4nh.com/"
+},
+{
+"text": "IRS Publication 1304 for tax year 2019",
+"href": "https://www.irs.gov/pub/irs-prior/p1304--2021.pdf"
+},
+{
+"text": "LPNH Tweets",
+"href": "https://villee4nh.com/lpnh-tweets.html"
+},
+{
+"text": "Libertarianism",
+"href": "https://villee4nh.com/libertarianism.html"
+},
+{
+"text": "Lithuania from the Soviet Union",
+"href": "https://en.wikipedia.org/wiki/1991_Lithuanian_independence_referendum"
+},
+{
+"text": "Lose the Fear",
+"href": "https://villee4nh.com/#lose-the-fear"
+},
+{
+"text": "Lose the Hate",
+"href": "https://villee4nh.com/#lose-the-hate"
+},
+{
+"text": "Pandemic Response",
+"href": "https://villee4nh.com/pandemic-response.html"
+},
+{
+"text": "Secession",
+"href": "https://villee4nh.com/secession.html"
+},
+{
+"text": "South Sudan from Sudan",
+"href": "https://en.wikipedia.org/wiki/2011_South_Sudanese_independence_referendum"
+},
+{
+"text": "Texas v. White",
+"href": "https://en.wikipedia.org/wiki/Texas_v._White"
+},
+{
+"text": "Treaty on European Union",
+"href": "https://en.wikipedia.org/wiki/Treaty_on_European_Union"
+},
+{
+"text": "Veto List",
+"href": "https://villee4nh.com/veto-list.html"
+},
+{
+"text": "[image: Stephen Villee for New Hampshire logo]",
+"href": "https://villee4nh.com/"
+},
+{
+"text": "consent of the governed",
+"href": "https://en.wikipedia.org/wiki/Consent_of_the_governed"
+},
+{
+"text": "manifesto",
+"href": "https://club75alliance.com/manifesto/"
+},
+{
+"text": "our own secession",
+"href": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+},
+{
+"text": "unilateral",
+"href": "https://en.wikipedia.org/wiki/Unilateral_declaration_of_independence"
+}
 ]

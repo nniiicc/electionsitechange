@@ -1,40 +1,222 @@
 [
-"https://facebook.com/MikeMcKayMD",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay01?activeTab=divLegislation",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay01?ys=2020rs",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay01?ys=2021rs",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay02",
-"https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2015rs",
-"https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2016rs",
-"https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2018rs",
-"https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2019rs",
-"https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/2016-third-reader-votes.pdf",
-"https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/2018-third-reader-votes.pdf",
-"https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/2020-third-reader-votes.pdf",
-"https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/all-2019-third-readers.pdf",
-"https://mikemckay1.wpengine.com/wp-content/uploads/2020/05/2015-third-reader-votes.pdf",
-"https://mikemckay1.wpengine.com/wp-content/uploads/2020/07/2017-third-readers.pdf",
-"https://mikemckaymd.com/",
-"https://mikemckaymd.com/about",
-"https://mikemckaymd.com/articles",
-"https://mikemckaymd.com/contact",
-"https://mikemckaymd.com/events",
-"https://mikemckaymd.com/flood-assistance-resources",
-"https://mikemckaymd.com/mike-mckay-legislation",
-"https://mikemckaymd.com/privacy-policy-2",
-"https://mikemckaymd.com/scholarships",
-"https://mikemckaymd.com/volunteer",
-"https://mikemckaymd.com/wp-content/uploads/2022/07/2021-Third-Readers.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2022/07/Third-Readers.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2024/04/Third-Readers-PDF.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2025/03/Third-Reader-Votes-2024.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2025/04/2025-Book.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2025/05/Week-1-readings-2025-docx-combined.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2026/04/FINAL-Completed-Book-online-Version-4.21.2026.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2026/04/McKay-Third-Reader-Votes-Final.pdf",
-"https://msa.maryland.gov/msa/mdmanual/07leg/html/proc.html",
-"https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate",
-"https://votegtr.com/",
-"https://x.com/mikemckaymd"
+{
+"text": "2015 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2015rs"
+},
+{
+"text": "2015 Third Reader Votes",
+"href": "https://mikemckay1.wpengine.com/wp-content/uploads/2020/05/2015-third-reader-votes.pdf"
+},
+{
+"text": "2016 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2016rs"
+},
+{
+"text": "2016 Third Reader Votes",
+"href": "https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/2016-third-reader-votes.pdf"
+},
+{
+"text": "2017 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2017rs"
+},
+{
+"text": "2017 Third Reader Votes",
+"href": "https://mikemckay1.wpengine.com/wp-content/uploads/2020/07/2017-third-readers.pdf"
+},
+{
+"text": "2018 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2018rs"
+},
+{
+"text": "2018 Third Reader Votes",
+"href": "https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/2018-third-reader-votes.pdf"
+},
+{
+"text": "2019 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/members/details/mckay01?ys=2019rs"
+},
+{
+"text": "2019 Third Reader Votes",
+"href": "https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/all-2019-third-readers.pdf"
+},
+{
+"text": "2020 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay01?ys=2020rs"
+},
+{
+"text": "2020 Third Reader Votes",
+"href": "https://mikemckay1.wpengine.com/wp-content/uploads/2020/04/2020-third-reader-votes.pdf"
+},
+{
+"text": "2021 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay01?ys=2021rs"
+},
+{
+"text": "2021 Third Reader Votes",
+"href": "https://mikemckaymd.com/wp-content/uploads/2022/07/2021-Third-Readers.pdf"
+},
+{
+"text": "2022 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay01/?activeTab=divLegislation"
+},
+{
+"text": "2022 Third Reader Votes",
+"href": "https://mikemckaymd.com/wp-content/uploads/2022/07/Third-Readers.pdf"
+},
+{
+"text": "2023 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay02"
+},
+{
+"text": "2023 Third Reader Votes",
+"href": "https://mikemckaymd.com/wp-content/uploads/2024/04/Third-Readers-PDF.pdf"
+},
+{
+"text": "2024 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay02"
+},
+{
+"text": "2024 Third Reader Votes",
+"href": "https://mikemckaymd.com/wp-content/uploads/2025/03/Third-Reader-Votes-2024.pdf"
+},
+{
+"text": "2025 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay02"
+},
+{
+"text": "2025 Third Reader Votes",
+"href": "https://mikemckaymd.com/wp-content/uploads/2025/05/Week-1-readings-2025-docx-combined.pdf"
+},
+{
+"text": "2026 Legislative Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mckay02"
+},
+{
+"text": "2026 Third Reader Votes - updated April 20th, 2026",
+"href": "https://mikemckaymd.com/wp-content/uploads/2026/04/McKay-Third-Reader-Votes-Final.pdf"
+},
+{
+"text": "Click Here to download the 2025 Report",
+"href": "https://mikemckaymd.com/wp-content/uploads/2025/04/2025-Book.pdf"
+},
+{
+"text": "Click Here to download the 2026 Report",
+"href": "https://mikemckaymd.com/wp-content/uploads/2026/04/FINAL-Completed-Book-online-Version-4.21.2026.pdf"
+},
+{
+"text": "Click here for more details on Maryland's legislative process.",
+"href": "https://msa.maryland.gov/msa/mdmanual/07leg/html/proc.html"
+},
+{
+"text": "Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate"
+},
+{
+"text": "Events",
+"href": "https://mikemckaymd.com/events/"
+},
+{
+"text": "Events Attend an event w/ Sen. Mike McKay",
+"href": "https://mikemckaymd.com/events"
+},
+{
+"text": "Georges Creek Flood Response",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Georges Creek Flood Response Contact Info",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Home",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about/"
+},
+{
+"text": "News & Updates",
+"href": "https://mikemckaymd.com/articles/"
+},
+{
+"text": "Office",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact Here's how to find us",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Powered by VOTEGTR",
+"href": "https://votegtr.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikemckaymd.com/privacy-policy-2/"
+},
+{
+"text": "Senate Scholarship Program",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Senate Scholarship Program Information on how to apply",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "Sponsored Legislation Bills sponsored by Sen. McKay",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "The Latest News District 1 news & media coverage",
+"href": "https://mikemckaymd.com/articles"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Voting Record Every vote Sen. Mike McKay has voted on",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeMcKayMD"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikemckaymd"
+}
 ]

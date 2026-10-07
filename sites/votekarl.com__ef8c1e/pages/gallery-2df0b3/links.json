@@ -1,41 +1,166 @@
 [
-"https://facebook.com/ncrepkarl",
-"https://facebook.com/votekarl",
-"https://google.com/maps/dir//100+Porter+St,+Franklin,+NC+28734/@35.1779966,-83.3858087,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8859251ca4d2b141:0x5754016d137cab3!2m2!1d-83.3836147!2d35.1779966!3e0",
-"https://leecloer.com/",
-"https://politics.raisethemoney.com/kgillespie",
-"https://votekarl.com/",
-"https://votekarl.com/campaign-issues",
-"https://votekarl.com/cdn-cgi/l/email-protection",
-"https://votekarl.com/endorsements",
-"https://votekarl.com/gallery",
-"https://votekarl.com/message-from-karl-gillespie",
-"https://votekarl.com/statement-of-support",
-"https://votekarl.com/what-constituents-are-saying",
-"https://votekarl.com/wp-content/uploads/2020/08/IMG_E9593.jpg",
-"https://votekarl.com/wp-content/uploads/2020/08/IMG_E9595.jpg",
-"https://votekarl.com/wp-content/uploads/2020/08/IMG_E9942.jpg",
-"https://votekarl.com/wp-content/uploads/2020/08/Kevins-Fundraiser-1.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Committee-meeting.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Debating-a-bill.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Headed-to-work.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Karl-and-Andrew.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Meeting-with-constituents-in-Graham.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Raleigh-police.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/Speaker-Moore-and-Karl-at-the-Graham-County-Courthouse.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/US-Rep-Dan-Bishop.jpg",
-"https://votekarl.com/wp-content/uploads/2022/01/speaker-moore-janet-and-karl.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/Aquaculture-award-2023.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/Christmas-NC-House-Truck.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_0282.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_3697.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_4460.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_4727.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_5036.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_5253.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_5919.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_6725.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/IMG_7646.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/Karl-Janet-and-Logan.jpg",
-"https://votekarl.com/wp-content/uploads/2024/05/Karl-at-Hendrick-Motorsports-edit.jpg"
+{
+"text": "A Message From Karl",
+"href": "https://votekarl.com/message-from-karl-gillespie"
+},
+{
+"text": "About Karl",
+"href": "https://votekarl.com/#about-karl"
+},
+{
+"text": "Constituents",
+"href": "https://votekarl.com/what-constituents-are-saying"
+},
+{
+"text": "Contribute",
+"href": "https://politics.raisethemoney.com/kgillespie"
+},
+{
+"text": "Directions",
+"href": "https://www.google.com/maps/dir//100+Porter+St,+Franklin,+NC+28734/@35.1779966,-83.3858087,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8859251ca4d2b141:0x5754016d137cab3!2m2!1d-83.3836147!2d35.1779966!3e0"
+},
+{
+"text": "Endorsements",
+"href": "https://votekarl.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ncrepkarl/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/votekarl"
+},
+{
+"text": "Gallery",
+"href": "https://votekarl.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://votekarl.com/"
+},
+{
+"text": "Issues",
+"href": "https://votekarl.com/campaign-issues"
+},
+{
+"text": "Statements of Support",
+"href": "https://votekarl.com/statement-of-support"
+},
+{
+"text": "Website design by Lee Cloer Designs",
+"href": "https://leecloer.com"
+},
+{
+"text": "[email protected]",
+"href": "https://votekarl.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Committee meeting]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Committee-meeting.jpg"
+},
+{
+"text": "[image: Debating a bill]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Debating-a-bill.jpg"
+},
+{
+"text": "[image: Headed to work]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Headed-to-work.jpg"
+},
+{
+"text": "[image: Karl Gillespie for NC House]",
+"href": "https://votekarl.com/"
+},
+{
+"text": "[image: Karl and Andrew]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Karl-and-Andrew.jpg"
+},
+{
+"text": "[image: Meeting with constituents in Graham County NC]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Meeting-with-constituents-in-Graham.jpg"
+},
+{
+"text": "[image: Raleigh police]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Raleigh-police.jpg"
+},
+{
+"text": "[image: US Representative Dan Bishop]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/US-Rep-Dan-Bishop.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2020/08/IMG_E9593.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2020/08/IMG_E9595.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2020/08/IMG_E9942.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2020/08/Kevins-Fundraiser-1.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/Christmas-NC-House-Truck.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_0282.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_3697.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_4460.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_4727.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_5036.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_5253.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_5919.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_6725.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/IMG_7646.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/Karl-Janet-and-Logan.jpg"
+},
+{
+"text": "[image: nc house seat 120 karl gillespie]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/Karl-at-Hendrick-Motorsports-edit.jpg"
+},
+{
+"text": "[image: peaker Moore and Karl at the Graham County Courthouse]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/Speaker-Moore-and-Karl-at-the-Graham-County-Courthouse.jpg"
+},
+{
+"text": "[image: peaker Moore and Karl at the Graham County Courthouse]",
+"href": "https://votekarl.com/wp-content/uploads/2024/05/Aquaculture-award-2023.jpg"
+},
+{
+"text": "[image: speaker moore janet and karl]",
+"href": "https://votekarl.com/wp-content/uploads/2022/01/speaker-moore-janet-and-karl.jpg"
+}
 ]

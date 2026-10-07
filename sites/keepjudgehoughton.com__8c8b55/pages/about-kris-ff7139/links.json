@@ -1,12 +1,50 @@
 [
-"https://keepjudgehoughton.com/",
-"https://keepjudgehoughton.com/about-kris",
-"https://keepjudgehoughton.com/about-nm-court-of-appeals",
-"https://keepjudgehoughton.com/contact-1",
-"https://keepjudgehoughton.com/contribute",
-"https://keepjudgehoughton.com/in-the-news",
-"https://keepjudgehoughton.com/privacy-policy",
-"https://keepjudgehoughton.com/terms-%26-conditions",
-"https://keepjudgehoughton.nationbuilder.com/",
-"https://keepjudgehoughton.nationbuilder.com/donate"
+{
+"text": "About Kris",
+"href": "https://keepjudgehoughton.com/about-kris"
+},
+{
+"text": "About NM Court of Appeals",
+"href": "https://keepjudgehoughton.com/about-nm-court-of-appeals"
+},
+{
+"text": "Contact",
+"href": "https://keepjudgehoughton.com/contact-1"
+},
+{
+"text": "Contribute",
+"href": "https://keepjudgehoughton.com/contribute"
+},
+{
+"text": "DONATE!",
+"href": "https://keepjudgehoughton.nationbuilder.com/donate"
+},
+{
+"text": "Home",
+"href": "https://keepjudgehoughton.com/"
+},
+{
+"text": "In The News",
+"href": "https://keepjudgehoughton.com/in-the-news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://keepjudgehoughton.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://keepjudgehoughton.com/terms-%26-conditions"
+},
+{
+"text": "[image]",
+"href": "https://keepjudgehoughton.com/"
+},
+{
+"text": "contribute",
+"href": "https://keepjudgehoughton.nationbuilder.com/donate"
+},
+{
+"text": "volunteer",
+"href": "https://keepjudgehoughton.nationbuilder.com/"
+}
 ]

@@ -1,9 +1,38 @@
 [
-"https://dianewheatleync.com/",
-"https://dianewheatleync.com/donate",
-"https://dianewheatleync.com/getinvolved",
-"https://dianewheatleync.com/issues",
-"https://dianewheatleync.com/meetdiane",
-"https://dianewheatleync.com/privacypolicy",
-"https://facebook.com/DianeWheatleyNC"
+{
+"text": "Donate",
+"href": "https://www.dianewheatleync.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dianewheatleync.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.dianewheatleync.com"
+},
+{
+"text": "Issues",
+"href": "https://www.dianewheatleync.com/issues"
+},
+{
+"text": "Meet Diane",
+"href": "https://www.dianewheatleync.com/meetdiane"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dianewheatleync.com/privacypolicy"
+},
+{
+"text": "[image: DianeWheatleyLogo001.png]",
+"href": "https://www.dianewheatleync.com"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/DianeWheatleyNC"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DianeWheatleyNC"
+}
 ]

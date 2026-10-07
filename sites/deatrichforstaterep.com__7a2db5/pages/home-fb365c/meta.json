@@ -1,7 +1,12 @@
 {
  "description": "Official campaign website for John Deatrich for Pennsylvania State Representative",
  "final_url": "https://www.deatrichforstaterep.com/home",
- "paid_for_by": null,
+ "fingerprint": "03d9ee02163d34f14be3e0925929b8e434433ad6",
+ "format": 3,
+ "paid_for_by": "sponsored by the Schuylkill County Democratic Action Group on Wednesday February 18th at 6pm at Roma Pizza in Pottsville",
  "title": "John Deatrich for Pennsylvania State Representative 123rd District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2002",
+  "2026"
+ ]
 }

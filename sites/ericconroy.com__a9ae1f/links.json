@@ -1,41 +1,254 @@
 [
-"http://facebook.com/EricConroyforCongress",
-"https://ericconroy.com/",
-"https://ericconroy.com/contact",
-"https://ericconroy.com/endorse-eric",
-"https://ericconroy.com/in-the-news",
-"https://ericconroy.com/issues",
-"https://ericconroy.com/issues/border-security",
-"https://ericconroy.com/issues/cryptocurrency-and-blockchain",
-"https://ericconroy.com/issues/education",
-"https://ericconroy.com/issues/jobs-and-the-economy",
-"https://ericconroy.com/issues/national-defense",
-"https://ericconroy.com/issues/protecting-womens-sports",
-"https://ericconroy.com/issues/safe-neighborhoods",
-"https://ericconroy.com/issues/small-business",
-"https://ericconroy.com/issues/social-security-and-medicare",
-"https://ericconroy.com/issues/transportation-and-infrastructure",
-"https://ericconroy.com/issues/veterans",
-"https://ericconroy.com/meet-eric",
-"https://ericconroy.com/news/700-wlw-eric-joins-mike-allen-to-discuss-his-campaign-3",
-"https://ericconroy.com/news/icymi-landsman-wants-to-ban-stock-trading-in-congress-after-he-got-caught-trading-stocks",
-"https://ericconroy.com/news/press-release-eric-conroy-decisively-wins-republican-primary-in-ohios-1st-congressional-district",
-"https://ericconroy.com/news/press-release-is-steven-erbeck-funding-his-campaign-with-illegal-contributions",
-"https://ericconroy.com/news/press-release-ohio-deserves-a-congressman-who-can-fightand-win-for-xaviers-rotc-program",
-"https://ericconroy.com/news/press-release-president-trump-endorses-eric-conroy-for-congress",
-"https://ericconroy.com/press-kit",
-"https://ericconroy.com/privacy-policy",
-"https://ericconroy.com/terms-and-conditions",
-"https://ericconroy.com/volunteer-for-eric",
-"https://instagram.com/ericconroyoh",
-"https://secure.winred.com/conroy-for-congress/website",
-"https://secure.winred.com/conroy-for-congress/website?amount=10",
-"https://secure.winred.com/conroy-for-congress/website?amount=100",
-"https://secure.winred.com/conroy-for-congress/website?amount=25",
-"https://secure.winred.com/conroy-for-congress/website?amount=250",
-"https://secure.winred.com/conroy-for-congress/website?amount=50",
-"https://secure.winred.com/conroy-for-congress/website?amount=500",
-"https://truthsocial.com/@ericconroy",
-"https://x.com/EricConroyOH",
-"https://youtube.com/channel/UCvz-apSIJj9rTD_AeyiJJJA"
+{
+"text": "$10",
+"href": "https://secure.winred.com/conroy-for-congress/website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/conroy-for-congress/website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/conroy-for-congress/website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/conroy-for-congress/website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/conroy-for-congress/website?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/conroy-for-congress/website?amount=500"
+},
+{
+"text": "700 WLW: Eric Joins Mike Allen to Discuss His Campaign",
+"href": "https://ericconroy.com/news/700-wlw-eric-joins-mike-allen-to-discuss-his-campaign-3/"
+},
+{
+"text": "Border Security",
+"href": "https://ericconroy.com/issues/border-security/"
+},
+{
+"text": "Contact",
+"href": "https://ericconroy.com/contact/"
+},
+{
+"text": "Cryptocurrency and Blockchain",
+"href": "https://ericconroy.com/issues/cryptocurrency-and-blockchain/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/conroy-for-congress/website"
+},
+{
+"text": "Donate to Eric Conroy for Congress",
+"href": "https://secure.winred.com/conroy-for-congress/website"
+},
+{
+"text": "Education",
+"href": "https://ericconroy.com/issues/education/"
+},
+{
+"text": "Email",
+"href": "mailto:info@ericconroy.com"
+},
+{
+"text": "Endorse",
+"href": "https://ericconroy.com/endorse-eric/"
+},
+{
+"text": "Endorse Eric",
+"href": "https://ericconroy.com/endorse-eric/"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/EricConroyforCongress"
+},
+{
+"text": "Home",
+"href": "https://ericconroy.com/"
+},
+{
+"text": "ICYMI: Landsman Wants to Ban Stock Trading in Congress — After He Got Caught Trading Stocks",
+"href": "https://ericconroy.com/news/icymi-landsman-wants-to-ban-stock-trading-in-congress-after-he-got-caught-trading-stocks/"
+},
+{
+"text": "In the News",
+"href": "https://ericconroy.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ericconroyoh/"
+},
+{
+"text": "Issues",
+"href": "https://ericconroy.com/issues/"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://ericconroy.com/issues/jobs-and-the-economy/"
+},
+{
+"text": "Jobs and the economy",
+"href": "https://ericconroy.com/issues/jobs-and-the-economy/"
+},
+{
+"text": "Learn More",
+"href": "https://ericconroy.com/meet-eric/"
+},
+{
+"text": "Meet Eric",
+"href": "https://ericconroy.com/meet-eric/"
+},
+{
+"text": "National Defense",
+"href": "https://ericconroy.com/issues/national-defense/"
+},
+{
+"text": "News",
+"href": "https://ericconroy.com/in-the-news/"
+},
+{
+"text": "PRESS RELEASE: ERIC CONROY DECISIVELY WINS REPUBLICAN PRIMARY IN OHIO’S 1ST CONGRESSIONAL DISTRICT",
+"href": "https://ericconroy.com/news/press-release-eric-conroy-decisively-wins-republican-primary-in-ohios-1st-congressional-district/"
+},
+{
+"text": "Phone",
+"href": "tel:+15132017327"
+},
+{
+"text": "Press Kit",
+"href": "https://ericconroy.com/press-kit/"
+},
+{
+"text": "Press Release: Is Steven Erbeck Funding His Campaign With Illegal Contributions?",
+"href": "https://ericconroy.com/news/press-release-is-steven-erbeck-funding-his-campaign-with-illegal-contributions/"
+},
+{
+"text": "Press Release: OHIO DESERVES A CONGRESSMAN WHO CAN FIGHTAND WIN FOR XAVIER’S ROTC PROGRAM",
+"href": "https://ericconroy.com/news/press-release-ohio-deserves-a-congressman-who-can-fightand-win-for-xaviers-rotc-program/"
+},
+{
+"text": "Press Release: President Trump Endorses Eric Conroy for Congress",
+"href": "https://ericconroy.com/news/press-release-president-trump-endorses-eric-conroy-for-congress/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericconroy.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericconroy.com/privacy-policy/"
+},
+{
+"text": "Protecting Women's Sports",
+"href": "https://ericconroy.com/issues/protecting-womens-sports/"
+},
+{
+"text": "Safe Neighborhoods",
+"href": "https://ericconroy.com/issues/safe-neighborhoods/"
+},
+{
+"text": "Small Business",
+"href": "https://ericconroy.com/issues/small-business/"
+},
+{
+"text": "Social Security and Medicare",
+"href": "https://ericconroy.com/issues/social-security-and-medicare/"
+},
+{
+"text": "Stay Connected",
+"href": "https://ericconroy.com/contact/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://ericconroy.com/terms-and-conditions"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://ericconroy.com/terms-and-conditions/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://ericconroy.com/terms-and-conditions/"
+},
+{
+"text": "Transportation and Infrastructure",
+"href": "https://ericconroy.com/issues/transportation-and-infrastructure/"
+},
+{
+"text": "Veterans",
+"href": "https://ericconroy.com/issues/veterans/"
+},
+{
+"text": "Volunteer",
+"href": "https://ericconroy.com/volunteer-for-eric/"
+},
+{
+"text": "Volunteer for Eric",
+"href": "https://ericconroy.com/volunteer-for-eric/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/EricConroyOH"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UCvz-apSIJj9rTD_AeyiJJJA"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/news/700-wlw-eric-joins-mike-allen-to-discuss-his-campaign-3/"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/news/icymi-landsman-wants-to-ban-stock-trading-in-congress-after-he-got-caught-trading-stocks/"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/news/press-release-eric-conroy-decisively-wins-republican-primary-in-ohios-1st-congressional-district/"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/news/press-release-is-steven-erbeck-funding-his-campaign-with-illegal-contributions/"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/news/press-release-ohio-deserves-a-congressman-who-can-fightand-win-for-xaviers-rotc-program/"
+},
+{
+"text": "[image]",
+"href": "https://ericconroy.com/news/press-release-president-trump-endorses-eric-conroy-for-congress/"
+},
+{
+"text": "[no text]",
+"href": "https://ericconroy.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://ericconroy.com/endorse-eric/"
+},
+{
+"text": "[no text]",
+"href": "https://ericconroy.com/volunteer-for-eric/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@ericconroy"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@ericconroy.com"
+},
+{
+"text": "[no text]",
+"href": "tel:+15132017327"
+}
 ]

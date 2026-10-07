@@ -1,25 +1,114 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260924T180000%2F20260924T210000&text=Terra+Vox+Winery+Fundraiser&details=%3Ch2+class%3D%22wp-block-heading%22%3EWinery+Fundraiser+for+Josh+Smead%3C%2Fh2%3E%3Cp%3EJoin+us+at+TerraVox+Winery+on+Thursday%2C+September+24+for+an+evening+in+support+of+Josh+Smead+for+Congress%2C+featuring+a+silent+auction.%3C%2Fp%3E+%3Cp%3EDoors+open+at+5%3A30+PM%2C+and+the+event+begins+at+6%3A00+PM.%3C%2Fp%3E+%3Cp%3E%3Cstrong%3ETerraVox+Winery%3C%2Fstrong%3E%3Cbr%3E19310+NW+Farley+Hampton+Rd+%233%3Cbr%3EKansas+City%2C+MO+64153%3C%2Fp%3E+%3Cp%3E%3Ca+class%3D%22btn+btn--donate%22+href%3D%22https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fterravox-winery-josh-smead%22+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22%3EReserve+Your+Spot%3C%2Fa%3E%3C%2Fp%3E+&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-24T18%3A00%3A00-04%3A00&enddt=2026-09-24T21%3A00%3A00-04%3A00&subject=Terra+Vox+Winery+Fundraiser&body=Winery+Fundraiser+for+Josh+Smead%3Cp%3EJoin+us+at+TerraVox+Winery+on+Thursday%2C+September+24+for+an+evening+in+support+of+Josh+Smead+for+Congress%2C+featuring+a+silent+auction.%3C%2Fp%3E%3Cp%3EDoors+open+at+5%3A30+PM%2C+and+the+event+begins+at+6%3A00+PM.%3C%2Fp%3E%3Cp%3ETerraVox+Winery19310+NW+Farley+Hampton+Rd+%233Kansas+City%2C+MO+64153%3C%2Fp%3E%3Cp%3EReserve+Your+Spot%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-24T18%3A00%3A00-04%3A00&enddt=2026-09-24T21%3A00%3A00-04%3A00&subject=Terra+Vox+Winery+Fundraiser&body=Winery+Fundraiser+for+Josh+Smead%3Cp%3EJoin+us+at+TerraVox+Winery+on+Thursday%2C+September+24+for+an+evening+in+support+of+Josh+Smead+for+Congress%2C+featuring+a+silent+auction.%3C%2Fp%3E%3Cp%3EDoors+open+at+5%3A30+PM%2C+and+the+event+begins+at+6%3A00+PM.%3C%2Fp%3E%3Cp%3ETerraVox+Winery19310+NW+Farley+Hampton+Rd+%233Kansas+City%2C+MO+64153%3C%2Fp%3E%3Cp%3EReserve+Your+Spot%3C%2Fp%3E",
-"https://secure.actblue.com/donate/terravox-winery-josh-smead",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/hannibal-indivisible",
-"https://votesmead.com/event/liberty-fall-festival",
-"https://votesmead.com/events",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260924T180000%2F20260924T210000&text=Terra+Vox+Winery+Fundraiser&details=%3Ch2+class%3D%22wp-block-heading%22%3EWinery+Fundraiser+for+Josh+Smead%3C%2Fh2%3E%3Cp%3EJoin+us+at+TerraVox+Winery+on+Thursday%2C+September+24+for+an+evening+in+support+of+Josh+Smead+for+Congress%2C+featuring+a+silent+auction.%3C%2Fp%3E+%3Cp%3EDoors+open+at+5%3A30+PM%2C+and+the+event+begins+at+6%3A00+PM.%3C%2Fp%3E+%3Cp%3E%3Cstrong%3ETerraVox+Winery%3C%2Fstrong%3E%3Cbr%3E19310+NW+Farley+Hampton+Rd+%233%3Cbr%3EKansas+City%2C+MO+64153%3C%2Fp%3E+%3Cp%3E%3Ca+class%3D%22btn+btn--donate%22+href%3D%22https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fterravox-winery-josh-smead%22+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22%3EReserve+Your+Spot%3C%2Fa%3E%3C%2Fp%3E+&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com"
+},
+{
+"text": "Liberty Fall Festival »",
+"href": "https://votesmead.com/event/liberty-fall-festival/"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T21%3A00%3A00-04%3A00&location=&subject=Terra+Vox+Winery+Fundraiser&body=Winery+Fundraiser+for+Josh+Smead%3Cp%3EJoin+us+at+TerraVox+Winery+on+Thursday%2C+September+24+for+an+evening+in+support+of+Josh+Smead+for+Congress%2C+featuring+a+silent+auction.%3C%2Fp%3E%3Cp%3EDoors+open+at+5%3A30+PM%2C+and+the+event+begins+at+6%3A00+PM.%3C%2Fp%3E%3Cp%3ETerraVox+Winery19310+NW+Farley+Hampton+Rd+%233Kansas+City%2C+MO+64153%3C%2Fp%3E%3Cp%3EReserve+Your+Spot%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T21%3A00%3A00-04%3A00&location=&subject=Terra+Vox+Winery+Fundraiser&body=Winery+Fundraiser+for+Josh+Smead%3Cp%3EJoin+us+at+TerraVox+Winery+on+Thursday%2C+September+24+for+an+evening+in+support+of+Josh+Smead+for+Congress%2C+featuring+a+silent+auction.%3C%2Fp%3E%3Cp%3EDoors+open+at+5%3A30+PM%2C+and+the+event+begins+at+6%3A00+PM.%3C%2Fp%3E%3Cp%3ETerraVox+Winery19310+NW+Farley+Hampton+Rd+%233Kansas+City%2C+MO+64153%3C%2Fp%3E%3Cp%3EReserve+Your+Spot%3C%2Fp%3E"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Reserve Your Spot",
+"href": "https://secure.actblue.com/donate/terravox-winery-josh-smead"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "https://secure.actblue.com/donate/terravox-winery-josh-smead",
+"href": "https://secure.actblue.com/donate/terravox-winery-josh-smead"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/event/terra-vox-winery-fundraiser/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "« Hannibal Indivisible",
+"href": "https://votesmead.com/event/hannibal-indivisible/"
+}
 ]

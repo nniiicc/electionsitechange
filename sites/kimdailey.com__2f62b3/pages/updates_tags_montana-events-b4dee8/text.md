@@ -1,12 +1,7 @@
-top of page
-KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN
-ENDORSED BY:
-An Evening of Constitutional Education & Community Support – Join Us April 25
-Join us April 25 in Hamilton, Montana for an evening of constitutional education, community connection, and support for local conservative candidates including Kim Dailey.
-EditorApr 81 min read
-Kim Dailey Gun Raffle: Win a Walther PPX 9MM!
+top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT DONATE ENDORSED BY: All Posts In the News Campaign Updates On the Issues Voter Resources Endorsements Legislative Insights Events An Evening of Constitutional Education & Community Support – Join Us April 25 Join us April 25 in Hamilton, Montana for an evening of constitutional education, community connection, and support for local conservative candidates including Kim Dailey.
+Editor Apr 8 1 min read Kim Dailey Gun Raffle: Win a Walther PPX 9MM!
 Enter the Kim Dailey Gun Raffle for a chance to win a Walther PPX 9MM semi-auto pistol with two magazines.
 Tickets are $5 or 6 for $20, available at Kim’s booth.
 Drawing May 5, 2026.
-EditorSep 20, 20251 min read
-bottom of page
+Editor Sep 20, 2025 1 min read Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

@@ -1,23 +1,106 @@
 [
-"https://facebook.com/teamtong2018",
-"https://instagram.com/williamtongct",
-"https://williamtong.com/",
-"https://williamtong.com/about",
-"https://williamtong.com/accomplishments",
-"https://williamtong.com/accomplishments/big-tech",
-"https://williamtong.com/accomplishments/bipartisan-national-leadership",
-"https://williamtong.com/accomplishments/climate-and-environment",
-"https://williamtong.com/accomplishments/firewall-for-connecticut-familes-against-donald-trump",
-"https://williamtong.com/accomplishments/gun-violence-prevention",
-"https://williamtong.com/accomplishments/healthcare-costs",
-"https://williamtong.com/accomplishments/illegal-cannabis-and-nicotine",
-"https://williamtong.com/accomplishments/opioid-and-addiction-industry",
-"https://williamtong.com/accomplishments/protecting-connecticut-consumers",
-"https://williamtong.com/accomplishments/protecting-public-dollars-from-fraud-and-abuse",
-"https://williamtong.com/accomplishments/safe-and-affordable-housing",
-"https://williamtong.com/accomplishments/student-loans",
-"https://williamtong.com/accomplishments/utilities-energy",
-"https://williamtong.com/contact",
-"https://williamtong.com/watch",
-"https://youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+{
+"text": "About",
+"href": "https://www.williamtong.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.williamtong.com/accomplishments/"
+},
+{
+"text": "Affordable Healthcare",
+"href": "https://www.williamtong.com/accomplishments/healthcare-costs/"
+},
+{
+"text": "Big Tech",
+"href": "https://www.williamtong.com/accomplishments/big-tech/"
+},
+{
+"text": "Bipartisan National Leadership",
+"href": "https://www.williamtong.com/accomplishments/bipartisan-national-leadership/"
+},
+{
+"text": "Climate and Environment",
+"href": "https://www.williamtong.com/accomplishments/climate-and-environment/"
+},
+{
+"text": "Firewall for Connecticut Families Against Donald Trump",
+"href": "https://www.williamtong.com/accomplishments/firewall-for-connecticut-familes-against-donald-trump/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.williamtong.com/accomplishments/gun-violence-prevention/"
+},
+{
+"text": "Illegal Cannabis and Nicotine",
+"href": "https://www.williamtong.com/accomplishments/illegal-cannabis-and-nicotine/"
+},
+{
+"text": "Opioid and Addiction Industry",
+"href": "https://www.williamtong.com/accomplishments/opioid-and-addiction-industry/"
+},
+{
+"text": "Protecting Connecticut Consumers",
+"href": "https://www.williamtong.com/accomplishments/protecting-connecticut-consumers/"
+},
+{
+"text": "Protection from Fraud and Abuse",
+"href": "https://www.williamtong.com/accomplishments/protecting-public-dollars-from-fraud-and-abuse/"
+},
+{
+"text": "Safe and Affordable Housing",
+"href": "https://www.williamtong.com/accomplishments/safe-and-affordable-housing/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.williamtong.com/"
+},
+{
+"text": "Student Loans",
+"href": "https://www.williamtong.com/accomplishments/student-loans/"
+},
+{
+"text": "TongTV",
+"href": "https://www.williamtong.com/watch/"
+},
+{
+"text": "Utilities/Energy",
+"href": "https://www.williamtong.com/accomplishments/utilities-energy/"
+},
+{
+"text": "[image: William Tong]",
+"href": "https://www.williamtong.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/teamtong2018/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamtongct/"
+},
+{
+"text": "[no text]",
+"href": "https://www.williamtong.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/teamtong2018/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/williamtongct/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.williamtong.com/contact/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+}
 ]

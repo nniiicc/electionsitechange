@@ -1,9 +1,30 @@
 [
-"https://anonymize.com/",
-"https://epik.com/",
-"https://epik.com/llc",
-"https://facebook.com/sharer.php?u=wallsforillinois.com",
-"https://icann.org/",
-"https://linkedin.com/shareArticle?mini=true&url=wallsforillinois.com",
-"https://twitter.com/intent/tweet?url=wallsforillinois.com"
+{
+"text": "Anonymize.com",
+"href": "https://anonymize.com"
+},
+{
+"text": "Epik LLC",
+"href": "https://www.epik.com/llc/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=wallsforillinois.com"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=wallsforillinois.com"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?url=wallsforillinois.com"
+},
+{
+"text": "[image: icann logo]",
+"href": "https://www.icann.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.epik.com/"
+}
 ]

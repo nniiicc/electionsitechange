@@ -1,10 +1,54 @@
 [
-"https://amy4ok.com/",
-"https://amy4ok.com/about",
-"https://amy4ok.com/privacypolicy",
-"https://facebook.com/Amy4OK",
-"https://instagram.com/Amy4OK34",
-"https://mobilize.us/okdemocrats?q=hossain",
-"https://secure.actblue.com/donate/amy4ok34",
-"https://secure.actblue.com/donate/amymerch"
+{
+"text": "ABOUT",
+"href": "https://www.amy4ok.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy4ok34"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mobilize.us/okdemocrats/?q=hossain"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.amy4ok.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.amy4ok.com/"
+},
+{
+"text": "MERCH",
+"href": "https://secure.actblue.com/donate/amymerch/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.amy4ok.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.amy4ok.com/privacypolicy"
+},
+{
+"text": "[image: Amy Hossain for Oklahoma Senate District 34 logo]",
+"href": "https://www.amy4ok.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/Amy4OK"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/Amy4OK34"
+},
+{
+"text": "info@amy4ok.com",
+"href": "mailto:info@amy4ok.com"
+},
+{
+"text": "info@amyforok.com",
+"href": "mailto:info@amyforok.com"
+}
 ]

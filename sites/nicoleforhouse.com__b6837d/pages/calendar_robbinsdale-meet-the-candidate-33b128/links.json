@@ -1,46 +1,206 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Meet+the+Candidate&dates=20240917T233000Z%2F20240918T013000Z&location=2+Saint+Patrick+Street%2C+Rapid+City%2C+SD%2C+57701%2C+United+States",
-"http://maps.google.com/?q=2+Saint+Patrick+Street+Rapid+City%2C+SD%2C+57701+United+States",
-"https://facebook.com/RepNicoleUhreBalk",
-"https://facebook.com/share/Atxkx1MC3fv8DzPK",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673630657-WRZ1KLFAERJ3I9N4SC3Z/signal-2024-09-18-092224_002.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673630659-CEZJ5NKW029L9CCN0PZ2/signal-2024-09-18-092224_003.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673631961-AEZOK1RXN5P5J4F9L6LY/signal-2024-09-18-092224_004.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673632049-9UFCHU800NE6TPRLY2GK/signal-2024-09-18-092224_005.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673633238-KVXHOCGEERPAXCGNKD8W/signal-2024-09-18-092224_007.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673633238-WA8E6141XP9GMKYE4390/signal-2024-09-18-092224_006.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673634402-60OT7AJP05MHIJSM31GG/signal-2024-09-18-092224_008.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673634497-IDBU1OAKFT0CGYMIKSWU/signal-2024-09-18-092224_009.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673635638-XBGPCTR28ZC4J6TZK871/signal-2024-09-18-092224_010.jpeg",
-"https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673635932-694FBLO4PNZ8F6YM8SLX/signal-2024-09-18-092224_011.jpeg",
-"https://instagram.com/nicoleforhouse",
-"https://nicoleforhouse.com/",
-"https://nicoleforhouse.com/about",
-"https://nicoleforhouse.com/bulletin",
-"https://nicoleforhouse.com/calendar",
-"https://nicoleforhouse.com/calendar/early-voting",
-"https://nicoleforhouse.com/calendar/legislative-forum-at-south-dakota-mines",
-"https://nicoleforhouse.com/calendar/robbinsdale-meet-the-candidate?format=ical",
-"https://nicoleforhouse.com/cart",
-"https://nicoleforhouse.com/contact",
-"https://nicoleforhouse.com/donate",
-"https://nicoleforhouse.com/endorsements-2026",
-"https://nicoleforhouse.com/get-involved",
-"https://nicoleforhouse.com/home",
-"https://nicoleforhouse.com/host-a-yard-sign",
-"https://nicoleforhouse.com/legislative-work",
-"https://nicoleforhouse.com/media",
-"https://nicoleforhouse.com/meet-nicole",
-"https://nicoleforhouse.com/scorecards",
-"https://nicoleforhouse.com/take-action",
-"https://nicoleforhouse.com/vision-for-south-dakota",
-"https://sdlegislature.gov/Legislators/Profile/4693/Detail",
-"https://secure.actblue.com/donate/nicoleforhouse",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=100",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=25",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=250",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=50",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=500",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=75",
-"https://youtube.com/@nicoleforhouse"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=75"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2+saint+patrick+street+rapid+city%2C+sd%2C+57701+united+states"
+},
+{
+"text": "0",
+"href": "https://www.nicoleforhouse.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.nicoleforhouse.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.nicoleforhouse.com/calendar"
+},
+{
+"text": "Bulletin",
+"href": "https://www.nicoleforhouse.com/bulletin"
+},
+{
+"text": "Calendar & Events",
+"href": "https://www.nicoleforhouse.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Contact Me",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donate now. →",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donate →",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donating by mail? Click here. →",
+"href": "https://www.nicoleforhouse.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicoleforhouse.com/endorsements-2026"
+},
+{
+"text": "Folder: About",
+"href": "https://www.nicoleforhouse.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.nicoleforhouse.com/take-action"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nicoleforhouse.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Robbinsdale+Meet+the+Candidate&dates=20240917T233000Z%2F20240918T013000Z&location=2+Saint+Patrick+Street%2C+Rapid+City%2C+SD%2C+57701%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.nicoleforhouse.com/home"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.nicoleforhouse.com/host-a-yard-sign"
+},
+{
+"text": "ICS",
+"href": "https://www.nicoleforhouse.com/calendar/robbinsdale-meet-the-candidate?format=ical"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.nicoleforhouse.com/legislative-work"
+},
+{
+"text": "Media",
+"href": "https://www.nicoleforhouse.com/media"
+},
+{
+"text": "Meet Nicole",
+"href": "https://www.nicoleforhouse.com/meet-nicole"
+},
+{
+"text": "Next Next September 20 Early Voting",
+"href": "https://www.nicoleforhouse.com/calendar/early-voting"
+},
+{
+"text": "Previous Previous September 12 Legislative Forum at South Dakota Mines",
+"href": "https://www.nicoleforhouse.com/calendar/legislative-forum-at-south-dakota-mines"
+},
+{
+"text": "RSVP →",
+"href": "https://www.facebook.com/share/Atxkx1MC3fv8DzPK/"
+},
+{
+"text": "Scorecards",
+"href": "https://www.nicoleforhouse.com/scorecards"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_002.jpeg][image: signal-2024-09-18-092224_002.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673630657-WRZ1KLFAERJ3I9N4SC3Z/signal-2024-09-18-092224_002.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_003.jpeg][image: signal-2024-09-18-092224_003.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673630659-CEZJ5NKW029L9CCN0PZ2/signal-2024-09-18-092224_003.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_004.jpeg][image: signal-2024-09-18-092224_004.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673631961-AEZOK1RXN5P5J4F9L6LY/signal-2024-09-18-092224_004.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_005.jpeg][image: signal-2024-09-18-092224_005.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673632049-9UFCHU800NE6TPRLY2GK/signal-2024-09-18-092224_005.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_006.jpeg][image: signal-2024-09-18-092224_006.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673633238-WA8E6141XP9GMKYE4390/signal-2024-09-18-092224_006.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_007.jpeg][image: signal-2024-09-18-092224_007.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673633238-KVXHOCGEERPAXCGNKD8W/signal-2024-09-18-092224_007.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_008.jpeg][image: signal-2024-09-18-092224_008.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673634402-60OT7AJP05MHIJSM31GG/signal-2024-09-18-092224_008.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_009.jpeg][image: signal-2024-09-18-092224_009.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673634497-IDBU1OAKFT0CGYMIKSWU/signal-2024-09-18-092224_009.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_010.jpeg][image: signal-2024-09-18-092224_010.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673635638-XBGPCTR28ZC4J6TZK871/signal-2024-09-18-092224_010.jpeg"
+},
+{
+"text": "View fullsize [image: signal-2024-09-18-092224_011.jpeg][image: signal-2024-09-18-092224_011.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/65fe172178aac6547812ea17/1726673635932-694FBLO4PNZ8F6YM8SLX/signal-2024-09-18-092224_011.jpeg"
+},
+{
+"text": "Vision For South Dakota",
+"href": "https://www.nicoleforhouse.com/vision-for-south-dakota"
+},
+{
+"text": "[image: nicoleforhouse.com]",
+"href": "https://www.nicoleforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.nicoleforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nicoleforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://sdlegislature.gov/Legislators/Profile/4693/Detail"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepNicoleUhreBalk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nicoleforhouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:nicole.uhre-balk@sdlegislature.gov"
+}
 ]

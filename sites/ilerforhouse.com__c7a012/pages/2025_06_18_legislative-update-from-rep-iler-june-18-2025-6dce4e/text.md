@@ -1,6 +1,5 @@
-Legislative Update from Rep.
-Iler — June 18, 2025
-The last few weeks in the North Carolina General Assembly have been filled with a variety of activities, including budget conversations, committee meetings, and some major policy bills passing.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Update from Rep.
+Iler — June 18, 2025 By Frank Iler | June 18, 2025 The last few weeks in the North Carolina General Assembly have been filled with a variety of activities, including budget conversations, committee meetings, and some major policy bills passing.
 We also had some visitors of importance to our state and county.
 Two of the major bills dealt with illegal immigration policy in the state.
 House Bill 318 – The Criminal Illegal Alien Enforcement Act requires local sheriffs to notify ICE before releasing illegal migrants charged with violent crimes.
@@ -27,3 +26,5 @@ Our Brunswick County commissioners met with Sen, Rabon, Rep.
 Miller and me.
 Next week we expect many more bills passing the House and Senate and going to the Governor.
 Budget conferences should heat up soon, as well as other business being handled in preparation for the fiscal year end and summer break.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

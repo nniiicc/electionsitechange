@@ -1,7 +1,11 @@
 {
  "description": "recent news mcintyre for michigan, podcast, beyond the campaign, beyond the resistance, mental health",
  "final_url": "https://www.mcintyreformichigan.com/news",
- "paid_for_by": "Paid for by Friends of Lisa McIntyre for Michigan - PO Box 641 - Northville MI 48167",
- "title": "Recent News McIntyre for Michigan \u2014 Lisa McIntyre for Michigan House District 22 - Northville, Plymouth, and western Livonia",
- "years_mentioned": []
+ "fingerprint": "c6a6ee9c8f282a79e8ed69592a02fb87f33d2687",
+ "format": 3,
+ "paid_for_by": "sponsored by Browndog Barlor",
+ "title": "Recent News McIntyre for Michigan — Lisa McIntyre for Michigan House District 22 - Northville, Plymouth, and western Livonia",
+ "years_mentioned": [
+  "2026"
+ ]
 }

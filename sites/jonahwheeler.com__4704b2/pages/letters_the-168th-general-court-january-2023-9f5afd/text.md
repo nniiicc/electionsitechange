@@ -1,5 +1,4 @@
-January 2023 Letter
-The House is a boat on some incredibly rocky seas.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The 168th General Court The 168th General Court The 168th General Court Jan 31, 2023 Jan 31, 2023 January 2023 Letter Snow on Webster - 20 January 2023 - 10:51 - Concord, NH - Taken by Jonah Snow on Webster - 20 January 2023 - 10:51 - Concord, NH - Taken by Jonah The House is a boat on some incredibly rocky seas.
 This month was all about getting my sea-legs.
 Figuring out the balance between my full time work schedule, and the haphazard schedule of the legislature.
 You can plan for the sea to be rocky but once you’re in it you realize there was no planning for waves that high.
@@ -19,7 +18,7 @@ Once the House has convened, we call the State Senate into the chamber for a joi
 The Secretary of State is then called into the chamber to take the rostrum and deliver the official tally of the election results for Governor, and the Executive Council to the House and Senate.
 This is required by Articles 42, and 60 of the New Hampshire State Constitution.
 The next day the House met again for the purpose of swearing the Governor into office.
-That Friday, January 6th, I was called into Nashua for a work meeting.
+The Crash - 6 January 2023 - 14:08 - Temple, NH - Taken by Jonah The Crash - 6 January 2023 - 14:08 - Temple, NH - Taken by Jonah That Friday, January 6th, I was called into Nashua for a work meeting.
 Snow was on the forecast but it didn’t look to be that bad.
 So I pressed on.
 The snow held out until I was returning to Peterborough on 101 through Temple, to make it to the Peterborough Democrats rally at the town house.
@@ -76,4 +75,5 @@ Despite our stark political differences on other issues, the committee was able 
 That is the real work which I ran to do.
 That is what government should be doing.
 Until next month.
-Back to all
+MLK Day Speech - 16 January 2023 - Taken by Kath Allen who insisted I post it.
+MLK Day Speech - 16 January 2023 - Taken by Kath Allen who insisted I post it. ‹ Tough Subjects, Cold Days ‹ Tough Subjects, Cold Days ‹ Tough Subjects, Cold Days So Begins the Real Work › So Begins the Real Work › So Begins the Real Work › Back to all

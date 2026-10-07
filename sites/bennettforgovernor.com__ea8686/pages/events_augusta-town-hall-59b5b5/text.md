@@ -1,8 +1,11 @@
-Join us for a Augusta Town Hall with independent candidate for Governor Rick Bennett!
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Augusta Town Hall Monday, September 14, 2026 5:30 PM 7:00 PM Google Calendar ICS Join us for a Augusta Town Hall with independent candidate for Governor Rick Bennett!
 Come hear Rick's vision for Maine, then ask him questions on the biggest issues that matter to you!
 Whether you are a supporter, on the fence, or fully undecided, this event is a great opportunity to hear from Rick on what Maine will look like under an independent Governor, and how his leadership would directly impact your life and the future of our state.
 Where: Cushnoc Brewing, 40 Front Street, Augusta.
 The event entrance is at the back of the building, with plenty of surface parking available at the address and on surrounding streets.
-When: Monday, September 14 from 5:30-7 PM
-What: A public town hall with independent candidate for Governor, Rick Bennett
-RSVP today, and we look forward to meeting you and hearing your questions!
+When: Monday, September 14 from 5:30-7 PM What: A public town hall with independent candidate for Governor, Rick Bennett RSVP today, and we look forward to meeting you and hearing your questions!
+Source: https://www.supportrickbennett.com/9_14_augusta Previous Previous September 5 For a Better Maine - Waterville Next Next September 17 Meet Rick at Spear's Farm in Nobleboro Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

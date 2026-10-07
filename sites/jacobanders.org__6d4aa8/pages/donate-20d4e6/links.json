@@ -1,4 +1,10 @@
 [
-"https://jacobanders.org/",
-"https://paypal.me/redwolf915"
+{
+"text": "Donate via ActBlue",
+"href": "https://www.paypal.me/redwolf915"
+},
+{
+"text": "← Return to Homepage",
+"href": "https://jacobanders.org/"
+}
 ]

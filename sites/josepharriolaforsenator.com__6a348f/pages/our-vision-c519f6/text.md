@@ -1,5 +1,6 @@
-Our Vision
-Guam Rail aka “Koko” became extinct in the wild in the early 1980s when biologists captured the remaining wild population to establish a breeding program.
+0 Skip to Content Joseph B.D.
+Arriola 2026 ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Open Menu Close Menu Joseph B.D.
+Arriola 2026 ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Open Menu Close Menu ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Our Vision Guam Rail aka “Koko” became extinct in the wild in the early 1980s when biologists captured the remaining wild population to establish a breeding program.
 They have since been successfully introduced to the nearby Rota and Cocos islands.
 Why is this significant?
 Like Koko, we are losing our culture, our identity, our traditions.

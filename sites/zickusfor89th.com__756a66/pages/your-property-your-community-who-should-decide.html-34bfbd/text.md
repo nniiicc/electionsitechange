@@ -1,11 +1,19 @@
-By Meegan Zickus
-A farmer should have a meaningful choice about how to use their land.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 7 · Draft Your Property.
+Your Community.
+Who Should Decide?
+30-second overview From the published campaign article A farmer should have a meaningful choice about how to use their land.
+A neighbor should have a meaningful say when a large project may affect drainage, roads, or the view from their home.
+A township should have more than a ceremonial role in decisions that will shape it for decades.
+Local context and documented position The original explanation below contains the campaign’s position and local context.
+Campaign statements express positions; linked records and reports provide their own evidence.
+Sources and records www.michigan.gov — official document or government source. joemoss.com — candidate campaign source.
+By Meegan Zickus A farmer should have a meaningful choice about how to use their land.
 A neighbor should have a meaningful say when a large project may affect drainage, roads, or the view from their home.
 A township should have more than a ceremonial role in decisions that will shape it for decades.
 Those rights can pull in different directions.
 Good policy has to take all of them seriously.
 This question is immediate in Ottawa County.
-Silver Maple Solar, a proposed 200-megawatt project in Zeeland and Jamestown townships, is in Michigan’s state siting process.
+Silver Maple Solar, a proposed 200-megawatt project in Zeeland and Jamestown townships , is in Michigan’s state siting process.
 Public Act 233 allows certain large wind, solar, and energy storage projects to seek approval from the Michigan Public Service Commission under specified conditions.
 The state says the law does not force a landowner to participate or give a developer eminent-domain power.
 It can, however, move a qualifying project into a state approval process when certain local conditions are met.
@@ -18,21 +26,19 @@ What standards protect each of them?
 Who pays if construction damages a road or drainage system?
 What happens when a project reaches the end of its life?
 Moss’s published position does not spell out those answers.
-My position, published on ZickusFor89th.com, is to substantially amend PA 233.
+My position, published on ZickusFor89th.com , is to substantially amend PA 233 .
 Township zoning decisions should receive substantial deference.
 State review should be a limited backstop for unreasonable obstruction, rather than an easy route around local government.
 Residents must be able to participate early enough to affect a proposal.
 That is the difference I want voters to examine: Moss offers a repeal.
 I am putting forward rules for how decisions should be made and whose rights must be protected.
-Protect the farmer and the neighbor
-A landowner may reasonably conclude that leasing acreage for solar provides more dependable income than farming it.
+Protect the farmer and the neighbor A landowner may reasonably conclude that leasing acreage for solar provides more dependable income than farming it.
 Government should not casually take that choice away.
 At the same time, signing a lease should not give a developer a free pass on effects beyond the property line.
 I would require a serious review of setbacks, screening, glare, noise, drainage, construction traffic, fire response, and access to neighboring properties.
 I also want stronger protection for productive farmland, with developers first examining brownfields, contaminated sites, rooftops, parking areas, and less productive acreage where those options are workable.
 These are priorities stated on my campaign site.
-The developer should pay the project’s costs
-A community should know the full terms before a decision is made.
+The developer should pay the project’s costs A community should know the full terms before a decision is made.
 Site plans, drainage studies, emergency plans, and decommissioning obligations should be available in language residents can understand.
 Developers should be responsible for project-related road damage, drainage work, emergency planning, and eventual removal and restoration.
 Decommissioning funds should be secured in advance, independently reviewed, and updated over time.
@@ -42,4 +48,6 @@ A project of this size should proceed only after a transparent review shows how 
 Michigan needs reliable, affordable energy.
 Ottawa County needs property rights and local representation that hold up when the decision is difficult.
 The farmer, the neighbor, and the township all deserve a real voice.
-My plan is to write that balance into the rules.
+My plan is to write that balance into the rules. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading What is Michigan Public Act 233?
+Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+All rights reserved.

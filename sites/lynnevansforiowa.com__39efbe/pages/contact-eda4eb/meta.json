@@ -1,10 +1,9 @@
 {
  "description": "Reach the Lynn Evans re-election campaign for Iowa Senate District 3. Questions, endorsements, media inquiries, yard sign requests, and volunteer sign-ups.",
  "final_url": "https://lynnevansforiowa.com/contact",
- "paid_for_by": null,
+ "fingerprint": "8599c041f37b37d4fa3ffafb3e17c0d96d9e81b1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact Lynn Evans | Iowa Senate District 3 Campaign",
- "years_mentioned": [
-  "2025",
-  "2026"
- ]
+ "years_mentioned": []
 }

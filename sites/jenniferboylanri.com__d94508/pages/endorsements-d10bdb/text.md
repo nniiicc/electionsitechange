@@ -1,10 +1,7 @@
-Endorsements and Distinctions
-“For as long as I’ve known her, Jennifer has been a dedicated advocate for gun safety, women’s reproductive rights, and environmental legislation.
+0 Skip to Content Home About Issues Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Open Menu Close Menu Home About Issues Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Open Menu Close Menu Home About Folder: Issues Back Environment / Climate Change Common Sense Gun Laws Reproductive Freedom Small Business E-Bikes/Micromobility In The News Endorsements Get Involved Stay Informed Contact DONATE Endorsements and Distinctions “For as long as I’ve known her, Jennifer has been a dedicated advocate for gun safety, women’s reproductive rights, and environmental legislation.
 In her first term in office, she has worked very hard to navigate, propose and help pass legislation that supports our East Bay communities.
 Of particular interest to me are her efforts to protect the environment by introducing a microplastics bill, supporting a bottle deposit bill, and her efforts to tackle carbon emissions from buildings and lawn care equipment.
-Jennifer feels the same urgency I do, to combat climate change and protect our environment, and that is why we need her for another term in the General Assembly.”
-— Kate Weymouth, Former Barrington Town Councilor for 16 years
-“Representative Jennifer Boylan’s legislative track record is impeccable.
+Jennifer feels the same urgency I do, to combat climate change and protect our environment, and that is why we need her for another term in the General Assembly.” — Kate Weymouth, Former Barrington Town Councilor for 16 years “Representative Jennifer Boylan’s legislative track record is impeccable.
 Over only two years, she was instrumental and successful in passing legislation on a broad range of topics: from voting reform, abortion access, addressing the housing shortage, small business tax relief, school safety drills, updating the alcoholism statute, and electric bike use to consideration of the impact of climate change in the state’s long-term economic development planning.
 She also supported building decarbonization, electric leaf blower rebates and many other bills, chaired a commission on school lockdowns, represented the RI House of Representatives in meetings with the White House Office of Gun Control Violence Prevention, and is member of the House Environment and Natural Resources Committee, and the House Innovation, Internet and Technology Committee.
 Jennifer’s kind and integrating personality and her deep experience in environmental science, advocacy and policy make her a respected and impactful member of the House.
@@ -13,16 +10,12 @@ What impresses me is not only her hard work in the legislature, but also her str
 Jennifer attends many local events, is very accessible and listens to the concerns of her constituents.
 She takes time, is always open to suggestions and she acts on them.
 Most importantly, because she fundamentally understands the urgent need to act against the existential threat of climate change, unnatural disasters and sea level rise, Jennifer builds alliances to implement effective solutions that will protect the future of our children and the places we love.
-I wholeheartedly endorse Jennifer Boylan for a next term as State Representative for District 66. ”
-— Dr.
+I wholeheartedly endorse Jennifer Boylan for a next term as State Representative for District 66. ” — Dr.
 Hans Scholl, Climate and Environmental Advocate, and member of the Town of Barrington Resilience and Energy Committee.
 “Jennifer has been an environmental champion in the community for many years.
 She served as a leader on the School District's Green Team promoting initiatives like composting, waste minimization, and safe athletic fields.
-She advocated for Barrington's plastic bag ban and for protecting local farmland and public open space.”
-— Tim Faulkner, Community Environmentalist
-“Prior to being elected Jennifer was a long-time Moms Demand Action Volunteer Leader who worked tirelessly to make our community safe from gun violence.
+She advocated for Barrington's plastic bag ban and for protecting local farmland and public open space.” — Tim Faulkner, Community Environmentalist “Prior to being elected Jennifer was a long-time Moms Demand Action Volunteer Leader who worked tirelessly to make our community safe from gun violence.
 She wasn't afraid of doing the hard, unglamorous work that grassroots advocacy requires for success.
 Through her efforts, she brought together community organizations, educated volunteers and the public and spent countless hours at the RI State House to support passage of numerous gun safety bills, including a ban on high capacity magazines and a law that disarms domestic abusers.
 Today, Jennifer takes great pride in knowing her district, representing us and making sure our needs are addressed at the State House.
-I am honored to call Jennifer Boylan my State Representative.
-“
+I am honored to call Jennifer Boylan my State Representative. “ — Amy Herlihy, Barrington RI Moms Demand Action Volunteer Leader Endorsements and Distinctions from 2022 and 2024 Donate PAID FOR BY FRIENDS OF JENNIFER BOYLAN j boylan4RI@gmail.com

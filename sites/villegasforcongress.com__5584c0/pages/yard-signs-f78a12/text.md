@@ -1,23 +1,2 @@
-Skip navigation menu
-About
-Conoce a Randy
-Issues
-News
-Endorsements
-Yard Signs
-Volunteer
-Media
-Donate
-About
-Conoce a Randy
-Issues
-News
-Endorsements
-Yard Signs
-Volunteer
-Media
-Donate
-Yard Sign Request Form
-Please fill out the form below to request a yard sign from Team Randy!
-Loading…
-You need to enable JavaScript to run this app.
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Yard Sign Request Form Please fill out the form below to request a yard sign from Team Randy!
+Loading… Contact us at info@villegasforcongress.com Villegas for Congress PO Box 1346 Visalia, CA 93279 United States Privacy Policy Powered by RUN! website builder Paid for by Villegas for Congress You need to enable JavaScript to run this app.

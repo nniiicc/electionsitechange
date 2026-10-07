@@ -1,13 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSd4uCdltJAnoJ5_NnHGsnb5fG5uRuvFwRzauqg_8P20KpA_BA/viewform",
-"https://facebook.com/Rockee4AZ",
-"https://instagram.com/rockee4az",
-"https://my.arizona.vote/WhereToVote.aspx?s=individual",
-"https://rockee4az.com/",
-"https://rockee4az.com/home-2",
-"https://rockee4az.com/home-2-2",
-"https://rockee4az.com/home-2-2-2",
-"https://rockee4az.com/home-2-2-3",
-"https://secure.actblue.com/donate/rockee-armstrong",
-"https://x.com/Rockee4AZ"
+{
+"text": "Check Status",
+"href": "https://my.arizona.vote/WhereToVote.aspx?s=individual"
+},
+{
+"text": "Contact",
+"href": "https://rockee4az.com/home-2-2-2/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rockee-armstrong"
+},
+{
+"text": "Endorsement",
+"href": "https://rockee4az.com/home-2-2-3/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rockee4AZ/"
+},
+{
+"text": "Home",
+"href": "https://rockee4az.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rockee4az"
+},
+{
+"text": "Meet Rockee",
+"href": "https://rockee4az.com/home-2/"
+},
+{
+"text": "Priorities",
+"href": "https://rockee4az.com/home-2-2/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4uCdltJAnoJ5_NnHGsnb5fG5uRuvFwRzauqg_8P20KpA_BA/viewform"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/Rockee4AZ"
+},
+{
+"text": "[image]",
+"href": "https://rockee4az.com"
+}
 ]

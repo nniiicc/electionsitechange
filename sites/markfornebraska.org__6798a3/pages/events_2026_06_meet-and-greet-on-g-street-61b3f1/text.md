@@ -1,10 +1,3 @@
-Back to All Events
-Mark will be visiting Geneva on June 25th to hear your concerns about the rising costs of our state.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Meet and Greet on "G" Street Thursday, June 25, 2026 11:00 AM 2:00 PM 924 G Street Geneva, Nebraska, 68361 (map) Google Calendar ICS Mark will be visiting Geneva on June 25th to hear your concerns about the rising costs of our state.
 Come visit a candidate willing to meet you where you’re at to help improve the conditions of all Nebraskans in CD3 & more!
-Previous
-Previous
-June 24
-Grand Island Meet & Greet
-Next
-Next
-June 25
+Tagged: Event , Meet & Greet Previous Previous June 24 Grand Island Meet & Greet Next Next June 25 Southeast Candidate Forum Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

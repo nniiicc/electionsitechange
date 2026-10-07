@@ -1,19 +1,2 @@
-0
-Skip to Content
-Meet Jordan
-Jordan's Priorities
-Endorsements
-DONATE
-Open Menu
-Close Menu
-DONATE
-Meet Jordan
-Jordan's Priorities
-Endorsements
-Open Menu
-Close Menu
-Meet Jordan
-Jordan's Priorities
-Endorsements
-DONATE
-Join Jordan!
+0 Skip to Content Meet Jordan Jordan's Priorities Endorsements DONATE Open Menu Close Menu DONATE Meet Jordan Jordan's Priorities Endorsements Open Menu Close Menu Meet Jordan Jordan's Priorities Endorsements DONATE Join Jordan!
+Contact JOrdan’s Priorities DONATE 300 N McDonald St Unit 1252 McKinney, TX 75069 Contact@Jordan4Texas.co m Phone: 945-333-5177 Pol Adv Pd for by Jordan Wheatley For Texas

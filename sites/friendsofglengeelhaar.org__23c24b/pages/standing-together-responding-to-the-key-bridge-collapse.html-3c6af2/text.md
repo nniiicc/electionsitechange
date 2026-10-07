@@ -1,4 +1,4 @@
-This morning, I woke up to devastating news—the Francis Scott Key Bridge has collapsed, with highway workers caught in the midst of it.
+endorsements about issues events blog contact menu endorsements about issues events contact blog MD Taxpayer Cost Tracker Maryland Taxpayer Cost Tracker Standing Together: Responding to the Key Bridge Collapse 03/26/2024 This morning, I woke up to devastating news—the Francis Scott Key Bridge has collapsed, with highway workers caught in the midst of it.
 My heart aches for the families who have lost their loved ones in this unimaginable tragedy.
 Please, let's all take a moment to hold them close in our thoughts and prayers.
 It's thanks to the incredible bravery and quick response of our first responders that the situation wasn't even more dire.
@@ -11,7 +11,7 @@ This bridge holds historical significance, reminding us of our nation's resilien
 In times like these, it's vital that we put aside our differences and come together as a community.
 I urge our leaders in Annapolis to unite and focus on supporting those affected by this tragedy.
 Rather than engaging in politics as usual, I encourage them to re-evaluate the wisdom of taking on new transportation projects such as the Red-Line, and instead focus on getting our port back open.
-According to Channel 2 News, the port of Baltimore has approximately 15,300 direct jobs, with another 140,000 jobs overall linked to Port activities.
+According to Channel 2 News , the port of Baltimore has approximately 15,300 direct jobs, with another 140,000 jobs overall linked to Port activities.
 The impact of the Key Bridge collapse extends far beyond its physical structure—it has brought our bustling port to a standstill, affecting thousands of jobs, and disrupting supply chains.
 We must explore alternative solutions, such as establishing a second port at Trade Point Atlantic, to prevent such vulnerabilities in the future.
 Let's work together, with compassion and determination, to overcome this challenge and rebuild stronger than ever before.

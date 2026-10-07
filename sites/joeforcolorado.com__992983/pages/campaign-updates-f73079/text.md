@@ -1,4 +1,6 @@
-Oct 19, 2025 | Campaign Updates Congressman Neguse Joins “No Kings” Events in Six Cities — Fort Collins, Boulder, Longmont, Erie, Louisville, and Lafayette Read More Aug 17, 2025 | Campaign Updates Rep.
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Donate now to support Joe Neguse's fight for all Coloradans!
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Campaign Updates Oct 19, 2025 | Campaign Updates Congressman Neguse Joins “No Kings” Events in Six Cities — Fort Collins, Boulder, Longmont, Erie, Louisville, and Lafayette Read More Aug 17, 2025 | Campaign Updates Rep.
 Joe Neguse confronts constitutional crisis, calls for local action at Steamboat town hall Read More Aug 17, 2025 | Campaign Updates Colorado Congressman Joe Neguse pushes back against plan to sell millions of acres of public land Read More Aug 17, 2025 | Campaign Updates AOC, Neguse Introduce Law to Impose Lifetime Ban on Members of Congress from Lobbying Read More Aug 17, 2025 | Campaign Updates Joe Neguse Spearheading Congressional Agenda Aimed at Tackling Corruption Read More 1 2 3 … 6 I’m fighting for the values we share, but I can’t do it alone.
-Chip In for Joe $5 $10 $25 $50 $100 Other *If you've saved your information with ActBlue Express, your donation will go through immediately.
-Joe Neguse for Congress Fighting for the American Dream Or Donate Now
+Chip In for Joe $# $# $# $# $# Other *If you've saved your information with ActBlue Express, your donation will go through immediately.
+Joe Neguse for Congress Fighting for the American Dream Or Donate Now [email protected] Privacy Policy Contact Us Paid for by Joe Neguse for Congress

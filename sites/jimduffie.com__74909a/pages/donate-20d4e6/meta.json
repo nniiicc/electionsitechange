@@ -1,7 +1,9 @@
 {
  "description": "Donate on Jim Duffie for Congress. Official campaign website and digital hub for Jim Duffie's U.",
  "final_url": "https://jimduffie.com/donate",
- "paid_for_by": null,
+ "fingerprint": "5068e1a90afc378ae67db5c63a71ae719d545e23",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate | Jim Duffie for Congress",
  "years_mentioned": []
 }

@@ -1,5 +1,7 @@
-Why I Am Running
-I have decided to run for governor as an independent candidate because, like so many of you, I can no longer tolerate the dysfunction, waste, and warped priorities of our state government.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Ken Block for Governor A Stronger Future for Rhode Island ★ Your government should work for you.
+Ken believes Rhode Island government should work better for its citizens.
+He is focused on improving accountability, fixing broken systems, and delivering results for the people of this state.
+Donate Get Involved Donate Why I Am Running I have decided to run for governor as an independent candidate because, like so many of you, I can no longer tolerate the dysfunction, waste, and warped priorities of our state government.
 Our state budget is $15 billion – close to $15,000 annually for each of us.
 Why does it feel like we aren’t getting what we are paying for?
 Because we are not.
@@ -19,3 +21,9 @@ Many states have governments that operate far better than Rhode Island’s, and 
 When our state government misfires, it hurts everyone.
 We can and will do better.
 Much better!
+Get Involved Join Ken’s campaign and help build a government that works for every Rhode Islander.
+Get Involved Support Ken’s Campaign Your contribution helps Ken reach voters and bring accountable, effective government to Rhode Island.
+Donate Ken I be Honest View More → WATCH VIDEO Ken Block announces 2026 run as independent for RI governor WATCH VIDEO I believe that we need way better government..
+WATCH VIDEO Independent Candidate for Rhode Island Governor..
+WATCH VIDEO Why is your RI Energy Bill so High?
+WATCH VIDEO Educated Young People are our Biggest Export × Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

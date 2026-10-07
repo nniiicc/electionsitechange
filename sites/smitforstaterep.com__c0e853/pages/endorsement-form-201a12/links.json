@@ -1,15 +1,62 @@
 [
-"https://facebook.com/smitforstaterep",
-"https://instagram.com/smitforstaterep",
-"https://secure.winred.com/committee-to-elect-rachelle-smit-for-state-representative/storefront",
-"https://smitforstaterep.com/",
-"https://smitforstaterep.com/43rd-district-map",
-"https://smitforstaterep.com/contact",
-"https://smitforstaterep.com/endorsements",
-"https://smitforstaterep.com/get-involved",
-"https://smitforstaterep.com/meetrachelle",
-"https://smitforstaterep.com/press",
-"https://smitforstaterep.com/priorities",
-"https://smitforstaterep.com/signs",
-"https://youtube.com/channel/UCQWimN1Nf-9nDcivR9grgbQ"
+{
+"text": "Contact",
+"href": "https://smitforstaterep.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://smitforstaterep.com/43rd-district-map/"
+},
+{
+"text": "Endorsements",
+"href": "https://smitforstaterep.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://smitforstaterep.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://smitforstaterep.com/"
+},
+{
+"text": "Meet Rachelle",
+"href": "https://smitforstaterep.com/meetrachelle/"
+},
+{
+"text": "Merch",
+"href": "https://secure.winred.com/committee-to-elect-rachelle-smit-for-state-representative/storefront"
+},
+{
+"text": "Press",
+"href": "https://smitforstaterep.com/press/"
+},
+{
+"text": "Priorities",
+"href": "https://smitforstaterep.com/priorities/"
+},
+{
+"text": "Yard Signs",
+"href": "https://smitforstaterep.com/signs/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/smitforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smitforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQWimN1Nf-9nDcivR9grgbQ"
+},
+{
+"text": "[tooltip: - Smit for State Rep]",
+"href": "https://smitforstaterep.com/"
+},
+{
+"text": "rachelle@smitforstaterep.com",
+"href": "mailto:rachelle@smitforstaterep.com"
+}
 ]

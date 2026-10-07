@@ -1,8 +1,46 @@
 [
-"https://instagram.com/votetalaeai",
-"https://marktalaeai.com/",
-"https://marktalaeai.com/about",
-"https://marktalaeai.com/get-involved",
-"https://olvr.hawaii.gov/",
-"https://secure.winred.com/friends-and-family-of-mark-talaeai/donate?exitintent=true"
+{
+"text": "About",
+"href": "https://www.marktalaeai.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.marktalaeai.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-and-family-of-mark-talaeai/donate?exitintent=true"
+},
+{
+"text": "Get Involved",
+"href": "https://www.marktalaeai.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.marktalaeai.com"
+},
+{
+"text": "Home",
+"href": "https://www.marktalaeai.com/get-involved"
+},
+{
+"text": "Register To Vote",
+"href": "https://olvr.hawaii.gov"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.marktalaeai.com/get-involved"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votetalaeai"
+},
+{
+"text": "[image: Mark-Talaeai-logo-1-1536x1536.png]",
+"href": "https://www.marktalaeai.com"
+},
+{
+"text": "friendsandfamilyofmarktalaeai@gmail.com",
+"href": "mailto:friendsandfamilyofmarktalaeai@gmail.com"
+}
 ]

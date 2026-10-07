@@ -1,4 +1,4 @@
-Original Vision.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (August 26th Edition) 26 Aug Wednesday, 8:50 PM · 2026 Wednesdays With Will (August 26th Edition) Original Vision.
 Zero Echoes.
 My expertise is in the business world.
 I am specifically well credited for my involvement with startups.
@@ -34,3 +34,4 @@ There will be zero echoing here.
 We are going to flip the HD30 seat for the future, and return it back to the people.
 That is how we Move Colorado Forward.
 Together.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

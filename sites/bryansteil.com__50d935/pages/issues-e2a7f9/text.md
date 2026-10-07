@@ -1,16 +1,11 @@
-Steil is Working for You
-Bryan Steil is committed to lowering prices, securing the border, and protecting our seniors.
-“As a lifelong resident of our community, I’m working to deliver results for you.”
-Strengthening Our Economy
-Costs are too high.
+Skip to content Home About Issues Volunteer Shop Donate Steil is Working for You Bryan Steil is committed to lowering prices, securing the border, and protecting our seniors.
+“As a lifelong resident of our community, I’m working to deliver results for you.” Strengthening Our Economy Costs are too high.
 Reckless spending has caused prices for everyday goods and services to skyrocket.
 Bryan Steil is leading efforts to cut wasteful spending and lower costs for Wisconsin workers and families.
-Securing Our Communities
-We must secure our border.
+Securing Our Communities We must secure our border.
 Steil is working to secure the border by supporting policies to stop the flow of illicit fentanyl and end the human trafficking crisis.
 Steil will always work with law enforcement to ensure our communities are safe and secure.
-Protecting Our Seniors
-Steil has always worked to protect our seniors and the programs they rely on.
+Protecting Our Seniors Steil has always worked to protect our seniors and the programs they rely on.
 Steil is committed to protecting Social Security and Medicare.
 He supports policies to ensure these programs are solvent for generations to come.
 He’s also working to lower prescription drug prices which have become unaffordable for many seniors.
@@ -23,3 +18,7 @@ Southeast Wisconsin is home to one of the best workforces.
 Steil is working to ensure our community has access to high quality education and schools focused on preparing workers for the jobs of the future.
 Steil supports families by working for policies to lower costs and help families afford the things that they need.
 He supports access to IVF and is a strong supporter of life.
+Bryan Steil is the advocate that Southeast Wisconsin needs in Congress.
+To view his voting record, click here.
+Paid for by Steil for Wisconsin, Inc.
+Review Bryan’s Financial Disclosure Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

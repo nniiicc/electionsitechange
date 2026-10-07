@@ -1,8 +1,7 @@
-Hi, I’m Rick Krajewski.
+0 Skip to Content Volunteer Issues Donate Open Menu Close Menu Volunteer Issues Donate Open Menu Close Menu Volunteer Issues Donate Hi, I’m Rick Krajewski.
 I’m a State Representative, community organizer, and Black democratic socialist running for re-election to deliver for working people in West and Southwest Philly.
-We’ve only just begun.
-About Rick
-As an elected legislator in Harrisburg, Rick is fighting back.
+JOIN US We’ve only just begun.
+About Rick As an elected legislator in Harrisburg, Rick is fighting back.
 His proudest accomplishments include winning a $2.5 million allocation to establish a statewide tenants’ right to counsel—ensuring low-income renters facing eviction or discrimination can access free legal representation in our courts—along with passing medical parole for sick and elderly incarcerated folks, advancing publicly accountable cannabis legislation, expanding juvenile diversion, and championing protections for at-risk youth as a young Black legislator.
 Rick understands that real justice means more than reacting to crisis after crisis.
 It means transforming our communities by investing in what actually keeps people safe and whole: housing stability, violence prevention, and care for young people who are too often written off.
@@ -18,4 +17,4 @@ No dark money group or corporate PAC would ever consider giving me money.
 And I would never take it.
 But they will spend it against us.
 Donors like you will fuel this campaign, not AIPAC or the fossil fuel industry.
-Join us by contributing what you can today.
+Join us by contributing what you can today. $25 $100 $250 $1000 info@rickforphilly.com

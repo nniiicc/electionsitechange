@@ -1,8 +1,10 @@
 {
  "description": "Register to vote, find your nearest polling locations, and learn about upcoming election dates for the 2026 elections in Arizona.",
  "final_url": "https://delores.vote/vote/",
+ "fingerprint": "a7821a099a6818870c8bc61fadc654b1442bdd86",
+ "format": 3,
  "paid_for_by": "Paid for by Delores For AZ",
- "title": "Vote in 2026 \u2022 Delores McLaughlin for LD24 State House",
+ "title": "Vote in 2026 • Delores McLaughlin for LD24 State House",
  "years_mentioned": [
   "2026"
  ]

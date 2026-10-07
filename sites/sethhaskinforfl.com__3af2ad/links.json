@@ -1,15 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61588675782439",
-"https://instagram.com/seth4fl",
-"https://music.wixstatic.com/mp3/6ae4a7_0b26f688562c4c1f924af31fb539e423.mp3",
-"https://sethhaskinforfl.com/",
-"https://sethhaskinforfl.com/about-seth-haskin",
-"https://sethhaskinforfl.com/donate",
-"https://sethhaskinforfl.com/endorsements",
-"https://sethhaskinforfl.com/policy",
-"https://sethhaskinforfl.com/social-media-contact",
-"https://sethhaskinforfl.com/volunteer",
-"https://tiktok.com/@seth4fl?lang=en",
-"https://x.com/Seth4FL",
-"https://youtube.com/@Seth4FL"
+{
+"text": "About Seth Haskin",
+"href": "https://www.sethhaskinforfl.com/about-seth-haskin"
+},
+{
+"text": "Contact and Socials",
+"href": "https://www.sethhaskinforfl.com/social-media-contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sethhaskinforfl.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethhaskinforfl.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.sethhaskinforfl.com"
+},
+{
+"text": "Policy",
+"href": "https://www.sethhaskinforfl.com/policy"
+},
+{
+"text": "Trey-has-on-congressional-candidate-seth-haskin-non-party-affiliation-for-district-19.mp3",
+"href": "https://music.wixstatic.com/mp3/6ae4a7_0b26f688562c4c1f924af31fb539e423.mp3"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sethhaskinforfl.com/volunteer"
+},
+{
+"text": "[image: Seth-Haskin-For-Congress-logo]",
+"href": "https://www.sethhaskinforfl.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588675782439"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/seth4fl/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@seth4fl?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Seth4FL"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Seth4FL"
+}
 ]

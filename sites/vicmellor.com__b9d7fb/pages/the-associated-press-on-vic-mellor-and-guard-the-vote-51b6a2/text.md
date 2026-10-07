@@ -1,14 +1,23 @@
-The Associated Press Features Vic Mellor’s “Guard The Vote”
-The Associated Press published a national story in December 2023 highlighting Vic Mellor’s “Guard the Vote” operation ahead of the 2024 elections.
-The article first references Vic’s ties to General Michael Flynn.
+Skip to content Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign X-twitter Instagram Youtube Facebook Donate Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign Home About Photo Gallery Endorsements What Matters Housing That Is Affordable Jobs Revolution Inflation Medical Freedom Second Amendment Parental Rights Free Speech Community Outreach Small Business Outreach Government Dysfunction Voter ID & Election Integrity GAHA News Get Involved Rhode Island Voter Resource Center Donate To Vic Mellor’s Campaign Join the campaign Volunteer for Vic Mellor’s Campaign X-twitter Instagram Youtube Facebook Donate The Associated Press on Vic Mellor and “Guard the Vote” View the full AP Article The Associated Press Features Vic Mellor’s “Guard The Vote” The Associated Press published a national story in December 2023 highlighting Vic Mellor’s “Guard the Vote” operation ahead of the 2024 elections.
+The article first references Vic’s ties to General Michael Flynn .
 It then focuses on Mellor’s role in building a citizen election-integrity network and command center in Venice, Florida.
 According to the report, the command center included state maps, military branch seals and flags, a whiteboard, and an oath of office displayed on the wall.
 Vic told the Associated Press that his group planned to connect law enforcement with everyday citizens for election training and coordination.
-The article presents Vic Mellor, Michael Flynn, Donald Trump, and the phrase “Guard the Vote” as warning signs and potential “threats to democracy.” However, supporters see the issue differently.
+The article presents Vic Mellor , Michael Flynn, Donald Trump, and the phrase “Guard the Vote” as warning signs and potential “threats to democracy.” However, supporters see the issue differently.
 Common sense tells us that secure and fair elections are essential to a free country and public trust.
-When a major news organization describes a private businessman in Venice, Florida as an “alarm bell” for organizing citizens around election integrity, it only proves Vic Mellor’s effectiveness.
+When a major news organization describes a private businessman in Venice, Florida as an “alarm bell” for organizing citizens around election integrity , it only proves Vic Mellor’s effectiveness.
 Vic has never relied on a political title to lead.
 He built a gathering place where Americans could meet and organize without mandates or censorship.
 He also opened a medical clinic when neighbors felt they had nowhere else to turn.
 Mellor helped establish a command center because he believed the 2024 election required engaged and informed citizens.
 Stay tuned, because Vic Mellor is just getting started.
+Support Freedom First Common Sense Putting your Values, & Freedom First Donate Paid for by Friends Of Victor Mellor Contact 401-545-0127 info@vicmellor.com Friends of Victor Mellor 205 Buttonwoods Ave Warwick, RI 02886 X-twitter Facebook Instagram Youtube What Matters Housing That Is Affordable Jobs Revolution Medical Freedom Second Amendment Free Speech - No Censorship Parents - Not Bureaucrats How Can You Help Join The Campaign Donation In The News About Team Contact Privacy Policy Manage consent Manage consent Mail-In Ballot Info If you applied for a mail-in ballot, you will receive your ballot directly from the state.
+Once it arrives, please complete your ballot, select Victor Mellor , and return it by mail according to the instructions provided.
+If you have questions or need assistance with your mail-in ballot, the Victor Mellor campaign is here to help.
+Call us at 401-545-0127 or email info@vicmellor.com .
+Vote For Vic Ride Request Fill out the form below to request a ride to your voting location or get assistance with your mail-in ballot.
+Name (Required) First Last Email (Required) Phone (Required) When do you need a ride?
+(Required) Early Voting Election Day Submit Easily check where and when to vote, mail-ballot sign-up, and request transportation to vote.
+Vote For Vic WHEN AND WHERE EARLY VOTING BEGINS Mail-ballot Information Need a Ride?
+Request a ride to vote or get help with your mail-in ballot.
+REQUEST A RIDE

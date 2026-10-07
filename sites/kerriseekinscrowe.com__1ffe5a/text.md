@@ -1,31 +1,27 @@
-- Job Creation & Economic Development
-- Natural Resource Development
-- Individual Freedoms
-- Parents' Rights
-- Safe Communities
-- States' Rights
-- 2nd Amendment Rights
-- Revamp the appointment process for the Judicial Standards Commission.
-- Guarantee that an infant born alive during an attempted abortion is given appropriate life-saving or palliative care.
-- Ensure that parents are given adequate notice to opt their children out of human sexuality instruction in our schools.
-- Enhance 2nd amendment rights.
-- Strengthen election integrity.
-- Enforce the Constitutional rights of Montana citizens.
-- Ensure that parents have the right to direct their children’s medical, religious and educational upbringing.
-- Keep our children from dangerous medical and pharmaceutical procedures that mutilate their precious bodies due to gender dysphoria.
-- Our daughters are expected to share their bathrooms with men who pretend to be women.
-- Our state is paying for the social gender transformations of our youth.
-- Our children must listen to the narrative that they are not uniquely and wonderfully made, that truth does not exist and that they shouldn’t trust their parents.
-- Our teachers are threatened with investigations and lawsuits if they don’t participate in lies.
-- Our parents are treated as the enemy and not allowed to see their kids’ medical, school or library records.
-- Our families are struggling and being emotionally manipulated with the lie that it is better to "have a live son than a dead daughter."
-- Business & Labor Committee-- Vice Chair
-- Education Committee & Interim Committee
-- Public Safety Appropriations Interim Committee
-- Fish, Wildlife & Parks Committee
-- Local Government Committee
-- ALEC State Chair
-- Republican Legislative Campaign Committee
-I WILL CONTINUE to FIGHT FOR YOUR MONTANA VALUES!
+Home Donate Contact Us More Home Donate Contact Us Home Donate Contact Us I will continue to FIGHT for YOU!
+I will continue to FIGHT for YOU!
+I will continue to FIGHT for YOU!
+I will continue to FIGHT for YOU!
+Donate to Kerri4MT Today!
+I Fight for YOUR Montana Values!
+Job Creation & Economic Development Natural Resource Development Individual Freedoms Parents' Rights Safe Communities States' Rights 2nd Amendment Rights In my three terms in the House, I carried legislation to Revamp the appointment process for the Judicial Standards Commission .
+Guarantee that an infant born alive during an attempted abortion is given appropriate life-saving or palliative care.
+Ensure that parents are given adequate notice to opt their children out of human sexuality instruction in our schools.
+Enhance 2nd amendment rights.
+Strengthen election integrity.
+Enforce the Constitutional rights of Montana citizens.
+Ensure that parents have the right to direct their children’s medical, religious and educational upbringing.
+Keep our children from dangerous medical and pharmaceutical procedures that mutilate their precious bodies due to gender dysphoria.
+Our Work IS NOT Done!
+Our daughters are expected to share their bathrooms with men who pretend to be women.
+Our state is paying for the social gender transformations of our youth.
+Our children must listen to the narrative that they are not uniquely and wonderfully made, that truth does not exist and that they shouldn’t trust their parents.
+Our teachers are threatened with investigations and lawsuits if they don’t participate in lies.
+Our parents are treated as the enemy and not allowed to see their kids’ medical, school or library records.
+Our families are struggling and being emotionally manipulated with the lie that it is better to "have a live son than a dead daughter." Dedicated ...
+Consistent ...
+Passionate ...
+Proven Leadership Business & Labor Committee-- Vice Chair Education Committee & Interim Committee Public Safety Appropriations Interim Committee Fish, Wildlife & Parks Committee Local Government Committee ALEC State Chair Republican Legislative Campaign Committee I WILL CONTINUE to FIGHT FOR YOUR MONTANA VALUES!
 Contact Kerri to have your voice heard.
-Follow me on Facebook @ Kerri4MT
+Follow me on Facebook @ Kerri4MT Contact Kerri Paid for by Kerri4MT 480 Pinon Dr.
+Billings, MT 59105 (Republican) Powered by Donate

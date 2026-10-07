@@ -1,10 +1,6 @@
-Back to All Events
-Meet with Jess and our team as we talk to our neighbors about the importance of re-electing Jess Hanson to the Minnesota State House of Representatives.
-Sign up here: https://docs.google.com/forms/d/1bzGWjZnM__tlBoyF1u0gZlT-pph8rtnjIkRk9ZuDvz0/prefill
-Previous
-Previous
-October 24
-Get out the Vote Door Knock
-Next
-Next
-October 25
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Back to All Events Apartment Door Knock Monday, October 24, 2022 4:30 PM 7:30 PM Savage MN (map) Google Calendar ICS Meet with Jess and our team as we talk to our neighbors about the importance of re-electing Jess Hanson to the Minnesota State House of Representatives.
+Sign up here: https://docs.google.com/forms/d/1bzGWjZnM__tlBoyF1u0gZlT-pph8rtnjIkRk9ZuDvz0/prefill Posted In: Volunteer Previous Previous October 24 Get out the Vote Door Knock Next Next October 25 Get out the Vote Door Knock Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

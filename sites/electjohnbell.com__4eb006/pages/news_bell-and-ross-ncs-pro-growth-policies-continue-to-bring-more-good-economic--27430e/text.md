@@ -1,9 +1,10 @@
-Jan. 30, 2019
-North State Journal : Link
-By Rep.
+Make a donation Please finish the form below Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form CONTRIBUTE Home ABOUT priorities NEWS Join GAllery BELL and ROSS: NC’s pro-growth policies continue to bring more good economic news Written by: Team Bell January 30, 2019 Back to News Jan.
+30, 2019 North State Journal : Link By Rep.
 John Bell and Rep.
-Steve Ross
-It often gets overshadowed and lost in the news, but North Carolina is home to one of the fastest growing economies in the country.
+Steve Ross It often gets overshadowed and lost in the news, but North Carolina is home to one of the fastest growing economies in the country.
 Each day, it seems there is an announcement of new jobs, higher wages and more investments coming to our great state.
 While Apple and Amazon get the bulk of the attention, there are countless job announcements from small, medium and large businesses wanting to expand across North Carolina.
 In fact, North Carolina was just recognized by Forbes as the “Best State for Business” for the second year in a row.
@@ -35,3 +36,6 @@ House Majority Leader.
 Rep.
 Stephen Ross is the Senior Chairman of the Commerce Committee in the N.C.
 House.
+Contact us john@electjohnbell.com POL.
+AD.
+PAID FOR BY ELECT JOHN BELL COMMITTTEE.

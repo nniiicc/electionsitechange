@@ -1,11 +1,12 @@
-By York News Times, October 7, 2021 —
-YORK – U.S.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Congressman Adrian Smith and Mexican Consul tour York County Previous Next Congressman Adrian Smith and Mexican Consul tour York County By York News Times , October 7, 2021 — YORK – U.S.
 Congressman Adrian Smith (who represents Nebraska’s Third District) and Consul of Mexico Guadalupe Sanchez went on an agricultural tour this week, as an opportunity for Congressman Smith to demonstrate the value of the ongoing trade relationship between the United States and Mexico.
 While they toured a number of sites, news outlets were given media availability during Smith’s and Sanchez’s stop/tour of McLean Beef’s new locker facility on South Lincoln Avenue in York.
 They toured the facility as McLean Beef General Manager Brian Kurth explained the processes and answered their questions.
-Regarding the beef industry in general, Smith said, “Let’s be clear here, consumers are in charge.”
-He added that he enjoyed his tour at McLeans’ and “it is great to see a local producer, a cow/calf operation primarily, be able to sell direct to the consumer.”
-Smith also said in a statement to the members of the press who were in attendance, “as a country and as a state, we produce more than we consume,” thus trade is imperative.
+Regarding the beef industry in general, Smith said, “Let’s be clear here, consumers are in charge.” He added that he enjoyed his tour at McLeans’ and “it is great to see a local producer, a cow/calf operation primarily, be able to sell direct to the consumer.” Smith also said in a statement to the members of the press who were in attendance, “as a country and as a state, we produce more than we consume,” thus trade is imperative.
 Regarding Mexico – he said the United States must nurture “this need for two-way trade between Mexico and the world.
 Trade relationships with Mexico, and other countries, is vital” to the United States’ interest and economy.
 Smith and Sanchez also toured Bayer Seed Corn and Triple S Farms.
+Read more: https://yorknewstimes.com/news/congressman-adrian-smith-and-mexican-consul-tour-york-county/article_06fc3966-276b-11ec-bbca-732d460b8e1f.html Adrian Smith for Congress 2022-01-18T09:13:27-06:00 October 8th, 2021 | Media coverage | Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Email 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

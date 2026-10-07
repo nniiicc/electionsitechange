@@ -1,15 +1,4 @@
-A Conservative Advocate for Florida
-- Fighting Joe Biden, Bidenomics, and Inflation
-- Bringing down home insurance premiums
-- Holding big insurance companies accountable for legitimate claims
-- Giving local Sheriffs the power to enforce immigration laws
-- Defending each and every God-given constitutional right
-- Putting election security and integrity at the forefront of public policy
-- Fostering a culture of LIFE
-- Stopping the WOKE indoctrination of our children in public schools
-- Granting local government more power to control runaway growth
-- Continuing record investments in traffic-reducing infrastructure projects
-Richard Gentry is a Florida native, born in Volusia County, and has spent the last dozen years living between Astor and Tallahassee.
+Skip to content A Conservative Advocate for Florida Donate Today Richard Gentry’s Conservative Promise: Fighting Joe Biden, Bidenomics, and Inflation Bringing down home insurance premiums Holding big insurance companies accountable for legitimate claims Giving local Sheriffs the power to enforce immigration laws Defending each and every God-given constitutional right Putting election security and integrity at the forefront of public policy Fostering a culture of LIFE Stopping the WOKE indoctrination of our children in public schools Granting local government more power to control runaway growth Continuing record investments in traffic-reducing infrastructure projects Richard Gentry is a Florida native, born in Volusia County, and has spent the last dozen years living between Astor and Tallahassee.
 The Gentry Family has a long history in our community.
 Richard’s father grew up in DeLand and built Gentry’s Fruits and Juices company from the ground up.
 His brother founded Gentry Fuel Oil, a company still in existence today.
@@ -19,5 +8,4 @@ Prior to that role, Richard worked with communities and builders to shape some o
 Gentry attended college and Law School at the University of Miami.
 He is also a graduate of Leadership Florida, a state-wide nonprofit recognized for cultivating and connecting Florida’s best and brightest leaders.
 Richard and his wife, Carol, live in Astor and have five grown children, and four grandchildren.
-Contact Richard at: richard@voterichardgentry.com
-Paid by Richard Gentry, Republican, for State Representative, District 27.
+Contact Richard at: richard@voterichardgentry.com Join Gentry’s Team How to Help Host a gathering Place a sign at home and/or office Send an email to friends & family Post a message of support on social media Display a window cling on vehicle First Name Last Name Email Street Address SUBMIT Donate Today Paid by Richard Gentry, Republican, for State Representative, District 27.

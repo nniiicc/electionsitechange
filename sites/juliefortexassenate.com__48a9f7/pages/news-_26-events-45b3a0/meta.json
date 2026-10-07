@@ -1,9 +1,9 @@
 {
  "description": "Stay updated with the latest Texas Senate news and events related to Julie Dahlberg and her campaign for a better Texas.",
  "final_url": "https://juliefortexassenate.com/news-%26-events",
- "paid_for_by": null,
+ "fingerprint": "f7313bba6055f8285bd52bc023674c471094b321",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NEWS & EVENTS",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

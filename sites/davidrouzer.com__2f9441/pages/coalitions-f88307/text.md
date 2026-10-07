@@ -1,15 +1,4 @@
-Coalitions
-Veterans
-“As a Vietnam Veteran, I am proud to endorse David.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Coalitions Veterans “As a Vietnam Veteran, I am proud to endorse David.
 His demonstrated record of support for veterans and veterans issues is unquestioned.
-David stands tall for our traditional values.”
-– Jim MacCallum, Brunswick County Clerk of Court
-Farmers
-“I support David because he’s honest, dependable, experienced and understands the issues we face in agriculture.”
-– Jeffrey L, Four Oaks, NC
-Women
-“I support David because he is a man of integrity and will stay true to his word.”
-– Brenda B, Wilmington, NC
-Sportsmen
-“As a sportsman and gun owner, I know David is 100% dedicated to defending our constitutional rights.”
-– Wesley W, Wrightsville Beach, NC
+David stands tall for our traditional values.” – Jim MacCallum, Brunswick County Clerk of Court Join Farmers “I support David because he’s honest, dependable, experienced and understands the issues we face in agriculture.” – Jeffrey L, Four Oaks, NC Join Women “I support David because he is a man of integrity and will stay true to his word.” – Brenda B, Wilmington, NC Join Sportsmen “As a sportsman and gun owner, I know David is 100% dedicated to defending our constitutional rights.” – Wesley W, Wrightsville Beach, NC Join Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

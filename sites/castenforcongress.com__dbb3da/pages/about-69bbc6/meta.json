@@ -1,7 +1,15 @@
 {
  "description": "The official website of Sean Casten's campaign for Congress. Sean Casten is delivering commonsense solutions for Illinois' 6th District.",
  "final_url": "https://www.castenforcongress.com/about/",
+ "fingerprint": "57368e9b753b3ec81db4352c027be572c4ce2f42",
+ "format": 3,
  "paid_for_by": "Paid for by Casten for Congress",
- "title": "About Sean CastenFacebookXInstagram",
- "years_mentioned": []
+ "title": "About Sean Casten",
+ "years_mentioned": [
+  "1997",
+  "1998",
+  "2000",
+  "2007",
+  "2026"
+ ]
 }

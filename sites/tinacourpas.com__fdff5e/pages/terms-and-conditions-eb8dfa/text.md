@@ -1,22 +1,21 @@
-Terms and Conditions
-Elect Tina Courpas 2026 (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Elect Tina Courpas 2026), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Home Meet Tina Issues News Support Newsletters Back-to-School Tax Breaks 2026!
+Back Meet Tina Privacy Policy Terms and Conditions Home Meet Tina Meet Tina Privacy Policy Terms and Conditions Issues News Support Newsletters Back-to-School Tax Breaks 2026!
+Terms and Conditions Elect Tina Courpas 2026 (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Elect Tina Courpas 2026), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Elect Tina Courpas 2026: You've subscribed to receive messages from Elect Tina Courpas 2026 Msg & Data Rates May Apply.
 Message frequency varies.
 The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program, such as through online enrollment forms or any successor short code or long code to opt into the Program.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
 The mobile messaging service used by Us to communicate with you requires human intervention for Our mobile messages to be initiated, and thus Our mobile messages are not sent to you by an automatic telephone dialing system (“ATDS” or “autodialer”).
 Nevertheless, by participating in the Program, you agree to receive autodialed marketing mobile messages and you understand that consent is not required to make any purchase from Us.
-Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Elect Tina Courpas 2026
-Cost and Frequency: Message and data rates may apply.
+Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Elect Tina Courpas 2026 Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
 User Opt Out and Additional Commands: Elect Tina Courpas 2026 You are unsubscribed and will no longer receive messages from Elect Tina Courpas 2026.
 To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
 You may also opt out by texting “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL” to any of Our mobile messages you receive, or by contacting Us via the means provided above and clearly communicating your intent to unsubscribe from the Program.
-For additional support, text “HELP” to get help. <YElect Tina Courpas 2026: Please reach out to us at tinacourpas.com for help from Elect Tina Courpas 2026
-MMS Disclosure: The Program will send SMS MTs if your mobile device does not support MMS messaging.
+For additional support, text “HELP” to get help. <YElect Tina Courpas 2026: Please reach out to us at tinacourpas.com for help from Elect Tina Courpas 2026 MMS Disclosure: The Program will send SMS MTs if your mobile device does not support MMS messaging.
 Our Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of Our control.
 T-Mobile is not liable for delayed or undelivered mobile messages.
@@ -28,7 +27,7 @@ When you complete forms online or otherwise provide Us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
-Dispute Resolution: In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Seattle, WA before one arbitrator.
+Dispute Resolution : In the event that there is a dispute, claim or controversy between you and Us, or between you and any third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, these Terms, Our Privacy Policy, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim or controversy will be determined by arbitration in Seattle, WA before one arbitrator.
 The arbitration will be administered by JAMS.
 For claims greater than $250,000, the JAMS Comprehensive Arbitration Rules and Procedures in effect at the time the arbitration is commenced will apply.
 For claims less than or equal to $250,000, the JAMS Streamlined Arbitration Rules in effect at the time the arbitration is commenced will apply.
@@ -56,3 +55,16 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Please reach out with your priorities, questions and requests.
+We will get back to you as soon as possible.
+Email: info@tinacourpas.com Sign up for news from Tina’s campaign!
+By providing your phone number and submitting this form, you are consenting to receive SMS/MMS messages, including marketing, polls, and informational messages, at that number from Elect Tina Courpas 2026.
+Donations may be solicited.
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out at any time; reply HELP for assistance.
+SMS opt-in will not be sold, rented, or shared with any third parties or affiliates except as required by law.
+You may view our Privacy Policy and Mobile Terms and Conditions for more information.
+Quick Links Home Meet Tina News Support Us Issues Privacy Policy Terms and Conditions Paid for by Elect Tina Courpas 2026.
+Trisha Dalton, Treasurer.
+Approved by Tina Courpas.

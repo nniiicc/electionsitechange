@@ -1,25 +1,16 @@
-Kevin McCormick para vicegobernador de Texas
-Me presento por el Partido Verde a la vicegobernación de Texas.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Principal Campaña 2026 Problemas - 2026 Acerca de Está aquí: Inicio Detalles Kevin McCormick para vicegobernador de Texas Me presento por el Partido Verde a la vicegobernación de Texas.
 Lo mejor que puedes hacer para ayudar a esta campaña es decirles a tus amigos y a otras personas que tienes la intención de votar por mí, Kevin McCormick, para vicegobernador.
 Luego, pídeles que también se lo digan a sus amigos y a otras personas.
 Espero tener poca o ninguna cobertura en los medios corporativos, por lo que mi campaña dependerá de la publicidad de boca en boca.
 Utiliza tu voto para decir que quieres una dirección nueva y mejor en el gobierno de Texas.
-Ayuda a mi campaña
-Reparte tarjetas de presentación
-Como vicegobernador, mi compromiso será servir al interés público.
-Concibo el interés público como:
-- personas saludables – ¿tenemos acceso a alimentos nutritivos, vivienda asequible y actividades saludables?
-- sociedad saludable – ¿tenemos oportunidades de crecimiento y servicios públicos útiles e importantes?
-- medio ambiente saludable – porque vivimos en el medio ambiente.
+Ayuda a mi campaña Reparte tarjetas de presentación Como vicegobernador, mi compromiso será servir al interés público .
+Concibo el interés público como: personas saludables – ¿tenemos acceso a alimentos nutritivos, vivienda asequible y actividades saludables? sociedad saludable – ¿tenemos oportunidades de crecimiento y servicios públicos útiles e importantes? medio ambiente saludable – porque vivimos en el medio ambiente.
 El interés público no es simplemente una buena idea — es un principio rector que evalúa la legislación y mantiene a raya a los grupos de interés.
 La cuestión es si la legislación protege la salud y desarrolla la resiliencia y la sostenibilidad para garantizar una buena calidad de vida para cada texano.
 Me esforzaré por reemplazar la división partidista con un sentido compartido de deber civil, orgullo ciudadano y responsabilidad ambiental.
 Me esforzaré por aumentar los recursos a los que tienen acceso los texanos comunes y por reducir la inseguridad económica.
 El vicegobernador de Texas es el presidente del Senado de Texas, asigna a los miembros de los comités del Senado y remite los proyectos de ley a dichos comités.
-Si soy elegido por los votantes, daré la máxima prioridad a estos tres puntos al aprobar leyes:
-- Invertir en el transporte público mediante la ampliación de las flotas de autobuses en las ciudades de Texas para reducir la congestión vehicular y ofrecer alternativas;
-- Invertir en la economía rural para establecer cooperativas de producción de alimentos en invernaderos de granjas familiares, brindar una base sólida para la producción y procesamiento de cáñamo, mejorar la infraestructura y promover la agricultura sostenible; y
-- Reformar el Código Electoral para adoptar el voto por orden de preferencia en todas las elecciones, establecer una única elección primaria a nivel estatal para los candidatos y limitar de forma significativa la manipulación electoral de los distritos (gerrymandering).
+Si soy elegido por los votantes, daré la máxima prioridad a estos tres puntos al aprobar leyes: Invertir en el transporte público mediante la ampliación de las flotas de autobuses en las ciudades de Texas para reducir la congestión vehicular y ofrecer alternativas; Invertir en la economía rural para establecer cooperativas de producción de alimentos en invernaderos de granjas familiares, brindar una base sólida para la producción y procesamiento de cáñamo, mejorar la infraestructura y promover la agricultura sostenible; y Reformar el Código Electoral para adoptar el voto por orden de preferencia en todas las elecciones, establecer una única elección primaria a nivel estatal para los candidatos y limitar de forma significativa la manipulación electoral de los distritos (gerrymandering).
 También trabajaré para reformar el sistema de impuestos a la propiedad cambiando el método de tasación de bienes inmuebles a "valor de renta o arrendamiento" en lugar del método actual de "ventas comparables", y eliminaré las exenciones del impuesto a la propiedad que respondan a intereses especiales y resulten contraproducentes.
 Además de la injusticia en los impuestos a la propiedad, los texanos necesitan una nueva visión para las políticas de educación pública y atención médica.
 Ahora es evidente que debemos desarrollar más formas de conservar y proteger nuestros recursos hídricos.
@@ -40,4 +31,12 @@ Espero recibir la mayor cantidad de votos posible para que exista un mandato a f
 Mientras que los partidos tradicionales compiten por el botín de administrar al público, yo quiero que la prioridad sea servir al interés público.
 Cuantos más votos reciba, más probable será que el gobierno del estado de Texas ponga a las personas por encima de los grupos de interés.
 Por favor, dile a los demás que planeas votar por mí para vicegobernador en 2026.
-Gracias
+Gracias Choose Language Seleccione su idioma Apoya la Campaña Dona ahora Mi Tarjetas Contacto Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief © # Kevin McCormick para Vicegobernador.
+Todos los derechos reservados. | Política de Privacidad | Contacto

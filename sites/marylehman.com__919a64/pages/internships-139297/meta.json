@@ -1,7 +1,12 @@
 {
  "description": "Join Mary Lehman's team in Annapolis: Internship opportunities for university students seeking real-world experience in public service, with options for class credit.",
  "final_url": "https://www.marylehman.com/internships",
- "paid_for_by": null,
+ "fingerprint": "0660082bf7e160514f6703ad8ee5f249dbd9100a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Internships: Empowering Students in Maryland Politics | Anne Arundel County, MD | Delegate Mary A. Lehman",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024"
+ ]
 }

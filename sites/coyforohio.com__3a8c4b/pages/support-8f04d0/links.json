@@ -1,10 +1,50 @@
 [
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/support",
-"https://docs.google.com/forms/d/e/1FAIpQLSf2dDLR3cAL9t56w9tj10wPLVCDh0ktVBXYaQmYsAbw3c3ifw/viewform?usp=dialog",
-"https://docs.google.com/forms/d/e/1FAIpQLSf8ltUbDHNcXl5VuXBde7-y6Uux7OE35vyBcvHDGPTQnLq3kg/viewform",
-"https://secure.actblue.com/donate/megan-coy-1"
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/megan-coy-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Get your sign here!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf2dDLR3cAL9t56w9tj10wPLVCDh0ktVBXYaQmYsAbw3c3ifw/viewform?usp=dialog"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf8ltUbDHNcXl5VuXBde7-y6Uux7OE35vyBcvHDGPTQnLq3kg/viewform"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf2dDLR3cAL9t56w9tj10wPLVCDh0ktVBXYaQmYsAbw3c3ifw/viewform?usp=dialog"
+}
 ]

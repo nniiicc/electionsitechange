@@ -1,8 +1,46 @@
 [
-"https://facebook.com/PironiForNassau",
-"https://pironiforny.com/",
-"https://pironiforny.com/meet-paolo",
-"https://pironiforny.com/sign",
-"https://pironiforny.com/volunteer",
-"https://secure.winred.com/pironi-for-ny-assembly/district15"
+{
+"text": "About",
+"href": "https://www.pironiforny.com/meet-paolo"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/pironi-for-ny-assembly/district15"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/PironiForNassau/"
+},
+{
+"text": "Home",
+"href": "https://www.pironiforny.com"
+},
+{
+"text": "Learn more about Paolo",
+"href": "https://www.pironiforny.com/meet-paolo"
+},
+{
+"text": "Volunteer",
+"href": "https://www.pironiforny.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.pironiforny.com/sign"
+},
+{
+"text": "[image: Logo.png]",
+"href": "https://www.pironiforny.com"
+},
+{
+"text": "[image: facebook-3.png]",
+"href": "https://www.facebook.com/PironiForNassau/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/pironi-for-ny-assembly/district15"
+},
+{
+"text": "[no text]",
+"href": "https://www.pironiforny.com/volunteer"
+}
 ]

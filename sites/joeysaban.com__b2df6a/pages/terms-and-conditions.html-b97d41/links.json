@@ -1,10 +1,50 @@
 [
-"https://joeysaban.com/about.html",
-"https://joeysaban.com/contact.html",
-"https://joeysaban.com/donate.html",
-"https://joeysaban.com/fighting-antisemitism.html",
-"https://joeysaban.com/index.html",
-"https://joeysaban.com/issues.html",
-"https://joeysaban.com/privacy-policy.html",
-"https://joeysaban.com/terms-and-conditions.html"
+{
+"text": "About",
+"href": "https://www.joeysaban.com/about.html"
+},
+{
+"text": "About Joey",
+"href": "https://www.joeysaban.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.joeysaban.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.joeysaban.com/donate.html"
+},
+{
+"text": "Fight Antisemitism",
+"href": "https://www.joeysaban.com/fighting-antisemitism.html"
+},
+{
+"text": "Home",
+"href": "https://www.joeysaban.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.joeysaban.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://www.joeysaban.com/privacy-policy.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joeysaban.com/privacy-policy.html"
+},
+{
+"text": "Terms",
+"href": "https://www.joeysaban.com/terms-and-conditions.html"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.joeysaban.com/terms-and-conditions.html"
+},
+{
+"text": "[image: Saban for Brooklyn]",
+"href": "https://www.joeysaban.com/index.html"
+}
 ]

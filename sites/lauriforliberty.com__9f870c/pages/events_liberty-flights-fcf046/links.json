@@ -1,22 +1,90 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=Liberty+Flights&dates=20251115T230000Z%2F20251116T020000Z",
-"https://donorbox.org/events/829367",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/liberty-flights?format=ical",
-"https://lauriforliberty.com/events/summer-kickoff-party",
-"https://lauriforliberty.com/events/tasting-liberty",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Get Your Tickets",
+"href": "https://donorbox.org/events/829367"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Liberty+Flights&dates=20251115T230000Z%2F20251116T020000Z"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/liberty-flights?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Next Next June 20 Summer Kickoff Party",
+"href": "https://www.lauriforliberty.com/events/summer-kickoff-party"
+},
+{
+"text": "Previous Previous October 20 Tasting Liberty",
+"href": "https://www.lauriforliberty.com/events/tasting-liberty"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+}
 ]

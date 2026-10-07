@@ -1,7 +1,5 @@
-Says ‘We need an Attorney General who will back law enforcement, stand for law and order by cracking down on crime and corruption, and fight the liberal agenda of the Biden/Harris Administration in court’
-LITTLE ROCK – Lt.
-Governor Tim Griffin issued the following statement announcing his campaign for attorney general:
-“Since announcing my campaign for governor last year, I’ve been overwhelmed by the incredible support I have received from all corners of the state.
+Skip to primary navigation Skip to main content Skip to primary sidebar Skip to footer Home Meet Tim Join our Team Donate Contact Campaign News Search Griffin Announces Campaign for Attorney General February 8, 2021 by Tim Griffin for Attorney General Says ‘We need an Attorney General who will back law enforcement, stand for law and order by cracking down on crime and corruption, and fight the liberal agenda of the Biden/Harris Administration in court’ LITTLE ROCK – Lt.
+Governor Tim Griffin issued the following statement announcing his campaign for attorney general: “Since announcing my campaign for governor last year, I’ve been overwhelmed by the incredible support I have received from all corners of the state.
 While I believe Arkansans are ready for my message of bold, conservative leadership, my conversations with friends and supporters have persuaded me that at this time, I can do more for Arkansas in a different capacity.
 I have prayed about this decision with my family and I have listened.
 Today I am announcing my campaign for Attorney General of Arkansas.
@@ -11,10 +9,8 @@ Attorney and an Army JAG officer for the past 25 years, I have prosecuted those 
 I fought the Obama/Biden agenda as a member of Congress and I’ll fight to stop the Biden-Harris administration’s infringement on the rights of Arkansans.
 And just as I have done as your Lt.
 Governor, I will find ways to cut waste, save taxpayer money, and deliver results for the people of Arkansas.
-I humbly ask for your prayers and support as I seek the office of attorney general.”
-About Lt.
-Governor Tim Griffin
-Tim Griffin grew up in Magnolia, Arkansas, a fifth-generation Arkansan and the youngest son of a minister and teacher.
+I humbly ask for your prayers and support as I seek the office of attorney general.” About Lt.
+Governor Tim Griffin Tim Griffin grew up in Magnolia, Arkansas, a fifth-generation Arkansan and the youngest son of a minister and teacher.
 He was first elected the lieutenant governor of Arkansas on November 4, 2014 and is currently serving his second four-year term.
 He is focused on growing jobs through aggressively pursuing economic development, more parental choice in education and boldly reforming state government.
 From 2011-2015, Griffin served as the 24th representative of Arkansas’s Second Congressional District.
@@ -33,3 +29,12 @@ He graduated from Magnolia High School, Hendrix College, Tulane Law School, and 
 He currently serves on the boards of Our House shelter for the working homeless and Pathway to Freedom, a faith-based prison ministry, and previously served on the boards of Big Brothers Big Sisters of Central Arkansas and the Florence Crittenton Home.
 His wife Elizabeth is from Camden, and they live in Little Rock with their three children, Mary Katherine, John, and Charlotte Anne.
 They are members of Immanuel Baptist Church.
+Filed Under: News Next Post: Louisiana Attorney General Jeff Landry Endorses Tim Griffin for Attorney General » Primary Sidebar Used for the like, share, comment, and reaction icons This message is only visible to admins.
+Problem displaying Facebook posts.
+Error: Server configuration issue Campaign News AG-elect Griffin Announces Senior Staff and Restructuring December 9, 2022 Bewley to Join AG-Elect Griffin’s Staff As Chief of Investigations December 1, 2022 A Plan For A Safer Arkansas October 24, 2022 Twitter feed is not available at the moment.
+Footer Attorney General Griffin is currently an officer in the Arkansas Army National Guard and holds the rank of colonel.
+He served as an officer in the U.S.
+Army Reserve Judge Advocate General’s (JAG) Corps for more than 28 years.
+In 2005, he was mobilized to active duty as an Army prosecutor at Fort Campbell, Kentucky, and served with the 101st Airborne Division (Air Assault) in Mosul, Iraq.
+Use of Attorney General Griffin’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Paid for by Tim Griffin for Attorney General | Privacy Policy

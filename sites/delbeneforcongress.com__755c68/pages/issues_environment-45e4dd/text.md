@@ -1,5 +1,4 @@
-Energy, Environment, and Climate Change
-The Pacific Northwest is already experiencing the impacts of climate change.
+Explore → Donate Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up ← Close Issues Energy, Environment, and Climate Change The Pacific Northwest is already experiencing the impacts of climate change.
 Growing wildfire seasons and changing ocean conditions harm our communities and environment.
 We need meaningful action now to combat climate change to protect our health, wellbeing, and natural resources.
 Washington is a leader in the emerging green economy.
@@ -10,4 +9,4 @@ It’s urgent that we transform our economy into one based on clean and renewabl
 I introduced legislation that would make American companies more competitive in the global marketplace and reduce greenhouse gas emissions by imposing a fee on carbon-intensive imports.
 This critical legislation would help level the playing field for domestic manufacturers who are decarbonizing but being undercut by dirtier goods produced abroad.
 These are all bold steps in the right direction, but more will still need to be done.
-I will continue working with my colleagues to build a new green economy and find innovative solutions to address climate change that will ensure our energy independence, protect our health, and preserve our planet for the future.
+I will continue working with my colleagues to build a new green economy and find innovative solutions to address climate change that will ensure our energy independence, protect our health, and preserve our planet for the future. ← Back to All Issues Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up Privacy Policy Paid for by DelBene for Congress PO Box 477 Kirkland, WA 98083 (425) 483-1500

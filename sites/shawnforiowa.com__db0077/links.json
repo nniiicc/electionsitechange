@@ -1,19 +1,90 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdSLoBAwwaqYBmkfX1fxOCrX2Y03AnS4PrwqPzGn8xSrGkf7Q/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdSLoBAwwaqYBmkfX1fxOCrX2Y03AnS4PrwqPzGn8xSrGkf7Q/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSdhSnkth7XD8ZJoTAGUH0broKnVOeG9-liNVvxxPAwhGjUsYQ/viewform?usp=sf_link",
-"https://docs.google.com/forms/d/e/1FAIpQLSevqd53Ycuii-dm1BhFTZNdL0aySXtIucyYkIYTr560mbIbrg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSevqd53Ycuii-dm1BhFTZNdL0aySXtIucyYkIYTr560mbIbrg/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSfh3ciU3K61pOdDLoVGfSiB6m0ZP8BpeifPQUAJeJ7RySwgLA/viewform?usp=sf_link",
-"https://facebook.com/ShawnForIowa",
-"https://instagram.com/shawnforiowa",
-"https://secure.actblue.com/entity/fundraisers/157373",
-"https://shawnforiowa.com/",
-"https://shawnforiowa.com/iowa-voices",
-"https://shawnforiowa.com/the-dude-2",
-"https://shawnforiowa.com/wp-content/uploads/2026/08/CancerEnvironment.mp4",
-"https://shawnforiowa.com/wp-content/uploads/2026/08/GivingAwayIowasWater.mp4",
-"https://shawnforiowa.com/wp-content/uploads/2026/08/IowaWaterIsSafeComment.mp4",
-"https://shawnforiowa.com/wp-content/uploads/2026/08/UpdatedAquifer.mp4",
-"https://twitter.com/ShawnForIowa"
+{
+"text": "Bremer County Gear Request Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSevqd53Ycuii-dm1BhFTZNdL0aySXtIucyYkIYTr560mbIbrg/viewform"
+},
+{
+"text": "Butler County Gear Request Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSLoBAwwaqYBmkfX1fxOCrX2Y03AnS4PrwqPzGn8xSrGkf7Q/viewform"
+},
+{
+"text": "Connect Today Connect Today",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfh3ciU3K61pOdDLoVGfSiB6m0ZP8BpeifPQUAJeJ7RySwgLA/viewform?usp=sf_link"
+},
+{
+"text": "Contact Contact",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfh3ciU3K61pOdDLoVGfSiB6m0ZP8BpeifPQUAJeJ7RySwgLA/viewform?usp=sf_link"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/entity/fundraisers/157373#page"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ShawnForIowa/"
+},
+{
+"text": "Gear Request - Bremer County Gear Request - Bremer County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSevqd53Ycuii-dm1BhFTZNdL0aySXtIucyYkIYTr560mbIbrg/viewform?usp=header"
+},
+{
+"text": "Gear Request - Butler County Gear Request - Butler County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSLoBAwwaqYBmkfX1fxOCrX2Y03AnS4PrwqPzGn8xSrGkf7Q/viewform?usp=header"
+},
+{
+"text": "Home",
+"href": "https://shawnforiowa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/shawnforiowa/"
+},
+{
+"text": "Iowa Voices",
+"href": "https://shawnforiowa.com/iowa-voices/"
+},
+{
+"text": "Make a Donation Make a Donation",
+"href": "https://secure.actblue.com/entity/fundraisers/157373#page"
+},
+{
+"text": "Request Gear Bremer County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSevqd53Ycuii-dm1BhFTZNdL0aySXtIucyYkIYTr560mbIbrg/viewform?usp=header"
+},
+{
+"text": "Request Gear Butler County",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSLoBAwwaqYBmkfX1fxOCrX2Y03AnS4PrwqPzGn8xSrGkf7Q/viewform?usp=header"
+},
+{
+"text": "Show your support Show your support",
+"href": "https://secure.actblue.com/entity/fundraisers/157373#page"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdhSnkth7XD8ZJoTAGUH0broKnVOeG9-liNVvxxPAwhGjUsYQ/viewform?usp=sf_link"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/ShawnForIowa"
+},
+{
+"text": "[no text]",
+"href": "https://shawnforiowa.com/wp-content/uploads/2026/08/CancerEnvironment.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://shawnforiowa.com/wp-content/uploads/2026/08/GivingAwayIowasWater.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://shawnforiowa.com/wp-content/uploads/2026/08/IowaWaterIsSafeComment.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://shawnforiowa.com/wp-content/uploads/2026/08/UpdatedAquifer.mp4"
+},
+{
+"text": "“The Dude”",
+"href": "https://shawnforiowa.com/the-dude-2/"
+}
 ]

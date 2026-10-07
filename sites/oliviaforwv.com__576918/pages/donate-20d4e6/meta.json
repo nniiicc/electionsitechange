@@ -1,7 +1,11 @@
 {
  "description": "Support Olivia Miller's campaign for District 80 with your donation. Every contribution helps build a community-driven future in West Virginia ahead of the May 12, 2026 election.",
  "final_url": "https://www.oliviaforwv.com/donate",
+ "fingerprint": "38684b662c2a35a0dd1f6439e25fbf91f72466d0",
+ "format": 3,
  "paid_for_by": "PAID FOR BY OLIVIA MILLER FOR WV",
  "title": "Olivia Miller for West Virginia House of Delegates | District 80",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

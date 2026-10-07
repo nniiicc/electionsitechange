@@ -1,5 +1,4 @@
-Week 14 Legislative Update: Voter Rolls, Free Speech, Budget Veto & Informed Consent
-I want to share an important update on House Bill 2437 and why I supported the Legislature’s override of the Governor’s veto.
+Week 14 Legislative Update: Voter Rolls, Free Speech, Budget Veto & Informed Consent Legislative Updates | Policy Priorities | District News | Statewide Issues | Personal Reflections April 19, 2026 • 7 min read I want to share an important update on House Bill 2437 and why I supported the Legislature’s override of the Governor’s veto.
 Keeping our voter rolls accurate is one of the most basic ways we ensure trust in our elections.
 Over time, records can become outdated when people move, pass away, or are no longer eligible to vote.
 This bill is about making sure we are using the tools available to keep those records current.
@@ -12,8 +11,7 @@ The legislation requires that sensitive data used in these checks be handled sec
 I supported this measure because it focuses on doing the fundamentals well—maintaining accurate voter rolls without creating unnecessary barriers for eligible voters.
 The veto override passed with strong support: 84–39 in the House and 28–11 in the Senate.
 My goal remains the same: to support policies that ensure our elections are secure, transparent, and accessible to every eligible voter.
-KIRK Act Override
-I supported the Legislature’s override of the Governor’s veto on House Bill 2333 because our colleges and universities should be places where ideas can be freely discussed, challenged, and debated.
+KIRK Act Override I supported the Legislature’s override of the Governor’s veto on House Bill 2333 because our colleges and universities should be places where ideas can be freely discussed, challenged, and debated.
 There have been growing concerns that free speech on campus is not always applied consistently, with some students and organizations facing limits on where and how they can express lawful viewpoints.
 That undermines the purpose of higher education, which is to prepare students to engage with diverse perspectives.
 This law establishes clear protections for free expression at public colleges and universities.
@@ -23,8 +21,7 @@ Schools may enforce reasonable time, place, and manner restrictions, but those p
 It further strengthens accountability by creating a path for enforcement when rights are violated, including action by individuals or the Attorney General.
 Student organizations are also protected from discrimination based on their political, ideological, or religious beliefs.
 For students and families, this means greater confidence that Kansas colleges will respect free speech, encourage open dialogue, and remain accountable to the people they serve.
-Rebuttal to the Governor’s Line-Item Veto of Section 26(a): Employee Compensation
-I want to take a moment to clearly explain the Governor’s recent veto of the Legislature’s budget and what it means for the operation of state government.
+Rebuttal to the Governor’s Line-Item Veto of Section 26(a): Employee Compensation I want to take a moment to clearly explain the Governor’s recent veto of the Legislature’s budget and what it means for the operation of state government.
 The Governor line-item vetoed $24.7 million from the Legislature’s operating budget and eliminated the entire FY 2027 legislative budget of $38.2 million.
 This action removes a substantial portion of the funding required for the Legislature to function as a co-equal branch of government.
 This veto is not simply about legislator pay.
@@ -60,8 +57,7 @@ Taken together, these are not comparable figures.
 The Legislature has pursued a balanced and fiscally responsible approach, improving compensation across government while remaining mindful of taxpayers.
 Kansans deserve the full picture.
 I will continue working to ensure transparency, responsible budgeting, and that state government remains capable of effectively serving the people of Kansas.
-Women’s Right to Know: Strengthening Informed Consent
-I supported the override of the Governor’s veto on House Bill 2729 because I believe informed consent must be clear, consistent, and truly meaningful—especially when the decision involves the life of an unborn child.
+Women’s Right to Know: Strengthening Informed Consent I supported the override of the Governor’s veto on House Bill 2729 because I believe informed consent must be clear, consistent, and truly meaningful—especially when the decision involves the life of an unborn child.
 Kansas law already requires that women receive certain information before an abortion so they can make an informed decision.
 This is an important safeguard, not only for women, but also in recognition of the value of every human life.
 However, the way information has been delivered has not always been consistent or easy to understand.
@@ -76,9 +72,11 @@ There were differing views on this bill, but I supported it because it strengthe
 The Legislature ultimately overrode the veto with strong support—87 to 36 in the House and 31 to 8 in the Senate.
 For our community, this means clearer information, greater transparency, and a more reliable process for ensuring that women receive the facts they need.
 I will continue working to support policies that protect life, uphold informed consent, and ensure our laws serve both compassion and truth.
-Closing
-Thank you for your continued support—it truly means a great deal.
+Closing Thank you for your continued support—it truly means a great deal.
 If you ever have questions, concerns, or ideas you would like to share, please do not hesitate to reach out.
 Hearing from you helps ensure that the work being done reflects the needs and priorities of our communities.
 I remain committed to serving you and all the people of Kansas with integrity, transparency, and dedication.
-Your trust is something I value deeply, and I will continue working every day to earn it.
+Your trust is something I value deeply, and I will continue working every day to earn it. kansas legislative update kansas politics 2026 Kansas House bills 2026 voter roll maintenance Kansas Kansas Budget veto Kansas Free Speech Campus Law Kansas voter registration law election integrity kansas Dale Helwig Dale Helwig is the Kansas State Representative for District 1, dedicated to serving his constituents with transparency, integrity, and a commitment to reducing government overreach.
+A lifelong Kansan, Dale focuses on policies that improve lives, support local communities, and ensure responsible governance.
+When he’s not in Topeka, Dale enjoys connecting with residents and spending time with his family.
+Back to top Back to Blog

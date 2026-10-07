@@ -1,7 +1,9 @@
 {
  "description": "View campaign photos and media from Cinthia Moore's race for Nevada Assembly District 11. Download high-resolution images for press and media use.",
  "final_url": "https://www.cinthiamoore.com/media",
- "paid_for_by": null,
+ "fingerprint": "52b7f455a8aac77adeb0dcf83145af0e3d76d13c",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Cinthia Moore PO Box 363951, North Las Vegas, NV 89036 www",
  "title": "Media | Cinthia Moore for Nevada Assembly District 11",
  "years_mentioned": []
 }

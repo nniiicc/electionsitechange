@@ -1,21 +1,10 @@
-Aims to Deliver for Minnesota on Fighting Fraud, Protecting Taxpayer Dollars
-MAPLE GROVE, MN — On Wednesday, DFL candidate Kristy Janigo running for state senate in District 37 launched her first campaign ad focusing on fighting fraud, protecting taxpayer dollars and holding bad actors accountable, to make life better for Minnesotans.
+Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate Kristy Janigo Releases First Campaign Ad Aims to Deliver for Minnesota on Fighting Fraud, Protecting Taxpayer Dollars MAPLE GROVE, MN — On Wednesday, DFL candidate Kristy Janigo running for state senate in District 37 launched her first campaign ad focusing on fighting fraud, protecting taxpayer dollars and holding bad actors accountable, to make life better for Minnesotans.
 Disclaimer: Images of The American Legion flag do not represent an endorsement by the Legion or any other organization.
 In the ad, Janigo highlights her experience as an elected official on the Maple Grove City Councilmember, as a veterans advocate with a bipartisan track record, and her work experience that makes her the right person to prevent fraud and hold criminals accountable.
 Kristy is ready to collaborate with both parties to pass laws that strengthen government accountability and transparency, prioritizing service and effective policy.
-Transcript
-I’m Kristy Janigo
-I served in the Army National Guard for six years.
-For the past four years, I’ve been a Maple Grove City Councilmember
-And at my day job, I ensure those in need of behavioral health services
-Get the help they need
-While protecting taxpayer dollars from waste.
-I know how to spot and fight fraud
-And hold bad actors accountable
-No matter who they are
-And that’s what I’ll do as your State Senator
-ABOUT KRISTY JANIGO
-Kristy was raised in small towns throughout North Dakota.
+Transcript I’m Kristy Janigo I served in the Army National Guard for six years.
+For the past four years, I’ve been a Maple Grove City Councilmember And at my day job, I ensure those in need of behavioral health services Get the help they need While protecting taxpayer dollars from waste.
+I know how to spot and fight fraud And hold bad actors accountable No matter who they are And that’s what I’ll do as your State Senator ABOUT KRISTY JANIGO Kristy was raised in small towns throughout North Dakota.
 As the daughter of two teachers, she learned the importance of hard work and a quality education from an early age.
 From the military to city council, she has dedicated her life to helping others through public service and is running for the Minnesota Senate to continue serving her community.
 Kristy joined the North Dakota Army National Guard when she was just 17 years old and still in high school, making her a third generation Army soldier.
@@ -25,8 +14,7 @@ As a county veterans service officer, Kristy was part of the effort to reach an 
 She serves as a contract manager where she conducts site visits and financial reviews with a behavioral health services portfolio, ensuring the integrity of county government programs.
 Kristy was elected to Maple Grove City Council in 2022, where she now serves as liaison to the Planning Commission and the Transit and Mobility Committee.
 For three years, Kristy served as a volunteer legislative advocate for two statewide veterans nonprofits at the State Capitol and gained experience drafting bills, seeing them through the committee process, and persuading authors to sign on.
-Through her work at the city, county, and legislature, Kristy understands the complex challenges we face and will work to improve the lives of Minnesotans
-CONTACT
-Hannah Reynolds
-(320) 428-1450
-hannah@senatedflcaucus.com
+Through her work at the city, county, and legislature, Kristy understands the complex challenges we face and will work to improve the lives of Minnesotans CONTACT Hannah Reynolds (320) 428-1450 hannah@senatedflcaucus.com Download Press Release Previous Kristy Janigo delivers keynote speech for Allied Charities of MN Conference View Press Photos Categories News Press Release Share Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Share on LinkedIn (Opens in new window) LinkedIn Share on X (Opens in new window) X Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
+Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

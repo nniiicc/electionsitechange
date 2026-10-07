@@ -1,4 +1,4 @@
-AUBURN, N.H. – House Majority Leader Jason Osborne today pointed to the Democratic primary for United States Senate, where democratic socialist Karishma Manzur took nearly one in three votes against Congressman Chris Pappas, as the clearest available measure of what New Hampshire Republicans are running against this fall.
+Skip to content Home News About Speaker’s Campaign Donate Osborne: “One In Three Democrats Just Voted For A Socialist” AUBURN, N.H. – House Majority Leader Jason Osborne today pointed to the Democratic primary for United States Senate, where democratic socialist Karishma Manzur took nearly one in three votes against Congressman Chris Pappas, as the clearest available measure of what New Hampshire Republicans are running against this fall.
 Osborne thanked every Republican who ran on Tuesday, recognized the members who will not be returning to the House next year, and called on Republicans to unite behind the party’s nominees ahead of the November 3 general election.
 “Nearly one in three Democrats who voted yesterday voted for a socialist.
 That is not a fringe and it is not a protest.
@@ -24,4 +24,4 @@ We will do that work because we have done it before, and because the alternative
 Whoever you supported in the primary, there is a Republican candidate in your district who needs doors knocked, calls made, and money raised between now and November 3rd.
 I will be on the road in the districts that decide the majority, and I am asking every Republican in this state to join me.
 “We hold this majority together or not at all.
-Let’s go win in November.”
+Let’s go win in November.” Paid for by Friends of Jason Osborne 65 Miner Rd Auburn NH 03032 Chairman Jason Osborne Jason@Osborne4NH.com 603 391 2138 © # Friends of Jason Osborne Privacy Policy Search for:

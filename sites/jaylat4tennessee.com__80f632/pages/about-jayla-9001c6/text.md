@@ -1,4 +1,4 @@
-WHO IS JAYLA THOMAS?
+0 Skip to Content Home About Jayla Issues Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Jayla Issues Volunteer Contact Donate Home About Jayla Issues Volunteer Contact Donate WHO IS JAYLA THOMAS?
 Jayla Thomas is a business leader, energy advocate, and community focused problem solver who believes leadership means running toward hard challenges, not away from them.
 Born and raised in Las Vegas, Nevada, and educated in New York, Jayla has seen firsthand what happens when growth is pursued without guardrails.
 From a young age, she knew she wanted to make Nashville her home, a city defined by culture, community, and character.
@@ -30,7 +30,7 @@ Her perspective as an outsider is not a weakness, it is her strength.
 She has seen what failure looks like in other places, and she is committed to fighting so Nashville does not repeat those mistakes.
 Her leadership is rooted in foresight, accountability, and a deep belief that progress should strengthen communities, not erase them.
 At her core, Jayla Thomas is a builder of businesses, systems, and communities, and a leader determined to protect Nashville’s future by learning from the past.
-Contact us
-Interested in working together?
+Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Jaylat4tennessee FAQ | Privacy Policy | Terms and Condition Donate Location District 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Paid for by Friends of Jayla Thomas Committee Ryan Paradis, Treasurer Contact jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Español

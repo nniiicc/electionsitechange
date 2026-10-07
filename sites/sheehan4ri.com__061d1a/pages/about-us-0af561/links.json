@@ -1,10 +1,34 @@
 [
-"https://sheehan4ri.com/",
-"https://sheehan4ri.com/about-us",
-"https://sheehan4ri.com/blank",
-"https://sheehan4ri.com/blank-1",
-"https://sheehan4ri.com/blank-2",
-"https://sheehan4ri.com/donate",
-"https://sheehan4ri.com/issues",
-"https://sheehan4ri.com/volunteer"
+{
+"text": "About Jim",
+"href": "https://www.sheehan4ri.com/about-us"
+},
+{
+"text": "Campaign Issues",
+"href": "https://www.sheehan4ri.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://www.sheehan4ri.com/blank-2"
+},
+{
+"text": "Contributions",
+"href": "https://www.sheehan4ri.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.sheehan4ri.com"
+},
+{
+"text": "My Resume",
+"href": "https://www.sheehan4ri.com/blank-1"
+},
+{
+"text": "Senate Record",
+"href": "https://www.sheehan4ri.com/volunteer"
+},
+{
+"text": "Why Running?",
+"href": "https://www.sheehan4ri.com/blank#Section"
+}
 ]

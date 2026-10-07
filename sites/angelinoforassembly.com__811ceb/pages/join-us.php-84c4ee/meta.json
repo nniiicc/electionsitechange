@@ -1,7 +1,9 @@
 {
  "description": "Use our contact form to ask a question or volunteer to help get Joe Angelino elected to the NY state Assembly",
  "final_url": "https://www.angelinoforassembly.com/join-us.php",
- "paid_for_by": null,
+ "fingerprint": "ac30d196c4707ae696a6c13ba3256200c02f2329",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Joe Angelino for NY Assembly",
  "years_mentioned": []
 }

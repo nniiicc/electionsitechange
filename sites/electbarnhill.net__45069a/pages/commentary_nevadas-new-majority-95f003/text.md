@@ -1,5 +1,4 @@
-Why Independent Voters Will Decide the Future
-For decades, Nevada politics has been framed as a fight between Democrats and Republicans.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Nevada’s New Majority electbarnhill May 30, 2026 0 Comments Why Independent Voters Will Decide the Future For decades, Nevada politics has been framed as a fight between Democrats and Republicans.
 Turn on the television.
 Open social media.
 Listen to the political consultants.
@@ -10,8 +9,7 @@ Together, we outnumber both Democrats and Republicans.
 Think about that for a moment.
 The largest voting bloc in Nevada is no longer either major party.
 It’s us.
-The Two-Party System No Longer Represents Nevada
-For years, voters have been told they only have two choices.
+The Two-Party System No Longer Represents Nevada For years, voters have been told they only have two choices.
 Pick one side.
 Vote for the lesser of two evils.
 Accept candidates chosen by party insiders.
@@ -24,8 +22,7 @@ Millions of Americans feel the same way.
 They are not extremists.
 They are not disengaged.
 They are citizens who want practical solutions instead of partisan warfare.
-Nevada Needs Problem Solvers, Not Professional Politicians
-For 20 years, I have worked as a computer systems analyst, helping organizations solve complex problems.
+Nevada Needs Problem Solvers, Not Professional Politicians For 20 years, I have worked as a computer systems analyst, helping organizations solve complex problems.
 For more than 20 years, I have worked as a litigation paralegal drafting legal documents, analyzing statutes, and helping navigate complicated legal systems.
 My career has not been built on political speeches.
 It has been built on identifying problems, understanding systems, and developing solutions that work.
@@ -34,19 +31,16 @@ The Secretary of State is not simply a ceremonial position.
 The office oversees elections, business filings, and several important state functions that affect every Nevadan.
 These responsibilities require someone who understands systems, processes, compliance, and implementation.
 Not just politics.
-Election Integrity Requires More Than Talking Points
-Nevadans deserve confidence in their elections.
+Election Integrity Requires More Than Talking Points Nevadans deserve confidence in their elections.
 That confidence is earned through transparency, accountability, and clear rules that are applied fairly and consistently.
 If Nevada voters approve Question 7 and amend the Nevada Constitution to require voter identification, the next Secretary of State will be responsible for helping implement those requirements.
 As a litigation paralegal with decades of experience working with statutory language and legal procedures, I am prepared to help develop practical implementation policies that protect both election security and voter access.
-The goal should be simple:
-Secure elections.
+The goal should be simple: Secure elections.
 Accessible voting.
 Public confidence.
 No political theater.
 Just results.
-Independent Voters Will Decide Nevada’s Future
-The old political map is changing.
+Independent Voters Will Decide Nevada’s Future The old political map is changing.
 More Nevadans are rejecting rigid partisan labels.
 More voters are registering outside the major parties.
 More citizens are demanding accountability instead of excuses.
@@ -55,15 +49,17 @@ It will be decided by citizens who think independently and vote independently.
 That future is already here.
 The numbers prove it.
 The question is whether independent-minded voters will recognize their own strength.
-Join the Movement
-If you’re tired of being told you only have two choices…
-If you’re tired of politics that produces more division than solutions…
-If you believe Nevada deserves competent administration, election integrity, and government accountability…
-I invite you to join this campaign.
+Join the Movement If you’re tired of being told you only have two choices… If you’re tired of politics that produces more division than solutions… If you believe Nevada deserves competent administration, election integrity, and government accountability… I invite you to join this campaign.
 The largest voting bloc in Nevada is no longer Democrat or Republican.
 It’s independent.
 And together, we can build a government that works for all Nevadans.
 I am Brad Lee Barnhill, Independent American Party candidate for Nevada Secretary of State.
 I am #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-See my full policy positions and background.
+See my full policy positions and background .
+Share: Categories: Announcements Commentary Post navigation Previous Previous post: Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?
+Next Next post: Brad Lee Barnhill Announces Candidacy for Nevada Secretary of State as #YourIndependentVoice footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Results, Not Noise.
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
+Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

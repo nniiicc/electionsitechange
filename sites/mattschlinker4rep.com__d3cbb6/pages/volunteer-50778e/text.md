@@ -1,3 +1,12 @@
 Follow our Campaign Socials!
+Menu Home Meet Matt PRIORITIES Endorsements VOTER 101 Events Volunteer In the News Donate!
+Follow our Campaign Socials!
+Donate!
 We need people power to keep this campaign moving!
-Follow us on the campaign trail!
+Get Involved!
+VOLUNTEER NOW!
+Stay Up To Date Follow us on the campaign trail!
+Donate!
+Follow our Campaign Socials!
+Home Meet Matt PRIORITIES Endorsements VOTER 101 Events Volunteer In the News Donate!
+Paid for by friends of matt schlinker 10457 Valley Creek Dr., Goodrich, MI 48438 Matt Schlinker for State Representative | District 68 © # Accessibility Statement Terms of Service Contact

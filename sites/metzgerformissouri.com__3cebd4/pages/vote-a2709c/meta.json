@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://metzgerformissouri.com/vote",
- "paid_for_by": null,
+ "fingerprint": "7786bb7703df93fdd10fc5e2cc11ac3046a96ab6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

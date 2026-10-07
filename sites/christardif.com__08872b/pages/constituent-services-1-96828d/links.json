@@ -1,16 +1,66 @@
 [
-"https://christardif.com/about",
-"https://christardif.com/constituent-services-1",
-"https://christardif.com/donate-1",
-"https://christardif.com/events-1",
-"https://christardif.com/get-a-yard-sign",
-"https://christardif.com/home",
-"https://facebook.com/profile.php?id=61572988994834",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/chrisfromatkinson",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/chris-tardif-3",
-"https://tiktok.com/@cdt603?_t=ZP-90dPFtDAJKR&_r=1",
-"https://youtube.com/@chrisfromatkinson"
+{
+"text": "603.333.5900",
+"href": "tel:6033335900"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chris-tardif-3"
+},
+{
+"text": "Get a yard sign!",
+"href": "https://christardif.com/get-a-yard-sign"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Chris Tardif]",
+"href": "https://christardif.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61572988994834"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisfromatkinson/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@cdt603?_t=ZP-90dPFtDAJKR&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@chrisfromatkinson"
+},
+{
+"text": "about",
+"href": "https://christardif.com/about"
+},
+{
+"text": "constituent services",
+"href": "https://christardif.com/constituent-services-1"
+},
+{
+"text": "donate",
+"href": "https://christardif.com/donate-1"
+},
+{
+"text": "events",
+"href": "https://christardif.com/events-1"
+},
+{
+"text": "home",
+"href": "https://christardif.com/home"
+}
 ]

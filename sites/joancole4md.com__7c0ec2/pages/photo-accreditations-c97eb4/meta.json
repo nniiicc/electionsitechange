@@ -1,7 +1,9 @@
 {
- "description": "View photo credits and accreditation information for images used on Joan Barone Cole\u2019s campaign website.",
+ "description": "View photo credits and accreditation information for images used on Joan Barone Cole’s campaign website.",
  "final_url": "https://www.joancole4md.com/photo-accreditations",
- "paid_for_by": null,
+ "fingerprint": "619c74aba54841d9b24f1ebcd15cc6db256eb703",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Accreditation | JoanCole4MD",
  "years_mentioned": []
 }

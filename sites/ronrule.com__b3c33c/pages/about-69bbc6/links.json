@@ -1,12 +1,50 @@
 [
-"https://donate.stripe.com/14A4gs8QDe2y4Lbc2pbsc05",
-"https://friendlymeals.org/",
-"https://nharsenal.com/",
-"https://ronrule.com/",
-"https://ronrule.com/about",
-"https://ronrule.com/contact",
-"https://ronrule.com/donate",
-"https://ronrule.com/issues",
-"https://sullivannhgop.com/donate",
-"https://x.com/ronrule"
+{
+"text": "$#",
+"href": "https://ronrule.com/donate"
+},
+{
+"text": "@ronrule on X",
+"href": "https://x.com/ronrule"
+},
+{
+"text": "About Ron",
+"href": "https://ronrule.com/about"
+},
+{
+"text": "Contact",
+"href": "https://ronrule.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://ronrule.com/donate"
+},
+{
+"text": "Fall Mountain Friendly Meals",
+"href": "https://friendlymeals.org"
+},
+{
+"text": "Home",
+"href": "https://ronrule.com/"
+},
+{
+"text": "Issues",
+"href": "https://ronrule.com/issues"
+},
+{
+"text": "New Hampshire Arsenal",
+"href": "https://nharsenal.com"
+},
+{
+"text": "Other Amount",
+"href": "https://ronrule.com/donate"
+},
+{
+"text": "Ron Rule For NH State House · Sullivan District 4",
+"href": "https://ronrule.com/"
+},
+{
+"text": "Sullivan GOP",
+"href": "https://sullivannhgop.com/donate/"
+}
 ]

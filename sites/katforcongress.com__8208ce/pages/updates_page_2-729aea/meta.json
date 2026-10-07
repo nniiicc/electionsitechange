@@ -1,7 +1,11 @@
 {
  "description": "Get the latest news and updates directly from the Kat Cammack for Congress campaign.",
  "final_url": "https://katforcongress.com/updates/page/2/",
- "paid_for_by": "PAID FOR BY KAT FOR CONGRESS Privacy Policy | Terms of Use",
+ "fingerprint": "59de9265cf77dd793f32ec04b3d86b3603e67b9a",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY KAT FOR CONGRESS Privacy Policy",
  "title": "News & Updates | Kat Cammack",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

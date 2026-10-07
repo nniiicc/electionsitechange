@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://russellholmes.com/category/news/",
- "paid_for_by": null,
+ "fingerprint": "6c361e7f59cd5362756226ca6c32d282e1b96184",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Vote Russell Holmes",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023",
+  "2024"
+ ]
 }

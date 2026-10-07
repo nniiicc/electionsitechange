@@ -1,58 +1,10 @@
-The Issues That Matter
-A Real Agenda for New York
-Protect the Paycheck
-- Protect the Paycheck – allow people to keep more of what they earn by reducing the federal income tax on W-2 wages.
-Work is good—let’s reward it, not penalize it through a burdensome tax code
-- Build Baby Build – supply-side solutions, not communist price controls.
-Reduce housing costs and increase opportunity for ownership by increasing the supply of high-quality, affordable housing.
+Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate What Caroline Will Fight For Caroline Shinkle's Priorities The Issues That Matter A Real Agenda for New York Protect the Paycheck Protect the Paycheck – allow people to keep more of what they earn by reducing the federal income tax on W-2 wages.
+Work is good—let’s reward it, not penalize it through a burdensome tax code ‍ Build Baby Build – supply-side solutions, not communist price controls. ‍ Reduce housing costs and increase opportunity for ownership by increasing the supply of high-quality, affordable housing.
 Leverage advanced technology to build more housing more quickly and more cost-efficiently.
 Repurpose unused office space, streamline permitting, and advocate for upzoning near transit corridors.
-Encourage private ownership (not collectivism) and investment to increase supply and incentivize moratorium on property taxes and development fees
-- Support strategic, common-sense deregulation to allow industry and innovation to flourish and combat the mass exodus of jobs, opportunity, investment, and capital out of New York City
-- Balance the federal budget through balanced budget amendments and zero-based budgeting to keep Washington spending in check, help cure inflation, and drive down the cost of capital
-- Lower the cost of living through increasing energy production and promoting an all-energy-options-on-the-table approach and common-sense, strategic deregulation
-Prioritize our Students
-- Revamp and revitalize the quality and affordability of our education system.
-Treat education expenses like business expenses and reward students who invest in themselves by making the interest on student loan payments fully tax deductible, with no income caps
-- Foster excellence by treating every student like an honors student and leveraging best practices to improve student outcomes.
-Integrate technology and innovation to enhance the classroom experience and provide tailored resources to students
-- Empower parents with school choice and greater curriculum transparency
-- Invest in trades and vocational training to create pathways to high-paying careers for all students
-- Invest in STEM education and marketable skills for the 21st century to prepare our students for success
-Restore Safety and Security
-- Prioritize the safety and security of New Yorkers and their livelihoods through a pro-safety, pro-community law enforcement agenda
-- Champion, support, and empower our law enforcement officers and first responders
-- End the revolving-door policies that return violent offenders to our streets
-- Ensure federal prosecutors have the resources to tackle crime including retail theft, drug trafficking, and subway assaults
-- Expand mental health programs
-- Address homelessness with federal incentives for cities to offer voluntary gig economy work to individuals able to reenter the work force
-- Restore accountability to the criminal justice system
-Fight Antisemitism
-- Track down and prosecute the sources of funds supporting antisemitic violence
-- Unapologetically stand with the Jewish community of New York City and our ally Israel
-Enhance Healthcare
-- Reintroduce competition into the healthcare marketplace and enhance price transparency to ensure the system works for patients and providers, not just the insurance companies
-- Pass the Access to Breast Cancer Diagnosis Act
-- Root out the fraud and corruption riddled throughout our healthcare insurance industry to ensure our safety net is available to those who truly need it and to ensure the hardworking American taxpayer is not being forced to finance fraud
-Stronger at Home, Stronger Abroad
-- Protect the homeland through a peace through prosperity and peace through strength agenda
-- Stand with our allies by leveraging our unique position on the world stage to strategically promote the principles upon which our country was founded
-- Diplomacy via strategic economic policy to exert pressure on our adversaries
-- Incentivize innovation and technology advancement domestically to counter our adversaries
-Caroline Shinkle's Legislative Package: 6 Bills to Make New York Affordable
-Bill 1 of 6
-Bill 2 of 6
-Bill 3 of 6
-Bill 4 of 6
-Bill 5 of 6
-Bill 6 of 6
-Issues Comparison (1)
-Issues Comparison (2)
-Issues Comparison (3)
-Issues Comparison (4)
-Issues Comparison (5)
-Issues Comparison (6)
-Issues Comparison (7)
-Issues Comparison (8)
-Issues Comparison (9)
-Caroline Shinkle
+Encourage private ownership (not collectivism) and investment to increase supply and incentivize moratorium on property taxes and development fees ‍ Support strategic, common-sense deregulation ‍ to allow industry and innovation to flourish and combat the mass exodus of jobs, opportunity, investment, and capital out of New York City ‍ Balance the federal budget ‍ through balanced budget amendments and zero-based budgeting to keep Washington spending in check, help cure inflation, and drive down the cost of capital ‍ Lower the cost of living through increasing energy production and promoting an all-energy-options-on-the-table approach and common-sense, strategic deregulation Prioritize our Students Revamp and revitalize the quality and affordability of our education system.
+Treat education expenses like business expenses and reward students who invest in themselves by making the interest on student loan payments fully tax deductible, with no income caps Foster excellence by treating every student like an honors student and leveraging best practices to improve student outcomes.
+Integrate technology and innovation to enhance the classroom experience and provide tailored resources to students Empower parents with school choice and greater curriculum transparency Invest in trades and vocational training to create pathways to high-paying careers for all students ‍ Invest in STEM education and marketable skills for the 21 st century to prepare our students for success ‍ Restore Safety and Security Prioritize the safety and security of New Yorkers and their livelihoods through a pro-safety, pro-community law enforcement agenda ‍ Champion, support, and empower our law enforcement officers and first responders ‍ End the revolving-door policies that return violent offenders to our streets ‍ Ensure federal prosecutors have the resources to tackle crime including retail theft, drug trafficking, and subway assaults ‍ ‍ ‍ Expand mental health programs ‍ Address homelessness with federal incentives for cities to offer voluntary gig economy work to individuals able to reenter the work force ‍ Restore accountability to the criminal justice system Fight Antisemitism Track down and prosecute the sources of funds supporting antisemitic violence Unapologetically stand with the Jewish community of New York City and our ally Israel Enhance Healthcare Reintroduce competition into the healthcare marketplace and enhance price transparency to ensure the system works for patients and providers, not just the insurance companies Pass the Access to Breast Cancer Diagnosis Act ‍ Root out the fraud and corruption riddled throughout our healthcare insurance industry to ensure our safety net is available to those who truly need it and to ensure the hardworking American taxpayer is not being forced to finance fraud ‍ Stronger at Home, Stronger Abroad Protect the homeland through a peace through prosperity and peace through strength agenda Stand with our allies by leveraging our unique position on the world stage to strategically promote the principles upon which our country was founded Diplomacy via strategic economic policy t ‍ o exert pressure on our adversaries ‍ Incentivize innovation and technology advancement domestically to counter our adversaries ‍ Caroline Shinkle's Legislative Package: 6 Bills to Make New York Affordable Bill 1 of 6 Bill 2 of 6 Bill 3 of 6 Bill 4 of 6 Bill 5 of 6 Bill 6 of 6 Issues Comparison (1) Issues Comparison (2) Issues Comparison (3) Issues Comparison (4) Issues Comparison (5) Issues Comparison (6) Issues Comparison (7) Issues Comparison (8) Issues Comparison (9) "It is time to stop experimenting with failed ideologies and start betting on ourselves again.
+We are a nation of builders , not dependents." Caroline Shinkle Ready to Make Change?
+Support Caroline's campaign to bring these priorities to Congress.
+Donate to the Campaign Donate Now ↗     Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

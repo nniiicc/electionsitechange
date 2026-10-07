@@ -1,13 +1,50 @@
 [
-"https://ballotpedia.org/Ohio_State_Lottery_Funds_for_Education_Amendment_(1987)",
-"https://facebook.com/MurphyForOhio",
-"https://linkedin.com/in/louis-murphy-65a535212",
-"https://murphyforohio.com/",
-"https://murphyforohio.com/about",
-"https://murphyforohio.com/contact-us",
-"https://murphyforohio.com/local-government",
-"https://murphyforohio.com/policy",
-"https://murphyforohio.com/volunteer",
-"https://networkforpubliceducation.org/wp-content/uploads/2026/06/2026-NPE-Report-Card.pdf",
-"https://secure.actblue.com/donate/louis-murphy"
+{
+"text": "About",
+"href": "https://www.murphyforohio.com/about"
+},
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Ohio_State_Lottery_Funds_for_Education_Amendment_(1987)"
+},
+{
+"text": "Contact",
+"href": "https://www.murphyforohio.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/louis-murphy"
+},
+{
+"text": "Get Involved",
+"href": "https://www.murphyforohio.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.murphyforohio.com"
+},
+{
+"text": "Network for Public Education repor",
+"href": "https://networkforpubliceducation.org/wp-content/uploads/2026/06/2026-NPE-Report-Card.pdf"
+},
+{
+"text": "Policy",
+"href": "https://www.murphyforohio.com/policy"
+},
+{
+"text": "Read more about returning state funds to municipalities here.",
+"href": "https://www.murphyforohio.com/local-government"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MurphyForOhio"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/louis-murphy-65a535212/"
+},
+{
+"text": "[image: Transparent image of the Louis Murphy campaign logo, candidate for State Representative in Ohio's 99th House District]",
+"href": "https://www.murphyforohio.com"
+}
 ]

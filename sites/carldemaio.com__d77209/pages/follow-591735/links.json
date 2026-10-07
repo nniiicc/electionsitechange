@@ -1,7 +1,22 @@
 [
-"https://carldemaio.com/",
-"https://facebook.com/carldemaio",
-"https://instagram.com/carldemaioca",
-"https://twitter.com/carldemaio",
-"https://youtube.com/channel/UCdNKb-ROfIfCsyLfWEQNuuw?sub_confirmation=1"
+{
+"text": "Return to CarlDeMaio.com ->",
+"href": "https://carldemaio.com/"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/carldemaioca"
+},
+{
+"text": "",
+"href": "https://facebook.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://twitter.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/channel/UCdNKb-ROfIfCsyLfWEQNuuw?sub_confirmation=1"
+}
 ]

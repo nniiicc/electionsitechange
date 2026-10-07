@@ -1,14 +1,6 @@
-Let’s Build a Stronger Arizona, Together
-Great Schools – Safe Neighborhoods – Strong Economy
-Let’s put solutions before politics and do what’s in the best interest of all Arizonans.
-Keep Carine in the State Senate
-Meet Carine
-Proven leader
-Education Champion
-Mom of Three
-Small Business Owner
-Immigrant
-Carine started her public service as a member of the Scottsdale Unified School Board after seeing firsthand the challenges facing Arizona’s public schools.
+DONATE 0 Skip to Content Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Open Menu Close Menu Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Open Menu Close Menu Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Let’s Build a Stronger Arizona, Together Great Schools – Safe Neighborhoods – Strong Economy Let’s put solutions before politics and do what’s in the best interest of all Arizonans.
+Volunteer DONATE Request a yard sign!
+Keep Carine in the State Senate $25 $50 $100 $250 OTHER Meet Carine Proven leader Education Champion Mom of Three Small Business Owner Immigrant Carine started her public service as a member of the Scottsdale Unified School Board after seeing firsthand the challenges facing Arizona’s public schools.
 Her commitment to protecting children, strengthening education, and bringing common sense and accountability to government ultimately led her to run for the Arizona State Senate in 2024.
 Carine challenged the status quo and unseated a Democratic incumbent despite record spending against her campaign.
 She was elected with a clear mission: protect Arizona families, improve affordability, strengthen our schools, and ensure government works for the people it serves.
@@ -20,33 +12,17 @@ She also helped deliver significant tax relief, including eliminating the tax on
 At the heart of Carine’s work is a commitment to Arizona’s children and their future.
 From improving foster care and strengthening schools to protecting parental choice and demanding accountability from the agencies entrusted with serving families, she believes government has a responsibility to deliver real results.
 Carine is running for re-election to continue that work: protect our kids, improve affordability, strengthen our schools, and build a stronger Arizona for the next generation.
-Sign Up
-FOR UPDATES FROM CARINE
-- Increase Teacher Pay
-- Reduce Wasteful Spending
-- Empower Parents
-- Protect School Choice
-- Improve Transparency
-- Fully Fund Law Enforcement
-- Keep the Border Secure
-- Address Homelessness with Compassion & Accountability
-- Tougher Penalties for Drug Dealers
-- Champion a Low-Tax, Business-Friendly Economy
-- Encourage Job Growth
-- Lower the Cost of Living
-- Support Workforce Development and Educational Opportunity
-CARINE’S Accomplishments
-Passed 21 Bipartisan bills in first term
-- As Chair of the Senate Health and Human Services Committee, Senator Werner has led five oversight hearings investigating more than $2.8 billion in criminal fraud involving Arizona’s Medicaid system.
+Sign Up FOR UPDATES FROM CARINE CARINE’S PRIORITIES Build Strong Schools Increase Teacher Pay Reduce Wasteful Spending Empower Parents Protect School Choice Improve Transparency Protect Our Neighborhoods Fully Fund Law Enforcement Keep the Border Secure Address Homelessness with Compassion & Accountability Tougher Penalties for Drug Dealers Create Economic Prosperity Champion a Low-Tax, Business-Friendly Economy Encourage Job Growth Lower the Cost of Living Support Workforce Development and Educational Opportunity CARINE’S Accomplishments Passed 21 Bipartisan bills in first term Stopping Medicaid Fraud As Chair of the Senate Health and Human Services Committee, Senator Werner has led five oversight hearings investigating more than $2.8 billion in criminal fraud involving Arizona’s Medicaid system.
 Her work exposed failures within AHCCCS and gave victims, patients, and honest providers a voice.
 She continues to push state and federal law enforcement to pursue fraudsters who exploited taxpayers and vulnerable Native American communities.
-- After several tragic child deaths exposed serious failures within Arizona's child welfare systems, Senator Werner brought together families, law enforcement, child welfare experts, educators, and agency officials to identify what went wrong.
+Helping Vulnerable Kids After several tragic child deaths exposed serious failures within Arizona's child welfare systems, Senator Werner brought together families, law enforcement, child welfare experts, educators, and agency officials to identify what went wrong.
 That investigation produced a bipartisan package of new laws requiring stronger abuse investigations, faster forensic interviews, better information sharing, and closer review of a child’s history with DCS.
-- Senator Werner passed legislation requiring school employees to report suspected abuse directly to law enforcement and the Department of Child Safety.
+Protecting Kids at School Senator Werner passed legislation requiring school employees to report suspected abuse directly to law enforcement and the Department of Child Safety.
 The law also strengthens protections for employees who report abuse and helps ensure allegations are investigated by trained professionals rather than handled internally by a school.
-- Too many Arizona families wait weeks or months to see a doctor.
+Addressing Arizona's Doctor Shortage Too many Arizona families wait weeks or months to see a doctor.
 Senator Werner passed a bipartisan law requiring Arizona’s public medical schools to interview in-state applicants, helping more Arizona students attend medical school, complete their training, and build their careers serving patients here in Arizona.
-- Senator Werner championed a $5 million investment in secure behavioral-health residential facilities for individuals with serious mental illness who need intensive, court-ordered treatment.
+Improving Care for the SMI Population Senator Werner championed a $5 million investment in secure behavioral-health residential facilities for individuals with serious mental illness who need intensive, court-ordered treatment.
 This work expands access to appropriate care, supports families in crisis, and helps keep patients out of emergency rooms, jails, and other facilities that can't meet their needs.
-- Senator Werner passed first-in-the-nation protections for doctors, nurses, and medical staff who face repeated radiation exposure while performing lifesaving procedures.
-Her legislation modernizes workplace protections, improves radiation monitoring, and allows medical professionals to use advanced safety systems that reduce both radiation exposure and injuries caused by wearing heavy lead equipment.
+Protecting Arizona's Healthcare Workers Senator Werner passed first-in-the-nation protections for doctors, nurses, and medical staff who face repeated radiation exposure while performing lifesaving procedures.
+Her legislation modernizes workplace protections, improves radiation monitoring, and allows medical professionals to use advanced safety systems that reduce both radiation exposure and injuries caused by wearing heavy lead equipment. © Copyright # - Paid For By Werner For AZ.
+Authorized By Carine Werner.

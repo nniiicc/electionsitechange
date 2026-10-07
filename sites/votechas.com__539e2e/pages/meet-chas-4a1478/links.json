@@ -1,6 +1,22 @@
 [
-"https://facebook.com/votechascannon",
-"https://secure.anedot.com/chas-cannon-for-state-house/donate-now",
-"https://votechas.com/",
-"https://votechas.com/meet-chas"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/chas-cannon-for-state-house/donate-now"
+},
+{
+"text": "Home",
+"href": "https://votechas.com/"
+},
+{
+"text": "Meet Chas",
+"href": "https://votechas.com/meet-chas"
+},
+{
+"text": "[image: Chas Cannon for State House]",
+"href": "https://votechas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votechascannon"
+}
 ]

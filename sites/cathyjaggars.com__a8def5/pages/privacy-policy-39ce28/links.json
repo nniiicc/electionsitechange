@@ -1,9 +1,42 @@
 [
-"http://cathyjaggars.com/",
-"https://cathyjaggars.com/",
-"https://cathyjaggars.com/contact",
-"https://cathyjaggars.com/general-9",
-"https://cathyjaggars.com/meet-cathy",
-"https://cathyjaggars.com/privacy-policy",
-"https://secure.actblue.com/donate/cathyjaggars"
+{
+"text": "Cathy Jaggars",
+"href": "https://www.cathyjaggars.com"
+},
+{
+"text": "Cathy Jaggars, SC House 97",
+"href": "https://www.cathyjaggars.com"
+},
+{
+"text": "Contact",
+"href": "https://www.cathyjaggars.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cathyjaggars"
+},
+{
+"text": "Home",
+"href": "https://www.cathyjaggars.com"
+},
+{
+"text": "Meet Cathy",
+"href": "https://www.cathyjaggars.com/meet-cathy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cathyjaggars.com/privacy-policy"
+},
+{
+"text": "Voting Info",
+"href": "https://www.cathyjaggars.com/general-9"
+},
+{
+"text": "cjaggars@charter.net",
+"href": "mailto:cjaggars@charter.net"
+},
+{
+"text": "www.cathyjaggars.com",
+"href": "http://www.cathyjaggars.com"
+}
 ]

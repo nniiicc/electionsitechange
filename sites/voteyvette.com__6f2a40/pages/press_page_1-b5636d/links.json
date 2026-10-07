@@ -1,33 +1,234 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/caribbean-american-congresswoman-says-trump-fans-flames-of-racism",
-"https://voteyvette.com/press/caribbean-american-legislators-welcome-impeachment-of-us-president",
-"https://voteyvette.com/press/clarke-appalled-by-rise-in-anti-semitic-hate-crimes",
-"https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality",
-"https://voteyvette.com/press/keeping-dreamers-tps-holders-in-our-workforce-and-communities-is-essential-to-the-nations-economic-recovery",
-"https://voteyvette.com/press/lawmakers-demand-answers-on-facial-recognition-deployments-in-public-housing",
-"https://voteyvette.com/press/manh-lawmakers-on-the-move-june-5-2020",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/4",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/politicslocal-electeds-hail-trump-impeachment",
-"https://voteyvette.com/press/rep-clarkes-legislation-to-protect-americans-from-fentanyl-passes-house-of-representatives",
-"https://voteyvette.com/press/senators-protest-a-health-algorithm-biased-against-black-people",
-"https://voteyvette.com/press/trump-continues-to-fan-flames-of-racism-clarke",
-"https://voteyvette.com/press/watch-memorial-services-for-george-floyd-in-minneapolis-brooklyn-statewide-moment-of-silence-at-2-p-m",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "4",
+"href": "https://voteyvette.com/press/page/4/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Caribbean American congresswoman says Trump fans flames of racism",
+"href": "https://voteyvette.com/press/caribbean-american-congresswoman-says-trump-fans-flames-of-racism/"
+},
+{
+"text": "Caribbean-American legislators welcome impeachment of US President",
+"href": "https://voteyvette.com/press/caribbean-american-legislators-welcome-impeachment-of-us-president/"
+},
+{
+"text": "Clarke ‘appalled’ by rise in anti-Semitic hate crimes",
+"href": "https://voteyvette.com/press/clarke-appalled-by-rise-in-anti-semitic-hate-crimes/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "House resolution lumps ‘broken windows’ with police brutality",
+"href": "https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "Keeping Dreamers, TPS holders in our workforce and communities is essential to the nation’s economic recovery",
+"href": "https://voteyvette.com/press/keeping-dreamers-tps-holders-in-our-workforce-and-communities-is-essential-to-the-nations-economic-recovery/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/caribbean-american-congresswoman-says-trump-fans-flames-of-racism/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/caribbean-american-legislators-welcome-impeachment-of-us-president/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-appalled-by-rise-in-anti-semitic-hate-crimes/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/keeping-dreamers-tps-holders-in-our-workforce-and-communities-is-essential-to-the-nations-economic-recovery/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/lawmakers-demand-answers-on-facial-recognition-deployments-in-public-housing/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/manh-lawmakers-on-the-move-june-5-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/politicslocal-electeds-hail-trump-impeachment/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-clarkes-legislation-to-protect-americans-from-fentanyl-passes-house-of-representatives/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/senators-protest-a-health-algorithm-biased-against-black-people/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/trump-continues-to-fan-flames-of-racism-clarke/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/watch-memorial-services-for-george-floyd-in-minneapolis-brooklyn-statewide-moment-of-silence-at-2-p-m/"
+},
+{
+"text": "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing",
+"href": "https://voteyvette.com/press/lawmakers-demand-answers-on-facial-recognition-deployments-in-public-housing/"
+},
+{
+"text": "MANH Lawmakers on the Move, June 5, 2020",
+"href": "https://voteyvette.com/press/manh-lawmakers-on-the-move-june-5-2020/"
+},
+{
+"text": "POLITICSLocal Electeds Hail Trump Impeachment",
+"href": "https://voteyvette.com/press/politicslocal-electeds-hail-trump-impeachment/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Rep. Clarke’s Legislation to Protect Americans from Fentanyl Passes House of Representatives",
+"href": "https://voteyvette.com/press/rep-clarkes-legislation-to-protect-americans-from-fentanyl-passes-house-of-representatives/"
+},
+{
+"text": "Senators Protest a Health Algorithm Biased Against Black People",
+"href": "https://voteyvette.com/press/senators-protest-a-health-algorithm-biased-against-black-people/"
+},
+{
+"text": "Trump continues to fan flames of racism: Clarke",
+"href": "https://voteyvette.com/press/trump-continues-to-fan-flames-of-racism-clarke/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "WATCH: Memorial services for George Floyd in Minneapolis, Brooklyn; statewide moment of silence at 2 p.m.",
+"href": "https://voteyvette.com/press/watch-memorial-services-for-george-floyd-in-minneapolis-brooklyn-statewide-moment-of-silence-at-2-p-m/"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/caribbean-american-congresswoman-says-trump-fans-flames-of-racism/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/caribbean-american-legislators-welcome-impeachment-of-us-president/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-appalled-by-rise-in-anti-semitic-hate-crimes/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/keeping-dreamers-tps-holders-in-our-workforce-and-communities-is-essential-to-the-nations-economic-recovery/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/lawmakers-demand-answers-on-facial-recognition-deployments-in-public-housing/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/manh-lawmakers-on-the-move-june-5-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/politicslocal-electeds-hail-trump-impeachment/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-clarkes-legislation-to-protect-americans-from-fentanyl-passes-house-of-representatives/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/senators-protest-a-health-algorithm-biased-against-black-people/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/trump-continues-to-fan-flames-of-racism-clarke/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/watch-memorial-services-for-george-floyd-in-minneapolis-brooklyn-statewide-moment-of-silence-at-2-p-m/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/2/"
+}
 ]

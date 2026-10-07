@@ -1,4 +1,5 @@
-ISSAQUAH, WA – Dr.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer Dr.
+Kim Schrier For Congress Releases New Ad “Extreme” ISSAQUAH, WA – Dr.
 Kim Schrier for Congress has released a new TV ad, “Extreme,” in response to the Supreme Court’s disastrous Dobbs decision overturning Roe v.
 Wade.
 Dr.
@@ -11,5 +12,5 @@ It’s extreme and dangerous,” said Rep.
 Schrier.
 “Now some D.C. politicians want to ban all abortions with no exception for rape, incest, or the life of the mother.
 As a doctor and mother, I am outraged.
-As your Congresswoman, I won’t stand for it.”
-###
+As your Congresswoman, I won’t stand for it.” ### Share Tweet « Previous Post Next Post » About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

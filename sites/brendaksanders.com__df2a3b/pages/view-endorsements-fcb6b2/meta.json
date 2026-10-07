@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.brendaksanders.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "6f0cacd0c8750672321606d41d98f94388a0ee92",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

@@ -1,12 +1,50 @@
 [
-"https://ceceliagonzaleznv.com/",
-"https://ceceliagonzaleznv.com/about-cecelia",
-"https://ceceliagonzaleznv.com/get-involved",
-"https://ceceliagonzaleznv.com/privacy-policy",
-"https://ceceliagonzaleznv.com/supporters",
-"https://facebook.com/CeceliaGNV",
-"https://facebook.com/pg/CeceliaGNV",
-"https://instagram.com/ceceliagnv?hl=en",
-"https://secure.actblue.com/donate/committee-to-elect-cecelia-gonzalez-1?commit=Contribute",
-"https://twitter.com/CeceliaGNV"
+{
+"text": "About Cecelia",
+"href": "https://www.ceceliagonzaleznv.com/about-cecelia"
+},
+{
+"text": "Contact Us",
+"href": "https://www.ceceliagonzaleznv.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/committee-to-elect-cecelia-gonzalez-1?commit=Contribute"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ceceliagonzaleznv.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.ceceliagonzaleznv.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ceceliagonzaleznv.com/privacy-policy"
+},
+{
+"text": "Supporters",
+"href": "https://www.ceceliagonzaleznv.com/supporters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CeceliaGNV"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/pg/CeceliaGNV"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ceceliagnv/?hl=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/CeceliaGNV"
+},
+{
+"text": "info@CeceliaGonzalezNV.com",
+"href": "mailto:info@CeceliaGonzalezNV.com"
+}
 ]

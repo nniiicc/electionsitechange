@@ -1,7 +1,9 @@
 {
  "description": "Find your voting resources, voting status, as well as upcoming elections.",
  "final_url": "https://www.arlenebeckles.com/voting",
- "paid_for_by": null,
+ "fingerprint": "c240a8d50417b60c3c269479c166d530aeb8a016",
+ "format": 3,
+ "paid_for_by": "",
  "title": "VOTING | Re-elect Dr. Arlene Beckles | Georgia State House District 96",
  "years_mentioned": []
 }

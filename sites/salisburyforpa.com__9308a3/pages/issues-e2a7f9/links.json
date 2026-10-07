@@ -1,19 +1,86 @@
 [
-"https://facebook.com/SalisburyforPA",
-"https://salisburyforpa.com/",
-"https://salisburyforpa.com/?page_id=3580&preview=true",
-"https://salisburyforpa.com/?page_id=3581&preview=true",
-"https://salisburyforpa.com/about",
-"https://salisburyforpa.com/blog-news",
-"https://salisburyforpa.com/contacts",
-"https://salisburyforpa.com/endorsements",
-"https://salisburyforpa.com/issue-environment",
-"https://salisburyforpa.com/issue-infrastructure",
-"https://salisburyforpa.com/issue-nonprofit-support",
-"https://salisburyforpa.com/issues",
-"https://salisburyforpa.com/issues-blight",
-"https://salisburyforpa.com/issues?amp=1",
-"https://salisburyforpa.com/volunteer",
-"https://secure.actblue.com/donate/people-for-abigail-salisbury-2",
-"https://twitter.com/SalisburyforPA"
+{
+"text": "About",
+"href": "https://salisburyforpa.com/about/"
+},
+{
+"text": "Blog & News",
+"href": "https://salisburyforpa.com/blog-news/"
+},
+{
+"text": "Contact",
+"href": "https://salisburyforpa.com/contacts/"
+},
+{
+"text": "Contact Us",
+"href": "https://salisburyforpa.com/contacts/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+},
+{
+"text": "Endorsements",
+"href": "https://salisburyforpa.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SalisburyforPA"
+},
+{
+"text": "Go to mobile version",
+"href": "https://salisburyforpa.com/issues/?amp=1"
+},
+{
+"text": "Home",
+"href": "https://salisburyforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://salisburyforpa.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://salisburyforpa.com/volunteer/"
+},
+{
+"text": "X formerly Twitter",
+"href": "https://twitter.com/SalisburyforPA"
+},
+{
+"text": "[image]",
+"href": "https://salisburyforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/?page_id=3580&preview=true"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/?page_id=3581&preview=true"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issue-environment/"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issue-infrastructure/"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issue-nonprofit-support/"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issues-blight/"
+},
+{
+"text": "click now to donate",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+}
 ]

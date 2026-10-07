@@ -1,4 +1,8 @@
-Illinois’ 112th District is home to a variety of communities, from Edwardsville and Glen Carbon to Collinsville, Maryville, Granite City, and Fairview Heights.
+Search this site Embedded Files Skip to main content Skip to navigation Katie Stuart for IL State Rep Home The 112th District About Issues Voting Endorsements Katie Stuart for IL State Rep Home The 112th District About Issues Voting Endorsements More Home The 112th District About Issues Voting Endorsements Illinois’ 112th District is home to a variety of communities, from Edwardsville and Glen Carbon to Collinsville, Maryville, Granite City, and Fairview Heights.
 The district is filled with rich history, local businesses, beautiful parks, and landmarks that make our communities unique.
 Since 2017, State Representative Katie Stuart has proudly served the 112th District, working to support local families, strengthen our schools, and address the needs of the communities she represents.
 From the campus of SIUE to the Cahokia Mounds and the World’s Largest Catsup Bottle, the 112th District is a place filled with history, opportunity, and people who are proud to call it home.
+Explore SIUE → Explore Cahokia Mounds → Explore the Catsup Bottle → Explore Ray M.
+Schon Park → Explore the Racetrack → Explore Horshoe Lake Park → Katie Stuart is commited to putting the people of the 112th District first.
+By listening to our communities and working together, we can protect working families, strengthen our schools, and keep the Metro East a great place to call home.
+INFORMATION Register to Vote About Katie Privacy Policy Issues Endorsements Get Involved Request a Yard Sign Paid for by Friends For Katie Stuart © # Friends For Katie Stuart Google Sites Report abuse Page details Page updated Google Sites Report abuse

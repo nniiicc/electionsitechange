@@ -1,23 +1,86 @@
 [
-"http://subscribe.charlotte4nysenate.com/",
-"https://charlotte4nysenate.com/events",
-"https://charlotte4nysenate.com/gallery",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20161228_235849_IMG_0204.JPG",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20170113_005712_IMG_0211c.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20170329_195106_IMG_0237b.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20171129_062352_IMG_0450.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20190810_195717_IMG_2170b.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20210304_084117_IMG_5939.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20210322_225636_IMG_6166b.JPG",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20210528_052547_IMG_6810.JPG",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_192652b.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_202907b.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_205656b.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_210511.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/20250907_134339.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/DesktopImage_7bu5j8fikKeGBAyRIaDLgc.jpg",
-"https://charlotte4nysenate.com/wp-content/gallery/gallery/image000002-1.jpg",
-"https://instagram.com/charlotte4nyc",
-"https://x.com/Charlotte4NYC",
-"https://youtube.com/@Charlotte4NYC"
+{
+"text": "Calendar",
+"href": "https://charlotte4nysenate.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://charlotte4nysenate.com/gallery/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/charlotte4nyc/"
+},
+{
+"text": "Newsletter",
+"href": "http://subscribe.charlotte4nysenate.com"
+},
+{
+"text": "X",
+"href": "https://x.com/Charlotte4NYC"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@Charlotte4NYC"
+},
+{
+"text": "[image: 20161228_235849_IMG_0204]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20161228_235849_IMG_0204.JPG"
+},
+{
+"text": "[image: 20170113_005712_IMG_0211c]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20170113_005712_IMG_0211c.jpg"
+},
+{
+"text": "[image: 20170329_195106_IMG_0237b]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20170329_195106_IMG_0237b.jpg"
+},
+{
+"text": "[image: 20171129_062352_IMG_0450]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20171129_062352_IMG_0450.jpg"
+},
+{
+"text": "[image: 20190810_195717_IMG_2170b]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20190810_195717_IMG_2170b.jpg"
+},
+{
+"text": "[image: 20210304_084117_IMG_5939]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20210304_084117_IMG_5939.jpg"
+},
+{
+"text": "[image: 20210322_225636_IMG_6166b]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20210322_225636_IMG_6166b.JPG"
+},
+{
+"text": "[image: 20210528_052547_IMG_6810]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20210528_052547_IMG_6810.JPG"
+},
+{
+"text": "[image: 20250424_192652b]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_192652b.jpg"
+},
+{
+"text": "[image: 20250424_202907b]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_202907b.jpg"
+},
+{
+"text": "[image: 20250424_205656b]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_205656b.jpg"
+},
+{
+"text": "[image: 20250424_210511]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20250424_210511.jpg"
+},
+{
+"text": "[image: 20250907_134339]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/20250907_134339.jpg"
+},
+{
+"text": "[image: DesktopImage_7bu5j8fikKeGBAyRIaDLgc]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/DesktopImage_7bu5j8fikKeGBAyRIaDLgc.jpg"
+},
+{
+"text": "[image: image000002-1]",
+"href": "https://charlotte4nysenate.com/wp-content/gallery/gallery/image000002-1.jpg"
+}
 ]

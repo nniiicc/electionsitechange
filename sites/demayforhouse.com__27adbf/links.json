@@ -1,13 +1,62 @@
 [
-"https://demayforhouse.com/",
-"https://demayforhouse.com/about",
-"https://demayforhouse.com/cart",
-"https://demayforhouse.com/contact",
-"https://demayforhouse.com/endorsements",
-"https://demayforhouse.com/events",
-"https://demayforhouse.com/priorities",
-"https://demayforhouse.com/volunteer",
-"https://facebook.com/demayforhouse",
-"https://instagram.com/demayforhouse",
-"https://secure.actblue.com/donate/demayforhouse.com"
+{
+"text": "0",
+"href": "https://www.demayforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.demayforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.demayforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/demayforhouse.com"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/demayforhouse.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.demayforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.demayforhouse.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.demayforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.demayforhouse.com/"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.demayforhouse.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.demayforhouse.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.demayforhouse.com/volunteer"
+},
+{
+"text": "[image: Minnesota House District 36A]",
+"href": "https://www.demayforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/demayforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/demayforhouse/"
+}
 ]

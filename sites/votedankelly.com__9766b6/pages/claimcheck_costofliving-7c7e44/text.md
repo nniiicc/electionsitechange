@@ -1,3 +1,4 @@
+0 Skip to Content Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE Open Menu Close Menu Kassner Campaign Violations - Why You Should Care About Dan Priorities Get Involved Yard Sign News Videos Events Claim Check: Kristin Kassner DONATE COST OF LIVING, TAXES & SCHOOLS: WHERE IS THE RELIEF?
 Kassner claims she’s brought relief to the taxpayers by reducing property taxes, increasing state aid for schools, and reducing the “cost of everyday life.” Really?
 Property taxes have not been reduced – they go up every year.
 And every town in the district has been subject to annual requests for Proposition 2 ½ overrides.
@@ -16,3 +17,7 @@ Then there is the supposed $16 million, offered without a project list, calculat
 Requests do not pay local bills.
 Unfinished legislation does not lower costs.
 And voting with everyone else is not delivering relief.
+Previous Previous Environment & Water Protection Next Next Local Control Service.
+Civility.
+Accountability.
+Paid for By the Committee to Elect Dan Kelly

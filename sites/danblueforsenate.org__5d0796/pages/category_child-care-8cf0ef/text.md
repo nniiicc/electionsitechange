@@ -1,1 +1,3 @@
-Democratic Leaders Advocate for Child Care Funding as Federal Support Ends Jun 3, 2024 | Child Care, News, Sourced Senate Minority Leader Dan Blue and other democratic leaders urge colleagues to take action and prioritize child care funding as federal support dwindles. read more
+DONATE TODAY Support Senator Blue’s Campaign with a donation of any amount × Dialog window Connect with Senator Blue for the latest updates!
+Notice: JavaScript is required for this content.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Child Care Democratic Leaders Advocate for Child Care Funding as Federal Support Ends Jun 3, 2024 | Child Care , News , Sourced Senate Minority Leader Dan Blue and other democratic leaders urge colleagues to take action and prioritize child care funding as federal support dwindles. read more Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

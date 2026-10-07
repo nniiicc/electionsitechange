@@ -1,5 +1,4 @@
-Carie
-As a first-generation college student, I built up a drive to give back to the country and community that afforded me a college degree, a safety net and ultimately upward mobility.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Carie More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett As a first-generation college student, I built up a drive to give back to the country and community that afforded me a college degree, a safety net and ultimately upward mobility.
 After college, I served two years in the National AmeriCorps Program, volunteering for rural and urban communities in different parts of the country.
 After using my AmeriCorps educational award for graduate school, I proceeded to work for non-profits and colleges in several states across the country, focused on issues of social justice, college access and community engagement.
 I now direct a social justice program at Marquette University.
@@ -9,4 +8,4 @@ I do my best to listen to all voices, especially those that are often silenced o
 I vote for Robyn because she works for all people.
 She believes in justice for all.
 She believes in an economy, a health care system and public education that supports everyone.
-We need more of Robyn Vining. – Carie
+We need more of Robyn Vining. – Carie More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

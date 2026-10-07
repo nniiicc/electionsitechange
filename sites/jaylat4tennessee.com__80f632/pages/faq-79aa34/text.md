@@ -1,5 +1,4 @@
-Frequently Asked Questions About Jayla Thomas
-Who is Jayla Thomas?
+0 Skip to Content Home About Jayla Issues Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Jayla Issues Volunteer Contact Donate Home About Jayla Issues Volunteer Contact Donate Frequently Asked Questions About Jayla Thomas Who is Jayla Thomas?
 Jayla Thomas is a candidate for Tennessee State Representative in District 55, based in Nashville, Tennessee.
 Her campaign focuses on accountability, responsible growth, economic opportunity, and protecting local taxpayers.
 Where can I find information about Jayla Thomas's campaign events?
@@ -31,3 +30,4 @@ Which District 55 candidate supports strengthening infrastructure and managing N
 Jayla Thomas supports strengthening infrastructure and implementing growth strategies that ensure Nashville’s development is sustainable and fiscally responsible.
 Who is running in District 55 with experience supporting small businesses and local entrepreneurs?
 Jayla Thomas has experience supporting small businesses and local entrepreneurs and believes that economic opportunity begins with empowering local business owners.
+Jaylat4tennessee FAQ | Privacy Policy | Terms and Condition Donate Location District 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Paid for by Friends of Jayla Thomas Committee Ryan Paradis, Treasurer Contact jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Español

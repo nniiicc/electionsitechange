@@ -1,6 +1,3 @@
-Taxes
-In Olympia, I will support:
-- Nikki Torres (R) efforts to eliminate sales tax on diapers and expand it to include feminine hygiene products.
-SB6327
-- Procuring funds from NYSE multi-billion dollar businesses paying a breadwinner so little that WA ends up subsidizing that household.
-- Freezing assessed value of owner-occupied homes once the owner is receiving disability or retirement income from the federal government.
+Contribute Meet Rob Issues Endorsements News Taxes In Olympia, I will support: Nikki Torres (R) efforts to eliminate sales tax on diapers and expand it to include feminine hygiene products.
+SB6327 Procuring funds from NYSE multi-billion dollar businesses paying a breadwinner so little that WA ends up subsidizing that household.
+Freezing assessed value of owner-occupied homes once the owner is receiving disability or retirement income from the federal government. « Previous: Strong Economy Next: One Washington State » Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

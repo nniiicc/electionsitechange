@@ -1,7 +1,9 @@
 {
  "description": "Explore Arizona political issues including education, border security, fiscal restraint, religious freedom, and Second Amendment rights.",
  "final_url": "https://bolickforarizona.com/issues",
- "paid_for_by": null,
+ "fingerprint": "d68191a5764b21b45e9d843cb21ef061c6208575",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": []
 }

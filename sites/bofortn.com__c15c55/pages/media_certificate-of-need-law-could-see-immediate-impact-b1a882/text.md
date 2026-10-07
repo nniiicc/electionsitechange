@@ -1,4 +1,4 @@
-Certificate of Need law could see immediate impact
-Although Tennessee's new certificate of need law will not take effect until July 2028, Sen.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Certificate of Need law could see immediate impact Jun 15 Written By Waterhouse PR Although Tennessee's new certificate of need law will not take effect until July 2028, Sen.
 Bo Watson told the Post that the state’s health care industry could begin responding to the coming changes before then.
 "I would suspect that they would see the writing on the wall and that they wouldn't deny anyone who was seeking a certificate of need, knowing that it's going to go away anyway," Watson said.
+READ THE FULL ARTICLE Waterhouse PR Previous Previous Hamilton County Mayor and Senator speak on challenges ahead of Governor’s Race Next Next Hamilton County Mayor Weston Wamp’s 2026 State of The County Address Bo for Tennessee About Priorities Media Contact

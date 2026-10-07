@@ -1,8 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61581161946225",
-"https://instagram.com/myoung4mo",
-"https://myoung4mo.com/",
-"https://myoung4mo.com/terms-conditions",
-"https://secure.anedot.com/michael-young-for-missouri/donate",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.myoung4mo.com#about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "Contact",
+"href": "https://www.myoung4mo.com#contact"
+},
+{
+"text": "Contribute Now!",
+"href": "https://secure.anedot.com/michael-young-for-missouri/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/michael-young-for-missouri/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61581161946225"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61581161946225"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/myoung4mo"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "Refund Policy",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "Services",
+"href": "https://www.myoung4mo.com#online-services"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.myoung4mo.com/terms-conditions"
+},
+{
+"text": "View terms of use.",
+"href": "https://www.myoung4mo.com/terms-conditions"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.myoung4mo.com"
+},
+{
+"text": "© # by Alice Hope MD Family Doctor. Powered and secured by Wix",
+"href": "https://wix.com"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/RettigForOhio",
-"https://ohiosos.gov/elections/frequently-asked-questions",
-"https://olvr.ohiosos.gov/",
-"https://rettigforohio.com/",
-"https://rettigforohio.com/about",
-"https://rettigforohio.com/issues",
-"https://rettigforohio.com/volunteer",
-"https://rettigforohio.com/vote",
-"https://secure.actblue.com/donate/rick-rettig-1",
-"https://voterlookup.ohiosos.gov/voterlookup.aspx",
-"https://wood-voterview.boe.ohio.gov/VoterView/PollingPlaceSearch.do"
+{
+"text": "About",
+"href": "https://www.rettigforohio.com/about"
+},
+{
+"text": "Absentee Voting",
+"href": "https://www.ohiosos.gov/elections/frequently-asked-questions#voter-accessibility"
+},
+{
+"text": "Check My Registration",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rick-rettig-1"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://wood-voterview.boe.ohio.gov/VoterView/PollingPlaceSearch.do"
+},
+{
+"text": "Home",
+"href": "https://www.rettigforohio.com"
+},
+{
+"text": "Issues",
+"href": "https://www.rettigforohio.com/issues"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "RettigForOhio@gmail.com",
+"href": "mailto:RettigForOhio@gmail.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rettigforohio.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.rettigforohio.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RettigForOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.rettigforohio.com"
+}
 ]

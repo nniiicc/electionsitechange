@@ -1,15 +1,58 @@
 [
-"https://secure.anedot.com/davidsilversforstatesenate/donate",
-"https://votedavidsilvers.com/",
-"https://votedavidsilvers.com/author/david",
-"https://votedavidsilvers.com/awards",
-"https://votedavidsilvers.com/blog11",
-"https://votedavidsilvers.com/blog8",
-"https://votedavidsilvers.com/category/news",
-"https://votedavidsilvers.com/contact",
-"https://votedavidsilvers.com/endorsements",
-"https://votedavidsilvers.com/join",
-"https://votedavidsilvers.com/meet-david",
-"https://votedavidsilvers.com/news",
-"https://votedavidsilvers.com/results"
+{
+"text": "Awards",
+"href": "https://www.votedavidsilvers.com/awards/"
+},
+{
+"text": "Contact",
+"href": "https://www.votedavidsilvers.com/contact/"
+},
+{
+"text": "David Silvers",
+"href": "https://www.votedavidsilvers.com/author/david/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/davidsilversforstatesenate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedavidsilvers.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.votedavidsilvers.com/"
+},
+{
+"text": "Join",
+"href": "https://www.votedavidsilvers.com/join/"
+},
+{
+"text": "Latest News",
+"href": "https://www.votedavidsilvers.com/blog8/"
+},
+{
+"text": "Meet David",
+"href": "https://www.votedavidsilvers.com/meet-david/"
+},
+{
+"text": "News",
+"href": "https://www.votedavidsilvers.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://www.votedavidsilvers.com/news/"
+},
+{
+"text": "Results",
+"href": "https://www.votedavidsilvers.com/results/"
+},
+{
+"text": "[image: David Silvers for the Florida Senate]",
+"href": "https://www.votedavidsilvers.com/"
+},
+{
+"text": "[image]Improving mental health for minors remains a top priority Another viewpoint",
+"href": "https://www.votedavidsilvers.com/blog11/"
+}
 ]

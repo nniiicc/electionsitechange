@@ -1,5 +1,1 @@
-Fri, Sep 25
-John Graham Gym
-Meet Roy Surrett, Candidate for NC State Senate District 2
-Sep 25, 2026, 6:00 PM – 9:00 PM
-John Graham Gym, 113 Wilcox St, Warrenton, NC 27589, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Meet Candidates: A Community Town Hall Meeting Fri, Sep 25 | John Graham Gym Meet Roy Surrett, Candidate for NC State Senate District 2 Time & Location Sep 25, 2026, 6:00 PM – 9:00 PM John Graham Gym, 113 Wilcox St, Warrenton, NC 27589, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

@@ -1,9 +1,34 @@
 [
-"https://sadeforassembly.com/",
-"https://sadeforassembly.com/acerca-de-sade",
-"https://sadeforassembly.com/acerca-del-distrito-de-la-asamblea-57",
-"https://sadeforassembly.com/apoyos",
-"https://sadeforassembly.com/galeria-de-medios",
-"https://sadeforassembly.com/participa",
-"https://sadeforassembly.com/priorities-duplicate-185"
+{
+"text": "Acerca de Sade",
+"href": "https://sadeforassembly.com/acerca-de-sade/"
+},
+{
+"text": "Apoyos",
+"href": "https://sadeforassembly.com/apoyos/"
+},
+{
+"text": "Distrito 57",
+"href": "https://sadeforassembly.com/acerca-del-distrito-de-la-asamblea-57/"
+},
+{
+"text": "English",
+"href": "https://sadeforassembly.com/"
+},
+{
+"text": "Galería de Medios",
+"href": "https://sadeforassembly.com/galeria-de-medios/"
+},
+{
+"text": "Participa",
+"href": "https://sadeforassembly.com/participa/"
+},
+{
+"text": "Prioridades",
+"href": "https://sadeforassembly.com/priorities-duplicate-185/"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://sadeforassembly.com/"
+}
 ]

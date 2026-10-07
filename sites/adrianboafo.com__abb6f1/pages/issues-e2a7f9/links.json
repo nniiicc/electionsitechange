@@ -1,67 +1,294 @@
 [
-"http://act.build/",
-"http://border.secure/",
-"http://buyers.support/",
-"http://hbcus.secure/",
-"http://infrastructure.support/",
-"http://pipelines.build/",
-"https://adrianboafo.com/",
-"https://adrianboafo.com/adrian",
-"https://adrianboafo.com/disclaimers/privacy-policy",
-"https://adrianboafo.com/endorsements",
-"https://adrianboafo.com/issues",
-"https://adrianboafo.com/news",
-"https://adrianboafo.com/volunteer",
-"https://adrianboafo.com/vote",
-"https://baltimoresun.com/2025/01/31/delegates-call-for-utility-rate-hike-moratorium",
-"https://bsky.app/profile/adrianboafo.bsky.social",
-"https://capitalgazette.com/2021/06/09/bowie-council-passes-water-rebate-initiative-city-offers-100-city-employee-covid-vaccine-incentive",
-"https://facebook.com/AdrianBoafo",
-"https://forms.gle/ABQuFW68hQ59M7eo8",
-"https://governor.maryland.gov/news/press/pages/governor-moore-announces-expanded-support-for-marylanders-amid-record-long-federal-government-shutdown.aspx",
-"https://instagram.com/adrianboafo?hl=en",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0386?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0499?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0809?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0853?ys=2025rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0894?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0895?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1188?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1253?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1267?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1309?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1424?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1438?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0145?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0465?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0470?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0488?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0509?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0525?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0553?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0573?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0580?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0598?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0650?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0693?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0696?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0721?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0761?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0832?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0859?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0864?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0902?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0930?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0962?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0973?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1037?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1051?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1077?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1261?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1492?ys=2026RS",
-"https://secure.actblue.com/donate/ab-website26",
-"https://secure.ngpvan.com/xp8zVf6qB0WGsqYWwgCCiA2",
-"https://thestreet.com/crypto/policy/democratic-legislators-ask-senator-warren-to-bring-crypto-laws-to-federal-level",
-"https://washingtonpost.com/dc-md-va/2025/01/23/maryland-taxes-tips-trump",
-"https://x.com/AdrianBoafoMD"
+{
+"text": "Better Buildings Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0973?ys=2025RS"
+},
+{
+"text": "Break STRIDE Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1253/?ys=2026rs"
+},
+{
+"text": "Build",
+"href": "http://act.build"
+},
+{
+"text": "Build",
+"href": "http://pipelines.build"
+},
+{
+"text": "Called",
+"href": "https://www.thestreet.com/crypto/policy/democratic-legislators-ask-senator-warren-to-bring-crypto-laws-to-federal-level"
+},
+{
+"text": "Contact us",
+"href": "mailto:info@adrianboafo.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ab-website26"
+},
+{
+"text": "End Hedge Fund Control of Maryland Homes Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1188/?ys=2026rs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adrianboafo.com/endorsements"
+},
+{
+"text": "Expungement Reform Act of 2025",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0499?ys=2025RS&search=True"
+},
+{
+"text": "Extending",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0809?ys=2023rs"
+},
+{
+"text": "G.R.E.E.N. Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0145?ys=2025RS"
+},
+{
+"text": "Home",
+"href": "https://www.adrianboafo.com"
+},
+{
+"text": "ICE Breaker Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0832?ys=2026RS"
+},
+{
+"text": "Issues",
+"href": "https://www.adrianboafo.com/issues"
+},
+{
+"text": "Keep Our Heroes Home Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0761?ys=2026RS"
+},
+{
+"text": "Legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0553?ys=2025RS&search=True"
+},
+{
+"text": "Legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0650?ys=2024RS&search=True"
+},
+{
+"text": "Maryland Fair Chance Housing Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1077?ys=2025RS"
+},
+{
+"text": "Maryland Maternal Health Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1051?ys=2024RS&search=True"
+},
+{
+"text": "Maryland Phone-Free Schools Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0525?ys=2026RS"
+},
+{
+"text": "Maryland Protect our Federal Workers Act of 2025",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1424?ys=2025RS"
+},
+{
+"text": "Maryland Transit and Housing Opportunity Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0894/?ys=2026rs"
+},
+{
+"text": "Maryland Workforce Apprenticeship Utilization Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0864?ys=2026RS"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianboafo.com/adrian"
+},
+{
+"text": "Metro Funding Modification Act of 2026",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0386/?ys=2026rs"
+},
+{
+"text": "News",
+"href": "https://www.adrianboafo.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adrianboafo.com/disclaimers/privacy-policy"
+},
+{
+"text": "Protection from Predatory Pricing Act of 2026",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0895?ys=2026RS"
+},
+{
+"text": "RENEW Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1438?ys=2024RS&search=True"
+},
+{
+"text": "Renters' Rights and Stabilization Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0693?ys=2024RS&search=True"
+},
+{
+"text": "Retire in Maryland Tax Relief Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0902?ys=2026RS"
+},
+{
+"text": "Second Look Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0853/?ys=2025rs"
+},
+{
+"text": "Secure",
+"href": "http://border.secure"
+},
+{
+"text": "Secure",
+"href": "http://hbcus.secure"
+},
+{
+"text": "Strengthening",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0962?ys=2024RS&search=True"
+},
+{
+"text": "Support",
+"href": "http://buyers.support"
+},
+{
+"text": "Support",
+"href": "http://infrastructure.support"
+},
+{
+"text": "Task Force on Returning Citizens and Reentry Services",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1037?ys=2024RS&search=True"
+},
+{
+"text": "Time to Serve Act of 2024",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0580?ys=2024RS&search=True"
+},
+{
+"text": "Uniformed Services Spouses Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0721?ys=2026RS"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/xp8zVf6qB0WGsqYWwgCCiA2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adrianboafo.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.adrianboafo.com/vote"
+},
+{
+"text": "Yard Sign",
+"href": "https://forms.gle/ABQuFW68hQ59M7eo8"
+},
+{
+"text": "[image: Bluesky]",
+"href": "https://bsky.app/profile/adrianboafo.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/AdrianBoafo/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/adrianboafo/?hl=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/AdrianBoafoMD"
+},
+{
+"text": "[no text]",
+"href": "http://act.build"
+},
+{
+"text": "[no text]",
+"href": "http://border.secure"
+},
+{
+"text": "[no text]",
+"href": "http://buyers.support"
+},
+{
+"text": "[no text]",
+"href": "http://hbcus.secure"
+},
+{
+"text": "[no text]",
+"href": "http://infrastructure.support"
+},
+{
+"text": "[no text]",
+"href": "http://pipelines.build"
+},
+{
+"text": "[no text]",
+"href": "https://www.adrianboafo.com"
+},
+{
+"text": "commission",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1309?ys=2026RS"
+},
+{
+"text": "congressional maps",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0488/?ys=2026rs"
+},
+{
+"text": "effort",
+"href": "https://www.washingtonpost.com/dc-md-va/2025/01/23/maryland-taxes-tips-trump/"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1267?ys=2026rs"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0465?ys=2024RS&search=True"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0509?ys=2026RS"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0573?ys=2023RS&search=True"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0598?ys=2024RS&search=True"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0859?ys=2026RS"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0930?ys=2025RS&search=True"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1261?ys=2025RS"
+},
+{
+"text": "legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1492?ys=2026RS"
+},
+{
+"text": "provide",
+"href": "https://www.capitalgazette.com/2021/06/09/bowie-council-passes-water-rebate-initiative-city-offers-100-city-employee-covid-vaccine-incentive/"
+},
+{
+"text": "publicly calling on the Public Service Commission",
+"href": "https://www.baltimoresun.com/2025/01/31/delegates-call-for-utility-rate-hike-moratorium/"
+},
+{
+"text": "state funding",
+"href": "https://governor.maryland.gov/news/press/pages/governor-moore-announces-expanded-support-for-marylanders-amid-record-long-federal-government-shutdown.aspx"
+},
+{
+"text": "task force",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0470?ys=2026RS"
+},
+{
+"text": "universal free school breakfast and lunch",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0696?ys=2024RS&search=True"
+}
 ]

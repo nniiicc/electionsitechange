@@ -1,22 +1,4 @@
-2024 Endorsements
-- New York Working Families Party
-- New York State Public Employees Federation (PEF)
-- United Auto Workers (UAW) Region 9
-- Planned Parenthood
-- Eleanor's Legacy
-- Family Planning of South Central New York Action Fund
-- Capital Women
-- Sullivan County Democratic Committee
-- Ulster County Democratic Committee
-- Delaware County Democratic Committee
-- Chenango County Democratic Committee
-- Otsego County Democratic Committee
-- Middlefield Town Democrats
-- Schoharie County Democrats
-- Broome County Democrats
-- Moms Demand Action
-- NYS Federation of Democratic Women
-- New York State Nurses Association
-- National Institute for Reproductive Health Action Fund
-- SEIU Local 200United
-- Democratic Women of Broome County
+0 Skip to Content MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB Folder: JOIN US Back Volunteer Register to Vote Get Your Yard Sign!
+Donate Join Us Donate 2024 Endorsements New York Working Families Party New York State Public Employees Federation (PEF) United Auto Workers (UAW) Region 9 Planned Parenthood Eleanor's Legacy Family Planning of South Central New York Action Fund Capital Women Sullivan County Democratic Committee Ulster County Democratic Committee Delaware County Democratic Committee Chenango County Democratic Committee Otsego County Democratic Committee Middlefield Town Democrats Schoharie County Democrats Broome County Democrats Moms Demand Action NYS Federation of Democratic Women New York State Nurses Association National Institute for Reproductive Health Action Fund SEIU Local 200United Democratic Women of Broome County info@michelefrazier.com Paid for by Michele Frazier for 51 JOIN US

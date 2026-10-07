@@ -1,5 +1,4 @@
-Don’t Let Little Forget This Endorsement
-Brad Little may want to hide his primary campaign signs like some politicians hide photos with Jeffrey Epstein.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Don’t Let Little Forget This Endorsement Apr 17 Written By Elle Casner Brad Little may want to hide his primary campaign signs like some politicians hide photos with Jeffrey Epstein.
 The embarrassing part in Mr.
 Little’s case is the “Trump Endorsed” message.
 A week ago, President Trump threatened to destroy a civilization.
@@ -25,8 +24,7 @@ Or threatens to “take” Greenland?
 There is no genius in chaos.
 So, if you can afford the fuel, take a drive to find a Brad Little campaign sign.
 It will read: “Trump Endorsed.
-Brad Little for Governor.”
-The President has harmed all Americans.
+Brad Little for Governor.” The President has harmed all Americans.
 Pocketbook pain is chasing away past supporters.
 It will soon be foolish for a governor candidate to brag about Trump’s endorsement.
 In Idaho where Trump support was bigly, Trump’s betrayal will feel huge.
@@ -37,3 +35,4 @@ Little in next month’s primary election.
 But by November, voters will have spent five months paying for the expensive cost of chaos.
 So, tell us again, Mr.
 Little, why do you endorse President Trump?
+Donate Elle Casner Previous Previous Gratitude Next Next Dear Zealots in the Idaho Capitol TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

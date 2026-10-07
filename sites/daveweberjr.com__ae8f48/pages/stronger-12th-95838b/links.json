@@ -1,8 +1,30 @@
 [
-"https://daveweberjr.com/",
-"https://daveweberjr.com/about-dave",
-"https://daveweberjr.com/contact",
-"https://daveweberjr.com/news-media",
-"https://daveweberjr.com/stronger-12th",
-"https://secure.winred.com/friends-of-dave-weber/donate-today"
+{
+"text": "A STRONGER 12th",
+"href": "https://www.daveweberjr.com/stronger-12th/"
+},
+{
+"text": "ABOUT DAVE",
+"href": "https://www.daveweberjr.com/about-dave/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.daveweberjr.com/contact/"
+},
+{
+"text": "CONTRIBUTE TO MY CAMPAIGN",
+"href": "https://secure.winred.com/friends-of-dave-weber/donate-today"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-dave-weber/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.daveweberjr.com/"
+},
+{
+"text": "NEWS & MEDIA",
+"href": "https://www.daveweberjr.com/news-media/"
+}
 ]

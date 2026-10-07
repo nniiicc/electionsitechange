@@ -1,53 +1,218 @@
 [
-"https://jonahwheeler.com/",
-"https://jonahwheeler.com/biography",
-"https://jonahwheeler.com/contact",
-"https://jonahwheeler.com/donate",
-"https://jonahwheeler.com/letters",
-"https://jonahwheeler.com/news",
-"https://jonahwheeler.com/sponsored-legislation",
-"https://jonahwheeler.com/videos",
-"https://jonahwheeler.com/videos/america-s-ass-with-anthony-henry",
-"https://jonahwheeler.com/videos/black-excellence-dinner-2021",
-"https://jonahwheeler.com/videos/black-history-month-speech-2025",
-"https://jonahwheeler.com/videos/defend-the-guard-testimony",
-"https://jonahwheeler.com/videos/demystifying-local-government",
-"https://jonahwheeler.com/videos/floor-speech-on-a-nh-constitutional-amendment-to-ban-slavery",
-"https://jonahwheeler.com/videos/hb10-floor-speech",
-"https://jonahwheeler.com/videos/hb104-the-granny-d-day-bill",
-"https://jonahwheeler.com/videos/hb113-floor-speech-against-removing-physical-fitness-requirements-for-police",
-"https://jonahwheeler.com/videos/hb1305-reinforcing-the-right-to-free-speech-on-campus",
-"https://jonahwheeler.com/videos/hb140-testimony",
-"https://jonahwheeler.com/videos/hb148-floor-speech",
-"https://jonahwheeler.com/videos/hb184-full-hearing",
-"https://jonahwheeler.com/videos/hb196-testimony",
-"https://jonahwheeler.com/videos/hb210-testimony",
-"https://jonahwheeler.com/videos/hb238-testimony",
-"https://jonahwheeler.com/videos/hb256-testimony",
-"https://jonahwheeler.com/videos/hb283-testimony",
-"https://jonahwheeler.com/videos/hb377-floor-speech",
-"https://jonahwheeler.com/videos/hb457-floor-speech",
-"https://jonahwheeler.com/videos/hb468-testimony",
-"https://jonahwheeler.com/videos/hb509-testimony",
-"https://jonahwheeler.com/videos/hb52-floor-speech",
-"https://jonahwheeler.com/videos/hb619-floor-speech",
-"https://jonahwheeler.com/videos/hb623-testimony",
-"https://jonahwheeler.com/videos/hb669-full-debate",
-"https://jonahwheeler.com/videos/hb669-testimony",
-"https://jonahwheeler.com/videos/hb671-testimony",
-"https://jonahwheeler.com/videos/hb89-testimony",
-"https://jonahwheeler.com/videos/hb94-testimony",
-"https://jonahwheeler.com/videos/interview-with-the-hill",
-"https://jonahwheeler.com/videos/keene-juneteenth-2022",
-"https://jonahwheeler.com/videos/march-2025-listening-session",
-"https://jonahwheeler.com/videos/mlk-day-2023-hancock-congregational-church",
-"https://jonahwheeler.com/videos/peterborough-parley-2024",
-"https://jonahwheeler.com/videos/peterborough-parley-debate-2022",
-"https://jonahwheeler.com/videos/representative-jonah-orion-wheeler-at-reynolds-hall-in-peterborough-nh-1-20-25",
-"https://jonahwheeler.com/videos/sb284-floor-speech",
-"https://jonahwheeler.com/videos/the-moral-obligation-of-the-moment",
-"https://jonahwheeler.com/videos/the-remarks-given-on-sb61",
-"https://jonahwheeler.com/videos/the-state-we-re-in-young-legislators",
-"https://jonahwheeler.com/videos/wheeler-for-house-announcement-ad-2022",
-"https://jonahwheeler.com/videos/wmur-closeup-interview"
+{
+"text": "About",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Biography",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://jonahwheeler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://jonahwheeler.com/donate"
+},
+{
+"text": "HB10 Floor Speech",
+"href": "https://jonahwheeler.com/videos/hb10-floor-speech"
+},
+{
+"text": "HB148 Floor Speech",
+"href": "https://jonahwheeler.com/videos/hb148-floor-speech"
+},
+{
+"text": "HB377 Floor Speech",
+"href": "https://jonahwheeler.com/videos/hb377-floor-speech"
+},
+{
+"text": "HB457 Floor Speech",
+"href": "https://jonahwheeler.com/videos/hb457-floor-speech"
+},
+{
+"text": "HB52 Floor Speech",
+"href": "https://jonahwheeler.com/videos/hb52-floor-speech"
+},
+{
+"text": "HB669 Full Debate",
+"href": "https://jonahwheeler.com/videos/hb669-full-debate"
+},
+{
+"text": "Home",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "In the News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Issues",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "Letters",
+"href": "https://jonahwheeler.com/letters"
+},
+{
+"text": "March 2025 ‘Listening Session’",
+"href": "https://jonahwheeler.com/videos/march-2025-listening-session"
+},
+{
+"text": "News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "SB284 Floor Speech",
+"href": "https://jonahwheeler.com/videos/sb284-floor-speech"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://jonahwheeler.com/sponsored-legislation"
+},
+{
+"text": "Videos",
+"href": "https://jonahwheeler.com/videos"
+},
+{
+"text": "[image]America’s Ass with Anthony Henry",
+"href": "https://jonahwheeler.com/videos/america-s-ass-with-anthony-henry"
+},
+{
+"text": "[image]Black Excellence Dinner 2021",
+"href": "https://jonahwheeler.com/videos/black-excellence-dinner-2021"
+},
+{
+"text": "[image]Black History Month Speech 2025",
+"href": "https://jonahwheeler.com/videos/black-history-month-speech-2025"
+},
+{
+"text": "[image]Defend The Guard Testimony",
+"href": "https://jonahwheeler.com/videos/defend-the-guard-testimony"
+},
+{
+"text": "[image]Demystifying Local Government",
+"href": "https://jonahwheeler.com/videos/demystifying-local-government"
+},
+{
+"text": "[image]HB104, the \"Granny D\" day bill",
+"href": "https://jonahwheeler.com/videos/hb104-the-granny-d-day-bill"
+},
+{
+"text": "[image]HB113 - Removing physical fitness requirements for police",
+"href": "https://jonahwheeler.com/videos/hb113-floor-speech-against-removing-physical-fitness-requirements-for-police"
+},
+{
+"text": "[image]HB1305 - Reinforcing the right to free speech on campus",
+"href": "https://jonahwheeler.com/videos/hb1305-reinforcing-the-right-to-free-speech-on-campus"
+},
+{
+"text": "[image]HB140 Testimony",
+"href": "https://jonahwheeler.com/videos/hb140-testimony"
+},
+{
+"text": "[image]HB184 Full Hearing",
+"href": "https://jonahwheeler.com/videos/hb184-full-hearing"
+},
+{
+"text": "[image]HB196 Testimony",
+"href": "https://jonahwheeler.com/videos/hb196-testimony"
+},
+{
+"text": "[image]HB210 Testimony",
+"href": "https://jonahwheeler.com/videos/hb210-testimony"
+},
+{
+"text": "[image]HB238 Testimony",
+"href": "https://jonahwheeler.com/videos/hb238-testimony"
+},
+{
+"text": "[image]HB256 Testimony",
+"href": "https://jonahwheeler.com/videos/hb256-testimony"
+},
+{
+"text": "[image]HB283 Testimony",
+"href": "https://jonahwheeler.com/videos/hb283-testimony"
+},
+{
+"text": "[image]HB468 Testimony",
+"href": "https://jonahwheeler.com/videos/hb468-testimony"
+},
+{
+"text": "[image]HB509 Testimony",
+"href": "https://jonahwheeler.com/videos/hb509-testimony"
+},
+{
+"text": "[image]HB619 Floor Speech",
+"href": "https://jonahwheeler.com/videos/hb619-floor-speech"
+},
+{
+"text": "[image]HB623 Testimony",
+"href": "https://jonahwheeler.com/videos/hb623-testimony"
+},
+{
+"text": "[image]HB669 Testimony",
+"href": "https://jonahwheeler.com/videos/hb669-testimony"
+},
+{
+"text": "[image]HB671 Testimony",
+"href": "https://jonahwheeler.com/videos/hb671-testimony"
+},
+{
+"text": "[image]HB89 Testimony",
+"href": "https://jonahwheeler.com/videos/hb89-testimony"
+},
+{
+"text": "[image]HB94 Testimony",
+"href": "https://jonahwheeler.com/videos/hb94-testimony"
+},
+{
+"text": "[image]Interview with The Hill",
+"href": "https://jonahwheeler.com/videos/interview-with-the-hill"
+},
+{
+"text": "[image]Keene Juneteenth 2022",
+"href": "https://jonahwheeler.com/videos/keene-juneteenth-2022"
+},
+{
+"text": "[image]MLK Day 2023 - Hancock Congregational Church",
+"href": "https://jonahwheeler.com/videos/mlk-day-2023-hancock-congregational-church"
+},
+{
+"text": "[image]MLKDay2025 at Reynolds Hall in Peterborough, NH.",
+"href": "https://jonahwheeler.com/videos/representative-jonah-orion-wheeler-at-reynolds-hall-in-peterborough-nh-1-20-25"
+},
+{
+"text": "[image]NH Constitutional Amendment to ban slavery.",
+"href": "https://jonahwheeler.com/videos/floor-speech-on-a-nh-constitutional-amendment-to-ban-slavery"
+},
+{
+"text": "[image]Peterborough Parley 2024",
+"href": "https://jonahwheeler.com/videos/peterborough-parley-2024"
+},
+{
+"text": "[image]Peterborough Parley Debate 2022",
+"href": "https://jonahwheeler.com/videos/peterborough-parley-debate-2022"
+},
+{
+"text": "[image]The Moral Obligation of the Moment",
+"href": "https://jonahwheeler.com/videos/the-moral-obligation-of-the-moment"
+},
+{
+"text": "[image]The State We’re In | Young Legislators",
+"href": "https://jonahwheeler.com/videos/the-state-we-re-in-young-legislators"
+},
+{
+"text": "[image]The remarks given on SB61",
+"href": "https://jonahwheeler.com/videos/the-remarks-given-on-sb61"
+},
+{
+"text": "[image]WMUR CloseUp Interview",
+"href": "https://jonahwheeler.com/videos/wmur-closeup-interview"
+},
+{
+"text": "[image]Wheeler for House announcement ad 2022",
+"href": "https://jonahwheeler.com/videos/wheeler-for-house-announcement-ad-2022"
+}
 ]

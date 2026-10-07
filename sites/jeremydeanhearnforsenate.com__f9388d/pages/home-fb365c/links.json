@@ -1,9 +1,34 @@
 [
-"http://iseepurple.org/",
-"https://bsky.app/profile/iseepurple.bsky.social",
-"https://facebook.com/profile.php?id=61585978862762",
-"https://jeremydeanhearnforsenate.com/home",
-"https://linkedin.com/company/i-see-purple",
-"https://x.com/purplepledge",
-"https://youtube.com/shorts/5BQw-VY-n74?feature=share"
+{
+"text": "2.jhearn@gmail.com",
+"href": "mailto:2.jhearn@gmail.com"
+},
+{
+"text": "JDH for US Senate 2026 Campaign at Tennessee",
+"href": "https://www.jeremydeanhearnforsenate.com/home"
+},
+{
+"text": "https://bsky.app/profile/iseepurple.bsky.social",
+"href": "https://bsky.app/profile/iseepurple.bsky.social"
+},
+{
+"text": "https://www.facebook.com/profile.php?id=61585978862762",
+"href": "https://www.facebook.com/profile.php?id=61585978862762"
+},
+{
+"text": "https://www.linkedin.com/company/i-see-purple/",
+"href": "https://www.linkedin.com/company/i-see-purple/"
+},
+{
+"text": "https://x.com/purplepledge",
+"href": "https://x.com/purplepledge"
+},
+{
+"text": "www.iseepurple.org",
+"href": "http://www.iseepurple.org/"
+},
+{
+"text": "youtube.com/shorts/5BQw-VY-n74?feature=share",
+"href": "https://youtube.com/shorts/5BQw-VY-n74?feature=share"
+}
 ]

@@ -1,38 +1,210 @@
 [
-"https://facebook.com/WendyRogersAZ",
-"https://gorightstrategies.com/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rumble.com/c/c-845387",
-"https://truthsocial.com/@wendyrogersaz",
-"https://twitter.com/wendyrogersaz",
-"https://wendyrogers.org/",
-"https://wendyrogers.org/arizona-house-committee-advances-sen-wendy-rogers-sb1055-requiring-immediate-ice-notification-for-illegal-arrests",
-"https://wendyrogers.org/arizona-house-rules-committee-advances-sen-wendy-rogers-sb1052-strengthening-border-enforcement-training",
-"https://wendyrogers.org/arizona-house-rules-committee-advances-sen-wendy-rogers-sb1421-denying-illegal-aliens-access-to-banking-and-remittances",
-"https://wendyrogers.org/arizona-senate-advances-sen-wendy-rogers-sb1520-requiring-agency-immigration-data-sharing",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1054-requiring-standing-for-municipal-and-county-measures",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1071-strengthening-election-and-government-measures",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1426-strengthening-private-property-rights-against-unlawful-occupants-2",
-"https://wendyrogers.org/az-sen-wendy-rogers-on-airman-rescue-we-never-leave-anyone-behind",
-"https://wendyrogers.org/biography",
-"https://wendyrogers.org/contact",
-"https://wendyrogers.org/donate",
-"https://wendyrogers.org/endorsements",
-"https://wendyrogers.org/issues",
-"https://wendyrogers.org/meet",
-"https://wendyrogers.org/news",
-"https://wendyrogers.org/page/10",
-"https://wendyrogers.org/page/2",
-"https://wendyrogers.org/page/3",
-"https://wendyrogers.org/page/4",
-"https://wendyrogers.org/page/6",
-"https://wendyrogers.org/page/7",
-"https://wendyrogers.org/page/8",
-"https://wendyrogers.org/page/9",
-"https://wendyrogers.org/privacy-policy",
-"https://wendyrogers.org/sen-wendy-rogers-drives-bold-america-first-legislative-package-in-senate-and-house",
-"https://wendyrogers.org/sign-wendy-rogers-stand-with-ice-petition",
-"https://wendyrogers.org/terms-and-conditions",
-"https://wendyrogers.org/volunteer"
+{
+"text": "1",
+"href": "https://wendyrogers.org/"
+},
+{
+"text": "10",
+"href": "https://wendyrogers.org/page/10/"
+},
+{
+"text": "2",
+"href": "https://wendyrogers.org/page/2/"
+},
+{
+"text": "3",
+"href": "https://wendyrogers.org/page/3/"
+},
+{
+"text": "4",
+"href": "https://wendyrogers.org/page/4/"
+},
+{
+"text": "6",
+"href": "https://wendyrogers.org/page/6/"
+},
+{
+"text": "7",
+"href": "https://wendyrogers.org/page/7/"
+},
+{
+"text": "8",
+"href": "https://wendyrogers.org/page/8/"
+},
+{
+"text": "9",
+"href": "https://wendyrogers.org/page/9/"
+},
+{
+"text": "AZ Sen. Wendy Rogers on Airman Rescue: “We Never Leave Anyone Behind”",
+"href": "https://wendyrogers.org/az-sen-wendy-rogers-on-airman-rescue-we-never-leave-anyone-behind/"
+},
+{
+"text": "Arizona House Committee Advances Sen. Wendy Rogers SB1055 Requiring Immediate ICE Notification for Illegal Arrests",
+"href": "https://wendyrogers.org/arizona-house-committee-advances-sen-wendy-rogers-sb1055-requiring-immediate-ice-notification-for-illegal-arrests/"
+},
+{
+"text": "Arizona House Rules Committee Advances Sen. Wendy Rogers SB1052 Strengthening Border Enforcement Training",
+"href": "https://wendyrogers.org/arizona-house-rules-committee-advances-sen-wendy-rogers-sb1052-strengthening-border-enforcement-training/"
+},
+{
+"text": "Arizona House Rules Committee Advances Sen. Wendy Rogers SB1421 Denying Illegal Aliens Access to Banking and Remittances",
+"href": "https://wendyrogers.org/arizona-house-rules-committee-advances-sen-wendy-rogers-sb1421-denying-illegal-aliens-access-to-banking-and-remittances/"
+},
+{
+"text": "Arizona Senate Advances Sen. Wendy Rogers SB1520 Requiring Agency Immigration Data Sharing",
+"href": "https://wendyrogers.org/arizona-senate-advances-sen-wendy-rogers-sb1520-requiring-agency-immigration-data-sharing/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1054 Requiring Standing for Municipal and County Measures",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1054-requiring-standing-for-municipal-and-county-measures/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1071 Strengthening Election and Government Measures",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1071-strengthening-election-and-government-measures/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1426 Strengthening Private Property Rights Against Unlawful Occupants",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1426-strengthening-private-property-rights-against-unlawful-occupants-2/"
+},
+{
+"text": "Biography",
+"href": "https://wendyrogers.org/biography/"
+},
+{
+"text": "Contact",
+"href": "https://wendyrogers.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://wendyrogers.org/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://wendyrogers.org/endorsements/"
+},
+{
+"text": "Go Right Strategies",
+"href": "https://gorightstrategies.com/"
+},
+{
+"text": "Home",
+"href": "https://wendyrogers.org"
+},
+{
+"text": "Issues",
+"href": "https://wendyrogers.org/issues/"
+},
+{
+"text": "Meet Senator Wendy Rogers",
+"href": "https://wendyrogers.org/meet/"
+},
+{
+"text": "Meet Wendy",
+"href": "https://wendyrogers.org/meet/"
+},
+{
+"text": "News",
+"href": "https://wendyrogers.org/news/"
+},
+{
+"text": "Next »",
+"href": "https://wendyrogers.org/page/6/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wendyrogers.org/privacy-policy/"
+},
+{
+"text": "Sen. Wendy Rogers Drives Bold America First Legislative Package in Senate and House",
+"href": "https://wendyrogers.org/sen-wendy-rogers-drives-bold-america-first-legislative-package-in-senate-and-house/"
+},
+{
+"text": "Sign Wendy Rogers' STAND WITH ICE Petition",
+"href": "https://wendyrogers.org/sign-wendy-rogers-stand-with-ice-petition/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://wendyrogers.org/terms-and-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Wendy Rogers]",
+"href": "https://wendyrogers.org/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-house-committee-advances-sen-wendy-rogers-sb1055-requiring-immediate-ice-notification-for-illegal-arrests/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-house-rules-committee-advances-sen-wendy-rogers-sb1052-strengthening-border-enforcement-training/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-house-rules-committee-advances-sen-wendy-rogers-sb1421-denying-illegal-aliens-access-to-banking-and-remittances/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-advances-sen-wendy-rogers-sb1520-requiring-agency-immigration-data-sharing/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1054-requiring-standing-for-municipal-and-county-measures/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1071-strengthening-election-and-government-measures/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1426-strengthening-private-property-rights-against-unlawful-occupants-2/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/az-sen-wendy-rogers-on-airman-rescue-we-never-leave-anyone-behind/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/sen-wendy-rogers-drives-bold-america-first-legislative-package-in-senate-and-house/"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/WendyRogersAZ"
+},
+{
+"text": "[image]Rumble",
+"href": "https://rumble.com/c/c-845387"
+},
+{
+"text": "[image]Truth Social",
+"href": "https://truthsocial.com/@wendyrogersaz"
+},
+{
+"text": "[image]X",
+"href": "https://twitter.com/wendyrogersaz"
+},
+{
+"text": "[tooltip: Join Team Wendy]",
+"href": "https://wendyrogers.org/volunteer/"
+},
+{
+"text": "[tooltip: Meet Wendy]",
+"href": "https://wendyrogers.org/meet/"
+},
+{
+"text": "[tooltip: On the Issues]",
+"href": "https://wendyrogers.org/issues/"
+},
+{
+"text": "« Previous",
+"href": "https://wendyrogers.org/page/4/"
+}
 ]

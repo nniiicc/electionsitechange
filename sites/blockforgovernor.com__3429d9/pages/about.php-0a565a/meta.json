@@ -1,12 +1,16 @@
 {
  "description": "",
  "final_url": "https://www.blockforgovernor.com/about.php",
- "paid_for_by": null,
+ "fingerprint": "e45626ae394ef7f09609f10f9b3ecf2ef2f13fc0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ken Block for Governor",
  "years_mentioned": [
+  "2008",
   "2010",
   "2014",
   "2020",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

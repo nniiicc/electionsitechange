@@ -1,7 +1,30 @@
 [
-"https://judgecole.com/",
-"https://judgecole.com/about",
-"https://judgecole.com/issues",
-"https://judgecole.com/volunteer",
-"https://secure.anedot.com/cade-cole-for-supreme-court/donate-48975fcc26b75670a4"
+{
+"text": "ABOUT",
+"href": "https://www.judgecole.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cade-cole-for-supreme-court/donate-48975fcc26b75670a4"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.judgecole.com/about#ENDORSEMENTS"
+},
+{
+"text": "HOME",
+"href": "https://www.judgecole.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.judgecole.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.judgecole.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.judgecole.com/"
+}
 ]

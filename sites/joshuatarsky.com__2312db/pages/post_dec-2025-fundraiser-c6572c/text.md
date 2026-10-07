@@ -1,23 +1,13 @@
-Join Us for an Evening of Support & Giving Back: Fundraiser for Josh Tarsky's Re-Election as State Representative
-Josh has worked tirelessly to represent the interests of our district, and now he needs your help to continue that work.
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+All Posts Press Releases In The News Election 2026 Search Join Us for an Evening of Support & Giving Back: Fundraiser for Josh Tarsky's Re-Election as State Representative Committee to Re-elect Joshua Tarsky Dec 15, 2025 1 min read Josh has worked tirelessly to represent the interests of our district, and now he needs your help to continue that work.
 Join us for a fundraiser where you can connect with fellow supporters, learn about what Josh has been up to, his vision for the future, and contribute to his campaign for re-election as State Representative of the 13th Norfolk District.
-How Your Support Makes a Difference
-- Printing campaign materials like flyers and yard signs
-- Running advertisements in local media
-- Organizing community outreach programs
-- Coordinating volunteer efforts
-Even small donations add up and have a significant impact.
+Get Tickets How Your Support Makes a Difference Printing campaign materials like flyers and yard signs Running advertisements in local media Organizing community outreach programs Coordinating volunteer efforts Even small donations add up and have a significant impact.
 Beyond financial support, attending the fundraiser shows Josh that he has a strong base of engaged voters behind him.
 Feel free to bring friends and family who want to learn more about Josh’s work.
 Together, we can help Josh continue his important work as State Representative.
-Giving Back
-We encourage attendees to bring canned goods to benefit the Needham Community Council, helping ensure local families have the support they need this holiday season.
+Giving Back We encourage attendees to bring canned goods to benefit the Needham Community Council , helping ensure local families have the support they need this holiday season.
 We hope you’ll join us for an evening of community, conversation, and impact.
-Ways to Get Involved Beyond the Fundraiser
-If you cannot attend the event, there are still many ways to support Josh’s re-election campaign:
-- Host a small gathering to introduce friends and neighbors to Josh’s platform
-- Share campaign updates on social media to spread the word
-- Donate online through the campaign website
-We hope to see you on Wednesday!
-With gratitude,
-The Committee to Re-elect Joshua Tarsky for State Representative of the 13th Norfolk District
+Learn More About the Needham Community Council's Food Pantry Ways to Get Involved Beyond the Fundraiser If you cannot attend the event, there are still many ways to support Josh’s re-election campaign: Host a small gathering to introduce friends and neighbors to Josh’s platform Share campaign updates on social media to spread the word Donate online through the campaign website We hope to see you on Wednesday!
+With gratitude, The Committee to Re-elect Joshua Tarsky for State Representative of the 13th Norfolk District Tags: 13th Norfolk District The Common Room Needham fundraiser Holiday Reception Needham Community Council Food Pantry Election 2026 Recent Posts See All Team Tarsky Needs Your Help!
+Join us for a fundraiser in Support of Andrea Joy Campbell for Attorney General 2026 Re-election Campaign KickOff Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

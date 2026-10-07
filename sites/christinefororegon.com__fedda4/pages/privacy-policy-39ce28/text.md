@@ -1,31 +1,17 @@
-Privacy Policy
-Overview
-This Privacy Policy outlines our practices for online collection, use, and disclosure of your information that you provide to christinefororegon.com when you use this Site and engage with our Services.
+Home About News Get in Touch Endorsements Drazan Plan Fraud Tipline Merch Donate << Back to site Privacy Policy Overview This Privacy Policy outlines our practices for online collection, use, and disclosure of your information that you provide to christinefororegon.com when you use this Site and engage with our Services.
 By using this site, you agree that this Privacy Policy governs your use of the site.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this site for updates.
 Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
-Information Collected
-Voluntary Information:
-We may collect personal information you voluntarily provide to us including your name, e-mail address and postal address.
+Information Collected Voluntary Information: We may collect personal information you voluntarily provide to us including your name, e-mail address and postal address.
 You may provide this information by filling out forms, request information, register, make a purchase or for other purposes.
 We may also collect demographic information such as gender, date of birth, occupation, employer name and zip code.
 In limited circumstances, we may collect payment information such as credit card number where needed to complete a requested service or transaction.
-Automatically Generated Information:
-As you navigate through and interact with our site, we and our service providers may use automatic data collection technologies to collect non-personally identifiable information that is generated automatically while you are visiting the site, other websites, mobile websites and/or mobile applications or elsewhere on the Internet in order to provide content and advertisements about goods and services of interest to you across those various devices.
+Automatically Generated Information: As you navigate through and interact with our site, we and our service providers may use automatic data collection technologies to collect non-personally identifiable information that is generated automatically while you are visiting the site, other websites, mobile websites and/or mobile applications or elsewhere on the Internet in order to provide content and advertisements about goods and services of interest to you across those various devices.
 This non-personally identifiable data includes, but is not limited to, information such as web pages visited before and after visiting the site, date and time, logs, domain type, type of mobile device you use, your device’s unique ID links you click on within the site, interactions with an advertisement delivered by us or a third-party advertising technology vendor and other communication data regarding the resources you access and use on this site.
 We may also collect your IP address, which is a unique identifier that certain electronic devices used to identify and communicate with each other on the Internet.
-Text Messaging Opt-In Data:
-We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
-How It Is Collected:
-We collect several types of information from and about users of our site, which is collected directly from you when you provide it to us and from third parties, for example, our service providers and/or business partners.
-Automatically Generated Information as noted above may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies us and is collected using the following technologies:
-Cookies: This type of information may be collected using different types of technologies, such as cookies and pixels.
-“Cookies” are small pieces of information that are stored by your browser.
-You may refuse to accept browser cookies by activating the appropriate setting on your browser.
-However, if you select this setting you may be unable to access certain parts of our Website.
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-Web Beacons: Pages of our site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit christinefororegon.com, for example, to count users who have visited those pages or opened an e-mail and for other related web site statistics (for example, recording the popularity of certain web site content and verifying system and server integrity).
+Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+How It Is Collected: Web Beacons: Pages of our site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit christinefororegon.com, for example, to count users who have visited those pages or opened an e-mail and for other related web site statistics (for example, recording the popularity of certain web site content and verifying system and server integrity).
 Google Analytics: This website uses Google Analytics to help analyze how users use the site, which uses cookies.
 The information generated by the cookie about your use of the website (including IP address) is transmitted to Google.
 This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity for christinefororegon.com.
@@ -42,3 +28,6 @@ Text messaging originator opt-in data and consent will not be shared with any th
 Carriers are not liable for delayed or undelivered messages.
 CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE: We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), in that we do not knowingly collect or maintain personal information from anyone under 13 years of age.
 Our website, information and services are all directed to people who are at least 13 years of age or older.
+Paid for by Friends of Christine Drazan.
+PAC ID 19050.
+Contact Us PO Box 196 Canby, OR 97013 Phone: (503) 915-8614 Email: [email protected] Privacy Policy

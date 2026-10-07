@@ -1,28 +1,150 @@
 [
-"https://bd.linkedin.com/",
-"https://facebook.com/",
-"https://facebook.com/profile.php?id=61555305642706",
-"https://flaticon.com/",
-"https://fonts.google.com/specimen/Inter+Tight",
-"https://freepik.com/",
-"https://instagram.com/",
-"https://instagram.com/streeterforindiana",
-"https://linkedin.com/",
-"https://paypal.com/donate?hosted_button_id=V27YHEG3MEDUW",
-"https://streeterforindiana.com/",
-"https://streeterforindiana.com/401",
-"https://streeterforindiana.com/404",
-"https://streeterforindiana.com/blogs/new-american-economic-culture-granted-today",
-"https://streeterforindiana.com/career/technology-expert",
-"https://streeterforindiana.com/checkout",
-"https://streeterforindiana.com/departments/finance-economy",
-"https://streeterforindiana.com/events/protest-of-violence-against-women-rights",
-"https://streeterforindiana.com/portfolio/town-of-new-york-8",
-"https://streeterforindiana.com/product/campaign-event-hat",
-"https://streeterforindiana.com/services/parking-permission",
-"https://streeterforindiana.com/utility-pages/changelog",
-"https://streeterforindiana.com/utility-pages/license",
-"https://streeterforindiana.com/utility-pages/style-guide",
-"https://twitter.com/",
-"https://webflow.com/templates/designers/flowzai"
+{
+"text": "404 Not Found",
+"href": "https://www.streeterforindiana.com/404"
+},
+{
+"text": "Career Details",
+"href": "https://www.streeterforindiana.com/career/technology-expert"
+},
+{
+"text": "Career Details-CMS",
+"href": "https://www.streeterforindiana.com/career/technology-expert"
+},
+{
+"text": "Changelog",
+"href": "https://www.streeterforindiana.com/utility-pages/changelog"
+},
+{
+"text": "Continue to Checkout",
+"href": "https://www.streeterforindiana.com/checkout"
+},
+{
+"text": "Department Single",
+"href": "https://www.streeterforindiana.com/departments/finance-economy"
+},
+{
+"text": "Department Single-CMS",
+"href": "https://www.streeterforindiana.com/departments/finance-economy"
+},
+{
+"text": "Donate to Kellie!",
+"href": "https://www.paypal.com/donate/?hosted_button_id=V27YHEG3MEDUW"
+},
+{
+"text": "Event Details",
+"href": "https://www.streeterforindiana.com/events/protest-of-violence-against-women-rights"
+},
+{
+"text": "Event Details-CMS",
+"href": "https://www.streeterforindiana.com/events/protest-of-violence-against-women-rights"
+},
+{
+"text": "Flaticon",
+"href": "https://www.flaticon.com/"
+},
+{
+"text": "Follow Kellie",
+"href": "https://www.facebook.com/profile.php?id=61555305642706"
+},
+{
+"text": "Freepik",
+"href": "https://www.freepik.com/"
+},
+{
+"text": "Home",
+"href": "https://www.streeterforindiana.com/"
+},
+{
+"text": "Home 01",
+"href": "https://www.streeterforindiana.com/"
+},
+{
+"text": "Inter Tight",
+"href": "https://fonts.google.com/specimen/Inter+Tight"
+},
+{
+"text": "License",
+"href": "https://www.streeterforindiana.com/utility-pages/license"
+},
+{
+"text": "More Templates From Us",
+"href": "https://webflow.com/templates/designers/flowzai"
+},
+{
+"text": "News Details",
+"href": "https://www.streeterforindiana.com/blogs/new-american-economic-culture-granted-today"
+},
+{
+"text": "News Details-CMS",
+"href": "https://www.streeterforindiana.com/blogs/new-american-economic-culture-granted-today"
+},
+{
+"text": "Password Protected",
+"href": "https://www.streeterforindiana.com/401"
+},
+{
+"text": "Portfolio Details-CMS",
+"href": "https://www.streeterforindiana.com/portfolio/town-of-new-york-8"
+},
+{
+"text": "Portfolio Single",
+"href": "https://www.streeterforindiana.com/portfolio/town-of-new-york-8"
+},
+{
+"text": "Service Single",
+"href": "https://www.streeterforindiana.com/services/parking-permission"
+},
+{
+"text": "Service Single-CMS",
+"href": "https://www.streeterforindiana.com/services/parking-permission"
+},
+{
+"text": "Shop Details",
+"href": "https://www.streeterforindiana.com/product/campaign-event-hat"
+},
+{
+"text": "Shop Details-CMS",
+"href": "https://www.streeterforindiana.com/product/campaign-event-hat"
+},
+{
+"text": "Style Guide",
+"href": "https://www.streeterforindiana.com/utility-pages/style-guide"
+},
+{
+"text": "[image]",
+"href": "https://www.streeterforindiana.com/"
+},
+{
+"text": "kellie@streeterforindiana.com",
+"href": "mailto:kellie@streeterforindiana.com?subject=Inquiry"
+},
+{
+"text": "",
+"href": "https://twitter.com/"
+},
+{
+"text": "",
+"href": "https://bd.linkedin.com/"
+},
+{
+"text": "",
+"href": "https://www.linkedin.com/"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/streeterforindiana"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/profile.php?id=61555305642706"
+}
 ]

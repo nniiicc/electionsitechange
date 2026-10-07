@@ -1,7 +1,11 @@
 {
  "description": "Vote for Mary Boren - Norman, Oklahoma. Learn more at maryboren/vote.",
  "final_url": "https://www.maryboren.com/vote",
- "paid_for_by": "Paid for by Friends of Mary 2026&nbsp; All Rights Reserved",
+ "fingerprint": "bc0433e6be11f957fbc2dc1a534a27662621c8bc",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Mary 2026 All Rights Reserved",
  "title": "Vote | Mary Boren Norman Oklahoma Senator",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

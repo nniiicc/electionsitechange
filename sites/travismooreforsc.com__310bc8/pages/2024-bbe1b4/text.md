@@ -1,7 +1,5 @@
-Dear Friends and Neighbors, South Carolina has become the envy of the nation.
+Home About News Contact Donate 2024 Home Year: 2024 June 5, 2024 Uncategorized Bill DeVore is misleading voters again: Here are the facts Dear Friends and Neighbors, South Carolina has become the envy of the nation.
 That is no accident.
-While Bill DeVore lies about me and distorts the truth about what Governor McMaster, the conservative Republican legislature, and I have accomplished, I’ll …
-Continue reading
-"I'm proud to support Representative Travis Moore for re-election because no one stands stronger for life, law enforcement, and for the prosperity of our families than Travis Moore.
-With conservatives like Travis Moore in the State House, the best is yet to come for South Carolina." - Governor Henry …
-Continue reading
+While Bill DeVore lies about me and distorts the truth about what Governor McMaster, the conservative Republican legislature, and I have accomplished, I’ll … Continue reading May 29, 2024 Uncategorized SC Citizens for Life Calls Out Bill DeVore’s Lies Press-Release-5.28.2024-Setting-the-Record-Straight-MooreDownload May 29, 2024 Uncategorized Travis Moore Racks Up Major Conservative Endorsements, Including Gov.
+McMaster, Attorney General Wilson, and Donald Trump "I'm proud to support Representative Travis Moore for re-election because no one stands stronger for life, law enforcement, and for the prosperity of our families than Travis Moore.
+With conservatives like Travis Moore in the State House, the best is yet to come for South Carolina." - Governor Henry … Continue reading Paid for by Travis Moore for House Home About News Contact Donate

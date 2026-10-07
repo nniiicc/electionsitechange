@@ -1,35 +1,150 @@
 [
-"https://facebook.com/d.scott.dibble",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1769305488467-SX5D9R5FW8AOITTNKDW2/Pink%2C+White%2C+and+Blue.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1772214763784-QSLX2LARUQAEFLFBI8BE/endorsement-badges-2026-Endorsed.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1772219373258-T3ZF71H894VEZ1FM0S7E/MAPE.jpg.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1772324600915-BSP3RR4PVTSPIEJJ4Z5W/DFL+Senior+Caucus+Logo.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1774140460489-K0DTKAMTBWJ98ZVKQDTV/MN+DFL+Logo.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775174535130-7WBP3R3BNA32N5CHHW4D/Sierra+Club+Endorsement+Seal_Color-1.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775411795714-EWQKHIOG0LUVM9HLY56T/SMART-TD.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775414337276-QAW6JRO0Q2ZN7GUW7WGI/Stonewall+DFL.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775504383223-LW48BGT9AGG3IWIIC9L8/BLET+Logo.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1777493609567-3ZKLX0AL58PT53922980/cmvc-endorsement-logo-horiz-071822a-digital.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1777493749928-EGETRZERQN2UYOMC5SZB/OFM+ACTION+Black+and+Rainbow_transparent.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1777835645947-OOC0N0QRMZIR659SLNPH/NOW+Minnesota.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1779409229058-18W97YLVTUYNPS4J29RU/StBWAF+Logo.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1782236071626-44EYLM4TKEK5X3BDD6BT/SEIU_LOGO_Coated_White_MNSC_Stronger_Together.jpeg",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1782236194762-SFXCK34HYTXELX9WYBIY/JC+32+Teamsters+Logo.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1783999464673-1S4PLK25ANPL2QNE3HDG/Education+Minnesota.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1783999754911-RB34WN4FKP08RDEU2VRW/IUOE+Local+49.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1785004968626-LF0Z4KZDFNR9QVHXOO1Z/mn-afl-cio-logo.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1785004992409-C1OXJAR9OI34TPZ5BVDW/MNA+Logo.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1785686853781-0S1D5TRIIGU8JKULNH0R/PCM+Logo.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1786573725261-TY0WEJWOHUT8H2IJ98PU/liuna-mn-nd-logo--w-tagline.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787099307389-4PCAWSXHWSH2FXTML9K1/GJA-PAC-transparent+logo.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787440633127-7J4KEGDTPVT1L8EMX0AG/CTP+Health+Care-05-tricolor.png",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787615874274-LAO7DX92TCRNHJEALXVO/Friends+of+the+Boundary+Waters+Action+Network.webp",
-"https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787782225916-2IK2CUXX5DSBE5UHL06H/Humane+World+Action+Fund.webp",
-"https://scottdibble.com/",
-"https://scottdibble.com/endorsements",
-"https://scottdibble.com/meet-scott",
-"https://scottdibble.com/record",
-"https://scottdibble.com/search",
-"https://scottdibble.com/vision",
-"https://secure.actblue.com/contribute/page/scottdibble"
+{
+"text": "Contact",
+"href": "mailto:scott@scottdibble.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/scottdibble"
+},
+{
+"text": "Donate at ActBlue",
+"href": "https://secure.actblue.com/contribute/page/scottdibble"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scottdibble.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/d.scott.dibble"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.scottdibble.com/meet-scott"
+},
+{
+"text": "Record",
+"href": "https://www.scottdibble.com/record"
+},
+{
+"text": "Scott on Facebook",
+"href": "https://www.facebook.com/d.scott.dibble"
+},
+{
+"text": "Scott's Vision",
+"href": "https://www.scottdibble.com/vision"
+},
+{
+"text": "View fullsize [image: Brotherhood of Locomotive Engineers and Trainmen][image: Brotherhood of Locomotive Engineers and Trainmen]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775504383223-LW48BGT9AGG3IWIIC9L8/BLET+Logo.png"
+},
+{
+"text": "View fullsize [image: Conservation Minnesota Voter Center][image: Conservation Minnesota Voter Center]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1777493609567-3ZKLX0AL58PT53922980/cmvc-endorsement-logo-horiz-071822a-digital.png"
+},
+{
+"text": "View fullsize [image: Education Minnesota][image: Education Minnesota]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1783999464673-1S4PLK25ANPL2QNE3HDG/Education+Minnesota.png"
+},
+{
+"text": "View fullsize [image: Friends of the Boundary Waters Action Network][image: Friends of the Boundary Waters Action Network]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787615874274-LAO7DX92TCRNHJEALXVO/Friends+of+the+Boundary+Waters+Action+Network.webp"
+},
+{
+"text": "View fullsize [image: Gender Justice Action PAC][image: Gender Justice Action PAC]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787099307389-4PCAWSXHWSH2FXTML9K1/GJA-PAC-transparent+logo.png"
+},
+{
+"text": "View fullsize [image: Humane World Action Fund][image: Humane World Action Fund]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787782225916-2IK2CUXX5DSBE5UHL06H/Humane+World+Action+Fund.webp"
+},
+{
+"text": "View fullsize [image: IUOE Local 49][image: IUOE Local 49]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1783999754911-RB34WN4FKP08RDEU2VRW/IUOE+Local+49.webp"
+},
+{
+"text": "View fullsize [image: International Association of Sheet Metal, Air, Rail and Transportation Workers][image: International Association of Sheet Metal, Air, Rail and Transportation Workers]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775411795714-EWQKHIOG0LUVM9HLY56T/SMART-TD.webp"
+},
+{
+"text": "View fullsize [image: LGBTQ+ Victory Fund][image: LGBTQ+ Victory Fund]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1772214763784-QSLX2LARUQAEFLFBI8BE/endorsement-badges-2026-Endorsed.png"
+},
+{
+"text": "View fullsize [image: LiUNA (Laborers' International Union of North America)][image: LiUNA (Laborers' International Union of North America)]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1786573725261-TY0WEJWOHUT8H2IJ98PU/liuna-mn-nd-logo--w-tagline.webp"
+},
+{
+"text": "View fullsize [image: MAPE.jpg.webp][image: MAPE.jpg.webp]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1772219373258-T3ZF71H894VEZ1FM0S7E/MAPE.jpg.webp"
+},
+{
+"text": "View fullsize [image: Minnesota AFL-CIO][image: Minnesota AFL-CIO]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1785004968626-LF0Z4KZDFNR9QVHXOO1Z/mn-afl-cio-logo.webp"
+},
+{
+"text": "View fullsize [image: Minnesota DFL Senior Caucus Logo][image: Minnesota DFL Senior Caucus Logo]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1772324600915-BSP3RR4PVTSPIEJJ4Z5W/DFL+Senior+Caucus+Logo.webp"
+},
+{
+"text": "View fullsize [image: Minnesota DFL][image: Minnesota DFL]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1774140460489-K0DTKAMTBWJ98ZVKQDTV/MN+DFL+Logo.webp"
+},
+{
+"text": "View fullsize [image: Minnesota National Organization for Women PAC][image: Minnesota National Organization for Women PAC]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1777835645947-OOC0N0QRMZIR659SLNPH/NOW+Minnesota.webp"
+},
+{
+"text": "View fullsize [image: Minnesota Nurses Association][image: Minnesota Nurses Association]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1785004992409-C1OXJAR9OI34TPZ5BVDW/MNA+Logo.webp"
+},
+{
+"text": "View fullsize [image: OutFront Minnesota Action][image: OutFront Minnesota Action]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1777493749928-EGETRZERQN2UYOMC5SZB/OFM+ACTION+Black+and+Rainbow_transparent.png"
+},
+{
+"text": "View fullsize [image: Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund][image: Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1769305488467-SX5D9R5FW8AOITTNKDW2/Pink%2C+White%2C+and+Blue.png"
+},
+{
+"text": "View fullsize [image: Pro-Choice Minnesota][image: Pro-Choice Minnesota]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1785686853781-0S1D5TRIIGU8JKULNH0R/PCM+Logo.png"
+},
+{
+"text": "View fullsize [image: SEIU MN State Council][image: SEIU MN State Council]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1782236071626-44EYLM4TKEK5X3BDD6BT/SEIU_LOGO_Coated_White_MNSC_Stronger_Together.jpeg"
+},
+{
+"text": "View fullsize [image: Save the Boundary Waters Action Fund][image: Save the Boundary Waters Action Fund]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1779409229058-18W97YLVTUYNPS4J29RU/StBWAF+Logo.webp"
+},
+{
+"text": "View fullsize [image: Sierra Club][image: Sierra Club]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775174535130-7WBP3R3BNA32N5CHHW4D/Sierra+Club+Endorsement+Seal_Color-1.png"
+},
+{
+"text": "View fullsize [image: Stonewall DFL][image: Stonewall DFL]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1775414337276-QAW6JRO0Q2ZN7GUW7WGI/Stonewall+DFL.webp"
+},
+{
+"text": "View fullsize [image: Teamsters Joint Council 32][image: Teamsters Joint Council 32]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1782236194762-SFXCK34HYTXELX9WYBIY/JC+32+Teamsters+Logo.png"
+},
+{
+"text": "View fullsize [image: The Committee to Protect Health Care][image: The Committee to Protect Health Care]",
+"href": "https://images.squarespace-cdn.com/content/v1/553bb3fee4b0c687eb3a7915/1787440633127-7J4KEGDTPVT1L8EMX0AG/CTP+Health+Care-05-tricolor.png"
+},
+{
+"text": "Vision",
+"href": "https://www.scottdibble.com/vision"
+},
+{
+"text": "[image: Scott Dibble for Minnesota Senate]",
+"href": "https://www.scottdibble.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.scottdibble.com/search"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Susan Tyler Witten
-Susan Tyler Witten is a lifelong Louisville resident, an Eastern Jefferson County native, and a proven conservative leader delivering real results for Kentucky families.
+Home About Issues Contact Volunteer Donate Get in touch Susan Tyler Witten Susan Tyler Witten Home About Issues Contact Volunteer Donate Meet Susan Tyler Witten Susan Tyler Witten is a lifelong Louisville resident, an Eastern Jefferson County native, and a proven conservative leader delivering real results for Kentucky families.
 After growing up in Eastern Jefferson County and graduating from Eastern High School, Susan built a successful career in business before answering the call to public service.
 Today, she proudly represents Kentucky's 31st House District, where she focuses on the issues that matter most to the families she serves: keeping Kentucky affordable, protecting our communities, strengthening education, and improving the quality of life across the Commonwealth.
 In Frankfort, Susan has worked to lower Kentucky's income tax so hardworking families can keep more of what they earn.
@@ -8,3 +7,14 @@ Susan also authored Ethan's Law, making the torture of dogs and cats a felony in
 Recognized for her leadership, Susan serves as Co-Chair of Kentucky's Housing Task Force, where she works with local leaders, businesses, and housing experts to expand opportunities for families and future homeowners.
 Susan lives in Jeffersontown with her husband, Dwight.
 She remains committed to listening to her constituents, putting Eastern Jefferson County first, and delivering the kind of commonsense leadership that gets results.
+Follow Susan Tyler Witten Sign Up For Updates newsletter Name: Email: Phone Opt-In By providing your phone number and checking the box, you are consenting to receive polling/voting text messages (e.g., election reminders, opinion polls) and public service announcement text messages (e.g., legislative updates, member updates, and voter education) at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions .
+Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+Paid For By Susan Tyler Witten for State Representative Privacy Policy Powered by Ryvall Share by:

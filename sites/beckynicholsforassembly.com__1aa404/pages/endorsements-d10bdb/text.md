@@ -1,27 +1,3 @@
-top of page
-Endorsements
-AFL-CIO
-Chamber of Mothers (Wisconsin)
-Clean Wisconsin Action Fund
-Climate Cabinet
-Committee to Protect Health Care
-Democratic Legislative Campaign Committee
-Electing Women Wisconsin
-EMILYs List
-Fund Her
-International Brotherhood of Electrical Workers
-IUPAT District Council 7
-LiUNA
-Moms Demand Action Gun Sense Candidate
-National Democratic Redistricting Committee
-Northern Midwest Reg.
-Council of Carpenters
-Planned Parenthood Advocates of Wisconsin
-Service Employees International Union
-States Win
-United Auto Workers
-Wisconsin Association for Justice
-Wisconsin Conservation Voters
-Wisconsin Education Association Council
-Wisconsin Progress
-bottom of page
+top of page About Issues Get Involved Endorsements Open site navigation Back to site Make a Donation Endorsements AFL-CIO Chamber of Mothers (Wisconsin) Clean Wisconsin Action Fund Climate Cabinet Committee to Protect Health Care Democratic Legislative Campaign Committee Electing Women Wisconsin EMILYs List Fund Her International Brotherhood of Electrical Workers IUPAT District Council 7 LiUNA Moms Demand Action Gun Sense Candidate National Democratic Redistricting Committee Northern Midwest Reg.
+Council of Carpenters Planned Parenthood Advocates of Wisconsin Service Employees International Union States Win United Auto Workers Wisconsin Association for Justice Wisconsin Conservation Voters Wisconsin Education Association Council Wisconsin Progress Email: info@beckynicholsforassembly.com Phone: 920-215-0186 ​ Becky Nichols for Assembly P.O.
+Box 84 Menasha, WI 54952 ​ Privacy Policy © # PAID FOR BY NICHOLS FOR ASSEMBLY, KATHERINE BAUER - TREASURER About Issues Get Involved Endorsements bottom of page

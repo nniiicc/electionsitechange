@@ -1,32 +1,174 @@
 [
-"https://facebook.com/shellyhettlemanforsenate",
-"https://instagram.com/shellyhettleman",
-"https://secure.ngpvan.com/vBZbTz_p_EWzT_sJxFw1Vg2",
-"https://shellyhettleman.com/",
-"https://shellyhettleman.com/2022/04/09/april-news",
-"https://shellyhettleman.com/2023/01/16/session-kicks-off",
-"https://shellyhettleman.com/2023/02/02/bill-hearings-begin",
-"https://shellyhettleman.com/2023/02/17/february-news",
-"https://shellyhettleman.com/2023/03/02/2281",
-"https://shellyhettleman.com/2023/04/11/sine-die-2023",
-"https://shellyhettleman.com/2025/01/22/were-back",
-"https://shellyhettleman.com/2025/02/14/in-the-thick-of-things",
-"https://shellyhettleman.com/2025/03/05/marching-along",
-"https://shellyhettleman.com/2025/03/18/crossing-over",
-"https://shellyhettleman.com/about-shelly",
-"https://shellyhettleman.com/events-coming-soon",
-"https://shellyhettleman.com/issues",
-"https://shellyhettleman.com/issues/education",
-"https://shellyhettleman.com/issues/environment",
-"https://shellyhettleman.com/issues/health",
-"https://shellyhettleman.com/issues/jobs",
-"https://shellyhettleman.com/issues/public-safety",
-"https://shellyhettleman.com/issues/seniors",
-"https://shellyhettleman.com/resources-scholarships",
-"https://shellyhettleman.com/shelly-in-the-news",
-"https://shellyhettleman.com/stay-in-touch",
-"https://shellyhettleman.com/updates",
-"https://shellyhettleman.com/updates/page/3",
-"https://twitter.com/shellyhettleman",
-"https://webintech.com/"
+{
+"text": "About Shelly",
+"href": "https://shellyhettleman.com/about-shelly/"
+},
+{
+"text": "April News",
+"href": "https://shellyhettleman.com/2022/04/09/april-news/"
+},
+{
+"text": "Better Public Education",
+"href": "https://shellyhettleman.com/issues/education/"
+},
+{
+"text": "Bill Hearings Begin!",
+"href": "https://shellyhettleman.com/2023/02/02/bill-hearings-begin/"
+},
+{
+"text": "Crossing Over",
+"href": "https://shellyhettleman.com/2025/03/18/crossing-over/"
+},
+{
+"text": "Events",
+"href": "https://shellyhettleman.com/events-coming-soon/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/shellyhettlemanforsenate/"
+},
+{
+"text": "February News",
+"href": "https://shellyhettleman.com/2023/02/17/february-news/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/shellyhettleman"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/shellyhettlemanforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/shellyhettleman/"
+},
+{
+"text": "Health & Wellness",
+"href": "https://shellyhettleman.com/issues/health/"
+},
+{
+"text": "In the Thick of Things",
+"href": "https://shellyhettleman.com/2025/02/14/in-the-thick-of-things/"
+},
+{
+"text": "Issues",
+"href": "https://shellyhettleman.com/issues/"
+},
+{
+"text": "Jobs, Housing & Economic Development",
+"href": "https://shellyhettleman.com/issues/jobs/"
+},
+{
+"text": "Marching Along",
+"href": "https://shellyhettleman.com/2025/03/05/marching-along/"
+},
+{
+"text": "Next Entries »",
+"href": "https://shellyhettleman.com/updates/?et_blog="
+},
+{
+"text": "Our Debt to Seniors",
+"href": "https://shellyhettleman.com/issues/seniors/"
+},
+{
+"text": "Protecting the Environment & Our Democracy",
+"href": "https://shellyhettleman.com/issues/environment/"
+},
+{
+"text": "Public Safety & Criminal Justice",
+"href": "https://shellyhettleman.com/issues/public-safety/"
+},
+{
+"text": "Resources & Scholarships",
+"href": "https://shellyhettleman.com/resources-scholarships/"
+},
+{
+"text": "Session Kicks Off",
+"href": "https://shellyhettleman.com/2023/01/16/session-kicks-off/"
+},
+{
+"text": "Shelly in the News",
+"href": "https://shellyhettleman.com/shelly-in-the-news/"
+},
+{
+"text": "Sine Die 2023",
+"href": "https://shellyhettleman.com/2023/04/11/sine-die-2023/"
+},
+{
+"text": "Stay in Touch",
+"href": "https://shellyhettleman.com/stay-in-touch/"
+},
+{
+"text": "Support Shelly",
+"href": "https://secure.ngpvan.com/vBZbTz_p_EWzT_sJxFw1Vg2"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/shellyhettleman"
+},
+{
+"text": "Updates from Shelly",
+"href": "https://shellyhettleman.com/updates/"
+},
+{
+"text": "Web Interactive Technologies",
+"href": "https://www.webintech.com/"
+},
+{
+"text": "We’re Back!",
+"href": "https://shellyhettleman.com/2025/01/22/were-back/"
+},
+{
+"text": "[image: Shelly Hettleman]",
+"href": "https://shellyhettleman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://shellyhettleman.com/2023/03/02/2281/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2022/04/09/april-news/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2023/01/16/session-kicks-off/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2023/02/02/bill-hearings-begin/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2023/02/17/february-news/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2023/03/02/2281/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2023/04/11/sine-die-2023/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2025/01/22/were-back/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2025/02/14/in-the-thick-of-things/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2025/03/05/marching-along/"
+},
+{
+"text": "read more",
+"href": "https://shellyhettleman.com/2025/03/18/crossing-over/"
+},
+{
+"text": "« Older Entries",
+"href": "https://shellyhettleman.com/updates/page/3/?et_blog="
+}
 ]

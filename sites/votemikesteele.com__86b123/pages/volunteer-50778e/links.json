@@ -1,12 +1,54 @@
 [
-"http://votemikesteele.com/connect",
-"https://docs.google.com/forms/d/e/1FAIpQLSfYRkfmX1Mqi8cVBsvaUEeYcHNubZW74VjFIcd11aPsI-o5PA/viewform",
-"https://facebook.com/votemikesteele",
-"https://votemikesteele.com/",
-"https://votemikesteele.com/about",
-"https://votemikesteele.com/connect",
-"https://votemikesteele.com/endorsements",
-"https://votemikesteele.com/news-updates",
-"https://votemikesteele.com/priorities",
-"https://votemikesteele.com/volunteer"
+{
+"text": "About Mike",
+"href": "https://www.votemikesteele.com/about/"
+},
+{
+"text": "Connect",
+"href": "https://www.votemikesteele.com/connect/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikesteele.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemikesteele/"
+},
+{
+"text": "Follow a manual added link",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfYRkfmX1Mqi8cVBsvaUEeYcHNubZW74VjFIcd11aPsI-o5PA/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "Mail",
+"href": "http://www.votemikesteele.com/connect/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.votemikesteele.com/news-updates/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votemikesteele.com/priorities/"
+},
+{
+"text": "SIGN UP NOW",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfYRkfmX1Mqi8cVBsvaUEeYcHNubZW74VjFIcd11aPsI-o5PA/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemikesteele.com/volunteer/"
+},
+{
+"text": "[image: Re-Elect Mike Steele]",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "[image]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfYRkfmX1Mqi8cVBsvaUEeYcHNubZW74VjFIcd11aPsI-o5PA/viewform"
+}
 ]

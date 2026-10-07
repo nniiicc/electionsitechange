@@ -1,9 +1,8 @@
-For more than 100 years, our region has been known as the “submarine capital of the world,” and with good reason.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact DEFENSE Growing the Submarine Capital of the World For more than 100 years, our region has been known as the “submarine capital of the world,” and with good reason.
 As home to the ‘first and finest” submarine base and the shipyard that produced the first nuclear-powered submarine, eastern Connecticut is proud of its legacy of supporting our Navy and building the most advanced submarines in the world.
 Today, our region’s submarine industry – from the shipyard in Groton to manufacturers and suppliers in Enfield, Putnam, Bozrah, and across the district – is thriving with new growth and new opportunities.
 It wasn’t always that way – Joe has worked hard from day one, and every day since, to make this a reality.
-Learn more about Joe’s work:
-Historic growth at Electric Boat.
+Learn more about Joe’s work: Historic growth at Electric Boat.
 When Joe first took office, the Electric Boat shipyard – long the anchor of our region’s economy – was facing layoffs and an uncertain future, with a stagnant submarine production rate of one per year and no design and engineering work for future submarines.
 In his first term, Joe worked with Democrats and Republicans to reverse this harmful trend for our nation and our region, securing nearly $600 million to finally get the Navy working on the initial designs for a new submarine.
 Those early efforts paid off.
@@ -26,3 +25,4 @@ Chairman Courtney.
 After building a reputation as an effective advocate on maritime and naval issues, Joe became Chairman of the influential House Seapower and Projection Forces Subcommittee – the first House member from Connecticut to lead the Navy oversight committee in over 150 years.
 Joe has therefore been at the center of some of the most important debates and decisions about our Navy shipbuilding plans – and, crucially for our region, has used that post to push for submarine design, engineering, construction, and maintenance efforts that are growing our submarine industry.
 He has worked with Democrats and Republicans alike to boost our Navy shipbuilding plans when they have fallen short under presidents from both parties.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

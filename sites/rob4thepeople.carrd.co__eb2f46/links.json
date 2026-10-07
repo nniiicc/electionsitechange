@@ -1,5 +1,18 @@
 [
-"https://carrd.com/build",
-"https://facebook.com/profile.php?id=61583579486726",
-"https://zeffy.com/en-US/donation-form/green-spaces-clean-rivers-strong-communities-donate-today"
+{
+"text": "Campaign Updates",
+"href": "https://www.facebook.com/profile.php?id=61583579486726"
+},
+{
+"text": "Donate Today!",
+"href": "https://www.zeffy.com/en-US/donation-form/green-spaces-clean-rivers-strong-communities-donate-today"
+},
+{
+"text": "Let's Connect!",
+"href": "https://www.facebook.com/profile.php?id=61583579486726"
+},
+{
+"text": "Made with Carrd",
+"href": "https://carrd.com/build"
+}
 ]

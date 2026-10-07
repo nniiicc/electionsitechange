@@ -1,26 +1,17 @@
-Meet Kim
-Planting pollinator gardens at Baxter's Pond.
-Knocking on doors with volunteers.
-Rep.
-Goldman and Concerned Citizens of NY-03 on the morning of Santos’ expulsion.
-Planting pollinator gardens at Baxter's Pond.
-I'm Kimberly Garber Keiserman, a 25-year resident of Port Washington, the Long Island community where I have raised my daughters with my husband, John.
-My educational background includes a BA and M.Ed. from the College of William & Mary, and I've dedicated much of my career to education advocacy and consultancy.
-I began my career as a high school social studies teacher, and later, my path led me to the Tanenbaum Center for Interreligious Understanding, where I crafted resources to help teachers create inclusive classrooms, promote religious literacy, and combat religious bigotry and bullying.
+top of page DONATE Meet Kim Endorsements Voter Resources Kim on the Issues Matching Funds Program Get Involved The Kimterns Media Up Meet Kim Planting pollinator gardens at Baxter's Pond. press to zoom Knocking on doors with volunteers. press to zoom Rep.
+Goldman and Concerned Citizens of NY-03 on the morning of Santos’ expulsion. press to zoom Planting pollinator gardens at Baxter's Pond. press to zoom 1/12 I'm Kimberly Garber Keiserman, a 25-year resident of Port Washington, the Long Island community where I have raised my daughters with my husband, John.
+My educational background includes a BA and M.Ed. from the College of William & Mary, and I've dedicated much of my career to education advocacy and consultancy. ​ I began my career as a high school social studies teacher, and later, my path led me to the Tanenbaum Center for Interreligious Understanding, where I crafted resources to help teachers create inclusive classrooms, promote religious literacy, and combat religious bigotry and bullying.
 I went on to work as a freelance consultant, developing curricula and educational tools that foster respect for religious and cultural differences.
 I grew up moving around a lot.
 By the time I graduated from high school, I had lived at ten different addresses and gone to eight different schools.
 So when I moved to Port Washington in 2001, I was ready to find a hometown and really put down roots.
-In 2003, when some other moms invited me to join the board of the Port Washington Parent Resource Center, I said yes, and I have been serving in volunteer and leadership positions in the local schools and community groups ever since.
-Today, I am a community leader, activist, and democratic organizer who is deeply engaged in boards and organizations in Port Washington and beyond.
+In 2003, when some other moms invited me to join the board of the Port Washington Parent Resource Center, I said yes, and I have been serving in volunteer and leadership positions in the local schools and community groups ever since. ​ Today, I am a community leader, activist, and democratic organizer who is deeply engaged in boards and organizations in Port Washington and beyond.
 I serve as a commissioner on the North Hempstead Housing Authority Board, Chairwoman of the Baxter Estates Planning Board, and a board member of the Come to Believe Network.
-As Co-President of the Baxter’s Pond Foundation, I have worked to preserve the environmental integrity of Baxter’s Pond and Manhasset Bay, promote biodiversity, and champion local opportunities for environmental education.
-Much of my volunteer work is rooted in my advocacy for educational opportunity and excellence.
-From my leadership of AGATE of Port Washington to my service on the Parent Resource Center advisory board to my involvement in efforts to provide mentorship and support to first-generation college students, my aim has been to ensure that every child is empowered to reach their full potential.
-My passion for community drives my political organizing, which is focused on mobilizing grassroots activism and getting people involved in the democratic process.
+As Co-President of the Baxter’s Pond Foundation, I have worked to preserve the environmental integrity of Baxter’s Pond and Manhasset Bay, promote biodiversity, and champion local opportunities for environmental education. ​ Much of my volunteer work is rooted in my advocacy for educational opportunity and excellence.
+From my leadership of AGATE of Port Washington to my service on the Parent Resource Center advisory board to my involvement in efforts to provide mentorship and support to first-generation college students, my aim has been to ensure that every child is empowered to reach their full potential. ​ My passion for community drives my political organizing, which is focused on mobilizing grassroots activism and getting people involved in the democratic process.
 As President of the Port Washington Democratic Club and a Zone Leader for the Nassau County Democratic Committee, I have worked to elect candidates who share my commitment to community and democratic values.
 When conman George Santos was elected to Congress, I helped lead the fight to oust him from office and restore meaningful representation to the people of our district.
 My Assembly candidacy is shaped by my love for my community and my years of work here.
 Long Island deserves a leader who will listen to people’s concerns and fight for their interests and values.
 My plans for the Assembly include fostering affordable communities, advocating for strong public schools, pushing for sensible gun laws, standing up against rising antisemitism and hate, and championing robust environmental policies that promote sustainable infrastructure and a greener economy.
-My goal is to create a future that reflects our shared aspirations and ensures a fair, welcoming, and prosperous Long Island for all.
+My goal is to create a future that reflects our shared aspirations and ensures a fair, welcoming, and prosperous Long Island for all. ​ Paid for by Kim Keiserman for Assembly PRIVACY POLICY DONATE bottom of page

@@ -1,5 +1,1 @@
-News
-Latest updates from the campaign:
-Laurens County Democratic Party Announces County Convention Keynote Speakers
-Committee to Elect Michanna Tate
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Michanna Events Endorsements Issues Volunteer Contribute News Latest updates from the campaign: Laurens County Democratic Party Announces County Convention Keynote Speakers Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com - Political Campaign Websites Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu

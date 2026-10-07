@@ -1,27 +1,114 @@
 [
-"https://facebook.com/Teresa-Leger-Fernandez-301228420816284",
-"https://fernandez.house.gov/",
-"https://instagram.com/teresafornm",
-"https://secure.actblue.com/donate/teresa-for-nm",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=1000&express_lane=true",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=3300&express_lane=true",
-"https://secure.actblue.com/donate/teresa-for-nm?amount=50&express_lane=true",
-"https://teresaforall.com/",
-"https://teresaforall.com/contact",
-"https://teresaforall.com/endorsements",
-"https://teresaforall.com/issues",
-"https://teresaforall.com/media",
-"https://teresaforall.com/meet-teresa",
-"https://teresaforall.com/news",
-"https://teresaforall.com/photos",
-"https://teresaforall.com/press-releases",
-"https://teresaforall.com/privacy-policy",
-"https://teresaforall.com/videos",
-"https://teresaforall.com/volunteer",
-"https://twitter.com/TeresaForNM",
-"https://youtube.com/@teresalegerfernandez2134/videos"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=50&express_lane=true"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=1000&express_lane=true"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/teresa-for-nm?amount=3300&express_lane=true"
+},
+{
+"text": "About",
+"href": "https://www.teresaforall.com/meet-teresa"
+},
+{
+"text": "Contact",
+"href": "https://www.teresaforall.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresa-for-nm"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresaforall.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.teresaforall.com/issues"
+},
+{
+"text": "MEET TERESA",
+"href": "https://www.teresaforall.com/meet-teresa"
+},
+{
+"text": "Media",
+"href": "https://www.teresaforall.com/media"
+},
+{
+"text": "News",
+"href": "https://www.teresaforall.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/teresa-for-nm"
+},
+{
+"text": "Photos",
+"href": "https://www.teresaforall.com/photos"
+},
+{
+"text": "Press Releases",
+"href": "https://www.teresaforall.com/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.teresaforall.com/privacy-policy"
+},
+{
+"text": "Videos",
+"href": "https://www.teresaforall.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.teresaforall.com/volunteer"
+},
+{
+"text": "[image: Follow on Instagram]",
+"href": "https://www.instagram.com/teresafornm/"
+},
+{
+"text": "[image: Follow on Twitter]",
+"href": "https://twitter.com/TeresaForNM"
+},
+{
+"text": "[image: Like on Facebook]",
+"href": "https://www.facebook.com/Teresa-Leger-Fernandez-301228420816284"
+},
+{
+"text": "[image: Subscribe on YouTube]",
+"href": "https://www.youtube.com/@teresalegerfernandez2134/videos"
+},
+{
+"text": "[image: Teresa-Full-Color.png]",
+"href": "https://www.teresaforall.com"
+},
+{
+"text": "click here",
+"href": "https://fernandez.house.gov/"
+},
+{
+"text": "info@teresaforall.com",
+"href": "mailto:info@teresaforall.com"
+}
 ]

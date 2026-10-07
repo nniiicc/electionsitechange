@@ -1,6 +1,4 @@
-Terms and Conditions — SMS Messaging Program
-Organization: Glen Vilhauer for SD Senate Mailing Address: PO Box 1091, Watertown, SD, 57201 Contact: gvhome@midco.net
-By providing your mobile phone number and opting in to receive text messages from Glen Vilhauer for SD Senate, you agree to the following terms and conditions.
+0 Skip to Content Donate Glen's Story Contact Glen Open Menu Close Menu Open Menu Close Menu Donate Glen's Story Contact Glen Donate Glen's Story Contact Glen Terms and Conditions — SMS Messaging Program Organization: Glen Vilhauer for SD Senate Mailing Address : PO Box 1091, Watertown, SD, 57201 Contact: gvhome@midco.net By providing your mobile phone number and opting in to receive text messages from Glen Vilhauer for SD Senate, you agree to the following terms and conditions.
 Program Description.
 Glen Vilhauer for SD Senate operates an SMS messaging program to keep supporters informed about the campaign.
 By opting in, you consent to receive recurring autodialed text messages from Glen Vilhauer for SD Senate.
@@ -26,20 +24,26 @@ Cellular, Boost, MetroPCS, Cricket, and others.
 Carriers are not liable for delayed or undelivered messages.
 Privacy.
 Your privacy is important to us.
-For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy.
+For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy .
 Changes to These Terms.
 Glen Vilhauer for SD Senate may update or modify these terms at any time.
 Material changes will be reflected on this page.
 Your continued participation in the SMS program after changes are posted constitutes acceptance of the updated terms.
-Paid for by Glen Vilhauer for SD Senate.
+Paid for by Glen Vilhauer for SD Senate .
 Message rate may vary.
 Message and data rates may apply.
 Reply STOP to opt out at any time, or reply HELP for assistance.
 Consent is not a condition of any purchase or contribution.
-By checking this box, I agree to the Terms and Conditions and Privacy Policy.
-Stay connected with Glen Vilhauer for SD Senate.
+By checking this box, I agree to the Terms and Conditions and Privacy Policy .
+Stay connected with Glen Vilhauer for SD Senate .
 Sign up to receive text message updates from the campaign, including campaign news, volunteer opportunities, event reminders, voting information (dates, times, and polling locations), and get-out-the-vote reminders for the upcoming election.
 Opted-in users may receive approximately 2–5 messages per month.
 Message and data rates may apply.
 Reply STOP to unsubscribe or HELP for help.
-View our Terms and Conditions and Privacy Policy.
+View our Terms and Conditions and Privacy Policy .
+Stay in the loop.
+Send us your email address to receive updates from Glen.
+Privacy Policy.
+Terms & Conditions.
+Paid for by Glen Vilhauer for SD Senate.
+Co-Chairs Don Roby and LuAnn Strait.

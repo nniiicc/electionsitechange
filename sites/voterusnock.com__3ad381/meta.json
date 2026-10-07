@@ -1,7 +1,9 @@
 {
  "description": "Discover who your state representative are for your district. Stay informed and make your voice heard in government.",
  "final_url": "https://voterusnock.com/",
- "paid_for_by": null,
+ "fingerprint": "5734bf4003f3e5d38d1db1bbf10ab90f090f73b6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "State Representative - Friends of Jacklyn Rusnock",
  "years_mentioned": []
 }

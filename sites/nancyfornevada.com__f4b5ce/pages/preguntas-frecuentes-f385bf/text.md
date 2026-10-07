@@ -1,28 +1,13 @@
-Preguntas Frecuentes
-Respuestas a las preguntas que los votantes hacen sobre Nancy "Nan" Roecker y su candidatura al Nevada Assembly District 12.
-¿Quién es Nancy Roecker?
-Nancy "Nan" Roecker es la candidata republicana al Distrito 12 de la Asamblea Estatal de Nevada en las elecciones de 2026.
-Es consultora de tecnología con más de 20 años de experiencia ayudando a las empresas a seleccionar e implementar software financiero, madre de tres hijos y abuela de dos nietos que vive en Las Vegas.
-¿En qué distrito se postula Nancy Roecker?
-Nancy se postula para el Distrito 12 de la Asamblea Estatal de Nevada, que cubre Calico Ridge, Henderson, Lake Las Vegas y Sunrise Manor en el Condado de Clark.
-¿Por qué se postula Nancy para un cargo público?
-Nancy se postula porque quiere asegurarse de que nuestros niños tengan las mismas oportunidades que ella tuvo: crecer en un vecindario seguro, recibir una buena educación y disfrutar de prosperidad económica donde el Sueño Americano esté al alcance de todos los que estén dispuestos a trabajar por ello.
-Sus prioridades principales son combatir la crisis de asequibilidad, restaurar la seguridad pública, defender la oportunidad educativa y traer responsabilidad fiscal con sentido común a Nevada.
-¿A qué partido pertenece Nancy Roecker?
-Nancy Roecker es candidata republicana.
-¿Cuándo son las elecciones para el Distrito 12 de la Asamblea de Nevada?
-La carrera por el Distrito 12 de la Asamblea de Nevada está en la boleta de las elecciones generales de noviembre de 2026, con las primarias republicanas en junio de 2026.
-Consulta ClarkCountyNV.gov/vote o NVSOS.gov para fechas exactas, plazos de inscripción y tu lugar de votación.
-¿Cuáles son las posiciones de Nancy Roecker sobre los asuntos?
-Las áreas de enfoque de Nancy son: (1) Economía y asequibilidad — reducir impuestos, oponerse a un impuesto estatal sobre la renta, oponerse a nuevos impuestos a la gasolina, eliminar la burocracia para pequeñas empresas y apoyar vivienda asequible; (2) Educación — responsabilidad para las juntas escolares, elección de escuela en áreas de bajo rendimiento, Lee por 3 y restablecimiento de las Becas Oportunidad; (3) Seguridad Pública — respaldar a la policía y socorristas, derogar políticas procriminales, priorizar los derechos de las víctimas y detener el flujo de drogas ilegales hacia Nevada; (4) Independencia Energética — energía confiable producida en Nevada para familias y empresas, terminando con la dependencia de California para el suministro energético.
-¿Cuál es la experiencia profesional de Nancy Roecker?
-Nancy es una consultora de tecnología con más de 20 años de experiencia ayudando a miles de empresas a seleccionar e implementar soluciones de software financiero.
-Aporta esa disciplina operativa y financiera al trabajo de presupuesto y asignaciones estatales.
-¿Cómo puedo donar a la campaña de Nancy Roecker?
-Puedes contribuir a Nan for Nevada directamente en https://nancyfornevada.com/donate/.
-Cada contribución ayuda a la campaña a traer la toma de decisiones con sentido común de vuelta a Nevada.
-¿Cómo puedo ser voluntario para la campaña de Nancy Roecker?
-Contacta a la campaña en nancy@nancyfornevada.com o 702.370.8970 para conocer oportunidades de voluntariado — tocar puertas, llamadas telefónicas, organizar eventos y ayudar con el alcance en Calico Ridge, Henderson, Lake Las Vegas y Sunrise Manor.
-¿Cómo puedo contactar a Nancy Roecker o a la campaña?
-Envía un correo electrónico a nancy@nancyfornevada.com o llama al 702.370.8970.
-También puedes contactar a la campaña en Facebook (nancyfornevada), Instagram (nanfornevada) y X (nanfornevada).
+Acerca Asuntos Respaldos Preguntas Contacto Donar ENG Entrar Preguntas Frecuentes Respuestas a las preguntas que los votantes hacen sobre Nancy "Nan" Roecker y su candidatura al Nevada Assembly District 12. ¿Quién es Nancy Roecker? + Nancy "Nan" Roecker es la candidata republicana al Distrito 12 de la Asamblea Estatal de Nevada en las elecciones de 2026.
+Es consultora de tecnología con más de 20 años de experiencia ayudando a las empresas a seleccionar e implementar software financiero, madre de tres hijos y abuela de dos nietos que vive en Las Vegas. ¿En qué distrito se postula Nancy Roecker? + Nancy se postula para el Distrito 12 de la Asamblea Estatal de Nevada, que cubre Calico Ridge, Henderson, Lake Las Vegas y Sunrise Manor en el Condado de Clark. ¿Por qué se postula Nancy para un cargo público? + Nancy se postula porque quiere asegurarse de que nuestros niños tengan las mismas oportunidades que ella tuvo: crecer en un vecindario seguro, recibir una buena educación y disfrutar de prosperidad económica donde el Sueño Americano esté al alcance de todos los que estén dispuestos a trabajar por ello.
+Sus prioridades principales son combatir la crisis de asequibilidad, restaurar la seguridad pública, defender la oportunidad educativa y traer responsabilidad fiscal con sentido común a Nevada. ¿A qué partido pertenece Nancy Roecker? + Nancy Roecker es candidata republicana. ¿Cuándo son las elecciones para el Distrito 12 de la Asamblea de Nevada? + La carrera por el Distrito 12 de la Asamblea de Nevada está en la boleta de las elecciones generales de noviembre de 2026, con las primarias republicanas en junio de 2026.
+Consulta ClarkCountyNV.gov/vote o NVSOS.gov para fechas exactas, plazos de inscripción y tu lugar de votación. ¿Cuáles son las posiciones de Nancy Roecker sobre los asuntos? + Las áreas de enfoque de Nancy son: (1) Economía y asequibilidad — reducir impuestos, oponerse a un impuesto estatal sobre la renta, oponerse a nuevos impuestos a la gasolina, eliminar la burocracia para pequeñas empresas y apoyar vivienda asequible; (2) Educación — responsabilidad para las juntas escolares, elección de escuela en áreas de bajo rendimiento, Lee por 3 y restablecimiento de las Becas Oportunidad; (3) Seguridad Pública — respaldar a la policía y socorristas, derogar políticas procriminales, priorizar los derechos de las víctimas y detener el flujo de drogas ilegales hacia Nevada; (4) Independencia Energética — energía confiable producida en Nevada para familias y empresas, terminando con la dependencia de California para el suministro energético. ¿Cuál es la experiencia profesional de Nancy Roecker? + Nancy es una consultora de tecnología con más de 20 años de experiencia ayudando a miles de empresas a seleccionar e implementar soluciones de software financiero.
+Aporta esa disciplina operativa y financiera al trabajo de presupuesto y asignaciones estatales. ¿Cómo puedo donar a la campaña de Nancy Roecker? + Puedes contribuir a Nan for Nevada directamente en https://nancyfornevada.com/donate/.
+Cada contribución ayuda a la campaña a traer la toma de decisiones con sentido común de vuelta a Nevada. ¿Cómo puedo ser voluntario para la campaña de Nancy Roecker? + Contacta a la campaña en nancy@nancyfornevada.com o 702.370.8970 para conocer oportunidades de voluntariado — tocar puertas, llamadas telefónicas, organizar eventos y ayudar con el alcance en Calico Ridge, Henderson, Lake Las Vegas y Sunrise Manor. ¿Cómo puedo contactar a Nancy Roecker o a la campaña? + Envía un correo electrónico a nancy@nancyfornevada.com o llama al 702.370.8970.
+También puedes contactar a la campaña en Facebook (nancyfornevada), Instagram (nanfornevada) y X (nanfornevada). ¿No ves tu pregunta?
+Envía un correo a nancy@nancyfornevada.com o llama al 702.370.8970.
+Contacto → Nancy Roecker for Nevada Assembly District 12 Common sense decision-making for Nevada Assembly District 12 Acerca Nancy "Nan" Roecker es la candidata republicana al Nevada Assembly District 12 en 2026, representando a East Henderson, Lake Las Vegas (LLV), Calico Ridge, Tuscany, North Cadence y Sunrise Manor en el Clark County, Nevada.
+Contacto nancy@nancyfornevada.com 702.370.8970 145 Via Brianza, Suite 100, PO Box 159 Henderson, NV 89011 Donar Apoya nuestra campaña con una contribución para llevar el sentido común de vuelta a Nevada.
+Donar La Campaña Acerca Asuntos Respaldos Preguntas Participa Donar Eventos Contacto Prensa Medios Respaldos Consultas de prensa Paid for by Nan for Nevada © 2026 Nancy "Nan" Roecker .
+Todos los derechos reservados.
+Política de Privacidad

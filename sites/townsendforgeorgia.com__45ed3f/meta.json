@@ -1,7 +1,9 @@
 {
  "description": "Vote November 5th for Rick Townsend!",
  "final_url": "https://www.townsendforgeorgia.com/",
- "paid_for_by": null,
+ "fingerprint": "1dad74eab01b5961234e305e29a78278b56fa2cb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Rick Townsend for Georgia, Fighting for Georgia's Families",
  "years_mentioned": [
   "2026"

@@ -1,4 +1,6 @@
-Today, President Donald Trump endorsed Congressman Frank Lucas’ reelection bid to Oklahoma’s Third Congressional District:
-Frank Lucas is a product of common-sense Oklahoma values and is a conservative voice of reason in Washington.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate June 26, 2020 President Trump Endorses Frank Lucas for Congress Today, President Donald Trump endorsed Congressman Frank Lucas’ reelection bid to Oklahoma’s Third Congressional District: Frank Lucas is a product of common-sense Oklahoma values and is a conservative voice of reason in Washington.
 Frank Lucas is proud to support Oklahoma’s farmers and ranchers, Main Street small businesses, and veterans and will always protect conservative values like Life and the 2nd Amendment.
-###
+### Share Post navigation Frank Lucas Welcomes President Trump to Oklahoma Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

@@ -1,34 +1,146 @@
 [
-"https://arkaction.net/resources",
-"https://arkansashouse.org/learn/district-map?zip=72727",
-"https://cking4ar.com/",
-"https://cking4ar.com/about.html",
-"https://cking4ar.com/calendar.html",
-"https://cking4ar.com/cdn-cgi/l/email-protection",
-"https://cking4ar.com/contact.html",
-"https://cking4ar.com/dist-25.html",
-"https://cking4ar.com/donate.html",
-"https://cking4ar.com/endorsements.html",
-"https://cking4ar.com/press-release-11325.html",
-"https://cking4ar.com/volunteer.html",
-"https://cking4ar.com/vote.html",
-"https://courtneyking.store/",
-"https://docs.google.com/forms/d/e/1FAIpQLSczQdzKSvbFyjbOpn69L1qJtK5Tr6y1cNrbLj6QH9c7C7iQlg/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSf6kcgyVZcXGGsZR9lFyLtFEy-Bc0wyBWu5Gqr1qJdZiPbKQg/viewform?usp=publish-editor",
-"https://facebook.com/cking4ar.naturesteam",
-"https://geostor-uploads.s3.amazonaws.com/maps/House/HouseDistrictMaps/2021/2021_HouseDistrict_25_Portrait_36x60.pdf",
-"https://goodchange.app/donate/cking-ca",
-"https://instagram.com/cking4ar.naturesteam",
-"https://linkedin.com/in/ckingcreations",
-"https://secure.actblue.com/donate/cking4arhouse",
-"https://sos.arkansas.gov/elections/voter-information/voter-registration-information/request-for-a-voter-registration-application",
-"https://sos.arkansas.gov/uploads/elections/ArkansasVoterRegistrationApplication.pdf",
-"https://sos.arkansas.gov/uploads/elections/Voter_Reg_App._8-2023_.pdf",
-"https://sos.arkansas.gov/uploads/elections/voter_drive_9-2025.pdf",
-"https://sos.arkansas.gov/uploads/elections/voter_reg_ap_ar_spanish.pdf",
-"https://vote.org/register-to-vote/arkansas",
-"https://votefromabroad.org/",
-"https://voterizer.org/voter-info.html?state=Arkansas&stateId=7620b062-78d7-407a-b74b-e021d965cd69",
-"https://voterview.ar-nova.org/VoterView",
-"https://youtube.com/@CKing4ar"
+{
+"text": "AR House of Representatives District Map",
+"href": "https://www.arkansashouse.org/learn/district-map?addr=&zip=72727"
+},
+{
+"text": "AR Voter Registration (en)",
+"href": "https://www.sos.arkansas.gov/uploads/elections/Voter_Reg_App._8-2023_.pdf"
+},
+{
+"text": "AR Voter Registration Request",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/request-for-a-voter-registration-application"
+},
+{
+"text": "About",
+"href": "https://www.cking4ar.com/about.html"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/cking4arhouse"
+},
+{
+"text": "CONTRIBUTE WITH GOOD CHANGE",
+"href": "https://goodchange.app/donate/cking-ca"
+},
+{
+"text": "Calendar",
+"href": "https://www.cking4ar.com/calendar.html"
+},
+{
+"text": "Contact",
+"href": "https://www.cking4ar.com/contact.html"
+},
+{
+"text": "Dist 25",
+"href": "https://www.cking4ar.com/dist-25.html"
+},
+{
+"text": "District 25 Map",
+"href": "https://geostor-uploads.s3.amazonaws.com/maps/House/HouseDistrictMaps/2021/2021_HouseDistrict_25_Portrait_36x60.pdf"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/cking-ca"
+},
+{
+"text": "Donate",
+"href": "https://www.cking4ar.com/donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cking4ar.com/endorsements.html"
+},
+{
+"text": "GoodChange",
+"href": "https://goodchange.app/donate/cking-ca"
+},
+{
+"text": "Guest Speaker @ Our Meetings",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSczQdzKSvbFyjbOpn69L1qJtK5Tr6y1cNrbLj6QH9c7C7iQlg/viewform?usp=header"
+},
+{
+"text": "Home",
+"href": "https://www.cking4ar.com/"
+},
+{
+"text": "How to Vote?",
+"href": "https://www.voterizer.org/voter-info.html?state=Arkansas&stateId=7620b062-78d7-407a-b74b-e021d965cd69"
+},
+{
+"text": "Merch/Signs",
+"href": "https://courtneyking.store/"
+},
+{
+"text": "Press Release 11/3/25",
+"href": "https://www.cking4ar.com/press-release-11325.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.vote.org/register-to-vote/arkansas/"
+},
+{
+"text": "Request Guest Appearence",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf6kcgyVZcXGGsZR9lFyLtFEy-Bc0wyBWu5Gqr1qJdZiPbKQg/viewform?usp=publish-editor"
+},
+{
+"text": "Solicitud de Inscripción de Votante",
+"href": "https://www.sos.arkansas.gov/uploads/elections/voter_reg_ap_ar_spanish.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cking4ar.com/volunteer.html"
+},
+{
+"text": "Vote",
+"href": "https://www.cking4ar.com/vote.html"
+},
+{
+"text": "Voter Registration Abroad",
+"href": "https://www.votefromabroad.org/"
+},
+{
+"text": "Voter Registration Drive",
+"href": "https://www.sos.arkansas.gov/uploads/elections/voter_drive_9-2025.pdf"
+},
+{
+"text": "Voter Registration Form (EN)",
+"href": "https://www.sos.arkansas.gov/uploads/elections/ArkansasVoterRegistrationApplication.pdf"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.arkaction.net/resources#:~:text=League%20of%20Women%20Voters%20of,in%20elections%20across%20the%20state."
+},
+{
+"text": "Voter View",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "[email protected]",
+"href": "mailto:cking4ar@gmail.com"
+},
+{
+"text": "[image: MY SITE]",
+"href": "https://www.cking4ar.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cking4ar.naturesteam"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cking4ar.naturesteam"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/ckingcreations"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CKing4ar"
+},
+{
+"text": "[no text]",
+"href": "mailto:cking4ar@gmail.com"
+}
 ]

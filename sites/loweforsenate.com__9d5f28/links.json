@@ -1,6 +1,26 @@
 [
-"http://twitter.com/jadamlowe",
-"https://facebook.com/DrJAdamLowe",
-"https://wix.com/",
-"https://youtube.com/channel/UCvCABeg_MZZ6OqLz7EsUJOA"
+{
+"text": "Loweforsenate@gmail.com",
+"href": "mailto:Loweforsenate@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DrJAdamLowe/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://www.twitter.com/jadamlowe"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCvCABeg_MZZ6OqLz7EsUJOA"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "© # by The Alderman Group.",
+"href": "https://wix.com/"
+}
 ]

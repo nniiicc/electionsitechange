@@ -1,11 +1,9 @@
-Faith.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Faith.
 Family.
 Freedom.
 “She gets it.
-And, gets out there.”
-A fighter for Eastern Washington, Mary loves meeting with residents, asking the tough questions and delivering for our district.
-Meet Mary
-Mary Dye is a vocal advocate for limited, but effective government, and believes state agencies at every level need to work more efficiently and effectively for all Washingtonians.
+And, gets out there.” A fighter for Eastern Washington, Mary loves meeting with residents, asking the tough questions and delivering for our district.
+Meet Mary Mary Dye is a vocal advocate for limited, but effective government, and believes state agencies at every level need to work more efficiently and effectively for all Washingtonians.
 Mary Dye has lived in the 9th District most of her life, where she operates a 3,000-acre wheat farm with her husband, Roger.
 The Dyes pride themselves on creativity and innovation in agronomic practices and advancing new technologies that improve efficiencies and cost savings for the agricultural community.
 Rep.
@@ -19,8 +17,7 @@ The way our urban dwellers experience climate is directly related to the more ob
 Unifying win-win path that can bring us back together.
 Mary is convinced that specific investments can have visible and palpable improvements in the quality of life for those living in urban spaces.
 She postulates that creating more environmentally sustainable cities and restoring their ecological health will require the strength of healthy energy, manufacturing and natural resource economies across the state.
-She wants to invest in the environment of the city, and she is also deeply committed to restoring the infrastructure needed to sustain the natural resource economies in rural communities …
-Committed to Lifelong Learning
-Mary graduated in 2018 from the Pacific NorthWest Economic Region (PNWER) Foundation’s Legislative Energy Horizon Institute, which educates state legislators on the North American energy infrastructure and delivery system.
+She wants to invest in the environment of the city, and she is also deeply committed to restoring the infrastructure needed to sustain the natural resource economies in rural communities … Committed to Lifelong Learning Mary graduated in 2018 from the Pacific NorthWest Economic Region (PNWER) Foundation’s Legislative Energy Horizon Institute, which educates state legislators on the North American energy infrastructure and delivery system.
 She has also served on the National Conference of State Legislature’s (NCSL) Communications, Financial Services and Interstate Commerce Committee.
 She has a Bachelor of Science degree in plant science and crop management from the University of Idaho and has served as an agriculture educator for the Peace Corps in Thailand.
+Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

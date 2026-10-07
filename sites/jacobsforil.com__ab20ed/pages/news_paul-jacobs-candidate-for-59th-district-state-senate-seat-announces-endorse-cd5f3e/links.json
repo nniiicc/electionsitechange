@@ -1,10 +1,34 @@
 [
-"https://campaignpartner.com/",
-"https://jacobsforil.com/",
-"https://jacobsforil.com/about_paul",
-"https://jacobsforil.com/contact",
-"https://jacobsforil.com/home",
-"https://jacobsforil.com/news",
-"https://jacobsforil.com/page-638912888124307400",
-"https://jacobsforil.com/privacy-policy"
+{
+"text": "About Paul",
+"href": "https://www.jacobsforil.com/about_paul"
+},
+{
+"text": "Contact",
+"href": "https://www.jacobsforil.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.jacobsforil.com/home"
+},
+{
+"text": "News",
+"href": "https://www.jacobsforil.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jacobsforil.com/privacy-policy"
+},
+{
+"text": "Recent Activity",
+"href": "https://www.jacobsforil.com/page-638912888124307400"
+},
+{
+"text": "[image]",
+"href": "https://www.jacobsforil.com/"
+}
 ]

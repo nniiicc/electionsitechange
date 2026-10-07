@@ -1,4 +1,4 @@
-Who is Austin Magee?
+0 Skip to Content Home About Contact Donate Open Menu Close Menu Home About Contact Donate Open Menu Close Menu Home About Contact Donate Who is Austin Magee?
 I was born, raised, worked, went to high school and college all right here in district 5.
 I’m the proud small business owner of Pittman Industrial, a welding and mechanical company that works all throughout our state.
 I highly doubt any politician has worked harder or gotten dirtier than me, I beat the sun up every day and a 16 hour shift is absolutely not out of the normal.
@@ -22,4 +22,4 @@ James 4:17 tells us plainly it is a sin to know what to do and not do it.
 I am choosing to be obedient to my creator.
 So I plan to completely change the life I live in order to serve the people of district 5, and be your voice of reason, logic, and morals in the House of Representatives.
 Give me a shot!
-“I can’t do any worse than the rest of em!”
+“I can’t do any worse than the rest of em!” Paid for by Austin Magee for Congress Contact 985-335-5499 info@austinmageeforcongress.com

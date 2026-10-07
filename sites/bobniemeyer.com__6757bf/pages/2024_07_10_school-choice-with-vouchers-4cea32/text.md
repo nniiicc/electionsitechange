@@ -1,5 +1,4 @@
-Fellow Oregonians:
-Public Education in Oregon has been destroyed.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer School Choice with Vouchers Fellow Oregonians: Public Education in Oregon has been destroyed.
 We must use a Voucher system that will allow Parents to decide the type and quality of education they want for their children.
 Vouchers for School Choice, special needs, and Charter Schools are clearly what the People want.
 My concept for a Voucher system is that it would actually be a “Variable Voucher System”.
@@ -12,3 +11,5 @@ Phonics to teach reading and writing.
 Personally, my parents had to send me to a tutor to get me to learn how to read.
 That tutor used Phonics to get me to go from seeing letters that had no meaning to reading with comprehension at a college level in about five months.
 Also, as part of teaching from Charter or any other form of schools, testing must be brought back to show student progress.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

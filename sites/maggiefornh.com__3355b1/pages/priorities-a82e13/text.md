@@ -1,6 +1,4 @@
-Priorities
-Protecting Our Democracy
-Maggie was born on Election Day in Nashua – her hometown today and the city her family has called home for more than one hundred years.
+About Maggie Priorities Volunteer Yard Signs Donate About Maggie Priorities Volunteer Yard Signs Donate Priorities Protecting Our Democracy Maggie was born on Election Day in Nashua – her hometown today and the city her family has called home for more than one hundred years.
 No one does democracy better than New Hampshire and no one takes freedom more seriously than Granite Staters.
 New Hampshire has made Maggie who she is today and growing up here taught Maggie that democracy isn’t something you watch from the sidelines – it is something you participate in.
 Today, our democracy is under threat by an extreme movement in our politics, and Maggie has dedicated her career to protecting our democracy.
@@ -14,8 +12,7 @@ Rudman Center at UNH School of Law.
 Maggie believes deep in her bones that no politician is above the law and that no corporation is above the law.
 She is proud to be the only candidate in this race who has never taken a dime of corporate PAC money.
 And on day one in Congress, Maggie is ready to fight for voting rights, campaign finance reform, fair maps, and critical reforms to ensure accountability across our federal government, including in our federal courts and in Congress where critical reforms to protect our democracy and restore faith in our government are urgently needed.
-Defending Our Freedoms
-No one believes more deeply in freedom than we do here in the Live Free or Die Granite State.
+Defending Our Freedoms No one believes more deeply in freedom than we do here in the Live Free or Die Granite State.
 In Congress, Maggie will fight to restore, defend, and expand our basic freedoms – from the freedom to access the reproductive healthcare you need to the freedom to live as your authentic self.
 Because of her experience over the past 15 years, Maggie knows how to fight these fights and deliver for New Hampshire.
 She clerked on the U.S.
@@ -23,16 +20,15 @@ Supreme Court; she has worked in both houses of the U.S.
 Congress; and she served as a Deputy Assistant Attorney General at the U.S.
 Department of Justice.
 The day Roe v.
-Wade was overturned, Maggie was working at the Justice Department and helped launch its Reproductive Rights Task Force to ensure patients and providers across America had access to the legal assistance they needed in the aftermath of the Supreme Court’s decision in Dobbs.
+Wade was overturned, Maggie was working at the Justice Department and helped launch its Reproductive Rights Task Force to ensure patients and providers across America had access to the legal assistance they needed in the aftermath of the Supreme Court’s decision in Dobbs .
 Like so many across New Hampshire and our nation, the fight for reproductive freedom is deeply personal for Maggie.
 Last year, she was almost 20 weeks pregnant when she and her husband Jake lost their son and struggled to access the healthcare they needed because of delays caused by the Dobbs decision.
 In Congress, Maggie will fight like hell to defend access to the full range of reproductive healthcare, including abortion, contraceptives, and IVF.
-You can read about Maggie’s reproductive freedom agenda here.
+You can read about Maggie’s reproductive freedom agenda here .
 Maggie will stand up against discriminatory laws and make sure that no one is targeted because of who they love, how they identify, or the color of their skin.
 She has been proud to defend voting rights in New Hampshire and she believes deeply that our democracy depends on giving our kids a solid education.
 In Congress, Maggie will fight against book bans and for our teachers and our students.
-Fighting for a Fair Deal
-Maggie believes deeply that Congress can and must be on the frontlines of the fight for ensuring a fair deal for all Granite Staters.
+Fighting for a Fair Deal Maggie believes deeply that Congress can and must be on the frontlines of the fight for ensuring a fair deal for all Granite Staters.
 The fight for a fair deal means protecting Social Security, Medicare, and the Affordable Care Act.
 It means expanding access to affordable healthcare and prescription drugs, and making childcare, elder care, and housing more affordable.
 It means building a tax system that works for hardworking Granite Staters by delivering tax breaks for working families – not handouts to billionaires and big corporations.
@@ -59,3 +55,6 @@ She is an independent leader who knows how to get things done.
 As a senior advisor in the United States Senate, Maggie was proud to help craft the bipartisan “Gang of Eight” comprehensive immigration reform bill that passed the Senate in 2012 and continues to be the framework for legislation to deliver a fairer immigration system that provides a path to citizenship for those already here, secures our borders, and curbs the flow of fentanyl across our border.
 We are facing the deadliest drug threat in our history – more Americans between the ages of 18 and 49 die from opioid overdoses than any other cause.
 In Congress, Maggie will fight to stop fentanyl from flowing into our communities, to bring to justice those who put it there, and to deliver life-saving medication and care across New Hampshire and our nation.
+About Maggie Priorities Media Volunteer Yard Signs Donate Paid for by Maggie for Congress.
+Privacy Policy You may also donate via check, payable to " Maggie for Congress ", mailing address: Maggie for Congress 600 Pennsylvania Ave SE #15180 Washington, DC 20003-7508 Copyright © # Use of any military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

@@ -1,5 +1,5 @@
-Constituent Spotlight: Graham McGaffin & The Nature Conservancy of Iowa
-Drey for Iowa
-Senator Drey recently caught up with Sioux City constituent Graham McGaffin and The Nature Conservancy of Iowa during Gift to Iowa’s Future Day, an annual celebration recognizing individuals and organizations who donate land or conservation easements to benefit Iowa’s parks, trails, wildlife habitat, and public recreation areas.
+Skip to content Homepage Home Highlights Merch DONATE NOW Home Highlights Merch DONATE NOW Constituent Spotlight: Graham McGaffin & The Nature Conservancy of Iowa Drey for Iowa March 18, 2026 Senator Drey recently caught up with Sioux City constituent Graham McGaffin and The Nature Conservancy of Iowa during Gift to Iowa’s Future Day, an annual celebration recognizing individuals and organizations who donate land or conservation easements to benefit Iowa’s parks, trails, wildlife habitat, and public recreation areas.
 Graham and the Conservancy team are doing amazing work to protect Iowa’s landscapes, restore wetlands and prairies, and promote sustainable land use—ensuring a healthier future for our environment and communities.
 Even Ranger Rick approves!
+Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Paid for by Drey for Iowa. | Privacy Policy

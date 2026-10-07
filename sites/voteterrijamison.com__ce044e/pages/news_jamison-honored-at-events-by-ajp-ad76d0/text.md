@@ -1,6 +1,6 @@
-Judge Terri Jamison of the Court of Appeals, Tenth District will be honored this Friday as a community hero.
+Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison News / Jamison Honored at Events by AJP 14 Feb Monday, 9:45 PM · 2022 Jamison Honored at Events by AJP Judge Terri Jamison of the Court of Appeals, Tenth District will be honored this Friday as a community hero.
 She has given countless hours of service to the community of Franklin County and the State of Ohio.
 She is well known as a panelist, keynote speaker, educator and public servant.
 She is recognized for her service on the Franklin County Advisory Committee for Global Healthcare Education and the Board of Counselors for Capital University Law School.
 Her impact has been felt nationally in the documentary "Pushout:Criminilization of Black Girls in School" highlighting discipline disparities among African-American girls.
-Jamison said, "I'm humbled to receive an award for something that I do because I love serving." She values the words of Shirley Chisolm "Service is the Rent You Pay for Room on This Earth."
+Jamison said, "I'm humbled to receive an award for something that I do because I love serving." She values the words of Shirley Chisolm "Service is the Rent You Pay for Room on This Earth." Volunteer Contact Email Signup Donate Committee for Terri Jamison 545 East Town Street Columbus, OH 43215 Phone: (614)600-4926 Powered by CampaignPartner.com - Political Campaign Websites Home About Terri Biography Judicial Philosophy Volunteer Email Signup News Events Voter Info Endorsements Donate to Judge Jamison Contact Donate Close Menu

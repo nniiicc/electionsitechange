@@ -1,7 +1,11 @@
 {
  "description": "Reach out to David Jolly's campaign team. Send a message, volunteer, or connect with us. We're here to listen and answer your questions.",
  "final_url": "https://davidjolly.com/contact/",
- "paid_for_by": null,
- "title": "Contact David Jolly\u2019s Campaign for Governor",
- "years_mentioned": []
+ "fingerprint": "28dca428a87a154f699582d3dcf009ccccc71c65",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Contact David Jolly’s Campaign for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

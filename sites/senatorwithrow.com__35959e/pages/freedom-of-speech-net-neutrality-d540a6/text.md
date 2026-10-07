@@ -1,16 +1,5 @@
-top of page
-Freedom of Speech
-and Net Neutrality
-Vox populi, vox dei.
-Speak your mind.
--"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."
--Violence is not "speech." It is a failure to communicate.
-No one has to like it.
--Internet Service Providers have become the new common carriers.
-As such they should be regulated by standards of:
-*Transparency
-*No blocking of lawful traffic
-*A Level Playing Field - Not speed for the highest bidder.
-*Network Management
--Adherence to these standards should be monitored by an Internet Advisory Committee.
-bottom of page
+top of page ​ Home About Platform Menu Epstein and Public Trust Platform Discussion Artificial Intelligence Contact More Use tab to navigate through the menu items.
+Freedom of Speech and Net Neutrality Vox populi, vox dei.
+Speak your mind. -"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances." ​ -Violence is not "speech." It is a failure to communicate.
+No one has to like it. -Internet Service Providers have become the new common carriers.
+As such they should be regulated by standards of: *Transparency *No blocking of lawful traffic *A Level Playing Field - Not speed for the highest bidder. *Network Management ​ -Adherence to these standards should be monitored by an Internet Advisory Committee. ​ Platform Email: adamwithrowforcongress@gmail.com About Contact DONATE bottom of page

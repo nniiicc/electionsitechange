@@ -1,6 +1,26 @@
 [
-"https://carrd.co/build",
-"https://facebook.com/michaeldanielbowlesmt",
-"https://michaeldbowles.github.io/policy-atlas/contact.html",
-"https://michaeldbowles.github.io/policy-atlas/index.html"
+{
+"text": "Campaign updates (facebook page)",
+"href": "https://www.facebook.com/michaeldanielbowlesmt"
+},
+{
+"text": "Contact me (form)",
+"href": "https://michaeldbowles.github.io/policy-atlas/contact.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/michaeldanielbowlesmt"
+},
+{
+"text": "GitHub",
+"href": "https://michaeldbowles.github.io/policy-atlas/index.html"
+},
+{
+"text": "Made with Carrd",
+"href": "https://carrd.co/build"
+},
+{
+"text": "Policy atlas (github webpages)",
+"href": "https://michaeldbowles.github.io/policy-atlas/index.html"
+}
 ]

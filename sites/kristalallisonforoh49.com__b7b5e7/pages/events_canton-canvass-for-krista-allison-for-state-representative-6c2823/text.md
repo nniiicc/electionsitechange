@@ -1,12 +1,5 @@
-Back to All Events
-Join Krista Allison and Ohio Democrats in Stark County this Saturday, August 17th, as we speak to voters in House District 49 to prepare for the November general election.
-With almost 80 days left until election day, we need all hands on deck!
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Canton Canvass for Krista Allison for State Representative Saturday, August 17, 2024 6:00 AM 9:00 AM Jerusalem Baptist Church 1909 3rd Street Northeast Canton, OH, 44704 United States (map) Google Calendar ICS Join Krista Allison and Ohio Democrats in Stark County this Saturday, August 17th, as we speak to voters in House District 49 to prepare for the November general election.
+With almost # days left until election day, we need all hands on deck!
 Wear comfortable shoes, bring a water bottle, a fully charged cell phone, and (if possible) a friend!
-Click the Link Below to Register!
-Previous
-Previous
-June 6
-Special Gathering
-Next
-Next
-October 5
+Click the Link Below to Register! https://www.mobilize.us/ohdems/event/669715/ Previous Previous June 6 Special Gathering Next Next October 5 Canvassing Event Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

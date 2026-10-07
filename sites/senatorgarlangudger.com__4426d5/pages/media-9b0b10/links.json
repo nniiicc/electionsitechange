@@ -1,34 +1,138 @@
 [
-"https://aldailynews.com/legislative-leaders-laud-reduction-in-overdoses-credit-use-of-opioid-settlement-funds",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB322-int.pdf",
-"https://bcatoday.org/bca-endorses-senate-pro-tem-garlan-gudger-and-speaker-nathaniel-ledbetter-for-re-election-and-continued-legislative-leadership",
-"https://cullmantribune.com/2025/07/10/sb322-clears-path-for-smith-lake-resort-annexation-cdd-structure",
-"https://cullmantribune.com/2025/08/01/breaking-gudger-files-legislation-to-repeal-resort-development-and-annexation",
-"https://cullmantribune.com/2025/08/06/gudger-presents-additional-1m-to-cullman-county-schools",
-"https://cullmantribune.com/2025/11/08/gudger-details-efforts-to-honor-veterans",
-"https://decaturdaily.com/news/lawrence_county/state-lawmaker-pushes-tourism-as-way-for-lawrence-to-replace/article_37e789b3-faec-50b2-86da-02b08f452c96.html",
-"https://fcpa.alabamavotes.gov/PublicSite/SearchPages/FilingDetail.aspx?FilingID=334366",
-"https://senatorgarlangudger.com/",
-"https://senatorgarlangudger.com/about",
-"https://senatorgarlangudger.com/contact-8",
-"https://senatorgarlangudger.com/credentials",
-"https://senatorgarlangudger.com/cullman",
-"https://senatorgarlangudger.com/district-4-news",
-"https://senatorgarlangudger.com/funding-improvements",
-"https://senatorgarlangudger.com/marion",
-"https://senatorgarlangudger.com/media",
-"https://senatorgarlangudger.com/meet-your-senator",
-"https://senatorgarlangudger.com/privacy-policy",
-"https://senatorgarlangudger.com/sponsored-bills",
-"https://senatorgarlangudger.com/terms-and-conditions",
-"https://senatorgarlangudger.com/winston",
-"https://yellowhammernews.com/battlefield-general-alabama-senate-pro-tem-garlan-gudger-endorses-tommy-tuberville-for-governor",
-"https://yellowhammernews.com/garlan-and-heather-gudger-answering-a-higher-calling-on-mission-trip-to-uganda",
-"https://yellowhammernews.com/garlan-gudger-elected-by-alabama-senate-republican-caucus-to-succeed-greg-reed-as-president-pro-tempore",
-"https://yellowhammernews.com/garlan-gudger-reports-raising-1-8-million-for-alabama-senate-leadership-pac",
-"https://yellowhammernews.com/greg-reed-appointed-by-governor-ivey-as-senior-advisor-to-workforce-transformation/'",
-"https://yellowhammernews.com/im-listening-gudger-promises-full-repeal-of-controversial-smith-lake-bill-to-heal-division-in-cullman-county",
-"https://yellowhammernews.com/jay-hovey-josh-carnley-elevated-to-vice-chairman-roles-of-two-key-alabama-senate-committees",
-"https://yellowhammernews.com/pcma-endorses-alabama-legislative-leaders-speaker-ledbetter-and-pro-tem-gudger-for-re-election-in-2026",
-"https://yellowhammernews.com/tuberville-officially-running-for-governor-of-alabama-in-2026"
+{
+"text": "About",
+"href": "https://www.senatorgarlangudger.com/about"
+},
+{
+"text": "Alabama Senate Pro Tem Garlan Gudger endorses Tommy Tuberville for Governor",
+"href": "https://www.decaturdaily.com/news/lawrence_county/state-lawmaker-pushes-tourism-as-way-for-lawrence-to-replace/article_37e789b3-faec-50b2-86da-02b08f452c96.html"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorgarlangudger.com/contact-8"
+},
+{
+"text": "Credentials",
+"href": "https://www.senatorgarlangudger.com/credentials"
+},
+{
+"text": "Cullman",
+"href": "https://www.senatorgarlangudger.com/cullman"
+},
+{
+"text": "District 4 News",
+"href": "https://www.senatorgarlangudger.com/district-4-news"
+},
+{
+"text": "Funding & Improvements",
+"href": "https://www.senatorgarlangudger.com/funding-improvements"
+},
+{
+"text": "Garlan.Gudger@alsenate.gov",
+"href": "mailto:Garlan.Gudger@alsenate.gov"
+},
+{
+"text": "Governor of Alabama in 2026",
+"href": "https://yellowhammernews.com/tuberville-officially-running-for-governor-of-alabama-in-2026/"
+},
+{
+"text": "Gudger’s election",
+"href": "https://yellowhammernews.com/garlan-gudger-elected-by-alabama-senate-republican-caucus-to-succeed-greg-reed-as-president-pro-tempore/"
+},
+{
+"text": "Home",
+"href": "https://www.senatorgarlangudger.com"
+},
+{
+"text": "Marion",
+"href": "https://www.senatorgarlangudger.com/marion"
+},
+{
+"text": "Media",
+"href": "https://www.senatorgarlangudger.com/media"
+},
+{
+"text": "Meet Your Senator",
+"href": "https://www.senatorgarlangudger.com/meet-your-senator"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.senatorgarlangudger.com/privacy-policy"
+},
+{
+"text": "SB322",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB322-int.pdf"
+},
+{
+"text": "Senate Bill 322",
+"href": "https://www.cullmantribune.com/2025/07/10/sb322-clears-path-for-smith-lake-resort-annexation-cdd-structure/"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://www.senatorgarlangudger.com/sponsored-bills"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.senatorgarlangudger.com/terms-and-conditions"
+},
+{
+"text": "Winston",
+"href": "https://www.senatorgarlangudger.com/winston"
+},
+{
+"text": "[image: The-Cullman-Tribune-Logo-with-Slogan-Tra]",
+"href": "https://www.cullmantribune.com/2025/08/06/gudger-presents-additional-1m-to-cullman-county-schools/"
+},
+{
+"text": "[image: The-Cullman-Tribune-Logo-with-Slogan-Tra]",
+"href": "https://www.cullmantribune.com/2025/11/08/gudger-details-efforts-to-honor-veterans/"
+},
+{
+"text": "[image: The-Cullman-Tribune-Logo-with-Slogan-Transparent-1-1.png]",
+"href": "https://www.cullmantribune.com/2025/08/01/breaking-gudger-files-legislation-to-repeal-resort-development-and-annexation/"
+},
+{
+"text": "[image: download-1.png]",
+"href": "https://www.bcatoday.org/bca-endorses-senate-pro-tem-garlan-gudger-and-speaker-nathaniel-ledbetter-for-re-election-and-continued-legislative-leadership/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/battlefield-general-alabama-senate-pro-tem-garlan-gudger-endorses-tommy-tuberville-for-governor/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/garlan-and-heather-gudger-answering-a-higher-calling-on-mission-trip-to-uganda/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/garlan-gudger-elected-by-alabama-senate-republican-caucus-to-succeed-greg-reed-as-president-pro-tempore/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/garlan-gudger-reports-raising-1-8-million-for-alabama-senate-leadership-pac/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/im-listening-gudger-promises-full-repeal-of-controversial-smith-lake-bill-to-heal-division-in-cullman-county/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/jay-hovey-josh-carnley-elevated-to-vice-chairman-roles-of-two-key-alabama-senate-committees/"
+},
+{
+"text": "[image: yhntm.png]",
+"href": "https://yellowhammernews.com/pcma-endorses-alabama-legislative-leaders-speaker-ledbetter-and-pro-tem-gudger-for-re-election-in-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://aldailynews.com/legislative-leaders-laud-reduction-in-overdoses-credit-use-of-opioid-settlement-funds/"
+},
+{
+"text": "following the exit",
+"href": "https://yellowhammernews.com/greg-reed-appointed-by-governor-ivey-as-senior-advisor-to-workforce-transformation/'"
+},
+{
+"text": "showing",
+"href": "https://fcpa.alabamavotes.gov/PublicSite/SearchPages/FilingDetail.aspx?FilingID=334366"
+}
 ]

@@ -1,5 +1,4 @@
-A Night to Unite
-I went to a few Night to Unite gatherings earlier this week and had some good conversations with neighbors here in Ramsey and Andover.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store A Night to Unite Aug 6 Written By Brian Walker I went to a few Night to Unite gatherings earlier this week and had some good conversations with neighbors here in Ramsey and Andover.
 But it's the conversation I didn't get to have that's stuck with me since.
 Night to Unite is supposed to bring people together.
 A chance to sit with folks who might see things differently than you do, and just talk.
@@ -29,4 +28,9 @@ Especially those.
 Most of what divides us comes down to not talking to each other.
 I'd rather be part of fixing that than part of the problem.
 Let’s talk.
-Brian Walker
+Brian Walker Brian Walker Previous Previous A Primary Recovery Next Next Headlines vs.
+Reality: Education Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

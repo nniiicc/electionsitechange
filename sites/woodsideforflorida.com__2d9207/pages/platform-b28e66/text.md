@@ -1,87 +1,51 @@
-Defend Core Freedoms
-Defend the Constitution
-I hold an Originalist view of the U.S.
+top of page Meet Matt Why I'm Running Get Involved More Use tab to navigate through the menu items.
+DONATE KEY ISSUES Defend Core Freedoms Defend the Constitution ​I hold an Originalist view of the U.S.
 Constitution, our nation’s most sacred document.
-The Constitution is not a living document that bends to the shifting tides of culture—it means today what our Founders intended nearly 240 years ago when they crafted its timeless principles of liberty, limited government, and individual rights.
-As your state representative, I will honor and protect the Constitution in every legislative action I take, ensuring Florida’s laws align with its enduring framework.
-Support Limited Government
-I believe the best government is a limited one—one that protects individual liberty without overstepping its bounds.
+The Constitution is not a living document that bends to the shifting tides of culture—it means today what our Founders intended nearly #ago when they crafted its timeless principles of liberty, limited government, and individual rights.
+As your state representative, I will honor and protect the Constitution in every legislative action I take, ensuring Florida’s laws align with its enduring framework. ​ ​ Support Limited Government I believe the best government is a limited one—one that protects individual liberty without overstepping its bounds.
 Governmental overreach, as witnessed during the COVID-19 era, too often tramples on citizens’ rights and fosters unhealthy dependence on the state.
-I stand for a government that empowers, not controls, its people, ensuring Brevard County’s residents can thrive as free, responsible individuals.
-Defend Religious Liberty
-I am committed to protecting one of our nation’s foundational pillars: the right to worship freely.
+I stand for a government that empowers, not controls, its people, ensuring Brevard County’s residents can thrive as free, responsible individuals. ​ ​ Defend Religious Liberty ​ I am committed to protecting one of our nation’s foundational pillars: the right to worship freely.
 Religious liberty, a cornerstone of our freedom, faces increasing threats nationwide from overreaching government policies.
-In Brevard County, we must ensure that every citizen can practice their faith as enumerated in the Constitution.
-Protect the Unborn
-As a Christian, I believe that every human life, from the moment of conception, is an intentional miracle, created in the image of God with inherent dignity and purpose, by a God who loves us so much He died for us.
-Therefore, I will fight tirelessly to advance pro-life policies including strengthening protections for the unborn, pursuing personhood recognition, and supporting life-affirming resources.
-Protect and Expand 2nd Amendment Rights
-I believe, as our Founders did, that a well-armed citizenry is the first line of defense against threats, whether from individuals or tyrannical government.
+In Brevard County, we must ensure that every citizen can practice their faith as enumerated in the Constitution. ​ ​ Protect the Unborn ​As a Christian, I believe that every human life, from the moment of conception, is an intentional miracle, created in the image of God with inherent dignity and purpose, by a God who loves us so much He died for us.
+Therefore, I will fight tirelessly to advance pro-life policies including strengthening protections for the unborn, pursuing personhood recognition, and supporting life-affirming resources. ​ ​ Protect and Expand 2nd Amendment Rights I believe, as our Founders did, that a well-armed citizenry is the first line of defense against threats, whether from individuals or tyrannical government.
 The Second Amendment guarantees our fundamental right to self-defense, a cornerstone of liberty for all citizens.
 As a lifetime member of the NRA, I will work tirelessly within the Florida House to protect and strengthen our Second Amendment rights, including pushing for Constitutional Carry.
-Restore Trust in Education
-Expand Parental Rights & Increase Transparency
-Parents are the primary stakeholders in their children’s education and deserve a permanent voice in shaping it.
+Defend the Constitution Support Limited Government Defend Religious Liberty Protect the Unforn 2nd Amendment Restore Trust in Education Expand Parental Rights & Increase Transparency Parents are the primary stakeholders in their children’s education and deserve a permanent voice in shaping it.
 Parents must have transparency and control over what their children learn and experience in our schools.
-I will work within the Florida House and partner with the Office of Parental Rights to continue championing policies that strengthen parental rights, including strengthening opt-out options and increasing curriculum and instructional transparency.
-Increase Accountability
-I am committed to ensuring our schools remain centers of learning, not platforms for activism.
+I will work within the Florida House and partner with the Office of Parental Rights to continue championing policies that strengthen parental rights, including strengthening opt-out options and increasing curriculum and instructional transparency. ​​ ​ ​ ​ Increase Accountability ​ ​ I am committed to ensuring our schools remain centers of learning, not platforms for activism.
 When teachers violate Florida law by prioritizing personal agendas over their educational duties, they erode the trust of our students and families and undermine the mission of our schools.
 Classrooms must foster knowledge and critical thinking, not indoctrination.
 I will work within the Florida House to uphold accountability and protect the integrity of our education system by advocating for robust enforcement of Florida laws, pushing for certification revocation for teachers who violate Florida law, and supporting programs that reinforce teachers’ legal and ethical responsibilities to educate, not indoctrinate.
-Address Student Behavior
-Chronic student misbehavior is the greatest barrier to learning in our classrooms.
+Address Student Behavior Chronic student misbehavior is the greatest barrier to learning in our classrooms.
 Across Brevard County and our state, we have families, teachers, and administrators losing confidence in our public schools due to unaddressed disruptions and violence.
 Every student deserves a safe, structured environment to achieve their highest potential, free from chaos and harm.
-I will work within the Florida House to champion policies that restore order and prioritize learning.
-Protect Against Harmful Gender Policies
-As an educator who has fought against harmful gender policies in our schools, I am committed to restoring trust in education by advocating for stricter enforcement of Florida’s laws to ensure classrooms prioritize learning over ideology.
+I will work within the Florida House to champion policies that restore order and prioritize learning. ​ ​ ​ Protect Against Harmful Gender Policies As an educator who has fought against harmful gender policies in our schools, I am committed to restoring trust in education by advocating for stricter enforcement of Florida’s laws to ensure classrooms prioritize learning over ideology.
 Our schools must uphold academic excellence and family values.
-I will continue to guard against harmful gender policies, working with the Office of Parental Rights to ensure strict enforcement of Florida laws concerning gender and sexuality.
-Increase Educational Opportunities
-Support School Choice
-I firmly believe parents have the fundamental right to choose how and where their children are educated—whether in public schools, private institutions, or through homeschooling.
+I will continue to guard against harmful gender policies, working with the Office of Parental Rights to ensure strict enforcement of Florida laws concerning gender and sexuality.​ Parental Rights Accoutability Behavior Gender Policies Increase Educational Opportunities School Choice School Funding Teacher Pay Support School Choice ​I firmly believe parents have the fundamental right to choose how and where their children are educated—whether in public schools, private institutions, or through homeschooling.
 Every family deserves the freedom to make the educational decisions that best suit their values and their children’s needs.
-I will work within the Florida House to support policies that empower parents, including advocating to strengthen and expand school choice programs and partnering with parents to increase homeschool freedom.
-Increase Funding for Education
-Florida ranks near the bottom nationally in the percentage of its state budget dedicated to education.
-As your state representative, I will champion policies to boost school funding, expand access to trade and space-focused programs, and increase state scholarships to include more support for trade certifications and space-related studies, ensuring students are prepared for high-demand careers.
-Increase Teacher Pay
-Despite recent pay increases for new teachers, Florida ranks 50th nationally in average teacher salary, ahead only of West Virginia, according to 2025 data.
+I will work within the Florida House to support policies that empower parents, including advocating to strengthen and expand school choice programs and partnering with parents to increase homeschool freedom. ​ ​ Increase Funding for Education Florida ranks near the bottom nationally in the percentage of its state budget dedicated to education.
+As your state representative, I will champion policies to boost school funding, expand access to trade and space-focused programs, and increase state scholarships to include more support for trade certifications and space-related studies, ensuring students are prepared for high-demand careers. ​ ​ Increase Teacher Pay Despite recent pay increases for new teachers, Florida ranks 50th nationally in average teacher salary, ahead only of West Virginia, according to 2025 data.
 This low ranking fuels the critical teacher shortage happening statewide.
 I am committed to reversing this trend to ensure our schools attract and retain top-quality educators.
-Safeguard our Communities
-Support Law Enforcement and First Responders
-I am committed to standing with our law enforcement officers and first responders, who risk their lives every day to protect and serve the Space Coast.
+Safeguard our Communities Law Enforcement Support Law Enforcement and First Responders I am committed to standing with our law enforcement officers and first responders, who risk their lives every day to protect and serve the Space Coast.
 These heroes need robust support to meet the rising demands of our vibrant community and ensure a safe environment for families.
 I will work within the Florida House to advocate for policies that empower our first responders to serve safely and effectively with the resources and support they need and deserve.
-Bolster Space Coast Economy
-Tackle Housing Affordability
-Rising costs are pricing families out of our community, and I’ll fight to change that.
+Bolster Space Coast Economy Housig Small Business Space Tackle Housing Affordability ​ Rising costs are pricing families out of our community, and I’ll fight to change that.
 I’m committed to fueling Space Coast prosperity by making housing more affordable for our residents.
-I will support streamlining zoning regulations, increasing homestead exemption, and enhanced tort reform and a streamlined process for new insurance companies entering the market to drive down insurance premiums.
-Support Small Businesses
-I’m committed to fueling Space Coast prosperity by empowering our small businesses, the backbone of our strong community.
-I will support streamlined regulations, lower tax barriers, and state grants and training programs to boost small business competitiveness.
-Support Space Industry
-As a lifelong Brevard County resident and the son of an aerospace engineer who worked in the space industry for 30 years, I understand the vital role the space industry plays in our community’s economy and identity.
+I will support streamlining zoning regulations, increasing homestead exemption, and enhanced tort reform and a streamlined process for new insurance companies entering the market to drive down insurance premiums. ​ Support Small Businesses I’m committed to fueling Space Coast prosperity by empowering our small businesses, the backbone of our strong community.
+I will support streamlined regulations, lower tax barriers, and state grants and training programs to boost small business competitiveness. ​ ​ Support Space Industry As a lifelong Brevard County resident and the son of an aerospace engineer who worked in the space industry for 30 years, I understand the vital role the space industry plays in our community’s economy and identity.
 Home to NASA’s Kennedy Space Center and a growing hub for private aerospace, the Space Coast drives over $2.1 billion in economic impact annually.
 I will champion policies to strengthen this industry while ensuring our K-12 students are prepared to lead its future.
 I will advocate for targeted investments to support space-related infrastructure, research, and workforce development, seek to streamline regulations for new companies looking for a home on the Space Coast, and push for state funding and policies to expand STEM programs in Brevard Public Schools.
-Secure our Future
-Promote Fiscal Responsibility
-Driven by conservative principles of disciplined budgeting, substantial reserves, and aggressive debt reduction, earning us top-tier AAA credit ratings, Florida stands as a national leader in fiscal responsibility.
+Secure our Future Promote Fiscal Responsibility ​ ​ Driven by conservative principles of disciplined budgeting, substantial reserves, and aggressive debt reduction, earning us top-tier AAA credit ratings, Florida stands as a national leader in fiscal responsibility.
 I will work to uphold these conservative values and continue Florida’s fiscal excellence to ensure a thriving economy for future generations.
-Protect Waterways
-Our waterways are vital to the Space Coast’s way of life, economy, and natural beauty and must be safeguarded from harmful practices.
+Fiscal Responsibility Waterways Border Protect Waterways ​ ​ Our waterways are vital to the Space Coast’s way of life, economy, and natural beauty and must be safeguarded from harmful practices.
 Preserving our rivers, lagoons, and coastal waters is essential for future generations.
-I will advocate for legislation to combat pollution and harmful development practices impacting the Indian River lagoon and other waterways, push for increased funding for water quality initiatives, and support state partnerships with Brevard County to enhance conservation efforts and protect our ecosystems.
-Secure Border
-I believe a secure border is essential to protect the safety, security, and access to vital resources for citizens.
+I will advocate for legislation to combat pollution and harmful development practices impacting the Indian River lagoon and other waterways, push for increased funding for water quality initiatives, and support state partnerships with Brevard County to enhance conservation efforts and protect our ecosystems. ​ Secure Border ​ ​I believe a secure border is essential to protect the safety, security, and access to vital resources for citizens.
 I will champion policies within the Florida House to strengthen border security.
-I will support legislation that bolsters Florida’s cooperation with federal border patrol agencies and support policies to ensure essential services are prioritized for legal residents.
-Protect Election Integrity
-I am committed to preserving Florida’s status as a national leader in secure elections, ensuring the trust of our residents in the democratic process.
+I will support legislation that bolsters Florida’s cooperation with federal border patrol agencies and support policies to ensure essential services are prioritized for legal residents. ​ ​ Protect Election Integrity I am committed to preserving Florida’s status as a national leader in secure elections, ensuring the trust of our residents in the democratic process.
 I will champion policies within the Florida House to protect election integrity.
 We must maintain robust voter ID and verification processes.
 I will also support measures to increase public access to election audits and reporting and will oppose any proposals that weaken ballot security.
+Election DONATE Meet Matt Why I'm Running Get Involved More Use tab to navigate through the menu items.
+Woodside for Florida PO Box 540175 Merritt Island, Fl 32954 Paid for by Matt Woodside, Republican for Florida House, District 31 bottom of page

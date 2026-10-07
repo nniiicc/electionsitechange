@@ -1,9 +1,9 @@
-| When the legislative session commences, it takes a little bit of time for enough bills to be introduced and for the Department of Legislative Services to draft enough fiscal notes--and analysis done for every bill--to allow for bill hearings to begin.
-This past Friday, the committee I chair had its first afternoon of bill hearings including a hearing on my specialty vintage license plates bill.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe LATEST NEWS Bill Hearings - Weekly Update 1/29/2025 When the legislative session commences, it takes a little bit of time for enough bills to be introduced and for the Department of Legislative Services to draft enough fiscal notes--and analysis done for every bill--to allow for bill hearings to begin.
+This past Friday, the committee I chair had its first afternoon of bill hearings including a hearing on my specialty vintage license plates bill .
 The next hearing on one of my bills--the County Board Member Anti-Bias Training Act for school board members--will be later today.
 And the pace will only quicken from there.
 Presenting legislation regarding Maryland license plates.
-BUDGET UPDATE Thank you for all of the email and telephone call feedback I received on last week's run through of the Governor's proposed budget.
+BUDGET UPDATE ​ Thank you for all of the email and telephone call feedback I received on last week's run through of the Governor's proposed budget.
 That will be the focus of a lot of discussion and work over the next few months.
 Some of you have asked for my position on discrete provisions--taxes/revenue, cuts, shifts to the county--within his overall proposal.
 While I obviously have views on individual provisions, the budget is not just an a la carte menu where we can pick and choose what we like and don't like.
@@ -16,43 +16,45 @@ Others have asked for predictions about what will happen with particular proposa
 I believe it is really too soon to predict the final outcome and, indeed, there will be other ideas not introduced by the Governor that will enter the conversation.
 Please keep hitting reply or calling with your questions, concerns, and other feedback on the budget.
 BRIEFINGS UPDATE The Environment & Transportation Committee continues its robust schedule of briefings.
-Last week, we had a lengthy joint briefing with our Senate colleagues on Maryland's zero emission vehicle goals, a briefing on background checks for renters, a briefing on Department of Natural Resources issues including the charter boat industry and Maryland's tree planting goals, and one on avian influenza.
+Last week, we had a lengthy joint briefing with our Senate colleagues on Maryland's zero emission vehicle goals, a briefing on background checks for renters , a briefing on Department of Natural Resources issues including the charter boat industry and Maryland's tree planting goals, and one on avian influenza .
 So far this week, we have had a briefing on the state of Maryland's agriculture industry.
 Separate from my committee work, I would recommend this thorough briefing on the Blueprint for Maryland's future, Maryland's major investment in pre-k through 12 public education reform and improvement.
 FEDERAL UPDATE In the weekly update that I sent around this time eight years ago, I shared my general philosophy that I try to keep my updates focused on the state and local issues that are in my purview.
 That does not mean I do not have opinions about what happens nationally and, certainly, many federal actions can have a significant impact on our community.
 The new Administration's war on federal employees and recent decisions to freeze certain spending already agreed to are uniquely bad for Maryland and my district.
-That said, we took a number of actions in 2017 and beyond to try and insulate our state from certain actions such as codifying Obamacare protections in state law, funding reproductive health, and more.
+That said, we took a number of actions in 2017 and beyond to try and insulate our state from certain actions such as codifying Obamacare protections in state law , funding reproductive health , and more.
 One of the most significant actions we took was to further empower our state Attorney General to bring suit against the federal government.
 Some members of Maryland's minority party disingenuously opposed this stating that the states should not sue the federal government, despite their own cheering at that time for conservative state suits against Obamacare and EPA regulation--cheering that certainly continued in the Biden years when conservative states challenged, for example, student debt relief.
 I hope that Attorney General Brown actively uses his authority and I will encourage him to do so at appropriate times.
 LEGISLATION UPDATE I continue to introduce the legislation that I announced in my first email of the legislative session.
-This past week, I introduced two more bills: Automated Enforcement Privacy Protections (HB 516): This year I am the House cross-file of Senator Sara Love’s bill to set privacy protections around our automated enforcement programs.
+This past week, I introduced two more bills: Automated Enforcement Privacy Protections (HB 516) : This year I am the House cross-file of Senator Sara Love’s bill to set privacy protections around our automated enforcement programs.
 I believe these programs are important for public safety but there should be clear rules about how our personal data can be used.
 Senator Love championed this issue for years in the House and I am happy to follow her lead now.
-The MARC Rail Authority Act of 2025 (HB 517): Maryland’s commuter rail system—the three lines that make up MARC rail including the Brunswick Line through Montgomery County—has long been the stepchild of the state Department of Transportation.
+The MARC Rail Authority Act of 2025 (HB 517) : Maryland’s commuter rail system—the three lines that make up MARC rail including the Brunswick Line through Montgomery County—has long been the stepchild of the state Department of Transportation.
 Despite endless initiatives and plans, little seems to change with this system that could be a crucial part of our 21st century transportation network.
 I believe that part of the challenge is that our Maryland Transit Administration is not built to succeed.
 Unlike most state transit agencies, it provides the local Baltimore-area transit service (bus, light rail, and subway), similar to WMATA/Metro in our area, while also maintaining control of commuter rail, transit planning and grantmaking statewide, and more.
 This legislation would separate the MARC system to function more independently.
 Senator Cory McCray is sponsoring the Senate version of the bill.
 TRANSPORTATION UPDATE A provision of the annual state budget requires the Maryland Department of Transportation to provide bimonthly reports on Purple Line progress.
-The January report is now available here.
+The January report is now available here .
 The chart below shows the overall progress and progress of specific project elements.
-COMMUNITY NEWS The Planning Department's annual Downtown Bethesda Annual Monitoring Report has been released and will be discussed at this week's Planning Board meeting.
+COMMUNITY NEWS ​The Planning Department's annual Downtown Bethesda Annual Monitoring Report has been released and will be discussed at this week's Planning Board meeting .
 OFFICE CORNER Last week I shared my office's Metro stuff.
 This week, I want to share a few Maryland Transit Administration maps I obtained and had framed (at my own expense) and placed in the outer office of the Environment & Transportation Committee.
 These show some of the other current and future transit options around the state beyond WMATA.
-In last week's email, I noted that the Governor's budget would arrive later that day.
+The Budget Is Here - Weekly Update 1/22/2025 In last week's email, I noted that the Governor's budget would arrive later that day.
 I have spent the past week parsing through the budget and want to offer some initial thoughts here.
 But first, a brief primer.
 The annual budget--the only bill we are constitutionally required to pass each year (and it must be balanced)--is actually three documents: 1.
 The Operating Budget: This is the cost of personnel and programs including aid to local school districts and other local aid programs.
-You can dig into the proposed operating budget here. 2.
+You can dig into the proposed operating budget here .
+2.
 The Capital Budget: This is the state's construction budget which funds school construction, state buildings, and assistance with local construction projects.
-You can review the capital budget here. 3.
+You can review the capital budget here .
+3.
 The Budget Reconciliation and Financing Act (BFRA): This is legislation that accompanies the budget and makes changes to law necessary to balance the budget--a constitutional requirement--such as adjusting a funding formula.
-You can read the 2025 BRFA here.
+You can read the 2025 BRFA here .
 The projected budget deficit for fiscal year 2026--the subject of the Governor's submission--was $3 billion.
 Before discussing more about what is in the budget, it is worth discussing how we got here.
 It is a fair question and I wish some of those opining on it would actually ask about it and examine the issue.
@@ -76,72 +78,72 @@ On the cuts side, the Governor proposes to: -Permanently reduce support for beha
 The Governor's proposal also shifts various costs to county government (meaning county taxpayers) including certain pension costs, operational costs of the State Department of Assessment and Taxation which handles local property tax assessments, and special needs teacher pay.
 There are also various fund transfers, including using $180 million from the state's Strategic Energy Investment Fund to support climate programs.
 A lot more information is available in the fiscal briefing prepared by the Department of Legislative Services which was presented this past Monday.
-The briefing can be viewed here and the meeting materials accessed here.
+The briefing can be viewed here and the meeting materials accessed here .
 In addition, each specific agency will be the subject of its own Department of Legislative Services budget analysis and hearing in both the House and the Senate.
-The hearing dates can be viewed here, where the analyses will also be posted as they become available.
+The hearing dates can be viewed here , where the analyses will also be posted as they become available.
 There are some capital projects in District 16 funded in the Governor's budget that I would like to highlight, including funding for HVAC systems at Whitman High School and Westland Middle School; funding for the renovation and expansion of the Children's Inn at the National Institutes of Health; and funding for the Spanish Ballroom at Glen Echo Park.
-COMMITTEE UPDATEAs I mentioned last week, our committees usually begin each session with oversight briefings as bills are still being introduced.
-Thus far, my committee has held briefings on the State of Housing in Maryland, our Vision Zero traffic safety goals, housing affordability including insurance, and our state's transit systems.
-We have several more upcoming briefings which can be viewed here.
-LEGISLATION UPDATEI continue to introduce the legislation that I announced in my first email of the legislative session.
-This past week, several more bills were introduced including: Local Board of Elections Transparency Act (HB 412): For several years, Senator Cheryl Kagan and I have advanced transparency legislation including at the State Board of Elections to require public posting of agendas and live web streaming of meetings.
+COMMITTEE UPDATE As I mentioned last week, our committees usually begin each session with oversight briefings as bills are still being introduced.
+Thus far, my committee has held briefings on the State of Housing in Maryland , our Vision Zero traffic safety goals, housing affordability including insurance , and our state's transit systems .
+We have several more upcoming briefings which can be viewed here .
+LEGISLATION UPDATE I continue to introduce the legislation that I announced in my first email of the legislative session.
+This past week, several more bills were introduced including: Local Board of Elections Transparency Act (HB 412) : For several years, Senator Cheryl Kagan and I have advanced transparency legislation including at the State Board of Elections to require public posting of agendas and live web streaming of meetings.
 This year, we are proposing to expand those requirements to local Boards of Elections including for when they canvass ballots, as was done during COVID.
 This bill has been assigned to the Ways and Means Committee.
-Affordable Housing Payments in Lieu of Taxes Expansion Act (HB 390): Working with our county partners, this legislation would expand an existing state program that allows housing projects meeting certain affordability requirements to pay no or discounted property taxes.
+Affordable Housing Payments in Lieu of Taxes Expansion Act (HB 390) : Working with our county partners, this legislation would expand an existing state program that allows housing projects meeting certain affordability requirements to pay no or discounted property taxes.
 In Montgomery County, more of these projects involve maintaining affordability for existing naturally occurring affordable housing that would otherwise be redeveloped to higher market rates.
 The legislation would allow these types of projects to benefit from the program and keep more housing affordable.
 Senator Shelly Hettleman is bringing the bill forward in the Senate.
 It has been assigned to the Ways and Means Committee.
-Metro Funding Modification Act of 2025 (HB 467): Regular readers of my updates will not be surprised to see a Metro funding bill included here.
+Metro Funding Modification Act of 2025 (HB 467) : Regular readers of my updates will not be surprised to see a Metro funding bill included here.
 In 2018, our region came together to support dedicated capital funding to rebuild our Metro system.
 And it worked.
 The system is in far better shape today than it was five years ago.
 But the regional commitment of $500 million has not kept up with inflation and this legislation would re-base Maryland’s commitment to account for inflation and peg it for future 3% growth increments, all contingent on our regional partners doing the same.
 Senator Malcolm Augustine is sponsoring the Senate version of the bill.
 The bill has been assigned to the Appropriations Committee.
-State Mineral Act (HB 411): Picking up the mantle from former Delegate Bill Frick, Senator Craig Zucker and I are championing my constituent’s initiative to have Chromite declared the state mineral, adding us to the majority of states with a state mineral.
+State Mineral Act (HB 411) : Picking up the mantle from former Delegate Bill Frick, Senator Craig Zucker and I are championing my constituent’s initiative to have Chromite declared the state mineral, adding us to the majority of states with a state mineral.
 Chromite was first discovered in the United States in Maryland and is an industrial metal.
 The bill has been assigned to the Health and Government Operations Committee.
-Also, the WSSC Transparency and Reform Act was the subject of a committee work session last week which you can watch here.
-TRANSPORTATION UPDATEMetro is once again allowing you to check your annual stats.
+Also, the WSSC Transparency and Reform Act was the subject of a committee work session last week which you can watch here .
+TRANSPORTATION UPDATE Metro is once again allowing you to check your annual stats.
 Visit https://metrorewind.com/ and enter your SmarTrip number to see how you did.
 Drop me a line and let me know how your stats compare to mine. ----- The United States Senate Commerce Committee held a confirmation hearing on Sean Duffy, nominee for Transportation Secretary, last week.
 Two issues in Maryland--including one in District 16--were brought up by non-Maryland Senators and I wanted to highlight them.
 Senator Tammy Baldwin shared the story of Sarah Langenkamp, the District 16 resident killed while cycling on River Road, and asked the nominee for support of flexible funding to protect cyclists and pedestrians.
-Watch the exchange here.
+Watch the exchange here .
 Senator Shelly Moore Capito referenced the horrific crash on I-695 that killed six road workers when seeking attention for road worker safety and protection.
-Watch that exchange here.
+Watch that exchange here .
 It is great to see these important safety issues that have obviously impacted Maryland but are repeated elsewhere given attention at this hearing on a bipartisan basis.
 COMMUNITY NEWS Congratulations to District 16's Jeffrey Slavin, who is stepping down from his role as Board President of Montgomery County Media after 10 years.
-OFFICE CORNERIn honor of my introduction of the Metro Funding Modification Act and sharing my 2024 Metro stats, here area few of the Metro-related items in my Annapolis office.
+OFFICE CORNER In honor of my introduction of the Metro Funding Modification Act and sharing my 2024 Metro stats, here area few of the Metro-related items in my Annapolis office.
 I framed the map and bought the Bethesda sign at my personal expense.
-Later today, the Governor will introduce his annual balanced budget.
+The Budget Is Coming - Weekly Update 1/15/2025 Later today, the Governor will introduce his annual balanced budget.
 As regular readers know, the fiscal year that is the subject of these budget negotiations has a large projected deficit and addressing that will be a significant task this legislative session.
 I will have a lot more to say about the Governor's proposed budget in future emails.
-COMMITTEE UPDATEFor the second session in a row, I am chairing the Environment & Transportation Committee.
+COMMITTEE UPDATE For the second session in a row, I am chairing the Environment & Transportation Committee.
 Despite the name, the committee's jurisdiction covers not only environment and transportation but also housing, land, use, agriculture, ethics, and local government.
-You can watch the organizational meeting I led for the committee here. ----- Each year, the committees commence the session with legislative briefings.
+You can watch the organizational meeting I led for the committee here . ----- Each year, the committees commence the session with legislative briefings.
 The Environment & Transportation Committee has numerous briefings scheduled including these meetings on housing and transportation issues.
-The State of Housing briefing already occurred and can be viewed here.
-LEGISLATION UPDATE I have begun to introduce the bills that I previewed last week.
-Thus far, I have introduced two bills: School Board Member Antibias Training Act: Last year, the General Assembly passed Ways and Means Chair Vanessa Atterbeary’s bill requiring school employees to undergo anti-bias training, including training related to anti-semitism.
+The State of Housing briefing already occurred and can be viewed here .
+LEGISLATION UPDATE ​ I have begun to introduce the bills that I previewed last week.
+Thus far, I have introduced two bills: School Board Member Antibias Training Act : Last year, the General Assembly passed Ways and Means Chair Vanessa Atterbeary’s bill requiring school employees to undergo anti-bias training, including training related to anti-semitism.
 I was surprised to learn that school board members are not considered school employees and, therefore, were not included.
 This legislation closes that loophole and requires school board members around the state to go through the same training.
 I understand that our school board in Montgomery County is doing some voluntary training, but this sets the law for all to follow.
 Chair Feldman is also cross-filing this legislation.
-Specially Designed Vintage Reproduction Registration Plates: If you ever see me driving, you know I do not even use my special General Assembly plates to say nothing of the plates you can buy with a Baltimore Oriole logo or a nice picture to support the state Agricultural Trust or Bay Foundation.
-But I believe Marylanders who want to pay extra should have these options and am partnering with Senator Folden to allow Marylanders to purchase a vintage plate design that was in use over 100 years ago and is quite popular with some of our neighbors.
+Specially Designed Vintage Reproduction Registration Plates : If you ever see me driving, you know I do not even use my special General Assembly plates to say nothing of the plates you can buy with a Baltimore Oriole logo or a nice picture to support the state Agricultural Trust or Bay Foundation.
+But I believe Marylanders who want to pay extra should have these options and am partnering with Senator Folden to allow Marylanders to purchase a vintage plate design that was in use over #ago and is quite popular with some of our neighbors.
 DELEGATION NEWS The 26 member Montgomery County House Delegation is the largest in the Maryland General Assembly.
 We typically meet weekly on Fridays during the legislative session.
-Our first meeting included updates from the County Executive and County Council President and can be watched here.
+Our first meeting included updates from the County Executive and County Council President and can be watched here .
 COMMUNITY NEWS The Federal government has awarded $24.8m in federal funding for the new North Bethesda Metro station entrance.
 This is in addition to millions of dollars in state and local funding awarded over the years to put together the funding necessary for this project. ----- Former District 16 Delegate and long-time State Treasurer Nancy Kopp was honored with her official portrait unveiling last week.
 It is a lovely tribute to a tremendous public servant. ----- Congratulations to my seatmate, Senator Love, on her elevation to Chair of the Chesapeake Bay Commission.
-Read more about it here.
-OFFICE CORNERThis year I plan to share an item from my office in my weekly emails.
+Read more about it here .
+OFFICE CORNER This year I plan to share an item from my office in my weekly emails.
 Because this week's update includes the organizational meeting of the Environment & Transportation Committee--known as E&T--I am sharing a few "ET" items in my office to remind me of the committee I chair.
 I have shared these as handouts--at my expense--with each of my committeemembers in the years I have chaired the "ET" Committee.
-Today marks the start of the 2025 legislative session.
+The 2025 Legislative Session 1/8/2025 Today marks the start of the 2025 legislative session.
 Unlike the United States Congress, the Maryland General Assembly is part-time and meets for 90 days each year.
 After several legislative sessions starting new roles, I am excited to start this session in my second year as chair of the House Environment and Transportation Committee, one of our six committees.
 Almost every session I take a late-night photo of the State House during one of our breaks as we march towards midnight adjournment on the final day.
@@ -151,10 +153,10 @@ But I also have the opportunity each year to work on numerous other issues both 
 Specifically, in addition to having the usual opportunity to weigh in on the state budget, public education, healthcare (including reproductive health), sensible gun control and public safety, and numerous other issues, the committee I chair has jurisdiction over the environment, transportation, housing, agriculture, ethics, and more.
 In fact, as committee chair, I am the sponsor of 21 bills as a courtesy to various state departments and agencies seeking changes to their governing statutes.
 That said, I currently plan to sponsor the most diverse slate of legislation of my entire career.
-Here are brief summaries of the eleven bills that I plan to primarily sponsor: WSSC Transparency and Reform Act of 2025: The Washington Suburban Sanitary Commission is our local water utility and while it succeeds every time clean water comes out of the tap and dirty water goes out with a flush, I am a strong believer in making sure our institutions are subject to strict oversight and review to ensure their continued success.
+Here are brief summaries of the eleven bills that I plan to primarily sponsor: WSSC Transparency and Reform Act of 2025 : The Washington Suburban Sanitary Commission is our local water utility and while it succeeds every time clean water comes out of the tap and dirty water goes out with a flush, I am a strong believer in making sure our institutions are subject to strict oversight and review to ensure their continued success.
 This legislation arose from constituent complaints of varying scales: concerns about unexplainable high bills, exasperation with ever rising rates and add-on charges, and WSSC disregarding its contractual obligations to local communities.
 The bill puts in place several reforms and transparency provisions while also requiring a full review of WSSC’s performance.
-As a local bill, this has already been introduced and had local bill hearings (you can watch my testimony here).
+As a local bill, this has already been introduced and had local bill hearings (you can watch my testimony here ).
 If it makes it through the local process in Montgomery and Prince George’s Counties, it will go through the regular legislative process.
 The MARC Rail Authority Act of 2025: Maryland’s commuter rail system—the three lines that make up MARC rail including the Brunswick Line through Montgomery County—has long been the stepchild of the state Department of Transportation.
 Despite endless initiatives and plans, little seems to change with this system that could be a crucial part of our 21st century transportation network.
@@ -192,27 +194,27 @@ Automated Enforcement Privacy Protections: This year I am the House cross-file o
 I believe these programs are important for public safety but there should be clear rules about how our personal data can be used.
 Senator Love championed this issue for years in the House and I am happy to follow her lead now.
 Specially Designed Vintage Reproduction Registration Plates: If you ever see me driving, you know I do not even use my special General Assembly plates to say nothing of the plates you can buy with a Baltimore Oriole logo or a nice picture to support the state Agricultural Trust or Bay Foundation.
-But I believe Marylanders who want to pay extra should have these options and am partnering with Senator Folden to allow Marylanders to purchase vintage plates that were in use 100 years ago.
+But I believe Marylanders who want to pay extra should have these options and am partnering with Senator Folden to allow Marylanders to purchase vintage plates that were in use #ago.
 State Mineral Act: Picking up the mantle from former Delegate Bill Frick, Senator Craig Zucker and I are championing my constituent’s initiative to have Chromite declared the state mineral.
 Chromite was first discovered in the United States in Maryland and is an industrial metal.
 STAY CONNECTED If you click reply to this email (this email or any weekly email from me), a return message comes directly to me and I welcome your feedback, questions, or comments anytime.
 You can also email me at [email protected] or call me on my cell phone at 240-447-1175.
 I post regularly on Facebook (Marc.Korman.Campaign), Twitter/X (@mkorman), and Threads (@marc_korman).
 The Maryland General Assembly website has many great resources if you are interested in following our work over the next 90 days.
-I will highlight just a few: The general schedule is available here.
+I will highlight just a few: The general schedule is available here .
 You can look up legislation and track its progress here.
 Every bill introduced by the bill introduction deadline is guaranteed a hearing and before the hearing, a fiscal and policy note about the bill will be published.
-You can view the Committee Schedule, which will be regularly updated, here.
+You can view the Committee Schedule, which will be regularly updated, here .
 I also recommend a few different news resources for those of you interested in the legislature.
 In addition to the Washington Post and Baltimore Banner, there are three websites that specialize in coverage of Annapolis: Maryland Reporter: http://marylandreporter.com/ Maryland Matters: https://marylandmatters.org/ Center Maryland: http://www.centermaryland.org/ LEGISLATIVE SESSION PREP I joined the I Hate Politics Podcast to preview one of the major issues of the legislative session, the project budget shortfall.
-You can listen to the episode here. ----- Pre-filed legislation--bills introduced before the legislature convenes--are now available online.
-Find the House bills here and the Senate bills here.
-This year, the House Environment & Transportation Committee I chair has the second highest number of pre-filed bills assigned to it among the House committees. ----- I have previously shared the 2025 legislative session issue papers prepared by the Department of Legislative Services, but as a reminder, you can find them here.
+You can listen to the episode here . ----- Pre-filed legislation--bills introduced before the legislature convenes--are now available online.
+Find the House bills here and the Senate bills here .
+This year, the House Environment & Transportation Committee I chair has the second highest number of pre-filed bills assigned to it among the House committees. ----- I have previously shared the 2025 legislative session issue papers prepared by the Department of Legislative Services, but as a reminder, you can find them here .
 OFFICE CORNERLast legislative session, I shared a book about Maryland politics and history each week of the legislative session.
 This year, I thought I would share something from my Annapolis office in each of my emails.
 This is a bit more self-indulgent compared to book recommendations but after several years in various Annapolis offices, I have some fun stuff on my shelves and walls.
 You should come visit me in it but, for now, I can share these tidbits.
-First up is my bookshelf of Maryland politics and history, featuring many of the volumes I shared last legislative session. | Author Write something about yourself.
+First up is my bookshelf of Maryland politics and history, featuring many of the volumes I shared last legislative session.
+Author Write something about yourself.
 No need to be fancy, just an overview.
-Archives Categories |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+Archives July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 March 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 August 2024 July 2024 June 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 June 2014 May 2014 March 2014 February 2014 January 2014 September 2013 August 2013 July 2013 June 2013 May 2013 Categories All Legislative Session Update Monthly Update News Clip RSS Feed By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

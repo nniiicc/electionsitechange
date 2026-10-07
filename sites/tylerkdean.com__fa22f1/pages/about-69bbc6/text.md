@@ -1,5 +1,4 @@
-Meet Tyler
-Tyler K.
+Skip to content Meet Tyler Priorities Join Tyler Donate Meet Tyler Priorities Join Tyler Donate Donate Meet Tyler Tyler K.
 Dean is a husband, a girl dad of three, a stepfather, and a working-class Kentuckian shaped not by politics, but by life.
 For the past 25 years, Tyler has worked in Kentucky’s beer, bourbon, and beverage industries — building businesses, leading teams, solving real problems, and rising through the workforce from the bottom up.
 Nothing was handed to him.
@@ -25,3 +24,5 @@ Relatable.
 A man shaped by adversity, strengthened by responsibility, and committed to helping others break generational barriers just as he has.
 He’s not running to play politics.
 He’s running to get things done for Kentucky.
+Donate Meet Tyler Priorities Join Tyler Donate Follow Us: Facebook-f Instagram Paid for by Tyler Dean for KY.
+Site Map Accessibility Statement Privacy Policy Terms of Service

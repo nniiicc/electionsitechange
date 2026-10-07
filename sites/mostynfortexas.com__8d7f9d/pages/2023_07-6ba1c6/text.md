@@ -1,13 +1,12 @@
-Jul 14, 2023 | Uncategorized
-San Antonio, Texas – Ben Mostyn, the leading candidate for the Texas House of Representatives District 117, has taken a stand against the Biden Administration’s recent endorsement of race-based military promotions.
+Home About Issues News Volunteer Shop Donate Select Page BIDEN SEEKS TO SEVERELY WEAKEN OUR MILITARY Jul 14, 2023 | Uncategorized San Antonio, Texas – Ben Mostyn, the leading candidate for the Texas House of Representatives District 117, has taken a stand against the Biden Administration’s recent endorsement of race-based military promotions.
 Mostyn strongly opposes the notion of...
-Jul 14, 2023 | Uncategorized
-San Antonio, Texas – In a landmark ruling today, the Supreme Court struck down President Biden’s enormous handout to college students at the expense of taxpayers.
+SUPREME COURT RULING ON STUDENTS LOANS A VICTORY FOR TAXPAYERS Jul 14, 2023 | Uncategorized San Antonio, Texas – In a landmark ruling today, the Supreme Court struck down President Biden’s enormous handout to college students at the expense of taxpayers.
 While its initial purpose was to address the rising costs associated with a college...
-Jul 14, 2023 | Uncategorized
-San Antonio, Texas – After a five year long probe by a US District Attorney in Delaware, Hunter Biden has struck a deal with federal prosecutors for failing to pay federal taxes and lying about his drug abuse on a gun registration form.
+HUNTER BIDEN PLEA DEAL ANOTHER EXAMPLE OF DEMOCRATS ESCAPING ACCOUNTABILITY Jul 14, 2023 | Uncategorized San Antonio, Texas – After a five year long probe by a US District Attorney in Delaware, Hunter Biden has struck a deal with federal prosecutors for failing to pay federal taxes and lying about his drug abuse on a gun registration form.
 He will plead guilty to...
-Jul 14, 2023 | Uncategorized
-San Antonio, TX – San Antonio overwhelmingly voted down PROP A.
+CANDIDATE FOR TX STATE HOUSE BEN MOSTYN APPLAUDS PROP A BEING VOTED DOWN Jul 14, 2023 | Uncategorized San Antonio, TX – San Antonio overwhelmingly voted down PROP A.
 This decision has the full support of candidate for Texas State House Ben Mostyn as addressing rising crime is one of his top priorities.
 Ben Mostyn shared the following statement: “Prop...
+Search for: Archives October 2023 July 2023 March 2023 Categories Uncategorized Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
+Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Follow Follow Follow Follow

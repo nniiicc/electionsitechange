@@ -1,26 +1,114 @@
 [
-"https://api.whatsapp.com/send?text=Redistricting+https%3A%2F%2Fdavewallace.us%2Fredistricting%2F",
-"https://davewallace.us/",
-"https://davewallace.us/about-dave-wallace-for-america",
-"https://davewallace.us/calendar",
-"https://davewallace.us/contact-us",
-"https://davewallace.us/endorsements",
-"https://davewallace.us/join",
-"https://davewallace.us/our-beliefs",
-"https://davewallace.us/our-goal",
-"https://davewallace.us/our-mission",
-"https://davewallace.us/privacy-policy",
-"https://davewallace.us/redistricting",
-"https://davewallace.us/terms",
-"https://davewallace.us/videos",
-"https://davewallace.us/volunteer",
-"https://davewallace.us/voting",
-"https://facebook.com/DaveWallaceUSA",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdavewallace.us%2Fredistricting%2F",
-"https://linkedin.com/in/david-wallace-05b4b5272",
-"https://secure.winred.com/wallace-for-america/donate-today",
-"https://twitter.com/DaveWallaceUS",
-"https://twitter.com/intent/tweet?text=Redistricting&url=https%3A%2F%2Fdavewallace.us%2Fredistricting%2F",
-"https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+{
+"text": "ABOUT DAVE",
+"href": "https://davewallace.us/about-dave-wallace-for-america/"
+},
+{
+"text": "CALENDAR",
+"href": "https://davewallace.us/calendar/"
+},
+{
+"text": "CONTACT DAVE",
+"href": "https://davewallace.us/contact-us"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://davewallace.us/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DaveWallaceUSA"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/david-wallace-05b4b5272/"
+},
+{
+"text": "OUR BELIEFS",
+"href": "https://davewallace.us/our-beliefs/"
+},
+{
+"text": "OUR GOAL",
+"href": "https://davewallace.us/our-goal/"
+},
+{
+"text": "OUR MISSION",
+"href": "https://davewallace.us/our-mission/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://davewallace.us/privacy-policy/"
+},
+{
+"text": "REDISTRICTING",
+"href": "https://davewallace.us/redistricting/"
+},
+{
+"text": "REQUEST A MAIL IN BALLOT",
+"href": "https://davewallace.us/mail-in-ballot/"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://davewallace.us/terms"
+},
+{
+"text": "VIDEOS",
+"href": "https://davewallace.us/videos/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://davewallace.us/volunteer/"
+},
+{
+"text": "VOTER REGISTRATION",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://davewallace.us/voting/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/DaveWallaceUS"
+},
+{
+"text": "[image: Dave Wallace for US Congress]",
+"href": "https://davewallace.us/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DaveWallaceUSA"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/david-wallace-05b4b5272/"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/DaveWallaceUS"
+},
+{
+"text": "[image]",
+"href": "https://davewallace.us/join/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/wallace-for-america/donate-today"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdavewallace.us%2Fredistricting%2F"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://davewallace.us/redistricting/"
+},
+{
+"text": "[tooltip: Whatsapp]",
+"href": "https://api.whatsapp.com/send?text=Redistricting+https%3A%2F%2Fdavewallace.us%2Fredistricting%2F"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/intent/tweet?text=Redistricting&url=https%3A%2F%2Fdavewallace.us%2Fredistricting%2F"
+}
 ]

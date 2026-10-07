@@ -1,120 +1,482 @@
 [
-"https://bcgis.baltimorecountymd.gov/myneighborhood",
-"https://bsky.app/profile/micheleguyton.bsky.social",
-"https://facebook.com/MicheleGuytonforDelegate",
-"https://forms.gle/ab4sen2KB97j49kt7",
-"https://instagram.com/michele.guyton",
-"https://maps.caliper.com/public-plans/planviewer-sb1012-congressional",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0033?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0042?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0058?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0060?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0074?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0140?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0142?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0171?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0178?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0193?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0195?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0226?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0247?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0258?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0264?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0265?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0266?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0320?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0323?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0331?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0359?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0368?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0376?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0383?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0392?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0396?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0401?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0418?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0439?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0450?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0452?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0456?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0458?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0460?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0469?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0474?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0476?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0493?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0512?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0525?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0547?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0593?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0611?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0612?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0613?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0621?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0631?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0640?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0643?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0643?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0644?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0645?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0647?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0652?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0657?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0660?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0662?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0662?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0664?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0678?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0713?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0714?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0715?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0717?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0718?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0724?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0745?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0747?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0749?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0754?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0804?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0847?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0870?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0911?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0912?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0981?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0986?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1019?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1078?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1091?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1097?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1147?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1171?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1181?ys=2021RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1197?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1222?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1244?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1247?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1261?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1287?ys=2023RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1292?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1294?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1339?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1387?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1388?ys=2022RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1414?ys=2019RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/guyton01?activeTab=divLegislation",
-"https://micheleguyton.com/",
-"https://micheleguyton.com/cart",
-"https://micheleguyton.com/community-resources",
-"https://micheleguyton.com/contact",
-"https://micheleguyton.com/get-involved",
-"https://micheleguyton.com/legislation",
-"https://micheleguyton.com/meet-michele",
-"https://micheleguyton.com/newsletters-updates",
-"https://micheleguyton.com/s/2026GuytonScholarshipApplication.pdf",
-"https://mobilize.us/mddems/event/1005603",
-"https://mobilize.us/mddems/event/1005606",
-"https://secure.actblue.com/donate/micheleguyton42b",
-"https://threads.com/@michele.guyton",
-"https://x.com/guyton42b",
-"https://youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+{
+"text": "* HB 1019 - High School Assessment and Graduation Requirements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1019?ys=2019RS&search=True"
+},
+{
+"text": "* HB 1097 - Veterinary Technicia and Assistant Duties",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1097?ys=2024RS&search=True"
+},
+{
+"text": "* HB 1147 - Prohibition of PFAS in Playground Surfacing Materials",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1147?ys=2024RS&search=True"
+},
+{
+"text": "* HB 1244 - Developmental Disabilities Administration Waiver Advisory Council",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1244?ys=2025RS&search=True"
+},
+{
+"text": "* HB 1339 - Property Tax Credit - Elderly Individuals Elgibility",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1339?ys=2019RS&search=True"
+},
+{
+"text": "* HB 171 - Crimes Against Animals - Equines",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0171?ys=2020RS&search=True"
+},
+{
+"text": "* HB 193 - Criminal Procedure - Victims of a Crime - Private Room",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0193?ys=2021RS&search=True"
+},
+{
+"text": "* HB 195 - Purple Alert Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0195?ys=2024RS&search=True"
+},
+{
+"text": "* HB 258 - State Child Welfare System - Reporting",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0258?ys=2021RS&search=True"
+},
+{
+"text": "* HB 320 - Marylan Longitudinal Data System - Student Data Alteration",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0320?ys=2023RS&search=True"
+},
+{
+"text": "* HB 323 - Commission on Climate Change Membership Addition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0323?ys=2024RS&search=True"
+},
+{
+"text": "* HB 33 - Protections for Vulnerable Adults",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0033?ys=2020RS&search=True"
+},
+{
+"text": "* HB 401 - Regnant and Parenting Student Policies and Reports",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0401?ys=2021RS&search=True"
+},
+{
+"text": "* HB 450 - MTA Reduced Fare Renewal For Permenently Disabled Individuals",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0450?ys=2025RS&search=True"
+},
+{
+"text": "* HB 452 - Outdoor Lighting Guidance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0452?ys=2025RS&search=True"
+},
+{
+"text": "* HB 456 - Accessible Prescription Labels for Visually Impaired Individuals",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0456?ys=2023RS&search=True"
+},
+{
+"text": "* HB 460 - Baltimore County - Alcoholic Beverages Licenses Transfers",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0460?ys=2022RS&search=True"
+},
+{
+"text": "* HB 512 - Professional Standards and Teacher Education Board Composition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0512?ys=2022RS&search=True"
+},
+{
+"text": "* HB 525 - Outdoor Preschool Licensine Pilot Program Establishment",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0525?ys=2023RS&search=True"
+},
+{
+"text": "* HB 60 - Definition of Disability",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0060?ys=2024RS&search=True"
+},
+{
+"text": "* HB 611 - Inividualized Special Education Programs - Timeline for Evaluation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0611?ys=2019RS&search=True"
+},
+{
+"text": "* HB 643 - Loan Assistance Repayment Program Eligibility for Veterinarians",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0643?ys=2025RS&search=True"
+},
+{
+"text": "* HB 647 - Pet Insurance Regulation Establishment",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0647?ys=2024RS&search=True"
+},
+{
+"text": "* HB 660 - Student Job Training Reformation Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0660?ys=2022RS&search=True"
+},
+{
+"text": "* HB 662 - Autism Advisory Stakeholder Group Alterations",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0662?ys=2022RS&search=True"
+},
+{
+"text": "* HB 662 - Child Care Teacher - Minimum Age",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0662?ys=2024RS&search=True"
+},
+{
+"text": "* HB 664 - Infant and Toddlers Program - Information and Assistance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0664?ys=2022RS&search=True"
+},
+{
+"text": "* HB 678 - Arts Equity in Education Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0678?ys=2022RS&search=True"
+},
+{
+"text": "* HB 714 - Special Education Learning Continuity Plan Requirements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0714?ys=2021RS&search=True"
+},
+{
+"text": "* HB 718 - State Autism Coordinator & Advisory Stakeholder Group Alterations",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0718?ys=2021RS&search=True"
+},
+{
+"text": "* HB 749 - Park Explorers Grant Pilot Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0749?ys=2022RS&search=True"
+},
+{
+"text": "* HB 754 - Graduation Requirements - Students in Foster Care or Homeless Youth",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0754?ys=2020RS&search=True"
+},
+{
+"text": "* HB 847 - State Coordinator for Autism Strategy & Advisory Stakeholder Group",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0847?ys=2020RS&search=True"
+},
+{
+"text": "* HB 870 - DORS and DDA - Memorandum of Understanding",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0870?ys=2023RS&search=True"
+},
+{
+"text": "0",
+"href": "https://www.micheleguyton.com/cart"
+},
+{
+"text": "2026 Scholarship",
+"href": "https://www.micheleguyton.com/s/2026GuytonScholarshipApplication.pdf"
+},
+{
+"text": "August 22 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005603/"
+},
+{
+"text": "Back",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Community Resources",
+"href": "https://www.micheleguyton.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.micheleguyton.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/micheleguyton42b"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.micheleguyton.com/get-involved"
+},
+{
+"text": "Get Your District Info",
+"href": "https://bcgis.baltimorecountymd.gov/myneighborhood/"
+},
+{
+"text": "HB 1078 - Public School Holidays",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1078?ys=2019RS&search=True"
+},
+{
+"text": "HB 1091 - Screening Requirements for Students with Reading Difficulties",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1091?ys=2023RS&search=True"
+},
+{
+"text": "HB 1171 - Speed Monitoring System Authority",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1171?ys=2023RS&search=True"
+},
+{
+"text": "HB 1181 - Nonvisual Access Accountability Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1181?ys=2021RS&search=True"
+},
+{
+"text": "HB 1197 - Task Force for Adults with Autism",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1197?ys=2019RS&search=True"
+},
+{
+"text": "HB 1222 - Division of Rehabilitation Services Funding and Staffing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1222?ys=2023RS&search=True"
+},
+{
+"text": "HB 1247 - More Opportunities for Career-Focused Students Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1247?ys=2023RS&search=True"
+},
+{
+"text": "HB 1261 - Commission on Access to High-Quality Childhood Education and Care",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1261?ys=2024RS&search=True"
+},
+{
+"text": "HB 1287 - School Bus Monitoring Cameras - Issuance of Citations",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1287?ys=2023RS&search=True"
+},
+{
+"text": "HB 1292 - Cameras in Special Education Classrooms",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1292?ys=2020RS&search=True"
+},
+{
+"text": "HB 1294 - Victims of a Crime - Private Reporting Room",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1294?ys=2020RS&search=True"
+},
+{
+"text": "HB 1387 - State Police Emergency Dispatcher Classification",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1387?ys=2022RS&search=True"
+},
+{
+"text": "HB 1388 - Winery and Vineyard Economic Development Grant Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1388?ys=2022RS&search=True"
+},
+{
+"text": "HB 140 - Plain Language Requirement for Petition and Ballot Questions",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0140?ys=2020RS&search=True"
+},
+{
+"text": "HB 1414 - Second Degree Assault Against School Employees - Prohibition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1414?ys=2019RS&search=True"
+},
+{
+"text": "HB 142 - Voting Order Priority - Individuals Who Need Extra Assistance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0142?ys=2020RS&search=True"
+},
+{
+"text": "HB 178 - Bike Lane Safety",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0178?ys=2025RS&search=True"
+},
+{
+"text": "HB 226 - Self-Contained Special Education Cameras in Classrooms",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0226?ys=2022RS&search=True"
+},
+{
+"text": "HB 247 - Accomodations for Voters in Need of Assistance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0247?ys=2021RS&search=True"
+},
+{
+"text": "HB 264 - Speed Monitoring Systems - Nursery School Zones",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0264?ys=2022RS&search=True"
+},
+{
+"text": "HB 265 - Behavioral Health Questionnaire for Students",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0265?ys=2023RS&search=True"
+},
+{
+"text": "HB 266 - Video Lottery Terminal - Maryland State Fair",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0266?ys=2020RS&search=True"
+},
+{
+"text": "HB 331 - Candidate Expenditures - Campaign-Related Caregiving Expenses",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0331?ys=2024RS&search=True"
+},
+{
+"text": "HB 359 - Maryland Longitudinal Data System - Pregnant and Parenting Students",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0359?ys=2021RS&search=True"
+},
+{
+"text": "HB 368 - Maryland Native Plant Month",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0368?ys=2025RS&search=True"
+},
+{
+"text": "HB 376 - Outdoor Preschool License Pilot Programs Establishment",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0376?ys=2022RS&search=True"
+},
+{
+"text": "HB 383 - Student With Disabilities Performance Reports",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0383?ys=2020RS&search=True"
+},
+{
+"text": "HB 392 - Child Care - Early Childhood Screening and Assistance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0392?ys=2021RS&search=True"
+},
+{
+"text": "HB 396 - Early Childhood Screening and Assistance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0396?ys=2020RS&search=True"
+},
+{
+"text": "HB 418 - Hate Symbol Ban in Public Schools",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0418?ys=2021RS&search=True"
+},
+{
+"text": "HB 42 - Public Information Act - Responses and Time Limits",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0042?ys=2020RS&search=True"
+},
+{
+"text": "HB 439 - Pregnant, Expecting, and Parenting Students - Data Collection and Report",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0439?ys=2021RS&search=True"
+},
+{
+"text": "HB 458 - Park Visitor Behavior Policies Posting Requirements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0458?ys=2021RS&search=True"
+},
+{
+"text": "HB 469 - Special Education Services - Years of Eligibility",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0469?ys=2023RS&search=True"
+},
+{
+"text": "HB 474 - Wineries & Vineyards - Tax Credit Extension",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0474?ys=2021RS&search=True"
+},
+{
+"text": "HB 476 - Consumer Protection - Debtors with Multiple Debt",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0476?ys=2023RS&search=True"
+},
+{
+"text": "HB 493 - Accessibility by Public Transportation for Voters with Disabilities",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0493?ys=2021RS&search=True"
+},
+{
+"text": "HB 547 - Equivalent and Nonvisual Access Accountability Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0547?ys=2022RS&search=True"
+},
+{
+"text": "HB 58 - Speed Monitoring System Authority",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0058?ys=2024RS&search=True"
+},
+{
+"text": "HB 593 - Lifesaver Schools Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0593?ys=2023RS&search=True"
+},
+{
+"text": "HB 612 - Lifesaver Schools Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0612?ys=2025RS&search=True"
+},
+{
+"text": "HB 613 - Survivor Privacy Protections",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0613?ys=2025RS&search=True"
+},
+{
+"text": "HB 621 - Division of Rehabilitation Services Transparency",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0621?ys=2023RS&search=True"
+},
+{
+"text": "HB 631 - Protection from Eniment Domain",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0631?ys=2025RS&search=True"
+},
+{
+"text": "HB 640 - Overhead Transmission Lines - Conversation Easements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0640?ys=2025RS&search=True"
+},
+{
+"text": "HB 643 - Video Lottery Terminal Proceeds - Maryland State Fair",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0643?ys=2019RS&search=True"
+},
+{
+"text": "HB 644 - Speed Monitoring System Authority",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0644?ys=2025RS&search=True"
+},
+{
+"text": "HB 645 - Transmission Line Siting - Plan Requirements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0645?ys=2025RS&search=True"
+},
+{
+"text": "HB 652 - More Opportunities for Career-Focused Students Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0652?ys=2022RS&search=True"
+},
+{
+"text": "HB 657 - Behavioral Health Questionnaire for Students",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0657?ys=2022RS&search=True"
+},
+{
+"text": "HB 713 - Therapy Dogs - Policy for Handling and Use in Schools",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0713?ys=2021RS&search=True"
+},
+{
+"text": "HB 715 - Use of Video in Self-Contained Special Education Classrooms",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0715?ys=2021RS&search=True"
+},
+{
+"text": "HB 717 - Ending the Digital Divide Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0717?ys=2021RS&search=True"
+},
+{
+"text": "HB 724 - Special Education Services in Prolonged School Closures",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0724?ys=2021RS&search=True"
+},
+{
+"text": "HB 74 - Lifesaver Schools Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0074?ys=2024RS&search=True"
+},
+{
+"text": "HB 745 - Behavior Analysts Licensing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0745?ys=2025RS&search=True"
+},
+{
+"text": "HB 747 - Septic System Inspections",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0747?ys=2025RS&search=True"
+},
+{
+"text": "HB 804 - Workgroup to Study Maryland's Emerging Digital Economy",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0804?ys=2020RS&search=True"
+},
+{
+"text": "HB 911 - Family Child Care Homes - Rental Properties - Allowance",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0911?ys=2025RS&search=True"
+},
+{
+"text": "HB 912 - ADA Training for Higher Education Instructors",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0912?ys=2025RS&search=True"
+},
+{
+"text": "HB 981 - Therapy Dog Certification and Use in Schools",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0981?ys=2020RS&search=True"
+},
+{
+"text": "HB 986 - State Child Welfare System Reporting",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0986?ys=2020RS&search=True"
+},
+{
+"text": "Home",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Legislation",
+"href": "https://www.micheleguyton.com/legislation"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.micheleguyton.com/meet-michele"
+},
+{
+"text": "Newsletters & Updates",
+"href": "https://www.micheleguyton.com/newsletters-updates"
+},
+{
+"text": "Please Click Here to Follow Delegate Guyton's Legislation During the 2026 Session",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/guyton01/?activeTab=divLegislation"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://forms.gle/ab4sen2KB97j49kt7"
+},
+{
+"text": "September 19 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005606/"
+},
+{
+"text": "View District Map",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "[image: Michele Guyton, Maryland State Delegate 42B]",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/micheleguyton.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MicheleGuytonforDelegate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michele.guyton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@michele.guyton"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/guyton42b"
+}
 ]

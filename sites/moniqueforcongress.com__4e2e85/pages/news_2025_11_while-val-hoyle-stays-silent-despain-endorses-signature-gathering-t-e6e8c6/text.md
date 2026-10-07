@@ -1,23 +1,21 @@
-Eugene, OR - Today, Oregon’s 4th Congressional District candidate, retired Air Force Colonel Monique DeSpain, announced her unequivocal support and full endorsement of the effort to refer the state transportation tax and fee increases that secretly became law last Friday to the November 2026 ballot, so that voters can decide, while pointing out the silence of her opponent, incumbent Val Hoyle.
+About Meet Monique News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop While Val Hoyle Stays Silent - DeSpain Endorses Signature Gathering to Send State Transportation Taxes to the Ballot It's Time to Stop the Damage Being Done by Career Politicians Like Val Hoyle Eugene, OR - Today, Oregon’s 4th Congressional District candidate, retired Air Force Colonel Monique DeSpain, announced her unequivocal support and full endorsement of the effort to refer the state transportation tax and fee increases that secretly became law last Friday to the November 2026 ballot, so that voters can decide, while pointing out the silence of her opponent, incumbent Val Hoyle.
 “It’s time to give Oregonians their voices back,” said Monique DeSpain.
 “I wholeheartedly support the grassroots effort to collect signatures and put these harmful tax and fee increases rammed through by Oregon’s out-of-touch elected officials on the ballot.
 Voters should have the final say.
 As the cost of living continues to rise, our wasteful and incompetent state government keeps taking and wasting more from hardworking Oregonians while delivering less each year.
 Meanwhile, career politician Val Hoyle’s silence on these tax and fee increases hitting her own constituents is deafening.
-Her public promise on her own website to ‘lower energy costs for families and businesses’ rings hollow—just another empty pledge from the same tax-spend-waste politician she’s always been.”
-“The gas tax and DMV fee hikes hit working families, seniors on fixed incomes, and the struggling poor and middle class the hardest—not millionaires and billionaires.
-Why doesn’t the Congresswoman more actively engage with her long-time colleagues in the Oregon State Legislature—Democrats and Republicans alike—on issues where she continues to have influence, especially when their votes have significant negative impacts on her constituents?”
-“The truth is that Val Hoyle and her ruling-class friends in Salem refuse to listen or care,” DeSpain continued.
+Her public promise on her own website to ‘lower energy costs for families and businesses’ rings hollow—just another empty pledge from the same tax-spend-waste politician she’s always been.” “The gas tax and DMV fee hikes hit working families, seniors on fixed incomes, and the struggling poor and middle class the hardest—not millionaires and billionaires.
+Why doesn’t the Congresswoman more actively engage with her long-time colleagues in the Oregon State Legislature—Democrats and Republicans alike—on issues where she continues to have influence, especially when their votes have significant negative impacts on her constituents?” “The truth is that Val Hoyle and her ruling-class friends in Salem refuse to listen or care,” DeSpain continued.
 “Their priority is protecting a bloated, broken bureaucracy that ’lost track’ of a billion dollars, while they gaslight us, claiming that they can’t afford to plow snow or fix our roads.
 Enough is enough.
-I’m signing this petition, and I urge every Oregonian who’s had enough to do the same.”
-House Bill 3991 became law recently after the Governor secretly signed it, strategically delaying the 30 business days permitted by law to intentionally reduce the time citizens have to gather signatures to refer the measure to voters.
+I’m signing this petition, and I urge every Oregonian who’s had enough to do the same.” House Bill 3991 became law recently after the Governor secretly signed it, strategically delaying the 30 business days permitted by law to intentionally reduce the time citizens have to gather signatures to refer the measure to voters.
 The campaign must now hustle to submit at least approximately 78,000 valid signatures to the Secretary of State by December 30th.
 If successful, this referral will suspend the tax and fee increases and place the issue on the November 2026 ballot for voters to decide.
-To request a petition, find a location to sign the petition, or help circulate petitions, visit StopTheGasTax.com.
+To request a petition, find a location to sign the petition, or help circulate petitions, visit StopTheGasTax.com .
 DeSpain launched her campaign for Congress in OR-04 on October 1st, setting up a rematch with scandal-plagued incumbent Val Hoyle in November 2026.
-Her launch announcement featured the following video: https://tinyurl.com/MoniqueCongressLaunchVideo2025
-Monique DeSpain is a retired U.S.
+Her launch announcement featured the following video: https://tinyurl.com/MoniqueCongressLaunchVideo2025 Monique DeSpain is a retired U.S.
 Air Force Colonel, mother of twin boys, and public policy advocate who resides in Eugene, Oregon.
 She was the 2024 Republican nominee for Oregon’s 4th Congressional District, running to unseat incumbent Congresswoman Val Hoyle to bring about a safer, more prosperous Oregon.
-Her campaign website is www.MoniqueForCongress.com, or follow her on Facebook @MoniqueforCongress, X @MoniqueforOR, or YouTube @MoniqueDeSpain.
+Her campaign website is www.MoniqueForCongress.com , or follow her on Facebook @MoniqueforCongress , X @MoniqueforOR , or YouTube @MoniqueDeSpain .
+Paid For By Monique For Congress PO Box 51034 Eugene, OR 97405 info@moniqueforcongress.com 541-321-6016 Privacy Policy The use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense.
+Watch our latest ad!

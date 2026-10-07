@@ -1,33 +1,178 @@
 [
-"https://ballotpedia.org/Micah_King",
-"https://facebook.com/micahkingforstatehouse",
-"https://instagram.com/micahkingforstatehouse",
-"https://linkedin.com/in/micahking1",
-"https://micahkingforstatehouse.com/",
-"https://micahkingforstatehouse.com/digital-stewardship",
-"https://micahkingforstatehouse.com/district",
-"https://micahkingforstatehouse.com/get-involved",
-"https://micahkingforstatehouse.com/issues",
-"https://micahkingforstatehouse.com/newsroom",
-"https://micahkingforstatehouse.com/newsroom/baxley-block-party-2026",
-"https://micahkingforstatehouse.com/newsroom/can-legislators-do-anything-about-cost-of-living",
-"https://micahkingforstatehouse.com/newsroom/tags/community",
-"https://micahkingforstatehouse.com/newsroom/tags/district 157",
-"https://micahkingforstatehouse.com/newsroom/tags/economy",
-"https://micahkingforstatehouse.com/newsroom/tags/local business",
-"https://micahkingforstatehouse.com/newsroom/tags/workforce development",
-"https://micahkingforstatehouse.com/opportunities",
-"https://micahkingforstatehouse.com/opportunities/post",
-"https://micahkingforstatehouse.com/privacy",
-"https://micahkingforstatehouse.com/sitemap",
-"https://micahkingforstatehouse.com/store",
-"https://micahkingforstatehouse.com/terms",
-"https://partnerwithmercury.com/",
-"https://secure.actblue.com/donate/micahking1",
-"https://secure.actblue.com/donate/micahking1?amount=100",
-"https://secure.actblue.com/donate/micahking1?amount=25",
-"https://secure.actblue.com/donate/micahking1?amount=250",
-"https://secure.actblue.com/donate/micahking1?amount=50",
-"https://tiktok.com/@micahmeshach",
-"https://votega157.com/opportunities"
+{
+"text": "#Community",
+"href": "https://micahkingforstatehouse.com/newsroom/tags/community"
+},
+{
+"text": "#District 157",
+"href": "https://micahkingforstatehouse.com/newsroom/tags/district%20157"
+},
+{
+"text": "#Economy",
+"href": "https://micahkingforstatehouse.com/newsroom/tags/economy"
+},
+{
+"text": "#Local Business",
+"href": "https://micahkingforstatehouse.com/newsroom/tags/local%20business"
+},
+{
+"text": "#Workforce Development",
+"href": "https://micahkingforstatehouse.com/newsroom/tags/workforce%20development"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/micahking1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/micahking1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/micahking1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/micahking1?amount=50"
+},
+{
+"text": "(470) 632 - 5651",
+"href": "tel:4706325651"
+},
+{
+"text": "Back to Dispatch",
+"href": "https://micahkingforstatehouse.com/newsroom/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@votega157.com"
+},
+{
+"text": "Digital Capital deployed by ♿️ Mercury Media Partners",
+"href": "https://micahkingforstatehouse.com/digital-stewardship"
+},
+{
+"text": "Digital Stewardship ♿️ by Mercury Media Partners",
+"href": "https://partnerwithmercury.com"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/micahking1"
+},
+{
+"text": "Explore District 157 Guide →",
+"href": "https://micahkingforstatehouse.com/district/"
+},
+{
+"text": "Explore Jobs →",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "Fund the Fight",
+"href": "https://secure.actblue.com/donate/micahking1"
+},
+{
+"text": "Get Involved",
+"href": "https://micahkingforstatehouse.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://micahkingforstatehouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://micahkingforstatehouse.com/issues/"
+},
+{
+"text": "Jobs",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "Meet Micah",
+"href": "https://micahkingforstatehouse.com/#meet-micah"
+},
+{
+"text": "Newsroom",
+"href": "https://micahkingforstatehouse.com/newsroom/"
+},
+{
+"text": "Opportunity Board",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://micahkingforstatehouse.com/privacy/"
+},
+{
+"text": "Read Dispatch →",
+"href": "https://micahkingforstatehouse.com/newsroom/baxley-block-party-2026"
+},
+{
+"text": "Read Dispatch →",
+"href": "https://micahkingforstatehouse.com/newsroom/can-legislators-do-anything-about-cost-of-living"
+},
+{
+"text": "Sitemap",
+"href": "https://micahkingforstatehouse.com/sitemap/"
+},
+{
+"text": "Store",
+"href": "https://micahkingforstatehouse.com/store/"
+},
+{
+"text": "Terms of Service",
+"href": "https://micahkingforstatehouse.com/terms/"
+},
+{
+"text": "Text Us",
+"href": "sms:4706325651"
+},
+{
+"text": "[image: Micah King for GA State House]",
+"href": "https://micahkingforstatehouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://micahkingforstatehouse.com/district/"
+},
+{
+"text": "[tooltip: Ballotpedia]",
+"href": "https://ballotpedia.org/Micah_King"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://facebook.com/micahkingforstatehouse"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/micahkingforstatehouse"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/in/micahking1/"
+},
+{
+"text": "[tooltip: Official Merch Store]",
+"href": "https://micahkingforstatehouse.com/store/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@micahmeshach"
+},
+{
+"text": "https://votega157.com/opportunities/",
+"href": "https://votega157.com/opportunities/"
+},
+{
+"text": "info@votega157.com",
+"href": "mailto:info@votega157.com"
+},
+{
+"text": "votega157.com/opportunities",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "votega157.com/opportunities/post/",
+"href": "https://micahkingforstatehouse.com/opportunities/post/"
+}
 ]

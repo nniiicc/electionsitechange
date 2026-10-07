@@ -1,31 +1,27 @@
-“My constituents deserve to know if the federal government has been spying on them just for practicing their faith.
-This request gets to the heart of the issue and will help shine a light on this violation to prevent further encroachment in the future.”
-“I received an email from Navy Lieutenant Clayton Shepherd, whom I met at a program I did in high school, the U.S.
+Skip to content ABOUT ME Endorsements ON THE ISSUES YOUTH CIVIC RESOURCES IN THE NEWS SUBSTACK VOTING RECORD & SPONSORED LEGISLATION CONTACT DONATE In the News New Hampshire’s Rep.
+Thibault demands transparency from FBI over targeting of Catholic communities – CatholicVote “My constituents deserve to know if the federal government has been spying on them just for practicing their faith.
+This request gets to the heart of the issue and will help shine a light on this violation to prevent further encroachment in the future.” Franklin celebrates the return of lost Daniel Webster portrait – Concord Monitor “I received an email from Navy Lieutenant Clayton Shepherd, whom I met at a program I did in high school, the U.S.
 Senate Youth Program, telling me they found the portrait aboard the Webster when they were cleaning it out,” Thibault said.
-“HB293 will protect New Hampshire youth by requiring device manufacturers to prompt parents with an age confirmation when setting up a device for their children.
+Opinion: HB293 will protect young people from porn addiction – Concord Monitor “HB293 will protect New Hampshire youth by requiring device manufacturers to prompt parents with an age confirmation when setting up a device for their children.
 A content filter will automatically engage if the device is set up for a minor.
-This innovative and proactive approach will help parents, regardless of their technological knowledge, prevent their children from being exposed to inappropriate content.”
-“Events like this are very important because they help to engage us as students and Ambassadors in the very same fundamental concepts that brought us to the political realm in the first place.
-The scouts seemed to be more engaged with the material because it was being taught by us as people closer to their age who have a background in the field.”
-“I think there needs to be a discussion about what we teach in schools in general.
-We have too little focus on things, like civics and personal finance, that are critical to students’ future success and understanding of the world.”
-“Thibault sees Webster’s life as an example of the American Dream.
+This innovative and proactive approach will help parents, regardless of their technological knowledge, prevent their children from being exposed to inappropriate content.” [New Hampshire Institute of Politics] hosts educational event for Eagle Scout’s merit badge college – Saint Anselm Crier “Events like this are very important because they help to engage us as students and Ambassadors in the very same fundamental concepts that brought us to the political realm in the first place.
+The scouts seemed to be more engaged with the material because it was being taught by us as people closer to their age who have a background in the field.” Potential changes to NH high school grad requirements echo national controversies – Saint Anselm Crier “I think there needs to be a discussion about what we teach in schools in general.
+We have too little focus on things, like civics and personal finance, that are critical to students’ future success and understanding of the world.” Franklin rep introduces bill to promote state history – Laconia Daily Sun “Thibault sees Webster’s life as an example of the American Dream.
 Webster was born to poor farming parents in Salisbury, where his home can be seen in what is now Franklin.
-He attended Dartmouth College at 15, and became a lawyer, before an impressive career as a politician.”
-“Thibault tagged along on the tour to answer questions from a group of fourth-grade homeschooled students about Granite State history and what it’s like to be one of the youngest lawmakers in New Hampshire.”
-“It’s really important for people to be able to engage with public officials, like the mayor,” [Thibault] said.
+He attended Dartmouth College at 15, and became a lawyer, before an impressive career as a politician.” Full-circle moment: A 19-year-old freshman state rep navigates his first day of the 2025 legislative session – Concord Monitor “Thibault tagged along on the tour to answer questions from a group of fourth-grade homeschooled students about Granite State history and what it’s like to be one of the youngest lawmakers in New Hampshire.” Christmas dinner tradition in Franklin welcomes anyone for a meal, no questions asked – Laconia Daily Sun “It’s really important for people to be able to engage with public officials, like the mayor,” [Thibault] said.
 “It’s important for us to come out and be with them, and understand exactly what’s going on.
-And I think these are great opportunities to do that.”
-“…Thibault can rattle off Republican priorities he views as a must for his party this session – expanding Education Freedom Accounts, protecting biological girls in sports, passing a parental bill of rights.”
-“With his victory, Thibault joins a growing movement of young, dedicated individuals eager to shape the future of both local and national politics.
+And I think these are great opportunities to do that.” Concord students to represent Granite State in U.S.
+Senate Youth Program – Concord Monitor “A former Senate Youth Program attendee, 18-year-old James Thibault, was also recently elected as a state representative in Franklin.” Meet James Thibault: New Hampshire’s youngest representative – Concord Monitor “…Thibault can rattle off Republican priorities he views as a must for his party this session – expanding Education Freedom Accounts, protecting biological girls in sports, passing a parental bill of rights.” [Saint Anselm College] freshman now youngest member in the NH House of Representatives – Saint Anselm Crier “With his victory, Thibault joins a growing movement of young, dedicated individuals eager to shape the future of both local and national politics.
 This particularly tumultuous Election Night saw a range of candidates triumph across the political spectrum, but Thibault’s success stands out as a shining beacon of youth activism.
-His election demonstrates that young people can and should be involved in the political process, and can have a real, tangible impact on the issues they care about.”
-“Thibault, 18, recently graduated from Winnisquam Regional High School, and is now in his first year at Saint Anselm College in Manchester, studying politics.
+His election demonstrates that young people can and should be involved in the political process, and can have a real, tangible impact on the issues they care about.” [Saint Anselm College] student progresses to NH general election – Saint Anselm Crier “You’re not running for the money…it’s really to serve your community and represent them,” Thibault states.
+James Thibault ’28 looks to take a seat in the New Hampshire State [House] – Saint Anselm Crier Five vying to represent Franklin, Northfield on GOP ticket – Laconia Daily Sun “Thibault, 18, recently graduated from Winnisquam Regional High School, and is now in his first year at Saint Anselm College in Manchester, studying politics.
 In 2021, his family lost their home due to rising property tax, and his parents have struggled to get the education best needed for his sisters with special needs.
-Many of his policies stem from his experience in public schools, seeing problems firsthand.”
-“I first got into public service to protect individual rights.
+Many of his policies stem from his experience in public schools, seeing problems firsthand.” James Thibault: Will fight for issues that matter to Franklin, Northfield – Laconia Daily Sun “I first got into public service to protect individual rights.
 Schools that should exist to teach and serve students and parents have often stood in the way of their academic success.
-From restricting and fear-mongering school choice, underserving our special needs students, and blocking freedom of speech and expression, I saw all of these issues in my own school experience at Winnisquam, and my peers always came to me to ask for advice on what to do about them.”
-“‘Michael and James both have a passion for politics, and I believe that this tremendous opportunity to represent New Hampshire as part of the U.S.
+From restricting and fear-mongering school choice, underserving our special needs students, and blocking freedom of speech and expression, I saw all of these issues in my own school experience at Winnisquam, and my peers always came to me to ask for advice on what to do about them.” Two New Hampshire students chosen for U.S.
+Senate Youth Program – New Hampshire Department of Education “‘Michael and James both have a passion for politics, and I believe that this tremendous opportunity to represent New Hampshire as part of the U.S.
 Senate Youth Program will lead them on bright paths to public service.
-It will be exciting to see their future careers unfold,’ said Edelblut, adding he was impressed with their academic achievements and extensive volunteer service.”
+It will be exciting to see their future careers unfold,’ said Edelblut, adding he was impressed with their academic achievements and extensive volunteer service.” Contact Me Call, text, DM, email; I’m here to serve and happy to answer!
+57 Freedom Drive Franklin, NH 03235 (603) 800-6180 james.thibault@gc.nh.gov Facebook Instagram X LinkedIn Paid for by James for New Hampshire.
+James Thibault Treasurer.
+(603) 800-6180 Representative James Thibault Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

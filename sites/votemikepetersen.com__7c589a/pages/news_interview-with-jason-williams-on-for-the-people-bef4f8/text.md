@@ -1,8 +1,2 @@
-Click to hear my interview with Jason Williams on KVNU's For the People show.
-13
-Jun
-Thursday, 9:56 AM · 2024
-Paid for by Committee to
-Re-elect Mike Petersen
-Re-elect Mike Petersen
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Mike Introduction Video Policy Positions Endorsements News News / Interview with Jason Williams on For the People 13 Jun Thursday, 9:56 AM · 2024 Interview with Jason Williams on For the People Click to hear my interview with Jason Williams on KVNU's For the People show.
+Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

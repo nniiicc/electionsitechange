@@ -1,4 +1,4 @@
-Rep.
+Home About Volunteer News Contact Donate Donate Now About Jim Rep.
 Jim DeSana was first elected to the Michigan House of Representatives in November 2022.
 He represents the 29th House District, which includes portions of Monroe and Wayne counties, covering parts of Monroe, Taylor, and Romulus, the village of Carleton, the townships of Ash and Huron, and a portion of Frenchtown Township.
 Jim earned a bachelor’s degree in business administration and management from the University of Detroit Mercy.
@@ -15,3 +15,4 @@ Jim is also highly involved in youth baseball.
 He coached at St.
 Mary Catholic Central High School from 2000 to 2009 and currently serves as president of the Michigan Monarchs, a Great Lakes Summer Collegiate League team.
 Through the Monarchs, he has developed a youth travel baseball organization that provides opportunities for young athletes across the region.
+PAID FOR BY FRIENDS OF JIM DESANA

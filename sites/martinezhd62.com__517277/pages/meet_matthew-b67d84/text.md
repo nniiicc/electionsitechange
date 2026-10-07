@@ -1,5 +1,4 @@
-Meet Matthew
-Matthew Martinez is a 7th Generation Colorado Native, United States Marine Corps and Operation Iraqi Freedom Veteran, Adams State University Alumni and current Representative for Colorado House District 62!
+Meet Matthew Issues Legislation Photos News Volunteer Endorsements Contribute Meet Matthew Matthew Martinez is a 7th Generation Colorado Native, United States Marine Corps and Operation Iraqi Freedom Veteran, Adams State University Alumni and current Representative for Colorado House District 62!
 Born in Monte Vista to his mother Denise, Matthew attended Monte Vista High School where he excelled in both academics and sports.
 In 2005, he was elected Senior Class President and graduated from high school the same year.
 Matthew was a talented athlete and was part of the football, wrestling, and track & field teams.
@@ -8,8 +7,7 @@ Following graduation, Matthew chose to serve his country and enlisted in the Uni
 Matthew began his military career in 2006 when he was assigned to the infantry unit 2nd Battalion, 1st Marines (2/1), Echo Company based out of Camp Pendleton, California.
 He was later deployed on the 31st Marine Expeditionary Unit in 2007 and took part in Operation Iraqi Freedom in 2009.
 During his time with 2/1, Matthew was meritoriously promoted to the rank of Corporal and was also selected as Battalion Marine of the Quarter.
-He served as a Fireteam Leader and Squad Leader, and received the following awards:
-Meritorious promotion to E-4/Corporal, Battalion Marine of the Quarter, Certificate of Commendation - 31st MEU, 2 Letters of Appreciation - 31st MEU, O.I.F.
+He served as a Fireteam Leader and Squad Leader, and received the following awards: Meritorious promotion to E-4/Corporal, Battalion Marine of the Quarter, Certificate of Commendation - 31st MEU, 2 Letters of Appreciation - 31st MEU, O.I.F.
 Navy Unit Commendation w/star, Marine Corps Good Conduct Medal, National Defense Service Medal, Iraq Campaign Medal w/service star, Global War on Terrorism Service Medal, Korean Defense Service Medal, Sea Service Deployment Ribbon w/star.
 Following his Honorable Discharge, Matthew enrolled at Adams State University where he became one of the founding members of the Adams State University Veterans Club/Center.
 He also became the first 2-term Student Body President in Adams State history, leaving a remarkable legacy.
@@ -38,15 +36,5 @@ Matthew is also a member of the American Legion at Home Lake, where he can engag
 Moreover, Matthew was first elected as the Representative for Colorado House District 62 in 2022.
 He was also elected in 2024 as the House Majority Caucus Co-Whip.
 Matthew also serves as the Vice Chair of the House Education Committee and sits on the Agriculture, Water & Natural Resource Committee and Legislative Council.
-Matthew's Awards and Commendations
-2025 Independent Community Bankers of Colorado Silver Spur
-2025 Colorado Hospital Association Legislative Champion
-2025 Colorado Community Health Network's Legislative Champion
-2025 SLV Health Rural Healthcare Advocate
-2024 Feed Colorado Legislative Champion
-2024 Adams State University Legislative Champion
-2017 Adams State University Exceptional New Alumnus
-2016 Hispanic Salute – Honoree
-2014 Adams State University – Outstanding Club Advisor
-2013 Adams State University – Student Government Leadership Award
-Matthew and his wife Chelsea currently reside in Monte Vista with their 3 rescue dogs, Chico, Tiffany and Frida.
+Matthew's Awards and Commendations 2025 Independent Community Bankers of Colorado Silver Spur 2025 Colorado Hospital Association Legislative Champion 2025 Colorado Community Health Network's Legislative Champion 2025 SLV Health Rural Healthcare Advocate 2024 Feed Colorado Legislative Champion 2024 Adams State University Legislative Champion 2017 Adams State University Exceptional New Alumnus 2016 Hispanic Salute – Honoree 2014 Adams State University – Outstanding Club Advisor 2013 Adams State University – Student Government Leadership Award Matthew and his wife Chelsea currently reside in Monte Vista with their 3 rescue dogs, Chico, Tiffany and Frida. *Pictures in uniform do not constitute an endorsement from the military.
+Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com - Political Websites Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu

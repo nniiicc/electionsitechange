@@ -1,59 +1,11 @@
-Congressman Kustoff Announces Law and Order Coalition
-May 14, 2018
-Includes over 40 Sheriffs, District Attorneys, and Police Chiefs from across West Tennessee
-GERMANTOWN, Tennessee – Congressman David Kustoff (TN-08) today announced his law and order coalition, featuring more than 40 prominent members of the West Tennessee law enforcement community.
+Toggle navigation Home About Issues News Volunteer Contact Donate Congressman Kustoff Announces Law and Order Coalition May 14, 2018 Includes over 40 Sheriffs, District Attorneys, and Police Chiefs from across West Tennessee GERMANTOWN, Tennessee – Congressman David Kustoff (TN-08) today announced his law and order coalition, featuring more than 40 prominent members of the West Tennessee law enforcement community.
 “I’m honored to receive the endorsements of so many law enforcement officials throughout the 8th Congressional District,” said Congressman Kustoff.
 “As the United States Attorney for the Western District of Tennessee, I worked alongside law enforcement to fight violent crime and keep drugs out of our communities in West Tennessee.
-Now, it is my mission to work with President Trump and ensure these brave men and women get the support they deserve from Washington.”
-“Congressman Kustoff has been a strong ally to the entire law enforcement community in West Tennessee,” said Henry County Sheriff Monte Belew.
-“From his laser focus on addressing the opioid crisis to making sure we have the tools we need to combat violent crime, I could not dream of a better friend to those of us in uniform than Congressman Kustoff.”
-“As a former prosecutor himself, Congressman Kustoff knows what it takes to keep our communities safe in West Tennessee,” said District Attorney for the 26th Judicial District Jody Pickens.
-“The Congressman has been a strong ally for us in Washington, and I’m proud to work alongside him to address the tough issues facing our state.”
-During his first term, Congressman Kustoff has led the charge on issues impacting the law enforcement community, such as the fight to end the opioid crisis and the effort to prevent the use of contraband cell phones in prisons.
+Now, it is my mission to work with President Trump and ensure these brave men and women get the support they deserve from Washington.” “Congressman Kustoff has been a strong ally to the entire law enforcement community in West Tennessee,” said Henry County Sheriff Monte Belew.
+“From his laser focus on addressing the opioid crisis to making sure we have the tools we need to combat violent crime, I could not dream of a better friend to those of us in uniform than Congressman Kustoff.” “As a former prosecutor himself, Congressman Kustoff knows what it takes to keep our communities safe in West Tennessee,” said District Attorney for the 26th Judicial District Jody Pickens.
+“The Congressman has been a strong ally for us in Washington, and I’m proud to work alongside him to address the tough issues facing our state.” During his first term, Congressman Kustoff has led the charge on issues impacting the law enforcement community, such as the fight to end the opioid crisis and the effort to prevent the use of contraband cell phones in prisons .
 Congressman Kustoff was born and raised in Shelby County and is a graduate of the University of Memphis.
 Appointed U.S.
 Attorney for the Western District of Tennessee by President Bush in 2006, Kustoff set his sights on cleaning up government and public corruption and fighting violent crime and drugs.
 He oversaw the majority of the Tennessee Waltz trials that sent Senator John Ford and 11 other defendants to federal prison.
-Kustoff for Congress Law and Order Coalition
-- Shelby County Sheriff Bill Oldham
-- Madison County Sheriff John Mehr
-- Tipton County Sheriff JT “Pancho” Chumley
-- Gibson County Sheriff Paul Thomas
-- Fayette County Sheriff Bobby Riles
-- Dyer County Sheriff Jeff Box
-- Henry County Sheriff Monte Belew
-- Haywood County Sheriff Billy Garrett
-- Crockett County Sheriff Troy Klyce
-- Carroll County Sheriff Andy Dickson
-- Lauderdale County Sheriff Steve Sanders
-- Lake County Sheriff Brian Avery
-- Obion County Sheriff Jerry Vastbinder
-- Former District Attorney for the 29th Judicial District Phil Bivens
-- District Attorney for the 26th Judicial District Jody Pickens
-- District Attorney for the 30th Judicial District Amy Weirich
-- District Attorney for the 25th Judicial District Mark Davidson
-- District Attorney for the 28th Judicial District Garry Brown
-- District Attorney for the 27th Judicial District Tommy Thomas
-- District Attorney for the 29th Judicial District Danny Goodman
-- Retired Tennessee State Trooper Joey Hargrove
-- Tipton County Chief Deputy Billy Daughtery
-- Shelby County Assistant Chief Deputy Mark Dunbar
-- Bartlett Police Chief Gary Rikard
-- Germantown Police Chief Richard Hall
-- Collierville Assistant Police Chief Jeff Abeln
-- Collierville Assistant Police Chief Dave Tillner
-- Covington Police Chief Buddy Lewis
-- Jackson Police Chief Julian Wiser
-- Jackson Deputy Chief Tyrecce Miller
-- Somerville Police Chief David Webb
-- Oakland Police Chief Christopher Earl
-- Gallaway Police Chief Rick Jewell
-- Atoka Police Chief Jesse Poole
-- Munford Police Chief Jim Harger
-- Humboldt Police Chief Robert Ellis
-- Medina Police Chief Jason Oliver
-- Tiptonville Police Chief Joe England
-- Dyer Police Chief Brad Lindsey
-- Rutherford Police Chief Adam Branch
-- Gibson Police Chief Brad Hardin
-- Yorkville Police Chief Cody Childress
+Kustoff for Congress Law and Order Coalition Shelby County Sheriff Bill Oldham Madison County Sheriff John Mehr Tipton County Sheriff JT “Pancho” Chumley Gibson County Sheriff Paul Thomas Fayette County Sheriff Bobby Riles Dyer County Sheriff Jeff Box Henry County Sheriff Monte Belew Haywood County Sheriff Billy Garrett Crockett County Sheriff Troy Klyce Carroll County Sheriff Andy Dickson Lauderdale County Sheriff Steve Sanders Lake County Sheriff Brian Avery Obion County Sheriff Jerry Vastbinder Former District Attorney for the 29th Judicial District Phil Bivens District Attorney for the 26th Judicial District Jody Pickens District Attorney for the 30th Judicial District Amy Weirich District Attorney for the 25th Judicial District Mark Davidson District Attorney for the 28th Judicial District Garry Brown District Attorney for the 27th Judicial District Tommy Thomas District Attorney for the 29th Judicial District Danny Goodman Retired Tennessee State Trooper Joey Hargrove Tipton County Chief Deputy Billy Daughtery Shelby County Assistant Chief Deputy Mark Dunbar Bartlett Police Chief Gary Rikard Germantown Police Chief Richard Hall Collierville Assistant Police Chief Jeff Abeln Collierville Assistant Police Chief Dave Tillner Covington Police Chief Buddy Lewis Jackson Police Chief Julian Wiser Jackson Deputy Chief Tyrecce Miller Somerville Police Chief David Webb Oakland Police Chief Christopher Earl Gallaway Police Chief Rick Jewell Atoka Police Chief Jesse Poole Munford Police Chief Jim Harger Humboldt Police Chief Robert Ellis Medina Police Chief Jason Oliver Tiptonville Police Chief Joe England Dyer Police Chief Brad Lindsey Rutherford Police Chief Adam Branch Gibson Police Chief Brad Hardin Yorkville Police Chief Cody Childress Home About Issues News Volunteer Contact Donate Paid for by Kustoff for Congress Privacy Policy | Terms & Conditions

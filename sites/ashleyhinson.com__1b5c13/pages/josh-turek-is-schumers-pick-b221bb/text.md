@@ -1,11 +1,7 @@
-Cedar Rapids, IA – Chuck Schumer spent $10 million to get Josh Turek through the primary – more than any other candidate in the country.
+Meet Ashley Issues Endorse Volunteer Contribute News & Updates Josh Turek is “Schumer’s Pick” Jun 15, 2026 | Press Release Back to Updates Cedar Rapids, IA – Chuck Schumer spent $10 million to get Josh Turek through the primary – more than any other candidate in the country.
 Turek is Schumer’s pick, and shares his radical, far-left views.
-As Chuck Schumer told the New York Times, “he’s our guy.”
-The American Prospect: “The Democrats hope to win the Senate seat in Iowa as well, and state representative and former Paralympian Josh Turek, Chuck Schumer’s preferred candidate, won the primary on the back of a $10 million investment from VoteVets, which is closely allied with the Democratic leadership.”
-Punchbowl News: “Schumer’s pick in Iowa, paralympian Josh Turek, handily won the Democratic nomination.”
-Washington Examiner: “Veterans group backing Iowa Senate Democrat’s bid is bankrolled by Schumer-aligned PAC.”
-Cook Political Report: “It’s clear that Chuck Schumer and his allies in Washington believe state Rep.
-Josh Turek…has the biography and electoral record to make a state that Trump won by 13 points competitive in the fall.
+As Chuck Schumer told the New York Times, “he’s our guy.” The American Prospect : “The Democrats hope to win the Senate seat in Iowa as well, and state representative and former Paralympian Josh Turek, Chuck Schumer’s preferred candidate , won the primary on the back of a $10 million investment from VoteVets, which is closely allied with the Democratic leadership.” Punchbowl News : “ Schumer’s pick in Iowa , paralympian Josh Turek, handily won the Democratic nomination. ” Washington Examiner : “Veterans group backing Iowa Senate Democrat’s bid is bankrolled by Schumer-aligned PAC .” Cook Political Report : “It’s clear that Chuck Schumer and his allies in Washington believe state Rep.
+Josh Turek …has the biography and electoral record to make a state that Trump won by 13 points competitive in the fall.
 Outside group VoteVets has dumped $10 million into the race to boost him over state Sen.
-Zach Wahls.”
-###
+Zach Wahls.” ### Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

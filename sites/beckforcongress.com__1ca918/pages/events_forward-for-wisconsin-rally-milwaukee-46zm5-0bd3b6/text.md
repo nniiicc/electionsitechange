@@ -1,10 +1,5 @@
-Back to All Events
-Hear your candidates for this Fall’s General Election and cheer them on!
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Forward for Wisconsin Rally: Waukesha!
+Sunday, August 16, 2026 9:00 AM 11:00 AM Les Paul Performance Center (Band Stand) 321 Wisconsin Avenue Waukesha, Wisconsin, 53186 United States (map) Google Calendar ICS Hear your candidates for this Fall’s General Election and cheer them on!
 I’ll be there!
-Previous
-Previous
-August 15
-Brookfield Farmer's Market
-Next
-Next
-August 16
+Previous Previous August 15 Brookfield Farmer's Market Next Next August 16 Forward for Wisconsin Rally: Elkhorn!
+DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

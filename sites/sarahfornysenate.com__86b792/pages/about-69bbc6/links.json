@@ -1,11 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sarahfornysenate",
-"https://instagram.com/sarahfornysenate",
-"https://sarahfornysenate.com/",
-"https://sarahfornysenate.com/contact",
-"https://sarahfornysenate.com/endorsements",
-"https://sarahfornysenate.com/issues",
-"https://sarahfornysenate.com/volunteer",
-"https://secure.actblue.com/donate/sarahforsd44"
+{
+"text": "Contact",
+"href": "https://www.sarahfornysenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarahforsd44"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sarahfornysenate.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.sarahfornysenate.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sarahfornysenate.com/volunteer"
+},
+{
+"text": "[image: Sarah Rogerson for NY Senate - Stronger Together!]",
+"href": "https://www.sarahfornysenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sarahfornysenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sarahfornysenate"
+},
+{
+"text": "info@sarahfornysenate.com",
+"href": "mailto:info@sarahfornysenate.com"
+}
 ]

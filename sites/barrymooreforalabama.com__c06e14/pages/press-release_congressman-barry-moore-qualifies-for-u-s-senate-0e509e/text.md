@@ -1,9 +1,8 @@
-Watch Barry’s Speech
-Birmingham, AL – Today, Congressman Barry Moore, flanked by dozens of supporters, qualified for U.S.
+Home About Issues In the News Action Center Contact Us Merch Home About Issues In the News Action Center Contact Us Merch Donate Donate Crypto Home About Issues In the News Action Center Contact Us Merch Make a Donation Donate Crypto X-twitter Facebook-f Youtube Press Release Congressman Barry Moore Qualifies for U.S.
+Senate For Immediate Release: January 16, 2026 Watch Barry’s Speech Birmingham, AL – Today, Congressman Barry Moore, flanked by dozens of supporters, qualified for U.S.
 Senate at the Alabama GOP Headquarters in Birmingham.
 Barry made the following remarks to supporters and the media.
-Higher quality video of Barry’s speech is available upon request to info@barrymooreforalabama.com
-“Just under a year ago, our President was sworn in for his second term.
+Higher quality video of Barry’s speech is available upon request to info@barrymooreforalabama.com “Just under #ago, our President was sworn in for his second term.
 It was the height of a decade-long journey that President Trump began when he came down the golden escalator and promised to Make America Great Again.
 On August 21, 2015, I was proud to join him on that journey as the first elected official in America to endorse Donald J.
 Trump for President.
@@ -43,6 +42,18 @@ With your help, I’ll be thankful to stand strong for Alabama in the US Senate 
 From Rocket City to Ft.
 Rucker, from Ft.
 Payne to Mobile and all cities in between… I will continue to work for the great state of Alabama.
-To get plugged in, go to BarryMooreforAlabama.com.
+To get plugged in, go to BarryMooreforAlabama.com .
 God bless you all.
-God bless Alabama.”
+God bless Alabama.” About Barry Moore Born and raised in Coffee County, Barry Moore is a Christian, husband, father, and small-business owner who served in the Alabama National Guard Reserves.
+In August 2015, at Ladd-Peebles Stadium in Mobile, he became the first elected official in the country to endorse Donald Trump for President and has always had his back since.
+He is the only candidate for US Senate in Alabama with President Trump’s “Complete and Total Endorsement.” Barry attended Auburn University, where he enlisted in the Alabama National Guard Reserves and met his wife Heather.
+After college, Barry and Heather founded BMI, Inc., a waste removal and demolition company, with one truck and a lot of hard work.
+Over two decades later, BMI continues to grow and prosper.
+Elected to the House of Representatives in 2020, Barry is a member of the House Freedom Caucus.
+He was rated both the most conservative member in Alabama by CPAC and the state’s most effective legislator by the Center for Legislative Excellence.
+In Congress, he stood for farmers, veterans and small business owners and against Biden’s lawless Justice Department, the invasion at our border and the Radical Left’s social agenda.
+Barry and Heather have four children (Jeremy and his wife Brittany, Kathleen and her husband Jack, Claudia and her husband Garrett, and Jeb), two grandchildren, and two dogs.
+He still lives in Coffee County.
+Home About Issues In the News Action Center Contact Us Merch Home About Issues In the News Action Center Contact Us Merch Youtube X-twitter Facebook Barry Moore for U.S.
+Senate, All Rights Reserved Press Kit Privacy Policy Paid for by Barry Moore for U.S.
+Senate

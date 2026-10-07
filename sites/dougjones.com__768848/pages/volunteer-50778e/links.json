@@ -1,10 +1,34 @@
 [
-"https://dougjones.com/",
-"https://dougjones.com/contact",
-"https://dougjones.com/priorities",
-"https://facebook.com/dougforalabama",
-"https://instagram.com/dougforalabama",
-"https://secure.actblue.com/donate/djfounder",
-"https://tiktok.com/@dougforalabama",
-"https://x.com/DougJones"
+{
+"text": "CONTACT US",
+"href": "https://www.dougjones.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/djfounder"
+},
+{
+"text": "Priorities",
+"href": "https://www.dougjones.com/priorities"
+},
+{
+"text": "[image: Doug for Alabama]",
+"href": "https://www.dougjones.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dougforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/dougforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@dougforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DougJones"
+}
 ]

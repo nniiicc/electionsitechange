@@ -1,17 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Fore+the+People&dates=20251004T220000Z%2F20251005T000000Z&location=101+North+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States",
-"http://maps.google.com/?q=101+North+Street+Geneva%2C+IL%2C+60134+United+States",
-"https://rayguncustom.com/collections/ricky-rivard-for-state-rep",
-"https://secure.actblue.com/donate/rivard65",
-"https://votericky.com/",
-"https://votericky.com/aboutricky",
-"https://votericky.com/cart",
-"https://votericky.com/contact",
-"https://votericky.com/district-map",
-"https://votericky.com/events",
-"https://votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8?format=ical",
-"https://votericky.com/events/campaign-kick-off",
-"https://votericky.com/issues",
-"https://votericky.com/news",
-"https://votericky.com/privacy-policy"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=101+north+street+geneva%2C+il%2C+60134+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votericky.com/cart"
+},
+{
+"text": "About Ricky",
+"href": "https://www.votericky.com/aboutricky"
+},
+{
+"text": "Back",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votericky.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.votericky.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.votericky.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rivard65"
+},
+{
+"text": "Events",
+"href": "https://www.votericky.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fore+the+People&dates=20251004T220000Z%2F20251005T000000Z&location=101+North+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/248zc3m5bav69ywx2mi74jgrino8b8?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votericky.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.votericky.com/news"
+},
+{
+"text": "Previous Previous July 14 Campaign Kick-off",
+"href": "https://www.votericky.com/events/campaign-kick-off"
+},
+{
+"text": "Privacy Policy & Terns/Conditions",
+"href": "https://www.votericky.com/privacy-policy"
+},
+{
+"text": "Ricky Rivard for State Rep store",
+"href": "https://www.rayguncustom.com/collections/ricky-rivard-for-state-rep"
+},
+{
+"text": "Ricky Rivard | Putting People First",
+"href": "https://www.votericky.com/"
+}
 ]

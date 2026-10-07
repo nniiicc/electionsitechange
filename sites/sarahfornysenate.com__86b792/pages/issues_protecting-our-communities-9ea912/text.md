@@ -1,13 +1,13 @@
-PROTECTING OUR COMMUNITIES
-As a public-interest crisis attorney and as the founder of Albany Law School’s Immigration Law Clinic, I fight to protect our immigrant neighbors and train and mobilize the next generation of public interest lawyers to serve on the front lines opposing Trump’s war against our most vulnerable community members.
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate About Issues Endorsements Volunteer Contact Donate COST-OF-LIVING IN CRISIS PROTECTING OUR COMMUNITIES HEALTHCARE WITHOUT FEAR PLANNING FOR A CHANGING FUTURE WE'RE IN THIS TOGETHER PROTECTING OUR COMMUNITIES As a public-interest crisis attorney and as the founder of Albany Law School’s Immigration Law Clinic, I fight to protect our immigrant neighbors and train and mobilize the next generation of public interest lawyers to serve on the front lines opposing Trump’s war against our most vulnerable community members.
 I have also seen first-hand the fear that families in our district face, that a knock on the door, a traffic stop, or even showing up to work could tear their lives apart.
 That’s happening right now all over our district, and it’s not who we should be.
 A system that separates families, targets those who are working and contributing, and creates fear instead of safety is broken at its core.
 We need to keep immigration enforcement out of schools, hospitals, and places of worship, guarantee legal representation so people aren’t navigating the system alone, and make sure people feel safe seeking medical care or reporting a crime.
-I have also been directly impacted by another major safety issue: community gun violence.
+I have also been directly impacted by another major safety issue: community gun violence .
 On November 30, 2021, a 15-year-old boy used the handgun his parents failed to secure to shoot 10 fellow students and a teacher at his high school in Oxford, Michigan; brutally ending four lives, injuring seven more, and plunging hundreds into a lifetime of trauma.
 My nephew was one of the injured, and the experience propelled our family through trauma and transformation into staunch public advocates for gun safety legislation.
 I am deeply committed to evidence-backed prevention, including safe storage, red flag laws, robust multidisciplinary threat assessment, and school-based social-emotional support and education.
 I’m also committed to meaningful support for first responders, who show enormous courage in the moment of crisis, running toward the danger and damage as everyone else runs away.
 For many, that means experiencing deep trauma — trauma that comes back when they return to jobs that require confronting similar triggers again and again.
 We need to do right by our first responders and ensure that the care and treatment they need because of the duties they have performed is fully funded.
+ELECTION DAY: November 3 EARLY VOTING: October 24 - November 1 We want to hear from you: info@sarahfornysenate.com Powered by RUN! website builder Paid for by Friends of Sarah Rogerson You need to enable JavaScript to run this app.

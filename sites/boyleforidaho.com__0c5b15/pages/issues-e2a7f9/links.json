@@ -1,7 +1,30 @@
 [
-"https://boyleforidaho.com/",
-"https://boyleforidaho.com/donate",
-"https://boyleforidaho.com/issues",
-"https://boyleforidaho.com/news-media",
-"https://boyleforidaho.com/volunteer"
+{
+"text": "Contribute Here",
+"href": "https://boyleforidaho.com/donate/"
+},
+{
+"text": "Donate Here",
+"href": "https://boyleforidaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://boyleforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://boyleforidaho.com/issues/"
+},
+{
+"text": "News & Media",
+"href": "https://boyleforidaho.com/news-media/"
+},
+{
+"text": "Volunteer",
+"href": "https://boyleforidaho.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://boyleforidaho.com"
+}
 ]

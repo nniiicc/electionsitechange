@@ -1,7 +1,11 @@
 {
  "description": "Voting Info for Oklahoma House District 77",
  "final_url": "https://www.waldron4ok.com/issues",
- "paid_for_by": null,
+ "fingerprint": "b2922690120b3702fe4ff146e841f3c725e8bfc2",
+ "format": 3,
+ "paid_for_by": "authorized by the party",
  "title": "Voting Info",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020"
+ ]
 }

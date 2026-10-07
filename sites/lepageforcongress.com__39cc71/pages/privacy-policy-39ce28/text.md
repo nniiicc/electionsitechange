@@ -1,19 +1,15 @@
-Text Message Privacy Policy
-By providing your mobile phone number, you are consenting to receive calls and recurring SMS/MMS text messages to that number from LePage for Congress.
+Meet PAUL ISSUES DONATE JOIN THE TEAM Text Message Privacy Policy By providing your mobile phone number, you are consenting to receive calls and recurring SMS/MMS text messages to that number from LePage for Congress.
 Msg & data rates may apply.
 Reply HELP for help, STOP to end.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law!
-Text Message Terms & Conditions
-By requesting, joining, providing your mobile number, agreeing to, enrolling in, signing up for, acknowledging, or otherwise consenting to receive one or more text messages from LEPAGE FOR CONGRESS (“Sender”, “we”, “us”, “our”) through Sender’s messaging platform (“Platform”), you accept these Terms & Conditions (“Opt-In”).
-Opting In:
-You authorize Sender to use auto dialer or non-auto dialer technology to send text messages to the cell phone number associated with your Opt-In (i.e., the number listed on the Opt-In form or instructions, or, if none, the number from which you send the Opt-In, or, if none, the number on file for the account associated with your Opt-In).
+Text Message Terms & Conditions By requesting, joining, providing your mobile number, agreeing to, enrolling in, signing up for, acknowledging, or otherwise consenting to receive one or more text messages from LEPAGE FOR CONGRESS (“Sender”, “we”, “us”, “our”) through Sender’s messaging platform (“Platform”), you accept these Terms & Conditions (“Opt-In”).
+Opting In: You authorize Sender to use auto dialer or non-auto dialer technology to send text messages to the cell phone number associated with your Opt-In (i.e., the number listed on the Opt-In form or instructions, or, if none, the number from which you send the Opt-In, or, if none, the number on file for the account associated with your Opt-In).
 You also authorize Sender to include marketing content in any such messages.
 You do not have to Opt-In or agree to Opt-In as a condition of purchase of any of Sender’s offerings.
 You confirm that you are the subscriber to the relevant phone number or that you are the customary user of that number on a family or business plan and that you are authorized to Opt-In.
 You consent to the use of an electronic record to document your Opt-In.
 You agree that, in addition to the main messages that Sender may provide, you may receive one or more welcome messages or administrative messages, such as (in some cases) a request to confirm your Opt-In.
-About the Text Message Services and Opting Out:
-You may not use of engage with the Platform if you are under thirteen (13) years of age.
+About the Text Message Services and Opting Out: You may not use of engage with the Platform if you are under thirteen (13) years of age.
 If you use or engage with the Platform and are between the ages of thirteen (13) and eighteen (18) years of age, you must have your parent’s or legal guardian’s permission to do so.
 By using or engaging with the Platform, you acknowledge and agree that you are not under the age of thirteen (13) years, are between the ages of thirteen (13) and eighteen (18) and have your parent’s or legal guardian’s permission to use or engage with the Platform, or are of adult age in your jurisdiction.
 By using or engaging with the Platform, you also acknowledge and agree that you are permitted by your jurisdiction’s applicable laws, rules, and regulations to use and/or engage with the Platform.
@@ -34,8 +30,5 @@ These Terms & Conditions still will apply if you withdraw the consent mentioned 
 You may print this page for your records.
 To update our records with your contact information, or receive help with any messages, please contact us at info@lepageforcongress.com.
 Minimum technology requirements may apply for electronic records.
-Paul LePage for Congress | PO Box 49 | Augusta, ME 04332
-(207) 558-9688
-By providing your phone number, you are consenting to receive calls and SMS/MMS msgs, including autodialed and automated calls and texts, to that number from Paul LePage for Congress Msg & data rates may apply.
-PAID FOR BY PAUL LEPAGE FOR CONGRESS
-LePage Works for Maine Video
+Meet PAUL ISSUES DONATE JOIN THE TEAM Paul LePage for Congress | PO Box 49 | Augusta, ME 04332 (207) 558-9688 ‍ By providing your phone number, you are consenting to receive calls and SMS/MMS msgs, including autodialed and automated calls and texts, to that number from Paul LePage for Congress Msg & data rates may apply.
+Read Our Text Message Privacy Policy as well as Terms and Conditions Here PAID FOR BY PAUL LEPAGE FOR CONGRESS LePage Works for Maine Video ‍

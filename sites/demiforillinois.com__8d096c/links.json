@@ -1,25 +1,134 @@
 [
-"http://elections.il.gov/",
-"http://facebook.com/Demiforillinois",
-"http://tiktok.com/@demiforillinois",
-"https://bsky.app/profile/demiforillinois.bsky.social",
-"https://demiforillinois.com/",
-"https://demiforillinois.com/about-demi",
-"https://demiforillinois.com/district13",
-"https://demiforillinois.com/endorsements",
-"https://demiforillinois.com/events",
-"https://demiforillinois.com/issues",
-"https://facebook.com/Demiforillinois",
-"https://forms.gle/CykXJmQX9xKuU19b6",
-"https://forms.gle/g7WQuFxC8ssafZfm6",
-"https://forms.gle/vF9oaKFSCoxrZqs99",
-"https://instagram.com/demiforillinois",
-"https://ova.elections.il.gov/",
-"https://ova.elections.il.gov/PollingPlaceLookup.aspx",
-"https://ova.elections.il.gov/registrationlookup.aspx",
-"https://rayguncustom.com/collections/demi-for-illinois",
-"https://secure.actblue.com/donate/demiforillinois",
-"https://threads.com/@demiforillinois",
-"https://tiktok.com/@demiforillinois",
-"https://youtube.com/@DemiforIllinois"
+{
+"text": "About Demi",
+"href": "https://www.demiforillinois.com/about-demi"
+},
+{
+"text": "Check My Registration",
+"href": "https://ova.elections.il.gov/registrationlookup.aspx"
+},
+{
+"text": "Contribute to the Campaign",
+"href": "https://secure.actblue.com/donate/demiforillinois"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/demiforillinois"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/demiforillinois"
+},
+{
+"text": "Endorse Demi Today →",
+"href": "https://www.demiforillinois.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.demiforillinois.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.demiforillinois.com/events"
+},
+{
+"text": "Find My Polling Location",
+"href": "https://ova.elections.il.gov/PollingPlaceLookup.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.demiforillinois.com"
+},
+{
+"text": "Issues",
+"href": "https://www.demiforillinois.com/issues"
+},
+{
+"text": "Join the Campaign",
+"href": "https://forms.gle/CykXJmQX9xKuU19b6"
+},
+{
+"text": "Read the Full Platform →",
+"href": "https://www.demiforillinois.com/issues"
+},
+{
+"text": "Register To Vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://forms.gle/g7WQuFxC8ssafZfm6"
+},
+{
+"text": "Store",
+"href": "https://www.rayguncustom.com/collections/demi-for-illinois"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.demiforillinois.com/issues"
+},
+{
+"text": "The 13th",
+"href": "https://www.demiforillinois.com/district13"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/vF9oaKFSCoxrZqs99"
+},
+{
+"text": "[image: Bluesky]",
+"href": "https://bsky.app/profile/demiforillinois.bsky.social"
+},
+{
+"text": "[image: Demi Palecek, Democrat for State Representative, 13th District, Demi for Illinois.]",
+"href": "https://www.demiforillinois.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/Demiforillinois"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Demiforillinois"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/demiforillinois"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/demiforillinois/"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@demiforillinois"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@demiforillinois"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@demiforillinois"
+},
+{
+"text": "[image: Up arrow]",
+"href": "https://www.demiforillinois.com"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@DemiforIllinois"
+},
+{
+"text": "[no text]",
+"href": "https://www.demiforillinois.com/issues"
+},
+{
+"text": "contact@demiforillinois.com",
+"href": "mailto:press@demiforstaterep.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Kristina Gabriel
-Kristina Gabriel is an Oklahoman, a community advocate, and citizen of the Cherokee Nation who believes public service should be rooted in integrity, lived experience, and accountability to the people.
+Home Meet Kristina Priorities Affordability Healthcare Accessibility Tribal-State Partnerships AI Data Centers Endorsements Support Us Volunteer Donate Vote contact Donate Donate Home Meet Kristina Priorities Affordability Healthcare Accessibility Tribal-State Partnerships AI Data Centers Endorsements Support Us Volunteer Donate Vote contact 💖 We need your help to power our campaign, chip in today! $10 $100 $250 Meet Kristina Gabriel Kristina Gabriel is an Oklahoman, a community advocate, and citizen of the Cherokee Nation who believes public service should be rooted in integrity, lived experience, and accountability to the people.
 Kristina has dedicated her career to improving the health and well-being of communities across Oklahoma and Indian Country.
 Before running for office, she worked as a public health researcher focused on strengthening health outcomes in Indigenous communities, helping inform state, federal and tribal policy to restore Food Sovereignty and expand access to culturally grounded, community-driven solutions.
 Kristina holds a Master of Science in Forensic Investigation and a graduate certificate in Public Health from Oklahoma State University, a Bachelor of Science in Biology from Fort Lewis College, and an Associate of Arts from Tulsa Community College.
@@ -12,3 +11,4 @@ Kristina lives in Tulsa's White City neighborhood.
 She is a renter who understands firsthand the pressures families face, rising costs, access to healthcare, and the need for thriving communities.
 Kristina is running because she believes Oklahoma deserves leadership that listens, collaborates, and delivers real results.
 She is committed to strengthening tribal-state relationships, expanding healthcare access, protecting fundamental rights, and ensuring every community has the opportunity to thrive.
+Authorized and Paid for by Kristina for Oklahoma 2026

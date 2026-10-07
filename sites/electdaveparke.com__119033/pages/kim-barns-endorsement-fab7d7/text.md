@@ -1,4 +1,2 @@
-“I support Dave Parke because he is honest, fiscally responsible as a business owner, and dedicated to serving our community.
-Dave has the integrity and leadership we need.”
-Kim Barns
-West Valley City Resident
+0 Skip to Content Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Folder: Blog Back Meet Dave Parke Affordability in Utah Get Involved Donate “I support Dave Parke because he is honest, fiscally responsible as a business owner, and dedicated to serving our community.
+Dave has the integrity and leadership we need.” Kim Barns West Valley City Resident Sign Up For Updates Sign Up For Updates - Paid for by Campaign to Elect Dave Parke -

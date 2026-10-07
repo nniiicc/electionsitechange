@@ -1,7 +1,11 @@
 {
  "description": "Jonathan Kennealy Campaign Events",
  "final_url": "https://www.kennealy4hawaii.com/Events?range=2026-10",
- "paid_for_by": null,
+ "fingerprint": "60226138b37db88389836702e59628983599acb6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jonathan Kennealy Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

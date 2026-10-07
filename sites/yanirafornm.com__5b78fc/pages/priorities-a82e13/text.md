@@ -1,6 +1,7 @@
-Yanira’s Priorities
-- Lowering costs for families: reduce healthcare costs, expand affordable housing and homeownership, and improve access to food and economic opportunity.
+0 Skip to Content About About Yanira District 16 Priorities Capital Outlay In the News Endorsements Get Involved Accomplishments Voting Contact CONTRIBUTE Open Menu Close Menu About About Yanira District 16 Priorities Capital Outlay In the News Endorsements Get Involved Accomplishments Voting Contact CONTRIBUTE Open Menu Close Menu Folder: About Back About Yanira District 16 Priorities Capital Outlay In the News Endorsements Get Involved Accomplishments Voting Contact CONTRIBUTE Yanira’s Priorities Lowering costs for families: reduce healthcare costs, expand affordable housing and homeownership, and improve access to food and economic opportunity.
 Expanding healthcare access: increase the number of doctors, nurses, and providers , invest in mental and behavioral health, and support community clinics closer to home.
 Strengthening education & opportunity: expand and support career pathways and training for teachers, strengthen bilingual education, ensure early childhood investments work for kids and families, and improve school safety.
 Housing & Westside infrastructure: fund affordable housing, invest and improve community space and neighborhoods.
 Public safety & community stability: strengthen and invest in public safety, reduce homelessness, and stand up for all families—including immigrant communities.
+CONTRIBUTE Paid for by the Committee to Elect Yanira Gurrola, Diego Aguilar, Treasurer.
+Website Design | BGC

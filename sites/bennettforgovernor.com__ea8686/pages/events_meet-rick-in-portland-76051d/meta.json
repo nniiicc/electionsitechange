@@ -1,7 +1,11 @@
 {
  "description": "Click here for more details and to RSVP",
  "final_url": "https://bennettforgovernor.com/events/meet-rick-in-portland",
- "paid_for_by": null,
- "title": "Meet Rick in Portland \u2014 Rick Bennett for Governor",
- "years_mentioned": []
+ "fingerprint": "2c52d2bd04561c0633dce31f5bee6578b8c89320",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "Meet Rick in Portland — Rick Bennett for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

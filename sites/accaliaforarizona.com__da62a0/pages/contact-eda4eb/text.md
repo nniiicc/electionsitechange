@@ -1,30 +1,11 @@
-Contact
-Thank you for visiting the campaign website.
+Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Contact Thank you for visiting the campaign website.
 This campaign is built around community involvement, honest conversations, and practical solutions for Arizona families and working people.
 Whether you have questions, ideas, concerns, media inquiries, or are interested in volunteering, we would love to hear from you.
-Contact the Campaign
-Email:
-Jayme@AccaliaforArizona.com
-Website:
-AccaliaForArizona.com
-Follow the Campaign
-Stay connected for campaign updates, events, policy discussions, volunteer opportunities, and community conversations.
-Facebook:
-Facebook.com/AccaliaforAZLD15
-Instagram:
-Instagram.com/Accalia.for.AZLD15
-TikTok:
-Tiktok.com/Accalia.for.AZLD15
-Twitter (X):
-X.com/JaymeAccaliaAZ
-LinkedIn:
-LinkedIn.com/JAccalia
-Substack:
-Substack.com/JAccalia
-Volunteer
-Grassroots campaigns are powered by people.
+Contact the Campaign Email: Jayme@AccaliaforArizona.com Website: AccaliaForArizona.com Follow the Campaign Stay connected for campaign updates, events, policy discussions, volunteer opportunities, and community conversations.
+Facebook: Facebook.com/ AccaliaforAZLD15 Instagram: Instagram.com/ Accalia.for.AZLD15 TikTok: Tiktok.com/Accalia.for.AZLD15 Twitter (X): X.com/JaymeAccaliaAZ LinkedIn: LinkedIn.com/JAccalia Substack: Substack.com/JAccalia Volunteer Grassroots campaigns are powered by people.
 If you are interested in helping with outreach, events, canvassing, communications, or voter engagement efforts, we would love to have you involved.
 Please reach out through the volunteer page, email, or social media to learn more about volunteer opportunities.
-Community Matters
-This campaign is focused on the issues affecting everyday Arizonans — affordability, public education, healthcare, housing, workforce development, water security, and rebuilding stronger communities across Arizona.
+Community Matters This campaign is focused on the issues affecting everyday Arizonans — affordability, public education, healthcare, housing, workforce development, water security, and rebuilding stronger communities across Arizona.
 Thank you for being here and for taking the time to learn more about the campaign.
+First Name Last Name Email Phone Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to volunteer I would like to make a financial contribution Get updates and news via email Please add me to your list of supporters I would like a yard sign Subject: Message: Submit VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

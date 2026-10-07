@@ -1,16 +1,102 @@
 [
-"https://amishforarizona.com/",
-"https://amishforarizona.com/about",
-"https://amishforarizona.com/awards",
-"https://amishforarizona.com/cart",
-"https://amishforarizona.com/endorsements",
-"https://amishforarizona.com/gallery",
-"https://amishforarizona.com/issues",
-"https://amishforarizona.com/media",
-"https://amishforarizona.com/s/Privacy-Policydocx.pdf",
-"https://amishforarizona.com/takeaction",
-"https://facebook.com/AmishShahMD",
-"https://instagram.com/dr.amishshah",
-"https://secure.actblue.com/donate/amish-for-arizona-26",
-"https://twitter.com/DrAmishShah"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "0",
+"href": "https://www.amishforarizona.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.amishforarizona.com/about"
+},
+{
+"text": "Awards",
+"href": "https://www.amishforarizona.com/awards"
+},
+{
+"text": "Back",
+"href": "https://www.amishforarizona.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amishforarizona.com/endorsements"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.amishforarizona.com/media"
+},
+{
+"text": "Gallery",
+"href": "https://www.amishforarizona.com/gallery"
+},
+{
+"text": "General Request",
+"href": "mailto:info@amishforarizona.com"
+},
+{
+"text": "Issues",
+"href": "https://www.amishforarizona.com/issues"
+},
+{
+"text": "Join the fight!",
+"href": "https://www.amishforarizona.com/takeaction"
+},
+{
+"text": "Media Request",
+"href": "mailto:campaign@amishforarizona.com?subject=Media+Request"
+},
+{
+"text": "Meet Dr. Shah!",
+"href": "https://www.amishforarizona.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.amishforarizona.com/s/Privacy-Policydocx.pdf"
+},
+{
+"text": "Take Action",
+"href": "https://www.amishforarizona.com/takeaction"
+},
+{
+"text": "WHATEVER YOU CAN!",
+"href": "https://secure.actblue.com/donate/amish-for-arizona-26"
+},
+{
+"text": "[image: Amish for Arizona]",
+"href": "https://www.amishforarizona.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DrAmishShah"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AmishShahMD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dr.amishshah/"
+}
 ]

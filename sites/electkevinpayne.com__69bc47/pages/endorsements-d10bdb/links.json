@@ -1,9 +1,34 @@
 [
-"https://aaronline.com/2020/06/22/2020-primary-election-endorsements",
-"https://electkevinpayne.com/",
-"https://electkevinpayne.com/about",
-"https://electkevinpayne.com/contact",
-"https://electkevinpayne.com/endorsements",
-"https://electkevinpayne.com/issues",
-"https://secure.anedot.com/elect-kevin-payne/electkevinpayne"
+{
+"text": "About",
+"href": "https://www.electkevinpayne.com/about"
+},
+{
+"text": "Arizona Right to Life",
+"href": "https://www.aaronline.com/2020/06/22/2020-primary-election-endorsements/"
+},
+{
+"text": "Contact",
+"href": "https://www.electkevinpayne.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/elect-kevin-payne/electkevinpayne"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electkevinpayne.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.electkevinpayne.com"
+},
+{
+"text": "Home Builders Association of Central Arizona Political Action Committee (HBACA PAC)",
+"href": "https://www.aaronline.com/2020/06/22/2020-primary-election-endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://www.electkevinpayne.com/issues"
+}
 ]

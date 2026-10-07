@@ -1,9 +1,9 @@
-Lowering the Cost of Living
-As a widowed single mother who rebuilt her life from the ground up, Paula understands what it means to stretch every dollar.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Safe & Thriving Communities Affordable & Accessible Health Care Stable Communities Homeownership Lowering the Cost of Living Strong Public Schools for Every Child Supporting Small Business & Creating Good Jobs Standing with California's Foster Youth Honoring & Supporting Our Seniors Serving Those Who Served A Clean Environment & Lower Energy Costs Lowering the Cost of Living As a widowed single mother who rebuilt her life from the ground up, Paula understands what it means to stretch every dollar.
 She’s balanced the books as a small business owner and knows the anxiety of watching prices rise while wages stay flat.
 California families are getting squeezed by rising costs on everything from groceries to gas.
 Paula will fight to bring relief to working families.
-- Bring down everyday costs: Fight for lower fees, more competition, and greater transparency in pricing for groceries, utilities, and essential goods — so families keep more of what they earn
-- Lower utility and insurance costs: Fight for affordable rates on water, electricity, and insurance so families aren't crushed by rising bills.
-- Expand access to affordable groceries: Support community-based solutions — including food co-ops and nonprofit grocery options — to bring affordable food to underserved neighborhoods.
-- Reduce dependence on expensive services: Invest in public transportation and green energy to help families spend less on gas and utilities.
+Bring down everyday costs: Fight for lower fees, more competition, and greater transparency in pricing for groceries, utilities, and essential goods — so families keep more of what they earn Lower utility and insurance costs: Fight for affordable rates on water, electricity, and insurance so families aren't crushed by rising bills.
+Expand access to affordable groceries: Support community-based solutions — including food co-ops and nonprofit grocery options — to bring affordable food to underserved neighborhoods.
+Reduce dependence on expensive services: Invest in public transportation and green energy to help families spend less on gas and utilities.
+Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
+Manchester Blvd., Suite 700, Inglewood, CA 90301 You need to enable JavaScript to run this app.

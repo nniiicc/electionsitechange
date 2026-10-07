@@ -1,13 +1,50 @@
 [
-"http://x.com/carrieisaac",
-"https://facebook.com/CarrieIsaacForTexas",
-"https://isaacfortexas.com/",
-"https://isaacfortexas.com/about",
-"https://isaacfortexas.com/contact",
-"https://isaacfortexas.com/endorsements",
-"https://isaacfortexas.com/issues",
-"https://isaacfortexas.com/new-events-1",
-"https://isaacfortexas.com/news",
-"https://isaacfortexas.com/search",
-"https://secure.winred.com/carrie-isaac-for-texas/donate-today"
+{
+"text": "Contact",
+"href": "https://www.isaacfortexas.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/carrie-isaac-for-texas/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.isaacfortexas.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.isaacfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.isaacfortexas.com/issues"
+},
+{
+"text": "Meet Carrie",
+"href": "https://www.isaacfortexas.com/about"
+},
+{
+"text": "New Events",
+"href": "https://www.isaacfortexas.com/new-events-1"
+},
+{
+"text": "News",
+"href": "https://www.isaacfortexas.com/news"
+},
+{
+"text": "[image: Carrie Isaac for Texas]",
+"href": "https://www.isaacfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/carrieisaac"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarrieIsaacForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.isaacfortexas.com/search"
+}
 ]

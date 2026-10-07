@@ -1,21 +1,3 @@
-Fiscal Responsibility/Government Accountability
-Resources
-Veterans
-Data Centers
-Youth Reform
-Correctional Rehabilitation Task Force
-Project Prison Reset Task Force
-September 24, 2025
-September 23, 2025
-June 3, 2025
-February 27, 2025
-https://www.dakotanewsnow.com/2025/02/27/gov-rhoden-announces-project-prison-reset-task-force/
-Property Rights
-March 2, 2026
-April 28, 2025
-https://kbhbradio.com/denial-new-regs-wont-end-pipeline-fight-for-summit-or-south-dakota-landowners/
-March 7, 2024
-February 22, 2024
-https://www.sdnewswatch.org/south-dakota-summit-carbon-pipeline-eminent-domain-legislature/
-September 7. 2023
-https://www.keloland.com/news/local-news/landowners-weigh-in-on-potential-co2-pipelines/
+Home About Platform Media News Posts Volunteer Yard Signs Contact Follow Contribute Follow Home About Platform Media News Posts Volunteer Yard Signs Contact News Fiscal Responsibility/Government Accountability March 25, 2026 https://southdakotasearchlight.com/2026/03/25/talks-underway-about-state-airplane-purchase-as-new-law-requires-consultation-with-expert-panel/ Resources February 24, 2026 https://www.keloland.com/keloland-com-original/lawmakers-want-to-protect-missouri-river-water-use/ Veterans February 22, 2026 https://www.kotatv.com/2026/02/22/south-dakota-senate-kills-property-tax-break-disabled-veterans/ Data Centers February 20, 2026 http://southdakotasearchlight.com/2026/02/20/data-center-regulation-bill-passes-state-senate-sans-tax-incentive-ban/ Youth February 24, 2026 https://www.keloland.com/news/capitol-news-bureau/appropriators-support-a-juvenile-corrections-study/ February 12, 2026 https://www.dakotanewsnow.com/2026/02/13/committee-greenlights-study-juvenile-correctional-facilities/ Youth Reform July 13, 2025 https://www.sdgop.com/2025/07/13/encompassing-youth-reform-conference/ Correctional Rehabilitation Task Force December 18, 2025 https://www.sdpb.org/crime-courts/2025-12-18/success-of-sd-prison-system-reform-will-take-years-to-determine-says-consultant October 7, 2025 https://ujs.sd.gov/ujs-news/gov-rhoden-announces-correctional-rehabilitation-task-force-members/ Project Prison Reset Task Force September 24, 2025 https://www.keloland.com/keloland-com-original/lawmakers-discuss-how-no-changed-to-yes-on-new-prison/ September 23, 2025 https://www.keloland.com/keloland-com-original/watch-live-lawmakers-gather-for-prison-special-session/ June 3, 2025 https://southdakotasearchlight.com/2025/06/03/prison-task-force-rejects-original-lincoln-county-site-tightens-budget-for-new-facility/ February 27, 2025 https://www.dakotanewsnow.com/2025/02/27/gov-rhoden-announces-project-prison-reset-task-force/ Property Rights March 2, 2026 https://southdakotasearchlight.com/2026/03/02/south-dakota-senate-declines-to-put-eminent-domain-restrictions-on-the-ballot/ April 28, 2025 https://kbhbradio.com/denial-new-regs-wont-end-pipeline-fight-for-summit-or-south-dakota-landowners/ March 7, 2024 https://www.dakotanewsnow.com/2024/03/07/landowner-sb-201-our-legislators-our-governor-have-been-sold-out/ February 22, 2024 https://www.sdnewswatch.org/south-dakota-summit-carbon-pipeline-eminent-domain-legislature/ September 7.
+2023 https://www.keloland.com/news/local-news/landowners-weigh-in-on-potential-co2-pipelines/ Click image to download file.
+Download Bio Search Search Recent Posts State Senator Joy Hohn Wins Re-Election to Second Term Mud Pie Memories and A Mom’s Motivation A Mother’s Journey of Hope & Resilience Flight Captain & Cart Driver Let’s Bring Back Balance Contact Information for Media: [email protected] (605) 212-9256 Integrity • Trust • Tenacity Follow Contribute Subscribe Δ Subscribe Paid for by Friends of Joy Hohn Privacy Policy

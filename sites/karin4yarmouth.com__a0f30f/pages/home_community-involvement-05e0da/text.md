@@ -1,47 +1,9 @@
-Community Involvement
-Embedded Files
-When I moved to Yarmouth, I began volunteering as a way to contribute to and connect with the Yarmouth community.
+Search this site Embedded Files Skip to main content Skip to navigation Karin Orenstein for Yarmouth State Representative Home Experience Community Involvement Endorsements Share your Concerns Support Karin Karin Orenstein for Yarmouth State Representative Community Involvement When I moved to Yarmouth, I beg an volunteering as a way to contribute to and connect with the Yarmouth community.
 I began small by shelving books at Merrill Memorial Library and helping plan events for Royal River Conservation Trust.
 When our Superintendent put out a call for volunteers in early 2022, I served as a lunch monitor and substitute teacher.
 I also joined the School Department’s Equity Task Force.
 My interest in the health of the Royal River led me to become a board member of the Royal River Alliance.
 When over 100 New Mainers appeared in a local hotel, I volunteered with Yarmouth Community Services to find out their clothing needs and sort through donations.
-I coordinated a group of neighbors providing childcare during English classes so parents could focus on learning, and I was a volunteer driver.
-I did not come to Yarmouth imagining I would ever get involved in local or state government, but the more I volunteered, the more I was asked to step up, and the more I said "yes."
-Town Council Leadership
-Chair (2025-26)
-Vice Chair (2024-25)
-Nomination Committee (2023-24)
-Lead for Royal River Restoration: US Army Corps of Engineers Study Coordination Team (2023-25), implementation project team (grantwriting, fundraising, permitting) (2025-present)
-Regional Leadership
-Greater Portland Council of Governments (GPCOG):
-- Metro Regional Coalition, Chair (2026)
-- Regional Property Tax Policy Committee, member (2026)
-- General Assembly (2025-26)
-Cumberland County
-- Finance Committee, Vice Chair (2025-26)
-Town Committees
-- Merrill Memorial Library Board of Trustees, ex officio member as Town Council chair
-- Yarmouth-North Yarmouth Joint Committee on Royal River Recreation and Ecology, past member
-- Comprehensive Plan Steering Committee, past liaison (and committee member)
-- Comprehensive Plan Committee, past liaison
-- Economic Development Advisory Board (EDAB), past liaison
-- Yarmouth Climate Action Task Force (YCAT), past liaison
-Other Community Engagement
-- Casco Bay Estuary Partnership, Management Committee member (2026)
-- Gathering for Democracy, founder and co-organizer (2025-2026)
-- Yarmouth School District
-- Substitute teacher
-- Volunteer
-- Equity Task Force, Policies & Protocols Committee (2022-23)
-- Merrill Memorial Library, volunteer (2021-present)
-- Multi-level English Language Fluency Class, volunteer (2024)
-- Jewish Community Alliance of Southern Maine, volunteer with HIAS refugee program, "Warm Welcome" crafter (2023-24)
-- Temple Beth El (Augusta, ME), Hebrew School preschool teacher (2023-24), Membership Committee (2022)
-- Midcoast Humane (animal shelter), volunteer and fostering (2022-23)
-- Yarmouth Community Services, volunteer with asylum seekers (2022-23)
-- Royal River Alliance, board member (2022-23)
-- Royal River Conservation Trust, volunteer (2021-23)
-Page updated
-Google Sites
-Report abuse
+I coordinated a group of neighbors providing childcare during English classes so parents could focus on learning, and I was a volunteer driver .
+I did not come to Yarmouth imagining I would ever get involved in local or state government, but the more I volunteered, the more I was asked to step up, and the more I said "yes." Town Council Leadership Chair (2025-26) Vice Chair (2024-25) Nomination Committee (2023-24) Lead for Royal River Restoration: US Army Corps of Engineers Study Coordination Tea m (2023-25), implementation project team (grantwriting, fundraising, permitting) (2025-present) Regional Leadership Greater Portland Council of Governments (GPCOG): Metro Regional Coalition, Chair (2026) Regional Property Tax Policy Committee, member (2026) General Assembly (2025-26) Cumberland County Finance Committee, Vice Chair (2025-26) Town Committees Merrill Memorial Library Board of Trustees , ex officio member as Town Council chair Yarmouth-North Yarmouth Joint Committee on Royal River Recreation and Ecology , p ast member Comprehensive Plan Steering Committee , past liaison (and committee member) Comprehensive Plan Committee , past liaison Economic Development Advisory Board (EDAB) , past liaison Yarmouth Climate Action Task Force (YCAT) , past liaison Other Community Engagement Casco Bay Estuary Partnership , Management Committee member (2026) Gathering for Democracy , founder and co-organizer (2025-2026) Yarmouth School District Substitute teacher Volunteer Equity Task Force, Policies & Protocols Committee (2022-23) Merrill Memorial Library , volunteer (2021-present) Multi-level English Language Fluency Class , volunteer (2024) Jewish Community Alliance of Southern Maine , volunteer with HIAS refugee program, "Warm Welcome" crafter (2023-24) Temple Beth El (Augusta, ME), Hebrew School preschool teacher (2023-24), Membership Committee (2022) Midcoast Humane (animal shelter), volunteer and fostering (2022-23) Yarmouth Community Services , volunteer with asylum seekers (2022-23) Royal River Alliance , board member (2022-23) Royal River Conservation Trust , volunteer (2021-23) Authorized and paid for by Karin for Yarmouth.
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

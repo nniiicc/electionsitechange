@@ -1,5 +1,4 @@
-Improving Public Education: Investing in kids, not bureaucracy
-Our public schools should reflect our highest values: hard work, equal opportunity, accountability, and local control.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate Improving Public Education: Investing in kids, not bureaucracy Our public schools should reflect our highest values: hard work, equal opportunity, accountability, and local control.
 But too often, decisions are made in Madison by people who do not understand what our students, teachers, and communities actually need.
 The last state budget was expected to reimburse school districts for 42% of their special education costs.
 A few months later, districts learned that their initial reimbursement rate would be only 35%.
@@ -7,8 +6,7 @@ In my line of work, when you promise one number and deliver another, that is cal
 In Madison, it is called Tuesday.
 When the state fails to fund its responsibilities, the bill does not disappear.
 It lands on your property tax bill.
-In the State Senate, I’ll work to:
-Fund the promise and cut the property tax.
+In the State Senate, I’ll work to: Fund the promise and cut the property tax.
 Increase the state’s share of school funding, starting with special education.
 Reliable state funding will reduce districts’ dependence on operating referenda and provide structural property tax relief.
 Apply one set of rules to every school receiving public money.
@@ -25,3 +23,4 @@ Require clear, comparable reporting from every school receiving taxpayer money.
 Parents and taxpayers should be able to see what supports instruction and student services and what is absorbed by administration and overhead.
 The state’s job is to be a referee: set clear rules, fund what it mandates, and keep its promises.
 When Wisconsin keeps its promise to our schools, students get more opportunity and homeowners get real property tax relief.
+Volunteer Donate info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

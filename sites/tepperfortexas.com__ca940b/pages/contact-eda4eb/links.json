@@ -1,16 +1,74 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/CarlTepperForTexas",
-"https://secure.winred.com/carl-tepper-for-state-representative/donate",
-"https://tepperfortexas.com/",
-"https://tepperfortexas.com/about",
-"https://tepperfortexas.com/cart",
-"https://tepperfortexas.com/contact",
-"https://tepperfortexas.com/endorsements",
-"https://tepperfortexas.com/issues",
-"https://tepperfortexas.com/privacy-policy",
-"https://tepperfortexas.com/terms-and-conditions",
-"https://tepperfortexas.com/text-messaging",
-"https://tepperfortexas.com/volunteer",
-"https://twitter.com/CarlTepper"
+{
+"text": "0",
+"href": "https://tepperfortexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://tepperfortexas.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/carl-tepper-for-state-representative/donate"
+},
+{
+"text": "Contact",
+"href": "https://tepperfortexas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/carl-tepper-for-state-representative/donate"
+},
+{
+"text": "EmaiI",
+"href": "mailto:tepperfortexas@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://tepperfortexas.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CarlTepperForTexas/"
+},
+{
+"text": "Issues",
+"href": "https://tepperfortexas.com/issues"
+},
+{
+"text": "Opt-In For Text Messaging",
+"href": "https://tepperfortexas.com/text-messaging"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tepperfortexas.com/privacy-policy"
+},
+{
+"text": "Stay Connected",
+"href": "https://tepperfortexas.com/text-messaging"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://tepperfortexas.com/terms-and-conditions"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://tepperfortexas.com/terms-and-conditions"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CarlTepper"
+},
+{
+"text": "Volunteer",
+"href": "https://tepperfortexas.com/volunteer"
+},
+{
+"text": "[image: Carl Tepper for State Representative]",
+"href": "https://tepperfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://squarespace.com"
+}
 ]

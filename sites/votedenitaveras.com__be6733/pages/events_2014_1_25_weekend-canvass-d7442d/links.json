@@ -1,16 +1,66 @@
 [
-"http://facebook.com/10154924738362252",
-"http://google.com/calendar/event?action=TEMPLATE&text=Weekend+Canvass&dates=20140125T180000Z%2F20140125T220000Z&location=Hyattsville%2C+MD",
-"http://maps.google.com/?q=+Hyattsville%2C+MD",
-"https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy",
-"https://votedenitaveras.com/",
-"https://votedenitaveras.com/about-deni",
-"https://votedenitaveras.com/achievements",
-"https://votedenitaveras.com/donate",
-"https://votedenitaveras.com/events",
-"https://votedenitaveras.com/events/2014/1/15/fundraiser-for-diana-fennell",
-"https://votedenitaveras.com/events/2014/1/25/weekend-canvass?format=ical",
-"https://votedenitaveras.com/events/2014/2/5/meet-and-greet-with-deni",
-"https://votedenitaveras.com/issues",
-"https://votedenitaveras.com/news"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+hyattsville%2C+md+"
+},
+{
+"text": "ABOUT DENI",
+"href": "https://votedenitaveras.com/about-deni"
+},
+{
+"text": "ACHIEVEMENTS",
+"href": "https://votedenitaveras.com/achievements"
+},
+{
+"text": "Back to All Events",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://votedenitaveras.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "Fundraiser for Diana Fennell",
+"href": "https://votedenitaveras.com/events/2014/1/15/fundraiser-for-diana-fennell"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Weekend+Canvass&dates=20140125T180000Z%2F20140125T220000Z&location=Hyattsville%2C+MD"
+},
+{
+"text": "HOME",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "ICS",
+"href": "https://votedenitaveras.com/events/2014/1/25/weekend-canvass?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://votedenitaveras.com/issues"
+},
+{
+"text": "Meet and Greet with Deni",
+"href": "https://votedenitaveras.com/events/2014/2/5/meet-and-greet-with-deni"
+},
+{
+"text": "NEWS",
+"href": "https://votedenitaveras.com/news"
+},
+{
+"text": "Vote Deni Taveras 2026",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/10154924738362252"
+},
+{
+"text": "the most consequential politician in the last 20 years in Hyattsville",
+"href": "https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy/"
+}
 ]

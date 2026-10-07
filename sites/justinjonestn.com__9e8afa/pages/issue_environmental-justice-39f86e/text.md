@@ -1,5 +1,4 @@
-Environmental Justice
-Lawmakers for too long have allowed corporate greed and environmental destruction to dominate public policy, all at the expense of the next generation’s future.
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate Environmental Justice Lawmakers for too long have allowed corporate greed and environmental destruction to dominate public policy, all at the expense of the next generation’s future.
 Tennessee is rich in biodiversity, ranging from the Duck River, America’s most biodiverse river, to the old growth forests of the Smoky Mountains.
 From Antioch to the Appalachia, our fight for a greener future means building a multiracial, multiclass movement for environmental justice.
 In his first term, Justin has championed solutions for a livable future such as introducing an amendment to the Tennessee Constitution that would enshrine the right to clean air, clean water, and healthy environment for all Tennesseans– including future generations.
@@ -10,3 +9,4 @@ Justin is an amateur birder and passionate naturalist, filing legislation this s
 Justin has served on the Tennessee House Agriculture and Natural Resource Committee, where he has spoken out against the destruction of our wetlands by corporate developers, and fought to protect the Duck River from waste dumping.
 His work took him to Maury County, where he met with farmers and concerned citizens from across the political spectrum, and he has continued to build community there.
 The victory showed the power of the diverse coalition, and showcased the way conservation and protecting the natural environment for generations to come goes across divides.
+Explore other issues Healthcare for All Challenging Corporate Greed Farming is the Future Immigrant and Refugee Justice Protect Kids, Not Guns Democracy Requires Disruptors Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

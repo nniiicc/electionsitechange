@@ -1,5 +1,4 @@
-About Rick
-Representative Richard W.
+About Rick Priorities Donate About Rick Priorities Donate About Rick Representative Richard W.
 "Rick" Cheatum is a dedicated public servant proudly representing District 28A in the Idaho House of Representatives.
 A Republican with a pragmatic approach, Rick is committed to fiscal responsibility, supporting rural communities, protecting Second Amendment rights, and ensuring fair education funding across Idaho.
 Born in Kansas and a graduate of the University of Kansas with a B.S. in broadcast journalism, Rick moved to Pocatello in 1977 and has called Idaho home by choice ever since.
@@ -11,3 +10,6 @@ Married to Debra for over 30 years, Rick is a father to Nicole and stepfather to
 He is honored to serve the people of Bannock, Power, and Franklin Counties, advocating for local solutions, limited government, and a brighter future for all Idahoans.
 Rick currently serves on the House committees for Commerce & Human Resources, Local Government, and Revenue & Taxation.
 He welcomes input from constituents and is always ready to listen.
+Vote Support Rick Cheatum Idaho House District 28.
+Say HI PAID FOR BY CHEATUM FOR IDAHO © #.
+All rights reserved.

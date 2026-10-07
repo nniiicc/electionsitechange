@@ -1,1 +1,3 @@
-August 9 • 10 am October 3 • 9:30 am May 21 • 6:30 pm July 24 • 9 am September 14 • 5:30 pm April 30 • 6:30 pm
+0 Skip to Content The Issues News Events Endorsements Volunteer Contact Donate Now Open Menu Close Menu The Issues News Events Endorsements Volunteer Contact Donate Now Open Menu Close Menu The Issues News Events Endorsements Volunteer Contact Donate Now August 9 • 10 am October 3 • 9:30 am May 21 • 6:30 pm July 24 • 9 am September 14 • 5:30 pm April 30 • 6:30 pm CLAY MIDDLETON IS A MEMBER OF THE SC ARMY NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE NATIONAL GUARD BUREAU, DEPARTMENT OF ARMY, OR THE DEPARTMENT OF WAR.
+PAID FOR BY THE COMMITTEE TO ELECT CLAY MIDDLETON PRIVACY POLICY

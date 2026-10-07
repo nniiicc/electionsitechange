@@ -1,17 +1,74 @@
 [
-"https://8newsnow.com/author/linsey-lewis",
-"https://facebook.com/neely.erica",
-"https://instagram.com/neely4nevada",
-"https://neelyfornevada.com/",
-"https://neelyfornevada.com/about",
-"https://neelyfornevada.com/category/news",
-"https://neelyfornevada.com/cdn-cgi/l/email-protection",
-"https://neelyfornevada.com/district-9",
-"https://neelyfornevada.com/news",
-"https://neelyfornevada.com/photos",
-"https://neelyfornevada.com/privacy-policy",
-"https://neelyfornevada.com/where-i-stand",
-"https://secure.anedot.com/neely-for-assembly-district-9/donate",
-"https://x.com/Neely4Nevada",
-"https://youtube.com/@Neely4Nevada"
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/neely-for-assembly-district-9/donate"
+},
+{
+"text": "District 9",
+"href": "https://neelyfornevada.com/district-9/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/neely.erica"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/neely4nevada/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@Neely4Nevada"
+},
+{
+"text": "Follow",
+"href": "https://x.com/Neely4Nevada"
+},
+{
+"text": "Home",
+"href": "https://neelyfornevada.com/"
+},
+{
+"text": "Meet Erica",
+"href": "https://neelyfornevada.com/about/"
+},
+{
+"text": "News",
+"href": "https://neelyfornevada.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://neelyfornevada.com/news/"
+},
+{
+"text": "Photos",
+"href": "https://neelyfornevada.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://neelyfornevada.com/privacy-policy/"
+},
+{
+"text": "This article was written by Linsey Lewis and originally appeared at 8newsnow.com.",
+"href": "https://www.8newsnow.com/author/linsey-lewis/"
+},
+{
+"text": "Where I Stand",
+"href": "https://neelyfornevada.com/where-i-stand/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@neely4nevada.com"
+},
+{
+"text": "[image]",
+"href": "https://neelyfornevada.com"
+},
+{
+"text": "[image]",
+"href": "https://neelyfornevada.com/"
+},
+{
+"text": "‪(702) 785-1160‬",
+"href": "tel:%E2%80%AA702-785-1160%E2%80%AC"
+}
 ]

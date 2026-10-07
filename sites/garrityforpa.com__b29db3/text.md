@@ -1,18 +1,23 @@
+Home Volunteer Events Turnaround PA Team Issues Data Centers Home Volunteer Events Turnaround PA Team Issues Data Centers Make a Donation Donate With Crypto Raising Hope In Pennsylvania.
 A decorated veteran, business leader, and Pennsylvania’s trusted Treasurer—ready to lead with transparency and accountability.
-Stacy Garrity will be a Governor more interested in raising hope, than raising our taxes.
+Join the Campaign Make a Donation Join the Fight First Name (Required) Last Name Email (Required) Phone Number Zip Code (Required) ZIP / Postal Code Consent Mobile Opt-in By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Garrity for Governor at the number provided, including messages sent by autodialer.
+Donations may be solicited.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy and Terms here .
+Join A Proven Record Stacy Garrity will be a Governor more interested in raising hope, than raising our taxes.
 Her record speaks for itself.
-- A fighter who saved taxpayers almost two hundred million dollars by eliminating fraud and inefficiency.
-- A strong ally of President Trump, and like the President, supports protecting healthcare and welfare benefits for vulnerable Americans.
-- A proven leader who has made ethics in her office and full transparency a top priority.
-Thirty years in the Army Reserve.
+A fighter who saved taxpayers almost two hundred million dollars by eliminating fraud and inefficiency.
+A strong ally of President Trump, and like the President, supports protecting healthcare and welfare benefits for vulnerable Americans.
+A proven leader who has made ethics in her office and full transparency a top priority.
+A Lifetime of Service Thirty years in the Army Reserve.
 Bronze Stars.
 Legion of Merit.
 Decades of business leadership.
 As Treasurer, she’s safeguarded billions and returned record unclaimed property to Pennsylvanians.
-- Military Leadership
-- Business Experience
-- Statewide Results
-Retired U.S.
+Military Leadership Business Experience Statewide Results “ I'm not just going to ask for your support, I'm going to put in the time... to earn it. “ Chip In to Support Stacy for Governor! $10 $25 $50 $100 $250 Donate Stacy’s Story Retired U.S.
 Army Reserve Colonel, businesswoman, and our Commonwealth’s 78th Treasurer, Stacy Garrity has lived a life of service to her nation, her Commonwealth, and her community.
 In uniform, Stacy rose to the rank of Colonel in the U.S.
 Army Reserve, serving three deployments in defense of our nation: Operation Desert Storm, Operation Iraqi Freedom, and Operation Enduring Freedom.
@@ -33,4 +38,16 @@ For all that Stacy has accomplished, Stacy’s never forgotten where she came fr
 A native of Bradford County, Stacy is a graduate of Sayre High School and Bloomsburg University of Pennsylvania, later receiving a certificate from the Cornell University Business Management Institute.
 Stacy serves on the board of Bradford County United Way and is a trustee of Guthrie Robert Packer Hospital in Sayre.
 Stacy resides in Bradford County with her husband Dan and worships at Christian Life Church.
-Sign up to get updates from Stacy and be a part of our fight for Pennsylvania.
+Join the Campaign Sign up to get updates from Stacy and be a part of our fight for Pennsylvania.
+First Name (Required) Last Name Email (Required) Phone Number Zip Code (Required) ZIP / Postal Code Consent Mobile Opt-in By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Garrity for Governor at the number provided, including messages sent by autodialer.
+Donations may be solicited.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy and Terms here .
+Join Volunteer Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+All Rights Reserved.
+Garrity for PA 4075 Linglestown Rd.
+#119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+Home Volunteer Events Turnaround PA Team Issues Data Centers Home Volunteer Events Turnaround PA Team Issues Data Centers Make a Donation Donate With Crypto

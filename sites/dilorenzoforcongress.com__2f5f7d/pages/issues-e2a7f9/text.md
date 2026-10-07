@@ -1,22 +1,24 @@
-- Reduce costs, increase wages, and improve quality of life.
-- Balance the federal budget by supporting a Balanced Budget Amendment to the U.S.
+Click Here To Donate Today!
+Meet Anthony Issues News Contact Events Issues Anthony DiLorenzo's Plan To Protect The American Dream Reduce costs, increase wages, and improve quality of life.
+Balance the federal budget by supporting a Balanced Budget Amendment to the U.S.
 Constitution.
-- Protect the 2017 tax cuts and the elimination of taxes on tips, overtime, and social security.
-- Fully support Social Security and Medicare for our citizens.
-- Promote policies that bring clarity and common-sense practices to digital asset markets.
-- Secure the southern AND northern borders from illegal crossings, drug smuggling, and human trafficking.
-- Pass common sense immigration reform.
-- Protect women's sports and locker rooms.
-- Expand vocational training and STEM education for our students.
-- Oppose federal abortion legislation and respect New Hampshire's laws.
-- Make healthcare more affordable and increase access.
-- Fully Support Law Enforcement and First Responders.
-- Ensure America's energy independence by utilizing all options without subsidies.
-- Support peace efforts, especially in the Middle East and Ukraine.
-- Oppose Chinese efforts to undermine our currency, steal our technology, and buy our land/infrastructure.
-- Defend every law-abiding citizen's right to possess/own a firearm.
-- Rebuild our military to meet the global conflicts of the future.
-- Attack the Opioid crisis on all fronts.
-- Honor our commitment to our veterans.
-- Ensure our elections are safe and secure.
-- Treat everyone with dignity and respect as we solve our nation's most difficult issues.
+Protect the 2017 tax cuts and the elimination of taxes on tips, overtime, and social security.
+Fully support Social Security and Medicare for our citizens.
+Promote policies that bring clarity and common-sense practices to digital asset markets.
+Secure the southern AND northern borders from illegal crossings, drug smuggling, and human trafficking.
+Pass common sense immigration reform.
+Protect women's sports and locker rooms.
+Expand vocational training and STEM education for our students.
+Oppose federal abortion legislation and respect New Hampshire's laws.
+Make healthcare more affordable and increase access.
+Fully Support Law Enforcement and First Responders.
+Ensure America's energy independence by utilizing all options without subsidies.
+Support peace efforts, especially in the Middle East and Ukraine.
+Oppose Chinese efforts to undermine our currency, steal our technology, and buy our land/infrastructure.
+Defend every law-abiding citizen's right to possess/own a firearm.
+Rebuild our military to meet the global conflicts of the future.
+Attack the Opioid crisis on all fronts.
+Honor our commitment to our veterans.
+Ensure our elections are safe and secure.
+Treat everyone with dignity and respect as we solve our nation's most difficult issues.
+Donate Paid for by Anthony DiLorenzo for Congress Privacy Policy ©# All Rights Reserved

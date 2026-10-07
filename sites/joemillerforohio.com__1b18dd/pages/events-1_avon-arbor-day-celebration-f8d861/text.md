@@ -1,10 +1,3 @@
-Back to All Events
-The celebration will include welcoming remarks from Bryan K.
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Avon Arbor Day Celebration Saturday, October 3, 2026 11:00 AM 2:00 PM 36265 Detroit Road Avon, Ohio, 44011 United States (map) Google Calendar ICS The celebration will include welcoming remarks from Bryan K.
 Jensen and State Representative Gayle Manning, free trees for the first 30 Avon residents, planting and pruning demonstrations, food and drinks available for purchase, and live music by Curt Vigg and the Avon High School Jazz Band.
-Previous
-Previous
-October 3
-Grafton Fall Festival
-Next
-Next
-October 4
+Previous Previous October 3 Grafton Fall Festival Next Next October 4 54th Annual Woollybear Festival DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

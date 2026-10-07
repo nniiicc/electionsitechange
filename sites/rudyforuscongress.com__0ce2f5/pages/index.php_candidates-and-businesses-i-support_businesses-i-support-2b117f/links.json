@@ -1,49 +1,202 @@
 [
-"http://asyoulikeitwinecountrytours.com/",
-"http://beniciagrill.com/",
-"http://cimicosigns.com/",
-"http://cryoutcreations.eu/mantra",
-"http://wordpress.org/",
-"https://aasmogstation.com/",
-"https://acehardware.com/store-details/02386",
-"https://aelc.assembly.ca.gov/proposed-congressional-map",
-"https://asp-usa.com/",
-"https://bigitalianpizza.com/",
-"https://blackbeardiner.com/location/suisun-city",
-"https://blackbeardiner.com/location/vacaville",
-"https://calmatters.org/politics/2022/01/california-election-new-districts-lookup",
-"https://cielofuentes.com/",
-"https://countysquaremarket.com/",
-"https://cragop.org/",
-"https://eagleeyeengraving.com/",
-"https://facebook.com/SiSiGRestaurant",
-"https://facebook.com/rudyforuscongress",
-"https://gunsfishing.com/",
-"https://jellybelly.com/",
-"https://locations.dennys.com/CA/FAIRFIELD/247727",
-"https://maverickcrepesnmore.com/",
-"https://registertovote.ca.gov/",
-"https://rudyforuscongress.com/",
-"https://rudyforuscongress.com/index.php/candidates-and-businesses-i-support",
-"https://rudyforuscongress.com/index.php/candidates-and-businesses-i-support/businesses-i-support",
-"https://rudyforuscongress.com/index.php/candidates-and-businesses-i-support/candidates",
-"https://rudyforuscongress.com/index.php/contact-us",
-"https://rudyforuscongress.com/index.php/donate",
-"https://rudyforuscongress.com/index.php/events/past-events",
-"https://rudyforuscongress.com/index.php/interviews",
-"https://rudyforuscongress.com/index.php/issues",
-"https://rudyforuscongress.com/index.php/issues/accountability-in-government-spending",
-"https://rudyforuscongress.com/index.php/issues/education-and-school-choice",
-"https://rudyforuscongress.com/index.php/issues/energy-independence",
-"https://rudyforuscongress.com/index.php/issues/politics",
-"https://rudyforuscongress.com/index.php/issues/support-for-veterans",
-"https://rudyforuscongress.com/index.php/sample-page",
-"https://rudyforuscongress.com/index.php/volunteer",
-"https://rudyforuscongress.com/wp-content/uploads/2026/08/Prop-50-Dist-8-Topography-Maps.png",
-"https://rumble.com/c/c-1555184",
-"https://solanorepublicanparty.com/",
-"https://thedailydesk.biz/",
-"https://truesymmetry.beer/",
-"https://twitter.com/Rudy4USCongress",
-"https://yologop.org/central_committee"
+{
+"text": "AA Smog – Vacaville",
+"href": "https://www.aasmogstation.com/"
+},
+{
+"text": "ASP – Gun Shop – Vacaville",
+"href": "https://www.asp-usa.com/"
+},
+{
+"text": "About",
+"href": "https://rudyforuscongress.com/index.php/sample-page/"
+},
+{
+"text": "Accountability in Government Spending",
+"href": "https://rudyforuscongress.com/index.php/issues/accountability-in-government-spending/"
+},
+{
+"text": "As You Like It Wine Tours",
+"href": "http://www.asyoulikeitwinecountrytours.com/"
+},
+{
+"text": "Benecia Grill – Fairfield",
+"href": "http://www.beniciagrill.com/"
+},
+{
+"text": "Black Bear Diner – Suisun City",
+"href": "https://blackbeardiner.com/location/suisun-city/"
+},
+{
+"text": "Black Bear Diner – Vacaville",
+"href": "https://blackbeardiner.com/location/vacaville/"
+},
+{
+"text": "Businesses I support",
+"href": "https://rudyforuscongress.com/index.php/candidates-and-businesses-i-support/businesses-i-support/"
+},
+{
+"text": "California Republican Assembly – Solano",
+"href": "https://cragop.org/"
+},
+{
+"text": "Candidates",
+"href": "https://rudyforuscongress.com/index.php/candidates-and-businesses-i-support/candidates/"
+},
+{
+"text": "Candidates and Businesses I Support",
+"href": "https://rudyforuscongress.com/index.php/candidates-and-businesses-i-support/"
+},
+{
+"text": "Cielo C. Fuentes Real State Services",
+"href": "https://cielofuentes.com/"
+},
+{
+"text": "Cimico Signs, Banners, Vehicle Wraps",
+"href": "http://cimicosigns.com/"
+},
+{
+"text": "Click here to see a detailed map of your district",
+"href": "https://aelc.assembly.ca.gov/proposed-congressional-map"
+},
+{
+"text": "Click on Map to see more detail",
+"href": "https://rudyforuscongress.com/wp-content/uploads/2026/08/Prop-50-Dist-8-Topography-Maps.png"
+},
+{
+"text": "Contact Us",
+"href": "https://rudyforuscongress.com/index.php/contact-us/"
+},
+{
+"text": "County Square Market – Vacaville",
+"href": "https://www.countysquaremarket.com/"
+},
+{
+"text": "Daily Desk – Coworkspace – Fairfield",
+"href": "https://thedailydesk.biz/"
+},
+{
+"text": "Denny’s Holiday Lane – Fairfield",
+"href": "https://locations.dennys.com/CA/FAIRFIELD/247727"
+},
+{
+"text": "Donate",
+"href": "https://rudyforuscongress.com/index.php/donate/"
+},
+{
+"text": "Donate Here",
+"href": "https://rudyforuscongress.com/index.php/donate/"
+},
+{
+"text": "Eagle Eye Engraving",
+"href": "https://eagleeyeengraving.com/"
+},
+{
+"text": "Education and School Choice",
+"href": "https://rudyforuscongress.com/index.php/issues/education-and-school-choice/"
+},
+{
+"text": "Energy Independence",
+"href": "https://rudyforuscongress.com/index.php/issues/energy-independence/"
+},
+{
+"text": "Evelyn’s Big Italian Pizza",
+"href": "https://www.bigitalianpizza.com/"
+},
+{
+"text": "Find Your Congressional District",
+"href": "https://calmatters.org/politics/2022/01/california-election-new-districts-lookup/"
+},
+{
+"text": "Guns Fishing and More – Vacaville",
+"href": "https://gunsfishing.com/"
+},
+{
+"text": "Home",
+"href": "https://rudyforuscongress.com/"
+},
+{
+"text": "Interviews and Media coverage",
+"href": "https://rudyforuscongress.com/index.php/interviews/"
+},
+{
+"text": "Issues",
+"href": "https://rudyforuscongress.com/index.php/issues/"
+},
+{
+"text": "Jelly Belly – Fairfield",
+"href": "https://www.jellybelly.com/"
+},
+{
+"text": "Major (Ret) Rudy Recile For U.S. Congress",
+"href": "https://rudyforuscongress.com/"
+},
+{
+"text": "Mantra",
+"href": "http://www.cryoutcreations.eu/mantra"
+},
+{
+"text": "Mavericks – Suisun City",
+"href": "https://www.maverickcrepesnmore.com/"
+},
+{
+"text": "Pacific Ace Hardware",
+"href": "https://www.acehardware.com/store-details/02386"
+},
+{
+"text": "Past Events",
+"href": "https://rudyforuscongress.com/index.php/events/past-events/"
+},
+{
+"text": "Politics",
+"href": "https://rudyforuscongress.com/index.php/issues/politics/"
+},
+{
+"text": "Register to Vote in California",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "Rudy's podcast Boot's on the Ground",
+"href": "https://rumble.com/c/c-1555184"
+},
+{
+"text": "Sisig – Filipino Restaurant Suisun City",
+"href": "https://www.facebook.com/SiSiGRestaurant"
+},
+{
+"text": "Solano County Republican Central Committee",
+"href": "https://www.solanorepublicanparty.com/"
+},
+{
+"text": "Support for Veterans",
+"href": "https://rudyforuscongress.com/index.php/issues/support-for-veterans/"
+},
+{
+"text": "True Symmetry Brewing Company",
+"href": "https://truesymmetry.beer/"
+},
+{
+"text": "Volunteer",
+"href": "https://rudyforuscongress.com/index.php/volunteer/"
+},
+{
+"text": "WordPress.",
+"href": "http://wordpress.org/"
+},
+{
+"text": "Yolo County Republican Central Committee",
+"href": "https://www.yologop.org/central_committee"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/rudyforuscongress/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Rudy4USCongress"
+},
+{
+"text": "[image]",
+"href": "https://rudyforuscongress.com/wp-content/uploads/2026/08/Prop-50-Dist-8-Topography-Maps.png"
+}
 ]

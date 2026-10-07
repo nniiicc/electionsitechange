@@ -1,5 +1,4 @@
-America’s Top Pediatricians Say Recess Is Sacred – Nevada Democrats Killed the Bill Anyway
-I wrote about this back in April.
+Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Follow Follow Follow Home Meet Erica Where I Stand District 9 Photos News DONATE NOW DONATE NOW VOLUNTEER SIGNUP Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Home Meet Erica Where I Stand District 9 Photos News News Science Says Kids Need Recess – Nevada Democrats Said No May 12, 2026 America’s Top Pediatricians Say Recess Is Sacred – Nevada Democrats Killed the Bill Anyway I wrote about this back in April.
 Now the nation’s leading pediatricians just made the case even stronger.
 Back then, I told you about the Carson City School District floating a plan to cut daily recess from 45 minutes down to 30.
 Parents were upset.
@@ -9,8 +8,7 @@ Well, this week the American Academy of Pediatrics released its first updated re
 And their message is pretty clear.
 Recess isn’t optional.
 It’s essential.
-What the Doctors Are Saying
-The AAP published their new policy statement Monday in the journal Pediatrics.
+What the Doctors Are Saying The AAP published their new policy statement Monday in the journal Pediatrics.
 Lead author Dr.
 Robert Murray put it plainly.
 The group “has always supported play, free play for kids, but it’s been increasingly threatened over time,” he said, partly because of the pressure to chase higher test scores.
@@ -61,4 +59,6 @@ The only people who still aren’t listening are the ones who killed the bill in
 That’s exactly why I decided to run for the Nevada State Assembly.
 I’m tired of watching good ideas die in committees because of political games.
 Nevada’s kids don’t have time for that.
-If you’re tired of it too, I hope I can count on your support.
+If you’re tired of it too, I hope I can count on your support.  Call ‪(702) 785-1160‬  Mail Erica Neely for Nevada 6545 S.
+Fort Apache Rd.
+Ste 135 PMB 215 LAS VEGAS, NV 89148  Email [email protected] Paid For By Erica Neely For Nevada Follow Follow Follow Follow Privacy Policy

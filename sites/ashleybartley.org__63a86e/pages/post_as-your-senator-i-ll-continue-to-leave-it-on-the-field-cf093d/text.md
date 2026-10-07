@@ -1,5 +1,6 @@
-As your Senator, I’ll continue to leave it on the field
-Our family has a motto: no matter the task, big or small, we leave it on the field.
+top of page HOME ABOUT ASHLEY WHY I RAN CONTACT SIGN-UP FOR UPDATES CAMPAIGN UPDATES DONATE More Use tab to navigate through the menu items.
+All Posts Campaign Affordability Crisis Childcare Crisis Working Families Affordable Housing Legislative Updates Education Search As your Senator, I’ll continue to leave it on the field Rep.
+Ashley Bartley Sep 7 3 min read Our family has a motto: no matter the task, big or small, we leave it on the field.
 I decided to run for the State House about eight hours into labor with my daughter — because I've learned there's no perfect moment to act, only the decision to do the work.
 I was raised by dairy farmers, so I learned early that the work gets done because someone does it, not because it's convenient.
 That's how I've approached four years as a member of the Vermont House of Representatives.
@@ -14,7 +15,7 @@ That's why, after one term, I was appointed Vice-Chair of the House Committee on
 I also serve on the Canvassing Committee, the Advisory Council on Child Poverty and Strengthening Families, and the Basic Needs Budget Technical Advisory Committee.
 I previously served on the Agricultural Work Labor and Employment Laws Study Committee.
 I carry myself with integrity, stay open and honest about my votes and why I made them — which, along with my background in Human Resources, led to my appointment to the House Ethics Panel.
-I voted for lower property taxes.
+I'm proud to have the support of Governor Phil Scott I voted for lower property taxes.
 I voted against Act 181 and spoke out against it on the floor.
 I voted against legislative pay increases, to support our farmers, and I'm a fierce advocate for maternal health advancement.
 But I'm not done yet.
@@ -36,3 +37,4 @@ I'm proud to have the support of Governor Phil Scott and dozens of legislators f
 I don't have every answer.
 But I know how to listen, I ask questions, and I know Vermont is better when we solve problems together instead of digging into our corners.
 I humbly ask for your vote this November so I can continue to work hard for you.
+Campaign Recent Posts See All Governor Phil Scott Backs Ashley Bartley Tim Burns Endorses Ashley Bartley Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

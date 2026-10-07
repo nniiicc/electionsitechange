@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+of+Saratoga+Rally+for+Allen+Caruso&dates=20261022T210000Z%2F20261022T230000Z&location=1+Ferry+Street%2C+Schuylerville%2C+New+York%2C+12871%2C+United+States",
-"http://instagram.com/carusofornyassembly",
-"http://maps.google.com/?q=1+Ferry+Street+Schuylerville%2C+New+York%2C+12871+United+States",
-"https://carusoforassembly.com/",
-"https://carusoforassembly.com/about",
-"https://carusoforassembly.com/cart",
-"https://carusoforassembly.com/events",
-"https://carusoforassembly.com/events/fish-fry-friday-at-gavin-park",
-"https://carusoforassembly.com/events/meet-greet-caruso-greenwish-4nn56?format=ical",
-"https://carusoforassembly.com/issues",
-"https://carusoforassembly.com/news",
-"https://carusoforassembly.com/privacy",
-"https://carusoforassembly.com/text-messaging",
-"https://carusoforassembly.com/volunteer",
-"https://facebook.com/CarusoforNYAssembly",
-"https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+ferry+street+schuylerville%2C+new+york%2C+12871+united+states"
+},
+{
+"text": "0",
+"href": "https://carusoforassembly.com/cart"
+},
+{
+"text": "AFFORDABILITY AGENDA",
+"href": "https://carusoforassembly.com/issues"
+},
+{
+"text": "ALLEN CARUSO",
+"href": "https://carusoforassembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://carusoforassembly.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+of+Saratoga+Rally+for+Allen+Caruso&dates=20261022T210000Z%2F20261022T230000Z&location=1+Ferry+Street%2C+Schuylerville%2C+New+York%2C+12871%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://carusoforassembly.com/events/meet-greet-caruso-greenwish-4nn56?format=ical"
+},
+{
+"text": "MEET ALLEN",
+"href": "https://carusoforassembly.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://carusoforassembly.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://carusoforassembly.com/privacy"
+},
+{
+"text": "Previous Previous October 16 Fish Fry Friday at Gavin Park",
+"href": "https://carusoforassembly.com/events/fish-fry-friday-at-gavin-park"
+},
+{
+"text": "TEXT TERMS & CONDITIONS",
+"href": "https://carusoforassembly.com/text-messaging"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/carusofornyassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarusoforNYAssembly/"
+}
 ]

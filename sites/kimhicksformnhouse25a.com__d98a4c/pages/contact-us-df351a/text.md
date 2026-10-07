@@ -1,8 +1,4 @@
-Contact us.
-To get involved with the campaign or if you have any questions, please contact us any of the ways that are listed below.
-kimhicksforhouse@gmail.com
-(507) 261-8683
-To donate, please send checks to:
-Kim Hicks for MN House
-PO Box 5752
-Rochester, MN 55903
+0 Skip to Content Home Issues Endorsements Get Involved Donate Contact Us Contribute Open Menu Close Menu Home Issues Endorsements Get Involved Donate Contact Us Contribute Open Menu Close Menu Home Issues Endorsements Get Involved Donate Contact Us Contribute Contact us.
+To get involved with the campaign or if you have any questions, please contact us any of the ways that are listed below. kimhicksforhouse@gmail.com (507) 261-8683 To donate, please send checks to: Kim Hicks for MN House PO Box 5752 Rochester, MN 55903 Contribute Form Block This form needs a storage option.
+Double-click here to edit this form, and tell us where to save form submissions in the Storage tab.
+Learn more Prepared and Paid for by the Kim Hicks for MN House Committee PO Box 5752 Rochester, MN 55903 (507)261-8683 kimhicksforhouse@gmail.com

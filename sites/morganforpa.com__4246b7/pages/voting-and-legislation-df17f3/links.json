@@ -1,8 +1,30 @@
 [
-"https://morganforpa.com/",
-"https://morganforpa.com/about",
-"https://morganforpa.com/contact-8",
-"https://morganforpa.com/donate-2",
-"https://morganforpa.com/the-issues",
-"https://morganforpa.com/voting-and-legislation"
+{
+"text": "About",
+"href": "https://www.morganforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.morganforpa.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://www.morganforpa.com/donate-2"
+},
+{
+"text": "HOME",
+"href": "https://www.morganforpa.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.morganforpa.com/the-issues"
+},
+{
+"text": "Voting and Legislation",
+"href": "https://www.morganforpa.com/voting-and-legislation"
+},
+{
+"text": "info@new.com",
+"href": "mailto:info@new.com"
+}
 ]

@@ -1,16 +1,62 @@
 [
-"https://facebook.com/omaraforsenate",
-"https://omaraforsenate.com/",
-"https://omaraforsenate.com/about",
-"https://omaraforsenate.com/contact",
-"https://omaraforsenate.com/donate",
-"https://omaraforsenate.com/events",
-"https://omaraforsenate.com/home",
-"https://omaraforsenate.com/news",
-"https://omaraforsenate.com/profile/omara-ny-senate12853/events",
-"https://omaraforsenate.com/profile/omara-ny-senate12853/profile",
-"https://omaraforsenate.com/support-us",
-"https://secure.winred.com/friends-of-tom-o-mara/donate-today",
-"https://twitter.com/SenatorOMara",
-"https://youtube.com/user/senatortomomara"
+{
+"text": "About",
+"href": "https://www.omaraforsenate.com/about"
+},
+{
+"text": "Browse events",
+"href": "https://www.omaraforsenate.com/home"
+},
+{
+"text": "Contact",
+"href": "https://www.omaraforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-tom-o-mara/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://www.omaraforsenate.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.omaraforsenate.com/events"
+},
+{
+"text": "Events",
+"href": "https://www.omaraforsenate.com/profile/omara-ny-senate12853/events"
+},
+{
+"text": "News",
+"href": "https://www.omaraforsenate.com/news"
+},
+{
+"text": "Profile",
+"href": "https://www.omaraforsenate.com/profile/omara-ny-senate12853/profile"
+},
+{
+"text": "Support Us",
+"href": "https://www.omaraforsenate.com/support-us"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/omaraforsenate"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/SenatorOMara"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/senatortomomara"
+},
+{
+"text": "[image: tom-O-LOGO.jpg]",
+"href": "https://www.omaraforsenate.com"
+},
+{
+"text": "omaraforsenate@gmail.com",
+"href": "mailto:omaraforsenate@gmail.com"
+}
 ]

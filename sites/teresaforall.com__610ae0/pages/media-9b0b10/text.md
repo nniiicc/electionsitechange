@@ -1,10 +1,2 @@
-top of page
-Media
-Recent News
-Leger Fernández Tribal Water Settlement Bill Passes House Natural Resources Committee
-Recent Press Releases
-Teresa Leger Fernandez Re-Elected to Serve New Mexico’s Third District
-Taos News
-November 5, 2024
-September 16, 2026
-bottom of page
+top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+Media Recent News Leger Fernández Tribal Water Settlement Bill Passes House Natural Resources Committee Recent Press Releases Teresa Leger Fernandez Re-Elected to Serve New Mexico’s Third District Taos News November 5, 2024 September 16, 2026 View All Photos View All > View All Videos View All > PAID FOR BY TERESA FOR ALL bottom of page

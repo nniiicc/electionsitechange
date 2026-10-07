@@ -1,33 +1,130 @@
 [
-"http://instagram.com/squarespace",
-"http://pinterest.com/squarespace",
-"https://agweek.com/business/while-state-misses-out-minnesota-farmers-will-still-benefit-from-epitome-energy-plant-ag-leaders-say",
-"https://burkelforhouse.com/",
-"https://burkelforhouse.com/2026-session-wins",
-"https://burkelforhouse.com/cart",
-"https://burkelforhouse.com/contact",
-"https://burkelforhouse.com/donate",
-"https://burkelforhouse.com/issues",
-"https://burkelforhouse.com/meetburkel",
-"https://burkelforhouse.com/new-page",
-"https://burkelforhouse.com/privacy-policy",
-"https://burkelforhouse.com/s/Dan-Fabian-endorsement.docx",
-"https://burkelforhouse.com/s/Male-Female-tag-team.docx",
-"https://burkelforhouse.com/s/Public-Safety-Radio-Ad.docx",
-"https://burkelforhouse.com/s/RADIO-AD-FARMER-TESTIMONIAL.docx",
-"https://grandforksherald.com/news/minnesota/northwest-minnesota-turkey-farmers-up-biosecurity-measures-as-avian-influenza-cases-rise-in-state",
-"https://house.leg.state.mn.us/members/Profile/News/15538/47427",
-"https://house.leg.state.mn.us/members/profile/news/15538/44083",
-"https://house.leg.state.mn.us/sessiondaily/Story/17060",
-"https://house.leg.state.mn.us/sessiondaily/Story/17093",
-"https://house.leg.state.mn.us/sessiondaily/Story/17402",
-"https://lawnandlandscape.com/article/altoz-holds-groundbreaking-ceremony",
-"https://mnsenaterepublicans.com/statement-from-minnesota-legislators-on-dc-squad-visit-to-protest-line-3",
-"https://mprnews.org/story/2021/07/22/drought-and-farmers",
-"https://powersportsbusiness.com/top-stories/2022/03/31/polaris-celebrates-groundbreaking-in-roseau-to-boost-paint-capacity",
-"https://startribune.com/new-bird-flu-cases-are-confirmed-in-le-sueur-county-minnesota-flock/600264446",
-"https://startribune.com/polaris-breaks-ground-on-22-million-robotic-paint-factory-in-roseau/600159457",
-"https://therinklive.com/high-school/minnesota-hockey/bill-with-ban-on-native-american-nicknames-in-minnesota-headed-to-governors-desk",
-"https://trftimes.com/news/16249/kittson-county-receives-support-in-quest-for-county-engineer",
-"https://youtu.behttps://youtu.be/sMPCd7wBqXM/sMPCd7wBqXM"
+{
+"text": "0",
+"href": "https://www.burkelforhouse.com/cart"
+},
+{
+"text": "2020 Farmer Testimonial",
+"href": "https://www.burkelforhouse.com/s/RADIO-AD-FARMER-TESTIMONIAL.docx"
+},
+{
+"text": "2026 Session Wins",
+"href": "https://www.burkelforhouse.com/2026-session-wins"
+},
+{
+"text": "Altoz holds groundbreaking ceremony - Lawn & Landscape (lawnandlandscape.com)",
+"href": "https://www.lawnandlandscape.com/article/altoz-holds-groundbreaking-ceremony/"
+},
+{
+"text": "Contact",
+"href": "https://www.burkelforhouse.com/contact"
+},
+{
+"text": "Deer farmers could face more requirements to safeguard against chronic wasting disease",
+"href": "https://www.house.leg.state.mn.us/sessiondaily/Story/17093"
+},
+{
+"text": "Donate",
+"href": "https://www.burkelforhouse.com/donate"
+},
+{
+"text": "Donations",
+"href": "https://www.burkelforhouse.com/"
+},
+{
+"text": "Fabian Endorsement",
+"href": "https://www.burkelforhouse.com/s/Dan-Fabian-endorsement.docx"
+},
+{
+"text": "Farmers say widening drought now threatening livestock | MPR News",
+"href": "https://www.mprnews.org/story/2021/07/22/drought-and-farmers"
+},
+{
+"text": "House passes bill to replenish UI trust fund, provide checks to frontline workers - Session Daily - Minnesota House of Representatives (state.mn.us)",
+"href": "https://www.house.leg.state.mn.us/sessiondaily/Story/17402"
+},
+{
+"text": "Issues",
+"href": "https://www.burkelforhouse.com/issues"
+},
+{
+"text": "John Burkel - Bio",
+"href": "https://www.burkelforhouse.com/s/Male-Female-tag-team.docx"
+},
+{
+"text": "Kittson County receives support in quest for county engineer",
+"href": "https://trftimes.com/news/16249/kittson-county-receives-support-in-quest-for-county-engineer"
+},
+{
+"text": "Meet John",
+"href": "https://www.burkelforhouse.com/meetburkel"
+},
+{
+"text": "Northwest Minnesota turkey farmers up biosecurity measures as avian influenza cases rise in state - Grand Forks Herald | Grand Forks, East Grand Forks news, weather & sports",
+"href": "https://www.grandforksherald.com/news/minnesota/northwest-minnesota-turkey-farmers-up-biosecurity-measures-as-avian-influenza-cases-rise-in-state"
+},
+{
+"text": "Polaris breaks ground on $22 million robotic paint factory in Roseau - StarTribune.com",
+"href": "https://www.startribune.com/polaris-breaks-ground-on-22-million-robotic-paint-factory-in-roseau/600159457/"
+},
+{
+"text": "Polaris celebrates groundbreaking in Roseau to boost paint capacity (powersportsbusiness.com)",
+"href": "https://powersportsbusiness.com/top-stories/2022/03/31/polaris-celebrates-groundbreaking-in-roseau-to-boost-paint-capacity/"
+},
+{
+"text": "Press",
+"href": "https://www.burkelforhouse.com/new-page"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.burkelforhouse.com/privacy-policy"
+},
+{
+"text": "Public Safety 2020",
+"href": "https://www.burkelforhouse.com/s/Public-Safety-Radio-Ad.docx"
+},
+{
+"text": "Rep. John Burkel - RELEASE: Burkel sworn in, named to House Committees (state.mn.us)",
+"href": "https://www.house.leg.state.mn.us/members/profile/news/15538/44083"
+},
+{
+"text": "Rep. John Burkel - RELEASE: HOUSE GOP STATEMENT ON CONFIRMED AVIAN INFLUENZA CASES",
+"href": "https://www.house.leg.state.mn.us/members/Profile/News/15538/47427"
+},
+{
+"text": "State lawmakers consider seed money for growing plant-based food industry",
+"href": "https://youtu.behttps://youtu.be/sMPCd7wBqXM/sMPCd7wBqXM"
+},
+{
+"text": "Statement from Minnesota Legislators on DC Squad Visit to Protest Line 3",
+"href": "https://www.mnsenaterepublicans.com/statement-from-minnesota-legislators-on-dc-squad-visit-to-protest-line-3/"
+},
+{
+"text": "[image: John Burkel for Minnesota House District 1A]",
+"href": "https://www.burkelforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://pinterest.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "https://www.house.leg.state.mn.us/sessiondaily/Story/17060"
+},
+{
+"text": "https://www.agweek.com/business/while-state-misses-out-minnesota-farmers-will-still-benefit-from-epitome-energy-plant-ag-leaders-say",
+"href": "https://www.agweek.com/business/while-state-misses-out-minnesota-farmers-will-still-benefit-from-epitome-energy-plant-ag-leaders-say"
+},
+{
+"text": "https://www.startribune.com/new-bird-flu-cases-are-confirmed-in-le-sueur-county-minnesota-flock/600264446/",
+"href": "https://www.startribune.com/new-bird-flu-cases-are-confirmed-in-le-sueur-county-minnesota-flock/600264446/"
+},
+{
+"text": "https://www.therinklive.com/high-school/minnesota-hockey/bill-with-ban-on-native-american-nicknames-in-minnesota-headed-to-governors-desk",
+"href": "https://www.therinklive.com/high-school/minnesota-hockey/bill-with-ban-on-native-american-nicknames-in-minnesota-headed-to-governors-desk"
+}
 ]

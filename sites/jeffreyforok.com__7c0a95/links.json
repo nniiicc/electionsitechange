@@ -1,10 +1,46 @@
 [
-"https://facebook.com/share/1JYp1RNoJt?mibextid=wwXIfr",
-"https://forms.gle/Mhqt8TyzsQtWXfH2A",
-"https://instagram.com/jeffreyforok?igsh=MXNhYzIxazU1MW9xcQ%3D%3D",
-"https://jeffreyforok.com/",
-"https://jeffreyforok.com/about-jeffrey-perez",
-"https://jeffreyforok.com/contact",
-"https://jeffreyforok.com/priorities",
-"https://secure.actblue.com/donate/jeffreyforok_website"
+{
+"text": "Contact",
+"href": "https://www.jeffreyforok.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jeffreyforok_website"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jeffreyforok_website"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jeffreyforok.com#support%20the%20campaign"
+},
+{
+"text": "Home",
+"href": "https://www.jeffreyforok.com"
+},
+{
+"text": "Join Us",
+"href": "https://forms.gle/Mhqt8TyzsQtWXfH2A"
+},
+{
+"text": "MEET JEFFREY",
+"href": "https://www.jeffreyforok.com/about-jeffrey-perez"
+},
+{
+"text": "Priorities",
+"href": "https://www.jeffreyforok.com/priorities"
+},
+{
+"text": "Take Action: Get Involved!",
+"href": "https://www.jeffreyforok.com#support%20the%20campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1JYp1RNoJt/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffreyforok?igsh=MXNhYzIxazU1MW9xcQ%3D%3D"
+}
 ]

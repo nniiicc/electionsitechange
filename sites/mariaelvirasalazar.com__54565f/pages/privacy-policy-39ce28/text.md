@@ -1,6 +1,4 @@
-All Visitors
-In order to help us understand how many people visit the site and which pages are the most interesting to our visitors, we collect basic information about everyone who comes to our site, namely:
-1.
+En Español Follow on social media: En Español Donate Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store En Español Donate Privacy Policy All Visitors In order to help us understand how many people visit the site and which pages are the most interesting to our visitors, we collect basic information about everyone who comes to our site, namely: 1.
 The domain name of the internet service you use (such as your_company.com or your_internet_service.net).
 This information does not tell us who you are individually.
 2.
@@ -12,16 +10,13 @@ The address of the previous web site you visited, if you linked to us from anoth
 When you sign up to receive information, we may ask you for contact information, such as your name, e-mail address, mailing address, etc. as well as information about your interests.
 We use this information to communicate with you about our activities and about issues in which you expressed an interest.
 We do not sell or rent any of the information we collect to any third party.
-Outside Links
-There are links on our site to outside web sites.
+Outside Links There are links on our site to outside web sites.
 Salazar for Congress bears no responsibility for the content of other web sites or for their privacy policies or practices.
 We encourage you to read the privacy policy of each web site you visit.
-Changes To This Policy
-Salazar for Congress reserves the right to change or update this policy at any time.
+Changes To This Policy Salazar for Congress reserves the right to change or update this policy at any time.
 We will post the changes to our Privacy Policy on this page, so that visitors can always be aware of them.
 By using our site, you consent to the collection and use of the information as we have described in this policy.
-Questions About This Policy
-If you have any questions about this policy, please contact us at info@salazar27.com.
+Questions About This Policy If you have any questions about this policy, please contact us at info@salazar27.com.
 By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
 Recurring messages, msg&data rates may apply.
 Text JOIN to 46856.
@@ -31,3 +26,13 @@ SMS opt-in consent and data will not be shared with third parties.
 No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
 Text messaging originator opt-in data and consent will not be shared by us with any third parties.
 See privacy policy and terms and conditions here.
+Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Donate Email Address * Phone Number By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
+Recurring messages, msg&data rates may apply.
+Text JOIN to 46856.
+Text HELP for help.
+At any time, text STOP to cancel.
+SMS opt-in consent and data will not be shared with third parties.
+See privacy policy and terms and conditions here.
+Consent I would like to receive text message updates. Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow on social media: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com PRIVACY POLICY Paid for by Salazar for Congress

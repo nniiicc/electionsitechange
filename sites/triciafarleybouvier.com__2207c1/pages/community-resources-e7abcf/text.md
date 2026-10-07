@@ -1,2 +1,2 @@
-Pittsfield Community Resources Click here for a list of food pantries and meal sites.
-Updated as of 5/8/26 Click here for a list of Kids Eat Free Summer Sites Updated as of 6/30/26
+0 Skip to Content About Priorities Newsletter Voting Record Committees Community Resources Contact Support my work Open Menu Close Menu About Priorities Newsletter Voting Record Committees Community Resources Contact Support my work Open Menu Close Menu About Priorities Newsletter Voting Record Committees Community Resources Contact Support my work Pittsfield Community Resources Click here for a list of food pantries and meal sites.
+Updated as of 5/8/26 Click here for a list of Kids Eat Free Summer Sites Updated as of 6/30/26 Boston State House Room 274 Boston, MA 02133 (617) 722-2676 Email Tricia.Farley-Bouvier@mahouse.gov Pittsfield 431 North St Pittsfield, MA 01201 (413) 442-4300

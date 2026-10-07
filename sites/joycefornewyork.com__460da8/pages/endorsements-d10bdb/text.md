@@ -1,16 +1,7 @@
-New York State
-Assembly member (AD 47)
-New York State
-Assembly member (AD 65)
-New York City
-Council Member (D 43)
-New York State
-Committee Member
-District Leader (AD 49)
-New York State
-Committee Member
-District Leader (AD 47)
-New York State
-Committee Member
-District Leader (AD 47)
-Copyright © 2026 Joyce For New York State Assembly District 49 - All Rights Reserved.
+Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce More Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Endorsements Unions New York State AFL-CIO New York State Nurses Association Hotel and Gaming Trades Council Hotel and Gaming Trades Council New York State Nurses Association Hotel and Gaming Trades Council CSEA New York New York State Nurses Association New York State Nurses Association New York State Nurses Association New York State Nurses Association New York State Nurses Association New York State United Teachers New York State Democratic Assembly Campaign Committee New York State Democratic Assembly Campaign Committee New York State Democratic Assembly Campaign Committee New York State Democratic Assembly Campaign Committee New York State Democratic Assembly Campaign Committee Elected Officials William Colton William Colton William Colton New York State Assembly member (AD 47) Grace Lee William Colton William Colton New York State Assembly member (AD 65) Susan Zhuang William Colton Susan Zhuang New York City Council Member (D 43) Tony Ko William Colton Susan Zhuang New York State Committee Member District Leader (AD 49) Nancy Tong Dr.
+Larry He Dr.
+Larry He New York State Committee Member District Leader (AD 47) Dr.
+Larry He Dr.
+Larry He Dr.
+Larry He New York State Committee Member District Leader (AD 47) Copyright © # Joyce For New York State Assembly District 49 - All Rights Reserved.
+Privacy Policy

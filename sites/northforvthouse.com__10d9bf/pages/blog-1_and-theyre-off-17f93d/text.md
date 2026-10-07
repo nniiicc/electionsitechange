@@ -1,16 +1,16 @@
-And They’re Off!
-The last legislative session finished at a frenetic pace.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact And They’re Off!
+Jan 10 Written By North for VT House The last legislative session finished at a frenetic pace.
 We introduced 679 bills and passed 97, many of them good.
 The Governor signed 84 of those into law and vetoed 5 particularly bad ones.
 None of those vetoes were challenged (a victory for Vermonters!).
-You can see the list of bills passed and vetoed HERE.
+You can see the list of bills passed and vetoed HERE .
 Now the race to the finish line has begun.
 The number of really good bills already “on the walls” from last year and the new bills being drafted and introduced this 2nd year of the biennium gives me hope that this could be a good year.
 There are bills that solve or at least address many of the problems facing Vermonters that you all sent us here to solve, such as: ever increasing property taxes, unaffordable housing, healthcare and insurance costs, high energy costs, crumbling roads and bridges, and public safety concerns.
 I’ll address proposed solutions for one of these topics here and save the others for future communications.
 Governor Scott made very clear in his State of the State address on January 7, that education reform and property tax control was his number one issue.
 In fact, it is so important that he spent his entire address discussing it.
-You can listen to it HERE.
+You can listen to it HERE .
 Education reform isn’t optional.
 It’s essential.
 Education spending has risen from $1.6 billion to $2.5 billion in just over a decade, driving double-digit property tax increases.
@@ -53,7 +53,7 @@ This is independent of Act 73 and any redistricting that may occur.
 In addition to Act 73, there are two new bills coming that will bridge the gap until Act 73 comes into effect on its planned 2028 date.
 The first is a simple freeze on property taxes at their current FY2026 rates.
 This ensures stability until the budget controls of Act 73 take effect.
-Read about it HERE.
+Read about it HERE .
 The second is an alteration to Act 73 that enacts the Foundation Formula even if redistricting does not occur.
 This keeps them from throwing out the baby with the bathwater.
 There will likely be duplicates of these bills in both the House and the Senate.
@@ -66,7 +66,11 @@ Your help can and will make a difference!
 Contact your representatives and senators and support those who make the right choices.
 Elections matter.
 Your vote counts.
-I remain honored to be your Representative,
-Rob North
-www.NorthForVTHouse.com
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham North for VT House Previous Previous No New Taxes!
+Next Next Come Join the Festivities!
+Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

@@ -1,8 +1,7 @@
-My friends know that this thing was a last minute thing.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform My Platform My friends know that this thing was a last minute thing.
 I didn’t even think of running for office until I was contacted the last weekend of the deadline.
 I am passionate, but haven’t had the chance to get organized.
-So a little late, but here are my passions to bring to the capitol:
-1.
+So a little late, but here are my passions to bring to the capitol: 1.
 Everyone deserves healthcare, regardless of their ability to pay.
 Not everyone has 3000 dollars to spend on an MRI.
 Not everyone can fork out 100,000 dollars when they get cancer.
@@ -43,4 +42,6 @@ The second quarter of 2026 brought record profits to corporations, and yet the w
 The fruits of their labor are lining the pockets of those in power.
 We must recover the stolen wealth through fair taxation, and put it back in the hands of the people through Medicare for all, infrastructure, schools, libraries, arts, music, and public parks.
 These are my passions.
-I hope you will join me.
+I hope you will join me. @sampowell_sd19 Sam Powell for Senate Sam Powell for Senate Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

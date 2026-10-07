@@ -1,5 +1,4 @@
-Military and Veterans
-Darren always supports our troops.
+Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Military and Veterans Military and Veterans Darren always supports our troops.
 He has been a steady vote for the National Defense Authorization Act and U.S.
 Department of Defense funding over the years.
 He has voted for higher wages and better equipment, housing, and healthcare for our service members.
@@ -14,3 +13,4 @@ He also proudly voted for the PACT Act to ensure veterans exposed to toxic burn 
 His office has resolved thousands of constituent cases for veterans over the years, securing millions of dollars in earned benefits.
 As the son of a Navy veteran, his dad, Lou, went to college on the GI Bill and bought their first home with a VA Loan.
 So he knows how critical these programs are for military and veteran families.
+VOLUNTEER Media DONATE Soto for Congress, PO Box 421349, Kissimmee, FL 34742 Phone Number: 407-434-1319 | Privacy Policy PAID FOR AND AUTHORIZED BY DARREN SOTO FOR CONGRESS © # Darren Soto for Congress.

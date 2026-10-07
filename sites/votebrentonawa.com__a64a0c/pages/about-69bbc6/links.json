@@ -1,13 +1,54 @@
 [
-"https://facebook.com/brentonawa",
-"https://instagram.com/brentonawa",
-"https://secure.winred.com/senator-awa-for-congress/donate",
-"https://tiktok.com/@brentonawa",
-"https://votebrentonawa.com/",
-"https://votebrentonawa.com/about",
-"https://votebrentonawa.com/blank",
-"https://votebrentonawa.com/issues",
-"https://votebrentonawa.com/media",
-"https://x.com/brentonawa",
-"https://youtube.com/user/awabrenton"
+{
+"text": "About",
+"href": "https://www.votebrentonawa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votebrentonawa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votebrentonawa.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votebrentonawa.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebrentonawa.com/blank"
+},
+{
+"text": "[image: Add a heading (2).png]",
+"href": "https://www.votebrentonawa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brentonawa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brentonawa"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@brentonawa"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.x.com/brentonawa"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/user/awabrenton"
+},
+{
+"text": "​",
+"href": "https://www.votebrentonawa.com"
+}
 ]

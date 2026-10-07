@@ -1,5 +1,6 @@
-Social Issues
-I define any issue that may be of significant importance to culture, religion, morality, or public opinion, but does not infringe upon the rights of another individual, a social issue.
+top of page For U.S.
+House Home About Issues Get Involved Contact Other Projects More Use tab to navigate through the menu items.
+Alec Pavlik Social Issues I define any issue that may be of significant importance to culture, religion, morality, or public opinion, but does not infringe upon the rights of another individual, a social issue.
 These are issues most people have a strong opinion on and may need to be addressed through social activism or evangelism, but in my opinion should have nothing to do with the government.
 Marriage is a perfect example of a social issue.
 People’s idea of what marriage is depends on their religious beliefs, as marriage began as a religious union.
@@ -17,3 +18,8 @@ Some people question my pro-life stance on abortion, arguing it is a social issu
 I don’t disagree that to most pro-choicers abortion is a social issue.
 However, that is only true if you believe there is only one life affected by abortion and that is the life of the woman who opts for it.
 I cannot shake the evidence that there is a living person who’s life is ended in an abortion (especially when I was born prematurely), and protecting a person’s right to life is a valid function of government.
+Home About Me Issues Get Involved Contact Save America.
+Restore the Constitution.
+Alec Pavlik Terms & Conditions / Accessibility Financial Disclosure © # by Alec Pavlik.
+Powered and secured by Wix Write-In Alec Pavlik for U.S.
+House of Representatives District 6 (FL-06) PavlikCampaign@protonmail.com ​ bottom of page

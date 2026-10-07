@@ -1,9 +1,12 @@
 {
- "description": "Independent candidate for Governor Ken Block: \u201cThe Foulkes campaign failed to resolve previous violations and then continued to break the law\u201d",
+ "description": "Independent candidate for Governor Ken Block: “The Foulkes campaign failed to resolve previous violations and then continued to break the law”",
  "final_url": "https://www.blockforgovernor.com/press-release.php?id=13",
- "paid_for_by": null,
+ "fingerprint": "40479f5654d89e2a7778c6b7813c5a866be6d9a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Helena Foulkes Campaign Continued to Exceed Contribution Limits While Previous Violations Remained Unresolved | Ken Block for Governor",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2026"
  ]
 }

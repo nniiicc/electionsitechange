@@ -1,26 +1,110 @@
 [
-"https://en.wikipedia.org/wiki/Agile_software_development",
-"https://en.wikipedia.org/wiki/Carlos_Santana",
-"https://en.wikipedia.org/wiki/Mammon",
-"https://en.wikipedia.org/wiki/Plutocracy",
-"https://en.wikipedia.org/wiki/Reactionary",
-"https://en.wikipedia.org/wiki/Spock",
-"https://goingdeepfororegon.org/",
-"https://goingdeepfororegon.org/accessibility-statement",
-"https://goingdeepfororegon.org/committees",
-"https://goingdeepfororegon.org/darcey-edwards",
-"https://goingdeepfororegon.org/djt-2-0",
-"https://goingdeepfororegon.org/events",
-"https://goingdeepfororegon.org/fun",
-"https://goingdeepfororegon.org/going-deep",
-"https://goingdeepfororegon.org/issue-list",
-"https://goingdeepfororegon.org/legislating",
-"https://goingdeepfororegon.org/meet-candidate",
-"https://goingdeepfororegon.org/site-map",
-"https://goingdeepfororegon.org/volunteer",
-"https://goingdeepfororegon.org/voting-info",
-"https://goingdeepfororegon.org/why-im-running",
-"https://heyvictor.com/",
-"https://jec.senate.gov/public/index.cfm/democrats/2024/10/the-u-s-economy-performs-better-under-democratic-presidents",
-"https://secure.actblue.com/donate/tom-lum-forest"
+{
+"text": "Accessibility Statement",
+"href": "https://goingdeepfororegon.org/accessibility-statement/"
+},
+{
+"text": "Agile software development process",
+"href": "https://en.wikipedia.org/wiki/Agile_software_development"
+},
+{
+"text": "Carlos Santana",
+"href": "https://en.wikipedia.org/wiki/Carlos_Santana"
+},
+{
+"text": "Contact",
+"href": "mailto:TLForestForOregon@gmail.com"
+},
+{
+"text": "Darcey Edwards",
+"href": "https://goingdeepfororegon.org/darcey-edwards/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom-lum-forest?amount="
+},
+{
+"text": "Events",
+"href": "https://goingdeepfororegon.org/events/"
+},
+{
+"text": "Fun",
+"href": "https://goingdeepfororegon.org/fun/"
+},
+{
+"text": "Going Deep",
+"href": "https://goingdeepfororegon.org/going-deep/"
+},
+{
+"text": "Home",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "Issue List",
+"href": "https://goingdeepfororegon.org/issue-list/"
+},
+{
+"text": "Legislating",
+"href": "https://goingdeepfororegon.org/legislating/"
+},
+{
+"text": "Mammon",
+"href": "https://en.wikipedia.org/wiki/Mammon"
+},
+{
+"text": "Meet Candidate",
+"href": "https://goingdeepfororegon.org/meet-candidate/"
+},
+{
+"text": "My Committees of Interest",
+"href": "https://goingdeepfororegon.org/committees/"
+},
+{
+"text": "Site Map",
+"href": "https://goingdeepfororegon.org/site-map/"
+},
+{
+"text": "Spock",
+"href": "https://en.wikipedia.org/wiki/Spock"
+},
+{
+"text": "Volunteer",
+"href": "https://goingdeepfororegon.org/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://goingdeepfororegon.org/voting-info/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://goingdeepfororegon.org/why-im-running/"
+},
+{
+"text": "[image: Me at Lan Su Portland Chinese Garden] [image]",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "how DJT got elected",
+"href": "https://goingdeepfororegon.org/djt-2-0/"
+},
+{
+"text": "music – singing and playing guitar",
+"href": "https://goingdeepfororegon.org/fun/"
+},
+{
+"text": "outperformed the GOP by 50:1 from 1989-2025",
+"href": "https://www.jec.senate.gov/public/index.cfm/democrats/2024/10/the-u-s-economy-performs-better-under-democratic-presidents"
+},
+{
+"text": "plutocrats",
+"href": "https://en.wikipedia.org/wiki/Plutocracy"
+},
+{
+"text": "reactionary",
+"href": "https://en.wikipedia.org/wiki/Reactionary"
+}
 ]

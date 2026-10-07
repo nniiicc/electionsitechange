@@ -1,5 +1,4 @@
-Cambiar a una estructura tributaria progresiva
-La Constitución de Utah exige que los ingresos provenientes del impuesto sobre la renta se utilicen únicamente para la educación pública, la educación superior y los servicios para niños y personas con discapacidades.
+Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Cambiar a una estructura tributaria progresiva La Constitución de Utah exige que los ingresos provenientes del impuesto sobre la renta se utilicen únicamente para la educación pública, la educación superior y los servicios para niños y personas con discapacidades .
 En casi cada sesión, la legislatura se esfuerza por aprobar una reducción nominal del impuesto sobre la renta.
 Estos recortes son demasiado pequeños para marcar una diferencia para los contribuyentes de la clase trabajadora, pero representan pérdidas enormes para la educación y los servicios para personas con discapacidades.
 En 2017, la tasa del impuesto sobre la renta era del 5%.
@@ -25,12 +24,25 @@ Actualmente, cada dólar de ingreso tributable en Utah se grava con una tasa fij
 Un impuesto progresivo añadiría un porcentaje adicional a las porciones de ingresos por encima de ciertos umbrales.
 A continuación se muestran tres ejemplos de tasas que presentan opciones para un impuesto escalonado.
 En la tasa preferida, una estructura tributaria progresiva moderada podría generar más de $1 mil millones por año para educación y servicios para personas con discapacidades.
-| Monto de ingresos | Tasa preferida | Tasa media | Tasa baja |
-|---|---|---|---|
-| Menos de 90K | 4.4% | 4.85% | 4.4% |
-| 90–125K | 4.4% | 4.85% | 4.5% |
-| 125–250K | 5.4% | 4.85% | 5.0% |
-| 250–500K | 6.4% | 4.85% | 5.5% |
-| 500K–1M | 7.4% | 5.85% | 6.0% |
-| 1M+ | 7.9% | 6.85% | 6.5% |
-| $ adicionales recaudados | $1.027B | $735M | $563M |
+Monto de ingresos Tasa preferida Tasa media Tasa baja Menos de 90K #.#% #.#% #.#% 90–125K #.#% #.#% #.#% 125–250K #.#% #.#% #.#% 250–500K #.#% #.#% #.#% 500K–#M #.#% #.#% #.#% #M+ #.#% #.#% #.#% $ adicionales recaudados $1.027B $#M $#M I am endorsed by our community Mary S.
+Jared Jones Jenny G.
+Nan Weber Danielle B.
+Councilman Nick Mitchell Tenille Taggart Mustafa Khader School Board Member Bryce Williams Deb Stone, Ph.D.
+Mandy Danzig, LCSW Gail Boling Billy Clouse Eli, the Unicycle Kid Paul Boruff Georgia Weber Lavvynder Rose Councilwoman Alisa Van Langeveld, Ph.D.
+Deeqa Dahir Keirie M.
+Shannon F.
+Anthony Washburn Terri Drashner Jeff Rollins Izaak Cervantes Eddie Miranda Ingrid Davis Rebecca Rogers Angela Morgan Mary S.
+Jared Jones Jenny G.
+Nan Weber Danielle B.
+Councilman Nick Mitchell Tenille Taggart Mustafa Khader School Board Member Bryce Williams Deb Stone, Ph.D.
+Mandy Danzig, LCSW Gail Boling Billy Clouse Eli, the Unicycle Kid Paul Boruff Georgia Weber Lavvynder Rose Councilwoman Alisa Van Langeveld, Ph.D.
+Deeqa Dahir Keirie M.
+Shannon F.
+Anthony Washburn Terri Drashner Jeff Rollins Izaak Cervantes Eddie Miranda Ingrid Davis Rebecca Rogers Angela Morgan Mary S.
+Jared Jones Jenny G.
+Nan Weber Danielle B.
+Councilman Nick Mitchell Tenille Taggart Mustafa Khader School Board Member Bryce Williams Deb Stone, Ph.D.
+Mandy Danzig, LCSW Gail Boling Billy Clouse Eli, the Unicycle Kid Paul Boruff Georgia Weber Lavvynder Rose Councilwoman Alisa Van Langeveld, Ph.D.
+Deeqa Dahir Keirie M.
+Shannon F.
+Anthony Washburn Terri Drashner Jeff Rollins Izaak Cervantes Eddie Miranda Ingrid Davis Rebecca Rogers Angela Morgan Paid for by Friends of Stephen Otterstrom

@@ -1,4 +1,4 @@
-I am announcing my candidacy for New Hampshire State Representative for Strafford County District 4, representing the towns of Barrington and Strafford.
+Skip to content ShepardForNH Scott Shepard for State Representative Menu Home About Scott Issues NH Insights & Op-Eds Campaign Announcement Events Volunteer Contact Donate Scott Shepard Announces Campaign for NH State Representative Strafford County District 4 • Barrington and Strafford I am announcing my candidacy for New Hampshire State Representative for Strafford County District 4, representing the towns of Barrington and Strafford.
 Over the past several years, many of you have followed my work through NH Insights, my community volunteer activities, and countless conversations about the future of our state.
 Whether discussing education, taxes, housing, economic development, or government accountability, my goal has always been the same: focus on facts, understand the underlying causes of problems, and work toward practical solutions.
 I believe New Hampshire is at an important crossroads.
@@ -14,3 +14,8 @@ However, I believe we can make better decisions when we listen carefully, engage
 Over the coming months, I will continue publishing research, hosting conversations, meeting with residents, and listening to concerns throughout Barrington and Strafford.
 I hope this campaign can become a forum for thoughtful discussion about where New Hampshire is today and where we want it to be tomorrow.
 I invite you to join me in that effort.
+Volunteer Contact the Campaign Donate ShepardForNH Scott Shepard is running for NH State Representative in Strafford County District 4, representing Barrington and Strafford.
+Facts.
+Strategy.
+Real Solutions.
+Get Involved Volunteer Donate Events Contact Campaign Announcement Follow NH Insights on Substack Facebook Spotify NH Insights on Apple Podcasts Privacy & Disclaimer Paid for by SHEPARD FOR NH, Scott Shepard, Treasurer.

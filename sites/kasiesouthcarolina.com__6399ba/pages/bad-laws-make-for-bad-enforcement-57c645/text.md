@@ -1,20 +1,19 @@
-At the gun show in Myrtle Beach, I had dozens of great conversations.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Bad laws make for bad enforcement At the gun show in Myrtle Beach, I had dozens of great conversations.
 People nodding along about the national debt and its relationship to affordability.
 People agreeing the two parties have hijacked the government and sold it out from under us.
 Agreeing that a third party, even just an independent Senator, is needed.
+Thank you to the Horry County Libertarians for hosting us at the gun show in Myrtle Beach Feb 7 & 8.
 But I also had two conversations that were not head-nodding.
 One was about healthcare.
-You can read my thoughts on healthcare here.
-When I asserted that healthcare is not free, not even in Canada, and that the VA is our example of US government-run healthcare and it’s terrible, the person with whom I spoke said he knows people in Canada and they report their healthcare is “not that bad.”
-Okay.
+You can read my thoughts on healthcare here .
+When I asserted that healthcare is not free, not even in Canada, and that the VA is our example of US government-run healthcare and it’s terrible, the person with whom I spoke said he knows people in Canada and they report their healthcare is “not that bad.” Okay.
 The second conversation was about ICE.
 It started out okay.
 The man asked me what I think about immigration.
 I said I think people who come to the United States should do so legally.
 We should have a resident-worker program that enables them to become registered workers.
 He nodded.
-“What if they didn’t come here legally?”
-What if they are unregistered?
+“What if they didn’t come here legally?” What if they are unregistered?
 What if they are living and working in hiding, undocumented and taking money under the table, “illegal”?
 Should they be deported?
 Should they be hunted down, rounded up, and deported?
@@ -35,18 +34,12 @@ I don’t want citizens standing between ICE agents and their quarry.
 If they have a warrant to arrest, let them execute the warrant, apprehend the person, and put them through the process.
 I don’t want people doxxing ICE agents, thinking they’re fighting back by harassing law enforcement agents doing their jobs.
 But I didn’t say any of that either.
-When I paused, he said, “Should people interfere with law enforcement?”
-And I said, “Are they law enforcement?”
-And he said, “Yes, they certainly are.”
-Then he put my postcard back on the stack, muttered, “Good luck,” and walked away.
+When I paused, he said, “Should people interfere with law enforcement?” And I said, “Are they law enforcement?” And he said, “Yes, they certainly are.” Then he put my postcard back on the stack, muttered, “Good luck,” and walked away.
 Here’s the thing, law enforcement has to give their name and badge number when it’s requested.
 They have to wear body cams.
 They have to have search warrants or consent to enter people’s homes.
 ICE agents are wearing masks, harassing regular people, and detaining U.S. citizens without just cause or judicial paperwork.
-I don’t think any of these things are okay:
-- No knock warrants
-- Qualified immunity
-- Bullying.
+I don’t think any of these things are okay: No knock warrants Qualified immunity Bullying.
 Not even when those harassed are people who came here illegally.
 And let’s be honest, what we’re seeing from ICE is a culture of bullying that isn’t new to this era or this administration.
 It’s the worst execution of law enforcement.
@@ -78,11 +71,13 @@ Stop making political hay of real people, their struggles and their ambitions, t
 Immigration is complicated and requires complex solutions.
 Reducing immigration to us-versus-them creates the violence, the bullying, the resistance, and the danger we’re seeing in Minnesota and elsewhere.
 I don’t think I would have won that person over with my “more humanity, less violence” approach.
-This blog is just to set the record straight that I am for law enforcement, heavy on the “law” and light on the “force.”
-The blame rests with Congress and outdated legislation, and with the executive branch and its aggressive theatrics of policy enforcement, and with the two major parties whose fundraising addiction won’t let them solve this problem.
+This blog is just to set the record straight that I am for law enforcement, heavy on the “law” and light on the “force.” The blame rests with Congress and outdated legislation, and with the executive branch and its aggressive theatrics of policy enforcement, and with the two major parties whose fundraising addiction won’t let them solve this problem.
 After all, if they fixed it, how would they pit us against each other and raise more money on the issue?
 One million South Carolinians know the government isn’t working for us.
 So let’s do something about it.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

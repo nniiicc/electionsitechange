@@ -1,6 +1,11 @@
-Radio Oklahoma Ag Network Farm Director Ron Hays talked on Thursday with Oklahoma Congressman Frank Lucas- and was on the line with the Republican from Roger Mills County when the votes were being tallied on the floor of the Senate to determine final ratification for the USMCA.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate January 16, 2020 Congressman Frank Lucas Talks About the Trade Wins of the Week- and Says Thank Goodness Radio Oklahoma Ag Network Farm Director Ron Hays talked on Thursday with Oklahoma Congressman Frank Lucas- and was on the line with the Republican from Roger Mills County when the votes were being tallied on the floor of the Senate to determine final ratification for the USMCA.
 The Congressman praised the Senate for getting USMCA across the finish line easily- and also discussed the signing of the US-China Phase One Trade Deal that happened on Wednesday.
 Lucas called it a remarkable pair of trade wins- saying “I know production agriculture is better off” with the Phase One China Deal as well as the USMCA treaty approved by Lawmakers after being signed by President over a year ago.
 Lucas also reaffirmed that he will push hard to be reeassigned to the House Ag Committee if he wins reelection this coming November- calling that his “home” in Washington.
 There will be a new Republican leader on the Committee with the current ranking member, Mike Conaway, indicating that he will not run for reelection here in 2020.
 The Oklahoma lawmaker said there are four GOP members now on the Committee that have interest in the job.
+Share Post navigation Bipartisan Bill Will Improve Stem Education in Rural Areas Rep.
+Lucas says Green New Deal is a “Bad Deal” Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

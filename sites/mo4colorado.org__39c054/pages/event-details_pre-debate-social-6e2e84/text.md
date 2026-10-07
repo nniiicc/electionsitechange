@@ -1,8 +1,4 @@
-top of page
-Pre-Debate Social
-Wed, Oct 07
-|Collins Park Clubhouse
-Join Mo & Team for some snacks & a social before we walk together to the long-awaited Manny Rutinel VS Gabe Evans debate in Berthoud!
-NOTE- You must have registered for the actual Debate already separately.
-(but even if you didn't, come hang with us anyways!)
-bottom of page
+top of page HOME MEET MO DOWER ENDORSEMENTS PLATFORM GET INVOLVED DONATION EVENTS ​ACCESSIBILITY STATEMENT MORE Use tab to navigate through the menu items.
+Log In DONATE Pre-Debate Social Wed, Oct 07 | Campaign "Headquarters" Join Mo & Team for some snacks & a social before we walk together to the long-awaited Manny Rutinel VS Gabe Evans debate in Berthoud!
+NOTE- You must have registered for the actual Debate already separately. (but even if you didn't, come hang with us anyways!) RSVP Time & Location Oct 07, 2026, 4:30 PM – 5:30 PM Campaign "Headquarters", 1608 Hollyberry Street, Berthoud, CO 80513, USA Guests See All RSVP Share this event HOME MEET MO DOWER ENDORSEMENTS PLATFORM GET INVOLVED DONATION EVENTS ​ACCESSIBILITY STATEMENT More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Terms & Conditions Privacy Policy Accessibility Statement © # MO4COLORADO Paid for by Mo4Colorado Linnea Reckase Registered Agent bottom of page

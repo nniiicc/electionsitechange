@@ -1,11 +1,46 @@
 [
-"https://facebook.com/ElectJoeHohenstein",
-"https://secure.actblue.com/donate/elect-joe-hohenstein",
-"https://secure.actblue.com/donate/friendsofjoehohenstein",
-"https://votehohenstein.com/",
-"https://votehohenstein.com/contact",
-"https://votehohenstein.com/issues",
-"https://votehohenstein.com/meet-joe",
-"https://votehohenstein.com/plan",
-"https://votehohenstein.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.votehohenstein.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friendsofjoehohenstein"
+},
+{
+"text": "Issues",
+"href": "https://www.votehohenstein.com/issues"
+},
+{
+"text": "Make Your Plan to Vote",
+"href": "https://www.votehohenstein.com/plan"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.votehohenstein.com/meet-joe"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehohenstein.com/volunteer"
+},
+{
+"text": "[image: Elect Joe Hohenstein]",
+"href": "https://www.votehohenstein.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJoeHohenstein/"
+},
+{
+"text": "[no text]",
+"href": "mailto:votehohenstein@gmail.com"
+},
+{
+"text": "donating",
+"href": "https://secure.actblue.com/donate/elect-joe-hohenstein"
+},
+{
+"text": "votehohenstein@gmail.com",
+"href": "mailto:votehohenstein@gmail.com"
+}
 ]

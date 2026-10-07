@@ -1,5 +1,4 @@
-True Colors: Mendoza Promises To Be The Partisan She Is
-TUCSON – The Democratic candidate for Arizona’s 6th Congressional District showed her true colors at a campaign rally last weekend in Tucson.
+DONATE DONATE 635ms 0vh 0 Skip to Content Meet Juan News Media Kit Results Endorsements Connect English Donate Open Menu Close Menu English Donate Meet Juan News Media Kit Results Endorsements Connect Open Menu Close Menu Meet Juan News Media Kit Results Endorsements Connect English Back Donate True Colors: Mendoza Promises To Be The Partisan She Is Sep 16 Written By Blake Wilson TUCSON – The Democratic candidate for Arizona’s 6th Congressional District showed her true colors at a campaign rally last weekend in Tucson.
 JoAnna Mendoza has no interest in bipartisanship.
 “I swear, if I start telling you that I am the most bipartisan member, please slap me,” she said at Saturday’s event.
 The full video can be found on JoAnna Mendoza’s campaign Facebook page linked below, starting at 8:35.
@@ -11,6 +10,11 @@ No one can effectively represent our community and district in Washington withou
 I’m proud to work with Republicans, Democrats and Independents to deliver results for our district.
 And proud to be independently ranked the most bipartisan, most effective and most collaborative member of the Arizona congressional delegation - House and Senate.
 Washington has enough partisanship.
-I’ll keep focusing on getting things done.”
-Watch full video here: https://www.facebook.com/share/v/19YMUg2W7C/?mibextid=wwXIfr
-Juan Ciscomani was independently ranked Arizona’s most bipartisan member of Congress by the Center for Effective Lawmaking, the most bipartisan lawmaker from Arizona by the Lugar Center and the McCourt School of Public Policy at Georgetown University, and the most collaborative lawmaker from Arizona by Bridge Grades.
+I’ll keep focusing on getting things done.” Watch full video here: https://www.facebook.com/share/v/19YMUg2W7C/?mibextid=wwXIfr Juan Ciscomani was independently ranked Arizona’s most bipartisan member of Congress by the Center for Effective Lawmaking , the most bipartisan lawmaker from Arizona by the Lugar Center and the McCourt School of Public Policy at Georgetown University , and the most collaborative lawmaker from Arizona by Bridge Grades .
+Blake Wilson Previous Previous ICYMI: Veteran Credits Ciscomani's Office With Protecting His Benefits in Arizona Daily Star Next Next Amalgamated Transit Union Backs Ciscomani to Keep Arizona Moving Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up today for the latest updates from Juan.
+First Name Last Name Email Address Sign Up Thank you!
+520-222-6874 P.O.
+Box 35103 Tucson, AZ 85740 info@juanciscomani.com Privacy Policy Media © Copyright #.
+All rights reserved.

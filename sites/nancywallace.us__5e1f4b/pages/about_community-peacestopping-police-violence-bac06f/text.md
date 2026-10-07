@@ -1,39 +1,30 @@
-Community Peace/Stopping Police Violence
-We have many deaths and tremendous suffering from our national culture of violence, but none cut so deeply into the heart of our country as the abuse of physical power by the our own government.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Community Peace/Stopping Police Violence Climate Change Women and Girls’ Survival Community Based Economics and Economic Justice Health Care for All Federal Tax Reform Foreign Policy Privacy Immigration Reform Community Peace/Stopping Police Violence Community Peace/Stopping Police Violence We have many deaths and tremendous suffering from our national culture of violence, but none cut so deeply into the heart of our country as the abuse of physical power by the our own government.
 The institutions we should trust, to protect and help us, instead betray with suspicion, assumed guilt, fear, and murder.
 Finally, a long-standing pattern of abuse of the state’s police power for African Americans, particularly men, has become known to all our country.
 We must act immediately to stop police violence, stop all instances of violence in our culture, and bring peace to our families, streets, and the relationship between communities and law enforcement.
 Our goal is peace in our communities, with police respecting people in every interaction, each step of their work – and return to their best role, peace keepers.
-- Prevention of Police Violence and Reduction in Community Violence
-- Increased screening and training for local police – use federal support to distribute best practices from the most successful, tolerant police forces in the country; the federal government should help local departments help other local departments.
-- Eliminate disparity between communities and their police forces – Fund a national survey of racial parity of local police forces to their communities; pro-actively identify areas with significant gaps and then support local recruitment to achieve parity quickly.
-- Early intervention to identify problem officers – Determine simpler systems for identifying officers with records of unnecessary violence, to improve on the current, complex system that often doesn’t work in time or is too much of a local administrative burden to work effectively.
-- Full funding for social workers – Dramatically increased funding for social workers at the local level; the federal government can help communities by re-programming funds from the federal Department of Energy, as we switch from nuclear power to safe, local renewable electricity.
+Prevention of Police Violence and Reduction in Community Violence Increased screening and training for local police – use federal support to distribute best practices from the most successful, tolerant police forces in the country; the federal government should help local departments help other local departments.
+Eliminate disparity between communities and their police forces – Fund a national survey of racial parity of local police forces to their communities; pro-actively identify areas with significant gaps and then support local recruitment to achieve parity quickly.
+Early intervention to identify problem officers – Determine simpler systems for identifying officers with records of unnecessary violence, to improve on the current, complex system that often doesn’t work in time or is too much of a local administrative burden to work effectively.
+Full funding for social workers – Dramatically increased funding for social workers at the local level; the federal government can help communities by re-programming funds from the federal Department of Energy, as we switch from nuclear power to safe, local renewable electricity.
 Social workers are our front line to help protect children from abuse, which is a major predictor and cause of adult violence in both police and other adults.
-- Elevate violent offenders to non-violent paths – Promote the successful model of Richmond, California’s “life mapping program” which, under a Green Party mayor Gayle McLaughlin, reduced street murder of all kinds by 83%.
+Elevate violent offenders to non-violent paths – Promote the successful model of Richmond, California’s “life mapping program” which, under a Green Party mayor Gayle McLaughlin, reduced street murder of all kinds by 83%.
 This public/private partnership reduced street violence to historic lows.
-The reduced overall community violence changes the community’s atmosphere for all. http://www.eastbaytimes.com/2014/01/06/richmond-reports-lowest-homicide-total-in-33-years-credits-multipronged-efforts/
-- Avoidance of Physical Confrontation and Violent Police Response
-- Mental health units have priority – Support establishing Mental Health units in all local social service departments as a professional standard, which police must call for all behavioral and mental health incidents before drawing any weapon.
+The reduced overall community violence changes the community’s atmosphere for all. http://www.eastbaytimes.com/2014/01/06/richmond-reports-lowest-homicide-total-in-33-years-credits-multipronged-efforts/ Avoidance of Physical Confrontation and Violent Police Response Mental health units have priority – Support establishing Mental Health units in all local social service departments as a professional standard, which police must call for all behavioral and mental health incidents before drawing any weapon.
 Put emphasis on simple containment of the person using non-violent means, no matter how disruptive temporarily to traffic or neighborhoods, putting the disturbed person’s life ahead of “maintaining order” for its own sake.
-- Raise the standard for “acceptable force” above the legal minimum – Implement the 30 recommendations of the Police Chiefs Research Forum (PERF), a group of police chiefs and commanders.
-In January 2016 the group issued a 30-point policy paper, among them calling for a redefinition of acceptable force and many other specific, practical means to reduce excessive force. http://samuelwalker.net/wp-content/uploads/2016/02/PERF30Principles.pdf
-- Accountability and Truth
-- Local citizen oversight boards– support implementation of oversight boards in all police departments, with all three components of authority to make independent investigations, review of police department’s investigation, and audit of internal review processes.
+Raise the standard for “acceptable force” above the legal minimum – Implement the 30 recommendations of the Police Chiefs Research Forum (PERF), a group of police chiefs and commanders.
+In January 2016 the group issued a 30-point policy paper, among them calling for a redefinition of acceptable force and many other specific, practical means to reduce excessive force. http://samuelwalker.net/wp-content/uploads/2016/02/PERF30Principles.pdf Accountability and Truth Local citizen oversight boards – support implementation of oversight boards in all police departments, with all three components of authority to make independent investigations, review of police department’s investigation, and audit of internal review processes.
 The federal role should provide program training and measurement systems for local programs.
-- Automatic external investigation of every police killing – a local or state investigation should occur with every police killing, without having to wait for federal intervention which may be delayed or politically influenced.
+Automatic external investigation of every police killing – a local or state investigation should occur with every police killing, without having to wait for federal intervention which may be delayed or politically influenced.
 Set a common expectation among police that all taking of life will have this external review.
-- Police body camera footage as public property –set a national standard that this footage is gathered in the course of public service, and is to be made available to the community within a set time period such as seven days of any killing.
+Police body camera footage as public property –set a national standard that this footage is gathered in the course of public service, and is to be made available to the community within a set time period such as seven days of any killing.
 In this unique case, an officers’ important personal right to privacy is outweighed by the security risk to the public of problem officers, since only the police have the state-granted authority to take life in certain circumstances.
-Resources for You on Community Peace/Stopping Police Violence:
-Record incidents and preserve evidence –
-The Maryland chapter of the American Civil Liberties Union has an app to help you legally monitor, record, and report police interactions.
-Download here.
-The app's main functions are:
-- Record button allows you to record exchanges between police officers and themselves or other community members.
+Resources for You on Community Peace/Stopping Police Violence: Record incidents and preserve evidence – The Maryland chapter of the American Civil Liberties Union has an app to help you legally monitor, record, and report police interactions.
+Download here .
+The app's main functions are: Record button allows you to record exchanges between police officers and themselves or other community members.
 The audio and video files are automatically sent to the ACLU of Maryland so that evidence can't be destroyed.
-- Witness function sends out an alert when police stop someone so that community members can move toward the location and document the interaction.
-- Report feature gives you the option to complete an incident report and send it directly to the ACLU of Maryland for review.
+Witness function sends out an alert when police stop someone so that community members can move toward the location and document the interaction.
+Report feature gives you the option to complete an incident report and send it directly to the ACLU of Maryland for review.
 ACLU legal staff will review videos that are sent along with a detailed incident report.
-- Know Your Rights section – in English and Spanish – provides an overview of your rights when you are stopped by law enforcement officers.
-- Notification function allows you to get news about action alerts and events on police accountability, to help you get involved in the movement for reform.
+Know Your Rights section – in English and Spanish – provides an overview of your rights when you are stopped by law enforcement officers.
+Notification function allows you to get news about action alerts and events on police accountability, to help you get involved in the movement for reform. © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

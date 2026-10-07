@@ -1,4 +1,4 @@
-The House of Representatives amended, approved, and sent the Senate H.3137, a bill making REVISIONS TO THE LOCAL GOVERNMENT FUND.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 2/1/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 2/1/2019 Uncategorized The House of Representatives amended, approved, and sent the Senate H.3137, a bill making REVISIONS TO THE LOCAL GOVERNMENT FUND.
 The legislation discontinues the retrospective approach for funding political subdivisions that is tied to the previous year’s revenues and, beginning with Fiscal Year 2019‑2020, implements prospective budgeting that draws upon state revenue forecasts.
 The funding requirement for the Local Government Fund, set at 4.5% of the previous year’s state general fund revenues, is replaced with new funding requirements structured to deliver a revenue stream to counties and municipalities that is adjusted according to whether the state is projected to experience revenue growth.
 Under the revisions, when state general fund revenue is projected to increase, Local Government Fund appropriations must be increased by the same percentage as the growth estimate, up to a cap of 5%.
@@ -34,4 +34,6 @@ House Resolution H.3744 was adopted to clarify that the Speaker of the House, as
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 1/25/2019 The State Capitol Report – 2/15/19 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

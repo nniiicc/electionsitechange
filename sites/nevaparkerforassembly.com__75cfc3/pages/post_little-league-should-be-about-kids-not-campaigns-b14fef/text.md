@@ -1,15 +1,14 @@
-Little League Should Be About Kids, Not Campaigns
-The Sacramento Bee published an article this morning, entitled Campaign-funded banner pulled from Rocklin field — did it break Little League rules?
+top of page HOME MEET NEVA ISSUES ENDORSEMENTS NEWS VOLUNTEER & EVENTS GET YOUR TEAM NEVA T-SHIRT GET YOUR YARD SIGN INTERNSHIP THE DISTRICT More Use tab to navigate through the menu items.
+DONATE All Posts Search Little League Should Be About Kids, Not Campaigns Neva Parker Mar 26 3 min read The Sacramento Bee published an article this morning, entitled Campaign-funded banner pulled from Rocklin field — did it break Little League rules?
 It covered the community's concern over Assembly Member Joe Patterson's sponsorship of the Rocklin Little League, which was paid for by his campaign.
 Parents were upset about politics being allowed by the League, that his signs violated rules that govern both the League and non-profits, and that his signs were remarkably similar to his campaign signs.
 Here are the two signs for reference.
 In the article Joe insists they're different signs.
 I'll let you decide.
+Joe's campaign sign prior to being elected The signage related to his sponsorship of the Rocklin Little League.
 I wrote an opinion piece in response, but the Bee declined to print it.
 Below is what would have been published.
-Little League Should Be About Kids, Not Campaigns
-By Neva Parker
-Little League was a huge part of my childhood.
+Little League Should Be About Kids, Not Campaigns By Neva Parker Little League was a huge part of my childhood.
 I started playing softball when I was eight.
 My main position was catcher, although I could play shortstop or third base if they needed me to.
 Most evenings and Saturdays were spent at the ballfield.
@@ -28,7 +27,7 @@ In a Facebook post about it, Patterson himself said he hopes his contribution �
 And although the Sacramento Bee Article didn’t report any aggressive interactions as the Assembly Member did in his post, if that did happen, then that’s not okay.
 That’s not who we are as a community.
 In the article, the Assembly Member is quoted as saying his sponsorship is “very standard.” But that glosses over something particularly important: Little League and non-profit rules notwithstanding, a local business putting up a sign is different than a political candidate or elected official doing the same, especially during an active campaign.
-We live in a growing community.
+We live in a growing community .
 And with that comes new ideas and different perspectives.
 We also live during a time when our political climate has led to increasing distrust and heightened emotions.
 A political candidate and elected official sponsoring anything may be standard, but political signage in this space isn’t.
@@ -45,3 +44,6 @@ We already have plenty of places in which to engage in politics, especially on s
 Let Little League be about the kids.
 Let it be about socks that are perpetually stained orange, and blazing hot bleachers.
 Let Little League be about kids making friendships, learning important life skills, and just being with their families.
+Recent Posts See All Doodling with Derwinne Team Member Tuesday: Meet Atticus!
+Team Member Tuesday: Meet Lauren!
+Paid for by Neva Parker for Assembly 2026 FPPC #1481228 bottom of page

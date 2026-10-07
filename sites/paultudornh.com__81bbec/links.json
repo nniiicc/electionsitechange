@@ -1,5 +1,22 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://paultudornh.com/contact"
+{
+"text": "Contact",
+"href": "https://paultudornh.com/contact"
+},
+{
+"text": "Host an Event",
+"href": "https://paultudornh.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://paultudornh.com/contact"
+}
 ]

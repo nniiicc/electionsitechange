@@ -1,27 +1,20 @@
-Statement from Brandon Wade on the Government Shutdown
-As of midnight, the federal government has entered shutdown status.
+Site is Loading, Please wait...
+Skip to content Press Release | News | Past Events | Input From The Voters | Contact Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Menu Close Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Search this website Statement from Brandon Wade on the Government Shutdown As of midnight, the federal government has entered shutdown status.
 This is not merely a political stunt — it’s a real crisis for working families, rural communities, and public servants across our district and beyond.
 I condemn this shutdown and the political brinkmanship that brought us here.
 Oklahomans don’t deserve to be pawns in a partisan battle.
-What this shutdown means for Oklahoma’s 2nd District
-- Many federal employees and contractors who live and work in our district will face furloughs, pay delays, and financial stress.
-- Essential services—especially those that support public safety, health, infrastructure, and rural programs—are at risk of being halted or disrupted.
-- Local economies, especially in smaller or rural towns, absorb the shock when federal funds and payrolls stop.
-- Vulnerable communities relying on federally funded resources (housing, nutrition assistance, veterans’ services) will feel the impact deeply.
-What needs to happen now
-- Congress must act immediately to reopen government funding
-No more delaying.
+What this shutdown means for Oklahoma’s 2nd District Many federal employees and contractors who live and work in our district will face furloughs, pay delays, and financial stress.
+Essential services—especially those that support public safety, health, infrastructure, and rural programs—are at risk of being halted or disrupted.
+Local economies, especially in smaller or rural towns, absorb the shock when federal funds and payrolls stop.
+Vulnerable communities relying on federally funded resources (housing, nutrition assistance, veterans’ services) will feel the impact deeply.
+What needs to happen now Congress must act immediately to reopen government funding No more delaying.
 We must put aside ideology over people, negotiate responsibly, and restore funding for our federal agencies.
-- Protect working families and public service employees
-Any relief package must include retroactive compensation for furloughed workers, protections for contractors, and safeguards for critical public services.
-- Address root causes, not just patchwork fixes
-We need a sustainable budget process, regular order in Congress, and meaningful bipartisan compromise.
+Protect working families and public service employees Any relief package must include retroactive compensation for furloughed workers, protections for contractors, and safeguards for critical public services.
+Address root causes, not just patchwork fixes We need a sustainable budget process, regular order in Congress, and meaningful bipartisan compromise.
 We must move away from perpetual short-term funding measures.
-- Listen to the people, not the parties
-As your representative, I would prioritize your needs over party lines.
+Listen to the people, not the parties As your representative, I would prioritize your needs over party lines.
 When elected, I will push for policies that ensure rural districts like ours aren’t left behind during national crises.
-In closing
-I stand with the hard-working families, public servants, veterans, and small businesses of Oklahoma’s 2nd District.
+In closing I stand with the hard-working families, public servants, veterans, and small businesses of Oklahoma’s 2nd District.
 This shutdown doesn’t have to define us.
 Congress must do its job.
 I am committed to fighting for a government that works — for all of us — and restoring stability and fairness to Washington.
@@ -29,8 +22,7 @@ Above: Brandon Wade, OK Democratic Party CD2 Chair Rae Ann Wilson, and Dennis L.
 Baker, Candidate for U.S.
 Senate.
 Left: I was inspired by the Poor People’s Campaign to visit Washington, DC and march for livable wages and other issues that affect rural, working class voters such as myself.
-A Rural Candidate for a Rural Congressional District
-I grew up in Copan, Oklahoma, which is in Washington County near the Kansas border.
+A Rural Candidate for a Rural Congressional District I grew up in Copan, Oklahoma, which is in Washington County near the Kansas border.
 I am a candidate who comes from Rural Oklahoma and I understand rural issues, such as the importance of public schools.
 We must keep our tax dollars where it belongs — our public schools!
 If our public schools fail our rural communities will go with them.
@@ -41,37 +33,9 @@ I will meet with anyone, regardless of their party.
 I am working for the people.
 Obviously I have Democratic party ideals but I will be sent to work for the people.
 Join me and help elect a real rural leader who will fight for our values.
-Oklahoma’s 2nd Congressional Distric includes 27 counties (in whole or in part):
-Highlighted counties are the ones I have visited so far.
+Oklahoma’s 2nd Congressional Distric includes 27 counties (in whole or in part): Highlighted counties are the ones I have visited so far.
 If you don’t see your county highlighted, please reach out to us to schedule a time.
-Adair
-Atoka
-Bryan
-Cherokee
-Choctaw
-Coal
-Craig
-Delaware
-Haskell
-Hughes
-Johnston
-Latimer
-Le Flore
-Marshall
-Mayes
-McCurtain
-McIntosh
-Muskogee
-Nowata
-Okfuskee
-Okmulgee
-Ottawa
-Pittsburg
-Pushmataha
-Sequoyah
-Rogers
-Washington
-A real Living Wage for rural Oklahoma.
+Adair Atoka Bryan Cherokee Choctaw Coal Craig Delaware Haskell Hughes Johnston Latimer Le Flore Marshall Mayes McCurtain McIntosh Muskogee Nowata Okfuskee Okmulgee Ottawa Pittsburg Pushmataha Sequoyah Rogers Washington A real Living Wage for rural Oklahoma.
 I was recently asked what I thought a living wage really was.
 I was happy to respond to that question.
 As a Union man I understand the fight for a living wage and what a living wage actually is.
@@ -97,8 +61,7 @@ We must start electing leaders that will fight for the working class and their f
 As a Union man, I’m one to lead this fight.
 I will work to move the minimum wage to $16.00 immediately and then add legislation to continue to increase it yearly.
 Join me in the fight to return respect and dignity back to the people of Oklahoma!
-MENTAL HEALTH
-We must take a more serious look into this issue that effects so many Oklahomans in our state.
+MENTAL HEALTH We must take a more serious look into this issue that effects so many Oklahomans in our state.
 Mental health issues come in many forms and effect a large part of our communities.
 We have to do more to address these issues.
 We need to provide more funds to ensure that the treatments and medications are provided and readily available to all that need them.
@@ -108,8 +71,7 @@ With providing treatment programs, medications, and programs that provide the su
 We need to provide programs that can provide a community, housing, and job programs that can provide the stability that is needed for the people that need help can concentrate on that.
 We all have someone that struggles with a form of mental health and this is an issues that we all should be able to get behind and support.
 It will better our communities, neighbors, and families.
-IMMIGRATION REFORM
-The Great American Dream, America has been selling this concept for years!
+IMMIGRATION REFORM The Great American Dream, America has been selling this concept for years!
 The dream of coming to a country where your dreams can come true!
 A land of endless hopes and freedoms.
 A place where anyone can live the good life, if they work hard and put in the effort.
@@ -132,3 +94,4 @@ Personnel that will be required is in multiple areas, judges, border patrol offi
 I also believe we will need to set up immigration centers in every state.
 On the law side of the system, we need to seriously look at the time tables on becoming a citizen at every level.
 I’m willing to discuss this issue with anyone that wants to make a difference.
+Donate Contact Calendar/Events American Dream Act Endorsements Press Release Copyright # - Brandon Wade for Congress

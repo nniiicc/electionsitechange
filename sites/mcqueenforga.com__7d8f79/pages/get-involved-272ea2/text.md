@@ -1,5 +1,4 @@
-We need your support to make a difference in District 61.
-Whether you can volunteer your time, make a donation, or help spread the word,
-we appreciate your contribution.
-Fill out the form below and a member of our team will get in touch soon.
-If you have any questions, send us an email at mekyah@mcqueenforga.com
+top of page Home Meet Mekyah Issues Volunteer Contact More Use tab to navigate through the menu items.
+REGISTER TO VOTE DONATE NOW Join McQueen for GA, Sign Up Now WAYS TO HELP We need your support to make a difference in District 61.
+Whether you can volunteer your time, make a donation, or help spread the word, we appreciate your contribution. ​ Fill out the form below and a member of our team will get in touch soon. ​ If you have any questions, send us an email at mekyah@mcqueenforga.com Host an event (meet and greet) Make Phone Calls Knock on doors Host Fundraiser Social media or communications support Data entry Other - Please type how you would like to help McQueen SUBMIT Thanks for submitting!
+Home Meet Mekyah Issues Get Involved Contact Paid for by the Committee to Elect Mekyah McQueen 2451 Cumberland Parkway Suite 3359 Atlanta GA 30339 DONATE NOW REGISTER TO VOTE SITE CREDIT PRIVACY POLICY bottom of page

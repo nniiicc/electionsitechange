@@ -1,19 +1,78 @@
 [
-"https://dc51pac.com/",
-"https://instagram.com/robertwhite_dc",
-"https://joinrobertwhite.com/",
-"https://joinrobertwhite.com/endorsements",
-"https://joinrobertwhite.com/general-8",
-"https://joinrobertwhite.com/getinvolved",
-"https://joinrobertwhite.com/meetrobert",
-"https://joinrobertwhite.com/terms",
-"https://mobilize.us/s/54dwUN",
-"https://secure.actblue.com/donate/robert-white-congress",
-"https://secure.actblue.com/donate/robert-white-congress?amount=10",
-"https://secure.actblue.com/donate/robert-white-congress?amount=100",
-"https://secure.actblue.com/donate/robert-white-congress?amount=1000",
-"https://secure.actblue.com/donate/robert-white-congress?amount=200",
-"https://secure.actblue.com/donate/robert-white-congress?amount=3500",
-"https://secure.actblue.com/donate/robert-white-congress?amount=50",
-"https://secure.actblue.com/donate/robert-white-congress?amount=500"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=1000"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=200"
+},
+{
+"text": "$3,500",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/robert-white-congress?amount=500"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/robert-white-congress"
+},
+{
+"text": "Defend DC",
+"href": "https://www.dc51pac.com"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.joinrobertwhite.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.joinrobertwhite.com/getinvolved"
+},
+{
+"text": "MEET ROBERT",
+"href": "https://www.joinrobertwhite.com/meetrobert"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/robert-white-congress"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joinrobertwhite.com/general-8"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.joinrobertwhite.com/terms"
+},
+{
+"text": "Yard Signs",
+"href": "https://mobilize.us/s/54dwUN"
+},
+{
+"text": "[image: Rober White Logo]",
+"href": "https://www.joinrobertwhite.com"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/robertwhite_dc/"
+},
+{
+"text": "jointhefight@joinrobertwhite.com",
+"href": "mailto:jointhefight@joinrobertwhite.com"
+}
 ]

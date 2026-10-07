@@ -1,9 +1,9 @@
-I’m running on many issues but this one is the most important.
-Affordability
-Most of us are concerned about rising health care costs, increasing insurance premiums, higher grocery bills and the strain of energy prices?
+Meet Rick Issues News Photos Volunteer Contribute Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support!
+Request a Yard Sign Click Here to Request a Sign Need Voting Information?
+Register & Find Your Polling Location Click Here for Information I’m running on many issues but this one is the most important.
+Affordability Most of us are concerned about rising health care costs, increasing insurance premiums, higher grocery bills and the strain of energy prices?
 The state can help, even if minor and temporarily.
-I propose:
-Permanently remove the state retail sales tax on groceries.
+I propose: Permanently remove the state retail sales tax on groceries.
 Food is a necessity, like oxygen in the air, it is generally exempt from sales tax in many states, but here in Alabama, for example, food purchases are subject to a state sales tax rate of 2%, but that low rate applies only to items eligible for the Supplemental Nutrition Assistance Program (SNAP) approved items.
 The state can also help lower food costs by offering incentives to local grocery stores to buy directly from local farmers cutting out the middleman and shipping costs.
 The state should find ways to encourage people grow their own food by supporting community gardens and leveraging the AL Cooperative Extension Service.
@@ -27,3 +27,6 @@ See the Issues page for more.
 Economic issues in Alabama, including wages, will be my number one priority.
 Disclaimer - Rick Pressnell is a former active duty member of the US Marine Corps and the Army National Guard Title 10 AGR.
 Use of his/her military rank, job titles, and photographs in uniform does not imply endorsement by these service branches, the Department of Defense or any branch of U.S. government.
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Yard Signs Events Photos Contact Friends of Rick Pressnell Powered by CampaignPartner.com - Political Campaign Websites Home Meet Rick Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

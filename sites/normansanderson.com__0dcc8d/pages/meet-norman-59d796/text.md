@@ -1,5 +1,5 @@
-Meet Norman
-Hello!
+Senator Sanderson is passionate about what matters to your family!
+Home Meet Norman Issues Endorsements Accomplishments Donate More Home Meet Norman Issues Endorsements Accomplishments Donate Home Meet Norman Issues Endorsements Accomplishments Donate Meet Norman About Senator Norman Sanderson Hello!
 My name is Norman Sanderson, and my wife Linda and I look forward to meeting you if we've not previously met!
 I grew up on a small family farm in Columbus County, NC.
 My dad had me out in the fields working at just five years old!
@@ -21,6 +21,5 @@ I also firmly believe that marriage should be between one man and one woman and 
 I have had the honor of serving my community as past president of Full Gospel Business Men’s Fellowship America Crystal Coast Chapter, First Vice Chair of NC’s Third Congressional District, Secretary of the Craven County Republican Men’s Club, member of Pamlico County Committee of 100, member of the Pamlico County Chamber of Commerce and Havelock Chamber of Commerce, and member of Oriental Rotary Club.
 Linda and I have been married for 54 years, and we are the proud parents of daughter Jennifer and husband Frankie Alcock and son Lee Sanderson and wife Stephanie.
 We are blessed with 3 grandsons, Caleb (an MBA graduate of East Carolina University), Joel (a senior at NC State University) and Addison (an 11th grader).
-Copyright © 2024 Citizens to Elect Norman Sanderson - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Citizens to Elect Norman Sanderson - All Rights Reserved.
+Home Meet Norman Issues Endorsements Contact Me Accomplishments Powered by

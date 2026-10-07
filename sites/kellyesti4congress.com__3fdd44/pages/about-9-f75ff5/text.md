@@ -1,67 +1,17 @@
-A Bit About Me
-BroTagz Embroidery, LLC
-Co-owner / C.F.O.
-- Joined BroTagz Embroidery LLC as Chief Financial Officer
-- As CFO, BroTagz has expanded its footprint in the embroidery industry with small business, social organization
-Former Board Member, Hapeville Board of Zoning Appeals (Two Terms)
-Former Board Member & Academic Performance Chair, The Main Street Academy Charter School
-- Completed UGA Carl Vinson Institute of Government Planning & Zoning Workshop
-- Contributing to municipal development decisions and zoning regulations
-- Applying specialized knowledge from planning and zoning certification
-- Led academic oversight committee ensuring charter compliance and curriculum excellence
-- Guided school operations through COVID-19 pandemic response
-- Achieved consistent improvement in student performance metrics
-- Managed $15M+ annual budget and strategic planning initiative.
-Former Legislative Chair & Board Member, Georgia Equality
-- Spearheaded successful opposition to Religious Freedom Bill (2015)
-- Expanded organizational influence in state legislature
-- Established Executive Committee governance structure
-- Collaborated with Atlanta Chamber of Commerce on policy initiatives
-- Secured additional LGBTQ protections through legislative action
-Former Board Member, Fulton County Community Zoning Board
-- Appointed by the former Chairman of Fulton County, Dr.
-John Eaves
-- Served the constituents of south Fulton County.
-- Protected the community from careless developers and/or destructive corporate interests
-Brother of Kappa Alpha Psi, Fraternity Inc.
-Served as Legislative Aide to Senator Donzella James 2015 Legislative Session
-Served on the Coalition for South Fulton Now 2015 - 2017
-- Pledged in 2010 – Anniston Piedmont Chapter
-- Currently a brother at South Fulton Alumni
-- Worked on passing legislation that would have allowed the remaining unincorporated Fulton County to become South Fulton city
-- Acted as whip to gather votes for the cityhood initiative
-- C-Founder, Treasurer & Fundraiser
-- Created one of the largest cities in GA – South Fulton
-- More than 110K residents with a budget of over $431M as of FY2026
-- Worked with Dems and Reps to accomplish this goal.
-UGA Carl Vinson Institute of Government - 2022
-- Planning & Zoning Workshop
-DOCTOR OF PHILOSOPHY (PhD)
-PUBLIC POLICY & POLICY ANALYSIS | WALDEN UNIVERSITY | 2018
-Completed doctoral research focused on poverty eradication strategies, culminating in dissertation "Quantitative Poverty: Can Poverty Really Be Eradicated."
-Research contributed to the field of economic policy and poverty studies, with publication archived in the Library of Congress (2018).
+top of page Home About Kelly Photos & Videos Endorsements Contact Privacy Policy Terms & Services About Me A Bit About Me BroTagz Embroidery, LLC Co-owner / C.F.O.
+Joined BroTagz Embroidery LLC as Chief Financial Officer As CFO, BroTagz has expanded its footprint in the embroidery industry with small business, social organization​ Former Board Member, Hapeville Board of Zoning Appeals (Two Terms) Former Board Member & Academic Performance Chair, The Main Street Academy Charter School Completed UGA Carl Vinson Institute of Government Planning & Zoning Workshop Contributing to municipal development decisions and zoning regulations Applying specialized knowledge from planning and zoning certification Led academic oversight committee ensuring charter compliance and curriculum excellence Guided school operations through COVID-19 pandemic response Achieved consistent improvement in student performance metrics Managed $15M+ annual budget and strategic planning initiative.​ Former Legislative Chair & Board Member, Georgia Equality​ Spearheaded successful opposition to Religious Freedom Bill (2015) Expanded organizational influence in state legislature Established Executive Committee governance structure Collaborated with Atlanta Chamber of Commerce on policy initiatives Secured additional LGBTQ protections through legislative action​ ​ ​ Former Board Member, Fulton County Community Zoning Board Appointed by the former Chairman of Fulton County, Dr.
+John Eaves Served the constituents of south Fulton County.
+Protected the community from careless developers and/or destructive corporate interests Brother of Kappa Alpha Psi, Fraternity Inc.
+Served as Legislative Aide to Senator Donzella James 2015 Legislative Session Served on the Coalition for South Fulton Now 2015 - 2017 Pledged in 2010 – Anniston Piedmont Chapter Currently a brother at South Fulton Alumni Worked on passing legislation that would have allowed the remaining unincorporated Fulton County to become South Fulton city Acted as whip to gather votes for the cityhood initiative C-Founder, Treasurer & Fundraiser Created one of the largest cities in GA – South Fulton More than 110K residents with a budget of over #M as of FY2026 Worked with Dems and Reps to accomplish this goal.
+UGA Carl Vinson Institute of Government - 2022 Planning & Zoning Workshop Home About Kelly Photos & Videos Endorsements Contact Privacy Policy Terms & Services DOCTOR OF PHILOSOPHY (PhD) PUBLIC POLICY & POLICY ANALYSIS | WALDEN UNIVERSITY | 2018 Completed doctoral research focused on poverty eradication strategies, culminating in dissertation "Quantitative Poverty: Can Poverty Really Be Eradicated." Research contributed to the field of economic policy and poverty studies, with publication archived in the Library of Congress (2018).
 Specialized in quantitative analysis methodologies and policy impact assessment.
-MASTER OF BUSINESS ADMINISTRATION (MBA) | FINANCE
-WEBSTER UNIVERSITY | 2007
-Advanced degree concentrated in financial markets, investment analysis, and portfolio management.
-Coursework emphasized strategic financial planning, risk assessment, and market analysis, preparing for roles in financial services and securities trading.
-BACHELOR OF ARTS | MANAGEMENT
-OTTAWA UNIVERSITY | 2006
-Undergraduate studies focused on business administration and management principles while actively serving in the U.S.
+MASTER OF BUSINESS ADMINISTRATION (MBA) | FINANCE WEBSTER UNIVERSITY | 2007 Advanced degree concentrated in financial markets, investment analysis, and portfolio management.
+Coursework emphasized strategic financial planning, risk assessment, and market analysis, preparing for roles in financial services and securities trading. ​ BACHELOR OF ARTS | MANAGEMENT OTTAWA UNIVERSITY | 2006 Undergraduate studies focused on business administration and management principles while actively serving in the U.S.
 Navy.
 Program emphasized practical application of management theory, organizational behavior, and business operations.
-HIGH SCHOOL DIPLOMA
-SOUTH PIKE HIGH SCHOOL | 1999
-Graduated as Salutatorian, demonstrating academic excellence through participation in Advanced Placement programs and maintaining superior academic standing throughout secondary education.
-NUCLEAR TRAINED SAILOR
-UNITED STATES NAVY | 1999-2002
-Served as a distinguished member of the U.S.
-Navy's nuclear program aboard the USS Henry M Jackson, achieving several notable distinctions as the first and only Black Nuclear Operator during my service period on the vessel.
-Key Achievements:
-• Accelerated submarine qualification completion (77 days)
-• Direct management of nuclear power station operations
-• Advanced technical training in nuclear systems and operations
-• Secret/Top Secret security clearance holder
-• Expertise in nuclear propulsion systems and power generation
-• Critical role in maintaining vessel operational readiness
-• Specialized training in emergency response and safety protocols
+HIGH SCHOOL DIPLOMA SOUTH PIKE HIGH SCHOOL | 1999 Graduated as Salutatorian, demonstrating academic excellence through participation in Advanced Placement programs and maintaining superior academic standing throughout secondary education.
+NUCLEAR TRAINED SAILOR UNITED STATES NAVY | 1999-2002 Served as a distinguished member of the U.S.
+Navy's nuclear program aboard the USS Henry M Jackson, achieving several notable distinctions as the first and only Black Nuclear Operator during my service period on the vessel. ​ Key Achievements: • Accelerated submarine qualification completion (77 days) • Direct management of nuclear power station operations • Advanced technical training in nuclear systems and operations • Secret/Top Secret security clearance holder • Expertise in nuclear propulsion systems and power generation • Critical role in maintaining vessel operational readiness • Specialized training in emergency response and safety protocols Watch FULL WALB10 Interview HERE Why are you running for congress?
+(WALB 10 Interview Clip) What's first on your agenda, if elected?
+(WALB 10 Interview Clip) What does health have to do with your congressman?
+(Video) Home About Kelly Photos & Videos Endorsements Contact Privacy Policy Terms & Services bottom of page

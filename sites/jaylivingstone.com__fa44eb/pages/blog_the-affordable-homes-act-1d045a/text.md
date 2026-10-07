@@ -1,5 +1,7 @@
-The Affordable Homes Act
-On July 31st, 2024 the Massachusetts Legislature passed H.4977, An Act relative to the affordable homes act, and is now pending before the Governor for her signature.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate The Affordable Homes Act Aug 2 Written By Jay Livingstone On July 31st, 2024 the Massachusetts Legislature passed H.4977, An Act relative to the affordable homes act , and is now pending before the Governor for her signature.
 The Governor has 10 days (from the bill’s passage) to sign the legislation.
 If she does not sign the bill within 10 days, it automatically becomes law.
 This $5.16 billion housing bond bill authorizes funding to modernize and rehabilitate state-aided public housing, support affordable housing and home ownership for low- and moderate-income individuals, enhance facilities for early education and out-of-school programs, and improve infrastructure to promote economic reinvestment.
@@ -19,3 +21,5 @@ This bill removes some of these barriers while leaving flexibility for cities an
 I am hopeful that this provision will aid aging residents in the state who want to downsize their homes, but can not find a smaller home in their community that fits their price range, the opportunity to stay local.
 While the final bill does not include all of the policy proposals that were included in the House’s version of the bill, I am appreciative of my colleagues for reaching a compromise on this legislation that will help to tackle the Commonwealth’s ongoing housing crisis.
 I look forward to the Governor signing this important piece of legislation into law.
+Jay Livingstone Previous Previous Informal vs.
+Formal Session Next Next The Parentage Act Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

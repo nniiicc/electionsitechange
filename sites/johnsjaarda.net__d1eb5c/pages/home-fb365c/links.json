@@ -1,24 +1,134 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/SjaardaforSD",
-"https://johnsjaarda.net/",
-"https://johnsjaarda.net/contact",
-"https://johnsjaarda.net/contribute",
-"https://johnsjaarda.net/contribute?amount=10",
-"https://johnsjaarda.net/contribute?amount=100",
-"https://johnsjaarda.net/contribute?amount=1000",
-"https://johnsjaarda.net/contribute?amount=15",
-"https://johnsjaarda.net/contribute?amount=25",
-"https://johnsjaarda.net/contribute?amount=250",
-"https://johnsjaarda.net/contribute?amount=50",
-"https://johnsjaarda.net/contribute?amount=500",
-"https://johnsjaarda.net/home",
-"https://johnsjaarda.net/issues",
-"https://johnsjaarda.net/make-endorsement",
-"https://johnsjaarda.net/meet_john",
-"https://johnsjaarda.net/photos",
-"https://johnsjaarda.net/privacy-policy",
-"https://johnsjaarda.net/terms-and-conditions",
-"https://johnsjaarda.net/view-endorsements",
-"https://johnsjaarda.net/volunteer"
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=15"
+},
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.johnsjaarda.net/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.johnsjaarda.net/contribute?amount=1000"
+},
+{
+"text": "About",
+"href": "https://www.johnsjaarda.net/meet_john"
+},
+{
+"text": "Contact",
+"href": "https://www.johnsjaarda.net/contact"
+},
+{
+"text": "Contribute",
+"href": "https://johnsjaarda.net/contribute"
+},
+{
+"text": "Contribute",
+"href": "https://www.johnsjaarda.net/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnsjaarda.net/view-endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SjaardaforSD"
+},
+{
+"text": "Help John get elected! Make a Contribution Today Click Here to Contribute",
+"href": "https://www.johnsjaarda.net/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.johnsjaarda.net/home"
+},
+{
+"text": "Join the Campaign Become a Volunteer! Click Here to Sign Up",
+"href": "https://www.johnsjaarda.net/volunteer"
+},
+{
+"text": "Like our Facebook page! Click here to stay updated",
+"href": "https://www.facebook.com/SjaardaforSD"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.johnsjaarda.net/make-endorsement"
+},
+{
+"text": "Meet John",
+"href": "https://johnsjaarda.net/meet_john"
+},
+{
+"text": "Other",
+"href": "https://www.johnsjaarda.net/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.johnsjaarda.net/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.johnsjaarda.net/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnsjaarda.net/privacy-policy"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://www.johnsjaarda.net/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://johnsjaarda.net/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnsjaarda.net/volunteer"
+},
+{
+"text": "[image: 2]",
+"href": "https://www.johnsjaarda.net/meet_john"
+},
+{
+"text": "[image]",
+"href": "https://johnsjaarda.net/meet_john"
+},
+{
+"text": "[image]",
+"href": "https://www.johnsjaarda.net/"
+},
+{
+"text": "[image]",
+"href": "https://www.johnsjaarda.net/meet_john"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SjaardaforSD"
+}
 ]

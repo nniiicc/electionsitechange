@@ -1,21 +1,12 @@
-Contact:
-Isaac Hadam – isaac@jonechols.com
-Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.
-“I am the only candidate in this race that has been endorsed by ANY Oklahoma law enforcement officer, including 74% of Oklahoma’s Republican Sheriffs and the Oklahoma Fraternal Order of Police- my opponent has zero law enforcement endorsements.”
-“As a private sector businessman who was trusted to serve the public, I passed the largest tax cut in state history.
-My opponent works in the Executive Branch of government which desperately needs reform.”
-“I am the only Oklahoma First candidate in this race who has tried a case in an Oklahoma courtroom.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Media Advisory: Echols to File for Attorney General April 1, 2026 Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.
+“I am the only candidate in this race that has been endorsed by ANY Oklahoma law enforcement officer, including 74% of Oklahoma’s Republican Sheriffs and the Oklahoma Fraternal Order of Police- my opponent has zero law enforcement endorsements.” “As a private sector businessman who was trusted to serve the public, I passed the largest tax cut in state history.
+My opponent works in the Executive Branch of government which desperately needs reform.” “I am the only Oklahoma First candidate in this race who has tried a case in an Oklahoma courtroom.
 I was proud to stand up for Oklahomans and keep President Trump on the ballot, pro-bono.
 My opponent is a political operative from the Washington DC swamp who earned a paycheck from Hillary Clinton and Joe Biden supporters.
 The contrast is clear.
-I’m proud to provide Oklahomans with a conservative choice for AG.”
-Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
+I’m proud to provide Oklahomans with a conservative choice for AG.” Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
 Jon has a proven track record of conservative leadership and is running for Attorney General to make Oklahoma safer, freer, and stronger.
-When: Wednesday, April 1st
-Time: Between 12:00pm – 1:30pm
-Where: Secretary of the State Election Board
-Oklahoma State Capitol
-2300 N Lincoln Blvd.
-Oklahoma City, OK 73105
-After filing, Echols will be available to the media for comment.
-###
+When: Wednesday, April 1st Time: Between 12:00pm – 1:30pm Where: Secretary of the State Election Board Oklahoma State Capitol 2300 N Lincoln Blvd.
+Oklahoma City, OK 73105 After filing, Echols will be available to the media for comment.
+### Share: More Posts Oklahoma Farm Bureau Endorses Jon Echols for Attorney General Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Polling Memo: Echols Holds Commanding Lead in AG’s Race New polling is out and it shows Jon Echols up by 20 points in the Republican Primary for Attorney General.
+The full memo is below Echols Receives NRA Defender of Freedom Award Oklahoma City, OK – Today, Jon Echols, the frontrunner for the Oklahoma Attorney General’s race, received the Defender of Freedom Award from the National Rifle Association

@@ -1,18 +1,70 @@
 [
-"https://engage.monicaforcongress.org/election-voting-info",
-"https://engage.monicaforcongress.org/election-worker-questionnaire",
-"https://facebook.com/monicaforcongress",
-"https://instagram.com/monicaforcongress",
-"https://monicaforcongress.us/es",
-"https://monicaforcongress.us/es/about",
-"https://monicaforcongress.us/es/issues",
-"https://monicaforcongress.us/es/media-kit",
-"https://monicaforcongress.us/es/news-and-media",
-"https://monicaforcongress.us/es/privacy-policy",
-"https://monicaforcongress.us/es/the-district",
-"https://monicaforcongress.us/es/volunteer",
-"https://monicaforcongress.us/issues",
-"https://secure.winred.com/monica-for-congress-149b0cf8/donate",
-"https://secure.winred.com/monica-for-congress-149b0cf8/storefront",
-"https://twitter.com/monica4congress"
+{
+"text": "877-469-1210",
+"href": "tel:8774691210"
+},
+{
+"text": "Colaborar",
+"href": "https://monicaforcongress.us/es/volunteer/"
+},
+{
+"text": "Comercio",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/storefront/"
+},
+{
+"text": "Conviértete en un trabajador electoral",
+"href": "https://engage.monicaforcongress.org/election-worker-questionnaire"
+},
+{
+"text": "DONAR",
+"href": "https://secure.winred.com/monica-for-congress-149b0cf8/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/monicaforcongress/"
+},
+{
+"text": "Información sobre encuestas y elecciones",
+"href": "https://engage.monicaforcongress.org/election-voting-info"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/monicaforcongress/"
+},
+{
+"text": "Media Kit",
+"href": "https://monicaforcongress.us/es/media-kit/"
+},
+{
+"text": "Noticias y Medios",
+"href": "https://monicaforcongress.us/es/news-and-media/"
+},
+{
+"text": "Sobre ella",
+"href": "https://monicaforcongress.us/es/about/"
+},
+{
+"text": "Temas",
+"href": "https://monicaforcongress.us/es/issues/"
+},
+{
+"text": "Texas-15",
+"href": "https://monicaforcongress.us/es/the-district/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/monica4congress"
+},
+{
+"text": "[image: en_US]English",
+"href": "https://monicaforcongress.us/issues/"
+},
+{
+"text": "[image]",
+"href": "https://monicaforcongress.us/es"
+},
+{
+"text": "here.",
+"href": "https://monicaforcongress.us/es/privacy-policy/"
+}
 ]

@@ -1,2 +1,4 @@
-Contact Email info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com Phone (419) 665-3133 Address Kaptur for Congress P.O.
-Box 899 Toledo, OH 43697 United States
+Skip to content Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Menu Meet Marcy Marcy’s Priorities Contact Get Involved Volunteer Fellowships Voter Hub Yard Sign Request Donate Contact Email info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com Phone ‪(419) 665-3133 Address Kaptur for Congress P.O.
+Box 899 Toledo, OH 43697 United States Donate Contribute to our campaign and help reelect Marcy to Congress.
+Contribute You can also send a check to: Kaptur for Congress P.O.
+Box 899 Toledo, OH 43697 Follow Marcy Facebook X-twitter Get in touch info@marcykaptur.com For Media Inquiries, please email: press@marcykaptur.com To reach our campaign call: ‪(419) 665-3133‬ Information Media Privacy Policy Donate Paid for by Kaptur for Congress Site by Kinetic Meet Marcy Marcy’s Priorities Contact Get Involved Menu Toggle Volunteer Fellowships Voter Hub Yard Sign Request Scroll to Top Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Meet Marcy Marcy’s Priorities Get Involved Lawn Signs Voter Hub Contact Donate

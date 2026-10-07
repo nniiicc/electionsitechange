@@ -1,5 +1,4 @@
-Protecting Health Care and Reproductive Freedom
-Hundreds of thousands of people in Alabama lack health insurance and access to affordable health care.
+0 Skip to Content About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu Folder: About Back About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Protecting Health Care and Reproductive Freedom Hundreds of thousands of people in Alabama lack health insurance and access to affordable health care.
 In fact, more and more communities are becoming health care “deserts” as medical service providers, including hospitals, permanently close their doors.
 Of course, this ends up raising overall costs, in turn, causing hospitals to struggle financially, particularly since our state has refused to expand Medicaid for partisan political reasons.
 This, despite the enormous and beneficial impact it would have on our state’s health care system.
@@ -14,5 +13,5 @@ When victims of unspeakable crimes are not allowed to regain control of their bo
 Rather than making it more difficult for people to get the treatment that is right for them, I believe we need to focus on improving outcomes in our healthcare system.
 My background in community mental health has helped me understand the disparities in coverage and access to care.
 Changing the way we address health care can help us build a better Alabama.
-“The impact of healthcare extends far beyond the individual; it touches families, communities, and generations to come.”
-— Unknown
+Share Your Story with Marilyn “The impact of healthcare extends far beyond the individual; it touches families, communities, and generations to come.” — Unknown Constituent Resources Contact Rep.
+Lands Issues Legislative News News & Media Website designed and created by Clete Wetli & Tektite.Digital

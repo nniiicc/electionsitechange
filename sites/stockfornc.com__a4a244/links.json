@@ -1,7 +1,22 @@
 [
-"https://facebook.com/StockforNC",
-"https://instagram.com/stockfornc",
-"https://secure.anedot.com/friends-of-chris-stock/support",
-"https://stockfornc.com/privacy-policy",
-"https://stockfornc.com/terms-and-conditions"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-chris-stock/support"
+},
+{
+"text": "Mobile Terms and Conditions",
+"href": "https://www.stockfornc.com/terms-and-conditions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stockfornc.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/StockforNC"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stockfornc/"
+}
 ]

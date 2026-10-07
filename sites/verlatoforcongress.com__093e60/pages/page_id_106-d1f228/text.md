@@ -1,5 +1,4 @@
-Menu
-April Verlato, a dedicated public servant with a rich background as a businesswoman, attorney, and community leader, is at the forefront of representing California’s vibrant and diverse 28th Congressional District.
+Home About Our District Issues Endorsements Media Kit Get Involved Menu Home About Our District Issues Endorsements Media Kit Get Involved CONTRIBUTE Home About Our District Issues Endorsements Media Kit Get Involved Contribute Menu Home About Our District Issues Endorsements Media Kit Get Involved Contribute About Meet April Verlato April Verlato, a dedicated public servant with a rich background as a businesswoman, attorney, and community leader, is at the forefront of representing California’s vibrant and diverse 28th Congressional District.
 Born and raised in Arcadia, where her roots run deep, April’s journey is one of resilience, dedication, and a steadfast commitment to public service and community development.
 April’s academic foundation was laid at the prestigious University of California, Los Angeles (UCLA), where she majored in Political Science, igniting her passion for governance and public policy.
 Her quest for knowledge and a desire to advocate for others led her to Southwestern School of Law, culminating in a distinguished law degree.
@@ -18,4 +17,6 @@ Her stance on national security, veterans’ affairs, and healthcare underscores
 April Verlato’s campaign is not just about an election; it’s about bringing hope, unity, and progress to the 28th Congressional District.
 With a proven track record of leadership, advocacy, and community service, April stands ready to represent her constituents in Congress, bringing about meaningful change and ensuring that their voices are heard and acted upon.
 Her journey is a testament to her resilience, dedication, and unwavering commitment to serving her community and the state of California.
-Paid for by Verlato for Congress FEC# C00858845
+Contact 33 E.
+Huntington Dr.
+Arcadia, CA 91006 [email protected] Facebook Twitter Icon-instagram-1 Quick Links Home About Issues Endorsements Get Involved Privacy Policy Paid for by Verlato for Congress FEC# C00858845

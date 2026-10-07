@@ -1,8 +1,8 @@
-Candidate Forum: Democratic Primary for Governor in Rutland
-This is a free ticketed event that requires registration at this page:
-Reserve Ticket Here
-The 2026 election campaigns have begun, and it’s time to meet the candidates!
+Home Amanda Platform Endorsements Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Campaign Stops Volunteer Opportunities Town Hall State Tour News Store Donate Home Amanda Platform Endorsements Get Involved Close Get Involved Open Get Involved Volunteer Opportunities Host an Event Canvass Phone Bank Endorse Amanda Download 1/4 Sheets Suggestion Box Request a Lawn Sign Events Close Events Open Events All Campaign Events Town Hall State Tour News Store Volunteer Opportunities favorite_border iCal Export Google Calendar Outlook 365 Outlook Live 15 Jun 05:30 PM Until 07:00 PM #h #m Candidate Forum: Democratic Primary for Governor in Rutland This is a free ticketed event that requires registration at this page: Reserve Ticket Here The 2026 election campaigns have begun, and it’s time to meet the candidates!
 One of the most exciting races this year will be the Governor’s race, with two candidates already filed to run in the Democratic primary.
 Come hear from candidates Amanda Janoo and Aly Richards on Monday, June 15th from 5:30pm to 7:00pm at the Rutland Free Library to hear their visions for the Governor role and where they stand on the issues.
 There will be questions from the sponsoring organizations and time for questions from the audience.
 This event is organized by Rutland Indivisible and uplifted with support from Lets Grow Kids Action Network, Planned Parenthood of Vermont Action Fund, Rights and Democracy, ACLU-VT, Vermont Conservation Voters, VPIRG, Vermont Chapter of Sierra Club, and Vermont-NEA.
+15 Jun Get Tickets Now Scan QR Code Age Group All Join the Movement When we protect what we love, our neighbors, our land, our democracy, we find not just resilience, but joy.
+Get Involved Donate Paid for by Amanda Janoo for Governor P.O.
+Box 119, Burlington, Vermont 05402 Privacy Policy

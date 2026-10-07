@@ -1,6 +1,6 @@
-Senator McKenney Endorses Bill Muto for State Rep.
-Dear Neighbor,
-I have spent many years at the State House, first as an advocate for Rhode Island businesses and our cities and towns, and now as your Senator.
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute All Posts Endorsements Senator McKenney Endorses Bill Muto for State Rep.
+Staff at Bill Muto for State Rep.
+Sep 2 3 min read Dear Neighbor, I have spent many years at the State House, first as an advocate for Rhode Island businesses and our cities and towns, and now as your Senator.
 In that time I have learned to tell fairly quickly which people are going to do the work that’s necessary to get things done.
 Bill Muto does the work.
 That’s why I’m asking you - in the Democratic Primary for District 23 State Representative on Wednesday, September 9 - please vote for Bill.
@@ -25,7 +25,7 @@ Here’s what I respect most: This is a man who has been willing to ask the ques
 Questions that ought to be asked.
 That need to be asked.
 Questions that make some folks uncomfortable at times.
-Not just going along to get along.
+Not just going along to get along .
 Instead, asking those questions – questions that often save taxpayers’ dollars.
 Bill didn’t pick up his work ethic in a corporate boardroom—it was built right here in Warwick.
 Raised in Buttonwoods in a family of eight, he learned early on the value of hard work and community.
@@ -43,8 +43,7 @@ Plenty of candidates make that promise.
 I have watched Bill keep that promise - long after the votes were counted - which isn’t always the case.
 So when I ask myself who is going to do the work in District 23, I keep landing on the same answer.
 I am proud to endorse Bill Muto, and I look forward to having him at the State House with me.
-Three things I’m asking of you, for the Democratic primary on Wednesday, September 9:
-1.
+Three things I’m asking of you, for the Democratic primary on Wednesday, September 9 : 1.
 Vote!
 On September 9 or – vote early!
 You can vote early in person at Warwick Police Station (I’ve already done that.
@@ -57,10 +56,10 @@ Talk to two neighbors.
 Warwick primaries might be decided by a handful of votes on a Wednesday in September.
 Two conversations at the mailbox are worth more than any mailer (this one included!).
 Bill is a close personal friend.
-More importantly, though, he’s exactly the person we want standing up for our community, knowing the numbers, and fighting for our priorities.
-And especially - asking those tough questions.
+More importantly, though, he’s exactly the person we want standing up for our community, knowing the numbers , and fighting for our priorities.
+And especially - asking those tough questions .
 Thank you for taking the time to read this.
 And for making your voice heard – by voting!
-With respect,
-Mark McKenney
-Rhode Island State Senator, District 30
+With respect, Mark McKenney Rhode Island State Senator, District 30 Endorsements Recent Posts See All Councilman Ladouceur Endorses Bill Muto for State Rep.
+Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

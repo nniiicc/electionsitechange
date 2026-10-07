@@ -1,12 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61580913577770",
-"https://rino-crat.com/",
-"https://rino-crat.com/articles",
-"https://rino-crat.com/calendar-of-events",
-"https://rino-crat.com/contact",
-"https://rino-crat.com/donate",
-"https://rino-crat.com/news",
-"https://rino-crat.com/privacy-policy",
-"https://rino-crat.com/thank-you-primary-voters-now-on-to-november",
-"https://rino-crat.com/volunteer"
+{
+"text": "Articles",
+"href": "https://rino-crat.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://rino-crat.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://rino-crat.com/calendar-of-events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580913577770"
+},
+{
+"text": "Get Involved",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://rino-crat.com/"
+},
+{
+"text": "News",
+"href": "https://rino-crat.com/news/"
+},
+{
+"text": "Read Our Privacy Policy",
+"href": "https://rino-crat.com/privacy-policy/"
+},
+{
+"text": "Thank You, Primary Voters — Now On to November",
+"href": "https://rino-crat.com/thank-you-primary-voters-now-on-to-november/"
+},
+{
+"text": "Volunteer",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://rino-crat.com"
+}
 ]

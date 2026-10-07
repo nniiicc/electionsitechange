@@ -1,21 +1,12 @@
-April 6, 2023 Delegate Robbyn Lewis joined Andrea Learned to talk about how improving transit is absolutely a social justice issue.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate Category: In the Media Living Change Podcast: Transit, Democracy, and Coalition Building April 6, 2023 Delegate Robbyn Lewis joined Andrea Learned to talk about how improving transit is absolutely a social justice issue.
 Delegate Lewis makes a great case for really understanding the tools of community engagement and coalition building.
 “You know, it’s all connected.
-Fixing public transit is one of the most powerful ways that we… Continue reading Living Change Podcast: Transit, Democracy, and Coalition Building
-Category: In the Media
-AFRO News: Women of color shine the Legislative Black Caucus of Maryland
-March 16, 2023 Delegate Robbyn Lewis is highlighted as one of the several Black women in the Maryland General Assembly who are making waves of change.
-“I don’t want to be the last Black Woman to represent my district. [I] hope to hire young women and train and lift them to be leaders.” Read the full article… Continue reading AFRO News: Women of color shine the Legislative Black Caucus of Maryland
-WYPR Interview on Red Line prospects
-February 21, 2023 Delegate Robbyn Lewis joined Jayne Miller, guest host for WYPR’s Midday show to talk transit.
+Fixing public transit is one of the most powerful ways that we… Continue reading Living Change Podcast: Transit, Democracy, and Coalition Building Published August 22, 2023 Categorized as Environment , In the Media , News , Safe Streets , Transportation Tagged News , Transit AFRO News: Women of color shine the Legislative Black Caucus of Maryland March 16, 2023 Delegate Robbyn Lewis is highlighted as one of the several Black women in the Maryland General Assembly who are making waves of change.
+“I don’t want to be the last Black Woman to represent my district. [I] hope to hire young women and train and lift them to be leaders.” Read the full article… Continue reading AFRO News: Women of color shine the Legislative Black Caucus of Maryland Published August 22, 2023 Categorized as In the Media , News Tagged News WYPR Interview on Red Line prospects February 21, 2023 Delegate Robbyn Lewis joined Jayne Miller, guest host for WYPR’s Midday show to talk transit.
 Topics include the history of the Red Line light rail project and the future of Baltimore’s transit system.
 Listen to the full interview here.
-Small-business health care: a win for owners, employees and the bottom line
-Read the op-ed in the Baltimore Sun by Sen.
+Published August 22, 2023 Categorized as In the Media , News , Transportation Tagged News , Transit Small-business health care: a win for owners, employees and the bottom line Read the op-ed in the Baltimore Sun by Sen.
 Katie Fry Hester, Del.
 Robbyn Lewis and Del.
 Brooke Lierman.
-MD lawmaker on how not owning a car has shaped her ideas on transportation policy
-The Washington Post, November 18, 2021
-Maryland needs to act boldly on climate change
-Read Robbyn’s guest commentary in Maryland Matters
+Published January 3, 2022 Categorized as Health Care , In the Media , News MD lawmaker on how not owning a car has shaped her ideas on transportation policy The Washington Post, November 18, 2021 Published November 18, 2021 Categorized as In the Media , News , Transportation Maryland needs to act boldly on climate change Read Robbyn’s guest commentary in Maryland Matters Published November 12, 2021 Categorized as Environment , In the Media , News @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

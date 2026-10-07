@@ -1,4 +1,4 @@
-| "Trumbull Police Union Endorses State Representative David Rutigliano” By The Men and Women of the Trumbull Police Union: The Trumbull Police Union, as an organization, has prided itself on remaining neutral in matters of politics.
+David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video Rutigliano endorsed by Trumbull Police union 9/29/2020 "Trumbull Police Union Endorses State Representative David Rutigliano” By The Men and Women of the Trumbull Police Union: The Trumbull Police Union, as an organization, has prided itself on remaining ​neutral in matters of politics.
 We have held this position because we, in good faith, have trusted elected officials on both sides of the aisle to pursue legislation that focuses on law & order, public safety, and supports victims of crime whom we serve & protect in our municipality.
 This year, we are breaking with the tradition of political neutrality.
 We are endorsing State Representative David Rutigliano of the 123rd House District in this year’s state elections.
@@ -14,4 +14,6 @@ Integrity is within the individual.
 Whether you are a Democrat, Republican or Independent, we believe the person we vote for should have integrity.
 Dave has proven to us his integrity to support law & order and public safety.
 The men and women of the Trumbull Police Union are proud to serve the citizens & visitors of the Town of Trumbull and will always stand up for our community.
-We humbly ask the public to support State Representative David Rutigliano. | |
+We humbly ask the public to support State Representative David Rutigliano.
+Comments are closed.
+Archives October 2026 September 2026 June 2026 May 2026 May 2025 August 2024 September 2020 May 2020 February 2020 June 2018 May 2018 April 2018 Categories All RSS Feed David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video

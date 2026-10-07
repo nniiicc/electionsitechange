@@ -1,11 +1,50 @@
 [
-"http://kenncollier.com/",
-"https://designedtorun.com/",
-"https://instagram.com/https://www.instagram.com/kennforgeorgia",
-"https://kenncollier.com/",
-"https://kenncollier.com/about",
-"https://kenncollier.com/contact",
-"https://kenncollier.com/donate",
-"https://kenncollier.com/priorities",
-"https://kenncollier.com/volunteer"
+{
+"text": "Community",
+"href": "https://kenncollier.com/donate"
+},
+{
+"text": "Contact",
+"href": "https://www.kenncollier.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.kenncollier.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.kenncollier.com/"
+},
+{
+"text": "KennCollier.com",
+"href": "http://kenncollier.com"
+},
+{
+"text": "Meet Kenn",
+"href": "https://www.kenncollier.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.kenncollier.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kenncollier.com/volunteer"
+},
+{
+"text": "[image: KENNFORGA logo]",
+"href": "https://www.kenncollier.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.kenncollier.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/https://www.instagram.com/kennforgeorgia"
+}
 ]

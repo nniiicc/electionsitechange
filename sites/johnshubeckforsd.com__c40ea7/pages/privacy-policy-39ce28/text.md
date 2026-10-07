@@ -1,31 +1,13 @@
-Policies
-Website Policies
-The John Shubeck for District 16 campaign is committed to transparency, integrity, and responsible stewardship in all aspects of public service, including how we operate online.
-This website exists to provide information about John Shubeck, his background, priorities, and campaign activities, as well as ways for community members to stay informed and engaged.
-We strive to communicate honestly, respect privacy, and maintain a site that is secure, accessible, and welcoming to all visitors.
-The following policies outline how this website is used, how information is handled, and the standards we aim to uphold.
-These policies may be updated periodically to reflect changes in law, technology, or campaign operations.
-If you have questions or concerns regarding these policies, we encourage you to reach out to the campaign.
-Privacy Policy
-The John Shubeck for District 16 campaign respects your privacy and is committed to protecting any personal information you choose to share.
-Information We Collect
-We may collect limited personal information, such as your name, email address, or mailing address, if you voluntarily provide it—for example, when signing up for campaign updates, submitting a contact form, or engaging with campaign communications.
-How Information Is Used
-- Information collected is used solely for campaign-related purposes, including:
-- Providing updates about the campaign
-- Sharing information about events or issues
-- Responding to questions or messages
-- Engaging supporters in civic participation
--
-We do not sell, rent, or trade personal information to third parties.
-Data Security
-We take reasonable measures to protect the information provided through this website.
+top of page Home Meet John On the Issues News Menu Back to site Get Involved Policies Website Policies The John Shubeck for District 16 campaign is committed to transparency, integrity, and responsible stewardship in all aspects of public service, including how we operate online. ​ This website exists to provide information about John Shubeck, his background, priorities, and campaign activities, as well as ways for community members to stay informed and engaged.
+We strive to communicate honestly, respect privacy, and maintain a site that is secure, accessible, and welcoming to all visitors. ​ The following policies outline how this website is used, how information is handled, and the standards we aim to uphold.
+These policies may be updated periodically to reflect changes in law, technology, or campaign operations. ​ If you have questions or concerns regarding these policies, we encourage you to reach out to the campaign.
+Privacy Policy The John Shubeck for District 16 campaign respects your privacy and is committed to protecting any personal information you choose to share.
+Information We Collect We may collect limited personal information, such as your name, email address, or mailing address, if you voluntarily provide it—for example, when signing up for campaign updates, submitting a contact form, or engaging with campaign communications.
+How Information Is Used Information collected is used solely for campaign-related purposes, including: Providing updates about the campaign Sharing information about events or issues Responding to questions or messages Engaging supporters in civic participation ​ We do not sell, rent, or trade personal information to third parties.
+Data Security We take reasonable measures to protect the information provided through this website.
 However, no online system can guarantee absolute security, and users provide information at their own discretion.
-Communications Policy
-By submitting your contact information, you may receive communications from the John Shubeck for District 16 campaign via email or other campaign-related channels.
+Communications Policy By submitting your contact information, you may receive communications from the John Shubeck for District 16 campaign via email or other campaign-related channels.
 You may opt out of communications at any time using the unsubscribe options provided.
-Accessibility Statement
-The John Shubeck for District 16 campaign is committed to ensuring that this website is accessible to all individuals, including people with disabilities.
-We strive to follow best practices for web accessibility and to make our content usable for everyone, including compatibility with assistive technologies such as screen readers, keyboard navigation, and alternative input devices.
-Accessibility is an ongoing effort, and we are continually working to improve the experience for all visitors.
-If you experience difficulty accessing any part of this website or encounter barriers to use, we encourage you to contact the campaign so we can address the issue promptly and respectfully.
+Accessibility Statement The John Shubeck for District 16 campaign is committed to ensuring that this website is accessible to all individuals, including people with disabilities. ​ We strive to follow best practices for web accessibility and to make our content usable for everyone, including compatibility with assistive technologies such as screen readers, keyboard navigation, and alternative input devices.
+Accessibility is an ongoing effort, and we are continually working to improve the experience for all visitors. ​ If you experience difficulty accessing any part of this website or encounter barriers to use, we encourage you to contact the campaign so we can address the issue promptly and respectfully.
+QUICK LINKS Home Meet John On the Issues Get Involved News Contact SOCIAL Facebook ​ CONTACT johnshubeckforsd@gmail.com 605-553-1094 ​ 29341 468th Ave Beresford, SD 57004 Paid for by John Shubeck for SD © # | Terms & Conditions | Privacy Policy | Accessibility Statement JOIN OUR NEWSLETTER First name Last name Email * Yes, subscribe me to your newsletter * Submit Home Meet John On the Issues News bottom of page

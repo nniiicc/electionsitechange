@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.deatrichforstaterep.com/vote",
- "paid_for_by": null,
+ "fingerprint": "956a7f28a9b10295a4ed5ff62bb1439044abc8a3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

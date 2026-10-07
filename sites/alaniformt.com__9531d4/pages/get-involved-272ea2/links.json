@@ -1,6 +1,18 @@
 [
-"https://alaniformt.com/events",
-"https://alaniformt.com/yard-sign",
-"https://alaniformt.com/{{ p.href }}",
-"https://docs.google.com/document/d/1w6pdEFn3vPzEcYEFgpS9AtWDWzBd-ns2B58QWYE8EDc/preview"
+{
+"text": "Open the full NDA →",
+"href": "https://docs.google.com/document/d/1w6pdEFn3vPzEcYEFgpS9AtWDWzBd-ns2B58QWYE8EDc/preview"
+},
+{
+"text": "Request a yard sign →",
+"href": "https://alaniformt.com/yard-sign"
+},
+{
+"text": "Upcoming events Meet Alani near you Meet & greets, canvass kickoffs, phone banks, and more. See what's coming up and RSVP. See the calendar →",
+"href": "https://alaniformt.com/events"
+},
+{
+"text": "{{ p.label }} {{ p.desc }}",
+"href": "https://alaniformt.com/%7B%7B%20p.href%20%7D%7D"
+}
 ]

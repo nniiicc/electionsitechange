@@ -1,4 +1,6 @@
-Colorado leads the way in crime
+Skip to content Ryan gonzalez DONATE NOW!
+Endorsements Gallery Colorado leads the way in crime Colorado’s crime rate is out of control.
+According to the Colorado Bureau of Investigation and the Federal Bureau of Investigation, Colorado’s crime rate exceeds both a nine-state region of neighboring states and the nation as a whole.
 Between 2012 and 2022, Colorado was the only state among its neighboring states to have an increase (21.60 percent) in crime.
 Kansas, Oklahoma, Texas, New Mexico, Arizona, Utah, Wyoming, Nebraska, and the US all went down by as much as 37 percent!
 We are 56 percent higher than the national average.
@@ -16,3 +18,9 @@ At the same time, car insurance companies like Progressive stopped issuing new a
 They have also decreased penalties and bond conditions for suspects accused of various crimes and allowed for the early release of many already convicted.
 It’s time for this to stop.
 I promise I will work with my colleagues to tighten up on crime in Colorado and give law enforcement the tools they need to keep Colorado safe.
+Ryan gonzalez Gonzalez moved into House District 50 as a young child and has never left.
+Representing House District 50 is not a job or a career, it’s an honor and a privilege.
+My Home!
+My Neighbors!
+My Passion!
+Facebook Twitter YouTube Flickr Mail a donation Request appearance PO Box 324 Fort Lupton Co 80621 970-673-2194 Gonzalez For 50 PLATFORM ECONOMY EDUCATION LAW AND ORDER ENERGY INDEPENDENCE Contact Us Paid for by Gonzalez For House District 50; Marge Klein, Registered Agent Privacy Policy English English

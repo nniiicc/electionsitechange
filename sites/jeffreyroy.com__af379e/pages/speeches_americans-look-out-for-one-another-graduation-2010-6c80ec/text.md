@@ -1,7 +1,7 @@
-Fellow school committee members, Ms.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Americans look out for one another – graduation 2010 Fellow school committee members, Ms.
 Sabolinski, Mr.
-Light, members of the faculty, graduates, parents, and honored guests:
-Welcome, congratulations, and greetings.
+Light, members of the faculty, graduates, parents, and honored guests: Welcome, congratulations, and greetings.
 Thank you all for your continued commitment to, faith in, and support for, the public school system in this town.
 And thank you to the administration, faculty and staff of Franklin High for making it all work so well.
 We are blessed with so many dedicated and talented professionals in this system, and we are happy to have this opportunity to publicly say thank you.
@@ -55,3 +55,15 @@ Throughout your time here in Franklin, you have given to the community in many w
 In that spirit, always remember where you came from, and the people who have touched your life.
 You will find it helpful in making your decisions about where to go next.
 Good luck class of 2010 and keep in touch.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+2 Responses to Americans look out for one another – graduation 2010 Bob Amrich says: September 14, 2020 at 9:12 am Hello Jeff.
+Great message then and now.
+Loved the stick analogy.
+Hope to see you at the Prospect St tunnel opening.
+Sincerely, VP of Persistence Reply Jeff Roy says: September 14, 2020 at 9:20 am Bob, Thanks for your note.
+I look forward to seeing to at the opening.And thank you for your persistence.
+Jeff Reply Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

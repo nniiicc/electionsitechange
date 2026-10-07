@@ -1,15 +1,7 @@
-KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN
-ENDORSED BY:
-Honoring Our Veterans: Join Us for a Patriotic Community Event in Darby
-Sat, Apr 11
-|106 Main St
-This special gathering is centered around one simple but powerful mission:to recognize and thank our veterans for their sacrifice, courage, and commitment to our freedoms.
-Time & Location
-Apr 11, 2026, 2:00 PM – 6:00 PM
-106 Main St, 106 Main St, Darby, MT 59829, USA
-About the event
-There are moments when a community comes together not for politics, but for purpose.
+top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT DONATE ENDORSED BY: Endorsed by: Montanans for Limited Government, Montana Conservative Alliance, Montana Freedom Caucus PAC, and the Americans for Prosperity- Montana Honoring Our Veterans: Join Us for a Patriotic Community Event in Darby Sat, Apr 11 | 106 Main St This special gathering is centered around one simple but powerful mission:to recognize and thank our veterans for their sacrifice, courage, and commitment to our freedoms.
+Registration is closed See other events Time & Location Apr 11, 2026, 2:00 PM – 6:00 PM 106 Main St, 106 Main St, Darby, MT 59829, USA About the event There are moments when a community comes together not for politics, but for purpose.
 On Saturday, April 11, 2026, we invite you, your family, and especially our youth to join us in Darby, Montana for a heartfelt event dedicated to honoring the men and women who have served our country.
-A Time to Honor, Remember, and Connect
-This special gathering is centered around one simple but powerful mission:to recognize and thank our veterans for their sacrifice, courage, and commitment to our freedoms.
+A Time to Honor, Remember, and Connect This special gathering is centered around one simple but powerful mission:to recognize and thank our veterans for their sacrifice, courage, and commitment to our freedoms.
 Representing all branches of the military, Army, Navy, Air Force, Marines, and Coast Guard, we will take time to reflect on the service that has shaped our nation and protected our way of life.
+Featured Guests & Speakers Show More Share this event Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

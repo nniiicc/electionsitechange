@@ -1,5 +1,4 @@
-Democracy Requires Disruptors
-Democracy in Tennessee is in crisis as the Republican supermajority seeks to silence dissent and cutoff debate.
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate Democracy Requires Disruptors Democracy in Tennessee is in crisis as the Republican supermajority seeks to silence dissent and cutoff debate.
 Instead of engaging in dialogue and honest conversation, House Republicans would rather abuse their power and throw mothers, clergy, and students out of the gallery, and ignore the cries of people begging for change.
 Democracy requires disruptors, and now more than ever, we need fighters to stop the rise of authoritarianism.
 Justin’s work in defending democracy in Tennessee and ensuring equitable access to the voting booth started long before he entered the legislature.
@@ -15,3 +14,4 @@ In his fight for accountability, Justin is also in an active lawsuit against Spe
 Justin has further fought against laws that erode not only Tennesseans’ voting rights, but their First Amendment rights to nonviolent protests and free expression.
 His commitment to democracy comes as Tennessee dangerously backslides into authoritarian rule under a Republican trifecta, and dual supermajorities in both legislative chambers.
 Now more than ever, securing our democracy and refusing to allow the continued destruction of democratic norms is vital, and we need unapologetic leaders who are willing to take on these authoritarian forces head on.
+Explore other issues Healthcare for All Environmental Justice Challenging Corporate Greed Farming is the Future Immigrant and Refugee Justice Protect Kids, Not Guns Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

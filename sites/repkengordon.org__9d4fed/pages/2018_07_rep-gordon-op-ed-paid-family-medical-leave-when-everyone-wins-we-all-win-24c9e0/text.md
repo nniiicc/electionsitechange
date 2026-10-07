@@ -1,11 +1,13 @@
-When Governor Charlie Baker signed Paid Family & Medical Leave into law last week – based upon a program that I helped write that was included in a bill that I filed in the House – he introduced a program that will improve the life of every working family in Massachusetts.
+Get Involved/Donate Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Rep.
+Gordon OP ED: Paid Family & Medical Leave: When Everyone Wins, We all Win Rep.
+Gordon OP ED: Paid Family & Medical Leave: When Everyone Wins, We all Win July 2, 2018 repkengordon2016 Uncategorized Comments are Closed When Governor Charlie Baker signed Paid Family & Medical Leave into law last week – based upon a program that I helped write that was included in a bill that I filed in the House – he introduced a program that will improve the life of every working family in Massachusetts.
 But just as important, it will provide valuable assistance to small and medium-sized business as well.
 We all know why a worker would welcome the opportunity to spend 12 weeks with a newborn or newly adopted child, without worrying about how they will pay the rent.
 Our imaginations don’t have to stray too far to guess why a worker confined to a hospital recovering from a heart attack, stroke or effects of surgery would welcome 20 weeks of paid leave.
 Or why a worker would treasure the opportunity to have the time to console a hospitalized child, spouse or aging parent without the stress of bills going unpaid.
 But this program has also been well received by small business, at least once owners and managers give it a chance.
 A 2015 study of 223 Rhode Island small and medium-sized businesses found that 61 percent were favorable or very favorable to the program two years after it was introduced.
-A 2017 study of 1,210 small and mid-sized businesses in New Jerseyfound that 63 percent were favorable or very favorable to it.
+A 2017 study of 1,210 small and mid-sized businesses in New Jersey found that 63 percent were favorable or very favorable to it.
 Professor Jane Waldfogel’s 2017 study was consistent with a California survey that found that the vast majority of businesses reported the program had a minimal negative impact on their business.
 The purpose of this blog is to demystify the program and explain why, and how, public policy can be used to create winners without leaving anyone behind.
 I am proud and humbled to have done my part to bring this program to the 3.1 million workers of the Commonwealth.
@@ -86,4 +88,9 @@ Well, it’s a separate issue from PFML, but it was adopted in the same bill.
 Massachusetts will raise its minimum wage to $15 an hour over the next five years.
 It will also raise the wage earned by tipped workers.
 At the same time, the time-and-a-half paid to retail employees who work Sundays and some holidays will be eliminated.
-Here’s a chart that shows the timing:
+Here’s a chart that shows the timing: Read Article on The Bedford Citizen Prev Next Recent Posts Rep.
+Ken Gordon Seeking Interns for Summer 2026 Marcelo Gomes Da Silva and The Burlington ICE Facility Rep.
+Ken Gordon Seeks Summer 2025 State House Interns Rep.
+Ken Gordon Seeks Summer 2024 State House Interns Massachusetts Legislature’s FY24 Budget includes Rep.
+Ken Gordon’s priority legislation and funding for Bedford and Burlington Archives March 2026 June 2025 February 2025 February 2024 August 2023 May 2023 March 2023 November 2022 September 2022 August 2022 July 2022 April 2022 March 2022 December 2021 November 2021 August 2021 July 2021 June 2021 May 2021 March 2021 February 2021 January 2021 December 2020 November 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 April 2019 March 2019 February 2019 January 2019 November 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 October 2017 March 2017 October 2016 September 2016 July 2016 June 2016 Categories Community Traffic Control Uncategorized Paid for by the Committee to (re) Elect Ken Gordon ©# × × How much would you like to donate?
+Donate Now

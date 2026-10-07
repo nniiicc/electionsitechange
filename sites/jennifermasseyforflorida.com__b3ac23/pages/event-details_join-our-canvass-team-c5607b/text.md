@@ -1,10 +1,4 @@
-HOME
-Fri, Sep 18
-St.
-Lucie County
-Sign up for dates: https://www.mobilize.us/jennifermasseyforfloridahouse84/
-Sep 18, 2026, 4:00 PM – Nov 03, 2026, 7:00 PM
-St.
+top of page HOME DONATE VOLUNTEER ABOUT Fri, Sep 18 | St.
+Lucie County Join our Canvass Team Sign up for dates: https://www.mobilize.us/jennifermasseyforfloridahouse84/ RSVP Time & Location Sep 18, 2026, 4:00 PM – Nov 03, 2026, 7:00 PM St.
 Lucie County, St.
-Lucie County, FL, USA
-ALEN BLANCO HARNANDEZ 2035
+Lucie County, FL, USA RSVP Share this event INSTAGRAM FACEBOOK TIKTOK PO BOX 880982 Port St Lucie, FL.34988 ​ ​ PRIVACY POLICY PAID FOR BY JENNIFER MASSEYFOR FLORIDA, DEMOCRAT, FOR HOUSE DISTRICT 84 HOME EVENTS ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

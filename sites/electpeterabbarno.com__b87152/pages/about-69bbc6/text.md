@@ -1,5 +1,6 @@
-About Peter
-Peter Abbarno is a small business owner and attorney with Althauser Rayan Abbarno, LLP, Representative for the Washington State 20th legislative district; but most importantly, Peter is a husband and father.
+Stronger Families.
+Stronger Communities.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow About Peter Peter Abbarno is a small business owner and attorney with Althauser Rayan Abbarno, LLP, Representative for the Washington State 20th legislative district; but most importantly, Peter is a husband and father.
 Peter lives in Centralia with his wife Holly (Hawes), a math teacher at Centralia Middle School, and their two children.
 In 2020, Peter ran for State Representative in the 20th Legislative District to fill a vacancy by long-time legislator Richard DeBolt and won the seat with over 71% of the vote.
 Peter serves at the Assistant Ranking Member on the House Capital Budget Committee, and serves on the Environment and Energy Committee and Civil Rights and Judiciary Committee.
@@ -25,3 +26,5 @@ Peter is a board member and past president of the Centralia College Foundation, 
 (Dads of Great Students)in Centralia, Miss Lewis County Scholarship Program, United Way of Lewis County, and the Hub City Mission, and also served as a Mentor at WF West High School in Chehalis and as a Mentor for the Morton High School Mock Trial Team.
 The Abbarno family attends Bethel Church in Chehalis and are active in their church and with the Hub City Mission.
 Peter and his wife Holly have coached many local sport teams and they started and still help coordinate the Centralia School Supply Drive to support families and students in the Centralia School District.
+Stay up to date on the lastest news from Olympia.
+Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

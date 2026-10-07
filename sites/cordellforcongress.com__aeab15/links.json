@@ -1,13 +1,86 @@
 [
-"http://instagram.com/cordellcongress",
-"https://cordellforcongress.com/",
-"https://cordellforcongress.com/about",
-"https://cordellforcongress.com/news",
-"https://cordellforcongress.com/platform",
-"https://cordellforcongress.com/privacy-policy",
-"https://cordellforcongress.com/support",
-"https://facebook.com/MistiCordellForCongress",
-"https://secure.anedot.com/cordell-for-congress/donatenow",
-"https://sos.la.gov/elections-voting",
-"https://vimeo.com/cordellforcongress"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/cordell-for-congress/donatenow"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/cordell-for-congress/donatenow"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/cordell-for-congress/donatenow"
+},
+{
+"text": "About",
+"href": "https://www.cordellforcongress.com/about"
+},
+{
+"text": "Button",
+"href": "https://www.cordellforcongress.com/platform"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cordell-for-congress/donatenow"
+},
+{
+"text": "Home",
+"href": "https://www.cordellforcongress.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.cordellforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://www.cordellforcongress.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/cordell-for-congress/donatenow"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.cordellforcongress.com/privacy-policy"
+},
+{
+"text": "Platform",
+"href": "https://www.cordellforcongress.com/platform"
+},
+{
+"text": "Support",
+"href": "https://www.cordellforcongress.com/support"
+},
+{
+"text": "VIEW ALL",
+"href": "https://www.cordellforcongress.com/platform"
+},
+{
+"text": "[image]",
+"href": "https://www.cordellforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.cordellforcongress.com/platform"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/cordellcongress"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/cordellforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MistiCordellForCongress"
+},
+{
+"text": "click here",
+"href": "https://www.sos.la.gov/elections-voting"
+},
+{
+"text": "https://www.cordellforcongress.com/privacy-policy",
+"href": "https://www.cordellforcongress.com/privacy-policy"
+}
 ]

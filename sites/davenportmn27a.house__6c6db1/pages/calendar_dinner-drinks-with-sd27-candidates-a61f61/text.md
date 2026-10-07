@@ -1,15 +1,5 @@
-Back to All Events
-Join SD27 DFL candidates Brandon Van Dover (Senate 27), Vanessa Davenport (27A), and Charles McConaughay (27B) for dinner and drinks.
-FB Event Page
-This will be a social event and a chance to get to know your candidates, ask questions, and give feedback on what's important to you, as our potential constituents.
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Dinner & Drinks with SD27 Candidates Thursday, July 23, 2026 6:00 PM 8:00 PM Google Calendar ICS Join SD27 DFL candidates Brandon Van Dover (Senate 27), Vanessa Davenport (27A), and Charles McConaughay (27B) for dinner and drinks.
+FB Event Page This will be a social event and a chance to get to know your candidates, ask questions, and give feedback on what's important to you, as our potential constituents.
 Food and drinks will be available for purchase at the restaurant.
-Location: Chapala's Mexican Restaurant in Princeton
-Time: 6:00–8:00 PM
-Candidates: Charles McConaughay (House 27B) and Brandon Van Dover (Senate 27).
-Previous
-Previous
-July 22
-Orrock Door Knocking
-Next
-Next
-July 29
+Location: Chapala's Mexican Restaurant in Princeton Time: 6:00–8:00 PM Candidates: Charles McConaughay (House 27B) and Brandon Van Dover (Senate 27).
+Previous Previous July 22 Orrock Door Knocking Next Next July 29 Haven Twp Door Knocking Paid for by Davenport for Minnesota House 27A

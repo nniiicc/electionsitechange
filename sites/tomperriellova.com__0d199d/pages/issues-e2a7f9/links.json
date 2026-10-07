@@ -1,29 +1,118 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/TomPerriello",
-"https://instagram.com/TomPerrielloForCongress",
-"https://secure.actblue.com/donate/tp4cwebsite",
-"https://tomperriello.com/",
-"https://tomperriello.com/about",
-"https://tomperriello.com/ai",
-"https://tomperriello.com/block-valley-link",
-"https://tomperriello.com/child-safety",
-"https://tomperriello.com/childcare-and-education",
-"https://tomperriello.com/contact",
-"https://tomperriello.com/corruption",
-"https://tomperriello.com/farmers",
-"https://tomperriello.com/foreign-policy",
-"https://tomperriello.com/freedoms",
-"https://tomperriello.com/healthcare",
-"https://tomperriello.com/housing",
-"https://tomperriello.com/issue-veterans",
-"https://tomperriello.com/jobs",
-"https://tomperriello.com/media-kit",
-"https://tomperriello.com/privacy-policy",
-"https://tomperriello.com/rural-communities",
-"https://tomperriello.com/seniors",
-"https://tomperriello.com/students",
-"https://tomperriello.com/terms-conditions",
-"https://tomperriello.com/voting-rights",
-"https://x.com/TomPerriello"
+{
+"text": "About",
+"href": "https://www.tomperriello.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tomperriello.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "Home",
+"href": "https://www.tomperriello.com/"
+},
+{
+"text": "Media Kit",
+"href": "https://www.tomperriello.com/media-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tomperriello.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Students",
+"href": "https://www.tomperriello.com/students"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.tomperriello.com/terms-conditions"
+},
+{
+"text": "[image: AI]",
+"href": "https://www.tomperriello.com/ai"
+},
+{
+"text": "[image: Child Safety]",
+"href": "https://www.tomperriello.com/child-safety"
+},
+{
+"text": "[image: Childcare & Education]",
+"href": "https://www.tomperriello.com/childcare-and-education"
+},
+{
+"text": "[image: Corruption]",
+"href": "https://www.tomperriello.com/corruption"
+},
+{
+"text": "[image: Farmers for Tom]",
+"href": "https://www.tomperriello.com/farmers"
+},
+{
+"text": "[image: Foreign Policy]",
+"href": "https://www.tomperriello.com/foreign-policy"
+},
+{
+"text": "[image: Freedoms]",
+"href": "https://www.tomperriello.com/freedoms"
+},
+{
+"text": "[image: Healthcare]",
+"href": "https://www.tomperriello.com/healthcare"
+},
+{
+"text": "[image: Housing]",
+"href": "https://www.tomperriello.com/housing"
+},
+{
+"text": "[image: Jobs]",
+"href": "https://www.tomperriello.com/jobs"
+},
+{
+"text": "[image: Rural Communities]",
+"href": "https://www.tomperriello.com/rural-communities"
+},
+{
+"text": "[image: Seniors]",
+"href": "https://www.tomperriello.com/seniors"
+},
+{
+"text": "[image: Valley Link]",
+"href": "https://www.tomperriello.com/block-valley-link"
+},
+{
+"text": "[image: Veterans]",
+"href": "https://www.tomperriello.com/issue-veterans"
+},
+{
+"text": "[image: Voting Rights]",
+"href": "https://www.tomperriello.com/voting-rights"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TomPerriello"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/TomPerrielloForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TomPerriello"
+},
+{
+"text": "info@tomperriello.com",
+"href": "mailto:info@tomperriello.com"
+},
+{
+"text": "press@tomperriello.com",
+"href": "mailto:press@tomperriello.com"
+}
 ]

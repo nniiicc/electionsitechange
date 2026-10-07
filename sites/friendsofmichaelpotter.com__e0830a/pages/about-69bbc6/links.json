@@ -1,9 +1,38 @@
 [
-"https://blythepotter.com/",
-"https://facebook.com/profile.php?id=61556130933438",
-"https://friendsofmichaelpotter.com/",
-"https://friendsofmichaelpotter.com/info",
-"https://instagram.com/friendsofmichaelpotter",
-"https://secure.actblue.com/donate/friendsofmichaelpotter-1",
-"https://tiktok.com/@friendsofmichaelpotter"
+{
+"text": "Blythe",
+"href": "https://blythepotter.com/"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.actblue.com/donate/friendsofmichaelpotter-1"
+},
+{
+"text": "Michael Potter",
+"href": "https://friendsofmichaelpotter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556130933438"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/friendsofmichaelpotter"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@friendsofmichaelpotter"
+},
+{
+"text": "email me",
+"href": "mailto:friendsofmichaelpotter@gmail.com"
+},
+{
+"text": "home",
+"href": "https://friendsofmichaelpotter.com/"
+},
+{
+"text": "info",
+"href": "https://friendsofmichaelpotter.com/info"
+}
 ]

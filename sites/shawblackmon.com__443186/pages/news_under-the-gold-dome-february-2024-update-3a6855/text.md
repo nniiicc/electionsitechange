@@ -1,4 +1,5 @@
-This week, the House focused on passing key bills and advancing committee work.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+News / Under the Gold Dome: February 2024 Update 6 Feb Tuesday, 11:24 AM · 2024 Under the Gold Dome: February 2024 Update This week, the House focused on passing key bills and advancing committee work.
 Highlights include the passage of the House’s version of the Amended Fiscal Year 2024 budget (AFY 2024) and the convening of a joint legislative session for the State of the Judiciary address.
 The AFY 2024 budget, represented by House Bill 915, is set at approximately $37.5 billion and includes $2 billion in surplus funds.
 The budget prioritizes investments in technology, capital improvements, safety and security initiatives, economic development projects, and human capital enhancements.
@@ -12,3 +13,5 @@ Finally, this week the House passed Resolution 1019 to support increased securit
 We remain committed to addressing key issues facing the state, including education, economic development, transportation, tax relief, and public health.
 As we continue working on the state budget, education improvements and other important policies, please stay tuned for legislative news and announcements.
 We will be working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective laws.We hope you will take the opportunity to review updates like this throughout the session and reach out should you have any questions, concerns or feedback.
+Helpful Resources and Links: Georgia General Assembly House of Representatives House Study Committee Reports House Standing Committees House Video Live Stream Search Legislation House Meeting Notices View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

@@ -1,5 +1,4 @@
-top of page
-PAID FOR BY TONYA FLETCHER FOR STATE REPRESENTATIVE
-Your data will not be sold and will not be used for lead generation or affiliate marketing.
+top of page DONATE Home About Contact More Use tab to navigate through the menu items.
+PAID FOR BY TONYA FLETCHER FOR STATE REPRESENTATIVE Your data will not be sold and will not be used for lead generation or affiliate marketing.
 See our complete Privacy Policy.
-bottom of page
+Join The Team! bottom of page

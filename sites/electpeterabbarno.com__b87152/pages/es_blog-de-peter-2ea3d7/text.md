@@ -1,42 +1,22 @@
-Blog de Peter
-Se va a modernizar el edificio de Salud Pública del condado de Lewis
-En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
-Pronto la tendrá gracias a una asignación directa de 1,5 millones de dólares del presupuesto de capital suplementario...
-Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington
-Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
-Puede significar un hogar más calentito en invierno, facturas mensuales más bajas, poder hacer...
-Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales
-Las granjas, los bosques, los ríos y las tierras de cultivo de Washington son parte de lo que hace que nuestro estado sea especial.
-Además, generan miles de puestos de trabajo, producen alimentos y madera, protegen los hábitats y la calidad del agua, y sostienen a las...
-Vota pronto.
+Familias más fuertes.
+Comunidades más fuertes.
+Un Washington más fuerte Sobre Peter Cuestiones Artículos de interés LEGISLATURE VOTER INFO Blog de Peter DONATE Seguir Seguir Seguir Blog de Peter Se va a modernizar el edificio de Salud Pública del condado de Lewis En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
+Pronto la tendrá gracias a una asignación directa de 1,5 millones de dólares del presupuesto de capital suplementario... leer más Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
+Puede significar un hogar más calentito en invierno, facturas mensuales más bajas, poder hacer... leer más Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales Las granjas, los bosques, los ríos y las tierras de cultivo de Washington son parte de lo que hace que nuestro estado sea especial.
+Además, generan miles de puestos de trabajo, producen alimentos y madera, protegen los hábitats y la calidad del agua, y sostienen a las... leer más Vota pronto.
 Vota con orgullo.
 Ayuda a construir un Washington más fuerte.
 Todas las elecciones son importantes, pero las elecciones primarias de 2026 son especialmente importantes para el futuro de nuestras comunidades y de nuestro estado.
 Las decisiones que tomemos hoy ayudan a marcar el rumbo que tomará Washington mañana.
-Si queremos......
-Mantengamos los bosques en funcionamiento por el bien del condado de Lewis
-En la Cámara de Comercio de Centralia-Chehalis, por el diputado Peter Abbarno En el condado de Lewis, nuestros bosques son mucho más que un simple paisaje.
-Son la piedra angular de nuestra economía, una fuente de empleos con un sueldo que permite mantener a una...
-Una infraestructura energética fiable impulsa el futuro de Washington
-La puesta en servicio de la nueva subestación del Distrito de Servicios Públicos del Condado de Lewis, cerca de Winlock, es más que un hito para el sur del condado de Lewis.
-Es un ejemplo del tipo de inversiones en infraestructuras a largo plazo que Washington debe...
-Abbarno recibe un amplio abanico de apoyos para su reelección
-Una de las responsabilidades más importantes de un cargo electo es unir a la gente para resolver problemas.
+Si queremos...... leer más Mantengamos los bosques en funcionamiento por el bien del condado de Lewis En la Cámara de Comercio de Centralia-Chehalis, por el diputado Peter Abbarno En el condado de Lewis, nuestros bosques son mucho más que un simple paisaje.
+Son la piedra angular de nuestra economía, una fuente de empleos con un sueldo que permite mantener a una... leer más Una infraestructura energética fiable impulsa el futuro de Washington La puesta en servicio de la nueva subestación del Distrito de Servicios Públicos del Condado de Lewis, cerca de Winlock, es más que un hito para el sur del condado de Lewis.
+Es un ejemplo del tipo de inversiones en infraestructuras a largo plazo que Washington debe... leer más Abbarno recibe un amplio abanico de apoyos para su reelección Una de las responsabilidades más importantes de un cargo electo es unir a la gente para resolver problemas.
 En el clima político tan polarizado de hoy en día, eso puede resultar difícil.
-Con demasiada frecuencia, los debates sobre políticas públicas se plantean como...
-Mes de concienciación sobre el TEPT: reconocer las heridas invisibles
-Junio es el Mes de la Concienciación sobre el TEPT, un momento para reconocer el impacto del trastorno por estrés postraumático (TEPT), apoyar a las personas afectadas y fomentar el acceso al tratamiento y la recuperación.
-Como abogado de Althauser Rayan Abbarno y...
-Peter Abbarno Regala lectura en el Día del Padre
-Junio es un mes especial para las familias.
-Al celebrar el Día del Padre y reconocer el papel que desempeñan los padres, abuelos, padrastros y modelos masculinos positivos en la formación de la próxima generación, también es un recordatorio importante de una de las...
-El diputado Abbarno pronuncia el discurso de bienvenida al Consejo de Construcción y Oficios del Estado de Washington
-Esta semana he tenido el placer de pronunciar el discurso de apertura de la convención del Washington State Building and Construction Trades Council en Ridgefield, en ilani, y dar la bienvenida a cientos de trabajadores cualificados, afiliados e invitados de todo el...
-El diputado Abbarno se reúne con un Eagle Scout
-Fue un gran placer conocer a Gunnar.
+Con demasiada frecuencia, los debates sobre políticas públicas se plantean como... leer más Mes de concienciación sobre el TEPT: reconocer las heridas invisibles Junio es el Mes de la Concienciación sobre el TEPT, un momento para reconocer el impacto del trastorno por estrés postraumático (TEPT), apoyar a las personas afectadas y fomentar el acceso al tratamiento y la recuperación.
+Como abogado de Althauser Rayan Abbarno y... leer más Peter Abbarno Regala lectura en el Día del Padre Junio es un mes especial para las familias.
+Al celebrar el Día del Padre y reconocer el papel que desempeñan los padres, abuelos, padrastros y modelos masculinos positivos en la formación de la próxima generación, también es un recordatorio importante de una de las... leer más El diputado Abbarno pronuncia el discurso de bienvenida al Consejo de Construcción y Oficios del Estado de Washington Esta semana he tenido el placer de pronunciar el discurso de apertura de la convención del Washington State Building and Construction Trades Council en Ridgefield, en ilani, y dar la bienvenida a cientos de trabajadores cualificados, afiliados e invitados de todo el... leer más El diputado Abbarno se reúne con un Eagle Scout Fue un gran placer conocer a Gunnar.
 Su insignia de mérito de Águila requería que realizara una entrevista con su representante estatal, y me alegré mucho de tener ese honor.
 Estos momentos y conversaciones crean recuerdos duraderos.
-Mi parte favorita de ser...
-El diputado Abbarno se reúne con el Vicegobernador Rodgers de Vermont
-Fue estupendo reunirse y debatir "en su día" con el Vicegobernador de Vermont , John Rodgers, en la Conferencia Cascada 2026.
-Tengo muchas conexiones con el Estado de las Montañas Verdes, ya que fui Director Ejecutivo del Partido Republicano de Vermont (2000-01) y me...
+Mi parte favorita de ser... leer más El diputado Abbarno se reúne con el Vicegobernador Rodgers de Vermont Fue estupendo reunirse y debatir "en su día" con el Vicegobernador de Vermont , John Rodgers, en la Conferencia Cascada 2026.
+Tengo muchas conexiones con el Estado de las Montañas Verdes, ya que fui Director Ejecutivo del Partido Republicano de Vermont (2000-01) y me... leer más « Entradas más antiguas Mantente al día de las últimas noticias de Olimpia.
+Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

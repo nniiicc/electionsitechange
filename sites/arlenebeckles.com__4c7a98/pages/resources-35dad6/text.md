@@ -1,25 +1,6 @@
-Provides health and dental care at two locations in Norcross.
-Good Samaritan – West
-5949 Buford Hwy
-Norcross, GA
-678-280-6630
-Good Samaritan – East
-1175 Commercial Court
-Norcross, GA
-770-806-0162
-CPACS Cosmo provides medical, dental, and behavioral health care services.
-CPACS
-6185 Buford Highway
-Peachtree Corners, GA
-GNR Public Health
-Norcross Health Center
-5030 Georgia Belle Court
-Norcross, GA
-770-638-5700
-500 Pinnacle Court – Suite 510
-Norcross, GA
-770-263-0013
-678-892-6160
-5360 Old Norcross Road
-Norcross, GA
-678-421-0894
+top of page ABOUT PLATFORM EVENTS OUTREACH ENDORSEMENTS VOLUNTEER VOTING RESOURCES CONTACT DONATE Resources HEALTH AND SERVICES Good Samaritan Provides health and dental care at two locations in Norcross.
+Good Samaritan – West 5949 Buford Hwy Norcross, GA 678-280-6630 Good Samaritan – East 1175 Commercial Court Norcross, GA 770-806-0162 Click Here Gwinnett Coalition Click Here CPACS Cosmo Health Center CPACS Cosmo provides medical, dental, and behavioral health care services.
+CPACS 6185 Buford Highway Peachtree Corners, GA Click Here GNR Public Health Norcross Health Center 5030 Georgia Belle Court Norcross, GA 770-638-5700 Click Here MINISTRIES Neighborhood Cooperative Ministries 500 Pinnacle Court – Suite 510 Norcross, GA 770-263-0013 Click Here Fully Furnished Ministries Click Here St.
+Vincent de Paul 678-892-6160 Click Here YOUTH A Worley Brown Boys & Girls Club 5360 Old Norcross Road Norcross, GA 678-421-0894 Click Here EMPLOYMENT Goodwill of North Georgia – Career Centers Click Here WorkSource Georgia Click Here EMAIL: BecklesDistrict96@gmail.com PHONE: 404-781-9330 Privacy Policy © # by Committee to Elect Dr.
+Arlene Beckles | Re-elect Dr.
+Arlene Beckles | Georgia State House District 96 DONATE ABOUT PLATFORM EVENTS OUTREACH ENDORSEMENTS VOLUNTEER VOTING RESOURCES CONTACT DONATE bottom of page

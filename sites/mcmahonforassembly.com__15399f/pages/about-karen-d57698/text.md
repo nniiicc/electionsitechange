@@ -1,10 +1,5 @@
-About Karen
-Why She's Running
-I’m running for re-election in the 146th AD because I believe the residents of Amherst and Williamsville deserve a state representative who is a tireless advocate for their District.
-I am constantly working to bring state dollars to projects that will improve our quality of life and advocate for policies that will keep our communities healthy, prosperous, and fair.
-Her Story
-I WAS BORN IN BUFFALO, NEW YORK…
-and am a product of the city’s immigrant, working-class traditions.
+Home About Karen The Issues Endorsements Get Involved Three Ways to Vote Contact Us Donate Home About Karen The Issues Endorsements Get Involved Three Ways to Vote Contact Us Donate About Karen Why She's Running I’m running for re-election in the 146th AD because I believe the residents of Amherst and Williamsville deserve a state representative who is a tireless advocate for their District.
+I am constantly working to bring state dollars to projects that will improve our quality of life and advocate for policies that will keep our communities healthy, prosperous, and fair. “ Fight for the things that you care about, but do it in a way that will lead others to join you. ” — Ruth Bader Ginsburg, Justice of the Supreme Court of the United States Her Story I WAS BORN IN BUFFALO, NEW YORK… and am a product of the city’s immigrant, working-class traditions.
 I was raised in Amherst in a modest, middle-class household, the eldest of five children.
 My father was a guidance counselor at a public high school and my mother was a homemaker.
 I attended Catholic elementary school at a time when the nuns were trading in their habits and veils for street clothes and becoming advocates for social justice.
@@ -19,3 +14,4 @@ In 2018, I ran for State Assembly in the 146th District because I wanted to be a
 I also believe that state government provides New Yorkers with rights and protections that are increasingly threatened at the federal level.
 As your Assemblymember, I have advocated for access to affordable education and health care, supported many initiatives that will protect our environment and combat the effects of climate change, and have fought to safeguard the interests of women, minorities, and under-represented people.
 It is a great honor to be your voice in Albany.
+Back to Top 716.348.3468 Info@McMahonForNYS.com Authorized and Paid for by Friends of Karen McMahon

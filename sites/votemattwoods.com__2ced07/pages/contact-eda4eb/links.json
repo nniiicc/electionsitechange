@@ -1,14 +1,54 @@
 [
-"http://pushdigital.com/",
-"https://facebook.com/VoteMattWoods",
-"https://secure.winred.com/matt-woods-for-alabama/donate",
-"https://votemattwoods.com/",
-"https://votemattwoods.com/about",
-"https://votemattwoods.com/contact",
-"https://votemattwoods.com/contact/privacy-policy",
-"https://votemattwoods.com/issues/defend-law-enforcement",
-"https://votemattwoods.com/issues/jobs-and-economy",
-"https://votemattwoods.com/issues/preserve-family-values",
-"https://votemattwoods.com/issues/protect-our-constitutional-rights",
-"https://votemattwoods.com/privacy-policy"
+{
+"text": "About Matt",
+"href": "https://votemattwoods.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://votemattwoods.com/contact/"
+},
+{
+"text": "Defend Law Enforcement",
+"href": "https://votemattwoods.com/issues/defend-law-enforcement/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/matt-woods-for-alabama/donate"
+},
+{
+"text": "Jobs and Economy",
+"href": "https://votemattwoods.com/issues/jobs-and-economy/"
+},
+{
+"text": "Matt Woods",
+"href": "https://votemattwoods.com/"
+},
+{
+"text": "Preserve Family Values",
+"href": "https://votemattwoods.com/issues/preserve-family-values/"
+},
+{
+"text": "Protect our Constitutional Rights",
+"href": "https://votemattwoods.com/issues/protect-our-constitutional-rights/"
+},
+{
+"text": "Push Digital",
+"href": "http://pushdigital.com/"
+},
+{
+"text": "[image: Matt Woods]",
+"href": "https://votemattwoods.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMattWoods"
+},
+{
+"text": "privacy policy",
+"href": "https://votemattwoods.com/privacy-policy/"
+},
+{
+"text": "terms and conditions",
+"href": "https://votemattwoods.com/contact/privacy-policy#sms-terms"
+}
 ]

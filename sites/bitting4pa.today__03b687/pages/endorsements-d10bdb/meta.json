@@ -1,10 +1,11 @@
 {
  "description": "",
  "final_url": "https://bitting4pa.today/endorsements",
- "paid_for_by": null,
+ "fingerprint": "cc7476a651eccde0787d3b78a0ff42a04babb1d4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": [
-  "2024",
-  "2026"
+  "2024"
  ]
 }

@@ -1,6 +1,4 @@
-ABOUT
-CHRISTOPHER BELT
-State Senator Christopher Belt grew up in Centreville and is a lifelong resident of Illinois’ Metro East area.
+Skip to content Home About Issues The District Committees News Volunteer Contact Home About Issues The District Committees News Volunteer Contact DONATE ABOUT CHRISTOPHER BELT State Senator Christopher Belt grew up in Centreville and is a lifelong resident of Illinois’ Metro East area.
 He represents Illinois’ 57th Senate District, which encompasses communities in St.
 Clair and Madison counties, including Belleville, O’Fallon, Freeburg, Mascoutah and Scott Air Force Base.
 Prior to serving in the Illinois Senate, Belt enjoyed an 18-year career as a law enforcement officer.
@@ -16,3 +14,4 @@ High School in East St.
 Louis and has a bachelor’s degree in history from Illinois State University, as well as master’s degrees in public administration from Southern Illinois University Edwardsville and in professional counseling from Lindenwood-Belleville.
 During the 102nd General Assembly, Belt serves as Chair of the Senate Education Committee and is a member of the Criminal Law, Energy and Public Utilities, Insurance, Labor, Licensed Activites and Transportation Committees.
 He resides in Swansea with his wife, Stephanie, and his children, Christianna and Stephon.
+Take Action Contribute Volunteer The District Committees PAID FOR BY FRIENDS OF CHRISTOPHER BELT FOLLOW Christopher belt Facebook Twitter

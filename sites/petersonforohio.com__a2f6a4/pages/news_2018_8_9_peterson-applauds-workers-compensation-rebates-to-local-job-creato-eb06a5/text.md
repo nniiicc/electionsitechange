@@ -1,21 +1,10 @@
-Peterson Applauds Workers' Compensation Rebates to Local Job Creators
-COLUMBUS—Senator Bob Peterson (R-Washington Court House) applauded the Ohio Bureau of Workers' Compensation's (BWC) recent rebates to local private employers and public-taxing districts.
+Home About Issues Connect News Donate Home About Issues Connect News Donate Peterson Applauds Workers' Compensation Rebates to Local Job Creators COLUMBUS—Senator Bob Peterson (R-Washington Court House) applauded the Ohio Bureau of Workers' Compensation's (BWC) recent rebates to local private employers and public-taxing districts.
 This summer's one-time, statewide rebate of approximately $1.5 billion is the fourth such rebate in the last five years.
-“The fact that the BWC is able to improve conditions for workers and simultaneously maintain good financial management is a testament to their professionalism and good work,” said Peterson.
-“ I look forward to seeing the positive impact these dollars will have on our local businesses and community."
-A county-by-county breakdown for the 17th Senate district is below:
-- Clinton County: $1,434,110.65 in total rebates to 534 private employers and $534,398.87 to 34 public employers
-- Fayette County: $1,198,939.45 in total rebates to 353 private employers and $503,434.45.08 to 18 public employers
-- Gallia County: $1,309,762.45 in total rebates to 365 private employers and $373,045.95 to 30 public employers
-- Highland County: $1,162,703.95 in total rebates to 498 private employers and $439,056.70 to 34 public employers
-- Jackson County: $1,229,640.60 in total rebates to 383 private employers and $418,523.33 to 26 public employers
-- Lawrence County: $1,513,909.50 in total rebates to 455 private employers and $616,795.65 to 33 public employers
-- Pickaway County: $1,792,214.80 in total rebates to 561 private employers and $532,998.50 to 33 public employers
-- Pike County: $1,317,279.85 in total rebates to 238 private employers and $296,823.12 to 24 public employers
-- Vinton County: $531,255.10 in total rebates to 116 private employers and $164,758.89 to 16 public employers
-Since 2011, Ohio has reduced rates to 30-year lows and delivered more than $4 billion in rebates and credits to Ohio employers.
+“The fact that the BWC is able to improve conditions for workers and simultaneously maintain good financial management is a testament to their professionalism and good work,” said Peterson. “ I look forward to seeing the positive impact these dollars will have on our local businesses and community." A county-by-county breakdown for the 17th Senate district is below: Clinton County : $1,434,110.65 in total rebates to 534 private employers and $534,398.87 to 34 public employers Fayette County : $1,198,939.45 in total rebates to 353 private employers and $503,434.45.08 to 18 public employers Gallia County : $1,309,762.45 in total rebates to 365 private employers and $373,045.95 to 30 public employers Highland County : $1,162,703.95 in total rebates to 498 private employers and $439,056.70 to 34 public employers Jackson County : $1,229,640.60 in total rebates to 383 private employers and $418,523.33 to 26 public employers Lawrence County : $1,513,909.50 in total rebates to 455 private employers and $616,795.65 to 33 public employers Pickaway County : $1,792,214.80 in total rebates to 561 private employers and $532,998.50 to 33 public employers Pike County : $1,317,279.85 in total rebates to 238 private employers and $296,823.12 to 24 public employers Vinton County : $531,255.10 in total rebates to 116 private employers and $164,758.89 to 16 public employers Since 2011, Ohio has reduced rates to 30-year lows and delivered more than $4 billion in rebates and credits to Ohio employers.
 The bureau has also improved programs designed to reduce workplace injuries and has focused more on helping injured Ohioans receive the care they need to return to work.
 An estimated $48 million of the total rebate will go to schools and $111 million to local governments.
 Ohio's workers' compensation rates have gone from 3rd highest in the nation in 2008 to 11th lowest, according to the Oregon Study, a nationally recognized benchmark of rates.
-For more information on the approved rebate, click here.
-View the original post here.
+For more information on the approved rebate, click here .
+View the original post here .
+Guest User July 19, 2018 Facebook 0 Twitter Pinterest 0 0 Likes Previous New Efforts to Keep Our Students Safe Guest User July 23, 2018 Next Peterson Urges Congress to Boost Economic Development in Appalachian Regions of Ohio Guest User July 10, 2018 About Issues Connect Privacy Paid for by Peterson for Good Government LISA PETERSON, TREASURER, 5564 GRASSY BRANCH RD.
+SABINA, OH 45169

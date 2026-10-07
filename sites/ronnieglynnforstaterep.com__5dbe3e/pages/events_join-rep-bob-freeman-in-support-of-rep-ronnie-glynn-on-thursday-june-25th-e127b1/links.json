@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Rep.+Bob+Freeman+in+support+of+Rep.+Ronnie+Glynn+on+Thursday%2C+June+25th&dates=20260625T223000Z%2F20260625T233000Z",
-"https://facebook.com/Ronniefor67",
-"https://instagram.com/ronniefor67?hl=en",
-"https://ronnieglynnforstaterep.com/",
-"https://ronnieglynnforstaterep.com/2026-legislative-priorities",
-"https://ronnieglynnforstaterep.com/cart",
-"https://ronnieglynnforstaterep.com/events",
-"https://ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th?format=ical",
-"https://ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th",
-"https://ronnieglynnforstaterep.com/events/volunteer-kickoff",
-"https://ronnieglynnforstaterep.com/issues",
-"https://ronnieglynnforstaterep.com/pressreleases",
-"https://ronnieglynnforstaterep.com/volunteer",
-"https://ronnieglynnforstaterep.com/what-voters-need-to-know",
-"https://ronnieglynnforstaterep.com/yard-sign-request",
-"https://secure.actblue.com/donate/freemanjune6",
-"https://secure.actblue.com/donate/ronnieforstaterep"
+{
+"text": "0",
+"href": "https://www.ronnieglynnforstaterep.com/cart"
+},
+{
+"text": "2026 Legislative Priorities",
+"href": "https://www.ronnieglynnforstaterep.com/2026-legislative-priorities"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ronnieglynnforstaterep.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ronnieforstaterep"
+},
+{
+"text": "Events",
+"href": "https://www.ronnieglynnforstaterep.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Rep.+Bob+Freeman+in+support+of+Rep.+Ronnie+Glynn+on+Thursday%2C+June+25th&dates=20260625T223000Z%2F20260625T233000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ronnieglynnforstaterep.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.ronnieglynnforstaterep.com/issues"
+},
+{
+"text": "Next Next June 27 Join us for the Glynn Fish Fry on June 27th!",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th"
+},
+{
+"text": "Press Releases",
+"href": "https://www.ronnieglynnforstaterep.com/pressreleases"
+},
+{
+"text": "Previous Previous May 30 Volunteer Kickoff",
+"href": "https://www.ronnieglynnforstaterep.com/events/volunteer-kickoff"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ronnieglynnforstaterep.com/volunteer"
+},
+{
+"text": "What Voters Need to Know",
+"href": "https://www.ronnieglynnforstaterep.com/what-voters-need-to-know"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.ronnieglynnforstaterep.com/yard-sign-request"
+},
+{
+"text": "[image: Ronnie Glynn for State Rep]",
+"href": "https://www.ronnieglynnforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Ronniefor67"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ronniefor67/?hl=en"
+},
+{
+"text": "https://secure.actblue.com/donate/freemanjune6",
+"href": "https://secure.actblue.com/donate/freemanjune6"
+}
 ]

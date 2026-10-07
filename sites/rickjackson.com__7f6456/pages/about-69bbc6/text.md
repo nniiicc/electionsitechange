@@ -1,8 +1,5 @@
-About
-Rick
-Rick Jackson is a Georgia businessman, philanthropist, and conservative outsider running for Governor because he believes results matter more than rhetoric — and Georgia’s future depends on action, not talk.
-About Rick
-Rick Jackson is a Georgia businessman, philanthropist, and conservative outsider running for Governor because he believes results matter more than rhetoric — and Georgia’s future depends on action, not talk.
+Home About Rick Action Plan Contact Press Volunteer Coalitions Donate Home About Rick Action Plan Contact Press Volunteer Coalitions Donate About Rick Rick Jackson is a Georgia businessman, philanthropist, and conservative outsider running for Governor because he believes results matter more than rhetoric — and Georgia’s future depends on action, not talk.
+About Rick Rick Jackson is a Georgia businessman, philanthropist, and conservative outsider running for Governor because he believes results matter more than rhetoric — and Georgia’s future depends on action, not talk.
 Rick’s story didn’t start with privilege or connections.
 He grew up in foster care, moved through five foster homes and thirteen schools, and spent time living in the Techwood Homes projects in Atlanta.
 He never knew his father and was raised by a mother struggling with alcoholism.
@@ -22,3 +19,4 @@ It’s about identifying problems, demanding results, and holding systems accoun
 He believes Georgia needs an outsider — not a career politician — who will cut taxes, lower costs, secure the state, and make government work for the people.
 As Governor, Rick will fight to make Georgia the most affordable state in America by freezing property taxes, cutting the state income tax, eliminating wasteful spending, and raising standards in government and education.
 Rick’s running because Georgia is at a defining moment — and what comes next really matters.
+Join the Movement Follow Follow Follow Follow Follow Privacy Policy | Terms and Conditions Donate PAID FOR BY JACKSON FOR GOVERNOR, INC.

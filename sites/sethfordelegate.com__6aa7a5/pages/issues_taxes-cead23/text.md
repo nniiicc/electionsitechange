@@ -1,6 +1,4 @@
-Home ❭ On the Issues ❭ Taxes
-Taxes
-We must completely eliminate the state on retirement income.
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute Home ❭ On the Issues ❭ Taxes Taxes We must completely eliminate the state on retirement income.
 I have and will continue to sponsor, co-sponsor or support legislation that completely eliminates state taxes on all retirement income.
 I am proud to have co-sponsored legislation, that is now law, that doubled the state tax deduction on the income of retired military personnel.
-We must keep Marylander's in Maryland!
+We must keep Marylander's in Maryland! « Previous: Opioid Epidemic Next: Health Care » Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

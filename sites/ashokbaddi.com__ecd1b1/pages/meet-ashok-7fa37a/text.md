@@ -1,5 +1,4 @@
-Meet Ashok
-For more than two decades, Ashok has been actively involved in community service and civic engagement, bringing people together through faith, service, and shared responsibility.
+0 Skip to Content Meet Ashok Issues Events Get Involved Community Feedback Donate Open Menu Close Menu Meet Ashok Issues Events Get Involved Community Feedback Donate Open Menu Close Menu Meet Ashok Issues Events Get Involved Community Feedback Donate Meet Ashok For more than two decades, Ashok has been actively involved in community service and civic engagement, bringing people together through faith, service, and shared responsibility.
 He is guided by the principles of Sanatana Dharma, or Hinduism, which emphasize faith, family, respect for tradition, personal responsibility, and care for others.
 These values shape his approach to leadership and public service.
 Ashok is the owner and operator of Minuteman Press Rochester Hills, where he works daily with local entrepreneurs, nonprofits, schools, and community organizations.
@@ -12,3 +11,5 @@ He also serves as a board member of the Shirdi Temple in Rochester Hills, a Hind
 Through this role, Ashok has helped strengthen community ties and support families across the district.
 Ashok is running for State Representative to bring practical leadership, common-sense solutions, and accountable government to Lansing.
 He is focused on protecting small businesses, supporting working families, defending faith and community values, and ensuring Michigan remains a place where the next generation can build a strong and successful future.
+Ashok Baddi for State Representative Paid for by Friends of Ashok Baddi 5625 John R.
+Road, Troy MI 48085

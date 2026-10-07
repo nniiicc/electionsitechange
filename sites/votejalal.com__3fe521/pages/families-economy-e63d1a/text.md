@@ -1,10 +1,4 @@
-Prosperity & Opportunity for All Families
-Protecting Working Families and Expanding Economic Opportunity
-Fighting for you in Lansing
-Other priorities
-As the son of small business owners and an employment attorney, Jalal understands the pressure families face when policy doesn’t work for them.
+Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Volunteer Take Our Survey Donate Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Donate Prosperity & Opportunity for All Families Protecting Working Families and Expanding Economic Opportunity Fighting for you in Lansing Other priorities Strong, Safe Neighborhoods Education & Career Pathways Health Care and Community Wellness Accountable, Community-Driven Leadership As the son of small business owners and an employment attorney, Jalal understands the pressure families face when policy doesn’t work for them.
 He’ll fight for fair wages, benefits, and protections for workers and small businesses that form the backbone of the local economy.
-Key goals:
-- Streamline small business grants and workforce training programs
-- Protect collective bargaining rights and expand apprenticeship opportunities
-- Support expanded paid family leave policies and fair labor protections
+Key goals: Streamline small business grants and workforce training programs Protect collective bargaining rights and expand apprenticeship opportunities Support expanded paid family leave policies and fair labor protections Donate by mail: CTE Jalal Abdallah 23035 Sheridan St.
+Dearborn, MI 48124 Home Meet Jalal Priorities Volunteer Donate Connect with us: Contact Privacy Policy Terms of Use | Built by: Brick by Brick PAID FOR BY COMMITTEE TO ELECT JALAL ABDALLAH, PO Box 83, Dearborn Heights, MI 48127

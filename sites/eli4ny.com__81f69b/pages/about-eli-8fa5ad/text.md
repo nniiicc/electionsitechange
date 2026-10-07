@@ -1,5 +1,4 @@
-Meet Eli
-Eli Northrup is a public defender, policy advocate and community leader who has spent his career fighting for justice and standing up for people.
+0 Skip to Content About Eli Platform Endorsements Press Vote Get Involved Stay in the loop Community survey Donate Open Menu Close Menu About Eli Platform Endorsements Press Vote Get Involved Stay in the loop Community survey Donate Open Menu Close Menu About Eli Platform Endorsements Press Vote Folder: Get Involved Back Stay in the loop Community survey Donate Meet Eli Eli Northrup is a public defender, policy advocate and community leader who has spent his career fighting for justice and standing up for people.
 He has made the West Side his home for over a decade.
 As of June 2026, Eli is also the Democratic and Working Families Party nominee for NY Assembly District 69.
 With a proven track record as an effective advocate and champion for the people he represents, Eli has a reputation as a leader who gets things done.
@@ -20,6 +19,7 @@ Eli cares deeply about the environment, a passion shared by his late father, who
 His mother, a poet and teacher, encouraged his lifelong love for the arts.
 His desire to fight injustice was inspired by his grandfather, a civil rights attorney who served as counsel to the American Jewish Congress.
 A resident of Morningside Heights, Eli enjoys attending concerts, playing flag football and pickleball, and taking advantage of the neighborhood’s parks and bagels.
-Eli currently works at The Bronx Defenders where he previously served as Policy Director to the Criminal Defense Practice and Director of The Bronx Cannabis Hub.
+Eli currently works at The Bronx Defenders where he previously served as Policy Director to the Criminal Defense Practice and Director of The Bronx Cannabis Hub .
 He sits on the Board of the New York State Association of Criminal Defense Lawyers and is a member of its Legislative Committee.
 He is a member of the Three Parks Democratic Club and a former member of the Civil Rights Committee of the New York City Bar.
+Contact info@eli4ny.com sTAY IN THE LOOP Sign up for our emails FOLLOW US Donate Paid for by Eli for NY

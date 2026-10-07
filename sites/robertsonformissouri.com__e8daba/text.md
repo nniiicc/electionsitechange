@@ -1,27 +1,36 @@
-david robertson
-for missouri house district 97
-Elect Conservative Leadership
-Reform Jefferson City
-Save Missouri!
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser david robertson david robertson david robertson david robertson for missouri house district 97 for missouri house district 97 for missouri house district 97 for missouri house district 97 Elect Conservative Leadership Reform Jefferson City Save Missouri!
 I’m David Robertson, and I am a Constitutional Conservative running for Missouri House District 97 in north-central Jefferson County.
 This includes the communities of High Ridge, Murphy, Peaceful Village, and Parkdale.
-As a State Representative I will fight every day to restore government that serves the interests of the citizens of Missouri and Legislative District 97, not special interests, lobbyists, and out-of-state billionaires.
-Do you wonder why, in a state with Republican supermajorities in the House and Senate, it's so hard to get conservative legislation passed?
-Feature Event : Trivia Night Fundraiser
-David Robertson
-Biography
-I'm a retired physics professor and dedicated full-time candidate for state representative.
-I have been a leader in Missouri's conservative grassroots movement for the last ten years.
-I worked for Bill Eigel's campaign for governor in 2024, as the campaign coordinator for three counties - St.
-Francois, Iron & Reynolds - giving surrogate speeches for Bill Eigel at Lincoln Days events.
-I organized the first ever St.
-Louis Medical Freedom March in the spring of 2022.
-I knocked 1500 doors for Charlie Kirk in Fall of 2024 to Elect President Donald Trump.
-I created and manage the We The People of Missouri email distribution list which is used to promote patriotic events and rallies across the state.
+As a State Representative I will fight every day to restore government that serves the interests of the citizens of Missouri and Legislative District 97, not special interests, lobbyists, and out-of-state billionaires. ​ Do you wonder why, in a state with Republican supermajorities in the House and Senate, it's so hard to get conservative legislation passed?
+LEARN MORE Feature Event : Trivia Night Fundraiser David Robertson Biography I'm a retired physics professor and dedicated full-time candidate for state representative.
+I have been a leader in Missouri's conservative grassroots movement for the last ten years.​​ I worked for Bill Eigel's campaign for governor in 2024, as the campaign coordinator for three counties - St.
+Francois, Iron & Reynolds - giving surrogate speeches for Bill Eigel at Lincoln Days events. ​ I organized the first ever St.
+Louis Medical Freedom March in the spring of 2022. ​ I knocked 1500 doors for Charlie Kirk in Fall of 2024 to Elect President Donald Trump. ​ I created and manage the We The People of Missouri email distribution list which is used to promote patriotic events and rallies across the state.
 I have given over 20 speeches at county council and school board meetings protesting unconstitutional Covid mandates.
-Please click here to learn more about my legislative priorities as your State Representative.
-This campaign is my full-time, solemn commitment to you and the ideals we share as conservatives.
--DWR
-Events Schedule
-David Robertson
-"One of the most important, hardworking, conservative campaigns in Missouri."
+Please click here to learn more about my l egislative priorities as your State Representative.
+This campaign is my full-time, solemn commitment to you and the ideals we share as conservatives. ​ -DWR ​ DONATE Events Schedule Fri, Oct 16 Trivia Night Fundraiser for David Robertson / Rocking J Venue Buy Tickets Oct 16, 2026, 6:00 PM – 9:30 PM Rocking J Venue, 6722 Bridle Trail Ln, High Ridge, MO 63049, USA Friday, October 16 from 6:30-10 PM (doors open at 6 PM), Rocking J Venue, 6 Tue, Nov 03 General Election / Jefferson County Board of Elections RSVP Nov 03, 2026, 6:00 AM – 7:00 PM Jefferson County Board of Elections, 729 Maple St, Hillsboro, MO 63050, USA Polls are open 6:00am to 7:00pm Fri, Oct 02 Jefferson County Lincoln Day Banquet / Oak Valley Golf Course and Resort Details Oct 02, 2026, 6:00 PM – 10:00 PM Oak Valley Golf Course and Resort, 1230 Abbey Ln, Pevely, MO 63070, USA Jefferson County Lincoln Day Banquet, Friday, October 2, 2026 from 6-10 PM, The Clubhouse at Oak Valley Golf Course, 1230 Abbey Lane, Pevely, MO 63070 Thu, Oct 01 Republican Rally / Old Hickory Golf Club Details Oct 01, 2026, 6:30 PM – 8:30 PM Old Hickory Golf Club, 1 Dye Club Dr, St Peters, MO 63304, USA Republican Rally, Thursday, October 1, 2026 from 6:30-8:30 PM, Old Hickory Golf Club, 1 Dye Club Rd, St.
+Charles, MO 63304 Fri, Sep 25 Leadership for America Dinner Featuring Nick Shirley / St.
+Charles Convention Center Details Sep 25, 2026, 5:00 PM – 9:00 PM St.
+Charles Convention Center, 1 Convention Center Blvd, St Charles, MO 63303, USA Friday, September 25 at 5 PM, St.
+Charles Convention Center, 1 Convention Center Blvd, St.
+Charles Mon, Sep 21 John Birch Society Meeting / Rock Church Details Sep 21, 2026, 6:30 PM – 8:30 PM Rock Church, 15101 Manchester Rd, Ballwin, MO 63011, USA John Birch Society Meeting, Monday, September 21, 2026 from 6:30-8:30 PM, Rock Church, 15101 Manchester Rd, Ballwin, MO 63011 Fri, Sep 18 People's Lobby Missouri (PLMO) Meeting / All Occasion Banquet Center Details Sep 18, 2026, 6:00 PM – 9:00 PM All Occasion Banquet Center, 111 Compass Point Dr, St Charles, MO 63301, USA People's Lobby Missouri (PLMO) Meeting, Friday, September 18, 2026 from 6-9 PM, All Occasion Banquet Center, 111 Compass Point Dr, Saint Charles, MO 63301 Thu, Sep 03 St.
+Charles MO Patriot Action Forum (SCMOPAF) / Middendorf-Kredell Library, Room A Details Sep 03, 2026, 5:00 PM – 7:30 PM Middendorf-Kredell Library, Room A, 2750 State Hwy K, O'Fallon, MO 63368, USA St.
+Charles MO Patriot Action Forum (SCMOPAF) September Meeting from 5-7:30 PM, Middendorf-Kredell Library, Room A, 2750 State Hwy K, O'Fallon, MO 63368 Tue, Aug 04 Missouri Primary Election Day / Jefferson County Board of Elections Details Aug 04, 2026, 6:00 AM – 8:00 PM Jefferson County Board of Elections, 729 Maple St, Hillsboro, MO 63050, USA See All Sat, Aug 01 Big River Friends of NRA @ Knights of Columbus House Springs / Knight of Columbus House Springs Details Aug 01, 2026, 5:00 PM – 9:00 PM Knight of Columbus House Springs, 6800 knights of columbus Ln, House Springs, MO 63051, USA Big River Friends of NRA Event, Saturday, August 1, 5-9 PM, Knights of Columbus, 6800 KC Ln, House Springs, MO 63051 Thu, Jul 23 Race to the Finish Line Rally / Rocking J Venue Details Jul 23, 2026, 6:00 PM – 9:00 PM Rocking J Venue, 6722 Bridle Trail Ln, High Ridge, MO 63049, USA Let's Rally for Robertson to Finish Victorious: For God and For Missouri! +12 more Fri, Jun 26 The BIG St Louis County Gun Show (June 2026) / STL Athletic Center Details Jun 26, 2026, 4:00 PM – Jun 28, 2026, 8:00 PM STL Athletic Center, 2300 Hitzert Ct, Fenton, MO 63026, USA The BIG St Louis County Gun Show (June 2026) Tue, Apr 21 Patriots United Fundraiser for David Robertson / Offices of Dan White Details Apr 21, 2026, 7:15 PM – 10:15 PM Offices of Dan White , 9842 Manchester Rd Suite B, St.
+Louis, MO 63119, USA RSVP for Patriots United Fundraiser & Party for David Robertson, Republican Candidate for Missouri State House District 97.
+Hosted by Dan White. +37 more Fri, Apr 17 The BIG St.
+Louis County Gun Show Fri-Sat-Sun / STL Athletic Center Details Apr 17, 2026, 4:00 PM – Apr 19, 2026, 8:00 PM STL Athletic Center, 2300 Hitzert Ct, Fenton, MO 63026, USA You’ll find a huge elections of guns and related items such as ammo, rifles, handgun, shotguns, magazines, grips, scopes, knives, military surplus, and so much more!
+Admission is good all weekend so bring your friends and find a deal!
+Fri, Apr 03 Tim Whitney Campaign Rally / Arnold Eagles Details Apr 03, 2026, 6:00 PM – 10:00 PM Arnold Eagles, 1725 Jeffco Blvd, Arnold, MO 63010, USA CAMPAIGN RALLY!
+Friday, April 3, 2026 doors open at 6p Arnold Eagles 1725 Jeffco Blvd.
+Arnold, MO 63010 Thu, Apr 02 Gun Rights Rally Day / Missouri State Capitol Details Apr 02, 2026, 1:00 PM – 3:00 PM Missouri State Capitol, 201 W Capitol Ave, Jefferson City, MO 65101, USA Thursday, April 2, 2026, 1-3 PM, State Capitol Building, Jefferson City, MO Thu, Mar 26 Franklin County Lincoln Day Dinner / Triple 3 Vineyard Details Mar 26, 2026, 6:00 PM – 8:00 PM Triple 3 Vineyard, 3665 Sunny Rd, Washington, MO 63090, USA Thursday, March 26, 6-8 PM, Triple 3 Vineyards, 3665 Sunny Road, Washington, MO 63090 Fri, Mar 20 St.
+Charles County Lincoln Trump Dinner / Old Hickory Golf Club Details Mar 20, 2026, 6:00 PM – 8:00 PM Old Hickory Golf Club, 1 Dye Club Dr, St Peters, MO 63304, USA Friday, March 20, 6-8 PM, Old Hickory Golf Club, 1 Dye Club Rd, St.
+Charles, MO 63304 Load More The Robertson Campaign Grassroots Conservative Leadership in Action MISSION ISSUES Get Campaign Updates Be the first to find out about events, issues and everything Robertson for Missouri.
+Email SIGN UP Thanks for submitting! ​ David Robertson "One of the most important, hardworking, conservative campaigns in Missouri." Join Team Robertson First name Last name Email Email Opt In Phone Text Opt In By providing your phone number and checking the box, you are consenting to receive marketing texts, including autodialed and automated texts, to that number with campaign notifications from the Robertson for Missouri.
+The campaign is happy to help at ( 314)807-4759 .
+Reply HELP for help, STOP to end.
+Msg&Data Rates May Apply.
+Message frequency may vary.
+SMS opt-in will not be sold, rented, or shared.
+Messages may include requests for donation.
+Terms and Conditions: https://www.davidrobertsonformissouri.com/mobile-messaging-terms-conditions Privacy Policy: https://www.davidrobertsonformissouri.com/privacy Submit David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

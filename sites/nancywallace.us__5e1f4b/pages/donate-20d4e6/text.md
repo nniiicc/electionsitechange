@@ -1,5 +1,3 @@
-Please click on this link to make a donation:
-https://nancywallace.nationbuilder.com/donate
-Any donation you can make is greatly appreciated.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Donate Please click on this link to make a donation: https://nancywallace.nationbuilder.com/donate Any donation you can make is greatly appreciated.
 Time is of the essence in climate change.
-An individual may contribute up to $2,700 per election (the primary and general are separate elections).
+An individual may contribute up to $2,700 per election (the primary and general are separate elections). " Then in times of need, one should rise to the occasion & fight bravely for what is right.....it is not enough to be compassionate, one must act. " -- Dalai Lama © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

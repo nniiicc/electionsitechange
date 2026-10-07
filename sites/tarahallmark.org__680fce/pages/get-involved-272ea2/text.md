@@ -1,3 +1,4 @@
-Get Involved
-Communities are strongest when people work together.
+Search this site Embedded Files Skip to main content Skip to navigation Tara Hallmark Campaign Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact Tara Hallmark Campaign Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact More Home Meet Tara Qualified Priorities Love Our Home Get Involved Donate Contact Get Involved Communities are strongest when people work together.
 Whether you have an hour to volunteer, would like to attend an event , host a neighborhood gathering, place a yard sign or simply share ideas, there is a place for you in this campaign.
+Walk the Talk TEXT 573-238-8264 Volunteer Volunteers are the heart of every community.
+Canvassing Phone and texting Outreach Sign Placement Mailers Event Help Paid for by Friends to Elect Tara Hallmark Google Sites Report abuse Page details Page updated Google Sites Report abuse

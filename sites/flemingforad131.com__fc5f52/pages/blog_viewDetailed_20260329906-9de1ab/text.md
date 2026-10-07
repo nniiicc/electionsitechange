@@ -1,5 +1,5 @@
-From "Performance Rage" to Action
-In today's fast-paced world, where performance metrics seem to dictate the value of our public institutions, it's easy to feel overwhelmed and frustrated—what some may call "performance rage." Attending protest marches and rallies on the streets and being seen, unfortunately to some, seems like fighting to preserve democracy.
+Top Fleming For AD131 Hope and success for all people!
+About Issues Events Blog Volunteer Voting Information Contact Donate From "Performance Rage" to Action In today's fast-paced world, where performance metrics seem to dictate the value of our public institutions, it's easy to feel overwhelmed and frustrated—what some may call "performance rage." Attending protest marches and rallies on the streets and being seen, unfortunately to some, seems like fighting to preserve democracy.
 But is it that really?
 Is it just public appearances you like?
 While leaving others with the burden of the difficult, often thankless work of grassroots outreach and community engagement?
@@ -49,4 +49,7 @@ By educating ourselves, engaging with our communities, collaborating with others
 Remember, each step we take—no matter how small—contributes to a larger movement toward a more just and equitable society.
 Let us turn our frustration into fuel for positive change and protect the democratic values we hold dear.
 Together, we can champion the democracy that sustains our freedoms and future.
-Posted on 29 Mar 2026, 9:06 - Category: Information
+Posted on 29 Mar 2026, 9:06 - Category: Information Twitter Facebook LinkedIn Email Donate Volunteer Contact Latest Entries A WXXI-NPR article by By Rosemary Misdary, Published July 30, 2026 Finger Lakes Times op-ed on solar energy proposal in NY Shamieh Law and ICE Campaign Donation Update Back to Main Categories Campaign Donation Update Information News Connect With Us COUNTING DOWN TO Election Day Support the Campaign Events Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-23-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-06-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 09-23-2026 Read More...
+Help Us Win!
+Help us raise more money to win on Election Day.
+0 % $0 of $250000 Donate Now Facebook Privacy Terms Print Page Political advertisement paid for and approved by the candidate.

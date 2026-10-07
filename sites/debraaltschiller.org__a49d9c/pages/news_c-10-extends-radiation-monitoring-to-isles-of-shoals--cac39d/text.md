@@ -1,6 +1,6 @@
-Gloucester Daily Times, Mass.
-Jul 14, 2024
-New Hampshire State Sen.
+top of page HOME Upcoming Events ENDORSMENTS ABOUT DEBRA ON THE ISSUES In The News GET INVOLVED PHOTO GALLERY More Use tab to navigate through the menu items.
+DONATE < Back C-10 extends radiation monitoring to Isles of Shoals Gloucester Daily Times, Mass.
+Jul 14, 2024 New Hampshire State Sen.
 Debra Altschiller who represents District 24 and spoke to supporter of C-10.
 SEABROOK — C-10 safety organization members and supporters will travel to the Isles of Shoals on July 14 to celebrate the new nuclear radiation monitoring site recently installed on Star Island.
 Among the officials attending will be New Hampshire State Sen.
@@ -13,4 +13,7 @@ The emergency planning zone with a radius of 10 miles from the plant comprises 1
 Tthe plant sits about 17 miles northwest — as the seagull flies — from parts of Gloucester and Rockport, Massachusetts.
 All of Cape Ann in Massachusetts is in the station’s 50-mile Ingestion Exposure Pathway.
 C-10’s data is shared with the Massachusetts Department of Health.
-More information about the installation celebration and about C-10 is available on C-10’s website, c-10.org, or by calling C-10’s headquarters in Amesbury, Massachusetts.
+More information about the installation celebration and about C-10 is available on C-10’s website, c-10.org , or by calling C-10’s headquarters in Amesbury, Massachusetts.
+Previous Next HOME Upcoming Events ENDORSMENTS ABOUT DEBRA ON THE ISSUES In The News GET INVOLVED PHOTO GALLERY More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: © # by Debra Altschiller for NH - Paid for by The Committee to Elect Debra Altschiller.
+Debra4NH bottom of page

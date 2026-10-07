@@ -1,4 +1,5 @@
-We like to think about Puyallup as a small town, right up until the time that we’re stuck in traffic on Meridian, on 94th, or on Shaw Road.
+Elect David Berg State Representative, 25th LD, Pos.
+1 Menu Home About David The Issues Endorsements Make A Donation Find Your Drop Box Puyallup School District by the Numbers Posted on May 5, 2021 by David Berg 1 Comment We like to think about Puyallup as a small town, right up until the time that we’re stuck in traffic on Meridian, on 94th, or on Shaw Road.
 We also like to think about our school district as being small, though that’s also something that we’re more likely to see in our rear view mirror, and not looking forward.
 Before we can talk about where our district can go next, we have to have an understanding of who we are.
 The Puyallup School District is the 8th largest district in the state.
@@ -19,3 +20,9 @@ We’ve also seen significant changes in the number of students in particular ca
 Our low-income student population, as measured by students who qualify for free and reduced lunch, increased by 33% from 2010 to 2020 and now comprise nearly 39% of all enrolled students.
 The number of students who are English language learners has more than doubled from 632 students in 2010 to 1,376 in 2020.
 Combine our enrollment growth with the additional need for services that fit the changing demographics of our district and it’s obvious why we’ve needed to change which services are provided to our students, the way those educational services are provided, and why we need to continue to make changes to ensure that the needs of each of our students is met.
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: 2021 , David Berg , Demographics , Diversity , Election , Growth , Puyallup School Board , Puyallup School District ← Allow Me to Introduce Myself Teacher Appreciation Week → One Comment on “ Puyallup School District by the Numbers ” Pingback: Diversity, Equity, and Inclusion | Elect David Berg Leave a Reply Cancel reply Translate Countdown to the General Ballots are Due - Use a Drop Box!
+November 3, 2026 # days to go.
+Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

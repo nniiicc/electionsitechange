@@ -1,5 +1,4 @@
-About Matt Rohrbach
-My roots run deep in our community.
+New Ideas for a better West Virginia home about matt issues join us About Matt Rohrbach My roots run deep in our community.
 I grew up in the Westmoreland neighborhood and graduated from Vinson High School and Marshall University.
 My father worked a union factory job at Owens, so I know firsthand the struggles of working class families.
 After completing my medical training, I moved back home and joined HIMG, where I have served the community for 32 years as a physician.
@@ -22,10 +21,5 @@ Given the growth coming to the Route 2 corridor in Cabell, Mason and Jackson cou
 I thank you for the opportunity you have afforded me to represent our area for the last eight years.
 I respectfully ask for your vote this election so I can continue to work on the health and economy of West Virginia.
 Thank you for your consideration.
-- Active Physician with HIMG since 1990
-- Partner / owner in HIMG, creating over 300 well-paying jobs in the market
-- Utilized & continue to use Union labor for the construction of the HIMG Regional Medical Center
-- Active in numerous community organizations
-- Graduate of Vinson High School & Marshall University School of Medicine
-- Happily married to Dr.
-Vera Rose for over 30 years and proud parent of Rachel Rohrbach, a HHS graduate and Marshall University student.
+Active Physician with HIMG since 1990 Partner / owner in HIMG, creating over 300 well-paying jobs in the market Utilized & continue to use Union labor for the construction of the HIMG Regional Medical Center Active in numerous community organizations Graduate of Vinson High School & Marshall University School of Medicine Happily married to Dr.
+Vera Rose for over 30 years and proud parent of Rachel Rohrbach, a HHS graduate and Marshall University student. paid for by rohrbach for house 2026 • mark morgan, treasurer

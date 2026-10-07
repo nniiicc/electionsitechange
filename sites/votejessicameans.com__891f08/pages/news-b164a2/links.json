@@ -1,14 +1,58 @@
 [
-"https://facebook.com/votejessicameans",
-"https://instagram.com/votejessicameans",
-"https://secure.anedot.com/jessica-means-for-house/donate",
-"https://votejessicameans.com/",
-"https://votejessicameans.com/copy-of-jessica-s-record",
-"https://votejessicameans.com/event-list",
-"https://votejessicameans.com/jessica-s-record",
-"https://votejessicameans.com/meet-jessica",
-"https://votejessicameans.com/news",
-"https://votejessicameans.com/post/jessica-means-announces-campaign-for-tennessee-state-representative-in-district-1",
-"https://votejessicameans.com/post/maha-institute-endorsed-jessica-means-for-tennessee-house-district-1",
-"https://votejessicameans.com/privacy-policy"
+{
+"text": "All Posts",
+"href": "https://www.votejessicameans.com/news"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jessica-means-for-house/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.votejessicameans.com/event-list"
+},
+{
+"text": "Jessica Means Announces Campaign for Tennessee State Representative in District 1",
+"href": "https://www.votejessicameans.com/post/jessica-means-announces-campaign-for-tennessee-state-representative-in-district-1"
+},
+{
+"text": "MAHA Institute endorsed Jessica Means for Tennessee House District 1.",
+"href": "https://www.votejessicameans.com/post/maha-institute-endorsed-jessica-means-for-tennessee-house-district-1"
+},
+{
+"text": "MEET JESSICA",
+"href": "https://www.votejessicameans.com/meet-jessica"
+},
+{
+"text": "NEWS",
+"href": "https://www.votejessicameans.com/news"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.votejessicameans.com/copy-of-jessica-s-record"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejessicameans.com/privacy-policy"
+},
+{
+"text": "RECORD",
+"href": "https://www.votejessicameans.com/jessica-s-record"
+},
+{
+"text": "[image: Bazaart_FCCE3548-58D5-4283-89BC-79E7CCFE1140.PNG]",
+"href": "https://www.votejessicameans.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/votejessicameans"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votejessicameans"
+},
+{
+"text": "votejessicameans@gmail.com",
+"href": "mailto:votejessicameans@gmail.com"
+}
 ]

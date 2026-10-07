@@ -1,8 +1,26 @@
 [
-"https://bonoforrockland.com/",
-"https://bonoforrockland.com/about",
-"https://bonoforrockland.com/cart",
-"https://facebook.com/profile.php?id=61587572128065",
-"https://kat-murphy.com/",
-"https://secure.winred.com/friends-of-rob-bonomolo/donate-today"
+{
+"text": "0",
+"href": "https://www.bonoforrockland.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bonoforrockland.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-rob-bonomolo/donate-today"
+},
+{
+"text": "Kat Murphy Consulting",
+"href": "https://www.kat-murphy.com/"
+},
+{
+"text": "Rob Bonomolo for NY State Assembly",
+"href": "https://www.bonoforrockland.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587572128065"
+}
 ]

@@ -1,15 +1,90 @@
 [
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/statements/forest-service",
-"https://zebulonforcongress.com/statements/general-strike",
-"https://zebulonforcongress.com/statements/statement-on-the-copperwood-mine",
-"https://zebulonforcongress.com/statements/us-national-debt",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Copperwood Mine",
+"href": "https://www.zebulonforcongress.com/statements/statement-on-the-copperwood-mine"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "May 1 General Strike",
+"href": "https://www.zebulonforcongress.com/statements/general-strike"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Read More",
+"href": "https://www.zebulonforcongress.com/statements/forest-service"
+},
+{
+"text": "Read More",
+"href": "https://www.zebulonforcongress.com/statements/general-strike"
+},
+{
+"text": "Read More",
+"href": "https://www.zebulonforcongress.com/statements/statement-on-the-copperwood-mine"
+},
+{
+"text": "Read More",
+"href": "https://www.zebulonforcongress.com/statements/us-national-debt"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "US Forest Service Restructure",
+"href": "https://www.zebulonforcongress.com/statements/forest-service"
+},
+{
+"text": "US National Debt",
+"href": "https://www.zebulonforcongress.com/statements/us-national-debt"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "[image: Copperwood Mine]",
+"href": "https://www.zebulonforcongress.com/statements/statement-on-the-copperwood-mine"
+},
+{
+"text": "[image: May 1 General Strike]",
+"href": "https://www.zebulonforcongress.com/statements/general-strike"
+},
+{
+"text": "[image: US Forest Service Restructure]",
+"href": "https://www.zebulonforcongress.com/statements/forest-service"
+},
+{
+"text": "[image: US National Debt ]",
+"href": "https://www.zebulonforcongress.com/statements/us-national-debt"
+}
 ]

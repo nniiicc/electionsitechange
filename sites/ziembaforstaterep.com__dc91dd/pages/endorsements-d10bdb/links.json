@@ -1,8 +1,26 @@
 [
-"https://ziembaforstaterep.com/",
-"https://ziembaforstaterep.com/cart",
-"https://ziembaforstaterep.com/contact",
-"https://ziembaforstaterep.com/endorsements",
-"https://ziembaforstaterep.com/new-page-1",
-"https://ziembaforstaterep.com/new-page-2"
+{
+"text": "0",
+"href": "https://www.ziembaforstaterep.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ziembaforstaterep.com/new-page-1"
+},
+{
+"text": "Contact",
+"href": "https://www.ziembaforstaterep.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ziembaforstaterep.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://www.ziembaforstaterep.com/new-page-2"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.ziembaforstaterep.com/"
+}
 ]

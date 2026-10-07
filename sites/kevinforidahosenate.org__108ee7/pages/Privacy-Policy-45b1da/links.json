@@ -1,5 +1,22 @@
 [
-"https://facebook.com/KevinForIdahoSenate",
-"https://kevin.dems4idaho.org/",
-"https://kevin.dems4idaho.org/Privacy-Policy"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KevinForIdahoSenate"
+},
+{
+"text": "Our Privacy Policy",
+"href": "https://kevin.dems4idaho.org/Privacy-Policy"
+},
+{
+"text": "[image: Kevin for Idaho Senate]",
+"href": "https://kevin.dems4idaho.org/"
+},
+{
+"text": "[image]",
+"href": "https://kevin.dems4idaho.org"
+},
+{
+"text": "bbaker@dems4idaho.org",
+"href": "mailto:bbaker@dems4idaho.org"
+}
 ]

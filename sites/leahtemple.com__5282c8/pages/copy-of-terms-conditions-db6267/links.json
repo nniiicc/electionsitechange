@@ -1,15 +1,58 @@
 [
-"https://leahtemple.com/",
-"https://leahtemple.com/about",
-"https://leahtemple.com/accessibility-statement",
-"https://leahtemple.com/contact",
-"https://leahtemple.com/copy-of-terms-conditions",
-"https://leahtemple.com/events",
-"https://leahtemple.com/issues",
-"https://leahtemple.com/terms-and-conditions",
-"https://leahtemple.com/volunteer",
-"https://leahtemple.com/yard-signs",
-"https://secure.actblue.com/donate/leahtemple",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.leahtemple.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.leahtemple.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.leahtemple.com/contact"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leahtemple"
+},
+{
+"text": "Donate",
+"href": "https://www.leahtemple.com/volunteer"
+},
+{
+"text": "Events",
+"href": "https://www.leahtemple.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.leahtemple.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leahtemple.com/copy-of-terms-conditions"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.leahtemple.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.leahtemple.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "Yard Signs!",
+"href": "https://www.leahtemple.com/yard-signs"
+},
+{
+"text": "[image: LT_SD30_WebsiteLogo(NOfooter).png]",
+"href": "https://www.leahtemple.com"
+}
 ]

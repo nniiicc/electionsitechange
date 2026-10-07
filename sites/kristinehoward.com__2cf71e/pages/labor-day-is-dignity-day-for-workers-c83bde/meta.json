@@ -1,7 +1,12 @@
 {
  "description": "Kristine Howard candidate for State Representative",
  "final_url": "https://kristinehoward.com/labor-day-is-dignity-day-for-workers/",
- "paid_for_by": null,
+ "fingerprint": "81f29b73617fd8b3bd2f29344d3a630045312c6d",
+ "format": 3,
+ "paid_for_by": "authorized by Committee to Elect Kristine",
  "title": "Labor Day is Dignity Day for workers - Kristine Howard for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023"
+ ]
 }

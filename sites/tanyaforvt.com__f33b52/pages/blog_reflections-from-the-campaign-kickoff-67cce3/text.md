@@ -1,5 +1,4 @@
-Reflections from the Campaign Kickoff
-On Saturday, Senator Gulick and I welcomed the community and musician Grace Palmer to join us at Standing Stone Wines in Winooski to celebrate and kick off our re-election campaign for Chittenden Central Senate.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Reflections from the Campaign Kickoff Jun 15 Written By Tanya Vyhovsky On Saturday, Senator Gulick and I welcomed the community and musician Grace Palmer to join us at Standing Stone Wines in Winooski to celebrate and kick off our re-election campaign for Chittenden Central Senate.
 I am so grateful to everyone who packed the room and supported us and the work we’ve done.
 I’m especially grateful to Wilmer Chavarria who ran over from the Winooski school district’s graduation to give a deeply moving speech about the moment and the fight that we are in right now.
 Instead of sharing the bulk of the speeches that Sen.
@@ -12,7 +11,7 @@ One lesson I learned quickly, though, is that there's no such thing as permanent
 While the Defense of Marriage Act was overturned by a mix of activism, political will, and legal accidents, the people that created cruel laws such as this one are still around and are very much determined to take those rights away from us.
 Just take a look at the hundreds of anti-trans bills being actively considered around the country right now, or the fact that what we thought were settled matters on marriage equality are being pushed for reconsideration at the Supreme Court.
 The hate day of hate is now.
-It's not 50 years ago or 200.
+It's not #ago or 200.
 It's not a black and white photograph or a painting of Native Americans being slaughtered.
 We are witnessing terrorists, racists, and wicked men wield power from high offices, ordering killings with a smile on their face.
 We are witnessing the millions with a moral compass so rotten that they'd rather torture children and put them in cages than share their neighborhood with a brown person.
@@ -22,6 +21,7 @@ What I need to know is who they are right now.
 Who will have my back when they come for me?
 And who will fight the fight when everyone else hides?
 I am proud to stand here in support of those two people.
-I am honored to introduce to you two of the most critical voices in our state who know exactly how to meet this moment.”
-I take Wilmer’s call to action seriously every single day.
+I am honored to introduce to you two of the most critical voices in our state who know exactly how to meet this moment.” I take Wilmer’s call to action seriously every single day.
 For all the legislation that we pass in the Statehouse, the most important thing that I can do as a Senator and a human being is to stand up and have Wilmer’s back, and every other person who wakes up afraid in this country, and do what is right, not what is easy.
+Senators Gulick & Vyhovsky Wilmer Chavarria at the Mic Essex and EJ are here!
+Event poster Tanya Vyhovsky Previous Previous Voting in the 2026 Primary Next Next Statement on ICE Raid in South Burlington Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

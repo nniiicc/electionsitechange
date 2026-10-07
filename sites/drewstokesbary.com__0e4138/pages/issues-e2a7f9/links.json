@@ -1,34 +1,146 @@
 [
-"http://auburn-reporter.com/news/327468801.html",
-"http://auburn-reporter.com/news/rep-stokesbary-receives-award-for-fire-service-advocacy",
-"https://awcnet.org/AboutUs/Mediacenter/Mediaalertarchives/tabid/944/articleType/ArticleView/articleId/1530/Association-of-Washington-Cities-announces-City-Champion-Award-winners.aspx",
-"https://drewstokesbary.com/",
-"https://drewstokesbary.com/2024-endorsements",
-"https://drewstokesbary.com/blog",
-"https://drewstokesbary.com/category/awards",
-"https://drewstokesbary.com/category/endorsements",
-"https://drewstokesbary.com/donate",
-"https://drewstokesbary.com/donate?amt=100",
-"https://drewstokesbary.com/donate?amt=200",
-"https://drewstokesbary.com/donate?amt=25",
-"https://drewstokesbary.com/donate?amt=50",
-"https://drewstokesbary.com/donate?amt=other",
-"https://drewstokesbary.com/early-endorsement-from-stand-for-children",
-"https://drewstokesbary.com/endorsements",
-"https://drewstokesbary.com/fire-chiefs-legislator-of-the-year",
-"https://drewstokesbary.com/get-involved",
-"https://drewstokesbary.com/issues",
-"https://drewstokesbary.com/meet-drew",
-"https://drewstokesbary.com/positions/public-safety",
-"https://drewstokesbary.com/privacy-policy",
-"https://drewstokesbary.com/rep-stokesbary-helps-pass-property-tax-relief",
-"https://drewstokesbary.com/rep-stokesbary-introduces-bill-to-preserve-flood-control-funding",
-"https://drewstokesbary.com/rep-stokesbary-introduces-bipartisan-bill-to-provide-property-tax-relief",
-"https://drewstokesbary.com/rep-stokesbary-secures-traffic-avenue-funds",
-"https://drewstokesbary.com/the-news-tribune-endorses-stokesbary-again",
-"https://drewstokesbary.com/the-seattle-times-endorses-stokesbary-for-reelection",
-"https://drewstokesbary.com/voice-of-small-business-backs-stokesbary",
-"https://facebook.com/drewstokesbary",
-"https://twitter.com/stokesbary",
-"https://wacities.org/advocacy/news/advocacy-news/2020/06/25/city-champion-award-winners"
+{
+"text": "$100",
+"href": "https://drewstokesbary.com/donate?amt=100"
+},
+{
+"text": "$200",
+"href": "https://drewstokesbary.com/donate?amt=200"
+},
+{
+"text": "$25",
+"href": "https://drewstokesbary.com/donate?amt=25"
+},
+{
+"text": "$50",
+"href": "https://drewstokesbary.com/donate?amt=50"
+},
+{
+"text": "About",
+"href": "https://drewstokesbary.com/meet-drew/"
+},
+{
+"text": "Awards",
+"href": "https://drewstokesbary.com/category/awards/"
+},
+{
+"text": "Blog",
+"href": "https://drewstokesbary.com/blog/"
+},
+{
+"text": "Completion of the brand-new Gordon Family YMCA",
+"href": "http://www.auburn-reporter.com/news/327468801.html"
+},
+{
+"text": "Design and engineering of a new, wider Traffic Avenue bridge over Highway 410 in Sumner",
+"href": "https://drewstokesbary.com/rep-stokesbary-secures-traffic-avenue-funds/"
+},
+{
+"text": "Donate",
+"href": "https://drewstokesbary.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "Issues",
+"href": "https://drewstokesbary.com/issues/"
+},
+{
+"text": "Learn How",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Named Honorary Fire Chief by the Washington Fire Chiefs",
+"href": "http://www.auburn-reporter.com/news/rep-stokesbary-receives-award-for-fire-service-advocacy/"
+},
+{
+"text": "Other",
+"href": "https://drewstokesbary.com/donate?amt=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drewstokesbary.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://drewstokesbary.com/positions/public-safety/"
+},
+{
+"text": "See All Endorsements",
+"href": "https://drewstokesbary.com/2024-endorsements/"
+},
+{
+"text": "See More",
+"href": "https://drewstokesbary.com/blog"
+},
+{
+"text": "Stand for Children",
+"href": "https://drewstokesbary.com/early-endorsement-from-stand-for-children/"
+},
+{
+"text": "Winner of City Champion Award from Association of Washington Cities",
+"href": "https://www.awcnet.org/AboutUs/Mediacenter/Mediaalertarchives/tabid/944/articleType/ArticleView/articleId/1530/Association-of-Washington-Cities-announces-City-Champion-Award-winners.aspx"
+},
+{
+"text": "Winner of the City Champion Award from the Association of Washington Cities",
+"href": "https://wacities.org/advocacy/news/advocacy-news/2020/06/25/city-champion-award-winners"
+},
+{
+"text": "[image: Stokesbary Logo]",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/the-news-tribune-endorses-stokesbary-again/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/the-seattle-times-endorses-stokesbary-for-reelection/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/voice-of-small-business-backs-stokesbary/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drewstokesbary"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stokesbary"
+},
+{
+"text": "countless individuals and organizations who have endorsed his reelection campaign",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "expanded the property tax exemption available to fixed-income retirees and veterans",
+"href": "https://drewstokesbary.com/rep-stokesbary-introduces-bipartisan-bill-to-provide-property-tax-relief/"
+},
+{
+"text": "named an Honorary Fire Chief and “legislator of the year” by the Washington Fire Chiefs Association",
+"href": "https://drewstokesbary.com/fire-chiefs-legislator-of-the-year/"
+},
+{
+"text": "protects funding for the King and Pierce County flood control districts",
+"href": "https://drewstokesbary.com/rep-stokesbary-introduces-bill-to-preserve-flood-control-funding/"
+},
+{
+"text": "similar Senate bill",
+"href": "https://drewstokesbary.com/rep-stokesbary-helps-pass-property-tax-relief/"
+}
 ]

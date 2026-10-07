@@ -1,15 +1,74 @@
 [
-"http://milesforky.com/",
-"http://milesforky.com/contact",
-"http://milesforky.com/contribute",
-"http://milesforky.com/get-involved",
-"http://milesforky.com/issues",
-"http://milesforky.com/meet-suzanne",
-"http://milesforky.com/s/cc_images/cache_934896887.jpg?t=1383518923",
-"http://milesforky.com/s/cc_images/cache_934896898.jpg?t=1383519078",
-"http://milesforky.com/sitemap",
-"https://204.sb.mywebsite-editor.com/app/590428281/161289516",
-"https://204.sb.mywebsite-editor.com/app/cms/logout.php",
-"https://login.1and1-editor.com/590428281/www.milesforky.com/us?pageId=161289516",
-"https://twitter.com/MilesForKY"
+{
+"text": "Contact",
+"href": "http://www.milesforky.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "http://www.milesforky.com/contribute/"
+},
+{
+"text": "Edit page",
+"href": "https://204.sb.mywebsite-editor.com/app/590428281/161289516/"
+},
+{
+"text": "Get Involved",
+"href": "http://www.milesforky.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "http://www.milesforky.com/"
+},
+{
+"text": "Issues",
+"href": "http://www.milesforky.com/issues/"
+},
+{
+"text": "Login",
+"href": "https://login.1and1-editor.com/590428281/www.milesforky.com/us?pageId=161289516"
+},
+{
+"text": "Logout",
+"href": "https://204.sb.mywebsite-editor.com/app/cms/logout.php"
+},
+{
+"text": "Meet Suzanne",
+"href": "http://www.milesforky.com/meet-suzanne/"
+},
+{
+"text": "Mobile View",
+"href": "javascript:switchView('mobile');"
+},
+{
+"text": "Sitemap",
+"href": "http://www.milesforky.com/sitemap/"
+},
+{
+"text": "Tweets by @MilesForKY",
+"href": "https://twitter.com/MilesForKY"
+},
+{
+"text": "Web View",
+"href": "javascript:switchView('desktop');"
+},
+{
+"text": "[image]",
+"href": "http://www.milesforky.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.milesforky.com/s/cc_images/cache_934896887.jpg?t=1383518923"
+},
+{
+"text": "[image]",
+"href": "http://www.milesforky.com/s/cc_images/cache_934896898.jpg?t=1383519078"
+},
+{
+"text": "[image] Print",
+"href": "javascript:window.print();"
+},
+{
+"text": "contact form",
+"href": "http://www.milesforky.com/contact/"
+}
 ]

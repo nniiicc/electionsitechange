@@ -1,7 +1,5 @@
-Vote Henderson-Myers
-Representative Rosalyn Henderson-Myers [Full Biography]
-Personal Profile
-Ms.
+top of page Home Endorsements Legislative Accomplishments Spartanburg Enrichment Donate Here Contact More Use tab to navigate through the menu items.
+Vote Henderson-Myers Vote Henderson-Myers Vote Henderson-Myers Vote Henderson-Myers Log In Donate Here Representative Rosalyn Henderson-Myers [Full Biography] Representative Rosalyn Henderson-Myers [Full Biography] Representative Rosalyn Henderson-Myers [Full Biography] Representative Rosalyn Henderson-Myers [Full Biography] Personal Profile Ms.
 Rosalyn Henderson-Myers (formerly Rosalyn Mattingly) having a diverse legal background for over 30 years has counseled and represented clients in thousands of bench trial cases and has tried over 120 jury trials to verdict where she boasts a 90 percent win ratio.
 She has represented both corporate and individual clients in the areas of family law, criminal law, probate law, personal injury, bankruptcy, social security disability, corporate defense, and general civil litigation.
 She is a certified arbitrator with the American Arbitration Association (AAA), the Financial Industry Regulatory Authority (FINRA), and the American Health Lawyers Association (AHLA).
@@ -48,19 +46,5 @@ She is the proud grandmother of Logan, Channing, and Ari.
 Ms.
 Henderson-Myers is a graduate of Spartanburg High School, and holds a Bachelor of Arts degree in Political Science from the University of South Carolina in Columbia, SC, a Juris Doctorate degree from Tulane University Law School in New Orleans, LA and is currently in the Executive PHD program at the Nelson Mandela School of Public Policy at Southern University in Baton Rouge, LA.
 She also holds an Honorary Doctorate degree in Humane Letters from the FMI Biblical Studies & Seminary.
-Her motto is “Be the change you want to see in the world “
-2022
-FMI Biblical Studies and Seminary - Columbia, SC
-Honorary Doctor of Humane Letters
-1993
-Tulane University - New Orleans, LA
-Juris Doctorate
-1978
-University of South Carolina - Columbia, S.C.
-Bachelor of Arts in Political Science
-2024
-Nelson Mandela School of Public Policy Southern University - Baton Rouge, LA
-Doctorate in Public Policy
-1974
-Spartanburg Highschool - Spartanburg, SC
-Highschool Diploma
+Her motto is “Be the change you want to see in the world “ 2022 FMI Biblical Studies and Seminary - Columbia, SC Honorary Doctor of Humane Letters 1993 Tulane University - New Orleans, LA Juris Doctorate 1978 University of South Carolina - Columbia, S.C.
+Bachelor of Arts in Political Science 2024 Nelson Mandela School of Public Policy Southern University - Baton Rouge, LA Doctorate in Public Policy 1974 Spartanburg Highschool - Spartanburg, SC Highschool Diploma Education © # Paid for by Rosalyn Henderson-Myers bottom of page

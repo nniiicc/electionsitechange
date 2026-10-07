@@ -1,7 +1,9 @@
 {
  "description": "Eric Helvy in the News",
  "final_url": "https://www.helvyforgeorgia.com/news",
- "paid_for_by": null,
+ "fingerprint": "0ebf13b20b7ad67e669db990ff7cd6ccb47badbd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2026"

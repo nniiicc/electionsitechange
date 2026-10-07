@@ -1,32 +1,190 @@
 [
-"https://facebook.com/scotttjacksonforga",
-"https://instagram.com/scotttjacksonforga",
-"https://linkedin.com/in/scotttjackson",
-"https://scotttjacksonforga.com/",
-"https://scotttjacksonforga.com/Priorities/economic-opprotunity",
-"https://scotttjacksonforga.com/Priorities/education-workforce",
-"https://scotttjacksonforga.com/Priorities/healthcare-access",
-"https://scotttjacksonforga.com/Priorities/infrastructure",
-"https://scotttjacksonforga.com/Priorities/responsible-government",
-"https://scotttjacksonforga.com/Priorities/safe-communities",
-"https://scotttjacksonforga.com/author/sjack",
-"https://scotttjacksonforga.com/category/campaign-updates",
-"https://scotttjacksonforga.com/category/community",
-"https://scotttjacksonforga.com/category/events",
-"https://scotttjacksonforga.com/category/priorities",
-"https://scotttjacksonforga.com/contact-us",
-"https://scotttjacksonforga.com/endorse-scott",
-"https://scotttjacksonforga.com/events",
-"https://scotttjacksonforga.com/georgia-primary-election-may-19-2026",
-"https://scotttjacksonforga.com/meet-scott",
-"https://scotttjacksonforga.com/news",
-"https://scotttjacksonforga.com/our-priorities-building-a-stronger-district-111",
-"https://scotttjacksonforga.com/out-in-the-community-listening-to-district-111",
-"https://scotttjacksonforga.com/priorities",
-"https://scotttjacksonforga.com/privacy-policy",
-"https://scotttjacksonforga.com/terms-and-conditions",
-"https://scotttjacksonforga.com/this-campaign-is-powered-by-you",
-"https://scotttjacksonforga.com/volunteer",
-"https://scotttjacksonforga.com/why-im-running-for-georgia-house-district-111",
-"https://secure.actblue.com/donate/scotttjacksonforga"
+{
+"text": "Campaign Updates",
+"href": "https://scotttjacksonforga.com/category/campaign-updates/"
+},
+{
+"text": "Community",
+"href": "https://scotttjacksonforga.com/category/community/"
+},
+{
+"text": "Contact Us",
+"href": "https://scotttjacksonforga.com/contact-us/"
+},
+{
+"text": "Contact the Campaign: (404) 953-5268",
+"href": "tel:14049535268"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/scotttjacksonforga"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scotttjacksonforga"
+},
+{
+"text": "ENDORSE TODAY",
+"href": "https://scotttjacksonforga.com/endorse-scott"
+},
+{
+"text": "Economic Opprotunity",
+"href": "https://scotttjacksonforga.com/Priorities/economic-opprotunity/"
+},
+{
+"text": "Education & Workforce",
+"href": "https://scotttjacksonforga.com/Priorities/education-workforce/"
+},
+{
+"text": "Email: info@scotttjacksonforga.com",
+"href": "mailto:info@scotttjacksonforga.com"
+},
+{
+"text": "Endorse Scott",
+"href": "https://scotttjacksonforga.com/endorse-scott/"
+},
+{
+"text": "Events",
+"href": "https://scotttjacksonforga.com/category/events/"
+},
+{
+"text": "Events",
+"href": "https://scotttjacksonforga.com/events/"
+},
+{
+"text": "Georgia Primary Election — May 19, 2026",
+"href": "https://scotttjacksonforga.com/georgia-primary-election-may-19-2026/"
+},
+{
+"text": "Healthcare Access",
+"href": "https://scotttjacksonforga.com/Priorities/healthcare-access/"
+},
+{
+"text": "Home",
+"href": "https://scotttjacksonforga.com/"
+},
+{
+"text": "Infrastructure",
+"href": "https://scotttjacksonforga.com/Priorities/infrastructure/"
+},
+{
+"text": "March 22, 2026",
+"href": "https://scotttjacksonforga.com/georgia-primary-election-may-19-2026/"
+},
+{
+"text": "March 24, 2026",
+"href": "https://scotttjacksonforga.com/why-im-running-for-georgia-house-district-111/"
+},
+{
+"text": "March 26, 2026",
+"href": "https://scotttjacksonforga.com/our-priorities-building-a-stronger-district-111/"
+},
+{
+"text": "March 28, 2026",
+"href": "https://scotttjacksonforga.com/out-in-the-community-listening-to-district-111/"
+},
+{
+"text": "March 31, 2026",
+"href": "https://scotttjacksonforga.com/this-campaign-is-powered-by-you/"
+},
+{
+"text": "Meet Scott",
+"href": "https://scotttjacksonforga.com/meet-scott/"
+},
+{
+"text": "News",
+"href": "https://scotttjacksonforga.com/news/"
+},
+{
+"text": "Our Priorities: Building a Stronger District 111",
+"href": "https://scotttjacksonforga.com/our-priorities-building-a-stronger-district-111/"
+},
+{
+"text": "Out in the Community: Listening to District 111",
+"href": "https://scotttjacksonforga.com/out-in-the-community-listening-to-district-111/"
+},
+{
+"text": "Priorities",
+"href": "https://scotttjacksonforga.com/category/priorities/"
+},
+{
+"text": "Priorities",
+"href": "https://scotttjacksonforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scotttjacksonforga.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://scotttjacksonforga.com/out-in-the-community-listening-to-district-111/"
+},
+{
+"text": "Responsible Government",
+"href": "https://scotttjacksonforga.com/Priorities/responsible-government/"
+},
+{
+"text": "Safe Communities",
+"href": "https://scotttjacksonforga.com/Priorities/safe-communities/"
+},
+{
+"text": "Scott Jackson",
+"href": "https://scotttjacksonforga.com/author/sjack/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://scotttjacksonforga.com/terms-and-conditions/"
+},
+{
+"text": "This Campaign Is Powered by You",
+"href": "https://scotttjacksonforga.com/this-campaign-is-powered-by-you/"
+},
+{
+"text": "VOLUNTEER TODAY",
+"href": "https://scotttjacksonforga.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://scotttjacksonforga.com/volunteer/"
+},
+{
+"text": "Why I’m Running for Georgia House District 111",
+"href": "https://scotttjacksonforga.com/why-im-running-for-georgia-house-district-111/"
+},
+{
+"text": "[image: Scott T. Jackson for GA][image: Scott T. Jackson for GA]",
+"href": "https://scotttjacksonforga.com/"
+},
+{
+"text": "[image]",
+"href": "https://scotttjacksonforga.com/georgia-primary-election-may-19-2026/"
+},
+{
+"text": "[image]",
+"href": "https://scotttjacksonforga.com/our-priorities-building-a-stronger-district-111/"
+},
+{
+"text": "[image]",
+"href": "https://scotttjacksonforga.com/out-in-the-community-listening-to-district-111/"
+},
+{
+"text": "[image]",
+"href": "https://scotttjacksonforga.com/this-campaign-is-powered-by-you/"
+},
+{
+"text": "[image]",
+"href": "https://scotttjacksonforga.com/why-im-running-for-georgia-house-district-111/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/scotttjacksonforga/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/scotttjacksonforga"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/in/scotttjackson"
+}
 ]

@@ -1,18 +1,78 @@
 [
-"http://brookingscountysd.gov/DocumentCenter/View/412",
-"http://brown.sd.us/sites/default/files/Vote%20Centers_1.pdf",
-"http://gis.rcgov.org/maps/prec00.pdf",
-"http://minnehahacounty.org/dept/au/election/maps/siouxfallsprecincts.pdf",
-"http://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-"http://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://facebook.com/mikerounds",
-"https://roundsforsenate.com/",
-"https://roundsforsenate.com/about",
-"https://roundsforsenate.com/contact",
-"https://roundsforsenate.com/issues",
-"https://roundsforsenate.com/media",
-"https://roundsforsenate.com/privacy-policy",
-"https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite",
-"https://twitter.com/RoundsforSenate",
-"https://youtube.com/@RoundsforSenateSD"
+{
+"text": "About",
+"href": "https://roundsforsenate.com/about/"
+},
+{
+"text": "Brookings County",
+"href": "http://www.brookingscountysd.gov/DocumentCenter/View/412"
+},
+{
+"text": "Brown County",
+"href": "http://brown.sd.us/sites/default/files/Vote%20Centers_1.pdf"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rounds/website?sc=20250915_MROUNDS_PROC_WEB_WEBSITE_WEB&bundlerid=wrwebsite"
+},
+{
+"text": "Issues",
+"href": "https://roundsforsenate.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://roundsforsenate.com/media/"
+},
+{
+"text": "Minnehaha County",
+"href": "http://www.minnehahacounty.org/dept/au/election/maps/siouxfallsprecincts.pdf"
+},
+{
+"text": "Pennington County",
+"href": "http://gis.rcgov.org/maps/prec00.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://roundsforsenate.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "http://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "Requesting an Absentee Ballot",
+"href": "http://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+},
+{
+"text": "Take Action",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://roundsforsenate.com/contact/"
+},
+{
+"text": "[image]",
+"href": "https://roundsforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RoundsforSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikerounds"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RoundsforSenateSD"
+}
 ]

@@ -1,15 +1,54 @@
 [
-"https://elections.jeffersoncountyclerk.org/ballot-drop-box-locations",
-"https://elections.jeffersoncountyclerk.org/inhouse_absentee",
-"https://flemingforkentucky.com/",
-"https://flemingforkentucky.com/about-ken",
-"https://flemingforkentucky.com/accomplishments",
-"https://flemingforkentucky.com/contact",
-"https://flemingforkentucky.com/donate",
-"https://flemingforkentucky.com/get-involved",
-"https://flemingforkentucky.com/how-to-vote-in-the-general-election",
-"https://flemingforkentucky.com/issues-actions",
-"https://jeffersoncountyclerk.org/wheredoivote",
-"https://oldham.countyclerk.us/elections",
-"https://oldham.countyclerk.us/elections/polling-locations"
+{
+"text": "About Ken",
+"href": "https://flemingforkentucky.com/about-ken/"
+},
+{
+"text": "Accomplishments",
+"href": "https://flemingforkentucky.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://flemingforkentucky.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://flemingforkentucky.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://flemingforkentucky.com/get-involved/"
+},
+{
+"text": "How to Vote in the General Election",
+"href": "https://flemingforkentucky.com/how-to-vote-in-the-general-election/"
+},
+{
+"text": "Issues & Actions",
+"href": "https://flemingforkentucky.com/issues-actions/"
+},
+{
+"text": "JEFFERSON COUNTY – In-person, No-excuse, Absentee Early Voting before Election Day, October 29th – October 31st, 2026",
+"href": "https://elections.jeffersoncountyclerk.org/inhouse_absentee/"
+},
+{
+"text": "Learn More",
+"href": "https://elections.jeffersoncountyclerk.org/ballot-drop-box-locations/"
+},
+{
+"text": "Learn More",
+"href": "https://jeffersoncountyclerk.org/wheredoivote/"
+},
+{
+"text": "Learn More",
+"href": "https://oldham.countyclerk.us/elections/polling-locations/"
+},
+{
+"text": "OLDHAM COUNTY – In-person, No-excuse, Absentee Early Voting before Election Day, October 29th- October 31st, 2026",
+"href": "https://oldham.countyclerk.us/elections/"
+},
+{
+"text": "[image: Fleming for Kentucky]",
+"href": "https://flemingforkentucky.com/"
+}
 ]

@@ -1,11 +1,46 @@
 [
-"http://instagram.com/wix",
-"http://twitter.com/wix",
-"http://youtube.com/user/Wix",
-"https://alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action",
-"https://craiglipscomb.com/",
-"https://craiglipscomb.com/copy-of-home",
-"https://craiglipscomb.com/meet-craig",
-"https://facebook.com/CraigLipscomb30",
-"https://zipdatamaps.com/politics/state-level/district/map-of-alabama-state-house-of-representatives-district-030"
+{
+"text": "Craig Lipscomb - Alabama House District 30",
+"href": "https://www.craiglipscomb.com"
+},
+{
+"text": "GRANTS & COMMUNITY DEVELOPMENT",
+"href": "https://www.craiglipscomb.com/copy-of-home"
+},
+{
+"text": "HOME",
+"href": "https://www.craiglipscomb.com"
+},
+{
+"text": "MEET CRAIG",
+"href": "https://www.craiglipscomb.com/meet-craig"
+},
+{
+"text": "Representative",
+"href": "https://www.craiglipscomb.com"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "https://www.facebook.com/CraigLipscomb30/"
+},
+{
+"text": "[image: Instagram Clean Grey]",
+"href": "http://instagram.com/wix"
+},
+{
+"text": "[image: Screenshot 2021-08-09 122409.jpg]",
+"href": "https://www.zipdatamaps.com/politics/state-level/district/map-of-alabama-state-house-of-representatives-district-030"
+},
+{
+"text": "[image: Twitter Clean Grey]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: YouTube Clean Grey]",
+"href": "http://youtube.com/user/Wix"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+}
 ]

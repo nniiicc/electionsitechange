@@ -1,7 +1,11 @@
 {
  "description": "Larry Thompson Campaign Events",
  "final_url": "https://www.larrythompsonforcongress.com/Events?range=2026-W42",
+ "fingerprint": "b8094564a978814683a3c22f60bd24448a4e48d2",
+ "format": 3,
  "paid_for_by": "PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner",
  "title": "Larry Thompson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

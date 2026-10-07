@@ -1,19 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Allenspark+Meet+%26+Greet&dates=20260523T200000Z%2F20260523T220000Z&location=Allenspark%2C+CO",
-"http://maps.google.com/?q=+Allenspark%2C+CO",
-"https://facebook.com/janiceforcolorado",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/allenspark-meet-greet?format=ical",
-"https://janiceforcolorado.com/events/estes-valley-meet-and-greet",
-"https://janiceforcolorado.com/events/knock-doors-with-team-marchman",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/allenspark",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+allenspark%2C+co+"
+},
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Allenspark+Meet+%26+Greet&dates=20260523T200000Z%2F20260523T220000Z&location=Allenspark%2C+CO"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Next Next June 20 Knock Doors with Team Marchman",
+"href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
+},
+{
+"text": "Previous Previous April 25 Estes Valley Meet and Greet",
+"href": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "RSVP",
+"href": "https://secure.actblue.com/donate/allenspark"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/allenspark"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+}
 ]

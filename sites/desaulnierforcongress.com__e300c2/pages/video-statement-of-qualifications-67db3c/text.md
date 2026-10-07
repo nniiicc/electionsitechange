@@ -1,4 +1,1 @@
-https://www.facebook.com/MarkDeSaulnier/videos/352558608621889/
-Skip to content
-Video Statement of Qualifications
-https://www.facebook.com/MarkDeSaulnier/videos/352558608621889/
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu Video Statement of Qualifications Press Release / November 2, 2018 April 20, 2021 https://www.facebook.com/MarkDeSaulnier/videos/352558608621889/ Post navigation ← Previous Post Next Post → Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

@@ -1,16 +1,7 @@
-Press Release
-Walk and Talk with State Representative Carole Fiola
-State Representative Carole Fiola Files HD4491
-“Walk and Talk” with State Representative Carole Fiola
-Chapter 90 Funding for Fall River and Freetown Passes in Legislature
-Health Connector Open Enrollment and #StayCovered Tool Kit
-Local Organizations See Notable Increase in Grant Funding Following Meeting with Area Legislators
-Special Edition: Coffee and Conversation with Carole
-State Representative Fiola and Durfee High School Student Government Sponsor Second Annual Four-Legged Friends Donation Drive for Local Shelters
-State Rep.
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Press Release Walk and Talk with State Representative Carole Fiola September 20, 2019 Continue reading State Representative Carole Fiola Files HD4491 September 17, 2019 Continue reading “Walk and Talk” with State Representative Carole Fiola June 7, 2019 Continue reading Chapter 90 Funding for Fall River and Freetown Passes in Legislature June 7, 2019 Continue reading Health Connector Open Enrollment and #StayCovered Tool Kit November 2, 2018 Continue reading Local Organizations See Notable Increase in Grant Funding Following Meeting with Area Legislators October 31, 2018 Continue reading Special Edition: Coffee and Conversation with Carole October 26, 2018 Continue reading State Representative Fiola and Durfee High School Student Government Sponsor Second Annual Four-Legged Friends Donation Drive for Local Shelters October 24, 2018 Continue reading State Rep.
 Fiola Receives Funding for Restoration of Fall River Fire Museum, Inc.
-Pictured above: Edward Hill Jr., Fall River Fire Museum, Inc.
+October 15, 2018 Pictured above: Edward Hill Jr., Fall River Fire Museum, Inc.
 Board Member, Retired Firefighter Kenneth Leger, Fall River Fire Museum, Inc.
 Secretary, State Representative Carole Fiola, Mike LePage, Fall River Fire Museum, Inc.
 President.
-Continue reading
+Continue reading Fiola Appointed to State Commission on Recovery Coaching and Justice Reinvestment Oversight Board October 15, 2018 Continue reading « Newer Posts Older Posts » Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Tweets by @CaroleFiola Sign up to the Newsletter Email Address Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing

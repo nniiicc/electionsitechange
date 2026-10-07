@@ -1,16 +1,66 @@
 [
-"http://facebook.com/fabian.basabe2",
-"http://instagram.com/fabianbasabe2",
-"https://fabianbasabe.com/",
-"https://fabianbasabe.com/cart",
-"https://fabianbasabe.com/contact",
-"https://fabianbasabe.com/endorsement",
-"https://fabianbasabe.com/gallery",
-"https://fabianbasabe.com/home",
-"https://fabianbasabe.com/meet",
-"https://fabianbasabe.com/privacy-policy",
-"https://fabianbasabe.com/volunteer",
-"https://relicdigital.com/",
-"https://secure.anedot.com/c60a73ff-5561-4770-b16f-64cec99d239e/donate",
-"https://twitter.com/fabianbasabe2"
+{
+"text": "0",
+"href": "https://fabianbasabe.com/cart"
+},
+{
+"text": "Back",
+"href": "https://fabianbasabe.com/"
+},
+{
+"text": "Contact",
+"href": "https://fabianbasabe.com/contact"
+},
+{
+"text": "Contact Webmaster",
+"href": "https://relicdigital.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/c60a73ff-5561-4770-b16f-64cec99d239e/donate"
+},
+{
+"text": "ENDORSEMENT",
+"href": "https://fabianbasabe.com/endorsement"
+},
+{
+"text": "Fabián Basabe for Florida State House Representative",
+"href": "https://fabianbasabe.com/"
+},
+{
+"text": "Gallery",
+"href": "https://fabianbasabe.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://fabianbasabe.com/home"
+},
+{
+"text": "Meet FB",
+"href": "https://fabianbasabe.com/meet"
+},
+{
+"text": "Meet Fabián",
+"href": "https://fabianbasabe.com/meet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fabianbasabe.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://fabianbasabe.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/fabian.basabe2"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/fabianbasabe2"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/fabianbasabe2"
+}
 ]

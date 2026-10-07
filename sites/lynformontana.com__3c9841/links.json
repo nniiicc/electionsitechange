@@ -1,11 +1,54 @@
 [
-"https://lynformontana.com/",
-"https://lynformontana.com/about",
-"https://lynformontana.com/articles",
-"https://lynformontana.com/contact",
-"https://lynformontana.com/donate",
-"https://lynformontana.com/issues",
-"https://lynformontana.com/privacy-policy",
-"https://lynformontana.com/raffle",
-"https://verastly.com/"
+{
+"text": "Articles",
+"href": "https://www.lynformontana.com/articles"
+},
+{
+"text": "Contact",
+"href": "https://www.lynformontana.com/contact"
+},
+{
+"text": "Contribute Now!",
+"href": "https://www.lynformontana.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.lynformontana.com/donate"
+},
+{
+"text": "Enter Here",
+"href": "https://www.lynformontana.com/raffle"
+},
+{
+"text": "Home",
+"href": "https://www.lynformontana.com"
+},
+{
+"text": "Meet Lyn",
+"href": "https://www.lynformontana.com/about"
+},
+{
+"text": "On The Issues",
+"href": "https://www.lynformontana.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lynformontana.com/privacy-policy"
+},
+{
+"text": "Verastly",
+"href": "https://verastly.com"
+},
+{
+"text": "[image: Lyn for Montana] [image: Lyn for Montana]",
+"href": "https://www.lynformontana.com"
+},
+{
+"text": "[image]",
+"href": "https://lynformontana.com"
+},
+{
+"text": "[image]",
+"href": "https://www.lynformontana.com/raffle"
+}
 ]

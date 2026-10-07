@@ -1,33 +1,130 @@
 [
-"https://facebook.com/profile.php?id=61588823610259",
-"https://instagram.com/vanoortforvermont",
-"https://tiktok.com/@vanoortforvermont",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/1000002582-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/1000006789-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/IMG_20200914_120714788_HDR-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/IMG_20201008_133127270-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/baroque-dance.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/booth-photo-2026-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/cb2a891a-4105-428a-aa01-12fa067f64a9-1_all_7615-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/in-woods-in-winter.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/jess-gardening-today-scaled.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/jess-teaching-dance.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/new-years-during-covid.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/painting-house.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/ruth-and-jess-green-beans.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/ruth-with-witshold-sign.jpg",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-1.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-11.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-12.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-13.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-21.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-3.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-5.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-6.png",
-"https://vanoortforvermont.com/wp-content/uploads/2026/05/wforehead.touch_.jpg"
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "[image: A young chicken sits on Jessica's head]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/1000006789-scaled.jpg"
+},
+{
+"text": "[image: An early version of our shop]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-5.png"
+},
+{
+"text": "[image: At thanksgiving with the family casserole recipe]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/ruth-and-jess-green-beans.jpg"
+},
+{
+"text": "[image: Celebrating New Year's in our barn]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/new-years-during-covid.jpg"
+},
+{
+"text": "[image: Climbing Mount Mansfield]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/IMG_20200914_120714788_HDR-scaled.jpg"
+},
+{
+"text": "[image: Dancing at college]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-13.png"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "[image: Hiking together as kids]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-6.png"
+},
+{
+"text": "[image: Jessica and Ruth's wedding]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/wforehead.touch_.jpg"
+},
+{
+"text": "[image: Jessica and her dad getting a calf ready for the county fair]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-11.png"
+},
+{
+"text": "[image: Jessica hiking]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/IMG_20201008_133127270-scaled.jpg"
+},
+{
+"text": "[image: Jessica in her garden this year]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/jess-gardening-today-scaled.jpg"
+},
+{
+"text": "[image: Our pottery shop when it first opened]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/ruth-with-witshold-sign.jpg"
+},
+{
+"text": "[image: Painting the house when we first moved in]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/painting-house.jpg"
+},
+{
+"text": "[image: Performing baroque dance]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/baroque-dance.jpg"
+},
+{
+"text": "[image: Plant lady touching grass]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/1000002582-scaled.jpg"
+},
+{
+"text": "[image: Ruth and Jessica at Anime Central this year]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/booth-photo-2026-scaled.jpg"
+},
+{
+"text": "[image: Taking baby chicks on an outdoor excursion]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/cb2a891a-4105-428a-aa01-12fa067f64a9-1_all_7615-scaled.jpg"
+},
+{
+"text": "[image: Teaching dance in the studio at St. Gregory's University]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/jess-teaching-dance.jpg"
+},
+{
+"text": "[image: The family, including Ruth, camping]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-3.png"
+},
+{
+"text": "[image: The woods behind our house in winter]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/in-woods-in-winter.jpg"
+},
+{
+"text": "[image: Tiny ballet dancer]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-12.png"
+},
+{
+"text": "[image: Young Jessica and her garden]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-21.png"
+},
+{
+"text": "[image: Young Jessica at Ruth's birthday party]",
+"href": "https://vanoortforvermont.com/wp-content/uploads/2026/05/vo4vt-photo-1.png"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588823610259"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vanoortforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@vanoortforvermont"
+}
 ]

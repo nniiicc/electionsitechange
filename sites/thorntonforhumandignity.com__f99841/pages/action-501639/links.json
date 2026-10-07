@@ -1,24 +1,102 @@
 [
-"http://wordpress.org/",
-"https://registertovoteflorida.gov/home",
-"https://solidarity-party.org/",
-"https://thorntonforhumandignity.com/",
-"https://thorntonforhumandignity.com/action",
-"https://thorntonforhumandignity.com/asp-principles",
-"https://thorntonforhumandignity.com/contact-us",
-"https://thorntonforhumandignity.com/donate",
-"https://thorntonforhumandignity.com/fl-senate-district-06",
-"https://thorntonforhumandignity.com/legislation-proposed",
-"https://thorntonforhumandignity.com/legislation-proposed/abolish-the-death-penalty",
-"https://thorntonforhumandignity.com/legislation-proposed/dignified-immigration-management",
-"https://thorntonforhumandignity.com/legislation-proposed/the-florida-ai-bill",
-"https://thorntonforhumandignity.com/magnifica-humanitas",
-"https://thorntonforhumandignity.com/press-releases",
-"https://thorntonforhumandignity.com/topics",
-"https://thorntonforhumandignity.com/topics/affordability",
-"https://thorntonforhumandignity.com/topics/immigration",
-"https://thorntonforhumandignity.com/topics/statement-on-the-iran-war",
-"https://thorntonforhumandignity.com/topics/statement-on-threats-of-genocide-and-impeachment",
-"https://thorntonforhumandignity.com/topics/top-three-policy-areas",
-"https://wordpress.org/)"
+{
+"text": "Abolish the Death Penalty",
+"href": "https://thorntonforhumandignity.com/legislation-proposed/abolish-the-death-penalty/"
+},
+{
+"text": "About",
+"href": "https://thorntonforhumandignity.com/"
+},
+{
+"text": "Action",
+"href": "https://thorntonforhumandignity.com/action/"
+},
+{
+"text": "Affordability",
+"href": "https://thorntonforhumandignity.com/topics/affordability/"
+},
+{
+"text": "American Solidarity Party (ASP) Principles",
+"href": "https://thorntonforhumandignity.com/asp-principles/"
+},
+{
+"text": "Contact Us",
+"href": "https://thorntonforhumandignity.com/contact-us/"
+},
+{
+"text": "Dignified Immigration Management",
+"href": "https://thorntonforhumandignity.com/legislation-proposed/dignified-immigration-management/"
+},
+{
+"text": "Donations",
+"href": "https://thorntonforhumandignity.com/donate/"
+},
+{
+"text": "FL Senate District 06",
+"href": "https://thorntonforhumandignity.com/fl-senate-district-06/"
+},
+{
+"text": "Facebook",
+"href": "http://wordpress.org"
+},
+{
+"text": "Immigration",
+"href": "https://thorntonforhumandignity.com/topics/immigration/"
+},
+{
+"text": "Legislation",
+"href": "https://thorntonforhumandignity.com/legislation-proposed/"
+},
+{
+"text": "LinkedIn",
+"href": "http://wordpress.org"
+},
+{
+"text": "Magnifica Humanitas",
+"href": "https://thorntonforhumandignity.com/magnifica-humanitas/"
+},
+{
+"text": "Press Releases",
+"href": "https://thorntonforhumandignity.com/press-releases/"
+},
+{
+"text": "Statement on Threats of Genocide and Impeachment",
+"href": "https://thorntonforhumandignity.com/topics/statement-on-threats-of-genocide-and-impeachment/"
+},
+{
+"text": "Statement on the Iran War",
+"href": "https://thorntonforhumandignity.com/topics/statement-on-the-iran-war/"
+},
+{
+"text": "The FLORIDA AI BILL",
+"href": "https://thorntonforhumandignity.com/legislation-proposed/the-florida-ai-bill/"
+},
+{
+"text": "Thornton FL SD 06",
+"href": "https://thorntonforhumandignity.com"
+},
+{
+"text": "Top Three POLICY AREAS",
+"href": "https://thorntonforhumandignity.com/topics/top-three-policy-areas/"
+},
+{
+"text": "Topics",
+"href": "https://thorntonforhumandignity.com/topics/"
+},
+{
+"text": "Tumblr",
+"href": "http://wordpress.org"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org/)"
+},
+{
+"text": "https://registertovoteflorida.gov/home",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "https://www.solidarity-party.org/",
+"href": "https://www.solidarity-party.org/"
+}
 ]

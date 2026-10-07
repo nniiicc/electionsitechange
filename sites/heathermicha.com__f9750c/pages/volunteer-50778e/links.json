@@ -1,14 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61588430234819",
-"https://facebook.com/profile.php?id=61588430234819&sk=directory_intro",
-"https://forms.gle/tqtnLFPKbzetY7V99",
-"https://heathermicha.com/",
-"https://heathermicha.com/about",
-"https://heathermicha.com/contribute",
-"https://heathermicha.com/greet",
-"https://heathermicha.com/home7e3425c5",
-"https://heathermicha.com/policy",
-"https://heathermicha.com/volunteer",
-"https://paypal.com/donate?hosted_button_id=DF74H2N6SK2ZY",
-"https://twitter.com/@michaheather"
+{
+"text": "CLICK HERE TO CONTRIBUTE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=DF74H2N6SK2ZY"
+},
+{
+"text": "Click here to volunteer",
+"href": "https://forms.gle/tqtnLFPKbzetY7V99"
+},
+{
+"text": "Community Involvement",
+"href": "https://www.heathermicha.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://www.heathermicha.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.heathermicha.com/"
+},
+{
+"text": "Home",
+"href": "https://www.heathermicha.com/home7e3425c5"
+},
+{
+"text": "Policy",
+"href": "https://www.heathermicha.com/policy"
+},
+{
+"text": "United in Diversity",
+"href": "https://www.heathermicha.com/greet"
+},
+{
+"text": "Volunteer",
+"href": "https://www.heathermicha.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/@michaheather"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588430234819"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588430234819&sk=directory_intro"
+}
 ]

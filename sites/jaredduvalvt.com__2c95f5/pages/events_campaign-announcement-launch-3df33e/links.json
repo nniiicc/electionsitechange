@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Announcement+%26+Launch%21&dates=20260427T160000Z%2F20260427T170000Z",
-"https://facebook.com/JaredDuvalVT",
-"https://instagram.com/jaredduvalvt",
-"https://instagram.com/p/DY0nYvClEYl",
-"https://jaredduvalvt.com/",
-"https://jaredduvalvt.com/about",
-"https://jaredduvalvt.com/cart",
-"https://jaredduvalvt.com/contact",
-"https://jaredduvalvt.com/endorsements",
-"https://jaredduvalvt.com/events",
-"https://jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65",
-"https://jaredduvalvt.com/events/campaign-announcement-launch?format=ical",
-"https://jaredduvalvt.com/events/vermont-primary-84mdz",
-"https://jaredduvalvt.com/get-involved",
-"https://jaredduvalvt.com/home",
-"https://jaredduvalvt.com/news",
-"https://jaredduvalvt.com/on-the-issues",
-"https://secure.actblue.com/donate/jared-duval-1",
-"https://youtube.com/@jaredduvalvt5365"
+{
+"text": "0",
+"href": "https://www.jaredduvalvt.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.jaredduvalvt.com/home"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jaredduvalvt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jared-duval-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredduvalvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredduvalvt.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Announcement+%26+Launch%21&dates=20260427T160000Z%2F20260427T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/campaign-announcement-launch?format=ical"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "News",
+"href": "https://www.jaredduvalvt.com/news"
+},
+{
+"text": "Next Next June 11 Conversation at the Montpelier Senior Activity Center",
+"href": "https://www.jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65"
+},
+{
+"text": "On the Issues",
+"href": "https://www.jaredduvalvt.com/on-the-issues"
+},
+{
+"text": "Previous Previous August 9 Vermont Primary",
+"href": "https://www.jaredduvalvt.com/events/vermont-primary-84mdz"
+},
+{
+"text": "[image: Jared for House 2026]",
+"href": "https://www.jaredduvalvt.com/"
+},
+{
+"text": "[image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km][image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km]",
+"href": "https://www.instagram.com/p/DY0nYvClEYl/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaredDuvalVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredduvalvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jaredduvalvt5365"
+}
 ]

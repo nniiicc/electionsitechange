@@ -1,7 +1,17 @@
 {
  "description": "French Hill is our conservative voice on Capitol Hill, defending our Arkansas way of life and delivering on his promises.",
  "final_url": "https://www.electfrench.com/",
+ "fingerprint": "52898478a9a4d76835ad04fb09f288d24ace636b",
+ "format": 3,
  "paid_for_by": "Paid for by French Hill for Arkansas P",
  "title": "French Hill for Congress | Promises Made. Promises Kept.",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "1991",
+  "1993",
+  "1999",
+  "2013",
+  "2019",
+  "2025"
+ ]
 }

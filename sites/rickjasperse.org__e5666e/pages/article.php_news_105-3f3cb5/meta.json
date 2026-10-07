@@ -1,10 +1,13 @@
 {
  "description": "REPORT FROM THE CAPITOL - As you can imagine, it's busy at the General Assembly with just a few days left in the 2021 session. ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=105",
- "paid_for_by": null,
+ "fingerprint": "453dc5359f4cec8e4bd450b13a09f5cc0c4d2f66",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
   "2021",
-  "2022"
+  "2022",
+  "2039"
  ]
 }

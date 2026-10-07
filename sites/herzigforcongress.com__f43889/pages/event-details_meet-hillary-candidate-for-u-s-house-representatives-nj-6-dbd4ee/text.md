@@ -1,6 +1,2 @@
-Date and time is TBD
-Location is TBD
-Enjoy an inspiring night meeting Republican for U.S House Representatives NJ-6 in our district.
-Date and time is TBD
-Location is TBD
-$20.00
+top of page Menu Close Home About Hillary Welcome Donate Watch Videos Subscribe GET INVOLVED Events Join Meet Hillary - Candidate for U.S House Representatives NJ-6 Date and time is TBD | Location is TBD Enjoy an inspiring night meeting Republican for U.S House Representatives NJ-6 in our district.
+Buy Tickets Time & Location Date and time is TBD Location is TBD About the event Show More Tickets Price $20.00 Select Tickets Share this event bottom of page

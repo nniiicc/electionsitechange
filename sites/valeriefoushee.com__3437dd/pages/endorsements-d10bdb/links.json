@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/fousheefornc.bsky.social",
-"https://facebook.com/FousheeforNC",
-"https://instagram.com/fousheefornc",
-"https://secure.actblue.com/donate/blu-vcf-21q4-em",
-"https://secure.actblue.com/donate/foushee-web",
-"https://threads.com/@fousheefornc",
-"https://valeriefoushee.com/",
-"https://valeriefoushee.com/endorsements",
-"https://valeriefoushee.com/issues",
-"https://valeriefoushee.com/valeries-story",
-"https://valeriefoushee.com/volunteer",
-"https://x.com/FousheeforNC"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blu-vcf-21q4-em"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/foushee-web"
+},
+{
+"text": "Endorsements",
+"href": "https://valeriefoushee.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/FousheeforNC"
+},
+{
+"text": "Home",
+"href": "https://valeriefoushee.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fousheefornc/"
+},
+{
+"text": "Issues",
+"href": "https://valeriefoushee.com/issues/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@fousheefornc"
+},
+{
+"text": "Valerie’s Story",
+"href": "https://valeriefoushee.com/valeries-story/"
+},
+{
+"text": "Volunteer",
+"href": "https://valeriefoushee.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/FousheeforNC"
+},
+{
+"text": "[image]",
+"href": "https://valeriefoushee.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fousheefornc.bsky.social"
+}
 ]

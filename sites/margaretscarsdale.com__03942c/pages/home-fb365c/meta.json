@@ -1,7 +1,9 @@
 {
  "description": "Campaign website for State Representative Margaret Scarsdale",
  "final_url": "https://www.margaretscarsdale.com/home",
- "paid_for_by": "Paid for by the Scarsdale Committee \u00b7 PO Box 1108 \u00b7 Pepperell, MA 01463 | Privacy Policy",
+ "fingerprint": "ff51f03cb40c781171cfc928bf29ead3d77b5b85",
+ "format": 3,
+ "paid_for_by": "Paid for by the Scarsdale Committee · PO Box 1108 · Pepperell, MA 01463",
  "title": "Re-Elect State Representative Margaret Scarsdale",
  "years_mentioned": [
   "2026"

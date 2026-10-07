@@ -1,11 +1,4 @@
-VICTORY IN THE PRIMARY
-Thank you for your support winning the Republican Primary.
+0 Skip to Content Home Calendar Meet Jeff Get Involved Donate Open Menu Close Menu Home Calendar Meet Jeff Get Involved Donate Open Menu Close Menu Home Calendar Meet Jeff Get Involved Donate VICTORY IN THE PRIMARY Thank you for your support winning the Republican Primary.
 As we move toward the General Election in November, I am reminded of the tremendous honor and responsibility it is to represent the memberrs of this community.
-If you would like to continue helping with the momentum of our campaign GET INVOLVED through the link on our page and stay informed by following our campaign activities on social.
-missouri state representative
-District 30
-candidate at work for the residents
-of Blue Springs and Lee’s Summit
-“Jackson County families need a commonsense voice to represent them.
-I will promote civility and reject political extremism in the Missouri House.”
-- JeffMartin
+If you would like to continue helping with the momentum of our campaign GET INVOLVED through the link on our page and stay informed by following our campaign activities on social. missouri state representative District 30 candidate at work for the residents of Blue Springs and Lee’s Summit “Jackson County families need a commonsense voice to represent them.
+I will promote civility and reject political extremism in the Missouri House. ” ‍ ‍ - JeffMartin PAID FOR BY CITIZENS FOR JEFF MARTIN, BRETT EURITT, TREASURER

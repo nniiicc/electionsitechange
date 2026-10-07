@@ -1,7 +1,11 @@
 {
  "description": "Check out Representative Annie Menz platform for the next Legislative session.",
  "final_url": "https://www.anniemenz.com/Platform",
- "paid_for_by": null,
+ "fingerprint": "10abc60f9d52ada3adf65f9016f28f893c125aaa",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Annie Menz 2026 You need to enable JavaScript to run this app",
  "title": "Rep. Annie Menz Platform",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

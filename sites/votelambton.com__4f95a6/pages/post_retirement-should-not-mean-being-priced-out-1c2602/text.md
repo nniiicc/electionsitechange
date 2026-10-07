@@ -1,11 +1,11 @@
-Retirement Should Not Mean Being Priced Out
-For seniors across Brewster, Dennis, and Yarmouth, affordability is about more than the price of groceries or the number on a property tax bill.
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+All Articles Search Retirement Should Not Mean Being Priced Out clambton13 Jul 29 2 min read For seniors across Brewster, Dennis, and Yarmouth, affordability is about more than the price of groceries or the number on a property tax bill.
 It is about whether someone who has spent decades building a life here can afford to remain here.
 Too many older residents are being squeezed from every direction.
 Property taxes and insurance costs are increasing.
 Utilities, health care, home repairs, licenses, permits, and everyday town expenses continue to add up.
 For retirees living on fixed incomes, even relatively small increases can become the difference between remaining independent and being forced to leave the community they call home.
-That is why I am honored to have earned the endorsement of Mass Retirees, an organization that has spent decades fighting for the retirement security, health care, and economic dignity of public retirees.
+That is why I am honored to have earned the endorsement of Mass Retirees , an organization that has spent decades fighting for the retirement security, health care, and economic dignity of public retirees.
 Their work reflects a basic principle: retirement benefits should maintain their value, health care must remain affordable, and people who devoted their careers to public service should not find their security eroded year after year.
 Mass Retirees has made improved cost-of-living adjustments and protection from rising health care costs central priorities.
 Those fights matter deeply on Cape Cod, where the cost of remaining in the community is especially high.
@@ -26,3 +26,4 @@ They should not be treated as an afterthought in debates about housing and affor
 A strong community allows people to remain connected to their neighbors, families, doctors, and daily routines as they grow older.
 Aging in place should not be a privilege reserved for those with substantial financial resources.
 It should be an attainable choice.
+Recent Posts See All Protecting Our Water is Personal Workers and the Functioning of Our Towns Our Coastal Community Cannot Wait for the Next Storm SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

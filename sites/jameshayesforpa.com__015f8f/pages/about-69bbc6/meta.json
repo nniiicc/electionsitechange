@@ -1,7 +1,11 @@
 {
  "description": "Learn about James Hayes for Congress, a Pennsylvania congressional candidate dedicated to revitalizing Pittsburgh through strong leadership.",
  "final_url": "https://jameshayesforpa.com/about",
- "paid_for_by": null,
+ "fingerprint": "e340bdb0e76b8a16ca44826a613c28c24ed43fbb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "James Hayes for Congress: Biography of a Pennsylvania Candidate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2005"
+ ]
 }

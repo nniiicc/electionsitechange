@@ -1,31 +1,8 @@
-Press Release�������������������������������
-Media Contact: Peggy Mayfield
-For
-Immediate Release�������������������������
-(317) 831-8683
-April
-12, 2012���������������� � ���������������
-peggy@peggymayfield.com
-Former Congressman Steve
-Buyer Endorses Peggy Mayfield
-Support Builds for Business Woman, Clerk to Take On Democrat Peggy
-Welch
-(Martinsville, IN)�Republican County Clerk Peggy Mayfield announced Thursday the endorsement of former 4th District Congressman Steve Buyer for her candidacy in the District 60 State Representative Republican Primary.�
-Congressman Buyer joins Martinsville Mayor Phil Deckard, Morgan County Sheriff Robert Garner, Senator Brent Steele, Representative Tom Saunders, Mooresville Town Clerk Sandy Perry, former Mooresville Town Council President and current Brown Township Mark Harris in endorsing Mayfield�s candidacy.
-�When you find someone with good virtues, good values, and sound character, they�re going to be effective and do what�s in the best interest of the people, and we can trust them to make the right judgments on our behalf,� said Congressman Buyer. �Peggy�s proven herself.
+Press Release ������������������������������� Media Contact: Peggy Mayfield For Immediate Release ������������������������� (317) 831-8683 April 12, 2012 ���������������� � ��������������� peggy@peggymayfield.com Former Congressman Steve Buyer Endorses Peggy Mayfield Support Builds for Business Woman, Clerk to Take On Democrat Peggy Welch (Martinsville, IN)�Republican County Clerk Peggy Mayfield announced Thursday the endorsement of former 4 th District Congressman Steve Buyer for her candidacy in the District 60 State Representative Republican Primary. � Congressman Buyer joins Martinsville Mayor Phil Deckard, Morgan County Sheriff Robert Garner, Senator Brent Steele, Representative Tom Saunders, Mooresville Town Clerk Sandy Perry, former Mooresville Town Council President and current Brown Township Mark Harris in endorsing Mayfield�s candidacy. �When you find someone with good virtues, good values, and sound character, they�re going to be effective and do what�s in the best interest of the people, and we can trust them to make the right judgments on our behalf,� said Congressman Buyer. �Peggy�s proven herself.
 I believe in her and trust her.
 I also have learned sometimes it only takes one person to stand up and fight a trend.
-That�s leadership, and I think that�s what Peggy is going to do.�
-�I am honored to have the support of Congressman
-Buyer.� Mayfield said. �If elected, I promise to bring my own conservative leadership principles and small
-town values to Indianapolis.�
-About
-Peggy Mayfield
-Peggy Mayfield, 48, is in her second term as Morgan County Clerk.� During her tenure, Peggy oversaw an annual budget of over half a million dollars and operated under budget every year, returning over $133,000 to the county�s general fund.� She is also an Executive Board Member of the Association of Clerks of Circuit Courts of Indiana and regularly testifies before the General Assembly on issues related to ballot access.
+That�s leadership, and I think that�s what Peggy is going to do.� �I am honored to have the support of Congressman Buyer.� Mayfield said. �If elected, I promise to bring my own conservative leadership principles and small town values to Indianapolis.� About Peggy Mayfield Peggy Mayfield, 48, is in her second term as Morgan County Clerk. � During her tenure, Peggy oversaw an annual budget of over half a million dollars and operated under budget every year, returning over $133,000 to the county�s general fund. � She is also an Executive Board Member of the Association of Clerks of Circuit Courts of Indiana and regularly testifies before the General Assembly on issues related to ballot access.
 Peggy and her husband Dean are raising four boys and are members of St.
-Martin of Tours Catholic Church in Martinsville.� They own Mayfield Insurance in Mooresville, a 91 year old family-owned and operated business.
+Martin of Tours Catholic Church in Martinsville. � They own Mayfield Insurance in Mooresville, a 91 year old family-owned and operated business.
 Peggy is also a certified rifle and shotgun instructor, enjoys coaching youth clay target programs and serving on the Executive Board of the Boy Scouts of America.
-To learn more about Peggy�s campaign, visit www.peggymayfield.com.
-Paid for by the
-Mayfield Campaign
--30-
+To learn more about Peggy�s campaign, visit www.peggymayfield.com . <![if !vml]> <![endif]><![if !mso]> <![endif]> Paid for by the Mayfield Campaign <![if !mso]> <![endif]><![if !mso & !vml]> <![endif]><![if !vml]> <![endif]>-30-

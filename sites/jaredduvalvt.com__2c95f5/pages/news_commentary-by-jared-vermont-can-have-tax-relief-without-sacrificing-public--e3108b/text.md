@@ -1,5 +1,4 @@
-Commentary by Jared: Vermont Can Have Tax Relief Without Sacrificing Public Education
-Commentary published by The Waterbury Roundabout, May 1, 2025 - Vermonters who can’t afford higher costs are concerned about rising property taxes.
+0 Skip to Content Meet Jared On the Issues News Events Get Involved Endorsements Donate Open Menu Close Menu Open Menu Close Menu Meet Jared On the Issues News Events Get Involved Endorsements Donate Meet Jared On the Issues News Events Get Involved Endorsements Donate Commentary by Jared: Vermont Can Have Tax Relief Without Sacrificing Public Education May 1 Written By Jared Duval Commentary published by The Waterbury Roundabout , May 1, 2025 - Vermonters who can’t afford higher costs are concerned about rising property taxes.
 They need and deserve relief.
 At the same time, we have a responsibility to provide a quality education for Vermont’s children.
 How can we achieve a fairer tax system while meeting our obligations to our kids?
@@ -18,7 +17,7 @@ Today, $350,000 is a lower-than-average home value in many parts of our state.
 Similarly, $90,000 in household income would have been considered upper-middle income two decades ago in Vermont.
 But today, $90,000 is near the statewide median household income.
 Another perversion of the current education funding system is that it favors the highest earners.
-According to the most recent analysis, Vermont households earning about $120,000 paid about 3% of their income in school taxes, while those making $750,000 paid 1% or less.
+According to the most recent analysis , Vermont households earning about $120,000 paid about 3% of their income in school taxes, while those making $750,000 paid 1% or less.
 Restoring income-sensitivity thresholds would lower tax bills for 50,000 Vermont households this year while making the funding of education fairer and more progressive, as originally intended.
 Right now, the conversation about school funding starts with the claim that we’re spending too much.
 In fact, after adjusting for inflation, education spending in Vermont has been flat over the past 20 years and per-pupil spending has grown only about 1% a year.
@@ -34,3 +33,9 @@ It’s time to focus on providing school tax relief for those who need it most �
 Additionally, to responsibly and durably relieve the pressure on school budgets, we must address the rising cost of health insurance.
 This can be done with thoughtful strategies such as hospital pricing reform, including reference-based pricing for teacher health care.
 This dual strategy of ensuring tax cuts for those who need them and tackling the largest cost driver of school budgets is preferable to continuing to leave 50,000 Vermonters exposed to tax rates they can’t afford while sacrificing educational access and opportunity for Vermont’s children.
+Jared Duval Previous Previous Commentary by Jared: The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1% Next Next Commentary by Jared: Why Fossil Fuels Are Not The Answer on Affordability Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Get the scoop!
+Subscribe to learn more about me, find out what’s happening with the campaign, and get involved.
+First Name Last Name Email Address Subscribe Thank you!
+BACK TO TOP | ABOUT | CONTACT Donate © # Duval for State Representative

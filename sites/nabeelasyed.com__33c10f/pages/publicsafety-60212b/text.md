@@ -1,24 +1,8 @@
-Public Safety
-Nabeela grew up with active shooter drills as part of normal life in school, but she wants to make sure future generations don’t have to.
+0 Skip to Content Home About Nabeela Issues Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events DONATE Open Menu Close Menu Open Menu Close Menu DONATE Home About Nabeela Issues Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events Home About Nabeela Folder: Issues Back Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events DONATE Public Safety Nabeela grew up with active shooter drills as part of normal life in school, but she wants to make sure future generations don’t have to.
 She believes that gun deaths are preventable and that public safety means we must make meaningful investments in the root causes of violence and our first responders, while also passing common-sense reforms that keep dangerous weapons out of the wrong hands.
-She’s working to:
-- Ensure Illinois remains a leader in smart, enforceable gun safety laws that protect children and families
-- Enact stronger safe storage laws, background checks and firearm accountability regulations to reduce accidental shootings and unauthorized access to guns
-- Support survivors of domestic violence and sexual assault by providing comprehensive protection and support
-- Keep communities safe by giving law enforcement the tools they need to enforce current firearm laws effectively and fairly
-Legislative wins:
-Common-sense Solutions
-- Chief Co-Sponsor of the Safe Gun Storage Act which requires secure gun storage when minors or prohibited persons are present.
-It also expands the reporting requirements for lost and stolen firearms to help stop the flow of illegal guns
-- Passed legislation that strengthens the legal process for revoking firearm ownership cards, requiring guns to be surrendered and disclosed before any appeal is made
-- Backed universal background checks and the ban of ghost guns, ensuring that unserialized, DIY firearms stay out of communities
-- Advocated for mandatory firearm registration and improved crime gun tracing to hold gun owners accountable and reduce the number of untraceable weapons
-Domestic Violence & Survivor Protection
-- Championed an end to violence against women by investing in domestic violence shelters, protecting victim DNA evidence and prioritizing both mental and physical health support for survivors
-Child Protection & Law Enforcement Tools
-- Supported Alicia’s Law, which protects children by making online child exploitation investigation a core mission of the Illinois State Police
-- Supported investments in first responders, ensuring they have the resources and training needed to respond effectively and keep our communities safe
-Property Rights
-- Advocated for the passage of Illinois’ anti-squatter law, which empowers law enforcement to immediately remove squatters engaged in criminal trespassing
-Representative Syed remains committed to building a safer Illinois.
+She’s working to: Ensure Illinois remains a leader in smart, enforceable gun safety laws that protect children and families Enact stronger safe storage laws, background checks and firearm accountability regulations to reduce accidental shootings and unauthorized access to guns Support survivors of domestic violence and sexual assault by providing comprehensive protection and support Keep communities safe by giving law enforcement the tools they need to enforce current firearm laws effectively and fairly Legislative wins: Common-sense Solutions Chief Co-Sponsor of the Safe Gun Storage Act which requires secure gun storage when minors or prohibited persons are present.
+It also expands the reporting requirements for lost and stolen firearms to help stop the flow of illegal guns Passed legislation that strengthens the legal process for revoking firearm ownership cards, requiring guns to be surrendered and disclosed before any appeal is made Backed universal background checks and the ban of ghost guns, ensuring that unserialized, DIY firearms stay out of communities Advocated for mandatory firearm registration and improved crime gun tracing to hold gun owners accountable and reduce the number of untraceable weapons Domestic Violence & Survivor Protection Championed an end to violence against women by investing in domestic violence shelters, protecting victim DNA evidence and prioritizing both mental and physical health support for survivors Child Protection & Law Enforcement Tools Supported Alicia’s Law, which protects children by making online child exploitation investigation a core mission of the Illinois State Police Supported investments in first responders, ensuring they have the resources and training needed to respond effectively and keep our communities safe Property Rights Advocated for the passage of Illinois’ anti-squatter law, which empowers law enforcement to immediately remove squatters engaged in criminal trespassing Representative Syed remains committed to building a safer Illinois.
 One where kids can grow up without fear, survivors are protected and common-sense laws keep weapons of war out of dangerous hands and as your State Senator she will continue to fight for that.
+More Issues Education Economy Healthcare Environment Choice Equal Rights SHARE YOUR CONCERNS NABEELA SYED FOR STATE SENATE (847) 496-3028 nabeela@nabeelasyed.com Paid for by Friends & Family of Nabeela Syed.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL.
+Privacy Policy Follow Twitter Facebook Instagram

@@ -1,6 +1,4 @@
-Rob's Priorities
-Healthcare
-Healthcare is a human right.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Rob's Priorities Healthcare Healthcare is a human right.
 It is crucial that we lower the cost of quality health insurance, protect the right to choose, improve equity and access to medical care, and make sure that every American receives the best healthcare possible regardless of ability to pay.
 I will consider all legislative options to do so.
 The Affordable Care Act (ACA) has provided access to healthcare to tens of millions of underinsured or uninsured individuals across the United States, including many in our district.
@@ -13,12 +11,6 @@ And too often, our healthcare system forces American families to make an impossi
 That’s why I voted for the Lower Costs, More Transparency Act, which would require the disclosure of information regarding healthcare costs, address opaque practices that make quality care less accessible, and increase accountability.
 I’m also the Chair of the Dads Caucus Mental Health Working Group, which fights to address stigmas associated with mental health and expand access to the services and supports families need.
 We must ensure that access to all forms of healthcare is protected and expanded.
-As your champion in Congress, I will fight to:
-- Protect and expand the ACA for the millions of people who rely on it every day;
-- Lower the cost of life-saving prescription drugs and quality health insurance coverage for all families in our district;
-- Make sure that every American has access to the best medical care available regardless of ability to pay;
-- Codify Roe v.
-Wade and restore a woman’s fundamental right to have autonomy over her own body – period;
-- Enact legislation that protects a women’s ability to access medication that has made abortions safer and more accessible for those who have made that choice;
-- Advocate to the FDA to lift restrictions and make it easier for women to obtain these medications through the mail so their reproductive choices are not limited by where they live or work; and
-- Repeal the Hyde Amendment, which only serves to make it harder for women of limited means to access abortions.
+As your champion in Congress, I will fight to: Protect and expand the ACA for the millions of people who rely on it every day; Lower the cost of life-saving prescription drugs and quality health insurance coverage for all families in our district; Make sure that every American has access to the best medical care available regardless of ability to pay; Codify Roe v.
+Wade and restore a woman’s fundamental right to have autonomy over her own body – period; Enact legislation that protects a women’s ability to access medication that has made abortions safer and more accessible for those who have made that choice; Advocate to the FDA to lift restrictions and make it easier for women to obtain these medications through the mail so their reproductive choices are not limited by where they live or work; and Repeal the Hyde Amendment, which only serves to make it harder for women of limited means to access abortions.
+Up Next Immigration Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

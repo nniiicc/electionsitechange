@@ -1,9 +1,8 @@
-Fighting Trump's Corruption
-The Sixth District deserves a leader who will refuse to let Trump trample our Constitution and send masked ICE agents to murder our neighbors.
+Skip navigation menu Home Meet Dan Endorsements Press Issues Donate Issues Home Meet Dan Endorsements Press Issues Donate Issues Fighting Trump's Corruption Protecting Democracy Abolish Trump's ICE An Affordable Massachusetts Winning Back Our Country Healthcare Affordable Housing Strengthening Unions Climate Change Reproductive Rights Racial Justice Education Gun Safety LGBTQ+ RIGHTS Transportation Fighting Trump's Corruption The Sixth District deserves a leader who will refuse to let Trump trample our Constitution and send masked ICE agents to murder our neighbors.
 I’m ready to fight back against this administration on Day One and deliver results for families.
 Trump is the most corrupt politician this country has ever seen.
-- He enriched himself with his Trump-branded meme coin, enriched his family through back door deals, and his hand-picked Supreme Court nominees granted him complete immunity from criminal prosecution.
-- It is up to Democrats to stand up to him and restore the public’s belief in the fact that government officials should have integrity and use their power to bring attention to Trump’s wrongdoings — not make themselves and their family members richer.
+He enriched himself with his Trump-branded meme coin, enriched his family through back door deals, and his hand-picked Supreme Court nominees granted him complete immunity from criminal prosecution.
+It is up to Democrats to stand up to him and restore the public’s belief in the fact that government officials should have integrity and use their power to bring attention to Trump’s wrongdoings — not make themselves and their family members richer.
 I am not afraid to bring the fight to MAGA directly.
-- From debating Trump supporters like Scott Jennings on CNN to appearing on Fox News Sunday, Democrats need to show up everywhere to present fact-based arguments about this administration — and what we’re going to do to fix this mess.
-This is how we ultimately move the needle and deliver for American families.
+From debating Trump supporters like Scott Jennings on CNN to appearing on Fox News Sunday, Democrats need to show up everywhere to present fact-based arguments about this administration — and what we’re going to do to fix this mess.
+This is how we ultimately move the needle and deliver for American families. letsgo@kohforcongress.com For press inquiries, email press@kohforcongress.com Powered by RUN! website builder Paid for by the Committee to Elect Dan Koh You need to enable JavaScript to run this app.

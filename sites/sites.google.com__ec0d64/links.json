@@ -1,19 +1,86 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fsuzanne-gavenus-1&sa=D&sntz=1&usg=AOvVaw0C-WP4T_Tx3tY4pPEL2rWV",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FSuzanne.Gavenus.4NCHouse85%2F&sa=D&sntz=1&usg=AOvVaw1MrSZZXEDac-y8BYepbNSx",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fsuzannegavenus4house85%2F&sa=D&sntz=1&usg=AOvVaw3zc9R43Qhl25jNXDNXhYft",
-"https://secure.actblue.com/donate/suzanne-gavenus-1",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/access-to-healthcare",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/affordability",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/disaster-recovery",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/strong-schools",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/meet-suzanne",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/contact",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved/donate",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved/get_involved",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/home",
-"https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/news-and-events"
+{
+"text": "About Suzanne",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/meet-suzanne"
+},
+{
+"text": "Access to Healthcare",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/access-to-healthcare"
+},
+{
+"text": "Affordability",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/affordability"
+},
+{
+"text": "Contact",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/contact"
+},
+{
+"text": "Disaster Recovery",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/disaster-recovery"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/suzanne-gavenus-1"
+},
+{
+"text": "Donate",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/home"
+},
+{
+"text": "Issues",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues"
+},
+{
+"text": "News & Events",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/news-and-events"
+},
+{
+"text": "Strong Schools",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running/Issues/strong-schools"
+},
+{
+"text": "Suzanne Gavenus for NC House 85",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/home"
+},
+{
+"text": "Volunteer",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved/get_involved"
+},
+{
+"text": "Why I'm Running",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/Why-Im-Running"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FSuzanne.Gavenus.4NCHouse85%2F&sa=D&sntz=1&usg=AOvVaw1MrSZZXEDac-y8BYepbNSx"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fsuzannegavenus4house85%2F&sa=D&sntz=1&usg=AOvVaw3zc9R43Qhl25jNXDNXhYft"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/get-involved/get_involved"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/home"
+},
+{
+"text": "[image]Donate to Suzanne Gavenus",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fsuzanne-gavenus-1&sa=D&sntz=1&usg=AOvVaw0C-WP4T_Tx3tY4pPEL2rWV"
+},
+{
+"text": "[image]Suzanne Gavenus for NC House 85",
+"href": "https://sites.google.com/view/suzanne-gavenus-4-nc-house-85/home"
+}
 ]

@@ -1,8 +1,30 @@
 [
-"http://tjrs.monticello.org/letter/102",
-"http://utahconstitutionparty.com/",
-"https://chooseruss.weebly.com/",
-"https://chooseruss.weebly.com/about.html",
-"https://chooseruss.weebly.com/platform.html",
-"https://weebly.com/signup"
+{
+"text": "About",
+"href": "https://chooseruss.weebly.com/about.html"
+},
+{
+"text": "CHOOSE RUSS HATCH",
+"href": "https://chooseruss.weebly.com/"
+},
+{
+"text": "Constitution Party",
+"href": "http://www.utahconstitutionparty.com/"
+},
+{
+"text": "Home",
+"href": "https://chooseruss.weebly.com/"
+},
+{
+"text": "Platform",
+"href": "https://chooseruss.weebly.com/platform.html"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+},
+{
+"text": "Thomas Jefferson",
+"href": "http://tjrs.monticello.org/letter/102"
+}
 ]

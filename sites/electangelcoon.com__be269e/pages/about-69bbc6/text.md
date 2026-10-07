@@ -1,6 +1,4 @@
-Rooted in Michigan
-Being underestimated isn’t exactly new to Angel Coon…
-but neither is proving people wrong.
+Skip to Content Open Menu Close Menu Home About Pillars Upcoming Events Connect with Angel Take the Survey Stay Informed ( 0 ) Cart ( 0 ) Donate Home About Pillars Upcoming Events Connect with Angel Take the Survey Stay Informed ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Home About Pillars Upcoming Events Connect with Angel Take the Survey Stay Informed Donate Rooted in Michigan Being underestimated isn’t exactly new to Angel Coon… but neither is proving people wrong.
 Growing up in the small town of Holton, Michigan, life came with the kind of expectations most small-town kids know well: work hard, stay grounded, and don’t expect much attention outside your own community.
 But again and again, Angel found herself pushing past what was expected, learning that determination matters more than where you come from or what others assume you’ll become.
 That same spirit runs through District 102.
@@ -25,8 +23,8 @@ Those experiences didn’t come from headlines- they came from real conversation
 That’s why this campaign isn’t about fitting into a political mold.
 It’s about making sure the people of District 102 aren’t underestimated anymore.
 The belief is simple: protect people’s rights, rebuild trust in government, and make sure every community — rural or city, small or large — has a voice in what comes next.
-The experiences that shaped Angel Coon’s life didn’t happen by accident…
-they prepared her for this moment.
+The experiences that shaped Angel Coon’s life didn’t happen by accident… they prepared her for this moment.
 As a parent, she refuses to accept a future where the next generation inherits a system that feels broken or out of reach.
 As a veteran, she believes the Constitution and the freedoms it protects are worth standing up for, not just talking about.
 And as a community leader, she knows that strong local government is where real change begins, and where people still have the power to hold their leaders accountable.
+Protecting Rights Earning Trust Angel Coon for Michigan State Representative – District 102 Paid for by Committee to Elect Angel Coon P.O Box 146 Whitehall, MI 49461

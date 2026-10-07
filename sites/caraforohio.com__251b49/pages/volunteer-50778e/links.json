@@ -1,17 +1,66 @@
 [
-"https://caraforohio.com/",
-"https://caraforohio.com/about",
-"https://caraforohio.com/cart",
-"https://caraforohio.com/endorsements",
-"https://caraforohio.com/events",
-"https://caraforohio.com/home",
-"https://caraforohio.com/mobile-terms-of-service",
-"https://caraforohio.com/platform",
-"https://caraforohio.com/privacy-policy",
-"https://caraforohio.com/volunteer",
-"https://facebook.com/caraforohio",
-"https://instagram.com/caraforohio",
-"https://secure.actblue.com/donate/cara-jacob-1",
-"https://store.caraforohio.com/",
-"https://tiktok.com/@caraforohio"
+{
+"text": "0",
+"href": "https://www.caraforohio.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.caraforohio.com/about"
+},
+{
+"text": "Contact",
+"href": "mailto:info@caraforohio.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cara-jacob-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.caraforohio.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.caraforohio.com/events"
+},
+{
+"text": "Mobile Terms of Service",
+"href": "https://www.caraforohio.com/mobile-terms-of-service"
+},
+{
+"text": "Platform",
+"href": "https://www.caraforohio.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.caraforohio.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.caraforohio.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.caraforohio.com/volunteer"
+},
+{
+"text": "[image: Cara Jacob for Ohio Senate]",
+"href": "https://www.caraforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.caraforohio.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/caraforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/caraforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@caraforohio"
+}
 ]

@@ -1,19 +1,82 @@
 [
-"https://barrett4assembly.com/",
-"https://barrett4assembly.com/about",
-"https://barrett4assembly.com/commit",
-"https://barrett4assembly.com/issues",
-"https://barrett4assembly.com/news",
-"https://barrett4assembly.com/privacy-policy",
-"https://barrett4assembly.com/volunteer",
-"https://barrett4assembly.com/voterresources",
-"https://elections.ny.gov/request-ballot",
-"https://elections.ny.gov/voter-registration-process",
-"https://facebook.com/didibarrett",
-"https://instagram.com/didibarrett106",
-"https://secure.actblue.com/donate/didi-barrett-2",
-"https://twitter.com/dinerdialogues?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-"https://voterlookup.elections.ny.gov/",
-"https://wix.com/",
-"https://youtube.com/watch?v=Aug3IkF7HdI"
+{
+"text": "ABOUT",
+"href": "https://www.barrett4assembly.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.barrett4assembly.com/voterresources"
+},
+{
+"text": "CHECK YOUR VOTER REGISTRATION",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "COMMIT TO VOTE",
+"href": "https://www.barrett4assembly.com/commit"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/didi-barrett-2"
+},
+{
+"text": "FIND YOUR POLLING LOCATION",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.barrett4assembly.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.barrett4assembly.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://www.barrett4assembly.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barrett4assembly.com/privacy-policy"
+},
+{
+"text": "REQUEST AN ABSENTEE BALLOT",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "TRACK YOUR BALLOT",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.barrett4assembly.com/volunteer"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.barrett4assembly.com/voterresources"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/didibarrett/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/didibarrett106/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/dinerdialogues?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/watch?v=Aug3IkF7HdI"
+},
+{
+"text": "[no text]",
+"href": "https://www.barrett4assembly.com"
+}
 ]

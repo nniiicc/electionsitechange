@@ -1,6 +1,30 @@
 [
-"http://lorirook.com/",
-"https://lorirook.com/endorsements",
-"https://lorirook.com/platform",
-"https://secure.anedot.com/lori-rook-for-state-senate/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lori-rook-for-state-senate/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.lorirook.com/endorsements"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.lorirook.com/platform"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@ScottforFlorida.com"
+},
+{
+"text": "lori@lorirook.com",
+"href": "mailto:lori@lorirook.com"
+},
+{
+"text": "team@lorirook.com",
+"href": "mailto:team@lorirook.com"
+},
+{
+"text": "www.LoriRook.com",
+"href": "http://www.lorirook.com"
+}
 ]

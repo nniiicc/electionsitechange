@@ -1,12 +1,30 @@
 [
-"https://deborahross.com/",
-"https://deborahross.com/endorsements",
-"https://deborahross.com/meet-deborah-ross",
-"https://deborahross.com/priorities",
-"https://deborahross.com/privacy-policy",
-"https://deborahross.com/updates",
-"https://facebook.com/RossForNorthCarolina",
-"https://instagram.com/deborahrossnc",
-"https://secure.actblue.com/donate/deborah-ross-5",
-"https://twitter.com/DeborahRossNC"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/deborah-ross-5"
+},
+{
+"text": "Endorsements",
+"href": "https://deborahross.com/endorsements/"
+},
+{
+"text": "Latest Updates",
+"href": "https://deborahross.com/updates/"
+},
+{
+"text": "Meet Deborah",
+"href": "https://deborahross.com/meet-deborah-ross/"
+},
+{
+"text": "Priorities",
+"href": "https://deborahross.com/priorities/"
+},
+{
+"text": "Updates",
+"href": "https://deborahross.com/updates/"
+},
+{
+"text": "[image]",
+"href": "https://deborahross.com"
+}
 ]

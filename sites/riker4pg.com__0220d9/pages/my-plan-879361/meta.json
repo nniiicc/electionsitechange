@@ -1,7 +1,9 @@
 {
  "description": "My Plan",
  "final_url": "https://www.riker4pg.com/my-plan",
- "paid_for_by": null,
+ "fingerprint": "ab4e667d7aeab076c490fd5a630555f40e9f1348",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Plan",
  "years_mentioned": []
 }

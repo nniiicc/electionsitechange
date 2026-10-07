@@ -1,10 +1,78 @@
 [
-"https://facebook.com/WolfinMO",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://secure.winred.com/wolfin-for-missouri/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true",
-"https://twitter.com/wix",
-"https://wix.com/",
-"https://wix.com/templateslp/links",
-"https://wolfinformissouri.com/"
+{
+"text": "About Me",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Christina Flores",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Contact",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.wix.com/templateslp/links"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.winred.com/wolfin-for-missouri/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Events",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "FOR GOVERNOR",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Home",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Learn More about Bryant",
+"href": "https://www.facebook.com/WolfinMO"
+},
+{
+"text": "News",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Support Bryant",
+"href": "https://secure.winred.com/wolfin-for-missouri/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.wolfinformissouri.com"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "info@mysite.com",
+"href": "mailto:info@mysite.com"
+}
 ]

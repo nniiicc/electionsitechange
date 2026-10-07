@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.bosformissouri.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "3128d692e61ba3ce9b8fbef75660d0b02cf4e8cc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

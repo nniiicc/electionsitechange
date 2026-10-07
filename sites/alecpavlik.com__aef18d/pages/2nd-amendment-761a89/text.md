@@ -1,5 +1,6 @@
-2nd Amendment
-While my stance on the right to bear arms is the same as any other natural right, the amendment defending it is worth discussing.
+top of page For U.S.
+House Home About Issues Get Involved Contact Other Projects More Use tab to navigate through the menu items.
+Alec Pavlik 2nd Amendment While my stance on the right to bear arms is the same as any other natural right, the amendment defending it is worth discussing.
 Some people will argue the 2nd Amendment only refers to federally recognized branches of the military and militia, however this ignores the structure of the amendment.
 It clearly prevents the federal government from restricting “the right of the people to keep and bear Arms” in any manner.
 The term “regulated” in 1791 referred to training, not restriction of arms.
@@ -19,3 +20,8 @@ As a U.S.
 Representative I would vote against all so-called “gun control” and work to repeal the National Firearm Act and abolish the ATF.
 Not a single federal gun law is Constitutional, moral, or statistically beneficial.
 I’d like to see our schools, communities, and churches begin working to address the suicidal and homicidal tendencies that are affecting young Americans, which I believe is at the heart of most firearm-related deaths in the United States.
+Home About Me Issues Get Involved Contact Save America.
+Restore the Constitution.
+Alec Pavlik Terms & Conditions / Accessibility Financial Disclosure © # by Alec Pavlik.
+Powered and secured by Wix Write-In Alec Pavlik for U.S.
+House of Representatives District 6 (FL-06) PavlikCampaign@protonmail.com ​ bottom of page

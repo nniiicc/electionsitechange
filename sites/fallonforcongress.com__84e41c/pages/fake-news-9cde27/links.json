@@ -1,21 +1,82 @@
 [
-"https://facebook.com/fallonfortexas",
-"https://fallonforcongress.com/",
-"https://fallonforcongress.com/about",
-"https://fallonforcongress.com/contact",
-"https://fallonforcongress.com/donate",
-"https://fallonforcongress.com/endorsements",
-"https://fallonforcongress.com/fake-news",
-"https://fallonforcongress.com/fake-news/an-occupassion-for-liberty",
-"https://fallonforcongress.com/fake-news/enriching-freedom-not-ones-self",
-"https://fallonforcongress.com/fake-news/leave-the-class-warfare-to-the-socialists",
-"https://fallonforcongress.com/fake-news/lies-spin-lawsuits-oh-my",
-"https://fallonforcongress.com/fake-news/mailers/mailers-mass-texts-and-lies-oh-my",
-"https://fallonforcongress.com/fake-news/red-flag-laws-no-thanks",
-"https://fallonforcongress.com/fake-news/selling-used-cars-in-beijing",
-"https://fallonforcongress.com/issues",
-"https://fallonforcongress.com/news",
-"https://fallonforcongress.com/privacy",
-"https://fallonforcongress.com/volunteer",
-"https://twitter.com/FallonForTexas"
+{
+"text": "Contact",
+"href": "https://www.fallonforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.fallonforcongress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fallonforcongress.com/endorsements/"
+},
+{
+"text": "Fake News",
+"href": "https://www.fallonforcongress.com/fake-news/"
+},
+{
+"text": "Home",
+"href": "https://www.fallonforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fallonforcongress.com/issues/"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.fallonforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.fallonforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fallonforcongress.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fallonforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/FallonForTexas"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/fallonfortexas"
+},
+{
+"text": "[image]",
+"href": "https://www.fallonforcongress.com/"
+},
+{
+"text": "[image]An OccuPASSION for Liberty",
+"href": "https://www.fallonforcongress.com/fake-news/an-occupassion-for-liberty/"
+},
+{
+"text": "[image]Enriching Freedom Not One's Self",
+"href": "https://www.fallonforcongress.com/fake-news/enriching-freedom-not-ones-self/"
+},
+{
+"text": "[image]Leave the Class Warfare to the Socialists",
+"href": "https://www.fallonforcongress.com/fake-news/leave-the-class-warfare-to-the-socialists/"
+},
+{
+"text": "[image]Lies, Spin & Lawsuits, OH MY!",
+"href": "https://www.fallonforcongress.com/fake-news/lies-spin-lawsuits-oh-my/"
+},
+{
+"text": "[image]Mailers, Mass Texts and Lies... Oh My!",
+"href": "https://www.fallonforcongress.com/fake-news/mailers/mailers-mass-texts-and-lies-oh-my/"
+},
+{
+"text": "[image]Red Flag Laws? NO THANKS!",
+"href": "https://www.fallonforcongress.com/fake-news/red-flag-laws-no-thanks/"
+},
+{
+"text": "[image]Selling Used Cars in Beijing?!",
+"href": "https://www.fallonforcongress.com/fake-news/selling-used-cars-in-beijing/"
+}
 ]

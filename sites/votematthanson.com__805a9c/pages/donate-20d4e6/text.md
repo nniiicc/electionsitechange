@@ -1,3 +1,5 @@
-A donation in any amount will make a real difference.
+Skip to content Home Priorities About Matt Take Action Menu Toggle Get A Yard Sign Volunteer Vote Contact Donate Main Menu Home Priorities About Matt Take Action Menu Toggle Get A Yard Sign Volunteer Vote Contact Donate Donate A donation in any amount will make a real difference.
 It will be used to help inform other people in our community about this campaign to protect our values and continue the fight for further change in Springfield.
 Donations can be made securely online via our processor.
+Voting Information Visit Contact Us hansonforillinois@gmail.com Take Action Yard Sign Volunteer Contact Privacy Policy Copyright © # Vote Matt Hanson Paid for by Friends of Matt Hanson.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law

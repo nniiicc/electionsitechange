@@ -1,16 +1,70 @@
 [
-"https://facebook.com/MatthewAHarrington",
-"https://harringtonformaine.com/",
-"https://harringtonformaine.com/contact",
-"https://harringtonformaine.com/issues",
-"https://harringtonformaine.com/new-events-2",
-"https://harringtonformaine.com/partners",
-"https://harringtonformaine.com/projects",
-"https://harringtonformaine.com/take-action",
-"https://harringtonformaine.com/what-we-do",
-"https://legislature.maine.gov/",
-"https://mainegop.com/",
-"https://mesenategop.com/",
-"https://secure.anedot.com/mharrington_18/donate",
-"https://secure.winred.com/committee-to-elect-matt-harrington/storefront"
+{
+"text": "About Matt",
+"href": "https://www.harringtonformaine.com/what-we-do"
+},
+{
+"text": "Contact",
+"href": "https://www.harringtonformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mharrington_18/donate"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.anedot.com/mharrington_18/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.harringtonformaine.com/take-action"
+},
+{
+"text": "Home",
+"href": "https://www.harringtonformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.harringtonformaine.com/issues"
+},
+{
+"text": "Maine GOP",
+"href": "https://mainegop.com"
+},
+{
+"text": "Maine Senate Republicans",
+"href": "https://mesenategop.com"
+},
+{
+"text": "Maine State Legislature",
+"href": "https://legislature.maine.gov"
+},
+{
+"text": "New Events",
+"href": "https://www.harringtonformaine.com/new-events-2"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/committee-to-elect-matt-harrington/storefront/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.harringtonformaine.com/projects"
+},
+{
+"text": "Vote",
+"href": "https://www.harringtonformaine.com/partners"
+},
+{
+"text": "[image: Matt Harrington for Maine Senate]",
+"href": "https://www.harringtonformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MatthewAHarrington/"
+},
+{
+"text": "harringtonformaine@gmail.com",
+"href": "mailto:harringtonforhouse@yahoo.com"
+}
 ]

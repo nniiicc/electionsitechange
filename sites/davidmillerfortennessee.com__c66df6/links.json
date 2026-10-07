@@ -1,8 +1,34 @@
 [
-"https://davidmillerfortennessee.com/",
-"https://davidmillerfortennessee.com/cart",
-"https://davidmillerfortennessee.com/meet-david",
-"https://davidmillerfortennessee.com/news-and-events",
-"https://davidmillerfortennessee.com/our-priorities",
-"https://secure.actblue.com/donate/davidmillerfortn"
+{
+"text": "0",
+"href": "https://www.davidmillerfortennessee.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/davidmillerfortn"
+},
+{
+"text": "Donate today to send a teacher to Nashville!",
+"href": "https://secure.actblue.com/donate/davidmillerfortn"
+},
+{
+"text": "Learn More Here",
+"href": "https://www.davidmillerfortennessee.com/meet-david"
+},
+{
+"text": "Meet David",
+"href": "https://www.davidmillerfortennessee.com/meet-david"
+},
+{
+"text": "News and Events",
+"href": "https://www.davidmillerfortennessee.com/news-and-events"
+},
+{
+"text": "Our Priorities",
+"href": "https://www.davidmillerfortennessee.com/our-priorities"
+},
+{
+"text": "[image: David Miller for Tennessee]",
+"href": "https://www.davidmillerfortennessee.com/"
+}
 ]

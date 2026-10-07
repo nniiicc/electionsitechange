@@ -1,5 +1,26 @@
 [
-"https://wagleyforcongress.com/",
-"https://wagleyforcongress.com/issues",
-"https://wagleyforcongress.com/privacypolicy"
+{
+"text": "About",
+"href": "https://www.wagleyforcongress.com"
+},
+{
+"text": "Contact",
+"href": "https://www.wagleyforcongress.com/privacypolicy"
+},
+{
+"text": "Home",
+"href": "https://www.wagleyforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.wagleyforcongress.com/issues"
+},
+{
+"text": "here.",
+"href": "https://www.wagleyforcongress.com/privacypolicy"
+},
+{
+"text": "https://wagleyforcongress.com",
+"href": "https://wagleyforcongress.com"
+}
 ]

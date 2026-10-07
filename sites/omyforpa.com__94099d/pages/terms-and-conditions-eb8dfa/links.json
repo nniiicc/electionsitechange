@@ -1,9 +1,42 @@
 [
-"https://facebook.com/OmyforPA",
-"https://ignite-strategies.com/",
-"https://instagram.com/OmyforPA",
-"https://omyforpa.com/",
-"https://omyforpa.com/privacy-policy",
-"https://omyforpa.com/terms-and-conditions",
-"https://secure.winred.com/omy-for-pa/donate"
+{
+"text": "About",
+"href": "https://omyforpa.com/#about"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/omy-for-pa/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/OmyforPA/"
+},
+{
+"text": "Home",
+"href": "https://omyforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/OmyforPA/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://omyforpa.com/privacy-policy/"
+},
+{
+"text": "Site by Ignite Strategies",
+"href": "https://ignite-strategies.com"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://omyforpa.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://omyforpa.com/#volunteer"
+},
+{
+"text": "[image: Omy Maldonado | PA 14th Senatorial District] [image: Omy Maldonado | PA 14th Senatorial District]",
+"href": "https://omyforpa.com/"
+}
 ]

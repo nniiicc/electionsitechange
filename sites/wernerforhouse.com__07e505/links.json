@@ -1,14 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//profile.php?id=61590742921837",
-"https://instagram.com/wernerforhouse",
-"https://pollfinder.sos.mn.gov/assets/maps/legislative/9B.pdf",
-"https://secure.actblue.com/donate/owen-werner-1",
-"https://wernerforhouse.com/",
-"https://wernerforhouse.com/about",
-"https://wernerforhouse.com/contact",
-"https://wernerforhouse.com/events",
-"https://wernerforhouse.com/issues",
-"https://wernerforhouse.com/privacy-policy",
-"https://x.com/WernerforHouse"
+{
+"text": "About",
+"href": "https://www.wernerforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.wernerforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/owen-werner-1"
+},
+{
+"text": "Events",
+"href": "https://www.wernerforhouse.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.wernerforhouse.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.wernerforhouse.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.wernerforhouse.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Werner for House]",
+"href": "https://www.wernerforhouse.com/"
+},
+{
+"text": "[image: wernerforhouse.com logo]",
+"href": "https://www.wernerforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://pollfinder.sos.mn.gov/assets/maps/legislative/9B.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61590742921837"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/wernerforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WernerforHouse"
+}
 ]

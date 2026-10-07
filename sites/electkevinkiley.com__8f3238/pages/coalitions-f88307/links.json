@@ -1,7 +1,22 @@
 [
-"https://electkevinkiley.com/",
-"https://electkevinkiley.com/about",
-"https://electkevinkiley.com/coalitions/DONATE_URL",
-"https://electkevinkiley.com/get-involved",
-"https://electkevinkiley.com/updates"
+{
+"text": "About",
+"href": "https://electkevinkiley.com/about"
+},
+{
+"text": "Donate",
+"href": "https://electkevinkiley.com/coalitions/DONATE_URL"
+},
+{
+"text": "Get Involved",
+"href": "https://electkevinkiley.com/get-involved"
+},
+{
+"text": "Kevin Kiley for Congress",
+"href": "https://electkevinkiley.com/"
+},
+{
+"text": "Updates",
+"href": "https://electkevinkiley.com/updates"
+}
 ]

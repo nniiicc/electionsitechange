@@ -1,5 +1,4 @@
-About Suzanne
-Suzanne Bonamici grew up in a small town in Michigan.
+Home | Menu | Sign Up | Donate Suzanne Bonamici for Congress - https://www.bonamiciforcongress.com Contact En Español Home About Suzanne Latest Priorities Endorsements Get Involved Donate About Suzanne Suzanne Bonamici grew up in a small town in Michigan.
 Her father worked for a local bank and her mother was a small business owner and piano teacher.
 Many of her strongest childhood memories are of family camping trips with her two brothers.
 After graduating from high school, Suzanne moved to Oregon with friends and fell in love with the state.
@@ -26,3 +25,16 @@ She is a member of the Progressive Caucus and the Co-Founder and Co-Chair of the
 She is also Co-Chair of the bipartisan Oceans Caucus, and a leader on issues involving the health of our ocean.
 Suzanne and Michael have been married for more than forty years.
 Their children, now grown, attended public schools in the Beaverton School District.
+Learn More Let’s work together to create more opportunities for all Oregonians, and build a better future!
+Contribute Every dollar makes a difference. $# $# $# $# $# OTHER Click on an amount to get started and contribute to support Suzanne Bonamici.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Featured Actions Meet Suzanne Suzanne knows what it’s like to struggle to make ends meet.
+She worked her way through community college, university, and law school.
+She started her career at Legal Aid and worked as a consumer rights attorney.
+Throughout her career she’s been a leading advocate for public education, protecting the environment, and civil rights.
+She’s fighting for a better future for all Oregonians. read more Latest Updates Suzanne Bonamici Join Team Bonamici!
+Together we can make a difference.
+I'm eager to stand by you as we work to tackle the climate crisis, address the needs of working families, create more opportunities for Oregonians, and build a better future for our children and grandchildren!
+Home About Suzanne Latest Priorities Endorsements Get Involved Donate © # Bonamici for Congress.
+Contact Us Privacy Policy Paid for and authorized by Bonamici for Congress.
+Powered by Mandate Media .

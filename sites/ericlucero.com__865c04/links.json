@@ -1,11 +1,42 @@
 [
-"https://ericlucero.com/",
-"https://ericlucero.com//contact",
-"https://ericlucero.com/about",
-"https://ericlucero.com/contact",
-"https://ericlucero.com/news",
-"https://ericlucero.com/photos",
-"https://facebook.com/DefendingTruth",
-"https://secure.anedot.com/ericluceromn/donate",
-"https://youtube.com/channel/UCqdRG1GKhKGPspKva97HlRQ"
+{
+"text": "ABOUT ERIC",
+"href": "https://www.ericlucero.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ericlucero.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ericluceromn/donate"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericlucero.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.ericlucero.com/photos"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.ericlucero.com//contact"
+},
+{
+"text": "[image: Lucero_Logo_edited_edited_edited.png]",
+"href": "https://www.ericlucero.com"
+},
+{
+"text": "[image: Lucero_Logo_edited_edited_edited_edited.]",
+"href": "https://www.ericlucero.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/DefendingTruth"
+},
+{
+"text": "[image: White YouTube Icon]",
+"href": "https://www.youtube.com/channel/UCqdRG1GKhKGPspKva97HlRQ"
+}
 ]

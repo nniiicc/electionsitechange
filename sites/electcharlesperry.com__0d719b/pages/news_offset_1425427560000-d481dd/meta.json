@@ -1,9 +1,16 @@
 {
  "description": "News",
  "final_url": "https://www.electcharlesperry.com/news?offset=1425427560000",
- "paid_for_by": null,
- "title": "News \u2014 Elect Charles Perry",
+ "fingerprint": "76a266073d46feba7491e9b2aaeb28b2f3c8f097",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "News — Elect Charles Perry",
  "years_mentioned": [
+  "1993",
+  "2007",
+  "2011",
+  "2014",
+  "2015",
   "2016"
  ]
 }

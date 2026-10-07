@@ -1,15 +1,62 @@
 [
-"http://ags.hawaii.gov/wp-content/uploads/2012/09/RMTC-001-20160909.pdf",
-"http://honolulu.gov/dfm/pothole.html",
-"http://honolulu.gov/rep/site/ccl/onlineforms/Claim_Form.pdf",
-"https://adrianforhawaii.com/",
-"https://adrianforhawaii.com/contact",
-"https://adrianforhawaii.com/copy-of-testimonials",
-"https://adrianforhawaii.com/meetadrian",
-"https://adrianforhawaii.com/resources",
-"https://adrianforhawaii.com/solutions",
-"https://adrianforhawaii.com/testimonials",
-"https://adrianforhawaii.com/volunteer",
-"https://capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021",
-"https://secure.actblue.com/donate/adriantam"
+{
+"text": "Claims for City Roads",
+"href": "http://www.honolulu.gov/rep/site/ccl/onlineforms/Claim_Form.pdf"
+},
+{
+"text": "Claims for State Roads",
+"href": "http://ags.hawaii.gov/wp-content/uploads/2012/09/RMTC-001-20160909.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianforhawaii.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adriantam"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adrianforhawaii.com/copy-of-testimonials"
+},
+{
+"text": "Home",
+"href": "https://www.adrianforhawaii.com"
+},
+{
+"text": "List of State and HART Roads",
+"href": "http://www.honolulu.gov/dfm/pothole.html"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianforhawaii.com/meetadrian"
+},
+{
+"text": "OFFICIAL GOVERNMENT WEBSITE",
+"href": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianforhawaii.com/resources"
+},
+{
+"text": "Solutions",
+"href": "https://www.adrianforhawaii.com/solutions"
+},
+{
+"text": "State Pothole Claims FAQ",
+"href": "http://ags.hawaii.gov/wp-content/uploads/2012/09/RMTC-001-20160909.pdf"
+},
+{
+"text": "Testimonials",
+"href": "https://www.adrianforhawaii.com/testimonials"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adrianforhawaii.com/volunteer"
+},
+{
+"text": "[image: LOGO 1.png]",
+"href": "https://www.adrianforhawaii.com"
+}
 ]

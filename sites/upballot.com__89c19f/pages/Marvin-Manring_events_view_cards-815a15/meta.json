@@ -1,7 +1,9 @@
 {
- "description": "See Marvin\u2019s upcoming campaign events happening near you.",
+ "description": "See Marvin’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Marvin-Manring/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "3ae9b1a332266248bd91258e433fbf129411fe4b",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Marvin Manring Events",
  "years_mentioned": []
 }

@@ -1,22 +1,106 @@
 [
-"http://tiktok.com/kateforct",
-"https://cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf",
-"https://facebook.com/KateforCT",
-"https://instagram.com/kateforct",
-"https://kateforct.com/",
-"https://kateforct.com/cart",
-"https://kateforct.com/espanol",
-"https://kateforct.com/meet-kate",
-"https://kateforct.com/voluntario",
-"https://kateforct.com/volunteer",
-"https://kateforct.com/vota",
-"https://kateforct.com/vote",
-"https://medium.com/@kateforct",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do?TSPD_101_R0=08ec0ef8bdab2000eb3dc5f474cd6eae5a7acc1f278dc592ddc52b5544c764695435f0c1884e296408a4bc4dd1143000a17ce7681bdd3505076482c95c851e0f7e6f2d59123cba4749af339e3e4e3c0108fcc24f3fd4895213cec05e281812e1",
-"https://portal.ct.gov/sots/election-services/early-voting/early-voting",
-"https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
-"https://portal.ct.gov/sots/election-services/register-to-vote/voter-registration-application-english-and-spanish",
-"https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
-"https://state of connecticut\u2019s voter registration lookup webpage/",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "0",
+"href": "https://www.kateforct.com/cart"
+},
+{
+"text": "Aplicaciones en linea",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do?TSPD_101_R0=08ec0ef8bdab2000eb3dc5f474cd6eae5a7acc1f278dc592ddc52b5544c764695435f0c1884e296408a4bc4dd1143000a17ce7681bdd3505076482c95c851e0f7e6f2d59123cba4749af339e3e4e3c0108fcc24f3fd4895213cec05e281812e1"
+},
+{
+"text": "Back",
+"href": "https://www.kateforct.com/"
+},
+{
+"text": "Click for map",
+"href": "https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf"
+},
+{
+"text": "Folder: Español",
+"href": "https://www.kateforct.com/espanol"
+},
+{
+"text": "Home",
+"href": "https://www.kateforct.com/"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.kateforct.com/meet-kate"
+},
+{
+"text": "Obtenga más información sobre el registro en CT el mismo día.",
+"href": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration"
+},
+{
+"text": "Obtenga más información sobre el voto en ausencia en Connecticut",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting"
+},
+{
+"text": "Obtenga más información sobre la votación anticipada de CT",
+"href": "https://portal.ct.gov/sots/election-services/early-voting/early-voting"
+},
+{
+"text": "Registro de Votantes en Línea del Estado de Connecticut",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Voluntario",
+"href": "https://www.kateforct.com/voluntario"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kateforct.com/volunteer"
+},
+{
+"text": "Vota",
+"href": "https://www.kateforct.com/vota"
+},
+{
+"text": "Vote",
+"href": "https://www.kateforct.com/vote"
+},
+{
+"text": "[image: Kate for CT]",
+"href": "https://www.kateforct.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/kateforct"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/@kateforct"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KateforCT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kateforct/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@kateforct.com"
+},
+{
+"text": "aquí",
+"href": "https://portal.ct.gov/sots/election-services/register-to-vote/voter-registration-application-english-and-spanish"
+},
+{
+"text": "aquí",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting"
+},
+{
+"text": "el Registro de votantes en línea del estado de Connecticut",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "la página web de búsqueda de registro de votantes del estado de Connecticut",
+"href": "https://state%20of%20connecticut%e2%80%99s%20voter%20registration%20lookup%20webpage"
+}
 ]

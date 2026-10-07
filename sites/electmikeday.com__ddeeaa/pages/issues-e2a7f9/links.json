@@ -1,11 +1,38 @@
 [
-"https://electmikeday.com/",
-"https://electmikeday.com/contact-us",
-"https://electmikeday.com/get-involved",
-"https://electmikeday.com/issues",
-"https://electmikeday.com/legislation",
-"https://electmikeday.com/michael-day",
-"https://electmikeday.com/news",
-"https://mdwcommunications.com/political-websites-by-mdwcomm",
-"https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+{
+"text": "About",
+"href": "https://electmikeday.com/michael-day/"
+},
+{
+"text": "Contact",
+"href": "https://electmikeday.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+},
+{
+"text": "Get Involved",
+"href": "https://electmikeday.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://electmikeday.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://electmikeday.com/legislation/"
+},
+{
+"text": "News",
+"href": "https://electmikeday.com/news/"
+},
+{
+"text": "[image: State Representative Mike Day]",
+"href": "https://electmikeday.com/"
+},
+{
+"text": "[image]",
+"href": "https://mdwcommunications.com/political-websites-by-mdwcomm/"
+}
 ]

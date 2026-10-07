@@ -1,5 +1,14 @@
 [
-"https://mitchellforhouse.com/",
-"https://mitchellforhouse.com/privacy",
-"https://mitchellforhouse.com/terms-and-conditions"
+{
+"text": "HOME",
+"href": "https://www.mitchellforhouse.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mitchellforhouse.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.mitchellforhouse.com/terms-and-conditions"
+}
 ]

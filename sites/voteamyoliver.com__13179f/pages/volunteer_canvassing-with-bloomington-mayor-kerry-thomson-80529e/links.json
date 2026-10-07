@@ -1,24 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Bloomington+Mayor+Kerry+Thomson&dates=20260919T180000Z%2F20260919T200000Z",
-"https://bsky.app/profile/aholiver4inrep.bsky.social",
-"https://facebook.com/profile.php?id=61578623978433",
-"https://instagram.com/amyholiver4instaterep?hl=en",
-"https://secure.actblue.com/donate/amyswebsitecall",
-"https://voteamyoliver.com/",
-"https://voteamyoliver.com/2026may06",
-"https://voteamyoliver.com/2026may19",
-"https://voteamyoliver.com/about-amy",
-"https://voteamyoliver.com/afl-cio",
-"https://voteamyoliver.com/awaitingresults",
-"https://voteamyoliver.com/cart",
-"https://voteamyoliver.com/contactme",
-"https://voteamyoliver.com/donate",
-"https://voteamyoliver.com/endorsements",
-"https://voteamyoliver.com/faqs",
-"https://voteamyoliver.com/new-dropdown",
-"https://voteamyoliver.com/priorities",
-"https://voteamyoliver.com/volunteer",
-"https://voteamyoliver.com/volunteer/canvassing-with-bloomington-mayor-kerry-thomson?format=ical",
-"https://voteamyoliver.com/volunteer/canvassing-with-jessica-bailey-in-state-comptroller-candidate",
-"https://x.com/aholiver4INrep"
+{
+"text": "0",
+"href": "https://www.voteamyoliver.com/cart"
+},
+{
+"text": "AFL-CIO Endorsement (June 26)",
+"href": "https://www.voteamyoliver.com/afl-cio"
+},
+{
+"text": "About Amy",
+"href": "https://www.voteamyoliver.com/about-amy"
+},
+{
+"text": "Amy Recognized by the DLCC (May 19)",
+"href": "https://www.voteamyoliver.com/2026may19"
+},
+{
+"text": "Amy's Priorities",
+"href": "https://www.voteamyoliver.com/priorities"
+},
+{
+"text": "Back",
+"href": "https://www.voteamyoliver.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.voteamyoliver.com/volunteer"
+},
+{
+"text": "Click here to donate",
+"href": "https://secure.actblue.com/donate/amyswebsitecall"
+},
+{
+"text": "Contact Amy",
+"href": "https://www.voteamyoliver.com/contactme"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteamyoliver.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteamyoliver.com/endorsements"
+},
+{
+"text": "FAQs",
+"href": "https://www.voteamyoliver.com/faqs"
+},
+{
+"text": "Folder: News",
+"href": "https://www.voteamyoliver.com/new-dropdown"
+},
+{
+"text": "Front Page Finish (May 05)",
+"href": "https://www.voteamyoliver.com/awaitingresults"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Bloomington+Mayor+Kerry+Thomson&dates=20260919T180000Z%2F20260919T200000Z"
+},
+{
+"text": "Home",
+"href": "https://www.voteamyoliver.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.voteamyoliver.com/volunteer/canvassing-with-bloomington-mayor-kerry-thomson?format=ical"
+},
+{
+"text": "Next Next September 20 Canvassing with Jessica Bailey, IN State Comptroller Candidate",
+"href": "https://www.voteamyoliver.com/volunteer/canvassing-with-jessica-bailey-in-state-comptroller-candidate"
+},
+{
+"text": "Post-Primary Press Release (May 06)",
+"href": "https://www.voteamyoliver.com/2026may06"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteamyoliver.com/volunteer"
+},
+{
+"text": "[image: Amy Huffman Oliver for IN State Representative]",
+"href": "https://www.voteamyoliver.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/aholiver4inrep.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578623978433"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amyholiver4instaterep/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/aholiver4INrep"
+}
 ]

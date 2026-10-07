@@ -1,10 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://kellyforhd9.com/",
-"https://kellyforhd9.com/contact-us",
-"https://kellyforhd9.com/events",
-"https://kellyforhd9.com/issues",
-"https://kellyforhd9.com/meet-steve",
-"https://kellyforhd9.com/volunteer",
-"https://secure.winred.com/kelly-for-house-district-9/donate-today"
+{
+"text": "Contact Us",
+"href": "https://kellyforhd9.com/contact-us"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/kelly-for-house-district-9/donate-today"
+},
+{
+"text": "Events",
+"href": "https://kellyforhd9.com/events"
+},
+{
+"text": "Home",
+"href": "https://kellyforhd9.com/"
+},
+{
+"text": "Issues",
+"href": "https://kellyforhd9.com/issues"
+},
+{
+"text": "Meet Steve",
+"href": "https://kellyforhd9.com/meet-steve"
+},
+{
+"text": "Volunteer",
+"href": "https://kellyforhd9.com/volunteer"
+},
+{
+"text": "[image: Steve Kelly for House District 9]",
+"href": "https://kellyforhd9.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

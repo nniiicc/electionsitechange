@@ -1,19 +1,82 @@
 [
-"https://buccosrisingstars.com/",
-"https://carmenbucco.com/",
-"https://carmenbucco.com/about-us",
-"https://carmenbucco.com/article",
-"https://carmenbucco.com/bucco-message",
-"https://carmenbucco.com/contact",
-"https://carmenbucco.com/endorsement-testimonials",
-"https://carmenbucco.com/event",
-"https://carmenbucco.com/get-involved",
-"https://carmenbucco.com/issues",
-"https://carmenbucco.com/latest-news",
-"https://carmenbucco.com/picture",
-"https://carmenbucco.com/video",
-"https://facebook.com/Buccofornewjersey",
-"https://instagram.com/buccofornewjersey",
-"https://jewishlink.news/carmen-bucco-seeks-nj-10-republican-nod-for-congress",
-"https://secure.anedot.com/bucco-for-congress-26/donate"
+{
+"text": "About",
+"href": "https://carmenbucco.com/about-us/"
+},
+{
+"text": "About Carmen Bucco",
+"href": "https://carmenbucco.com/about-us/"
+},
+{
+"text": "Article",
+"href": "https://carmenbucco.com/article/"
+},
+{
+"text": "Carmen Bucco",
+"href": "https://carmenbucco.com/"
+},
+{
+"text": "Contact",
+"href": "https://carmenbucco.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/bucco-for-congress-26/donate"
+},
+{
+"text": "Endorsement & Testimonials",
+"href": "https://carmenbucco.com/endorsement-testimonials/"
+},
+{
+"text": "Events",
+"href": "https://carmenbucco.com/event/"
+},
+{
+"text": "Get Involved",
+"href": "https://carmenbucco.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://carmenbucco.com"
+},
+{
+"text": "Home",
+"href": "https://carmenbucco.com/"
+},
+{
+"text": "Issues",
+"href": "https://carmenbucco.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://carmenbucco.com/latest-news/"
+},
+{
+"text": "MESSAGE FROM CARMEN",
+"href": "https://carmenbucco.com/bucco-message"
+},
+{
+"text": "Our Foundation",
+"href": "https://buccosrisingstars.com/"
+},
+{
+"text": "Picture",
+"href": "https://carmenbucco.com/picture/"
+},
+{
+"text": "Video",
+"href": "https://carmenbucco.com/video/"
+},
+{
+"text": "View the article",
+"href": "https://jewishlink.news/carmen-bucco-seeks-nj-10-republican-nod-for-congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Buccofornewjersey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/buccofornewjersey"
+}
 ]

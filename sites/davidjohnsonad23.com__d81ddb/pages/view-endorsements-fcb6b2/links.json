@@ -1,20 +1,74 @@
 [
-"https://aipca.vote/endorsements",
-"https://campaignpartner.com/",
-"https://content.campaignpartner.net/images/152890/SVACR_2026_PRIMARY_VoterGuide.pdf",
-"https://davidjohnsonad23.com/",
-"https://davidjohnsonad23.com/contact",
-"https://davidjohnsonad23.com/contribute",
-"https://davidjohnsonad23.com/events",
-"https://davidjohnsonad23.com/home",
-"https://davidjohnsonad23.com/issues",
-"https://davidjohnsonad23.com/make-endorsement",
-"https://davidjohnsonad23.com/meet_david",
-"https://davidjohnsonad23.com/news",
-"https://davidjohnsonad23.com/photos",
-"https://davidjohnsonad23.com/privacy-policy",
-"https://davidjohnsonad23.com/view-endorsements",
-"https://davidjohnsonad23.com/volunteer",
-"https://davidjohnsonad23.com/vote",
-"https://reformcalifornia.org/voter-guides/california"
+{
+"text": "AIPC Endorsements Page",
+"href": "https://www.aipca.vote/endorsements"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://davidjohnsonad23.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://davidjohnsonad23.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://davidjohnsonad23.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://davidjohnsonad23.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://davidjohnsonad23.com/events"
+},
+{
+"text": "Home",
+"href": "https://davidjohnsonad23.com/home"
+},
+{
+"text": "Issues",
+"href": "https://davidjohnsonad23.com/issues"
+},
+{
+"text": "Meet David",
+"href": "https://davidjohnsonad23.com/meet_david"
+},
+{
+"text": "News",
+"href": "https://davidjohnsonad23.com/news"
+},
+{
+"text": "Official Voter Guide",
+"href": "https://content.campaignpartner.net/images/152890/SVACR_2026_PRIMARY_VoterGuide.pdf"
+},
+{
+"text": "Photos",
+"href": "https://davidjohnsonad23.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://davidjohnsonad23.com/privacy-policy"
+},
+{
+"text": "Reform California Voter Guide",
+"href": "https://www.reformcalifornia.org/voter-guides/california"
+},
+{
+"text": "Volunteer",
+"href": "https://davidjohnsonad23.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://davidjohnsonad23.com/vote"
+},
+{
+"text": "[image: David Johnson Assembly District 23]",
+"href": "https://davidjohnsonad23.com/"
+}
 ]

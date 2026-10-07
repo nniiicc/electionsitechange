@@ -1,5 +1,4 @@
-Meet Khristian Silvis
-Khristian Silvis is a veteran, wife, mother of two, and someone who has always prioritized service to her country and community.
+Skip to content Home Meet Khristian Priorities Endorsements Get Involved Events Contact Donate Donate Home Meet Khristian Priorities Endorsements Get Involved Events Contact Donate Donate Meet Khristian Silvis Khristian Silvis is a veteran, wife, mother of two, and someone who has always prioritized service to her country and community.
 Now, as a candidate for State Representative in the 84th district, she’s ready to bring that same level of commitment to the State House in Lansing.
 Khristian began her journey of service in the U.S.
 Army while on tour in Afghanistan as a combat medic.
@@ -11,3 +10,4 @@ Representative Hillary Scholten.
 In this role, she worked to connect people with the resources they needed and to ensure their voices were heard in Washington, gaining firsthand insight into the challenges and opportunities facing Michigan families.
 Her experiences, from her tour in Afghanistan to her advocacy work in West Michigan, have shaped Khristian’s approach: listening closely, acting decisively, and putting people first.
 She’s running for State House to bring that same focus and dedication to her neighbors in Michigan’s 84th District.
+Home Meet Khristian Priorities Endorsements Get Involved Contact © # Committee to Elect Khristian Silvis Paid for by the Committee to Elect Khristian Silvis | PO Box 140192, Grand Rapids, MI 49514 Photos and statements used do not imply endorsement by the Department of Defense or Department of the Army

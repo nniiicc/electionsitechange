@@ -1,24 +1,7 @@
-We Support Norma Torres!
+Home Donate Issues Endorsements Media Volunteer Newsletter ICE Home Donate Issues Endorsements Media Volunteer Newsletter ICE We Support Norma Torres!
 Want to add your endorsement?
 Click here!
 Are you a candidate seeking an endorsement?
 Click here!
-National
-State
-Local
-Elected Officials
-Senator Alex Padilla
-Congresswoman Judy Chu
-Mayor John Dutrey (Montclair)
-Mayor Paul Leon (Ontario)
-Mayor Pete Rogers (Chino Hills)
-Councilwoman Corysa Martinez (Montclair)
-Councilman Ray Marquez (Chino Hills)
-Councilman Rafael Trujillo (Rialto)
-Councilman Robert Torres (Pomona)
-Councilman Brian Joshz (Chino Hills)
-Councilwoman Tenice Johnson (Montclair)
-Councilwoman Elizabeth Ontiveros-Cole (Pomona)
-Councilwoman Jocelyn Yow (Eastvale)
-Elvia Rivas, President - Ontario Montclair School District
-Laura Hendison - Board Member, Cucamonga School District
+California Democratic Party National BOLD PAC Giffords Elect Democratic Women League of Conservation Voters National Union of Healthcare Workers Humane Society Legislative Fund Reproductive Freedom for All Planned Parenthood Action Fund New Dems Action Fund National Association of Letter Carriers American Postal Workers Union American Federation of State, County, and Municipal Employees Everytown For Gun Safety National Security Leaders for America BRADY PAC National Association of Social Workers Amalgamated Transit Union (ATU) State California Democratic Party California Federation of Labor Service Employees International Union - California California Environmental Voters California Association of Letter Carriers California School Employees Assocation Local Teamsters JC42 L.A.
+County Federation of Labor LA/OC Building Trades International Union of Operating Engineers Local 12 SW Carpenters 909 LiUNA Local 783 SMART Local 105 Painters and Allied Trades DC36 Plumbers & Pipefitters Local 364 United Food & Commercial Workers Local 1167 Elected Officials Senator Alex Padilla Congresswoman Judy Chu Mayor John Dutrey (Montclair) Mayor Paul Leon (Ontario) Mayor Pete Rogers (Chino Hills) Councilwoman Corysa Martinez (Montclair) Councilman Ray Marquez (Chino Hills) Councilman Rafael Trujillo (Rialto) Councilman Robert Torres (Pomona) Councilman Brian Joshz (Chino Hills) Councilwoman Tenice Johnson (Montclair) Councilwoman Elizabeth Ontiveros-Cole (Pomona) Councilwoman Jocelyn Yow (Eastvale) Elvia Rivas, President - Ontario Montclair School District Laura Hendison - Board Member, Cucamonga School District Powered by Squarespace

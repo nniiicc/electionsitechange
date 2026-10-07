@@ -1,34 +1,146 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-john-hoffman-1&sa=D&sntz=1&usg=AOvVaw2nEDgNzumAEDne_cVTO1I3",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DHouse%26f%3DHF0458%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw1dtMOWuERjWpO8HYdFgIQK",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DHouse%26f%3DHF0729%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw0FCrEqDEbmYphrjBLNhBJZ",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DHouse%26f%3DHF2749%26ssn%3D0%26y%3D2016&sa=D&sntz=1&usg=AOvVaw0k6cK2InXpTYRYuUzo4-NJ",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF0459%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw2RoNzuC1xUOcnrVmy7Qzm1",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF1183%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw3BXoqclqRHA1AtMCW6ysU7",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF2543%26ssn%3D0%26y%3D2014&sa=D&sntz=1&usg=AOvVaw05-kn8OQ1hXbrdLAmWQ2x3",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF2749%26ssn%3D0%26y%3D2016&sa=D&sntz=1&usg=AOvVaw2LQ3ATCfCAo0E8w-iDFpC3",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF3467%26ssn%3D0%26y%3D2016&sa=D&sntz=1&usg=AOvVaw120qo1XApbXoaBFPyLkzSo",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF0001%26ssn%3D1%26y%3D2015&sa=D&sntz=1&usg=AOvVaw10yxmg2Cmv2GWhu08snNQT",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF1215%26ssn%3D0%26y%3D2015&sa=D&sntz=1&usg=AOvVaw0JUbd_Zp77w5ST0FOgn0tV",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF2101%26ssn%3D0%26y%3D2015&sa=D&sntz=1&usg=AOvVaw3BktYlY4NJoxEvxHf1GUyJ",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF2192%26ssn%3D0%26y%3D2014&sa=D&sntz=1&usg=AOvVaw0bxMk0pn8Agbt08RnC-glJ",
-"https://google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Ff%3DHF2798%26y%3D2014%26ssn%3D0%26b%3Dhouse&sa=D&sntz=1&usg=AOvVaw0GvAlLgtEBh66soOHznMJw",
-"https://johnhoffmanmn.com/about-john/awards",
-"https://johnhoffmanmn.com/about-john/biography",
-"https://johnhoffmanmn.com/about-john/endorsements",
-"https://johnhoffmanmn.com/about-john/gallery",
-"https://johnhoffmanmn.com/about-john/letters",
-"https://johnhoffmanmn.com/about-john/mentions",
-"https://johnhoffmanmn.com/home",
-"https://johnhoffmanmn.com/sign-up-for-senator-hoffman-news-and-update",
-"https://johnhoffmanmn.com/volunteer",
-"https://johnhoffmanmn.com/work-in-legislature/bonding-infrastructure",
-"https://johnhoffmanmn.com/work-in-legislature/creating-jobs-boosting-the-economy",
-"https://johnhoffmanmn.com/work-in-legislature/education",
-"https://johnhoffmanmn.com/work-in-legislature/environment-energy",
-"https://johnhoffmanmn.com/work-in-legislature/health-human-services",
-"https://johnhoffmanmn.com/work-in-legislature/public-safety-veterans-government",
-"https://johnhoffmanmn.com/work-in-legislature/supporting-local-business",
-"https://johnhoffmanmn.com/work-in-legislature/transportation",
-"https://johnhoffmanmn.com/year-end-reports"
+{
+"text": "1183–2013",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF1183%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw3BXoqclqRHA1AtMCW6ysU7"
+},
+{
+"text": "1215-2015",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF1215%26ssn%3D0%26y%3D2015&sa=D&sntz=1&usg=AOvVaw0JUbd_Zp77w5ST0FOgn0tV"
+},
+{
+"text": "2101–2015",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF2101%26ssn%3D0%26y%3D2015&sa=D&sntz=1&usg=AOvVaw3BktYlY4NJoxEvxHf1GUyJ"
+},
+{
+"text": "2192–2014",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF2192%26ssn%3D0%26y%3D2014&sa=D&sntz=1&usg=AOvVaw0bxMk0pn8Agbt08RnC-glJ"
+},
+{
+"text": "2543-2014",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF2543%26ssn%3D0%26y%3D2014&sa=D&sntz=1&usg=AOvVaw05-kn8OQ1hXbrdLAmWQ2x3"
+},
+{
+"text": "2749–2016",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DHouse%26f%3DHF2749%26ssn%3D0%26y%3D2016&sa=D&sntz=1&usg=AOvVaw0k6cK2InXpTYRYuUzo4-NJ"
+},
+{
+"text": "2749–2016",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF2749%26ssn%3D0%26y%3D2016&sa=D&sntz=1&usg=AOvVaw2LQ3ATCfCAo0E8w-iDFpC3"
+},
+{
+"text": "2798 –2014",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Ff%3DHF2798%26y%3D2014%26ssn%3D0%26b%3Dhouse&sa=D&sntz=1&usg=AOvVaw0GvAlLgtEBh66soOHznMJw"
+},
+{
+"text": "3467–2016",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF3467%26ssn%3D0%26y%3D2016&sa=D&sntz=1&usg=AOvVaw120qo1XApbXoaBFPyLkzSo"
+},
+{
+"text": "458-2013",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DHouse%26f%3DHF0458%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw1dtMOWuERjWpO8HYdFgIQK"
+},
+{
+"text": "459-2013",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DHF0459%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw2RoNzuC1xUOcnrVmy7Qzm1"
+},
+{
+"text": "729-2013",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DHouse%26f%3DHF0729%26ssn%3D0%26y%3D2013&sa=D&sntz=1&usg=AOvVaw0FCrEqDEbmYphrjBLNhBJZ"
+},
+{
+"text": "Awards",
+"href": "https://www.johnhoffmanmn.com/about-john/awards"
+},
+{
+"text": "Biography",
+"href": "https://www.johnhoffmanmn.com/about-john/biography"
+},
+{
+"text": "Bonding & Infrastructure",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/bonding-infrastructure"
+},
+{
+"text": "Creating Jobs & Boosting the Economy",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/creating-jobs-boosting-the-economy"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-john-hoffman-1&sa=D&sntz=1&usg=AOvVaw2nEDgNzumAEDne_cVTO1I3"
+},
+{
+"text": "Education",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnhoffmanmn.com/about-john/endorsements"
+},
+{
+"text": "Environment & Energy",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/environment-energy"
+},
+{
+"text": "Gallery",
+"href": "https://www.johnhoffmanmn.com/about-john/gallery"
+},
+{
+"text": "Health & Human Services",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/health-human-services"
+},
+{
+"text": "Home",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "Letters",
+"href": "https://www.johnhoffmanmn.com/about-john/letters"
+},
+{
+"text": "Mentions",
+"href": "https://www.johnhoffmanmn.com/about-john/mentions"
+},
+{
+"text": "Public Safety, Veterans & Government",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/public-safety-veterans-government"
+},
+{
+"text": "Senator John Hoffman",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "Sign Up for Senator Hoffman News and Update",
+"href": "https://www.johnhoffmanmn.com/sign-up-for-senator-hoffman-news-and-update"
+},
+{
+"text": "Special Session S.F. 1–2015",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.revisor.mn.gov%2Fbills%2Fbill.php%3Fb%3DSenate%26f%3DSF0001%26ssn%3D1%26y%3D2015&sa=D&sntz=1&usg=AOvVaw10yxmg2Cmv2GWhu08snNQT"
+},
+{
+"text": "Supporting Local Business",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/supporting-local-business"
+},
+{
+"text": "Transportation",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/transportation"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnhoffmanmn.com/volunteer"
+},
+{
+"text": "Year End Reports",
+"href": "https://www.johnhoffmanmn.com/year-end-reports"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-john-hoffman-1&sa=D&sntz=1&usg=AOvVaw2nEDgNzumAEDne_cVTO1I3"
+},
+{
+"text": "[image]",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "[image]Senator John Hoffman",
+"href": "https://www.johnhoffmanmn.com/home"
+}
 ]

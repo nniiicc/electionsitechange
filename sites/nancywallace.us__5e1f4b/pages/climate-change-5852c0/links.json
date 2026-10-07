@@ -1,34 +1,142 @@
 [
-"http://afdc.energy.gov/fuels/electricity_locations.html",
-"http://aiso.net/",
-"http://bradsproduce.com/csa",
-"http://buppertsfarmcsa.com/",
-"http://cleantechnica.com/70\u201080\u201099\u20109\u2010100\u2010 renewables\u2010study\u2010central",
-"http://greenscheme.org/",
-"http://mocoalliance.org/newsroom/community\u2010supported\u2010agriculture",
-"http://nancywallace.us/",
-"http://nancywallace.us/about/community-peacestopping-police-violence",
-"http://nancywallace.us/climate-change",
-"http://nancywallace.us/climate-change/green-party",
-"http://nancywallace.us/community%e2%80%90based-economics-and-economic-justice",
-"http://nancywallace.us/contact",
-"http://nancywallace.us/donate",
-"http://nancywallace.us/endorsements",
-"http://nancywallace.us/federal-tax-reform",
-"http://nancywallace.us/foreign-policy",
-"http://nancywallace.us/health-care-for-all",
-"http://nancywallace.us/immigration-reform",
-"http://nancywallace.us/issues",
-"http://nancywallace.us/list",
-"http://nancywallace.us/meet-nancy",
-"http://nancywallace.us/privacy",
-"http://nancywallace.us/vote-for-nancy",
-"http://nancywallace.us/women-and-girls-survival",
-"http://news.stanford.edu/news/2014/february/fifty\u2010states\u2010renewables\u2010022414.html",
-"http://retrofitbaltimore.civicworks.com/",
-"http://thesolutionsproject.org/",
-"http://which.co.uk/cars/choosing\u2010a\u2010car/buying\u2010a\u2010car/electric\u2010car\u2010guide",
-"http://wikihow.com/Make\u2010Your\u2010Home\u2010Energy\u2010Efficient",
-"https://afsic.nal.usda.gov/community\u2010supported\u2010agriculture\u20103",
-"https://en.wikipedia.org/wiki/100%25_renewable_energy"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Climate Change",
+"href": "http://www.nancywallace.us/climate-change/"
+},
+{
+"text": "Community Based Economics and Economic Justice",
+"href": "http://www.nancywallace.us/community%e2%80%90based-economics-and-economic-justice/"
+},
+{
+"text": "Community Peace/Stopping Police Violence",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Contact",
+"href": "http://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "http://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Federal Tax Reform",
+"href": "http://www.nancywallace.us/federal-tax-reform"
+},
+{
+"text": "Foreign Policy",
+"href": "http://www.nancywallace.us/foreign-policy"
+},
+{
+"text": "Green Party",
+"href": "http://www.nancywallace.us/climate-change/green-party"
+},
+{
+"text": "Health Care for All",
+"href": "http://www.nancywallace.us/health-care-for-all/"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Immigration Reform",
+"href": "http://www.nancywallace.us/immigration-reform"
+},
+{
+"text": "Issues",
+"href": "http://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "http://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Meet Nancy",
+"href": "http://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Police",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Privacy",
+"href": "http://www.nancywallace.us/privacy"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "Women and Girls’ Survival",
+"href": "http://www.nancywallace.us/women-and-girls-survival/"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "http://cleantechnica.com/70‐80‐99‐9‐100‐ renewables‐study‐central/",
+"href": "http://cleantechnica.com/70%E2%80%9080%E2%80%9099%E2%80%909%E2%80%90100%E2%80%90%20renewables%E2%80%90study%E2%80%90central/"
+},
+{
+"text": "http://mocoalliance.org/newsroom/community‐supported‐agriculture/",
+"href": "http://mocoalliance.org/newsroom/community%E2%80%90supported%E2%80%90agriculture/"
+},
+{
+"text": "http://news.stanford.edu/news/2014/february/fifty‐states‐renewables‐022414.html",
+"href": "http://news.stanford.edu/news/2014/february/fifty%E2%80%90states%E2%80%90renewables%E2%80%90022414.html"
+},
+{
+"text": "http://retrofitbaltimore.civicworks.com/",
+"href": "http://retrofitbaltimore.civicworks.com/"
+},
+{
+"text": "http://thesolutionsproject.org/",
+"href": "http://thesolutionsproject.org/"
+},
+{
+"text": "http://www.afdc.energy.gov/fuels/electricity_locations.html",
+"href": "http://www.afdc.energy.gov/fuels/electricity_locations.html"
+},
+{
+"text": "http://www.bradsproduce.com/csa",
+"href": "http://www.bradsproduce.com/csa"
+},
+{
+"text": "http://www.buppertsfarmcsa.com/",
+"href": "http://www.buppertsfarmcsa.com/"
+},
+{
+"text": "http://www.greenscheme.org/",
+"href": "http://www.greenscheme.org/"
+},
+{
+"text": "http://www.which.co.uk/cars/choosing‐a‐car/buying‐a‐car/electric‐car‐guide/",
+"href": "http://www.which.co.uk/cars/choosing%E2%80%90a%E2%80%90car/buying%E2%80%90a%E2%80%90car/electric%E2%80%90car%E2%80%90guide/"
+},
+{
+"text": "http://www.wikihow.com/Make‐Your‐Home‐Energy‐Efficient",
+"href": "http://www.wikihow.com/Make%E2%80%90Your%E2%80%90Home%E2%80%90Energy%E2%80%90Efficient"
+},
+{
+"text": "https://afsic.nal.usda.gov/community‐supported‐agriculture‐3",
+"href": "https://afsic.nal.usda.gov/community%E2%80%90supported%E2%80%90agriculture%E2%80%903"
+},
+{
+"text": "https://en.wikipedia.org/wiki/100%25_renewable_energy",
+"href": "https://en.wikipedia.org/wiki/100%25_renewable_energy"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

@@ -1,19 +1,90 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fbob-karp-1&sa=D&sntz=1&usg=AOvVaw1ErRKMZsPOQfJd-pd7ziQf",
-"https://rwkarp.com/about",
-"https://rwkarp.com/about/contact-us",
-"https://rwkarp.com/about/mobile-terms-of-service",
-"https://rwkarp.com/about/resources",
-"https://rwkarp.com/about/resources/graphics",
-"https://rwkarp.com/about/resources/signs",
-"https://rwkarp.com/about/subscribe-to-newsletter",
-"https://rwkarp.com/about/texting-op-in",
-"https://rwkarp.com/gail-griffin-in-her-own-words",
-"https://rwkarp.com/home",
-"https://rwkarp.com/learn-about-bob-karp",
-"https://rwkarp.com/learn-about-bob-karp/bobs-voter-guide-statement",
-"https://rwkarp.com/my-reform-agenda",
-"https://rwkarp.com/my-reform-agenda/affordability",
-"https://rwkarp.com/my-reform-agenda/education-reform",
-"https://tinyurl.com/3dxf7cb3"
+{
+"text": "About",
+"href": "https://www.rwkarp.com/about"
+},
+{
+"text": "Affordability",
+"href": "https://www.rwkarp.com/my-reform-agenda/affordability"
+},
+{
+"text": "Bob's Voter Guide Statement",
+"href": "https://www.rwkarp.com/learn-about-bob-karp/bobs-voter-guide-statement"
+},
+{
+"text": "Contact Us",
+"href": "https://www.rwkarp.com/about/contact-us"
+},
+{
+"text": "Education Reform",
+"href": "https://www.rwkarp.com/my-reform-agenda/education-reform"
+},
+{
+"text": "Gail Griffin In Her Own Words",
+"href": "https://www.rwkarp.com/gail-griffin-in-her-own-words"
+},
+{
+"text": "Graphics",
+"href": "https://www.rwkarp.com/about/resources/graphics"
+},
+{
+"text": "Home",
+"href": "https://www.rwkarp.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.rwkarp.com/issues"
+},
+{
+"text": "Learn about Bob Karp",
+"href": "https://www.rwkarp.com/learn-about-bob-karp"
+},
+{
+"text": "Mobile Terms of Service",
+"href": "https://www.rwkarp.com/about/mobile-terms-of-service"
+},
+{
+"text": "My Reform Agenda",
+"href": "https://www.rwkarp.com/my-reform-agenda"
+},
+{
+"text": "Resources",
+"href": "https://www.rwkarp.com/about/resources"
+},
+{
+"text": "Signs",
+"href": "https://www.rwkarp.com/about/resources/signs"
+},
+{
+"text": "Subscribe to newsletter",
+"href": "https://www.rwkarp.com/about/subscribe-to-newsletter"
+},
+{
+"text": "Texting Op-In",
+"href": "https://www.rwkarp.com/about/texting-op-in"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fbob-karp-1&sa=D&sntz=1&usg=AOvVaw1ErRKMZsPOQfJd-pd7ziQf"
+},
+{
+"text": "[image]",
+"href": "https://www.rwkarp.com/home"
+},
+{
+"text": "[image]rwkarp.com",
+"href": "https://www.rwkarp.com/home"
+},
+{
+"text": "bobkarp2026@gmail.com",
+"href": "mailto:bobkarp2026@gmail.com"
+},
+{
+"text": "https://tinyurl.com/3dxf7cb3",
+"href": "https://tinyurl.com/3dxf7cb3"
+},
+{
+"text": "rwkarp.com",
+"href": "https://www.rwkarp.com/home"
+}
 ]

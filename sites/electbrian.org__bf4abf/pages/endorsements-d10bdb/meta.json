@@ -1,9 +1,9 @@
 {
  "description": "Discover endorsements for Brian McMahan, showcasing Arizona political endorsements and support for candidates. Join the movement!",
  "final_url": "https://electbrian.org/endorsements",
- "paid_for_by": null,
+ "fingerprint": "fadc4f9b81d7b59de32983bd3e92efe052339b04",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

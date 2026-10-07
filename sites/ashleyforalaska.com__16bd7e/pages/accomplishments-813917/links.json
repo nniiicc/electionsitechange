@@ -1,52 +1,206 @@
 [
-"https://akhouse.org/carrick/docs/2023.ID.Letter.EPA_Air_Quality_Reguations_Letter.pdf",
-"https://akhouse.org/rep-mina",
-"https://akleg.gov/PDF/33/A/HB0125-S003.PDF",
-"https://akleg.gov/PDF/33/A/HB0268-H021-001.PDF",
-"https://akleg.gov/PDF/33/A/HB0344-S002.PDF",
-"https://akleg.gov/PDF/33/A/SB0189-H003.PDF",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+10",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+148",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+17",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+196",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+221",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+266",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+305",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+55",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+62",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb+8",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb125",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb307",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb344",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hb89",
-"https://akleg.gov/basis/Bill/Detail/33?Root=hjr+11",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb+152",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb+58",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb13",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb147",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb151",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb170",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb189",
-"https://akleg.gov/basis/Bill/Detail/33?Root=sb88",
-"https://akleg.gov/basis/Journal/Pages/33?Chamber=H&Bill=HB++89&Page=01660",
-"https://akleg.gov/basis/get_documents.asp?session=33&docid=30643",
-"https://alaskatia.org/sites/default/files/2024-09/AKFY24-25_Marketing%20Plan%20Final%20Optimized.pdf",
-"https://ashleyforalaska.com/",
-"https://ashleyforalaska.com/accomplishments",
-"https://ashleyforalaska.com/cart",
-"https://ashleyforalaska.com/contribute",
-"https://ashleyforalaska.com/endorsements",
-"https://ashleyforalaska.com/home",
-"https://ashleyforalaska.com/meetashley",
-"https://ashleyforalaska.com/values",
-"https://ashleyforalaska.com/voting",
-"https://facebook.com/ashleyforalaska",
-"https://files.constantcontact.com/a5bdb2e2901/74f49a4a-bc91-41f9-b0db-8de39647cfdf.pdf",
-"https://files.constantcontact.com/d07b7b06901/1808b3d4-611a-49e1-be7e-e05e175c8a42.pdf",
-"https://files.constantcontact.com/d07b7b06901/50a0a613-349a-48d4-9ef1-72bef432572c.pdf?rdr=true",
-"https://futurecaucus.org/future-caucus/state-future-caucus-network/alaska",
-"https://instagram.com/ashleyforalaska",
-"https://peltola.house.gov/news/documentsingle.aspx?DocumentID=145",
-"https://twitter.com/AshleyforAlaska",
-"https://youtube.com/@ashleyforalaska"
+{
+"text": "0",
+"href": "https://www.ashleyforalaska.com/cart"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.ashleyforalaska.com/accomplishments"
+},
+{
+"text": "Contribute",
+"href": "https://www.ashleyforalaska.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleyforalaska.com/endorsements"
+},
+{
+"text": "HB 125",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb125#tab6_4"
+},
+{
+"text": "HB 148",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+148"
+},
+{
+"text": "HB 196",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+196#tab6_4"
+},
+{
+"text": "HB 221",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+221"
+},
+{
+"text": "HB 266",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+266"
+},
+{
+"text": "HB 305",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+305"
+},
+{
+"text": "HB 307",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb307"
+},
+{
+"text": "HB 344",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb344#tab1_4"
+},
+{
+"text": "HB 55",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+55"
+},
+{
+"text": "HB 62",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+62"
+},
+{
+"text": "HB 89",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb89#tab6_4"
+},
+{
+"text": "HJR 11",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hjr+11"
+},
+{
+"text": "House Bill 10",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+10"
+},
+{
+"text": "House Bill 17",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+17"
+},
+{
+"text": "House Bill 8",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=hb+8"
+},
+{
+"text": "Meet Ashley",
+"href": "https://www.ashleyforalaska.com/meetashley"
+},
+{
+"text": "Per modeling from the non-partisan Legislative Finance Division",
+"href": "https://www.akleg.gov/basis/get_documents.asp?session=33&docid=30643"
+},
+{
+"text": "Platform",
+"href": "https://ashleyforalaska.com/home/#platform"
+},
+{
+"text": "Representative Genevieve Mina",
+"href": "https://akhouse.org/rep-mina/"
+},
+{
+"text": "SB 151",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb151"
+},
+{
+"text": "SB 152",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb+152#tab6_4"
+},
+{
+"text": "SB 170",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb170"
+},
+{
+"text": "SB 189",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb189#tab6_4"
+},
+{
+"text": "SB 58",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb+58"
+},
+{
+"text": "SB 88",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb88"
+},
+{
+"text": "SB147",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb147#tab6_4"
+},
+{
+"text": "Senate Bill 13",
+"href": "https://www.akleg.gov/basis/Bill/Detail/33?Root=sb13"
+},
+{
+"text": "Values",
+"href": "https://www.ashleyforalaska.com/values"
+},
+{
+"text": "Voting Information",
+"href": "https://www.ashleyforalaska.com/voting"
+},
+{
+"text": "[image: Ashley for Alaska]",
+"href": "https://www.ashleyforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AshleyforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ashleyforalaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ashleyforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ashleyforalaska"
+},
+{
+"text": "amendment",
+"href": "https://files.constantcontact.com/a5bdb2e2901/74f49a4a-bc91-41f9-b0db-8de39647cfdf.pdf"
+},
+{
+"text": "amendment",
+"href": "https://www.akleg.gov/PDF/33/A/HB0268-H021-001.PDF"
+},
+{
+"text": "announced",
+"href": "https://peltola.house.gov/news/documentsingle.aspx?DocumentID=145"
+},
+{
+"text": "ashley@ashleyforalaska.com",
+"href": "mailto:ashley@ashleyforalaska.com"
+},
+{
+"text": "co-chairing the Alaska chapter of the national Future Caucus",
+"href": "https://futurecaucus.org/future-caucus/state-future-caucus-network/alaska/"
+},
+{
+"text": "letter",
+"href": "https://akhouse.org/carrick/docs/2023.ID.Letter.EPA_Air_Quality_Reguations_Letter.pdf"
+},
+{
+"text": "letter",
+"href": "https://files.constantcontact.com/d07b7b06901/1808b3d4-611a-49e1-be7e-e05e175c8a42.pdf"
+},
+{
+"text": "letter",
+"href": "https://files.constantcontact.com/d07b7b06901/50a0a613-349a-48d4-9ef1-72bef432572c.pdf?rdr=true"
+},
+{
+"text": "online",
+"href": "https://www.alaskatia.org/sites/default/files/2024-09/AKFY24-25_Marketing%20Plan%20Final%20Optimized.pdf"
+},
+{
+"text": "rider",
+"href": "https://www.akleg.gov/PDF/33/A/HB0125-S003.PDF"
+},
+{
+"text": "rider",
+"href": "https://www.akleg.gov/PDF/33/A/HB0344-S002.PDF"
+},
+{
+"text": "rider",
+"href": "https://www.akleg.gov/PDF/33/A/SB0189-H003.PDF"
+},
+{
+"text": "voted in favor",
+"href": "https://www.akleg.gov/basis/Journal/Pages/33?Chamber=H&Bill=HB++89&Page=01660#1660"
+}
 ]

@@ -1,11 +1,46 @@
 [
-"https://tracybrownmay.com/",
-"https://tracybrownmay.com/about-tracy",
-"https://tracybrownmay.com/author/webadmkmj",
-"https://tracybrownmay.com/contact-us",
-"https://tracybrownmay.com/contribute",
-"https://tracybrownmay.com/gallery",
-"https://tracybrownmay.com/privacy-policy",
-"https://tracybrownmay.com/successes",
-"https://tracybrownmay.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://tracybrownmay.com/about-tracy/"
+},
+{
+"text": "CONTACT",
+"href": "https://tracybrownmay.com/contact-us/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://tracybrownmay.com/contribute/"
+},
+{
+"text": "GALLERY",
+"href": "https://tracybrownmay.com/gallery/"
+},
+{
+"text": "KMJ Admin",
+"href": "https://tracybrownmay.com/author/webadmkmj/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tracybrownmay.com/privacy-policy/"
+},
+{
+"text": "SUCCESSES",
+"href": "https://tracybrownmay.com/successes/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://tracybrownmay.com/volunteer/"
+},
+{
+"text": "WHY TRACY",
+"href": "https://tracybrownmay.com/"
+},
+{
+"text": "[image: Tracy Brown-May Logo][image: Tracy Brown-May Logo]",
+"href": "https://tracybrownmay.com/"
+},
+{
+"text": "[no text]",
+"href": "https://tracybrownmay.com/"
+}
 ]

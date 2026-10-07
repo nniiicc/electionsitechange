@@ -1,10 +1,8 @@
-ENERGY: Reliable, Diverse and Affordable
-In the 70's Jay Hammond, Alaska's 4th governor, successfully created the Alaska Trans Alaska Pipeline System (TAPS) and Alaska's sovereign wealth fund, the PFD.
+Skip navigation menu Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate ENERGY: Reliable, Diverse and Affordable Ethics in Government: Accountability to Alaskans EDUCATION - Fully Fund for Quality An Economy that Works for all Alaskans ENERGY: Reliable, Diverse and Affordable In the 70's Jay Hammond, Alaska's 4th governor, successfully created the Alaska Trans Alaska Pipeline System (TAPS) and Alaska's sovereign wealth fund, the PFD.
 At that time he talked about TAPS tiding Alaska over until renewables could be developed.
 Here is a section of Jay Hammond's speech delivered at his inauguration on January 18, 1975.
 His words have been a touchstone for me, showing a balanced and responsible approach to development in Alaska.
-(My Favorite part is bolded, mid-way through.)
-"... the concerns and choices for Alaska's future which I truly hold are common fare with those of most Alaskans.
+(My Favorite part is bolded, mid-way through.) "... the concerns and choices for Alaska's future which I truly hold are common fare with those of most Alaskans.
 Campaigns, regrettably, too often are comprised of illusion, imagery and innuendo.
 Facts obscure beneath detritus strewn along the trail.
 Once swept aside, I am convinced we'll find we have much more in common than in conflict.
@@ -45,4 +43,4 @@ There are polarization gaps which grow between our many peoples.
 Rural versus urban, native versus white, developer versus conservationist.
 We must attempt to span these gaps before they widen into gulfs.
 To do so, across them let's build bridges, not hurl brickbats.
-It serves no good and useful purpose to mock those who will not march in lock-step with our thinking, we should strip off the labels some append and start afresh aware that we are all Alaskans..."
+It serves no good and useful purpose to mock those who will not march in lock-step with our thinking, we should strip off the labels some append and start afresh aware that we are all Alaskans..." Privacy Policy Sandra@sandraforalaska.com Powered by RUN! website builder Paid for by Sandra Loomis for Alaska PO Box 1146, Talkeetna, AK 99676 You need to enable JavaScript to run this app.

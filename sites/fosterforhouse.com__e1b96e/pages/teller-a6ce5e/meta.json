@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://fosterforhouse.com/teller",
- "paid_for_by": null,
+ "fingerprint": "c802d78a25f42c39e799968ed8efb9c498c87dd1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Teller",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

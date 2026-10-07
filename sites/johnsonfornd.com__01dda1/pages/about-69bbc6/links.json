@@ -1,8 +1,26 @@
 [
-"https://cookieadmin.net/",
-"https://johnsonfornd.com/",
-"https://johnsonfornd.com/about",
-"https://johnsonfornd.com/priorities",
-"https://secure.anedot.com/corey-johnson-for-nd/donate?exitIntent=true",
-"https://vip.sos.nd.gov/WhereToVote.aspx"
+{
+"text": "About",
+"href": "https://johnsonfornd.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/corey-johnson-for-nd/donate?exitIntent=true"
+},
+{
+"text": "Home",
+"href": "https://johnsonfornd.com/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Priorities",
+"href": "https://johnsonfornd.com/priorities/"
+},
+{
+"text": "Where to Vote",
+"href": "https://vip.sos.nd.gov/WhereToVote.aspx"
+}
 ]

@@ -1,715 +1,127 @@
-Endorsements
-Representatives for Becca
-Becca’s movement is growing every day.
+Skip to content Meet Becca Issues Endorsements Get Involved Vote Meet Becca Issues Endorsements Get Involved Vote Donate Meet Becca Issues Endorsements Get Involved Vote Donate Meet Becca Issues Endorsements Get Involved Vote Donate Endorsements Representatives for Becca Becca’s movement is growing every day.
 Her campaign is backed by labor unions, community leaders, and elected officials on every level.
-National and Community Organizations
-National legislators for becca
-U.S.
-Senator Bernie Sanders (VT)
-U.S.
-Senator Elizabeth Warren (MA)
-U.S.
-Senator Ed Markey (MA)
-U.S.
-Congressman David Cicilline (RI-01)
-U.S.
-Congresswoman Pramila Jayapal (WA-07)
-U.S.
-Congresswoman Barbara Lee (CA-13)
-U.S.
-Congressman Ro Khanna (CA-17)
-U.S.
-Congressman Jamie Raskin (MD-08)
-U.S.
-Congressman Mark Pocan (WI-02)
-U.S.
-Congressman Mark Takano (CA-41)
-U.S.
-Congressman Ritchie Torres (NY-15)
-Vermont legislators for Becca
-Current State Legislators
-Sen.
-Ruth Hardy (D-Addison)
-Sen.
-Chris Bray (D-Addison)
-Sen.
-Jane Kitchel (D-Caledonia)
-Sen.
-Phil Baruth (D/P-Chittenden)
-Sen.
-Kesha Ram (D-Chittenden)
-Sen.
-Ginny Lyons (D-Chittenden)
-Sen.
-Robert Starr (D-Essex-Orleans)
-Sen.
-Dick Mazza (D-Grand Isle)
-Sen.
-Jeanette White (D-Windham)
-Sen.
-Alison Clarkson (D-Windsor)
-Sen.
-Ann Cummings (D-Washington)
-Sen.
-Andrew Perchlik (D/P-Washington)
-Rep.
-Janet Ancel (D-Washington-6)
-Rep.
-Peter Anthony (D-Washington-3)
-Rep.
-John Arrison (D-Windsor-2)
-Rep.
+National and Community Organizations National legislators for becca U.S.
+Senator Bernie Sanders (VT) U.S.
+Senator Elizabeth Warren (MA) U.S.
+Senator Ed Markey (MA) U.S.
+Congressman David Cicilline (RI-01) U.S.
+Congresswoman Pramila Jayapal (WA-07) U.S.
+Congresswoman Barbara Lee (CA-13) U.S.
+Congressman Ro Khanna (CA-17) U.S.
+Congressman Jamie Raskin (MD-08) U.S.
+Congressman Mark Pocan (WI-02) U.S.
+Congressman Mark Takano (CA-41) U.S.
+Congressman Ritchie Torres (NY-15) Vermont legislators for Becca Current State Legislators Sen.
+Ruth Hardy (D-Addison) Sen.
+Chris Bray (D-Addison) Sen.
+Jane Kitchel (D-Caledonia) Sen.
+Phil Baruth (D/P-Chittenden) Sen.
+Kesha Ram (D-Chittenden) Sen.
+Ginny Lyons (D-Chittenden) Sen.
+Robert Starr (D-Essex-Orleans) Sen.
+Dick Mazza (D-Grand Isle) Sen.
+Jeanette White (D-Windham) Sen.
+Alison Clarkson (D-Windsor) Sen.
+Ann Cummings (D-Washington) Sen.
+Andrew Perchlik (D/P-Washington) Rep.
+Janet Ancel (D-Washington-6) Rep.
+Peter Anthony (D-Washington-3) Rep.
+John Arrison (D-Windsor-2) Rep.
 John L.
-Bartholomew (D-Windsor-1)
-Rep.
-Matt Birong (D-Addison-3)
-Rep.
-Alyssa Black (D-Chittenden-8-3)
-Rep.
-Tiff Bluemle (D-Chittenden-6-5)
-Rep.
-Thomas Bock (D-Windsor-3-1)
-Rep.
-Seth Bongartz (D-Bennington-4)
-Rep.
-Michelle Bos-Lun (D-Windham)
-Rep.
-Jessica Brumsted (D-Chittenden)
-Rep.
+Bartholomew (D-Windsor-1) Rep.
+Matt Birong (D-Addison-3) Rep.
+Alyssa Black (D-Chittenden-8-3) Rep.
+Tiff Bluemle (D-Chittenden-6-5) Rep.
+Thomas Bock (D-Windsor-3-1) Rep.
+Seth Bongartz (D-Bennington-4) Rep.
+Michelle Bos-Lun (D-Windham) Rep.
+Jessica Brumsted (D-Chittenden) Rep.
 Mollie S.
-Burke (P/D-Windham-2-2)
-Rep.
+Burke (P/D-Windham-2-2) Rep.
 R.
-Scott Campbell (D-Caledonia-3)
-Rep.
-Sara Coffey (D-Windham)
-Rep.
-Selene Colburn (P-Chittenden-6-4)
-Rep.
-Peter Conlon (D-Addison-2)
-Rep.
-Sarah Copeland Hanzas (D-Orange-2)
-Rep.
-Karen Dolan (D-Chittenden-8-2)
-Rep.
-Katherine “Kari” Dolan (D-Washington-7)
-Rep.
-Kate Donnally (D-Lamoille-2)
-Rep.
-Alice Emmons (D-Windsor-3-2)
-Rep.
-Rey Garofano (D-Chittenden-8-1)
-Rep.
-John Gannon (D-Windham-6)
-Rep.
-Leslie Goldman (D-Windham-3)
-Rep.
-Maxine Grad (D-Washington-7)
-Rep.
-Mary Hooper (D-Washington-4)
-Rep.
-Lori Houghton (D-Chittenden-8-2)
-Rep.
-Kathleen James (D-Bennington)
-Rep.
-Stephanie Jerome (D-Rutland-6)
-Rep.
-John Killacky (D-Chittenden-7-4)
-Rep.
-Emilie Kornheiser (D-Windham)
-Rep.
-Martin LaLonde (D-Chittenden-7-1)
-Rep.
-Diane Lanpher (D-Addison-3)
-Rep.
-William Lippert (D-Chittenden-4-2)
-Rep.
-Curt McCormack (D-Chittenden-6-3)
-Rep.
-Mike Mrowicki (D-Windham)
-Rep.
-Emma Mulvaney-Stanek (P/D-Chittenden-17)
-Rep.
-William Notte (D-Rutland-5-4)
-Rep.
-Daniel Noyes (D-Lamoille-2)
-Rep.
-Kelly Pajala (I-Windham-Bennington-Windsor)
-Rep.
-Avram Patt (D-Lamoille-Washington)
-Rep.
-Ann Pugh (D-Chittenden-6-2)
-Rep.
-Barbara Rachelson (D-Chittenden)
-Rep.
-Lucy Rogers (D-Lamoille-3)
-Rep.
-Larry Satcowitz (D-Orange-Washington-Addison)
-Rep.
-Robin Scheu (D-Addison-1)
-Rep.
-Amy Sheldon (D-Addison-1)
-Rep.
-Laura Sibilia (I-Windham-Bennington)
-Rep.
-Katherine Sims (D-Orleans-Caledonia)
-Rep.
-Taylor Small (P/D-Chittenden-6-7)
-Rep.
-Tom Stevens (D-Washington-Chittenden)
-Rep.
-Curt Taylor (D-Chittenden-9-1)
-Rep.
-Tristan Toleno (D-Windham-2-3)
-Rep.
-Maida Townsend (D-Chittenden 7-4)
-Rep.
-Chip Troiano (D-Caledonia-2)
-Rep.
-Becca White (D-Windsor)
-Rep.
-Kirk White (D/P-Windsor-Rutland)
-Rep.
-Dane Whitman (D-Bennington-2-1)
-Rep.
-Theresa Wood (D-Washington-Chittenden)
-Former State Legislators
-Sen.
-Claire Ayer (D-Addison)
-Sen.
-Susan Bartlett (D-Lamoille)
-Sen.
-John Campbell (D-Windsor) – Former Senate Pro Tempore & Head of State’s Attorney’s and Sheriff’s Association
-Sen.
-Mary Ann Carlson (D-Bennington)
-Rep.
-Robin Chesnut-Tangerman (P-Rutland-Bennington)
-Rep.
-Annmarie Christensen (D-Windsor)
-Rep.
-Joanna Cole (D-Chittenden 6-1)
-Rep.
-David Deen (D-Windham)
-Rep.
-Nader Hashim (D-Windham)
-Rep.
-Matt Hill (D-Lamoille-2)
-Rep.
-Mitzi Johnson (D-Grand Isle-Chittenden) – Former Speaker of the House
-Rep.
-Charles “Tom” Lauritsen (D-Windsor-4)
-Rep.
-Joan Lenes (D-Chittenden-5-2)
-Rep.
-Ann Manwaring (D-Windham)
-Rep.
-Floyd Nease (D-Lamoille-3)
-Rep.
-Anne O’Brien (D-Chittenden)
-Rep.
-Donny Osman – Plainfield
-Rep.
-Jean O’Sullivan (D-Chittenden 6-2)
-Sen.
-Scudder Parker (D-Caledonia) & Gubernatorial Candidate
-Rep.
-Julie Peterson (D-Windham)
-Rep.
-Marjorie Ryerson (D-Orange-Washington-Addison)
-Rep.
-Mary Sullivan (D-Chittenden), DNC Member
-Rep.
-Dave Sharpe (D-Addison)
-Rep.
-Megan Smith (D-Rutland-Windsor)
-Rep.
-Andy Snyder – Pittsford/Brandon
-Rep.
-Tess Taylor (D-Washington-3) – Barre
-Rep.
-Suzi Wizowaty (D-Chittenden-6-5) – Shelburne
-Rep.
-Mark Woodward (D-Lamoille)
-Rep.
-Toby Young (D-Windham)
-Rep.
-Teo Zagar (D-Windsor-4-1)
-Current Public Officials
-Beth Pearce – Vermont State Treasurer
-Kate Bailey – South Burlington School Board Director
-Emma Bay-Hansen – Montpelier School Board Director
-Leslie Burg – Justice of the Peace
-Steve Cormier – Chair, Fairfax Selectboard
-Martha Cornwell – Shaftsbury Selectboard Member
-Cate Cross – Vice Chair, Shelburne Selectboard
-Zon Eastes – Guilford Selectboard Member
-Ward Goodenough – Windsor County State’s Attorney
-Jake Hemmerick – Barre City Mayor
-June Heston – Chair, Richmond Selectboard
-Rose Kennedy – Rutland County State’s Attorney
-Kristine Lott – Mayor of Winooski
-Thomas Renner – Winooski City Council Member
-Verandah Porche – Vice Chair, Guilford Selectboard
-Tracy Shriver – Windham County State’s Attorney
-Esther Thomas – Middlebury Selectboard Member
-Ben Traverse – Burlington City Councilor
-Tim Wessel – Brattleboro Selectboard Member
-Former Public Officials
-Kathryn Kennedy – Former Probate Judge
-Deb Markowitz – Former Vermont Secretary of State
-Jeb Spaulding – Former Chancellor, Vermont State Colleges, Former Vermont Treasurer, Former State Senator (Washington)
-Robert Pu – Former Probate Judge
-Marilyn Skoglund – Former Supreme Court Justice
-Rus Janis – Former Chairman, Brattleboro Town School Board
-Nancy Kaplan – Former Burlington City Councilor
-Steven Nichols – Former Bennington Selectboard Member
-Gina Ottoboni – Faculty, CCV & Former Chittenden Selectboard Member
-Jane Stromberg – Former Burlington City Councilor
-Anne Rider – Former Chairwoman of Guilford Selectboard
-Chris Webb – Former Brookline Selectboard Member
-Vermonters for Becca
-Penelope Adams Simpson – Mental Health Counselor
-Aaron Adler – Former Vermont Legislative Counsel
-Emily Ahtunan – Disability Rights Activist and Member, State Rehabilitation Council
-Scott Ainslie – Owner, Cattail Music
-Sarah Albert – Community Member
-Stefan Amidon – Musician
-Tessa Anders – Teacher
-Kate Anderson – Community Member
-Samuel Arfer – Community Member
-James Arisman – Former Vermont Assistant Attorney General
-Wichie Artu – Windham County Candidate for State Senate
-John Atkinson – Owner, Stoneblender Trails
-Ellen Baier – Traffic Coordinator, WCAX-TV
-Mel Baiser – Partner, HELM Construction Solutions
-Katie Ballard – Special Education Parent Advocate
-Marsha Bancroft – Community Member
-Liz Bankowski – Trustee, Ben & Jerry’s Foundation
-Rick Barnett – Psychologist
-Becky Bartlett – Community Member
-Maria Basescu – Communications, Denterlein
-Catie Baumgartner – Community Member
-Connie Baxter – Community Member
-Euan Bear – LGBTQ+ Activist
-Emilie Beauchamp – Woodworker
-Sarah Bedichek – Community Member
-Tanya Benosky – Executive Director, Boys and Girls Club of Burlington
-John Bentley – Community Member
-Ashley Berliner – Director of Medicaid Policy, Agency of Human Services
-Ali Berlow – Food Activist
-Marta Bernbaum – Artist
-Woody Bernhard – Chair, We Celebrate Democracy | Civil Rights for All
-Barry Bernstein – President, Better World Energy LLC
-Dana Berry – Director, Community Collaborative for Guilford
-John Bisson – Doctor
-Ruth Blauwiekel – UVM University Veterinarian
-David Blistein – Writer
-Joel Bluming – Photographer
-Lyndall Boal – Community Member
-Zara Bode – Musician
-Emily Boedecker – Former Commissioner, Department of Environmental Conservation
-Peter Borden – Community Member
-Ron Bos-Lun – Teacher, The Compass School
-John Bossange – Former Middle School Principal
-Michael Bosworth – Community Member
-Jeb Bouchard – Systems Analyst, Waitsfeld and Champlain Telecom
-John Bouffard – Community Member
-Stephanie Bourdelle – Co-Owner, Mount Harmony Farm, Guest House & Sanctuary
-Deb Bouton – Communications Director, Cathedral Square
-Aubrey Boyles – Childcare Provider
-Susan Brace – Owner, Bloodroot Farm
-Ann Braden – Author and Gun Safety Advocate
-Dan Braden – Teacher
-Roberta Bremmer – Community Member
-Fred Breunig – Board Member, Vermont Interfaith Action
-Wendy Brewer – Regional Sales Manager, Grafton Village Cheese
-Janet Brocklehurst – Community Member
-Rebecca Brown – CEO, Uppercase Industries
-Pat Burke – Family Services Director, SEVCA
-George Burrill – Former Board Member, The Nature Conservancy in Vermont
-Barbara Butler – Assistant Town Clerk, Town of East Calais
-Mellisa Cain – Community Organizer
-Tami Calliope – Wildlife Activist and Writer
-Erica Campbell – Policy Manager, Kiss the Ground
-Jerry Carbone – Owner, Whetstone Genealogy & Former Library Director
-Bridget Carbonetti – School Librarian
-Reverand Carole Carlson – Community Member
-Stephen Carlton – Psychologist
-Peter Carothers – Co-Founder, Habitat for Humanity of Addison County
-Sarah Carpenter – Burlington City Councilor & Chair, Vermont Rental Housing Advisory Board
-Sarah Carter – Community Member
-Kaye Cassidy – Shaman
-Elizabeth Catlin – Commissioner, Dummerston’s Housing Advisory Commission
-Stanley Charkey – Former Professor, Marlboro College
-Anne Charles – Co-Host, All Things LGBTQ
-Ella Chen – Community Member
-Tom Cheney – Former Staffer, Congressman Peter Welch and Chief of Staff, Vermont Speaker of the House
-Melissa Chesnut-Tangerman – Teacher, Long Trail School
-Fiona Chevalier – School Librarian
-Andre Clark – Volunteer Coordinator, Anew Place
-Karen Clark – President, The Horse Works
-Elayne Clift – Writer
-Dianne Clouet – Teacher
-David Coates – Former Managing Partner, KPMG
-Lorni Cochran – Therapist
-Dietrich Cole – Peer Leader, Howard Center
-Mary Collins – Community Member
-Matt Conklin – Community Member
-Gena Corea – Writer
-Priscilla Cotton – Interior Designer
-Lisa Cox – Teacher
-Catherine Crawley – Communication Director, Vermont Arts Council
-Hannah Cressy – Nurse-Midwife
-Knox Cummin – Community Member
-Julie Cunningham – Executive Director, Families First
-Judy Davidson – Community Member
-Jack Davidson – Lawyer
-Jenny Davis – Nurse
-Carol Davis – Community Member
-Jean Davis – Occupational Therapist
-Arthur Davis – Researcher, Rich Earth Institute
-Dottie Deans – Former Vermont Democratic Party Chair
-Greg Dennis – Writer and Climate Change Activist
-Susan Detato – Community Member
-Nancy Detra – Artist
-Chuck DeVries – Community Member
-Elena Dodd – Actress and Writer
-Aidan Doherty – Community Member
-Mike Donofrio – Attorney
-J.Lily Doyle – Community Member
-Abbey Duke – Owner, Sugarsnap Catering
-Tony Duncan – Clown
-David Eastman – Community Member
-Paul Eley – Community Member
-Gretchen Elias – Executive Director, Good Beginnings of Central Vermont
-Phyllis Erwin – Community Member
-Elizabeth Esmond – Communications Consultant
-Samirah Evans – Musician
-Erin Evarts – Executive Director, Lyric Theatre Company
-Barbara Farr – Community Member
-Abigail Faulkner – Community Member
-Carrie Fenn – Real Estate Broker/Agent, SunCommon
-Donna Fialkoff – Community Member
-Alex Fischer – Community Organizer
-Sadie Fischesser – Operations Director, Agency of Human Services, Department of Children and Familes, Economic Services Division
-Jane Fitzwilliam – Community Member
-Mike Fleming – Writer
-F X Flinn – Chair, ECFiber
-Michelle Force – Community Member
-Patricia Fowler – Owner, Village Square Booksellers
-Daniel Franklin – Vice President, Recovery Vermont and VAMHAR
-Robert Freeberg – Music Coach
-Kim Friedman – Community Member
-Laura Fulwiler – Community Member
-Laura Gans – Attorney
-Ruth Garbus – Musician
-Louise Garfield – Community Member
-Miciah Gault – Author
-Rich Geidel – Manager, Everyone’s Books
-Lauren Geiger – Community Member
-Betsy Gentile – Workforce Development, WSESU
-Barb Giardi – Community Member
-Noah Ginsberg – Director, Tigercomm
-Emily Girdwood – Teacher
-Molly Gleason – Owner, Bridge Road Sugarworks
-Charlie Gliserman – Community Member
-Karen Glitman – Senior Director, Center for Sustainable Energy
-Ann Golob – Community Member
-Bonnie Goodman – Community Member
-James Gordon – Musician
-Keith Goslant – Co-Host, All Things LGBTQ
-Molly Graves – Coach, NECCA
-Connie Green – Community Member
-Tom Green – Community Member
-Judy Greenberg – Psychologist
-Carolinne Griffin – Writer
-Catherine Gruver Dianich – Owner, Catherine Dianich Gallery
-Martine Gulick – School Commissioner, Burlington School Board
-Michael Gutterman – President, UVM Democrats
-Bud Haas – Community Member
-John Hagen – Former Chair, Windham County Democrats
-Gabe Halberg – Musician
-Solomon Hallal – Therapist
-Emma Hallowell – Teacher
-Erica Hare – CFO, Aspire Living and Learning
-Jessa Harger – Admissions Counselor, The Putney School
-Timm Harris – Senior Program Advisor, USAID
-Meg Harriman – Community Member
-Freddie Hart – Community Member
-Christine Hart – Development Director, Brattleboro Housing Partnerships
-Alana Harte – Equity Consultant
-George Harvey – Writer, Green Energy Times
-Maya Hasegawa – Community Member
-Monica Hastings – Sales Management, Cersosimo Lumber Co.
-John Hatton – Realtor
-Linda Hay – Community Member
-Jeffrey Haylon – Community Member
-Carolyn Heft – Attorney
-Marge Heggison – Academic Assistant, Dartmouth College
-Alexandra Heintz – Health Care Administrator, Southwestern VT Medical Center
-Richard Heller – Artist and Educator
-Connie Helms – Education Consultant
-Daniel Hernandez – Candidate for Congress (AZ-6)
-Artie Hetzel – Community Member
-Sarah Lauren Hibbert – Attorney
-Lon Hiebert – Community Member
-Jerry Himelstein – Former Assistant Professor, Northern Vermont University
-Linda Himelstein – Social Worker
-Nate Hine – Community Member
-Elijah Hines – Black Lives Matter Activist
-Hannah King – Community Member
-Rob Hinrichs – Realtor
-Mary Houghton – Deputy Director, Brattleboro Housing Authority
-Sheryl Hruska – Community Member
-Brian Hsiang – Founding Partner, CQ Strategies
-Jenna Hsiang – Nurse, UVM Medical Center
-Rebecca Huenink – Community Member
-Will Huenink – Community Member
-Beth Hughes – Community Member
-Bill Hunsinger – Head Brewer, Halyard Brewing
-Steve Ingram – Board Member, Habitat for Humanity of Addison County
-Hale Irwin – Community Member
-Shannon Jackson – Former Campaign Manager for Sen.
-Bernie Sanders and Our Revolution Executive Director
-Zachary Jandl – Account Executive, Carrot Fertility
-Karen Jernigan – Board Member, Renewable Energy Vermont
-Tracey John – General Manager, The Vermont Country Deli
-Kate John – Trustee of Public Funds, Town of Brattleboro
-Jim Johnson – Community Member
-Ingrid Jonas – Former Commander, Vermont State Police
-Zoe Kaslow – Non-Profit Leader & Expecting Mom
-Jeanne Keller – Project Manager
-Marisa Keller – Editor and Writer
-Paul Kendall – Former Executive
-Rhianna Kendrick – Director of Operations, Groundworks Collaborative
-Kate Kenner – Community Member
-Trinka Kerr – Former Chief Health Care Advocate of Vermont
-Jean Anne Kiewel – Lawyer
-Jen Kimmich – Founder and CEO, The Alchemist Brewery
-Jay King – Community Member
-Liza King – Owner, Neumann Studios Stained Glass
-Kate Kinney – Property Manager, Appletree Bay Property Management
-Daphne Kinney-Landis – Student, Clark University
-Vanessa Kittell – Lawyer
-Bram Kleppner – CEO, Danforth Pewter and Member, Vermont Climate Council
-Jane Knight – Children’s Room Manager, Bear Pond Books
-Felicia Kornbluh – Board Chair, Planned Parenthood VT Action Fund; UVM Professor
-Larry Krasner – Community Member
-Stephanie Lahar – Management Consultant
-Anne LaLonde – Lawyer
-Jody Landon – Board Member, City Market, Onion River Co-op
-Martin Langeveld – Board Member, New England Newspapers
-Beverly Langeveld – Community Member
-Lisa Lax – Clinical Social Worker
-Chloe Learey – Executive Director, Winston Prouty Center
-Kelli Lee-Allen – Community Member
-Linda Leehman – Volunteer Coordinator, Star Island
-Matthew LeFluer – Disability Rights Activist
-Ted Lemon – Interconnectivity Guru, Apple
-Chris Lenois – Former Program Host, WKVT Radio
-Lynn Levimr – Author
-Kate LeVine – Community Member
-Dorothy Levinson – Coordinator, Building Bright Futures
-Julie Levy – Activist
-Margaret Lewis – Community Member
-Jeffrey Lewis – Former Executive Director, Brattleboro Development Credit Corporation
-Danny Lichtenfeld – Director, Brattleboro Museum and Arts Center
-Naomi Lindenfeld – Artist and Ceramics Teacher, The Putney School
-Hope Lindsay – Retired Social Worker
-Julie Lineberger – Owner, LineSync Architecture
-Christine Linn – Director of Youth Development Programs, Youth Services
-Crea Lintilhac – Director, Lintilhac Foundation
-Karen Lipinczyk – Pastor
-David Lipton – Community Member
-Nonnie Locke – Community Member
-Kate Lucier – Attorney
-Chris Lumley – Furniture Maker
-Deborah Luskin – Writer
-Deborah Luquer – Community Member
-Auli Lyons – Early Childhood Educator
-Dan and Gail MacArthur – Community Member
-Robin MacArthur – Writer
-Dorothy MacDonald – Community Member
-Bruce Macduffie – Community Member
-Prudence MacKinney – COVID Screener, Brattleboro Memorial Hospital
-Carol Maloney – Agency of Human Services
-Frank Markey – Community Member
-Claire Markey – Community Member
-Alan Marolf – Community Member
-Emily Martyn – Midwife
-Ray Massucco – Lawyer
-Chip Mayer – Community Member
-Pam McCarthy – CEO and President, Vermont Family Network
-Kate McCarthy – Land Use Planning Advocate
-Lucy McClellan – Editor, Edanz
-Kelly McCracken – Social Worker
-Ellen McCulloch-Lovell – Former President, Marlboro College; Former Chief of Staff, Senator Leahy
-Lee Mcdavid – Community Member
-Stewart and Kris McDermet – Community Member
-Metta McGarvey – Teacher
-Seton Mcilroy – State Lead, Vermont Chapter of Moms Demamd Action for Gun Sense in America
-Bill McKibben – Founder, 350.org and Third Act
-Beth McKinney – Teacher, Dover Elementary School
-Elizabeth McLoughlin – Urban Planner
-Jesse Metzler – Music Teacher
-Jill Michaels – Community Member
-Howie Michaelson – Renewable Energy Entrepreneur
-Craig Miskovich – Attorney
-Abby Mnookin – Climate Activist
-Ashley Moore – Community Member
-Georgia Morgan – Artisan
-Sheila Morse – Community Member
-Jonathan Morse – Retired Builder
-Charlene Morse – Community Member
-Naomi Morse – Musician
-Melinda Moulton
-Tamara Mount – Head of School, Hilltop Montessori School
-Jim Murphy – Director of Environmental Advocacy Clinic, Vermont Law School
-Sylvester Murphy – Community Member
-Nicole Murtha – Community Member
-Paula Nadeau – Early Childhood Education Expert
-Dr.
-Etan Nasreddin-Longo – Co-Director of Fair and Impartial Policing and Community Affairs, Vermont State Police
-Beth Neher – Educational Consultant, LIUNA Training
-Michael Nethercott – Writer
-GennaRose Nethercott – Poet
-Ilana Newton – Nurse
-Jessica Nordhaus – Principal, Gear Shift Consulting + Co-founder, Genclusive
-Kate O’Connor – Former Executive Director, Brattleboro Area Chamber of Commerce
-Willow O’Feral – Documentary Filmmaker
-Tanya Ocker – Product Manager, Activated Insights
-Michelle Ollie – Co-Founder, The Center for Cartoon Studies
-Nancy Olson – Writer and Educator
-Margaret OToole – Community Member
-Pamela Page – Community Member
-Maryann Parrott – Community Member
-Caitlin Patterson – Nurse
-Anna Patton – Musician
-Janis Pereira – Community Member
-Lisa Pezzulich – Psychologist
-Robert Pezzulich MD – Surgeon
-Joanna Phillips – Culinary and Nutrition Expert, Patch of Sky Farm
-Hannah Phillips – Community Member
-Prema Picardi – Retail Clerk, Brattleboro Food Co-op
-Annamarie Pluhar – Founder, Sharing Housing
-Rebecca Plummer – Attorney, Vermont Legal Aid
-Hannah Porter – Medical Resident and Union Organizer, University of Vermont Medical Center
-Mary Powell – Former CEO, Green Mountain Power
-Monique Priestly – Chair, Bradford Dems
-Sherry Providence – Board Member, Broadbrook Community Center
-Vivian Prunier – President, American Association of University Women of VT
-Linda Quinlan – Co-Host, All Things LGBTQ+
-Jenna Rae – Musician
-Will Raap – Founder, Gardener’s Supply; Founder, Intervale Center; CEO, Earthkeep Farmcommon
-Alain Ratheau – Founder and Lead Engineer, Integrated Solar Applications Corp.
-Tony Redington – Community Member
-Curtiss Reed – Executive Director, Vermont Partnership for Fairness and Diversity
-Paul Regan – Board of Trustees, The Scotland House
-John Reid – Self Employed
-Amanda Reid – Community Member
-J.
-Tyler Resch – Community Member
-Lois Reynolds – Community Member
-Susan Ritz – Board Member, Vermont Works for Women
-Camilla Roberts – Artist
-Deb Robinson – Controller, Vermont State Colleges
-Drusilla Roessle – Director of Performance Improvement, Agency of Human Services
-Paul Rogers – Community Member
-William Roper – Founder and President, Slow Communities
-Emily Rosenbaum – Community Member
-Alison Roth – Community Member
-Leslie Sachs Sullivan – Activist and Dancer
-Robert Sager – Community Member
-Ginny Sassaman – Co-Founder, Gross National Happiness USA
-Anna Saxman – Director of Training, Office of Defender General
-Brendan Scherer – Deputy State’s Attorney
-Carol Schnabel – Handweaver and Head Doula, BMH
-Matthew Scott – Community Member
-Suzanne Scott – Cofounder, Nutragenesis
-Jon Secrest – Attorney
-Kerry Secrest – Owner, Watershed Coaching
-Kati Sell-Knapp – Domestic Violence Victim Advocate
-Rebecca Seymour – Realtor
-Bari Shamas – Community Member
-Cyrus Shaoul – Cofounder and CEO, Leela AI
-Sean Sheehan – Senior Policy and Implementation Analyst, Department of Vermont Health Access
-Mary Shepard – Office Manager, The Chimney Doctor
-Patty Sheridan – Nurse Practitioner
-Dianne Shullenberger – Artist
-John Shullenberger – Attorney
-Beth Sightler – Executive Director, Champlain Community Services
-Amelia Silver – Lawyer
-David Silver – Partner, Barr Sternberg Moss; Director, VT Association of Criminal Defense Attorneys; Co-Founder, Bennington Meals on Wheels; Board of Directors, Shires Housing
-Pamela Simmons – Owner, Afterthought Photography
-Tom Singleton – President, The Final Image
-Kora Skeele – Account Executive, Sean Tracey Associates
-Jill Skochdopole – Healthcare Worker
-Em Sloan – Member Coordinator, North Branch Nature Center
-Connie Snow – Former Executive Director, Windham Housing Trust
-Izzy Snyder – Student, Oberlin College
-Matt Sorensen – Community Member
-Rebecca Speisman – Assistant Dean of Students, The Putney School
-Jill Spiro – Community Member
-Robert Spottswood – Counselor
-Devin J.
-Starlanyl – Doctor
-Sharon Steadman – Psychologist
-Shira Sternberg – Political Organizer and Artist
-Susan Still – Nonprofit Board Consultant, Bobolink Communications
-Chris Stone – Community Member
-Molly Stoner – NEA Representative on Pensions Task Force and Fourth Grade Teacher
-Christian Stromberg – Owner, Saxtons River Distillery
-Jennifer Struble – Executive Director, New England Center for Circus Arts
-Elizabeth Suiter – Doctor
-Linda Sukop – Japanese Language Teacher
-Joyce Sullivan – Psychologist
-Margaret Sullivan – Nurse Practitioner
-Susan Sussman – Former Executive Director, Vermont Human Rights Commission
-Jennifer Sutton – Writer
-Michael Szostak – Restorative Justice Coordinator, Brattleboro Union High School
-Diane Tayeby – Mental Health Counselor
-Burt Tepfer – Doctor
-Barbara Ternes – Former Director, Parks Place
-Bethany Thies – Cofounder, Everywhere Philosophy
-Ilene Todd – Director, Federation EIL
-Daniel Towle – Mental Health Professional
-Andrew Tripp – Union Organizer
-Peter Trombley – Community Member
-Karen Tyler – Associate General Counsel, UVM Health Network
-Betsy Ungvarsky – Community Member
-Jo-Anne Unruh – Special Education Advocate
-Jane Van Buren – Executive Director of Childcare Resources and Owner, Noonmark Services
-Kathryn Van Haste – Longtime Congressional Staffer
-Joyce Vining Morgan – Retired Educator
-Jim Vires – Progressive Activist
-Konstantin von Krusenstiern – Director of Patient Experience, Brattleboro Memorial Hospital
-Suzanne Wagner – EOC Counselor, Vermont Student Assistance Corporation
-John Wallace – Attorney
-Janet Wallstein – Trustee, Brattleboro Music Center
-Jeanne Walsh – Librarian, Brooks Memorial Library
-Susan Watson – Professor of Physics, Middlebury College
-Jeff Weaber – Founder/CEO, Aqua ViTea
-Sheldon Weeks – Writer
-Ethel Weinberger – Retired Teacher
-Topaz Weis – Expressive Arts Facilitator, REACE
-Gigi Weisman – Educator, MMUUSD
-Ariel Wengroff – Editor-in-Chief, Ledger
-Carolyn Wesley – Senate Chief of Staff
-Kate Whelley McCabe – CEO, Vermont Evaporator Company
-Kat Whitledge – Owner, Kat Whitledge Basics & Bespoke
-Diana Whitney – Columnist and Poet
-Lisa Whitney – Director of Campus Operations, Winston Prouty Center
-Mara Williams – Former Curator, Brattleboro Museum & Art Center
-Laura Wilson – Public Defender
-Claire Wilson – Owner, Green Mountain Spinnery
-Wendy Wilson – Vice President, Putney Food Co-Op
-Amanda Witman – Community Member
-Sarah Wolfe – Clean Energy Specialist
-Jenn Wood – Climate Justice Activist
-Connie Woodberry – President, Black Mountain Assisted Family Living
-Daniel Woodbury – Manager, Ocean State Job Lot
-Jennifer Wright – Community Member
-Barbara Wynroth – Community Member
-Abbie Corse – Co-Owner, The Corse Family Dairy and Vermont Climate Council Representative
-Chris Zappala – Community Member
-Ann Zimmerman – Community Member
+Scott Campbell (D-Caledonia-3) Rep.
+Sara Coffey (D-Windham) Rep.
+Selene Colburn (P-Chittenden-6-4) Rep.
+Peter Conlon (D-Addison-2) Rep.
+Sarah Copeland Hanzas (D-Orange-2) Rep.
+Karen Dolan (D-Chittenden-8-2) Rep.
+Katherine “Kari” Dolan (D-Washington-7) Rep.
+Kate Donnally (D-Lamoille-2) Rep.
+Alice Emmons (D-Windsor-3-2) Rep.
+Rey Garofano (D-Chittenden-8-1) Rep.
+John Gannon (D-Windham-6) Rep.
+Leslie Goldman (D-Windham-3) Rep.
+Maxine Grad (D-Washington-7) Rep.
+Mary Hooper (D-Washington-4) Rep.
+Lori Houghton (D-Chittenden-8-2) Rep.
+Kathleen James (D-Bennington) Rep.
+Stephanie Jerome (D-Rutland-6) Rep.
+John Killacky (D-Chittenden-7-4) Rep.
+Emilie Kornheiser (D-Windham) Rep.
+Martin LaLonde (D-Chittenden-7-1) Rep.
+Diane Lanpher (D-Addison-3) Rep.
+William Lippert (D-Chittenden-4-2) Rep.
+Curt McCormack (D-Chittenden-6-3) Rep.
+Mike Mrowicki (D-Windham) Rep.
+Emma Mulvaney-Stanek (P/D-Chittenden-17) Rep.
+William Notte (D-Rutland-5-4) Rep.
+Daniel Noyes (D-Lamoille-2) Rep.
+Kelly Pajala (I-Windham-Bennington-Windsor) Rep.
+Avram Patt (D-Lamoille-Washington) Rep.
+Ann Pugh (D-Chittenden-6-2) Rep.
+Barbara Rachelson (D-Chittenden) Rep.
+Lucy Rogers (D-Lamoille-3) Rep.
+Larry Satcowitz (D-Orange-Washington-Addison) Rep.
+Robin Scheu (D-Addison-1) Rep.
+Amy Sheldon (D-Addison-1) Rep.
+Laura Sibilia (I-Windham-Bennington) Rep.
+Katherine Sims (D-Orleans-Caledonia) Rep.
+Taylor Small (P/D-Chittenden-6-7) Rep.
+Tom Stevens (D-Washington-Chittenden) Rep.
+Curt Taylor (D-Chittenden-9-1) Rep.
+Tristan Toleno (D-Windham-2-3) Rep.
+Maida Townsend (D-Chittenden 7-4) Rep.
+Chip Troiano (D-Caledonia-2) Rep.
+Becca White (D-Windsor) Rep.
+Kirk White (D/P-Windsor-Rutland) Rep.
+Dane Whitman (D-Bennington-2-1) Rep.
+Theresa Wood (D-Washington-Chittenden) Former State Legislators Sen.
+Claire Ayer (D-Addison) Sen.
+Susan Bartlett (D-Lamoille) Sen.
+John Campbell (D-Windsor) – Former Senate Pro Tempore & Head of State’s Attorney’s and Sheriff’s Association Sen.
+Mary Ann Carlson (D-Bennington) Rep.
+Robin Chesnut-Tangerman (P-Rutland-Bennington) Rep.
+Annmarie Christensen (D-Windsor) Rep.
+Joanna Cole (D-Chittenden 6-1) Rep.
+David Deen (D-Windham) Rep.
+Nader Hashim (D-Windham) Rep.
+Matt Hill (D-Lamoille-2) Rep.
+Mitzi Johnson (D-Grand Isle-Chittenden) – Former Speaker of the House Rep.
+Charles “Tom” Lauritsen (D-Windsor-4) Rep.
+Joan Lenes (D-Chittenden-5-2) Rep.
+Ann Manwaring (D-Windham) Rep.
+Floyd Nease (D-Lamoille-3) Rep.
+Anne O’Brien (D-Chittenden) Rep.
+Donny Osman – Plainfield Rep.
+Jean O’Sullivan (D-Chittenden 6-2) Sen.
+Scudder Parker (D-Caledonia) & Gubernatorial Candidate Rep.
+Julie Peterson (D-Windham) Rep.
+Marjorie Ryerson (D-Orange-Washington-Addison) Rep.
+Mary Sullivan (D-Chittenden), DNC Member Rep.
+Dave Sharpe (D-Addison) Rep.
+Megan Smith (D-Rutland-Windsor) Rep.
+Andy Snyder – Pittsford/Brandon Rep.
+Tess Taylor (D-Washington-3) – Barre Rep.
+Suzi Wizowaty (D-Chittenden-6-5) – Shelburne Rep.
+Mark Woodward (D-Lamoille) Rep.
+Toby Young (D-Windham) Rep.
+Teo Zagar (D-Windsor-4-1) Current Public Officials Beth Pearce – Vermont State Treasurer Kate Bailey – South Burlington School Board Director Emma Bay-Hansen – Montpelier School Board Director Leslie Burg – Justice of the Peace Steve Cormier – Chair, Fairfax Selectboard Martha Cornwell – Shaftsbury Selectboard Member Cate Cross – Vice Chair, Shelburne Selectboard Zon Eastes – Guilford Selectboard Member Ward Goodenough – Windsor County State’s Attorney Jake Hemmerick – Barre City Mayor June Heston – Chair, Richmond Selectboard Rose Kennedy – Rutland County State’s Attorney Kristine Lott – Mayor of Winooski Thomas Renner – Winooski City Council Member Verandah Porche – Vice Chair, Guilford Selectboard Tracy Shriver – Windham County State’s Attorney Esther Thomas – Middlebury Selectboard Member Ben Traverse – Burlington City Councilor Tim Wessel – Brattleboro Selectboard Member Former Public Officials Kathryn Kennedy – Former Probate Judge Deb Markowitz – Former Vermont Secretary of State Jeb Spaulding – Former Chancellor, Vermont State Colleges, Former Vermont Treasurer, Former State Senator (Washington) Robert Pu – Former Probate Judge Marilyn Skoglund – Former Supreme Court Justice Rus Janis – Former Chairman, Brattleboro Town School Board Nancy Kaplan – Former Burlington City Councilor Steven Nichols – Former Bennington Selectboard Member Gina Ottoboni – Faculty, CCV & Former Chittenden Selectboard Member Jane Stromberg – Former Burlington City Councilor Anne Rider – Former Chairwoman of Guilford Selectboard Chris Webb – Former Brookline Selectboard Member Vermonters for Becca Penelope Adams Simpson – Mental Health Counselor Aaron Adler – Former Vermont Legislative Counsel Emily Ahtunan – Disability Rights Activist and Member, State Rehabilitation Council Scott Ainslie – Owner, Cattail Music Sarah Albert – Community Member Stefan Amidon – Musician Tessa Anders – Teacher Kate Anderson – Community Member Samuel Arfer – Community Member James Arisman – Former Vermont Assistant Attorney General Wichie Artu – Windham County Candidate for State Senate John Atkinson – Owner, Stoneblender Trails Ellen Baier – Traffic Coordinator, WCAX-TV Mel Baiser – Partner, HELM Construction Solutions Katie Ballard – Special Education Parent Advocate Marsha Bancroft – Community Member Liz Bankowski – Trustee, Ben & Jerry’s Foundation Rick Barnett – Psychologist Becky Bartlett – Community Member Maria Basescu – Communications, Denterlein Catie Baumgartner – Community Member Connie Baxter – Community Member Euan Bear – LGBTQ+ Activist Emilie Beauchamp – Woodworker Sarah Bedichek – Community Member Tanya Benosky – Executive Director, Boys and Girls Club of Burlington John Bentley – Community Member Ashley Berliner – Director of Medicaid Policy, Agency of Human Services Ali Berlow – Food Activist Marta Bernbaum – Artist Woody Bernhard – Chair, We Celebrate Democracy | Civil Rights for All Barry Bernstein – President, Better World Energy LLC Dana Berry – Director, Community Collaborative for Guilford John Bisson – Doctor Ruth Blauwiekel – UVM University Veterinarian David Blistein – Writer Joel Bluming – Photographer Lyndall Boal – Community Member Zara Bode – Musician Emily Boedecker – Former Commissioner, Department of Environmental Conservation Peter Borden – Community Member Ron Bos-Lun – Teacher, The Compass School John Bossange – Former Middle School Principal Michael Bosworth – Community Member Jeb Bouchard – Systems Analyst, Waitsfeld and Champlain Telecom John Bouffard – Community Member Stephanie Bourdelle – Co-Owner, Mount Harmony Farm, Guest House & Sanctuary Deb Bouton – Communications Director, Cathedral Square Aubrey Boyles – Childcare Provider Susan Brace – Owner, Bloodroot Farm Ann Braden – Author and Gun Safety Advocate Dan Braden – Teacher Roberta Bremmer – Community Member Fred Breunig – Board Member, Vermont Interfaith Action Wendy Brewer – Regional Sales Manager, Grafton Village Cheese Janet Brocklehurst – Community Member Rebecca Brown – CEO, Uppercase Industries Pat Burke – Family Services Director, SEVCA George Burrill – Former Board Member, The Nature Conservancy in Vermont Barbara Butler – Assistant Town Clerk, Town of East Calais Mellisa Cain – Community Organizer Tami Calliope – Wildlife Activist and Writer Erica Campbell – Policy Manager, Kiss the Ground Jerry Carbone – Owner, Whetstone Genealogy & Former Library Director Bridget Carbonetti – School Librarian Reverand Carole Carlson – Community Member Stephen Carlton – Psychologist Peter Carothers – Co-Founder, Habitat for Humanity of Addison County Sarah Carpenter – Burlington City Councilor & Chair, Vermont Rental Housing Advisory Board Sarah Carter – Community Member Kaye Cassidy – Shaman Elizabeth Catlin – Commissioner, Dummerston’s Housing Advisory Commission Stanley Charkey – Former Professor, Marlboro College Anne Charles – Co-Host, All Things LGBTQ Ella Chen – Community Member Tom Cheney – Former Staffer, Congressman Peter Welch and Chief of Staff, Vermont Speaker of the House Melissa Chesnut-Tangerman – Teacher, Long Trail School Fiona Chevalier – School Librarian Andre Clark – Volunteer Coordinator, Anew Place Karen Clark – President, The Horse Works Elayne Clift – Writer Dianne Clouet – Teacher David Coates – Former Managing Partner, KPMG Lorni Cochran – Therapist Dietrich Cole – Peer Leader, Howard Center Mary Collins – Community Member Matt Conklin – Community Member Gena Corea – Writer Priscilla Cotton – Interior Designer Lisa Cox – Teacher Catherine Crawley – Communication Director, Vermont Arts Council Hannah Cressy – Nurse-Midwife Knox Cummin – Community Member Julie Cunningham – Executive Director, Families First Judy Davidson – Community Member Jack Davidson – Lawyer Jenny Davis – Nurse Carol Davis – Community Member Jean Davis – Occupational Therapist Arthur Davis – Researcher, Rich Earth Institute Dottie Deans – Former Vermont Democratic Party Chair Greg Dennis – Writer and Climate Change Activist Susan Detato – Community Member Nancy Detra – Artist Chuck DeVries – Community Member Elena Dodd – Actress and Writer Aidan Doherty – Community Member Mike Donofrio – Attorney J.Lily Doyle – Community Member Abbey Duke – Owner, Sugarsnap Catering Tony Duncan – Clown David Eastman – Community Member Paul Eley – Community Member Gretchen Elias – Executive Director, Good Beginnings of Central Vermont Phyllis Erwin – Community Member Elizabeth Esmond – Communications Consultant Samirah Evans – Musician Erin Evarts – Executive Director, Lyric Theatre Company Barbara Farr – Community Member Abigail Faulkner – Community Member Carrie Fenn – Real Estate Broker/Agent, SunCommon Donna Fialkoff – Community Member Alex Fischer – Community Organizer Sadie Fischesser – Operations Director, Agency of Human Services, Department of Children and Familes, Economic Services Division Jane Fitzwilliam – Community Member Mike Fleming – Writer F X Flinn – Chair, ECFiber Michelle Force – Community Member Patricia Fowler – Owner, Village Square Booksellers Daniel Franklin – Vice President, Recovery Vermont and VAMHAR Robert Freeberg – Music Coach Kim Friedman – Community Member Laura Fulwiler – Community Member Laura Gans – Attorney Ruth Garbus – Musician Louise Garfield – Community Member Miciah Gault – Author Rich Geidel – Manager, Everyone’s Books Lauren Geiger – Community Member Betsy Gentile – Workforce Development, WSESU Barb Giardi – Community Member Noah Ginsberg – Director, Tigercomm Emily Girdwood – Teacher Molly Gleason – Owner, Bridge Road Sugarworks Charlie Gliserman – Community Member Karen Glitman – Senior Director, Center for Sustainable Energy Ann Golob – Community Member Bonnie Goodman – Community Member James Gordon – Musician Keith Goslant – Co-Host, All Things LGBTQ Molly Graves – Coach, NECCA Connie Green – Community Member Tom Green – Community Member Judy Greenberg – Psychologist Carolinne Griffin – Writer Catherine Gruver Dianich – Owner, Catherine Dianich Gallery Martine Gulick – School Commissioner, Burlington School Board Michael Gutterman – President, UVM Democrats Bud Haas – Community Member John Hagen – Former Chair, Windham County Democrats Gabe Halberg – Musician Solomon Hallal – Therapist Emma Hallowell – Teacher Erica Hare – CFO, Aspire Living and Learning Jessa Harger – Admissions Counselor, The Putney School Timm Harris – Senior Program Advisor, USAID Meg Harriman – Community Member Freddie Hart – Community Member Christine Hart – Development Director, Brattleboro Housing Partnerships Alana Harte – Equity Consultant George Harvey – Writer, Green Energy Times Maya Hasegawa – Community Member Monica Hastings – Sales Management, Cersosimo Lumber Co.
+John Hatton – Realtor Linda Hay – Community Member Jeffrey Haylon – Community Member Carolyn Heft – Attorney Marge Heggison – Academic Assistant, Dartmouth College Alexandra Heintz – Health Care Administrator, Southwestern VT Medical Center Richard Heller – Artist and Educator Connie Helms – Education Consultant Daniel Hernandez – Candidate for Congress (AZ-6) Artie Hetzel – Community Member Sarah Lauren Hibbert – Attorney Lon Hiebert – Community Member Jerry Himelstein – Former Assistant Professor, Northern Vermont University Linda Himelstein – Social Worker Nate Hine – Community Member Elijah Hines – Black Lives Matter Activist Hannah King – Community Member Rob Hinrichs – Realtor Mary Houghton – Deputy Director, Brattleboro Housing Authority Sheryl Hruska – Community Member Brian Hsiang – Founding Partner, CQ Strategies Jenna Hsiang – Nurse, UVM Medical Center Rebecca Huenink – Community Member Will Huenink – Community Member Beth Hughes – Community Member Bill Hunsinger – Head Brewer, Halyard Brewing Steve Ingram – Board Member, Habitat for Humanity of Addison County Hale Irwin – Community Member Shannon Jackson – Former Campaign Manager for Sen.
+Bernie Sanders and Our Revolution Executive Director Zachary Jandl – Account Executive, Carrot Fertility Karen Jernigan – Board Member, Renewable Energy Vermont Tracey John – General Manager, The Vermont Country Deli Kate John – Trustee of Public Funds, Town of Brattleboro Jim Johnson – Community Member Ingrid Jonas – Former Commander, Vermont State Police Zoe Kaslow – Non-Profit Leader & Expecting Mom Jeanne Keller – Project Manager Marisa Keller – Editor and Writer Paul Kendall – Former Executive Rhianna Kendrick – Director of Operations, Groundworks Collaborative Kate Kenner – Community Member Trinka Kerr – Former Chief Health Care Advocate of Vermont Jean Anne Kiewel – Lawyer Jen Kimmich – Founder and CEO, The Alchemist Brewery Jay King – Community Member Liza King – Owner, Neumann Studios Stained Glass Kate Kinney – Property Manager, Appletree Bay Property Management Daphne Kinney-Landis – Student, Clark University Vanessa Kittell – Lawyer Bram Kleppner – CEO, Danforth Pewter and Member, Vermont Climate Council Jane Knight – Children’s Room Manager, Bear Pond Books Felicia Kornbluh – Board Chair, Planned Parenthood VT Action Fund; UVM Professor Larry Krasner – Community Member Stephanie Lahar – Management Consultant Anne LaLonde – Lawyer Jody Landon – Board Member, City Market, Onion River Co-op Martin Langeveld – Board Member, New England Newspapers Beverly Langeveld – Community Member Lisa Lax – Clinical Social Worker Chloe Learey – Executive Director, Winston Prouty Center Kelli Lee-Allen – Community Member Linda Leehman – Volunteer Coordinator, Star Island Matthew LeFluer – Disability Rights Activist Ted Lemon – Interconnectivity Guru, Apple Chris Lenois – Former Program Host, WKVT Radio Lynn Levimr – Author Kate LeVine – Community Member Dorothy Levinson – Coordinator, Building Bright Futures Julie Levy – Activist Margaret Lewis – Community Member Jeffrey Lewis – Former Executive Director, Brattleboro Development Credit Corporation Danny Lichtenfeld – Director, Brattleboro Museum and Arts Center Naomi Lindenfeld – Artist and Ceramics Teacher, The Putney School Hope Lindsay – Retired Social Worker Julie Lineberger – Owner, LineSync Architecture Christine Linn – Director of Youth Development Programs, Youth Services Crea Lintilhac – Director, Lintilhac Foundation Karen Lipinczyk – Pastor David Lipton – Community Member Nonnie Locke – Community Member Kate Lucier – Attorney Chris Lumley – Furniture Maker Deborah Luskin – Writer Deborah Luquer – Community Member Auli Lyons – Early Childhood Educator Dan and Gail MacArthur – Community Member Robin MacArthur – Writer Dorothy MacDonald – Community Member Bruce Macduffie – Community Member Prudence MacKinney – COVID Screener, Brattleboro Memorial Hospital Carol Maloney – Agency of Human Services Frank Markey – Community Member Claire Markey – Community Member Alan Marolf – Community Member Emily Martyn – Midwife Ray Massucco – Lawyer Chip Mayer – Community Member Pam McCarthy – CEO and President, Vermont Family Network Kate McCarthy – Land Use Planning Advocate Lucy McClellan – Editor, Edanz Kelly McCracken – Social Worker Ellen McCulloch-Lovell – Former President, Marlboro College; Former Chief of Staff, Senator Leahy Lee Mcdavid – Community Member Stewart and Kris McDermet – Community Member Metta McGarvey – Teacher Seton Mcilroy – State Lead, Vermont Chapter of Moms Demamd Action for Gun Sense in America Bill McKibben – Founder, 350.org and Third Act Beth McKinney – Teacher, Dover Elementary School Elizabeth McLoughlin – Urban Planner Jesse Metzler – Music Teacher Jill Michaels – Community Member Howie Michaelson – Renewable Energy Entrepreneur Craig Miskovich – Attorney Abby Mnookin – Climate Activist Ashley Moore – Community Member Georgia Morgan – Artisan Sheila Morse – Community Member Jonathan Morse – Retired Builder Charlene Morse – Community Member Naomi Morse – Musician Melinda Moulton Tamara Mount – Head of School, Hilltop Montessori School Jim Murphy – Director of Environmental Advocacy Clinic, Vermont Law School Sylvester Murphy – Community Member Nicole Murtha – Community Member Paula Nadeau – Early Childhood Education Expert Dr.
+Etan Nasreddin-Longo – Co-Director of Fair and Impartial Policing and Community Affairs, Vermont State Police Beth Neher – Educational Consultant, LIUNA Training Michael Nethercott – Writer GennaRose Nethercott – Poet Ilana Newton – Nurse Jessica Nordhaus – Principal, Gear Shift Consulting + Co-founder, Genclusive Kate O’Connor – Former Executive Director, Brattleboro Area Chamber of Commerce Willow O’Feral – Documentary Filmmaker Tanya Ocker – Product Manager, Activated Insights Michelle Ollie – Co-Founder, The Center for Cartoon Studies Nancy Olson – Writer and Educator Margaret OToole – Community Member Pamela Page – Community Member Maryann Parrott – Community Member Caitlin Patterson – Nurse Anna Patton – Musician Janis Pereira – Community Member Lisa Pezzulich – Psychologist Robert Pezzulich MD – Surgeon Joanna Phillips – Culinary and Nutrition Expert, Patch of Sky Farm Hannah Phillips – Community Member Prema Picardi – Retail Clerk, Brattleboro Food Co-op Annamarie Pluhar – Founder, Sharing Housing Rebecca Plummer – Attorney, Vermont Legal Aid Hannah Porter – Medical Resident and Union Organizer, University of Vermont Medical Center Mary Powell – Former CEO, Green Mountain Power Monique Priestly – Chair, Bradford Dems Sherry Providence – Board Member, Broadbrook Community Center Vivian Prunier – President, American Association of University Women of VT Linda Quinlan – Co-Host, All Things LGBTQ+ Jenna Rae – Musician Will Raap – Founder, Gardener’s Supply; Founder, Intervale Center; CEO, Earthkeep Farmcommon Alain Ratheau – Founder and Lead Engineer, Integrated Solar Applications Corp.
+Tony Redington – Community Member Curtiss Reed – Executive Director, Vermont Partnership for Fairness and Diversity Paul Regan – Board of Trustees, The Scotland House John Reid – Self Employed Amanda Reid – Community Member J.
+Tyler Resch – Community Member Lois Reynolds – Community Member Susan Ritz – Board Member, Vermont Works for Women Camilla Roberts – Artist Deb Robinson – Controller, Vermont State Colleges Drusilla Roessle – Director of Performance Improvement, Agency of Human Services Paul Rogers – Community Member William Roper – Founder and President, Slow Communities Emily Rosenbaum – Community Member Alison Roth – Community Member Leslie Sachs Sullivan – Activist and Dancer Robert Sager – Community Member Ginny Sassaman – Co-Founder, Gross National Happiness USA Anna Saxman – Director of Training, Office of Defender General Brendan Scherer – Deputy State’s Attorney Carol Schnabel – Handweaver and Head Doula, BMH Matthew Scott – Community Member Suzanne Scott – Cofounder, Nutragenesis Jon Secrest – Attorney Kerry Secrest – Owner, Watershed Coaching Kati Sell-Knapp – Domestic Violence Victim Advocate Rebecca Seymour – Realtor Bari Shamas – Community Member Cyrus Shaoul – Cofounder and CEO, Leela AI Sean Sheehan – Senior Policy and Implementation Analyst, Department of Vermont Health Access Mary Shepard – Office Manager, The Chimney Doctor Patty Sheridan – Nurse Practitioner Dianne Shullenberger – Artist John Shullenberger – Attorney Beth Sightler – Executive Director, Champlain Community Services Amelia Silver – Lawyer David Silver – Partner, Barr Sternberg Moss; Director, VT Association of Criminal Defense Attorneys; Co-Founder, Bennington Meals on Wheels; Board of Directors, Shires Housing Pamela Simmons – Owner, Afterthought Photography Tom Singleton – President, The Final Image Kora Skeele – Account Executive, Sean Tracey Associates Jill Skochdopole – Healthcare Worker Em Sloan – Member Coordinator, North Branch Nature Center Connie Snow – Former Executive Director, Windham Housing Trust Izzy Snyder – Student, Oberlin College Matt Sorensen – Community Member Rebecca Speisman – Assistant Dean of Students, The Putney School Jill Spiro – Community Member Robert Spottswood – Counselor Devin J.
+Starlanyl – Doctor Sharon Steadman – Psychologist Shira Sternberg – Political Organizer and Artist Susan Still – Nonprofit Board Consultant, Bobolink Communications Chris Stone – Community Member Molly Stoner – NEA Representative on Pensions Task Force and Fourth Grade Teacher Christian Stromberg – Owner, Saxtons River Distillery Jennifer Struble – Executive Director, New England Center for Circus Arts Elizabeth Suiter – Doctor Linda Sukop – Japanese Language Teacher Joyce Sullivan – Psychologist Margaret Sullivan – Nurse Practitioner Susan Sussman – Former Executive Director, Vermont Human Rights Commission Jennifer Sutton – Writer Michael Szostak – Restorative Justice Coordinator, Brattleboro Union High School Diane Tayeby – Mental Health Counselor Burt Tepfer – Doctor Barbara Ternes – Former Director, Parks Place Bethany Thies – Cofounder, Everywhere Philosophy Ilene Todd – Director, Federation EIL Daniel Towle – Mental Health Professional Andrew Tripp – Union Organizer Peter Trombley – Community Member Karen Tyler – Associate General Counsel, UVM Health Network Betsy Ungvarsky – Community Member Jo-Anne Unruh – Special Education Advocate Jane Van Buren – Executive Director of Childcare Resources and Owner, Noonmark Services Kathryn Van Haste – Longtime Congressional Staffer Joyce Vining Morgan – Retired Educator Jim Vires – Progressive Activist Konstantin von Krusenstiern – Director of Patient Experience, Brattleboro Memorial Hospital Suzanne Wagner – EOC Counselor, Vermont Student Assistance Corporation John Wallace – Attorney Janet Wallstein – Trustee, Brattleboro Music Center Jeanne Walsh – Librarian, Brooks Memorial Library Susan Watson – Professor of Physics, Middlebury College Jeff Weaber – Founder/CEO, Aqua ViTea Sheldon Weeks – Writer Ethel Weinberger – Retired Teacher Topaz Weis – Expressive Arts Facilitator, REACE Gigi Weisman – Educator, MMUUSD Ariel Wengroff – Editor-in-Chief, Ledger Carolyn Wesley – Senate Chief of Staff Kate Whelley McCabe – CEO, Vermont Evaporator Company Kat Whitledge – Owner, Kat Whitledge Basics & Bespoke Diana Whitney – Columnist and Poet Lisa Whitney – Director of Campus Operations, Winston Prouty Center Mara Williams – Former Curator, Brattleboro Museum & Art Center Laura Wilson – Public Defender Claire Wilson – Owner, Green Mountain Spinnery Wendy Wilson – Vice President, Putney Food Co-Op Amanda Witman – Community Member Sarah Wolfe – Clean Energy Specialist Jenn Wood – Climate Justice Activist Connie Woodberry – President, Black Mountain Assisted Family Living Daniel Woodbury – Manager, Ocean State Job Lot Jennifer Wright – Community Member Barbara Wynroth – Community Member Abbie Corse – Co-Owner, The Corse Family Dairy and Vermont Climate Council Representative Chris Zappala – Community Member Ann Zimmerman – Community Member Donate to Becca's Campaign for Congress!
+Help power our grassroots campaign $10 $25 $50 $100 $250 OTHER Donate to Becca's Campaign for Congress!
+Help power our grassroots campaign $10 $25 $50 $100 $250 OTHER P.O.
+Box 291, Burlington, VT 05402 Phone: (802) 242-0619 Email: info@beccabalint.com Paid for by Becca Balint for Vermont Meet Becca Issues Endorsements Get Involved Vote Meet Becca Issues Endorsements Get Involved Vote Donate Follow the campaign Voter Guide Privacy Policy Paid for by Becca Balint for Vermont Meet Becca Issues Endorsements Get Involved Vote Donate Meet Becca Issues Endorsements Get Involved Vote Donate Follow the campaign Voter Guide Privacy Policy Built by BCom

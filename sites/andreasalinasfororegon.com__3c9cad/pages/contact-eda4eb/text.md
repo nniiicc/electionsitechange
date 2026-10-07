@@ -1,5 +1,3 @@
-Please send mail to: Andrea Salinas for Oregon PO Box 230985 Tigard, OR 97281
-Reach out to us on social media:
-Or use the form below to send a message:
-I'm counting on you to power our campaign with grassroots support!
-If you’ve saved your payment information with ActBlue Express, your donation to Andrea Salinas will go through immediately.
+| Home | About Andrea | EN ESPAÑOL | Donate Andrea Salinas for Congress - http://www.andreasalinasfororegon.com Home About Andrea Issues Volunteer Endorsements Contact EN ESPAÑOL Donate Contact Us Please send mail to: Andrea Salinas for Oregon PO Box 230985 Tigard, OR 97281 Reach out to us on social media: X/Twitter Facebook Instagram Or use the form below to send a message: Donate Now I'm counting on you to power our campaign with grassroots support!
+If you’ve saved your payment information with ActBlue Express, your donation to Andrea Salinas will go through immediately. $# $# $# $# $# OTHER Home About Andrea Issues Volunteer Endorsements Contact EN ESPAÑOL Donate X/Twitter Facebook Instagram Paid for and authorized by Andrea Salinas for Oregon.
+Contact: [email protected] | Media Contact: [email protected] PO Box 230985, Tigard, OR 97281 Contact Us | Media Resources | Privacy Policy Powered by Mandate Media .

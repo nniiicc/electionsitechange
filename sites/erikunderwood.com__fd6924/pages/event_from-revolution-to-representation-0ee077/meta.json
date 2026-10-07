@@ -1,7 +1,12 @@
 {
  "description": "Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernaturaut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo.",
  "final_url": "https://erikunderwood.com/event/from-revolution-to-representation/",
- "paid_for_by": "Paid for by Underwood for Colorado \u00a9 2026",
+ "fingerprint": "b6b394fb9a1a211c06dbce11753c8a4d48758f45",
+ "format": 3,
+ "paid_for_by": "Paid for by Underwood for Colorado © #",
  "title": "From revolution to representation - Erik Underwood",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2027"
+ ]
 }

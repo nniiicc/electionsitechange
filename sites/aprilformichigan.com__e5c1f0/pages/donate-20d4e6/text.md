@@ -1,19 +1,4 @@
-top of page
-Make a difference
-Change starts with people like you.
+top of page April Osentoski for Michigan State Senate 25th District Act Blue Donations Make a difference Change starts with people like you.
 Your donation helps make a real impact, one action at a time.
 Together, we can do more.
-Frequency
-One time
-Monthly
-Amount
-Advertising production expenses
-$50
-One Day of Advertising across multiple platforms
-$100
-Radio advertising, Billboard advertising
-$500
-Other
-0/100
-Comment (optional)
-bottom of page
+Frequency One time One time Monthly Monthly Amount $50 Advertising production expenses Advertising production expenses $50 $100 One Day of Advertising across multiple platforms One Day of Advertising across multiple platforms $100 $500 Radio advertising, Billboard advertising Radio advertising, Billboard advertising $500 Other Other 0/100 Comment (optional) Donate $50 Facebook X (Twitter) WhatsApp Copy link VIEW ALL VIEW ALL April Osentoski for State Senate 25th District politicsapril@gmail.com Paid for by Committee to Elect April Osentoski © # by April Osentoski for State Senate 25th District. and PinkPegasus bottom of page

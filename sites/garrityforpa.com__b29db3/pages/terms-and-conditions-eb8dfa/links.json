@@ -1,15 +1,74 @@
 [
-"https://facebook.com/GarrityForPA",
-"https://garrityforpa.com/",
-"https://garrityforpa.com/datacenter",
-"https://garrityforpa.com/events",
-"https://garrityforpa.com/join-the-fight",
-"https://garrityforpa.com/privacy-policy",
-"https://garrityforpa.com/terms-and-conditions",
-"https://garrityforpa.com/turnaroundpa",
-"https://garrityforpa.com/turnaroundpa_team",
-"https://givecrypto.garrityforpa.com/",
-"https://instagram.com/stacyforpa?hl=en",
-"https://secure.winred.com/garrity-for-pa/donate-now?exitintent=true",
-"https://x.com/GarrityForPA"
+{
+"text": "Data Centers",
+"href": "https://garrityforpa.com/datacenter/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/garrity-for-pa/donate-now?exitintent=true"
+},
+{
+"text": "Donate With Crypto",
+"href": "https://givecrypto.garrityforpa.com/"
+},
+{
+"text": "Events",
+"href": "https://garrityforpa.com/events/"
+},
+{
+"text": "Home",
+"href": "https://garrityforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stacyforpa/?hl=en"
+},
+{
+"text": "Issues",
+"href": "https://garrityforpa.com/turnaroundpa/"
+},
+{
+"text": "Join The Team",
+"href": "https://garrityforpa.com/join-the-fight/"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.winred.com/garrity-for-pa/donate-now?exitintent=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://garrityforpa.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://garrityforpa.com/terms-and-conditions/"
+},
+{
+"text": "Turnaround PA Team",
+"href": "https://garrityforpa.com/turnaroundpa_team/"
+},
+{
+"text": "Volunteer",
+"href": "https://garrityforpa.com/join-the-fight/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/GarrityForPA"
+},
+{
+"text": "[image: Stacy Garrity for Governor]",
+"href": "https://garrityforpa.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GarrityForPA"
+},
+{
+"text": "https://garrityforpa.com/privacy-policy",
+"href": "https://garrityforpa.com/privacy-policy"
+},
+{
+"text": "info@garrityforpa.com",
+"href": "mailto:info@garrityforpa.com"
+}
 ]

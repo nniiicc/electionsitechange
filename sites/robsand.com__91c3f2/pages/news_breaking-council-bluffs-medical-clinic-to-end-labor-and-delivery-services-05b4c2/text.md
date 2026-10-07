@@ -1,5 +1,4 @@
-BREAKING: Council Bluffs Medical Clinic to End Labor and Delivery Services
-COUNCIL BLUFFS, IA – New reporting from The Daily Nonpareil reveals that CHI Health Mercy Council Bluffs will end its labor and delivery services beginning August 31 of this year.
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Return to all news BREAKING: Council Bluffs Medical Clinic to End Labor and Delivery Services For Immediate Release Contact: press@robsand.com Rob Sand for Iowa 7/9/2026 BREAKING: Council Bluffs Medical Clinic to End Labor and Delivery Services COUNCIL BLUFFS, IA – New reporting from The Daily Nonpareil reveals that CHI Health Mercy Council Bluffs will end its labor and delivery services beginning August 31 of this year.
 As the Nonpareil reports, these services will be transferred over the border in Nebraska to CHI Health birth centers in Omaha.
 Earlier this year, this facility was included on a list of rural hospitals under threat due to the Medicaid budget cuts passed at the federal level, which put rural hospitals in danger and kicked 110,000 Iowans off of their health care.
 Council Bluffs residents will now have to travel to Omaha to give birth, or travel to Shelby, Cass, or Page counties if they want to stay in Iowa.
@@ -7,9 +6,9 @@ Council Bluffs residents will now have to travel to Omaha to give birth, or trav
 “As an Iowan, I always want to beat Nebraska, but now we’re forcing our residents into Nebraska to have kids.
 While my opponent has supported plans that result in massive cuts to health care to pay for tax cuts for the wealthy, I want to protect our rural hospitals and keep young doctors and nurses in Iowa communities.
 The difference is clear, and this year, we have the opportunity to change the direction of our state.
-We can’t afford not to.”
-This is the latest blow for health care access, specifically related to labor and delivery services across the state.
+We can’t afford not to.” This is the latest blow for health care access, specifically related to labor and delivery services across the state.
 In 2024, MercyOne Newton paused all labor and delivery services, citing workforce shortages.
-Iowa ranks 44th for physicians per capita, and last for OB-GYNs.
+Iowa ranks 44th for physicians per capita, and last for OB-GYNs .
 Iowa also has one of the most extreme abortion bans in the country at just 6-weeks, contributing to Iowa’s workforce shortage, pushing health care professionals over state borders for better opportunities and without fear of providing care.
-###
+### ### Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

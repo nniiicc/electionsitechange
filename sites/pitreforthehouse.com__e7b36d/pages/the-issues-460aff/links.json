@@ -1,12 +1,54 @@
 [
-"https://instagram.com/rebeccaforthehouse",
-"https://pitreforthehouse.com/",
-"https://pitreforthehouse.com/about-rebecca",
-"https://pitreforthehouse.com/donate",
-"https://pitreforthehouse.com/the-issues",
-"https://pitreforthehouse.com/the-issues?share=facebook",
-"https://pitreforthehouse.com/the-issues?share=pinterest",
-"https://pitreforthehouse.com/the-issues?share=twitter",
-"https://twitter.com/CommonSenseVT",
-"https://wordpress.com/"
+{
+"text": "About Rebecca",
+"href": "https://pitreforthehouse.com/about-rebecca/"
+},
+{
+"text": "Donate",
+"href": "https://pitreforthehouse.com/donate/"
+},
+{
+"text": "Email a link to a friend (Opens in new window) Email",
+"href": "mailto:?subject=%5BShared+Post%5D+The+Issues&body=https%3A%2F%2Fpitreforthehouse.com%2Fthe-issues%2F&share=email"
+},
+{
+"text": "Home",
+"href": "https://pitreforthehouse.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rebeccaforthehouse/"
+},
+{
+"text": "Powered by WordPress.com",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Rebecca Pitre Republican for Lamoille County District 3 Representative",
+"href": "https://pitreforthehouse.com/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://pitreforthehouse.com/the-issues/?share=facebook"
+},
+{
+"text": "Share on Pinterest (Opens in new window) Pinterest",
+"href": "https://pitreforthehouse.com/the-issues/?share=pinterest"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://pitreforthehouse.com/the-issues/?share=twitter"
+},
+{
+"text": "The Issues",
+"href": "https://pitreforthehouse.com/the-issues/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CommonSenseVT"
+},
+{
+"text": "← Back",
+"href": "https://pitreforthehouse.com/the-issues/"
+}
 ]

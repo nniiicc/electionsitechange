@@ -1,21 +1,86 @@
 [
-"https://dannynadeau.com/",
-"https://dannynadeau.com/about",
-"https://dannynadeau.com/articles",
-"https://dannynadeau.com/contact",
-"https://dannynadeau.com/donate",
-"https://dannynadeau.com/endorsements",
-"https://dannynadeau.com/events",
-"https://dannynadeau.com/events/champlin-ice-forum",
-"https://dannynadeau.com/issues",
-"https://dannynadeau.com/photos",
-"https://dannynadeau.com/privacy-policy",
-"https://dannynadeau.com/suburbs-survey",
-"https://dannynadeau.com/voting",
-"https://dannynadeau.us14.list-manage.com/track/click?u=cb9e9779480dabe184a08db65&id=84d55cce07&e=2f94a35948",
-"https://facebook.com/dannyforhouse",
-"https://facebook.com/events/3810140325881914?acontext=%7B%22event_action_history%22%3A%5B%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22events_section_for_community_additional_profile%22%2C%22surface%22%3A%22community_additional_profile%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D&onload_action=open_invite_flow&show_created_event_toast=true",
-"https://instagram.com/danny_nadeau",
-"https://x.com/NadeauDanny",
-"https://youtube.com/@dannynadeau3162"
+{
+"text": "About",
+"href": "https://dannynadeau.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://dannynadeau.com/articles/"
+},
+{
+"text": "Come walk with me!?",
+"href": "https://www.facebook.com/events/3810140325881914/?acontext=%7B%22event_action_history%22%3A%5B%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22events_section_for_community_additional_profile%22%2C%22surface%22%3A%22community_additional_profile%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D&onload_action=open_invite_flow&show_created_event_toast=true"
+},
+{
+"text": "Contact",
+"href": "https://dannynadeau.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://dannynadeau.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://dannynadeau.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dannynadeau.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/dannyforhouse"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/danny_nadeau/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@dannynadeau3162"
+},
+{
+"text": "Follow",
+"href": "https://x.com/NadeauDanny"
+},
+{
+"text": "Home",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "Issues",
+"href": "https://dannynadeau.com/issues/"
+},
+{
+"text": "Northridge Fellowship Church",
+"href": "https://dannynadeau.us14.list-manage.com/track/click?u=cb9e9779480dabe184a08db65&id=84d55cce07&e=2f94a35948"
+},
+{
+"text": "Photos",
+"href": "https://dannynadeau.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dannynadeau.com/privacy-policy/"
+},
+{
+"text": "Suburbs Survey",
+"href": "https://dannynadeau.com/suburbs-survey/"
+},
+{
+"text": "Voting",
+"href": "https://dannynadeau.com/voting/"
+},
+{
+"text": "[image: Danny Nadeau]",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "[image: Town Hall - April, 19th, 2025 - Danny Nadeau]",
+"href": "https://dannynadeau.com/events/champlin-ice-forum/"
+},
+{
+"text": "link",
+"href": "https://www.facebook.com/events/3810140325881914/?acontext=%7B%22event_action_history%22%3A%5B%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22events_section_for_community_additional_profile%22%2C%22surface%22%3A%22community_additional_profile%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D&onload_action=open_invite_flow&show_created_event_toast=true"
+}
 ]

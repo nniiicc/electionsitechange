@@ -1,6 +1,5 @@
-Rep.
-Thompson Passes Critical Legislation to Help Support Veterans and their Families
-September 1st of this month, hundreds of new laws passed by the Legislature this year went into effect.
+Skip to content Menu Home About News Donate Contact Rep.
+Thompson Passes Critical Legislation to Help Support Veterans and their Families By pwsadmin | December 7, 2018 September 1st of this month, hundreds of new laws passed by the Legislature this year went into effect.
 I am proud of all the work that I did this past session from helping victims of sexual assault and trafficking to the elderly.
 However, I am especially proud of the work I did on House Bill 3404 which requires the Health and Human Services Commission to conduct a study on providing comprehensive trauma and PTSD assessment, and targeted treatment for veterans AND their families.
 In working on this issue it was a surprise to me to find out that Houston and the surrounding area is the largest catchment area for active-duty military and returning Veterans in the U.S.
@@ -12,8 +11,7 @@ Providing these individuals with integrated care to ensure a comprehensive conti
 It is my hope that through this study we will be able to find out what type of treatment, care and services a particular Veteran may need and get them that much needed help directly.
 I do not believe that a singular model properly addresses the needs of all our Veterans because those needs will undoubtedly be distinct and require a targeted assessment.
 We need to be able to pinpoint effective treatment and evaluate the benefits and results of those treatments for our Veterans, but most importantly for their families as well.
-In addition to my own work, a number of other bills were passed by the House this session that may of interest: (http://joestraus.org/2015/09/newsletter-supporting-our-veterans/)
-Providing preventative and mental health services.
+In addition to my own work, a number of other bills were passed by the House this session that may of interest: ( http://joestraus.org/2015/09/newsletter-supporting-our-veterans/ ) Providing preventative and mental health services.
 House Bill 19 established a preventive services pilot program to serve Veterans and military families.
 In addition, Senate Bill 55 creates a grant program to support community mental health services for Veterans and their families.
 Establishing a Texas Women Veterans Program.
@@ -31,8 +29,19 @@ Funding can also be used proactively to support installations in the event of a 
 I promise to remain committed to supporting our Veterans.
 To those who have served this nation bravely and to those who are still serving today, I thank you.
 Your contribution to our state and this nation will not be forgotten and are deeply appreciated.
-Reference:
-Texas Legislature Online
-UTHealth
-Photo:
-State Representative Senfronia Thompson with World War II Veteran Richard Overton.
+Reference: Texas Legislature Online UTHealth Photo: State Representative Senfronia Thompson with World War II Veteran Richard Overton.
+Posted in Uncategorized Recent Posts Breast Cancer Awareness Texas House Passes Transformational School Finance Legislation House Bill 3 Rep.
+Thompson Passes Critical Legislation to Help Support Veterans and their Families Recent Comments Archives November 2019 April 2019 December 2018 Categories Uncategorized Meta Log in Entries feed Comments feed WordPress.org Site Links Home About News Donate Volunteer Contact Get In Touch!
+512-463-0720 (Austin) 713-633-3390 (Houston) 713-633-7830 District Office 10527 Homestead Houston, TX 77016 Capitol Office Room 3S.6 P.O.
+Box 2910 Austin, TX 78768 Subscribe!
+Sign up for our newsletter!
+Please enter your name.
+Please enter a valid email address.
+Subscribe!
+Thanks for subscribing!
+Please check your email for further instructions.
+Something went wrong.
+Please check your entries and try again.
+Political ad paid for by the Senfronia Thompson Campaign; Jarvis Thompson, Treasurer © #, State Representative Senfronia Thompson.
+All Rights Reserved.
+Scroll To Top

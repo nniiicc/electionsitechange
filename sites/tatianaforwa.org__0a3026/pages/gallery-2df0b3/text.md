@@ -1,33 +1,18 @@
-ENDORSEMENTS
-We are building a community-movement that recognizes the deep, organizing legacy of the 37th.
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved ENDORSEMENTS We are building a community-movement that recognizes the deep, organizing legacy of the 37th.
 One that has elected bold, progressive visionaries - who are trained, tested, and dedicated to public service - into the Washington State Senate.
 Tatiana is honored to receive the endorsements of a wide array of community leaders, public servants, and organizations.
 Together, we will Build Different.
-- Transit Riders Union Community Organization
-- The Washington Bus Community Organization
-- Tech 4 Taxes Community Organization
-- Rep.
-Velma Veloria Former WA State Representative, LD11
-- Mayor Steve Woodard Mountlake Terrace, WA
-- Maria Batayola Community Leader “Unofficial Mayor of Beacon Hill”
-- Emma Catague Community Leader
-- Maria Abando Community Organizer
-- Paulina Lopez Duwamish Valley Community Member Environmental Justice Advocate
-- Sibongile Chadyiwa Community Leader
-- Sili Savusa Community Leader
-- Lua Pritchard Community Leader
-- Cherie Montanez Community Leader
-- Eric Opoku Agyemang Community Leader
-- Cindy Domingo Community Leader
-- Nancy Huizar Community Leader
-- Whole Washington Campaign for Universal Healthcare in WA [Read Tatiana’s Statement]
-- Seattle Gay News Local News Outlet
-- Sage Leaders Community Organization
-- Denis Maronga Community Leader, Founder of Kicheko Project
-- William Paige Jr.
-Mountlake Terrace City Councilmember
-- Victor Rodriguez Community Leader
-- Mohamed Abdi Former Tukwila City Councilmember
-- Asuka Conyer Community Leader
-- Bailey Medilo Community Leader
-- Keith Tucker Community Leader
+"She’s running to bring the power of the seat down to the district and be accessible and engaged year-round, not just during the legislative session." — Converge Media "Tatiana Brown is building her campaign around a platform of well-being, education, environment, and economy, drawing on her background in economic policy research and environmental justice work, including her current role as co-chair of the state's Environmental Justice Council." - Hacks and Wonks "Brown ultimately earned our endorsement because of her depth of policy expertise.
+What stood out was her belief that policy should be created with and by the people most affected by it." — Through the Static, Endorsement "This is Tatiana Brown’s first campaign election, but her background is impressive.
+She graduated with a dual Masters in Public Health and Public Administration, and she served as the youngest representative of Governor Inslee’s Environmental Justice Council." - The Urbanist "Young and bright, Brown offers representation for the 37th District that we believe would not be influenced by the demands of tech companies and corporations but rather everyday people’s needs. " - Seattle Gay News, Endorsement "Let’s not settle for what is familiar—let’s dare to choose better.
+Vote Brown." -The Washington Bus , endorsement "We have nothing to lose and everything to gain from electing Tatiana." -Bailey Medilo, Community Leader, Endorsed.
+"She is a true servant leader who leads with integrity, compassion, and a deep commitment to her community." -Mohamed Abdi, Community Leader, endorsed "I really believe in the leadership of this young woman.
+Her proposals to our main problems are based on progressive politics, innovation and collaboration." -Ricardo Ortega, Community Leader, endorsed "Tatiana Brown is a champion for youth voice, educational justice, and community-centered leadership." -Asuka Conyer, Community Leader, Endorsed.
+"Tatiana stands out because she listens first, builds relationships, and brings people together to solve problems." -Denis Maronga, Community Leader, Endorsed "Beyond her accomplishments, Tatiana leads with character, uplifts others, works hard & inspires through her actions.
+I have no doubt that she will thrive in Olympia and make meaningful contributions that will have a lasting impact on the 37th." -Sibongile Chadyiwa, Community Leader, Endorsed "Washington’s 37th Legislative District deserves a leader with vision and integrity.
+That’s why I support Tatiana Brown and her longstanding commitment to environmental justice.
+For communities with community!" -Paulina Lopez, Community Leader, Endorsed "Tatiana embodies the kind of leadership our communities deserve: bold, compassionate, and people-centered!
+As a young leader, she brings a clear vision, strong conviction and the courage to pursue transformative and meaningful changes." -Sili Savusa, Community Leader, Endorsed "Her passion and commitment to our community shows me that she is ready for the role." -Emma Catague, Community Leader, Endorsed "Her background and vision align perfectly to make her a public servant who can champion local issues and complement statewide change." -Mayor Steve Woodard, Mountlake Terrace, Endorsed "Tatiana is running to build a government that works for people, not corporations.
+Her campaign is rooted in the belief that communities should have real power in the decisions that shape their lives." -Sage Leaders, Endorsed Transit Riders Union Community Organization The Washington Bus Community Organization Tech 4 Taxes Community Organization Rep.
+Velma Veloria Former WA State Representative, LD11 Keith Tucker Community Leader Mayor Steve Woodard Mountlake Terrace, WA Maria Batayola Community Leader “Unofficial Mayor of Beacon Hill” Maria Abando Community Organizer Emma Catague Community Leader Paulina Lopez Duwamish Valley Community Member Environmental Justice Advocate Eric Opoku Agyemang Community Leader Lua Pritchard Community Leader Sibongile Chadyiwa Community Leader Sili Savusa Community Leader Cherie Montanez Community Leader Cindy Domingo Community Leader Nancy Huizar Community Leader Whole Washington Campaign for Universal Healthcare in WA [Read Tatiana’s Statement] Seattle Gay News Local News Outlet Sage Leaders Community Organization Denis Maronga Community Leader, Founder of Kicheko Project William Paige Jr.
+Mountlake Terrace City Councilmember Victor Rodriguez Community Leader Mohamed Abdi Former Tukwila City Councilmember Asuka Conyer Community Leader Bailey Medilo Community Leader Brian Myers Community Leader National Women’s Political Caucus Community Organization Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

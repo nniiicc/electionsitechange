@@ -1,7 +1,12 @@
 {
  "description": "Join Jackson for Florida today! Explore our campaign efforts and support local leadership. Visit jacksonforflorida.com to get involved and make an impact.",
  "final_url": "https://jacksonforflorida.com/",
- "paid_for_by": null,
+ "fingerprint": "43dd229562a9b87c96dc238c97d2103c936f3168",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Jackson for Florida | Political Campaign & Leadership",
- "years_mentioned": []
+ "years_mentioned": [
+  "1995",
+  "2026"
+ ]
 }

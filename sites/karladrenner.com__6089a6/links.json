@@ -1,10 +1,38 @@
 [
-"https://elections.sos.ga.gov/Elections/advancedVotingInfo.do",
-"https://legis.ga.gov/members/house/95?session=1029",
-"https://legis.ga.gov/members/house/95?session=24",
-"https://legis.ga.gov/members/house/95?session=25",
-"https://legis.ga.gov/members/house/95?session=27",
-"https://mvp.sos.ga.gov/s",
-"https://paypal.com/ncp/payment/LU22MHH6MQHA2",
-"https://theecoecogroup.com/"
+{
+"text": "2015 – 2016",
+"href": "https://www.legis.ga.gov/members/house/95?session=24"
+},
+{
+"text": "2017 – 2018",
+"href": "https://www.legis.ga.gov/members/house/95?session=25"
+},
+{
+"text": "2019 – 2020",
+"href": "https://www.legis.ga.gov/members/house/95?session=27"
+},
+{
+"text": "2021 – 2022",
+"href": "https://www.legis.ga.gov/members/house/95?session=1029"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Find Your Early Voting Polling Place",
+"href": "https://elections.sos.ga.gov/Elections/advancedVotingInfo.do"
+},
+{
+"text": "My Voter Page >>",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Please Click Here to Make a Contribution to Karla's Campaign",
+"href": "https://www.paypal.com/ncp/payment/LU22MHH6MQHA2"
+},
+{
+"text": "The EcoEco Group",
+"href": "https://theecoecogroup.com"
+}
 ]

@@ -1,23 +1,162 @@
 [
-"https://deploymalloy.com/",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/product-category/help-deploy-malloy",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/1",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/2?add-to-cart=1935",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/2?add-to-cart=3374",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/2?add-to-cart=4022",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/2?add-to-cart=4024",
-"https://deploymalloy.com/product-category/help-deploy-malloy/page/3",
-"https://deploymalloy.com/product-category/the-mission",
-"https://deploymalloy.com/product/deploy-malloy-dad-hat",
-"https://deploymalloy.com/product/deploy-malloy-unisex-hoodie",
-"https://deploymalloy.com/product/deploy-malloy-unisex-t-shirt",
-"https://deploymalloy.com/product/embroidered-structured-twill-cap",
-"https://deploymalloy.com/product/flip-straw-water-bottle",
-"https://deploymalloy.com/product/mug-with-black-inside",
-"https://deploymalloy.com/product/playing-cards",
-"https://deploymalloy.com/product/rocks-glass-2",
-"https://deploymalloy.com/product/womens-relaxed-t-shirt",
-"https://deploymalloy.com/product/yard-sign-3",
-"https://facebook.com/geraldmalloyvt"
+{
+"text": "1",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/1/"
+},
+{
+"text": "3",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/3/"
+},
+{
+"text": "Deploy Malloy Dad hat",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-dad-hat/"
+},
+{
+"text": "Deploy Malloy Unisex Hoodie",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-unisex-hoodie/"
+},
+{
+"text": "Deploy Malloy Unisex t-shirt",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-unisex-t-shirt/"
+},
+{
+"text": "Embroidered Structured Twill Cap",
+"href": "https://www.deploymalloy.com/product/embroidered-structured-twill-cap/"
+},
+{
+"text": "Flip straw water bottle",
+"href": "https://www.deploymalloy.com/product/flip-straw-water-bottle/"
+},
+{
+"text": "Help Deploy Malloy!",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/"
+},
+{
+"text": "Home",
+"href": "https://www.deploymalloy.com/"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Mug with Black Inside",
+"href": "https://www.deploymalloy.com/product/mug-with-black-inside/"
+},
+{
+"text": "Playing cards",
+"href": "https://www.deploymalloy.com/product/playing-cards/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Rocks glass",
+"href": "https://www.deploymalloy.com/product/rocks-glass-2/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-unisex-hoodie/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-unisex-t-shirt/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/embroidered-structured-twill-cap/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/mug-with-black-inside/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/womens-relaxed-t-shirt/"
+},
+{
+"text": "Select options",
+"href": "https://www.deploymalloy.com/product/yard-sign-3/"
+},
+{
+"text": "The mission",
+"href": "https://www.deploymalloy.com/product-category/the-mission/"
+},
+{
+"text": "Women’s Relaxed T-Shirt",
+"href": "https://www.deploymalloy.com/product/womens-relaxed-t-shirt/"
+},
+{
+"text": "Yard sign",
+"href": "https://www.deploymalloy.com/product/yard-sign-3/"
+},
+{
+"text": "[image]",
+"href": "https://www.deploymalloy.com/product/playing-cards/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-dad-hat/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-unisex-hoodie/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/deploy-malloy-unisex-t-shirt/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/embroidered-structured-twill-cap/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/flip-straw-water-bottle/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/mug-with-black-inside/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/rocks-glass-2/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/womens-relaxed-t-shirt/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.deploymalloy.com/product/yard-sign-3/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/2/?add-to-cart=1935"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/2/?add-to-cart=3374"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/2/?add-to-cart=4022"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/2/?add-to-cart=4024"
+},
+{
+"text": "[no text]",
+"href": "https://www.deploymalloy.com/product-category/help-deploy-malloy/page/3/"
+}
 ]

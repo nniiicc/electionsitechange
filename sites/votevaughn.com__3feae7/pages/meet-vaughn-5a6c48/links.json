@@ -1,8 +1,34 @@
 [
-"https://facebook.com/DelegateStewart",
-"https://instagram.com/delegatestewart",
-"https://secure.actblue.com/donate/friends-of-vaughn-stewart-1",
-"https://votevaughn.com/",
-"https://votevaughn.com/meet-vaughn",
-"https://votevaughn.com/priorities"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-vaughn-stewart-1"
+},
+{
+"text": "Home",
+"href": "https://www.votevaughn.com"
+},
+{
+"text": "Meet Vaughn",
+"href": "https://www.votevaughn.com/meet-vaughn"
+},
+{
+"text": "Priorities",
+"href": "https://www.votevaughn.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DelegateStewart"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/delegatestewart/"
+},
+{
+"text": "[image: vaughn stewart logo]",
+"href": "https://www.votevaughn.com"
+},
+{
+"text": "vaughnstewart@riceconsultingllc.com",
+"href": "mailto:vaughnstewart@riceconsultingllc.com"
+}
 ]

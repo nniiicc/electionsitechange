@@ -1,22 +1,98 @@
 [
-"https://facebook.com/GinaMittenForMissouri",
-"https://forms.gle/CssvmcMxTkDUHjz5A",
-"https://ginamitten.com/",
-"https://ginamitten.com/cart",
-"https://ginamitten.com/contact-us",
-"https://ginamitten.com/endorsements",
-"https://ginamitten.com/meet-gina",
-"https://ginamitten.com/priorities",
-"https://ginamitten.com/privacy-policy",
-"https://ginamitten.com/truth",
-"https://instagram.com/mitten4mo",
-"https://secure.actblue.com/donate/mitten4missouri-website",
-"https://secure.actblue.com/donate/mitten4missouri-website?amount=10",
-"https://secure.actblue.com/donate/mitten4missouri-website?amount=100",
-"https://secure.actblue.com/donate/mitten4missouri-website?amount=25",
-"https://secure.actblue.com/donate/mitten4missouri-website?amount=250",
-"https://secure.actblue.com/donate/mitten4missouri-website?amount=50",
-"https://stlouis-mo.gov/government/departments/board-election-commissioners/voter/polling-places/index.cfm",
-"https://stlouiscovotes.maps.arcgis.com/apps/instant/nearby/index.html?appid=9ab46d7bf48741199a1118347216af09&sliderDistance=5",
-"https://youtube.com/@Mitten4Missouri"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.ginamitten.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.ginamitten.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website"
+},
+{
+"text": "DONATE→",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ginamitten.com/endorsements"
+},
+{
+"text": "Exposing the lies",
+"href": "https://www.ginamitten.com/truth"
+},
+{
+"text": "Look up your polling place - STL City",
+"href": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/voter/polling-places/index.cfm"
+},
+{
+"text": "Look up your polling place - STL County",
+"href": "https://stlouiscovotes.maps.arcgis.com/apps/instant/nearby/index.html?appid=9ab46d7bf48741199a1118347216af09&sliderDistance=5"
+},
+{
+"text": "Meet Gina",
+"href": "https://www.ginamitten.com/meet-gina"
+},
+{
+"text": "More about Gina",
+"href": "https://www.ginamitten.com/meet-gina"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website"
+},
+{
+"text": "Priorities",
+"href": "https://www.ginamitten.com/priorities"
+},
+{
+"text": "VOLUNTEER→",
+"href": "https://forms.gle/CssvmcMxTkDUHjz5A"
+},
+{
+"text": "[image: Gina Mitten for State Senate]",
+"href": "https://www.ginamitten.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GinaMittenForMissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mitten4mo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Mitten4Missouri"
+},
+{
+"text": "here",
+"href": "https://www.ginamitten.com/privacy-policy"
+},
+{
+"text": "volunteer",
+"href": "https://forms.gle/CssvmcMxTkDUHjz5A"
+}
 ]

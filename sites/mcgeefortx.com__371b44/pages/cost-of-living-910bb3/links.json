@@ -1,16 +1,70 @@
 [
-"http://twitter.com/SaraForTexLege",
-"https://bsky.app/profile/sarafortexas.bsky.social",
-"https://completecomputing.com/",
-"https://facebook.com/people/Sara-McGee-for-Texas-House-District-132/61568283133325",
-"https://mcgeefortx.com/",
-"https://mcgeefortx.com/about-sara",
-"https://mcgeefortx.com/cannabis-2",
-"https://mcgeefortx.com/cost-of-living",
-"https://mcgeefortx.com/finance-reform",
-"https://mcgeefortx.com/healthcare",
-"https://mcgeefortx.com/property-tax",
-"https://mcgeefortx.com/public-education",
-"https://mcgeefortx.com/why-running",
-"https://store.mcgeefortx.com/"
+{
+"text": "About Sara",
+"href": "https://mcgeefortx.com/about-sara/"
+},
+{
+"text": "Campaign Finance Reform",
+"href": "https://mcgeefortx.com/finance-reform/"
+},
+{
+"text": "Complete Computing Services",
+"href": "https://completecomputing.com/"
+},
+{
+"text": "Cost of Living",
+"href": "https://mcgeefortx.com/cost-of-living/"
+},
+{
+"text": "Follow",
+"href": "http://twitter.com/SaraForTexLege/"
+},
+{
+"text": "Follow",
+"href": "https://bsky.app/profile/sarafortexas.bsky.social"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/people/Sara-McGee-for-Texas-House-District-132/61568283133325/"
+},
+{
+"text": "Healthcare",
+"href": "https://mcgeefortx.com/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://mcgeefortx.com/"
+},
+{
+"text": "Legalize Cannabis",
+"href": "https://mcgeefortx.com/cannabis-2/"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://mcgeefortx.com/property-tax/"
+},
+{
+"text": "Public Education",
+"href": "https://mcgeefortx.com/public-education/"
+},
+{
+"text": "Store",
+"href": "https://store.mcgeefortx.com/"
+},
+{
+"text": "Why am I running",
+"href": "https://mcgeefortx.com/why-running/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/sarafortexas.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/people/Sara-McGee-for-Texas-House-District-132/61568283133325/"
+},
+{
+"text": "[tooltip: X]",
+"href": "http://twitter.com/SaraForTexLege/"
+}
 ]

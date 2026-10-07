@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/voteluisfl.bsky.social",
-"https://facebook.com/",
-"https://facebook.com/share/17GcwGoRdA?mibextid=wwXIfr",
-"https://form.jotform.com/253215623071145",
-"https://instagram.com/",
-"https://instagram.com/voteluisforfl",
-"https://secure.actblue.com/donate/salazar64",
-"https://voteluis.com/",
-"https://voteluis.com/about",
-"https://voteluis.com/endorsement-form",
-"https://voteluis.com/endorsements",
-"https://voteluis.com/luis-policies",
-"https://voteluis.com/upcoming-events",
-"https://voteluisfl.bsky.social/"
+{
+"text": "About",
+"href": "https://www.voteluis.com/about/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/voteluisfl.bsky.social"
+},
+{
+"text": "Bluesky",
+"href": "https://voteluisfl.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/salazar64"
+},
+{
+"text": "ENDORSE LUIS SALAZAR",
+"href": "https://www.voteluis.com/endorsement-form/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteluis.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.voteluis.com/upcoming-events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/17GcwGoRdA/?mibextid=wwXIfr"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteluisforfl"
+},
+{
+"text": "Learn More",
+"href": "https://form.jotform.com/253215623071145"
+},
+{
+"text": "Luis Salazar for Florida State House Representative",
+"href": "https://www.voteluis.com"
+},
+{
+"text": "Policy",
+"href": "https://www.voteluis.com/luis-policies/"
+},
+{
+"text": "Volunteer",
+"href": "https://form.jotform.com/253215623071145"
+},
+{
+"text": "[image: Luis Salazar for Florida State House Representative]",
+"href": "https://www.voteluis.com/"
+}
 ]

@@ -1,11 +1,8 @@
-With an extensive background in national security serving at some of the highest levels in our government, I’ve focused my career on solving problems and advancing policy priorities.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE Where I stand Priorities With an extensive background in national security serving at some of the highest levels in our government, I’ve focused my career on solving problems and advancing policy priorities.
 I’ve sat in the Situation Room as tough decisions were made.
 I’ve brokered bipartisan legislation, briefed presidents and cabinet members, and confronted adversaries like China, Russia, and Iran.
 Bottom line: I get things done — and I’ll bring that same focus to Nebraska’s First District.
-Experience to lead.
+Priorities Making Healthcare Affordable & Accessible Priorities Smart, Fair Immigration and a Secure Border Priorities Restoring American Leadership & National Security Priorities Supporting Agriculture & Rural Communities Priorities Lowering Costs & Restoring the Middle Class Priorities Ending Washington Dysfunction Priorities Reining In Our National Debt Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
-Lower costs
-★
-Stop the chaos
-★
-End corruption
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

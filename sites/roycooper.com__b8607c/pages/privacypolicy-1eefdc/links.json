@@ -1,42 +1,182 @@
 [
-"http://aboutads.info/choices",
-"http://google.com/policies/privacy/partners",
-"http://networkadvertising.org/choices",
-"http://networkadvertising.org/managing/opt_out.asp",
-"http://tools.google.com/dlpage/gaoptout",
-"https://act.roycooper.com/",
-"https://bsky.app/profile/roycoopernc.bsky.social",
-"https://business.google.com/us/privacy",
-"https://facebook.com/policy.php",
-"https://facebook.com/roycoopernc",
-"https://flickr.com/photos/cooperfornc",
-"https://gpo.gov/fdsys/pkg/USCODE-2011-title17/pdf/USCODE-2011-title17-chap5-sec512.pdf",
-"https://help.x.com/en/rules-and-policies/update-privacy-policy",
-"https://instagram.com/roycoopernc",
-"https://jamsadr.com/rules-streamlined-arbitration",
-"https://jobs.lever.co/roy-cooper",
-"https://mixpanel.com/legal/privacy-policy",
-"https://networkadvertising.org/mobile-choice",
-"https://roycooper.com/",
-"https://roycooper.com/about",
-"https://roycooper.com/contact",
-"https://roycooper.com/costless",
-"https://roycooper.com/costless/child-care",
-"https://roycooper.com/costless/energy",
-"https://roycooper.com/costless/groceries",
-"https://roycooper.com/costless/health-care",
-"https://roycooper.com/costless/housing",
-"https://roycooper.com/faq",
-"https://roycooper.com/get-involved",
-"https://roycooper.com/press-releases",
-"https://roycooper.com/privacypolicy",
-"https://secure.actblue.com/donate/cvf_web",
-"https://store.roycooper.com/",
-"https://support.apple.com/en-us/HT202074",
-"https://support.google.com/googleplay/android-developer/answer/6048248?hl=en",
-"https://threads.com/@roycoopernc",
-"https://tiktok.com/@roycoopernc",
-"https://x.com/RoyCooperNC",
-"https://x.com/roycoopernc",
-"https://youradchoices.ca/"
+{
+"text": "17 U.S.C. § 512(c)(3)",
+"href": "https://www.gpo.gov/fdsys/pkg/USCODE-2011-title17/pdf/USCODE-2011-title17-chap5-sec512.pdf"
+},
+{
+"text": "Click here.",
+"href": "https://act.roycooper.com"
+},
+{
+"text": "Contact Us",
+"href": "https://roycooper.com/contact/"
+},
+{
+"text": "Data Policy",
+"href": "https://www.facebook.com/policy.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvf_web"
+},
+{
+"text": "Donate to become a founding member of our campaign now",
+"href": "https://secure.actblue.com/donate/cvf_web"
+},
+{
+"text": "FAQ",
+"href": "https://roycooper.com/faq/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/roycoopernc"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/roycoopernc"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/cooperfornc/"
+},
+{
+"text": "Get Involved",
+"href": "https://roycooper.com/get-involved/"
+},
+{
+"text": "Google Analytics’ Privacy Policy",
+"href": "http://www.google.com/policies/privacy/partners/"
+},
+{
+"text": "Home",
+"href": "https://roycooper.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/roycoopernc"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/roycoopernc/"
+},
+{
+"text": "JAMS website",
+"href": "https://www.jamsadr.com/rules-streamlined-arbitration/"
+},
+{
+"text": "Jobs",
+"href": "https://jobs.lever.co/roy-cooper"
+},
+{
+"text": "Lowering Energy & Utility Costs",
+"href": "https://roycooper.com/costless/energy/"
+},
+{
+"text": "Lowering Housing Costs",
+"href": "https://roycooper.com/costless/housing/"
+},
+{
+"text": "Lowering the Cost of Food & Groceries",
+"href": "https://roycooper.com/costless/groceries/"
+},
+{
+"text": "Make Stuff Cost Less",
+"href": "https://roycooper.com/costless/"
+},
+{
+"text": "Making Child Care Affordable",
+"href": "https://roycooper.com/costless/child-care/"
+},
+{
+"text": "Making Health Care Affordable",
+"href": "https://roycooper.com/costless/health-care/"
+},
+{
+"text": "Meet Roy",
+"href": "https://roycooper.com/about/"
+},
+{
+"text": "Mixpanel’s Privacy Policy",
+"href": "https://mixpanel.com/legal/privacy-policy/"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "http://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "Press Releases",
+"href": "https://roycooper.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://business.google.com/us/privacy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://roycooper.com/privacypolicy/"
+},
+{
+"text": "Roy Cooper for North Carolina",
+"href": "https://roycooper.com"
+},
+{
+"text": "Store",
+"href": "https://store.roycooper.com/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@roycoopernc"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@roycoopernc"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/RoyCooperNC"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/roycoopernc"
+},
+{
+"text": "X’s Terms of Service & Privacy Policy",
+"href": "https://help.x.com/en/rules-and-policies/update-privacy-policy"
+},
+{
+"text": "[image: Roy Cooper for North Carolina]",
+"href": "https://roycooper.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/roycoopernc.bsky.social"
+},
+{
+"text": "contact@roycooper.com",
+"href": "mailto:info@janetmills.com"
+},
+{
+"text": "here",
+"href": "http://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "here.",
+"href": "https://roycooper.com/privacypolicy/"
+},
+{
+"text": "http://www.networkadvertising.org/choices/",
+"href": "http://www.networkadvertising.org/choices/"
+},
+{
+"text": "https://youradchoices.ca",
+"href": "https://youradchoices.ca"
+},
+{
+"text": "the Digital Advertising Alliance",
+"href": "http://www.aboutads.info/choices/"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+}
 ]

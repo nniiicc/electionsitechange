@@ -1,15 +1,62 @@
 [
-"https://facebook.com/rick.jasperse",
-"https://instagram.com/rick.jasperse",
-"https://rickjasperse.org/",
-"https://rickjasperse.org/contactrick.htm",
-"https://rickjasperse.org/issues.htm",
-"https://rickjasperse.org/links.htm",
-"https://rickjasperse.org/meetrick.htm",
-"https://rickjasperse.org/needhelp.htm",
-"https://rickjasperse.org/news.htm",
-"https://rickjasperse.org/privacy.html",
-"https://rickjasperse.org/support.htm",
-"https://twitter.com/rickjasperse",
-"https://youtube.com/user/rickjasperse"
+{
+"text": "ASK RICK",
+"href": "https://www.rickjasperse.org/contactrick.htm"
+},
+{
+"text": "Email Rick",
+"href": "mailto:rick@rickjasperse.org"
+},
+{
+"text": "ISSUES",
+"href": "https://www.rickjasperse.org/issues.htm"
+},
+{
+"text": "LINKS",
+"href": "https://www.rickjasperse.org/links.htm"
+},
+{
+"text": "MEET RICK",
+"href": "https://www.rickjasperse.org/meetrick.htm"
+},
+{
+"text": "NEED HELP",
+"href": "https://www.rickjasperse.org/needhelp.htm"
+},
+{
+"text": "NEWS",
+"href": "https://www.rickjasperse.org/news.htm"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.rickjasperse.org/privacy.html"
+},
+{
+"text": "SUPPORT RICK",
+"href": "https://www.rickjasperse.org/support.htm"
+},
+{
+"text": "[image: Follow Rick Jasperse on Facebook]",
+"href": "https://www.facebook.com/rick.jasperse/"
+},
+{
+"text": "[image: Follow Rick Jasperse on Instagram]",
+"href": "https://www.instagram.com/rick.jasperse/"
+},
+{
+"text": "[image: Follow Rick Jasperse on Twitter]",
+"href": "https://twitter.com/rickjasperse"
+},
+{
+"text": "[image: Follow Rick Jasperses on YouTube]",
+"href": "https://www.youtube.com/user/rickjasperse"
+},
+{
+"text": "[image: Republican Party Elephant Logo]",
+"href": "https://www.rickjasperse.org"
+},
+{
+"text": "[image: Rick Jasperse State Representative District 11 Georgia]",
+"href": "https://www.rickjasperse.org"
+}
 ]

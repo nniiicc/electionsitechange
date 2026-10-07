@@ -1,11 +1,15 @@
 {
  "description": "Support Tresa Howell, a House of Delegates candidate in West Virginia, promoting hard work, family values, and economic growth.",
  "final_url": "https://keepwvgreat.com/",
- "paid_for_by": null,
+ "fingerprint": "093f2355c613a75e886f1d42cd7cdb1ded206037",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tresa Howell for House of Delegates",
  "years_mentioned": [
   "2018",
   "2020",
-  "2022"
+  "2022",
+  "2024",
+  "2026"
  ]
 }

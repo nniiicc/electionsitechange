@@ -1,14 +1,54 @@
 [
-"http://squarespace.com/",
-"https://aprilforportland.org/",
-"https://aprilforportland.org/about",
-"https://aprilforportland.org/blog",
-"https://aprilforportland.org/blog/sohowdidigetstarted",
-"https://aprilforportland.org/blog?author=5f1bcd1ebfd6de338106803c",
-"https://aprilforportland.org/cart",
-"https://aprilforportland.org/issues",
-"https://aprilforportland.org/join",
-"https://facebook.com/aprilfournier207",
-"https://instagram.com/aprilfournier207",
-"https://secure.actblue.com/donate/april-fournier-1"
+{
+"text": "0",
+"href": "https://www.aprilforportland.org/cart"
+},
+{
+"text": "April Fournier",
+"href": "https://www.aprilforportland.org/blog?author=5f1bcd1ebfd6de338106803c"
+},
+{
+"text": "Blog",
+"href": "https://www.aprilforportland.org/blog"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/april-fournier-1"
+},
+{
+"text": "Home",
+"href": "https://www.aprilforportland.org/"
+},
+{
+"text": "Meet April",
+"href": "https://www.aprilforportland.org/about"
+},
+{
+"text": "Next Next So How Did I Get Started?",
+"href": "https://www.aprilforportland.org/blog/sohowdidigetstarted"
+},
+{
+"text": "On the Issues",
+"href": "https://www.aprilforportland.org/issues"
+},
+{
+"text": "Sign Up",
+"href": "https://www.aprilforportland.org/join"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "[image: April Fournier for Maine House District 114]",
+"href": "https://www.aprilforportland.org/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/aprilfournier207"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/aprilfournier207/"
+}
 ]

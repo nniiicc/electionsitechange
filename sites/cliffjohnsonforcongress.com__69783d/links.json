@@ -1,18 +1,70 @@
 [
-"https://cliffjohnsonforcongress.com/",
-"https://cliffjohnsonforcongress.com/cart",
-"https://cliffjohnsonforcongress.com/contact",
-"https://cliffjohnsonforcongress.com/endorsements",
-"https://cliffjohnsonforcongress.com/press",
-"https://facebook.com/cliffjohnsonforcongress",
-"https://instagram.com/cliffjohnsonforcongress",
-"https://secure.actblue.com/donate/cliff-website",
-"https://secure.actblue.com/donate/cliff-website?express_lane=true",
-"https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=50",
-"https://store.cliffjohnsonforcongress.com/",
-"https://x.com/cliffjohnsonms"
+{
+"text": "$10 »",
+"href": "https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=10"
+},
+{
+"text": "$100 »",
+"href": "https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=100"
+},
+{
+"text": "$25 »",
+"href": "https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=25"
+},
+{
+"text": "$250 »",
+"href": "https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=250"
+},
+{
+"text": "$50 »",
+"href": "https://secure.actblue.com/donate/cliff-website?express_lane=true&amount=50"
+},
+{
+"text": "0",
+"href": "https://www.cliffjohnsonforcongress.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.cliffjohnsonforcongress.com/contact"
+},
+{
+"text": "Custom »",
+"href": "https://secure.actblue.com/donate/cliff-website?express_lane=true"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cliff-website"
+},
+{
+"text": "Home",
+"href": "https://www.cliffjohnsonforcongress.com/"
+},
+{
+"text": "Press",
+"href": "https://www.cliffjohnsonforcongress.com/press"
+},
+{
+"text": "See our Endorsements",
+"href": "https://www.cliffjohnsonforcongress.com/endorsements"
+},
+{
+"text": "Store »",
+"href": "https://store.cliffjohnsonforcongress.com"
+},
+{
+"text": "[image: Cliff Johnson for Congress]",
+"href": "https://www.cliffjohnsonforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cliffjohnsonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cliffjohnsonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/cliffjohnsonms"
+}
 ]

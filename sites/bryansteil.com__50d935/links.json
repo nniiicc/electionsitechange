@@ -1,15 +1,78 @@
 [
-"https://bryansteil.com/",
-"https://bryansteil.com/about",
-"https://bryansteil.com/issues",
-"https://bryansteil.com/privacy-policy",
-"https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075925.pdf",
-"https://facebook.com/bryansteil",
-"https://instagram.com/bryansteilwi",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/steilforwisconsin/storefront",
-"https://secure.winred.com/steilforwisconsin/support-bryan-for-congress",
-"https://x.com/bryansteil",
-"https://youtube.com/@steilforwisconsin"
+{
+"text": "About",
+"href": "https://bryansteil.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/steilforwisconsin/support-bryan-for-congress"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bryansteil"
+},
+{
+"text": "Home",
+"href": "https://bryansteil.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bryansteilwi"
+},
+{
+"text": "Issues",
+"href": "https://bryansteil.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://bryansteil.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bryansteil.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Protecting Our Seniors",
+"href": "https://bryansteil.com/#seniors"
+},
+{
+"text": "Review Bryan’s Financial Disclosure",
+"href": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075925.pdf"
+},
+{
+"text": "Securing Our Communities",
+"href": "https://bryansteil.com/#communities"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/steilforwisconsin/storefront/"
+},
+{
+"text": "Strengthening Our Economy",
+"href": "https://bryansteil.com/#economy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://bryansteil.com/#volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/bryansteil"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@steilforwisconsin"
+},
+{
+"text": "[image: Logo - Bryan Steil for Congress]",
+"href": "https://bryansteil.com/"
+}
 ]

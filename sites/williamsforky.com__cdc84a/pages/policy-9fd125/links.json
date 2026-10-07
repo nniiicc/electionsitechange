@@ -1,58 +1,366 @@
 [
-"https://bsky.app/profile/williamsforky1.bsky.social",
-"https://contact/",
-"https://facebook.com/WilliamsForKY",
-"https://facebook.com/WilliamsForKY/posts/pfbid02sDFR3o9LFyz5SZ3LXCoBQWZLTx5W7AKzTBYFhSt5Jn6Tp7LihwTg2KRhnoZUtarl",
-"https://facebook.com/WilliamsForKY/posts/pfbid0dWTdgy3qKTx5y5oY5ZPnkaEurY9X5YtKkPEtVo8TBCDFiChho2FRNuYSc8QviBJml",
-"https://facebook.com/WilliamsForKY/posts/pfbid0v1MkPWQ1rNWSQpmSiiKpMukzx4aiEh1vybdEVthBRxutLKVFoAq72J98htFvpcaEl",
-"https://familycommunity/",
-"https://govanddemocracy/",
-"https://instagram.com/williamsforky1",
-"https://secure.actblue.com/donate/williamsforky1",
-"https://tiktok.com/@williamsforky1",
-"https://williamsforky.com/",
-"https://williamsforky.com/ai-safety",
-"https://williamsforky.com/businessreform",
-"https://williamsforky.com/calendar",
-"https://williamsforky.com/campaign-reform",
-"https://williamsforky.com/cart",
-"https://williamsforky.com/child-advocacy",
-"https://williamsforky.com/civil-ai",
-"https://williamsforky.com/congressional-reform",
-"https://williamsforky.com/consumerprotections",
-"https://williamsforky.com/contact",
-"https://williamsforky.com/creator-ai",
-"https://williamsforky.com/data-centers",
-"https://williamsforky.com/drew",
-"https://williamsforky.com/drewnews",
-"https://williamsforky.com/drug-pricing",
-"https://williamsforky.com/education",
-"https://williamsforky.com/ems",
-"https://williamsforky.com/endorsements",
-"https://williamsforky.com/farm-independence",
-"https://williamsforky.com/farm-markets",
-"https://williamsforky.com/farm-security",
-"https://williamsforky.com/farming",
-"https://williamsforky.com/healthcare",
-"https://williamsforky.com/housing",
-"https://williamsforky.com/human-ai",
-"https://williamsforky.com/infrastructure",
-"https://williamsforky.com/key-issues",
-"https://williamsforky.com/labor-rights",
-"https://williamsforky.com/merch",
-"https://williamsforky.com/military-funding",
-"https://williamsforky.com/military-parents",
-"https://williamsforky.com/mutual-aid",
-"https://williamsforky.com/parental-care",
-"https://williamsforky.com/policy",
-"https://williamsforky.com/privacy-policy",
-"https://williamsforky.com/s/Williams-for-Kentucky-Contribution-Form",
-"https://williamsforky.com/seniors-accessibility",
-"https://williamsforky.com/seniors-accessibility-care",
-"https://williamsforky.com/taxpolicy",
-"https://williamsforky.com/terms-and-condtitions",
-"https://williamsforky.com/veterans",
-"https://williamsforky.com/volunteer",
-"https://williamsforky.com/workers-ai",
-"https://x.com/Williamsforky1"
+{
+"text": "--AI-Safety",
+"href": "https://www.williamsforky.com/ai-safety"
+},
+{
+"text": "--Business Reform",
+"href": "https://www.williamsforky.com/businessreform"
+},
+{
+"text": "--Campaign Reform",
+"href": "https://www.williamsforky.com/campaign-reform"
+},
+{
+"text": "--Child Advocacy",
+"href": "https://www.williamsforky.com/child-advocacy"
+},
+{
+"text": "--Civil Rights & AI",
+"href": "https://www.williamsforky.com/civil-ai"
+},
+{
+"text": "--Congressional Reform",
+"href": "https://www.williamsforky.com/congressional-reform"
+},
+{
+"text": "--Consumer Protections",
+"href": "https://www.williamsforky.com/consumerprotections"
+},
+{
+"text": "--Creator Ethics & AI",
+"href": "https://www.williamsforky.com/creator-ai"
+},
+{
+"text": "--Data Centers",
+"href": "https://www.williamsforky.com/data-centers"
+},
+{
+"text": "--Drug Pricing / Access",
+"href": "https://www.williamsforky.com/drug-pricing"
+},
+{
+"text": "--EMS",
+"href": "https://www.williamsforky.com/ems"
+},
+{
+"text": "--Education",
+"href": "https://www.williamsforky.com/education"
+},
+{
+"text": "--Farm Independence",
+"href": "https://www.williamsforky.com/farm-independence"
+},
+{
+"text": "--Farm Markets",
+"href": "https://www.williamsforky.com/farm-markets"
+},
+{
+"text": "--Farm Security",
+"href": "https://www.williamsforky.com/farm-security"
+},
+{
+"text": "--Farm Supports",
+"href": "https://www.williamsforky.com/farming"
+},
+{
+"text": "--Health Insurance",
+"href": "https://www.williamsforky.com/healthcare"
+},
+{
+"text": "--Housing",
+"href": "https://www.williamsforky.com/housing"
+},
+{
+"text": "--Human Rights & AI",
+"href": "https://www.williamsforky.com/human-ai"
+},
+{
+"text": "--Infrastructure",
+"href": "https://www.williamsforky.com/infrastructure"
+},
+{
+"text": "--Labor Rights",
+"href": "https://www.williamsforky.com/labor-rights"
+},
+{
+"text": "--Military Funding",
+"href": "https://www.williamsforky.com/military-funding"
+},
+{
+"text": "--Military Parent's Reprieve",
+"href": "https://www.williamsforky.com/military-parents"
+},
+{
+"text": "--Parental Care",
+"href": "https://www.williamsforky.com/parental-care"
+},
+{
+"text": "--Senior Accessibility",
+"href": "https://www.williamsforky.com/seniors-accessibility"
+},
+{
+"text": "--Tax Policy",
+"href": "https://www.williamsforky.com/taxpolicy"
+},
+{
+"text": "--Veteran's Assistance",
+"href": "https://www.williamsforky.com/veterans"
+},
+{
+"text": "--Workers & AI",
+"href": "https://www.williamsforky.com/workers-ai"
+},
+{
+"text": "0",
+"href": "https://www.williamsforky.com/cart"
+},
+{
+"text": "21st Century Infrastructure Modernization Plan",
+"href": "https://www.williamsforky.com/infrastructure"
+},
+{
+"text": "American Education Renewal Plan",
+"href": "https://www.williamsforky.com/education"
+},
+{
+"text": "American Farm Resilience and Revitalization Plan",
+"href": "https://www.williamsforky.com/farming"
+},
+{
+"text": "American Food Security Plan",
+"href": "https://www.williamsforky.com/farm-security"
+},
+{
+"text": "American Home Promise Plan",
+"href": "https://www.williamsforky.com/housing"
+},
+{
+"text": "American Veterans Restoration Plan",
+"href": "https://www.williamsforky.com/veterans"
+},
+{
+"text": "Back",
+"href": "https://www.williamsforky.com/"
+},
+{
+"text": "Calendar",
+"href": "https://www.williamsforky.com/calendar"
+},
+{
+"text": "Child Advocacy and Family stability plan",
+"href": "https://www.williamsforky.com/child-advocacy"
+},
+{
+"text": "Civil Rights In An AI World Plan",
+"href": "https://www.williamsforky.com/civil-ai"
+},
+{
+"text": "Clean energy done right: independent oversight, full transparency, and community benefits before corporate profits.",
+"href": "https://www.facebook.com/WilliamsForKY/posts/pfbid02sDFR3o9LFyz5SZ3LXCoBQWZLTx5W7AKzTBYFhSt5Jn6Tp7LihwTg2KRhnoZUtarl"
+},
+{
+"text": "Congressional Accountability & Integrety Plan",
+"href": "https://www.williamsforky.com/congressional-reform"
+},
+{
+"text": "Contact",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Creator Ethics & The Human Element Plan",
+"href": "https://www.williamsforky.com/creator-ai"
+},
+{
+"text": "Data Center Regulation Plan",
+"href": "https://www.williamsforky.com/data-centers"
+},
+{
+"text": "Digital Age Consumer Protection Plan",
+"href": "https://www.williamsforky.com/consumerprotections"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/williamsforky1"
+},
+{
+"text": "Donate by Mail",
+"href": "https://www.williamsforky.com/s/Williams-for-Kentucky-Contribution-Form"
+},
+{
+"text": "Drew",
+"href": "https://www.williamsforky.com/drew"
+},
+{
+"text": "Drew News",
+"href": "https://www.williamsforky.com/drewnews"
+},
+{
+"text": "EMS and Ambulance Access Policy Plan",
+"href": "https://www.williamsforky.com/ems"
+},
+{
+"text": "End insurance denials, hidden costs, and corporate interference so every American gets the care they were promised. LEARN MORE>",
+"href": "https://www.facebook.com/WilliamsForKY/posts/pfbid0dWTdgy3qKTx5y5oY5ZPnkaEurY9X5YtKkPEtVo8TBCDFiChho2FRNuYSc8QviBJml"
+},
+{
+"text": "Endorsements",
+"href": "https://www.williamsforky.com/endorsements"
+},
+{
+"text": "Every qualified candidate deserves a seat at the table. Debates and endorsements shouldn’t be bought. LEARN MORE>",
+"href": "https://www.facebook.com/WilliamsForKY/posts/pfbid0v1MkPWQ1rNWSQpmSiiKpMukzx4aiEh1vybdEVthBRxutLKVFoAq72J98htFvpcaEl"
+},
+{
+"text": "FAIR FARM MARKETS AND ACCOUNTABILITY PLAN",
+"href": "https://www.williamsforky.com/farm-markets"
+},
+{
+"text": "Family & Community",
+"href": "https://familycommunity"
+},
+{
+"text": "Farmer Independence and Ownership Plan",
+"href": "https://www.williamsforky.com/farm-independence"
+},
+{
+"text": "First Year Care Network Plan",
+"href": "https://www.williamsforky.com/parental-care"
+},
+{
+"text": "Folder: Policies",
+"href": "https://www.williamsforky.com/key-issues"
+},
+{
+"text": "GET MONEY OUT OF POLITICS",
+"href": "https://www.facebook.com/WilliamsForKY/posts/pfbid0v1MkPWQ1rNWSQpmSiiKpMukzx4aiEh1vybdEVthBRxutLKVFoAq72J98htFvpcaEl"
+},
+{
+"text": "Government & Democracy",
+"href": "https://govanddemocracy"
+},
+{
+"text": "Healthcare Insurance Reform Plan",
+"href": "https://www.williamsforky.com/healthcare"
+},
+{
+"text": "Human Rights vs the AI Machine Plan",
+"href": "https://www.williamsforky.com/human-ai"
+},
+{
+"text": "INSURANCE COMPANIES HAVE RIGGED THE SYSTEM LONG ENOUGH",
+"href": "https://www.facebook.com/WilliamsForKY/posts/pfbid0dWTdgy3qKTx5y5oY5ZPnkaEurY9X5YtKkPEtVo8TBCDFiChho2FRNuYSc8QviBJml"
+},
+{
+"text": "Meet Drew",
+"href": "https://www.williamsforky.com/drew"
+},
+{
+"text": "Merch",
+"href": "https://www.williamsforky.com/merch"
+},
+{
+"text": "Military Parent's Reprieve Plan",
+"href": "https://www.williamsforky.com/military-parents"
+},
+{
+"text": "Mutual Aid",
+"href": "https://www.williamsforky.com/mutual-aid"
+},
+{
+"text": "NUCLEAR ENERGY ONLY WORKS IF COMMUNITIES ARE PROTECTED",
+"href": "https://www.facebook.com/WilliamsForKY/posts/pfbid02sDFR3o9LFyz5SZ3LXCoBQWZLTx5W7AKzTBYFhSt5Jn6Tp7LihwTg2KRhnoZUtarl"
+},
+{
+"text": "Policy Plans",
+"href": "https://www.williamsforky.com/policy"
+},
+{
+"text": "Prescription for Fairness Plan",
+"href": "https://www.williamsforky.com/drug-pricing"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.williamsforky.com/privacy-policy"
+},
+{
+"text": "Safe and Secure Artificial Intelligence Plan",
+"href": "https://www.williamsforky.com/ai-safety"
+},
+{
+"text": "Support Seniors and Ability Access Plan",
+"href": "https://www.williamsforky.com/seniors-accessibility-care"
+},
+{
+"text": "TELL ME ABOUT IT",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "TELL ME YOUR CONCERNS",
+"href": "https://contact"
+},
+{
+"text": "Tax Policy for the Everyday American Plan",
+"href": "https://www.williamsforky.com/taxpolicy"
+},
+{
+"text": "Terms + Conditions",
+"href": "https://www.williamsforky.com/terms-and-condtitions"
+},
+{
+"text": "The Power of the People Plan",
+"href": "https://www.williamsforky.com/campaign-reform"
+},
+{
+"text": "Unleashing American Business Opportunity Plan",
+"href": "https://www.williamsforky.com/businessreform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.williamsforky.com/volunteer"
+},
+{
+"text": "WHAT IS ON YOUR MIND?",
+"href": "https://www.williamsforky.com/contact"
+},
+{
+"text": "Worker's Rights in the AI Economy Plan",
+"href": "https://www.williamsforky.com/workers-ai"
+},
+{
+"text": "Workplace Dignity & Fair Compensation Plan",
+"href": "https://www.williamsforky.com/labor-rights"
+},
+{
+"text": "[image: Williams for KY]",
+"href": "https://www.williamsforky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/williamsforky1.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WilliamsForKY"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamsforky1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@williamsforky1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Williamsforky1"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@williamsforky.com"
+}
 ]

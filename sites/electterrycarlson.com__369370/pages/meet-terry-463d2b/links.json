@@ -1,14 +1,62 @@
 [
-"http://facebook.com/ElectTerryCarlson",
-"https://bsky.app/profile/terrycarlson.bsky.social",
-"https://electterrycarlson.com/",
-"https://electterrycarlson.com/cart",
-"https://electterrycarlson.com/crew",
-"https://electterrycarlson.com/digital-toolkit",
-"https://electterrycarlson.com/join-the-crew",
-"https://electterrycarlson.com/meet-terry",
-"https://electterrycarlson.com/platform",
-"https://httsp://www.3arrowsbc.com",
-"https://instagram.com/electterrycarlson",
-"https://secure.actblue.com/donate/terrycarlson"
+{
+"text": "0",
+"href": "https://www.electterrycarlson.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.electterrycarlson.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/terrycarlson"
+},
+{
+"text": "Digital Toolkit",
+"href": "https://www.electterrycarlson.com/digital-toolkit"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.electterrycarlson.com/crew"
+},
+{
+"text": "Meet Terry",
+"href": "https://www.electterrycarlson.com/meet-terry"
+},
+{
+"text": "Platform",
+"href": "https://www.electterrycarlson.com/platform"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.electterrycarlson.com/join-the-crew#signs"
+},
+{
+"text": "Terry’s Platform",
+"href": "https://www.electterrycarlson.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electterrycarlson.com/join-the-crew#volunteer"
+},
+{
+"text": "Website by 3 Arrows Digital",
+"href": "https://httsp://www.3arrowsbc.com"
+},
+{
+"text": "[image: Elect Terry Carlson]",
+"href": "https://www.electterrycarlson.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ElectTerryCarlson"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/terrycarlson.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electterrycarlson"
+}
 ]

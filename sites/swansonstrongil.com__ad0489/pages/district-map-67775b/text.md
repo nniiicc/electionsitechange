@@ -1,4 +1,2 @@
-A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
-Paid for by Friends of Dan Swanson
-DAN SWANSON
-A CONSERVATIVE CHAMPION PROUDLY SERVING DISTRICT 71
+Skip to content DAN SWANSON A CONSERVATIVE CHAMPION PROUDLY SERVING DISTRICT 71 Volunteer About Issues News District Donate Volunteer About Issues News District Donate Facebook Envelope A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Paid for by Friends of Dan Swanson DAN SWANSON A CONSERVATIVE CHAMPION PROUDLY SERVING DISTRICT 71 Privacy Policy PAID FOR BY XXXX

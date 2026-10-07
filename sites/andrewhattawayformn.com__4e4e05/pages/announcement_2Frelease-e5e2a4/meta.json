@@ -1,7 +1,9 @@
 {
  "description": "Andrew Hattaway is running for Minnesota House District 56B, focusing on fiscal responsibility, education, and affordable healthcare.",
  "final_url": "https://andrewhattawayformn.com/announcement%2Frelease",
- "paid_for_by": "paid for by Andrew Hattaway for MN | P",
+ "fingerprint": "bc5db5472eb7c31209ea15837c8fcf614add20b5",
+ "format": 3,
+ "paid_for_by": "paid for by Andrew Hattaway for MN",
  "title": "ANNOUNCEMENT/RELEASE",
  "years_mentioned": [
   "2026"

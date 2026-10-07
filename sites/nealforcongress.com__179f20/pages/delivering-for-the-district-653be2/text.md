@@ -1,14 +1,11 @@
-DELIVERING FOR THE FIRST DISTRICT
-Richie has continued fighting for his constituents in western and central Massachusetts, prioritizing regional equity and ensuring our region receives its fair share of funding.
+About Issues Endorsements Volunteer Contribute About Issues Endorsements Volunteer Contribute DELIVERING FOR THE FIRST DISTRICT Richie has continued fighting for his constituents in western and central Massachusetts, prioritizing regional equity and ensuring our region receives its fair share of funding.
 Richie has been a champion of improving and expanding passenger rail service between Pittsfield, Springfield, Worcester, and Boston.
 In September 2023, he joined Governor Healey to announce $108 million in federal funding to support East-West Rail – the third-largest award in the nation and a significant step towards making East-West Rail a reality.
 This funding was made available through the Bipartisan Infrastructure Law, much of which was drafted in the Ways and Means Committee while Richie was Chairman.
 In addition to funding for passenger rail, the First District has received more than 70 awards totaling more than $200 million from the Infrastructure Law, supporting projects across two dozen cities and towns.
 This funding supports much-needed upgrades to major roadways, maintenance and reconstruction of bridges, and investments in clean energy and climate-friendly initiatives.
-“Improving and expanding passenger rail service will have a tremendous impact on regional economies throughout Massachusetts.”
-- Rep.
-Richie Neal
-Richie also celebrated a vital partner and key contributor to the western Massachusetts economy.
+“Improving and expanding passenger rail service will have a tremendous impact on regional economies throughout Massachusetts.” - Rep.
+Richie Neal Richie also celebrated a vital partner and key contributor to the western Massachusetts economy.
 In May 2023, he announced that Barnes Air National Guard Base will be receiving a new fleet of F-35A Lightning II aircraft beginning in 2026.
 After years of advocating alongside the Massachusetts Delegation, state leadership, and Adjutant General for the Massachusetts National Guard Gary Keefe, Richie was proud to celebrate an announcement that will ensure that the 104th Fighter Wing can continue its mission for years to come.
 Richie also celebrated the reopening of North Adams Regional Hospital.
@@ -16,31 +13,8 @@ He worked alongside the Biden Administration to advocate for changes relative to
 This will improve and expand much-needed healthcare access for the people of North County, ensure the safety and well-being of residents, and create ample job opportunities throughout the Berkshires.
 Congressman Neal has also brought back more than $23 million in funding for Community Projects.
 These projects will directly benefit the First Congressional District of Massachusetts.
-FY22 Community Projects
-- $740,000 for the Town of Agawam’s Main Street Sewage Main and Slope Stabilization project
-- $450,000 for Springfield Urban League’s Camp Atwater, The Next Century Campaign – Facilities Modernization and Stabilization Project
-- $350,000 for Berkshire Community College’s Nursing Simulation Upgrade
-- $100,000 for Rick’s Place for increased capacity providing free support to grieving children, teens and their families
-- $250,000 for Mount Holyoke College’s Professional and Graduation Education Department
-- $200,000 for the Franklin County Opioid Task Force for the ARISE program
-- $2,000,000 for the City of Springfield’s Forest Park Horticultural Plan
-- $850,000 for the Town of Sturbridge’s Maple Street Water Line Project
-- $1,000,000 for the Town of Adams’ Greylock Glen project
-- $1,000,000 for the City of Westfield’s Operations Center Building at the water treatment plant
-FY23 Community Projects
-- $1,000,000 for the Black Economic Council of Massachusetts’s Back Office Support Services (BOSS) Program and Vendor Advisory Council
-- $750,000 for the 429 Morgan Road West Springfield Capital Improvement Project
-- $1,000,000 for Bay Path University for wraparound academic and student support services
-- $2,854,800 for the City of Chicopee for a Water Pollution Control Facility
-- $3,000,000 for the Cyber Security Range at Union Station, Springfield, for a cybersecurity program, including equipment
-- $1,000,000 for the Elms College, Chicopee, for social sciences and education curriculum and programming, including scholarships and equipment
-- $750,000 for the Historic Lenox Town Hall Roof and Rotunda Restoration Project
-- $3,000,000 for the Historic Wahconah Park Grandstand Improvement Project
-- $200,000 for the U.S.
-Army Corps of Engineers to conduct a feasibility study on the Hoosic River Basin Flood Control System
-- $620,000 for the Massachusetts College of Liberal Arts, North Adams, for a nursing program, including equipment
-- $513,000 for the Mental Health Association, Inc., Springfield, for mental health services, including technology and equipment
-- $680,000 for the Nichols College, Dudley, for an intelligent business automation program, including equipment
-- $2,000,000 for the Renovation of the Girls Inc of the Valley Headquarters and Program Center
-- $1,000,000 for Westfield State University, Westfield, for a nursing and health sciences program, including equipment
-- $2,000,000 for the Hilltown CDC for the construction of the Worthington Senior Center.
+FY22 Community Projects $740,000 for the Town of Agawam’s Main Street Sewage Main and Slope Stabilization project $450,000 for Springfield Urban League’s Camp Atwater, The Next Century Campaign – Facilities Modernization and Stabilization Project $350,000 for Berkshire Community College’s Nursing Simulation Upgrade $100,000 for Rick’s Place for increased capacity providing free support to grieving children, teens and their families $250,000 for Mount Holyoke College’s Professional and Graduation Education Department $200,000 for the Franklin County Opioid Task Force for the ARISE program $2,000,000 for the City of Springfield’s Forest Park Horticultural Plan $850,000 for the Town of Sturbridge’s Maple Street Water Line Project $1,000,000 for the Town of Adams’ Greylock Glen project $1,000,000 for the City of Westfield’s Operations Center Building at the water treatment plant FY23 Community Projects $1,000,000 for the Black Economic Council of Massachusetts’s Back Office Support Services (BOSS) Program and Vendor Advisory Council $750,000 for the 429 Morgan Road West Springfield Capital Improvement Project $1,000,000 for Bay Path University for wraparound academic and student support services $2,854,800 for the City of Chicopee for a Water Pollution Control Facility $3,000,000 for the Cyber Security Range at Union Station, Springfield, for a cybersecurity program, including equipment $1,000,000 for the Elms College, Chicopee, for social sciences and education curriculum and programming, including scholarships and equipment $750,000 for the Historic Lenox Town Hall Roof and Rotunda Restoration Project $3,000,000 for the Historic Wahconah Park Grandstand Improvement Project $200,000 for the U.S.
+Army Corps of Engineers to conduct a feasibility study on the Hoosic River Basin Flood Control System $620,000 for the Massachusetts College of Liberal Arts, North Adams, for a nursing program, including equipment $513,000 for the Mental Health Association, Inc., Springfield, for mental health services, including technology and equipment $680,000 for the Nichols College, Dudley, for an intelligent business automation program, including equipment $2,000,000 for the Renovation of the Girls Inc of the Valley Headquarters and Program Center $1,000,000 for Westfield State University, Westfield, for a nursing and health sciences program, including equipment $2,000,000 for the Hilltown CDC for the construction of the Worthington Senior Center.
+Richard E.
+Neal for Congress Committee PO Box 718 | Springfield, MA 01101-0718 Privacy policy info@nealforcongress.com For press inquiries, please email Press@nealforcongress.com Paid for by Richard E Neal for Congress Committee, Treasurer Michael F.
+Hall.

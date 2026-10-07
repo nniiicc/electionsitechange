@@ -1,8 +1,30 @@
 [
-"https://katenugent.org/about",
-"https://katenugent.org/donate",
-"https://katenugent.org/events",
-"https://katenugent.org/home",
-"https://katenugent.org/issues-endorsements",
-"https://katenugent.org/news"
+{
+"text": "About",
+"href": "https://www.katenugent.org/about"
+},
+{
+"text": "Donate",
+"href": "https://www.katenugent.org/donate"
+},
+{
+"text": "Events",
+"href": "https://www.katenugent.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.katenugent.org/home"
+},
+{
+"text": "Issues & Endorsements",
+"href": "https://www.katenugent.org/issues-endorsements"
+},
+{
+"text": "Kate Nugent * State Representative",
+"href": "https://www.katenugent.org/home"
+},
+{
+"text": "News",
+"href": "https://www.katenugent.org/news"
+}
 ]

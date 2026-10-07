@@ -1,7 +1,5 @@
-Mobile Messaging Terms & Conditions and Mobile Messaging Privacy Policy
-Effective Date: Jan 1 2026
-Jon Maples for Florida State House (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Terms”).
-By opting into or participating in any of our Programs, you accept and agree to these Terms, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “Dispute Resolution” section below.
+Skip to main content Skip to footer Opens in a new tab Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Donate Mobile Messaging Terms & Conditions and Mobile Messaging Privacy Policy Mobile Messaging Terms & Conditions and Mobile Messaging Privacy Policy Effective Date : Jan 1 2026 Jon Maples for Florida State House (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Terms”).
+By opting into or participating in any of our Programs, you accept and agree to these Terms, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “ Dispute Resolution ” section below.
 These Terms are limited to the Program and are not intended to modify other terms & conditions or privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Modification of Terms: We reserve the right to revise these Terms from time to time.
 If we do revise these Terms, the revised terms will supersede prior revisions.
@@ -51,32 +49,22 @@ Mobile Messaging Privacy Policy: We respect your privacy.
 This Mobile Messaging Privacy Policy describes any personal information that We collect or receive when you choose to participate in the Program, how We use or disclose your information, and your rights related to your personal information.
 This Mobile Messaging Privacy Policy applies to all personal information collected, used, or shared by us when you opt-in to the Program and is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Please contact Us if you have any questions about the information in this Privacy Policy.
-Information We Collect and How We Use It:
-The personal information We may collect, includes your name, phone number, email address and certain marketing preferences.
+Information We Collect and How We Use It: The personal information We may collect, includes your name, phone number, email address and certain marketing preferences.
 We may also collect data with respect to confirmation that a message has been delivered to you, confirmation that you have read a message, and related information.
 We may use the information for the following business purposes: (1) provide the Program and related customer service; (2) deliver information about Our products, services and promotions, (3) improve the Program and services, (4) prevent fraud and comply with law, and (5) protect the security of Our systems.
 We may combine the personal information We obtain through your participation in the Program with offline or other online personal information We retain about you.
 When We Share Your Information: WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR PERSONAL INFORMATION COLLECTED OR RECEIVED THROUGH THE PROGRAM TO ANY THIRD PARTY.
 However, We may share your personal information with the third-party text messaging platform provider or other trusted service partners as may be necessary to send you messages under the Program and these Terms.
 We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
-Contact Us: To exercise any of your rights related to your personal information, please contact us using one of the following methods:
-- Visit us at https://votemaples.com/
-- Send us an email at jon@votemaples; or
-- Write to us at 3300 PGA Boulevard, Suite 400, Palm Beach Gardens, FL 33410
-California Residents.
+Contact Us: To exercise any of your rights related to your personal information, please contact us using one of the following methods: Visit us at https://votemaples.com/ Send us an email at jon@votemaples ; or Write to us at 3300 PGA Boulevard, Suite 400, Palm Beach Gardens, FL 33410 California Residents.
 Beginning January 1, 2020, if You are a California resident, as defined in Section 17014 of Title 18 of the California Code of Regulations, You have certain rights with regard to your personal information.
 This section describes those rights and explains how to exercise those rights.
-Access to Information.
+Access to Information .
 You have the right to request that We disclose certain information to you about Our collection and use of your personal information over the past 12 months.
 Upon receipt of a verifiable request, we will provide you access to personal information We have collected about you or disclose to you the categories of personal information We have collected, the categories of sources from which We obtained that information, and how We have used or shared that information.
-Right to Request Deletion.
+Right to Request Deletion .
 You also have the right to request that We delete any of your personal information that We collected from you and retained, subject to certain exceptions as allowable by law.
-You understand that We may deny your deletion request as provided by law, including, but not limited to, retaining the information if it is necessary for Us to:
-- Complete the transaction for which We collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of Our ongoing business relationship with you, or otherwise perform Our contract with you;
-- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities;
-- Debug products or identify and repair errors that impair existing intended functionality;
-- Comply with a legal obligation, including, but not limited to, preserving evidence demonstrates our compliance with the Telephone Consumer Protection Act (“TCPA”) during the statute of limitations period applicable to the TCPA; and/or
-- Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+You understand that We may deny your deletion request as provided by law, including, but not limited to, retaining the information if it is necessary for Us to: Complete the transaction for which We collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of Our ongoing business relationship with you, or otherwise perform Our contract with you; Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities; Debug products or identify and repair errors that impair existing intended functionality; Comply with a legal obligation, including, but not limited to, preserving evidence demonstrates our compliance with the Telephone Consumer Protection Act (“TCPA”) during the statute of limitations period applicable to the TCPA; and/or Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
 To exercise any of your rights related to your personal information, please contact us using one of the methods indicated in the “Contact Us” section above.
 Dispute Resolution: In the event that there is a dispute, claim, or controversy between you and Us, or between you and our third-party text messaging platform provider, or between you and any other third-party service provider acting on Our behalf to transmit the mobile messages related to the Program Description set forth above, arising out of or relating to federal or state statutory claims, common law claims, these Terms, or the breach, termination, enforcement, interpretation, or validity thereof, including, but not limited to, the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim, or controversy will be, to the fullest extent permitted by law, determined by arbitration in West Palm Beach, FL before one arbitrator.
 The parties agree to submit the dispute to binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then in effect.
@@ -98,3 +86,4 @@ Miscellaneous: You warrant and represent to Us that you have all necessary right
 The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder.
 If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
 Any new features, changes, updates, or improvements of the Program shall be subject to these Terms unless explicitly stated otherwise in writing.
+Paid by Jon Maples, Republican, for St Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.

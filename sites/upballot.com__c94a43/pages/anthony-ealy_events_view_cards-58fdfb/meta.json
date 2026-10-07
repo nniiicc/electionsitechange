@@ -1,7 +1,9 @@
 {
- "description": "See Anthony\u2019s upcoming campaign events happening near you.",
+ "description": "See Anthony’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/anthony-ealy/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "a25289510e8150d45ab5aec77e47106b69052a8a",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Anthony Ealy Events",
  "years_mentioned": []
 }

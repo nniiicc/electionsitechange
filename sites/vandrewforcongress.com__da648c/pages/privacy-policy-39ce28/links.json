@@ -1,20 +1,74 @@
 [
-"http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html",
-"https://facebook.com/VanDrewForCongress",
-"https://ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy",
-"https://instagram.com/vandrewforcongress",
-"https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website",
-"https://secure.winred.com/van-drew-for-congress/storefront",
-"https://team-turnout-tracker-frontend.onrender.com/",
-"https://vandrewforcongress.com/",
-"https://vandrewforcongress.com/awards-endorsements",
-"https://vandrewforcongress.com/cdn-cgi/l/email-protection",
-"https://vandrewforcongress.com/endorsejvd",
-"https://vandrewforcongress.com/events",
-"https://vandrewforcongress.com/latest",
-"https://vandrewforcongress.com/privacy-policy",
-"https://vandrewforcongress.com/terms-conditions",
-"https://vandrewforcongress.com/terms-of-service",
-"https://vandrewforcongress.com/wins",
-"https://vimeo.com/456249522"
+{
+"text": "Awards & Endorsements",
+"href": "https://vandrewforcongress.com/awards-endorsements/"
+},
+{
+"text": "Boots on the Ground",
+"href": "https://team-turnout-tracker-frontend.onrender.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website"
+},
+{
+"text": "Events",
+"href": "https://vandrewforcongress.com/events/"
+},
+{
+"text": "Latest News",
+"href": "https://vandrewforcongress.com/latest/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vandrewforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/van-drew-for-congress/storefront/"
+},
+{
+"text": "Support Jeff",
+"href": "https://vandrewforcongress.com/endorsejvd/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vandrewforcongress.com/terms-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://vandrewforcongress.com/terms-of-service/"
+},
+{
+"text": "Wins for South Jersey",
+"href": "https://vandrewforcongress.com/wins/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@vandrewfornj.com"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/456249522"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VanDrewForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vandrewforcongress/"
+},
+{
+"text": "here",
+"href": "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html"
+},
+{
+"text": "here",
+"href": "https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy"
+}
 ]

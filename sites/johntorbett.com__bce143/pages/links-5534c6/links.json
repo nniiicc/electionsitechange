@@ -1,34 +1,134 @@
 [
-"http://gaston.nc.gop/",
-"http://gastongazette.com/",
-"http://gastongov.com/",
-"http://ncfamily.org/",
-"http://ushistory.org/",
-"https://bls.gov/",
-"https://budd.senate.gov/",
-"https://c-span.org/series",
-"https://concernedwomen.org/",
-"https://defense.gov/",
-"https://dhs.gov/",
-"https://facebook.com/rep.john.a.torbett",
-"https://gop.com/",
-"https://heritage.org/",
-"https://home.nra.org/",
-"https://house.gov/",
-"https://johnlocke.org/",
-"https://johntorbett.com/",
-"https://johntorbett.com/bio",
-"https://johntorbett.com/contact",
-"https://johntorbett.com/contribute",
-"https://johntorbett.com/issues",
-"https://johntorbett.com/letters-of-support",
-"https://johntorbett.com/links",
-"https://nasa.gov/",
-"https://nc.gop/",
-"https://nccivitas.org/",
-"https://senate.gov/index.htm",
-"https://tillis.senate.gov/public",
-"https://timmoore.house.gov/",
-"https://twitter.com/JohnTorbett",
-"https://wunderground.com/severe.asp"
+{
+"text": "BIO",
+"href": "https://johntorbett.com/bio/"
+},
+{
+"text": "CONTACT",
+"href": "https://johntorbett.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://johntorbett.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://johntorbett.com/"
+},
+{
+"text": "Issues",
+"href": "https://johntorbett.com/issues/"
+},
+{
+"text": "LETTERS OF SUPPORT",
+"href": "https://johntorbett.com/letters-of-support/"
+},
+{
+"text": "LINKS",
+"href": "https://johntorbett.com/links/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://johntorbett.com"
+},
+{
+"text": "[image]",
+"href": "http://gaston.nc.gop/"
+},
+{
+"text": "[image]",
+"href": "http://www.gastongazette.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.gastongov.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.ncfamily.org/"
+},
+{
+"text": "[image]",
+"href": "http://www.ushistory.org/"
+},
+{
+"text": "[image]",
+"href": "https://concernedwomen.org/"
+},
+{
+"text": "[image]",
+"href": "https://home.nra.org/"
+},
+{
+"text": "[image]",
+"href": "https://timmoore.house.gov/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/JohnTorbett"
+},
+{
+"text": "[image]",
+"href": "https://www.bls.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.budd.senate.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.c-span.org/series/?presidents="
+},
+{
+"text": "[image]",
+"href": "https://www.defense.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.dhs.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/rep.john.a.torbett%20"
+},
+{
+"text": "[image]",
+"href": "https://www.gop.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.heritage.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.house.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.johnlocke.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nasa.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.nc.gop/"
+},
+{
+"text": "[image]",
+"href": "https://www.nccivitas.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.senate.gov/index.htm"
+},
+{
+"text": "[image]",
+"href": "https://www.tillis.senate.gov/public/"
+},
+{
+"text": "[image]",
+"href": "https://www.wunderground.com/severe.asp"
+}
 ]

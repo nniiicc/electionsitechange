@@ -1,8 +1,3 @@
-top of page
-Loose Creek Church Picnic
-Sun, Jun 14
-|Immaculate Conception Catholic Church
-I'm excited to spend the day at the Loose Creek Church Picnic, one of our community's favorite summer traditions.
+top of page LOGO GET INVOLVED DONATE Loose Creek Church Picnic Sun, Jun 14 | Immaculate Conception Catholic Church I'm excited to spend the day at the Loose Creek Church Picnic, one of our community's favorite summer traditions.
 Stop by, say hello, and enjoy a great day of food, fun, and conversation with friends and neighbors.
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Jun 14, 2026, 11:00 AM – 10:00 PM Immaculate Conception Catholic Church, 121 County Rd 402, Loose Creek, MO 65054, USA Share this event HOME ABOUT INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS Paid for by Citizens for Bax; Treasurer, Rob Overly © # by Sapphire Strategies HOME ABOUT Log In CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

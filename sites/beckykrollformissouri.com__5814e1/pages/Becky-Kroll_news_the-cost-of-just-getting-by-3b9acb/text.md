@@ -1,5 +1,4 @@
-“We cannot solve our problems with the same thinking we used when we created them.”— commonly attributed to Albert Einstein
-When I look at what’s happening in our state, that’s exactly what it feels like.
+About Becky Issues Get Involved Events Updates Donate Now Home About Becky Issues Get Involved Events Updates Donate Now April 23, 2026 The Cost of Just Getting By “We cannot solve our problems with the same thinking we used when we created them.”— commonly attributed to Albert Einstein When I look at what’s happening in our state, that’s exactly what it feels like.
 We keep making the same kinds of decisions and expecting things to get better, while more and more people feel the strain.
 The reality is, that people are hurting.
 Not in a loud way.
@@ -49,4 +48,4 @@ We decide who represents us, what gets prioritized, and what gets pushed aside.
 So, if this is not working for you, do not ignore it.
 Do not explain it away.
 Remember it.
-And help me change it
+And help me change it Support Becky Kroll’s Campaign for Missouri Donate Now Becky Kroll For Missouri 1603 Kroll Road, Lohman, Mo 65053 tel:573-690-3431 | becky@beckykrollformissouri.com Melba Price, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

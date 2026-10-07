@@ -1,12 +1,58 @@
 [
-"http://cascadecomputerconsulting.com/",
-"https://akcenter.org/endorsements",
-"https://alaskabeacon.com/voter-guides/contests/alaska-house-district-8",
-"https://facebook.com/nissaforstatehouse",
-"https://kdll.org/podcast/kenai-conversation/2026-09-09/kenai-conversation-house-district-8-forum",
-"https://nissasavageforalaska.com/",
-"https://nissasavageforalaska.com/about",
-"https://nissasavageforalaska.com/contact",
-"https://nissasavageforalaska.com/priorities",
-"https://secure.anedot.com/nissa-for-state-house-alaska/donate"
+{
+"text": "About Me",
+"href": "https://nissasavageforalaska.com/about/"
+},
+{
+"text": "Click here to meet the candidates running for Alaska State House District 08 – from the Alaska Beacon",
+"href": "https://alaskabeacon.com/voter-guides/contests/alaska-house-district-8/"
+},
+{
+"text": "Contact",
+"href": "https://nissasavageforalaska.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/nissa-for-state-house-alaska/donate"
+},
+{
+"text": "Home",
+"href": "https://nissasavageforalaska.com/"
+},
+{
+"text": "Listen to: Kenai Conversation: House District 8 forum ​",
+"href": "https://www.kdll.org/podcast/kenai-conversation/2026-09-09/kenai-conversation-house-district-8-forum"
+},
+{
+"text": "Nissa for State House",
+"href": "https://nissasavageforalaska.com"
+},
+{
+"text": "Priorities",
+"href": "https://nissasavageforalaska.com/priorities/"
+},
+{
+"text": "[image: Alaska Beacon]",
+"href": "https://alaskabeacon.com/voter-guides/contests/alaska-house-district-8/"
+},
+{
+"text": "[image: CCC]",
+"href": "http://cascadecomputerconsulting.com/"
+},
+{
+"text": "[image: KDLL]",
+"href": "https://www.kdll.org/podcast/kenai-conversation/2026-09-09/kenai-conversation-house-district-8-forum"
+},
+{
+"text": "[image: Nissa Savage logo]",
+"href": "https://www.facebook.com/nissaforstatehouse"
+},
+{
+"text": "[image: Nissa for State House]",
+"href": "https://nissasavageforalaska.com/"
+},
+{
+"text": "[image: The Alaska Center]",
+"href": "https://akcenter.org/endorsements/"
+}
 ]

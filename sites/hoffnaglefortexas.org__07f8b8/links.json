@@ -1,9 +1,58 @@
 [
-"https://facebook.com/profile.php?id=100063985932729",
-"https://hoffnaglefortexas.org/about.html",
-"https://hoffnaglefortexas.org/contact.html",
-"https://hoffnaglefortexas.org/index.html",
-"https://hoffnaglefortexas.org/issues.html",
-"https://hoffnaglefortexas.org/rsvp.html",
-"https://secure.anedot.com/hoffnaglefortexas/donate"
+{
+"text": "About",
+"href": "https://hoffnaglefortexas.org/about.html"
+},
+{
+"text": "Contact",
+"href": "https://hoffnaglefortexas.org/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/hoffnaglefortexas/donate"
+},
+{
+"text": "Email",
+"href": "mailto:hoffnaglefortexas@gmail.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100063985932729"
+},
+{
+"text": "Full platform",
+"href": "https://hoffnaglefortexas.org/issues.html"
+},
+{
+"text": "Hoffnagle for Texas Texas House District 100",
+"href": "https://hoffnaglefortexas.org/index.html"
+},
+{
+"text": "Home",
+"href": "https://hoffnaglefortexas.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://hoffnaglefortexas.org/issues.html"
+},
+{
+"text": "RSVP",
+"href": "https://hoffnaglefortexas.org/rsvp.html"
+},
+{
+"text": "See where I stand",
+"href": "https://hoffnaglefortexas.org/issues.html"
+},
+{
+"text": "Volunteer",
+"href": "https://hoffnaglefortexas.org/contact.html"
+},
+{
+"text": "Yard sign",
+"href": "https://hoffnaglefortexas.org/contact.html"
+},
+{
+"text": "issues page",
+"href": "https://hoffnaglefortexas.org/issues.html"
+}
 ]

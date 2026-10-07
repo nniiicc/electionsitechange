@@ -1,21 +1,86 @@
 [
-"https://billgschuette.com/",
-"https://billgschuette.com/connect",
-"https://billgschuette.com/endorse-2024",
-"https://billgschuette.com/get-involved",
-"https://billgschuette.com/issues",
-"https://billgschuette.com/issues?issue=rebuild+michigan",
-"https://billgschuette.com/issues?issue=reinforce+strong+communities",
-"https://billgschuette.com/issues?issue=restore+a+confident+future",
-"https://billgschuette.com/meet-bill",
-"https://facebook.com/Schuette4Rep",
-"https://instagram.com/schuette4rep",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=100",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=25",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=250",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=50",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=500",
-"https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=other",
-"https://twitter.com/schuette_bill"
+{
+"text": "$100",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=500"
+},
+{
+"text": "Add Your Name",
+"href": "javascript:;"
+},
+{
+"text": "Connect",
+"href": "https://billgschuette.com/connect/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today"
+},
+{
+"text": "Endorse",
+"href": "https://billgschuette.com/endorse-2024/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Schuette4Rep"
+},
+{
+"text": "Get Involved",
+"href": "https://billgschuette.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://billgschuette.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/schuette4rep/"
+},
+{
+"text": "Issues",
+"href": "https://billgschuette.com/issues/"
+},
+{
+"text": "Meet Bill",
+"href": "https://billgschuette.com/meet-bill/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/bill-g-schuette-for-state-representative-225bfa3a/donate-today?amount=other"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/schuette_bill"
+},
+{
+"text": "[no text]",
+"href": "https://billgschuette.com/"
+},
+{
+"text": "[tooltip: https://billgschuette.com/issues/?issue=rebuild michigan&#039;s economy]",
+"href": "https://billgschuette.com/issues/?issue=rebuild+michigan#039;s%20economy"
+},
+{
+"text": "[tooltip: https://billgschuette.com/issues/?issue=reinforce strong communities]",
+"href": "https://billgschuette.com/issues/?issue=reinforce+strong+communities"
+},
+{
+"text": "[tooltip: https://billgschuette.com/issues/?issue=restore a confident future]",
+"href": "https://billgschuette.com/issues/?issue=restore+a+confident+future"
+}
 ]

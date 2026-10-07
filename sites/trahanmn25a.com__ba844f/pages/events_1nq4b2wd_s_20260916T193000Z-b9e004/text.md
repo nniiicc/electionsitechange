@@ -1,7 +1,3 @@
-Haverhill Township Board Meeting
-Time
-Wednesday, Sep 16, 2026
-7:30 PM – 9:30 PM
-About this event
-The Haverhill Town Board meets the third Wednesday of each month at 7:30 p.m.
+Meet Brad Issues News Volunteer Contribute Events / Haverhill Township Board Meeting Haverhill Township Board Meeting Time Wednesday, Sep 16, 2026 7:30 PM – 9:30 PM Location 4701 70th Avenue NE, Rochester, MN, 55906 Map https://haverhilltwp.org/ About this event The Haverhill Town Board meets the third Wednesday of each month at 7:30 p.m.
 The meetings are held at the Township Hall located at 4701 70th Ave NE Rochester Mn 55906.
+Map 4701 70th Avenue NE Rochester, MN 55906 https://haverhilltwp.org/ Directions → Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,5 +1,4 @@
-Meet Mara
-Mara has worked for years to bring equity and safety to every Delawarean.
+0 Skip to Content About Issues Endorsements Volunteer News GIVE TODAY Open Menu Close Menu About Issues Endorsements Volunteer News GIVE TODAY Open Menu Close Menu About Issues Endorsements Volunteer News GIVE TODAY Meet Mara Mara has worked for years to bring equity and safety to every Delawarean.
 Since being elected to the Delaware House in 2024, she has sponsored and passed laws protecting immigrants, making sure that Delawareans continue to have insurance coverage for preventative care and vaccines, preventing citizens arrests and vigilante justice, and prohibiting state funds being used for private prisons.
 She started her political career as a volunteer advocate, coming to the gun safety movement organically in 2015, shaken to her core by the massacre in Sandy Hook and by the amount of gun violence in the First State.
 She left her role as Moms Demand Action Chapter Lead in 2023 with a track record of helping candidates who supported safer gun laws win election and with a slew of those laws on the books including an assault weapons ban and a permit to purchase bill.
@@ -11,4 +10,9 @@ Mara is also a writer and a two-time fellow of the Delaware Division of the Arts
 She has demonstrated that commitment since taking office by joining the Arts Caucus and sponsoring bills to create a certificate in the arts for high school students and to explore the possibility of designating arts and culture districts throughout Delaware.
 She loves the Newark area and has lived with her husband Matt in the 8th District since 2003.
 Together they raised their two sons here; they grew up riding bikes to the neighborhood pool, playing in White Clay Creek State Park, and eating UDairy ice cream.
-Mara is a parent, a believer in democracy, and a joyful warrior who fights for a better Delaware.
+Mara is a parent, a believer in democracy, and a joyful warrior who fights for a better Delaware. “ Intention.
+Community.
+Joy.
+These are the three words that guide my work and my campaign. ” — Mara Gorman Mara is committed to the 8th District Will you commit to helping her be your voice in Dover?
+Donate now Stay in touch!
+Get Team Mara Updates Sign up About ‍ ‍ Contact ‍ Contribute ‍ ‍ ‍News Paid for by Friends of Mara Gorman To make a donation by check, please make it out to Friends of Mara Gorman and send it to 601 Webb Road, Newark, DE 19711 Copyright # @Mara for Delaware, All Rights Reserved Privacy Policy | Terms and Conditions

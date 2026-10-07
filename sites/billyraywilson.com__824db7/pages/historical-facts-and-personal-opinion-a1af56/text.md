@@ -1,4 +1,4 @@
-On the evening of May 14, 2026, ABC News and MS Now reported that during a diplomatic conversation between US President Donald John Trump and the President of the People’s Republic of China, the Chinese President warned President Trump not to interfere in the unification of the Republic of Taiwan and the People’s Republic of China.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Historical Facts and Personal Opinion / Blog Post / By Billy Ray Wilson On the evening of May 14, 2026, ABC News and MS Now reported that during a diplomatic conversation between US President Donald John Trump and the President of the People’s Republic of China, the Chinese President warned President Trump not to interfere in the unification of the Republic of Taiwan and the People’s Republic of China.
 Unfortunately, the Chinese President’s claim of sovereignty over the Republic of Taiwan is untrue.
 In fact, true history, which I researched and identified in my book, “The United States is My Birthplace, Home and Country,” shows that the ancient rulers of mainland China were never interested in the Islands of Formosa being part of the mainland.
 Yes, there were non-ruling entities of China that once held short periods of control over the Islands, but Formosa was never part of mainland China.
@@ -14,8 +14,7 @@ In fact, the United States government has agreed to sell Taiwan fourteen billion
 Previously, we addressed the warning by the President of the People’s Republic of China to President Trump that could lead to a nuclear World War III.
 Therefore, we the people of the international community, especially the United States, should demand a return to the vision of President Franklin D.
 Roosevelt and the international community’s establishment of the United Nations.
-Its goals were to “end the threat of another war, promote lasting peace through collective security, uphold human rights, and establish a cooperative international system that would guide global relations in the postwar era.”
-Sadly, in my opinion, since 1898, the United States and most Western governments became the administrators of a Hebrew Homeland in the land of Palestine.
+Its goals were to “end the threat of another war, promote lasting peace through collective security, uphold human rights, and establish a cooperative international system that would guide global relations in the postwar era.” Sadly, in my opinion, since 1898, the United States and most Western governments became the administrators of a Hebrew Homeland in the land of Palestine.
 These countries have allowed and assisted Hebrews in their quest for world domination to which, sadly, the United Nations has become a non-existent agent to resolve any of the aforementioned goals.
 Moreover, based on my research, a diplomatic solution would be for the international community to recognize the original homo species from the islands of Formosa (Taiwan), Indonesia, Philippines, Hawaii, South Pacific Islands, and New Zealand as the rightful sovereign owners of Taiwan/Formosa.
 This international legal action could resolve a probable World War III, force the United States to pay its debt to the United Nations, and return the United States to a Constitutional Republic.
@@ -25,5 +24,6 @@ The people of the world are the same.
 No “Chosen,” no dual loyalty, and no hyphenated US citizens, we are the same.
 The United States is a Constitutional Republic.
 Thank you.
-Billy Ray Wilson
-Defender of the US Constitution
+Billy Ray Wilson Defender of the US Constitution blog attachment ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

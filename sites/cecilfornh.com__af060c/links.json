@@ -1,10 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61565469591878",
-"https://forms.gle/uXzjMign5QhK48V8A",
-"https://instagram.com/cecilfornh",
-"https://secure.actblue.com/donate/cecil-abels-1",
-"https://secure.actblue.com/donate/cecil-abels-1?amount=10",
-"https://secure.actblue.com/donate/cecil-abels-1?amount=100",
-"https://secure.actblue.com/donate/cecil-abels-1?amount=25",
-"https://secure.actblue.com/donate/cecil-abels-1?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cecil-abels-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cecil-abels-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cecil-abels-1?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/cecil-abels-1?amount=50"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/cecil-abels-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61565469591878"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cecilfornh"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/cecil-abels-1"
+},
+{
+"text": "Sign me up",
+"href": "https://forms.gle/uXzjMign5QhK48V8A"
+},
+{
+"text": "Sign me up to volunteer",
+"href": "https://forms.gle/uXzjMign5QhK48V8A"
+},
+{
+"text": "cecil@cecilfornh.com",
+"href": "mailto:cecil@cecilfornh.com"
+}
 ]

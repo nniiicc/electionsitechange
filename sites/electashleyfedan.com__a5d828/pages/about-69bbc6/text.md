@@ -1,5 +1,4 @@
-About
-Born and raised in West Virginia, Ashley began her career at the Cleveland Clinic as a nurse in the cardiothoracic intensive care unit (ICU) in 1999.
+Home About Priorities Endorsements Get Involved Donate Home About Priorities Endorsements Get Involved Donate About Born and raised in West Virginia, Ashley began her career at the Cleveland Clinic as a nurse in the cardiothoracic intensive care unit (ICU) in 1999.
 She traveled across the country, where she continued working as an ICU nurse until 2007, when she attended graduate school in nurse anesthesiology.
 While working as a travel nurse, she specialized in critical care, with a cardiac focus, at several hospitals in the San Francisco and Seattle areas, including the University of Washington Medical Center and Harborview Medical Center.
 Dedicated to service, Ashley joined the Navy Nurse Corps in 2012 and served as a Lieutenant Commander in the Navy Reserve.
@@ -11,3 +10,4 @@ She is an active community member who advocates in Olympia with WSNA and other o
 Previously, Ashley served as chairwoman of the 28th LD Democrats.
 She currently lives in Fairwood with her husband and three rescue dogs.
 In her free time, Ashley enjoys reading non-fiction, hiking, knitting and cooking large meals for her family.
+Paid for by The Committee to Elect Ashley Fedan (D) PO Box 58532, Renton, WA 98058

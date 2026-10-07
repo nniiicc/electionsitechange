@@ -1,5 +1,5 @@
-Protecting Our Water is Personal
-Cape Cod is shaped by its waters.
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+All Articles Search Protecting Our Water is Personal clambton13 May 24 3 min read Cape Cod is shaped by its waters.
 They define how we live, how we work, how we raise our families, and how we understand home.
 For me, water is not an abstract policy issue.
 It’s a part of my life.
@@ -46,3 +46,4 @@ Not by corporations.
 Not by people who enjoy the benefits of this place but do not understand the burden our community carries to protect it.
 And certainly not by me!
 Our water is part of my responsibility, and protecting it is part of my job and my life.
+Recent Posts See All Retirement Should Not Mean Being Priced Out Workers and the Functioning of Our Towns Our Coastal Community Cannot Wait for the Next Storm SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

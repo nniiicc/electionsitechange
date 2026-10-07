@@ -1,27 +1,118 @@
 [
-"http://boldgrid.com/",
-"https://djt4ri.us/",
-"https://djt4ri.us/./news",
-"https://djt4ri.us/./politics",
-"https://djt4ri.us/about",
-"https://djt4ri.us/author/dana",
-"https://djt4ri.us/contact",
-"https://djt4ri.us/issues",
-"https://djt4ri.us/news",
-"https://djt4ri.us/privacy-policy",
-"https://djt4ri.us/schedule",
-"https://djt4ri.us/tag/2a",
-"https://djt4ri.us/tag/liberty",
-"https://djt4ri.us/tag/press-release",
-"https://djt4ri.us/tag/rhode-island",
-"https://djt4ri.us/tag/warwick",
-"https://djt4ri.us/traversie-announces-campaign-for-state-representative-launches-act-for-warwick-agenda-at-a-critical-moment",
-"https://djt4ri.us/traversie-statement-on-state-sanctioned-civil-rights-violation-in-rhode-island",
-"https://dreamhost.com/",
-"https://facebook.com/djt4ri",
-"https://instagram.com/djt4ri",
-"https://secure.winred.com/djt4ri/storefront",
-"https://secure.winred.com/djt4ri/support-today",
-"https://twitter.com/djt4ri",
-"https://vote.sos.ri.gov/"
+{
+"text": "2A",
+"href": "https://www.djt4ri.us/tag/2a/"
+},
+{
+"text": "About",
+"href": "https://www.djt4ri.us/about/"
+},
+{
+"text": "BoldGrid",
+"href": "http://boldgrid.com/"
+},
+{
+"text": "Contact",
+"href": "https://djt4ri.us/contact/"
+},
+{
+"text": "Contact",
+"href": "https://www.djt4ri.us/contact/"
+},
+{
+"text": "Dana",
+"href": "https://www.djt4ri.us/author/dana/"
+},
+{
+"text": "Dana James Traversie",
+"href": "https://www.djt4ri.us/"
+},
+{
+"text": "December 19, 2022",
+"href": "https://www.djt4ri.us/traversie-statement-on-state-sanctioned-civil-rights-violation-in-rhode-island/"
+},
+{
+"text": "DreamHost",
+"href": "https://www.dreamhost.com/"
+},
+{
+"text": "Events",
+"href": "https://www.djt4ri.us/schedule/"
+},
+{
+"text": "Home",
+"href": "https://www.djt4ri.us/"
+},
+{
+"text": "Issues",
+"href": "https://www.djt4ri.us/issues/"
+},
+{
+"text": "Liberty",
+"href": "https://www.djt4ri.us/tag/liberty/"
+},
+{
+"text": "Menu Item",
+"href": "https://twitter.com/djt4ri"
+},
+{
+"text": "Menu Item",
+"href": "https://www.facebook.com/djt4ri"
+},
+{
+"text": "Menu Item",
+"href": "https://www.instagram.com/djt4ri/"
+},
+{
+"text": "Menu Item",
+"href": "mailto:info@djt4ri.us"
+},
+{
+"text": "News",
+"href": "https://www.djt4ri.us/./news/"
+},
+{
+"text": "News",
+"href": "https://www.djt4ri.us/news/"
+},
+{
+"text": "Politics",
+"href": "https://www.djt4ri.us/./politics/"
+},
+{
+"text": "Press Release",
+"href": "https://www.djt4ri.us/tag/press-release/"
+},
+{
+"text": "Privacy",
+"href": "https://djt4ri.us/privacy-policy/"
+},
+{
+"text": "Rhode Island",
+"href": "https://www.djt4ri.us/tag/rhode-island/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/djt4ri/storefront"
+},
+{
+"text": "Support",
+"href": "https://secure.winred.com/djt4ri/support-today"
+},
+{
+"text": "Traversie Announces Campaign for State Representative, Launches “ACT for Warwick” Agenda at a Critical Moment →",
+"href": "https://www.djt4ri.us/traversie-announces-campaign-for-state-representative-launches-act-for-warwick-agenda-at-a-critical-moment/"
+},
+{
+"text": "Vote",
+"href": "https://vote.sos.ri.gov/"
+},
+{
+"text": "Warwick",
+"href": "https://www.djt4ri.us/tag/warwick/"
+},
+{
+"text": "[image: Dana James Traversie]",
+"href": "https://www.djt4ri.us/"
+}
 ]

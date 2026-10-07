@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.chipforsenate.com/on-the-issues",
- "paid_for_by": null,
+ "fingerprint": "56c91a11d0d9d183281e690cc67b2ea8b633c228",
+ "format": 3,
+ "paid_for_by": "sponsored by Chip Curry",
  "title": "ON THE ISSUES | Chip Campaign Site",
  "years_mentioned": [
-  "2017"
+  "1988",
+  "2017",
+  "2026"
  ]
 }

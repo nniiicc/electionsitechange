@@ -1,7 +1,30 @@
 [
-"https://anthonforidaho.com/",
-"https://anthonforidaho.com/about-kelly",
-"https://anthonforidaho.com/issues",
-"https://anthonforidaho.com/volunteer",
-"https://anthonforidaho.com/voting-record"
+{
+"text": "About Kelly",
+"href": "https://www.anthonforidaho.com/about-kelly"
+},
+{
+"text": "More About Kelly",
+"href": "https://www.anthonforidaho.com/about-kelly"
+},
+{
+"text": "On The Issues",
+"href": "https://www.anthonforidaho.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.anthonforidaho.com/volunteer"
+},
+{
+"text": "Voting Record",
+"href": "https://www.anthonforidaho.com/voting-record"
+},
+{
+"text": "[image: Anthon for Idaho]",
+"href": "https://www.anthonforidaho.com/"
+},
+{
+"text": "kelly@anthonforidaho.com",
+"href": "mailto:kelly@anthonforidaho.com"
+}
 ]

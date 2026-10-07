@@ -1,55 +1,218 @@
 [
-"https://alexandrahouse.org/",
-"https://americanbar.org/groups/young_lawyers",
-"https://business.mplschamber.com/list/member/regional-council-of-mayors-26045",
-"https://business.twincitiesnorth.org/events/details/columbia-heights-and-fridley-business-council-meeting-15110",
-"https://citizensleague.org/",
-"https://colheights.k12.mn.us/communityed/community-education/adultenrichment",
-"https://colheights.k12.mn.us/communityed/community-education/community-education-advisory-council",
-"https://colheights.k12.mn.us/district1/administrativedepartments/finance-operations",
-"https://columbiaheightslions.com/",
-"https://columbiaheightsmn.gov/community/humanitarian_of_the_year.php",
-"https://columbiaheightsmn.gov/departments/police/multi-cultural_advisory_committee.php",
-"https://columbiaheightsmn.gov/departments/police/programs_and_resources/departments/police/neighborhood_watch.php",
-"https://columbiaheightsmn.gov/departments/public_works/index.php",
-"https://columbiaheightsmn.gov/government/boards_and_commissions/economic_development_authority.php",
-"https://columbiaheightsmn.gov/government/sister_cities_committee/index.php",
-"https://columbiaheightsmn.gov/news_detail_T5_R23.php",
-"https://dfl.org/scc",
-"https://everymeal.org/",
-"https://facebook.com/mnsuperheroesunited",
-"https://facebook.com/voteamada",
-"https://fridleychrotary.org/",
-"https://girlscoutsrv.org/",
-"https://heightsnext.org/",
-"https://house.mn.gov/climateactioncaucus",
-"https://ilhanomar.com/",
-"https://instagram.com/amadaformnhouse",
-"https://latinoleadmn.org/",
-"https://lmc.org/",
-"https://lwv.org/",
-"https://mayorshungeralliance.org/members/amada-marquez-simula",
-"https://metrocouncil.org/",
-"https://metrotransit.org/network-next",
-"https://mn.gov/caapb/planning/rfp-cmdf",
-"https://nawbo.org/",
-"https://pacim.org/",
-"https://rccmn.co/bipoc-elected-leaders",
-"https://sacafoodshelf.org/",
-"https://socapglobal.com/events/spectrum21-virtual-color-of-money",
-"https://splcmn.org/",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/lawn-sign",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://youtube.com/@goodnewsincolumbiaheights4619"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Alexandra House",
+"href": "https://www.alexandrahouse.org/"
+},
+{
+"text": "American Bar Association (ABA) Young Lawyers Division",
+"href": "https://www.americanbar.org/groups/young_lawyers/"
+},
+{
+"text": "Amáda",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Cities for Safe and Stable Communities",
+"href": "https://www.columbiaheightsmn.gov/news_detail_T5_R23.php"
+},
+{
+"text": "City of Columbia Heights Public Works",
+"href": "https://www.columbiaheightsmn.gov/departments/public_works/index.php"
+},
+{
+"text": "Columbia Heights 2017 Humanitarian of the Year",
+"href": "https://www.columbiaheightsmn.gov/community/humanitarian_of_the_year.php"
+},
+{
+"text": "Columbia Heights Economic Development Authority",
+"href": "https://www.columbiaheightsmn.gov/government/boards_and_commissions/economic_development_authority.php"
+},
+{
+"text": "Columbia Heights Lions Club",
+"href": "https://www.columbiaheightslions.com/"
+},
+{
+"text": "Columbia Heights Multicultural Advisory Committee",
+"href": "https://www.columbiaheightsmn.gov/departments/police/multi-cultural_advisory_committee.php"
+},
+{
+"text": "Columbia Heights Neighborhood Watch",
+"href": "https://www.columbiaheightsmn.gov/departments/police/programs_and_resources/departments/police/neighborhood_watch.php"
+},
+{
+"text": "Columbia Heights Public School District Finance Committee",
+"href": "https://www.colheights.k12.mn.us/district1/administrativedepartments/finance-operations"
+},
+{
+"text": "Columbia Heights Public Schools Adult Enrichment & Senior Program",
+"href": "https://www.colheights.k12.mn.us/communityed/community-education/adultenrichment"
+},
+{
+"text": "Columbia Heights Public Schools Community Education Advisory Council",
+"href": "https://www.colheights.k12.mn.us/communityed/community-education/community-education-advisory-council"
+},
+{
+"text": "Columbia Heights Sister Cities",
+"href": "https://www.columbiaheightsmn.gov/government/sister_cities_committee/index.php"
+},
+{
+"text": "Columbia Heights and Fridley Business Council",
+"href": "https://business.twincitiesnorth.org/events/details/columbia-heights-and-fridley-business-council-meeting-15110"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "DFL State Central Committee",
+"href": "https://dfl.org/scc/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "Every Meal",
+"href": "https://www.everymeal.org/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Fridley-Columbia Heights Rotary Club",
+"href": "https://fridleychrotary.org/"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.voteamada.com/lawn-sign/"
+},
+{
+"text": "Girl Scouts River Valleys",
+"href": "https://www.girlscoutsrv.org/"
+},
+{
+"text": "Good News in Columbia Heights",
+"href": "https://www.youtube.com/@goodnewsincolumbiaheights4619"
+},
+{
+"text": "HeightsNEXT",
+"href": "https://heightsnext.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "LatinoLEAD",
+"href": "https://www.latinoleadmn.org/"
+},
+{
+"text": "League of Minnesota Cities",
+"href": "https://www.lmc.org/"
+},
+{
+"text": "League of Women Voters",
+"href": "https://www.lwv.org/"
+},
+{
+"text": "Mayors Alliance to End Childhood Hunger",
+"href": "https://mayorshungeralliance.org/members/amada-marquez-simula/"
+},
+{
+"text": "Metro Transit Network Next",
+"href": "https://www.metrotransit.org/network-next"
+},
+{
+"text": "Minnesota BIPOC Elected Leaders",
+"href": "https://rccmn.co/bipoc-elected-leaders/"
+},
+{
+"text": "Minnesota Capitol Mall redevelopment project",
+"href": "https://mn.gov/caapb/planning/rfp-cmdf/"
+},
+{
+"text": "Minnesota House Climate Action Caucus",
+"href": "https://www.house.mn.gov/climateactioncaucus/"
+},
+{
+"text": "Minnesota Metropolitan Council",
+"href": "https://metrocouncil.org/"
+},
+{
+"text": "Minnesota Superheroes United",
+"href": "https://www.facebook.com/mnsuperheroesunited/"
+},
+{
+"text": "National Association of Women Business Owners (NAWBO)",
+"href": "https://nawbo.org/"
+},
+{
+"text": "Polish American Cultural Institute of Minnesota (PACIM)",
+"href": "https://pacim.org/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "Regional Council of Mayors",
+"href": "https://business.mplschamber.com/list/member/regional-council-of-mayors-26045"
+},
+{
+"text": "Representative Ilhan Omar",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "SACA",
+"href": "https://sacafoodshelf.org/"
+},
+{
+"text": "Social Capital Markets (SOCAP) Spectrum21",
+"href": "https://socapglobal.com/events/spectrum21-virtual-color-of-money/"
+},
+{
+"text": "St. Philip’s Church",
+"href": "https://splcmn.org/"
+},
+{
+"text": "The Citizens League",
+"href": "https://citizensleague.org/"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+}
 ]

@@ -1,10 +1,5 @@
-A Voice for Safer Communities, Strong Families, and Colorado Freedoms
-I'm Adriana Cuva, and I am running for Colorado House District 18 because Colorado deserves safer communities, a lower cost of living, and a leader who will stand up for your freedoms.
-As a proud Army wife of 30 years, an Air Force mom, and a former middle school teacher, I understand the value of hard work, service, and strong communities.
+top of page HOME Meet Adriana Issues Contact Events DONATE A Voice for Safer Communities, Strong Families, and Colorado Freedoms I'm Adriana Cuva, and I am running for Colorado House District 18 because Colorado deserves safer communities, a lower cost of living, and a leader who will stand up for your freedoms. ​ As a proud Army wife of 30 years, an Air Force mom, and a former middle school teacher, I understand the value of hard work, service, and strong communities.
 Those experiences have shaped my commitment to standing up for families, protecting our children, and bringing common-sense leadership back to the Capitol.
-Across our district, I have heard the concerns of parents, seniors, and working families who are struggling with rising costs, growing crime, and endless fees, regulations, and policies that make life more difficult.
-As your House District Representative, I will fight for safer neighborhoods, greater affordability, and protect your freedom to thrive.
-My commitment is to foster an economy where your efforts are rewarded, safety is a priority, and living in a beautiful state remains within reach.
+Across our district, I have heard the concerns of parents, seniors, and working families who are struggling with rising costs, growing crime, and endless fees, regulations, and policies that make life more difficult. ​ As your House District Representative, I will fight for safer neighborhoods, greater affordability, and protect your freedom to thrive. ​ My commitment is to foster an economy where your efforts are rewarded, safety is a priority, and living in a beautiful state remains within reach.
 My approach is guided by a simple principle: listen first, lead with honesty, and always stay focused on the people you serve.
-Join the
-Movement
+Join the Movement DONATE Privacy Policy Meet Adriana Issues Contact Events Paid for by Cuva for Colorado, Registered Agent Adriana Cuva (719) 644-6524 adrianaforhd18@gmail.com © # All Rights Reserved. bottom of page

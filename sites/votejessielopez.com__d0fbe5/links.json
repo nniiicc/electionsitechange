@@ -1,33 +1,242 @@
 [
-"http://facebook.com/votejessielopez",
-"http://instagram.com/councilmember_jessielopez",
-"http://votejessielopez.com/about-jessie-lopez",
-"http://votejessielopez.com/endorsements",
-"https://actionnetwork.org/forms/jlo-newsletter?clear_id=true",
-"https://actionnetwork.org/forms/volunteer-with-jessie-lopez-for-state-assembly?clear_id=true",
-"https://facebook.com/VoteJessieLopez",
-"https://flickr.com/photos/110608414@N07/albums/72177720332617288",
-"https://instagram.com/councilmember_jessielopez",
-"https://secure.actblue.com/donate/votejessielopez",
-"https://votejessielopez.com/",
-"https://votejessielopez.com/about-jessie-lopez",
-"https://votejessielopez.com/candidate-statement",
-"https://votejessielopez.com/contact",
-"https://votejessielopez.com/endorsements",
-"https://votejessielopez.com/jessie-lopez-for-state-assembly-accomplishments-santa-ana-city-council",
-"https://votejessielopez.com/media",
-"https://votejessielopez.com/mobile-terms-of-service",
-"https://votejessielopez.com/news",
-"https://votejessielopez.com/news/as-electricity-costs-rise-jessie-lopez-raises-questions-about-edisons-political-spending",
-"https://votejessielopez.com/news/jessie-lopez-and-the-false-600-raise-claim-what-measure-ff-actually-did",
-"https://votejessielopez.com/news/jessie-lopez-does-not-have-to-pay-her-former-landlord-35000",
-"https://votejessielopez.com/news/politico-crypto-cash-grow-california-and-the-ad-68-race",
-"https://votejessielopez.com/news/politico-the-trouble-with-tech-pacs-assembly-district-68",
-"https://votejessielopez.com/news/residents-across-oc-increasingly-push-back-on-flock-cameras",
-"https://votejessielopez.com/privacy-policy-2",
-"https://votejessielopez.com/vote",
-"https://votejessielopez.org/lawnsign",
-"https://votejessielopez.us/newsletter",
-"https://votejessielopez.us/volunteer",
-"https://x.com/VoteJessieLopez"
+{
+"text": "About",
+"href": "https://www.votejessielopez.com/about-jessie-lopez/"
+},
+{
+"text": "About Jessie",
+"href": "http://www.votejessielopez.com/about-jessie-lopez"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.votejessielopez.com/jessie-lopez-for-state-assembly-accomplishments-santa-ana-city-council/"
+},
+{
+"text": "As Electricity Costs Rise, Questions Rise About Edison’s Political Spending",
+"href": "https://www.votejessielopez.com/news/as-electricity-costs-rise-jessie-lopez-raises-questions-about-edisons-political-spending/"
+},
+{
+"text": "Candidate Statement",
+"href": "https://www.votejessielopez.com/candidate-statement/"
+},
+{
+"text": "Contact",
+"href": "https://www.votejessielopez.com/contact/"
+},
+{
+"text": "Crypto Billionaire-Backed PAC Grow California Pours Millions Into AD-68 Race",
+"href": "https://www.votejessielopez.com/news/crypto-billionaire-backed-pac-grow-california-pours-millions-into-ad-68-race/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votejessielopez"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.actblue.com/donate/votejessielopez"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/votejessielopez"
+},
+{
+"text": "Edison, Sempra, and PG&E Spend Big on Mailers in AD-68",
+"href": "https://www.votejessielopez.com/news/edison-sempra-and-pge-spend-big-on-mailers-in-ad-68/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejessielopez.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/votejessielopez"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteJessieLopez"
+},
+{
+"text": "Get Involved",
+"href": "https://actionnetwork.org/forms/volunteer-with-jessie-lopez-for-state-assembly?clear_id=true"
+},
+{
+"text": "Get Involved!",
+"href": "https://votejessielopez.us/volunteer"
+},
+{
+"text": "Instagram",
+"href": "http://www.instagram.com/councilmember_jessielopez"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/councilmember_jessielopez"
+},
+{
+"text": "Jessie Lopez Does Not Have To Pay Her Former Landlord $35,000",
+"href": "https://www.votejessielopez.com/news/jessie-lopez-does-not-have-to-pay-her-former-landlord-35000/"
+},
+{
+"text": "Jessie Lopez and the False 600% Raise Claim: What Measure FF Actually Did",
+"href": "https://www.votejessielopez.com/news/jessie-lopez-and-the-false-600-raise-claim-what-measure-ff-actually-did/"
+},
+{
+"text": "Media",
+"href": "https://www.votejessielopez.com/media/"
+},
+{
+"text": "Meet Jessie Lopez",
+"href": "https://www.votejessielopez.com/about-jessie-lopez"
+},
+{
+"text": "Mobile Terms of Service",
+"href": "https://www.votejessielopez.com/mobile-terms-of-service/"
+},
+{
+"text": "More About Jessie",
+"href": "http://www.votejessielopez.com/about-jessie-lopez"
+},
+{
+"text": "News",
+"href": "https://votejessielopez.com/#news"
+},
+{
+"text": "News",
+"href": "https://votejessielopez.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://flickr.com/photos/110608414@N07/albums/72177720332617288"
+},
+{
+"text": "Politico: Crypto Cash, Grow California, and the AD-68 Race",
+"href": "https://www.votejessielopez.com/news/politico-crypto-cash-grow-california-and-the-ad-68-race/"
+},
+{
+"text": "Politico: The Climate Races to Watch Ahead of Election Day",
+"href": "https://www.votejessielopez.com/news/politico-the-climate-races-to-watch-ahead-of-election-day/"
+},
+{
+"text": "Politico: The Trouble With Tech PACs",
+"href": "https://www.votejessielopez.com/news/politico-the-trouble-with-tech-pacs-assembly-district-68/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejessielopez.com/privacy-policy-2/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/as-electricity-costs-rise-jessie-lopez-raises-questions-about-edisons-political-spending/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/crypto-billionaire-backed-pac-grow-california-pours-millions-into-ad-68-race/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/edison-sempra-and-pge-spend-big-on-mailers-in-ad-68/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/jessie-lopez-and-the-false-600-raise-claim-what-measure-ff-actually-did/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/jessie-lopez-does-not-have-to-pay-her-former-landlord-35000/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/politico-crypto-cash-grow-california-and-the-ad-68-race/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/politico-the-climate-races-to-watch-ahead-of-election-day/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/politico-the-trouble-with-tech-pacs-assembly-district-68/"
+},
+{
+"text": "Read More »",
+"href": "https://www.votejessielopez.com/news/residents-across-oc-increasingly-push-back-on-flock-cameras/"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://votejessielopez.org/lawnsign"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.votejessielopez.org/lawnsign"
+},
+{
+"text": "Residents Across OC Increasingly Push Back on Flock Cameras",
+"href": "https://www.votejessielopez.com/news/residents-across-oc-increasingly-push-back-on-flock-cameras/"
+},
+{
+"text": "Subscribe",
+"href": "https://actionnetwork.org/forms/jlo-newsletter?clear_id=true"
+},
+{
+"text": "Subscribe",
+"href": "https://votejessielopez.us/newsletter"
+},
+{
+"text": "View Full List",
+"href": "http://www.votejessielopez.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://votejessielopez.us/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votejessielopez.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/VoteJessieLopez"
+},
+{
+"text": "[image: A mailer showing Jessie Lopez in leather highlighting her pay.]",
+"href": "https://www.votejessielopez.com/news/jessie-lopez-and-the-false-600-raise-claim-what-measure-ff-actually-did/"
+},
+{
+"text": "[image: A mailer with a \"false\" stamp across it depicting Jessie Lopez as the houseguest from hell.]",
+"href": "https://www.votejessielopez.com/news/jessie-lopez-does-not-have-to-pay-her-former-landlord-35000/"
+},
+{
+"text": "[image: A married senior citizen couple looking distressed as they read two bills in their kitchen.]",
+"href": "https://www.votejessielopez.com/news/as-electricity-costs-rise-jessie-lopez-raises-questions-about-edisons-political-spending/"
+},
+{
+"text": "[image: An oil derrick on flat land in front of a smoggy sky with money overlaid.]",
+"href": "https://www.votejessielopez.com/news/politico-the-climate-races-to-watch-ahead-of-election-day/"
+},
+{
+"text": "[image: Jessie Lopez Logo showing text and California with a star on District 68.]",
+"href": "https://www.votejessielopez.com"
+},
+{
+"text": "[image: Jessie Lopez speaking into a microphone in front of individuals holding anti-Flock signs.]",
+"href": "https://www.votejessielopez.com/news/residents-across-oc-increasingly-push-back-on-flock-cameras/"
+},
+{
+"text": "[image: Looking up at the California Capitol building with money in the sky.]",
+"href": "https://www.votejessielopez.com/news/politico-crypto-cash-grow-california-and-the-ad-68-race/"
+},
+{
+"text": "[image: Looking up at the Sacramento Capitol building over a blue sky.]",
+"href": "https://www.votejessielopez.com/news/politico-the-trouble-with-tech-pacs-assembly-district-68/"
+},
+{
+"text": "[image: The disclaimer section of a mailer sent to AD-68 residents.]",
+"href": "https://www.votejessielopez.com/news/edison-sempra-and-pge-spend-big-on-mailers-in-ad-68/"
+},
+{
+"text": "[image: Tim Draper in a suit in front of a money/Bitcoin background.]",
+"href": "https://www.votejessielopez.com/news/crypto-billionaire-backed-pac-grow-california-pours-millions-into-ad-68-race/"
+},
+{
+"text": "contact@votejessielopez.com",
+"href": "mailto:contact@votejessielopez.com"
+}
 ]

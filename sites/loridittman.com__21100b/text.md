@@ -1,12 +1,10 @@
-Teaching West Virginia's History
-Shaping West Virginia's Future.
-Let's Make a Difference
-ABOUT ME
-Putting My Experience
-to Work
-When Lori learned of Delegate Boggs’ retirement from the House of Delegates, she was approached by several community members about running for the House.
+top of page Home About Priorities Get Involved Gallery Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Log In Teaching West Virginia's History Shaping West Virginia's Future.
+Let's Make a Difference ABOUT ME Putting My Experience to Work W hen Lori learned of Delegate Boggs’ retirement from the House of Delegates, she was approached by several community members about running for the House.
 She has a passion for West Virginia, and she loves central West Virginia.
 Lori feels representing the 63rd District is a wonderful opportunity to represent the citizens, help make a positive change, and see our area and state flourish.
-In May of 2019,
-the graduating class of 2019, invited Lori to speak at their commencement.
+In May of 2019, ​ the graduating class of 2019, invited Lori to speak at their commencement.
 One of the quotes she shared with them was by John Wesley, "Do all the good you can, by all the means you can, in all the ways you can, in all the places you can, at all the times you can, to all the people you can, as long as ever you can." That is what she intends to do for the people she would have the honor to represent.
+Keep reading START CHANGING Support Our Cause DONATE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from Lori!
+SUBSCRIBE Thanks for submitting!
+ENDORSEMENTS West Virginia Farm PAC West Virginians for Life West Virginians for Manufacturing Jobs West Virginia Hospital PAC Home About Me Events Get Involved Contact Paid for by the Committee to Elect Lori Cowger Dittman to House of Delegates ​ (304) 701-8600 DittmanforHouse@gmail.com ​ bottom of page

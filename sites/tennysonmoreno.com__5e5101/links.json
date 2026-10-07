@@ -1,20 +1,78 @@
 [
-"https://facebook.com/profile.php?id=100076119588911&mibextid=LQQJ4d",
-"https://instagram.com/tennysonmorenotx",
-"https://secure.winred.com/tennyson-moreno-campaign/donate-today",
-"https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=100",
-"https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=25",
-"https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=250",
-"https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=50",
-"https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=500",
-"https://tennysonmoreno.com/",
-"https://tennysonmoreno.com/cart",
-"https://tennysonmoreno.com/contact",
-"https://tennysonmoreno.com/get-involved",
-"https://tennysonmoreno.com/hd-45",
-"https://tennysonmoreno.com/issues",
-"https://tennysonmoreno.com/meet-tennyson",
-"https://tennysonmoreno.com/privacy",
-"https://tiktok.com/@tennysonmorenotx",
-"https://x.com/tennysonmoreno"
+{
+"text": "$100",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.tennysonmoreno.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.tennysonmoreno.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tennysonmoreno.com/get-involved"
+},
+{
+"text": "HD 45",
+"href": "https://www.tennysonmoreno.com/hd-45"
+},
+{
+"text": "Issues",
+"href": "https://www.tennysonmoreno.com/issues"
+},
+{
+"text": "Meet Tennyson",
+"href": "https://www.tennysonmoreno.com/meet-tennyson"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/tennyson-moreno-campaign/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tennysonmoreno.com/privacy"
+},
+{
+"text": "[image: Tennyson Moreno For Texas House of Representatives]",
+"href": "https://www.tennysonmoreno.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100076119588911&mibextid=LQQJ4d"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tennysonmorenotx/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@tennysonmorenotx"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tennysonmoreno"
+}
 ]

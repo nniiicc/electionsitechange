@@ -1,4 +1,4 @@
-I'm Amy Thompson, and as a Democrat in Franklin County, I know what it is like to have my voice ignored by those who are supposed to represent me.
+About Amy Issues Get Involved Events Donate Now Home About Amy Issues Get Involved Events Donate Now About Amy Thompson I'm Amy Thompson, and as a Democrat in Franklin County, I know what it is like to have my voice ignored by those who are supposed to represent me.
 If elected, I will be a voice for the unheard citizens of District 119.
 Whether or not we agree on an issue, I want to understand what is important to you in order to improve the circumstances for us all.
 I have seen many elections over my past 25 years as a resident of Franklin County where often my choices were the Republican or no one.
@@ -11,3 +11,5 @@ For the next six years I first taught and then worked as a nanny.
 Living in places as diverse as the Sandhills of Nebraska where I was sixty miles from a town with a grocery store to Stamford Connecticut where I was 40 miles from New York City gave me the adventures I was seeking.
 It was a teaching job that brought me to Franklin County where I have lived since 1998.
 It was here that I met my husband of 18 years, Graden, and have built my life.
+Donate Now Make a Donation Volunteer Now Attend an Event Join my campaign here.
+Support Amy Thompson’s Campaign for Missouri Donate Now Thompson For 119 PO Box 101, Pacific, MO 63069 tel:(314) 520-6076 | thompsonfor119@gmail.com Rob Compton, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

@@ -1,4 +1,4 @@
-Jason Barrett was born and raised in Martinsburg, West Virginia, and now resides there with his wife Summer, their son Berkeley, their daughter Vandalia, and their dog Winnie.
+Skip to content Jason Barrett About District 16 Issues News Media Contact Donate About Jason Barrett was born and raised in Martinsburg, West Virginia, and now resides there with his wife Summer, their son Berkeley, their daughter Vandalia, and their dog Winnie.
 Jason graduated from Martinsburg High School and then attended Shepherd University before joining his father’s small business.
 Since then, Jason has made a career as a small business owner, with multiple businesses in the Eastern Panhandle area.
 Jason is a Republican member of the West Virginia State Senate.
@@ -8,3 +8,6 @@ Jason currently serves as the Senate Finance Chairman.
 He also serves as a member of the following committees: Economic Development, Government Organization, Banking and Insurance, and Pensions.
 Jason has always been very involved in the local Eastern Panhandle community, spending time serving on the boards of the Eastern Panhandle Empowerment Center – where he was board president, and the Eastern Regional Airport Authority.
 Jason is a devoted member of the Martinsburg Elks Lodge #778.
+Share Categories News Recent Posts 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Latest News 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Berkeley County’s Sen.
+Barrett to chair West Virginia Senate finance committee Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Donate Paid for by Friends of Jason Barrett Powered By Push Digital Jason Barrett © #

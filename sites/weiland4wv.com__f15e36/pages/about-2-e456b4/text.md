@@ -1,5 +1,4 @@
-about me
-My Roots Run Deep in District 17 – I’m an 8th generation West Virginian and native of my district.
+Skip to content HOME About Get Involved Donate Contact Upcoming Events Upcoming Events HOME About Get Involved Donate Contact about me My Roots Run Deep in District 17 – I’m an 8th generation West Virginian and native of my district.
 I graduated from Wahama High School, and went on to Marshall University earning my Bachelor’s and Master’s in Secondary Education and Education Leadership Studies, respectively.
 Our Dad began working when he was 14 to help support his family and was the first ever in his family to graduate from high school.
 He then went on to retire as a GS-13 from the United States Department of Agriculture, we learned the value of a hard day’s work from him.
@@ -13,3 +12,7 @@ He grew up poor during the Depression and he never forgot where he came from.
 He fought for working families because he’d been one himself.
 He was the person who first sparked my interest in government and politics and we were fortunate enough to serve as Senate Pages for his friend Senator Bob Dittmar.
 I’ve been around West Virginia politics and government my entire life.
+KAT WEILAND FOR WEST VIRGINIA P.O.
+BOX 173 NEW HAVEN, WV 25265 ©# – PAID FOR BY THE CANDIDATE – ALL RIGHTS RESERVED Home About Donate Contact Get Involved Love Nature by Tyler Moore Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

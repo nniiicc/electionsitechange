@@ -1,9 +1,7 @@
-Best for Brentwood
-• Candidate Statement
-• Endorsements
-“Representing our town has been my highest priority and I’ve embraced this role in every way that I can.”
-My Candidate Statement
-It has been my great pleasure and pride to represent Brentwood in the N.H.
+0 Skip to Content Home Why Eric?
+Eric in Action Issues Voter Info Contact DONATE Open Menu Close Menu Home Why Eric?
+Eric in Action Issues Voter Info Contact DONATE Open Menu Close Menu Home Why Eric?
+Eric in Action Issues Voter Info Contact DONATE Best for Brentwood • Candidate Statement • Endorsements “Representing our town has been my highest priority and I’ve embraced this role in every way that I can.” My Candidate Statement It has been my great pleasure and pride to represent Brentwood in the N.H.
 State House for these past two years, and I’m asking for your vote to continue serving our community for another term.
 I believe I’ve been successful in my pledge to provide better representation for Brentwood in Concord, and in my promise to put sound policy before politics.
 I never missed a vote on the House floor, or in my Committee (Judiciary).
@@ -28,3 +26,4 @@ Those who know me will attest that I cherish alternate views and dialog on issue
 You will have a clear choice this election and I will gladly discuss any ideas or answer any questions that will help you choose wisely in November.
 I will do everything possible to assure that Brentwood’s representation keeps our town and state moving forward.
 I hope to earn your support.
+Eric is endorsed by: Home ‍ ‍ Why Eric ‍ ‍ Eric in Action ‍ ‍ Issues ‍ ‍ Voter Info ‍ ‍ Contact ‍ ‍ Get a Yard Sign State Representative for Rockingham District 6 Paid for by The Committee to Elect Eric Turer, Roger Goun - Fiscal Agent

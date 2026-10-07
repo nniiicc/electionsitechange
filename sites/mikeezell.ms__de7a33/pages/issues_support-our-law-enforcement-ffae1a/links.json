@@ -1,18 +1,102 @@
 [
-"https://facebook.com/MikeEzellMS",
-"https://instagram.com/MikeEzellMS",
-"https://mikeezell.ms/",
-"https://mikeezell.ms/about",
-"https://mikeezell.ms/home",
-"https://mikeezell.ms/issues/protect-our-unborn-children",
-"https://mikeezell.ms/issues/secure-our-southern-border",
-"https://mikeezell.ms/privacy-policy",
-"https://mikeezell.ms/yard-sign",
-"https://secure.winred.com/mike-ezell/donate",
-"https://secure.winred.com/mike-ezell/donate?amount=10",
-"https://secure.winred.com/mike-ezell/donate?amount=100",
-"https://secure.winred.com/mike-ezell/donate?amount=25",
-"https://secure.winred.com/mike-ezell/donate?amount=250",
-"https://secure.winred.com/mike-ezell/donate?amount=other",
-"https://twitter.com/MikeEzellMS"
+{
+"text": "$10",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=10"
+},
+{
+"text": "$10",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=100"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=10"
+},
+{
+"text": "About",
+"href": "https://www.mikeezell.ms/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-ezell/donate"
+},
+{
+"text": "Home",
+"href": "https://www.mikeezell.ms/"
+},
+{
+"text": "Issues",
+"href": "https://www.mikeezell.ms/home#Issues"
+},
+{
+"text": "KEEP SOUTH MISSISSIPPI RED! CHIP IN $10 TODAY!",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=10"
+},
+{
+"text": "News",
+"href": "https://www.mikeezell.ms/home#News"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikeezell.ms/privacy-policy"
+},
+{
+"text": "Secure Our Southern Border →",
+"href": "https://www.mikeezell.ms/issues/secure-our-southern-border"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.mikeezell.ms/yard-sign"
+},
+{
+"text": "[image: Trump Endorsed Mike Ezell for Congress]",
+"href": "https://www.mikeezell.ms/"
+},
+{
+"text": "[image]",
+"href": "https://www.mikeezell.ms/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@MikeEzell.ms"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@mikeezell.ms"
+},
+{
+"text": "← Protect Our Unborn Children",
+"href": "https://www.mikeezell.ms/issues/protect-our-unborn-children"
+}
 ]

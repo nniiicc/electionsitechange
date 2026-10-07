@@ -1,14 +1,7 @@
-Property tax levy limit could devastate some N.C. budgets
-Sen.
-Dan Blue voted in favor of placing the amendment on the ballot, citing concerns about gentrification in downtown Raleigh.
-Sen.
-Dan Blue, D-Wake, noted that if this new law passes, Mecklenburg County will have about 40% more prosecutors than Wake County.
-Senate Republican supermajority has once again demonstrated its disregard for the urgent issues facing North Carolinians.
-Senator Dan Blue and other Democratic lawmakers are advocating for a constitutional amendment to enhance transparency in North Carolina’s public records laws.
-Gov.
-Roy Cooper vetoed a GOP bill that would restructure election boards and change how their members are appointed.
-Gov.
-Roy Cooper is likely to veto the 12-Week abortion ban if it gets to his desk, but the state legislature has a Republican veto-proof majority.
-Senate Bill 20 clears the State Senate, and with the NC Senate now approving a 12-week abortion ban, the GOP super-majority will be tested.
-North Carolina’s state Senate passed Senate Bill 743, which would exempt the UNC Health Care system from federal and state antitrust laws.
-NC Democratic legislators proposed a bill called the “Mickey’s Freedom Restoration Act” that would fund a study commission to develop a plan to attract family amusement parks to the state.
+DONATE TODAY Support Senator Blue’s Campaign with a donation of any amount × Dialog window Connect with Senator Blue for the latest updates!
+Notice: JavaScript is required for this content.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Bills Property tax levy limit could devastate some N.C. budgets Jun 1, 2026 | Bills , News , Sourced Sen.
+Dan Blue voted in favor of placing the amendment on the ballot, citing concerns about gentrification in downtown Raleigh. read more Blue questions unequal prosecutor distribution in new legislation Sep 30, 2025 | Bills , News , Sourced Sen.
+Dan Blue, D-Wake, noted that if this new law passes, Mecklenburg County will have about 40% more prosecutors than Wake County. read more Republican Supermajority Blocks Crucial Amendments to Combat Youth Substance Abuse and Support Mental Health Jun 25, 2024 | Bills , News Senate Republican supermajority has once again demonstrated its disregard for the urgent issues facing North Carolinians. read more Democratic Leaders Push for Public Records Transparency with New Bill Jun 11, 2024 | Bills , News , Sourced Senator Dan Blue and other Democratic lawmakers are advocating for a constitutional amendment to enhance transparency in North Carolina’s public records laws. read more Cooper vetoes GOP bill shifting appointment power over election boards to legislature Oct 2, 2023 | Bills , Sourced Gov.
+Roy Cooper vetoed a GOP bill that would restructure election boards and change how their members are appointed. read more NC Legislature Passes 12-Week Abortion Ban May 7, 2023 | Bills , Sourced Gov.
+Roy Cooper is likely to veto the 12-Week abortion ban if it gets to his desk, but the state legislature has a Republican veto-proof majority. read more NC Abortion Bill Clears the State Senate May 6, 2023 | Bills , Sourced Senate Bill 20 clears the State Senate, and with the NC Senate now approving a 12-week abortion ban, the GOP super-majority will be tested. read more Senate Bill 743 would take UNC hospitals out of antitrust laws May 4, 2023 | Bills , News , Sourced North Carolina’s state Senate passed Senate Bill 743, which would exempt the UNC Health Care system from federal and state antitrust laws. read more NC Democratic Legislators Propose “Mickey’s Freedom Restoration Act” Bill Apr 21, 2023 | Bills , Sourced NC Democratic legislators proposed a bill called the “Mickey’s Freedom Restoration Act” that would fund a study commission to develop a plan to attract family amusement parks to the state. read more Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

@@ -1,32 +1,150 @@
 [
-"http://nxtgenagency.com/",
-"https://alexforwi.com/",
-"https://alexforwi.com/accessibility",
-"https://alexforwi.com/brand-toolkit",
-"https://alexforwi.com/contact",
-"https://alexforwi.com/jobs",
-"https://alexforwi.com/media-kit",
-"https://alexforwi.com/meet-alex",
-"https://alexforwi.com/news",
-"https://alexforwi.com/photos",
-"https://alexforwi.com/privacy-policy",
-"https://alexforwi.com/solutions",
-"https://alexforwi.com/volunteer",
-"https://alexforwi.com/vote",
-"https://facebook.com/alexforwi",
-"https://facebook.com/alexforwi/events",
-"https://instagram.com/alexforwi",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Military-Overseas-Voters/Military-Voters",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/Track-My-Ballot",
-"https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail",
-"https://myvote.wi.gov/en-us/Whats-On-My-Ballot",
-"https://myvote.wi.gov/es-es/Inicio/a/w",
-"https://secure.actblue.com/donate/joersreelection",
-"https://secure.actblue.com/donate/joersreelection?amount=10",
-"https://secure.actblue.com/donate/joersreelection?amount=100",
-"https://secure.actblue.com/donate/joersreelection?amount=15",
-"https://secure.actblue.com/donate/joersreelection?amount=5",
-"https://secure.actblue.com/donate/joersreelection?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=15"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/joersreelection?amount=50"
+},
+{
+"text": "ABOUT ALEX JOERS",
+"href": "https://www.alexforwi.com/meet-alex"
+},
+{
+"text": "Accessibility",
+"href": "https://www.alexforwi.com/accessibility"
+},
+{
+"text": "Brand Tool Kit",
+"href": "https://www.alexforwi.com/brand-toolkit"
+},
+{
+"text": "Contact",
+"href": "https://www.alexforwi.com/contact"
+},
+{
+"text": "District 81",
+"href": "https://www.alexforwi.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joersreelection"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/alexforwi/events"
+},
+{
+"text": "GUÍA PARA VOTAR",
+"href": "https://myvote.wi.gov/es-es/Inicio/a/w"
+},
+{
+"text": "Home",
+"href": "https://www.alexforwi.com"
+},
+{
+"text": "Jobs",
+"href": "https://www.alexforwi.com/jobs"
+},
+{
+"text": "MILITARY VOTERS",
+"href": "https://myvote.wi.gov/en-us/Military-Overseas-Voters/Military-Voters"
+},
+{
+"text": "Media Kit",
+"href": "https://www.alexforwi.com/media-kit"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexforwi.com/meet-alex"
+},
+{
+"text": "News",
+"href": "https://www.alexforwi.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/joersreelection"
+},
+{
+"text": "Photos",
+"href": "https://www.alexforwi.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.alexforwi.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "SAMPLE BALLOT",
+"href": "https://myvote.wi.gov/en-us/Whats-On-My-Ballot"
+},
+{
+"text": "Sign up to volunteer and request a yard sign →",
+"href": "https://www.alexforwi.com/volunteer"
+},
+{
+"text": "Solutions",
+"href": "https://www.alexforwi.com/solutions"
+},
+{
+"text": "TRACK YOUR BALLOT",
+"href": "https://myvote.wi.gov/en-us/Track-My-Ballot"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.alexforwi.com/volunteer"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+},
+{
+"text": "VOTING LOCATIONS",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Volunteer & Yard Signs",
+"href": "https://www.alexforwi.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.alexforwi.com/vote"
+},
+{
+"text": "Website Made by NXTGEN Agency",
+"href": "http://nxtgenagency.com"
+},
+{
+"text": "[image: Logo on Dark No Background.png]",
+"href": "https://www.alexforwi.com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.facebook.com/alexforwi"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.instagram.com/alexforwi/"
+},
+{
+"text": "alexforwi@gmail.com",
+"href": "mailto:info@alexforwi.com"
+}
 ]

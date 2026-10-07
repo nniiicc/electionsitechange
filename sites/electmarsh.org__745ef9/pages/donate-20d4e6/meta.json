@@ -1,7 +1,9 @@
 {
  "description": "Donate",
  "final_url": "https://www.electmarsh.org/donate",
- "paid_for_by": null,
+ "fingerprint": "0406324224e3a57db56825129edc9c51d61d5f47",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MARSH for MI - Donate",
  "years_mentioned": []
 }

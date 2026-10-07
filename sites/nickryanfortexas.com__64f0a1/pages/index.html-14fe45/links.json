@@ -1,7 +1,34 @@
 [
-"https://nickryanfortexas.com/issues.html",
-"https://nickryanfortexas.com/privacy.html",
-"https://nickryanfortexas.com/story",
-"https://nickryanfortexas.com/story.html",
-"https://nickryanfortexas.com/volunteer.html"
+{
+"text": "Issues",
+"href": "https://nickryanfortexas.com/issues.html#issues-page"
+},
+{
+"text": "Meet Nicholas Ryan",
+"href": "https://nickryanfortexas.com/story"
+},
+{
+"text": "Meet Nicholas Ryan",
+"href": "https://nickryanfortexas.com/story.html"
+},
+{
+"text": "Meet Nicholas Ryan",
+"href": "https://nickryanfortexas.com/story.html#story-page"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nickryanfortexas.com/privacy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://nickryanfortexas.com/volunteer.html#volunteer-page"
+},
+{
+"text": "Where Nicholas Ryan Stands On The Issues",
+"href": "https://nickryanfortexas.com/issues.html"
+},
+{
+"text": "nick@nickryanfortexas.com",
+"href": "mailto:nick@nickryanfortexas.com"
+}
 ]

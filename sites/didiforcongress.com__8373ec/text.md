@@ -1,19 +1,11 @@
-NDIDIAMAKA "DIDI" OKPAREKE
-MOTHER, BUSINESS OWNER, LEADER.
-WORKING FOR
-NEW MEXICO
-AFFORDABLE, ACCESSIBLE HEALTHCARE
-As a pharmacist, Didi has spent her career on the front lines of our healthcare system.
+top of page GET INVOLVED DONATE NDIDIAMAKA "DIDI" OKPAREKE MOTHER, BUSINESS OWNER, LEADER.
+WORKING FOR NEW MEXICO AFFORDABLE, ACCESSIBLE HEALTHCARE As a pharmacist, Didi has spent her career on the front lines of our healthcare system.
 She will use that experience to create healthcare that is affordable and accessible for every New Mexico family, protecting quality of care, lowering costs at the pharmacy counter, and expanding access in the communities that need it most.
-A STRONG ECONOMY
-Didi will fight for New Mexico's businesses and workers, advocating at every turn to bring federal investments and programs here that create jobs, grow paychecks, and stimulate the economy.
+A STRONG ECONOMY Didi will fight for New Mexico's businesses and workers, advocating at every turn to bring federal investments and programs here that create jobs, grow paychecks, and stimulate the economy.
 Prosperity instead of poverty.
-ANSWERING TO YOU, NOT WASHINGTON
-Didi answers to the people of New Mexico, not party bosses in Washington.
+ANSWERING TO YOU, NOT WASHINGTON Didi answers to the people of New Mexico, not party bosses in Washington.
 She will vote for what is right for our families and our communities, every single time, no matter who it upsets.
-MEET
-DIDI
-Ndidiamaka Okpareke (you can call her “Didi” for short!) was born from immigrants who came to the United States from Nigeria in search of the American Dream after surviving the destructive and genocidal Biafran war in Nigeria from 1967 to 1970.
+MEET DIDI Ndidiamaka Okpareke (you can call her “Didi” for short!) was born from immigrants who came to the United States from Nigeria in search of the American Dream after surviving the destructive and genocidal Biafran war in Nigeria from 1967 to 1970.
 Didi’s parents instilled in her the values of hard work, family, community, and faith in God.
 New Mexico has been Didi’s home for almost 30 years.
 She’s lived in Albuquerque since 1997, attending Sandia High School and graduating UNM as a proud Lobo!
@@ -27,13 +19,20 @@ She considers motherhood to be the greatest gift that God has ever blessed her l
 Unfortunately, the same American Dream that Didi’s parents pursued and achieved is on the brink of extinction for our children and future generations.
 New Mexico’s political leaders, especially our federal delegation, have fallen in line with a radical agenda that prioritizes rhetoric over results.
 New Mexico is first in all of the ‘bad’ categories and last in all of the ‘good’ categories.
-We need experienced leaders that deliver more results, and less rhetoric–and Didi believes that if you want something done right, you need to do it yourself.
+We need experienced leaders that deliver more results, and less rhetoric –and Didi believes that if you want something done right, you need to do it yourself.
 She’s running for Congress to protect the freedoms, values, and opportunities that brought her parents to America so that they can be preserved for not only our children, but for all of New Mexico and generations to come.
 "Freedom is never more than one generation away from extinction.
 We didn't pass it to our children in the bloodstream.
-It must be fought for, protected, and handed on for them to do the same, or one day we will spend our sunset years telling our children and our children's children what it was once like in the United States where men were free."
--Ronald Reagan
-WE'RE GRATEFUL
-FOR YOUR SUPPORT!
+It must be fought for, protected, and handed on for them to do the same, or one day we will spend our sunset years telling our children and our children's children what it was once like in the United States where men were free." ​ -Ronald Reagan WE'RE GRATEFUL FOR YOUR SUPPORT!
 Didi needs your support!
-Your contribution will play a major role in our success!
+Your contribution will play a major role in our success! $25 $50 $100 $200 Donate Get Involved First name * Last name * Email * Phone Message I'd Like To: * Volunteer Host an Event Get in Touch Stay Up to Date By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Ndidiamaka Okpareke for Congress.
+Message frequency varies.
+Message and data rates may apply.
+Donations may be solicited.
+Text HELP for help.
+Text STOP to unsubscribe.
+SMS opt-in data will not be shared or sold with 3rd parties.
+Terms & conditions/privacy policy apply.
+Ndidiamaka Okpareke is a candidate in the 2026 election. * Yes, subscribe me to your newsletter.
+Submit HOME ABOUT EVENTS MERCH X INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY Paid for by Ndidiamaka Okpareke for Congress.
+HOME ABOUT EVENTS MERCH bottom of page

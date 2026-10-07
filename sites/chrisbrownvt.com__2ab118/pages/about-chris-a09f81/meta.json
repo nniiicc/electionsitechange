@@ -1,10 +1,11 @@
 {
  "description": "Explore Chris Brown for Castleton's About page to learn how our Vermont-based political team is dedicated to serving your community. Join us today!",
  "final_url": "https://chrisbrownvt.com/about-chris",
- "paid_for_by": null,
+ "fingerprint": "6562d8b88cdabd57c9952879433370a8169cb54a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Chris",
  "years_mentioned": [
-  "2024",
-  "2026"
+  "2024"
  ]
 }

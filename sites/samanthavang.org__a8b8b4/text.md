@@ -1,8 +1,6 @@
-MN STATE REPRESENTATIVE 38B
-Trailblazer.
+0 Skip to Content Home Issues Media Donate Open Menu Close Menu Open Menu Close Menu Home Issues Media Donate Home Issues Media Donate MN STATE REPRESENTATIVE 38B Trailblazer.
 Bringing Communities Together.
-Meet Samantha
-Samantha Vang is a lifelong Minnesota native, a proud daughter of refugees, a Democrat, and a longtime Brooklyn Center resident.
+Meet Samantha Samantha Vang is a lifelong Minnesota native, a proud daughter of refugees, a Democrat, and a longtime Brooklyn Center resident.
 She was elected in 2018 to become the first of the two Hmong women to serve in the Minnesota House of Representatives.
 Currently she is Chair o the Agriculture Finance and Policy committee.
 She co-founded the first ever legislative Minnesota Asian Pacific (MAP) caucus and became chair of the People of Color Indigenous (POCI) caucus.
@@ -20,4 +18,7 @@ She currently works as a Tenant Advocate educating renters on their rights.
 On her free time, she enjoys spending time with her family.
 As an advocate and leader, Samantha will continue to keep communities and families thriving.
 Caucus for Samantha Vang on Tuesday, February 3rd!
-Find more where to caucus at here.
+Find more where to caucus at here .
+WE WOULD LOVE YOUR SUPPORT Donate to Samantha Vang for House DONATE ENDORSEMENTS Media Issues Follow on Facebook ISSUES MEDIA CONTACT info@samanthavang.org 763-560-1485 Prepared and paid for by the Samantha Vang for House committee, 6848 Lee Ave.
+N., P.O.
+Box 29674, Brooklyn Center 55429

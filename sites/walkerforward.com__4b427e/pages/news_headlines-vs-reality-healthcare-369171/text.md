@@ -1,6 +1,5 @@
-Headlines vs.
-Reality: Healthcare
-I wanted this one to be about all of us.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Headlines vs.
+Reality: Healthcare Jul 22 Written By Brian Walker I wanted this one to be about all of us.
 Instead, the first thing Republicans lead with on healthcare is opposing transgender medical procedures for anyone under 18, and keeping biological males out of girls' sports.
 I left the party over things like this.
 Not because I don't have opinions on either topic, I do, but because when "healthcare policy" opens with two culture war fights before it says one word about the cost of your insulin, you've told me what the priority actually is.
@@ -38,4 +37,8 @@ I'm asking why that's the headline instead of the henhouse.
 Bring healthcare back to people, not shareholders.
 That's not a radical idea.
 That's just what I think we owe each other in this district.
-Brian Walker
+Brian Walker Brian Walker Previous Previous Saying it Out Loud: The SAVE Act Next Next Republicans Anonymous Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

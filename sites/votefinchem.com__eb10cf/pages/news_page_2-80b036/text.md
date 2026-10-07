@@ -1,4 +1,4 @@
-News Mark Finchem is campaigning all over the district and will be regularly speaking to the press, influencers, and local bloggers.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X News Mark Finchem is campaigning all over the district and will be regularly speaking to the press, influencers, and local bloggers.
 Bookmark this page to stay up-to-date on the latest news and updates from the campaign trail.
 Senator Mark Finchem Addresses Political Accountability and Public Sector Challenges April 1, 2026 Sen.
 Mark Finchem Advances America First Education Reforms in Final Committee Week March 27, 2026 Sen.
@@ -14,4 +14,5 @@ Mark Finchem: “Families Deserve Answers” After Family Court Reform Bills Blo
 Mark Finchem Says Federal Probe Could Reveal Long-Questioned Maricopa County Election Issues March 14, 2026 Sen.
 Mark Finchem Discusses Grand Jury Investigation Into Maricopa County Elections March 14, 2026 Sen.
 Mark Finchem Discusses FBI Subpoena of Maricopa Election Records (DC Dispatch w/ Kristi Leigh) March 14, 2026 Senate Republicans Advance Election Integrity Measures to Strengthen Voter Confidence, Election Security March 10, 2026 Arizona Senate Passes SB1434 Protecting Attorneys from Political Lawfare March 9, 2026 Arizona Senate Advances Sen.
-Mark Finchem SB1036 Requiring Job Searches for Unemployment Benefits March 9, 2026 « Previous 1 2 3 4 5 6 7 8 9 10 Next »
+Mark Finchem SB1036 Requiring Job Searches for Unemployment Benefits March 9, 2026 « Previous 1 2 3 4 5 6 7 8 9 10 Next » Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

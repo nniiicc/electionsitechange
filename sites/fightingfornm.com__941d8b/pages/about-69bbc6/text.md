@@ -1,4 +1,4 @@
-Landon Dooley’s life has always been built around one idea: you don’t wait for someone else to fix what’s broken—you take responsibility and do the work.
+Landon Dooley for House New Mexico-40 Landon Dooley for House New Mexico-40 Landon Dooley for House New Mexico-40 Landon Dooley for House New Mexico-40 Home Where I stand What I Oppose About DMC More Home Where I stand What I Oppose About DMC Landon Dooley for House New Mexico-40 Landon Dooley for House New Mexico-40 Landon Dooley for House New Mexico-40 Landon Dooley for House New Mexico-40 Get in Touch Home Where I stand What I Oppose About DMC Get in Touch Biography My background Landon Dooley’s life has always been built around one idea: you don’t wait for someone else to fix what’s broken—you take responsibility and do the work.
 He learned that early, growing up in a family business where long hours weren’t an exception—they were the standard.
 Landon worked alongside his parents seven days a week, from sunup to sometimes three in the morning, depending on the event schedule and which facility was busiest that week—often with one parent running an expo while the other managed another venue.
 That upbringing forged a work ethic that never left him: show up, tell the truth, finish the job, and take care of your people.
@@ -27,9 +27,8 @@ Today, Landon and his wife are raising their children on their ranch, surrounded
 It’s a daily reminder that leadership isn’t a title—it’s work.
 And it’s exactly why he’s running for House.
 Landon believes NM-40 deserves representation that is rooted here, accountable to the people, and committed to measurable results—not political theater.
-Copyright © 2026 Dooley for NM House (NM-40).
+Photo Gallery Connect With Us Copyright © # Dooley for NM House (NM-40).
 All Rights Reserved.
 Paid for by Dooley for NM House NM-40, Colfax County, NM.
 Authorized by Landon Dooley.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Where I stand What I Oppose About Dooley Management Company Powered by Vote November 3rd!

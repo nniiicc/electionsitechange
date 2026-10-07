@@ -1,8 +1,6 @@
-The state effectively replaced asylum abuse with street abandonment—here is how an empowered Attorney General can fix it.
-By Saritha Komatireddy
-September 17, 2026
-Searchlight
-On April 27 in Binghamton, five boys—just 13 to 15 years old—allegedly punched and kicked Peter Bennedum until he stopped moving.
+Skip to content HOME ABOUT IN THE NEWS In the News Press Releases Statements Speeches and Editorials Coalitions African Americans for Saritha Asians for Saritha Dads for Saritha Democrats for Saritha Desis for Saritha Jewish New Yorkers for Saritha Latinos for Saritha Law Enforcement for Saritha Moms for Saritha CONTACT VOLUNTEER CONTRIBUTION FORM HOME ABOUT IN THE NEWS In the News Press Releases Statements Speeches and Editorials Coalitions African Americans for Saritha Asians for Saritha Dads for Saritha Democrats for Saritha Desis for Saritha Jewish New Yorkers for Saritha Latinos for Saritha Law Enforcement for Saritha Moms for Saritha CONTACT VOLUNTEER CONTRIBUTION FORM © # Saritha for New York.
+DONATE SHOP We Can Do Better, New York: Ending the Street-to-Tragedy Pipeline The state effectively replaced asylum abuse with street abandonment—here is how an empowered Attorney General can fix it.
+By Saritha Komatireddy September 17, 2026 Searchlight On April 27 in Binghamton, five boys—just 13 to 15 years old—allegedly punched and kicked Peter Bennedum until he stopped moving .
 Bennedum, 45, grew up in that city.
 He was a father who struggled with severe addiction.
 He lay on the sidewalk for two hours before anyone noticed.
@@ -10,8 +8,7 @@ A week later, his family let him go at the hospital.
 Police say the boys were following a social media trend: film an attack on a homeless person.
 Days later in Times Square, three teenagers woke Leonides Baez as he slept outside the Sondheim Theatre, doused him with urine, and one of them stabbed him in the heart.
 He was 39, with two children.
-The boy told police it was part of a trend called “mess with crackheads.”
-None of this should have happened.
+The boy told police it was part of a trend called “mess with crackheads.” None of this should have happened.
 A grown man shouldn’t be living on a sidewalk.
 If he was sick, he should have been somewhere with a bed, a doctor, and a chance.
 And we shouldn’t blame the police.
@@ -49,8 +46,7 @@ The comptroller recently uncovered $14.5 billion in unverified Medicaid home‑c
 The MTA loses another billion annually to fare evasion.
 Recovering even half that money could fund residential treatment for thousands now wandering our streets and towns.
 Under the incumbent attorney general, huge sums of taxpayer dollars are being abandoned to crime rings each year.
-That is another “shouldn’t.”
-An empowered attorney general can stop the squandering of opioid settlement funds, break the fraud rings, and redirect recovered dollars into desperately needed treatment beds.
+That is another “shouldn’t.” An empowered attorney general can stop the squandering of opioid settlement funds, break the fraud rings, and redirect recovered dollars into desperately needed treatment beds.
 The state must also conduct a forensic examination of every nonprofit shelter to determine where the $81,000 allocated per homeless person actually goes.
 A continually failing system must be made accountable.
 The tragedies in Binghamton and Times Square should never have occurred.
@@ -58,3 +54,4 @@ But they did, taking two lives and destroying many others.
 We can do so much better than this, New York.
 And we should.
 Saritha Komatireddy is a candidate for New York State attorney general.
+Category Speeches and Editorials Post navigation Previous post Komatireddy Unveils ‘Law & Order – Love & Order’ to Bring New York’s Severely Mentally Ill Homeless Off The Streets And Into Care, Prevent Tragedies Post navigation Next post Komatireddy Convenes Albany Roundtable on Residential Treatment and Civil Commitment, Calls for Stronger Action on Severe Mental Illness Recent Posts Bob Holden and Marty Dolan Endorse Saritha Komatireddy for New York Attorney General Saritha Komatireddy Issues Statement on Mamdani’s Antisemitism Plan: “Funding Welcome, But Someone Has To Prosecute.” AG Candidate Saritha Komatireddy Calls for Accountability as Investigation of Rochester’s Officer of the Year Drags On Saritha Komatireddy’s Statement on Endorsing Safe Buffer Zones Saritha Komatireddy: An Open Letter to New York’s Hospital Workers Archives October 2026 September 2026 August 2026 July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 March 2025 February 2025 October 2024 February 2023 March 2021 September 2019 November 2017 September 2017 July 2015 Categories Drug Cartels Fraud In the news Press Releases Speeches and Editorials Statements Terrorism Top Hits Uncategorized PO BOX 286199 New York, NY 10128 Paid for by Saritha for New York © # Saritha for New York.

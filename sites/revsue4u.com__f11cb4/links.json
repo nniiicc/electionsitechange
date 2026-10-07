@@ -1,20 +1,118 @@
 [
-"http://sapphirestrategies.org/",
-"http://susanshumway.org/privacy-policy",
-"http://susanshumway.org/termsofservice",
-"https://actionnetwork.org/forms/host-a-house-party-for-susan",
-"https://actionnetwork.org/forms/knock-doors-with-susans-team",
-"https://actionnetwork.org/forms/make-calls-for-susan-2",
-"https://facebook.com/WixStudio",
-"https://instagram.com/wixstudio",
-"https://revsue4u.com/",
-"https://revsue4u.com/blank",
-"https://revsue4u.com/privacy-policy",
-"https://revsue4u.com/termsofservice",
-"https://secure.actblue.com/donate/revsue4u-web",
-"https://secure.actblue.com/donate/revsue4u-web?amount=100",
-"https://secure.actblue.com/donate/revsue4u-web?amount=25",
-"https://secure.actblue.com/donate/revsue4u-web?amount=50",
-"https://store.revsue4u.com/",
-"https://twitter.com/WixStudio"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/revsue4u-web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/revsue4u-web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/revsue4u-web?amount=50"
+},
+{
+"text": "ABOUT",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "Another Amount",
+"href": "https://secure.actblue.com/donate/revsue4u-web"
+},
+{
+"text": "CCESSIBILITY STATEMENT",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/revsue4u-web"
+},
+{
+"text": "Door Knock!",
+"href": "https://actionnetwork.org/forms/knock-doors-with-susans-team"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "GET MERCH",
+"href": "https://store.revsue4u.com/"
+},
+{
+"text": "Host a House Party!",
+"href": "https://actionnetwork.org/forms/host-a-house-party-for-susan"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/wixstudio"
+},
+{
+"text": "Make Calls!",
+"href": "https://actionnetwork.org/forms/make-calls-for-susan-2"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.revsue4u.com/privacy-policy"
+},
+{
+"text": "Press@SusanShumway.org",
+"href": "mailto:Press@SusanShumway.org"
+},
+{
+"text": "Privacy Policy.",
+"href": "http://susanshumway.org/privacy-policy"
+},
+{
+"text": "Rev. Susan Shumway",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "SOLUTIONS",
+"href": "https://www.revsue4u.com/blank"
+},
+{
+"text": "Sapphire Strategies",
+"href": "http://www.sapphirestrategies.org"
+},
+{
+"text": "Susan@SusanShumway.org",
+"href": "mailto:Susan@SusanShumway.org"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.revsue4u.com/termsofservice"
+},
+{
+"text": "Terms",
+"href": "http://susanshumway.org/termsofservice"
+},
+{
+"text": "VIEW ALL SOLUTIONS",
+"href": "https://www.revsue4u.com/blank"
+},
+{
+"text": "VISION",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[no text]",
+"href": "https://www.revsue4u.com"
+},
+{
+"text": "info@susanshumway.org",
+"href": "mailto:info@susanshumway.org"
+},
+{
+"text": "info@susanwhumway.org",
+"href": "mailto:info@susanwhumway.org"
+}
 ]

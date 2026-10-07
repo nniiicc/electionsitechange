@@ -1,21 +1,15 @@
-Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection
-FOR IMMEDIATE RELEASE
-May 26, 2026
-Contact: Christopher Brown
-eilish@collinsmain4ct.com
-STAMFORD, CT — Today, Eilish Collins Main, Democratic state representative for Connecticut’s 146th State House District, announced that she is running for a second term to continue serving her constituents and delivering on their priorities.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection May 26 Written By Eilish Main FOR IMMEDIATE RELEASE May 26, 2026 Contact: Christopher Brown eilish@collinsmain4ct.com STAMFORD, CT — Today, Eilish Collins Main, Democratic state representative for Connecticut’s 146th State House District, announced that she is running for a second term to continue serving her constituents and delivering on their priorities.
 “It has been a privilege to represent the Downtown, South End, and Shippan neighborhoods in the state capitol while advocating for residents’ concerns shared with me since launching my first campaign two years ago.
 Whether tackling ongoing affordability issues with real solutions or collaborating with the city’s legislative delegation to secure new funding to directly support the Stamford community, I have worked every day to make sure that the city can be an exciting and welcoming place for everyone,” Collins Main said.
 “I’m excited to formally announce my candidacy for reelection to the Connecticut House of Representatives.
 We’ve made real progress, but there is still more work to be done.
-So I’m humbly asking for the support of my neighbors across the 146th District to continue serving them with pride, honor, and dedication to our shared Stamford values."
-Since being sworn in ahead of her first legislative session in 2025, Representative Collins Main has sought to be a consistently proactive voice for the 146th District and its residents’ priorities from environmental conversation and homelessness prevention to improving liveability for all and embracing Stamford’s values of community.
+So I’m humbly asking for the support of my neighbors across the 146th District to continue serving them with pride, honor, and dedication to our shared Stamford values." Since being sworn in ahead of her first legislative session in 2025, Representative Collins Main has sought to be a consistently proactive voice for the 146th District and its residents’ priorities from environmental conversation and homelessness prevention to improving liveability for all and embracing Stamford’s values of community.
 Despite being a first-term legislator without any prior tenure in elected office, she achieved a wide array of accomplishments in her first term including a 100% voting record in 2025, two years of funding for Pacific House totaling $70,000, attending over 300 community events and coffee meetings in Stamford, and more.
 Last Wednesday, May 20, 2026, delegates from across the 146th District unanimously endorsed Collins Main for the Democratic nomination.
-About Representative Collins Main
-With a background in the EdTech sector, Representative Eilish Collins Main currently serves on the Transportation, Commerce, and Higher Education & Employment Advancement committees, and is a member of the Reproductive Rights Caucus.
+About Representative Collins Main With a background in the EdTech sector, Representative Eilish Collins Main currently serves on the Transportation, Commerce, and Higher Education & Employment Advancement committees, and is a member of the Reproductive Rights Caucus.
 She is a proud first-generation Irish American, longtime resident of Stamford, and working mom to three grown children.
 Collins Main has been giving back to the Stamford community for more than a decade as an active member of the Stamford Democratic Party in addition to volunteering with Building One Community, the League of Women Voters, the Police Activities League, and the Saint Francis Epispocal Church.
 She also previously served as a Personnel Commissioner for the City of Stamford.
-To learn more about her campaign, visit collinsmain4ct.com.
-###
+To learn more about her campaign, visit collinsmain4ct.com .
+### Eilish Main https://collinsmain4ct.com Next Next The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

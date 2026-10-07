@@ -1,45 +1,27 @@
-As the State Representative for North and South Kohala, I work hard to propose and pass legislation to address community priorities.
+TARNAS FOR STATE HOUSE Home My Story Community Values Protect the Environment Strengthen Public Education Build a Sustainable Economy Liberty and Justice for All Leadership with Ethics Legislative Achievements News Legislative Achievements As the State Representative for North and South Kohala, I work hard to propose and pass legislation to address community priorities.
 As Chair of the House Judiciary and Hawaiian Affairs Committee, I serve as the leader in the State House guiding consideration of all bills relating to the Judiciary budget, courts, personnel and programs, as well as all bills relating to Hawaiian affairs including the budget for the Office of Hawaiian Affairs and the Department of Hawaiian Home Lands.
 I am also responsible to lead consideration in the State House of all bills relating to immigration, public safety, criminal justice, ethics, campaign finance, elections, firearms, drug policy, and any bills that include criminal or civil penalties relating to land use, environment, agriculture, education, consumer protection, housing, health, labor, and transportation.
 In addition, a major responsibility as State Representative is to secure funding for important public construction projects in the district.
-The following is a list of some projects for which the legislature has recently appropriated funds or the Governor has recently released funds:
-2026 Funding for House District 8
-CAPITAL IMPROVEMENT PROJECT FUNDING
-Pololū Trailhead
-An appropriation of $1 million to improve a donated parcel at the former Mule Station to accommodate parking, build and install interpretive panels, and provide space for bathrooms and safe pedestrian access to the trailhead.
-Waimea Emergency Response and Community Center
-A $5 million appropriation to be matched by $5 million in county funds and $5 million in private funds for plans, design, and construction of a new community center and emergency shelter at Spencer Kalani Schutte Park.
-Waimea Irrigation System Improvements
-An appropriation of $1 million to improve the parcel to accommodate parking, build and install interpretive panels, and provide bathrooms and safe pedestrian access to the trailhead.
-Kohala Hospital
-An appropriation of $2.5 million to plan, design, construct, and procure equipment for hazard mitigation and infrastructure resilience at the Kohala Hospital.
-South Kohala Courthouse
-$20 million in appropriations were included in the Judiciary budget (HB2095) to build a new South Kohala Courthouse.
+The following is a list of some projects for which the legislature has recently appropriated funds or the Governor has recently released funds: 2026 Funding for House District 8 CAPITAL IMPROVEMENT PROJECT FUNDING Pololū Trailhead An appropriation of $1 million to improve a donated parcel at the former Mule Station to accommodate parking, build and install interpretive panels, and provide space for bathrooms and safe pedestrian access to the trailhead.
+Waimea Emergency Response and Community Center A $5 million appropriation to be matched by $5 million in county funds and $5 million in private funds for plans, design, and construction of a new community center and emergency shelter at Spencer Kalani Schutte Park.
+Waimea Irrigation System Improvements An appropriation of $1 million to improve the parcel to accommodate parking, build and install interpretive panels, and provide bathrooms and safe pedestrian access to the trailhead.
+Kohala Hospital An appropriation of $2.5 million to plan, design, construct, and procure equipment for hazard mitigation and infrastructure resilience at the Kohala Hospital.
+South Kohala Courthouse $20 million in appropriations were included in the Judiciary budget (HB2095) to build a new South Kohala Courthouse.
 The updated facility will be equipped to address sustainability and energy-efficiency issues, the significant concerns raised about the current courthouse's safety, temperature, noise levels, and overall adequacy.
-Waimea Irrigation System Improvements
-An appropriation of $1.15 million for construction of improvements to the Waimea Irrigation System.
-Kohala Hospital
-An appropriation of $2.5 million to plan, design, construct, and procure equipment for hazard mitigation and infrastructure resilience at the Kohala Hospital.
-Waimea Roadway Improvements Project
-An appropriation of $9.6 million for the Waimea Roadway Improvements Project was made in 2023.
+Waimea Irrigation System Improvements An appropriation of $1.15 million for construction of improvements to the Waimea Irrigation System.
+Kohala Hospital An appropriation of $2.5 million to plan, design, construct, and procure equipment for hazard mitigation and infrastructure resilience at the Kohala Hospital.
+Waimea Roadway Improvements Project An appropriation of $9.6 million for the Waimea Roadway Improvements Project was made in 2023.
 Recently, the Governor released $1.4 million for the design and construction of a roundabout at the currently unsignalized intersection of Kawaihae Road and Lindsey Road, median turning and refuge lanes, curbs and gutters, bike lanes, sidewalks, landscaped medians, and the relocation or adjustment of existing utilities along ʻŌpelu Road to Māmalahoa Highway, Māmalahoa Highway, and Kaomola to Lindsey Roads.
-Waikoloa Public Library
-The Governor recently released $25 million for construction of a modern 12,000-square-foot community library facility that will also include a 3,000-square-foot two-classroom Early Learning Center.
+Waikoloa Public Library The Governor recently released $25 million for construction of a modern 12,000-square-foot community library facility that will also include a 3,000-square-foot two-classroom Early Learning Center.
 The project will include community meeting and programming spaces, shelving for at least 50,000 books, and 71 on-site parking stalls.
-Waiaka Bridge and Intersection Replacement
-The Governor recently released $23 million to replace the 94-year old Waiaka Bridge and the intersection of Kohala Mountain Road and Kawaihae Road.
+Waiaka Bridge and Intersection Replacement The Governor recently released $23 million to replace the 94-year old Waiaka Bridge and the intersection of Kohala Mountain Road and Kawaihae Road.
 A contractor has been selected and they are working to relocate the electric utilities so they can begin construction later in 2026.
 During construction, there will be a temporary bridge and detour to allow continued use of this route by residents.
-Akoni Pule Highway
-The Department of Transportation has planned $12 million in improvements to rehabilitate the pavement on Akoni Pule Highway from mile marker 15 to Hawi Road.
-Kawaihae North Small Boat Harbor
-The Governor has released $9.45 million for design and construction of improvements to the harbor dock, break wall, and related improvements at the Kawaihae North Small Boat Harbor.
-GRANT-IN-AID FOR DISTRICT 8
-The Queen’s Clinically Integrated Physician Network
-$350,000 to support the continued equitable delivery of healthcare services, particularly for independent primary care providers and neighbor island communities, chronic disease management, behavioral health, and social support services for high-risk and medically complex patients.
-Hawaiian Cattlemen's Council
-$58,300 to support “educational exchange” through on-the-ground learning, the Hawaii State Law Enforcement Executive Association Conference and Hawaii Cattlemen's Council Convention.
-Hoʻola
-$325,000 for plans & design to improve the former Coast Guard facility at ʻUpolu point to support the activities of Hawaiian Home Lands communities in North Kohala and surrounding regions.
-Kahilu Theatre Foundation
-$50,000 to upgrade key equipment in the theatre facility to improve performance quality, safety, and community access.
+Akoni Pule Highway The Department of Transportation has planned $12 million in improvements to rehabilitate the pavement on Akoni Pule Highway from mile marker 15 to Hawi Road.
+Kawaihae North Small Boat Harbor The Governor has released $9.45 million for design and construction of improvements to the harbor dock, break wall, and related improvements at the Kawaihae North Small Boat Harbor.
+GRANT-IN-AID FOR DISTRICT 8 The Queen’s Clinically Integrated Physician Network $350,000 to support the continued equitable delivery of healthcare services, particularly for independent primary care providers and neighbor island communities, chronic disease management, behavioral health, and social support services for high-risk and medically complex patients.
+Hawaiian Cattlemen's Council $58,300 to support “educational exchange” through on-the-ground learning, the Hawaii State Law Enforcement Executive Association Conference and Hawaii Cattlemen's Council Convention.
+Hoʻola $325,000 for plans & design to improve the former Coast Guard facility at ʻUpolu point to support the activities of Hawaiian Home Lands communities in North Kohala and surrounding regions.
+Kahilu Theatre Foundation $50,000 to upgrade key equipment in the theatre facility to improve performance quality, safety, and community access.
+Paid for by Tarnas for State House Tarnas for State House ​​P.O.
+Box 6882 Kamuela, Hawaii 96743 Home My Story Community Values Protect the Environment Strengthen Public Education Build a Sustainable Economy Liberty and Justice for All Leadership with Ethics Legislative Achievements News

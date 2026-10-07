@@ -1,5 +1,5 @@
-The First Amendment Is Under Attack and We Can’t Stay Silent!
-Kimmel’s suspension shows how easily dissent can be silenced—and if unchecked, today’s censorship of comedians could become tomorrow’s silencing of us all.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate The First Amendment Is Under Attack and We Can’t Stay Silent!
+Sep 24 Written By Michelle Kang Kimmel’s suspension shows how easily dissent can be silenced—and if unchecked, today’s censorship of comedians could become tomorrow’s silencing of us all.
 This past week should terrify every American who still believes in the promise of free speech.
 ABC’s suspension of Jimmy Kimmel Live! wasn’t just about one late-night comedian.
 It was about the federal government, led by Trump’s handpicked FCC chair Brendan Carr, flexing its muscles to silence dissent.
@@ -27,12 +27,15 @@ That’s proof that our voices matter.
 So let’s use them.
 Let’s make this bigger than a late-night monologue.
 Let’s turn it into a movement for accountability.
-Here’s what we need to do:
-- Demand hearings in Congress: Democrats (and any Republicans who still value democracy) must investigate Carr’s threats.
+Here’s what we need to do: Demand hearings in Congress: Democrats (and any Republicans who still value democracy) must investigate Carr’s threats.
 Regulatory power cannot be weaponized against speech.
-- Support independent media and comedians under fire: Don’t just watch the clips, share them, amplify them, and make sure these voices aren’t drowned out by censorship.
-- Call out corporate complicity: Disney and other networks need to hear from us that caving to political intimidation is unacceptable.
+Support independent media and comedians under fire: Don’t just watch the clips, share them, amplify them, and make sure these voices aren’t drowned out by censorship.
+Call out corporate complicity: Disney and other networks need to hear from us that caving to political intimidation is unacceptable.
 They’re not just entertainment companies, they’re gatekeepers of public debate.
-- Organize and mobilize: Authoritarian tactics thrive in silence.
-The more we speak, write, protest, and vote, the harder it becomes for them to normalize this behavior.
-– Michelle Kang, the Democratic candidate for Georgia House District 99
+Organize and mobilize: Authoritarian tactics thrive in silence.
+The more we speak, write, protest, and vote , the harder it becomes for them to normalize this behavior. – Michelle Kang, the Democratic candidate for Georgia House District 99 Donate $10 to Help us Fight Back Against Matt Reeves & His MAGA Agenda Michelle Kang Previous Previous Hope in the Pause Next Next Raiding Trust: Why the U.S.–Korea Alliance Is at Risk in Georgia Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

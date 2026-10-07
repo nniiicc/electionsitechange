@@ -1,9 +1,4 @@
-Back to All Events
-Monthly Meeting of the SD57 DFL Committee
-Previous
-Previous
-March 14
-DFL SD57 Unit Convention
-Next
-Next
-April 18
+0 Skip to Content Get To Know Me My Story My Policies My Endorsements Events Get Involved Volunteer Yard Sign!
+Self Scheduled Door Knocking Contact DONATE Open Menu Close Menu Get To Know Me My Story My Policies My Endorsements Events Get Involved Volunteer Yard Sign!
+Self Scheduled Door Knocking Contact DONATE Open Menu Close Menu Folder: Get To Know Me Back My Story My Policies My Endorsements Events Folder: Get Involved Back Volunteer Yard Sign!
+Self Scheduled Door Knocking Contact DONATE Back to All Events SD57 Committee Meeting Wednesday, April 15, 2026 6:30 PM 7:30 PM Lakeville South High School 21135 Jacquard Avenue Lakeville, MN, 55044 United States (map) Google Calendar ICS Monthly Meeting of the SD57 DFL Committee DFL SD 57 Website Posted In: DFL SD57 Committee Event Previous Previous March 14 DFL SD57 Unit Convention Next Next April 18 Earth Day Clean Up contact@stevenschroermn.org PO Box 26, Lakeville, MN 55044

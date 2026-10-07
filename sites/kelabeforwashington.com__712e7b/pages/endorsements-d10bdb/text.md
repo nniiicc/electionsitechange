@@ -1,35 +1,9 @@
-Endorsements
-News Outlets
-Organizations and Unions
-The Washington Education Association
-UFCW 3000
-Working Families Party
-Sage Leaders
-Washington Housing Alliance
-UAW Region 6
-Washington State Stonewall Democrats
-Asian Pacific Islander Americans for Civic Empowerment
-PROTEC17
-FairVote Washington
-APRNS (Advanced Practice Registered Nurses) of Washington State
-Tech 4 Housing
-Transit Riders Union
-Sierra Club
-Environment and Climate Council
-College Democrats
-The Washington Bus
-Tech 4 Taxes
-Fuse Washington
-Elected Officials
-Governor Bob Ferguson
-King County Executive Girmay Zahilay
-Superintendent Chris Reykdal
-City Councilmember Alexis Mercedes Rinck
-Former Representative Dawn Mason
-Community Leaders
-Jaelynn Scott Candidate for WA State House - LD 37
-Hannah Sabio-Howell Candidate for WA State Senate - LD 43
-Nilu Jenks Candidate for Seattle City Council - D5
-- Andrew Ashiofu- LGBTQ Advocate
-- Matt Hutchins- Housing Advocate
-- Rick Mohler- Housing Advocate
+0 Skip to Content About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Endorsements News Outlets Organizations and Unions The Washington Education Association UFCW 3000 Working Families Party Sage Leaders Washington Housing Alliance UAW Region 6 Washington State Stonewall Democrats Asian Pacific Islander Americans for Civic Empowerment PROTEC17 FairVote Washington APRNS (Advanced Practice Registered Nurses) of Washington State Tech 4 Housing Transit Riders Union Sierra Club Environment and Climate Council College Democrats The Washington Bus Tech 4 Taxes Fuse Washington Elected Officials Governor Bob Ferguson King County Executive Girmay Zahilay Superintendent Chris Reykdal City Councilmember Alexis Mercedes Rinck Former Representative Dawn Mason Community Leaders Jaelynn Scott Candidate for WA State House - LD 37 Hannah Sabio-Howell Candidate for WA State Senate - LD 43 Nilu Jenks Candidate for Seattle City Council - D5 Andrew Ashiofu- LGBTQ Advocate Matt Hutchins- Housing Advocate Rick Mohler- Housing Advocate "Kelabe is an educator and housing advocate who has spent his career investing in the community he's from.
+He's a fierce champion for fully funding early education for our kids, for housing working families can afford, and for safety built on community investment." King County Executive Girmay Zahilay "I'm excited to endorse Kelabe for State House.
+His hands-on education experience is important as we seek to improve outcomes and meet the needs of kids statewide.
+He's a thoughtful, engaged leader, with perspectives and ideas we need in Olympia." Governor Bob Ferguson "As a lifelong educator, Kelabe understands firsthand what students need and the struggles they face in the 37th.
+He’s a champion for fully funding early education because he knows firsthand how much investing early can change a child’s future.
+The 37th deserves an advocate that will meet the moment with the urgency needed to make tangible change.
+Vote Kelabe as your next State Representative." Superintendent Chris Reykdal The cost to rent or purchase a home has more than doubled over the last 25 years.
+Kelabe's experience serving on the Seattle Planning Commission is what we need in Olympia to craft policies that will prevent displacement and help make South Seattle more affordable for working families.
+Tech 4 Housing hello@kelabeforwashington.com PO Box 18094 Seattle, WA 98118 (206) 588-6096‬ Paid for by Kelabe for Washington (D)

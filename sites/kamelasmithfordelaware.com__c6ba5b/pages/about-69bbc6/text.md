@@ -1,5 +1,4 @@
-ABOUT ME
-Hello, my name is Kamela Smith, but you can call me Kam!
+top of page Donate Home About Issues Contrast Media ABOUT ME Hello, my name is Kamela Smith, but you can call me Kam!
 I’m a wife, a mother, a member of a blended family, and a woman of faith.
 I am not a politician but a regular citizen who believes in lifting up and speaking for the silenced, the marginalized, the voices of those vulnerable who don’t often get heard in Legislative Hall.
 I am not politically connected nor do I come from a wealthy family.
@@ -23,4 +22,4 @@ Only persuaded by the interest of those I serve and not the interest that only s
 I will not conform to status quo politics nor will I compromise on the Christian-rooted value system that I believe in so firmly.
 I haven’t been involved in politics before and I don’t plan to start now, keeping to my philosophy, “You see a problem, you resolve that problem” I am again simply just someone who sees that change is needed and am motivated to create it!
 Go be great!
-Kam
+Kam ​ ​ Paid for by Friends of Kamela Smith Home About Issues Contrast Media bottom of page

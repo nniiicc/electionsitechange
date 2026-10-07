@@ -1,6 +1,4 @@
-January 15, 2019
-"I disapprove of what you say, but I will defend to the death your right to say it." - Evelyn Beatrice Hall, The Friends of Voltaire (1906)
-There is nothing that unites Americans of all political stripes quite so much as the right to free speech.
+Home Donate Blog News About Connect Protect Free Speech From Getting SLAPPed January 15, 2019 "I disapprove of what you say, but I will defend to the death your right to say it." - Evelyn Beatrice Hall, The Friends of Voltaire (1906) There is nothing that unites Americans of all political stripes quite so much as the right to free speech.
 It was critical in gaining our independence from tyranny.
 The founders enshrined it in the very First Amendment to the United States Constitution.
 It remains a modern-day sling by which contemporary Davids can hope to defeat Goliaths.
@@ -30,4 +28,5 @@ Constitutional guarantees alone do not always provide enough protection of our f
 Pennsylvania – the Cradle of Liberty and the Birthplace of Independence – must set the highest standard in the nation when it comes to protecting First Amendment rights.
 The Free Speech Protection Act would go far in protecting the right of all Pennsylvanians to speak out on matters of public interest.
 I urge every Pennsylvanian to contact their state representative and senator and ask them to support House Bill 95, the Free Speech Protection Act.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

@@ -1,4 +1,5 @@
-Yesterday’s ruling by Chief U.S.
+Pakko for Arkansas Secretary of State About Dr.
+Pakko Elections Issues Vote Libertarian Donate A Victory in Court for Arkansas Voters Yesterday’s ruling by Chief U.S.
 District Judge Timothy Brooks is a major victory for Arkansas voters, the First Amendment, and the constitutional principle that political power belongs to the people.
 The court’s decision permanently blocks restrictions on Arkansas’s initiative and referendum process after already striking down numerous provisions enacted by the legislature in 2025.
 What makes this ruling especially significant is that many of the unconstitutional restrictions were sponsored by Senator Kim Hammer, who has been the leading architect of legislation designed to make it more difficult for Arkansans to exercise their constitutional right to place issues before the voters.
@@ -17,3 +18,7 @@ As a candidate for Secretary of State, I believe the office should defend consti
 The Secretary of State serves the people of Arkansas, not the political establishment.
 My responsibility will be to administer elections fairly, protect ballot access, and ensure that every Arkansan has a meaningful opportunity to participate in our democratic process.
 In today’s highly polarized political environment, the public’s trust can only be earned by an election official whose allegiance is to the integrity of the process, not to the success of either major party.
+Help elect Dr.
+Michael Pakko to the office of Secretary of State!
+Volunteer Donate About Dr.
+Pakko Elections Issues Vote Libertarian Donate Facebook Twitter LinkedIn Paid for by Pakko for Arkansas PO Box 241271 Little Rock, AR 72223 (501) 300-2600 Email: info@pakko4ar.com

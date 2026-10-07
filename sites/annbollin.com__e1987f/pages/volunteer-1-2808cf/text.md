@@ -1,22 +1,3 @@
-Voter Information
-Home
-About
-The Issues
-Endorsements
-Volunteer
-Contact Us
-Donate
-Voter Information
-Home
-About
-The Issues
-Endorsements
-Volunteer
-Contact Us
-Donate
-We need You To...
-Volunteer
-Help Team Bollin:
-Help me become your voice for your values.
-Sign up below and let us know how you can help:
-Please complete the form below
+Voter Information Home About The Issues Endorsements Volunteer Contact Us Donate Voter Information Home About The Issues Endorsements Volunteer Contact Us Donate We need You To...
+Volunteer Help Team Bollin: Help me become your voice for your values.
+Sign up below and let us know how you can help: Please complete the form below Paid for by Ann Bollin for State Rep - 100 Orndorf #1435 Brighton, MI 48116 Donate

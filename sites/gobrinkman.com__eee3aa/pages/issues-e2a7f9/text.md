@@ -1,14 +1,7 @@
-[popup_anything id=”7375″]
-Here is a list of Pro Life legislation in the 133rd Session of the Ohio General Assembly:
-- Human Life Protection Act
-- Born-Alive Infant Protection Act
-- Parenting and Pregnancy Support Program
-- Unborn Child Dignity Act
-[/ld_fancy_heading][ld_button style=”btn-solid” title=”Read More” link=”url:http%3A%2F%2Fgobrinkman.com%2Fpro-life-legislation%2F|||”]
-Limited government – lower taxes” has been a slogan of the Brinkman Campaign Committee from day one.
+Skip to primary content Go Brinkman Go Brinkman!
+Search Main menu Home About Tom Accomplishments Contact Us Contribute CountMeIn Economic and Personal Liberty Endorsements Home Issues Join Us Neighborhoods Neighborhoods Old Pro Life Legislation Request Vote by Mail Application What’s New Issues [ld_fancy_heading tag=”h2″ margin=”bottom_small:0.75em”]Sign up to receive important legislative updates as we struggle through the Coronavirus crisis.[/ld_fancy_heading] [popup_anything id=”7375″] [ld_images_group_container][ld_images_group_element enable_effects=”yes” enable_image_shadow=”yes” shadow_style=”4″ enable_roudness=”yes” image_roudness=”4″ enable_shadow=”yes” image=”7326″][/ld_images_group_element][/ld_images_group_container] [ld_images_group_container][ld_images_group_element img_size=”350×540″ enable_effects=”yes” enable_image_shadow=”yes” shadow_style=”4″ enable_roudness=”yes” image_roudness=”4″ enable_shadow=”yes” image=”7641″][/ld_images_group_element][/ld_images_group_container] [ld_fancy_heading tag=”h2″ margin=”bottom_small:0.75em” color=”rgb(255, 255, 255)”]100% Pro Life[/ld_fancy_heading][ld_fancy_heading tag=”p” use_custom_fonts_title=”true” fs=”17px” lh=”1.68em” margin=”bottom_small:2em” color=”rgb(255, 255, 255)” el_class=”white_text”]Tom was awarded the Lifetime Achievement Award for his career of support for pro-life legislation.
+Here is a list of Pro Life legislation in the 133rd Session of the Ohio General Assembly: Human Life Protection Act Born-Alive Infant Protection Act Parenting and Pregnancy Support Program Unborn Child Dignity Act [/ld_fancy_heading][ld_button style=”btn-solid” title=”Read More” link=”url:http%3A%2F%2Fgobrinkman.com%2Fpro-life-legislation%2F|||”] [ld_fancy_heading tag=”h2″ margin=”bottom_small:0.75em”]Economic and Personal Liberty[/ld_fancy_heading] Limited government – lower taxes” has been a slogan of the Brinkman Campaign Committee from day one.
 Tom has made almost 3,000 votes on the floor of the Ohio House of Representatives and nearly as many on various committees with the thought of limiting government and lowering taxes.
-- The Ohio Stand-Your-Ground law
-- Constitutional Carry
-- Opposing Red Flag gun-confiscation legislation
-Making the 27th district a wonderful place to live and work and raise a family has been a corner stone of Tom’s efforts for us in Columbus.
+The Ohio Stand-Your-Ground law Constitutional Carry Opposing Red Flag gun-confiscation legislation [ld_button style=”btn-solid” title=”Read More” link=”url:https%3A%2F%2Fgobrinkman.com%2Feconomic-and-personal-liberty%2F|||”] [ld_fancy_heading tag=”h2″ alignment=”text-center” margin=”bottom_small:0.75em”]PURSUIT OF HAPPINESS[/ld_fancy_heading] Making the 27th district a wonderful place to live and work and raise a family has been a corner stone of Tom’s efforts for us in Columbus.
 Many of the local projects he has supporter can be found on the Neighborhoods page.
+Proudly powered by WordPress nhentai footjob 無料 エッチ 動画 porno por categorias porno

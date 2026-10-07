@@ -1,48 +1,198 @@
 [
-"http://bluestatecampaigns.com/",
-"https://blancarubio.com/",
-"https://blancarubio.com/awards",
-"https://blancarubio.com/contact",
-"https://blancarubio.com/district",
-"https://blancarubio.com/events",
-"https://blancarubio.com/issue/aging",
-"https://blancarubio.com/issue/animal-protection",
-"https://blancarubio.com/issue/climate-change",
-"https://blancarubio.com/issue/consumer-protections",
-"https://blancarubio.com/issue/criminal-justice",
-"https://blancarubio.com/issue/domestic-violence",
-"https://blancarubio.com/issue/healthcare",
-"https://blancarubio.com/issue/housing-homelessness",
-"https://blancarubio.com/issue/water",
-"https://blancarubio.com/issue/womens-issues",
-"https://blancarubio.com/issue/youth",
-"https://blancarubio.com/media",
-"https://blancarubio.com/meet-blanca",
-"https://blancarubio.com/photos",
-"https://blancarubio.com/volunteer",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53453118882_802b7c3c39_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53453122672_29ac2ed247_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53453123607_e5a40caba5_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454045811_f81f607ce2_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454050741_d8b0988bf1_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454174903_4e55e1dc9e_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454176483_f0fbd25f47_o-1-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454360424_5572d05579_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454360534_84a4798b20_o-1-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454363764_831aa4253b_o-1-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454365339_526528672e_o-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53454461880_4c5259a198_o-2-scaled.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53534891067_7f27400507_o.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53534896817_092face268_o.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53535783196_61fe060320_o.png",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53535957453_8646e41077_o.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53535957493_0bdae5856b_o.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53535957523_8327d2b616_o.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53536093369_63ae90f577_o.jpg",
-"https://blancarubio.com/wp-content/gallery/blanca-photos-1/53536202980_258d5c85da_o.jpg",
-"https://facebook.com/BlancaRubioforAssembly",
-"https://flic.kr/ps/43Aio8",
-"https://flickr.com/photos/199839557@N05",
-"https://instagram.com/BlancaRubioforAssembly",
-"https://secure.actblue.com/donate/blanca-rubio-2"
+{
+"text": "Aging",
+"href": "https://www.blancarubio.com/issue/aging/"
+},
+{
+"text": "Animal Protection",
+"href": "https://www.blancarubio.com/issue/animal-protection/"
+},
+{
+"text": "Assemblywoman Blanca Rubio",
+"href": "https://www.blancarubio.com/"
+},
+{
+"text": "Awards",
+"href": "https://www.blancarubio.com/awards/"
+},
+{
+"text": "Climate Change",
+"href": "https://www.blancarubio.com/issue/climate-change/"
+},
+{
+"text": "Consumer Protections",
+"href": "https://www.blancarubio.com/issue/consumer-protections/"
+},
+{
+"text": "Contact",
+"href": "https://www.blancarubio.com/contact/"
+},
+{
+"text": "Domestic Violence",
+"href": "https://www.blancarubio.com/issue/domestic-violence/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blanca-rubio-2"
+},
+{
+"text": "Education & Youth",
+"href": "https://www.blancarubio.com/issue/youth/"
+},
+{
+"text": "Events",
+"href": "https://www.blancarubio.com/events/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.blancarubio.com/issue/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://www.blancarubio.com/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.blancarubio.com/issue/housing-homelessness/"
+},
+{
+"text": "Media",
+"href": "https://www.blancarubio.com/media/"
+},
+{
+"text": "Meet Blanca",
+"href": "https://www.blancarubio.com/meet-blanca/"
+},
+{
+"text": "News",
+"href": "https://www.blancarubio.com/media/"
+},
+{
+"text": "Our District",
+"href": "https://www.blancarubio.com/district/"
+},
+{
+"text": "Photos",
+"href": "https://www.blancarubio.com/photos/"
+},
+{
+"text": "Public Safety & Criminal Justice",
+"href": "https://www.blancarubio.com/issue/criminal-justice/"
+},
+{
+"text": "Site by BSC",
+"href": "http://www.bluestatecampaigns.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.blancarubio.com/volunteer/"
+},
+{
+"text": "Water",
+"href": "https://www.blancarubio.com/issue/water/"
+},
+{
+"text": "Women’s Issues",
+"href": "https://www.blancarubio.com/issue/womens-issues/"
+},
+{
+"text": "[image: 53453118882_802b7c3c39_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53453118882_802b7c3c39_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53453122672_29ac2ed247_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53453122672_29ac2ed247_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53453123607_e5a40caba5_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53453123607_e5a40caba5_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53454045811_f81f607ce2_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454045811_f81f607ce2_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53454050741_d8b0988bf1_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454050741_d8b0988bf1_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53454174903_4e55e1dc9e_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454174903_4e55e1dc9e_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53454176483_f0fbd25f47_o-1-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454176483_f0fbd25f47_o-1-scaled.jpg"
+},
+{
+"text": "[image: 53454360424_5572d05579_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454360424_5572d05579_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53454360534_84a4798b20_o-1-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454360534_84a4798b20_o-1-scaled.jpg"
+},
+{
+"text": "[image: 53454363764_831aa4253b_o-1-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454363764_831aa4253b_o-1-scaled.jpg"
+},
+{
+"text": "[image: 53454365339_526528672e_o-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454365339_526528672e_o-scaled.jpg"
+},
+{
+"text": "[image: 53454461880_4c5259a198_o-2-scaled]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53454461880_4c5259a198_o-2-scaled.jpg"
+},
+{
+"text": "[image: 53534891067_7f27400507_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53534891067_7f27400507_o.jpg"
+},
+{
+"text": "[image: 53534896817_092face268_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53534896817_092face268_o.jpg"
+},
+{
+"text": "[image: 53535783196_61fe060320_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53535783196_61fe060320_o.png"
+},
+{
+"text": "[image: 53535957453_8646e41077_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53535957453_8646e41077_o.jpg"
+},
+{
+"text": "[image: 53535957493_0bdae5856b_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53535957493_0bdae5856b_o.jpg"
+},
+{
+"text": "[image: 53535957523_8327d2b616_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53535957523_8327d2b616_o.jpg"
+},
+{
+"text": "[image: 53536093369_63ae90f577_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53536093369_63ae90f577_o.jpg"
+},
+{
+"text": "[image: 53536202980_258d5c85da_o]",
+"href": "https://www.blancarubio.com/wp-content/gallery/blanca-photos-1/53536202980_258d5c85da_o.jpg"
+},
+{
+"text": "[image]",
+"href": "https://flic.kr/ps/43Aio8"
+},
+{
+"text": "[image]",
+"href": "https://www.blancarubio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BlancaRubioforAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/199839557@N05/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/BlancaRubioforAssembly"
+}
 ]

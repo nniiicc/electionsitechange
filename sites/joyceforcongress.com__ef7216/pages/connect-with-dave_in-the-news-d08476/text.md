@@ -1,34 +1,13 @@
-Voters in Ohio’s 14th District Reelect Dave Joyce to Congress
-11/03/2020
-PAINESVILLE – Tonight Ohio’s 14th Congressional District voted to reelect Dave Joyce to Congress.
+­ ­ ­­­ ­ ­ Skip to content Home Meet Dave Connect Connect With Dave In The News Voting Get Involved Volunteer Contact Donate NEWS Voters in Ohio’s 14th District Reelect Dave Joyce to Congress 11/03/2020 PAINESVILLE – Tonight Ohio’s 14th Congressional District voted to reelect Dave Joyce to Congress.
 Congressman Joyce released the following statement: “In these extraordinary times, I am especially thankful for the continued support of Northeast Ohioans, and for my team of hardworking staff, volunteers and interns who helped drive our campaign to victory.
-We ran a…
-The National Education Association and Ohio Education Association Endorse Congressman Dave Joyce forReelection
-10/22/2020
-The National Education Association and Ohio Education Association Endorse Congressman Dave Joyce forReelectionJoyce becomes only Ohio Republican to be endorsed by U.S.’s largestunion of educatorsPAINESVILLE- Today, Dave Joyce for Congress announced the endorsements of theNational Education Association and the Ohio Education Association, which representover 121,000 educators in Ohio.
-According to the NEA’s recommended candidate list,Dave…
-Dave Joyce for Congress Launches TV Ad On Leadership During COVID-19
-10/21/2020
-FOR IMMEDIATE RELEASEDate: October 21, 2020Contact: press@joyceforcongress.comDave Joyce for Congress Launches TVAd On Leadership During COVID-19PAINESVILLE –Today Dave Joyce for Congress released the campaign’s new TV adon Congressman Joyce’s work with Governor DeWine and members of both parties inCongress to secure critical supplies for Ohio hospitals, healthcare workers and families.Watch “Care” here:In March, Dave Joyce…
-Dave Joyce for Congress Releases NewTV Ad Highlighting Work with LocalManufacturer to Reshore MedicalSupplies from China
-10/07/2020
-Dave Joyce for Congress Releases NewTV Ad Highlighting Work with LocalManufacturer to Reshore MedicalSupplies from ChinaMENTOR – Today Dave Joyce for Congress released the campaign’s third TV ad,highlighting Congressman Joyce’s work to support local manufacturing of protectiveequipment for medical workers and create jobs in Ohio.
-The ad features RB Sigma, amanufacturer in Mentor, Ohio which…
-The Plain Dealer Endorses Dave Joyce for Congress
-09/30/2020
-Following a recent endorsement from the Tribune Chronicle, today Ohio’s largest newspaper and one of the top publications across the country, The Plain Dealer, released their enthusiastic endorsement of Congressman Dave Joyce’s reelection campaign.
-The Tribune Chronicle Endorses Dave Joyce for Congress
-09/24/2020
-Today the Tribune Chronicle’s Editorial Board announced their spirited endorsement of Congressman Dave Joyce’s reelection campaign.
-Dave Joyce for Congress Launches New TV and Digital Ad on Leadership to Combat the Opioid Epidemic
-09/23/2020
-Today Dave Joyce for Congress launched a one-minute television and digital advertisement calling attention to the scourge of the opioid epidemic and Congressman Joyce’s leadership to increase support and resources for those struggling with opioid addiction.
+We ran a… The National Education Association and Ohio Education Association Endorse Congressman Dave Joyce forReelection 10/22/2020 The National Education Association and Ohio Education Association Endorse Congressman Dave Joyce forReelectionJoyce becomes only Ohio Republican to be endorsed by U.S.’s largestunion of educatorsPAINESVILLE- Today, Dave Joyce for Congress announced the endorsements of theNational Education Association and the Ohio Education Association, which representover 121,000 educators in Ohio.
+According to the NEA’s recommended candidate ​list​,Dave… Dave Joyce for Congress Launches TV Ad On Leadership During COVID-19 10/21/2020 FOR IMMEDIATE RELEASEDate: October 21, 2020Contact: ​press@joyceforcongress.comDave Joyce for Congress Launches TVAd On Leadership During COVID-19PAINESVILLE –Today Dave Joyce for Congress released the campaign’s new TV adon Congressman Joyce’s work with Governor DeWine and members of both parties inCongress to secure critical supplies for Ohio hospitals, healthcare workers and families.Watch “Care” ​here​:In March, Dave Joyce… Dave Joyce for Congress Releases NewTV Ad Highlighting Work with LocalManufacturer to Reshore MedicalSupplies from China 10/07/2020 Dave Joyce for Congress Releases NewTV Ad Highlighting Work with LocalManufacturer to Reshore MedicalSupplies from ChinaMENTOR – Today Dave Joyce for Congress released the campaign’s third TV ad,highlighting Congressman Joyce’s work to support local manufacturing of protectiveequipment for medical workers and create jobs in Ohio.
+The ad features RB Sigma, amanufacturer in Mentor, Ohio which… The Plain Dealer Endorses Dave Joyce for Congress 09/30/2020 Following a recent endorsement from the Tribune Chronicle, today Ohio’s largest newspaper and one of the top publications across the country, The Plain Dealer, released their enthusiastic endorsement of Congressman Dave Joyce’s reelection campaign.
+The Tribune Chronicle Endorses Dave Joyce for Congress 09/24/2020 Today the Tribune Chronicle’s Editorial Board announced their spirited endorsement of Congressman Dave Joyce’s reelection campaign.
+Dave Joyce for Congress Launches New TV and Digital Ad on Leadership to Combat the Opioid Epidemic 09/23/2020 Today Dave Joyce for Congress launched a one-minute television and digital advertisement calling attention to the scourge of the opioid epidemic and Congressman Joyce’s leadership to increase support and resources for those struggling with opioid addiction.
 “Advocate” begins on the heels of Prescription Opioid and Heroin Epidemic Awareness Week and during what the U.S.
-Department…
-Joyce Highlights Endorsement from Lake County Sheriff Amid National Calls to Defund Police
-09/17/2020
-Today Dave Joyce for Congress released the campaign’s first TV ad, highlighting the endorsement of Lake County Sheriff Frank Leonbruno and Joyce’s strong record of supporting law enforcement.
-Joyce Campaign Celebrates Flag Day by Giving Back, Announces ‘Veterans for Dave’ Coalition
-06/15/2020
-PAINESVILLE –Yesterday, the Veterans for Dave Joyce coalition held a drive-thru picnic lunch in honor of Flag Day that provided over 500 free lunches to veterans and families in need.
+Department… Joyce Highlights Endorsement from Lake County Sheriff Amid National Calls to Defund Police­ 09/17/2020 Today Dave Joyce for Congress released the campaign’s first TV ad, highlighting the endorsement of Lake County Sheriff Frank Leonbruno and Joyce’s strong record of supporting law enforcement.
+Joyce Campaign Celebrates Flag Day by Giving Back, Announces ‘Veterans for Dave’ Coalition 06/15/2020 PAINESVILLE –Yesterday, the Veterans for Dave Joyce coalition held a drive-thru picnic lunch in honor of Flag Day that provided over 500 free lunches to veterans and families in need.
 Congressman Dave Joyce was joined by veterans across the 14thdistrict who volunteered at the event and announced their support for his reelection campaign.
+More way to get involved VOLUNTEER DONATE 1 » Next page 2 follow dave on social media Paid for by Friends of Dave Joyce P.O.
+Box 516 , Painesville, OH 44077

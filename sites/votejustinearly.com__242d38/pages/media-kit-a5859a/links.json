@@ -1,20 +1,78 @@
 [
-"https://bsky.app/profile/votejustinearly.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/votejustinearly",
-"https://instagram.com/votejustinearly",
-"https://secure.actblue.com/donate/votejewebsite",
-"https://store.votejustinearly.com/",
-"https://tiktok.com/@votejustinearly",
-"https://votejustinearly.com/",
-"https://votejustinearly.com/about",
-"https://votejustinearly.com/endorsements",
-"https://votejustinearly.com/issues",
-"https://votejustinearly.com/justin-early.jpg",
-"https://votejustinearly.com/media-kit-v3.pdf",
-"https://votejustinearly.com/news",
-"https://votejustinearly.com/svg-logo-white-background.svg",
-"https://votejustinearly.com/volunteer-slug-2",
-"https://votejustinearly.com/voter-information",
-"https://youtube.com/@VoteJustinEarly"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejustinearly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votejustinearly.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votejustinearly.com/issues"
+},
+{
+"text": "Logos",
+"href": "https://www.votejustinearly.com/svg-logo-white-background.svg"
+},
+{
+"text": "Media / Press Kit",
+"href": "https://www.votejustinearly.com/media-kit-v3.pdf"
+},
+{
+"text": "Meet Justin",
+"href": "https://www.votejustinearly.com/about"
+},
+{
+"text": "News",
+"href": "https://www.votejustinearly.com/news"
+},
+{
+"text": "Photo",
+"href": "https://www.votejustinearly.com/justin-early.jpg"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Swagshop",
+"href": "https://store.votejustinearly.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejustinearly.com/volunteer-slug-2"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votejustinearly.com/voter-information"
+},
+{
+"text": "[image: Justin Early for Congress]",
+"href": "https://www.votejustinearly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votejustinearly.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VoteJustinEarly"
+}
 ]

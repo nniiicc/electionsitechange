@@ -1,4 +1,10 @@
-Why I said yes.
+0 Skip to Content HOME: WE ARE THE 105 Home Events Rachel or Ken?
+Updates About Rachel Where we stand The 105 Find Help Find Fun What's up, Lansing?
+Endorsements Yard Sign Get involved DONATE Open Menu Close Menu HOME: WE ARE THE 105 Home Events Rachel or Ken?
+Updates About Rachel Where we stand The 105 Find Help Find Fun What's up, Lansing?
+Endorsements Yard Sign Get involved DONATE Open Menu Close Menu Home Events Rachel or Ken?
+Updates About Rachel Where we stand The 105 Find Help Find Fun What's up, Lansing?
+Endorsements Yard Sign Get involved DONATE Why I said yes.
 Hi, I’m Rachel.
 This wasn’t on my bingo card.
 I’m a single mom and a small business owner, and I don’t think things need to be this hard for people to live a good life.
@@ -26,8 +32,7 @@ They're all designed to invite people back into in-person interaction, where rea
 I also run GroundWorks Advisory, a consulting firm that helps growing organizations build the systems they need to grow well.
 And around town, I'm probably best known for community theatre — I serve as president of the AuSable Community Theatre, which has been one of the greatest joys from my own reentry into my community.
 I figured this was the work I'd be doing for years to come.
-But, then…
-On April 15th, my phone rang.
+But, then… On April 15th, my phone rang.
 It was Faith Dandois, from the Crawford County Democratic Party.
 We'd met once, at the No Kings protest in Gaylord last fall.
 Faith told me no Democrat had stepped up to challenge Ken Borton for the 105th — and for some reason, my name had come to mind.
@@ -45,3 +50,5 @@ I'm not running against that history.
 I'm running because things are not okay, and together, our seven counties are stronger.
 People can't afford life anymore, and the squeeze is only intensifying.
 We have to organize across the district — and together— we can demand better.
+CONTRIBUTE Rachel L.
+Teeter We are the 105. wearethe105.com Explore About Rachel Where we stand Find help in the 105 What's up in Lansing Events Get involved Volunteer Request a yard sign rachel@wearethe105.com Contribute Paid for by Committee to Elect Rachel Longendyke Teeter, PO Box 45, Grayling, MI 49738 © # Committee to Elect Rachel Longendyke Teeter

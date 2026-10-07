@@ -1,7 +1,9 @@
 {
  "description": "Legislation",
  "final_url": "https://www.fishbein4ct.com/legislation",
- "paid_for_by": null,
+ "fingerprint": "2baf39ee5bda4811e7cf806c71e4447930f15c76",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
  "years_mentioned": [
   "2026"

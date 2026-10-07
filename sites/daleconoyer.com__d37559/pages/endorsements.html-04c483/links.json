@@ -1,20 +1,86 @@
 [
-"https://daleconoyer.com/about.html",
-"https://daleconoyer.com/contact.html",
-"https://daleconoyer.com/donate.html",
-"https://daleconoyer.com/endorsements.html",
-"https://daleconoyer.com/events.html",
-"https://daleconoyer.com/index.html",
-"https://daleconoyer.com/priorities.html",
-"https://daleconoyer.com/volunteer.html",
-"https://facebook.com/profile.php?id=61584411707441",
-"https://instagram.com/conoyerformo",
-"https://moaflcio.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-advocates-missouri",
-"https://secure.actblue.com/donate/conoyerformo",
-"https://secure.actblue.com/donate/lfmmerch",
-"https://sierraclub.org/missouri",
-"https://tiktok.com/@conoyerformo",
-"https://tricountylaborclub.com/",
-"https://x.com/ConoyerForMO"
+{
+"text": "Contact",
+"href": "https://daleconoyer.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://daleconoyer.com/donate.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/conoyerformo"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://daleconoyer.com/donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://daleconoyer.com/endorsements.html"
+},
+{
+"text": "Events",
+"href": "https://daleconoyer.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61584411707441"
+},
+{
+"text": "Get in Touch",
+"href": "https://daleconoyer.com/contact.html"
+},
+{
+"text": "Home",
+"href": "https://daleconoyer.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/conoyerformo/"
+},
+{
+"text": "Meet Dale",
+"href": "https://daleconoyer.com/about.html"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/lfmmerch"
+},
+{
+"text": "Priorities",
+"href": "https://daleconoyer.com/priorities.html"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@conoyerformo"
+},
+{
+"text": "Volunteer",
+"href": "https://daleconoyer.com/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://x.com/ConoyerForMO"
+},
+{
+"text": "[image: Dale Conoyer for Missouri House District 65]",
+"href": "https://daleconoyer.com/index.html"
+},
+{
+"text": "moaflcio.org",
+"href": "https://moaflcio.org/"
+},
+{
+"text": "plannedparenthoodaction.org",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-missouri"
+},
+{
+"text": "sierraclub.org/missouri",
+"href": "https://www.sierraclub.org/missouri"
+},
+{
+"text": "tricountylaborclub.com",
+"href": "https://tricountylaborclub.com/"
+}
 ]

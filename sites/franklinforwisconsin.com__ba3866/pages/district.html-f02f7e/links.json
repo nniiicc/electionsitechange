@@ -1,10 +1,34 @@
 [
-"http://myvote.wi.gov/",
-"https://franklinforwisconsin.com/",
-"https://franklinforwisconsin.com/about-ben.html",
-"https://franklinforwisconsin.com/contact.html",
-"https://franklinforwisconsin.com/district.html",
-"https://franklinforwisconsin.com/issues.html",
-"https://maps.legis.wisconsin.gov/?asm=88&single=y",
-"https://secure.winred.com/franklin-for-wisconsin"
+{
+"text": "About Ben",
+"href": "https://www.franklinforwisconsin.com/about-ben.html"
+},
+{
+"text": "Contact",
+"href": "https://www.franklinforwisconsin.com/contact.html"
+},
+{
+"text": "District",
+"href": "https://www.franklinforwisconsin.com/district.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/franklin-for-wisconsin"
+},
+{
+"text": "Home",
+"href": "https://www.franklinforwisconsin.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.franklinforwisconsin.com/issues.html"
+},
+{
+"text": "See if your in the 88th Assembly District by clicking here.",
+"href": "https://maps.legis.wisconsin.gov/?asm=88&single=y"
+},
+{
+"text": "www.myvote.wi.gov",
+"href": "http://www.myvote.wi.gov"
+}
 ]

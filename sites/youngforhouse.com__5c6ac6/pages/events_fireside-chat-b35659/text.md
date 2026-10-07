@@ -1,6 +1,3 @@
-Back to All Events
-Brandon Young (HD14), Ian Parrish (CD2), and Jared Neal (SD6) are hosting a fireside chat at the Syracuse Library Auditorium.
+0 Skip to Content Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Back to All Events Fireside Chat Monday, March 30, 2026 7:00 PM 8:00 PM Syracuse Library 1875 South 2000 West Syracuse, UT, 84075 United States (map) Google Calendar ICS Brandon Young (HD14), Ian Parrish (CD2), and Jared Neal (SD6) are hosting a fireside chat at the Syracuse Library Auditorium.
 We will talk about our platforms and take audience questions as we strive to become your candidates.
-Next
-Next
-April 10
+Next Next April 10 Davis Derby Gala Brandon Young for House District 14 Donate

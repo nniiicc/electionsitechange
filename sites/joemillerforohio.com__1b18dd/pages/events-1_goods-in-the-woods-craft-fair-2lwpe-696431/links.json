@@ -1,18 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=New+London+Fall+Fest&dates=20261024T160000Z%2F20261024T220000Z&location=67+South+Main+Street%2C+New+London%2C+Ohio%2C+44851%2C+United+States",
-"http://maps.google.com/?q=67+South+Main+Street+New+London%2C+Ohio%2C+44851+United+States",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair",
-"https://joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe?format=ical",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=67+south+main+street+new+london%2C+ohio%2C+44851+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=New+London+Fall+Fest&dates=20261024T160000Z%2F20261024T220000Z&location=67+South+Main+Street%2C+New+London%2C+Ohio%2C+44851%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair-2lwpe?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 17 Goods in the Woods Craft Fair",
+"href": "https://www.joemillerforohio.com/events-1/goods-in-the-woods-craft-fair"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

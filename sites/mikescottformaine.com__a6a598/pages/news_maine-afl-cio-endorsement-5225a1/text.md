@@ -1,5 +1,2 @@
-PRESS RELEASE
-Endorsement Announcement
-NEWS ARTICLE
-Endorsement Announcement
-Endorsement Announcement
+Skip navigation menu About Issues News Endorsements Volunteer Contact About Issues News Endorsements Volunteer Contact PRESS RELEASE Mike Scott's Campaign Announcement Endorsement Announcement Professional Fire Fighters of Maine Endorsement NEWS ARTICLE Petition Submission Endorsement Announcement Maine AFL-CIO Endorsement Apr 15 2026 Endorsement Announcement Maine AFL-CIO Endorsement mikescottformaine@gmail.com Powered by RUN! website builder Paid for and authorized by the candidate.
+You need to enable JavaScript to run this app.

@@ -1,10 +1,38 @@
 [
-"https://ericlucero.com/",
-"https://ericlucero.com/about",
-"https://ericlucero.com/contact",
-"https://ericlucero.com/news",
-"https://ericlucero.com/photos",
-"https://facebook.com/DefendingTruth",
-"https://secure.anedot.com/ericlucero/c5ff17ea3c96c72784cf2",
-"https://youtube.com/channel/UCqdRG1GKhKGPspKva97HlRQ"
+{
+"text": "ABOUT ERIC",
+"href": "https://www.ericlucero.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ericlucero.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ericlucero/c5ff17ea3c96c72784cf2"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericlucero.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.ericlucero.com/photos"
+},
+{
+"text": "[image: Lucero_Logo_edited_edited_edited.png]",
+"href": "https://www.ericlucero.com"
+},
+{
+"text": "[image: Lucero_Logo_edited_edited_edited_edited_]",
+"href": "https://www.ericlucero.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/DefendingTruth"
+},
+{
+"text": "[image: White YouTube Icon]",
+"href": "https://www.youtube.com/channel/UCqdRG1GKhKGPspKva97HlRQ"
+}
 ]

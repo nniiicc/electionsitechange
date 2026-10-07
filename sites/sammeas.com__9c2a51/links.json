@@ -1,7 +1,30 @@
 [
-"https://facebook.com/votesammeas",
-"https://hockomock.org/",
-"https://sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://secure.anedot.com/sammeas/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/sammeas/donate"
+},
+{
+"text": "Hockomock Digital",
+"href": "https://hockomock.org"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesammeas"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@sammeas.com"
+},
+{
+"text": "info@sammeas.com",
+"href": "mailto:info@sammeas.com"
+}
 ]

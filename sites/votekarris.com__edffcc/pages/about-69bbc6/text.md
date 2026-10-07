@@ -1,4 +1,4 @@
-LEARN MORE ABOUT VENISE KARRIS.
+0 Skip to Content About Issues Endorsements Join the Team Photos DONATE Open Menu Close Menu Open Menu Close Menu About Issues Endorsements Join the Team Photos DONATE About Issues Endorsements Join the Team Photos DONATE LEARN MORE ABOUT VENISE KARRIS.
 I came to Nevada in 1995, as a single mom with two small daughters.
 The struggle to pay for childcare in California was crippling; my entire paycheck was gone.
 In Nevada, I was fortunate enough to have my Mom watch my girls for free.
@@ -13,5 +13,5 @@ Learning a Trade elevated my life and more importantly, secured my daughters’ 
 If you find yourself at a turning point in your life never be afraid to take a chance on changing your life!
 “The path to a stronger, more prosperous Nevada is through an economy that works for everyone.
 Together, we can raise our quality of life and ensure no one is left behind.
-I will continue to work tirelessly as your Assemblymember to make that future a reality for Assembly District 10 and ALL Nevadans.”
-- Venise Karris, Democrat Candidate for Nevada Assembly District 10
+I will continue to work tirelessly as your Assemblymember to make that future a reality for Assembly District 10 and ALL Nevadans.” Venise Karris, Democrat Candidate for Nevada Assembly District 10 Building A Nevada for Everyone.
+Donate to our Campaign today! ​Paid for and Authorized by Friends of Venise Contribute Here Privacy Policy Contact our Campaign Email: Venise@VoteKarris.com 2208 Kirkland Ave, Las Vegas, NV 89102

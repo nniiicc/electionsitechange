@@ -1,13 +1,58 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260606T140000%2F20260606T160000&text=Campaign+event&details=%3Cp%3E%3C%2Fp%3E+%3Cp%3Ewith+RAZE%3C%2Fp%3E+%3Cp%3E%3C%2Fp%3E+&trp=false&ctz=America%2FPhoenix&sprop=website%3Ahttps%3A%2F%2Fsanitysam.com",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-06-06T14%3A00%3A00-07%3A00&enddt=2026-06-06T16%3A00%3A00-07%3A00&subject=Campaign+event&body=%3Cp%3E%3C%2Fp%3E%3Cp%3Ewith+RAZE%3C%2Fp%3E%3Cp%3E%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-06-06T14%3A00%3A00-07%3A00&enddt=2026-06-06T16%3A00%3A00-07%3A00&subject=Campaign+event&body=%3Cp%3E%3C%2Fp%3E%3Cp%3Ewith+RAZE%3C%2Fp%3E%3Cp%3E%3C%2Fp%3E",
-"https://sanitysam.com/",
-"https://sanitysam.com/contact",
-"https://sanitysam.com/event/coconino-democrats-monthly-action-meeting",
-"https://sanitysam.com/events",
-"https://sanitysam.com/join-the-sanity-campaign",
-"https://sanitysam.com/who-is-sam-martin",
-"https://sanitysam.com/why-sam-martin",
-"https://wp-royal-themes.com/"
+{
+"text": "Coconino Democrats Monthly Action Meeting »",
+"href": "https://sanitysam.com/event/coconino-democrats-monthly-action-meeting/"
+},
+{
+"text": "Events",
+"href": "https://sanitysam.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260606T140000%2F20260606T160000&text=Campaign+event&details=%3Cp%3E%3C%2Fp%3E+%3Cp%3Ewith+RAZE%3C%2Fp%3E+%3Cp%3E%3C%2Fp%3E+&trp=false&ctz=America%2FPhoenix&sprop=website%3Ahttps%3A%2F%2Fsanitysam.com"
+},
+{
+"text": "Join The Sanity Campaign",
+"href": "https://sanitysam.com/join-the-sanity-campaign/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T14%3A00%3A00-07%3A00&enddt=%23T16%3A00%3A00-07%3A00&location=&subject=Campaign+event&body=%3Cp%3E%3C%2Fp%3E%3Cp%3Ewith+RAZE%3C%2Fp%3E%3Cp%3E%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T14%3A00%3A00-07%3A00&enddt=%23T16%3A00%3A00-07%3A00&location=&subject=Campaign+event&body=%3Cp%3E%3C%2Fp%3E%3Cp%3Ewith+RAZE%3C%2Fp%3E%3Cp%3E%3C%2Fp%3E"
+},
+{
+"text": "Sam for AZ House of Representatives",
+"href": "https://sanitysam.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://sanitysam.com/contact/"
+},
+{
+"text": "WP Royal",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "Who is Sam Martin?",
+"href": "https://sanitysam.com/who-is-sam-martin/"
+},
+{
+"text": "Why Sam Martin?",
+"href": "https://sanitysam.com/why-sam-martin/"
+},
+{
+"text": "[no text]",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://sanitysam.com/event/campaign-event/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://sanitysam.com/events/"
+}
 ]

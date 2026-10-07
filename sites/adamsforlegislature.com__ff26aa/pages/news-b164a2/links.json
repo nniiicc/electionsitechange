@@ -1,38 +1,266 @@
 [
-"https://adamsforlegislature.com/",
-"https://adamsforlegislature.com/about",
-"https://adamsforlegislature.com/category/in-the-press",
-"https://adamsforlegislature.com/category/uncategorized",
-"https://adamsforlegislature.com/contact",
-"https://adamsforlegislature.com/dakota-adams-at-the-dnc",
-"https://adamsforlegislature.com/dakota-adams-goes-from-extremist-militia-upbringing-to-progressive-dem-in-red-district",
-"https://adamsforlegislature.com/dakota-adams-interviewed-for-norwegian-tv-on-thomas-seltzers-amerika",
-"https://adamsforlegislature.com/dakota-adams-on-the-wiretap-with-chris-sampson",
-"https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-runs-as-a-democrat-in-mt-state-house-district-1",
-"https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-stewart-rhodes-talks-about-being-at-the-dnc",
-"https://adamsforlegislature.com/dakota-adams-stewart-rhodes-son-talks-oath-keepers-proud-boys",
-"https://adamsforlegislature.com/did-nothing-wrong-podcast-episode-126-dakota-adams",
-"https://adamsforlegislature.com/events",
-"https://adamsforlegislature.com/issues",
-"https://adamsforlegislature.com/news",
-"https://adamsforlegislature.com/oath-keeper-leaders-family-fears-trump-pardon-the-excerpt",
-"https://adamsforlegislature.com/oath-keeper-stewart-rhodes-son-is-running-as-a-democrat-for-montana-house-seat",
-"https://adamsforlegislature.com/oath-keepers-founders-son-runs-for-office-as-a-democrat",
-"https://adamsforlegislature.com/oath-keepers-son-emerges-from-traumatic-childhood-to-tell-his-own-story-in-long-shot-election-bid",
-"https://adamsforlegislature.com/opt-out-preferences",
-"https://adamsforlegislature.com/privacy-policy",
-"https://adamsforlegislature.com/stewart-rhodes-son-how-i-escaped-my-fathers-militia-bbc-news",
-"https://adamsforlegislature.com/terms-and-conditions",
-"https://adamsforlegislature.com/the-weirdo-progressive-son-of-the-oath-keepers-founder-running-for-office-in-montana",
-"https://adamsforlegislature.com/unsavable-disaster-son-of-oath-keepers-founder-on-why-hes-running-for-office-as-a-democrat",
-"https://facebook.com/profile.php?id=61557612873742",
-"https://instagram.com/adamsforhd1",
-"https://lincolncountydemocratsmt.org/",
-"https://mindly.social/@DakotaVAdams",
-"https://montanademocrats.org/",
-"https://politicalwebsitedesigners.com/",
-"https://secure.actblue.com/donate/adams-for-hd1-1",
-"https://vote.gov/register/mt",
-"https://x.com/dakotavadams",
-"https://youtube.com/channel/UCRYHR-_dhAUwl--s_7FZ29A"
+{
+"text": "About",
+"href": "https://adamsforlegislature.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://adamsforlegislature.com/contact/"
+},
+{
+"text": "Dakota Adams at the DNC",
+"href": "https://adamsforlegislature.com/dakota-adams-at-the-dnc/"
+},
+{
+"text": "Dakota Adams goes from extremist militia upbringing to progressive Dem in red district",
+"href": "https://adamsforlegislature.com/dakota-adams-goes-from-extremist-militia-upbringing-to-progressive-dem-in-red-district/"
+},
+{
+"text": "Dakota Adams interviewed for Norwegian TV, on Thomas Seltzer’s ‘Amerika.",
+"href": "https://adamsforlegislature.com/dakota-adams-interviewed-for-norwegian-tv-on-thomas-seltzers-amerika/"
+},
+{
+"text": "Dakota Adams on The Wiretap with Chris Sampson",
+"href": "https://adamsforlegislature.com/dakota-adams-on-the-wiretap-with-chris-sampson/"
+},
+{
+"text": "Dakota Adams, Stewart Rhodes Son, Talks Oath Keepers & Proud Boys",
+"href": "https://adamsforlegislature.com/dakota-adams-stewart-rhodes-son-talks-oath-keepers-proud-boys/"
+},
+{
+"text": "Dakota Adams, son of Oath Keepers founder Stewart Rhodes, talks about being at the DNC",
+"href": "https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-stewart-rhodes-talks-about-being-at-the-dnc/"
+},
+{
+"text": "Dakota Adams, son of Oath Keepers founder, runs as a democrat in MT State House District 1",
+"href": "https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-runs-as-a-democrat-in-mt-state-house-district-1/"
+},
+{
+"text": "Did Nothing Wrong Podcast – Episode 126 – Dakota Adams",
+"href": "https://adamsforlegislature.com/did-nothing-wrong-podcast-episode-126-dakota-adams/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adams-for-hd1-1"
+},
+{
+"text": "Events",
+"href": "https://adamsforlegislature.com/events/"
+},
+{
+"text": "Home",
+"href": "https://adamsforlegislature.com/"
+},
+{
+"text": "In the News",
+"href": "https://adamsforlegislature.com/news/"
+},
+{
+"text": "In the Press",
+"href": "https://adamsforlegislature.com/category/in-the-press/"
+},
+{
+"text": "Issues",
+"href": "https://adamsforlegislature.com/issues/"
+},
+{
+"text": "Lincoln County Democrats",
+"href": "https://www.lincolncountydemocratsmt.org/"
+},
+{
+"text": "Montana Democrats",
+"href": "https://www.montanademocrats.org/"
+},
+{
+"text": "Now This: Oath Keepers Founder’s Son Runs for Office as a Democrat",
+"href": "https://adamsforlegislature.com/oath-keepers-founders-son-runs-for-office-as-a-democrat/"
+},
+{
+"text": "Oath Keeper Stewart Rhodes’ son is running as a Democrat for Montana House seat",
+"href": "https://adamsforlegislature.com/oath-keeper-stewart-rhodes-son-is-running-as-a-democrat-for-montana-house-seat/"
+},
+{
+"text": "Oath Keeper leader’s family fears Trump pardon | The Excerpt",
+"href": "https://adamsforlegislature.com/oath-keeper-leaders-family-fears-trump-pardon-the-excerpt/"
+},
+{
+"text": "Oath Keeper’s son emerges from traumatic childhood to tell his own story in long shot election bid",
+"href": "https://adamsforlegislature.com/oath-keepers-son-emerges-from-traumatic-childhood-to-tell-his-own-story-in-long-shot-election-bid/"
+},
+{
+"text": "Opt-out preferences",
+"href": "https://adamsforlegislature.com/opt-out-preferences/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://adamsforlegislature.com/privacy-policy/"
+},
+{
+"text": "Read More Dakota Adams at the DNC",
+"href": "https://adamsforlegislature.com/dakota-adams-at-the-dnc/"
+},
+{
+"text": "Read More Dakota Adams goes from extremist militia upbringing to progressive Dem in red district",
+"href": "https://adamsforlegislature.com/dakota-adams-goes-from-extremist-militia-upbringing-to-progressive-dem-in-red-district/"
+},
+{
+"text": "Read More Dakota Adams interviewed for Norwegian TV, on Thomas Seltzer’s ‘Amerika.",
+"href": "https://adamsforlegislature.com/dakota-adams-interviewed-for-norwegian-tv-on-thomas-seltzers-amerika/"
+},
+{
+"text": "Read More Dakota Adams on The Wiretap with Chris Sampson",
+"href": "https://adamsforlegislature.com/dakota-adams-on-the-wiretap-with-chris-sampson/"
+},
+{
+"text": "Read More Dakota Adams, Stewart Rhodes Son, Talks Oath Keepers & Proud Boys",
+"href": "https://adamsforlegislature.com/dakota-adams-stewart-rhodes-son-talks-oath-keepers-proud-boys/"
+},
+{
+"text": "Read More Dakota Adams, son of Oath Keepers founder Stewart Rhodes, talks about being at the DNC",
+"href": "https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-stewart-rhodes-talks-about-being-at-the-dnc/"
+},
+{
+"text": "Read More Dakota Adams, son of Oath Keepers founder, runs as a democrat in MT State House District 1",
+"href": "https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-runs-as-a-democrat-in-mt-state-house-district-1/"
+},
+{
+"text": "Read More Did Nothing Wrong Podcast – Episode 126 – Dakota Adams",
+"href": "https://adamsforlegislature.com/did-nothing-wrong-podcast-episode-126-dakota-adams/"
+},
+{
+"text": "Read More Now This: Oath Keepers Founder’s Son Runs for Office as a Democrat",
+"href": "https://adamsforlegislature.com/oath-keepers-founders-son-runs-for-office-as-a-democrat/"
+},
+{
+"text": "Read More Oath Keeper Stewart Rhodes’ son is running as a Democrat for Montana House seat",
+"href": "https://adamsforlegislature.com/oath-keeper-stewart-rhodes-son-is-running-as-a-democrat-for-montana-house-seat/"
+},
+{
+"text": "Read More Oath Keeper leader’s family fears Trump pardon | The Excerpt",
+"href": "https://adamsforlegislature.com/oath-keeper-leaders-family-fears-trump-pardon-the-excerpt/"
+},
+{
+"text": "Read More Oath Keeper’s son emerges from traumatic childhood to tell his own story in long shot election bid",
+"href": "https://adamsforlegislature.com/oath-keepers-son-emerges-from-traumatic-childhood-to-tell-his-own-story-in-long-shot-election-bid/"
+},
+{
+"text": "Read More Stewart Rhodes’ son: ‘How I escaped my father’s militia’ – BBC News",
+"href": "https://adamsforlegislature.com/stewart-rhodes-son-how-i-escaped-my-fathers-militia-bbc-news/"
+},
+{
+"text": "Read More The ‘weirdo progressive’ son of the Oath Keepers founder running for office in Montana",
+"href": "https://adamsforlegislature.com/the-weirdo-progressive-son-of-the-oath-keepers-founder-running-for-office-in-montana/"
+},
+{
+"text": "Read More ‘Unsavable disaster’: Son of Oath Keepers founder on why he’s running for office as a Democrat",
+"href": "https://adamsforlegislature.com/unsavable-disaster-son-of-oath-keepers-founder-on-why-hes-running-for-office-as-a-democrat/"
+},
+{
+"text": "Register to Vote in Montana",
+"href": "https://vote.gov/register/mt/"
+},
+{
+"text": "Stewart Rhodes’ son: ‘How I escaped my father’s militia’ – BBC News",
+"href": "https://adamsforlegislature.com/stewart-rhodes-son-how-i-escaped-my-fathers-militia-bbc-news/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://adamsforlegislature.com/terms-and-conditions/"
+},
+{
+"text": "The ‘weirdo progressive’ son of the Oath Keepers founder running for office in Montana",
+"href": "https://adamsforlegislature.com/the-weirdo-progressive-son-of-the-oath-keepers-founder-running-for-office-in-montana/"
+},
+{
+"text": "Uncategorized",
+"href": "https://adamsforlegislature.com/category/uncategorized/"
+},
+{
+"text": "[image: Adams for Legislature | Lincoln County, Montana | HD 1]",
+"href": "https://adamsforlegislature.com/"
+},
+{
+"text": "[image: Credit: Dakota Adams]",
+"href": "https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-runs-as-a-democrat-in-mt-state-house-district-1/"
+},
+{
+"text": "[image: Dakota Adams interviewed for Norwegian TV, on Thomas Seltzer Amerika]",
+"href": "https://adamsforlegislature.com/dakota-adams-interviewed-for-norwegian-tv-on-thomas-seltzers-amerika/"
+},
+{
+"text": "[image: Dakota Adams is running as a progressive Democrat for Montana House District 1 in deep-red Lincoln County. (Photo by Sarah Boe)]",
+"href": "https://adamsforlegislature.com/dakota-adams-goes-from-extremist-militia-upbringing-to-progressive-dem-in-red-district/"
+},
+{
+"text": "[image: Dakota Adams is running for Montana State legislature. (Courtesy of Dakota Adams)]",
+"href": "https://adamsforlegislature.com/oath-keeper-stewart-rhodes-son-is-running-as-a-democrat-for-montana-house-seat/"
+},
+{
+"text": "[image: Dakota Adams on The Wiretap with Chris Sampson]",
+"href": "https://adamsforlegislature.com/dakota-adams-on-the-wiretap-with-chris-sampson/"
+},
+{
+"text": "[image: Dakota Adams, Stewart Rhodes Son, Talks Oath Keepers & Proud Boys]",
+"href": "https://adamsforlegislature.com/dakota-adams-stewart-rhodes-son-talks-oath-keepers-proud-boys/"
+},
+{
+"text": "[image: Dakota Adams, son of Oath Keepers founder Stewart Rhodes, talks about being at the DNC]",
+"href": "https://adamsforlegislature.com/dakota-adams-son-of-oath-keepers-founder-stewart-rhodes-talks-about-being-at-the-dnc/"
+},
+{
+"text": "[image: Dakota Adams, the son of Oath Keepers founder Stewart Rhodes who is serving an 18-year prison sentence for his role in the Jan. 6, 2021 attack on the U.S. Capitol, is at the Democratic National Convention as a delegate from Montana. (Jordan Green / Raw Story)]",
+"href": "https://adamsforlegislature.com/dakota-adams-at-the-dnc/"
+},
+{
+"text": "[image: Did Nothing Wrong Podcast – Episode 126 – Dakota Adams]",
+"href": "https://adamsforlegislature.com/did-nothing-wrong-podcast-episode-126-dakota-adams/"
+},
+{
+"text": "[image: Oath Keeper leader’s family fears Trump pardon | The Excerpt]",
+"href": "https://adamsforlegislature.com/oath-keeper-leaders-family-fears-trump-pardon-the-excerpt/"
+},
+{
+"text": "[image: Oath Keepers Founder’s Son Runs for Office as a Democrat]",
+"href": "https://adamsforlegislature.com/oath-keepers-founders-son-runs-for-office-as-a-democrat/"
+},
+{
+"text": "[image: Stewart Rhodes' son: ‘How I escaped my father’s militia’ - BBC News]",
+"href": "https://adamsforlegislature.com/stewart-rhodes-son-how-i-escaped-my-fathers-militia-bbc-news/"
+},
+{
+"text": "[image: The ‘weirdo progressive’ son of the Oath Keepers founder running for office in Montana]",
+"href": "https://adamsforlegislature.com/the-weirdo-progressive-son-of-the-oath-keepers-founder-running-for-office-in-montana/"
+},
+{
+"text": "[image: ‘Unsavable disaster’: Son of Oath Keepers founder on why he’s running for office as a Democrat]",
+"href": "https://adamsforlegislature.com/unsavable-disaster-son-of-oath-keepers-founder-on-why-hes-running-for-office-as-a-democrat/"
+},
+{
+"text": "[image]",
+"href": "https://mindly.social/@DakotaVAdams"
+},
+{
+"text": "[image]",
+"href": "https://politicalwebsitedesigners.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557612873742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/adamsforhd1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCRYHR-_dhAUwl--s_7FZ29A"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/dakotavadams"
+},
+{
+"text": "‘Unsavable disaster’: Son of Oath Keepers founder on why he’s running for office as a Democrat",
+"href": "https://adamsforlegislature.com/unsavable-disaster-son-of-oath-keepers-founder-on-why-hes-running-for-office-as-a-democrat/"
+}
 ]

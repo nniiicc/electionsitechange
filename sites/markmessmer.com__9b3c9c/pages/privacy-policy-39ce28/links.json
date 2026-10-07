@@ -1,8 +1,38 @@
 [
-"http://aboutads.info/choices",
-"http://adobe.com/products/flashplayer/security",
-"https://google.com/analytics/learn/privacy.html",
-"https://markmessmer.com/",
-"https://markmessmer.com/privacy-policy",
-"https://secure.winred.com/messmer-for-congress/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/messmer-for-congress/donate-today"
+},
+{
+"text": "DONATE ONLINE",
+"href": "https://secure.winred.com/messmer-for-congress/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.markmessmer.com/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.markmessmer.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.markmessmer.com/#lp-pom-box-25"
+},
+{
+"text": "info@markmessmer.com",
+"href": "mailto:infor@markmessmer.com"
+},
+{
+"text": "this Google page",
+"href": "https://www.google.com/analytics/learn/privacy.html"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+},
+{
+"text": "www.adobe.com/products/flashplayer/security",
+"href": "http://www.adobe.com/products/flashplayer/security"
+}
 ]

@@ -1,7 +1,11 @@
 {
- "description": "This November, I\u2019m running to win, but I\u2019m not running [...]",
+ "description": "This November, I’m running to win, but I’m not running [...]",
  "final_url": "https://croleyforcongress.com/when-money-gets-a-vote/",
+ "fingerprint": "950df2063c219c35b8bfc869cf3de90d66e5e4eb",
+ "format": 3,
  "paid_for_by": "Paid for by Mike Croley For Congress",
  "title": "When Money Gets a Vote - Croley For Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

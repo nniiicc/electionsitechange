@@ -1,9 +1,13 @@
 {
  "description": "William Henry is an esteemed and devoted advocate whose background encompasses a wide spectrum of roles and focuses. His impact reverberates across broad social and political spheres.",
  "final_url": "https://www.williamhenry.us/about.html",
- "paid_for_by": null,
+ "fingerprint": "186510b28d0a96faf9aeb82270641637fcf3665f",
+ "format": 3,
+ "paid_for_by": "sponsored by Indiana legislators that brings veterans, military families, veteran service organizations, legislators, and executive-branch officials together at the Indiana",
  "title": "About",
  "years_mentioned": [
+  "2005",
+  "2009",
   "2010",
   "2012",
   "2013",
@@ -12,6 +16,7 @@
   "2017",
   "2018",
   "2020",
+  "2021",
   "2022",
   "2024",
   "2025",

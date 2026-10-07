@@ -1,16 +1,66 @@
 [
-"https://facebook.com/osborne4nh",
-"https://linkedin.com/in/jason-osborne-7bb8b1316",
-"https://osborne4nh.com/",
-"https://osborne4nh.com/about-jason",
-"https://osborne4nh.com/jason-osborne-in-the-news",
-"https://osborne4nh.com/privacy-policy",
-"https://osborneforspeaker.com/",
-"https://secure.winred.com/friends-of-jason-osborne/donate-today",
-"https://secure.winred.com/friends-of-jason-osborne/website?amount=25",
-"https://secure.winred.com/friends-of-jason-osborne/website?amt1=100&amount=100&exitintent=true",
-"https://secure.winred.com/friends-of-jason-osborne/website?amt1=1000&amount=1000&exitintent=true",
-"https://secure.winred.com/friends-of-jason-osborne/website?amt1=250&amount=250&exitintent=true",
-"https://secure.winred.com/friends-of-jason-osborne/website?amt1=500&amount=500&exitintent=true",
-"https://x.com/Osborne4NH"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/friends-of-jason-osborne/website?amt1=1000&amount=1000&exitintent=true"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-jason-osborne/website?amt1=100&amount=100&exitintent=true"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-jason-osborne/website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-jason-osborne/website?amt1=250&amount=250&exitintent=true"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/friends-of-jason-osborne/website?amt1=500&amount=500&exitintent=true"
+},
+{
+"text": "603 391 2138",
+"href": "tel:%E2%80%AA16033912138"
+},
+{
+"text": "About",
+"href": "https://osborne4nh.com/about-jason/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-jason-osborne/donate-today"
+},
+{
+"text": "Home",
+"href": "https://osborne4nh.com/"
+},
+{
+"text": "Jason@Osborne4NH.com",
+"href": "mailto:Jason@Osborne4NH.com"
+},
+{
+"text": "News",
+"href": "https://osborne4nh.com/jason-osborne-in-the-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://osborne4nh.com/privacy-policy/"
+},
+{
+"text": "Speaker’s Campaign",
+"href": "https://osborneforspeaker.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/osborne4nh"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jason-osborne-7bb8b1316/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Osborne4NH"
+}
 ]

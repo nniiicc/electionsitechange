@@ -1,7 +1,11 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/bobby-charles-releases-new-ad-augusta-scandals----calls-on-maine-to-open-the-books-investigate-crimes-and-reject-more-of-the-same",
+ "fingerprint": "36ee9a79f553c47b7f7882b00663990f153d53e1",
+ "format": 3,
  "paid_for_by": "paid for by the Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

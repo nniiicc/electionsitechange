@@ -1,6 +1,18 @@
 [
-"https://facebook.com/RickVernonForSenate",
-"https://secure.winred.com/vernon-for-state-senate-2026/donate-today",
-"https://vernonforok.com/cdn-cgi/l/email-protection",
-"https://vernonforok.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vernon-for-state-senate-2026/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/RickVernonForSenate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vernonforok.com/privacy-policy/"
+},
+{
+"text": "[email protected]",
+"href": "https://vernonforok.com/cdn-cgi/l/email-protection"
+}
 ]

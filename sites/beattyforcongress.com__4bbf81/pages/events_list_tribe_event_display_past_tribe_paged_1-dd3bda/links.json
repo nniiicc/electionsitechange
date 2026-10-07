@@ -1,19 +1,110 @@
 [
-"https://beattyforcongress.com/",
-"https://beattyforcongress.com/about",
-"https://beattyforcongress.com/contact",
-"https://beattyforcongress.com/event/2018-general-election",
-"https://beattyforcongress.com/event/2018-special-election",
-"https://beattyforcongress.com/event/annual-dress-in-white-party",
-"https://beattyforcongress.com/event/annual-golf-outing",
-"https://beattyforcongress.com/events/list",
-"https://beattyforcongress.com/events?ical=1",
-"https://beattyforcongress.com/get-involved",
-"https://beattyforcongress.com/grid-gallery",
-"https://beattyforcongress.com/issues-page",
-"https://beattyforcongress.com/news",
-"https://facebook.com/JoyceBeattyforCongress",
-"https://instagram.com/beattyforcongress",
-"https://maps.google.com/maps?f=q&hl=en&q=One+Club+Lane+New+Albany+OH+43054+United+States",
-"https://twitter.com/JoyceBeatty"
+{
+"text": "+ Export Events",
+"href": "https://beattyforcongress.com/events/?ical=1"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=One+Club+Lane+New+Albany+OH+43054+United+States"
+},
+{
+"text": "2018 GENERAL ELECTION",
+"href": "https://beattyforcongress.com/event/2018-general-election/"
+},
+{
+"text": "2018 SPECIAL ELECTION",
+"href": "https://beattyforcongress.com/event/2018-special-election/"
+},
+{
+"text": "About Joyce",
+"href": "https://beattyforcongress.com/about/"
+},
+{
+"text": "Annual Golf Outing",
+"href": "https://beattyforcongress.com/event/annual-golf-outing/"
+},
+{
+"text": "Contact",
+"href": "https://beattyforcongress.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://beattyforcongress.com/events/list/"
+},
+{
+"text": "Find out more",
+"href": "https://beattyforcongress.com/event/2018-general-election/"
+},
+{
+"text": "Find out more",
+"href": "https://beattyforcongress.com/event/2018-special-election/"
+},
+{
+"text": "Find out more",
+"href": "https://beattyforcongress.com/event/annual-dress-in-white-party/"
+},
+{
+"text": "Find out more",
+"href": "https://beattyforcongress.com/event/annual-golf-outing/"
+},
+{
+"text": "Gallery",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://beattyforcongress.com/issues-page/"
+},
+{
+"text": "News",
+"href": "https://beattyforcongress.com/news/"
+},
+{
+"text": "The Wear Your Favorite White Party",
+"href": "https://beattyforcongress.com/event/annual-dress-in-white-party/"
+},
+{
+"text": "[image: Joyce Beatty for Congress]",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://beattyforcongress.com/event/2018-general-election/"
+},
+{
+"text": "[image]",
+"href": "https://beattyforcongress.com/event/2018-special-election/"
+},
+{
+"text": "[image]",
+"href": "https://beattyforcongress.com/event/annual-dress-in-white-party/"
+},
+{
+"text": "[image]",
+"href": "https://beattyforcongress.com/event/annual-golf-outing/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoyceBeatty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoyceBeattyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beattyforcongress/"
+},
+{
+"text": "beattyforcongress@gmail.com",
+"href": "mailto:beattyforcongress@gmail.com"
+}
 ]

@@ -1,30 +1,130 @@
 [
-"http://kevincraig.us/",
-"http://kevincraig.us/EndTheWall/endorse.htm",
-"http://kevincraig.us/EndTheWall/promote.htm",
-"http://kevincraig.us/EndTheWall/separation.htm",
-"http://kevincraig.us/admired.htm",
-"http://kevincraig.us/bankrupt.htm",
-"http://kevincraig.us/creationism.htm",
-"http://kevincraig.us/deception.htm",
-"http://kevincraig.us/education.htm",
-"http://kevincraig.us/judge.htm",
-"http://kevincraig.us/liberty.htm",
-"http://kevincraig.us/literacy.htm",
-"http://kevincraig.us/overthrow.htm",
-"http://kevincraig.us/religion/nature.htm",
-"http://kevincraig.us/religion/providence.htm",
-"http://kevincraig.us/risks.htm",
-"http://kevincraig.us/tyranny.htm",
-"http://lewrockwell.com/orig/zysk1.html",
-"http://ncc-1776.org/tle2000/libe85-20000814-03.html",
-"http://vftonline.org/EndTheWall/organic_law.htm",
-"http://vftonline.org/Kevin4VFT/MooreKidz.htm",
-"http://yousuckatbeinganamerican.com/",
-"https://kevincraig.us/EndTheWall/endorse.htm",
-"https://kevincraig.us/EndTheWall/promote.htm",
-"https://kevincraig.us/college.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/education.htm",
-"https://kevincraig.us/enumerated.htm"
+{
+"text": "College",
+"href": "https://kevincraig.us/college.htm"
+},
+{
+"text": "Divine Providence",
+"href": "http://kevincraig.us/religion/providence.htm"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Education",
+"href": "https://kevincraig.us/education.htm"
+},
+{
+"text": "Endorse",
+"href": "https://kevincraig.us/EndTheWall/endorse.htm"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Liberty Under God",
+"href": "http://kevincraig.us/liberty.htm"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Organic Laws",
+"href": "http://vftonline.org/EndTheWall/organic_law.htm"
+},
+{
+"text": "Promote",
+"href": "https://kevincraig.us/EndTheWall/promote.htm"
+},
+{
+"text": "Supreme Judge of the world",
+"href": "http://kevincraig.us/judge.htm"
+},
+{
+"text": "The Myth of \"The Separation of Church and State\"",
+"href": "http://kevincraig.us/EndTheWall/separation.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "abolish",
+"href": "http://kevincraig.us/overthrow.htm"
+},
+{
+"text": "amoral",
+"href": "http://kevincraig.us/education.htm#Organic"
+},
+{
+"text": "anti-social",
+"href": "http://www.lewrockwell.com/orig/zysk1.html"
+},
+{
+"text": "bankrupt",
+"href": "http://kevincraig.us/bankrupt.htm"
+},
+{
+"text": "despised",
+"href": "http://kevincraig.us/admired.htm"
+},
+{
+"text": "easily-misled",
+"href": "http://www.ncc-1776.org/tle2000/libe85-20000814-03.html"
+},
+{
+"text": "endorse",
+"href": "http://kevincraig.us/EndTheWall/endorse.htm"
+},
+{
+"text": "enumerated powers",
+"href": "https://kevincraig.us/enumerated.htm"
+},
+{
+"text": "here",
+"href": "http://yousuckatbeinganamerican.com"
+},
+{
+"text": "illiterate",
+"href": "http://kevincraig.us/literacy.htm"
+},
+{
+"text": "intelligent design",
+"href": "http://kevincraig.us/creationism.htm"
+},
+{
+"text": "peer-dependent",
+"href": "http://vftonline.org/Kevin4VFT/MooreKidz.htm"
+},
+{
+"text": "promote",
+"href": "http://kevincraig.us/EndTheWall/promote.htm"
+},
+{
+"text": "risk",
+"href": "http://kevincraig.us/risks.htm"
+},
+{
+"text": "schools",
+"href": "http://kevincraig.us/education.htm"
+},
+{
+"text": "self-evident",
+"href": "http://kevincraig.us/deception.htm"
+},
+{
+"text": "the Laws of Nature and of Nature's God",
+"href": "http://kevincraig.us/religion/nature.htm"
+},
+{
+"text": "tyranny",
+"href": "http://kevincraig.us/tyranny.htm"
+}
 ]

@@ -1,24 +1,106 @@
 [
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/",
-"https://clairevaldezforcongress.com/endorsements",
-"https://clairevaldezforcongress.com/es/issues/memo/puerto-rico",
-"https://clairevaldezforcongress.com/issues",
-"https://clairevaldezforcongress.com/volunteer",
-"https://congress.gov/bill/117th-congress/house-bill/2070",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://instagram.com/claireforny",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC6994965",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://puertoricoreport.com/puerto-ricos-plebiscites",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://theatlantic.com/politics/archive/2016/09/vieques-invisible-health-crisis/498428",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://time.com/7332725/puerto-ricos-military-roosevelt-roads",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "About",
+"href": "https://clairevaldezforcongress.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "Endorsements",
+"href": "https://clairevaldezforcongress.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://clairevaldezforcongress.com/es/issues/memo/puerto-rico"
+},
+{
+"text": "Issues",
+"href": "https://clairevaldezforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://clairevaldezforcongress.com/jobs"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Polling has consistently shown",
+"href": "https://puertoricoreport.com/puerto-ricos-plebiscites/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Puerto Rico Self-Determination Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/2070"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://clairevaldezforcongress.com/volunteer"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez for Congress]",
+"href": "https://clairevaldezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "environmental degradation,",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6994965/"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+},
+{
+"text": "remilitarization",
+"href": "https://time.com/7332725/puerto-ricos-military-roosevelt-roads/"
+},
+{
+"text": "threatened the health of locals",
+"href": "https://www.theatlantic.com/politics/archive/2016/09/vieques-invisible-health-crisis/498428/"
+}
 ]

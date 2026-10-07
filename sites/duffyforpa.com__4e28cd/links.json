@@ -1,15 +1,62 @@
 [
-"https://duffyforpa.com/",
-"https://duffyforpa.com/about",
-"https://duffyforpa.com/issues",
-"https://duffyforpa.com/privacy",
-"https://duffyforpa.com/terms",
-"https://duffyforpa.com/volunteer",
-"https://facebook.com/",
-"https://secure.anedot.com/friends-of-sean-duffy/donate",
-"https://secure.anedot.com/friends-of-sean-duffy/donate?amount=100",
-"https://secure.anedot.com/friends-of-sean-duffy/donate?amount=25",
-"https://secure.anedot.com/friends-of-sean-duffy/donate?amount=250",
-"https://secure.anedot.com/friends-of-sean-duffy/donate?amount=50",
-"https://secure.anedot.com/friends-of-sean-duffy/donate?amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate"
+},
+{
+"text": "Home",
+"href": "https://www.duffyforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.duffyforpa.com/issues/"
+},
+{
+"text": "Meet Sean",
+"href": "https://www.duffyforpa.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/friends-of-sean-duffy/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.duffyforpa.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.duffyforpa.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.duffyforpa.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.duffyforpa.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/"
+}
 ]

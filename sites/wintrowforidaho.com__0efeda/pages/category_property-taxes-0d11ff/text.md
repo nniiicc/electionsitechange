@@ -1,10 +1,11 @@
-May 1, 2021 | 2021 Legislative Session, Budget / Government Spending, Human Rights, Property Taxes, Public Education, Sexual Assualt / Domestic Violence
-I am hopeful that we will finally end the legislative session this week — the House needs to stop fighting and move important budgets through the body that they have been holding “hostage.” In the Senate: Transportation and Income Taxes.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE May 1, 2021 – Legislative Session Update May 1, 2021 | 2021 Legislative Session , Budget / Government Spending , Human Rights , Property Taxes , Public Education , Sexual Assualt / Domestic Violence I am hopeful that we will finally end the legislative session this week — the House needs to stop fighting and move important budgets through the body that they have been holding “hostage.” In the Senate: Transportation and Income Taxes.
 Still no...
-Oct 7, 2020 | Budget / Government Spending, Civil Discourse, COVID 19, Health Care, Human Rights, Property Taxes, Public Education, Public Lands
-The Idaho Press partnered with the League of Women Voters of Idaho to publish these candidate surveys.
+District 19 Candidate Survey Oct 7, 2020 | Budget / Government Spending , Civil Discourse , COVID 19 , Health Care , Human Rights , Property Taxes , Public Education , Public Lands The Idaho Press partnered with the League of Women Voters of Idaho to publish these candidate surveys.
 Q: 1.
 What do you hope to accomplish if elected?
 I will continue to build on the relationships I have made and continue to pass legislation that focuses on the needs...
-Jan 19, 2020 | Property Taxes
-RENTAL ISSUES The session is almost over and we still have not addressed property tax relief nor any real meaningful solutions to help tenants who are struggling all over the state due to a lack of housing stock and rent increases that are outpacing Idahoan’s...
+Property Tax Commentary and Tenant Rights Jan 19, 2020 | Property Taxes RENTAL ISSUES The session is almost over and we still have not addressed property tax relief nor any real meaningful solutions to help tenants who are struggling all over the state due to a lack of housing stock and rent increases that are outpacing Idahoan’s...
+Recent Posts OPPRESSIVE BILLS HIT THE SENATE March 28, 2026 Fight or Flight?
+Let’s Fight for What’s Right!
+March 8, 2026 ANOTHER SHOCKING MURDER by ICE January 25, 2026 Preventable.
+Predictable: Idaho’s budget crisis impacts all of us November 23, 2025 Idaho’s Budget Chaos April 9, 2025 Blog Categories 2021 Legislative Session 2023 Legislative Session Budget / Government Spending Civil Discourse COVID 19 Health Care Human Rights Mandatory Minimum Sentencing Reform Marriage Age Reform News & Events Property Taxes Public Education Public Lands Sexual Assualt / Domestic Violence Uncategorized Voting Rights / Gerrymandering Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

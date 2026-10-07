@@ -1,7 +1,11 @@
 {
  "description": "Christopher Anger Campaign Events for Florida House District 53 Pasco Hernando",
  "final_url": "https://christopheranger.com/Events?range=2026-W40",
+ "fingerprint": "c793d06abcfe1d9276af744036862ad0dbd7e342",
+ "format": 3,
  "paid_for_by": "PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner",
  "title": "Christopher Anger Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

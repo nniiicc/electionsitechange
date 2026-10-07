@@ -1,4 +1,5 @@
-Citizen Action of Wisconsin Endorses Christian Phelps for Wisconsin’s 93rd Assembly District
-Citizen Action of Wisconsin, one of the state’s leading organizations pushing for actionable, progressive policy solutions, has joined the growing list of individual leaders, labor unions, and civic engagement organizations endorsing Christian Phelps for the 93rd Assembly District.
+News & Events Issues Endorsements Meet Christian Contact Donate Help re-elect Christian Phelps on Tuesday, November 3!
+Find Your Polling Place News & Events Issues Endorsements Meet Christian Contact Donate News Citizen Action of Wisconsin Endorses Christian Phelps for Wisconsin’s 93rd Assembly District Citizen Action of Wisconsin, one of the state’s leading organizations pushing for actionable, progressive policy solutions, has joined the growing list of individual leaders, labor unions, and civic engagement organizations endorsing Christian Phelps for the 93 rd Assembly District.
 “Citizen Action is a broad and diverse coalition of champions for our community, here in the Chippewa Valley and across Wisconsin,” said Christian Phelps.
-“I could not be more honored to have the trust of this amazing organization as the candidate who can be elected in the 93rd Assembly District and put our shared values–economic, racial, and social justice–into action.”
+“I could not be more honored to have the trust of this amazing organization as the candidate who can be elected in the 93rd Assembly District and put our shared values–economic, racial, and social justice–into action.” Home Issues News & Events Meet Christian Contact Donate Paid for by Phelps Campaign 440 Broadway St.
+Eau Claire, WI 54703 Website design and development by Andrew Tarcon .

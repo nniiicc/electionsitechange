@@ -1,3 +1,2 @@
-Account Suspended
-This Account has been suspended.
+Account Suspended This Account has been suspended.
 Contact your hosting provider for more information.

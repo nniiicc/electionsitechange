@@ -1,20 +1,86 @@
 [
-"https://facebook.com/jackie4congress",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwinwithjackie.com%2Fnews%2Fauringer-agrees-to-multiple-debates-august-2026",
-"https://instagram.com/jackieforcongress",
-"https://tiktok.com/@winwithjackie",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwinwithjackie.com%2Fnews%2Fauringer-agrees-to-multiple-debates-august-2026&text=Auringer+Agrees+to+Multiple+Debates%2C+Invites+Mid-Hudson+Valley+DSA+to+Host+Another",
-"https://winwithjackie.com/",
-"https://winwithjackie.com/about",
-"https://winwithjackie.com/contact",
-"https://winwithjackie.com/donations",
-"https://winwithjackie.com/events",
-"https://winwithjackie.com/gallery",
-"https://winwithjackie.com/news",
-"https://winwithjackie.com/press",
-"https://winwithjackie.com/privacy",
-"https://winwithjackie.com/trackaipat",
-"https://winwithjackie.com/volunteer",
-"https://winwithjackie.com/vote",
-"https://x.com/winwithjackie"
+{
+"text": "About Jackie",
+"href": "https://winwithjackie.com/about"
+},
+{
+"text": "Back to News",
+"href": "https://winwithjackie.com/news"
+},
+{
+"text": "CONTACT",
+"href": "https://winwithjackie.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://winwithjackie.com/donations"
+},
+{
+"text": "Events",
+"href": "https://winwithjackie.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwinwithjackie.com%2Fnews%2Fauringer-agrees-to-multiple-debates-august-2026"
+},
+{
+"text": "Gallery",
+"href": "https://winwithjackie.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://winwithjackie.com/"
+},
+{
+"text": "News",
+"href": "https://winwithjackie.com/news"
+},
+{
+"text": "Press",
+"href": "https://winwithjackie.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://winwithjackie.com/privacy"
+},
+{
+"text": "Track AIPAT",
+"href": "https://winwithjackie.com/trackaipat"
+},
+{
+"text": "Twitter / X",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwinwithjackie.com%2Fnews%2Fauringer-agrees-to-multiple-debates-august-2026&text=Auringer+Agrees+to+Multiple+Debates%2C+Invites+Mid-Hudson+Valley+DSA+to+Host+Another"
+},
+{
+"text": "Volunteer",
+"href": "https://winwithjackie.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://winwithjackie.com/vote"
+},
+{
+"text": "[image: Jackie for Congress]",
+"href": "https://winwithjackie.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jackieforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jackie4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@winwithjackie"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/winwithjackie"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@winwithjackie.com?subject=Campaign+Inquiry"
+}
 ]

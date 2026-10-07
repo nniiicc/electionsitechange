@@ -1,4 +1,6 @@
-How Texas School Vouchers Finally Passed After Decades of Failure
-Texas school vouchers failed in the legislature for decades.
+0 Skip to Content Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Home Meet Angie Priorities Endorsements Events News Shop Donate Education Policy Angie 4/27/26 Education Policy Angie 4/27/26 How Texas School Vouchers Finally Passed After Decades of Failure Texas school vouchers failed in the legislature for decades.
 Governor Abbott changed that by changing the legislature itself.
 Here is the full story of how TEFA came to exist, and what it took to get there.
+Read More Angie Carraway for Texas HD-89 Citizens for Carraway PO Box 322, Allen, TX 75013 contact@citizensforcarraway.com 972-302-9914 Explore Meet Angie Priorities Endorsements News Contact Take Action Donate Volunteer Shop Campaign Gear Register to vote Voting information Political advertising paid for by Citizens for Carraway Contributions or gifts to Citizens for Carraway are not deductible as charitable contributions for Federal income tax purposes.
+Texas law requires political committees to report certain contributor information.
+Privacy Policy · © # Citizens for Carraway

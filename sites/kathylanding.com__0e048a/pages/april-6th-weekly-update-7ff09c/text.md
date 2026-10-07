@@ -1,12 +1,8 @@
-April 6th Weekly Update
-Sunday, April 6, 2026
-I hope you had a wonderful Easter celebration!
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate April 6th Weekly Update Sunday, April 6 , 2026 I hope you had a wonderful Easter celebration!
 Also, if you are still observing the Passover week, blessings to you as well.
 We have changed the timing of when this weekly update is delivered.
 Whenever Sunday falls on a holiday, the newsletter will be sent the following Monday instead.
-WEEK 12 LEGISLATIVE UPDATE
-Immigration, Protecting Children, Insurance Rate Reduction, Infrastructure Town Hall and More
-Last week at the State House, we continued delivering real results for South Carolina.
+WEEK 12 LEGISLATIVE UPDATE Immigration, Protecting Children, Insurance Rate Reduction, Infrastructure Town Hall and More Last week at the State House, we continued delivering real results for South Carolina.
 From strengthening public safety and supporting law enforcement to protecting children and improving our public colleges, this was a full and productive week.
 It was shocking to see how hard the Democrats in the House fought against most of the bills that would strengthen protections for our citizens and families, favoring more lenient policies toward criminals.
 Please keep that in mind as you hear anything about my opponent in the General Election, a Democrat who has already tried to discredit me in the news this past week with misinformation.
@@ -14,43 +10,39 @@ Here’s a summary of what we worked on and what it means for you.
 Also, this coming Thursday, April 9th, at 5:30-7:00 PM at Mount Pleasant Town Hall, fellow House Members Reps.
 Mark Smith, Joe Bustos, and I will be hosting a Town Hall on infrastructure issues featuring representatives from the SC Department of Transportation.
 You can click the link below to reserve your free tickets to this important update event!
-Keeping Our Communities Safe
-Public safety remains a top priority, and this week we took meaningful action to strengthen it.
-The House passed the Immigration Enforcement Partnership Act (H.4764), a commonsense measure that enhances coordination between state and federal authorities.
+Keeping Our Communities Safe Public safety remains a top priority, and this week we took meaningful action to strengthen it.
+The House passed the Immigration Enforcement Partnership Act (H.4764) , a commonsense measure that enhances coordination between state and federal authorities.
 By strengthening 287(g) partnerships and equipping local law enforcement with clear tools, training, and authority, this legislation ensures more consistent enforcement across South Carolina.
 It empowers officers to work alongside federal partners and ICE to identify and process individuals in the country illegally who have been charged with crimes, helping uphold the rule of law and keep our communities safe.
-Backed by the White House, this effort reinforces our commitment to removing dangerous individuals from our streets while supporting the officers who protect our communities every day.
-The House also passed “Fargo, Hyco, Rico, Coba, Wick, Mikka, and Bumi’s Law” (H.3034), strengthening protections for K9 officers and horses that serve alongside law enforcement.
+Backed by the White House , this effort reinforces our commitment to removing dangerous individuals from our streets while supporting the officers who protect our communities every day.
+The House also passed “Fargo, Hyco, Rico, Coba, Wick, Mikka, and Bumi’s Law” (H.3034) , strengthening protections for K9 officers and horses that serve alongside law enforcement.
 These animals are not just companions; they are highly trained officers that track dangerous criminals, protect their handlers, and help keep our communities safe every day.
-Originally inspired by Fargo, a K9 officer and partner to Officer Warren Cavanagh, this legislation reflects years of advocacy to ensure these brave animals are properly protected under the law.
+Originally inspired by Fargo, a K9 officer and partner to Officer Warren Cavanagh , this legislation reflects years of advocacy to ensure these brave animals are properly protected under the law.
 It increases penalties for those who harm or kill a police animal, making these offenses felonies punishable by up to 15 years in prison, along with significant fines and full restitution for the cost of replacing and training the animal.
 This bill now heads to the Senate, another step toward ensuring South Carolina stands firmly with law enforcement and protects those who protect us.
-In addition, the House passed H.4804, Strengthening Penalties for the Sexual Exploitation of a Minor.
+In addition, the House passed H.4804 , Strengthening Penalties for the Sexual Exploitation of a Minor .
 This bill closes dangerous loopholes, increases minimum sentences, and ensures repeat offenders face mandatory prison time.
 Protecting children is not optional; it is our responsibility, and we are making sure those who exploit minors are held fully accountable.
 We also continued advancing legislation to protect South Carolina Land and Security (H.3408) by preventing foreign adversaries from purchasing or controlling property in our state.
 This is about safeguarding our farmland, our infrastructure, and our future from those who do not have our best interests at heart.
-Protecting Children & Putting Students First
-We also made important progress in education and protecting our students.
-The House unanimously passed the Tenure Accountability Act (H.4761), bringing consistent, commonsense standards to our public colleges and universities.
+Protecting Children & Putting Students First We also made important progress in education and protecting our students.
+The House unanimously passed the Tenure Accountability Act (H.4761) , bringing consistent, commonsense standards to our public colleges and universities.
 This legislation requires annual faculty evaluations and regular post-tenure reviews, ensuring a stronger focus on teaching, performance, and results.
 By increasing transparency and accountability, this bill helps ensure students receive a high-quality education and taxpayers can have confidence in how their dollars are being used.
-We also passed H.4591, the Stop Harm from Addictive Social Media (SHASM) Act, putting new safeguards in place to protect children online.
+We also passed H.4591 , the Stop Harm from Addictive Social Media (SHASM) Act, putting new safeguards in place to protect children online.
 This legislation targets the addictive features that keep kids glued to their screens, like endless scrolling, autoplay videos, and late-night notifications, while requiring age verification and strengthening default protections for minors.
 Just as importantly, it puts parents back in control by giving them tools like screen time limits and the ability to restrict algorithm-driven content.
-Lowering Costs & Supporting Families
-This week, we also took meaningful steps to make life more affordable and improve our state’s infrastructure.
-The House passed the Insurance Rate Reduction and Policyholder Protection Act (H.4817), a major step toward lowering insurance costs.
+Lowering Costs & Supporting Families This week, we also took meaningful steps to make life more affordable and improve our state’s infrastructure.
+The House passed the Insurance Rate Reduction and Policyholder Protection Act (H.4817) , a major step toward lowering insurance costs.
 This bill cracks down on fraud and abuse that drive up premiums, increases transparency and accountability for insurance companies, and helps homeowners take steps to reduce risk and lower costs.
-The goal is simple: fair, affordable insurance for all South Carolinians.
-Finally, the House Ways and Means Committee advanced the Pregnancy Care Tax Credit (S.32), which encourages donations to pregnancy resource centers, maternity homes, and organizations that support expecting mothers.
+The goal is simple: fair, affordable insurance for all South Carolinians .
+Finally, the House Ways and Means Committee advanced the Pregnancy Care Tax Credit (S.32) , which encourages donations to pregnancy resource centers, maternity homes, and organizations that support expecting mothers.
 These groups provide real, on-the-ground help, from counseling to essential supplies, and this legislation ensures they have the resources to continue supporting women and families across our state.
 It’s about strengthening communities and making sure no one walks through pregnancy alone.
 This week was about results, real, meaningful progress that puts South Carolina first.
 We are working to keep our communities safe, protect our children, lower costs, and build a stronger future for our state.
 And while there is still more work to be done, we are continuing to move forward with a clear focus: delivering commonsense solutions that make a difference in your everyday life.
-Senate Disappoints Everyone with a No Vote on Tax Conformity
-After passing the Tax Conforming Bill out of the Senate Finance Committee two weeks ago, the Senate surprised us all with a solid "NO" vote to have South Carolina's tax code conform to the One Big Beautiful Bill for 2025.
+Senate Disappoints Everyone with a No Vote on Tax Conformity After passing the Tax Conforming Bill out of the Senate Finance Committee two weeks ago, the Senate surprised us all with a solid "NO" vote to have South Carolina's tax code conform to the One Big Beautiful Bill for 2025.
 The reasons given varied from the fact that they want us to pass a property tax relief bill, and said they don't think the General Assembly can afford to do both, to comments mentioned earlier about the new tax cut bill that moves us away from the Federal system.
 Let me be crystal clear - the Tax Conforming Bill was specifically designed for the 2025 tax year.
 While it is true that we will be on a whole new system for 2026, where South Carolina will have two lower rates than before, 1.99% and 5.21%, this has absolutely nothing to do with 2025.
@@ -63,17 +55,14 @@ Due to Furlough this coming week, even if we can all call our Senators and push 
 I am appalled at this, and wish their vote had been earlier, as it should have been, so we could have had time to follow up with them before April 15th.
 From what I have learned, there is no excuse or explanation that makes sense for this decision.
 With $2.4 billion in excess revenue in the 2025 tax year, this was a perfect opportunity to return some of that money to our tax-paying citizens!
-Around the District and the Lowcountry
-Infrastructure Town Hall with SCDOT to be held at Mount Pleasant Town Hall
-This Thursday, April 9th, at 5:30-7:00 PM, Rep.
+Around the District and the Lowcountry Infrastructure Town Hall with SCDOT to be held at Mount Pleasant Town Hall This Thursday, April 9th, at 5:30-7:00 PM, Rep.
 Mark Smith, Rep.
 Joe Bustos, and I will host a Town Hall open forum along with team members from SCDOT in order to update our community on some of the biggest infrastructure concerns we currently face.
 We would love to see as many people attend as possible regarding this important subject.
-Please reserve a ticket by clicking on the link here.
+Please reserve a ticket by clicking on the link here .
 Be prepared to bring any questions you have.
 We hope to see you there!
-Oceanside Collegiate Academy State Champions
-This week, we welcomed the State Championship Teams of Oceanside Collegiate Academy to the State House.
+Oceanside Collegiate Academy State Champions This week, we welcomed the State Championship Teams of Oceanside Collegiate Academy to the State House.
 Once again, there were three teams in all, Football, Girls' Tennis, and Boys' Volleyball.
 The Landsharks' Football Team defeated Belton Honea-Path High School 28-7 in the 2025 Class AAA State Championship on Friday, December 5, 2025.
 This was the team's third consecutive state title win, and the second straight year to beat the Bears in the 3A finals.
@@ -91,3 +80,9 @@ Congratulations to these fine student athletes, their coaches, Athletic Director
 Kelly Linkenhoker for these achievements!
 As always, I appreciate the opportunity to represent you and to keep you informed about the work being done in Columbia.
 I welcome your feedback and encourage you to reach out if you have any questions or would like more information on these or other issues before the General Assembly.
+Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

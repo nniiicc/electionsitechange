@@ -1,10 +1,6 @@
-top of page
-Upcoming Events
-- Fighting For Illinois Luncheon with Special Guest Congresswoman Miller (IL 15)Sat, Oct 10Yoder's KitchenMore info
-- Luncheon with Senator Mark Kirk and Congressman Bob Dold in support of Bob FiorettiSun, Oct 11NorthbrookMore info
-- Fioretti Debate Challenge: Lincoln-Douglas Series (Aug-Oct)Date, location, time on flyer below.CharlestonMore info
-Paid for by Bob for Illinois.
+top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search Upcoming Events FREE- Bob Fioretti's SAFE-T Act Task Force- Springfield Thu, Oct 08 Poe's on the Hill More info RSVP SAFE T Act Task Force Community Forum with Bob Fioretti Fri, Oct 09 Loves Park City Hall More info RSVP Fighting For Illinois Luncheon with Special Guest Congresswoman Miller (IL 15) Sat, Oct 10 Yoder's Kitchen More info Buy Tickets Luncheon with Senator Mark Kirk and Congressman Bob Dold in support of Bob Fioretti Sun, Oct 11 Northbrook More info Buy Tickets Lincoln-Douglas Debate #4- Charleston, IL Fri, Oct 16 Lincoln Douglas Debate Museum More info RSVP Road to Victory!
+Tue, Oct 20 115 Bourbon Street More info Details Fioretti Debate Challenge: Lincoln-Douglas Series (Aug-Oct) Date, location, time on flyer below.
+Charleston More info RSVP EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
-- X (Twitter)
-- Copy link
-bottom of page
+DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

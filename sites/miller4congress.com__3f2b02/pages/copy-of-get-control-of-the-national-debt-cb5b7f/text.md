@@ -1,25 +1,12 @@
-Reinvent Your Business Communication at the most affordable calling charges in the market.
-Support our veterans and cut
-wasteful military spending.
-Troy Downing and the Trump Administration
-have been horrible for Veterans.
-They say they
-care about Veterans but all they actually do is create unnecessary
-and expensive wars and cut benefits for the things that Veterans who have served actually need.
-As I mentioned on a previous page, I want to get us out of endless wars and the wasteful spending that is promoted by the military industrial complex.
+top of page Menu [ + ] Close [ - ] WELCOME Main Page Issues EMAIL SUBSCRIBE CAMPAIGN INFORMATION MT2 Townhall Question Form MEDIA COVERAGE MY STATEMENT OF CANDIDACY BIO Signature Fraud Investigation SUPPORT OUR CAMPAIGN ISSUES Reinvent Your Business Communication at the most affordable calling charges in the market.
+WELCOME Main Page Issues EMAIL SUBSCRIBE CAMPAIGN INFORMATION MT2 Townhall Question Form MEDIA COVERAGE MY STATEMENT OF CANDIDACY BIO Signature Fraud Investigation SUPPORT OUR CAMPAIGN ISSUES Support our veterans and cut wasteful military spending.
+Troy Downing and the Trump Administration ​ have been horrible for Veterans.
+They say they care about Veterans but all they actually do is create unnecessary and expensive wars and cut benefits for the things that Veterans who have served actually need. ​ As I mentioned on a previous page , I want to get us out of endless wars and the wasteful spending that is promoted by the military industrial complex.
 The War in Iran has already cost us hundreds of billions of dollars in destroyed equipment and other costs.
 The war has only made us less secure.
-And now, Trump and Downing want to increase our military budget to over 1.15 Trillion dollars.
-Meanwhile, the Trump Administration has been cutting all kind of programs and services that actually help Veterans.
+And now, Trump and Downing want to increase our military budget to over 1.15 Trillion dollars. ​ Meanwhile, the Trump Administration has been cutting all kind of programs and services that actually help Veterans.
 It is a true disgrace.
-These include the following:
-Drastic reduction in onboard employees at the VA as demonstrated by the following charts:
-A reduction in new enrollees in the VA healthcare system as shown by the following chart.
-This is a testimonial from a Montana Veteran included in a U.S.
-Senate Report on the state of Veterans' healthcare.
-In addition to cuts in healthcare services, and increase in wait times, we have also seen cuts to the following other programs as well:
-- 1,000 beds from the GPD program for homeless vets
-- Cut of $ 2.2 billions from programs that provide housing support for veterans through the Department of Housing and Urban Development through the "Housing First" program.
-These are just some of the cuts to Veterans' programs.
+These include the following: ​ ​ Drastic reduction in onboard employees at the VA as demonstrated by the following charts: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​A reduction in new enrollees in the VA healthcare system as shown by the following chart. ​ ​ ​ ​ ​ ​ ​This is a testimonial from a Montana Veteran included in a U.S.
+Senate Report on the state of Veterans' healthcare. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​In addition to cuts in healthcare services, and increase in wait times, we have also seen cuts to the following other programs as well: ​ 1,000 beds from the GPD program for homeless vets Cut of $ 2.2 billions from programs that provide housing support for veterans through the Department of Housing and Urban Development through the "Housing First" program. ​ These are just some of the cuts to Veterans' programs.
 Again, all of this is driven by wealthy billionaires who want to spend endless amounts of money on endless wars, but hate to spend anything on Veterans who need the services.
-We need to reverse this trend completely.
+We need to reverse this trend completely. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Miller for Congress Contact us at brian@miller4congress.com Miller for Congress PO Box 942 Helena, MT 59624 ​ Paid for by Miller for Congress ​ bottom of page

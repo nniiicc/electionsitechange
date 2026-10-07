@@ -1,6 +1,4 @@
-Jabra Muhawieh for State Assembly
-Jabra Muhawieh — Business Owner • Enrolled Agent • Real Estate Broker
-Jabra Muhawieh is a business owner, Enrolled Agent, tax professional, and California real estate broker based in the San Francisco Bay Area.
+0 Skip to Content Jabra Muhawieh for California State Assembly District 21 Meet Jabra Muhawieh Policy Platform Get Involved Open Menu Close Menu Jabra Muhawieh for California State Assembly District 21 Meet Jabra Muhawieh Policy Platform Get Involved Open Menu Close Menu Meet Jabra Muhawieh Policy Platform Get Involved Jabra Muhawieh for State Assembly Jabra Muhawieh — Business Owner • Enrolled Agent • Real Estate Broker Jabra Muhawieh is a business owner, Enrolled Agent, tax professional, and California real estate broker based in the San Francisco Bay Area.
 He is running for California State Assembly District 21 because he believes government should be accountable to taxpayers, focused on results, and committed to creating opportunities for working families, homeowners, and small businesses.
 His family’s story is rooted in the American dream.
 His grandfather immigrated to the United States in the late 1950s in search of opportunity and built a life through hard work, entrepreneurship, and service to the community.

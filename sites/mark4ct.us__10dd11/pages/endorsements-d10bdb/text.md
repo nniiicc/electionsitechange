@@ -1,27 +1,18 @@
-Endorsements & Community Voices
-Mark is honored to have earned the support of community leaders, organizations, and others from across the region.
-Endorsements
-Independent Party
-The Independent Party State Central Committee voted to endorse Mark’s candidacy for reelection.
+Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Endorsements Endorsements & Community Voices Mark is honored to have earned the support of community leaders, organizations, and others from across the region.
+Endorsements Independent Party The Independent Party State Central Committee voted to endorse Mark’s candidacy for reelection.
 Their endorsement reflects a desire for elected officials who will work with colleagues across party lines while advancing the issues important to the people they represent.
-Association of Retired Teachers of Connecticut PAC
-The Association of Retired Teachers of Connecticut PAC has endorsed Mark for reelection in the November 2026 general election.
+Association of Retired Teachers of Connecticut PAC The Association of Retired Teachers of Connecticut PAC has endorsed Mark for reelection in the November 2026 general election.
 ARTC recognized Mark’s support for Connecticut’s community of retired teachers and the issues important to them.
-NFIB Connecticut PAC
-The NFIB Connecticut PAC has endorsed Mark for reelection to the Connecticut General Assembly.
+NFIB Connecticut PAC The NFIB Connecticut PAC has endorsed Mark for reelection to the Connecticut General Assembly.
 NFIB cited Mark’s commitment to the needs of Connecticut’s Main Street small businesses and their employees.
 NFIB represents thousands of small and independent businesses across Connecticut and advocates on behalf of small business owners throughout the country.
-Connecticut REALTORS
-Connecticut REALTORS has endorsed Mark Anderson for reelection to the 62nd House District.
+Connecticut REALTORS Connecticut REALTORS has endorsed Mark Anderson for reelection to the 62nd House District.
 Representing nearly 18,000 real estate professionals across the state, the Association cited the importance of maintaining a positive environment for living in and transferring property in Connecticut and the role real estate plays in building strong communities and supporting economic stability.
-Connecticut State Fraternal Order of Police
-The Connecticut State Fraternal Order of Police has endorsed Mark Anderson for reelection, recognizing his commitment to public safety, Connecticut’s law enforcement community, and the citizens of our state.
+Connecticut State Fraternal Order of Police The Connecticut State Fraternal Order of Police has endorsed Mark Anderson for reelection, recognizing his commitment to public safety, Connecticut’s law enforcement community, and the citizens of our state.
 The organization also cited Mark’s willingness to engage on issues affecting law enforcement officers and their families.
-Community Voices
-Beyond formal endorsements, Mark has spent years working with and representing people throughout our communities.
+Community Voices Beyond formal endorsements, Mark has spent years working with and representing people throughout our communities.
 Read what residents, neighbors, businesses, and community members have shared about their experiences with Mark and his service.
-Stead Farm
-I want to take a minute to recognize our State Representative, Mark Anderson, and explain why I am proud to support him for reelection this year.
+Stead Farm I want to take a minute to recognize our State Representative, Mark Anderson, and explain why I am proud to support him for reelection this year.
 Since taking office, Mark has consistently shown up for Barkhamsted, Granby, Hartland, New Hartford, and the communities throughout the Farmington River Valley.
 He understands that the needs of our small rural towns are different from the needs of the larger cities, and he has made sure we continue to have a voice in Hartford.
 Mark has been a strong advocate for our farmers, landowners, forests, waterways, wildlife, and the rural way of life that makes this area so special.
@@ -50,3 +41,7 @@ It is something completely different to answer the phone, do the work, make the 
 I have personally seen how hard Mark works for the people of the 62nd District, the farming community, and the Farmington River Valley.
 He is a true servant to our community, and I am incredibly grateful for everything he has done, not only for Connecticut agriculture and our rural towns, but for me personally as I have learned how to navigate state government and use my voice.
 Mark Anderson has earned my trust, my respect, and my support.
+Read the full post on Facebook Voter Information Endorsements Contact Privacy Policy Paid for by Mark4CT, Mary Zlotnick,Treasurer.
+Approved by Mark W.
+Anderson.
+Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Volunteer Contact Contribute Military Service Close Menu

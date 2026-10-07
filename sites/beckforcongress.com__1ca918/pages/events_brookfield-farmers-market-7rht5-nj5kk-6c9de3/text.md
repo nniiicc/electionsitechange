@@ -1,9 +1,2 @@
-Back to All Events
-Come and meet our local farmers, producers, and the Washington County Democratic Party.
-Previous
-Previous
-September 8
-Muskego Action Team
-Next
-Next
-September 12
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events West Bend Farmer's Market Saturday, September 12, 2026 7:30 AM 11:00 AM Downtown West Bend 120 North Main Street West Bend, Wisconsin, 53095 United States (map) Google Calendar ICS Come and meet our local farmers, producers, and the Washington County Democratic Party.
+Previous Previous September 8 Muskego Action Team Next Next September 12 Waukesha Pride DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

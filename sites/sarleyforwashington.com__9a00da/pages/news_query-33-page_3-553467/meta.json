@@ -1,7 +1,12 @@
 {
- "description": "From the Campaign Trail Here\u2019s the latest from the campaign trail and our work across [\u2026]",
+ "description": "From the Campaign Trail Here’s the latest from the campaign trail and our work across […]",
  "final_url": "https://sarleyforwashington.com/news/?query-33-page=3",
- "paid_for_by": "Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats \ud83d\udc08\u200d\u2b1b",
+ "fingerprint": "8c0506c4381f3ddbbf09884c7c26243a821ecee1",
+ "format": 3,
+ "paid_for_by": "Paid for by Derek Sarley for State Representative",
  "title": "News - Elect Derek Sarley for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

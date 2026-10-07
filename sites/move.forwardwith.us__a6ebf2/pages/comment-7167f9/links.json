@@ -1,13 +1,46 @@
 [
-"https://facebook.com/people/James-Rich-for-House-District-6/61591680520447",
-"https://instagram.com/move.forwardwith.us",
-"https://move.forwardwith.us/album",
-"https://move.forwardwith.us/bio",
-"https://move.forwardwith.us/contact",
-"https://move.forwardwith.us/donate",
-"https://move.forwardwith.us/events",
-"https://move.forwardwith.us/home",
-"https://move.forwardwith.us/issues",
-"https://move.forwardwith.us/videos",
-"https://youtube.com/@MoveForwardWithUs"
+{
+"text": "About James",
+"href": "https://move.forwardwith.us/bio"
+},
+{
+"text": "Contact",
+"href": "https://move.forwardwith.us/contact"
+},
+{
+"text": "Donate",
+"href": "https://move.forwardwith.us/donate"
+},
+{
+"text": "Events",
+"href": "https://move.forwardwith.us/events"
+},
+{
+"text": "Home",
+"href": "https://move.forwardwith.us/home"
+},
+{
+"text": "Issues",
+"href": "https://move.forwardwith.us/issues"
+},
+{
+"text": "People and Places",
+"href": "https://move.forwardwith.us/album"
+},
+{
+"text": "Videos",
+"href": "https://move.forwardwith.us/videos"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/James-Rich-for-House-District-6/61591680520447/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/move.forwardwith.us/"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@MoveForwardWithUs"
+}
 ]

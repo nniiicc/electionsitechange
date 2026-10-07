@@ -1,28 +1,110 @@
 [
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/how-much-are-we-paying-for-public-transportation-in-mchenry-county",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/videos",
-"https://mchenrycountyil.gov/departments/transportation/mcride-connect",
-"https://mchenrycountyil.gov/departments/transportation/transit-services/mcride-dial-a-ride",
-"https://mchenrycountyil.gov/home/showpublisheddocument/110932/638134533088670000",
-"https://metra.com/train-lines/up-nw",
-"https://pacebus.com/sites/default/files/2020-04/Pacert807.pdf",
-"https://pacebus.com/sites/default/files/2020-04/Pacert808.pdf",
-"https://pacebus.com/sites/default/files/2020-06/Route%20806%20Schedule.pdf.pdf",
-"https://repstevenreick.com/2025/07/07/mchenry-county-and-the-rta-should-we-stay-or-should-we-go",
-"https://rtachicago.org/uploads/files/general/Riders/Digital-Library/ADA-Paratransit/RTA-ADA-Paratransit-Brochure-Website.pdf",
-"https://rtachicago.org/uploads/files/general/Riders/Reduced-Fare-Brochure-240301-mk-v7.pdf",
-"https://rtachicago.org/uploads/files/general/Riders/Ride-Free-Brochure-240201-mk-v17.pdf",
-"https://rtams.org/media/resources/sales-tax-distribution-county-2000-2024",
-"https://trains.com/trn/news-reviews/news-wire/metra-assumes-operation-of-trains-on-up-commuter-lines",
-"https://transit.dot.gov/funding/grants/enhanced-mobility-seniors-individuals-disabilities-section-5310",
-"https://turnkeydigital.com/",
-"https://uzurv.com/"
+{
+"text": "550",
+"href": "https://www.mchenrycountyil.gov/home/showpublisheddocument/110932/638134533088670000"
+},
+{
+"text": "806",
+"href": "https://www.pacebus.com/sites/default/files/2020-06/Route%20806%20Schedule.pdf.pdf"
+},
+{
+"text": "807",
+"href": "https://www.pacebus.com/sites/default/files/2020-04/Pacert807.pdf"
+},
+{
+"text": "808",
+"href": "https://www.pacebus.com/sites/default/files/2020-04/Pacert808.pdf"
+},
+{
+"text": "ADA Paratransit Permit Card",
+"href": "https://www.rtachicago.org/uploads/files/general/Riders/Digital-Library/ADA-Paratransit/RTA-ADA-Paratransit-Brochure-Website.pdf"
+},
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/how-much-are-we-paying-for-public-transportation-in-mchenry-county/#respond"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "MCRide Connect",
+"href": "https://www.mchenrycountyil.gov/departments/transportation/mcride-connect"
+},
+{
+"text": "MCRide Dial-a-Ride program",
+"href": "https://www.mchenrycountyil.gov/departments/transportation/transit-services/mcride-dial-a-ride"
+},
+{
+"text": "Metra UP Northwest",
+"href": "https://www.trains.com/trn/news-reviews/news-wire/metra-assumes-operation-of-trains-on-up-commuter-lines/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "RTA Reduced Fare,",
+"href": "https://www.rtachicago.org/uploads/files/general/Riders/Reduced-Fare-Brochure-240301-mk-v7.pdf"
+},
+{
+"text": "RTA Website",
+"href": "https://rtams.org/media/resources/sales-tax-distribution-county-2000-2024"
+},
+{
+"text": "Ride Free",
+"href": "https://www.rtachicago.org/uploads/files/general/Riders/Ride-Free-Brochure-240201-mk-v17.pdf"
+},
+{
+"text": "Section 5310 grants",
+"href": "https://www.transit.dot.gov/funding/grants/enhanced-mobility-seniors-individuals-disabilities-section-5310"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "UZURV",
+"href": "https://uzurv.com/"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick][image: steve reick]",
+"href": "https://ilikereick.com/home"
+},
+{
+"text": "in my last report",
+"href": "https://repstevenreick.com/2025/07/07/mchenry-county-and-the-rta-should-we-stay-or-should-we-go/"
+},
+{
+"text": "seven",
+"href": "https://www.metra.com/train-lines/up-nw"
+}
 ]

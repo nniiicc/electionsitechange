@@ -1,7 +1,9 @@
 {
  "description": "Help us campaign today for a better tomorrow!",
  "final_url": "https://quickforidaho.com/donations",
- "paid_for_by": null,
+ "fingerprint": "56119ba8f653da9d962c571a98ea40096caecd94",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donations",
  "years_mentioned": []
 }

@@ -1,11 +1,42 @@
 [
-"http://legis.state.wv.us/index.cfm",
-"https://derekennisforhouse.com/",
-"https://derekennisforhouse.com/district-4",
-"https://derekennisforhouse.com/home-1",
-"https://facebook.com/profile.php?id=61588108030266",
-"https://secure.winred.com/ennis-for-house/donate",
-"https://wvde.us/",
-"https://youtube.com/c/WestVirginiaHouseofDelegates",
-"https://zipdatamaps.com/politics/state-level/district/map-of-west-virginia-state-house-of-delegates-district-004"
+{
+"text": "DONATE NOW TO SUPPORT THE CAMPAIGN",
+"href": "https://secure.winred.com/ennis-for-house/donate"
+},
+{
+"text": "Discussion",
+"href": "https://www.derekennisforhouse.com/home-1"
+},
+{
+"text": "District 4 Info",
+"href": "https://www.derekennisforhouse.com/district-4"
+},
+{
+"text": "Home",
+"href": "https://www.derekennisforhouse.com"
+},
+{
+"text": "WV Department of Education",
+"href": "https://wvde.us/"
+},
+{
+"text": "WV House Floor Live",
+"href": "https://www.youtube.com/c/WestVirginiaHouseofDelegates"
+},
+{
+"text": "WV Legislature Info",
+"href": "http://www.legis.state.wv.us/index.cfm"
+},
+{
+"text": "[image: district map.png]",
+"href": "https://www.zipdatamaps.com/politics/state-level/district/map-of-west-virginia-state-house-of-delegates-district-004"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.derekennisforhouse.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588108030266"
+}
 ]

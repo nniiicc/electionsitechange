@@ -1,18 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/SandraforAlaska",
-"https://instagram.com/sandraforalaska",
-"https://sandraforalaska.com/",
-"https://sandraforalaska.com/GetInvolved",
-"https://sandraforalaska.com/about",
-"https://sandraforalaska.com/contact",
-"https://sandraforalaska.com/donate",
-"https://sandraforalaska.com/endorsements",
-"https://sandraforalaska.com/events",
-"https://sandraforalaska.com/issues/economics-that-work-for-all-alaskans",
-"https://sandraforalaska.com/issues/education",
-"https://sandraforalaska.com/issues/issue-1",
-"https://sandraforalaska.com/issues/issue-2",
-"https://sandraforalaska.com/news",
-"https://sandraforalaska.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.sandraforalaska.com/about"
+},
+{
+"text": "An Economy that Works for all Alaskans",
+"href": "https://www.sandraforalaska.com/issues/economics-that-work-for-all-alaskans"
+},
+{
+"text": "Contact",
+"href": "https://www.sandraforalaska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sandraforalaska.com/donate"
+},
+{
+"text": "EDUCATION - Fully Fund for Quality",
+"href": "https://www.sandraforalaska.com/issues/education"
+},
+{
+"text": "ENERGY: Reliable, Diverse and Affordable",
+"href": "https://www.sandraforalaska.com/issues/issue-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sandraforalaska.com/endorsements"
+},
+{
+"text": "Ethics in Government:Accountability to Alaskans",
+"href": "https://www.sandraforalaska.com/issues/issue-2"
+},
+{
+"text": "Events",
+"href": "https://www.sandraforalaska.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sandraforalaska.com/GetInvolved"
+},
+{
+"text": "News",
+"href": "https://www.sandraforalaska.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sandraforalaska.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Sandra Loomis for Alaska House",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "Sandra@sandraforalaska.com",
+"href": "mailto:Sandra@sandraforalaska.com"
+},
+{
+"text": "View more",
+"href": "https://www.sandraforalaska.com/issues/economics-that-work-for-all-alaskans"
+},
+{
+"text": "View more",
+"href": "https://www.sandraforalaska.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.sandraforalaska.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.sandraforalaska.com/issues/issue-2"
+},
+{
+"text": "[image: Sandra Loomis for Alaska House D30]",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SandraforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sandraforalaska"
+}
 ]

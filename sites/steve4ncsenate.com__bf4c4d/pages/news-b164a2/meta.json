@@ -1,8 +1,10 @@
 {
  "description": "Post and News from the Campaign Trail",
  "final_url": "https://www.steve4ncsenate.com/news",
- "paid_for_by": null,
- "title": "On the Ground \u2014 The Road to Raleigh",
+ "fingerprint": "8311d5d08781dfedba419e03e447002a5048db15",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "On the Ground — The Road to Raleigh",
  "years_mentioned": [
   "2025",
   "2026"

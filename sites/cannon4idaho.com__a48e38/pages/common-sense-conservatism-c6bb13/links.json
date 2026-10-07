@@ -1,21 +1,78 @@
 [
-"http://cannon4idaho.com/",
-"http://cannon4idaho.com/american-heritage-idaho-heritage",
-"http://cannon4idaho.com/common-sense-conservatism/second-amendment",
-"http://cannon4idaho.com/criminal-justice",
-"http://cannon4idaho.com/economic-political-systems",
-"http://cannon4idaho.com/education",
-"http://cannon4idaho.com/federalism",
-"http://cannon4idaho.com/healthcare",
-"http://cannon4idaho.com/individual-rights",
-"http://cannon4idaho.com/infrastructure",
-"http://cannon4idaho.com/religious-freedom",
-"http://cannon4idaho.com/role-of-government",
-"http://cannon4idaho.com/taxes",
-"http://wordpress.com/themes/dyad",
-"http://wordpress.org/",
-"https://cannon4idaho.com/",
-"https://cannon4idaho.com/common-sense-conservatism",
-"https://cannon4idaho.com/contact-2",
-"https://facebook.com/Cannon4IdahoHouse"
+{
+"text": "American Heritage/Idaho Heritage",
+"href": "http://cannon4idaho.com/american-heritage-idaho-heritage/"
+},
+{
+"text": "Common Sense Conservatism",
+"href": "https://cannon4idaho.com/common-sense-conservatism/"
+},
+{
+"text": "Contact Us",
+"href": "https://cannon4idaho.com/contact-2/"
+},
+{
+"text": "Criminal Justice",
+"href": "http://cannon4idaho.com/criminal-justice/"
+},
+{
+"text": "Economic/Political Systems",
+"href": "http://cannon4idaho.com/economic-political-systems/"
+},
+{
+"text": "Education",
+"href": "http://cannon4idaho.com/education/"
+},
+{
+"text": "Federalism",
+"href": "http://cannon4idaho.com/federalism/"
+},
+{
+"text": "Healthcare",
+"href": "http://cannon4idaho.com/healthcare/"
+},
+{
+"text": "Home",
+"href": "http://cannon4idaho.com"
+},
+{
+"text": "Individual Rights",
+"href": "http://cannon4idaho.com/individual-rights/"
+},
+{
+"text": "Infrastructure",
+"href": "http://cannon4idaho.com/infrastructure/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "http://wordpress.org/"
+},
+{
+"text": "Religious Freedom",
+"href": "http://cannon4idaho.com/religious-freedom/"
+},
+{
+"text": "Right to Bear Arms",
+"href": "http://cannon4idaho.com/common-sense-conservatism/second-amendment/"
+},
+{
+"text": "Role of Government",
+"href": "http://cannon4idaho.com/role-of-government/"
+},
+{
+"text": "Taxes",
+"href": "http://cannon4idaho.com/taxes/"
+},
+{
+"text": "Welcome.",
+"href": "https://cannon4idaho.com/"
+},
+{
+"text": "WordPress.com",
+"href": "http://wordpress.com/themes/dyad/"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/Cannon4IdahoHouse"
+}
 ]

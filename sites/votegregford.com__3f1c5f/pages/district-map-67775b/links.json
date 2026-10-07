@@ -1,18 +1,78 @@
 [
-"https://buy.stripe.com/9AQ2aKdxj4ym6Qg5kl",
-"https://facebook.com/profile.php?id=61559197861911",
-"https://scvotes.gov/",
-"https://votegregford.com/",
-"https://votegregford.com/2026-republican-wins",
-"https://votegregford.com/contact",
-"https://votegregford.com/district-map",
-"https://votegregford.com/events",
-"https://votegregford.com/images/district-98-map.pdf",
-"https://votegregford.com/meet-greg",
-"https://votegregford.com/news",
-"https://votegregford.com/priorities",
-"https://votegregford.com/privacy-policy",
-"https://votegregford.com/terms",
-"https://votegregford.com/volunteer",
-"https://x.com/Ford_SC98"
+{
+"text": "2026 Republican Wins",
+"href": "https://votegregford.com/2026-republican-wins"
+},
+{
+"text": "Am I in 98?",
+"href": "https://votegregford.com/district-map"
+},
+{
+"text": "Contact",
+"href": "https://votegregford.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://votegregford.com/contact"
+},
+{
+"text": "District 98 Map",
+"href": "https://votegregford.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://buy.stripe.com/9AQ2aKdxj4ym6Qg5kl"
+},
+{
+"text": "Download the Official PDF Map",
+"href": "https://votegregford.com/images/district-98-map.pdf"
+},
+{
+"text": "Events",
+"href": "https://votegregford.com/events"
+},
+{
+"text": "Home",
+"href": "https://votegregford.com/"
+},
+{
+"text": "Meet Greg",
+"href": "https://votegregford.com/meet-greg"
+},
+{
+"text": "News",
+"href": "https://votegregford.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://votegregford.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votegregford.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votegregford.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://votegregford.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://www.x.com/Ford_SC98"
+},
+{
+"text": "[image: Greg Ford — State House District 98]",
+"href": "https://votegregford.com/"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/profile.php?id=61559197861911"
+},
+{
+"text": "scVOTES.gov",
+"href": "https://www.scvotes.gov"
+}
 ]

@@ -1,12 +1,42 @@
 [
-"https://briancohn4mn.bsky.social/",
-"https://briancohn4mn.com/",
-"https://briancohn4mn.com/406a7-about-us",
-"https://briancohn4mn.com/contact-us",
-"https://briancohn4mn.com/events-and-meetings",
-"https://briancohn4mn.com/priorities",
-"https://facebook.com/briancohn4mn",
-"https://forms.oneswitchboard.com/minnesotans-for-brian-cohn/subscribe",
-"https://instagram.com/briancohn4mn",
-"https://secure.actblue.com/donate/briancohn4mn"
+{
+"text": "About",
+"href": "https://briancohn4mn.com/406a7-about-us/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/briancohn4mn"
+},
+{
+"text": "Contact",
+"href": "https://briancohn4mn.com/contact-us/"
+},
+{
+"text": "Events",
+"href": "https://briancohn4mn.com/events-and-meetings/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/briancohn4mn"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/briancohn4mn/"
+},
+{
+"text": "Priorities",
+"href": "https://briancohn4mn.com/priorities/"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://forms.oneswitchboard.com/minnesotans-for-brian-cohn/subscribe"
+},
+{
+"text": "[image]",
+"href": "https://briancohn4mn.com"
+},
+{
+"text": "[no text]",
+"href": "https://briancohn4mn.bsky.social"
+}
 ]

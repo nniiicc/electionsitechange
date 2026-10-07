@@ -1,8 +1,30 @@
 [
-"https://donnawhitenc26.com/",
-"https://donnawhitenc26.com/?page_id=28",
-"https://donnawhitenc26.com/?page_id=40",
-"https://facebook.com/donnawhite4nchouse",
-"https://instagram.com/donna4nchouse",
-"https://twitter.com/donna4nchouse"
+{
+"text": "About Me",
+"href": "https://donnawhitenc26.com/?page_id=28"
+},
+{
+"text": "Contact",
+"href": "https://donnawhitenc26.com/?page_id=40"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/donnawhite4nchouse"
+},
+{
+"text": "Home",
+"href": "https://donnawhitenc26.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/donna4nchouse/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/donna4nchouse"
+},
+{
+"text": "[image: Rep Donna White]",
+"href": "https://donnawhitenc26.com/"
+}
 ]

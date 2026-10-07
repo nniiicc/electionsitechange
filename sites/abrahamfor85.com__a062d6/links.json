@@ -1,6 +1,18 @@
 [
-"https://abrahamfor85.com/",
-"https://abrahamfor85.com/about-me",
-"https://abrahamfor85.com/policies",
-"https://secure.actblue.com/donate/richard-abraham-1"
+{
+"text": "Click here to donate",
+"href": "https://secure.actblue.com/donate/richard-abraham-1"
+},
+{
+"text": "Know More",
+"href": "https://abrahamfor85.com/about-me/"
+},
+{
+"text": "Lets DO THIS!",
+"href": "https://abrahamfor85.com/policies/"
+},
+{
+"text": "[image: white logo]",
+"href": "https://abrahamfor85.com/"
+}
 ]

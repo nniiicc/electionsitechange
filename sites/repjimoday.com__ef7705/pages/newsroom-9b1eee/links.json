@@ -1,65 +1,254 @@
 [
-"https://boston.com/news/politics/2023/03/20/massachusetts-proposed-legislation-postpartum-mood-disorders",
-"https://boston25news.com/news/local/worcester-county/states-focus-postpartum-depression-goes-back-years/5MLEXT6F35FH7GKG5KSRRF2F6M",
-"https://bostonglobe.com/2022/05/31/opinion/proposed-curriculum-bill-isnt-sexualizing-kids-mass-gop-is?event=event25",
-"https://bostonglobe.com/2022/06/06/metro/massachusetts-gun-laws-have-been-proven-work-amid-spate-mass-shootings-policymakers-tout-bay-state-blueprint",
-"https://bostonglobe.com/2022/12/11/metro/lawmakers-citing-new-momentum-plan-reintroduce-right-to-die-bill-january",
-"https://bostonglobe.com/2022/12/19/metro/supreme-judicial-court-rejects-call-legalize-assisted-suicide-massachusetts",
-"https://bostonmagazine.com/education/2022/04/05/sex-education",
-"https://commonwealthbeacon.org/opinion/fair-share-amendment-is-working-as-intended",
-"https://commonwealthmagazine.org/state-government/report-says-200-million-or-more-from-new-tax-on-high-earners-could-be-lost-to-loophole",
-"https://compassionandchoices.org/news/050322mapoll",
-"https://compassionandchoices.org/news/majphadv031522",
-"https://eagletribune.com/advocates-push-for-statewide-sex-ed-standards/article_c115b8fa-02b1-11ed-ade6-6b2e007537df.html",
-"https://gazettenet.com/O-Day-Shifting-Landscape-May-Finally-Lift-Sex-Ed-Bill-51151151",
-"https://masslive.com/politics/2022/02/poll-voters-like-candidates-who-support-end-of-life-choices.html",
-"https://masslive.com/politics/2022/11/massachusetts-passes-ballot-question-1-millionaires-tax-ap-says.html",
-"https://masslive.com/politics/2023/02/mass-bill-could-help-postpartum-defendants-like-lindsay-clancy-get-therapy-not-jail-time.html",
-"https://masslive.com/politics/2023/03/faulty-wheelchairs-can-leave-bay-staters-stranded-for-weeks-how-a-bill-could-accelerate-repairs.html",
-"https://masslive.com/politics/2023/05/legislators-push-for-postpartum-psychosis-bill-in-wake-of-duxbury-killings.html",
-"https://masslive.com/worcester/2022/03/retiring-sen-harriette-chandler-honored-with-own-day-in-worcester.html",
-"https://publicnewsservice.org/2022-03-02/health/ma-lawmakers-urge-colleagues-to-pass-end-of-life-options-act/a78072-1",
-"https://recorder.com/Rep-Healey-s-Arrival-Changes-Outlook-For-Aid-In-Dying-Bill-50875414",
-"https://repjimoday.com/",
-"https://repjimoday.com/2008",
-"https://repjimoday.com/2011-2012",
-"https://repjimoday.com/2013-2014",
-"https://repjimoday.com/2015-2016",
-"https://repjimoday.com/2017",
-"https://repjimoday.com/2018",
-"https://repjimoday.com/2019",
-"https://repjimoday.com/2021",
-"https://repjimoday.com/2021-1",
-"https://repjimoday.com/2022",
-"https://repjimoday.com/2023",
-"https://repjimoday.com/2024",
-"https://repjimoday.com/2025",
-"https://repjimoday.com/2026",
-"https://repjimoday.com/constituent-services",
-"https://repjimoday.com/contact",
-"https://repjimoday.com/contact-us",
-"https://repjimoday.com/gallery",
-"https://repjimoday.com/interviews",
-"https://repjimoday.com/issues-1",
-"https://repjimoday.com/meet-jim",
-"https://repjimoday.com/meet-the-staff",
-"https://repjimoday.com/newsroom",
-"https://repjimoday.com/newsroom-1",
-"https://repjimoday.com/press-releases",
-"https://repjimoday.com/s-projects-basic",
-"https://repjimoday.com/s-projects-side-by-side",
-"https://repjimoday.com/stay-connected",
-"https://repjimoday.com/the-district",
-"https://spectrumnews1.com/ma/worcester/news/2022/10/20/massachusetts-ballot-question-4-eligibility-for-driver-s-licenses",
-"https://spectrumnews1.com/ma/worcester/news/2023/02/17/healey-signs-first-bill-into-law-as-governor",
-"https://spectrumnews1.com/ma/worcester/news/2023/05/30/state-rep--o-day-optimistic-about-passing-sex-ed-reform-bill",
-"https://telegram.com/story/news/local/2023/03/13/representative-james-oday-focuses-on-role-as-1-of-4-division-leaders/69995765007",
-"https://telegram.com/story/news/local/the-item/2022/07/22/representative-updates-residents-state-budget-process/10097448002",
-"https://telegram.com/story/news/state/2024/02/01/bill-proposes-juvenile-justice-system-adjudicate-youths-through-their-20th-year/72422219007",
-"https://telegram.com/story/opinion/2022/02/24/see-it-worcesters-democratic-house-delegation-outlines-efforts-during-pandemic/6920454001",
-"https://timesunion.com/opinion/article/commentary-free-people-make-end-of-life-choices-18078462.php",
-"https://washingtonpost.com/politics/2023/03/13/massachusetts-could-become-next-state-allow-aid-dying",
-"https://wbur.org/news/2024/06/04/medical-aid-in-dying-massachusetts-poll-support",
-"https://wbznewsradio.iheart.com/content/2023-03-15-progressive-coalition-mulling-tax-questions-for-ballot",
-"https://wgbh.org/news/politics/2023/05/30/supporters-of-sex-ed-bill-say-its-time-for-massachusetts-to-act"
+{
+"text": "2009-2010",
+"href": "https://www.repjimoday.com/2008"
+},
+{
+"text": "2011-2012",
+"href": "https://www.repjimoday.com/2011-2012"
+},
+{
+"text": "2013-2014",
+"href": "https://www.repjimoday.com/2013-2014"
+},
+{
+"text": "2015-2016",
+"href": "https://www.repjimoday.com/2015-2016"
+},
+{
+"text": "2017",
+"href": "https://www.repjimoday.com/2017"
+},
+{
+"text": "2018",
+"href": "https://www.repjimoday.com/2018"
+},
+{
+"text": "2019",
+"href": "https://www.repjimoday.com/2019"
+},
+{
+"text": "2020",
+"href": "https://www.repjimoday.com/2021"
+},
+{
+"text": "2021",
+"href": "https://www.repjimoday.com/2021-1"
+},
+{
+"text": "2022",
+"href": "https://www.repjimoday.com/2022"
+},
+{
+"text": "2023",
+"href": "https://www.repjimoday.com/2023"
+},
+{
+"text": "2024",
+"href": "https://www.repjimoday.com/2024"
+},
+{
+"text": "2025",
+"href": "https://www.repjimoday.com/2025"
+},
+{
+"text": "2026",
+"href": "https://www.repjimoday.com/2026"
+},
+{
+"text": "ADVOCACY",
+"href": "https://www.repjimoday.com/s-projects-basic"
+},
+{
+"text": "Advocates Push for Statewide Sex-Ed Standards",
+"href": "https://www.eagletribune.com/advocates-push-for-statewide-sex-ed-standards/article_c115b8fa-02b1-11ed-ade6-6b2e007537df.html"
+},
+{
+"text": "As I See It: Worcester’s Democratic House Delegation Outlines Efforts During Pandemic",
+"href": "https://www.telegram.com/story/opinion/2022/02/24/see-it-worcesters-democratic-house-delegation-outlines-efforts-during-pandemic/6920454001/"
+},
+{
+"text": "CONSTITUENT SERVICES",
+"href": "https://www.repjimoday.com/constituent-services"
+},
+{
+"text": "CONTACT",
+"href": "https://www.repjimoday.com/contact"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.repjimoday.com/contact-us"
+},
+{
+"text": "Commentary: People Should be Free to Make Their Own End of Life Choices",
+"href": "https://www.timesunion.com/opinion/article/commentary-free-people-make-end-of-life-choices-18078462.php"
+},
+{
+"text": "Fair Share amendment is working as intended",
+"href": "https://commonwealthbeacon.org/opinion/fair-share-amendment-is-working-as-intended/"
+},
+{
+"text": "Faulty Wheelchairs Can Leave Bay Staters Stranded for Weeks. How a Bill Could Accelerate Repairs",
+"href": "https://www.masslive.com/politics/2023/03/faulty-wheelchairs-can-leave-bay-staters-stranded-for-weeks-how-a-bill-could-accelerate-repairs.html"
+},
+{
+"text": "GALLERY",
+"href": "https://www.repjimoday.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.repjimoday.com"
+},
+{
+"text": "ISSUES & POLICIES",
+"href": "https://www.repjimoday.com/issues-1"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.repjimoday.com/s-projects-side-by-side"
+},
+{
+"text": "Lawmakers, Citing New Momentum, Plan to Reintroduce Right-to-Die Bill in January",
+"href": "https://www.bostonglobe.com/2022/12/11/metro/lawmakers-citing-new-momentum-plan-reintroduce-right-to-die-bill-january/"
+},
+{
+"text": "Legislators Push for Postpartum-Psychosis Bill in Wake of Duxbury Killings",
+"href": "https://www.masslive.com/politics/2023/05/legislators-push-for-postpartum-psychosis-bill-in-wake-of-duxbury-killings.html"
+},
+{
+"text": "Let's (Not) Talk About Sex",
+"href": "https://www.bostonmagazine.com/education/2022/04/05/sex-education/"
+},
+{
+"text": "MA Lawmakers Urge Colleagues to Pass End-of-Life Options Act",
+"href": "https://www.publicnewsservice.org/2022-03-02/health/ma-lawmakers-urge-colleagues-to-pass-end-of-life-options-act/a78072-1"
+},
+{
+"text": "MEET JIM",
+"href": "https://www.repjimoday.com/meet-jim"
+},
+{
+"text": "MEET THE STAFF",
+"href": "https://www.repjimoday.com/meet-the-staff"
+},
+{
+"text": "Mass. Bill Could Help Postpartum Defendants like Lindsay Clancy get Therapy, not Jail Time",
+"href": "https://www.masslive.com/politics/2023/02/mass-bill-could-help-postpartum-defendants-like-lindsay-clancy-get-therapy-not-jail-time.html"
+},
+{
+"text": "Mass. Joint Committee on Public Health Advances Medical Aid-in-Dying Bill",
+"href": "https://compassionandchoices.org/news/majphadv031522"
+},
+{
+"text": "Massachusetts Ballot Question 4 about Eligibility for Driver's Licenses",
+"href": "https://spectrumnews1.com/ma/worcester/news/2022/10/20/massachusetts-ballot-question-4-eligibility-for-driver-s-licenses"
+},
+{
+"text": "Massachusetts Could Become the Next State to Allow Aid in Dying",
+"href": "https://www.washingtonpost.com/politics/2023/03/13/massachusetts-could-become-next-state-allow-aid-dying/"
+},
+{
+"text": "Massachusetts Passes Ballot Question 1 (Millionaire's Tax), AP Says",
+"href": "https://www.masslive.com/politics/2022/11/massachusetts-passes-ballot-question-1-millionaires-tax-ap-says.html"
+},
+{
+"text": "Maura Healey Signs Her First Bill into Law as Governor",
+"href": "https://spectrumnews1.com/ma/worcester/news/2023/02/17/healey-signs-first-bill-into-law-as-governor"
+},
+{
+"text": "NEWS",
+"href": "https://www.repjimoday.com/newsroom"
+},
+{
+"text": "NEWSROOM",
+"href": "https://www.repjimoday.com/newsroom-1"
+},
+{
+"text": "New Massachusetts Poll Shows Record High Support for Medical Aid-in-Dying Bill",
+"href": "https://compassionandchoices.org/news/050322mapoll"
+},
+{
+"text": "New Role, New Responsibilities: State Rep. O'Day Advocates for 'Beneficial' Legislation",
+"href": "https://www.telegram.com/story/news/local/2023/03/13/representative-james-oday-focuses-on-role-as-1-of-4-division-leaders/69995765007/"
+},
+{
+"text": "On Beacon Hill, a Renewed Push for Having Postpartum Mood Disorders Considered in Criminal Cases",
+"href": "https://www.boston.com/news/politics/2023/03/20/massachusetts-proposed-legislation-postpartum-mood-disorders/"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.repjimoday.com/press-releases"
+},
+{
+"text": "Poll: Two-thirds of Mass. residents support medical aid in dying",
+"href": "https://www.wbur.org/news/2024/06/04/medical-aid-in-dying-massachusetts-poll-support"
+},
+{
+"text": "Poll: Voters like Candidates who Support End-of-Life Choices",
+"href": "https://www.masslive.com/politics/2022/02/poll-voters-like-candidates-who-support-end-of-life-choices.html"
+},
+{
+"text": "Progressive Coalition Mulling Tax Questions for Ballot",
+"href": "https://wbznewsradio.iheart.com/content/2023-03-15-progressive-coalition-mulling-tax-questions-for-ballot/"
+},
+{
+"text": "Proposed Curriculum Bill isn’t Sexualizing Kids — Mass. GOP is",
+"href": "https://www.bostonglobe.com/2022/05/31/opinion/proposed-curriculum-bill-isnt-sexualizing-kids-mass-gop-is/?event=event25"
+},
+{
+"text": "Rep: Healey’s Arrival Changes Outlook for Aid in Dying Bill",
+"href": "https://www.recorder.com/Rep-Healey-s-Arrival-Changes-Outlook-For-Aid-In-Dying-Bill-50875414"
+},
+{
+"text": "Report Says Millions from New Tax on High Earners Could be Lost to Loophole",
+"href": "https://commonwealthmagazine.org/state-government/report-says-200-million-or-more-from-new-tax-on-high-earners-could-be-lost-to-loophole/"
+},
+{
+"text": "Representative Updates Residents on State Budget Process",
+"href": "https://www.telegram.com/story/news/local/the-item/2022/07/22/representative-updates-residents-state-budget-process/10097448002/"
+},
+{
+"text": "Retiring Sen. Harriette Chandler Honored with Own Day in Worcester",
+"href": "https://www.masslive.com/worcester/2022/03/retiring-sen-harriette-chandler-honored-with-own-day-in-worcester.html"
+},
+{
+"text": "STAY CONNECTED",
+"href": "https://www.repjimoday.com/stay-connected"
+},
+{
+"text": "Shifting Landscape May Finally Lift Sex Ed Bill in Massachusetts",
+"href": "https://www.gazettenet.com/O-Day-Shifting-Landscape-May-Finally-Lift-Sex-Ed-Bill-51151151"
+},
+{
+"text": "State Rep. O'Day Optimistic about Passing Sex Ed Reform Bill",
+"href": "https://spectrumnews1.com/ma/worcester/news/2023/05/30/state-rep--o-day-optimistic-about-passing-sex-ed-reform-bill"
+},
+{
+"text": "State's Focus on Postpartum Depression Goes Back Years",
+"href": "https://www.boston25news.com/news/local/worcester-county/states-focus-postpartum-depression-goes-back-years/5MLEXT6F35FH7GKG5KSRRF2F6M/"
+},
+{
+"text": "Supporters of Sex Ed Bill Say it's Time for Massachusetts to Act",
+"href": "https://www.wgbh.org/news/politics/2023/05/30/supporters-of-sex-ed-bill-say-its-time-for-massachusetts-to-act"
+},
+{
+"text": "Supreme Judicial Court Rejects Bid to Legalize 'Physician-Assisted Suicide'",
+"href": "https://www.bostonglobe.com/2022/12/19/metro/supreme-judicial-court-rejects-call-legalize-assisted-suicide-massachusetts/"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.repjimoday.com/the-district"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.repjimoday.com/interviews"
+},
+{
+"text": "​Teens, young adults charged with crimes could be retained in state juvenile justice system",
+"href": "https://www.telegram.com/story/news/state/2024/02/01/bill-proposes-juvenile-justice-system-adjudicate-youths-through-their-20th-year/72422219007/"
+},
+{
+"text": "‘Massachusetts Gun Laws have been Proven to Work.’ Amid Spate of Mass Shootings, Policymakers Tout Bay State as Blueprint",
+"href": "https://www.bostonglobe.com/2022/06/06/metro/massachusetts-gun-laws-have-been-proven-work-amid-spate-mass-shootings-policymakers-tout-bay-state-blueprint/"
+}
 ]

@@ -1,53 +1,242 @@
 [
-"https://facebook.com/votesydneydavis",
-"https://secure.winred.com/friends-of-sydney-davis-39972c53",
-"https://secure.winred.com/friends-of-sydney-davis-39972c53/2022",
-"https://secure.winred.com/friends-of-sydney-davis-39972c53/contact",
-"https://votesydneydavis.com/",
-"https://votesydneydavis.com/about",
-"https://votesydneydavis.com/cart",
-"https://votesydneydavis.com/contact-us",
-"https://votesydneydavis.com/privacy",
-"https://votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-3.pdf",
-"https://votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-4.pdf",
-"https://votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-5.pdf",
-"https://votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-Nine.pdf",
-"https://votesydneydavis.com/s/Davis-Week-3.pdf",
-"https://votesydneydavis.com/s/Davis-week-1.pdf",
-"https://votesydneydavis.com/s/PDF-Senator-Sydney-Davis-Interim-2023-1.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-1.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-2-Recap.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-February-3-7-Recap.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-February-18-21-Recap.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-February-24-27-Recap.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-January-27-31-Recap.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-March-10-13.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-March-3-6.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-2.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-6.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-7.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-8.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-of-January-13-16.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Interim-2023-update-suicide-prevention-grants.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-2-lyef.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-2.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-3.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-4-9gec.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-4.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-5-5aj7.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-5.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-6-6fs7.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-6.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-7-d3p9.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-7.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-8-ybka.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-8.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-9-fptr.pdf",
-"https://votesydneydavis.com/s/Senator-Sydney-Davis-Week-9.pdf",
-"https://votesydneydavis.com/s/State-House.pdf",
-"https://votesydneydavis.com/s/Sydney-Davis-2023-Week-One",
-"https://votesydneydavis.com/terms",
-"https://votesydneydavis.com/visiting-pierre",
-"https://votesydneydavis.com/votinginfo",
-"https://votesydneydavis.com/weekly-updates"
+{
+"text": "0",
+"href": "https://www.votesydneydavis.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votesydneydavis.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.votesydneydavis.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-sydney-davis-39972c53/2022"
+},
+{
+"text": "Home",
+"href": "https://www.votesydneydavis.com/"
+},
+{
+"text": "Interim One",
+"href": "https://www.votesydneydavis.com/s/PDF-Senator-Sydney-Davis-Interim-2023-1.pdf"
+},
+{
+"text": "Interim Two",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Interim-2023-update-suicide-prevention-grants.pdf"
+},
+{
+"text": "Privacy",
+"href": "https://www.votesydneydavis.com/privacy"
+},
+{
+"text": "Recapping the 100th Session",
+"href": "https://www.votesydneydavis.com/s/State-House.pdf"
+},
+{
+"text": "SIGN UP",
+"href": "https://secure.winred.com/friends-of-sydney-davis-39972c53/contact"
+},
+{
+"text": "SUPPORT SYDNEY",
+"href": "https://secure.winred.com/friends-of-sydney-davis-39972c53"
+},
+{
+"text": "Terms",
+"href": "https://www.votesydneydavis.com/terms"
+},
+{
+"text": "Visiting Pierre",
+"href": "https://www.votesydneydavis.com/visiting-pierre"
+},
+{
+"text": "Voting",
+"href": "https://www.votesydneydavis.com/votinginfo"
+},
+{
+"text": "Week Eight",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-March-10-13.pdf"
+},
+{
+"text": "Week Eight",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-8.pdf"
+},
+{
+"text": "Week Eight",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-8-ybka.pdf"
+},
+{
+"text": "Week Eight",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-8.pdf"
+},
+{
+"text": "Week Five",
+"href": "https://www.votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-5.pdf"
+},
+{
+"text": "Week Five",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-February-18-21-Recap.pdf"
+},
+{
+"text": "Week Five",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-5-5aj7.pdf"
+},
+{
+"text": "Week Five",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-5.pdf"
+},
+{
+"text": "Week Four",
+"href": "https://www.votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-4.pdf"
+},
+{
+"text": "Week Four",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-February-3-7-Recap.pdf"
+},
+{
+"text": "Week Four",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-4-9gec.pdf"
+},
+{
+"text": "Week Four",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-4.pdf"
+},
+{
+"text": "Week Nine",
+"href": "https://www.votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-Nine.pdf"
+},
+{
+"text": "Week Nine",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-9-fptr.pdf"
+},
+{
+"text": "Week Nine",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-9.pdf"
+},
+{
+"text": "Week One",
+"href": "https://www.votesydneydavis.com/s/Davis-week-1.pdf"
+},
+{
+"text": "Week One",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-1.pdf"
+},
+{
+"text": "Week One",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-of-January-13-16.pdf"
+},
+{
+"text": "Week One",
+"href": "https://www.votesydneydavis.com/s/Sydney-Davis-2023-Week-One"
+},
+{
+"text": "Week Seven",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-March-3-6.pdf"
+},
+{
+"text": "Week Seven",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-7.pdf"
+},
+{
+"text": "Week Seven",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-7-d3p9.pdf"
+},
+{
+"text": "Week Seven",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-7.pdf"
+},
+{
+"text": "Week Six",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-February-24-27-Recap.pdf"
+},
+{
+"text": "Week Six",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-6.pdf"
+},
+{
+"text": "Week Six",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-6-6fs7.pdf"
+},
+{
+"text": "Week Six",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-6.pdf"
+},
+{
+"text": "Week Three",
+"href": "https://www.votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-3.pdf"
+},
+{
+"text": "Week Three",
+"href": "https://www.votesydneydavis.com/s/Davis-Week-3.pdf"
+},
+{
+"text": "Week Three",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-of-January-27-31-Recap.pdf"
+},
+{
+"text": "Week Three",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-3.pdf"
+},
+{
+"text": "Week Two",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2025-Week-2-Recap.pdf"
+},
+{
+"text": "Week Two",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-2.pdf"
+},
+{
+"text": "Week Two",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-2-lyef.pdf"
+},
+{
+"text": "Week Two",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-Week-2.pdf"
+},
+{
+"text": "Weekly Updates",
+"href": "https://www.votesydneydavis.com/weekly-updates"
+},
+{
+"text": "[image: Sydney Davis for SD 17]",
+"href": "https://www.votesydneydavis.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-5.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/2026-Senator-Sydney-Davis-Week-Nine.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-2.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-7.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-8.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/Senator-Sydney-Davis-2026-Week-of-January-13-16.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.votesydneydavis.com/s/State-House.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesydneydavis"
+},
+{
+"text": "[no text]",
+"href": "mailto:votesydneydavis@yahoo.com"
+}
 ]

@@ -1,19 +1,2 @@
-Join Assemblymember Tasha Boerner Horvath
-for a virtual Meet and Greet with
-Encinitas Union School Board candidates!
-Marlon Taylor & Jodie Williams
-Tuesday, October 6th, 5:30 PM
-Zoom link will be emailed upon RSVP
-Back to All Events
-Join Assemblymember Tasha Boerner Horvath
-for a virtual Meet and Greet with
-Encinitas Union School Board candidates!
-Marlon Taylor & Jodie Williams
-Tuesday, October 6th, 5:30 PM
-Zoom link will be emailed upon RSVP
-for a virtual Meet and Greet with
-Encinitas Union School Board candidates!
-Earlier Event: October 1
-TBH Bingo with Local Leaders
-Later Event: October 7
-Happy Hour with Tasha
+Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Meet Encinitas Union School Board Candidates Marlon Taylor and Jodie Williams Tuesday, October 6, 2020 5:30 PM 6:30 PM 17:30 18:30 Google Calendar ICS Join Assemblymember Tasha Boerner Horvath for a virtual Meet and Greet with Encinitas Union School Board candidates!
+Marlon Taylor & Jodie Williams Tuesday, October 6th, 5:30 PM Zoom link will be emailed upon RSVP Earlier Event: October 1 TBH Bingo with Local Leaders Later Event: October 7 Happy Hour with Tasha Back to Top Your priorities Meet Tasha tasha@tashaboerner.com Paid for by Tasha Boerner for Assembly 2026 #1477389

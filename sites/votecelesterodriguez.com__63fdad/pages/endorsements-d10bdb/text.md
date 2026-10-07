@@ -1,14 +1,6 @@
-Skip navigation menu
-We are strongly supporting
-Celeste Rodriguez for State Assembly
-Celeste is proud to have received the following endorsements for her campaign for California State Assembly.
-“Celeste’s tireless dedication to public service, her unwavering commitment to economic and social justice, and her deep understanding of the challenges facing our communities make her the clear choice for the 43rd District.”
-U.S.
-Senator Alex Padilla
-“Celeste has a proven record of getting things done for Valley residents, and I know she’ll never stop working to make sure every child has a shot at the American Dream.”
-Assemblymember Luz Rivas
-“Celeste is a hard-working, experienced leader who has fought tirelessly for the Valley and will continue fighting for us in Sacramento so that we get our fair share of state resources.”
-Congressmember Tony Cardenas
-Elected Officials
-Labor Organizations
-Other Organizations
+Skip navigation menu About Issues News Endorsements Events Join Us Donate Celeste's Endorsements About Issues News Endorsements Events Join Us Donate Celeste's Endorsements We are strongly supporting Celeste Rodriguez for State Assembly Celeste is proud to have received the following endorsements for her campaign for California State Assembly.
+“Celeste’s tireless dedication to public service, her unwavering commitment to economic and social justice, and her deep understanding of the challenges facing our communities make her the clear choice for the 43rd District.” U.S.
+Senator Alex Padilla “Celeste has a proven record of getting things done for Valley residents, and I know she’ll never stop working to make sure every child has a shot at the American Dream.” Assemblymember Luz Rivas “Celeste is a hard-working, experienced leader who has fought tirelessly for the Valley and will continue fighting for us in Sacramento so that we get our fair share of state resources.” Congressmember Tony Cardenas Elected Officials U.S.
+Senator Alex Padilla Congressmember Tony Cárdenas Congressmember Brad Sherman State Treasurer Fiona Ma Speaker of the Assembly Robert Rivas State Senator Caroline Menjivar State Senator Monique Limón Assemblymember Luz Rivas Assemblymember Pilar Schiavo Assemblymember Mike Fong Assemblymember Isaac Bryan Assemblymember Jesse Gabriel Assemblymember Cecilia Aguiar-Curry Assemblymember Buffy Wicks Assemblymember Juan Carrillo Assemblymember Lisa Calderon Member of the CA State Board of Equalization Tony Vazquez Los Angeles County Supervisor Lindsey P.
+Horvath Los Angeles Mayor Karen Bass Los Angeles Councilwoman Monica Rodriguez Los Angeles Councilwoman Imelda Padilla Los Angeles Community College District Trustee Nichelle Henderson Labor Organizations California Federation of Teachers AFSCME CA Teamsters Joint Council 42 National Union of Healthcare Workers SEIU California SEIU Local 99 United Nurses Associations of California/Union of Health Care Professionals Los Angeles County Federation of Labor, AFL-CIO LA/OC Building Trades Laborers Local 300 Local Operating Engineers Local 12 IBEW Local 11 California Professional Firefighters Pipefitters Local Union 250 Other Organizations Los Angeles County Democratic Party Latinas Lead CA Consumer Attorneys California Environmental Voters California Reproductive Freedom California Women’s List Democratic Party of San Fernando Valley California Legislative Women’s Caucus California Legislative Latino Caucus Equality California Fund Her Southern California Armenian Democrats San Fernando Valley Young Democrats North Valley Democratic Club HONOR PAC Women’s Political Committee Abundant Housing LA Stonewall Democratic Club California State Retirees Privacy Policy Connect with the campaign: celeste@votecelesterodriguez.com Powered by RUN! website builder Paid for by Celeste Rodriguez for Assembly 2026 FPPC #1477040 1700 Tribute Rd., Ste.
+201, Sacramento, CA 95815 You need to enable JavaScript to run this app.

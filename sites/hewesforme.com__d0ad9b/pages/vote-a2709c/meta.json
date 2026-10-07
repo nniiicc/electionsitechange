@@ -1,7 +1,9 @@
 {
  "description": "Find your polling place, ward, precinct, and voting information for Maine Senate District 7.",
  "final_url": "https://www.hewesforme.com/vote",
- "paid_for_by": null,
+ "fingerprint": "36894d442daf1f73c70e748914b02b9e20c5b520",
+ "format": 3,
+ "paid_for_by": "authorized by Cheryl Hewes for State Senate © # Cheryl Hewes Campaign",
  "title": "Find where to vote",
  "years_mentioned": [
   "2026"

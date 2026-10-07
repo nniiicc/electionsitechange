@@ -1,21 +1,86 @@
 [
-"https://facebook.com/ValadaoforCongress",
-"https://secure.winred.com/valadao-for-congress",
-"https://secure.winred.com/valadao-for-congress?amount=10",
-"https://secure.winred.com/valadao-for-congress?amount=25",
-"https://secure.winred.com/valadao-for-congress?amount=5",
-"https://secure.winred.com/valadao-for-congress?amount=50",
-"https://twitter.com/dgvaladao",
-"https://valadaoforcongress.com/",
-"https://valadaoforcongress.com/about-david",
-"https://valadaoforcongress.com/category/news",
-"https://valadaoforcongress.com/david-valadao-instead-of-helping-valley-water-situation-rep-tj-cox-harms-it-with-vote-fresno-bee-op-ed-8-25-20",
-"https://valadaoforcongress.com/inicio",
-"https://valadaoforcongress.com/issues",
-"https://valadaoforcongress.com/media",
-"https://valadaoforcongress.com/news",
-"https://valadaoforcongress.com/privacy-policy",
-"https://valadaoforcongress.com/showsupportrequestayardsign",
-"https://valadaoforcongress.com/tj-cox-betrays-farmworkers-with-support-for-states-incidental-take-permit",
-"https://valadaoforcongress.com/voter-information"
+{
+"text": "$10",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=50"
+},
+{
+"text": "About David",
+"href": "https://valadaoforcongress.com/about-david/"
+},
+{
+"text": "David Valadao: Instead of helping Valley water situation, Rep. TJ Cox harms it with vote – Fresno Bee Op-ed, 8/25/20",
+"href": "https://valadaoforcongress.com/david-valadao-instead-of-helping-valley-water-situation-rep-tj-cox-harms-it-with-vote-fresno-bee-op-ed-8-25-20/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/valadao-for-congress/"
+},
+{
+"text": "Español",
+"href": "https://valadaoforcongress.com/inicio/"
+},
+{
+"text": "Get Involved",
+"href": "https://valadaoforcongress.com/showsupportrequestayardsign/"
+},
+{
+"text": "Home",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://valadaoforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://valadaoforcongress.com/media/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy"
+},
+{
+"text": "TJ Cox Betrays Farmworkers with Support for State’s Incidental Take Permit",
+"href": "https://valadaoforcongress.com/tj-cox-betrays-farmworkers-with-support-for-states-incidental-take-permit/"
+},
+{
+"text": "Voter Information",
+"href": "https://valadaoforcongress.com/voter-information/"
+},
+{
+"text": "[image]",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/dgvaladao"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ValadaoforCongress/"
+},
+{
+"text": "andrew@valadaoforcongress.com",
+"href": "mailto:andrew@valadaoforcongress.com"
+}
 ]

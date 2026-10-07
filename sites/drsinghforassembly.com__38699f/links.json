@@ -1,15 +1,86 @@
 [
-"https://drsinghforassembly.com/",
-"https://drsinghforassembly.com/about",
-"https://drsinghforassembly.com/contact",
-"https://drsinghforassembly.com/endorsements",
-"https://drsinghforassembly.com/news",
-"https://drsinghforassembly.com/on-the-issues",
-"https://drsinghforassembly.com/volunteer",
-"https://drsinghforassembly.com/wp-content/uploads/2023/08/Dr.-Vinaya-Singh-Flyer.pdf",
-"https://efundraisingconnections.com/c/VinayaSingh",
-"https://elections.saccounty.net/Pages/default.aspx",
-"https://pollingplacelookupen.saccounty.gov/VoterDistrictLookup/Language/EN",
-"https://voterstatus.sos.ca.gov/",
-"https://youtube.com/embed/1MTkZPys7mU?feature=oembed%3Fplaylist%3D1MTkZPys7mU&mute=0&autoplay=0&loop=no&controls=0&start=0"
+{
+"text": "About",
+"href": "https://drsinghforassembly.com/about/"
+},
+{
+"text": "Check Your Registration",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Click Here to RSVP",
+"href": "mailto:dr.vinaya.phd@hotmail.com"
+},
+{
+"text": "Contact",
+"href": "https://drsinghforassembly.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.efundraisingconnections.com/c/VinayaSingh"
+},
+{
+"text": "Download Flyer",
+"href": "https://drsinghforassembly.com/wp-content/uploads/2023/08/Dr.-Vinaya-Singh-Flyer.pdf"
+},
+{
+"text": "Endoresements",
+"href": "https://drsinghforassembly.com/endorsements"
+},
+{
+"text": "Endorse",
+"href": "https://drsinghforassembly.com/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://drsinghforassembly.com/endorsements/"
+},
+{
+"text": "Find Your District",
+"href": "https://pollingplacelookupen.saccounty.gov/VoterDistrictLookup/Language/EN"
+},
+{
+"text": "Home",
+"href": "https://drsinghforassembly.com/"
+},
+{
+"text": "News",
+"href": "https://drsinghforassembly.com/news/"
+},
+{
+"text": "On The Issues",
+"href": "https://drsinghforassembly.com/on-the-issues/"
+},
+{
+"text": "On The Issues",
+"href": "https://www.drsinghforassembly.com/on-the-issues/"
+},
+{
+"text": "Register to Vote",
+"href": "https://elections.saccounty.net/Pages/default.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://drsinghforassembly.com/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.drsinghforassembly.com/volunteer/"
+},
+{
+"text": "[image: dr-singh-ad10-logo]",
+"href": "https://drsinghforassembly.com"
+},
+{
+"text": "[image]",
+"href": "https://drsinghforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/embed/1MTkZPys7mU?feature=oembed%3Fplaylist%3D1MTkZPys7mU&mute=0&autoplay=0&loop=no&controls=0&start=0&end="
+},
+{
+"text": "drsingh@drsinghforassembly.com",
+"href": "mailto:drsingh@drsinghforassembly.com"
+}
 ]

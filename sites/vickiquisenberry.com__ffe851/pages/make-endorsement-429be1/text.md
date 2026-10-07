@@ -1,7 +1,8 @@
-Make Endorsement
-District 8 voters need to know about Vicki.
+Meet Vicki Issues Volunteer Contribute Make Endorsement District 8 voters need to know about Vicki.
 What qualities does Vicki possess that lead you to think she would represent District 8 well in the Kentucky State Senate?
 How do you know Vicki?
 Tell constituents about how you identified and solved a problem together.
 Thank you for participating!
 We appreciate your contributions.
+First Name Last Name Email Phone Title Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to attend events to promote Vicki's campaign I would like to contribute my creative ideas to Vicki's Education Policy I would like to contribute my ideas to Vicki's Economic Policy I would like to contribute my creative ideas to Vicki's Healthcare Policy Plan I would like to volunteer I would like to make a financial contribution I would like to canvass Get updates and news via email I would like a yard sign I would like to host a fundraising event Endorsement Text: Submit VOLUNTEER CONTRIBUTE Get Updates Thank you for signing up!
+Endorsements Yard Signs Events Contact Campaign Fund of Vicki Quisenberry Powered by CampaignPartner.com - Political Websites Home Meet Vicki Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

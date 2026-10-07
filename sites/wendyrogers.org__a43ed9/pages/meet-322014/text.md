@@ -1,6 +1,5 @@
-Sen.
-Wendy Rogers: “We Are The Plan”
-If there’s one thing to know about me, it’s that I don’t quit.
+Skip to content Home Meet Wendy Meet Senator Wendy Rogers Biography Issues Endorsements News Contact Truth Social Rumble Facebook X Donate Donate Sign Wendy Rogers' STAND WITH ICE Petition Home Meet Wendy Meet Senator Wendy Rogers Biography Issues Endorsements News Contact Truth Social Rumble Facebook X Donate Donate Meet Senator Wendy Rogers Sen.
+Wendy Rogers: “We Are The Plan” If there’s one thing to know about me, it’s that I don’t quit.
 Watch my “We Are The Plan” video, where I talk about the importance of perseverance, fighting for election integrity at this precarious moment in history, and stopping medical tyranny and other attacks on the freedoms we hold dear.
 Wendy Rogers has Led a life of service to her country and her community.
 Daughter of a long line of Army officers, in 1976 Lt.
@@ -26,13 +25,20 @@ Emily graduated in 2012 with a Barrett Honors BA in German and Honors BS in inte
 George and his wife are the proud parents of five children who are homeschooled.
 Daughter Emily and her husband live in Denver with their two young sons adding the title of “proud grandparent of seven” to Wendy’s life of accomplishment.
 Wendy has been active in the local community as development director of an Arizona charter school, as a foster parent, and as an Arizona substitute teacher.
-Wendy Rogers’ maxim in life remains what her parents taught her from Luke 12:48: “For unto whomsoever much is given, of him shall much be required; and to whom men have committed much, of him they will ask the more.”
-Why I’m running for office
-President Trump endorsed me in 2022 and 2024 because I am fighting to protect our God-given rights, our borders, and the state of Arizona from socialists and liberals.
+Wendy Rogers’ maxim in life remains what her parents taught her from Luke 12:48: “For unto whomsoever much is given, of him shall much be required; and to whom men have committed much, of him they will ask the more.” Why I’m running for office President Trump endorsed me in 2022 and 2024 because I am fighting to protect our God-given rights, our borders, and the state of Arizona from socialists and liberals.
 My platform is to (1) protect life; (2) protect our guns; (3) ban sanctuary cities; (4) protect our border; (5) take care of our veterans; and (6) secure our elections.
 I can’t fight this fight alone and need your help.
 Will you stand with me to re-elect me to the AZ State Senate to be an unabashed pro-America conservative?
 As a retired career Air Force pilot, I know what it’s like to fight.
-I don’t owe lobbyists or special interests anything.
+I don’t owe lobbyists or special interests anything .
 I will only work for you.
 I’m Wendy Rogers, and I ask for your vote.
+I Need Your Support!
+I am fighting hard for the future of our country and state.
+I won't back down.
+Follow me on one of my social media profiles so we can stay in touch.
+Truth Social Rumble Facebook X Your contribution is appreciated!
+Donate Privacy Policy • Terms and Conditions Wendy Rogers is a retired member of the Air Force.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for and authorized by Wendy Rogers for AZ Senate Site by Go Right Strategies Scroll to Top

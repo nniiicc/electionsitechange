@@ -1,12 +1,42 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/64720/48d5f526a38640a4b6913a4b64bf3630.jpg",
-"https://votedebradavis.com/",
-"https://votedebradavis.com/about_debra",
-"https://votedebradavis.com/contact",
-"https://votedebradavis.com/events",
-"https://votedebradavis.com/home",
-"https://votedebradavis.com/leadership",
-"https://votedebradavis.com/news",
-"https://votedebradavis.com/photos"
+{
+"text": "About Debra",
+"href": "https://www.votedebradavis.com/about_debra"
+},
+{
+"text": "Contact",
+"href": "https://www.votedebradavis.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.votedebradavis.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedebradavis.com/home"
+},
+{
+"text": "Leadership",
+"href": "https://www.votedebradavis.com/leadership"
+},
+{
+"text": "News",
+"href": "https://www.votedebradavis.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.votedebradavis.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image: DEBRA M. DAVIS , Esq. STATE DELEGATE, D28 - Charles County]",
+"href": "https://www.votedebradavis.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/64720/48d5f526a38640a4b6913a4b64bf3630.jpg"
+}
 ]

@@ -1,16 +1,58 @@
 [
-"https://facebook.com/743628685506005",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://hcaptcha.com/privacy",
-"https://hcaptcha.com/terms",
-"https://marketingplatform.google.com/about/analytics/terms/us",
-"https://policies.google.com/privacy",
-"https://policies.google.com/technologies/partner-sites",
-"https://sandersonforsd.com/",
-"https://sandersonforsd.com/meet-carrie",
-"https://sandersonforsd.com/privacy",
-"https://sandersonforsd.com/voter-information",
-"https://secure.winred.com/sanderson-for-sd/carrie-sanderson-for-sd",
-"https://tools.google.com/dlpage/gaoptout",
-"https://usa.gov/optout-instructions"
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/sanderson-for-sd/carrie-sanderson-for-sd"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "https://marketingplatform.google.com/about/analytics/terms/us/"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Home",
+"href": "https://sandersonforsd.com/"
+},
+{
+"text": "Intuition Machines, Inc.'s privacy policy",
+"href": "https://www.hcaptcha.com/privacy"
+},
+{
+"text": "Meet Carrie",
+"href": "https://sandersonforsd.com/meet-carrie"
+},
+{
+"text": "Privacy",
+"href": "https://sandersonforsd.com/privacy"
+},
+{
+"text": "Voter Information",
+"href": "https://sandersonforsd.com/voter-information"
+},
+{
+"text": "[image: Sanderson for District 25]",
+"href": "https://sandersonforsd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/743628685506005"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "how Google uses data on websites using Google technologies",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "terms of service",
+"href": "https://www.hcaptcha.com/terms"
+},
+{
+"text": "terms of use",
+"href": "https://marketingplatform.google.com/about/analytics/terms/us"
+}
 ]

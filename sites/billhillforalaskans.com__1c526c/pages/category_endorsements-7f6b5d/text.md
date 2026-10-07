@@ -1,32 +1,3 @@
-The United Auto Workers Region 6 Western States CAP & PAC Council endorse Bill Hill
-Labor support for Bill Hill continues to grow
-July 6, 2026
-No Comments
-Bill Hill has fished Bristol Bay his whole life.
+Skip to content Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store DONATE Facebook Instagram X-twitter Tiktok Youtube Flickr News & Article Category: Endorsements The United Auto Workers Region 6 Western States CAP & PAC Council endorse Bill Hill Labor support for Bill Hill continues to grow July 6, 2026 No Comments Bill Hill returns to Bristol Bay for 49th commercial fishing opener Bill Hill has fished Bristol Bay his whole life.
 Running for Congress won’t change that.
-July 3, 2026
-No Comments
-Alaska Native leaders from across Alaska back Bill Hill
-June 29, 2026
-No Comments
-Organized labor support for Bill Hill grows as union representing thousands of grocery and retail workers endorses campaign
-June 24, 2026
-No Comments
-Largest union representing flight attendants backs Hill for Congress
-June 23, 2026
-No Comments
-APEA/AFT represents thousands of Alaska public employees
-June 22, 2026
-No Comments
-Bill Hill is the only US House candidate with organized labor support
-June 17, 2026
-No Comments
-Bill is the only challenger to Nick Begich with endorsements from Alaska-based organizations
-June 9, 2026
-No Comments
-Support from Assembly and School Board Members Underscores Growing Momentum in Alaska’s Largest Community
-April 29, 2026
-No Comments
-Bill Hill continues to be the only US House candidate with organized labor support
-April 14, 2026
-No Comments
+July 3, 2026 No Comments Alaska Native leaders from across Alaska back Bill Hill Alaska Native leaders from across Alaska back Bill Hill June 29, 2026 No Comments UFCW Local 1496 Endorses Bill Hill for Congress Organized labor support for Bill Hill grows as union representing thousands of grocery and retail workers endorses campaign June 24, 2026 No Comments The Association of Flight Attendants-CWA endorses Bill Hill Largest union representing flight attendants backs Hill for Congress June 23, 2026 No Comments The Alaska Public Employees Association endorses Bill Hill APEA/AFT represents thousands of Alaska public employees June 22, 2026 No Comments The Alaska AFL-CIO backs Bill Hill with sole endorsement Bill Hill is the only US House candidate with organized labor support June 17, 2026 No Comments The Alaska Center issues sole endorsement of Bill Hill Bill is the only challenger to Nick Begich with endorsements from Alaska-based organizations June 9, 2026 No Comments Bill Hill Announces Anchorage Municipal Leader Endorsements Support from Assembly and School Board Members Underscores Growing Momentum in Alaska’s Largest Community April 29, 2026 No Comments Plumbers and Steamfitters Local 367 backs Bill Hill Bill Hill continues to be the only US House candidate with organized labor support April 14, 2026 No Comments Page 1 Page 2 Commercial fisherman Construction worker Teacher and Superintendent Small business owner Menu Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Social Media Bill Hill for Alaskans billhillforalaskans @BillHillAK billhillforalaskans BillHillForAlaskans billhillforalaskans Checks can be mailed to: Bill Hill For Alaskans PO Box 220703, Anchorage AK 99522 Messaging & visual assets Paid for by Bill Hill for Alaskans Privacy Policy

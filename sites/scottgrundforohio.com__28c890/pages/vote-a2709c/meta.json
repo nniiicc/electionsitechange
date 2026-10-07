@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://scottgrundforohio.com/vote",
+ "fingerprint": "6a851853c3abb2c886cdca1c92b17f9980ce7460",
+ "format": 3,
  "paid_for_by": "Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": []

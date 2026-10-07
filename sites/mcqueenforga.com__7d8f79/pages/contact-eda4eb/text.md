@@ -1,16 +1,3 @@
-Home
-Meet Mekyah
-Issues
-Volunteer
-Contact
-More
-Get in Touch with
-McQueen for GA
-For press and general inquiries, please use the information below to contact us:
-ADDRESS
-The Committee to Elect Mekyah McQueen
-2451 Cumberland Parkway Suite 3359
-Atlanta, GA 30339
-EMAIL
-info@mcqueenforga.com
-Thank You for Contacting McQueen for GA!
+top of page Home Meet Mekyah Issues Volunteer Contact More Use tab to navigate through the menu items.
+REGISTER TO VOTE DONATE NOW Get in Touch with McQueen for GA For press and general inquiries, please use the information below to contact us: ADDR ESS The Committee to Elect Mekyah McQueen 2451 Cumberland Parkway Suite 3359 Atlanta, G A 30339 ​ EMAIL info@mcqueenforga.com SEND A MESSAGE SEND Thank You for Contacting McQueen for GA!
+Home Meet Mekyah Issues Get Involved Contact Paid for by the Committee to Elect Mekyah McQueen 2451 Cumberland Parkway Suite 3359 Atlanta GA 30339 DONATE NOW REGISTER TO VOTE SITE CREDIT PRIVACY POLICY bottom of page

@@ -1,44 +1,302 @@
 [
-"https://tx126.net/",
-"https://tx126.net/2025/11",
-"https://tx126.net/2025/12",
-"https://tx126.net/2026/01",
-"https://tx126.net/2026/02",
-"https://tx126.net/2026/03",
-"https://tx126.net/2026/04",
-"https://tx126.net/2026/05",
-"https://tx126.net/about-me",
-"https://tx126.net/activity-2",
-"https://tx126.net/blog",
-"https://tx126.net/blog/page/3",
-"https://tx126.net/blog/page/4",
-"https://tx126.net/cart",
-"https://tx126.net/category/fun",
-"https://tx126.net/category/outreach",
-"https://tx126.net/category/parks",
-"https://tx126.net/category/petition",
-"https://tx126.net/category/platform",
-"https://tx126.net/category/precinct",
-"https://tx126.net/category/traveling",
-"https://tx126.net/category/uncategorized",
-"https://tx126.net/category/verify",
-"https://tx126.net/category/volpath",
-"https://tx126.net/contact",
-"https://tx126.net/faqs",
-"https://tx126.net/forums",
-"https://tx126.net/groups-2",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/precinct-1057-carrot",
-"https://tx126.net/precinct-464-cypressdale",
-"https://tx126.net/precinct-514-strack",
-"https://tx126.net/precinct-631-collins-park",
-"https://tx126.net/priorities",
-"https://tx126.net/register",
-"https://tx126.net/shop",
-"https://tx126.net/success-tier-1",
-"https://tx126.net/take-action",
-"https://tx126.net/texas-ethics-commission",
-"https://tx126.net/what-is-a-precinct",
-"https://tx126.net/what-precinct-am-i-in",
-"https://tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fblog%2Fpage%2F2%2F"
+{
+"text": "1",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "3",
+"href": "https://www.tx126.net/blog/page/3/"
+},
+{
+"text": "4",
+"href": "https://www.tx126.net/blog/page/4/"
+},
+{
+"text": "About Lisa",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "About Me",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "Activity",
+"href": "https://www.tx126.net/activity-2/"
+},
+{
+"text": "April 2026",
+"href": "https://www.tx126.net/2026/04/"
+},
+{
+"text": "Blog",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/precinct-1057-carrot/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/precinct-464-cypressdale/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/precinct-514-strack/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/precinct-631-collins-park/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/priorities/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/success-tier-1/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/take-action/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/texas-ethics-commission/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/what-is-a-precinct/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/what-precinct-am-i-in/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "December 2025",
+"href": "https://www.tx126.net/2025/12/"
+},
+{
+"text": "Donate",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "FAQs",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "February 2026",
+"href": "https://www.tx126.net/2026/02/"
+},
+{
+"text": "Forums",
+"href": "https://www.tx126.net/forums/"
+},
+{
+"text": "Fun",
+"href": "https://www.tx126.net/category/fun/"
+},
+{
+"text": "Groups",
+"href": "https://www.tx126.net/groups-2/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "January 20, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 23, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 24, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 25, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 26, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 29, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "Join the Email List",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Log In",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Fblog%2Fpage%2F2%2F"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "March 2026",
+"href": "https://www.tx126.net/2026/03/"
+},
+{
+"text": "May 2026",
+"href": "https://www.tx126.net/2026/05/"
+},
+{
+"text": "November 2025",
+"href": "https://www.tx126.net/2025/11/"
+},
+{
+"text": "Outreach Ideas",
+"href": "https://www.tx126.net/category/outreach/"
+},
+{
+"text": "Parks",
+"href": "https://www.tx126.net/category/parks/"
+},
+{
+"text": "Petition",
+"href": "https://www.tx126.net/category/petition/"
+},
+{
+"text": "Platform",
+"href": "https://www.tx126.net/category/platform/"
+},
+{
+"text": "Precinct",
+"href": "https://www.tx126.net/category/precinct/"
+},
+{
+"text": "Precinct 1057 – Carrot",
+"href": "https://www.tx126.net/precinct-1057-carrot/"
+},
+{
+"text": "Precinct 464 – Cypressdale",
+"href": "https://www.tx126.net/precinct-464-cypressdale/"
+},
+{
+"text": "Precinct 514 – Strack",
+"href": "https://www.tx126.net/precinct-514-strack/"
+},
+{
+"text": "Precinct 631 – Collins Park",
+"href": "https://www.tx126.net/precinct-631-collins-park/"
+},
+{
+"text": "Priorities",
+"href": "https://www.tx126.net/priorities/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Sign Up for Emails",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Success: Tier 1",
+"href": "https://www.tx126.net/success-tier-1/"
+},
+{
+"text": "Take Action",
+"href": "https://www.tx126.net/take-action/"
+},
+{
+"text": "Texas Ethics Commission",
+"href": "https://www.tx126.net/texas-ethics-commission/"
+},
+{
+"text": "Traveling",
+"href": "https://www.tx126.net/category/traveling/"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.tx126.net/category/uncategorized/"
+},
+{
+"text": "Verify",
+"href": "https://www.tx126.net/category/verify/"
+},
+{
+"text": "Volunteer Path",
+"href": "https://www.tx126.net/category/volpath/"
+},
+{
+"text": "What Precinct am I in?",
+"href": "https://www.tx126.net/what-precinct-am-i-in/"
+},
+{
+"text": "What is a Precinct?",
+"href": "https://www.tx126.net/what-is-a-precinct/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/blog/page/3/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/precinct-1057-carrot/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/precinct-464-cypressdale/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/precinct-514-strack/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/precinct-631-collins-park/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/priorities/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/success-tier-1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/take-action/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/texas-ethics-commission/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/what-is-a-precinct/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/what-precinct-am-i-in/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+}
 ]

@@ -1,45 +1,250 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Phone+Bank&dates=20261015T210000Z%2F20261016T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Clinton+Democrats%27+Wine+and+Cheese+Event&dates=20260926T210000Z%2F20260927T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Connecticut+House+Democrats+Door-Knocking+Day&dates=20261010T150000Z%2F20261010T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Blitz+with+Attorney+General+William+Tong&dates=20260920T143000Z%2F20260920T163000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Blitz+with+Connecticut+Education+Association&dates=20261003T140000Z%2F20261003T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Killingworth+Democrats+Candidate+Meet+%26+Greet&dates=20261009T213000Z%2F20261009T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+with+Josh+Elliott+for+Cinzia+Lettieri&dates=20261004T143000Z%2F20261004T163000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Westbrook+Democrats%27+5th+Annual+Eileen+Daily+Community+Awards+Dinner&dates=20260930T220000Z%2F20261001T000000Z",
-"http://votelettieri.com/get-involved",
-"https://daycampaign.com/Event/2026EDDinner",
-"https://facebook.com/profile.php?id=61559037015755",
-"https://instagram.com/cinzialettierict",
-"https://secure.anedot.com/clinton-democrats/1bdd4bb1-c96d-4e15-ae57-5431304eea10",
-"https://votelettieri.com/",
-"https://votelettieri.com/cart",
-"https://votelettieri.com/contact",
-"https://votelettieri.com/endorsements",
-"https://votelettieri.com/events-1",
-"https://votelettieri.com/events-1/candidate-phone-bank",
-"https://votelettieri.com/events-1/candidate-phone-bank?format=ical",
-"https://votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri",
-"https://votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri?format=ical",
-"https://votelettieri.com/events-1/connecticut-house-democrat-door-knocking-day",
-"https://votelettieri.com/events-1/connecticut-house-democrat-door-knocking-day?format=ical",
-"https://votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong",
-"https://votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong?format=ical",
-"https://votelettieri.com/events-1/door-knocking-blitz-with-connecticut-education-association",
-"https://votelettieri.com/events-1/door-knocking-blitz-with-connecticut-education-association?format=ical",
-"https://votelettieri.com/events-1/killingworth-democrats-candidate-meet-greet",
-"https://votelettieri.com/events-1/killingworth-democrats-candidate-meet-greet?format=ical",
-"https://votelettieri.com/events-1/knock-with-josh-elliot-for-cinzia-lettieri",
-"https://votelettieri.com/events-1/knock-with-josh-elliot-for-cinzia-lettieri?format=ical",
-"https://votelettieri.com/events-1/westbrook-democrats-5th-annual-eileen-daily-community-awards-dinner",
-"https://votelettieri.com/events-1/westbrook-democrats-5th-annual-eileen-daily-community-awards-dinner?format=ical",
-"https://votelettieri.com/get-involved-1",
-"https://votelettieri.com/get-your-lawn-sign",
-"https://votelettieri.com/headquarters",
-"https://votelettieri.com/issues",
-"https://votelettieri.com/meet-cinzia",
-"https://votelettieri.com/new-dropdown",
-"https://votelettieri.com/press",
-"https://votelettieri.com/volunteer",
-"https://votelettieri.com/voter-info"
+{
+"text": "0",
+"href": "https://www.votelettieri.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.votelettieri.com/"
+},
+{
+"text": "Candidate Phone Bank",
+"href": "https://www.votelettieri.com/events-1/candidate-phone-bank"
+},
+{
+"text": "Cinzia Lettieri For State Representative",
+"href": "https://www.votelettieri.com/"
+},
+{
+"text": "Clinton Democrats' Wine and Cheese Event",
+"href": "https://www.votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri"
+},
+{
+"text": "Connecticut House Democrats Door-Knocking Day",
+"href": "https://www.votelettieri.com/events-1/connecticut-house-democrat-door-knocking-day"
+},
+{
+"text": "Contact",
+"href": "https://www.votelettieri.com/contact"
+},
+{
+"text": "Contact",
+"href": "mailto:votelettieri@gmail.com"
+},
+{
+"text": "Door-Knocking Blitz with Attorney General William Tong",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong"
+},
+{
+"text": "Door-Knocking Blitz with Connecticut Education Association",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-connecticut-education-association"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelettieri.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61559037015755"
+},
+{
+"text": "Folder: About",
+"href": "https://www.votelettieri.com/new-dropdown"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.votelettieri.com/get-involved-1"
+},
+{
+"text": "Get Your Lawn Sign!",
+"href": "https://www.votelettieri.com/get-your-lawn-sign"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Phone+Bank&dates=20261015T210000Z%2F20261016T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Clinton+Democrats%27+Wine+and+Cheese+Event&dates=20260926T210000Z%2F20260927T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Connecticut+House+Democrats+Door-Knocking+Day&dates=20261010T150000Z%2F20261010T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Blitz+with+Attorney+General+William+Tong&dates=20260920T143000Z%2F20260920T163000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Blitz+with+Connecticut+Education+Association&dates=20261003T140000Z%2F20261003T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Killingworth+Democrats+Candidate+Meet+%26+Greet&dates=20261009T213000Z%2F20261009T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+with+Josh+Elliott+for+Cinzia+Lettieri&dates=20261004T143000Z%2F20261004T163000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Westbrook+Democrats%27+5th+Annual+Eileen+Daily+Community+Awards+Dinner&dates=20260930T220000Z%2F20261001T000000Z"
+},
+{
+"text": "Headquarters",
+"href": "https://www.votelettieri.com/headquarters"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/candidate-phone-bank?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/connecticut-house-democrat-door-knocking-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-connecticut-education-association?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/killingworth-democrats-candidate-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/knock-with-josh-elliot-for-cinzia-lettieri?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/westbrook-democrats-5th-annual-eileen-daily-community-awards-dinner?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cinzialettierict/"
+},
+{
+"text": "Issues",
+"href": "https://www.votelettieri.com/issues"
+},
+{
+"text": "Killingworth Democrats Candidate Meet & Greet",
+"href": "https://www.votelettieri.com/events-1/killingworth-democrats-candidate-meet-greet"
+},
+{
+"text": "Knock with Josh Elliott for Cinzia Lettieri",
+"href": "https://www.votelettieri.com/events-1/knock-with-josh-elliot-for-cinzia-lettieri"
+},
+{
+"text": "Meet Cinzia",
+"href": "https://www.votelettieri.com/meet-cinzia"
+},
+{
+"text": "Press",
+"href": "https://www.votelettieri.com/press"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.votelettieri.com/events-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/candidate-phone-bank"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/connecticut-house-democrat-door-knocking-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-connecticut-education-association"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/killingworth-democrats-candidate-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/knock-with-josh-elliot-for-cinzia-lettieri"
+},
+{
+"text": "View Event →",
+"href": "https://www.votelettieri.com/events-1/westbrook-democrats-5th-annual-eileen-daily-community-awards-dinner"
+},
+{
+"text": "Volunteer",
+"href": "http://www.votelettieri.com/get-involved"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votelettieri.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votelettieri.com/voter-info"
+},
+{
+"text": "Westbrook Democrats' 5th Annual Eileen Daily Community Awards Dinner",
+"href": "https://www.votelettieri.com/events-1/westbrook-democrats-5th-annual-eileen-daily-community-awards-dinner"
+},
+{
+"text": "[image: Candidate Phone Bank]",
+"href": "https://www.votelettieri.com/events-1/candidate-phone-bank"
+},
+{
+"text": "[image: Clinton Democrats' Wine and Cheese Event]",
+"href": "https://www.votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri"
+},
+{
+"text": "[image: Connecticut House Democrats Door-Knocking Day]",
+"href": "https://www.votelettieri.com/events-1/connecticut-house-democrat-door-knocking-day"
+},
+{
+"text": "[image: Door-Knocking Blitz with Attorney General William Tong]",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong"
+},
+{
+"text": "[image: Door-Knocking Blitz with Connecticut Education Association]",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-connecticut-education-association"
+},
+{
+"text": "[image: Killingworth Democrats Candidate Meet & Greet]",
+"href": "https://www.votelettieri.com/events-1/killingworth-democrats-candidate-meet-greet"
+},
+{
+"text": "[image: Knock with Josh Elliott for Cinzia Lettieri]",
+"href": "https://www.votelettieri.com/events-1/knock-with-josh-elliot-for-cinzia-lettieri"
+},
+{
+"text": "[image: Westbrook Democrats' 5th Annual Eileen Daily Community Awards Dinner]",
+"href": "https://www.votelettieri.com/events-1/westbrook-democrats-5th-annual-eileen-daily-community-awards-dinner"
+},
+{
+"text": "clintondtcfundraiser@gmail.com",
+"href": "mailto:clintondtcfundraiser@gmail.com"
+},
+{
+"text": "https://daycampaign.com/Event/2026EDDinner",
+"href": "https://daycampaign.com/Event/2026EDDinner"
+},
+{
+"text": "https://secure.anedot.com/.../1bdd4bb1-c96d-4e15-ae57",
+"href": "https://secure.anedot.com/clinton-democrats/1bdd4bb1-c96d-4e15-ae57-5431304eea10"
+}
 ]

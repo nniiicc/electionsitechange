@@ -1,17 +1,98 @@
 [
-"https://facebook.com/MackenzieForCongress",
-"https://mackenzieforcongress.com/",
-"https://mackenzieforcongress.com/about",
-"https://mackenzieforcongress.com/copy-of-record",
-"https://mackenzieforcongress.com/issues",
-"https://mackenzieforcongress.com/media",
-"https://mackenzieforcongress.com/privacy-policy",
-"https://secure.winred.com/mackenzie-for-congress/give-today",
-"https://secure.winred.com/mackenzie-for-congress/give-today?amount=100",
-"https://secure.winred.com/mackenzie-for-congress/give-today?amount=1000",
-"https://secure.winred.com/mackenzie-for-congress/give-today?amount=25",
-"https://secure.winred.com/mackenzie-for-congress/give-today?amount=50",
-"https://secure.winred.com/mackenzie-for-congress/give-today?amount=500",
-"https://twitter.com/Ryan_Mackenzie",
-"https://youtube.com/@MackenzieForCongress"
+{
+"text": "$100",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.mackenzieforcongress.com/about"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today"
+},
+{
+"text": "LEARN MORE ABOUT RYAN →",
+"href": "https://www.mackenzieforcongress.com/about"
+},
+{
+"text": "MORE INFO →",
+"href": "https://www.mackenzieforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.mackenzieforcongress.com/media"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today"
+},
+{
+"text": "Priorities",
+"href": "https://www.mackenzieforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mackenzieforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.mackenzieforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms & Conditions.",
+"href": "https://www.mackenzieforcongress.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://www.mackenzieforcongress.com/copy-of-record"
+},
+{
+"text": "SEE RYAN’S PROVEN RECORD →",
+"href": "https://www.mackenzieforcongress.com/copy-of-record"
+},
+{
+"text": "SEE WHAT RYAN HAS DONE FOR YOU →",
+"href": "https://www.mackenzieforcongress.com/copy-of-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mackenzieforcongress.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.mackenzieforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MackenzieForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ryan_Mackenzie"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@MackenzieForCongress"
+},
+{
+"text": "info@mackenzieforcongress.com",
+"href": "mailto:info@mackenzieforpa.com"
+}
 ]

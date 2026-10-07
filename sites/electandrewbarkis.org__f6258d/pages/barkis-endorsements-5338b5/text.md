@@ -1,141 +1,17 @@
-Andrew Barkis for State Representative
-Official Endorsements
-Organizations:
-National Federation of Independent Business (NFIB)
-Washington Realtors
-Washington Retail Association
-Washington Food Industry
-Washington State CREDA - Commercial Real Estate Development Association
-Washington Trucking Association (WTA)
-Washington State Veterinary Medical Association (WSVMA)
-Hunters Heritage Council
-Human Life Political Action Committee
-Lacey Business League
-Commercial Real Estate Development Assoc.
-(NAIOP)
-Master Builders Association Of Pierce County - Affordable Housing Council
-Affordable Housing Council- Thurston, Mason, Lewis Counties
-Washington Multi-Family Housing Assoc.
+Home Donate Contact About Endorsements Home Donate Contact About Endorsements Home Donate Contact About Endorsements Andrew Barkis for State Representative Official Endorsements Organizations: National Federation of Independent Business (NFIB) Washington Realtors Washington Retail Association Washington Food Industry Washington State CREDA - Commercial Real Estate Development Association Washington Trucking Association (WTA) Washington State Veterinary Medical Association (WSVMA) Hunters Heritage Council Human Life Political Action Committee Lacey Business League Commercial Real Estate Development Assoc.
+(NAIOP) Master Builders Association Of Pierce County­ - Affordable Housing Council Affordable Housing Council- Thurston, Mason, Lewis Counties Washington Multi-Family Housing Assoc.
 Building Owners and Managers Assoc.
-(BOMA)
-Manufactured Housing Communities of WA.
-(MHCW)
-Rental Housing Assoc, (RHA)
-Washington Rental Owners Assoc.
-Pierce County Republican Party
-Thurston County Republican Party
-Thurston County Republican Women
-2nd Legislative District Republicans
-Mainstream Republicans
-Washington Council of Police & Sheriffs
-Pierce County Affordable Housing Council
-Washington State School Retiree's Association
-Washington State Council of Fire Fighters
-Washington Bikes
-Law Enforcement Administrators of Washington
-National Rifle Association of America
-Washington Fraternal Order of Police
-Washington Farm Bureau
-Washington Hospitality Association
-Law Enforcement Administrators of Washington
-Public School Employees of Washington
-WACOPS - Washington Council of Police and Sheriffs
-AGC - Associated General Contractors of America
-Mainstream Republicans of Washington
-Washington State Fraternal Order of Police
-Washington Farm Bureau PAC
-North Coast States Carpenters Unions
-The Washington Affordable Housing Council
-International Union of Operating Engineers - Local 302
-NFIB Washington PAC
-Elected Officials:
-Sam Reed - Former WA State Secretary of State
-Ralph Munro - Former WA State Secretary of State
-JT Wilcox - Port of Tacoma Commissioner, Former WA State Rep. 2nd District
-Randi Becker - Former WA State Senate 2nd District
-Hans Zeiger - Former WA State Rep. 25th District
-Richard Debolt - Former WA State Rep. 20th District
-Gary Alexander - Former WA State Rep. 2nd District
-Joan Houchen - Former WA State Rep.
-Jon Halverson - Former Mayor Of Lacey
-Bob Van Schoorl - Former Olympia Port Commissioner
-Gary Edwards - Former Thurston County Commissioner
-John Snaza - Former Thurston County Sheriff
-Bud Blake - Former Thurston County Commissioner
-Judy Wilson - Former Lacey Fire Dist. 3 Commissioner
-JW Foster - Former Mayor of Yelm
-Joe DePinto - Mayor of Yelm
-Russ Hendrickson - Yelm City Council
-Jason Hearn - Former Lacey City Council
-Lenny Greenstein - Lacey City Council
-Bill McGregor - Former Port of Olympia Commissioner
-Bruce Dammier - Former Pierce Co.
+(BOMA) Manufactured Housing Communities of WA.
+(MHCW) Rental Housing Assoc, (RHA) Washington Rental Owners Assoc.
+Pierce County Republican Party Thurston County Republican Party Thurston County Republican Women 2nd Legislative District Republicans Mainstream Republicans Washington Council of Police & Sheriffs Pierce County Affordable Housing Council Washington State School Retiree's Association Washington State Council of Fire Fighters Washington Bikes Law Enforcement Administrators of Washington National Rifle Association of America Washington Fraternal Order of Police Washington Farm Bureau Washington Hospitality Association Law Enforcement Administrators of Washington Public School Employees of Washington WACOPS - Washington Council of Police and Sheriffs AGC - Associated General Contractors of America Mainstream Republicans of Washington Washington State Fraternal Order of Police Washington Farm Bureau PAC North Coast States Carpenters Unions The Washington Affordable Housing Council International Union of Operating Engineers - Local 302 NFIB Washington PAC Elected Officials: Sam Reed - Former WA State Secretary of State Ralph Munro - Former WA State Secretary of State Mark Brown, Former Lacey Mayor JT Wilcox - Port of Tacoma Commissioner, Former WA State Rep.
+2nd District Randi Becker - Former WA State Senate 2nd District Hans Zeiger - Former WA State Rep.
+25th District Richard Debolt - Former WA State Rep.
+20th District Gary Alexander - Former WA State Rep.
+2nd District Joan Houchen - Former WA State Rep.
+Jon Halverson - Former Mayor Of Lacey Bob Van Schoorl - Former Olympia Port Commissioner Gary Edwards - Former Thurston County Commissioner John Snaza - Former Thurston County Sheriff Bud Blake - Former Thurston County Commissioner Judy Wilson - Former Lacey Fire Dist.
+3 Commissioner JW Foster - Former Mayor of Yelm Joe DePinto - Mayor of Yelm Russ Hendrickson - Yelm City Council Jason Hearn - Former Lacey City Council Lenny Greenstein - Lacey City Council Bill McGregor - Former Port of Olympia Commissioner Bruce Dammier - Former Pierce Co.
 Exec.
-John (Hutch) Hutchings - Former Thurston County Commissioner
-Ryan Muller - Mayor of Roy
-Emily McFadden - Mayor of Eatonville
-Callie Carpenter - Mayor of Bucoda
-Mayor Andy Ryder - City of Lacey
-Friends and Colleagues:
-Tom Carroll
-Scott Bergford
-Jim Goche
-Dirk Farrar
-Jim Goldsmith
-Joseph Beaulieu
-Karen McClennen
-Pat Beehler
-Mary Ann Strickler
-Steve Boone
-Dan and Shelly Nicholson
-Bill Frare
-Lowell Gordon
-Gary Johnson
-John Reilly
-Garry Holland
-Doug Drainville
-Stan Dickhoff
-Marny Bright
-Sharon and Ted Trask
-Tim Kirkpatrick
-Jeff and Kathy Powell
-Priscilla Terry
-Marc Perez
-Steve and Cecile Radnich
-Kathleen Barkis
-Dave and Therese Walch
-Bruce G Barkis
-Tom and Debbie O’Neill
-Brian and Cara Barkis
-Phil and Barb Peters
-Steve and Tami Hale
-Dr.
-Timothy Stokes- President SPSCC
-Kerry French
-Patrick Conner
-Jonathan Pleger
-Bill and Tammy Kendall
-Trudy Soucoup
-Stewart Ridgeway
-Jerry Wilkins
-Carrie Whistler
-Chris and Kelli Panush
-Mike Auderer
-Gabriel Bowman
-Debbi Boyd
-Ruth Weigelt
-Stacey Jenkins
-George Vestal
-Troy Kirby
-Ted May
-Madeline White
-Eric & Gayle Strom
-Jarred Hays
-Ed Lewis
-Tracie & Stan Choate
-Teena Williams
-Terry-Stanley Ballard
-Alexis Wallace
-Howard Burton
-Sam Bouard
-Ken Brogan
+John (Hutch) Hutchings - Former Thurston County Commissioner Ryan Muller - Mayor of Roy Emily McFadden - Mayor of Eatonville Callie Carpenter - Mayor of Bucoda Mayor Andy Ryder - City of Lacey Friends and Colleagues: Tom Carroll Scott Bergford Jim Goche Dirk Farrar Jim Goldsmith Joseph Beaulieu Karen McClennen Pat Beehler Mary Ann Strickler Steve Boone Dan and Shelly Nicholson Bill Frare Lowell Gordon Gary Johnson John Reilly Garry Holland Doug Drainville Stan Dickhoff Marny Bright Sharon and Ted Trask Tim Kirkpatrick Jeff and Kathy Powell Priscilla Terry Marc Perez Steve and Cecile Radnich Kathleen Barkis Dave and Therese Walch Bruce G Barkis Tom and Debbie O’Neill Brian and Cara Barkis Phil and Barb Peters Steve and Tami Hale Dr.
+Timothy Stokes- President SPSCC Kerry French Patrick Conner Jonathan Pleger Bill and Tammy Kendall Trudy Soucoup Stewart Ridgeway Jerry Wilkins Carrie Whistler Chris and Kelli Panush Mike Auderer Gabriel Bowman Debbi Boyd Ruth Weigelt Stacey Jenkins George Vestal Troy Kirby Ted May Madeline White Eric & Gayle Strom Jarred Hays Ed Lewis Tracie & Stan Choate Teena Williams Terry-Stanley Ballard Alexis Wallace Howard Burton Sam Bouard Ken Brogan Paid for by Friends of Andrew Barkis (R) | PO Box 8728 | Lacey, WA 98509 Join Andrew Barkis!
+Join our mailing list to receive the latest news and updates from Andrew.
+Your Name (required) Your Email (required) Your Message

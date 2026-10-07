@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/photo-gallery",
- "paid_for_by": null,
+ "fingerprint": "9f2d301eb93633545b99901849593c6836d75eaa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

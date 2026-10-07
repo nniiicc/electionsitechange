@@ -1,7 +1,26 @@
 [
-"https://amylore.com/home",
-"https://amylore.com/issues",
-"https://amylore.com/learn",
-"https://facebook.com/AmyLore43",
-"https://secure.winred.com/friends-of-amy-lore/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "About Amy",
+"href": "https://www.amylore.com/learn/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-amy-lore/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AmyLore43"
+},
+{
+"text": "Issues",
+"href": "https://www.amylore.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://www.amylore.com/learn/"
+},
+{
+"text": "[image]",
+"href": "https://www.amylore.com/home/"
+}
 ]

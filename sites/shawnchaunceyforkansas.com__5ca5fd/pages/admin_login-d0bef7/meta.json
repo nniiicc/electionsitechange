@@ -1,7 +1,9 @@
 {
  "description": "Admin login for campaign management",
  "final_url": "https://shawnchaunceyforkansas.com/admin/login",
- "paid_for_by": null,
+ "fingerprint": "75e696611ef705cb1ccfb5501100e9776d975eac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Admin Login - Political Campaign",
  "years_mentioned": []
 }

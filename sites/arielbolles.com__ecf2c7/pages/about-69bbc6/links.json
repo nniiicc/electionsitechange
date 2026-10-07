@@ -1,11 +1,50 @@
 [
-"https://arielbolles.com/",
-"https://arielbolles.com/about",
-"https://arielbolles.com/campaign-updates",
-"https://arielbolles.com/contact",
-"https://arielbolles.com/endorsements-testimonials",
-"https://arielbolles.com/priorities",
-"https://facebook.com/people/Ari-for-Addison-3/61575731889965",
-"https://instagram.com/ari_for_addison3",
-"https://secure.actblue.com/donate/ariel-bolles"
+{
+"text": "About",
+"href": "https://www.arielbolles.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.arielbolles.com/contact"
+},
+{
+"text": "Contact Ariel",
+"href": "https://www.arielbolles.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ariel-bolles"
+},
+{
+"text": "Endorsements & testimonials",
+"href": "https://www.arielbolles.com/endorsements-testimonials"
+},
+{
+"text": "Explore my priorities for Addison-3.",
+"href": "https://www.arielbolles.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.arielbolles.com/priorities"
+},
+{
+"text": "Support my campaign",
+"href": "https://secure.actblue.com/donate/ariel-bolles"
+},
+{
+"text": "Updates",
+"href": "https://www.arielbolles.com/campaign-updates"
+},
+{
+"text": "[image: Ariel Bolles for Addison-3]",
+"href": "https://www.arielbolles.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Ari-for-Addison-3/61575731889965/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ari_for_addison3"
+}
 ]

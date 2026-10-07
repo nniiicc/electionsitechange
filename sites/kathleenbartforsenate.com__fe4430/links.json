@@ -1,10 +1,42 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://kathleenbartforsenate.com/",
-"https://kathleenbartforsenate.com/cart",
-"https://kathleenbartforsenate.com/donate",
-"https://kathleenbartforsenate.com/issues",
-"https://kathleenbartforsenate.com/volunteer"
+{
+"text": "0",
+"href": "https://kathleenbartforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://kathleenbartforsenate.com/"
+},
+{
+"text": "Contact & Volunteer",
+"href": "https://kathleenbartforsenate.com/volunteer"
+},
+{
+"text": "DONATE TO OUR CAMPAIGN",
+"href": "https://kathleenbartforsenate.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://kathleenbartforsenate.com/donate"
+},
+{
+"text": "Issues",
+"href": "https://kathleenbartforsenate.com/issues"
+},
+{
+"text": "[image: Kathleen Bart For Senate]",
+"href": "https://kathleenbartforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+}
 ]

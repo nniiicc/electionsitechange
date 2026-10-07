@@ -1,4 +1,3 @@
-Contact Us
-Excited to meet volunteers to support my campaign and looking to understand the concerns and priorities of the people who live in my district.
-aschaefernhstaterep@gmail.com
-(603)800-9298
+0 Skip to Content Amber Schaefer for NH State Representative Current Legislation Policy Issues About Facebook Feed Contact Open Menu Close Menu Amber Schaefer for NH State Representative Current Legislation Policy Issues About Facebook Feed Contact Open Menu Close Menu Current Legislation Policy Issues About Facebook Feed Contact Contact Us Excited to meet volunteers to support my campaign and looking to understand the concerns and priorities of the people who live in my district. aschaefernhstaterep@gmail.com (603)800-9298 Facebook Campaign Donations Paid for by Amber Schaefer for State Rep.
+Jane MacDonald, treasurer.
+PO Box 1113, Meredith, NH 03253

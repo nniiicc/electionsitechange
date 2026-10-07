@@ -1,46 +1,194 @@
 [
-"http://trinaforcongress.com/",
-"http://trinaforcongress.com/get-involved",
-"http://trinaforcongress.com/meet-trina",
-"http://trinaforcongress.com/news-and-updates",
-"http://trinaforcongress.com/priorities",
-"http://trinaforcongress.com/privacy",
-"http://trinaforcongress.com/upcoming-events",
-"https://facebook.com/people/Trina-for-Congress/61583108305965",
-"https://google.com/maps/search/4877+Miller+Trunk+Highway+Hermantown,+MN+55811?entry=gmail",
-"https://instagram.com/trinaforcongress",
-"https://secure.actblue.com/donate/trina-swanson-1",
-"https://secure.actblue.com/donate/trina-swanson-1?amount=10",
-"https://store.trinaforcongress.com/",
-"https://threads.com/@trinaforcongress?xmt=AQG0N8RS74-_T59wP2aZ10B48zLvD4-DWVNM2wc3HLipsbI",
-"https://trinaforcongress.com/",
-"https://trinaforcongress.com/endorsements",
-"https://trinaforcongress.com/events/campaign-headquarters-grand-opening",
-"https://trinaforcongress.com/events/campaign-headquarters-open-office-hours",
-"https://trinaforcongress.com/events/campfire-chat-2",
-"https://trinaforcongress.com/events/duluth-labor-assembly-labor-day-picnic",
-"https://trinaforcongress.com/events/east-central-mn-dfl-fall-festival",
-"https://trinaforcongress.com/events/fundraiser",
-"https://trinaforcongress.com/events/fundraiser-2",
-"https://trinaforcongress.com/events/fundraiser-3",
-"https://trinaforcongress.com/events/fundraiser-4",
-"https://trinaforcongress.com/events/harvest-dinner-fundraiser",
-"https://trinaforcongress.com/events/iron-range-labor-assembly-labor-day-picnic",
-"https://trinaforcongress.com/events/lets-fix-it-town-hall-crow-wing-county",
-"https://trinaforcongress.com/events/lets-fix-it-town-hall-isanti-county",
-"https://trinaforcongress.com/events/meet-the-candidates-picnic-with-lake-county-dfl",
-"https://trinaforcongress.com/events/minnesota-state-fair",
-"https://trinaforcongress.com/events/minnesota-state-fair-2",
-"https://trinaforcongress.com/events/scandia-taco-days",
-"https://trinaforcongress.com/events/trina-swanson-and-doug-chapin-fundraiser",
-"https://trinaforcongress.com/events/visit-to-a-local-hospital-system",
-"https://trinaforcongress.com/events/wyoming-stagecoach-days-parade",
-"https://trinaforcongress.com/get-involved",
-"https://trinaforcongress.com/lets-fix-it",
-"https://trinaforcongress.com/meet-trina",
-"https://trinaforcongress.com/news-and-updates",
-"https://trinaforcongress.com/priorities",
-"https://trinaforcongress.com/upcoming-events",
-"https://trinaforcongress.com/voter-concerns",
-"https://x.com/TrinaCongress"
+{
+"text": "4877 Miller Trunk HighwayHermantown, MN 55811",
+"href": "https://www.google.com/maps/search/4877+Miller+Trunk+Highway+Hermantown,+MN+55811?entry=gmail"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/trina-swanson-1?amount=10"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/trina-swanson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://trinaforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "http://trinaforcongress.com/upcoming-events/"
+},
+{
+"text": "Events",
+"href": "https://trinaforcongress.com/upcoming-events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Trina-for-Congress/61583108305965/"
+},
+{
+"text": "Get Involved",
+"href": "https://trinaforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "http://trinaforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/trinaforcongress/"
+},
+{
+"text": "Let’s Fix it Tour",
+"href": "https://trinaforcongress.com/lets-fix-it/"
+},
+{
+"text": "Meet Trina",
+"href": "http://trinaforcongress.com/meet-trina/"
+},
+{
+"text": "Meet Trina",
+"href": "https://trinaforcongress.com/meet-trina/"
+},
+{
+"text": "News",
+"href": "http://trinaforcongress.com/news-and-updates/"
+},
+{
+"text": "News",
+"href": "https://trinaforcongress.com/news-and-updates/"
+},
+{
+"text": "OCT1Fundraiser Thursday, October 1, 2026 New Brighton, MN",
+"href": "https://trinaforcongress.com/events/fundraiser-4/"
+},
+{
+"text": "OCT4Harvest Dinner & Fundraiser Sunday, October 4, 2026 Long Lake Conservation Center, Palisade, MN",
+"href": "https://trinaforcongress.com/events/harvest-dinner-fundraiser/"
+},
+{
+"text": "OCT5Let’s Fix It! Town Hall – Beltrami County Monday, October 5, 2026 Rail River Folk School, Bemidji, MN",
+"href": "https://trinaforcongress.com/events/lets-fix-it-town-hall-beltrami-county/"
+},
+{
+"text": "OCT6WDIO Debate Tuesday, October 6, 2026 Virtual",
+"href": "https://trinaforcongress.com/events/wdio-debate/"
+},
+{
+"text": "Priorities",
+"href": "http://trinaforcongress.com/priorities/"
+},
+{
+"text": "Priorities",
+"href": "https://trinaforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://trinaforcongress.com/privacy/"
+},
+{
+"text": "SEP10Campaign Headquarters Grand Opening Thursday, September 10, 2026 Hermantown MN 55811.",
+"href": "https://trinaforcongress.com/events/campaign-headquarters-grand-opening/"
+},
+{
+"text": "SEP12Scandia Taco Daze Saturday, September 12, 2026 Scandia Community Center, Scandia, MN",
+"href": "https://trinaforcongress.com/events/scandia-taco-days/"
+},
+{
+"text": "SEP14Visit to a Local Hospital System Monday, September 14, 2026",
+"href": "https://trinaforcongress.com/events/visit-to-a-local-hospital-system/"
+},
+{
+"text": "SEP15Fundraiser Tuesday, September 15, 2026 Forest Lake, MN",
+"href": "https://trinaforcongress.com/events/fundraiser-2/"
+},
+{
+"text": "SEP16Campfire Chat Wednesday, September 16, 2026 Brainerd, MN",
+"href": "https://trinaforcongress.com/events/campfire-chat-2/"
+},
+{
+"text": "SEP16Let’s Fix It! Town Hall – Crow Wing County Wednesday, September 16, 2026 Dunmire's on the Lakes, Brainerd, MN",
+"href": "https://trinaforcongress.com/events/lets-fix-it-town-hall-crow-wing-county/"
+},
+{
+"text": "SEP19East Central MN DFL Fall Festival Saturday, September 19, 2026 Carlson's Farm, Mora, MN",
+"href": "https://trinaforcongress.com/events/east-central-mn-dfl-fall-festival/"
+},
+{
+"text": "SEP19Wyoming Stagecoach Days Parade Saturday, September 19, 2026 Wyoming, MN",
+"href": "https://trinaforcongress.com/events/wyoming-stagecoach-days-parade/"
+},
+{
+"text": "SEP21Fundraiser Monday, September 21, 2026 Minneapolis, MN",
+"href": "https://trinaforcongress.com/events/fundraiser-3/"
+},
+{
+"text": "SEP22Let’s Fix It! Town Hall – Isanti County Tuesday, September 22, 2026 Armed Forces Reserve and Community Center, Cambridge, MN",
+"href": "https://trinaforcongress.com/events/lets-fix-it-town-hall-isanti-county/"
+},
+{
+"text": "SEP23Meet the Candidates Picnic with Lake County DFL Wednesday, September 23, 2026 Lakeview Park, Two Harbors, MN",
+"href": "https://trinaforcongress.com/events/meet-the-candidates-picnic-with-lake-county-dfl/"
+},
+{
+"text": "SEP24Campaign Headquarters: Open Office Hours Thursday, September 24, 2026 Campaign Headquarters, Hermantown, MN",
+"href": "https://trinaforcongress.com/events/campaign-headquarters-open-office-hours/"
+},
+{
+"text": "SEP5Minnesota State Fair Saturday, September 5, 2026 MN State Fairgrounds, St Paul, MN",
+"href": "https://trinaforcongress.com/events/minnesota-state-fair/"
+},
+{
+"text": "SEP7Duluth Labor Assembly Labor Day Picnic Monday, September 7, 2026 Bayfront Festival Park, Duluth, MN",
+"href": "https://trinaforcongress.com/events/duluth-labor-assembly-labor-day-picnic/"
+},
+{
+"text": "SEP7Iron Range Labor Assembly Labor Day Picnic Monday, September 7, 2026 Olcott Park, Virginia, MN",
+"href": "https://trinaforcongress.com/events/iron-range-labor-assembly-labor-day-picnic/"
+},
+{
+"text": "SEP9Fundraiser Wednesday, September 9, 2026 Marine on St. Croix, MN",
+"href": "https://trinaforcongress.com/events/fundraiser/"
+},
+{
+"text": "Store",
+"href": "https://store.trinaforcongress.com/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@trinaforcongress?xmt=AQG0N8RS74-_T59wP2aZ10B48zLvD4-DWVNM2wc3HLipsbI"
+},
+{
+"text": "Upcoming",
+"href": "https://trinaforcongress.com/upcoming-events/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://trinaforcongress.com/upcoming-events/"
+},
+{
+"text": "Volunteer",
+"href": "http://trinaforcongress.com/get-involved/"
+},
+{
+"text": "Volunteer",
+"href": "https://trinaforcongress.com/get-involved/"
+},
+{
+"text": "Voter Concerns",
+"href": "https://trinaforcongress.com/voter-concerns/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/TrinaCongress"
+},
+{
+"text": "[image: Trina for congress logo]",
+"href": "https://trinaforcongress.com"
+},
+{
+"text": "contact@trinaforcongress.com",
+"href": "mailto:contact@trinaforcongress.com"
+}
 ]

@@ -1,9 +1,30 @@
 [
-"http://williams4ks.com/",
-"https://secure.actblue.com/donate/williams-for-kansas-1",
-"https://williams4ks.com/",
-"https://williams4ks.com/Issues/About-me",
-"https://williams4ks.com/Issues/Contact/Donate-for-a-Better-Kansas",
-"https://williams4ks.com/Issues/Endorsements-2026",
-"https://williams4ks.com/Issues/Issues"
+{
+"text": "About me",
+"href": "https://williams4ks.com/Issues/About-me/"
+},
+{
+"text": "Contact/Donate for a Better Kansas",
+"href": "https://williams4ks.com/Issues/Contact/Donate-for-a-Better-Kansas/"
+},
+{
+"text": "Donate-ActBlue",
+"href": "https://secure.actblue.com/donate/williams-for-kansas-1"
+},
+{
+"text": "Endorsements 2026",
+"href": "https://williams4ks.com/Issues/Endorsements-2026/"
+},
+{
+"text": "Home",
+"href": "https://williams4ks.com/"
+},
+{
+"text": "Issues",
+"href": "https://williams4ks.com/Issues/Issues/"
+},
+{
+"text": "williams4ks.com",
+"href": "http://williams4ks.com"
+}
 ]

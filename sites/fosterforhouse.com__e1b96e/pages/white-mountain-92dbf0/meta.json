@@ -1,9 +1,9 @@
 {
  "description": "Explore Neal Foster&#39;s campaign for the White Mountain community. Join us for updates, issues, and a photo gallery!",
  "final_url": "https://fosterforhouse.com/white-mountain",
- "paid_for_by": null,
+ "fingerprint": "6aef565f34aeb5c1c1203b7239b07a23efdf029b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "White Mountain",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

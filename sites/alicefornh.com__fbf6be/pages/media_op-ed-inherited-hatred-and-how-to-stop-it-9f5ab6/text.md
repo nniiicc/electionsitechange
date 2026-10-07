@@ -1,13 +1,11 @@
-Op-Ed: Inherited Hatred and How to Stop It
-When I grew up in the early 2000’s, I didn’t know what being transgender meant.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: Inherited Hatred and How to Stop It Apr 2 Written By Alice Wade When I grew up in the early 2000’s, I didn’t know what being transgender meant.
 I grew up in a time when people cross-dressing on TV shows were laughed at, humiliated, and labeled insane.
 Characters would accuse each other of being gay and it was a terrible insult that they’d try to deny as much as they could.
 In a crime show I watched as a kid, a trans person was portrayed as someone with split personalities of different genders where one identity tries to kill the other.
 All I knew were caricatures.
 Children the same age as me would watch these shows and internalize that being gay, being trans, or being different was wrong.
 On the playground in kindergarten, I still remember the kids at my school saying that I was gay for playing with girls.
-They hurled around the word like a slur when most of us didn’t even know what it meant other than “something to be avoided.”
-I was in a Boy Scout troop in middle school (ironic looking back on it now, but I digress), and during campouts we would play a game that was nicknamed “Spear the Queer”.
+They hurled around the word like a slur when most of us didn’t even know what it meant other than “something to be avoided.” I was in a Boy Scout troop in middle school (ironic looking back on it now, but I digress), and during campouts we would play a game that was nicknamed “Spear the Queer”.
 One person was designated “the queer” while everyone else tried to run them down and tackle them.
 None of the adults stepped in to tell the kids that they shouldn’t call it that.
 They played the game right alongside us without a second thought.
@@ -44,3 +42,4 @@ Interracial and gay marriage used to be minority views, but over time they becom
 This isn’t to say we can sit idly by and expect society to trend upward, but to stay hopeful for the future where people won’t fear discrimination for coming out of the closet.
 If you’d like to help New Hampshire take steps towards that better future, please call your Representatives, Senators, and Governor Sununu and tell them to vote against these discriminatory anti-trans bills.
 Tell them that hate has no home here in the Granite State.
+Alice Wade Previous Previous Keene Sentinel: Bills that would curb LGBTQ+ rights draw 200 protesters to Statehouse Next Next Op-Ed: Do Better Chris Sununu Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

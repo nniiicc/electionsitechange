@@ -1,7 +1,12 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.beckystille2026.com/news/foreign-aid-supports-workers",
+ "fingerprint": "69a9b5e13e4da6611d6ff18df41c6a4128b361aa",
+ "format": 3,
  "paid_for_by": "Paid for by Becky Stille for U",
  "title": "Foreign Aid Supports Workers in Nebraska's 3rd District.",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

@@ -1,7 +1,9 @@
 {
- "description": "It\u2019s the day-to-day constituent service that really tells constituents how seriously a Representative takes his job.",
+ "description": "It’s the day-to-day constituent service that really tells constituents how seriously a Representative takes his job.",
  "final_url": "https://ilikereick.com/constituent-service/",
- "paid_for_by": null,
+ "fingerprint": "0c86598fe56f3629ee283390ca4ae11e8020b40a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Constituent Service - I Like Reick",
  "years_mentioned": []
 }

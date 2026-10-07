@@ -1,9 +1,9 @@
 {
  "description": "Request your David Boyd yard sign in Indiana and support our cause! Fill in the form to show your support for the campaign.",
  "final_url": "https://boydforindiana.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "4044de576822c35941d34f92e18f8202673ed53b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "YARD SIGN",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

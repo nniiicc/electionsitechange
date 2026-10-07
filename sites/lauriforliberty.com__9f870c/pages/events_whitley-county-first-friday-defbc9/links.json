@@ -1,22 +1,90 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=Whitley+County+First+Friday&dates=20260807T220000Z%2F20260808T003000Z",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/mooresville-old-settlers-fair",
-"https://lauriforliberty.com/events/whitley-county-first-friday?format=ical",
-"https://lauriforliberty.com/events/wingate-sweet-corn-festival",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://maps.app.goo.gl/DuY6bsJJPPYQptsk6",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Whitley+County+First+Friday&dates=20260807T220000Z%2F20260808T003000Z"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/whitley-county-first-friday?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Next Next August 8 Mooresville Old Settlers Fair",
+"href": "https://www.lauriforliberty.com/events/mooresville-old-settlers-fair"
+},
+{
+"text": "Previous Previous August 1 Wingate Sweet Corn Festival",
+"href": "https://www.lauriforliberty.com/events/wingate-sweet-corn-festival"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "Whitely County Courthouse",
+"href": "https://maps.app.goo.gl/DuY6bsJJPPYQptsk6"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+}
 ]

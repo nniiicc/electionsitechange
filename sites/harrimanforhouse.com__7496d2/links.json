@@ -1,11 +1,70 @@
 [
-"https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl",
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://facebook.com/harrimanforstatehouse",
-"https://harrimanforhouse.com/",
-"https://harrimanforhouse.com/cart",
-"https://harrimanforhouse.com/s/House94.pdf",
-"https://instagram.com/scottharrimanforstatehouse",
-"https://registertovote.sos.maine.gov/",
-"https://vote.org/am-i-registered-to-vote"
+{
+"text": "0",
+"href": "https://harrimanforhouse.com/cart"
+},
+{
+"text": "About Scott",
+"href": "https://harrimanforhouse.com/#aboutscott"
+},
+{
+"text": "District 94 Map",
+"href": "https://harrimanforhouse.com/#districtmap"
+},
+{
+"text": "Donate $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Endorsements",
+"href": "https://harrimanforhouse.com/#endorsements"
+},
+{
+"text": "Home",
+"href": "https://harrimanforhouse.com/"
+},
+{
+"text": "Priorities",
+"href": "https://harrimanforhouse.com/#priorities"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.sos.maine.gov/"
+},
+{
+"text": "Request Your Ballot",
+"href": "https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl"
+},
+{
+"text": "[image: A detailed map of Lewiston, Maine's, legislative districts.]",
+"href": "https://harrimanforhouse.com/s/House94.pdf"
+},
+{
+"text": "[image: A promotional graphic encouraging voters to request absentee ballots. The image features a message that says \"Vote Early\" repeated three times at the top, with a large red text in the center that reads \"Request Your Absentee Ballot,\" and a green message at the bottom instructing registered voters to click a link to get their ballot mailed to them.]",
+"href": "https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl"
+},
+{
+"text": "[image: Scott Harriman for State House]",
+"href": "https://harrimanforhouse.com/"
+},
+{
+"text": "e/",
+"href": "https://www.instagram.com/scottharrimanforstatehouse/"
+},
+{
+"text": "facebook.com/harrimanforstatehouse",
+"href": "https://facebook.com/harrimanforstatehouse"
+},
+{
+"text": "https://www.vote.org/am-i-registered-to-vote/",
+"href": "https://www.vote.org/am-i-registered-to-vote/"
+},
+{
+"text": "scott@harrimanforhouse.com",
+"href": "mailto:scott@harrimanforhouse.com"
+},
+{
+"text": "‍instagram.com/scottharrimanforstatehous",
+"href": "https://www.instagram.com/scottharrimanforstatehouse/"
+}
 ]

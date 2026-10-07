@@ -1,7 +1,30 @@
 [
-"https://electstuebe.com/",
-"https://electstuebe.com/privacy-policy",
-"https://electstuebe.com/tos",
-"https://secure.winred.com/stuebe-for-state-rep/donate-today",
-"https://silveragency.com/"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/stuebe-for-state-rep/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electstuebe.com/privacy-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://electstuebe.com/tos/"
+},
+{
+"text": "The Silver Agency",
+"href": "https://silveragency.com/"
+},
+{
+"text": "View Terms of Service",
+"href": "https://electstuebe.com/tos/"
+},
+{
+"text": "[image]",
+"href": "https://electstuebe.com/"
+},
+{
+"text": "https://electstuebe.com",
+"href": "https://electstuebe.com"
+}
 ]

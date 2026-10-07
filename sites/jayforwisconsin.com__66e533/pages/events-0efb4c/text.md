@@ -1,6 +1,4 @@
-By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Jay for Wisconsin.
+Skip to content Home Meet Jay Events Gallery Volunteer Contact Us Home Meet Jay Events Gallery Volunteer Contact Us DONATE NOW info@jayforwisconsin.com search here Events 20 Feb by Joy Leave a Comment on Jay is the MAGA aligned candidate on election integrity for Secretary of State Jay is the MAGA aligned candidate on election integrity for Secretary of State Read More 20 Feb by Joy Leave a Comment on Jay Schroeder has been the authentic MAGA activist since 2016 endorsed by VFAF.US Jay Schroeder has been the authentic MAGA activist since 2016 endorsed by VFAF.US Read More 20 Feb by Joy Leave a Comment on Jay helped elect many MAGA candidates across Wisconsin Jay helped elect many MAGA candidates across Wisconsin Read More JAY FOR WISCONSIN 1295 N Lake St Neenah WI 54956 info@jayforwisconsin.com 920-450-7591 DONATE NOW Paid for by Jay for Wisconsin By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Jay for Wisconsin .
 Message frequency may vary.
 Msg & Data rates may apply.
-Text HELP for help or email: info@jayforwisconsin.com
-@2026 Jay for Wisconsin | All Rights Reserved
-Privacy Policy & Terms & Conditions
+Text HELP for help or email: info@jayforwisconsin.com @2026 Jay for Wisconsin | All Rights Reserved Privacy Policy & Terms & Conditions

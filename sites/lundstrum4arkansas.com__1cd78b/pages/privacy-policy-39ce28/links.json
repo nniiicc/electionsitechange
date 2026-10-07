@@ -1,13 +1,50 @@
 [
-"http://therichlandgroup.com/",
-"https://facebook.com/Robin-Lundstrum-457537847631425",
-"https://lundstrum4arkansas.com/",
-"https://lundstrum4arkansas.com/about-robin",
-"https://lundstrum4arkansas.com/contact-us",
-"https://lundstrum4arkansas.com/donate-to-our-campaign",
-"https://lundstrum4arkansas.com/get-involved",
-"https://lundstrum4arkansas.com/links",
-"https://lundstrum4arkansas.com/map",
-"https://lundstrum4arkansas.com/privacy-policy",
-"https://twitter.com/RobinLundstrum"
+{
+"text": "Contact",
+"href": "https://lundstrum4arkansas.com/contact-us/"
+},
+{
+"text": "District 18",
+"href": "https://lundstrum4arkansas.com/map/"
+},
+{
+"text": "Donate",
+"href": "https://lundstrum4arkansas.com/donate-to-our-campaign/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Robin-Lundstrum-457537847631425/"
+},
+{
+"text": "Get Involved!",
+"href": "https://lundstrum4arkansas.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lundstrum4arkansas.com/"
+},
+{
+"text": "Links",
+"href": "https://lundstrum4arkansas.com/links/"
+},
+{
+"text": "Meet Robin",
+"href": "https://lundstrum4arkansas.com/about-robin/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lundstrum4arkansas.com/privacy-policy/"
+},
+{
+"text": "The Richland Group",
+"href": "http://therichlandgroup.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/RobinLundstrum"
+},
+{
+"text": "[image: Lundstrum for Arkansas]",
+"href": "https://lundstrum4arkansas.com/"
+}
 ]

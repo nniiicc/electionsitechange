@@ -1,14 +1,10 @@
-StAugustine.com
-Lawmaker pushes to end FCAT
-By McClatchy Newspapers
-Created 01/19/2011 - 6:18am
-Saying the FCAT creates more harm than good, a freshman state legislator said Tuesday she is championing a bill in the House that would do away with the annual state exams.
+Running for State Representative of District 108 , join me in the fight for better healthcare, education, gun violence prevention and housing!
+Home Initiatives Petition & Yard Sign Support Form Bio Accomplishments Comment Accomplishments Press Releases Blog Contact Stand With Daphne – Give Today 0 StAugustine.com Lawmaker pushes to end FCAT By McClatchy Newspapers Created 01/19/2011 - 6:18am Saying the FCAT creates more harm than good, a freshman state legislator said Tuesday she is championing a bill in the House that would do away with the annual state exams.
 But, kids, don't get your hopes up.
 It's not the first time a bill has been introduced in the state Legislature to end the Florida Comprehensive Assessment Test -- and each attempt has failed.
 Still, Rep.
 Daphne Campbell is not deterred."There's too much pressure on parents, students and teachers,'' Campbell said outside North Miami Senior High School on Tuesday afternoon as she promoted her bill.
-"The bottom line is the FCAT is not helping.''
-Campbell, a Democratic state representative for District 108, which includes North Miami, filed House Bill 71 in an effort to replace the FCATs with the High School Competency Test.
+"The bottom line is the FCAT is not helping.'' Campbell, a Democratic state representative for District 108, which includes North Miami, filed House Bill 71 in an effort to replace the FCATs with the High School Competency Test.
 The HSCT was used from 1990 to 2000 in Florida as a requirement for graduation.
 It was given to 10th-graders to ensure they could perform at an eighth-grade level.
 "There was no pressure like there is for the FCAT,'' Campbell said.
@@ -26,15 +22,5 @@ Criticisms over the years have led the state to make tweaks to the 12-year-old F
 Now, the state is moving toward end-of-course exams for some high school classes, and new, more rigorous FCATs are being used at the elementary and middle school level.
 State Board of Education Member Bob Martinez said he and does not see a chance of the FCATs being eliminated.
 "There's as much chance of that happening as having a snow blizzard in Miami every day during the winter,'' he said.
-Wed, 01/19/2011
-10
-1295435899
-iPad News Update:
-Do not add this story to the iPad News Update RSS feed.
-iPad Breaking News Alert:
-Do not add this story to the iPad Breaking News Alert RSS feed.
-Source URL: http://staugustine.com/news/local-news/2011-01-19/lawmaker-pushes-end-fcat
-Reach Out
-Have any questions or ideas you need to run by me, or just want to chat?
-Reach out and I'll respond as soon as I can!
-I'm excited to hear from you.
+Wed, 01/19/2011 10 1295435899 iPad News Update: Do not add this story to the iPad News Update RSS feed. iPad Breaking News Alert: Do not add this story to the iPad Breaking News Alert RSS feed.
+Source URL: http://staugustine.com/news/local-news/2011-01-19/lawmaker-pushes-end-fcat Location Contact Me 7310 NW 7th Avenue, Miami, Florida [email protected] Instagram Facebook Merchant Policies Legal Notice Powered by

@@ -1,8 +1,5 @@
-South Dakota Deserves Straight Talk About the Budget
-Updated: Apr 8
-For Immediate Release
-December 7th, 2025
-Governor Larry Rhoden’s first budget address sounded simple: a conservative plan with clear goals.
+top of page Meet Dan Issues Why I'm Running Blog Events Contact Request a Yard Sign More Use tab to navigate through the menu items.
+DONATE VOLUNTEER All Articles Search South Dakota Deserves Straight Talk About the Budget Daniel Ahlers Feb 7 2 min read Updated: Apr 8 For Immediate Release December 7th, 2025 Governor Larry Rhoden’s first budget address sounded simple: a conservative plan with clear goals.
 But look closer and it is full of contradictions South Dakotans cannot ignore.
 There are claims that do not hold up, raising serious questions about honesty, transparency, and whether we are really being told the truth about our state’s finances.
 The governor talks about “limited government,” saying we should spend less and “do it well.” Yet his budget proposes tens of millions for new or expanded programs, from IT upgrades and prison expansions to tech college construction, a new law enforcement plane, and National Guard facilities.
@@ -24,3 +21,4 @@ Words matter, but so do numbers, and right now the numbers do not match the rhet
 South Dakotans deserve a budget that is honest and straightforward, not full of contradictions.
 The speech may sound reassuring, but the numbers tell a different story.
 It is time to demand clarity, honesty, and consistency from our leaders.
+Recent Posts See All How to Restore Trust in Government Supporting Farmers Through Partnerships and New Opportunities Big, Beautiful Disaster for South Dakota SUBSCRIBE TO MY NEWSLETTER STAY UP TO DATE ON THE CAMPAIGN First name * Last name * Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home About Me News Events Get Involved Contact Terms & Conditions Privacy Policy Paid for by Ahlers for Governor Powered and secured by Wix Donate PO Box 109 Sioux Falls, SD 57101 dan@danahlers.com 605-940-3071 bottom of page

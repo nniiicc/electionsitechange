@@ -1,11 +1,46 @@
 [
-"https://epa.gov/enforcement/water-enforcement",
-"https://facebook.com/112773460263594",
-"https://instagram.com/jackiebakerforpa",
-"https://jackiebakerforpa.org/",
-"https://jackiebakerforpa.org/about",
-"https://jackiebakerforpa.org/endorsements",
-"https://jackiebakerforpa.org/gallery",
-"https://jackiebakerforpa.org/issues",
-"https://twitter.com/JackieBaker4PA"
+{
+"text": "About",
+"href": "https://jackiebakerforpa.org/about"
+},
+{
+"text": "Clean Water Act",
+"href": "https://www.epa.gov/enforcement/water-enforcement"
+},
+{
+"text": "Endorsements",
+"href": "https://jackiebakerforpa.org/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://jackiebakerforpa.org/gallery"
+},
+{
+"text": "Home",
+"href": "https://jackiebakerforpa.org/"
+},
+{
+"text": "Issues",
+"href": "https://jackiebakerforpa.org/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/112773460263594"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jackiebakerforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/JackieBaker4PA"
+},
+{
+"text": "[tooltip: Jackie Baker for PA]",
+"href": "https://jackiebakerforpa.org/"
+},
+{
+"text": "learnMore",
+"href": "https://jackiebakerforpa.org/#f916e201-a459-413e-8061-5db846b1fad6"
+}
 ]

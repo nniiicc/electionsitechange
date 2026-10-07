@@ -1,6 +1,22 @@
 [
-"https://facebook.com/JulieKertonforStateRep",
-"https://juliekerton.com/",
-"https://juliekerton.com/privacy",
-"https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+{
+"text": "Home",
+"href": "https://www.juliekerton.com"
+},
+{
+"text": "How to Vote",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JulieKertonforStateRep"
+},
+{
+"text": "julie@juliekerton.com",
+"href": "mailto:julie@juliekerton.com"
+},
+{
+"text": "privacy policy here",
+"href": "https://www.juliekerton.com/privacy"
+}
 ]

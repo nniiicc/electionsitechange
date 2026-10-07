@@ -1,8 +1,10 @@
 {
- "description": "News category for the Melvin for Congress blog.",
+ "description": "",
  "final_url": "https://melvinforcongress.com/blog/?viewCat=News",
- "paid_for_by": null,
- "title": "Melvin for Congress BlogNews Category",
+ "fingerprint": "1434fdaff5a3c4e7971822ecb928305fe9f83ba1",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Melvin for Congress Blog",
  "years_mentioned": [
   "2021",
   "2022"

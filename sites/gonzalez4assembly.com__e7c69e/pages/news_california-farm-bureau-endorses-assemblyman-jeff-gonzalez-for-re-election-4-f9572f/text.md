@@ -1,8 +1,7 @@
-ICYMI: Jeff Gonzalez Launches 2026 Reelection Campaign in Indio
-September 13, 2026
-INDIO, CA — Yesterday, Assemblyman Jeff Gonzalez officially kicked off his 2026 reelection campaign at his campaign headquarters in the City of Indio.
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE ICYMI: Jeff Gonzalez Launches 2026 Reelection Campaign in Indio Sep 15 Written By Frank Hill NBC Palm Springs September 13, 2026 INDIO, CA — Yesterday, Assemblyman Jeff Gonzalez officially kicked off his 2026 reelection campaign at his campaign headquarters in the City of Indio.
 NBC Palm Springs covered the event, where local leaders, community stakeholders, and supporters gathered to rally behind Gonzalez and his campaign to continue representing the 36th Assembly District in Sacramento.
 Since taking office, Gonzalez has built a coalition of Republicans, Democrats, and No Party Preference voters united by a shared commitment to put people over politics.
 As he begins his campaign for a second term, Gonzalez is focused on continuing to bring the voices and priorities of the communities he represents to Sacramento.
-To view the full clip on NBC Palm Springs, click HERE.
-###
+To view the full clip on NBC Palm Springs, click HERE .
+### Frank Hill Previous Previous Gonzalez Campaign Launches "Goal!" Ad Across Coachella and Imperial Valleys Next Next Hispanic American Chamber of Commerce of the Greater Coachella Valley Endorses Jeff Gonzalez for Reelection MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

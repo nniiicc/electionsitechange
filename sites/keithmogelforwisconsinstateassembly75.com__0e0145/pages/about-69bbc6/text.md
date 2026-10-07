@@ -1,4 +1,5 @@
-I was born in Pennsylvania and attended Penn State University on a 3-year ROTC scholarship, graduating with a Bachelor of Science degree in Law Enforcement and Corrections.
+Skip to content Keith Mogel for State Assembly Policy About Endorsements Donate Get Your Yard Sign Here!
+Keith and son I was born in Pennsylvania and attended Penn State University on a 3-year ROTC scholarship, graduating with a Bachelor of Science degree in Law Enforcement and Corrections.
 I was commissioned as a Second Lieutenant in the US Army upon graduation, served 11 years on active duty, and an additional 17 years in the Wisconsin and Minnesota National Guards, retiring at the rank of Lieutenant Colonel.
 My assignments included: Korea, NATO Headquarters Kosovo, Germany, and various continental assignments.
 My awards include the Defense Meritorious Medal, Joint Service Achievement Medal, U.S.
@@ -15,3 +16,4 @@ These certifications add to my understanding of fiscal issues at the state and l
 I moved to Grantsburg in 2002 with my wife and two sons, after I followed her to the University of Minnesota in 1998, from Stevens Point.
 She had left the U of MN to raise our young, growing family while I focused on my early business and National Guard careers.
 When she finished, we returned to Wisconsin and the Burnett/Polk area because of the mix of farmland and its strength as the gateway into Wisconsin’s beautiful recreational area.
+Keith Mogel for State Assembly info@keithmogelforwisconsinstateassembly75.com Facebook Instagram

@@ -1,10 +1,8 @@
-The Data Center Issue The data center issue is one that deserves serious attention.
-I am deeply concerned about the loss of valuable farmland to…
-June 16, 2026 – State Senator Jim Tomes (District 49) picked up anotherendorsement for re-election when he received the backing of the Indiana StateAFL-CIO for…
-On Tuesday, May 19, I joined other state and local officials at the groundbreaking of the new Consolidated Grain and Barge Corporation soybean facility expansion…
-Vanderburgh & Posey County Early Voting Locations Located Above.
-State Senator Jim Tomes was honored to visit the Mt.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Category: Indiana The Data Center Issue Hoosiers For Tomes July 17, 2026 Indiana The Data Center Issue The data center issue is one that deserves serious attention.
+I am deeply concerned about the loss of valuable farmland to… Read more → Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election Hoosiers For Tomes June 16, 2026 Campaign June 16, 2026 – State Senator Jim Tomes (District 49) picked up anotherendorsement for re-election when he received the backing of the Indiana StateAFL-CIO for… Read more → GROUNDBREAKING OF NEW CGB EXPANSION Hoosiers For Tomes May 24, 2026 Indiana On Tuesday, May 19, I joined other state and local officials at the groundbreaking of the new Consolidated Grain and Barge Corporation soybean facility expansion… Read more → Expanded Indiana Early Voting Hoosiers For Tomes April 17, 2026 Indiana Vanderburgh & Posey County Early Voting Locations Located Above.
+Read more → Investing in the Next Generation of Ag Leaders!
+Hoosiers For Tomes January 22, 2026 Indiana State Senator Jim Tomes was honored to visit the Mt.
 Vernon High School FFA chapter on January 21.
-Keeping with his annual tradition, Jim was…
-State Senator Jim Tomes, Here is my statement on Indiana Governor Mike Braun’s State of the State.
-“It was encouraging to hear the governor speak…
+Keeping with his annual tradition, Jim was… Read more → Statement from State Sen.
+Jim Tomes Hoosiers For Tomes January 16, 2026 Indiana State Senator Jim Tomes, Here is my statement on Indiana Governor Mike Braun’s State of the State.
+“It was encouraging to hear the governor speak… Read more → October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

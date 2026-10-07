@@ -1,10 +1,46 @@
 [
-"http://pickettforidaho.com/",
-"https://facebook.com/profile.php?id=100076323151884",
-"https://pickettforidaho.com/",
-"https://pickettforidaho.com/privacy-policy",
-"https://secure.winred.com/pickett-for-idaho-house/donate-today",
-"https://secure.winred.com/pickett-for-idaho-house/donate-today?amount=100",
-"https://secure.winred.com/pickett-for-idaho-house/donate-today?amount=25",
-"https://secure.winred.com/pickett-for-idaho-house/donate-today?amount=50"
+{
+"text": "About Doug",
+"href": "http://pickettforidaho.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/pickett-for-idaho-house/donate-today"
+},
+{
+"text": "Issues",
+"href": "http://pickettforidaho.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pickettforidaho.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "http://pickettforidaho.com/#volunteer"
+},
+{
+"text": "[image: Doug Pickett for Idaho House]",
+"href": "https://pickettforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/pickett-for-idaho-house/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/pickett-for-idaho-house/donate-today?amount=100"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/pickett-for-idaho-house/donate-today?amount=25"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/pickett-for-idaho-house/donate-today?amount=50"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100076323151884+"
+}
 ]

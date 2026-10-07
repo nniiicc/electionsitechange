@@ -1,14 +1,58 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Palmyra+Chamber+of+Commerce+Annual+Awards+Banquet&dates=20260108T233000Z%2F20260109T023000Z",
-"https://facebook.com/profile.php?id=61577003908156",
-"https://mcelvainformissouri.com/",
-"https://mcelvainformissouri.com/about-me",
-"https://mcelvainformissouri.com/cart",
-"https://mcelvainformissouri.com/contat",
-"https://mcelvainformissouri.com/endorsements",
-"https://mcelvainformissouri.com/events",
-"https://mcelvainformissouri.com/events/lincoln-day",
-"https://mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet?format=ical",
-"https://mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45",
-"https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+{
+"text": "0",
+"href": "https://www.mcelvainformissouri.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.mcelvainformissouri.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.mcelvainformissouri.com/contat"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcelvainformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577003908156"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Palmyra+Chamber+of+Commerce+Annual+Awards+Banquet&dates=20260108T233000Z%2F20260109T023000Z"
+},
+{
+"text": "Home",
+"href": "https://www.mcelvainformissouri.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/palmyra-chamber-of-commerce-annual-awards-banquet?format=ical"
+},
+{
+"text": "Next Next February 28 Lincoln Day",
+"href": "https://www.mcelvainformissouri.com/events/lincoln-day"
+},
+{
+"text": "Previous Previous October 20 Taste of Palmyra",
+"href": "https://www.mcelvainformissouri.com/events/w9u4ol244w3ldepd06shpj78nb4c45"
+},
+{
+"text": "[image: Roth McElvain]",
+"href": "https://www.mcelvainformissouri.com/"
+}
 ]

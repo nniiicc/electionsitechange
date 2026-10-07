@@ -1,6 +1,6 @@
-Aug 25, 2026
-President Patrick J.
-Darrow writes "After careful consideration and your representations to support working men and women in general and those issues affecting Teamster families in particular, TEAMSTERS OHIO D.R.I.V.E is proud to announce that it has endorsed your candidacy."
-From Patrick J Darrow, TEAMSTERS OHIO D.R.I.V.E President: After careful consideration and your representations to support working men and women in general and those issues affecting Teamster families in particular, TEAMSTERS OHIO D.R.I.V.E is proud to announce that it has endorsed your candidacy.
+top of page DONATE GET INVOLVED Krista Magaw Home About Issues News Volunteer Events Contact More Use tab to navigate through the menu items.
+Krista Magaw FOR OHIO HOUSE DISTRICT 71 < Back Krista Magaw Endorsed by Teamsters Ohio D.R.I.V.E ​ Aug 25, 2026 President Patrick J.
+Darrow writes "After careful consideration and your representations to support working men and women in general and those issues affecting Teamster families in particular, TEAMSTERS OHIO D.R.I.V.E is proud to announce that it has endorsed your candidacy." From Patrick J Darrow, TEAMSTERS OHIO D.R.I.V.E President: After careful consideration and your representations to support working men and women in general and those issues affecting Teamster families in particular, TEAMSTERS OHIO D.R.I.V.E is proud to announce that it has endorsed your candidacy.
 You can see more about Krista Magaw and her campaign on Facebook at Krista Magaw for Ohio.
 For more information, contact Preston Holton at prestonholton@gmail.com or call 9376701582.
+Previous Next Home About Me Get Involved Contact Krista Magaw - FOR DISTRICT 71 - Terms & Conditions Privacy Policy Accessibility Statement © # by Krista Magaw For Ohio ​ Krista Magaw for Ohio PO Box 652 Yellow Springs, Oh 45387 bottom of page

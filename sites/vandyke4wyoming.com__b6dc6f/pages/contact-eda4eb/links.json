@@ -1,12 +1,54 @@
 [
-"https://facebook.com/wyodems",
-"https://secure.actblue.com/donate/jim-vandyke-1",
-"https://vandyke4wyoming.com/",
-"https://vandyke4wyoming.com/community-info-event",
-"https://vandyke4wyoming.com/contact",
-"https://vandyke4wyoming.com/events",
-"https://vandyke4wyoming.com/feed",
-"https://vandyke4wyoming.com/i-found-a-new-friend",
-"https://vandyke4wyoming.com/meet-and-greet",
-"https://vandyke4wyoming.com/news"
+{
+"text": "Community Info Event",
+"href": "https://vandyke4wyoming.com/community-info-event/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jim-vandyke-1"
+},
+{
+"text": "Events",
+"href": "https://vandyke4wyoming.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/wyodems"
+},
+{
+"text": "Get in Touch",
+"href": "https://vandyke4wyoming.com/contact"
+},
+{
+"text": "I Found a New Friend",
+"href": "https://vandyke4wyoming.com/i-found-a-new-friend/"
+},
+{
+"text": "Jim VanDyke",
+"href": "https://vandyke4wyoming.com"
+},
+{
+"text": "Mail",
+"href": "mailto:jim@vandyke4wyoming.com"
+},
+{
+"text": "Meet and Greet",
+"href": "https://vandyke4wyoming.com/meet-and-greet/"
+},
+{
+"text": "News",
+"href": "https://vandyke4wyoming.com/news"
+},
+{
+"text": "RSS Feed",
+"href": "https://vandyke4wyoming.com/feed"
+},
+{
+"text": "Updates",
+"href": "https://vandyke4wyoming.com/"
+},
+{
+"text": "[image: Jim VanDyke]",
+"href": "https://vandyke4wyoming.com/"
+}
 ]

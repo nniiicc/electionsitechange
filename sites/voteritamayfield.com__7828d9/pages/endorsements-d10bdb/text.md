@@ -1,16 +1,2 @@
-North Chicago Mayor Leon Rockingham
-Waukegan Mayor Sam Cunningham
-Wadsworth Mayor Glenn Rybak
-Waukegan City Clerk Janet Kilkelly
-Waukegan Township Supervisor Patricia Jones
-Waukegan Park District Commissioner Marc Jones
-Foss Park Commissioner Vance D.
-Wyatt
-Fernando Bahena, owner of LaCanoa
-Lake County Board Vice-Chair
-Mary Ross Cunningham
-Forest Preserve President Angelo Kyle
-Lake County Commisioner Bill Durkin
-Waukegan Fire Dept Chief George Bridges Jr
-North Chicago Fire Dept Chief Dell Urban
-North Chicago Police Chief Lazaro Perez
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: Local Leaders North Chicago Mayor Leon Rockingham Waukegan Mayor Sam Cunningham Wadsworth Mayor Glenn Rybak Waukegan City Clerk Janet Kilkelly Waukegan Township Supervisor Patricia Jones Waukegan Park District Commissioner Marc Jones Foss Park Commissioner Vance D.
+Wyatt Fernando Bahena, owner of LaCanoa Lake County Board Vice-Chair Mary Ross Cunningham Forest Preserve President Angelo Kyle Lake County Commisioner Bill Durkin Waukegan Fire Dept Chief George Bridges Jr North Chicago Fire Dept Chief Dell Urban North Chicago Police Chief Lazaro Perez Media Associations @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

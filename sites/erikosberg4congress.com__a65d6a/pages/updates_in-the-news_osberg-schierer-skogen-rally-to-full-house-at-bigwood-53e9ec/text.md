@@ -1,8 +1,17 @@
-U.S.
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Osberg, Schierer, Skogen rally to full house at Bigwood Erik Osberg for Congress > Blog > In The News > Osberg, Schierer, Skogen rally to full house at Bigwood Osberg, Schierer, Skogen rally to full house at Bigwood Osberg, Schierer, Skogen rally to full house at Bigwood April 13, 2026 Erik Osberg By Erik Osberg April 13, 2026 0 0 Shares U.S.
 Senate DFL candidate Erik Osberg was joined by Fergus Falls local DFL candidate Ben Schierer and others to address upcoming election goals.
 Erik Osberg, a DFL candidate running for the U.S.
 House seat in the the Seventh Congressional District against Republican Michelle Fischbach, cited his top priority as defending the constitution and getting corporate money out of politics.
 Recruiting more workforce to Otter Tail County, agriculture and getting funding restored for public education were among his priorities shared at a forum held at the Bigwood Event Center in Fergus Falls on April 10.
 The meeting with Osberg featured former DFL member of the Minnesota State Senate, Dan Skogen, and state auditor candidate and former Fergus Falls mayor and city council member Ben Schierer.
 Osberg, currently the Rural Rebound Initiative coordinator with Otter Tail County, highlighted his background in working with farmers in the private sector through his work with Edward Jones Investments as a financial advisor, and for Wadenda State Bank and Farm Bureau Financial Services.
-Read Original Article
+Read Original Article 0 Likes 0 Shares 0 0 0 0 About Erik Osberg Erik Osberg is a husband, father, small business owner, and working-class Minnesotan running to represent Western Minnesota in Congress.
+Erik believes public service starts with listening.
+Across thousands of conversations with people throughout the district, he has heard the same concerns again and again: families are working hard and still falling behind, family farms are under pressure, rural healthcare is harder to access, public schools need support, and Washington is not focused enough on the people it is supposed to serve.
+Erik is running because we can do better.
+More by Erik Osberg Related Articles In The News September 23, 2026 - by Erik Osberg In The News Record turnout at DFL caucus February 23, 2026 - by Erik Osberg In The News Democrat Erik Osberg wants less ‘uncertainty & chaos’ amid tariff discussions April 23, 2025 - by Erik Osberg Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

@@ -1,7 +1,9 @@
 {
  "description": "Lemont Rally on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/LemontRally",
- "paid_for_by": null,
+ "fingerprint": "77107df11e8a92fe4b8e4b36024fa92e0a5a7a86",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Lemont Rally | Maxwell for Congress",
  "years_mentioned": []
 }

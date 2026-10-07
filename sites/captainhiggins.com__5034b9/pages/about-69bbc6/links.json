@@ -1,10 +1,50 @@
 [
-"http://captainhiggins.com/",
-"http://captainhiggins.com/wp-content/uploads/2016/07/bio-pic-crop.jpg",
-"https://captainhiggins.com/",
-"https://captainhiggins.com/about",
-"https://captainhiggins.com/join",
-"https://facebook.com/captclayhiggins",
-"https://secure.winred.com/clayhiggins/donate",
-"https://twitter.com/captclayhiggins"
+{
+"text": "About",
+"href": "https://captainhiggins.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/clayhiggins/donate"
+},
+{
+"text": "Home",
+"href": "http://captainhiggins.com"
+},
+{
+"text": "JOIN",
+"href": "https://captainhiggins.com/join"
+},
+{
+"text": "[image: bio-pic-crop]",
+"href": "http://captainhiggins.com/wp-content/uploads/2016/07/bio-pic-crop.jpg"
+},
+{
+"text": "[image]",
+"href": "https://captainhiggins.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/captclayhiggins"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@captainhiggins.com"
+},
+{
+"text": "info@captainhiggins.com",
+"href": "mailto: info@captainhiggins.com"
+}
 ]

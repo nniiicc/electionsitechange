@@ -1,6 +1,7 @@
-Michigan families deserve a state where hard work goes further and the cost of living is lower.
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Michigan families deserve a state where hard work goes further and the cost of living is lower.
 I believe making Michigan more affordable starts with policies that let families keep more of what they earn, reduce unnecessary government costs, ensure reliable and affordable energy, and create an environment where businesses can grow, invest, and create good-paying jobs.
 Growth is driven by free markets, lower taxes, responsible spending, reduced regulations, and policies that encourage innovation, entrepreneurship, and investment in American workers and manufacturers.
 That’s why I supported the Working Families Tax Cuts, which put more money back into the pockets of hardworking Michiganders by making the 2017 tax cuts permanent, eliminating taxes on tips and overtime, expanding the child tax credit, enhancing tax relief for seniors, and boosting domestic energy production to help lower costs for families.
 These policies help make Michigan a more affordable place to live, work, raise a family, and build a future.
 Under President Trump’s leadership, I look forward to continuing to fight for lower taxes and increased opportunity for Michigan families.
+DONATE Paid for by Moolenaar for Congress Privacy Policy

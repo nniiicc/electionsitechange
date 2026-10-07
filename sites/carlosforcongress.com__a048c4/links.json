@@ -1,12 +1,86 @@
 [
-"https://carlosforcongress.com/",
-"https://carlosforcongress.com/meet-carlos",
-"https://carlosforcongress.com/mission",
-"https://carlosforcongress.com/privacy-policy",
-"https://carlosforcongress.com/volunteer",
-"https://facebook.com/CarlosForTexas",
-"https://instagram.com/carlosforcongress",
-"https://secure.winred.com/carlos-for-congress/website",
-"https://x.com/CarlosForTexas",
-"https://youtube.com/@CarlosForTexas"
+{
+"text": "$10",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/carlos-for-congress/website"
+},
+{
+"text": "HOME",
+"href": "https://www.carlosforcongress.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.carlosforcongress.com/meet-carlos"
+},
+{
+"text": "MEET CARLOS",
+"href": "https://www.carlosforcongress.com/meet-carlos"
+},
+{
+"text": "MISSION",
+"href": "https://www.carlosforcongress.com/mission"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.carlosforcongress.com/mission"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carlosforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.carlosforcongress.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.carlosforcongress.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CarlosForTexas/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/carlosforcongress/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/CarlosForTexas"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@CarlosForTexas"
+},
+{
+"text": "press@carlosforcongress.com",
+"href": "mailto:press@carlosfortexas.com"
+}
 ]

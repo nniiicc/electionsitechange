@@ -1,9 +1,22 @@
 {
  "description": "Read all of the posts by Jeffrey Roy on",
  "final_url": "https://jeffreyroy.com/author/ravechroy/",
- "paid_for_by": null,
+ "fingerprint": "8f28fa315bb165d23b062413b35a5707a254f1ec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jeffrey Roy |",
  "years_mentioned": [
-  "2024"
+  "1974",
+  "1983",
+  "2006",
+  "2007",
+  "2008",
+  "2010",
+  "2011",
+  "2014",
+  "2021",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

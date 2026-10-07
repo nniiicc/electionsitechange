@@ -1,15 +1,102 @@
 [
-"https://facebook.com/melineforcongress",
-"https://instagram.com/melineforcongress",
-"https://melineforcongress.com/",
-"https://melineforcongress.com/contact",
-"https://melineforcongress.com/priorities",
-"https://melineforcongress.com/privacy-policy",
-"https://politicx.webflow.io/product/donation",
-"https://secure.winred.com/meline-for-congress/donate",
-"https://secure.winred.com/meline-for-congress/donate?amount=100",
-"https://secure.winred.com/meline-for-congress/donate?amount=1000",
-"https://secure.winred.com/meline-for-congress/donate?amount=50",
-"https://secure.winred.com/meline-for-congress/donate?amount=500",
-"https://secure.winred.com/meline-for-congress/donate?amount=other"
+{
+"text": "$1,000$1,000",
+"href": "https://secure.winred.com/meline-for-congress/donate?amount=1000"
+},
+{
+"text": "$100$100",
+"href": "https://secure.winred.com/meline-for-congress/donate?amount=100"
+},
+{
+"text": "$50$50",
+"href": "https://secure.winred.com/meline-for-congress/donate?amount=50"
+},
+{
+"text": "$500$500",
+"href": "https://secure.winred.com/meline-for-congress/donate?amount=500"
+},
+{
+"text": "Contribute to the CampaignContribute to the Campaign[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "CustomCustom",
+"href": "https://secure.winred.com/meline-for-congress/donate?amount=other"
+},
+{
+"text": "Donate to the campaign today!",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "DonateDonate[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "Home",
+"href": "https://www.melineforcongress.com/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.melineforcongress.com/privacy-policy"
+},
+{
+"text": "Support THE CAMPAIGNSupport the Campaign[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "Vision & Priorities",
+"href": "https://www.melineforcongress.com/priorities"
+},
+{
+"text": "Volunteer & Contact",
+"href": "https://www.melineforcongress.com/contact"
+},
+{
+"text": "[image: A doctor listening to two patients across his desk]Healthcare That Works for Patients[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#healthcare"
+},
+{
+"text": "[image: A technician checking a tablet beside rows of servers in a data center]Technology, AI & America’s Future[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#technology"
+},
+{
+"text": "[image: Icon]",
+"href": "https://www.facebook.com/melineforcongress"
+},
+{
+"text": "[image: Icon]",
+"href": "https://www.instagram.com/melineforcongress/"
+},
+{
+"text": "[image: Two carpentry apprentices taking notes while an instructor shows them a piece of wood]Education, Skills & Opportunity[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#education"
+},
+{
+"text": "[image]",
+"href": "https://www.melineforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "mailto:info@melineforcongress.com"
+},
+{
+"text": "[image]Government That Actually Works[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#government"
+},
+{
+"text": "[image]Housing & the Cost of Living[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#housing"
+},
+{
+"text": "[image]Main Street Economy & American Jobs[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#economy"
+},
+{
+"text": "[image]Wildfire Defense, Forest Health & Natural Resources[image: Icon][image: Icon]",
+"href": "https://www.melineforcongress.com/priorities#wildfire"
+},
+{
+"text": "donate nowdonate now[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+}
 ]

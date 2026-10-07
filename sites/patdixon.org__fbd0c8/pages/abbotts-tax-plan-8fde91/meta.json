@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/abbotts-tax-plan/",
- "paid_for_by": null,
- "title": "Abbott\u2019s Tax Plan",
+ "fingerprint": "4c0d556c47b54ca4358b7a04799c83a9ac277631",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Abbott’s Tax Plan",
  "years_mentioned": [
-  "2025"
+  "2015",
+  "2025",
+  "2026"
  ]
 }

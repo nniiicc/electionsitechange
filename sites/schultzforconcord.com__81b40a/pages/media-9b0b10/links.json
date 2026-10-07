@@ -1,14 +1,58 @@
 [
-"http://concordmonitor.com/Kris-Schultz-for-state-rep-10338151",
-"http://concordmonitor.com/Schultz-for-state-rep-10337995",
-"http://concordmonitor.com/Vote-Schultz-in-Merrimack-18-10264806",
-"http://concordmonitor.com/Vote-for-Kris-Schultz-10468868",
-"https://concordmonitor.com/Vote-for-Kris-Schultz-11204435",
-"https://schultzforconcord.com/",
-"https://schultzforconcord.com/about",
-"https://schultzforconcord.com/contact",
-"https://schultzforconcord.com/media",
-"https://schultzforconcord.com/state-rep",
-"https://secure.actblue.com/donate/ks2023",
-"https://webador.com/"
+{
+"text": "About",
+"href": "https://www.schultzforconcord.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.schultzforconcord.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ks2023"
+},
+{
+"text": "Home",
+"href": "https://www.schultzforconcord.com/"
+},
+{
+"text": "Kris Schultz for Concord Ward 9 City Council",
+"href": "https://www.schultzforconcord.com/"
+},
+{
+"text": "Media",
+"href": "https://www.schultzforconcord.com/media"
+},
+{
+"text": "Schultz for state rep",
+"href": "http://www.concordmonitor.com/Kris-Schultz-for-state-rep-10338151"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.schultzforconcord.com/media#main-content"
+},
+{
+"text": "State Rep",
+"href": "https://www.schultzforconcord.com/state-rep"
+},
+{
+"text": "Support Schultz",
+"href": "http://www.concordmonitor.com/Vote-for-Kris-Schultz-10468868"
+},
+{
+"text": "Vote for Schultz",
+"href": "http://www.concordmonitor.com/Schultz-for-state-rep-10337995"
+},
+{
+"text": "Vote for Schultz",
+"href": "http://www.concordmonitor.com/Vote-Schultz-in-Merrimack-18-10264806"
+},
+{
+"text": "Vote for Schultz",
+"href": "https://www.concordmonitor.com/Vote-for-Kris-Schultz-11204435"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+}
 ]

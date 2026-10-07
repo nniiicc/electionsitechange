@@ -1,4 +1,4 @@
-Minnesota is at a difficult juncture that will require major work and reform in order to fix the budget, and resolve the many issues we face today.
+Welcome District 24A News Events Issues Contact Media Pictures Radio Ads Volunteer Donate Duane Quam for Minnesota House Welcome Minnesota is at a difficult juncture that will require major work and reform in order to fix the budget, and resolve the many issues we face today.
 Now is a time that citizens need to step forward and return reason, common sense, and conservative values back to Minnesota.
 Government is meant to be the servant of the people.
 I am Duane Quam and I’m putting myself forward to be the servant of the people of HD 24A.
@@ -7,26 +7,6 @@ I pledge to be a diligent steward of your money and resources.
 As I proved while on the Byron School Board, where I saved hundreds of thousands of taxpayer dollars.
 I humbly ask for your support.
 To introduce myself, I’ve included some general information below.
-Innovative Vision, Conservative Values, and Responsible Government:
-I believe that core principles, conservative values, and an innovative vision will lead to responsible government.
-I stand for the following:
-- A smaller responsive government that respects the budget
-- The protection of individual liberties, including parental and property rights
-- The 2nd and 10th amendments and our Constitution as a whole
-- The promotion of an environment of job creation, by bringing fairness to fees and permits, as well as reason to taxes and regulations
-- Supporting our troops wherever they are serving
-Experienced Leader
-- Served as your State Representative for HD29A, HD25A, HD24A
-- Elected to the Byron School Board
-- Past Chairman of the ZED governing board
-- Chairman Minnesota State Academic Science Standards writing committee
-- Consultant on educational texts and participant on several MCA committees
-- Degrees in Engineering and Physics
-- Past United Way Community Resource Allocation Committee member
-Biography
-- Born in Rochester and raised on farms in Olmsted and Dodge counties, now a resident of Byron
-- Graduated from Byron High School, then earned degrees in Engineering and a Masters in Physics
-- Was elected to the Byron School board, served on the ZED education district governing board, and chaired the Minnesota State Academics Science Standards writing committee
-- Have worked as an engineer, scientist, project manager, and department manager
-- Married to Pat Quam for years.
-We have sons, Duey and Jacob, and grandsons Robbie and Dylan
+Innovative Vision, Conservative Values, and Responsible Government: I believe that core principles, conservative values, and an innovative vision will lead to responsible government.
+I stand for the following: A smaller responsive government that respects the budget The protection of individual liberties, including parental and property rights The 2nd and 10th amendments and our Constitution as a whole The promotion of an environment of job creation, by bringing fairness to fees and permits, as well as reason to taxes and regulations Supporting our troops wherever they are serving Experienced Leader Served as your State Representative for HD29A, HD25A, HD24A Elected to the Byron School Board Past Chairman of the ZED governing board Chairman Minnesota State Academic Science Standards writing committee Consultant on educational texts and participant on several MCA committees Degrees in Engineering and Physics Past United Way Community Resource Allocation Committee member Biography Born in Rochester and raised on farms in Olmsted and Dodge counties, now a resident of Byron Graduated from Byron High School, then earned degrees in Engineering and a Masters in Physics Was elected to the Byron School board, served on the ZED education district governing board, and chaired the Minnesota State Academics Science Standards writing committee Have worked as an engineer, scientist, project manager, and department manager Married to Pat Quam for years.
+We have sons, Duey and Jacob, and grandsons Robbie and Dylan Search for: Recent Posts Legislative Update: July 17, 2026 July 12, 2026 News July 3, 2026 July 2, 2026 News June 12,2026 June 12, 2026 © #-# prepared and paid for by the Quam for House Committee

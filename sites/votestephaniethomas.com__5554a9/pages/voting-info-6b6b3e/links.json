@@ -1,21 +1,94 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/cbfe6f38-0968-427b-b6c5-498e54b3f3ed/2026%20General%20Election%20Flyer%20123%20EngSp.pdf",
-"https://img1.wsimg.com/blobby/go/cbfe6f38-0968-427b-b6c5-498e54b3f3ed/2026_EV-AB_Information_FINAL_web.pdf",
-"https://portal.ct.gov/sots/education/civics-101/civics-101-your-civic-engagement-toolkit",
-"https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet",
-"https://portaldir.ct.gov/sots/lookup.aspx",
-"https://voterregistration.ct.gov/OLVR/welcome.do",
-"https://votestephaniethomas.com/about-stephanie-5",
-"https://votestephaniethomas.com/accomplishments",
-"https://votestephaniethomas.com/contact-1",
-"https://votestephaniethomas.com/donate-1",
-"https://votestephaniethomas.com/endorsements",
-"https://votestephaniethomas.com/espa%C3%B1ol",
-"https://votestephaniethomas.com/home-3",
-"https://votestephaniethomas.com/m/account",
-"https://votestephaniethomas.com/news-%26-press-room",
-"https://votestephaniethomas.com/priorities",
-"https://votestephaniethomas.com/volunteer",
-"https://votestephaniethomas.com/voting-info"
+{
+"text": "About Stephanie",
+"href": "https://votestephaniethomas.com/about-stephanie-5"
+},
+{
+"text": "Accomplishments",
+"href": "https://votestephaniethomas.com/accomplishments"
+},
+{
+"text": "CONTACT",
+"href": "https://votestephaniethomas.com/contact-1"
+},
+{
+"text": "DONATE",
+"href": "https://votestephaniethomas.com/donate-1"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/cbfe6f38-0968-427b-b6c5-498e54b3f3ed/2026%20General%20Election%20Flyer%20123%20EngSp.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/cbfe6f38-0968-427b-b6c5-498e54b3f3ed/2026_EV-AB_Information_FINAL_web.pdf"
+},
+{
+"text": "Downloadable Plain Language Resources",
+"href": "https://portal.ct.gov/sots/education/civics-101/civics-101-your-civic-engagement-toolkit"
+},
+{
+"text": "ESPAÑOL",
+"href": "https://votestephaniethomas.com/espa%C3%B1ol"
+},
+{
+"text": "Endorsements",
+"href": "https://votestephaniethomas.com/endorsements"
+},
+{
+"text": "Find out more",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Home",
+"href": "https://votestephaniethomas.com/home-3"
+},
+{
+"text": "Lookup Your Status",
+"href": "https://portaldir.ct.gov/sots/lookup.aspx"
+},
+{
+"text": "My Account",
+"href": "https://votestephaniethomas.com/m/account"
+},
+{
+"text": "MyVote.ct.gov",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet"
+},
+{
+"text": "News & Press Room",
+"href": "https://votestephaniethomas.com/news-%26-press-room"
+},
+{
+"text": "Priorities",
+"href": "https://votestephaniethomas.com/priorities"
+},
+{
+"text": "Sign In",
+"href": "https://votestephaniethomas.com/m/account"
+},
+{
+"text": "Volunteer",
+"href": "https://votestephaniethomas.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://votestephaniethomas.com/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://votestephaniethomas.com/home-3"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/cbfe6f38-0968-427b-b6c5-498e54b3f3ed/2026%20General%20Election%20Flyer%20123%20EngSp.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/cbfe6f38-0968-427b-b6c5-498e54b3f3ed/2026_EV-AB_Information_FINAL_web.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

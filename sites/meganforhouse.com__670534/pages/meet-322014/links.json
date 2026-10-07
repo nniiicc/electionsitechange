@@ -1,12 +1,42 @@
 [
-"http://facebook.com/hornbeekallen",
-"https://instagram.com/meganforhouse",
-"https://meganforhouse.com/",
-"https://meganforhouse.com/letter",
-"https://meganforhouse.com/meet",
-"https://meganforhouse.com/priorities",
-"https://meganforhouse.com/privacy-policy",
-"https://meganforhouse.com/terms-of-service",
-"https://meganforhouse.com/volunteer",
-"https://secure.actblue.com/donate/mha2026&refcode=site"
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mha2026&refcode=site"
+},
+{
+"text": "Follow",
+"href": "http://facebook.com/hornbeekallen"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/meganforhouse"
+},
+{
+"text": "Meet Megan",
+"href": "https://meganforhouse.com/meet/"
+},
+{
+"text": "Priorities",
+"href": "https://meganforhouse.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://meganforhouse.com/privacy-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://meganforhouse.com/terms-of-service/"
+},
+{
+"text": "To Edmond From Megan",
+"href": "https://meganforhouse.com/letter/"
+},
+{
+"text": "Volunteer",
+"href": "https://meganforhouse.com/volunteer"
+},
+{
+"text": "[image: Megan's logo]",
+"href": "https://meganforhouse.com"
+}
 ]

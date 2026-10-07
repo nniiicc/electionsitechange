@@ -1,6 +1,22 @@
 [
-"https://facebook.com/guthrieforidaho",
-"https://guthrieforidaho.com/",
-"https://instagram.com/guthrieforidaho",
-"https://secure.anedot.com/guthrieforidaho/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/guthrieforidaho/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/guthrieforidaho/donate"
+},
+{
+"text": "[image: Jim Guthrie for Idaho logo]",
+"href": "https://guthrieforidaho.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/guthrieforidaho/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/guthrieforidaho/"
+}
 ]

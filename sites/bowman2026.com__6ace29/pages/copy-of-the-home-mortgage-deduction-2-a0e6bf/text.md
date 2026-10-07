@@ -1,5 +1,4 @@
-Women's Rights
-Reproductive Healthcare Access: Everyone deserves control over their body and medical decisions, without pressure, stigma, or barriers.
+top of page Home Zero-One-Hundred Tax Plan About Jay Issues Congress News Fund the Change DONATE $5.00 Women's Rights Reproductive Healthcare Access: Everyone deserves control over their body and medical decisions, without pressure, stigma, or barriers.
 Right now, too many women still face real obstacles to basic care, from birth control to family planning.
 I believe that starts with trust, not politics, and that care should stay between a person and their doctor.
 Pay and workplace equity: Women still earn .82 cents for every dollar men earn, less for Black, Latina, and Indigenous women.
@@ -10,3 +9,6 @@ Maternal health: The U.S. has the highest maternal mortality rate among wealthy 
 Solution: Extend postpartum Medicaid coverage, train providers in bias reduction, and expand access to midwives and doulas.
 Legal equality: The Equal Rights Amendment (ERA) still isn’t fully recognized.
 Solution: Push for federal certification of the ERA and pass state-level constitutional protections.
+Fund the Change — $5 © # by Bowman for Congress.
+Stay Connected / Volunteer Reach us anytime Email * Yes, subscribe me to your newsletter.
+Submit Paid for by Bowman2026 bottom of page

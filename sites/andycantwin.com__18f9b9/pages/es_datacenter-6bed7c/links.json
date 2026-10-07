@@ -1,16 +1,70 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/es/datacenter/impact.html",
-"https://andycantwin.com/es/datacenter/raleigh.html",
-"https://andycantwin.com/es/datacenter/the-fix.html",
-"https://andycantwin.com/es/datacenter/the-thing.html",
-"https://andycantwin.com/es/datacenter/the-vote.html",
-"https://andycantwin.com/es/datacenter/who-pays.html",
-"https://andycantwin.com/es/newsletter.html",
-"https://andycantwin.com/es/volunteer.html",
-"https://andycantwin.com/guides",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "Aporta",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Experimentos",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Regístrate",
+"href": "https://andycantwin.com/es/newsletter.html"
+},
+{
+"text": "Súmate",
+"href": "https://andycantwin.com/es/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "parada 1 · dentro del edificio →",
+"href": "https://andycantwin.com/es/datacenter/the-thing.html"
+},
+{
+"text": "parada 1 · qué son estas cosas en realidad, y qué tan grandes →",
+"href": "https://andycantwin.com/es/datacenter/the-thing.html"
+},
+{
+"text": "parada 2 · cómo se vive al lado →",
+"href": "https://andycantwin.com/es/datacenter/impact.html"
+},
+{
+"text": "parada 3 · quién paga pase lo que pase →",
+"href": "https://andycantwin.com/es/datacenter/who-pays.html"
+},
+{
+"text": "parada 4 · las salas donde pasó →",
+"href": "https://andycantwin.com/es/datacenter/the-vote.html"
+},
+{
+"text": "parada 5 · el proyecto estancado →",
+"href": "https://andycantwin.com/es/datacenter/raleigh.html#sb730"
+},
+{
+"text": "parada 5 · lo que el estado regaló →",
+"href": "https://andycantwin.com/es/datacenter/raleigh.html"
+},
+{
+"text": "parada 6 · el plan →",
+"href": "https://andycantwin.com/es/datacenter/the-fix.html"
+},
+{
+"text": "¿Aburrido?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "← volver a las guías",
+"href": "https://andycantwin.com/guides/"
+}
 ]

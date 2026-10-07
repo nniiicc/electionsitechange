@@ -1,7 +1,11 @@
 {
- "description": "Support Karim for Supreme Court \u2014 give securely online, scan to give from your phone, or contribute by mail.",
+ "description": "Support Karim for Supreme Court — give securely online, scan to give from your phone, or contribute by mail.",
  "final_url": "https://karim4wa.com/donate",
+ "fingerprint": "0b1e46d360ec625335c0f0670c795e30b29996e5",
+ "format": 3,
  "paid_for_by": "Paid for by Karim for Supreme Court",
- "title": "Donate \u00b7 Karim Merchant",
- "years_mentioned": []
+ "title": "Donate · Karim Merchant",
+ "years_mentioned": [
+  "2026"
+ ]
 }

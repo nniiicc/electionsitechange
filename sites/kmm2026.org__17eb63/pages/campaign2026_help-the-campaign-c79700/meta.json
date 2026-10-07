@@ -1,7 +1,12 @@
 {
  "description": "Help in a people powered campaign by posting yard signs, handing out bsiness cards, and telling others.",
  "final_url": "https://www.kmm2026.org/campaign2026/help-the-campaign",
- "paid_for_by": null,
+ "fingerprint": "836049303440c9396c93389db79d0b3b4464bc43",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Help the Campaign",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026"
+ ]
 }

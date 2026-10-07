@@ -1,14 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/DonDavisNC",
-"https://secure.actblue.com/donate/dd-web",
-"https://votedondavis.com/",
-"https://votedondavis.com/about",
-"https://votedondavis.com/contact",
-"https://votedondavis.com/delivering-new-page",
-"https://votedondavis.com/privacy-policy",
-"https://votedondavis.com/yard-sign-request",
-"https://x.com/DonDavisNC",
-"https://youtu.be/L1PIySPnVfk",
-"https://youtube.com/@dondavisfornorthcarolina2443"
+{
+"text": "About",
+"href": "https://www.votedondavis.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dd-web"
+},
+{
+"text": "Eastern North Carolina First",
+"href": "https://www.votedondavis.com/delivering-new-page"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedondavis.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request Your Yard Sign Here!",
+"href": "https://www.votedondavis.com/yard-sign-request"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votedondavis.com/contact"
+},
+{
+"text": "[image: Don Davis: Home]",
+"href": "https://www.votedondavis.com/"
+},
+{
+"text": "[image]",
+"href": "https://youtu.be/L1PIySPnVfk"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/DonDavisNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@dondavisfornorthcarolina2443"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DonDavisNC"
+},
+{
+"text": "info@votedondavis.com",
+"href": "mailto:info@votedondavis.com"
+},
+{
+"text": "press@votedondavis.com",
+"href": "mailto:press@votedondavis.com"
+}
 ]

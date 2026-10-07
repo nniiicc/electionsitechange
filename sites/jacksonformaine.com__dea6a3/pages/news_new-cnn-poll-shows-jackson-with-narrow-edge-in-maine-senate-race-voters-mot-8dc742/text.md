@@ -1,100 +1,26 @@
-- PRESS RELEASE Troy Jackson Continues Building Momentum With Four New Polls Showing His Lead Against Susan Collins
-- PRESS RELEASE NEW AD: Jackson Shares His Commitment To Fighting For Working Mainers
-- PRESS RELEASE Read What They’re Saying: Mainers Outraged By Susan Collins’ Failure To Show Up For Them
-- PRESS RELEASE HUFFPOST: Collins Faced An FBI Investigation Over Dark Money.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE PRESS RELEASE Ahead of Debate, Jackson Highlights Reproductive Freedom On Anniversary Of Collins’ Kavanaugh Vote PRESS RELEASE Jackson Hits Canvass Launches, Town Hall In Ellsworth, And Virtual Town Hall In Washington County PRESS RELEASE As Early Voting Begins, Troy Jackson Urges Mainers To Make Their Voices Heard PRESS RELEASE Former Collins Voter Disgusted By Pay To Play Corruption Scheme Demands Collins Hold Town Hall PRESS RELEASE Troy Joins Maine Calling To Take Live Questions From Mainers While Collins Refuses PRESS RELEASE Troy Jackson Continues Building Momentum With Four New Polls Showing His Lead Against Susan Collins PRESS RELEASE NEW AD: Jackson Shares His Commitment To Fighting For Working Mainers PRESS RELEASE Read What They’re Saying: Mainers Outraged By Susan Collins’ Failure To Show Up For Them PRESS RELEASE HUFFPOST: Collins Faced An FBI Investigation Over Dark Money.
 It’s Still Flowing To Her Campaign.
-- PRESS RELEASE Heather Cox Richardson Applauds Troy Jackson For His Authenticity And Record Of Getting Things Done
-- PRESS RELEASE “Families for Troy” Highlights Jackson’s Record Delivering For Maine Families
-- PRESS RELEASE Troy Jackson And Heather Cox Richardson Address Mainers’ Priorities, Take Questions In Portland
-- PRESS RELEASE Jackson Launches “Families For Troy” And Campaigns Across Southern Maine
-- PRESS RELEASE Jackson Takes Questions Directly From Mainers At Belfast Community Conversation With Matt Dunlap
-- PRESS RELEASE NEW: Voters Are Tired Of Susan Collins’ Broken Economy Making It Harder For Mainers To Get By
-- PRESS RELEASE Mainers Respond To Collins’ Pay-to-Play Scandal Grows, Demand Further Investigations
-- PRESS RELEASE NEW AD: Mainer Calls Out Susan Collins For Advancing $1 Trillion In Medicaid Cuts
-- PRESS RELEASE NEW AD: Mainers Lose Trust in Susan Collins After Dozens Of Votes To Confirm Anti-Abortion Judges
-- PRESS RELEASE Pay-to-Play Scandal Grows As Second Report Calls Out Collins’ “Inaccurate” & “Misleading” Claims
-- PRESS RELEASE NEW VIDEO: Corrupt Collins Embroiled In A Pay-To-Play Scheme Involving Millions Of Taxpayer Dollars
-- PRESS RELEASE Troy Jackson Vows To Fight For Affordable Health Care At Community Conversation With Dr.
-Nirav Shah
-- PRESS RELEASE Bombshell Investigation Surrounding Collins Operation Drawing Wave Of Local And National Scrutiny
-- PRESS RELEASE NEW REPORT: “The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way”
-- PRESS RELEASE Jackson Gains Traction Through His Working-Class Roots, Humility, and Relentless Fight for Mainers
-- PRESS RELEASE Troy Jackson Hosts Patriots Watch Party With Fans At Portland Bowling Alley
-- PRESS RELEASE NEW YORK TIMES: “Troy Jackson, A Progressive Brawler, Tries To Flip A Senate Seat In Maine”
-- PRESS RELEASE Jackson Promises To Protect Social Security, Lower Health Care Costs, Ensure Billionaires Pay Taxes
-- PRESS RELEASE NEW: Inside Elections Moves Maine Senate Race From Tilt Republican To Toss-Up
-- PRESS RELEASE Jackson Stands With Residents Protesting Out-Of-State Private Equity Firms Increasing Costs
-- PRESS RELEASE Across The State, Mainers Are Backing Troy Jackson For U.S.
-Senate
-- PRESS RELEASE MSEA-SEIU Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
-Senate
-- PRESS RELEASE Jackson Spends Another Weekend On The Trail Connecting With Mainers, Holds Fourth Town Hall
-- PRESS RELEASE Troy Jackson Calls Out Susan Collins’ For Vote To Confirm Another Anti-Abortion Judge
-- PRESS RELEASE New TV Ad: Jackson Calls For A Government That Works For Working People
-- PRESS RELEASE Troy Jackson Campaigns Across Southern Maine, Holds Solidarity For Seniors Town Hall
-- PRESS RELEASE Jackson Joins Canvass Launches Across State, Cheers on UMaine Football Team
-- PRESS RELEASE Troy Jackson, Bangor Daily: “Mainers Depend On The Promise Of Social Security.
-I Intend To Keep It.”
-- PRESS RELEASE New TV Ad: Jackson For Maine Calls Out Collins For Supporting Donald Trump, Blank Check For ICE
-- PRESS RELEASE Troy Jackson Amasses Statewide Attention After Earning Endorsement Of Maine’s Largest Union
-- PRESS RELEASE BOSTON GLOBE: “Organized labor inspired Troy Jackson’s political career.
-Now, he’s counting on it."
-- PRESS RELEASE Troy Jackson Roots For Portland Sea Dogs Alongside Carpenters Union Members
-- PRESS RELEASE MEA Endorses Jackson, Citing His Legislative Record And Commitment To Fighting For Working Families
-- PRESS RELEASE New CNN Poll Shows Jackson With Narrow Edge In Maine Senate Race, Voters Motivated To Retire Collins
-- PRESS RELEASE Over Labor Day Weekend, Jackson Barnstormed Maine With 13 Campaign Events, Standing With Workers
-- PRESS RELEASE Following Packed Labor Day Weekend, Troy Jackson Shores Up Sweeping Support Across Key Unions
-- PRESS RELEASE Troy Jackson Ends Labor Day Weekend Blitz Honoring Working People And Organizers Across Maine
-- PRESS RELEASE In Jam-Packed Labor Day Weekend Across The State, Jackson Meets Mainers & Celebrates Solidarity
-- PRESS RELEASE Jackson Kicks Off Labor Day Weekend With A Packed Day Meeting With Working Mainers
-- PRESS RELEASE Troy Jackson Garners Attention Nationwide Campaigning To Bring A Working Class Voice To U.S.
-Senate
-- PRESS RELEASE At Packed Town Hall In Gorham, Troy Jackson Answers Questions On Mainers’ Minds, Calls Out Collins
-- PRESS RELEASE TROY JACKSON ACCEPTS FOUR DEBATES AS COLLINS CONTINUES TO DODGE TOWN HALLS
-- PRESS RELEASE Planned Parenthood Action Fund Endorses Troy Jackson For U.S.
-Senate
-- PRESS RELEASE UNITE HERE Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
-Senate
-- PRESS RELEASE Troy Jackson Fires Up Supporters, Takes Questions At Packed Lewiston Town Hall
-- PRESS RELEASE End Citizens United Endorses Troy Jackson For U.S.
-Senate
-- PRESS RELEASE At First Town Hall, Troy Jackson Connects With Voters While The No Show Senator Again Fails To Show
-- PRESS RELEASE 19th News: Jackson Record Of Fighting For Repro.
-Rights Garners Support From Former Collins Voters
-- PRESS RELEASE Hours Before Lewiston Town Hall, Troy Jackson Still Waiting On Susan Collins’ RSVP
-- PRESS RELEASE Nation’s Largest Transit Union Endorses Troy Jackson For U.S.
-Senate
-- PRESS RELEASE Troy Jackson Meets With Mainers Across Washington And Waldo Counties
-- PRESS RELEASE Troy Launches Women for Troy, Hits The Airwaves, And Highlights Record Of Fighting For Mainers
-- PRESS RELEASE Troy Jackson Shares Vision For Maine With York County Voters, Stands With Railworkers In Portland
-- PRESS RELEASE Troy Jackson Calls For Town Hall Debates And Invites Susan Collins To Three Town Halls Next Week
-- PRESS RELEASE At Women for Troy Launch, Reproductive Freedom For All Backs Troy Jackson For U.S.
-Senate
-- PRESS RELEASE New Ad Highlights Troy Jackson’s Firsthand Experience Trying To Make Ends Meet For His Family
-- PRESS RELEASE One Month Since Entering The Race, Troy Connects With Mainers, Leads Polls, Mobilizes Grassroots
-- PRESS RELEASE Association of Flight Attendants Join Growing List Of Union Endorsements For Troy Jackson
-- PRESS RELEASE Across Maine, Troy Jackson Meets With Supporters, Shares His Vision to Put Working People First
-- PRESS RELEASE New TV AD Highlights Troy Jackson’s Working Class Roots
-- PRESS RELEASE Troy Jackson Joins MS NOW’s “The Weekend” To Highlight His Fight For Maine Workers
-- PRESS RELEASE Troy Connects With Maine Voters On The Trail And On The Airways
-- PRESS RELEASE League of Conservation Voters Action Fund Endorses Troy Jackson for U.S.
-Senate
-- PRESS RELEASE Troy Jackson Hosts Meet and Greet With Maine Voters At Locally-Owned Portland Bar
-- PRESS RELEASE Fox News Poll: Jackson Leads Collins As Majority Say She Votes With Trump Too Often
-- PRESS RELEASE Troy Jackson Meets With Union Workers, Tours American Roots Clothing Factory
-- PRESS RELEASE NEW TV AD: Troy Jackson Fights For Everyday Mainers Struggling To Get By In Trump, Collins’ Economy
-- PRESS RELEASE Troy Jackson’s Authentic, Hard-Working Roots Resonate with Voters, Make Him the Right Pick for Maine
-- PRESS RELEASE Troy Jackson on MS NOW’s “The Weeknight”
-- PRESS RELEASE Read All About It: Troy Jackson, The Right Candidate For Maine All Along
-- PRESS RELEASE Troy Jackson Fights for Rural Health Care, Veterans and Working Families Across Maine
-- PRESS RELEASE Troy Jackson Raises $2 Million Since Securing Democratic Nomination
-PRESS RELEASE
-New CNN Poll Shows Jackson With Narrow Edge In Maine Senate Race, Voters Motivated To Retire Collins
-PORTLAND, ME — New polling released by CNN and conducted by SSRS today shows fifth-generation Mainer and logger and former Maine Senate President Troy Jackson maintaining his lead against Susan Collins in the race for U.S.
+PRESS RELEASE Heather Cox Richardson Applauds Troy Jackson For His Authenticity And Record Of Getting Things Done PRESS RELEASE “Families for Troy” Highlights Jackson’s Record Delivering For Maine Families PRESS RELEASE Troy Jackson And Heather Cox Richardson Address Mainers’ Priorities, Take Questions In Portland PRESS RELEASE Jackson Launches “Families For Troy” And Campaigns Across Southern Maine PRESS RELEASE Jackson Takes Questions Directly From Mainers At Belfast Community Conversation With Matt Dunlap PRESS RELEASE NEW: Voters Are Tired Of Susan Collins’ Broken Economy Making It Harder For Mainers To Get By PRESS RELEASE Mainers Respond To Collins’ Pay-to-Play Scandal Grows, Demand Further Investigations PRESS RELEASE NEW AD: Mainer Calls Out Susan Collins For Advancing $1 Trillion In Medicaid Cuts PRESS RELEASE NEW AD: Mainers Lose Trust in Susan Collins After Dozens Of Votes To Confirm Anti-Abortion Judges PRESS RELEASE Pay-to-Play Scandal Grows As Second Report Calls Out Collins’ “Inaccurate” & “Misleading” Claims PRESS RELEASE NEW VIDEO: Corrupt Collins Embroiled In A Pay-To-Play Scheme Involving Millions Of Taxpayer Dollars PRESS RELEASE Troy Jackson Vows To Fight For Affordable Health Care At Community Conversation With Dr.
+Nirav Shah PRESS RELEASE Bombshell Investigation Surrounding Collins Operation Drawing Wave Of Local And National Scrutiny PRESS RELEASE NEW REPORT: “The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way” PRESS RELEASE Jackson Gains Traction Through His Working-Class Roots, Humility, and Relentless Fight for Mainers PRESS RELEASE Troy Jackson Hosts Patriots Watch Party With Fans At Portland Bowling Alley PRESS RELEASE NEW YORK TIMES: “Troy Jackson, A Progressive Brawler, Tries To Flip A Senate Seat In Maine” PRESS RELEASE Jackson Promises To Protect Social Security, Lower Health Care Costs, Ensure Billionaires Pay Taxes PRESS RELEASE NEW: Inside Elections Moves Maine Senate Race From Tilt Republican To Toss-Up PRESS RELEASE Jackson Stands With Residents Protesting Out-Of-State Private Equity Firms Increasing Costs PRESS RELEASE Across The State, Mainers Are Backing Troy Jackson For U.S.
+Senate PRESS RELEASE MSEA-SEIU Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
+Senate PRESS RELEASE Jackson Spends Another Weekend On The Trail Connecting With Mainers, Holds Fourth Town Hall PRESS RELEASE Troy Jackson Calls Out Susan Collins’ For Vote To Confirm Another Anti-Abortion Judge PRESS RELEASE New TV Ad: Jackson Calls For A Government That Works For Working People PRESS RELEASE Troy Jackson Campaigns Across Southern Maine, Holds Solidarity For Seniors Town Hall PRESS RELEASE Jackson Joins Canvass Launches Across State, Cheers on UMaine Football Team PRESS RELEASE Troy Jackson, Bangor Daily: “Mainers Depend On The Promise Of Social Security.
+I Intend To Keep It.” PRESS RELEASE New TV Ad: Jackson For Maine Calls Out Collins For Supporting Donald Trump, Blank Check For ICE PRESS RELEASE Troy Jackson Amasses Statewide Attention After Earning Endorsement Of Maine’s Largest Union PRESS RELEASE BOSTON GLOBE: “Organized labor inspired Troy Jackson’s political career.
+Now, he’s counting on it." PRESS RELEASE Troy Jackson Roots For Portland Sea Dogs Alongside Carpenters Union Members PRESS RELEASE MEA Endorses Jackson, Citing His Legislative Record And Commitment To Fighting For Working Families PRESS RELEASE New CNN Poll Shows Jackson With Narrow Edge In Maine Senate Race, Voters Motivated To Retire Collins PRESS RELEASE Over Labor Day Weekend, Jackson Barnstormed Maine With 13 Campaign Events, Standing With Workers PRESS RELEASE Following Packed Labor Day Weekend, Troy Jackson Shores Up Sweeping Support Across Key Unions PRESS RELEASE Troy Jackson Ends Labor Day Weekend Blitz Honoring Working People And Organizers Across Maine PRESS RELEASE In Jam-Packed Labor Day Weekend Across The State, Jackson Meets Mainers & Celebrates Solidarity PRESS RELEASE Jackson Kicks Off Labor Day Weekend With A Packed Day Meeting With Working Mainers PRESS RELEASE Troy Jackson Garners Attention Nationwide Campaigning To Bring A Working Class Voice To U.S.
+Senate PRESS RELEASE At Packed Town Hall In Gorham, Troy Jackson Answers Questions On Mainers’ Minds, Calls Out Collins PRESS RELEASE TROY JACKSON ACCEPTS FOUR DEBATES AS COLLINS CONTINUES TO DODGE TOWN HALLS PRESS RELEASE Planned Parenthood Action Fund Endorses Troy Jackson For U.S.
+Senate PRESS RELEASE UNITE HERE Joins Growing List Of Unions Endorsing Labor Champion Troy Jackson For U.S.
+Senate PRESS RELEASE Troy Jackson Fires Up Supporters, Takes Questions At Packed Lewiston Town Hall PRESS RELEASE End Citizens United Endorses Troy Jackson For U.S.
+Senate PRESS RELEASE At First Town Hall, Troy Jackson Connects With Voters While The No Show Senator Again Fails To Show PRESS RELEASE 19th News: Jackson Record Of Fighting For Repro.
+Rights Garners Support From Former Collins Voters PRESS RELEASE Hours Before Lewiston Town Hall, Troy Jackson Still Waiting On Susan Collins’ RSVP PRESS RELEASE Nation’s Largest Transit Union Endorses Troy Jackson For U.S.
+Senate PRESS RELEASE Troy Jackson Meets With Mainers Across Washington And Waldo Counties PRESS RELEASE Troy Launches Women for Troy, Hits The Airwaves, And Highlights Record Of Fighting For Mainers PRESS RELEASE Troy Jackson Shares Vision For Maine With York County Voters, Stands With Railworkers In Portland PRESS RELEASE Troy Jackson Calls For Town Hall Debates And Invites Susan Collins To Three Town Halls Next Week PRESS RELEASE At Women for Troy Launch, Reproductive Freedom For All Backs Troy Jackson For U.S.
+Senate PRESS RELEASE New Ad Highlights Troy Jackson’s Firsthand Experience Trying To Make Ends Meet For His Family PRESS RELEASE One Month Since Entering The Race, Troy Connects With Mainers, Leads Polls, Mobilizes Grassroots PRESS RELEASE Association of Flight Attendants Join Growing List Of Union Endorsements For Troy Jackson PRESS RELEASE Across Maine, Troy Jackson Meets With Supporters, Shares His Vision to Put Working People First PRESS RELEASE New TV AD Highlights Troy Jackson’s Working Class Roots PRESS RELEASE Troy Jackson Joins MS NOW’s “The Weekend” To Highlight His Fight For Maine Workers PRESS RELEASE Troy Connects With Maine Voters On The Trail And On The Airways PRESS RELEASE League of Conservation Voters Action Fund Endorses Troy Jackson for U.S.
+Senate PRESS RELEASE Troy Jackson Hosts Meet and Greet With Maine Voters At Locally-Owned Portland Bar PRESS RELEASE Fox News Poll: Jackson Leads Collins As Majority Say She Votes With Trump Too Often PRESS RELEASE Troy Jackson Meets With Union Workers, Tours American Roots Clothing Factory PRESS RELEASE NEW TV AD: Troy Jackson Fights For Everyday Mainers Struggling To Get By In Trump, Collins’ Economy PRESS RELEASE Troy Jackson’s Authentic, Hard-Working Roots Resonate with Voters, Make Him the Right Pick for Maine PRESS RELEASE Troy Jackson on MS NOW’s “The Weeknight” PRESS RELEASE Read All About It: Troy Jackson, The Right Candidate For Maine All Along PRESS RELEASE Troy Jackson Fights for Rural Health Care, Veterans and Working Families Across Maine PRESS RELEASE Troy Jackson Raises $2 Million Since Securing Democratic Nomination Sep 9 2026 PRESS RELEASE New CNN Poll Shows Jackson With Narrow Edge In Maine Senate Race, Voters Motivated To Retire Collins PORTLAND, ME — New polling released by CNN and conducted by SSRS today shows fifth-generation Mainer and logger and former Maine Senate President Troy Jackson maintaining his lead against Susan Collins in the race for U.S.
 Senate.
 “It’s no surprise that Mainers are ready to retire No-Show Senator Susan Collins after she’s voted with Donald Trump 96% of the time, confirmed Brett Kavanaugh and two other justices who overturned Roe v.
 Wade, pushed forward legislation to cut taxes for billionaires by gutting our health care system, handed ICE $70 billion with no strings attached, and signed off on another endless war in the Middle East.
 The numbers are clear: Mainers are ready for a change and a Senator who will actually show up and fight for them and that’s Troy Jackson,” said Jackson campaign spokesperson Maggie Amjad.
 The poll, conducted August 31 and September 6 among 880 registered voters, finds Jackson leading Collins 48% to 45%.
 The CNN poll follows recent findings that 55% of Maine voters are concerned about Collins voting with Donald Trump 96% of the time.
-###
+### To reach the campaign, email info@jacksonformaine.com .
+For press inquiries, email press@jacksonformaine.com .
+If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
+Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

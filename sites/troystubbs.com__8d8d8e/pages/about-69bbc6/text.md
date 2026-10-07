@@ -1,4 +1,4 @@
-Troy Stubbs was born in Charleston, SC.
+Skip to content Troy Stubbs State Representative About Troy Issues Contact Donate About Troy Troy Stubbs was born in Charleston, SC.
 The son of a college football coach, Troy met his wife Jenny, an eighth-generation resident of the Elmore County community, while earning his Bachelor of Science degree in Finance from the University of Alabama.
 He also holds a master’s degree from the University of Louisville in sports administration, along with a master’s degree in secondary mathematics from Alabama State University.
 Residents of Wetumpka, Troy and Jenny have been married 25 years.
@@ -11,3 +11,6 @@ In addition to volunteer coaching, Troy has organized charitable efforts to supp
 He also serves on the Institutional Advisory Board of J.F.
 Ingram State Technical College, while previously serving on the board of directors for the Alabama County Commission Association, Main Street Wetumpka, Mid-South RC&D Council, and Wetumpka YMCA.
 Before election to the Alabama House of Representatives, Troy served six years as Chairman of the Elmore County Commission.
+Share Latest News Stay Connected Donate Today $25 $50 $100 $200 OTHER Donate Paid for by Troy Stubbs for State House P.O.
+Box 429 Wetumpka, AL 36092.
+Powered By Push Digital Troy Stubbs © #

@@ -1,105 +1,482 @@
 [
-"http://legis.ga.gov/en-US/default.aspx",
-"https://betsyforgeorgia.com/",
-"https://betsyforgeorgia.com/2018/02",
-"https://betsyforgeorgia.com/2018/03",
-"https://betsyforgeorgia.com/2018/04",
-"https://betsyforgeorgia.com/2018/05",
-"https://betsyforgeorgia.com/2018/06",
-"https://betsyforgeorgia.com/2018/07",
-"https://betsyforgeorgia.com/2018/08",
-"https://betsyforgeorgia.com/2018/09",
-"https://betsyforgeorgia.com/2018/10",
-"https://betsyforgeorgia.com/2019/01",
-"https://betsyforgeorgia.com/2019/02",
-"https://betsyforgeorgia.com/2019/03",
-"https://betsyforgeorgia.com/2019/04",
-"https://betsyforgeorgia.com/2020/01",
-"https://betsyforgeorgia.com/2020/02",
-"https://betsyforgeorgia.com/2020/03",
-"https://betsyforgeorgia.com/2020/04",
-"https://betsyforgeorgia.com/2020/05",
-"https://betsyforgeorgia.com/2020/06",
-"https://betsyforgeorgia.com/2020/07",
-"https://betsyforgeorgia.com/2020/09",
-"https://betsyforgeorgia.com/2020/10",
-"https://betsyforgeorgia.com/2021/01",
-"https://betsyforgeorgia.com/2021/02",
-"https://betsyforgeorgia.com/2021/03",
-"https://betsyforgeorgia.com/2021/04",
-"https://betsyforgeorgia.com/2021/07",
-"https://betsyforgeorgia.com/2021/09",
-"https://betsyforgeorgia.com/2021/10",
-"https://betsyforgeorgia.com/2021/11",
-"https://betsyforgeorgia.com/2022/01",
-"https://betsyforgeorgia.com/2022/02",
-"https://betsyforgeorgia.com/2022/03",
-"https://betsyforgeorgia.com/2022/04",
-"https://betsyforgeorgia.com/2022/05",
-"https://betsyforgeorgia.com/2022/06",
-"https://betsyforgeorgia.com/2022/09",
-"https://betsyforgeorgia.com/2022/10",
-"https://betsyforgeorgia.com/2023/01",
-"https://betsyforgeorgia.com/2023/02",
-"https://betsyforgeorgia.com/2023/03",
-"https://betsyforgeorgia.com/2023/04",
-"https://betsyforgeorgia.com/2023/12",
-"https://betsyforgeorgia.com/2024/01",
-"https://betsyforgeorgia.com/2024/02",
-"https://betsyforgeorgia.com/2024/03",
-"https://betsyforgeorgia.com/2024/04",
-"https://betsyforgeorgia.com/2025/01",
-"https://betsyforgeorgia.com/2025/02",
-"https://betsyforgeorgia.com/2025/03",
-"https://betsyforgeorgia.com/2025/04",
-"https://betsyforgeorgia.com/2026/01",
-"https://betsyforgeorgia.com/2026/02",
-"https://betsyforgeorgia.com/2026/02/20/the-holland-report-2026-week-6",
-"https://betsyforgeorgia.com/2026/02/27/the-holland-report-2026-week-7",
-"https://betsyforgeorgia.com/2026/03",
-"https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update",
-"https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update?share=facebook",
-"https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update?share=twitter",
-"https://betsyforgeorgia.com/2026/03/10/the-holland-report-2026-week-8-crossover-edition",
-"https://betsyforgeorgia.com/2026/03/13/the-holland-report-2026-week-9",
-"https://betsyforgeorgia.com/2026/03/23/the-holland-report-2026-week-10",
-"https://betsyforgeorgia.com/2026/03/30/the-holland-report-2026-week-10-2",
-"https://betsyforgeorgia.com/2026/04",
-"https://betsyforgeorgia.com/2026/04/13/the-holland-report-2026-week-11-sine-die",
-"https://betsyforgeorgia.com/2026/06",
-"https://betsyforgeorgia.com/2026/06/29/special-session-wrap-up",
-"https://betsyforgeorgia.com/2026/08",
-"https://betsyforgeorgia.com/2026/08/28/its-campaign-season",
-"https://betsyforgeorgia.com/about-district-54",
-"https://betsyforgeorgia.com/blog",
-"https://betsyforgeorgia.com/category/2022",
-"https://betsyforgeorgia.com/category/2023",
-"https://betsyforgeorgia.com/category/2024",
-"https://betsyforgeorgia.com/category/2025",
-"https://betsyforgeorgia.com/category/2026",
-"https://betsyforgeorgia.com/category/the-holland-report",
-"https://betsyforgeorgia.com/category/uncategorized",
-"https://betsyforgeorgia.com/contact-us",
-"https://betsyforgeorgia.com/endorsements-3",
-"https://betsyforgeorgia.com/join-the-team",
-"https://betsyforgeorgia.com/mailing-list",
-"https://betsyforgeorgia.com/platform",
-"https://betsyforgeorgia.com/vote",
-"https://facebook.com/BetsyforGeorgia",
-"https://instagram.com/betsyforgeorgia",
-"https://legis.ga.gov/legislation/72210",
-"https://legis.ga.gov/legislation/72293",
-"https://legis.ga.gov/legislation/72375",
-"https://legis.ga.gov/legislation/72527",
-"https://legis.ga.gov/legislation/72593",
-"https://legis.ga.gov/legislation/72672",
-"https://legis.ga.gov/legislation/72697",
-"https://legis.ga.gov/legislation/72731",
-"https://legis.ga.gov/legislation/72891",
-"https://secure.actblue.com/donate/betsy-holland-for-georgia-1",
-"https://twitter.com/GaHouseHub",
-"https://us06web.zoom.us/meeting/register/Ex7LDLqERfWugngS4H5UOA",
-"https://wordpress.org/",
-"https://wordpress.org/plugins/vk-all-in-one-expansion-unit",
-"https://wordpress.org/themes/lightning"
+{
+"text": "2022",
+"href": "https://betsyforgeorgia.com/category/2022/"
+},
+{
+"text": "2023",
+"href": "https://betsyforgeorgia.com/category/2023/"
+},
+{
+"text": "2024",
+"href": "https://betsyforgeorgia.com/2026/08/28/its-campaign-season/"
+},
+{
+"text": "2024",
+"href": "https://betsyforgeorgia.com/category/2024/"
+},
+{
+"text": "2025",
+"href": "https://betsyforgeorgia.com/category/2025/"
+},
+{
+"text": "2026",
+"href": "https://betsyforgeorgia.com/category/2026/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/02/20/the-holland-report-2026-week-6/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/02/27/the-holland-report-2026-week-7/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/03/10/the-holland-report-2026-week-8-crossover-edition/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/03/13/the-holland-report-2026-week-9/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/03/23/the-holland-report-2026-week-10/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/03/30/the-holland-report-2026-week-10-2/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/04/13/the-holland-report-2026-week-11-sine-die/"
+},
+{
+"text": "2026[image]",
+"href": "https://betsyforgeorgia.com/2026/06/29/special-session-wrap-up/"
+},
+{
+"text": "@GAHouseHub",
+"href": "https://twitter.com/GaHouseHub"
+},
+{
+"text": "April 2018",
+"href": "https://betsyforgeorgia.com/2018/04/"
+},
+{
+"text": "April 2019",
+"href": "https://betsyforgeorgia.com/2019/04/"
+},
+{
+"text": "April 2020",
+"href": "https://betsyforgeorgia.com/2020/04/"
+},
+{
+"text": "April 2021",
+"href": "https://betsyforgeorgia.com/2021/04/"
+},
+{
+"text": "April 2022",
+"href": "https://betsyforgeorgia.com/2022/04/"
+},
+{
+"text": "April 2023",
+"href": "https://betsyforgeorgia.com/2023/04/"
+},
+{
+"text": "April 2024",
+"href": "https://betsyforgeorgia.com/2024/04/"
+},
+{
+"text": "April 2025",
+"href": "https://betsyforgeorgia.com/2025/04/"
+},
+{
+"text": "April 2026",
+"href": "https://betsyforgeorgia.com/2026/04/"
+},
+{
+"text": "August 2018",
+"href": "https://betsyforgeorgia.com/2018/08/"
+},
+{
+"text": "August 2026",
+"href": "https://betsyforgeorgia.com/2026/08/"
+},
+{
+"text": "Betsy For Georgia",
+"href": "https://betsyforgeorgia.com"
+},
+{
+"text": "Betsy For Georgia",
+"href": "https://betsyforgeorgia.com/"
+},
+{
+"text": "Blog",
+"href": "https://betsyforgeorgia.com/blog/"
+},
+{
+"text": "Contact Us",
+"href": "https://betsyforgeorgia.com/contact-us/"
+},
+{
+"text": "December 2023",
+"href": "https://betsyforgeorgia.com/2023/12/"
+},
+{
+"text": "District 54",
+"href": "https://betsyforgeorgia.com/about-district-54/"
+},
+{
+"text": "Endorsements",
+"href": "https://betsyforgeorgia.com/endorsements-3/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BetsyforGeorgia"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BetsyforGeorgia/"
+},
+{
+"text": "February 2018",
+"href": "https://betsyforgeorgia.com/2018/02/"
+},
+{
+"text": "February 2019",
+"href": "https://betsyforgeorgia.com/2019/02/"
+},
+{
+"text": "February 2020",
+"href": "https://betsyforgeorgia.com/2020/02/"
+},
+{
+"text": "February 2021",
+"href": "https://betsyforgeorgia.com/2021/02/"
+},
+{
+"text": "February 2022",
+"href": "https://betsyforgeorgia.com/2022/02/"
+},
+{
+"text": "February 2023",
+"href": "https://betsyforgeorgia.com/2023/02/"
+},
+{
+"text": "February 2024",
+"href": "https://betsyforgeorgia.com/2024/02/"
+},
+{
+"text": "February 2025",
+"href": "https://betsyforgeorgia.com/2025/02/"
+},
+{
+"text": "February 2026",
+"href": "https://betsyforgeorgia.com/2026/02/"
+},
+{
+"text": "HB 1000",
+"href": "https://www.legis.ga.gov/legislation/72293"
+},
+{
+"text": "HB 1045",
+"href": "https://www.legis.ga.gov/legislation/72375"
+},
+{
+"text": "HB 1087",
+"href": "https://www.legis.ga.gov/legislation/72593"
+},
+{
+"text": "HB 1118",
+"href": "https://www.legis.ga.gov/legislation/72672"
+},
+{
+"text": "HB 1138",
+"href": "https://www.legis.ga.gov/legislation/72697"
+},
+{
+"text": "HB 1159",
+"href": "https://www.legis.ga.gov/legislation/72731"
+},
+{
+"text": "HB 961",
+"href": "https://www.legis.ga.gov/legislation/72210"
+},
+{
+"text": "HR 1114",
+"href": "https://www.legis.ga.gov/legislation/72527"
+},
+{
+"text": "HR 1243",
+"href": "https://www.legis.ga.gov/legislation/72891"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/betsyforgeorgia/"
+},
+{
+"text": "It's Campaign Season!",
+"href": "https://betsyforgeorgia.com/2026/08/28/its-campaign-season/"
+},
+{
+"text": "January 2019",
+"href": "https://betsyforgeorgia.com/2019/01/"
+},
+{
+"text": "January 2020",
+"href": "https://betsyforgeorgia.com/2020/01/"
+},
+{
+"text": "January 2021",
+"href": "https://betsyforgeorgia.com/2021/01/"
+},
+{
+"text": "January 2022",
+"href": "https://betsyforgeorgia.com/2022/01/"
+},
+{
+"text": "January 2023",
+"href": "https://betsyforgeorgia.com/2023/01/"
+},
+{
+"text": "January 2024",
+"href": "https://betsyforgeorgia.com/2024/01/"
+},
+{
+"text": "January 2025",
+"href": "https://betsyforgeorgia.com/2025/01/"
+},
+{
+"text": "January 2026",
+"href": "https://betsyforgeorgia.com/2026/01/"
+},
+{
+"text": "Join the Team!",
+"href": "https://betsyforgeorgia.com/join-the-team/"
+},
+{
+"text": "July 2018",
+"href": "https://betsyforgeorgia.com/2018/07/"
+},
+{
+"text": "July 2020",
+"href": "https://betsyforgeorgia.com/2020/07/"
+},
+{
+"text": "July 2021",
+"href": "https://betsyforgeorgia.com/2021/07/"
+},
+{
+"text": "June 2018",
+"href": "https://betsyforgeorgia.com/2018/06/"
+},
+{
+"text": "June 2020",
+"href": "https://betsyforgeorgia.com/2020/06/"
+},
+{
+"text": "June 2022",
+"href": "https://betsyforgeorgia.com/2022/06/"
+},
+{
+"text": "June 2026",
+"href": "https://betsyforgeorgia.com/2026/06/"
+},
+{
+"text": "Lightning Theme",
+"href": "https://wordpress.org/themes/lightning/"
+},
+{
+"text": "March 2018",
+"href": "https://betsyforgeorgia.com/2018/03/"
+},
+{
+"text": "March 2019",
+"href": "https://betsyforgeorgia.com/2019/03/"
+},
+{
+"text": "March 2020",
+"href": "https://betsyforgeorgia.com/2020/03/"
+},
+{
+"text": "March 2021",
+"href": "https://betsyforgeorgia.com/2021/03/"
+},
+{
+"text": "March 2022",
+"href": "https://betsyforgeorgia.com/2022/03/"
+},
+{
+"text": "March 2023",
+"href": "https://betsyforgeorgia.com/2023/03/"
+},
+{
+"text": "March 2024",
+"href": "https://betsyforgeorgia.com/2024/03/"
+},
+{
+"text": "March 2025",
+"href": "https://betsyforgeorgia.com/2025/03/"
+},
+{
+"text": "March 2026",
+"href": "https://betsyforgeorgia.com/2026/03/"
+},
+{
+"text": "March 8th, 4 - 5 pm",
+"href": "https://us06web.zoom.us/meeting/register/Ex7LDLqERfWugngS4H5UOA"
+},
+{
+"text": "May 2018",
+"href": "https://betsyforgeorgia.com/2018/05/"
+},
+{
+"text": "May 2020",
+"href": "https://betsyforgeorgia.com/2020/05/"
+},
+{
+"text": "May 2022",
+"href": "https://betsyforgeorgia.com/2022/05/"
+},
+{
+"text": "My Priorities",
+"href": "https://betsyforgeorgia.com/platform/"
+},
+{
+"text": "Next article[image]The Holland Report - 2026, Week 8 - Crossover Edition!",
+"href": "https://betsyforgeorgia.com/2026/03/10/the-holland-report-2026-week-8-crossover-edition/"
+},
+{
+"text": "November 2021",
+"href": "https://betsyforgeorgia.com/2021/11/"
+},
+{
+"text": "October 2018",
+"href": "https://betsyforgeorgia.com/2018/10/"
+},
+{
+"text": "October 2020",
+"href": "https://betsyforgeorgia.com/2020/10/"
+},
+{
+"text": "October 2021",
+"href": "https://betsyforgeorgia.com/2021/10/"
+},
+{
+"text": "October 2022",
+"href": "https://betsyforgeorgia.com/2022/10/"
+},
+{
+"text": "Previous article[image]The Holland Report - 2026, Week 7",
+"href": "https://betsyforgeorgia.com/2026/02/27/the-holland-report-2026-week-7/"
+},
+{
+"text": "September 2018",
+"href": "https://betsyforgeorgia.com/2018/09/"
+},
+{
+"text": "September 2020",
+"href": "https://betsyforgeorgia.com/2020/09/"
+},
+{
+"text": "September 2021",
+"href": "https://betsyforgeorgia.com/2021/09/"
+},
+{
+"text": "September 2022",
+"href": "https://betsyforgeorgia.com/2022/09/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update/?share=twitter"
+},
+{
+"text": "Sign up for Betsy For Georgia Updates and News!",
+"href": "https://betsyforgeorgia.com/mailing-list/"
+},
+{
+"text": "Special Session Wrap-Up",
+"href": "https://betsyforgeorgia.com/2026/06/29/special-session-wrap-up/"
+},
+{
+"text": "The Holland Report",
+"href": "https://betsyforgeorgia.com/category/the-holland-report/"
+},
+{
+"text": "The Holland Report - 2026, Week 10",
+"href": "https://betsyforgeorgia.com/2026/03/23/the-holland-report-2026-week-10/"
+},
+{
+"text": "The Holland Report - 2026, Week 10",
+"href": "https://betsyforgeorgia.com/2026/03/30/the-holland-report-2026-week-10-2/"
+},
+{
+"text": "The Holland Report - 2026, Week 11 - Sine Die!",
+"href": "https://betsyforgeorgia.com/2026/04/13/the-holland-report-2026-week-11-sine-die/"
+},
+{
+"text": "The Holland Report - 2026, Week 6",
+"href": "https://betsyforgeorgia.com/2026/02/20/the-holland-report-2026-week-6/"
+},
+{
+"text": "The Holland Report - 2026, Week 7",
+"href": "https://betsyforgeorgia.com/2026/02/27/the-holland-report-2026-week-7/"
+},
+{
+"text": "The Holland Report - 2026, Week 8 - Crossover Edition!",
+"href": "https://betsyforgeorgia.com/2026/03/10/the-holland-report-2026-week-8-crossover-edition/"
+},
+{
+"text": "The Holland Report - 2026, Week 9",
+"href": "https://betsyforgeorgia.com/2026/03/13/the-holland-report-2026-week-9/"
+},
+{
+"text": "The Holland Report - Week 8, Midweek Update",
+"href": "https://betsyforgeorgia.com/2026/03/06/the-holland-report-week-8-midweek-update/"
+},
+{
+"text": "Uncategorized",
+"href": "https://betsyforgeorgia.com/category/uncategorized/"
+},
+{
+"text": "VK All in One Expansion Unit",
+"href": "https://wordpress.org/plugins/vk-all-in-one-expansion-unit/"
+},
+{
+"text": "Voting Information",
+"href": "https://betsyforgeorgia.com/vote/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Betsy for Georgia]",
+"href": "https://betsyforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/betsy-holland-for-georgia-1"
+},
+{
+"text": "betsy.holland@house.ga.gov",
+"href": "mailto:betsy.holland@house.ga.gov"
+},
+{
+"text": "betsyforgeorgia.com",
+"href": "https://betsyforgeorgia.com/"
+},
+{
+"text": "www.legis.ga.gov.",
+"href": "http://www.legis.ga.gov/en-US/default.aspx"
+}
 ]

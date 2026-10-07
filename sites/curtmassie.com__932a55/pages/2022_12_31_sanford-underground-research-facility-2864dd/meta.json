@@ -1,7 +1,15 @@
 {
  "description": "Sanford Underground Research Facility (SURF) legislator tour.",
  "final_url": "https://www.curtmassie.com/2022/12/31/sanford-underground-research-facility/",
- "paid_for_by": "Paid for by Curt Massie for SD &nbsp;&nbsp;",
+ "fingerprint": "bd1f01ab760105cb0c47b4a80daf4c3a8d3c2ae8",
+ "format": 3,
+ "paid_for_by": "Paid for by Curt Massie for SD",
  "title": "SURF Lab Tour - Curt Massie",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

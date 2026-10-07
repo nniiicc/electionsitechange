@@ -1,9 +1,3 @@
-Sen.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Author: Hoosiers For Tomes Senator Jim Tomes Talks About Issues In Southern Indiana – Lawmakers Hoosiers For Tomes February 9, 2025 Legislative Discussion Sen.
 Jim Tomes has a discussion about legislation from the Statehouse on the 2025 session that effects Indiana and the Southern Indiana area.
-Watch Indiana…
-Skip to content
-Menu
-Close
-Sen.
-Jim Tomes has a discussion about legislation from the Statehouse on the 2025 session that effects Indiana and the Southern Indiana area.
-Watch Indiana…
+Watch Indiana… Read more → Posts pagination Previous 1 2 October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

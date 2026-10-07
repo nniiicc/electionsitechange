@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Sandy+Springs+-+Senator+RaShaun+Kemp+%26+Beth+Fuller%21&dates=20260912T160000Z%2F20260912T190000Z&location=7300+Brandon+Mill+Rd+NW%2C+Atlanta%2C+GA+30328",
-"http://maps.google.com/?q=7300+Brandon+Mill+Rd+NW+Atlanta%2C+GA+30328",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/bryce-and-beth",
-"https://bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller?format=ical",
-"https://bethfullerforgeorgia.com/events/weekly-north-fulton-canvass",
-"https://bethfullerforgeorgia.com/events?tag=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1015714",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7300+brandon+mill+rd+nw+atlanta%2C+ga+30328+"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?tag=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Sandy+Springs+-+Senator+RaShaun+Kemp+%26+Beth+Fuller%21&dates=20260912T160000Z%2F20260912T190000Z&location=7300+Brandon+Mill+Rd+NW%2C+Atlanta%2C+GA+30328"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next September 12 North Fulton Weekly Canvass with Indivisible North Metro Atlanta",
+"href": "https://www.bethfullerforgeorgia.com/events/weekly-north-fulton-canvass"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous September 5 Canvass in Buckhead - Rep. Bryce Berry, Beth Fuller, & the Take It Back Fellowship!",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/bethfullerforgeorgia/event/1015714/",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1015714/"
+}
 ]

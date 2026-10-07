@@ -1,4 +1,4 @@
-Proven.
+0 Skip to Content Meet Allen Priorities Accomplishments Endorsements Early Voting Info Contribute Open Menu Close Menu Meet Allen Priorities Accomplishments Endorsements Early Voting Info Contribute Open Menu Close Menu Meet Allen Priorities Accomplishments Endorsements Early Voting Info Contribute Proven.
 Homegrown.
 Leader.
 Allen knows the people must always be at the center of public service.
@@ -11,4 +11,4 @@ He later worked at the UNC Center for Civil Rights as an attorney and Deputy Dir
 On the Chapel Hill Town Council, Allen fought for fair treatment of vulnerable residents and families in housing and criminal justice.
 He also supported local businesses and facilitated opportunities for young people to get apprenticeships and to get civically engaged.
 Outside of work, Allen has enjoyed mentoring and coaching high school football.
-Most of all, he loves spending time with his wife Sarah, their three children and their cat.
+Most of all, he loves spending time with his wife Sarah, their three children and their cat. info@allenbuansi.com PO Box 3341 Chapel Hill, NC 27515 Paid for by Allen Buansi for NC.

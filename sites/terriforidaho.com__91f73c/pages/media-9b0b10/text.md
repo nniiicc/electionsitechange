@@ -1,7 +1,5 @@
-Media Resources
-All media inquires: info@terriforidaho.com
-Biography to be used for publication
-Terri Pickens is a small business owner and founding partner of Pickens Law, P.A.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Media Resources All media inquires: info@terriforidaho.com Biography to be used for publication Terri Pickens is a small business owner and founding partner of Pickens Law, P.A.
 A graduate of the University of Southern California and the University of Idaho College of Law, Terri represents construction clients and others across Idaho.
 The daughter of a Pocatello construction worker, she credits her upbringing for her strong work ethic.
 Terri lives in Boise and is the proud mother of two hard-working, kind children who are confident in the outdoors and street-smart in the city.
+Photography to be used for publication TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

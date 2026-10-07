@@ -1,9 +1,11 @@
-Aaron Márquez – a veteran of multiple political campaigns and the United States Army – grew up in Arizona, served his country through two deployments to Afghanistan, and has fought for progressive change in Arizona across the country.
+Donate ☰ ☰ Home About Aaron Issues Endorsements In the News Volunteer GOTV!
+LD5 Map Contact Donate About Aaron Aaron Márquez – a veteran of multiple political campaigns and the United States Army – grew up in Arizona, served his country through two deployments to Afghanistan, and has fought for progressive change in Arizona across the country.
 Most recently, Aaron cofounded VetsForward.us, a group of progressive military veterans in Arizona that work to defend democratic values at home by winning the hearts and minds of American voters.
 In 2015, Aaron led veterans outreach efforts for the office of U.S.
 Congressman Ruben Gallego.
 He met with veterans and military families at the Phoenix VA Hospital, American Legion, and VFW halls across the district while spearheading efforts to bring more significant resources to Arizona veterans and their families.
 Aaron first ran for office as a candidate for the Arizona State Senate in 2014.
+He knocked on thousands of doors, and his campaign raised over $185,000, an Arizona Democratic Party record for a first-time legislative candidate.
 Raised in Arizona, Aaron proudly attended public elementary, middle, and high schools in Mesa, Chandler, Tempe, and Gilbert.
 Aaron began college at the University of Arizona and Mesa Community College but withdrew after his first year because he felt called to serve his country following the 9/11 terrorist attacks.
 He joined an AmeriCorps program called City Year, where he committed to two full years of community service and worked full-time running youth service-learning programs for students most at risk of dropping out before graduation.
@@ -22,3 +24,8 @@ Between military training and his first deployment, Aaron worked as the politica
 In 2020, Aaron was elected to the at-large seat of the Phoenix Union High School District Governing Board, where he has been fighting for progressive change to improve local public schools for our students and their families.
 As a school board member, he has advocated for more robust public health policies, bringing in national service programs to provide increased wraparound services, and restorative justice practices.
 Aaron lives in Phoenix with his wife – an elementary school principal – seven-year-old daughter Sarah, and seventeen-year-old stepson James.
+Donate Paid for by Márquez for Arizona.
+Authorized by Márquez for Arizona.
+Aaron Márquez is a member of the U.S.
+Army Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

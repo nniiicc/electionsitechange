@@ -1,61 +1,274 @@
 [
-"https://bankshelfrich.com/",
-"https://bankshelfrich.com/__trashed",
-"https://bankshelfrich.com/a-love-letter-to-us",
-"https://bankshelfrich.com/about",
-"https://bankshelfrich.com/all-of-us-are-immigrants",
-"https://bankshelfrich.com/america-first",
-"https://bankshelfrich.com/america-is-in-trouble",
-"https://bankshelfrich.com/america-is-sick",
-"https://bankshelfrich.com/america-the-beautiful",
-"https://bankshelfrich.com/blame-and-responsibility",
-"https://bankshelfrich.com/blog",
-"https://bankshelfrich.com/category/civility",
-"https://bankshelfrich.com/category/environment",
-"https://bankshelfrich.com/category/people",
-"https://bankshelfrich.com/category/uncategorized",
-"https://bankshelfrich.com/civility-is-the-one-thing-we-can-not-get-enough-of",
-"https://bankshelfrich.com/civility-what-happened-2",
-"https://bankshelfrich.com/community-farming",
-"https://bankshelfrich.com/compromise",
-"https://bankshelfrich.com/disagreeing-and-getting-along",
-"https://bankshelfrich.com/florida-wildflowers-we-are-adding-to-here-on-the-farm",
-"https://bankshelfrich.com/food-insecurity-what-is-the-solution",
-"https://bankshelfrich.com/for-immediate-release",
-"https://bankshelfrich.com/freedoms-are-not-free",
-"https://bankshelfrich.com/growing-your-own-spring-groceries",
-"https://bankshelfrich.com/how-do-we-get-to-yes",
-"https://bankshelfrich.com/how-i-battled-my-mental-health-demons",
-"https://bankshelfrich.com/is-america-morally-bankrupt",
-"https://bankshelfrich.com/is-your-mouth-the-cause",
-"https://bankshelfrich.com/issues",
-"https://bankshelfrich.com/let-land-be-land",
-"https://bankshelfrich.com/lets-talk-civility",
-"https://bankshelfrich.com/one-letter-separates-us",
-"https://bankshelfrich.com/people-are-the-stories",
-"https://bankshelfrich.com/safety-first",
-"https://bankshelfrich.com/servants-of-democracy",
-"https://bankshelfrich.com/showing-up",
-"https://bankshelfrich.com/sitemap",
-"https://bankshelfrich.com/small-world-or-long-life",
-"https://bankshelfrich.com/stories-are-the-glue-of-our-community",
-"https://bankshelfrich.com/sustainability-anyone",
-"https://bankshelfrich.com/taxes-or-services",
-"https://bankshelfrich.com/thank-you",
-"https://bankshelfrich.com/the-art-of-showing-up",
-"https://bankshelfrich.com/the-bucket-and-property-taxes",
-"https://bankshelfrich.com/the-wolf-within",
-"https://bankshelfrich.com/this-is-what-civility-looks-like",
-"https://bankshelfrich.com/tis-better-to-have-loved-and-lost-than-never-loved-at-all",
-"https://bankshelfrich.com/volunteer",
-"https://bankshelfrich.com/vote-or-leave",
-"https://bankshelfrich.com/voting-distractions-and-becoming-numb-to-chaos",
-"https://bankshelfrich.com/war-what-is-it-good-for",
-"https://bankshelfrich.com/we-the-people",
-"https://bankshelfrich.com/welcome-to-spring-on-the-farm",
-"https://bankshelfrich.com/what-to-do-about-property-insurance",
-"https://bankshelfrich.com/what-to-grow-in-the-fall",
-"https://facebook.com/FarmerBanksForFloridaHouse",
-"https://instagram.com/farmerbanksforfloridahouse",
-"https://secure.actblue.com/donate/elect-banks-helfrich"
+{
+"text": "A Love Letter to US",
+"href": "https://bankshelfrich.com/a-love-letter-to-us/"
+},
+{
+"text": "All of US are Immigrants",
+"href": "https://bankshelfrich.com/all-of-us-are-immigrants/"
+},
+{
+"text": "America First",
+"href": "https://bankshelfrich.com/america-first/"
+},
+{
+"text": "America is Sick",
+"href": "https://bankshelfrich.com/america-is-sick/"
+},
+{
+"text": "America is in Trouble",
+"href": "https://bankshelfrich.com/america-is-in-trouble/"
+},
+{
+"text": "America, the Beautiful",
+"href": "https://bankshelfrich.com/america-the-beautiful/"
+},
+{
+"text": "Being a Patriot",
+"href": "https://bankshelfrich.com/being-a-patriot/"
+},
+{
+"text": "Blame and Responsibility",
+"href": "https://bankshelfrich.com/blame-and-responsibility/"
+},
+{
+"text": "CIVILITY is…",
+"href": "https://bankshelfrich.com/civility-is-the-one-thing-we-can-not-get-enough-of/"
+},
+{
+"text": "Civility",
+"href": "https://bankshelfrich.com/category/civility/"
+},
+{
+"text": "Civility, What Happened?",
+"href": "https://bankshelfrich.com/civility-what-happened-2/"
+},
+{
+"text": "Community Farming",
+"href": "https://bankshelfrich.com/community-farming/"
+},
+{
+"text": "Compromise",
+"href": "https://bankshelfrich.com/compromise/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/elect-banks-helfrich"
+},
+{
+"text": "Curbing Excessive Development",
+"href": "https://bankshelfrich.com/issues#development"
+},
+{
+"text": "Decreasing Traffic Congestion",
+"href": "https://bankshelfrich.com/issues#congestion"
+},
+{
+"text": "Disagreeing and Getting Along",
+"href": "https://bankshelfrich.com/disagreeing-and-getting-along/"
+},
+{
+"text": "Environment",
+"href": "https://bankshelfrich.com/category/environment/"
+},
+{
+"text": "Florida wildflowers we are adding to “Here on the Farm”",
+"href": "https://bankshelfrich.com/florida-wildflowers-we-are-adding-to-here-on-the-farm/"
+},
+{
+"text": "Food Insecurity, What is the Solution?",
+"href": "https://bankshelfrich.com/food-insecurity-what-is-the-solution/"
+},
+{
+"text": "For Immediate Release",
+"href": "https://bankshelfrich.com/for-immediate-release/"
+},
+{
+"text": "Freedoms Are Not Free",
+"href": "https://bankshelfrich.com/freedoms-are-not-free/"
+},
+{
+"text": "Growing Your Own Spring Groceries",
+"href": "https://bankshelfrich.com/growing-your-own-spring-groceries/"
+},
+{
+"text": "Home",
+"href": "https://bankshelfrich.com/"
+},
+{
+"text": "How I Battled My Mental Health Demons",
+"href": "https://bankshelfrich.com/how-i-battled-my-mental-health-demons/"
+},
+{
+"text": "How do WE get to YES?",
+"href": "https://bankshelfrich.com/how-do-we-get-to-yes/"
+},
+{
+"text": "Is America Morally Bankrupt?",
+"href": "https://bankshelfrich.com/is-america-morally-bankrupt/"
+},
+{
+"text": "Is Your Mouth The Cause?",
+"href": "https://bankshelfrich.com/is-your-mouth-the-cause/"
+},
+{
+"text": "Issues",
+"href": "https://bankshelfrich.com/issues/"
+},
+{
+"text": "Let Land Be Land",
+"href": "https://bankshelfrich.com/let-land-be-land/"
+},
+{
+"text": "Let’s Talk CIVILITY!",
+"href": "https://bankshelfrich.com/lets-talk-civility/"
+},
+{
+"text": "Lowering Grocery Costs",
+"href": "https://bankshelfrich.com/issues#grocery"
+},
+{
+"text": "Lowering Property Insurance",
+"href": "https://bankshelfrich.com/issues#insurance"
+},
+{
+"text": "Meet Banks",
+"href": "https://bankshelfrich.com/about/"
+},
+{
+"text": "News",
+"href": "https://bankshelfrich.com/blog/"
+},
+{
+"text": "One Letter Separates Us?",
+"href": "https://bankshelfrich.com/one-letter-separates-us/"
+},
+{
+"text": "People",
+"href": "https://bankshelfrich.com/category/people/"
+},
+{
+"text": "People Are The Stories",
+"href": "https://bankshelfrich.com/people-are-the-stories/"
+},
+{
+"text": "Safety First",
+"href": "https://bankshelfrich.com/safety-first/"
+},
+{
+"text": "Servants of Democracy",
+"href": "https://bankshelfrich.com/servants-of-democracy/"
+},
+{
+"text": "Showing Up",
+"href": "https://bankshelfrich.com/showing-up/"
+},
+{
+"text": "Sitemap",
+"href": "https://bankshelfrich.com/sitemap/"
+},
+{
+"text": "Small World Or Long Life?",
+"href": "https://bankshelfrich.com/small-world-or-long-life/"
+},
+{
+"text": "Solutions",
+"href": "https://bankshelfrich.com/issues/"
+},
+{
+"text": "Stories Are The Glue Of Our Community",
+"href": "https://bankshelfrich.com/stories-are-the-glue-of-our-community/"
+},
+{
+"text": "Supporting First Responders",
+"href": "https://bankshelfrich.com/issues#responders"
+},
+{
+"text": "Sustainability! Who’s in?",
+"href": "https://bankshelfrich.com/sustainability-anyone/"
+},
+{
+"text": "Taxes or Services",
+"href": "https://bankshelfrich.com/taxes-or-services/"
+},
+{
+"text": "Thank You",
+"href": "https://bankshelfrich.com/thank-you/"
+},
+{
+"text": "The Art of Showing Up",
+"href": "https://bankshelfrich.com/the-art-of-showing-up/"
+},
+{
+"text": "The Bucket and Property Taxes",
+"href": "https://bankshelfrich.com/the-bucket-and-property-taxes/"
+},
+{
+"text": "The Wolf Within",
+"href": "https://bankshelfrich.com/the-wolf-within/"
+},
+{
+"text": "Think Big",
+"href": "https://bankshelfrich.com/__trashed/"
+},
+{
+"text": "This is what CIVILITY looks like.",
+"href": "https://bankshelfrich.com/this-is-what-civility-looks-like/"
+},
+{
+"text": "Tis Better To Have Loved And Lost Than Never Loved At All?",
+"href": "https://bankshelfrich.com/tis-better-to-have-loved-and-lost-than-never-loved-at-all/"
+},
+{
+"text": "Uncategorized",
+"href": "https://bankshelfrich.com/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://bankshelfrich.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://bankshelfrich.com/volunteer/"
+},
+{
+"text": "Vote or Leave",
+"href": "https://bankshelfrich.com/vote-or-leave/"
+},
+{
+"text": "Voting, Distractions and Becoming Numb to Chaos",
+"href": "https://bankshelfrich.com/voting-distractions-and-becoming-numb-to-chaos/"
+},
+{
+"text": "War (What is it good for?)",
+"href": "https://bankshelfrich.com/war-what-is-it-good-for/"
+},
+{
+"text": "We The People",
+"href": "https://bankshelfrich.com/we-the-people/"
+},
+{
+"text": "Welcome to spring on the Farm",
+"href": "https://bankshelfrich.com/welcome-to-spring-on-the-farm/"
+},
+{
+"text": "What to Do About Property Insurance?",
+"href": "https://bankshelfrich.com/what-to-do-about-property-insurance/"
+},
+{
+"text": "What to Grow in the Fall",
+"href": "https://bankshelfrich.com/what-to-grow-in-the-fall/"
+},
+{
+"text": "[image: Banks Helrich for Florida House District 25]",
+"href": "https://bankshelfrich.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FarmerBanksForFloridaHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/farmerbanksforfloridahouse/"
+}
 ]

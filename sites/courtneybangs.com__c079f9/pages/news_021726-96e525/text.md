@@ -1,5 +1,4 @@
-Oregon counties push for predictable logging levels in state forests
-Oregon entities funded by timber sales want to ensure revenue
-For the third consecutive legislative session, a group of Oregon county governments hope to pass a bill requiring more predictable timber harvests in state forests.
+0 Skip to Content Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Open Menu Close Menu Open Menu Close Menu Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Oregon counties push for predictable logging levels in state forests Feb 17 Written By Courtney Bangs Capital Press Oregon entities funded by timber sales want to ensure revenue For the third consecutive legislative session, a group of Oregon county governments hope to pass a bill requiring more predictable timber harvests in state forests.
 Similarly to past proposals, House Bill 4105 would require the Oregon Department of Forestry to annually log enough trees to comply with a 10-year “sustainable harvest level” adopted by the agency.
 If fewer trees are logged than required by the sustainable harvest level, that amount of timber would be added to the next 10-year plan, unless the reduction was due to wildfire, disease or storm damage.
+Read the Full Article Courtney Bangs Next Next Knappa food pantry saved Home Volunteer Contact Donate Privacy Policy Paid for by Courtney Bangs PAC | © # Oregon State Senate - District 16

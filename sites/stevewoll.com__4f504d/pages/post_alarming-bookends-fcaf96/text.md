@@ -1,5 +1,4 @@
-Alarming Bookends
-This weekend brought a pair of stories from either end of the spectrum.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Alarming Bookends Steve Woll Jun 28 2 min read This weekend brought a pair of stories from either end of the spectrum.
 In the first, the Congressional primaries in New York City resulted in victories for 3 candidates endorsed by NYC mayor Zohran Mamdani.
 I support voters getting to choose who they want to represent them, and not surprisingly I believe a spectrum of inputs yields a better result.
 But as many other commenters have noted, the views in recent years expressed by Darializa Avila Chevalier are troubling.
@@ -16,3 +15,5 @@ Donahue commanded the Army's Delta Force, multiple joint and multinational effor
 Perhaps this last item was the trigger here - a highly decorated soldier, one who had put his life on the line for this nation countless times, dutifully carrying out the orders of his Commander in Chief, President Biden, executing a treaty negotiated by his prior Commander in Chief, President Trump.
 Doing his duty at each step, executing lawful orders regardless of the political valence of the Commander in Chief.
 That this is what likely got him fired is perhaps the most troubling scenario of all.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Why I'm Stepping Forward...
+ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

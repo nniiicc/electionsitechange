@@ -1,7 +1,6 @@
-Mental Health Now
-JJ Galvez signed the Mental Health Now Statement of Support.
-This statement highlights JJ’s commitment to advancing policies that strengthen mental health care, and actively supporting legislation, regulations, and executive actions that:
-- Increase access to mental health care by making quality care easier to get and easier to afford.
-- Promote wellness, prevention, and early intervention by expanding youth mental health services and advancing reasonable safeguards for artificial intelligence.
-- Improve crisis response for anyone experiencing a mental health emergency so they receive compassionate and effective care when they need it.
-- Strengthen the mental health workforce so more people can get the care they need, no matter where they live.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Mental Health Now Priorities Jul 7 Written By Jaclyn Martin JJ Galvez signed the Mental Health Now Statement of Support.
+This statement highlights JJ’s commitment to advancing policies that strengthen mental health care, and actively supporting legislation, regulations, and executive actions that: Increase access to mental health care by making quality care easier to get and easier to afford.
+Promote wellness, prevention, and early intervention by expanding youth mental health services and advancing reasonable safeguards for artificial intelligence.
+Improve crisis response for anyone experiencing a mental health emergency so they receive compassionate and effective care when they need it.
+Strengthen the mental health workforce so more people can get the care they need, no matter where they live.
+Community Policy Jaclyn Martin Previous Previous Salsa Dancing Night Next Next Gun Sense Voting DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

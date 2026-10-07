@@ -1,22 +1,134 @@
 [
-"https://facebook.com/julianforhouse65",
-"https://heyvictor.com/",
-"https://instagram.com/julianforhoused65",
-"https://julianforhouse65.com/",
-"https://julianforhouse65.com/accessibility-statement",
-"https://julianforhouse65.com/endorsements",
-"https://julianforhouse65.com/event/canvassing-with-jerri-green",
-"https://julianforhouse65.com/event/day-of-action",
-"https://julianforhouse65.com/event/fairview-canvass-with-team-julian-david-hardy-for-senate",
-"https://julianforhouse65.com/event/joint-canvassing-with-david-hardy-for-senate-and-jerri-green",
-"https://julianforhouse65.com/event/joint-fundraising-event-with-david-hardy",
-"https://julianforhouse65.com/event/meet-and-greet-mission-cigar-and-social-spring-hill",
-"https://julianforhouse65.com/event/team-julian-saturday-canvass",
-"https://julianforhouse65.com/event/team-julian-weekday-canvass",
-"https://julianforhouse65.com/event/williamson-county-dems-weekend-of-action-sept-12-13",
-"https://julianforhouse65.com/events",
-"https://julianforhouse65.com/issues",
-"https://julianforhouse65.com/meet-candidate",
-"https://julianforhouse65.com/terms-of-service",
-"https://julianforhouse65.com/volunteer"
+{
+"text": "Accessibility Statement",
+"href": "https://www.julianforhouse65.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Day of Action",
+"href": "https://www.julianforhouse65.com/event/day-of-action/"
+},
+{
+"text": "Donate",
+"href": "https://www.julianforhouse65.com#donate"
+},
+{
+"text": "Donate Today!",
+"href": "https://www.julianforhouse65.com#donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.julianforhouse65.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.julianforhouse65.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.julianforhouse65.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.julianforhouse65.com/issues/"
+},
+{
+"text": "Joint Canvassing with David Hardy for Senate and Jerri Green",
+"href": "https://www.julianforhouse65.com/event/joint-canvassing-with-david-hardy-for-senate-and-jerri-green/"
+},
+{
+"text": "Joint Canvassing with Jerri Green",
+"href": "https://www.julianforhouse65.com/event/canvassing-with-jerri-green/"
+},
+{
+"text": "Joint Fundraising Event with David Hardy",
+"href": "https://www.julianforhouse65.com/event/joint-fundraising-event-with-david-hardy/"
+},
+{
+"text": "Meet & Greet Mission Cigar and Social – Spring Hill",
+"href": "https://www.julianforhouse65.com/event/meet-and-greet-mission-cigar-and-social-spring-hill/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://www.julianforhouse65.com/meet-candidate/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/canvassing-with-jerri-green/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/day-of-action/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/fairview-canvass-with-team-julian-david-hardy-for-senate/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/joint-canvassing-with-david-hardy-for-senate-and-jerri-green/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/joint-fundraising-event-with-david-hardy/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/meet-and-greet-mission-cigar-and-social-spring-hill/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/team-julian-saturday-canvass/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/team-julian-weekday-canvass/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/williamson-county-dems-weekend-of-action-sept-12-13/"
+},
+{
+"text": "Team Julian & David Hardy for Senate Fairview Canvass",
+"href": "https://www.julianforhouse65.com/event/fairview-canvass-with-team-julian-david-hardy-for-senate/"
+},
+{
+"text": "Team Julian Canvass Every Saturday",
+"href": "https://www.julianforhouse65.com/event/team-julian-saturday-canvass/"
+},
+{
+"text": "Team Julian Canvass Every Tuesday-Thursday",
+"href": "https://www.julianforhouse65.com/event/team-julian-weekday-canvass/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.julianforhouse65.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.julianforhouse65.com/volunteer/"
+},
+{
+"text": "Williamson County Dems Weekend of Action Sept. 12-13",
+"href": "https://www.julianforhouse65.com/event/williamson-county-dems-weekend-of-action-sept-12-13/"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.julianforhouse65.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/julianforhouse65/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/julianforhoused65/"
+}
 ]

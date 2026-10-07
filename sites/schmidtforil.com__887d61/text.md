@@ -1,6 +1,16 @@
-As the voice for the 114th District in Springfield, I have consistently stood up to special interests and put the needs of this district first.
+Skip to content Home Meet Dr.
+Schmidt Issues Fighting for the 114th Growing the Economy Supporting Illinois Veterans Protecting Our Communities Volunteer Contact Contribute Home Meet Dr.
+Schmidt Issues Fighting for the 114th Growing the Economy Supporting Illinois Veterans Protecting Our Communities Volunteer Contact Contribute Facebook As the voice for the 114th District in Springfield, I have consistently stood up to special interests and put the needs of this district first.
 I am focused on boosting economic growth by creating jobs and attracting new businesses to our communities.
 My leadership is paving the way for opportunity and revitalization in the Metro East region.
 My focus is serving the people of the 114th District.
 I am donating my pay raise to local charities to help people in need right here in our own backyard.
-The people of the 114th District entrusted me to represent them, and I take that job seriously
+The people of the 114th District entrusted me to represent them, and I take that job seriously LEARN MORE ABOUT HOW I'M FIGHTING FOR THE 114TH!
+VOLUNTEER CONTRIBUTE CONTACT KEVIN Paid for by Schmidt for Illinois.
+A copy of our report with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Privacy Policy: Schmidt for Illinois respects your privacy and is committed to protecting your personal information.
+We collect your name, email address, and cell phone number when you provide it to us.
+We use this information to send you marketing messages, provide customer support, and improve our products and services.
+We will keep your information for as long as you are a customer of ours, or until you ask us to delete it.
+We will protect your information by using industry-standard security measures.
+We will not share your information with third parties without your consent.

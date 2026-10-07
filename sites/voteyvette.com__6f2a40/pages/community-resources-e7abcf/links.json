@@ -1,31 +1,118 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://dos.ny.gov/office-new-americans",
-"https://facebook.com/voteyvette",
-"https://immigrantdefenseproject.org/know-your-rights-with-ice",
-"https://instagram.com/voteyvette",
-"https://locator.ice.gov/odls",
-"https://nyc.gov/site/sbs/careers/careers.page",
-"https://nyhousingsearch.gov/Resources.html",
-"https://nypl.org/about/remote-resources/community-resources/housing-tenants-resources",
-"https://nypl.org/help/services/smallbiz",
-"https://nysbdc.org/",
-"https://omh.ny.gov/",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/yvettes-wins",
-"https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page",
-"https://www1.nyc.gov/site/doh/health/health-topics/monkeypox.page",
-"https://www1.nyc.gov/site/doh/health/health-topics/nyc-well.page",
-"https://www1.nyc.gov/site/hra/help/affordable-housing.page",
-"https://www1.nyc.gov/site/hra/help/career-services.page",
-"https://www1.nyc.gov/site/immigrants/help/city-services.page",
-"https://www1.nyc.gov/site/immigrants/help/legal-services/actionnyc.page"
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "ActionNYC",
+"href": "https://www1.nyc.gov/site/immigrants/help/legal-services/actionnyc.page"
+},
+{
+"text": "City Services page",
+"href": "https://www1.nyc.gov/site/immigrants/help/city-services.page"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "Know Your Rights",
+"href": "https://www.immigrantdefenseproject.org/know-your-rights-with-ice/"
+},
+{
+"text": "NYC Department of Small Businesses",
+"href": "https://www.nyc.gov/site/sbs/careers/careers.page"
+},
+{
+"text": "NYC Well",
+"href": "https://www1.nyc.gov/site/doh/health/health-topics/nyc-well.page"
+},
+{
+"text": "New York Small Business Development Center website",
+"href": "https://www.nysbdc.org/"
+},
+{
+"text": "New York State Office of Mental Health website",
+"href": "https://omh.ny.gov/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "The New York State Office for New Americans",
+"href": "https://dos.ny.gov/office-new-americans"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "career services page",
+"href": "https://www1.nyc.gov/site/hra/help/career-services.page"
+},
+{
+"text": "directory of resources",
+"href": "https://www.nypl.org/help/services/smallbiz"
+},
+{
+"text": "here",
+"href": "https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page"
+},
+{
+"text": "here",
+"href": "https://www1.nyc.gov/site/doh/health/health-topics/monkeypox.page"
+},
+{
+"text": "housing and tenants rights resources",
+"href": "https://www.nypl.org/about/remote-resources/community-resources/housing-tenants-resources"
+},
+{
+"text": "online detainee locator",
+"href": "https://locator.ice.gov/odls/"
+},
+{
+"text": "page",
+"href": "https://www1.nyc.gov/site/hra/help/affordable-housing.page"
+},
+{
+"text": "resources",
+"href": "https://www.nyhousingsearch.gov/Resources.html"
+}
 ]

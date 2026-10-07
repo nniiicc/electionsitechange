@@ -1,13 +1,46 @@
 [
-"https://facebook.com/MurrellSmithSCHouse",
-"https://instagram.com/murrellsmith",
-"https://murrellsmith.com/",
-"https://murrellsmith.com/about",
-"https://murrellsmith.com/contact",
-"https://murrellsmith.com/issues",
-"https://murrellsmith.com/news",
-"https://murrellsmith.com/privacy-policy",
-"https://scdailygazette.com/2025/01/17/71-million-nursing-home-for-sc-veterans-opens-in-sumter",
-"https://secure.anedot.com/murrellsmith67/donate",
-"https://x.com/murrellsmith"
+{
+"text": "Contact",
+"href": "https://murrellsmith.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/murrellsmith67/donate"
+},
+{
+"text": "Issues",
+"href": "https://murrellsmith.com/issues/"
+},
+{
+"text": "Meet Murrell",
+"href": "https://murrellsmith.com/about/"
+},
+{
+"text": "News",
+"href": "https://murrellsmith.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://murrellsmith.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://murrellsmith.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MurrellSmithSCHouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/murrellsmith/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/murrellsmith"
+},
+{
+"text": "here",
+"href": "https://scdailygazette.com/2025/01/17/71-million-nursing-home-for-sc-veterans-opens-in-sumter/"
+}
 ]

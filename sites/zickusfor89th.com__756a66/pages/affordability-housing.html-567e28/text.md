@@ -1,17 +1,20 @@
-Issues & priorities
-Affordability & Housing
-30-second overview
-From the published campaign article
-You’ve watched housing costs climb while young adults and working families struggle to stay in the communities they know.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved Home / Issues / Affordability & Housing Issues & priorities Affordability & Housing 30-second overview From the published campaign article You’ve watched housing costs climb while young adults and working families struggle to stay in the communities they know.
 A stable home and a manageable cost of living should be realistic for first-time buyers and families who work here.
-Local context and documented position
-The original explanation below contains the campaign’s position and local context.
+Local context and documented position The original explanation below contains the campaign’s position and local context.
 Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records
-Source: the published campaign statement on this page.
+Sources and records Source: the published campaign statement on this page.
 Further reading is linked below.
 You’ve watched housing costs climb while young adults and working families struggle to stay in the communities they know.
 A stable home and a manageable cost of living should be realistic for first-time buyers and families who work here.
-- Support practical steps that increase housing supply without sacrificing local character.
-- Focus on policies that keep property taxes and living costs predictable for working households.
-- Keep decisions about growth and development responsive to the people who live here.
+Support practical steps that increase housing supply without sacrificing local character.
+Focus on policies that keep property taxes and living costs predictable for working households.
+Keep decisions about growth and development responsive to the people who live here.
+Read more on this issue See all issues Related reading Cost of Living Why Is It So Hard to Buy a Home Here?
+Can Families Still Afford to Live in Ottawa County?
+Browse the Issues Library · Compare candidate positions Follow Meegan Connect with the campaign on social media.
+Facebook Instagram Bluesky Zickus for 89th Michigan House · District 89 ZickusJD@gmail.com Explore Meet Meegan Issues The Choice Get Involved Information Issue & article archive Privacy · Accessibility Send a correction Disclaimer: Any errors are unintentional.
+Please bring them to our attention so we can fix them—also, information changes.
+Positions will always reflect the best information I had at the time.
+I am responsive and open to adjusting.
+Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+All rights reserved.

@@ -1,16 +1,6 @@
-Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck Kelly BreenJanuary 21, 2026
-Michigan Attorney General Dana Nessel, other leaders hold gun violence prevention town hall in Metro Detroit Kelly BreenApril 1, 2024
-Bill to help schools spot behavior risks before violence introduced to Michigan House Kelly BreenMarch 26, 2024
-Rep.
-Breen: More gun law reforms, human trafficking bills in the works for this legislative session Kelly BreenJanuary 17, 2024
-Bipartisan Michigan group to urge $100M+ in school safety, mental health programs Task force to release full recommendations soon Kelly BreenOctober 28, 2022
-Examining potential changes to Michigan's civil justice system for sexual assault Kelly BreenMarch 24, 2022
-Student groups demand action against gun violence at Oxford vigil - The State News (Copy) Kelly BreenJanuary 11, 2022
-Michigan House launches safety task force after Oxford shooting.
-What it hopes to do Kelly BreenJanuary 3, 2022
-Student groups demand action against gun violence at Oxford vigil - The State News Kelly BreenDecember 8, 2021
-There Are A Lot Of Plans To Improve Childcare In Michigan.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN 2026 Candidate Interview: Kelly Breen for State Representative District 21 Kelly Breen July 12, 2026 Fallout over Trump post depicting himself as Jesus-like figure Kelly Breen April 15, 2026 Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck Kelly Breen January 21, 2026 Michigan lawmakers decry Trump moves against education department Kelly Breen February 17, 2025 Court funding legislation on its way to Governor Whitmer Kelly Breen May 10, 2024 Michigan Attorney General Dana Nessel, other leaders hold gun violence prevention town hall in Metro Detroit Kelly Breen April 1, 2024 Bill to help schools spot behavior risks before violence introduced to Michigan House Kelly Breen March 26, 2024 Rep.
+Breen: More gun law reforms, human trafficking bills in the works for this legislative session Kelly Breen January 17, 2024 Bipartisan Michigan group to urge $100M+ in school safety, mental health programs Task force to release full recommendations soon Kelly Breen October 28, 2022 Electric Vehicle Production and Policy with Nancy Pelosi Kelly Breen October 26, 2022 Examining potential changes to Michigan's civil justice system for sexual assault Kelly Breen March 24, 2022 Student groups demand action against gun violence at Oxford vigil - The State News (Copy) Kelly Breen January 11, 2022 Michigan House launches safety task force after Oxford shooting.
+What it hopes to do Kelly Breen January 3, 2022 Student groups demand action against gun violence at Oxford vigil - The State News Kelly Breen December 8, 2021 There Are A Lot Of Plans To Improve Childcare In Michigan.
 Here's What They Do.
-Kelly BreenOctober 20, 2021
-New $70B state budget helps child care, state police and direct care health workers Kelly BreenSeptember 28, 2021
-Bipartisan bill package aims to increase childcare access and lower costs Kelly BreenSeptember 21, 2021
+Kelly Breen October 20, 2021 New $70B state budget helps child care, state police and direct care health workers Kelly Breen September 28, 2021 Bipartisan bill package aims to increase childcare access and lower costs Kelly Breen September 21, 2021 Bi-partisan legislation introduced to support child care providers, parents Kelly Breen June 24, 2021 Child Care Legislation Aims to Grow Access, Create Incentives for Industry Kelly Breen June 17, 2021 Bill Extends Foreclosure Avoidance to Commercial Property Kelly Breen June 17, 2021 Older WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

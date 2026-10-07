@@ -1,32 +1,134 @@
 [
-"http://miamidade.electionsfl.org/vrservices/mbrs",
-"https://ehrforcongress.us/",
-"https://ehrforcongress.us/fl-28-debates",
-"https://ehrforcongress.us/meet-phil",
-"https://ehrforcongress.us/press",
-"https://ehrforcongress.us/privacy-policy",
-"https://ehrforcongress.us/volunteer",
-"https://ehrforcongress.us/voter-information",
-"https://ehrforcongress.us/voter-information?share=facebook",
-"https://ehrforcongress.us/voter-information?share=x",
-"https://facebook.com/PhilEhrFlorida",
-"https://instagram.com/phil.ehr?hl=en",
-"https://miamidade.electionsfl.org/vrservices/mbrs",
-"https://miamidade.gov/global/service.page?Mduid_service=ser151187731708822",
-"https://miamidade.gov/global/service.page?Mduid_service=ser1511962555914873",
-"https://registertovoteflorida.gov/home",
-"https://secure.actblue.com/donate/phil-ehr",
-"https://secure.actblue.com/donate/phil-ehr-for-congress",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=100",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=1000",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=25",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=250",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=5",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=500",
-"https://secure.actblue.com/donate/phil-ehr-for-congress?amount=750",
-"https://twitter.com/PhilEhr",
-"https://votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Early-Voting",
-"https://votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Election-Day-Voting",
-"https://votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Vote-by-Mail",
-"https://youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=5"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=500"
+},
+{
+"text": "$750",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress?amount=750"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/phil-ehr-for-congress"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "Deadline to register to vote: October 5, 2026",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "FL-28 Debate Request: Two Public Debates in Miami-Dade and Monroe",
+"href": "https://ehrforcongress.us/fl-28-debates/"
+},
+{
+"text": "Home",
+"href": "https://ehrforcongress.us/"
+},
+{
+"text": "Meet Phil",
+"href": "https://ehrforcongress.us/meet-phil/"
+},
+{
+"text": "Miami-Dade County Voters",
+"href": "https://miamidade.electionsfl.org/vrservices/mbrs"
+},
+{
+"text": "Miami-Dade County Voters",
+"href": "https://www.miamidade.gov/global/service.page?Mduid_service=ser151187731708822"
+},
+{
+"text": "Miami-Dade County Voters",
+"href": "https://www.miamidade.gov/global/service.page?Mduid_service=ser1511962555914873"
+},
+{
+"text": "Miami-Dade Voters Vote-by-Mail Request",
+"href": "http://miamidade.electionsfl.org/vrservices/mbrs"
+},
+{
+"text": "Monroe County Voters",
+"href": "https://www.votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Early-Voting"
+},
+{
+"text": "Monroe County Voters",
+"href": "https://www.votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Election-Day-Voting"
+},
+{
+"text": "Monroe County Voters",
+"href": "https://www.votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Vote-by-Mail"
+},
+{
+"text": "Monroe Voters Vote-by-Mail Request",
+"href": "https://www.votemonroeflkeys.gov/Voting/Three-Ways-to-Vote/Vote-by-Mail"
+},
+{
+"text": "Press",
+"href": "https://ehrforcongress.us/press/"
+},
+{
+"text": "Priorities",
+"href": "https://ehrforcongress.us/meet-phil/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ehrforcongress.us/privacy-policy/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://ehrforcongress.us/voter-information/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://ehrforcongress.us/voter-information/?share=x"
+},
+{
+"text": "Volunteer",
+"href": "https://ehrforcongress.us/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://ehrforcongress.us/voter-information/"
+},
+{
+"text": "[image: Vote Phil Ehr]",
+"href": "https://ehrforcongress.us/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/PhilEhr"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/PhilEhrFlorida"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/phil.ehr/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+}
 ]

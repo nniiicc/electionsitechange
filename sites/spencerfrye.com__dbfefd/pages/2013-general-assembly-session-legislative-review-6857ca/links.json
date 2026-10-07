@@ -1,16 +1,58 @@
 [
-"http://gbpi.org/some-tax-breaks-might-not-work",
-"http://legis.ga.gov/Legislation/en-US/MemberLegislation.aspx?Member=819&Session=23",
-"http://spencerfrye.com/capitol-corner/let-the-sunshine-in.html",
-"https://facebook.com/SpencerFryeStateHouse",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/volunteer",
-"https://x.com/spencerfrye"
+{
+"text": "A full legislative portfolio for Spencer can be found here",
+"href": "http://www.legis.ga.gov/Legislation/en-US/MemberLegislation.aspx?Member=819&Session=23"
+},
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/category/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+},
+{
+"text": "previous Capitol Corner post here",
+"href": "http://www.spencerfrye.com/capitol-corner/let-the-sunshine-in.html"
+},
+{
+"text": "wrote about the need for more effective tax expenditure oversight here",
+"href": "http://gbpi.org/some-tax-breaks-might-not-work"
+}
 ]

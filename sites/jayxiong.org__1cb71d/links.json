@@ -1,26 +1,106 @@
 [
-"http://lawhelpmn.org/",
-"https://ilcm.org/",
-"https://ilrc.org/",
-"https://immigrationadvocates.org/",
-"https://jayxiong.org/",
-"https://jayxiong.org/about",
-"https://jayxiong.org/burmese",
-"https://jayxiong.org/donate",
-"https://jayxiong.org/karen",
-"https://jayxiong.org/lao",
-"https://jayxiong.org/m/account",
-"https://jayxiong.org/m/create-account",
-"https://jayxiong.org/moob",
-"https://jayxiong.org/shelter-resources",
-"https://jayxiong.org/somali",
-"https://jayxiong.org/spanish",
-"https://klobuchar.senate.gov/public/index.cfm/contact",
-"https://locator.ice.gov/odls",
-"https://mccollum.house.gov/contact",
-"https://miracmn.com/resources",
-"https://mnkaren.org/resources/outside-services/immigration-services",
-"https://secure.actblue.com/donate/repjayxiong",
-"https://smith.senate.gov/contact",
-"https://stpaul.gov/departments/city-attorney/immigration-resources"
+{
+"text": "About",
+"href": "https://jayxiong.org/about"
+},
+{
+"text": "Congresswoman betty mccollum",
+"href": "https://mccollum.house.gov/contact"
+},
+{
+"text": "Create Account",
+"href": "https://jayxiong.org/m/create-account"
+},
+{
+"text": "DONATE",
+"href": "https://jayxiong.org/donate"
+},
+{
+"text": "Detainee Locator System",
+"href": "https://locator.ice.gov/odls/#/search"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/repjayxiong"
+},
+{
+"text": "Home",
+"href": "https://jayxiong.org/"
+},
+{
+"text": "Immigrant Legal Resources Center",
+"href": "https://www.ilrc.org/"
+},
+{
+"text": "Immigration Advocates Network",
+"href": "https://www.immigrationadvocates.org/"
+},
+{
+"text": "KAREN organization of mn",
+"href": "https://mnkaren.org/resources/outside-services/immigration-services/"
+},
+{
+"text": "LawHelpMN Guide",
+"href": "http://lawhelpmn.org/"
+},
+{
+"text": "Learn more",
+"href": "https://jayxiong.org/burmese"
+},
+{
+"text": "Learn more",
+"href": "https://jayxiong.org/karen"
+},
+{
+"text": "Learn more",
+"href": "https://jayxiong.org/lao"
+},
+{
+"text": "Learn more",
+"href": "https://jayxiong.org/moob"
+},
+{
+"text": "Learn more",
+"href": "https://jayxiong.org/somali"
+},
+{
+"text": "Learn more",
+"href": "https://jayxiong.org/spanish"
+},
+{
+"text": "MN Immigrant Law Center",
+"href": "https://www.ilcm.org/"
+},
+{
+"text": "MN Immigrant Rights Action Committee",
+"href": "https://www.miracmn.com/resources"
+},
+{
+"text": "My Account",
+"href": "https://jayxiong.org/m/account"
+},
+{
+"text": "Shelter resources",
+"href": "https://jayxiong.org/shelter-resources"
+},
+{
+"text": "Sign In",
+"href": "https://jayxiong.org/m/account"
+},
+{
+"text": "St. Paul City Attorney",
+"href": "https://www.stpaul.gov/departments/city-attorney/immigration-resources"
+},
+{
+"text": "[image: Jay Xiong MN House]",
+"href": "https://jayxiong.org/"
+},
+{
+"text": "us senator amy klubchar",
+"href": "https://www.klobuchar.senate.gov/public/index.cfm/contact"
+},
+{
+"text": "us senator tina smith",
+"href": "https://www.smith.senate.gov/contact/"
+}
 ]

@@ -1,21 +1,86 @@
 [
-"http://elections.il.gov/",
-"http://wwaction.org/",
-"https://facebook.com/ReelectTheresaMah",
-"https://herrerastrategy.com/",
-"https://instagram.com/votetheresamah",
-"https://mobilize.us/unitedworkingfamilies/event/602511",
-"https://secure.actblue.com/donate/theresa-mah-1",
-"https://theresamah.com/",
-"https://theresamah.com/about",
-"https://theresamah.com/about-theresa",
-"https://theresamah.com/cart",
-"https://theresamah.com/committeeperson",
-"https://theresamah.com/contact-us",
-"https://theresamah.com/get-involved",
-"https://theresamah.com/pledge-to-vote",
-"https://theresamah.com/privacy-policy",
-"https://theresamah.com/the-district",
-"https://theresamah.com/volunteer",
-"https://twitter.com/theresamah4rep"
+{
+"text": "0",
+"href": "https://www.theresamah.com/cart"
+},
+{
+"text": "About Theresa",
+"href": "https://www.theresamah.com/about-theresa"
+},
+{
+"text": "Back",
+"href": "https://www.theresamah.com/"
+},
+{
+"text": "Committeeperson",
+"href": "https://www.theresamah.com/committeeperson"
+},
+{
+"text": "Contact Us",
+"href": "https://www.theresamah.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/theresa-mah-1"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/unitedworkingfamilies/event/602511/"
+},
+{
+"text": "Folder: About",
+"href": "https://www.theresamah.com/about"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.theresamah.com/get-involved"
+},
+{
+"text": "Herrera Strategy",
+"href": "https://herrerastrategy.com"
+},
+{
+"text": "Pledge To Vote",
+"href": "https://www.theresamah.com/contact-us"
+},
+{
+"text": "Pledge to vote",
+"href": "https://www.theresamah.com/pledge-to-vote"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.theresamah.com/privacy-policy"
+},
+{
+"text": "The District",
+"href": "https://www.theresamah.com/the-district"
+},
+{
+"text": "Volunteer",
+"href": "https://www.theresamah.com/volunteer"
+},
+{
+"text": "[image: Theresa Mah for State Rep]",
+"href": "https://www.theresamah.com/"
+},
+{
+"text": "[image: Warehouse Workers Action][image: Warehouse Workers Action]",
+"href": "http://www.wwaction.org"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/theresamah4rep"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ReelectTheresaMah/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votetheresamah/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

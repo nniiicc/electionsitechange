@@ -1,25 +1,18 @@
-Website Privacy Policy
-At MATT HALL FOR STATE REPRESENTATIVE [“Organization” or “we”], we are committed to protecting the privacy of our online guests, customers, members, and friends (collectively, “our users” or, as applicable to yourself, “you”).
+Home About Issues Request a Yard Sign DONATE DONATE Website Privacy Policy At MATT HALL FOR STATE REPRESENTATIVE [“ Organization ” or “ we ”], we are committed to protecting the privacy of our online guests, customers, members, and friends (collectively, “ our users ” or, as applicable to yourself, “ you ”).
 We believe that maintaining privacy on the internet is very important and hope you will read this Privacy Policy carefully so that you will clearly understand both our commitment to you and your privacy and our method of collecting and using information.
-This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit the website electmatthall.com (our “Website“) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit the website electmatthall.com (our “ Website “) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 This Privacy Policy only applies to data gathered on this Website, associated email, and text messaging services, and does not apply to any other website.
 By using the Website, communicating with us by email, or by otherwise submitting personal information to us, you agree to the terms of this Privacy Policy; you give your consent to the collection, storage and use of personal information as explained in this Privacy Policy.
-The term “personal information” refers to non-public information that personally relates to or identifies you, such as your name, password, age, gender, email address, postal mailing address, zip code, home/mobile telephone number, Social Security number and/or taxpayer identification number, and other similar information).
+The term “ personal information ” refers to non-public information that personally relates to or identifies you, such as your name, password, age, gender, email address, postal mailing address, zip code, home/mobile telephone number, Social Security number and/or taxpayer identification number, and other similar information).
 If we combine or associate information from other sources with personal information that you provide directly to us through or in connection with our services, we will treat the combined information as personal information in accordance with this Privacy Policy.
-This Privacy Policy applies to information we collect:
-- On this Website.
-- In email, text, and other electronic messages between you and this Website.
-- When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
-It does not apply to information collected by:
-- Us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
-- Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
+This Privacy Policy applies to information we collect: On this Website.
+In email, text, and other electronic messages between you and this Website.
+When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
+It does not apply to information collected by: Us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 OUR PLEDGE TO YOU.
 We use reasonable best efforts to maintain the confidentiality, integrity, and security of our users’ personal information.
 Keeping user information secure, and using it only as our users agree, are matters of principle for all us.
-With this in mind, here is our commitment to each user:
-- We will restrict access to user information to those who need to know in order to provide services to you, and will educate them according to our internal policies to reinforce the importance of confidentiality and client and user privacy;
-- We will maintain reasonable and customary security standards and procedures to protect information about you; and
-- We will respond quickly to your request to correct inaccurate information.
+With this in mind, here is our commitment to each user: We will restrict access to user information to those who need to know in order to provide services to you, and will educate them according to our internal policies to reinforce the importance of confidentiality and client and user privacy; We will maintain reasonable and customary security standards and procedures to protect information about you; and We will respond quickly to your request to correct inaccurate information.
 UPDATES AND CHANGES TO PRIVACY POLICY.
 We may revise our Privacy Policy at any time.
 In the event of a change in this Privacy Policy, a revised Privacy Policy will promptly be posted to our Website, and the “Updated” date will be changed.
@@ -32,55 +25,35 @@ We call this your “Profile.” From time to time, we may request additional in
 If you choose to provide such information, during registration or otherwise, you are giving us permission to collect, store and use it consistent with this Privacy Policy.
 We may also obtain your personal information from your transactions with us or other users through the services provided through this Website, or from third parties such as credit reporting agencies.
 INFORMATION ABOUT YOU WE COLLECT AND WHY WE GATHER SUCH INFORMATION.
-We collect several types of information from and about users of our Website, including information:
-- That personally relates to or identifies you, such as your name, password, postal address, e-mail address, home/mobile telephone number, or any other identifier by which you may be contacted online or offline (“Personal Information“);
-- That is about you but individually does not identify you, such as political and religious affiliation and leaning, age, or gender; and/or
-- About your internet connection, the equipment you use to access our Website, including but not limited to, website pages viewed, sites visited before visiting this Website, frequency of visits, clickstream data, browser type, operating system, organization name, articles, internet connection speed, presentations viewed, time spent viewing pages of our website or using certain features of our website, demographic data such as server locations, clickstream data, location services, server location, cookies existing on your computer, search criteria used and results, date and time of access or visits to our website, frequency of visits to our website, connection speed, and other information which does not specifically identify you.
-We collect this information:
-- Directly from you when you provide it to us.
-- Automatically as you navigate through the site.
-Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
-- From third-parties.
-Information You Provide to Us.
-The information we collect on or through our Website may include:
-- Information you provide by filling in forms on our Website.
+We collect several types of information from and about users of our Website, including information: That personally relates to or identifies you, such as your name, password, postal address, e-mail address, home/mobile telephone number, or any other identifier by which you may be contacted online or offline (“ Personal Information “); That is about you but individually does not identify you, such as political and religious affiliation and leaning, age, or gender; and/or About your internet connection, the equipment you use to access our Website, including but not limited to, website pages viewed, sites visited before visiting this Website, frequency of visits, clickstream data, browser type, operating system, organization name, articles, internet connection speed, presentations viewed, time spent viewing pages of our website or using certain features of our website, demographic data such as server locations, clickstream data, location services, server location, cookies existing on your computer, search criteria used and results, date and time of access or visits to our website, frequency of visits to our website, connection speed, and other information which does not specifically identify you.
+We collect this information: Information You Provide to Us .
+The information we collect on or through our Website may include: Information you provide by filling in forms on our Website.
 This includes information provided at the time of registering to use our Website, signing up for newsletters or email notifications, making a contribution, or requesting further information.
 We may also ask you for information when you report a problem with our Website.
-- Records and copies of your correspondence (including email addresses), if you contact us.
-- Your responses to surveys that we might ask you to complete for research purposes.
-- Information you provide when you participate in surveys or promotions.
-- Details of any transactions with the Organization that you carry out through our Website.
+Records and copies of your correspondence (including email addresses), if you contact us.
+Your responses to surveys that we might ask you to complete for research purposes.
+Information you provide when you participate in surveys or promotions.
+Details of any transactions with the Organization that you carry out through our Website.
 You may be required to provide financial information before completing any transaction through our Website.
-- Your search queries on the Website.
+Your search queries on the Website.
 Information We Collect Through Automatic Data Collection Technologies.
-As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
-- Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
-- Information about your computer and internet connection, including your IP address, operating system, and browser type.
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+Information about your computer and internet connection, including your IP address, operating system, and browser type.
 The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties.
-It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
-- Estimate our audience size and usage patterns.
-- Store information about your preferences, allowing us to customize our Website according to your individual interests.
-- Speed up your searches.
-- Recognize you when you return to our Website.
-The technologies we use for this automatic data collection may include:
-- Cookies (or browser cookies).
+It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to: Estimate our audience size and usage patterns.
+Store information about your preferences, allowing us to customize our Website according to your individual interests.
+Speed up your searches.
+Recognize you when you return to our Website.
+The technologies we use for this automatic data collection may include: Cookies (or browser cookies).
 When you visit the Website, we may send one or more cookies.
 “Cookies” are small text files containing a string of alphanumeric characters that may be placed on your web browser.
 Cookies make it easier for you to navigate our Website by, among other things, “remembering” your identity so that you do not have to input your password multiple times as you navigate between webpages on the Website and/or as you access certain services we may provide.
 This use of cookies for authentication (i.e., verifying that you are who you say you are) is an essential component of site security.
 You can set your web browser to inform you when cookies are set or to prevent cookies from being set.
-- Flash Cookies.
-Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website.
-Flash cookies are not managed by the same browser settings as are used for browser cookies.
-- Web Beacons.
+Web Beacons .
 Pages of our Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Campaign, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
-- Server Logs.
+Server Logs.
 Server Logs can be either a single log file or several log files automatically created and maintained by a server of activity performed by the server, which can include information about any transaction you conduct with the server.
-Please note that if you decline to use cookies, you may experience reduced functionality or slower site response times.
-Declining to use our authentication-related cookies may prevent you from using the Website altogether.
-You may also clear cookies from your computer via your web browser settings.
-You may also wish to use a Google Analytics opt-out web browser add-on.
-Information on this option is available at: http://support.google.com/analytics/bin/answer.py?hl=en&answer=2700409 .
 We or our service providers may also collect web surfing data related to your use of our services (e.g., information regarding which of our web pages you access, the frequency of such access, and your product and service preferences).
 This may be accomplished by using cookies, web beacons, page tags or similar tools.
 Such web surfing data may include your Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system and the dates and times that you visit the Website.
@@ -90,7 +63,7 @@ We regularly send email newsletters to our users.
 Users may subscribe or unsubscribe to an email newsletter at any time by changing their email preferences.
 On occasion, we may send emails to individuals such as registrants and members who have provided us with their email address.
 Email recipients may always opt out of any email category at any time by following the unsubscribe instructions included in the email message.
-Emailing Us: We try to respond to email messages requiring a response in accordance with our internal policies.
+Emailing Us : We try to respond to email messages requiring a response in accordance with our internal policies.
 If you email us, your message and email address will be forwarded to the appropriate member of our team.
 We may choose to save this information.
 We are pleased to hear from you.
@@ -106,13 +79,12 @@ We use aggregated information provided by or collected from our users to underst
 We do not and will not sell analytics that identify personal information of our users without written consent from the user.
 HOW AND WHY OUR ORGANIZATION DISCLOSES YOUR INFORMATION TO THIRD PARTIES.
 We limit the sharing of personal information outside our Organization.
-We do not sell, license, lease, or otherwise disclose your personal information to third parties, except as noted below:
-- We may disclose your personal information when such disclosure is legally required or appropriate pursuant to any court orders, subpoenas or any regulations, including responding to court orders and subpoenas, cooperating with government agencies, other regulatory bodies, and law enforcement officials, performing background checks, resolving disputes or performing risk-management functions.
-- We may share personal information with third parties who perform work for us under contract.
-- To help us improve our efforts, we may engage third parties to help us to carry out certain internal functions.
+We do not sell, license, lease, or otherwise disclose your personal information to third parties, except as noted below: We may disclose your personal information when such disclosure is legally required or appropriate pursuant to any court orders, subpoenas or any regulations, including responding to court orders and subpoenas, cooperating with government agencies, other regulatory bodies, and law enforcement officials, performing background checks, resolving disputes or performing risk-management functions.
+We may share personal information with third parties who perform work for us under contract.
+To help us improve our efforts, we may engage third parties to help us to carry out certain internal functions.
 Use of any personal information we share with these third parties is limited to the performance of the task we request.
 The third parties with which we share personal information are required to protect it in a manner similar to the way we protect your personal information.
-- We may make certain automatically collected information about your interactions and activities.
+We may make certain automatically collected information about your interactions and activities.
 Any such publicly available information will be accessible by other users.
 We further reserve the right to disclose any of your personal information as we believe appropriate or necessary to take precautions against liability, to investigate and defend against any third party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the services, or to protect the rights, property or personal safety of our Organization, our users, or others.
 We may also use and disclose personally identifiable information and non-personally identifiable information: to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our website or network; to protect and defend our rights or property or the rights or property of others; and as required by courts or administrative agencies.
@@ -140,18 +112,17 @@ We may also post a notice on or through the Website and the Services in the even
 Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 OPT-OUT POLICY.
 We may at times send you e-mail communications.
-If you prefer not to receive such marketing or promotional e-mails from us, you may unsubscribe completely by emailing us at: [email protected]
-Please note that opt-out requests may take up to twenty-four (24) hours to process.
+If you prefer not to receive such marketing or promotional e-mails from us, you may unsubscribe completely by emailing us at: [email protected] Please note that opt-out requests may take up to twenty-four (24) hours to process.
 Please also note that at times we may need to send you e-mail communications that are transactional in nature such as service or termination announcements or payment confirmations which are communications you will not be able to opt-out of.
 You will be able to modify the information concerning your account by visiting your profile page and editing any information you wish to change.
 You will be able to change your e-mail address, password, contact information, or other login information by visiting your account’s settings page subject to our website policy.
-If you wish to delete your account or need help modifying account information, please contact us at [email protected].
+If you wish to delete your account or need help modifying account information, please contact us at [email protected] .
 We will require up to twenty-four (24) hours to process such requests.
-If you would like us to remove your Personally Identifiable Information from our database, please send a request to: [email protected].
+If you would like us to remove your Personally Identifiable Information from our database, please send a request to: [email protected] .
 We are not responsible for removing your personal information from the lists of any third-party services or other third party who has previously been provided your information in accordance with this notice.
 YOUR CALIFORNIA PRIVACY RIGHTS.
 California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
-To make such a request, please send an email to [email protected].
+To make such a request, please send an email to [email protected] .
 REVIEWING, CHANGING OR CORRECTING INFORMATION.
 You are solely responsible for helping us to maintain the accuracy and completeness of your personal and other information.
 We urge you to review your information regularly to ensure that it is correct and complete.
@@ -165,11 +136,14 @@ By using the service or providing personally identifiable information to us you 
 We may post a notice on our Webpage if a security breach occurs.
 We may also send an email to you at the email address you have provided to us in these circumstances.
 Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
-TEXT MESSAGE PROGRAM PRIVACY
-If you opt in to receive text messages from us, we may use your mobile phone number to send you recurring automated marketing and informational text messages (including SMS and MMS).
+TEXT MESSAGE PROGRAM PRIVACY If you opt in to receive text messages from us, we may use your mobile phone number to send you recurring automated marketing and informational text messages (including SMS and MMS).
 We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign.
 We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and vendors who assist us in the delivery of text messages.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 You may opt out of receiving text messages at any time by replying STOP to any message you receive from us.
 Contact Information.
-If you have any questions regarding this Privacy Policy, please contact: [email protected].
+If you have any questions regarding this Privacy Policy, please contact: [email protected] .
+Fighting for Michigan's future and delivering results for Southwest Michigan.
+PRIVACY POLICY · TERMS AND CONDITIONS Home About Issues Request a Yard Sign Donate Paid for by Matt Hall for State Representative.
+5455 Gull Rd.
+STE D #147, Kalamazoo, MI 49048 Home About Issues Request a Yard Sign DONATE

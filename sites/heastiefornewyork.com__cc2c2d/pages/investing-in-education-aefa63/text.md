@@ -1,4 +1,5 @@
-Children are our future and it’s absolutely critical that we invest in their futures.
+Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Carl E.
+Heastie Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment Children are our future and it’s absolutely critical that we invest in their futures.
 Speaker Heastie has fought to boost the state’s investment in education to ensure every student has the resources and support they need to thrive.
 Since 2015, he has helped secure more than $3.5 billion in additional school aid funding.
 To shift the focus from high-stakes testing to students’ individual learning needs, he successfully eliminated the state mandate that tied teacher and principal evaluations to student performance on standardized tests.
@@ -8,3 +9,6 @@ Less than two weeks after becoming speaker, Speaker Heastie launched his Higher 
 Since 2015, the initiative has increased funding for college opportunity programs by more than 40%, increased base aid for community college students to slow the rising cost of tuition, provided millions for capital improvements and increased child care services on public campuses.
 It also led to the creation of the Foster Youth College Success initiative, which is tasked with improving higher education outcomes for young people in foster care.
 Speaker Heastie also helped create the Excelsior Scholarship program, which provides free college tuition to state universities and colleges for low- and middle-income students.
+Back to Top Donate FRIENDS OF CARL E.
+HEASTIE P.O.
+BOX 840 BRONX, NY 10469 info@heastiefornewyork.com

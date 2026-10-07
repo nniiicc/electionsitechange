@@ -1,9 +1,12 @@
 {
  "description": "votetori.com's campaign",
  "final_url": "https://www.votetori.com/",
- "paid_for_by": "Paid for by Tori Schafer for Missouri | Kenya Wright Gumbs, Treasurer",
+ "fingerprint": "71740793b5ef4904dfd449874893128b4cd481f6",
+ "format": 3,
+ "paid_for_by": "Paid for by Tori Schafer for Missouri",
  "title": "Tori Schafer for Missouri",
  "years_mentioned": [
+  "2000",
   "2026"
  ]
 }

@@ -1,6 +1,8 @@
-ASSEMBLY MINORITY LEADER RA WELCOMES PRESIDENT OF LONG ISLAND FEDERATION OF LABOR JOHN DURSO TO CAPITOL
-May 18
+top of page DONATE SUBSCRIBE MEET ED ON THE ISSUES LATEST UPDATES GET INVOLVED VOLUNTEER LAWN SIGN REQUEST GET IN TOUCH EVENTS Use tab to navigate through the menu items.
+ALL ARTICLES PRESS RELEASES LATEST UPDATES MEDIA ADVISORY Search ASSEMBLY MINORITY LEADER RA WELCOMES PRESIDENT OF LONG ISLAND FEDERATION OF LABOR JOHN DURSO TO CAPITOL May 18 1 min read Pictured L to R: Assemblyman Mike Durso, John Durso, Assemblyman Angelo Morinello, Leader Ra.
 Today, Assembly Minority Leader Ed Ra welcomed the Long Island Federation of Labor President John Durso as part of the Italian American Day celebration at the Capitol.
 The New York Conference of Italian American State Legislators hosts the annual event to promote and celebrate Italian culture, fellowship and traditional Italian food and festivities.
 Durso was presented with an official Assembly Resolution by Leader Ra and members of the Assembly Minority Conference in recognition of his lifelong work and civic engagement with the Italian American community.
 Leader Ra is the former President and current Treasurer of the Conference of Italian American Legislators.
+Recent Posts See All ASSEMBLYMAN ED RA ANNOUNCES WINNER OF 2026 ‘THERE OUGHT TO BE A LAW’ CONTEST ASSEMBLYMAN ED RA PRESENTS CAPITOL-FLOWN FLAGS TO LOCAL ELEMENTARY SCHOOLS ASSEMBLY MINORITY LEADER RA CELEBRATES RECOGNITION OF ELLEN ANDRASICK AS SENIOR CITIZEN OF THE YEAR ENDORSEMENTS GET THE LATEST UPDATES Home Meet Ed Latest Updates Events Get Involved Get In Touch © # by Ed Ra.
+Powered and secured by Wix Friends of Ed Ra ​ PO Box 8088 Garden City, NY 11530 ​ ​ ​ ​ ​ voteedra@gmail.com bottom of page

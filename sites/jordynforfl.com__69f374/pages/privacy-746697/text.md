@@ -1,14 +1,6 @@
-Jordyn Balderas for State House
-Privacy Policy and Terms of Service
-Effective date: September 14, 2026
-This website, jordynforfl.com, is operated by the campaign of Jordyn Balderas, Democrat for Florida State House of Representatives District 34 (the "Campaign," "we," "us").
+← Back to the site Jordyn Balderas for State House Privacy Policy and Terms of Service Effective date: September 14, 2026 PEOPLE POWERED This website, jordynforfl.com, is operated by the campaign of Jordyn Balderas, Democrat for Florida State House of Representatives District 34 (the "Campaign," "we," "us").
 This page explains what information we collect, how we use it, and the terms that apply to our website and our text messaging program.
-Privacy Policy
-What we collect.
-When you fill out a form on this site, we collect the information you choose to give us: your name, email address, phone number, ZIP code, and the ways you want to help (for example, joining the campaign, signing up for email or text updates, or chipping in).
-Our website analytics are cookieless and collect basic, anonymous usage information such as pages visited, referring site, and screen size.
-We do not use advertising cookies.
-How we use it.
+Privacy Policy How we use it.
 We use your information to communicate with you about the Campaign (by email or, with your consent, by text message), organize volunteer activity and events, process contributions, and comply with applicable law.
 Text messaging consent data.
 Regardless of the below, mobile phone numbers and text messaging opt-in and consent records collected through our text sign-up are used for the Campaign's own messaging program and are not shared with unaffiliated third parties for their own marketing or promotional purposes.
@@ -22,25 +14,20 @@ You can opt out of text messages at any time by replying STOP.
 You can ask us to correct or delete your information by contacting us (see Contact below).
 Children.
 This site is not directed to children under 13, and we do not knowingly collect information from them.
-Text Messaging (SMS) Terms
-By signing up for texts, you consent to receive recurring text messages from Jordyn Balderas for State House, including voter contact, donation asks, event announcements, and informational messages, at the phone number you provided, including messages sent by autodialer.
+Text Messaging (SMS) Terms By signing up for texts, you consent to receive recurring text messages from Jordyn Balderas for State House, including voter contact, donation asks, event announcements, and informational messages, at the phone number you provided, including messages sent by autodialer.
 Consent is not a condition of any purchase or contribution.
-- Message frequency varies.
-- Message and data rates may apply.
+Message frequency varies.
+Message and data rates may apply.
 Your carrier's standard rates apply to every message sent or received.
-- Opt out at any time by replying STOP to any message.
+Opt out at any time by replying STOP to any message.
 You will receive a final message confirming you have been unsubscribed.
-- Get help by replying HELP to any message, or by contacting us below.
-- Opt back in at any time by texting START or by signing up again at jordynforfl.com/text/.
-- Carriers are not liable for delayed or undelivered messages.
-Terms of Service
-This website and its content are provided for informational purposes, as is and as available, without warranties of any kind.
+Get help by replying HELP to any message, or by contacting us below.
+Opt back in at any time by texting START or by signing up again at jordynforfl.com/text/.
+Carriers are not liable for delayed or undelivered messages.
+Terms of Service This website and its content are provided for informational purposes, as is and as available, without warranties of any kind.
 By using this site you agree to use it lawfully and not to interfere with its operation.
 Site content, including text and graphics, belongs to the Campaign or its licensors and may not be used to imply endorsement without permission.
 Links to third-party sites, including ActBlue, are provided for convenience; we are not responsible for their content or practices.
 We may update this page from time to time, and the effective date above reflects the latest revision.
 These terms are governed by the laws of the State of Florida.
-Contact
-Jordyn Balderas for State House
-Vero Beach, Florida
-Email: colby@shockthepolls.com
+Contact Jordyn Balderas for State House Vero Beach, Florida Email: colby@shockthepolls.com From the Streets to the State House Paid for by Jordyn Balderas, Democrat for Florida State House of Representatives District 34

@@ -1,4 +1,8 @@
-Who Is Kelly Morrison Really Working For?
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Kelly Morrison’s caught with insider trading June 6, 2026 No Comments Who Is Kelly Morrison Really Working For?
 By now, most people in Minnesota’s Third Congressional District have heard the name Kelly Morrison.
 She’s the OB-GYN turned congresswoman who campaigns on women’s health, reproductive rights, and being a voice for the people.
 But a closer look at her financial disclosures tells a very different story — one that every working family in CD3 deserves to hear.
@@ -21,13 +25,10 @@ Government watchdog groups weren’t buying it.
 Dylan Hedtler-Gaudette of the Project On Government Oversight called it a “pretty clear conflict of interest,” noting that as Congress faced upcoming votes on Iran War funding, her constituents couldn’t know whether she was voting for them or for her portfolio.
 Craig Holman of Public Citizen put it plainly: members of Congress sit on confidential information — including policies affecting war and government contracts — and they should not be playing the stock market at all.
 So she didn’t disclose her stock trading and said publicly she was against the war in Iran, at the same time investing into weapons manufacturing technology directly involved in the war… Let that sink in.
-The STOCK Act Violations
-It doesn’t stop with the warship company.
+The STOCK Act Violations It doesn’t stop with the warship company.
 According to a NOTUS review of congressional financial records, Morrison violated the Stop Trading on Congressional Knowledge (STOCK) Act by failing to properly disclose eight financial trades worth somewhere between $1.41 million and $2.91 million.
 She was months — and in one case more than a year — late on the disclosures.
-REPORT OF RECEIPTS
-AND DISBURSEMENTS
-The STOCK Act requires members of Congress to publicly report financial trades within 45 days.
+REPORT OF RECEIPTS AND DISBURSEMENTS The STOCK Act requires members of Congress to publicly report financial trades within 45 days.
 It doesn’t matter who executes the trade.
 You are personally responsible, period.
 The House Committee on Ethics says so in plain writing.
@@ -49,23 +50,20 @@ The people of CD3 — suburban Minneapolis, hardworking families who build thing
 When you tell people how much she is worth and how active her trading is, the reaction is almost always the same: disbelief.
 And then, quickly, anger.
 Because they know — instinctively — that someone with that much wealth trading that many stocks while voting on defense contracts, war funding, and healthcare policy is not there to fight for them.
-The Abortion Issue: What She’s Not Telling You
-Morrison built much of her political identity around her career as an OB-GYN and her advocacy for abortion rights.
+The Abortion Issue: What She’s Not Telling You Morrison built much of her political identity around her career as an OB-GYN and her advocacy for abortion rights.
 It’s a powerful story.
-But here’s what she is not telling voters clearly enough:
-Since the Supreme Court’s Dobbs decision, abortion is a state issue.
+But here’s what she is not telling voters clearly enough: Since the Supreme Court’s Dobbs decision, abortion is a state issue .
 It is no longer a federal constitutional right.
 During her debate with Tad Jude she went back and forth about her stance on abortion when Tad told her “its a state issue, not something we have control over” and Morrison was stuck in her tracks.
 Congress does not have direct power to restore Roe v.
-Wade.
+Wade .
 A member of the U.S.
 House cannot single-handedly change what is now under state jurisdiction.
 Running a federal campaign almost entirely on abortion rights, without clearly explaining to voters what Congress can and cannot actually do, is either a sign that she doesn’t understand the limits of her own office — or that she does, and is counting on voters not to ask.
 The way her stocks are and how she behind closed doors invested into the war while on camera was against it the cards are showing she trying to pull a fast one on CD3.
 Her voters deserve the straight answer: reproductive rights policy now lives at the state capitol, not in Washington.
 That doesn’t mean federal legislators have zero role — they can pass or block federal funding restrictions, for example — but the framing that electing Morrison to Congress will restore abortion rights is, at best, misleading.
-The Bigger Problem: Congress Won’t Fix Itself
-Legislation to ban members of Congress from trading individual stocks has been floating around Washington for years.
+The Bigger Problem: Congress Won’t Fix Itself Legislation to ban members of Congress from trading individual stocks has been floating around Washington for years.
 The STOCK Act itself was supposed to address this.
 It hasn’t.
 The fines are a joke.
@@ -84,8 +82,7 @@ They say it on the campaign trail, and then once they’re in office, the incent
 Because they’re all profiting from the same system.
 It doesn’t matter which party.
 The game is the same.
-What CD3 Deserves
-Minnesota’s Third Congressional District is not a wealthy donor class.
+What CD3 Deserves Minnesota’s Third Congressional District is not a wealthy donor class.
 It’s nurses, contractors, small business owners, teachers, and people who work their whole careers without ever getting to retire early and even retiree aged people are working years after 65 because the rich keep getting richer.
 People whose families built what they have from nothing — no inherited wealth, no connections, no investment manager to quietly grow a seven-figure portfolio while they sleep, unlike Kelly Morrison.
 CD3 deserves a representative who has actually lived that life.
@@ -96,8 +93,22 @@ The question is: when she walks into that chamber and casts a vote on defense sp
 In my opinion she’s just playing the left’s game, spew as much hate as possible, make money and break the laws.
 Your interests?
 Or hers?
-Sources: NOTUS (April 6, 2026 and March 11, 2026), Star Tribune, Quiver Quantitative, congressional financial disclosures filed with the House Committee on Ethics.
-https://www.moomoo.com/news/post/62526944/net-worth-update-representative-kelly-morrison-made-an-estimated-184?level=1&data_ticket=1780776087520251
-https://www.notus.org/congress/kelly-morrison-stock-act-trades
-https://www.startribune.com/kelly-morrison-divesting-stocks-investments-scrutiny-ethics-congress/601762675
-https://www.quiverquant.com/news/Net+Worth+Update%3A+Representative+Kelly+Morrison+Lost+an+Estimated+%24456.4K+in+the+Stock+Market+Last+Month
+Sources: NOTUS (April 6, 2026 and March 11, 2026), Star Tribune, Quiver Quantitative, congressional financial disclosures filed with the House Committee on Ethics. https://www.moomoo.com/news/post/62526944/net-worth-update-representative-kelly-morrison-made-an-estimated-184?level=1&data_ticket=1780776087520251 https://www.notus.org/congress/kelly-morrison-stock-act-trades https://www.startribune.com/kelly-morrison-divesting-stocks-investments-scrutiny-ethics-congress/601762675 https://www.quiverquant.com/news/Net+Worth+Update%3A+Representative+Kelly+Morrison+Lost+an+Estimated+%24456.4K+in+the+Stock+Market+Last+Month Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous H1-B Fraud in Minnesota, Caught Red Handed Next Gun Rights On The Ballot Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

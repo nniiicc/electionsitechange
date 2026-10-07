@@ -1,7 +1,11 @@
 {
  "description": "Set up a monthly contribution to support Greg Abdouch for California Assembly District 45.",
  "final_url": "https://www.abdouchforca.com/donations-monthly",
- "paid_for_by": "PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 \u00a9 2026 Greg Abdouch For CA Assembly",
+ "fingerprint": "b37a34985b7a40c9536169c7f5e97f5f555917e3",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly",
  "title": "Donate Monthly | Greg Abdouch for CA Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

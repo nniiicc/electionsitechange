@@ -1,9 +1,5 @@
-Skip to Videos
--
-• 1/26/26 Analilia’s Full Speech- Bernie Sanders Rally 1/19 Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media
--
-• 1/26/26 Bernie Sander’s Full Speech- 1/19 Rally Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media (https://incurrentmedia.com)
--
-• 1/26/26 No One Left Behind- Bernie & Analilia Speak to Supporters Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media (https://incurrentmedia.com)
--
-• 1/25/26 Bernie Sanders & Analilia Speech: Overflow Room Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media (https://incurrentmedia.com)
+0 Skip to Content Meet Analilia Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English DONATE Open Menu Close Menu Meet Analilia Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English DONATE Open Menu Close Menu Folder: Meet Analilia Back Biography Why I'm Running Issues Videos Vote Endorsements News Volunteer Shop English Back DONATE Getting to Know Analilia Find Out More Skip to Videos All | Debate | Our Ads | Bernie Rally | Why I'm Running | No Big Money in Politics | An Organizer Goes to Washington | Economy for Everyone | Campaign Launch | Bernie Rally , • 2/2/26 Analilia Mejia and Bernie Sanders Speech | Overflow Room Filmed & Edited by Melted Solids Bernie Rally , • 2/2/26 Endorsements: Ras Baraka & Brad Lander Filmed & Edited by Melted Solids Bernie Rally , • 1/26/26 Analilia’s Full Speech- Bernie Sanders Rally 1/19 Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media Bernie Rally , • 1/26/26 Bernie Sander’s Full Speech- 1/19 Rally Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media ( https://incurrentmedia.com ) Bernie Rally , Why I'm Running , • 2/1/26 Abolish ICE Speech- Analilia Mejia at Bernie Sanders Rally Bernie Rally , • 1/26/26 No One Left Behind- Bernie & Analilia Speak to Supporters Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media ( https://incurrentmedia.com ) Bernie Rally , • 1/25/26 Bernie Sanders & Analilia Speech: Overflow Room Filmed & Produced by Jasmine Wang and Danny Moncino of Incurrent Media ( https://incurrentmedia.com ) Paid for by Analilia Mejia for New Jersey.
+Copyright #.
+All Rights Reserved.
+Privacy Policy.
+Website Design: Creative Public Works Creative Contributions: Megan Giulianelli, InCurrent Media, Melted Solids, Conexíon, Stampede Creative Press: New Deal Strategies & Leftlane Strategies Contact Us Videos About Analilia Voting Resources News Press Media Center Issues Work with Us

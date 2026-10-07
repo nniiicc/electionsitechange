@@ -1,4 +1,4 @@
-But we can send the right person to represent South Carolina.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now We Cannot Replace Senator Graham But we can send the right person to represent South Carolina.
 When Senator Lindsey Graham passed, he left a position of power and leadership we cannot fill.
 He was a committee chair and a senior member of the Senate and the Republican Party.
 He brought a disproportionate amount of money back to South Carolina.
@@ -7,6 +7,7 @@ In this race, we will all be junior senators when elected.
 None of us has seniority or experience.
 None of us has ever been a Senator before.
 But we are not the same.
+Enjoyed dinner at the Bistro in Cheraw after the forum last Spring.
 With the Republican nominee yet to be decided, we don’t really know what we’ll get.
 We may have the sister of the late Senator who has been on the periphery of a 30-year career.
 She may get his campaign war chest but she won’t get his committee chairmanships.
@@ -27,6 +28,8 @@ No major benefactors or foreign governments supporting me.
 Just a few thousand dollars and some dedicated volunteers.
 And if you’re a voter who doesn’t like money buying elections, then you should want my campaign.
 A shoestring budget, a start-up mentality, and no paid operatives from the political class.
+Traveled out to Saluda for the Saluda Now broadcast.
+Looking forward to joining the team on the sidelines for football this fall.
 The establishment parties are corporations that generate an incredible amount of revenue.
 The Republican Party holds about $850 million in cash reserves.
 The Democrats are in worse shape, but they managed to raise for Jaime Harrison and they’ll raise this time, too.
@@ -44,11 +47,12 @@ Citizens United v.
 FEC decided in the United States Supreme Court that political campaign donations are protected by free speech and enabled unlimited spending by corporations on political campaigns.
 We now have a pattern of the most expensive elections in history.
 See my blog “It shouldn’t take $30M” for more on how that money is spent.
+Visited Lancaster, SC on Red Rose Festival Day and stopped by some landmarks.
 That money isn’t charity.
 It’s not even an ideological, “go get ‘em!” It’s buying the party’s loyalty to the causes the donor cares about.
 And the loyalty of every candidate the party funds.
 If you are a voter who doesn’t want special interest groups influencing your representatives, you should support this campaign.
-As noted in this blog, I only interviewed with one group and they rejected me.
+As noted in this blog , I only interviewed with one group and they rejected me.
 No others have bothered with me.
 It’s easy to blame the corporations.
 Blame them for spending money on buying influence.
@@ -63,10 +67,7 @@ We are not their customers, not their shareholders, we’re barely even their su
 Although it’s our votes they need to make their product work.
 The Republicans and Democrats are the most corrupt corporations in our nation.
 And they’re the ones running it.
-So if you’re a voter who is sick of watching the duopoly go Toonces the Driving Cat off the fiscal cliff with their reckless spending…
-If you’re a voter who is sick of the dirtiest, scummiest people in your community getting elected…
-If you’re a voter who is sick of the fighting, the bickering, the rage baiting and the culture wars …
-Then you should be supporting this campaign.
+So if you’re a voter who is sick of watching the duopoly go Toonces the Driving Cat off the fiscal cliff with their reckless spending… If you’re a voter who is sick of the dirtiest, scummiest people in your community getting elected… If you’re a voter who is sick of the fighting, the bickering, the rage baiting and the culture wars … Then you should be supporting this campaign.
 I’m not for sale.
 And I’m in this to govern, not to get rich, not to peddle influence, and not to do what the parties tell me to do.
 On November 3rd, South Carolina will send a new Senator to Washington, D.C. and no matter who we pick, that person will not have the experience or the seniority that Lindsey Graham had.
@@ -87,3 +88,6 @@ South Carolina first.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

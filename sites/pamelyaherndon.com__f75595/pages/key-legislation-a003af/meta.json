@@ -1,10 +1,9 @@
 {
  "description": "Explore key legislation championed by State Representative Pamelya Herndon, enhancing public policy through legislative initiatives.",
  "final_url": "https://pamelyaherndon.com/key-legislation",
- "paid_for_by": null,
+ "fingerprint": "61be4c5f43ada3d56368141ca41ff80fc41edf97",
+ "format": 3,
+ "paid_for_by": "authorized by Herndon For NM, Bronwen Murray, Treasurer",
  "title": "Key Legislation",
- "years_mentioned": [
-  "2021",
-  "2026"
- ]
+ "years_mentioned": []
 }

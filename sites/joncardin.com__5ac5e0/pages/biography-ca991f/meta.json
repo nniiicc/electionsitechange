@@ -1,14 +1,23 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/biography",
- "paid_for_by": null,
+ "fingerprint": "c79103a420c2d917ebcb25f23843e8ff82fd142a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Biography",
  "years_mentioned": [
+  "1992",
+  "1994",
+  "1996",
+  "1998",
+  "2001",
+  "2002",
+  "2003",
+  "2007",
   "2013",
   "2014",
   "2015",
   "2018",
-  "2019",
-  "2020"
+  "2019"
  ]
 }

@@ -1,11 +1,42 @@
 [
-"https://carrihicks.com/",
-"https://carrihicks.com/contact",
-"https://carrihicks.com/issues",
-"https://carrihicks.com/meet-carri",
-"https://carrihicks.com/volunteer",
-"https://facebook.com/hicksforsenate",
-"https://instagram.com/hicks4ok",
-"https://secure.actblue.com/donate/hickshomepage",
-"https://twitter.com/hicks4ok"
+{
+"text": "Contact",
+"href": "https://www.carrihicks.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hickshomepage"
+},
+{
+"text": "Home",
+"href": "https://www.carrihicks.com"
+},
+{
+"text": "Issues",
+"href": "https://www.carrihicks.com/issues"
+},
+{
+"text": "Meet Carri",
+"href": "https://www.carrihicks.com/meet-carri"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carrihicks.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/hicksforsenate"
+},
+{
+"text": "[image: Hicks Logo adobe.png]",
+"href": "https://www.carrihicks.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hicks4ok"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/hicks4ok"
+}
 ]

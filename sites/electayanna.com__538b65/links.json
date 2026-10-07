@@ -1,15 +1,66 @@
 [
-"https://electayanna.com/",
-"https://electayanna.com/about-ayanna",
-"https://electayanna.com/blog",
-"https://electayanna.com/privacy-policy",
-"https://electayanna.com/terms-and-conditions",
-"https://electayanna.com/volunteer",
-"https://facebook.com/profile.php?id=61590144766213",
-"https://instagram.com/electayanna",
-"https://ivote.de.gov/VoterView",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/ayanna-khan-flowers-1",
-"https://tiktok.com/@electayanna"
+{
+"text": "About Ayanna",
+"href": "https://electayanna.com/about-ayanna"
+},
+{
+"text": "Blog",
+"href": "https://electayanna.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ayanna-khan-flowers-1"
+},
+{
+"text": "ElectAyanna@gmail.com",
+"href": "mailto:ElectAyanna@gmail.com"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:ayanna@electayanna.com"
+},
+{
+"text": "Home",
+"href": "https://electayanna.com/"
+},
+{
+"text": "Meet Ayanna",
+"href": "https://electayanna.com/about-ayanna"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electayanna.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://electayanna.com/terms-and-conditions"
+},
+{
+"text": "VOTE - November 3rd 2026 Early Voting Begins October 22, 2026",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Volunteer",
+"href": "https://electayanna.com/volunteer"
+},
+{
+"text": "Volunteer for Ayanna",
+"href": "https://electayanna.com/volunteer"
+},
+{
+"text": "[image: Elect Ayanna]",
+"href": "https://electayanna.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590144766213"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electayanna"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electayanna"
+}
 ]

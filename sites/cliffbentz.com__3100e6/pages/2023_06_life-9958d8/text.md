@@ -1,4 +1,4 @@
-I am a right to life candidate.
+Home Meet Cliff About Endorsements Media Issues Volunteer Contact Menu Home Meet Cliff About Endorsements Media Issues Volunteer Contact Donate Life I am a right to life candidate.
 By “right to life” I mean that I believe that life begins at conception and that life should be protected until death by natural causes occurs.
 The only exception to the prohibition against abortion that I support is when the life of the mother is at risk.
 I did not support the assisted suicide law.
@@ -21,3 +21,7 @@ I voted repeatedly to protect life joining my fellow right to life legislators i
 I would vote to reverse Roe v.
 Wade were I on the Supreme Court.
 If I am elected to fill Congressman Greg Walden’s Second Congressional District seat, I will continue to be an advocate for the unborn and I will continue the fight for our most vulnerable in Washington DC.
+Sign Up For Udpates Name Email Sign Up Donate Today We count on people like you to chip in and make sure we can win. $25 $50 $100 $250 $500 Other CONTACT US P.O.
+Box 1048, Ontario, OR 97914 Thank you for visiting my campaign website.
+If your intention was to visit my official website please click here.
+PAGES Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy Menu Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy FOLLOW US Facebook Paid for by Cliff Bentz for Congress

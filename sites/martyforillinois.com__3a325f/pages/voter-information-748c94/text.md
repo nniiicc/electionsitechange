@@ -1,20 +1,3 @@
-TUESDAY NOVEMBER 5, 2024 GENERAL ELECTION
-LIMITED SITE EARLY VOTING BEGINS ON THURSDAY SEPTEMBER 26TH
-EXPANDED SITE EARLY VOTING BEGINS ON MONDAY OCTOBER 21st
-INFORMATION BY COUNTY:
-COOK COUNTY
-https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations
-KANE COUNTY
-https://clerk2.kanecountyil.gov/Elections
-https://www.lakecountyil.gov/4138/November-5-2024-General-Election
-McHENRY COUNTY
-https://www.mchenrycountyil.gov/departments/county-clerk/elections/voter-information
-For ELECTION DAY VOTING LOCATIONS & TIMES, please visit:
-COOK COUNTY
-https://www.cookcountyclerkil.gov/elections/your-voter-information
-KANE COUNTY
-https://clerk2.kanecountyil.gov/Elections
-LAKE COUNTY
-https://www.lakecountyil.gov/4138/November-5-2024-General-Election
-McHENRY COUNTY
-https://www.mchenrycountyil.gov/departments/county-clerk/elections/voter-information
+Contact Donate About Videos News & Events Get Involved Voter Info 52nd District Map Voter Information Endorsements Calendar In the News Select Page Voter Information TUESDAY NOVEMBER 5, 2024 GENERAL ELECTION LIMITED SITE EARLY VOTING BEGINS ON THURSDAY SEPTEMBER 26TH EXPANDED SITE EARLY VOTING BEGINS ON MONDAY OCTOBER 21st INFORMATION BY COUNTY: COOK COUNTY https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations KANE COUNTY https://clerk2.kanecountyil.gov/Elections LAKE COUNTY https://www.lakecountyil.gov/4138/November-5-2024-General-Election McHENRY COUNTY https://www.mchenrycountyil.gov/departments/county-clerk/elections/voter-information For ELECTION DAY VOTING LOCATIONS & TIMES, please visit: COOK COUNTY https://www.cookcountyclerkil.gov/elections/your-voter-information KANE COUNTY https://clerk2.kanecountyil.gov/Elections LAKE COUNTY https://www.lakecountyil.gov/4138/November-5-2024-General-Election McHENRY COUNTY https://www.mchenrycountyil.gov/departments/county-clerk/elections/voter-information Get our latest updates on social media, click on an icon below: Follow Follow Follow Paid for by Martin McLaughlin Republican for State House.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Martin McLaughlin Republican for State House.
+All Rights Reserved.

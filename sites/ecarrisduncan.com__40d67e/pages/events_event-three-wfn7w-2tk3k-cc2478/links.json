@@ -1,15 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Wilmington+Selectboard+Meeting+&dates=20240820T220000Z%2F20240820T230000Z",
-"https://ecarrisduncan.com/",
-"https://ecarrisduncan.com/about-me",
-"https://ecarrisduncan.com/cart",
-"https://ecarrisduncan.com/core-issues",
-"https://ecarrisduncan.com/events",
-"https://ecarrisduncan.com/events/adams-farm-concert-series",
-"https://ecarrisduncan.com/events/event-three-wfn7w-2tk3k?format=ical",
-"https://ecarrisduncan.com/events/halifax-select-board-meeting-n27d2",
-"https://ecarrisduncan.com/my-story",
-"https://ecarrisduncan.com/services",
-"https://ecarrisduncan.com/updates",
-"https://secure.actblue.com/donate/emily-carris-duncan-for-state-representative-1"
+{
+"text": "0",
+"href": "https://www.ecarrisduncan.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ecarrisduncan.com/events"
+},
+{
+"text": "Core Issues",
+"href": "https://www.ecarrisduncan.com/core-issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emily-carris-duncan-for-state-representative-1"
+},
+{
+"text": "Events",
+"href": "https://www.ecarrisduncan.com/events"
+},
+{
+"text": "Folder: About Me",
+"href": "https://www.ecarrisduncan.com/about-me"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wilmington+Selectboard+Meeting+&dates=20240820T220000Z%2F20240820T230000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ecarrisduncan.com/events/event-three-wfn7w-2tk3k?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.ecarrisduncan.com/my-story"
+},
+{
+"text": "Next Next August 30 Adam's Farm Concert Series",
+"href": "https://www.ecarrisduncan.com/events/adams-farm-concert-series"
+},
+{
+"text": "Previous Previous August 20 Halifax Select Board Meeting",
+"href": "https://www.ecarrisduncan.com/events/halifax-select-board-meeting-n27d2"
+},
+{
+"text": "Services",
+"href": "https://www.ecarrisduncan.com/services"
+},
+{
+"text": "Thoughts + Updates",
+"href": "https://www.ecarrisduncan.com/updates"
+},
+{
+"text": "[image: Emily Carris Duncan]",
+"href": "https://www.ecarrisduncan.com/"
+}
 ]

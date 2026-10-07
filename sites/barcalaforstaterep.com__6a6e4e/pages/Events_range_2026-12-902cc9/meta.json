@@ -1,7 +1,11 @@
 {
  "description": "Jessie Barcala Campaign Events",
  "final_url": "https://www.barcalaforstaterep.com/Events?range=2026-12",
+ "fingerprint": "9fec4e771d12d5c85f0d15f6311edd83c0f7a947",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner",
  "title": "Jessie Barcala Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

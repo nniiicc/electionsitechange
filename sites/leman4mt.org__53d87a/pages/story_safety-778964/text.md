@@ -1,4 +1,4 @@
-Out here, safety isn't an elective government program or a luxury service.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Safety × Out here, safety isn't an elective government program or a luxury service.
 It's a non-negotiable obligation.
 The primary purpose of government is to protect your constitutional rights, and freedom from being harmed by criminals is a basic, foundational function of the state.
 But keeping our communities safe requires seamless cooperation among all levels of law enforcement.
@@ -16,4 +16,6 @@ We need a representative in Helena who understands that public safety requires p
 Demanding seamless cooperation across law enforcement and bringing practical leadership to public safety?
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

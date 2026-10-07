@@ -1,6 +1,3 @@
-Heather Fitzpatrick
-Great to meet Heather Fitzpatrick, candidate for Westford Select Board!
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Heather Fitzpatrick Apr 21 Written By James Arciero Great to meet Heather Fitzpatrick, candidate for Westford Select Board!
 We talked about where she grew up, her past experiences on local town committees and her interest in running for Select Board!
-Written By James Arciero
-Previous
-Next
+James Arciero Previous Previous Bob Shaffer Next Next Meghan O’Connell Paid for by the Committee to Elect Jim Arciero

@@ -1,5 +1,4 @@
-Meet Ashley
-Forward.
+News About The Opponent Donate Select Page Meet Ashley Forward.
 Together.
 I am Ashley Painter, a 33-year-old railroad wife and mother of two (Noah, 8, Henry, 4).
 I’m a former human services worker, current small business owner, and homemaker, running to represent you in the South Carolina House of Representatives because working families need more representation in our state legislature.
@@ -26,4 +25,4 @@ We need lawmakers who know what childcare, buying a home, and purchasing health 
 We need lawmakers who want to create wealth for our citizens, rather than monopolize it for corporations.
 We also need lawmakers who understand that their policies can carry deadly consequences.
 I will be the lawmaker focused on policies.
-Let’s end the culture wars in Columbia and spend our time and money on proven solutions for our families.
+Let’s end the culture wars in Columbia and spend our time and money on proven solutions for our families. © #—Paid for by Elect Ashley Painter | Privacy Policy & Terms Follow Follow

@@ -1,8 +1,3 @@
-News
-Read the Latest Updates
-“Independent” Democrats Unite Behind Beating Democrat Garcia
-Democrat candidates in Illinois’ 4th District fighting for power, NOT fighting for the good people of the 4th Congressional District.
-This Tribune piece captures a surprising moment: five independent (mostly…
-Restoring Integrity: Addressing Local Corruption
-Voters in the 4th District deserve transparency and accountability from their leaders.
-Recent reports, such as the investigation by Patch.com regarding suburban municipal spending, highlight why we need a Representative…
+Skip to content Home Meet Lupe Values News Contact Home Meet Lupe Values News Contact News Read the Latest Updates “Independent” Democrats Unite Behind Beating Democrat Garcia May 5, 2026 Democrat candidates in Illinois’ 4th District fighting for power, NOT fighting for the good people of the 4th Congressional District.
+This Tribune piece captures a surprising moment: five independent (mostly… Read More Restoring Integrity: Addressing Local Corruption April 4, 2026 Voters in the 4th District deserve transparency and accountability from their leaders.
+Recent reports, such as the investigation by Patch.com regarding suburban municipal spending, highlight why we need a Representative… Read More Home Meet Lupe Values News Contact Copyright © # Lupe Castillo for Congress Paid for by Lupe Castillo for Congress Scroll to Top Review My Order 0 Remove Use setting Suggested for you Subtotal Taxes & shipping calculated at checkout Checkout 0 Notifications

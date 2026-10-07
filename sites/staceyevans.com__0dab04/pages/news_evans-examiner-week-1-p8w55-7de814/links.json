@@ -1,25 +1,110 @@
 [
-"http://youtube.com/@repstaceyevans",
-"https://facebook.com/StaceyEvansGA",
-"https://instagram.com/evansforgeorgia",
-"https://legis.ga.gov/?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72172?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72202?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72387?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAROGMXEAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAROGMXIAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2",
-"https://staceyevans.com/",
-"https://staceyevans.com/cart",
-"https://staceyevans.com/contact",
-"https://staceyevans.com/ga-house-district-57",
-"https://staceyevans.com/get-involved",
-"https://staceyevans.com/issues",
-"https://staceyevans.com/meet-stacey",
-"https://staceyevans.com/news",
-"https://staceyevans.com/news/evans-examiner-week-1-6dep3",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr",
-"https://staceyevans.com/news?author=6941670c17540a6865bb3789",
-"https://staceyevans.com/privacy-policy-1",
-"https://x.com/EvansforGeorgia"
+{
+"text": "0",
+"href": "https://www.staceyevans.com/cart"
+},
+{
+"text": "A link to the Georgia General Assembly Website",
+"href": "https://www.legis.ga.gov/?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Contact Us",
+"href": "https://www.staceyevans.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2"
+},
+{
+"text": "Elijah Johnson",
+"href": "https://www.staceyevans.com/news?author=6941670c17540a6865bb3789"
+},
+{
+"text": "GA House District 57",
+"href": "https://www.staceyevans.com/ga-house-district-57"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staceyevans.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.staceyevans.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://www.staceyevans.com/meet-stacey"
+},
+{
+"text": "News",
+"href": "https://www.staceyevans.com/news"
+},
+{
+"text": "Next Next Evans Examiner: Budget Week",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-6dep3"
+},
+{
+"text": "Previous Previous Evans Examiner: Week 3",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staceyevans.com/privacy-policy-1"
+},
+{
+"text": "Read House Bill 1050 Here",
+"href": "https://www.legis.ga.gov/legislation/72387?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Read about Senate Bill 389 Here",
+"href": "https://www.legis.ga.gov/legislation/72172?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Read about Senate Bill 390 Here",
+"href": "https://www.legis.ga.gov/legislation/72172?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Read about Senate Bill 391 Here",
+"href": "https://www.legis.ga.gov/legislation/72172?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Read about Senate Bill 397 Here",
+"href": "https://www.legis.ga.gov/legislation/72202?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Tune into the Rules Committee Meeting at 9am - Monday",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAROGMXIAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Watch the House Floor Chamber at 10am - Monday",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAROGMXEAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "You can follow these bills and others here.",
+"href": "https://www.legis.ga.gov/?emci=61905869-02fe-f011-832f-000d3a1f0e4c&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "[image: Rep. Stacey Evans]",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@repstaceyevans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StaceyEvansGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evansforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvansforGeorgia"
+}
 ]

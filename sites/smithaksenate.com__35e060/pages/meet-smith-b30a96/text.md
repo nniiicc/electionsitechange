@@ -1,7 +1,4 @@
-Meet Heath Smith
-A Proven Voice for Alaska’s Future
-Heath Smith
-Alaska has been my home my whole life, and I’ve raised my six kids and now my grandkids here.
+Skip to content Home Meet Smith Priorities Get Involved Contact Home Meet Smith Priorities Get Involved Contact Donate Now Meet Heath Smith A Proven Voice for Alaska’s Future Heath Smith Alaska has been my home my whole life, and I’ve raised my six kids and now my grandkids here.
 I’ve watched more and more families quietly ask themselves whether their children will really be able to stay, or whether the lack of a fiscal plan, unstable school funding, unreliable ferries, and rising costs will push them out.
 I’m running for State Senate because I don’t accept that slow drift toward doubt and decline as Alaska’s future.
 I believe in Alaska and Alaskans--we have tremendous potential!
@@ -12,3 +9,4 @@ What I want from the Legislature—and what I’ll work for—is simple: decisio
 We cannot reward those in the Legislature for getting a few things right while failing Alaskans on the big things that decide our future.
 It’s time to stop grading on a curve and start demanding leaders finish the hard work, not just talk about it every election season.
 It’s time for change.
+JOIN THE CONVERSATION Facebook-f Paid for by Heath Smith for Senate 570 Lee Dr, Homer AK 99603 Scroll to Top

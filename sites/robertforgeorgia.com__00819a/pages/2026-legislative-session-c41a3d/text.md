@@ -1,11 +1,1 @@
-Representative Robert Dawson
-About
-Accomplishments
-Donate
-Events
-News
-Instagram
-Facebook
-Sign in
-Subscribe
-2026 Legislative Session
+Representative Robert Dawson About Accomplishments Donate Events News Instagram Facebook Sign in Subscribe 2026 Legislative Session Robert Dawson 13 Sep 2026 ← Previous Sign up Privacy Policy Contact Sign up for Text Messages # © robertforgeorgia.com | All Rights Reserved | Paid for by Dawson for Georgia, LLC

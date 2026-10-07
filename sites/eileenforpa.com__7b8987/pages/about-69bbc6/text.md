@@ -1,4 +1,4 @@
-Eileen Hartnett Albillar is a seasoned leader and proven problem-solver with more than 25 years of experience in social work, government, and nonprofit leadership.
+Skip navigation menu About 6th District Get Involved Issues Donate About Eileen About 6th District Get Involved Issues Donate About Eileen Eileen Hartnett Albillar is a seasoned leader and proven problem-solver with more than 25 years of experience in social work, government, and nonprofit leadership.
 Having grown up in Warminster, Eileen has used her Master’s of Social Work to give back to her community, spending years helping people get back on their feet, pull themselves out of poverty, and navigate the high cost of living.
 She’s advocated for homeless youth, administered millions in state and federal funding for housing, and helped families lower their utility costs.
 Eileen spent more than a decade at the Bucks County Opportunity Council, the leading anti-poverty nonprofit in the county, to help Bucks County families achieve self-sufficiency.
@@ -10,3 +10,5 @@ Eileen has spent her career listening to people, solving problems, and navigatin
 She’ll go to Harrisburg and fight to lower our costs, grow our local economy so we have good paying jobs that can support a family, and fully fund our public schools.
 Eileen has two school-age children, and is a Board member of NOVA, the crime victim assistance organization for Bucks County.
 She was a founding board member of Emerge Pennsylvania, which supports women running for office.
+Sign up to Sign Up To Stay Connected With The Campaign!
+First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit Contact us at info@EileenforPA.com Powered by RUN! website builder Paid for and authorized by Friends of Eileen Albillar You need to enable JavaScript to run this app.

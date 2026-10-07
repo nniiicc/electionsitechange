@@ -1,6 +1,30 @@
 [
-"https://dianepauer.com/blog",
-"https://dianepauer.com/blog/thank-you-for-your-support-hillsborough-36",
-"https://dianepauer.com/contact",
-"https://secure.anedot.com/diane-for-nh/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/diane-for-nh/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/diane-for-nh/donate"
+},
+{
+"text": "Read more →",
+"href": "https://dianepauer.com/blog/thank-you-for-your-support-hillsborough-36"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://dianepauer.com/contact"
+},
+{
+"text": "Thank You for Your Support, Hillsborough 36!",
+"href": "https://dianepauer.com/blog/thank-you-for-your-support-hillsborough-36"
+},
+{
+"text": "View all posts →",
+"href": "https://dianepauer.com/blog"
+},
+{
+"text": "Volunteer",
+"href": "https://dianepauer.com/contact"
+}
 ]

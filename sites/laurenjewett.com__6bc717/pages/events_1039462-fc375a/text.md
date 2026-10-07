@@ -1,9 +1,6 @@
-← All events
-TEAM JAMIE DAVIS-EMPOWER TRAINING-STATEWIDE
-- Where
-- Virtual event
-About this event
-Each Wednesday from **5:30 PM to 6:30 PM**, users of the Empower App gather virtually to engage in dialogue, share success and progress, troubleshoot, and rally.
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-EMPOWER TRAINING-STATEWIDE Available times Wednesday, Sep 23, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab) Wednesday, Sep 30, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 7, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 14, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 21, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 28, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab) Where Virtual event About this event Each Wednesday from **5:30 PM to 6:30 PM**, users of the Empower App gather virtually to engage in dialogue, share success and progress, troubleshoot, and rally.
 The agenda is designed to be engaging and productive.
 We use the app in session, complete a call-to-action, and launch a call-to-action for the following week.
-Each session includes optional time to answer questions, work together, and handle whatever might arise. **The agenda generally runs as follows:** - Check-in - Breakout room discussion - Empower Update - Achievements - Learnings - Launch new Call to Action - Questions and comments - Open time
+Each session includes optional time to answer questions, work together, and handle whatever might arise. **The agenda generally runs as follows:** - Check-in - Breakout room discussion - Empower Update - Achievements - Learnings - Launch new Call to Action - Questions and comments - Open time RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

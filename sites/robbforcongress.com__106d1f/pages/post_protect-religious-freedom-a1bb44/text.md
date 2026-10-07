@@ -1,11 +1,7 @@
-Protect Religious Freedom
-Updated: Mar 22
-Faith Should Be Free—Not Forced
-I’ve been a pastor for three decades.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Protect Religious Freedom Jun 2, 2025 2 min read Updated: Mar 22 Faith Should Be Free—Not Forced I’ve been a pastor for three decades.
 I’ve preached in churches, coffee shops, living rooms, and city parks.
 I’ve walked with people of deep faith, people questioning their beliefs, and people who have walked away from religion entirely.
-And I believe this with all my heart:
-Faith should be free.
+And I believe this with all my heart: Faith should be free.
 I’m running for Congress because true religious freedom means everyone has the right to believe, or not believe, without pressure from the government.
 That means you can go to church.
 Or synagogue.
@@ -18,11 +14,7 @@ It blends religion and political power in ways that are dangerous, not just for 
 Because when faith is tied to power, it stops being faith.
 It becomes control.
 And when the government takes sides in religion, someone always loses their freedom.
-Here’s what I believe:
-- We must protect the separation of church and state, so no one’s beliefs are used to control someone else’s life
-- We need to stand against Christian Nationalism and the harm it causes
-- And we must defend the rights of people of all faiths, and no faith, to live freely and equally
-Religious freedom doesn’t mean one group gets to dominate.
+Here’s what I believe: We must protect the separation of church and state, so no one’s beliefs are used to control someone else’s life We need to stand against Christian Nationalism and the harm it causes And we must defend the rights of people of all faiths, and no faith, to live freely and equally Religious freedom doesn’t mean one group gets to dominate.
 It means no group gets to.
 As a Christian, I don’t want the government telling me how to live out my faith.
 And I don’t want to use the government to impose my beliefs on someone else.
@@ -46,4 +38,4 @@ When someone with no religious faith at all is treated with equal dignity.
 That’s what real religious freedom looks like.
 Not forced belief.
 Not a theocracy.
-A country where faith is free, conscience is respected, and no one is made to live under someone else’s religion.
+A country where faith is free, conscience is respected, and no one is made to live under someone else’s religion. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

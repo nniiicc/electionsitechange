@@ -1,7 +1,30 @@
 [
-"https://secure.actblue.com/donate/stone4senate",
-"https://stone4senate.com/",
-"https://stone4senate.com/cdn-cgi/l/email-protection",
-"https://stone4senate.com/facts",
-"https://stone4senate.com/veterans"
+{
+"text": "205-201-1632",
+"href": "tel:12052011632"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stone4senate"
+},
+{
+"text": "Facts",
+"href": "https://stone4senate.com/facts/"
+},
+{
+"text": "Home",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "Strong with Stone",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "Veterans",
+"href": "https://stone4senate.com/veterans/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@stone4senate.com"
+}
 ]

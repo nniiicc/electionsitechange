@@ -1,9 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfAmF1jEBoI664NRJ7pVJxinNk2hztXNlJ3fNmSd9DaniSF2A/viewform?usp=header",
-"https://godaddy.com/websites/web-design",
-"https://thomassonforsenate.com/",
-"https://thomassonforsenate.com/about-paul",
-"https://thomassonforsenate.com/contact",
-"https://thomassonforsenate.com/donations",
-"https://thomassonforsenate.com/gallery"
+{
+"text": "About Paul",
+"href": "https://thomassonforsenate.com/about-paul/"
+},
+{
+"text": "Contact",
+"href": "https://thomassonforsenate.com/contact/"
+},
+{
+"text": "Donations",
+"href": "https://thomassonforsenate.com/donations/"
+},
+{
+"text": "Gallery",
+"href": "https://thomassonforsenate.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://thomassonforsenate.com/"
+},
+{
+"text": "Meet Paul",
+"href": "https://thomassonforsenate.com/about-paul/"
+},
+{
+"text": "Share Your Support",
+"href": "https://thomassonforsenate.com/donations/"
+},
+{
+"text": "Volunteer Sign-Up Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfAmF1jEBoI664NRJ7pVJxinNk2hztXNlJ3fNmSd9DaniSF2A/viewform?usp=header"
+},
+{
+"text": "[image: GoDaddy Web Design]",
+"href": "https://www.godaddy.com/websites/web-design"
+},
+{
+"text": "[image: website header_dkblue]",
+"href": "https://thomassonforsenate.com"
+},
+{
+"text": "[image: website header_dkblue]",
+"href": "https://thomassonforsenate.com/"
+},
+{
+"text": "paul@thomassonforsenate.com",
+"href": "mailto:paul@thomassonforsenate.com"
+}
 ]

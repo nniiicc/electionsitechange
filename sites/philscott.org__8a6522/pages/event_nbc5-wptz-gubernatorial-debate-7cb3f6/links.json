@@ -1,20 +1,82 @@
 [
-"http://mynbc5.com%20/",
-"https://bytes.co/",
-"https://facebook.com/PhilScottforVermont",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20201001T190000%2F20201001T200000&text=NBC5+%28WPTZ%29+Gubernatorial+Debate&details=Governor+Scott+participates+in+the+third+gubernatorial+debate+hosted+by+NBC5%2C+live+at+7%3A00+PM.&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org",
-"https://instagram.com/philscottvt",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2020-10-01T19%3A00%3A00-04%3A00&enddt=2020-10-01T20%3A00%3A00-04%3A00&subject=NBC5+%28WPTZ%29+Gubernatorial+Debate&body=Governor+Scott+participates+in+the+third+gubernatorial+debate+hosted+by+NBC5%2C+live+at+7%3A00+PM.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2020-10-01T19%3A00%3A00-04%3A00&enddt=2020-10-01T20%3A00%3A00-04%3A00&subject=NBC5+%28WPTZ%29+Gubernatorial+Debate&body=Governor+Scott+participates+in+the+third+gubernatorial+debate+hosted+by+NBC5%2C+live+at+7%3A00+PM.",
-"https://philscott.org/",
-"https://philscott.org/event/vt-digger-gubernatorial-debate",
-"https://philscott.org/event/wcax-gubernatorial-debate",
-"https://philscott.org/events",
-"https://philscott.org/meet-phil",
-"https://philscott.org/privacy-policy",
-"https://philscott.org/terms-and-conditions",
-"https://philscott.org/volunteer",
-"https://secure.anedot.com/phil-scott/donate",
-"https://twitter.com/philscott4vt",
-"https://youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phil-scott/donate"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20201001T190000%2F20201001T200000&text=NBC5+%28WPTZ%29+Gubernatorial+Debate&details=Governor+Scott+participates+in+the+third+gubernatorial+debate+hosted+by+NBC5%2C+live+at+7%3A00+PM.&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org"
+},
+{
+"text": "Join the Team",
+"href": "https://www.philscott.org/volunteer/"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philscott.org/meet-phil/"
+},
+{
+"text": "MyNBC5.com",
+"href": "http://mynbc5.com%20"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=&subject=NBC5+%28WPTZ%29+Gubernatorial+Debate&body=Governor+Scott+participates+in+the+third+gubernatorial+debate+hosted+by+NBC5%2C+live+at+7%3A00+PM."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=&subject=NBC5+%28WPTZ%29+Gubernatorial+Debate&body=Governor+Scott+participates+in+the+third+gubernatorial+debate+hosted+by+NBC5%2C+live+at+7%3A00+PM."
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.philscott.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.philscott.org/terms-and-conditions/"
+},
+{
+"text": "WCAX Gubernatorial Debate »",
+"href": "https://www.philscott.org/event/wcax-gubernatorial-debate/"
+},
+{
+"text": "Website Designed by Bytes.co",
+"href": "https://bytes.co"
+},
+{
+"text": "[image: Phil Scott for Governor]",
+"href": "https://www.philscott.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/philscott4vt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilScottforVermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philscottvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+},
+{
+"text": "[no text]",
+"href": "mailto:phil@philscott.org"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.philscott.org/event/nbc5-wptz-gubernatorial-debate/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.philscott.org/events/"
+},
+{
+"text": "« VT Digger Gubernatorial Debate",
+"href": "https://www.philscott.org/event/vt-digger-gubernatorial-debate/"
+}
 ]

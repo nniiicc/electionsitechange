@@ -1,19 +1,13 @@
-CAMPAIGN NEWS PRESS RELEASE
-Robb Tucker Secures Unanimous County Republican Party Endorsements in race for the newly drawn Congressional District 3
-March 17, 2026
-Sacramento, CA — Nevada County Supervisor Robb Tucker, a lifelong resident of California’s newly drawn Congressional District 3, announced his candidacy last month and has already secured a wave of support from community members, elected officials, business owners, and grassroots leaders across the region.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE CAMPAIGN NEWS PRESS RELEASE Robb Tucker Secures Unanimous County Republican Party Endorsements in race for the newly drawn Congressional District 3 FOR IMMEDIATE RELEASE March 17, 2026 Contact: Ryan Gardiner ryan@strategyinsightshq.com Sacramento, CA — Nevada County Supervisor Robb Tucker, a lifelong resident of California’s newly drawn Congressional District 3, announced his candidacy last month and has already secured a wave of support from community members, elected officials, business owners, and grassroots leaders across the region.
 In a rare show of unity, Tucker has received unanimous endorsements from every Republican Central Committee within the new district—including Placer, El Dorado, Nevada, and Sacramento counties—along with the official endorsement of the California Republican Party.
 “This is a tremendous honor,” Tucker said.
 “The grassroots leaders of our county Republican Central Committees and the California Republican Party have placed their trust in me as the sole endorsed candidate in this race.
-I am grateful for their confidence and ready to work tirelessly to defeat Ami Bera and help secure the Republican majority in Congress.”
-Placer County Republican Central Committee Chair Mark Wright emphasized the importance of party unity in the race.
+I am grateful for their confidence and ready to work tirelessly to defeat Ami Bera and help secure the Republican majority in Congress.” Placer County Republican Central Committee Chair Mark Wright emphasized the importance of party unity in the race.
 “It is critical that Republicans unite behind one candidate,” Wright said.
-“Robb Tucker not only reflects our conservative values, but he is also an electable candidate with a real opportunity to overcome these gerrymandered district lines.”
-El Dorado County Republican Party Chair Todd White echoed that sentiment.
+“Robb Tucker not only reflects our conservative values, but he is also an electable candidate with a real opportunity to overcome these gerrymandered district lines.” El Dorado County Republican Party Chair Todd White echoed that sentiment.
 “With the way these districts have been drawn to disadvantage Republicans, Robb Tucker gives us renewed hope that this seat is winnable,” White said.
 Support for Tucker also comes from Nevada and Sacramento counties.
 Nevada County Republican Party Chair Mac Young said, “Robb is not a perennial candidate chasing headlines.
-He’s a down-to-earth, homegrown leader who understands our community and represents our best chance to defeat Ami Bera.”
-California’s newly drawn Congressional District 3 includes parts of Sacramento, Placer, and El Dorado counties, as well as the entirety of Nevada County.
+He’s a down-to-earth, homegrown leader who understands our community and represents our best chance to defeat Ami Bera.” California’s newly drawn Congressional District 3 includes parts of Sacramento, Placer, and El Dorado counties, as well as the entirety of Nevada County.
 Republican leaders across the district and the California Republican Party have united in support of Tucker’s campaign.
-###
+### TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

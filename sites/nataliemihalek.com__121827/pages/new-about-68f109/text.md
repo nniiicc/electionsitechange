@@ -1,4 +1,4 @@
-Born and raised here in Western Pennsylvania, Natalie understands what’s important for our families and our community.
+About Issues Legislation Contact DONATE Born and raised here in Western Pennsylvania, Natalie understands what’s important for our families and our community.
 Now, she takes those values to Harrisburg to fight for us in the Pennsylvania House of Representatives.
 Growing up in Allegheny County, Natalie enlisted in the United States Navy after graduating from high school.
 In the Navy, she was part of the prestigious Nuclear Power Program working as a nuclear trained engineering laboratory technician.
@@ -15,3 +15,4 @@ She will always work to ensure our children have the best future, our communitie
 Most importantly, she’ll always put your needs and our district first.
 Natalie Mihalek has delivered for us.
 Let’s send her back to Harrisburg.
+About Issues Accomplishments & Legislation Contact Follow info@nataliemihalek.com | PO Box 81, Hershey, PA 17033 Paid for by Friends of Natalie Mihalek

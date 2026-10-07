@@ -1,7 +1,22 @@
 [
-"http://scottcollier.org/",
-"http://scottcollier.org/scott-collier-biography",
-"http://scottcollier.org/scott-collier-for-congress-the-issues",
-"http://scottcollier.org/scott-collier-news",
-"http://scottcollier.org/the-issues-clone"
+{
+"text": "Advocacy",
+"href": "http://scottcollier.org/scott-collier-news"
+},
+{
+"text": "Bio",
+"href": "http://scottcollier.org/scott-collier-biography"
+},
+{
+"text": "Contact",
+"href": "http://scottcollier.org/the-issues-clone"
+},
+{
+"text": "Home",
+"href": "http://scottcollier.org/"
+},
+{
+"text": "The Issues",
+"href": "http://scottcollier.org/scott-collier-for-congress-the-issues"
+}
 ]

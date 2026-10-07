@@ -1,57 +1,30 @@
-Working for our community
-representing District 11
-Portsmouth and Bristol
-Serving on Senate committees:
-Health & Human Services
-Special Legislation & Veterans' Affairs
-State Senator Linda Ujifusa is a strong and tireless advocate
-for Portsmouth and Bristol
-Senator Linda Ujifusa was elected in November 2022 to represent District 11 (Portsmouth and Bristol) in the Rhode Island Senate.
+top of page Home Meet Linda Priorities Endorsements Contact News DONATE Working fo r our community representing District 11 Portsmouth and Bristol Serving on Senate committees: Health & Human Services Special Legislation & Veterans' Affairs Contact Linda State Senator Linda Ujifusa is a strong and tireless advocate for Portsmouth and Bristol ​​ Senator Linda Ujifusa was elected in November 2022 to represent District 11 (Portsmouth and Bristol) in the Rhode Island Senate.
 She serves on the Senate Health & Human Services Committee and the Special Legislation & Veterans' Affairs Committee.
-She invites constituents to contact her at 401-472-4721 or lindaujifusa.ri@gmail.com if they have questions, concerns, or need assistance.
-Legislative Priorities
-Since taking office, she has focused on expanding access to affordable healthcare.
+She invites constituents to contact her at 401-472-4721 or lindaujifusa.ri@gmail.com if they have questions, concerns, or need assistance. ​ ​ ​ Legislative Priorities ​ Since taking office, she has focused on expanding access to affordable healthcare.
 She was the lead sponsor of legislation to regulate pharmacy benefit managers (PBMs) in both commercial and Medicaid Managed Care Organization (MCO) plans, a resolution urging stricter federal oversight of the Medicare Advantage program, and a bill to regulate the use of artificial intelligence (AI) by insurers to prevent excessive coverage denials.
 In addition, she introduced bills to reduce restrictive prior authorization requirements for primary care and for mental health and substance use treatment.
-She also introduced a pair of bills to curb private-equity and corporate practice of medicine abuses in healthcare to ensure that medical decisions remain in the hands of licensed healthcare professionals rather than corporate investors.
-Sen.
+She also introduced a pair of bills to curb private-equity and corporate practice of medicine abuses in healthcare to ensure that medical decisions remain in the hands of licensed healthcare professionals rather than corporate investors. ​ Sen.
 Ujifusa has sponsored a range of legislation to protect taxpayers, consumers, veterans, and seniors, and to promote government accountability.
 She was the lead sponsor of the Rhode Island Climate Superfund Act, which would hold polluters financially responsible for climate change-related damages, as well as legislation for stronger oversight of internet service providers and a bill requiring transparency in RI Energy billing.
-She has also introduced a bill to create a performance audit division in the office of the RI Auditor General, as well as bills addressing wildfire prevention, tax credits for family caregivers, and rent and property tax assistance for low-income seniors and people with disabilities.
-She has sponsored and helped pass bills to require vaccination coverage based on state DOH requirements (rather than weakened federal requirements), address staffing problems at the Veterans Home in Bristol, and prohibit insurers and PBMs from requiring patients to use insurer-affiliated pharmacies for clinician-administered drugs — a practice known as "white bagging" that can delay care and create waste.
-She has also introduced and passed legislation to limit hidden mandatory "junk fees," and as co-chair of the Statewide Student Transportation Study Commission, led efforts to enact reforms projected to save taxpayers millions of dollars.
-Background
-Sen.
+She has also introduced a bill to create a performance audit division in the office of the RI Auditor General, as well as bills addressing wildfire prevention, tax credits for family caregivers, and rent and property tax assistance for low-income seniors and people with disabilities. ​ She has sponsored and helped pass bills to require vaccination coverage based on state DOH requirements (rather than weakened federal requirements), address staffing problems at the Veterans Home in Bristol, and prohibit insurers and PBMs from requiring patients to use insurer-affiliated pharmacies for clinician-administered drugs — a practice known as "white bagging" that can delay care and create waste.
+She has also introduced and passed legislation to limit hidden mandatory "junk fees," and as co-chair of the Statewide Student Transportation Study Commission, led efforts to enact reforms projected to save taxpayers millions of dollars. ​ Background Sen.
 Ujifusa graduated magna cum laude from Harvard College and earned her law degree from NYU School of Law, where she served as an editor of the NYU Review of Law & Social Change and was a member of the Moot Court Board.
 She previously worked at the law firm Mintz Levin, in the U.S.
 EPA Office of Regional Counsel, and taught legal writing at UC Hastings School of Law.
 A third-generation Japanese-American, she has lived in Portsmouth since 1993 with her husband, Dr.
 J.
 Mark Ryan.
-They have three adult children — John, Katie, and Jamie Ryan — all graduates of Portsmouth public schools.
-Honors as a Legislator
-- Mental Health Association of RI Legislator of the Year (2026)
-- American Physical Therapists Association of RI Senate Legislator of the Year (2025)
-- Portsmouth VFW 5390 Patriots Award (2025)
-- Housing Network of Rhode Island Housing Innovation Award (2025), for helping launch the Ade Bethune House project — 54 units of affordable senior housing plus a new senior center
-- One of the first two Asian Americans elected to the Rhode Island legislature (2022)
-Former Town Council Member
-Before serving in the Senate, she served three terms on the Portsmouth Town Council, including as vice president from 2018 to 2022.
-During her tenure, she led efforts to improve property and budget management, emergency planning, and climate change resiliency, and helped secure grants to support town resilience and develop an open space and recreation master plan.
-Community Volunteer
-Senator Ujifusa has volunteered in Portsmouth public schools, on the Portsmouth Open Space Committee, and at COVID-19 vaccination clinics in Portsmouth and Bristol.
-She has served as chair of the Aquidneck Land Trust board, a board member of the RI Democratic Women's Caucus, and co-chair of a local nonprofit advocating for universal, comprehensive single-payer healthcare.
-NEWS
-07/22/26 - Comments to OHIC re: rate review and AHEAD programs (pages 29-45)
-07/12/26 - Sen.
-Ujifusa's 2026 Legislative Wrap-up
-06/25/26 - A busy year for Bristol’s delegation on Smith Hill
-06/04/26 - Senate approves Ujifusa resolution seeking workforce analysis at Veterans Home
-05/26/26 - Shekarchi, Ujifusa honored as Legislators of the Year by Mental Health Association of R.I.
-05/20/26 - Sens.
-Gu and Ujifusa host AANHPI Heritage Month celebration at State House
-05/18/26 - McGaw, Ujifusa sponsor Broadband Oversight and Accountability Act
-04/02/26 - Senate OKs Ujifusa bill banning ‘spread pricing’ for drugs in Medicaid plans
-04/01/26 - General Assembly celebrates Japan Day
-02/08/26 - Ujifusa and Donovan introduce legislation to safeguard vaccine access amid federal uncertainty
-01/29/26 - Ujifusa, Boylan legislation would make polluters pay
+They have three adult children — John, Katie, and Jamie Ryan — all graduates of Portsmouth public schools. ​ Honors as a Legislator Mental Health Association of RI Legislator of the Year (2026) American Physical Therapists Association of RI Senate Legislator of the Year (2025) Portsmouth VFW 5390 Patriots Award (2025) Housing Network of Rhode Island Housing Innovation Award (2025), for helping launch the Ade Bethune House project — 54 units of affordable senior housing plus a new senior center One of the first two Asian Americans elected to the Rhode Island legislature (2022) ​ ​ Former Town Council Member Before serving in the Senate, she served three terms on the Portsmouth Town Council, including as vice president from 2018 to 2022.
+During her tenure, she led efforts to improve property and budget management, emergency planning, and climate change resiliency, and helped secure grants to support town resilience and develop an open space and recreation master plan. ​ Community Volunteer Senator Ujifusa has volunteered in Portsmouth public schools, on the Portsmouth Open Space Committee, and at COVID-19 vaccination clinics in Portsmouth and Bristol.
+She has served as chair of the Aquidneck Land Trust board, a board member of the RI Democratic Women's Caucus, and co-chair of a local nonprofit advocating for universal, comprehensive single-payer healthcare. ​ ​ NEWS ​​ 07/22/26 - Comments to OHIC re: rate review and AHEAD programs (pages 29-45) 07/12/26 - Sen.
+Ujifusa's 2026 Legislative Wrap-up 06/25/26 - A busy year for Bristol’s delegation on Smith Hill 06/09/26 - Assembly approves Ujifusa and Donovan’s legislation to safeguard vaccine access amid federal uncertainty 06/04/26 - Senate approves Ujifusa resolution seeking workforce analysis at Veterans Home 05/26/26 - Shekarchi, Ujifusa honored as Legislators of the Year by Mental Health Association of R.I.
+05/21/26 - Sen.
+Linda L.
+UjifusaSenate OKs Ujifusa bill to scrutinize Medicaid pharmacy benefits management 05/20/26 - Sens.
+Gu and Ujifusa host AANHPI Heritage Month celebration at State House 05/18/26 - McGaw, Ujifusa sponsor Broadband Oversight and Accountability Act 04/02/26 - Senate OKs Ujifusa bill banning ‘spread pricing’ for drugs in Medicaid plans 04/01/26 - General Assembly celebrates Japan Day 03/24/26 - Sen.
+Ujifusa and Rep.
+Donovan introduce legislation to facilitate re-opening beds at Rhode Island Veterans Home 03/17/26 - Rep.
+Cotter, Sen.
+Ujifusa submit bill raising ‘circuit breaker’ tax credit to help seniors, those with disabilities 03/09/26 - Sen.
+Ujifusa and Rep.
+Stewart legislation aims to protect Rhode Islanders from Medicare Advantage’s disadvantages 02/26/26 - R.I. legislators take aim at private equity in health care amid Fatima, Roger Williams hospitals crisis 02/19/26 - Ujifusa, Fogarty bills would protect health care from private equity ownership, corporate practice of medicine 02/08/26 - Ujifusa and Donovan introduce legislation to safeguard vaccine access amid federal uncertainty ​ ​​​​ 01/29/26 - Ujifusa, Boylan legislation would make polluters pay ​ See archived NEWS here ​ Got questions or concerns? ​ Contact Linda at: lindaujifusa.ri@gmail.com or (401) 472-4721 ​ Copyright © # Linda Ujifusa Paid for by Campaign for Linda Ujifusa bottom of page

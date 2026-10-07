@@ -1,39 +1,174 @@
 [
-"http://instagram.com/petersenfornebraska",
-"https://facebook.com/PetersenForNebraska",
-"https://form.qomon.org/dd0c3091-get-involved",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://petersenfornebraska.com/",
-"https://petersenfornebraska.com/10army",
-"https://petersenfornebraska.com/endorsements",
-"https://petersenfornebraska.com/join",
-"https://petersenfornebraska.com/nebraska-citizens-elections-bill-of-rights",
-"https://petersenfornebraska.com/plan",
-"https://petersenfornebraska.com/post/petersen-executive-order-verifiable-transparent-elections",
-"https://petersenfornebraska.com/post/save-kansas-act-nebraska-voter-rolls",
-"https://petersenfornebraska.com/post/supreme-court-save-citizenship-verification-nebraska",
-"https://petersenfornebraska.com/post/this-is-what-i-voted-for-election-integrity-executive-order",
-"https://petersenfornebraska.com/press",
-"https://petersenfornebraska.com/press/categories/endorsements",
-"https://petersenfornebraska.com/press/categories/in-the-news",
-"https://petersenfornebraska.com/press/categories/press-releases",
-"https://petersenfornebraska.com/press/categories/updates",
-"https://petersenfornebraska.com/press/categories/video",
-"https://petersenfornebraska.com/privacy-policy",
-"https://petersenfornebraska.com/protecting-vulnerable-voters",
-"https://petersenfornebraska.com/setting-the-standard",
-"https://petersenfornebraska.com/votertree",
-"https://petersenfornebraska.com/votertree-privacy",
-"https://secure.anedot.com/petersen-for-nebraska/donate",
-"https://soundcloud.com/petersenfornebraska",
-"https://x.com/PetersenForNE",
-"https://x.com/petersenforne",
-"https://youtu.be/PeInkvGpfEA?si=eEZmv7Wh6xtZodH_%5D",
-"https://youtu.be/fbBmFw8Pb9s",
-"https://youtu.be/oM4DWn9Ufl4?si=mKLC7yDtVg24d2o-",
-"https://youtu.be/zgfsf-muxR8?si=FZTT5OPb5eNHOhK0",
-"https://youtube.com/@PetersenforNebraska",
-"https://youtube.com/playlist?list=PLKrMhllcSXtrydVVww-zSLc_c5V0S4051",
-"https://youtube.com/watch?v=0ooBA98B9Rw&t=828s",
-"https://youtube.com/watch?v=rQSzliVRKqM&list=PLKrMhllcSXtqjAdZto-6YfIHjVdqwXnpU&index=3"
+{
+"text": "All Posts",
+"href": "https://www.petersenfornebraska.com/press"
+},
+{
+"text": "Are They Truly Secure?",
+"href": "https://www.youtube.com/watch?v=0ooBA98B9Rw&t=828s"
+},
+{
+"text": "Candidate Spotlight",
+"href": "https://youtu.be/oM4DWn9Ufl4?si=mKLC7yDtVg24d2o-"
+},
+{
+"text": "Connect",
+"href": "https://www.petersenfornebraska.com/join"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/petersen-for-nebraska/donate"
+},
+{
+"text": "Elections Bill of Rights",
+"href": "https://www.petersenfornebraska.com/nebraska-citizens-elections-bill-of-rights"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenfornebraska.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenfornebraska.com/press/categories/endorsements"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/petersenforne"
+},
+{
+"text": "In The News",
+"href": "https://www.petersenfornebraska.com/press/categories/in-the-news"
+},
+{
+"text": "Join $10 Army",
+"href": "https://www.petersenfornebraska.com/10army"
+},
+{
+"text": "Like on Facebook",
+"href": "https://www.facebook.com/PetersenForNebraska/"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "NBC News Investigation",
+"href": "https://youtu.be/PeInkvGpfEA?si=eEZmv7Wh6xtZodH_%5D"
+},
+{
+"text": "News",
+"href": "https://www.petersenfornebraska.com/press"
+},
+{
+"text": "Petersen's Plan",
+"href": "https://www.petersenfornebraska.com/plan"
+},
+{
+"text": "Petersen: Executive Order Reinforces Need for Verifiable, Transparent Elections",
+"href": "https://www.petersenfornebraska.com/post/petersen-executive-order-verifiable-transparent-elections"
+},
+{
+"text": "Play It Right",
+"href": "https://www.youtube.com/watch?v=rQSzliVRKqM&list=PLKrMhllcSXtqjAdZto-6YfIHjVdqwXnpU&index=3"
+},
+{
+"text": "Press Releases",
+"href": "https://www.petersenfornebraska.com/press/categories/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.petersenfornebraska.com/privacy-policy"
+},
+{
+"text": "Protecting Vulnerable Voters",
+"href": "https://www.petersenfornebraska.com/protecting-vulnerable-voters"
+},
+{
+"text": "REQUEST SIGN",
+"href": "https://form.qomon.org/dd0c3091-get-involved/"
+},
+{
+"text": "Radio Ads",
+"href": "https://www.youtube.com/playlist?list=PLKrMhllcSXtrydVVww-zSLc_c5V0S4051"
+},
+{
+"text": "Real Election Integrity",
+"href": "https://www.petersenfornebraska.com/setting-the-standard"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://form.qomon.org/dd0c3091-get-involved/"
+},
+{
+"text": "Scott Petersen: Nebraska Should Act Now on Citizenship Verification",
+"href": "https://www.petersenfornebraska.com/post/supreme-court-save-citizenship-verification-nebraska"
+},
+{
+"text": "Stealing Military Votes?",
+"href": "https://youtu.be/fbBmFw8Pb9s"
+},
+{
+"text": "This is what I voted for! Thank you, President Trump",
+"href": "https://www.petersenfornebraska.com/post/this-is-what-i-voted-for-election-integrity-executive-order"
+},
+{
+"text": "Updates",
+"href": "https://www.petersenfornebraska.com/press/categories/updates"
+},
+{
+"text": "VOTERTREE",
+"href": "https://www.petersenfornebraska.com/votertree"
+},
+{
+"text": "Videos",
+"href": "https://www.petersenfornebraska.com/press/categories/video"
+},
+{
+"text": "Volunteer",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "VoterTree Terms",
+"href": "https://www.petersenfornebraska.com/votertree-privacy"
+},
+{
+"text": "What Kansas's SAVE Law Can Teach Nebraska",
+"href": "https://www.petersenfornebraska.com/post/save-kansas-act-nebraska-voter-rolls"
+},
+{
+"text": "Where Does Your Election Data Go?",
+"href": "https://youtu.be/zgfsf-muxR8?si=FZTT5OPb5eNHOhK0"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PetersenForNebraska"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/petersenfornebraska"
+},
+{
+"text": "[image: Petersen_Logo_Color.png]",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "[image: Soundcloud]",
+"href": "https://soundcloud.com/petersenfornebraska"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/PetersenForNE"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@PetersenforNebraska"
+},
+{
+"text": "team@petersenfornebraska.com",
+"href": "mailto:team@petersenfornebraska.com"
+}
 ]

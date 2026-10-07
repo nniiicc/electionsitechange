@@ -1,3 +1,1 @@
-Oct 22, 2020 | News
-Read full article here:
-https://www.kaxe.org/post/meet-supreme-court-justice-paul-thissen-running-his-first-election-after-appointment-2018#stream/0
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page News KAXE: Meet Supreme Court Justice Paul Thissen Running For His First Election After Appointment in 2018 Oct 22, 2020 | News Read full article here: https://www.kaxe.org/post/meet-supreme-court-justice-paul-thissen-running-his-first-election-after-appointment-2018#stream/0 Privacy Policy

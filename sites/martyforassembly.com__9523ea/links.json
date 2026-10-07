@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61570981650155",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=60",
-"https://martyforassembly.com/",
-"https://martyforassembly.com/about",
-"https://martyforassembly.com/contact",
-"https://martyforassembly.com/early-voting-information",
-"https://martyforassembly.com/endorsements",
-"https://martyforassembly.com/events-1",
-"https://martyforassembly.com/gallery",
-"https://martyforassembly.com/in-the-news",
-"https://martyforassembly.com/issues",
-"https://martyforassembly.com/make-a-contribution",
-"https://secure.anedot.com/marty-for-ad-60/ef06622d-aa2d-4678-994e-63f44f17d180"
+{
+"text": "About",
+"href": "https://martyforassembly.com/about"
+},
+{
+"text": "Click here to view map",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=60"
+},
+{
+"text": "Contact",
+"href": "https://martyforassembly.com/contact"
+},
+{
+"text": "EARLY VOTING INFO",
+"href": "https://martyforassembly.com/early-voting-information#99f461df-1b70-4a44-9fbc-a68c6a06ed51"
+},
+{
+"text": "Early Voting Information",
+"href": "https://martyforassembly.com/early-voting-information"
+},
+{
+"text": "Endorsements",
+"href": "https://martyforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://martyforassembly.com/events-1"
+},
+{
+"text": "Gallery",
+"href": "https://martyforassembly.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://martyforassembly.com/"
+},
+{
+"text": "In the News",
+"href": "https://martyforassembly.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://martyforassembly.com/issues"
+},
+{
+"text": "Learn more about Marty",
+"href": "https://martyforassembly.com/about"
+},
+{
+"text": "Make a contribution",
+"href": "https://martyforassembly.com/make-a-contribution"
+},
+{
+"text": "Make a contribution",
+"href": "https://secure.anedot.com/marty-for-ad-60/ef06622d-aa2d-4678-994e-63f44f17d180"
+},
+{
+"text": "Marty for Assembly-60th ADMarty for Assembly-60th ADMarty for Assembly-60th ADMarty for Assembly-60th AD",
+"href": "https://martyforassembly.com/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://martyforassembly.com/contact"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61570981650155"
+}
 ]

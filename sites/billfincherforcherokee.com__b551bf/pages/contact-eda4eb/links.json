@@ -1,8 +1,34 @@
 [
-"https://billfincherforcherokee.com/",
-"https://billfincherforcherokee.com/about",
-"https://billfincherforcherokee.com/contact",
-"https://billfincherforcherokee.com/donate",
-"https://billfincherforcherokee.com/home",
-"https://cherokeegavotes.com/"
+{
+"text": "About",
+"href": "https://billfincherforcherokee.com/about/"
+},
+{
+"text": "Bill Fincher for Cherokee",
+"href": "https://billfincherforcherokee.com"
+},
+{
+"text": "Contact",
+"href": "https://billfincherforcherokee.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://billfincherforcherokee.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://billfincherforcherokee.com/home/"
+},
+{
+"text": "Learn More About the Campaign",
+"href": "https://billfincherforcherokee.com/about/"
+},
+{
+"text": "[image]",
+"href": "https://billfincherforcherokee.com/"
+},
+{
+"text": "click here",
+"href": "https://cherokeegavotes.com/"
+}
 ]

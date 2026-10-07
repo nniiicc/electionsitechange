@@ -1,7 +1,4 @@
-Liz Defends Women's Sports in the Journal Gazette
-I defended women's sports in a column published in the Fort Wayne Journal Gazette titled, "A fight for fairness: Women's sports deserve shield from radical ideology." I wrote, "The inclusion and opportunities that female athletes worked so hard for could be eliminated when just one man deemed to declare himself a woman and outperform women athletes through mere biology of being bigger and faster...Women are losing opportunities because of this madness."
-I wrote:
-I spent a recent weekend at my alma mater, Notre Dame, to celebrate 50 years of women’s varsity sports.
+0 Skip to Content About News Donate Open Menu Close Menu About News Donate Open Menu Close Menu About News Donate Liz Defends Women's Sports in the Journal Gazette Sep 23 Written By Liz Brown I defended women's sports in a column published in the Fort Wayne Journal Gazette titled, " A fight for fairness: Women's sports deserve shield from radical ideology ." I wrote, "The inclusion and opportunities that female athletes worked so hard for could be eliminated when just one man deemed to declare himself a woman and outperform women athletes through mere biology of being bigger and faster...Women are losing opportunities because of this madness." I wrote: I spent a recent weekend at my alma mater, Notre Dame, to celebrate 50 years of women’s varsity sports.
 It was through the literal blood, sweat and tears of women on the track, turf and field that made the case for sports inclusion in 1975.
 Women were given opportunities for scholarships, competitions and their own spaces, similar to what male athletes had long enjoyed.
 I benefited from women having these athletic opportunities as a varsity fencer at Notre Dame.
@@ -25,8 +22,7 @@ I spoke passionately on the Senate floor urging support for the bill.
 Drawing from my own perspective as a college athlete, I said, “If I don’t get on the medal stand, I want it to be because a woman beat me.
 Not because a guy who couldn’t make it on the men’s team came over and played against me because he wanted a medal.
 That’s not right.
-I don’t want my daughters or granddaughter getting beat up because some guy is playing against them.”
-That bill passed the Senate with broad support, 42-6.
+I don’t want my daughters or granddaughter getting beat up because some guy is playing against them.” That bill passed the Senate with broad support, 42-6.
 The Trump administration is also rightfully taking steps to protect women from biological males in their spaces.
 President Donald Trump issued an executive order in February that forced the NCAA to change its transgender athlete participation policy.
 Of course, laws and executive orders unsurprisingly find themselves under legal fire from the transgender lobby.
@@ -40,3 +36,7 @@ Some at the beginning, when inclusion was brand new and they knew all the effort
 Some in the middle years, where women’s sports were taken for granted.
 And some in these recent years, where they saw how quickly women’s sports could be eviscerated by men posing as women.
 I pledge I will continue to stand on principle against delusions that take away opportunities for women.
+Liz Brown Previous Previous Why Was Fort Wayne Ranked as America’s Most Affordable Hometown?
+Liz Brown for State Senate Authorized by Friends of Liz Brown, inc. © Copyright # Liz Brown.
+All Rights Reserved.
+Terms of Conditions Privacy Policy Donate

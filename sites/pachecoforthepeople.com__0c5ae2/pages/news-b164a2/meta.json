@@ -1,7 +1,9 @@
 {
  "description": "Edward Pacheco in the News",
  "final_url": "https://www.pachecoforthepeople.com/news",
- "paid_for_by": null,
+ "fingerprint": "39d85e1749ea4c4de32c6d43ff26a9bc44911484",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2022",

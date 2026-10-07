@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://liishforduluth.com/healthcare",
- "paid_for_by": "paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON\u00a9 2026",
- "title": "Healthcare \u2014 Liish For Duluth",
- "years_mentioned": []
+ "fingerprint": "312ae65b8404c498a2d21c06f070d90ebd228e82",
+ "format": 3,
+ "paid_for_by": "paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026",
+ "title": "Healthcare — Liish For Duluth",
+ "years_mentioned": [
+  "2026"
+ ]
 }

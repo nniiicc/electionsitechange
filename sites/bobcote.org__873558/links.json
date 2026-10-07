@@ -1,18 +1,94 @@
 [
-"https://app.sos.nh.gov/viphome",
-"https://bear-paw.org/",
-"https://bobcote.org/",
-"https://bobcote.org/about",
-"https://bobcote.org/contact",
-"https://bobcote.org/issues",
-"https://designedtorun.com/",
-"https://fitnh.org/",
-"https://forestsociety.org/",
-"https://londonderrynh.gov/349/Absentee-Ballots",
-"https://londonderrynh.gov/380/Voter-Registration",
-"https://nhfoodbank.org/",
-"https://nhpr.org/",
-"https://nwsnh.org/",
-"https://rpi.edu/",
-"https://secure.actblue.com/donate/bob-cote-1"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "About",
+"href": "https://www.bobcote.org/about"
+},
+{
+"text": "Absentee Voting",
+"href": "https://www.londonderrynh.gov/349/Absentee-Ballots"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://app.sos.nh.gov/viphome"
+},
+{
+"text": "Contact",
+"href": "https://www.bobcote.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "Issues",
+"href": "https://www.bobcote.org/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://www.londonderrynh.gov/380/Voter-Registration"
+},
+{
+"text": "[image: Bear-Paw Regional Greenways logo]",
+"href": "https://www.bear-paw.org/"
+},
+{
+"text": "[image: Bob Cote for state rep logo]",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "[image: Families in Transition Logo]",
+"href": "https://www.fitnh.org/"
+},
+{
+"text": "[image: NH Food Bank logo]",
+"href": "https://nhfoodbank.org/"
+},
+{
+"text": "[image: NHPR Logo]",
+"href": "https://www.nhpr.org/"
+},
+{
+"text": "[image: NeighborWorks Southern New Hampshire logo]",
+"href": "https://nwsnh.org/"
+},
+{
+"text": "[image: Rensselaer Polytechnic Institute Seal]",
+"href": "https://www.rpi.edu/"
+},
+{
+"text": "[image: Society for the Protection of NH Forests logo]",
+"href": "https://www.forestsociety.org/"
+},
+{
+"text": "bob@bobcote.org",
+"href": "mailto:bob@bobcote.org"
+}
 ]

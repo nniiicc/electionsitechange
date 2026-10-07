@@ -1,13 +1,4 @@
-Back to All Events
-Eunice and SC House District 14 candidate Michanna Tate will be in Laurens County on Saturday.
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events Meet & Greet and Canvassing in Laurens County Saturday, August 22, 2026 3:00 PM 6:00 PM 108 East Maple Street Clinton, South Carolina, 29325 United States (map) Google Calendar ICS Eunice and SC House District 14 candidate Michanna Tate will be in Laurens County on Saturday.
 Come ask them questions and get to know these candidates running to represent you, then join them to canvass the neighborhood.
-3:00 PM EDT: Meet & Greet
-4:30 PM EDT: Brief Canvassing Training
-4:45 PM EDT: Canvassing in Clinton and Laurens, weather permitting
-Previous
-Previous
-August 22
-Meet & Greet in Laurens
-Next
-Next
-August 26
+3:00 PM EDT: Meet & Greet 4:30 PM EDT: Brief Canvassing Training 4:45 PM EDT: Canvassing in Clinton and Laurens, weather permitting Previous Previous August 22 Meet & Greet in Laurens Next Next August 26 Phone Banking Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

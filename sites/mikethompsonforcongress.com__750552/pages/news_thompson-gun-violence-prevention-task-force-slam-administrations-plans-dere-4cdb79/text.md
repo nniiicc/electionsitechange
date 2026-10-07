@@ -1,13 +1,9 @@
-Press Release
-Posted:
-Washington, D.C. – Gun Violence Prevention Task Force Chair Rep.
-Mike Thompson led a group of 122 colleagues in urging Bureau of Alcohol, Tobacco,Firearms and Explosives (ATF) Director Robert Cekada to reverse over 30 planned deregulatory actions related to firearms.T
-he over 30 planned actions represent one of the most sweeping federal firearms deregulation efforts in decades.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Thompson, Gun Violence Prevention Task Force Slam Administration’s Plans to Deregulate Firearms Press Release Posted: August 10, 2026 Washington, D.C. – Gun Violence Prevention Task Force Chair Rep.
+Mike Thompson led a group of 122 colleagues in urging Bureau of Alcohol, Tobacco,Firearms and Explosives (ATF) Director Robert Cekada to reverse over 30 planned deregulatory actions related to firearms.T he over 30 planned actions represent one of the most sweeping federal firearms deregulation efforts in decades.
 The deregulatory actions would make it easier for prohibited persons, including felons and domestic abusers, to acquire firearms; make it harder for law enforcement to identify gun traffickers, solve firearm crimes, and prevent crimes; and weaken protections to prevent the sale of handguns to children and teenagers.
 ATF’s own analysis of one of the deregulatory actions admits the potential harm.
-ATF wrote: ““[i]n such a case, a prohibited person who obtains a firearm under the proposed rule and, hypothetically, uses that firearm to inflict mass casualties, would have been prevented under the current baseline requirement to renew the background check.”
-In a letter to ATF Director Robert Cekada, the lawmakers urged the proposed actions be reversed:
-“These proposals would weaken longstanding gun violence prevention policies that Congress has approved or supported through legislation, appropriations, and oversight.
+ATF wrote: ““[i]n such a case, a prohibited person who obtains a firearm under the proposed rule and, hypothetically, uses that firearm to inflict mass casualties, would have been prevented under the current baseline requirement to renew the background check.” In a letter to ATF Director Robert Cekada, the lawmakers urged the proposed actions be reversed: “These proposals would weaken longstanding gun violence prevention policies that Congress has approved or supported through legislation, appropriations, and oversight.
 We are especially concerned about changes that would loosen licensing standards, allow more gun sales to be sold without background checks, create risks that more prohibited persons will be able to obtain firearms illegally, increase remote firearm sales, hinder law enforcement’s ability to trace crime guns, reduce dealer accountability, weaken oversight of National Firearms Act weapons, narrow firearm prohibitions, and create new loopholes for illegal firearm transfers and straw purchases.
 These rules would make communities less safe and conflict with federal law, including provisions in the Bipartisan Safer Communities Act, which Congress enacted to strengthen background checks, target gun traffickers, and make it harder for dangerous individuals to access firearms,” wrote the lawmakers.
 “We urge ATF to withdraw these proposals and conduct a comprehensive review of their cumulative impact on public safety before proceeding with any additional regulatory action.
@@ -20,17 +16,10 @@ Brady is grateful to the House Gun Violence Prevention Task Force for speaking o
 These rollbacks will make gun trafficking easier and put communities at greater risk.
 Taken together, they would weaken federal firearms safeguards, reduce gun industry accountability, limit law enforcement oversight, and arm dangerous individuals,” said GIFFORDS Executive Director Emma Brown.
 “At a time when communities continue to endure the devastating consequences of gun violence, federal agencies should strengthen enforcement tools and support compliance with existing law—not dismantle safeguards that keep Americans safe.
-GIFFORDS applauds the Gun Violence Prevention Task Force for their actions to stop the Trump administration's efforts.”
-"Months after calling himself part of the gun industry at an NRA convention, Todd Blanche stood alongside gun lobbyists to roll out more than 30 ATF rules that pad industry profits and, by ATF's own admission, make mass casualty events more likely.
+GIFFORDS applauds the Gun Violence Prevention Task Force for their actions to stop the Trump administration's efforts.” "Months after calling himself part of the gun industry at an NRA convention, Todd Blanche stood alongside gun lobbyists to roll out more than 30 ATF rules that pad industry profits and, by ATF's own admission, make mass casualty events more likely.
 The House Gun Violence Prevention Task Force is standing up for the vast majority of Americans who don’t think public safety should be for sale, and we’re thankful for their continued leadership,” said John Feinblatt, President of Everytown for Gun Safety.
 The full text of the letter can be found HERE and below.
-The Honorable Robert Cekada
-Director
-Bureau of Alcohol, Tobacco, Firearms and Explosives
-99 New York Avenue, NE
-Washington, DC 20226
-Dear Director Cekada:
-As members of the House Gun Violence Prevention Task Force, we write to express our deep concern regarding the Department of Justice (DOJ) and the Bureau of Alcohol, Tobacco, Firearms and Explosives’ (ATF’s) April 2026 series of more than 30 firearms-related regulatory proposals.
+The Honorable Robert Cekada Director Bureau of Alcohol, Tobacco, Firearms and Explosives 99 New York Avenue, NE Washington, DC 20226 Dear Director Cekada: As members of the House Gun Violence Prevention Task Force, we write to express our deep concern regarding the Department of Justice (DOJ) and the Bureau of Alcohol, Tobacco, Firearms and Explosives’ (ATF’s) April 2026 series of more than 30 firearms-related regulatory proposals.
 Together these proposals would significantly alter longstanding federal laws and policies governing firearm sales, transfers, recordkeeping, dealer accountability, and background checks, as well as the regulation of National Firearms Act (NFA) weapons and the enforcement of firearms trafficking laws.
 Collectively, they constitute one of the most sweeping federal firearms deregulation efforts in decades.
 We are highly concerned that these proposals would undermine public safety by reducing accountability for Federal Firearms Licensees (FFLs) — including dealers, manufacturers, and importers—expanding opportunities for firearms trafficking and making it easier for prohibited individuals to obtain firearms.
@@ -40,24 +29,21 @@ These rules would make communities less safe and conflict with federal law, incl
 As you know, gun violence is the leading cause of death for American children and teens, as well as for law enforcement officers killed in the line of duty.
 Critically, ATF’s own analysis acknowledges the potential harm of its proposed rules, stating in one case, “[i]n such a case, a prohibited person who obtains a firearm under the proposed rule and, hypothetically, uses that firearm to inflict mass casualties, would have been prevented under the current baseline requirement to renew the background check.” ATF’s rule changes should not be considered in isolation, as the rules interact in ways that magnify the negative impacts of the proposed changes.
 When evaluated altogether, it becomes clear that this series of proposed rules will have a catastrophic impact on public safety, enabling firearm trafficking and widespread violence.
-We therefore raise serious concerns with the following changes that make our communities less safe:
-ATF has proposed changes to make it easier for prohibited persons, including felons and domestic abusers, minors, and other dangerous persons to illegally acquire firearms:
-- ATF proposes allowing fully remote online gun sales, allowing dangerous people to skip the gun store and ship firearms directly to their home.
-- ATF proposes creating a new “spousal” firearm trafficking loophole by allowing the sale of firearms to couples without any requirement to check that both partners are legally eligible to access a firearm.
-- ATF proposes rewriting longstanding mental health regulations such that individuals currently prohibited from gun possession for mental health reasons will now be allowed to possess firearms.
-- ATF proposes redesigning the background check form, making it harder for customers, especially prohibited purchasers, and responsible FFLs to understand the legal restrictions to accessing firearms.
-- ATF proposes weakening the federal requirement for a background check on firearm sales at FFLs in states without NICS-equivalent background check standards for firearm licenses.
+We therefore raise serious concerns with the following changes that make our communities less safe: ATF has proposed changes to make it easier for prohibited persons, including felons and domestic abusers, minors, and other dangerous persons to illegally acquire firearms: ATF proposes allowing fully remote online gun sales, allowing dangerous people to skip the gun store and ship firearms directly to their home.
+ATF proposes creating a new “spousal” firearm trafficking loophole by allowing the sale of firearms to couples without any requirement to check that both partners are legally eligible to access a firearm.
+ATF proposes rewriting longstanding mental health regulations such that individuals currently prohibited from gun possession for mental health reasons will now be allowed to possess firearms.
+ATF proposes redesigning the background check form, making it harder for customers, especially prohibited purchasers, and responsible FFLs to understand the legal restrictions to accessing firearms.
+ATF proposes weakening the federal requirement for a background check on firearm sales at FFLs in states without NICS-equivalent background check standards for firearm licenses.
 Americans overwhelmingly agree that people who are a danger to themselves or others should not be able to access firearms, but ATF’s proposed rules eviscerate the federal background check system, which is the first line of defense against gun trafficking and prohibited purchasers from accessing firearms.
-ATF has proposed changes that will make it harder for law enforcement to identify gun traffickers, solve firearm crimes, and prevent crimes:
-- ATF proposes eliminating the requirement that local law enforcement are notified whenever a community member applies for a NFA weapon.
-- ATF proposes narrowing the requirement that the owner of an NFA weapon obtain approval from ATF before bringing the weapon across state lines.
-- ATF proposes destroying gun transfer records after a period of 20 or 30 years, making it nearly impossible to trace older guns used in crimes.
+ATF has proposed changes that will make it harder for law enforcement to identify gun traffickers, solve firearm crimes, and prevent crimes: ATF proposes eliminating the requirement that local law enforcement are notified whenever a community member applies for a NFA weapon.
+ATF proposes narrowing the requirement that the owner of an NFA weapon obtain approval from ATF before bringing the weapon across state lines.
+ATF proposes destroying gun transfer records after a period of 20 or 30 years, making it nearly impossible to trace older guns used in crimes.
 By proposing to keep law enforcement in the dark about the sale of highly regulated firearms and by destroying records needed to trace guns used in crimes, law enforcement will have less information and fewer tools to keep our communities safe.
 ATF has proposed weakening protections to prevent the sale of handguns to children and teenagers.
-- ATF proposes eliminating the requirement for FFLs to post signage and provide written notice to all handgun purchasers that it is unlawful to provide or allow juveniles unsupervised access to handguns.
+ATF proposes eliminating the requirement for FFLs to post signage and provide written notice to all handgun purchasers that it is unlawful to provide or allow juveniles unsupervised access to handguns.
 Handguns are used in the vast majority of youth firearm crimes, and providing a written notice at the time of a handgun sale is an inexpensive and reasonable requirement that increases awareness of a major public safety risk.
 ATF has proposed changing the legal standard for determining whether an FFL’s license can be revoked for willfully violating the Gun Control Act (GCA).
-- ATF proposes raising the threshold for what constitutes a “willful” violation of firearms law that would prompt ATF to consider suspending or revoking a FFL’s license or imposing other civil penalties.
+ATF proposes raising the threshold for what constitutes a “willful” violation of firearms law that would prompt ATF to consider suspending or revoking a FFL’s license or imposing other civil penalties.
 The DOJ estimates that less than five percent of FFLs are responsible for selling 90 percent of firearms recovered at crimes.
 This change will make it more difficult for ATF to hold the small number of FFLs engaging in reckless and illegal business practices accountable for their actions.
 ATF’s mission is to protect the public from gun crime and to enforce our nation’s federal firearms laws.
@@ -65,4 +51,4 @@ We are extremely concerned that these regulatory proposals would move the agency
 We urge ATF to withdraw these proposals and conduct a comprehensive review of their cumulative impact on public safety before proceeding with any additional regulatory action.
 We further request that ATF provide Congress with a detailed public safety impact analysis explaining how these proposals, and any future proposals would affect firearm trafficking investigations, crime gun tracing, background check effectiveness, dealer accountability, domestic violence and suicide prevention efforts, and youth access to firearms, and that the agency brief Congress on the rationale for—and expected consequences of—this and any future rules, before any implementation moves forward.
 We trust you will treat this matter with the urgency it demands and look forward to your prompt response.
-Sincerely,
+Sincerely, Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

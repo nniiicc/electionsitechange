@@ -1,11 +1,38 @@
 [
-"https://friendsofron.com/",
-"https://friendsofron.com/cart",
-"https://secure.actblue.com/donate/dr_ron-26",
-"https://secure.actblue.com/donate/itnyre-for-indiana-1",
-"https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=10",
-"https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=100",
-"https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=27",
-"https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=5",
-"https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=100"
+},
+{
+"text": "$27",
+"href": "https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=27"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/itnyre-for-indiana-1?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.friendsofron.com/cart"
+},
+{
+"text": "Campaign Swag",
+"href": "https://secure.actblue.com/donate/dr_ron-26"
+},
+{
+"text": "[image: A fundraising flyer featuring a QR code and a URL for donations to support paying off a $50,000 goal, promoting benefits like smart taxes, strong schools, and protecting farms. The flyer is for Dr. Ron Itnyre's State Senate District 27 campaign.]",
+"href": "https://secure.actblue.com/donate/itnyre-for-indiana-1"
+},
+{
+"text": "[image: Friends of Ron]",
+"href": "https://www.friendsofron.com/"
+}
 ]

@@ -1,14 +1,22 @@
-Happy New Year and the Upcoming Session
-Dear Friends and Neighbors, As we begin this new year, I would like to wish you all a safe and prosperous 2018.
+top of page HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+TAKE ACTION CONTRIBUTE STAY CONNECTED NEWSROOM Happy New Year and the Upcoming Session Dear Friends and Neighbors, As we begin this new year, I would like to wish you all a safe and prosperous 2018.
 It's surreal how...
+HAPPY HOLIDAYS!
 Happy Thanksgiving!
 Dear Friends and Neighbors, As you gather with your loved ones and enjoy spending time with your family this weekend, I hope you will...
 Veteran's Day!
 As we honor our heroes today, remember their achievements, their courage and their dedication.
 To all our veterans, thank you!
 Thank you...
-HURRICANE IRMA
-Dear Friends and Neighbors, Although Hurricane Irma has moved west of South Carolina, we will be impacted by this storm.
+HURRICANE IRMA Dear Friends and Neighbors, Although Hurricane Irma has moved west of South Carolina, we will be impacted by this storm.
 In the...
-BACK TO SCHOOL
-Dear Friends and Neighbors, As summer draws to an end and my two daughters go back to school, it reinforces for me the vital and...
+BACK TO SCHOOL Dear Friends and Neighbors, As summer draws to an end and my two daughters go back to school, it reinforces for me the vital and...
+5 6 7 8 9 Recent Posts Statement on the Passing of Senator Lindsey Graham 2026 END OF SESSION LEGISLATIVE UPDATE Happy Birthday, America!
+Plus my End of Session Legislative Update Happy holidays from my family to yours!
+Happy Thanksgiving!
+Checking In - Recovering from Hurricane Helene BACK TO SCHOOL MESSAGE - HONORING OUR TEACHERS Happy Birthday, America!
+Plus my End of Session Legislative Update Happy Holidays from my family to yours!
+Memorial Day - Remember and Honor CONTRIBUTE NOW GET UPDATES FOLLOW ME LIKE MY PAGE HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+CONTRIBUTE Phone: 803.212-6940 Blatt Building, #532-C, Pendleton Street Columbia, SC 29201 Email: beth@bethbernsteinsc.com | Beth Bernstein for House PAID FOR BY BETH BERNSTEIN FOR HOUSE Follow Us on X! bottom of page

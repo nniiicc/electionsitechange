@@ -1,51 +1,214 @@
 [
-"https://carecandidates.org/",
-"https://cmvotercenter.org/",
-"https://davepinto.com/",
-"https://davepinto.com/about",
-"https://davepinto.com/endorsements",
-"https://davepinto.com/get-involved",
-"https://davepinto.com/lawnsigns",
-"https://davepinto.com/priorities",
-"https://davepinto.com/privacy-policy",
-"https://davepinto.com/volunteer",
-"https://davepinto.com/vote",
-"https://educationminnesota.org/",
-"https://everytown.org/about-everytown",
-"https://facebook.com/davepintomn",
-"https://fairvotemn.org/champions",
-"https://friendsaction-bwca.org/",
-"https://ibew.org/",
-"https://ibew292.org/",
-"https://instagram.com/davepintomn",
-"https://instagram.com/tcupmn",
-"https://jc32.org/drive.html",
-"https://liunaminnesota.org/Vote",
-"https://local49.org/",
-"https://mfu.org/",
-"https://minnesotabuildingtrades.org/saint-paul-building-construction-trades-council",
-"https://mnaflcio.org/",
-"https://mnmed.org/advocacy/medpac",
-"https://mnnow.org/pac/mn-now-pac-candidates",
-"https://mnnurses.org/nurses-announce-70-new-endorsements-in-2026-minnesota-house-senate-and-secretary-of-state-races",
-"https://mnpipetrades.com/",
-"https://nmcarpenters.com/",
-"https://outfront.org/",
-"https://plannedparenthood.org/planned-parenthood-north-central-states",
-"https://prochoiceminnesota.org/",
-"https://sd64dfl.org/",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=10",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=1000",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=150",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=25",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=250",
-"https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=75",
-"https://seiuhcmnia.org/",
-"https://takeactionminnesota.org/",
-"https://takeactionminnesota.org/duluth-tenants",
-"https://takeactionminnesota.org/minnesota-families-for-public-schools",
-"https://techforcampaigns.org/",
-"https://x.com/davepinto",
-"https://youtube.com/@davepintomn"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=10"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=1000"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=250"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1?amount=75"
+},
+{
+"text": "About Dave",
+"href": "https://davepinto.com/about/"
+},
+{
+"text": "Endorsements",
+"href": "https://davepinto.com/endorsements/"
+},
+{
+"text": "Facebook icon",
+"href": "https://www.facebook.com/davepintomn/"
+},
+{
+"text": "Get Involved",
+"href": "https://davepinto.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://davepinto.com/"
+},
+{
+"text": "Instagram icon",
+"href": "https://www.instagram.com/davepintomn/"
+},
+{
+"text": "Lawn Signs",
+"href": "https://davepinto.com/lawnsigns"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1"
+},
+{
+"text": "Priorities",
+"href": "https://davepinto.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://davepinto.com/privacy-policy/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://davepinto.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://davepinto.com/vote/"
+},
+{
+"text": "X icon",
+"href": "https://x.com/davepinto"
+},
+{
+"text": "Youtube icon",
+"href": "https://www.youtube.com/@davepintomn"
+},
+{
+"text": "[image: 2026 Moms Demand Action Gun Sense Candidate]",
+"href": "https://www.everytown.org/about-everytown/"
+},
+{
+"text": "[image: Committee to Protect Health Care]",
+"href": "https://carecandidates.org"
+},
+{
+"text": "[image: Conservation Minnesota Voter Center]",
+"href": "https://www.cmvotercenter.org"
+},
+{
+"text": "[image: Dave Pinto]",
+"href": "https://davepinto.com/"
+},
+{
+"text": "[image: Duluth Tenants]",
+"href": "https://takeactionminnesota.org/duluth-tenants/"
+},
+{
+"text": "[image: Education Minnesota PAC]",
+"href": "https://educationminnesota.org"
+},
+{
+"text": "[image: FairVote Minnesota’s RCV Democracy Champion]",
+"href": "https://fairvotemn.org/champions/"
+},
+{
+"text": "[image: Friends of the Boundary Waters Action Network]",
+"href": "https://friendsaction-bwca.org"
+},
+{
+"text": "[image: Gender Justice Action PAC]",
+"href": "https://www.genderjusticeaction.us/gjapac/"
+},
+{
+"text": "[image: IBEW Local 119]",
+"href": "https://ibew.org"
+},
+{
+"text": "[image: IBEW Local 292]",
+"href": "https://www.ibew292.org"
+},
+{
+"text": "[image: IUOE Local 49]",
+"href": "https://local49.org"
+},
+{
+"text": "[image: LIUNA Minnesota and North Dakota]",
+"href": "https://liunaminnesota.org/Vote"
+},
+{
+"text": "[image: MEDPAC]",
+"href": "https://www.mnmed.org/advocacy/medpac"
+},
+{
+"text": "[image: MN AFL-CIO]",
+"href": "https://mnaflcio.org"
+},
+{
+"text": "[image: MN Pipe Trades]",
+"href": "https://www.mnpipetrades.com"
+},
+{
+"text": "[image: Minnesota Families for Public Schools]",
+"href": "https://takeactionminnesota.org/minnesota-families-for-public-schools/"
+},
+{
+"text": "[image: Minnesota NOW PAC]",
+"href": "https://mnnow.org/pac/mn-now-pac-candidates/"
+},
+{
+"text": "[image: Minnesota Nurses Association]",
+"href": "https://mnnurses.org/nurses-announce-70-new-endorsements-in-2026-minnesota-house-senate-and-secretary-of-state-races/"
+},
+{
+"text": "[image: Minnesota SD 64 DFL]",
+"href": "https://www.sd64dfl.org"
+},
+{
+"text": "[image: Northern Midwest Regional Council of Carpenters]",
+"href": "https://www.nmcarpenters.com"
+},
+{
+"text": "[image: OutFront Minnesota]",
+"href": "https://www.outfront.org"
+},
+{
+"text": "[image: Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund]",
+"href": "https://www.plannedparenthood.org/planned-parenthood-north-central-states"
+},
+{
+"text": "[image: Pro-Choice Minnesota PAC]",
+"href": "https://www.prochoiceminnesota.org"
+},
+{
+"text": "[image: SEIU MN State Council]",
+"href": "https://www.seiuhcmnia.org"
+},
+{
+"text": "[image: Saint Paul Building and Construction Trades Council]",
+"href": "https://minnesotabuildingtrades.org/saint-paul-building-construction-trades-council"
+},
+{
+"text": "[image: Take Action MN]",
+"href": "https://takeactionminnesota.org"
+},
+{
+"text": "[image: Teamsters Joint Council 32 DRIVE]",
+"href": "https://www.jc32.org/drive.html"
+},
+{
+"text": "[image: Twin Cities United Performers]",
+"href": "https://www.instagram.com/tcupmn/"
+},
+{
+"text": "[image]",
+"href": "https://mfu.org"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/donate/pinto-volunteer-committee-1"
+},
+{
+"text": "info@davepinto.com",
+"href": "mailto:info@davepinto.com"
+}
 ]

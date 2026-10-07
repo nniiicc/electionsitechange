@@ -1,66 +1,434 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=44th+Annual+%22Virtual%22+Labor+Day+Cookout&dates=20200907T190000Z%2F20200907T203000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=75th+Birthday+Gala+in+Honor+of+Congressman+Bobby+Scott&dates=20220430T230000Z%2F20220501T020000Z&location=600+Settlers+Landing+Road%2C+Hampton%2C+VA%2C+23669%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=CANCELLED+--+Congressman+Scott%27s+45th+Annual+Labor+Day+Cookout%21&dates=20210906T190000Z%2F20210906T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Congressman+Bobby+Scott%27s+Annual+Labor+Day+Cookout&dates=20230904T190000Z%2F20230904T220000Z&location=914+Shore+Drive%2C+Newport+News",
-"http://google.com/calendar/event?action=TEMPLATE&text=Congressman+Bobby+Scott%27s+Annual+Labor+Day+Cookout&dates=20240902T190000Z%2F20240902T220000Z&location=914+Shore+Drive%2C+Newport+News%2C+VA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Congressman+Bobby+Scott%27s+Annual+Labor+Day+Cookout&dates=20250901T190000Z%2F20250901T220000Z&location=914+Shore+Drive%2C+Newport+News%2C+VA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Drive-In+GOTV+Rally+w%2F+Lt.+Gov.+Fairfax%2C+Rep.+McEachin+%26amp%3B+Rep.+Scott&dates=20201025T180000Z%2F20201025T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Vote+Drive-In+Rally+&dates=20201024T170000Z%2F20201024T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+Featuring+Rep.+Maxine+Waters&dates=20200913T220000Z%2F20200913T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+Featuring+Special+Guest+Dr.+Rachel+Bitecofer&dates=20201213T230000Z%2F20201214T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+Featuring+Special+Guest+Paul+Begala&dates=20201115T230000Z%2F20201116T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+with+Special+Guest+Rev.+Dr.+Howard-John+Wesley&dates=20201004T220000Z%2F20201004T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+with+Special+Guest+Senator+Mark+Warner&dates=20201018T220000Z%2F20201018T230000Z",
-"http://maps.google.com/?q=600+Settlers+Landing+Road+Hampton%2C+VA%2C+23669+United+States",
-"http://maps.google.com/?q=914+Shore+Drive+Newport+News",
-"http://maps.google.com/?q=914+Shore+Drive+Newport+News%2C+VA",
-"https://bit.ly/ChesapeakeGOTVRally",
-"https://bobbyscottforcongress.com/",
-"https://bobbyscottforcongress.com/about-bobby",
-"https://bobbyscottforcongress.com/contact",
-"https://bobbyscottforcongress.com/events",
-"https://bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott",
-"https://bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott?format=ical",
-"https://bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout",
-"https://bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1",
-"https://bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1?format=ical",
-"https://bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2",
-"https://bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2?format=ical",
-"https://bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout?format=ical",
-"https://bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout",
-"https://bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout?format=ical",
-"https://bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott",
-"https://bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott?format=ical",
-"https://bobbyscottforcongress.com/events/early-vote-drive-in-rally",
-"https://bobbyscottforcongress.com/events/early-vote-drive-in-rally?format=ical",
-"https://bobbyscottforcongress.com/events/laborday-cookout",
-"https://bobbyscottforcongress.com/events/laborday-cookout?format=ical",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters?format=ical",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer?format=ical",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala?format=ical",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley?format=ical",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner?format=ical",
-"https://bobbyscottforcongress.com/photos",
-"https://bobbyscottforcongress.com/press-1",
-"https://bobbyscottforcongress.com/search",
-"https://bobbyscottforcongress.com/the-scott-record",
-"https://bobbyscottforcongress.com/volunteer",
-"https://bobbyscottforcongress.com/vote",
-"https://bobbyscottforcongress.com/working-for-us",
-"https://facebook.com/bobbyscottforcongress",
-"https://facebook.com/bobbyscottforcongress/live",
-"https://mobilize.us/dpva/event/667637?emci=e90baeab-bb63-ef11-991a-6045bddbfc4b&emdi=ea000000-0000-0000-0000-000000000001",
-"https://secure.actblue.com/donate/bobby-scott-3",
-"https://secure.actblue.com/donate/bsbd75",
-"https://twitter.com/BobbyScott4VA3",
-"https://vaccinate.virginia.gov/?emci=503c0f6a-effe-eb11-b563-501ac57b8fa7&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://vademocrats.org/",
-"https://vayd.org/",
-"https://wevoteva.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=600+settlers+landing+road+hampton%2C+va%2C+23669+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=914+shore+drive+newport+news%2C+va+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=914+shore+drive+newport+news+"
+},
+{
+"text": "44th Annual \"Virtual\" Labor Day Cookout",
+"href": "https://www.bobbyscottforcongress.com/events/laborday-cookout"
+},
+{
+"text": "75th Birthday Gala in Honor of Congressman Bobby Scott",
+"href": "https://www.bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott"
+},
+{
+"text": "About Bobby",
+"href": "https://www.bobbyscottforcongress.com/about-bobby"
+},
+{
+"text": "Apr 30 7:00 PM19:00",
+"href": "https://www.bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott"
+},
+{
+"text": "CANCELLED -- Congressman Scott's 45th Annual Labor Day Cookout!",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout"
+},
+{
+"text": "CLICK HERE TO DONATE ONLINE",
+"href": "https://secure.actblue.com/donate/bsbd75"
+},
+{
+"text": "CLICK HERE TO RSVP TODAY, BEFORE WE RUN OUT OF SLOTS!",
+"href": "https://www.mobilize.us/dpva/event/667637/?nvep=&hmac=&emci=e90baeab-bb63-ef11-991a-6045bddbfc4b&emdi=ea000000-0000-0000-0000-000000000001&ceid="
+},
+{
+"text": "Congressman Bobby Scott's Annual Labor Day Cookout",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout"
+},
+{
+"text": "Congressman Bobby Scott's Annual Labor Day Cookout",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1"
+},
+{
+"text": "Congressman Bobby Scott's Annual Labor Day Cookout",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bobbyscottforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Dec 13 6:00 PM18:00",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer"
+},
+{
+"text": "Drive-In GOTV Rally w/ Lt. Gov. Fairfax, Rep. McEachin & Rep. Scott",
+"href": "https://www.bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott"
+},
+{
+"text": "Early Vote Drive-In Rally",
+"href": "https://www.bobbyscottforcongress.com/events/early-vote-drive-in-rally"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=44th+Annual+%22Virtual%22+Labor+Day+Cookout&dates=20200907T190000Z%2F20200907T203000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=75th+Birthday+Gala+in+Honor+of+Congressman+Bobby+Scott&dates=20220430T230000Z%2F20220501T020000Z&location=600+Settlers+Landing+Road%2C+Hampton%2C+VA%2C+23669%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CANCELLED+--+Congressman+Scott%27s+45th+Annual+Labor+Day+Cookout%21&dates=20210906T190000Z%2F20210906T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Congressman+Bobby+Scott%27s+Annual+Labor+Day+Cookout&dates=20230904T190000Z%2F20230904T220000Z&location=914+Shore+Drive%2C+Newport+News"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Congressman+Bobby+Scott%27s+Annual+Labor+Day+Cookout&dates=20240902T190000Z%2F20240902T220000Z&location=914+Shore+Drive%2C+Newport+News%2C+VA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Congressman+Bobby+Scott%27s+Annual+Labor+Day+Cookout&dates=20250901T190000Z%2F20250901T220000Z&location=914+Shore+Drive%2C+Newport+News%2C+VA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Drive-In+GOTV+Rally+w%2F+Lt.+Gov.+Fairfax%2C+Rep.+McEachin+%26amp%3B+Rep.+Scott&dates=20201025T180000Z%2F20201025T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Vote+Drive-In+Rally+&dates=20201024T170000Z%2F20201024T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+Featuring+Rep.+Maxine+Waters&dates=20200913T220000Z%2F20200913T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+Featuring+Special+Guest+Dr.+Rachel+Bitecofer&dates=20201213T230000Z%2F20201214T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+Featuring+Special+Guest+Paul+Begala&dates=20201115T230000Z%2F20201116T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+with+Special+Guest+Rev.+Dr.+Howard-John+Wesley&dates=20201004T220000Z%2F20201004T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+with+Special+Guest+Senator+Mark+Warner&dates=20201018T220000Z%2F20201018T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/early-vote-drive-in-rally?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/laborday-cookout?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.bobbyscottforcongress.com/press-1"
+},
+{
+"text": "Nov 15 6:00 PM18:00",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala"
+},
+{
+"text": "Oct 18 6:00 PM18:00",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner"
+},
+{
+"text": "Oct 24 1:00 PM13:00",
+"href": "https://www.bobbyscottforcongress.com/events/early-vote-drive-in-rally"
+},
+{
+"text": "Oct 25 2:00 PM14:00",
+"href": "https://www.bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott"
+},
+{
+"text": "Oct 4 6:00 PM18:00",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley"
+},
+{
+"text": "Paid for by Bobby Scott for Congress",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Photos",
+"href": "https://www.bobbyscottforcongress.com/photos"
+},
+{
+"text": "Sep 1 3:00 PM15:00",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2"
+},
+{
+"text": "Sep 13 6:00 PM18:00",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters"
+},
+{
+"text": "Sep 2 3:00 PM15:00",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1"
+},
+{
+"text": "Sep 4 3:00 PM15:00",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout"
+},
+{
+"text": "Sep 6 3:00 PM15:00",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout"
+},
+{
+"text": "Sep 7 3:00 PM15:00",
+"href": "https://www.bobbyscottforcongress.com/events/laborday-cookout"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott Featuring Rep. Maxine Waters",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott Featuring Special Guest Dr. Rachel Bitecofer",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott Featuring Special Guest Paul Begala",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott with Special Guest Rev. Dr. Howard-John Wesley",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott with Special Guest Senator Mark Warner",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner"
+},
+{
+"text": "The Scott Record",
+"href": "https://www.bobbyscottforcongress.com/the-scott-record"
+},
+{
+"text": "VAYD",
+"href": "https://www.vayd.org/"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/early-vote-drive-in-rally"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/laborday-cookout"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley"
+},
+{
+"text": "View Event →",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner"
+},
+{
+"text": "Virginia Dems",
+"href": "https://vademocrats.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bobbyscottforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bobbyscottforcongress.com/vote"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://www.wevoteva.com/"
+},
+{
+"text": "Working For Us",
+"href": "https://www.bobbyscottforcongress.com/working-for-us"
+},
+{
+"text": "[image: 75th Birthday Gala in Honor of Congressman Bobby Scott]",
+"href": "https://www.bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott"
+},
+{
+"text": "[image: Bobby Scott Paul Begala.jpg]",
+"href": "https://www.facebook.com/bobbyscottforcongress/live"
+},
+{
+"text": "[image: Bobby Scott for Congress]",
+"href": "https://www.bobbyscottforcongress.com/"
+},
+{
+"text": "[image: CANCELLED -- Congressman Scott's 45th Annual Labor Day Cookout!]",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout"
+},
+{
+"text": "[image: Congressman Bobby Scott's Annual Labor Day Cookout]",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout"
+},
+{
+"text": "[image: FB_logo_white.png]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "[image: IMG_1874.jpg]",
+"href": "https://bit.ly/ChesapeakeGOTVRally"
+},
+{
+"text": "[image: twitter_logo_white.png]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/bsbd75"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-bobby-scotts-annual-labor-day-cookout-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/drive-in-gotv-rally-w-lt-gov-fairfax-rep-mceachin-amp-rep-scott"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/early-vote-drive-in-rally"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/laborday-cookout"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-rep-maxine-waters"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-paul-begala"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "vaccinate.virginia.gov",
+"href": "https://vaccinate.virginia.gov/?emci=503c0f6a-effe-eb11-b563-501ac57b8fa7&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "www.facebook.com/bobbyscottforcongress/live",
+"href": "https://www.facebook.com/bobbyscottforcongress/live"
+}
 ]

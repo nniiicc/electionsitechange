@@ -1,5 +1,5 @@
-Thoughts after Educational Discussions
-Perspective - After reading more about the Kansas Education Funding Task Force and watching some of the recordings from the discussions, it has become very apparent that there is a disparity in understanding how the academic environment and testing actually work.
+top of page Amy Warhurst MENU Close Home About Blog All Posts Search Thoughts after Educational Discussions warhurstfor90 Jun 9 2 min read Jim Porter of the Kansas State Board of Education evaluates pages of data at an Education Funding Task Force meeting on May 27, 2026.
+(Photo by Baya Burgess/Kansas Reflector) Perspective - After reading more about the Kansas Education Funding Task Force and watching some of the recordings from the discussions, it has become very apparent that there is a disparity in understanding how the academic environment and testing actually work.
 Imagine an entire year's worth of work narrowed down to one day.
 As a nurse, how patients are treated on one day.
 As a lawyer, one day of litigation.
@@ -17,3 +17,6 @@ It won't matter if all of your clients were having a bad day and they all gave y
 No promotions, no big jobs - you will not be able to be successful because of your previous score.
 Before believing that teachers should receive merit-based pay, think about it - you would want your pay to be reflected in this manner.
 State scores do not take into consideration the multiple student absences, the number of special education and ELL students, not to mention the parents who do not support their children in the classroom and at home.
+Email Yes, subscribe me to your newsletter.
+Submit Valley Center, KS 67147 E Mail - warhurstfor90@yahoo.com © # by Amy Warhurst.
+Powered and secured by Wix bottom of page

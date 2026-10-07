@@ -1,9 +1,38 @@
 [
-"https://votemichelle.org/bio.html",
-"https://votemichelle.org/campaign.html",
-"https://votemichelle.org/contact.html",
-"https://votemichelle.org/contribute.html",
-"https://votemichelle.org/endorse.html",
-"https://votemichelle.org/index.html",
-"https://votemichelle.org/issues.html"
+{
+"text": "BIO",
+"href": "https://www.votemichelle.org/bio.html"
+},
+{
+"text": "CAMPAIGN",
+"href": "https://www.votemichelle.org/campaign.html"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.votemichelle.org/contact.html"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.votemichelle.org/contribute.html"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votemichelle.org/endorse.html"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votemichelle.org/issues.html"
+},
+{
+"text": "VoteMussman@gmail.com",
+"href": "mailto:votemussman@gmail.com"
+},
+{
+"text": "[image: Michelle Mussman — Candidate for State Representative]",
+"href": "https://www.votemichelle.org/index.html"
+},
+{
+"text": "issues in Illinois",
+"href": "https://www.votemichelle.org/issues.html"
+}
 ]

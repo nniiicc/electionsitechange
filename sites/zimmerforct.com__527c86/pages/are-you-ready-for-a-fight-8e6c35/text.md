@@ -1,6 +1,6 @@
 Get your lawn sign!
-CLICK HERE
-Mar 06, 2026
+CLICK HERE Updates Campaign News Videos In the Press Platform Events Contact Updates Campaign News Videos In the Press Platform Events Contact Are you ready for a fight?
+Mar 06, 2026 1 min read Content Table of Contents Table of Contents × Are you ready for a fight?
 I am.
 Over the next several days and weeks, I’ll be sharing more about my platform and priorities.
 But first, I wanted you to hear it directly from me: I’m running for State Senate.
@@ -11,3 +11,4 @@ And most importantly, we deserve a Senator who will bring people together to sol
 If you believe in that vision, please join this fight.
 And if you’re able, consider pitching in a few dollars to help power our campaign.
 Together, we can build the kind of leadership our district truly deserves.
+English Made in Solidarity Tech

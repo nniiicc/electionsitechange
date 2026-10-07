@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "http://www.meholmes.com/events",
- "paid_for_by": null,
- "title": "Upcoming Events \u2013 Delegate Marvin E.",
+ "fingerprint": "93d21d06f22549a75b435fee56db436e400e2ffe",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Upcoming Events – Delegate Marvin E.",
  "years_mentioned": [
-  "2021"
+  "2020",
+  "2021",
+  "2022"
  ]
 }

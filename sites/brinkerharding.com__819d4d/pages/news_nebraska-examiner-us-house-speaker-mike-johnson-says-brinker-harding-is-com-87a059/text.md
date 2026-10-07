@@ -1,6 +1,4 @@
-Previous
-Previous
-KETV: State of the CD2 race, candidates fight for the seat to replace Rep.
-Don Bacon
-Next
-Next
+0 Skip to Content About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Nebraska Examiner: US House Speaker Mike Johnson says Brinker Harding is ‘common sense’ candidate for NE-02 Jul 16 Written By Zach Herr Zach Herr Previous Previous KETV: State of the CD2 race, candidates fight for the seat to replace Rep.
+Don Bacon Next Next 'I don't think it matters': Harding ready for challenger in Nebraska District 2 About Brinker Vision Endorsements Donate Privacy Press inquiries can be sent to press@brinkerharding.com © # Brinker Harding for Congress.
+All Rights Reserved.
+PAID FOR BY BRINKER HARDING FOR CONGRESS

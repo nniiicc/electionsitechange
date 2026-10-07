@@ -1,1 +1,2 @@
-DONATE TO THE CAMPAIGN BY MAIL Denise for Senate c/o William Donovan, Treasurer 10 Golden Dr Bedford, NH 03110 DONATE SECURELY WITH ANEDOT DONATE SECURELY WITH WINRED
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page DONATE TO THE CAMPAIGN BY MAIL Denise for Senate c/o William Donovan, Treasurer 10 Golden Dr Bedford, NH 03110 DONATE SECURELY WITH ANEDOT DONATE SECURELY WITH WINRED Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110

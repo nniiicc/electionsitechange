@@ -1,13 +1,62 @@
 [
-"https://davidhardy4tn.com/",
-"https://davidhardy4tn.com/about",
-"https://davidhardy4tn.com/get-involved",
-"https://davidhardy4tn.com/issues",
-"https://davidhardy4tn.com/privacy-policy",
-"https://secure.actblue.com/donate/davidhardy",
-"https://sos.tn.gov/elections/guides/guide-to-absentee-voting",
-"https://sos.tn.gov/elections/guides/how-to-register-to-vote",
-"https://sos.tn.gov/govotetn",
-"https://web.go-vote-tn.elections.tn.gov/",
-"https://williamsoncounty-tn.gov/40/Election-Commission"
+{
+"text": "ABOUT",
+"href": "https://www.davidhardy4tn.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.davidhardy4tn.com"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://sos.tn.gov/elections/guides/guide-to-absentee-voting"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://sos.tn.gov/elections/guides/how-to-register-to-vote"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://www.williamsoncounty-tn.gov/40/Election-Commission"
+},
+{
+"text": "CLICKING HERE.",
+"href": "https://web.go-vote-tn.elections.tn.gov/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/davidhardy"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.davidhardy4tn.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.davidhardy4tn.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.davidhardy4tn.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.davidhardy4tn.com/issues"
+},
+{
+"text": "MORE INFO",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davidhardy4tn.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.davidhardy4tn.com/about"
+},
+{
+"text": "[image: DHD26001 Logo_F-RGB Reverse.png]",
+"href": "https://www.davidhardy4tn.com"
+}
 ]

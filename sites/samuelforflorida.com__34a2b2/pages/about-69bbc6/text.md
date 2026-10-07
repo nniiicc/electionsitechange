@@ -1,52 +1,34 @@
-MEET SAMUEL
-Rooted in This Community.
+0 Skip to Content Meet Samuel Samuel's Priorities Endorsements In The News Get Involved English DONATE Open Menu Close Menu Meet Samuel Samuel's Priorities Endorsements In The News Get Involved English DONATE Open Menu Close Menu Meet Samuel Samuel's Priorities Endorsements In The News Get Involved English Back DONATE MEET SAMUEL Rooted in This Community.
 Ready to Fight for It in Tallahassee.
-A Second Chance at Freedom
-Samuel Vilchez Santiago grew up in Azalea Park after arriving in Orlando as a young political asylee fleeing Venezuela’s authoritarian regime.
+A Second Chance at Freedom Samuel Vilchez Santiago grew up in Azalea Park after arriving in Orlando as a young political asylee fleeing Venezuela’s authoritarian regime.
 He came not knowing any English, struggled through his first days in school, and five years later graduated as Valedictorian of Colonial High School.
 He became the first in his family to attend college in the United States at Princeton University, later completing a Master in Public Policy Degree at the University of Oxford U.K.
-A Calling to Serve
-As a teenager, Samuel organized voter registration drives that signed up 500 of his classmates at Colonial, volunteered at citizenship clinics, and created a series of presentations to help hundreds of students apply to college.
+A Calling to Serve As a teenager, Samuel organized voter registration drives that signed up 500 of his classmates at Colonial, volunteered at citizenship clinics, and created a series of presentations to help hundreds of students apply to college.
 In college, he co-led the efforts to rename Stonewall Jackson Middle School to Roberto Clemente, removing one of the last Confederate markers in the district.
 At Princeton University, he became a leading voice for student equity, earning the Priscilla Glickman ’92 Memorial Prize and the Spirit of Princeton Awards for service and impact.
-Building Power and Transforming Local Democracy
-In 2023, Samuel was elected as Chair of the Orange County Democratic Party, becoming the youngest and only Hispanic local Democratic Party chair in Florida.
+Building Power and Transforming Local Democracy In 2023, Samuel was elected as Chair of the Orange County Democratic Party, becoming the youngest and only Hispanic local Democratic Party chair in Florida.
 Under his leadership, the party tripled its membership, trained more than 2,000 volunteers, knocked on hundreds of thousands of doors, and flipped seven Republican-held seats blue.
 By building a year-round, community-rooted organizing model, Samuel has transformed the local party into one of the strongest and most dynamic in the state, proving that when people are organized, resourced, and empowered, they can win anywhere.
 For more than a decade, Samuel has been one of Central Florida’s most effective young organizers, leading efforts that have strengthened democracy and empowered working families across the region.
 He managed Johanna López’s historic election as the first Latina on the Orange County School Board, served as Communications Director for Orlando’s March for Our Lives, and led statewide voting-rights efforts as Florida Campaign Manager at All Voting Is Local during the 2020 election.
 He also served as a Hispanic media surrogate for the Biden–Harris campaign and later as National Co-Chair of Venezuelans with Harris, helping combat misinformation and mobilize immigrant voters nationwide.
-A Proven and Effective Public Servant
-Professionally, Samuel has spent his career building power for working families and immigrant communities as a nonprofit leader.
+A Proven and Effective Public Servant Professionally, Samuel has spent his career building power for working families and immigrant communities as a nonprofit leader.
 He led statewide voting-rights efforts as the Florida Campaign Manager at All Voting Is Local during the 2020 election, expanding language access, improving ballot curing, and helping thousands of voters navigate rapidly changing rules.
 As Florida State Director for the American Business Immigration Coalition, he advised the Biden-Harris administration to secure TPS designation and redesignation for more than 1 million people, supported the creation of the CHNV Humanitarian Parole Program benefiting over a million families, and built broad multiracial coalitions defending immigrant communities statewide.
 Today, as a Senior Nonprofit Manager at ActBlue, he helps thousands of nonprofits and grassroots movements across the country build people-powered fundraising programs that shift political influence away from corporations and toward communities.
 He has served on the boards of the HOPE CommUnity Center and Alianza Center, continuing his long-standing commitment to our families and community.
 Samuel became the youngest member ever appointed to the Orange County Charter Review Commission, where he championed major reforms to strengthen local democracy and protect the environment, including enshrining the right to clean water in the county charter, safeguarding Split Oak Forest, and expanding access to citizen-led ballot initiatives.
 He now serves on the Orange County Membership Review Board, working to diversify county boards overseeing housing affordability, disability rights, and elder services so they finally reflect the communities they serve.
-Recognized for Leadership and Impact
-Samuel’s work has been widely recognized at the local, state, and national levels.
+Recognized for Leadership and Impact Samuel’s work has been widely recognized at the local, state, and national levels.
 He is a recipient of the President Obama Volunteer Service Award, the Congressional Youth Award, Princeton University’s Priscilla Glickman ’92 Memorial Prize, the Eisenhower Fellowship, and Heart of Florida United Way’s Emerging Leaders Impact Award.
 His contributions to immigrant rights, voting rights, and community empowerment have also been formally honored in the Congressional Record by Congressman Darren Soto.
-Why He’s Running
-Samuel is running to represent District 43 in the Florida House of Representatives because this district is his home, the place that opened every door that changed his life.
+Why He’s Running Samuel is running to represent District 43 in the Florida House of Representatives because this district is his home, the place that opened every door that changed his life.
 He wants to ensure that every kid and family in our community has access to the same opportunities he had to get ahead.
-He’s running to:
-- Shift power back to workers and families, not corporations
-- Make housing affordable and expand healthcare access
-- Strengthen public schools and expand dual enrollment and technical college program
-- Protect immigrant families from the constant fear and persecution
-- Defend reproductive freedom, LGBTQ rights, and civil liberties
-Samuel knows what it’s like to grow up in this community, struggle, and fight for every opportunity.
+He’s running to: Shift power back to workers and families, not corporations Make housing affordable and expand healthcare access Strengthen public schools and expand dual enrollment and technical college program Protect immigrant families from the constant fear and persecution Defend reproductive freedom, LGBTQ rights, and civil liberties Samuel knows what it’s like to grow up in this community, struggle, and fight for every opportunity.
 And he’s spent more than a decade fighting for the very issues he will champion in Tallahassee.
-“I’m running because this community deserves someone who knows what it’s like to grow up here and who’s already been fighting for it.”
-A Story Bigger Than One Person
-Samuel’s journey, from an asylee who arrived not speaking English to a Princeton and Oxford honors graduate, nonprofit leader, and Chair of the Orange County Democratic Party, is a testament to what is possible when a community opens its doors and invests in its people.
+“I’m running because this community deserves someone who knows what it’s like to grow up here and who’s already been fighting for it.” A Story Bigger Than One Person Samuel’s journey, from an asylee who arrived not speaking English to a Princeton and Oxford honors graduate, nonprofit leader, and Chair of the Orange County Democratic Party, is a testament to what is possible when a community opens its doors and invests in its people.
 His story is a living demonstration of the American Dream.
-Now, he’s ready to fight to give that same opportunity to every family in HD-43.
-*titles and organization names provided for biographical purposes only
-DONATE
-We’re building a grassroots movement in our community.
-Every dollar helps us reach more voters and bring real representation to Tallahassee.
-Make checks payable to "Samuel for Florida" P.O.
-Box 720533 Orlando, FL 32872
+Now, he’s ready to fight to give that same opportunity to every family in HD-43. *titles and organization names provided for biographical purposes only DONATE We’re building a grassroots movement in our community.
+Every dollar helps us reach more voters and bring real representation to Tallahassee. $50 $100 $250 $500 $1,000 CUSTOM Make checks payable to "Samuel for Florida" P.O.
+Box 720533 Orlando, FL 32872 DONATE P.O.
+Box 720533 Orlando, FL 32872 Site Design by Statecraft Media Privacy Policy Political advertisement paid for and approved by Samuel Vilchez Santiago, Democrat, for Florida House District 43.

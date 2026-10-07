@@ -1,16 +1,58 @@
 [
-"https://facebook.com/profile.php?id=100079155743172",
-"https://instagram.com/voteamandacook",
-"https://secure.actblue.com/donate/lethercook",
-"https://voteamandacook.com/",
-"https://voteamandacook.com/about-amanda-cook-1",
-"https://voteamandacook.com/contact-us",
-"https://voteamandacook.com/endorsements",
-"https://voteamandacook.com/issues",
-"https://voteamandacook.com/privacy-policy",
-"https://voteamandacook.com/request-a-yard-sign-1",
-"https://voteamandacook.com/terms-and-conditions",
-"https://voteamandacook.com/volunteer",
-"https://voteamandacook.com/where-to-vote",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "About Amanda Cook",
+"href": "https://voteamandacook.com/about-amanda-cook-1"
+},
+{
+"text": "Contact Us",
+"href": "https://voteamandacook.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lethercook"
+},
+{
+"text": "Endorsements",
+"href": "https://voteamandacook.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://voteamandacook.com/"
+},
+{
+"text": "Issues",
+"href": "https://voteamandacook.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteamandacook.com/privacy-policy"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://voteamandacook.com/request-a-yard-sign-1"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://voteamandacook.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://voteamandacook.com/volunteer"
+},
+{
+"text": "Voter Lookup Tool",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Where to Vote",
+"href": "https://voteamandacook.com/where-to-vote"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100079155743172"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteamandacook"
+}
 ]

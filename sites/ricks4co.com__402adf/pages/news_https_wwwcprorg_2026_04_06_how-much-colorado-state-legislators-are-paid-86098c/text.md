@@ -1,4 +1,7 @@
-An ER nurse, a funeral home director, a firearms instructor, a physical therapist, a flower shop owner and plenty of attorneys.
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Morgan Anker April 7, 2026 How much are Colorado’s state legislators paid?
+Morgan Anker April 7, 2026 An ER nurse, a funeral home director, a firearms instructor, a physical therapist, a flower shop owner and plenty of attorneys.
 These are just some of the professions Colorado lawmakers return to when they’re not under the gold dome for the annual four-month-long legislative session.
 Colorado, like most states, has a part-time legislature that meets between the months of January and May.
 Lawmakers from all types of backgrounds pause their regular lives to be in Denver.
@@ -8,20 +11,17 @@ Though the number of days in the session has fluctuated over time, in the 1980s,
 Sarah Miller Frazer from Denver submitted a question to Colorado Wonders to ask what lawmakers do the rest of the year, the eight months they’re not in session at the Capitol, and how they get by financially, earning roughly $40,000 a year as a legislator.
 That annual salary doesn’t include a daily per diem during session that can bump up the pay a few thousand dollars for metro area legislators and more for rural members.
 “Do they have some kind of job that lets them take four months off, or do they not work the rest of the year and are somehow independently wealthy enough to cover all of their other living expenses?” asked Miller Frazer.
-“I know that some legislators are traveling and don't live near Denver, and so I've wondered how their family is doing without them if they have kids or other family members that rely on them?”
-Republican Rep.
+“I know that some legislators are traveling and don't live near Denver, and so I've wondered how their family is doing without them if they have kids or other family members that rely on them?” Republican Rep.
 Larry Don Suckla holds the distinction of having the longest commute.
 “I live almost an hour closer to Phoenix, Arizona, than I do Denver, Colorado,” Suckla said.
 He lives on a farm and ranch in Montezuma County, about seven miles from Cortez.
 He’s one of the Legislature’s only full-time farmers, and he’s also an auctioneer.
 He said he had to lease out his farm and his cows because of the demands of the session.
-“My cows, I lease out to my cousin, and he takes care of my cows.”
-Suckla rents a place in Denver during the session and tries to make it home a handful of times.
+“My cows, I lease out to my cousin, and he takes care of my cows.” Suckla rents a place in Denver during the session and tries to make it home a handful of times.
 Even then, he’s usually driving across his district, which spans 280 miles.
 “When I stuck my name in the hat to run for this office, I knew the sacrifices that I had to make.
 And I think every other lawmaker knows that as well,” he said.
-“And they better just figure out how to get their businesses in order and then come up here and serve.”
-Every lawmaker CPR News interviewed said they were honored to have the job, but they say it’s demanding, from workload to hours to pay.
+“And they better just figure out how to get their businesses in order and then come up here and serve.” Every lawmaker CPR News interviewed said they were honored to have the job, but they say it’s demanding, from workload to hours to pay.
 Many are retired or have family help or flexible jobs that can accommodate the legislative calendar.
 Democratic Sen.
 Kyle Mullica lives with his wife and three children in Thornton.
@@ -36,8 +36,7 @@ Democratic Rep.
 Jenny Willford from Northglenn has two young children and runs a flower shop out of her home.
 Her family primarily relies on her husband’s income during session.
 She said managing it all can be tough.
-“It can get crazy.”
-Republican Rep.
+“It can get crazy.” Republican Rep.
 Brandi Bradley of Douglas County also has a busy homelife.
 A wife and mother to four sons ranging from 12 to 19, she works part-time as a physical therapist.
 Her company lets her take the session off.
@@ -46,12 +45,9 @@ Bradley said summer and fall are catch-up time on all the boy stuff she misses d
 She said she is grateful she lives close enough to the Capitol to hug her kids every night, “even if it’s two in the morning.” Last fall was an especially challenging time when she essentially lived at the hospital after her oldest son, Cole, nearly died in a motorcycle accident.
 “I don't take this job for granted,” she said of serving in the House.
 “I feel like God has placed me in it.
-You get to be one of 65 out of almost 6 million people, and we should be honored that the people have put us in this position, but there's that human spirit when your kids are sick.”
-Off session is when House Assistant Minority Leader, Republican Ty Winter, goes back to his other job, running a funeral home.
+You get to be one of 65 out of almost 6 million people, and we should be honored that the people have put us in this position, but there's that human spirit when your kids are sick.” Off session is when House Assistant Minority Leader, Republican Ty Winter, goes back to his other job, running a funeral home.
 He said his wife and mother pick up the bulk of the workload when he’s at the Capitol.
-“And then after session, I end up doing more.”
-Lawmakers take pay cuts to do the work
-Lawmakers have often lamented the low pay.
+“And then after session, I end up doing more.” Lawmakers take pay cuts to do the work Lawmakers have often lamented the low pay.
 It was one reason Democrat Dafna Michaelson Jenet resigned from the state senate earlier this year, after serving in the statehouse for a decade.
 She has a new job that pays significantly more, and said she hopes she and her husband can finally start saving for retirement.
 “We also were needing to rely on credit cards to help get through the months.
@@ -86,8 +82,7 @@ Weissman maintains his law license and said he’s able to make it work financia
 “If I were trying to do this job living alone, I don’t know how I would do it.
 I have four cats.
 I don’t know how I would afford pets,” Weissman said.
-Making the job of legislating more appealing
-Lawmakers from across the political spectrum seem to agree that it’s best for the state to be governed by people from all types of backgrounds and income levels, but they have very different ideas on how to recruit a more representative group of 100 lawmakers.
+Making the job of legislating more appealing Lawmakers from across the political spectrum seem to agree that it’s best for the state to be governed by people from all types of backgrounds and income levels, but they have very different ideas on how to recruit a more representative group of 100 lawmakers.
 A shorter session, a longer session?
 A higher salary, no changes at all?
 “I would love to see a 90-day session.
@@ -117,10 +112,11 @@ Republican Rep.
 Matt Soper of Delta is in his last year at the Capitol, and one of the only Republicans advocating for a pay raise.
 He thinks the state legislative salary should be tied to the compensation members of Congress earn, a $174,000 baseline annual salary.
 “The average Coloradan’s life is more impacted by what we do here in this building than what a member of Congress can achieve in Washington DC.
-On top of that, the average time that Congress is in session is roughly 120 days.
+On top of that, the average time that Congress is in session is roughly # days.
 Huh, that's interesting.
-We're in session 120 days.”
-He argued that state lawmaking is no less important.
+We're in session # days.” He argued that state lawmaking is no less important.
 “It’s not JV and varsity, it’s that we’re equal dual sovereigns,” he said.
 Colorado’s independent pay commission said a much more modest $50,000 salary for lawmakers would be appropriate, but alluded to the unlikely nature of such a change.
 “It is hoped that the State finds itself in a more favorable budgetary position than currently exists,” states the December report.
+Source: https://www.cpr.org/2026/04/06/how-much-colorado-state-legislators-are-paid/ Newer Post Paschal, Ricks Bill to Protect Children Online Passes Older Post House Passes Ricks, Camacho Bill to Create Jobs and New Small Businesses Back to Top Sign up for my newsletter!
+Paid for by Naquetta Ricks for Colorado

@@ -1,11 +1,50 @@
 [
-"https://donate.stripe.com/8wM9DgbBC0HA01y000",
-"https://drewforhouse.com/",
-"https://drewforhouse.com/about",
-"https://drewforhouse.com/contact",
-"https://drewforhouse.com/endorsements",
-"https://drewforhouse.com/issues",
-"https://drewforhouse.com/volunteer",
-"https://facebook.com/profile.php?id=61555679972514",
-"https://house.mn.gov/members/profile/15642"
+{
+"text": "About Drew",
+"href": "https://drewforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://drewforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/8wM9DgbBC0HA01y000"
+},
+{
+"text": "Donate Today!",
+"href": "https://donate.stripe.com/8wM9DgbBC0HA01y000"
+},
+{
+"text": "Endorsements",
+"href": "https://drewforhouse.com/endorsements/"
+},
+{
+"text": "The Issues",
+"href": "https://drewforhouse.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://drewforhouse.com/volunteer/"
+},
+{
+"text": "[image: Drew Roach for State Rep - 58B]",
+"href": "https://drewforhouse.com/"
+},
+{
+"text": "[image: Drew Roach for State Rep - 58B] [image: Drew Roach for State Rep - 58B] [image: Drew Roach for State Rep - 58B] [image: Drew Roach for State Rep - 58B]",
+"href": "https://drewforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555679972514"
+},
+{
+"text": "drewroachforhouse@gmail.com",
+"href": "mailto:drewroachforhouse@gmail.com"
+},
+{
+"text": "visit his official Representative page",
+"href": "https://www.house.mn.gov/members/profile/15642"
+}
 ]

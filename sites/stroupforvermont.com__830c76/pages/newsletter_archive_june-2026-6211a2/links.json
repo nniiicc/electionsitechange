@@ -1,29 +1,134 @@
 [
-"https://acrpc.org/",
-"https://addisonhousingworks.org/",
-"https://addisonhousingworks.org/annual-report.html",
-"https://addisonindependent.com/2026/04/23/former-anwsd-board-chair-enters-house-race",
-"https://docs.google.com/forms/d/e/1FAIpQLSc825qkPL_D3O34436aHP20AAwh9IiQMc7xh-otavLx3FW9Kg/viewform",
-"https://facebook.com/profile.php?id=61574131422439",
-"https://facebook.com/profile.php?id=61588889986372",
-"https://frontporchforum.com/calendar/events/494331",
-"https://greenmountainjustice.org/",
-"https://instagram.com/stroupforvt",
-"https://nytimes.com/video/us/100000010708448/vermont-affordable-childcare-act-76.html",
-"https://redcircle.com/shows/bdca9eee-6bf5-4e0f-9842-04d17544f1d6",
-"https://secure.actblue.com/donate/john-stroup-1",
-"https://sos.vermont.gov/elections/voters",
-"https://stroupforvermont.com/",
-"https://stroupforvermont.com/contact",
-"https://stroupforvermont.com/contribute",
-"https://stroupforvermont.com/endorsements",
-"https://stroupforvermont.com/get_involved",
-"https://stroupforvermont.com/issues",
-"https://stroupforvermont.com/newsletter",
-"https://stroupforvermont.com/newsletter/archive",
-"https://stroupforvermont.com/volunteer",
-"https://thegrowingtree.squarespace.com/",
-"https://vergennespolicevt.org/department_data/chief_of_police.php",
-"https://vergennesrec.org/macintosh-park",
-"https://wowtoyz.com/"
+{
+"text": "About",
+"href": "https://www.stroupforvermont.com/#about"
+},
+{
+"text": "Addison Housing Works",
+"href": "https://www.addisonhousingworks.org/"
+},
+{
+"text": "Addison Regional Planning Commission",
+"href": "https://acrpc.org/"
+},
+{
+"text": "Annual Report",
+"href": "https://www.addisonhousingworks.org/annual-report.html"
+},
+{
+"text": "Big Pride in the Little City Parade and Event",
+"href": "https://frontporchforum.com/calendar/events/494331"
+},
+{
+"text": "Contact",
+"href": "https://www.stroupforvermont.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.stroupforvermont.com/contribute/"
+},
+{
+"text": "Contribute →",
+"href": "https://secure.actblue.com/donate/john-stroup-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stroupforvermont.com/endorsements/"
+},
+{
+"text": "Former ANWSD board chair enters House race",
+"href": "https://www.addisonindependent.com/2026/04/23/former-anwsd-board-chair-enters-house-race/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stroupforvermont.com/get_involved/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.stroupforvermont.com/contact/#subscribe"
+},
+{
+"text": "Green Mountain Justice",
+"href": "https://greenmountainjustice.org/"
+},
+{
+"text": "Home",
+"href": "https://www.stroupforvermont.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stroupforvt/"
+},
+{
+"text": "Issues",
+"href": "https://www.stroupforvermont.com/issues/"
+},
+{
+"text": "JOHN STROUP FOR VERMONT HOUSE",
+"href": "https://www.stroupforvermont.com/"
+},
+{
+"text": "John Stroup for Vermont",
+"href": "https://www.facebook.com/profile.php?id=61588889986372"
+},
+{
+"text": "New York Times from February 14, 2026",
+"href": "https://www.nytimes.com/video/us/100000010708448/vermont-affordable-childcare-act-76.html"
+},
+{
+"text": "Newsletter",
+"href": "https://www.stroupforvermont.com/newsletter/"
+},
+{
+"text": "StroupforVT",
+"href": "https://www.instagram.com/stroupforvt/"
+},
+{
+"text": "The Growing Tree and the Addison Community Center",
+"href": "https://thegrowingtree.squarespace.com/"
+},
+{
+"text": "VT Secretary of State’s website",
+"href": "https://sos.vermont.gov/elections/voters"
+},
+{
+"text": "Vergennes Chief of Police Jason Ouellette",
+"href": "https://vergennespolicevt.org/department_data/chief_of_police.php"
+},
+{
+"text": "Vergennes Farmer’s Market",
+"href": "https://www.facebook.com/profile.php?id=61574131422439"
+},
+{
+"text": "Vergennes MacIntosh Trails",
+"href": "https://www.vergennesrec.org/macintosh-park"
+},
+{
+"text": "View Volunteer Opportunities →",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc825qkPL_D3O34436aHP20AAwh9IiQMc7xh-otavLx3FW9Kg/viewform"
+},
+{
+"text": "Voices from the Edge",
+"href": "https://redcircle.com/shows/bdca9eee-6bf5-4e0f-9842-04d17544f1d6"
+},
+{
+"text": "Volunteer",
+"href": "https://www.stroupforvermont.com/volunteer/"
+},
+{
+"text": "WowToyz",
+"href": "https://www.wowtoyz.com/"
+},
+{
+"text": "stroupforvermont.com",
+"href": "https://stroupforvermont.com/"
+},
+{
+"text": "← All Newsletters",
+"href": "https://www.stroupforvermont.com/newsletter/archive"
+},
+{
+"text": "← Back to all newsletters",
+"href": "https://www.stroupforvermont.com/newsletter/archive/"
+}
 ]

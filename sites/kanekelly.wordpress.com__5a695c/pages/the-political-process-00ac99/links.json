@@ -1,21 +1,86 @@
 [
-"https://automattic.com/cookies",
-"https://ballotpedia.org/Who_represents_me",
-"https://ethics.state.tx.us/",
-"https://facebook.com/kanekellyTX",
-"https://kanekelly.wordpress.com/",
-"https://kanekelly.wordpress.com/about",
-"https://kanekelly.wordpress.com/platform",
-"https://kanekelly.wordpress.com/the-political-process",
-"https://kanekelly.wordpress.com/volunteer",
-"https://politicalcompass.org/test",
-"https://sos.state.tx.us/elections/candidates/guide/2026/index.shtml",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fkanekelly.wordpress.com%2Fthe-political-process%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fthe-political-process%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/250107122/posts/37",
-"https://wordpress.com/start",
-"https://wp.me/PgVqhQ-B",
-"https://wrm.capitol.texas.gov/home"
+{
+"text": "About",
+"href": "https://kanekelly.wordpress.com/about/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/PgVqhQ-B"
+},
+{
+"text": "Create a free website or blog at WordPress.com.",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/kanekellyTX/"
+},
+{
+"text": "Home",
+"href": "https://kanekelly.wordpress.com/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fthe-political-process%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fthe-political-process%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Platform",
+"href": "https://kanekelly.wordpress.com/platform/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fkanekelly.wordpress.com%2Fthe-political-process%2F"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "The Compass",
+"href": "https://kanekelly.wordpress.com/the-political-process/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/250107122/posts/37"
+},
+{
+"text": "Volunteer",
+"href": "https://kanekelly.wordpress.com/volunteer/"
+},
+{
+"text": "[image]kanekelly.com",
+"href": "https://kanekelly.wordpress.com"
+},
+{
+"text": "https://ballotpedia.org/Who_represents_me",
+"href": "https://ballotpedia.org/Who_represents_me"
+},
+{
+"text": "https://wrm.capitol.texas.gov/home",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "https://www.ethics.state.tx.us",
+"href": "https://www.ethics.state.tx.us"
+},
+{
+"text": "https://www.sos.state.tx.us/elections/candidates/guide/2026/index.shtml",
+"href": "https://www.sos.state.tx.us/elections/candidates/guide/2026/index.shtml"
+},
+{
+"text": "kanekelly.com",
+"href": "https://kanekelly.wordpress.com"
+},
+{
+"text": "s://www.politicalcompass.org/test",
+"href": "https://www.politicalcompass.org/test"
+}
 ]

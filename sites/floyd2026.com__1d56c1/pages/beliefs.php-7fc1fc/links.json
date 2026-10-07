@@ -1,19 +1,82 @@
 [
-"https://floyd2026.com/",
-"https://floyd2026.com/SMS/subscribe.php",
-"https://floyd2026.com/about.php",
-"https://floyd2026.com/app.php",
-"https://floyd2026.com/beliefs.php",
-"https://floyd2026.com/calendar.php",
-"https://floyd2026.com/contact.php",
-"https://floyd2026.com/donate.php",
-"https://floyd2026.com/faq.php",
-"https://floyd2026.com/finances.php",
-"https://floyd2026.com/issues.php",
-"https://floyd2026.com/legislate.php",
-"https://floyd2026.com/privacy.php",
-"https://floyd2026.com/public-statements.php",
-"https://floyd2026.com/scoreboard.php",
-"https://floyd2026.com/tos.php",
-"https://floyd2026.com/volunteer.php"
+{
+"text": "About",
+"href": "https://floyd2026.com/about.php"
+},
+{
+"text": "Back to My Story →",
+"href": "https://floyd2026.com/about.php"
+},
+{
+"text": "Beliefs",
+"href": "https://floyd2026.com/beliefs.php"
+},
+{
+"text": "Calendar",
+"href": "https://floyd2026.com/calendar.php"
+},
+{
+"text": "Community Scoreboard",
+"href": "https://floyd2026.com/scoreboard.php"
+},
+{
+"text": "Contact",
+"href": "https://floyd2026.com/contact.php"
+},
+{
+"text": "Donate",
+"href": "https://floyd2026.com/donate.php"
+},
+{
+"text": "Draft Legislation",
+"href": "https://floyd2026.com/legislate.php"
+},
+{
+"text": "FAQ",
+"href": "https://floyd2026.com/faq.php"
+},
+{
+"text": "Finance",
+"href": "https://floyd2026.com/finances.php"
+},
+{
+"text": "Floyd 2026 “A name you think you might know… but a leader you’ll never forget.” [image: Floyd Taylor headshot]",
+"href": "https://floyd2026.com/"
+},
+{
+"text": "Home",
+"href": "https://floyd2026.com/"
+},
+{
+"text": "Issues",
+"href": "https://floyd2026.com/issues.php"
+},
+{
+"text": "Learn my story →",
+"href": "https://floyd2026.com/about.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://floyd2026.com/privacy.php"
+},
+{
+"text": "Public/Press Statements",
+"href": "https://floyd2026.com/public-statements.php"
+},
+{
+"text": "Subscribe to SMS updates",
+"href": "https://floyd2026.com/SMS/subscribe.php"
+},
+{
+"text": "Terms of Service",
+"href": "https://floyd2026.com/tos.php"
+},
+{
+"text": "The Congress App",
+"href": "https://floyd2026.com/app.php"
+},
+{
+"text": "Volunteer",
+"href": "https://floyd2026.com/volunteer.php"
+}
 ]

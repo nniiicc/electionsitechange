@@ -1,6 +1,10 @@
-"Jacob Weinberg serve our country honorably overseas and seeks to continue that service as a state representative in legislative district 13.
+Skip navigation menu About Issues News Events & Volunteer Endorsements Contact Donate About Issues News Events & Volunteer Endorsements Contact Donate We are PROUDly supporting Jacob Weinberg for LD13 State House "Jacob Weinberg serve our country honorably overseas and seeks to continue that service as a state representative in legislative district 13.
 He has unquestionable integrity, civic dedication, and impeccable leadership ethics that transcend political party.
-I am proud to endorse him in the race for state house."
-Adrian Fontes
-US MArine Corps Veteran
-Arizona Secretary of State
+I am proud to endorse him in the race for state house." Adrian Fontes US MArine Corps Veteran Arizona Secretary of State “I wholeheartedly support Jacob Weinberg in his run , I have had the honor of knowing him for over a decade.
+His stalwart defense of our county, integrity, and hard work ethic make him the perfect person to lead Arizona into the future.” Jimmy McCain US Army Veteran Dir. of Government Affairs, Hensley Beverage CO "Jacob has a long history of service and stepping up to help where he is needed.
+He is a veteran dedicated to the security and well-being of Arizonans.
+Jacob defended our freedoms overseas and will protect our liberty in the state house.
+I know he'll do what's best for Arizona and I am proud to endorse him in this vital race." Kris Mayes Arizona Attorney General "Jacob's long service to the United States, in business experience and in the community make him the perfect person to represent District 13." AARON MÁRQUEZ US ARmy Veteran LD5 State House Rep Tim Stringham Democratic State Committee Member, Army/Navy Vet VoteVets Elevating Veteran's Voices https://votevets.org/ Sierra Club Grand Canyon Chapter www.sierraclub.org/ Climate Cabinet Smart Climate Policy www.climatecabinet.org Ironworkers Local 75 Ensuring Quality Construction www.ironworkers75.org CWA AZ State Council Local 7019 Building for Economic Justice https://cwa7019.org Chandler/Gilbert Indivisible https://chandlergilbertindivisible.com/ Lead Locally Electing Community Leaders https://leadlocally.org/ Keep Arizona Blue Student Coalition Mobilizng Young Voters www.keepazblue.org/ Powered by RUN! website builder Paid for by Weinberg for Arizona.
+Authorized by Jacob Weinberg Jacob Weinberg is a member of the Arizona Army National Guard.
+Use of his military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.
+You need to enable JavaScript to run this app.

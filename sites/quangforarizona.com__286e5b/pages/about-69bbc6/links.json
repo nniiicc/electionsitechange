@@ -1,13 +1,50 @@
 [
-"http://escortsistanbul.com/",
-"http://istanbulescorts.biz/",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA",
-"https://quangforarizona.com/",
-"https://quangforarizona.com/about",
-"https://quangforarizona.com/contact",
-"https://quangforarizona.com/endorsements",
-"https://quangforarizona.com/events",
-"https://quangforarizona.com/get-involved",
-"https://quangforarizona.com/quangs-voice",
-"https://quangforarizona.com/wp-content/uploads/2019/09/Q4AZ-headshot.jpg"
+{
+"text": "About",
+"href": "https://quangforarizona.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://quangforarizona.com/contact/"
+},
+{
+"text": "Donate Today",
+"href": "https://www.paypal.com/cgi-bin/webscr/?cmd=_s-xclick&hosted_button_id=V32CDUD49LGPA"
+},
+{
+"text": "Endorsements",
+"href": "https://quangforarizona.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://quangforarizona.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://quangforarizona.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://quangforarizona.com"
+},
+{
+"text": "Quang’s Voice",
+"href": "https://quangforarizona.com/quangs-voice/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://quangforarizona.com/"
+},
+{
+"text": "[image: Quang Nguyen]",
+"href": "https://quangforarizona.com/wp-content/uploads/2019/09/Q4AZ-headshot.jpg"
+},
+{
+"text": "escort",
+"href": "http://www.escortsistanbul.com"
+},
+{
+"text": "istanbul escort",
+"href": "http://istanbulescorts.biz"
+}
 ]

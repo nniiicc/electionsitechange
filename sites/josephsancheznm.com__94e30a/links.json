@@ -1,14 +1,66 @@
 [
-"https://drive.google.com/drive/folders/1MuaihSOPONSHaVmG6mxOUyIYYiS-WHu4?usp=sharing",
-"https://facebook.com/josephsancheznm",
-"https://instagram.com/Josephsanchez4nm",
-"https://josephsancheznm.com/",
-"https://josephsancheznm.com/volunteer",
-"https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1",
-"https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=10",
-"https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=100",
-"https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=25",
-"https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=250",
-"https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=50",
-"https://twitter.com/josephsancheznm"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=50"
+},
+{
+"text": "ABOUT",
+"href": "https://www.josephsancheznm.com"
+},
+{
+"text": "CONTACT REP. JOSEPH SANCHEZ",
+"href": "mailto:josephsanchezfornm@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joseph-sanchez-for-new-mexico-1?amount=10"
+},
+{
+"text": "HOME",
+"href": "https://www.josephsancheznm.com"
+},
+{
+"text": "MEDIA KIT",
+"href": "https://drive.google.com/drive/folders/1MuaihSOPONSHaVmG6mxOUyIYYiS-WHu4?usp=sharing"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.josephsancheznm.com/volunteer"
+},
+{
+"text": "[image: fb]",
+"href": "https://www.facebook.com/josephsancheznm"
+},
+{
+"text": "[image: in]",
+"href": "https://www.instagram.com/Josephsanchez4nm"
+},
+{
+"text": "[image: joseph logo.png]",
+"href": "https://www.josephsancheznm.com"
+},
+{
+"text": "[image: tw]",
+"href": "https://twitter.com/josephsancheznm"
+}
 ]

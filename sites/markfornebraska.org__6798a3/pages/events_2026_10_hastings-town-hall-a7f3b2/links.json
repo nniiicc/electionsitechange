@@ -1,26 +1,138 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Hastings+Town+Hall&dates=20261011T023000Z%2F20261011T040000Z&location=717+West+1st+Street%2C+Hastings%2C+Nebraska%2C+68901",
-"http://maps.google.com/?q=717+West+1st+Street+Hastings%2C+Nebraska%2C+68901",
-"https://facebook.com/profile.php?id=61581549796742",
-"https://instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu",
-"https://markfornebraska.org/",
-"https://markfornebraska.org/about-mark",
-"https://markfornebraska.org/blog",
-"https://markfornebraska.org/cart",
-"https://markfornebraska.org/contact",
-"https://markfornebraska.org/events",
-"https://markfornebraska.org/events/2026/10/hastings-town-hall?format=ical",
-"https://markfornebraska.org/events/2026/10/holdrege-town-hall",
-"https://markfornebraska.org/events/2026/10/oshkosh-meet-greet",
-"https://markfornebraska.org/faq",
-"https://markfornebraska.org/issues",
-"https://markfornebraska.org/press",
-"https://markfornebraska.org/privacy-policy",
-"https://markfornebraska.org/terms-of-use",
-"https://markfornebraska.org/volunteer",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://politics.raisethemoney.com/en/mark-for-nebraska",
-"https://tiktok.com/@markfornebraska",
-"https://x.com/MarkForNebraska",
-"https://youtube.com/@MarkForNebraskaCampaign"
+{
+"text": "$10",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$100",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$25",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$5",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$50",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=717+west+1st+street+hastings%2C+nebraska%2C+68901+"
+},
+{
+"text": "0",
+"href": "https://www.markfornebraska.org/cart"
+},
+{
+"text": "About Mark",
+"href": "https://www.markfornebraska.org/about-mark"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "Contact",
+"href": "https://www.markfornebraska.org/contact"
+},
+{
+"text": "Continue to website →",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.markfornebraska.org/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hastings+Town+Hall&dates=20261011T023000Z%2F20261011T040000Z&location=717+West+1st+Street%2C+Hastings%2C+Nebraska%2C+68901"
+},
+{
+"text": "Home",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/hastings-town-hall?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.markfornebraska.org/issues"
+},
+{
+"text": "News",
+"href": "https://www.markfornebraska.org/blog"
+},
+{
+"text": "Next Next October 19 Oshkosh Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/10/oshkosh-meet-greet"
+},
+{
+"text": "Other",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Press",
+"href": "https://www.markfornebraska.org/press"
+},
+{
+"text": "Previous Previous October 9 Holdrege Town Hall",
+"href": "https://www.markfornebraska.org/events/2026/10/holdrege-town-hall"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markfornebraska.org/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.markfornebraska.org/terms-of-use"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markfornebraska.org/volunteer"
+},
+{
+"text": "[image: Mark for Nebraska]",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581549796742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@markfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarkForNebraskaCampaign"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MarkForNebraska"
+},
+{
+"text": "info@markfornebraska.org",
+"href": "mailto:info@markfornebraska.org"
+}
 ]

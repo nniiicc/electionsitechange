@@ -1,15 +1,1 @@
-Meet Benton
-The Issues
-Get Involved
-News
-Media
-Donate
-Media
-Download Image
-Download Image
-Download Image
-Meet Benton
-The Issues
-Get Involved
-News
-Media
+Meet Benton The Issues Get Involved News Media Donate Media Download Image Download Image Download Image Committee to Elect Benton Sawrey 5 Warrick Place Clayton, NC 27527 Paid for by The Committee to Elect Benton Sawrey Meet Benton The Issues Get Involved News Media

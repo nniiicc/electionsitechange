@@ -1,21 +1,86 @@
 [
-"https://drive.google.com/drive/folders/165Uqkgwv685BY-vQcjB7M6c_vPazHvmY?usp=sharing",
-"https://facebook.com/Lindsay4tennessee",
-"https://google.com/maps/d/edit?mid=1peZSpqrQC6PR21ds9q2dU_KJyf4dGR4&usp=sharing",
-"https://heyvictor.com/",
-"https://instagram.com/lindsay4tennessee?igsh=MTN4N3k4Nm14eHFmMA%3D%3D",
-"https://lindsayfortennessee.com/",
-"https://lindsayfortennessee.com/accessibility-statement",
-"https://lindsayfortennessee.com/issues",
-"https://lindsayfortennessee.com/meet-lindsay",
-"https://lindsayfortennessee.com/volunteer",
-"https://lindsayfortennessee.com/voting-info",
-"https://ovr.govote.tn.gov/",
-"https://secure.actblue.com/donate/l4tn_merch",
-"https://secure.actblue.com/donate/lindsayfortennessee",
-"https://sos.tn.gov/elections/guides/guide-to-absentee-voting",
-"https://sos.tn.gov/elections/voter-id-requirements",
-"https://tiktok.com/@lindsay.for.tennessee?_r=1&_t=ZP-94B4He40pv4",
-"https://tnmap.tn.gov/voterlookup",
-"https://web.go-vote-tn.elections.tn.gov/"
+{
+"text": "Absentee Voting",
+"href": "https://sos.tn.gov/elections/guides/guide-to-absentee-voting"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://lindsayfortennessee.com/accessibility-statement/"
+},
+{
+"text": "Check your status",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lindsayfortennessee?amount="
+},
+{
+"text": "Email",
+"href": "mailto:info@lindsayfortennessee.com"
+},
+{
+"text": "Home",
+"href": "https://www.lindsayfortennessee.com"
+},
+{
+"text": "I.D. Requirements",
+"href": "https://sos.tn.gov/elections/voter-id-requirements"
+},
+{
+"text": "Interactive Polling Map",
+"href": "https://www.google.com/maps/d/edit?mid=1peZSpqrQC6PR21ds9q2dU_KJyf4dGR4&usp=sharing"
+},
+{
+"text": "Issues",
+"href": "https://lindsayfortennessee.com/issues/"
+},
+{
+"text": "Join Team Lindsay",
+"href": "https://lindsayfortennessee.com/volunteer/"
+},
+{
+"text": "Meet Lindsay",
+"href": "https://lindsayfortennessee.com/meet-lindsay/"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/l4tn_merch"
+},
+{
+"text": "Press Kit",
+"href": "https://drive.google.com/drive/folders/165Uqkgwv685BY-vQcjB7M6c_vPazHvmY?usp=sharing"
+},
+{
+"text": "Register to vote",
+"href": "https://ovr.govote.tn.gov/"
+},
+{
+"text": "Voting Info",
+"href": "https://lindsayfortennessee.com/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://lindsayfortennessee.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/Lindsay4tennessee/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/lindsay4tennessee?igsh=MTN4N3k4Nm14eHFmMA%3D%3D"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@lindsay.for.tennessee?_r=1&_t=ZP-94B4He40pv4"
+},
+{
+"text": "polling locations",
+"href": "https://web.go-vote-tn.elections.tn.gov/"
+}
 ]

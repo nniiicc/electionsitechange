@@ -1,5 +1,4 @@
-About Chris
-State Senator Chris Larson is a proven, progressive leader who believes everyone deserves a fair shot at the American dream.
+About Chris Volunteer Voter Information Donate Select Page About Chris State Senator Chris Larson is a proven, progressive leader who believes everyone deserves a fair shot at the American dream.
 Born and raised in Wisconsin, Chris graduated from the University of Wisconsin-Milwaukee with a degree in Finance and a minor in Political Science.
 As the former manager of a sporting goods store, Chris is attuned to the needs of small businesses.
 In 2008, he successfully ran for Milwaukee County Board Supervisor on a platform of adequately investing in our shared parks and transit system.
@@ -13,4 +12,6 @@ Since then, Larson has been at the forefront of fighting against the attacks on 
 In politics, Larson has helped recruit, train, and elect dozens of local, state, and federal elected officials and activists who are leading the movement on social change in Wisconsin and nationally.
 Chris is active in his community as a member of numerous neighborhood groups, including: board member of UW-Milwaukee Alumni Association (2013-present) South Side Business Club of Milwaukee, Lions Club, Grassroots North Shore, League of Women Voters, Wisconsin League of Conservation Voters, Sierra Club, Planned Parenthood Advocates of Wisconsin, Young Elected Officials, Humboldt Park Friends, South Shore Park Watch, Bay View Neighborhood Association, Bay View Historical Society, Lake Park Friends, Arbor Day Foundation, Badgerland Striders, TriWisconsin, and MPTV Friends.
 Chris resides in Bay View with his wife Jessica and their son Atticus and daughter Stella.
-Chris is an avid runner and has a long-term goal of running a marathon in each state.
+Chris is an avid runner and has a long-term goal of running a marathon in each state .
+Mailing Address: 3233 S.
+Herman Street, Milwaukee, WI 53207 Paid for by Friends of Chris Larson Contact us at info@voteforlarson.org Keep up with Chris on: Bluesky | Substack | Instagram | Facebook

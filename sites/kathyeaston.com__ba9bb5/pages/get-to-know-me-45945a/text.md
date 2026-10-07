@@ -1,5 +1,4 @@
-GET TO KNOW ME
-Kathy (Johnson) Easton is a lifelong Rockford resident who proudly calls the 68th District home.
+Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information Join Us Talk to Kathy Donate GET TO KNOW ME Kathy (Johnson) Easton is a lifelong Rockford resident who proudly calls the 68th District home.
 She is a graduate of Boylan High School and attended Rock Valley College, where she played tennis and served on the Student Commission.
 Beginning her freshman year at Boylan High School, tennis became a central part of Kathy Easton’s life.
 To pay for lessons, she worked at The Last Straw and Logli’s.
@@ -19,8 +18,10 @@ Kathy also made a lasting impact locally: shaping tennis programs for the Rockfo
 She implimented tennis programs at Forest Hills and Mauh-Nah-Tee-See Country Club, and served as President of the Rockford Area Tennis Association, strengthening connections between players, clubs, and schools.
 Four years ago, Kathy became involved in local politics to address local tax concerns and support families.
 She ran for Precinct Committeemen and was elected.
-She currently serves as Deputy Vice Chair of the Winnebago County GOP and chairs the Finance Committee, the Lincoln Day Dinner Committee, and the Events Committee.
+She currently serves as Deputy Vice Chair of the Winnebago County GOP and chairs the Finance Committee, the Lincoln Day Dinner Committee , and the Events Committee .
 In addition, she has previously worked on multiple political campaigns.
 In 1992, during a difficult economy, Kathy and her husband Daren started Easton Associates Ltd. where Kathy did the bookkeeping and shipping for several years.
 They’ve now spent 34 years in the trade show business, continuing to support several companies in the region.
 They are the parents of three children and proud grandparents to six grandchildren, all living in Rockford.
+Facebook Paid for by Friends of Kathy Easton.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

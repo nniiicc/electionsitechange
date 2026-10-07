@@ -1,7 +1,11 @@
 {
- "description": "The work, experience, and independent argument behind Ryan Walton\u2019s campaign for Congress.",
+ "description": "The work, experience, and independent argument behind Ryan Walton’s campaign for Congress.",
  "final_url": "https://www.waltonforvermont.com/about",
- "paid_for_by": null,
+ "fingerprint": "3a83d8f798a1d204526a6f6cc01e44a9007ade9b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Ryan Walton | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

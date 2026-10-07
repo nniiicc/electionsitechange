@@ -1,12 +1,13 @@
-SPRINGFIELD – Digital coupons have become more common; however, not all consumers can easily access them.
+Toggle navigation ABOUT LAURA MY VISION ISSUES GET INVOLVED REQUEST A YARD SIGN THE 21ST DISTRICT ENDORSEMENTS DONATE TODAY Ellman bill to ensure fair access to digital discounts May 14, 2026 SPRINGFIELD – Digital coupons have become more common; however, not all consumers can easily access them.
 State Senator Laura Ellman is combatting this with House Bill 45 to ensure eligible consumers receive the benefits of digital promotions when they meet the stated terms.
 “People shouldn’t miss out on savings because a promotion isn’t accessible,” said Ellman (D-Naperville).
-“If it’s offered, it should be usable to all, especially when a digital coupon can make a difference when buying in bulk with increasing grocery prices.”
-House Bill 45 would require retailers offering digital promotions to provide a way for eligible consumers to redeem them, including options like automatic discounts, point-of-sale assistance, QR codes or receipt submission.
+“If it’s offered, it should be usable to all, especially when a digital coupon can make a difference when buying in bulk with increasing grocery prices.” House Bill 45 would require retailers offering digital promotions to provide a way for eligible consumers to redeem them, including options like automatic discounts, point-of-sale assistance, QR codes or receipt submission.
 Additionally, the proposed measure would preserve flexibility for businesses and would not require paper coupons or changes to loyalty programs.
 According to the Pew Research Center, nearly 1 in 4 adults over 65 say they need help using digital technology, highlighting ongoing barriers to app-based only promotions.
 As retail continues to evolve, Ellman’s measure aims to make everyday transactions more accessible.
 “Digital coupons are too often a source of frustration for consumers,” said Janet Yang Rohr (D-Naperville).
 “Trying to navigate the app, find the right deal and electronically clip the coupon can be difficult, especially for those who don’t have the latest device or can’t access the internet.
-This legislation makes sure that the price advertised is the price that consumers actually pay, saving them time and money with practical, non-digital redemption options that are easily accessible.”
-House Bill 45 passed the Senate Consumer Protection Committee on Thursday and heads to the full Senate for further consideration.
+This legislation makes sure that the price advertised is the price that consumers actually pay, saving them time and money with practical, non-digital redemption options that are easily accessible.” House Bill 45 passed the Senate Consumer Protection Committee on Thursday and heads to the full Senate for further consideration.
+Source: Illinois Senate Democrats Post navigation Ellman advances AI companion safety bill to protect youth and vulnerable users Access to high school coursework for middle schoolers expanded thanks to new Ellman legislation Notice: JavaScript is required for this content.
+PROMOTIONAL COMMUNICATIONS You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from Ellman for IL Senate D21 by following the instructions in those communications.
+Please note that we may still send you other types of non-promotional communications, such as those about your use of the Services or any of your donations, transactions, or activities related to the Services PAID FOR BY ELLMAN FOR IL SENATE D21

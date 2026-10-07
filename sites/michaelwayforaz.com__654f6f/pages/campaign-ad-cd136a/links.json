@@ -1,9 +1,50 @@
 [
-"http://facebook.com/MichaelWayForArizona",
-"https://michaelwayforaz.com/",
-"https://michaelwayforaz.com/about",
-"https://michaelwayforaz.com/donate",
-"https://michaelwayforaz.com/issues",
-"https://x.com/MichaelWayAZ",
-"https://youtube.com/@MichaelWay-bf3pg"
+{
+"text": "About",
+"href": "https://www.michaelwayforaz.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.michaelwayforaz.com/donate/"
+},
+{
+"text": "Donate!",
+"href": "https://www.michaelwayforaz.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.michaelwayforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.michaelwayforaz.com/issues/"
+},
+{
+"text": "[image: Screen%20Shot%202025 01 29%20at%207.07.33%20PM]",
+"href": "https://www.michaelwayforaz.com/"
+},
+{
+"text": "[image: footerlogo]",
+"href": "https://www.michaelwayforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/MichaelWayForArizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MichaelWay-bf3pg"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MichaelWayAZ"
+},
+{
+"text": "[no text]",
+"href": "mailto:team@michaelwayforaz.com"
+},
+{
+"text": "team@MichaelWayforAZ.com",
+"href": "mailto:team@MichaelWayforAZ.com"
+}
 ]

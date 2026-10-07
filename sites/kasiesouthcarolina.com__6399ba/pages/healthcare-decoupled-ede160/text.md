@@ -1,10 +1,7 @@
-The only time I’ve ever been in the same room with Senator Lindsay Graham was in 2017.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Healthcare: Decoupled The only time I’ve ever been in the same room with Senator Lindsay Graham was in 2017.
 It was a town hall event at the Columbia Convention Center.
-I wrote about it in a blog called “‘Healthcare is a right’ and other stupid shit people say at town hall meetings.”
-Senator Graham asked how many people in the room wanted Medicare for all and when a number of hands went up, he responded that Medicare doesn’t include prenatal care, so it wouldn’t work for all.
-As if that put a pin in the universal healthcare conversation.
-::facepalm::
-We do have a healthcare problem in the United States.
+I wrote about it in a blog called “‘ Healthcare is a right’ and other stupid shit people say at town hall meetings .” Senator Graham asked how many people in the room wanted Medicare for all and when a number of hands went up, he responded that Medicare doesn’t include prenatal care, so it wouldn’t work for all.
+As if that put a pin in the universal healthcare conversation. ::facepalm:: We do have a healthcare problem in the United States.
 No one should say we don’t.
 So what is the nature of the problem?
 Can we take it down to first principles and really understand why it costs so much, is inaccessible for so many, and seems skewed in favor of big pharma and insurance companies?
@@ -13,7 +10,7 @@ Let’s decouple “healthcare” from “health insurance” because they’re 
 Healthcare is the services provided by trained individuals from pharmacists to surgeons, nurses, technicians, physicians, therapists, and medical assistants of every skill level.
 These services are provided by SKILLED workers, people trained in their profession.
 People certified, licensed, in their profession.
-And you are not entitled to their labor.
+Charlie accepts his diploma at graduation from nursing school at Orangeburg-Calhoun Technical College in May 2025 And you are not entitled to their labor.
 So, no, healthcare is not a right.
 Health insurance is the payment mechanism that pools financial resources from willing individuals and redistributes it depending upon the needs of the insured.
 In a free health insurance market, individuals would have the liberty to select which payment mechanism works best for their family and companies that provide coverage would have the liberty to reject risky participants so they pay out less than they collect.
@@ -63,6 +60,7 @@ Remove government from the free exchange of money for services.
 Less government is a strange concept for politicians.
 They’ve been growing government since they got elected and they’ll continue to do so unless we check them.
 As voters, it’s our job to make them justify the growth.
+Me in my First Amendment t-shirt and Hollie having a snack at the Graham Town Hall meeting March 25, 2017 in Columbia.
 At that town hall meeting so many years ago, Senator Graham also asked how many people in the room were Democrats.
 Should it matter?
 No, it shouldn’t.
@@ -74,3 +72,11 @@ Then we can move on to the other tough problems and solve them, too.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+4 Responses Pingback: Bad laws make for bad enforcement - Kasie South Carolina Pingback: We Can't Tax Our Way Out of This - Kasie South Carolina Martin Jones says: September 11, 2026 at 11:27 am Whereas healthcare IS NOT a right, the ability to practice healthcare should be.
+The ONLY involvement government should have in healthcare (or any industry) would be for issues of contract and fraud.
+Reply kasiesc says: September 16, 2026 at 6:35 pm Agreed, Martin.
+Government’s primary role should be to protect our rights.
+That means intervention that goes beyond protecting rights (i.e. subsidies, central planning) is intrusion.
+Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

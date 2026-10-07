@@ -1,8 +1,7 @@
-Meet Melody
-Melody is running for re-election to the Montana House of Representatives in HD-97 in Missoula.
+Melody Cunningham Home Meet Melody Issues Contact Donate Melody Cunningham Home Meet Melody Issues Contact Donate Home Meet Melody Issues Contact Melody Cunningham Donate Meet Melody Melody is running for re-election to the Montana House of Representatives in HD-97 in Missoula.
 She was a practicing pediatrician for 30 years caring for children with cancer and children at end-of-life.
-Having experienced the sudden death of her father, when she was 9 years old, she realized that having the gift of being able to say goodbye was sacred.
-She has had the honor of walking this journey with hundreds of patients and families.
+Having experienced the sudden death of h er father, when she was 9 years old, she realized t hat having the gift of being able to say goodbye was sacred.
+She has had the honor of walking this jou rney with hundreds of patients and families.
 Without family resources, Melody received scholarships and waitressed full-time to earn her bachelor’s degree.
 She then taught high school chemistry and physics for underserved students prior to entering the University of Massachusetts Medical School.
 As a product of strong public education, she believes that protecting and strengthening public education is an essential part of supporting children and improving the lives of Montanans.
@@ -16,3 +15,5 @@ During the session, she was honored to be able to work across the aisle to get 3
 These helped highlight and clarify information regarding cannabis for pregnant and breastfeeding women, allow schools to carry Albuterol in the event of asthma attacks and provide a way for patients in the hospital to identify a decision-maker through discussions with the medical team.
 Her bill to decrease the number of Montana seniors paying income tax on Social Security made it to the final vote where it was tied and thus died.
 She intends to bring this again if elected to serve in the '27 session.
+Find your District Paid for by Melody for Montana, Barbara Berens, Treasurer PO Box 5872, Missoula MT 59806 ﻿ Home Meet Melody Issues Contact Privacy Policy Home Meet Melody Issues Contact Privacy Policy Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

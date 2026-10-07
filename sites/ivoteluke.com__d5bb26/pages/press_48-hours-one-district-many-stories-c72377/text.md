@@ -1,5 +1,4 @@
-By Luke Del Castillo
-I started Friday morning at 6:45 a.m.
+0 Skip to Content DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press Open Menu Close Menu DONATE Volunteer Events Priorities Bonfire, Board Games, & Brew Press 48 Hours, One District, Many Stories Jun 4 Written By Luke Castle By Luke Del Castillo I started Friday morning at 6:45 a.m.
 And I’m not going to lie - I woke up late.
 The night before, I didn’t get to bed until around 4:00 a.m.
 I was following up on questions from earlier in the week, getting ready for the day ahead, and trying to make sure I was prepared.
@@ -69,8 +68,7 @@ After the pig petting and bonfire planning, we headed into downtown Ithaca.
 I got to hear more personal history, more memories, more stories connected to the town.
 Eventually Jake reminded me that we had other appointments to get to, so we started walking back toward the car.
 Then one of our guests suggested we take pictures at the veterans memorial.
-I told my team, “We have time.”
-So we walked over.
+I told my team, “We have time.” So we walked over.
 As we stood there, they pointed to names engraved in the stone.
 Names of people they knew.
 Friends.
@@ -84,8 +82,7 @@ That moment stayed with me too.
 After that, we got back in the car and headed to Mount Pleasant.
 One of our meetings had been pushed back about 40 minutes, so we had a little time to walk around downtown.
 I decided to introduce Madisyn to a few of the business owners in our downtown Mount Pleasant community.
-Then we went to meet with Bryan Mielke, who I call “The Professor.”
-He ran for this same seat in 2014 and 2016, though the district looked different then, before redistricting.
+Then we went to meet with Bryan Mielke, who I call “The Professor.” He ran for this same seat in 2014 and 2016, though the district looked different then, before redistricting.
 I call him “The Professor” because every time I sit down with him, I learn something.
 Fundraising, call time, campaign strategy, tools, structure - he has so much knowledge, and he shares it generously.
 But the clock kept moving, and I had to get to the next thing.
@@ -113,7 +110,7 @@ There were young artists with booths, people selling crafts, volunteers with pai
 It was a full community effort.
 And it was beautiful.
 By mid-afternoon, the event wrapped up.
-I went home, did some desk work for the campaign, and now I find myself sitting in front of the TV, watching The West Wing, writing this all down.
+I went home, did some desk work for the campaign, and now I find myself sitting in front of the TV, watching The West Wing , writing this all down.
 It was a busy 48 hours.
 A messy, full, beautiful, exhausting, meaningful 48 hours.
 But this is what community is.
@@ -127,3 +124,5 @@ That’s why I’m running.
 Not because I think I have all the answers.
 Because I believe the answers start by showing up, listening, and caring enough to carry people’s stories with you.
 And after these last 48 hours, I feel even more honored to be part of this place.
+Luke Castle Previous Previous Luke Del Castillo Campaign Launches “Bonfires, Board Games & Brews” Community Gathering Program Next Next Luke Del Castillo to Launch People-Powered Campaign for Michigan's 92nd House District Fuel the Fight Fuel the Fight Fuel the Fight Follow Facebook Instagram TikTok I Vote Luke PO Box 24 Mount Pleasant, MI 48804 team@IVoteLUKE.com (989) 442- 7932 Paid for by Friends of Luke Del Castillo, PO Box 24, Mount Pleasant, MI 48804 | © # Friends of Luke Del Castillo.
+All rights reserved.

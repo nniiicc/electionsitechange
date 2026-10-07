@@ -1,77 +1,37 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| CHECKING IN AT THE LEGISLATURE: 2026 Legislative Session Week One |
-| |
-| Dear Friends and Neighbors, As the 2026 Legislative Session has officially begun, I wanted to update you on what is going on up at the Capitol.
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session CHECKING IN AT THE LEGISLATURE: 2026 Legislative Session Week One Dear Friends and Neighbors, As the 2026 Legislative Session has officially begun, I wanted to update you on what is going on up at the Capitol.
 My focus this session will be on the Majority Caucus priorities important to our community.
 You can find the 2026 House Majority priorities in the image below.
 Additionally, I'm excited to finally be on the campaign trail to hear from the voters of House District 20.
 You can check out my updated website to see what is important to me as I work to earn your vote.
-Warmest regards, Melissa |
-| |
-| |
-| |
-| Upcoming Events |
-| |
-| |
-| QUICK LINKS |
-| |
-| |
-| IN THIS ISSUE Boeing in Utah Ribbon Cutting: Utah Museum Legislative Update Presentations On the Hill with Eliza |
-| |
-| |
-| Boeing In Utah |
-| |
-| 2025 ended with Boeing employees raising more than $5,700 in the annual Spirit of the Holidays campaign.
+Warmest regards, Melissa Upcoming Events QUICK LINKS Boeing in Ut ah Utah Retirement Systems: Impact in HD20 University of Utah Tool for Tracking Great Salt Lake Dust Exposure 1/6 North Salt Lake City Council Work Meeting 1/13 Bountiful City Council Work Meeting The Chicken and the Egg: A Budgeting Story Winning Peers and Influencing Policymakers: A Performance Vision Board for the New Year IN THIS ISSUE Boeing in Utah Ribbon Cutting: Utah Museum Legislative Update Presentations On the Hill with Eliza Boeing In Utah 2025 ended with Boeing employees raising more than $5,700 in the annual Spirit of the Holidays campaign.
 The Boeing Global Engagement holiday drive partnered with Davis Education Foundation and their SUB-FOR-SANTA program providing essential items to students in the community.
 Here in Utah, Boeing spends more than $430 million with 140 suppliers across Boeing program.
 Employees at the Salt Lake City site assemble vertical fins and horizontal stabilizers for the 787 Dreamliner, while employees at the site in West Jordan focus on fabrication of those composite structures.
-This months purchase brings Delta's firm order book to 130 Boeing airplanes. |
-| |
-| |
-| |
-| Ribbon Cutting: Utah Museum |
-| |
-| Last week, I was honored to attend the ribbon cutting ceremony for Utah’s newly renovated Capitol Museum.
+This months purchase brings Delta's firm order book to 130 Boeing airplanes.
+Ribbon Cutting: Utah Museum Last week, I was honored to attend the ribbon cutting ceremony for Utah’s newly renovated Capitol Museum.
 This beautiful space will help visitors better understand Utah’s history, the work that happens at the Capitol, and the people and stories that shaped our state.
-I’m grateful to everyone who made this project possible, and I hope you’ll plan a visit soon. |
-| |
-| |
-| |
-| Legislative Update Presentations |
-| |
-| Friends, earlier this month I had the opportunity to present before the Bountiful City Council and the North Salt Lake City Council.
-I believe one of the best ways to understand the needs of our district is to build strong, trusted relationships with the local leaders who serve our communities every day. |
-| |
-| |
-| |
-| Top: North Salt Lake City Council Middle: North Salt Lake First Responders Jeff Larsen, Deputy Fire Chief; Mitch Gwilliam, Assistant Police Chief; Craig Black, Police Chief Bottom: Bountiful City Council Members Millie Bahr & Resident Rhonda Perkins |
-| |
-| |
-| On the Hill with Eliza |
-| |
-| Meet my daughter Eliza who was kind enough to visit me on the first day of the session.
-She is one of my motivations to make Utah a better place for us to live. |
-| |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Copyright © 2025, All rights reserved.
+I’m grateful to everyone who made this project possible, and I hope you’ll plan a visit soon.
+Legislative Update Presentations Friends, earlier this month I had the opportunity to present before the Bountiful City Council and the North Salt Lake City Council .
+I believe one of the best ways to understand the needs of our district is to build strong, trusted relationships with the local leaders who serve our communities every day.
+Top: North Salt Lake City Council Middle: North Salt Lake First Responders Jeff Larsen, Deputy Fire Chief; Mitch Gwilliam, Assistant Police Chief; Craig Black, Police Chief Bottom: Bountiful City Council Members Millie Bahr & Resident Rhonda Perkins On the Hill with Eliza Meet my daughter Eliza who was kind enough to visit me on the first day of the session.
+She is one of my motivations to make Utah a better place for us to live.
+Learn More About Melissa Facebook Instagram Email Copyright © #, All rights reserved.
 Paid for by the Committee to Elect Melissa Garff Ballard Want to change how you receive these emails?
-You can update your preferences or unsubscribe from this list. |
+You can update your preferences or unsubscribe from this list .
+Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

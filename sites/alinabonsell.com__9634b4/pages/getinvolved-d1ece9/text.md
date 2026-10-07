@@ -1,5 +1,1 @@
-FOLLOW US
-GET INVOLVED
-Please fill out the form if you would like to join Alina for NY State Senate
-SUPPORT THE CAMPAIGN
-Every contribution helps us reach D28 voters.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Join the movement GET INVOLVED Join the Campaign Please fill out the form if you would like to join Alina for NY State Senate First name * Last name Email * Phone Check any opportunities you'd be interested in Volunteering for Street Campaigning and Canvassing Help out with phone banking Host an event Media opportunities Other Notes SUBMIT Donate SUPPORT THE CAMPAIGN Every contribution helps us reach D28 voters. $28 $50 $100 $150 $250 $1050 $5000 Other DONATE CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

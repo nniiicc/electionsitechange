@@ -1,12 +1,2 @@
-top of page
-ENVIRONMENT
-Stewardship | Safety | Respect
-OUR PRIORITIES
-ENSURE ENVIRONMENTALLY SOUND LAND DEVELOPMENT
-Rapid, sprawling growth is paving over the natural landmarks that define our region.
-PROTECT THE TENNESSEE!
-Develop targeted federal grant program for the Tennessee River.
-PRESERVE OUR HOME
-Our mountains and rivers are the foundation of a $5 billion outdoor economy that supports fishing, hunting, agriculture and tourism.
-RESTORE CLEAN AIR AND WATER PROTECTIONS
-bottom of page
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE ENVIRONMENT Stewardship | Safety | Respect OUR PRIORITIES ENSURE ENVIRONMENTALLY SOUND LAND DEVELOPMENT ​ Rapid, sprawling growth is paving over the natural landmarks that define our region . ​ PROTECT THE TENNESSEE! ​ Develop targeted federal grant program for the Tennessee River . ​ ​ PRESERVE OUR HOME ​ Our mountains and rivers are the foundation of a $5 billion outdoor economy that supports fishing, hunting, agriculture and tourism . ​ ​ RESTORE CLEAN AIR AND WATER PROTECTIONS THE ISSUES HEALTHCARE IMMIGRATION AFFORDABILITY LABOR EDUCATION | OPPORTUNITY ENVIRONMENT ENERGY FIX THE HOUSE DATA CENTERS SOCIAL SECURITY Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

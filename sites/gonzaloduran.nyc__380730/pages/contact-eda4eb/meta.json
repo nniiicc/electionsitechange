@@ -1,7 +1,9 @@
 {
  "description": "Message Me",
  "final_url": "https://www.gonzaloduran.nyc/contact/",
- "paid_for_by": null,
+ "fingerprint": "1ff159876d722eb41bc5bedd5fcdfd3d74e21bcf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact - Gonzalo Duran",
  "years_mentioned": []
 }

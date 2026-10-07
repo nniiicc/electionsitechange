@@ -1,23 +1,130 @@
 [
-"https://courts.wa.gov/appellate_trial_courts/supremecourt",
-"https://facebook.com/odonnell4judge",
-"https://instagram.com/elect_odonnell_for_justice",
-"https://lead-capture-form-57e73f.zapier.app/",
-"https://linkedin.com/in/sean-p-o%E2%80%99donnell-418a20b",
-"https://odonnellforjustice.com/",
-"https://odonnellforjustice.com/about",
-"https://odonnellforjustice.com/accessibility-statement",
-"https://odonnellforjustice.com/campaigncodeofconduct",
-"https://odonnellforjustice.com/endorsements",
-"https://odonnellforjustice.com/letterfrom62judges",
-"https://odonnellforjustice.com/privacy-policy",
-"https://odonnellforjustice.com/terms-and-conditions",
-"https://odonnellforjustice.com/why-i-am-running",
-"https://seattletimes.com/opinion/editorials/voters-beware-candidate-for-state-supreme-court-heads-to-the-gutter",
-"https://seattletimes.com/seattle-news/politics/wa-supreme-court-race-heats-up-over-alleged-partisan-attack",
-"https://secure.anedot.com/odonnell-for-justice/websitegeneral",
-"https://tiktok.com/@judge.odonnell",
-"https://wix.com/",
-"https://x.com/odonnell4judge",
-"https://youtube.com/@ODonnellForJustice"
+{
+"text": "$#",
+"href": "https://secure.anedot.com/odonnell-for-justice/websitegeneral"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/odonnell-for-justice/websitegeneral"
+},
+{
+"text": "$2400",
+"href": "https://secure.anedot.com/odonnell-for-justice/websitegeneral"
+},
+{
+"text": "ABOUT",
+"href": "https://www.odonnellforjustice.com/about"
+},
+{
+"text": "ADD MY NAME",
+"href": "https://lead-capture-form-57e73f.zapier.app/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.odonnellforjustice.com/accessibility-statement"
+},
+{
+"text": "CHECK OUT THE FULL LIST",
+"href": "https://www.odonnellforjustice.com/endorsements"
+},
+{
+"text": "Campaign Code of Conduct",
+"href": "https://www.odonnellforjustice.com/campaigncodeofconduct"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/odonnell-for-justice/websitegeneral"
+},
+{
+"text": "ENDORSE",
+"href": "https://lead-capture-form-57e73f.zapier.app/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.odonnellforjustice.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://lead-capture-form-57e73f.zapier.app/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.odonnellforjustice.com/about"
+},
+{
+"text": "LETTER FROM 62 JUDGES",
+"href": "https://www.odonnellforjustice.com/letterfrom62judges"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.odonnellforjustice.com/privacy-policy"
+},
+{
+"text": "SEATTLE TIMES 9/14 NEWS",
+"href": "https://www.seattletimes.com/seattle-news/politics/wa-supreme-court-race-heats-up-over-alleged-partisan-attack/"
+},
+{
+"text": "SEATTLE TIMES 9/20 EDITORIAL",
+"href": "https://www.seattletimes.com/opinion/editorials/voters-beware-candidate-for-state-supreme-court-heads-to-the-gutter/"
+},
+{
+"text": "State Supreme Court",
+"href": "https://www.courts.wa.gov/appellate_trial_courts/supremecourt/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.odonnellforjustice.com/terms-and-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://lead-capture-form-57e73f.zapier.app/"
+},
+{
+"text": "WHY I AM RUNNING",
+"href": "https://www.odonnellforjustice.com/why-i-am-running"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/odonnell4judge"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/elect_odonnell_for_justice/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/sean-p-o%E2%80%99donnell-418a20b/"
+},
+{
+"text": "[image: ODonnell-Logo-FullColor-RGB.png]",
+"href": "https://www.odonnellforjustice.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@judge.odonnell"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/odonnell4judge"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@ODonnellForJustice"
+},
+{
+"text": "[image]",
+"href": "https://www.odonnellforjustice.com"
+},
+{
+"text": "campaign@odonnellforjustice.com",
+"href": "mailto:campaign@odonnellforjustice.com"
+},
+{
+"text": "erms & Conditions",
+"href": "https://www.odonnellforjustice.com/terms-and-conditions"
+}
 ]

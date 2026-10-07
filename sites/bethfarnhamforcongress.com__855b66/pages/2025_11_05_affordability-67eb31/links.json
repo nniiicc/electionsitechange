@@ -1,36 +1,142 @@
 [
-"https://americanprogress.org/article/the-trump-administration-ended-collective-bargaining-for-1-million-federal-workers",
-"https://bethfarnhamforcongress.com/",
-"https://bethfarnhamforcongress.com/2025/11/05/affordability",
-"https://bethfarnhamforcongress.com/2025/11/05/affordability?share=facebook",
-"https://bethfarnhamforcongress.com/2025/11/05/affordability?share=twitter",
-"https://bethfarnhamforcongress.com/2026/09/20/the-most-terrifying-conversation-i-ever-had-with-voters",
-"https://bethfarnhamforcongress.com/2026/09/27/pro-lifers-dont-really-care-about-life-of-the-mother",
-"https://bethfarnhamforcongress.com/2026/10/04/pa-licensed-daycares-must-accept-unvaccinated-children",
-"https://bethfarnhamforcongress.com/category/district-round-up",
-"https://bethfarnhamforcongress.com/category/healthcare",
-"https://bethfarnhamforcongress.com/category/our-precious-democracy",
-"https://bethfarnhamforcongress.com/category/uncategorized",
-"https://bethfarnhamforcongress.com/contact-beth",
-"https://bethfarnhamforcongress.com/meet-beth",
-"https://bethfarnhamforcongress.com/priorities",
-"https://bethfarnhamforcongress.com/welcome-volunteers",
-"https://campaignlegal.org/update/how-does-citizens-united-decision-still-affect-us-2025",
-"https://cbpp.org/research/health/by-the-numbers-harmful-republican-megabill-will-take-health-coverage-away-from",
-"https://cbsnews.com/news/inflation-beef-coffee-bananas-food-prices-cpi",
-"https://census.gov/newsroom/press-releases/2025/acs-1-year-estimates.html",
-"https://civileats.com/2025/11/04/farmers-struggle-with-tariffs-despite-china-deal-to-buy-us-soybeans",
-"https://cnbc.com/video/2025/04/15/president-trump-does-not-understand-how-tariffs-work-former-u-s-national-security-advisor-john-bolton-tells-cnbc.html",
-"https://cnn.com/2025/11/03/politics/november-snap-benefits-government-trump",
-"https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-steals-poor-give-ultra-rich",
-"https://eatthis.com/big-mac-cost",
-"https://epi.org/blog/the-federal-minimum-wage-is-officially-a-poverty-wage-in-2025",
-"https://fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard",
-"https://npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer",
-"https://nytimes.com/2025/10/30/climate/electricity-prices.html",
-"https://pa.gov/agencies/dhs/resources/data-reports",
-"https://pawic.com/documents/ProgramData/PA%20WIC%20PPT.pdf",
-"https://penncapital-star.com/agriculture-pa-farms/effort-underway-to-revive-cancelled-federal-farm-and-food-bank-program-in-pennsylvania",
-"https://secure.actblue.com/donate/beth-farnham-for-congress-1",
-"https://usnews.com/education/k12/pennsylvania/districts/greater-johnstown-sd-105468"
+{
+"text": "Big Mac Costs through the Years",
+"href": "https://www.eatthis.com/big-mac-cost/#:~:text=The%20Big%20Mac%20entered%20the,and%20%243.21%20in%20May%202008."
+},
+{
+"text": "Cancelled LFPA May Return, but Only Proposal Now",
+"href": "https://penncapital-star.com/agriculture-pa-farms/effort-underway-to-revive-cancelled-federal-farm-and-food-bank-program-in-pennsylvania/"
+},
+{
+"text": "Contact Beth",
+"href": "https://bethfarnhamforcongress.com/contact-beth/"
+},
+{
+"text": "District Round-up",
+"href": "https://bethfarnhamforcongress.com/category/district-round-up/"
+},
+{
+"text": "Electricity Cost Inflation",
+"href": "https://www.nytimes.com/2025/10/30/climate/electricity-prices.html"
+},
+{
+"text": "Farmers Struggle With Tariffs Despite China Deal to Buy Soybeans",
+"href": "https://civileats.com/2025/11/04/farmers-struggle-with-tariffs-despite-china-deal-to-buy-us-soybeans/"
+},
+{
+"text": "Government Shutdown Leads to Fewer SNAP benefits",
+"href": "https://www.cnn.com/2025/11/03/politics/november-snap-benefits-government-trump"
+},
+{
+"text": "Greater Johnstown School District Free and Reduced Lunch program recipient percentage",
+"href": "https://www.usnews.com/education/k12/pennsylvania/districts/greater-johnstown-sd-105468"
+},
+{
+"text": "Housing Cost Inflation",
+"href": "https://www.census.gov/newsroom/press-releases/2025/acs-1-year-estimates.html"
+},
+{
+"text": "How Citizens United Adversely Affects US",
+"href": "https://campaignlegal.org/update/how-does-citizens-united-decision-still-affect-us-2025"
+},
+{
+"text": "How the Big Beautiful Bill Act Removes Healthcare from Americans in need",
+"href": "https://www.cbpp.org/research/health/by-the-numbers-harmful-republican-megabill-will-take-health-coverage-away-from"
+},
+{
+"text": "Join us!",
+"href": "https://bethfarnhamforcongress.com/welcome-volunteers/"
+},
+{
+"text": "Medicaid Recipients per County, PA",
+"href": "https://www.pa.gov/agencies/dhs/resources/data-reports"
+},
+{
+"text": "Meet Beth",
+"href": "https://bethfarnhamforcongress.com/meet-beth/"
+},
+{
+"text": "November 5, 2025",
+"href": "https://bethfarnhamforcongress.com/2025/11/05/affordability/"
+},
+{
+"text": "Our Precious Democracy",
+"href": "https://bethfarnhamforcongress.com/category/our-precious-democracy/"
+},
+{
+"text": "PA Licensed Daycares Must Accept Unvaccinated Children",
+"href": "https://bethfarnhamforcongress.com/2026/10/04/pa-licensed-daycares-must-accept-unvaccinated-children/"
+},
+{
+"text": "President Trump Misunderstands the Mechanism of Tariffs",
+"href": "https://www.cnbc.com/video/2025/04/15/president-trump-does-not-understand-how-tariffs-work-former-u-s-national-security-advisor-john-bolton-tells-cnbc.html"
+},
+{
+"text": "Priorities",
+"href": "https://bethfarnhamforcongress.com/priorities/"
+},
+{
+"text": "Pro-lifers Don’t Really Care About “Life of the Mother”",
+"href": "https://bethfarnhamforcongress.com/2026/09/27/pro-lifers-dont-really-care-about-life-of-the-mother/"
+},
+{
+"text": "Reasons for Inflation of Coffee, Beef, Bananas, and Oranges",
+"href": "https://www.cbsnews.com/news/inflation-beef-coffee-bananas-food-prices-cpi/"
+},
+{
+"text": "SNAP Statistics per Congressional Districts",
+"href": "https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://bethfarnhamforcongress.com/2025/11/05/affordability/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://bethfarnhamforcongress.com/2025/11/05/affordability/?share=twitter"
+},
+{
+"text": "Soaring Healthcare Costs",
+"href": "https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer"
+},
+{
+"text": "The Federal Minimum Wage is Officially a Poverty Wage",
+"href": "https://www.epi.org/blog/the-federal-minimum-wage-is-officially-a-poverty-wage-in-2025/"
+},
+{
+"text": "The Most Terrifying Conversation I Ever Had With Voters",
+"href": "https://bethfarnhamforcongress.com/2026/09/20/the-most-terrifying-conversation-i-ever-had-with-voters/"
+},
+{
+"text": "Trump Admin Ended Collective Bargaining for 1 Million Federal Workers",
+"href": "https://www.americanprogress.org/article/the-trump-administration-ended-collective-bargaining-for-1-million-federal-workers/"
+},
+{
+"text": "Trump’s Bill Steals from the Poor to Give to the Rich",
+"href": "https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-steals-poor-give-ultra-rich"
+},
+{
+"text": "Uncategorized",
+"href": "https://bethfarnhamforcongress.com/category/uncategorized/"
+},
+{
+"text": "WIC Recipients per County, PA",
+"href": "https://www.pawic.com/documents/ProgramData/PA%20WIC%20PPT.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.bethfarnhamforcongress.com"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/beth-farnham-for-congress-1"
+},
+{
+"text": "healthcare",
+"href": "https://bethfarnhamforcongress.com/category/healthcare/"
+},
+{
+"text": "← Back",
+"href": "https://bethfarnhamforcongress.com/2025/11/05/affordability/"
+}
 ]

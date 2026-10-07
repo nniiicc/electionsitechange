@@ -1,17 +1,66 @@
 [
-"https://keithscully.org/",
-"https://keithscully.org/about",
-"https://keithscully.org/about-keith",
-"https://keithscully.org/contact",
-"https://keithscully.org/defendant-against-federal-threats",
-"https://keithscully.org/endorsements",
-"https://keithscully.org/expanding-affordable-housing",
-"https://keithscully.org/fighting-climate-change-and-moving-towards-a-sustainable-future",
-"https://keithscully.org/managing-ai",
-"https://keithscully.org/priorities",
-"https://keithscully.org/progressive-tax-reform",
-"https://keithscully.org/protecting-rights",
-"https://keithscully.org/responsible-budgeting",
-"https://keithscully.org/washingtons-schools-need-help",
-"https://secure.anedot.com/keith-scully/donatesr"
+{
+"text": "About",
+"href": "https://keithscully.org/about-keith/"
+},
+{
+"text": "Contact",
+"href": "https://keithscully.org/contact/"
+},
+{
+"text": "Defending against federal threats",
+"href": "https://keithscully.org/defendant-against-federal-threats/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/keith-scully/donatesr"
+},
+{
+"text": "Endorsements",
+"href": "https://keithscully.org/endorsements/"
+},
+{
+"text": "Expanding affordable housing",
+"href": "https://keithscully.org/expanding-affordable-housing/"
+},
+{
+"text": "Fighting climate change and moving towards a sustainable future",
+"href": "https://keithscully.org/fighting-climate-change-and-moving-towards-a-sustainable-future/"
+},
+{
+"text": "Funding K-12 education",
+"href": "https://keithscully.org/washingtons-schools-need-help/"
+},
+{
+"text": "Home",
+"href": "https://keithscully.org/"
+},
+{
+"text": "Managing AI",
+"href": "https://keithscully.org/managing-ai/"
+},
+{
+"text": "More about Keith",
+"href": "https://keithscully.org/about/"
+},
+{
+"text": "Priorities",
+"href": "https://keithscully.org/priorities/"
+},
+{
+"text": "Progressive tax reform",
+"href": "https://keithscully.org/progressive-tax-reform/"
+},
+{
+"text": "Protecting rights",
+"href": "https://keithscully.org/protecting-rights/"
+},
+{
+"text": "Responsible budgeting",
+"href": "https://keithscully.org/responsible-budgeting/"
+},
+{
+"text": "[image: Keith Scully]",
+"href": "https://keithscully.org/"
+}
 ]

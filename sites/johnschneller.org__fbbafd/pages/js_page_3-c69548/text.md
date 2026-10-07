@@ -1,14 +1,7 @@
-Science Technology and Energy (ST&E) Committee
-In the background is the Building housing the office of Business and Economic Affairs.
-Global economy-driving advanced scientific businesses will relocate to New Hampshire IF New Hampshire can ensure a reasonably-priced and reliable source of industrial-scale energy...
-‘Schrödinger’s Tax:’ House Dems Vote Both For and Against an Income Tax
-Republican State Rep John Schneller of Bedford inadvertently hit “yes” but had his vote corrected by the House clerk.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page John Schneller State Representative – Hillsborough, District 2 CANDIDATES CORNER 2026 John Schneller State Representative – Hillsborough, District 2 UPDATES Science Technology and Energy (ST&E) Committee May 23, 2026 In the background is the Building housing the office of Business and Economic Affairs.
+Global economy-driving advanced scientific businesses will relocate to New Hampshire IF New Hampshire can ensure a reasonably-priced and reliable source of industrial-scale energy... read more ‘Schrödinger’s Tax:’ House Dems Vote Both For and Against an Income Tax May 15, 2026 Republican State Rep John Schneller of Bedford inadvertently hit “yes” but had his vote corrected by the House clerk.
 New Hampshire Democrats continue to struggle with how to handle enacting a state income tax.
-Polls show it’s wildly unpopular among Granite State...
-Vote Correction Forms
-While democrats would love to think one of the most conservative Representatives in the House declined to support a Constitutional measure permanently preventing an income tax, the vote was immediately corrected and is emblazoned in the House Permanent Journal.
-Like...
-Natural Gas and Cheap Energy Are Within Our Grasp
-Why do I plan to file legislation that will allow for expanded NH LNG access?
+Polls show it’s wildly unpopular among Granite State... read more Vote Correction Forms May 14, 2026 While democrats would love to think one of the most conservative Representatives in the House declined to support a Constitutional measure permanently preventing an income tax, the vote was immediately corrected and is emblazoned in the House Permanent Journal.
+Like... read more Natural Gas and Cheap Energy Are Within Our Grasp May 13, 2026 Why do I plan to file legislation that will allow for expanded NH LNG access?
 It's simple math.
-A few key findings from the linked UC Berkeley study STRONGLY suggest that NH would benefit from more cheap Natural Gas delivered to New Hampshire via either pipeline or an...
+A few key findings from the linked UC Berkeley study STRONGLY suggest that NH would benefit from more cheap Natural Gas delivered to New Hampshire via either pipeline or an... read more « Older Entries Next Entries » Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

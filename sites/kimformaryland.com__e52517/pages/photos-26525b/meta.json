@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://kimformaryland.com/photos",
- "paid_for_by": null,
+ "fingerprint": "1682d59d0f717d54cce4375bb664f0f65d29c5a4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

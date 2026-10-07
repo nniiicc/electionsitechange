@@ -1,12 +1,46 @@
 [
-"https://kambrellgarvin.com/",
-"https://kambrellgarvin.com/about",
-"https://kambrellgarvin.com/contact-us",
-"https://kambrellgarvin.com/media",
-"https://kambrellgarvin.com/platform-issues",
-"https://kambrellgarvin.com/privacy-policy-2",
-"https://secure.actblue.com/donate/kambrell-garvin-for-sc-house-1",
-"https://tfasc.org/meet-tfasc-alumni-kambrell-and-monique-garvin",
-"https://winthrop.edu/news-events/winthrop-to-welcome-136th-academic-year-with-annual-convocation-ceremony.aspx",
-"https://wistv.com/2021/08/01/sc-rep-gives-free-school-supplies-back-to-school-extravaganza"
+{
+"text": "About",
+"href": "https://kambrellgarvin.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://kambrellgarvin.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kambrell-garvin-for-sc-house-1"
+},
+{
+"text": "Home",
+"href": "https://kambrellgarvin.com/"
+},
+{
+"text": "Kambrell Garvin 2021 Winthrop Convocation Address",
+"href": "https://www.winthrop.edu/news-events/winthrop-to-welcome-136th-academic-year-with-annual-convocation-ceremony.aspx"
+},
+{
+"text": "Legislative Updates",
+"href": "https://kambrellgarvin.com/media/"
+},
+{
+"text": "Meet TFA SC Alumni Kambrell and Monique Garvin",
+"href": "https://tfasc.org/meet-tfasc-alumni-kambrell-and-monique-garvin/"
+},
+{
+"text": "New Day Agenda",
+"href": "https://kambrellgarvin.com/platform-issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kambrellgarvin.com/privacy-policy-2/"
+},
+{
+"text": "SC Rep. gives free school supplies at Back-to-School Extravaganza",
+"href": "https://www.wistv.com/2021/08/01/sc-rep-gives-free-school-supplies-back-to-school-extravaganza/"
+},
+{
+"text": "[image: Kambrell Garvin for SC House]",
+"href": "https://kambrellgarvin.com/"
+}
 ]

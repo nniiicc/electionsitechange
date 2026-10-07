@@ -1,42 +1,234 @@
 [
-"https://agiletix.capitol.tn.gov/websales/pages/list.aspx?epguid=3ad0d811-3908-44ab-b56d-c57f44993f91&mdy=01%2F01%2F2027",
-"https://facebook.com/iamtorreyharris",
-"https://govotetn.com/",
-"https://instagram.com/iamtorreyharris",
-"https://secure.actblue.com/donate/torreyharris91",
-"https://shelbyvote.com/",
-"https://torreyharris.com/about.html",
-"https://torreyharris.com/careers.html",
-"https://torreyharris.com/contact.html",
-"https://torreyharris.com/district-91-map.html",
-"https://torreyharris.com/endorsements.html",
-"https://torreyharris.com/fellows.html",
-"https://torreyharris.com/funding-request.html",
-"https://torreyharris.com/gallery.html",
-"https://torreyharris.com/index.html",
-"https://torreyharris.com/issues.html",
-"https://torreyharris.com/issues/climate.html",
-"https://torreyharris.com/issues/economy.html",
-"https://torreyharris.com/issues/education.html",
-"https://torreyharris.com/issues/elections.html",
-"https://torreyharris.com/issues/family-children.html",
-"https://torreyharris.com/issues/gun-violence.html",
-"https://torreyharris.com/issues/healthcare.html",
-"https://torreyharris.com/issues/housing.html",
-"https://torreyharris.com/issues/immigration.html",
-"https://torreyharris.com/issues/lgbtq-rights.html",
-"https://torreyharris.com/issues/reproductive-freedom.html",
-"https://torreyharris.com/issues/technology.html",
-"https://torreyharris.com/issues/workers-rights.html",
-"https://torreyharris.com/join.html",
-"https://torreyharris.com/magazine.html",
-"https://torreyharris.com/press.html",
-"https://torreyharris.com/privacy-policy.html",
-"https://torreyharris.com/record.html",
-"https://torreyharris.com/requests.html",
-"https://torreyharris.com/shelby-county.html",
-"https://torreyharris.com/sms-opt-in.html",
-"https://torreyharris.com/vote.html",
-"https://torreyharris.com/why-im-running.html",
-"https://x.com/iamtorreyharris"
+{
+"text": "2025-2026 District Report",
+"href": "https://www.torreyharris.com/magazine.html"
+},
+{
+"text": "About",
+"href": "https://www.torreyharris.com/about.html"
+},
+{
+"text": "About Torrey",
+"href": "https://www.torreyharris.com/about.html"
+},
+{
+"text": "All Issues →",
+"href": "https://www.torreyharris.com/issues.html"
+},
+{
+"text": "All contact info →",
+"href": "https://www.torreyharris.com/contact.html"
+},
+{
+"text": "Check Voting Status",
+"href": "https://govotetn.com"
+},
+{
+"text": "Chip in $20 today to support Rep. Torrey C. Harris’ re-election campaign→",
+"href": "https://secure.actblue.com/donate/torreyharris91"
+},
+{
+"text": "Climate",
+"href": "https://www.torreyharris.com/issues/climate.html"
+},
+{
+"text": "Contact the Office",
+"href": "https://www.torreyharris.com/contact.html"
+},
+{
+"text": "District 91 Map",
+"href": "https://www.torreyharris.com/district-91-map.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/torreyharris91"
+},
+{
+"text": "Economy",
+"href": "https://www.torreyharris.com/issues/economy.html"
+},
+{
+"text": "Education",
+"href": "https://www.torreyharris.com/issues/education.html"
+},
+{
+"text": "Elections Information",
+"href": "https://shelbyvote.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.torreyharris.com/endorsements.html"
+},
+{
+"text": "Family & Children",
+"href": "https://www.torreyharris.com/issues/family-children.html"
+},
+{
+"text": "Free & Fair Elections",
+"href": "https://www.torreyharris.com/issues/elections.html"
+},
+{
+"text": "Free Gallery Tickets",
+"href": "https://agiletix.capitol.tn.gov/websales/pages/list.aspx?epguid=3ad0d811-3908-44ab-b56d-c57f44993f91&mdy=01%2F01%2F2027"
+},
+{
+"text": "Gallery",
+"href": "https://www.torreyharris.com/gallery.html"
+},
+{
+"text": "Gun Violence",
+"href": "https://www.torreyharris.com/issues/gun-violence.html"
+},
+{
+"text": "Harris Fellows & Interns",
+"href": "https://www.torreyharris.com/fellows.html"
+},
+{
+"text": "Healthcare",
+"href": "https://www.torreyharris.com/issues/healthcare.html"
+},
+{
+"text": "Housing",
+"href": "https://www.torreyharris.com/issues/housing.html"
+},
+{
+"text": "Immigration",
+"href": "https://www.torreyharris.com/issues/immigration.html"
+},
+{
+"text": "In the Press",
+"href": "https://www.torreyharris.com/press.html"
+},
+{
+"text": "Issues",
+"href": "https://www.torreyharris.com/issues.html"
+},
+{
+"text": "Join Our Team",
+"href": "https://www.torreyharris.com/careers.html"
+},
+{
+"text": "LGBTQ+ Rights",
+"href": "https://www.torreyharris.com/issues/lgbtq-rights.html"
+},
+{
+"text": "Legislation Passed",
+"href": "https://www.torreyharris.com/record.html"
+},
+{
+"text": "Meet Torrey",
+"href": "https://www.torreyharris.com/about.html"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.torreyharris.com/contact.html#team"
+},
+{
+"text": "Money for Shelby County",
+"href": "https://www.torreyharris.com/shelby-county.html"
+},
+{
+"text": "NextWorker’s Rights →",
+"href": "https://www.torreyharris.com/issues/workers-rights.html"
+},
+{
+"text": "Photos & Memories",
+"href": "https://www.torreyharris.com/gallery.html"
+},
+{
+"text": "Previous← Housing",
+"href": "https://www.torreyharris.com/issues/housing.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.torreyharris.com/issues.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.torreyharris.com/privacy-policy.html"
+},
+{
+"text": "Proclamation & Letter Requests",
+"href": "https://www.torreyharris.com/requests.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://govotetn.com"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.torreyharris.com/issues/reproductive-freedom.html"
+},
+{
+"text": "Request 2027 Budget Funding",
+"href": "https://www.torreyharris.com/funding-request.html"
+},
+{
+"text": "Request Help",
+"href": "https://www.torreyharris.com/contact.html"
+},
+{
+"text": "SMS Opt-In Form",
+"href": "https://www.torreyharris.com/sms-opt-in.html"
+},
+{
+"text": "Stay Informed",
+"href": "https://www.torreyharris.com/contact.html"
+},
+{
+"text": "Technology & Innovation",
+"href": "https://www.torreyharris.com/issues/technology.html"
+},
+{
+"text": "The Record",
+"href": "https://www.torreyharris.com/record.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.torreyharris.com/join.html"
+},
+{
+"text": "Volunteer With Us",
+"href": "https://www.torreyharris.com/join.html"
+},
+{
+"text": "Vote 2026",
+"href": "https://www.torreyharris.com/vote.html"
+},
+{
+"text": "Voting Info",
+"href": "https://www.torreyharris.com/vote.html"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.torreyharris.com/why-im-running.html"
+},
+{
+"text": "Worker’s Rights",
+"href": "https://www.torreyharris.com/issues/workers-rights.html"
+},
+{
+"text": "[image: Re-elect Torrey Harris]",
+"href": "https://www.torreyharris.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/iamtorreyharris"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/iamtorreyharris"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/iamtorreyharris"
+},
+{
+"text": "rep.torrey.harris@capitol.tn.gov",
+"href": "mailto:rep.torrey.harris@capitol.tn.gov"
+},
+{
+"text": "← All Issues",
+"href": "https://www.torreyharris.com/issues.html"
+}
 ]

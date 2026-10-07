@@ -1,14 +1,86 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fiowansformikevondran.com%2F&title=Iowans+For+Mike+Vondran",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Fiowansformikevondran.com%2F",
-"http://twitter.com/home?status=Privacy+Policy+https%3A%2F%2Fiowansformikevondran.com%2Fprivacy-policy",
-"https://facebook.com/IowansForMikeVondran",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fiowansformikevondran.com%2F",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fiowansformikevondran.com%2Fprivacy-policy",
-"https://instagram.com/iowansformikevondran",
-"https://iowansformikevondran.com/",
-"https://iowansformikevondran.com/privacy-policy",
-"https://iowansformikevondran.com/terms-of-use",
-"https://twitter.com/IowansForMike",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fiowansformikevondran.com%2F"
+{
+"text": "563-650-6555",
+"href": "tel:563-650-6555"
+},
+{
+"text": "About",
+"href": "https://iowansformikevondran.com/#about-area"
+},
+{
+"text": "Contact Mike",
+"href": "https://iowansformikevondran.com/#footer-area"
+},
+{
+"text": "Donate",
+"href": "https://iowansformikevondran.com/#donation-area"
+},
+{
+"text": "Email",
+"href": "mailto:?subject=Page+Shared+-+Iowans+For+Mike+Vondran&body=https%3A%2F%2Fiowansformikevondran.com%2F"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fiowansformikevondran.com%2F"
+},
+{
+"text": "Home",
+"href": "https://iowansformikevondran.com"
+},
+{
+"text": "Home",
+"href": "https://iowansformikevondran.com/"
+},
+{
+"text": "LinkedIn",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fiowansformikevondran.com%2F&title=Iowans+For+Mike+Vondran"
+},
+{
+"text": "MikeV@IowansforMikeVondran.com",
+"href": "mailto:MikeV@IowansforMikeVondran.com"
+},
+{
+"text": "Pinterest",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fiowansformikevondran.com%2F"
+},
+{
+"text": "Privacy Policy",
+"href": "https://iowansformikevondran.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://iowansformikevondran.com/terms-of-use"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fiowansformikevondran.com%2F"
+},
+{
+"text": "[image: Iowans For Mike Vondran]",
+"href": "https://iowansformikevondran.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/home?status=Privacy+Policy+https%3A%2F%2Fiowansformikevondran.com%2Fprivacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/IowansForMike"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/IowansForMikeVondran/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fiowansformikevondran.com%2Fprivacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/iowansformikevondran/"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Page+Shared+-+Privacy+Policy&body=https%3A%2F%2Fiowansformikevondran.com%2Fprivacy-policy"
+}
 ]

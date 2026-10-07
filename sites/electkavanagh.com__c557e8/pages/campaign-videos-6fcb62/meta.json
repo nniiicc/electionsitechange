@@ -1,7 +1,11 @@
 {
- "description": "Watch campaign videos from State Senator John Kavanagh on the issues that matter to Arizona \u2014 illegal immigration, fiscal responsibility, election protection, parental rights, and more.",
+ "description": "Watch campaign videos from State Senator John Kavanagh on the issues that matter to Arizona — illegal immigration, fiscal responsibility, election protection, parental rights, and more.",
  "final_url": "https://www.electkavanagh.com/campaign-videos",
- "paid_for_by": "Paid for by John Kavanagh for State Senator \u00a9 2026 Re-Elect John Kavanagh \u00b7 Arizona State Senate District 3",
+ "fingerprint": "76fa4bbe604e7775e9af428752595d5cfd7f0cc3",
+ "format": 3,
+ "paid_for_by": "Paid for by John Kavanagh for State Senator © 2026 Re-Elect John Kavanagh · Arizona State Senate District 3",
  "title": "Campaign Videos | Re-Elect State Senator John Kavanagh",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

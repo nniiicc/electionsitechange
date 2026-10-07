@@ -1,11 +1,5 @@
-Delivering Strong Infrastructure
-Investing in Strong, Safe, and Sustainable Neighborhoods
-Fighting for you in Lansing
-Other priorities
-Infrastructure in Dearborn and Dearborn Heights needs more than patchwork fixes.
+Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Volunteer Take Our Survey Donate Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Donate Delivering Strong Infrastructure Investing in Strong, Safe, and Sustainable Neighborhoods Fighting for you in Lansing Other priorities Working Families & Local Economy Education & Career Pathways Health Care and Community Wellness Accountable, Community-Driven Leadership Infrastructure in Dearborn and Dearborn Heights needs more than patchwork fixes.
 Jalal will fight for state investment in roads, water systems, flood mitigation, and neighborhood safety, ensuring that every family can trust their environment to be safe and resilient.
 He’ll support smart infrastructure planning that addresses flooding, improves walkability, and modernizes utilities while protecting taxpayer dollars.
-Key goals:
-- Secure funding for local flood prevention and drainage improvements
-- Support municipal safety funding for first responders
-- Modernize roads and public spaces for accessibility and sustainability
+Key goals: Secure funding for local flood prevention and drainage improvements Support municipal safety funding for first responders Modernize roads and public spaces for accessibility and sustainability Donate by mail: CTE Jalal Abdallah 23035 Sheridan St.
+Dearborn, MI 48124 Home Meet Jalal Priorities Volunteer Donate Connect with us: Contact Privacy Policy Terms of Use | Built by: Brick by Brick PAID FOR BY COMMITTEE TO ELECT JALAL ABDALLAH, PO Box 83, Dearborn Heights, MI 48127

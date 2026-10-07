@@ -1,9 +1,42 @@
 [
-"http://trentkelly.house.gov/",
-"https://facebook.com/TrentKellyforCongress",
-"https://kellyformississippi.com/",
-"https://kellyformississippi.com/privacy-policy",
-"https://trentkelly.house.gov/biography",
-"https://twitter.com/KellyforMS01",
-"https://winred.revv.co/TrentKelly/donate"
+{
+"text": "About",
+"href": "https://trentkelly.house.gov/biography/"
+},
+{
+"text": "Donate",
+"href": "https://winred.revv.co/TrentKelly/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kellyformississippi.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://trentkelly.house.gov/biography/"
+},
+{
+"text": "[image: Kelly for Mississippi]",
+"href": "https://kellyformississippi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://kellyformississippi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KellyforMS01"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TrentKellyforCongress"
+},
+{
+"text": "click here.",
+"href": "http://www.trentkelly.house.gov/"
+},
+{
+"text": "info@kellyformississippi.com",
+"href": "mailto:info@kellyformississippi.com"
+}
 ]

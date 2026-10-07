@@ -1,33 +1,3 @@
-top of page
-Rebecca in the News
-Port Jefferson Village hosts a workshop on flood prevention in the wake of worsening storm surges, Times Beacon Record (6/28/24)
-Primary elections highlight Avlon and Kassay’s path to November, Times Beacon Record (6/25/24)
-BE THEIR GUEST: The Fox and the Owl Inn celebrate 10th anniversary in Port Jefferson, Times Beacon Record (6/23/24)
-D-Day remembrance event in Port Jefferson Station, Times Beacon Record (6/14/24)
-Port Jefferson celebrates Arbor Day with native Long Island tree planting, Times Beacon Record (5/1/24)
-Port Jefferson Deputy Mayor Rebecca Kassay Runs for NYS Assembly, Times Beacon Record (4/12/24)
-Stony Brook Village Center celebrates Spring with ribbon cuttings, grand openings, anniversaries and renovations, Times Beacon Record (4/5/24)
-Castaways in Port Jefferson celebrates grand opening with ribbon cutting,
-Times Beacon Record (3/8/24)
-Rally against proposed education cuts, Times Beacon Record (2/8/24)
-Rebecca Kassay Announces Candidacy for NYS Assembly, Times Beacon Record (11/15/24)
-Edward Jones office cuts ribbon on new location in Port Jefferson, Times Beacon Record (10/5/23)
-PJV updates public on emergency response, traffic and new SBU internship program, Times Beacon Record (9/9/23)
-Port Jeff Village hosts e-waste recycling event at Perry Street lot, Times Beacon Record (8/11/23)
-Pedal-powered party experience heads to
-Port Jefferson, Times Beacon Record (6/10/23)
-Port Jefferson Chamber of Commerce hosts ribbon cutting for Ivory & Main, Times Beacon Record (6/6/23)
-As Port Jeff braces for heightened flooding, work begins to manage ‘water problem’, Times Beacon Record (4/13/23)
-One-on-one with Rebecca Kassay: Port Jeff trustee on climate-resilience planning, Times Beacon Record (4/2/23)
-10/8/22, Uptown Port Jeff undergoes transformation, Times Beacon Record (10/8/22)
-Kassay and Sheprow are sworn in as trustees for Port Jefferson Village, Times Beacon Record (7/7/22)
-Kassay and Sheprow triumph in Port Jeff board of trustees election, Times Beacon Record (6/22/22)
-Six Acre Park Committee Presents its Vision, Times Beacon Record (5/20/22)
-One-on-one with Rebecca Kassay, Times Beacon Record (5/12/22)
-Time to think spring!
-Community garden beds are up for grabs in Port Jefferson, Times Beacon Record (1/21/22)
-Port Jeff teams up with Relic for beach cleanup baskets, Times Beacon Record (6/16/21)
-Alumni Interview Series launches with one-on-one conversations about finding success after graduation, SUNY New Paltz News (2/1/21)
-Locals Craft Homemade Masks for Healthcare Workers During Pandemic,
-Times Beacon Record (3/26/20)
-bottom of page
+top of page Home Upcoming Events Issues Voter Resources In the News Endorsements Volunteer Rebecca in the News Port Jefferson Village hosts a workshop on flood prevention in the wake of worsening storm surges, Times Beacon Record (6/28/24) Primary elections highlight Avlon and Kassay’s path to November, Times Beacon Record (6/25/24) BE THEIR GUEST: The Fox and the Owl Inn celebrate 10th anniversary in Port Jefferson, Times Beacon Record (6/23/24) D-Day remembrance event in Port Jefferson Station, Times Beacon Record (6/14/24) Port Jefferson celebrates Arbor Day with native Long Island tree planting, Times Beacon Record (5/1/24) Port Jefferson Deputy Mayor Rebecca Kassay Runs for NYS Assembly, Times Beacon Record (4/12/24) Stony Brook Village Center celebrates Spring with ribbon cuttings, grand openings, anniversaries and renovations, Times Beacon Record (4/5/24) Castaways in Port Jefferson celebrates grand opening with ribbon cutting, Times Beacon Record (3/8/24) Rally against proposed education cuts, Times Beacon Record (2/8/24) Rebecca Kassay Announces Candidacy for NYS Assembly, Times Beacon Record (11/15/24) Edward Jones office cuts ribbon on new location in Port Jefferson, Times Beacon Record (10/5/23) PJV updates public on emergency response, traffic and new SBU internship program, Times Beacon Record (9/9/23) Port Jeff Village hosts e-waste recycling event at Perry Street lot, Times Beacon Record (8/11/23) Pedal-powered party experience heads to Port Jefferson, Times Beacon Record (6/10/23) Port Jefferson Chamber of Commerce hosts ribbon cutting for Ivory & Main, Times Beacon Record (6/6/23) As Port Jeff braces for heightened flooding, work begins to manage ‘water problem’, Times Beacon Record (4/13/23) One-on-one with Rebecca Kassay: Port Jeff trustee on climate-resilience planning, Times Beacon Record (4/2/23) 10/8/22, Uptown Port Jeff undergoes transformation, Times Beacon Record (10/8/22) Kassay and Sheprow are sworn in as trustees for Port Jefferson Village, Times Beacon Record (7/7/22) Kassay and Sheprow triumph in Port Jeff board of trustees election, Times Beacon Record (6/22/22) Six Acre Park Committee Presents its Vision, Times Beacon Record (5/20/22) One-on-one with Rebecca Kassay, Times Beacon Record (5/12/22) Time to think spring!
+Community garden beds are up for grabs in Port Jefferson, Times Beacon Record (1/21/22) Port Jeff teams up with Relic for beach cleanup baskets, Times Beacon Record (6/16/21) Alumni Interview Series launches with one-on-one conversations about finding success after graduation, SUNY New Paltz News (2/1/21) Locals Craft Homemade Masks for Healthcare Workers During Pandemic, Times Beacon Record (3/26/20) @KassayforAssembly Home Upcoming Events Issues Voter Resources In the News Endorsements More Use tab to navigate through the menu items.
+PAID FOR BY FRIENDS OF KASSAY FOR ASSEMBLY 2026 EMAIL US AT INFO@KASSAYFORASSEMBLY.COM bottom of page

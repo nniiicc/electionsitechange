@@ -1,6 +1,2 @@
-Feel free to use the form below to contact me with any questions, comments, or concerns that you may have.
-Your Name (required)
-Your Email (required)
-Subject
-Your Message
-Mailing address: Mastrofrancesco for CT 2024 276 Boundline Rd Wolcott, CT 06716
+Home About Issues Legislation NEWS Press Volunteer Photos Contact ENDORSEMENTS Contact Feel free to use the form below to contact me with any questions, comments, or concerns that you may have.
+Send A Message Your Name (required) Your Email (required) Subject Your Message Mailing address: Mastrofrancesco for CT 2024 276 Boundline Rd Wolcott, CT 06716 Recent News & Events Recent News Feb 4, 2020 0 Useful Links Volunteer Contact Me Blog Official Facebook Page District Map Recent Photos Paid for by Mastrofrancesco for CT, Zachary Foti Treasurer, Approved by Gale Mastrofrancesco Site Design by Marvelous Media

@@ -1,25 +1,102 @@
 [
-"https://action.butcherforwyomingsenate.com/volunteer",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F",
-"https://bsky.app/intent/compose?text=A+Conversation+About+the+Work+Ahead+Today+I+had+the+chance+to+sit+down+with+Jake+on+the+Cowboy+State+Daily+Morning+Show+for+a+short+conversation+about+this+campaign+and+what+I%E2%80%99m+hearing+across+the+district.It%E2%80%99s+a+quick+listen%2C+but+I+appreciated+the+chance+to+talk+through+a+few+ideas+that+keep+coming+up+as+I+make+my+way+around",
-"https://butcherforwyomingsenate.com/",
-"https://butcherforwyomingsenate.com/author/mdbutcher",
-"https://butcherforwyomingsenate.com/category/campaign",
-"https://butcherforwyomingsenate.com/donate",
-"https://butcherforwyomingsenate.com/melissa-butcher-announces-run-for-wyoming-senate-district-21",
-"https://butcherforwyomingsenate.com/melissas-story",
-"https://butcherforwyomingsenate.com/my-pledge-to-wyoming",
-"https://butcherforwyomingsenate.com/support-from-across-wyoming",
-"https://butcherforwyomingsenate.com/updates",
-"https://butcherforwyomingsenate.com/where-i-stand",
-"https://butcherforwyomingsenate.com/why-solving-problems-across-differences-is-a-conservative-value",
-"https://facebook.com/profile.php?id=61583041353865",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F",
-"https://reddit.com/submit?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&title=A+Conversation+About+the+Work+Ahead",
-"https://t.me/share/url?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&name=A+Conversation+About+the+Work+Ahead&description=Today+I+had+the+chance+to+sit+down+with+Jake+on+the+Cowboy+State+Daily+Morning+Show+for+a+short+conversation+about+this+campaign+and+what+I%E2%80%99m+hearing+across+the+district.It%E2%80%99s+a+quick+listen%2C+but+I+appreciated+the+chance+to+talk+through+a+few+ideas+that+keep+coming+up+as+I+make+my+way+around",
-"https://x.com/intent/post?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&text=A+Conversation+About+the+Work+Ahead",
-"https://xing.com/social/share/spi?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F",
-"https://youtube.com/live/9NVqxI7ovlE?si=wCBJQg7594ZWBx2m"
+{
+"text": "About",
+"href": "https://butcherforwyomingsenate.com/melissas-story/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/intent/compose?text=A+Conversation+About+the+Work+Ahead+Today+I+had+the+chance+to+sit+down+with+Jake+on+the+Cowboy+State+Daily+Morning+Show+for+a+short+conversation+about+this+campaign+and+what+I%E2%80%99m+hearing+across+the+district.It%E2%80%99s+a+quick+listen%2C+but+I+appreciated+the+chance+to+talk+through+a+few+ideas+that+keep+coming+up+as+I+make+my+way+around"
+},
+{
+"text": "Campaign",
+"href": "https://butcherforwyomingsenate.com/category/campaign/"
+},
+{
+"text": "Donate",
+"href": "https://butcherforwyomingsenate.com/donate/"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&subject=A+Conversation+About+the+Work+Ahead"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F"
+},
+{
+"text": "Next",
+"href": "https://butcherforwyomingsenate.com/why-solving-problems-across-differences-is-a-conservative-value/"
+},
+{
+"text": "Pledge",
+"href": "https://butcherforwyomingsenate.com/my-pledge-to-wyoming/"
+},
+{
+"text": "Previous",
+"href": "https://butcherforwyomingsenate.com/melissa-butcher-announces-run-for-wyoming-senate-district-21/"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&title=A+Conversation+About+the+Work+Ahead"
+},
+{
+"text": "Support",
+"href": "https://butcherforwyomingsenate.com/support-from-across-wyoming/"
+},
+{
+"text": "Telegram",
+"href": "https://t.me/share/url?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&name=A+Conversation+About+the+Work+Ahead&description=Today+I+had+the+chance+to+sit+down+with+Jake+on+the+Cowboy+State+Daily+Morning+Show+for+a+short+conversation+about+this+campaign+and+what+I%E2%80%99m+hearing+across+the+district.It%E2%80%99s+a+quick+listen%2C+but+I+appreciated+the+chance+to+talk+through+a+few+ideas+that+keep+coming+up+as+I+make+my+way+around"
+},
+{
+"text": "Updates",
+"href": "https://butcherforwyomingsenate.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://action.butcherforwyomingsenate.com/volunteer"
+},
+{
+"text": "WATCH THE INTERVIEW",
+"href": "https://www.youtube.com/live/9NVqxI7ovlE?si=wCBJQg7594ZWBx2m"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F"
+},
+{
+"text": "Where I Stand",
+"href": "https://butcherforwyomingsenate.com/where-i-stand/"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F&text=A+Conversation+About+the+Work+Ahead"
+},
+{
+"text": "Xing",
+"href": "https://www.xing.com/social/share/spi?url=https%3A%2F%2Fbutcherforwyomingsenate.com%2Fthe-work-ahead%2F"
+},
+{
+"text": "[image]",
+"href": "https://butcherforwyomingsenate.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61583041353865"
+},
+{
+"text": "mdbutcher",
+"href": "https://butcherforwyomingsenate.com/author/mdbutcher/"
+}
 ]

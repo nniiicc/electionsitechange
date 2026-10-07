@@ -1,16 +1,14 @@
-Sobre Erica
-Erica Mosca (Ella/La), conocida por muchos en la comunidad como “Ms.
+top of page EN ESPAÑOL & SA TAGALOG SA TAGALOG ABOUT ERICA MY WHY BILLS LEGISLATIVE AWARDS & WORK GET INVOLVED DONATE MEDIA & NEWS 2025 COMMUNITY ENDORSEMENTS CONTACT MORE Use tab to navigate through the menu items.
+Sobre Erica Erica Mosca (Ella/La), conocida por muchos en la comunidad como “Ms.
 Mosca”, es orgullosamente una graduada universitaria de primera generación, hija de un inmigrante filipino y defensora de la justicia social.
 Fué parte de la organización sin fines de lucro de acceso a la universidad 10,000 Degrees en la escuela secundaria y sirviendo como maestra de quinto grado en Teach For America, Las Vegas, Mosca experimentó la desigualdad educativa tanto en su vida personal como profesional.
 “Estoy dedicada a empoderar el cambio en la comunidad, para que la comunidad garantice que los estudiantes puedan jugar el juego para cambiar el juego y acabar con la inequidad estructural y el racismo sistémico.
-La oportunidad de obtener una educación universitaria es la base, aunque no un requisito primordial, para que los estudiantes excluidos se conviertan en los líderes diversos de sus propias comunidades”
-En el 2008, Mosca se graduó Summa Cum Laude -con los más altos honores- de la Universidad de Boston y se mudó a Las Vegas para enseñar quinto grado en el este de Las Vegas.
+La oportunidad de obtener una educación universitaria es la base, aunque no un requisito primordial, para que los estudiantes excluidos se conviertan en los líderes diversos de sus propias comunidades” En el 2008, Mosca se graduó Summa Cum Laude -con los más altos honores- de la Universidad de Boston y se mudó a Las Vegas para enseñar quinto grado en el este de Las Vegas.
 Mosca creó la temática de su salón de clase "Leaders in Training" (Líderes en Entrenamiento) para promover la igualdad de oportunidades para los estudiantes de un entorno similar al suyo.
 En el 2012, cuando sus anteriores alumnos de quinto grado comenzaron la escuela secundaria, Mosca inició “Leaders in Training” como una organización oficial sin fines de lucro con sus propios ahorros.
 Hoy, LIT empodera a más de 200 estudiantes anualmente con nivel de aceptación universitaria del 100%, persistencia postsecundaria del 81%, incluidas 20 instituciones en 8 diferentes estados, desde la Universidad de Nueva York (NYU), la Universidad de Michigan hasta la Universidad del Sur de California (USC) y todas nuestras escuelas de Nevada y el 100% de los miembros se comprometen a usar su educación y el éxito para empoderar a su comunidad de origen.
 Algunos de los ex alumnos de quinto grado de Mosca ahora son graduados universitarios de primera generación que trabajan a tiempo completo en organizaciones como PLAN, Teach For America y United Way of Southern Nevada y viven la visión de Mosca de cambios de la comunidad, para la comunidad.
-El presupuesto de LIT en el 2012 fue de menos de $10,000; en la última década, Mosca ha recaudado casi $2 millones para los jóvenes y padres del este de Las Vegas como una mujer BIPOC (personas Negras, Indigenas y de Color) de bajos recursos.
-Mosca sirvió formalmente en el Gabinete de Equidad del Congresista de los EE.
+El presupuesto de LIT en el 2012 fue de menos de $10,000; en la última década, Mosca ha recaudado casi $2 millones para los jóvenes y padres del este de Las Vegas como una mujer BIPOC (personas Negras, Indigenas y de Color) de bajos recursos. ​ Mosca sirvió formalmente en el Gabinete de Equidad del Congresista de los EE.
 UU.
 Steven Horsford, la Autoridad de Escuelas Públicas Autónomas (Charter Schools) del Estado de NV designada por la Junta de Educación del Estado de NV y a soportado las iniciativas nacionales de Cónyuge de la Fuerza Aérea de los EE.
 UU. como cónyuge militar alistado.
@@ -24,17 +22,12 @@ Sin olvidar de dónde viene, Mosca es una ávida fanática de J-Cole, los overol
 Se casó por zoom durante la cuarentena en abril de 2020 con su esposo Nicholas Jared Smith, quien cumple 18 años en la Fuerza Aérea de los Estados Unidos actualmente estacionado en la Base de la Fuerza Aérea Nellis.
 Erica tiene 37 años y sigue siendo propietaria de su casa que queda a 16 casas de la escuela de colocación Teach For America, donde residen su madre y su padre y se encuentran diariamente con estudiantes y familias de LIT.
 Erica y Nick viven juntos con su perro Panda como orgullosos residentes del este de Las Vegas en el vecindario de Winterwood.
-Por qué me postulo como candidata de la Asamblea
-Mi nombre es Erica Mosca (Ella/La) y corrí para representar a nuestra comunidad en el Distrito 14 de la Asamblea de Nevada.
+Por qué me postulo como candidata de la Asamblea Mi nombre es Erica Mosca (Ella/La) y corrí para representar a nuestra comunidad en el Distrito 14 de la Asamblea de Nevada.
 Mientras crecía, mi papá cocinaba pancit antes de salir corriendo por la puerta para trabajar en el turno de noche.
 Con mi mamá saliendo del trabajo al mismo tiempo, nunca cenábamos juntos, pero él se aseguraba de que el arroz estuviera caliente.
-Un hombre que emigró a los Estados Unidos a los 17 años, aprendió inglés en Sesame Street y obtuvo su equivalente a diploma de escuela secundaria (GED), un hombre que trabaja más duro que cualquier otra persona que conozco, no podía pagar para abordar un avión conmigo ni enviarme dinero para ayudarme a mantenerme cuando fuí el primer miembro de nuestra familia en ir a la universidad.
-Me ha enseñado los valores de determinación, empatía y equidad.
-Corri para la Asamblea del Estado de Nevada para garantizar que tengamos a alguien que trabaje incansablemente y con empatía para garantizar que todos los Nevadenses ganen un salario digno, tengan acceso equitativo a la educación y licencia familiar pagada, y trabajará para abordar los problemas de vivienda y problemas climáticos para que nuestro hogar pueda seguir siendo Nevada para las generaciones venideras.
-Gracias a mis padres, me convertí en maestra de quinto grado conduciendo por Sahara y Nellis todos los días para garantizar que las mamás y los papás como los míos pudieran ver sus sueños hechos realidad para sus hijos.
-Y comencé una organización sin fines de lucro hace 10 años para asegurarme de que esos niños/niñas pudieran convertirse en adultos con opciones reales, acceso real y oportunidades reales para un verdadero sueño Americano.
-Estoy lista.
+Un hombre que emigró a los Estados Unidos a los 17 años, aprendió inglés en Sesame Street y obtuvo su equivalente a diploma de escuela secundaria (GED), un hombre que trabaja más duro que cualquier otra persona que conozco, no podía pagar para abordar un avión conmigo ni enviarme dinero para ayudarme a mantenerme cuando fuí el primer miembro de nuestra familia en ir a la universidad. ​Me ha enseñado los valores de determinación, empatía y equidad.
+Corri para la Asamblea del Estado de Nevada para garantizar que tengamos a alguien que trabaje incansablemente y con empatía para garantizar que todos los Nevadenses ganen un salario digno, tengan acceso equitativo a la educación y licencia familiar pagada, y trabajará para abordar los problemas de vivienda y problemas climáticos para que nuestro hogar pueda seguir siendo Nevada para las generaciones venideras. ​Gracias a mis padres, me convertí en maestra de quinto grado conduciendo por Sahara y Nellis todos los días para garantizar que las mamás y los papás como los míos pudieran ver sus sueños hechos realidad para sus hijos.
+Y comencé una organización sin fines de lucro hace 10 años para asegurarme de que esos niños/niñas pudieran convertirse en adultos con opciones reales, acceso real y oportunidades reales para un verdadero sueño Americano. ​​ Estoy lista.
 Estoy lista para representar a mi padre y a todas nuestras familias en la legislatura del estado de Nevada.
-Gracias por votar por mí el pasado noviembre para la Asamblea del Distrito 14.
-Su mujer de la Asamblea,
-Erica Mosca (Ella/La)
+Gracias por votar por mí el pasado noviembre para la Asamblea del Distrito 14. ​ Su mujer de la Asamblea, ​ Erica Mosca (Ella/La) Paid for & Authorized by the Committee to Elect Erica Mosca 2126 Citroen St.
+Las Vegas, NV 89142 702-250-2320 Ericamosca14@gmail.com ABOUT ERICA Bills GET INVOLVED Donate Legislative Awards & Work MEDIA & NEWS CONTACT Community Endorsements bottom of page

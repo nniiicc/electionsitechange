@@ -1,6 +1,4 @@
-Embedded Files
-Family
-Family is important to me.
+Search this site Embedded Files Skip to main content Skip to navigation burkhardtforvt.com Home Contact Background burkhardtforvt.com Home Contact Background More Home Contact Background Background Family Family is important to me.
 I have been married to my wonderful husband, Fritz, for 23 years, and we have two sons, Wells and Freddie.
 Fritz, Wells, and I moved from Evanston, Illinois to South Burlington in 2010 so Fritz could take a job as a finance professor.
 Freddie arrived a few years later.
@@ -8,8 +6,7 @@ After working in finance and consulting for 18 years, I took a break in 2013 to 
 My favorite place to be is on the soccer sidelines watching the boys do what they love to do or on an adventure with my family.
 After she retired from a long career in nursing, and my Illinois-based nieces launched into adulthood, my mother moved from Illinois to Williston to be closer to her younger grandkids.
 She is my frequent (and very enthusiastic!) companion on the soccer and band sidelines.
-Career
-My first job after graduating from college was as a financial analyst in the Healthcare Group at PaineWebber in New York City.
+Career My first job after graduating from college was as a financial analyst in the Healthcare Group at PaineWebber in New York City.
 I spent two and a half years at PaineWebber raising equity and debt capital and assisting with mergers and acquisitions transactions for healthcare services and biotech companies.
 After a couple of years, I moved on to a small private equity firm called Counsel Corporation that invested in healthcare and telecommunications companies.
 I worked for Counsel full-time before and after attending Harvard Business School and part-time while in business school.
@@ -33,8 +30,7 @@ As I began to search for a job in earnest in late 2021, Bridges Fund Management 
 I was delighted to come back to the organization that had helped me choose a new career path twenty years before.
 I spent the next 2.5 years supporting our portfolio companies in the healthcare, fitness, and addiction treatment sectors with financial modeling and strategic analysis and supporting the firm itself through investor relations, compliance, and other operational work.
 As that fund wound down, I decided to return to public service.
-Public Service
-In 2015, I began to attend South Burlington School Board meetings.
+Public Service In 2015, I began to attend South Burlington School Board meetings.
 I was initially drawn by the conversation around master planning and visioning, which was a process that was underway to determine the future facilities needs of our K-12 schools in South Burlington.
 After several meetings in which I asked a lot of data- and finance-related questions, the district's business manager asked if I would join the Citizens' Budget Advisory Group, which acted as a sounding board as the district was developing its budget for the next fiscal year.
 When one of the school board members decided not to run for reelection, I ran for the open seat.
@@ -45,8 +41,7 @@ My seat on the board also provided another lens through which to view issues lik
 I am proud of the work we did as a board to make the district a more inclusive place, to plan for future capacity needs, and to maintain educational and co-curricular opportunities for our students despite the impact of failed budget votes and the pandemic.
 Through my school board service, I learned a lot about budgeting in the public sector, listening to and communicating with the public, negotiations, the sometimes-competing needs of members of our communities, and the impact on local communities of decisions made in Montpelier.
 These are all lessons that I rely upon in my work in the House.
-Early Years
-I was born and raised in rural Central Illinois.
+Early Years I was born and raised in rural Central Illinois.
 My younger brother and I and the other kids in our small town rode the bus eight miles to the next town over to attend school.
 My mother was a nurse, and my father was a mechanic who worked in various factories and workshops over the years.
 In middle school I applied for admission to University Laboratory High School on the campus of the University of Illinois.
@@ -57,6 +52,4 @@ My junior year, our intrepid guidance counselor took a group of us on a college 
 We visited many schools, but I fell in love with Brown University.
 I was lucky to be recruited for the track teams of several schools my senior year, including Brown.
 I graduated from Brown with a bachelor's degree in Russian Language and Literature and Business Economics.
-Page updated
-Google Sites
-Report abuse
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

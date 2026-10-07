@@ -1,8 +1,6 @@
-2024 iVoter Guide Questionnaire
-(from their website) Elections are the front lines of an everyday, year-round, fifty-state battle for the soul of our country. iVoterGuide is fighting the good fight by equipping everyday Americans with the tools they need to vote wisely.
-You can compare my responses with those of my opponents here.
-Right to Life
-1.
+☰ MENU Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party 2024 iVoter Guide Questionnaire (from their website ) Elections are the front lines of an everyday, year-round, fifty-state battle for the soul of our country. iVoterGuide is fighting the good fight by equipping everyday Americans with the tools they need to vote wisely.
+You can compare my responses with those of my opponents here .
+Right to Life 1.
 Under what circumstances should an elective abortion be allowed?
 The fundamental principle of Libertarianism is the right of individuals to make their own choices about their bodies.
 From this perspective, a woman should have the right to decide for herself whether to continue or terminate a pregnancy as it is a matter of personal autonomy and bodily integrity.
@@ -25,11 +23,9 @@ I support 'aid in dying' laws which legalize assisted suicide and euthanasia.
 Agree.
 If an individual wants to end their life or seek assistance in doing so due to suffering or terminal illness, it is seen as their personal choice.
 Just as people have the right to make decisions about their bodies in other contexts, they should have the freedom to make decisions about their own end-of-life care, including the choice to end their life if they are facing unbearable suffering, and the government should not interfere in these deeply personal decisions.
-Economy
-1.
+Economy 1.
 Free enterprise and the right to private property are essential elements of a productive economic system.
-Agree
-2.
+Agree 2.
 What is your position on the minimum wage?
 Wages should be determined by the market, where employers and employees negotiate based on supply and demand.
 Both should be free to set wages without governmental interference and should have the autonomy to negotiate their own terms of employment.
@@ -39,8 +35,7 @@ No.
 Investment decisions should be made based on market principles rather than political or social considerations.
 The primary duty of fund managers should be to maximize returns for beneficiaries, and incorporating ESG factors might conflict with this goal.
 If private investors or fund managers choose to use ESG criteria, they should be free to do so as long as it's a voluntary choice and not enforced by government policy.
-Religious Liberty
-1.
+Religious Liberty 1.
 Under what circumstances can government close churches?
 Government should have no authority to close churches for any reason.
 Freedom of religion is a fundamental right and individuals should be free to practice their religion without government interference including the right to gather in places of worship.
@@ -53,8 +48,7 @@ Everyone should have the freedom to choose for themselves with whom they do busi
 Forcing any entity to provide services that conflict with their personal beliefs infringes on their freedom of association and autonomy.
 They should have the autonomy to operate according to their owners' values and principles, which includes deciding whom to serve and under what conditions.
 If they are unwilling to provide a service, the marketplace provides alternative options without government intervention.
-Healthcare
-1.
+Healthcare 1.
 What most closely matches your view on healthcare?
 A) Healthcare for all should be guaranteed and funded by the government with no private healthcare option (includes "universal healthcare", "Medicare for all", etc.); B) Healthcare insurance funded by the government should be available for all who want it, along with private healthcare options.
 C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.
@@ -67,8 +61,7 @@ However, it should also be realized that not everyone has this ability, so progr
 Under what circumstance (if any) should a government, school, or employer be allowed to require vaccinations?
 Government mandates to require vaccinations infringe upon personal freedom and autonomy.
 Health decisions, including vaccinations, should be made by individuals based on their own circumstances and values rather than being imposed by the government.
-National Security
-1.
+National Security 1.
 The Chinese Communist Party poses serious military, cyber security, intellectual property, and global economic threats to the United States.
 Agree.
 The US should institute non-confrontational measures to secure protections for ourselves and our interests, but should not initiate any actions against any party for any reason except in self-defense.
@@ -76,21 +69,18 @@ The US should institute non-confrontational measures to secure protections for o
 Is the United States' relationship with Israel important, and if so, why?
 The diplomatic relationship between the US and Israel should be maintained, but we should respect Israel's sovereignty and avoid becoming overly involved in its domestic or regional issues.
 While critical of military aid or intervention, I advocate for strong economic ties with Israel and trade relations that are mutually beneficial based on free-market principles rather than on political or military alliances.
-Immigration
-1.
+Immigration 1.
 The US should do more to secure the southern border.
 Disagree.
 Restrictive immigration policies and heavy border controls can infringe on personal liberties and economic opportunities.
 While some form of border security is necessary to protect national sovereignty and prevent illegal activities, the extent of government intervention should be minimal.
 Border security measures should be designed to prevent violations of property rights, such as illegal entry or smuggling, rather than imposing broad restrictions on movement.
 I would argue for a more streamlined, less bureaucratic immigration system that respects individual rights while maintaining necessary security measures.
-Education
-1.
+Education 1.
 The state should fund education by allowing dollars to follow the child through programs which protect parents' freedom to choose their child's school - public, private, or homeschool.
 Strongly disagree.
 Parents should be allowed to choose the education system that they believe is best for their student, but if the parent wishes to avail themselves of options other than public schools, they should be freed from paying school taxes and be able to use that money to fund the alternate education option of their choice.
-Values
-1.
+Values 1.
 Children are the most vulnerable members of society and must be protected from abuse, including gender ideology, grooming, and bodily mutilation.
 Agree.
 Vulnerable individuals, including children, should be safeguarded from physical, emotional, or psychological harm.
@@ -124,8 +114,7 @@ I believe in the importance of strong family relationships, and that we should h
 I place a high value on personal responsibility and self-reliance, including being financially prudent, caring for myself and my family, and contributing to the welfare of my community.
 And even though I believe these ideas, I do not believe that everyone MUST follow my beliefs.
 As long as they are not harming someone else through force or threat of force, everyone has, and should always have, the ability to determine their own beliefs and values, and respect that others may not hold the same beliefs or values.
-Elections and Voting
-1.
+Elections and Voting 1.
 People should be able to vote without photo identification.
 Disagree.
 I advocate for a balance that ensures both accessibility and security without imposing excessive bureaucratic hurdles.
@@ -140,8 +129,7 @@ This rule essentially turns Texas into just another "fly over" state.
 The rule itself only benefits one group, and that's the reason I want to eliminate it: because I believe that ALL of Texas's voters deserve a voice in who they want to be the President of our great nation.
 It's the difference between a bull and a steer.
 Only two states are bulls - Maine and Nebraska - because they still have their giant brass ones to play the electoral game by its original rules and distribute their votes using "the Congressional District Method." The other 48 states are just steers, unable to do anything except throw their castrated weight around as if they have something to prove.
-Equality
-1.
+Equality 1.
 Is racism a threat to domestic security in the United States?
 Why or why not?
 No.
@@ -161,8 +149,7 @@ Neutral.
 Sports organizations should be free to set their own rules and policies regarding participation as long as they respect individual rights and freedoms.
 They should determine eligibility criteria based on their own standards and should be free to establish their own rules ensuring fair competition.
 Property owners should have the discretion to decide how their facilities are used and by whom as long as they are transparent about their policies and respect the rights of all individuals involved.
-Energy & Environment
-1.
+Energy & Environment 1.
 Which comes closest to your view?
 (Select all that apply) A) Stricter environmental laws and regulations cost too many jobs and hurt the economy.
 B) Stricter environmental laws and regulations are worth the cost.
@@ -176,8 +163,7 @@ Research and development in clean energy technologies can be more effective than
 2.
 What do you believe is the most reliable energy source that will supply the growing demand for electricity?
 Until nuclear fusion technology matures, our best option is to continue to rely on fossil fuels, particularly natural gas with its lower carbon emissions compared to coal and its flexibility in balancing intermittent renewable sources.
-About You
-1.
+About You 1.
 Have you ever been penalized for sexual misconduct in either civil or criminal court?
 If so, please explain.
 No.
@@ -198,15 +184,13 @@ The Libertarian political stance is distinct from traditional political position
 Socially, we value individual freedom and personal choice, supporting policies such as drug legalization, same-sex marriage, and free speech.
 Valuing individual autonomy and privacy, we oppose government intervention in personal lives or social behavior.
 Our conservative approach to economic policy is demonstrated in our support of free markets, private property, individual entrepreneurship, and minimal taxation.
-Criminal Justice & Public Safety
-1.
+Criminal Justice & Public Safety 1.
 I support redirecting funds from police departments to community programs.
 Disagree.
 Redirecting funds within government programs does not lead to better outcomes.
 Improving community safety and well-being should involve private efforts and voluntary initiatives rather than government funding and intervention.
 I favor a more limited role for police in daily life, and reforms focusing on reducing the scope of police work, such as decriminalizing certain offenses or limiting police involvement in non-criminal matters, while encouraging alternative approaches to community support.
-2nd Amendment
-1.
+2nd Amendment 1.
 What restrictions on gun ownership are needed to protect public safety?
 Access to firearms is crucial to self-defense and personal security, so excessive regulations infringe upon individual rights and may not address issues of public safety.
 Enforcing laws related to violent crime and addressing societal issues that contribute to crime can be more effective than imposing restrictions on gun ownership.
@@ -215,3 +199,4 @@ Overly restrictive gun laws reduce the ability of law-abiding citizens to defend
 Should teachers be allowed to carry guns at school?
 Teachers, if properly trained and willing, should have the option to carry firearms as part of their responsibility to protect themselves and their students.
 Local communities and school boards are better equipped to address their own security needs, but a balanced approach needs to be emphasized to ensure that such policies are implemented effectively and responsibly.
+Voter Information Endorsements Events Contact Privacy Policy Committee to Elect Darren Hamilton Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Close Menu

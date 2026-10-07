@@ -1,5 +1,6 @@
-Let's get serious
-| | Iowa has been under attack by billionaires and mega-corporations for the last 20 years.
+BRUENING FOR IOWA Home Blog Brian Bruening ​​for Iowa House DONATE TODAY!
+Contact me!
+Let's get serious Iowa has been under attack by billionaires and mega-corporations for the last 20 years.
 This has left Iowa in shambles.
 We have the worst state economy in the USA, the dirtiest surface water, the highest cancer rates, dismal access to health care, plus unaffordable groceries and utilities.
 Instead of fighting for us, the current Legislature has focused on taking away local government control in funding, education, libraries, and more; have worked to shield mega-corporations from liability for making us sicker and everything more expensive.
@@ -14,11 +15,11 @@ Tired of corporate tax breaks that starve government services in order for inves
 Tired of Iowa being a laboratory for the most restrictive personal laws but allowing Big Ag and corporations to do whatever they want?
 Tired of higher and higher utility bills going to corporate profits?
 Just tired of a government that always seems to have money for tax cuts for the wealthy but benefit cuts for the rest of us?
-ME TOO! |
-| | What Matters Natural beauty lies at the heart of the quality of life in our area, and as such we must do everything we can to protect our natural resources.
+ME TOO!
+What Matters Natural beauty lies at the heart of the quality of life in our area, and as such we must do everything we can to protect our natural resources.
 Clean water and air is our right as humans.
 Public schools are the backbone of rural communities and must be adequately funded.
 I will fight to make health care more affordable and accessible for all.
 I support Iowans’ freedom to access the health care they need to control their bodies and futures, including abortion, birth control, and in vitro fertilization (IVF).
 We need to establish consistent, dependable funding for childcare, housing and food security so that towns large and small can make the necessary changes to maintain and grow their communities.
-We must take steps to make sure people have food to eat, a place to live, and access to education and safety. | |
+We must take steps to make sure people have food to eat, a place to live, and access to education and safety. ​ Paid for by Bruening for iowa ​ ©2 022-2026 Bruening for iowa Home Blog

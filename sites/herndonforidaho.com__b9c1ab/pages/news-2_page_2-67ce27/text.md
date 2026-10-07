@@ -1,19 +1,7 @@
-Scott Herndon News and Updates
-2023 Legislative Session MVP
-Brian Almon, a keen observer of the Idaho legislature has named Senator Scott Herndon as the MVP of Idaho’s 2023 Legislative session.
-Here’s Brian’s take.
-Bills target dam and Voter ID
-Senator Scott Herndon is the sponsor of legislation to protect the Priest Lake Outlet Dam and to improve election integrity by improving the quality of voter ID.
-Education Investment A Focus This Session
-Senator Scott Herndon backs school choice this legislative session, which includes more competition in public education.
-One example is the Education Savings Account, and another is open enrollment in which any student can attend any school in Idaho.
-Bill Aims to Enhance Stand Your Ground Law
-Senator Scott Herndon has introduced SB1004 to enhance Idaho’s stand your ground law, further protecting Idaho’s law abiding gun owners in their own self-defense.
-Scott Herndon stands up for the 2nd Amendment
-Scott Herndon has stood up for the right to carry firearms in Sandpoint, when the city tried to ban firearm carry on public property.
-Scott Herndon Safeguards Our Constitutional Rights.
-Scott Herndon’s first involvement in law and politics was accidental when he was a Bonner County jail chaplain and it became necessary to stand up for the rights of free speech.
-Property Taxes, Gas Taxes, Income Taxes
-I am often asked about tax relief, but to really be successful tax relief will have to include spending relief.
-Is Idaho Planning to Steal Your Water?
-Water adjudication has started in North Idaho, and NO, it is not a state power or land grab.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Scott Herndon News and Updates 2023 Legislative Session MVP Apr 1, 2023 Brian Almon, a keen observer of the Idaho legislature has named Senator Scott Herndon as the MVP of Idaho’s 2023 Legislative session.
+Here’s Brian’s take. read more Bills target dam and Voter ID Mar 12, 2023 Senator Scott Herndon is the sponsor of legislation to protect the Priest Lake Outlet Dam and to improve election integrity by improving the quality of voter ID. read more Education Investment A Focus This Session Feb 19, 2023 Senator Scott Herndon backs school choice this legislative session, which includes more competition in public education.
+One example is the Education Savings Account, and another is open enrollment in which any student can attend any school in Idaho. read more Bill Aims to Enhance Stand Your Ground Law Jan 29, 2023 Senator Scott Herndon has introduced SB1004 to enhance Idaho’s stand your ground law, further protecting Idaho’s law abiding gun owners in their own self-defense. read more Scott Herndon stands up for the 2nd Amendment Nov 1, 2022 Scott Herndon has stood up for the right to carry firearms in Sandpoint, when the city tried to ban firearm carry on public property. read more Scott Herndon Safeguards Our Constitutional Rights.
+Oct 20, 2022 Scott Herndon’s first involvement in law and politics was accidental when he was a Bonner County jail chaplain and it became necessary to stand up for the rights of free speech. read more Property Taxes, Gas Taxes, Income Taxes Sep 21, 2022 I am often asked about tax relief, but to really be successful tax relief will have to include spending relief. read more Is Idaho Planning to Steal Your Water?
+Nov 25, 2021 Water adjudication has started in North Idaho, and NO, it is not a state power or land grab. read more Next Entries » Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

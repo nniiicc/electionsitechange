@@ -1,8 +1,26 @@
 [
-"https://horner4change.com/",
-"https://horner4change.com/about",
-"https://horner4change.com/cart",
-"https://horner4change.com/contact",
-"https://secure.actblue.com/donate/horner4change",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.horner4change.com/cart"
+},
+{
+"text": "Act Blue",
+"href": "https://secure.actblue.com/donate/horner4change"
+},
+{
+"text": "Contact",
+"href": "https://www.horner4change.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.horner4change.com/about"
+},
+{
+"text": "Horner4change",
+"href": "https://www.horner4change.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+}
 ]

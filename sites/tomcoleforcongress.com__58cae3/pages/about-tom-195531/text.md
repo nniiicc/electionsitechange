@@ -1,6 +1,5 @@
-Cole is an advocate for a strong national defense, a tireless advocate for taxpayers and small businesses, and a leader on issues dealing with Native Americans and tribal governments.
-Meet Tom
-Tom Cole has spent his career in service to Oklahoma.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans About Tom Donate Cole is an advocate for a strong national defense, a tireless advocate for taxpayers and small businesses, and a leader on issues dealing with Native Americans and tribal governments.
+Meet Tom Tom Cole has spent his career in service to Oklahoma.
 In Congress, Tom is a leading advocate for a strong national defense and protecting taxpayers and promoting small businesses.
 And, notably, Tom is a bold leader on issues dealing with Native Americans and tribal governments.
 Identified by Time Magazine as “one of the sharpest minds in the House”, Cole was named as one of “Five Freshmen to Watch” by Roll Call at the outset of his congressional career.
@@ -23,3 +22,8 @@ He was awarded the Congressional Leadership award by the National Congress of Am
 Cole’s late mother, Helen, is also a member of the Chickasaw Hall of Fame and served as a state representative, state senator and Mayor of Moore in her native state of Oklahoma.
 Cole’s late father, John, served twenty years in the United States Air Force and worked an additional two decades as a civilian federal employee at Tinker Air Force Base.
 Tom and his wife, Ellen, have one son, Mason, and reside in Moore, Oklahoma.
+Follow Us Congressman Tom Cole Trusted Leadership for Oklahoma's 4th Congressional District " * " indicates required fields Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

@@ -1,5 +1,5 @@
-About Tom
-Tom Hendrickson is a 27-year-old lifelong Agawam resident.
+top of page Home About Tom Priorities Endorsements News Get Involved Donate More Use tab to navigate through the menu items.
+About Tom Tom Hendrickson is a 27-year-old lifelong Agawam resident.
 As the son of two Southwick-Tolland-Granville Regional School District teachers and the grandson of a Teamster's Union delivery truck driver, he comes from a working class family.
 After graduating from Agawam High School in 2017, he went on to earn a bachelor's degree in political science from Providence College in 2021 and a master's degree in public policy from the UMass Amherst School of Public Policy in 2022.
 Tom has always believed strongly in justice and democracy, and has worked tirelessly to embed these values into our government, our economy, and society as a whole.
@@ -9,6 +9,8 @@ Tom first ran for Agawam City Council in 2021, and has made a significant impact
 He was the lead sponsor of a resolution to initiate Community Energy Aggregation, which will reduce energy prices for Agawam residents.
 He supported several parks & recreation projects, including the Still Brook Park project, the Agawam Town Skate Park renovation, and the pickleball court expansion at Borgatti Park.
 He was one of the most vocal supporters of the new Agawam High School project.
-And he passed a resolution implementing transparency reforms to make the City Council more accessible and accountable to the public.
-Tom has been a relentless advocate for the working families of Agawam by passing important legislation and providing responsive constituent services.
+And he passed a resolution implementing transparency reforms to make the City Council more accessible and accountable to the public. ​ Tom has been a relentless advocate for the working families of Agawam by passing important legislation and providing responsive constituent services.
 Now, he's running for state representative in the 3rd Hampden District to fight for our community in the state legislature.
+Subscribe Form Submit Thanks for submitting!
+THendrickson1313@gmail.com 413-654-6958 223 Clover Hill Drive Feeding Hills, MA 01030 ©# by Committee to Elect Tom Hendrickson.
+Proudly created with Wix.com bottom of page

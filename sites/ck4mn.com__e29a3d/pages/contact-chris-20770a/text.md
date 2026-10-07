@@ -1,3 +1,4 @@
-Working Together
-Whether you have a question, concern, an idea, or want to lend your hand to the mission, Chris wants to hear from you and encourages you to reach out.
-Use the form below to drop us a message, and Chris or a member of his team will get back to you as soon as possible
+0 Skip to Content Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Working Together Whether you have a question, concern, an idea, or want to lend your hand to the mission, Chris wants to hear from you and encourages you to reach out.
+Use the form below to drop us a message, and Chris or a member of his team will get back to you as soon as possible for MN House Representative - District 54B Christopher Kartschoke Serving People and Communities for Shakopee, Prior Lake, and Jordan Additional Resources Articles and PR Find Chris on Facebook Follow Chris on Instagram Listen to Chris on YouTube Minnesota Voting Information MN District 54B Poll Finder (PDF) Key Links Our Vision Donate Now Contact Chris﻿ Upcoming Events Discovering District 54B Prepared and paid for by CK4MN at P.O.
+Box 152 Prior Lake, MN 55372 #© All Rights Reserved.
+CK4MN, Christopher Kartschoke Proudly Designed and Cared for by Back2Basics, LLC

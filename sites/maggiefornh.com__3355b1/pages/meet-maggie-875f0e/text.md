@@ -1,5 +1,4 @@
-About Maggie
-Maggie Goodlander was born and raised in Nashua – the city that her family has called home for more than 100 years.
+About Maggie Priorities Volunteer Yard Signs Donate About Maggie Priorities Volunteer Yard Signs Donate About Maggie Maggie Goodlander was born and raised in Nashua – the city that her family has called home for more than 100 years.
 Growing up in New Hampshire instilled in Maggie the values of community, citizenship, service, and that our democracy isn’t something you watch happen from the sidelines – it’s something you participate in.
 Maggie has dedicated her life to public service.
 She began her career working as a foreign policy advisor in the United States Senate where she helped write landmark sanctions legislation and strengthen democracy around the world.
@@ -13,5 +12,7 @@ She stood up to real estate companies colluding on rent price and big healthcare
 Most recently, Maggie served as a senior advisor at the White House where she led President Biden’s Unity Agenda for the Nation, dedicated to solving five big challenges: beating the opioid epidemic, tackling the mental health crisis, holding Big Tech accountable, meeting our sacred obligation to veterans, and ending cancer as we know it.
 Maggie knows how to get things done and will deliver for New Hampshire in Congress.
 She will be a workhorse for the people of the Second District and will never stop fighting for a freer and more just Granite State.
-Support Maggie
-If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Support Maggie $#.# $# $# $# Donate If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+About Maggie Priorities Media Volunteer Yard Signs Donate Paid for by Maggie for Congress.
+Privacy Policy You may also donate via check, payable to " Maggie for Congress ", mailing address: Maggie for Congress 600 Pennsylvania Ave SE #15180 Washington, DC 20003-7508 Copyright © # Use of any military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

@@ -1,6 +1,16 @@
-Jessica Forsythe Bio
-Jessica Forsythe is a Redmond City Councilmember, small business owner, former non-profit Executive Director, and proud SEIU member running for Washington State House of Representative in the 48th Legislative District.
+Meet Jessica Issues Successes!
+Volunteer Endorsements Media Campaign Swag Contribute Media Jessica Forsythe Bio Jessica Forsythe is a Redmond City Councilmember, small business owner, former non-profit Executive Director, and proud SEIU member running for Washington State House of Representative in the 48th Legislative District.
 Elected to Council in 2019 and chosen as Council President in her first term, she brings experience from the public, private, and non-profit sectors, has passed billion-dollar budgets, championed legislation that became state law (SB 5452 and SB 6002), expanded tenant protections, co-authored Redmond's Climate Emergency Declaration, and added three Mental Health Professional positions to the city's crisis response team.
 A former award-winning creative director, she brings a design-thinking framework to governance–centering the voices most often excluded from decision-making.
 Through her non-profit leadership expereince, she worked every day to uplift women and non-binary leaders in Washington.
-In Olympia, she will fight for the 2SLGBTQIA+ community, immigrant rights, reproductive freedom, housing affordability, fully-funded education, and a clean energy transition built with strong labor standards.
+In Olympia, she will fight for the 2SLGBTQIA+ community, immigrant rights, reproductive freedom, housing affordability, fully-funded education, and a clean energy transition built with strong labor standards. ﻿ Download High Quality Images IN THE NEWS Northwest Progressive Institute Redmond City Councilmember Jessica Forsythe is challenging State Representative Amy Walen for House in Washington’s 48th READ MORE...
+The Burner Taxing The Rich Is More Popular Than Any Of The Democrats Who Opposed WA Millionaires Tax READ MORE ...
+KING5 REDMOND, Wash. — A crosswalk in Redmond that features a mural supporting LGBTQ+ Pride was vandalized overnight Monday.
+READ MORE...
+Redmond News Flash REDMOND, WA – At last night’s City Council meeting, the Redmond City Council adopted an updated Welcoming Resolution, reaffirming the City’s commitment to protecting and preserving the constitutional rights of its community...
+READ MORE...
+425 Busine ﻿ ss The City of Redmond is offering a pair of grant opportunities for nonprofits and small businesses affected by the COVID-19 pandemic.
+(Grant process written by Jessica Forsythe and implemented by OneRemdond) READ MORE...
+DOWNLOADABLE PRESS RELEASES Fmr Gov Inslee Endorses Jessica Forsythe Button Copyright © All Rights Reserved.
+Paid for by Friends of Forsythe P.O.
+Box 853, Redmond, WA 98073 Terms of Service and Privacy Policy Share by:

@@ -1,8 +1,42 @@
 [
-"https://facebook.com/votemikelay",
-"https://secure.anedot.com/friends-of-mike-lay-2026/laydonate",
-"https://votemikelay.com/",
-"https://votemikelay.com/contact",
-"https://votemikelay.com/privacy-policy",
-"https://votemikelay.com/terms-and-conditions"
+{
+"text": "CONTACT",
+"href": "https://votemikelay.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-mike-lay-2026/laydonate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemikelay/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votemikelay.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://votemikelay.com/"
+},
+{
+"text": "MEET MIKE",
+"href": "https://votemikelay.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votemikelay.com/privacy-policy/"
+},
+{
+"text": "RESULTS",
+"href": "https://votemikelay.com/#results"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votemikelay.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://votemikelay.com"
+}
 ]

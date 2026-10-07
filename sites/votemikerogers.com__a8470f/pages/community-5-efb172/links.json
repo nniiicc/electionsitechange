@@ -1,14 +1,54 @@
 [
-"https://facebook.com/VoteMikeRogers",
-"https://instagram.com/votemikerogers",
-"https://twitter.com/MikeJRogers4",
-"https://votemikerogers.com/",
-"https://votemikerogers.com/community-5",
-"https://votemikerogers.com/contact-me",
-"https://votemikerogers.com/country-1",
-"https://votemikerogers.com/current-situation",
-"https://votemikerogers.com/economics",
-"https://votemikerogers.com/economics-1",
-"https://votemikerogers.com/philosophy",
-"https://votemikerogers.com/search"
+{
+"text": "Community",
+"href": "https://www.votemikerogers.com/community-5"
+},
+{
+"text": "Contact",
+"href": "https://www.votemikerogers.com/contact-me"
+},
+{
+"text": "Country",
+"href": "https://www.votemikerogers.com/country-1"
+},
+{
+"text": "Current Situation",
+"href": "https://www.votemikerogers.com/current-situation"
+},
+{
+"text": "Economics",
+"href": "https://www.votemikerogers.com/economics"
+},
+{
+"text": "Education",
+"href": "https://www.votemikerogers.com/economics-1"
+},
+{
+"text": "Home",
+"href": "https://www.votemikerogers.com/"
+},
+{
+"text": "My Philosophy",
+"href": "https://www.votemikerogers.com/philosophy"
+},
+{
+"text": "[image: Delegate Mike Rogers]",
+"href": "https://www.votemikerogers.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MikeJRogers4"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMikeRogers/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemikerogers/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votemikerogers.com/search"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Explore Nevada political issues including gun violence prevention, healthcare affordability, housing affordability, and job creation.",
  "final_url": "https://sandrafornevada.com/issues",
- "paid_for_by": null,
+ "fingerprint": "118758c096eca3b5aabc583496ef48b71716ecee",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": [
   "2025"

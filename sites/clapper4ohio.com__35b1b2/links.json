@@ -1,8 +1,26 @@
 [
-"https://clapper4ohio.com/",
-"https://clapper4ohio.com/blank",
-"https://clapper4ohio.com/blank-1",
-"https://facebook.com/people/Jeff-Clapper-for-Ohio/61561901685586",
-"https://instagram.com/jeffclapper4ohio?igsh=ejNkNGFxeDEzNHRt",
-"https://secure.actblue.com/donate/jeff-clapper-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jeff-clapper-1"
+},
+{
+"text": "District 72",
+"href": "https://www.clapper4ohio.com/blank"
+},
+{
+"text": "Get Involved",
+"href": "https://www.clapper4ohio.com/blank-1"
+},
+{
+"text": "Home",
+"href": "https://www.clapper4ohio.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Jeff-Clapper-for-Ohio/61561901685586/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffclapper4ohio?igsh=ejNkNGFxeDEzNHRt"
+}
 ]

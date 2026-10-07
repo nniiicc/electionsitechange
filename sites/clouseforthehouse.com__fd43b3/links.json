@@ -1,6 +1,30 @@
 [
-"https://clouseforthehouse.com/",
-"https://clouseforthehouse.com/about-clouse",
-"https://clouseforthehouse.com/contact-clouse",
-"https://clouseforthehouse.com/gallery-clouse"
+{
+"text": "ABOUT",
+"href": "https://clouseforthehouse.com/about-clouse/"
+},
+{
+"text": "CONTACT",
+"href": "https://clouseforthehouse.com/contact-clouse/"
+},
+{
+"text": "CONTACT US",
+"href": "https://clouseforthehouse.com/contact-clouse/"
+},
+{
+"text": "GALLERY",
+"href": "https://clouseforthehouse.com/gallery-clouse/"
+},
+{
+"text": "HOME",
+"href": "https://clouseforthehouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://clouseforthehouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://clouseforthehouse.com/"
+}
 ]

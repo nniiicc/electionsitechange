@@ -1,16 +1,58 @@
 [
-"https://bsky.app/profile/did:plc:xofzr2dbp3fxqywterul6vhs",
-"https://facebook.com/electmitchelljacob",
-"https://instagram.com/electmitchelljacob",
-"https://linktr.ee/mitchelljacob",
-"https://mitchelljacob.com/",
-"https://mitchelljacob.com/blog",
-"https://mitchelljacob.com/cart",
-"https://mitchelljacob.com/media",
-"https://mitchelljacob.com/privacy",
-"https://mitchelljacob.us18.list-manage.com/unsubscribe?u=d42c79f51207706cb87a22bc2&id=62e28e01cd&t=1",
-"https://secure.actblue.com/donate/mj4c-home",
-"https://secure.actblue.com/donate/mj4c-swag",
-"https://threads.com/@electmitchelljacob?hl=en",
-"https://youtube.com/@ElectMitchellJacob"
+{
+"text": "0",
+"href": "https://www.mitchelljacob.com/cart"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/mj4c-home"
+},
+{
+"text": "Linktr.ee",
+"href": "https://linktr.ee/mitchelljacob"
+},
+{
+"text": "Media",
+"href": "https://www.mitchelljacob.com/media"
+},
+{
+"text": "Order Merchandise",
+"href": "https://secure.actblue.com/donate/mj4c-swag"
+},
+{
+"text": "Straight from Mitch",
+"href": "https://www.mitchelljacob.com/blog"
+},
+{
+"text": "Terms and Conditions & Privacy Policy",
+"href": "https://www.mitchelljacob.com/privacy"
+},
+{
+"text": "Unsubscribe",
+"href": "https://mitchelljacob.us18.list-manage.com/unsubscribe?u=d42c79f51207706cb87a22bc2&id=62e28e01cd&t=1"
+},
+{
+"text": "[image: Jacob for Congress]",
+"href": "https://www.mitchelljacob.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/did:plc:xofzr2dbp3fxqywterul6vhs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electmitchelljacob"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electmitchelljacob/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@electmitchelljacob?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectMitchellJacob"
+}
 ]

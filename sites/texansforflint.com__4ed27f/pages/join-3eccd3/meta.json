@@ -1,7 +1,12 @@
 {
  "description": "Join Texans for Flint. Get campaign updates and stand with George Flint for House District 70.",
  "final_url": "https://www.texansforflint.com/join/",
+ "fingerprint": "2e49ac67b322aca1e1a23cc909b872010339f4c4",
+ "format": 3,
  "paid_for_by": "paid for by George Flint Campaign for HD 70",
  "title": "Get Campaign Updates | George Flint HD 70",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

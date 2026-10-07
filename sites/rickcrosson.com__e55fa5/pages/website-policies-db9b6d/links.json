@@ -1,19 +1,90 @@
 [
-"https://bsky.app/profile/rickcrosson.bsky.social",
-"https://facebook.com/crossonforcongress",
-"https://google.com/maps/search?api=1&query=P.O.+Box+11321%2C+Green+Bay%2C+WI+54307",
-"https://instagram.com/rickcrossonforcongress",
-"https://rickcrosson.com/",
-"https://rickcrosson.com/contact",
-"https://rickcrosson.com/endorsements",
-"https://rickcrosson.com/events",
-"https://rickcrosson.com/get-involved",
-"https://rickcrosson.com/meet-rick",
-"https://rickcrosson.com/news-and-media",
-"https://rickcrosson.com/priorities",
-"https://rickcrosson.com/website-policies",
-"https://secure.actblue.com/donate/crosson-primary",
-"https://threads.com/@rickcrossonforcongress",
-"https://tiktok.com/@rickcrossonforcongress",
-"https://youtube.com/@RickCrossonForCongress"
+{
+"text": "Accessibility",
+"href": "https://rickcrosson.com/website-policies/#accessibility"
+},
+{
+"text": "Contact",
+"href": "https://rickcrosson.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/crosson-primary"
+},
+{
+"text": "Endorsements",
+"href": "https://rickcrosson.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://rickcrosson.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://rickcrosson.com/get-involved/"
+},
+{
+"text": "Get Involved▼",
+"href": "https://rickcrosson.com/get-involved/"
+},
+{
+"text": "Meet Rick",
+"href": "https://rickcrosson.com/meet-rick/"
+},
+{
+"text": "News & Media",
+"href": "https://rickcrosson.com/news-and-media/"
+},
+{
+"text": "P.O. Box 11321, Green Bay, WI 54307",
+"href": "https://www.google.com/maps/search/?api=1&query=P.O.+Box+11321%2C+Green+Bay%2C+WI+54307"
+},
+{
+"text": "Priorities",
+"href": "https://rickcrosson.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickcrosson.com/website-policies/#privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://rickcrosson.com/website-policies/#terms"
+},
+{
+"text": "Website Policies",
+"href": "https://rickcrosson.com/website-policies/"
+},
+{
+"text": "[image: Rick Crosson for Congress]",
+"href": "https://rickcrosson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rickcrosson.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/crossonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rickcrossonforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@rickcrossonforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rickcrossonforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RickCrossonForCongress"
+},
+{
+"text": "info@rickcrosson.com",
+"href": "mailto:info@rickcrosson.com"
+}
 ]

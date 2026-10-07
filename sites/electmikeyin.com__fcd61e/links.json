@@ -1,23 +1,90 @@
 [
-"http://fffwy.org/index.cfm",
-"http://wyoea.org/wea-pace",
-"https://314action.org/",
-"https://314action.org/endorsed-candidates/state-legislative-municipal",
-"https://agcwyo.org/",
-"https://electmikeyin.com/contact.html",
-"https://electmikeyin.com/index.html",
-"https://electmikeyin.com/issues.html",
-"https://electmikeyin.com/voter-info.html",
-"https://facebook.com/Mike4Wyolegislature/posts/1168884959920052",
-"https://facebook.com/andy.schwartz.39/posts/1826800870702376",
-"https://facebook.com/mikeyinhd16",
-"https://instagram.com/mikeyinforwy",
-"https://secure.actblue.com/donate/mikeyin",
-"https://shelterjh.org/",
-"https://twitter.com/itsmikeyin",
-"https://wchr307.org/",
-"https://wyoea.org/advocating-change/new-from-wea/wea-pace-announces-endorsements-2026-primary-election",
-"https://wyomed.org/advocacy/wyopac",
-"https://wyomingaflcio.org/",
-"https://wyomingpublicemployees.com/political-action"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mikeyin"
+},
+{
+"text": "Mike Yin for HD-16",
+"href": "https://electmikeyin.com/index.html"
+},
+{
+"text": "[image: 3.14 Action]",
+"href": "https://314action.org/"
+},
+{
+"text": "[image: 3.14 Action]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: AGC of Wyoming]",
+"href": "https://www.agcwyo.org/"
+},
+{
+"text": "[image: FFF WY Fire PAC]",
+"href": "http://www.fffwy.org/index.cfm"
+},
+{
+"text": "[image: ShelterJH]",
+"href": "https://shelterjh.org/"
+},
+{
+"text": "[image: WEA-PACE]",
+"href": "http://wyoea.org/wea-pace/"
+},
+{
+"text": "[image: WEA-PACE]",
+"href": "https://wyoea.org/advocating-change/new-from-wea/wea-pace-announces-endorsements-2026-primary-election"
+},
+{
+"text": "[image: WPEA PAC]",
+"href": "https://www.wyomingpublicemployees.com/political-action"
+},
+{
+"text": "[image: WY HD-23 Representative Andy Schwartz]",
+"href": "https://www.facebook.com/andy.schwartz.39/posts/1826800870702376"
+},
+{
+"text": "[image: WY State Senator Mike Gierau]",
+"href": "https://www.facebook.com/Mike4Wyolegislature/posts/1168884959920052"
+},
+{
+"text": "[image: WYOPAC]",
+"href": "https://www.wyomed.org/advocacy/wyopac/"
+},
+{
+"text": "[image: Wyoming Coalition for a Healthy Retirement]",
+"href": "https://www.wchr307.org/"
+},
+{
+"text": "[image: Wyoming State AFL-CIO]",
+"href": "https://wyomingaflcio.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/itsmikeyin"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikeyinhd16"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikeyinforwy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/itsmikeyin"
+},
+{
+"text": " Contact",
+"href": "https://electmikeyin.com/contact.html"
+},
+{
+"text": " Voter Info",
+"href": "https://electmikeyin.com/voter-info.html"
+},
+{
+"text": " Issues",
+"href": "https://electmikeyin.com/issues.html"
+}
 ]

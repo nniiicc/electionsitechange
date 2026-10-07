@@ -1,9 +1,12 @@
 {
  "description": "Noel Frame in the News",
  "final_url": "https://www.noelframe.com/news",
- "paid_for_by": "Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms &amp; Conditions",
- "title": "News \u2014 Noel Frame: Democrat for State Senate - 36th LD",
+ "fingerprint": "1e772a83d785ec407ad2d7e32eab23058ec66233",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Noel Frame (D)",
+ "title": "News — Noel Frame: Democrat for State Senate - 36th LD",
  "years_mentioned": [
+  "2016",
   "2026"
  ]
 }

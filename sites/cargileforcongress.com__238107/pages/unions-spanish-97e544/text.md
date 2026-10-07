@@ -1,5 +1,4 @@
-Sindicatos
-Los sindicatos son, por naturaleza, organizaciones republicanas.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Sindicatos Los sindicatos son, por naturaleza, organizaciones republicanas.
 No son democracias con un voto mayoritario similar a la turba.
 En cambio, eligen representantes, que a su vez los representan en la negociación colectiva.
 Este es un sistema republicano de libros de texto que refleja nuestra propia forma de gobierno.
@@ -30,3 +29,6 @@ Por lo tanto, al final del día, las únicas personas sentadas en la mesa de neg
 Entonces, mientras que usted puede tener una buena pensión y beneficios, ¿a qué costo viene?
 Nuestro país está siendo invadido, nuestro costo de vida se ha disparado, nuestras familias y niños están siendo destruidos y nuestras calles están llenas de crimen.
 Podemos hacerlo mejor.
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

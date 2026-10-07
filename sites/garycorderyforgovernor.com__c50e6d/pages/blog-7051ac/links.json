@@ -1,40 +1,166 @@
 [
-"https://facebook.com/garycorderyforgovernor",
-"https://garycorderyforgovernor.com/",
-"https://garycorderyforgovernor.com/about-gary",
-"https://garycorderyforgovernor.com/accessibility",
-"https://garycorderyforgovernor.com/blog",
-"https://garycorderyforgovernor.com/blog/categories/affordable-housing",
-"https://garycorderyforgovernor.com/blog/categories/community",
-"https://garycorderyforgovernor.com/blog/categories/cost-of-living",
-"https://garycorderyforgovernor.com/blog/categories/education",
-"https://garycorderyforgovernor.com/blog/categories/government-transparency",
-"https://garycorderyforgovernor.com/blog/categories/honoring-native-hawaiian",
-"https://garycorderyforgovernor.com/blog/categories/plan-for-transparency",
-"https://garycorderyforgovernor.com/business-vision",
-"https://garycorderyforgovernor.com/contact-us",
-"https://garycorderyforgovernor.com/donate",
-"https://garycorderyforgovernor.com/event-list",
-"https://garycorderyforgovernor.com/event-signin",
-"https://garycorderyforgovernor.com/key-issues-priorities",
-"https://garycorderyforgovernor.com/linktree",
-"https://garycorderyforgovernor.com/listen-to-gary",
-"https://garycorderyforgovernor.com/photo-consent",
-"https://garycorderyforgovernor.com/post/ending-corruption-hawaii-shared-aloha",
-"https://garycorderyforgovernor.com/post/hawaii-education-reform-keiki-culture-skills",
-"https://garycorderyforgovernor.com/post/hawaii-housing-plan-15000-homes",
-"https://garycorderyforgovernor.com/post/honoring-native-hawaiian-voices",
-"https://garycorderyforgovernor.com/post/native-hawaiian-rights-justice-aloha",
-"https://garycorderyforgovernor.com/post/tax-relief-hawaii-cost-of-living",
-"https://garycorderyforgovernor.com/privacy-policy",
-"https://garycorderyforgovernor.com/sms-terms",
-"https://garycorderyforgovernor.com/subscribe",
-"https://garycorderyforgovernor.com/terms-and-conditions",
-"https://garycorderyforgovernor.com/vision",
-"https://garycorderyforgovernor.com/volunteer",
-"https://garycorderyforgovernor.com/vote-resources",
-"https://instagram.com/garycorderyforgovernor",
-"https://tiktok.com/@garycordery4governor",
-"https://x.com/GCForGov",
-"https://youtube.com/@Garycorderyforgovernor2026"
+{
+"text": "ABOUT GARY",
+"href": "https://www.garycorderyforgovernor.com/about-gary"
+},
+{
+"text": "ACCESSIBILITY",
+"href": "https://www.garycorderyforgovernor.com/accessibility"
+},
+{
+"text": "Affordable Housing",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/affordable-housing"
+},
+{
+"text": "All Posts",
+"href": "https://www.garycorderyforgovernor.com/blog"
+},
+{
+"text": "Aloha for All — Tax Relief and the Fight to Lower the Cost of Living",
+"href": "https://www.garycorderyforgovernor.com/post/tax-relief-hawaii-cost-of-living"
+},
+{
+"text": "BLOG",
+"href": "https://www.garycorderyforgovernor.com/blog"
+},
+{
+"text": "Building Hope — The 15,000 Homes Plan to Tackle Hawaii’s Housing Crisis",
+"href": "https://www.garycorderyforgovernor.com/post/hawaii-housing-plan-15000-homes"
+},
+{
+"text": "CONTACT",
+"href": "https://www.garycorderyforgovernor.com/contact-us"
+},
+{
+"text": "Community",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/community"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/cost-of-living"
+},
+{
+"text": "DONATE",
+"href": "https://www.garycorderyforgovernor.com/donate"
+},
+{
+"text": "EVENT SIGN IN",
+"href": "https://www.garycorderyforgovernor.com/event-signin"
+},
+{
+"text": "EVENTS",
+"href": "https://www.garycorderyforgovernor.com/event-list"
+},
+{
+"text": "Education",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/education"
+},
+{
+"text": "Government Transparency",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/government-transparency"
+},
+{
+"text": "HOME",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "Honoring Native Hawaiian",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/honoring-native-hawaiian"
+},
+{
+"text": "Honoring Native Hawaiian Voices",
+"href": "https://www.garycorderyforgovernor.com/post/honoring-native-hawaiian-voices"
+},
+{
+"text": "Justice Through Aloha — Advancing Native Hawaiian Rights & Cultural Resilience",
+"href": "https://www.garycorderyforgovernor.com/post/native-hawaiian-rights-justice-aloha"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.garycorderyforgovernor.com/key-issues-priorities"
+},
+{
+"text": "Keiki, Kupuna, Community — Ending Corruption for Shared Aloha",
+"href": "https://www.garycorderyforgovernor.com/post/ending-corruption-hawaii-shared-aloha"
+},
+{
+"text": "LISTEN TO GARY",
+"href": "https://www.garycorderyforgovernor.com/listen-to-gary"
+},
+{
+"text": "LOCAL BUSINESSES",
+"href": "https://www.garycorderyforgovernor.com/business-vision"
+},
+{
+"text": "Na Keiki Deserve More — Education Rooted in Culture, Skills, and Community Control",
+"href": "https://www.garycorderyforgovernor.com/post/hawaii-education-reform-keiki-culture-skills"
+},
+{
+"text": "PHOTO CONSENT POLICY",
+"href": "https://www.garycorderyforgovernor.com/photo-consent"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.garycorderyforgovernor.com/privacy-policy"
+},
+{
+"text": "Plan for Transparency",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/plan-for-transparency"
+},
+{
+"text": "SMS TERMS",
+"href": "https://www.garycorderyforgovernor.com/sms-terms"
+},
+{
+"text": "SOCIAL MEDIA",
+"href": "https://www.garycorderyforgovernor.com/linktree"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.garycorderyforgovernor.com/subscribe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.garycorderyforgovernor.com/terms-and-conditions"
+},
+{
+"text": "VISION",
+"href": "https://www.garycorderyforgovernor.com/vision"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.garycorderyforgovernor.com/volunteer"
+},
+{
+"text": "VOTE + LINKS",
+"href": "https://www.garycorderyforgovernor.com/vote-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/garycorderyforgovernor"
+},
+{
+"text": "[image: Gary Cordey - Hawai‘i Governor Candidate 2026]",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/garycorderyforgovernor/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@garycordery4governor"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/GCForGov"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@Garycorderyforgovernor2026"
+},
+{
+"text": "[image: name.png]",
+"href": "https://www.garycorderyforgovernor.com"
+}
 ]

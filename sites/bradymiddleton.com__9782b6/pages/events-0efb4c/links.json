@@ -1,17 +1,74 @@
 [
-"https://bradymiddleton.com/",
-"https://bradymiddleton.com/about",
-"https://bradymiddleton.com/events",
-"https://bradymiddleton.com/get-involved",
-"https://bradymiddleton.com/platform",
-"https://eventbrite.com/e/community-kickback-at-studio-park-tickets-2001238082978?aff=oddtdtcreator",
-"https://instagram.com/planetbrady",
-"https://kentcountygop.com/outreach",
-"https://secure.winred.com/middleton-for-michigan/donate-today",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=100",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=25",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=250",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=50",
-"https://threads.com/@planetbrady",
-"https://x.com/planetbrady"
+{
+"text": "$100",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=50"
+},
+{
+"text": "Details",
+"href": "https://www.eventbrite.com/e/community-kickback-at-studio-park-tickets-2001238082978?aff=oddtdtcreator"
+},
+{
+"text": "Details",
+"href": "https://www.kentcountygop.com/outreach"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today"
+},
+{
+"text": "Events",
+"href": "https://bradymiddleton.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://bradymiddleton.com/get-involved"
+},
+{
+"text": "Meet Brady",
+"href": "https://bradymiddleton.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today"
+},
+{
+"text": "Platform",
+"href": "https://bradymiddleton.com/platform"
+},
+{
+"text": "[image: Brady Middleton campaign wordmark]",
+"href": "https://bradymiddleton.com/"
+},
+{
+"text": "[image: Brady Middleton for State Senate, 29th District campaign logo][image]",
+"href": "https://bradymiddleton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/planetbrady/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@planetbrady"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/planetbrady"
+},
+{
+"text": "[no text]",
+"href": "tel:6163655182"
+}
 ]

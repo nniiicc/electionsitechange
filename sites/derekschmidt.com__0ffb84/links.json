@@ -1,13 +1,50 @@
 [
-"https://derekschmidt.com/",
-"https://derekschmidt.com/privacy",
-"https://facebook.com/DerekSchmidtKS",
-"https://form.jotform.com/242504946642156",
-"https://instagram.com/derekschmidtks",
-"https://secure.winred.com/derek-schmidt-for-congress-inc/donate",
-"https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=10",
-"https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=25",
-"https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=250",
-"https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=50",
-"https://x.com/derekschmidtks"
+{
+"text": "$10",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate&amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/derek-schmidt-for-congress-inc/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://derekschmidt.com/privacy"
+},
+{
+"text": "Request Free Yard Sign",
+"href": "https://form.jotform.com/242504946642156"
+},
+{
+"text": "[image: Derek Schmidt for Congress logo]",
+"href": "https://derekschmidt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DerekSchmidtKS"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/derekschmidtks"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/derekschmidtks"
+}
 ]

@@ -1,15 +1,7 @@
-top of page
-Tue, May 14
-|Dacula City Hall
-Representative Mughal Townhall
-Hear what happened in the 2024 legislative session from your local legislator!
-Registration is closed
-Time & Location
-May 14, 2024, 5:00 PM – 7:00 PM
-Dacula City Hall, 442 Harbins Rd, Dacula, GA 30019, USA
-Guests
-About the event
-Representative Farooq Mughal will be hosting a town hall at Dacula City Hall.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Tue, May 14 | Dacula City Hall Representative Mughal Townhall Hear what happened in the 2024 legislative session from your local legislator!
+Registration is closed See other events Time & Location May 14, 2024, 5:00 PM – 7:00 PM Dacula City Hall, 442 Harbins Rd, Dacula, GA 30019, USA Guests See All About the event Representative Farooq Mughal will be hosting a town hall at Dacula City Hall.
 He will talk about what happened during the 2024 legislative session.
 He will also discuss issues such as small business, Medicaid, immigration, and education.
-bottom of page
+Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

@@ -1,4 +1,4 @@
-In the study of economics, there is a concept called “neoliberalism”, not to be confused with left wing politics, also sometimes called “liberalism”.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Tag: philosophy Unregulated Business and Death In the study of economics, there is a concept called “neoliberalism”, not to be confused with left wing politics, also sometimes called “liberalism”.
 Neoliberalism is the economic system that we have been operating under for decades.
 It was theorized by Friedman and Hayek, and others, and championed by Reagan.
 The idea is that if the markets are completely free from regulation and government interference (liberal=free), then corporations will thrive and the effects of that will “trickle down” to consumers.
@@ -26,8 +26,10 @@ Business MUST be regulated to thrive.
 If employees are healthy, paid a living wage, have access to healthcare and are safe, the company will prosper.
 But the unscrupulous men who hold the power would rather have the extra billions.
 So they cut wages, cut labor, cut equipment costs, lock the fire escapes, and do whatever they can get away with.
-Until the people say “ENOUGH.”
-I’m saying “enough”.
+Until the people say “ENOUGH.” I’m saying “enough”.
 If the Federal Government refuses to regulate the safety and equity of our businesses, the state MUST do it or we are right back to 1911.
 Study history.
 It might help.
+Author Sam Powell Posted on September 4, 2026 Categories Uncategorized Tags history , marxism , philosophy , politics , writing Leave a comment on Unregulated Business and Death Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

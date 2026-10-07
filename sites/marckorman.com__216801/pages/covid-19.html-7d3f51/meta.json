@@ -1,7 +1,12 @@
 {
  "description": "The impact of the COVID-19 pandemic has been felt across the entire state of Maryland. The public health concerns of this crisis and the effects on employment, housing, and small businesses are not...",
  "final_url": "https://www.marckorman.com/covid-19.html",
+ "fingerprint": "c755da36d0b3938331a6d1f5f1b4b51dc00f58d0",
+ "format": 3,
  "paid_for_by": "paid for by insurance or another third party",
  "title": "COVID-19 - MARC KORMAN",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020",
+  "2021"
+ ]
 }

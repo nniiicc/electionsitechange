@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.accaliaforarizona.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "8a75767f47f7d8fec51991885584f0f8f628120e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

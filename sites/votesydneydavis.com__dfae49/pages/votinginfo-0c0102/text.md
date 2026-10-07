@@ -1,10 +1,4 @@
-Vote!
-The primary election is June 2, 2026
-Early voting starts April 17, 2026
-Do you know if or where you are registered to vote?
+0 Skip to Content Home About Visiting Pierre Weekly Updates Voting Contact Us DONATE Open Menu Close Menu Open Menu Close Menu DONATE Home About Visiting Pierre Weekly Updates Voting Contact Us Home About Visiting Pierre Weekly Updates Voting Contact Us DONATE Vote!
+The primary election is June 2, 2026 Early voting starts April 17, 2026 Do you know if or where you are registered to vote?
 Can’t make it to the polls on election day and want to vote early?
-Contact your County Auditor or the South Dakota Secretary of State
-Clay County Auditor: 605-677-7120
-Union County Auditor: 605-356-2101
-South Dakota Secretary of State: 605-773-3537
-Or click the link:
+Contact your County Auditor or the South Dakota Secretary of State Clay County Auditor: 605-677-7120 Union County Auditor: 605-356-2101 South Dakota Secretary of State: 605-773-3537 Or click the link: Voting Information SUPPORT SYDNEY SYDNEY DAVIS for District 17 46838 307th St Burbank, SD 57010 605-770-7029 Privacy | Terms Paid for by Friends of Sydney Davis

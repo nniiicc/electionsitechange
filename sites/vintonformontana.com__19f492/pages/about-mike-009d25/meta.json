@@ -1,7 +1,11 @@
 {
  "description": "Connect, ask questions, and support Montana's future.",
  "final_url": "https://vintonformontana.com/about-mike",
- "paid_for_by": null,
+ "fingerprint": "0d3159cdbfb051eba1f02f59442414d3f84d2a68",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ABOUT MIKE",
- "years_mentioned": []
+ "years_mentioned": [
+  "1996"
+ ]
 }

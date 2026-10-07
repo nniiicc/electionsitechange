@@ -1,4 +1,5 @@
-This opinion piece first appeared in the Des Moines Register January 26, 2026.
+HOME MEET TOM ISSUES NEWS EVENTS CONTACT DONATE THE MOST GOOD FOR THE MOST PEOPLE AT THE LEAST COST I’m a rural Democrat who ran for the state Legislature.
+Here’s what I learned. | Opinion Jan 26, 2026 | Press , Reporting This opinion piece first appeared in the Des Moines Register January 26, 2026.
 Click here to read the Article on the Register website.
 I said I’m a Democrat.
 She snapped my campaign flyer back to me.
@@ -19,8 +20,7 @@ After that, I rarely mentioned my party unless a voter asked.
 I got a similar reception from other Republicans.
 Many agreed with my positions.
 A few said they’d vote for me.
-But most said something like, “I need to do more research.”
-I’m not the brightest guy.
+But most said something like, “I need to do more research.” I’m not the brightest guy.
 It took me a while to realize “more research” meant checking my party affiliation.
 Acquaintances told me they know people who would’ve voted for me if I was a Republican.
 Other Democratic candidates said they had similar experiences.
@@ -41,7 +41,7 @@ I’ll spare you the suspense: I — and virtually every other rural Iowa Democr
 Shipley ended with 57.5%, I had 39.5% and Curtis Oliver, an independent who graciously endorsed me when he learned I was running, received 2.7%.
 Democrats have won before in Van Buren County and the area.
 Former county recorder Twyla Peacock and John Whitaker, a former county supervisor and state representative, told me they spent months knocking on every door.
-That was more than 20 years ago.
+That was more than #ago.
 Today, the highest-ranking Democrat in Van Buren County is the beloved treasurer, Linda Whitten.
 Few other Democrats could win, even if they visited every home.
 Republican voters often acknowledge their party’s policies harm them and their communities but are still reluctant to choose Democrats.
@@ -59,7 +59,8 @@ Supporters want me to try again.
 I’m undecided, but the thought of campaigning with more time to meet voters is intriguing.
 Regardless, I’ll always be grateful for what voters gave me — even in losing.
 Thomas R.
-O’Donnell
-Thomas R.
+O’Donnell Thomas R.
 O’Donnell is a retired science writer and former newspaper reporter and editor.
 He lives near Keosauqua, Iowa.
+Contact Tom! info@odonnellforhouse87.com 641-630-3757 PAID FOR BY TOM O’DONNELL FOR HD87 26849 South St.
+Keosauqua, IA 52565 PRIVACY POLICY

@@ -1,27 +1,110 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/about",
-"https://ayannapressley.com/cdn-cgi/l/email-protection",
-"https://ayannapressley.com/contact",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/issues",
-"https://ayannapressley.com/jobs",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/volunteer",
-"https://ayannapressley.com/vote",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://mass.gov/info-details/criminal-record-discrimination-in-the-workplace",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://secure.actblue.com/donate/web-2024",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "Contact",
+"href": "https://ayannapressley.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web-2024"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Issues",
+"href": "https://ayannapressley.com/issues/"
+},
+{
+"text": "Jobs",
+"href": "https://ayannapressley.com/jobs/"
+},
+{
+"text": "Meet Ayanna",
+"href": "https://ayannapressley.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Privacy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Volunteer",
+"href": "https://ayannapressley.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://ayannapressley.com/vote/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[email protected]",
+"href": "https://ayannapressley.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "in accordance with state law",
+"href": "https://www.mass.gov/info-details/criminal-record-discrimination-in-the-workplace"
+}
 ]

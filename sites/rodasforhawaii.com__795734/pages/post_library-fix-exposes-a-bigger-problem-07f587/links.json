@@ -1,33 +1,154 @@
 [
-"https://civilbeat.org/2026/04/auditor-issues-urgent-warning-about-key-hawaii-homeless-program",
-"https://civilbeat.org/2026/05/human-services-director-abruptly-retires-amid-hawaii-ag-probe",
-"https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdVFmHcWGN0OtES2526fq5AcYQ3PlmybPgt9l8g-X7tTgcijQ/viewform",
-"https://facebook.com/voterodas",
-"https://forms.gle/GU1u2ajuceRNYafz5",
-"https://forms.gle/NMbYsGWwv4MsPfM5A",
-"https://forms.gle/gRNmpwj2uWMrhhzs6",
-"https://instagram.com/voterodas",
-"https://librarieshawaii.org/summerreading",
-"https://olvr.hawaii.gov/",
-"https://rodasforhawaii.com/",
-"https://rodasforhawaii.com/about",
-"https://rodasforhawaii.com/accessibility-statement",
-"https://rodasforhawaii.com/community-events",
-"https://rodasforhawaii.com/news",
-"https://rodasforhawaii.com/news/categories/community-engagement",
-"https://rodasforhawaii.com/news/categories/government-transparency",
-"https://rodasforhawaii.com/news/categories/local-k\u0101ne\u02bbohe-issues",
-"https://rodasforhawaii.com/news/tags/community-engagement-k\u0101ne\u02bbohe",
-"https://rodasforhawaii.com/news/tags/government-accountability",
-"https://rodasforhawaii.com/news/tags/grassroots-advocacy",
-"https://rodasforhawaii.com/news/tags/local-k\u0101ne\u02bbohe-issues",
-"https://rodasforhawaii.com/news/tags/public-library-reopening",
-"https://rodasforhawaii.com/news/tags/transparency-in-spending",
-"https://rodasforhawaii.com/news/tags/transparent-leadership",
-"https://rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem",
-"https://rodasforhawaii.com/post/our-library-lights-are-still-off",
-"https://rodasforhawaii.com/privacy-policy",
-"https://rodasforhawaii.com/terms-and-conditions",
-"https://secure.anedot.com/rodas-for-hawaii/donate"
+{
+"text": "About Me",
+"href": "https://www.rodasforhawaii.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.rodasforhawaii.com/accessibility-statement"
+},
+{
+"text": "All Posts",
+"href": "https://www.rodasforhawaii.com/news"
+},
+{
+"text": "Community Engagement",
+"href": "https://www.rodasforhawaii.com/news/categories/community-engagement"
+},
+{
+"text": "Community Engagement Kāneʻohe",
+"href": "https://www.rodasforhawaii.com/news/tags/community-engagement-k%C4%81ne%CA%BBohe"
+},
+{
+"text": "Community Events",
+"href": "https://www.rodasforhawaii.com/community-events"
+},
+{
+"text": "Community News",
+"href": "https://www.rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem"
+},
+{
+"text": "Community Survey",
+"href": "https://forms.gle/gRNmpwj2uWMrhhzs6"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rodas-for-hawaii/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdVFmHcWGN0OtES2526fq5AcYQ3PlmybPgt9l8g-X7tTgcijQ/viewform"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://forms.gle/NMbYsGWwv4MsPfM5A"
+},
+{
+"text": "Get Your Free Bumper Sticker",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform"
+},
+{
+"text": "Government Accountability",
+"href": "https://www.rodasforhawaii.com/news/tags/government-accountability"
+},
+{
+"text": "Government Transparency",
+"href": "https://www.rodasforhawaii.com/news/categories/government-transparency"
+},
+{
+"text": "Grassroots Advocacy",
+"href": "https://www.rodasforhawaii.com/news/tags/grassroots-advocacy"
+},
+{
+"text": "Kauhales, Home-Aid",
+"href": "https://www.civilbeat.org/2026/04/auditor-issues-urgent-warning-about-key-hawaii-homeless-program/"
+},
+{
+"text": "Local Kāneʻohe Issues",
+"href": "https://www.rodasforhawaii.com/news/categories/local-k%C4%81ne%CA%BBohe-issues"
+},
+{
+"text": "Local Kāneʻohe Issues",
+"href": "https://www.rodasforhawaii.com/news/tags/local-k%C4%81ne%CA%BBohe-issues"
+},
+{
+"text": "More",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Our Library Lights are STILL Off: How a Closed Library Reveals a Bigger Problem in Kāneʻohe",
+"href": "https://www.rodasforhawaii.com/post/our-library-lights-are-still-off"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rodasforhawaii.com/privacy-policy"
+},
+{
+"text": "Public Library Reopening",
+"href": "https://www.rodasforhawaii.com/news/tags/public-library-reopening"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "See All",
+"href": "https://www.rodasforhawaii.com/news"
+},
+{
+"text": "Sign up for regular updates!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform"
+},
+{
+"text": "Stay Informed >>",
+"href": "https://forms.gle/GU1u2ajuceRNYafz5"
+},
+{
+"text": "Summer’s Reading Challenge",
+"href": "https://www.librarieshawaii.org/summerreading/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rodasforhawaii.com/terms-and-conditions"
+},
+{
+"text": "Transparency in Spending",
+"href": "https://www.rodasforhawaii.com/news/tags/transparency-in-spending"
+},
+{
+"text": "Transparent Leadership",
+"href": "https://www.rodasforhawaii.com/news/tags/transparent-leadership"
+},
+{
+"text": "[image: On December 26, 2025, @KaneoheCommunity posted on Instagram, “The temporary library pop-up situated in Windward Mall will close [on] Dec. 31 in preparation for the reopening of the Kaneohe Public Library...” However, community members are left wondering whether it will ever reopen. ]",
+"href": "https://www.rodasforhawaii.com/post/our-library-lights-are-still-off"
+},
+{
+"text": "[image: Rodas 2026.png]",
+"href": "https://www.rodasforhawaii.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/voterodas"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/voterodas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voterodas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voterodas/"
+},
+{
+"text": "ale@rodasforhawaii.com",
+"href": "https://forms.gle/GU1u2ajuceRNYafz5"
+},
+{
+"text": "other government projects",
+"href": "https://www.civilbeat.org/2026/05/human-services-director-abruptly-retires-amid-hawaii-ag-probe/"
+}
 ]

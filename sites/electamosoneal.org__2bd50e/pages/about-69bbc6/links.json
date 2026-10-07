@@ -1,13 +1,50 @@
 [
-"https://electamosoneal.org/about",
-"https://electamosoneal.org/about-1",
-"https://electamosoneal.org/about-3",
-"https://electamosoneal.org/copy-of-endorsements-2024",
-"https://electamosoneal.org/copy-of-events-2022",
-"https://electamosoneal.org/district-94",
-"https://electamosoneal.org/get-involved",
-"https://facebook.com/electamosoneal",
-"https://instagram.com/voteamosoneal95district",
-"https://secure.actblue.com/entity/fundraisers/158885",
-"https://twitter.com/AmosONeal1"
+{
+"text": "About Amos",
+"href": "https://www.electamosoneal.org/about"
+},
+{
+"text": "Contact Us",
+"href": "mailto:Amossam@charter.net?subject=Constituent+Inquiry"
+},
+{
+"text": "District Map",
+"href": "https://www.electamosoneal.org/district-94"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/entity/fundraisers/158885"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electamosoneal.org/copy-of-endorsements-2024"
+},
+{
+"text": "Events",
+"href": "https://www.electamosoneal.org/copy-of-events-2022"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electamosoneal.org/get-involved"
+},
+{
+"text": "Legislation Introduced",
+"href": "https://www.electamosoneal.org/about-3"
+},
+{
+"text": "Term Involvement",
+"href": "https://www.electamosoneal.org/about-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electamosoneal/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteamosoneal95district/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/AmosONeal1"
+}
 ]

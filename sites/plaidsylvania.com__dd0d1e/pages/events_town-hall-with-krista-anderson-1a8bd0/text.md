@@ -1,5 +1,2 @@
-Back to All Events
-Join us for a public Town Hall event at the Manchester Township building, 3200 Farmtrail Road, York, PA 17406.
-Previous
-Previous
-August 15
+0 Skip to Content Plaidsylvania Events Subscribe to Edward's Newsletter Donate Open Menu Close Menu Donate Plaidsylvania Events Subscribe to Edward's Newsletter Open Menu Close Menu Events Subscribe to Edward's Newsletter Donate Back to All Events Town Hall with Krista Anderson Thursday, September 24, 2026 6:30 PM 8:00 PM Google Calendar ICS Join us for a public Town Hall event at the Manchester Township building, 3200 Farmtrail Road, York, PA 17406.
+Previous Previous August 15 Day of Action - Canvassing in Springettsbury Township Paid for by Plaidsylvania Made with Squarespace

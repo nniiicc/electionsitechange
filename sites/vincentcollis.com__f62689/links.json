@@ -1,14 +1,70 @@
 [
-"https://facebook.com/VincentCollisIA",
-"https://linkedin.com/in/vincentcollis",
-"https://secure.actblue.com/donate/vincentcollis_website",
-"https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=61",
-"https://vincentcollis.com/",
-"https://vincentcollis.com/mobile-terms",
-"https://vincentcollis.com/privacy",
-"https://x.com/VincentCollisIA"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=50"
+},
+{
+"text": "$61Most chosen",
+"href": "https://secure.actblue.com/donate/vincentcollis_website?express_lane=true&amount=61"
+},
+{
+"text": "Choose another amount →",
+"href": "https://secure.actblue.com/donate/vincentcollis_website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vincentcollis_website"
+},
+{
+"text": "Donate",
+"href": "https://vincentcollis.com/#donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/vincentcollis_website"
+},
+{
+"text": "Issues",
+"href": "https://vincentcollis.com/#issues"
+},
+{
+"text": "Meet Vincent",
+"href": "https://vincentcollis.com/#about"
+},
+{
+"text": "Mobile Terms",
+"href": "https://vincentcollis.com/mobile-terms"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vincentcollis.com/privacy"
+},
+{
+"text": "[image: Vincent Collis for Iowa House District 61]",
+"href": "https://vincentcollis.com/#top"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VincentCollisIA"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/vincentcollis/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VincentCollisIA"
+}
 ]

@@ -1,18 +1,82 @@
 [
-"https://campaignpartner.com/",
-"https://kramerforalabama.com/",
-"https://kramerforalabama.com/contact",
-"https://kramerforalabama.com/contribute",
-"https://kramerforalabama.com/events",
-"https://kramerforalabama.com/home",
-"https://kramerforalabama.com/issues",
-"https://kramerforalabama.com/issues/affordability",
-"https://kramerforalabama.com/issues/infrastructure",
-"https://kramerforalabama.com/issues/sample_issue",
-"https://kramerforalabama.com/issues/workforce-development",
-"https://kramerforalabama.com/meet_katie",
-"https://kramerforalabama.com/photos",
-"https://kramerforalabama.com/volunteer",
-"https://kramerforalabama.com/vote",
-"https://kramerforalabama.com/yard-sign"
+{
+"text": "Affordability",
+"href": "https://kramerforalabama.com/issues/affordability"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://kramerforalabama.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://kramerforalabama.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://kramerforalabama.com/events"
+},
+{
+"text": "Healthcare for All",
+"href": "https://kramerforalabama.com/issues/sample_issue"
+},
+{
+"text": "Home",
+"href": "https://kramerforalabama.com/home"
+},
+{
+"text": "Infrastructure",
+"href": "https://kramerforalabama.com/issues/infrastructure"
+},
+{
+"text": "Issues",
+"href": "https://kramerforalabama.com/issues"
+},
+{
+"text": "Meet Katie",
+"href": "https://kramerforalabama.com/meet_katie"
+},
+{
+"text": "Photos",
+"href": "https://kramerforalabama.com/photos"
+},
+{
+"text": "Read More",
+"href": "https://kramerforalabama.com/issues/affordability"
+},
+{
+"text": "Read More",
+"href": "https://kramerforalabama.com/issues/infrastructure"
+},
+{
+"text": "Read More",
+"href": "https://kramerforalabama.com/issues/sample_issue"
+},
+{
+"text": "Read More",
+"href": "https://kramerforalabama.com/issues/workforce-development"
+},
+{
+"text": "Volunteer",
+"href": "https://kramerforalabama.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://kramerforalabama.com/vote"
+},
+{
+"text": "Workforce Development",
+"href": "https://kramerforalabama.com/issues/workforce-development"
+},
+{
+"text": "Yard Signs",
+"href": "https://kramerforalabama.com/yard-sign"
+},
+{
+"text": "[image: Katie Kramer for Alabama State Senate District 8]",
+"href": "https://kramerforalabama.com/"
+}
 ]

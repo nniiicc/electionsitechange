@@ -1,20 +1,86 @@
 [
-"https://designedwithbee.com/",
-"https://facebook.com/hruzaformissouri",
-"https://fb.me/e/21EOm4stC",
-"https://fb.me/e/3STfQiIRt",
-"https://hruzaformissouri.com/",
-"https://hruzaformissouri.com/about-george",
-"https://hruzaformissouri.com/author/george",
-"https://hruzaformissouri.com/campaign-updates/www.example.com",
-"https://hruzaformissouri.com/category/campaign-updates",
-"https://hruzaformissouri.com/contact",
-"https://hruzaformissouri.com/get-involved",
-"https://hruzaformissouri.com/its-yard-sign-time",
-"https://hruzaformissouri.com/the-issues",
-"https://instagram.com/georgehruza",
-"https://linkedin.com/in/george-hruza-657b475",
-"https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f",
-"https://twitter.com/GeorgeHruza",
-"https://youtube.com/watch?v=Cp3ZzbXBSbU"
+{
+"text": "About George",
+"href": "https://hruzaformissouri.com/about-george/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://hruzaformissouri.com/category/campaign-updates/"
+},
+{
+"text": "Contact",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Designed with BEE",
+"href": "https://www.designedwithbee.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+},
+{
+"text": "Get Involved",
+"href": "https://hruzaformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "Let Us Know You Will Be Coming",
+"href": "https://fb.me/e/21EOm4stC"
+},
+{
+"text": "RSVP Here or Tap \"Reply\"",
+"href": "https://fb.me/e/3STfQiIRt"
+},
+{
+"text": "The Issues",
+"href": "https://hruzaformissouri.com/the-issues/"
+},
+{
+"text": "Watch the Documentary",
+"href": "https://www.youtube.com/watch?v=Cp3ZzbXBSbU"
+},
+{
+"text": "[image: Company logo]",
+"href": "https://hruzaformissouri.com/campaign-updates/www.example.com"
+},
+{
+"text": "[image: Designed with BEE]",
+"href": "https://www.designedwithbee.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/hruzaformissouri"
+},
+{
+"text": "[image: George Hruza for Missouri]",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/georgehruza/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/george-hruza-657b475/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/GeorgeHruza"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=Cp3ZzbXBSbU"
+},
+{
+"text": "george",
+"href": "https://hruzaformissouri.com/author/george/"
+},
+{
+"text": "← Previous Post",
+"href": "https://hruzaformissouri.com/its-yard-sign-time/"
+}
 ]

@@ -1,7 +1,8 @@
-Education
-Even before the COVID-19 pandemic, education in our city, our state and our entire country was in crisis.
+Skip to Content Open Menu Close Menu About A New Fight Together Assembly District 31 Meet Khaleel Issues Criminal Justice Reform Addressing The Housing Crisis Transportation Justice Healthcare For All Environmental Justice Education Jobs & Economic Development 0 0 CONTRIBUTE About A New Fight Together Assembly District 31 Meet Khaleel Issues Criminal Justice Reform Addressing The Housing Crisis Transportation Justice Healthcare For All Environmental Justice Education Jobs & Economic Development 0 0 CONTRIBUTE Open Menu Close Menu Folder: About Back A New Fight Together Assembly District 31 Meet Khaleel Folder: Issues Back Criminal Justice Reform Addressing The Housing Crisis Transportation Justice Healthcare For All Environmental Justice Education Jobs & Economic Development CONTRIBUTE Education Even before the COVID-19 pandemic, education in our city, our state and our entire country was in crisis.
 Our public schools are underfunded and students, particularly Black and brown students, experience inequitable access to resources.
 In 2019, less than half of all 3rd through 8th graders in our public schools were proficient in reading, and math proficiency scores are similar.
 Schools are faced with persistent challenges, and social, economic and political pressures and injustices make it challenging for students and educators to succeed.
 Though I have joined my colleagues in the decades-long fight to fully fund Foundation Aid and we have achieved that necessary funding, there is still much work necessary in the days ahead to ensure that all schools have the access to resources that support students’ academic and social and emotional success.
 We also need to continue to demand a New Deal for CUNY that will make tuition free again for students who are New York City residents.
+NAVIGATION Contribute Meet Khaleel A New Fight Together Assembly District 31 CONTACT US Email ﻿ STAY IN TOUCH Facebook Twitter Instagram copyright © # by Khaleel Anderson For The People.
+All rights reserved.

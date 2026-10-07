@@ -1,14 +1,5 @@
-$20 Steps to State
-Time
-Sunday, Mar 1, 2026
-12:00 AM – 1:00 AM
-About this event
-Every step forward matters.
+Meet Rhondalyn Issues KY Voter Information Events Endorsements Contribute Contact Us Events / $20 Steps to State $20 Steps to State Time Sunday, Mar 1, 2026 12:00 AM – 1:00 AM Location Virtual, KY https://secure.actblue.com/donate/rhondalyn-randolph-1 About this event Every step forward matters.
 With just $20, you can help move this campaign one step closer to Frankfort and a future where every voice is heard, every family is supported, and every community has a seat at the table.
-This is people powered progress and it starts with us
-.
-Location
-Virtual
-KY
-(812) 610-1639
-https://secure.actblue.com/donate/rhondalyn-randolph-1
+This is people powered progress and it starts with us .
+Location Virtual KY (812) 610-1639 https://secure.actblue.com/donate/rhondalyn-randolph-1 Get Driving Directions Add to calendar VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Randolph announces bid for Kentucky House seat in District 13 Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Committee to Elect Rhondalyn Randolph KY State Rep, District 13 Powered by CampaignPartner.com - Political Campaign Websites Meet Rhondalyn Issues KY Voter Information Events Endorsements Contact Us Close Menu

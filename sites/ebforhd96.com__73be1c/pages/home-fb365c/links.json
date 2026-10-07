@@ -1,22 +1,94 @@
 [
-"https://campaignpartner.com/",
-"https://ebforhd96.com/",
-"https://ebforhd96.com/contact",
-"https://ebforhd96.com/contribute",
-"https://ebforhd96.com/contribute?amount=10",
-"https://ebforhd96.com/contribute?amount=100",
-"https://ebforhd96.com/contribute?amount=1000",
-"https://ebforhd96.com/contribute?amount=25",
-"https://ebforhd96.com/contribute?amount=250",
-"https://ebforhd96.com/contribute?amount=50",
-"https://ebforhd96.com/contribute?amount=500",
-"https://ebforhd96.com/events",
-"https://ebforhd96.com/home",
-"https://ebforhd96.com/issues",
-"https://ebforhd96.com/meet_ebony",
-"https://ebforhd96.com/press-release",
-"https://ebforhd96.com/privacy-policy",
-"https://ebforhd96.com/view-endorsements",
-"https://ebforhd96.com/volunteer",
-"https://ebforhd96.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.ebforhd96.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.ebforhd96.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.ebforhd96.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.ebforhd96.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.ebforhd96.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.ebforhd96.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.ebforhd96.com/contribute?amount=1000"
+},
+{
+"text": "Contact",
+"href": "https://www.ebforhd96.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.ebforhd96.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ebforhd96.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ebforhd96.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.ebforhd96.com/home"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.ebforhd96.com/volunteer"
+},
+{
+"text": "Meet Ebony",
+"href": "https://www.ebforhd96.com/meet_ebony"
+},
+{
+"text": "Other",
+"href": "https://www.ebforhd96.com/contribute"
+},
+{
+"text": "P.E.R.S.O.N.A.L. Issues",
+"href": "https://www.ebforhd96.com/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Press Releases/Statements",
+"href": "https://www.ebforhd96.com/press-release"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ebforhd96.com/privacy-policy"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.ebforhd96.com/yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ebforhd96.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.ebforhd96.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.ebforhd96.com/"
+}
 ]

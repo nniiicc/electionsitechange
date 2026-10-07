@@ -1,4 +1,4 @@
-In the early 1990s, a public safety client asked me if it was possible to create a real-time mapping system for 911 dispatchers.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Early 1990s · Maptronix Saving Lives With 911 Mapping × In the early 1990s, a public safety client asked me if it was possible to create a real-time mapping system for 911 dispatchers.
 They wanted to track where 911 calls were coming from and see the location of first responder vehicles using GPS.
 That is not a big deal today, but back before smartphones, it was a massive technical challenge that had not yet been solved.
 At the time, the software company I worked for had just gone through a major layoff.
@@ -13,12 +13,13 @@ I will never forget a Friday night in a dispatch center in North Central St.
 Louis when we first went live.
 An ambulance had been dispatched to a shooting but was headed the wrong way.
 The dispatcher saw it on our real-time digital map and yelled over the radio to get them turned around.
-When there was a pause, the dispatcher turned to me and said, "You just saved some lives."
-When you are building systems where failure is not an option, nobody cares about your politics or your excuses.
+When there was a pause, the dispatcher turned to me and said, "You just saved some lives." When you are building systems where failure is not an option, nobody cares about your politics or your excuses.
 They just care if you can solve the problem and deliver results.
 Helena is full of politicians who manage decline and make excuses.
 They talk a lot and we get band-aids at best.
 What we need are leaders who know how to build actual solutions.
 That's Montana common sense.
 These career stories were originally posted on Facebook.
-You can follow the entire story at facebook.com/leman4mt.
+You can follow the entire story at facebook.com/leman4mt . ← Back to Greg's Story Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

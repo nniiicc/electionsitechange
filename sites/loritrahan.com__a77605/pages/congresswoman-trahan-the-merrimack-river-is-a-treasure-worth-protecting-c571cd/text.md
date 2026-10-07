@@ -1,5 +1,4 @@
-The Merrimack River: A treasure worth protecting – By Lori Trahan
-Congresswoman Lori Trahan’s Stop Sewage Overflow Act — part of a major infrastructure bill recently passed by the House of Representatives — underscores the importance of water infrastructure.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu July 19 2020 The Merrimack River: A treasure worth protecting – By Lori Trahan Congresswoman Lori Trahan’s Stop Sewage Overflow Act — part of a major infrastructure bill recently passed by the House of Representatives — underscores the importance of water infrastructure.
 Our Stop Sewage Overflow Act was designed in close consultation with state and local officials from across the Merrimack Valley who I met with at the Lowell wastewater treatment facility.
 The bill increased funding for the EPA’s CSO grant program and extended its period of authorization.
 Perhaps most notably, the bill incentivized the federal government to invest in wastewater infrastructure projects in financially distressed communities.
@@ -10,3 +9,5 @@ The CSO grant program will be authorized to provide $400 million annually for th
 The bill is now pending before the U.S.
 Senate, which should pass our infrastructure bill for many reasons – not the least of which is the fact that cities like Lowell deserve the support of the federal government when it comes to cleaning up our rivers.
 Continue reading in The Lowell Sun.
+Trahan Shows Support for Local Farmers Congresswoman Lori Trahan introduced the Pandemic Production Act Related Posts Uncategorized Congresswoman Lori Trahan introduced the Pandemic Production Act Uncategorized Trahan Shows Support for Local Farmers Uncategorized Trahan joins Black Caucus leader for broadcast on race Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

@@ -1,7 +1,5 @@
-Contact
-Questions or comments?
+Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Contact Questions or comments?
 Let us know!
-Jessie Barcala is a former member of the USAF.
+First Name Last Name Email Phone Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to volunteer Subject: Message: Submit Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
-Paid for by Committee to Elect Jessie Barcala
-Powered by CampaignPartner.com - Political Websites
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

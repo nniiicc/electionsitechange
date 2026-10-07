@@ -1,31 +1,218 @@
 [
-"http://leginfo.state.ny.us/asmsen/PDFBT.cgi",
-"https://housingjusticeforall.org/our-platform",
-"https://justiceroadmapny.org/",
-"https://legislation.nysenate.gov/pdf/bills/2021/S2833",
-"https://legislation.nysenate.gov/pdf/bills/2021/S3462",
-"https://legislation.nysenate.gov/pdf/bills/2021/S4699",
-"https://legislation.nysenate.gov/pdf/bills/2021/S9078",
-"https://legislation.nysenate.gov/pdf/bills/2023/s1801",
-"https://legislation.nysenate.gov/pdf/bills/2023/s306",
-"https://legislation.nysenate.gov/pdf/bills/2023/s3192",
-"https://legislation.nysenate.gov/pdf/bills/2023/s4861",
-"https://legislation.nysenate.gov/pdf/bills/2023/s7590",
-"https://legislation.nysenate.gov/pdf/bills/2023/s903",
-"https://nysenate.gov/legislation/bills/2021/S1572",
-"https://nysenate.gov/legislation/bills/2021/S6678",
-"https://nysenate.gov/legislation/bills/2023/S1604",
-"https://nysenate.gov/legislation/bills/2023/S1800",
-"https://nysenate.gov/legislation/bills/2023/S1978",
-"https://nysenate.gov/legislation/bills/2023/S2016/amendment/A",
-"https://nysenate.gov/legislation/bills/2023/S221",
-"https://nysenate.gov/legislation/bills/2023/S899",
-"https://nysenate.gov/legislation/bills/2023/s316",
-"https://nysenate.gov/legislation/bills/2023/s568/amendment/a",
-"https://salazarforsenate.com/",
-"https://salazarforsenate.com/about",
-"https://salazarforsenate.com/cart",
-"https://salazarforsenate.com/platform",
-"https://salazarforsenate.com/platform-1",
-"https://secure.actblue.com/donate/salazarforsenate"
+{
+"text": "0",
+"href": "https://www.salazarforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.salazarforsenate.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.salazarforsenate.com/"
+},
+{
+"text": "Climate",
+"href": "https://www.salazarforsenate.com/platform/#climate"
+},
+{
+"text": "Economic Justice",
+"href": "https://www.salazarforsenate.com/platform/#economic-justice"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.salazarforsenate.com/platform-1"
+},
+{
+"text": "Healthcare",
+"href": "https://www.salazarforsenate.com/platform/#healthcare"
+},
+{
+"text": "Housing",
+"href": "https://www.salazarforsenate.com/platform/#housing"
+},
+{
+"text": "Housing Justice For All",
+"href": "https://housingjusticeforall.org/our-platform/"
+},
+{
+"text": "Justice Roadmap",
+"href": "https://justiceroadmapny.org"
+},
+{
+"text": "Public Safety",
+"href": "https://www.salazarforsenate.com/platform/#public-safety"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.salazarforsenate.com/platform/#reproductive-rights"
+},
+{
+"text": "S1213",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?1213B.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S1569",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?318.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S1604",
+"href": "https://www.nysenate.gov/legislation/bills/2023/S1604"
+},
+{
+"text": "S17272A:",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?4464.21S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S1800:",
+"href": "https://www.nysenate.gov/legislation/bills/2023/S1800"
+},
+{
+"text": "S1801",
+"href": "https://legislation.nysenate.gov/pdf/bills/2023/s1801"
+},
+{
+"text": "S1978",
+"href": "https://www.nysenate.gov/legislation/bills/2023/S1978"
+},
+{
+"text": "S2016-A",
+"href": "https://www.nysenate.gov/legislation/bills/2023/S2016/amendment/A"
+},
+{
+"text": "S221",
+"href": "https://www.nysenate.gov/legislation/bills/2023/S221"
+},
+{
+"text": "S2237-A",
+"href": "https://www.nysenate.gov/legislation/bills/2021/S1572#:~:text=This%20bill%20will%20provide%20adult,eligible%20for%20the%20Essential%20Plan."
+},
+{
+"text": "S2522",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?2522.21S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S2622",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?2622.21S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S2833:",
+"href": "https://legislation.nysenate.gov/pdf/bills/2021/S2833"
+},
+{
+"text": "S301",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?301.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S302",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?302.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S305",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?305.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S306",
+"href": "https://legislation.nysenate.gov/pdf/bills/2023/s306"
+},
+{
+"text": "S308",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?308.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S310",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?310.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S311",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?311.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S313",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?313.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S314:",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?314.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S316",
+"href": "https://www.nysenate.gov/legislation/bills/2023/s316"
+},
+{
+"text": "S319",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?319.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S3192",
+"href": "https://legislation.nysenate.gov/pdf/bills/2023/s3192"
+},
+{
+"text": "S3462",
+"href": "https://legislation.nysenate.gov/pdf/bills/2021/S3462"
+},
+{
+"text": "S3980",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?3980.21S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S4699",
+"href": "https://legislation.nysenate.gov/pdf/bills/2021/S4699"
+},
+{
+"text": "S4861",
+"href": "https://legislation.nysenate.gov/pdf/bills/2023/s4861"
+},
+{
+"text": "S568",
+"href": "https://www.nysenate.gov/legislation/bills/2023/s568/amendment/a"
+},
+{
+"text": "S5939A",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?5939A.21S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S599",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?599.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S608:",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?608A.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "S6678",
+"href": "https://www.nysenate.gov/legislation/bills/2021/S6678#:~:text=S6678A%20%2D%20Summary,legal%20representation%20or%20legal%20consultation."
+},
+{
+"text": "S7590",
+"href": "https://legislation.nysenate.gov/pdf/bills/2023/s7590"
+},
+{
+"text": "S899",
+"href": "https://www.nysenate.gov/legislation/bills/2023/S899"
+},
+{
+"text": "S903",
+"href": "https://legislation.nysenate.gov/pdf/bills/2023/s903"
+},
+{
+"text": "S9078",
+"href": "https://legislation.nysenate.gov/pdf/bills/2021/S9078"
+},
+{
+"text": "S984",
+"href": "http://leginfo.state.ny.us/asmsen/PDFBT.cgi?984.23S.BILL.LBDSFS%3AWEBCACHE.="
+},
+{
+"text": "Support The Campaign",
+"href": "https://secure.actblue.com/donate/salazarforsenate"
+},
+{
+"text": "Workers Rights",
+"href": "https://www.salazarforsenate.com/platform/#workers-rights"
+},
+{
+"text": "[image: Julia Salazar for State Senate]",
+"href": "https://www.salazarforsenate.com/"
+}
 ]

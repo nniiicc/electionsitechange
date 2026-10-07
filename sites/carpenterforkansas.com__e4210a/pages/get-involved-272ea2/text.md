@@ -1,2 +1,2 @@
-get involved Register to vote!
-Update your voter registration name or address Request a military ballot Apply for an advance ballot by mail Volunteer Donate to the campaign Host a yard sign (in election years)
+(316) 772-0886 blake@carpenterforkansas.com Facebook X Instagram Facebook X Instagram Home About Blake Podcasts District 81 Issues Get Involved Donate Select Page get involved Register to vote!
+Update your voter registration name or address Request a military ballot Apply for an advance ballot by mail Volunteer Donate to the campaign Host a yard sign (in election years) Terms & Conditions Privacy Policy Facebook X Instagram Paid for by Blake Carpenter for State Representative, Randy White, Treasurer, (316)772-0886 , blake@carpenterforkansas.com

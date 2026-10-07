@@ -1,20 +1,3 @@
-Missouri Senate District 24 Information Resource
-Still not sure if you live in District 24?
+0 Skip to Content MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Missouri Senate District 24 Information Resource Still not sure if you live in District 24?
 Click here to find out.
-(A new page will open and you can search for your address in the box on the upper right of page.)
-Senate District 24 Data:
-District 24 has 132,414*registered voters who live in 12 municipalities across 17 zip codes (full or partial), and 8 state representative districts (partial).
-*2024 End of Year Data
-Municipalities:
-Creve Coeur
-Des Peres
-Fenton
-Frontenac
-Glendale
-Huntleigh
-Kirkwood
-Ladue
-Maryland Heights
-Sunset Hills
-Valley Park
-Westwood
+(A new page will open and you can search for your address in the box on the upper right of page.) Senate District 24 Data: District 24 has 132,414 * registered voters who live in 12 municipalities across 17 zip codes (full or partial), and 8 state representative districts (partial). *2024 End of Year Data Municipalities: Creve Coeur Des Peres Fenton Frontenac Glendale Huntleigh Kirkwood Ladue Maryland Heights Sunset Hills Valley Park Westwood Click Here: Expandable Map District 24 Meet LaVanna Core Issues Connect Privacy QUICK LINKS CONNECT LaVanna@WrobleyforMissouri.com Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Paid for by Wrobley for Missouri, Maryann Manion, Treasurer ©# Wrobley For Missouri

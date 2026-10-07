@@ -1,7 +1,7 @@
-“I have spent my career upholding the law, managing budgets, and serving the people of Georgia with integrity.
-Now I am running to make sure our state government does the same by protecting taxpayers, defending freedom, and keeping Cherokee County the best place to live, work, and raise a family.”
-Personal Profile
-Born and raised in Canton, Bill Fincher has spent his life protecting Georgia families and standing up for what’s right.
+Skip to content VOTE November 3rd for State House Representative for District 23.
+To learn more about polling dates and locations click here .
+Home About Donate Contact About “ I have spent my career upholding the law, managing budgets, and serving the people of Georgia with integrity.
+Now I am running to make sure our state government does the same by protecting taxpayers, defending freedom, and keeping Cherokee County the best place to live, work, and raise a family. ” Contact Bill Fincher Personal Profile Born and raised in Canton, Bill Fincher has spent his life protecting Georgia families and standing up for what’s right.
 Bill’s roots in Cherokee County run deep.
 His father served the community as a School Board member, Mayor of Canton, and Chair of the County Commission as well as a State Senator for the district.
 Bill’s own commitment to public service follows in that same family legacy of leadership, stewardship, and dedication to Cherokee County’s long-term welfare.
@@ -16,8 +16,7 @@ Bill and Deanie have been married 48 years.
 Deanie is a retired educator from Cherokee County who spent 36 years in the school system.
 They have one adult son, Jacob and the family are active members of Canton First Methodist Church.
 They are proud supporters of History Cherokee, the Cherokee Chorale, and the Falany Performing Arts Center.
-Political Profile
-Bill Fincher is a tested and true public servant, not a fresh face seeking a political stepping stone.
+Political Profile Bill Fincher is a tested and true public servant, not a fresh face seeking a political stepping stone.
 His candidacy is a continuation of a lifetime of service focused on public protection, community stability, and problem-solving.
 Bill Fincher is a listener and a problem-solver who brings people together to get things done.
 Whether serving on church committees, leading civic organizations, or working alongside community leaders, Bill has built a record of integrity, collaboration, and steady leadership.His years as an Assistant District Attorney honed his skills as a negotiator, balancing tough decision-making with the ability to work cooperatively toward fair, principled outcomes.
@@ -27,15 +26,10 @@ He will defend the Constitution, protect pro-life policies, and safeguard the Se
 Bill will work to reduce costs, lower taxes, and keep the government operating within its means and its intended role.
 A former law enforcement professional and longtime prosecutor, Bill will back the blue and strengthen public safety.
 He will also champion Cherokee County’s excellent school system while expanding opportunities in trade and technical education to prepare the next generation for success.
-Meet the Campaign Team
-We are a dedicated team of professionals committed to delivering excellence.
-Campaign Team
-Campaigning in Canton GA
-Bill, Deanie and Jacob Fincher
-The Fincher Family
-Bill and Best Friend
-Head of Security
-Get Involved Today
-Your participation and feedback is vital to building a stronger Cherokee County.
+Meet the Campaign Team We are a dedicated team of professionals committed to delivering excellence.
+Campaign Team Campaigning in Canton GA Bill, Deanie and Jacob Fincher The Fincher Family Bill and Best Friend Head of Security Get Involved Today Your participation and feedback is vital to building a stronger Cherokee County.
 Help drive positive change for District 23.
 Together, we can address the issues that matter most to our community.
+Bill Fincher for Cherokee Official campaign site for Bill Fincher, House candidate for District 23, Cherokee County, GA.
+Focused on local issues, community engagement, and election support.
+Home About Donate Contact Paid for by Bill Fincher for Cherokee

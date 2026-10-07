@@ -1,5 +1,4 @@
-AI and Data Centers
-This issue is more important than my campaign and affects everyone, so please read, share or talk to other people about this.
+Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: AI and Data Centers This issue is more important than my campaign and affects everyone, so please read, share or talk to other people about this.
 I want to get the word out to everyone, I think this is an issue both parties can agree on.
 For those that don’t know what a data center is it is a large building with thousands of computer chips running constantly mostly to train AI.
 There are currently 4,000 data centers in the country and 2,700 more planned to open.
@@ -26,3 +25,5 @@ AI is not inherently good or bad, but without guardrails and regulations it coul
 We need to make sure we understand the effects on the environment and human health, the tech companies need to pay for the increased costs of utilities, no more NDAs and more transparency, end the tax breaks and instead let the people who live in the community around the data center share in some of the profits.
 We all have to come together to organize and make sure we protect ourselves.
 Many states are passing laws to deal with this and to put a hold on new data centers, we need to do the same here.
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

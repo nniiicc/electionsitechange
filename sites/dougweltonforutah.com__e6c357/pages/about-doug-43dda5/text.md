@@ -1,4 +1,4 @@
-Doug Isn’t a Career Politician; He’s A Substantive Leader.
+0 Skip to Content Home About Doug On The Issues Endorsements Open Menu Close Menu Open Menu Close Menu Home About Doug On The Issues Endorsements Home About Doug On The Issues Endorsements Doug Isn’t a Career Politician; He’s A Substantive Leader.
 Doug Welton currently represents District 65 in the Utah House of Representatives, a role that has allowed him to create change across a wide range of issues.
 In fact, each bill he sponsored during the most recent legislative session passed in both the House and the Senate.
 As an educator and highly-skilled debate coach, Representative Welton would often encourage his students to participate in the political process.
@@ -12,3 +12,4 @@ This experience has served him well in his current position within the Utah Hous
 Representative Welton holds a Bachelor's Degree from Utah Valley State College and a Master's Degree from Southern Utah University.
 Above all, he is proud to be a loving husband and father of four children.
 Representative Welton serves on the Higher Education Appropriations Subcommittee, House Government Operations Committee and the House Public Utilities, Energy, and Technology Committee.
+Paid for by the Committee to Elect Doug Welton

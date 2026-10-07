@@ -1,7 +1,6 @@
-top of page
-Distinctions
-Moms Demand Action is a grassroots movement of Americans fighting for public safety measures that can protect people from gun violence.
+top of page Home Everywhere Tour District Finder About Emily About Emily Endorsements My Own Words Roots of Obligation Support Emily Where's Emily?
+Calendar Volunteer Request Yard Signs Frankie DONATE Endorsements Mental Health Now NDRC Friends of the Boundary Waters Pro-Choice MN Education Minnesota Clean Water Action Minnesota StonewallDFL Women Winning MAPE DFL Rural Caucus Planned Parenthood MYDFL Caucus MN NOW PAC MN DFL Feminist Caucus Faith in Minnesota/ISAIAH MN DFL Environmental Caucus Save the Boundary Waters Action Fund Distinctions Moms Demand Action Gun Sense Candidate Distinction Moms Demand Action is a grassroots movement of Americans fighting for public safety measures that can protect people from gun violence.
 They pass stronger gun laws and work to close the loopholes that jeopardize the safety of our families.
 They also work in our own communities and with business leaders to encourage a culture of responsible gun ownership.
 We know that gun violence is preventable, and they are committed to doing what it takes to keep families safe.
-bottom of page
+Interdependence Day on Substack Emily's Voice for Democracy Campaign Contact Phone 218-308-6687 Chat Mail Like emily@emilythabesformn.com ​​ Campaign for Emily Thabes PO Box 93 Shevlin, MN 56676 ​ facebook.com/emilythabesformn DONATE Meet Frankie Info Paid for and prepared by the Campaign for Emily Thabes Home Privacy Policy Accessibility Statement bottom of page

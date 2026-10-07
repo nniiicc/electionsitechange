@@ -1,7 +1,13 @@
 {
  "description": "Find out who Craig Swartz is and why he's determined to run a campaign for a better Ohio",
  "final_url": "https://www.swartzforohio.com/about",
+ "fingerprint": "cd26d191f4ca0d16464a5f10d219cf3f58138827",
+ "format": 3,
  "paid_for_by": "Paid for by Swartz For Ohio House bottom of page",
  "title": "About Craig | Swartz For Ohio House",
- "years_mentioned": []
+ "years_mentioned": [
+  "1985",
+  "1991",
+  "2000"
+ ]
 }

@@ -1,5 +1,6 @@
-Protect Nebraska Consumers
-- When big corporations cheat Nebraskans, raise prices illegally, hide fees, or scam our seniors, the AG must take a stand and fight back.
-- This role is more important than ever because federal, independent consumer watchdog agencies are being scaled back.
+0 Skip to Content Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Open Menu Close Menu Home Priorities Get Involved Endorsements Yard Sign Request Event Calendar Voter Guide Our Ads Donate Now Protect Nebraska Consumers When big corporations cheat Nebraskans, raise prices illegally, hide fees, or scam our seniors, the AG must take a stand and fight back.
+This role is more important than ever because federal, independent consumer watchdog agencies are being scaled back.
 That role then shifts to state attorneys general.
 Jocelyn is prepared to lead on day one and make the AG’s office Nebraska’s independent consumer watchdog; and will hold corporations accountable that engage in illegal price gouging, antitrust violations, and monopolistic practices that increase costs for Nebraska families.
+Back to Priorities Connect with Jocelyn: Priorities Get Involved Contribution checks can be made payable to: Brasher for NE AG Address: P.O.
+Box 540098 Omaha, Nebraska 68154 CAMPAIGN EMAIL: vote@brasherforneag.com MEDIA INQUIRIES: media@brasherforneag.com PHONE: 402-739-9793 Paid for by BRASHER FOR NE AG Donate

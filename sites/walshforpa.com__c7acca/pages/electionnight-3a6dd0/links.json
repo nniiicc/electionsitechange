@@ -1,7 +1,22 @@
 [
-"https://facebook.com/wix",
-"https://walshforpa.com/",
-"https://walshforpa.com/about-jamie",
-"https://walshforpa.com/electionnight",
-"https://walshforpa.com/media"
+{
+"text": "ABOUT JAMIE",
+"href": "https://www.walshforpa.com/about-jamie"
+},
+{
+"text": "DONATION",
+"href": "https://www.walshforpa.com/electionnight"
+},
+{
+"text": "HOME",
+"href": "https://www.walshforpa.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.walshforpa.com/media"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+}
 ]

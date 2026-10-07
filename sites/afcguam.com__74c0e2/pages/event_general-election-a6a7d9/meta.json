@@ -1,7 +1,11 @@
 {
  "description": "General Election",
  "final_url": "https://afcguam.com/event/general-election/",
+ "fingerprint": "7ac71102c721a963bafaf38964e4f53c75219764",
+ "format": 3,
  "paid_for_by": "PAID FOR BY: ALICIA LIMTIACO FOR CONGRESS PMB 2041, 285 FARENHOLT AVE",
  "title": "General Election - Alicia for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2041"
+ ]
 }

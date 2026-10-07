@@ -1,21 +1,90 @@
 [
-"http://elect@shelley4senate.com/",
-"https://ballotapplication.elections.ny.gov/home/earlymail",
-"https://citizenparticipation.westchestergov.com/find-polling-place",
-"https://citizenparticipation.westchestergov.com/voting/early-voting-2024",
-"https://elections.ny.gov/voter-registration-process",
-"https://facebook.com/Shelley4Senate",
-"https://instagram.com/Shelley4Senate",
-"https://nyequalrights.org/",
-"https://nysenate.gov/find-my-senator",
-"https://secure.actblue.com/donate/shelley-mayer-for-ny-5",
-"https://shelley4senate.com/",
-"https://shelley4senate.com/accessibility-statement",
-"https://shelley4senate.com/endorsements",
-"https://shelley4senate.com/in-the-news",
-"https://shelley4senate.com/media",
-"https://shelley4senate.com/privacy-policy",
-"https://shelley4senate.com/volunteer",
-"https://twitter.com/Shelley4Senate",
-"https://votenydems.org/vote"
+{
+"text": "Accessibility Statement",
+"href": "https://www.shelley4senate.com/accessibility-statement/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shelley-mayer-for-ny-5"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/shelley-mayer-for-ny-5"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shelley4senate.com/endorsements/"
+},
+{
+"text": "FIND YOUR SENATOR",
+"href": "https://www.nysenate.gov/find-my-senator"
+},
+{
+"text": "Gallery",
+"href": "https://www.shelley4senate.com/media/"
+},
+{
+"text": "Home",
+"href": "https://www.shelley4senate.com/"
+},
+{
+"text": "NYS Board of Elections website",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "New Yorkers for Equal Rights Coalition website.",
+"href": "https://www.nyequalrights.org/"
+},
+{
+"text": "News",
+"href": "https://www.shelley4senate.com/in-the-news/"
+},
+{
+"text": "Online Ballot Application Portal linked here",
+"href": "https://ballotapplication.elections.ny.gov/home/earlymail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shelley4senate.com/privacy-policy/"
+},
+{
+"text": "VOTE INFO",
+"href": "https://www.votenydems.org/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shelley4senate.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.votenydems.org/vote"
+},
+{
+"text": "You can find your ballot and polling place by filling out this form.",
+"href": "https://citizenparticipation.westchestergov.com/find-polling-place"
+},
+{
+"text": "[image]",
+"href": "https://shelley4senate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Shelley4Senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Shelley4Senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Shelley4Senate/"
+},
+{
+"text": "click here",
+"href": "https://citizenparticipation.westchestergov.com/voting/early-voting-2024"
+},
+{
+"text": "copyright © #-# all rights reserved",
+"href": "http://elect@shelley4senate.com"
+}
 ]

@@ -1,12 +1,54 @@
 [
-"https://facebook.com/wallinfornc",
-"https://instagram.com/wallinfornc",
-"https://secure.actblue.com/donate/charlie-wallin-wnc",
-"https://wallinfornc.com/",
-"https://wallinfornc.com/about",
-"https://wallinfornc.com/priorities",
-"https://wallinfornc.com/privacy-policy",
-"https://wallinfornc.com/volunteer",
-"https://x.com/wallinfornc",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://wallinfornc.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/charlie-wallin-wnc"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://wallinfornc.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://wallinfornc.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://wallinfornc.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wallinfornc.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://wallinfornc.com/volunteer"
+},
+{
+"text": "[image: Wallin for NC]",
+"href": "https://wallinfornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/wallinfornc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/wallinfornc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/wallinfornc"
+},
+{
+"text": "charlie@wallinfornc.com",
+"href": "mailto:charlie@wallinfornc.com"
+}
 ]

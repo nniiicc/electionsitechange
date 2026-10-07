@@ -1,5 +1,14 @@
 [
-"https://tonydarrigo.com/community",
-"https://tonydarrigo.com/community?fcom_action=auth&redirect_to=%2Fcommunity&form=register",
-"https://tonydarrigo.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Ftonydarrigo.com%2Fcommunity%3Ffcom_action%3Dauth%26redirect_to%3D%2Fcommunity%26form%3Dlogin"
+{
+"text": "Lost your password?",
+"href": "https://tonydarrigo.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Ftonydarrigo.com%2Fcommunity%3Ffcom_action%3Dauth%26redirect_to%3D%2Fcommunity%26form%3Dlogin"
+},
+{
+"text": "Signup",
+"href": "https://tonydarrigo.com/community?fcom_action=auth&redirect_to=%2Fcommunity&form=register"
+},
+{
+"text": "[image: Site logo]",
+"href": "https://tonydarrigo.com/community/"
+}
 ]

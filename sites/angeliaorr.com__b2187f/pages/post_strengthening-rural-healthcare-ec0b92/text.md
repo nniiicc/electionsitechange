@@ -1,5 +1,5 @@
-Strengthening Rural Healthcare
-There are some things you should never have to think twice about.
+top of page Donate Facebook Twitter Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media More Use tab to navigate through the menu items.
+All Posts Search Strengthening Rural Healthcare Angelia Orr Sep 14 3 min read There are some things you should never have to think twice about.
 When your child is sick, you should be able to find a doctor.
 When your mother or father needs treatment, you should not have to wonder how far you will have to drive to get it.
 For too many rural Texans, access to quality healthcare has become a growing concern.
@@ -33,5 +33,4 @@ And I see healthcare professionals who understand that caring for their neighbor
 To all of the healthcare professionals across House District 13, thank you.
 As we look toward the future, my goal is simple: whether you live in a more populated area like Waco or in one of our smallest rural communities, your zip code should not determine the quality of healthcare available to you.
 Texas is growing, and our healthcare system needs to grow stronger with it.
-I will continue working to make sure rural Texas has a seat at the table, that our healthcare professionals have the support they need, and that every Texan has access to the care they deserve.
-— Your Conservative State Representative Angelia Orr
+I will continue working to make sure rural Texas has a seat at the table, that our healthcare professionals have the support they need, and that every Texan has access to the care they deserve. — Your Conservative State Representative Angelia Orr Recent Posts See All Government Should Work for Texans The Online Battle for Our Children Building the Foundation for Student Success Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media JOIN THE TEAM Welcome to Team Orr Facebook Twitter Donate Privacy Policy Pol Ad Paid For By Angelia Orr For Texas House PO Box 113 Itasca, TX 76055 bottom of page

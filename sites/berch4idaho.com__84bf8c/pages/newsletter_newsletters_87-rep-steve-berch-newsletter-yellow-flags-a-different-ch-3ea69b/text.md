@@ -1,5 +1,6 @@
-| |
-| Rep.
+Contact Representative Steve Berch: sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 Contribute Now Get Involved Home How to Contribute How to Volunteer Subscribe to Newsletter Back Subscribe to Newsletter Newsletter Archive (2019-present) Meet Steve Contact Request a Yard Sign!
+Rep.
+Steve Berch Newsletter: Yellow flags (a "different" charter school) Rep.
 Steve Berch Newsletter: Yellow flags (a "different" charter school) This is my second “Yellow Flag” newsletter.
 The first one discussed across-the-board cuts to the state’s budget.
 The next one will discuss Idaho’s DOGE task force.
@@ -8,14 +9,8 @@ To be clear: The concern here is not about charter schools in general.
 I support charter schools among all the many educational choices that parents have in Idaho.
 Idaho has some outstanding charter schools, many of which serve my constituents.
 The yellow flag here pertains to what type of new charter schools will be funded in part by your taxpayer dollars based on the interpretation of a new law.
-The outcome of a recent charter school application will determine if this yellow flag becomes a red flag. |
-| |
-| |
-| |
-| |
-| A "different" charter school |
-| |
-| On August 16, the Idaho Public Charter School Commission conditionally approved the Brabeion Academy charter school for a three-year term under a new law passed last year (H422).
+The outcome of a recent charter school application will determine if this yellow flag becomes a red flag.
+A "different" charter school On August 16, the Idaho Public Charter School Commission conditionally approved the Brabeion Academy charter school for a three-year term under a new law passed last year (H422).
 This approval is the first since the new law came into effect.
 The law’s vague language encourages “the use of different and innovative teaching methods.” The details of this charter school (grades K-8) are indeed “different": One teacher per 60 students (assisted by two “aides”); an estimated total of 475 students.
 School attendance required only every other day based on the notion that many young students might be better off staying home two or three days per week.
@@ -36,7 +31,7 @@ The student-teacher ratio is extremely high, especially when it comes to teachin
 There is no research, beyond anecdotes, that demonstrate if this unique hybrid approach to education would actually be effective.
 The plan to segregate students by gender may violate federal guidelines.
 The projected first-year enrollment of 475 students appeared to be unrealistic.
-Despite these concerns, the Commission decided to give Brabeion Academy a three-year authorization if it met five conditions:Sign a facility lease agreement by March 1, 2026.
+Despite these concerns, the Commission decided to give Brabeion Academy a three-year authorization if it met five conditions: Sign a facility lease agreement by March 1, 2026.
 Demonstrate a balanced year-one budget based on enrollment by June 1, 2026.
 Have all Memorandum(s) of Understanding (MOU’s) required to operate the school signed by June 1, 2026.
 Show that all grants and contracts that are part of that year-one budget are signed or delivered by June 1, 2026.
@@ -44,15 +39,16 @@ Prove sufficient transportation has been secured by June 1, 2026.
 While some people may be concerned about the school’s academic approach, uncertain funding, and the colorful background of the applicant, the greater concern is why the Charter School Commission gave this proposal any form of positive approval in the first place – especially given the laundry list of concerns it raised.
 Instead of saying, “Yes, you are granted a charter when you do the following . . .”, a more prudent decision would have been, “No, you are not granted a charter unless you first do the following . . .” There's a big difference between telling prospective donors they can safely make an investment now that the charter has been approved, versus telling them they have to make an investment before knowing if the charter will be approved.
 Of equal concern are questions about the role of the State Board of Education, which organizationally oversees the Charter School Commission.
-This is important because if a charter school fails, then traditional public schools (and thus taxpayers) are responsible for educating the charter school students when rescuing them from a failed “experiment.” |
-| |
-| |
-| Anything goes?
-This gets to the heart of the concern: What are the standards for approving a new charter school, conditional or otherwise?
+This is important because if a charter school fails, then traditional public schools (and thus taxpayers) are responsible for educating the charter school students when rescuing them from a failed “experiment.” Anything goes?
+This gets to the heart of the concern: What are the standards for approving a new charter school , conditional or otherwise?
 Does the vague language in the new law mean everything gets approved in the name of being “different and innovative?” Given all the doubts and concerns expressed by the Commission, what more would it have taken to not have granted conditional approval for this charter school?
 There are two mitigating factors pertaining to this situation that may offer some encouragement.
 The first is that this is the first charter school approved under a new, untested law.
 The Commission had no prior experience or guidance to draw from in regard to interpreting the law’s vague language.
 The second factor is that both the Idaho Public Charter School Commission and the State Board of Education were experiencing changes in leadership at the time this charter was being considered.
 Hopefully the new Chairs of each organization will establish clear standards for issuing a new charter, conditionally approving a charter request, or denying a charter request before the next application is submitted.
-Until clear standards are set, the operating rule today seems to be “anything goes.” |
+Until clear standards are set, the operating rule today seems to be “anything goes.” Steve Berch Campaign Office P.O.
+Box 4903 Boise, ID 83711 sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 SOCIAL MEDIA POLICY Legislative Committees Education Business Local Government Meet Steve Steve's Newsletters Legislature Coverage Eye on Boise Idaho Education News IPTV Idaho Reports Idaho in Session Support Steve Contribute Volunteer Contact © 2018 - 2026 by Committee to Elect Steve Berch.
+Joan Wallace, Treasurer.
+All rights reserved.
+Facebook Twitter YouTube Social Media Policy Privacy Policy Terms and Conditions

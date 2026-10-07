@@ -1,1 +1,4 @@
-Crews placing barrier by damaged dam in Bozrah decaprio4ct48th Feb 21, 2024 1 min read Updated: Mar 10, 2024 Figuring Out A Permanent Answer
+top of page RE-ELECT MARK DECAPRIO STATE REPRESENTATIVE—48TH DISTRICT Home About Mark's Record Values News Get Involved Contact More Use tab to navigate through the menu items.
+All Articles Search Crews placing barrier by damaged dam in Bozrah decaprio4ct48th Feb 21, 2024 1 min read Updated: Mar 10, 2024 Figuring Out A Permanent Answer Recent Posts See All Mark DeCaprio endorsed by CT Realtors Republican State Representative Mark DeCaprio Announces Re-Election Bid in 48th District Around the District: InCord Ribbon Cutting in Colchester SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
+Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page

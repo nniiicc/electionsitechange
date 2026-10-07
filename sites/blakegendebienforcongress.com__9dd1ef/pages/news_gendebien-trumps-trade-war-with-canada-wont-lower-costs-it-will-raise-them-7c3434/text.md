@@ -1,23 +1,16 @@
-Gendebien: Trump’s Trade War with Canada Won’t Lower Costs, It Will Raise Them
-August 26, 2026
-Gendebien: Trump’s Trade War with Canada Won’t Lower Costs, It Will Raise Them
-North Country district borders Canada, leaving local farmers and small businesses exposed
-LISBON, NY — Canada announced retaliatory tariffs Tuesday on nearly $20 billion in American goods.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Gendebien: Trump’s Trade War with Canada Won’t Lower Costs, It Will Raise Them August 26, 2026 Press Release Gendebien: Trump’s Trade War with Canada Won’t Lower Costs, It Will Raise Them North Country district borders Canada, leaving local farmers and small businesses exposed LISBON, NY — Canada announced retaliatory tariffs Tuesday on nearly $20 billion in American goods.
 The move came in response to President Trump’s 50% tariff on Canadian imports over the weekend, after trade talks between the two countries collapsed.
 Blake Gendebien, Democratic candidate for New York’s 21st Congressional District, called for an end to a trade war that is hurting the North Country.
 “Nothing about these tariffs lowers costs for anyone,” Gendebien said.
 “As a farmer and a small business owner, I feel it in real time.
-It drives up what it costs us to do business, and that gets passed straight down to families at the grocery store.”
-Gendebien, a second-generation dairy farmer who spent a decade representing farmers across the region as Vice Chair of the Agri-Mark cooperative board, said he understands the frustration with Canada on trade, but refuses to jeopardize a relationship the North Country relies on.
+It drives up what it costs us to do business, and that gets passed straight down to families at the grocery store.” Gendebien, a second-generation dairy farmer who spent a decade representing farmers across the region as Vice Chair of the Agri-Mark cooperative board, said he understands the frustration with Canada on trade, but refuses to jeopardize a relationship the North Country relies on.
 “I’ll be the first to say Canada hasn’t always played fair on dairy market access,” Gendebien said.
-“But, this administration keeps launching wars, both on the battlefield and in trade, and it’s our farmers, small business owners, and working families in the North Country who are left paying the price through higher costs and uncertainty they can’t plan around.
-Canada isn’t our rival, they’re our neighbors and our customers, and it’s time Washington started acting like it.”
-Cross-border traffic over the Ogdensburg-Prescott Bridge, a lifeline for North Country trade, has already declined, and Canada’s countertariffs specifically target sectors vital to the region’s economy, including dairy and agricultural equipment, with new duties set to hit September 8.
+“But, t his administration keeps launching wars, both on the battlefield and in trade, and it’s our farmers, small business owners, and working families in the North Country who are left paying the price through higher costs and uncertainty they can’t plan around.
+Canada isn’t our rival, they’re our neighbors and our customers, and it’s time Washington started acting like it.” Cross-border traffic over the Ogdensburg-Prescott Bridge, a lifeline for North Country trade, has already declined, and Canada’s countertariffs specifically target sectors vital to the region’s economy, including dairy and agricultural equipment, with new duties set to hit September 8.
 “My opponent has spent this campaign cheerleading whatever comes out of Washington instead of standing up for this district,” Gendebien said.
 “North Country families don’t need another rubber stamp in Congress.
-They need someone who knows firsthand how much our businesses depend on trade with Canada, has actually run a farm, and won’t be afraid to tell either party when they’re getting it wrong.”
-###
-Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+They need someone who knows firsthand how much our businesses depend on trade with Canada, has actually run a farm, and won’t be afraid to tell either party when they’re getting it wrong.” ### Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
 Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
 For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
 He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.
+Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

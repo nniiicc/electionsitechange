@@ -1,29 +1,114 @@
 [
-"https://atjactionfund.org/",
-"https://climatecabinet.org/candidates/zach-herbert",
-"https://democraticredistricting.com/",
-"https://facebook.com/TXDWD",
-"https://garlanddemocrats.org/",
-"https://mobilize.us/zach4texas",
-"https://momsdemandaction.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-texas-votes/gotv",
-"https://rad.vote/",
-"https://secure.actblue.com/donate/zach4texas",
-"https://stonewalldemocratsofdallas.com/",
-"https://texasaflcio.org/",
-"https://texasaft.org/",
-"https://texasasiandemocrats.org/",
-"https://tsta.org/",
-"https://votevets.org/",
-"https://zach4texas.com/",
-"https://zach4texas.com/about-2",
-"https://zach4texas.com/contact-2",
-"https://zach4texas.com/economic-opportunity",
-"https://zach4texas.com/education",
-"https://zach4texas.com/endorsements",
-"https://zach4texas.com/faq",
-"https://zach4texas.com/healthcare-access",
-"https://zach4texas.com/issues",
-"https://zach4texas.com/voting",
-"https://zach4texas.com/workers-rights"
+{
+"text": "About",
+"href": "https://zach4texas.com/about-2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zach4texas"
+},
+{
+"text": "Economic Opportunity",
+"href": "https://zach4texas.com/economic-opportunity/"
+},
+{
+"text": "Education",
+"href": "https://zach4texas.com/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://zach4texas.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/zach4texas/"
+},
+{
+"text": "FAQ",
+"href": "https://zach4texas.com/faq/"
+},
+{
+"text": "Get Involved/Contact",
+"href": "https://zach4texas.com/contact-2/"
+},
+{
+"text": "Healthcare Access",
+"href": "https://zach4texas.com/healthcare-access/"
+},
+{
+"text": "Home",
+"href": "https://zach4texas.com/"
+},
+{
+"text": "Issues",
+"href": "https://zach4texas.com/issues/"
+},
+{
+"text": "Voting",
+"href": "https://zach4texas.com/voting/"
+},
+{
+"text": "Workers Rights",
+"href": "https://zach4texas.com/workers-rights/"
+},
+{
+"text": "[image]",
+"href": "https://climatecabinet.org/candidates/zach-herbert"
+},
+{
+"text": "[image]",
+"href": "https://democraticredistricting.com/"
+},
+{
+"text": "[image]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://rad.vote/"
+},
+{
+"text": "[image]",
+"href": "https://texasaflcio.org/"
+},
+{
+"text": "[image]",
+"href": "https://texasasiandemocrats.org/"
+},
+{
+"text": "[image]",
+"href": "https://tsta.org/"
+},
+{
+"text": "[image]",
+"href": "https://votevets.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.atjactionfund.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/TXDWD/"
+},
+{
+"text": "[image]",
+"href": "https://www.garlanddemocrats.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes/gotv"
+},
+{
+"text": "[image]",
+"href": "https://www.stonewalldemocratsofdallas.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.texasaft.org/"
+},
+{
+"text": "[image]",
+"href": "https://zach4texas.com"
+}
 ]

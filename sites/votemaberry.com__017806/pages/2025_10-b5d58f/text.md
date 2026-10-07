@@ -1,5 +1,3 @@
-Campaign Kick-Off & Fundraiser
-Deputy Speaker Curtis Johnson, Senator Bill Powers, Mayor Jim Durrett and Kevin Kennedy Sr., alongside campaign Co-Chairs Ronnie Moore and Philip Hagewood invite you to join us for the re-election campaign Kick-Off for Representative Aron Maberry!
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute October 2025 October 8, 2025 Campaign Kick-Off & Fundraiser Deputy Speaker Curtis Johnson, Senator Bill Powers, Mayor Jim Durrett and Kevin Kennedy Sr., alongside campaign Co-Chairs Ronnie Moore and Philip Hagewood invite you to join us for the re-election campaign Kick-Off for Representative Aron Maberry!
 This will be an exciting evening to celebrate how far we’ve come — and to set our sights on the work still ahead.
-Over …
-Continue reading
+Over … Continue reading About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

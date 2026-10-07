@@ -1,10 +1,4 @@
-Back to All Events
-The IDC will host a live debate featuring all four candidates for Indiana Secretary of State.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Back to All Events Indiana Debate Commission Secretary of State Debate Wednesday, October 7, 2026 7:00 PM 8:00 PM Google Calendar ICS The IDC will host a live debate featuring all four candidates for Indiana Secretary of State.
 The debate will be livestreamed from WFYI Public Television Studios in Indianapolis and will be available to watch through WFYI Public Television, WFYI’s YouTube channel, and the Indiana Debate Commission’s website.
-Previous
-Previous
-October 4
-Riley Days - Greenfield IN
-Next
-Next
-October 13
+Previous Previous October 4 Riley Days - Greenfield IN Next Next October 13 Rotary Club of Indiana Conversation with Secretary of State Candidates Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

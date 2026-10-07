@@ -1,7 +1,11 @@
 {
  "description": "Endorsements",
  "final_url": "https://www.elizaforcolorado.com/endorsements/",
- "paid_for_by": null,
+ "fingerprint": "da24493c6367e8c16d2f6f375c113d013eb78f6c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements | Eliza Hamrick for Colorado",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

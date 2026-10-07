@@ -1,4 +1,5 @@
-The Baltimore County Council will hold a hearing tomorrow (Tuesday) at 4pm on the planned redistricting map for County Council and Board of Education districts for the next ten years.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Baltimore County Fair Maps The Baltimore County Council will hold a hearing tomorrow (Tuesday) at 4pm on the planned redistricting map for County Council and Board of Education districts for the next ten years.
 With Baltimore County population now 30% Black and 48% people of color, under the Voting Rights Act the county should have at least two majority Black districts and one majority-minority district.
 Yet the proposed map has only one majority Black district (District 4) and six districts with either white majority or white plurality.
 The Randallstown NAACP, the Baltimore County NAACP, the ACLU, and District 44B community leaders like Ms.
@@ -9,4 +10,9 @@ Speaker registration will be open tomorrow 9am – 3pm on the Council website.
 Sign up here to receive instructions on how to sign up and more information.
 The County Council says that it’s not possible to draw maps with more than one Black majority district without dividing communities.
 Yet Black communities like Woodlawn and Villa Nova are already divided, both in the current maps and in the proposed map.
-Unifying either of these communities in District 1 or District 2 respectively would help to create a second majority Black district.Here are two articles with more information:
+Unifying either of these communities in District 1 or District 2 respectively would help to create a second majority Black district.Here are two articles with more information: Baltimore County presses on with redistricting proposal despite criticism there is only one majority Black district (Baltimore Sun) Debate over redistricting goes before Baltimore County Council Tuesday (WYPR) Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

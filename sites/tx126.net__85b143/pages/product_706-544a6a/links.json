@@ -1,10 +1,42 @@
 [
-"https://tx126.net/",
-"https://tx126.net/cart",
-"https://tx126.net/my-account",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/product-category/general-donation",
-"https://tx126.net/product/706",
-"https://tx126.net/register",
-"https://tx126.net/wp-content/uploads/2026/01/ThePath-scaled.jpg"
+{
+"text": "Cancel reply",
+"href": "https://www.tx126.net/product/706/#respond"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "General Donation",
+"href": "https://www.tx126.net/product-category/general-donation/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "[image: Campaign Donation]",
+"href": "https://www.tx126.net/wp-content/uploads/2026/01/ThePath-scaled.jpg"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+},
+{
+"text": "logged in",
+"href": "https://www.tx126.net/my-account/"
+}
 ]

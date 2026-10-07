@@ -1,13 +1,10 @@
-Serving the Lamoille-Washington District in the Vermont House of Representatives
-Press
-- Lamoille-Washington House district candidates share their priorities as election gets closer Read about Rep.
-LaMont's vision for her next term in office
-- Central Vermont Regional Council's Candidate Forum from October 4th in Barre Watch 12 candidates discuss issues of interest ranging from affordable childcare to flood relief.
-- NAACP Candidates of Color Forum The Rutland Area NAACP and the Windham County NAACP are honored to host a critical panel discussion that aims to amplify the voices of BIPOC leaders running for state office in Vermont.
+0 Skip to Content About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Serving the Lamoille-Washington District in the Vermont House of Representatives Representative Saudia LaMont Vermont House of Representatives I am a mother, organizer, advocate, facilitator, trainer, writer, and equity and transformative-justice consultant who lives in Morrisville.
+For more than a decade, my work has centered on equity, inclusion, youth development, community wellness, and helping people build stronger connections.
+I have served as an early-childhood educator and youth advocate, founded Developing D.I.I.V.A.S. to empower young women, and trained others in Prevent Child Abuse Vermont curricula.
+I currently serve on the Board of Directors of Laraway Youth and Family Services and facilitate the Lamoille Equity Team.
+Since joining the Vermont House in 2023, I have worked to bring constituent experiences and people-centered policy into the State House.
+VT General Assembly Website Press Lamoille-Washington House district candidates share their priorities as election gets closer Read about Rep.
+LaMont's vision for her next term in office Click Here Central Vermont Regional Council's Candidate Forum from October 4th in Barre Watch 12 candidates discuss issues of interest ranging from affordable childcare to flood relief.
+Watch Here NAACP Candidates of Color Forum The Rutland Area NAACP and the Windham County NAACP are honored to host a critical panel discussion that aims to amplify the voices of BIPOC leaders running for state office in Vermont.
 This is a non-partisan platform for these candidates to discuss their policy positions, their goals and dreams for Vermont, and the unique experiences that led them to seek office.
-- Stowe Reporter/News & Citizen May 16, 2024: Past and present Democrats seek future in House
-- Vermont Public Live from the Statehouse Lawmakers share their priorities for the new sessions here
-- VPR 'I saw an accurate reflection of me.' Two Black women on witnessing Judge Ketanji Brown Jackson's confirmation hearings
-- NBC5 Group of Vermonters present for Supreme Court confirmation hearings
-- VTDigger Vermont Conversation: Black Lives Matter in a Vermont town
-- Vermont Biz Emerging Vermont leaders build anti-racist culture
+Watch Here Stowe Reporter/News & Citizen May 16, 2024: Past and present Democrats seek future in House Read Vermont Public Live from the Statehouse Lawmakers share their priorities for the new sessions here Listen VPR 'I saw an accurate reflection of me.' Two Black women on witnessing Judge Ketanji Brown Jackson's confirmation hearings Read NBC5 Group of Vermonters present for Supreme Court confirmation hearings Read VTDigger Vermont Conversation: Black Lives Matter in a Vermont town Read Vermont Biz Emerging Vermont leaders build anti-racist culture Read Donate Register to vote LaMont for Vermont lamontforvermont@gmail.com (802) 335-2334 PO Box 333 Morrisville VT 05661

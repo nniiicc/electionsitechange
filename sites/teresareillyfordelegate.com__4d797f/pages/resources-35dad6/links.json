@@ -1,20 +1,82 @@
 [
-"http://ccgov.org/",
-"http://harfordcountymd.gov/",
-"http://mdelect.net/",
-"http://mlis.state.md.us/",
-"http://msa.maryland.gov/msa/mdmanual/06hse/html/msa17075.html",
-"http://teresareillyfordelegate.com/",
-"http://teresareillyfordelegate.com/about",
-"http://teresareillyfordelegate.com/category/news",
-"http://teresareillyfordelegate.com/contact-us",
-"http://teresareillyfordelegate.com/newsletter",
-"http://teresareillyfordelegate.com/priorities",
-"http://teresareillyfordelegate.com/requestasign",
-"http://teresareillyfordelegate.com/resources",
-"http://teresareillyfordelegate.com/scholarship",
-"http://tutorialchip.com/",
-"http://wordpress.org/",
-"https://facebook.com/pages/Delegate-Teresa-Reilly/529074263829459",
-"https://marylandhousegop.com/"
+{
+"text": "About",
+"href": "http://teresareillyfordelegate.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "http://teresareillyfordelegate.com/contact-us/"
+},
+{
+"text": "Home",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "News",
+"href": "http://teresareillyfordelegate.com/category/news/"
+},
+{
+"text": "Priorities",
+"href": "http://teresareillyfordelegate.com/priorities/"
+},
+{
+"text": "Resources",
+"href": "http://teresareillyfordelegate.com/resources/"
+},
+{
+"text": "Scholarship",
+"href": "http://teresareillyfordelegate.com/scholarship/"
+},
+{
+"text": "TutorialChip",
+"href": "http://www.tutorialchip.com/"
+},
+{
+"text": "WordPress 5.4.16",
+"href": "http://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/requestasign/"
+},
+{
+"text": "[no text]",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "http://https://marylandhousegop.com",
+"href": "https://marylandhousegop.com"
+},
+{
+"text": "http://mdelect.net/",
+"href": "http://mdelect.net/"
+},
+{
+"text": "http://mlis.state.md.us/",
+"href": "http://mlis.state.md.us/"
+},
+{
+"text": "http://msa.maryland.gov/msa/mdmanual/06hse/html/msa17075.html",
+"href": "http://msa.maryland.gov/msa/mdmanual/06hse/html/msa17075.html"
+},
+{
+"text": "http://www.ccgov.org/",
+"href": "http://www.ccgov.org/"
+},
+{
+"text": "http://www.harfordcountymd.gov",
+"href": "http://www.harfordcountymd.gov"
+},
+{
+"text": "https://www.facebook.com/pages/Delegate-Teresa-Reilly/529074263829459",
+"href": "https://www.facebook.com/pages/Delegate-Teresa-Reilly/529074263829459"
+},
+{
+"text": "weekly e-newsletters",
+"href": "http://teresareillyfordelegate.com/newsletter"
+}
 ]

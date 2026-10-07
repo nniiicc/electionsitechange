@@ -1,6 +1,6 @@
+top of page DONATE More Use tab to navigate through the menu items.
 Leadership you can count on, values you can trust.
-About Pamela
-A proven leader, Pamela, believes our 63rd Michigan House district needs someone who knows the issues and has an established conservative voting record.
+About Pamela A proven leader, Pamela, believes our 63rd Michigan House district needs someone who knows the issues and has an established conservative voting record.
 During her six years as a State Representative, Pamela never missed a House session or committee meeting and never missed a vote.
 She cast 3,721 roll call votes over three terms.
 Previously representing the citizens of Macomb and St.
@@ -20,3 +20,5 @@ Her teaching certification is from Wayne State University.
 She earned a Bachelor of Science from Michigan State University.
 Prior to college, Pamela worked at Metrics Unlimited Inc., an industrial tool supply company started by her parents in 1973.
 By far, Pamela's greatest accomplishment is her daughter, a chemical engineer who graduated from Kettering University with honors.
+DONATE More Use tab to navigate through the menu items.
+Paid for by Pamela Hornberger for State Representative, 53611 Katarina Dr., Chesterfield, MI 48051 bottom of page

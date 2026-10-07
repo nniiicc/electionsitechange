@@ -1,20 +1,15 @@
-Early voting in the May 21 primary election begins on April 29.
-This Q&A is part of our coverage of the Decaturish 2024 elections.
+Home About Mary Margaret Voting Info Press Newsletters Request a Yard Sign DONATE April 24, 2024 Candidate Q&A – Mary Margaret Oliver Early voting in the May 21 primary election begins on April 29.
+This Q&A is part of our coverage of the Decaturish 2024 elections .
 Senate and House maps have changed this year due to redistricting.
 Please check your ballot to determine if your Senate or House district has changed.
-To see the new maps for state House races, click here.
-To see the new maps for state Senate races, click here.
-To view your ballot for the May 21 primary election, visit the Georgia Secretary of State’s My Voter page by clicking here.
+To see the new maps for state House races, click here .
+To see the new maps for state Senate races, click here .
+To view your ballot for the May 21 primary election, visit the Georgia Secretary of State’s My Voter page by clicking here .
+Early voting in the May 21 primary election begins on April 29.
 The answers have not been edited and are published in the order they were received.
-House District 84
-Mary Margaret Oliver (Incumbent)
-Mary Margaret Oliver
-Campaign website and social media pages: marymargaretoliver.org, Twitter/X – mmo_mary, Facebook – Mary Margaret Oliver for House District 84, Instagram
-What is your occupation?
-Lawyer and State Representative
-What is the neighborhood you call home?
-Druid Hills
-Can you tell us anything about yourself or your life that you think is important for voters to know?
+House District 84 Mary Margaret Oliver (Incumbent) Mary Margaret Oliver Campaign website and social media pages: marymargaretoliver.org , Twitter/X – mmo_mary, Facebook – Mary Margaret Oliver for House District 84, Instagram What is your occupation?
+Lawyer and State Representative What is the neighborhood you call home?
+Druid Hills Can you tell us anything about yourself or your life that you think is important for voters to know?
 I enjoy learning about issues in depth, and I am good at resolving conflicts.
 Why are you running for this position?
 I have experience and relationships in the Capitol that are useful in serving my constituents.
@@ -59,8 +54,7 @@ The 60% method should also include a referendum, and there should be a mandate t
 Voters should be given more information on service delivery contracts and how tax burdens would be shared.
 As local cities and counties grapple with housing affordability and housing diversity, what should the legislature do to support more access to affordable housing?
 The General Assembly should provide incentives for greater density and expanded zoning options.
-Development Authority incentives for multi-use or apartment projects must be offered only contingent upon provision of affordable housing
-Do you think Medicaid should be expanded?
+Development Authority incentives for multi-use or apartment projects must be offered only contingent upon provision of affordable housing Do you think Medicaid should be expanded?
 Why or why not?
 Medicaid should be expanded, which will improve access to quality medical care for all Georgians.
 The current system is inequitable, costly, and injurious to all voters.
@@ -86,3 +80,4 @@ Too much of the lottery surplus is from general revenue, and other authorities o
 If elected, do you promise to conduct yourself in an ethical and transparent manner?
 What will you do to promote ethics and transparency in government?
 My record speaks for itself in promoting ethics and transparency in government.
+Back to News Recent posts August 28, 2026 Summer Fun and Summer Work September 9, 2026 Georgia child welfare agency's surveillance tools raise privacy concerns June 28, 2026 Special Session Recap and Happy 4th! mmo@mmolaw.com

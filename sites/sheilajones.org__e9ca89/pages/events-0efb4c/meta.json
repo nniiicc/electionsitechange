@@ -1,7 +1,12 @@
 {
  "description": "Events for Representative Sheila Jones in the community or at the capital.",
  "final_url": "https://www.sheilajones.org/events",
- "paid_for_by": null,
+ "fingerprint": "bdaefc1c7910192c43ab1c6bad6ef9f351d43638",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Representative Sheila Jones",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2026"
+ ]
 }

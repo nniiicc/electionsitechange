@@ -1,10 +1,34 @@
 [
-"https://lloydjohnson4az.com/",
-"https://lloydjohnson4az.com/about-lloyd",
-"https://lloydjohnson4az.com/contact-lloyd",
-"https://lloydjohnson4az.com/help-lloyd",
-"https://lloydjohnson4az.com/issues",
-"https://lloydjohnson4az.com/ld6-map",
-"https://lloydjohnson4az.com/portfolio",
-"https://lloydjohnson4az.com/upcoming-events"
+{
+"text": "About Lloyd",
+"href": "https://www.lloydjohnson4az.com/about-lloyd"
+},
+{
+"text": "Contact Lloyd",
+"href": "https://www.lloydjohnson4az.com/contact-lloyd"
+},
+{
+"text": "Home",
+"href": "https://www.lloydjohnson4az.com"
+},
+{
+"text": "Issues",
+"href": "https://www.lloydjohnson4az.com/issues"
+},
+{
+"text": "LD6 Map",
+"href": "https://www.lloydjohnson4az.com/ld6-map"
+},
+{
+"text": "Please Help",
+"href": "https://www.lloydjohnson4az.com/help-lloyd"
+},
+{
+"text": "Portfolio",
+"href": "https://www.lloydjohnson4az.com/portfolio"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.lloydjohnson4az.com/upcoming-events"
+}
 ]

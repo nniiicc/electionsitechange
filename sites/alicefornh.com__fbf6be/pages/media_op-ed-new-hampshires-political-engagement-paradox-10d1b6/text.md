@@ -1,5 +1,4 @@
-Op-Ed: New Hampshire’s Political Engagement Paradox
-The size of New Hampshire’s state legislature is quite unique among its peers, not just around the US, but around the globe.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: New Hampshire’s Political Engagement Paradox Jan 30 Written By Alice Wade The size of New Hampshire’s state legislature is quite unique among its peers, not just around the US, but around the globe.
 With 400 State Representatives and 24 Senators, we have more legislators than many developed countries, despite being one of the smallest states in the US.
 With approximately 3,500 people per representative and the first-in-the-nation presidential primary, New Hampshire is known for having very politically engaged citizens.
 But is this really the case?
@@ -39,3 +38,4 @@ All of which would help legislators better serve the people of New Hampshire.
 These issues are ingrained in the structure of our legislature, and they have remained stubborn despite many attempts at reform.
 There is no one way to solve this overnight, but we should be having the conversation.
 If we want New Hampshire’s legislature to truly reflect the voices of all Granite Staters, we must prioritize reforms that make participation feasible for everyone, not just the privileged few.
+Alice Wade Previous Previous Op-Ed: Snake Oil Salesman in Chief Next Next Op-Ed: The local ripple effect, Creating change close to home Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

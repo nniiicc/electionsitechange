@@ -1,10 +1,11 @@
 {
- "description": "Find upcoming campaign events for Senator Lynn Evans across Buena Vista, O\u2019Brien, Cherokee, Osceola, and Clay counties. Come meet your state senator today.",
+ "description": "Find upcoming campaign events for Senator Lynn Evans across Buena Vista, O’Brien, Cherokee, Osceola, and Clay counties. Come meet your state senator today.",
  "final_url": "https://lynnevansforiowa.com/upcoming-events",
- "paid_for_by": null,
+ "fingerprint": "ba1c00af555ec4b99c8c96851ce65cee7798c982",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Lynn Evans Campaign | Iowa Senate District 3",
  "years_mentioned": [
-  "2025",
   "2026"
  ]
 }

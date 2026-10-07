@@ -1,5 +1,5 @@
-Ken Jackola is the Conservative Leader We Can Trust
-The mayor of Lebanon, a United States Army combat veteran, and a lifelong conservative, Ken Jackola is the Republican leader we can trust to be our voice in Salem.
+0 Skip to Content Home About Endorsements Issues Get Involved Contribute Open Menu Close Menu Home About Endorsements Issues Get Involved Contribute Open Menu Close Menu Home About Endorsements Issues Get Involved Contribute Ken Jackola is the Conservative Leader We Can Trust The mayor of Lebanon, a United States Army combat veteran, and a lifelong conservative, Ken Jackola is the Republican leader we can trust to be our voice in Salem.
 “I’m announcing my candidacy and stepping up to ensure our local voices are heard in Salem.
-I’ll fight against new taxes, advocate for living-wage jobs and protect the Second Amendment rights of Oregonians while bringing a local perspective as the mayor of a rural community to government decisions in Salem.”
-— Ken Jackola
+I’ll fight against new taxes, advocate for living-wage jobs and protect the Second Amendment rights of Oregonians while bringing a local perspective as the mayor of a rural community to government decisions in Salem.” — Ken Jackola Learn More About Ken Ken Jackola for Oregon PO Box 631, Lebanon, OR 97355 ( 541)619-6978 | ken@votekenjackola.com Ken Jackola is a former member of the United States Army and the Oregon Army National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement from the Department of Defense or the US Army.
+PAID FOR By KEN JACKOLA FOR OREGON (24696) About ‍ ‍ Terms and Conditions Privacy Policy

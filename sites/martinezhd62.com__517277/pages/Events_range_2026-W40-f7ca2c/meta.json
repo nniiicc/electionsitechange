@@ -1,7 +1,11 @@
 {
  "description": "Constituency Events for Representative Matthew Martinez",
  "final_url": "https://www.martinezhd62.com/Events?range=2026-W40",
+ "fingerprint": "c1f841070fd38108824f4f6f5002875cdef56e86",
+ "format": 3,
  "paid_for_by": "Paid for By The Friends of Matthew Martinez Powered by CampaignPartner",
  "title": "Matthew Martinez Constituency Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

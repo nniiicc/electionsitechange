@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://coffeeforjudge.com/",
- "paid_for_by": null,
+ "fingerprint": "6b8ec0dd6e1617314fffa095e7627e7e62b7d52b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Coffee For Judge",
  "years_mentioned": [
+  "1999",
   "2014",
   "2026"
  ]

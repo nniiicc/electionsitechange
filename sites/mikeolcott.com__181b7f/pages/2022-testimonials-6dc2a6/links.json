@@ -1,15 +1,58 @@
 [
-"http://facebook.com/votemikeolcott",
-"http://twitter.com/olcott4texas",
-"https://mikeolcott.com/",
-"https://mikeolcott.com/2022-endorsements",
-"https://mikeolcott.com/2022-testimonials",
-"https://mikeolcott.com/2024-endorsements",
-"https://mikeolcott.com/2026-endorsements",
-"https://mikeolcott.com/about",
-"https://mikeolcott.com/contact-form",
-"https://mikeolcott.com/donate",
-"https://mikeolcott.com/issues",
-"https://mikeolcott.com/october-19-fundraiser",
-"https://mikeolcott.com/vote"
+{
+"text": "2022 Endorsements",
+"href": "https://mikeolcott.com/2022-endorsements/"
+},
+{
+"text": "2022 Testimonials",
+"href": "https://mikeolcott.com/2022-testimonials/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://mikeolcott.com/2024-endorsements/"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://mikeolcott.com/2026-endorsements/"
+},
+{
+"text": "About",
+"href": "https://mikeolcott.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://mikeolcott.com/contact-form/"
+},
+{
+"text": "Donate",
+"href": "https://mikeolcott.com/donate/"
+},
+{
+"text": "Follow",
+"href": "http://facebook.com/votemikeolcott/"
+},
+{
+"text": "Follow",
+"href": "http://twitter.com/olcott4texas"
+},
+{
+"text": "Home",
+"href": "https://mikeolcott.com/"
+},
+{
+"text": "Issues",
+"href": "https://mikeolcott.com/issues/"
+},
+{
+"text": "October 19 Event",
+"href": "https://mikeolcott.com/october-19-fundraiser/"
+},
+{
+"text": "Vote",
+"href": "https://mikeolcott.com/vote/"
+},
+{
+"text": "[image: Mike Olcott for Texas House]",
+"href": "https://mikeolcott.com/"
+}
 ]

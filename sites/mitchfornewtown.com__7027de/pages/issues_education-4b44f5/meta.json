@@ -1,6 +1,8 @@
 {
  "description": "EDUCATION",
  "final_url": "https://www.mitchfornewtown.com/issues/education",
+ "fingerprint": "7a83291507ae3b2a62b2787bdaadb61d1d4e7234",
+ "format": 3,
  "paid_for_by": "Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer",
  "title": "EDUCATION",
  "years_mentioned": [
@@ -12,6 +14,7 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

@@ -1,12 +1,42 @@
 [
-"https://elegantthemes.com/",
-"https://eventbrite.com/e/freedom-fest-24-tickets-991677633497",
-"https://facebook.com/profile.php?id=61553813184948",
-"https://instagram.com/wethetaxpayers",
-"https://politics.raisethemoney.com/en/sbarger",
-"https://wethetaxpayers.org/",
-"https://wethetaxpayers.org/facebook-scott-barger",
-"https://wethetaxpayers.org/scott-barger",
-"https://wordpress.org/",
-"https://youtube.com/channel/UCvOw7TfYfOpBhlT_StFeJzw"
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/sbarger"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Facebook",
+"href": "https://wethetaxpayers.org/facebook-scott-barger/"
+},
+{
+"text": "Get Tickets",
+"href": "https://www.eventbrite.com/e/freedom-fest-24-tickets-991677633497"
+},
+{
+"text": "Instagram",
+"href": "https://wethetaxpayers.org/scott-barger/"
+},
+{
+"text": "Menu Item",
+"href": "https://www.facebook.com/profile.php?id=61553813184948"
+},
+{
+"text": "Menu Item",
+"href": "https://www.instagram.com/wethetaxpayers/"
+},
+{
+"text": "Menu Item",
+"href": "https://www.youtube.com/channel/UCvOw7TfYfOpBhlT_StFeJzw"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "[image: We The Taxpayers]",
+"href": "https://wethetaxpayers.org/"
+}
 ]

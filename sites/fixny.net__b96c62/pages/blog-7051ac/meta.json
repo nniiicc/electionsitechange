@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.fixny.net/blog",
- "paid_for_by": null,
+ "fingerprint": "52a4f269e5f59a3156bb346a355a72e11d56acac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "UPDATES | My Site",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

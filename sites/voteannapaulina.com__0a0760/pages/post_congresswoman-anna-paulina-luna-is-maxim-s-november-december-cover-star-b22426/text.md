@@ -1,10 +1,9 @@
-Congresswoman Anna Paulina Luna Is Maxim’s November/December Cover Star
-Updated: Sep 17
-Florida Rep.
+top of page MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
+Congresswoman Anna Paulina Luna Is Maxim’s November/December Cover Star Anna Paulina Luna Nov 1, 2024 8 min read Updated: Sep 17 Florida Rep.
 Anna Paulina Luna has blazed an unlikely trail to Capitol Hill.
-A decade ago, she appeared as a Maxim model driving a cherry-red Chevy Nova SS.
+A decade ago, she appeared as a Maxim model driving a cherry-red Chevy Nova SS .
 Now, at 35, she’s not only the youngest Republican in the House and the first Mexican-American representative from Florida, but she’s back in Maxim, proving that power and glamour are not mutually exclusive.
-In our interview, Luna, who represents Florida’s 13th congressional district, opens up about her path from a challenging childhood to the corridors of government.
+In our interview, Luna , who represents Florida’s 13th congressional district, opens up about her path from a challenging childhood to the corridors of government.
 She also reveals, for the first time, details about her difficult upbringing.
 The Congresswoman talks candidly about her military service and her unexpected foray into politics.
 How would you describe your childhood?
@@ -122,8 +121,7 @@ Who’s a better shot, you or your husband, Andrew?
 I’m actually a pretty good shot, but in all honesty, he’s better.
 Andrew was a U.S.
 Air Force combat controller and went to sniper school.
-Combat controllers are some of the most highly trained military special operators in the Department of Defense, so he has had a bit more range time. [Laughs]
-What music do you like to listen to?
+Combat controllers are some of the most highly trained military special operators in the Department of Defense, so he has had a bit more range time. [Laughs] What music do you like to listen to?
 I’m a big fan of Led Zeppelin.
 “When the Levee Breaks” is one of my favorite songs, but my Spotify playlist includes everything from Max Richter to J.
 Cole to Artemas.
@@ -132,3 +130,7 @@ The historical archives at the Vatican.
 Will you let Maxim be the first to know when you run for president of the United States?
 Of course…if I do.
 But right now, I’m focused on representing the amazing people of Pinellas County and Florida’s 13th congressional district.
+This article appears in Maxim's November/December 2024 issue.
+Recent Posts See All Luna Calls for Quick Expulsion of Swalwell as Ethics Panel Opens Inquiry Florida Politics: ‘Root it out’: Anna Paulina Luna makes pitch for insider trading ban in speech to RNC Bay News 9: 11-year beach renourishment standoff ends with Army Corps, Pinellas County agreement DONATE MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
+Anna Paulina Luna for Congress 1201 Gandy Boulevard North PO Box 23064 St.
+Petersburg, FL 33742 PRIVACY POLICY PAID FOR BY ANNA PAULINA LUNA FOR CONGRESS bottom of page

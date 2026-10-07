@@ -1,4 +1,10 @@
-Meet Vicki Werneke, the friend you need in the Oklahoma Legislature.
+0 Skip to Content What Vicki will do for YOU Donate Yes on 832!
+About Vicki Do I live in HD 92?
+District Map Voter Resources Official Oklahoma Voter Resources Learn more Contact Open Menu Close Menu What Vicki will do for YOU Donate Yes on 832!
+About Vicki Do I live in HD 92?
+District Map Voter Resources Official Oklahoma Voter Resources Learn more Contact Open Menu Close Menu What Vicki will do for YOU Donate Yes on 832!
+About Vicki Folder: Do I live in HD 92?
+Back District Map Folder: Voter Resources Back Official Oklahoma Voter Resources Learn more Contact Meet Vicki Werneke, the friend you need in the Oklahoma Legislature.
 After retiring from over 30 years as a state and federal public defender, Vicki is ready to step-up and represent HD 92 with determination and hope.
 Vicki first found herself in OKC in 1982 after graduating high school in North Dakota.
 She found the city to be just where she belonged while assisting her mother with her work on the Oklahoma ERA Countdown Campaign.
@@ -20,6 +26,6 @@ When she moved back home to Oklahoma she also returned to her spiritual home May
 She serves on the church’s Board of Trustees and is driver for their Meals on Wheels program.
 Joining the House of Representatives at a time when our political climate is so divisive is right up Vicki’s alley.
 With those years of hard work in the federal court system and a go-getter attitude she can show up, and fight for her neighbors with a positive attitude.
-Contact us
-Fill out some info and we will be in touch shortly.
+Contact us Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Paid for by wernekeforhd92 Oklahoma Primary June 16th, 2026 Photography by Rachel Waters rachelwaters.co

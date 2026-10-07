@@ -1,11 +1,46 @@
 [
-"https://huldahforhouse.com/",
-"https://huldahforhouse.com/about",
-"https://huldahforhouse.com/donate",
-"https://huldahforhouse.com/endorsements",
-"https://huldahforhouse.com/issues",
-"https://huldahforhouse.com/join-us",
-"https://huldahforhouse.com/platform",
-"https://huldahforhouse.com/vote",
-"https://secure.actblue.com/donate/huldah4house"
+{
+"text": "ABOUT",
+"href": "https://www.huldahforhouse.com/about"
+},
+{
+"text": "AT THE MN HOUSE",
+"href": "https://www.huldahforhouse.com/issues"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/huldah4house"
+},
+{
+"text": "DONATE",
+"href": "https://www.huldahforhouse.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.huldahforhouse.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.huldahforhouse.com"
+},
+{
+"text": "JOIN US",
+"href": "https://www.huldahforhouse.com/join-us"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.huldahforhouse.com/platform"
+},
+{
+"text": "SUPPORT THE CAMPAIGN",
+"href": "https://www.huldahforhouse.com/join-us"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.huldahforhouse.com/vote"
+},
+{
+"text": "huldahforhouse@gmail.com",
+"href": "mailto:huldahforhouse@gmail.com"
+}
 ]

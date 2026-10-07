@@ -1,2 +1,2 @@
-3 Oct 2025 | District 44, Events, News
-Rio Rancho School Buddy Bench, Sandia Pueblo United Soccer Game, Land Agreement signed for Corrales Siphon, Planned Parenthood Resistance Meeting, Rising Star Gala 2025, Columbus Border Crossing
+Home Issues Background Events Kool Things Endorsed Posts Contact DONATE Follow Follow Follow September Highlights from Our Busy Legislator 3 Oct 2025 | District 44 , Events , News Rio Rancho School Buddy Bench, Sandia Pueblo United Soccer Game, Land Agreement signed for Corrales Siphon, Planned Parenthood Resistance Meeting, Rising Star Gala 2025, Columbus Border Crossing ← Previous Next → © #, KM Cates Archive of legislation FAQs Post Categories NM House District 44?
+Contact Photos DONATE Paid for by Vote for Kathleen

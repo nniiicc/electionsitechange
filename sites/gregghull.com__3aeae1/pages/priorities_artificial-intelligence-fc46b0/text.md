@@ -1,6 +1,8 @@
-A VISION FOR A BETTER NEW MEXICO
-Artificial Intelligence
-Artificial intelligence is advancing quickly, and it is already being used in areas that affect daily life, from healthcare and education to public services and research.
+Skip to main content Election Day is November 3, 2026 — early voting begins October 6th.
+Find your polling place Register to vote Close Meet the Team Governor Gregg Hull Lt.
+Governor David Gallegos Priorities News Endorsements Shop Volunteer Request Sign Donate Want a Hull / Gallegos yard sign?
+Click here to request your a free sign delivered right to your door.
+A VISION FOR A BETTER NEW MEXICO Artificial Intelligence Artificial intelligence is advancing quickly, and it is already being used in areas that affect daily life, from healthcare and education to public services and research.
 New Mexico is well positioned to be part of this growth, especially with our national labs, research institutions, and emerging technology sector.
 At the same time, new tools bring new risks.
 I believe the state needs clear guardrails that protect people without slowing innovation or driving opportunity elsewhere.
@@ -23,3 +25,17 @@ New Mexico has an opportunity to lead by setting thoughtful standards that prote
 With clear rules, strong data protections, and a focus on transparency, the state can encourage responsible use of AI and remain a place where new ideas are developed and tested safely.
 Technology should serve people, not the other way around.
 My goal is to make sure New Mexico uses AI in ways that protect privacy, promote fairness, and support long-term economic growth without unnecessary barriers.
+Let's get to work.
+Join thousands of New Mexicans getting campaign updates by email and text.
+First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.
+Link to Privacy Policy Join The Team Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Paid for By Hull For New Mexico Meet Gregg Priorities News Volunteer Endorsements Shop Follow Us Contact Privacy Policy Meet Gregg Issues News Volunteer Endorsements Shop Follow Us Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Privacy Policy Contact Paid for By Hull For New Mexico Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Follow Us Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Privacy Policy Contact Paid for By Hull For New Mexico

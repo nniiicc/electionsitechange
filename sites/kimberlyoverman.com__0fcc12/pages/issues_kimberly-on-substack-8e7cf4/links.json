@@ -1,37 +1,162 @@
 [
-"https://bsky.app/profile/leadersmatter.bsky.social",
-"https://facebook.com/OvermanforCongress",
-"https://instagram.com/kimberly.overman",
-"https://kimberlyoverman.com/",
-"https://kimberlyoverman.com/contact",
-"https://kimberlyoverman.com/es/issues/kimberly-on-substack",
-"https://kimberlyoverman.com/events",
-"https://kimberlyoverman.com/issues",
-"https://kimberlyoverman.com/issues/kimberly-on-substack",
-"https://kimberlyoverman.com/meet-kimberly",
-"https://kimberlyoverman.com/news-and-events",
-"https://kimberlyoverman.com/news-and-events/endorsements",
-"https://kimberlyoverman.com/news-and-events/events",
-"https://kimberlyoverman.com/news-and-events/news",
-"https://kimberlyoverman.com/news-and-events/press-releases",
-"https://kimberlyoverman.com/privacy",
-"https://kimberlyoverman.com/volunteer",
-"https://kimberlyoverman.substack.com/p/a-promise-should-be-a-promise",
-"https://kimberlyoverman.substack.com/p/climate-resilience-is-affordability",
-"https://kimberlyoverman.substack.com/p/criminal-justice-community-safety",
-"https://kimberlyoverman.substack.com/p/democracy-works-when-every-voter",
-"https://kimberlyoverman.substack.com/p/education-creates-opportunity",
-"https://kimberlyoverman.substack.com/p/foreign-policy-human-rights-national",
-"https://kimberlyoverman.substack.com/p/government-should-work-for-people-ea6",
-"https://kimberlyoverman.substack.com/p/healthcare-should-not-depend-on-your",
-"https://kimberlyoverman.substack.com/p/here-is-where-i-stand-my-platform",
-"https://kimberlyoverman.substack.com/p/opportunity-representation-and-respect",
-"https://kimberlyoverman.substack.com/p/protecting-women-families-and-freedom",
-"https://kimberlyoverman.substack.com/p/strong-borders-fair-laws-and-human",
-"https://kimberlyoverman.substack.com/p/the-affordability-crisis-is-real-0e8",
-"https://kimberlyoverman.substack.com/p/workers-deserve-leadership-that-listens",
-"https://linkedin.com/in/koverman",
-"https://nextdoor.com/profile/01w9p7Dzm3jrCBH7R",
-"https://secure.numero.ai/contribute/Overman-for-Congress",
-"https://substack.com/@kimberlyoverman"
+{
+"text": "813-720-7719",
+"href": "tel:8137207719"
+},
+{
+"text": "A Promise Should Be a Promise",
+"href": "https://kimberlyoverman.substack.com/p/a-promise-should-be-a-promise"
+},
+{
+"text": "Climate Resilience Is Affordability",
+"href": "https://kimberlyoverman.substack.com/p/climate-resilience-is-affordability"
+},
+{
+"text": "Contact",
+"href": "https://kimberlyoverman.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.numero.ai/contribute/Overman-for-Congress"
+},
+{
+"text": "Criminal Justice, Community Safety, Human Trafficking Prevention, and Equal Treatment Under the Law",
+"href": "https://kimberlyoverman.substack.com/p/criminal-justice-community-safety"
+},
+{
+"text": "Democracy Works When Every Voter Has a Voice",
+"href": "https://kimberlyoverman.substack.com/p/democracy-works-when-every-voter"
+},
+{
+"text": "Education Creates Opportunity",
+"href": "https://kimberlyoverman.substack.com/p/education-creates-opportunity"
+},
+{
+"text": "Endorsements",
+"href": "https://kimberlyoverman.com/news-and-events/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://kimberlyoverman.com/es/issues/kimberly-on-substack/"
+},
+{
+"text": "Events",
+"href": "https://kimberlyoverman.com/events/"
+},
+{
+"text": "Events",
+"href": "https://kimberlyoverman.com/news-and-events/events/"
+},
+{
+"text": "Foreign Policy, Human Rights, National Security, and Responsible U.S. Leadership",
+"href": "https://kimberlyoverman.substack.com/p/foreign-policy-human-rights-national"
+},
+{
+"text": "Government Should Work for People, Not Special Interests",
+"href": "https://kimberlyoverman.substack.com/p/government-should-work-for-people-ea6"
+},
+{
+"text": "Healthcare Should Not Depend on Your ZIP Code, Job, Gender, or Income",
+"href": "https://kimberlyoverman.substack.com/p/healthcare-should-not-depend-on-your"
+},
+{
+"text": "Here Is Where I Stand: My Platform for Florida’s 12th Congressional District",
+"href": "https://kimberlyoverman.substack.com/p/here-is-where-i-stand-my-platform"
+},
+{
+"text": "Home",
+"href": "https://kimberlyoverman.com/"
+},
+{
+"text": "In the News",
+"href": "https://kimberlyoverman.com/news-and-events/news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kimberly.overman/"
+},
+{
+"text": "Issues",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "Kimberly On Substack",
+"href": "https://kimberlyoverman.com/issues/kimberly-on-substack/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/koverman/"
+},
+{
+"text": "Meet Kimberly",
+"href": "https://kimberlyoverman.com/meet-kimberly/"
+},
+{
+"text": "News & Events",
+"href": "https://kimberlyoverman.com/news-and-events/"
+},
+{
+"text": "Opportunity, Representation, and Respect",
+"href": "https://kimberlyoverman.substack.com/p/opportunity-representation-and-respect"
+},
+{
+"text": "Press Releases",
+"href": "https://kimberlyoverman.com/news-and-events/press-releases/"
+},
+{
+"text": "Privacy",
+"href": "https://kimberlyoverman.com/privacy/"
+},
+{
+"text": "Protecting Women, Families, and Freedom",
+"href": "https://kimberlyoverman.substack.com/p/protecting-women-families-and-freedom"
+},
+{
+"text": "Stay Informed",
+"href": "https://kimberlyoverman.com/contact/"
+},
+{
+"text": "Strong Borders, Fair Laws, and Human Dignity",
+"href": "https://kimberlyoverman.substack.com/p/strong-borders-fair-laws-and-human"
+},
+{
+"text": "The Affordability Crisis Is Real: Housing, Insurance, Childcare, Transportation, and Opportunity",
+"href": "https://kimberlyoverman.substack.com/p/the-affordability-crisis-is-real-0e8"
+},
+{
+"text": "The Issues",
+"href": "https://kimberlyoverman.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://kimberlyoverman.com/volunteer/"
+},
+{
+"text": "Workers Deserve Leadership That Listens",
+"href": "https://kimberlyoverman.substack.com/p/workers-deserve-leadership-that-listens"
+},
+{
+"text": "[image: Kimberly Overman for Congress]",
+"href": "https://kimberlyoverman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/leadersmatter.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://nextdoor.com/profile/01w9p7Dzm3jrCBH7R/"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@kimberlyoverman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/OvermanforCongress"
+},
+{
+"text": "vote@KimberlyOverman.com",
+"href": "mailto:vote@KimberlyOverman.com"
+}
 ]

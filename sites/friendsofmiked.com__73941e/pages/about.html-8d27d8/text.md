@@ -1,4 +1,4 @@
-Mike Dvorscak is a small business owner, conservative leader, and North Fulton’s own, and he is ready to bring 40 years of proven leadership and results to the Georgia State Senate.
+ISSUES ABOUT MIKE DISTRICT MAP DONATE About Mike Mike Dvorscak is a small business owner, conservative leader, and North Fulton’s own, and he is ready to bring 40 years of proven leadership and results to the Georgia State Senate.
 Mike joined The William B.
 Hare Company, now AD Commercial Real Estate, in 1985 as a corporate real estate associate, rising from associate to Vice President to Principal, Owner, and Broker.
 In the last ten years alone, he has closed over $400 million in commercial sales and lease transactions while working on important economic development projects in the process.
@@ -16,6 +16,6 @@ Georgia is growing fast.
 Property values are rising, development is booming, and the decisions made under the Gold Dome over the next few years will shape North Fulton for a generation.
 Mike Dvorscak has spent his entire career navigating exactly these kinds of decisions, and he is going to make sure North Fulton families have a seat at the table, a voice in the room, and a fighter on their side.
 As Mike puts it, “I’m not your typical candidate for public office because I’m not going to be just another politician.
-It’s time for Georgia to get back to basics and focus on the things that make us stronger.”
-Mike and his wife Camille are members of Perimeter Church in Johns Creek, where Mike is active in the worship and arts ministry and a deacon.
+It’s time for Georgia to get back to basics and focus on the things that make us stronger.” Mike and his wife Camille are members of Perimeter Church in Johns Creek, where Mike is active in the worship and arts ministry and a deacon.
 He is a proud Georgia Tech alum and member of the Letterwinners Club.
+Election Day November 3 — Early voting October 13 – October 30 DONATE Paid for by Friends of Mike D

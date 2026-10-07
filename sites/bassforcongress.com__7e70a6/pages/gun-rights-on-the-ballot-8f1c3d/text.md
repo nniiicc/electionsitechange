@@ -1,4 +1,8 @@
-Gun Owners of CD3: Quentin Wittrock Has Already Told You What He Thinks of Your AR-15.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Gun Rights On The Ballot August 3, 2026 No Comments Gun Owners of CD3: Quentin Wittrock Has Already Told You What He Thinks of Your AR-15.
 Now It’s Time to Vote.
 If you own a gun in Minnesota’s 3rd Congressional District, I need five minutes of your time before August 11.
 I’m Tyler Bass.
@@ -27,13 +31,11 @@ Three days before that post, he wrote a companion piece laying out the philosoph
 Both posts have since vanished from his website.
 Funny how that happens right around campaign season.
 But the internet doesn’t forget, and I’m not going to let Minnesota gun owners get fooled by a scrubbed website.
-Here they are, archived, word for word, so you can read it with your own eyes:
-Don’t take my word for it.
+Here they are, archived, word for word, so you can read it with your own eyes: https://web.archive.org/web/20221001151620/https://principlebasedpolitics.org/federal-gun-control-applying-principles/ https://web.archive.org/web/20221001154116/https://principlebasedpolitics.org/guns-applying-principles-to-the-issues/ Don’t take my word for it.
 Read them yourself.
 Then ask yourself if this is who you want representing gun owners in Congress.
 Right Now, in St.
-Paul, This Isn’t Theoretical
-While Wittrock was writing blog posts about the “principled” case for banning your rifle, Minnesota Democrats in the House and Senate have been actively pushing legislation to ban the AR-15 and cap magazines at 10 rounds.
+Paul, This Isn’t Theoretical While Wittrock was writing blog posts about the “principled” case for banning your rifle, Minnesota Democrats in the House and Senate have been actively pushing legislation to ban the AR-15 and cap magazines at 10 rounds.
 That’s happening right now, this session, in our state capitol.
 So ask yourself this: if Wittrock ends up in Congress, and a federal bill lands on the floor that does exactly what he already said he supports — banning semi-automatic weapons — where do you think he lands?
 He’s already shown you his answer.
@@ -53,8 +55,7 @@ When I say I’ll defend the Second Amendment, it’s because it’s already par
 Quentin Wittrock can write all the “principled” legal arguments he wants about why the federal government should be allowed to take your AR-15.
 I’m not interested in the legal theory.
 I’m interested in making sure that when this district sends someone to Congress, it’s someone who will never, under any circumstance, vote to restrict what gun-owning, law-abiding Minnesotans are allowed to own.
-Vote Like Your Rights Depend On It — Because They Do
-This August 11, gun owners in CD3 have a choice.
+Vote Like Your Rights Depend On It — Because They Do This August 11, gun owners in CD3 have a choice.
 You can vote for a candidate whose own writing lays out a roadmap for banning your rifle — or you can vote for someone who’s spent time on the range instead of in law books, and who will never trade your rights away for a “principled” argument.
 I’m not going to let Minnesota gun owners get steamrolled by a scrubbed website and a law degree.
 Get out and vote on August 11.
@@ -66,3 +67,24 @@ Tyler Bass.
 CD3.
 August 11.
 Vote like it matters — because it does.
+Share: Facebook Twitter Pinterest LinkedIn athomefitnessmn@gmail.com Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Kelly Morrison’s caught with insider trading Next I Sold Health Insurance For A Living.
+Here’s Why Your Premium Is Broken — And How I’d Fix It.
+Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

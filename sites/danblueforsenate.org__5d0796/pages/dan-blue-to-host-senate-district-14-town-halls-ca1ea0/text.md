@@ -1,11 +1,6 @@
-Senator Dan Blue will host a two-part town hall series this August, providing an opportunity for community members to engage directly with their elected leaders about key issues affecting our region.
-Part 1: Monday, August 18 | 6:30 p.m. – 8 p.m
-Featuring Representative James Roberson
-Wake Tech East Campus |5401 Rolesville Road, Wendell
-Part 2: Monday, August 25 | 6:30 p.m. – 8 p.m.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Dan Blue to host Senate District 14 town halls Jul 17, 2025 | Events , News Senator Dan Blue will host a two-part town hall series this August, providing an opportunity for community members to engage directly with their elected leaders about key issues affecting our region.
+Part 1: Monday, August 18 | 6:30 p.m. – 8 p.m Featuring Representative James Roberson Wake Tech East Campus |5401 Rolesville Road, Wendell Part 2: Monday, August 25 | 6:30 p.m. – 8 p.m.
 Garner Senior Center| 205 E.
-Garner Rd, Garner
-Part 3 Monday, September 8 | 6:30 p.m. – 8 p.m.
-Featuring Representative James Roberson
-Martin Street Church | 1001 E.
-Martin Street, Raleigh
+Garner Rd, Garner Part 3 Monday, September 8 | 6:30 p.m. – 8 p.m.
+Featuring Representative James Roberson Martin Street Church | 1001 E.
+Martin Street, Raleigh Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

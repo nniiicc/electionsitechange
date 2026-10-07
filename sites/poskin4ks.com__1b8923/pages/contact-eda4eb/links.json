@@ -1,18 +1,70 @@
 [
-"http://eepurl.com/gVlZmX",
-"https://bsky.app/profile/poskin4ks.bsky.social",
-"https://facebook.com/Poskin4KS",
-"https://instagram.com/poskin4ks",
-"https://poskin4ks.com/",
-"https://poskin4ks.com/about",
-"https://poskin4ks.com/cart",
-"https://poskin4ks.com/contact",
-"https://poskin4ks.com/endorsements",
-"https://poskin4ks.com/get-involved",
-"https://poskin4ks.com/home",
-"https://poskin4ks.com/legislative-work",
-"https://poskin4ks.com/priorities",
-"https://secure.actblue.com/donate/poskin4ks2026",
-"https://threads.net/@poskin4ks",
-"https://x.com/poskin4ks"
+{
+"text": "0",
+"href": "https://www.poskin4ks.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.poskin4ks.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/poskin4ks2026"
+},
+{
+"text": "Contact",
+"href": "https://www.poskin4ks.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.poskin4ks.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.poskin4ks.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.poskin4ks.com/home"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.poskin4ks.com/legislative-work"
+},
+{
+"text": "MP@Poskin4KS.com",
+"href": "mailto:MP@Poskin4KS.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.poskin4ks.com/priorities"
+},
+{
+"text": "Sign up here!",
+"href": "http://eepurl.com/gVlZmX"
+},
+{
+"text": "[image: Poskin4KS - Mari-Lynn Poskin for Kansas House District 20]",
+"href": "https://www.poskin4ks.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/poskin4ks.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Poskin4KS"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/poskin4ks"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@poskin4ks"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/poskin4ks"
+}
 ]

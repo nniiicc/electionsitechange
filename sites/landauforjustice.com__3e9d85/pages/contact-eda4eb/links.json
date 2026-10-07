@@ -1,7 +1,30 @@
 [
-"https://landauforjustice.com/",
-"https://landauforjustice.com/contact",
-"https://landauforjustice.com/donate",
-"https://landauforjustice.com/endorsements",
-"https://landauforjustice.com/volunteer"
+{
+"text": "Contact",
+"href": "https://landauforjustice.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://landauforjustice.com/donate/"
+},
+{
+"text": "ELECT SARAH BETH LANDAU",
+"href": "https://landauforjustice.com"
+},
+{
+"text": "Endorsements",
+"href": "https://landauforjustice.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://landauforjustice.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://landauforjustice.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://landauforjustice.com"
+}
 ]

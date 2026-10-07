@@ -1,12 +1,6 @@
-PRESS RELEASES
-Trump-Endorsed Jimmy Patronis: Trump’s First Acts Were Bold, Decisive, and Put America First
-[Fort Walton 1-21-25] Today, Florida Chief Financial Officer (CFO) Jimmy Patronis issued a statement praising President Donald Trump’s actions on a breadth of issues, including securing the border, ending birthright
-Jimmy Patronis Announces Endorsement from Honorable Public Servant Jeff Miller
-Today, the Jimmy Patronis for Congress Campaign announced former Congressman Jeff Miller’s official endorsement of CFO Patronis for the seat he once held.
-CongressmanMiller represented CD-1 in Congress for 15
-Trump-Endorsed Jimmy Patronis: Congress Must ProtectAmericans from Being Financially Blacklisted
-Proposes Dismantling the Treasury’s FinCEN Network Which Targeted Gun Owners [FT.
-WALTON BEACH / 1-15-25] – Today, Florida Chief Financial Officer (CFO) Jimmy Patronis announced that in Congress he will
-Jimmy Patronis to Continue Strong Record of Constituent Services in Congress, Pledges to Reinstate District Office in Escambia
-[PENSACOLA / 1-14-25] – Today, Florida Chief Financial Officer Jimmy Patronis announced his commitment to reopening a district office for Congressional District 1 in Escambia County.
-In office, CFO Patronis
+Skip to content Endorsed By President Trump @JimmyPatronis HOME ABOUT News SHOP VOLUNTEER Contribute PRESS RELEASES Search Trump-Endorsed Jimmy Patronis: Trump’s First Acts Were Bold, Decisive, and Put America First January 21, 2025 [Fort Walton 1-21-25] Today, Florida Chief Financial Officer (CFO) Jimmy Patronis issued a statement praising President Donald Trump’s actions on a breadth of issues, including securing the border, ending birthright Read More » Jimmy Patronis Announces Endorsement from Honorable Public Servant Jeff Miller January 17, 2025 Today, the Jimmy Patronis for Congress Campaign announced former Congressman Jeff Miller’s official endorsement of CFO Patronis for the seat he once held.
+CongressmanMiller represented CD-1 in Congress for 15 Read More » Trump-Endorsed Jimmy Patronis: Congress Must ProtectAmericans from Being Financially Blacklisted January 15, 2025 Proposes Dismantling the Treasury’s FinCEN Network Which Targeted Gun Owners [FT.
+WALTON BEACH / 1-15-25] – Today, Florida Chief Financial Officer (CFO) Jimmy Patronis announced that in Congress he will Read More » Jimmy Patronis to Continue Strong Record of Constituent Services in Congress, Pledges to Reinstate District Office in Escambia January 14, 2025 [PENSACOLA / 1-14-25] – Today, Florida Chief Financial Officer Jimmy Patronis announced his commitment to reopening a district office for Congressional District 1 in Escambia County.
+In office, CFO Patronis Read More » VIEW MORE GET PRESS RELEASES Δ HOME ABOUT VOLUNTEER Contribute PAID FOR BY FRIENDS OF JIMMY PATRONIS, INC.
+Contributions to Friends of Jimmy Patronis are not deductible as charitable contributions for federal income tax purposes.
+HOME ABOUT VOLUNTEER NEWS FIND PRECINCT

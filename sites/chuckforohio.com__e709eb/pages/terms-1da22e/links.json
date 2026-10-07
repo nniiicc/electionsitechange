@@ -1,9 +1,38 @@
 [
-"https://chuckforohio.com/",
-"https://chuckforohio.com/common-sense",
-"https://chuckforohio.com/contact",
-"https://chuckforohio.com/donate",
-"https://chuckforohio.com/privacy",
-"https://chuckforohio.com/terms",
-"https://chuckforohio.com/volunteer"
+{
+"text": "Common Sense",
+"href": "https://www.chuckforohio.com/common-sense"
+},
+{
+"text": "Contact",
+"href": "https://www.chuckforohio.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.chuckforohio.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.chuckforohio.com/"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.chuckforohio.com/privacy"
+},
+{
+"text": "Terms Of Use",
+"href": "https://www.chuckforohio.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chuckforohio.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "javascript:__doPostBack('dnn%24dnnSEARCH129803%24cmdSearch','')"
+},
+{
+"text": "[no text]",
+"href": "javascript:__doPostBack('dnn%24dnnSEARCH622101%24cmdSearch','')"
+}
 ]

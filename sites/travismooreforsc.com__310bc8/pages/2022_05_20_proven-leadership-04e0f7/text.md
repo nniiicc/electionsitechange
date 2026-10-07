@@ -1,16 +1,2 @@
-Home
-About
-News
-Contact
-Donate
-May 20, 2022
-Proven Leadership
-Previous Reading
-House District 33 Map (Redistricting Update)
-Next Reading
-The Only Scorecard That Matters:
-Home
-About
-News
-Contact
-Donate
+Home About News Contact Donate May 20, 2022 Proven Leadership Previous Reading House District 33 Map (Redistricting Update) Next Reading The Only Scorecard That Matters: Leave a Reply Your email address will not be published.Required fields are marked * Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+SUBMIT Paid for by Travis Moore for House Home About News Contact Donate

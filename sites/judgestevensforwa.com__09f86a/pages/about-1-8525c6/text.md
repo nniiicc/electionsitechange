@@ -1,13 +1,10 @@
-Meet Judge Stevens
-David Stevens y Perez (David Stevens) is a husband, father, grandfather, Superior Court Judge, and Navy Veteran.
-Judicial Experience:
-In November of 2023, Judge David Stevens was overwhelmingly elected to Mason County Superior Court.
+0 Skip to Content Home About Elect Judge David Stevens DONATE TODAY Open Menu Close Menu Open Menu Close Menu Home About Elect Judge David Stevens DONATE TODAY Home About DONATE TODAY Meet Judge Stevens David Stevens y Perez (David Stevens) is a husband, father, grandfather, Superior Court Judge, and Navy Veteran.
+Judicial Experience: In November of 2023, Judge David Stevens was overwhelmingly elected to Mason County Superior Court.
 He defeated the incumbent who had been appointed by then-Governor Jay Inslee.
 In 2024, he was re-elected.
 Judge David Stevens is concerned that governors have appointed the vast majority of Washington State Superior Court Judges, State Appellate Court Judges, and Washington State Supreme Court Justices.
 He believes that gubernatorial appointment leads to ideological rulings and judicial overreach.
-Experience:
-After graduating from high school, David joined the Navy and served aboard the USS Camden AOE-2 in Bremerton, Washington as a Fire Controlman Second Class (E-5).
+Experience: After graduating from high school, David joined the Navy and served aboard the USS Camden AOE-2 in Bremerton, Washington as a Fire Controlman Second Class (E-5).
 During his service, he saw what true lack of opportunity looks like, and learned firsthand why America is the greatest country in the world.
 During his service, he was awarded two Good Conduct Medals, a Meritorious Unit Citation, and Armed Forces Expeditionary Medal (AFEM).
 The AFEM was for service during Operation Earnest Will.
@@ -26,10 +23,9 @@ He did well and was awarded the Mary Ellen Krug Scholarship for the law student 
 UW Law knew that David would be a trial attorney.
 After graduating, David went on to be the Chief Public Defender for the Colville Confederated Tribes, a Senior Deputy Prosecutor for the Mason County Prosecutor's Office, a Special Assistant U.S.
 Attorney (federal prosecutor) in the Eastern District of California, an International Prosecutor in Prishtina, Kosovo, and a Justice Advisor in Afghanistan.
-You can learn more about Judge Stevens’ career at his LinkedIn page: www.linkedin.com/in/david-stevens-y-perez
-Family:
-Judge Stevens has had five children and ten grandchildren.
+You can learn more about Judge Stevens’ career at his LinkedIn page: www.linkedin.com/in/david-stevens-y-perez Family: Judge Stevens has had five children and ten grandchildren.
 David and his wife are members of Mount Olive Lutheran Church, Shelton.
-Community Service:
-Skookum Rotary (Shelton, WA), Veterans of Foreign Wars (VFW) Larry Godwin Post 1694, 40et8 Voiture 135 Veteran’s Club, and Yesteryear Car Club.
+Community Service: Skookum Rotary (Shelton, WA), Veterans of Foreign Wars (VFW) Larry Godwin Post 1694, 40et8 Voiture 135 Veteran’s Club, and Yesteryear Car Club.
 They are active in several other philanthropic organizations.
+Paid for by Committee to Elect Judge David Stevens.
+PO Box 1121, Shelton WA 98584 Donate

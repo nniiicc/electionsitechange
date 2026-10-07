@@ -1,11 +1,16 @@
-AFFORDABLE HOUSING
-Gustavo Rivera knows that New York City needs affordable housing that ensures community members can remain in their homes.
+MEET GUSTAVO Endorsements ISSUES EDUCATION JOBS AFFORDABLE HOUSING HEALTH TRANSPORTATION ETHICS IMMIGRANTS’ RIGHTS CRIMINAL JUSTICE REFORM & PUBLIC SAFETY DISTRICT 33 SUPPORT Menu Standing Strong for The Bronx.
+MEET GUSTAVO Endorsements ISSUES EDUCATION JOBS AFFORDABLE HOUSING HEALTH TRANSPORTATION ETHICS IMMIGRANTS’ RIGHTS CRIMINAL JUSTICE REFORM & PUBLIC SAFETY DISTRICT 33 SUPPORT CONTRIBUTE AFFORDABLE HOUSING Gustavo Rivera knows that New York City needs affordable housing that ensures community members can remain in their homes.
 He has fought to preserve and create affordable housing and to empower Bronxites to uphold their rights to adequate repairs and healthy homes.
 As a tenant in a rent-stabilized apartment, Gustavo Rivera knows first-hand how critical it is to our borough to protect rent-regulated units and hold landlords accountable.
-Accomplishments:
-- Helped thousands of seniors and Bronxites with disabilities freeze their rent by enrolling them in SCRIE and DRIE.
-- Prevented thousands of unjust evictions and foreclosures by helping constituents receive rent arrears, mortgage assistance and free legal representation through New York City’s Right to Counsel program.
-- Organized buildings and tenant associations to combat building neglect by landlords and partnered with attorneys to take legal action for overdue repairs.
-- Voted for historic tenant protections and rent regulations that made the laws permanent and expanded tenants’ rights to affordable and well-maintained apartments.
-- Fought for the eviction moratorium during COVID.
-- Secured over $1 million to repair and upgrade NYCHA community centers in the district.
+Accomplishments: Helped thousands of seniors and Bronxites with disabilities freeze their rent by enrolling them in SCRIE and DRIE .
+Prevented thousands of unjust evictions and foreclosures by helping constituents receive rent arrears, mortgage assistance and free legal representation through New York City’s Right to Counsel program.
+Organized buildings and tenant associations to combat building neglect by landlords and partnered with attorneys to take legal action for overdue repairs.
+Voted for historic tenant protections and rent regulations that made the laws permanent and expanded tenants’ rights to affordable and well-maintained apartments.
+Fought for the eviction moratorium during COVID.
+Secured over $1 million to repair and upgrade NYCHA community centers in the district.
+CONTRIBUTE Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+JOIN US Sign up with your email address to receive news and updates about events, Gustavo's work, and how you can help him win.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Back to Top

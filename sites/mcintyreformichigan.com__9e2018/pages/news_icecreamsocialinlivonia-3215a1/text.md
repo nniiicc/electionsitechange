@@ -1,2 +1,4 @@
-Ice Cream Social Event Aug 27 Written By Lisa McIntyre Join us for some fun in Mies Park in Livonia.
-Co-hosted with Carrie Budzinski and sponsored by Browndog Barlour carrie budzinskimies parklivoniabrowndog barlourmcintyre for state representative Lisa McIntyre
+0 Skip to Content Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Ice Cream Social Event Aug 27 Written By Lisa McIntyre Join us for some fun in Mies Park in Livonia.
+Co-hosted with Carrie Budzinski and sponsored by Browndog Barlour carrie budzinski mies park livonia browndog barlour mcintyre for state representative Lisa McIntyre Previous Previous Back to School Social Next Next Cocktails & Conversations - Meet Lisa McIntyre Meet Lisa Priorities Endorsements Get Involved News Donate Privacy Donate Now Lisa McIntyre is a candidate running for State Representative for Michigan House District 22 Copyright © #.
+All Rights Reserved.
+Paid for by Friends of Lisa McIntyre for Michigan - PO Box 641 - Northville MI 48167

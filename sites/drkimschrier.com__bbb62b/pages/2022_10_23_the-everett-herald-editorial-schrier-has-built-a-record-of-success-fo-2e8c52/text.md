@@ -1,13 +1,19 @@
-With the Nov. 8 election, Snohomish County welcomes a new congressional district for communities in the county’s east.
-Redistricting redrew the 8th Congressional District’s boundaries, starting from the county line with Skagit County to include communities along the Stillaguamish River Valley, including Arlington Heights, Oso and Darrington, extending south to Granite Falls and the U.S. 2 communities east of Monroe, including Sultan, Gold Bar and Index, almost all of which of which had been in the 1st Congressional District.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer The Everett Herald: Editorial: Schrier has built a record of success for 8th With the Nov.
+8 election, Snohomish County welcomes a new congressional district for communities in the county’s east.
+Redistricting redrew the 8th Congressional District ’s boundaries, starting from the county line with Skagit County to include communities along the Stillaguamish River Valley, including Arlington Heights, Oso and Darrington, extending south to Granite Falls and the U.S.
+2 communities east of Monroe, including Sultan, Gold Bar and Index, almost all of which of which had been in the 1st Congressional District.
 Rep.
 Kim Schrier, a Democrat living in Sammamish, is a pediatrician who was first elected to Congress in 2018.
-She is challenged by Matt Larkin, a Sammamish Republican who is an attorney and owner of a manufacturing business.
+She is challenged by Matt Larkin, a Sammamish Republican who is an attorney and owner of a manufacturing business .
 Larkin ran in 2020 for state attorney general, losing to Bob Ferguson.
 Larkin did not respond to a request to participate in an interview with the editorial board.
 Schrier first ran, she said, out of concern for health care access and threats to the Affordable Care Act for her patients but also for herself, as someone with a preexisting condition, Type 1 diabetes.
 That remains a focus, Schrier said, and much of her record of legislation that she has sponsored centers on issues of health care, public health, children and education.
 Schrier serves on the House agriculture committee and also on the energy and commerce committee, which considers a broad range of issues.
+Schrier endorses the Democrats’ recent record of legislation, including the Inflation Reduction Act, which included significant provisions on health care and climate action.
+One of the more important provisions of the IRA, Schrier said, was on the price of insulin for Medicare patients.
+Insulin, unless covered by insurance, can cost up to $350 a vial, with most diabetics needing at least two vials a month.
+The IRA caps the cost at $35 a vial for Medicare patients.
 Schrier said she supports a public option for medical insurance, a federal insurance program that would expand what’s available.
 And while the Affordable Care Act has survived past challenges, she remains concerned that some among the Republican Party — should it gain majorities in the House and Senate — could again seek to dismantle the ACA, also known as Obamacare.
 The only pro-choice woman doctor in all of Congress, Schrier said she has been able to offer a doctor’s perspective that has been necessary to counter comments and even misinformation from Republicans touting medical credentials.
@@ -32,3 +38,5 @@ Voters rarely if ever will find a candidate who aligns with them on all issues o
 Schrier, in her two terms, has produced a record of legislation and attention to her district that should be appreciated by the district’s new voters in Snohomish County.
 Schrier fully ticks those boxes.
 Snohomish County voters in the new 8th District can confidently tick the box on their ballot for Schrier.
+Share Tweet « Previous Post About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

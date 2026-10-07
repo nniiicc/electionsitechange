@@ -1,6 +1,2 @@
-Newsweek
-Marco Rubio was questioned on Trump’s choice of appointing Bill Pulte as the Acting Intelligence Director.
-Skip to content
-Bill Keating Slams Trump For Picking Bill Pulte For Acting National Intelligence Director
-Newsweek
-Marco Rubio was questioned on Trump’s choice of appointing Bill Pulte as the Acting Intelligence Director.
+Skip to content Bill Keating for Congress Representing the 9th Congressional District of Massachusetts Menu and widgets Bill Keating Slams Trump For Picking Bill Pulte For Acting National Intelligence Director Newsweek Marco Rubio was questioned on Trump’s choice of appointing Bill Pulte as the Acting Intelligence Director.
+WATCH HERE Posted on June 9, 2026 Author Jim Quigley Post navigation Previous Previous post: Rockland Secures $1.1 Million Federal Grant for Wastewater Infrastructure Next Next post: US House Passes Sweeping Ukraine Support Bill After Months Of Gridlock Proudly powered by WordPress

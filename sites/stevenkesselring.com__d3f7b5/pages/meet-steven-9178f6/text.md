@@ -1,4 +1,4 @@
-I'm not a politician; I'm just a guy who loves his country and wants to make a difference and help our state be the best it can be for my daughter's future.
+Home Meet Steven ISSUES Donate Events Home Meet Steven ISSUES Donate Events More Home Meet Steven ISSUES Donate Events Home Meet Steven ISSUES Donate Events Meet Steven Kesselring I'm not a politician; I'm just a guy who loves his country and wants to make a difference and help our state be the best it can be for my daughter's future.
 I truly believe I have what it takes to champion our freedoms in the Live Free or Die state!
 That's why I'm running for State Representative as a Republican.
 I didn't follow the typical education path; everything I've achieved has been through hard work and passion.
@@ -16,6 +16,4 @@ I’m genuinely grateful to have the opportunity to run for State Representative
 If you trust in me and vote on November 5th, I will bring my passion and experience to Concord every day.
 I promise to be accessible, hard-working and I will not let anyone convince me that we need to give up any of our freedoms!
 If you want to help me please donate.
-Paid for by Steven Kesselring for State Rep
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Privacy Policy Terms and Conditions Press Release Events Paid for by Steven Kesselring for State Rep Powered by

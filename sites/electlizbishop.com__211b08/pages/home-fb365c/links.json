@@ -1,10 +1,46 @@
 [
-"https://electlizbishop.com/about",
-"https://electlizbishop.com/donate",
-"https://electlizbishop.com/home",
-"https://electlizbishop.com/internship-program",
-"https://electlizbishop.com/news",
-"https://electlizbishop.com/privacy-policy",
-"https://electlizbishop.com/volunteer",
-"https://youtube.com/embed/VhBl3dHT5SY?feature=oembed%3Fplaylist%3DVhBl3dHT5SY&mute=0&autoplay=0&loop=no&controls=0&start=0"
+{
+"text": "About",
+"href": "https://electlizbishop.com/about/"
+},
+{
+"text": "Click here to Volunteer!",
+"href": "https://electlizbishop.com/volunteer/"
+},
+{
+"text": "Donate",
+"href": "https://electlizbishop.com/donate/"
+},
+{
+"text": "Internship Program",
+"href": "https://electlizbishop.com/internship-program/"
+},
+{
+"text": "Learn More",
+"href": "https://electlizbishop.com/about/"
+},
+{
+"text": "News",
+"href": "https://electlizbishop.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electlizbishop.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://electlizbishop.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://electlizbishop.com/home/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/embed/VhBl3dHT5SY?feature=oembed%3Fplaylist%3DVhBl3dHT5SY&mute=0&autoplay=0&loop=no&controls=0&start=0&end="
+},
+{
+"text": "liz@electlizbishop.com",
+"href": "mailto:liz@electlizbishop.com"
+}
 ]

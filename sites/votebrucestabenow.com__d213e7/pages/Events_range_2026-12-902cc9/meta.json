@@ -1,7 +1,11 @@
 {
  "description": "Bruce Stabenow Campaign Events",
  "final_url": "https://www.votebrucestabenow.com/Events?range=2026-12",
+ "fingerprint": "7c4b26940d174dd2258bfdd1b8949d588015dc98",
+ "format": 3,
  "paid_for_by": "Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner",
  "title": "Bruce Stabenow Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

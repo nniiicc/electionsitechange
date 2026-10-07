@@ -1,30 +1,162 @@
 [
-"https://bgp4az.com/",
-"https://bgp4az.com/vamos",
-"https://bgp4az.com/vamos/about",
-"https://bgp4az.com/vamos/contact",
-"https://bgp4az.com/vamos/endorsements",
-"https://bgp4az.com/vamos/join-us",
-"https://bgp4az.com/vamos/media",
-"https://bgp4az.com/vamos/news",
-"https://bgp4az.com/vamos/priorities",
-"https://bgp4az.com/vamos/resources",
-"https://bgp4az.com/vamos/schedule",
-"https://bgp4az.com/vamos/volunteer",
-"https://bsky.app/profile/bernadetteaz08.bsky.social",
-"https://facebook.com/bernadetteforcongress",
-"https://google.com/maps/search?api=1&query=Register+for+location%2C+Anthem%2C+AZ+85086",
-"https://instagram.com/bernadetteforaz",
-"https://linkedin.com/in/bernadette-greene-placentia-7b21b13a",
-"https://mobilize.us/ld3democrats/event/1012991",
-"https://mobilize.us/ld3democrats/event/1016183",
-"https://secure.actblue.com/donate/bgp_website",
-"https://secure.actblue.com/donate/bgp_website?amount=100",
-"https://secure.actblue.com/donate/bgp_website?amount=25",
-"https://secure.actblue.com/donate/bgp_website?amount=250",
-"https://secure.actblue.com/donate/bgp_website?amount=50",
-"https://stokeinteractive.com/",
-"https://tiktok.com/@bernadetteforcongress%20",
-"https://x.com/bernadetteaz08",
-"https://youtube.com/@Bernadette4District8"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bgp_website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bgp_website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bgp_website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bgp_website?amount=50"
+},
+{
+"text": "Acerca de",
+"href": "https://bgp4az.com/vamos/about/"
+},
+{
+"text": "Acerca de Bernadette",
+"href": "https://bgp4az.com/vamos/about/"
+},
+{
+"text": "Agenda",
+"href": "https://bgp4az.com/vamos/schedule/"
+},
+{
+"text": "Anthem, AZ 85086",
+"href": "https://www.google.com/maps/search/?api=1&query=Register+for+location%2C+Anthem%2C+AZ+85086"
+},
+{
+"text": "CONOCE A BERNADETTE",
+"href": "https://bgp4az.com/vamos/about/"
+},
+{
+"text": "CONOCE SU HISTORIA",
+"href": "https://bgp4az.com/vamos/about/"
+},
+{
+"text": "Contacto",
+"href": "https://bgp4az.com/vamos/contact/"
+},
+{
+"text": "Contáctanos",
+"href": "https://bgp4az.com/vamos/contact/"
+},
+{
+"text": "DONA",
+"href": "https://secure.actblue.com/donate/bgp_website"
+},
+{
+"text": "Dona",
+"href": "https://secure.actblue.com/donate/bgp_website"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bernadetteforcongress/"
+},
+{
+"text": "Globo terráqueo",
+"href": "https://bsky.app/profile/bernadetteaz08.bsky.social"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bernadetteforaz/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/bernadette-greene-placentia-7b21b13a/"
+},
+{
+"text": "Multimedia",
+"href": "https://bgp4az.com/vamos/media/"
+},
+{
+"text": "Más información",
+"href": "https://bgp4az.com/vamos/priorities/"
+},
+{
+"text": "Noticias",
+"href": "https://bgp4az.com/vamos/news/"
+},
+{
+"text": "Prioridades",
+"href": "https://bgp4az.com/vamos/priorities/"
+},
+{
+"text": "Recursos",
+"href": "https://bgp4az.com/vamos/resources/"
+},
+{
+"text": "Registrarse",
+"href": "https://www.mobilize.us/ld3democrats/event/1012991"
+},
+{
+"text": "Registrarse",
+"href": "https://www.mobilize.us/ld3democrats/event/1016183"
+},
+{
+"text": "Respaldos",
+"href": "https://bgp4az.com/vamos/endorsements/"
+},
+{
+"text": "Stoke Interactive",
+"href": "https://stokeinteractive.com"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@bernadetteforcongress%20"
+},
+{
+"text": "VER LA AGENDA COMPLETA",
+"href": "https://bgp4az.com/vamos/schedule/"
+},
+{
+"text": "VER RESPALDOS",
+"href": "https://bgp4az.com/vamos/endorsements/"
+},
+{
+"text": "VER TODAS LAS PRIORIDADES",
+"href": "https://bgp4az.com/vamos/priorities/"
+},
+{
+"text": "Voluntariado",
+"href": "https://bgp4az.com/vamos/join-us/"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/bernadetteaz08"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@Bernadette4District8"
+},
+{
+"text": "[image: bernadette-logo-website]",
+"href": "https://bgp4az.com/vamos"
+},
+{
+"text": "[image]English",
+"href": "https://bgp4az.com/"
+},
+{
+"text": "info@bgp4az.com",
+"href": "mailto:info@bgp4az.com"
+},
+{
+"text": "ÚNETE",
+"href": "https://bgp4az.com/vamos/join-us/"
+},
+{
+"text": "ÚNETE A LA CAMPAÑA",
+"href": "https://bgp4az.com/vamos/volunteer/"
+},
+{
+"text": "Únete",
+"href": "https://bgp4az.com/vamos/join-us/"
+}
 ]

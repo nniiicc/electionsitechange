@@ -1,6 +1,7 @@
-Georgia Working Families stands with Anissa Jones for Georgia House District 143!
+Meet Anissa Issues News Voter Information Volunteer Contribute Endorsements Georgia Working Families stands with Anissa Jones for Georgia House District 143!
 With their support, we’re one step closer to achieving our goals for Middle Georgia.
-Thank you for believing in a future we can all be proud of! #Endorsement #Teamwork #Vote2024" #VoteAnissaJones #ElectAnissaJones
-We're thrilled to share that Anissa Jones for Georgia House District 143 has officially received the endorsement of State Representative Stacey Evans!
+Thank you for believing in a future we can all be proud of!
+#Endorsement #Teamwork #Vote2024" #VoteAnissaJones #ElectAnissaJones We're thrilled to share that Anissa Jones for Georgia House District 143 has officially received the endorsement of State Representative Stacey Evans!
 Their trust and support signal a new wave of progress for Bibb, Houston counties, and all of Georgia.
-Together, we’ll work to deliver real change! #Endorsed #StrongerTogether #VoteForChange
+Together, we’ll work to deliver real change!
+#Endorsed #StrongerTogether #VoteForChange Click here to add your endorsement Voter Information Endorsements Events Photos Contact Privacy Policy Paid for By Committee to Elect Anissa Jones Powered by CampaignPartner.com - Political Campaign Websites Home Meet Anissa Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu

@@ -1,33 +1,210 @@
 [
-"https://bsky.app/profile/carrawayhq.bsky.social",
-"https://citizensforcarraway.bbimerch.com/",
-"https://citizensforcarraway.com/",
-"https://citizensforcarraway.com/bio",
-"https://citizensforcarraway.com/cart",
-"https://citizensforcarraway.com/contact",
-"https://citizensforcarraway.com/endorsements",
-"https://citizensforcarraway.com/events",
-"https://citizensforcarraway.com/news",
-"https://citizensforcarraway.com/news/bonus-the-texas-two-step-what-85-billion-bought",
-"https://citizensforcarraway.com/news/category/Education+Policy",
-"https://citizensforcarraway.com/news/how-texas-education-freedom-accounts-actually-work",
-"https://citizensforcarraway.com/news/how-texas-school-vouchers-finally-passed-after-decades-of-failure",
-"https://citizensforcarraway.com/news/the-rural-access-gap-nobody-is-talking-about",
-"https://citizensforcarraway.com/news/the-schools-your-tax-dollars-are-funding",
-"https://citizensforcarraway.com/news/where-texas-school-vouchers-are-headed-and-how-we-know",
-"https://citizensforcarraway.com/news/who-is-actually-using-texas-school-vouchers",
-"https://citizensforcarraway.com/news/who-is-getting-paid-to-run-texas-school-vouchers",
-"https://citizensforcarraway.com/priorities",
-"https://citizensforcarraway.com/privacy-policy",
-"https://citizensforcarraway.com/volunteer",
-"https://facebook.com/citizensforcarraway",
-"https://instagram.com/citizensforcarraway",
-"https://instagram.com/citizensforcarraway?igsh=cjJrZDBvdGQ1aXZy",
-"https://secure.actblue.com/donate/angiefor89",
-"https://threads.com/@citizensforcarraway",
-"https://tiktok.com/@carrawayhq",
-"https://tiktok.com/@carrawayhq?_r=1&_t=ZT-9359QKKbQXF",
-"https://votetexas.gov/register-to-vote",
-"https://x.com/CarrawayHQ",
-"https://youtube.com/@CarrawayHQ"
+{
+"text": "0",
+"href": "https://www.citizensforcarraway.com/cart"
+},
+{
+"text": "BONUS: The Texas Two-Step: What $8.5 Billion Bought",
+"href": "https://www.citizensforcarraway.com/news/bonus-the-texas-two-step-what-85-billion-bought"
+},
+{
+"text": "BONUS: Who Is Getting Paid to Run Texas School Vouchers?",
+"href": "https://www.citizensforcarraway.com/news/who-is-getting-paid-to-run-texas-school-vouchers"
+},
+{
+"text": "Citizens for Carraway",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.citizensforcarraway.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/angiefor89"
+},
+{
+"text": "Education Policy",
+"href": "https://www.citizensforcarraway.com/news/category/Education+Policy"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforcarraway.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforcarraway.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "How Texas Education Freedom Accounts Actually Work",
+"href": "https://www.citizensforcarraway.com/news/how-texas-education-freedom-accounts-actually-work"
+},
+{
+"text": "How Texas School Vouchers Finally Passed After Decades of Failure",
+"href": "https://www.citizensforcarraway.com/news/how-texas-school-vouchers-finally-passed-after-decades-of-failure"
+},
+{
+"text": "Meet Angie",
+"href": "https://www.citizensforcarraway.com/bio"
+},
+{
+"text": "News",
+"href": "https://www.citizensforcarraway.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.citizensforcarraway.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.citizensforcarraway.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/bonus-the-texas-two-step-what-85-billion-bought"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/how-texas-education-freedom-accounts-actually-work"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/how-texas-school-vouchers-finally-passed-after-decades-of-failure"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/the-rural-access-gap-nobody-is-talking-about"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/the-schools-your-tax-dollars-are-funding"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/where-texas-school-vouchers-are-headed-and-how-we-know"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/who-is-actually-using-texas-school-vouchers"
+},
+{
+"text": "Read More",
+"href": "https://www.citizensforcarraway.com/news/who-is-getting-paid-to-run-texas-school-vouchers"
+},
+{
+"text": "Register to vote",
+"href": "https://www.votetexas.gov/register-to-vote/"
+},
+{
+"text": "Shop",
+"href": "https://citizensforcarraway.bbimerch.com/"
+},
+{
+"text": "Shop Campaign Gear",
+"href": "https://citizensforcarraway.bbimerch.com/"
+},
+{
+"text": "The Rural Access Gap Nobody Is Talking About",
+"href": "https://www.citizensforcarraway.com/news/the-rural-access-gap-nobody-is-talking-about"
+},
+{
+"text": "The Schools Your Tax Dollars Are Funding",
+"href": "https://www.citizensforcarraway.com/news/the-schools-your-tax-dollars-are-funding"
+},
+{
+"text": "Volunteer",
+"href": "https://www.citizensforcarraway.com/volunteer"
+},
+{
+"text": "Voting information",
+"href": "https://www.citizensforcarraway.com/#vote"
+},
+{
+"text": "Where Texas School Vouchers are Headed, and how we know",
+"href": "https://www.citizensforcarraway.com/news/where-texas-school-vouchers-are-headed-and-how-we-know"
+},
+{
+"text": "Who Is Actually Using Texas School Vouchers",
+"href": "https://www.citizensforcarraway.com/news/who-is-actually-using-texas-school-vouchers"
+},
+{
+"text": "[image: Angie Carraway for Texas House District 89 seal]",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "[image: BONUS: The Texas Two-Step: What $8.5 Billion Bought]",
+"href": "https://www.citizensforcarraway.com/news/bonus-the-texas-two-step-what-85-billion-bought"
+},
+{
+"text": "[image: BONUS: Who Is Getting Paid to Run Texas School Vouchers?]",
+"href": "https://www.citizensforcarraway.com/news/who-is-getting-paid-to-run-texas-school-vouchers"
+},
+{
+"text": "[image: How Texas Education Freedom Accounts Actually Work]",
+"href": "https://www.citizensforcarraway.com/news/how-texas-education-freedom-accounts-actually-work"
+},
+{
+"text": "[image: How Texas School Vouchers Finally Passed After Decades of Failure]",
+"href": "https://www.citizensforcarraway.com/news/how-texas-school-vouchers-finally-passed-after-decades-of-failure"
+},
+{
+"text": "[image: The Rural Access Gap Nobody Is Talking About]",
+"href": "https://www.citizensforcarraway.com/news/the-rural-access-gap-nobody-is-talking-about"
+},
+{
+"text": "[image: The Schools Your Tax Dollars Are Funding]",
+"href": "https://www.citizensforcarraway.com/news/the-schools-your-tax-dollars-are-funding"
+},
+{
+"text": "[image: Where Texas School Vouchers are Headed, and how we know]",
+"href": "https://www.citizensforcarraway.com/news/where-texas-school-vouchers-are-headed-and-how-we-know"
+},
+{
+"text": "[image: Who Is Actually Using Texas School Vouchers]",
+"href": "https://www.citizensforcarraway.com/news/who-is-actually-using-texas-school-vouchers"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/carrawayhq.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/citizensforcarraway?igsh=cjJrZDBvdGQ1aXZy"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carrawayhq"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carrawayhq?_r=1&_t=ZT-9359QKKbQXF"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarrawayHQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CarrawayHQ"
+},
+{
+"text": "contact@citizensforcarraway.com",
+"href": "mailto:contact@citizensforcarraway.com"
+}
 ]

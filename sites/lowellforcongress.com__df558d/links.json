@@ -1,4 +1,14 @@
 [
-"https://loareyno.wpcomstaging.com/",
-"https://wordpress.org/"
+{
+"text": "Contact Us",
+"href": "mailto:lowell@lowellforcongress.com"
+},
+{
+"text": "Lowell Reynolds For Congress",
+"href": "https://loareyno.wpcomstaging.com"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+}
 ]

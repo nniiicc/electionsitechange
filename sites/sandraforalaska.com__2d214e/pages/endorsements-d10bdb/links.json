@@ -1,17 +1,82 @@
 [
-"https://akaflcio.org/",
-"https://akcenter.org/",
-"https://designedtorun.com/",
-"https://facebook.com/SandraforAlaska",
-"https://instagram.com/sandraforalaska",
-"https://mentalhealthnow.us/",
-"https://sandraforalaska.com/",
-"https://sandraforalaska.com/GetInvolved",
-"https://sandraforalaska.com/about",
-"https://sandraforalaska.com/contact",
-"https://sandraforalaska.com/donate",
-"https://sandraforalaska.com/events",
-"https://sandraforalaska.com/issues",
-"https://sandraforalaska.com/news",
-"https://sandraforalaska.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.sandraforalaska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.sandraforalaska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sandraforalaska.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.sandraforalaska.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sandraforalaska.com/GetInvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.sandraforalaska.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.sandraforalaska.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sandraforalaska.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Sandra Loomis for Alaska House",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "Sandra@sandraforalaska.com",
+"href": "mailto:Sandra@sandraforalaska.com"
+},
+{
+"text": "[image: Committed to policies that strengthen mental health care in Alaska.]Committed to policies that strengthen mental health care in Alaska.",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image: Endorsed by : Alaska AFL-CIO]Endorsed by : Alaska AFL-CIO",
+"href": "https://www.akaflcio.org/"
+},
+{
+"text": "[image: Joelle Hall, President, AFL-CIO]Joelle Hall, President, AFL-CIO",
+"href": "https://www.akaflcio.org/"
+},
+{
+"text": "[image: SandraforAlaska logo]",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "[image: Steve Charles, Willow Resident & Community Volunteer]Steve Charles, Willow Resident & Community Volunteer",
+"href": "https://akcenter.org/"
+},
+{
+"text": "[image: The Alaska Center]The Alaska Center",
+"href": "https://akcenter.org/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SandraforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sandraforalaska"
+}
 ]

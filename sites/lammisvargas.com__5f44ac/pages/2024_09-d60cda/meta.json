@@ -1,7 +1,12 @@
 {
  "description": "State Senate District 28",
  "final_url": "https://lammisvargas.com/2024/09/",
- "paid_for_by": null,
+ "fingerprint": "031196747b8c0416fe8fe8fd724e0aad9cd3d8aa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "September 2024 - Lammis Vargas",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2025"
+ ]
 }

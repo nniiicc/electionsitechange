@@ -1,7 +1,5 @@
-A National Movement
-Americans Across the Country
-Stand with Caroline Shinkle from Sea to Shining Sea
-Caroline’s campaign is resonating with Americans from all 50 states who believe New York City deserves her leadership.
+Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate From Sea to Shining Sea National Support A National Movement Americans Across the Country Stand with Caroline Shinkle from Sea to Shining Sea Caroline’s campaign is resonating with Americans from all 50 states who believe New York City deserves her leadership.
 From Republicans to Independents and Democrats frustrated with the status quo, the coalition grows every day.
 Take a look at the photos, videos, and testimonials from Caroline’s supporters across the nation.
 Add your voice to the movement.
+Peggy from Kentucky Curtis from Kansas Bess from Ohio Gina from Rhode Island Michele from South Carolina Anton from Massachusetts Previous Next SHARE YOUR SUPPORT Donate Now ↗     Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

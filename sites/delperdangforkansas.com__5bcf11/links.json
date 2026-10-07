@@ -1,8 +1,38 @@
 [
-"https://delperdangforkansas.com/",
-"https://delperdangforkansas.com/about-leo",
-"https://delperdangforkansas.com/get-involved",
-"https://delperdangforkansas.com/news",
-"https://delperdangforkansas.com/platform",
-"https://facebook.com/Delperdangforkansas"
+{
+"text": "ABOUT LEO",
+"href": "https://www.delperdangforkansas.com/about-leo"
+},
+{
+"text": "DONATE",
+"href": "https://www.delperdangforkansas.com/get-involved"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.delperdangforkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.delperdangforkansas.com"
+},
+{
+"text": "Kansas State Representative",
+"href": "https://www.delperdangforkansas.com"
+},
+{
+"text": "Leo Delperdang",
+"href": "https://www.delperdangforkansas.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.delperdangforkansas.com/news"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.delperdangforkansas.com/platform"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/Delperdangforkansas/"
+}
 ]

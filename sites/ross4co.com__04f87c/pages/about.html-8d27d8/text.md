@@ -1,9 +1,9 @@
-About
-Your neighbor.
+× Help build a grassroots campaign.
+This campaign runs on individual donors, not corporate checkbooks.
+If you can, a contribution today helps put Ross's name in front of HD23 voters.
+Contribute Now No thanks, maybe later About Issues Events Volunteer Contact Donate About Your neighbor.
 Your voice.
-My race
-Why I'm running
-I grew up identifying as a Democrat because I was against foreign wars, pro free speech, and against government-enforced cultural norms.
+My race Why I'm running I grew up identifying as a Democrat because I was against foreign wars, pro free speech, and against government-enforced cultural norms.
 I turned 18 in 2008 and cast my first vote for Barack Obama, persuaded by his campaign promises: End the wars, bring healthcare costs down, rein in warrantless surveillance.
 I thought those were the right promises then, and I still do now.
 Those promises were broken; Republicans have done no better with theirs.
@@ -23,9 +23,7 @@ When residents show up to testify, they're pushing back on things they were neve
 That's not an accident of a busy legislature.
 It's a routine.
 That only changes if we have representatives setting a new precedent.
-My background
-Who I am
-I'm not a native, but I got here as fast as I could: I moved to Gunnison at 18 for Western Colorado University and never left the state.
+My background Who I am I'm not a native, but I got here as fast as I could: I moved to Gunnison at 18 for Western Colorado University and never left the state.
 I'm a software developer and data analyst with a background in physical science, and my work turns complicated public data into something anyone can use, with tools that make campaign finance, voting records, and legislation readable without needing to be a specialist.
 That's the same instinct behind this campaign.
 Government should be transparent to the people who pay for it.
@@ -42,23 +40,7 @@ That tradition is still alive in Jeffco.
 I've watched neighbors show up to hearings, read the ordinances themselves, and vote on the future of their own blocks.
 I'm running to give that tradition a seat in the legislature.
 Beyond the day job, I serve as Chair of the Jefferson County affiliate of the Libertarian Party of Colorado and as the state party's Legislative Director, roles that have given me a close look at how state-level legislation actually gets made, who shows up to influence it, and where the gaps are between what the legislature passes and what residents experience.
-HD23
-Jefferson County, Colorado
-2026
-Colorado State House Election
-Wheat Ridge
-Resident of HD23
-The District
-HD23 — Jefferson County
-House District 23 spans several distinct communities across the heart of Jefferson County, each with its own character, and each deserving a voice in the Colorado House.
-Wheat Ridge
-Lakewood
-Applewood
-Mountain View
-Lakeside
-General Election
-November 3, 2026
-Ballots Mailed
-Mid-October 2026
-Voter Registration
-colorado.gov/govotecolorado
+HD23 Jefferson County, Colorado 2026 Colorado State House Election Wheat Ridge Resident of HD23 The District HD23 — Jefferson County House District 23 spans several distinct communities across the heart of Jefferson County, each with its own character, and each deserving a voice in the Colorado House.
+Wheat Ridge Lakewood Applewood Mountain View Lakeside General Election November 3, 2026 Ballots Mailed Mid-October 2026 Voter Registration colorado.gov/govotecolorado Get Involved Ready to be part of this?
+Every neighbor who steps up makes this campaign stronger.
+Volunteer Donate Ross Metler for HD23 Paid for by Ross Metler for Colorado House District 23 · Ross4CO.com Privacy [email protected] X Facebook Instagram

@@ -1,17 +1,15 @@
-About James
-The grandson of Italian immigrants who made their way to Boston through Ellis Island, James is a lifelong Democrat and Massachusetts resident.
-His father Nicholas drove a truck, owned a gas station and later learned lithography.
+top of page Home About Personal Background A Lifetime of Public Service Issues Endorsements Contact Volunteer Lawn Signs Donate Events Blog Forum About James The grandson of Italian immigrants who made their way to Boston through Ellis Island, James is a lifelong Democrat and Massachusetts resident. ​ His father Nicholas drove a truck, owned a gas station and later learned lithography.
 Inspired by his mother Vera , a nurse who graduated from the MGH School of Nursing and directed nursing programs for the Commonwealth.
 Raised in Walpole, his mom brought Freedom Riders on tour to their home, hosted environmental meetings/cleanups, supported Kennedy campaigns, ran PTA meetings, and helped anti-hunger walks.
 James held on to the lessons from those he met, and from an early age decided that his calling was the pursuit of social and economic justice.
 His activism further nurtured by the brothers at Xaverian High School, James went on to graduate from Harvard with honors where he was involved in numerous Democratic campaigns.
 Throughout high school and college, James worked 15-20 hours a week: pumping gas at his uncle’s gas station, working at the MGH lab, and enjoying a thriving disc jockey business until he decided to forgo to help the farmworkers with Jerry Brown for $10 a day.
-Coming back to Massachusetts, he became involved in many local Democratic campaigns, and after some time working in state government, started on his professional career path in social and economic justice.
-Since coming to Holliston in the early 1990s James has been very involved in the community.
+Coming back to Massachusetts, he became involved in many local Democratic campaigns, and after some time working in state government, started on his professional career path in social and economic justice. ​ Since coming to Holliston in the early 1990s James has been very involved in the community.
 James served on the Holliston Finance Committee and chaired the Democratic Town Committee.
 James' two sons, Anthony and Alessandro, were involved in a number of youth activities and both graduated from the UMASS Amherst Honors Program.
 With his federal appointments James stayed involved as a local volunteer, coaching youth baseball, volunteering for Celebrate Holliston Day and traveling as a volunteer photographer with the Holliston High School Theater (Local residents may remember Alessandro’s performances in a number of community and Holliston High school productions).
 James loves politics and engaging in public policy but also enjoys the quiet contemplation of his garden – leaning to his Italian roots growing tomatoes, basil, garlic, green beans, eggplant and raspberries (which were planted with his sons when they were young children).
-Staying connected to healthy and local food initiatives, prior to taking office James served on the Mass Farmers Markets Board of Directors.
-A die-hard Red Sox fan who lived to see them finally win in 2004, he reminds younger fans that it wasn’t always this way as today’s fans celebrate the golden years of New England Sports.
-As we all look forward to a healthier 2025 and being together for community gatherings, James also hopes to spend more time at Fenway and get back on the softball field.
+Staying connected to healthy and local food initiatives, prior to taking office James served on the Mass Farmers Markets Board of Directors. ​ A die-hard Red Sox fan who lived to see them finally win in 2004, he reminds younger fans that it wasn’t always this way as today’s fans celebrate the golden years of New England Sports.
+As we all look forward to a healthier 2025 and being together for community gatherings, James also hopes to spend more time at Fenway and get back on the softball field. ​ ​ ​ ​ ​ ​ ​ ​ DONATE Email Subscribe Thanks for subscribing!
+Paid for by the Arena-DeRosa Committee ​ 9 Mechanic Street, Holliston, MA.
+01746 Email: info@jamesforstaterep.com bottom of page

@@ -1,7 +1,11 @@
 {
  "description": "Terri Jamison Campaign Events",
  "final_url": "https://www.voteterrijamison.com/Events?range=2026-W42",
- "paid_for_by": null,
+ "fingerprint": "afbd8f766373f7b26cd8fdd567b48ee452864938",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Terri Jamison Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

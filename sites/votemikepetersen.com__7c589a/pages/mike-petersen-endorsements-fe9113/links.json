@@ -1,13 +1,46 @@
 [
-"https://campaignpartner.com/",
-"https://votemikepetersen.com/",
-"https://votemikepetersen.com/home",
-"https://votemikepetersen.com/introduction-video",
-"https://votemikepetersen.com/issues",
-"https://votemikepetersen.com/make-endorsement",
-"https://votemikepetersen.com/mike-petersen",
-"https://votemikepetersen.com/mike-petersen-endorsements",
-"https://votemikepetersen.com/news",
-"https://votemikepetersen.com/privacy",
-"https://votemikepetersen.com/subscribe"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://www.votemikepetersen.com/make-endorsement"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikepetersen.com/mike-petersen-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votemikepetersen.com/home"
+},
+{
+"text": "Introduction Video",
+"href": "https://www.votemikepetersen.com/introduction-video"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.votemikepetersen.com/mike-petersen"
+},
+{
+"text": "News",
+"href": "https://www.votemikepetersen.com/news"
+},
+{
+"text": "Policy Positions",
+"href": "https://www.votemikepetersen.com/issues"
+},
+{
+"text": "Privacy",
+"href": "https://www.votemikepetersen.com/privacy"
+},
+{
+"text": "Subscribe",
+"href": "https://www.votemikepetersen.com/subscribe"
+},
+{
+"text": "[image]",
+"href": "https://www.votemikepetersen.com/"
+}
 ]

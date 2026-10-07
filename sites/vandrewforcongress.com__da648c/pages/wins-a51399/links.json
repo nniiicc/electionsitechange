@@ -1,34 +1,134 @@
 [
-"https://facebook.com/VanDrewForCongress",
-"https://instagram.com/vandrewforcongress",
-"https://njleg.state.nj.us/bill-search/2024/SCR130",
-"https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website",
-"https://secure.winred.com/van-drew-for-congress/storefront",
-"https://team-turnout-tracker-frontend.onrender.com/",
-"https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1901",
-"https://vandrewforcongress.com/",
-"https://vandrewforcongress.com/2023/05/22/van-drew-announces-the-opening-of-new-veterans-healthcare-clinic-in-atlantic-county",
-"https://vandrewforcongress.com/2024/08/29/van-drew-introduces-bill-to-eliminate-income-tax-on-social-security-benefits",
-"https://vandrewforcongress.com/2025/03/06/van-drew-reaffirms-his-commitment-to-protecting-medicare-social-security-and-medicaid",
-"https://vandrewforcongress.com/2025/03/21/van-drew-renews-call-for-immediate-resignation-of-njbpu-leadership-over-destructive-policies",
-"https://vandrewforcongress.com/2025/04/11/van-drew-and-duffy-celebrate-permanent-future-of-faa-technical-center-in-south-jersey",
-"https://vandrewforcongress.com/2025/05/05/van-drew-do-not-cut-medicaid-medicare-or-social-security-to-those-that-are-legal-and-qualify-save-money-by-stopping-the-drug-companies-rip-offs",
-"https://vandrewforcongress.com/2025/05/05/van-drew-hosts-hud-secretary-for-a-listening-session-with-ac-public-housing-residents-and-community-leaders",
-"https://vandrewforcongress.com/2025/05/06/van-drew-slams-the-murphy-administration-for-lawsuit-over-offshore-wind-halt",
-"https://vandrewforcongress.com/2025/05/09/van-drew-condemns-lawless-actions-of-congressional-members-and-newark-mayor-breaking-into-nj-ice-detention-center",
-"https://vandrewforcongress.com/2025/05/15/van-drew-stands-ready-to-fight-slams-democrats-latest-push-for-north-jersey-casinos",
-"https://vandrewforcongress.com/2025/07/22/van-drew-secures-federal-possession-of-the-atlantic-city-housing-authority-after-years-of-mismanagement",
-"https://vandrewforcongress.com/2025/07/23/van-drew-to-governor-murphy-and-njbpu-stop-blaming-pjm-and-stop-the-delivery-fees",
-"https://vandrewforcongress.com/2025/08/07/van-drew-responds-to-governor-murphys-plan-to-make-his-extreme-energy-agenda-law",
-"https://vandrewforcongress.com/2026/01/09/van-drew-secures-major-federal-funding-for-critical-south-jersey-projects",
-"https://vandrewforcongress.com/2026/02/04/van-drew-delivers-additional-major-investments-for-south-jersey",
-"https://vandrewforcongress.com/awards-endorsements",
-"https://vandrewforcongress.com/endorsejvd",
-"https://vandrewforcongress.com/events",
-"https://vandrewforcongress.com/latest",
-"https://vandrewforcongress.com/privacy-policy",
-"https://vandrewforcongress.com/terms-conditions",
-"https://vandrewforcongress.com/wins",
-"https://vimeo.com/456249522",
-"https://waysandmeans.house.gov/2025/02/25/house-passes-budget-resolution-to-advance-one-big-beautiful-bill-that-will-deliver-tax-relief-to-working-families"
+{
+"text": "Awards & Endorsements",
+"href": "https://vandrewforcongress.com/awards-endorsements/"
+},
+{
+"text": "Boots on the Ground",
+"href": "https://team-turnout-tracker-frontend.onrender.com/"
+},
+{
+"text": "Click here to read more and for a complete timeline of Congressman Van Drew’s efforts to overhaul the Atlantic City Housing Authority.",
+"href": "https://vandrewforcongress.com/2025/07/22/van-drew-secures-federal-possession-of-the-atlantic-city-housing-authority-after-years-of-mismanagement/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website"
+},
+{
+"text": "Events",
+"href": "https://vandrewforcongress.com/events/"
+},
+{
+"text": "Latest News",
+"href": "https://vandrewforcongress.com/latest/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vandrewforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/van-drew-for-congress/storefront/"
+},
+{
+"text": "Support Jeff",
+"href": "https://vandrewforcongress.com/endorsejvd/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vandrewforcongress.com/terms-conditions/"
+},
+{
+"text": "Van Drew Announces the Opening of New Veterans Healthcare Clinic in Atlantic County",
+"href": "https://vandrewforcongress.com/2023/05/22/van-drew-announces-the-opening-of-new-veterans-healthcare-clinic-in-atlantic-county/"
+},
+{
+"text": "Van Drew Condemns Lawless Actions of Congressional Members and Newark Mayor Breaking Into NJ ICE Detention Center",
+"href": "https://vandrewforcongress.com/2025/05/09/van-drew-condemns-lawless-actions-of-congressional-members-and-newark-mayor-breaking-into-nj-ice-detention-center/"
+},
+{
+"text": "Van Drew Delivers Additional Major Investments for South Jersey",
+"href": "https://vandrewforcongress.com/2026/02/04/van-drew-delivers-additional-major-investments-for-south-jersey/"
+},
+{
+"text": "Van Drew Hosts HUD Secretary for a Listening Session with AC Public Housing Residents and Community Leaders",
+"href": "https://vandrewforcongress.com/2025/05/05/van-drew-hosts-hud-secretary-for-a-listening-session-with-ac-public-housing-residents-and-community-leaders/"
+},
+{
+"text": "Van Drew Introduces Bill to Eliminate Income Tax on Social Security Benefits",
+"href": "https://vandrewforcongress.com/2024/08/29/van-drew-introduces-bill-to-eliminate-income-tax-on-social-security-benefits/"
+},
+{
+"text": "Van Drew Reaffirms His Commitment to Protecting Social Security, Medicare, and Medicaid",
+"href": "https://vandrewforcongress.com/2025/03/06/van-drew-reaffirms-his-commitment-to-protecting-medicare-social-security-and-medicaid/"
+},
+{
+"text": "Van Drew Renews Call for Immediate Resignation of NJBPU Leadership Over Destructive Policies",
+"href": "https://vandrewforcongress.com/2025/03/21/van-drew-renews-call-for-immediate-resignation-of-njbpu-leadership-over-destructive-policies/"
+},
+{
+"text": "Van Drew Responds to Governor Murphy’s Plan to Make His Extreme Energy Agenda Law",
+"href": "https://vandrewforcongress.com/2025/08/07/van-drew-responds-to-governor-murphys-plan-to-make-his-extreme-energy-agenda-law/"
+},
+{
+"text": "Van Drew Secures Authorization of $61 Million for 177th Air National Guard Fighter Wing in South Jersey",
+"href": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1901"
+},
+{
+"text": "Van Drew Secures Federal Possession of the Atlantic City Housing Authority After Years of Mismanagement",
+"href": "https://vandrewforcongress.com/2025/07/22/van-drew-secures-federal-possession-of-the-atlantic-city-housing-authority-after-years-of-mismanagement/"
+},
+{
+"text": "Van Drew Secures Major Federal Funding for Critical South Jersey Projects",
+"href": "https://vandrewforcongress.com/2026/01/09/van-drew-secures-major-federal-funding-for-critical-south-jersey-projects/"
+},
+{
+"text": "Van Drew Slams the Murphy Administration for Lawsuit Over Offshore Wind Halt",
+"href": "https://vandrewforcongress.com/2025/05/06/van-drew-slams-the-murphy-administration-for-lawsuit-over-offshore-wind-halt/"
+},
+{
+"text": "Van Drew Stands Ready to Fight, Slams Democrats’ Latest Push for North Jersey Casinos",
+"href": "https://vandrewforcongress.com/2025/05/15/van-drew-stands-ready-to-fight-slams-democrats-latest-push-for-north-jersey-casinos/"
+},
+{
+"text": "Van Drew and Duffy Celebrate Permanent Future of FAA Technical Center in South Jersey",
+"href": "https://vandrewforcongress.com/2025/04/11/van-drew-and-duffy-celebrate-permanent-future-of-faa-technical-center-in-south-jersey/"
+},
+{
+"text": "Van Drew to Governor Murphy and NJBPU: Stop Blaming PJM and Stop the Delivery Fees",
+"href": "https://vandrewforcongress.com/2025/07/23/van-drew-to-governor-murphy-and-njbpu-stop-blaming-pjm-and-stop-the-delivery-fees/"
+},
+{
+"text": "Van Drew: Do Not Cut Medicaid, Medicare, or Social Security To Those That are Legal and Qualify, Save Money by Stopping the Drug Companies Rip-Offs",
+"href": "https://vandrewforcongress.com/2025/05/05/van-drew-do-not-cut-medicaid-medicare-or-social-security-to-those-that-are-legal-and-qualify-save-money-by-stopping-the-drug-companies-rip-offs/"
+},
+{
+"text": "Wins for South Jersey",
+"href": "https://vandrewforcongress.com/wins/"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/456249522"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VanDrewForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vandrewforcongress/"
+},
+{
+"text": "introduced legislation",
+"href": "https://www.njleg.state.nj.us/bill-search/2024/SCR130"
+},
+{
+"text": "would have paid at least $1,700 more a year in Federal income taxes",
+"href": "https://waysandmeans.house.gov/2025/02/25/house-passes-budget-resolution-to-advance-one-big-beautiful-bill-that-will-deliver-tax-relief-to-working-families/"
+}
 ]

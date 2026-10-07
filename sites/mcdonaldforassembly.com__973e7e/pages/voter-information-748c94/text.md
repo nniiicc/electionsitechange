@@ -1,51 +1,11 @@
-VOTER INFORMATION
-2026 General Election
-The 2026 General Election will be held on Tuesday, November 3, 2026.
-Election Day
-Tuesday, November 3, 2026
-Polls are open 6:00 AM – 9:00 PM
-Early Voting
-Saturday, October 24 – Sunday, November 1, 2026
-Early Voting hours and locations vary by county.
-Registered voters may vote at any designated Early Voting location within their county.
-Find Your Polling Place
-Not sure where to vote?
-The New York State Board of Elections Voter Lookup can help you:
-- Find your Election Day polling place
-- Find Early Voting locations
-- Check your voter registration information
-- Track an early mail or absentee ballot
--
-Find your polling place here: https://voterlookup.elections.ny.gov/
-County Board of Elections
-The 108th Assembly District includes portions of Albany, Rensselaer and Saratoga counties.
+top of page DONATE SUBSCRIBE MY FINANCIAL DISCLOSURE Home About Me Accomplishments 108th District Endorsements Videos Contact Voter Information Events More Use tab to navigate through the menu items.
+VOTER INFORMATION ​ 2026 General Election The 2026 General Election will be held on Tuesday, November 3, 2026.
+Election Day Tuesday, November 3, 2026 Polls are open 6:00 AM – 9:00 PM Early Voting Saturday, October 24 – Sunday, November 1, 2026 ​ Early Voting hours and locations vary by county.
+Registered voters may vote at any designated Early Voting location within their county. ​ Find Your Polling Place ​ Not sure where to vote?
+The New York State Board of Elections Voter Lookup can help you: ​ Find your Election Day polling place Find Early Voting locations Check your voter registration information Track an early mail or absentee ballot ​ Find your polling place here: https://voterlookup.elections.ny.gov/ County Board of Elections The 108th Assembly District includes portions of Albany, Rensselaer and Saratoga counties.
 Your county Board of Elections can provide information about Early Voting locations, hours, voter registration, absentee and early mail ballots, and other election questions.
-Albany County
-Albany County Board of Elections
-260 South Pearl Street
-Albany, NY 12202
-Phone: (518) 487-5060
-Email: boardofelections@AlbanyCountyNY.gov
-Office Hours: Monday–Friday, 8:30 AM–4:30 PM
-Visit Albany County Board of Elections: https://www.albanycountyny.gov/vote
-Rensselaer County
-Rensselaer County Board of Elections
-116 Pinewoods Avenue
-Troy, NY 12180
-Phone: (518) 270-2990
-Office Hours: Monday–Friday, 9:00 AM–5:00 PM
-Visit the Rensselaer County Board of Elections: https://www.rensco.com/429/Elections
-Saratoga County
-Saratoga County Board of Elections
-50 West High Street
-Ballston Spa, NY 12020
-Phone: (518) 885-2249
-Office Hours: Monday–Friday, 9:00 AM–5:00 PM
-Visit the Saratoga County Board of Elections: https://www.saratogacountyny.gov/departments/board-of-elections/
-Other Ways to Vote
-New York voters may also have the option to vote by Early Mail Ballot or Absentee Ballot.
-Information about eligibility, applications, deadlines and ballot tracking is available through the New York State Board of Elections.
-Have Questions?
-For questions about your registration, polling place, Early Voting location or ballot, contact your County Board of Elections or visit the New York State Board of Elections.
-Your vote matters.
+Albany County Albany County Board of Elections 260 South Pearl Street Albany, NY 12202 Phone: (518) 487-5060 Email: boardofelections@AlbanyCountyNY.gov Office Hours: Monday–Friday, 8:30 AM–4:30 PM Visit Albany County Board of Elections: https://www.albanycountyny.gov/vote ​ Rensselaer County Rensselaer County Board of Elections 116 Pinewoods Avenue Troy, NY 12180 Phone: (518) 270-2990 Office Hours: Monday–Friday, 9:00 AM–5:00 PM Visit the Rensselaer County Board of Elections: https://www.rensco.com/429/Elections ​ Saratoga County Saratoga County Board of Elections 50 West High Street Ballston Spa, NY 12020 Phone: (518) 885-2249 Office Hours: Monday–Friday, 9:00 AM–5:00 PM Visit the Saratoga County Board of Elections: https://www.saratogacountyny.gov/departments/board-of-elections/ ​ Other Ways to Vote New York voters may also have the option to vote by Early Mail Ballot or Absentee Ballot.
+Information about eligibility, applications, deadlines and ballot tracking is available through the New York State Board of Elections. https://elections.ny.gov/ Have Questions?
+For questions about your registration, polling place, Early Voting location or ballot, contact your County Board of Elections or visit the New York State Board of Elections. ​ Your vote matters.
 Make a plan to vote this November.
+John McDonald - NYS ASSEMBLY - 108th DISTRICT • Cohoes • Green Island • East Greenbush • North Greenbush • Rensselaer • Troy • Waterford • Watervliet Paid for by McDonald for Assembly bottom of page

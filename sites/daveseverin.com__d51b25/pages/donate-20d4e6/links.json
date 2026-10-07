@@ -1,10 +1,46 @@
 [
-"https://daveseverin.com/",
-"https://daveseverin.com/donate",
-"https://daveseverin.com/join-state-representative-dave-severin",
-"https://daveseverin.com/news",
-"https://daveseverin.com/on-the-campaign-trail",
-"https://facebook.com/votedaveseverin",
-"https://secure.winred.com/friends-of-dave-severin-45a2fff9/donate?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true",
-"https://wordpress.org/"
+{
+"text": "Click here or click the image below to donate online.",
+"href": "https://secure.winred.com/friends-of-dave-severin-45a2fff9/donate?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Donate",
+"href": "https://daveseverin.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votedaveseverin/"
+},
+{
+"text": "Meet Dave",
+"href": "https://daveseverin.com/"
+},
+{
+"text": "News",
+"href": "https://daveseverin.com/news/"
+},
+{
+"text": "Photos",
+"href": "https://daveseverin.com/on-the-campaign-trail/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "State Representative Dave Severin",
+"href": "https://daveseverin.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://daveseverin.com/join-state-representative-dave-severin/"
+},
+{
+"text": "[image: State Representative Dave Severin]",
+"href": "https://daveseverin.com/"
+},
+{
+"text": "[image: donate-friends-of-dave-severin-winred]",
+"href": "https://secure.winred.com/friends-of-dave-severin-45a2fff9/donate?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+}
 ]

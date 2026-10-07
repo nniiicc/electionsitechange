@@ -1,19 +1,82 @@
 [
-"https://facebook.com/WixStudio",
-"https://facebook.com/profile.php?id=61589979603928",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fcoffee-conversation&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fjoin-our-canvass-team&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/jennifermasseyforflorida",
-"https://instagram.com/wix",
-"https://jennifermasseyforflorida.com/",
-"https://jennifermasseyforflorida.com/blank-1",
-"https://jennifermasseyforflorida.com/event-details/coffee-conversation",
-"https://jennifermasseyforflorida.com/event-details/join-our-canvass-team",
-"https://jennifermasseyforflorida.com/privacy-policy",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fcoffee-conversation",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fjoin-our-canvass-team",
-"https://tiktok.com/@jennifermasseyforflorida",
-"https://tiktok.com/@wix",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fcoffee-conversation&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fjoin-our-canvass-team&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "Coffee & Conversation",
+"href": "https://www.jennifermasseyforflorida.com/event-details/coffee-conversation"
+},
+{
+"text": "EVENTS",
+"href": "https://www.jennifermasseyforflorida.com/blank-1"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61589979603928"
+},
+{
+"text": "HOME",
+"href": "https://www.jennifermasseyforflorida.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/jennifermasseyforflorida/"
+},
+{
+"text": "Join our Canvass Team",
+"href": "https://www.jennifermasseyforflorida.com/event-details/join-our-canvass-team"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jennifermasseyforflorida.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.jennifermasseyforflorida.com/event-details/coffee-conversation"
+},
+{
+"text": "RSVP",
+"href": "https://www.jennifermasseyforflorida.com/event-details/join-our-canvass-team"
+},
+{
+"text": "TIKTOK",
+"href": "https://www.tiktok.com/@jennifermasseyforflorida"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fcoffee-conversation&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fjoin-our-canvass-team&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fcoffee-conversation&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fjoin-our-canvass-team&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.jennifermasseyforflorida.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fcoffee-conversation"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jennifermasseyforflorida.com%2Fevent-details%2Fjoin-our-canvass-team"
+}
 ]

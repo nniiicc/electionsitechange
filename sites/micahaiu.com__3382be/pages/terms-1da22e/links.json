@@ -1,3 +1,10 @@
 [
-"https://micahaiu.com/privacy"
+{
+"text": "micahaiu.com/privacy",
+"href": "https://www.micahaiu.com/privacy"
+},
+{
+"text": "vote@micahaiu.com",
+"href": "mailto:vote@micahaiu.com"
+}
 ]

@@ -1,38 +1,150 @@
 [
-"http://211arizona.org/",
-"http://abortionfundaz.org/",
-"http://adelantehealthcare.com/",
-"http://arizonafamilyhealth.org/",
-"http://arizonaselfhelp.org/",
-"http://az529.gov/",
-"http://azhousingcoalition.org/",
-"http://firstfoodbank.org/",
-"http://firstthingsfirst.org/",
-"http://healthcare.gov/",
-"http://healthearizonaplus.gov/",
-"http://resolve.org/",
-"http://valleywisehealth.org/",
-"https://azed.gov/assessment/parents",
-"https://bsky.app/profile/nurselee4az.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/NurseLee4AZ",
-"https://google.com/search?q=https%3A%2F%2Fdes.az.gov%2Fservices%2Folder-adults%2Fmedicare-assistance",
-"https://google.com/search?q=https%3A%2F%2Fwww.maricopa.gov%2F528%2FHuman-Services",
-"https://google.com/search?q=https%3A%2F%2Fwww.pinal.gov%2F481%2FCommunity-Action-Agency",
-"https://instagram.com/NurseLee4AZ",
-"https://linkedin.com/in/nurselee4az",
-"https://nurselee4az.com/",
-"https://nurselee4az.com/JoinUs",
-"https://nurselee4az.com/Your_voice",
-"https://nurselee4az.com/about",
-"https://nurselee4az.com/contact",
-"https://nurselee4az.com/endorsements",
-"https://nurselee4az.com/events",
-"https://nurselee4az.com/issues",
-"https://nurselee4az.com/news",
-"https://nurselee4az.com/socials",
-"https://phoenixpubliclibrary.org/collegedepot",
-"https://plannedparenthood.org/planned-parenthood-arizona",
-"https://secure.actblue.com/donate/nurselee4az",
-"https://threads.net/@NurseLee4AZ"
+{
+"text": "211Arizona.org",
+"href": "http://211arizona.org"
+},
+{
+"text": "AZ529.gov",
+"href": "http://az529.gov"
+},
+{
+"text": "AZHousingCoalition.org",
+"href": "http://azhousingcoalition.org"
+},
+{
+"text": "AbortionFundAZ.org",
+"href": "http://abortionfundaz.org"
+},
+{
+"text": "About",
+"href": "https://www.nurselee4az.com/about"
+},
+{
+"text": "AdelanteHealthcare.com",
+"href": "http://adelantehealthcare.com"
+},
+{
+"text": "ArizonaFamilyHealth.org",
+"href": "http://arizonafamilyhealth.org"
+},
+{
+"text": "ArizonaSelfHelp.org",
+"href": "http://arizonaselfhelp.org"
+},
+{
+"text": "Azed.gov/Parents",
+"href": "https://www.azed.gov/assessment/parents"
+},
+{
+"text": "Contact",
+"href": "https://www.nurselee4az.com/contact"
+},
+{
+"text": "DES Medicare Assistance",
+"href": "https://www.google.com/search?q=https%3A%2F%2Fdes.az.gov%2Fservices%2Folder-adults%2Fmedicare-assistance"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nurselee4az"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nurselee4az.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.nurselee4az.com/events"
+},
+{
+"text": "FirstFoodBank.org",
+"href": "http://firstfoodbank.org"
+},
+{
+"text": "FirstThingsFirst.org",
+"href": "http://firstthingsfirst.org"
+},
+{
+"text": "Healthcare.gov",
+"href": "http://healthcare.gov"
+},
+{
+"text": "HealtheArizonaPlus.gov",
+"href": "http://healthearizonaplus.gov"
+},
+{
+"text": "Issues",
+"href": "https://www.nurselee4az.com/issues"
+},
+{
+"text": "Maricopa.gov/HumanServices",
+"href": "https://www.google.com/search?q=https%3A%2F%2Fwww.maricopa.gov%2F528%2FHuman-Services"
+},
+{
+"text": "News",
+"href": "https://www.nurselee4az.com/news"
+},
+{
+"text": "PhoenixPublicLibrary.org/CollegeDepot",
+"href": "https://www.phoenixpubliclibrary.org/collegedepot"
+},
+{
+"text": "Pinal.gov/CommunityAction",
+"href": "https://www.google.com/search?q=https%3A%2F%2Fwww.pinal.gov%2F481%2FCommunity-Action-Agency"
+},
+{
+"text": "PlannedParenthood.org/Arizona",
+"href": "https://www.plannedparenthood.org/planned-parenthood-arizona"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Resolve.org",
+"href": "http://resolve.org"
+},
+{
+"text": "Socials",
+"href": "https://www.nurselee4az.com/socials"
+},
+{
+"text": "ValleywiseHealth.org",
+"href": "http://valleywisehealth.org"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nurselee4az.com/JoinUs"
+},
+{
+"text": "Your Voice",
+"href": "https://www.nurselee4az.com/Your_voice"
+},
+{
+"text": "[image: Elizabeth \"Nurse Lee\" for Congress | Arizona District 5 | 2026]",
+"href": "https://www.nurselee4az.com/"
+},
+{
+"text": "[image: Elizabeth Lee for Congress logo]",
+"href": "https://www.nurselee4az.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nurselee4az.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/NurseLee4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/NurseLee4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/nurselee4az"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@NurseLee4AZ"
+}
 ]

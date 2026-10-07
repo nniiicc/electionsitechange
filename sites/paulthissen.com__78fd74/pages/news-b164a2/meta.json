@@ -1,10 +1,14 @@
 {
  "description": "",
  "final_url": "https://paulthissen.com/news/",
+ "fingerprint": "a71844de9d600c66cc6478bf77507d3234187120",
+ "format": 3,
  "paid_for_by": "Paid for by Minnesotans for Justice Paul Thissen, 4427 Fremont Ave S",
  "title": "News | Justice Paul Thissen",
  "years_mentioned": [
+  "2004",
   "2018",
-  "2020"
+  "2020",
+  "2038"
  ]
 }

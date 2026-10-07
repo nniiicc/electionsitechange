@@ -1,14 +1,10 @@
-WHITTIER, Calif. – On the heels of yet another shooting by an ICE agent, Congresswoman Linda Sánchez sharply criticized ICE’s reckless and lawless behavior:
-“Donald Trump has turned ICE into the most corrupt, dangerous federal agency I’ve ever seen in my life.
+Meet Linda Endorsements News Results Get Involved Media Donate Meet Linda Endorsements News Results Get Involved Media Donate Congresswoman Sánchez: ICE shooting in Stanislaus County unacceptable Press Release | April 8, 2026 WHITTIER, Calif. – On the heels of yet another shooting by an ICE agent, Congresswoman Linda Sánchez sharply criticized ICE’s reckless and lawless behavior: “Donald Trump has turned ICE into the most corrupt, dangerous federal agency I’ve ever seen in my life.
 We are less safe with his lawless thugs patrolling our streets, and it’s tearing our community apart.
 In Congress, I refuse to send another penny to fund ICE until we fully reform the organization and rebuild it from the ground up.
-I’m demanding body cameras for agents, background checks for new hires, and dozens more guardrails to stop ICE’s extreme cruelty and abuse of power.”
-The Northern California shooting is being investigated by local law enforcement, and details are still coming to light, but it follows a string of shocking and unacceptable conduct by ICE agents that has been exposed in the past week:
-- The Atlantic revealed that ICE agents tackled a rape survivor to the ground while she was leaving a courthouse after testifying against her rapist.
-- In Louisiana, ICE detained the wife of a servicemember while he was preparing to be deployed.
-- Video evidence undermined ICE’s claims about a January shooting carried out by ICE agents in Minnesota.
+I’m demanding body cameras for agents, background checks for new hires, and dozens more guardrails to stop ICE’s extreme cruelty and abuse of power.” The Northern California shooting is being investigated by local law enforcement, and details are still coming to light, but it follows a string of shocking and unacceptable conduct by ICE agents that has been exposed in the past week: The Atlantic revealed that ICE agents tackled a rape survivor to the ground while she was leaving a courthouse after testifying against her rapist.
+In Louisiana, ICE detained the wife of a servicemember while he was preparing to be deployed.
+Video evidence undermined ICE’s claims about a January shooting carried out by ICE agents in Minnesota.
 The evidence revealed that ICE lied about the incident, and led federal authorities to open a criminal investigation into the officers who lied under oath.
 “Donald Trump has been held legally liable of sexual abuse by a jury of his peers, so it’s not surprising to see Trump use ICE to defend accused rapists and silence victims.
 It’s a horrifying and unacceptable abuse of power.
-Victims of sexual violence deserve better.”
-###
+Victims of sexual violence deserve better.” ### Meet Linda Endorsements News Results Get Involved Media Donate Privacy Policy Paid for by Stand with Sanchez © # All rights reserved.

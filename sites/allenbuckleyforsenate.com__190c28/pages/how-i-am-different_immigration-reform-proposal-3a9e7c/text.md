@@ -1,7 +1,9 @@
-Outside temporary VISAs (which are large in number), there are two categories: those here illegally and those entering legally, and potentially getting Lawful Permanent Resident (LPR) status.
+Skip to content Donate Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Allen Buckley for U.S.
+Senate Let's buck the system!
+Donate Donate About Me Ballot Access Home Media Inquires Participate Press Releases Why Vote For Me All Solutions and Positions Environmental Protection Fix the Finances Immigration Reform Proposal Reduce Healthcare Costs Rein in the Executive Branch Immigration Reform Proposal Outside temporary VISAs (which are large in number), there are two categories: those here illegally and those entering legally, and potentially getting Lawful Permanent Resident (LPR) status.
 First, I believe we absolutely need to enforce the border.
-(The Trump Administration has done well in this regard.)
-For those here illegally, I’m against ICE mass deportations.
+(The Trump Administration has done well in this regard.) For those here illegally, I’m against ICE mass deportations.
 But, criminals with felony convictions should be deported.
 People brought here as children should be allowed to stay, and be granted a path to U.S. citizenship.
 BOTH major parties let in illegals immigrants, not just the Biden Administration.
@@ -18,3 +20,5 @@ I think we should replace the 7% per country limit with pro rata based on world 
 The U.S. also permits 55,000 people per year to enter from underrepresented countries.
 I think we should increase the limit on underrepresented countries from 55,000 to 100,000.
 Finally, all of those coming in should not be eligible for day-to-day entitlements, such as Medicaid and SNAP (food stamps) or refundable tax credits.
+Summary of my Practical Immigration Reform Act of 2027 My proposed Practical Immigration Reform Act of 2027 Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Authorized by Buckley 2026 LLC Scroll to Top

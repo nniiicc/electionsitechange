@@ -1,4 +1,4 @@
-I grew up in rural Hawaii.
+Home Meet Athena Issues Endorsements Vote Volunteer Contact Donate Home Meet Athena Issues Endorsements Vote Volunteer Contact Donate For Minnesota State House 66B I grew up in rural Hawaii.
 I learned the value of hard work and service from my father, a veteran and small business owner.
 My mother, a social worker, taught me the value of empathy and reaching out a helping hand to those in need.
 They taught me to believe that there isn’t anything that we can’t accomplish together as long as we are willing to listen to each other and put in the necessary effort.
@@ -23,3 +23,4 @@ I’ve heard too many stories from people priced out of their homes because of t
 I know that these are problems that we can solve together.
 It is going to take a lot of work, but I know that no problem is bigger than what we can all achieve together.
 I’m looking forward to talking to as many of you as possible, and I hope you’ll reach out to me to share your concerns or ideas.
+Donate Designed by Techiki ©# | Prepared and paid for by Athena Hollins for House

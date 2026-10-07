@@ -1,16 +1,66 @@
 [
-"https://drive.google.com/drive/folders/1TLUbM4otcGBQyszkFhcWauX0vnJ_hdKi?usp=sharing",
-"https://google.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%253D5eZJzYQOPzo%26source%3Dgmail-imap%26ust%3D1768913436000000%26usg%3DAOvVaw0Rbv8QIg1kf8jeo_rSeqpB&ust=1768920164000000&usg=AOvVaw1t6jOsuhLIcywIuCaqvnqH",
-"https://google.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%253D6znuAxNhLuo%2526t%253D1s%26source%3Dgmail-imap%26ust%3D1768913436000000%26usg%3DAOvVaw1C6IOSxT_NfQoo7CN7lpsU&ust=1768920164000000&usg=AOvVaw1HcFWv5yQWqwb_SBraI0ed",
-"https://google.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%253Dl_39yQy8cSA%26source%3Dgmail-imap%26ust%3D1768913436000000%26usg%3DAOvVaw0nIVwH2gTFPOJpPRLcNBMs&ust=1768920164000000&usg=AOvVaw1Ci6qdyIK7Evkd0sHNsy6A",
-"https://jessicasteinmann.com/",
-"https://jessicasteinmann.com/about",
-"https://jessicasteinmann.com/cart",
-"https://jessicasteinmann.com/endorsement",
-"https://jessicasteinmann.com/issues",
-"https://jessicasteinmann.com/media",
-"https://jessicasteinmann.com/memo",
-"https://jessicasteinmann.com/volunteer",
-"https://secure.winred.com/steinmann-for-congress/donate-today",
-"https://x.com/TeamSteinmann"
+{
+"text": "0",
+"href": "https://www.jessicasteinmann.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jessicasteinmann.com/about"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/steinmann-for-congress/donate-today"
+},
+{
+"text": "Direct mail and text messaging targeting universes",
+"href": "https://drive.google.com/drive/folders/1TLUbM4otcGBQyszkFhcWauX0vnJ_hdKi?usp=sharing"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jessicasteinmann.com/endorsement"
+},
+{
+"text": "HOME",
+"href": "https://www.jessicasteinmann.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jessicasteinmann.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.jessicasteinmann.com/media"
+},
+{
+"text": "MEMO",
+"href": "https://www.jessicasteinmann.com/memo"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jessicasteinmann.com/volunteer"
+},
+{
+"text": "[image: Jessica Steinmann]",
+"href": "https://www.jessicasteinmann.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/steinmann-for-congress/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://x.com/TeamSteinmann"
+},
+{
+"text": "https://www.youtube.com/watch?v=5eZJzYQOPzo",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%253D5eZJzYQOPzo%26source%3Dgmail-imap%26ust%3D1768913436000000%26usg%3DAOvVaw0Rbv8QIg1kf8jeo_rSeqpB&ust=1768920164000000&usg=AOvVaw1t6jOsuhLIcywIuCaqvnqH"
+},
+{
+"text": "https://www.youtube.com/watch?v=6znuAxNhLuo&t=1s",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%253D6znuAxNhLuo%2526t%253D1s%26source%3Dgmail-imap%26ust%3D1768913436000000%26usg%3DAOvVaw1C6IOSxT_NfQoo7CN7lpsU&ust=1768920164000000&usg=AOvVaw1HcFWv5yQWqwb_SBraI0ed"
+},
+{
+"text": "https://www.youtube.com/watch?v=l_39yQy8cSA",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%253Dl_39yQy8cSA%26source%3Dgmail-imap%26ust%3D1768913436000000%26usg%3DAOvVaw0nIVwH2gTFPOJpPRLcNBMs&ust=1768920164000000&usg=AOvVaw1Ci6qdyIK7Evkd0sHNsy6A"
+}
 ]

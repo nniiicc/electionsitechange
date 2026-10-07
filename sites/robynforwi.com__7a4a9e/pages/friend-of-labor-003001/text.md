@@ -1,15 +1,11 @@
-Endorsed by Unions, married to a Union member!
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Endorsed by Unions, married to a Union member!
 I am the daughter of a public school teacher, the wife of a professor, and the mother of two kids who grew up in the Wauwatosa public schools.
 I know the value of work, and how important it is to respect and honor the dignity of work and workers.
 Unions make the American Dream possible, and unions created the middle class!
 My family is a proud union household.
 I have seen firsthand how unions can benefit Wisconsin’s families, and have stood in solidarity alongside nurses, teachers, autoworkers, and more.
 Milwaukee has a long progressive history of labor leading the way.
-It was here unions fought for and birthed the weekend, the 40 hour workweek, and the 8 hour workday.
-The birth of unions in the early 1900s ensured that workers would have protections from their wealthy and powerful employers.
-Here are some of the bills I have recently co-authored:
-- Repealing the Republican’s “Right-to-Work” law
-- Reinstating Wisconsin’s prevailing wage laws
-- Repealing the ban on project labor agreements
-- Restoring collective bargaining
-In January, I co-authored the Patient Care and Worker Empowerment Act in support of nurses and hospital employees.
+It was here unions fought for and birthed the weekend, the # hour workweek, and the # hour workday.
+The birth of unions in the early #s ensured that workers would have protections from their wealthy and powerful employers.
+Here are some of the bills I have recently co-authored: Repealing the Republican’s “Right-to-Work” law Reinstating Wisconsin’s prevailing wage laws Repealing the ban on project labor agreements Restoring collective bargaining In January, I co-authored the Patient Care and Worker Empowerment Act in support of nurses and hospital employees.
+Learn more about Robyn’s Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care for Climate Violence Prevention Justice for All Working Together Learn more about Robyn’s Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care for Climate Violence Prevention Justice for All Working Together  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

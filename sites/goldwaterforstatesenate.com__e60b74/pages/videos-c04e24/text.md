@@ -1,10 +1,1 @@
-top of page
-Home
-Meet John
-What I'm Fighting For
-Donate
-Events
-Contact
-Gallery
-Videos
-bottom of page
+top of page Home Meet John What I'm Fighting For Donate Events Contact Gallery Videos 586-307-5679 info@goldwaterforstatesenate.com ​ Paid for by John James Goldwater for State Senate 54672 Avondale Drive, New Baltimore, Michigan 48047 bottom of page

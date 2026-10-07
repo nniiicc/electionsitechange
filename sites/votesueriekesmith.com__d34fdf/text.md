@@ -1,15 +1,7 @@
-Trauma nurse, Superintendent, Grandmother, Oregonian, HD26 Rep.
+0 Skip to Content Home About Rep Sue A Plan for Action Fight with Rep Sue Endorsements Open Menu Close Menu Home About Rep Sue A Plan for Action Fight with Rep Sue Endorsements Open Menu Close Menu Home About Rep Sue A Plan for Action Fight with Rep Sue Endorsements Trauma nurse, Superintendent, Grandmother, Oregonian, HD26 Rep.
 Representative Sue Rieke Smith is seeking to continue representing House District 26 in the State Legislature.
 She has spent her life serving Oregonians, first as a trauma and public health nurse, and later as a teacher, principal and superintendent.
-“I’m running to continue serving as the Representative for Oregon House District 26 because I believe in protecting our constitutional rights, standing up for Oregon values.Our communities deserve bold, pragmatic and principled leadership that always puts people first.”
-Representative Sue Rieke Smith champions
-- Safeguarding our constitutional especially freedom of speech, worship and choice
-- Economic development that not only strengthens local business growth and competitiveness but also ensure that prosperity reaches workers through quality jobs offering fair wages, affordable childcare, and paid family leave
-- Secure stable housing, food security and quality public education
-- Access to affordable health care and the personal decisions about all
-- Reproductive care
-Leadership Rooted in Service
-Representative Sue Rieke Smith’s career is rooted in public service and social justice.
+“I’m running to continue serving as the Representative for Oregon House District 26 because I believe in protecting our constitutional rights, standing up for Oregon values.Our communities deserve bold, pragmatic and principled leadership that always puts people first.” Representative Sue Rieke Smith champions Safeguarding our constitutional especially freedom of speech, worship and choice Economic development that not only strengthens local business growth and competitiveness but also ensure that prosperity reaches workers through quality jobs offering fair wages, affordable childcare, and paid family leave Secure stable housing, food security and quality public education Access to affordable health care and the personal decisions about all Reproductive care Campaign Updates July 13, 2026 Cooking for a Cause July 13, 2026 Read more → July 13, 2026 July 13, 2026 Walk with Rep Sue Rieke Smith at the Sherwood Robin Hood Festival July 13, 2026 Read more → July 13, 2026 Leadership Rooted in Service Representative Sue Rieke Smith’s career is rooted in public service and social justice.
 She began with trauma and public health nursing, working closely with those most impacted by poverty and racial inequities.
 As a nurse, she helped lead efforts to unionize her workplace, fighting for fair wages and safe working conditions for her colleagues and patients.
 Over time, she came to believe that many of the challenges people face can be traced back to the opportunities, or lack of opportunities, afforded to them as children.
@@ -18,66 +10,57 @@ Representative Sue Rieke Smith earned her Ed.D. in Educational Leadership and Po
 She served as superintendent for both the Tigard-Tualatin School District and Springfield Public Schools in Oregon, where she championed strong school-community partnerships.
 She actively collaborated with local governments and the chambers of commerce, serving as an ex-officio board member on the Springfield, Tigard and Tualatin chambers.
 During her tenure, both school districts saw gains in academic achievement.
-READY TO STAND WITH REP SUE RIEKE SMITH?
-A Heart for Service; A Plan for Action
-Strong Public Schools
-As an education advocate for over 25 years, Representative Sue Rieke Smith knows that excellent neighborhood schools are the foundation of a thriving community; but she also knows our schools are facing serious challenges.
+Learn more about Rep Sue Rieke Smith Representative Sue Rieke Smith is a knowledgeable, effective, and compassionate community leader.
+All of her professional experiences are the foundation that gives her the ability to succeed in this opportunity to serve.
+No one is more qualified to immediately engage in the work of the office of Representative for District 26. - Karen Emerson; Former TTSD Board Member & Community Volunteer Representative Rieke-Smith has a proven record of service, particularly in the areas of public education and public health.
+Her experience as a school superintendent means she has a complete understanding of Oregon school funding, as well as how federal and state laws impact our systems.
+Furthermore, her background as a trauma and public health nurse guarantees that she will focus on the health and safety of Oregonians in her decision-making.
+She is smart, she is thoughtful, she is compassionate, and she is dedicated to making Oregon a better place.
+She will start making a difference for Oregonians on her first day in office as she fills the seat vacated by Representative Courtney Neron, and I am excited to endorse her for this role. - Jill Zurschmeide; TTSD School Board Member I know Representative Sue Rieke Smith will be a strong advocate for our public schools and for our children.
+She brings a wealth of knowledge and connections to the role of legislator that will allow her to immediately be effective in responding to the many challenges faced by our state. - Carol Greenough; Convenor, East Washington County Dems & Retired Psychologist I have had the privilege of working with Representative Sue Rieke-Smith and witnessing the depth of her commitment to public service, legislative advocacy, and equity.
+As a former superintendent, she brought thoughtful, strategic leadership to her district.
+She has a deep understanding of public education and is an unwavering champion for accessible healthcare and racial and social justice, things which make her uniquely prepared to serve as a State Representative.
+Representative Sue Rieke Smith brings a rare combination of integrity and vision—qualities essential for effective and principled state leadership.
+I fully endorse her candidacy and am confident she will continue to be a powerful advocate for inclusive, community-centered policy. - Tristan Irvin; TTSD School Board Chair Representative Sue Rieke-Smith has dedicated her career to public service which includes serving as a trauma and public health nurse as well as leading Oregon K-12 school districts.
+Accountability, early literacy, and workforce development are top priorities in the 2025 Oregon Legislative Session.
+Sue has a deep understanding of these initiatives as they define her work as an educational leader; she will naturally step into this education advocate role once held by Senator Neron.
+Representative Rieke Smith’s vision for Oregon extends well beyond education.
+She will champion legislation which builds strong and vital communities through affordable housing efforts, economic development, and adequate and appropriate healthcare.
+Representative Rieke Smith’s interests, intellect, and passion for Oregon will deliver outstanding results for our community and across the state. - Maureen Wolf; Council President, Tigard City Council & Vice Chair, Northwest Regional Education Service District As a former superintendent of the Tigard-Tualatin School District, Representative Sue Rieke Smith brings a unique and invaluable perspective to public service.
+She understands local government challenges from both the policy and administrative sides.
+Her experience navigating complex issues like education funding, infrastructure, and public safety gives her a well-rounded view that will serve the residents and businesses of House District 26 well.
+Representative Sue Rieke Smith knows how to make systems work at the local level, and she brings a collaborative, solution-oriented mindset that our region needs in Salem. - Yi-Kang Hu; Mayor, Tigard I fully support Representative Sue Rieke-Smith for Oregon House District 26 Representative.
+Representative Rieke Smith is a proven leader, and I am confident that she is committed to supporting the needs of our King City residents along with the entire district. - Ken Gibson; Former Mayor, King City Representative Rieke Smith's unwavering commitment to equity and inclusion is not just a guiding principle, but a consistent devotion.
+Through her time as my Superintendent we worked on challenging systemic barriers in education while amplifying underrepresented voices.
+All with the goal of making the Tigard Tualatin School District a more inclusive environment and I believe she will bring this devotion to the Oregon State Legislature. - Abdirahim Mohamoud; Former Black Student Union President and Former President of College Dems of Oregon READY TO STAND WITH REP SUE RIEKE SMITH?
+DONATE TO THE FIGHT TODAY HELP US WITH THE FIGHT TODAY A Heart for Service; A Plan for Action Strong Public Schools As an education advocate for over 25 years, Representative Sue Rieke Smith knows that excellent neighborhood schools are the foundation of a thriving community; but she also knows our schools are facing serious challenges.
 Chronic underfunding, rising class sizes, and educator burnout are threatening the future of public education.
 She will fight for increased state investment, competitive teacher pay, and safe, modern facilities so every student (regardless of background or zip code) can succeed.
 She opposes private school vouchers and government overreach like book bans that distract from learning and politicize classrooms.
 Instead, Representative Rieke Smith supports local decision-making and targeted investments that strengthen public education right here in our community.
-Affordable Housing & Ending Homelessness
-Representative Sue Rieke Smith believes safe and stable housing is a human right.
+Affordable Housing & Ending Homelessness Representative Sue Rieke Smith believes safe and stable housing is a human right.
 As housing prices rise across our suburbs, more working families are struggling to stay in the communities they love.
 She will champion smart, locally informed policies to expand affordable housing, protect tenants, and prevent homelessness.
 She will partner with cities and nonprofits to address root causes like mental illness, addiction, and economic instability.
-Access to Affordable Health Care (Including Mental Health)
-Spending the first decade of her career as a trauma and public health nurse, Representative Rieke Smith understands firsthand the challenges of our healthcare system.
+Access to Affordable Health Care (Including Mental Health) Spending the first decade of her career as a trauma and public health nurse, Representative Rieke Smith understands firsthand the challenges of our healthcare system.
 From high premiums and out of pocket costs to long waitlists, too many families in Wilsonville, Sherwood, and King City struggle to get the care they need at a price they can afford.
 She supports practical, bipartisan solutions to expand coverage, lower costs, and fully integrate mental health and addiction treatment into the broader healthcare system.
 She’ll bring a frontline perspective to Salem and fight for a system that treats the whole person, not just the symptoms.
-Protecting Women’s Rights (Abortion & IVF Care)
-Representative Sue Rieke Smith will defend the rights of Oregonians to make private medical decisions without government interference.
+Protecting Women’s Rights (Abortion & IVF Care) Representative Sue Rieke Smith will defend the rights of Oregonians to make private medical decisions without government interference.
 That includes access to abortion, fertility care like IVF, and the full range of reproductive health services.
 She’ll protect Oregon’s status as a national leader on reproductive freedom and ensure those rights are accessible in every corner of the state.
-Thriving & Safe Communities
-Oregon families deserve to feel safe in their homes and neighborhoods.
+Thriving & Safe Communities Oregon families deserve to feel safe in their homes and neighborhoods.
 That means investing in transparent, community-based public safety, addressing gun violence, and supporting law enforcement with the training and tools they need.
 She will work with local leaders to reduce crime, support victims of crime, and make sure public safety resources reflect the unique needs of our growing suburban communities.
-A Robust Economy & Thriving Business Center
-Representative Sue Rieke Smith believes in an economy that works for everyone.
+A Robust Economy & Thriving Business Center Representative Sue Rieke Smith believes in an economy that works for everyone.
 She’ll advocate for living-wage jobs, strong workforce protections, and support for small businesses across Oregon.
 She’ll also focus on the basics that matter to our local economy: fixing roads, easing congestion, and managing growth.
 She understands that smart planning and local partnerships are key to preserving livability and protecting our quality of life.
-Safeguarding Our Children's Future Through Climate Action
-Representative Sue Rieke Smith believes in science-based climate policies that secure a livable planet for future generations.
+Safeguarding Our Children's Future Through Climate Action Representative Sue Rieke Smith believes in science-based climate policies that secure a livable planet for future generations.
 This includes transitioning to 100% clean and renewable energy and investing in sustainable infrastructure.
 Our children deserve clean air, safe water, and a stable climate for their lifetime and beyond.
-Endorsements
-Ron Wyden
-Oregon US Senator
-Jeff Merkley
-Oregon US Senator
-Andrea Salinas
-US Congresswoman, District 6
-Driven to Serve, Proven to Deliver
-Leadership Recognition & Services
-Representative Sue Rieke Smith is a proven leader with a track record of advancing successful outcomes, championing equity, and managing complex public systems with transparency and impact.
-- Raised Tigard-Tualatin graduation rates to more than 90% (the highest in district history)
-- Increased Springfield Public Schools graduation rates by 10%, resulting in 140 additional graduates within two years
-- Partnered with Tigard-Tualatin students and school board members to establish Oregon’s first anti-hate speech policy
-- Implemented student and family voice feedback groups to deepen community engagement and inform decision-making
-- Expanded student representation on the school board to promote inclusive governance
-- Pioneered the state’s first use of Academic Return on Investment strategies to ensure equitable allocation of federal and state funding
-- Managed $300M Tigard-Tualatin and $76M Springfield school bonds, delivering all projects on time and within budget to give students world-class education facilities
-- Created a “Grow Your Own” teacher preparation program to increase staff diversity and support workforce development
-- Expanded preschool programming to serve more students and families
-- Invested Student Success Act dollars to hire more school health professionals and expand mental and behavioral health supports
-- Expanded Career and Technical Education (CTE) opportunities and implemented proven early literacy solutions, including research-based instructional practices and high-dosage tutoring
-- Named Oregon Middle School Principal of the Year by the Coalition of Oregon School Administrators (COSA); 2011
-- Appointed by the Governor to the Oregon Educator Benefit Board (OEBB); 2019-2024
-- Appointed by the Governor to the Educator Advancement Council (EAC); 2022-2024
-- Appointed by COSA to represent Oregon federal policy interest at AASA School Superintendent Organization in Washington, DC.; 2019-2024
-- Elected President of COSA where she advocated for state and federal funding and policies that support equitable and quality public education.
-Superintendent Achievements
-As a superintendent of two different districts across 10 years, Representative Sue Rieke Smith delivered measurable gains in student outcomes and system performance.
+Endorsements Ron Wyden Oregon US Senator Jeff Merkley Oregon US Senator Andrea Salinas US Congresswoman, District 6 See our Growing List of Endorsers Driven to Serve, Proven to Deliver Leadership Recognition & Services Representative Sue Rieke Smith is a proven leader with a track record of advancing successful outcomes, championing equity, and managing complex public systems with transparency and impact.
+Raised Tigard-Tualatin graduation rates to more than #% (the highest in district history) Increased Springfield Public Schools graduation rates by 10%, resulting in 140 additional graduates within two years Partnered with Tigard-Tualatin students and school board members to establish Oregon’s first anti-hate speech policy Implemented student and family voice feedback groups to deepen community engagement and inform decision-making Expanded student representation on the school board to promote inclusive governance Pioneered the state’s first use of Academic Return on Investment strategies to ensure equitable allocation of federal and state funding Managed #M Tigard-Tualatin and #M Springfield school bonds, delivering all projects on time and within budget to give students world-class education facilities Created a “Grow Your Own” teacher preparation program to increase staff diversity and support workforce development Expanded preschool programming to serve more students and families Invested Student Success Act dollars to hire more school health professionals and expand mental and behavioral health supports Expanded Career and Technical Education (CTE) opportunities and implemented proven early literacy solutions, including research-based instructional practices and high-dosage tutoring Named Oregon Middle School Principal of the Year by the Coalition of Oregon School Administrators (COSA); 2011 Appointed by the Governor to the Oregon Educator Benefit Board (OEBB); 2019-2024 Appointed by the Governor to the Educator Advancement Council (EAC); 2022-2024 Appointed by COSA to represent Oregon federal policy interest at AASA School Superintendent Organization in Washington, DC.; 2019-2024 Elected President of COSA where she advocated for state and federal funding and policies that support equitable and quality public education.
+Superintendent Achievements As a superintendent of two different districts across 10 years, Representative Sue Rieke Smith delivered measurable gains in student outcomes and system performance.
+Vote Sue Rieke Smith for HD26.
+Share Your Voice: sue@votesueriekesmith.com | Follow Our Journey: @sueriekesmithforhd26

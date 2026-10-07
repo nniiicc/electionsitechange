@@ -1,4 +1,4 @@
-Cal Warwas is a third-generation miner and a 27-year member of Local Union 1938.
+Home About DONATE Issues News Home About DONATE Issues News More Home About DONATE Issues News Home About DONATE Issues News About Cal Cal Warwas is a third-generation miner and a 27-year member of Local Union 1938.
 During his time at United States Steel, Mt.
 Iron, Cal has served in many roles, including Laborer, Operator, Millwright, and Ironworker.
 He is now a Planner working in Central Maintenance at the Fab Shop.
@@ -16,3 +16,4 @@ Louis County Association of Townships to the Arrowhead Regional Development Comm
 Cal has been a passionate promoter of precious metals mining in our area for many years.
 Understanding the intense need for the minerals essential to our modern way of life, as well as our national defense, he has traveled to Washington, D.C., with Fight for Mining Minnesota.
 He has also locally worked to promote the mission of Better In Our Back Yard—a group of industry professionals dedicated to increasing education about the benefits of keeping our mining, manufacturing and heavy industry jobs close to home, here in Minnesota, where we already have excellent environmental standards, a well-trained union workforce, and solid protection for workers’ safety.
+DONATE Cal Warwas for House Prepared and Paid for by Cal Warwas for MN House PO Box 264, Eveleth MN 55734 Powered by

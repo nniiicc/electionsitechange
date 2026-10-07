@@ -1,17 +1,66 @@
 [
-"http://electjimwalsh.org/",
-"https://efundraisingconnections.com/c/JimWalsh",
-"https://electjimwalsh.org/",
-"https://electjimwalsh.org/about",
-"https://electjimwalsh.org/author/abhays",
-"https://electjimwalsh.org/campaign-videos",
-"https://electjimwalsh.org/category/uncategorized",
-"https://electjimwalsh.org/contact",
-"https://electjimwalsh.org/news",
-"https://electjimwalsh.org/subscribe",
-"https://electjimwalsh.org/thank-you-for-all-of-your-support",
-"https://electjimwalsh.org/the-daily-news-endorses-jim-walsh",
-"https://electjimwalsh.org/walsh-endorsed-by-hunters-heritage-council-wa-dairy-pac",
-"https://facebook.com/Jim-Walsh-943288459098642",
-"https://siteorigin.com/"
+{
+"text": "About",
+"href": "https://electjimwalsh.org/about"
+},
+{
+"text": "Campaign Videos",
+"href": "https://electjimwalsh.org/campaign-videos"
+},
+{
+"text": "Contact",
+"href": "https://electjimwalsh.org/contact"
+},
+{
+"text": "Donate To Jim’s Campaign",
+"href": "https://www.efundraisingconnections.com/c/JimWalsh"
+},
+{
+"text": "Home",
+"href": "https://electjimwalsh.org/"
+},
+{
+"text": "News",
+"href": "https://electjimwalsh.org/news"
+},
+{
+"text": "September 13, 2016",
+"href": "https://electjimwalsh.org/walsh-endorsed-by-hunters-heritage-council-wa-dairy-pac"
+},
+{
+"text": "SiteOrigin",
+"href": "https://siteorigin.com"
+},
+{
+"text": "Subscribe",
+"href": "https://electjimwalsh.org/subscribe"
+},
+{
+"text": "The Daily News endorses Jim Walsh →",
+"href": "https://electjimwalsh.org/the-daily-news-endorses-jim-walsh"
+},
+{
+"text": "Uncategorized",
+"href": "https://electjimwalsh.org/category/uncategorized"
+},
+{
+"text": "[image: Jim Walsh Logo]",
+"href": "https://electjimwalsh.org/"
+},
+{
+"text": "abhays",
+"href": "https://electjimwalsh.org/author/abhays"
+},
+{
+"text": "https://www.facebook.com/Jim-Walsh-943288459098642/",
+"href": "https://www.facebook.com/Jim-Walsh-943288459098642/"
+},
+{
+"text": "www.electjimwalsh.org",
+"href": "http://www.electjimwalsh.org/"
+},
+{
+"text": "← Thank you for all of your support!",
+"href": "https://electjimwalsh.org/thank-you-for-all-of-your-support"
+}
 ]

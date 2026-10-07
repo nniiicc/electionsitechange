@@ -1,9 +1,4 @@
-top of page
-St.
-Charles MO Patriot Action Forum (SCMOPAF)
-Thu, Sep 03
-|Middendorf-Kredell Library, Room A
-St.
-Charles MO Patriot Action Forum (SCMOPAF) September Meeting from 5-7:30 PM, Middendorf-Kredell Library, Room A, 2750 State Hwy K, O'Fallon, MO 63368
-Registration is closed
-bottom of page
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser St.
+Charles MO Patriot Action Forum (SCMOPAF) Thu, Sep 03 | Middendorf-Kredell Library, Room A St.
+Charles MO Patriot Action Forum (SCMOPAF) September Meeting from 5-7:30 PM, Middendorf-Kredell Library, Room A, 2750 State Hwy K, O'Fallon, MO 63368 Registration is closed See other events Time & Location Sep 03, 2026, 5:00 PM – 7:30 PM Middendorf-Kredell Library, Room A, 2750 State Hwy K, O'Fallon, MO 63368, USA Share this event David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

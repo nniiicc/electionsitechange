@@ -1,9 +1,12 @@
 {
  "description": "Get the latest campaigns news, announcements, and more!",
  "final_url": "https://kordonforliberty.org/news/",
- "paid_for_by": null,
+ "fingerprint": "81773082310acafbc0f9df2ba076bff8922bd505",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Elect Matthew Kordon",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2024"
  ]
 }

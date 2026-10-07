@@ -1,5 +1,4 @@
-July 2023 Letter
-I sponsored and co-sponsored a total of nine bills this session.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all And I Thought Recess was for Kids And I Thought Recess was for Kids And I Thought Recess was for Kids Jul 31, 2023 Jul 31, 2023 July 2023 Letter Golf Ducks - 20 July 2023 - 17:03 - Jaffrey, NH - Taken by Jonah Golf Ducks - 20 July 2023 - 17:03 - Jaffrey, NH - Taken by Jonah I sponsored and co-sponsored a total of nine bills this session.
 Two of them were passed by both chambers onto the Governors desk.
 HB188, prime sponsored by Representative David Popovici-Mueller, is legislation which very simply repeals a statutory regulation on physical therapists in the state.
 The regulation said that a physical therapist must refer their patient to another specialist if after 25 days of treatment there is ‘no documented improvement’.
@@ -47,4 +46,4 @@ Enjoy your summer as much as you can.
 I shouldn't be broadcasting this but there is nothing like a New England summer.
 We are so blessed to live where we do.
 Don’t forget to appreciate it.
-Back to all
+Aluminum Skies - 20 July 2023 - 20:01 - Jaffrey, NH - Taken by Jonah Aluminum Skies - 20 July 2023 - 20:01 - Jaffrey, NH - Taken by Jonah ‹ Summertime, and the Livin’s Easy ‹ Summertime, and the Livin’s Easy ‹ Summertime, and the Livin’s Easy The Silly Season › The Silly Season › The Silly Season › Back to all

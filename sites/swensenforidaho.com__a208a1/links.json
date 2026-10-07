@@ -1,12 +1,78 @@
 [
-"https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen",
-"https://app.proximitycampaigns.com/web-volunteer-form/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen",
-"https://app.proximityimpact.com/event-registration-public/55/222f97ee-0b46-42f4-a74f-20df1ed47a6e/475?name=Casey-Swensen",
-"https://app.proximityimpact.com/event-registration-public/67/222f97ee-0b46-42f4-a74f-20df1ed47a6e/454?name=Casey-Swensen",
-"https://app.proximityimpact.com/event-registration-public/67/222f97ee-0b46-42f4-a74f-20df1ed47a6e/455?name=Casey-Swensen",
-"https://facebook.com/profile.php?id=61581437591446",
-"https://instagram.com/caseyswensen4idaho",
-"https://proximityimpact.com/",
-"https://swensenforidaho.com/",
-"https://voteidaho.gov/voter-registration"
+{
+"text": "$100",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "$1000",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "$25",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "$250",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "$50",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "$500",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "$750",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "Casey Swensen",
+"href": "https://swensenforidaho.com"
+},
+{
+"text": "Donate",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "Join me!",
+"href": "https://app.proximitycampaigns.com/web-volunteer-form/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "Other",
+"href": "https://app.proximitycampaigns.com/payment-donation/link/222f97ee-0b46-42f4-a74f-20df1ed47a6e?name=Casey-Swensen"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/55/222f97ee-0b46-42f4-a74f-20df1ed47a6e/475?name=Casey-Swensen"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/67/222f97ee-0b46-42f4-a74f-20df1ed47a6e/454?name=Casey-Swensen"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/67/222f97ee-0b46-42f4-a74f-20df1ed47a6e/455?name=Casey-Swensen"
+},
+{
+"text": "Register to Vote",
+"href": "https://voteidaho.gov/voter-registration/"
+},
+{
+"text": "[image]",
+"href": "https://proximityimpact.com/"
+},
+{
+"text": "[image]",
+"href": "https://swensenforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581437591446"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/caseyswensen4idaho/"
+}
 ]

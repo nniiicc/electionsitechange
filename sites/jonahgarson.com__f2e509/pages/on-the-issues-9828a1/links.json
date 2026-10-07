@@ -1,13 +1,122 @@
 [
-"http://secure.actblue.com/donate/jonah-garson-1",
-"http://twitter.com/jonahgarsonnc",
-"https://facebook.com/jonahgarsonnc",
-"https://instagram.com/jonahgarsonnc",
-"https://jonahgarson.com/",
-"https://jonahgarson.com/about-me",
-"https://jonahgarson.com/endorsements",
-"https://jonahgarson.com/events",
-"https://jonahgarson.com/on-the-issues",
-"https://jonahgarson.com/the-news",
-"https://tiktok.com/@jonahgarsonnc"
+{
+"text": "ABOUT ME",
+"href": "https://www.jonahgarson.com/about-me"
+},
+{
+"text": "CONSERVATION & CLIMATE/ENVIRONMENTAL JUSTICE",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jonahgarson.com"
+},
+{
+"text": "DEMOCRACY & RULE OF LAW",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "DONATE",
+"href": "http://secure.actblue.com/donate/jonah-garson-1/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jonahgarson.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.jonahgarson.com/events"
+},
+{
+"text": "FARM FAMILIES & FARM LOSS",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "FOOD SECURITY",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "GUN VIOLENCE PROTECTION",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "HEALTHCARE",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "HOME",
+"href": "https://www.jonahgarson.com"
+},
+{
+"text": "Jonah@jonahgarson.com",
+"href": "mailto:Jonah@jonahgarson.com"
+},
+{
+"text": "K12 & EARLY CHILDHOOD EDUCATION",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "LABOR & EMPLOYMENT",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "LGBTQ+ RIGHTS",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "OUR COMMUNITY COLLEGES",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "OUR I/DD COMMUNITY",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "OUR PUBLIC UNIVERSITIES",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "PUBLIC SAFETY & POLICING",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "REPRODUCTIVE HEALTHCARE",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "STATE BUDGET",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "TAXES",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "THE HOUSING CRISIS",
+"href": "https://www.jonahgarson.com/on-the-issues"
+},
+{
+"text": "THE NEWS",
+"href": "https://www.jonahgarson.com/the-news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jonahgarsonnc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jonahgarsonnc"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jonahgarsonnc"
+},
+{
+"text": "[image: X]",
+"href": "http://twitter.com/jonahgarsonnc"
+}
 ]

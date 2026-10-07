@@ -1,32 +1,24 @@
-News
-Lewis County Public Health building to be modernized
-In the Chronicle The Lewis County Public Health and Social Services building in Chehalis has long been in need of an upgrade.
+Stronger Families.
+Stronger Communities.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow News Lewis County Public Health building to be modernized by Peter Abbarno | Oct 2, 2026 | Uncategorized In the Chronicle The Lewis County Public Health and Social Services building in Chehalis has long been in need of an upgrade.
 Soon, it will get one...
-Making Home Energy Improvements Work Better for Washington Communities
-For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn't an abstract policy issue.
+Making Home Energy Improvements Work Better for Washington Communities by Peter Abbarno | Aug 27, 2026 | Blog For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn't an abstract policy issue.
 It...
-Protecting Washington’s Working Lands and Strengthening Rural Communities
-Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
+Protecting Washington’s Working Lands and Strengthening Rural Communities by Peter Abbarno | Aug 27, 2026 | Blog Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
 They also support thousands of jobs, produce food...
 Vote Early.
 Vote Proud.
-Help Build a Stronger Washington.
-Every election matters, but the 2026 Primary Election is especially important for the future of our communities and our state.
+Help Build a Stronger Washington. by Peter Abbarno | Jul 9, 2026 | Uncategorized Every election matters, but the 2026 Primary Election is especially important for the future of our communities and our state.
 The choices we make...
-Keep Working Forests Working For Lewis County
-In the Centralia-Chehalis Chamber of Commerce by Rep.
+Keep Working Forests Working For Lewis County by Peter Abbarno | Jun 29, 2026 | Elect Peter Abbarno In the Centralia-Chehalis Chamber of Commerce by Rep.
 Peter Abbarno In Lewis County, our forests are more than scenery.
 They are a cornerstone of...
-Reliable Energy Infrastructure Powers Washington’s Future
-The energizing of the new Lewis County Public Utility District substation near Winlock is more than a...
-Abbarno earns wide range of re-election endorsements
-One of the most important responsibilities of an elected official is bringing people together to solve problems.
+Reliable Energy Infrastructure Powers Washington’s Future by Peter Abbarno | Jun 25, 2026 | Elect Peter Abbarno The energizing of the new Lewis County Public Utility District substation near Winlock is more than a...
+Abbarno earns wide range of re-election endorsements by Peter Abbarno | Jun 25, 2026 | Elect Peter Abbarno One of the most important responsibilities of an elected official is bringing people together to solve problems.
 In today's polarized political...
-PTSD Awareness Month: Recognizing the Invisible Injuries
-June is PTSD Awareness Month, a time to recognize the impact of Post-Traumatic Stress Disorder (PTSD), support those affected, and encourage access...
-Peter Abbarno: Give the gift of reading for Father’s Day
-June is a special month for families.
+PTSD Awareness Month: Recognizing the Invisible Injuries by Peter Abbarno | Jun 11, 2026 | Elect Peter Abbarno June is PTSD Awareness Month, a time to recognize the impact of Post-Traumatic Stress Disorder (PTSD), support those affected, and encourage access...
+Peter Abbarno: Give the gift of reading for Father’s Day by Peter Abbarno | Jun 4, 2026 | Elect Peter Abbarno June is a special month for families.
 As we celebrate Father’s Day and recognize the role fathers, grandfathers, stepfathers and positive male role...
 Rep.
-Abbarno delivers welcome address to Washington State Building and Trades Council
-This week, I had the pleasure of giving opening remarks at the Washington State Building and Construction Trades Council convention in Ridgefield at...
+Abbarno delivers welcome address to Washington State Building and Trades Council by Peter Abbarno | Jun 4, 2026 | Uncategorized This week, I had the pleasure of giving opening remarks at the Washington State Building and Construction Trades Council convention in Ridgefield at... « Older Entries Stay up to date on the lastest news from Olympia.
+Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

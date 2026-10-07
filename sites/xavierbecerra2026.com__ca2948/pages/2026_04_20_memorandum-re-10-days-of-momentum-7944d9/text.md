@@ -1,12 +1,11 @@
-Latest News
-Memorandum RE: 10 Days of Momentum
-In ten days something remarkable has happened – not engineered by consultants, not manufactured by a nine-figure media budget, but driven entirely by California Democratic voters themselves.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute Latest News Memorandum RE: 10 Days of Momentum April 20, 2026 In ten days something remarkable has happened – not engineered by consultants, not manufactured by a nine-figure media budget, but driven entirely by California Democratic voters themselves.
 They have coalesced, organically and decisively, around one candidate: Xavier Becerra.
 In a field marred by controversy, distraction, and uncertainty, voters are gravitating toward stability, normalcy, and a lifetime of proven progressive leadership.
 That candidate is Xavier Becerra.
 The data make it undeniable.
-The Proof
-1.
+The Proof 1.
 He Didn’t Buy It, He Earned It.
 Becerra has spent approximately $3 million on paid advertising.
 Other candidates in this race have spent north of $100 million.
@@ -25,18 +24,19 @@ A newly released Evitarus poll conducted for the California Democratic Party con
 5.
 Emerson Confirms the Surge.
 An independent Emerson College poll conducted April 14–15 found Becerra gained 15 points among Democrats after Swalwell’s exit – rising from 4% to 19% – tying for the lead in the Democratic primary.
-UCLA’s Zev Yaroslavsky noted: “Xavier Becerra should be the happiest of them all because he’s the biggest move in this survey.”
-6.
+UCLA’s Zev Yaroslavsky noted: “Xavier Becerra should be the happiest of them all because he’s the biggest move in this survey.” 6.
 The Favorability Advantage Is Decisive.
 Among non-Republicans, Becerra holds the highest net favorability of any candidate in the field – by a wide margin.
 This reflects the depth of trust Democrats have placed in a candidate who has been fighting for their values for three decades.
-7. 7.29 Million Impressions — Organic, Earned, Explosive.
+7.
+7.29 Million Impressions — Organic, Earned, Explosive.
 In the week following April 10, the Becerra campaign generated over 7.29 million impressions across social platforms — including 3.46 million Instagram views (+1,600%), 1.27 million TikTok views (+1,800%), and 1 million Twitter impressions (+2,300%).
 These numbers were not purchased.
 They are the sound of a coalition forming in real time.
 8.
 Top ActBlue Fundraiser in the Country for the Week.
 The Becerra campaign was the top ActBlue fundraiser nationally for the week ending April 18.
+Since April 10, the campaign raised over $1 million from more than 25,000 contributions — with an average donation of just $42.
 Ninety-seven percent were first-time donors.
 This is not a donor base being recycled.
 It is a movement being born.
@@ -48,11 +48,12 @@ This is organizing energy that money cannot replicate.
 “Did You Think You Were Coming to a Bad Bunny Concert?” This Saturday, Becerra held a Townhall in Downtown Los Angeles as part of his Fighting for the California Dream Tour, drawing a crowd of nearly 1,000 from Los Angeles, Ventura, and Orange Counties.
 He answered audience questions, sharing his vision for California in English and Spanish.
 The excitement on the ground is palpable.
-The Bottom Line
-While other candidates have bought name recognition, Becerra built a record: authoring the ACA, suing Trump 120+ times as Attorney General, negotiating the first-ever federal prescription drug price reductions as HHS Secretary.
+The Bottom Line While other candidates have bought name recognition, Becerra built a record: authoring the ACA, suing Trump 120+ times as Attorney General, negotiating the first-ever federal prescription drug price reductions as HHS Secretary.
 California voters have 35 years of evidence about Xavier Becerra.
 In a race defined by chaos, voters are choosing clarity.
 Xavier Becerra is not the frontrunner because consultants decided he should be, or because he flooded the airwaves.
 He is the consensus Democrat because California’s voters — on their own — recognized someone who has been fighting for them their entire career.
 The question is no longer whether Becerra has momentum.
 The question is whether the rest of the field can stop it.
+Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

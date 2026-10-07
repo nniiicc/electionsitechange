@@ -1,9 +1,5 @@
-Angela is fighting to
-Money Out of Politics
-Democracy should answer to voters, not donors.
+Skip navigation menu About Issues Endorsements Volunteer Donate About Issues Endorsements Volunteer Donate Money Out of Politics Housing for All Economic Dignity & Security Healthcare for All Tax the Rich, Not the Rest of Us Climate Action Now Education & Youth Empowerment Abolish ICE & Immigration Justice Pro-Peace Foreign Policy Stand Up to Big AI Criminal Justice Reform Supreme Court Reform Hold the Trump Administration Accountable Protect and Strengthen Democracy Angela is fighting to Money Out of Politics Democracy should answer to voters, not donors.
 Super PACs poured $2.6 billion into the 2024 elections, and twice as much of that money was used to attack Democratic candidates as Republican ones.
 Angela's campaign is powered by everyday Angelenos — not AIPAC, crypto, or Big Tech.
 In Congress, she'll fight to end the era of billionaires buying elections.
-- Support legislation to abolish Super PACs by capping their donations at $5,000, the same limit as regular PACs
-- Refuse corporate PAC and Super PAC money
-- Push for a binding, enforceable ethics code for elected officials and the courts
+Support legislation to abolish Super PACs by capping their donations at $# the same limit as regular PACs Refuse corporate PAC and Super PAC money Push for a binding, enforceable ethics code for elected officials and the courts Media Powered by RUN! website builder Paid for by Angela for CA-34 You need to enable JavaScript to run this app.

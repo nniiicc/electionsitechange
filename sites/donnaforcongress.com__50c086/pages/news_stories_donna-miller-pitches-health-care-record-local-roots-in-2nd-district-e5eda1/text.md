@@ -1,5 +1,1 @@
-Donna Miller pitches health care record, local roots in 2nd District primary
-Cook County Commissioner Donna Miller is bringing her long-standing focus on health care equity into a crowded Democratic primary for Illinois’ 2nd Congressional District…
-Written By Guest User
-Previous
-Next
+0 Skip to Content Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Donna Miller pitches health care record, local roots in 2nd District primary Jan 15 Written By Guest User Cook County Commissioner Donna Miller is bringing her long-standing focus on health care equity into a crowded Democratic primary for Illinois’ 2nd Congressional District… Guest User Previous Previous Donna Miller Receives Endorsement from Elect Democratic Women Next Next Miller opens campaign headquarters in Flossmoor Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

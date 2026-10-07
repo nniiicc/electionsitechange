@@ -1,3 +1,2 @@
-Paid for by URSON RUSSELL FOR ASSEMBLY 2026 FPPC ID# 1484271
-Copyright © 2026 Urson Russell - All Rights Reserved.
+Home What I Stand For Good Government My Commitments AD73 Endorsements Events Get Involved More Home What I Stand For Good Government My Commitments AD73 Endorsements Events Get Involved Home What I Stand For Good Government My Commitments AD73 Endorsements Events Get Involved Paid for by URSON RUSSELL FOR ASSEMBLY 2026 FPPC ID# 1484271 Copyright © # Urson Russell - All Rights Reserved.
 Powered by

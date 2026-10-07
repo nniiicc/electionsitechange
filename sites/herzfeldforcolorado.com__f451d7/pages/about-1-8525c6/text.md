@@ -1,29 +1,8 @@
-Precinct Captain Toolkit
-About this Toolkit
-This toolkit helps precinct captains plan and implement outreach to voters to promote Mark Herzfeld as a
-candidate for HD25.
-It includes:
-• Order information for palm cards/flyers/signs (see below)
-• Talking points for you to use anytime you chat with neighbors/voters (page 2 below)
-• An agenda/plan for a house event (page 3 below)
-• A discussion guide you can use to lead an issues discussion at an event (pages 4 and 5 below)
-• Draft email and text messages you can use to reach out to neighbors/voters (pages 6 and 7 below)
-• Volunteer recruitment guide (page 8 below)
-• Door-to-door canvassing guide (page 9 below)
-• Captain’s feedback form (page 10 below)
-• Volunteer Canvass Guide (separate document)
-Mark’s primary information sources:
-• Website: www.HerzfeldForColorado.com
-• X: @HerzfeldForCO
-• Instagram: @HerzfeldForColorado
-• Facebook: @HerzfeldForColorado
-Please Download Toolkit
-Please click on the icon to download specific information
-Mark's strong conservative views and beliefs
-Intro Text/Planning Steps/Tips
-What to say?Issue Questions for Discussion/Tips
-Message Suggestions/Tips
-Scripts/To Do list
-To-do List/Materials to Bring
-Your feedback helps us improve the process
-To order support materials, complete this form.
+top of page Home Meet Mark Issues Join Mark Endorsements Mark's Toolkit Privacy Policy Accessibility Statement More Use tab to navigate through the menu items.
+DONATE Precinct Captain Toolkit About this Toolkit This toolkit helps precinct captains plan and implement outreach to voters to promote Mark Herzfeld as a candidate for HD25.
+It includes: • Order information for palm cards/flyers/signs (see below) • Talking points for you to use anytime you chat with neighbors/voters (page 2 below) • An agenda/plan for a house event (page 3 below) • A discussion guide you can use to lead an issues discussion at an event (pages 4 and 5 below) • Draft email and text messages you can use to reach out to neighbors/voters (pages 6 and 7 below) • Volunteer recruitment guide (page 8 below) • Door-to-door canvassing guide (page 9 below) • Captain’s feedback form (page 10 below) • Volunteer Canvass Guide (separate document) Mark’s primary information sources: • Website: www.HerzfeldForColorado.com • X: @HerzfeldForCO • Instagram: @HerzfeldForColorado • Facebook: @HerzfeldForColorado Please Download Toolkit Please click on the icon to download specific information Talking Points Mark's strong conservative views and beliefs Event Agenda Intro Text/Planning Steps/Tips Discussion Guide What to say?Issue Questions for Discussion/Tips Sample Email and Texts Message Suggestions/Tips Volunteer Roles Scripts/To Do list Door-to-Door To-do List/Materials to Bring Captain's Feedback Form Your feedback helps us improve the process To order support materials, complete this form.
+First name Last name Address Email Multi choice Yard Signs Cards Donation Envelopes Business Cards Please indicate the number of each item you would like to order.
+Submit 720-688-0395 mark@herzfeldforcolorado.com P.
+O.
+Box 16157 Golden, CO 80402 DONATE For press Inquiries, please contact press@herzfeldforcolorado.com Privacy Policy Accessibility Statement Copyright© # by HerzfeldforColorado.com.
+All Rights Reserved ​ Paid for by Herzfeld for Colorado, Marge Klein Registered Agent. bottom of page

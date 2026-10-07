@@ -1,12 +1,70 @@
 [
-"https://elections.il.gov/",
-"https://ilga.gov/",
-"https://ova.elections.il.gov/",
-"https://scopaforillinois.com/",
-"https://scopaforillinois.com/district",
-"https://scopaforillinois.com/issues",
-"https://scopaforillinois.com/meet-candidate",
-"https://scopaforillinois.com/privacy-policy",
-"https://scopaforillinois.com/terms-of-service",
-"https://secure.anedot.com/scopaforillinois/brian-scopa-for-illinois"
+{
+"text": "BRIAN SCOPA",
+"href": "https://scopaforillinois.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/scopaforillinois/brian-scopa-for-illinois"
+},
+{
+"text": "Email the Campaign",
+"href": "mailto:info@scopaforillinois.com"
+},
+{
+"text": "Find your polling place",
+"href": "https://www.elections.il.gov/"
+},
+{
+"text": "Get Involved",
+"href": "https://scopaforillinois.com/#join"
+},
+{
+"text": "Home",
+"href": "https://scopaforillinois.com/"
+},
+{
+"text": "IL-84",
+"href": "https://scopaforillinois.com/district"
+},
+{
+"text": "Illinois General Assembly",
+"href": "https://www.ilga.gov/"
+},
+{
+"text": "Illinois State Board of Elections",
+"href": "https://www.elections.il.gov/"
+},
+{
+"text": "Issues",
+"href": "https://scopaforillinois.com/issues"
+},
+{
+"text": "Meet Brian",
+"href": "https://scopaforillinois.com/meet-candidate"
+},
+{
+"text": "Online voter registration",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scopaforillinois.com/privacy-policy"
+},
+{
+"text": "Register to vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Support Brian →",
+"href": "https://secure.anedot.com/scopaforillinois/brian-scopa-for-illinois"
+},
+{
+"text": "Terms",
+"href": "https://scopaforillinois.com/terms-of-service"
+},
+{
+"text": "info@scopaforillinois.com",
+"href": "mailto:info@scopaforillinois.com"
+}
 ]

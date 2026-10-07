@@ -1,57 +1,266 @@
 [
-"http://event/",
-"https://electbradhessel.org/",
-"https://electbradhessel.org/2024/01/02",
-"https://electbradhessel.org/2024/06/14",
-"https://electbradhessel.org/2024/07/23",
-"https://electbradhessel.org/2026/09/04",
-"https://electbradhessel.org/category/lpnc",
-"https://electbradhessel.org/cookie-policy",
-"https://electbradhessel.org/events",
-"https://electbradhessel.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press",
-"https://electbradhessel.org/media/north-carolina-forward-party-endorses-hessel-for-nc-senate-18",
-"https://electbradhessel.org/meet",
-"https://electbradhessel.org/meet/district",
-"https://electbradhessel.org/meet/people-not-politics",
-"https://electbradhessel.org/news",
-"https://electbradhessel.org/news/hessel-touts-instant-runoff-voting",
-"https://electbradhessel.org/news/pcs",
-"https://electbradhessel.org/priorities",
-"https://electbradhessel.org/priorities/abolish-the-abc",
-"https://electbradhessel.org/priorities/cost-effective-conservation",
-"https://electbradhessel.org/priorities/cost-effective-healthcare",
-"https://electbradhessel.org/priorities/defend-the-guard",
-"https://electbradhessel.org/priorities/electoral-reform-gerrymandering",
-"https://electbradhessel.org/priorities/electoral-reform-independent-voters",
-"https://electbradhessel.org/priorities/electoral-reform-instant-runoff-voting",
-"https://electbradhessel.org/priorities/expanded-housing-market",
-"https://electbradhessel.org/priorities/problem-solvers-caucus",
-"https://electbradhessel.org/priorities/restorative-justice",
-"https://electbradhessel.org/priorities/smarter-education",
-"https://electbradhessel.org/priorities/stronger-economy",
-"https://electbradhessel.org/privacy-policy",
-"https://electbradhessel.org/take-action",
-"https://electbradhessel.org/take-action/donate",
-"https://electbradhessel.org/take-action/volunteer",
-"https://electbradhessel.org/take-action/when-where-to-vote",
-"https://facebook.com/LPofNC",
-"https://facebook.com/elect.brad.hessel",
-"https://instagram.com/brad.hessel",
-"https://j6documentary.com/",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://lpnc.org/press_release_stephen_horn",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://thisweekinthetriangle.com/",
-"https://twitter.com/ElectBradHessel",
-"https://twitter.com/LPNC",
-"https://twitter.com/stephenehorn",
-"https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3D9azsP7XjhJU-26t-3D7229s&d=DwMFAg&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xxiNKcNbcvhBbqOUyp6xag&m=ryaYjeDd6MWAvuzWuECq-VjxhgsDuI5dusJbyfwsiLc3NavysDFgdCHVvfDQ8vt1&s=q2YjQAMsZFXzT1E9qwsnyFO_t7xTKX4qsit8EGy9hRI",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://youtube.com/@BradHessel",
-"https://youtube.com/watch?v=9azsP7XjhJU&t=7229s"
+{
+"text": "Abolish the ABC!",
+"href": "https://electbradhessel.org/priorities/abolish-the-abc/"
+},
+{
+"text": "Contribute",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Cost-Effective Healthcare",
+"href": "https://electbradhessel.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Cost-effective Conservation",
+"href": "https://electbradhessel.org/priorities/cost-effective-conservation/"
+},
+{
+"text": "Defend The Guard",
+"href": "https://electbradhessel.org/priorities/defend-the-guard/"
+},
+{
+"text": "Donate",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://electbradhessel.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Electoral Reform—Gerrymandering",
+"href": "https://electbradhessel.org/priorities/electoral-reform-gerrymandering/"
+},
+{
+"text": "Electoral Reform—Independent Voters",
+"href": "https://electbradhessel.org/priorities/electoral-reform-independent-voters/"
+},
+{
+"text": "Electoral Reform—Instant Runoff Voting",
+"href": "https://electbradhessel.org/priorities/electoral-reform-instant-runoff-voting/"
+},
+{
+"text": "Envelope",
+"href": "mailto: info@electbradhessel.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://electbradhessel.org/events/"
+},
+{
+"text": "Expanded Housing Market",
+"href": "https://electbradhessel.org/priorities/expanded-housing-market/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/elect.brad.hessel/"
+},
+{
+"text": "Hessel Touts Instant Runoff Voting",
+"href": "https://electbradhessel.org/news/hessel-touts-instant-runoff-voting/"
+},
+{
+"text": "Home",
+"href": "https://electbradhessel.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brad.hessel/"
+},
+{
+"text": "January 2, 2024",
+"href": "https://electbradhessel.org/2024/01/02/"
+},
+{
+"text": "July 23, 2024",
+"href": "https://electbradhessel.org/2024/07/23/"
+},
+{
+"text": "June 14, 2024",
+"href": "https://electbradhessel.org/2024/06/14/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC",
+"href": "https://electbradhessel.org/category/lpnc/"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Liberty iNC – Season 3: Episode 9 – Getting Back to Our Grassroots with Kent Misegades (youtube.com)",
+"href": "https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3D9azsP7XjhJU-26t-3D7229s&d=DwMFAg&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xxiNKcNbcvhBbqOUyp6xag&m=ryaYjeDd6MWAvuzWuECq-VjxhgsDuI5dusJbyfwsiLc3NavysDFgdCHVvfDQ8vt1&s=q2YjQAMsZFXzT1E9qwsnyFO_t7xTKX4qsit8EGy9hRI&e="
+},
+{
+"text": "Meet",
+"href": "https://electbradhessel.org/meet/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://electbradhessel.org/meet/"
+},
+{
+"text": "NCGA Needs a Problem Solvers Caucus, say Two State Senate District 18 Candidates",
+"href": "https://electbradhessel.org/news/pcs/"
+},
+{
+"text": "News",
+"href": "https://electbradhessel.org/news/"
+},
+{
+"text": "No Comments",
+"href": "https://electbradhessel.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press/#respond"
+},
+{
+"text": "North Carolina Forward Party Endorses Hessel for NC Senate 18",
+"href": "https://electbradhessel.org/media/north-carolina-forward-party-endorses-hessel-for-nc-senate-18/"
+},
+{
+"text": "People Not Politics",
+"href": "https://electbradhessel.org/meet/people-not-politics/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://electbradhessel.org/priorities/"
+},
+{
+"text": "Problem Solvers Caucus",
+"href": "https://electbradhessel.org/priorities/problem-solvers-caucus/"
+},
+{
+"text": "Reach out if you have any questions",
+"href": "mailto:communications@lpnc.org"
+},
+{
+"text": "Restore Equal Justice",
+"href": "https://electbradhessel.org/priorities/restorative-justice/"
+},
+{
+"text": "Season 3 Episode 9 of Liberty iNC",
+"href": "https://www.youtube.com/watch?v=9azsP7XjhJU&t=7229s"
+},
+{
+"text": "Senate 18",
+"href": "https://electbradhessel.org/meet/district/"
+},
+{
+"text": "September 4, 2026",
+"href": "https://electbradhessel.org/2026/09/04/"
+},
+{
+"text": "Smarter Education",
+"href": "https://electbradhessel.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://electbradhessel.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://electbradhessel.org/take-action/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbradhessel.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://electbradhessel.org/take-action/when-where-to-vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/ElectBradHessel"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@BradHessel"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org/"
+},
+{
+"text": "[image: Hessel Touts Instant Runoff Voting]",
+"href": "https://electbradhessel.org/news/hessel-touts-instant-runoff-voting/"
+},
+{
+"text": "[image: NCGA Needs a Problem Solvers Caucus, say Two State Senate District 18 Candidates]",
+"href": "https://electbradhessel.org/news/pcs/"
+},
+{
+"text": "[image: North Carolina Forward Party Endorses Hessel for NC Senate 18]",
+"href": "https://electbradhessel.org/media/north-carolina-forward-party-endorses-hessel-for-nc-senate-18/"
+},
+{
+"text": "[no text]",
+"href": "tel:%E2%80%AA(919)%20307-9413%E2%80%AC"
+},
+{
+"text": "covering the events",
+"href": "https://j6documentary.com/"
+},
+{
+"text": "found guilty of criminal actions",
+"href": "https://www.lpnc.org/press_release_stephen_horn"
+},
+{
+"text": "info@electbradhessel.org",
+"href": "mailto: info@electbradhessel.org"
+},
+{
+"text": "journalist Stephen Horn",
+"href": "https://www.thisweekinthetriangle.com/"
+},
+{
+"text": "several other stories of interest",
+"href": "https://twitter.com/stephenehorn"
+},
+{
+"text": "‪(919) 307-9413‬",
+"href": "tel:%E2%80%AA(919)%20307-9413%E2%80%AC"
+}
 ]

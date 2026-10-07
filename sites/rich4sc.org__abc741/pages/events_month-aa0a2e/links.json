@@ -1,20 +1,94 @@
 [
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Frich4sc.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/rich4sc",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frich4sc.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rich+for+South+Carolina+Rich+for+South+Carolina",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frich4sc.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rich+for+South+Carolina+Rich+for+South+Carolina",
-"https://rich4sc.org/",
-"https://rich4sc.org/about",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/event/democratic-women-greenville-county-mtg",
-"https://rich4sc.org/event/november-general-election-candidates-forum",
-"https://rich4sc.org/events",
-"https://rich4sc.org/events/2026-10-12",
-"https://rich4sc.org/events/2026-10-29",
-"https://rich4sc.org/events/month",
-"https://rich4sc.org/events/month/2026-09",
-"https://rich4sc.org/events/month?ical=1",
-"https://rich4sc.org/events/month?outlook-ical=1"
+{
+"text": "... Read More",
+"href": "https://rich4sc.org/event/november-general-election-candidates-forum/"
+},
+{
+"text": "12",
+"href": "https://rich4sc.org/events/2026-10-12/"
+},
+{
+"text": "29",
+"href": "https://rich4sc.org/events/2026-10-29/"
+},
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Democratic Women Greenville County Mtg",
+"href": "https://rich4sc.org/event/democratic-women-greenville-county-mtg/"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://rich4sc.org/events/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://rich4sc.org/events/month/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Frich4sc.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "Month",
+"href": "https://rich4sc.org/events/month/"
+},
+{
+"text": "November General Election Candidates Forum",
+"href": "https://rich4sc.org/event/november-general-election-candidates-forum/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frich4sc.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rich+for+South+Carolina+Rich+for+South+Carolina"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frich4sc.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rich+for+South+Carolina+Rich+for+South+Carolina"
+},
+{
+"text": "Sep",
+"href": "https://rich4sc.org/events/month/2026-09/"
+},
+{
+"text": "This Month",
+"href": "https://rich4sc.org/events/month/"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://rich4sc.org/events/month/2026-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rich4sc.org/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

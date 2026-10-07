@@ -1,13 +1,58 @@
 [
-"https://facebook.com/jeffrielongjr",
-"https://instagram.com/jeffrielongjr",
-"https://jeffrielong.com/",
-"https://jeffrielong.com/about",
-"https://jeffrielong.com/calvert-resoruces",
-"https://jeffrielong.com/platform",
-"https://jeffrielong.com/prince-georges-resources",
-"https://jeffrielong.com/scholarship",
-"https://jeffrielong.com/updates",
-"https://secure.actblue.com/donate/friends-of-jeffrie-long-2",
-"https://twitter.com/jeffrielongjr"
+{
+"text": "About",
+"href": "https://www.jeffrielong.com/about"
+},
+{
+"text": "Calvert County",
+"href": "https://www.jeffrielong.com/calvert-resoruces"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/friends-of-jeffrie-long-2"
+},
+{
+"text": "Issues",
+"href": "https://www.jeffrielong.com/platform"
+},
+{
+"text": "Jeffrie E.",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.jeffrielong.com/updates"
+},
+{
+"text": "Long, Jr",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Prince George's County",
+"href": "https://www.jeffrielong.com/prince-georges-resources"
+},
+{
+"text": "Scholarship",
+"href": "https://www.jeffrielong.com/scholarship"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jeffrielongjr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jeffrielongjr/"
+},
+{
+"text": "[image: JeffLongFinal-03.png]",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jeffrielongjr"
+},
+{
+"text": "jeffrie.long@house.state.md.us",
+"href": "mailto:jeffrie.long@house.state.md.us"
+}
 ]

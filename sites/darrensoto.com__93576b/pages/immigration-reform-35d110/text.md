@@ -1,5 +1,5 @@
-Immigration Reform & Border Security
-In Congress, Darren has supported bipartisan comprehensive immigration reform including border security and a pathway to citizenship or residency for Dreamers, TPS recipients, and farmworkers.
+Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Immigration Reform Immigration Reform & Border Security In Congress, Darren has supported bipartisan comprehensive immigration reform including border security and a pathway to citizenship or residency for Dreamers, TPS recipients, and farmworkers.
 He voted for numerous U.S.
 Department of Homeland Security budgets over the years that protected our airports, ports, and borders, increased immigration court funding to speed up family reunification, citizenship, and residency cases, and made the farmworker visa process more efficient.
 Together, we can protect Dreamers, farmworkers, and families, keep our nation safe, lower costs, and support Florida’s economy.
+VOLUNTEER Media DONATE Soto for Congress, PO Box 421349, Kissimmee, FL 34742 Phone Number: 407-434-1319 | Privacy Policy PAID FOR AND AUTHORIZED BY DARREN SOTO FOR CONGRESS © # Darren Soto for Congress.

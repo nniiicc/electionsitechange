@@ -1,69 +1,282 @@
 [
-"http://butterflies.org/",
-"http://candylandplayground.com/",
-"http://childrensmusic.com/arvada-co",
-"http://coloradorailroadmuseum.org/",
-"http://csuspur.org/",
-"http://deeplyrootedmusicschool.com/",
-"http://denverbeerco.com/lowry",
-"http://denverzoo.org/",
-"http://englewoodco.gov/belleview-park",
-"http://jeffcolibrary.org/locations/AR",
-"http://kidsdigcolorado.com/",
-"http://kidswonder.com/",
-"http://majesticviewnaturecenter.arvadaco.gov/",
-"http://mychildsmuseum.org/",
-"http://mygym.com/arvada",
-"http://thelittlegym.com/timnathco",
-"http://tinytownrailroad.com/",
-"http://wingsmuseum.org/",
-"https://abckidsboulder.com/home-2",
-"https://altitunes.net/",
-"https://anc.apm.activecommunities.com/apexprd/activity/search?onlineSiteId=0&activity_select_param=2&activity_category_ids=31&activity_keyword=TOP&viewMode=list",
-"https://anc.apm.activecommunities.com/apexprd/activity/search?onlineSiteId=0&activity_select_param=2&viewMode=list",
-"https://apexprd.org/facility/apex-center",
-"https://arvadaco.gov/1245/Arvada-Kite-Festival",
-"https://boulderdowntown.com/events/tulip-festival",
-"https://broomfield.org/2664/Paul-Derda-Recreation-Center",
-"https://canva.com/design/DAGR_Ccy8eg/Dr5SPKrPcW3XMlkbVvmoqg/edit",
-"https://colorado.edu/cumuseum/programs/children-and-family-programs",
-"https://colorado.edu/fiske",
-"https://denverartmuseum.org/en",
-"https://denverfirefightersmuseum.org/",
-"https://dinoridge.org/",
-"https://dmns.org/",
-"https://facebook.com/LisaFeretCO",
-"https://gatewayfunpark.com/",
-"https://growinggardens.org/peacegarden",
-"https://instagram.com/lisaferetcolorado",
-"https://jeffco.us/1281/Lookout-Mountain-Preserve-and-Nature-Cen",
-"https://jeffcolibrary.org/culture-pass",
-"https://kidspacefec.com/",
-"https://linkedin.com/in/lisaferet",
-"https://lisaforcolorado.com/",
-"https://lisaforcolorado.com/cart",
-"https://lisaforcolorado.com/contact-lisa",
-"https://lisaforcolorado.com/endorsements",
-"https://lisaforcolorado.com/how-to-get-involved",
-"https://lisaforcolorado.com/in-the-community",
-"https://lisaforcolorado.com/legislation",
-"https://lisaforcolorado.com/meet-lisa",
-"https://lisaforcolorado.com/on-the-issues",
-"https://lisaforcolorado.com/resources",
-"https://munsonfarms.com/",
-"https://rockcreekfarm.com/",
-"https://safesplash.com/",
-"https://scied.ucar.edu/",
-"https://secure.actblue.com/donate/lisa-for-colorado-1",
-"https://skyzone.com/arvada",
-"https://swallowhillmusic.org/",
-"https://therayback.com/",
-"https://theurbanfarm.org/visit-the-farm",
-"https://tumblehaus.com/",
-"https://westminster.monkeybizness.com/",
-"https://westminsterco.gov/ParksRecreation/RecreationCenters/WestminsterSportsCenter/TotTime",
-"https://wildanimalsanctuary.org/",
-"https://wildbeginningsnatureschool.org/",
-"https://wowchildrensmuseum.org/",
-"https://yayafarmandorchard.com/"
+{
+"text": "0",
+"href": "https://www.lisaforcolorado.com/cart"
+},
+{
+"text": "ABC Kids Climbing",
+"href": "https://www.abckidsboulder.com/home-2/"
+},
+{
+"text": "APEX Activities Guide",
+"href": "https://anc.apm.activecommunities.com/apexprd/activity/search?onlineSiteId=0&activity_select_param=2&viewMode=list"
+},
+{
+"text": "APEX Center",
+"href": "https://apexprd.org/facility/apex-center/"
+},
+{
+"text": "APEX Toddler Open Play",
+"href": "https://anc.apm.activecommunities.com/apexprd/activity/search?onlineSiteId=0&activity_select_param=2&activity_category_ids=31&activity_keyword=TOP&viewMode=list"
+},
+{
+"text": "Altitunes",
+"href": "https://altitunes.net/"
+},
+{
+"text": "Arvada Kite Festival",
+"href": "https://www.arvadaco.gov/1245/Arvada-Kite-Festival"
+},
+{
+"text": "Arvada Library Programs",
+"href": "http://jeffcolibrary.org/locations/AR"
+},
+{
+"text": "Arvada area summer camps",
+"href": "https://www.canva.com/design/DAGR_Ccy8eg/Dr5SPKrPcW3XMlkbVvmoqg/edit"
+},
+{
+"text": "Belleview Park",
+"href": "http://englewoodco.gov/belleview-park"
+},
+{
+"text": "Butterfly Pavilion",
+"href": "http://butterflies.org"
+},
+{
+"text": "CSU Spur",
+"href": "http://csuspur.org"
+},
+{
+"text": "CU Museum of Natural History",
+"href": "https://www.colorado.edu/cumuseum/programs/children-and-family-programs"
+},
+{
+"text": "Candeeland",
+"href": "http://candylandplayground.com"
+},
+{
+"text": "Center for Science Education",
+"href": "https://scied.ucar.edu"
+},
+{
+"text": "Children's Museum",
+"href": "http://mychildsmuseum.org"
+},
+{
+"text": "Children's Music Academy of Arvada",
+"href": "http://childrensmusic.com/arvada-co"
+},
+{
+"text": "Click here to support the cause!",
+"href": "https://secure.actblue.com/donate/lisa-for-colorado-1"
+},
+{
+"text": "Colorado Railroad Museum",
+"href": "http://coloradorailroadmuseum.org"
+},
+{
+"text": "Contact Lisa",
+"href": "https://www.lisaforcolorado.com/contact-lisa"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lisa-for-colorado-1"
+},
+{
+"text": "Deeply Rooted Music School",
+"href": "http://deeplyrootedmusicschool.com"
+},
+{
+"text": "Denver Art Museum",
+"href": "https://www.denverartmuseum.org/en"
+},
+{
+"text": "Denver Beer Co",
+"href": "http://denverbeerco.com/lowry"
+},
+{
+"text": "Denver Fire Museum",
+"href": "https://denverfirefightersmuseum.org/"
+},
+{
+"text": "Denver Museum of Nature and Science",
+"href": "https://www.dmns.org/"
+},
+{
+"text": "Denver Zoo",
+"href": "http://denverzoo.org"
+},
+{
+"text": "Dinosaur Ridge",
+"href": "https://dinoridge.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisaforcolorado.com/endorsements"
+},
+{
+"text": "Fiske Planetarium",
+"href": "https://www.colorado.edu/fiske/"
+},
+{
+"text": "Gateway Fun Park Center",
+"href": "https://gatewayfunpark.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisaforcolorado.com/how-to-get-involved"
+},
+{
+"text": "Growing Gardens",
+"href": "https://growinggardens.org/peacegarden/"
+},
+{
+"text": "Home",
+"href": "https://www.lisaforcolorado.com/"
+},
+{
+"text": "In the Community",
+"href": "https://www.lisaforcolorado.com/in-the-community"
+},
+{
+"text": "Jeffco Public Library Culture Pass Program",
+"href": "https://jeffcolibrary.org/culture-pass/"
+},
+{
+"text": "Kids Dig",
+"href": "http://kidsdigcolorado.com"
+},
+{
+"text": "Kids Wonder",
+"href": "http://kidswonder.com"
+},
+{
+"text": "Kookalooz Space Playground",
+"href": "https://www.kidspacefec.com/"
+},
+{
+"text": "Legislation",
+"href": "https://www.lisaforcolorado.com/legislation"
+},
+{
+"text": "Lisa For Colorado!",
+"href": "https://www.lisaforcolorado.com/"
+},
+{
+"text": "Lisa@LisaforColorado.com",
+"href": "mailto:Lisa@lisaforcolorado.com"
+},
+{
+"text": "Little Monkey Biznass",
+"href": "https://westminster.monkeybizness.com/"
+},
+{
+"text": "Lookout Mountain Nature Center",
+"href": "https://www.jeffco.us/1281/Lookout-Mountain-Preserve-and-Nature-Cen"
+},
+{
+"text": "Majestic View Nature Center",
+"href": "http://majesticviewnaturecenter.arvadaco.gov"
+},
+{
+"text": "Meet Lisa!",
+"href": "https://www.lisaforcolorado.com/meet-lisa"
+},
+{
+"text": "Munson Farm",
+"href": "https://www.munsonfarms.com/"
+},
+{
+"text": "My Gym Arvada",
+"href": "http://mygym.com/arvada"
+},
+{
+"text": "On The Issues",
+"href": "https://www.lisaforcolorado.com/on-the-issues"
+},
+{
+"text": "Paul Derda Recreation Center:",
+"href": "https://www.broomfield.org/2664/Paul-Derda-Recreation-Center"
+},
+{
+"text": "Rayback Collective",
+"href": "https://www.therayback.com/"
+},
+{
+"text": "Resources",
+"href": "https://www.lisaforcolorado.com/resources"
+},
+{
+"text": "Rock Creek Farm",
+"href": "https://rockcreekfarm.com/"
+},
+{
+"text": "SafeSplash: Arvada",
+"href": "https://www.safesplash.com/"
+},
+{
+"text": "Sky Zone Trampoline Park: Arvada",
+"href": "https://www.skyzone.com/arvada/"
+},
+{
+"text": "Swallow Hill Music:",
+"href": "https://swallowhillmusic.org/"
+},
+{
+"text": "The Little Gym",
+"href": "http://thelittlegym.com/timnathco"
+},
+{
+"text": "The Urban Farm",
+"href": "https://www.theurbanfarm.org/visit-the-farm"
+},
+{
+"text": "Tiny Town",
+"href": "http://tinytownrailroad.com"
+},
+{
+"text": "Tot Time",
+"href": "https://www.westminsterco.gov/ParksRecreation/RecreationCenters/WestminsterSportsCenter/TotTime"
+},
+{
+"text": "Tulip Fairy and Elf Festival",
+"href": "https://boulderdowntown.com/events/tulip-festival"
+},
+{
+"text": "Tumble Haus",
+"href": "https://www.tumblehaus.com/"
+},
+{
+"text": "Wild Beginnings Nature School",
+"href": "https://wildbeginningsnatureschool.org"
+},
+{
+"text": "Wildlife Animal Sanctuary",
+"href": "https://www.wildanimalsanctuary.org/"
+},
+{
+"text": "Wings Over the Rockies Air & Space Museum",
+"href": "http://wingsmuseum.org"
+},
+{
+"text": "Wow Childrens Museum",
+"href": "https://wowchildrensmuseum.org/"
+},
+{
+"text": "Ya Ya Ya Farm:",
+"href": "https://yayafarmandorchard.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaFeretCO"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisaferetcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/lisaferet"
+}
 ]

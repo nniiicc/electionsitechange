@@ -1,25 +1,98 @@
 [
-"http://aboutads.info/choices",
-"http://adobe.com/products/flashplayer/security",
-"http://fec.gov/",
-"http://leelagray.com/",
-"http://networkadvertising.org/choices",
-"https://bsky.app/profile/leelagray.bsky.social",
-"https://facebook.com/profile.php?id=61587323275903",
-"https://google.com/settings/u/0/ads/authenticated",
-"https://instagram.com/LeelaJGray",
-"https://leelagray.com/",
-"https://leelagray.com/_sites/www.leelagray.com/privacy-policy",
-"https://leelagray.com/about",
-"https://leelagray.com/endorsements",
-"https://leelagray.com/issues",
-"https://leelagray.com/news",
-"https://leelagray.com/terms",
-"https://mobilize.us/leelagrayforcongress",
-"https://secure.actblue.com/donate/lg-web",
-"https://store.leelagray.com/",
-"https://tiktok.com/@LeelaGray5",
-"https://tools.google.com/dlpage/gaoptout",
-"https://x.com/LeelaJGray",
-"https://youtube.com/@LeelaJGray"
+{
+"text": "About",
+"href": "https://www.leelagray.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lg-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leelagray.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://mobilize.us/leelagrayforcongress"
+},
+{
+"text": "Home",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.leelagray.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.leelagray.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leelagray.com/_sites/www.leelagray.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.leelagray.com/"
+},
+{
+"text": "Terms",
+"href": "https://www.leelagray.com/terms"
+},
+{
+"text": "[image: Leela Gray - Veteran for Florida]",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/leelagray.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61587323275903"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/LeelaJGray"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@LeelaGray5"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LeelaJGray"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LeelaJGray"
+},
+{
+"text": "add on",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "http://www.fec.gov",
+"href": "http://www.fec.gov"
+},
+{
+"text": "outreach@leelagray.com",
+"href": "mailto:outreach@leelagray.com"
+},
+{
+"text": "page",
+"href": "http://www.networkadvertising.org/choices/"
+},
+{
+"text": "page",
+"href": "https://www.google.com/settings/u/0/ads/authenticated"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+},
+{
+"text": "www.leelagray.com",
+"href": "http://www.leelagray.com"
+}
 ]

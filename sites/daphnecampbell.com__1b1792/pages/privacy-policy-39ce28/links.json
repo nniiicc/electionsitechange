@@ -1,23 +1,90 @@
 [
-"http://allaboutcookies.org/",
-"http://networkadvertising.org/understanding-online-advertising/how-does-it-work",
-"http://optout.aboutads.info/",
-"https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
-"https://daphnecampbell.com/",
-"https://daphnecampbell.com/about-us",
-"https://daphnecampbell.com/accomplishments",
-"https://daphnecampbell.com/bio",
-"https://daphnecampbell.com/blog",
-"https://daphnecampbell.com/contact-us",
-"https://daphnecampbell.com/legal-notice",
-"https://daphnecampbell.com/merchant-policies",
-"https://daphnecampbell.com/press-releases",
-"https://daphnecampbell.com/services",
-"https://facebook.com/settings?tab=ads",
-"https://google.com/intl/en/policies/privacy",
-"https://google.com/settings/ads/anonymous",
-"https://jotform.com/form/252015553875055",
-"https://secure.democracyengine.com/DaphneCampbellCampaign",
-"https://tools.google.com/dlpage/gaoptout",
-"https://ueni.com/"
+{
+"text": "Accomplishments",
+"href": "https://daphnecampbell.com/accomplishments"
+},
+{
+"text": "Bio",
+"href": "https://daphnecampbell.com/bio"
+},
+{
+"text": "Blog",
+"href": "https://daphnecampbell.com/blog"
+},
+{
+"text": "Comment Accomplishments",
+"href": "https://daphnecampbell.com/about-us"
+},
+{
+"text": "Contact",
+"href": "https://daphnecampbell.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://daphnecampbell.com/"
+},
+{
+"text": "Initiatives",
+"href": "https://daphnecampbell.com/services"
+},
+{
+"text": "Legal Notice",
+"href": "https://daphnecampbell.com/legal-notice"
+},
+{
+"text": "Merchant Policies",
+"href": "https://daphnecampbell.com/merchant-policies"
+},
+{
+"text": "Petition & Yard Sign Support Form",
+"href": "https://www.jotform.com/form/252015553875055"
+},
+{
+"text": "Press Releases",
+"href": "https://daphnecampbell.com/press-releases"
+},
+{
+"text": "Stand With Daphne – Give Today",
+"href": "https://secure.democracyengine.com/DaphneCampbellCampaign"
+},
+{
+"text": "[image: Daphne Campbell for FL State House, District 108]",
+"href": "https://daphnecampbell.com/"
+},
+{
+"text": "[tooltip: logo]",
+"href": "https://ueni.com/"
+},
+{
+"text": "http://optout.aboutads.info",
+"href": "http://optout.aboutads.info"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org"
+},
+{
+"text": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work",
+"href": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work"
+},
+{
+"text": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
+"href": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.facebook.com/settings/?tab=ads",
+"href": "https://www.facebook.com/settings/?tab=ads"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "https://www.google.com/settings/ads/anonymous",
+"href": "https://www.google.com/settings/ads/anonymous"
+}
 ]

@@ -1,51 +1,214 @@
 [
-"http://facebook.com/TerryWilsonPage",
-"http://terrywilsonfortexas.com/articleslist/1",
-"http://terrywilsonfortexas.com/articleslist/10",
-"http://terrywilsonfortexas.com/articleslist/11",
-"http://terrywilsonfortexas.com/articleslist/12",
-"http://terrywilsonfortexas.com/articleslist/13",
-"http://terrywilsonfortexas.com/articleslist/14",
-"http://terrywilsonfortexas.com/articleslist/15",
-"http://terrywilsonfortexas.com/articleslist/16",
-"http://terrywilsonfortexas.com/articleslist/17",
-"http://terrywilsonfortexas.com/articleslist/18",
-"http://terrywilsonfortexas.com/articleslist/19",
-"http://terrywilsonfortexas.com/articleslist/2",
-"http://terrywilsonfortexas.com/articleslist/20",
-"http://terrywilsonfortexas.com/articleslist/3",
-"http://terrywilsonfortexas.com/articleslist/4",
-"http://terrywilsonfortexas.com/articleslist/5",
-"http://terrywilsonfortexas.com/articleslist/6",
-"http://terrywilsonfortexas.com/articleslist/7",
-"http://terrywilsonfortexas.com/articleslist/8",
-"http://terrywilsonfortexas.com/articleslist/9",
-"http://terrywilsonfortexas.com/sitrep/2",
-"http://terrywilsonfortexas.com/sitrep/8",
-"https://terrywilsonfortexas.com/",
-"https://terrywilsonfortexas.com/articles",
-"https://terrywilsonfortexas.com/articleslist/2023yir",
-"https://terrywilsonfortexas.com/articleslist/21",
-"https://terrywilsonfortexas.com/articleslist/border101",
-"https://terrywilsonfortexas.com/articleslist/defendtexasliberty",
-"https://terrywilsonfortexas.com/articleslist/op-ed-35",
-"https://terrywilsonfortexas.com/articleslist/op-ed-36",
-"https://terrywilsonfortexas.com/articleslist/op-ed-37",
-"https://terrywilsonfortexas.com/articleslist/op-ed-38",
-"https://terrywilsonfortexas.com/articleslist/op-ed-39",
-"https://terrywilsonfortexas.com/articleslist/op-ed29",
-"https://terrywilsonfortexas.com/articleslist/op-ed30",
-"https://terrywilsonfortexas.com/articleslist/op-ed31",
-"https://terrywilsonfortexas.com/articleslist/op-ed32",
-"https://terrywilsonfortexas.com/articleslist/op-ed33",
-"https://terrywilsonfortexas.com/articleslist/op-ed34",
-"https://terrywilsonfortexas.com/articleslist/oped22",
-"https://terrywilsonfortexas.com/articleslist/oped23",
-"https://terrywilsonfortexas.com/articleslist/oped24",
-"https://terrywilsonfortexas.com/articleslist/oped25",
-"https://terrywilsonfortexas.com/bio",
-"https://terrywilsonfortexas.com/donate",
-"https://terrywilsonfortexas.com/endorsements2024",
-"https://terrywilsonfortexas.com/issues",
-"https://terrywilsonfortexas.com/take-action"
+{
+"text": "1. Feb 14, 2017 - Opening Day",
+"href": "http://www.terrywilsonfortexas.com/articleslist/1"
+},
+{
+"text": "10. June 16, 2017 - The Bad - Texas Medical Board Sunset (85th Legislative Session Wrap-up, Part 2)",
+"href": "http://www.terrywilsonfortexas.com/articleslist/10"
+},
+{
+"text": "11. July 4, 2017 - The Ugly - The Culture of Fear and Lack of Communication (85th Legislative Session Wrap-up, Part 3)",
+"href": "http://www.terrywilsonfortexas.com/articleslist/11"
+},
+{
+"text": "12. August 16, 2017 - The Vote Not Taken",
+"href": "http://www.terrywilsonfortexas.com/articleslist/12"
+},
+{
+"text": "13. January 11, 2018 - What We Leave Behind",
+"href": "http://www.terrywilsonfortexas.com/articleslist/13"
+},
+{
+"text": "14. January 31, 2018 - Our Greatest Threat",
+"href": "http://www.terrywilsonfortexas.com/articleslist/14"
+},
+{
+"text": "15. February 15, 2018 - So You Want to Be Speaker of the House",
+"href": "http://www.terrywilsonfortexas.com/articleslist/15"
+},
+{
+"text": "16. February 27, 2018 - Solving the Property Tax Paradox",
+"href": "http://www.terrywilsonfortexas.com/articleslist/16"
+},
+{
+"text": "17. May 3, 2018 - Importance of Local Elections",
+"href": "http://www.terrywilsonfortexas.com/articleslist/17"
+},
+{
+"text": "18. October 17, 2018 - Support Congressman John Carter",
+"href": "http://www.terrywilsonfortexas.com/articleslist/18"
+},
+{
+"text": "19. June 6, 2019 - How HB 3’s Education Reforms Affect You",
+"href": "http://www.terrywilsonfortexas.com/articleslist/19"
+},
+{
+"text": "2. Feb 23, 2017 -",
+"href": "http://www.terrywilsonfortexas.com/sitrep/2"
+},
+{
+"text": "20. Aug 12, 2019 - What You Might Not Have Heard About the 86th Legislature",
+"href": "http://www.terrywilsonfortexas.com/articleslist/20"
+},
+{
+"text": "21. Oct 31, 2019 - Prop. 4 Questions and Answers",
+"href": "https://www.terrywilsonfortexas.com/articleslist/21"
+},
+{
+"text": "22. June 21, 2021 - Property Taxes Part 1 - Ad Valorem Overview",
+"href": "https://www.terrywilsonfortexas.com/articleslist/oped22"
+},
+{
+"text": "23. July 23, 2021 - Property Taxes Part 2 - Public School Finance",
+"href": "https://www.terrywilsonfortexas.com/articleslist/oped23"
+},
+{
+"text": "24. August 23, 2021 - Property Taxes Part 3 - Road to Reform",
+"href": "https://terrywilsonfortexas.com/articleslist/oped24"
+},
+{
+"text": "25. Dec 4, 2021 - Passing the State Map",
+"href": "https://terrywilsonfortexas.com/articleslist/oped25"
+},
+{
+"text": "26. October 3, 2023 - Texas Must Demand Better from our Party and Our Donors",
+"href": "https://terrywilsonfortexas.com/articleslist/defendtexasliberty"
+},
+{
+"text": "27. December 15, 2023 - Border 101",
+"href": "https://terrywilsonfortexas.com/articleslist/border101"
+},
+{
+"text": "28. December 27th, 2023 - 2023 Legislative Year-in-Review",
+"href": "https://www.terrywilsonfortexas.com/articleslist/2023yir"
+},
+{
+"text": "29. December 18, 2024 - Defense & Veterans’ Affairs Chairman Sets the Record Straight on the Border Defense Unit",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed29"
+},
+{
+"text": "3. March 8, 2017 - Committees, Bills, and Coalitions",
+"href": "http://www.terrywilsonfortexas.com/articleslist/3"
+},
+{
+"text": "30. January 2, 2025 - The Broken Republican Caucus",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed30"
+},
+{
+"text": "31. March 1, 2025 - Education Funding “The Rest of the Story” : Part 1",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed31"
+},
+{
+"text": "32. March 22, 2025 - Reforming Texas Aggregate Production Permitting",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed32"
+},
+{
+"text": "33. May 26, 2025 - Texas Must Prepare for the Ultimate Threat to its Power",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed33"
+},
+{
+"text": "34. June 26, 2025 - The 89th Legislature Delivered for All Texans",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed34"
+},
+{
+"text": "35. July 22, 2025 - Education Funding, “The Rest of the Story”",
+"href": "https://terrywilsonfortexas.com/articleslist/op-ed-35"
+},
+{
+"text": "36. August 23, 2025 - Weathering the Storm",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed-36"
+},
+{
+"text": "37. September 22, 2025 - The Teacher’s Bill of Rights",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed-37"
+},
+{
+"text": "38. October 23, 2025 - Higher Education Reform",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed-38"
+},
+{
+"text": "39. March 31, 2025 = Research Security and the State’s Economic Future",
+"href": "https://www.terrywilsonfortexas.com/articleslist/op-ed-39"
+},
+{
+"text": "4. March 27, 2017 - HB 81 and Criminal Justice Reform",
+"href": "http://www.terrywilsonfortexas.com/articleslist/4"
+},
+{
+"text": "5. April 5, 2017 - SB 6 & HB 2899",
+"href": "http://www.terrywilsonfortexas.com/articleslist/5"
+},
+{
+"text": "6. April 20, 2017 - Budgets (Part 1)",
+"href": "http://www.terrywilsonfortexas.com/articleslist/6"
+},
+{
+"text": "7. May 4, 2017 - Budgets (Part 2) and School Finance",
+"href": "http://www.terrywilsonfortexas.com/articleslist/7"
+},
+{
+"text": "8. May 26, 2017 - SB 2 and Prop",
+"href": "http://www.terrywilsonfortexas.com/sitrep/8"
+},
+{
+"text": "9. June 2, 2017 - The Good - Coming to A Budget Agreement (85th Legislative Session Wrap-up, Part 1)",
+"href": "http://www.terrywilsonfortexas.com/articleslist/9"
+},
+{
+"text": "About",
+"href": "https://www.terrywilsonfortexas.com/bio"
+},
+{
+"text": "Articles",
+"href": "https://www.terrywilsonfortexas.com/articles"
+},
+{
+"text": "Buckholts",
+"href": "http://www.terrywilsonfortexas.com/articleslist/2"
+},
+{
+"text": "Donate",
+"href": "https://www.terrywilsonfortexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terrywilsonfortexas.com/endorsements2024"
+},
+{
+"text": "Home",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "ISD",
+"href": "http://www.terrywilsonfortexas.com/sitrep/2"
+},
+{
+"text": "Issues",
+"href": "https://www.terrywilsonfortexas.com/issues"
+},
+{
+"text": "Take Action",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+},
+{
+"text": "[image: Terry Wilson]",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/TerryWilsonPage"
+},
+{
+"text": "e",
+"href": "http://www.terrywilsonfortexas.com/articleslist/8"
+},
+{
+"text": "rty Tax Reform",
+"href": "http://www.terrywilsonfortexas.com/sitrep/8"
+},
+{
+"text": "volunteering",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+}
 ]

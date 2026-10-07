@@ -1,15 +1,11 @@
-Leading LGBTQ+ Groups Issue Early Endorsement for Jimmy Gomez in CA-34
-Congressman Jimmy Gomez’ re-election campaign picked up the support of two prominent LGBTQ+ groups, Equality California and the Stonewall Democrats of Los Angeles.
+Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Donate Now Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates The Latest The Latest See All Campaign Updates Events Press Releases In the News See All Campaign Updates Events Press Releases In the News Jimmy Gomez | Campaign Blog | Campaign Updates | 03/24/22 Leading LGBTQ+ Groups Issue Early Endorsement for Jimmy Gomez in CA-34 Congressman Jimmy Gomez’ re-election campaign picked up the support of two prominent LGBTQ+ groups, Equality California and the Stonewall Democrats of Los Angeles.
 Los Angeles, March 24, 2022 – Congressman Jimmy Gomez continues to burnish his progressive credentials, releasing endorsements this week from some of the largest LGBTQ+ groups in California and the nation.
-Stonewall […]
-Dolores Huerta Joins Democratic & Latino Organizations Supporting Jimmy Gomez’s Re-Election Campaign
-Los Angeles, March 22, 2022 – Congressman Jimmy Gomez continues to flex his muscle in the 2022 midterms, demonstrating the far reaching coalition of state and national progressive powerhouses supporting his campaign with his latest round of endorsements.
-Headlined by famous labor and civil rights champion, Dolores Huerta, his latest announcements showcase a broad cross-section […]
-Jimmy Gomez for Congress Continues Endorsement Roll With Overwhelming Grassroots Support at California Democratic Party
-Los Angeles, March 14, 2022 – As the campaign season continues to heat up, Congressman Jimmy Gomez continues to build its list of top tier supporters, landing the official endorsement of the California Democratic Party.
-This comes after several prominent progressives and organizations like Planned Parenthood Action Fund and Congresswoman Pramila Jayapal, chair of the […]
-Rep.
+Stonewall […] Read More Jimmy Gomez | Campaign Blog | Campaign Updates | 03/22/22 Dolores Huerta Joins Democratic & Latino Organizations Supporting Jimmy Gomez’s Re-Election Campaign Los Angeles, March 22, 2022 – Congressman Jimmy Gomez continues to flex his muscle in the 2022 midterms, demonstrating the far reaching coalition of state and national progressive powerhouses supporting his campaign with his latest round of endorsements.
+Headlined by famous labor and civil rights champion, Dolores Huerta, his latest announcements showcase a broad cross-section […] Read More Jimmy Gomez | Campaign Blog | Campaign Updates | 03/14/22 Jimmy Gomez for Congress Continues Endorsement Roll With Overwhelming Grassroots Support at California Democratic Party Los Angeles, March 14, 2022 – As the campaign season continues to heat up, Congressman Jimmy Gomez continues to build its list of top tier supporters, landing the official endorsement of the California Democratic Party.
+This comes after several prominent progressives and organizations like Planned Parenthood Action Fund and Congresswoman Pramila Jayapal, chair of the […] Read More Jimmy Gomez | Campaign Updates | 10/28/20 Rep.
 Ayanna Pressley endorses Jimmy Gomez!
 We are proud to announce that Congresswoman Ayanna Pressley has endorsed Jimmy Gomez for Congress!
 “Jimmy Gomez has been a champion for the people of California’s 34th District.
-I’m proud to serve with him on the House Oversight and Reform Committee – where we’ve fought to hold this rogue White House accountable to the people […]
+I’m proud to serve with him on the House Oversight and Reform Committee – where we’ve fought to hold this rogue White House accountable to the people […] Read More 02 03 04 05 06 A Fighter For Working Families!
+Email ZIP code Stay Up-to-Date Contribute Now! $5 $10 $25 $50 Media Privacy Policy Jimmy Gomez for Congress P.O.
+Box 41018, Los Angeles, CA 90041 213-557-1348 info@jimmygomezforcongress.com Paid for by Jimmy Gomez for Congress Get Involved

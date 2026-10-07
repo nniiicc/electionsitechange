@@ -1,7 +1,5 @@
-Botched Attack on Jose Vega Reveals Major Financial Conflicts of Interest in Ritchie Torres Campaign
-July 31, 2026
-Jose Vega, LaRouche Independent candidate for Congress in New York’s 15th Congressional District, in the Bronx, issued the following statement on July 31:
-There is a filthy attempt to prevent the campaign of me, and of my friend, LaRouche Independent candidate for President Diane Sare, from telling you about how the Epstein Class is leading us into World War Three; about how they can be stopped; and about how to solve the so-called “immigration problem” with economic development.
+Skip to content Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Botched Attack on Jose Vega Reveals Major Financial Conflicts of Interest in Ritchie Torres Campaign July 31, 2026 Jose is under attack by the mainstream media while his opponent uses AIPAC money to make his friends rich.
+Help jose fight back by donating Donate Now → Jose Vega, LaRouche Independent candidate for Congress in New York’s 15th Congressional District, in the Bronx, issued the following statement on July 31: There is a filthy attempt to prevent the campaign of me, and of my friend, LaRouche Independent candidate for President Diane Sare, from telling you about how the Epstein Class is leading us into World War Three; about how they can be stopped; and about how to solve the so-called “immigration problem” with economic development.
 I’m fighting back, and I know how—but I need your help.
 On Monday, July 27, Politico published a hit piece against me, denouncing me for paying myself a monthly salary of $2,419.66 from January to May of 2026.
 The author, Jason Beeferman, describes this as a “modest salary.” What a condescending bastard!
@@ -48,3 +46,8 @@ I need you to contribute to my campaign.
 I need you to support my friend Diane Sare in her Independent campaign for President of the United States.
 I need you to vote me into the Congress in November.
 In fighting for the people of Gaza, the South Bronx, and the poor everywhere, whatever the result, I am the richest man in the world.
+Back to All Statements Support Our Movement Your contribution powers real change in the Bronx.
+Every donation helps us fight for Medicare for All, reindustrialization, and peace through development.
+Donate Now Join Our Campaign Stay informed about our fight to transform the Bronx.
+Get updates on events, policy announcements, and campaign news.
+Join Now press@votevega.nyc Bronx, NY 10459 (800) 498-8561 Privacy Policy | Terms and Conditions | Paid for by Vega for Congress

@@ -1,4 +1,10 @@
-Access to health care is one of the most pressing challenges facing Americans today, and the rising cost of care has pushed many families in District 69 to the breaking point.
+For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
+Enjoy Our Upcoming Events!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
+Enjoy Our Upcoming Events!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact Home Priority Issues for District 69 Affordable and Accessible Health Care Affordable and Accessible Health Care Access to health care is one of the most pressing challenges facing Americans today, and the rising cost of care has pushed many families in District 69 to the breaking point.
 Families are grappling with skyrocketing premiums, deductibles, and prescription prices.
 Even insured patients often find themselves postponing care because they simply can’t afford it.
 Leilani Barnett believes access to health care should not depend on your income or your address!
@@ -12,3 +18,4 @@ It is time for a state represent who will focus on allocating more of the budget
 Leilani doesn't believe one should need to be rich to access health care!
 Strengthening rural hospitals through targeted state funding, expanding Medicaid, and investing in telehealth infrastructure are critical steps.
 These are commonsense, cost-effective solutions that keep care close to home, protect rural economies, and ensure every Texan—no matter where they live—can get the treatment they need without going broke.
+Public Schools -- The Heart of Texas Towns Clean, Safe, Abundant -- Water Solutions Make the Economy Work for Working People!

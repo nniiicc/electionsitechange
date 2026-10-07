@@ -1,9 +1,38 @@
 [
-"https://schultzforconcord.com/",
-"https://schultzforconcord.com/about",
-"https://schultzforconcord.com/contact",
-"https://schultzforconcord.com/media",
-"https://schultzforconcord.com/state-rep",
-"https://secure.actblue.com/donate/ks2023",
-"https://webador.com/"
+{
+"text": "About",
+"href": "https://www.schultzforconcord.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.schultzforconcord.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ks2023"
+},
+{
+"text": "Home",
+"href": "https://www.schultzforconcord.com/"
+},
+{
+"text": "Kris Schultz for Concord Ward 9 City Council",
+"href": "https://www.schultzforconcord.com/"
+},
+{
+"text": "Media",
+"href": "https://www.schultzforconcord.com/media"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.schultzforconcord.com/about#main-content"
+},
+{
+"text": "State Rep",
+"href": "https://www.schultzforconcord.com/state-rep"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+}
 ]

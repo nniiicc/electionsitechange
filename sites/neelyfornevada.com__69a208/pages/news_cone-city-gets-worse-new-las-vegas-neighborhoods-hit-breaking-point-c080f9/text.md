@@ -1,19 +1,14 @@
-Ever feel like every road you need is under construction at the exact same time?
+Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Follow Follow Follow Home Meet Erica Where I Stand District 9 Photos News DONATE NOW DONATE NOW VOLUNTEER SIGNUP Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Home Meet Erica Where I Stand District 9 Photos News News “Cone City” Gets Worse: New Las Vegas Neighborhoods Hit Breaking Point April 24, 2026 Ever feel like every road you need is under construction at the exact same time?
 Across Las Vegas, orange cones, lane closures, detours, and surprise slowdowns have become part of daily life.
-Is Las Vegas “cone city?” 🚧👷♀️
-FOX5’s Ken Smith saw the frustration at Desert Inn Road near Cabana Drive.
-“It’s just overwhelming for the community.”
-See Clark County’s response: https://t.co/toVnBrSwhy pic.twitter.com/bj2p2JA8RC
-— FOX5 Las Vegas (@FOX5Vegas) April 23, 2026
-If you’ve driven across the valley lately, you know the routine.
+Is Las Vegas “cone city?” 🚧👷‍♀️ FOX5’s Ken Smith saw the frustration at Desert Inn Road near Cabana Drive.
+“It’s just overwhelming for the community.” See Clark County’s response: https://t.co/toVnBrSwhy pic.twitter.com/bj2p2JA8RC — FOX5 Las Vegas (@FOX5Vegas) April 23, 2026 If you’ve driven across the valley lately, you know the routine.
 You leave early.
 You think you planned ahead.
 Then suddenly two lanes are closed, traffic is backed up, and everyone is trying to merge at once like it’s the last lifeboat on a sinking ship.
 Impatient drivers start making risky moves just to get around the mess.
 That’s when road work becomes more than annoying.
 It becomes a safety issue.
-District 9 Residents Are Feeling It
-Assembly District 9 covers a large stretch of the southwest valley, one of the fastest-growing parts of Las Vegas.
+District 9 Residents Are Feeling It Assembly District 9 covers a large stretch of the southwest valley, one of the fastest-growing parts of Las Vegas.
 That growth brings new homes, businesses, and families.
 It also brings traffic, road strain, and constant infrastructure work.
 That means simple trips start taking longer.
@@ -31,11 +26,12 @@ But regular folks also have the right to ask: why does it always feel like every
 That’s where government often loses the public.
 People can tolerate inconvenience when there’s a clear plan, visible progress, and an end date.
 What they hate is endless disruption with no sense of when relief is coming.
-Nevada Knows Growth Comes With Costs
-Las Vegas has changed fast.
+Nevada Knows Growth Comes With Costs Las Vegas has changed fast.
 New neighborhoods keep rising.
 Traffic keeps growing.
 Demand keeps climbing.
 The challenge for local leaders is making sure growth doesn’t turn into gridlock.
 “Cone city” may sound funny, but jokes are often rooted in truth.
-And when a whole valley starts laughing about orange cones, local leaders should realize residents aren’t really laughing at all.
+And when a whole valley starts laughing about orange cones, local leaders should realize residents aren’t really laughing at all.  Call ‪(702) 785-1160‬  Mail Erica Neely for Nevada 6545 S.
+Fort Apache Rd.
+Ste 135 PMB 215 LAS VEGAS, NV 89148  Email [email protected] Paid For By Erica Neely For Nevada Follow Follow Follow Follow Privacy Policy

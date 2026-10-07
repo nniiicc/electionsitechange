@@ -1,14 +1,62 @@
 [
-"https://omarferdin.com/",
-"https://omarferdin.com/ball",
-"https://omarferdin.com/book",
-"https://omarferdin.com/cart",
-"https://omarferdin.com/contact",
-"https://omarferdin.com/events",
-"https://omarferdin.com/events3",
-"https://omarferdin.com/information",
-"https://omarferdin.com/issues",
-"https://squarespace.com/",
-"https://tinyurl.com/bootleggerball",
-"https://zeffy.com/en-US/donation-form/donate-to-help-elect-omar-ferdin"
+{
+"text": "0",
+"href": "https://www.omarferdin.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.omarferdin.com/"
+},
+{
+"text": "Bootlegger Ball",
+"href": "https://www.omarferdin.com/ball"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-help-elect-omar-ferdin"
+},
+{
+"text": "Events",
+"href": "https://www.omarferdin.com/events"
+},
+{
+"text": "Folder: Events",
+"href": "https://www.omarferdin.com/events3"
+},
+{
+"text": "Folder: Information",
+"href": "https://www.omarferdin.com/information"
+},
+{
+"text": "Get Involved",
+"href": "https://www.omarferdin.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.omarferdin.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.omarferdin.com/issues"
+},
+{
+"text": "Omar's Book",
+"href": "https://www.omarferdin.com/book"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Omar Ferdin]",
+"href": "https://www.omarferdin.com/"
+},
+{
+"text": "[image]",
+"href": "https://tinyurl.com/bootleggerball"
+},
+{
+"text": "friends2electomar@gmail.com",
+"href": "mailto:friends2electomar@gmail.com"
+}
 ]

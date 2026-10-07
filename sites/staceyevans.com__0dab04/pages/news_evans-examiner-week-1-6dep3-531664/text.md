@@ -1,5 +1,4 @@
-Evans Examiner: Budget Week
-This week, we began one of our most important responsibilities as your legislators, determining the FY 2027 budget.
+0 Skip to Content Home GA House District 57 Meet Stacey Issues News Get Involved Contact Us Donate Open Menu Close Menu Home GA House District 57 Meet Stacey Issues News Get Involved Contact Us Donate Open Menu Close Menu Home GA House District 57 Meet Stacey Issues News Get Involved Contact Us Donate Evans Examiner: Budget Week Feb 19 Written By Elijah Johnson This week, we began one of our most important responsibilities as your legislators, determining the FY 2027 budget.
 So many questions!
 Throughout the week, we've heard from many state agencies and organizations who receive Georgia taxpayer dollars about whether additional funding is needed and why.
 This presented an opportunity for us to ask questions on why these requests are being made, who they benefit, and who they leave out.
@@ -14,5 +13,5 @@ This is particularly important for our legislators in our northern most counties
 While we technically will gavel in for Monday, Legislative Day 6, it will be a VERY short day.
 The Speaker and Majority Leader will be gaveling in and then immediately adjourning session until Tuesday January 27th.
 Until then, catch up on the Joint Appropriation Budget meetings!
-In service,
-Stacey Evans
+In service, Stacey Evans Elijah Johnson Previous Previous Evans Examiner: Week 2 Next Next Evans Examiner: Week 1 Copyright # © All rights Reserved.
+Paid for by Friends of Stacey Evans 750 Piedmont Avenue, NE Atlanta, GA 30308 Privacy Policy

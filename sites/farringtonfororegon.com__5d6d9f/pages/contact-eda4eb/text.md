@@ -1,5 +1,3 @@
-"My life and campaign are grounded in faith, family, personal accountability, and looking out for neighbors.
-I am pro-life, a strong supporter of the Second Amendment, and I believe parents—not politicians or bureaucrats—should lead in education and healthcare choices for minors."
-- Dan Farrington
-Get in touch with Dan
-Reach out with any questions or concerns.
+0 Skip to Content Home Issues Endorsements Volunteer Contact Donate Open Menu Close Menu Home Issues Endorsements Volunteer Contact Donate Open Menu Close Menu Home Issues Endorsements Volunteer Contact Donate "My life and campaign are grounded in faith, family, personal accountability , and looking out for neighbors.
+I am pro-life , a strong supporter of the Second Amendment , and I believe parents—not politicians or bureaucrats—should lead in education and healthcare choices for minors. " - Dan Farrington Get in touch with Dan Reach out with any questions or concerns.
+Home ‍ ‍ Issues ‍ ‍ Volunteer ‍ ‍ Contact ‍ ‍ Privacy Policy Paid for by Farrington for Oregon

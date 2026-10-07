@@ -1,14 +1,9 @@
+top of page How To Help About Craig Issues Taxes Women's Healthcare LGBTQ Voting Rights Environment Immigration Energy Labor in Ohio I-73 Bypass Ohio Public Bank Education Farmers Made in America Infrastructure Data Centers Constitutional Rights Healthcare Opioid Crisis Ohio's 87th District Donate More Use tab to navigate through the menu items.
 I believe the values I grew up with are still possible despite today’s toxic political environment saying otherwise.
 The shared ideals our communities have can be readily found when we hold a respectful conversation with our neighbors.
-The solutions we seek for producing good paying jobs that can raise families and give dignity to people are right in front of us when we work together.
-We must hold our ground against the partisan elite and special interests who wish to tear us apart and increase their bottom lines at the expense of our communities.
+The solutions we seek for producing good paying jobs that can raise families and give dignity to people are right in front of us when we work together. ​ We must hold our ground against the partisan elite and special interests who wish to tear us apart and increase their bottom lines at the expense of our communities.
 Together with your support, we can rise up together, make our communities better and truly bring Ohio back to a better future.
-ABOUT ME
-Hi, I'm Craig
-GET TO KNOW
-CRAIG SWARTZ
-I thought I’d take a few minutes and let you know a little more about me, my life, and why I’m running to represent OH District 87
-I was born and raised right here in Ohio.
+ABOUT ME Hi, I'm Craig GET TO KNOW CRAIG SWARTZ I thought I’d take a few minutes and let you know a little more about me, my life, and why I’m running to represent OH District 87 I was born and raised right here in Ohio.
 I grew up in a suburb outside of Cleveland and attended The Ohio State University.
 After college, I traveled to Europe, working (as an apprentice in a Munich machine shop) and studying (International Relations in Paris) for a few years, then I moved back to Ohio to help run my family’s fast food business.
 Then, I met my wife, Camille.
@@ -31,4 +26,4 @@ I’m ready to bring Ohio back to its future and forge ahead.
 If you’re ready for a progressive leader like me, with a wide breadth of personal and professional experiences, who will demand fair wages, improved infrastructure, quality public education, LGBTQIA+ rights, reproductive healthcare, and so much more, chip in to my campaign so we can make this a reality.
 Explore my website for more info on me and my policies.
 I hope you’ll join my movement.
-Craig Swartz
+Craig Swartz DONATE Paid for by Swartz For Ohio House bottom of page

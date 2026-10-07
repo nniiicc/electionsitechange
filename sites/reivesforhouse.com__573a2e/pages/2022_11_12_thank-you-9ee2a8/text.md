@@ -1,4 +1,4 @@
-After a year of the toughest campaign that I have faced since 2014, I want to reach out directly to this community and offer my gratitude.
+Facebook X About About Robert Reives Endorsements Leadership News Issues Join Sign Up Volunteer Contact Donate Select Page Thank You Nov 12, 2022 | News After a year of the toughest campaign that I have faced since 2014, I want to reach out directly to this community and offer my gratitude.
 I am grateful for your continued trust in me to represent Chatham and Randolph Counties in Raleigh as your North Carolina House Representative and House Democratic Leader.
 I know that this win was only made possible with the support of voters from all parties and affiliations and I am deeply appreciative of your faith in my service.
 When we run for office, we have to choose which party we represent, but I want to reiterate my commitment to every person in this district, regardless of political affiliation and regardless of whether you supported my campaign.
@@ -10,3 +10,5 @@ Her team worked day and night to organize and strategize, and the result speaks 
 Our county had the highest rate of voting, once again beating the other 99 counties with a 65% turnout.
 From the bottom of my heart: Thank you all for your unwavering support over the past year.
 Without your trust in me, this victory would not have been possible.
+Like on Facebook Like on Facebook Follow on Twitter My Tweets Facebook X Paid for by The Committee to Elect Robert T.
+Reives II.

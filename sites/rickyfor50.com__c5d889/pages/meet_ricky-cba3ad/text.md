@@ -1,5 +1,4 @@
-Meet Ricky Santiago/ Conoce a Ricky Santiago
-For more than 36 years, I have proudly called Lakeland my home.
+Home/ Inicio Meet Ricky/ Conoce a Ricky Events/ Eventos Issues/ Temas de Campaña Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Meet Ricky Santiago/ Conoce a Ricky Santiago For more than 36 years, I have proudly called Lakeland my home.
 I have been blessed with a deeply supportive family — my wife Yenni, with whom I will celebrate 30 years of marriage this August, our five children, and our beautiful two-year-old granddaughter.
 I was born in one of the humblest barrios of Caguas, Puerto Rico, and in 1989 I moved to Florida in search of opportunity and a better future.
 I began my journey at Maynard Traviss Technical College.
@@ -69,6 +68,6 @@ La Constitución de los Estados Unidos es mi guía.
 Los principios que nos legaron nuestros Padres Fundadores son las herramientas que utilizaré en este nuevo capítulo de servicio.
 Mi vida ha estado definida por el trabajo duro, el servicio y la convicción de que cada comunidad merece dignidad, oportunidades e igualdad de derechos.
 Eso es lo que he defendido siempre — y eso es exactamente por lo que lucharé en el Distrito 50.
-COMMUNITY ● INTEGRITY ● PROGRESS
-FLORIDA HOUSE DISTRICT 50
-HELP IS ON THE WAY!
+COMMUNITY ● INTEGRITY ● PROGRESS FLORIDA HOUSE DISTRICT 50 HELP IS ON THE WAY!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

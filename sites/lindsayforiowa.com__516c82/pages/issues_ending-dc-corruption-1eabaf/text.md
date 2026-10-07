@@ -1,5 +1,2 @@
-End DC Corruption
-My promise to you is that:
-I will never take corporate PAC money,
-I will vote to ban Congressional stock trading and ban members of Congress from becoming lobbyists,
-and I will work to overturn Citizens United's decision.
+Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate About Endorsements Issues News Volunteer Events Store Donate Bring Down the Cost of Living for Working Iowans A Healthcare System that Works for All End DC Corruption Keep Our Communities Safe Protect Our Education System Support Iowa Farmers Kids Over Clicks Stand With Veterans End DC Corruption My promise to you is that: I will never take corporate PAC money, I will vote to ban Congressional stock trading and ban members of Congress from becoming lobbyists, and I will work to overturn Citizens United's decision.
+For press inquiries please contact press@lindsayforiowa.com For other inquiries please contact info@lindsayforiowa.com P.O Box 144, Dubuque, IA 52004 Private Policy Powered by RUN! website builder Paid for by Lindsay for Iowa You need to enable JavaScript to run this app.

@@ -1,4 +1,7 @@
-Welcome!
+0 Skip to Content Home Meet April On the Issues Blog Donate Today!
+Sign Up Open Menu Close Menu Home Meet April On the Issues Blog Donate Today!
+Sign Up Open Menu Close Menu Home Meet April On the Issues Blog Donate Today!
+Sign Up Welcome!
 Hi, I’m April.
 I am Diné, a citizen of the Navajo Nation, a mom, an organizer, a leader and a friend.
 I have been a member of the Portland City Council since 2020 and have raised my family here in Portland since 2006.
@@ -19,4 +22,4 @@ One thing that my culture has taught me is that all things are related and we ha
 When we work on behalf of the many instead of the few we will see everyone thrive instead of the wealthiest and most privileged.
 And we are not just working on behalf of this generation, but also using the wisdom of those generations that came before us and for the generations who will come after us.
 This is why my work is always looking at how we’re connected and how we can be inclusive.
-Ahe’hee (Thank You) for your support and I look forward to hearing from you about what your ideas and hopes are for our city.
+Ahe’hee (Thank You) for your support and I look forward to hearing from you about what your ideas and hopes are for our city. “ To navigate our complex world, we have to build relationships, build trust and work together. ” — April Made with Squarespace Paid for and authorized by April for Portland

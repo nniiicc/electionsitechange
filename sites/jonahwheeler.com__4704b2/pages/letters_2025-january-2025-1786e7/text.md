@@ -1,5 +1,4 @@
-January 2025 Letter
-2025 has begun marking beginning of the new Federal, and State governments elected in the 2024 election.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all 2025 2025 2025 Jan 31, 2025 Jan 31, 2025 January 2025 Letter The Capitol Complex - 22 January 2025 - 16:35 - Concord, NH - Taken by Jonah The Capitol Complex - 22 January 2025 - 16:35 - Concord, NH - Taken by Jonah 2025 has begun marking beginning of the new Federal, and State governments elected in the 2024 election.
 The 169th General Court for the State of New Hampshire has started, and with it goes the relatively cordial nature the legislature had forced upon it by it’s close composition between caucuses in the last term.
 The Republican majority of the House began the session by offering a rule which would have allowed a committee to move that a bill be held by committee, prior to a public hearing.
 Effectively ending New Hampshire’s tradition of giving every bill a public hearing, vote in committee, and ultimately a debate and vote on the House floor.
@@ -37,7 +36,7 @@ HB184 is the result of those conversations.
 A bill charging a legislative study committee on the issue.
 With the general charge of looking at the issue of school start times for the potential of future legislation.
 The committee’s report would be due November of this year.
-HB184 had it’s first hearing in the newly formed Education Policy and Administration committee this month.
+School Start Time Hearing - 15 January 2025 - 15:27 - Concord, NH - Taken by Jonah School Start Time Hearing - 15 January 2025 - 15:27 - Concord, NH - Taken by Jonah HB184 had it’s first hearing in the newly formed Education Policy and Administration committee this month.
 The parents concerned about the issue, their kids, and other Representative’s from both sides of the aisle with school aged children came out to testify in support of the bill.
 The hearing is available online with every hearing on the House YouTube, but it is also clipped on my website.
 I have also refiled my legislation on annulling the record of anyone convicted of a misdemeanor or violation level charge of cannabis possession.
@@ -57,7 +56,7 @@ It is time to step off the stage, and get into reality.
 The real dictators of our time are the oligarchs of tech, finance, other industry giants, and their patsies standing behind the podium.
 Underneath the grand rotunda of our Capitol.
 Rolling on sedatives to relieve their mind of the moral travesty going on within.
-We are in Wackadoodleland.
+Sun off the Back - 28 January 2025 - 16:30 - Concord, NH - Taken by Jonah Sun off the Back - 28 January 2025 - 16:30 - Concord, NH - Taken by Jonah We are in Wackadoodleland.
 Our politics have become a complete clown show.
 The unitary executive theory enshrined under President W.
 Bush, and utilized in various ways by all the Presidents succeeding; sets the country up in this moment for an executive branch the likes of which has never been seen.
@@ -87,4 +86,4 @@ Our first event was held at the Peterborough Select Board meeting on the 7th.
 It was great to see a full room, and good questions which sparked even better conversation.
 It is set to be a busy first year of the 169th General Court.
 The legislature will be quite the show this year.
-Back to all
+Frigid Days - 22 January 2025 - 16:03 - Concord, NH - Taken by Jonah Frigid Days - 22 January 2025 - 16:03 - Concord, NH - Taken by Jonah ‹ The Dead of Winter ‹ The Dead of Winter ‹ The Dead of Winter In With The New › In With The New › In With The New › Back to all

@@ -1,99 +1,618 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=2026+A%26NH%2FPI+General+Candidate+Forum&dates=20261021T001500Z%2F20261021T020000Z&location=719+South+King+Street%2C+Seattle%2C+Washington%2C+98104%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=2026+Healthcare+Candidates+Forum&dates=20261006T020000Z%2F20261006T033000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana%21&dates=20261021T220000Z%2F20261022T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Central+Beacon+Hill%21&dates=20261011T230000Z%2F20261012T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Columbia+City+%26amp%3B+Hillman+City%21&dates=20261031T003000Z%2F20261031T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+North+Beacon+Hill%21&dates=20261021T003000Z%2F20261021T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+North+Beacon+Hill+%26amp%3B+Central+Beacon+Hill%21&dates=20261018T180000Z%2F20261018T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Othello%21&dates=20261007T003000Z%2F20261007T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Othello%21&dates=20261027T003000Z%2F20261027T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Othello+%26amp%3B+New+Holly%21&dates=20261020T003000Z%2F20261020T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Rainier+Beach%21&dates=20261009T003000Z%2F20261009T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Rainier+Beach%21&dates=20261013T003000Z%2F20261013T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Rainier+Beach%21&dates=20261030T003000Z%2F20261030T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261010T230000Z%2F20261011T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261014T003000Z%2F20261014T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261023T003000Z%2F20261023T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261025T230000Z%2F20261026T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261029T003000Z%2F20261029T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261031T180000Z%2F20261031T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261101T230000Z%2F20261102T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+South+Beacon+Hill%21&dates=20261028T003000Z%2F20261028T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+the+Central+District%21&dates=20261016T003000Z%2F20261016T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+the+Central+District%21&dates=20261024T180000Z%2F20261024T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day+GOTV+With+Tatiana%21&dates=20261102T170000Z%2F20261104T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote%21+-+Ballot+Drop+Canvass&dates=20261017T180000Z%2F20261017T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hillman+City+Candidate+Forum&dates=20261028T013000Z%2F20261028T033000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=King+County+Candidate+Forum%2C+hosted+by+Coalition+of+Immigrants+Refugees+and+Communities+of+Color+%28CIRCC%29+and+partners+%E2%80%93+37th+District%26nbsp%3B&dates=20261010T170000Z%2F20261010T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Skyway+Candidate+Forum+%28Hosted+By+West+Hill+Community+Association+x+South+Seattle+Emerald%29&dates=20261010T210000Z%2F20261010T230000Z",
-"http://maps.google.com/?q=719+South+King+Street+Seattle%2C+Washington%2C+98104+United+States",
-"https://facebook.com/profile.php?id=61589252729764",
-"https://google.com/maps/search/5900+Rainier+Ave.+S?entry=gmail",
-"https://instagram.com/tatianaforwa",
-"https://linktr.ee/TatianaforWA",
-"https://tatianaforwa.org/",
-"https://tatianaforwa.org/about-tatiana",
-"https://tatianaforwa.org/cart",
-"https://tatianaforwa.org/events",
-"https://tatianaforwa.org/events/2026-anhpi-general-candidate-forum",
-"https://tatianaforwa.org/events/2026-anhpi-general-candidate-forum?format=ical",
-"https://tatianaforwa.org/events/2026-healthcare-candidates-forumhttps/actionnetworkorg/events/2026-wa-healthcare-candidates-forumsourcedirectlink",
-"https://tatianaforwa.org/events/2026-healthcare-candidates-forumhttps/actionnetworkorg/events/2026-wa-healthcare-candidates-forumsourcedirectlink?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-06",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-06?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-10",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-10?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-11",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-11?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-12",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-12?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-13",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-13?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-15",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-15?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-17",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-17?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-18",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-18?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-19",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-19?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-20",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-20?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-21",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-21?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-22",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-22?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-24",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-24?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-25-7z3cl",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-25-7z3cl?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-26",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-26?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-27",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-27?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-28",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-28?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-29",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-29?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-30",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-30?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-31",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-31?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-11-01",
-"https://tatianaforwa.org/events/canvass-with-tatiana-11-01?format=ical",
-"https://tatianaforwa.org/events/election-day-gotv-with-tatiana",
-"https://tatianaforwa.org/events/election-day-gotv-with-tatiana?format=ical",
-"https://tatianaforwa.org/events/hillman-city-candidate-forum",
-"https://tatianaforwa.org/events/hillman-city-candidate-forum?format=ical",
-"https://tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d",
-"https://tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d?format=ical",
-"https://tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald",
-"https://tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald?format=ical",
-"https://tatianaforwa.org/gallery",
-"https://tatianaforwa.org/home",
-"https://tatianaforwa.org/our-platform",
-"https://tatianaforwa.org/the-job"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=719+south+king+street+seattle%2C+washington%2C+98104+united+states"
+},
+{
+"text": "0",
+"href": "https://www.tatianaforwa.org/cart"
+},
+{
+"text": "2026 A&NH/PI General Candidate Forum",
+"href": "https://www.tatianaforwa.org/events/2026-anhpi-general-candidate-forum"
+},
+{
+"text": "2026 Healthcare Candidates Forum",
+"href": "https://www.tatianaforwa.org/events/2026-healthcare-candidates-forumhttps/actionnetworkorg/events/2026-wa-healthcare-candidates-forumsourcedirectlink"
+},
+{
+"text": "5900 Rainier Ave. S",
+"href": "https://www.google.com/maps/search/5900+Rainier+Ave.+S?entry=gmail"
+},
+{
+"text": "About Tatiana",
+"href": "https://www.tatianaforwa.org/about-tatiana"
+},
+{
+"text": "Canvass with Tatiana in Central Beacon Hill!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-11"
+},
+{
+"text": "Canvass with Tatiana in Columbia City & Hillman City!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-30"
+},
+{
+"text": "Canvass with Tatiana in North Beacon Hill & Central Beacon Hill!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-18"
+},
+{
+"text": "Canvass with Tatiana in North Beacon Hill!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-20"
+},
+{
+"text": "Canvass with Tatiana in Othello & New Holly!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-19"
+},
+{
+"text": "Canvass with Tatiana in Othello!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06"
+},
+{
+"text": "Canvass with Tatiana in Othello!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-26"
+},
+{
+"text": "Canvass with Tatiana in Rainier Beach!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb"
+},
+{
+"text": "Canvass with Tatiana in Rainier Beach!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-12"
+},
+{
+"text": "Canvass with Tatiana in Rainier Beach!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-29"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-10"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-13"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-22"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-25-7z3cl"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-28"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-31"
+},
+{
+"text": "Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-11-01"
+},
+{
+"text": "Canvass with Tatiana in South Beacon Hill!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-27"
+},
+{
+"text": "Canvass with Tatiana in the Central District!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-15"
+},
+{
+"text": "Canvass with Tatiana in the Central District!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-24"
+},
+{
+"text": "Canvass with Tatiana!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-21"
+},
+{
+"text": "Election Day GOTV With Tatiana!",
+"href": "https://www.tatianaforwa.org/events/election-day-gotv-with-tatiana"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tatianaforwa.org/gallery"
+},
+{
+"text": "Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://linktr.ee/TatianaforWA"
+},
+{
+"text": "Get Out The Vote! - Ballot Drop Canvass",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-17"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=2026+A%26NH%2FPI+General+Candidate+Forum&dates=20261021T001500Z%2F20261021T020000Z&location=719+South+King+Street%2C+Seattle%2C+Washington%2C+98104%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=2026+Healthcare+Candidates+Forum&dates=20261006T020000Z%2F20261006T033000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana%21&dates=20261021T220000Z%2F20261022T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Central+Beacon+Hill%21&dates=20261011T230000Z%2F20261012T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Columbia+City+%26amp%3B+Hillman+City%21&dates=20261031T003000Z%2F20261031T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+North+Beacon+Hill%21&dates=20261021T003000Z%2F20261021T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+North+Beacon+Hill+%26amp%3B+Central+Beacon+Hill%21&dates=20261018T180000Z%2F20261018T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Othello%21&dates=20261007T003000Z%2F20261007T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Othello%21&dates=20261027T003000Z%2F20261027T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Othello+%26amp%3B+New+Holly%21&dates=20261020T003000Z%2F20261020T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Rainier+Beach%21&dates=20261009T003000Z%2F20261009T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Rainier+Beach%21&dates=20261013T003000Z%2F20261013T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Rainier+Beach%21&dates=20261030T003000Z%2F20261030T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261010T230000Z%2F20261011T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261014T003000Z%2F20261014T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261023T003000Z%2F20261023T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261025T230000Z%2F20261026T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261029T003000Z%2F20261029T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261031T180000Z%2F20261031T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261101T230000Z%2F20261102T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+South+Beacon+Hill%21&dates=20261028T003000Z%2F20261028T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+the+Central+District%21&dates=20261016T003000Z%2F20261016T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+the+Central+District%21&dates=20261024T180000Z%2F20261024T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day+GOTV+With+Tatiana%21&dates=20261102T170000Z%2F20261104T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+Out+The+Vote%21+-+Ballot+Drop+Canvass&dates=20261017T180000Z%2F20261017T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hillman+City+Candidate+Forum&dates=20261028T013000Z%2F20261028T033000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=King+County+Candidate+Forum%2C+hosted+by+Coalition+of+Immigrants+Refugees+and+Communities+of+Color+%28CIRCC%29+and+partners+%E2%80%93+37th+District%26nbsp%3B&dates=20261010T170000Z%2F20261010T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Skyway+Candidate+Forum+%28Hosted+By+West+Hill+Community+Association+x+South+Seattle+Emerald%29&dates=20261010T210000Z%2F20261010T230000Z"
+},
+{
+"text": "Hillman City Candidate Forum",
+"href": "https://www.tatianaforwa.org/events/hillman-city-candidate-forum"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/2026-anhpi-general-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/2026-healthcare-candidates-forumhttps/actionnetworkorg/events/2026-wa-healthcare-candidates-forumsourcedirectlink?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-10?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-11?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-13?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-15?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-17?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-18?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-19?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-20?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-21?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-22?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-24?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-25-7z3cl?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-27?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-28?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-29?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-31?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-11-01?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/election-day-gotv-with-tatiana?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/hillman-city-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald?format=ical"
+},
+{
+"text": "King County Candidate Forum, hosted by Coalition of Immigrants Refugees and Communities of Color (CIRCC) and partners – 37th District",
+"href": "https://www.tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d"
+},
+{
+"text": "Our Platform",
+"href": "https://www.tatianaforwa.org/our-platform"
+},
+{
+"text": "Skyway Candidate Forum (Hosted By West Hill Community Association x South Seattle Emerald)",
+"href": "https://www.tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald"
+},
+{
+"text": "Talk to Tati",
+"href": "https://tatianaforwa.org/home#talk-to-tati"
+},
+{
+"text": "The Job",
+"href": "https://www.tatianaforwa.org/the-job"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/2026-anhpi-general-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/2026-healthcare-candidates-forumhttps/actionnetworkorg/events/2026-wa-healthcare-candidates-forumsourcedirectlink"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-10"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-11"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-12"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-13"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-15"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-17"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-18"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-19"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-20"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-21"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-22"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-24"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-25-7z3cl"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-26"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-27"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-28"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-29"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-30"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-31"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-11-01"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/election-day-gotv-with-tatiana"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/hillman-city-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d"
+},
+{
+"text": "View Event →",
+"href": "https://www.tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald"
+},
+{
+"text": "[image: 2026 A&NH/PI General Candidate Forum]",
+"href": "https://www.tatianaforwa.org/events/2026-anhpi-general-candidate-forum"
+},
+{
+"text": "[image: 2026 Healthcare Candidates Forum]",
+"href": "https://www.tatianaforwa.org/events/2026-healthcare-candidates-forumhttps/actionnetworkorg/events/2026-wa-healthcare-candidates-forumsourcedirectlink"
+},
+{
+"text": "[image: Canvass with Tatiana in Central Beacon Hill!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-11"
+},
+{
+"text": "[image: Canvass with Tatiana in Columbia City &amp; Hillman City!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-30"
+},
+{
+"text": "[image: Canvass with Tatiana in North Beacon Hill &amp; Central Beacon Hill!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-18"
+},
+{
+"text": "[image: Canvass with Tatiana in North Beacon Hill!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-20"
+},
+{
+"text": "[image: Canvass with Tatiana in Othello &amp; New Holly!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-19"
+},
+{
+"text": "[image: Canvass with Tatiana in Othello!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06"
+},
+{
+"text": "[image: Canvass with Tatiana in Othello!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-26"
+},
+{
+"text": "[image: Canvass with Tatiana in Rainier Beach!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-06-cz2sb"
+},
+{
+"text": "[image: Canvass with Tatiana in Rainier Beach!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-12"
+},
+{
+"text": "[image: Canvass with Tatiana in Rainier Beach!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-29"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-10"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-13"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-22"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-25-7z3cl"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-28"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-31"
+},
+{
+"text": "[image: Canvass with Tatiana in Skyway!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-11-01"
+},
+{
+"text": "[image: Canvass with Tatiana in South Beacon Hill!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-27"
+},
+{
+"text": "[image: Canvass with Tatiana in the Central District!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-15"
+},
+{
+"text": "[image: Canvass with Tatiana in the Central District!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-24"
+},
+{
+"text": "[image: Canvass with Tatiana!]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-21"
+},
+{
+"text": "[image: Election Day GOTV With Tatiana!]",
+"href": "https://www.tatianaforwa.org/events/election-day-gotv-with-tatiana"
+},
+{
+"text": "[image: Get Out The Vote! - Ballot Drop Canvass]",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-17"
+},
+{
+"text": "[image: Hillman City Candidate Forum]",
+"href": "https://www.tatianaforwa.org/events/hillman-city-candidate-forum"
+},
+{
+"text": "[image: King County Candidate Forum, hosted by Coalition of Immigrants Refugees and Communities of Color (CIRCC) and partners – 37th District&nbsp;]",
+"href": "https://www.tatianaforwa.org/events/iok5hz43qskkq8itaaazlzh4u55n1d"
+},
+{
+"text": "[image: Skyway Candidate Forum (Hosted By West Hill Community Association x South Seattle Emerald)]",
+"href": "https://www.tatianaforwa.org/events/skyway-candidate-forum-hosted-by-west-hill-community-assoication-x-south-seattle-emerald"
+},
+{
+"text": "[image: Tatiana for Washington]",
+"href": "https://www.tatianaforwa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589252729764"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tatianaforwa"
+},
+{
+"text": "hello@tatianaforwa.org",
+"href": "mailto:hello@tatianaforwa.org"
+}
 ]

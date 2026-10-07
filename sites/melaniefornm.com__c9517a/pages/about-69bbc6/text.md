@@ -1,9 +1,8 @@
-Grit.
+0 Skip to Content Melanie Stansbury for New Mexico About Issues Volunteer Contact DONATE Open Menu Close Menu Melanie Stansbury for New Mexico About Issues Volunteer Contact DONATE Open Menu Close Menu About Issues Volunteer Contact DONATE Grit.
 Resilience.
 Determination.
 And, Heart.
-Melanie and her mother
-Having grown up in Albuquerque, I share many of the same stories and struggles as so many New Mexican families and have dedicated my career to helping build a brighter future.
+Melanie and her mother Having grown up in Albuquerque, I share many of the same stories and struggles as so many New Mexican families and have dedicated my career to helping build a brighter future.
 Like all families that struggle - grit, determination and resilience helped my family get by, but it was the care and support – the heart – of our community that helped us thrive.
 Food, water, shelter, and a meaningful job are the basics of a dignified life.
 Yet for too many in our community, these fundamentals are out of reach.
@@ -35,8 +34,7 @@ Addressing food and housing insecurity, fighting for universal access to healthc
 This is my charge.
 And, together, I know that with our grit, resilience, determination, and heart -- we can get the job done.
 Because we are New Mexicans and that is what we do.
-Melanie’s Story
-Grit.
+Melanie’s Story Grit.
 Resilience.
 Determination.
 And, Heart.
@@ -50,5 +48,4 @@ After years of work on land, water, and community issues in New Mexico, I went t
 Senate and Executive Office of the President to work on these issues at the national level.
 After being the first woman elected as State House Representative to New Mexico House District 28, I was elected to the U.S.
 House of Representatives in 2021.
-Melanie, her father and her mother
-Melanie’s mother
+Melanie, her father and her mother Melanie’s mother Melanie for New Mexico PO Box 51493 Albuquerque, NM 87181 melanieforcongress@melaniefornm.com ©# Melaniefornm.com PAID FOR BY MELANIE FOR NEW MEXICO PRIVACY POLICY

@@ -1,3 +1,2 @@
-NC District 115: Redistricting sparks stiff competition, battle over representation
-ASHEVILLE, N.C.
-(WLOS) — Buncombe County has one of the most competitive state House district seats in North Carolina — District 115 — as a result of Republicans, once again, passing new voting maps.
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu Tag WLOS News NC District 115: Redistricting sparks stiff competition, battle over representation ASHEVILLE, N.C.
+(WLOS) — Buncombe County has one of the most competitive state House district seats in North Carolina — District 115 — as a result of Republicans, once again, passing new voting maps. elijah January 24, 2024 PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

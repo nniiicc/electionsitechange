@@ -1,4 +1,3 @@
-David Clayton believes in
-The Patient Priority Act
-Legislation to create legal amnesty for any healthcare provider simply doing their jobs.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in The Patient Priority Act Legislation to create legal amnesty for any healthcare provider simply doing their jobs.
 No legal action can be taken against a doctor or health care provider for putting their patients' health above any big government regulation or violation of privacy laws.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

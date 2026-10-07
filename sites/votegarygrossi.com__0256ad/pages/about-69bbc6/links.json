@@ -1,7 +1,34 @@
 [
-"https://secure.winred.com/committee-to-elect-gary-grossi/donate-today",
-"https://votegarygrossi.com/",
-"https://votegarygrossi.com/about",
-"https://votegarygrossi.com/get-involved",
-"https://votegarygrossi.com/issues"
+{
+"text": "About Gary",
+"href": "https://www.votegarygrossi.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-gary-grossi/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votegarygrossi.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votegarygrossi.com/"
+},
+{
+"text": "See Gary's Platform→",
+"href": "https://www.votegarygrossi.com/issues"
+},
+{
+"text": "The Issues",
+"href": "https://www.votegarygrossi.com/issues"
+},
+{
+"text": "[image: Gary Grossi for Congress]",
+"href": "https://www.votegarygrossi.com/"
+},
+{
+"text": "info@votegarygrossi.com",
+"href": "mailto:info@votegarygrossi.com"
+}
 ]

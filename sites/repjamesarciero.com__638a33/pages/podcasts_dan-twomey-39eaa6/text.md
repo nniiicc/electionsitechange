@@ -1,5 +1,2 @@
-Dan Twomey
-Westford Academy (WA) Principal, Dan Twomey joined me and we talked about his new role at WA, his transition from dean and his strong commitment to embracing a culture of student leadership and engagement!
-Written By James Arciero
-Previous
-Next
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Dan Twomey Mar 15 Written By James Arciero Westford Academy (WA) Principal, Dan Twomey joined me and we talked about his new role at WA, his transition from dean and his strong commitment to embracing a culture of student leadership and engagement!
+James Arciero Previous Previous Kristen Las Next Next Denise Pigeon Paid for by the Committee to Elect Jim Arciero

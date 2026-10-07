@@ -1,12 +1,58 @@
 [
-"https://grayforassembly.com/",
-"https://grayforassembly.com/author/admin",
-"https://grayforassembly.com/category/news",
-"https://grayforassembly.com/contact",
-"https://grayforassembly.com/donate",
-"https://grayforassembly.com/endorsements",
-"https://grayforassembly.com/ibew-local-2032-endorses-scott-gray-for-new-york-state-assembly",
-"https://grayforassembly.com/key-parts-of-nys-new-gun-law-blocked-by-federal-judge-in-syracuse",
-"https://grayforassembly.com/photo-gallery",
-"https://userway.org/"
+{
+"text": "Contact",
+"href": "https://www.grayforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.grayforassembly.com/endorsements/"
+},
+{
+"text": "Make A Campaign Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Make A Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "News",
+"href": "https://www.grayforassembly.com/category/news/"
+},
+{
+"text": "Next Post:Key parts of NY’s new gun law blocked by federal judge in Syracuse",
+"href": "https://www.grayforassembly.com/key-parts-of-nys-new-gun-law-blocked-by-federal-judge-in-syracuse/"
+},
+{
+"text": "Photos",
+"href": "https://www.grayforassembly.com/photo-gallery/"
+},
+{
+"text": "Previous Post:IBEW Local 2032 Endorses Scott Gray for New York State Assembly",
+"href": "https://www.grayforassembly.com/ibew-local-2032-endorses-scott-gray-for-new-york-state-assembly/"
+},
+{
+"text": "[image: Scott Gray for Assembly | New York State Assembly, 116th District]",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "admin",
+"href": "https://www.grayforassembly.com/author/admin/"
+},
+{
+"text": "friendsofgray@gmail.com",
+"href": "mailto:friendsofgray@gmail.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+}
 ]

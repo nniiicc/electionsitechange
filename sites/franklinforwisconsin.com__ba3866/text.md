@@ -1,4 +1,4 @@
-| Welcome to the website for Franklin for Wisconsin.
+Ben Franklin for Assembly Home About Ben Issues District Donate Contact Ben Franklin ​Re-elect for the 88th Assembly District Welcome to the website for Franklin for Wisconsin .
 My name is Ben Franklin, and I am your current State Representative.
 I’m proud to be running for re-election to the Wisconsin State Legislature.
 Growing up in a small town in the Midwest, I learned early on the value of hard work, service, and commitment.
@@ -13,4 +13,4 @@ I’m running for re-election in the 88th Assembly District because I believe de
 I will continue working to grow our economy, support local businesses, and ensure Northeast Wisconsin remains a safe, thriving place to raise a family.
 Most importantly, I will continue to put you first, because this campaign—and this office—is about representing the very best of Wisconsin.
 And the very best of Wisconsin is found right here in the 88th Assembly District.
-With your support, we will keep moving forward together while keeping "Focused on Our Future!" | |
+With your support, we will keep moving forward together while keeping "Focused on Our Future!" DONATE Paid for by Franklin for Wisconsin Information does not imply endorsement by the DOD or US Air Force Copyright © # Home About Ben Issues District Donate Contact

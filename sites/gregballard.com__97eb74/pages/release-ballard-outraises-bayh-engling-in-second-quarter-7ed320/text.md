@@ -1,5 +1,8 @@
-INDIANAPOLIS – Publicly available campaign finance reports released today reveal that independent Secretary of State candidate Greg Ballard outraised Democrat Beau Bayh and Republican Max Engling in the most recent reporting period.
-Engling netted $202,745.23 while Libertarian Lauri Shillings reported $10,766.89.
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Jul 15, 2026 RELEASE: Ballard outraises Bayh, Engling in second quarter INDIANAPOLIS – Publicly available campaign finance reports released today reveal that independent Secretary of State candidate Greg Ballard outraised Democrat Beau Bayh and Republican Max Engling in the most recent reporting period.
+Between April 1 and May 31, Ballard raised a total of $#,#.# , compared with Bayh's $#,#.# .
+Engling netted $#,#.# while Libertarian Lauri Shillings reported $#,#.# .
 Ballard's total includes both his Q2 report for the period of 5/16 through 6/30 ($509,207.19) as well as his outgoing treasurer's report and related amendments for the period of 4/1 through 5/15 ($162,612.22).
+Ballard announced his intent to run for Secretary of State on March 4 and raised $# that month.
 Unlike Bayh and Engling, Ballard's campaign has not employed a fundraiser or fundraising consultant.
-Campaign finance reports covering Q2 fundraising for all the SOS candidates are available here.
+Campaign finance reports covering Q2 fundraising for all the SOS candidates are available here .
+ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

@@ -1,1 +1,4 @@
-Wyndmere senior center building campaign reaches 85% of goal after $10,000 donation Jun 4, 2026 | In the News
+Meet Terry PRIORITIES NEWS Get Involved Vote CONTACT DONATE Luick, Goerger lead District 25 legislative races in early returns Jun 9, 2026 | In the News Wyndmere senior center building campaign reaches #% of goal after $# donation Jun 4, 2026 | In the News Search Search Recent Posts Luick, Goerger lead District 25 legislative races in early returns Wyndmere senior center building campaign reaches #% of goal after $# donation Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary Terry Goerger Announces Candidacy for North Dakota House of Representatives in District 25 Recent Comments No comments to show.  FOLLOW FOR NEWS & UPDATES Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY TERRY GOERGER FOR ND, KARLA SCHIMELFENIG, TREASURER

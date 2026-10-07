@@ -1,12 +1,12 @@
-I’ve been traveling all over the state.
-A year ago, Gene Garris asked me, on the air, to commit to visiting all 46 counties.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now The 1 Million Who Know I’ve been traveling all over the state.
+#ago, Gene Garris asked me, on the air, to commit to visiting all 46 counties.
 So I’ve been doing that.
 What I’ve seen won’t surprise you.
 I’ve seen South Carolinians running businesses, creating value for their customers and community.
 I’ve seen volunteers organizing celebrations, building events for their friends and neighbors to gather and enjoy one another.
 Striped Bass, Watermelons, Peaches, Poultry, Shag Music and Barbecue, we have celebrated it all together.
 I’ve seen what we’re proud of: our Medal of Honor recipient, our 50- and 67- and 120-year endurance in business, our artwork and our performers, the preservation of our Gullah Geechee culture, and the opportunities in our entrepreneurial ecosystem.
-I’ve seen South Carolinians working together every day to prosper.
+Lunch at Michelle’s in McCormick I’ve seen South Carolinians working together every day to prosper.
 To thrive.
 And to care for, comfort, and rescue those of us who have fallen on hard times.
 I’ve seen the devastation of flooding and the rebuilding we did together.
@@ -20,7 +20,7 @@ But we are not united.
 If we were united, we would know that there are trade-offs.
 We cannot give millions of dollars to the Scout Motors plant in Blythewood and also fund a hospital in Bennettsville.
 We cannot build highway access for phantom NFL practice fields and also repair the levees and dams that protect us from flooding during hurricanes.
-If we were united, we would know that economic development in South Carolina means corporate welfare.
+Cook’s Peach Stand in Edgefield County If we were united, we would know that economic development in South Carolina means corporate welfare.
 And that industries with real potential are stifled until the good ole boys can figure out how to make money in them.
 We are not united because our politicians don’t want us to be.
 They want us to depend on them for everything.
@@ -56,14 +56,12 @@ So that’s been our target.
 So who are the one million who know?
 Nationally, 47% of Americans consider themselves independent.
 In South Carolina, because we have open primaries and don’t track affiliation, only 10% of voters are considered independent, based on ballots cast in general elections.
-I think South Carolina independents far exceed either of the party affiliate categories.
+Hobcaw Brewing Company, Mt Pleasant, Meet & Greet I think South Carolina independents far exceed either of the party affiliate categories.
 Research shows that 31% of South Carolinians feel “politically homeless” and that 39% of moderate South Carolinians don’t identify with either party.
 Even 35% of self-proclaimed liberals don’t feel connected to a party.
 South Carolinians are mostly optimistic about our state, while less-so about the nation.
 About 60% think the state is on the right track, but only 52% think the nation is.
-We’re united around wanting better fiscal responsibility and better government transparency.
-(resource)
-All that data to say: South Carolina is ready for better representation in the US Senate.
+We’re united around wanting better fiscal responsibility and better government transparency. ( resource ) All that data to say: South Carolina is ready for better representation in the US Senate.
 There are at least one million South Carolinians who know our government doesn’t work for us.
 Those are the people I’m trying to rally to the polls on November 3rd.
 The ones who are ready for better representation; the ones who know more government is not better government.
@@ -80,3 +78,6 @@ Give me the chance, South Carolina, and I’ll make you proud.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

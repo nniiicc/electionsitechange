@@ -1,4 +1,4 @@
-Born in Chicago to interracial parents, Sydney got her first taste of politics working with her grandmother to help elect Harold Washington – the city’s first Black mayor.
+DONATE About Sydney Priorities Media In the News Media Gallery About CD 37 Endorsements About Sydney Priorities Media In the News Media Gallery About CD 37 Endorsements Meet Sydney Kamlager-Dove Born in Chicago to interracial parents, Sydney got her first taste of politics working with her grandmother to help elect Harold Washington – the city’s first Black mayor.
 Sydney came to Los Angeles to attend the University of Southern California as a political science major.
 While she was at USC, the 1992 riots following the Rodney King verdict erupted.
 And that catalytic event motivated Sydney to work with Rebuild LA and the Los Angeles Festival, two nonprofit organizations that advanced job creation and public arts programs to restore broken communities.
@@ -9,3 +9,4 @@ She was elected in 2015 to the Los Angeles Community College Board, where she fo
 Sydney successfully ran for State Assembly in 2018 and State Senate in 2021.
 Congresswoman Kamlager-Dove is a member of Zeta Phi Beta Sorority and earned a B.A. in political science from USC and an M.A. in Arts Management and Public Policy from Carnegie Mellon University.
 She lives in View Park with her husband, Austin Dove, her two step-children, and their rescue pets.
+Paid for by Sydney Kamlager-Dove for Congress - 5870 Melrose Ave · Ste 3-805 · Los Angeles, CA 90038

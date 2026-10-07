@@ -1,15 +1,74 @@
 [
-"https://eaglelakemn.gov/residents/tator-days",
-"https://facebook.com/HenryforSenate",
-"https://gis.lcc.mn.gov/iMaps/districts",
-"https://henry4senate.com/",
-"https://henry4senate.com/contact",
-"https://henry4senate.com/donate",
-"https://henry4senate.com/meet-jackie",
-"https://henry4senate.com/news",
-"https://henry4senate.com/priorities",
-"https://henry4senate.com/take-action",
-"https://northmankatofundays.com/home",
-"https://sos.mn.gov/elections-voting",
-"https://x.com/jackiehenrymn"
+{
+"text": "507-317-8820",
+"href": "tel:5073178820"
+},
+{
+"text": "Contact",
+"href": "https://www.henry4senate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.henry4senate.com/donate/"
+},
+{
+"text": "Find my district",
+"href": "https://gis.lcc.mn.gov/iMaps/districts/"
+},
+{
+"text": "Fun Days event info",
+"href": "https://northmankatofundays.com/home"
+},
+{
+"text": "Make a contribution →",
+"href": "https://www.henry4senate.com/donate/"
+},
+{
+"text": "Meet Jackie",
+"href": "https://www.henry4senate.com/meet-jackie/"
+},
+{
+"text": "Minnesota Secretary of State",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "News",
+"href": "https://www.henry4senate.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://www.henry4senate.com/priorities/"
+},
+{
+"text": "Take Action",
+"href": "https://www.henry4senate.com/take-action/"
+},
+{
+"text": "Tator Days info",
+"href": "https://eaglelakemn.gov/residents/tator-days/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.henry4senate.com/take-action/"
+},
+{
+"text": "[image: Jackie Henry for MN Senate]",
+"href": "https://www.henry4senate.com/"
+},
+{
+"text": "[image: Map of Minnesota Senate District 18 — Blue Earth, Nicollet, and Le Sueur counties, including Mankato, North Mankato, and St. Peter]Check your address on the interactive map",
+"href": "https://gis.lcc.mn.gov/iMaps/districts/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HenryforSenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jackiehenrymn"
+},
+{
+"text": "jackiehenrymn@gmail.com",
+"href": "mailto:jackiehenrymn@gmail.com"
+}
 ]

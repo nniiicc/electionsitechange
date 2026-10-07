@@ -1,5 +1,4 @@
-Election 2026 Campaign Kickoff Campaign Season is Kicking Off and I Need Your Help!
-To My Neighbors in Greenville and Mauldin: As our kids go back to school, Read More > August 13, 2026 No Comments
-Election The Campaign Begins & More Tax Relief To My District 24 Neighbors: It was another busy week in Columbia, but we kicked it off here at home..
-Filing for Re-Election Flanked Read More > March 30, 2026 No Comments
-Election 2024 Campaign Kicks Off To My Neighbors in Greenville and Mauldin: The 2023-2024 Legislative Session ended last week, so it’s time to turn our attention to the 2024 Read More > April 28, 2024 No Comments
+Skip to main content Bruce Bannister bruce@brucebannister.com Facebook Instagram Home About Bruce Issues Updates Home About Bruce Issues Updates Donate Now Election Home / Election Election 2026 Campaign Kickoff Campaign Season is Kicking Off and I Need Your Help!
+To My Neighbors in Greenville and Mauldin: As our kids go back to school, Read More > August 13, 2026 No Comments Election The Campaign Begins & More Tax Relief To My District 24 Neighbors: It was another busy week in Columbia, but we kicked it off here at home..
+Filing for Re-Election Flanked Read More > March 30, 2026 No Comments Election 2024 Campaign Kicks Off To My Neighbors in Greenville and Mauldin: The 2023-2024 Legislative Session ended last week, so it’s time to turn our attention to the 2024 Read More > April 28, 2024 No Comments About Us About Bruce Issues Contact Us P.O.
+Box 1828 Greenville, SC 29602 Donate Now Copyright © # Bruce Bannister for State House Design, Development, & Hosting by Uncle Jake Media

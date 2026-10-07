@@ -1,5 +1,5 @@
-Meet Bryson Reyes
-Bryson and his wife, Courtney, live in Waukesha with their two dogs, Wilson and Thomas.
+top of page HOME ABOUT ENDORSEMENTS ISSUES More Use tab to navigate through the menu items.
+Donate Meet Bryson Reyes ​ Bryson and his wife, Courtney, live in Waukesha with their two dogs, Wilson and Thomas.
 They are proud aunt and uncles to 5 nieces and nephews.
 Originally from Sterling, Illinois, Bryson felt a call to serve his country after he graduated college.
 He joined the United States Army through Officer Candidate School (OCS) where he was commissioned as an Infantry Officer.
@@ -10,3 +10,4 @@ He is also a graduate of Georgetown University’s McDonough School of Business 
 Bryson is a member of the Republican Party of Waukesha County, the Wisconsin Young Republicans, St.
 Mary’s Catholic Church in Waukesha, a volunteer with Americans for Prosperity, Stars and Stripes Honor Flight, and the Golden Retriever Rescue of Wisconsin (GRRoW).
 He is an avid runner and enjoys spending time with his wife, dogs, and going to different breweries around Wisconsin.
+Contact: brysonforwisconsin@gmail.com Paid for by Bryson for Wisconsin bottom of page

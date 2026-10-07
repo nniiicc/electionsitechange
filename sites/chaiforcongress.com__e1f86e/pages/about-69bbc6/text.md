@@ -1,6 +1,4 @@
-About Amy
-Amy (Doc) Chai for US Representative, District 1, CT
-Put a healer in the house!
+CHAI FOR CONGRESS Connecticut's First District CT-1 Home About Amy Issues Volunteer Contact Donate Donate Open main menu About Amy Amy (Doc) Chai for US Representative, District 1, CT Put a healer in the house !
 America is stressed and depressed because our leaders, media, and social bubbles are creating division.
 Doc Chai, MD, MS, is an expert in Primary Care and Addiction Medicine.
 The mental health of America requires unity, not division.
@@ -19,3 +17,9 @@ She was named a US Presidential Teacher by the Obama Administration in 2011 (her
 She coached Speech and Debate in Policy, Student Congress, and Public Forum.
 She is a published author.
 She is a mother of two adult children and is the sole caregiver for elderly parents.
+CHAI FOR CONGRESS Connecticut's First District CT-1 Follow the Campaign Facebook (opens in a new tab) X (opens in a new tab) TikTok (opens in a new tab) Quick Links About Amy Issues Volunteer Contact Get Involved Join the movement to put the UNITED back in the United States.
+Donate Now Paid for by Friends of Doc Chai, Jonathan De Los Santos, Treasurer.
+Approved by Dr.
+Amy Chai. © # - # Friends of Doc Chai.
+Doc Amy Chai for Congress.
+Amy Chai's Platform. · Website by Connecticut Website Company · Donate Here.

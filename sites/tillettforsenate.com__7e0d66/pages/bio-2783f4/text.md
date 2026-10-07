@@ -1,6 +1,5 @@
-Jerry R.
-Tillett
-Jerry Tillett grew up on the Outer Banks of North Carolina and participated in sports throughout secondary school.
+Skip to content Home Events Events News News Articles Articles Bio Bio Issues Photos Videos Press Releases Media Kit DONATE Bio Jerry R.
+Tillett Jerry Tillett grew up on the Outer Banks of North Carolina and participated in sports throughout secondary school.
 Mr.
 Tillett graduated from Wake Forest University with degrees in History and English, and Wake Forest School of Law.
 He was the recipient of academic honors and awards.
@@ -19,3 +18,13 @@ Judge Tillett was elected 33° Scottish Rite Mason, and the statewide Leader of 
 Judge Tillett was instrumental in establishing and managed the Dare County Recovery Court for Opiod addiction in addition to regular duties.
 Mr.
 Tillett has been married to Tanya Tillett for forty-seven years, has two adult children and two grandchildren.
+Tillett for Senate Jerry Tillett is running in North Carolina’s First Senatorial District race to represent Dare, Currituck, Camden, Pasquotank, Perquimans, Gates, Hertford.
+Northampton, Bertie, and Tyrrell counties.
+SMS Signup By providing your telephone number and checking the box, you consent to receive calls and text messages.
+Messages may include requests for donations.
+Msg & data rates may apply.
+Msg frequency may vary.
+Reply “STOP” to opt-out & “HELP” for help. (link to Privacy Policy page).
+Submit If you are human, leave this field blank.
+Contact tillettforsenate@gmail.com Social Facebook Instagram YouTube © # All Rights Reserved.
+Paid for by Tillett for Senate.

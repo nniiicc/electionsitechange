@@ -1,10 +1,14 @@
 {
  "description": "",
  "final_url": "https://samzurier.com/budget-documents/",
- "paid_for_by": null,
+ "fingerprint": "e7061cd324cc4e159076cdf4b0d72c3dda00e7c7",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer",
  "title": "Budget Documents | Sam Zurier New Site",
  "years_mentioned": [
+  "2022",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

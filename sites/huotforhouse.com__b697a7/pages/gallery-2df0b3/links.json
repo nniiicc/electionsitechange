@@ -1,49 +1,198 @@
 [
-"https://facebook.com/HuotforHouse",
-"https://house.leg.state.mn.us/members/profile/15527",
-"https://huotforhouse.com/",
-"https://huotforhouse.com/_astro/2W4A0305.BeXX1qqX_V4ssU.webp",
-"https://huotforhouse.com/_astro/2W4A0482.CVyxTVjS_Z14zhe9.webp",
-"https://huotforhouse.com/_astro/BPCA6440.BnZ9SH77_1YrPhb.webp",
-"https://huotforhouse.com/_astro/campaign-booth.-OtpM0W5_Z1DY2PL.webp",
-"https://huotforhouse.com/_astro/campaign-car.BZh80aL9_214x8F.webp",
-"https://huotforhouse.com/_astro/campaign-volunteers.BLcRSbuV_ZO2Iqt.webp",
-"https://huotforhouse.com/_astro/community-event-1.CEGmOELD_2t9H8a.webp",
-"https://huotforhouse.com/_astro/community-event-10.B9Mhhvsq_Z74UN.webp",
-"https://huotforhouse.com/_astro/community-event-11.BidAihAo_Z1aO6KR.webp",
-"https://huotforhouse.com/_astro/community-event-12.C99Thebl_1hichP.webp",
-"https://huotforhouse.com/_astro/community-event-2.Cdz-LI_I_RzgN9.webp",
-"https://huotforhouse.com/_astro/community-event-3.Dwj_MFtN_ZAmKKd.webp",
-"https://huotforhouse.com/_astro/community-event-4.BCG9N4Ex_172alQ.webp",
-"https://huotforhouse.com/_astro/community-event-5.DCz-CoOJ_Zw51g5.webp",
-"https://huotforhouse.com/_astro/community-event-6.J2ZKMp-v_iIqHi.webp",
-"https://huotforhouse.com/_astro/community-event-7.pH5lX1fz_S8IfH.webp",
-"https://huotforhouse.com/_astro/community-event-8.CFfLnGVe_pNLqP.webp",
-"https://huotforhouse.com/_astro/community-event-9.mVaVTbv9_ZvJJC1.webp",
-"https://huotforhouse.com/_astro/fire.DuKzcADC_lYQJF.webp",
-"https://huotforhouse.com/_astro/john-dog.DEe5mIu__l6yOI.webp",
-"https://huotforhouse.com/_astro/john-doorknocking.D1Y90265_1rlkGb.webp",
-"https://huotforhouse.com/_astro/john-goose.COOxuX49_Z2fPEbg.webp",
-"https://huotforhouse.com/_astro/john-volunteer.IvjYUtgc_Z1834CQ.webp",
-"https://huotforhouse.com/_astro/july-parade-1.DmBHvqVZ_Z1ENGRa.webp",
-"https://huotforhouse.com/_astro/july-parade-2._py9smdL_2sryhl.webp",
-"https://huotforhouse.com/_astro/july-parade-3.B2coCSrO_hmR02.webp",
-"https://huotforhouse.com/_astro/july-parade-tractor.DTIbKwLQ_2rJTzz.webp",
-"https://huotforhouse.com/_astro/office.mqyoYEcg_v2AVf.webp",
-"https://huotforhouse.com/_astro/parade-girl.DUrCbHry_GgHoc.webp",
-"https://huotforhouse.com/_astro/parade-group.DCzwOHQo_1TpJXE.webp",
-"https://huotforhouse.com/_astro/parade-interaction.DLobev80_UE3m6.webp",
-"https://huotforhouse.com/_astro/parade-tractor.3sWKTPwu_2ccPBJ.webp",
-"https://huotforhouse.com/contact",
-"https://huotforhouse.com/delivering",
-"https://huotforhouse.com/endorsements",
-"https://huotforhouse.com/events",
-"https://huotforhouse.com/gallery",
-"https://huotforhouse.com/issues",
-"https://huotforhouse.com/legislative",
-"https://huotforhouse.com/news",
-"https://huotforhouse.com/volunteer",
-"https://huotforhouse.com/why-i-serve",
-"https://instagram.com/john_huot_4_mn",
-"https://secure.actblue.com/donate/huot-for-house-2"
+{
+"text": "Contact",
+"href": "https://www.huotforhouse.com/contact/"
+},
+{
+"text": "Delivering for our Community",
+"href": "https://www.huotforhouse.com/delivering/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/huot-for-house-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.huotforhouse.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.huotforhouse.com/events/"
+},
+{
+"text": "Gallery",
+"href": "https://www.huotforhouse.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Huot for House",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.huotforhouse.com/issues/"
+},
+{
+"text": "Legislative Profile",
+"href": "https://www.huotforhouse.com/legislative/"
+},
+{
+"text": "News",
+"href": "https://www.huotforhouse.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.huotforhouse.com/volunteer/"
+},
+{
+"text": "Why I Serve",
+"href": "https://www.huotforhouse.com/why-i-serve/"
+},
+{
+"text": "[image: Campaign event in Rosemount]Campaign event in Rosemount",
+"href": "https://www.huotforhouse.com/_astro/community-event-9.mVaVTbv9_ZvJJC1.webp"
+},
+{
+"text": "[image: Campaign event with community members]Campaign event with community members",
+"href": "https://www.huotforhouse.com/_astro/community-event-4.BCG9N4Ex_172alQ.webp"
+},
+{
+"text": "[image: Campaign supporters gathering]Campaign supporters gathering",
+"href": "https://www.huotforhouse.com/_astro/community-event-12.C99Thebl_1hichP.webp"
+},
+{
+"text": "[image: Campaign volunteers working together]Campaign volunteers working together",
+"href": "https://www.huotforhouse.com/_astro/campaign-volunteers.BLcRSbuV_ZO2Iqt.webp"
+},
+{
+"text": "[image: Community meeting with District 56B constituents]Community meeting with District 56B constituents",
+"href": "https://www.huotforhouse.com/_astro/community-event-10.B9Mhhvsq_Z74UN.webp"
+},
+{
+"text": "[image: Community parade with local supporters]Community parade with local supporters",
+"href": "https://www.huotforhouse.com/_astro/july-parade-3.B2coCSrO_hmR02.webp"
+},
+{
+"text": "[image: Community volunteer event]Community volunteer event",
+"href": "https://www.huotforhouse.com/_astro/2W4A0305.BeXX1qqX_V4ssU.webp"
+},
+{
+"text": "[image: District 56B community gathering]District 56B community gathering",
+"href": "https://www.huotforhouse.com/_astro/community-event-7.pH5lX1fz_S8IfH.webp"
+},
+{
+"text": "[image: Group of parade participants with campaign signs]Group of parade participants with campaign signs",
+"href": "https://www.huotforhouse.com/_astro/parade-group.DCzwOHQo_1TpJXE.webp"
+},
+{
+"text": "[image: Huot for House campaign vehicle]Huot for House campaign vehicle",
+"href": "https://www.huotforhouse.com/_astro/campaign-car.BZh80aL9_214x8F.webp"
+},
+{
+"text": "[image: John Huot at a community gathering]John Huot at a community gathering",
+"href": "https://www.huotforhouse.com/_astro/community-event-1.CEGmOELD_2t9H8a.webp"
+},
+{
+"text": "[image: John Huot at a local community event]John Huot at a local community event",
+"href": "https://www.huotforhouse.com/_astro/community-event-11.BidAihAo_Z1aO6KR.webp"
+},
+{
+"text": "[image: John Huot at a local event]John Huot at a local event",
+"href": "https://www.huotforhouse.com/_astro/2W4A0482.CVyxTVjS_Z14zhe9.webp"
+},
+{
+"text": "[image: John Huot at a local town event]John Huot at a local town event",
+"href": "https://www.huotforhouse.com/_astro/community-event-3.Dwj_MFtN_ZAmKKd.webp"
+},
+{
+"text": "[image: John Huot at his office]John Huot at his office",
+"href": "https://www.huotforhouse.com/_astro/office.mqyoYEcg_v2AVf.webp"
+},
+{
+"text": "[image: John Huot at the July parade in Rosemount]John Huot at the July parade in Rosemount",
+"href": "https://www.huotforhouse.com/_astro/july-parade-1.DmBHvqVZ_Z1ENGRa.webp"
+},
+{
+"text": "[image: John Huot at the campaign booth]John Huot at the campaign booth",
+"href": "https://www.huotforhouse.com/_astro/campaign-booth.-OtpM0W5_Z1DY2PL.webp"
+},
+{
+"text": "[image: John Huot door knocking in District 56B]John Huot door knocking in District 56B",
+"href": "https://www.huotforhouse.com/_astro/john-doorknocking.D1Y90265_1rlkGb.webp"
+},
+{
+"text": "[image: John Huot interacting with parade attendees]John Huot interacting with parade attendees",
+"href": "https://www.huotforhouse.com/_astro/parade-interaction.DLobev80_UE3m6.webp"
+},
+{
+"text": "[image: John Huot meeting with local residents]John Huot meeting with local residents",
+"href": "https://www.huotforhouse.com/_astro/community-event-8.CFfLnGVe_pNLqP.webp"
+},
+{
+"text": "[image: John Huot speaking at a community forum]John Huot speaking at a community forum",
+"href": "https://www.huotforhouse.com/_astro/community-event-5.DCz-CoOJ_Zw51g5.webp"
+},
+{
+"text": "[image: John Huot with a volunteer]John Huot with a volunteer",
+"href": "https://www.huotforhouse.com/_astro/john-volunteer.IvjYUtgc_Z1834CQ.webp"
+},
+{
+"text": "[image: John Huot with his dog Ginger]John Huot with his dog Ginger",
+"href": "https://www.huotforhouse.com/_astro/john-dog.DEe5mIu__l6yOI.webp"
+},
+{
+"text": "[image: John Huot with his goose]John Huot with his goose",
+"href": "https://www.huotforhouse.com/_astro/john-goose.COOxuX49_Z2fPEbg.webp"
+},
+{
+"text": "[image: John Huot with local first responders]John Huot with local first responders",
+"href": "https://www.huotforhouse.com/_astro/fire.DuKzcADC_lYQJF.webp"
+},
+{
+"text": "[image: Meeting with constituents in District 56B]Meeting with constituents in District 56B",
+"href": "https://www.huotforhouse.com/_astro/community-event-2.Cdz-LI_I_RzgN9.webp"
+},
+{
+"text": "[image: Parade participants celebrating in the community]Parade participants celebrating in the community",
+"href": "https://www.huotforhouse.com/_astro/july-parade-2._py9smdL_2sryhl.webp"
+},
+{
+"text": "[image: Public safety community meeting]Public safety community meeting",
+"href": "https://www.huotforhouse.com/_astro/BPCA6440.BnZ9SH77_1YrPhb.webp"
+},
+{
+"text": "[image: Tractor at the community parade]Tractor at the community parade",
+"href": "https://www.huotforhouse.com/_astro/parade-tractor.3sWKTPwu_2ccPBJ.webp"
+},
+{
+"text": "[image: Tractor float at the July community parade]Tractor float at the July community parade",
+"href": "https://www.huotforhouse.com/_astro/july-parade-tractor.DTIbKwLQ_2rJTzz.webp"
+},
+{
+"text": "[image: Volunteers and supporters at a campaign event]Volunteers and supporters at a campaign event",
+"href": "https://www.huotforhouse.com/_astro/community-event-6.J2ZKMp-v_iIqHi.webp"
+},
+{
+"text": "[image: Young parade participant waving at supporters]Young parade participant waving at supporters",
+"href": "https://www.huotforhouse.com/_astro/parade-girl.DUrCbHry_GgHoc.webp"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HuotforHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.house.leg.state.mn.us/members/profile/15527"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/john_huot_4_mn"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@huotforhouse.com"
+}
 ]

@@ -1,11 +1,42 @@
 [
-"https://marcmihaly.com/",
-"https://marcmihaly.com/Issues",
-"https://marcmihaly.com/cart",
-"https://marcmihaly.com/contact",
-"https://marcmihaly.com/flood-response",
-"https://marcmihaly.com/legislative-report",
-"https://marcmihaly.com/meet-marc",
-"https://marcmihaly.com/on-the-issues",
-"https://secure.actblue.com/donate/friends-of-marc-mihaly-1"
+{
+"text": "0",
+"href": "https://www.marcmihaly.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.marcmihaly.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.marcmihaly.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-marc-mihaly-1"
+},
+{
+"text": "Flood Response",
+"href": "https://www.marcmihaly.com/flood-response"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.marcmihaly.com/Issues"
+},
+{
+"text": "Legislative Report",
+"href": "https://www.marcmihaly.com/legislative-report"
+},
+{
+"text": "Meet Marc",
+"href": "https://www.marcmihaly.com/meet-marc"
+},
+{
+"text": "On the Issues",
+"href": "https://www.marcmihaly.com/on-the-issues"
+},
+{
+"text": "[image: Marc Mihaly for Vermont House]",
+"href": "https://www.marcmihaly.com/"
+}
 ]

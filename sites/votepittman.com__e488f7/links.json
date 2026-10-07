@@ -1,15 +1,66 @@
 [
-"https://drive.google.com/drive/folders/1-_73PE_fXvAWyhWS4iEIBdjxgJkzYARC?usp=sharing",
-"https://facebook.com/Pittman05",
-"https://instagram.com/sen.pittman",
-"https://secure.actblue.com/donate/jeff-pittman-1",
-"https://twitter.com/votepittman",
-"https://votepittman.com/",
-"https://votepittman.com/about-5",
-"https://votepittman.com/endorsements",
-"https://votepittman.com/issues",
-"https://votepittman.com/privacy-policy",
-"https://votepittman.com/videos",
-"https://votepittman.com/volunteer",
-"https://votepittman.com/yardsigns"
+{
+"text": "ABOUT",
+"href": "https://www.votepittman.com/about-5"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jeff-pittman-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votepittman.com/endorsements"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votepittman.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://drive.google.com/drive/folders/1-_73PE_fXvAWyhWS4iEIBdjxgJkzYARC?usp=sharing"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votepittman.com/privacy-policy"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.votepittman.com/videos"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.votepittman.com/volunteer"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://www.votepittman.com/yardsigns"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/Pittman05/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Pittman05"
+},
+{
+"text": "[image: Instagram - White Circle]",
+"href": "https://www.instagram.com/sen.pittman/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sen.pittman/"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/votepittman"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/votepittman"
+},
+{
+"text": "[no text]",
+"href": "https://www.votepittman.com"
+}
 ]

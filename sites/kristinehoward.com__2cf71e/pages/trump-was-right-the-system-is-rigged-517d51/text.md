@@ -1,5 +1,4 @@
-Photo credit: Bulatlat
-| Donald Trump was right.
+Meet Kristine Endorsements News & Events Get Involved Select Page Trump was right – the system is rigged by KHoward | Jul 28, 2022 | News | 0 comments Photo credit: Bulatlat Donald Trump was right.
 The system is rigged but not in the way he would have us believe.
 Our system is rigged in a way that gives a minority of voters holding points of view completely out of sync with most Americans, a nearly perpetual grip on power.
 We have a structural bias in our institutions of government and electoral processes that empowers voters from rural, conservative, small states with political clout far exceeding their share of the population, making a sham of the concept of “one person, one vote”.
@@ -13,8 +12,8 @@ As a result, we have elected four presidents who lost the popular vote but won t
 Today, we have 5 reactionary Supreme Court Justices appointed by Presidents the majority of voting Americans did not support.
 Gerrymandering The power to draw the boundaries of state legislative and congressional districts gives tremendous power to those who draw the lines, especially when the Supreme Court refuses to level the playing field by allowing state legislatures to disregard racial and political sensitivities in the process.
 Like the Electoral College, gerrymandering is rooted in America’s history of slavery and voter suppression.
-Gerrymandering became a tool in post-Civil War America, especially in southern states, to minimize the ability for black citizens to build political power and opportunity.
-Republicans have become masters at racial gerrymandering in the 21st Century, using the tactic to take and hold majorities in state legislatures, including states that regularly cast more ballots statewide for Democrats.
+Gerrymandering became a tool in post-Civil War America , especially in southern states, to minimize the ability for black citizens to build political power and opportunity.
+Republicans have become masters at racial gerrymandering in the 21 st Century, using the tactic to take and hold majorities in state legislatures, including states that regularly cast more ballots statewide for Democrats.
 The United States Senate The structural bias in our system is most evident in the United States Senate.
 The framers of the Constitution, at the insistence of smaller states, struck a compromise giving each state two Senators as a check on the lower chamber, the House of Representatives, whose members were to be elected according to population.
 It is unlikely the framers could possibly have imagined a country with so much disparity in state populations.
@@ -27,4 +26,9 @@ Add to the population disparity of the Senate, the archaic filibuster rule requi
 The fix The only way to right this wrong is at the ballot box.
 In Pennsylvania, we need to elect a new majority in Harrisburg, elect more Democratic members to Congress and claim the open United States Senate seat in 2022.
 That is how we do our part.
-Thanks for reading, Kristine |
+Thanks for reading, Kristine Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

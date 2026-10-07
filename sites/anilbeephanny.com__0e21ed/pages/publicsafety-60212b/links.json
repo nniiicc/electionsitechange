@@ -1,10 +1,38 @@
 [
-"https://anilbeephanny.com/",
-"https://anilbeephanny.com/about",
-"https://anilbeephanny.com/publicsafety",
-"https://anilbeephanny.com/subscribe",
-"https://donorbox.org/beephan4ny2026",
-"https://facebook.com/AnilBeephanjr",
-"https://instagram.com/Anilbeephanjr",
-"https://twitter.com/AnilBeephanjr"
+{
+"text": "ABOUT",
+"href": "https://www.anilbeephanny.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://donorbox.org/beephan4ny2026"
+},
+{
+"text": "HOME",
+"href": "https://www.anilbeephanny.com"
+},
+{
+"text": "PUBLIC SAFETY",
+"href": "https://www.anilbeephanny.com/publicsafety"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.anilbeephanny.com/subscribe"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/AnilBeephanjr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/Anilbeephanjr"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/AnilBeephanjr"
+},
+{
+"text": "[image]",
+"href": "https://www.anilbeephanny.com"
+}
 ]

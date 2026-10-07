@@ -1,11 +1,58 @@
 [
-"http://twitter.com/Chuck4Assembly",
-"https://chuckwichgers.com/",
-"https://chuckwichgers.com/about",
-"https://chuckwichgers.com/contact",
-"https://chuckwichgers.com/contribute",
-"https://chuckwichgers.com/issues",
-"https://chuckwichgers.com/map",
-"https://chuckwichgers.com/opt",
-"https://facebook.com/Chuck4Assembly"
+{
+"text": "About",
+"href": "https://www.chuckwichgers.com/about"
+},
+{
+"text": "About Chuck",
+"href": "https://www.chuckwichgers.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.chuckwichgers.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.chuckwichgers.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.chuckwichgers.com"
+},
+{
+"text": "Issues",
+"href": "https://www.chuckwichgers.com/issues"
+},
+{
+"text": "Manage Opt Preferences",
+"href": "https://www.chuckwichgers.com/opt"
+},
+{
+"text": "Map",
+"href": "https://www.chuckwichgers.com/map"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Chuck4Assembly"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.chuckwichgers.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/Chuck4Assembly"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/Chuck4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.chuckwichgers.com/contact"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Chuck4Assembly"
+}
 ]

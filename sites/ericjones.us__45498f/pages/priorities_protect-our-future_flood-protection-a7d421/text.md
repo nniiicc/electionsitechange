@@ -1,6 +1,4 @@
-PRIORITIES • Protect Our Future • Policy to
-Protect Us From the Next Flood
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Protect Us From the Next Flood Why I believe this — and how I’ll fight for it.
 In December of 1955, a levee on the Feather River gave way and Yuba City went under.
 Thirty-seven people died.
 People here still measure time against it.
@@ -22,10 +20,9 @@ New Bullards Bar Dam needs a second spillway — one with gates 31.5 feet lower 
 The design is essentially finished.
 The environmental permit came through in June.
 The construction money is not there.
-The project runs $210 to $290 million, and the local agency is still out looking for partners.
+The project runs $210 to $290 million , and the local agency is still out looking for partners.
 That’s the whole story of this district in one sentence: we know the fix, we’ve engineered the fix, and we are waiting on Washington to fund the fix.
-Here’s what I’ll do — and why
-Fund the Atmospheric River Control spillway at New Bullards Bar.
+Here’s what I’ll do — and why Fund the Atmospheric River Control spillway at New Bullards Bar.
 This is the single highest-value flood project in our region and it is sitting at the goal line waiting on money.
 A dam that can draw down ahead of a storm protects everything downstream — Marysville, Yuba City, the orchards, the rice ground, the schools.
 I’d fight for the federal share directly, and I would not stop at a press release announcing that I asked.
@@ -46,20 +43,15 @@ Keep the local agencies in the room.
 The people who know these levees are here, not in Washington.
 Yuba Water Agency and the Sutter Butte Flood Control Agency have done the engineering and carried the local cost.
 Their job should be building the project, not spending a decade teaching a federal agency where the Feather River is.
-What this means for Our District
-There is a reason this is the first thing people raise at a Yuba County kitchen table and almost never comes up in a Washington office.
+What this means for Our District There is a reason this is the first thing people raise at a Yuba County kitchen table and almost never comes up in a Washington office.
 The people who would drown are not the people who write the budget.
 Our congressman has represented parts of this valley for nearly 30 years, and the second spillway is still unfunded while the design sits finished on a shelf.
 I’d rather be the representative who got the concrete poured than the one who sent the letter.
 I take no corporate PAC money, no special interest money, and no foreign money, so when I go after this money I’m not trading anything for it.
-The bottom line
-We are one bad atmospheric river away from repeating a disaster we already survived more than once, and the engineering to prevent it is finished and waiting.
+The bottom line We are one bad atmospheric river away from repeating a disaster we already survived more than once, and the engineering to prevent it is finished and waiting.
 Fund the spillway, fix the levees, and let people in this valley sleep through a storm.
 Let’s go build it.
-SOURCES
-- The 1955 Yuba City flood: levee failure on the Feather River, 37 recorded fatalities, and roughly $327 million in damages in 2011 dollars: U.S.
-Army Corps of Engineers — Sutter Basin Pilot Feasibility Study, Appendix B · 1955 Yuba–Sutter floods
-- Subsequent levee failures in Yuba County (1986) and Yuba and Sutter counties (1997), including the Feather River east-bank failure near Arboga: U.S.
-Army Corps of Engineers — Sutter Basin Pilot Feasibility Study
-- Approximately 70 miles of levee protecting Yuba City and Live Oak have been improved but do not meet current federal standards for through-seepage, under-seepage, and rotational failure: Sutter County — Flood Protection Fact Sheet · Sutter Butte Flood Control Agency — Feather River West Levee Project
-- Atmospheric River Control Spillway at New Bullards Bar Dam: gates 31.5 feet lower than the existing spillway, estimated cost of $210–290 million, design advanced and water quality certification issued June 2026, with the agency continuing to seek external construction funding: Yuba Water Agency — ARC Spillway at New Bullards Bar Dam · Yuba Water Agency — ARC Spillway reaches 90% design · California State Water Resources Control Board — Yuba River water quality certification
+All Policies Next Policy Return to Top SOURCES The 1955 Yuba City flood: levee failure on the Feather River, 37 recorded fatalities, and roughly $327 million in damages in 2011 dollars: U.S.
+Army Corps of Engineers — Sutter Basin Pilot Feasibility Study, Appendix B · 1955 Yuba–Sutter floods Subsequent levee failures in Yuba County (1986) and Yuba and Sutter counties (1997), including the Feather River east-bank failure near Arboga: U.S.
+Army Corps of Engineers — Sutter Basin Pilot Feasibility Study Approximately 70 miles of levee protecting Yuba City and Live Oak have been improved but do not meet current federal standards for through-seepage, under-seepage, and rotational failure: Sutter County — Flood Protection Fact Sheet · Sutter Butte Flood Control Agency — Feather River West Levee Project Atmospheric River Control Spillway at New Bullards Bar Dam: gates 31.5 feet lower than the existing spillway, estimated cost of $210–290 million, design advanced and water quality certification issued June 2026, with the agency continuing to seek external construction funding: Yuba Water Agency — ARC Spillway at New Bullards Bar Dam · Yuba Water Agency — ARC Spillway reaches 90% design · California State Water Resources Control Board — Yuba River water quality certification Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

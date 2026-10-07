@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.electedelson.com/news",
- "paid_for_by": null,
+ "fingerprint": "4b3972f48a6c4fe2a8b4e5c68b21ae0c30d85712",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Mark Edelson, Gregory Arbogast, Treasurer",
  "title": "News",
  "years_mentioned": [
   "2023",
-  "2024"
+  "2024",
+  "2031"
  ]
 }

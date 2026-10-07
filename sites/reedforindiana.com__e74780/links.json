@@ -1,6 +1,34 @@
 [
-"https://facebook.com/reedforindiana",
-"https://reedforindiana.com/",
-"https://reedforindiana.com/about",
-"https://secure.winred.com/committee-to-elect-john-reed/donate-today"
+{
+"text": "About",
+"href": "https://reedforindiana.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-john-reed/donate-today"
+},
+{
+"text": "Home",
+"href": "https://reedforindiana.com/"
+},
+{
+"text": "Policies",
+"href": "https://reedforindiana.com/#policies"
+},
+{
+"text": "[image: John Reed for Indiana]",
+"href": "https://reedforindiana.com"
+},
+{
+"text": "[image]",
+"href": "https://reedforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reedforindiana/"
+},
+{
+"text": "[no text]",
+"href": "mailto:jreed@reedforindiana.com"
+}
 ]

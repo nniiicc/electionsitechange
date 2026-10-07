@@ -1,30 +1,126 @@
 [
-"https://facebook.com/profile.php?id=61586552040656",
-"https://mariaforuscongress.com/",
-"https://mariaforuscongress.com/about-the-campaign",
-"https://mariaforuscongress.com/author/949759pwpadmin",
-"https://mariaforuscongress.com/category/campaign",
-"https://mariaforuscongress.com/category/election",
-"https://mariaforuscongress.com/category/leadership",
-"https://mariaforuscongress.com/category/politics",
-"https://mariaforuscongress.com/category/voting",
-"https://mariaforuscongress.com/contact-us",
-"https://mariaforuscongress.com/donate",
-"https://mariaforuscongress.com/events-campaigns",
-"https://mariaforuscongress.com/latest-news",
-"https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future",
-"https://mariaforuscongress.com/meet-the-candidate",
-"https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities",
-"https://mariaforuscongress.com/streamline-the-process-of-voting-campaign",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/about-1.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/about-2.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/about-4.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/about-campaign-5.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/avada-campaign-politician-02.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/avada-campaign-politician-03.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/blog-policies-uplift.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/blog-streamline-voting.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/job-opportunities-1.jpg",
-"https://mariaforuscongress.com/wp-content/uploads/2024/07/party-history-02.jpg",
-"https://secure.anedot.com/maria-for-u-s-congress/donate"
+{
+"text": "949759pwpadmin",
+"href": "https://mariaforuscongress.com/author/949759pwpadmin/"
+},
+{
+"text": "About The Campaign",
+"href": "https://mariaforuscongress.com/about-the-campaign/"
+},
+{
+"text": "Campaign",
+"href": "https://mariaforuscongress.com/category/campaign/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/maria-for-u-s-congress/donate"
+},
+{
+"text": "Election",
+"href": "https://mariaforuscongress.com/category/election/"
+},
+{
+"text": "Events",
+"href": "https://mariaforuscongress.com/events-campaigns/"
+},
+{
+"text": "HOME",
+"href": "https://mariaforuscongress.com/"
+},
+{
+"text": "Latest News",
+"href": "https://mariaforuscongress.com/latest-news/"
+},
+{
+"text": "Leadership",
+"href": "https://mariaforuscongress.com/category/leadership/"
+},
+{
+"text": "Leadership that helps you revolutionize the future",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "MEET MARIA",
+"href": "https://mariaforuscongress.com/meet-the-candidate/"
+},
+{
+"text": "Our policies are designed to uplift all communities",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "Politics",
+"href": "https://mariaforuscongress.com/category/politics/"
+},
+{
+"text": "Streamline the process of voting & campaign",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+},
+{
+"text": "Take Action",
+"href": "https://mariaforuscongress.com/donate/"
+},
+{
+"text": "Voting",
+"href": "https://mariaforuscongress.com/category/voting/"
+},
+{
+"text": "[image: Crowd with Posters]",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "[image: Father and Son in Street Holding up a Sign]",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "[image: Father and Son in Street Holding up a Sign]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/blog-policies-uplift.jpg"
+},
+{
+"text": "[image: Man Standing in the Road with USA Flag]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/about-4.jpg"
+},
+{
+"text": "[image: Man Standing outside Really Tall Building]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/about-campaign-5.jpg"
+},
+{
+"text": "[image: Man Talking on Microphone]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/avada-campaign-politician-03.jpg"
+},
+{
+"text": "[image: Man Wearing Suit with USA Flag Behind Him]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/avada-campaign-politician-02.jpg"
+},
+{
+"text": "[image: Man with Glasses Smiling]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/about-1.jpg"
+},
+{
+"text": "[image: People Holding Lit Sparklers]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/about-2.jpg"
+},
+{
+"text": "[image: People Laughing at Conference]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/party-history-02.jpg"
+},
+{
+"text": "[image: Two Woman Talking]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/job-opportunities-1.jpg"
+},
+{
+"text": "[image: Voting Stickers 1]",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+},
+{
+"text": "[image: Voting Stickers 1]",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2024/07/blog-streamline-voting.jpg"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586552040656"
+},
+{
+"text": "join & support us",
+"href": "https://mariaforuscongress.com/contact-us/"
+}
 ]

@@ -1,38 +1,210 @@
 [
-"https://facebook.com/WendyRogersAZ",
-"https://gorightstrategies.com/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rumble.com/c/c-845387",
-"https://truthsocial.com/@wendyrogersaz",
-"https://twitter.com/wendyrogersaz",
-"https://wendyrogers.org/",
-"https://wendyrogers.org/arizona-house-advances-sen-wendy-rogers-sb1421-denying-banking-and-remittance-access-to-illegal-aliens",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-legislation-allowing-voters-to-choose-photo-radar",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1055-requiring-immediate-ice-notification-for-illegal-alien-arrests",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1058-protecting-arizonans-firearm-purchase-privacy",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1062-improving-state-transportation-routes",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1063-enhancing-highway-safety-and-mobility",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1064-expanding-economic-opportunity-through-transportation-projects",
-"https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1426-strengthening-private-property-rights-against-unlawful-occupants",
-"https://wendyrogers.org/biography",
-"https://wendyrogers.org/contact",
-"https://wendyrogers.org/donate",
-"https://wendyrogers.org/endorsements",
-"https://wendyrogers.org/issues",
-"https://wendyrogers.org/meet",
-"https://wendyrogers.org/news",
-"https://wendyrogers.org/page/10",
-"https://wendyrogers.org/page/2",
-"https://wendyrogers.org/page/3",
-"https://wendyrogers.org/page/4",
-"https://wendyrogers.org/page/5",
-"https://wendyrogers.org/page/7",
-"https://wendyrogers.org/page/8",
-"https://wendyrogers.org/page/9",
-"https://wendyrogers.org/privacy-policy",
-"https://wendyrogers.org/sign-wendy-rogers-stand-with-ice-petition",
-"https://wendyrogers.org/terms-and-conditions",
-"https://wendyrogers.org/volunteer",
-"https://wendyrogers.org/wendy-rogers-on-dem-meltdown-over-her-election-integrity-bills"
+{
+"text": "1",
+"href": "https://wendyrogers.org/"
+},
+{
+"text": "10",
+"href": "https://wendyrogers.org/page/10/"
+},
+{
+"text": "2",
+"href": "https://wendyrogers.org/page/2/"
+},
+{
+"text": "3",
+"href": "https://wendyrogers.org/page/3/"
+},
+{
+"text": "4",
+"href": "https://wendyrogers.org/page/4/"
+},
+{
+"text": "5",
+"href": "https://wendyrogers.org/page/5/"
+},
+{
+"text": "7",
+"href": "https://wendyrogers.org/page/7/"
+},
+{
+"text": "8",
+"href": "https://wendyrogers.org/page/8/"
+},
+{
+"text": "9",
+"href": "https://wendyrogers.org/page/9/"
+},
+{
+"text": "Arizona House Advances Sen. Wendy Rogers SB1421 Denying Banking and Remittance Access to Illegal Aliens",
+"href": "https://wendyrogers.org/arizona-house-advances-sen-wendy-rogers-sb1421-denying-banking-and-remittance-access-to-illegal-aliens/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers Legislation Allowing Voters to Choose Photo Radar",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-legislation-allowing-voters-to-choose-photo-radar/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1055 Requiring Immediate ICE Notification for Illegal Alien Arrests",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1055-requiring-immediate-ice-notification-for-illegal-alien-arrests/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1058 Protecting Arizonans’ Firearm Purchase Privacy",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1058-protecting-arizonans-firearm-purchase-privacy/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1062 Improving State Transportation Routes",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1062-improving-state-transportation-routes/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1063 Enhancing Highway Safety and Mobility",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1063-enhancing-highway-safety-and-mobility/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1064 Expanding Economic Opportunity Through Transportation Projects",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1064-expanding-economic-opportunity-through-transportation-projects/"
+},
+{
+"text": "Arizona Senate Passes Sen. Wendy Rogers SB1426 Strengthening Private Property Rights Against Unlawful Occupants",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1426-strengthening-private-property-rights-against-unlawful-occupants/"
+},
+{
+"text": "Biography",
+"href": "https://wendyrogers.org/biography/"
+},
+{
+"text": "Contact",
+"href": "https://wendyrogers.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://wendyrogers.org/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://wendyrogers.org/endorsements/"
+},
+{
+"text": "Go Right Strategies",
+"href": "https://gorightstrategies.com/"
+},
+{
+"text": "Home",
+"href": "https://wendyrogers.org"
+},
+{
+"text": "Issues",
+"href": "https://wendyrogers.org/issues/"
+},
+{
+"text": "Meet Senator Wendy Rogers",
+"href": "https://wendyrogers.org/meet/"
+},
+{
+"text": "Meet Wendy",
+"href": "https://wendyrogers.org/meet/"
+},
+{
+"text": "News",
+"href": "https://wendyrogers.org/news/"
+},
+{
+"text": "Next »",
+"href": "https://wendyrogers.org/page/7/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wendyrogers.org/privacy-policy/"
+},
+{
+"text": "Sign Wendy Rogers' STAND WITH ICE Petition",
+"href": "https://wendyrogers.org/sign-wendy-rogers-stand-with-ice-petition/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://wendyrogers.org/terms-and-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Wendy Rogers on Dem MELTDOWN Over Her ELECTION INTEGRITY Bills",
+"href": "https://wendyrogers.org/wendy-rogers-on-dem-meltdown-over-her-election-integrity-bills/"
+},
+{
+"text": "[image: Wendy Rogers]",
+"href": "https://wendyrogers.org/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-house-advances-sen-wendy-rogers-sb1421-denying-banking-and-remittance-access-to-illegal-aliens/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-legislation-allowing-voters-to-choose-photo-radar/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1055-requiring-immediate-ice-notification-for-illegal-alien-arrests/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1058-protecting-arizonans-firearm-purchase-privacy/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1062-improving-state-transportation-routes/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1063-enhancing-highway-safety-and-mobility/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1064-expanding-economic-opportunity-through-transportation-projects/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/arizona-senate-passes-sen-wendy-rogers-sb1426-strengthening-private-property-rights-against-unlawful-occupants/"
+},
+{
+"text": "[image]",
+"href": "https://wendyrogers.org/wendy-rogers-on-dem-meltdown-over-her-election-integrity-bills/"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/WendyRogersAZ"
+},
+{
+"text": "[image]Rumble",
+"href": "https://rumble.com/c/c-845387"
+},
+{
+"text": "[image]Truth Social",
+"href": "https://truthsocial.com/@wendyrogersaz"
+},
+{
+"text": "[image]X",
+"href": "https://twitter.com/wendyrogersaz"
+},
+{
+"text": "[tooltip: Join Team Wendy]",
+"href": "https://wendyrogers.org/volunteer/"
+},
+{
+"text": "[tooltip: Meet Wendy]",
+"href": "https://wendyrogers.org/meet/"
+},
+{
+"text": "[tooltip: On the Issues]",
+"href": "https://wendyrogers.org/issues/"
+},
+{
+"text": "« Previous",
+"href": "https://wendyrogers.org/page/5/"
+}
 ]

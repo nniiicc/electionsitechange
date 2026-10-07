@@ -1,9 +1,14 @@
 {
  "description": "Housing affordability in Utah",
  "final_url": "https://www.utahgrit.com/grit-perspective/closing-the-233000-gap",
- "paid_for_by": "Paid for by Elect Rod Moser &middot; utahgrit",
- "title": "Closing the $233,000 Gap \u2014 Rod Moser For Utah House District 45Closing the $233,000 Gap",
+ "fingerprint": "a8743525fcf101b20762ddc6d3d9707b232b3873",
+ "format": 3,
+ "paid_for_by": "Paid for by Elect Rod Moser · utahgrit",
+ "title": "Closing the $233,000 Gap — Rod Moser For Utah House District 45",
  "years_mentioned": [
+  "1976",
+  "1994",
+  "2000",
   "2010",
   "2019",
   "2020",
@@ -12,6 +17,8 @@
   "2024",
   "2025",
   "2026",
-  "2028"
+  "2027",
+  "2028",
+  "2032"
  ]
 }

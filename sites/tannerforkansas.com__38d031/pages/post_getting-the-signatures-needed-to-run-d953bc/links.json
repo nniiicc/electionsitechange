@@ -1,16 +1,82 @@
 [
-"https://facebook.com/tannerforkansas",
-"https://pickmosaic.com/",
-"https://secure.actblue.com/donate/tannerforkansas",
-"https://tannerforkansas.com/",
-"https://tannerforkansas.com/background",
-"https://tannerforkansas.com/get-involved",
-"https://tannerforkansas.com/his-story",
-"https://tannerforkansas.com/news",
-"https://tannerforkansas.com/news/categories/campaign-news",
-"https://tannerforkansas.com/news/categories/missing-the-mark",
-"https://tannerforkansas.com/post/meeting-with-county-party-chairs",
-"https://tannerforkansas.com/post/website-launch-coming-soon",
-"https://tannerforkansas.com/priorities",
-"https://tannerforkansas.com/privacy-policy"
+{
+"text": "About Chris",
+"href": "https://www.tannerforkansas.com/background"
+},
+{
+"text": "Background",
+"href": "https://www.tannerforkansas.com/background"
+},
+{
+"text": "Campaign News",
+"href": "https://www.tannerforkansas.com/news"
+},
+{
+"text": "Campaign News",
+"href": "https://www.tannerforkansas.com/news/categories/campaign-news"
+},
+{
+"text": "Chris' Story",
+"href": "https://www.tannerforkansas.com/his-story"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tannerforkansas"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tannerforkansas.com/get-involved"
+},
+{
+"text": "His Story",
+"href": "https://www.tannerforkansas.com/his-story"
+},
+{
+"text": "Home",
+"href": "https://www.tannerforkansas.com"
+},
+{
+"text": "Meeting with county party chairs",
+"href": "https://www.tannerforkansas.com/post/meeting-with-county-party-chairs"
+},
+{
+"text": "Missing the Mark",
+"href": "https://www.tannerforkansas.com/news/categories/missing-the-mark"
+},
+{
+"text": "News",
+"href": "https://www.tannerforkansas.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.tannerforkansas.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tannerforkansas.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.tannerforkansas.com/news"
+},
+{
+"text": "The Mosaic Group",
+"href": "https://www.pickmosaic.com"
+},
+{
+"text": "Website launch coming soon",
+"href": "https://www.tannerforkansas.com/post/website-launch-coming-soon"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/tannerforkansas"
+},
+{
+"text": "[image: Tanner for Kansas Logo Wide]",
+"href": "https://www.tannerforkansas.com"
+},
+{
+"text": "info@tannerforkansas.com",
+"href": "mailto:info@tannerforkansas.com"
+}
 ]

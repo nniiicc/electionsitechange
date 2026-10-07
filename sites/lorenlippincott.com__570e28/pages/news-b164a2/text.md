@@ -1,50 +1,35 @@
-The Law of Unintended Consequences By Senator Loren Lippincott Here in Nebraska, we’ve always believed in taking a careful, commonsense approach.
+Home About District 34 Issues News Get Involved Donate Donate Home About District 34 Issues News Get Involved News December 3, 2025 Senator Lippincott's Weekly Column The Law of Unintended Consequences By Senator Loren Lippincott Here in Nebraska, we’ve always believed in taking a careful, commonsense approach.
 Whether it’s raising a crop, running a business, or passing a law, we know that even small decisions can have big consequences.
-Right now, our state is facing some real challenges, like the cost […]
-Legislative Update #50 A look ahead at the 2024 Legislative session The sound of Christmas bells will barely have died away when the 108th session of the Nebraska legislature gavels into session on Wednesday, Jan. 3.
-(Each session begins the first Wednesday following the first Monday in January.) In addition to preparing for the Christmas […]
-Legislative Update #47 Nebraska and the Middle East For the past nearly two months worldwide attention has been focused on the tiny nation of Israel, but why should we in Nebraska be concerned with what is going on 6,500 miles away in the Middle East.
-On October 7 Hamas—a Sunni Islamic political and military terror […]
-Nebraska and the Middle East For the past nearly two months worldwide attention has been focused on the tiny nation of Israel, but why should we in Nebraska be concerned with what is going on 6,500 miles away in the Middle East.
-On October 7 Hamas—a Sunni Islamic political and military terror organization launched a […]
-The Power of Money If you want to get a teenager's attention, ask him if he would like to become a millionaire by the time he's 65.
+Right now, our state is facing some real challenges, like the cost […] December 21, 2023 Senator Lippincott's Weekly Column Legislative Update #50 A look ahead at the 2024 Legislative session The sound of Christmas bells will barely have died away when the 108th session of the Nebraska legislature gavels into session on Wednesday, Jan.
+3.
+(Each session begins the first Wednesday following the first Monday in January.) In addition to preparing for the Christmas […] December 8, 2023 Senator Lippincott's Weekly Column Legislative Update #47 Nebraska and the Middle East For the past nearly two months worldwide attention has been focused on the tiny nation of Israel, but why should we in Nebraska be concerned with what is going on 6,500 miles away in the Middle East.
+On October 7 Hamas—a Sunni Islamic political and military terror […] December 4, 2023 Senator Lippincott's Weekly Column Nebraska and the Middle East For the past nearly two months worldwide attention has been focused on the tiny nation of Israel, but why should we in Nebraska be concerned with what is going on 6,500 miles away in the Middle East.
+On October 7 Hamas—a Sunni Islamic political and military terror organization launched a […] November 9, 2023 Senator Lippincott's Weekly Column The Power of Money If you want to get a teenager's attention, ask him if he would like to become a millionaire by the time he's 65.
 Tell him it will take a relatively minimal investment and absolutely no effort after he reaches the age of 21.
-That's the power of the “Rule of 72” […]
-A Time for War and a Time for Peace Peace reigned during my years in the U.S.
+That's the power of the “Rule of 72” […] October 19, 2023 Senator Lippincott's Weekly Column A Time for War and a Time for Peace Peace reigned during my years in the U.S.
 Air Force, however, I did witness the kind of carnage that can be caused by combat aircraft.
 While stationed at Ramstein Air Base, Germany, our family attended Europe’s biggest air show at our base.
-On August 28, 1988 […]
-The Power of Mentoring and Accountability Each of us has a select few people in our life who have truly helped shape who we are today.
+On August 28, 1988 […] September 15, 2023 Senator Lippincott's Weekly Column The Power of Mentoring and Accountability Each of us has a select few people in our life who have truly helped shape who we are today.
 Our parents certainly exert a great influence over what kind of adults we ultimately become, but the impact of mentors outside the family sphere cannot be understated.
-When […]
-The value of work by Loren Lippincott, NE State Senator, District 34 Several years ago while flying at Delta I discovered the co-pilot I was flying with was a fellow farm boy, like me.
+When […] August 23, 2023 Senator Lippincott's Weekly Column The value of work by Loren Lippincott, NE State Senator, District 34 Several years ago while flying at Delta I discovered the co-pilot I was flying with was a fellow farm boy, like me.
 Being in the cockpit with someone for 20-30 hours lends itself to a wide range of conversations.
-It was not until […]
-Unpacking the politics of climate change In 1975 a Newsweek magazine article sounded the alarm over what it called “The Coming Ice Age.” While not professing to know the cause of the trend, the article warned, “there are ominous signs that the earth’s weather patterns have begun to change dramatically and that these changes may […]
-A short time ago I had the privilege of reading the meanings associated with the folding of the AmericanFlag to some elementary students at the Fullerton City Library.
+It was not until […] August 3, 2023 Senator Lippincott's Weekly Column Unpacking the politics of climate change In 1975 a Newsweek magazine article sounded the alarm over what it called “The Coming Ice Age.” While not professing to know the cause of the trend, the article warned, “there are ominous signs that the earth’s weather patterns have begun to change dramatically and that these changes may […] July 7, 2023 Senator Lippincott's Weekly Column A short time ago I had the privilege of reading the meanings associated with the folding of the AmericanFlag to some elementary students at the Fullerton City Library.
 I was sincerely touched by their attentionand reverence as the American Legion Veterans folded Old Glory.
-Duty and respect are always awe-inspiring regardless of who displays it! […]
-The question I am probably asked most by constituents is, “What is it like being a legislator?” Toanswer this question and to help citizens better understand the inner workings of the NebraskaSenate, I’m going to use this week’s column to give readers a picture of a day in the life of alegislator.
-A typical day […]
-Tumultuous debates about important bills have stirred passions within our legislative body recently.
+Duty and respect are always awe-inspiring regardless of who displays it! […] April 21, 2023 Senator Lippincott's Weekly Column The question I am probably asked most by constituents is, “What is it like being a legislator?” Toanswer this question and to help citizens better understand the inner workings of the NebraskaSenate, I’m going to use this week’s column to give readers a picture of a day in the life of alegislator.
+A typical day […] April 14, 2023 Senator Lippincott's Weekly Column Tumultuous debates about important bills have stirred passions within our legislative body recently.
 The measures, known by their nicknames as the Heartbeat Bill (LB626), Let Them Grow (LB 574) and School Choice (LB753) have been debated and passed with minimum votes to stop debate and allow an up and down vote.
-Activists both for and […]
-In recent home visits and speaking engagements in District 34, folks have asked, “Why the logjam in this year’s session?” So, let’s look at some basics of how the Legislature runs (or doesn’t).
-Bills are allowed to be introduced or “dropped” the first ten days of a session and then are referred to a standing committee […]
-The Myth of Government Money Benjamin Franklin said there are only two things certain in life: death and taxes.
+Activists both for and […] March 30, 2023 Senator Lippincott's Weekly Column In recent home visits and speaking engagements in District 34, folks have asked, “Why the logjam in this year’s session?” So, let’s look at some basics of how the Legislature runs (or doesn’t).
+Bills are allowed to be introduced or “dropped” the first ten days of a session and then are referred to a standing committee […] March 24, 2023 Senator Lippincott’s Weekly Column The Myth of Government Money Benjamin Franklin said there are only two things certain in life: death and taxes.
 Few thingstouch our lives more directly than the government reaching into our billfold and taking our hard-earned money.
-Since government is ordained from above and money is mentioned in scripturefour times more than faith or prayer, […]
-In today’s America, the division between beliefs and worldviews is becoming greater and starker.
+Since government is ordained from above and money is mentioned in scripturefour times more than faith or prayer, […] March 17, 2023 Senator Lippincott’s Weekly Column In today’s America, the division between beliefs and worldviews is becoming greater and starker.
 I recently read a brief observation made of those who are “emotionally arrested,” meaning they do not possess a mature, healthy ability to process truth and interact with others.
 Three sequential steps are seen in these emotionally immature people.
-First, they […]
-By Paul Hammer, Nebraska Examiner — LINCOLN — Loren Lippincott was helping his father clear some land with a bulldozer out in the Sandhills when suddenly, a F-4 Phantom jet roared overhead.
-They waved to get the pilot’s attention, and the pilot, likely based out of Lincoln, obliged, cutting a tight turn and performing an […]
-By Jeff Bahr, Grand Island Independent — In the first of two races between Loren Lippincott and Michael Reimers for the District 34 legislative seat, Lippincott easily came out ahead in Tuesday’s primary.
+First, they […] June 7, 2022 ‘Real’ Top Gun says persistence, tenacity needed to achieve elite ranking By Paul Hammer, Nebraska Examiner — LINCOLN — Loren Lippincott was helping his father clear some land with a bulldozer out in the Sandhills when suddenly, a F-4 Phantom jet roared overhead.
+They waved to get the pilot’s attention, and the pilot, likely based out of Lincoln, obliged, cutting a tight turn and performing an […] May 12, 2022 Lippincott wins round one in race for District 34 legislative seat By Jeff Bahr, Grand Island Independent — In the first of two races between Loren Lippincott and Michael Reimers for the District 34 legislative seat, Lippincott easily came out ahead in Tuesday’s primary.
 Lippincott captured 69.7% of the vote while Reimers had 30.3%.
-The two men will face each other again in November for the […]
-By Kurt Johnson, Aurora News Register — Central City native shares his reason for running, platform Loren Lippincott, a farmer, Air Force veteran and conservative Republican from Central City, will run for the Nebraska Legislature District 34 seat in 2022.
+The two men will face each other again in November for the […] April 21, 2022 Lippincott seeking Dist.
+34 Senate seat By Kurt Johnson, Aurora News Register — Central City native shares his reason for running, platform Loren Lippincott, a farmer, Air Force veteran and conservative Republican from Central City, will run for the Nebraska Legislature District 34 seat in 2022.
 The seat is currently held by Sen.
-Curt Friesen of Henderson who will complete his second […]
-Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
+Curt Friesen of Henderson who will complete his second […] Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
+Share

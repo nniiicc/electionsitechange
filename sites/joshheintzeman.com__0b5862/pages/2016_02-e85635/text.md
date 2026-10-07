@@ -1,4 +1,4 @@
-Community discusses child care access, affordability
-Originally published in the Brainerd Dispatch by Chelsey Perkins A shortage of available infant care and regulatory barriers for providers dominated opinions shared with legislators at an affordable child care listening session Tuesday.
+Skip to content Menu Home Issues About Josh Accomplishments Get Involved News Contact Donate Close Menu February 2016 February 9, 2016 Community discusses child care access, affordability Article Child Care Originally published in the Brainerd Dispatch by Chelsey Perkins A shortage of available infant care and regulatory barriers for providers dominated opinions shared with legislators at an affordable child care listening session Tuesday.
 The session, hosted by Reps.
-Josh Heintzeman, R-Nisswa, and Dale Lueck, R-Aitkin, doubled as the first meeting of the Minnesota House of […]
+Josh Heintzeman, R-Nisswa, and Dale Lueck, R-Aitkin, doubled as the first meeting of the Minnesota House of […] read more Search Recent Posts Radio Ad Transcripts 2020 Radio Ad Transcripts 2018 Radio Ad Transcripts 2016 State Legislature: Area legislators hail veterans tax cut bill: They share high, low points of session Categories Article Radio Ad Uncategorized Tags Bonding Child Care Cuyuna Legislature Taxes Veterans Archives July 2022 October 2020 October 2018 October 2016 June 2016 May 2016 February 2016 Back To Top © www.joshheintzeman.com # Prepared and paid for by Committee to Elect Josh Heintzeman, P.O.
+Box 33, Merrifield, MN 56465

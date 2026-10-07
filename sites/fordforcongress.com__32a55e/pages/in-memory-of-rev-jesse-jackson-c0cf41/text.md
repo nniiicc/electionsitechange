@@ -1,8 +1,7 @@
-Statement from La Shawn K.
+Skip to content Follow Ford Facebook X-twitter Instagram Youtube DONATE IN MEMORY OF REV.
+JESSE JACKSON By Ford for Congress Campaign Team / February 17, 2026 Statement from La Shawn K.
 Ford on the Passing of Rev.
-Jesse Lewis Jackson
-Chicago, February 17, 2026
-I am deeply saddened by the passing of Reverend Jesse Lewis Jackson, a giant not only in Chicago but also in the movement for civil rights, human rights, and justice across the nation and around the world.
+Jesse Lewis Jackson Chicago, February 17, 2026 I am deeply saddened by the passing of Reverend Jesse Lewis Jackson, a giant not only in Chicago but also in the movement for civil rights, human rights, and justice across the nation and around the world.
 While we knew he had been battling illness, we always hoped his powerful voice and presence would stay with us longer.
 Reverend Jackson was more than a leader—he was a builder of movements and a sanctuary for freedom fighters.
 At Operation PUSH, he provided activists, organizers, and everyday people with a home—a headquarters where we could gather, strategize, and plan how to fight injustice and break down barriers facing our communities.
@@ -26,6 +25,7 @@ Their strength and ongoing commitment to service are a part of his lasting legac
 Though Reverend Jesse Jackson is no longer with us in body, his spirit, work, and message will live on in all of us who continue the fight for justice.
 The greatest tribute we can pay him is to carry forward his mission, stand against injustice wherever it appears, and keep hope alive.
 Let us honor him by registering to vote and participating in elections, as he deeply believed in the transformative power of civic engagement.
-Every vote counts in our ongoing pursuit of justice and equality for all.
-– La Shawn K.
+Every vote counts in our ongoing pursuit of justice and equality for all. – La Shawn K.
 Ford.
+Previous ICE Is a Threat to Civil Rights and Civil Liberties Next A Letter to the People of the 7th Congressional District A PROVEN RECORD issues The Newsroom donate donate Facebook X-twitter Instagram Youtube Privacy Policy Paid for by La Shawn K.
+Ford for Congress Scroll to Top A Proven Record Issues Platform The Newsroom Endorsements Volunteer Contact Us DONATE

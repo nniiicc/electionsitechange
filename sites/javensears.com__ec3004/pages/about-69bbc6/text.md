@@ -1,13 +1,10 @@
-A B O U T
-javen sears
-lifelong Vermonter
-My name is Javen Sears, and I’m running for the Vermont State Senate.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate A B O U T javen sears lifelong Vermonter My name is Javen Sears , and I’m running for the Vermont State Senate.
 I’m running because I believe in giving back to the community that raised me and gave me so much.
 Originally, I was born in St.
 Albans, VT as an eight generation Vermonter.
 I spent my early childhood in Richmond, and moved to South Burlington in third grade, the community I have proudly called home ever since.
 From the time I was young, the town has shaped me in the classroom, on the field, and through the people who invested in me along the way.
-I often say it takes a village, because that’s exactly what my story reflects.
+I often say it takes a village , because that’s exactly what my story reflects.
 South Burlington is where I grew up, where I learned what community looks like, and where I discovered the values of hard work, leadership, and service.
 As a kid, I played South Burlington Dolphins youth football and Little League baseball and was part of the 2013 state championship baseball team.
 I later attended South Burlington schools from childhood through graduation, ultimately graduating from South Burlington High School in 2020.
@@ -15,9 +12,7 @@ At SBHS, I was deeply involved in athletics, leadership, and student life.
 I played football as an All-State wide receiver, served as captain of the track and field team, and helped win a state championship in the 4x400 meter relay (as anchor).
 I also served as Co-President of the Athletic Leadership Council and as a Student Council representative, where I learned early on that leadership means showing up, listening, and setting the tone for others.
 In the classroom and throughout the school community, I was honored to receive the Excellence in Public Speaking Award, the Service and Leadership Award, and the Social Studies in Action Award.
-I was also involved in organizations like the School Climate Club, where I developed an even stronger appreciation for civic engagement, inclusion, and community responsibility.
-community builder
-After taking two years off from school due to COVID, I found a way to give back to my community through my alma mater, the South Burlington Dolphins Foundation, a local youth football program founded in 1967 by local legend and dear mentor Rene LaBerge and his wife Linda.
+I was also involved in organizations like the School Climate Club, where I developed an even stronger appreciation for civic engagement, inclusion, and community responsibility. community builder After taking two years off from school due to COVID, I found a way to give back to my community through my alma mater, the South Burlington Dolphins Foundation , a local youth football program founded in 1967 by local legend and dear mentor Rene LaBerge and his wife Linda.
 Over six decades, the Dolphins have coached more than 3,000 young athletes teaching them the values of personal responsibility, hard work, and perseverance.
 The programs is headed into its 60th year, making it one of the oldest youth football programs in the country, still led by the same families and dedicated leadership.
 At first, I helped out as a media assistant, taking on a huge summer project to organize and digitize over 40 years of varsity game film.
@@ -47,8 +42,7 @@ I’ve also competed in multiple national championships, reaching semifinals and
 The best of what debate has taught me is strategy, critical thinking, fast problem-solving, research, argument framing, and effective communication.
 Being part of the “Long Green Line” has given me deep knowledge across a wide range of topics and the confidence to perform under pressure.
 I’m proud to have received the experience I did.
-Debate champion
-Why politics, why run, why now?
+Debate champion Why politics, why run, why now ?
 I’m running because I believe our communities, our state, our country are at a critical turning point.
 Over the past three years, I’ve been deeply involved in politics, studying issues, analyzing cause and effects, and learning how policy decisions shape everyone’s daily lives.
 I believe the foundation of our country is freedom, individuality, and liberty.
@@ -70,5 +64,7 @@ We seem to have lost our common sense and common values.
 Instead of me leaving these problems for someone else to fix, however, I feel it’s my responsibility to commit to them and address these issues in my community head on.
 I’m determined to make sure Vermont doesn't fall further behind.
 It’s time to reverse course so we can restore people’s freedom.
-That’s why I’m getting involved and why I want to help turn Vermont around.
-— Javen Sears
+That’s why I’m getting involved and why I want to help turn Vermont around. — Javen Sears S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

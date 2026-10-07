@@ -1,15 +1,9 @@
-About
-Republican Chris Pringle
-Committed
-Leadership:
-Lifetime of Service to the People of House District 101
-Chris Pringle, a lifelong Alabamian raised in Mobile with deep roots in our community, has dedicated his career to serving the people of House District 101 with proven conservative leadership.
+top of page Menu Close Home About Chris Contact Request a Yard Sign REQUEST YARD SIGN CONTRIBUTE Request a Yard Sign About Republican Chris Pringle Committed Leadership: Lifetime of Service to the People of House District 101 Chris Pringle, a lifelong Alabamian raised in Mobile with deep roots in our community, has dedicated his career to serving the people of House District 101 with proven conservative leadership.
 First elected to represent the district in 1994, he served until 2002 before returning in 2015 after winning election in 2014, and he now proudly serves as Speaker Pro Tempore of the Alabama House of Representatives since 2023—bringing decades of experience to fight for the values that matter most to south Alabama families.
 As a successful businessman, licensed real estate agent, home builder, general contractor, and owner of Southern Timberlands, Chris understands the challenges facing working families, small businesses, and our local economy.
 His record reflects a steadfast commitment to fiscal responsibility, tax cuts, workforce development, education investments including educator pay raises, infrastructure improvements, and defending constitutional rights and family values.
 With a proven track record of delivering real wins for Alabama, Chris continues to lead with integrity, putting District 101 first and ensuring our state remains a great place to live, work, and raise a family.
-Proven Leadership
-Bringing home wins for the people of House District 101
-Under the Republican supermajority in the Alabama House of Representatives—where Chris Pringle has served since 2015 and now leads as Speaker Pro Tempore—the legislature has delivered significant conservative victories that benefit working families, small businesses, and communities across our state, including House District 101 in Mobile County.
+Proven Leadership Bringing home wins for the people of House District 101 Under the Republican supermajority in the Alabama House of Representatives—where Chris Pringle has served since 2015 and now leads as Speaker Pro Tempore—the legislature has delivered significant conservative victories that benefit working families, small businesses, and communities across our state, including House District 101 in Mobile County.
 Key accomplishments include historic investments in education with repeated teacher pay raises and expanded career and technical education (CTE) programs to build Alabama's workforce pipeline; tax relief measures such as homestead exemption increases for seniors and disabled residents, extended historic rehabilitation tax credits to preserve communities, and targeted economic incentives to attract jobs and growth; infrastructure advancements like the secure new State House transition that Chris has helped oversee; and ongoing commitments to fiscal responsibility, public safety, and defending core values—ensuring Alabama remains prosperous, safe, and true to its conservative principles.
 These results reflect the strong, unified Republican leadership that has cut taxes, boosted education funding, strengthened workforce training, and delivered real economic wins for south Alabama families—proving that Chris Pringle's experience and dedication continue to bring tangible benefits home to District 101.
+REQUEST YARD SIGN CONTRIBUTE PAID FOR BY CHRIS PRINGLE CAMPAIGN | 4 PRINCESS ANN ROAD MOBILE, AL 36608 bottom of page

@@ -1,7 +1,11 @@
 {
  "description": "The Latest News & Updates",
  "final_url": "https://andreacampbell.org/news/",
- "paid_for_by": "Paid for by Friends of Andrea Campbell &copy; Copyright 2025",
+ "fingerprint": "d1ed59f8ee9026807ef4b1f420639bb87830d729",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Andrea Campbell © Copyright #",
  "title": "In The News - Andrea Joy Campbell for Attorney General",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

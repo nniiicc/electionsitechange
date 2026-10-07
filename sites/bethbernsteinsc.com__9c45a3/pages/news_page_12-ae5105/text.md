@@ -1,9 +1,16 @@
-March Update
-Dear Friends and Neighbors: This is my Legislative Update for March.
+top of page HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+TAKE ACTION CONTRIBUTE STAY CONNECTED NEWSROOM March Update Dear Friends and Neighbors: This is my Legislative Update for March.
 The House passed a Budget this month and it is now in the Senate...
-February's Legislative Update
-Dear Friends and Neighbors: Here is my Legislative Update for the month of February.
+February's Legislative Update Dear Friends and Neighbors: Here is my Legislative Update for the month of February.
 The House made progress on a number of important...
-1st Legislative Update
-Dear Friends and Neighbors: Here is my first Legislative Update.
+1st Legislative Update Dear Friends and Neighbors: Here is my first Legislative Update.
 My goal is to keep you informed about the latest issues currently being...
+8 9 10 11 12 Recent Posts Statement on the Passing of Senator Lindsey Graham 2026 END OF SESSION LEGISLATIVE UPDATE Happy Birthday, America!
+Plus my End of Session Legislative Update Happy holidays from my family to yours!
+Happy Thanksgiving!
+Checking In - Recovering from Hurricane Helene BACK TO SCHOOL MESSAGE - HONORING OUR TEACHERS Happy Birthday, America!
+Plus my End of Session Legislative Update Happy Holidays from my family to yours!
+Memorial Day - Remember and Honor CONTRIBUTE NOW GET UPDATES FOLLOW ME LIKE MY PAGE HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+CONTRIBUTE Phone: 803.212-6940 Blatt Building, #532-C, Pendleton Street Columbia, SC 29201 Email: beth@bethbernsteinsc.com | Beth Bernstein for House PAID FOR BY BETH BERNSTEIN FOR HOUSE Follow Us on X! bottom of page

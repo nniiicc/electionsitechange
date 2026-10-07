@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=AshLeigh+for+Alabama+Meet-and-Greet&dates=20260809T223000Z%2F20260810T003000Z&location=609+Beth+Road%2C+New+Market%2C+Alabama%2C+35761%2C+United+States",
-"http://maps.google.com/?q=609+Beth+Road+New+Market%2C+Alabama%2C+35761+United+States",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet?format=ical",
-"https://ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg",
-"https://ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/merriforashleigha",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=609+beth+road+new+market%2C+alabama%2C+35761+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=AshLeigh+for+Alabama+Meet-and-Greet&dates=20260809T223000Z%2F20260810T003000Z&location=609+Beth+Road%2C+New+Market%2C+Alabama%2C+35761%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/ashleigh-for-alabama-meet-and-greet?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "Next Next August 23 Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-five-fknp5-ych4h-2wkjg"
+},
+{
+"text": "Previous Previous July 31 Mahjong for the Matriarchy",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "https://donate.campaigndeputy.com/donate/merriforashleigha",
+"href": "https://donate.campaigndeputy.com/donate/merriforashleigha"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

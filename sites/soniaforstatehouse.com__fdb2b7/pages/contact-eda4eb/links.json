@@ -1,12 +1,50 @@
 [
-"http://x.com/Sonia4SCHouse",
-"https://facebook.com/SoniaforSCsStateRep",
-"https://soniaforstatehouse.com/",
-"https://soniaforstatehouse.com/about",
-"https://soniaforstatehouse.com/contact",
-"https://soniaforstatehouse.com/donate",
-"https://soniaforstatehouse.com/issues",
-"https://soniaforstatehouse.com/privacy-policy",
-"https://soniaforstatehouse.com/sonias-fight",
-"https://verastly.com/"
+{
+"text": "About",
+"href": "https://www.soniaforstatehouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.soniaforstatehouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.soniaforstatehouse.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.soniaforstatehouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.soniaforstatehouse.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://soniaforstatehouse.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.soniaforstatehouse.com/privacy-policy"
+},
+{
+"text": "Sonia's Fight",
+"href": "https://www.soniaforstatehouse.com/sonias-fight"
+},
+{
+"text": "Verastly",
+"href": "https://verastly.com"
+},
+{
+"text": "[image: Sonia Morris for State House District 78]",
+"href": "https://www.soniaforstatehouse.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/SoniaforSCsStateRep"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://x.com/Sonia4SCHouse"
+}
 ]

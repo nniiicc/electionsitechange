@@ -1,5 +1,4 @@
-Meet Sherry Berecz
-Sherry Berecz is a lifelong Downriver resident, a mom of three, and a proven public servant who has spent her career helping people and delivering for the community she calls home.
+Skip to content Home Meet Sherry Endorsements Contact Donate Donate Home Meet Sherry Endorsements Contact Donate Donate Meet Sherry Berecz Sherry Berecz is a lifelong Downriver resident, a mom of three, and a proven public servant who has spent her career helping people and delivering for the community she calls home.
 Born and raised in Brownstown, Sherry grew up with service to the community at the center of her life.
 Her father served as Brownstown’s longtime treasurer, and Sherry was just six years old when she first learned that public service meant showing up, listening to neighbors, and fighting for the community you love.
 That lesson has guided her entire career.
@@ -12,3 +11,4 @@ Sherry’s commitment to working families is personal.
 As a former member of the Government Administrators Association and the mother of union members, she knows unions helped build the middle class.
 In Lansing, she will always defend workers’ rights, collective bargaining, and the dignity of good-paying work.
 Sherry is running for State Representative to give Downriver families a strong voice in Lansing — someone who understands the community, knows how local government works, and will fight to lower costs, protect workers, and build an economy that works for everyone.
+Home Meet Sherry Endorsements Contact © # Committee to Elect Sherry Berecz Paid for by the Committee to Elect Sherry Berecz | 19126 Parkwood Ln, Brownstown, MI 48183

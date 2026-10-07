@@ -1,32 +1,134 @@
 [
-"https://facebook.com/profile.php?id=100006747589487",
-"https://jamesspillane.org/js",
-"https://jamesspillane.org/js/2014/08/17/deerfield-old-home-day-parade",
-"https://jamesspillane.org/js/2014/10/27/second-amendment-scorecards-released",
-"https://jamesspillane.org/js/2016/03/17/james-spillane-on-chattin-with-jeanine",
-"https://jamesspillane.org/js/2016/03/30/james-spillane-on-chattin-with-jeanine-part-2",
-"https://jamesspillane.org/js/2016/03/30/james-spillane-with-josh-moore",
-"https://jamesspillane.org/js/2016/03/30/spillane-founds-group-to-help-vets-hunt",
-"https://jamesspillane.org/js/2016/09/06/spillane-to-receive-acu-award",
-"https://jamesspillane.org/js/2016/10/13/rep-sanborn-endorses-james-spillane",
-"https://jamesspillane.org/js/2016/10/26/spillane-endorsed-by-job-creation-alliance",
-"https://jamesspillane.org/js/2018/06/27/spillane-recipient-of-ebenezer-mudgett-champion-of-freedom-award",
-"https://jamesspillane.org/js/2026/05/23/spillane-cited-as-most-effective",
-"https://jamesspillane.org/js/2026/07/02/how-new-hampshire-led-america-to-independence",
-"https://jamesspillane.org/js/2026/08/04/cacr-15-fundamental-right-to-hunt-fish-and-harvest-game",
-"https://jamesspillane.org/js/2026/08/04/cole-and-spillane-elections-air-rifles-w-northeast-airguns-and-sig-sauer-academy-and-veterans",
-"https://jamesspillane.org/js/2026/08/04/dedication-of-the-salt-marsh-pond-access-road-for-representative-harry-bean",
-"https://jamesspillane.org/js/about-james",
-"https://jamesspillane.org/js/bills-sponsored",
-"https://jamesspillane.org/js/donate-to-the-campaign",
-"https://jamesspillane.org/js/endorsements",
-"https://jamesspillane.org/js/events",
-"https://jamesspillane.org/js/events/voting-information",
-"https://jamesspillane.org/js/how-to-help",
-"https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs",
-"https://jamesspillane.org/js/how-to-help/write-a-letter",
-"https://jamesspillane.org/js/on-the-issues",
-"https://jamesspillane.org/js/updates",
-"https://jamesspillane.org/js/updates/page/3",
-"https://twitter.com/jaspillane"
+{
+"text": "About James",
+"href": "https://jamesspillane.org/js/about-james/"
+},
+{
+"text": "Bills Sponsored",
+"href": "https://jamesspillane.org/js/bills-sponsored/"
+},
+{
+"text": "CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game",
+"href": "https://jamesspillane.org/js/2026/08/04/cacr-15-fundamental-right-to-hunt-fish-and-harvest-game/"
+},
+{
+"text": "Campaign Literature and Signs",
+"href": "https://jamesspillane.org/js/how-to-help/campaign-literature-and-signs/"
+},
+{
+"text": "Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans",
+"href": "https://jamesspillane.org/js/2026/08/04/cole-and-spillane-elections-air-rifles-w-northeast-airguns-and-sig-sauer-academy-and-veterans/"
+},
+{
+"text": "DONATE",
+"href": "https://jamesspillane.org/js/donate-to-the-campaign/"
+},
+{
+"text": "Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean",
+"href": "https://jamesspillane.org/js/2026/08/04/dedication-of-the-salt-marsh-pond-access-road-for-representative-harry-bean/"
+},
+{
+"text": "Deerfield Old Home Day Parade",
+"href": "https://jamesspillane.org/js/2014/08/17/deerfield-old-home-day-parade/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jamesspillane.org/js/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://jamesspillane.org/js/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100006747589487"
+},
+{
+"text": "HOME",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "HOW TO HELP",
+"href": "https://jamesspillane.org/js/how-to-help/"
+},
+{
+"text": "How New Hampshire Led America to Independence",
+"href": "https://jamesspillane.org/js/2026/07/02/how-new-hampshire-led-america-to-independence/"
+},
+{
+"text": "ISSUES",
+"href": "https://jamesspillane.org/js/on-the-issues/"
+},
+{
+"text": "James Spillane on Chattin’ with Jeanine",
+"href": "https://jamesspillane.org/js/2016/03/17/james-spillane-on-chattin-with-jeanine/"
+},
+{
+"text": "James Spillane on Chattin’ with Jeanine Part 2",
+"href": "https://jamesspillane.org/js/2016/03/30/james-spillane-on-chattin-with-jeanine-part-2/"
+},
+{
+"text": "James Spillane with Josh Moore",
+"href": "https://jamesspillane.org/js/2016/03/30/james-spillane-with-josh-moore/"
+},
+{
+"text": "Next Entries »",
+"href": "https://jamesspillane.org/js/updates/"
+},
+{
+"text": "Rep. Sanborn Endorses James Spillane",
+"href": "https://jamesspillane.org/js/2016/10/13/rep-sanborn-endorses-james-spillane/"
+},
+{
+"text": "Second Amendment Scorecards Released",
+"href": "https://jamesspillane.org/js/2014/10/27/second-amendment-scorecards-released/"
+},
+{
+"text": "Spillane Cited as Most Effective",
+"href": "https://jamesspillane.org/js/2026/05/23/spillane-cited-as-most-effective/"
+},
+{
+"text": "Spillane Endorsed by Job Creation Alliance",
+"href": "https://jamesspillane.org/js/2016/10/26/spillane-endorsed-by-job-creation-alliance/"
+},
+{
+"text": "Spillane Founds Group to Help Vets Hunt",
+"href": "https://jamesspillane.org/js/2016/03/30/spillane-founds-group-to-help-vets-hunt/"
+},
+{
+"text": "Spillane Recipient of Ebenezer Mudgett Champion of Freedom Award",
+"href": "https://jamesspillane.org/js/2018/06/27/spillane-recipient-of-ebenezer-mudgett-champion-of-freedom-award/"
+},
+{
+"text": "Spillane to Receive ACU Award",
+"href": "https://jamesspillane.org/js/2016/09/06/spillane-to-receive-acu-award/"
+},
+{
+"text": "UPDATES",
+"href": "https://jamesspillane.org/js/updates/"
+},
+{
+"text": "Voting Information 2026",
+"href": "https://jamesspillane.org/js/events/voting-information/"
+},
+{
+"text": "Write a Letter",
+"href": "https://jamesspillane.org/js/how-to-help/write-a-letter/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/jaspillane"
+},
+{
+"text": "[image: James Spillane for NH State Representative]",
+"href": "https://jamesspillane.org/js/"
+},
+{
+"text": "james@jamesspillane.org",
+"href": "mailto:james@jamesspillane.org"
+},
+{
+"text": "« Older Entries",
+"href": "https://jamesspillane.org/js/updates/page/3/"
+}
 ]

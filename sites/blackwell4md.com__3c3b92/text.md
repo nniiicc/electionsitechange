@@ -1,16 +1,14 @@
-The Path To A Stronger Maryland Starts Here
-Policy Positions
-- As we look to the future of our beloved state, it’s critical to address one of the pressing issues facing our residents: affordability.
+0 Skip to Content About Policy Positions Contact Bad Bills You Should Know Open Menu Close Menu Open Menu Close Menu About Policy Positions Contact Bad Bills You Should Know About Policy Positions Contact Bad Bills You Should Know The Path To A Stronger Maryland Starts Here Policy Positions Make Maryland Affordable Again As we look to the future of our beloved state, it’s critical to address one of the pressing issues facing our residents: affordability.
 The cost of living in Maryland has escalated significantly over the past few years, impacting families and individuals across the socioeconomic spectrum.
 In my administration, we are committed to making the great state of Maryland affordable again, ensuring that all residents have access to the opportunities and resources they deserve.
 Maryland boasts a rich tapestry of culture, history, and industry.
 However, the rising costs of housing, BGE, healthcare, education and more have created barriers that prevent too many of our citizens from thriving.
 My administration will focus on a multifaceted approach to tackle these challenges head-on, prioritizing solutions that put the financial well-being of Marylanders first.
-- I am committed to fostering a thriving economic environment where businesses can flourish without the weight of excessive regulations.
+Taxation I am committed to fostering a thriving economic environment where businesses can flourish without the weight of excessive regulations.
 I believe that our state should prioritize investment and growth, which means standing firm against tax increases that threaten to stifle opportunities.
 By advocating for the repeal of cumbersome regulations, I will work tirelessly to ensure that entrepreneurs and investors feel confident in their decisions to build and expand their businesses, ultimately driving our economy forward and creating jobs for our community.
 Together, we can pave the way for a prosperous future.
-- In recent years, Maryland's educational landscape has faced numerous challenges, particularly in fostering a direct connection between classroom learning and economic stability.
+Education In recent years, Maryland's educational landscape has faced numerous challenges, particularly in fostering a direct connection between classroom learning and economic stability.
 As we look for viable solutions, an innovative approach emerges: transforming public middle and high schools into full-service trade schools.
 This educational reform policy aims not only to elevate students’ financial potential but also to mitigate the long-standing problems associated with the traditional education system.
 One of the core components of this reform is the introduction of a tradesmen apprentice certification program.
@@ -34,17 +32,34 @@ By ensuring education is both affordable and practical, we align academic goals 
 In summary, transforming Maryland's public schools into trade-focused institutions is not merely an educational reform; it's a strategic move towards creating economically stable, empowered communities.
 By equipping students with both trade skills and comprehensive financial literacy, we are not only preparing them for careers but also enabling them to thrive as responsible citizens and leaders.
 This vision holds the potential to reshape the future of education and the economy in Maryland, paving the way for generations of success and innovation.
-- As Maryland's Senator, my commitment is to strengthen our communities by introducing new legislation that empowers local authorities to carry out their essential duties more effectively.
+Public Safety As Maryland's Senator, my commitment is to strengthen our communities by introducing new legislation that empowers local authorities to carry out their essential duties more effectively.
 By increasing police presence in our neighborhoods, we can ensure a safer environment for all residents.
 Additionally, I aim to foster better public relations between our communities and law enforcement agencies, creating open channels of communication and trust.
 Together, we can build a future where public safety and community welfare go hand in hand, and every citizen feels valued and protected.
 Let us work towards a collaborative approach that enhances the quality of life for everyone in Maryland.
-- As Maryland's Senator, I am committed to advocating for Pro-Family policies that not only celebrate the sanctity of life but also provide tangible support for mothers, fathers, and families as they embark on the journey of welcoming new life.
+Pro-Family As Maryland's Senator, I am committed to advocating for Pro-Family policies that not only celebrate the sanctity of life but also provide tangible support for mothers, fathers, and families as they embark on the journey of welcoming new life.
 Through effective legislation, we can ensure that every family has access to resources and assistance that promote a nurturing environment for their children.
 My goal is to champion policies that prioritize the well-being of families, ensuring they have the tools and support they need during this pivotal time.
 Together, we can create a future where every life is valued and every family is supported in their growth and development.
-- As your Senator, I am committed to introducing groundbreaking legislation aimed at transforming family law for the betterment of our communities.
+Family Court As your Senator, I am committed to introducing groundbreaking legislation aimed at transforming family law for the betterment of our communities.
 This proposed initiative seeks to foster collaboration between parents, encouraging them to work towards common ground in the best interests of their children.
 By promoting incentives that prioritize healthy co-parenting over adversarial court battles, we can put an end to the divisive tactics that have unfortunately characterized our legal system.
 It's time to stop using the courts as a weapon and instead create an environment where both mothers and fathers can engage constructively, ensuring a brighter and more stable future for the next generation.
 Together, we can build a foundation that supports families and nurtures the potential of our children.
+FULL POLICY LIST A MODERATE FOR MARYLAND Whether you knock doors, make calls, or share our message online, your support brings us one step closer to real change in Maryland.
+GET INVOLVED Stand Up for Maryland.
+Invest in Change.
+Your support helps bring common sense leadership to the State Senate.
+Donation Block Set up a payment processor to start receiving donations. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Today Donate Today I am not a politician; I am the voice of the people.
+My name is Yahu Blackwell, a proud Moderate running for State Senate with a bold vision for Maryland’s future.
+It's time for real leadership.
+My commitment is to restoring an affordable Maryland, public safety, empowering parents and teachers, cutting burdensome taxes, and enforcing common-sense policies that benefit ALL Maryland.
+Maryland Made Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Be Heard.
+Be Represented.
+Be Bold.
+First Name Last Name Email Address Stay Connected Thank you for your support!
+I look forward to working with you to drive Maryland forward!
+Privacy Policy By Authority: Armah Blackwell 4 MD.
+Cynthia Price, Treasurer

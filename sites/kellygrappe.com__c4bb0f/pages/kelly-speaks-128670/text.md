@@ -1,14 +1,16 @@
-Kelly Speaks
-Campaign videos
-Hear Kelly directly—featured messages, trail stories, and short moments.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Kelly Speaks Campaign videos Hear Kelly directly—featured messages, trail stories, and short moments.
 Click to play.
-4 videos — 4 longer pieces and 0 short moments.
-Featured Messages
-Core statements — hear Kelly’s governing message in her own words.
-Kelly Across Arkansas
-Confirmed trail and community stories — evidence of listening and travel.
-Speeches and Events
-Forums, addresses, and longer campaign appearances.
-Short Campaign Moments
-Short clips that support the record — they do not dominate it.
+Search transcripts View Campaign Photos 4 videos — 4 longer pieces and 0 short moments.
+Featured Messages Core statements — hear Kelly’s governing message in her own words.
+This Office Belongs to the People!
+Primary campaign message: Government That Works for Every Arkansan — People Over Politics.
+Watch · Transcript pending Kelly Across Arkansas Confirmed trail and community stories — evidence of listening and travel.
+Creating the Ripples in Hot Springs Village Personality and momentum story from the campaign trail.
+Watch · Transcript pending Speeches and Events Forums, addresses, and longer campaign appearances.
+Arkansas County Clerk Convention Secretary of State Candidate Forum 2026 Qualification and election-administration forum appearance.
+Watch · Transcript pending Primary Election Night Campaign journey milestone: volunteers, supporters, and community.
+Watch · Transcript pending Short Campaign Moments Short clips that support the record — they do not dominate it.
 No published items in this collection yet.
+Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

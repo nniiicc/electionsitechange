@@ -1,5 +1,9 @@
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE June 30, 2026 In the News: Backemeyer Outlines Campaign Priorities at Norfolk Meet-and-Greet At a Norfolk meet-and-greet, Chris Backemeyer talked with First District voters about his record of public service and his plan to lower costs, protect healthcare, and stand up for working families.
 Chris Backemeyer brought his campaign to downtown Norfolk this week, sitting down with First District voters at NoFo Pizza & Cafe to talk about his background and his vision for Congress.
 As the Norfolk Daily News reported, Chris discussed his two decades of public service at the State Department — including his work helping negotiate the 2015 Iran nuclear deal — and the concerns driving him to run: rising living costs, healthcare affordability, economic inequality, and the growing influence of wealthy interests in politics.
 He also took questions on strengthening the Affordable Care Act, reforming the tax code so everyone pays their fair share, and overturning Citizens United.
 On what’s at stake, Chris put it simply: he wants his kids to be able to prosper, and to know he at least tried to fix things.
-Read Alejandro Ramirez’s full story at the Norfolk Daily News
+Read Alejandro Ramirez’s full story at the Norfolk Daily News ### Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
+The courage to stand up to Trump.
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

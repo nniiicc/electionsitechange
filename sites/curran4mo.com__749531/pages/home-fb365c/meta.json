@@ -1,7 +1,9 @@
 {
  "description": "A Voice for Missouri",
  "final_url": "https://www.curran4mo.com/home",
- "paid_for_by": null,
+ "fingerprint": "e69ddae8ffbaa88a6c3e9c95b1e31eda988472a2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Curran4Missouri",
  "years_mentioned": []
 }

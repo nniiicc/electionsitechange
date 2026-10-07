@@ -1,8 +1,30 @@
 [
-"https://facebook.com/NathanNelson4House",
-"https://nathannelsonmn.com/",
-"https://nathannelsonmn.com/about-me",
-"https://nathannelsonmn.com/contact-us",
-"https://nathannelsonmn.com/donate",
-"https://x.com/NathanNelsonMN"
+{
+"text": "About Me",
+"href": "https://nathannelsonmn.com/about-me"
+},
+{
+"text": "Contact Us",
+"href": "https://nathannelsonmn.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://nathannelsonmn.com/donate"
+},
+{
+"text": "Home",
+"href": "https://nathannelsonmn.com/"
+},
+{
+"text": "[image: Nathan Nelson For House]",
+"href": "https://nathannelsonmn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NathanNelson4House/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/NathanNelsonMN"
+}
 ]

@@ -1,5 +1,4 @@
-The Special Circus - Part 3
-In this part of the Special Circus, the House again had several successes, but once again fell victim to the mirage of ‘creating’ jobs by spending millions.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate The Special Circus - Part 3 Sep 17 Written By Amanda Ridenour In this part of the Special Circus, the House again had several successes, but once again fell victim to the mirage of ‘creating’ jobs by spending millions.
 The Corrections and Emergency services crises were the primary reasons we had a special session.
 The Corrections issue has been with us for years, with no significant progress.
 Last year, for the 2nd time in five years, we had to deploy our National Guard to support Corrections’ staff.
@@ -32,6 +31,6 @@ And why didn’t the ED Authority pay for this via the nearly $1 billion we gave
 The answer, of course, is that the ED folks were busy spending that money on more Green energy companies.
 The Conservatives raised these major questions and objections during the floor debate.
 Conservatives came close to defeating this and pushing it to the coming regular session, but once again the Democrats, with the corporatists and to many others voted to try to buy would-be jobs with millions.
-I’ll finish up in the Special Circus – Part Four
-MONTANI SEMPER LIBERI
-Bill Ridenour
+I’ll finish up in the Special Circus – Part Four MONTANI SEMPER LIBERI Bill Ridenour Amanda Ridenour Previous Previous The Special Circus - Part 2 Next Next The Special Circus - Part 4 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

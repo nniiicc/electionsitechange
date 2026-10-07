@@ -1,27 +1,2 @@
-!-- Google tag (gtag.js) --> gtag('config', 'AW-17529641125');
-0
-Skip to Content
-Healthcare
-Education
-Local Autonomy
-Fiscal Conservative
-SHOW YOUR GRIT
-Open Menu
-Close Menu
-Healthcare
-Education
-Local Autonomy
-Fiscal Conservative
-SHOW YOUR GRIT
-Open Menu
-Close Menu
-Healthcare
-Education
-Local Autonomy
-Fiscal Conservative
-SHOW YOUR GRIT
-Beyond Partisanship: My Takes
-Data Centers
-Gun Rights
-LGBTQ+
-Medicare Medicaid Nonprofit Healthcare
+!-- Google tag (gtag.js) --> gtag('config', 'AW-17529641125'); 0 Skip to Content Healthcare Education Local Autonomy Fiscal Conservative SHOW YOUR GRIT Open Menu Close Menu Healthcare Education Local Autonomy Fiscal Conservative SHOW YOUR GRIT Open Menu Close Menu Healthcare Education Local Autonomy Fiscal Conservative SHOW YOUR GRIT Beyond Partisanship: My Takes Data Centers Gun Rights LGBTQ+ Medicare Medicaid Nonprofit Healthcare Ready to Build a Stronger HD-59?
+WEAR THE FIGHT CONTACT FUEL THE MISSION GET INVOLVED Paid for by Citizens for SGT Turner Andrew@sgtturnerforstatehouse.com

@@ -1,5 +1,4 @@
-About Danny
-Not so long ago, government and politics were a much smaller part of our lives.
+Home About Issues Endorsements Articles Events Photos Voting Suburbs Survey Contact Donate About Danny Not so long ago, government and politics were a much smaller part of our lives.
 Government was transparent, more responsive, and much easier to access and understand.
 It worked for people, promoted self-sufficiency and protected freedoms.
 It built things we couldn’t build by ourselves, and respected people’s values equally, whether they lived in the city, suburbs or rural areas.
@@ -8,8 +7,7 @@ Today, political ideologies prevail and too many bad ideas become laws.
 Benevolent bureaucrats want more activity under government control and demand more taxes and larger fees to fuel the colossal progression.
 We need to rebuild the trust that exists when government is focused on doing the right things that promote self-sufficiency, allow more opportunities and is committed to supporting people unable to care for or protect themselves.
 When we do this, we all believe in our system.
-I can’t wait to hear your story and here’s a little about mine…
-For the past nine years, I’ve had the honor to work as the Assistant to Hennepin County Commissioner Jeff Johnson.
+I can’t wait to hear your story and here’s a little about mine… For the past nine years, I’ve had the honor to work as the Assistant to Hennepin County Commissioner Jeff Johnson.
 Prior to joining Jeff, I held several other public service positions including as program manager in the State Energy Office at the Minnesota Department of Commerce, as a researcher in the Minnesota House of Representatives and an administrator in the last remaining township in Hennepin County.
 For almost 20 years before that, I owned and operated a small construction company that I started in high school.
 I grew up in Medina with an older sister and two younger brothers.
@@ -95,6 +93,10 @@ I thoroughly enjoyed the people and the work we were doing in the energy office,
 It’s here that the duality of my life matured.
 I still live in a log cabin in the woods in rural Hennepin County with the people and values that I grew up with.
 And every day, I grab a suit and bring those ideals and ethics to the county to broaden the discussion beyond the myopic metro-centric focus.
+I thoroughly enjoyed the people and the work we were doing in the energy office, but in 2010, I made the move to Hennepin County to be the principle aide to Jeff Johnson in his county commissioner office.
+It’s here that the duality of my life matured.
+I still live in a log cabin in the woods in rural Hennepin County with the people and values that I grew up with.
+And every day, I grab a suit and bring those ideals and ethics to the county to broaden the discussion beyond the myopic metro-centric focus.
 Counties are the massive delivery system for almost every federal and state mandate.
 They are complex and frequently confuse the purpose of a public service with its provision.
 As government grows, it becomes less flexible, focuses inward, stops thinking, and its ability to see the people it’s supposed to serve gets blurry.
@@ -108,3 +110,6 @@ I also believe that ideas matter and we are in friendly competition over ideas e
 I believe I have the skills that can help build a strong community of respect, and one that serves all the people in Hennepin County, and I welcome the opportunity to work alongside you to get it done.
 Thanks for reading this abbreviated life story.
 I’m looking forward to hearing yours.
+Follow Follow Follow Follow Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374 Follow Follow Follow Follow Privacy Policy Prepared and Paid for by Danny Nadeau for House | P.O.
+Box 752 Rogers, MN 55374

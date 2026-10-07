@@ -1,14 +1,8 @@
-Endorsements
-Neighbors for Norris
-Folks from all political leanings in our district support Matt Norris!
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Endorsements Neighbors for Norris Folks from all political leanings in our district support Matt Norris!
 “I come from a conservative background, but I am proud to support Matt for re-election.
 Even though we haven’t agreed on every issue, I have always found him to be thoughtful and responsive.
-He will work hard for you.”
-- Rodger, conservative from Blaine
-“We need Matt working for the residents of Blaine and Lexington in the Legislature because Matt knows how to work with both sides of the aisle to get results for us.”
-- Amanda, moderate from Blaine
-“Matt has the foresight and vision we desperately need in these troubled times.
-He is focused on the future and fully supports public education and greater access to health care while preserving and protecting our environment and individual rights.”
-- Dan, progressive from Lexington
-Organizational Endorsements
-Here’s a list of some of the organizations Matt is proud to be endorsed by for his important work on behalf of Blaine and Lexington.
+He will work hard for you. ” - Rodger, conservative from Blaine “We need Matt working for the residents of Blaine and Lexington in the Legislature because Matt knows how to work with both sides of the aisle to get results for us.” - Amanda, moderate from Blaine “ Matt has the foresight and vision we desperately need in these troubled times.
+He is focused on the future and fully supports public education and greater access to health care while preserving and protecting our environment and individual rights.” - Dan, progressive from Lexington Organizational Endorsements Here’s a list of some of the organizations Matt is proud to be endorsed by for his important work on behalf of Blaine and Lexington.
+Matt is the champion we need at the State Capitol Join Us Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

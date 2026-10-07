@@ -1,16 +1,15 @@
-FOR IMMEDIATE RELEASE Contact: Brian Schwartz (805) 404-8442
-February 20, 2026 [email protected]
-California Professional Firefighters Endorse Assemblymember Esmeralda Soria for State Senate District 14
-MERCED, CA – Today, Assemblymember Esmeralda Soria announced the endorsement of the California Professional Firefighters (CPF), which represents more than 38,000 full-time firefighters and emergency medical responders across the state.
+Meet Esmeralda Accomplishments Endorsements News Media Photos Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Toggle Mobile Menu Meet Esmeralda Accomplishments Endorsements News Media Photos Get Involved Campaign News California Professional Firefighters Endorse Assemblymember Esmeralda Soria for State Senate District 14 Feb 20, 2026 FOR IMMEDIATE RELEASE Contact: Brian Schwartz (805) 404-8442 February 20, 2026 [email protected] California Professional Firefighters Endorse Assemblymember Esmeralda Soria for State Senate District 14 MERCED, CA – Today, Assemblymember Esmeralda Soria announced the endorsement of the California Professional Firefighters (CPF), which represents more than 38,000 full-time firefighters and emergency medical responders across the state.
+The endorsement comes on the heels of Soria’s dominant performance in the California Democratic Party Pre-Endorsing Conference and a strong fundraising report showing nearly $900k raised and $800k cash on hand.
 “California’s firefighters are on the front lines every day protecting our families, our homes, and our communities,” said Assemblymember Soria.
 “I’m honored to have their trust and support in this campaign.
-I’ve been proud to work alongside CPF members throughout my time in the Assembly, and I look forward to continuing that partnership in the State Senate to ensure they have the resources, protections, and respect they deserve.”
-CPF President Brian K.
-Rice praised Soria’s record of partnership with firefighters and commitment to public safety:
-“Assemblymember Soria has always shown up for our firefighters and emergency responders.
+I’ve been proud to work alongside CPF members throughout my time in the Assembly, and I look forward to continuing that partnership in the State Senate to ensure they have the resources, protections, and respect they deserve.” CPF President Brian K.
+Rice praised Soria’s record of partnership with firefighters and commitment to public safety: “Assemblymember Soria has always shown up for our firefighters and emergency responders.
 She understands the challenges we face on the front lines and has worked to ensure we have the resources and respect we need to protect our communities.
-California’s fire service is proud to stand with her in this campaign for State Senate.”
-This endorsement continues Soria’s momentum as she consolidates support from public safety professionals like Attorney General Rob Bonta, labor unions like SEIU and AFSCME, and elected officials across Senate District 14 like Fowler Mayor Juan Mejia, Madera County Supervisor Leticia Gonzalez, Merced Mayor Matthew Serratto, and Fresno City Councilmember Miguel Arias.
+California’s fire service is proud to stand with her in this campaign for State Senate.” This endorsement continues Soria’s momentum as she consolidates support from public safety professionals like Attorney General Rob Bonta, labor unions like SEIU and AFSCME, and elected officials across Senate District 14 like Fowler Mayor Juan Mejia, Madera County Supervisor Leticia Gonzalez, Merced Mayor Matthew Serratto, and Fresno City Councilmember Miguel Arias .
 From Clovis to Los Banos, Soria has built a campaign rooted in service, trust, and a proven record of delivering for the Central Valley.
-For more information and a full list of endorsements, visit www.soriaforcalifornia.com
-###
+For more information and a full list of endorsements, visit www.soriaforcalifornia.com ### Up Next California Legislative Women’s Caucus Endorse Assemblymember Esmeralda Soria For State Senate Get Updates Please enable JavaScript in your browser to complete this form.
+Email * ZIP Code Phone By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Get Updates Meet Esmeralda Accomplishments Endorsements News Media Get Involved Esmeralda Soria for State Assembly Facebook Esmeralda Soria for State Assembly Instagram Esmeralda Soria for State Assembly Twitter Esmeralda Soria for State Assembly YouTube Send Checks To: PO Box 681 Fresno CA 93712 Email [email protected] Privacy Policy Accessibility Statement PAID FOR BY Soria for Senate Site made with ❤️ by Landslide Digital Jump to Content Toggle High Contrast Toggle Font Size

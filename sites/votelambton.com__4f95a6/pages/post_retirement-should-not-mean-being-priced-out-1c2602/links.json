@@ -1,21 +1,118 @@
 [
-"https://facebook.com/VoteLambton",
-"https://instagram.com/votechrislambton",
-"https://massretirees.com/",
-"https://secure.actblue.com/donate/chrislambtoncommittee",
-"https://tiktok.com/@votelambton",
-"https://votelambton.com/",
-"https://votelambton.com/about-3",
-"https://votelambton.com/about-chris-lambton",
-"https://votelambton.com/chris-lambton-events",
-"https://votelambton.com/chris-lambton-get-involved",
-"https://votelambton.com/chris-lambton-news",
-"https://votelambton.com/chris-lambton-priorities",
-"https://votelambton.com/contact-chris-lambton",
-"https://votelambton.com/howtovote",
-"https://votelambton.com/post/protecting-clean-water",
-"https://votelambton.com/post/vote-chris-lambton-caostal-resiliency",
-"https://votelambton.com/post/workers-and-the-functioning-of-our-towns",
-"https://votelambton.com/profile/clambton1314354/profile",
-"https://votelambton.com/terms-and-conditions"
+{
+"text": "About",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "About",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "All Articles",
+"href": "https://www.votelambton.com/chris-lambton-news"
+},
+{
+"text": "Chris Lambton",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Contact",
+"href": "https://www.votelambton.com/contact-chris-lambton"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chrislambtoncommittee"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelambton.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.votelambton.com/chris-lambton-events"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votelambton.com/chris-lambton-get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "How to Vote",
+"href": "https://www.votelambton.com/howtovote"
+},
+{
+"text": "Mass Retirees",
+"href": "https://massretirees.com/"
+},
+{
+"text": "News",
+"href": "https://www.votelambton.com/chris-lambton-news"
+},
+{
+"text": "Our Coastal Community Cannot Wait for the Next Storm",
+"href": "https://www.votelambton.com/post/vote-chris-lambton-caostal-resiliency"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Protecting Our Water is Personal",
+"href": "https://www.votelambton.com/post/protecting-clean-water"
+},
+{
+"text": "See All",
+"href": "https://www.votelambton.com/chris-lambton-news"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votelambton.com/terms-and-conditions"
+},
+{
+"text": "Workers and the Functioning of Our Towns",
+"href": "https://www.votelambton.com/post/workers-and-the-functioning-of-our-towns"
+},
+{
+"text": "[image: Chris Lambton in front of Ezra Baker School]",
+"href": "https://www.votelambton.com/post/workers-and-the-functioning-of-our-towns"
+},
+{
+"text": "[image: Chris Lambton on the sand flats of Cape Cod Bay]",
+"href": "https://www.votelambton.com/post/protecting-clean-water"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteLambton"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votechrislambton"
+},
+{
+"text": "[image: Our Coastal Community Cannot Wait for the Next Storm]",
+"href": "https://www.votelambton.com/post/vote-chris-lambton-caostal-resiliency"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@votelambton"
+},
+{
+"text": "clambton13",
+"href": "https://www.votelambton.com/profile/clambton1314354/profile"
+},
+{
+"text": "info@votelambton.com",
+"href": "mailto:info@votelambton.com"
+}
 ]

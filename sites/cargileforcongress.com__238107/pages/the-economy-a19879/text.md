@@ -1,11 +1,10 @@
-Jobs and the Economy
-Endorsed by:
-The lifeblood of the American economy is crude oil.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll Jobs and the Economy en español Endorsed by: The lifeblood of the American economy is crude oil.
 It is the earth’s ultimate renewable energy source.
 But it’s not just gas and oil, it’s plastics, it’s rubber, it’s fertilizers… it’s our modern way of life.
 Without it, our country collapses and we are back in the 1800’s with horse and buggy.
 And that’s exactly where my opponent, Norma Torres, wants us to wind up!
-She wants to do away with the gas in your car, the gas in your stove (H.R. 1615) and any other gas appliance in your house.
+She wants to do away with the gas in your car, the gas in your stove (H.R.
+1615) and any other gas appliance in your house.
 She wants everything to be electric and plugged into a grid that is unable to handle what we already have.
 It will destroy our country!
 This war against crude oil (the “Green New Deal”) has nothing to do with the environment and everything to do with transferring massive wealth and power to enemies of the United States.
@@ -27,3 +26,6 @@ To that end, every manufacturer, every business, every union, every city and eve
 Businesses supply jobs, jobs pay the taxes and the dues that fund the pensions and the payrolls for the cities, the first responders and the educators!
 Business drives everything!
 And I want the 35th to become a magnet for businesses!
+SO HELP ME GOD… Please Contribute Jobs and Economy Copy of Flag Footer CTA (Copy) (Copy) (Copy) (Copy) Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

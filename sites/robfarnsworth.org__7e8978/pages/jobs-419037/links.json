@@ -1,29 +1,174 @@
 [
-"http://go.robfarnsworth.org/donate",
-"https://facebook.com/robfarnsworthmn",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&t=Jobs",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&title=Jobs&summary=Jobs++%0D%0A%0D%0AEveryone+in+Minnesota+who+wants+to+work+should+be+able+to+find+a+good+job.+Unfortunately%2C+many+businesses+are+leaving+the+state%2C+or+avoiding+it+altogether%2C+because+of+our+unfriendly+business+climate.+That+trend+has+only+sped+up+in+recent+years+as+more+anti-business+laws+were+passed+during+the+trifecta.+I+was+proud",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&description=Jobs++%0D%0A%0D%0AEveryone+in+Minnesota+who+wants+to+work+should+be+able+to+find+a+good+job.+Unfortunately%2C+many+businesses+are+leaving+the+state%2C+or+avoiding+it+altogether%2C+because+of+our+unfriendly+business+climate.+That+trend+has+only+sped+up+in+recent+years+as+more+anti-business+laws+were+passed+during+the+trifecta.+I+was+proud",
-"https://reddit.com/submit?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&title=Jobs",
-"https://robfarnsworth.org/",
-"https://robfarnsworth.org/2nd-amendment",
-"https://robfarnsworth.org/author/rob",
-"https://robfarnsworth.org/campaign",
-"https://robfarnsworth.org/education",
-"https://robfarnsworth.org/environment-energy",
-"https://robfarnsworth.org/jobs",
-"https://robfarnsworth.org/liberty",
-"https://robfarnsworth.org/life",
-"https://robfarnsworth.org/medical-freedom",
-"https://robfarnsworth.org/mining",
-"https://robfarnsworth.org/privacy-policy",
-"https://robfarnsworth.org/public-safety",
-"https://robfarnsworth.org/state-budget",
-"https://robfarnsworth.org/taxes",
-"https://robfarnsworth.org/transportation",
-"https://t.me/share/url?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&text=Jobs",
-"https://tumblr.com/share/link?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&name=Jobs&description=Jobs++%0D%0A%0D%0AEveryone+in+Minnesota+who+wants+to+work+should+be+able+to+find+a+good+job.+Unfortunately%2C+many+businesses+are+leaving+the+state%2C+or+avoiding+it+altogether%2C+because+of+our+unfriendly+business+climate.+That+trend+has+only+sped+up+in+recent+years+as+more+anti-business+laws+were+passed+during+the+trifecta.+I+was+proud",
-"https://twitter.com/@RobFarnsworthMN",
-"https://x.com/intent/post?text=Jobs&url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F",
-"https://youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+{
+"text": "2nd Amendment",
+"href": "https://robfarnsworth.org/2nd-amendment/"
+},
+{
+"text": "CAMPAIGN",
+"href": "https://robfarnsworth.org/campaign/"
+},
+{
+"text": "DONATE",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "Education",
+"href": "https://robfarnsworth.org/education/"
+},
+{
+"text": "Environment/Energy",
+"href": "https://robfarnsworth.org/environment-energy/"
+},
+{
+"text": "HOME",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "Jobs",
+"href": "https://robfarnsworth.org/jobs/"
+},
+{
+"text": "Liberty",
+"href": "https://robfarnsworth.org/liberty/"
+},
+{
+"text": "Life",
+"href": "https://robfarnsworth.org/life/"
+},
+{
+"text": "Medical Freedom",
+"href": "https://robfarnsworth.org/medical-freedom/"
+},
+{
+"text": "Mining",
+"href": "https://robfarnsworth.org/mining/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robfarnsworth.org/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://robfarnsworth.org/public-safety/"
+},
+{
+"text": "Rob Farnsworth",
+"href": "https://robfarnsworth.org/author/rob/"
+},
+{
+"text": "State Budget",
+"href": "https://robfarnsworth.org/state-budget/"
+},
+{
+"text": "Taxes",
+"href": "https://robfarnsworth.org/taxes/"
+},
+{
+"text": "Transportation",
+"href": "https://robfarnsworth.org/transportation/"
+},
+{
+"text": "[image: Rob Farnsworth for MN State Senate]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/2nd-amendment/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/education/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/environment-energy/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/jobs/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/liberty/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/life/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/medical-freedom/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/mining/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/public-safety/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/state-budget/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/taxes/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/transportation/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:?subject=Jobs&body=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/robfarnsworthmn"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&t=Jobs"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&title=Jobs&summary=Jobs++%0D%0A%0D%0AEveryone+in+Minnesota+who+wants+to+work+should+be+able+to+find+a+good+job.+Unfortunately%2C+many+businesses+are+leaving+the+state%2C+or+avoiding+it+altogether%2C+because+of+our+unfriendly+business+climate.+That+trend+has+only+sped+up+in+recent+years+as+more+anti-business+laws+were+passed+during+the+trifecta.+I+was+proud"
+},
+{
+"text": "[tooltip: PayPal]",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "[tooltip: Pinterest]",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&description=Jobs++%0D%0A%0D%0AEveryone+in+Minnesota+who+wants+to+work+should+be+able+to+find+a+good+job.+Unfortunately%2C+many+businesses+are+leaving+the+state%2C+or+avoiding+it+altogether%2C+because+of+our+unfriendly+business+climate.+That+trend+has+only+sped+up+in+recent+years+as+more+anti-business+laws+were+passed+during+the+trifecta.+I+was+proud&media="
+},
+{
+"text": "[tooltip: Reddit]",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&title=Jobs"
+},
+{
+"text": "[tooltip: Telegram]",
+"href": "https://t.me/share/url?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&text=Jobs"
+},
+{
+"text": "[tooltip: Tumblr]",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F&name=Jobs&description=Jobs++%0D%0A%0D%0AEveryone+in+Minnesota+who+wants+to+work+should+be+able+to+find+a+good+job.+Unfortunately%2C+many+businesses+are+leaving+the+state%2C+or+avoiding+it+altogether%2C+because+of+our+unfriendly+business+climate.+That+trend+has+only+sped+up+in+recent+years+as+more+anti-business+laws+were+passed+during+the+trifecta.+I+was+proud"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/@RobFarnsworthMN"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/intent/post?text=Jobs&url=https%3A%2F%2Frobfarnsworth.org%2Fjobs%2F"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+}
 ]

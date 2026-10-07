@@ -1,9 +1,6 @@
-News
-James Gallagher Stuns with $630,000 Quarter – More than any other candidate in the First Congressional District
-James Gallagher for Congress Announces Endorsement From California Farm Bureau
-Gallagher Announces Widespread Yuba and Sutter Counties Support for Congressional Campaign
-CAMPAIGN UPDATES
-By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
+Home Endorsements Events News Get Involved!
+Home Endorsements Events News Get Involved!
+DONATE News James Gallagher’s Congressional Campaign and National Republican Congressional Committee launch North State TV Buy READ MORE James Gallagher Stuns with $630,000 Quarter – More than any other candidate in the First Congressional District READ MORE James Gallagher for Congress Announces Endorsement From California Farm Bureau READ MORE 1 2 3 4 5 … 8 Privacy Policy Paid for by The Gallagher Committee CAMPAIGN UPDATES Opt-in for text messages SUBSCRIBE By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.
 Msg frequency varies.

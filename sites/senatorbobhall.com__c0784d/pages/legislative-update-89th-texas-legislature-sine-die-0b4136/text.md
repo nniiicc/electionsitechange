@@ -1,81 +1,29 @@
-The 89th Legislative Session has concluded, and I’m proud to report that a total of 33 of my bills and resolutions have successfully passed both chambers—either as stand-alone measures or as amendments—and are now headed to the Governor’s desk.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Legislative Update – 89th Texas Legislature – Sine Die June 18, 2025 Tweet The 89th Legislative Session has concluded, and I’m proud to report that a total of 33 of my bills and resolutions have successfully passed both chambers—either as stand-alone measures or as amendments—and are now headed to the Governor’s desk.
 These legislative victories reflect our steadfast commitment to conservative principles—protecting liberty, reforming government, and safeguarding Texas values.
 Lt.
 Governor Dan Patrick championed a robust conservative agenda this session, submitting 40 priority bills—31 of which passed both chambers.
-These priorities included:
-• Parental rights in education and curriculum transparency
-• Teacher pay increases and workforce development
-• Public safety reforms and bail system restructuring
-• Religious freedom and land ownership protections
-• Tax relief and streamlined government initiatives
-Key Legislative Accomplishments
-Secured Key Budget Investments Directly for Senate District 2—Plus Statewide Funding That Supports Our Local Priorities
-• Funding for Terrell State Hospital needs
-• Funding earmarked for Senate District 2 Dam Management
-• Funding for PTSD Innovations at UTD
-• Funding for Apprenticeship Program through TWC for Broadband Infrastructure
-Grid Security and Resilience – SB 75 and SB 2148
-I was honored to author Senate Bill 75, which creates the Texas Grid Security Commission to proactively safeguard our electric grid against physical, cyber, and electromagnetic threats.
+These priorities included: • Parental rights in education and curriculum transparency • Teacher pay increases and workforce development • Public safety reforms and bail system restructuring • Religious freedom and land ownership protections • Tax relief and streamlined government initiatives Key Legislative Accomplishments Secured Key Budget Investments Directly for Senate District 2—Plus Statewide Funding That Supports Our Local Priorities • Funding for Terrell State Hospital needs • Funding earmarked for Senate District 2 Dam Management • Funding for PTSD Innovations at UTD • Funding for Apprenticeship Program through TWC for Broadband Infrastructure Grid Security and Resilience – SB 75 and SB 2148 I was honored to author Senate Bill 75, which creates the Texas Grid Security Commission to proactively safeguard our electric grid against physical, cyber, and electromagnetic threats.
 This legislation has been over a decade in the making and will ensure Texas remains independent and resilient in times of crisis.
-Election Integrity
-This session, I filed several election integrity bills, including SB 2753, which treats early voting and Election Day voting as one continuous period, removing the gap between the two.
+Election Integrity This session, I filed several election integrity bills, including SB 2753, which treats early voting and Election Day voting as one continuous period, removing the gap between the two.
 It restores ballot secrecy, secures in-person vote results, and lowers costs for counties—all without affecting mail-in voting timelines.
 Implementation will begin in 2025, with full execution required by 2027 once the Secretary of State certifies readiness.
-Regulation and Good Government
-Our office uncovered the criminal activities taking place within our State Government and we led the charge to reform the Texas Lottery Commission by authoring SB 3070, which dissolves the Commission, eliminates the courier program, returns lottery operations to the rules intended by the original legislation, and moves oversight to the TDLR.
+Regulation and Good Government Our office uncovered the criminal activities taking place within our State Government and we led the charge to reform the Texas Lottery Commission by authoring SB 3070, which dissolves the Commission, eliminates the courier program, returns lottery operations to the rules intended by the original legislation, and moves oversight to the TDLR.
 This move increases transparency and subjects the program to a Sunset Review in 2029.
-Other bills our office authored and passed include:
-• SB 140 – Cracks down on deceptive robocalls under the DTPA
-• HB 1109/SB 935 – Exempts counties from fuel taxes for county-use fuel
-• SB 1064 / SB 1397 (via SB 2878) – Creates new district courts in Rockwall and Ellis counties
-• SB 1995 (via SB 1333) – Allows law enforcement to remove squatters from homes
-• SB 2182 (via SB 1) – Creates a franchise tax credit for telecoms in apprenticeship programs
-• HB 2963 / SB 2428 – Texas Right to Repair law for electronic devices
-• HB 491 (via SB 2167) – Empowers local attorneys to fight illicit massage businesses and human trafficking with stronger penalties
-Protecting Privacy and Medical Accountability
-Our office sponsored and passed the following bills to uphold medical freedom and personal rights:
-• HB 4377 – Requires DFPS to destroy collected genetic material after its stated use
-• HB 5149 – Prohibits genetic material collection by DFPS without caregiver consent
-• HB 3441 – Allows vaccine injury lawsuits when the vaccine was falsely advertised as “safe”
-• SB 127 – Increases the statute of limitations in a case where failure to report child abuse or neglect.
-Too many times professionals fail to report abuse and intentionally cover this up.
-• HB 1106 – Protects parental rights regarding how they address their children’s biological sex.
+Other bills our office authored and passed include: • SB 140 – Cracks down on deceptive robocalls under the DTPA • HB 1109/SB 935 – Exempts counties from fuel taxes for county-use fuel • SB 1064 / SB 1397 (via SB 2878) – Creates new district courts in Rockwall and Ellis counties • SB 1995 (via SB 1333) – Allows law enforcement to remove squatters from homes • SB 2182 (via SB 1) – Creates a franchise tax credit for telecoms in apprenticeship programs • HB 2963 / SB 2428 – Texas Right to Repair law for electronic devices • HB 491 (via SB 2167) – Empowers local attorneys to fight illicit massage businesses and human trafficking with stronger penalties Protecting Privacy and Medical Accountability Our office sponsored and passed the following bills to uphold medical freedom and personal rights: • HB 4377 – Requires DFPS to destroy collected genetic material after its stated use • HB 5149 – Prohibits genetic material collection by DFPS without caregiver consent • HB 3441 – Allows vaccine injury lawsuits when the vaccine was falsely advertised as “safe” • SB 127 – Increases the statute of limitations in a case where failure to report child abuse or neglect.
+Too many times professionals fail to report abuse and intentionally cover this up. • HB 1106 – Protects parental rights regarding how they address their children’s biological sex.
 If a child decides that they want to identify under a different name or gender, a parent ought to be able to correct them in truth without fear of child abuse nor neglect.
-Honoring Local Communities and Traditions
-• SCR 1 – Designates February 10 as Crossing Guard Appreciation Day through 2035, honoring a constituent from our district
-• SCR 6 – Declares Rockwall County the official Marriage Capital of Texas for the next decade
-• SCR 51 – Establishes the authority for joint legislative study committees to address unresolved state issues
-• HCR 123 – Giving no session in 2026, primitively recognizing the 250th Anniversary of the Declaration of Independence
-• HB 2198 – Renaming a portion of State Highway 34 in Kaufman County as the Officer Jacob Candanoza Memorial Highway
-• HB 2703 – Recognizing July as American Patriotism
-A special recognition goes to HB 2715 by Rep.
+Honoring Local Communities and Traditions • SCR 1 – Designates February 10 as Crossing Guard Appreciation Day through 2035, honoring a constituent from our district • SCR 6 – Declares Rockwall County the official Marriage Capital of Texas for the next decade • SCR 51 – Establishes the authority for joint legislative study committees to address unresolved state issues • HCR 123 – Giving no session in 2026, primitively recognizing the 250th Anniversary of the Declaration of Independence • HB 2198 – Renaming a portion of State Highway 34 in Kaufman County as the Officer Jacob Candanoza Memorial Highway • HB 2703 – Recognizing July as American Patriotism A special recognition goes to HB 2715 by Rep.
 Curry.
 This bill streamlines the process for removing local officials, ensuring petitions are filed directly with the presiding judge of the judicial region.
 It also repeals outdated laws, delivering a modern, consistent process that holds local officials accountable while preserving judicial oversight.
 Our office also filed legislation aimed at reforming Municipal Utility Districts (MUDs) with SB 933 and SB 1994, to increase local transparency and protect property owners.
 While these bills did not pass this session, they remain priorities for future action.
-Some highlights of Coauthored bills on their way to the Governor’s desk:
-• Eliminating school property taxes for the average senior homeowner with a $200,000 senior homestead exemption and dedicating nearly 1 out of every 4 state dollars in our budget toward property tax relief
-• Reforming bail to keep dangerous criminals behind bars
-• Investing billions of dollars to ensure Texas meets its future water needs
-• Providing the largest teacher pay raise in Texas history
-• Investing $5 billion in strengthening Texas’ electric grid
-• Placing the Ten Commandments in public school classrooms
-• Protecting the freedom to pray in public schools
-• Requiring law enforcement to comply with federal deportation efforts and establishing a homeland security division within DPS
-• Stopping taxpayer-funded abortion travel
-• Providing significant business personal property tax relief
-• Banning poisonous unregulated drugs sold near our schools
-• Stopping foreign enemies from buying land in Texas
-• Stopping AI-generated child pornography
-• Guarding children against inappropriate books in public schools
-• Reforming liberal faculty control over universities
-• Record-setting investments in children with disabilities
-• Protecting Texas’ true treasure, the Alamo
-• Ending the corrupt Texas Lottery Commission and moving the lottery to TDLR
-• Renaming the Gulf of Mexico the ‘Gulf of America’
-• Renaming the New York Strip the ‘Texas Strip’
-Though the regular session has concluded, the work continues.
+Some highlights of Coauthored bills on their way to the Governor’s desk: • Eliminating school property taxes for the average senior homeowner with a $200,000 senior homestead exemption and dedicating nearly 1 out of every 4 state dollars in our budget toward property tax relief • Reforming bail to keep dangerous criminals behind bars • Investing billions of dollars to ensure Texas meets its future water needs • Providing the largest teacher pay raise in Texas history • Investing $5 billion in strengthening Texas’ electric grid • Placing the Ten Commandments in public school classrooms • Protecting the freedom to pray in public schools • Requiring law enforcement to comply with federal deportation efforts and establishing a homeland security division within DPS • Stopping taxpayer-funded abortion travel • Providing significant business personal property tax relief • Banning poisonous unregulated drugs sold near our schools • Stopping foreign enemies from buying land in Texas • Stopping AI-generated child pornography • Guarding children against inappropriate books in public schools • Reforming liberal faculty control over universities • Record-setting investments in children with disabilities • Protecting Texas’ true treasure, the Alamo • Ending the corrupt Texas Lottery Commission and moving the lottery to TDLR • Renaming the Gulf of Mexico the ‘Gulf of America’ • Renaming the New York Strip the ‘Texas Strip’ Though the regular session has concluded, the work continues.
 With the groundwork laid by the 89th Legislature, we press forward – defending liberty, reducing government overreach, and serving the people of Texas with honor, transparency, and conviction.
 As always, I remain committed to representing your voice, your values, and your vision for a stronger Texas.
 Promises Made are Promises Kept.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

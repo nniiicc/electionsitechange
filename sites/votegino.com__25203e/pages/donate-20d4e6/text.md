@@ -1,12 +1,2 @@
-DONATIONS
-There are two ways that you can donate
-DONATE ONLINE
-To donate by check, please make the check payable to Bulso for State Representative and mail it to:
-Bulso for State Representative
-155 Franklin Rd.
-Suite 400
-Brentwood, TN 37027
-Please send all physical correspondence to:
-155 Franklin Road, Suite 400
-Brentwood, TN 37027
-615-913-5200
+ABOUT NEWS BLOG VIDEOS GALLERY PODCAST Listen on Apple Listen on Spotify Listen on iHeart Listen on Amazon Listen on Google ISSUES LEGISLATION YARD SIGNS CONTACT DONATE Select Page DONATIONS There are two ways that you can donate DONATE ONLINE To donate by check, please make the check payable to Bulso for State Representative and mail it to: Bulso for State Representative 155 Franklin Rd.
+Suite 400 Brentwood, TN 37027 Please send all physical correspondence to: 155 Franklin Road, Suite 400 Brentwood, TN 37027 615-913-5200 Facebook Instagram YouTube Vote for Gino Bulso © # | Paid for by Bulso for State Representative, Julie Beaman, Treasurer. | Guided by Navigation Advertising, LLC | Terms & Conditions | Privacy Policy

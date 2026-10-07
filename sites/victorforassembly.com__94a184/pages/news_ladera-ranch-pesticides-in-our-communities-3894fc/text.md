@@ -1,15 +1,12 @@
-Skip navigation menu
-Ladera Ranch – Pesticides In Our Communities
-Like many of you, I am deeply concerned and heartbroken over the news out of Ladera Ranch this past week.
+Skip navigation menu Meet Victor Issues Events News Endorsements Volunteer Donate News Meet Victor Issues Events News Endorsements Volunteer Donate News Candidate Statement Ladera Ranch – Pesticides In Our Communities Podcast Interview EcoSocialist Notes with Howie Hawkins: Episode 287 with Special Guest Victor Hernandez PRESS RELEASE Assembly Candidate, Victor Hernandez, Advances to General Election in an Historic Primary Win in Competitive CA AD-59 Primary Press Release Assembly Candidate, Victor Hernandez, Responds to Escalating Wildfire Crisis Across the West – Emphasizes Local Threat to District 59 Jul 21 2026 Candidate Statement Ladera Ranch – Pesticides In Our Communities Like many of you, I am deeply concerned and heartbroken over the news out of Ladera Ranch this past week.
 In a community of fewer than 30,000 people, at least six of its children have been diagnosed with Ewing sarcoma, a rare disease that accounts for roughly 1% of childhood cancers nationwide, affecting only about 200 to 240 young people in the entire country yearly.
 One of them, Brody Matteson, is no longer with us.
 He was a boy who loved being outside — on his bike, at the park.
 He was diagnosed in 2015 with spinal cancer.
 His mother, Megan, and the other families suspect that the cancers are linked to pesticides used in their communities.
-Attorney Jackie French said, "[we] feel like there's a larger number of cancer cases in Ladera than normal, and in looking at the pesticide use, it does seem like it's more than normal in Ladera."
-I am outraged, because what is happening in Ladera Ranch isn’t isolated.
+Attorney Jackie French said , "[we] feel like there's a larger number of cancer cases in Ladera than normal, and in looking at the pesticide use, it does seem like it's more than normal in Ladera." I am outraged, because what is happening in Ladera Ranch isn’t isolated.
 It is happening all over Southern California, including throughout District 59.
-Creek Team OC identified triclopyr, imazapyr, and glyphosate — the active ingredient in RoundUp — among the herbicides applied in our waterways, channels, watersheds, and creek beds.
+Creek Team OC identified triclopyr, imazapyr, and glyphosate — the active ingredient in RoundUp — among the herbicides applied in our waterways , channels, watersheds, and creek beds.
 These compounds have devastating effects on wildlife, particularly endangered species like the Southern California steelhead trout, of which fewer than 177 remain.
 The California Department of Public Health classified glyphosate as a carcinogen.
 Thousands of lawsuits against Bayer over Roundup's cancer risks reached juries across this state and nation.
@@ -36,4 +33,4 @@ We don't have to choose between maintained infrastructure and safe communities.
 We can have both.
 But it starts with honesty — and honesty has been in short supply.
 Every child in District 59 deserves to grow up in a community where the water is clean, the parks are safe, and the government tells the truth.
-Candidate Statement
+Victor Hernandez, Candidate, State Assembly – District 59 victorforassembly.com Press Kit Contact Privacy Policy FPPC #1491723 Powered by RUN! website builder Paid by Victor Hernandez for Assembly 2026 You need to enable JavaScript to run this app.

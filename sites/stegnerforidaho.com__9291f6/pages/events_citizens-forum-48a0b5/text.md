@@ -1,17 +1,7 @@
-Back to All Events
-Indivisible Moscow and its partners present Idaho’s congressional and statewide candidates at a citizens’ forum scheduled at Moscow’s historic Kenworthy Theater on Friday, October 23.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events Citizens' Forum Friday, October 23, 2026 4:00 PM 5:30 PM Kenworthy Theater 508 South Main Street Moscow, Idaho, 83843 United States (map) Google Calendar ICS Indivisible Moscow and its partners present Idaho’s congressional and statewide candidates at a citizens’ forum scheduled at Moscow’s historic Kenworthy Theater on Friday, October 23.
 The doors will open at 3:30, and the program will run from 4-5:30pm.
-This forum will provide voters the opportunity to meet candidates (including John) for the following offices:
-- U.S.
-Senate
-- U.S.
-House (Dist 1)
-- Idaho Governor
-- Idaho Attorney General
-- Idaho Lieutenant Governor
-- Idaho Superintendent of Public Instruction
-This forum coincides with the University of Idaho Homecoming weekend, but does not conflict with any Homecoming events to enable people living in and visiting Moscow to attend the forum.
+This forum will provide voters the opportunity to meet candidates (including John) for the following offices: U.S.
+Senate U.S.
+House (Dist 1) Idaho Governor Idaho Attorney General Idaho Lieutenant Governor Idaho Superintendent of Public Instruction This forum coincides with the University of Idaho Homecoming weekend, but does not conflict with any Homecoming events to enable people living in and visiting Moscow to attend the forum.
 Join us for short presentations by the candidates and Q&A.
-Previous
-Previous
-October 15
+Previous Previous October 15 Meet & Greet Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

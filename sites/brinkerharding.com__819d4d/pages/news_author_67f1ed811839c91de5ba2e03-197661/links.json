@@ -1,56 +1,306 @@
 [
-"https://brinkerharding.com/",
-"https://brinkerharding.com/about",
-"https://brinkerharding.com/cart",
-"https://brinkerharding.com/donate",
-"https://brinkerharding.com/endorsements",
-"https://brinkerharding.com/home",
-"https://brinkerharding.com/news",
-"https://brinkerharding.com/news/brinker-owh-op-ed-im-running-for-congress-lets-get-government-out-of-the-way-and-tackle-affordability",
-"https://brinkerharding.com/news/brinkers-owh-op-ed-im-running-for-congress-to-make-washington-accountable-heres-how",
-"https://brinkerharding.com/news/candidate-brinker-harding-tours-unmc",
-"https://brinkerharding.com/news/i-dont-think-it-matters-harding-ready-for-challenger-in-nebraska-district-2",
-"https://brinkerharding.com/news/ketv-a-look-at-early-fundraising-in-the-race-for-nebraskas-2nd-congressional-district",
-"https://brinkerharding.com/news/ketv-commitment-2026-brinker-harding-on-his-campaign-and-run-for-congress",
-"https://brinkerharding.com/news/ketv-councilman-brinker-harding-officially-files-for-congress",
-"https://brinkerharding.com/news/ketv-state-of-the-cd2-race-candidates-fight-for-the-seat-to-replace-rep-don-bacon",
-"https://brinkerharding.com/news/ketv-who-can-win-nebraskas-2nd-congressional-district-primary-we-asked-the-candidates-what-it-takes",
-"https://brinkerharding.com/news/nebraska-examiner-brinker-harding-leads-brett-lindstrom-in-ne-02-gop-fundraising-as-race-ramps-up",
-"https://brinkerharding.com/news/nebraska-examiner-us-house-speaker-mike-johnson-says-brinker-harding-is-common-sense-candidate-for-ne-02",
-"https://brinkerharding.com/news/nebraska-public-media-heres-whos-running-in-nebraskas-crowded-2nd-district-house-race",
-"https://brinkerharding.com/news/nebraskas-2nd-congressional-district-draws-nearly-2-million-in-latest-fundraising-quarter",
-"https://brinkerharding.com/news/okx6e3fflt8nlq1x0g1a9850a8h0wb",
-"https://brinkerharding.com/news/omaha-outreach-groups-announce-pilot-plan-to-improve-response-to-homeless-encampments",
-"https://brinkerharding.com/news/outnumbered-at-home-brinker-harding-hits-omaha-airwaves-with-first-tv-ad",
-"https://brinkerharding.com/news/owh-brinker-harding-locks-down-support-from-don-bacon-jim-pillen-in-bid-for-congress",
-"https://brinkerharding.com/news/owh-who-has-an-advantage-now-in-nebraskas-closely-watched-2nd-congressional-district",
-"https://brinkerharding.com/news/schumershutdown",
-"https://brinkerharding.com/news/x0fbztylqv58msenyz431mkzqbwj7v",
-"https://brinkerharding.com/news?offset=1758651484959&author=67f1ed811839c91de5ba2e03",
-"https://brinkerharding.com/press-resources",
-"https://brinkerharding.com/privacy",
-"https://brinkerharding.com/vision",
-"https://facebook.com/brinkerhardingNE02",
-"https://instagram.com/brinkerharding",
-"https://ketv.com/article/a-look-at-early-fundraising-in-the-race-for-nebraskas-2nd-congressional-district/69087031",
-"https://ketv.com/article/councilman-brinker-harding-officially-files-for-congress/69963377",
-"https://ketv.com/article/nebraska-brinker-harding-on-his-campaign-for-congress/73860534",
-"https://ketv.com/article/nebraska-district-2-brinker-harding-on-opponent/71300076",
-"https://ketv.com/article/omaha-pilot-plan-improve-response-homeless-encampments/68006025",
-"https://ketv.com/article/state-of-the-cd2-race-candidates-fight-for-the-seat-to-replace-rep-don-bacon/73408014",
-"https://ketv.com/article/who-can-win-nebraskas-2nd-congressional-district-primary-we-asked-the-candidates-what-it-takes/70042014",
-"https://nbcnews.com/politics/donald-trump/trump-economy-signs-trouble-rcna238879",
-"https://nebraskaexaminer.com/2025/10/29/brinker-harding-leads-brett-lindstrom-in-ne-02-gop-fundraising-as-race-ramps-up",
-"https://nebraskapublicmedia.org/en/news/news-articles/heres-whos-running-in-nebraskas-crowded-2nd-district-house-race",
-"https://nefb.org/news/nebraska-farm-bureau-endorses-brinker-harding-for-election-to-serve-the-second-congressional-district",
-"https://omaha.com/article_5723e7c3-02a1-4c91-899e-4aa359aad6e0.html",
-"https://omaha.com/news/local/article_6f77ad52-4e2d-472a-ba0e-20d9d8622046.html",
-"https://omaha.com/news/local/government-politics/article_c3260a7c-493a-4093-a61b-ad4e49f1872c.html",
-"https://omaha.com/news/state-regional/government-politics/elections/article_5d94a21b-d13e-4fc3-9e37-85efbeb4b2c8.html",
-"https://omaha.com/news/state-regional/government-politics/elections/article_c4b1dc87-97c1-45b0-b473-9275839affc7.html",
-"https://omaha.com/opinion/column/article_f3d3b54c-d3cc-420b-8617-761a88ff8e67.html",
-"https://truthsocial.com/@brinkerharding",
-"https://unmc.edu/newsroom/2026/09/11/candidate-brinker-harding-tours-unmc",
-"https://x.com/brinkerharding",
-"https://youtube.com/@Brinker.Harding"
+{
+"text": "'I don't think it matters': Harding ready for challenger in Nebraska District 2",
+"href": "https://www.ketv.com/article/nebraska-district-2-brinker-harding-on-opponent/71300076"
+},
+{
+"text": "0",
+"href": "https://www.brinkerharding.com/cart"
+},
+{
+"text": "About Brinker",
+"href": "https://www.brinkerharding.com/about"
+},
+{
+"text": "Brinker's OWH Op-Ed: I'm running for Congress to make Washington accountable. Here's how.",
+"href": "https://omaha.com/article_5723e7c3-02a1-4c91-899e-4aa359aad6e0.html"
+},
+{
+"text": "Brinker’s OWH Op-Ed: I'm running for Congress. Let's get government out of the way and tackle affordability",
+"href": "https://omaha.com/opinion/column/article_f3d3b54c-d3cc-420b-8617-761a88ff8e67.html"
+},
+{
+"text": "Candidate Brinker Harding tours UNMC",
+"href": "https://www.unmc.edu/newsroom/2026/09/11/candidate-brinker-harding-tours-unmc/"
+},
+{
+"text": "Donate",
+"href": "https://www.brinkerharding.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brinkerharding.com/endorsements"
+},
+{
+"text": "In the News",
+"href": "https://www.brinkerharding.com/news"
+},
+{
+"text": "KETV Commitment 2026: Brinker Harding on his campaign and run for Congress",
+"href": "https://www.ketv.com/article/nebraska-brinker-harding-on-his-campaign-for-congress/73860534"
+},
+{
+"text": "KETV: A look at early fundraising in the race for Nebraska's 2nd Congressional District",
+"href": "https://www.ketv.com/article/a-look-at-early-fundraising-in-the-race-for-nebraskas-2nd-congressional-district/69087031"
+},
+{
+"text": "KETV: Councilman Brinker Harding officially files for Congress",
+"href": "https://www.ketv.com/article/councilman-brinker-harding-officially-files-for-congress/69963377"
+},
+{
+"text": "KETV: Omaha, outreach groups announce pilot plan to improve response to homeless encampments",
+"href": "https://www.ketv.com/article/omaha-pilot-plan-improve-response-homeless-encampments/68006025"
+},
+{
+"text": "KETV: State of the CD2 race, candidates fight for the seat to replace Rep. Don Bacon",
+"href": "https://www.ketv.com/article/state-of-the-cd2-race-candidates-fight-for-the-seat-to-replace-rep-don-bacon/73408014"
+},
+{
+"text": "KETV: Who can win Nebraska's 2nd Congressional District Primary? We asked the candidates what it takes",
+"href": "https://www.ketv.com/article/who-can-win-nebraskas-2nd-congressional-district-primary-we-asked-the-candidates-what-it-takes/70042014"
+},
+{
+"text": "NBC NEWS: With Trump's focus elsewhere, the economy shows signs of trouble",
+"href": "https://www.nbcnews.com/politics/donald-trump/trump-economy-signs-trouble-rcna238879"
+},
+{
+"text": "Nebraska Examiner: Brinker Harding leads Brett Lindstrom in NE-02 GOP fundraising as race ramps up",
+"href": "https://nebraskaexaminer.com/2025/10/29/brinker-harding-leads-brett-lindstrom-in-ne-02-gop-fundraising-as-race-ramps-up/"
+},
+{
+"text": "Nebraska Examiner: US House Speaker Mike Johnson says Brinker Harding is ‘common sense’ candidate for NE-02",
+"href": "https://www.brinkerharding.com/news/nebraska-examiner-us-house-speaker-mike-johnson-says-brinker-harding-is-common-sense-candidate-for-ne-02"
+},
+{
+"text": "Nebraska Farm Bureau Endorses Brinker Harding for Election to Serve the Second Congressional District",
+"href": "https://www.nefb.org/news/nebraska-farm-bureau-endorses-brinker-harding-for-election-to-serve-the-second-congressional-district"
+},
+{
+"text": "Nebraska Public Media: Here’s who’s running in Nebraska’s crowded 2nd District House race",
+"href": "https://nebraskapublicmedia.org/en/news/news-articles/heres-whos-running-in-nebraskas-crowded-2nd-district-house-race/"
+},
+{
+"text": "OWH: Brinker Harding locks down support from Don Bacon, Jim Pillen in bid for Congress",
+"href": "https://omaha.com/news/state-regional/government-politics/elections/article_c4b1dc87-97c1-45b0-b473-9275839affc7.html"
+},
+{
+"text": "OWH: Who has an advantage now in Nebraska's closely watched 2nd Congressional District?",
+"href": "https://omaha.com/news/state-regional/government-politics/elections/article_5d94a21b-d13e-4fc3-9e37-85efbeb4b2c8.html"
+},
+{
+"text": "Older Posts",
+"href": "https://www.brinkerharding.com/news?offset=1758651484959&author=67f1ed811839c91de5ba2e03"
+},
+{
+"text": "Omaha World-Herald: Nebraska's 2nd Congressional District draws nearly $2 million in latest fundraising quarter",
+"href": "https://omaha.com/news/local/government-politics/article_c3260a7c-493a-4093-a61b-ad4e49f1872c.html"
+},
+{
+"text": "Omaha World-Herald: ‘Outnumbered’ at home: Brinker Harding hits Omaha airwaves with first TV ad",
+"href": "https://omaha.com/news/local/article_6f77ad52-4e2d-472a-ba0e-20d9d8622046.html#tracking-source=home-top-story"
+},
+{
+"text": "Press Resources",
+"href": "https://www.brinkerharding.com/press-resources"
+},
+{
+"text": "Privacy",
+"href": "https://www.brinkerharding.com/privacy"
+},
+{
+"text": "RELEASE: Brinker Harding Supports Nebraska Delegation’s Efforts to Reopen Government, Calls on Democrats to Put Country Over Party",
+"href": "https://www.brinkerharding.com/news/schumershutdown"
+},
+{
+"text": "Read More",
+"href": "https://nebraskaexaminer.com/2025/10/29/brinker-harding-leads-brett-lindstrom-in-ne-02-gop-fundraising-as-race-ramps-up/"
+},
+{
+"text": "Read More",
+"href": "https://nebraskapublicmedia.org/en/news/news-articles/heres-whos-running-in-nebraskas-crowded-2nd-district-house-race/"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/article_5723e7c3-02a1-4c91-899e-4aa359aad6e0.html"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/news/local/article_6f77ad52-4e2d-472a-ba0e-20d9d8622046.html#tracking-source=home-top-story"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/news/local/government-politics/article_c3260a7c-493a-4093-a61b-ad4e49f1872c.html"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/news/state-regional/government-politics/elections/article_5d94a21b-d13e-4fc3-9e37-85efbeb4b2c8.html"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/news/state-regional/government-politics/elections/article_c4b1dc87-97c1-45b0-b473-9275839affc7.html"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/opinion/column/article_f3d3b54c-d3cc-420b-8617-761a88ff8e67.html"
+},
+{
+"text": "Read More",
+"href": "https://www.brinkerharding.com/news/nebraska-examiner-us-house-speaker-mike-johnson-says-brinker-harding-is-common-sense-candidate-for-ne-02"
+},
+{
+"text": "Read More",
+"href": "https://www.brinkerharding.com/news/schumershutdown"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/a-look-at-early-fundraising-in-the-race-for-nebraskas-2nd-congressional-district/69087031"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/councilman-brinker-harding-officially-files-for-congress/69963377"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/nebraska-brinker-harding-on-his-campaign-for-congress/73860534"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/nebraska-district-2-brinker-harding-on-opponent/71300076"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/omaha-pilot-plan-improve-response-homeless-encampments/68006025"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/state-of-the-cd2-race-candidates-fight-for-the-seat-to-replace-rep-don-bacon/73408014"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/who-can-win-nebraskas-2nd-congressional-district-primary-we-asked-the-candidates-what-it-takes/70042014"
+},
+{
+"text": "Read More",
+"href": "https://www.nbcnews.com/politics/donald-trump/trump-economy-signs-trouble-rcna238879"
+},
+{
+"text": "Read More",
+"href": "https://www.nefb.org/news/nebraska-farm-bureau-endorses-brinker-harding-for-election-to-serve-the-second-congressional-district"
+},
+{
+"text": "Read More",
+"href": "https://www.unmc.edu/newsroom/2026/09/11/candidate-brinker-harding-tours-unmc/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.brinkerharding.com/home#join"
+},
+{
+"text": "Vision",
+"href": "https://www.brinkerharding.com/vision"
+},
+{
+"text": "[image: 'I don't think it matters': Harding ready for challenger in Nebraska District 2]",
+"href": "https://www.brinkerharding.com/news/i-dont-think-it-matters-harding-ready-for-challenger-in-nebraska-district-2"
+},
+{
+"text": "[image: Brinker Harding for Congress]",
+"href": "https://www.brinkerharding.com/"
+},
+{
+"text": "[image: Brinker's OWH Op-Ed: I'm running for Congress to make Washington accountable. Here's how.]",
+"href": "https://www.brinkerharding.com/news/brinkers-owh-op-ed-im-running-for-congress-to-make-washington-accountable-heres-how"
+},
+{
+"text": "[image: Brinker’s OWH Op-Ed: I'm running for Congress. Let's get government out of the way and tackle affordability]",
+"href": "https://www.brinkerharding.com/news/brinker-owh-op-ed-im-running-for-congress-lets-get-government-out-of-the-way-and-tackle-affordability"
+},
+{
+"text": "[image: Candidate Brinker Harding tours UNMC]",
+"href": "https://www.brinkerharding.com/news/candidate-brinker-harding-tours-unmc"
+},
+{
+"text": "[image: KETV Commitment 2026: Brinker Harding on his campaign and run for Congress]",
+"href": "https://www.brinkerharding.com/news/ketv-commitment-2026-brinker-harding-on-his-campaign-and-run-for-congress"
+},
+{
+"text": "[image: KETV: A look at early fundraising in the race for Nebraska's 2nd Congressional District]",
+"href": "https://www.brinkerharding.com/news/ketv-a-look-at-early-fundraising-in-the-race-for-nebraskas-2nd-congressional-district"
+},
+{
+"text": "[image: KETV: Councilman Brinker Harding officially files for Congress]",
+"href": "https://www.brinkerharding.com/news/ketv-councilman-brinker-harding-officially-files-for-congress"
+},
+{
+"text": "[image: KETV: Omaha, outreach groups announce pilot plan to improve response to homeless encampments]",
+"href": "https://www.brinkerharding.com/news/omaha-outreach-groups-announce-pilot-plan-to-improve-response-to-homeless-encampments"
+},
+{
+"text": "[image: KETV: State of the CD2 race, candidates fight for the seat to replace Rep. Don Bacon]",
+"href": "https://www.brinkerharding.com/news/ketv-state-of-the-cd2-race-candidates-fight-for-the-seat-to-replace-rep-don-bacon"
+},
+{
+"text": "[image: KETV: Who can win Nebraska's 2nd Congressional District Primary? We asked the candidates what it takes]",
+"href": "https://www.brinkerharding.com/news/ketv-who-can-win-nebraskas-2nd-congressional-district-primary-we-asked-the-candidates-what-it-takes"
+},
+{
+"text": "[image: NBC NEWS: With Trump's focus elsewhere, the economy shows signs of trouble]",
+"href": "https://www.brinkerharding.com/news/x0fbztylqv58msenyz431mkzqbwj7v"
+},
+{
+"text": "[image: Nebraska Examiner: Brinker Harding leads Brett Lindstrom in NE-02 GOP fundraising as race ramps up]",
+"href": "https://www.brinkerharding.com/news/nebraska-examiner-brinker-harding-leads-brett-lindstrom-in-ne-02-gop-fundraising-as-race-ramps-up"
+},
+{
+"text": "[image: Nebraska Examiner: US House Speaker Mike Johnson says Brinker Harding is ‘common sense’ candidate for NE-02]",
+"href": "https://www.brinkerharding.com/news/nebraska-examiner-us-house-speaker-mike-johnson-says-brinker-harding-is-common-sense-candidate-for-ne-02"
+},
+{
+"text": "[image: Nebraska Farm Bureau Endorses Brinker Harding for Election to Serve the Second Congressional District]",
+"href": "https://www.brinkerharding.com/news/okx6e3fflt8nlq1x0g1a9850a8h0wb"
+},
+{
+"text": "[image: Nebraska Public Media: Here’s who’s running in Nebraska’s crowded 2nd District House race]",
+"href": "https://www.brinkerharding.com/news/nebraska-public-media-heres-whos-running-in-nebraskas-crowded-2nd-district-house-race"
+},
+{
+"text": "[image: OWH: Brinker Harding locks down support from Don Bacon, Jim Pillen in bid for Congress]",
+"href": "https://www.brinkerharding.com/news/owh-brinker-harding-locks-down-support-from-don-bacon-jim-pillen-in-bid-for-congress"
+},
+{
+"text": "[image: OWH: Who has an advantage now in Nebraska's closely watched 2nd Congressional District?]",
+"href": "https://www.brinkerharding.com/news/owh-who-has-an-advantage-now-in-nebraskas-closely-watched-2nd-congressional-district"
+},
+{
+"text": "[image: Omaha World-Herald: Nebraska's 2nd Congressional District draws nearly $2 million in latest fundraising quarter]",
+"href": "https://www.brinkerharding.com/news/nebraskas-2nd-congressional-district-draws-nearly-2-million-in-latest-fundraising-quarter"
+},
+{
+"text": "[image: Omaha World-Herald: ‘Outnumbered’ at home: Brinker Harding hits Omaha airwaves with first TV ad]",
+"href": "https://www.brinkerharding.com/news/outnumbered-at-home-brinker-harding-hits-omaha-airwaves-with-first-tv-ad"
+},
+{
+"text": "[image: RELEASE: Brinker Harding Supports Nebraska Delegation’s Efforts to Reopen Government, Calls on Democrats to Put Country Over Party]",
+"href": "https://www.brinkerharding.com/news/schumershutdown"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brinkerharding"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/brinkerhardingNE02"
+},
+{
+"text": "[no text]",
+"href": "https://www.truthsocial.com/@brinkerharding"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Brinker.Harding"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/brinkerharding"
+}
 ]

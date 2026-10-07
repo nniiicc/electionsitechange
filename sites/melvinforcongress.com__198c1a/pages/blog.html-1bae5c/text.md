@@ -1,12 +1,7 @@
-In Brooklyn, America’s Gentrification Epicenter, Building On A Model For Community Care
-Long before becoming a Covid-19 hotspot, communities of color in Brooklyn have worked to guard their neighborhoods against the effects of gentrification.
+Top Home Biography ↓ Biografía de Campaña Issues Events News and Updates Volunteer Contact Donate In Brooklyn, America’s Gentrification Epicenter, Building On A Model For Community Care Long before becoming a Covid-19 hotspot, communities of color in Brooklyn have worked to guard their neighborhoods against the effects of gentrification.
 Read More...
-Posted on 09 Nov 2022, 01:28 - Category: News
-City Mulls Ditching Controversial Property Transfer Program as Federal Class-Action Lawsuit Looms
-Black and Hispanic property owners are seeking millions of dollars in restitution for property seized under New York City’s controversial Third Party Transfer program.
+Posted on 09 Nov 2022, 01:28 - Category: News City Mulls Ditching Controversial Property Transfer Program as Federal Class-Action Lawsuit Looms Black and Hispanic property owners are seeking millions of dollars in restitution for property seized under New York City’s controversial Third Party Transfer program.
 Read More...
-Posted on 25 Jul 2022, 01:08 - Category: News
-City’s hand-picked “third-party” groups give big $$$ to pols
-Groups selected by the city to take over foreclosed properties both employ and have close ties with dozens of donors.
+Posted on 25 Jul 2022, 01:08 - Category: News City’s hand-picked “third-party” groups give big $$$ to pols Groups selected by the city to take over foreclosed properties both employ and have close ties with dozens of donors.
 Read More...
-Posted on 27 May 2021, 01:05 - Category: News
+Posted on 27 May 2021, 01:05 - Category: News Pages: [1] Donate Volunteer Contact Latest Entries In Brooklyn, America’s Gentrification Epicenter, Building On A Model For Community Care City Mulls Ditching Controversial Property Transfer Program as Federal Class-Action Lawsuit Looms City’s hand-picked “third-party” groups give big $$$ to pols Back to Main Categories News Connect With Us Privacy Political advertisement paid for and approved by Melvin Rivera for Congress.

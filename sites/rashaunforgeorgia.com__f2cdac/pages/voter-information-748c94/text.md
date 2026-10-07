@@ -1,12 +1,3 @@
-Voter Information
-You can click the button below to check your polling location or find an early voting location.
-Primary Early Election Day: May 19, 2026/ Runoff June 16, 2026
-General Election Day: Tuesday, November 3, 2026
-rashaun.kemp@senate.ga.gov
-Legislative Assistant: Cole Simmons
-cole.simmons@senate.ga.gov
-P.O.
-Box 310041
-Atlanta, GA 31131
-All Rights Reserved | RaShaun for State Senate
-Share by:
+Home Meet Senator Kemp Platform Voter Information Endorsements Events Photos Statements & More Contact Senator Kemp/ Newsletter Sign Up DONATE → Voter Information Voter Information You can click the button below to check your polling location or find an early voting location.
+Primary Early Election Day: May 19, 2026/ Runoff June 16, 2026 General Election Day: Tuesday, November 3, 2026 Check Your Status and Polling Location Fulton County Early Voting Locations CONTACT US (404) 576-8986 rashaun.kemp@senate.ga.gov Legislative Assistant: Cole Simmons cole.simmons@senate.ga.gov P.O.
+Box 310041 Atlanta, GA 31131 © # All Rights Reserved | RaShaun for State Senate Share by:

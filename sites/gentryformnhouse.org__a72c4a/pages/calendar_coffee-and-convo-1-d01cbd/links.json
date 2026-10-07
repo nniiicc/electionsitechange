@@ -1,19 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+and+Convo&dates=20260802T153000Z%2F20260802T173000Z&location=19344+U.S.+169%2C+Elk+River%2C+Minnesota%2C+55330%2C+United+States",
-"http://maps.google.com/?q=19344+U.S.+169+Elk+River%2C+Minnesota%2C+55330+United+States",
-"https://gentryformnhouse.org/",
-"https://gentryformnhouse.org/calendar",
-"https://gentryformnhouse.org/calendar/coffee-and-convo-1?format=ical",
-"https://gentryformnhouse.org/calendar/night-to-unite",
-"https://gentryformnhouse.org/calendar/virtual-phonebanking-mp4g5",
-"https://gentryformnhouse.org/cart",
-"https://gentryformnhouse.org/contact",
-"https://gentryformnhouse.org/district",
-"https://gentryformnhouse.org/endorsed-by",
-"https://gentryformnhouse.org/get-involved",
-"https://gentryformnhouse.org/issues",
-"https://gentryformnhouse.org/issues-1",
-"https://gentryformnhouse.org/voting-resources",
-"https://mobilize.us/mobilize/event/956160",
-"https://secure.actblue.com/donate/keenan-gentry-30b"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=19344+u.s.+169+elk+river%2C+minnesota%2C+55330+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gentryformnhouse.org/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.gentryformnhouse.org/calendar"
+},
+{
+"text": "Coffee and Conversation with Keenan Gentry · Mobilize",
+"href": "https://www.mobilize.us/mobilize/event/956160/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gentryformnhouse.org/#contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/keenan-gentry-30b"
+},
+{
+"text": "Endorsed By",
+"href": "https://www.gentryformnhouse.org/endorsed-by"
+},
+{
+"text": "Folder: Contact",
+"href": "https://www.gentryformnhouse.org/contact"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gentryformnhouse.org/issues-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gentryformnhouse.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+and+Convo&dates=20260802T153000Z%2F20260802T173000Z&location=19344+U.S.+169%2C+Elk+River%2C+Minnesota%2C+55330%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.gentryformnhouse.org/calendar/coffee-and-convo-1?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.gentryformnhouse.org/issues"
+},
+{
+"text": "Look At Your District",
+"href": "https://www.gentryformnhouse.org/district"
+},
+{
+"text": "Next Next August 4 Night to Unite",
+"href": "https://www.gentryformnhouse.org/calendar/night-to-unite"
+},
+{
+"text": "Previous Previous July 28 Virtual Phonebanking",
+"href": "https://www.gentryformnhouse.org/calendar/virtual-phonebanking-mp4g5"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.gentryformnhouse.org/voting-resources"
+},
+{
+"text": "[image: Keenan Gentry for State House Rep district 30B]",
+"href": "https://www.gentryformnhouse.org/"
+},
+{
+"text": "votekeenangentry@gmail.com",
+"href": "mailto:votekeenangentry@gmail.com"
+}
 ]

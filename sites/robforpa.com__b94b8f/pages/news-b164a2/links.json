@@ -1,37 +1,294 @@
 [
-"https://facebook.com/RobforPA",
-"https://instagram.com/Rob4PA",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://robforpa.com/",
-"https://robforpa.com/about",
-"https://robforpa.com/bresnahan-campaign-announces-first-two-ads-of-2026-election-cycle",
-"https://robforpa.com/bresnahan-earns-endorsement-from-7th-fraternal-order-of-police-lodge",
-"https://robforpa.com/cdn-cgi/l/email-protection",
-"https://robforpa.com/congressman-bresnahan-commits-to-wvia-congressional-debate",
-"https://robforpa.com/congressman-rob-bresnahan-earns-endorsement-of-national-postal-mail-handlers-union-local-308",
-"https://robforpa.com/congressman-rob-bresnahans-campaign-releases-new-tv-ad-on-his-work-to-end-the-federal-rain-tax-mandate",
-"https://robforpa.com/congressman-rob-bresnahans-campaign-releases-two-new-tv-ads-produce-and-archbald",
-"https://robforpa.com/endtheraintax",
-"https://robforpa.com/get-involved",
-"https://robforpa.com/icymi-congressman-bresnahan-touts-tax-relief-for-nepa-workers-manufacturers-in-remarks-at-rnc-midterm-convention",
-"https://robforpa.com/labor-endorsements",
-"https://robforpa.com/news",
-"https://robforpa.com/news/page/2",
-"https://robforpa.com/news/page/3",
-"https://robforpa.com/news/page/4",
-"https://robforpa.com/privacy-policy",
-"https://robforpa.com/rob-bresnahan-earns-endorsement-of-eastern-atlantic-states-regional-council-of-carpenters",
-"https://robforpa.com/scottad",
-"https://robforpa.com/speaker-mike-johnson-joins-rep-rob-bresnahan-in-pa-08-to-rally-support-expose-paige-cognettis-radical-record-ahead-of-november-midterms",
-"https://robforpa.com/teamsters-president-sean-obrien-visits-northeastern-pennsylvania-with-rep-rob-bresnahan-to-highlight-wins-for-workers",
-"https://robforpa.com/terms-conditions",
-"https://secure.winred.com/rob-for-pa/donate",
-"https://secure.winred.com/rob-for-pa/donate?amount=100",
-"https://secure.winred.com/rob-for-pa/donate?amount=25",
-"https://secure.winred.com/rob-for-pa/donate?amount=50",
-"https://secure.winred.com/rob-for-pa/donate?amount=75",
-"https://secure.winred.com/rob-for-pa/storefront",
-"https://twitter.com/Rob4PA",
-"https://youtube.com/@RobforPA"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=75"
+},
+{
+"text": "2",
+"href": "https://robforpa.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://robforpa.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://robforpa.com/news/page/4/"
+},
+{
+"text": "About",
+"href": "https://robforpa.com/about/"
+},
+{
+"text": "August 12, 2026",
+"href": "https://robforpa.com/teamsters-president-sean-obrien-visits-northeastern-pennsylvania-with-rep-rob-bresnahan-to-highlight-wins-for-workers/"
+},
+{
+"text": "August 19, 2026",
+"href": "https://robforpa.com/speaker-mike-johnson-joins-rep-rob-bresnahan-in-pa-08-to-rally-support-expose-paige-cognettis-radical-record-ahead-of-november-midterms/"
+},
+{
+"text": "August 27, 2026",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-7th-fraternal-order-of-police-lodge/"
+},
+{
+"text": "Bresnahan Earns Endorsement from 7th Fraternal Order of Police Lodge",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-7th-fraternal-order-of-police-lodge/"
+},
+{
+"text": "Congressman Bresnahan Commits to WVIA Congressional Debate",
+"href": "https://robforpa.com/congressman-bresnahan-commits-to-wvia-congressional-debate/"
+},
+{
+"text": "Congressman Rob Bresnahan Earns Endorsement of Eastern Atlantic States Regional Council of Carpenters",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-of-eastern-atlantic-states-regional-council-of-carpenters/"
+},
+{
+"text": "Congressman Rob Bresnahan Earns Endorsement of National Postal Mail Handlers Union Local 308",
+"href": "https://robforpa.com/congressman-rob-bresnahan-earns-endorsement-of-national-postal-mail-handlers-union-local-308/"
+},
+{
+"text": "Congressman Rob Bresnahan’s Campaign Releases New TV Ad On His Work to End the Federal Rain Tax Mandate",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-new-tv-ad-on-his-work-to-end-the-federal-rain-tax-mandate/"
+},
+{
+"text": "Congressman Rob Bresnahan’s Campaign Releases Two New TV Ads: “Produce” and “Archbald”",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-two-new-tv-ads-produce-and-archbald/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rob-for-pa/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RobforPA"
+},
+{
+"text": "Get Involved",
+"href": "https://robforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://robforpa.com/"
+},
+{
+"text": "ICYMI: Congressman Bresnahan Touts Tax Relief for NEPA Workers, Manufacturers in Remarks at RNC Midterm Convention",
+"href": "https://robforpa.com/icymi-congressman-bresnahan-touts-tax-relief-for-nepa-workers-manufacturers-in-remarks-at-rnc-midterm-convention/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/Rob4PA"
+},
+{
+"text": "Labor Endorsements",
+"href": "https://robforpa.com/labor-endorsements/"
+},
+{
+"text": "New Ad: Baloney",
+"href": "https://robforpa.com/baloney/"
+},
+{
+"text": "News",
+"href": "https://robforpa.com/news/"
+},
+{
+"text": "October 6, 2026",
+"href": "https://robforpa.com/baloney/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/baloney/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-7th-fraternal-order-of-police-lodge/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/congressman-bresnahan-commits-to-wvia-congressional-debate/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/congressman-rob-bresnahan-earns-endorsement-of-national-postal-mail-handlers-union-local-308/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-new-tv-ad-on-his-work-to-end-the-federal-rain-tax-mandate/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-two-new-tv-ads-produce-and-archbald/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/endtheraintax/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/icymi-congressman-bresnahan-touts-tax-relief-for-nepa-workers-manufacturers-in-remarks-at-rnc-midterm-convention/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-of-eastern-atlantic-states-regional-council-of-carpenters/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/scottad/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/speaker-mike-johnson-joins-rep-rob-bresnahan-in-pa-08-to-rally-support-expose-paige-cognettis-radical-record-ahead-of-november-midterms/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/teamsters-president-sean-obrien-visits-northeastern-pennsylvania-with-rep-rob-bresnahan-to-highlight-wins-for-workers/"
+},
+{
+"text": "Rob Bresnahan Campaign Launches New Ad, “Scott”",
+"href": "https://robforpa.com/scottad/"
+},
+{
+"text": "Rob Bresnahan Ends Federal “Rain Tax” Mandate, Paige Cognetti Owned By Its Creators",
+"href": "https://robforpa.com/endtheraintax/"
+},
+{
+"text": "September 15, 2026",
+"href": "https://robforpa.com/congressman-bresnahan-commits-to-wvia-congressional-debate/"
+},
+{
+"text": "September 17, 2026",
+"href": "https://robforpa.com/endtheraintax/"
+},
+{
+"text": "September 18, 2026",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-new-tv-ad-on-his-work-to-end-the-federal-rain-tax-mandate/"
+},
+{
+"text": "September 2, 2026",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-of-eastern-atlantic-states-regional-council-of-carpenters/"
+},
+{
+"text": "September 29, 2026",
+"href": "https://robforpa.com/scottad/"
+},
+{
+"text": "September 8, 2026",
+"href": "https://robforpa.com/congressman-rob-bresnahan-earns-endorsement-of-national-postal-mail-handlers-union-local-308/"
+},
+{
+"text": "September 9, 2026",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-two-new-tv-ads-produce-and-archbald/"
+},
+{
+"text": "September 9, 2026",
+"href": "https://robforpa.com/icymi-congressman-bresnahan-touts-tax-relief-for-nepa-workers-manufacturers-in-remarks-at-rnc-midterm-convention/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/rob-for-pa/storefront/"
+},
+{
+"text": "Speaker Mike Johnson Joins Rep. Rob Bresnahan in PA-08 to Rally Support, Expose Paige Cognetti’s Radical Record Ahead of November Midterms",
+"href": "https://robforpa.com/speaker-mike-johnson-joins-rep-rob-bresnahan-in-pa-08-to-rally-support-expose-paige-cognettis-radical-record-ahead-of-november-midterms/"
+},
+{
+"text": "Teamsters President Sean O’Brien Visits Northeastern Pennsylvania with Rep. Rob Bresnahan to Highlight Wins for Workers",
+"href": "https://robforpa.com/teamsters-president-sean-obrien-visits-northeastern-pennsylvania-with-rep-rob-bresnahan-to-highlight-wins-for-workers/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://robforpa.com/terms-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Vote",
+"href": "https://robforpa.com/#vote"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Rob4PA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@RobforPA"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robforpa.com"
+},
+{
+"text": "[image: Bresnahan Earns Endorsement from 7th Fraternal Order of Police Lodge]",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-7th-fraternal-order-of-police-lodge/"
+},
+{
+"text": "[image: Congressman Bresnahan Commits to WVIA Congressional Debate]",
+"href": "https://robforpa.com/congressman-bresnahan-commits-to-wvia-congressional-debate/"
+},
+{
+"text": "[image: Congressman Rob Bresnahan Earns Endorsement of Eastern Atlantic States Regional Council of Carpenters]",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-of-eastern-atlantic-states-regional-council-of-carpenters/"
+},
+{
+"text": "[image: Congressman Rob Bresnahan Earns Endorsement of National Postal Mail Handlers Union Local 308]",
+"href": "https://robforpa.com/congressman-rob-bresnahan-earns-endorsement-of-national-postal-mail-handlers-union-local-308/"
+},
+{
+"text": "[image: Congressman Rob Bresnahan’s Campaign Releases New TV Ad On His Work to End the Federal Rain Tax Mandate]",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-new-tv-ad-on-his-work-to-end-the-federal-rain-tax-mandate/"
+},
+{
+"text": "[image: Congressman Rob Bresnahan’s Campaign Releases Two New TV Ads: “Produce” and “Archbald”]",
+"href": "https://robforpa.com/congressman-rob-bresnahans-campaign-releases-two-new-tv-ads-produce-and-archbald/"
+},
+{
+"text": "[image: ICYMI: Congressman Bresnahan Touts Tax Relief for NEPA Workers, Manufacturers in Remarks at RNC Midterm Convention]",
+"href": "https://robforpa.com/icymi-congressman-bresnahan-touts-tax-relief-for-nepa-workers-manufacturers-in-remarks-at-rnc-midterm-convention/"
+},
+{
+"text": "[image: Logo - Rob for PA]",
+"href": "https://robforpa.com/"
+},
+{
+"text": "[image: New Ad: Baloney]",
+"href": "https://robforpa.com/baloney/"
+},
+{
+"text": "[image: Rob Bresnahan Ends Federal “Rain Tax” Mandate, Paige Cognetti Owned By Its Creators]",
+"href": "https://robforpa.com/endtheraintax/"
+},
+{
+"text": "[image: Speaker Mike Johnson Joins Rep. Rob Bresnahan in PA-08 to Rally Support, Expose Paige Cognetti’s Radical Record Ahead of November Midterms]",
+"href": "https://robforpa.com/speaker-mike-johnson-joins-rep-rob-bresnahan-in-pa-08-to-rally-support-expose-paige-cognettis-radical-record-ahead-of-november-midterms/"
+},
+{
+"text": "[image: Teamsters President Sean O’Brien Visits Northeastern Pennsylvania with Rep. Rob Bresnahan to Highlight Wins for Workers]",
+"href": "https://robforpa.com/teamsters-president-sean-obrien-visits-northeastern-pennsylvania-with-rep-rob-bresnahan-to-highlight-wins-for-workers/"
+}
 ]

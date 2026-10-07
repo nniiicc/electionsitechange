@@ -1,9 +1,38 @@
 [
-"https://mcdonaldforkansas.com/",
-"https://mcdonaldforkansas.com/about_nikki",
-"https://mcdonaldforkansas.com/endorsements",
-"https://mcdonaldforkansas.com/media",
-"https://mcdonaldforkansas.com/priorities",
-"https://mcdonaldforkansas.com/volunteer",
-"https://secure.actblue.com/donate/mcdonald-for-kansas-1"
+{
+"text": "About Nikki",
+"href": "https://mcdonaldforkansas.com/about_nikki/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mcdonald-for-kansas-1"
+},
+{
+"text": "Delivering Results",
+"href": "https://mcdonaldforkansas.com/priorities/"
+},
+{
+"text": "Endorsements",
+"href": "https://mcdonaldforkansas.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://mcdonaldforkansas.com/"
+},
+{
+"text": "Media",
+"href": "https://mcdonaldforkansas.com/media/"
+},
+{
+"text": "Volunteer",
+"href": "https://mcdonaldforkansas.com/volunteer/"
+},
+{
+"text": "[image: McDonald For Kansas]",
+"href": "https://mcdonaldforkansas.com/"
+},
+{
+"text": "info@mcdonaldforkansas.com",
+"href": "mailto:info@mcdonaldforkansas.com"
+}
 ]

@@ -1,16 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Greenfield&dates=20260816T150000Z%2F20260816T170000Z&location=1+Bank+Row%2C+Greenfield%2C+Massachusetts%2C+01301%2C+United+States",
-"http://maps.google.com/?q=1+Bank+Row+Greenfield%2C+Massachusetts%2C+01301+United+States",
-"https://facebook.com/WondolowskiFranklin1st",
-"https://instagram.com/WondolowskiFranklin1st",
-"https://secure.actblue.com/donate/lora-wondolowski-1",
-"https://wondoforrep.org/",
-"https://wondoforrep.org/cart",
-"https://wondoforrep.org/endorsements",
-"https://wondoforrep.org/events",
-"https://wondoforrep.org/events/canvassing-in-greenfield?format=ical",
-"https://wondoforrep.org/events/event-three-mz467-9slf2-p3f9r",
-"https://wondoforrep.org/events/event-two-w7zrh-s4xbg-p28ne",
-"https://wondoforrep.org/get-involved",
-"https://wondoforrep.org/store"
+{
+"text": "(0)",
+"href": "https://wondoforrep.org/cart"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+bank+row+greenfield%2C+massachusetts%2C+01301+united+states"
+},
+{
+"text": "About",
+"href": "https://wondoforrep.org/#about"
+},
+{
+"text": "Back to All Events",
+"href": "https://wondoforrep.org/events"
+},
+{
+"text": "Cart (0)",
+"href": "https://wondoforrep.org/cart"
+},
+{
+"text": "Contact",
+"href": "https://wondoforrep.org/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lora-wondolowski-1"
+},
+{
+"text": "Endorsements",
+"href": "https://wondoforrep.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://wondoforrep.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://wondoforrep.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Greenfield&dates=20260816T150000Z%2F20260816T170000Z&location=1+Bank+Row%2C+Greenfield%2C+Massachusetts%2C+01301%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://wondoforrep.org/events/canvassing-in-greenfield?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://wondoforrep.org/#issues"
+},
+{
+"text": "Next Next August 20 League of Women Voters Forum",
+"href": "https://wondoforrep.org/events/event-three-mz467-9slf2-p3f9r"
+},
+{
+"text": "Previous Previous August 11 Food and Farm Forum",
+"href": "https://wondoforrep.org/events/event-two-w7zrh-s4xbg-p28ne"
+},
+{
+"text": "Store",
+"href": "https://wondoforrep.org/store"
+},
+{
+"text": "[image: Wondo For Rep]",
+"href": "https://wondoforrep.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WondolowskiFranklin1st/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/WondolowskiFranklin1st"
+},
+{
+"text": "info@wondoforrep.org",
+"href": "mailto:info@wondoforrep.org"
+}
 ]

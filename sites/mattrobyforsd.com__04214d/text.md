@@ -1,19 +1,3 @@
-“I’m passionate about the Watertown area and will always do what I can to make it better.
-My public service, community involvement, and private sector experience give me the tools, relationships, and perspective necessary to be a strong voice for District 5 in Pierre."
-EXPERIENCE
-- Husband and father of four
-- Fourth generation Watertown resident
-- Attorney and Businessman
-- Former SD Assistant Attorney General
-- Past City Attorney for the City of Watertown
-PRINCIPLES
-- Common sense conservative
-- Limited government and local control
-- Respect life and protect liberties
-- Strong families and healthy communities
-TOP ISSUES
-- Quality and affordable education
-- Low taxes and effective government
-- Economic development
-- Public safety and criminal justice
-- Mental health and addiction
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up “I’m passionate about the Watertown area and will always do what I can to make it better.
+My public service, community involvement, and private sector experience give me the tools, relationships, and perspective necessary to be a strong voice for District 5 in Pierre." EXPERIENCE Husband and father of four Fourth generation Watertown resident Attorney and Businessman Former SD Assistant Attorney General Past City Attorney for the City of Watertown PRINCIPLES Common sense conservative Limited government and local control Respect life and protect liberties Strong families and healthy communities TOP ISSUES Quality and affordable education Low taxes and effective government Economic development Public safety and criminal justice Mental health and addiction Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Paid for by Friends of Matt Roby Powered by CampaignPartner.com - Political Websites Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu

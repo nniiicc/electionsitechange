@@ -1,11 +1,25 @@
-Don’t just vote,
-Join us for Change!
-Mike Croley
-Don’t just vote,
-Join us for Change!
-Mike Croley
-The AAA Blueprint
-What is the AAA Blueprint?
+Skip to content Connect with us Connect with us Toggle Navigation Meet Mike FAQ Latest News Resources Fundraising House Party Program Host a Postcard Writing Party Speaking Engagements District Lookup Tool Calendar of Events Request a Yard Sign Downloads Contact Us DONATE VOLUNTEER Shop Campaign Home croleycongress 2026-09-10T19:30:40+00:00 Who Can?
+Croley can!
+Mike is willing to fight for the progressive agenda.
+Transforming the country only happens one way – and that is together.
+First Name * Last Name * Email * Zipcode * Phone Number Who Can?
+Croley Can!
+Submit Your Request for a Yard Sign Has Been Submitted Thank you for submitting this request.
+A coordinator will review your request and contact you with additional details and next steps to pick up your sign!
+Who Can?
+Croley Can! × There was an error trying to send your message.
+Please try again later. × Marketing Opt-In Opt-in to SMS updates By providing your phone number, you agree to receive recurring campaign text messages from Mike Croley for Congress.
+Message frequency may vary.
+Message and data rates may apply.
+Reply STOP to opt out.
+Reply HELP for help.
+Text messaging originator opt-in data and consent will not be shared with any third parties.
+Donations may be solicited by text.
+Don’t just vote, Join us for Change!
+Mike Croley Don’t just vote, Join us for Change!
+Mike Croley Register to Vote Mike Croley Better Choices.
+Brighter Future.
+Meet Mike Donate Volunteer The AAA Blueprint What is the AAA Blueprint?
 Normally, a page like this is where a candidate tells you every policy and piece of legislation they’re going to pass.
 My campaign is different: I don’t want to sit people down and dictate their options, I want Tennesseans to know that I hear what they’re telling me.
 The AAA Blueprint (Triple-A) is a list of concerns I keep hearing from Tennesseans, no matter where I am, no matter who I’m talking to.
@@ -13,6 +27,9 @@ It’s simple on its surface and complex under the hood – the perfect job for 
 If you want to dive deeper into the issues and hear what my stances are policy to policy, check out my blog under the ‘Latest News’ section of my website.
 While you’re at it, give me a follow on Facebook or Instagram to keep up with the campaign.
 I look forward to hearing from you soon!
+AFFORDABILITY Go anywhere in America today and ask someone what’s on their mind and you’ll hear about prices.
+Groceries are too high, gasoline is too expensive, and healthcare has been unaffordable for years – and it’s getting worse.
+Rural Americans in places like the Sixth District have to choose between putting food on the table or medicine in the cabinet.
 I’ve discovered over the course of this campaign just how bad things have gotten for Tennesseans.
 I’ve heard from both college students how they’re frightened to graduate because there’s no chance they can afford to rent an apartment, and from elderly folks who have to ration food so they can be able to visit the doctor and pay for what the doctor prescribes.
 I’ve heard from consumers that have had to stop shopping at their small town grocery stores because the big chains cut a slightly better deal.
@@ -21,14 +38,16 @@ I’ve heard from importers, wholesalers, and small business owners just how muc
 I’ve heard from franchise owners and construction workers how much they have to tighten their belts when the threat of an ICE raid means their staff are too afraid to come into work.
 I’ve heard from investors and line workers how careers are upended because changes in leadership and funding stop the on-time opening of new factories.
 So what do the people tell me they want to happen to lower prices again?
-- Get rid of Trump’s reckless tariffs.
-- Overturn the ‘One Big Beautiful Bill’ and give that money back to programs that help people get what they need.
-- Tax the rich fairly and close tax loopholes.
-- “The Tax Policy Center (TPC) has estimated that the WNI wealth tax could raise $6.8 trillion in additional net revenue over the next decade.” – Economic Policy Institute
-- Build more quality, affordable housing.
-- Cap private equity firm holdings.
-- Invest in American industry and American trades.
-- Strengthen labor standards and make unionization easier
+Get rid of Trump’s reckless tariffs.
+Overturn the ‘One Big Beautiful Bill’ and give that money back to programs that help people get what they need.
+Tax the rich fairly and close tax loopholes.
+“The Tax Policy Center (TPC) has estimated that the WNI wealth tax could raise $6.8 trillion in additional net revenue over the next decade.” – Economic Policy Institute Build more quality, affordable housing.
+Cap private equity firm holdings.
+Invest in American industry and American trades.
+Strengthen labor standards and make unionization easier ACCESSIBILITY Whoever you are, at some point in your life, you’ve needed help.
+Mr.
+Rogers told us to look for the helpers, and people are trying hard to find them.
+The simple fact is that the opportunities and programs that help people get by and live well aren’t coming – even worse, they’re disappearing.
 Accessibility is a personal issue for me: In early 2025, I was working for NOAA as a Presidential Management Fellow.
 I worked hard to earn that opportunity, and I was proud to get to do work that I loved.
 That all changed with Elon Musk and DOGE.
@@ -46,12 +65,11 @@ I wish I could say that my story is unique and my circumstances are strange, but
 If I listed the names of people I personally know who lost qualified positions because of this administration, I’d need a second website.
 I’ve heard from so many people like me, who needed help from their government and begged and pleaded for assistance, and were ignored.
 What do people want to be done to make their government and lives more accessible?
-- Make voting more accessible
-- Make accessing healthcare more accessible for veterans
-- Expand the House of Representatives and make the democratic process more democratic
-- Restrict private insurance companies ability to deny claims
-- Increase access to women’s reproductive healthcare
-Elect representatives who show up for all the people they represent
+Make voting more accessible Make accessing healthcare more accessible for veterans Expand the House of Representatives and make the democratic process more democratic Restrict private insurance companies ability to deny claims Increase access to women’s reproductive healthcare Elect representatives who show up for all the people they represent ACCOUNTABILITY We hear a lot about accountability these days.
+The single most consistent thing I hear from people is that they feel like their government is failing them.
+Usually, they feel like their representatives aren’t even trying to actually represent or help them.
+The only thing everyone does seem to think their representatives actually prioritize is making money.
+I hear from people that it’s one big club and we ain’t in it, so why bother caring?
 I hear from people that federal agents are being given free reign to assault, harass, and kill whomever they like.
 I hear from independents who enthusiastically voted for closed borders, but also think America isn’t a place where the government gets to execute its citizens in the street.
 I’ve been told by veterans that the Democrats aren’t doing enough to stop ICE’s rampage.
@@ -59,12 +77,19 @@ I’ve heard from abuse victims how the exact same kinds of people who hurt them
 I’ve heard their disgust when the Attorney General screams about the stock market instead of acknowledging survivors.
 I’ve heard from you, who is being hurt and wants to stop the people who hurt you.
 So what do people tell me they want to do to hold people in power accountable?
-- Release all of the unredacted Epstein Files in full compliance with the Epstein Files Transparency Act
-- Dramatically scale back funding for DHS and ICE to make sure reforms can’t be sidestepped
-- Overhaul campaign finance laws to ban Congressmen from trading stocks and becoming lobbyists
-- Overturn the disastrous Citizens United v.
-FEC decision
-- Enact term limits for members of Congress
-- Ensure corporations are engaging the market in full faith and break up any illegal monopolies like Google and Apple
-- Investigate healthcare companies to ensure patient care is prioritized over profit
-Together We Rise: A Campaign for Everyone
+Release all of the unredacted Epstein Files in full compliance with the Epstein Files Transparency Act Dramatically scale back funding for DHS and ICE to make sure reforms can’t be sidestepped Overhaul campaign finance laws to ban Congressmen from trading stocks and becoming lobbyists Overturn the disastrous Citizens United v.
+FEC decision Enact term limits for members of Congress Ensure corporations are engaging the market in full faith and break up any illegal monopolies like Google and Apple Investigate healthcare companies to ensure patient care is prioritized over profit Together We Rise: A Campaign for Everyone Building a Better 6th District When Money Gets a Vote Gallery When Money Gets a Vote When Money Gets a Vote The Country We Were Promised Gallery The Country We Were Promised The Country We Were Promised The Cost of Living: Tennessee Families Cannot Afford More of the Same Gallery The Cost of Living: Tennessee Families Cannot Afford More of the Same The Cost of Living: Tennessee Families Cannot Afford More of the Same See All prosperity, freedom, equality!
+Request a Yard Sign subscribe to campaign newsletter * indicates required Email Address * Phone Number Messaging Preferences Opt-in to SMS updates Sign Up for the most event and election updates.
+By providing your phone number, you agree to receive recurring campaign text messages from Mike Croley for Congress.
+Message frequency may vary.
+Message and data rates may apply.
+Reply STOP to opt out.
+Reply HELP for help.
+Text messaging originator opt-in data and consent will not be shared with any third parties.
+Donations may be solicited by text.
+Paid for by Mike Croley For Congress.
+Privacy Policy .
+Terms & Conditions .
+Page load link Who Can?
+Croley Can!
+Donate Volunteer Shop Join The Team! * indicates required Email Address * First Name * Last Name Phone Number * Go to Top

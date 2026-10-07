@@ -1,9 +1,8 @@
-From the campaign
-Where I Stand on Gender, Biological Sex, and Protecting Children
-A phone in a backpack reaches anything on the internet.
+Skip to content Zac .
+Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 Where I Stand on Gender, Biological Sex, and Protecting Children A phone in a backpack reaches anything on the internet.
 A shelf in the children's section holds whatever somebody decided to put there.
 A girls' locker room is private only if the law says so.
-My son is nine, so I spend a fair amount of time thinking about what he sees, what he reads, and who is looking out for him when I am not in the room.
+Pillar E : Protecting Children Protecting Children My son is nine, so I spend a fair amount of time thinking about what he sees, what he reads, and who is looking out for him when I am not in the room.
 A phone in a backpack reaches anything on the internet.
 A shelf in the children's section holds whatever somebody decided to put there.
 A girls' locker room is private only if the law says it is.
@@ -30,8 +29,7 @@ No gender transition procedures for minors.
 Children cannot consent to permanent medical decisions.
 Adults make their own choices.
 Kids are off limits.
-The objection that actually stings
-The sharpest thing anybody says to me about this plank is that I campaign on parental rights, so who am I to override a parent and a doctor.
+The objection that actually stings The sharpest thing anybody says to me about this plank is that I campaign on parental rights, so who am I to override a parent and a doctor.
 That deserves the most honest answer I have.
 A family court case brought my son to Rapid City in 2018.
 I have spent the years since then fighting for parents, in my own case and at the Capitol in Pierre.
@@ -45,15 +43,13 @@ So my position is one word.
 Wait.
 At eighteen it belongs to them, fully and freely.
 Protecting a child's open future is not anti-parent, it is the job description.
-What compassion is and is not
-Kids wrestling with these questions are real and they deserve compassion.
+What compassion is and is not Kids wrestling with these questions are real and they deserve compassion.
 Nothing I support calls for cruelty toward any child and I will not stand for cruelty toward any child, including from people who agree with me on everything else.
 Compassion is still not the same thing as an irreversible medical intervention on a minor.
 A child who cannot vote, sign a contract, or buy a lottery ticket should not be making a permanent decision about his own body.
 Protecting a kid from a choice made at twelve is the same protection we extend on every other permanent choice.
 Kindness and honesty are not opposites, and every decent dad has to manage both on the same day.
-Whether this is even a priority
-Somebody always asks whether there are bigger issues, and the honest answer is that District 32 has plenty of them.
+Whether this is even a priority Somebody always asks whether there are bigger issues, and the honest answer is that District 32 has plenty of them.
 Housing.
 Property taxes.
 A family court system that grinds families down.
@@ -67,33 +63,45 @@ If you want a representative who will say what a woman is, protect women's sport
 The full platform is at zac4sd.com.
 Strong Families.
 Strong South Dakota.
-Anticipated pushbacks · prepared responses
-Common questions on this issue
-These are the questions and concerns that come up most often.
+Anticipated pushbacks · prepared responses Common questions on this issue These are the questions and concerns that come up most often.
 The responses below are my honest answers, not talking points.
-- Q.
+Q.
 Isn't this government overreach?
-- A.
+A.
 I hear this from conservatives I respect, and small government is my instinct too.
 Defining sex in state law is not government inserting itself into your life, it is government being able to read its own statutes.
 Every law that already mentions sex requires a definition, and the only question is whether your legislators write it plainly or leave it for somebody else to settle later.
 Notice also what is absent from my list: nothing reaches into an adult's private life.
 Every line sits around children and around spaces built for women.
 Protecting kids is the state's oldest job, not an expansion of it.
-- Q.
+Q.
 You are targeting vulnerable kids.
-- A.
+A.
 Kids wrestling with these questions are real and they deserve compassion, and nothing I support calls for cruelty toward any child.
 Compassion is still not the same thing as an irreversible medical intervention on a minor.
 A child who cannot vote, sign a contract, or buy a lottery ticket should not be making a permanent decision about his own body.
 Protecting a kid from a choice made at twelve is the same protection we extend on every other permanent choice.
-- Q.
+Q.
 Age verification and library accountability is just censorship.
-- A.
+A.
 Nobody is banning books for adults, and I will defend an adult's right to read what he wants.
 Age verification on harmful websites applies the standard we already use everywhere else in a child's life.
 We do not let a fourth grader into an R-rated movie alone and nobody calls the ticket counter a censor.
 On libraries the question is narrower: what belongs in the children's section, and who answers for it when material harmful to minors turns up there?
 Schools answer for what they put in front of kids.
 Daycares answer for it.
-Libraries should too.
+Libraries should too. ← All posts Full pillar → Subscribe on Substack → Join the campaign We win District 32 the old fashioned way .
+Door by door.
+Neighbor by neighbor.
+Yard sign by yard sign.
+Every conversation, every donation, every shift counts.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
+Donate Volunteer Yard Sign Zac .
+Martin SD House 32 Strong Families.
+Strong South Dakota.
+For South Dakota House District 32.
+The heart of Rapid City: downtown and North Rapid.
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+All rights reserved.
+Paid for by Zac Martin for South Dakota.
+Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .

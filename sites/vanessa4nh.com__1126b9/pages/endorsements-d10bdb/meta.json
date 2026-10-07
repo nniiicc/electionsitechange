@@ -1,7 +1,12 @@
 {
  "description": "Explore key political endorsements for Vanessa Sheehan&#39;s campaign in New Hampshire, showcasing trusted support from various organizations.",
  "final_url": "https://vanessa4nh.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "ceb9e06918fc32e1b355ca16a94323184ff67c33",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

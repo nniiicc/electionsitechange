@@ -1,9 +1,8 @@
-Trahan Shows Support for Local Farmers
-Congresswoman Lori Trahan visited farmers across the 3rd Congressional District, hearing first-hand accounts of how the coronavirus has impacted their businesses, in order to craft a relief package that addresses their economic concerns:
-Trahan visited Idyllvale Farm in Littleton, Honey Pot Hill Orchards in Stow and Hollis Hills Farm in Fitchburg Tuesday afternoon.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu July 15 2020 Trahan Shows Support for Local Farmers Congresswoman Lori Trahan visited farmers across the 3rd Congressional District, hearing first-hand accounts of how the coronavirus has impacted their businesses, in order to craft a relief package that addresses their economic concerns: Trahan visited Idyllvale Farm in Littleton, Honey Pot Hill Orchards in Stow and Hollis Hills Farm in Fitchburg Tuesday afternoon.
 The congresswoman was accompanied by other state officials at her three stops: Sen.
 Jamie Eldridge in Littleton and Massachusetts Farm Bureau Deputy Executive Director Brad Mitchell in Fitchburg….
 “When you’re crafting these relief packages, you really have to have an industry understanding of how COVID has uniquely hit all sectors of our economy,” Trahan said at Hollis Hills Farm.
 “Last year I did my very first farm tour and got to know different aspects of the majority family-owned farms.
-This is one of the few that aren’t, but 97% of the 842 farms in my district are family-owned and they don’t have a lot of wiggle room in terms of their cost structure and their levers to make up for lost revenue.”
-Continue reading in The Lowell Sun.
+This is one of the few that aren’t, but 97% of the 842 farms in my district are family-owned and they don’t have a lot of wiggle room in terms of their cost structure and their levers to make up for lost revenue.” Continue reading in The Lowell Sun.
+Trahan joins Black Caucus leader for broadcast on race The Merrimack River: A treasure worth protecting – By Lori Trahan Related Posts Uncategorized Congresswoman Lori Trahan introduced the Pandemic Production Act Uncategorized The Merrimack River: A treasure worth protecting – By Lori Trahan Uncategorized Trahan joins Black Caucus leader for broadcast on race Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

@@ -1,17 +1,70 @@
 [
-"http://wordpress.org/",
-"https://electallenmiller/",
-"https://facebook.com/profile.php?id=61588133763306",
-"https://indianacoalitionforpubliced.org/2025-sea-1-property-tax-cuts",
-"https://indianacoalitionforpubliced.org/voucher-cost",
-"https://indianaruralsummit.org/about",
-"https://instagram.com/electallenmiller",
-"https://millerfor73.com/",
-"https://millerfor73.com/about",
-"https://millerfor73.com/issues",
-"https://millerfor73.com/volunteer",
-"https://millerfor73.com/voter-registration-information",
-"https://pexels.com/photo/black-teacher-answering-questions-of-pupil-5905923",
-"https://rockefellerfoundation.org/grantee-impact-stories/increasing-investment-in-school-meals-pays-for-itself-and-then-some",
-"https://secure.actblue.com/donate/allen-miller-in-73"
+{
+"text": "About Me",
+"href": "https://millerfor73.com/about/"
+},
+{
+"text": "Allen Miller for Indiana House District 73",
+"href": "https://millerfor73.com"
+},
+{
+"text": "Allen on the Issues",
+"href": "https://millerfor73.com/issues/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allen-miller-in-73"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588133763306"
+},
+{
+"text": "Indiana Rural Summit",
+"href": "https://indianaruralsummit.org/about"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electallenmiller/"
+},
+{
+"text": "Issues",
+"href": "https://millerfor73.com/issues"
+},
+{
+"text": "Join our movement!",
+"href": "https://millerfor73.com/volunteer/"
+},
+{
+"text": "Pexels.com",
+"href": "https://www.pexels.com/photo/black-teacher-answering-questions-of-pupil-5905923/"
+},
+{
+"text": "Threads",
+"href": "https://electallenmiller"
+},
+{
+"text": "Voter Registration Information",
+"href": "https://millerfor73.com/voter-registration-information/"
+},
+{
+"text": "WordPress",
+"href": "http://wordpress.org"
+},
+{
+"text": "doubling our money",
+"href": "https://www.rockefellerfoundation.org/grantee-impact-stories/increasing-investment-in-school-meals-pays-for-itself-and-then-some/"
+},
+{
+"text": "electallenmiller@proton.me",
+"href": "mailto:"
+},
+{
+"text": "pulls money away from public schools and the students they serve.",
+"href": "https://indianacoalitionforpubliced.org/voucher-cost/"
+},
+{
+"text": "stripped funding away from school districts",
+"href": "https://indianacoalitionforpubliced.org/2025-sea-1-property-tax-cuts/"
+}
 ]

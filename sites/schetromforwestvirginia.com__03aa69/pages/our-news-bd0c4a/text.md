@@ -1,7 +1,7 @@
-Our News
-Home > Our News
-Recent Posts
-FOR IMMEDIATE RELEASE Contact: Schetrom for Delegate Campaign 540-333-1784 steven.schetrom@gmail.com www.schetromforwestvirginia.com Steven Schetrom Announces Candidacy for West Virginia House of Delegates – 86th District Hardy County, WV – Steven Schetrom today announced his candidacy for the West Virginia House of Delegates, seeking to represent the 86th District in the 2026 election.
+HOME ABOUT US OUR NEWS CONTACT US Get in touch 555-555-5555 mymail@mailservice.com DONATIONS ACCEPTED!
+HOME ABOUT US OUR NEWS CONTACT US DONATIONS ACCEPTED!
+DONATIONS ACCEPTED!
+Our News Home > Our News Recent Posts Steven Schetrom Announces Candidacy for West Virginia House of Delegates--86th District By Steven Schetrom • February 7, 2026 FOR IMMEDIATE RELEASE Contact: Schetrom for Delegate Campaign 540-333-1784 steven.schetrom@gmail.com www.schetromforwestvirginia.com Steven Schetrom Announces Candidacy for West Virginia House of Delegates – 86th District Hardy County, WV – Steven Schetrom today announced his candidacy for the West Virginia House of Delegates, seeking to represent the 86th District in the 2026 election.
 Schetrom brings proven leadership experience and a strong record of service as a member of the Hardy County Commission, where he has served since 2021.
 “West Virginia stands at a critical moment,” Schetrom said.
 “We have tremendous potential for growth, new jobs, and expanded opportunity—especially here in the Eastern Panhandle.
@@ -17,9 +17,8 @@ Opportunity: Ensuring families and young people can build successful futures rig
 That’s exactly what I will work to deliver as your Delegate.” A longtime resident of Hardy County, Schetrom is active in local civic and community organizations and has been a strong advocate for regional cooperation and economic progress.
 He and his family are deeply rooted in the area and committed to its continued success.
 The 86th District includes communities throughout Hardy and Pendleton Counties.
-Schetrom said he looks forward to traveling the district in the months ahead to listen to voters and share his vision for the future.
-For more information about Steven Schetrom’s campaign for House of Delegates, please contact the campaign at 540-333-1784/steven.schetrom@gmail.com or visit www.schetromforwestvirginia.com.
-Emergency Services Organizations in West Virginia work very hard to make sure their departments are well funded.
+Schetrom said he looks forward to traveling the district in the months ahead to listen to voters and share his vision for the future. ﻿ For more information about Steven Schetrom’s campaign for House of Delegates, please contact the campaign at 540-333-1784/steven.schetrom@gmail.com or visit www.schetromforwestvirginia.com.
+Hardy County Delivers On Transparency By Steven Schetrom • September 13, 2023 Hardy County OpenGov Transparency Website Goes Live September 12, 2023 Funding Issues Facing Emergency Service Organizations In West Virginia By Steven Schetrom • January 16, 2023 Emergency Services Organizations in West Virginia work very hard to make sure their departments are well funded.
 This is an ongoing process, that requires extraordinary effort from local jurisdictions.
 One current issue being debated in this 86th Legislature is how to allocate the 1% insurance premium tax that was allocated to local fire departments in the 1980s.
 The issue arises because, following this allocation, because of the underfunded teacher retirement fund in the state, local fire departments have only been receiving 55% of that original 1% allocation.
@@ -30,10 +29,7 @@ This would amount to a roughly $6,000 annual increase for each fire department i
 There are about 420 fire departments in West Virginia.
 The total number of EMS companies comes to about 250.
 With both fire departments and EMS companies increasingly being stretched to secure resources to provide services within their jurisdictions, this is an important issue facing this legislature.
-More Posts
-Search Your Post
-More Posts
-FOR IMMEDIATE RELEASE Contact: Schetrom for Delegate Campaign 540-333-1784 steven.schetrom@gmail.com www.schetromforwestvirginia.com Steven Schetrom Announces Candidacy for West Virginia House of Delegates – 86th District Hardy County, WV – Steven Schetrom today announced his candidacy for the West Virginia House of Delegates, seeking to represent the 86th District in the 2026 election.
+More Posts Search Your Post More Posts Steven Schetrom Announces Candidacy for West Virginia House of Delegates--86th District By Steven Schetrom • February 7, 2026 FOR IMMEDIATE RELEASE Contact: Schetrom for Delegate Campaign 540-333-1784 steven.schetrom@gmail.com www.schetromforwestvirginia.com Steven Schetrom Announces Candidacy for West Virginia House of Delegates – 86th District Hardy County, WV – Steven Schetrom today announced his candidacy for the West Virginia House of Delegates, seeking to represent the 86th District in the 2026 election.
 Schetrom brings proven leadership experience and a strong record of service as a member of the Hardy County Commission, where he has served since 2021.
 “West Virginia stands at a critical moment,” Schetrom said.
 “We have tremendous potential for growth, new jobs, and expanded opportunity—especially here in the Eastern Panhandle.
@@ -49,9 +45,8 @@ Opportunity: Ensuring families and young people can build successful futures rig
 That’s exactly what I will work to deliver as your Delegate.” A longtime resident of Hardy County, Schetrom is active in local civic and community organizations and has been a strong advocate for regional cooperation and economic progress.
 He and his family are deeply rooted in the area and committed to its continued success.
 The 86th District includes communities throughout Hardy and Pendleton Counties.
-Schetrom said he looks forward to traveling the district in the months ahead to listen to voters and share his vision for the future.
-For more information about Steven Schetrom’s campaign for House of Delegates, please contact the campaign at 540-333-1784/steven.schetrom@gmail.com or visit www.schetromforwestvirginia.com.
-Emergency Services Organizations in West Virginia work very hard to make sure their departments are well funded.
+Schetrom said he looks forward to traveling the district in the months ahead to listen to voters and share his vision for the future. ﻿ For more information about Steven Schetrom’s campaign for House of Delegates, please contact the campaign at 540-333-1784/steven.schetrom@gmail.com or visit www.schetromforwestvirginia.com.
+Hardy County Delivers On Transparency By Steven Schetrom • September 13, 2023 Hardy County OpenGov Transparency Website Goes Live September 12, 2023 Funding Issues Facing Emergency Service Organizations In West Virginia By Steven Schetrom • January 16, 2023 Emergency Services Organizations in West Virginia work very hard to make sure their departments are well funded.
 This is an ongoing process, that requires extraordinary effort from local jurisdictions.
 One current issue being debated in this 86th Legislature is how to allocate the 1% insurance premium tax that was allocated to local fire departments in the 1980s.
 The issue arises because, following this allocation, because of the underfunded teacher retirement fund in the state, local fire departments have only been receiving 55% of that original 1% allocation.
@@ -62,3 +57,5 @@ This would amount to a roughly $6,000 annual increase for each fire department i
 There are about 420 fire departments in West Virginia.
 The total number of EMS companies comes to about 250.
 With both fire departments and EMS companies increasingly being stretched to secure resources to provide services within their jurisdictions, this is an important issue facing this legislature.
+Join us CONTACT US Growth--Jobs--Opportunity Confidence in the Future of West Virginia P.O.
+Box 34, Baker, WV 26801 P:(540) 333-1784 Mail: steven.schetrom@gmail.com © # Schetrom for West Virginia All Rights Reserved Share by:

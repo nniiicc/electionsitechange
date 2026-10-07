@@ -1,7 +1,24 @@
 {
  "description": "News and media coverage of Kyle Kirkland's campaign for Congress in CA-21. Campaign updates, gaming industry news, and community impact stories.",
  "final_url": "https://kirkland2026.com/news",
+ "fingerprint": "1d3d894673ddcc4f5f51999ccd16e14272a8f0b7",
+ "format": 3,
  "paid_for_by": "Paid for by Kirkland for California PO Box 27167, Fresno, CA 93729 Terms Privacy",
  "title": "News & Media | Kyle Kirkland for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1995",
+  "2003",
+  "2011",
+  "2012",
+  "2013",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

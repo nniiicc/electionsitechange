@@ -1,12 +1,10 @@
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home News Updates Happy Indigenous People’s Day!
 Happy Indigenous People’s Day!
-| |
-| |
-| |
-| Celebrating Indigenous Peoples’ Day Happy Indigenous Peoples’ Day!
+Published On: October 12, 2020 Categories: News Updates Celebrating Indigenous Peoples’ Day Happy Indigenous Peoples’ Day!
 This day is important for me and so many others, and I want to take the time to thank the Washington Tribal leaders, elders, and community members for taking care of me, and for taking care of my daughter, Emma.
 Without all of you, I wouldn’t be where I am today.
 Please take a few minutes and watch my video below for the full statement.
-Getting out the Native Vote I want to raise my hands and thank the Honorable Senator John McCoy for clearing the pathway for the next generation of Native leaders in Washington – not just in the State Legislature, but in the federal delegation as well.
+Getting out the Native Vote I want to raise my hands and thank the Honorable Senator John McCoy for clearing the pathway for the next generation of Native leaders in Washington – not just in the State Legislature, but in the federal delegation as well .
 It was an honor to serve the people alongside Senator McCoy, and to watch and participate in history when we passed The Native American Voting Rights Act in 2019.
 We removed barriers so more Native Americans could easily vote by allowing them to register online with their Tribal Registration Cards, designating Tribal Buildings as the address they use for voter registration, and requesting voter support and drop boxes within those buildings, we expanded democracy for everyone.
 Rep.
@@ -29,8 +27,7 @@ Celebrate Native American Regalia It was one of my biggest honors over the 2019-
 Every Indigenous student deserves the right to wear their regalia to honor their ancestors and cultural values.
 I want to honor Patsy Whitefoot, Yakama Nation member, for her dedication to tribal sovereignty and for showing up to support my work on the regalia bill.
 I also raise my hands to Jamestown Chairman Ron Allen and Suquamish Chairman Leonard Forsman for their strong and unwavering support as this bill was making its way through the Legislature.
-I would not be here without the three of you and so many others who lift me up and bring so much to our communities and to the world. |
-| |
-{{Disclaimer}}
-{{OrganizationAddress}}
-If you believe you received this message in error or wish to no longer receive email from us, please {{UnsubscribeLink}}.
+I would not be here without the three of you and so many others who lift me up and bring so much to our communities and to the world. {{Disclaimer}} {{OrganizationAddress}} If you believe you received this message in error or wish to no longer receive email from us, please {{UnsubscribeLink}}.
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

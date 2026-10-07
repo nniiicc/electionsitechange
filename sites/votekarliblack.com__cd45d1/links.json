@@ -1,7 +1,66 @@
 [
-"https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black",
-"https://app.proximityimpact.com/web-volunteer-form/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black&formId=47",
-"https://proximityimpact.com/",
-"https://secure.utah.gov/voterreg/login.html?selection=REGISTER",
-"https://votekarliblack.com/"
+{
+"text": "$1,000",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "$10",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "$100",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "$200",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "$35",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "$50",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "$500",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "Contribute",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "Donate",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "Karli Black",
+"href": "https://votekarliblack.com"
+},
+{
+"text": "Other",
+"href": "https://app.proximityimpact.com/payment-donation/link/139/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black"
+},
+{
+"text": "Register to Vote",
+"href": "https://secure.utah.gov/voterreg/login.html?selection=REGISTER"
+},
+{
+"text": "Volunteer",
+"href": "https://app.proximityimpact.com/web-volunteer-form/a66e408a-93e3-4a76-84e6-e5fb7fa96d0e?name=Karli-Black&formId=47"
+},
+{
+"text": "[image: Karli Black Utah State House of Representatives District 58 Logo]",
+"href": "https://votekarliblack.com/"
+},
+{
+"text": "[image]",
+"href": "https://proximityimpact.com/"
+},
+{
+"text": "karli@votekarliblack.com",
+"href": "mailto:karli@votekarliblack.com"
+}
 ]

@@ -1,9 +1,30 @@
 [
-"https://derrickcoley.com/",
-"https://derrickcoley.com/biography",
-"https://derrickcoley.com/voting-location-information-access",
-"https://facebook.com/derrick.coley.pg",
-"https://instagram.com/delegate.derricklcoley",
-"https://secure.actblue.com/donate/derrick-coley-1",
-"https://x.com/coleyderrick?s=11&t=PnQZIlHQu_uQHMR-yGGaow"
+{
+"text": "ABOUT",
+"href": "https://www.derrickcoley.com/biography"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/derrick-coley-1"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/derrick.coley.pg"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/delegate.derricklcoley/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/coleyderrick?s=11&t=PnQZIlHQu_uQHMR-yGGaow"
+},
+{
+"text": "VOTING",
+"href": "https://www.derrickcoley.com/voting-location-information-access"
+},
+{
+"text": "[image]",
+"href": "https://www.derrickcoley.com/"
+}
 ]

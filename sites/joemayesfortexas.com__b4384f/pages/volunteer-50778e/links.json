@@ -1,16 +1,62 @@
 [
-"https://bsky.app/profile/joemayesfortexas.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61584680458161",
-"https://instagram.com/joemayesfortexas",
-"https://joemayesfortexas.com/",
-"https://joemayesfortexas.com/about",
-"https://joemayesfortexas.com/contact",
-"https://joemayesfortexas.com/endorsements",
-"https://joemayesfortexas.com/events",
-"https://joemayesfortexas.com/news",
-"https://joemayesfortexas.com/texas-house-district-106",
-"https://secure.actblue.com/donate/joemayesfortexas",
-"https://threads.net/@joemayesfortexas",
-"https://x.com/JoeMayes4Texas"
+{
+"text": "About",
+"href": "https://www.joemayesfortexas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.joemayesfortexas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joemayesfortexas"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joemayesfortexas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.joemayesfortexas.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.joemayesfortexas.com/"
+},
+{
+"text": "News",
+"href": "https://www.joemayesfortexas.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Texas House District 106",
+"href": "https://www.joemayesfortexas.com/texas-house-district-106"
+},
+{
+"text": "[image: Joe Mayes for Texas]",
+"href": "https://www.joemayesfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joemayesfortexas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61584680458161"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/joemayesfortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@joemayesfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoeMayes4Texas"
+}
 ]

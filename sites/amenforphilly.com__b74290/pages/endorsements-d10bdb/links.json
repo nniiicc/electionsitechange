@@ -1,27 +1,110 @@
 [
-"https://amenforphilly.com/",
-"https://amenforphilly.com/endorsements",
-"https://amenforphilly.com/in-the-news",
-"https://amenforphilly.com/issues",
-"https://amenforphilly.com/meet-amen",
-"https://amenforphilly.com/volunteer",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Ahmad.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Councilmember-Jones.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Evans2.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Harrity.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Bellmon.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Bizzaro.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Bradford-.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Burgos.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Cephas.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Giral.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Harris.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-McClinton.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Young.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Sen.-Hughes.jpg",
-"https://amenforphilly.com/wp-content/uploads/2024/02/Sen.-Street-.jpg",
-"https://facebook.com/AmenForPhilly",
-"https://instagram.com/amenforphilly",
-"https://secure.actblue.com/donate/amen4philly",
-"https://twitter.com/AmenForPhilly"
+{
+"text": "ABOUT AMEN",
+"href": "https://amenforphilly.com/meet-amen/"
+},
+{
+"text": "Donate here",
+"href": "https://secure.actblue.com/donate/amen4philly"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://amenforphilly.com/endorsements/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://amenforphilly.com/volunteer/"
+},
+{
+"text": "HOME",
+"href": "https://amenforphilly.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://amenforphilly.com/issues/"
+},
+{
+"text": "MEDIA",
+"href": "https://amenforphilly.com/in-the-news/"
+},
+{
+"text": "[image: Amen Brown][image: Amen Brown][image: Amen Brown][image: Amen Brown]",
+"href": "https://amenforphilly.com"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Ahmad.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Councilmember-Jones.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Evans2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Harrity.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Bellmon.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Bizzaro.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Bradford-.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Burgos.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Cephas.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Giral.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Harris.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-McClinton.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Rep.-Young.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Sen.-Hughes.jpg"
+},
+{
+"text": "[image]",
+"href": "https://amenforphilly.com/wp-content/uploads/2024/02/Sen.-Street-.jpg"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/AmenForPhilly/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amenforphilly/"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://twitter.com/AmenForPhilly%20"
+},
+{
+"text": "citizensforamenbrown@gmail.com",
+"href": "mailto:citizensforamenbrown@gmail.com"
+}
 ]

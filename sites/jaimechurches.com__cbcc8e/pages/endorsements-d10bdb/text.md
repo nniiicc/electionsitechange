@@ -1,22 +1,7 @@
-Endorsements
-Endorsements
-AFT Michigan
-The States Project
-Progressive Turnout Project
-Sierra Club of Michigan
-2026 Local Endorsements
-Darrin Camilleri State Senator
-Stephanie Chang State Senator
-James Budny Former Grosse Ile Supervisor
-Ute O’Connor Former Grosse Ile Clerk
-Carl Bloetscher Former Grosse Ile Trustee
-Steve Rzeppa Mayor of Trenton
-Emily Hornbeck Trenton City Council Member
-Priscilla Ayres-Reiss Southgate Council Member
-Ed Gawlik Jr.
-Southgate City Council Member
-Phillip Rauch Southgate Council Member
-Adriana Cerulla Wyandotte City Council Member
-Chris Calvin Wyandotte Council Member
-Stand with us.
+0 Skip to Content About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Back Donate Now Endorsements Endorsements AFT Michigan The States Project Progressive Turnout Project Sierra Club of Michigan 2026 Local Endorsements Darrin Camilleri State Senator Stephanie Chang State Senator James Budny Former Grosse Ile Supervisor Ute O’Connor Former Grosse Ile Clerk Carl Bloetscher Former Grosse Ile Trustee Steve Rzeppa Mayor of Trenton Emily Hornbeck Trenton City Council Member Priscilla Ayres-Reiss Southgate Council Member Ed Gawlik Jr.
+Southgate City Council Member Phillip Rauch Southgate Council Member Adriana Cerulla Wyandotte City Council Member Chris Calvin Wyandotte Council Member Stand with us.
 Help us make a difference for Downriver families.
+Donate.
+About ‍ ‍ Contact ‍ ‍ Subscribe ‍ ‍ Volunteer ‍ ‍ Donate‍ ‍ Paid for by Friends of Jaime Churches | info@jaimechurches.com | PO Box 23 Grosse Ile, MI 48138 | Political donations are not tax exempt.
+Friends of Jaime Churches upholds stringent privacy standards, guaranteeing that the personal information of our users and members remains confidential and is never sold, rented out, disclosed, or exchanged with any third parties unless explicitly authorized by the user or required by law.
+Contact us at: jaime@jaimechurches.com

@@ -1,37 +1,230 @@
 [
-"http://elisabin.com/schools",
-"http://instagram.com/eli_sabin",
-"http://twitter.com/eli_sabin",
-"https://ctmirror.org/2026/07/20/we-need-more-urgency-to-bring-down-the-cost-of-living",
-"https://elisabin.com/",
-"https://elisabin.com/copy-of-priorities",
-"https://elisabin.com/endorsements",
-"https://elisabin.com/in-the-news",
-"https://elisabin.com/my-story",
-"https://elisabin.com/priorities",
-"https://elisabin.com/privacy-policy",
-"https://elisabin.com/record",
-"https://elisabin.com/vote",
-"https://facebook.com/EliSabinfornewhaven",
-"https://mobilize.us/elisabin?end_date=2026-08-12T03%3A59%3A59.999Z&start_date=2026-06-25T04%3A00%3A00.000Z",
-"https://newhavenindependent.org/2026/02/03/sabin-sees-lane-for-change",
-"https://newhavenindependent.org/2026/03/12/sabin-campaign-walks-the-hill",
-"https://newhavenindependent.org/2026/04/17/sabin-hears-housing-stress-on-edgewood-doors",
-"https://newhavenindependent.org/2026/04/20/sabin-wins-ward-26-endorsement",
-"https://newhavenindependent.org/2026/05/28/sabin-supporters-sign-petitions-in-the-park",
-"https://newhavenindependent.org/2026/06/23/elicker-endorses-sabin",
-"https://newhavenindependent.org/2026/06/30/sabin-pitches-condo-conversions-just-cause-protections-to-lower-cost-of-living",
-"https://newhavenindependent.org/2026/06/30/state-rep-candidates-tackle-school-housing-barriers",
-"https://newhavenindependent.org/2026/07/14/92nd-district-debate-scheduled-questions-wanted",
-"https://newhavenindependent.org/2026/07/21/sabin-pitches-street-safety-measures-to-voters",
-"https://newhavenindependent.org/2026/07/29/92nd-district-debate-tackles-experience-vs-change",
-"https://newhavenindependent.org/2026/07/29/candidates-blunt-on-cannabiz-letdowns",
-"https://newhavenindependent.org/2026/07/29/more-school-funding-yes-and",
-"https://newhavenindependent.org/2026/08/03/sabin-pitches-10m-constitutional-rights-defense-fund",
-"https://newhavenindependent.org/2026/08/07/opinion-a-vision-for-our-public-schools",
-"https://newhavenindependent.org/2026/08/07/opinion-why-im-running-for-state-rep",
-"https://newhavenindependent.org/2026/08/10/sabin-touts-support-from-31-dem-ward-committee-members",
-"https://nhregister.com/news/article/new-haven-elicker-endorses-sabin-ct-representative-22317457.php",
-"https://tiktok.com/@eli.sabin",
-"https://wtnh.com/news/elections/3-way-race-shaping-up-for-new-haven-state-house-seat"
+{
+"text": "92nd District Debate Scheduled; Questions Wanted",
+"href": "https://www.newhavenindependent.org/2026/07/14/92nd-district-debate-scheduled-questions-wanted/"
+},
+{
+"text": "92nd District Debate Tackles Experience Vs. Change",
+"href": "https://www.newhavenindependent.org/2026/07/29/92nd-district-debate-tackles-experience-vs-change/"
+},
+{
+"text": "Candidates Blunt On Cannabiz Letdowns",
+"href": "https://www.newhavenindependent.org/2026/07/29/candidates-blunt-on-cannabiz-letdowns/"
+},
+{
+"text": "Elicker Endorses Sabin",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elisabin.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.elisabin.com"
+},
+{
+"text": "In the News",
+"href": "https://www.elisabin.com/in-the-news"
+},
+{
+"text": "More School Funding? Yes, And...",
+"href": "https://www.newhavenindependent.org/2026/07/29/more-school-funding-yes-and/"
+},
+{
+"text": "My Story",
+"href": "https://www.elisabin.com/my-story"
+},
+{
+"text": "My Vision For Supporting Our Public Schools",
+"href": "http://elisabin.com/schools"
+},
+{
+"text": "New Haven House primary tests Democrats’ appetite for change",
+"href": "https://www.wtnh.com/news/elections/3-way-race-shaping-up-for-new-haven-state-house-seat/"
+},
+{
+"text": "New Haven Mayor Justin Elicker breaks from city Democrats, endorses Sabin for state representative",
+"href": "https://www.nhregister.com/news/article/new-haven-elicker-endorses-sabin-ct-representative-22317457.php"
+},
+{
+"text": "Opinion: A Vision For Our Public Schools",
+"href": "https://www.newhavenindependent.org/2026/08/07/opinion-a-vision-for-our-public-schools/"
+},
+{
+"text": "Opinion: I've knocked on 4,000 doors. We need more urgency to bring down the cost of living",
+"href": "https://ctmirror.org/2026/07/20/we-need-more-urgency-to-bring-down-the-cost-of-living/"
+},
+{
+"text": "Opinion: Why I'm Running for State Rep",
+"href": "https://www.newhavenindependent.org/2026/08/07/opinion-why-im-running-for-state-rep/"
+},
+{
+"text": "Priorities",
+"href": "https://www.elisabin.com/priorities"
+},
+{
+"text": "Read my recent plans here",
+"href": "https://www.elisabin.com/copy-of-priorities"
+},
+{
+"text": "Record",
+"href": "https://www.elisabin.com/record"
+},
+{
+"text": "Sabin Campaign Walks The Hill",
+"href": "https://www.newhavenindependent.org/2026/03/12/sabin-campaign-walks-the-hill/"
+},
+{
+"text": "Sabin Hears Housing Stress On Edgewood Doors",
+"href": "https://www.newhavenindependent.org/2026/04/17/sabin-hears-housing-stress-on-edgewood-doors/"
+},
+{
+"text": "Sabin Pitches \"Parking Cash-Out,\" Traffic Calming on Transpo Policy Walk",
+"href": "https://www.newhavenindependent.org/2026/07/21/sabin-pitches-street-safety-measures-to-voters/"
+},
+{
+"text": "Sabin Pitches $10M \"Constitutional Rights Defense Fund\"",
+"href": "https://www.newhavenindependent.org/2026/08/03/sabin-pitches-10m-constitutional-rights-defense-fund/"
+},
+{
+"text": "Sabin Pitches Condo Conversions, \"Just Cause Protections to Lower Cost of Living",
+"href": "https://www.newhavenindependent.org/2026/06/30/sabin-pitches-condo-conversions-just-cause-protections-to-lower-cost-of-living/"
+},
+{
+"text": "Sabin Sees Lane For Change",
+"href": "https://www.newhavenindependent.org/2026/02/03/sabin-sees-lane-for-change/"
+},
+{
+"text": "Sabin Supporters Sign Petitions In The Park",
+"href": "https://www.newhavenindependent.org/2026/05/28/sabin-supporters-sign-petitions-in-the-park/"
+},
+{
+"text": "Sabin Touts Support From 30 Dem Ward Committee Members",
+"href": "https://www.newhavenindependent.org/2026/08/10/sabin-touts-support-from-31-dem-ward-committee-members/"
+},
+{
+"text": "Sabin Wins Ward 26 Endorsement",
+"href": "https://www.newhavenindependent.org/2026/04/20/sabin-wins-ward-26-endorsement/"
+},
+{
+"text": "State Rep Candidates Tackle School, Housing Barriers",
+"href": "https://www.newhavenindependent.org/2026/06/30/state-rep-candidates-tackle-school-housing-barriers/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mobilize.us/elisabin/?end_date=%23T03%3A59%3A59.999Z&start_date=%23T04%3A00%3A00.000Z"
+},
+{
+"text": "Vote for Eli",
+"href": "https://www.elisabin.com/vote"
+},
+{
+"text": "[image: Elicker Endorsement NHI2 (2)_edited.jpg]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: Elicker NHR 2_edited_edited.png]",
+"href": "https://www.nhregister.com/news/article/new-haven-elicker-endorses-sabin-ct-representative-22317457.php"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/EliSabinfornewhaven"
+},
+{
+"text": "[image: Instagram - White Circle]",
+"href": "http://instagram.com/eli_sabin"
+},
+{
+"text": "[image: News Articles (4).png]",
+"href": "https://www.newhavenindependent.org/2026/05/28/sabin-supporters-sign-petitions-in-the-park/"
+},
+{
+"text": "[image: News Articles-10.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-13.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-14.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-2.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-3.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-4.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-5.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-7.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-8.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles-9.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: News Articles.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: Screenshot 2026-08-07 at 2.50.46 PM.png]",
+"href": "https://www.newhavenindependent.org/2026/06/23/elicker-endorses-sabin/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@eli.sabin"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "http://twitter.com/eli_sabin"
+},
+{
+"text": "[image: WTNH (1).png]",
+"href": "https://www.newhavenindependent.org/2026/02/03/sabin-sees-lane-for-change/"
+},
+{
+"text": "[image: WTNH.png]",
+"href": "https://www.wtnh.com/news/elections/3-way-race-shaping-up-for-new-haven-state-house-seat/"
+},
+{
+"text": "[image: Ward 26.png]",
+"href": "https://www.newhavenindependent.org/2026/04/20/sabin-wins-ward-26-endorsement/"
+},
+{
+"text": "[image]",
+"href": "https://www.newhavenindependent.org/2026/03/12/sabin-campaign-walks-the-hill/"
+},
+{
+"text": "[image]",
+"href": "https://www.newhavenindependent.org/2026/04/17/sabin-hears-housing-stress-on-edgewood-doors/"
+},
+{
+"text": "[no text]",
+"href": "https://www.elisabin.com"
+},
+{
+"text": "eli@elisabin.com",
+"href": "mailto:eli@elisabin.com"
+},
+{
+"text": "here",
+"href": "https://www.elisabin.com/privacy-policy"
+}
 ]

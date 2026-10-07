@@ -1,34 +1,134 @@
 [
-"http://michigandems.com/volunteer",
-"https://bsky.app/profile/jocelynbenson",
-"https://designedtorun.com/",
-"https://facebook.com/bensonformichigan",
-"https://flickr.com/bensonforgovernor",
-"https://instagram.com/jocelynbenson",
-"https://jocelynbenson.com/",
-"https://jocelynbenson.com/MeetJocelyn",
-"https://jocelynbenson.com/cdn-cgi/l/email-protection",
-"https://jocelynbenson.com/issues",
-"https://jocelynbenson.com/news",
-"https://jocelynbenson.com/news/jocelyn-benson-joins-seiu-homecare-nurse-on-the-job-shares-plan-to-raise-homecare-wages",
-"https://jocelynbenson.com/news/new-ad-jocelyn-benson-vows-to-fight-for-affordable-healthcare-and-put-patients-first",
-"https://jocelynbenson.com/news/watch-jocelyn-benson-slams-john-james-for-6400-tariff-tax-on-michigan",
-"https://jocelynbenson.com/privacy-policy",
-"https://michigan.gov/sos/elections/voting/register-to-vote",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/benson-web",
-"https://secure.actblue.com/donate/benson-web?amount=10",
-"https://secure.actblue.com/donate/benson-web?amount=100",
-"https://secure.actblue.com/donate/benson-web?amount=25",
-"https://secure.actblue.com/donate/benson-web?amount=250",
-"https://secure.actblue.com/donate/benson-web?amount=50",
-"https://store.jocelynbenson.com/",
-"https://threads.net/@jocelynbenson",
-"https://tiktok.com/@jocelynbensonhq",
-"https://us.list-manage.com/GHlcYjY30O3?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7",
-"https://us.list-manage.com/JsdK27f3UQn?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7",
-"https://us.list-manage.com/iseqVdsdj3f?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7",
-"https://x.com/JocelynBenson",
-"https://youtube.com/@BensonforGovernor"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/benson-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/benson-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/benson-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/benson-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/benson-web?amount=50"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/benson-web"
+},
+{
+"text": "Early voting locations",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+},
+{
+"text": "Helping Patients",
+"href": "https://us.list-manage.com/GHlcYjY30O3?e=486aa7a2e0&c2id=c02a5449d7dc1fffaf207242f3f645e7"
+},
+{
+"text": "Issues",
+"href": "https://www.jocelynbenson.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.jocelynbenson.com/MeetJocelyn"
+},
+{
+"text": "Meet Jocelyn",
+"href": "https://www.jocelynbenson.com/MeetJocelyn"
+},
+{
+"text": "News",
+"href": "https://www.jocelynbenson.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/benson-web"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.jocelynbenson.com/news/jocelyn-benson-joins-seiu-homecare-nurse-on-the-job-shares-plan-to-raise-homecare-wages"
+},
+{
+"text": "Read more",
+"href": "https://www.jocelynbenson.com/news/jocelyn-benson-wins-first-gubernatorial-debate-on-wood-tv"
+},
+{
+"text": "Read more",
+"href": "https://www.jocelynbenson.com/news/new-ad-jocelyn-benson-vows-to-fight-for-affordable-healthcare-and-put-patients-first"
+},
+{
+"text": "Register to vote",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "Store",
+"href": "https://store.jocelynbenson.com/"
+},
+{
+"text": "Volunteer",
+"href": "http://michigandems.com/volunteer"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@jocelynbenson.com"
+},
+{
+"text": "[image: Jocelyn Benson for Governor]",
+"href": "https://www.jocelynbenson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jocelynbenson"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bensonformichigan"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/bensonforgovernor"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jocelynbenson"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jocelynbenson"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@jocelynbensonhq"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BensonforGovernor"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JocelynBenson"
+},
+{
+"text": "https://www.jocelynbenson.com/privacy-policy",
+"href": "https://www.jocelynbenson.com/privacy-policy"
+}
 ]

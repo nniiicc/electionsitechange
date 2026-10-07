@@ -1,12 +1,42 @@
 [
-"https://votetarnas.com/",
-"https://votetarnas.com/achievements.html",
-"https://votetarnas.com/economy.html",
-"https://votetarnas.com/education.html",
-"https://votetarnas.com/environment.html",
-"https://votetarnas.com/leadership.html",
-"https://votetarnas.com/liberty-and-justice.html",
-"https://votetarnas.com/my-story.html",
-"https://votetarnas.com/news.html",
-"https://votetarnas.com/values.html"
+{
+"text": "Build a Sustainable Economy",
+"href": "https://www.votetarnas.com/economy.html"
+},
+{
+"text": "Community Values",
+"href": "https://www.votetarnas.com/values.html"
+},
+{
+"text": "Home",
+"href": "https://www.votetarnas.com/"
+},
+{
+"text": "Leadership with Ethics",
+"href": "https://www.votetarnas.com/leadership.html"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://www.votetarnas.com/achievements.html"
+},
+{
+"text": "Liberty and Justice for All",
+"href": "https://www.votetarnas.com/liberty-and-justice.html"
+},
+{
+"text": "My Story",
+"href": "https://www.votetarnas.com/my-story.html"
+},
+{
+"text": "News",
+"href": "https://www.votetarnas.com/news.html"
+},
+{
+"text": "Protect the Environment",
+"href": "https://www.votetarnas.com/environment.html"
+},
+{
+"text": "Strengthen Public Education",
+"href": "https://www.votetarnas.com/education.html"
+}
 ]

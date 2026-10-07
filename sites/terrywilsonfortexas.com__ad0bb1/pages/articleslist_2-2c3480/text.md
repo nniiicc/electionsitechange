@@ -1,5 +1,4 @@
-Report from weeks 6 and 7 of the 85th Legislature
-On Tuesday, Feb 21st 2017 I had the pleasure of presenting my first resolution on the floor of the House of Representatives honoring the town of Buckholts for the excellent example they set over the past year, but to tell the full story I have to go back to my very first day as a State Representative.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements February 23, 2017 Jeff Frazier Sit-Rep #2 - Buckholts ISD February 23, 2017 Jeff Frazier Report from weeks 6 and 7 of the 85th Legislature On Tuesday, Feb 21st 2017 I had the pleasure of presenting my first resolution on the floor of the House of Representatives honoring the town of Buckholts for the excellent example they set over the past year, but to tell the full story I have to go back to my very first day as a State Representative.
 As you may remember from my last report, on the opening day of the 85th Legislature friends and supporters from across House District 20 had packed into my new office to show their support and to help celebrate my grandfather’s 90th birthday.
 Just as I returned to my office from the swearing in, however, I received a phone call from Mike Morath, the Texas Education Commissioner, letting me know that after four consecutive years of poor performance, the Texas Education Agency (TEA) would be closing Buckholts ISD.
 Buckholts ISD has served the small rural town for almost 130 years.
@@ -24,3 +23,15 @@ He called me back that afternoon to tell me he and his staff agreed, and would g
 We are blessed to have a man like Commissioner Morath heading up TEA, his brand of leadership should be an example to all of us.
 Buckholts also showed me that penalties the legislature places on small school districts, hoping to force consolidation, have outlived their purpose.
 Schools have consolidated as much as they can, and it’s time to end that penalty so districts like Buckholts can better serve their community.
+February 23, 2017 Jeff Frazier Jeff Frazier Sit-Rep #3 - Committees, Bills, and Coalitions Sit-Rep #1 - Opening Day Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

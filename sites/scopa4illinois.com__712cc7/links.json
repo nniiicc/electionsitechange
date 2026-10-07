@@ -1,8 +1,38 @@
 [
-"https://scopaforillinois.com/district",
-"https://scopaforillinois.com/issues",
-"https://scopaforillinois.com/meet-candidate",
-"https://scopaforillinois.com/privacy-policy",
-"https://scopaforillinois.com/terms-of-service",
-"https://secure.anedot.com/scopaforillinois/brian-scopa-for-illinois"
+{
+"text": "Call",
+"href": "tel:"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/scopaforillinois/brian-scopa-for-illinois"
+},
+{
+"text": "Email",
+"href": "mailto:"
+},
+{
+"text": "IL-84",
+"href": "https://scopaforillinois.com/district"
+},
+{
+"text": "Issues",
+"href": "https://scopaforillinois.com/issues"
+},
+{
+"text": "Meet",
+"href": "https://scopaforillinois.com/meet-candidate"
+},
+{
+"text": "Meet Brian",
+"href": "https://scopaforillinois.com/meet-candidate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scopaforillinois.com/privacy-policy"
+},
+{
+"text": "Terms",
+"href": "https://scopaforillinois.com/terms-of-service"
+}
 ]

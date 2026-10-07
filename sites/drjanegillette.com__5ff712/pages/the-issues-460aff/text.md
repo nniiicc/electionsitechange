@@ -1,5 +1,4 @@
-THE ISSUES
-Defending the Constitution and Personal Liberties: As a student of the Constitution, and a defender of our liberties, Dr.
+Home About The Issues Volunteer Contact The Boring Stuff Contribute Home About The Issues Volunteer Contact The Boring Stuff Contribute THE ISSUES Defending the Constitution and Personal Liberties: As a student of the Constitution, and a defender of our liberties, Dr.
 Jane has diligently fought for our First and Second Amendment rights, parental rights in education, property rights, and the right to life.
 Dr.
 Jane has championed and passed many pieces legislation which support our freedoms, including bills which promote adoption over abortion and protect our right to bear arms.
@@ -22,7 +21,7 @@ Dr.
 Jane is committed to passing state-level laws that remove illegal aliens, protect legal Montana citizens, and crack down on illegal drugs in our state.
 Dr.
 Jane believes Montana jobs are for Montanans, our healthcare resources are for American citizens, and our schools must prioritize serving American children and teaching American values – not villainizing our children based on their heritage and skin color.
-Improving Healthcare Affordability and Quality: Dr.
+I mproving Healthcare Affordability and Quality: Dr.
 Jane has been a crusader for quality, accessible healthcare and individual medical freedom.
 With her expertise, she will continue the fight for top-notch healthcare, while reducing costs and safeguarding critical access to services for all Montanans.
 Montanans deserve healthcare transparency, coupled with increased competition, innovation, and more patient engagement and rights in their care.
@@ -36,3 +35,9 @@ Jane enjoys her time spent outside in the beautiful area we live in.
 She understands the importance of keeping rivers and lands open to all Montanans and is proud to stand with sportsmen, hikers, hunters, and public land users of all kinds in maintaining and increasing public access for generations to come.
 Please feel free to reach out to Dr.
 Jane at any time with any questions or concerns.
+Contact Dr.
+Jane Join our Mailing List Stay Informed on Re-Election Campaign Activities Required field!
+Submit Re-Elect Dr.
+Jane Gillette Home About Issues Volunteer Contribute Paid for by: Dr.
+Jane Gillette for Montana - REPUBLICAN 32 Riverview Road, Three Forks MT 59752 Powered by Poli-Site Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes View Details Quantity - + Sold Out

@@ -1,9 +1,34 @@
 [
-"https://mikerobertswi.com/",
-"https://mikerobertswi.com/about",
-"https://mikerobertswi.com/get-involved",
-"https://mikerobertswi.com/priorities",
-"https://mikerobertswi.com/privacy-policy",
-"https://mikerobertswi.com/sd5",
-"https://secure.winred.com/mike-roberts-for-state-senate/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-roberts-for-state-senate/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikerobertswi.com/get-involved"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.mikerobertswi.com/about"
+},
+{
+"text": "Meet Mike‍",
+"href": "https://www.mikerobertswi.com/about"
+},
+{
+"text": "Mike's Priorities",
+"href": "https://www.mikerobertswi.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikerobertswi.com/privacy-policy"
+},
+{
+"text": "Senate District 5",
+"href": "https://www.mikerobertswi.com/sd5"
+},
+{
+"text": "[image]",
+"href": "https://www.mikerobertswi.com/"
+}
 ]

@@ -1,9 +1,38 @@
 [
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/friends-of-jake-taylor/donate",
-"https://votejaketaylor.com/",
-"https://votejaketaylor.com/about",
-"https://votejaketaylor.com/contact",
-"https://votejaketaylor.com/issues"
+{
+"text": "About",
+"href": "https://votejaketaylor.com/about"
+},
+{
+"text": "Contact",
+"href": "https://votejaketaylor.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-jake-taylor/donate"
+},
+{
+"text": "Home",
+"href": "https://votejaketaylor.com/"
+},
+{
+"text": "Issues",
+"href": "https://votejaketaylor.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: votejaketaylor.com]",
+"href": "https://votejaketaylor.com/"
+},
+{
+"text": "votejaketaylor@gmail.com",
+"href": "mailto:votejaketaylor@gmail.com"
+}
 ]

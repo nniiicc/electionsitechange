@@ -1,17 +1,86 @@
 [
-"https://assembly.state.ny.us/mem/George-Alvarez",
-"https://designedtorun.com/",
-"https://facebook.com/galvarezny",
-"https://georgealvarez.org/",
-"https://georgealvarez.org/about",
-"https://georgealvarez.org/contact",
-"https://georgealvarez.org/endorsements",
-"https://georgealvarez.org/events",
-"https://georgealvarez.org/issues",
-"https://georgealvarez.org/news",
-"https://georgealvarez.org/volunteer",
-"https://instagram.com/galvareznyc",
-"https://norwoodnews.org/alvarez-announces-3m-capital-funding-for-keith-plaza-50k-for-kelly-towers-senior-center",
-"https://secure.actblue.com/donate/galvareznyc",
-"https://x.com/galvareznyc"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "About",
+"href": "https://www.georgealvarez.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.georgealvarez.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.georgealvarez.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.georgealvarez.org/events"
+},
+{
+"text": "Issues",
+"href": "https://www.georgealvarez.org/issues"
+},
+{
+"text": "Learn more",
+"href": "https://assembly.state.ny.us/mem/George-Alvarez"
+},
+{
+"text": "News",
+"href": "https://www.georgealvarez.org/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View More",
+"href": "https://www.norwoodnews.org/alvarez-announces-3m-capital-funding-for-keith-plaza-50k-for-kelly-towers-senior-center/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.georgealvarez.org/volunteer"
+},
+{
+"text": "[image: George Alvarez | New York State Assemblymember | District 78]",
+"href": "https://www.georgealvarez.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/galvarezny"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/galvareznyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/galvareznyc"
+}
 ]

@@ -1,12 +1,46 @@
 [
-"http://facebook.com/replorenagarcia",
-"http://instagram.com/RepLorenaGarciaHD35",
-"https://drive.google.com/file/d/1jzLvFcrDryhhs9ZkT_UXkQM_0LiiYZfq/view",
-"https://lorenaforcolorado.com/",
-"https://lorenaforcolorado.com/about",
-"https://lorenaforcolorado.com/contact",
-"https://lorenaforcolorado.com/issues",
-"https://lorenaforcolorado.com/read",
-"https://mailchi.mp/63d59aac4f74/signmeup",
-"https://secure.actblue.com/donate/lorenaforcolorado2026"
+{
+"text": "About",
+"href": "https://lorenaforcolorado.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://lorenaforcolorado.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lorenaforcolorado2026"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/replorenagarcia/"
+},
+{
+"text": "Home",
+"href": "https://lorenaforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/RepLorenaGarciaHD35/"
+},
+{
+"text": "Issues",
+"href": "https://lorenaforcolorado.com/issues/"
+},
+{
+"text": "Pollution Reduction Roadmap",
+"href": "https://drive.google.com/file/d/1jzLvFcrDryhhs9ZkT_UXkQM_0LiiYZfq/view"
+},
+{
+"text": "Read",
+"href": "https://lorenaforcolorado.com/read/"
+},
+{
+"text": "Subscribe",
+"href": "https://mailchi.mp/63d59aac4f74/signmeup"
+},
+{
+"text": "[image: Lorena For Colorado]",
+"href": "https://lorenaforcolorado.com/"
+}
 ]

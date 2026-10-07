@@ -1,10 +1,2 @@
-Endorsements
-President Donald J.
-Trump
-Senator Ted Cruz
-Governor Greg Abbott
-Cattle Raisers PAC
-Texas Oil & Gas Association Good Government Committee
-Texas Farm Bureau AgFund
-Rural Friends of Electric Cooperatives
-Texas Association of Realtors – TREPAC
+Skip to content Skip to footer Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter donate Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter donate Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter Endorsements President Donald J.
+Trump Senator Ted Cruz Governor Greg Abbott Cattle Raisers PAC Texas Oil & Gas Association Good Government Committee Texas Farm Bureau AgFund Rural Friends of Electric Cooperatives Texas Association of Realtors – TREPAC Contact Trey at trey@whartonfortexas.com or (936) 661-5863 Campaign Address: PO Box 1242 Huntsville TX 77342 pd pol ad • Trey Wharton Campaign Privacy Policy

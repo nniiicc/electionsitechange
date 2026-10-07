@@ -1,4 +1,3 @@
-David Clayton believes in
-Zero Kings Act
-Our nation has checks and balances for a reason.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in Zero Kings Act Our nation has checks and balances for a reason.
 No one is above the law regardless of political party.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

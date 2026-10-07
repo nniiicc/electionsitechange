@@ -1,4 +1,4 @@
-Published in: News Gov.
+Skip links Skip to primary navigation Skip to content Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Donate Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Donate Published in: News Gov.
 Abbott Declares Victory for School Choice Following Electoral Gains Author Texas Scorecard Published on: May 29, 2024 Gov.
-Abbott Declares Victory for School Choice Following Electoral Gains
-2 years ago News Hallettsville Residents Encourage Council To Adopt ‘Sanctuary for the Unborn’ Ordinance
+Abbott Declares Victory for School Choice Following Electoral Gains Share On Previous Article Previous Article The Paxton Speech That Inspires Run-off Voters Next Article Next Article GOP Runoff Victors Secure Open Texas House Seats You may also like #ago News House Votes To Crack Down on Bail for Violent Criminals #ago News Hallettsville Residents Encourage Council To Adopt ‘Sanctuary for the Unborn’ Ordinance Facebook-f Meet AJ Issues Accomplishments Constitutional Amendments Endorsements News Get Involved Capital Contact: PO BOX 2910 Austin TX 76768-2910 512-463-0456 District Contact: PO BOX 1792 Victoria TX 77902 361-582-9712 Texas House of Representatives Website Pol.
+Ad Paid for by AJ Louderback Campaign Home Account Cart Search Adding {{itemName}} to cart Added {{itemName}} to cart Loading... ×

@@ -1,5 +1,1 @@
-D19 Precinct Captain Monthly Meeting
-- Date: 1st Wednesday
-- Time: 5:30 – 6:30 PM
-- Location: Cobby’s – Garden City Location
-- Address: 4348 W Chinden Blvd, Garden City
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE D19 Precinct Captain Monthly Meeting Date: 1st Wednesday Time: 5:30 – 6:30 PM Location: Cobby’s – Garden City Location Address: 4348 W Chinden Blvd, Garden City Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

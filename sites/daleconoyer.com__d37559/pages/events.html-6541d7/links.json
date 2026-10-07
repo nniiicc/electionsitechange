@@ -1,19 +1,82 @@
 [
-"https://daleconoyer.com/about.html",
-"https://daleconoyer.com/assets/img/Conoyer-birthday-rally-back.png",
-"https://daleconoyer.com/assets/img/Conoyer-birthday-rally-front.png",
-"https://daleconoyer.com/assets/img/bbq-rally.png",
-"https://daleconoyer.com/contact.html",
-"https://daleconoyer.com/donate.html",
-"https://daleconoyer.com/endorsements.html",
-"https://daleconoyer.com/events.html",
-"https://daleconoyer.com/index.html",
-"https://daleconoyer.com/priorities.html",
-"https://daleconoyer.com/volunteer.html",
-"https://facebook.com/profile.php?id=61584411707441",
-"https://instagram.com/conoyerformo",
-"https://secure.actblue.com/donate/conoyerformo",
-"https://secure.actblue.com/donate/lfmmerch",
-"https://tiktok.com/@conoyerformo",
-"https://x.com/ConoyerForMO"
+{
+"text": "Contact",
+"href": "https://daleconoyer.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://daleconoyer.com/donate.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/conoyerformo"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://daleconoyer.com/donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://daleconoyer.com/endorsements.html"
+},
+{
+"text": "Events",
+"href": "https://daleconoyer.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61584411707441"
+},
+{
+"text": "Home",
+"href": "https://daleconoyer.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/conoyerformo/"
+},
+{
+"text": "Meet Dale",
+"href": "https://daleconoyer.com/about.html"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/lfmmerch"
+},
+{
+"text": "Priorities",
+"href": "https://daleconoyer.com/priorities.html"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@conoyerformo"
+},
+{
+"text": "View the full flyer",
+"href": "https://daleconoyer.com/assets/img/Conoyer-birthday-rally-back.png"
+},
+{
+"text": "Volunteer",
+"href": "https://daleconoyer.com/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://x.com/ConoyerForMO"
+},
+{
+"text": "[image: Dale Conoyer for Missouri House District 65]",
+"href": "https://daleconoyer.com/index.html"
+},
+{
+"text": "[image: Save the date: Dale Conoyer's Birthday Rally, September 18th at 5 PM, 1000 Lakeside Park, Saint Peters, MO, Sunset Pavilion]",
+"href": "https://daleconoyer.com/assets/img/Conoyer-birthday-rally-front.png"
+},
+{
+"text": "[image: You're invited — The Let's Fix Missouri Barbecue Rally, June 18, 1 Park Street, Saint Peters MO 63376, Pavilion A]",
+"href": "https://daleconoyer.com/assets/img/bbq-rally.png"
+},
+{
+"text": "[no text]",
+"href": "https://daleconoyer.com/index.html"
+}
 ]

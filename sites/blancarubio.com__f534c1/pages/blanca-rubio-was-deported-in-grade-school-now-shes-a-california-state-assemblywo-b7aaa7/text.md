@@ -1,3 +1,5 @@
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio In The News May 31, 2017 Blanca Rubio Was Deported in Grade School.
+Now She’s a California State Assemblywoman.
 The statistics aren’t good.
 According to recent estimates, women make up just under 20 percent of Congress and less than 25 percent of all state legislatures.
 Only six of our nation’s governors are women.
@@ -30,3 +32,5 @@ I was probably around six or seven.
 I had no idea what was going on.
 I just remember my dad saying, “Let’s pack up our things.
 We’re leaving.” We moved back around two years later.
+Search Search Recent Updates Early Child Mental Health Services Deliver Critical Help Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices Solving California’s housing crisis demands action.
+These steps will help Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California Once deported, the Rubios are the first sisters to serve in the California Legislature Post navigation Next: Baldwin Park elementary receives $5,000 grant to improve students’ digital skills Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

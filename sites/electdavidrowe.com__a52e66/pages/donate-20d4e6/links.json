@@ -1,8 +1,34 @@
 [
-"https://electdavidrowe.com/",
-"https://electdavidrowe.com/about",
-"https://electdavidrowe.com/donate",
-"https://electdavidrowe.com/issues",
-"https://electdavidrowe.com/mailin",
-"https://secure.squarespace.com/checkout/donate?donatePageId=5d1f9e5705782100012ea1c9&websiteId=5d1cb5ce0f2e7a00017acfbe"
+{
+"text": "About",
+"href": "https://www.electdavidrowe.com/about"
+},
+{
+"text": "Contribution Rules",
+"href": "mailto:info@heatherforpa.com"
+},
+{
+"text": "Donate",
+"href": "https://www.electdavidrowe.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electdavidrowe.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electdavidrowe.com/issues"
+},
+{
+"text": "Mail-In & Absentee",
+"href": "https://www.electdavidrowe.com/mailin"
+},
+{
+"text": "RSVP to October 2nd event",
+"href": "https://secure.squarespace.com/checkout/donate?donatePageId=5d1f9e5705782100012ea1c9&websiteId=5d1cb5ce0f2e7a00017acfbe"
+},
+{
+"text": "[image: David Rowe]",
+"href": "https://www.electdavidrowe.com/"
+}
 ]

@@ -1,10 +1,50 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://moyerforsd48.com/",
-"https://moyerforsd48.com/about",
-"https://moyerforsd48.com/accessibility-statement",
-"https://moyerforsd48.com/blog",
-"https://moyerforsd48.com/privacy-policy",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.moyerforsd48.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.moyerforsd48.com/accessibility-statement"
+},
+{
+"text": "Blog",
+"href": "https://www.moyerforsd48.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "Home",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.moyerforsd48.com/privacy-policy"
+},
+{
+"text": "Wayne Moyer",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "Wayne Moyer for SD48",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+},
+{
+"text": "info@mysite.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,6 +1,4 @@
-No more punishing taxpayers for Sacramento’s failures
-May 28, 2026
-Fraud and mismanagement aren’t isolated incidents in Gavin Newsom’s California, they have become systemic failures with real, painful consequences for our local families, small businesses, and farmers.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate No more punishing taxpayers for Sacramento’s failures May 28, 2026 Fraud and mismanagement aren’t isolated incidents in Gavin Newsom’s California, they have become systemic failures with real, painful consequences for our local families, small businesses, and farmers.
 During the pandemic, Sacramento took a disastrous “pay now, verify later” approach to unemployment.
 They threw out common sense safeguards and invited massive fraud on the taxpayer’s dime.
 The result?
@@ -12,10 +10,10 @@ Enough is enough.
 That is why I have officially introduced the Creating Accountability in Loan (CAL) Repayment Act.
 Here is a television story on the bill.
 Our bill is rooted in a simple principle: states must be held accountable for their financial negligence, and taxpayers should never be forced to bail out government incompetence.
-Specifically, the CAL Repayment Act will:
-- Force State Accountability: Require states with outstanding federal unemployment debt to use any flexible federal funding they receive to pay off that debt first before spending money on anything else.
-- Protect Small Businesses: Halt the unfair, compounding payroll tax increases on employers by forcing states to clear their balances.
-- Establish Strict Enforcement: Mandate that any state violating these rules must immediately repay the misused federal funds back to the treasury within five business days.
+Specifically, the CAL Repayment Act will: Force State Accountability: Require states with outstanding federal unemployment debt to use any flexible federal funding they receive to pay off that debt first before spending money on anything else.
+Protect Small Businesses: Halt the unfair, compounding payroll tax increases on employers by forcing states to clear their balances.
+Establish Strict Enforcement: Mandate that any state violating these rules must immediately repay the misused federal funds back to the treasury within five business days.
 We cannot allow Sacramento’s negligence to crush the businesses that keep the Central Valley’s economy moving.
 I recently took to the pages of the New York Post to publish an op-ed exposing this absolute disaster, calling out how California’s fraud has become a systemic failure under Gavin Newsom.
 Now, I am taking that exact fight directly to the House floor.
+Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

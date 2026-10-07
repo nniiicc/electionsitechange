@@ -1,15 +1,18 @@
-Progress today on getting witnesses to testify on two of my bills.
+Skip to content Get Sandy's Diary in your Email Δ Legislative Session Summary Header Link Voting Rights Act | My Legislative Diary My Key Issues: Sandy's Answers to candidate questionnaires Primary Menu Why I Run About Sandy Bills I’ve Introduced 2020 Session Summary Endorsements Contact Sandy Can I get a witness?
+February 19, 2024 | by delsandy | Uncategorized | Progress today on getting witnesses to testify on two of my bills.
 A Department of Social Services facility in Northwest Baltimore was closed last year.
 The notice to the affected community was inadequate.
 House Bill 1138 would require notice of a closure and, in some instances, a public meeting.
 I’ve been working with a religious leader on this issue, but he will be out of the country when my bill is heard.
 I’ve asked him if he knows people who were affected by the closure.
-I’ve also asked my Constituent Director, Jackie Greenfield, if she knows of anyone.
-—
-My SLAPP bill has passed the House several times but not the Senate.
+I’ve also asked my Constituent Director, Jackie Greenfield, if she knows of anyone. — My SLAPP bill has passed the House several times but not the Senate.
 It would make it more difficult to file a frivolous lawsuit to intimidate someone exercising their First Amendment rights.
 Since the Senate committee has heard the bill before, the hearing is limited to the bill’s sponsor and only two witnesses from the public.
 A survivor of domestic violence has contacted me.
 She has written two published articles about her abuse.
 She has been legally threatened for her writing by her abuser.
 We can’t add her to the witness list for the hearing, but we will try to arrange for her to meet with committee members whose votes we need and can get.
+Tags: SLAPP suit Post navigation Digital and Opioid Risks Who should serve on the Hate Crimes Commission?
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ My Key Issues: Archives Archives Select Month February 2024 January 2024 August 2023 July 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 November 2018 October 2018 September 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 February 2014 January 2014 November 2013 October 2013 September 2013 August 2013 July 2013 May 2013 April 2013 March 2013 February 2013 January 2013 December 2012 November 2012 October 2012 September 2012 August 2012 July 2012 June 2012 May 2012 April 2012 March 2012 February 2012 January 2012 December 2011 November 2011 October 2011 August 2011 July 2011 May 2011 April 2011 March 2011 February 2011 January 2011 December 2010 November 2010 October 2010 August 2010 July 2010 April 2010 March 2010 February 2010 January 2010 July 2009 April 2009 March 2009 February 2009 January 2009 Categories Categories Select Category featured Sandy’s 2011 Legislative Diary Sandy’s 2012 Legislative Diary Sandy’s 2013 Legislative Diary Sandy’s 2014 Legislative Diary Sandy’s 2015 Legislative Diary Sandy’s 2016 Legis;ative Diary Sandy’s 2016 Legislative Diary Sandy’s 2017 Legislative Diary Sandy’s 2018 Legislative Diary Sandy’s Campaign Diary 2018 Sandy’s Israel Diary – June 2012 Sandy’s Legislative Diary Sandy’s Israel Diary Uncategorized Search for: Are You in the 41st District? © #.
+Authority: Citizens for Sandy Rosenberg, Jean Fugett, Jr., Treasurer Contact Sandy |

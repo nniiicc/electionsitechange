@@ -1,4 +1,4 @@
-A Little About Me!
+0 Skip to Content About Volunteer Contribute Contact Contribute Open Menu Close Menu About Volunteer Contribute Contact Contribute Open Menu Close Menu About Volunteer Contribute Contact Contribute A Little About Me!
 I consider myself to be a native Charlottean, having moved to North Carolina from Illinois with my family when I was three years old.
 I grew up on the east side of Charlotte, and graduated from Garinger High School before completing college at Appalachian State University followed by nursing school at Central Piedmont Community College.
 As a nurse, I cared for members of our community on the wards, in the Intensive Care Unit, the emergency department, and the trauma unit.
@@ -27,3 +27,4 @@ So I said yes!
 Am I excited about this opportunity to serve, Yes I Am!
 I am enthusiastic about the North Carolina Democratic Party and I am ready to do the work of representing you in the General Assembly to the best of my ability.
 Thank you for your trust and your belief in a better tomorrow for all North Carolinians.
+Julia Greenfield 4 NC JuliaG4NC@icloud.com

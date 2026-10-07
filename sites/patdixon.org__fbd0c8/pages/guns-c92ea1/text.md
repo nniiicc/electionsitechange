@@ -1,4 +1,6 @@
-Texans have both a constitutional right to keep and bear arms and a legitimate expectation that their families will be safe.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Uncategorized Guns Guns patdixon July 30, 2026 July 30, 2026 Uncategorized Texans have both a constitutional right to keep and bear arms and a legitimate expectation that their families will be safe.
 A governor has a responsibility to protect both liberty and public safety without sacrificing either.
 On May 30, 2018, in the aftermath of the Santa Fe High School shooting, Greg Abbott asked legislative leaders to consider the merits of a “red flag” law that would allow a court to temporarily remove firearms from someone deemed dangerous.
 In 2019, following the mass shootings Odessa and the Walmart in El Paso, Abbott focused instead on measures such as improving threat reporting, mental health responses, and information sharing.
@@ -13,8 +15,7 @@ Gun violence seems to be a daily occurrence in streets and neighborhoods.
 I recognize that when parents send their kids to school, they don’t want them murdered.
 The Uvalde school shooting is not that far removed from our experience.
 Would gun control have prevented it?
-The Uvalde case illustrated at least two problems that if they had not occurred might have mitigated the tragedy:
-- I used to be a basketball official.
+The Uvalde case illustrated at least two problems that if they had not occurred might have mitigated the tragedy: I used to be a basketball official.
 In all my experience, when I arrived at a school I had to go through a main entrance in the administrative building or the gymnasium where there were people to direct me to the locker room.
 I could not open other doors to the school because they were locked.
 In the case of Uvalde, a teacher had briefly propped open a side door to the school while carrying items from her car.
@@ -22,7 +23,7 @@ When she saw the gunman, she kicked the door shut and believed it had locked aut
 It did not.
 Had the exterior door locked as intended, the shooter would likely have encountered additional obstacles before entering the school.
 Investigators identified the unsecured door as one of several preventable failures that contributed to the tragedy.
-- When law enforcement responded, there was no clear command structure.
+When law enforcement responded, there was no clear command structure.
 Nobody really knew who the officer in command was.
 This meant the response was delayed and uncoordinated.
 Is it possible some lives could have been saved with a better response?
@@ -48,3 +49,11 @@ I know people who are.
 As governor of Texas, I would recognize that the governor is not king and cannot impose policy on the Legislature.
 The Legislature writes the laws, and the governor’s responsibility is to lead, advocate, sign or veto legislation, and faithfully execute the laws that are passed.
 As a Libertarian, I will be open minded while defending the rights of law-abiding Texans to defend themselves, hunt, compete, collect, and enjoy other peaceful uses of firearms while supporting policies that hold criminals accountable and protect innocent people.
+Bookmark .
+How to Return Taxes Texas Stance on Science Questionnaire 2 Comments Cat August 29, 2026 at 04:20 Even if guns were to be banned, it would only mean that criminals are armed while citizens are not.
+If someone wants to commit a violent crime with a gun, they’re going to do it regardless of the laws.
+However if a citizen wants to stop that armed criminal but the laws prevent them from having a gun, they will be unable to do it.
+There are numerous cases in which an armed criminal was stopped from causing harm by armed citizens.
+When a criminal wants to commit an armed crime, they’ll think twice if they know that every individual on site might also be armed and willing to defend those around them.
+Reply Pingback: Biblical Principles Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

@@ -1,4 +1,7 @@
-America’s immigration system is broken.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate Securing America’s Border Securing America’s Border America’s immigration system is broken.
 While our nation prides itself as being a nation of immigrants, we are also a nation of laws.
 Frank supports President Trump and believes we must do more to secure the Southern border and provide more resources to our law enforcement and border patrol officials to keep our communities safe.
-Immigration reform also means modernizing America’s outdated immigration policies- prioritizing high-skilled entrepreneurs and streamlining agricultural worker programs- helping create a legal workforce that will bolster the American economy
+Immigration reform also means modernizing America’s outdated immigration policies- prioritizing high-skilled entrepreneurs and streamlining agricultural worker programs- helping create a legal workforce that will bolster the American economy Post navigation Growing Our Economy Supporting Our Veterans Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

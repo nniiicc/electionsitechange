@@ -1,5 +1,4 @@
-Meet Murri
-My name is Amy “Murri” Briel—but you can call me Murri.
+Home Meet Murri Issues Accomplishments Get Involved DONATE Meet Murri My name is Amy “Murri” Briel—but you can call me Murri.
 I was proudly born and raised in the Illinois Valley to a caring family that taught me the value of hard work, community, and showing up for people who need it.
 My dad was a Korean War veteran and IBEW electrician who worked at Libbey Owens Ford for 40 years—and his commitment to labor went all the way back to his father’s close involvement in the AFL-CIO merger.
 He liked to boast I was his only child who wanted to walk a picket line before I was six.
@@ -11,4 +10,4 @@ From the moment I met my husband, I always knew we’d move back to the Valley.
 I ran for Congress in the 2018 primary for Illinois’ 16th District, and after an unsuccessful run, I didn’t walk away.
 I stayed active in the party and in my community, serving as a PC, joining the Illinois Democratic Women of Will, and working as a public strategy consultant for organizations like the Plainfield Public Library, Plainfield District 202 Teachers, Citizens for Responsible Transportation, and the Islamic Foundation of Southwest Suburbs.
 When my family and I moved back to the Valley, I went to work as Chief of Staff for Representative Lance Yednock—a role that gave me an even deeper understanding of our community’s challenges and potential.
-Serving our community has been an honor, and I’ll continue standing up for Illinois Valley families.
+Serving our community has been an honor, and I’ll continue standing up for Illinois Valley families. friendsformurribriel@gmail.com | PO Box 774, Ottawa, IL 61350 Privacy Policy | Terms and Conditions Follow Follow Follow Paid for by Friends for Murri Briel

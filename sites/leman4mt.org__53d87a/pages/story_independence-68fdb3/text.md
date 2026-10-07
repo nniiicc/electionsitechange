@@ -1,4 +1,4 @@
-Montanans are fiercely independent and take personal responsibility for their own lives.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Independence × Montanans are fiercely independent and take personal responsibility for their own lives.
 We don't want a government handout that breeds dependency; we want a hand up when needed, a level playing field, and the opportunity to succeed on our own merits.
 True independence means knowing your success belongs to you, not to a state program.
 Government shouldn't be in the business of picking winners and losers or creating a permanent maze of preferential subsidies that keeps people dependent on a bureaucrat's pen.
@@ -18,4 +18,6 @@ We need someone who'll fight to open doors of economic opportunity rather than e
 True independence means building a prosperous community where families and businesses can thrive on their own merits.
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

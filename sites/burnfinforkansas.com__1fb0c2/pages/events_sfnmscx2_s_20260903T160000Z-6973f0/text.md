@@ -1,10 +1,1 @@
-Phone Banking for New Voters
-Time
-Thursday, Sep 3, 2026
-4:00 PM – 6:30 PM
-About this event
-Add your event description here
-Location
-605 E Walnut St
-Garden City, KS 67846
-https://www.facebook.com/events/2132301867682603
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute Events / Phone Banking for New Voters Phone Banking for New Voters Time Thursday, Sep 3, 2026 4:00 PM – 6:30 PM Location 605 E Walnut St, Garden City, KS, 67846 https://www.facebook.com/events/2132301867682603 About this event Add your event description here Location 605 E Walnut St Garden City, KS 67846 https://www.facebook.com/events/2132301867682603 Get Driving Directions Add to calendar Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

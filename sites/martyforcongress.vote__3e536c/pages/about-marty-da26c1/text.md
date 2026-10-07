@@ -1,4 +1,4 @@
-Marty O’Donnell has taken the road less traveled to running for Congress.
+Sign Up Today: Marty's Old School Halo Tournament Close About Priorities Join Store Contact Yard Sign Donate Follow About Marty The road to Congress Marty O’Donnell has taken the road less traveled to running for Congress.
 He earned his Master of Music Degree in Composition with honors from USC in 1981.
 Then, a few months later, Marty started his first career by founding the Chicago-based commercial music and sound production company O’Donnell/Salvatori Inc.
 He wrote and produced numerous film scores and the iconic Flintstones Kids and Mr.
@@ -19,11 +19,18 @@ He was awarded GANG’s Lifetime Achievement Award in 2016.
 Marty is also co-founder and co-owner of Highwire Games.
 Their first title, Golem, an exclusive title for PlayStation VR, was released in 2019.
 He also composed and produced Echoes of the First Dreamer, the musical prequel to Golem.
-Marty, now retired, is a composer with time on his hands.
+More about Marty Marty, now retired, is a composer with time on his hands.
 He’s looking to bring sanity back to Congress, stopping the government from being an impediment to our families and more of a champion for them.
 Marty has been happily married since 1977 and has two daughters and three grandsons.
-Get Updates
-Stay Updated
-Paid for by Marty for Congress
-Help us build a grassroots movement for Nevada.
+Get Updates Email * HP Name Subscribe Stay Updated Paid for by Marty for Congress ©# Marty O'Donnell for Congress.
+All rights reserved Privacy Policy | Terms and Conditions Volunteer with Us Help us build a grassroots movement for Nevada.
 Fill out the form below to get started.
+Volunteer First Name Last Name Email Phone How are you able to help?
+Yard sign Share on social media Hold an event Phone bank Knock on doors Donate to the campaign By providing your phone number and checking the box, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from Marty for Congress.
+Text messages may include polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education).
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Messaging may include requests for donation, election reminders, opinion polls, and public service announcements.
+Reply “STOP” to cancel.
+Reply “HELP” for help.
+See our Privacy Policy | Terms and Conditions Submit Donate Today $7 $28 $117 $343 $2401 $3500 Other

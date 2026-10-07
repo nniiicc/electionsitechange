@@ -1,4 +1,4 @@
-As I seek your trust in the coming election, I want you to know that I have no agenda.
+Home About Key Issues Events Endorsements Get Involved Voter Info Register to Vote Polling Information Contact Blog Sign Up for Newsletter Dale Helwig for Kansas My Commitment As I seek your trust in the coming election, I want you to know that I have no agenda.
 I am guided by my faith in the Lord and only wish to do the right thing.
 I am pro-life, pro-business, and support the 2nd Amendment.
 I believe that your money is not for the government to take or give.
@@ -6,11 +6,17 @@ Taxes have long been a burden in this state and the government should be fiscall
 It is my desire to serve the people of this district for their betterment and the betterment of this great state.
 I ask for your support this August and again in November.
 If you have any concerns, questions, or comments, please feel free to reach out.
+Core Values PRO LIFE PRO BUSINESS PRO AGRICULTURE PRO 2ND AMENDMENT A Leader for Kansas Voter Information How do I register to vote?
 Registering to vote is quick and easy!
-You can register to vote online by visiting kdor.ks.gov.
+You can register to vote online by visiting kdor.ks.gov .
+How can I contact Dale Helwig's Campaign?
 We would love to hear from you.
-Please feel free to reach out to us directly through our Contact page.
-Information regarding our campaign schedule and upcoming local events is frequently updated on our Events tab.
+Please feel free to reach out to us directly through our Contact page .
+Where can I find information about upcoming campaign events?
+Information regarding our campaign schedule and upcoming local events is frequently updated on our Events tab .
+Kansas District 1 Make Your Voice Heard Need to register to vote?
 Registering to vote is quick and easy!
 Use the button below to get started!
+Register to Vote Not sure where you go to vote?
 Click the button below to find your polling location!
+Find Polling Place Terms & Conditions/Privacy Policy Email: [email protected] Paid for by Dale Helwig for Kansas, Treasurer Clark Hall

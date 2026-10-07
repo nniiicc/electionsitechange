@@ -1,11 +1,38 @@
 [
-"https://facebook.com/SenatorHashim",
-"https://hashimforsenate.com/",
-"https://hashimforsenate.com/about",
-"https://hashimforsenate.com/cart",
-"https://hashimforsenate.com/contact",
-"https://hashimforsenate.com/endorsements",
-"https://hashimforsenate.com/issues",
-"https://instagram.com/hashimforsenate",
-"https://secure.actblue.com/donate/nader-hashim-for-senate-1"
+{
+"text": "0",
+"href": "https://www.hashimforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.hashimforsenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.hashimforsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nader-hashim-for-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.hashimforsenate.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.hashimforsenate.com/issues"
+},
+{
+"text": "[image: Hashim for senate]",
+"href": "https://www.hashimforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorHashim/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hashimforsenate/"
+}
 ]

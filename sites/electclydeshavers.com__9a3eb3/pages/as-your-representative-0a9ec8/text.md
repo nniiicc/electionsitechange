@@ -1,5 +1,4 @@
-As your representative
-I want to thank you for giving me the opportunity to serve.
+About Meet Clyde As your representative Issues Endorsements Contact About Meet Clyde As your representative Issues Endorsements Contact Donate Donate As your representative I want to thank you for giving me the opportunity to serve.
 For two years as your state representative, I worked as hard as possible each and every day to fight for you.
 Public service is paved with enormous personal and professional sacrifice.
 In a time of political hostility and divisiveness, I’ve tried my absolute hardest to take the punches and meanness and move forward with kindness and caring.
@@ -16,5 +15,9 @@ I know that we will face these challenges head-on, solve tomorrow’s problems t
 My goal has been and will always be simple – to give my absolute everything to public service.
 Serving in the legislature has been one of the most challenging endeavors, but also one of the most meaningful – and I’m honored to have gone on this adventure with you.
 Thank you for letting me part of making our little corner of the world a little bit better.
-Always at Your Service,
-Clyde
+Always at Your Service, Clyde Paid for by Elect Clyde Shavers P.O.
+Box 24 Oak Harbor, WA 98277.
+Clyde Shavers is a Veteran of the U.S.
+Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Media Gallery

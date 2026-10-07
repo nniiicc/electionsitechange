@@ -1,5 +1,4 @@
-Stamford Advocate Op-Ed: Why I’m running
-For several years, I have had the opportunity to volunteer with local organizations in Stamford.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Stamford Advocate Op-Ed: Why I’m running Jul 19 Written By Miles Halpine For several years, I have had the opportunity to volunteer with local organizations in Stamford.
 As my involvement grew, I have met community members who represent the best of our city.
 Through these efforts, I am reminded about what really matters and what public service is all about.
 So I’m excited to share why I’m running to be state representative here in Stamford, where I was born and raised.
@@ -32,3 +31,5 @@ If elected, I will fight every day for all Stamford residents.
 Because, just like when I volunteer with local organizations, that is what public service is all about.
 Giving back and putting people first.
 Eilish Collins Main is the endorsed Democratic candidate for the 146th House District, which covers parts of Downtown, the South End, and Shippan.
+Miles Halpine Previous Previous Stamford Advocate: Stamford Democrats to decide between David Michel and Eilish Collins Main in 146th CT House District primary Next Next Press Release: Former Speaker of the House, Former State Representative for 146th House District Endorse Community Advocate and State Representative Candidate Eilish Collins Main Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

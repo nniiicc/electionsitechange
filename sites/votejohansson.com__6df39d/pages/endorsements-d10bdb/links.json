@@ -1,17 +1,74 @@
 [
-"https://efundraisingconnections.com/c/JamesJohansson",
-"https://facebook.com/people/Jamie-Johansson/61572532165948?sk=mentions",
-"https://instagram.com/votejohansson",
-"https://twitter.com/JDJohansson",
-"https://votejohansson.com/",
-"https://votejohansson.com/about",
-"https://votejohansson.com/blog",
-"https://votejohansson.com/endorsements",
-"https://votejohansson.com/issues",
-"https://votejohansson.com/letters-to-the-editor",
-"https://votejohansson.com/news",
-"https://votejohansson.com/photos",
-"https://votejohansson.com/privacypolicy",
-"https://votejohansson.com/testimonials",
-"https://votejohansson.com/video"
+{
+"text": "ABOUT",
+"href": "https://www.votejohansson.com/about"
+},
+{
+"text": "DONATE →",
+"href": "https://www.efundraisingconnections.com/c/JamesJohansson"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votejohansson.com/endorsements"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votejohansson.com/issues"
+},
+{
+"text": "LETTERS TO THE EDITOR",
+"href": "https://www.votejohansson.com/letters-to-the-editor"
+},
+{
+"text": "NEWS",
+"href": "https://www.votejohansson.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.votejohansson.com/photos"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.votejohansson.com/blog"
+},
+{
+"text": "Privacy Policy & Terms and Conditions",
+"href": "https://www.votejohansson.com/privacypolicy"
+},
+{
+"text": "RESUME",
+"href": "https://www.votejohansson.com/about#Resume"
+},
+{
+"text": "TESTIMONIALS",
+"href": "https://www.votejohansson.com/testimonials"
+},
+{
+"text": "VIDEO",
+"href": "https://www.votejohansson.com/video"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.votejohansson.com/#VOLUNTEER"
+},
+{
+"text": "[image: Jamie Johansson for Assembly Logo]",
+"href": "https://www.votejohansson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JDJohansson"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Jamie-Johansson/61572532165948/?sk=mentions"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votejohansson/"
+},
+{
+"text": "info@votejohansson.com",
+"href": "mailto:info@votejohansson.com"
+}
 ]

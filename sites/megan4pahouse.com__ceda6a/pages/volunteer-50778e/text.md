@@ -1,3 +1,3 @@
-Get involved and make a difference in PA!
+0 Skip to Content Meet Megan The District Key Issues Endorsements News Events Get Involved ⌄ Donate Volunteer Voter Resources Contact Open Menu Close Menu Meet Megan The District Key Issues Endorsements News Events Get Involved ⌄ Donate Volunteer Voter Resources Contact Open Menu Close Menu Meet Megan The District Key Issues Endorsements News Events Folder: Get Involved ⌄ Back Donate Volunteer Voter Resources Contact Get involved and make a difference in PA!
 Fill out this form to let us know how you can help, and we’ll get back to you with more details.
-To donate, visit: secure.actblue.com/donate/megan4pahouse Volunteer
+To donate, visit: secure.actblue.com/donate/megan4pahouse Volunteer Megan griffin-shelley for pa state rep Donate Get Connected Paid for by Friends of Megan GS

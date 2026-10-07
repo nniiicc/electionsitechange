@@ -1,9 +1,5 @@
-Sam's Story
-Sam and his wife, Samantha, with their son, Jake
-Volunteers helping Sam
-Sam in the 2019 Pride parade
-Sam protesting war with his son
-My grandmother came to Providence to go to college at the tail end of the 1940s.
+top of page Home Sam's Story Endorsements Issues Volunteer Contact More Use tab to navigate through the menu items.
+Sam's Story Sam and his wife, Samantha, with their son, Jake Volunteers helping Sam Sam in the 2019 Pride parade Sam protesting war with his son My grandmother came to Providence to go to college at the tail end of the 1940s.
 My grandfather, meanwhile, was born to immigrant parents in South Providence.
 As soon as they met, my great-grandparents plotted to break them up.
 He was Jewish, she was Protestant, and that just wasn’t done in those days.
@@ -38,8 +34,7 @@ They raised me to care, and they taught me to believe this is what our elected o
 But when I saw what our state politicians in Rhode Island were actually doing, I was horrified.
 I knew I had to fight, and I became an activist.
 In 2018 I was elected to the State Senate, making the transition from activist to legislator.
-I am incredibly thankful to the people of Senate District 5 who have placed their trust in me to make their voices heard on the senate floor.
-In my time in the senate, I’ve worked to bring the values I was raised with and the promises you asked of me to the State House.
+I am incredibly thankful to the people of Senate District 5 who have placed their trust in me to make their voices heard on the senate floor. ​ In my time in the senate, I’ve worked to bring the values I was raised with and the promises you asked of me to the State House.
 Together, we have changed the Senate, and it wouldn’t have been possible without standing up to the right-wing leadership.
 Some legislators are afraid to vote no.
 But I stand for you, not the statehouse bosses, and that means I’m not afraid to vote for what’s right for our community.
@@ -49,4 +44,7 @@ Samantha and I want all our children to be proud to call themselves Rhode Island
 We want them to know that their streets are safe, their schools are successful, their health is insured, and more than anything that their lives are valued.
 That’s what I’m fighting for as your State Senator.
 I will always do my best to make time for you.
-If you’re struggling with state services or you want to share your views on important issues, please do not hesitate to give me a call at 680-0725 or email me at SWBELL11@GMAIL.COM.
+If you’re struggling with state services or you want to share your views on important issues, please do not hesitate to give me a call at 680-0725 or email me at SWBELL11@GMAIL.COM . sam bell, state senator district 5 401-680-0725 sambellpvd.com swbell11@gmail.com ​ Friends of Sam Bell 212 Gray St Providence, RI 02909 ​ 100% AI free.
+No AI was used in the creation of this content. ​ Thank you for your message!
+We will try to respond to you as soon as possible.
+Contact Sam © #-# by Friends of Sam Bell bottom of page

@@ -1,5 +1,4 @@
-Creating Local Economic Opportunity
-People and families can thrive in safe, nurturing communities where they have access to education options, affordable housing, and employment that provides a living wage.
+Home Meet Darla Priorities Endorsements Volunteer Events Contribute Home ❭ Priorities ❭ Creating Local Economic Opportunity Creating Local Economic Opportunity People and families can thrive in safe, nurturing communities where they have access to education options, affordable housing, and employment that provides a living wage.
 I believe we can achieve this while still maintaining the uniqueness of our small communities.
 Funding public education.
 To ensure our children and schools receive the support they need, we should focus on funding public education beyond federal dollars.
@@ -24,4 +23,4 @@ We should protect our beloved communities from becoming tourist attractions fill
 Let’s focus on keeping the things that make living in a small community so special: knowing your neighbors, looking out for each other when we need it, and the sense of community we share at the grocery store, park, places of worship, or kids’ sports events.
 I’ll bring my accounting expertise to help identify areas where our budgets could be improved, my analytical and critical thinking skills to explore new and existing solutions and work on putting them into action.
 We don’t always need to reinvent the wheel; sometimes, we can learn from what other states are doing.
-And most importantly, we need to keep checking in and making sure that the solutions we implement are working well for Oregonians and for future generations.
+And most importantly, we need to keep checking in and making sure that the solutions we implement are working well for Oregonians and for future generations. « Previous: Advocating for Healthcare Next: Enforcing Environmental Protections » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

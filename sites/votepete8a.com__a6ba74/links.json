@@ -1,44 +1,194 @@
 [
-"http://carecandidates.org/",
-"http://teamstersjc32.org/",
-"https://afscmemn.org/",
-"https://conservationminnesota.org/",
-"https://dfl.org/",
-"https://dflenvironment.org/",
-"https://dflprogressivecaucus.org/",
-"https://dflruralcaucus.org/",
-"https://dflseniors.org/",
-"https://duluthbuildingtrades.com/",
-"https://duluthnewstribune.com/opinion/editorials/our-view-endorsement-johnsons-experiences-prepped-him-for-legislature",
-"https://educationminnesota.org/",
-"https://facebook.com/PeteJohnsonMN8A",
-"https://ibew.org/",
-"https://instagram.com/pete_johnson_mn_8a",
-"https://ironworkers512.com/",
-"https://liunaminnesota.org/en",
-"https://local49.org/",
-"https://mape.org/",
-"https://mfu.org/",
-"https://minnesotaprofessionalfirefighters.org/",
-"https://mnaflcio.org/",
-"https://mnnurses.org/",
-"https://mnpipetrades.com/",
-"https://mnstonewalldfl.org/",
-"https://naswmn.socialworkers.org/",
-"https://nealcmn.org/",
-"https://northcountrycarpenter.org/",
-"https://plannedparenthood.org/planned-parenthood-north-central-states",
-"https://prochoiceminnesota.org/",
-"https://secure.actblue.com/donate/petej_for_mn8a",
-"https://takeactionminnesota.org/",
-"https://twitter.com/PeteJ_MN8A",
-"https://ualocal11.com/",
-"https://ufcw1189.org/",
-"https://votepete8a.com/",
-"https://votepete8a.com/accessibility-statement",
-"https://votepete8a.com/contact",
-"https://votepete8a.com/get-involved",
-"https://votepete8a.com/privacy-policy",
-"https://youngdfl.org/",
-"https://youtube.com/@PeteJohnsonMN8A"
+{
+"text": "About",
+"href": "https://votepete8a.com/#about-pete"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://votepete8a.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://votepete8a.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/petej_for_mn8a"
+},
+{
+"text": "Endorsements",
+"href": "https://votepete8a.com/#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/PeteJohnsonMN8A/"
+},
+{
+"text": "Get Involved",
+"href": "https://votepete8a.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pete_johnson_mn_8a/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Priorities",
+"href": "https://votepete8a.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votepete8a.com/privacy-policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://votepete8a.com/contact/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/PeteJ_MN8A"
+},
+{
+"text": "Vote Pete Johnson",
+"href": "https://votepete8a.com/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@PeteJohnsonMN8A"
+},
+{
+"text": "[image: AFSCME Logo]",
+"href": "https://www.afscmemn.org/"
+},
+{
+"text": "[image: Care for MN Logo]",
+"href": "http://www.carecandidates.org/"
+},
+{
+"text": "[image: Duluth Building and Construction Trades Logo]",
+"href": "https://www.duluthbuildingtrades.com/"
+},
+{
+"text": "[image: Duluth Central Labor Body Logo]",
+"href": "https://nealcmn.org/"
+},
+{
+"text": "[image: Duluth News Tribune Logo]",
+"href": "https://www.duluthnewstribune.com/opinion/editorials/our-view-endorsement-johnsons-experiences-prepped-him-for-legislature"
+},
+{
+"text": "[image: Endorsed by the DFL Environmental Caucus]",
+"href": "https://dflenvironment.org/"
+},
+{
+"text": "[image: International Association of Operating Engineers Local 49 logo]",
+"href": "https://local49.org/"
+},
+{
+"text": "[image: International Brotherhood of Teamsters Council 32]",
+"href": "http://www.teamstersjc32.org/"
+},
+{
+"text": "[image: Iron Workers 512 logo]",
+"href": "https://ironworkers512.com"
+},
+{
+"text": "[image: MNA Logo]",
+"href": "https://mnnurses.org/"
+},
+{
+"text": "[image: Minnesota AFL-CIO]",
+"href": "https://www.mnaflcio.org/"
+},
+{
+"text": "[image: Minnesota Association of Professional Employees]",
+"href": "https://mape.org/"
+},
+{
+"text": "[image: Minnesota DFL Progressive Caucus Logo]",
+"href": "https://dflprogressivecaucus.org/"
+},
+{
+"text": "[image: Minnesota DFL Senior Caucus Logo]",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "[image: Minnesota DFL logo]",
+"href": "https://dfl.org/"
+},
+{
+"text": "[image: Minnesota Farmers Union Logo]",
+"href": "https://mfu.org/"
+},
+{
+"text": "[image: Minnesota Pipe Trades Logo]",
+"href": "https://www.mnpipetrades.com/"
+},
+{
+"text": "[image: Minnesota Professional Fire Fighters]",
+"href": "https://www.minnesotaprofessionalfirefighters.org/"
+},
+{
+"text": "[image: National Association of Social Workers MN Chapter Logo]",
+"href": "https://naswmn.socialworkers.org/"
+},
+{
+"text": "[image: Northeast Area LAbor Council Logo]",
+"href": "https://nealcmn.org/"
+},
+{
+"text": "[image: Rural Caucus DFL Logo]",
+"href": "https://www.dflruralcaucus.org/"
+},
+{
+"text": "[image: Stonewall DFL logo]",
+"href": "https://mnstonewalldfl.org/"
+},
+{
+"text": "[image: Take Action MINNESOTA]",
+"href": "https://takeactionminnesota.org/"
+},
+{
+"text": "[image: UFCW 1189 Logo]",
+"href": "https://ufcw1189.org/"
+},
+{
+"text": "[image]",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "[image]",
+"href": "https://liunaminnesota.org/en/"
+},
+{
+"text": "[image]",
+"href": "https://northcountrycarpenter.org/"
+},
+{
+"text": "[image]",
+"href": "https://ualocal11.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.conservationminnesota.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.ibew.org"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthood.org/planned-parenthood-north-central-states"
+},
+{
+"text": "[image]",
+"href": "https://www.prochoiceminnesota.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.youngdfl.org/"
+}
 ]

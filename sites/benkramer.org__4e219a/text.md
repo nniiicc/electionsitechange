@@ -1,4 +1,4 @@
-Thank you for visiting my website.
+Home About Ben Legislation News Gallery Volunteer Contact DONATE Select Page State Senate District 19 For State Senate District 19 For Thank you for visiting my website.
 For nearly 16 years, I’ve had the pleasure of being your delegate and senator working hard to get REAL results for our community.
 It is a responsibility that I do not take lightly.
 As such, I have worked tirelessly to ensure prompt and thorough constituent services.
@@ -23,5 +23,7 @@ I will never stop fighting to protect a woman’s right to make decisions about 
 Protecting the most vulnerable and providing a helping hand to those in need will always be a priority of mine, and I will work continuously to provide environmental safeguards to protect our planet and communities for generations to come.
 It is a pleasure to serve you in the Maryland General Assembly and I thank you for trusting me to get REAL results for our community.
 I hope that I have earned your vote for the State Senate.
-Best Wishes,
-Ben Kramer
+Best Wishes, Ben Kramer Endorsements Friends of Ben Kramer P.O.
+Box 12187 Silver Spring, MD 20906 Phone: 301-977-5141 For State Senate District 19 Montgomery County, MD Copyright © #.
+All Rights Reserved.
+By Authority: Friends of Ben Kramer, Cynthia Craven, Treasurer. | Website by CWD

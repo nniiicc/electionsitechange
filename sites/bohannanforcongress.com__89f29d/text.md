@@ -1,8 +1,4 @@
-Fighting for working people,
-not Washington insiders
-Donate
-Meet Christina
-Christina Bohannan is a mom, law professor, engineer, and former state representative.
+Skip to content Christina Bohannan 2026 Meet Christina Priorities News Volunteer Media Kit Donate Fighting for working people, not Washington insiders Donate $5 $25 $100 Other Meet Christina Christina Bohannan is a mom, law professor, engineer, and former state representative .
 She is running for Congress because she believes we need someone who will put Iowa’s working families first – not the super wealthy and well-connected.
 Christina will fight every day for Iowa families, farmers, seniors, and small businesses because she believes if you work hard, you deserve a fair shot to get ahead.
-Learn More
+Learn More News June 17, 2025 CHRISTINA BOHANNAN ANNOUNCES CAMPAIGN FOR IOWA’S FIRST CONGRESSIONAL DISTRICT Read More June 18, 2025 AFTER ONLY 24 HOURS, BOHANNAN RAISES $500K Read More July 17, 2025 IOWA DEMOCRATS STAND WITH BOHANNAN Read More June 27, 2025 KHQA: Veterans, locals celebrate unveiling of Keokuk’s ‘Road of Honor’ to national cemetery Read More Meet Christina Priorities News Volunteer Media Kit Donate Instagram Twitter Facebook Paid for by Christina Bohannan For Congress PO Box 722, Iowa City 52244 Privacy Policy Terms of Service Chip in Today!> Help fund Christina’s campaign to bring Iowa values back to Congress > $5 $25 $100 Other X

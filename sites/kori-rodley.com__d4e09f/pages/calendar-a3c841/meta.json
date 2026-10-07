@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the Kori Rodley calendar for important events and Springfield elections. Subscribe for appointments and newsletters!",
  "final_url": "https://kori-rodley.com/calendar",
- "paid_for_by": null,
+ "fingerprint": "daf566a789928d024abb3adb4ccc898d5e50ab68",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Calendar",
  "years_mentioned": []
 }

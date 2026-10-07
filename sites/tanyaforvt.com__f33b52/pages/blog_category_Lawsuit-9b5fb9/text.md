@@ -1,7 +1,4 @@
-News and Updates
-Categories
-Defending Democracy
-As many of you may know, Sen.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now News and Updates Categories Democracy Education Housing Lawsuit Safety Session Preview Taxes Town Meeting Day Report Uncategorized Democracy , Lawsuit 6/27/24 Democracy , Lawsuit 6/27/24 Defending Democracy As many of you may know, Sen.
 McCormack and I filed a lawsuit in VT Superior Court on Wednesday.
 The suit asks the court to enforce the separation of powers and declare Gov.
 Scott’s “interim” appointment of Zoie Saunders after the senate’s rejection of her appointment to be invalid and illegal.
@@ -57,3 +54,4 @@ Putting together a lawsuit like this isn’t something that is accessible to man
 This lawsuit wouldn’t be possible without the financial contributions of a wide network of supporters from across the political spectrum who donated directly to my attorneys to cover their fees and to whom I’m deeply grateful.
 I’m also grateful for the outpouring of support I’ve received from my constituents since news of the lawsuit went public yesterday.
 This action is the culmination of so many people who believe that democracy is worth defending and in honor of all of them I will continue to do what I believe is right, even when it’s not easy.
+Read More Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

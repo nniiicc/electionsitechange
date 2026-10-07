@@ -1,7 +1,26 @@
 [
-"https://austinmageeforcongress.com/",
-"https://austinmageeforcongress.com/about",
-"https://austinmageeforcongress.com/cart",
-"https://austinmageeforcongress.com/contact",
-"https://austinmageeforcongress.com/donate"
+{
+"text": "0",
+"href": "https://www.austinmageeforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.austinmageeforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.austinmageeforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.austinmageeforcongress.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.austinmageeforcongress.com/"
+},
+{
+"text": "[image: Austin Magee for Congress]",
+"href": "https://www.austinmageeforcongress.com/"
+}
 ]

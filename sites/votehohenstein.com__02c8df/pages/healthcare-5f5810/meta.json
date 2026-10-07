@@ -1,7 +1,11 @@
 {
  "description": "Healthcare",
  "final_url": "https://www.votehohenstein.com/healthcare",
+ "fingerprint": "bb527107bf37c1eb4aec40a3efa5f16259c8d9ff",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Joe Hohenstein PAC",
- "title": "Healthcare \u2014 Elect Joe Hohenstein",
- "years_mentioned": []
+ "title": "Healthcare — Elect Joe Hohenstein",
+ "years_mentioned": [
+  "2021"
+ ]
 }

@@ -1,14 +1,58 @@
 [
-"https://caitlincahill.com/",
-"https://facebook.com/profile.php?id=61585427545048",
-"https://instagram.com/smithformnhouse",
-"https://secure.actblue.com/donate/smithformnhouse",
-"https://smithformnhouse.com/",
-"https://smithformnhouse.com/about",
-"https://smithformnhouse.com/cdn-cgi/l/email-protection",
-"https://smithformnhouse.com/endorsements",
-"https://smithformnhouse.com/news/press-photos",
-"https://smithformnhouse.com/priorities",
-"https://smithformnhouse.com/volunteer",
-"https://tiktok.com/@dj.minn"
+{
+"text": "About",
+"href": "https://smithformnhouse.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/smithformnhouse"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/smithformnhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://smithformnhouse.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://smithformnhouse.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://smithformnhouse.com/"
+},
+{
+"text": "Press Photos",
+"href": "https://smithformnhouse.com/news/press-photos/"
+},
+{
+"text": "Priorities",
+"href": "https://smithformnhouse.com/priorities/"
+},
+{
+"text": "The Geek You Need",
+"href": "https://caitlincahill.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@smithformnhouse.com"
+},
+{
+"text": "[image: Darci Smith for Minnesota House 37A]",
+"href": "https://smithformnhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585427545048"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smithformnhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@dj.minn"
+}
 ]

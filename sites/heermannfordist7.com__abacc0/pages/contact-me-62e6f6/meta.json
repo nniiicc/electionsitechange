@@ -1,7 +1,9 @@
 {
  "description": "Contact Heermann for District 7 to support the campaign, make a financial contribution, or send a message using our contact form.",
  "final_url": "https://heermannfordist7.com/contact-me",
- "paid_for_by": "Paid for by Heermann for District 7 Copyright \u00a9 2026 Heermann for District 7 - All Rights Reserved",
+ "fingerprint": "1083d9240b280b141233646e0241a752833c8c48",
+ "format": 3,
+ "paid_for_by": "Paid for by Heermann for District 7 Copyright © # Heermann for District 7 - All Rights Reserved",
  "title": "Contact Form - Support Heermann for District 7",
  "years_mentioned": []
 }

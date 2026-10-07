@@ -1,3 +1,2 @@
-DONATE TO Lillian’s CAMPAIGN
-Thank you for donating to Lillian’s re-election campaign.
-If you would prefer to donate by check, please send your contribution to: Friends of Lillian Ortiz-Self PO Box 581 Mukilteo, WA 98275
+0 Skip to Content Home Record About Priorities Endorsements Get Involved Contact Donate Open Menu Close Menu Home Record About Priorities Endorsements Get Involved Contact Donate Open Menu Close Menu Home Record About Priorities Endorsements Get Involved Contact Donate DONATE TO Lillian’s CAMPAIGN Thank you for donating to Lillian’s re-election campaign.
+If you would prefer to donate by check, please send your contribution to: Friends of Lillian Ortiz-Self PO Box 581 Mukilteo, WA 98275 CONTACT US electlillianortizself@gmail.com Paid for by Friends of Lillian Ortiz-Self PO Box 581 Mukilteo, WA 98275

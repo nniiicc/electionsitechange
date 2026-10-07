@@ -1,18 +1,94 @@
 [
-"https://onlinecandidate.com/judicial-campaign-websites",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=10",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=100",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=1000",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=25",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=50",
-"https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=500",
-"https://smithfortexas.org/",
-"https://smithfortexas.org/about.html",
-"https://smithfortexas.org/cgi-bin/privacy.cgi",
-"https://smithfortexas.org/cgi-bin/terms.cgi",
-"https://smithfortexas.org/contact.html",
-"https://smithfortexas.org/endorsements.html",
-"https://smithfortexas.org/volunteer.html",
-"https://x.com/smithfortx"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c?amount=500"
+},
+{
+"text": "About",
+"href": "https://smithfortexas.org/about.html"
+},
+{
+"text": "Contact",
+"href": "https://smithfortexas.org/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c"
+},
+{
+"text": "Endorsements",
+"href": "https://smithfortexas.org/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://smithfortexas.org/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c"
+},
+{
+"text": "OnlineCandidate.com",
+"href": "https://www.onlinecandidate.com/judicial-campaign-websites/"
+},
+{
+"text": "Privacy",
+"href": "https://smithfortexas.org/cgi-bin/privacy.cgi"
+},
+{
+"text": "Privacy Policy",
+"href": "https://smithfortexas.org/cgi-bin/privacy.cgi"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.anedot.com/texans-for-thomas-smith/3f6f7c16-2073-41b2-9f79-fe787b69415c"
+},
+{
+"text": "Terms",
+"href": "https://smithfortexas.org/cgi-bin/terms.cgi"
+},
+{
+"text": "Terms of Use/Terms and Conditions",
+"href": "https://smithfortexas.org/cgi-bin/terms.cgi"
+},
+{
+"text": "Top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Volunteer",
+"href": "https://smithfortexas.org/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://smithfortexas.org"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/smithfortx"
+},
+{
+"text": "[tooltip: Thomas Smith on X]",
+"href": "https://x.com/smithfortx"
+}
 ]

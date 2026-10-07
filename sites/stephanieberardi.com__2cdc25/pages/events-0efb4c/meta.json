@@ -1,9 +1,13 @@
 {
  "description": "Stephanie Berardi Campaign Events",
  "final_url": "https://www.stephanieberardi.com/events",
+ "fingerprint": "68ddaaa4f173702372984d2d65df6b9c3b743601",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Stephanie Berardi",
  "title": "Stephanie Berardi Campaign Events",
  "years_mentioned": [
-  "2026"
+  "2012",
+  "2026",
+  "2027"
  ]
 }

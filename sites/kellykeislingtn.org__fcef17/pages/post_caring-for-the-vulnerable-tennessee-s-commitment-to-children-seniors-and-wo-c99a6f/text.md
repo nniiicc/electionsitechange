@@ -1,5 +1,5 @@
-Caring for the Vulnerable: Tennessee's Commitment to Children, Seniors, and Working Families
-A community's character is measured by how it treats its most vulnerable members.
+top of page HOME ABOUT THE ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Caring for the Vulnerable: Tennessee's Commitment to Children, Seniors, and Working Families Team Keisling Jun 14 2 min read A community's character is measured by how it treats its most vulnerable members.
 In District 38, we have always believed that we have a responsibility to look out for one another, and this session, the 114th General Assembly put that belief into action.
 For our children, we made historic investments.
 We invested $34.5 million in the Department of Children's Services to reduce caseworker caseloads, ensuring that vulnerable children receive more individual attention.
@@ -18,3 +18,6 @@ Caring for the vulnerable is not charity.
 It is community.
 It is what neighbors do for one another, and it is what government should do for those it serves.
 I am proud of what we accomplished this session on behalf of the people who needed us most.
+Post Office Box 577, Byrdstown, Tennessee 38549 ( 615) 741-6852 | ktkeisling@gmail.com Paid for by Kelly Keisling for State Representative, John Keisling, Treasurer.
+Web design by ZDStephens Company .
+Privacy Policy: Click Here bottom of page

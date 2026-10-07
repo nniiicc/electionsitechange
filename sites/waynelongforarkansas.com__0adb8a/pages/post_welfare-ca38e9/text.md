@@ -1,9 +1,5 @@
-Welfare
-Updated: Jan 1
-I wrote HB1908; it requires documentation of residency in Arkansas for at least 6 months before being eligible for welfare benefits.
-Currently, people who would take advantage of the
-system can move to Arkansas with no intention of ever working and sign up for our
-tax-funded benefits before they unpack.
+top of page HOME MEET WAYNE DISTRICT MAP ON THE ISSUES LEGISLATIVE RECORD DONATE Welfare Nov 2, 2025 1 min read Updated: Jan 1 I wrote HB1908; it requires documentation of residency in Arkansas for at least 6 months before being eligible for welfare benefits.
+Currently, people who would take advantage of the system can move to Arkansas with no intention of ever working and sign up for our tax-funded benefits before they unpack.
 Under my bill, these people may choose not to move to Arkansas.
 I co-sponsored HB1196/Act160, which now requires individuals to seek employment if they are receiving public housing.
 "Medicaid spending will bankrupt this state if not brought under control!" I voted against several bills that would massively increase Medicaid and welfare spending.
@@ -16,3 +12,5 @@ Medicaid is already provided to hundreds of thousands of able-bodied people who 
 The Bible says if you don't work, you don't eat.
 I think you should not get taxpayer-funded free healthcare either.
 As a Republican, I will not support any bill that redistributes wealth, no matter how good it is named.
+Welfare/Socialism DONATE TODAY $25 $50 $100 $250 DONATE CELL # 501-530-1434​ P.O.
+BOX 555, BRADFORD, AR 72020 WAYNELONGFORSTATEREP@GMAIL.COM PAID FOR BY WAYNE LONG FOR STATE REP. © # Wayne Long for State Rep. | Privacy Policy bottom of page

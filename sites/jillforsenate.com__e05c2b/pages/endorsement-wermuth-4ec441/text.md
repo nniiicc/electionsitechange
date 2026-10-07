@@ -1,6 +1,4 @@
-Endorsement
-Pastor Daniel Wermuth · Joplin
-As a pastor, I have learned that true leadership is revealed in moments that seldom make headlines.
+Endorsement “Senator Jill Carter is still my choice.” Pastor Daniel Wermuth · Joplin As a pastor, I have learned that true leadership is revealed in moments that seldom make headlines.
 It is seen in how a person serves when no one is watching, how they respond to those who are hurting, and whether they remain faithful to the people they have been entrusted to serve.
 That is why I am honored to endorse Senator Jill Carter.
 Over the years, I have witnessed her heart for people.
@@ -21,7 +19,5 @@ Integrity builds trust.
 For these reasons, Senator Jill Carter has earned mine.
 I wholeheartedly believe she will continue to represent the people of Senate District 32 with wisdom, courage, and a genuine servant’s heart.
 It is my privilege to recommend her and to give her my wholehearted endorsement.
-Pastor Daniel Wermuth
-Lead Pastor, Joplin Family Worship Center
-Title listed for identification purposes only.
+Pastor Daniel Wermuth Lead Pastor, Joplin Family Worship Center Title listed for identification purposes only.
 Paid for by Friends of Jill Carter, Tanya Williams, Treasurer

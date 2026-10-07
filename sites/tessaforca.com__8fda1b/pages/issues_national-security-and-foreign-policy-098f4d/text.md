@@ -1,5 +1,6 @@
-National Security and Foreign Policy
-True strength isn’t about the weapons you wield or how intimidating you appear.
+Skip navigation menu About Issues Endorsements Knock doors with us!
+Contact Donate About Issues Endorsements Knock doors with us!
+Contact Donate Healthcare Affordability & Access Bringing Good Jobs & Livable Wages Lowering Costs for Homeowners and Renters Humane Immigration Policy Protecting Our Environment Prioritizing Mental Health National Security and Foreign Policy Public Education Veterans and Our Military National Security and Foreign Policy True strength isn’t about the weapons you wield or how intimidating you appear.
 It’s about the relationships you build, the promises you keep, how you treat the less fortunate, and your ability to negotiate fairly and calmly.
 Under the current administration, our national security is at risk.
 The U.S. has alienated its allies, damaged its integrity, and shown weakness by neglecting those who need help the most.
@@ -10,3 +11,4 @@ What is happening in Gaza is a genocide.
 Civilians are suffering, families are being displaced, and lives are being lost.
 The United States is enabling and continuing to fund the genocide of the Palestinian people and it must stop.
 I will be a voice in Congress calling for an immediate ceasefire, to cease funding to Israel, and for the elimination of anti-BDS legislation.
+Contact us: info@tessaforca.com Powered by RUN! website builder Paid for by Tessa Lynn Hodge for Congress You need to enable JavaScript to run this app.

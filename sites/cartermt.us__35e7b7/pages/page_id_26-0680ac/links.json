@@ -1,42 +1,170 @@
 [
-"http://au.org/",
-"http://bbbsnwmontana.org/",
-"http://targetrangeswd.org/",
-"https://campdream.org/",
-"https://cartermt.us/",
-"https://cartermt.us/?page_id=26",
-"https://cartermt.us/?page_id=32",
-"https://cartermt.us/?page_id=34",
-"https://cartermt.us/?page_id=36",
-"https://cartermt.us/?page_id=49",
-"https://cartermt.us/?page_id=58",
-"https://choralfestival.org/",
-"https://couchsurfing.com/",
-"https://divessi.com/",
-"https://dphhs.mt.gov/CFSD/Fosterparent",
-"https://farmmontana.org/",
-"https://ffrf.org/",
-"https://freecycles.org/",
-"https://mcpsmt.org/",
-"https://mctinc.org/mct-tour/missoula-childrens-theatre-tour",
-"https://mfpe.org/",
-"https://missoulaclasses.com/",
-"https://missoulademocrats.org/",
-"https://missoulaeduplace.org/4h-clubs",
-"https://missoulatweedride.org/",
-"https://montana.edu/first",
-"https://montanademocrats.org/",
-"https://mtpr.org/",
-"https://orchardhomes.org/",
-"https://recyclingworksmt.com/",
-"https://rmef.org/",
-"https://rmhc.org/",
-"https://scioly.org/",
-"https://secularmissoula.org/",
-"https://spiritatplay.org/",
-"https://target.k12.mt.us/",
-"https://targetrangehoa.org/",
-"https://thepoverellocenter.org/",
-"https://watsonchildrensshelter.org/",
-"https://wrfi.net/"
+{
+"text": "About",
+"href": "https://cartermt.us/?page_id=26"
+},
+{
+"text": "Americans United",
+"href": "http://au.org"
+},
+{
+"text": "Big Brothers & Big Sisters",
+"href": "http://bbbsnwmontana.org"
+},
+{
+"text": "Blue Mountain 4-H",
+"href": "https://missoulaeduplace.org/4h-clubs"
+},
+{
+"text": "Camp Mak-A-Dream",
+"href": "https://www.campdream.org/"
+},
+{
+"text": "Couchsurfing",
+"href": "https://www.couchsurfing.com/"
+},
+{
+"text": "Donate",
+"href": "https://cartermt.us/?page_id=36"
+},
+{
+"text": "Ethics",
+"href": "https://cartermt.us/?page_id=32"
+},
+{
+"text": "Freedom From Religion Foundation",
+"href": "https://ffrf.org/"
+},
+{
+"text": "Future Agriculture Resources of Montana",
+"href": "https://www.farmmontana.org/"
+},
+{
+"text": "Home",
+"href": "https://cartermt.us"
+},
+{
+"text": "Home",
+"href": "https://cartermt.us/"
+},
+{
+"text": "International Choral Festival",
+"href": "https://www.choralfestival.org/"
+},
+{
+"text": "Licensed Foster Parents through Mt. Child Protective Services and DPHHS",
+"href": "https://dphhs.mt.gov/CFSD/Fosterparent/"
+},
+{
+"text": "MFPE/MEA",
+"href": "https://www.mfpe.org/"
+},
+{
+"text": "Missoula Area Secular Society",
+"href": "https://www.secularmissoula.org/"
+},
+{
+"text": "Missoula Children’s Theater",
+"href": "https://mctinc.org/mct-tour/missoula-childrens-theatre-tour/"
+},
+{
+"text": "Missoula County Public Schools",
+"href": "https://www.mcpsmt.org/"
+},
+{
+"text": "Missoula Democrats",
+"href": "https://www.missoulademocrats.org/"
+},
+{
+"text": "Missoula Freecycles",
+"href": "https://www.freecycles.org/"
+},
+{
+"text": "Missoula Tweed Ride",
+"href": "https://missoulatweedride.org/"
+},
+{
+"text": "Montana Democrats",
+"href": "https://montanademocrats.org/"
+},
+{
+"text": "Montana Public Radio",
+"href": "https://www.mtpr.org/"
+},
+{
+"text": "Orchard Homes Country Life Club",
+"href": "https://www.orchardhomes.org/"
+},
+{
+"text": "Press",
+"href": "https://cartermt.us/?page_id=58"
+},
+{
+"text": "Principles",
+"href": "https://cartermt.us/?page_id=34"
+},
+{
+"text": "Recycling Works",
+"href": "https://recyclingworksmt.com/"
+},
+{
+"text": "Robotics",
+"href": "https://www.montana.edu/first/"
+},
+{
+"text": "Rocky Mountain Elk Foundation",
+"href": "https://www.rmef.org/"
+},
+{
+"text": "SSI Scuba Diving Instructor",
+"href": "https://www.divessi.com/"
+},
+{
+"text": "Science Olympiad",
+"href": "https://scioly.org/"
+},
+{
+"text": "Spirit At Play Early Childhood Program",
+"href": "https://spiritatplay.org/"
+},
+{
+"text": "Supporters and Endorsements",
+"href": "https://cartermt.us/?page_id=49"
+},
+{
+"text": "Target Range Homeowners Association",
+"href": "https://targetrangehoa.org/"
+},
+{
+"text": "Target Range School",
+"href": "https://www.target.k12.mt.us/"
+},
+{
+"text": "Target Range Sewer & Water District",
+"href": "http://targetrangeswd.org/"
+},
+{
+"text": "The Lifelong Learning Center",
+"href": "https://missoulaclasses.com/"
+},
+{
+"text": "The Poverello Center",
+"href": "https://www.thepoverellocenter.org/"
+},
+{
+"text": "The Ronald McDonald House",
+"href": "https://www.rmhc.org/"
+},
+{
+"text": "Watson’s Children’s Home",
+"href": "https://www.watsonchildrensshelter.org/"
+},
+{
+"text": "Wild Rockies Field Institute",
+"href": "https://www.wrfi.net/"
+},
+{
+"text": "[image: Bob Carter for HD98]",
+"href": "https://cartermt.us/"
+}
 ]

@@ -1,12 +1,3 @@
-Back to All Events
-***UPDATE: THIS EVENT HAS BEEN CANCELLED DUE TO DANGEROUSLY HIGH TEMPERATURES***
-Join us for the New Freedom 4th of July parade.
+0 Skip to Content Priorities & Values Events Blog Donate Open Menu Close Menu Priorities & Values Events Blog Donate Open Menu Close Menu Priorities & Values Events Blog Donate Back to All Events New Freedom Lion's Club 4th of July Parade Saturday, July 4, 2026 4:00 PM 5:30 PM 46 East Main Street New Freedom, PA, 17349 United States (map) Google Calendar ICS ***UPDATE: THIS EVENT HAS BEEN CANCELLED DUE TO DANGEROUSLY HIGH TEMPERATURES*** Join us for the New Freedom 4th of July parade.
 Meet with Team Barnes to share your thoughts and priorities, learn more about Missy’s platform, and find out how you can get involved!
-For more information: https://www.facebook.com/events/e-main-st-new-freedom-pa-17349-united-states/new-freedoms-4th-of-july-parade/994475279682932/
-Previous
-Previous
-July 1
-Meet Missy at Mapa's Boli
-Next
-Next
-July 7
+For more information: https://www.facebook.com/events/e-main-st-new-freedom-pa-17349-united-states/new-freedoms-4th-of-july-parade/994475279682932/ Previous Previous July 1 Meet Missy at Mapa's Boli Next Next July 7 Walk and Talk at York Township Park Paid for by BarnesForPA93 Made with Squarespace

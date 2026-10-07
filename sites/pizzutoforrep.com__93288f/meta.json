@@ -1,7 +1,11 @@
 {
  "description": "The official campaign website for Bill Pizzuto is coming soon.",
  "final_url": "https://pizzutoforrep.com/",
- "paid_for_by": "Paid for by Re-Elect Pizzuto &#x27;26",
+ "fingerprint": "e68ea77c60d1a61226b33ded6b567f6654afb7f9",
+ "format": 3,
+ "paid_for_by": "Paid for by Re-Elect Pizzuto '26",
  "title": "Bill Pizzuto for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

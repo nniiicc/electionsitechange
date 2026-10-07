@@ -1,10 +1,9 @@
-Peter Schweyer was first elected as State Representative in 2014, representing Lehigh County.
-He currently serves as Majority Chair of the House Education Committee, where he led the fight to create a fairer system of funding public schools in the Commonwealth.
+0 Skip to Content About Peter Issues Volunteer Contact Donate Open Menu Close Menu About Peter Issues Volunteer Contact Donate Open Menu Close Menu About Peter Issues Volunteer Contact Donate About Peter Schweyer Peter Schweyer was first elected as State Representative in 2014, representing Lehigh County.
+He currently serves as Majority Chair of the House Education Committee , where he led the fight to create a fairer system of funding public schools in the Commonwealth.
 This work earned the praise of Governor Josh Shapiro, who at a bill signing ceremony in his district, said this about Peter: “Democrats, Republicans, House members, Senate members, people inside government, and people outside government.
-And we came up with a plan through a commission led by Chairman Schweyer, and then ultimately through legislation.”
-In his role as Education Chair, Peter also crafted the biggest change to Pennsylvania’s system of higher education in nearly four decades, creating new scholarships and immediate new pathways to higher education while helping to control the cost of higher education in the long term through the creation of the State Board of Higher Education.
+And we came up with a plan through a commission led by Chairman Schweyer, and then ultimately through legislation.” In his role as Education Chair, Peter also crafted the biggest change to Pennsylvania’s system of higher education in nearly four decades , creating new scholarships and immediate new pathways to higher education while helping to control the cost of higher education in the long term through the creation of the State Board of Higher Education.
 In addition to his work in education policy, Rep.
-Schweyer has authored legislation that has helped the Lehigh Valley’s craft beer, wine, and spirits industry grow, has fought to protect our community from gun violence, and has been a leader on renewable energy, specifically community solar.
+Schweyer has authored legislation that has helped the Lehigh Valley’s craft beer, wine, and spirits industry grow, has fought to protect our community from gun violence, and has been a leader on renewable energy , specifically community solar.
 Lastly, having been appointed as a member of the bipartisan medical marijuana policy work group, he crafted Pennsylvania’s medical marijuana law.
 Peter served for nearly six years as a member of Allentown City Council, including a stint as Council President.
 His accomplishments there include reforming the city’s finances and pension, creating a highly successful gun buyback program, and crafting the city’s comprehensive anti-graffiti law.
@@ -24,3 +23,5 @@ John Vianney) and graduated from Allentown Central Catholic High School.
 He then graduated from Penn State University with an Honors Degree in Political Science.
 Peter is an avid Penn State Football fan, and (randomly) is a lifelong Chicago Cubs fan.
 His hobbies include playing guitar, boating on the Lehigh River, and cooking.
+Donate to Peter’s campaign and let’s keep moving our community forward.
+DONATE TODAY PAID FOR BY FRIENDS OF PETER SCHWEYER PO Box 4364, Allentown, PA 18105 MADE WITH SQUARESPACE

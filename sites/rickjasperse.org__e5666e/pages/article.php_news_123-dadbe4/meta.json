@@ -1,9 +1,12 @@
 {
  "description": "BUDGET HEARINGS - The General Assembly spent the second week of session for the purpose of Joint Appropriations Budget ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=123",
- "paid_for_by": null,
+ "fingerprint": "44a9906973720c777801370b708abd5d7a7fbd01",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - BUDGET HEARINGS",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2039"
  ]
 }

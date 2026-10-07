@@ -1,3 +1,3 @@
-ENDORSEMENTS
-I'm honored to have the support of the following organizations.
+0 Skip to Content Home About Priorities Endorsements Contact Get Involved Donate Open Menu Close Menu Home About Priorities Endorsements Contact Get Involved Donate Open Menu Close Menu Home About Priorities Endorsements Contact Get Involved Donate ENDORSEMENTS I'm honored to have the support of the following organizations.
 Their confidence in this campaign is deeply appreciated, and I'm grateful to stand alongside those who share a vision of serving District 58B with integrity, collaboration, and accountability.
+Get Involved Donate Prepared and paid for by Ed Fellows for House 58B - PO Box 93, Farmington, MN, 55024

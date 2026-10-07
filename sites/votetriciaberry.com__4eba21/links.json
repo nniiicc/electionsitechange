@@ -1,4 +1,10 @@
 [
-"https://facebook.com/profile.php?id=61588902855740",
-"https://secure.anedot.com/tricia-berry-campaign/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tricia-berry-campaign/donate"
+},
+{
+"text": "Link to Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588902855740"
+}
 ]

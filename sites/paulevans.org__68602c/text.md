@@ -1,4 +1,4 @@
-Meet Rep.
+0 Skip to Content Home About Meet Paul Priorities Endorsements Blog Veterans Resources DONATE Open Menu Close Menu Home About Meet Paul Priorities Endorsements Blog Veterans Resources DONATE Open Menu Close Menu Home Folder: About Back Meet Paul Priorities Endorsements Blog Veterans Resources DONATE Meet Rep.
 Evans Representative Evans has dedicated his life to public service, bringing people together to solve tough problems and build stronger, safer, more resilient communities.
 Priorities Our campaign needs the support of hard-working people like you.
-Volunteer Newsletter Signup
+Volunteer Newsletter Signup Popular Links Veteran Resources Priorities Blog Privacy Policy Follow Facebook Instagram 1320 Edgewater St NW, Suite 120 Salem, Oregon 97304 971-273-0112 info@paulevans.org Paid for by Friends of Paul Evans PAC #16508

@@ -1,5 +1,4 @@
-Ancestry is Not Identity: Reckoning with the Myths of Belonging
-My 6th great-grandfather, John Findley, was born in Belfast in 1737, before the partitioning (colonizing) of Ireland.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Ancestry is Not Identity: Reckoning with the Myths of Belonging February 25, 2025 My 6th great-grandfather, John Findley, was born in Belfast in 1737, before the partitioning (colonizing) of Ireland.
 His wife, Mary Boyd, was also born in Belfast before the two of them emigrated to the United States.
 Several of my 3rd great-grandparents – Patrick Kelly and Mary Curley of County Galway, William Sullivan and Margaret O’Hern of County Kerry, Thomas King and Jane Carleton – all left Ireland for the United States in the 1800s.
 This does not make me Irish.
@@ -30,4 +29,4 @@ This is why I am careful in how I engage with ancestry.
 My role in advocating alongside the Odanak and Wôlinak is not to speak for Indigenous communities but to support their calls for recognition and self-determination.
 I do so with an awareness that I am the descendant of settlers, not Indigenous people, and that any advocacy must be rooted in truth – not in narratives of convenience.
 We do not get to choose our ancestry, but we do get to choose how we engage with it.
-We can either wield it as a tool for entitlement or approach it with honesty, accountability, and respect.
+We can either wield it as a tool for entitlement or approach it with honesty, accountability, and respect. < Understanding Vermont’s Bail System and the Path to Justice Reform > 2025 Town Meeting Report Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

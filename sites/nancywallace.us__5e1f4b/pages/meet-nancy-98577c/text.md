@@ -1,4 +1,4 @@
-Nancy was born in Long Island, New York in 1956, and moved with her family to Bethesda, Md at six months.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Meet Nancy Nancy was born in Long Island, New York in 1956, and moved with her family to Bethesda, Md at six months.
 She attended Walt Whitman High School, where she founded and led the Environmental Club.
 She also contributed to a secondary school textbook for hands-on environmental education, and learned the basics of water quality, microbiology, ecology, air quality, soil health, and land use regulation.
 She also organized a national conference of the Institute for Environmental Education at Catoctin National Park.
@@ -30,9 +30,9 @@ She is also a process engineer and certified in Capability Maturity Model Integr
 Nancy joined the Green Party in 2003, and began active participation in the Montgomery County group in 2013.
 She has served as co-chair since February 2015.
 She has been active in campaigns to save 10 Mile Creek, ban dangerous pesticides in ornamental lawn care, and improve building efficiency standards in the county.
-Nancy serves currently on the Board of Directors of the Center for Safer Wireless, a nonprofit mothers’ group educating families and school systems on safer use of wireless technology.
+Nancy serves currently on the Board of Directors of the Center for Safer Wireless , a nonprofit mothers’ group educating families and school systems on safer use of wireless technology.
 Nancy’s house is 100% wind powered, through the Maryland wind recs program now available through our local electricity generating companies.
-She is also a member of the Silver Spring Time Bank.
+She is also a member of the Silver Spring Time Bank .
 She uses natural, organic lawncare with native plants and permaculture on her small amount of land at her house.
-She is a volunteer advocate on Vitamin D, bringing modern men’s contraception to market, and zero waste recycling.
-She has been a mentor for at risk children for 21 years, and has three mentor children, and two mentor grandchildren.
+She is a volunteer advocate on Vitamin D , bringing modern men’s contraception to market, and zero waste recycling .
+She has been a mentor for at risk children for 21 years, and has three mentor children, and two mentor grandchildren. " Then in times of need, one should rise to the occasion & fight bravely for what is right.....it is not enough to be compassionate, one must act. " -- Dalai Lama © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

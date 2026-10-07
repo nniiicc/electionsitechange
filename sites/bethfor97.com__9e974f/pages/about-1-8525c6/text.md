@@ -1,4 +1,4 @@
-Beth Llewellyn McLaughlin is an award-winning public school teacher.
+0 Skip to Content About Issues Get Involved District Map Gallery Contact Us Donate Open Menu Close Menu About Issues Get Involved District Map Gallery Contact Us Donate Open Menu Close Menu About Issues Get Involved District Map Gallery Contact Us Donate Beth Llewellyn McLaughlin is an award-winning public school teacher.
 She taught for 32 years, 29 of them at Southwest High School in Fort Worth.
 At 17 she spent a year as an exchange student in France which led her to pursue a degree in French, German and Political Science at the University of Nebraska.
 She graduated magna cum laude, with Phi Beta Kappa honors.
@@ -23,4 +23,4 @@ Because of my long tenure in and knowledge of the FWISD, since my retirement I h
 My love for the arts also keeps me active in the community.
 In 2012, after an intensive year of training, I began my “second career” as a volunteer docent at the Kimbell Art Museum.
 Sharing this Fort Worth treasure with students, community, and tourists is as personally rewarding as teaching.
-I annually give a minimum of 25 tours and attend 30 hours of additional training to retain my active docent status.”
+I annually give a minimum of 25 tours and attend 30 hours of additional training to retain my active docent status.” Get to Know Me Beth Llewellyn McLaughlin for State Representative, Texas House District 97, 2026 Campaign Address Beth Llewellyn McLaughlin PO Box 16691 Fort Worth, TX 76162 Contact hello@bethfor97.com

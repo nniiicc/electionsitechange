@@ -1,4 +1,10 @@
 [
-"https://troyclarkforiowa.com/issues",
-"https://troyclarkforiowa.com/voting-info"
+{
+"text": "Issues",
+"href": "https://troyclarkforiowa.com/issues"
+},
+{
+"text": "Voting Info",
+"href": "https://troyclarkforiowa.com/voting-info"
+}
 ]

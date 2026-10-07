@@ -1,5 +1,3 @@
-9
-Feb
-Monday, 5:34 PM · 2026
-Committee to Elect Edward Pacheco
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements News / Campaign News 9 Feb Monday, 5:34 PM · 2026 Campaign News This is where you'll put the expanded description for your news item or press release.
+You can edit this content from the "News" tab of the control panel.
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

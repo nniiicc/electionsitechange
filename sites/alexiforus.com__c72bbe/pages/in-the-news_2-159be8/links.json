@@ -1,33 +1,218 @@
 [
-"https://abc7chicago.com/illinois-dmv-secretary-of-state-alexi-giannoulias/14311554?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/endorsements",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/in-the-news/3",
-"https://alexiforus.com/in-the-news/4",
-"https://alexiforus.com/in-the-news/5",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/press-releases",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/videos",
-"https://alexiforus.com/volunteer",
-"https://chicago.suntimes.com/2023/6/12/23755948/book-ban-fight-alexi-giannoulias-anti-censorship-law-legislation-lgtbq-library-school?emci=e92c5ae8-ea09-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://chicagotribune.com/2023/09/01/secretary-of-state-plans-requiring-appointments-at-driver-service-facilities-begin",
-"https://chicagotribune.com/2024/02/19/illinois-lobbyist-reform-effort-pushed-in-general-assembly?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://chicagotribune.com/2024/02/22/opinion-illinois-food-safety-act-ingredients?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://chicagotribune.com/2024/05/06/secretary-of-states-office-urges-residents-to-get-a-real-id-as-federal-deadline-is-a-year-away",
-"https://chicagotribune.com/2024/05/24/column-change-is-the-name-of-the-game-for-illinois-secretary-of-state?emci=f0bf0668-761c-ef11-86d0-6045bdd9e096&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://dailyherald.com/discuss/20230901/our-view-secretary-of-states-skip-the-line-program-promises-a-real-improvement-in-customer-service?emci=f8963988-d548-ee11-a3f1-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=ContactsEmailID",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://nbcnews.com/nightly-news/video/can-license-plate-data-be-used-against-women-seeking-an-abortion-183363653897?emci=3bfd38e3-7c0f-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID",
-"https://twitter.com/Giannoulias",
-"https://wgntv.com/news/illinois/skip-the-line-program-coming-to-all-illinois-dmvs",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi Giannoulias: 5 additives in ultraprocessed food put us at risk. Illinois wants to change that.",
+"href": "https://www.chicagotribune.com/2024/02/22/opinion-illinois-food-safety-act-ingredients/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "As corruption trials continue, Illinois lobbyist reform effort pushed in General Assembly",
+"href": "https://www.chicagotribune.com/2024/02/19/illinois-lobbyist-reform-effort-pushed-in-general-assembly/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Ban the ban, not the book? Giannoulias caps return with string of legislative wins, including anti-censorship law",
+"href": "https://chicago.suntimes.com/2023/6/12/23755948/book-ban-fight-alexi-giannoulias-anti-censorship-law-legislation-lgtbq-library-school?emci=e92c5ae8-ea09-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Can license plate data be used against women seeking an abortion?",
+"href": "https://www.nbcnews.com/nightly-news/video/can-license-plate-data-be-used-against-women-seeking-an-abortion-183363653897?emci=3bfd38e3-7c0f-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Column: Change is the name of the game for Illinois’ secretary of state",
+"href": "https://www.chicagotribune.com/2024/05/24/column-change-is-the-name-of-the-game-for-illinois-secretary-of-state/?emci=f0bf0668-761c-ef11-86d0-6045bdd9e096&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexiforus.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "Illinois Secretary of State announces enhancements for ‘Skip the Line’ online DMV program",
+"href": "https://abc7chicago.com/illinois-dmv-secretary-of-state-alexi-giannoulias/14311554/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Our View: Secretary of State’s Skip the Line program promises a real improvement in customer service.",
+"href": "https://www.dailyherald.com/discuss/20230901/our-view-secretary-of-states-skip-the-line-program-promises-a-real-improvement-in-customer-service/?emci=f8963988-d548-ee11-a3f1-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=ContactsEmailID#new_tab"
+},
+{
+"text": "Page1",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "Page3",
+"href": "https://alexiforus.com/in-the-news/3/"
+},
+{
+"text": "Page4",
+"href": "https://alexiforus.com/in-the-news/4/"
+},
+{
+"text": "Page5",
+"href": "https://alexiforus.com/in-the-news/5/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.alexiforus.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Read More »",
+"href": "https://abc7chicago.com/illinois-dmv-secretary-of-state-alexi-giannoulias/14311554/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://chicago.suntimes.com/2023/6/12/23755948/book-ban-fight-alexi-giannoulias-anti-censorship-law-legislation-lgtbq-library-school?emci=e92c5ae8-ea09-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://wgntv.com/news/illinois/skip-the-line-program-coming-to-all-illinois-dmvs/#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.chicagotribune.com/2023/09/01/secretary-of-state-plans-requiring-appointments-at-driver-service-facilities-begin/#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.chicagotribune.com/2024/02/19/illinois-lobbyist-reform-effort-pushed-in-general-assembly/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.chicagotribune.com/2024/02/22/opinion-illinois-food-safety-act-ingredients/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.chicagotribune.com/2024/05/06/secretary-of-states-office-urges-residents-to-get-a-real-id-as-federal-deadline-is-a-year-away/#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.chicagotribune.com/2024/05/24/column-change-is-the-name-of-the-game-for-illinois-secretary-of-state/?emci=f0bf0668-761c-ef11-86d0-6045bdd9e096&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.dailyherald.com/discuss/20230901/our-view-secretary-of-states-skip-the-line-program-promises-a-real-improvement-in-customer-service/?emci=f8963988-d548-ee11-a3f1-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=ContactsEmailID#new_tab"
+},
+{
+"text": "Read More »",
+"href": "https://www.nbcnews.com/nightly-news/video/can-license-plate-data-be-used-against-women-seeking-an-abortion-183363653897?emci=3bfd38e3-7c0f-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "Secretary of state plans requiring appointments at driver service facilities begin",
+"href": "https://www.chicagotribune.com/2023/09/01/secretary-of-state-plans-requiring-appointments-at-driver-service-facilities-begin/#new_tab"
+},
+{
+"text": "Secretary of state’s office urges residents to get a Real ID as federal deadline is a year away",
+"href": "https://www.chicagotribune.com/2024/05/06/secretary-of-states-office-urges-residents-to-get-a-real-id-as-federal-deadline-is-a-year-away/#new_tab"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Videos",
+"href": "https://www.alexiforus.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://abc7chicago.com/illinois-dmv-secretary-of-state-alexi-giannoulias/14311554/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+},
+{
+"text": "[image]",
+"href": "https://chicago.suntimes.com/2023/6/12/23755948/book-ban-fight-alexi-giannoulias-anti-censorship-law-legislation-lgtbq-library-school?emci=e92c5ae8-ea09-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://wgntv.com/news/illinois/skip-the-line-program-coming-to-all-illinois-dmvs/#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/2023/09/01/secretary-of-state-plans-requiring-appointments-at-driver-service-facilities-begin/#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/2024/02/19/illinois-lobbyist-reform-effort-pushed-in-general-assembly/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/2024/02/22/opinion-illinois-food-safety-act-ingredients/?emci=7f6411fc-fbd7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/2024/05/06/secretary-of-states-office-urges-residents-to-get-a-real-id-as-federal-deadline-is-a-year-away/#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/2024/05/24/column-change-is-the-name-of-the-game-for-illinois-secretary-of-state/?emci=f0bf0668-761c-ef11-86d0-6045bdd9e096&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.dailyherald.com/discuss/20230901/our-view-secretary-of-states-skip-the-line-program-promises-a-real-improvement-in-customer-service/?emci=f8963988-d548-ee11-a3f1-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=ContactsEmailID#new_tab"
+},
+{
+"text": "[image]",
+"href": "https://www.nbcnews.com/nightly-news/video/can-license-plate-data-be-used-against-women-seeking-an-abortion-183363653897?emci=3bfd38e3-7c0f-ee11-907c-00224832eb73&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID#new_tab"
+},
+{
+"text": "‘Skip-the-Line’ program coming to all Illinois DMVs",
+"href": "https://wgntv.com/news/illinois/skip-the-line-program-coming-to-all-illinois-dmvs/#new_tab"
+}
 ]

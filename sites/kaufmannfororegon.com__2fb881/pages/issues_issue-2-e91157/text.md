@@ -1,6 +1,5 @@
-Protect OReGONIANS
-Defend Our Immigrant Neighbors
-When you're dancing the polka to an Oompa band at Oktoberfest, thrilling to foklórico at the Fiesta Mexicana, and throwing down at the Buckaroo hoedown, you are celebrating the legacies and traditions of Oregon’s immigrant ancestors.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Fix Our Healthcare System Fulfill the Promise of Public Education Defend Our Immigrant Neighbors Fight for family farms Keep More of Oregon's Wealth in Oregon!
+(With a state bank!) Protect OReGONIANS Defend Our Immigrant Neighbors When you're dancing the polka to an Oompa band at Oktoberfest, thrilling to foklórico at the Fiesta Mexicana, and throwing down at the Buckaroo hoedown, you are celebrating the legacies and traditions of Oregon’s immigrant ancestors.
 We are (almost all of us) the descendants of immigrants, whether they arrived in the last century or the last year.
 Here in the heart of Oregon farm country, we know our communities have always depended on hardworking immigrant families.
 They work our farms and nurseries, staff our small businesses.
@@ -15,3 +14,4 @@ He will not look away; he will not be quiet about it.
 Roy will fight federal abuse of power and stand with our immigrant neighbors.
 He will hold Oregon’s public safety agencies accountable to our state’s sanctuary laws.
 And he will advocate for fair and legal pathways to citizenship that benefit Oregon and its new Oregonians.
+Powered by RUN! website builder You need to enable JavaScript to run this app.

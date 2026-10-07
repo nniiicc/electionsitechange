@@ -1,7 +1,11 @@
 {
  "description": "View campaign photos and media from Hanadi Nadeem's race for Nevada Assembly District 34. See Hanadi connecting with voters across Nevada.",
  "final_url": "https://hanadinadeem.com/media",
- "paid_for_by": null,
+ "fingerprint": "b28062ac598ee6f55f91c485790ee2a22e621bad",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Hanadi Nadeem",
  "title": "Hanadi Nadeem | Media | Nevada Assembly District 34",
- "years_mentioned": []
+ "years_mentioned": [
+  "1965"
+ ]
 }

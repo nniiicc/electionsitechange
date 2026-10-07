@@ -1,4 +1,4 @@
-Shay has a track record of getting things done for southeast Nebraska.
+Home DONATE About Shay Volunteer Priorities District 32 Home DONATE About Shay Volunteer Priorities District 32 More Home DONATE About Shay Volunteer Priorities District 32 Home DONATE About Shay Volunteer Priorities District 32 Getting the job done Shay has a track record of getting things done for southeast Nebraska.
 In 2010, when the Crete swimming pool needed significant repair, Shay worked with City leaders, local business owners, and community stakeholders to create Crete’s first comprehensive economic development program.
 This program, adopted and funded by voters, has invested over $6 million into the community over the last fifteen years.
 The swimming pool was rebuilt in 2011, and since then the program has supported new businesses, repaired downtown facades, and even funded new housing developments.
@@ -11,3 +11,4 @@ Shay Smith is a mom and business owner who lives in Crete with her husband, Mich
 Raised in Paxton, Nebraska, Shay attended Doane University and was the first in her family to graduate from college.
 She received her law degree from UNL in 1994, then returned to Crete and built a successful general practice law firm with her business partner, Bradley Kalkwarf.
 As an attorney, Shay has helped southeast Nebraska residents for more than 30 years, representing clients in court in civil and criminal cases, assisting small businesses and family farms, and helping our neighbors plan for life’s bumpy roads.
+Paid for by Shay for Nebraska PO Box 35 Crete Nebraska 68333 Radio Transcripts

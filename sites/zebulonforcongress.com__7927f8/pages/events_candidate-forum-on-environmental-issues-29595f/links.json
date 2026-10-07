@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+on+Environmental+Issues&dates=20260719T173000Z%2F20260719T183000Z",
-"https://actionnetwork.org/events/candidate-forum-on-environmental-issues?clear_id=true",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/america-on-tap",
-"https://zebulonforcongress.com/events/candidate-forum-on-environmental-issues?format=ical",
-"https://zebulonforcongress.com/events/virtual-town-hall",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+on+Environmental+Issues&dates=20260719T173000Z%2F20260719T183000Z"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/candidate-forum-on-environmental-issues?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next July 29 Virtual Town Hall",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous July 8 America on Tap",
+"href": "https://www.zebulonforcongress.com/events/america-on-tap"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "https://actionnetwork.org/events/candidate-forum-on-environmental-issues?clear_id=true&source=direct_link&fbclid=IwY2xjawTHP7tleHRuA2FlbQIxMABicmlkETFjeWpqdEIwOWlDRUhsd0tJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmku-4bv3zl3qdxMjRmSw3UuFsiT8uG0lLD8hOWzvW05CNNKNUpYLlFWrwHa_aem_dKf9PXzLHlvqFsXoZk974g",
+"href": "https://actionnetwork.org/events/candidate-forum-on-environmental-issues?clear_id=true"
+}
 ]

@@ -1,4 +1,8 @@
-Embedded Video
-Get to know John
-Elected to the state legislature in 1974, Garamendi’s first legislation was the Rural Health Act of California to ensure that underserved residents in rural communities had access to quality health care.
+Skip to main content Social Media John Garamendi Facebook John Garamendi Flickr John Garamendi Twitter John Garamendi YouTube Main navigation About John In the District Issues show submenu for "Issues" Jobs Health Care Agriculture Education Environment Military Affairs and Foreign Relations Social Justice Seniors Transportation Veterans Water Events News Header Buttons Join Contribute John Garamendi for Congress Look to the future Embedded Video Current Issues Economy / Education Congressman John Garamendi is focused on growing the middle class.
+He is the leading voice in Congress for “Make It In America” policies that will help bring manufacturing jobs back to America.
+Environment Congressman Garamendi is dedicated to stopping the tunnels and saving the Delta.
+In addition, he has introduced legislation that makes vital investments in water infrastructure to protect the local species and better address future droughts.
+Healthcare Congressman Garamendi wants to make America’s healthcare delivery system more effective in keeping us healthy, including additional incentives to keep hospitals and community clinics in underserved communities.
+See All Issues Get to know John Elected to the state legislature in 1974, Garamendi’s first legislation was the Rural Health Act of California to ensure that underserved residents in rural communities had access to quality health care.
 As a legislator, he established a work-oriented welfare program, developed a state agenda for economic competitiveness and scientific advancement, and authored legislation to fund the construction of research facilities across the UC system.
+Learn More District 8 Contact the Campaign PO BOX 2978, FAIRFIELD, CA 94533 Social Media John Garamendi Facebook John Garamendi Flickr John Garamendi Twitter John Garamendi YouTube PAID FOR AND AUTHORIZED BY GARAMENDI FOR CONGRESS

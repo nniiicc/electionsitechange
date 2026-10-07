@@ -1,22 +1,102 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/www.facebook.com/kennealyforhawaii",
-"https://kennealy4hawaii.com/",
-"https://kennealy4hawaii.com/contact",
-"https://kennealy4hawaii.com/contribute",
-"https://kennealy4hawaii.com/contribute?amount=10",
-"https://kennealy4hawaii.com/contribute?amount=100",
-"https://kennealy4hawaii.com/contribute?amount=1000",
-"https://kennealy4hawaii.com/contribute?amount=25",
-"https://kennealy4hawaii.com/contribute?amount=250",
-"https://kennealy4hawaii.com/contribute?amount=50",
-"https://kennealy4hawaii.com/contribute?amount=500",
-"https://kennealy4hawaii.com/events",
-"https://kennealy4hawaii.com/home",
-"https://kennealy4hawaii.com/issues",
-"https://kennealy4hawaii.com/meet_jonathan",
-"https://kennealy4hawaii.com/news",
-"https://kennealy4hawaii.com/volunteer",
-"https://kennealy4hawaii.com/vote",
-"https://kennealy4hawaii.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.kennealy4hawaii.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.kennealy4hawaii.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.kennealy4hawaii.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.kennealy4hawaii.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kennealy4hawaii.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.kennealy4hawaii.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.kennealy4hawaii.com/volunteer"
+},
+{
+"text": "Meet Jonathan",
+"href": "https://www.kennealy4hawaii.com/meet_jonathan"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.kennealy4hawaii.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.kennealy4hawaii.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.kennealy4hawaii.com/contribute"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.kennealy4hawaii.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.kennealy4hawaii.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kennealy4hawaii.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.kennealy4hawaii.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.kennealy4hawaii.com/yard-sign"
+},
+{
+"text": "[image: Kennealy For Hawaii District 2]",
+"href": "https://www.kennealy4hawaii.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/www.facebook.com/kennealyforhawaii"
+}
 ]

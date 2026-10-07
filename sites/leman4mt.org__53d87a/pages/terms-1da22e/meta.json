@@ -1,7 +1,11 @@
 {
  "description": "Terms of Service for leman4mt.org, the official campaign website of Greg Leman for Montana House District 60.",
  "final_url": "https://leman4mt.org/terms",
- "paid_for_by": "Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 &copy; 2026 Greg Leman for Montana",
+ "fingerprint": "63a20481e8045158109859699c9b94ffc7b8f9b4",
+ "format": 3,
+ "paid_for_by": "Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana",
  "title": "Terms of Service - Greg Leman for Montana",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

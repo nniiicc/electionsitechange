@@ -1,8 +1,6 @@
-Our morning begins at 8:00 AM sharp at Stokes Seafood.
+▼ 0 Skip to Content Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon Folder: About Back Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Back to All Events Montavon's Marathon finish line Monday, October 5, 2026 8:00 AM 6:00 PM Stokes Seafood 2745 North Osprey Avenue Sarasota, Florida, 34234 United States (map) Google Calendar ICS Our morning begins at 8:00 AM sharp at Stokes Seafood.
 From there, we are heading north up the Sarasota coast, focusing our walk on higher education, the future of our workforce, and our local students.
 Our final destination for the day is the historic campus of Ringling Museum of Art, a cornerstone of our community's cultural landscape.
-Day 9 Route & Highlights:
-- 8:00 AM Kickoff: Stokes Seafood, 2745 N Osprey Ave, Sarasota, FL 34234
-- Final Destination: Ringing Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243
-Whether you are a student, a parent, a local business owner, or a neighbor, come out to voice your priorities.
+Day 9 Route & Highlights: 8:00 AM Kickoff: Stokes Seafood, 2745 N Osprey Ave, Sarasota, FL 34234 Final Destination: Ringing Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243 Whether you are a student, a parent, a local business owner, or a neighbor, come out to voice your priorities.
 Join Matthew on the trail for a few blocks or meet us at our final stop to talk about building a brighter future for the next generation.
+Previous Previous October 4 Montavon's Marathon: Day 8 Next Next October 21 Montavon at McCurdy’s PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

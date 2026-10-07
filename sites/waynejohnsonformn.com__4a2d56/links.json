@@ -1,23 +1,94 @@
 [
-"https://facebook.com/WayneJohnson4MN",
-"https://flickr.com/photos/200942655@N08",
-"https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=100",
-"https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=1000",
-"https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=250",
-"https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=50",
-"https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=500",
-"https://waynejohnsonformn.com/",
-"https://waynejohnsonformn.com/articles",
-"https://waynejohnsonformn.com/bills",
-"https://waynejohnsonformn.com/contact",
-"https://waynejohnsonformn.com/donate",
-"https://waynejohnsonformn.com/endorsements",
-"https://waynejohnsonformn.com/media",
-"https://waynejohnsonformn.com/photos",
-"https://waynejohnsonformn.com/priorities-survey",
-"https://waynejohnsonformn.com/privacy-policy",
-"https://waynejohnsonformn.com/terms-and-conditions",
-"https://waynejohnsonformn.com/voting",
-"https://x.com/mnrepwjohnson",
-"https://youtube.com/@waynejohnsonformn"
+{
+"text": "$100",
+"href": "https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/wayne-johnson-for-mn-house/donate-today?amount=500"
+},
+{
+"text": "Articles",
+"href": "https://waynejohnsonformn.com/articles/"
+},
+{
+"text": "Bills",
+"href": "https://waynejohnsonformn.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://waynejohnsonformn.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://waynejohnsonformn.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://waynejohnsonformn.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://waynejohnsonformn.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/WayneJohnson4MN"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/200942655@N08/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@waynejohnsonformn"
+},
+{
+"text": "Follow",
+"href": "https://x.com/mnrepwjohnson"
+},
+{
+"text": "Home",
+"href": "https://waynejohnsonformn.com/"
+},
+{
+"text": "Media",
+"href": "https://waynejohnsonformn.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://waynejohnsonformn.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://waynejohnsonformn.com/priorities-survey/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://waynejohnsonformn.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://waynejohnsonformn.com/terms-and-conditions/"
+},
+{
+"text": "Voting",
+"href": "https://waynejohnsonformn.com/voting/"
+},
+{
+"text": "[image: Wayne Johnson]",
+"href": "https://waynejohnsonformn.com/"
+}
 ]

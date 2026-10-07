@@ -1,5 +1,5 @@
-Hands Off Our Country and People!
-Over 20,000 of us marched through Atlanta with one message: hands off our rights and our people.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate Hands Off Our Country and People!
+Apr 9 Written By Michelle Kang Over 20,000 of us marched through Atlanta with one message: hands off our rights and our people.
 This wasn’t just a protest— it was a promise.
 We’re done watching our communities be attacked.
 From immigrants to workers, young to old, we’re rising up— united, unafraid, and unstoppable!
@@ -9,37 +9,29 @@ From Piedmont Park to Liberty Plaza, the chants rose up through the city like a 
 Enough of seeing innocent people deported in the dead of night.
 Enough of watching decades of civil rights progress unravel.
 Enough of public lands handed over to oil companies.
-Enough of the endless cruelty packaged as “policy.”
-We marched because this country is at a tipping point.
+Enough of the endless cruelty packaged as “policy.” We marched because this country is at a tipping point.
 We marched because many of our friends, family, and neighbors are hurting.
 We marched because the threats we face are real, and the stakes couldn’t be higher.
 We came from every corner of Georgia— students, elders, immigrants, union members, teachers, nurses, parents, activists, and allies.
 What united us was the same unshakable belief: this nation belongs to all of us— not to a handful of billionaires or politicians trying to tear it apart.
-A Journey of Resistance: Piedmont Park to Liberty Plaza
-Our route was more than a map through Atlanta— it was a path through history and toward a future worth fighting for.
+A Journey of Resistance: Piedmont Park to Liberty Plaza Our route was more than a map through Atlanta— it was a path through history and toward a future worth fighting for.
 We began in the heart of Piedmont Park, where so many protests, parades, and movements have taken shape.
 With signs in hand and purpose in our hearts, we made our way to Liberty Plaza, standing in the shadow of the Capitol building.
-At every step, our voices echoed off buildings and into the open air:
-“Hands off our rights!”
-“The people united will never be defeated!”
-“Whose streets?
-Our streets!”
-It wasn’t quiet.
+At every step, our voices echoed off buildings and into the open air: “Hands off our rights!” “The people united will never be defeated!” “Whose streets?
+Our streets!” It wasn’t quiet.
 It wasn’t polite.
 It wasn’t designed for press releases or corporate headlines.
 It was raw, honest, and powerful.
 People watched from balconies and sidewalks; some cheered, some joined us, and in those moments, it was clear: This wasn’t just a protest.
 It was a movement in motion.
-What We’re Fighting For:
-This isn’t about one policy or politician.
+What We’re Fighting For: This isn’t about one policy or politician.
 It’s about a full-scale attack on the values we hold dear.
 It’s about fighting for basic human dignity— for ourselves and for others.
-What we demand is loud and clear:
-Hands off immigrants.
+What we demand is loud and clear: Hands off immigrants.
 No more deportations without due process.
 No more families separated at the border.
 Immigrants are essential to this nation— they pick our food, build our homes, teach our children, care for our sick, and serve in our military.
-They areAmerica, and they made America.
+They are America, and they made America.
 To treat them as disposable is not only cruel—it’s self-defeating.
 We demand a fair and humane immigration system, treating everyone with dignity and respect.
 Hands off women’s rights.
@@ -81,9 +73,8 @@ Our parents and grandparents relied on them.
 Our kids will need them, too.
 Yet, we’re watching lawmakers try to slash them to ribbons in the name of “efficiency.” Let’s be real— it’s not efficiency; it’s theft, plain and simple.
 And don’t even think about privatizing our public lands.
-Keep your tiny hands off our national parks— they belong to all of us.
-A Movement Across Generations:
-What gave me the most hope that day wasn’t just the chants or the crowd size— it was who stood beside me.
+Keep your tiny hands off our national parks — they belong to all of us.
+A Movement Across Generations: What gave me the most hope that day wasn’t just the chants or the crowd size— it was who stood beside me.
 Civil rights icons in their 70s and 80s marched with teenagers holding homemade signs.
 A grandmother with a walker raised her fist next to a student with a megaphone.
 Mothers carried toddlers on their backs.
@@ -96,9 +87,8 @@ We meet in the middle to carry this movement forward together.
 This is about legacy.
 It’s about memory.
 It’s about building something that lasts longer than any person or administration.
-The Message is Clear:
-This country does not belong to billionaires, lobbyists, or extremist lawmakers.
-It belongs to us— the people.
+The Message is Clear: This country does not belong to billionaires, lobbyists, or extremist lawmakers.
+It belongs to us — the people.
 To the workers.
 The dreamers.
 The parents.
@@ -118,21 +108,24 @@ Another rally.
 Another fight.
 And we need you there.
 It can feel overwhelming— like the problems are too big, the opposition too powerful, but history shows us repeatedly when the people rise, change happens.
-So here’s the ask:
-Show up.
+So here’s the ask: Show up.
 Speak out.
 Stand up for your neighbors.
 Stand up for yourself.
 We need each other more than ever, and together, we are unstoppable.
-This Is Our Moment:
-The Hands Off rally wasn’t just a protest but a promise.
+This Is Our Moment: The Hands Off rally wasn’t just a protest but a promise.
 A promise that we will not give in to fear, that we will not stay silent, and that we will not be divided.
 We are the majority, we are the momentum, and we are the moral compass.
 The time to act is now.
 The movement is growing.
 The tide is rising.
-The future is ours to shape— hands off our country and people because we are not going anywhere!
-@michellekang2026 We don't beg billionaires for scraps—we show up and fight.
+The future is ours to shape— hands off our country and people because we are not going anywhere! @michellekang2026 We don't beg billionaires for scraps—we show up and fight.
 Trump and Musk want power.
 We want a future.
-HANDS OFF! #HandsOff2025 #HandsOff #NoTrumpNoMusk #WeWontGoBack #viral #fyp #michellekang2026 ♬ original sound - Michelle Kang
+HANDS OFF!
+#HandsOff2025 #HandsOff #NoTrumpNoMusk #WeWontGoBack #viral #fyp #michellekang2026 ♬ original sound - Michelle Kang Michelle Kang Previous Previous There Is No Higher Power Than the Constitution, but It’s Under Attack Next Next Honoring Fierce Women: The Legacy of Courage, Defiance, and the Ongoing Fight for Equity Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

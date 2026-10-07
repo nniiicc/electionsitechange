@@ -1,14 +1,12 @@
-On June 2, 2026, the Ottawa County Republican Party delegates gathered for the 2026 Endorsement Convention to vote to endorse candidates for the August 4, 2026 Primary Election.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Ottawa County Republican Party Endorses Joe Moss for State Legislature Ottawa County Republican Party Endorses Joe Moss for State Legislature 2026-08-20T16:26:15-04:00 June 3rd, 2026 | On June 2, 2026, the Ottawa County Republican Party delegates gathered for the 2026 Endorsement Convention to vote to endorse candidates for the August 4, 2026 Primary Election.
 Joe Moss received the highest vote of any contested primary election, with 92.45% of the vote.
-Below is a copy of the letter from the OCRP:
-June 3, 2026
-Dear Commissioner Moss,
-We are pleased to inform you that the Ottawa County Republican Delegation has overwhelmingly endorsed you for the office of District 89 Michigan State House Representative in the elections of 2026, both for the August 4th Primary, as well as for the General election on November 3rd.
+Below is a copy of the letter from the OCRP: June 3, 2026 Dear Commissioner Moss, We are pleased to inform you that the Ottawa County Republican Delegation has overwhelmingly endorsed you for the office of District 89 Michigan State House Representative in the elections of 2026, both for the August 4th Primary, as well as for the General election on November 3rd.
 In keeping with the values and ideals of the OCRP, we are grateful you chose to be strongly and intentionally vetted by the Precinct Delegates of the OCRP.
 You have clearly proven to be, not only a person of conservative character but also someone who practices and lives by the values of the Republican Party put forward in our Accountability Resolution, unanimously passed by the delegation in February, 2024.
 We believe you to be qualified and prepared to hold the office you seek and are assured you will govern according to the principles of the United States Constitution, emboldened by our Country’s founders.
 Please use this endorsement to whatever degree you see fit, in order to enhance your campaign or campaign materials, as well as other mediums and platforms with which you are associated.
 Thank you for being a Republican candidate who “walks the walk.” We look forward to your success as Michigan’s next Representative from District 89 and also to the success of our entire state, which will be strengthened by the quality of your leadership.
 We are proud to endorse you for office.
-Sincerely,
-The Ottawa County Republican Delegation
+Sincerely, The Ottawa County Republican Delegation Share this page Facebook X Reddit LinkedIn WhatsApp Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

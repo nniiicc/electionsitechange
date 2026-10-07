@@ -1,12 +1,58 @@
 [
-"https://anniemenz.com/",
-"https://anniemenz.com/Platform",
-"https://anniemenz.com/about",
-"https://anniemenz.com/contact",
-"https://anniemenz.com/how-to-contact-rep-annie-menz",
-"https://anniemenz.com/news",
-"https://anniemenz.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com//annieforhouse",
-"https://secure.actblue.com/donate/menz_calltime?amount=100"
+{
+"text": "About",
+"href": "https://www.anniemenz.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.anniemenz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/menz_calltime?amount=100"
+},
+{
+"text": "Home",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "How to Contact Rep. Annie Menz",
+"href": "https://www.anniemenz.com/how-to-contact-rep-annie-menz"
+},
+{
+"text": "Issues",
+"href": "https://www.anniemenz.com/Platform"
+},
+{
+"text": "Menz applauds U.S. Department of Commerce’s Select USA Investment Summit",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "Menz named 2026 Outstanding Representative of the Year by Oklahoma Veterans Council",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "News",
+"href": "https://www.anniemenz.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.anniemenz.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rep. Annie Menz wins Primary Election",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "[image: Annie Menz for State House]",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//annieforhouse"
+}
 ]

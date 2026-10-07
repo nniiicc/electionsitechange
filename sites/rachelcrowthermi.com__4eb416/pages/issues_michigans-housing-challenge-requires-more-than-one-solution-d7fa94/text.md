@@ -1,8 +1,4 @@
-Strengthen Our Communities
-Housing Access
-Housing- Tackling Michigan’s housing challenge
-There is no one-size-fits-all solution for Michigan's housing crisis
-I still remember the day my husband and I bought our first home.
+Skip navigation menu Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Home About Issues Data Centers In the News Events Endorsements Transparency Volunteer Contact Donate Data Centers Housing Access Healthcare Local Economies Rural Character Transparent & Accountable Government Public Education Infrastructure Strengthen Our Communities Housing Access Housing- Tackling Michigan’s housing challenge There is no one-size-fits-all solution for Michigan's housing crisis I still remember the day my husband and I bought our first home.
 We were filled with excitement as we picked up the keys, opened the door, and stepped into an empty house that held so much possibility.
 Like so many families, we filled that home with memories, the first meal that didn’t quite turn out as planned, our first Christmas, weekends spent tackling DIY projects, and all the ordinary moments that became part of our story.
 Years later, handing those keys to someone else was bittersweet, because we weren’t just leaving a house, we were saying goodbye to a chapter of our lives.
@@ -35,3 +31,5 @@ No single policy or political party is going to solve a housing shortage of more
 Real progress will come from collaboration, innovation, and a willingness to work together on practical solutions.
 We can create more pathways to homeownership, support workforce housing, revitalize existing neighborhoods, and protect seniors and longtime homeowners from unnecessary tax burdens.
 By working together, we can make housing more attainable while preserving the communities that make Michigan such a great place to call home.
+Contact: info@rachelcrowthermi.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Crowther for State Representative P.O.
+Box 342 Rockford, MI 49341 You need to enable JavaScript to run this app.

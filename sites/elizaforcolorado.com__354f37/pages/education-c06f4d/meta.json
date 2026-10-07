@@ -1,7 +1,11 @@
 {
  "description": "Education",
  "final_url": "https://www.elizaforcolorado.com/education/",
- "paid_for_by": null,
+ "fingerprint": "3c64d8ba154015999a2d48e6072dfdc53804fbbe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Education | Eliza Hamrick for Colorado",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

@@ -1,12 +1,9 @@
-Meeting recaps: staying informed
-Allegan Township Board Meeting April 6, 2026 and Martin Township Board Meeting April 8, 2026
-I attended both Allegan and Martin Townships’ board meetings this week.
+Skip to main content Alan SWANK for MICHIGAN Alan SWANK for MICHIGAN Home About Alan Issues & Stances Endorsements Events Volunteer Meeting Recaps Videos District Maps Municipalities in 43rd District Donate to Committee to Elect Alan Swank Meeting recaps: staying informed Allegan Township Board Meeting April 6, 2026 and Martin Township Board Meeting April 8, 2026 I attended both Allegan and Martin Townships’ board meetings this week.
 The general meetings were interesting, but not exciting.
 Most of the time was spent approving routine items.
 What truly got my interest was my discussions with local constituents after the meetings.
 There are two items of interest I will address, property taxes and local zoning ordinances for alternate energy projects and data centers.
-Property Taxes
-One individual that addressed Allegan Township Board was upset about a major sewer project.
+Property Taxes One individual that addressed Allegan Township Board was upset about a major sewer project.
 After I talked to the gentleman, the root cause of his anger seems to be property taxes.
 He is worried about the high cost of property taxes and his ability to pay them long term.
 He wished the property taxes would be eliminated, especially for the elderly (over 65).
@@ -31,8 +28,7 @@ I don’t have a problem with that.
 There was a point in history where the wealthy paid their fair share.
 We built great things and had a middle class.
 The middle class is quickly being erased due primarily to income inequality and the greed of the oligarchy.
-Zoning Ordinances for Alternate Energy Projects and Data Centers
-During the Martin Township Board meeting, a woman spoke to the board during the public comment section.
+Zoning Ordinances for Alternate Energy Projects and Data Centers During the Martin Township Board meeting, a woman spoke to the board during the public comment section.
 She asked a simple question.
 What is the board doing to deter data centers and other alternative energy projects from moving into the township and using valuable agricultural land?
 I am paraphrasing for clarity.
@@ -62,12 +58,9 @@ It is your community.
 You can have a large impact at the local level on taxes and zoning ordinances.
 You have the opportunity to fight for your rights.
 Use it.
-Best wishes,
-Alan
-Your voice matters
-We encourage you to read through our meeting recaps to stay connected with the ongoing efforts to improve our community.
+Best wishes, Alan Martin Township Ordinances Martin Township Ordinances 95 Michigan Law PA233 Your voice matters We encourage you to read through our meeting recaps to stay connected with the ongoing efforts to improve our community.
 Your understanding and engagement are vital.
 If you have questions or wish to share your thoughts, please reach out to us at [[email]] or [[phonenumber]].
 Together, we can build a stronger Michigan.
-Stay informed, get involved
-Explore our recaps below to see what we've been working on.
+Stay informed, get involved Explore our recaps below to see what we've been working on.
+Volunteer with us © # Alan Swank for Michigan Powered by Webador

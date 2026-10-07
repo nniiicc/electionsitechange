@@ -1,46 +1,214 @@
 [
-"https://iowaagriculture.gov/sites/default/files/ag-div/pdf/RFIP-thru-FY24.pdf",
-"https://iowaledger.com/",
-"https://legis.iowa.gov/docs/code/12C.7.pdf",
-"https://legis.iowa.gov/docs/code/159A.16.pdf",
-"https://legis.iowa.gov/docs/code/159A.17.pdf",
-"https://legis.iowa.gov/docs/code/161A.73.pdf",
-"https://legis.iowa.gov/docs/code/161A.pdf",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/187.102.pdf",
-"https://legis.iowa.gov/docs/code/187.201.pdf",
-"https://legis.iowa.gov/docs/code/187.321.pdf",
-"https://legis.iowa.gov/docs/code/187.pdf",
-"https://legis.iowa.gov/docs/code/214A.14.pdf",
-"https://legis.iowa.gov/docs/code/214A.32.pdf",
-"https://legis.iowa.gov/docs/code/422.11O.pdf",
-"https://legis.iowa.gov/docs/code/422.11P.pdf",
-"https://legis.iowa.gov/docs/code/422.11Y.pdf",
-"https://legis.iowa.gov/docs/code/422.33.pdf",
-"https://legis.iowa.gov/docs/code/423.4.pdf",
-"https://legis.iowa.gov/docs/code/8.33.pdf",
-"https://legis.iowa.gov/docs/publications/FN/1604669.pdf",
-"https://legis.iowa.gov/docs/publications/FN/1604671.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF1039.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2771.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF2484.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF646.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF657.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/91/HF2785.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/91/HF2786.pdf",
-"https://legis.iowa.gov/docs/publications/SCGR/1596121.pdf",
-"https://legis.iowa.gov/legislation/billTracking/billHistory?billName=HF+2785&ga=91",
-"https://legis.iowa.gov/legislation/billTracking/billHistory?billName=HF+2786&ga=91",
-"https://legis.iowa.gov/lobbyist/reports/declarations?ga=91&ba=HF2785",
-"https://legis.iowa.gov/lobbyist/reports/declarations?ga=91&ba=HF2786",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://nass.usda.gov/Publications/Todays_Reports/reports/cropan26.pdf",
-"https://revenue.iowa.gov/media/4045/download",
-"https://revenue.iowa.gov/media/4472/download",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Department of Agriculture's award list",
+"href": "https://iowaagriculture.gov/sites/default/files/ag-div/pdf/RFIP-thru-FY24.pdf"
+},
+{
+"text": "Department of Revenue",
+"href": "https://revenue.iowa.gov/media/4472/download?inline="
+},
+{
+"text": "Department of Revenue study",
+"href": "https://revenue.iowa.gov/media/4045/download"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Legislative Services Agency",
+"href": "https://www.legis.iowa.gov/docs/publications/SCGR/1596121.pdf"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "iowaagriculture.gov",
+"href": "https://iowaagriculture.gov/sites/default/files/ag-div/pdf/RFIP-thru-FY24.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/12C.7.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/159A.16.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/159A.17.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.73.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/187.102.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/187.201.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/187.321.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/187.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/214A.14.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/214A.32.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422.11O.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422.11P.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422.11Y.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/423.4.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1604669.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1604671.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF1039.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2771.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2484.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF646.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF657.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/91/HF2785.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/91/HF2786.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/SCGR/1596121.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF+2785&ga=91"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF+2786&ga=91"
+},
+{
+"text": "nass.usda.gov",
+"href": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cropan26.pdf"
+},
+{
+"text": "registered for the credit bill",
+"href": "https://www.legis.iowa.gov/lobbyist/reports/declarations?ga=91&ba=HF2785"
+},
+{
+"text": "registered for the refund bill",
+"href": "https://www.legis.iowa.gov/lobbyist/reports/declarations?ga=91&ba=HF2786"
+},
+{
+"text": "revenue.iowa.gov",
+"href": "https://revenue.iowa.gov/media/4045/download"
+},
+{
+"text": "revenue.iowa.gov",
+"href": "https://revenue.iowa.gov/media/4472/download?inline="
+}
 ]

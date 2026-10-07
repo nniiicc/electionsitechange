@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.westforvermont.com/news/categories/service",
- "paid_for_by": "PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255\u200b (802) 768-7801\u200b\u200b thomas@ westforvermont",
+ "fingerprint": "b374d0a576edcb6e9af88918aae444686c58cf72",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont",
  "title": "Service",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000",
+  "2025"
+ ]
 }

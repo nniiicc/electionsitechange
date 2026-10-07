@@ -1,15 +1,54 @@
 [
-"http://facebook.com/@trostfordistrict52",
-"http://instagram.com/trostfordistrict52",
-"http://tiktok.com/@trust_trost",
-"https://secure.actblue.com/donate/trostfordistrict52",
-"https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site",
-"https://trostfordistrict52.com/",
-"https://trostfordistrict52.com/about",
-"https://trostfordistrict52.com/accessibility-statement",
-"https://trostfordistrict52.com/contact",
-"https://trostfordistrict52.com/issues",
-"https://trostfordistrict52.com/on-the-campaign-trail",
-"https://trostfordistrict52.com/privacy-policy",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.trostfordistrict52.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.trostfordistrict52.com/accessibility-statement"
+},
+{
+"text": "Accessibility: Adding an Accessibility Statement to Your Site",
+"href": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+},
+{
+"text": "Call to Action",
+"href": "https://www.trostfordistrict52.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://www.trostfordistrict52.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/trostfordistrict52"
+},
+{
+"text": "Home",
+"href": "https://www.trostfordistrict52.com"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://www.trostfordistrict52.com/on-the-campaign-trail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trostfordistrict52.com/privacy-policy"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/@trostfordistrict52"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/trostfordistrict52"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/@trust_trost"
+}
 ]

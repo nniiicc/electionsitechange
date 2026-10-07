@@ -1,41 +1,182 @@
 [
-"http://simplerootsbrewing.com/",
-"https://cctv.org/watch-tv/programs/education-school-construction-pcbs-schools-cell-phone-use-literacy",
-"https://cctv.org/watch-tv/programs/healthcare-expansion-medicaid-dr-dynosaur-addiction-recovery-mental-health-resou-0",
-"https://cctv.org/watch-tv/programs/interview-martine-gulick",
-"https://cctv.org/watch-tv/programs/legislative-updates-7",
-"https://cctv.org/watch-tv/programs/state-senate-chi-ct-three-seats-uncontested-general-candidate-forum",
-"https://cctv.org/watch-tv/programs/state-senator-chi-ct-three-seats-democratic-candidate-primary-forum",
-"https://cctv.org/watch-tv/programs/town-gathering-federal-and-state-policies",
-"https://cctv.org/watch-tv/programs/town-hall-meeting-education",
-"https://cctv.org/watch-tv/programs/vermont-conservation-voters-state-senator-chi-ct-three-seats-democratic-candidate-forum",
-"https://dropbox.com/home/Martine%20Campaign%20video?preview=Campaign+video_8.mp4",
-"https://essexreporter.com/news/q-a-with-chittenden-central-senate-candidate-martine-larocque-gulick/article_aec3f388-50e3-11ef-befe-cf415de61d90.html",
-"https://facebook.com/martineforVTsenate",
-"https://instagram.com/martinelarocquegulick",
-"https://martinelarocquegulick.com/",
-"https://martinelarocquegulick.com/2024-end-of-session-report",
-"https://martinelarocquegulick.com/campaign-kickoff",
-"https://martinelarocquegulick.com/contact",
-"https://martinelarocquegulick.com/education-reform-and-act-73-school-redistricting",
-"https://martinelarocquegulick.com/endorsements",
-"https://martinelarocquegulick.com/events",
-"https://martinelarocquegulick.com/healthcare-reform",
-"https://martinelarocquegulick.com/legislative-updates",
-"https://martinelarocquegulick.com/meet-martine",
-"https://martinelarocquegulick.com/priorities",
-"https://p.ftur.io/wvmt/2000",
-"https://podcast.show/vermontviewpoint/episode/152742525",
-"https://post.futurimedia.com/wvmt/playlist/4/listen-2765.html?cb=1771339929.532444",
-"https://post.futurimedia.com/wvmt/playlist/4/listen-2941.html?cb=1784815716.721339",
-"https://post.futurimedia.com/wvmt/playlist/9/listen-1008.html?cb=1656333893.232673",
-"https://secure.actblue.com/donate/martine-larocque-gulick-for-vermont-senate-1",
-"https://vcv.podbean.com/e/paraquat",
-"https://vermontpublic.org/show/vermont-edition/2024-04-02/vermont-bill-aims-to-catch-learning-differences-like-dyslexia-at-an-early-age",
-"https://youtube.com/watch?v=8XV00M1-NyA",
-"https://youtube.com/watch?v=COOtjQgeRpE&list=PLljLFn4BZd2OAsACMlAU_TfUGFYn6L8lt",
-"https://youtube.com/watch?v=MWTS4wVQte8",
-"https://youtube.com/watch?v=Nvr_lOKYuVQ&list=PL8yLvabHjH6c36cSpeYbSy6hAt2wflScR&index=21",
-"https://youtube.com/watch?v=_219JhkKtJE&list=PL8yLvabHjH6c36cSpeYbSy6hAt2wflScR&index=20",
-"https://youtube.com/watch?v=mUE_QIo5_g8&list=PLljLFn4BZd2OAsACMlAU_TfUGFYn6L8lt&index=29"
+{
+"text": "2024 End of Session Report",
+"href": "https://martinelarocquegulick.com/2024-end-of-session-report/"
+},
+{
+"text": "Campaign Kickoff",
+"href": "https://martinelarocquegulick.com/campaign-kickoff/"
+},
+{
+"text": "Ch. 17 Debate",
+"href": "https://www.youtube.com/watch?v=COOtjQgeRpE&list=PLljLFn4BZd2OAsACMlAU_TfUGFYn6L8lt"
+},
+{
+"text": "Channel 17 Interview",
+"href": "https://www.cctv.org/watch-tv/programs/interview-martine-gulick"
+},
+{
+"text": "Channel 17 Town Meeting TV Forum",
+"href": "https://www.cctv.org/watch-tv/programs/state-senator-chi-ct-three-seats-democratic-candidate-primary-forum"
+},
+{
+"text": "Channel 17 Town Meeting TV General Election Forum",
+"href": "https://www.cctv.org/watch-tv/programs/state-senate-chi-ct-three-seats-uncontested-general-candidate-forum"
+},
+{
+"text": "Contact",
+"href": "https://martinelarocquegulick.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/martine-larocque-gulick-for-vermont-senate-1"
+},
+{
+"text": "Democracy Dispatch",
+"href": "https://vcv.podbean.com/e/paraquat/"
+},
+{
+"text": "Education Reform and Act 73 School Redistricting",
+"href": "https://martinelarocquegulick.com/education-reform-and-act-73-school-redistricting/"
+},
+{
+"text": "Endorsements",
+"href": "https://martinelarocquegulick.com/endorsements/"
+},
+{
+"text": "Essex Reporter Candidate Profile",
+"href": "https://www.essexreporter.com/news/q-a-with-chittenden-central-senate-candidate-martine-larocque-gulick/article_aec3f388-50e3-11ef-befe-cf415de61d90.html"
+},
+{
+"text": "Events",
+"href": "https://martinelarocquegulick.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/martineforVTsenate"
+},
+{
+"text": "Healthcare Reform",
+"href": "https://martinelarocquegulick.com/healthcare-reform/"
+},
+{
+"text": "Home",
+"href": "https://martinelarocquegulick.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/martinelarocquegulick/"
+},
+{
+"text": "Interview on Canadian news – TVA Nouvelles",
+"href": "https://www.youtube.com/watch?v=8XV00M1-NyA"
+},
+{
+"text": "Legislation",
+"href": "https://martinelarocquegulick.com/legislative-updates/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://martinelarocquegulick.com/legislative-updates/"
+},
+{
+"text": "Martine",
+"href": "https://martinelarocquegulick.com/meet-martine/"
+},
+{
+"text": "Martine Laroque Gulick for Vermont State Senate",
+"href": "https://martinelarocquegulick.com/"
+},
+{
+"text": "Meet Martine",
+"href": "https://martinelarocquegulick.com/meet-martine/"
+},
+{
+"text": "Morning Drive",
+"href": "https://post.futurimedia.com/wvmt/playlist/4/listen-2765.html?cb=1771339929.532444"
+},
+{
+"text": "Priorities",
+"href": "https://martinelarocquegulick.com/priorities/"
+},
+{
+"text": "Short Campaign Video",
+"href": "https://www.dropbox.com/home/Martine%20Campaign%20video?preview=Campaign+video_8.mp4"
+},
+{
+"text": "Simple Roots",
+"href": "http://simplerootsbrewing.com/"
+},
+{
+"text": "The Morning Drive interview",
+"href": "https://post.futurimedia.com/wvmt/playlist/9/listen-1008.html?cb=1656333893.232673"
+},
+{
+"text": "The Morning Drive – WVMT",
+"href": "https://p.ftur.io/wvmt/2000"
+},
+{
+"text": "There’s No A In Creemee Part 1",
+"href": "https://www.youtube.com/watch?v=Nvr_lOKYuVQ&list=PL8yLvabHjH6c36cSpeYbSy6hAt2wflScR&index=21"
+},
+{
+"text": "There’s No A In Creemee Part 2",
+"href": "https://www.youtube.com/watch?v=_219JhkKtJE&list=PL8yLvabHjH6c36cSpeYbSy6hAt2wflScR&index=20"
+},
+{
+"text": "Town Gathering on Federal Issues – Winooski",
+"href": "https://www.cctv.org/watch-tv/programs/town-gathering-federal-and-state-policies"
+},
+{
+"text": "Town Hall Meeting on Education",
+"href": "https://www.cctv.org/watch-tv/programs/town-hall-meeting-education"
+},
+{
+"text": "Town Meeting TV African Variety Show",
+"href": "https://www.cctv.org/watch-tv/programs/interview-martine-gulick"
+},
+{
+"text": "Town Meeting TV Candidate Forum",
+"href": "https://www.youtube.com/watch?v=mUE_QIo5_g8&list=PLljLFn4BZd2OAsACMlAU_TfUGFYn6L8lt&index=29"
+},
+{
+"text": "Under the Dome – Education",
+"href": "https://www.cctv.org/watch-tv/programs/education-school-construction-pcbs-schools-cell-phone-use-literacy"
+},
+{
+"text": "Under the Dome – Healthcare",
+"href": "https://www.cctv.org/watch-tv/programs/healthcare-expansion-medicaid-dr-dynosaur-addiction-recovery-mental-health-resou-0"
+},
+{
+"text": "Under the Dome – Legislative Updates",
+"href": "https://www.cctv.org/watch-tv/programs/legislative-updates-7"
+},
+{
+"text": "Vermont Conservation Voters Forum",
+"href": "https://www.cctv.org/watch-tv/programs/vermont-conservation-voters-state-senator-chi-ct-three-seats-democratic-candidate-forum"
+},
+{
+"text": "Vermont Edition – Literacy",
+"href": "https://www.vermontpublic.org/show/vermont-edition/2024-04-02/vermont-bill-aims-to-catch-learning-differences-like-dyslexia-at-an-early-age"
+},
+{
+"text": "Vermont New American Advisory Council Candidate Forum",
+"href": "https://www.youtube.com/watch?v=MWTS4wVQte8"
+},
+{
+"text": "Vermont Viewpoint",
+"href": "https://podcast.show/vermontviewpoint/episode/152742525/"
+},
+{
+"text": "WVMT",
+"href": "https://post.futurimedia.com/wvmt/playlist/4/listen-2941.html?cb=1784815716.721339"
+},
+{
+"text": "WVMT Morning Drive Interview",
+"href": "https://post.futurimedia.com/wvmt/playlist/9/listen-1008.html?cb=1656333893.232673"
+},
+{
+"text": "[image]",
+"href": "https://martinelarocquegulick.com/"
+}
 ]

@@ -1,23 +1,6 @@
-ENDORSEMENTS AND SUPPORT OF MY CANDIDACY:
-Ohio Real Estate Investors Association - 2026 Elections
-Ohio Farm Bureau Federation
-Ohio Right to Life
-Ohio Society of CPAs
-Van Wert County Commissioner Thad Lichtensteiger
-Van Wert County Sheriff Thomas Riggenbach
-Paulding County Sheriff Jason Landers
-Putnam County Sheriff Brian Siefker
-Defiance County Sheriff Douglas Engel
-Defiance County Commissioner David Kern
-Paulding County Commissioner Michael Weible
-Defiance County Commissioner Dana Phipps
-Defiance County Commissioner Mick Pocratsky
-Ohio Farm Bureau AGGPAC Friend of Agriculture Designation
-September 14, 2022
-Dear Mr.
-Klopfenstein,
-On behalf of the Ohio Farm Bureau Federation Agriculture for Good Government Political Action Committee (OFBF-AGGPAC), we are pleased to inform you that you have received the "Friend of Agriculture" designation for your strong support of Ohio agriculture.
-Ohio's farms are the backbone of the state's $124 billion agricultural industry, which employs one out of eight Ohioans.
+HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT Get in touch 419-771-6935 roy@royklopfenstein.com HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT ENDORSEMENTS AND SUPPORT OF MY CANDIDACY: Brotherhood of Locomotive Engineers and Trainmen - November 2026 Election Teamsters Ohio D.R.I.V.E. - November 2026 Election Ohio State Medical Association (OSMA) - November 2026 Election Ohio Right to Life - November 2026 Election National Federation of Independent Business (NFIB) - November 2026 Election Buckeye Firearms Association - November 2026 Election Ohio Association of Professional Fire Fighters Ohio Farm Bureau Federation Agriculture for Good Government Political Action Committee (OFBF-AGGPAC) “ 2026 Friend of Agriculture” designation for Roy Klopfenstein Ohio Real Estate Investors Association - 2026 Elections Ohio Value Voters - May 5, 2026 Primary Election Ohio Value Voters Ohio Association of Professional Fire Fighters Ohio Society of Certified Public Accountants Buckeye Firearms Association Ohio Farm Bureau Federation Ohio Right to Life Ohio Society of CPAs Van Wert County Commissioner Thad Lichtensteiger Van Wert County Sheriff Thomas Riggenbach Paulding County Sheriff Jason Landers Putnam County Sheriff Brian Siefker Defiance County Sheriff Douglas Engel Defiance County Commissioner David Kern Paulding County Commissioner Michael Weible Defiance County Commissioner Dana Phipps Defiance County Commissioner Mick Pocratsky Ohio Farm Bureau AGGPAC Friend of Agriculture Designation September 14, 2022 Dear Mr.
+Klopfenstein, On behalf of the Ohio Farm Bureau Federation Agriculture for Good Government Political Action Committee (OFBF-AGGPAC), we are pleased to inform you that you have received the "Friend of Agriculture" designation for your strong support of Ohio agriculture.
+Ohio's farms are the backbone of the state's $# billion agricultural industry, which employs one out of eight Ohioans.
 Ensuring a safe, affordable, and abundant food supply is a goal all Ohioans share.
 We are especially proud to partner with you in advancing public policy that supports this goal.
 Please feel free to use the "Ohio Farm Bureau AGGPAC Friend of Agriculture" designation in your campaign as you feel appropriate and helpful.
@@ -25,10 +8,7 @@ The AGGPAC logo is available upon request to be used on your materials if needed
 We will be sharing the designation with our members via our multiple communication channels.
 If you have any questions or we may be of further assistance, please contact us.
 Thank you for your willingness to serve the people of Ohio and for your strong support of agriculture.
-Sincerely,
-Evan Callicoat
-Director of State Policy, Ohio Farm Bureau Federation
-280 N.
-High St. 6th Floor, Columbus, OH 43215
-O: 614-246-8230 | C: 937-408-8584
-Ohio State Chiropractic Association
+Sincerely, Evan Callicoat Director of State Policy, Ohio Farm Bureau Federation 280 N.
+High St.
+6 th Floor, Columbus, OH 43215 O: 614-246-8230 | C: 937-408-8584 Ohio State Chiropractic Association For Official State of Ohio Related Topics and Issues, Please Contact My Office in the Ohio House of Representatives (Please click on the above icon) Paid for by Klopfenstein for Ohio, Stan D.
+Owens, Treasurer Share by:

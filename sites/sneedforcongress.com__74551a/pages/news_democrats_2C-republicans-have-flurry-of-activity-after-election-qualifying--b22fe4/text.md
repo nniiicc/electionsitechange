@@ -1,6 +1,9 @@
-Both the Democratic and Republican parties opened qualifying for the 2026 election cycle on Monday.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE < Back Democrats, Republicans have flurry of activity after election qualifying opens Both the Democratic and Republican parties opened qualifying for the 2026 election cycle on Monday.
+The Troy Messenger Huck Treadwell Jan 12, 2026 Previous Next Both the Democratic and Republican parties opened qualifying for the 2026 election cycle on Monday.
 After qualifying began, both parties had a strong showing of candidates vying for federal and state elections.
-Both the Democrats and Republicans will end qualifying on Jan. 23 at 5 p.m.
+Both the Democrats and Republicans will end qualifying on Jan.
+23 at 5 p.m.
 In federal elections, Alabama has a vacant U.S.
 Senate seat after Sen.
 Tommy Tuberville left Washington, D.C., to make a run for governor in Alabama.
@@ -37,3 +40,4 @@ Marcus Paramore and Sen.
 Josh Carnley are the current incumbents representing Pike County.
 For a complete list of qualified Democrat candidates visit the Alabama Democrats website.
 For a list of qualified Republican candidates, visit the Alabama GOP website.
+Previous Next Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

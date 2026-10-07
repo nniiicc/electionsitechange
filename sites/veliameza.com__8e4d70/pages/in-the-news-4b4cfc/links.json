@@ -1,31 +1,182 @@
 [
-"http://bit.ly/JudgeMezaOnTheJob",
-"https://expressnews.com/news/local/article/Tech-savvy-Bexar-County-courts-still-need-15441505.php",
-"https://expressnews.com/news/local/politics/article/Podcast-An-interview-with-District-Court-Judge-13645794.php",
-"https://expressnews.com/news/texas/article/uvalde-school-shooting-records-texas-court-order-20773039.php",
-"https://facebook.com/JudgeVeliaJMeza",
-"https://foxsanantonio.com/news/local/local-woman-facing-second-murder-trial-on-same-charge",
-"https://instagram.com/veliajmezaforjudge",
-"https://kare11.com/article/news/local/sheriff-salazar-and-district-court-judges-partner-for-bexar-gives-back-jail-diversion-program/273-a031bf59-9d18-4943-b7bc-9abbe2d40bec",
-"https://kiro7.com/news/trending/texas-woman-accused-hit-and-run-death-asks-court-return-her-bmw/NUGFQJ7SKVGE3P6TQ6HTE3PN4M",
-"https://ksat.com/news/local/2021/05/11/bexar-county-district-court-judge-prepares-for-return-of-live-jury-trials",
-"https://ksat.com/news/local/2021/05/19/trial-date-set-for-woman-accused-of-driving-drunk-killing-prominent-san-antonio-surgeon",
-"https://ksat.com/news/local/2021/05/20/training-underway-for-defense-attorneys-as-judicial-system-in-bexar-county-embraces-new-technology",
-"https://ksat.com/news/local/2021/06/16/teen-sentenced-to-prison-after-agreeing-to-plea-deal-in-crime-spree-case",
-"https://ksat.com/news/local/2021/09/08/bexar-gives-back-program-saves-thousands-in-taxpayer-dollars-keeps-more-than-100-nonviolent-offenders-out-of-jail",
-"https://ksat.com/news/local/2021/09/16/selena-the-series-lawsuit-moves-forward-border-serial-killer-going-to-trial-in-2022-get-to-know-judge-velia-meza",
-"https://ksat.com/news/local/2024/11/11/fourth-court-of-appeals-flips-to-gop-majority-with-election-of-five-new-justices",
-"https://ksat.com/video/news/2021/06/02/worried-for-the-safety-of-the-public-judge-says-autistic-man-facing-arson-charges-must-keep-gps-monitor",
-"https://mailchi.mp/34f9e9925acb/xii86atncx",
-"https://mailchi.mp/98ab080ab745/subscribe-to-news-and-updates",
-"https://mysanantonio.com/news/local/article/Judge-sets-conditions-for-San-Antonio-man-who-13854927.php",
-"https://nypost.com/2025/07/17/us-news/appeals-court-orders-release-of-uvalde-school-shooting-records",
-"https://texastribune.org/2025/07/16/uvalde-school-shootings-records-release",
-"https://veliameza.com/",
-"https://veliameza.com/about-justice-velia",
-"https://veliameza.com/about-the-4th-court",
-"https://veliameza.com/in-the-news",
-"https://veliameza.com/m/account",
-"https://veliameza.com/volunteer",
-"https://x.com/VeliaJMeza"
+{
+"text": "About Justice Velia",
+"href": "https://veliameza.com/about-justice-velia"
+},
+{
+"text": "About the 4th court",
+"href": "https://veliameza.com/about-the-4th-court"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://mailchi.mp/34f9e9925acb/xii86atncx"
+},
+{
+"text": "CONTRIBUTE TO JUSTICE MEZA TODAY",
+"href": "https://mailchi.mp/34f9e9925acb/xii86atncx"
+},
+{
+"text": "Find out more",
+"href": "http://bit.ly/JudgeMezaOnTheJob"
+},
+{
+"text": "Find out more",
+"href": "https://foxsanantonio.com/news/local/local-woman-facing-second-murder-trial-on-same-charge"
+},
+{
+"text": "Find out more",
+"href": "https://nypost.com/2025/07/17/us-news/appeals-court-orders-release-of-uvalde-school-shooting-records/"
+},
+{
+"text": "Find out more",
+"href": "https://www.expressnews.com/news/local/article/Tech-savvy-Bexar-County-courts-still-need-15441505.php"
+},
+{
+"text": "Find out more",
+"href": "https://www.expressnews.com/news/local/politics/article/Podcast-An-interview-with-District-Court-Judge-13645794.php"
+},
+{
+"text": "Find out more",
+"href": "https://www.expressnews.com/news/texas/article/uvalde-school-shooting-records-texas-court-order-20773039.php"
+},
+{
+"text": "Find out more",
+"href": "https://www.kare11.com/article/news/local/sheriff-salazar-and-district-court-judges-partner-for-bexar-gives-back-jail-diversion-program/273-a031bf59-9d18-4943-b7bc-9abbe2d40bec"
+},
+{
+"text": "Find out more",
+"href": "https://www.kiro7.com/news/trending/texas-woman-accused-hit-and-run-death-asks-court-return-her-bmw/NUGFQJ7SKVGE3P6TQ6HTE3PN4M/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/news/local/2021/05/11/bexar-county-district-court-judge-prepares-for-return-of-live-jury-trials/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/news/local/2021/05/19/trial-date-set-for-woman-accused-of-driving-drunk-killing-prominent-san-antonio-surgeon/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/news/local/2021/05/20/training-underway-for-defense-attorneys-as-judicial-system-in-bexar-county-embraces-new-technology/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/news/local/2021/06/16/teen-sentenced-to-prison-after-agreeing-to-plea-deal-in-crime-spree-case/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/news/local/2021/09/08/bexar-gives-back-program-saves-thousands-in-taxpayer-dollars-keeps-more-than-100-nonviolent-offenders-out-of-jail/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/news/local/2024/11/11/fourth-court-of-appeals-flips-to-gop-majority-with-election-of-five-new-justices/"
+},
+{
+"text": "Find out more",
+"href": "https://www.ksat.com/video/news/2021/06/02/worried-for-the-safety-of-the-public-judge-says-autistic-man-facing-arson-charges-must-keep-gps-monitor/"
+},
+{
+"text": "Find out more",
+"href": "https://www.mysanantonio.com/news/local/article/Judge-sets-conditions-for-San-Antonio-man-who-13854927.php"
+},
+{
+"text": "Find out more",
+"href": "https://www.texastribune.org/2025/07/16/uvalde-school-shootings-records-release/"
+},
+{
+"text": "Home",
+"href": "https://veliameza.com/"
+},
+{
+"text": "In the News",
+"href": "https://veliameza.com/in-the-news"
+},
+{
+"text": "My Account",
+"href": "https://veliameza.com/m/account"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://mailchi.mp/98ab080ab745/subscribe-to-news-and-updates"
+},
+{
+"text": "Sign In",
+"href": "https://veliameza.com/m/account"
+},
+{
+"text": "Volunteer",
+"href": "https://veliameza.com/volunteer"
+},
+{
+"text": "[image: District Court Judge Velia J Meza Bexar County criminal courts]",
+"href": "https://www.ksat.com/news/local/2021/05/19/trial-date-set-for-woman-accused-of-driving-drunk-killing-prominent-san-antonio-surgeon/"
+},
+{
+"text": "[image]",
+"href": "http://bit.ly/JudgeMezaOnTheJob"
+},
+{
+"text": "[image]",
+"href": "https://foxsanantonio.com/news/local/local-woman-facing-second-murder-trial-on-same-charge"
+},
+{
+"text": "[image]",
+"href": "https://veliameza.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.expressnews.com/news/local/article/Tech-savvy-Bexar-County-courts-still-need-15441505.php"
+},
+{
+"text": "[image]",
+"href": "https://www.expressnews.com/news/local/politics/article/Podcast-An-interview-with-District-Court-Judge-13645794.php"
+},
+{
+"text": "[image]",
+"href": "https://www.kare11.com/article/news/local/sheriff-salazar-and-district-court-judges-partner-for-bexar-gives-back-jail-diversion-program/273-a031bf59-9d18-4943-b7bc-9abbe2d40bec"
+},
+{
+"text": "[image]",
+"href": "https://www.kiro7.com/news/trending/texas-woman-accused-hit-and-run-death-asks-court-return-her-bmw/NUGFQJ7SKVGE3P6TQ6HTE3PN4M/"
+},
+{
+"text": "[image]",
+"href": "https://www.ksat.com/news/local/2021/05/11/bexar-county-district-court-judge-prepares-for-return-of-live-jury-trials/"
+},
+{
+"text": "[image]",
+"href": "https://www.ksat.com/news/local/2021/05/20/training-underway-for-defense-attorneys-as-judicial-system-in-bexar-county-embraces-new-technology/"
+},
+{
+"text": "[image]",
+"href": "https://www.ksat.com/news/local/2021/06/16/teen-sentenced-to-prison-after-agreeing-to-plea-deal-in-crime-spree-case/"
+},
+{
+"text": "[image]",
+"href": "https://www.ksat.com/news/local/2021/09/08/bexar-gives-back-program-saves-thousands-in-taxpayer-dollars-keeps-more-than-100-nonviolent-offenders-out-of-jail/"
+},
+{
+"text": "[image]",
+"href": "https://www.ksat.com/news/local/2021/09/16/selena-the-series-lawsuit-moves-forward-border-serial-killer-going-to-trial-in-2022-get-to-know-judge-velia-meza/"
+},
+{
+"text": "[image]",
+"href": "https://www.ksat.com/video/news/2021/06/02/worried-for-the-safety-of-the-public-judge-says-autistic-man-facing-arson-charges-must-keep-gps-monitor/"
+},
+{
+"text": "[image]",
+"href": "https://www.mysanantonio.com/news/local/article/Judge-sets-conditions-for-San-Antonio-man-who-13854927.php"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JudgeVeliaJMeza"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/veliajmezaforjudge"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/VeliaJMeza"
+}
 ]

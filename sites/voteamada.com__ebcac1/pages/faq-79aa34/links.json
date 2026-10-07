@@ -1,21 +1,86 @@
 [
-"http://heightsnext.org/",
-"https://columbiaheightsmn.gov/departments/utility_billing/public_works_refuse_and_recycling.php",
-"https://facebook.com/voteamada",
-"https://fox9.com/news/wonder-woman-columbia-heights-mayors-superhero-alter-ego-motivates-girl-through-cancer-battle",
-"https://instagram.com/amadaformnhouse",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/lawn-sign",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://wasterecycling.org/driver-shortage-and-workforce-development"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.voteamada.com/lawn-sign/"
+},
+{
+"text": "HeightsNEXT",
+"href": "http://heightsnext.org"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "Wonder Woman",
+"href": "https://www.fox9.com/news/wonder-woman-columbia-heights-mayors-superhero-alter-ego-motivates-girl-through-cancer-battle"
+},
+{
+"text": "[image: Amáda Márquez Simula is a superhero on the Columbia Heights foot bridge]",
+"href": "https://www.fox9.com/news/wonder-woman-columbia-heights-mayors-superhero-alter-ego-motivates-girl-through-cancer-battle"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "contact the disposal service directly",
+"href": "https://www.columbiaheightsmn.gov/departments/utility_billing/public_works_refuse_and_recycling.php"
+},
+{
+"text": "national shortage of garbage truck drivers",
+"href": "https://wasterecycling.org/driver-shortage-and-workforce-development/"
+},
+{
+"text": "send me a note",
+"href": "https://www.voteamada.com/contact/"
+}
 ]

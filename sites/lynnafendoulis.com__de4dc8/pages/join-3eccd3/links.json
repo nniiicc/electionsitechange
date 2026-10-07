@@ -1,7 +1,30 @@
 [
-"https://lynnafendoulis.com/",
-"https://lynnafendoulis.com/endorse",
-"https://lynnafendoulis.com/join",
-"https://lynnafendoulis.com/volunteer",
-"https://secure.winred.com/lynn-afendoulis-for-state-representative/donate"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/lynn-afendoulis-for-state-representative/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lynn-afendoulis-for-state-representative/donate"
+},
+{
+"text": "Endorse Lynn",
+"href": "https://lynnafendoulis.com/endorse"
+},
+{
+"text": "Home",
+"href": "https://lynnafendoulis.com/"
+},
+{
+"text": "Join",
+"href": "https://lynnafendoulis.com/join"
+},
+{
+"text": "Lynn Afendoulis For State Representative",
+"href": "https://lynnafendoulis.com/"
+},
+{
+"text": "Sign Up",
+"href": "https://lynnafendoulis.com/volunteer"
+}
 ]

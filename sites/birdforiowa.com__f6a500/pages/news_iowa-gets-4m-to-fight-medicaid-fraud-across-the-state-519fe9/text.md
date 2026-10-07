@@ -1,4 +1,4 @@
-Iowa Attorney General Brenna Bird said Iowa can find ways to be more “proactive” in collecting and responding to Medicaid fraud tips as the Iowa Medicaid Fraud Elimination Task Force held its second meeting Wednesday.
+Donate Connect with Brenna News Donate News Iowa gets $4M to fight Medicaid fraud across the state August 17, 2026 KIMT Iowa Attorney General Brenna Bird said Iowa can find ways to be more “proactive” in collecting and responding to Medicaid fraud tips as the Iowa Medicaid Fraud Elimination Task Force held its second meeting Wednesday.
 The task force was convened by Gov.
 Kim Reynolds in July.
 The 11-member group will draft recommendations for the state Legislature on how to stop instances of fraud within Medicaid.
@@ -20,6 +20,9 @@ What can we do to eliminate Medicaid fraud?” Larry Johnson, the principal depu
 “But due to the Vice President Vance’s emphasis and focus on this, that other states have really improved some of their resources.
 So while we have FAQs that are good, I would say other states have FAQs now that are more specific, more interactive and engaging, so that way people know exactly what to look for.
 And so, there are some of those that the group has identified that I think implementing and adopting those would be of great benefit to the state.” The discussion on Medicaid fraud also comes as Iowa and many other states are seeing deficits in state Medicaid budgets.
-Earlier this year, Reynolds signed into law a retroactive increase on premium taxes for HMOs, a type of Medicaid Advantage plan offered by private companies, from a rate of 0.925% to 3.5% between Jan. 1 and Sept. 30, 2026 to help fill the expected funding gap.
+Earlier this year, Reynolds signed into law a retroactive increase on premium taxes for HMOs, a type of Medicaid Advantage plan offered by private companies, from a rate of 0.925% to 3.5% between Jan.
+1 and Sept.
+30, 2026 to help fill the expected funding gap.
 The task force plans to hold meetings in September and October before eventually finalizing recommendations for state lawmakers to consider.
 Bird said in the coming months, work groups within the task force will continue to look into ways to improve Iowa’s Medicaid fraud units.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

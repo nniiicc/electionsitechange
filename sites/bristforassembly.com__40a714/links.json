@@ -1,13 +1,78 @@
 [
-"https://bristforassembly.com/",
-"https://bristforassembly.com/about",
-"https://bristforassembly.com/endorsements",
-"https://bristforassembly.com/issues",
-"https://bristforassembly.com/volunteer",
-"https://bsky.app/profile/ben-brist.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61578516565649&sk=about",
-"https://instagram.com/bristforassembly",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=61",
-"https://secure.actblue.com/donate/bristforassembly"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "About",
+"href": "https://www.bristforassembly.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bristforassembly.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.bristforassembly.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.bristforassembly.com/volunteer"
+},
+{
+"text": "Learn more",
+"href": "https://www.bristforassembly.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bristforassembly"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Ben Brist for State Assembly]",
+"href": "https://www.bristforassembly.com/"
+},
+{
+"text": "[image]",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=61"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ben-brist.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578516565649&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bristforassembly/"
+},
+{
+"text": "hello@bristforassembly.com",
+"href": "mailto:hello@bristforassembly.com"
+}
 ]

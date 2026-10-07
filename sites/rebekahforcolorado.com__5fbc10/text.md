@@ -1,4 +1,4 @@
-Proven Leader.
+0 Skip to Content Meet Rebekah Issues HD 30 Volunteer DONATE Open Menu Close Menu Meet Rebekah Issues HD 30 Volunteer DONATE Open Menu Close Menu Meet Rebekah Issues HD 30 Volunteer DONATE Proven Leader.
 Proven Fighter.
 I have dedicated my life to fighting for people who continually fall through the cracks — both as a music therapist and healthcare advocate, as a Lakewood City Councilor, and now as your Colorado State Representative for House District 30.
 I first ran for the State House in 2024 because there was more work to do to protect our freedoms and democracy for future generations and make sure that everyone has a fair shot at a good life here in Colorado.
@@ -8,9 +8,7 @@ I've helped pass legislation to support workers and small businesses, expand hou
 I'm proud of the work I've done to find innovative solutions for increased access to affordable and attainable housing, expand services and shelter for our unhoused neighbors who deserve a fair shot, invest in comprehensive approaches to public safety like mental health and diversion programs, and protect our clean air and water.
 As we look to the future, the stakes for our democracy and our Colorado way of life could not be higher.
 I know how to win these tough fights because I've done it before — and I look forward to continuing to serve you and fight for our community at the State Capitol.
-I’m Rebekah,
-In the House,
-I am fighting to protect the Colorado Way of Life.
+I’m Rebekah, In the House, I am fighting to protect the Colorado Way of Life.
 To protect our land & water through conservation & sustainable growth, to defend our freedoms by standing up for our neighbors & our democracy, and to strengthen our communities by investing in schools, small businesses, and public safety.
-Donate to Keep Our Movement Growing
-As we look to the future, it is clear we need a strong champion at the state level to tackle the many issues facing our community — a representative who knows what it’s going to take to affect change, understands how to work with our local partners, and who is trustworthy and accessible.
+Learn more Donate to Keep Our Movement Growing As we look to the future, it is clear we need a strong champion at the state level to tackle the many issues facing our community — a representative who knows what it’s going to take to affect change, understands how to work with our local partners, and who is trustworthy and accessible. $50 $30 $250 $100 Other Amount $450 Media | Privacy Policy | Volunteer Kit (303) 242-8597 | rebekah@rebekahforcolorado.com PO Box 150229, Lakewood, CO 80215 Paid for by Rebekah Stewart for Colorado.
+Registered Agent, Rebekah Stewart Built by The Buffalo Firm

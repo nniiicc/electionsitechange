@@ -1,7 +1,7 @@
-Of Which People?
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Campaign / Of Which People?
 By Which People?
 For Which People?
-It’s official.
+November 9, 2022 It’s official.
 With yesterday’s election, I’m headed to Montpelier to represent the Chittenden 15 district in the Vermont House of Representatives.
 In my most recent blog post I shared reflections on what it has been like to run as an uncontested candidate and some thoughts on the industry that has evolved to corrupt the campaign process.
 I am truly grateful for the opportunity to represent our district and I look forward to finding accessible methods to both keep you informed and to listen to your input (this blog being one way).
@@ -33,7 +33,7 @@ I spoke in my last post about the privilege of not needing to “campaign” in 
 However, many of my legislative partners are just now ending long, hard-earned campaigns – this is also unpaid labor.
 Consider who can truly afford to take that much time away from jobs and family in order to secure the opportunity to become a representative voice in Montpelier.
 Again, how representative are the systems we are building if only those who can afford to be there are those that are also drafting the rules?
-On October 3rd, more than a month prior to Election Day, I received an e-mail that was sent to all candidates who would become new legislators asking that I block my calendar for four days at the end of November for new member orientation.
+On October 3 rd , more than a month prior to Election Day, I received an e-mail that was sent to all candidates who would become new legislators asking that I block my calendar for four days at the end of November for new member orientation.
 I’ll be taking four vacation days from UVM in order to attend this orientation.
 The orientation is unpaid.
 If I worked a non-salaried position that did not offer vacation days, this would require me to forfeit 80% of my pay for that week.
@@ -49,4 +49,4 @@ Who has a seat at the table matters.
 I intend to broaden access and to interrupt inequity however possible.
 As always, I welcome your input if you have ideas for how I can continue that interruption in ways that align with your own values.
 I’ll have a legislative e-mail soon enough.
-In the meantime, reach out via this web form to contact me.
+In the meantime, reach out via this web form to contact me. < … Any Club That Would Have Me as a Member: Thoughts From a Hesitant Politician > Reflections on My First Week as a Legislator Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

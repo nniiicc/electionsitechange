@@ -1,30 +1,126 @@
 [
-"https://baltimoresun.com/coronavirus/bs-md-co-food-drive-20200424-3f5mm6smqjgflcjvc3v225fa4u-story.html",
-"https://baltimoresun.com/maryland/baltimore-county/bs-md-co-library-collective-bargaining-bill-20210323-qtoxcm5zqvgv5podxzq6cs3qsu-story.html",
-"https://baltimoresun.com/maryland/baltimore-county/towson/cng-co-to-legislative-2020-20200106-hfjalklohjcn3gmj344fpqee6u-story.html",
-"https://baltimoresun.com/news/bs-xpm-2008-05-12-0805120001-story.html",
-"https://baltimoresun.com/opinion/op-ed/bs-ed-op-1006-bcpl-library-unions-20211005-w4kd43u43jaenm5hiimjfatte4-story.html",
-"https://baltimoresun.com/politics/bs-md-pol-ga-college-savings-20210331-5u33zry5kfe35k2aj2dd3yqldq-story.html",
-"https://cathiforbes.com/",
-"https://cathiforbes.com/cart",
-"https://cathiforbes.com/cathi-in-the-news",
-"https://cathiforbes.com/cathis-legislation",
-"https://cathiforbes.com/contact-cathi",
-"https://cathiforbes.com/election-2026",
-"https://cathiforbes.com/get-involved",
-"https://cathiforbes.com/issues",
-"https://cathiforbes.com/meet-cathi",
-"https://cathiforbes.com/session-report",
-"https://cathiforbes.com/what-cathi-believes",
-"https://facebook.com/GoCathi",
-"https://instagram.com/delegateforbes",
-"https://rodgersforge.org/blog/ftn-black-lives-matter-rally",
-"https://secure.actblue.com/donate/friends-of-cathi-forbes-1",
-"https://tinyurl.com/y4wabuup",
-"https://towson.edu/news/2020/chpstudentsinannapolis.html",
-"https://washingtonpost.com/local/racist-housing-covenants/2020/10/21/9d262738-0261-11eb-8879-7663b816bfa5_story.html",
-"https://wbaltv.com/article/delegate-cathi-forbes-honored-for-helping-families-during-covid-19-pandemic/35092854",
-"https://wbaltv.com/article/racial-covenants-baltimore-property-records/31103729",
-"https://youtu.be/LqsbY6KXGNo",
-"https://youtu.be/wwyprjDlKls"
+{
+"text": "0",
+"href": "https://www.cathiforbes.com/cart"
+},
+{
+"text": "2026 Session Report",
+"href": "https://www.cathiforbes.com/session-report"
+},
+{
+"text": "Back",
+"href": "https://www.cathiforbes.com/"
+},
+{
+"text": "Cathi in the News",
+"href": "https://www.cathiforbes.com/cathi-in-the-news"
+},
+{
+"text": "Cathi’s legislation",
+"href": "https://www.cathiforbes.com/cathis-legislation"
+},
+{
+"text": "Contact Cathi in Annapolis!",
+"href": "mailto:catherine.forbes@house.maryland.gov"
+},
+{
+"text": "Contact Cathi's Campaign!",
+"href": "https://www.cathiforbes.com/contact-cathi"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-cathi-forbes-1"
+},
+{
+"text": "Election 2026",
+"href": "https://www.cathiforbes.com/election-2026"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.cathiforbes.com/issues"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cathiforbes.com/get-involved"
+},
+{
+"text": "Meet Cathi",
+"href": "https://www.cathiforbes.com/meet-cathi"
+},
+{
+"text": "What Cathi believes",
+"href": "https://www.cathiforbes.com/what-cathi-believes"
+},
+{
+"text": "[image: A Baltimore Sun op-ed by Senator Shelly Hettleman and Cathi, addressing their bill to allow BCPL employees a greater say in how the library is run.]",
+"href": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-1006-bcpl-library-unions-20211005-w4kd43u43jaenm5hiimjfatte4-story.html"
+},
+{
+"text": "[image: A Baltimore Sun profile of Cathi, and her two decades of advocacy in Baltimore County. As one official says in this article: \"A lot of people have a lot of great ideas, but they don't follow through. Cathi always follows through.\"]",
+"href": "https://www.baltimoresun.com/news/bs-xpm-2008-05-12-0805120001-story.html"
+},
+{
+"text": "[image: After two years of intensive lobbying, West Towson Elementary opens -- and WBAL-TV talks to Cathi about how she and her volunteers got it done.]",
+"href": "https://youtu.be/LqsbY6KXGNo"
+},
+{
+"text": "[image: An in-depth look at Cathi's priorities for the 2020 legislative session -- soon to be cut short for the first time since the Civil War.]",
+"href": "https://www.baltimoresun.com/maryland/baltimore-county/towson/cng-co-to-legislative-2020-20200106-hfjalklohjcn3gmj344fpqee6u-story.html"
+},
+{
+"text": "[image: Cathi passed a law that makes it easier for homeowners to remove racist and anti-Semitic language from property deeds. ]",
+"href": "https://www.washingtonpost.com/local/racist-housing-covenants/2020/10/21/9d262738-0261-11eb-8879-7663b816bfa5_story.html"
+},
+{
+"text": "[image: Cathi speaks with WBAL-TV’s Jayne Miller about her bill that makes it easier for homeowners to remove racist and anti-Semitic language from property deeds.]",
+"href": "https://www.wbaltv.com/article/racial-covenants-baltimore-property-records/31103729"
+},
+{
+"text": "[image: Cathi talks with WNST’s Nestor Aparicio and former County Executive Don Mohler, hosts of the popular “Baltimore Positive” podcast, about the secrets to her successful advocacy.]",
+"href": "https://youtu.be/wwyprjDlKls"
+},
+{
+"text": "[image: Cathi was proud to join hundreds of her neighbors in support of Black lives. This rally, along York Road, was organized by a Rodgers Forge 7th-grader.]",
+"href": "https://www.rodgersforge.org/blog/ftn-black-lives-matter-rally"
+},
+{
+"text": "[image: Cathi’s bill to allow Baltimore County library workers to unionize ultimately won the support of both labor and management.]",
+"href": "https://www.baltimoresun.com/maryland/baltimore-county/bs-md-co-library-collective-bargaining-bill-20210323-qtoxcm5zqvgv5podxzq6cs3qsu-story.html"
+},
+{
+"text": "[image: Cathi’s bill to close loopholes in the state’s Save4College program has helped low- and middle-income families, while saving taxpayers some $3 million a year.]",
+"href": "https://www.baltimoresun.com/politics/bs-md-pol-ga-college-savings-20210331-5u33zry5kfe35k2aj2dd3yqldq-story.html"
+},
+{
+"text": "[image: Delegate Cathi Forbes]",
+"href": "https://www.cathiforbes.com/"
+},
+{
+"text": "[image: For more than 10 years, Cathi has led the fight to rebuild the aging and overcrowded Towson High School. Today, construction is underway. This WYPR report tells the story.]",
+"href": "https://tinyurl.com/y4wabuup"
+},
+{
+"text": "[image: This Sun article talks about food insecurity during the pandemic, and how Cathi rallied her district to do something about it.]",
+"href": "https://www.baltimoresun.com/coronavirus/bs-md-co-food-drive-20200424-3f5mm6smqjgflcjvc3v225fa4u-story.html"
+},
+{
+"text": "[image: Towson University’s College of Health Professions has never been more important to our state. Cathi was happy to greet them on a visit to Annapolis, and recently secured funding for a new, state-of-the-art building on campus.]",
+"href": "https://www.towson.edu/news/2020/chpstudentsinannapolis.html"
+},
+{
+"text": "[image: When COVID-19 hit, Cathi responded. She organized the community and led a weekly food distribution that has served thousands of families in need. ]",
+"href": "https://www.wbaltv.com/article/delegate-cathi-forbes-honored-for-helping-families-during-covid-19-pandemic/35092854"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GoCathi"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/delegateforbes"
+},
+{
+"text": "catherine.forbes@house.maryland.gov",
+"href": "mailto:Catherine.forbes@house.maryland.gov"
+}
 ]

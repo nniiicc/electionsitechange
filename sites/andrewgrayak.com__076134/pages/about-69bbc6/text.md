@@ -1,4 +1,4 @@
-I grew up in Texas, studied English literature, came to Alaska after college, worked in a bookstore, spent time overseas, sang professionally, became a Physician Associate, served in the Alaska Army National Guard, and eventually found my way into public service.
+Home About On the Issues Accomplishments In The News Donate Today More Home About On the Issues Accomplishments In The News Donate Today Home About On the Issues Accomplishments In The News Donate Today About me I grew up in Texas, studied English literature, came to Alaska after college, worked in a bookstore, spent time overseas, sang professionally, became a Physician Associate, served in the Alaska Army National Guard, and eventually found my way into public service.
 Each chapter taught me something different, but the lesson that stayed with me is simple: people deserve to be heard, treated with dignity, and served with honesty.
 Long before I ran for office, my work was about caring for people.
 I spent five years serving Alaska’s veterans at the Alaska VA, and I continue to work as a Physician Associate in Anchorage.
@@ -30,5 +30,5 @@ At my core, I believe in service, honesty, personal freedom, and responsibility 
 I believe in practical solutions over political theater.
 And I believe the best public service begins with the same values that guide a good neighbor: listen first, tell the truth, and do what you said you would do.
 Jay and I are grateful to be raising our family in Anchorage, and I’m grateful for the opportunity to keep serving the community we love.
-Paid for by Andrew Gray for Alaska State House.
+About On the Issues Accomplishments Podcast Get Involved Donate Today Paid for by Andrew Gray for Alaska State House.
 PO Box 230972, Anchorage, AK 99523

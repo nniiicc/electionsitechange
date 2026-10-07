@@ -1,9 +1,46 @@
 [
-"https://facebook.com/Kaiser4Michigan",
-"https://kaiser4michigan.com/",
-"https://kaiser4michigan.com/Blog",
-"https://kaiser4michigan.com/about",
-"https://kaiser4michigan.com/contact",
-"https://kaiser4michigan.com/issues",
-"https://transaxt.com/mobile/Donate/HJLHHV/BillKaiserforMichigan"
+{
+"text": "About Bill Kaiser",
+"href": "https://kaiser4michigan.com/about"
+},
+{
+"text": "Bill@Kaiser4Michigan.com",
+"href": "mailto:Bill@kaiser4Michigan.com"
+},
+{
+"text": "Contact us",
+"href": "https://kaiser4michigan.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://transaxt.com/mobile/Donate/HJLHHV/BillKaiserforMichigan/"
+},
+{
+"text": "Home",
+"href": "https://kaiser4michigan.com/"
+},
+{
+"text": "Issues",
+"href": "https://kaiser4michigan.com/issues"
+},
+{
+"text": "News & Events",
+"href": "https://kaiser4michigan.com/Blog"
+},
+{
+"text": "[image: Kaiser for Michigan Logo]",
+"href": "https://kaiser4michigan.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://kaiser4michigan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Kaiser4Michigan"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@Kaiser4Michigan.com"
+}
 ]

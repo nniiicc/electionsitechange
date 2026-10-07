@@ -1,9 +1,34 @@
 [
-"https://bykerforvermont.com/",
-"https://bykerforvermont.com/about",
-"https://bykerforvermont.com/issues",
-"https://bykerforvermont.com/news",
-"https://bykerforvermont.com/volunteer",
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/tanya-byker-1"
+{
+"text": "About",
+"href": "https://www.bykerforvermont.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tanya-byker-1"
+},
+{
+"text": "Issues",
+"href": "https://www.bykerforvermont.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.bykerforvermont.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bykerforvermont.com/volunteer"
+},
+{
+"text": "[image: bykerforvermont logo]",
+"href": "https://www.bykerforvermont.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.bykerforvermont.com/"
+}
 ]

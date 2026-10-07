@@ -1,3 +1,4 @@
-Veteran lawmaker Sara Feigenholtz is running for another term in Springfield, emphasizing her LGBTQ+ advocacy and decades of service as she squares off against a political newcomer.
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate Daily Archives: September 9, 2025 Home 2025 September 9 Windy City Times: Sara Feigenholtz seeks reelection, citing LGBTQ+ record and decades of service Team Sara September 9, 2025 Veteran lawmaker Sara Feigenholtz is running for another term in Springfield, emphasizing her LGBTQ+ advocacy and decades of service as she squares off against a political newcomer.
 Feigenholtz has represented Chicago’s North Side for decades, first in the Illinois House and now in the Senate.
-Read more at: https://windycitytimes.com/2025/09/08/sara-feigenholtz-seeks-reelection-citing-lgbtq-record-and-decades-of-service/
+Read more at: https://windycitytimes.com/2025/09/08/sara-feigenholtz-seeks-reelection-citing-lgbtq-record-and-decades-of-service/ Read More Latest News Oops, category not found.
+Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

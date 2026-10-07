@@ -1,21 +1,90 @@
 [
-"https://bsky.app/profile/heathergoulding.bsky.social",
-"https://facebook.com/heather.goulding.9",
-"https://leg.state.nv.us/Division/Research/Documents/ASM2021_District27_11x17.pdf",
-"https://linkedin.com/in/heather-goulding-6b532511",
-"https://nvlcb.maps.arcgis.com/apps/instant/lookup/index.html?appid=0815e77623f04028993e9f3ecc56174e",
-"https://secure.actblue.com/donate/friends-of-heather-goulding-1",
-"https://voteheatherg.com/",
-"https://voteheatherg.com/about",
-"https://voteheatherg.com/contact-us",
-"https://voteheatherg.com/endorsements",
-"https://voteheatherg.com/events",
-"https://voteheatherg.com/issues",
-"https://voteheatherg.com/join-heather-gouldings-assembly-district-27-campaign",
-"https://voteheatherg.com/media",
-"https://voteheatherg.com/privacy-policy",
-"https://voteheatherg.com/voter-information",
-"https://washoecounty.gov/voters/2024-election/vote_centers.php",
-"https://washoecounty.gov/voters/register_to_vote/index.php",
-"https://washoecounty.gov/voters/voter_education/voting-options/vote-at-home/mailinballotinfo.php"
+{
+"text": "About",
+"href": "https://www.voteheatherg.com/about/"
+},
+{
+"text": "Assembly District 27 Map",
+"href": "https://www.leg.state.nv.us/Division/Research/Documents/ASM2021_District27_11x17.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.voteheatherg.com/contact-us/"
+},
+{
+"text": "Contact Heather",
+"href": "https://www.voteheatherg.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-heather-goulding-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteheatherg.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.voteheatherg.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteheatherg.com/join-heather-gouldings-assembly-district-27-campaign/"
+},
+{
+"text": "Home",
+"href": "https://voteheatherg.com"
+},
+{
+"text": "Interactive Map of Polling Places with Wait Times",
+"href": "https://www.washoecounty.gov/voters/2024-election/vote_centers.php"
+},
+{
+"text": "Issues",
+"href": "https://www.voteheatherg.com/issues/"
+},
+{
+"text": "Mail-In Ballot Tips",
+"href": "https://www.washoecounty.gov/voters/voter_education/voting-options/vote-at-home/mailinballotinfo.php"
+},
+{
+"text": "Media",
+"href": "https://www.voteheatherg.com/media/"
+},
+{
+"text": "Search by your address to find out which district you live in",
+"href": "https://nvlcb.maps.arcgis.com/apps/instant/lookup/index.html?appid=0815e77623f04028993e9f3ecc56174e"
+},
+{
+"text": "Terms & Conditions / Privacy Policy",
+"href": "https://www.voteheatherg.com/privacy-policy/"
+},
+{
+"text": "Vote Center",
+"href": "https://www.washoecounty.gov/voters/2024-election/vote_centers.php"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteheatherg.com/voter-information/"
+},
+{
+"text": "Washoe County Registrar of Voters",
+"href": "https://www.washoecounty.gov/voters/register_to_vote/index.php"
+},
+{
+"text": "[image: Assembly District 27 Campaign]",
+"href": "https://www.voteheatherg.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/heathergoulding.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/heather.goulding.9"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/heather-goulding-6b532511/"
+}
 ]

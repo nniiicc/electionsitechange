@@ -1,17 +1,114 @@
 [
-"https://facebook.com/shannaformaine",
-"https://instagram.com/shannaformaine",
-"https://secure.actblue.com/donate/shannaformaine",
-"https://shannaformaine.com/",
-"https://shannaformaine.com/endorsements",
-"https://shannaformaine.com/endorsements/endorse-shanna",
-"https://shannaformaine.com/get-involved",
-"https://shannaformaine.com/get-involved/contact",
-"https://shannaformaine.com/get-involved/events",
-"https://shannaformaine.com/get-involved/volunteer",
-"https://shannaformaine.com/get-involved/voting-info",
-"https://shannaformaine.com/issues",
-"https://shannaformaine.com/meet-shanna",
-"https://shannaformaine.com/news",
-"https://tidepoolcreative.com/"
+{
+"text": "Contact",
+"href": "https://shannaformaine.com/get-involved/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannaformaine"
+},
+{
+"text": "Endorse Shanna",
+"href": "https://shannaformaine.com/endorsements/endorse-shanna/"
+},
+{
+"text": "Endorsements",
+"href": "https://shannaformaine.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://shannaformaine.com/get-involved/events/"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/shannaformaine"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/shannaformaine"
+},
+{
+"text": "Get Involved",
+"href": "https://shannaformaine.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://shannaformaine.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://shannaformaine.com/issues#affordability"
+},
+{
+"text": "Learn More",
+"href": "https://shannaformaine.com/issues#economy"
+},
+{
+"text": "Learn More",
+"href": "https://shannaformaine.com/issues#healthcare"
+},
+{
+"text": "Learn More",
+"href": "https://shannaformaine.com/issues#neighborhoods"
+},
+{
+"text": "Learn More",
+"href": "https://shannaformaine.com/issues#reproductivehealth"
+},
+{
+"text": "Learn More",
+"href": "https://shannaformaine.com/issues#safety"
+},
+{
+"text": "Meet Shanna",
+"href": "https://shannaformaine.com/meet-shanna/"
+},
+{
+"text": "News",
+"href": "https://shannaformaine.com/news/"
+},
+{
+"text": "Tide Pool Creative",
+"href": "https://tidepoolcreative.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://shannaformaine.com/get-involved/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://shannaformaine.com/get-involved/voting-info/"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/issues#affordability"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/issues#economy"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/issues#healthcare"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/issues#neighborhoods"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/issues#reproductivehealth"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/issues#safety"
+}
 ]

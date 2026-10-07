@@ -1,30 +1,18 @@
-Mayor Armin Mizani is a proven conservative fighter who has delivered real results for the people of North Texas.
+Skip to content Meet Armin Issues Endorsements Volunteer In the News Meet Armin Issues Endorsements Volunteer In the News DONATE "House District 98 deserves a battle-tested CHRISTIAN conservative who delivers results, not rhetoric." Facebook-f X-twitter "House District 98 deserves a battle-tested christian conservative who delivers results, not rhetoric." Facebook-f X-twitter Mayor Armin Mizani will end policies that incentivize illegal immigration, will lower property taxes, and will drive down costs for every Texas family.
+First Last Email Phone Opt In By providing your phone number and checking this box, you are consenting to receive text messages, including autodialed and automated texts, to that number from the Armin Mizani Campaign.
+Message frequency may vary.
+Standard message and data rates may apply.
+Reply STOP to unsubscribe.
+Terms & conditions and privacy policy apply: Privacy Policy & Terms of Use Endorse I want to endorse Mayor Mizani!
+Volunteer I want to volunteer to help Mayor Mizani!
+Submit $50 $100 $250 $500 $1000 OTHER Select an Option to Contribute Let's Send Mayor Armin Mizani to Austin!
+Meet Armin Mayor Armin Mizani is a proven conservative fighter who has delivered real results for the people of North Texas.
 As the former Mayor of Keller and a former City Councilman, Mayor Mizani has been widely regarded for championing tax relief, defending public safety, prioritizing infrastructure improvements, and standing up for Texas values.
-Mayor Mizani will fight to end policies that incentivize illegal immigration, will continue to support President Trump in his deportation operations, and will continue to fully fund Operation Lone Star… Read More
-Mayor Mizani will support an all of the above approach: increase the homestead expansion, compress local rates to get as close to zero as possible, and do everything to ensure Texans, not the government, can own their homes… Read More
-Mayor Mizani will support efforts that allow families to use their tax dollars to choose the best option for their kids, will fight to expand parental rights and keep woke ideology out of the classroom… Read More
-Mayor Mizani believes prosecutors who refuse to enforce the law should be removed.
-Texans deserve safe neighborhoods, not excuses from activist District Attorneys… Read More
-Mayor Mizani believes surpluses should be returned to the taxpayers, not spent on needlessly growing government on pet projects… Read More
-Mayor Mizani will support policies that keep Texas the best place in America to start a business, raise a family, and achieve the American dream… Read More
-Mayor Mizani will support legislation that removes regulatory roadblocks, ensuring every tax dollar goes toward real improvements, not bureaucratic bloat… Read More
-Mayor Mizani believes the right to bear arms was settled in 1791 with the adoption of the 2nd amendment to the U.S. constitution.
-Simply put: our right to bear arms shall not be infringed… Read More
-Mayor Mizani will continue to support efforts that protect the unborn while ensuring there is adequate funding for adoption services… Read More
-Mayor Mizani: “Redistricting will protect Texas’ conservative wins.
-Let’s get it done”
-Fort Worth Star-Telegram 8/14/25
-Mayor Mizani: “This is about protecting victims, supporting federal law, and preventing dangerous individuals from slipping through the cracks…”
-Fort Worth Star-Telegram 7/22/25
-Mayor Mizani on ICE Partnership: “It’s only to the benefit of law-abiding citizens.
-That’s really what this program is about…”
-Fox 4 KDFW 7/18/25
-Mayor Mizani: Keller to become the first in Tarrant County to formally partner with ICE
-Channel 5 NBCDFW 7/17/25
-Mayor Mizani hopes other cities will join the 287(g) program after Keller
-KERA News 7/17/25
-mayor MIZANI vows to support Donald Trump
-the Houston chronicle 10/30/24
-Mayor Mizani: “The crisis at our southern border is not a red or blue issue.
-It is a national security threat”
-Fort Worth Star-Telegram 11/25/23
+Read More Mayor Armin Mizani on the Issues Border Security Mayor Mizani will fight to end policies that incentivize illegal immigration, will continue to support President Trump in his deportation operations, and will continue to fully fund Operation Lone Star… Read More Property Taxes Mayor Mizani will support an all of the above approach: increase the homestead expansion, compress local rates to get as close to zero as possible, and do everything to ensure Texans, not the government, can own their homes… Read More School Choice & Public School Funding Mayor Mizani will support efforts that allow families to use their tax dollars to choose the best option for their kids, will fight to expand parental rights and keep woke ideology out of the classroom… Read More Crime & Public Safety Mayor Mizani believes prosecutors who refuse to enforce the law should be removed.
+Texans deserve safe neighborhoods, not excuses from activist District Attorneys… Read More Government Spending Mayor Mizani believes surpluses should be returned to the taxpayers, not spent on needlessly growing government on pet projects… Read More Economic Development Mayor Mizani will support policies that keep Texas the best place in America to start a business, raise a family, and achieve the American dream… Read More Infrastructure Mayor Mizani will support legislation that removes regulatory roadblocks, ensuring every tax dollar goes toward real improvements, not bureaucratic bloat… Read More Protecting the 2nd Amendment Mayor Mizani believes the right to bear arms was settled in 1791 with the adoption of the 2nd amendment to the U.S. constitution.
+Simply put: our right to bear arms shall not be infringed… Read More Protecting the Unborn Mayor Mizani will continue to support efforts that protect the unborn while ensuring there is adequate funding for adoption services… Read More Read More Mayor Armin Mizani in the News Mayor Mizani: “Redistricting will protect Texas’ conservative wins.
+Let’s get it done” Fort Worth Star-Telegram 8/14/25 Mayor Mizani: “This is about protecting victims, supporting federal law, and preventing dangerous individuals from slipping through the cracks…” Fort Worth Star-Telegram 7/22/25 Mayor Mizani on ICE Partnership: “It’s only to the benefit of law-abiding citizens.
+That’s really what this program is about…” Fox 4 KDFW 7/18/25 Mayor Mizani: Keller to become the first in Tarrant County to formally partner with ICE Channel 5 NBCDFW 7/17/25 Mayor Mizani hopes other cities will join the 287(g) program after Keller KERA News 7/17/25 mayor MIZANI vows to support Donald Trump the Houston chronicle 10/30/24 Mayor Mizani: “The crisis at our southern border is not a red or blue issue.
+It is a national security threat” Fort Worth Star-Telegram 11/25/23 Read More Facebook-f X-twitter Contact: Armin@VoteArmin.com By providing your phone number, you are consenting to receive calls and SMS/MMS msgs, including autodialed and automated calls and texts, to that number from Armin Mizani Campaign.
+Msg&data rates may apply.
+Meet Armin Issues Endorsements In the News Volunteer Media Video Pictures Privacy Policy Meet Armin Issues Endorsements In the News Volunteer Media Video Pictures Privacy Policy Meet Armin Issues Endorsements In the News Volunteer Media Video Pictures Privacy Policy Meet Armin Issues Endorsements In the News Volunteer Media Video Pictures Privacy Policy Paid for by Armin Mizani Campaign

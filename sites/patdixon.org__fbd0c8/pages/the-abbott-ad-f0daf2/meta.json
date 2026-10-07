@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/the-abbott-ad/",
- "paid_for_by": null,
+ "fingerprint": "8e0ec8917da73aaba84237c39157c8a4b6b9100a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Abbott Ad",
  "years_mentioned": [
+  "1995",
+  "2015",
   "2017",
-  "2018"
+  "2018",
+  "2026"
  ]
 }

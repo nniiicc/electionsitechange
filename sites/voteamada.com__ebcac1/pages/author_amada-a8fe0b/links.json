@@ -1,32 +1,186 @@
 [
-"https://facebook.com/voteamada",
-"https://instagram.com/amadaformnhouse",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/2020/05/04/covid/amada",
-"https://voteamada.com/2020/06/17/community-safety-in-columbia-heights/amada",
-"https://voteamada.com/2020/07/27/skin-color-and-equity-in-city-policy/amada",
-"https://voteamada.com/2020/10/25/the-hero-we-all-need/amada",
-"https://voteamada.com/2020/11/03/victory-amada-marquez-simula-elected-mayor/amada",
-"https://voteamada.com/2022/01/20/renters-deserve-dignified-housing/amada",
-"https://voteamada.com/2022/11/09/mayor-amada-marquez-simula-re-elected/amada",
-"https://voteamada.com/2026/04/04/house-endorsement/amada",
-"https://voteamada.com/about",
-"https://voteamada.com/author/amada",
-"https://voteamada.com/category/get-out-the-vote",
-"https://voteamada.com/category/headlines",
-"https://voteamada.com/category/issues",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://voteamada.com/tag/dfl",
-"https://voteamada.com/tag/endorsement",
-"https://voteamada.com/tag/house-of-representatives",
-"https://voteamada.com/tag/minnesota"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Amáda Márquez Simula",
+"href": "https://www.voteamada.com/author/amada/"
+},
+{
+"text": "Amáda Márquez Simula wins DFL Endorsement for House",
+"href": "https://www.voteamada.com/2026/04/04/house-endorsement/amada/"
+},
+{
+"text": "COVID-19 Help",
+"href": "https://www.voteamada.com/2020/05/04/covid/amada/"
+},
+{
+"text": "Community Safety in Columbia Heights",
+"href": "https://www.voteamada.com/2020/06/17/community-safety-in-columbia-heights/amada/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "DFL",
+"href": "https://www.voteamada.com/tag/dfl/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Get Out the Vote",
+"href": "https://www.voteamada.com/category/get-out-the-vote/"
+},
+{
+"text": "Headlines",
+"href": "https://www.voteamada.com/category/headlines/"
+},
+{
+"text": "House of Representatives",
+"href": "https://www.voteamada.com/tag/house-of-representatives/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/category/issues/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Mayor Amáda Márquez Simula Re-Elected!",
+"href": "https://www.voteamada.com/2022/11/09/mayor-amada-marquez-simula-re-elected/amada/"
+},
+{
+"text": "Minnesota",
+"href": "https://www.voteamada.com/tag/minnesota/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2020/05/04/covid/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2020/06/17/community-safety-in-columbia-heights/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2020/07/27/skin-color-and-equity-in-city-policy/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2020/10/25/the-hero-we-all-need/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2020/11/03/victory-amada-marquez-simula-elected-mayor/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2022/01/20/renters-deserve-dignified-housing/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2022/11/09/mayor-amada-marquez-simula-re-elected/amada/"
+},
+{
+"text": "Read more",
+"href": "https://www.voteamada.com/2026/04/04/house-endorsement/amada/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "Renters Deserve Dignified Housing",
+"href": "https://www.voteamada.com/2022/01/20/renters-deserve-dignified-housing/amada/"
+},
+{
+"text": "Skin Color and Equity in City Policy",
+"href": "https://www.voteamada.com/2020/07/27/skin-color-and-equity-in-city-policy/amada/"
+},
+{
+"text": "The Hero We all Need… is YOU",
+"href": "https://www.voteamada.com/2020/10/25/the-hero-we-all-need/amada/"
+},
+{
+"text": "VICTORY! Amáda Márquez Simula Elected Mayor",
+"href": "https://www.voteamada.com/2020/11/03/victory-amada-marquez-simula-elected-mayor/amada/"
+},
+{
+"text": "[image: Amáda Márquez Simula elected Mayor of Columbia Heights, MN]",
+"href": "https://www.voteamada.com/2020/11/03/victory-amada-marquez-simula-elected-mayor/amada/"
+},
+{
+"text": "[image: Amáda Márquez Simula for Mayor - Skin Color and Equity in City Policy]",
+"href": "https://www.voteamada.com/2020/07/27/skin-color-and-equity-in-city-policy/amada/"
+},
+{
+"text": "[image: Amáda Márquez Simula for Mayor of Columbia Heights]",
+"href": "https://www.voteamada.com/2020/06/17/community-safety-in-columbia-heights/amada/"
+},
+{
+"text": "[image: Amáda Márquez Simula wins DFL Endorsement! Minnesota House of Representatives District 39B]",
+"href": "https://www.voteamada.com/2026/04/04/house-endorsement/amada/"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: COVID-19]",
+"href": "https://www.voteamada.com/2020/05/04/covid/amada/"
+},
+{
+"text": "[image: Columbia Heights Renters Deserve Dignified Housing]",
+"href": "https://www.voteamada.com/2022/01/20/renters-deserve-dignified-housing/amada/"
+},
+{
+"text": "[image: Like a hero, Amáda Márquez Simula looks over the city near the Central Avenue footbridge. A searchlight featuring her circular Á insignia illuminates the night sky.]",
+"href": "https://www.voteamada.com/2020/10/25/the-hero-we-all-need/amada/"
+},
+{
+"text": "[image: Mayor Amáda Márquez Simula won her 2022 campaign and was re-elected for another term.]",
+"href": "https://www.voteamada.com/2022/11/09/mayor-amada-marquez-simula-re-elected/amada/"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "endorsement",
+"href": "https://www.voteamada.com/tag/endorsement/"
+}
 ]

@@ -1,18 +1,11 @@
-Press Releases
-April McClain Delaney releases new TV ad ‘Results’
-For Immediate Release: June 27, 2024 Contact: Chandler Dunn Email: [email protected] Frederick, MD – Today, the April McClain Delaney for Congress campaign is releasing a new tv ad, “Results,” reinforcing McClain Delaney’s commitment to bringing a bipartisan approach to Congress.
-The ad, which will air during the first presidential debate, is the campaign’s first since […]
-Press Releases
-April McClain Delaney Releases Second Television Ad
-For Immediate Release: April 3, 2024 Contact: Susan Kenedy, (301) 639-9644 April McClain Delaney Releases Second Television Ad Commercial Focuses on Protecting Kids From Big Tech Frederick, MD – April McClain Delaney’s campaign has released its second ad, focusing on protecting kids online.
-The ad will run district wide and is the second […]
-In the News
-Frederick News Post: Grammar Drops Out, Endorses April McClain Delaney
-Press Releases
-District 6 Women Endorse April McClain Delaney as a Show of Unity During Women’s History Month
-For Immediate Release March 28, 2024 Contact: Susan Kenedy, 301-639-9644 District 6 Women Endorse April McClain Delaney as a Show of Unity During Women’s History Month Frederick, MD., March 27, 2024 – In a major show of support, four accomplished District 6 women leaders have announced their support of April McClain Delaney in the race […]
-In the News
-MoCo 360: Endorsements Stack up in Maryland 6th Congressional District
-In the News
-Frederick NewsPost: Democratic Congressional Candidates Hold Forum in Frederick
-In the News
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer The Latest Campaign News Campaign News In the News Press Releases Press Releases April McClain Delaney releases new TV ad ‘Results’ For Immediate Release: June 27, 2024 Contact: Chandler Dunn Email: [email protected] Frederick, MD – Today, the April McClain Delaney for Congress campaign is releasing a new tv ad, “Results,” reinforcing McClain Delaney’s commitment to bringing a bipartisan approach to Congress.
+The ad, which will air during the first presidential debate, is the campaign’s first since […] 06.27.24 Press Releases April McClain Delaney Releases Second Television Ad For Immediate Release: April 3, 2024 Contact: Susan Kenedy, (301) 639-9644 April McClain Delaney Releases Second Television Ad Commercial Focuses on Protecting Kids From Big Tech Frederick, MD – April McClain Delaney’s campaign has released its second ad, focusing on protecting kids online.
+The ad will run district wide and is the second […] 04.03.24 In the News Frederick News Post: Grammar Drops Out, Endorses April McClain Delaney 03.29.24 Press Releases District 6 Women Endorse April McClain Delaney as a Show of Unity During Women’s History Month For Immediate Release March 28, 2024 Contact: Susan Kenedy, 301-639-9644 District 6 Women Endorse April McClain Delaney as a Show of Unity During Women’s History Month Frederick, MD., March 27, 2024 – In a major show of support, four accomplished District 6 women leaders have announced their support of April McClain Delaney in the race […] 03.28.24 In the News MoCo 360: Endorsements Stack up in Maryland 6th Congressional District 03.26.24 In the News Frederick NewsPost: Democratic Congressional Candidates Hold Forum in Frederick 03.25.24 In the News Maryland Matters: News About Congressional Races Across the State 03.13.24 « Previous 1 … 6 7 8 9 10 Next » Up Next April McClain Delaney earns recommendation from the National Education Association in bid for Maryland’s 6th Congressional District Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

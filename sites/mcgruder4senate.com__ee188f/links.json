@@ -1,10 +1,42 @@
 [
-"http://facebook.com/McGruder4house",
-"https://cash.app/$mcgruder4house",
-"https://docs.google.com/forms/d/e/1FAIpQLSeTeT3VczWNGdWj8Q81ysqyIeoHcEpm4ahYLw1Ylj2OxI4WRw/viewform?usp=sf_link",
-"https://mcgruder4senate.com/",
-"https://mcgruder4senate.com/blank-1",
-"https://mcgruder4senate.com/blank-2",
-"https://mcgruder4senate.com/issues",
-"https://secure.actblue.com/donate/mcgruder2026"
+{
+"text": "About Jessie",
+"href": "https://www.mcgruder4senate.com/blank-1"
+},
+{
+"text": "CashApp",
+"href": "https://cash.app/%24mcgruder4house"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mcgruder2026"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/mcgruder2026"
+},
+{
+"text": "Home",
+"href": "https://www.mcgruder4senate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.mcgruder4senate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.mcgruder4senate.com/blank-2"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeTeT3VczWNGdWj8Q81ysqyIeoHcEpm4ahYLw1Ylj2OxI4WRw/viewform?usp=sf_link"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/McGruder4house"
+},
+{
+"text": "mcgruder4arkansashouse@gmail.com",
+"href": "mailto:mcgruder4arkansashouse@gmail.com"
+}
 ]

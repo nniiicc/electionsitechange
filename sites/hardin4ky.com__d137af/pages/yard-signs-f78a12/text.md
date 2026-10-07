@@ -1,4 +1,7 @@
-Let’s Work Together
-Show your support for our campaign!
+0 Skip to Content About Endorsements Personal Endorsements Issues Data Centers Fair Wages, Unions & Workplace Safety Healthcare & Medicaid Education Building a Kentucky You Can Afford Clean Water, Clean Air & Responsible Growth Veterans & Military Families Transparency & Accountability Attainable Housing Ballotpedia Am I in District 33?
+Volunteer Donations Donation Transparency Voter Pledge Form Get Involved Yard Signs Contact Donate Open Menu Close Menu Open Menu Close Menu Donate About Endorsements Personal Endorsements Issues Data Centers Fair Wages, Unions & Workplace Safety Healthcare & Medicaid Education Building a Kentucky You Can Afford Clean Water, Clean Air & Responsible Growth Veterans & Military Families Transparency & Accountability Attainable Housing Ballotpedia Am I in District 33?
+Volunteer Donations Donation Transparency Voter Pledge Form Get Involved Yard Signs Contact About Endorsements Personal Endorsements Folder: Issues Back Data Centers Fair Wages, Unions & Workplace Safety Healthcare & Medicaid Education Building a Kentucky You Can Afford Clean Water, Clean Air & Responsible Growth Veterans & Military Families Transparency & Accountability Attainable Housing Ballotpedia Am I in District 33?
+Folder: Volunteer Back Donations Donation Transparency Voter Pledge Form Get Involved Yard Signs Contact Donate Let’s Work Together Show your support for our campaign!
 Sign up below to receive a Jennifer Hardin yard sign.
 We’ll deliver it straight to your home in District 33.
+Paid for by Jennifer Hardin For State Representative Democrat for District 33 Hardin4ky@gmail.com Donate now!

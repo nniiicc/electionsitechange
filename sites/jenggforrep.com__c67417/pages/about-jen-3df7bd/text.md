@@ -1,4 +1,5 @@
-Jennifer Gong-Gershowitz brings smart, common-sense leadership to Springfield.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact About Jen Home About Jen Jennifer Gong-Gershowitz brings smart, common-sense leadership to Springfield.
 A pragmatic and tenacious problem-solver, she has built a strong record of fighting corruption, protecting women’s rights, and advancing environmental protections.
 Jennifer isn’t afraid to speak truth to power.
 She was one of the first members of the Illinois House to publicly call for Speaker Madigan’s resignation and helped form the voting bloc that ultimately led to his departure.
@@ -21,14 +22,5 @@ She has championed legislation like Karina’s Law and Fix the FOID to close loo
 Jennifer’s life experience gives her a unique ability to bridge divides and bring people together.
 She knows our democracy works best when all voices are heard, and she is committed to making government more inclusive, accountable, and effective.
 As State Representative, she will continue bringing communities into the conversation—and lead with the determination to deliver real solutions.
-Loyola University Chicago School of Law
-International Human Rights Law
-Northwestern University Pritzker School of Law
-Indiana University
-North Suburban Legal Aid Clinic
-Winston and Strawn
-Glenview Education Foundation
-Heartland Alliance
-UN World Refugee Day
-Chicago Bar Association
-Temple Jeremiah
+Education and Experience Law Degree, with honors Loyola University Chicago School of Law Masters International Human Rights Law Northwestern University Pritzker School of Law B.A., Journalism Indiana University Director North Suburban Legal Aid Clinic Former Litigation Associate Winston and Strawn Former Board Member Glenview Education Foundation Former Board Member Heartland Alliance Speaker & Honoree UN World Refugee Day Pro Bono Leadership Award Chicago Bar Association Social Justice Committee Temple Jeremiah Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

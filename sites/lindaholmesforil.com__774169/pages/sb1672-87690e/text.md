@@ -1,4 +1,4 @@
-Amends the Illinois Insurance Code.
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute ACCOMPLISHMENTS SB1672 Amends the Illinois Insurance Code.
 Provides that an insurer that issues a policy or contract insuring against liability for injury to any person or against liability for injury to or destruction of property, arising out of ownership or lease of residential one, 2, 3, or 4 dwelling real property, may cancel, charge, or impose an increased premium or rate for or refuse to issue or renew that kind of policy or contract based in whole or in part upon the harboring of a dog found to be vicious under the Animal Control Act upon the insured property.
 Provides that an insurer that issues a policy or contract insuring against liability for injury to any person or against liability for injury to or destruction of property, arising out of ownership or lease of residential one, 2, 3, or 4 dwelling real property, may not cancel, charge, or impose an increased premium or rate for or refuse to issue or renew that kind of policy or contract based in whole or in part upon the harboring of a specific breed of dog upon the insured property.
 Provides that before issuing a policy or contract an insurer may not ask or inquire about a dog’s breed upon the insured property, but may ask or inquire about: the number of dogs on the property; whether the dogs have been sterilized; and whether any of the dogs have been deemed vicious dogs under the Animal Control Act or have a history of biting a human.
@@ -15,3 +15,5 @@ Provides that an insurance company offering homeowner’s insurance coverage or 
 Provides that the information shall be collected for a 2-year period beginning on January 1, 2022 and shall be reported annually to the Department of Insurance.
 Requires the Department to make the information available on the Department’s website by July 1, 2023 and update the information each July 1 through July 1, 2024.
 Provides that the information or data collected by the Department shall not be released or published in any way that violates the confidentiality or proprietary status or nature of the data.
+Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

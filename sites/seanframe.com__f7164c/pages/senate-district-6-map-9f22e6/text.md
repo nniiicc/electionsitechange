@@ -1,4 +1,5 @@
-Find out if you’re in this big beautiful District!
-Areas Covered
-Placer County: Auburn, Granite Bay, Lincoln, Loomis, Newcastle, Penryn, Rocklin, Roseville, and Sheridan.
+0 Skip to Content Home Endorsements Donate Endorse Sean About Sean Issues Senate District 6 Map Upcoming Events and Actions Re-FRAME the Senate Open Menu Close Menu Open Menu Close Menu Home Endorsements Donate Endorse Sean About Sean Issues Senate District 6 Map Upcoming Events and Actions Re-FRAME the Senate Home Endorsements Donate Endorse Sean About Sean Issues Senate District 6 Map Upcoming Events and Actions Re-FRAME the Senate Find out if you’re in this big beautiful District!
+The map of California State Senate District 6.
+Areas Covered Placer County: Auburn, Granite Bay, Lincoln, Loomis, Newcastle, Penryn, Rocklin, Roseville, and Sheridan.
 Sacramento County: Antelope, Arden-Arcade, Carmichael, Citrus Heights, Clay, Fair Oaks, Folsom, Foothill Farms, Franklin, Galt, Gold River, Herald, Mather, North Highlands, Orangevale, Rancho Cordova, Rancho Murieta, and Wilton.
+Sean Frame for California State Senate, District 6 1700 Tribute Road, Suite 201 Sacramento, CA 95815 415-309-6912 team@seanframe.com Paid for by Frame for Senate 2026 FPPC ID #1486532 Privacy Policy

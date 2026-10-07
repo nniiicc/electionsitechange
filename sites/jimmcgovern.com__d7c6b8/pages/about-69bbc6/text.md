@@ -1,5 +1,4 @@
-Meet Jim
-Jim McGovern has earned a national reputation as a tireless advocate for his district and as a champion for food security, human rights, campaign finance reform, social justice and peace.
+Home | Menu | Sign Up | Donate Jim McGovern for Congress - https://www.jimmcgovern.com Meet Jim News Volunteer Contact Donate Meet Jim Jim McGovern has earned a national reputation as a tireless advocate for his district and as a champion for food security, human rights, campaign finance reform, social justice and peace.
 Born and raised in Worcester, Massachusetts, Jim is the son of two successful small business owners, Walter and Mindy.
 Both his sisters are teachers in the Worcester Public Schools.
 Jim is married to Lisa Murray McGovern and they have a son, Patrick and a daughter, Molly.
@@ -23,3 +22,10 @@ Jim is one of the leading voices in Congress fighting to overturn Citizens Unite
 Jim earned his Bachelor of Arts (‘81) and Masters of Public Administration (‘84) degrees from The American University, working his way through college by serving as an aide in the office of U.S.
 Senator George McGovern (D-SD).
 He went on to manage Senator McGovern’s 1984 Presidential campaign in Massachusetts, and delivered his nomination speech during the 1984 Democratic National Convention in San Francisco.
+Learn More In Congress, Jim works to defend human rights, reform our campaign finance system, end hunger, and create an economy where everyone can thrive.
+Get the latest updates.
+Join this effort to support Massachusetts families.
+Together we can make it happen.
+Donate Now Meet Jim Jim McGovern represents the 2nd District of the Commonwealth of Massachusetts.
+He has earned a national reputation as a tireless advocate for his district and as a champion for food security, human rights, campaign finance reform, social justice and peace.
+Learn More Team McGovern Meet Jim News Volunteer Contact Donate © # Re-Elect McGovern Committee Privacy Policy | Contact Us Paid for and authorized by the Re-Elect McGovern Committee Powered by Mandate Media .

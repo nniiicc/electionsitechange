@@ -1,5 +1,4 @@
-At Home in Maine
-My parents brought me to Maine at the age of 9.
+0 Skip to Content AuCoin for House District 55 Home About Priorities Making Change Community Endorsements Contact Donate Open Menu Close Menu AuCoin for House District 55 Home About Priorities Making Change Community Endorsements Contact Donate Open Menu Close Menu Home About Priorities Making Change Community Endorsements Contact Donate At Home in Maine My parents brought me to Maine at the age of 9.
 They always modeled for me and my sister the importance of community engagement and volunteerism.
 They showed me what it means to show up for our neighbors and to stand up for what’s right.
 I’ve carried those lessons into my life through active participation in many community organizations and projects.
@@ -10,6 +9,6 @@ I live in one of the best neighborhoods in Maine with my wife, Alex, and our 2 p
 When I’m not serving on committees, pitching in on local projects or attending community events, I take every opportunity I have to enjoy this amazing place.
 I’ve spent many, many days hiking, camping, fishing and snowshoeing.
 While I also love to travel to far away places, I feel so fortunate to live in a place that I’m excited to come home to.
-Join me
-Interested in volunteering?
+Join me Interested in volunteering?
 I’d love to have your support!
+AuCoin for House District 55 (207) 446-3479 aucoinforhouse55@gmail.com Paid for and authorized by the candidate

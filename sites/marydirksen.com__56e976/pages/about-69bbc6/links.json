@@ -1,7 +1,26 @@
 [
-"https://marydirksen.com/",
-"https://marydirksen.com/about",
-"https://marydirksen.com/cart",
-"https://marydirksen.com/home",
-"https://secure.anedot.com/mary-dirksen-for-oregon/donate"
+{
+"text": "0",
+"href": "https://www.marydirksen.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.marydirksen.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mary-dirksen-for-oregon/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.marydirksen.com/"
+},
+{
+"text": "HOME",
+"href": "https://www.marydirksen.com/home"
+},
+{
+"text": "[image: Mary Dirksen for State Senate]",
+"href": "https://www.marydirksen.com/"
+}
 ]

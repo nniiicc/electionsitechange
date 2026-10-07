@@ -1,37 +1,170 @@
 [
-"https://act.eonforassembly.com/",
-"https://brooklynpaper.com/brooklyn-progressives-victory-2026-primary",
-"https://cityandstateny.com/politics/2024/04/new-york-state-legislature-2024-races-watch/393323",
-"https://cityandstateny.com/politics/2025/11/huntley-launches-new-assembly-campaign-against-zinerman/409481",
-"https://citylimits.org/candidates-on-housing-dsa-backed-eon-huntley-vies-for-bed-stuy-assembly-seat",
-"https://citylimits.org/opinion-corporate-democrats-who-refuse-to-tax-the-rich-are-protecting-their-donors-vote-them-out",
-"https://eonforassembly.com/",
-"https://eonforassembly.com/platform",
-"https://eonforassembly.com/platform/ai-regulation",
-"https://eonforassembly.com/platform/childcare-education",
-"https://eonforassembly.com/platform/climate-justice",
-"https://eonforassembly.com/platform/healthcare",
-"https://eonforassembly.com/platform/housing",
-"https://eonforassembly.com/platform/immigrant-justice",
-"https://eonforassembly.com/platform/labor",
-"https://eonforassembly.com/platform/lgbtqi",
-"https://eonforassembly.com/platform/no-genocide-no-war",
-"https://eonforassembly.com/platform/public-power",
-"https://eonforassembly.com/platform/racial-justice",
-"https://eonforassembly.com/platform/transit",
-"https://facebook.com/EonForAssembly",
-"https://hellgatenyc.com/dsa-inauguration-party",
-"https://hellgatenyc.com/eon-huntley-dsa-fit-god-bed-stuy-state-assembly",
-"https://indypendent.org/2024/02/department-store-worker-eon-huntley-pitches-socialist-solutions-in-bid-for-brooklyn-assembly-seat",
-"https://instagram.com/eonhuntleyforbrooklyn",
-"https://interviewmagazine.com/culture/eon-tyrell-huntley-state-assembly-56-district-bed-stuy-bergdorf-goodman-the-row",
-"https://jacobin.com/2026/06/nyc-dsa-candidate-slate",
-"https://secure.actblue.com/donate/eon-tyrell-huntley-1",
-"https://secure.actblue.com/donate/eon-tyrell-huntley-1?amount=10",
-"https://secure.actblue.com/donate/eon-tyrell-huntley-1?amount=100",
-"https://secure.actblue.com/donate/eon-tyrell-huntley-1?amount=25",
-"https://secure.actblue.com/donate/eon-tyrell-huntley-1?amount=56",
-"https://thecity.nyc/2024/06/10/pac-women-real-estate-brooklyn-zinerman-huntley",
-"https://timesunion.com/state/article/democrat-socialists-double-ranks-ny-legislature-22318538.php?oref=csny_firstreadtonight_nl",
-"https://x.com/EonHuntley4BKN"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/?amount=25"
+},
+{
+"text": "$56",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/?amount=56"
+},
+{
+"text": "A DSA Dance Party on Inauguration Day",
+"href": "https://hellgatenyc.com/dsa-inauguration-party/"
+},
+{
+"text": "AI RegulationStand up to Big Tech, protect kids, stop scammers & put a moratorium on data centers.",
+"href": "https://eonforassembly.com/platform/ai-regulation"
+},
+{
+"text": "About",
+"href": "https://eonforassembly.com/#about"
+},
+{
+"text": "Backed by Real Estate Interests, a PAC Touting Women Leaders Targets Pro-Tenant Candidates",
+"href": "https://www.thecity.nyc/2024/06/10/pac-women-real-estate-brooklyn-zinerman-huntley/"
+},
+{
+"text": "Brooklyn Progressives Soar to Victory in 2026 Democratic Primary",
+"href": "https://www.brooklynpaper.com/brooklyn-progressives-victory-2026-primary/"
+},
+{
+"text": "Candidates on Housing: DSA-Backed Eon Huntley Vies for Bed-Stuy Assembly Seat",
+"href": "https://citylimits.org/candidates-on-housing-dsa-backed-eon-huntley-vies-for-bed-stuy-assembly-seat/"
+},
+{
+"text": "Childcare & EducationFund kids' futures from cradle to CUNY: Childcare for all, fully-funded public schools & free CUNY & SUNY",
+"href": "https://eonforassembly.com/platform/childcare-education"
+},
+{
+"text": "Climate JusticeFight for a Green New Deal for New York, oppose new fossil-fuel infrastructure, and fund climate resilience.",
+"href": "https://eonforassembly.com/platform/climate-justice"
+},
+{
+"text": "Democratic socialists topple incumbents, sweep open seats in state Legislature",
+"href": "https://www.timesunion.com/state/article/democrat-socialists-double-ranks-ny-legislature-22318538.php?oref=csny_firstreadtonight_nl"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/"
+},
+{
+"text": "Endorsements",
+"href": "https://eonforassembly.com/#endorsements"
+},
+{
+"text": "HealthcareGuarantee free healthcare & reproductive rights for all New Yorkers.",
+"href": "https://eonforassembly.com/platform/healthcare"
+},
+{
+"text": "HousingFreeze the rent, expand rent controls, build permanently affordable green housing, and protect NYCHA from privatization.",
+"href": "https://eonforassembly.com/platform/housing"
+},
+{
+"text": "Huntley launches new Assembly campaign against Zinerman",
+"href": "https://www.cityandstateny.com/politics/2025/11/huntley-launches-new-assembly-campaign-against-zinerman/409481/"
+},
+{
+"text": "Immigrant JusticePass the NY For All Act to keep ICE off our streets and end New York's complicity in ICE detention.",
+"href": "https://eonforassembly.com/platform/immigrant-justice"
+},
+{
+"text": "LGBTQI+Stand up to Trump, defend gender-affirming care & protect at-risk youth.",
+"href": "https://eonforassembly.com/platform/lgbtqi"
+},
+{
+"text": "LaborStand with workers, protect union rights, and fight for a $30/hr state minimum wage.",
+"href": "https://eonforassembly.com/platform/labor"
+},
+{
+"text": "Meet Eon Tyrell Huntley, the Bergdorf Associate Running for State Assembly",
+"href": "https://www.interviewmagazine.com/culture/eon-tyrell-huntley-state-assembly-56-district-bed-stuy-bergdorf-goodman-the-row"
+},
+{
+"text": "NYC Socialists Are Trying to Expand Their Electoral Wins",
+"href": "https://jacobin.com/2026/06/nyc-dsa-candidate-slate"
+},
+{
+"text": "New York State Legislature 2024 races to watch",
+"href": "https://www.cityandstateny.com/politics/2024/04/new-york-state-legislature-2024-races-watch/393323/"
+},
+{
+"text": "News",
+"href": "https://eonforassembly.com/#news"
+},
+{
+"text": "No Genocide, No WarEnd US funding for genocide, vote for the Not on Our Dime Act, resist war and imperial oppression.",
+"href": "https://eonforassembly.com/platform/no-genocide-no-war"
+},
+{
+"text": "Opinion: Corporate Democrats Who Refuse to Tax the Rich Are Protecting Their Donors. Vote Them Out.",
+"href": "https://citylimits.org/opinion-corporate-democrats-who-refuse-to-tax-the-rich-are-protecting-their-donors-vote-them-out/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/"
+},
+{
+"text": "Platform",
+"href": "https://eonforassembly.com/platform"
+},
+{
+"text": "Public PowerFight utility rate hikes and push for full implementation of the Build Public Renewables Act.",
+"href": "https://eonforassembly.com/platform/public-power"
+},
+{
+"text": "Q&A: Department-Store Worker Eon Huntley Pitches Socialist Solutions in Bid for Brooklyn Assembly Seat",
+"href": "https://indypendent.org/2024/02/department-store-worker-eon-huntley-pitches-socialist-solutions-in-bid-for-brooklyn-assembly-seat/"
+},
+{
+"text": "Racial JusticeDecarcerate our society and get serious about reparations at the state level.",
+"href": "https://eonforassembly.com/platform/racial-justice"
+},
+{
+"text": "See the full platform →",
+"href": "https://eonforassembly.com/platform"
+},
+{
+"text": "TransitFix the MTA, make buses fast and free, and build protected bike lanes throughout the district.",
+"href": "https://eonforassembly.com/platform/transit"
+},
+{
+"text": "Volunteer",
+"href": "https://act.eonforassembly.com/"
+},
+{
+"text": "We won. On to the general election!Donate to the fund→Donate to the general election fund→",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/"
+},
+{
+"text": "Will Bed-Stuy Elect a DSA Fit God to the State Assembly?",
+"href": "https://hellgatenyc.com/eon-huntley-dsa-fit-god-bed-stuy-state-assembly/"
+},
+{
+"text": "[image: Eon Huntley for Assembly]",
+"href": "https://eonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EonForAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eonhuntleyforbrooklyn/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EonHuntley4BKN"
+},
+{
+"text": "info@eonforassembly.com",
+"href": "mailto:info@eonforassembly.com"
+}
 ]

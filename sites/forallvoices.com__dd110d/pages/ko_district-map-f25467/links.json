@@ -1,33 +1,150 @@
 [
-"https://facebook.com/CMoralesCAGov?view_public_for=103680042208119",
-"https://forallvoices.com/district-map",
-"https://forallvoices.com/es/district-map",
-"https://forallvoices.com/ja/district-map",
-"https://forallvoices.com/ko",
-"https://forallvoices.com/ko/accessibility",
-"https://forallvoices.com/ko/contact-us",
-"https://forallvoices.com/ko/district-map",
-"https://forallvoices.com/ko/meet-cristian",
-"https://forallvoices.com/ko/platform",
-"https://forallvoices.com/ko/privacy-policy",
-"https://forallvoices.com/ko/volunteer",
-"https://forallvoices.com/vi/district-map",
-"https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-for-Congress-2026-en.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-ch.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-jp.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-kr.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-vietnamese.pdf",
-"https://forallvoices.com/zh/district-map",
-"https://gab.com/CMoralesCAGov",
-"https://gettr.com/user/cmoralescagov",
-"https://instagram.com/cmoralescagov",
-"https://linkedin.com/in/cmoralescagov",
-"https://parler.com/user/CMoralesCAGov",
-"https://rumble.com/c/c-1317224",
-"https://secure.winred.com/cristian-morales-for-congress/donate-today",
-"https://tiktok.com/@cmoralescagov?lang=en",
-"https://twitter.com/CMoralesCaGov",
-"https://userway.org/",
-"https://youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+{
+"text": "English",
+"href": "https://forallvoices.com/district-map/"
+},
+{
+"text": "Español",
+"href": "https://forallvoices.com/es/district-map/"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://forallvoices.com/vi/district-map/"
+},
+{
+"text": "[image: 크리스티안 모랄레스, 연방 하원 의원 후보]",
+"href": "https://forallvoices.com/ko/"
+},
+{
+"text": "[image]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: 갑]",
+"href": "https://gab.com/CMoralesCAGov"
+},
+{
+"text": "[tooltip: 겟트르 (게트르)]",
+"href": "https://www.gettr.com/user/cmoralescagov"
+},
+{
+"text": "[tooltip: 럼 블]",
+"href": "https://rumble.com/c/c-1317224"
+},
+{
+"text": "[tooltip: 링크드 인]",
+"href": "https://www.linkedin.com/in/cmoralescagov/"
+},
+{
+"text": "[tooltip: 유튜브]",
+"href": "https://www.youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+},
+{
+"text": "[tooltip: 인스타그램]",
+"href": "https://www.instagram.com/cmoralescagov/"
+},
+{
+"text": "[tooltip: 지저귀다]",
+"href": "https://twitter.com/CMoralesCaGov"
+},
+{
+"text": "[tooltip: 티크톡]",
+"href": "https://www.tiktok.com/@cmoralescagov?lang=en"
+},
+{
+"text": "[tooltip: 팔러 (팔러)]",
+"href": "https://parler.com/user/CMoralesCAGov"
+},
+{
+"text": "[tooltip: 페이스 북]",
+"href": "https://www.facebook.com/CMoralesCAGov/?view_public_for=103680042208119"
+},
+{
+"text": "info@forallvoices.com",
+"href": "mailto:info@forallvoices.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+},
+{
+"text": "中文 (简体)",
+"href": "https://forallvoices.com/zh/district-map/"
+},
+{
+"text": "日本語",
+"href": "https://forallvoices.com/ja/district-map/"
+},
+{
+"text": "개인정보 처리방침",
+"href": "https://forallvoices.com/ko/privacy-policy/"
+},
+{
+"text": "검색",
+"href": "javascript:void(0)"
+},
+{
+"text": "기부",
+"href": "https://secure.winred.com/cristian-morales-for-congress/donate-today"
+},
+{
+"text": "메뉴",
+"href": "javascript:void(0)"
+},
+{
+"text": "베트남어",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-vietnamese.pdf"
+},
+{
+"text": "스페인어",
+"href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf"
+},
+{
+"text": "영어",
+"href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-for-Congress-2026-en.pdf"
+},
+{
+"text": "일본어",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-jp.pdf"
+},
+{
+"text": "자원봉사자",
+"href": "https://forallvoices.com/ko/volunteer/"
+},
+{
+"text": "접근성",
+"href": "https://forallvoices.com/ko/accessibility/"
+},
+{
+"text": "접촉",
+"href": "https://forallvoices.com/ko/contact-us/"
+},
+{
+"text": "중국어",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-ch.pdf"
+},
+{
+"text": "지구 지도",
+"href": "https://forallvoices.com/ko/district-map/"
+},
+{
+"text": "집",
+"href": "https://forallvoices.com/ko/"
+},
+{
+"text": "크리스티안을 만나보세요",
+"href": "https://forallvoices.com/ko/meet-cristian/"
+},
+{
+"text": "플랫폼",
+"href": "https://forallvoices.com/ko/platform/"
+},
+{
+"text": "한국어",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-kr.pdf"
+}
 ]

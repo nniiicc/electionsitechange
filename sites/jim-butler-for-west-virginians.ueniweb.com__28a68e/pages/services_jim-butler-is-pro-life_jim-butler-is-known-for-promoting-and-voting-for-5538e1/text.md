@@ -1,10 +1,2 @@
-Jim Butler is Pro Life
-Jim Butler is known for Promoting and Voting FOR Legislation to Protect Life
-Endorsed by West Virginians for Life multiple times for voting landmark legislation like the Pain Capable Unborn Protection Bill, and the Dismemberment Bill, as well as others.
-Contact Me
-Give us a call
-Office location
-Send us an email
-Contact Me
-Get to know me, ask questions or just list your concerns or suggestions.
-You can do so by phone, email, on on Facebook .
+Welcome How I Serve The Community Biography What My Voters Say Gallery Where To Find Me Get In Touch Follow Me 0 Jim Butler is Pro Life Jim Butler is known for Promoting and Voting FOR Legislation to Protect Life Endorsed by West Virginians for Life multiple times for voting landmark legislation like the Pain Capable Unborn Protection Bill, and the Dismemberment Bill, as well as others.
+Related services Jim Butler is a dedicated Representative for the People of … An experienced and proven representative who promotes policies to improve the lives of … Learn more Contact Me Give us a call (304) 675-3984 Office location 280 Two Mile Road, Gallipolis Ferry, West Virginia, 25515 Send us an email [email protected] Merchant Policies Legal Notice powered by

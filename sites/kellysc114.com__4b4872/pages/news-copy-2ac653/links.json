@@ -1,17 +1,66 @@
 [
-"https://bsky.app/profile/kelly-hough.bsky.social",
-"https://censusreporter.org/profiles/62000US45114-state-house-district-114-sc",
-"https://designedtorun.com/",
-"https://facebook.com/kelly.e.hough",
-"https://instagram.com/kellyechough",
-"https://kellysc114.com/",
-"https://kellysc114.com/about",
-"https://kellysc114.com/contact",
-"https://kellysc114.com/donate",
-"https://kellysc114.com/events",
-"https://kellysc114.com/issues",
-"https://kellysc114.com/news",
-"https://kellysc114.com/privacy-policy",
-"https://kellysc114.com/volunteer",
-"https://threads.net/@kellyechough"
+{
+"text": "Contact",
+"href": "https://www.kellysc114.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.kellysc114.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.kellysc114.com/events"
+},
+{
+"text": "Link to District Information",
+"href": "https://censusreporter.org/profiles/62000US45114-state-house-district-114-sc/"
+},
+{
+"text": "Need to know!",
+"href": "https://www.kellysc114.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.kellysc114.com/issues"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.kellysc114.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kellysc114.com/volunteer"
+},
+{
+"text": "Why I'm running",
+"href": "https://www.kellysc114.com/about"
+},
+{
+"text": "[image: Kelly Hough logo]",
+"href": "https://www.kellysc114.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.kellysc114.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kelly-hough.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/kelly.e.hough"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kellyechough"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@kellyechough"
+}
 ]

@@ -1,3 +1,2 @@
-Echols Receives NRA Defender of Freedom Award
-Oklahoma City, OK – Today, Jon Echols, the frontrunner for the Oklahoma Attorney General’s race, received the Defender of Freedom Award from the National Rifle Association (NRA).
-The award was presented in recognition of Jon’s work to pass constitutional carry and…
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Day March 10, 2026 Uncategorized Echols Receives NRA Defender of Freedom Award Oklahoma City, OK – Today, Jon Echols, the frontrunner for the Oklahoma Attorney General’s race, received the Defender of Freedom Award from the National Rifle Association (NRA).
+The award was presented in recognition of Jon’s work to pass constitutional carry and… campaign2026 March 10, 2026 Terms – Privacy – Opt-in Authorized and Paid for by Echols for Attorney General 2026

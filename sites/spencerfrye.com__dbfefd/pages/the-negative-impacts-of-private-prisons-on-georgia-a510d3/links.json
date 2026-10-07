@@ -1,26 +1,110 @@
 [
-"https://bjs.ojp.gov/topics/recidivism-and-reentry",
-"https://brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts",
-"https://capitalbnews.org/georgia-largest-ice-facility-trump-bill",
-"https://facebook.com/SpencerFryeStateHouse",
-"https://gov.ca.gov/2019/10/11/governor-newsom-signs-ab-32-to-halt-private-for-profit-prisons-and-immigration-detention-facilities-in-california",
-"https://humanrightsdefensecenter.org/action/news/2020/insidious-ways-building-private-prisons-creates-more-prisons",
-"https://inthepublicinterest.org/wp-content/uploads/ITPI-Recidivism-ResearchBrief-June2016.pdf",
-"https://jstor.org/stable/23375625?seq=1",
-"https://justicepolicy.org/wp-content/uploads/2022/02/gaming_the_system.pdf",
-"https://nij.ojp.gov/topics/corrections/recidivism",
-"https://oig.dhs.gov/sites/default/files/assets/2022-07/OIG-22-47-July22.pdf",
-"https://prisonpolicy.org/profiles/GA.html?gad_source=1&gad_campaignid=22899385178&gbraid=0AAAAADuNMRnyhEId5j1KdlvqSGX5YSUmD",
-"https://raskin.house.gov/2023/6/raskin-cardin-introduce-legislation-to-improve-transparency-and-accountability-in-private-prisons",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/tag/civil-rights",
-"https://spencerfrye.com/volunteer",
-"https://x.com/spencerfrye"
+{
+"text": "22% more likely to be re-convicted",
+"href": "https://www.inthepublicinterest.org/wp-content/uploads/ITPI-Recidivism-ResearchBrief-June2016.pdf"
+},
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "An Office of the Inspector General",
+"href": "https://www.oig.dhs.gov/sites/default/files/assets/2022-07/OIG-22-47-July22.pdf"
+},
+{
+"text": "California",
+"href": "https://www.gov.ca.gov/2019/10/11/governor-newsom-signs-ab-32-to-halt-private-for-profit-prisons-and-immigration-detention-facilities-in-california/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/category/capitol-corner/"
+},
+{
+"text": "Civil Rights",
+"href": "https://www.spencerfrye.com/tag/civil-rights/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "In 2021",
+"href": "https://www.brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts"
+},
+{
+"text": "Ninety five thousand",
+"href": "https://www.prisonpolicy.org/profiles/GA.html?gad_source=1&gad_campaignid=22899385178&gbraid=0AAAAADuNMRnyhEId5j1KdlvqSGX5YSUmD"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Studies show",
+"href": "https://www.humanrightsdefensecenter.org/action/news/2020/insidious-ways-building-private-prisons-creates-more-prisons/"
+},
+{
+"text": "The Folkston ICE Processing Center",
+"href": "https://capitalbnews.org/georgia-largest-ice-facility-trump-bill/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+},
+{
+"text": "comply with the Freedom of Information Act",
+"href": "https://raskin.house.gov/2023/6/raskin-cardin-introduce-legislation-to-improve-transparency-and-accountability-in-private-prisons#:~:text=Private%20prisons%2C%20jails%2C%20and%20detention,Security%20are%20subject%20to%20FOIA."
+},
+{
+"text": "deaths of inmates",
+"href": "https://www.oig.dhs.gov/sites/default/files/assets/2022-07/OIG-22-47-July22.pdf"
+},
+{
+"text": "election year",
+"href": "https://justicepolicy.org/wp-content/uploads/2022/02/gaming_the_system.pdf"
+},
+{
+"text": "half of prisoners",
+"href": "https://bjs.ojp.gov/topics/recidivism-and-reentry"
+},
+{
+"text": "last five election cycles",
+"href": "https://justicepolicy.org/wp-content/uploads/2022/02/gaming_the_system.pdf"
+},
+{
+"text": "phone calls",
+"href": "https://www.inthepublicinterest.org/wp-content/uploads/ITPI-Recidivism-ResearchBrief-June2016.pdf"
+},
+{
+"text": "release",
+"href": "https://nij.ojp.gov/topics/corrections/recidivism#:~:text=Recidivism%20is%20a%20fundamental%20concept%20in%20criminal,success%2C%20which%20informs%20probation%20and%20parole%20policy."
+},
+{
+"text": "three-strike laws",
+"href": "https://www.jstor.org/stable/23375625?seq=1"
+}
 ]

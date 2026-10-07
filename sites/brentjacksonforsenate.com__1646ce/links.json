@@ -1,13 +1,74 @@
 [
-"https://brentjacksonforsenate.com/",
-"https://brentjacksonforsenate.com/donate",
-"https://brentjacksonforsenate.com/endorsements",
-"https://brentjacksonforsenate.com/issues",
-"https://brentjacksonforsenate.com/meet-brent",
-"https://brentjacksonforsenate.com/privacy-policy",
-"https://facebook.com/brentjacksonforsenate",
-"https://secure.anedot.com/brent-jackson-for-nc-senate/donate?amount=10",
-"https://secure.anedot.com/brent-jackson-for-nc-senate/donate?amount=25",
-"https://secure.anedot.com/brent-jackson-for-nc-senate/donate?amount=50",
-"https://twitter.com/SenBrentJackson"
+{
+"text": "$10(opens in a new tab)",
+"href": "https://secure.anedot.com/brent-jackson-for-nc-senate/donate?amount=10"
+},
+{
+"text": "$25(opens in a new tab)",
+"href": "https://secure.anedot.com/brent-jackson-for-nc-senate/donate?amount=25"
+},
+{
+"text": "$50(opens in a new tab)",
+"href": "https://secure.anedot.com/brent-jackson-for-nc-senate/donate?amount=50"
+},
+{
+"text": "(opens in a new tab)",
+"href": "https://twitter.com/SenBrentJackson"
+},
+{
+"text": "(opens in a new tab)",
+"href": "https://www.facebook.com/brentjacksonforsenate/"
+},
+{
+"text": "Donate(opens in a new tab)",
+"href": "https://brentjacksonforsenate.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://brentjacksonforsenate.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://brentjacksonforsenate.com/issues/"
+},
+{
+"text": "Meet Brent",
+"href": "https://brentjacksonforsenate.com/meet-brent/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brentjacksonforsenate.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://brentjacksonforsenate.com/meet-brent"
+},
+{
+"text": "[image: Brent Jackson NC Senate]",
+"href": "https://brentjacksonforsenate.com"
+},
+{
+"text": "[image: Image]2nd Amendment",
+"href": "https://brentjacksonforsenate.com/issues"
+},
+{
+"text": "[image: Image]Agriculture",
+"href": "https://brentjacksonforsenate.com/issues"
+},
+{
+"text": "[image: Image]Coronavirus",
+"href": "https://brentjacksonforsenate.com/issues"
+},
+{
+"text": "[image: Image]Education",
+"href": "https://brentjacksonforsenate.com/issues"
+},
+{
+"text": "[image: Image]Healthcare",
+"href": "https://brentjacksonforsenate.com/issues"
+},
+{
+"text": "[image: Image]Jobs",
+"href": "https://brentjacksonforsenate.com/issues"
+}
 ]

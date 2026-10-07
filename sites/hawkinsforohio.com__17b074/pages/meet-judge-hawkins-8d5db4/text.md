@@ -1,16 +1,11 @@
-ELECTION RESULTS: LOOKING FORWARD
-Justice Dan Hawkins achieved a historic victory in his election to the Ohio Supreme Court, winning by a margin of over 540,000 votes and earning a total of 2,943,297 votes.
-His tireless work ethic and commitment to serving the people of Ohio drove him to visit every county in the state, solidifying his strong connection with voters and contributing to this remarkable result.
-With extensive experience as Director of the Franklin County Prosecutor’s SVU, a dedicated prosecutor, and a respected judge, Justice Hawkins brings unparalleled qualifications to the Ohio Supreme Court.
+top of page MEET JUSTICE HAWKINS B-Roll More Use tab to navigate through the menu items.
+DONATE ELECTION RESULTS: LOOKING FORWARD Justice Dan Hawkins achieved a historic victory in his election to the Ohio Supreme Court, winning by a margin of over 540,000 votes and earning a total of 2,943,297 votes.
+His tireless work ethic and commitment to serving the people of Ohio drove him to visit every county in the state, solidifying his strong connection with voters and contributing to this remarkable result. ​ With extensive experience as Director of the Franklin County Prosecutor’s SVU, a dedicated prosecutor, and a respected judge, Justice Hawkins brings unparalleled qualifications to the Ohio Supreme Court.
 His background equips him to thoughtfully interpret and uphold the law at the state’s highest judicial level.
 Justice Hawkins deeply respects the trust Ohioans have placed in him.
 He understands the responsibility that accompanies this overwhelming mandate and is honored by the opportunity to serve.
-Recognizing this position as a profound privilege, he is committed to carrying out his duties with diligence, integrity, and a steadfast dedication to justice.
-Hon.
-Dan Hawkins
-MEET JUSTICE HAWKINS
-A Strong Conservative for Ohio's Supreme Court
-Justice Dan Hawkins was born and raised in Columbus, Ohio.
+Recognizing this position as a profound privilege, he is committed to carrying out his duties with diligence, integrity, and a steadfast dedication to justice. ​ ​ ​ H on.
+Dan Hawkins Meet Judge Hawkins MEET JUSTICE HAWKINS A Strong Conservative for Ohio's Supreme Court Justice Dan Hawkins was born and raised in Columbus, Ohio.
 He is a proud graduate of St.
 Francis DeSales High School and earned his Bachelor of Science in Criminal Justice from Bowling Green State University.
 After completing his undergraduate studies, Justice Hawkins returned to his hometown to pursue his legal education at The Ohio State University, where he earned his law degree.
@@ -31,3 +26,6 @@ They reside on the north side of Columbus with their three children.
 Amy works with her family's business in Plain City, Ohio.
 The Hawkins family are long-time members of St.
 Paul the Apostle Catholic Church in Westerville, Ohio, where they remain active in their faith community.
+MEET JUSTICE HAWKINS B-Roll More Use tab to navigate through the menu items.
+STAY UPDATED Submit Thanks for submitting!
+JOIN THE CONVERSATION: Paid for by Hawkins for Ohio bottom of page

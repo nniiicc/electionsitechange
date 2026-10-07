@@ -1,8 +1,12 @@
-Important Election Dates:
-- Apply for vote by Mail Ballot: September 24, 2026
-- Early Vote (by mail) Begins: September 24, 2026
-- Early Vote at Early Voting Sites: October 19, 2026-November 2, 2026
-- General Election Day: November 3, 2026
-I am proud to be your state representative.
+Home About Issues News Contact Volunteer Donate & Support Home About News Donate Contact Volunteer Fightin' For The 58th Join our efforts to elect Bob Morgan for Illinois in the 58th District.
+Notice: JavaScript is required for this content.
+BM_Page_Banners_Cutout Bob_Morgan_Banner_Testifying Bob_Morgan_Banner_Talking_Members Bob_Morgan_Banner_Canvasing_Porch Bob_Morgan_Banner_Walking_Two_Women Donate & Support Important Election Dates: Apply for vote by Mail Ballot: September 24, 2026 Early Vote (by mail) Begins: September 24, 2026 Early Vote at Early Voting Sites: October 19, 2026-November 2, 2026 General Election Day: November 3, 2026 I am proud to be your state representative.
 These past few years, I have fought hard in Springfield to expand access to behavioral and reproductive healthcare, securing investment into our public schools without raising taxes, providing support for local businesses throughout the pandemic, and reducing the cost of healthcare for Illinoisans.
 I will continue to advocate for a state budget to support human services and public higher education, protecting the rights of immigrants and the LGBTQ community, and the values that are so important to all of us in the 58th House District.
+Learn More About Bob On The Issues Civil Rights Education Environment Gun Violence Prevention Health Care Small Business Every moment counts With the crisis facing state government and national politics, Bob is committed to fighting for a state budget to support human services and public higher education, protecting the rights of immigrants, and securing healthcare access for all including a woman’s right to choose.
+Donate Today In The News Proposed “Junk Fee” Reform Would Force Price Transparency in Illinois Illinois Enacts Law Requiring Seat Belts on New School Buses Illinois Department Streamlines Online Licensing System The Illinois Department of Financial and Professional Regulation (IDFPR) is rolling out a new online licensing system to replace its old paper-based, backlog-prone process — aiming to finally eliminate the […] Illinois Bill Would Limit AI in Health Insurance Decisions Rep.
+Bob Morgan: What patriotism means to me three years after the Highland Park mass shooting Address P.O.
+Box 1074 Deerfield, IL 60015 Contact info@bobmorganforillinois.com PH: (847) 282-0577 Follow Facebook LinkedIn Twitter Paid for by Friends of Bob Morgan.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Copyright.
+All Rights Reserved ©#

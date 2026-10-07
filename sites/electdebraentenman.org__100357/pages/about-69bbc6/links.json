@@ -1,12 +1,46 @@
 [
-"https://electdebraentenman.org/",
-"https://electdebraentenman.org/about",
-"https://electdebraentenman.org/cart",
-"https://electdebraentenman.org/contact-1",
-"https://electdebraentenman.org/events",
-"https://electdebraentenman.org/platform",
-"https://electdebraentenman.org/team",
-"https://electdebraentenman.org/volunteer",
-"https://facebook.com/electdebraentenman",
-"https://syndon.us/campaign/debraentenman"
+{
+"text": "0",
+"href": "https://www.electdebraentenman.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.electdebraentenman.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electdebraentenman.org/contact-1"
+},
+{
+"text": "Donate",
+"href": "https://syndon.us/campaign/debraentenman"
+},
+{
+"text": "Events",
+"href": "https://www.electdebraentenman.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.electdebraentenman.org/"
+},
+{
+"text": "Platform",
+"href": "https://www.electdebraentenman.org/platform"
+},
+{
+"text": "Team",
+"href": "https://www.electdebraentenman.org/team"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electdebraentenman.org/volunteer"
+},
+{
+"text": "[image: Debra Entenman]",
+"href": "https://www.electdebraentenman.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electdebraentenman"
+}
 ]

@@ -1,12 +1,50 @@
 [
-"https://facebook.com/RhodenforGov",
-"https://governorlarryrhoden.com/",
-"https://governorlarryrhoden.com/about",
-"https://governorlarryrhoden.com/accomplishments",
-"https://governorlarryrhoden.com/contact",
-"https://governorlarryrhoden.com/news",
-"https://governorlarryrhoden.com/privacy-policy",
-"https://governorlarryrhoden.com/your-sd-team",
-"https://secure.winred.com/larry-rhoden-for-governor/donate-today",
-"https://x.com/larryrhodensd"
+{
+"text": "About Larry",
+"href": "https://governorlarryrhoden.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://governorlarryrhoden.com/accomplishments"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Contact",
+"href": "https://governorlarryrhoden.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/larry-rhoden-for-governor/donate-today"
+},
+{
+"text": "Home",
+"href": "https://governorlarryrhoden.com/"
+},
+{
+"text": "News",
+"href": "https://governorlarryrhoden.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://governorlarryrhoden.com/privacy-policy/"
+},
+{
+"text": "Your SD Team",
+"href": "https://governorlarryrhoden.com/your-sd-team"
+},
+{
+"text": "[image]",
+"href": "https://governorlarryrhoden.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RhodenforGov"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/larryrhodensd"
+}
 ]

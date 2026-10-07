@@ -1,7 +1,11 @@
 {
  "description": "Host a coffee, virtual event, BBQ, or meet-and-greet for Carol Pefley, candidate for California State Assembly District 28. We handle the details. You bring the guests.",
  "final_url": "https://www.carolpefleyforassembly.com/host-an-event",
- "paid_for_by": "Paid for by Carol Pefley for Assembly 2026 \u00a9 Carol Pefley for California State Assembly District 28",
+ "fingerprint": "542d7fe9e4ab7e538316c79cd1025c6ba47ae6c0",
+ "format": 3,
+ "paid_for_by": "Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28",
  "title": "Host an Event for Carol Pefley | Carol Pefley for California State Assembly District 28",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

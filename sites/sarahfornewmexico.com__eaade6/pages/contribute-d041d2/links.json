@@ -1,16 +1,78 @@
 [
-"https://bsky.app/profile/sarahfornm.bsky.social",
-"https://facebook.com/SarahforNM",
-"https://instagram.com/sarahfornm",
-"https://sarahfornewmexico.com/",
-"https://sarahfornewmexico.com/about",
-"https://sarahfornewmexico.com/about-hd50",
-"https://sarahfornewmexico.com/about-sarah",
-"https://sarahfornewmexico.com/contribute",
-"https://sarahfornewmexico.com/endorsements",
-"https://sarahfornewmexico.com/get-in-touch",
-"https://sarahfornewmexico.com/priorities",
-"https://sarahfornewmexico.com/voting-info",
-"https://secure.actblue.com/donate/sarah-nm-50",
-"https://secure.numero.ai/contribute/sarahfornewmexico"
+{
+"text": "About",
+"href": "https://sarahfornewmexico.com/about"
+},
+{
+"text": "About House District 50",
+"href": "https://sarahfornewmexico.com/about-hd50"
+},
+{
+"text": "About Sarah",
+"href": "https://sarahfornewmexico.com/about-sarah"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/sarah-nm-50"
+},
+{
+"text": "Contribute",
+"href": "https://sarahfornewmexico.com/contribute"
+},
+{
+"text": "DONATe",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+},
+{
+"text": "Endorsements",
+"href": "https://sarahfornewmexico.com/endorsements"
+},
+{
+"text": "Get In Touch",
+"href": "https://sarahfornewmexico.com/get-in-touch"
+},
+{
+"text": "Home",
+"href": "https://sarahfornewmexico.com/"
+},
+{
+"text": "Numero",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+},
+{
+"text": "Priorities",
+"href": "https://sarahfornewmexico.com/priorities"
+},
+{
+"text": "Voting Info",
+"href": "https://sarahfornewmexico.com/voting-info"
+},
+{
+"text": "[image: Sarah Boses logo]",
+"href": "https://sarahfornewmexico.com/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/sarahfornm.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/SarahforNM"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/sarahfornm/"
+},
+{
+"text": "here",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+},
+{
+"text": "this link",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+}
 ]

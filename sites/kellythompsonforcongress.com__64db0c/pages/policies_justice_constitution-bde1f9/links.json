@@ -1,25 +1,98 @@
 [
-"https://airtable.com/appWMeYQyBPG3c3Zm/shr9qkmqPP08rEmrj",
-"https://facebook.com/kellyforcongress",
-"https://indianavoters.in.gov/",
-"https://instagram.com/kellythompsonforcongress",
-"https://kellythompsonforcongress.com/",
-"https://kellythompsonforcongress.com/about-me",
-"https://kellythompsonforcongress.com/cdn-cgi/l/email-protection",
-"https://kellythompsonforcongress.com/policies/business/monopolies",
-"https://kellythompsonforcongress.com/policies/democracy/campaign-finance-and-media-fairness",
-"https://kellythompsonforcongress.com/policies/education/education-and-childcare",
-"https://kellythompsonforcongress.com/policies/farms/protecting-family-farms",
-"https://kellythompsonforcongress.com/policies/h/foreign-affairs",
-"https://kellythompsonforcongress.com/policies/healthcare/healthcare",
-"https://kellythompsonforcongress.com/policies/housing/housing-in-the-heartland",
-"https://kellythompsonforcongress.com/policies/justice/constitution",
-"https://kellythompsonforcongress.com/policies/justice/rule-of-law",
-"https://kellythompsonforcongress.com/policies/marijuana/legalization",
-"https://kellythompsonforcongress.com/policies/technology/data-privacy-and-ai-accountability",
-"https://kellythompsonforcongress.com/privacy-policy",
-"https://kellythompsonforcongress.substack.com/",
-"https://secure.actblue.com/donate/kelly-thompson",
-"https://tiktok.com/@kellythompsonforcongress?_r=1&_t=ZT-99GdIjADpdu",
-"https://x.com/KellyForIN03"
+{
+"text": "About Me",
+"href": "https://www.kellythompsonforcongress.com/about-me"
+},
+{
+"text": "Campaign Reform",
+"href": "https://www.kellythompsonforcongress.com/policies/democracy/campaign-finance-and-media-fairness"
+},
+{
+"text": "Cannabis",
+"href": "https://www.kellythompsonforcongress.com/policies/marijuana/legalization"
+},
+{
+"text": "Constitution",
+"href": "https://www.kellythompsonforcongress.com/policies/justice/constitution"
+},
+{
+"text": "Data Privacy",
+"href": "https://www.kellythompsonforcongress.com/policies/technology/data-privacy-and-ai-accountability"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kelly-thompson"
+},
+{
+"text": "Education",
+"href": "https://www.kellythompsonforcongress.com/policies/education/education-and-childcare"
+},
+{
+"text": "Farming",
+"href": "https://www.kellythompsonforcongress.com/policies/farms/protecting-family-farms"
+},
+{
+"text": "Foreign Affairs",
+"href": "https://www.kellythompsonforcongress.com/policies/h/foreign-affairs"
+},
+{
+"text": "Healthcare",
+"href": "https://www.kellythompsonforcongress.com/policies/healthcare/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.kellythompsonforcongress.com"
+},
+{
+"text": "Housing",
+"href": "https://www.kellythompsonforcongress.com/policies/housing/housing-in-the-heartland"
+},
+{
+"text": "JOIN OUR TEAM",
+"href": "https://airtable.com/appWMeYQyBPG3c3Zm/shr9qkmqPP08rEmrj"
+},
+{
+"text": "Justice",
+"href": "https://www.kellythompsonforcongress.com/policies/justice/rule-of-law"
+},
+{
+"text": "Monopolies",
+"href": "https://www.kellythompsonforcongress.com/policies/business/monopolies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kellythompsonforcongress.com/privacy-policy"
+},
+{
+"text": "Voter Info",
+"href": "https://indianavoters.in.gov"
+},
+{
+"text": "[email protected]",
+"href": "mailto:contact@kellythompsonforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kellyforcongress"
+},
+{
+"text": "[image: IG]",
+"href": "https://www.instagram.com/kellythompsonforcongress/"
+},
+{
+"text": "[image: Logo w Variations2.png]",
+"href": "https://www.kellythompsonforcongress.com"
+},
+{
+"text": "[image: Substack]",
+"href": "https://kellythompsonforcongress.substack.com/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@kellythompsonforcongress?_r=1&_t=ZT-99GdIjADpdu"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/KellyForIN03"
+}
 ]

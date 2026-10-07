@@ -1,5 +1,4 @@
-Meet Joe Patterson
-The 5th Assembly District is a special place.
+Home Meet Joe AD5 Issues Endorsements Home Meet Joe AD5 Issues Endorsements HOME MEET JOE NEWS AD5 ENDORSEMENTS YARD SIGNS VOLUNTEER HOME DONATE Meet Joe Patterson The 5th Assembly District is a special place.
 Nestled in the California foothills and split between Placer and El Dorado counties, this area routinely is ranked in the top 10 best places to live in California because of its quality of life.
 Joe Patterson understands the challenges families are facing as he works to raise his own four children in our local public schools.
 That's what propelled Joe to get involved in public service in the first place and eventually compelled him to run for the City Council.
@@ -14,4 +13,4 @@ He authored a bi-partisan bill, which became law, to end the process of special 
 Joe graduated with a B.A. in Government from California State University, Sacramento and was selected for the post-graduate Jesse M.
 Unruh Assembly Fellowship where he began his career working in the California State Assembly.
 Before being elected to the State Legislature, Joe worked in public policy - helping community leaders, businesses and organizations navigate complex issues.
-Joe was recognized by the California State Assembly as being "respected by his peers for his policy acumen, strategic instincts, and political skills."
+Joe was recognized by the California State Assembly as being "respected by his peers for his policy acumen, strategic instincts, and political skills." Privacy Policy Home Meet Joe AD5 Issues Endorsements SUBMIT Paid for by Joe Patterson for Assembly 2026 (ID# 1476880)

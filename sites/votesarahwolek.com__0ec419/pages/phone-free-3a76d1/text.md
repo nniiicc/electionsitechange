@@ -1,10 +1,7 @@
-Maryland Phone-Free Schools Act
-Bill Name
-Maryland Phone-Free Schools Act
-Bill Number
-HB 525
-Year
-2026
-Priority Areas: Wellbeing
-HB 525: Ensures that Maryland classrooms are distraction-free environments where students can stay focused, engaged, and set up for success.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Maryland Phone-Free Schools Act Bill Name Maryland Phone-Free Schools Act Bill Number HB 525 Year 2026 Priority Areas: Wellbeing Learn More HB 525: Ensures that Maryland classrooms are distraction-free environments where students can stay focused, engaged, and set up for success.
 It requires each county to develop and adopt a policy that prohibits the use of electronic devices during the academic school day, allowing exceptions for medical, educational, and disability accommodations.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

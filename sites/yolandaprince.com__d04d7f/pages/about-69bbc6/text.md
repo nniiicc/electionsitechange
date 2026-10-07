@@ -1,4 +1,7 @@
-A proud Tyler native, Yolanda R.
+Yolanda is in!
+Chip in $5 right now.
+430-201-3371 430-201-3371 Home About Issues Donate Get Involved More Home About Issues Donate Get Involved Home About Issues Donate Get Involved Community First, Progress Always Community First, Progress Always Community First, Progress Always Turning Texas Blue Yolanda R.
+Prince for US Congress A proud Tyler native, Yolanda R.
 Prince was raised on faith, resilience, and the expectation that you don’t wait for change—you step up and create it.
 As the second of three children, a twin and an older brother, she early on learned the importance of family, responsibility, and standing firm in what you believe.
 Yolanda is a public servant, organizer, and leader who is not afraid to challenge systems that fail the people they are supposed to serve.
@@ -20,3 +23,7 @@ On healthcare, she is clear: the current system is failing too many people.
 Yolanda supports expanding access, lowering living costs, and ensuring that no family is forced to choose between their health and their financial stability; especially in underserved and rural communities.
 Yolanda doesn’t approach leadership passively.
 She brings urgency, clarity, and a willingness to take on tough fights; because for her, this work isn’t theoretical, it’s personal.
+Copyright © # Yolanda R.
+Prince for Congress - All Rights Reserved.
+Powered by Join Our Fight Let’s unite to strengthen our community.
+Contribute Now

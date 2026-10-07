@@ -1,4 +1,4 @@
-| The last twelve months have seen sentiment in residential housing markets change dramatically.
+UT 74 VOTE ABOUT Posts Experience Contact 2021 Mid-year real estate update 8/1/2021 The last twelve months have seen sentiment in residential housing markets change dramatically.
 The result is one of the most dynamic and challenging housing markets in memory.
 Following is a brief overview of market conditions over the past twelve months and a look at what to expect in the second half of 2021.
 Summer 2020 The summer of 2020 ended the first wave of COVID-19 cases and with it came a sense that the pandemic might be easing.
@@ -37,4 +37,4 @@ Supply constraints will continue to disrupt builders, but not at the same level 
 Rental demand will remain high and rental units will remain under supplied, causing rents to continue to rise in most markets.
 Price levels are at risk if interest rates rise, remote employees are called back to the office, or builders get ahead of market demand.
 Given the current conditions, we expect prices to rise in the second half of 2021, although more slowly than in the first half of the year.
-For more information visit https://erabrokers.com/research/ | |
+For more information visit https://erabrokers.com/research/ Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

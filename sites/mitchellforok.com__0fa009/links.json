@@ -1,5 +1,14 @@
 [
-"https://facebook.com/SamMitchellforStateHouse",
-"https://mitchellforok.com/privacy-policy",
-"https://secure.anedot.com/friends-of-sam-mitchell-2026/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-sam-mitchell-2026/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/SamMitchellforStateHouse/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mitchellforok.com/privacy-policy/"
+}
 ]

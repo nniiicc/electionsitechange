@@ -1,9 +1,9 @@
 {
  "description": "Sign in to your account for the Bob Long campaign. Access your profile, history, and private pages. Create an account to join!",
  "final_url": "https://blong4md.com/donate",
- "paid_for_by": null,
+ "fingerprint": "56926c483715c0eb08d573315053fbedb19ed1a9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

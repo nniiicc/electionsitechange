@@ -1,5 +1,2 @@
-top of page
-News letters from the candidate
-Catch up on recent campaign newsletters from Jim Pierson, including updates from the campaign trail, issues affecting our communities, and what we’re working on next.
-- August 25th - Primary Results and What's next
-bottom of page
+top of page Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback Menu Close News letters from the candidate Catch up on recent campaign newsletters from Jim Pierson, including updates from the campaign trail, issues affecting our communities, and what we’re working on next.
+Subscribe August 25th - Primary Results and What's next GET INVOLVED WITH OUR TEAM DONATE VOLUNTEER Paid for by Vote 4 Jim Pierson | PO Box 41 East Olympia, WA 98540 Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback bottom of page

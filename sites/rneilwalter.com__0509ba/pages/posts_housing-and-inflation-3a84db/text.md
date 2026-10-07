@@ -1,14 +1,14 @@
-| Nearly everyone is talking about housing in Utah.
+UT 74 VOTE ABOUT Posts Experience Contact Housing and Inflation 2/25/2023 Nearly everyone is talking about housing in Utah.
 The high cost of housing is a concern for young families considering purchasing their first home, for parents thinking about the next generation, for seniors on fixed incomes struggling with rising property taxes, for those without a home, and for those who rent.
 Rising housing costs impact both urban and rural communities.
 Much of our future wealth creation and community stability rest on our housing policy over the coming decades.
 Structurally Short Supply In Utah, we are building residential housing at a furious rate.
-Along the Wasatch Front in 2022 we pulled 6,682 home building permits(1) and completed 11,773 multifamily units(2).
+Along the Wasatch Front in 2022 we pulled 6,682 home building permits (1) and completed 11,773 multifamily units (2) .
 That is a an estimated 18,455 new housing units along the Wasatch Front in 2022.
-In Washington County, we pulled 1,934 home building permits(1) and completed 470 multifamily units(2).
+In Washington County, we pulled 1,934 home building permits (1) and completed 470 multifamily units (2) .
 That is an estimated 2,404 new housing units in Washington County.
 Adding 439 home building permits in Iron County, that is approximately 21,000 housing units statewide.
-Utah grew by 61,242 residents last year(3).
+Utah grew by 61,242 residents last year (3) .
 That is 22,269 housing units assuming 2.75 people per household.
 Except it doesn't account for short-term rentals and second homes.
 For generations, owning a home was the American dream.
@@ -61,6 +61,7 @@ Finally, housing is critical to community stability and wealth creation.
 Given the current context of an inflationary economic cycle, a measure of restraint and patience may be the best solution so as to avoid pushing home prices even higher when policies were intended to keep housing costs down.
 (1) ERA Brokers Consolidated 2023 Residential Review.
 Click on the "Residential Market Research" link below for more information.
-(2) NAI Excel \| NAI Vegas 2023 Commercial Real Estate Outlook.
+(2) NAI Excel | NAI Vegas 2023 Commercial Real Estate Outlook.
 Click on the "Commercial and Multi-family Market Research" link below for more information.
-(3) Utah Population Estimates Committee effective July 1, 2022. | |
+(3) Utah Population Estimates Committee effective July 1, 2022.
+Residential Market Research Commercial and Multi-family Market Research Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

@@ -1,4 +1,4 @@
-According to data compiled by the FBI, Illinois is the third-most dangerous state to be a police officer.
+Contact Donate About Videos News & Events Get Involved Voter Info 52nd District Map Voter Information Endorsements Calendar In the News Select Page Make crime illegal again Sep 6, 2022 According to data compiled by the FBI, Illinois is the third-most dangerous state to be a police officer.
 Between 2012 and 2022, there have been a total of 33 officer fatalities (14 of which were homicides) which equated to 355 deaths per 100,000 police officers in 2021.
 So far this year, 141 officers have been shot across the country.
 As more cops retire or quit the profession altogether, recruitment and retention is the biggest challenge for departments statewide according to a survey of the Illinois Association of Chiefs of Police.
@@ -6,3 +6,6 @@ As a former mayor and head of our local police department, I can state firsthand
 The Safe-T Act and its cashless bail requirement takes effect on January 1, 2023, and is opposed in all 102 counties by an overwhelming majority of states attorneys.
 They understand the dangerous impact of releasing violent offenders and what it will do to overwhelm our law enforcement officers, court systems and the harm it will potentially cause to individual families and businesses.
 It’s about time we made crime illegal again in the State of Illinois.
+Get our latest updates on social media, click on an icon below: Follow Follow Follow Paid for by Martin McLaughlin Republican for State House.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Martin McLaughlin Republican for State House.
+All Rights Reserved.

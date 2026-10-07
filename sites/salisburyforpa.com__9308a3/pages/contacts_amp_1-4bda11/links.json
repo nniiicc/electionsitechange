@@ -1,5 +1,18 @@
 [
-"https://amp-wp.org/?p=5463",
-"https://salisburyforpa.com/?amp=1",
-"https://salisburyforpa.com/contacts?noamp=mobile"
+{
+"text": "Exit mobile version",
+"href": "https://salisburyforpa.com/contacts/?noamp=mobile"
+},
+{
+"text": "Learn More",
+"href": "https://amp-wp.org/?p=5463"
+},
+{
+"text": "[image][image: Site icon] Salisbury for PA 34",
+"href": "https://salisburyforpa.com/?amp=1"
+},
+{
+"text": "campaign@salisburyforpa.com",
+"href": "mailto:campaign@salisburyforpa.com"
+}
 ]

@@ -1,7 +1,4 @@
-Paid for by Friends of Stephanie for Assembly
-Reach out with questions, ideas, or ways to get involved with the campaign.
-Email Us: stephanie@stephanieforassembly.com
-Copyright © 2026, Stephanie for Assembly.
+Paid for by Friends of Stephanie for Assembly Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Stephanie Stuve-Bodeen for Assembly District 70 Home About Stephanie Working for You Reach Out More Home About Stephanie Working for You Reach Out Donate Home About Stephanie Working for You Reach Out Donate Stay Connected With Stephanie’s Campaign Reach out with questions, ideas, or ways to get involved with the campaign.
+Name* Email* Phone* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Stephanie for Assembly Email Us: stephanie@stephanieforassembly.com Social Facebook | Instagram | Threads | TikTok Stephanie for Assembly stephanie@stephanieforassembly.com Copyright © #, Stephanie for Assembly.
 All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

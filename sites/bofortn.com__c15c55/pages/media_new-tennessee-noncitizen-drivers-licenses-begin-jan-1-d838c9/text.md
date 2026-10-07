@@ -1,5 +1,5 @@
-New Tennessee noncitizen driver’s licenses begin Jan. 1
-Starting in 2026, Tennessee will change its driver’s licenses and state ID cards for noncitizens.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE New Tennessee noncitizen driver’s licenses begin Jan.
+1 Dec 28 Written By Waterhouse PR Starting in 2026, Tennessee will change its driver’s licenses and state ID cards for noncitizens.
 “Only permanent driver’s licenses and photo IDs are valid for voter identification, explicitly excluding temporary IDs,” said Sen.
 Bo Watson, R-Hixson, while presenting the bill on the floor during the legislative session earlier this year.
-“This ensures the security and integrity of our elections.”
+“This ensures the security and integrity of our elections.” READ THE FULL ARTICLE Waterhouse PR Previous Previous United Airlines Begins New Service From Chattanooga Airport To Newark Next Next County leaders, state representatives discuss various topics at Hamilton County Legislative Breakfast Bo for Tennessee About Priorities Media Contact

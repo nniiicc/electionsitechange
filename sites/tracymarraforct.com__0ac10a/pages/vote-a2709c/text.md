@@ -1,19 +1,2 @@
-top of page
-Home
-Accomplishments
-On The Issues
-Get Involved
-Vote
-Get In Touch
-CONNECTICUT HOUSE DISTRICT
-★
-★
-★
-141st DISTRICT
-DARIEN · ROWAYTON · NORWALK
-Voter Resources
-Find your Legislator
-Absentee Ballot Application
-Voter Registration Lookup
-Register to Vote
-bottom of page
+top of page Home Accomplishments On The Issues Get Involved Vote Get In Touch CONNECTICUT HOUSE DISTRICT ★ ★ ★ 141st DISTRICT DARIEN · ROWAYTON · NORWALK Voter Resources Find your Legislator Absentee Ballot Application Voter Registration Lookup Register to Vote Tracy Marra for State Representative ★ ★ ★ DARIEN · ROWAYTON · NORWALK Paid for by Tracy Marra for State Representative, approved by Tracy Marra. © # Tracy Marra.
+All Rights Reserved. bottom of page

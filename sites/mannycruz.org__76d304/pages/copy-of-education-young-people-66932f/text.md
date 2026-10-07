@@ -1,4 +1,4 @@
-As a former restaurant entrepreneur and park ranger, I know that small businesses, green jobs, and tourism are the backbone of Salem’s economy.
+top of page Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
+Economic Development & Tourism Jobs As a former restaurant entrepreneur and park ranger, I know that small businesses, green jobs, and tourism are the backbone of Salem’s economy.
 We need good-paying local jobs and I’ll secure state funding to expand and protect them.
-Policy Proposals
-Support increases to FY22 Travel & Tourism Recovery Grant Program
+Policy Proposals Support increases to FY22 Travel & Tourism Recovery Grant Program The Green Futures Act The Climate 2050 Roadmap Act to promote offshore wind energy & renewables HOUSING & SENIORS EDUCATION & YOUNG PEOPLE CLIMATE & ENVIRONMENTAL JUSTICE PUBLIC SAFETY & COVID-19 REPRODUCTIVE JUSTICE MENTAL HEALTH & OPIOIDS Email mannycruzsalem@gmail.com Follow Paid for by The Cruz Committee bottom of page

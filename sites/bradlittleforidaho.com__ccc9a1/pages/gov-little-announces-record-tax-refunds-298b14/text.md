@@ -1,6 +1,5 @@
-Gov.
-Little announces record tax refunds
-Boise, Idaho – Governor Brad Little announced today the State of Idaho issued a record number of refunds to Idaho taxpayers.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu Gov.
+Little announces record tax refunds Jun 9, 2026 Boise, Idaho – Governor Brad Little announced today the State of Idaho issued a record number of refunds to Idaho taxpayers.
 The State of Idaho issued a record 826,370 refunds to Idaho taxpayers this year.
 More than half a billion dollars – $579,108,938 – in refunds were issued since the tax season began.
 This represents a 25% increase in the number of Idaho taxpayers receiving a refund, and a 17% increase in the amount of refunds issued over last year.
@@ -10,3 +9,5 @@ The Board of Examiners subcommittee heard today the Idaho State Tax Commission�
 The Board of Examiners will consider action on the request during its regular meeting on June 16.
 The request to the Board of Examiners is required by law.
 The state’s refund fund is closely monitored with checks and balances to ensure the amount needed to process refunds is available, but the remaining amount is distributed to the General Fund.
+Back P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

@@ -1,54 +1,18 @@
-District 19 needs fierce, bold, new leadership.
+0 Skip to Content Home About Meet Charlane Our Campaign Join Volunteer Oliver Fellows Stand Together TN Shop Apparel News Contact DONATE Open Menu Close Menu Home About Meet Charlane Our Campaign Join Volunteer Oliver Fellows Stand Together TN Shop Apparel News Contact DONATE Open Menu Close Menu Home Folder: About Back Meet Charlane Our Campaign Folder: Join Back Volunteer Oliver Fellows Stand Together TN Shop Apparel News Contact DONATE District 19 needs fierce, bold, new leadership.
 Today, Nashvillians face being displaced by the rising costs of housing and living expenses due to gentrification and big corporations moving to Nashville.
 Our schools are underfunded and face the threat of gun violence and mass shootings.
 Our rights and liberties are being stripped away by government overreach and control.
 And healthcare is further out of reach for the uninsured and underinsured.
 Now serving as “The People’s Senator” for the 19th Senatorial District, Senator Charlane Oliver is the lone progressive voice in the Tennessee State Senate, where she champions a bold legislative agenda that uplifts working-class families, centers racial justice, challenges corporate power, protects marginalized communities, supports women and survivors, and strengthens democracy.
 She leads the Senate Democratic Caucus as Vice-Chairwoman and the Tennessee Black Caucus of State Legislators as Vice-Chair.
-- As State Senator, Charlane will:
-- Demand gun reform and universal background checks, revoke gun ownership for domestic abusers, and support violence interruption programs.
-- Propose relative caregiver assistance to keep families whole and together.
-- Oppose efforts to separate families due to undocumented immigration status
-- Support the expansion of healthcare access to more than 250,000 uninsured Tennesseans.
-- Defend a woman's right to privacy to make her own reproductive medical decisions.
-- Support the expansion of healthcare delivery and education to satellite sites for Meharry Medical College and Nashville General Hospital
-- Seek to eliminate medical debt and slow the rising cost of healthcare on working class Tennesseans
-- Support mental health resources to address the underlying causes of opioid crisis, gun violence, and the aftermath of the covid-19 pandemic
-- As State Senator, Charlane will:
-- Oppose efforts to DUMP or expand landfills and environmental waste in Bordeaux
-- Propose anti-harassment legislation to protect homeowners from predatory developers and big corporations that cheat working families
-- Work on property tax affordability to keep seniors in their homes
-- Hold big corporations accountable to avoid GENTRIFICATION and rising housing costs.
-- Ensure immigrants and refugees feel welcome and a sense of belonging
-- Support community investments to keep FAMILIES AND SENIORS in their homes.
-- As State Senator, Charlane will:
-- Advocate to secure more funding in the TISA public education funding formula for Metro Nashville Public Schools
-- Advocate to give educators and support staff the pay raises they deserve
-- Protect public schools from privatization
-- Oppose state-level interference and overreach into local school boards’ authority to regulate charter schools
-- Propose stricter fiscal oversight of charter schools
-- Secure overdue land grant funding for Tennessee State University
-- As State Senator, Charlane will:
-- Propose legislation that makes it easier for Tennesseans to cast a vote
-- Propose legislation to restore voting rights for returning citizens
-- Defend against attacks on our democracy and First Amendment rights
-- As State Senator, Charlane will:
-- Put people before profits for developers, lobbyists and corporations
-- Strengthen the resiliency of minority small businesses through supplier diversity, procurement, and technical assistance
-- Oppose the passage of Amendment 1 to put ‘right-to-work’ in the Tennessee Constitution
-- Fight for workers' rights and fair livable wages
-- Ensure fair protections and working conditions on the job, such as paid family leave
-- Repeal pre-emption laws that prevent Metro Nashville from setting a livable wage, addressing the affordable housing crisis, and having an equitable, thriving economy.
-- Protect from rapid gentrification by fighting for equitable housing so that our essential workers can afford to live in Nashville
-- Ensure District 19 receives our fair share of Nashville’s prosperity, growth and economic development.
-- As State Senator, Charlane will:
-- Support the passage of Amendment 3 to abolish slavery in the Tennessee Constitution
-- Seek to eliminate codified de-humanizing language of people experiencing incarceration
-- Support legislation to eliminate state contracts with private prisons
-- Support fair compensation rates for indigent defense
-- Oppose efforts to report the immigration status of undocumented people to law enforcement
-- As State Senator, Charlane will:
-- Propose legislation that would make the costs of state lawsuits public record and require reporting by the Tennessee Attorney General
-- Commit to year-round community engagement with District 19 constituents
-- Commit to hosting a District 19 day on the hill
-- Commit to implementing a District 19 newsletter and other communication channels
+Strengthen & Protect Families from Birth to Aging Seniors As State Senator, Charlane will: Demand gun reform and universal background checks, revoke gun ownership for domestic abusers, and support violence interruption programs.
+Propose relative caregiver assistance to keep families whole and together.
+Oppose efforts to separate families due to undocumented immigration status Support the expansion of healthcare access to more than 250,000 uninsured Tennesseans.
+Defend a woman's right to privacy to make her own reproductive medical decisions.
+Support the expansion of healthcare delivery and education to satellite sites for Meharry Medical College and Nashville General Hospital Seek to eliminate medical debt and slow the rising cost of healthcare on working class Tennesseans Support mental health resources to address the underlying causes of opioid crisis, gun violence, and the aftermath of the covid-19 pandemic Protect Our Neighborhoods As State Senator, Charlane will: Oppose efforts to DUMP or expand landfills and environmental waste in Bordeaux Propose anti-harassment legislation to protect homeowners from predatory developers and big corporations that cheat working families Work on property tax affordability to keep seniors in their homes Hold big corporations accountable to avoid GENTRIFICATION and rising housing costs.
+Ensure immigrants and refugees feel welcome and a sense of belonging Support community investments to keep FAMILIES AND SENIORS in their homes.
+Fight for Public Education As State Senator, Charlane will: Advocate to secure more funding in the TISA public education funding formula for Metro Nashville Public Schools Advocate to give educators and support staff the pay raises they deserve Protect public schools from privatization Oppose state-level interference and overreach into local school boards’ authority to regulate charter schools Propose stricter fiscal oversight of charter schools Secure overdue land grant funding for Tennessee State University Defend the Right to Vote and Shift Power Back to the People As State Senator, Charlane will: Propose legislation that makes it easier for Tennesseans to cast a vote Propose legislation to restore voting rights for returning citizens Defend against attacks on our democracy and First Amendment rights Economic Justice & Jobs As State Senator, Charlane will: Put people before profits for developers, lobbyists and corporations Strengthen the resiliency of minority small businesses through supplier diversity, procurement, and technical assistance Oppose the passage of Amendment 1 to put ‘right-to-work’ in the Tennessee Constitution Fight for workers' rights and fair livable wages Ensure fair protections and working conditions on the job, such as paid family leave Repeal pre-emption laws that prevent Metro Nashville from setting a livable wage, addressing the affordable housing crisis, and having an equitable, thriving economy.
+Protect from rapid gentrification by fighting for equitable housing so that our essential workers can afford to live in Nashville Ensure District 19 receives our fair share of Nashville’s prosperity, growth and economic development.
+Bring Justice to the Criminal Legal System As State Senator, Charlane will: Support the passage of Amendment 3 to abolish slavery in the Tennessee Constitution Seek to eliminate codified de-humanizing language of people experiencing incarceration Support legislation to eliminate state contracts with private prisons Support fair compensation rates for indigent defense Oppose efforts to report the immigration status of undocumented people to law enforcement Accountability & Transparency As State Senator, Charlane will: Propose legislation that would make the costs of state lawsuits public record and require reporting by the Tennessee Attorney General Commit to year-round community engagement with District 19 constituents Commit to hosting a District 19 day on the hill Commit to implementing a District 19 newsletter and other communication channels Gun Reform Ad Watch Charlane’s Gun Reform Ad Paid for by People’s Choice to Elect Charlane Oliver.
+Christiane Buggs, Treasurer.
+DONATE Connect with Charlane Subscribe Join Our Movement Contact Me

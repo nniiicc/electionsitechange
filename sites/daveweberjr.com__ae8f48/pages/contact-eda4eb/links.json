@@ -1,10 +1,38 @@
 [
-"https://daveweberjr.com/",
-"https://daveweberjr.com/about-dave",
-"https://daveweberjr.com/contact",
-"https://daveweberjr.com/news-media",
-"https://daveweberjr.com/stronger-12th",
-"https://facebook.com/DaveWeberJr",
-"https://instagram.com/seymoursboatyard",
-"https://secure.winred.com/friends-of-dave-weber/donate-today"
+{
+"text": "A STRONGER 12th",
+"href": "https://www.daveweberjr.com/stronger-12th/"
+},
+{
+"text": "ABOUT DAVE",
+"href": "https://www.daveweberjr.com/about-dave/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.daveweberjr.com/contact/"
+},
+{
+"text": "CONTRIBUTE TO MY CAMPAIGN",
+"href": "https://secure.winred.com/friends-of-dave-weber/donate-today"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-dave-weber/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DaveWeberJr"
+},
+{
+"text": "HOME",
+"href": "https://www.daveweberjr.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/seymoursboatyard/"
+},
+{
+"text": "NEWS & MEDIA",
+"href": "https://www.daveweberjr.com/news-media/"
+}
 ]

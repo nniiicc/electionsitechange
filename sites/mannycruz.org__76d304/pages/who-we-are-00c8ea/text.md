@@ -1,5 +1,5 @@
-Meet Manny
-Manny Cruz is a Dad, public servant, entrepreneur, and non-profit leader who grew up in Salem.
+top of page Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
+Meet Manny Manny Cruz is a Dad, public servant, entrepreneur, and non-profit leader who grew up in Salem.
 He attended the Salem Public Schools, including the Horace Mann Lab School, Collins Middle School, and Salem High School.
 Manny survived domestic violence and abuse with his mother at the hands of his father and stepfather.
 Because of this, she raised him and his two brothers as a single mom.
@@ -22,3 +22,4 @@ Manny is a mentor for youth and is highly involved with youth-serving organizati
 Manny currently serves on the boards of LEAP for Education, Plummer Youth Promise, and the Massachusetts Alliance for Early College.
 He previously served on the board of Northshore Community Action programs.
 Manny married his wife, Vanessa Cruz, in 2019, and they recently welcomed their daughter, Ivy Sofia.
+Email mannycruzsalem@gmail.com Follow Paid for by The Cruz Committee bottom of page

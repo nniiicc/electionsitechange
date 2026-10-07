@@ -1,7 +1,4 @@
-Immigration
-It’s time for a new plan… the cargile plan
-Endorsed by:
-Everything changed the day the Trump administration offered to pay illegal aliens to return to their country of origin, not just free airfare, but money in their pockets upon arrival.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll Immigration It’s time for a new plan… the cargile plan en español Endorsed by: Everything changed the day the Trump administration offered to pay illegal aliens to return to their country of origin, not just free airfare, but money in their pockets upon arrival.
 The greatest security measure the United States could ever have at its Southern border are strong, safe and prosperous neighbors in Mexico and the countries of Central and South America.
 My approach to immigration has been rooted in two things: the Bible and the Law.
 Almost every issue plaguing our country at this moment can be solved with the simple Biblical principle “Treat others the way you want to be treated.” If I had been born in another country and saw what the United States offered in terms of freedom and opportunity, I would have done everything in my power to get here and make that available for myself and my family.
@@ -23,3 +20,6 @@ You have no right to be here if you were not invited and didn’t use the front 
 You need to leave.
 Those who refuse to self-deport will be deported forcibly and without prejudice.
 The rule of law must be restored before any further immigration reforms can occur.
+SO HELP ME GOD… Please Contribute Bitcoin Immigration Copy of Flag Footer CTA (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

@@ -1,8 +1,46 @@
 [
-"https://brianlabrie.com/",
-"https://brianlabrie.com/contact",
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/people/Brian-Labrie-for-New-Hampshire/61550517584654",
-"https://x.com/BrianLabrie"
+{
+"text": "About",
+"href": "https://brianlabrie.com/#about"
+},
+{
+"text": "Community",
+"href": "https://brianlabrie.com/#community"
+},
+{
+"text": "Contact",
+"href": "https://brianlabrie.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://brianlabrie.com/#issues"
+},
+{
+"text": "Join Us",
+"href": "https://brianlabrie.com/#join"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "Watch",
+"href": "https://brianlabrie.com/#watch"
+},
+{
+"text": "[image: Brian Labrie] Labrie",
+"href": "https://brianlabrie.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Brian-Labrie-for-New-Hampshire/61550517584654/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/BrianLabrie"
+}
 ]

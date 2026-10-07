@@ -1,36 +1,190 @@
 [
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/endorsements",
-"https://alexiforus.com/giannoulias-awards-21-million-to-combat-carjackings-vehicle-thefts",
-"https://alexiforus.com/giannoulias-expands-services-area-at-deerfield-dmv",
-"https://alexiforus.com/giannoulias-joins-organ-donor-recipients-and-families-to-highlight-the-need-for-donation",
-"https://alexiforus.com/giannoulias-proposal-would-ban-zooming-while-driving",
-"https://alexiforus.com/giannoulias-to-libraries-were-united-against-banning-books",
-"https://alexiforus.com/giannoulias-unveils-statewide-organ-tissue-donation-campaign",
-"https://alexiforus.com/giannoulias-works-to-improve-the-drivers-license-process-for-immigrant-drivers",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/press-releases",
-"https://alexiforus.com/press-releases/3",
-"https://alexiforus.com/press-releases/4",
-"https://alexiforus.com/press-releases/5",
-"https://alexiforus.com/press-releases/6",
-"https://alexiforus.com/press-releases/7",
-"https://alexiforus.com/press-releases/8",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/secretary-of-state-giannoulias-visits-peoria-driver-services-facility",
-"https://alexiforus.com/secretary-of-state-offices-to-close-for-presidents-day",
-"https://alexiforus.com/statement-from-secretary-alexi-giannoulias-on-governor-pritzkers-budget-address",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/videos",
-"https://alexiforus.com/volunteer",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://twitter.com/Giannoulias",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexiforus.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Giannoulias Awards $21 Million to Combat Carjackings & Vehicle Thefts",
+"href": "https://alexiforus.com/giannoulias-awards-21-million-to-combat-carjackings-vehicle-thefts/"
+},
+{
+"text": "Giannoulias Expands Services Area at Deerfield DMV",
+"href": "https://alexiforus.com/giannoulias-expands-services-area-at-deerfield-dmv/"
+},
+{
+"text": "Giannoulias Joins Organ Donor Recipients and Families to Highlight the Need for Donation",
+"href": "https://alexiforus.com/giannoulias-joins-organ-donor-recipients-and-families-to-highlight-the-need-for-donation/"
+},
+{
+"text": "Giannoulias Proposal Would Ban “Zooming While Driving”",
+"href": "https://alexiforus.com/giannoulias-proposal-would-ban-zooming-while-driving/"
+},
+{
+"text": "Giannoulias Unveils Statewide Organ/Tissue Donation Campaign",
+"href": "https://alexiforus.com/giannoulias-unveils-statewide-organ-tissue-donation-campaign/"
+},
+{
+"text": "Giannoulias Works to Improve the Driver’s License Process for Immigrant Drivers",
+"href": "https://alexiforus.com/giannoulias-works-to-improve-the-drivers-license-process-for-immigrant-drivers/"
+},
+{
+"text": "Giannoulias to Libraries: We’re United Against Banning Books",
+"href": "https://alexiforus.com/giannoulias-to-libraries-were-united-against-banning-books/"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "In the News",
+"href": "https://www.alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-awards-21-million-to-combat-carjackings-vehicle-thefts/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-expands-services-area-at-deerfield-dmv/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-joins-organ-donor-recipients-and-families-to-highlight-the-need-for-donation/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-proposal-would-ban-zooming-while-driving/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-to-libraries-were-united-against-banning-books/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-unveils-statewide-organ-tissue-donation-campaign/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/giannoulias-works-to-improve-the-drivers-license-process-for-immigrant-drivers/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-giannoulias-visits-peoria-driver-services-facility/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/secretary-of-state-offices-to-close-for-presidents-day/"
+},
+{
+"text": "Keep Reading →",
+"href": "https://alexiforus.com/statement-from-secretary-alexi-giannoulias-on-governor-pritzkers-budget-address/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Page1",
+"href": "https://alexiforus.com/press-releases/"
+},
+{
+"text": "Page3",
+"href": "https://alexiforus.com/press-releases/3/"
+},
+{
+"text": "Page4",
+"href": "https://alexiforus.com/press-releases/4/"
+},
+{
+"text": "Page5",
+"href": "https://alexiforus.com/press-releases/5/"
+},
+{
+"text": "Page6",
+"href": "https://alexiforus.com/press-releases/6/"
+},
+{
+"text": "Page7",
+"href": "https://alexiforus.com/press-releases/7/"
+},
+{
+"text": "Page8",
+"href": "https://alexiforus.com/press-releases/8/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Secretary of State Giannoulias Visits Peoria Driver Services Facility",
+"href": "https://alexiforus.com/secretary-of-state-giannoulias-visits-peoria-driver-services-facility/"
+},
+{
+"text": "Secretary of State Offices to Close for Presidents’ Day",
+"href": "https://alexiforus.com/secretary-of-state-offices-to-close-for-presidents-day/"
+},
+{
+"text": "Statement from Secretary Alexi Giannoulias on Governor Pritzker’s Budget Address",
+"href": "https://alexiforus.com/statement-from-secretary-alexi-giannoulias-on-governor-pritzkers-budget-address/"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Videos",
+"href": "https://www.alexiforus.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+}
 ]

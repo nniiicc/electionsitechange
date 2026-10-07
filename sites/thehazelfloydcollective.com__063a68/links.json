@@ -1,13 +1,46 @@
 [
-"https://facebook.com/TheHazelFloydCollective",
-"https://instagram.com/thehazelfloydcollective",
-"https://linktr.ee/TheHazelFloydCollective?ltsid=6f6623e7-9db6-4e24-b662-c1904494875c",
-"https://secure.actblue.com/donate/hazelfloydcollective",
-"https://thehazelfloydcollective.com/",
-"https://thehazelfloydcollective.com/bio",
-"https://thehazelfloydcollective.com/cart",
-"https://thehazelfloydcollective.com/contact",
-"https://thehazelfloydcollective.com/recent-events",
-"https://thehazelfloydcollective.com/signs",
-"https://thehazelfloydcollective.com/the-issues"
+{
+"text": "0",
+"href": "https://www.thehazelfloydcollective.com/cart"
+},
+{
+"text": "Bio",
+"href": "https://www.thehazelfloydcollective.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://www.thehazelfloydcollective.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hazelfloydcollective"
+},
+{
+"text": "On Air",
+"href": "https://www.thehazelfloydcollective.com/recent-events"
+},
+{
+"text": "Signs",
+"href": "https://www.thehazelfloydcollective.com/signs"
+},
+{
+"text": "The Hazel Floyd Collective",
+"href": "https://www.thehazelfloydcollective.com/"
+},
+{
+"text": "The Pillars",
+"href": "https://www.thehazelfloydcollective.com/the-issues"
+},
+{
+"text": "[image]",
+"href": "https://linktr.ee/TheHazelFloydCollective?ltsid=6f6623e7-9db6-4e24-b662-c1904494875c"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/TheHazelFloydCollective"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/thehazelfloydcollective/"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/prattpa91",
-"https://instagram.com/prattpa91",
-"https://pavoterservices.pa.gov/",
-"https://prattpa91.org/",
-"https://prattpa91.org/cart",
-"https://prattpa91.org/contact",
-"https://prattpa91.org/donate",
-"https://prattpa91.org/priorities",
-"https://prattpa91.org/priorities-1",
-"https://prattpa91.org/volunteer",
-"https://vote.pa.gov/MailBallot"
+{
+"text": "0",
+"href": "https://www.prattpa91.org/cart"
+},
+{
+"text": "CONTACT",
+"href": "https://www.prattpa91.org/contact"
+},
+{
+"text": "Contact Kathleen",
+"href": "https://www.prattpa91.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.prattpa91.org/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.prattpa91.org/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.prattpa91.org/priorities-1"
+},
+{
+"text": "Kathleen Pratt: New Voice. Better Choice for the 91st district",
+"href": "https://www.prattpa91.org/"
+},
+{
+"text": "PAVoterServices.PA.gov",
+"href": "https://www.pavoterservices.pa.gov"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.prattpa91.org/priorities"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.prattpa91.org/volunteer"
+},
+{
+"text": "Vote.PA.gov/MailBallot",
+"href": "https://www.vote.pa.gov/MailBallot"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/prattpa91"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/prattpa91"
+}
 ]

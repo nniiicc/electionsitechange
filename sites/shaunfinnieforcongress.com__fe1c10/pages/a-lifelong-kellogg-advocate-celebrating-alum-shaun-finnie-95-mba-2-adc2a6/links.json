@@ -1,20 +1,78 @@
 [
-"https://bsky.app/profile/finnieforcongress.bsky.social",
-"https://cookieadmin.net/",
-"https://drive.google.com/drive/folders/1uaduiXEOmaFBytMlJXcjjLzRIB-GlxVa?usp=sharing",
-"https://facebook.com/profile.php?id=61577416087375",
-"https://instagram.com/shaunfinnieforcongress",
-"https://secure.actblue.com/donate/shaun-finnie-1",
-"https://shaunfinnieforcongress.com/",
-"https://shaunfinnieforcongress.com/endorsements",
-"https://shaunfinnieforcongress.com/get-involved",
-"https://shaunfinnieforcongress.com/issues",
-"https://shaunfinnieforcongress.com/meet-shaun",
-"https://shaunfinnieforcongress.com/news",
-"https://shaunfinnieforcongress.com/privacy-policy",
-"https://store.shaunfinnieforcongress.com/",
-"https://threads.com/@shaunfinnieforcongress",
-"https://tiktok.com/@shaunfinnieforcongress",
-"https://x.com/shaunfinnie",
-"https://youtube.com/@shaunfinnieforcongress"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shaun-finnie-1"
+},
+{
+"text": "Endorsements",
+"href": "https://shaunfinnieforcongress.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61577416087375"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/shaunfinnieforcongress/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@shaunfinnieforcongress"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@shaunfinnieforcongress"
+},
+{
+"text": "Follow",
+"href": "https://x.com/shaunfinnie"
+},
+{
+"text": "Get Involved",
+"href": "https://shaunfinnieforcongress.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://shaunfinnieforcongress.com/issues/"
+},
+{
+"text": "Media Assets",
+"href": "https://drive.google.com/drive/folders/1uaduiXEOmaFBytMlJXcjjLzRIB-GlxVa?usp=sharing"
+},
+{
+"text": "Meet Shaun",
+"href": "https://shaunfinnieforcongress.com/meet-shaun/"
+},
+{
+"text": "News",
+"href": "https://shaunfinnieforcongress.com/news/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://shaunfinnieforcongress.com/privacy-policy/"
+},
+{
+"text": "Return to all News Posts",
+"href": "https://shaunfinnieforcongress.com/news/"
+},
+{
+"text": "Store",
+"href": "https://store.shaunfinnieforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/finnieforcongress.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://shaunfinnieforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.threads.com/@shaunfinnieforcongress"
+}
 ]

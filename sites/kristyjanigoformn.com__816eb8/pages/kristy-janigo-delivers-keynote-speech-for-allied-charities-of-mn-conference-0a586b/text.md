@@ -1,4 +1,5 @@
-Duluth—Kristy Janigo delivered the keynote speech at the 2025 banquet dinner during the Allied Charities of Minnesota conference in Duluth Nov. 21.
+Skip to content Home About Priorities Endorsements News Volunteer DONATE DONATE Home About Priorities Endorsements News Volunteer Events on Mobilize Donate Kristy Janigo delivers keynote speech for Allied Charities of MN Conference Duluth— Kristy Janigo delivered the keynote speech at the 2025 banquet dinner during the Allied Charities of Minnesota conference in Duluth Nov.
+21.
 Janigo was selected to speak about her three years as The American Legion Department of Minnesota Legislative Chair where charitable gambling policy was a significant part of the legislative platform for the organization.
 Veterans service organizations account for approximately 10% of charitable gambling revenues in Minnesota.
 Janigo recounted her experiences working alongside Allied Charities’ CEO Rachel Jenner, President Amanda Jackson, and lobbyist Ward Einess, especially in 2023 where they convened two press conferences at the capitol during the legislative session to proactively address rumored and later proposed changes to e-tabs, as well as the removal of the open all and free play features.
@@ -6,11 +7,10 @@ Jenner’s report highlighted the efforts charities have undergone in Minnesota 
 Revenues are slightly up compared to last year, as gambling managers, charities, and game producers have innovated to drive business.
 She also indicated ACM will continue to ask lawmakers for meaningful tax cuts and measures that will streamline charitable gambling operations.
 “We had no idea the extent that the rug would be pulled out from under us in 2023,” said Janigo.
-“We had a massive grass roots campaign that flooded lawmakers’ inboxes with emails supporting our cause … But lawmakers still did what they wanted to do.”
-Janigo encouraged conference attendees to pay attention to state and local government and to
-communicate with policy makers often to tell their stories about how they have made an impact
-in their communities.
-“We have built a proud legacy in charitable gambling since paper pulltabs were legalized almost 50 years ago, and since e-tabs were legalized in 2012 for the purpose of paying off the stadium,” said Janigo.
-“Now, we are just asking government to get out of our way so we can do the good in the community we’re accustomed to doing.”
-Kristy Janigo is third generation Army, a Maple Grove city council member, and candidate for
-state senate district 37.
+“We had a massive grass roots campaign that flooded lawmakers’ inboxes with emails supporting our cause … But lawmakers still did what they wanted to do.” Janigo encouraged conference attendees to pay attention to state and local government and to communicate with policy makers often to tell their stories about how they have made an impact in their communities.
+“We have built a proud legacy in charitable gambling since paper pulltabs were legalized almost #ago, and since e-tabs were legalized in 2012 for the purpose of paying off the stadium,” said Janigo.
+“Now, we are just asking government to get out of our way so we can do the good in the community we’re accustomed to doing.” Kristy Janigo is third generation Army, a Maple Grove city council member, and candidate for state senate district 37.
+Previous Kristy Janigo Receives MACVSO President’s Award and Bill’s Wish Spotlight A Soldier Award Next Kristy Janigo Releases First Campaign Ad View Press Photos Categories News Press Release Share Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Share on LinkedIn (Opens in new window) LinkedIn Share on X (Opens in new window) X Minnesota Senate District 37 includes Corcoran, Greenfield, Independence, Loretto, Maple Grove, Maple Plain, and Medina.
+Facebook Instagram TikTok Twitter kristy@kristyjanigoformn.com Support If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate $10 Donate $25 Donate $75 Donate $150 Donate Other Amount Home About Priorities FAQ Endorsements News Photos Volunteer Host a Lawn Sign Events on Mobilize Donate The photos on this site do not imply endorsement from the Department of Defense, Department of the Army, DAV, American Legion, Boston Scientific, or any other organization.
+Prepared and Paid for by Kristy Janigo for MN, PO Box 1132, Maple Grove, MN 55311 Designed by The Geek You Need Scroll to Top

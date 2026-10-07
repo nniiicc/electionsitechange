@@ -1,10 +1,30 @@
 [
-"https://brownforokstatehouse.com/",
-"https://brownforokstatehouse.com/contact-3",
-"https://brownforokstatehouse.com/education-2-2",
-"https://brownforokstatehouse.com/elementor-page-4232",
-"https://brownforokstatehouse.com/issues",
-"https://brownforokstatehouse.com/my-story",
-"https://brownforokstatehouse.com/recommit-to-democracy",
-"https://wpconsent.com/powered-by"
+{
+"text": "Click here",
+"href": "https://brownforokstatehouse.com/education-2-2/"
+},
+{
+"text": "Click here",
+"href": "https://brownforokstatehouse.com/elementor-page-4232/"
+},
+{
+"text": "Click here",
+"href": "https://brownforokstatehouse.com/recommit-to-democracy/"
+},
+{
+"text": "Contact",
+"href": "https://brownforokstatehouse.com/contact-3/"
+},
+{
+"text": "Home",
+"href": "https://brownforokstatehouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://brownforokstatehouse.com/issues/"
+},
+{
+"text": "My Story",
+"href": "https://brownforokstatehouse.com/my-story/"
+}
 ]

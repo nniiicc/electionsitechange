@@ -1,32 +1,130 @@
 [
-"https://8f6fecd3-526a-4499-9b1d-7132e1d47bbc.heyvictor-sites.com/framing-the-conversation",
-"https://en.wikipedia.org/wiki/Amygdala_hijack",
-"https://en.wikipedia.org/wiki/Computer_memory",
-"https://en.wikipedia.org/wiki/Day_of_the_Dove",
-"https://en.wikipedia.org/wiki/Jay_Wright_Forrester",
-"https://en.wikipedia.org/wiki/John_G._Trump",
-"https://en.wikipedia.org/wiki/Magnetic_core_memory",
-"https://en.wikipedia.org/wiki/Random_access",
-"https://en.wikipedia.org/wiki/Robert_J._Van_de_Graaff",
-"https://en.wikipedia.org/wiki/Spanish_flu",
-"https://en.wikipedia.org/wiki/The_Game_(Star_Trek:_The_Next_Generation)",
-"https://en.wikipedia.org/wiki/The_Limits_to_Growth",
-"https://goingdeepfororegon.org/",
-"https://goingdeepfororegon.org/accessibility-statement",
-"https://goingdeepfororegon.org/darcey-edwards",
-"https://goingdeepfororegon.org/events",
-"https://goingdeepfororegon.org/fun",
-"https://goingdeepfororegon.org/going-deep",
-"https://goingdeepfororegon.org/issue-list",
-"https://goingdeepfororegon.org/legislating",
-"https://goingdeepfororegon.org/meet-candidate",
-"https://goingdeepfororegon.org/site-map",
-"https://goingdeepfororegon.org/volunteer",
-"https://goingdeepfororegon.org/voting-info",
-"https://goingdeepfororegon.org/why-im-running",
-"https://heyvictor.com/",
-"https://mitsloan.mit.edu/faculty/academic-groups/system-dynamics/about-us",
-"https://motherjones.com/politics/2021/11/new-revelations-emerge-on-how-donald-trump-killed-400000-coronavirus-pandemic",
-"https://secure.actblue.com/donate/tom-lum-forest",
-"https://web.mit.edu/"
+{
+"text": "1918-20 influenza pandemic",
+"href": "https://en.wikipedia.org/wiki/Spanish_flu"
+},
+{
+"text": "400,000 unnecessary deaths from COVID",
+"href": "https://www.motherjones.com/politics/2021/11/new-revelations-emerge-on-how-donald-trump-killed-400000-coronavirus-pandemic/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://goingdeepfororegon.org/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:TLForestForOregon@gmail.com"
+},
+{
+"text": "Darcey Edwards",
+"href": "https://goingdeepfororegon.org/darcey-edwards/"
+},
+{
+"text": "Day of the Dove",
+"href": "https://en.wikipedia.org/wiki/Day_of_the_Dove"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom-lum-forest?amount="
+},
+{
+"text": "Events",
+"href": "https://goingdeepfororegon.org/events/"
+},
+{
+"text": "Framing the Conversation",
+"href": "https://8f6fecd3-526a-4499-9b1d-7132e1d47bbc.heyvictor-sites.com/framing-the-conversation/"
+},
+{
+"text": "Fun",
+"href": "https://goingdeepfororegon.org/fun/"
+},
+{
+"text": "Going Deep",
+"href": "https://goingdeepfororegon.org/going-deep/"
+},
+{
+"text": "Home",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "Issue List",
+"href": "https://goingdeepfororegon.org/issue-list/"
+},
+{
+"text": "Jay Forrester",
+"href": "https://en.wikipedia.org/wiki/Jay_Wright_Forrester"
+},
+{
+"text": "John Trump",
+"href": "https://en.wikipedia.org/wiki/John_G._Trump"
+},
+{
+"text": "Legislating",
+"href": "https://goingdeepfororegon.org/legislating/"
+},
+{
+"text": "Limits to Growth",
+"href": "https://en.wikipedia.org/wiki/The_Limits_to_Growth"
+},
+{
+"text": "MIT",
+"href": "https://web.mit.edu/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://goingdeepfororegon.org/meet-candidate/"
+},
+{
+"text": "Robert Van De Graaff",
+"href": "https://en.wikipedia.org/wiki/Robert_J._Van_de_Graaff"
+},
+{
+"text": "Site Map",
+"href": "https://goingdeepfororegon.org/site-map/"
+},
+{
+"text": "The Game",
+"href": "https://en.wikipedia.org/wiki/The_Game_(Star_Trek:_The_Next_Generation)"
+},
+{
+"text": "Volunteer",
+"href": "https://goingdeepfororegon.org/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://goingdeepfororegon.org/voting-info/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://goingdeepfororegon.org/why-im-running/"
+},
+{
+"text": "[image: Me at Lan Su Portland Chinese Garden] [image]",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "amygdala hijack)",
+"href": "https://en.wikipedia.org/wiki/Amygdala_hijack"
+},
+{
+"text": "computer memory",
+"href": "https://en.wikipedia.org/wiki/Computer_memory"
+},
+{
+"text": "magnetic core memory",
+"href": "https://en.wikipedia.org/wiki/Magnetic_core_memory"
+},
+{
+"text": "random-access",
+"href": "https://en.wikipedia.org/wiki/Random_access"
+},
+{
+"text": "ystem Dynamics",
+"href": "https://mitsloan.mit.edu/faculty/academic-groups/system-dynamics/about-us"
+}
 ]

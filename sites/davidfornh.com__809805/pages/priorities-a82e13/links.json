@@ -1,10 +1,38 @@
 [
-"https://davidfornh.com/",
-"https://davidfornh.com/cdn-cgi/l/email-protection",
-"https://davidfornh.com/david",
-"https://davidfornh.com/get-involved",
-"https://davidfornh.com/news",
-"https://davidfornh.com/priorities",
-"https://secure.actblue.com/donate/reelectreppaige",
-"https://secure.actblue.com/donate/reppaige26"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reelectreppaige"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reppaige26"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davidfornh.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.davidfornh.com/"
+},
+{
+"text": "Meet David",
+"href": "https://www.davidfornh.com/david/"
+},
+{
+"text": "Message",
+"href": "mailto:david.paige@leg.state.nh.us"
+},
+{
+"text": "News",
+"href": "https://www.davidfornh.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://www.davidfornh.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "https://www.davidfornh.com"
+}
 ]

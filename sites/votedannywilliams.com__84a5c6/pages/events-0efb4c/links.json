@@ -1,25 +1,150 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+in+Seminole%2C+OK&dates=20240427T150000Z%2F20240427T220000Z&location=3103+Oklahoma+3E%2C+Seminole%2C+OK%2C+74868%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Event+Four&dates=20240713T233000Z%2F20240714T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Event+Three&dates=20240712T233000Z%2F20240713T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Event+Two&dates=20240711T233000Z%2F20240712T003000Z",
-"http://instagram.com/squarespace",
-"http://maps.google.com/?q=3103+Oklahoma+3E+Seminole%2C+OK%2C+74868+United+States",
-"http://twitter.com/squarespace",
-"https://facebook.com/VoteDannyWilliams",
-"https://secure.anedot.com/friends-of-danny-williams/donate",
-"https://votedannywilliams.com/",
-"https://votedannywilliams.com/about",
-"https://votedannywilliams.com/cart",
-"https://votedannywilliams.com/contact",
-"https://votedannywilliams.com/events",
-"https://votedannywilliams.com/events/doorknocking",
-"https://votedannywilliams.com/events/doorknocking?format=ical",
-"https://votedannywilliams.com/events/event-four-2r38n",
-"https://votedannywilliams.com/events/event-four-2r38n?format=ical",
-"https://votedannywilliams.com/events/event-three-rbgcg",
-"https://votedannywilliams.com/events/event-three-rbgcg?format=ical",
-"https://votedannywilliams.com/events/eventtitile",
-"https://votedannywilliams.com/events/eventtitile?format=ical",
-"https://votedannywilliams.com/home"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3103+oklahoma+3e+seminole%2C+ok%2C+74868+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votedannywilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votedannywilliams.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+},
+{
+"text": "Door Knocking in Seminole, OK",
+"href": "https://www.votedannywilliams.com/events/doorknocking"
+},
+{
+"text": "Event Four",
+"href": "https://www.votedannywilliams.com/events/event-four-2r38n"
+},
+{
+"text": "Event Three",
+"href": "https://www.votedannywilliams.com/events/event-three-rbgcg"
+},
+{
+"text": "Event Two",
+"href": "https://www.votedannywilliams.com/events/eventtitile"
+},
+{
+"text": "Events",
+"href": "https://www.votedannywilliams.com/events"
+},
+{
+"text": "Faq's",
+"href": "https://www.votedannywilliams.com/home#faq"
+},
+{
+"text": "Gallery",
+"href": "https://www.votedannywilliams.com/home#Gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+in+Seminole%2C+OK&dates=20240427T150000Z%2F20240427T220000Z&location=3103+Oklahoma+3E%2C+Seminole%2C+OK%2C+74868%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Event+Four&dates=20240713T233000Z%2F20240714T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Event+Three&dates=20240712T233000Z%2F20240713T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Event+Two&dates=20240711T233000Z%2F20240712T003000Z"
+},
+{
+"text": "Home",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votedannywilliams.com/events/doorknocking?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votedannywilliams.com/events/event-four-2r38n?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votedannywilliams.com/events/event-three-rbgcg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.votedannywilliams.com/events/eventtitile?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.votedannywilliams.com/home#news"
+},
+{
+"text": "VOTE DANNY WILLIAMS",
+"href": "https://www.votedannywilliams.com/home"
+},
+{
+"text": "View Event →",
+"href": "https://www.votedannywilliams.com/events/doorknocking"
+},
+{
+"text": "View Event →",
+"href": "https://www.votedannywilliams.com/events/event-four-2r38n"
+},
+{
+"text": "View Event →",
+"href": "https://www.votedannywilliams.com/events/event-three-rbgcg"
+},
+{
+"text": "View Event →",
+"href": "https://www.votedannywilliams.com/events/eventtitile"
+},
+{
+"text": "[image: Door Knocking in Seminole, OK]",
+"href": "https://www.votedannywilliams.com/events/doorknocking"
+},
+{
+"text": "[image: Event Four]",
+"href": "https://www.votedannywilliams.com/events/event-four-2r38n"
+},
+{
+"text": "[image: Event Three]",
+"href": "https://www.votedannywilliams.com/events/event-three-rbgcg"
+},
+{
+"text": "[image: Event Two]",
+"href": "https://www.votedannywilliams.com/events/eventtitile"
+},
+{
+"text": "[image: Vote Danny Williams]",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteDannyWilliams/"
+},
+{
+"text": "donate",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+}
 ]

@@ -1,15 +1,74 @@
 [
-"https://bekkibrewer.com/",
-"https://bekkibrewer.com/about",
-"https://bekkibrewer.com/accessibility-statement",
-"https://bekkibrewer.com/blog",
-"https://bekkibrewer.com/contact",
-"https://bekkibrewer.com/donate-page",
-"https://bekkibrewer.com/issues",
-"https://bekkibrewer.com/post/game-night-with-bekki-brewer-sept-13",
-"https://bekkibrewer.com/post/hd-44-candidate-town-hall-sept-12",
-"https://bekkibrewer.com/post/meet-us-out-at-indian-hills-park-on-saturday-august-2nd-for-a-community-ice-cream-social",
-"https://bekkibrewer.com/privacy-policy",
-"https://facebook.com/Brewerforthe44th",
-"https://instagram.com/bekkibrewerforthe44th"
+{
+"text": "About",
+"href": "https://www.bekkibrewer.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.bekkibrewer.com/accessibility-statement"
+},
+{
+"text": "All Posts",
+"href": "https://www.bekkibrewer.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.bekkibrewer.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.bekkibrewer.com/donate-page"
+},
+{
+"text": "Events",
+"href": "https://www.bekkibrewer.com/blog"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Brewerforthe44th/"
+},
+{
+"text": "Game Night with Bekki Brewer - Sept. 13",
+"href": "https://www.bekkibrewer.com/post/game-night-with-bekki-brewer-sept-13"
+},
+{
+"text": "HD 44 Candidate Town Hall - Sept. 12",
+"href": "https://www.bekkibrewer.com/post/hd-44-candidate-town-hall-sept-12"
+},
+{
+"text": "Home",
+"href": "https://www.bekkibrewer.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bekkibrewerforthe44th/"
+},
+{
+"text": "Issues",
+"href": "https://www.bekkibrewer.com/issues"
+},
+{
+"text": "Meet us out at Indian Hills Park on Saturday, August 2nd for a Community Ice Cream Social!",
+"href": "https://www.bekkibrewer.com/post/meet-us-out-at-indian-hills-park-on-saturday-august-2nd-for-a-community-ice-cream-social"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bekkibrewer.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.bekkibrewer.com/blog"
+},
+{
+"text": "[image: Game Night with Bekki Brewer - Sept. 13]",
+"href": "https://www.bekkibrewer.com/post/game-night-with-bekki-brewer-sept-13"
+},
+{
+"text": "[image: HD 44 Candidate Town Hall - Sept. 12]",
+"href": "https://www.bekkibrewer.com/post/hd-44-candidate-town-hall-sept-12"
+},
+{
+"text": "[image: Meet us out at Indian Hills Park on Saturday, August 2nd for a Community Ice Cream Social!]",
+"href": "https://www.bekkibrewer.com/post/meet-us-out-at-indian-hills-park-on-saturday-august-2nd-for-a-community-ice-cream-social"
+}
 ]

@@ -1,4 +1,3 @@
-Send an Email in Defense of Liberty and a Free Press
-We need your help.
+Skip to content 919-213-9099 Facebook-f Twitter Envelope Meet Meet the Candidate US House District 4 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-effective Healthcare Expanded Housing Market Restorative Justice Electoral Reform — Independent Voters Electoral Reform — Instant Runoff Voting Cost-effective Conservation Defend The Guard Take Action Donate Volunteer When & Where to Vote Donate Go Enter Keyword Day: January 2, 2024 Send an Email in Defense of Liberty and a Free Press We need your help.
 On September 18, 2023, independent North Carolina journalist Stephen Horn was found guilty of criminal actions for covering the events of January 6 as a journalist.
 Stephen has released a documentary of his coverage of that day.

@@ -1,5 +1,14 @@
 [
-"https://anedot.com/",
-"https://anedot.com/privacy",
-"https://anedot.com/terms"
+{
+"text": "Privacy Policy.",
+"href": "https://anedot.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://anedot.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://anedot.com"
+}
 ]

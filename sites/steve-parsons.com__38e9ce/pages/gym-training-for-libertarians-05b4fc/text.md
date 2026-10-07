@@ -1,23 +1,13 @@
-Gym Training for Libertarians
-Introduction to Gym Training for Libertarians.
+0 Skip to Content About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Open Menu Close Menu About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Open Menu Close Menu About Platform Folder: Inflation Back Regulation Tariffs Fed Reform USMCA Folder: More Topics Back Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Gym Training for Libertarians Introduction to Gym Training for Libertarians.
 This part of the website is more whimsical than all of the other tabs.
 However, the messages in the videos are still valid.
 In every instance the discussion of cutting taxes implies the ethical necessity of cutting federal spending.
 For those of you who have visited this tab before, I have listed the videos in order of when they were put up on the site (most recent at the top).
-I have added (*) for my four favorites.
-* The Federal Government is NOT Agile! https://youtu.be/Qod9pin7Wgo
-* Balance in the Gym - Unlike the Federal Government. https://youtu.be/lzuo-koDWgY
-Libertarian Fashion Show.
-This is not gym training, but still I hope, entertaining. https://youtu.be/367SUdpy16g
-Trump or Biden?
-Neither - Libertarian presidential candidate Chase Oliver and VP candidate Mike Ter Maat - The Best Choice for America now https://youtube.com/shorts/6-SU3t7DTlU?feature=share
-Biden or Trump? - Neither the Libertarian Chase Oliver with flex https://youtu.be/s_20a2Z-PQU
-Republican or Democrat with tank-top flex https://youtu.be/MfZn9hfsA4M
-*One-handed human flag - defying gravity with one hand and waving goodbye to big government with the other. https://youtu.be/xAyxg4dkxY0
-* Weighted chin up - dropping part of the regulations and taxes to allow businesses to succeed. https://youtube.com/shorts/s1Lp8pixhfk?feature=share
-2022 Leg Press with Sam simulating taxes and regulations.
+I have added (*) for my four favorites. * The Federal Government is NOT Agile! https://youtu.be/Qod9pin7Wgo * Balance in the Gym - Unlike the Federal Government. https://youtu.be/lzuo-koDWgY Libertarian Fashion Show .
+This is not gym training, but still I hope, entertaining. https://youtu.be/367SUdpy16g Trump or Biden?
+Neither - Libertarian presidential candidate Chase Oliver and VP candidate Mike Ter Maat - The Best Choice for America now https://youtube.com/shorts/6-SU3t7DTlU?feature=share Biden or Trump? - Neither the Libertarian Chase Oliver with flex https://youtu.be/s_20a2Z-PQU Republican or Democrat with tank-top flex https://youtu.be/MfZn9hfsA4M *One-handed human flag - defying gravity with one hand and waving goodbye to big government with the other. https://youtu.be/xAyxg4dkxY0 * Weighted chin up - dropping part of the regulations and taxes to allow businesses to succeed. https://youtube.com/shorts/s1Lp8pixhfk?feature=share 2022 Leg Press with Sam simulating taxes and regulations.
 By the way, fellow Libertarian Sam can leg press far more than what was shown in the video.
-His strength comes from his belief in smaller government. https://youtube.com/shorts/s1Lp8pixhfk
-Not leaning to the left or the right, rather leaning towards small government. 2022 human flag both directions. https://www.youtube.com/watch?v=_3IvXCTn_qo&t=3s
-Thanks to Dr.
+His strength comes from his belief in smaller government. https://youtube.com/shorts/s1Lp8pixhfk Not leaning to the left or the right, rather leaning towards small government.
+2022 human flag both directions. https://www.youtube.com/watch?v=_3IvXCTn_qo&t=3s Thanks to Dr.
 Susan Parsons, Laura Dunn, Katie Lajewski and Melissa Crow for videography and video editing.
+Information Home About Platform Get in Touch Cut Inflation Cut Regulation s The Power of Trade: Tariffs and Trade Restrictions Federal Reserve Reform US-Mexico-Canada-A greement More Topics Immigration Reform Social Security Stop Being the World Charity and the World Police Incarceration, Substance Abuse and Mental Health Reform Gym Training for Libertarians 2024 Debate s

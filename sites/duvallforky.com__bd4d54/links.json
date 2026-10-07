@@ -1,17 +1,82 @@
 [
-"https://duvallforky.com/",
-"https://duvallforky.com/about",
-"https://duvallforky.com/contact",
-"https://duvallforky.com/issues",
-"https://duvallforky.com/news",
-"https://duvallforky.com/privacy-policy",
-"https://duvallforky.com/volunteer",
-"https://facebook.com/duvallforky",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today?amount=100",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today?amount=25",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today?amount=250",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today?amount=50",
-"https://secure.winred.com/robert-duvall-for-state-representative/donate-today?amount=other",
-"https://twitter.com/DuvallforKY"
+{
+"text": "$100",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today/?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today/?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today/?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today/?amount=50"
+},
+{
+"text": "About",
+"href": "https://duvallforky.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://duvallforky.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today"
+},
+{
+"text": "Home",
+"href": "https://duvallforky.com/"
+},
+{
+"text": "Issues",
+"href": "https://duvallforky.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://duvallforky.com/about/"
+},
+{
+"text": "More About Robert",
+"href": "https://duvallforky.com/about/"
+},
+{
+"text": "News",
+"href": "https://duvallforky.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/robert-duvall-for-state-representative/donate-today/?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://duvallforky.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://duvallforky.com/volunteer/"
+},
+{
+"text": "[image: Dr. Robert Duvall for State Representative][image: Dr. Robert Duvall for State Representative]",
+"href": "https://duvallforky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DuvallforKY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/duvallforky"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/DuvallforKY"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/duvallforky"
+}
 ]

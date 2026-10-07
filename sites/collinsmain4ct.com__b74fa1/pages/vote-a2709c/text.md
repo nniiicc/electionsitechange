@@ -1,30 +1,9 @@
-Election Day is Tuesday, November 3.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Election Day is Tuesday, November 3.
 Polls will be open from 6:00 am to 8:00 pm.
-Early Voting:
-Early Voting location:
-Stamford Government Center
-4th Floor Cafeteria
-888 Washington Boulevard
-Early Voting Dates and Times:
-- Monday, October 19: 10:00 am to 6:00 pm
-- Tuesday, October 20: 10:00 am to 6:00 pm
-- Wednesday, October 21: 10:00 am to 6:00 pm Thursday, October 22: 10:00 am to 6:00 pm
-- Friday, October 23: 10:00 am to 6:00 pm
-- Saturday, October 24: 10:00 am to 6:00 pm
-- Sunday, October 25: 10:00 am to 6:00 pm
-- Monday, October 26: 10:00 am to 6:00 pm
-- Tuesday, October 27: 8:00 am to 8:00 pm
-- Wednesday, October 28: 10:00 am to 6:00 pm Thursday, October 29: 8:00 am to 8:00 pm
-- Friday, October 30: 10:00 am to 6:00 pm
-- Saturday, October 31: 10:00 am to 6:00 pm
-- Sunday, November 1: 10:00 am to 6:00 pm
-Make a Plan to Vote
-Absentee Voting:
-Absentee Ballots applications are now available and can be filled out online.
-Absentee Ballot applications can also be printed out and submitted.
-Absentee Ballot applications can be returned via the drop boxes available at:
-- Government Center parking garage (888 Washington Boulevard)
-- Harry Bennett Library parking lot (115 Vine Road)
-They can also be mailed to: Town Clerk, 888 Washington Boulevard, Stamford, Connecticut 06901.
+Early Voting: Early Voting location: Stamford Government Center 4th Floor Cafeteria 888 Washington Boulevard Early Voting Dates and Times : Monday, October 19: 10:00 am to 6:00 pm Tuesday, October 20: 10:00 am to 6:00 pm Wednesday, October 21: 10:00 am to 6:00 pm Thursday, October 22: 10:00 am to 6:00 pm Friday, October 23: 10:00 am to 6:00 pm Saturday, October 24: 10:00 am to 6:00 pm Sunday, October 25: 10:00 am to 6:00 pm Monday, October 26: 10:00 am to 6:00 pm Tuesday, October 27: 8:00 am to 8:00 pm Wednesday, October 28: 10:00 am to 6:00 pm Thursday, October 29: 8:00 am to 8:00 pm Friday, October 30: 10:00 am to 6:00 pm Saturday, October 31: 10:00 am to 6:00 pm Sunday, November 1: 10:00 am to 6:00 pm Make a Plan to Vote Polling Place Locator Absentee Voting: Absentee Ballots applications are now available and can be filled out online.
+Absentee Ballot application (online) Absentee Ballot applications can also be printed out and submitted.
+Absentee Ballot application (PDF download - English) Absentee Ballot application (PDF download - Spanish) Absentee Ballot applications can be returned via the drop boxes available at: Government Center parking garage (888 Washington Boulevard) Harry Bennett Library parking lot (115 Vine Road) They can also be mailed to: Town Clerk, 888 Washington Boulevard, Stamford, Connecticut 06901.
 Please contact the Town Clerk directly if you have additional questions.
-Learn more about registration deadlines for early voting and Election Day by visiting the Secretary of the State’s website here.
+Register to Vote Learn more about registration deadlines for early voting and Election Day by visiting the Secretary of the State’s website here .
+Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

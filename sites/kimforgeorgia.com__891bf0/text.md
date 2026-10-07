@@ -1,5 +1,15 @@
-Kim Jackson serves as Senator for Georgia State Senate District 41, representing portions of Dekalb County.
+Skip to main content Hit enter to search or ESC to close Close Search Menu Meet Kim Priorities Endorsements District 41 Get Involved Donate x-twitter facebook youtube instagram Re-Elect Senator Kim Jackson for District 41 Play Video Watch Kim's Story I want to ensure that every Georgian has the opportunity to thrive.
+I know that if we work together, we can make a safer, fairer, and more prosperous Georgia for all.
+Contribute Fighting for a safer, fairer, and more prosperous Georgia Kim Jackson serves as Senator for Georgia State Senate District 41, representing portions of Dekalb County.
 Kim works every day to build a safer, fairer, and more prosperous Georgia, and bring the diverse voices of her district to the Capitol: immigrants, refugees, the unhoused, and people living on the margins.
 In her years in office, Kim has defended our voting rights against relentless attacks; authored life-saving legislation for stalking victims; secured unprecedented funds for Black farmers, preK programs, and those experiencing traumatic brain injuries; served as co-chair of the Mental Health Caucus and chair of the DeKalb County Delegation; and currently serves as Whip for the Senate Democratic Caucus.
 Most recently, Kim passed legislation to create an Address Confidentiality Program for survivors of domestic violence, stalking violence, and human trafficking.
 She, her wife, and two boys live on an urban farm in Stone Mountain with a menagerie of goats, ducks, honeybees, rabbits, and chickens.
+What Kim Stands For Economic Justice: Providing Poverty Relief Find solutions for homelessness Push for Medicaid expansion Advocate for children: early childhood education, affordable childcare, investing in our foster care/adoption systems Invest in public schools Enhance economic participation/opportunity for immigrants Play Video Click above to watch Kim speak on Medicaid expansion Environmental Justice: Safeguarding the Environment Invest in GA’s agriculture/urban farming Champion clean/renewable energy campaigns Play Video Click above to watch Kim speak on the importance of environmental justice Social Justice: Protecting the Marginalized Stand up for LGBTQ+/Trans community Break down barriers for immigrant communities Invest in maternal health initiatives, specifically black maternal health Provide safety for women & children from domestic violence, stalking, and trafficking Play Video Click above to watch Kim speak on refugee protections See More of Kim's Priorities Join Mailing List Sign-up to receive updates on the campaign or legislative session.
+Contribute Help fund our programs and community outreach events.
+Get Involved Volunteer to walk door-to-door or host a house party or fundraiser.
+Some of the Organizations that Support Kim Friends of Kim Jackson P.O.
+Box 1411 Pine Lake, GA 30072 Phone: 404.656.6882 info@KimForGeorgia.com Sitemap Meet Kim Priorities Endorsements District 41 Get Involved Donate © #-# Paid for by Friends of Kim Jackson.
+All Rights Reserved.
+Website by Webvolve .
+Close Menu Meet Kim Priorities Endorsements District 41 Get Involved Donate x-twitter facebook youtube instagram

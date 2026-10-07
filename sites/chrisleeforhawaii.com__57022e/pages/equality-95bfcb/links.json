@@ -1,18 +1,66 @@
 [
-"http://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=631&year=2015",
-"http://staradvertiser.com/2015/05/05/breaking-news/bill-for-birth-certificate-gender-change-passes-legislature",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=711&year=2019",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/money-in-politics",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://chrisleehawaii.com/www.hawaiinewsnow.com/story/23615525/exclusive-local-lawmaker-receives-death-threat-over-same-sex-marriage-position",
-"https://chrisleehawaii.com/www.youtube.com/watch?v=6qpPK61Urqw",
-"https://chrisleehawaii.com/www.youtube.com/watch?v=n098pkLH19E&t=109s",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii",
-"https://usnews.com/news/us/articles/2016-04-26/hawaii-bill-bans-discrimination-against-transgender-patients?offset=20"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/money-in-politics"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "also passed a law",
+"href": "https://www.usnews.com/news/us/articles/2016-04-26/hawaii-bill-bans-discrimination-against-transgender-patients?offset=20"
+},
+{
+"text": "he fought on",
+"href": "https://www.chrisleehawaii.com/www.youtube.com/watch?v=6qpPK61Urqw"
+},
+{
+"text": "make Hawaii the 15th state to ensure marriage equality",
+"href": "https://www.chrisleehawaii.com/www.youtube.com/watch?v=n098pkLH19E&t=109s"
+},
+{
+"text": "passed a law",
+"href": "http://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=631&year=2015"
+},
+{
+"text": "passed a law",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=711&year=2019"
+},
+{
+"text": "receiving a death threat",
+"href": "https://www.chrisleehawaii.com/www.hawaiinewsnow.com/story/23615525/exclusive-local-lawmaker-receives-death-threat-over-same-sex-marriage-position"
+},
+{
+"text": "to change their birth certificates",
+"href": "http://www.staradvertiser.com/2015/05/05/breaking-news/bill-for-birth-certificate-gender-change-passes-legislature/"
+}
 ]

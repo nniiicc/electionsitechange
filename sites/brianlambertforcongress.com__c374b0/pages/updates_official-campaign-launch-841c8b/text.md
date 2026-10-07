@@ -1,13 +1,10 @@
-Campaign Announcement
-Brian Lambert Announces Campaign for Congress in Florida’s 14th District
-July 20, 2026
-Today, I am officially announcing my campaign to represent Florida's 14th Congressional District in the United States House of Representatives.
+Brian Lambert FOR CONGRESS About Brian Why Libertarian Issues Updates Volunteer Contact Donate ← Back to Campaign Updates Campaign Announcement Brian Lambert Announces Campaign for Congress in Florida’s 14th District July 20, 2026 Today, I am officially announcing my campaign to represent Florida's 14th Congressional District in the United States House of Representatives.
 For twenty years, I served our country in the United States Navy.
 That service taught me that leadership begins with responsibility, that every decision has consequences, and that an oath is more than something you say once.
 That oath has no expiration.
 After retiring from the Navy, my service continued as a father, coach, volunteer, and advocate for veterans in our community.
 I have seen firsthand what happens when government becomes too distant from the people it is supposed to serve.
-You can read more about my life, service, and background.
+You can read more about my life, service, and background .
 Families work harder while their money buys less.
 Veterans fight through unnecessary bureaucracy for benefits they earned.
 Small businesses face rules written by people who have never had to meet a payroll.
@@ -34,4 +31,11 @@ Your Money.
 Your Freedom.
 Your Vote.
 I am Brian Lambert, and I am running for Congress.
-To ask a question, share a concern, invite me to speak, or contact the campaign, send a message to Brian Lambert for Congress.
+To ask a question, share a concern, invite me to speak, or contact the campaign, send a message to Brian Lambert for Congress .
+Explore Brian's Positions Volunteer for Brian's Campaign Brian Lambert Libertarian for Congress Florida's 14th Congressional District info@brianlambertforcongress.com Campaign Phone: (813) 578-7569 Freedom isn't Left or Right.
+It's American.
+Connect f ◎ @ ♪ ▶ Volunteer Donate Twenty years serving our nation.
+A lifetime defending liberty. © # Brian Lambert for Congress.
+All Rights Reserved.
+Paid for by Brian Lambert for Congress.
+The Constitution limits the government, not the people.

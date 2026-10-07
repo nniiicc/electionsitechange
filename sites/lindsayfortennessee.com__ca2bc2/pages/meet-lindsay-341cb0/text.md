@@ -1,7 +1,5 @@
-Meet Lindsay
-Hello!
-Here's a Little More About Me
-I am so excited to get to know you, too!
+Home Meet Lindsay Issues Join Team Lindsay Voting Info Merch Donate Follow us Donate Follow us Menu Meet Lindsay Hello!
+Here's a Little More About Me I am so excited to get to know you, too!
 I am a Farragut native, community advocate, and Democratic Party nominee for Tennessee State House Representative, District 14.
 I live in Farragut with my husband, Brian, our two children, Annie, a rising sixth grader, and Tramel, a rising third grader, and our three dogs: Buddha (19), Tsali (15), and Maggie (5).
 I attended Farragut schools from first grade through high school and earned a degree in Political Science from Maryville College.
@@ -14,3 +12,10 @@ This isn’t about ambition — it’s about responsibility.
 My campaign focuses on strengthening public schools, addressing infrastructure and growth, expanding access to healthcare, protecting democracy, and lowering the cost of living.
 My faith guides my commitment to service, justice, and protecting the vulnerable.
 Those values aren’t partisan, but right now, they require courage.
+SUPPORT OUR CAMPAIGN Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Lindsay Issues Join Team Lindsay Voting Info Merch Donate Follow us Accessibility Statement Email Press Kit paid for by lindsay for tennessee.
+Treasurer, Heather jett.
+The views and opinions expressed by Lindsay Young Honaker and Lindsay for Tennessee on this website are her own and do not reflect those of her employer or any affiliated organizations.
+All statements are made in Lindsay’s capacity as a candidate for public office.
+11519 Kingston Pike Ste.
+2231 Farragut, Tennessee 37934 Lindsay Young Honaker for Tennessee © #

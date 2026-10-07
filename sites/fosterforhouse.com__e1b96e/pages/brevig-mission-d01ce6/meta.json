@@ -1,9 +1,9 @@
 {
  "description": "Explore Brevig Mission with Neal Foster for State House. Discover the District 39 Map and engage with local issues.",
  "final_url": "https://fosterforhouse.com/brevig-mission",
- "paid_for_by": null,
+ "fingerprint": "6a6ff0e74cd582ff697b08ccb7a083292d61698d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Brevig Mission",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

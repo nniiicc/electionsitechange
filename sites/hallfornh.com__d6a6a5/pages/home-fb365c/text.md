@@ -1,4 +1,4 @@
-Meet Muriel.
+Search this site Embedded Files Skip to main content Skip to navigation Muriel Hall for NH Home About Muriel Priorities Donate Endorsements/Recommendations Election Results 2026 Election Photos 2024 Election Photos 2022 Election Photos 2021 Special Election Photos-1 2021 Special Election Photos-2 Muriel Hall for NH Home About Muriel Priorities Donate Endorsements/Recommendations Election Results 2026 Election Photos 2024 Election Photos 2022 Election Photos 2021 Special Election Photos-1 2021 Special Election Photos-2 More Home About Muriel Priorities Donate Endorsements/Recommendations Election Results 2026 Election Photos 2024 Election Photos 2022 Election Photos 2021 Special Election Photos-1 2021 Special Election Photos-2 Meet Muriel.
 She's Our Representative!
 Representative Muriel Hall is eager and excited to continue serving in the NH State House representing the communities of Bow and Hopkinton for her fourth term.
 She currently serves as the Deputy Ranking Democrat on the House Education Policy and Administration Committee.
@@ -7,3 +7,4 @@ A lifelong Granite Stater and longtime Bow resident, Muriel has dedicated her li
 Prior to her retirement, Muriel taught at Bow Memorial School for 32 years.
 She has been recognized for excellence in education, leadership, advocacy, and service to community at the local, state, and national levels.
 Throughout her teaching career, Muriel put her heart and soul into her conviction that great public schools are a basic right for every child.
+Learn more about Muriel > Donate You may donate to Muriel's campaign in two ways: By check Checks can be sent to: 'Hall for State Rep,' 4 Cob Road, Bow, NH 03304 Online Donate using ActBlue: www.actblue.com/donate/muriel-hall-1 Donate Now Learn more about Muriel Google Sites Report abuse Google Sites Report abuse

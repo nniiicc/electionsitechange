@@ -1,4 +1,3 @@
-Supporters
-Photos of supporters of our Campaign to Elect Ed Pacheco, State Representative, 9th Bristol District
-Committee to Elect Edward Pacheco
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Supporters Photos of supporters of our Campaign to Elect Ed Pacheco, State Representative, 9th Bristol District Mr.
+Burney Gifford extends his support to Ed.
+Burney is a well known Art Dealer in Dartmouth and Farmer Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

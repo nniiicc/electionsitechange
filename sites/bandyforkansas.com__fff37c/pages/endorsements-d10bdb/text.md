@@ -1,10 +1,4 @@
-Endorsements
-Our campaign is honored to have the support of these organizations in 2026 .
-Governor Laura Kelly
-Sierra Club, Kansas Chapter
-Kansas AFL-CIO
-Kansas Federation of Democratic Women
-SMART (Sheet Metal, Air, Rail and Transportation Workers) Transportation Division Kansas
-Kansas National Education Association Recommendation
-Gun Sense Candidate Designation: Moms Demand Action
-Contractors and Laborers Union Local 1290
+0 Skip to Content About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Endorsements Our campaign is honored to have the support of these organizations in 2026 .
+Governor Laura Kelly Sierra Club, Kansas Chapter Kansas AFL-CIO Game on for Kansas Schools Kansas Federation of Democratic Women Freedom From Religion Foundation Action Fund SMART (Sheet Metal, Air, Rail and Transportation Workers) Transportation Division Kansas Kansas National Education Association Recommendation Gun Sense Candidate Designation: Moms Demand Action Emily’s List Contractors and Laborers Union Local 1290 States Win Democratic Legislative Campaign Committee I proudly signed the Principles for Trusted Elections Pledge!
+Paid for by Bandy for Kansas.
+Carol Adams, Treasurer 1310 Westloop Place STE A PMB 280, Manhattan, KS 66502 brenda@bandyforkansas.com Privacy Policy

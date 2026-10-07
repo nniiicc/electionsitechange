@@ -1,58 +1,338 @@
 [
-"https://coraandkrist.com/",
-"https://erikosberg4congres.com/",
-"https://erikosberg4congress.com/",
-"https://erikosberg4congress.com/38doors",
-"https://erikosberg4congress.com/38phones",
-"https://erikosberg4congress.com/accessibility",
-"https://erikosberg4congress.com/author/coraandkrist",
-"https://erikosberg4congress.com/author/coraandkrist/page/2",
-"https://erikosberg4congress.com/author/coraandkrist/page/3",
-"https://erikosberg4congress.com/author/coraandkrist/page/4",
-"https://erikosberg4congress.com/author/coraandkrist/page/5",
-"https://erikosberg4congress.com/author/coraandkrist/page/7",
-"https://erikosberg4congress.com/events",
-"https://erikosberg4congress.com/get-involved",
-"https://erikosberg4congress.com/join-the-team",
-"https://erikosberg4congress.com/media-toolkit",
-"https://erikosberg4congress.com/meet-erik",
-"https://erikosberg4congress.com/priorities",
-"https://erikosberg4congress.com/priorities/agriculture-the-farm-bill",
-"https://erikosberg4congress.com/priorities/defend-the-constitution",
-"https://erikosberg4congress.com/priorities/environmental-stewardship",
-"https://erikosberg4congress.com/priorities/equal-rights-no-exceptions",
-"https://erikosberg4congress.com/priorities/fighting-fraud-waste-in-government",
-"https://erikosberg4congress.com/priorities/firearms-gun-safety",
-"https://erikosberg4congress.com/priorities/get-corporate-money-out-of-politics",
-"https://erikosberg4congress.com/priorities/healthcare-for-everyone",
-"https://erikosberg4congress.com/priorities/honoring-our-veterans",
-"https://erikosberg4congress.com/priorities/housing-homelessness",
-"https://erikosberg4congress.com/priorities/protecting-our-seniors",
-"https://erikosberg4congress.com/priorities/reproductive-rights",
-"https://erikosberg4congress.com/priorities/strengthening-public-education",
-"https://erikosberg4congress.com/priorities/with-liberty-and-justice-for-all",
-"https://erikosberg4congress.com/priorities/workers-rights-union-protections",
-"https://erikosberg4congress.com/privacy-policy-terms-of-use",
-"https://erikosberg4congress.com/updates",
-"https://erikosberg4congress.com/updates/category/in-the-news",
-"https://erikosberg4congress.com/updates/category/weekly-update",
-"https://erikosberg4congress.com/updates/in-the-news/1437",
-"https://erikosberg4congress.com/updates/in-the-news/can-fish-fry-town-halls-change-rural-politics-erik-osberg",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-10-5-2026",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-17-2026",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-24-2026",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-31-2026",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-14-26",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-21-26",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-28-26",
-"https://erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-7-2026",
-"https://erikosberg4congress.com/volunteer-hub",
-"https://erikosberg4congress.com/voting",
-"https://facebook.com/ErikOsbergForCongress",
-"https://instagram.com/ErikOsbergMN",
-"https://secure.actblue.com/donate/erik-osberg",
-"https://store.erikosberg4congress.com/",
-"https://tiktok.com/@erikosbergmn",
-"https://x.com/ErikOsbergMN",
-"https://youtube.com/@ErikOsbergForCongress"
+{
+"text": "2",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/page/2/"
+},
+{
+"text": "3",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/page/3/"
+},
+{
+"text": "38 Door Club",
+"href": "https://www.erikosberg4congress.com/38doors/"
+},
+{
+"text": "38 Phones Club",
+"href": "https://www.erikosberg4congress.com/38phones/"
+},
+{
+"text": "4",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/page/4/"
+},
+{
+"text": "5",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/page/5/"
+},
+{
+"text": "7",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/page/7/"
+},
+{
+"text": "Accessibility",
+"href": "https://www.erikosberg4congress.com/accessibility/"
+},
+{
+"text": "Agriculture & the Farm Bill",
+"href": "https://www.erikosberg4congress.com/priorities/agriculture-the-farm-bill/"
+},
+{
+"text": "Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg",
+"href": "https://www.erikosberg4congress.com/updates/in-the-news/can-fish-fry-town-halls-change-rural-politics-erik-osberg/"
+},
+{
+"text": "Cora+Krist",
+"href": "https://coraandkrist.com"
+},
+{
+"text": "Defend The Constitution",
+"href": "https://www.erikosberg4congress.com/priorities/defend-the-constitution/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erik-osberg"
+},
+{
+"text": "Environmental Stewardship",
+"href": "https://www.erikosberg4congress.com/priorities/environmental-stewardship/"
+},
+{
+"text": "Equal Rights. No Exceptions.",
+"href": "https://www.erikosberg4congress.com/priorities/equal-rights-no-exceptions/"
+},
+{
+"text": "Erik Osberg",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/"
+},
+{
+"text": "Erik Osberg for Congress",
+"href": "https://www.erikosberg4congress.com"
+},
+{
+"text": "Events",
+"href": "https://www.erikosberg4congress.com/events"
+},
+{
+"text": "Events",
+"href": "https://www.erikosberg4congress.com/events/"
+},
+{
+"text": "Fighting Fraud & Waste in Government",
+"href": "https://www.erikosberg4congress.com/priorities/fighting-fraud-waste-in-government/"
+},
+{
+"text": "Firearms & Gun Safety",
+"href": "https://www.erikosberg4congress.com/priorities/firearms-gun-safety/"
+},
+{
+"text": "Get Corporate Money Out of Politics",
+"href": "https://www.erikosberg4congress.com/priorities/get-corporate-money-out-of-politics/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.erikosberg4congress.com/get-involved/"
+},
+{
+"text": "Healthcare for Everyone",
+"href": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/"
+},
+{
+"text": "Home",
+"href": "https://erikosberg4congres.com/"
+},
+{
+"text": "Honoring Our Veterans",
+"href": "https://www.erikosberg4congress.com/priorities/honoring-our-veterans/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.erikosberg4congress.com/priorities/housing-homelessness/"
+},
+{
+"text": "In The News",
+"href": "https://www.erikosberg4congress.com/updates/category/in-the-news/"
+},
+{
+"text": "Join The Team",
+"href": "https://www.erikosberg4congress.com/join-the-team/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://www.erikosberg4congress.com/media-toolkit/"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikosberg4congress.com/meet-erik"
+},
+{
+"text": "Meet Erik",
+"href": "https://www.erikosberg4congress.com/meet-erik/"
+},
+{
+"text": "Priorities",
+"href": "https://www.erikosberg4congress.com/priorities/"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://www.erikosberg4congress.com/privacy-policy-terms-of-use/"
+},
+{
+"text": "Protecting Our Seniors",
+"href": "https://www.erikosberg4congress.com/priorities/protecting-our-seniors/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/in-the-news/1437/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/in-the-news/can-fish-fry-town-halls-change-rural-politics-erik-osberg/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-10-5-2026/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-17-2026/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-24-2026/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-31-2026/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-14-26/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-21-26/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-28-26/"
+},
+{
+"text": "Read more",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-7-2026/"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.erikosberg4congress.com/priorities/reproductive-rights/"
+},
+{
+"text": "Store",
+"href": "https://store.erikosberg4congress.com"
+},
+{
+"text": "Store",
+"href": "https://store.erikosberg4congress.com/"
+},
+{
+"text": "Strengthening Public Education",
+"href": "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"
+},
+{
+"text": "Update from Wadena 8-31-2026",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-31-2026/"
+},
+{
+"text": "Update from Wadena 9-21-26",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-21-26/"
+},
+{
+"text": "Update from Wadena – 10-5-2026",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-10-5-2026/"
+},
+{
+"text": "Update from Wadena – 8-24-2026",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-24-2026/"
+},
+{
+"text": "Update from Wadena – 8/17/2026",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-17-2026/"
+},
+{
+"text": "Update from Wadena – 9-14-26",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-14-26/"
+},
+{
+"text": "Update from Wadena – 9-28-26",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-28-26/"
+},
+{
+"text": "Update from Wadena – 9/7/2026",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-7-2026/"
+},
+{
+"text": "Updates",
+"href": "https://www.erikosberg4congress.com/updates"
+},
+{
+"text": "Updates",
+"href": "https://www.erikosberg4congress.com/updates/"
+},
+{
+"text": "Volunteer Hub",
+"href": "https://www.erikosberg4congress.com/volunteer-hub/"
+},
+{
+"text": "Voting",
+"href": "https://www.erikosberg4congress.com/voting"
+},
+{
+"text": "Voting",
+"href": "https://www.erikosberg4congress.com/voting/"
+},
+{
+"text": "Weekly Update",
+"href": "https://www.erikosberg4congress.com/updates/category/weekly-update/"
+},
+{
+"text": "With Liberty and Justice for All",
+"href": "https://www.erikosberg4congress.com/priorities/with-liberty-and-justice-for-all/"
+},
+{
+"text": "Workers’ Rights & Union Protections",
+"href": "https://www.erikosberg4congress.com/priorities/workers-rights-union-protections/"
+},
+{
+"text": "[image: Erik Osberg for Congress]",
+"href": "https://www.erikosberg4congress.com"
+},
+{
+"text": "[image]",
+"href": "hhttps://bsky.app/profile/erikosbergmn.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ErikOsbergForCongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/ErikOsbergMN"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@erikosbergmn"
+},
+{
+"text": "[image]",
+"href": "https://www.x.com/ErikOsbergMN"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@ErikOsbergForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/author/coraandkrist/page/2/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/in-the-news/1437/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/in-the-news/can-fish-fry-town-halls-change-rural-politics-erik-osberg/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-10-5-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-17-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-24-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-8-31-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-14-26/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-21-26/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-28-26/"
+},
+{
+"text": "[no text]",
+"href": "https://www.erikosberg4congress.com/updates/weekly-update/update-from-wadena-9-7-2026/"
+},
+{
+"text": "info@erikosberg4congress.com",
+"href": "mailto:info@erikosberg4congress.com"
+}
 ]

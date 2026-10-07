@@ -1,40 +1,282 @@
 [
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/garamendi-applauds-us-armys-newly-announced-climate-strategy",
-"https://garamendi.org/news/garamendi-bill-unlocks-pentagon-funds-base-access-road-improvements-travis-and-beale-air-force",
-"https://garamendi.org/news/garamendi-secures-key-provisions-america-competes-act",
-"https://garamendi.org/news/garamendi-votes-historic-voting-rights-bill-calls-urgent-action-us-senate",
-"https://garamendi.org/news/rep-garamendi-files-re-election-californias-8th-congressional-district",
-"https://garamendi.org/news/tour-berkley-field-station-discuss-new-job-opportunities-contra-costa-residents",
-"https://garamendi.org/news/tour-brighter-futures-after-school-program-and-discussion-federal-resources",
-"https://garamendi.org/news/tour-center-elders-independence",
-"https://garamendi.org/news/tour-grip-homeless-shelter-and-discussion-federal-resources",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=1",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=2",
-"https://garamendi.org/news?page=3",
-"https://garamendi.org/news?page=4",
-"https://garamendi.org/news?page=5",
-"https://garamendi.org/news?page=6",
-"https://garamendi.org/news?page=7",
-"https://garamendi.org/news?page=8",
-"https://twitter.com/JohnGaramendi",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 3",
+"href": "https://www.garamendi.org/news?page=2"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "February 16, 2022",
+"href": "https://www.garamendi.org/news/garamendi-applauds-us-armys-newly-announced-climate-strategy"
+},
+{
+"text": "February 16, 2022",
+"href": "https://www.garamendi.org/news/garamendi-bill-unlocks-pentagon-funds-base-access-road-improvements-travis-and-beale-air-force"
+},
+{
+"text": "February 16, 2022",
+"href": "https://www.garamendi.org/news/garamendi-secures-key-provisions-america-competes-act"
+},
+{
+"text": "February 16, 2022",
+"href": "https://www.garamendi.org/news/garamendi-votes-historic-voting-rights-bill-calls-urgent-action-us-senate"
+},
+{
+"text": "February 16, 2022",
+"href": "https://www.garamendi.org/news/rep-garamendi-files-re-election-californias-8th-congressional-district"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Garamendi Applauds U.S. Army’s Newly Announced Climate Strategy",
+"href": "https://www.garamendi.org/news/garamendi-applauds-us-armys-newly-announced-climate-strategy"
+},
+{
+"text": "Garamendi Bill Unlocks Pentagon Funds for Base Access Road Improvements at Travis and Beale Air Force Bases",
+"href": "https://www.garamendi.org/news/garamendi-bill-unlocks-pentagon-funds-base-access-road-improvements-travis-and-beale-air-force"
+},
+{
+"text": "Garamendi Secures Key Provisions in the America COMPETES Act",
+"href": "https://www.garamendi.org/news/garamendi-secures-key-provisions-america-competes-act"
+},
+{
+"text": "Garamendi Votes for Historic Voting Rights Bill; Calls for Urgent Action in the U.S. Senate",
+"href": "https://www.garamendi.org/news/garamendi-votes-historic-voting-rights-bill-calls-urgent-action-us-senate"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "March 21, 2022",
+"href": "https://www.garamendi.org/news/tour-brighter-futures-after-school-program-and-discussion-federal-resources"
+},
+{
+"text": "March 21, 2022",
+"href": "https://www.garamendi.org/news/tour-center-elders-independence"
+},
+{
+"text": "March 21, 2022",
+"href": "https://www.garamendi.org/news/tour-grip-homeless-shelter-and-discussion-federal-resources"
+},
+{
+"text": "March 22, 2022",
+"href": "https://www.garamendi.org/news/tour-berkley-field-station-discuss-new-job-opportunities-contra-costa-residents"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/news?page=3"
+},
+{
+"text": "Page 1",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Page 2",
+"href": "https://www.garamendi.org/news?page=1"
+},
+{
+"text": "Page 4",
+"href": "https://www.garamendi.org/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.garamendi.org/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/news?page=1"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-applauds-us-armys-newly-announced-climate-strategy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-bill-unlocks-pentagon-funds-base-access-road-improvements-travis-and-beale-air-force"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-secures-key-provisions-america-competes-act"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-votes-historic-voting-rights-bill-calls-urgent-action-us-senate"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/rep-garamendi-files-re-election-californias-8th-congressional-district"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/tour-berkley-field-station-discuss-new-job-opportunities-contra-costa-residents"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/tour-brighter-futures-after-school-program-and-discussion-federal-resources"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/tour-center-elders-independence"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/tour-grip-homeless-shelter-and-discussion-federal-resources"
+},
+{
+"text": "Rep. Garamendi Files for Re-Election in California’s 8th Congressional District",
+"href": "https://www.garamendi.org/news/rep-garamendi-files-re-election-californias-8th-congressional-district"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Tour of Berkley Field Station to discuss new job opportunities for Contra Costa Residents",
+"href": "https://www.garamendi.org/news/tour-berkley-field-station-discuss-new-job-opportunities-contra-costa-residents"
+},
+{
+"text": "Tour of Brighter Futures after school program and discussion on federal resources",
+"href": "https://www.garamendi.org/news/tour-brighter-futures-after-school-program-and-discussion-federal-resources"
+},
+{
+"text": "Tour of GRIP Homeless Shelter and discussion on federal resources",
+"href": "https://www.garamendi.org/news/tour-grip-homeless-shelter-and-discussion-federal-resources"
+},
+{
+"text": "Tour of the Center for Elders’ Independence",
+"href": "https://www.garamendi.org/news/tour-center-elders-independence"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

@@ -1,10 +1,54 @@
 [
-"https://electmattpierce.com/",
-"https://electmattpierce.com/about",
-"https://electmattpierce.com/issues-1",
-"https://electmattpierce.com/volunteer",
-"https://facebook.com/WixStudio",
-"https://secure.actblue.com/donate/matt-pierce-3",
-"https://twitter.com/WixStudio",
-"https://youtube.com/user/Wix"
+{
+"text": "Contact",
+"href": "mailto:info@electmattpierce.com?subject=Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/matt-pierce-3"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/matt-pierce-3"
+},
+{
+"text": "Issues",
+"href": "https://www.electmattpierce.com/issues-1"
+},
+{
+"text": "Link",
+"href": "https://www.electmattpierce.com"
+},
+{
+"text": "Read More",
+"href": "https://www.electmattpierce.com/about"
+},
+{
+"text": "Read More",
+"href": "https://www.electmattpierce.com/issues-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electmattpierce.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Matt Pierce State Rep for House District 61 campaign logo.]",
+"href": "https://www.electmattpierce.com"
+},
+{
+"text": "[image: Matt Pierce for State Representative campaign logo]",
+"href": "https://www.electmattpierce.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/user/Wix"
+}
 ]

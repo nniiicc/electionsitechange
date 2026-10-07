@@ -1,9 +1,38 @@
 [
-"http://instagram.com/larry_stutts",
-"https://alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action",
-"https://facebook.com/SenLarryStutts",
-"https://larrystutts.com/",
-"https://larrystutts.com/meet-larry",
-"https://larrystutts.com/platform",
-"https://twitter.com/Larry_Stutts"
+{
+"text": "HOME",
+"href": "https://www.larrystutts.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.larrystutts.com/platform"
+},
+{
+"text": "MEET LARRY",
+"href": "https://www.larrystutts.com/meet-larry"
+},
+{
+"text": "REGISTER TO VOTE!",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+},
+{
+"text": "Senator Larry Stutts",
+"href": "https://www.larrystutts.com"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "https://www.facebook.com/SenLarryStutts/"
+},
+{
+"text": "[image: Instagram Clean Grey]",
+"href": "http://instagram.com/larry_stutts"
+},
+{
+"text": "[image: Twitter Clean Grey]",
+"href": "https://twitter.com/Larry_Stutts"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+}
 ]

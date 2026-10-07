@@ -1,13 +1,66 @@
 [
-"https://mk4ar.org/",
-"https://mk4ar.org/bio",
-"https://mk4ar.org/contact",
-"https://mk4ar.org/donate",
-"https://mk4ar.org/events/2026-10-04",
-"https://mk4ar.org/events/2026-10-06",
-"https://mk4ar.org/events/list",
-"https://mk4ar.org/events/month",
-"https://mk4ar.org/events/today",
-"https://mk4ar.org/issues-2",
-"https://mk4ar.org/media"
+{
+"text": "#ago",
+"href": "https://mk4ar.org/events/today/"
+},
+{
+"text": "Bio",
+"href": "https://mk4ar.org/bio/"
+},
+{
+"text": "Contact",
+"href": "https://mk4ar.org/contact/"
+},
+{
+"text": "Day",
+"href": "https://mk4ar.org/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://mk4ar.org/donate/"
+},
+{
+"text": "Home",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Issues",
+"href": "https://mk4ar.org/issues-2/"
+},
+{
+"text": "List",
+"href": "https://mk4ar.org/events/list/"
+},
+{
+"text": "Media",
+"href": "https://mk4ar.org/media/"
+},
+{
+"text": "Michael Kalagias For LT Governor",
+"href": "https://mk4ar.org/"
+},
+{
+"text": "Month",
+"href": "https://mk4ar.org/events/month/"
+},
+{
+"text": "Next Day",
+"href": "https://mk4ar.org/events/2026-10-08/"
+},
+{
+"text": "Previous Day",
+"href": "https://mk4ar.org/events/2026-10-06/"
+},
+{
+"text": "[tooltip: Next day]",
+"href": "https://mk4ar.org/events/2026-10-08/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://mk4ar.org/events/2026-10-06/"
+},
+{
+"text": "next upcoming events",
+"href": "https://mk4ar.org/events/2026-10-08/"
+}
 ]

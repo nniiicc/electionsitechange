@@ -1,5 +1,5 @@
-MEET STATE SENATOR GUSTAVO RIVERA
-Lifelong Democrat Gustavo Rivera was elected to serve as State Senator for the constituents of the 33rd Senate District in November of 2010.
+MEET GUSTAVO Endorsements ISSUES EDUCATION JOBS AFFORDABLE HOUSING HEALTH TRANSPORTATION ETHICS IMMIGRANTS’ RIGHTS CRIMINAL JUSTICE REFORM & PUBLIC SAFETY DISTRICT 33 SUPPORT Menu Standing Strong for The Bronx.
+MEET GUSTAVO Endorsements ISSUES EDUCATION JOBS AFFORDABLE HOUSING HEALTH TRANSPORTATION ETHICS IMMIGRANTS’ RIGHTS CRIMINAL JUSTICE REFORM & PUBLIC SAFETY DISTRICT 33 SUPPORT CONTRIBUTE MEET STATE SENATOR GUSTAVO RIVERA Lifelong Democrat Gustavo Rivera was elected to serve as State Senator for the constituents of the 33rd Senate District in November of 2010.
 Gustavo campaigned on the promise that he would work hard to represent the interests of his Bronx neighbors in Albany and restore the public’s trust in their elected officials.
 In sixteen years, State Senator Gustavo Rivera achieved an unprecedented record of accomplishments that the residents of the 33rd Senate District can be proud of.
 He has passed legislation to empower patients and providers as they navigate a broken healthcare system, fought for historic tenant protections and rent regulation laws, won millions of dollars owed to Bronx public schools, and held the line for economic development and wage increases.
@@ -19,3 +19,9 @@ In 1998, Rivera came to New York to begin a doctoral program in political scienc
 He has lived in the Bronx for over twenty years.
 Senator Rivera represents the Northwest Bronx and areas of the East Bronx, including the following neighborhoods: Fordham Heights, Belmont, Van Nest, Morris Park, Riverdale, Spuyten Duyvil, Norwood, Bedford, and Bronxdale.
 He is committed to the betterment of the Bronx in all of his work in Albany.
+CONTRIBUTE Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+JOIN US Sign up with your email address to receive news and updates about events, Gustavo's work, and how you can help him win.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Back to Top

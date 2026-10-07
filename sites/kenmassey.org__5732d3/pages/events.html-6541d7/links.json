@@ -1,14 +1,86 @@
 [
-"https://facebook.com/ElectKenMassey",
-"https://instagram.com/electkenmassey",
-"https://kenmassey.org/about.html",
-"https://kenmassey.org/contact.html",
-"https://kenmassey.org/district.html",
-"https://kenmassey.org/endorsements.html",
-"https://kenmassey.org/events.html",
-"https://kenmassey.org/index.html",
-"https://kenmassey.org/media.html",
-"https://secure.winred.com/ctekenmassey/donate",
-"https://x.com/ElectKenMassey",
-"https://youtube.com/@ElectKenMassey"
+{
+"text": "About Ken",
+"href": "https://kenmassey.org/about.html"
+},
+{
+"text": "All contact options",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "Contact",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "Contact the campaign",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "District 8",
+"href": "https://kenmassey.org/district.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ctekenmassey/donate"
+},
+{
+"text": "ElectKen@KenMassey.org",
+"href": "mailto:ElectKen@KenMassey.org"
+},
+{
+"text": "Endorsements",
+"href": "https://kenmassey.org/endorsements.html"
+},
+{
+"text": "Events",
+"href": "https://kenmassey.org/events.html"
+},
+{
+"text": "Get event updates",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "Home",
+"href": "https://kenmassey.org/index.html"
+},
+{
+"text": "Newsletter",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "Photos & Videos",
+"href": "https://kenmassey.org/media.html"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://kenmassey.org/contact.html#yard-sign"
+},
+{
+"text": "Stay Connected",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "Volunteer",
+"href": "https://kenmassey.org/contact.html"
+},
+{
+"text": "[image: Ken Massey for Michigan State Senate, District 8]",
+"href": "https://kenmassey.org/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectKenMassey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electkenmassey"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectKenMassey"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectKenMassey"
+}
 ]

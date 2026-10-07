@@ -1,26 +1,7 @@
-Cut Property Taxes & Protect Landowners
-Deliver Real Taxpayer Protection & Property Tax Reform
-District 35 families are being crushed by rising property taxes.
+Skip to content Home About Issues Get Involved Donate Contact Cut Property Taxes & Protect Landowners Deliver Real Taxpayer Protection & Property Tax Reform District 35 families are being crushed by rising property taxes.
 As your senator, Jason will fight to deliver real property tax relief and ensure government grows responsibly — not at the expense of homeowners, retirees, and working families.
-Jason will:
-- Champion meaningful property tax reform that lowers the burden on homeowners
-- Push back on wasteful spending and government expansion that drives costs up
-- Support landowner protections and stand firmly against government overreach — especially on eminent domain issues tied to pipeline and land-use battles
-Public Safety & Constitutional Rights
-Strengthen Public Safety, Support Law Enforcement & Protect Constitutional Freedoms
-District 35 is home to proud military families, hard-working citizens, and strong communities.
+Jason will: Champion meaningful property tax reform that lowers the burden on homeowners Push back on wasteful spending and government expansion that drives costs up Support landowner protections and stand firmly against government overreach — especially on eminent domain issues tied to pipeline and land-use battles Public Safety & Constitutional Rights Strengthen Public Safety, Support Law Enforcement & Protect Constitutional Freedoms District 35 is home to proud military families, hard-working citizens, and strong communities.
 Jason will defend our constitutional rights and fully support the law enforcement and military personnel who protect us every day.
-Jason will:
-- Stand unwaveringly pro-Second Amendment
-- Support and fund law enforcement, first responders, and the needs of military families in and around the Ellsworth area
-- Promote policies that combat crime and keep our neighborhoods safe
-- Defend life, religious liberty, and Christian values that strengthen families and communities
-Empower Parents & Support Affordable Growth
-Empower Parents, Protect School Choice & Ensure Affordable, Responsible Growth
-Jason believes parents — not bureaucrats — know what’s best for their children.
+Jason will: Stand unwaveringly pro-Second Amendment Support and fund law enforcement, first responders, and the needs of military families in and around the Ellsworth area Promote policies that combat crime and keep our neighborhoods safe Defend life, religious liberty, and Christian values that strengthen families and communities Empower Parents & Support Affordable Growth Empower Parents, Protect School Choice & Ensure Affordable, Responsible Growth Jason believes parents — not bureaucrats — know what’s best for their children.
 And as District 35 grows, we need smart development that protects neighborhoods, improves affordability, and keeps government out of the way of families and small businesses.
-Jason will:
-- Champion school choice so parents can choose the education path that aligns with their values
-- Promote parental rights and transparency in school decision-making
-- Support responsible growth that improves infrastructure, reduces red tape, and encourages strong businesses
-- Advocate for more affordable housing so police officers, teachers, young families, and service members can live where they work
+Jason will: Champion school choice so parents can choose the education path that aligns with their values Promote parental rights and transparency in school decision-making Support responsible growth that improves infrastructure, reduces red tape, and encourages strong businesses Advocate for more affordable housing so police officers, teachers, young families, and service members can live where they work Donate Today About Contact LinkedIn Facebook Instagram Copyright © # Privacy Policy Terms of Service

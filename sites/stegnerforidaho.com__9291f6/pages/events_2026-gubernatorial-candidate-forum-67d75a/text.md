@@ -1,14 +1,7 @@
-Back to All Events
-The League of Women Voters of Idaho and the local American Association of University Women (AAUW) will host a gubernatorial candidate forum on Tuesday, October 6, from 7:00 to 8:30 p.m. in the auditorium of South Junior High School, 3101 W.
-Cassia St., Boise, Idaho.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events 2026 Gubernatorial Candidate Forum Tuesday, October 6, 2026 7:00 PM 8:30 PM South Junior High 3101 West Cassia Street Boise, Idaho, 83705 United States (map) Google Calendar ICS The League of Women Voters of Idaho and the local American Association of University Women (AAUW) will host a gubernatorial candidate forum on Tuesday, October 6, from 7:00 to 8:30 p.m. in the auditorium of South Junior High School, 3101 W.
+Cassia St., Boise, Idaho .
 Independent candidate John Stegner and Democratic candidate Terri Pickens will participate in the forum.
 Republican incumbent Governor Brad Little was invited to participate but did not respond to the League's invitation.
 The forum will give voters an opportunity to hear directly from participating candidates and learn more about their views and priorities on issues facing Idaho.
-View League of Women Voters event here.
-Previous
-Previous
-October 5
-Meet & Greet with John
-Next
-Next
-October 12
+View League of Women Voters event here .
+Previous Previous October 5 Meet & Greet with John Next Next October 12 Garden Valley Candidate Forum Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

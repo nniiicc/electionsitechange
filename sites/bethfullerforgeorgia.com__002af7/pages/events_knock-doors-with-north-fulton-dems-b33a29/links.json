@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+North+Fulton+Dems&dates=20260829T160000Z%2F20260829T190000Z&location=200+Morgan+Falls+Road%2C+Sandy+Springs%2C+Georgia%2C+30350%2C+United+States",
-"http://maps.google.com/?q=200+Morgan+Falls+Road+Sandy+Springs%2C+Georgia%2C+30350+United+States",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta",
-"https://bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems?format=ical",
-"https://bethfullerforgeorgia.com/events?tag=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/democraticpartyofgeorgia26/event/1008811",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=200+morgan+falls+road+sandy+springs%2C+georgia%2C+30350+united+states"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?tag=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+North+Fulton+Dems&dates=20260829T160000Z%2F20260829T190000Z&location=200+Morgan+Falls+Road%2C+Sandy+Springs%2C+Georgia%2C+30350%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next August 29 Canvass for Beth Fuller & Adam Cleveland with Indivisible North Metro Atlanta",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous August 29 Atlanta Democrats Canvass | August",
+"href": "https://www.bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/democraticpartyofgeorgia26/event/1008811/",
+"href": "https://www.mobilize.us/democraticpartyofgeorgia26/event/1008811/"
+}
 ]

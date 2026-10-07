@@ -1,18 +1,82 @@
 [
-"https://facebook.com/drrogermarshall",
-"https://instagram.com/rogermarshallmd",
-"https://kansansformarshall.com/",
-"https://kansansformarshall.com/about",
-"https://kansansformarshall.com/cdn-cgi/l/email-protection",
-"https://kansansformarshall.com/contact",
-"https://kansansformarshall.com/legal",
-"https://kansansformarshall.com/news",
-"https://kansansformarshall.com/record",
-"https://kansansformarshall.com/record/bill",
-"https://kansansformarshall.com/voter-info",
-"https://kansansformarshall.com/yard-sign",
-"https://kdor.ks.gov/apps/voterreg/Default.aspx",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://secure.anedot.com/kansans-for-marshall/donate",
-"https://sos.ks.gov/elections/county_election_officers.aspx"
+{
+"text": "(opens in a new tab)",
+"href": "https://facebook.com/drrogermarshall"
+},
+{
+"text": "(opens in a new tab)",
+"href": "https://www.instagram.com/rogermarshallmd"
+},
+{
+"text": "About Doc",
+"href": "https://kansansformarshall.com/about"
+},
+{
+"text": "Accessibility · WCAG 2.2 AA",
+"href": "https://kansansformarshall.com/legal#accessibility"
+},
+{
+"text": "Bills filed",
+"href": "https://kansansformarshall.com/record/bill"
+},
+{
+"text": "CCPA · CPRA",
+"href": "https://kansansformarshall.com/legal#ccpa"
+},
+{
+"text": "Campaign office",
+"href": "https://kansansformarshall.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate"
+},
+{
+"text": "County clerks↗ (opens in a new tab)",
+"href": "https://www.sos.ks.gov/elections/county_election_officers.aspx"
+},
+{
+"text": "DOC MARSHALL U.S. SENATE · KANSAS",
+"href": "https://kansansformarshall.com/"
+},
+{
+"text": "In the News",
+"href": "https://kansansformarshall.com/news"
+},
+{
+"text": "Polling place lookup↗ (opens in a new tab)",
+"href": "https://myvoteinfo.voteks.org/VoterView/"
+},
+{
+"text": "Press inquiries",
+"href": "https://kansansformarshall.com/contact#press"
+},
+{
+"text": "Privacy",
+"href": "https://kansansformarshall.com/legal#privacy"
+},
+{
+"text": "Register to vote↗ (opens in a new tab)",
+"href": "https://www.kdor.ks.gov/apps/voterreg/Default.aspx"
+},
+{
+"text": "Terms",
+"href": "https://kansansformarshall.com/legal#terms"
+},
+{
+"text": "The record",
+"href": "https://kansansformarshall.com/record"
+},
+{
+"text": "Voter info",
+"href": "https://kansansformarshall.com/voter-info"
+},
+{
+"text": "Yard signs",
+"href": "https://kansansformarshall.com/yard-sign"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@kansansformarshall.com"
+}
 ]

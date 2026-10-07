@@ -1,22 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=ANTISEMITISM%3A+THE+TEST+OF+OUR+TIME&dates=20260828T003000Z%2F20260828T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=ONLY+IN+AMERICA%3A+THE+AMERICAN+DREAM+REALIZED&dates=20260814T003000Z%2F20260814T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=WHAT+THE+FOUNDERS+GAVE+US&dates=20260922T003000Z%2F20260922T013000Z",
-"https://facebook.com/DrZ4AZ",
-"https://instagram.com/drzuhdijasser",
-"https://secure.winred.com/friends-of-dr-jasser-inc/donate-today",
-"https://x.com/DrZforAZ",
-"https://youtube.com/channel/UCr_8NTXRAYG9hTBObAXySbQ",
-"https://z4az.com/",
-"https://z4az.com/cart",
-"https://z4az.com/connect",
-"https://z4az.com/endorsements",
-"https://z4az.com/events",
-"https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r",
-"https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf",
-"https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf-g8ma3-793nr",
-"https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf-g8ma3-793nr?format=ical",
-"https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf?format=ical",
-"https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r?format=ical",
-"https://z4az.com/meet-dr-jasser"
+{
+"text": "0",
+"href": "https://z4az.com/cart"
+},
+{
+"text": "ANTISEMITISM: THE TEST OF OUR TIME",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf-g8ma3-793nr"
+},
+{
+"text": "Connect",
+"href": "https://z4az.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-dr-jasser-inc/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://z4az.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://z4az.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ANTISEMITISM%3A+THE+TEST+OF+OUR+TIME&dates=20260828T003000Z%2F20260828T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ONLY+IN+AMERICA%3A+THE+AMERICAN+DREAM+REALIZED&dates=20260814T003000Z%2F20260814T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=WHAT+THE+FOUNDERS+GAVE+US&dates=20260922T003000Z%2F20260922T013000Z"
+},
+{
+"text": "ICS",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf-g8ma3-793nr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r?format=ical"
+},
+{
+"text": "Meet Dr. Jasser",
+"href": "https://z4az.com/meet-dr-jasser"
+},
+{
+"text": "My Plan",
+"href": "https://z4az.com/#plan"
+},
+{
+"text": "ONLY IN AMERICA: THE AMERICAN DREAM REALIZED",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r"
+},
+{
+"text": "View Event →",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r"
+},
+{
+"text": "View Event →",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf"
+},
+{
+"text": "View Event →",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf-g8ma3-793nr"
+},
+{
+"text": "WHAT THE FOUNDERS GAVE US",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf"
+},
+{
+"text": "[image: ANTISEMITISM: THE TEST OF OUR TIME]",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf-g8ma3-793nr"
+},
+{
+"text": "[image: ONLY IN AMERICA: THE AMERICAN DREAM REALIZED]",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r"
+},
+{
+"text": "[image: WHAT THE FOUNDERS GAVE US]",
+"href": "https://z4az.com/events/event-one-rg2bh-mx2wm-3ea3j-feb8r-j95nf"
+},
+{
+"text": "[image: Zuhdi Jasser for Congress]",
+"href": "https://z4az.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DrZ4AZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drzuhdijasser"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCr_8NTXRAYG9hTBObAXySbQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DrZforAZ"
+}
 ]

@@ -1,3 +1,4 @@
-From The Kitchen Table To The Capital The Elephant In The Room Podcast
-Border, Water & the Future of Texas: What Every Voter Needs to Know”
-The Elephant In The Room is Celeste Cabrera Huff’s official podcast, where she and co-host Chelsea discuss the issues impacting the Rio Grande Valley, Texas, and beyond—from border security and healthcare to water, energy, and the future of our state—bringing honest conversations without spin or silence. 🐘
+0 Skip to Content Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Open Menu Close Menu Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Open Menu Close Menu Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE From The Kitchen Table To The Capital The Elephant In The Room Podcast Stream Here Border, Water & the Future of Texas: What Every Voter Needs to Know” The Elephant In The Room is Celeste Cabrera Huff’s official podcast, where she and co-host Chelsea discuss the issues impacting the Rio Grande Valley, Texas, and beyond—from border security and healthcare to water, energy, and the future of our state—bringing honest conversations without spin or silence. 🐘 Pol.
+Adv Paid For By Celeste For Texas Please Make Checks Payable To: Celeste For Texas Mailing Address : 2112 W.
+University Drive #1141 Edinburg, Texas 78539 Location 2112 W.
+University Drive, #1141 Edinburg, Texas 78539 Contact Info@celestefortexas.com (956) 339-5979

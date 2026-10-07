@@ -1,4 +1,5 @@
-Bucks County mom.
+Click Here To Donate Today!
+Home About Volunteer Contact About MEET KRISTIN Bucks County mom.
 That’s the heart of who Kristin Marcell is, because her children are what drive her every day.
 A Council Rock graduate and Bucks County native, she’s our trusted State Representative, a successful communications professional, a former school board member, and has passionately volunteered in our community.
 But what motivates her most is her children – and ensuring they have every opportunity to succeed and pursue their dreams.
@@ -19,3 +20,10 @@ She also served in the U.S.
 Congress in various legislative offices where she learned about the legislative process and how to turn good ideas into powerful laws that serve the greater good.
 Born in Doylestown Township and today residing in Wrightstown with her husband, Steve, a small business owner, and their two children, Kristin has also lived in Northampton Township, Newtown Township and Newtown Borough.
 A graduate of our local public schools, she holds a Master’s Degree in Public Policy from the George Washington University and a Bachelor of Arts in Political Science from the Pennsylvania State University.
+Read More Born and raised in Bucks County and graduated from Council Rock High School Proven State Representative who has put politics aside to focus on commonsense solutions to the challenges we face Successful business professional with real world skills she brings to Harrisburg Commonsense fiscal conservative who is working to control spending and protect our tax dollars She and her husband are the proud parents of two children who attend our local public schools Graduate of Penn State University (BA) and George Washington University (Master's) Sign Up For Updates First Name * Last Name * Email * Phone Number optinsms I want to opt-in to SMS texts optinemail I want to opt-in to email HP Name Submit By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from FRIENDS OF KRISTIN MARCELL at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions.
+Donate Paid for by Friends of Kristin Marcell Privacy Policy ©# All Rights Reserved

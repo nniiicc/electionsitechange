@@ -1,21 +1,78 @@
 [
-"https://facebook.com/sarahclarkny",
-"https://instagram.com/votesarahclark",
-"https://nysenate.gov/legislation/bills/2021/s7752",
-"https://nysenate.gov/newsroom/press-releases/samra-g-brouk/senator-brouk-announces-legislative-package-address-maternal",
-"https://sarahclarkforassembly.com/",
-"https://sarahclarkforassembly.com/about-sarah",
-"https://sarahclarkforassembly.com/category/inthenews",
-"https://sarahclarkforassembly.com/contact",
-"https://sarahclarkforassembly.com/issues",
-"https://sarahclarkforassembly.com/media",
-"https://sarahclarkforassembly.com/nys-legislators-raise-pay-to-ease-caregiving-crisis-guest-opinion-by-rachel-may-and-sarah-clark",
-"https://sarahclarkforassembly.com/rochester-area-statewide-leaders-react-to-hochuls-first-state-of-the-state-address",
-"https://sarahclarkforassembly.com/subscribe",
-"https://sarahclarkforassembly.com/tag/healthcare",
-"https://sarahclarkforassembly.com/tag/maternity",
-"https://sarahclarkforassembly.com/tag/mental-health",
-"https://sarahclarkforassembly.com/volunteer",
-"https://sarahclarkforassembly.com/vote",
-"https://secure.actblue.com/donate/votesarah"
+{
+"text": "About Sarah",
+"href": "https://sarahclarkforassembly.com/about-sarah/"
+},
+{
+"text": "Contact",
+"href": "https://sarahclarkforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarah"
+},
+{
+"text": "In The News",
+"href": "https://sarahclarkforassembly.com/category/inthenews/"
+},
+{
+"text": "Issues",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://sarahclarkforassembly.com/media/"
+},
+{
+"text": "NY Senate",
+"href": "https://www.nysenate.gov/newsroom/press-releases/samra-g-brouk/senator-brouk-announces-legislative-package-address-maternal"
+},
+{
+"text": "NYS Legislators: Raise pay to ease caregiving crisis (Guest Opinion by Rachel May and Sarah Clark)",
+"href": "https://sarahclarkforassembly.com/nys-legislators-raise-pay-to-ease-caregiving-crisis-guest-opinion-by-rachel-may-and-sarah-clark/"
+},
+{
+"text": "Rochester-area, statewide leaders react to Hochul’s first State of the State address",
+"href": "https://sarahclarkforassembly.com/rochester-area-statewide-leaders-react-to-hochuls-first-state-of-the-state-address/"
+},
+{
+"text": "Senate Bill 7752",
+"href": "https://www.nysenate.gov/legislation/bills/2021/s7752"
+},
+{
+"text": "Subscribe",
+"href": "https://sarahclarkforassembly.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahclarkforassembly.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://sarahclarkforassembly.com/vote/"
+},
+{
+"text": "[image: Sarah Clark for New York State Assembly]",
+"href": "https://sarahclarkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarahclarkny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesarahclark/"
+},
+{
+"text": "healthcare",
+"href": "https://sarahclarkforassembly.com/tag/healthcare/"
+},
+{
+"text": "maternity",
+"href": "https://sarahclarkforassembly.com/tag/maternity/"
+},
+{
+"text": "mental health",
+"href": "https://sarahclarkforassembly.com/tag/mental-health/"
+}
 ]

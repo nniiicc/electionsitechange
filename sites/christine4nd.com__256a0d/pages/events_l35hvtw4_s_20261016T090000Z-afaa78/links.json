@@ -1,19 +1,90 @@
 [
-"https://campaignpartner.com/",
-"https://christine4nd.com/",
-"https://christine4nd.com/about-christine",
-"https://christine4nd.com/better-together",
-"https://christine4nd.com/contact",
-"https://christine4nd.com/contribute",
-"https://christine4nd.com/events",
-"https://christine4nd.com/events/l35hvtw4.ics?s=20261016T090000Z",
-"https://christine4nd.com/issues",
-"https://christine4nd.com/meet-rosie",
-"https://christine4nd.com/meet_christine",
-"https://christine4nd.com/news",
-"https://christine4nd.com/privacy-policy",
-"https://christine4nd.com/view-endorsements",
-"https://christine4nd.com/volunteer",
-"https://christine4nd.com/vote",
-"https://christine4nd.com/yard-sign"
+{
+"text": "About Christine",
+"href": "https://christine4nd.com/about-christine"
+},
+{
+"text": "Add to calendar",
+"href": "https://christine4nd.com/events/l35hvtw4.ics?s=20261016T090000Z"
+},
+{
+"text": "Be an Informed Voter. Preview a Sample Ballot",
+"href": "https://christine4nd.com/news/#be-an-informed-voter-preview-a-sample-ballot"
+},
+{
+"text": "Better Together",
+"href": "https://christine4nd.com/better-together"
+},
+{
+"text": "Campaign News",
+"href": "https://christine4nd.com/news/#campaign-news"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://christine4nd.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://christine4nd.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://christine4nd.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://christine4nd.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://christine4nd.com/events"
+},
+{
+"text": "Issues",
+"href": "https://christine4nd.com/issues"
+},
+{
+"text": "Meet Christine",
+"href": "https://christine4nd.com/meet_christine"
+},
+{
+"text": "Meet Rosie",
+"href": "https://christine4nd.com/meet-rosie"
+},
+{
+"text": "More Campaign News",
+"href": "https://christine4nd.com/news/#more-campaign-news"
+},
+{
+"text": "News",
+"href": "https://christine4nd.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://christine4nd.com/privacy-policy"
+},
+{
+"text": "Special Election Wards",
+"href": "https://christine4nd.com/news/#special-election-wards"
+},
+{
+"text": "VOTING INFO",
+"href": "https://christine4nd.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://christine4nd.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://christine4nd.com/yard-sign"
+},
+{
+"text": "[image: Christine O’Riley GOP Candidate for ND State Senate District 11]",
+"href": "https://christine4nd.com/"
+}
 ]

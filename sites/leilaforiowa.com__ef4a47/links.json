@@ -1,36 +1,178 @@
 [
-"https://afscmecouncil61.org/2026-afscme-council-61-endorsements",
-"https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://berniesanders.com/endorse",
-"https://directory.runforsomething.net/candidate/44163e93768ab993597390a71b04df36/staton-leila",
-"https://facebook.com/LeilaForIowa",
-"https://facebook.com/photo?fbid=1276602207981080&set=a.1276593394648628",
-"https://facebook.com/share/p/1EAKoQcWr9",
-"https://facebook.com/share/p/1EQvymZu9u",
-"https://forms.gle/Cnfk4zWPRzRBzLLNA",
-"https://forms.gle/T4ptnoQnk2Dudi3s8",
-"https://forms.gle/nFNPPQnYxpMGXatj9",
-"https://instagram.com/leilaforiowa",
-"https://instagram.com/nextgenpoliticshq",
-"https://leaderswedeserve.com/candidate/leila-staton",
-"https://legis.iowa.gov/legislators/find",
-"https://leilaforiowa.com/",
-"https://leilaforiowa.com/AboutLeila",
-"https://leilaforiowa.com/priorities",
-"https://plannedparenthoodaction.org/planned-parenthood-advocates-iowa",
-"https://rayguncustom.com/collections/leila-staton-for-iowa-house",
-"https://realactioninc.org/endorsements",
-"https://secure.actblue.com/donate/leila-staton-1",
-"https://static.wixstatic.com/media/ef9888_1e090e6cb35c47b198530ab8d22296f8~mv2.png",
-"https://static.wixstatic.com/media/ef9888_2e0947ea88e64ec39e20bbed547a64f8~mv2.png",
-"https://static.wixstatic.com/media/ef9888_2e097824bbd74cafbc935233dd16ae3a~mv2.png",
-"https://static.wixstatic.com/media/ef9888_333dbb00e40a4fafa90c671af90598a9~mv2.png",
-"https://static.wixstatic.com/media/ef9888_40555322ab3f4482b9ddc90c57b64d62~mv2.jpg",
-"https://static.wixstatic.com/media/ef9888_6cc63ad43b2245e99f2beff22e276bfb~mv2.jpeg",
-"https://static.wixstatic.com/media/ef9888_90ea2f7fc66348a1918bcd865ed7d27f~mv2.jpg",
-"https://static.wixstatic.com/media/ef9888_92136ff1886944bf893f5e83d58538de~mv2.png",
-"https://static.wixstatic.com/media/ef9888_a781000208064f2fafff7e8bef000bb7~mv2.png",
-"https://static.wixstatic.com/media/ef9888_bcbabfb2b9c3461d94974c88fda6bacf~mv2.jpeg",
-"https://static.wixstatic.com/media/ef9888_c95bb741bc944c599ea43ea42bfd9857~mv2.jpg",
-"https://tiktok.com/@leilaforiowa"
+{
+"text": "02Planned Parenthood",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-iowa"
+},
+{
+"text": "03AFSCME Council 61",
+"href": "https://afscmecouncil61.org/2026-afscme-council-61-endorsements"
+},
+{
+"text": "04Senator Bernie Sanders",
+"href": "https://berniesanders.com/endorse/"
+},
+{
+"text": "05Leaders We Deserve",
+"href": "https://leaderswedeserve.com/candidate/leila-staton/"
+},
+{
+"text": "06PDA Iowa",
+"href": "https://www.facebook.com/photo/?fbid=1276602207981080&set=a.1276593394648628"
+},
+{
+"text": "07Run for Something",
+"href": "https://directory.runforsomething.net/candidate/44163e93768ab993597390a71b04df36/staton-leila/"
+},
+{
+"text": "08Next Gen Politics",
+"href": "https://www.instagram.com/nextgenpoliticshq/"
+},
+{
+"text": "09Real Action Inc",
+"href": "https://www.realactioninc.org/endorsements"
+},
+{
+"text": "10Iowa State Senator Zach Wahls",
+"href": "https://www.facebook.com/share/p/1EQvymZu9u/"
+},
+{
+"text": "11Iowa House Representative Timi Brown-Powers",
+"href": "https://www.facebook.com/share/p/1EAKoQcWr9/"
+},
+{
+"text": "About",
+"href": "https://www.leilaforiowa.com/AboutLeila"
+},
+{
+"text": "Check Your Voter Registration!",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leila-staton-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LeilaForIowa"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/leilaforiowa"
+},
+{
+"text": "Next Gen Politics Endorsed!",
+"href": "https://static.wixstatic.com/media/ef9888_bcbabfb2b9c3461d94974c88fda6bacf~mv2.jpeg"
+},
+{
+"text": "Priorities",
+"href": "https://www.leilaforiowa.com/priorities"
+},
+{
+"text": "Raygun Shop",
+"href": "https://www.rayguncustom.com/collections/leila-staton-for-iowa-house"
+},
+{
+"text": "Real Action Inc Endorsed!",
+"href": "https://static.wixstatic.com/media/ef9888_6cc63ad43b2245e99f2beff22e276bfb~mv2.jpeg"
+},
+{
+"text": "Run For Something Endorsed!",
+"href": "https://static.wixstatic.com/media/ef9888_90ea2f7fc66348a1918bcd865ed7d27f~mv2.jpg"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@leilaforiowa"
+},
+{
+"text": "Timi Brown Powers Endorsed!",
+"href": "https://static.wixstatic.com/media/ef9888_333dbb00e40a4fafa90c671af90598a9~mv2.png"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/Cnfk4zWPRzRBzLLNA"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/T4ptnoQnk2Dudi3s8"
+},
+{
+"text": "Who's my rep?",
+"href": "https://www.legis.iowa.gov/legislators/find"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://forms.gle/nFNPPQnYxpMGXatj9"
+},
+{
+"text": "Zach Wahls Endorsed!",
+"href": "https://static.wixstatic.com/media/ef9888_2e0947ea88e64ec39e20bbed547a64f8~mv2.png"
+},
+{
+"text": "[image: Next Gen Politics Endorsed!]",
+"href": "https://www.instagram.com/nextgenpoliticshq/"
+},
+{
+"text": "[image: Real Action Inc Endorsed!]",
+"href": "https://www.realactioninc.org/endorsements"
+},
+{
+"text": "[image: Run For Something Endorsed!]",
+"href": "https://directory.runforsomething.net/candidate/44163e93768ab993597390a71b04df36/staton-leila/"
+},
+{
+"text": "[image: Timi Brown Powers Endorsed!]",
+"href": "https://www.facebook.com/share/p/1EAKoQcWr9/"
+},
+{
+"text": "[image: Zach Wahls Endorsed!]",
+"href": "https://www.facebook.com/share/p/1EQvymZu9u/"
+},
+{
+"text": "[image]",
+"href": "https://afscmecouncil61.org/2026-afscme-council-61-endorsements"
+},
+{
+"text": "[image]",
+"href": "https://berniesanders.com/endorse/"
+},
+{
+"text": "[image]",
+"href": "https://leaderswedeserve.com/candidate/leila-staton/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/photo/?fbid=1276602207981080&set=a.1276593394648628"
+},
+{
+"text": "[image]",
+"href": "https://www.leilaforiowa.com#welcome"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-iowa"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/ef9888_1e090e6cb35c47b198530ab8d22296f8~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/ef9888_2e097824bbd74cafbc935233dd16ae3a~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/ef9888_40555322ab3f4482b9ddc90c57b64d62~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/ef9888_92136ff1886944bf893f5e83d58538de~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/ef9888_a781000208064f2fafff7e8bef000bb7~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/ef9888_c95bb741bc944c599ea43ea42bfd9857~mv2.jpg"
+}
 ]

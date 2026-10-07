@@ -1,3 +1,3 @@
-Racking Up Wins In The Final Days
-To My District 24 Neighbors: We have three days left in the 2026 legislative session (before overtime), so things are busy as both chambers try to clear the decks before bills officially die on Thursday.
-Here’s a run-down of what we’ve been doing in the House: First a Personal Note: Clemson Graduation It was amazing […]
+Skip to main content Bruce Bannister bruce@brucebannister.com Facebook Instagram Home About Bruce Issues Updates Home About Bruce Issues Updates Donate Now Day: May 11, 2026 Racking Up Wins In The Final Days To My District 24 Neighbors: We have three days left in the 2026 legislative session (before overtime), so things are busy as both chambers try to clear the decks before bills officially die on Thursday.
+Here’s a run-down of what we’ve been doing in the House: First a Personal Note: Clemson Graduation It was amazing […] About Us About Bruce Issues Contact Us P.O.
+Box 1828 Greenville, SC 29602 Donate Now Copyright © # Bruce Bannister for State House Design, Development, & Hosting by Uncle Jake Media

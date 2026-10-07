@@ -1,44 +1,186 @@
 [
-"http://facebook.com/ChrisBeckforCongress",
-"https://chrisbeckforcongress.com/",
-"https://chrisbeckforcongress.com/about",
-"https://chrisbeckforcongress.com/aboutchris",
-"https://chrisbeckforcongress.com/aboutchris-es",
-"https://chrisbeckforcongress.com/calendar",
-"https://chrisbeckforcongress.com/calendar-es",
-"https://chrisbeckforcongress.com/cart",
-"https://chrisbeckforcongress.com/contact",
-"https://chrisbeckforcongress.com/district2issues",
-"https://chrisbeckforcongress.com/district2issues-es",
-"https://chrisbeckforcongress.com/espanol",
-"https://chrisbeckforcongress.com/espanol-1",
-"https://chrisbeckforcongress.com/media-kit",
-"https://chrisbeckforcongress.com/s/Beck_Sasquatch.jpeg",
-"https://chrisbeckforcongress.com/s/Beck_policies_positions_ideas.pdf",
-"https://chrisbeckforcongress.com/s/CHRISBECK_high_res.png",
-"https://chrisbeckforcongress.com/s/ChrisBeckBio.pdf",
-"https://chrisbeckforcongress.com/s/Chris_headshot_flag.png",
-"https://chrisbeckforcongress.com/s/Chris_headshot_horiztonal.png",
-"https://chrisbeckforcongress.com/s/FULL_reversed_high_res.png",
-"https://chrisbeckforcongress.com/s/FULL_reversed_high_res_transparent.png",
-"https://chrisbeckforcongress.com/s/High_res1.jpg",
-"https://chrisbeckforcongress.com/s/LOGO_blue-background.pdf",
-"https://chrisbeckforcongress.com/s/LOGO_white_background-8cnl.pdf",
-"https://chrisbeckforcongress.com/s/Sasquatch_flag_high-res.png",
-"https://chrisbeckforcongress.com/s/VPS-bj4y.pdf",
-"https://chrisbeckforcongress.com/shop",
-"https://chrisbeckforcongress.com/shop-es",
-"https://chrisbeckforcongress.com/volunteer",
-"https://chrisbeckforcongress.com/volunteer-es",
-"https://chrisbeckforcongress.com/voters-pamphlet-statement",
-"https://columbiagorgenews.com/news/meet-chris-beck-opponent-to-cliff-bentz/article_a024953e-a5ce-4b2c-ad2f-cc7dcf485223.html",
-"https://donation.c-esystems.com/campaign/chrisbeckforcongress",
-"https://eastoregonian.com/2026/09/15/democrat-running-for-oregon-cd2-holds-milton-freewater-town-hall",
-"https://hermistonherald.com/2026/09/11/democrat-beck-says-2nd-congressional-district-needs-independent-voice",
-"https://ijpr.org/podcast/the-jefferson-exchange/2026-09-30/chris-beck-oregon-2nd-district-health-care",
-"https://instagram.com/chrisbeckforcongress",
-"https://timesjournal1886.com/story/2026/07/30/news/democrat-chris-beck-seeks-path-to-unseat-bentz-in-oregons-2nd-district/2090.html",
-"https://youtube.com/@ChrisBeckforCongress",
-"https://youtube.com/@ChrisBeckforCongress/videos",
-"https://youtube.com/watch?v=mau-DFHzYVc"
+{
+"text": "0",
+"href": "https://chrisbeckforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://chrisbeckforcongress.com/"
+},
+{
+"text": "Calendar",
+"href": "https://chrisbeckforcongress.com/calendar"
+},
+{
+"text": "Calendario",
+"href": "https://chrisbeckforcongress.com/calendar-es"
+},
+{
+"text": "Chris Beck Focuses on Affordability, Health Care, Iran War in Run Against Cliff Bentz",
+"href": "https://www.bendsource.com/news/localnews/chris-beck-focuses-on-affordability-health-care-affordability-in-run-against-cliff-bentz/"
+},
+{
+"text": "Chris Beck puts rural health care at the center of his race against Cliff Bentz",
+"href": "https://www.ijpr.org/podcast/the-jefferson-exchange/2026-09-30/chris-beck-oregon-2nd-district-health-care"
+},
+{
+"text": "Contact",
+"href": "https://chrisbeckforcongress.com/contact"
+},
+{
+"text": "Contact Chris",
+"href": "https://chrisbeckforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://donation.c-esystems.com/campaign/chrisbeckforcongress"
+},
+{
+"text": "Democrat Beck says 2nd Congressional District needs independent voice",
+"href": "https://hermistonherald.com/2026/09/11/democrat-beck-says-2nd-congressional-district-needs-independent-voice/"
+},
+{
+"text": "Democrat Chris Beck seeks path to unseat Bentz in Oregon's 2nd District",
+"href": "https://www.timesjournal1886.com/story/2026/07/30/news/democrat-chris-beck-seeks-path-to-unseat-bentz-in-oregons-2nd-district/2090.html"
+},
+{
+"text": "Democrat running for Oregon CD2 holds Milton-Freewater town hall",
+"href": "https://eastoregonian.com/2026/09/15/democrat-running-for-oregon-cd2-holds-milton-freewater-town-hall/"
+},
+{
+"text": "District 2 issues",
+"href": "https://chrisbeckforcongress.com/district2issues"
+},
+{
+"text": "Folder: About",
+"href": "https://chrisbeckforcongress.com/about"
+},
+{
+"text": "Folder: ES",
+"href": "https://chrisbeckforcongress.com/espanol-1"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/Beck_Sasquatch.jpeg"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/CHRISBECK_high_res.png"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/Chris_headshot_flag.png"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/Chris_headshot_horiztonal.png"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/FULL_reversed_high_res.png"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/FULL_reversed_high_res_transparent.png"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/High_res1.jpg"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/LOGO_blue-background.pdf"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/LOGO_white_background-8cnl.pdf"
+},
+{
+"text": "HERE",
+"href": "https://chrisbeckforcongress.com/s/Sasquatch_flag_high-res.png"
+},
+{
+"text": "Inicio",
+"href": "https://chrisbeckforcongress.com/espanol"
+},
+{
+"text": "Media kit",
+"href": "https://chrisbeckforcongress.com/media-kit"
+},
+{
+"text": "Meet Chris Beck, opponent to Cliff Bentz",
+"href": "https://www.columbiagorgenews.com/news/meet-chris-beck-opponent-to-cliff-bentz/article_a024953e-a5ce-4b2c-ad2f-cc7dcf485223.html"
+},
+{
+"text": "Shop",
+"href": "https://chrisbeckforcongress.com/shop"
+},
+{
+"text": "Temas del Distrito 2",
+"href": "https://chrisbeckforcongress.com/district2issues-es"
+},
+{
+"text": "Tienda",
+"href": "https://chrisbeckforcongress.com/shop-es"
+},
+{
+"text": "Videos",
+"href": "https://www.youtube.com/@ChrisBeckforCongress/videos"
+},
+{
+"text": "Voluntariado",
+"href": "https://chrisbeckforcongress.com/volunteer-es"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisbeckforcongress.com/volunteer"
+},
+{
+"text": "Voters' Pamphlet Statement",
+"href": "https://chrisbeckforcongress.com/voters-pamphlet-statement"
+},
+{
+"text": "Who is Chris?",
+"href": "https://chrisbeckforcongress.com/aboutchris"
+},
+{
+"text": "YouTube page",
+"href": "https://www.youtube.com/@ChrisBeckforCongress"
+},
+{
+"text": "[image: Chris Beck for Congress]",
+"href": "https://chrisbeckforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://donation.c-esystems.com/campaign/chrisbeckforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ChrisBeckforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisbeckforcongress"
+},
+{
+"text": "download PDF",
+"href": "https://chrisbeckforcongress.com/s/Beck_policies_positions_ideas.pdf"
+},
+{
+"text": "download PDF",
+"href": "https://chrisbeckforcongress.com/s/ChrisBeckBio.pdf"
+},
+{
+"text": "download PDF",
+"href": "https://chrisbeckforcongress.com/s/VPS-bj4y.pdf"
+},
+{
+"text": "¿Quién es Chris?",
+"href": "https://chrisbeckforcongress.com/aboutchris-es"
+},
+{
+"text": "“5 on 5”",
+"href": "https://www.youtube.com/watch?v=mau-DFHzYVc"
+}
 ]

@@ -1,11 +1,3 @@
-- Christine
-"District 95 is my home and as a public servant it is an honor to represent my constituents with a strong sense of purpose, energy, commitment, and results-driven leadership every day.
-I am counting on your support for re-election so together we can continue to make a difference for our community on issues including insurance issues, gun safety, environmental protection, economic recovery, public education, reproductive rights and healthcare reform.”
-CHRISTINE'S PRIORITIES
-- Help our homeowners by working to bring down skyrocketing property insurance rates
-- Improve public safety and bring common sense gun safety laws
-- Drive the state to accept additional federal Medicaid dollars to help our uninsured
-- Enhance our mental health and substance abuse programs
-- Work to improve our public schools and help attract the best teachers
-- Fight for the environment and clean water
-- Protect reproductive rights and safe access to healthcare
+top of page CHRISTINE HUNSCHOFSKY Home About Priorities Accomplishments Join The Campaign Voter Resources Contact More Use tab to navigate through the menu items. - Christine "District 95 is my home and as a public servant it is an honor to represent my constituents with a strong sense of purpose, energy, commitment, and results-driven leadership every day.
+I am counting on your support for re-election so together we can continue to make a difference for our community on issues including insurance issues, gun safety, environmental protection, economic recovery, public education, reproductive rights and healthcare reform.” ​ Priorities CHRISTINE'S PRIORITIES Help our homeowners by working to bring down skyrocketing property insurance rates Improve public safety and bring common sense gun safety laws Drive the state to accept additional federal Medicaid dollars to help our uninsured Enhance our mental health and substance abuse programs Work to improve our public schools and help attract the best teachers Fight for the environment and clean water ​ Protect reproductive rights and safe access to healthcare ABOUT ME ​ Learn more about Christine Click Here ACCOMPLISHMENTS ​ Learn about new laws that Christine passed Click Here VOTER RESOURCES ​ Links for: Vote By Mail Early Voting, Election Day Information for Broward County Click Here contact STAY INFORMED Submit Thanks for submitting!
+CHRISTINE HUNSCHOFSKY FOR STATE HOUSE DISTRICT 95 Political advertisement paid for and approved by Christine Hunschofsky, Democrat for State House District 95 bottom of page

@@ -1,13 +1,12 @@
-News & Updates
-A snapshot look at Tuesday’s election
-Bismarck residents on Tuesday reelected their mayor, and Bismarck-Mandan residents passed two local ballot measures that will raise their taxes but boost infrastructure.
+Meet Greg Priorities News Get Involved Vote Contact Donate News & Updates A snapshot look at Tuesday’s election Jun 10, 2026 | In the News BLAKE NICHOLSON Bismarck Tribune Bismarck residents on Tuesday reelected their mayor, and Bismarck-Mandan residents passed two local ballot measures that will raise their taxes but boost infrastructure.
 However, a $127 million school bond measure in Bismarck narrowly failed.
 In statewide primary races, Republican voters sent incumbent U.S.
 Rep.
 Julie Fedorchak on to November's general election, and North Dakotans approved a ballot measure dealing with the state constitution.
-Vote totals are considered unofficial until county canvassing boards meet and results are certified by the State Canvassing Board.
-[...]
-Local legislative districts
-Some legislative districts in the Bismarck-Mandan region had competitive Republican primary races.
+Vote totals are considered unofficial until county canvassing boards meet and results are certified by the State Canvassing Board. [...] Local legislative districts Some legislative districts in the Bismarck-Mandan region had competitive Republican primary races.
 In the District 7 GOP House race (2 seats), Greg Vetter (31%) and Steve Sauter (30%) advanced to the general election, over Rick Becker (22%) and Gaylynn Becker (18%).
 In the District 7 GOP Senate race, incumbent Michelle Axtman advanced with 58% of the vote, over Jerri Hopfauf with 42%.
+READ THE FULL STORY FOLLOW GREG'S CAMPAIGN  Donate Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY GREG VETTER FOR HOUSE

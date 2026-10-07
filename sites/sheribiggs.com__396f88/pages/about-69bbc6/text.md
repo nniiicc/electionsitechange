@@ -1,5 +1,4 @@
-ABOUT
-Lieutenant Colonel in the Air National Guard.
+HOME ABOUT PLATFORM GET INVOLVED NEWS DONATE ABOUT ABOUT Lieutenant Colonel in the Air National Guard.
 Board Certified Family Nurse Practitioner.
 Board Certified Psychiatric Mental Health Nurse Practitioner.
 Wife and Mother.
@@ -13,3 +12,7 @@ The recipient of the Aerial Achievement Medal, Sheri has served as medical crew 
 Sheri’s unique educational background includes earning a Doctor of Nursing Practice (DNP) from Samford University and a Bachelor’s Degree from Carolina Bible College in Christian Ministries and currently seeking a Master’s Degree for Professional Military Education at the Air War College.
 A dedicated wife and mother, Sheri is a member of the Temple Baptist Church in Anderson, where she provides counseling.
 Active in the community, Sheri also volunteers at the Dream Center and other veterans organizations.
+PAID FOR BY SHERI BIGGS FOR CONGRESS Download the official headshot of Sheri Biggs here .
+Press Inquires: Please email press@sheribiggs.com Sheri Biggs for Congress PO Box 2685 Anderson, SC 29622 Sheri Biggs is a member of the Air National Guard.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Privacy Policy Share by:

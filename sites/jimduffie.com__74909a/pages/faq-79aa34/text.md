@@ -1,35 +1,22 @@
-FAQ | Jim Duffie for Congress
-FAQ on Jim Duffie for Congress.
+FAQ | Jim Duffie for Congress FAQ on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Pages
-Home
-Meet Jim
-— Meet Jim on Jim Duffie for Congress.
+Pages Home Meet Jim — Meet Jim on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Issues
-— Issues on Jim Duffie for Congress.
+Issues — Issues on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Volunteer
-— Volunteer on Jim Duffie for Congress.
+Volunteer — Volunteer on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Donate
-— Donate on Jim Duffie for Congress.
+Donate — Donate on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Contact
-— Contact on Jim Duffie for Congress.
+Contact — Contact on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-FAQ
-— FAQ on Jim Duffie for Congress.
+FAQ — FAQ on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Privacy
-— Privacy on Jim Duffie for Congress.
+Privacy — Privacy on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Terms
-— Terms on Jim Duffie for Congress.
+Terms — Terms on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Admin
-— Admin on Jim Duffie for Congress.
+Admin — Admin on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.
-Fair Tax
-— Fair Tax on Jim Duffie for Congress.
+Fair Tax — Fair Tax on Jim Duffie for Congress.
 Official campaign website and digital hub for Jim Duffie's U.

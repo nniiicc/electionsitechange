@@ -1,2 +1,1 @@
-For press inquiries or other questions, please email us at votehohenstein@gmail.com or use the following:
-Contact us
+Meet Joe Issues Contact Volunteer Make Your Plan to Vote Donate Meet Joe Issues Contact Volunteer Make Your Plan to Vote Donate Contact us For press inquiries or other questions, please email us at votehohenstein@gmail.com or use the following: Back to Top votehohenstein@gmail.com Paid for by Friends of Joe Hohenstein PAC

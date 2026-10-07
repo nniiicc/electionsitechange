@@ -1,3 +1,3 @@
-Kristi Noem dismissed as Secretary of Homeland Security
-Doris Matsui criticized Noem’s tenure.
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE Campaign News Kristi Noem dismissed as Secretary of Homeland Security March 6, 2026 Doris Matsui criticized Noem’s tenure.
 “Her rampant incompetence, wasteful spending, unprofessionalism and unconstitutional execution of her duties is only scratching the surface of her failures,” Matsui said.
+Read More » MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

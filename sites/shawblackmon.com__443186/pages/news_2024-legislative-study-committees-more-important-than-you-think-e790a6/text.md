@@ -1,4 +1,5 @@
-During the recent session, the House of Representatives identified major areas of concern that required additional legislative scrutiny.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+News / 2024 Legislative Study Committees: More important than you think 20 May Monday, 12:00 PM · 2024 2024 Legislative Study Committees: More important than you think During the recent session, the House of Representatives identified major areas of concern that required additional legislative scrutiny.
 To better understand these important and sometimes controversial topics, special study committees are often formed to examine issues in-depth.
 Over the course of several months or even years, legislators meet to hear from experts, advocates, opponents and members of the public around the state.
 Based on this research and data-gathering, the committee produces recommendations that may be considered for future legislation or policy efforts.
@@ -6,32 +7,28 @@ In fact, many of our recent priority initiatives and landmark legislation is a r
 In recent years, this includes tax reform, health care modernization, Pre-K funding and other major issues facing our state.
 This session, the House of Representatives passed several legislative study committees to study priorities including workforce licensing, higher education, agriculture and health care.
 Learn more about the committees, scheduled meetings and updates here.
-Joint Committee Investigating Professional Licensing Issues
-Speaker of the House Jon Burns (and Lt.
+Joint Committee Investigating Professional Licensing Issues Speaker of the House Jon Burns (and Lt.
 Governor Burt Jones recently appointed members to a joint Blue-Ribbon Committee to investigate licensing issues within the Secretary of State’s Professional Licensing Boards Division.
-In a letter to the Secretary of State, they wrote “The current tough economy presents enough barriers on these critical businesses' ability to keep their doors open—we will not allow licensing to be another onerous impediment that increases undue burden.”
-The committee, according to Speaker Burns and LG Jones, will investigate longstanding, numerous complaints from business owners across Georgia regarding “substantial inefficiencies” in the licensure process.
-These difficulties and delays in obtaining and renewing legally required licenses “places unnecessary hurdles that are prohibiting new businesses from opening and shuttering existing businesses.”
-The committee is charged with soliciting input from the customers the Division is meant to serve, probing the Secretary and staff on the underlying causes leading to these difficulties, and any other fact finding necessary for the development of potential solutions and recommendations.
+In a letter to the Secretary of State, they wrote “The current tough economy presents enough barriers on these critical businesses' ability to keep their doors open—we will not allow licensing to be another onerous impediment that increases undue burden.” The committee, according to Speaker Burns and LG Jones, will investigate longstanding, numerous complaints from business owners across Georgia regarding “substantial inefficiencies” in the licensure process.
+These difficulties and delays in obtaining and renewing legally required licenses “ places unnecessary hurdles that are prohibiting new businesses from opening and shuttering existing businesses.” The committee is charged with soliciting input from the customers the Division is meant to serve, probing the Secretary and staff on the underlying causes leading to these difficulties, and any other fact finding necessary for the development of potential solutions and recommendations.
 It will issue a report December 31, 2024.
-Learn more about it here.
-HR 1384 House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions
-By: Rep.
+Learn more about it here .
+HR 1384 House Study Committee on Assessing the Semester and Quarter Systems at USG and TCSG Institutions By: Rep.
 Shaw Blackmon (146th) Through the Higher Education Committee.
 We’re proud of our work to author HR 1384, creating a study committee to evaluate the effectiveness of the semester system at University System of Georgia (USG) and Technical College System of Georgia (TCSG) institutions.
-Background:
-In 1999, USG transitioned from the quarter system to the semester system, followed by the TCSG of Georgia in 2011.
+Background: In 1999, USG transitioned from the quarter system to the semester system, followed by the TCSG of Georgia in 2011.
 The switch was intended to improve curriculum alignment, enhance administrative efficiencies and reduce student costs.
 However, in recent years we’ve heard concerns from students, employers, and other stakeholders about whether these anticipated benefits have been realized.
 As a result, this study committee, composed of five members of the House of Representatives, the USG chancellor, and the TCSG commissioner, will examine these issues and evaluate both systems.
 The study committee also aims to determine if the anticipated benefits of the conversion to the semester system have been realized, and to assess the impact on student outcomes and workforce development.
-The committee produce its findings by Dec. 31, 2024.
+The committee produce its findings by Dec.
+31, 2024.
 HR 1554 House Study Committee on Navigable Streams and Related Matters; By Rep.
 Lynn Smith (70th) Through the Natural Resources & Environmental Committee.
 Final Bill Summary: HR 1554 creates the House Study Committee on Navigable Streams and Related Matters.
 The study committee will be composed of the following seven members: the chair of the House Natural Resources and Environment Committee; the majority whip of the House of Representatives; four members of the House of Representatives as appointed by the speaker; and an attorney with experience in water rights and property rights.
 The study committee will stand abolished on December 1, 2024.
-HR 1360 House Study Committee on Alternatives to Opioids for Pain Management; By: Rep.
+HR 1360 House Study Committee on Alternatives to Opioids for Pain Management ; By: Rep.
 Katie Dempsey (13th) Through the Health Committee.
 Final Bill Summary: HR 1360 creates the House Study Committee on Alternatives to Opioids for Pain Management.
 This committee will be made up of 14 members, seven members of the House of Representatives, five non-legislative members, and two agency representatives.
@@ -58,3 +55,5 @@ HR 473 House Study Committee on Safety and Consumer Protection in the Tree Care 
 Victor Anderson (10th) Through the Agriculture & Consumer Affairs Committee.
 Final Bill Summary: HR 473 creates the House Study Committee on Safety and Consumer Protection in the Tree Care Industry to study the need for standards, regulations, and licensure for the tree care industry.
 The committee will be composed of five members of the House of Representatives that are appointed by the speaker of the House of Representatives and will stand abolished December 1, 2024.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

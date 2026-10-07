@@ -1,5 +1,5 @@
-Rocco for State Senate — SD 65
-In 2020, Minnesota’s Democratic leadership did not just criticize bad policing.
+Skip to content R Rocco for State Senate SD65 Toggle menu About Issues News Donate $75 for Free Get Involved Contact Donate WHAT'S NEW!?!
+DONATE $75 for FREE Homepage · News The War on Cops: Let Cops Be Cops Again September 23, 2026 · Rocco Rocco for State Senate — SD 65 In 2020, Minnesota’s Democratic leadership did not just criticize bad policing.
 They ran a political war on the job itself.
 They told officers to hesitate.
 They told cities to shrink departments.
@@ -53,8 +53,7 @@ Rocco has pointed to Hennepin County Attorney Mary Moriarty’s record and to El
 When prosecutors will not hold repeat offenders, cops learn to drive past.
 When cities tell officers not to enforce immigration law, they create two codes — one for residents who follow the rules and one for people who do not.
 That is not “reimagining public safety.” That is telling the police to stand down.
-The crime numbers they do not want next to “defund.”
-Minnesota’s murder count jumped from 117 in 2019 to 185 in 2020 and 201 in 2021.
+The crime numbers they do not want next to “defund.” Minnesota’s murder count jumped from 117 in 2019 to 185 in 2020 and 201 in 2021.
 It was still 172 in 2024.
 The 2025 BCA report shows a drop to 132 murders — better than the peak, still above 2019.
 Minneapolis had 48 murders in 2019 and 62 in 2025.
@@ -67,8 +66,7 @@ Cops can make the stop.
 They cannot invent a prosecutor who will charge it as what it is.
 Hennepin and Ramsey counties hold about a third of the state’s population and have accounted for the large majority of Minnesota murders in recent years.
 A published analysis of Twin Cities homicides after May 2020 found the weekly homicide rate in those two counties more than doubled and estimated roughly 183 excess homicides over the following 136 weeks.
-Gang and felony-related shootings did not vanish because a council pledged “community safety.”
-Officers were still being assaulted: 981 incidents in 2025.
+Gang and felony-related shootings did not vanish because a council pledged “community safety.” Officers were still being assaulted: 981 incidents in 2025.
 Firearms still dominate the murder file — about 70% of 2025 murders.
 Rape reports stayed high: 2,188 in 2025, with more than a third of victims under 18.
 A clearance rate of 33% on Group A offenses statewide means most crime never becomes a closed case.
@@ -92,14 +90,14 @@ Two sets of rules: Moriarty’s guards and Judge West’s eraser.
 This is the hypocrisy in numbers.
 Mary Moriarty tells the public that talk of crime is “fear mongering.” Hennepin County still bought her a private detail.
 Records show the county paid Relative Intel LLC $513,223 from November 2023 through August 2026 for close-protection escorts at $175 an hour.
-Contracts were amended until the cap hit $500,000.
+Contracts were amended until the cap hit $500,000 .
 She gets armed contractors.
 You get a 911 hold and a declined charge.
 The same political class that charged cops in 2020 — and that Moriarty’s office has been willing to put in the dock, including a State Patrol trooper she later had to dismiss — will not give ordinary neighborhoods that kind of coverage.
 Defund your police.
 Invoice the taxpayer for hers.
 Then look at the bench.
-In 2025 a Hennepin County jury convicted Abdifatah Yusuf on six counts of aiding and abetting theft by swindle in a Medicaid / home-care scheme prosecutors put at $7.2 million.
+In 2025 a Hennepin County jury convicted Abdifatah Yusuf on six counts of aiding and abetting theft by swindle in a Medicaid / home-care scheme prosecutors put at $7.2 million .
 Promise Health billed for care the state said was not real.
 Money moved to personal accounts and cash.
 Judge Sarah West threw out the jury’s guilty verdict.
@@ -121,8 +119,7 @@ The pardon wiped the conviction that underpinned deportation.
 ICE still removed him after Secretary of State Marco Rubio revoked status.
 Asked about the deportation, Walz did not talk like a governor who spent 2020 feeding officers to a mob.
 He asked whether the removal made anyone safer.
-Then he said: “Did it improve the idea that we can’t all be judged by our worst day?”
-That is the tell.
+Then he said: “Did it improve the idea that we can’t all be judged by our worst day?” That is the tell.
 A man convicted of first-degree criminal sexual conduct against a child gets the language of grace — worst day, kids left behind, don’t judge.
 Derek Chauvin, J.
 Alexander Kueng, Thomas Lane, and Tou Thao got the opposite.
@@ -164,16 +161,14 @@ Ellison will sue a contract-for-deed seller for targeting Muslims and announce c
 He will not treat Minnesota’s pandemic fraud machine with the same moral heat he used on Chauvin, Kueng, Lane, and Thao.
 If the rule is race first, the badge always loses.
 If the rule is the law, the attorney general does not get to pick which criminals count.
-What “let cops be cops” means in the Senate
-Rocco is not a career politician.
+What “let cops be cops” means in the Senate Rocco is not a career politician.
 He has said he ran because the party and the state went silent when officers needed a spine.
-In the Senate he will:
-- Oppose budget games that shrink sworn staffing while crime and fraud rise.
-- Support bills that aid law enforcement and block bills that hobble it.
-- Back charging policy that puts career criminals and gang shooters in court, not back on the street.
-- Demand that jury verdicts in taxpayer-fraud cases mean something.
-- End sanctuary rules that reward illegal presence and starve legal residents of police time and jail space.
-- Keep saying out loud what officers cannot say on the job: four men were sacrificed to a political moment, and Minnesota still pretends that was justice.
+In the Senate he will: Oppose budget games that shrink sworn staffing while crime and fraud rise.
+Support bills that aid law enforcement and block bills that hobble it.
+Back charging policy that puts career criminals and gang shooters in court, not back on the street.
+Demand that jury verdicts in taxpayer-fraud cases mean something.
+End sanctuary rules that reward illegal presence and starve legal residents of police time and jail space.
+Keep saying out loud what officers cannot say on the job: four men were sacrificed to a political moment, and Minnesota still pretends that was justice.
 A one-year dip in the crime report is not a pardon for 2020.
 Murders are still above 2019.
 Minneapolis still takes most of the state’s carjackings.
@@ -191,3 +186,8 @@ Vote like you remember.
 Stop voting for the same people who got us in this mess in the first place.
 Stop voting BLUE no matter who.
 Vote RED instead, and together we can make a better tomorrow.
+Topics: attorney general , chief justice , democrats , governor , J.
+Alexander Kueng , Judge West , keith ellison , let cops be cops , Marco Rubio , mary moriarty , Natalie Hudson , the war on cops , Thomas Lane , tim walz , Tou Thao Derek Chauvin George Floyd Abdifatah Yusuf Tou Lue Vang fraud From the campaign Latest News September 23, 2026 Restore the Flag Minnesota Actually Loved September 23, 2026 The War on Cops: Let Cops Be Cops Again September 23, 2026 Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes See all news → Minnesota voters Donate $75.
+Get $75 Back.
+Minnesota’s Political Contribution Refund may return up to $# of your campaign donation—making your support possibly free.
+Learn How It Works ← Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes Restore the Flag Minnesota Actually Loved → Paid for by Rocco for State Senate, PO Box 270172, Saint Paul, MN 55127-0172 © # Rocco for State Senate

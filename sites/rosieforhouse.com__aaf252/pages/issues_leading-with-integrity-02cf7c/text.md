@@ -1,6 +1,5 @@
-Rosie believes in
-Leading with Integrity
-Public service is about earning trust through honesty, accountability, and transparency.
+Skip navigation menu Home About Issues Volunteer Contact Donate Home About Issues Volunteer Contact Donate Strengthen Rural Healthcare Investing in Public Education Growing Rural Communities Honoring Veterans and Supporting Seniors Supporting Working Families Leading with Integrity Building Stronger Communities Together Rosie believes in Leading with Integrity Public service is about earning trust through honesty, accountability, and transparency.
 Rosie has built her career by serving others, solving difficult problems, and putting the needs of her community first.
 Whether helping strengthen local nonprofits, volunteering throughout Okmulgee County, or working alongside community leaders, Rosie has demonstrated that leadership means showing up, listening, and following through.
 As State Representative, she will be accessible to her constituents, communicate openly, and always put the interests of District 16 ahead of partisan politics.
+Privacy Policy THE FUTURE IS ROSIE Powered by RUN! website builder PAID FOR AND AUTHORIZED BY ROSIE LYNCH FOR OKLAHOMA STATE HOUSE DISTRICT 16 You need to enable JavaScript to run this app.

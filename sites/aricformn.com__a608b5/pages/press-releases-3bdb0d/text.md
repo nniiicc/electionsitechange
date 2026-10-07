@@ -1,13 +1,5 @@
-Press releases
-Announcements and statements from my Senate office and from our campaign, newest first.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Press releases Announcements and statements from my Senate office and from our campaign, newest first.
 For what reporters have written, see the News page.
-- Senators Aric Putnam, Rob Kupec Call for Action to Lower Record-High Diesel Prices for MN Farmers
-- In New Campaign Ad, Sen.
-Putnam is Ready to Keep Delivering for Central Minnesota by Fighting Fraud and Bringing Down Costs
-- Legislative Inspector General Advisory Commission (LIGAC) Begins Work of Establishing Statewide Anti-Fraud Office
-- On National Senior Citizens Day, Senator Aric Putnam Highlights Legislative Efforts Supporting Minnesota’s Seniors
-- Senator Aric Putnam, Majority Leader Murphy Tour CentraCare Medical School Campus, Highlight Investment in Minnesota Healthcare Workforce
-- Senator Aric Putnam Applauds New Laws Recognizing Service of Veterans with Honorary Diplomas, Expanded Burial Honors, and the First Pay Increase in 30 Years for the Minnesota National Guard
-- Senator Putnam Appointed to Legislative Inspector General Advisory Commission
-- ICYMI: Senator Aric Putnam Celebrates $12.4m Coming to Saint Cloud for City Improvements
-- Senator Aric Putnam Celebrates Passage of Robust Jobs & Infrastructure Bill
+September 30, 2026 Senators Aric Putnam, Rob Kupec Call for Action to Lower Record-High Diesel Prices for MN Farmers September 16, 2026 In New Campaign Ad, Sen.
+Putnam is Ready to Keep Delivering for Central Minnesota by Fighting Fraud and Bringing Down Costs August 26, 2026 Legislative Inspector General Advisory Commission (LIGAC) Begins Work of Establishing Statewide Anti-Fraud Office August 21, 2026 On National Senior Citizens Day, Senator Aric Putnam Highlights Legislative Efforts Supporting Minnesota’s Seniors August 13, 2026 Senator Aric Putnam, Majority Leader Murphy Tour CentraCare Medical School Campus, Highlight Investment in Minnesota Healthcare Workforce July 23, 2026 Senator Aric Putnam Applauds New Laws Recognizing Service of Veterans with Honorary Diplomas, Expanded Burial Honors, and the First Pay Increase in 30 Years for the Minnesota National Guard July 15, 2026 Senator Putnam Appointed to Legislative Inspector General Advisory Commission June 22, 2026 ICYMI: Senator Aric Putnam Celebrates $12.4m Coming to Saint Cloud for City Improvements May 17, 2026 Senator Aric Putnam Celebrates Passage of Robust Jobs & Infrastructure Bill PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

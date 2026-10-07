@@ -1,10 +1,2 @@
-Endorsements
-Officials and Organizations Supporting Rashaun
-(404) 576-8986
-rashaun.kemp@senate.ga.gov
-Legislative Assistant: Cole Simmons
-cole.simmons@senate.ga.gov
-P.O.
-Box 310041
-Atlanta, GA 31131
-All Rights Reserved | RaShaun for State Senate
+Home Meet Senator Kemp Platform Voter Information Endorsements Events Photos Statements & More Contact Senator Kemp/ Newsletter Sign Up DONATE → Endorsements Endorsements Officials and Organizations Supporting Rashaun ﻿ CONTACT US (404) 576-8986 rashaun.kemp@senate.ga.gov Legislative Assistant: Cole Simmons cole.simmons@senate.ga.gov P.O.
+Box 310041 Atlanta, GA 31131 © # All Rights Reserved | RaShaun for State Senate Share by:

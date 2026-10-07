@@ -1,5 +1,5 @@
-Make No Mistake: Connecticut Cannot Afford to Subsidize the AI Data Center Boom on the Backs of Working Families
-Generative AI is here to stay, and with it comes surging demand for data centers that will reshape communities across Connecticut.
+top of page Home About News Get Involved More Use tab to navigate through the menu items.
+All Posts Search Make No Mistake: Connecticut Cannot Afford to Subsidize the AI Data Center Boom on the Backs of Working Families Admin Jul 27 2 min read Generative AI is here to stay, and with it comes surging demand for data centers that will reshape communities across Connecticut.
 Meeting this demand, however, must not come at any cost, and certainly not by shifting billions in massive expenses onto the backs of Connecticut taxpayers and ratepayers.
 Our own Legislature has aggressively incentivized data center development.
 Thanks to legislation backed by Democratic leadership and Senator James Maroney, data centers qualify for generous property tax exemptions - long-term subsidies that let these high-value facilities contribute far less while homeowners and businesses shoulder rising property taxes year after year.
@@ -18,3 +18,9 @@ If elected to the State Senate, one of my first actions will be to introduce leg
 We must first develop a comprehensive, long-term energy policy that delivers cheaper, more reliable power for families and businesses, not one that prioritizes utility companies and Big Tech at your expense.
 We can support innovation and economic growth without saddling Connecticut residents with higher taxes, skyrocketing electricity and water bills, and an unreliable grid.
 It's time to hit pause, get smart about energy planning, and put taxpayers and our communities first.
+Recent Posts See All Maroney Calls for a Flock Pause.
+His PAC Took Money From the Industry He’s Now Questioning.
+Affordable Housing Shouldn’t Mean Surrendering Local Control Weaver and Collins Call for Immediate Action.
+Not a Pause, on Surveillance Cameras Contact Me: Call or Text: 203-444-2167 Email: owen@owforsenate.com Join our mailing list Email * Subscribe I want to subscribe to your mailing list.
+Paid for by Weaver2026, Angela Driver Treasurer.
+Approved by Owen Weaver. bottom of page

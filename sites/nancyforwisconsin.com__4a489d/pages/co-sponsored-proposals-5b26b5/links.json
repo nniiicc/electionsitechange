@@ -1,56 +1,226 @@
 [
-"http://topdogmktg.com/",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb116",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb117",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb158",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb164",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb176",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb181",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb182",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb183",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb215",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb216",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb218",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb266",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb286",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb311",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb316",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb328",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb367",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb376",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb377",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb443",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb449",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb459",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb489",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb622",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb700",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb822",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb890",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb921",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb940",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb979",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr124",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr13",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr2",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr45",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr53",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr63",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr7",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr86",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr9",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr91",
-"https://facebook.com/nancyforassembly",
-"https://nancyforwisconsin.com/",
-"https://nancyforwisconsin.com/about",
-"https://nancyforwisconsin.com/authored-proposals",
-"https://nancyforwisconsin.com/co-sponsored-proposals",
-"https://nancyforwisconsin.com/contact",
-"https://nancyforwisconsin.com/contribute",
-"https://nancyforwisconsin.com/copy-of-legislation",
-"https://nancyforwisconsin.com/district",
-"https://nancyforwisconsin.com/issues",
-"https://nancyforwisconsin.com/photos",
-"https://nancyforwisconsin.com/successes",
-"https://nancyforwisconsin.com/volunteer"
+{
+"text": "2025 Senate Bill 116",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb116"
+},
+{
+"text": "2025 Senate Bill 117",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb117"
+},
+{
+"text": "2025 Senate Bill 158",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb158"
+},
+{
+"text": "2025 Senate Bill 164",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb164"
+},
+{
+"text": "2025 Senate Bill 176",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb176"
+},
+{
+"text": "2025 Senate Bill 181",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb181"
+},
+{
+"text": "2025 Senate Bill 182",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb182"
+},
+{
+"text": "2025 Senate Bill 183",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb183"
+},
+{
+"text": "2025 Senate Bill 215",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb215"
+},
+{
+"text": "2025 Senate Bill 216",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb216"
+},
+{
+"text": "2025 Senate Bill 218",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb218"
+},
+{
+"text": "2025 Senate Bill 266",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb266"
+},
+{
+"text": "2025 Senate Bill 286",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb286"
+},
+{
+"text": "2025 Senate Bill 311",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb311"
+},
+{
+"text": "2025 Senate Bill 316",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb316"
+},
+{
+"text": "2025 Senate Bill 328",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb328"
+},
+{
+"text": "2025 Senate Bill 367",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb367"
+},
+{
+"text": "2025 Senate Bill 376",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb376"
+},
+{
+"text": "2025 Senate Bill 377",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb377"
+},
+{
+"text": "2025 Senate Bill 443",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb443"
+},
+{
+"text": "2025 Senate Bill 449",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb449"
+},
+{
+"text": "2025 Senate Bill 459",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb459"
+},
+{
+"text": "2025 Senate Bill 489",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb489"
+},
+{
+"text": "2025 Senate Bill 622",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb622"
+},
+{
+"text": "2025 Senate Bill 700",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb700"
+},
+{
+"text": "2025 Senate Bill 822",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb822"
+},
+{
+"text": "2025 Senate Bill 890",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb890"
+},
+{
+"text": "2025 Senate Bill 921",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb921"
+},
+{
+"text": "2025 Senate Bill 940",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb940"
+},
+{
+"text": "2025 Senate Bill 979",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb979"
+},
+{
+"text": "2025 Senate Joint Resolution 124",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr124"
+},
+{
+"text": "2025 Senate Joint Resolution 13",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr13"
+},
+{
+"text": "2025 Senate Joint Resolution 2",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr2"
+},
+{
+"text": "2025 Senate Joint Resolution 45",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr45"
+},
+{
+"text": "2025 Senate Joint Resolution 53",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr53"
+},
+{
+"text": "2025 Senate Joint Resolution 63",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr63"
+},
+{
+"text": "2025 Senate Joint Resolution 7",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr7"
+},
+{
+"text": "2025 Senate Joint Resolution 86",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr86"
+},
+{
+"text": "2025 Senate Joint Resolution 9",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr9"
+},
+{
+"text": "2025 Senate Joint Resolution 91",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr91"
+},
+{
+"text": "About",
+"href": "https://www.nancyforwisconsin.com/about"
+},
+{
+"text": "Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/authored-proposals"
+},
+{
+"text": "Co-Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/copy-of-legislation"
+},
+{
+"text": "Co-Sponsored Proposals",
+"href": "https://www.nancyforwisconsin.com/co-sponsored-proposals"
+},
+{
+"text": "Contact",
+"href": "https://www.nancyforwisconsin.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "District",
+"href": "https://www.nancyforwisconsin.com/district"
+},
+{
+"text": "Home",
+"href": "https://www.nancyforwisconsin.com"
+},
+{
+"text": "Issues & Actions",
+"href": "https://www.nancyforwisconsin.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://www.nancyforwisconsin.com/photos"
+},
+{
+"text": "Successes",
+"href": "https://www.nancyforwisconsin.com/successes"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nancyforwisconsin.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/nancyforassembly"
+},
+{
+"text": "[image: revised logo wh png.png]",
+"href": "http://www.topdogmktg.com"
+},
+{
+"text": "info@nancyforwisconsin.com",
+"href": "mailto:info@nancyforwisconsin.com"
+}
 ]

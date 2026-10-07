@@ -1,5 +1,4 @@
-Why I’m Running
-I’m running for State Representative because I believe the people of our district deserve a voice that is grounded in real life — not career politics.
+0 Skip to Content Why I'm Running Meet Bruce Euans Priorities MAKE A DONATION Open Menu Close Menu Why I'm Running Meet Bruce Euans Priorities MAKE A DONATION Open Menu Close Menu Why I'm Running Meet Bruce Euans Priorities MAKE A DONATION Why I’m Running I’m running for State Representative because I believe the people of our district deserve a voice that is grounded in real life — not career politics.
 I’ve lived the same challenges many families here face: working hard, paying taxes, raising a family, and expecting government to use those resources responsibly.
 Too often, decisions are made without enough transparency or accountability.
 I believe it is time to bring a stronger commitment to honest stewardship, practical leadership, and common sense to Columbus.
@@ -11,4 +10,4 @@ Finally, I’m running because government must do a better job protecting taxpay
 Hard-working Ohioans expect their tax dollars to be spent wisely and for the benefit of their communities.
 I will focus on improving transparency in government spending, demanding accountability at every level, and fighting for policies that put local families, workers, veterans, first responders, and small businesses first.
 Our district deserves a representative who will show up, speak up, and work every day to make government more responsible and more responsive to the people it serves.
-Bruce Euans
+Bruce Euans PAID FOR BY OHROC

@@ -1,168 +1,734 @@
 [
-"https://appgallery.huawei.com/",
-"https://bit.ly/lazada-android-app",
-"https://bit.ly/lazada-ios-app",
-"https://cutt.ly/Cs-Rakyat4d",
-"https://cutt.ly/warakyat4d",
-"https://facebook.com/LazadaIndonesia",
-"https://group.lazada.com/en/about",
-"https://group.lazada.com/en/press-release",
-"https://hamiltonfortexas.com/platform",
-"https://instagram.com/lazada_id",
-"https://lazada.co.id/",
-"https://lazada.co.id/Kebun & Luar Ruangan",
-"https://lazada.co.id/aksesoris-eksterior-mobil",
-"https://lazada.co.id/aksesoris-interior-mobil",
-"https://lazada.co.id/aksesoris-pria",
-"https://lazada.co.id/aksesoris-wanita",
-"https://lazada.co.id/baby-toddler-toys",
-"https://lazada.co.id/baju-muslim-pria",
-"https://lazada.co.id/baju-muslim-wanita",
-"https://lazada.co.id/baju-olahraga-pria",
-"https://lazada.co.id/beli-aksesori-handphone",
-"https://lazada.co.id/beli-aksesori-komputer",
-"https://lazada.co.id/beli-aksesoris-2",
-"https://lazada.co.id/beli-alat-kesehatan-kecantikan",
-"https://lazada.co.id/beli-alat-medis",
-"https://lazada.co.id/beli-alat-tulis-kerajinan",
-"https://lazada.co.id/beli-binatu-kebersihan",
-"https://lazada.co.id/beli-dekorasi-rumah",
-"https://lazada.co.id/beli-furnitur",
-"https://lazada.co.id/beli-gadget",
-"https://lazada.co.id/beli-handphone",
-"https://lazada.co.id/beli-jam-tangan-anak",
-"https://lazada.co.id/beli-jam-tangan-pria",
-"https://lazada.co.id/beli-jam-tangan-wanita",
-"https://lazada.co.id/beli-kamera",
-"https://lazada.co.id/beli-komponen-komputer",
-"https://lazada.co.id/beli-komputer",
-"https://lazada.co.id/beli-mainan-anak",
-"https://lazada.co.id/beli-makanan-bayi",
-"https://lazada.co.id/beli-makanan-minuman-hasil-segar",
-"https://lazada.co.id/beli-makanan-sarapan",
-"https://lazada.co.id/beli-makeup",
-"https://lazada.co.id/beli-media-musik-dan-buku",
-"https://lazada.co.id/beli-minuman",
-"https://lazada.co.id/beli-olahraga-permainan-luar-ruangan",
-"https://lazada.co.id/beli-parfum",
-"https://lazada.co.id/beli-peralatan-mandi",
-"https://lazada.co.id/beli-peralatan-ranjang",
-"https://lazada.co.id/beli-perawatan-kesehatan-pribadi",
-"https://lazada.co.id/beli-perawatan-kulit",
-"https://lazada.co.id/beli-perawatan-lantai",
-"https://lazada.co.id/beli-perawatan-rambut",
-"https://lazada.co.id/beli-perawatan-rumah",
-"https://lazada.co.id/beli-perawatan-tubuh-kesehatan-pria",
-"https://lazada.co.id/beli-perhiasan-anak",
-"https://lazada.co.id/beli-perhiasan-pria",
-"https://lazada.co.id/beli-perhiasan-wanita",
-"https://lazada.co.id/beli-perlengkapan-berkendara-bayi",
-"https://lazada.co.id/beli-perlengkapan-dapur",
-"https://lazada.co.id/beli-perlengkapan-dapur-makan",
-"https://lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak",
-"https://lazada.co.id/beli-perlengkapan-mandi-tubuh",
-"https://lazada.co.id/beli-popok-pispot-bb",
-"https://lazada.co.id/beli-printers",
-"https://lazada.co.id/beli-remote-control-mainan-kendaraan",
-"https://lazada.co.id/beli-suplemen-makanan",
-"https://lazada.co.id/beli-susu-formula",
-"https://lazada.co.id/beli-tablet-2",
-"https://lazada.co.id/beli-tas-anak-tl",
-"https://lazada.co.id/beli-tv-audio-video-permainan-dan-gadget",
-"https://lazada.co.id/blog",
-"https://lazada.co.id/camping-dan-hiking",
-"https://lazada.co.id/fashion-pakaian-anak-laki-laki",
-"https://lazada.co.id/fashion-sepatu-anak-laki-laki",
-"https://lazada.co.id/fashion-sepatu-anak-perempuan",
-"https://lazada.co.id/helpcenter",
-"https://lazada.co.id/helpcenter/orders-payment",
-"https://lazada.co.id/helpcenter/payments",
-"https://lazada.co.id/helpcenter/products-on-lazada",
-"https://lazada.co.id/helpcenter/returns",
-"https://lazada.co.id/helpcenter/returns-refunds",
-"https://lazada.co.id/helpcenter/shipping-and-delivery",
-"https://lazada.co.id/helpcenter/shipping-delivery",
-"https://lazada.co.id/jual-aksesoris-elektronik-rumah-tangga",
-"https://lazada.co.id/jual-aksesoris-televisi",
-"https://lazada.co.id/jual-baju-aksesoris-anak",
-"https://lazada.co.id/jual-home-entertainment",
-"https://lazada.co.id/jual-peralatan-memancing",
-"https://lazada.co.id/jual-perlengkapan-bayi-balita",
-"https://lazada.co.id/jual-perlengkapan-kamar-bayi",
-"https://lazada.co.id/jual-perlengkapan-kesehatan-seksual",
-"https://lazada.co.id/kesehatan-manula",
-"https://lazada.co.id/latihan-dan-fitness",
-"https://lazada.co.id/lingerie-baju-tidur",
-"https://lazada.co.id/marketplace",
-"https://lazada.co.id/mobil-motor",
-"https://lazada.co.id/olahraga-air",
-"https://lazada.co.id/olahraga-raket",
-"https://lazada.co.id/olahraga-sepeda",
-"https://lazada.co.id/oli-dan-pelumas",
-"https://lazada.co.id/pakaian-anak-perempuan",
-"https://lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria",
-"https://lazada.co.id/pakaian-olahraga-wanita",
-"https://lazada.co.id/pakaian-pria",
-"https://lazada.co.id/pakaian-wanita",
-"https://lazada.co.id/penerangan",
-"https://lazada.co.id/roda-dan-ban",
-"https://lazada.co.id/security",
-"https://lazada.co.id/sepak-bola",
-"https://lazada.co.id/sepatu-dan-pakaian-olahraga-pria",
-"https://lazada.co.id/sepatu-dan-pakaian-olahraga-wanita",
-"https://lazada.co.id/sepatu-pria",
-"https://lazada.co.id/sepatu-wanita",
-"https://lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan",
-"https://lazada.co.id/shop-Cokelat-Camilan-Permen",
-"https://lazada.co.id/shop-aksesoris-hewan",
-"https://lazada.co.id/shop-audio",
-"https://lazada.co.id/shop-auto-parts-spares",
-"https://lazada.co.id/shop-beli-laptop",
-"https://lazada.co.id/shop-boy's-muslim-wear",
-"https://lazada.co.id/shop-elektronik",
-"https://lazada.co.id/shop-gaming-konsol",
-"https://lazada.co.id/shop-girls-muslim-wear",
-"https://lazada.co.id/shop-kebutuhan-rumah-tangga",
-"https://lazada.co.id/shop-kesehatan-hewan-peliharaan",
-"https://lazada.co.id/shop-makanan-hewan",
-"https://lazada.co.id/shop-motorcycle-exterior-accessories",
-"https://lazada.co.id/shop-motorcycle-oils-fluids",
-"https://lazada.co.id/shop-motorcycle-parts-spares",
-"https://lazada.co.id/shop-motorcycle-riding-gear",
-"https://lazada.co.id/shop-pendingin-pembersih-udara-mini",
-"https://lazada.co.id/shop-penyimpanan-data",
-"https://lazada.co.id/shop-peralatan-perawatan-personal",
-"https://lazada.co.id/shop-perangkat-pintar",
-"https://lazada.co.id/shop-perawatan-mobil",
-"https://lazada.co.id/shop-perlatan-besar",
-"https://lazada.co.id/shop-perlengkapan-olah-raga",
-"https://lazada.co.id/tas-pria",
-"https://lazada.co.id/tas-wanita",
-"https://lazada.co.th/",
-"https://lazada.com.my/",
-"https://lazada.com.ph/",
-"https://lazada.com/work-at-lazada",
-"https://lazada.sg/",
-"https://lazada.vn/",
-"https://linkedin.com/company/lazada",
-"https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg",
-"https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png",
-"https://member.lazada.co.id/user/account",
-"https://member.lazada.co.id/user/logout",
-"https://my.lazada.co.id/customer/myReview/my-reviews",
-"https://my.lazada.co.id/customer/order/index",
-"https://my.lazada.co.id/customer/returns/index?requestType=return",
-"https://my.lazada.co.id/wishlist/index",
-"https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Flegal%2FPrivacyPolicy",
-"https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Flegal%2Fipr-policy",
-"https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Flegal%2Fterms-of-use",
-"https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Fpartnership%2FAffiliatesID",
-"https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1",
-"https://pinterest.com/lazadaid",
-"https://tiktok.com/@lazadaid",
-"https://twitter.com/LazadaID",
-"https://wispi.ly/daftarrakyat4d",
-"https://wispi.ly/rakyat4d",
-"https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage?spm=a2o42.home.header.d0.654346b5QeptXc",
-"https://youtube.com/@LazadaIndonesia"
+{
+"text": "Afﬁliate Program",
+"href": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Fpartnership%2FAffiliatesID"
+},
+{
+"text": "Aksesoris",
+"href": "https://www.lazada.co.id/aksesoris-pria/"
+},
+{
+"text": "Aksesoris",
+"href": "https://www.lazada.co.id/aksesoris-wanita/"
+},
+{
+"text": "Aksesoris & Elektronik Motor",
+"href": "https://www.lazada.co.id/shop-motorcycle-exterior-accessories/"
+},
+{
+"text": "Aksesoris & Suku Cadang",
+"href": "https://www.lazada.co.id/jual-aksesoris-elektronik-rumah-tangga/"
+},
+{
+"text": "Aksesoris Berteknologi",
+"href": "https://www.lazada.co.id/shop-perangkat-pintar/"
+},
+{
+"text": "Aksesoris Exterior Mobil",
+"href": "https://www.lazada.co.id/aksesoris-eksterior-mobil/"
+},
+{
+"text": "Aksesoris Handphone",
+"href": "https://www.lazada.co.id/beli-aksesori-handphone"
+},
+{
+"text": "Aksesoris Hewan Peliharaan",
+"href": "https://www.lazada.co.id/shop-aksesoris-hewan"
+},
+{
+"text": "Aksesoris Interior Mobil",
+"href": "https://www.lazada.co.id/aksesoris-interior-mobil/"
+},
+{
+"text": "Aksesoris Kamera",
+"href": "https://www.lazada.co.id/beli-aksesoris-2/"
+},
+{
+"text": "Aksesoris Komputer",
+"href": "https://www.lazada.co.id/beli-aksesori-komputer/"
+},
+{
+"text": "Aksesoris Tablet",
+"href": "https://www.lazada.co.id/beli-aksesori-handphone/"
+},
+{
+"text": "Aksesoris Televisi",
+"href": "https://www.lazada.co.id/jual-aksesoris-televisi/"
+},
+{
+"text": "Akun Gacor",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "Alat Dapur",
+"href": "https://www.lazada.co.id/beli-perlengkapan-dapur-makan/"
+},
+{
+"text": "Alat Kecantikan",
+"href": "https://www.lazada.co.id/beli-alat-kesehatan-kecantikan/"
+},
+{
+"text": "Alat Medis",
+"href": "https://www.lazada.co.id/beli-alat-medis/"
+},
+{
+"text": "Alat Perawatan Diri",
+"href": "https://www.lazada.co.id/shop-peralatan-perawatan-personal/"
+},
+{
+"text": "Alat Tulis & Kerajinan",
+"href": "https://www.lazada.co.id/beli-alat-tulis-kerajinan/"
+},
+{
+"text": "Audio",
+"href": "https://www.lazada.co.id/shop-audio/"
+},
+{
+"text": "Bahan & Bumbu Masakan",
+"href": "https://www.lazada.co.id/shop-Bahan-Utama-Pelengkap-Masakan"
+},
+{
+"text": "Baju Muslim",
+"href": "https://www.lazada.co.id/baju-muslim-pria/"
+},
+{
+"text": "Baju Muslim",
+"href": "https://www.lazada.co.id/baju-muslim-wanita/"
+},
+{
+"text": "Baju Olahraga Pria",
+"href": "https://www.lazada.co.id/baju-olahraga-pria/"
+},
+{
+"text": "Baju Olahraga Wanita",
+"href": "https://www.lazada.co.id/pakaian-olahraga-wanita/"
+},
+{
+"text": "Ban & Velg Mobil",
+"href": "https://www.lazada.co.id/roda-dan-ban/"
+},
+{
+"text": "Ban, Velg, Oli & Cairan Motor",
+"href": "https://www.lazada.co.id/shop-motorcycle-oils-fluids/"
+},
+{
+"text": "Binatu & Alat Kebersihan",
+"href": "https://www.lazada.co.id/beli-binatu-kebersihan/"
+},
+{
+"text": "Buah & Sayur",
+"href": "https://www.lazada.co.id/beli-makanan-minuman-hasil-segar"
+},
+{
+"text": "Camping dan Hiking",
+"href": "https://www.lazada.co.id/camping-dan-hiking/"
+},
+{
+"text": "Cara Pembelian",
+"href": "https://www.lazada.co.id/helpcenter/payments/"
+},
+{
+"text": "Cara Pengembalian",
+"href": "https://www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans"
+},
+{
+"text": "Cokelat, Camilan & Permen",
+"href": "https://www.lazada.co.id/shop-Cokelat-Camilan-Permen/"
+},
+{
+"text": "DAFTAR",
+"href": "https://wispi.ly/daftarrakyat4d"
+},
+{
+"text": "Dekorasi Rumah",
+"href": "https://www.lazada.co.id/beli-dekorasi-rumah/"
+},
+{
+"text": "Desktop",
+"href": "https://www.lazada.co.id/beli-komputer/"
+},
+{
+"text": "Elektronik Rumah Besar",
+"href": "https://www.lazada.co.id/shop-perlatan-besar/"
+},
+{
+"text": "Furnitur",
+"href": "https://www.lazada.co.id/beli-furnitur/"
+},
+{
+"text": "Gadget",
+"href": "https://www.lazada.co.id/beli-gadget/"
+},
+{
+"text": "Game Console",
+"href": "https://www.lazada.co.id/shop-gaming-konsol/"
+},
+{
+"text": "Gates of Olympus",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "Gym, Yoga & Fitness",
+"href": "https://www.lazada.co.id/latihan-dan-fitness/"
+},
+{
+"text": "Handphone",
+"href": "https://www.lazada.co.id/beli-handphone"
+},
+{
+"text": "Home Entertainment",
+"href": "https://www.lazada.co.id/jual-home-entertainment/"
+},
+{
+"text": "INTERNAL FEEDBACK",
+"href": "https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/"
+},
+{
+"text": "Ibu & Anak",
+"href": "https://www.lazada.co.id/jual-perlengkapan-bayi-balita/"
+},
+{
+"text": "Intellectual Property Protection",
+"href": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Flegal%2Fipr-policy"
+},
+{
+"text": "Jam Tangan Anak",
+"href": "https://www.lazada.co.id/beli-jam-tangan-anak/"
+},
+{
+"text": "Jam Tangan Pria",
+"href": "https://www.lazada.co.id/beli-jam-tangan-pria/"
+},
+{
+"text": "Jam Tangan Wanita",
+"href": "https://www.lazada.co.id/beli-jam-tangan-wanita/"
+},
+{
+"text": "Jual Di Lazada",
+"href": "https://www.lazada.co.id/marketplace/"
+},
+{
+"text": "Kamar Bayi",
+"href": "https://www.lazada.co.id/jual-perlengkapan-kamar-bayi/"
+},
+{
+"text": "Kamera",
+"href": "https://www.lazada.co.id/beli-kamera/"
+},
+{
+"text": "Kamera Mobil, Audio & Video",
+"href": "https://www.lazada.co.id/shop-elektronik/"
+},
+{
+"text": "Karir",
+"href": "https://www.lazada.com/work-at-lazada/"
+},
+{
+"text": "Kebijakan Privasi",
+"href": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Flegal%2FPrivacyPolicy"
+},
+{
+"text": "Kebijakan Produk Internasional",
+"href": "https://www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans"
+},
+{
+"text": "Kebun & Luar Ruangan",
+"href": "https://www.lazada.co.id/Kebun%20&%20Luar%20Ruangan/"
+},
+{
+"text": "Kebutuhan Rumah Tangga",
+"href": "https://www.lazada.co.id/shop-kebutuhan-rumah-tangga"
+},
+{
+"text": "Kelengkapan Tempat Tidur",
+"href": "https://www.lazada.co.id/beli-peralatan-ranjang/"
+},
+{
+"text": "Kendaraan",
+"href": "https://www.lazada.co.id/mobil-motor/"
+},
+{
+"text": "Kesehatan Hewan Peliharaan",
+"href": "https://www.lazada.co.id/shop-kesehatan-hewan-peliharaan"
+},
+{
+"text": "Klik disini",
+"href": "https://www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans"
+},
+{
+"text": "Komponen Komputer",
+"href": "https://www.lazada.co.id/beli-komponen-komputer/"
+},
+{
+"text": "LOGIN",
+"href": "https://wispi.ly/rakyat4d"
+},
+{
+"text": "Laptop",
+"href": "https://www.lazada.co.id/shop-beli-laptop/"
+},
+{
+"text": "Lazada Security",
+"href": "https://www.lazada.co.id/security/"
+},
+{
+"text": "Lingerie, Baju Tidur & Santai",
+"href": "https://www.lazada.co.id/lingerie-baju-tidur/"
+},
+{
+"text": "Live Chat (24 Jam)",
+"href": "javascript:;"
+},
+{
+"text": "Logout",
+"href": "https://member.lazada.co.id/user/logout"
+},
+{
+"text": "Mainan",
+"href": "https://www.lazada.co.id/beli-mainan-anak/"
+},
+{
+"text": "Mainan Bayi & Balita",
+"href": "https://www.lazada.co.id/baby-toddler-toys/"
+},
+{
+"text": "Mainan Elektronik & RC",
+"href": "https://www.lazada.co.id/beli-remote-control-mainan-kendaraan/"
+},
+{
+"text": "Mainan Olahraga & Luar Ruangan",
+"href": "https://www.lazada.co.id/beli-olahraga-permainan-luar-ruangan/"
+},
+{
+"text": "Makanan Bayi & Balita",
+"href": "https://www.lazada.co.id/beli-susu-formula/"
+},
+{
+"text": "Makanan Hewan Peliharaan",
+"href": "https://www.lazada.co.id/shop-makanan-hewan"
+},
+{
+"text": "Makanan Sarapan, Sereal & Selai",
+"href": "https://www.lazada.co.id/beli-makanan-sarapan"
+},
+{
+"text": "Makeup",
+"href": "https://www.lazada.co.id/beli-makeup/"
+},
+{
+"text": "Media, Musik & Buku",
+"href": "https://www.lazada.co.id/beli-media-musik-dan-buku/"
+},
+{
+"text": "Minuman",
+"href": "https://www.lazada.co.id/beli-minuman/"
+},
+{
+"text": "Olahraga Air",
+"href": "https://www.lazada.co.id/olahraga-air/"
+},
+{
+"text": "Olahraga Raket",
+"href": "https://www.lazada.co.id/olahraga-raket/"
+},
+{
+"text": "Olahraga Sepeda",
+"href": "https://www.lazada.co.id/olahraga-sepeda/"
+},
+{
+"text": "Oli & Cairan Mobil",
+"href": "https://www.lazada.co.id/oli-dan-pelumas/"
+},
+{
+"text": "Order & Pembayaran",
+"href": "https://www.lazada.co.id/helpcenter/payments/"
+},
+{
+"text": "Pakaian & Aksesoris",
+"href": "https://www.lazada.co.id/jual-baju-aksesoris-anak/"
+},
+{
+"text": "Pakaian Anak Laki-laki",
+"href": "https://www.lazada.co.id/fashion-pakaian-anak-laki-laki"
+},
+{
+"text": "Pakaian Anak Muslim Laki-Laki",
+"href": "https://www.lazada.co.id/shop-boy's-muslim-wear"
+},
+{
+"text": "Pakaian Anak Muslim Perempuan",
+"href": "https://www.lazada.co.id/shop-girls-muslim-wear"
+},
+{
+"text": "Pakaian Anak Perempuan",
+"href": "https://www.lazada.co.id/pakaian-anak-perempuan"
+},
+{
+"text": "Pakaian Dalam",
+"href": "https://www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/"
+},
+{
+"text": "Pakaian Pria",
+"href": "https://www.lazada.co.id/pakaian-pria/"
+},
+{
+"text": "Pakaian Wanita",
+"href": "https://www.lazada.co.id/pakaian-wanita/"
+},
+{
+"text": "Panel Akun",
+"href": "https://member.lazada.co.id/user/account#/"
+},
+{
+"text": "Parfum",
+"href": "https://www.lazada.co.id/beli-parfum/"
+},
+{
+"text": "Pembatalan Pesanan",
+"href": "https://www.lazada.co.id/helpcenter/orders-payment/#answer-faq-howtocancel-ans"
+},
+{
+"text": "Penerangan",
+"href": "https://www.lazada.co.id/penerangan/"
+},
+{
+"text": "Pengembalian & Pembatalan",
+"href": "https://my.lazada.co.id/customer/returns/index?requestType=return"
+},
+{
+"text": "Pengembalian Barang & Dana",
+"href": "https://www.lazada.co.id/helpcenter/returns/"
+},
+{
+"text": "Penghisap Debu & Perawatan Lantai",
+"href": "https://www.lazada.co.id/beli-perawatan-lantai/"
+},
+{
+"text": "Pengiriman",
+"href": "https://www.lazada.co.id/helpcenter/#answer-faq-delivery-ans"
+},
+{
+"text": "Pengiriman",
+"href": "https://www.lazada.co.id/helpcenter/shipping-and-delivery/"
+},
+{
+"text": "Penyejuk dan Pembersih Udara",
+"href": "https://www.lazada.co.id/shop-pendingin-pembersih-udara-mini/"
+},
+{
+"text": "Penyimpanan Data",
+"href": "https://www.lazada.co.id/shop-penyimpanan-data/"
+},
+{
+"text": "Peralatan Dapur Kecil",
+"href": "https://www.lazada.co.id/beli-perlengkapan-dapur/"
+},
+{
+"text": "Peralatan Mandi",
+"href": "https://www.lazada.co.id/beli-peralatan-mandi/"
+},
+{
+"text": "Peralatan Memancing",
+"href": "https://www.lazada.co.id/jual-peralatan-memancing/"
+},
+{
+"text": "Perawatan & Pengkilat Mobil",
+"href": "https://www.lazada.co.id/shop-perawatan-mobil/"
+},
+{
+"text": "Perawatan Bayi",
+"href": "https://www.lazada.co.id/beli-perlengkapan-mandi-perawatan-kulit-anak/"
+},
+{
+"text": "Perawatan Diri",
+"href": "https://www.lazada.co.id/beli-perawatan-kesehatan-pribadi/"
+},
+{
+"text": "Perawatan Kulit",
+"href": "https://www.lazada.co.id/beli-perawatan-kulit/"
+},
+{
+"text": "Perawatan Pria",
+"href": "https://www.lazada.co.id/beli-perawatan-tubuh-kesehatan-pria/"
+},
+{
+"text": "Perawatan Rambut",
+"href": "https://www.lazada.co.id/beli-perawatan-rambut/"
+},
+{
+"text": "Perawatan Tubuh",
+"href": "https://www.lazada.co.id/beli-perlengkapan-mandi-tubuh/"
+},
+{
+"text": "Perhiasan Anak",
+"href": "https://www.lazada.co.id/beli-perhiasan-anak/"
+},
+{
+"text": "Perhiasan Pria",
+"href": "https://www.lazada.co.id/beli-perhiasan-pria/"
+},
+{
+"text": "Perhiasan Wanita",
+"href": "https://www.lazada.co.id/beli-perhiasan-wanita/"
+},
+{
+"text": "Perkakas & Perbaikan Rumah",
+"href": "https://www.lazada.co.id/beli-perawatan-rumah/"
+},
+{
+"text": "Perlengkapan Bayi",
+"href": "https://www.lazada.co.id/beli-perlengkapan-berkendara-bayi/"
+},
+{
+"text": "Perlengkapan Berkendara & Helm",
+"href": "https://www.lazada.co.id/shop-motorcycle-riding-gear/"
+},
+{
+"text": "Perlengkapan Menyusui",
+"href": "https://www.lazada.co.id/beli-makanan-bayi/"
+},
+{
+"text": "Perlengkapan Olahraga",
+"href": "https://www.lazada.co.id/shop-perlengkapan-olah-raga/"
+},
+{
+"text": "Perlengkapan Sepak Bola",
+"href": "https://www.lazada.co.id/sepak-bola/"
+},
+{
+"text": "Pesanan Saya",
+"href": "https://my.lazada.co.id/customer/order/index/"
+},
+{
+"text": "Popok Dewasa",
+"href": "https://www.lazada.co.id/kesehatan-manula/"
+},
+{
+"text": "Popok Sekali Pakai",
+"href": "https://www.lazada.co.id/beli-popok-pispot-bb/"
+},
+{
+"text": "Press & Media",
+"href": "https://group.lazada.com/en/press-release/"
+},
+{
+"text": "Printer",
+"href": "https://www.lazada.co.id/beli-printers/"
+},
+{
+"text": "Pusat Bantuan",
+"href": "https://www.lazada.co.id/helpcenter/"
+},
+{
+"text": "RTP Pragmatic Hari Ini: Olympus Super Scatter 98,8% Mahjong Wins 3 95,7% Sweet Bonanza 94,8%",
+"href": "https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1"
+},
+{
+"text": "Rakyat4d",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "Sepatu Anak Laki-laki",
+"href": "https://www.lazada.co.id/fashion-sepatu-anak-laki-laki"
+},
+{
+"text": "Sepatu Anak Perempuan",
+"href": "https://www.lazada.co.id/fashion-sepatu-anak-perempuan"
+},
+{
+"text": "Sepatu Olahraga Pria",
+"href": "https://www.lazada.co.id/sepatu-dan-pakaian-olahraga-pria/"
+},
+{
+"text": "Sepatu Olahraga Wanita",
+"href": "https://www.lazada.co.id/sepatu-dan-pakaian-olahraga-wanita/"
+},
+{
+"text": "Sepatu Pria",
+"href": "https://www.lazada.co.id/sepatu-pria/"
+},
+{
+"text": "Sepatu Wanita",
+"href": "https://www.lazada.co.id/sepatu-wanita/"
+},
+{
+"text": "Sexual Wellness",
+"href": "https://www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/"
+},
+{
+"text": "Situs Qris",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "Situs deposit qris",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "Suku Cadang & Peralatan Mobil",
+"href": "https://www.lazada.co.id/shop-auto-parts-spares/"
+},
+{
+"text": "Suku Cadang & Peralatan Motor",
+"href": "https://www.lazada.co.id/shop-motorcycle-parts-spares/"
+},
+{
+"text": "Suplemen Makanan",
+"href": "https://www.lazada.co.id/beli-suplemen-makanan/"
+},
+{
+"text": "Syarat & Ketentuan",
+"href": "https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=%2Flazada%2Fchannel%2Fid%2Flegal%2Fterms-of-use"
+},
+{
+"text": "TV & Perangkat Video",
+"href": "https://www.lazada.co.id/beli-tv-audio-video-permainan-dan-gadget/"
+},
+{
+"text": "Tablet",
+"href": "https://www.lazada.co.id/beli-tablet-2"
+},
+{
+"text": "Tas Anak",
+"href": "https://www.lazada.co.id/beli-tas-anak-tl/"
+},
+{
+"text": "Tas Pria",
+"href": "https://www.lazada.co.id/tas-pria/"
+},
+{
+"text": "Tas Wanita",
+"href": "https://www.lazada.co.id/tas-wanita/"
+},
+{
+"text": "Tentang Lazada",
+"href": "https://group.lazada.com/en/about/"
+},
+{
+"text": "Ulasan Saya",
+"href": "https://my.lazada.co.id/customer/myReview/my-reviews"
+},
+{
+"text": "Wishlist dan Toko yang Saya Ikuti",
+"href": "https://my.lazada.co.id/wishlist/index"
+},
+{
+"text": "[image: DAFTAR]DAFTAR",
+"href": "https://wispi.ly/daftarrakyat4d"
+},
+{
+"text": "[image: Depo Dana] Depo Dana",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "[image: Depo Pulsa] Depo Pulsa",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "[image: Depo Qris] Depo Qris",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "[image: ISO]",
+"href": "https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png"
+},
+{
+"text": "[image: LIVECHAT]LIVECHAT",
+"href": "https://cutt.ly/Cs-Rakyat4d"
+},
+{
+"text": "[image: LOGIN]LOGIN",
+"href": "https://wispi.ly/rakyat4d"
+},
+{
+"text": "[image: Lazada Blg]",
+"href": "https://www.lazada.co.id/blog/"
+},
+{
+"text": "[image: Olympus Super Scatter] Olympus Super Scatter",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "[image: PCI DSS]",
+"href": "https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg"
+},
+{
+"text": "[image: WHATSAPP]WHATSAPP",
+"href": "https://cutt.ly/warakyat4d"
+},
+{
+"text": "[image: fb]",
+"href": "https://www.facebook.com/LazadaIndonesia"
+},
+{
+"text": "[image: ins]",
+"href": "https://www.instagram.com/lazada_id/"
+},
+{
+"text": "[image: linkin]",
+"href": "https://www.linkedin.com/company/lazada/"
+},
+{
+"text": "[image: olympus super scatter]",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "[image: pnt]",
+"href": "https://www.pinterest.com/lazadaid/"
+},
+{
+"text": "[image: tiktok]",
+"href": "https://www.tiktok.com/@lazadaid"
+},
+{
+"text": "[image: tw]",
+"href": "https://twitter.com/LazadaID"
+},
+{
+"text": "[image: yt]",
+"href": "https://www.youtube.com/@LazadaIndonesia"
+},
+{
+"text": "[no text]",
+"href": "https://appgallery.huawei.com/#/app/C100164557"
+},
+{
+"text": "[no text]",
+"href": "https://bit.ly/lazada-android-app"
+},
+{
+"text": "[no text]",
+"href": "https://bit.ly/lazada-ios-app"
+},
+{
+"text": "[no text]",
+"href": "https://www.hamiltonfortexas.com/platform"
+},
+{
+"text": "[no text]",
+"href": "https://www.lazada.co.id"
+},
+{
+"text": "[no text]",
+"href": "https://www.lazada.co.th"
+},
+{
+"text": "[no text]",
+"href": "https://www.lazada.com.my"
+},
+{
+"text": "[no text]",
+"href": "https://www.lazada.com.ph"
+},
+{
+"text": "[no text]",
+"href": "https://www.lazada.sg"
+},
+{
+"text": "[no text]",
+"href": "https://www.lazada.vn"
+},
+{
+"text": "gates of olympus super scatter",
+"href": "https://www.hamiltonfortexas.com/platform"
+}
 ]

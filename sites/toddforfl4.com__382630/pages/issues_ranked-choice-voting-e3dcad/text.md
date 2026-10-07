@@ -1,5 +1,5 @@
-Ranked Choice Voting
-We are all very aware that we only have two 'viable' political parties in this country.
+Meet Todd Issues Why Run Independent?
+Volunteer Contact Home ❭ Issues ❭ Ranked Choice Voting Ranked Choice Voting We are all very aware that we only have two 'viable' political parties in this country.
 They do everything they can to hold onto that power.
 They can run whatever candidate they want and in most cases all it takes to win is a heartbeat and a nice (R) or (D) next to their name.
 They exert their power to ensure it is more difficult for opposing parties or candidates to even run.
@@ -12,4 +12,4 @@ We need to change that.
 Rank choice voting removes the poison pill of 'Spoiler Candidates' from the duopoly toolkit.
 If you support the Libertarian over the Republican or the Green over the Democrat, you as a voter rank them in your preferred order.
 This is obviously done at the state level, but I will support any effort that is ongoing to make this a reality for voters.
-More choice is more democracy.
+More choice is more democracy. « Previous: Union and Labor Support Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

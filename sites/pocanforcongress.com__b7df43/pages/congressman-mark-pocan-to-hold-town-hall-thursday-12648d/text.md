@@ -1,13 +1,5 @@
-Congressman Mark Pocan to hold Town Hall Thursday
-MADISON – Congressman Mark Pocan will hold a town hall forum this week to
-discuss the hot topics of the day and preview the upcoming 2018 elections.
-This is
-an opportunity for people to discuss both public policy and campaign strategy
-with their Congressman, as we get ready for next year’s state and federal
-elections.
-- WHAT: Town Hall Forum with Congressman Mark Pocan
-- WHEN: August 24th from 5:30pm – 6:30pm
-- WHERE: South Central Federation of Labor, 2nd floor (1602 S.
-Park St., Madison, WI, 53715)
-RSVP’s are encouraged via Facebook but not required: https://www.facebook.com/events/343472902758890/?active_tab=about
-This event is free and open to both the public and the media.
+Meet Mark News Contact Nomination Papers Join The Team Get Involved Contribute Menu Menu Link to Facebook Link to X Congressman Mark Pocan to hold Town Hall Thursday August 22, 2017 MADISON – Congressman Mark Pocan will hold a town hall forum this week to discuss the hot topics of the day and preview the upcoming 2018 elections.
+This is an opportunity for people to discuss both public policy and campaign strategy with their Congressman, as we get ready for next year’s state and federal elections.
+WHAT: Town Hall Forum with Congressman Mark Pocan WHEN: August 24th from 5:30pm – 6:30pm WHERE: South Central Federation of Labor, 2nd floor (1602 S.
+Park St., Madison, WI, 53715) RSVP’s are encouraged via Facebook but not required: https://www.facebook.com/events/343472902758890/?active_tab=about This event is free and open to both the public and the media.
+Share this entry Share on Facebook Share on X Share on WhatsApp Share on Pinterest Share on LinkedIn Share by Mail https://pocanforcongress.com/wp-content/uploads/2018/10/Mark-and-Phil-on-Election-Night.jpg 386 515 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2017-08-22 18:19:21 2018-10-07 18:23:09 Congressman Mark Pocan to hold Town Hall Thursday Contact the Campaign Mark Pocan for Congress PO Box 327 Madison, WI 53701 (608) 286-1073 [email protected] Follow Mark on Facebook Get Email Updates Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top

@@ -1,4 +1,5 @@
-ALL in GEORGIA.
+top of page Home Meet Dutch Issues Contact More Use tab to navigate through the menu items.
+DONATE DONATE All In ALL in GEORGIA.
 After much prayer, conversation, and reflection, I've decided to run again for State House District 121 in the 2026 election.
 As most of you know, Mary Beth and I are deeply rooted in this community.
 This is our home, it's where we live, work, raise our family, and invest our time and energy.
@@ -15,19 +16,15 @@ If successful in the Republican primary in May, I'll face Democrat incumbent Eri
 This will require sustained energy and focus, and turnout will be key.
 Please remind your friends and family to stay engaged and vote when the time comes.
 I humbly ask for your prayers, support, and your vote.
-The Guests Are All In.
-- Dutch Guest
-"Throughout my life, I’ve tried to live by a simple motto: leave things better than you found them.
+The Guests Are All I n. - Dutch Guest "Throughout my life, I’ve tried to live by a simple motto: leave things better than you found them.
 This community has given so much to me and my family, and now I feel called to give back in this new capacity.
-My goal is to make it even stronger for the next generation and, yes, leave it just a little better than I found it."
-MEET "DUTCH"
-- Resides in Oconee County with his wife Mary Beth and their two children, Sarah Beth (15) and Mack (11)
-- The Guest family attends Athens Church
-- Lifelong Republican, small business owner, and community servant
-- LAD Truck Lines, a Watkinsville-based family business serving Georgia for over 25 years
-- Nearly two decades of experience in transportation, logistics, and workforce management
-- Former President of the Oconee County Rotary Club and Touchdown Club of Athens
-- Actively coaches youth football and volunteers throughout Oconee County
-- Graduate of Leadership Oconee and LEAD ATA (American Trucking Associations)
-- Serves on multiple local and state boards, including Oconee State Bank’s Community Advisory Board and the Georgia Motor Trucking Association Executive Board
-- Eagle Scout and lifelong advocate for servant leadership
+My goal is to make it even stronger for the next generation and, yes, leave it just a little better than I found it." MEET "DUTCH" Resides in Oconee County with his wife Mary Beth and their two children, Sarah Beth (15) and Mack (11) The Guest family attends Athens Church Lifelong Republican, small business owner, and community servant LAD Truck Lines, a Watkinsville-based family business serving Georgia for over 25 years Nearly two decades of experience in transportation, logistics, and workforce management Former President of the Oconee County Rotary Club and Touchdown Club of Athens Actively coaches youth football and volunteers throughout Oconee County Graduate of Leadership Oconee and LEAD ATA (American Trucking Associations) Serves on multiple local and state boards, including Oconee State Bank’s Community Advisory Board and the Georgia Motor Trucking Association Executive Board Eagle Scout and lifelong advocate for servant leadership Meet Dutch Contact CONTACT: cell: (706) 201-8127 dutch@electdutch.com First name * Last name * Email * Phone Show Your Support Knock Doors Write Postcards Yard Sign Make Calls Yes, please text me updates from the campaign.
+By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+Privacy Policy page.
+Submit Paid for by Elect Dutch Guest, Inc.
+Elect Dutch Guest, Inc.
+PO Box 134 Watkinsville, GA 30677 Privacy Policy: Privacy Contact: dutch@electdutch.com bottom of page

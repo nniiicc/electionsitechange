@@ -1,4 +1,4 @@
-My name is Athena Hollins, and I’m running to be the State Representative for District 66B in St.
+Home Meet Athena Issues Endorsements Vote Volunteer Contact Donate Home Meet Athena Issues Endorsements Vote Volunteer Contact Donate For Minnesota State House 66B Scroll ATHENA Hollins FOR State House 66B Volunteer Donate VOTE My name is Athena Hollins, and I’m running to be the State Representative for District 66B in St.
 Paul.
 The status quo is no longer acceptable.
 We are living through historically urgent time that requires new thinking and bold action.
@@ -6,3 +6,6 @@ New threats like COVID-19 have illuminated fundamental shortcomings that plague 
 We know that we deserve better than “good enough”; we deserve elected officials who engage with all members of our community, who are willing to push on the important issues, who seek bold solutions, and who are committed to the fight for systemic equity.
 I want to build a better St.
 Paul with all of you by my side.
+Help build a more inclusive, progressive Saint Paul.
+Sign up for our campaign updates.
+Home Describe What You're All About Say More About Your Website Designed by Techiki ©# | Prepared and paid for by Athena Hollins for House

@@ -1,7 +1,9 @@
 {
- "description": "Send a check of any amount under $1,250 to Brad Paquette for State Representative. \u200b Mail A Check To: Brad Paquette for State Representative 1215 Fair Oaks Dr. N Niles, MI 49120",
+ "description": "Send a check of any amount under $1,250 to Brad Paquette for State Representative. ​ Mail A Check To: Brad Paquette for State Representative 1215 Fair Oaks Dr. N Niles, MI 49120",
  "final_url": "https://www.bradpaquette.com/donate.html",
- "paid_for_by": null,
+ "fingerprint": "baef88356f2ba95ddae9247512f4a2305eda55c7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate - PAQUETTE FOR 37TH STATE REPRESENTATIVE",
  "years_mentioned": []
 }

@@ -1,7 +1,11 @@
 {
  "description": "Click here for more details and to RSVP",
  "final_url": "https://bennettforgovernor.com/events/meet-rick-bennett-in-medway",
- "paid_for_by": null,
- "title": "Meet Rick Bennett in Medway \u2014 Rick Bennett for Governor",
- "years_mentioned": []
+ "fingerprint": "83a7581b922c5f538c3b3dea6e993bdacfc1827d",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "Meet Rick Bennett in Medway — Rick Bennett for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

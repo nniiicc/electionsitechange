@@ -1,26 +1,19 @@
-top of page
-News
-Search
-Juneteenth Celebration
-For our Facebook Live event, we were joined by community advocates, labor leaders, musicians and elected officials including — Senators...
-Team JamilaJun 19, 20201 min read
-Politics & Protest: Exploring the History of African Americans in Washington Politics since 1890
-Virtual history lecture by Dr.
+top of page Meet Jamila Priorities Endorsements Take Action Get Involved Privacy Policy News Events More...
+Use tab to navigate through the menu items.
+Donate News All Posts Video News Facebook Live Press Release Search Juneteenth Celebration For our Facebook Live event, we were joined by community advocates, labor leaders, musicians and elected officials including — Senators...
+Facebook Live Team Jamila Jun 19, 2020 1 min read Politics & Protest: Exploring the History of African Americans in Washington Politics since 1890 Virtual history lecture by Dr.
 Quintard Taylor, founder of BlackPast.org and retired University of Washington professor of history,...
-Team JamilaJun 15, 20201 min read
-Neighbor to Neighbor: Youth & Politics Panel
-Campaign to Elect Jamila Taylor Presents the Neighbor to Neighbor Series.
+Video Team Jamila Jun 15, 2020 1 min read Neighbor to Neighbor: Youth & Politics Panel Campaign to Elect Jamila Taylor Presents the Neighbor to Neighbor Series.
 A virtual conversation series to move our whole community...
-Team JamilaJun 14, 20201 min read
-Neighbor to Neighbor Series Launches June 10
-Join us tonight for the first episode of the Neighbor to Neighbor virtual conversation series via Facebook Live.
+Video Team Jamila Jun 14, 2020 1 min read Neighbor to Neighbor Series Launches June 10 Join us tonight for the first episode of the Neighbor to Neighbor virtual conversation series via Facebook Live.
 Teenagers from South...
-Team JamilaJun 10, 20201 min read
-UPCOMING EVENT: Virtual Lecture by Dr.
-Quintard Taylor
-Dr.
+News Team Jamila Jun 10, 2020 1 min read UPCOMING EVENT: Virtual Lecture by Dr.
+Quintard Taylor Dr.
 Quintard Taylor, founder of BlackPast.org, is giving a virtual lecture via Zoom.
 This will be a truly unique campaign event that you...
-Team JamilaMay 15, 20201 min read
-We Need Your Support Today!
-bottom of page
+News Team Jamila May 15, 2020 1 min read 1 2 3 4 We Need Your Support Today!
+Donate Re-Elect Jamila Taylor Paid for by Elect Jamila Taylor PO Box 3996 Federal Way, WA 98063-3996 Sign up for Updates Enter your email here Sign Up!
+Thanks for submitting!
+Register to Vote Here!
+Quick Links About Donate News Contact © # Elect Jamila Taylor.
+All Rights Reserved. bottom of page

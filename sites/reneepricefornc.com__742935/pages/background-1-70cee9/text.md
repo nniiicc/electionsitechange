@@ -1,63 +1,7 @@
-Community
-Involvement
-Recognition from the Community
-- 2023 Black History Achievement Honoree, ServPro South Durham and Orange County, NC
-- M.
+0 Skip to Content Home About Issues News Events Contact Donate Open Menu Close Menu Home About Issues News Events Contact Donate Open Menu Close Menu Home About Issues News Events Contact Donate Community Involvement Recognition from the Community 2023 Black History Achievement Honoree , ServPro South Durham and Orange County, NC ‍ M.
 H.
-“Jack” Brock Outstanding County Commissioner Award-2020: North Carolina Association of County Commissioners
-- Special Service Award, 2021: North Carolina Association of Black County Commissioners
-- Hometown Hero, September 2020: 97.9 The Hill WCHL and Chapelboro
-- Hometown Hero, May 2018: 97.9 The Hill WCHL and Chapelboro
-- Village Pride Award, January 2015: 97.9 The Hill WCHL and Chapelboro
-An Active Community Member, Advocate, and Leader
-Renée has actively engaged and led throughout her region, the state and the nation.
+“Jack” Brock Outstanding County Commissioner Award-2020: North Carolina Association of County Commissioners Special Service Award , 2021: North Carolina Association of Black County Commissioners Hometown Hero, September 2020: 97.9 The Hill WCHL and Chapelboro Hometown Hero, May 2018: 97.9 The Hill WCHL and Chapelboro Village Pride Award, January 2015: 97.9 The Hill WCHL and Chapelboro An Active Community Member, Advocate, and Leader Renée has actively engaged and led throughout her region, the state and the nation.
 Strong ties to community and leadership allow her to advocate for the people of Orange and Caswell counties in the state legislature.
-Renée has served in the following local organizations:
-- Spirit FREEDOM, Co-Founder, Orange County, NC
-- Orange County Community Remembrance Coalition, Co-Chair, Orange County, NC
-- Orange County Veterans Memorial at Chapel Hill Planning Committee, Orange County, NC
-- North Carolina Black Alliance, Board of Directors, Raleigh, NC
-- Historic Hillsborough Commission, Hillsborough, NC
-- Northern Orange NAACP
-- Chapel Hill Carrboro NAACP
-Renée also advocated on behalf of our community at the national level and assumed leadership roles:
-- National Association of Counties, Washington, DC
-- Arts and Culture Commission, Chair
-- Justice and Public Safety Steering Committee, Subcommittee Vice Chair
-- Community, Economic and Workforce Development Steering Committee, Chair
-- Women of NACo (WON), Treasurer
-- Rural Action Caucus, Member
-- Program and Services, Member
-- First-time Attendees Ambassador
-- National Association of Black County Officials, Washington, DC
-- National Organization of Black County Officials, South Region Director: Washington, DC
-- North Carolina Association of County Commissioners, Raleigh, NC
-- Legislative Goals Committee, Co-Chair
-- Board of Directors
-- Justice and Public Safety Steering Committee
-- Task Force on Mental Illness
-- Board of Directors, District 9 Delegate
-- North Carolina Association of Black County Commissioners, Past President, Raleigh, NC
-- My Brother’s Keeper of Orange County Advisory Board, Orange County, NC
-- Boys and Girls Clubs of Durham and Orange Counties, Durham, NC
-- Hillsborough Arts Council Board of Directors, Hillsborough, NC
-- Historical Museum of Hillsborough and Orange County, Hillsborough, NC
-- Orange County Commission for the Environment, Chair, Orange County, NC
-- Orange Unified Transportation Board, Orange County, NC
-- Orange County Planning Board, Vice Chair, Orange County, NC
-- Orange County Historic Preservation Commission, Chair, Orange County, NC
-- Orange County Human Rights Commission, Orange County, NC
-- Pauli Murray Award Committee, Chair
-Professional Development and Education
-- Legislative Health Policy Fellow, 2024 Cohort, The North Carolina Institute of Medicine, Raleigh, NC
-- High Performance Leadership: 2019 Cohort, Professional Development Academy, and NACo
-- Advanced Leadership Corps: School of Government, UNC- Chapel Hill, and NCACC
-- Local Elected Leaders Academy, Mentor: School of Government, UNC- Chapel Hill, and NCACC
-- Master of Arts Program, Colgate-Rochester Divinity School/BH/CTS/SBI, Rochester, NY
-- Master of Regional Planning, Cornell University/College of Art, Architecture and Planning, Ithaca, NY
-- Bachelor of Arts, cum laude, Tufts University/Jackson College, Medford, MA
-Local and Statewide Political Leadership
-- Democratic Women of Orange County, Past President
-- Orange County Democratic Party, Resolutions and Platform Committee
-- North Carolina Democratic Party, Resolutions and Platform Committee
-- North Carolina Democratic Party, State Executive Committee
+Renée has served in the following local organizations: Spirit FREEDOM, Co-Founder, Orange County, NC Orange County Community Remembrance Coalition, Co-Chair, Orange County, NC Orange County Veterans Memorial at Chapel Hill Planning Committee , Orange County, NC North Carolina Black Alliance , Board of Directors, Raleigh, NC Historic Hillsborough Commission, Hillsborough, NC Northern Orange NAACP Chapel Hill Carrboro NAACP Renée also advocated on behalf of our community at the national level and assumed leadership roles: National Association of Counties , Washington, DC Arts and Culture Commission, Chair Justice and Public Safety Steering Committee, Subcommittee Vice Chair Community, Economic and Workforce Development Steering Committee, Chair Women of NACo (WON), Treasurer Rural Action Caucus, Member Program and Services, Member First-time Attendees Ambassador National Association of Black County Officials, Washington, DC National Organization of Black County Officials , South Region Director: Washington, DC North Carolina Association of County Commissioners , Raleigh, NC Legislative Goals Committee, Co-Chair Board of Directors Justice and Public Safety Steering Committee Task Force on Mental Illness Board of Directors, District 9 Delegate North Carolina Association of Black County Commissioners, Past President, Raleigh, NC My Brother’s Keeper of Orange County Advisory Board , Orange County, NC Boys and Girls Clubs of Durham and Orange Counties , Durham, NC Hillsborough Arts Council Board of Directors , Hillsborough, NC Historical Museum of Hillsborough and Orange County , Hillsborough, NC Orange County Commission for the Environment , Chair, Orange County, NC Orange Unified Transportation Board , Orange County, NC Orange County Planning Board , Vice Chair, Orange County, NC Orange County Historic Preservation Commission, Chair, Orange County, NC Orange County Human Rights Commission , Orange County, NC Pauli Murray Award Committee, Chair Professional Development and Education Legislative Health Policy Fellow , 2024 Cohort, The North Carolina Institute of Medicine, Raleigh, NC High Performance Leadership: 2019 Cohort, Professional Development Academy, and NACo Advanced Leadership Corps: School of Government, UNC- Chapel Hill, and NCACC Local Elected Leaders Academy, Mentor: School of Government, UNC- Chapel Hill, and NCACC Master of Arts Program , Colgate-Rochester Divinity School/BH/CTS/SBI, Rochester, NY Master of Regional Planning , Cornell University/College of Art, Architecture and Planning, Ithaca, NY Bachelor of Arts , cum laude, Tufts University/Jackson College, Medford, MA Local and Statewide Political Leadership Democratic Women of Orange County , Past President Orange County Democratic Party, Resolutions and Platform Committee North Carolina Democratic Party, Resolutions and Platform Committee North Carolina Democratic Party, State Executive Committee Paid for by the Renée Price campaign.
+PO Box 1303, Hillsborough, NC 27278 Copyright © # Renée Price Campaign.
+All rights reserved.

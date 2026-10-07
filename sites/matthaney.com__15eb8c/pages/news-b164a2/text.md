@@ -1,77 +1,10 @@
-Skip navigation menu
-The Latest
-Matt Haney in the News
-Animals Seized in Cruelty Cases Can be Stuck in Shelters for Months.
-New Bill Aims to Change That
-NEWS ARTICLE
-Legislation Moving to Make It Easier to Build High-Rises Near Transit in CA's Largest 7 Cities
-NEWS ARTICLE
-Newsom and Trump have Vowed to Crack Down on Corporate Home Buying.
-A New Bill Aims to Curb It
-NEWS ARTICLE
-California is Prematurely Releasing Dangerous People From Its Mental Hospitals.
-This Bill Could Help
-NEWS ARTICLE
-Bay Area Assemblyman Introduces Bill to Tax 50% of Private ICE Detention Centers in California
-NEWS ARTICLE
-California to close overdose protection loophole that deters students from seeking emergency help
-NEWS ARTICLE
-A proposed California bill aims to protect coverage for HIV prevention despite federal threats
-NEWS ARTICLE
-Lawmaker wants longer state hospital stays for violent offenders following Chinatown stabbing
-State Assembly holds hearing on impacts of the fentanyl crisis in tribal communities at Viejas Reser
-NEWS ARTICLE
-New Bill Could Ease Teenagers' Access to Opioid Treatment Amid Ongoing Fentanyl Epidemic
-Renters in California will no longer be asked for a security deposit larger than one month's rent, u
-Good for the Kids': A California Bill Would Place Incarcerated Parents in Prisons Close to Home
-'It's insane': Only-in-S.F. tactic to kill or slow housing might be on the chopping block
-NEWS ARTICLE
-Assemblymember Haney and Community Partners Host JOY TO THE CITY a Holiday Celebration for Bay Area
-NEWS ARTICLE
-California Assembly’s Fentanyl Committee Chair Encourages Governor to Sign over 200 bills
-NEWS ARTICLE
-Bill Allowing Mobile Pharmacies to Distribute Opioid Addiction Medication Sent to Governor’s Desk
-NEWS ARTICLE
-Bill Presented Allowing Youth Over 16 to be Treated for Opioid Addiction Without Parental Consent
-NEWS ARTICLE
-Bill to Protect Low Income Homeowners from Skyrocketing HOA Fees Heads to the Governor’s Desk
-NEWS ARTICLE
-Haney’s Bill Protecting California Workers During Mass Layoffs Passes Out of Legislature and Heads t
-NEWS ARTICLE
-Bill to Stop Frivolous Appeals Used to Delay New Housing Projects Heads to the Governor's Desk
-NEWS ARTICLE
-SF Assembly member Haney and Supervisor Spur the Creation of Night Markets in California
-NEWS ARTICLE
-Assemblymember Haney and Mayor London Breed Announce State Legislation to Address Opioid Epidemic
-NEWS ARTICLE
-Bill Offers Pathway for Blockchain and Crypto Organizations to Incorporate in California
-NEWS ARTICLE
-Haney’s Bill to Stop Skyrocketing Security Deposits Passes Out of Assembly Judiciary Committee
-NEWS ARTICLE
-Bill Lets Survivors of Domestic Violence and Human Trafficking Tell Their Stories in Court
-NEWS ARTICLE
-New bill gives Attorney General expanded authority to enforce state housing laws in court
-NEWS ARTICLE
-Bill allows 16 and 17 Year Olds to be Treated for Opioid Addiction Without Prior Parental Consent
-NEWS ARTICLE
-Chinese Hospital CEO Dr.
-Jian Zhang Named Woman of the Year by California State Assembly
-NEWS ARTICLE
-New Bill will Require Cities With Empty Downtowns to Fast Track Office-to-Housing Conversions
-NEWS ARTICLE
-First-in-Nation Law to Require Opioid Blocking Nasal Spray in Gas Stations, Bars and Libraries
-NEWS ARTICLE
-Assemblymember Haney Secures $850,000 for Restoration and Renovation of Chinese Historical Society
-NEWS ARTICLE
-Assemblymember Haney Announces Creation of Committee to Investigate Fentanyl and Opioid Deaths in CA
-NEWS ARTICLE
-Assemblymember Haney’s Statement on Governor Newsom’s Veto of Safe Consumption Sites Legislation
-NEWS ARTICLE
-Community Leaders Speak Out Against 177.5% Rise in Anti-Asian Hate Crimes and Ways to Combat
-NEWS ARTICLE
-Assemblymember Haney’s Language Rights for Workers Bill Unanimously Passes Senate Labor Committee
-NEWS ARTICLE
-News Article
-news article
-NEWS article
-NEws article
+Skip navigation menu Meet Matt Issues News Events Gallery Español 中文 Donate News Meet Matt Issues News Events Gallery Español 中文 Donate News The Latest Matt Haney in the News NEWS ARTICLE Animals Seized in Cruelty Cases Can be Stuck in Shelters for Months.
+New Bill Aims to Change That Read more Jul 8 2026 NEWS ARTICLE California Dedicates Bruce Lee Day, in First for a Chinese American Read more Jul 2 2026 NEWS ARTICLE Following Veto, Lawmaker Returns with Drug-Free Homeless Housing Bill Read more May 4 2026 NEWS ARTICLE Legislation Moving to Make It Easier to Build High-Rises Near Transit in CA's Largest 7 Cities Read more Apr 14 2026 NEWS ARTICLE California Law Shields Students Who Seek Overdose Help Read more Mar 19 2026 NEWS ARTICLE Lawmakers Look to Recognize Eid as California State Holiday Read more Mar 15 2026 NEWS ARTICLE California Lawmakers Push 4am Last Call to Help Revive Struggling Downtowns Read more Mar 2 2026 NEWS ARTICLE Newsom and Trump have Vowed to Crack Down on Corporate Home Buying.
+A New Bill Aims to Curb It Read more Feb 24 2026 NEWS ARTICLE California is Prematurely Releasing Dangerous People From Its Mental Hospitals.
+This Bill Could Help Read more Feb 13 2026 NEWS ARTICLE California Introduces New Ticketing Bill with a Price Cap Read more Feb 6 2026 NEWS ARTICLE Bay Area Assemblyman Introduces Bill to Tax 50% of Private ICE Detention Centers in California Read more Jan 27 2026 NEWS ARTICLE Newsom signs bill reversing California cannabis tax increase Read more Sep 22 2025 NEWS ARTICLE California to close overdose protection loophole that deters students from seeking emergency help Read more Sep 11 2025 NEWS ARTICLE A proposed California bill aims to protect coverage for HIV prevention despite federal threats Read more Aug 7 2025 NEWS ARTICLE YIMBYs and preservationists actually agree on a California bill to create more housing Read more May 6 2024 NEWS ARTICLE California Democrats embracing drug-free housing as a solution to homeless crisis Read more Apr 25 2024 NEWS ARTICLE S.F. officials back California bill to significantly expand methadone access Read more Apr 16 2024 NEWS ARTICLE Lawmaker wants longer state hospital stays for violent offenders following Chinatown stabbing Read more Mar 4 2024 NEWS ARTICLE Haney Brings Back Bill to Create Amsterdam-Style Cannabis Cafes in California Read more Jan 10 2024 News Article State Assembly holds hearing on impacts of the fentanyl crisis in tribal communities at Viejas Reser Read more Jan 9 2024 News ARTICLE A California Bill Would Cap Renters’ Security Deposits Read more Jan 5 2024 NEWS ARTICLE California's Push For Amsterdam-Style Cannabis Cafes Read more Jan 5 2024 News Article Who Will Stand Up for Renters?
+Their Elected Representatives, Who Also Rent.
+Read more Jan 5 2024 NEWS ARTICLE New Bill Could Ease Teenagers' Access to Opioid Treatment Amid Ongoing Fentanyl Epidemic Read more Jan 4 2024 news article Politicians in California are hoping to give back to retired fighters.
+Read more Jan 4 2024 news article Renters in California will no longer be asked for a security deposit larger than one month's rent, u Read more Jan 4 2024 NEWS article Good for the Kids': A California Bill Would Place Incarcerated Parents in Prisons Close to Home Read more Jan 4 2024 NEws article 'It's insane': Only-in-S.F. tactic to kill or slow housing might be on the chopping block Read more Jan 4 2024 NEWS ARTICLE Assemblymember Haney and Community Partners Host JOY TO THE CITY a Holiday Celebration for Bay Area Read more Dec 18 2023 NEWS ARTICLE Legislation Allowing Mobile Pharmacies to Disperse Opioid Addiction Medication signed Read more Oct 16 2023 NEWS ARTICLE Haney’s Bill to Ban Expensive Security Deposits Signed by Governor Read more Oct 12 2023 NEWS ARTICLE California is Creating an MMA Fighter’s Pension Fund Read more Oct 11 2023 NEWS ARTICLE Newsom Vetoes Bill Protecting California Workers During Mass Layoffs Read more Oct 9 2023 NEWS ARTICLE Stop Dangerous Pharmacies Act is signed into California Law Read more Oct 9 2023 NEWS ARTICLE California Assembly’s Fentanyl Committee Chair Encourages Governor to Sign over 200 bills Read more Sep 28 2023 NEWS ARTICLE New California Renters’ Caucus Gets all Five of its Priority Bills to Governor’s Desk Read more Sep 26 2023 NEWS ARTICLE Bill Allowing Mobile Pharmacies to Distribute Opioid Addiction Medication Sent to Governor’s Desk Read more Sep 15 2023 NEWS ARTICLE Bill Presented Allowing Youth Over 16 to be Treated for Opioid Addiction Without Parental Consent Read more Sep 15 2023 NEWS ARTICLE Bill to Protect Low Income Homeowners from Skyrocketing HOA Fees Heads to the Governor’s Desk Read more Sep 15 2023 NEWS ARTICLE California Legislature Passes Bill Creating New MMA Fighters Pension Fund Read more Sep 15 2023 NEWS ARTICLE Haney’s Bill Protecting California Workers During Mass Layoffs Passes Out of Legislature and Heads t Read more Sep 15 2023 NEWS ARTICLE Bill to Ban Expensive Security Deposits Passes Legislature and Heads to Newsom’s Desk Read more Sep 14 2023 NEWS ARTICLE California Bill to Allow Amsterdam-Style Cannabis Cafes Heads to Governor Newsom's Desk Read more Sep 12 2023 news article Haney unveils CA trans history month resolution Read more Sep 11 2023 NEWS ARTICLE Stop Dangerous Pharmacies Act Passes out of the Legislature and Heads to Newsom’s Desk Read more Sep 6 2023 NEWS ARTICLE California Assembly Declares August the First Transgender History Month in the Nation Read more Sep 6 2023 NEWS ARTICLE Bill to Stop Frivolous Appeals Used to Delay New Housing Projects Heads to the Governor's Desk Read more Sep 6 2023 news article California Just Became the First State to Declare a Transgender History Month Read more Sep 4 2023 NEWS ARTICLE SF Assembly member Haney and Supervisor Spur the Creation of Night Markets in California Read more Jul 17 2023 NEWS ARTICLE Bill Allows Mobile Pharmacies to Dispense Opioid Addiction Treatment Read more May 18 2023 NEWS ARTICLE California to Observe Fentanyl Awareness Day to Combat Opioid Crisis Read more May 9 2023 NEWS ARTICLE Assemblymember Haney and Mayor London Breed Announce State Legislation to Address Opioid Epidemic Read more May 5 2023 NEWS ARTICLE Bill Offers Pathway for Blockchain and Crypto Organizations to Incorporate in California Read more Apr 24 2023 NEWS ARTICLE New Bill to Create State Run MMA Fighters Pension Fund Passes Policy Committees Read more Apr 11 2023 NEWS ARTICLE Haney’s Bill to Stop Skyrocketing Security Deposits Passes Out of Assembly Judiciary Committee Read more Apr 11 2023 NEWS ARTICLE Bill Lets Survivors of Domestic Violence and Human Trafficking Tell Their Stories in Court Read more Apr 4 2023 NEWS ARTICLE Bill to Allow Amsterdam-Style Cannabis Cafes in California Introduced by Asm.
+Haney Read more Apr 3 2023 NEWS ARTICLE New Bill Will Require State to House Incarcerated Parents Close to Their Children Read more Mar 30 2023 NEWS ARTICLE New bill gives Attorney General expanded authority to enforce state housing laws in court Read more Mar 28 2023 NEWS ARTICLE Bill allows 16 and 17 Year Olds to be Treated for Opioid Addiction Without Prior Parental Consent Read more Mar 28 2023 news article Bay Area lawmaker calls for hospitals to meet behavioral health staffing standards Read more Mar 21 2023 NEWS ARTICLE New Bill to Require Hospitals to Meet Mental Health & Addiction Staffing Standards Read more Mar 20 2023 NEWS ARTICLE Chinese Hospital CEO Dr.
+Jian Zhang Named Woman of the Year by California State Assembly Read more Mar 17 2023 NEWS ARTICLE New Bill Protects California Workers During Mass Layoffs Read more Mar 7 2023 NEWS ARTICLE New Bill will Require Cities With Empty Downtowns to Fast Track Office-to-Housing Conversions Read more Feb 27 2023 NEWS ARTICLE New Bill to Create State Run Pension Fund for MMA Fighters Read more Feb 23 2023 NEWS ARTICLE Senator Caballero and Assemblymember Haney Introduce SB 225 Read more Jan 25 2023 NEWS ARTICLE First-in-Nation Law to Require Opioid Blocking Nasal Spray in Gas Stations, Bars and Libraries Read more Dec 20 2022 NEWS ARTICLE Assemblymember Haney Introduces Bill to Stop Skyrocketing Security Deposits Read more Dec 7 2022 NEWS ARTICLE State Legislature's Only Renters Form Three Person Caucus to Fight for Renters Rights Read more Oct 20 2022 NEWS ARTICLE Assemblymember Haney Announces $2 Million Investment In United Playaz Clubhouse Read more Oct 6 2022 NEWS ARTICLE Assemblymember Haney Announces “There Oughta Be a Law” Bill Ideas Contest Read more Oct 5 2022 NEWS ARTICLE Assemblymember Haney Secures $850,000 for Restoration and Renovation of Chinese Historical Society Read more Oct 4 2022 NEWS ARTICLE Assemblymember Haney Announces Creation of Committee to Investigate Fentanyl and Opioid Deaths in CA Read more Sep 29 2022 NEWS ARTICLE Assemblymember Haney’s Statement on the Passing of SB 1161 Read more Aug 22 2022 NEWS ARTICLE Assemblymember Haney’s Statement on Governor Newsom’s Veto of Safe Consumption Sites Legislation Read more Aug 22 2022 NEWS ARTICLE Senator Wiener and Assemblymember Haney Joint Statement on Growing Monkeypox Outbreak Read more Jul 8 2022 NEWS ARTICLE Community Leaders Speak Out Against 177.5% Rise in Anti-Asian Hate Crimes and Ways to Combat Read more Jul 1 2022 NEWS ARTICLE Assemblymember Haney’s Language Rights for Workers Bill Unanimously Passes Senate Labor Committee Read more Jun 22 2022 NEWS ARTICLE Assemblymember Haney named as Assistant Majority Leader of Policy and Research Read more May 12 2022 NEWS ARTICLE New state legislator takes train between SF, Sacramento Read more May 10 2022 NEWS ARTICLE Matt Haney Sworn in as Assemblymember for the 17th District Read more May 3 2022 NEWS ARTICLE Listen: Love for S.F.'s Tenderloin District, with Matt Haney Read more Apr 29 2022 NEWS ARTICLE Opinion: Matt Haney shows S.F. progressives how to win instead of whine Read more Apr 22 2022 NEWS ARTICLE Supervisor Matt Haney wins special election for Assembly District 17 seat Read more Apr 19 2022 PRESS RELEASE Matt Haney Declares Victory in AD17 Special Election Read more Apr 19 2022 PRESS RELEASE Mayor London Breed Endorses Matt Haney for Assembly Read more Apr 5 2022 info@matthaney.com Matt Haney for Assembly 2024 2370 Market St.
+Suite 103 - 463 San Francisco, CA 94114 Powered by RUN! website builder Paid for by Matt Haney for Assembly 2026 FPPC #1476944 You need to enable JavaScript to run this app.

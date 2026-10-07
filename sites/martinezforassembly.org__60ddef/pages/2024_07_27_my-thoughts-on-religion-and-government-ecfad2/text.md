@@ -1,7 +1,6 @@
-I believe that every citizen has a right to religious freedom.
+Skip to content Facebook Mail Instagram X News About Contact Me Gallery Give My Thoughts on Religion and Government I believe that every citizen has a right to religious freedom.
 That is, to practice a religion or not practice a religion.
-I believe the 1st amendment is clear on the separation of church and state – “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof…”
-Clearly, free exercise of religion is under attack.
+I believe the 1st amendment is clear on the separation of church and state – “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof…” Clearly, free exercise of religion is under attack.
 Forcing people to perform activities that contravene their sincere religious beliefs is in violation of the Constitution and the Religious Freedom Restoration Act.
 Some religions do not condone abortion or gay marriage – should government force doctors to perform abortions or bakers to bake cakes for gay couples, if their beliefs are contrary to government edicts?
 I say no!
@@ -19,3 +18,5 @@ While my faith and conscience encourages me to be kind, tolerant and supportive 
 Government should not intrude into well-established and earnestly-held beliefs.
 I am a Christian and follow the Bible’s teachings.
 I am pro-life and believe every life has purpose, is precious and must be protected.
+July 27, 2024 admin Uncategorized WHAT’S GOING ON?
+Ballot Statement – English Do NOT vote for me if you want: High taxesHigh… Read more : Ballot Statement – English Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de… Read more : Ballot Statement – Spanish SOCIAL MEDIA Facebook Mail Instagram X Email: martinezforassembly@gmail.com Phone: (562) 347-7202 Home About News Paid for by: Jessica Martinez for 56th Assembly 2026 FPPC #: 1479619

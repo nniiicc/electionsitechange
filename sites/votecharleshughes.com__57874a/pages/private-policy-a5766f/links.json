@@ -1,10 +1,42 @@
 [
-"http://showit.com/",
-"https://dropbox.com/scl/fo/h0eh6jvneeim0ny9u0xpf/AMoTyAk4RR8INNbczXIFbzs?rlkey=x1xmjc83gvd3utt7tk21vqgph&e=1&st=u2v4jkqo&dl=0",
-"https://efundraisingconnections.com/c/CharlesHughes",
-"https://votecharleshughes.com/about",
-"https://votecharleshughes.com/endorsements",
-"https://votecharleshughes.com/home",
-"https://votecharleshughes.com/join-us",
-"https://votecharleshughes.com/priorities"
+{
+"text": "CONTACT: info@votecharleshughes.com",
+"href": "http://showit.com"
+},
+{
+"text": "Join",
+"href": "https://votecharleshughes.com/join-us"
+},
+{
+"text": "PAID FOR BY CHARLES HUGHES FOR ASSEMBLY 2026",
+"href": "http://showit.com"
+},
+{
+"text": "about",
+"href": "https://votecharleshughes.com/about"
+},
+{
+"text": "donate",
+"href": "https://www.efundraisingconnections.com/c/CharlesHughes"
+},
+{
+"text": "endorsements",
+"href": "https://votecharleshughes.com/endorsements"
+},
+{
+"text": "home",
+"href": "https://votecharleshughes.com/home"
+},
+{
+"text": "join us",
+"href": "https://votecharleshughes.com/join-us"
+},
+{
+"text": "media",
+"href": "https://www.dropbox.com/scl/fo/h0eh6jvneeim0ny9u0xpf/AMoTyAk4RR8INNbczXIFbzs?rlkey=x1xmjc83gvd3utt7tk21vqgph&e=1&st=u2v4jkqo&dl=0"
+},
+{
+"text": "priorities",
+"href": "https://votecharleshughes.com/priorities"
+}
 ]

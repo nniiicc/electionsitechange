@@ -1,8 +1,5 @@
-top of page
-AYANNA'S PRIORITIES
-Improving Public Safety
-As a public school educator and School Board member, I hear from students and parents every day: they want quality schools and safe streets where children can play without fear.
+top of page ABOUT PRIORITIES ENDORSEMENTS STATEMENTS OF SUPPORT NEWS GET INVOLVED MEDIA DONATE AYANNA'S PRIORITIES Improving Public Safety As a public school educator and School Board member, I hear from students and parents every day: they want quality schools and safe streets where children can play without fear.
 In the Assembly, I will work closely with local first responders to improve emergency response times and create safer schools, parks, and neighborhoods.
 I will also advocate for increased funding for after-school programs and job training programs to provide pathways of opportunity for young people in our communities.
 Additionally, I will always push for stronger gun safety laws – especially those targeting ghost guns – to keep dangerous weapons out of our schools and off of our streets.
-bottom of page
+Previous Item Next Item INSTAGRAM TWITTER FACEBOOK PAID FOR BY AYANNA DAVIS FOR ASSEMBLY 2026 CONTACT: info@ayannadavis.com ABOUT PRIORITIES ENDORSEMENTS STATEMENTS OF SUPPORT NEWS GET INVOLVED MEDIA bottom of page

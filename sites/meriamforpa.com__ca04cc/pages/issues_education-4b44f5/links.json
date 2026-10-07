@@ -1,22 +1,114 @@
 [
-"https://facebook.com/meriamforpa",
-"https://instagram.com/meriamforpa",
-"https://meriamforpa.com/",
-"https://meriamforpa.com/about",
-"https://meriamforpa.com/accessibility",
-"https://meriamforpa.com/compare",
-"https://meriamforpa.com/endorsements",
-"https://meriamforpa.com/faq",
-"https://meriamforpa.com/issues/affordability",
-"https://meriamforpa.com/issues/data-centers",
-"https://meriamforpa.com/issues/education",
-"https://meriamforpa.com/issues/environment",
-"https://meriamforpa.com/issues/gun-safety",
-"https://meriamforpa.com/issues/healthcare-access",
-"https://meriamforpa.com/privacy",
-"https://palegis.us/legislation/bills/2021/hb2813",
-"https://palegis.us/legislation/bills/2023/hb1432",
-"https://palegis.us/legislation/bills/2023/hb2370",
-"https://secure.actblue.com/donate/meriamforpa",
-"https://x.com/meriamsabih"
+{
+"text": "Accessibility",
+"href": "https://www.meriamforpa.com/accessibility/"
+},
+{
+"text": "Affordability",
+"href": "https://www.meriamforpa.com/issues/affordability/"
+},
+{
+"text": "Compare",
+"href": "https://www.meriamforpa.com/compare/"
+},
+{
+"text": "Compare Candidates",
+"href": "https://www.meriamforpa.com/compare/"
+},
+{
+"text": "Compare →",
+"href": "https://www.meriamforpa.com/compare/"
+},
+{
+"text": "Data Centers",
+"href": "https://www.meriamforpa.com/issues/data-centers/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/meriamforpa"
+},
+{
+"text": "Education",
+"href": "https://www.meriamforpa.com/issues/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.meriamforpa.com/endorsements/"
+},
+{
+"text": "Environment",
+"href": "https://www.meriamforpa.com/issues/environment/"
+},
+{
+"text": "FAQ",
+"href": "https://www.meriamforpa.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.meriamforpa.com/#get-involved"
+},
+{
+"text": "Gun Safety",
+"href": "https://www.meriamforpa.com/issues/gun-safety/"
+},
+{
+"text": "HB 1432",
+"href": "https://www.palegis.us/legislation/bills/2023/hb1432"
+},
+{
+"text": "HB 2370",
+"href": "https://www.palegis.us/legislation/bills/2023/hb2370"
+},
+{
+"text": "HB 2813",
+"href": "https://www.palegis.us/legislation/bills/2021/hb2813"
+},
+{
+"text": "Healthcare Access",
+"href": "https://www.meriamforpa.com/issues/healthcare-access/"
+},
+{
+"text": "Home",
+"href": "https://www.meriamforpa.com/"
+},
+{
+"text": "Meet Meriam",
+"href": "https://www.meriamforpa.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.meriamforpa.com/privacy/"
+},
+{
+"text": "See all endorsements →",
+"href": "https://www.meriamforpa.com/endorsements/"
+},
+{
+"text": "Vote",
+"href": "https://www.meriamforpa.com/#vote"
+},
+{
+"text": "[image: Meriam Sabih for PA House District 131]",
+"href": "https://www.meriamforpa.com/"
+},
+{
+"text": "[image: Meriam Sabih for Pennsylvania House District 131]",
+"href": "https://www.meriamforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/meriamforpa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/meriamforpa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/meriamsabih"
+},
+{
+"text": "contact@meriamforpa.com",
+"href": "mailto:contact@meriamforpa.com"
+}
 ]

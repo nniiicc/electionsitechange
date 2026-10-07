@@ -1,7 +1,12 @@
 {
  "description": "Are you planning to vote in person on Tuesday, November 3rd? Check to see if your polling location in HD161 has changed. PrecinctLocationAston 1Aston Twp",
  "final_url": "https://www.leanne4pa.com/polling-locations-2020-general-election/",
+ "fingerprint": "2682b91701170b285084b0507b149b042c5c8e5e",
+ "format": 3,
  "paid_for_by": "Paid for by Leanne for PA",
  "title": "Polling Locations - 2020 General Election - Leanne Krueger for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020",
+  "2022"
+ ]
 }

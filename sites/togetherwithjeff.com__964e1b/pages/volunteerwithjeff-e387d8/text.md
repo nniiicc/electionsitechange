@@ -1,19 +1,2 @@
-Meet Jeff
-Priorities
-Endorsements
-Gallery
-District 31
-Volunteer
-Donate
-Meet Jeff
-Priorities
-Endorsements
-Gallery
-District 31
-Volunteer
-Re-elect Senator Jeff Smith the 31st state Senate District of Wisconsin
-Donate
-Scroll
-Volunteer
-Volunteer Banner
-Volunteer
+Meet Jeff Priorities Endorsements Gallery District 31 Volunteer Donate Meet Jeff Priorities Endorsements Gallery District 31 Volunteer Re-elect Senator Jeff Smith the 31st state Senate District of Wisconsin Donate Scroll Volunteer Volunteer Banner Volunteer Contribute to Re-elect Senator Jeff Smith Volunteer with Jeff Mail Contributions to Together with Jeff 440 Broadway St.
+Eau Claire, WI 54703 Paid for by Together with Jeff | Tammy Tollefson, Treasurer info@togetherwithjeff.com Donate Media Toolkit

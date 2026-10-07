@@ -1,15 +1,4 @@
-Home
-Meet Farooq
-Voting Information
-Priorities
-Legislative Wins
-News
-Get Involved
-Events
-Contact
-More
-Tue, May 21
-Taco Mac @ Mall of Georgia
-May 21, 2024, 7:00 PM – 11:00 PM
-Taco Mac @ Mall of Georgia, 3250 Woodward Crossing Blvd, Buford, GA 30519, USA
-Join us and have fantastic food and fun as we watch the primary election results with Represenative Mughal.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Tue, May 21 | Taco Mac @ Mall of Georgia 2024 Primary Election Watch Party Registration is closed See other events Time & Location May 21, 2024, 7:00 PM – 11:00 PM Taco Mac @ Mall of Georgia, 3250 Woodward Crossing Blvd, Buford, GA 30519, USA Guests See All About the event Join us and have fantastic food and fun as we watch the primary election results with Represenative Mughal.
+Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

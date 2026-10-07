@@ -1,18 +1,66 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61592896419628",
-"https://linkedin.com/in/shayne-morgan-48507648",
-"https://morganformontana.com/",
-"https://morganformontana.com/contact",
-"https://morganformontana.com/contribute",
-"https://morganformontana.com/home",
-"https://morganformontana.com/issues",
-"https://morganformontana.com/meet_shayne",
-"https://morganformontana.com/view-endorsements",
-"https://morganformontana.com/volunteer",
-"https://morganformontana.com/vote",
-"https://morganformontana.com/yard-sign",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Contact",
+"href": "https://www.morganformontana.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.morganformontana.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.morganformontana.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.morganformontana.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.morganformontana.com/issues"
+},
+{
+"text": "Meet Shayne",
+"href": "https://www.morganformontana.com/meet_shayne"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.morganformontana.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.morganformontana.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.morganformontana.com/yard-sign"
+},
+{
+"text": "[image: Shayne Morgan]",
+"href": "https://www.morganformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61592896419628"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/shayne-morgan-48507648/"
+}
 ]

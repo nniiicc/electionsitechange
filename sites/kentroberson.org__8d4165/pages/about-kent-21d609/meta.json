@@ -1,7 +1,9 @@
 {
  "description": "Discover Kent Roberson, a dedicated public servant in the Maryland General Assembly, championing Black professionals in food and agriculture.",
  "final_url": "https://kentroberson.org/about-kent",
- "paid_for_by": null,
+ "fingerprint": "d24f384aebb8953ce69de613fa14a8a38acccd63",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Kent",
  "years_mentioned": [
   "2018",

@@ -1,7 +1,5 @@
-Affordability
-I will fight for MO families to be able to afford the costs of living
-Priorities
-What I want to fight for in Jefferson City
-My campaign is focused on respecting the will of the people, keeping Missouri financially responsible, and protecting local communities from harmful development.
-I believe every Missourian deserves a representative they can call, challenge, and hold accountable — and I will never vote against a ballot initiative passed by the people.
-I believe surpluses should be re-invested into schools, hospitals, roads, and long-term economic growth.
+A State Worth Fighting For Donate to the Campaign Home Meet Dale Priorities Endorsements Events Merch Volunteer Contact Donate Priorities What I want to fight for in Jefferson City My campaign is focused on respecting the will of the people, keeping Missouri financially responsible, and protecting local communities from harmful development.
+01 Affordability I will fight for MO families to be able to afford the costs of living 02 Putting your voice in Jefferson City I believe every Missourian deserves a representative they can call, challenge, and hold accountable — and I will never vote against a ballot initiative passed by the people.
+03 Schools, Roads, Hospitals I believe surpluses should be re-invested into schools, hospitals, roads, and long-term economic growth.
+Dale Conoyer for Missouri House A State Worth Fighting For Serving Saint Charles County communities from Saint Peters and Cottleville to West Alton and Portage Des Sioux.
+Facebook Instagram X TikTok Paid for by Conoyer For Missouri, Don Crozier Treasurer Meet Dale Priorities Endorsements Events Merch Volunteer Donate Contact Donate

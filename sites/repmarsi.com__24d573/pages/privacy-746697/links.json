@@ -1,12 +1,54 @@
 [
-"https://facebook.com/RepMarsi",
-"https://instagram.com/repmarsi",
-"https://repmarsi.com/",
-"https://repmarsi.com/about",
-"https://repmarsi.com/constituent-services",
-"https://repmarsi.com/get-involved",
-"https://repmarsi.com/privacy",
-"https://repmarsi.com/terms",
-"https://secure.anedot.com/johnmarsi/donate",
-"https://x.com/RepMarsi"
+{
+"text": "About",
+"href": "https://www.repmarsi.com/about"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.repmarsi.com/constituent-services"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/johnmarsi/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/johnmarsi/donate"
+},
+{
+"text": "Email",
+"href": "mailto:John@RepMarsi.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepMarsi/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.repmarsi.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.repmarsi.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repmarsi"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.repmarsi.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.repmarsi.com/terms"
+},
+{
+"text": "Twitter / X",
+"href": "https://x.com/RepMarsi"
+},
+{
+"text": "[image: Re-Elect Rep. John Marsi – 6th Worcester District]",
+"href": "https://www.repmarsi.com/"
+}
 ]

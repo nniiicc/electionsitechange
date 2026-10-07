@@ -1,49 +1,18 @@
-My Record
-I have spent my time in Lansing laser-focused on the issues that truly matter: great schools, better infrastructure, higher wages, lower bills, and safer neighborhoods.
+top of page DONATE REQUEST YOUR LAWN SIGN Home Meet Sharon My Record My Platform Endorsements More Stay in Touch!
+Privacy Policy Terms and Conditions More Use tab to navigate through the menu items.
+My Record I have spent my time in Lansing laser-focused on the issues that truly matter: great schools, better infrastructure, higher wages, lower bills, and safer neighborhoods.
 During my time in Lansing, I have won funding for projects that will improve our quality of life.
-These include:
-- $14 million for noise barriers along I-75 in Troy, with construction starting this fall
-- $1 million for water main repair in Clawson, with construction starting this spring
-- $1 million to build Michigan’s first state-funded regulation cricket field in Troy’s own Boulan Park!
-Investments Secured for Our Community
-My Votes
-I am proud to have voted FOR the following legislation, which is making a difference now in the lives of Michiganders:
-- Record investments in public education, including special education, ESL programming, and at-risk programming
-- Free school meals for all public k-12 students for the past three school years
-- Banning cell phone use during class time in k-12 schools
-- Major increases to local road funding
-- Repealing the tax on retirement income imposed by the Snyder administration
-- Repealing “right-to-work” anti-union restrictions
-- Reinstating prevailing wage requirements for public construction projects
-- Creating the Public Safety and Violence Prevention Fund
-- Transitioning to 100% clean energy generation by 2040
-- Mandating strict financial disclosures for state legislators
-I am also proud to have voted AGAINST major cuts to the University of Michigan and Michigan State University that House Republicans proposed.
-My Legislation: 2023-2024
-During the 2023-2024 term, I got the following bills signed into law:
-- House Bills 4320 and 4387, known as “Justice for Allie,” which protect vulnerable adults from online sexual exploitation
-- House Bill 4706, which unlocked $110 million in federal funding to build electric vehicle charging infrastructure
-- House Bill 5450, strengthening our safe firearm storage requirements for parents of minor children
-- House Bill 5871, expanding the MiABLE savings account for Michiganders with disabilities
-My Legislation: 2025-2026
-This term, I have introduced bills that would do the following:
-- Protect people with disabilities from unnecessary, restrictive guardianships
-- Censure a far-right Republican representative after he made racist remarks, saying on the floor of the House that nonwhite Americans cannot be loyal to the United States.
+These include: $14 million for noise barriers along I-75 in Troy, with construction starting this fall $1 million for water main repair in Clawson, with construction starting this spring $# million to build Michigan’s first state-funded regulation cricket field in Troy’s own Boulan Park!
+Investments Secured for Our Community My Votes I am proud to have voted FOR the following legislation, which is making a difference now in the lives of Michiganders: Record investments in public education, including special education, ESL programming, and at-risk programming Free school meals for all public k-12 students for the past three school years Banning cell phone use during class time in k-12 schools Major increases to local road funding Repealing the tax on retirement income imposed by the Snyder administration Repealing “right-to-work” anti-union restrictions Reinstating prevailing wage requirements for public construction projects Creating the Public Safety and Violence Prevention Fund Transitioning to 100% clean energy generation by 2040 Mandating strict financial disclosures for state legislators I am also proud to have voted AGAINST major cuts to the University of Michigan and Michigan State University that House Republicans proposed.
+My Legislation: 2023-2024 During the 2023-2024 term, I got the following bills signed into law: House Bills 4320 and 4387 , known as “Justice for Allie,” which protect vulnerable adults from online sexual exploitation House Bill 4706 , which unlocked $110 million in federal funding to build electric vehicle charging infrastructure House Bill 5450 , strengthening our safe firearm storage requirements for parents of minor children House Bill 5871 , expanding the MiABLE savings account for Michiganders with disabilities My Legislation: 2025-2026 This term, I have introduced bills that would do the following: Protect people with disabilities from unnecessary, restrictive guardianships Censure a far-right Republican representative after he made racist remarks, saying on the floor of the House that nonwhite Americans cannot be loyal to the United States.
 House Republican leadership refused to condemn him.
-- Reign in DTE and Consumers Energy, part of a House Democratic initiative that would lower household electric bills
-- Support our veterans by strengthening the state’s Veterans Ombudsman program
-- Defend naturalized citizens from the Trump administration’s persecution
-- Restore funding to the Autism Navigator program after its funding was cut last year
-- Regulate freestanding hyperbaric therapy centers, after a young boy was killed in a hyperbaric chamber in Troy
-Michigan Legislative Disability Caucus
-I am honored to serve as the Chair of the Michigan Legislative Disability Caucus, the hub for legislators, disability advocates, educators, and organizations to discuss disability policy issues.
+Reign in DTE and Consumers Energy, part of a House Democratic initiative that would lower household electric bills Support our veterans by strengthening the state’s Veterans Ombudsman program Defend naturalized citizens from the Trump administration’s persecution Restore funding to the Autism Navigator program after its funding was cut last year Regulate freestanding hyperbaric therapy centers, after a young boy was killed in a hyperbaric chamber in Troy Michigan Legislative Disability Caucus ​I am honored to serve as the Chair of the Michigan Legislative Disability Caucus, the hub for legislators, disability advocates, educators, and organizations to discuss disability policy issues.
 I want Michigan to become the best state for people with disabilities and their loved ones.
-My Committee Assignments
-- Oversight Subcommittee for Public Health and Food Security (Minority Vice Chair)
-- Oversight Subcommittee for Child Welfare
-- Oversight Committee
-For more information...
+My Committee Assignments Oversight Subcommittee for Public Health and Food Security (Minority Vice Chair) Oversight Subcommittee for Child Welfare Oversight Committee For more information...
 To learn more about my work in Lansing, please visit my official legislative website.
 You can also use that website to submit a nomination for Small Business of the Month or Teacher of the Month.
 If my legislative office can help you to access resources or resolve a different government-related issue, please contact me at SharonMacDonell@house.mi.gov or at 517-373-2617.
 It is my honor to serve you!
+Paid for by Elect Sharon MacDonell P.O.
+Box 99221 Troy MI 48099 Get social with us!
+Share your thoughts! ​Telephone : ​248•469•8112 Email : electsharonmac@gmail.com ​​ bottom of page

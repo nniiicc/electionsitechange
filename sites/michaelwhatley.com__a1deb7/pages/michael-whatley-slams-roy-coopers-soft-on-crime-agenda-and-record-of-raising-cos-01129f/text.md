@@ -1,9 +1,7 @@
-DALLAS – Today, at the RNC Midterm Convention Michael Whatley spoke about how Roy Cooper allowed healthcare premiums to rise 183%, to the highest in the nation, as well as Cooper’s soft-on-crime record releasing over 4,000 hardened criminals who went on to kill 25 innocent North Carolinians.
-Watch Whatley’s full remarks HERE
-Excerpts of Whatley’s remarks as prepared for delivery:
-“Ladies and Gentlemen, and Republicans from across North Carolina…and the nation.
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Michael Whatley Slams Roy Cooper’s Soft-on-Crime Agenda and Record of Raising Costs at Republican Midterm Convention September 9, 2026 DALLAS – Today, at the RNC Midterm Convention Michael Whatley spoke about how Roy Cooper allowed healthcare premiums to rise 183%, to the highest in the nation, as well as Cooper’s soft-on-crime record releasing over 4,000 hardened criminals who went on to kill 25 innocent North Carolinians.
+Watch Whatley’s full remarks HERE Excerpts of Whatley’s remarks as prepared for delivery: “Ladies and Gentlemen, and Republicans from across North Carolina…and the nation.
 It is an honor to stand here today as your nominee for the United States Senate from the great state of North Carolina.
-“With the November election just 55 days away, let’s talk about what Republicans have accomplished for working families and what radical Democrats have stood against.
+“With the November election just # days away, let’s talk about what Republicans have accomplished for working families and what radical Democrats have stood against.
 “Under President Trump’s leadership, Republicans passed the Working Families Tax Cuts… and put thousands of dollars back into the hands of families and our seniors.
 “My opponent, Roy Cooper, has said he opposes this bill… and the tax relief it has provided North Carolina families – an average of $5,700 per household.
 He wants you to pay MORE taxes.
@@ -11,13 +9,11 @@ He wants you to pay MORE taxes.
 “Roy Cooper opposed this too.
 Which is outrageous because Cooper killed many rural healthcare facilities, forcing North Carolinians to travel large distances to receive the care they need.
 “Republicans will not stand for this.
-We support our rural communities
-across North Carolina and as your next senator I will ALWAYS have their backs.
+We support our rural communities across North Carolina and as your next senator I will ALWAYS have their backs.
 “Through TrumpRX and reinstating Most Favored Nation Status, Republicans have helped Americans to get their prescription drugs at the lowest possible cost.
 “This has saved everyday Americans over $700 million in less than one year.
-“Democrats like Roy Cooper opposed this too…
-“Under Roy Cooper’s reign, North Carolina became the most expensive state in the nation for healthcare costs.
-“Under his watch, health care companies raised insurance premiums 183%, hurting our families’ bottom lines… as they already struggle to make ends meet thanks to Democrat’s reckless spending and record- setting inflation.
+“Democrats like Roy Cooper opposed this too… “Under Roy Cooper’s reign, North Carolina became the most expensive state in the nation for healthcare costs.
+“Under his watch, health care companies raised insurance premiums #%, hurting our families’ bottom lines… as they already struggle to make ends meet thanks to Democrat’s reckless spending and record- setting inflation.
 “Not surprisingly, Cooper has accepted $400,000 from them in financial contributions.
 “Folks, this is the radical Democrat’s playbook.
 “To raise costs on our families.
@@ -40,8 +36,6 @@ When it comes to keeping our kids and communities safe, Cooper was the worst gov
 “The American Dream… and families across our nation are under assault thanks to the radical, extreme policies of Democrats like Roy Cooper.
 “I have been able to live the American Dream in North Carolina, and as North Carolina’s next Senator… I will fight every day to ensure that Dream stays alive for every one of our kids and our grandkids.
 “But that requires us to fight.
-“I will fight for our families,
-“I will fight for every North Carolina community,
-“I will fight for our way of life, and fight to keep Democrats’ radical, extreme far left agenda out of the Senate.
+“I will fight for our families, “I will fight for every North Carolina community, “I will fight for our way of life, and fight to keep Democrats’ radical, extreme far left agenda out of the Senate.
 “As the next Senator for North Carolina, I will always fight for our values, and I will fight for you.
-“Thank you.”
+“Thank you.” X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

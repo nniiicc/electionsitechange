@@ -1,5 +1,4 @@
-Meet Jeff Holy
-Jeff graduated from Catholic grade school, attended Catholic Seminary as a high school freshman, continued Catholic High School as a sophomore, and graduated from Issaquah High School.
+top of page Jeff Holy for State Senate Home About Donate Meet Jeff Holy Jeff graduated from Catholic grade school, attended Catholic Seminary as a high school freshman, continued Catholic High School as a sophomore, and graduated from Issaquah High School.
 While in high school, Jeff started his Republican involvement by doorbelling for then first-time WA State House of Representatives candidate, Kent Pullen.
 Once out of high school, Jeff discovered the value of manual labor, while working in a foundry, at a lumber treatment plant and by driving a combine.
 In 1975, Jeff enlisted in the U.S.
@@ -21,3 +20,4 @@ Even though he was dedicated to duty as a police officer, Jeff always made time 
 Coaching baseball, serving on many different boards, providing volunteer legal services, working on political campaigns, serving as a PCO, and having been elected for three terms in the Washington State House of Representatives and two terms in the Washington State Senate provide just a bit of perspective into Jeff’s appreciation for, and service to, our Spokane community.
 As an attorney, Jeff now finds that he remains compelled to stay involved with our Spokane community.
 Jeff’s education, experience, community involvement, drive and commitment have provided quality decisions and sound principled leadership for both our community and our state.
+Jeff Holy for State Senate Email * Yes, subscribe me to your newsletter. * Submit Paid for by Jeff Holy for Senate, R PO Box 40231 Spokane, WA 99220 © # Privacy Policy bottom of page

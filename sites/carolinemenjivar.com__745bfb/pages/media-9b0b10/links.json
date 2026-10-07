@@ -1,12 +1,46 @@
 [
-"https://carolinemenjivar.com/",
-"https://carolinemenjivar.com/contact",
-"https://carolinemenjivar.com/endorsements",
-"https://carolinemenjivar.com/events",
-"https://carolinemenjivar.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com/JoinCarolineMenjivar",
-"https://instagram.com/JoinCarolineMenjivar",
-"https://secure.actblue.com/donate/menjivar2026",
-"https://x.com/carolinemenjiv3"
+{
+"text": "Contact",
+"href": "https://www.carolinemenjivar.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/menjivar2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolinemenjivar.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolinemenjivar.com/events"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carolinemenjivar.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Caroline Menjivar - California Senate District 20 | Marine, EMT, Social Worker]",
+"href": "https://www.carolinemenjivar.com/"
+},
+{
+"text": "[image: Caroline Menjivar for State Senate logo]",
+"href": "https://www.carolinemenjivar.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/JoinCarolineMenjivar"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/JoinCarolineMenjivar"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/carolinemenjiv3"
+}
 ]

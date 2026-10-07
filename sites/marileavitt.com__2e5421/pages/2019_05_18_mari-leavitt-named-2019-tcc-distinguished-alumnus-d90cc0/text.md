@@ -1,4 +1,4 @@
-Tacoma Community College is honored to recognize Mari Leavitt as the 2019 TCC Distinguished Alumnus.
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact The Suburban Times Mari Leavitt Named 2019 TCC Distinguished Alumnus May 18, 2019 Tacoma Community College is honored to recognize Mari Leavitt as the 2019 TCC Distinguished Alumnus.
 A Lincoln High School graduate, Leavitt earned her Associate of Applied Science (A.A.S.) degree from TCC and was recognized as a TCC Ellen Pinto Outstanding Student of the Year.
 She went on to earn her B.A. and M.
 Ed. from Western Washington University and her Ph.D. in Community College Leadership from Oregon State University.
@@ -14,7 +14,11 @@ Leavitt was nominated by a TCC employee who first knew her as the neighbor who e
 “I was a stay at home mom in our community and Mari was a huge encouragement to me when I shared that I wanted to enter back into the workforce and in particular that I wanted to work at TCC,” reads the nomination.
 “Her love for higher education and her students was infectious and I wanted to be part of that world.
 She encouraged me to get my master’s degree and showed me that I could achieve that dream while still being a great mom to my children.
-She still inspires me with her drive and passion for our community.”
-Leavitt will be honored at the 10:00 a.m.
+She still inspires me with her drive and passion for our community.” Leavitt will be honored at the 10:00 a.m.
 TCC commencement ceremony on Saturday, June 15, 2019.
 Commencement will be held on the TCC Tacoma campus in the TCC gymnasium, building 20.
+Related reading on marileavitt.com More on education and workforce training bills: Last year, Washington lawmakers made college free for some.
+This… More on education and workforce training bills: Schools don’t have to track youth head injuries in Washington.
+Two… More on education and workforce training bills: Time’s up for students’ pandemic meal money, but most in WA… More on education and workforce training bills: Prison education bill seeks to provide second — and first —… For official reference, see Washington Student Achievement Council and Washington State Legislature .
+Read More « Previous: New State Transportation Budget to Improve I-5, DuPont-Steilacoom Road and more » Next: Veteran Reforms A Priority, Says Rep.
+Leavitt

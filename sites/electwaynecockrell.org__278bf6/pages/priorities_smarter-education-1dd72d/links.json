@@ -1,20 +1,86 @@
 [
-"http://event/",
-"https://cockrell.wakeupliberty.com/news",
-"https://cockrell.wakeupliberty.com/privacy-policy",
-"https://cockrell.wakeupliberty.com/take-action/donate",
-"https://cockrell.wakeupliberty.com/take-action/volunteer",
-"https://electwaynecockrell.org/",
-"https://electwaynecockrell.org/cookie-policy",
-"https://electwaynecockrell.org/take-action/donate",
-"https://facebook.com/LPofNC",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/"
+{
+"text": "984-275-4593",
+"href": "tel:984-275-4593"
+},
+{
+"text": "Contribute",
+"href": "https://cockrell.wakeupliberty.com/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://electwaynecockrell.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Envelope",
+"href": "mailto:contact@electwaynecockrell.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "News",
+"href": "https://cockrell.wakeupliberty.com/news/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Volunteer",
+"href": "https://cockrell.wakeupliberty.com/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "[image]",
+"href": "https://electwaynecockrell.org"
+},
+{
+"text": "[image]",
+"href": "https://electwaynecockrell.org/"
+},
+{
+"text": "[no text]",
+"href": "tel:984-275-4593"
+},
+{
+"text": "contact@electwaynecockrell.org",
+"href": "mailto:contact@electwaynecockrell.org"
+}
 ]

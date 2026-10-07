@@ -1,5 +1,4 @@
-HEALTHCARE
-In the wealthiest country in the world, no one should struggle to access basic healthcare.
+0 Skip to Content Home About Endorsements Events Platform MERCH GET INVOLVED Open Menu Close Menu Home About Endorsements Events Platform MERCH GET INVOLVED Open Menu Close Menu Home About Endorsements Events Platform MERCH GET INVOLVED HEALTHCARE In the wealthiest country in the world, no one should struggle to access basic healthcare.
 Sadly, this happens regularly in our state as families find themselves choosing between hospital bills and groceries.
 Healthcare is a basic human right.
 To provide comprehensive care for all Ohioans, we must support our doctors and nurses.
@@ -17,3 +16,13 @@ To better serve Ohioans, the state should provide incentives to healthcare worke
 Rose Lounsbury will fight to keep good doctors and nurses in Ohio.
 They take care of us.
 We need to take care of them.
+Previous Previous Justice, Equity, Diversity, & Inclusion DONATE Get Involved Stay updated with our campaign!
+Enter your info below.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thanks for subscribing!
+You can expect to receive an email about once a week from Rose and the campaign team.
+CONTACT Checks can be mailed to: Friends of Rose Lounsbury PO Box 183, Oakwood, OH 45409-9998 PAID FOR BY FRIENDS OF ROSE LOUNSBURY © # Friends of Rose Lounsbury.
+All rights reserved.

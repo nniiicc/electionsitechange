@@ -1,7 +1,9 @@
 {
  "description": "Primary Care Bills - ...",
  "final_url": "https://www.marie4ri.com/primary-care-bills",
- "paid_for_by": null,
+ "fingerprint": "638fb568192ed6d6a0650e9c45bfb276f899c138",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Primary Care Bills - ...",
  "years_mentioned": []
 }

@@ -1,4 +1,4 @@
-Vote for Scott Janney (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Skip to content About Issues Videos Volunteer Contact About Issues Videos Volunteer Contact Donate Now Vote for Scott Janney Mobile Messaging Terms & Conditions Vote for Scott Janney (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -49,3 +49,8 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+SCOTT JANNEY Pennsylvania State Senate 2026 A leader who listens.
+Fighting for lower taxes, quality education, election integrity, and the constitutional rights that make Pennsylvania strong.
+Facebook Instagram Linkedin X-twitter Youtube Quick Links About Issues Videos Volunteer Contact About Issues Videos Volunteer Contact Contact Us scott@scottjanney.com 484-852-1710 © # Scott Janney for State Senate.
+All rights reserved.
+Privacy Policy Terms of Service Accessibility Paid for by Vote for Scott Janney.

@@ -1,2 +1,5 @@
-Please sign up here to get involved in the campaign — from making phone calls to canvassing door-to-door to displaying lawn signs, we’ll need all hands on deck.
+Skip to content Meet Clarence About Accomplishments Issues Get Involved Volunteer Meet Clarence About Accomplishments Issues Get Involved Volunteer Donate Meet Clarence About Accomplishments Issues Get Involved Volunteer Meet Clarence About Accomplishments Issues Get Involved Volunteer DONATE Get Involved Sign up to Volunteer Please sign up here to get involved in the campaign — from making phone calls to canvassing door-to-door to displaying lawn signs, we’ll need all hands on deck.
 Once you’re signed up, we’ll reach out and work with you to identify the best way for you to get involved!
+First Name Last Name Email Phone Number Address City State Zip What are you interested in?
+Canvassing door-to-door Canvassing door-to-door Making phone calls to voters Making phone calls to voters Texting voters Texting voters Volunteering in the campaign office Volunteering in the campaign office Hosting an event Hosting an event Displaying a lawn sign Displaying a lawn sign Displaying a bumper sticker Displaying a bumper sticker Other: Other: Other Volunteer Follow Clarence on Social Media: P.O.
+Box 891, Columbia, MD 21044 By authority: Friends of Clarence Lam | Pat Payne, Treasurer Donate

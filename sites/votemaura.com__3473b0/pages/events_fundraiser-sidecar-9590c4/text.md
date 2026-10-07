@@ -1,8 +1,3 @@
-Fundraiser @ Sidecar
-- Sidecar Supper Club & Beer Garden 12 North River Street Batavia, IL, 60510 United States (map)
-Back to All Events
-Fundraiser @ Sidecar
-Earlier Event: September 19
-Day of Action w/ Melissa Martinez for DuPage County Board District 6
-Later Event: October 4
-Day of Action w/ Yeena Yoo for DuPage Treasurer
+About Issues Events Vote Donate Contact Back Maura's Story Illinois District 49 Back Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources About Maura's Story Illinois District 49 Issues Events Vote Donate Contact Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources Candidate for 2020 Illinois House of Representative District 49 Back to All Events Fundraiser @ Sidecar Wednesday, September 30, 2026 5:30 PM 7:30 PM 17:30 19:30 Sidecar Supper Club & Beer Garden 12 North River Street Batavia, IL, 60510 United States (map) Google Calendar ICS Earlier Event: September 19 Day of Action w/ Melissa Martinez for DuPage County Board District 6 Later Event: October 4 Day of Action w/ Yeena Yoo for DuPage Treasurer Friends of Maura Hirschauer Batavia, IL, United States hello@votemaura.com Hours Join Team Maura volunteer registration email Facebook Instagram Twitter YouTube A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Contributions to Friends of Maura Hirschauer are not tax deductible.
+Privacy Policy

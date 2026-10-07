@@ -1,12 +1,66 @@
 [
-"http://linkedin.com/in/will-stapp-a8ab2a44",
-"https://facebook.com/profile.php?id=100077826377906",
-"https://willstappforalaska.com/",
-"https://willstappforalaska.com/about",
-"https://willstappforalaska.com/basic-01",
-"https://willstappforalaska.com/contact",
-"https://willstappforalaska.com/copy-of-issues",
-"https://willstappforalaska.com/copy-of-issues-1",
-"https://willstappforalaska.com/events-1",
-"https://willstappforalaska.com/news"
+{
+"text": "About",
+"href": "https://www.willstappforalaska.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.willstappforalaska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.willstappforalaska.com/contact"
+},
+{
+"text": "Economy",
+"href": "https://www.willstappforalaska.com/copy-of-issues"
+},
+{
+"text": "Education",
+"href": "https://www.willstappforalaska.com/copy-of-issues-1"
+},
+{
+"text": "Events",
+"href": "https://www.willstappforalaska.com/events-1"
+},
+{
+"text": "FOR ALASKA STATE HOUSE",
+"href": "https://www.willstappforalaska.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.willstappforalaska.com"
+},
+{
+"text": "Home",
+"href": "https://www.willstappforalaska.com/about"
+},
+{
+"text": "Issues",
+"href": "https://www.willstappforalaska.com/basic-01"
+},
+{
+"text": "News",
+"href": "https://www.willstappforalaska.com/news"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.willstappforalaska.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.willstappforalaska.com"
+},
+{
+"text": "Will Stapp",
+"href": "https://www.willstappforalaska.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100077826377906"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://linkedin.com/in/will-stapp-a8ab2a44"
+}
 ]

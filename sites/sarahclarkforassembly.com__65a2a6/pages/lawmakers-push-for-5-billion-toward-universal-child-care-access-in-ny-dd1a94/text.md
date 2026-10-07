@@ -1,5 +1,4 @@
-“A new coalition of Democrats in the state Legislature wants Gov.
+Toggle navigation Vote About Sarah In The News Issues Get Involved Volunteer Subscribe Contact Donate Lawmakers Push for $# Billion Toward Universal Child Care Access in NY February 1, 2022 “A new coalition of Democrats in the state Legislature wants Gov.
 Kathy Hochul and their colleagues to support an investment of $5 billion into the state’s struggling child care industry in this year’s state budget. … Sen.
 Jessica Ramos, D-Queens, and Assm.
-Sarah Clark, D-Monroe, who’ve crafted their own bill to expand child care in New York, were also on the statement.”
-“Lawmakers Push for $5 Billion Toward Universal Child Care Access in NY,” January 31, 2022 via New York Now
+Sarah Clark, D-Monroe, who’ve crafted their own bill to expand child care in New York, were also on the statement.” “Lawmakers Push for $# Billion Toward Universal Child Care Access in NY,” January 31, 2022 via New York Now child care Post navigation NYS Legislators: Raise pay to ease caregiving crisis (Guest Opinion by Rachel May and Sarah Clark) Rochester businesses benefit from new intensive six-month training program Vote About Sarah In The News Issues Volunteer Subscribe Media Contact

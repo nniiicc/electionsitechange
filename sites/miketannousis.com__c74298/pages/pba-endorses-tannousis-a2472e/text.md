@@ -1,4 +1,3 @@
-The Police Benevolent Association has endorsed Mike Tannousis for State Assembly.
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Endorsements BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly by Team Tannousis on Aug 14, 2020 The Police Benevolent Association has endorsed Mike Tannousis for State Assembly.
 “Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.
-We look forward to working with you towards our shared goal of a stronger, safer New York.”
-– Pat Lynch, Police Benevolent Association President
+We look forward to working with you towards our shared goal of a stronger, safer New York.” – Pat Lynch, Police Benevolent Association President MEET MIKE share PREVIOUS ARTICLE BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

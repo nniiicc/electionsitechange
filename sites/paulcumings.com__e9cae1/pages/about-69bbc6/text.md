@@ -1,5 +1,4 @@
-Meet Paul
-I was an Eagle Scout in Troop 265 in the Viking Council.
+0 Skip to Content About Paul Paul's Agenda Get Involved Better Offer Endorsements Contact Us Donate Open Menu Close Menu About Paul Paul's Agenda Get Involved Better Offer Endorsements Contact Us Donate Open Menu Close Menu About Paul Paul's Agenda Get Involved Better Offer Endorsements Contact Us Donate Meet Paul I was an Eagle Scout in Troop 265 in the Viking Council.
 I enjoyed spending summers at Manypoint Scout Camp in Northern Minnesota.
 I have lived in Minnesota my whole life and dedicated my adult life to service to the common good.
 My mother was a public school teacher and my father was a Lutheran pastor.
@@ -33,3 +32,6 @@ I am a graduate of Augsburg College and the University of Minnesota Humphrey Sch
 In my free time, I enjoy swimming, lifting weights, reading, and spending time with family.
 Here I am with my niece and nephew at an Uncle Paul Day with St.
 Paul Mayor-elect Kaohly Her and State Representative Fue Lee.
+About Paul Contribute Prepared and paid for by Paul Cumings for Minnesota Senate Campaign Committee | P.O.
+Box 83, South St.
+Paul, MN 55075

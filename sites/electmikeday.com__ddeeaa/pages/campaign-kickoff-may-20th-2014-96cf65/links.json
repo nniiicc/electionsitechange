@@ -1,28 +1,110 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&t=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014",
-"http://linkedin.com/shareArticle?mini=true&title=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&description=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014",
-"http://reddit.com/submit?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&title=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014",
-"http://tumblr.com/share/link?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&name=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&description=Join+Michael+Day+for+his+campaign+kickoff%21+Wednesday%2C+May+21st%2C+2014+%7C%C2%A07%3A00-9%3A00PM+Bear+Hill+Golf+Club+2+North+Street+Stoneham%2C+MA",
-"http://vk.com/share.php?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F",
-"https://electmikeday.com/",
-"https://electmikeday.com/author/mworley",
-"https://electmikeday.com/campaign-headquarters-opening-sat-may-31st",
-"https://electmikeday.com/campaign-kickoff-may-20th-2014",
-"https://electmikeday.com/campaign-kickoff-may-20th-2014?share=facebook",
-"https://electmikeday.com/campaign-kickoff-may-20th-2014?share=twitter",
-"https://electmikeday.com/category/events",
-"https://electmikeday.com/category/news",
-"https://electmikeday.com/contact-us",
-"https://electmikeday.com/get-involved",
-"https://electmikeday.com/issues",
-"https://electmikeday.com/legislation",
-"https://electmikeday.com/michael-day",
-"https://electmikeday.com/news",
-"https://electmikeday.com/wickedlocal-com-stonehams-michael-day-run-state-representative",
-"https://google.com/maps/search?api=1&query=2+North+Street++Stoneham%2C+MA++USA",
-"https://mdwcommunications.com/political-websites-by-mdwcomm",
-"https://plus.google.com/share?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F",
-"https://secure.anedot.com/repmikeday/general-fund-cc8f069906d",
-"https://twitter.com/share?text=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&url=https%3A%2F%2Fwp.me%2Fp4wmgo-5N"
+{
+"text": "About",
+"href": "https://electmikeday.com/michael-day/"
+},
+{
+"text": "Campaign Headquarters Opening: Sat., May 31",
+"href": "https://electmikeday.com/campaign-headquarters-opening-sat-may-31st/"
+},
+{
+"text": "Click to share on Facebook (Opens in new window)",
+"href": "https://electmikeday.com/campaign-kickoff-may-20th-2014/?share=facebook"
+},
+{
+"text": "Click to share on Twitter (Opens in new window)",
+"href": "https://electmikeday.com/campaign-kickoff-may-20th-2014/?share=twitter"
+},
+{
+"text": "Contact",
+"href": "https://electmikeday.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+},
+{
+"text": "Events",
+"href": "https://electmikeday.com/category/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://electmikeday.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://electmikeday.com/issues/"
+},
+{
+"text": "Join Us For Our Campaign Kickoff: May 21st, 2014",
+"href": "https://electmikeday.com/campaign-kickoff-may-20th-2014/"
+},
+{
+"text": "Legislation",
+"href": "https://electmikeday.com/legislation/"
+},
+{
+"text": "Maps were disabled by the visitor on this site.",
+"href": "https://www.google.com/maps/search/?api=1&query=2+North+Street++Stoneham%2C+MA++USA"
+},
+{
+"text": "News",
+"href": "https://electmikeday.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://electmikeday.com/news/"
+},
+{
+"text": "Share by Mail",
+"href": "mailto:?subject=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&body=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F"
+},
+{
+"text": "Share on Facebook",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&t=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014"
+},
+{
+"text": "Share on Google+",
+"href": "https://plus.google.com/share?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F"
+},
+{
+"text": "Share on Linkedin",
+"href": "http://linkedin.com/shareArticle?mini=true&title=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F"
+},
+{
+"text": "Share on Pinterest",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&description=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&media="
+},
+{
+"text": "Share on Reddit",
+"href": "http://reddit.com/submit?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&title=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014"
+},
+{
+"text": "Share on Tumblr",
+"href": "http://www.tumblr.com/share/link?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F&name=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&description=Join+Michael+Day+for+his+campaign+kickoff%21+Wednesday%2C+May+21st%2C+2014+%7C%C2%A07%3A00-9%3A00PM+Bear+Hill+Golf+Club+2+North+Street+Stoneham%2C+MA"
+},
+{
+"text": "Share on Twitter",
+"href": "https://twitter.com/share?text=Join+Us+For+Our+Campaign+Kickoff%3A+May+21st%2C+2014&url=https%3A%2F%2Fwp.me%2Fp4wmgo-5N"
+},
+{
+"text": "Share on Vk",
+"href": "http://vk.com/share.php?url=https%3A%2F%2Felectmikeday.com%2Fcampaign-kickoff-may-20th-2014%2F"
+},
+{
+"text": "WickedLocal.com: “Stoneham’s Michael Day to run for State Represent...",
+"href": "https://electmikeday.com/wickedlocal-com-stonehams-michael-day-run-state-representative/"
+},
+{
+"text": "[image: State Representative Mike Day]",
+"href": "https://electmikeday.com/"
+},
+{
+"text": "[image]",
+"href": "https://mdwcommunications.com/political-websites-by-mdwcomm/"
+},
+{
+"text": "mworley",
+"href": "https://electmikeday.com/author/mworley/"
+}
 ]

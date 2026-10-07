@@ -1,5 +1,5 @@
-Conservative Republican for Georgia Senate District 11
-Samuel L.
+Home Issues Contact Sam More Home Issues Contact Sam Home Issues Contact Sam Conservative Republican for Georgia Senate District 11 MEET SAM ABOUT DISTRICT 11 Conservative Republican for Georgia Senate District 11 MEET SAM ABOUT DISTRICT 11 Get Involved!
+Email* Sign up MEET SAM A South Georgia Story Samuel L.
 Watson was raised on his family farm just south of Moultrie, GA.
 Like many kids that grow up on the farm, agriculture became the foundation of Sam’s identity and where he learned the value of faith and family, hard work, honesty, ingenuity, and common sense.
 Graduating from Colquitt County High School, Sam earned an Associates degree from ABAC and a Bachelor's degree from the University of Georgia majoring in Agriculture Education.
@@ -15,7 +15,6 @@ Sam is a graduate of Leadership Georgia, Leadership Colquitt, and the Georgia Ag
 He serves on the Colquitt County Farm Bureau Board of Directors, as a member of the Colquitt County Cattlemen’s Association and the Colquitt County Young Farmers.
 He is past-President of the UGA Alpha Gamma Rho Fraternity Alumni Board, member of the Georgia Agribusiness Council and the Georgia Fruit and Vegetable Growers Association.
 The Watson’s are members of Moultrie First Baptist Church where they are active in the children’s ministry and Sam serves as a Deacon.
-Georgia's State Senate District 11 is made up of Brooks, Colquitt, Cook, Decatur, Grady, Thomas, and Seminole Counties.
+About District 11 Georgia's State Senate District 11 is made up of Brooks, Colquitt, Cook, Decatur, Grady, Thomas, and Seminole Counties.
 Click below to check your voter registration status and find out if you're in District 11!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Find out more PAID FOR BY SAM WATSON FOR STATE SENATE Issues

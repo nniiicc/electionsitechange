@@ -1,13 +1,58 @@
 [
-"https://facebook.com/Senatorkenyawicks",
-"https://instagram.com/kenyaforgeorgia",
-"https://kenyaforgeorgia.com/",
-"https://kenyaforgeorgia.com/bookings",
-"https://kenyaforgeorgia.com/endorsements",
-"https://kenyaforgeorgia.com/event-list",
-"https://kenyaforgeorgia.com/get-involved",
-"https://kenyaforgeorgia.com/meet-kenya",
-"https://kenyaforgeorgia.com/platform",
-"https://secure.actblue.com/donate/kenya-wicks-for-state-senate-1",
-"https://vote.org/georgia"
+{
+"text": "BOOK KENYA",
+"href": "https://www.kenyaforgeorgia.com/bookings"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kenya-wicks-for-state-senate-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kenyaforgeorgia.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.kenyaforgeorgia.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kenyaforgeorgia.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kenyaforgeorgia.com"
+},
+{
+"text": "Kenya.Wicks@senate.ga.gov",
+"href": "mailto:kenay.wicks@sanate.ga.gov?subject=Contact"
+},
+{
+"text": "MEET KENYA",
+"href": "https://www.kenyaforgeorgia.com/meet-kenya"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.kenyaforgeorgia.com/platform"
+},
+{
+"text": "REGISTER TO VOTE!",
+"href": "https://www.vote.org/georgia/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Senatorkenyawicks"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/kenyaforgeorgia/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.vote.org/georgia/"
+},
+{
+"text": "kenyaforgeorgia",
+"href": "https://www.instagram.com/kenyaforgeorgia/"
+}
 ]

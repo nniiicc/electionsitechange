@@ -1,5 +1,4 @@
-Meet Heather
-Worker.
+Skip to content About Issues Events Vote Volunteer Contact Donate Meet Heather Worker.
 Advocate.
 Neighbor.
 Ward 5’s community is filled with renters, workers, and families trying to build a stable life in New Hampshire, I should know, I’m one of them!
@@ -26,8 +25,10 @@ We both have jobs, a place to live, food in the kitchen, and enough free time fo
 Through my volunteering with local mutual aid groups I have met many neighbors who come for help week after week because their basic needs continue to not be met, and they do not foresee the city actually stepping up to change it.
 I’m running because I know that with a working class coalition, New Hampshire can be a place where all Granite Staters can afford a secure roof over their heads, a quality public education, full coverage healthcare, and be left with enough time and stability to give back to their own communities.
 None of these things should feel like luxuries and it will be up to all of us to create a reality in which these are basic rights.
-I can not, and do not intend to do this fight alone, but I can listen, be honest, support my local community, and help put one more working class Granite Stater in the State House.
-support our campaign
-Help Heather Fight for What Manchester Needs
-Your donation pays for the real campaign stuff: flyers, signs, stamps, voter lists, event supplies, and the occasional desperate coffee.
+I can not, and do not intend to do this fight alone, but I can listen, be honest, support my local community, and help put one more working class Granite Stater in the State House. support our campaign Help Heather Fight for What Manchester Needs Your donation pays for the real campaign stuff: flyers, signs, stamps, voter lists, event supplies, and the occasional desperate coffee.
 Small donations help Heather reach more voters, have more conversations, and make Manchester’s needs harder to brush aside in Concord.
+Give 5$ Give 10$ Give 20$ Donate About Issues Events Vote Volunteer Contact Facebook Instagram Bluesky TikTok All Inquiries heatherfornh@gmail.com Headquarters 521 Merrimack St.
+Apt.
+1, Manchester, NH 03103 Paid for by Friends Of Heather Deiner , Heather Deiner chair.
+Site by Some Doing.
+About Issues Events Vote Volunteer Contact

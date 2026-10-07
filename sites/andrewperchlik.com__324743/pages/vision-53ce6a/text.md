@@ -1,14 +1,4 @@
-VISION
-“True success is reaching our potential without compromising our values.”
-- Muhammad Ali
-AS YOUR STATE SENATOR,
-I WILL continue to WORK on:
-- • Build our clean energy economy increase our energy resilency • Strengthen and support our local small businesses • Attract and support a vibrant young workforce by ensuring access to paid family leave, high quality affordable child care, and high-speed broadband for all Vermonters • Grow our agricultural and forest economies
-- • Increase affordable housing • Improve access to affordable health care • Support our most vulnerable citizens • Advocate for our rural towns • Focus on making collective progress towards prosperity
-- • Increase our passenger rail service in Vermont and connections to neighboring states and Montreal • Increase the use of on-demand and other forms of smart public transit • Accelerate to a future of electric transportation • Support smart growth and designated downtowns • Increase and improve our bike and pedestrian infrastructure
-- • Strengthening our democracy with ranked choice voting and support of local election officials • Model civil discourse and community involvement • Support students and teachers working to create greater civic awareness and involvement • Support local independent media
-MY VISION
-My campaign to be re-elected to the State Senate is not about “winning”.
+0 Skip to Content Meet Andrew Endorsements Vision News Contact Get Involved DONATE Open Menu Close Menu Meet Andrew Endorsements Vision News Contact Get Involved DONATE Open Menu Close Menu Meet Andrew Endorsements Vision News Contact Get Involved DONATE VISION “True success is reaching our potential without compromising our values.” - Muhammad Ali AS YOUR STATE SENATOR, I WILL continue to WORK on: SMART ECONOMIC DEVELOPMENT: • Build our clean energy economy increase our energy resilency • Strengthen and support our local small businesses • Attract and support a vibrant young workforce by ensuring access to paid family leave, high quality affordable child care, and high-speed broadband for all Vermonters • Grow our agricultural and forest economies ENSURING THAT VERMONT IS THE BEST PLACE TO LIVE, WORK, & RAISE A FAMILY: • Increase affordable housing • Improve access to affordable health care • Support our most vulnerable citizens • Advocate for our rural towns • Focus on making collective progress towards prosperity BUILDING A STRONGER TRANSPORTATION NETWORK: • Increase our passenger rail service in Vermont and connections to neighboring states and Montreal • Increase the use of on-demand and other forms of smart public transit • Accelerate to a future of electric transportation • Support smart growth and designated downtowns • Increase and improve our bike and pedestrian infrastructure STRENGETHENING PUBLIC ENGAGEMENT & CIVILITY • Strengthening our democracy with ranked choice voting and support of local election officials • Model civil discourse and community involvement • Support students and teachers working to create greater civic awareness and involvement • Support local independent media MY VISION My campaign to be re-elected to the State Senate is not about “winning”.
 Most importantly it is about the work I am committing to continue as your elected Senator, for the citizens of Vermont, and for our local communities.
 It is a campaign about getting elected, yes, but it is also about how we discuss politics, engage in elections, be active/engaged community members, and work together for our collective future.
 When electoral campaigns are focused on “winning” they cannot avoid being equally about losing.
@@ -23,3 +13,4 @@ My campaign will not work against their campaigns, but to communicate with the p
 I commit to actively reaching out to voters of the district during the campaign and during the legislative session if re-elected.
 I want to hear from you!
 Please fill out the contact form and let me know what issue is most important to you, your town, the Washington District, and/or for all of Vermont.
+DONATE Paid for by Vermonters To Elect Andrew Perchlik

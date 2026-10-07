@@ -1,7 +1,15 @@
-Veterans
-Delaware is home to more than 70,000 veterans whose service and sacrifice have helped protect our country and our freedoms.
+Invest in Our Mission Dontate now to support Sarah’s bold agenda that benefits workers and families. $10 $25 $100 $250 $500 Other amount Close Facebook Twitter Instagram TikTok Sarah McBride for Congress Menu Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Veterans Delaware is home to more than 70,000 veterans whose service and sacrifice have helped protect our country and our freedoms.
 We have a responsibility to ensure veterans, military families, and survivors receive the care, benefits, and support they have earned.
 In Congress, I’ll continue working across the aisle to strengthen veterans’ healthcare, improve economic security for military families, and make sure every Delaware veteran is treated with the dignity and respect they deserve.
-In Congress, I’ve:
-- Backed the Major Richard Star Act, to ensure combat-injured veterans can receive both their full military retirement pay and their disability compensation without an offset, honoring their service and sacrifice with the full benefits they have earned.
-- Cosponsored the Love Lives On Act, to ensure surviving military spouses do not lose the survivor benefits they have earned if they remarry, regardless of age, providing greater financial security for veterans’ families after the loss of a loved one.
+In Congress, I’ve: Backed the Major Richard Star Act , to ensure combat-injured veterans can receive both their full military retirement pay and their disability compensation without an offset, honoring their service and sacrifice with the full benefits they have earned.
+Cosponsored the Love Lives On Act , to ensure surviving military spouses do not lose the survivor benefits they have earned if they remarry, regardless of age, providing greater financial security for veterans’ families after the loss of a loved one.
+Additional Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Voting Rights and American Democracy Workers’ Rights & Strong Unions Get Involved Sign up here to get the latest information on the campaign and how to get involved.
+First name Email address Zip code Mobile number By providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from McBride for Delaware.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms .
+Submit Chip in today Contribute to our cause by making a donation to our campaign. $# $# $# $# $# Other amount Sarah McBride for Congress Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Follow Us: Facebook Twitter Instagram TikTok Donate By Mail McBride for Delaware P.O.
+Box 1904 Wilmington, DE 19899 Paid for by McBride for Delaware, Inc.
+Contact Privacy Policy Made with Middle Seat

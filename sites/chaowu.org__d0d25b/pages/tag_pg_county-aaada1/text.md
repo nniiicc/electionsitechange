@@ -1,0 +1,13 @@
+Dr.
+Chao Wu Maryland State Delegate, D9A Widgets Search Skip to content Menu News Update Donate Meet Delegate Chao Wu Delegate Wu Legislative Scholarship Constituent Service Delegate Wu Legislative Bills Delegate Office Hour (Meet and Greet) 2026 HoCo Candidates Search the blog Search for: Top Posts MSP Leadership and Career Development Seminar for Students High School 13 school boundary My article on HoCo election with over 3000 readers Joined HCPSS operating budget review committee 2022 HCPSS Feasibility Study FY2022 Howard County Debt Affordability Presentation (SAAC) The Flaws in the Modern Education System: How Can We Address Them?
+(By Pio Kim, May 2024) 2017 BOE budget, reply from County Executive School Board Role and Nine Questions Charter School Application (Reading Opens Doors Charter School) and Update Gallery Categories Categories Select Category African American (3) AI (1) APFO (3) Asian American (15) B: My articles (2) Baltimore Sun (5) Board Corner (1) board member report (4) BOE (108) budget (3) CAPA (9) CAPAOfHC (4) ChaoWu (837) Chinese American (4) Clarksville (19) Columbia (18) Columbia Association (201) Columbia Flier (4) Culture (4) Education (48) EnglishArticles (1) HCC (1) HCPSS (226) HCPSS audit (2) HoCo County Council (1) Howard County (206) HS13 (1) JROTC (1) MABE (1) Maryland (16) Merriweather Noise (1) NPR (1) OBRC (1) redistricting (13) RHHS (1) River Hill (78) SAAC (1) SAT (1) SisterCity (1) STEM (2) Symphony Woods (6) Tech (3) TheVillager (36) Uncategorized (6) USA (46) WisdomOfDay (2) World Language (2) Authorized by Friends to Elect Chao Wu, Treasurer: Xia Chen Visitor Cluster Search for: pg_county PG County Public School Report: Facilities for Education 6 May 2020 Chao Wu Here is a copy of PG county public school: facilities for education.
+Their average building age is 41 Years Old.
+The report itself is four years old.
+The report listed some benefits about good education facility and environment.
+I wish they provide a reference link to those data points.
+Building temperature can lower overall student performance by 0.2% in test scores for every 1 degree increase in temperature There is a 5% reduction in attention levels in poorly ventilated classrooms with too much CO2.
+Math and English scores can be improved through increased ventilation by 2.9% and 2.7% Improved lighting increased reading fluency by 36%.
+They proposed using P3 to build new schools and even for maintenance effort.
+Here is the full report: PG-Co-Education-Infastructure-Report Download capital_project pg_county Loading Comments...
+Write a Comment...
+Email Name Website

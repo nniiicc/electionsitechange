@@ -1,27 +1,134 @@
 [
-"https://facebook.com/meriamforpa",
-"https://instagram.com/meriamforpa",
-"https://meriamforpa.com/",
-"https://meriamforpa.com/about",
-"https://meriamforpa.com/accessibility",
-"https://meriamforpa.com/compare",
-"https://meriamforpa.com/endorsements",
-"https://meriamforpa.com/faq",
-"https://meriamforpa.com/issues/affordability",
-"https://meriamforpa.com/issues/data-centers",
-"https://meriamforpa.com/issues/education",
-"https://meriamforpa.com/issues/environment",
-"https://meriamforpa.com/issues/gun-safety",
-"https://meriamforpa.com/issues/healthcare-access",
-"https://meriamforpa.com/privacy",
-"https://palegis.us/house/roll-calls/summary?rcNum=1269&sessInd=0&sessYr=2025",
-"https://palegis.us/house/roll-calls/summary?rcNum=878&sessInd=0&sessYr=2025",
-"https://palegis.us/house/roll-calls/summary?rcNum=904&sessInd=0&sessYr=2025",
-"https://palegis.us/house/roll-calls/summary?rcNum=905&sessInd=0&sessYr=2025",
-"https://palegis.us/house/roll-calls/summary?rcNum=954&sessInd=0&sessYr=2025",
-"https://palegis.us/legislation/bills/2025/hb2198",
-"https://palegis.us/legislation/bills/2025/hb2359",
-"https://palegis.us/legislation/bills/2025/hb2496",
-"https://secure.actblue.com/donate/meriamforpa",
-"https://x.com/meriamsabih"
+{
+"text": "Accessibility",
+"href": "https://www.meriamforpa.com/accessibility/"
+},
+{
+"text": "Affordability",
+"href": "https://www.meriamforpa.com/issues/affordability/"
+},
+{
+"text": "Compare",
+"href": "https://www.meriamforpa.com/compare/"
+},
+{
+"text": "Compare Candidates",
+"href": "https://www.meriamforpa.com/compare/"
+},
+{
+"text": "Compare →",
+"href": "https://www.meriamforpa.com/compare/"
+},
+{
+"text": "Data Centers",
+"href": "https://www.meriamforpa.com/issues/data-centers/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/meriamforpa"
+},
+{
+"text": "Education",
+"href": "https://www.meriamforpa.com/issues/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.meriamforpa.com/endorsements/"
+},
+{
+"text": "Environment",
+"href": "https://www.meriamforpa.com/issues/environment/"
+},
+{
+"text": "FAQ",
+"href": "https://www.meriamforpa.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.meriamforpa.com/#get-involved"
+},
+{
+"text": "Gun Safety",
+"href": "https://www.meriamforpa.com/issues/gun-safety/"
+},
+{
+"text": "HB 1834",
+"href": "https://www.palegis.us/house/roll-calls/summary?rcNum=878&sessInd=0&sessYr=2025"
+},
+{
+"text": "HB 2150",
+"href": "https://www.palegis.us/house/roll-calls/summary?rcNum=904&sessInd=0&sessYr=2025"
+},
+{
+"text": "HB 2151",
+"href": "https://www.palegis.us/house/roll-calls/summary?rcNum=905&sessInd=0&sessYr=2025"
+},
+{
+"text": "HB 2198",
+"href": "https://www.palegis.us/legislation/bills/2025/hb2198"
+},
+{
+"text": "HB 2246",
+"href": "https://www.palegis.us/house/roll-calls/summary?rcNum=954&sessInd=0&sessYr=2025"
+},
+{
+"text": "HB 2359",
+"href": "https://www.palegis.us/legislation/bills/2025/hb2359"
+},
+{
+"text": "HB 2496",
+"href": "https://www.palegis.us/legislation/bills/2025/hb2496"
+},
+{
+"text": "HB 2650",
+"href": "https://www.palegis.us/house/roll-calls/summary?rcNum=1269&sessInd=0&sessYr=2025"
+},
+{
+"text": "Healthcare Access",
+"href": "https://www.meriamforpa.com/issues/healthcare-access/"
+},
+{
+"text": "Home",
+"href": "https://www.meriamforpa.com/"
+},
+{
+"text": "Meet Meriam",
+"href": "https://www.meriamforpa.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.meriamforpa.com/privacy/"
+},
+{
+"text": "See all endorsements →",
+"href": "https://www.meriamforpa.com/endorsements/"
+},
+{
+"text": "Vote",
+"href": "https://www.meriamforpa.com/#vote"
+},
+{
+"text": "[image: Meriam Sabih for PA House District 131]",
+"href": "https://www.meriamforpa.com/"
+},
+{
+"text": "[image: Meriam Sabih for Pennsylvania House District 131]",
+"href": "https://www.meriamforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/meriamforpa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/meriamforpa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/meriamsabih"
+},
+{
+"text": "contact@meriamforpa.com",
+"href": "mailto:contact@meriamforpa.com"
+}
 ]

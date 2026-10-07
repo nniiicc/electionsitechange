@@ -1,7 +1,9 @@
 {
  "description": "Review bills submitted by Rep. John \"Jack\" Ducharme in the Maine 130th Legislature",
  "final_url": "https://jackducharme.net/legislation/",
- "paid_for_by": null,
+ "fingerprint": "184e24e8192317f2f3151bc1051e1c3ba2706129",
+ "format": 3,
+ "paid_for_by": "sponsored by Representatives: CARMICHAEL of Greenbush, GRIGNON of Athens, O’CONNOR of Berwick, POIRIER of Skowhegan, ROCHE of Wells, Senator: FARRIN of Somerset",
  "title": "Legislation - John \"Jack\" Ducharme",
  "years_mentioned": [
   "2021",

@@ -1,8 +1,8 @@
-Teamsters Local Union 687 announces that it is proud and honored to endorse Scott Gray for the 116th River District seat.
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate Teamsters Local 687 Endorses Scott Gray October 27, 2022 by admin Teamsters Local Union 687 announces that it is proud and honored to endorse Scott Gray for the 116th River District seat.
 Teamsters are the backbone and drivers of our economy.
 They are the champion of drivers and warehouse workers and they are professionals who you will find performing in both private and public sector employment.
 Scott is focused on representing everyone and Teamsters recognizes that effort in their endorsement saying “it is pleasing to know that a person of your high moral character and hometown values is placing themselves in public service on behalf of the little guy.
 Scott will hold that statement close, understanding the “little guy” is what makes our communities so valuable and never lose sight of who you serve and why.
 The Teamsters endorsement accompanies the many other endorsements during the general election cycle including NYSUT, PEF, IBEW 910 & 2032, Central Trades AFL-CIO, NRA and NYLCV.
 Also Assembly Minority Leader Will Barclay, Sheriff Colleen O’Neill, Senator Patty Ritchie, Senator James Wright (Ret), Assemblymen Ken Blankenbush and Robert Smullen, Tom Homan.
-###
+### Category: News Previous Post: Assembly Minority Leader Will Barclay Endorses Scott Gray Next Post: National Federation of Independent Business (NFIB) Endorses Scott Gray Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

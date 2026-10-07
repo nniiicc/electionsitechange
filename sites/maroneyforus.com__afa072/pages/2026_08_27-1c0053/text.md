@@ -1,6 +1,1 @@
-Senator Maroney featured in national coverage as a leading architect of state AI and privacy policy
-Read More News
-Governor Lamont signs Maroney-authored youth online safety protections into law
-Read More News
-Connecticut Senate passes Maroney’s data broker “right to delete” bill in 31–4 bipartisan vote — CT Mirror
-Read More News
+maroneyforus.com United States james@maroneyforus.com Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Events Day: August 27, 2026 Senator Maroney featured in national coverage as a leading architect of state AI and privacy policy Read More News Governor Lamont signs Maroney-authored youth online safety protections into law Read More News Connecticut Senate passes Maroney’s data broker “right to delete” bill in 31–4 bipartisan vote — CT Mirror Read More News About Me James Maroney for State Senate Proudly serving Milford, Orange, West Haven, and Woodbridge Quick Links Meet James Results Issues News Volunteer Get In Touch + 1 (203) 214 9133 james@maroneyforus.com United States Maroney For Us! © All Rights Reserved.

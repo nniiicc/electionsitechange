@@ -1,4 +1,4 @@
-Lieutenant Governor Scott Bedke is a pro-life, pro-gun, and limited government constitutional conservative who is committed to maintaining the Idaho way in our state and ensuring Idaho remains a place of outstanding opportunity for generations to come.
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate About Lieutenant Governor Scott Bedke is a pro-life, pro-gun, and limited government constitutional conservative who is committed to maintaining the Idaho way in our state and ensuring Idaho remains a place of outstanding opportunity for generations to come.
 Bedke is a proud Idahoan.
 His Gem State heritage stretches back to the 1870s, when his great grandfather homesteaded in the Oakley Basin, beginning his family ranching tradition.
 Bedke was born in Twin Falls and graduated from Oakley High School.
@@ -14,7 +14,15 @@ He has worked with multiple Governors to cut taxes, eliminate red tape, invest i
 He has negotiated and settled long-standing water disputes.
 He continues to fight against federal government interference and to protect Idaho’s conservative values and our way of life.
 Bedke has also served as the president of Idaho Cattle Association and the director of the National Cattlemen’s Beef Association, advocating for ranchers and the vitally important work they do.
-Scott and his wife of 44 years, Sarah, still operate the family cattle ranch started by his great grandfather nearly 140 years ago.
+Scott and his wife of 44 years, Sarah, still operate the family cattle ranch started by his great grandfather nearly #ago.
 They have four children and 16 grandkids, which represent the fifth and sixth generations of Bedkes in Idaho.
 They are part of the reason why Bedke is running for Lt.
 Governor – to protect and defend Idaho’s future for all Idahoans and to give back to the state that has given his family so very much.
+Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

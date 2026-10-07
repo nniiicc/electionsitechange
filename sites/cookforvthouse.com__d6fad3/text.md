@@ -1,11 +1,6 @@
-top of page
-Anthony Cook
-State Representative Bennington District 2
-" The democratic majority in Montpeller has give us taxes, taxes and more taxes.
-Economics 101 you don't fight inflation by raising taxes"
-Anthony Cook
-Why I am running
-I am a Bennington native born in 1967.
+top of page Anthony Cook HOME MEET ANTHONY ENDORSEMENTS ISSUES Dropdown More Use tab to navigate through the menu items.
+Log In DONATE Anthony Cook State Representative Bennington District 2 ​ ​ ​ " The democratic majority in Montpeller has give us taxes, taxes and more taxes.
+Economics 101 you don't fight inflation by raising taxes" Anthony Cook Why I am running I am a Bennington native born in 1967.
 For most of the past 45 years I have lived in North Bennington.
 Three generations of my family have lived in Bennington County.
 Bennington District .2 are my people.
@@ -32,15 +27,10 @@ Streamline also means fewer authoritarian rules and regulations that prohibit pr
 Act 250 reform or repeal is much needed.
 Property rights must be protected, fully repeal Act 181.
 Crime is falling nationally but in Vermont we must support are police, prosecutors must prosecute, and we must have laws that keep violent criminals off the streets, because repeat offenders have many victims.
-As a state rep I look forward to fighting the fight to make Vermont a safe place to live, the way it should be.
-" Government of the people, by the people, for the people.
-" (Abraham Lincoln, Gettysburg address)
-A big goal of mine is to grow the republican party in Bennington County.
+As a state rep I look forward to fighting the fight to make Vermont a safe place to live, the way it should be. " Government of the people, by the people, for the people. " (Abraham Lincoln, Gettysburg address) A big goal of mine is to grow the republican party in Bennington County.
 When I was younger, I volunteered a few election cycles at the Bennington campaign headquarters, years later I am a candidate myself.
 I can think of a few people I know young and old that might make good political candidates.
 Volunteering is a great way to learn the ropes.
-Regardless it is rewarding to get involved, make a difference, and experience local American politics.
-cookforvthouse.com
-JOIN THE CONVERSATION:
-Powered and secured by Wix
-bottom of page
+Regardless it is rewarding to get involved, make a difference, and experience local American politics. cookforvthouse.com JOIN THE CAMPAIGN TODAY CALL: 802-733-5421 HOME MEET ANTHONY ENDORSEMENTS ISSUES Dropdown More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Terms & Conditions Privacy Policy Accessibility Statement © # by Sandra Booker.
+Powered and secured by Wix bottom of page

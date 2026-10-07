@@ -1,4 +1,4 @@
-I asked Mom to come to town so we could take her out for her birthday (she’ll be upset at me sharing she’s 79) and she offered to take time to help me knock on doors around the community!
+Skip to content Nathan Ballentine People, not Politics About Issues Nathan’s News Get Involved Contact Donate September 21, 2026 Mom on the Campaign Trail (video) I asked Mom to come to town so we could take her out for her birthday (she’ll be upset at me sharing she’s 79) and she offered to take time to help me knock on doors around the community!
 She would do anything for her only son and I’ve been blessed beyond measure to be raised by her and my Dad.
 They were together 60+ years before my Dad passed away earlier this year.
 I miss my hero but it’s good for Mom and I to talk about him often!
@@ -21,3 +21,12 @@ Early voting starts October 19th at Ballentine Park (Richland County residents) 
 Asking for your prayers, support and vote again!
 Thank you for the kind emails, messages and words when I’m at your doorstep.
 I love serving and with your help, I can continue in November!
+Share Post navigation 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Ahead of schedule, eyesore removed (video) Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign signs are going up!
+Let me know where to deliver yours!
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Dominion Energy to begin Lake Murray draw down this fall Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms: https://nathansnews.com/privacy-policy/ Submit Δ Contact Nathan’s News Privacy Policy Donate Paid for by Nathan Ballentine, SC House of Representatives Powered By Push Digital wpDiscuz Insert Search for: Search Button

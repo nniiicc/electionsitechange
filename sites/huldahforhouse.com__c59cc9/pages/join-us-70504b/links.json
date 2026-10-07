@@ -1,20 +1,78 @@
 [
-"http://huldahforhouse.com/",
-"https://facebook.com/hhiltsley",
-"https://forms.gle/UnJXSaRGKgLJpZrw6",
-"https://forms.gle/khin7MUoofb3PyFW7",
-"https://huldahforhouse.com/",
-"https://huldahforhouse.com/about",
-"https://huldahforhouse.com/donate",
-"https://huldahforhouse.com/endorsements",
-"https://huldahforhouse.com/issues",
-"https://huldahforhouse.com/join-us",
-"https://huldahforhouse.com/platform",
-"https://huldahforhouse.com/vote",
-"https://instagram.com/huldahforhouse",
-"https://secure.actblue.com/donate/huldah-hiltsley-1",
-"https://secure.actblue.com/donate/huldah4house",
-"https://sos.state.mn.us/elections-voting/register-to-vote",
-"https://tiktok.com/@huldahforHouse",
-"https://twitter.com/HuldahforHouse"
+{
+"text": "ABOUT",
+"href": "https://www.huldahforhouse.com/about"
+},
+{
+"text": "AT THE MN HOUSE",
+"href": "https://www.huldahforhouse.com/issues"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/huldah-hiltsley-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/huldah4house"
+},
+{
+"text": "DONATE",
+"href": "https://www.huldahforhouse.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.huldahforhouse.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.huldahforhouse.com"
+},
+{
+"text": "HOST EVENT",
+"href": "https://forms.gle/khin7MUoofb3PyFW7"
+},
+{
+"text": "JOIN US",
+"href": "https://www.huldahforhouse.com/join-us"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.huldahforhouse.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.sos.state.mn.us/elections-voting/register-to-vote/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/UnJXSaRGKgLJpZrw6"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.huldahforhouse.com/vote"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/hhiltsley/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/huldahforhouse/"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@huldahforHouse"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "https://twitter.com/HuldahforHouse"
+},
+{
+"text": "huldahforhouse@gmail.com",
+"href": "mailto:huldahforhouse@gmail.com"
+},
+{
+"text": "www.HuldahforHouse.com",
+"href": "http://www.huldahforhouse.com"
+}
 ]

@@ -1,15 +1,62 @@
 [
-"https://bcom.solutions/",
-"https://pattyfornebraska.com/",
-"https://pattyfornebraska.com/about",
-"https://pattyfornebraska.com/facebook",
-"https://pattyfornebraska.com/instagram",
-"https://pattyfornebraska.com/volunteer",
-"https://pattyfornebraska.com/x",
-"https://secure.actblue.com/donate/ppb-website",
-"https://secure.actblue.com/donate/ppb-website&amount=100",
-"https://secure.actblue.com/donate/ppb-website&amount=25",
-"https://secure.actblue.com/donate/ppb-website&amount=250",
-"https://secure.actblue.com/donate/ppb-website&amount=50",
-"https://secure.actblue.com/donate/ppb-website&amount=500"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ppb-website&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ppb-website&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/ppb-website&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/ppb-website&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/ppb-website&amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ppb-website"
+},
+{
+"text": "Facebook",
+"href": "https://pattyfornebraska.com/facebook/"
+},
+{
+"text": "Instagram",
+"href": "https://pattyfornebraska.com/instagram/"
+},
+{
+"text": "Meet Patty",
+"href": "https://pattyfornebraska.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ppb-website"
+},
+{
+"text": "Read More",
+"href": "https://pattyfornebraska.com/about/"
+},
+{
+"text": "Volunteer",
+"href": "https://pattyfornebraska.com/volunteer/"
+},
+{
+"text": "Website Built by BCom",
+"href": "https://bcom.solutions"
+},
+{
+"text": "X-twitter",
+"href": "https://pattyfornebraska.com/x"
+},
+{
+"text": "[image]",
+"href": "https://pattyfornebraska.com"
+}
 ]

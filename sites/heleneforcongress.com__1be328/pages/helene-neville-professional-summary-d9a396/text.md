@@ -1,137 +1,41 @@
-HELENE NEVILLE PROFESSIONAL SUMMARY
-“HOPE HAS NO FINISH LINE” ~ HELENE NEVILLE
-Nurse / Public Health Professional / Federal & State Community Health Consultant / Health Advocate /Author / National Speaker / Entrepreneur / Endurance Athlete / High School Coach / High School Basketball Official
-Helene Neville is a nurse with 42 years of clinical and public health experience across eight states, spanning hospitals, disaster response, environmental health, communicable disease, Tribal health, correctional health, rural medicine, and federal grant administration.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home HELENE NEVILLE PROFESSIONAL SUMMARY “HOPE HAS NO FINISH LINE” ~ HELENE NEVILLE Nurse / Public Health Professional / Federal & State Community Health Consultant / Health Advocate /Author / National Speaker / Entrepreneur / Endurance Athlete / High School Coach / High School Basketball Official Helene Neville is a nurse with 42 years of clinical and public health experience across eight states, spanning hospitals, disaster response, environmental health, communicable disease, Tribal health, correctional health, rural medicine, and federal grant administration.
 She is an award-winning author, nationally recognized speaker, entrepreneur, humanitarian, professional endurance athlete, and Stage IV non-Hodgkin's lymphoma survivor.
 Her four-decade career has focused on improving health, inspiring resilience, and strengthening community engagement through leadership, experience, and service.
-AWARD-WINNING PUBLISHED AUTHOR
-Author of seven books, including the upcoming 2026 release "Mission Remission," which tells the story of a journey in Bismarck, North Dakota, from a terminal Stage IV lymphoma diagnosis to remission and a renewed dedication to helping others through hope, healthcare, and humanitarian efforts.
-- Mission Remission - Cancer, hope, and survival (2026)
-- How's That Working for You? - Personal growth and reflection (2026)
-- Nurses In Shape (Second Edition) - Nursing, health, and wellness (2026)
-- Rethink Impossible - Mindset, resilience, and possibility (2024)
-- One On The Run: Border to Border - Endurance, humanitarian service, and adventure (2014)
-- One On The Run: 93 Days Across America - Endurance, humanitarian service, and adventure (2012)
-- Nurses In Shape – The Right Dose - Nursing, health, and wellness (2010)
-FEDERAL & STATE PUBLIC HEALTH LEADERSHIP
-Iowa Department of Public Health — Community Health Consultant & Environmental Health Educator | 10 Years | (1993-2003)
-Public Health & Federal Leadership Experience
-For ten years, I served at the State Department of Health as a Community Health Consultant, collaborating directly with federal, state, and local partners to protect and improve public health and environmental health, support Superfund initiatives, advance communicable disease prevention and surveillance, strengthen disaster response and recovery, expand community health education, ensure regulatory compliance, and support federally supported public health programs.
-FEMA, CDC, ATSDR/EPA, DOD, the Big Tobacco Settlement, and Tattoo Compliance.
-- Federal Emergency Management Agency (FEMA) – Public health response and communicable disease surveillance following the historic 1992 Iowa Flood.
+AWARD-WINNING PUBLISHED AUTHOR Author of seven books, including the upcoming 2026 release "Mission Remission," which tells the story of a journey in Bismarck, North Dakota, from a terminal Stage IV lymphoma diagnosis to remission and a renewed dedication to helping others through hope, healthcare, and humanitarian efforts.
+Mission Remission - Cancer, hope, and survival (2026) How's That Working for You? - Personal growth and reflection (2026) Nurses In Shape (Second Edition) - Nursing, health, and wellness (2026) Rethink Impossible - Mindset, resilience, and possibility (2024) One On The Run : Border to Border - Endurance, humanitarian service, and adventure (2014) One On The Run : 93 Days Across America - Endurance, humanitarian service, and adventure (2012) Nurses In Shape – The Right Dose - Nursing, health, and wellness (2010) FEDERAL & STATE PUBLIC HEALTH LEADERSHIP Iowa Department of Public Health — Community Health Consultant & Environmental Health Educator | 10 Years | (1993-2003) Public Health & Federal Leadership Experience For ten years, I served at the State Department of Health as a Community Health Consultant, collaborating directly with federal, state, and local partners to protect and improve public health and environmental health, support Superfund initiatives, advance communicable disease prevention and surveillance, strengthen disaster response and recovery, expand community health education, ensure regulatory compliance, and support federally supported public health programs.
+FEMA, CDC, ATSDR/EPA, DOD, the Big Tobacco Settlement, and Tattoo Compliance .
+Federal Emergency Management Agency (FEMA) – Public health response and communicable disease surveillance following the historic 1992 Iowa Flood.
 I led post-disaster public health follow-up during the historic 1993 Iowa Flood.
 I conducted site visits, delivered statewide lectures to emergency rooms, local health departments, and laboratories on communicable disease prevention, and prepared comprehensive reports covering all 99 counties in Iowa.
-(1993-1994)
-- The Centers for Disease Control and Prevention (CDC) – State Health Educator for HIV/AIDS and sexually transmitted disease prevention, education, and reportable disease surveillance across Iowa's 99 counties, labs, and local health departments (1993-1995)
-- Agency for Toxic Substances and Disease Registry (ATSDR) / Environmental Protection Agency (EPA) – Environmental Health Educator for Superfund and hazardous waste remediation sites.
+(1993-1994) The Centers for Disease Control and Prevention (CDC) – State Health Educator for HIV/AIDS and sexually transmitted disease prevention, education, and reportable disease surveillance across Iowa's 99 counties, labs, and local health departments (1993-1995) Agency for Toxic Substances and Disease Registry (ATSDR) / Environmental Protection Agency (EPA) – Environmental Health Educator for Superfund and hazardous waste remediation sites.
 Conducted community outreach and environmental health education to help communities understand toxic exposure risks and public safety protections related to soil, water, and air contamination.
-(1995-1998)
-- Department of Defense (DOD) – Project Liaison for the Persian Gulf War Illness Study, working to address complex health concerns affecting American veterans.
-(1998)
-- Big Tobacco Settlement – Community health education and tobacco cessation initiatives across 99 Iowa counties.
+(1995-1998) D epartment of Defense (DOD) – Project Liaison for the Persian Gulf War Illness Study, working to address complex health concerns affecting American veterans.
+(1998) Big Tobacco Settlement – Community health education and tobacco cessation initiatives across 99 Iowa counties.
 Following the national Big Tobacco Settlement, I helped determine the statewide allocation of tobacco cessation funds—advancing prevention efforts through education, public policy, and community outreach.
-(2000-2001)
-- State Tattoo Compliance Officer – Developed body piercing guidelines and protocols for infection control, exposure pathways, and public safety.
+(2000-2001) State Tattoo Compliance Officer – Developed body piercing guidelines and protocols for infection control, exposure pathways, and public safety.
 Conducted inspections of body art establishments to ensure adherence to infection control standards and public safety regulations, while establishing statewide body piercing standards.
-(2000-2001)
-PUBLIC HEALTH CERTIFICATIONS
-- She holds ten specialized certifications that reflect decades of sustained professional excellence and regulatory expertise in environmental health, epidemiology, toxicology, communicable diseases, exposure investigations, and public health risk assessment.
-(1993-2001)
-- Recognized by CDC and FEMA for exemplary surveillance during the post-flood period, educating 99 counties under the projected one-year timeline.
-(1993)
-ENTREPRENEUR & FOUNDER
-- Founder, National Nurses Half Marathon & Healthy Nurse Conference (2013-)
-- Founder, Rethink Impossible movement (2010-)
-- Founder, One On The Run | Humanitarian Endurance Athlete (2009-)
-- New Business Start-Up Coach (2000-2006)
-- Founder, Des Moines Marathon (Sold the company in 2005)
-- Founder, Well-Fit, LLC (Sold the company in 2005)
-NATIONAL RECOGNITION & IMPACT
-Over the past four decades, Helene Neville has earned national and international recognition for her leadership in nursing, federal public health service, endurance athletics, business development. community service, and motivational speaking.
+(2000-2001) PUBLIC HEALTH CERTIFICATIONS She holds ten specialized certifications that reflect decades of sustained professional excellence and regulatory expertise in environmental health, epidemiology, toxicology, communicable diseases, exposure investigations, and public health risk assessment.
+(1993-2001) Recognized by CDC and FEMA for exemplary surveillance during the post-flood period, educating 99 counties under the projected one-year timeline.
+(1993) ENTREPRENEUR & FOUNDER Founder, National Nurses Half Marathon & Healthy Nurse Conference (2013-) Founder, Rethink Impossible movement (2010-) Founder, One On The Run | Humanitarian Endurance Athlete (2009-) New Business Start-Up Coach (2000-2006) Founder, Des Moines Marathon (Sold the company in 2005) Founder, Well-Fit, LLC (Sold the company in 2005) NATIONAL RECOGNITION & IMPACT Over the past four decades, Helene Neville has earned national and international recognition for her leadership in nursing, federal public health service, endurance athletics, business development. community service, and motivational speaking.
 Her work has inspired audiences across the United States and beyond.
-NATIONAL LEADERSHIP
-- Invited by the Speaker's Office of the U.S.
+NATIONAL LEADERSHIP Invited by the Speaker's Office of the U.S.
 House of Representatives to present research and community health outreach following the publication of Nurses In Shape during national healthcare policy discussions surrounding the Affordable Care Act.
-(2010)
-- TEDx Speaker – Phoenix, Arizona.
-(2010)
-PROFESSIONAL RECOGNITION
-- Featured in the documentary The Human Race, by Liz Vassey (2018)
-- Named one of Nevada's 100 Distinguished Women (2013)
-- Founding Director of the National Nurses Half Marathon & Healthy Nurse Conference (2013)
-- Recognized as Nevada's Top Running Event by FlipKey (2013)
-- Runner's World Golden Shoe Award (2002)
-- Finalist for the Iowa Star Award (2002)
-- Governor’s Community Service Recognition (2000)
-NATIONAL SPEAKER
-- National Speakers Association, Las Vegas.
-(2013-2015)
-- Delivered 312 keynote presentations at universities, colleges, elementary schools, hospitals, cancer centers, conferences, businesses, professional associations, and community organizations throughout the United States and Canada.
+(2010) TEDx Speaker – Phoenix, Arizona.
+(2010) PROFESSIONAL RECOGNITION Featured in the documentary The Human Race , by Liz Vassey (2018) Named one of Nevada's 100 Distinguished Women (2013) Founding Director of the National Nurses Half Marathon & Healthy Nurse Conference (2013) Recognized as Nevada's Top Running Event by FlipKey (2013) Runner's World Golden Shoe Award (2002) Finalist for the Iowa Star Award (2002) Governor’s Community Service Recognition (2000) NATIONAL SPEAKER National Speakers Association, Las Vegas.
+(2013-2015) Delivered 312 keynote presentations at universities, colleges, elementary schools, hospitals, cancer centers, conferences, businesses, professional associations, and community organizations throughout the United States and Canada.
 (Nursing, public health, resilience, leadership, hope, cancer survivorship, and endurance).
-COMMUNITY SERVICE AWARDS
-Recipient of Six Keys to the City:
-- Las Vegas, Nevada (2017)
-- Killington, Vermont (2015)
-- Oceans Shores, Washington (2015)
-- Las Cruces, New Mexico (2010)
-- Phoenix, Arizona (2010)
-- Des Moines, Iowa (2000)
-STATE HONORS
-- Received state proclamations, official state pins, or gubernatorial recognition from:
-- Ohio (2015)
-- Oregon (2013)
-- Nevada (2013)
-- Arizona (2012)
-- New Mexico (2010)
-- Iowa (2000)
-- Iowa (1998)
-INTERNATIONAL HONOR Certificate of Recognition, Manitoba, Canada, honoring courage, perseverance, and spirit of hope, embodying the enduring legacy of Terry Fox (2025)
-- International Public Policy Meeting, Manitoba, Canada — Invited to meet with Malaya Marcelino, Manitoba Minister of Labour and Immigration, for an extended discussion on labor, immigration, workforce issues, and related public policy while completing my endurance journey across Canada.
-(2025)
-NATIONAL HONOR
-- Recipient of a Flag for Hope Star (Star No. 12).
+COMMUNITY SERVICE AWARDS Recipient of Six Keys to the City: Las Vegas, Nevada (2017) Killington, Vermont (2015) Oceans Shores, Washington (2015) Las Cruces, New Mexico (2010) Phoenix, Arizona (2010) Des Moines, Iowa (2000) STATE HONORS Received state proclamations, official state pins, or gubernatorial recognition from: Ohio (2015) Oregon (2013) Nevada (2013) Arizona (2012) New Mexico (2010) Iowa (2000) Iowa (1998) INTERNATIONAL HONOR Certificate of Recognition, Manitoba, Canada, honoring courage, perseverance, and spirit of hope, embodying the enduring legacy of Terry Fox (2025) International Public Policy Meeting, Manitoba, Canada — Invited to meet with Malaya Marcelino, Manitoba Minister of Labour and Immigration , for an extended discussion on labor, immigration, workforce issues, and related public policy while completing my endurance journey across Canada.
+(2025) NATIONAL HONOR Recipient of a Flag for Hope Star (Star No.
+12).
 The 50 stars were selected for inspiring, empowering, or encouraging Americans to do something extraordinary.
 They include Medal of Honor recipients, military heroes, Presidential Medal of Freedom recipients, gold medal Olympians, Nobel Peace Prize winners, social icons, Hall of Fame athletes, music legends, philanthropists, and major business leaders.
 Fellow honorees include Billie Jean King, Justice Sandra Day O'Connor, Carlos Santana, Senator John McCain, Muhammad Ali, Jack Nicklaus, Bonnie Blair, Major General James Livingston, and General Colin Powell.
-(2015)
-NATIONAL & INTERNATIONAL MEDIA
-Helene's story has been featured by numerous media outlets, including:
-- Thunder Bay, Ontario (2025)
-- The Today Show (2020)
-- People Magazine (2013, 2020)
-- The Human Race Documentary (2017)
-- Outside Magazine (2015)
-- ABC News (2015)
-- Prevention Magazine (2015)
-- Health Leaders Magazine (2013)
-- The New York Times (2012, 2013)
-- London, England (2016)...and a host of others.
-VOLUNTEER SERVICE
-Iowa Department of the Blind — Fitness Coach 1998-2005
-University of Iowa Bone Marrow Registry Program (1998)
-YMCA of Des Moines — Coach (1990-1993)
-Iowa Special Olympics — Coach (1989)
-Cerebral Palsy Association — Coach (1998-2013)
-American Red Cross — Volunteer (1993)
-Arizona Women's Homeless Shelter — Volunteer Health Instructor (2010-2015)
-WHY THIS MATTERS IN CONGRESS
-I understand how federal policy becomes real in local communities.
-I have:
-- Protected veterans (1997-)
-- Disaster response tested (1993, 2020)
-- Environmental health knowledge (1995-2000)
-- Worked across federal and state agencies (1993-2002)
-- Enforced regulations (1993-2001)
-- Held industries accountable (1993-2001)
-- Protected small businesses and consumers alike
-- Regulatory literate
-- Veteran advocate
-- Anti-corporate public health defender (Big Tobacco)
-- Enforcement-capable, not just policy-theoretical
-"That’s congressional-level credibility.
+(2015) NATIONAL & INTERNATIONAL MEDIA Helene's story has been featured by numerous media outlets, including: Thunder Bay, Ontario (2025) The Today Show (2020) People Magazine (2013, 2020) The Human Race Documentary (2017) Outside Magazine (2015) ABC News (2015) Prevention Magazine (2015) Health Leaders Magazine (2013) The New York Times (2012, 2013) London, England (2016) ...and a host of others.
+VOLUNTEER SERVICE Iowa Department of the Blind — Fitness Coach 1998-2005 University of Iowa Bone Marrow Registry Program (1998) YMCA of Des Moines — Coach (1990-1993) Iowa Special Olympics — Coach (1989) Cerebral Palsy Association — Coach (1998-2013) American Red Cross — Volunteer (1993) Arizona Women's Homeless Shelter — Volunteer Health Instructor (2010-2015) WHY THIS MATTERS IN CONGRESS I understand how federal policy becomes real in local communities.
+I have: Protected veterans (1997-) Disaster response tested (1993, 2020) Environmental health knowledge (1995-2000) Worked across federal and state agencies (1993-2002) Enforced regulations (1993-2001) Held industries accountable (1993-2001) Protected small businesses and consumers alike Regulatory literate Veteran advocate Anti-corporate public health defender (Big Tobacco) Enforcement-capable, not just policy-theoretical "That’s congressional-level credibility.
 I know how government works.
 I know how to make it work for people.
 In Congress, I will do exactly that.
 People don’t need more noise from Washington.
 They need genuine representation—leaders who understand how policy lands not on paper but in real kitchens, bank accounts, and bodies.
-What I bring to this race is lived leadership."
+What I bring to this race is lived leadership." Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

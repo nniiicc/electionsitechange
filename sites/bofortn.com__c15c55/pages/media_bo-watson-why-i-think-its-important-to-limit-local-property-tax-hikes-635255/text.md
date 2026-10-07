@@ -1,5 +1,6 @@
-Bo Watson: Why I think it’s important to limit local property tax hikes
-The property tax is one of the oldest forms of taxation in Tennessee.
-So much so that it has become somewhat of a "sacred cow" to our local governments and to the tax-and-spend liberals like Ben Sessoms ("Bo Watson's I got-mine, you get yours economy," Times 02/03).
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Bo Watson: Why I think it’s important to limit local property tax hikes Feb 10 Written By Waterhouse PR The property tax is one of the oldest forms of taxation in Tennessee.
+So much so that it has become somewhat of a "sacred cow" to our local governments and to the tax-and-spend liberals like Ben Sessoms (" Bo Watson's I got-mine, you get yours economy ," Times 02/03).
 To even consider limiting the tax burden placed on our taxpaying citizens is seen as "nonsense" by the likes of Mr.
 Sessoms.
+READ THE FULL ARTICLE Waterhouse PR Previous Previous Ground broken on $10M 8,500-square-foot event center at Booker T.
+Washington State Park Next Next New Direct Flight from Chattanooga to Denver Launched by United Airlines Bo for Tennessee About Priorities Media Contact

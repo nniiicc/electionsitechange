@@ -1,13 +1,6 @@
-top of page
-Come Canvass with Us!
-RSVP for dates or fill out form to sign up!
-|West Seattle
-Join us every Saturday and Wednesday to knock doors!
+top of page State Representative 34th District Position 2 - Democrat Donate About Mary Why Mary Get Involved Events Come Canvass with Us!
+RSVP for dates or fill out form to sign up! | West Seattle Join us every Saturday and Wednesday to knock doors!
 No experience needed, we will provide all training and materials.
-Time & Location
-RSVP for dates or fill out form to sign up!
-West Seattle, West Seattle, Seattle, WA, USA
-About the event
-We will be doorbelling every Saturday and Wednesday!
-Sign up HERE
-bottom of page
+RSVP Time & Location RSVP for dates or fill out form to sign up!
+West Seattle, West Seattle, Seattle, WA, USA About the event We will be doorbelling every Saturday and Wednesday!
+Sign up HERE Show More RSVP Share this event Mary for WA Democrat for the 34th Building a Better Future First and Last name Email * Yes, subscribe me to your newsletter. * Submit Paid for by Mary for WA maryforseattle@gmail.com Privacy Policy Accessibility Statement Terms and Conditions PO Box 46572 Seattle, WA 98146 © # by Mary Anito Powered and secured by Wix Professional photos by Chi K Photography Endorsed and Recognized by: bottom of page

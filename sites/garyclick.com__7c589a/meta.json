@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Gary Click for State Representative",
  "final_url": "https://www.garyclick.com/",
- "paid_for_by": null,
+ "fingerprint": "8ba911a85f6eb06203514104da390b9f62120015",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Click for State Rep!",
  "years_mentioned": [
   "2021"

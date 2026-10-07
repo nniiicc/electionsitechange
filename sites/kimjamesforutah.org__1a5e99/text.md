@@ -1,4 +1,3 @@
-Vote Kim James for Faithful Leadership
-Utah needs leaders who will faithfully represent its people.
-Our current leaders are dismantling our democracy.
-We must act now to fight for affordability, environmental health, and a government that respects the will of the people.
+KIM JAMES FOR UTAH HOUSE DISTRICT 8 HOME ABOUT KIM About Kim James Kim's Perspectives Kim's Opposition HD8 MAP DONATE VOLUNTEER & CONTACT Volunteer & Vote Contact Us Vote Kim James for Faithful Leadership Utah needs leaders who will faithfully represent its people.
+Our current leaders are dismantling our democracy. ​We must act now to fight for affordability, environmental health, and a government that respects the will of the people.
+More than uno videos hd 8 map About Kim James Kim's perspectives donate VOLUNTEER & VOTE contact form Proudly powered by Weebly HOME ABOUT KIM About Kim James Kim's Perspectives Kim's Opposition HD8 MAP DONATE VOLUNTEER & CONTACT Volunteer & Vote Contact Us

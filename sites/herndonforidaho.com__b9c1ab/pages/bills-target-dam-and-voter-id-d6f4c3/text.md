@@ -1,4 +1,5 @@
-Policy Bills target outlet dam, budgets and voter ID.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Bills target dam and Voter ID Mar 12, 2023 | Herndon's Editorial , Policy Analysis Policy Bills target outlet dam, budgets and voter ID.
 An Idaho legislative session is really dictated by the budget-setting process, and policy bills happen in between and as budget-setting proceeds.
 The current session has about two more weeks because there remains only one more set of significant budgets.
 Those are the budgets for the public schools, which we are scheduled to determine this Tuesday.
@@ -32,4 +33,6 @@ All Senate Republicans voted for this common-sense election integrity bill.
 I will be presenting my SB1153 in the Senate Education Committee on Monday to create teacher spending accounts that will put state-appropriated monies directly into the hands of public school teachers for use on expenses they incur out-of-pocket every year to supply their classrooms with basic educational materials.
 Finally, in the next two weeks, we will consider $355 million of property tax relief with HB292.
 If you have any questions or input, I welcome your emails at sherndon@senate.idaho.gov.
-To be added to my email newsletter, please click here.
+To be added to my email newsletter, please click here .
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

@@ -1,5 +1,4 @@
-Fully Fund Public Education
-Texas is not broke.
+Follow Follow Follow Home About About Sara Why am I running Issues Public Education Cost of Living Healthcare Property Tax Relief Legalize Cannabis Campaign Finance Reform Store Fully Fund Public Education Texas is not broke.
 Our resources are being purposely mismanaged.
 We can fully fund public education without raising taxes on middle-class Texans.
 Texas runs one of the biggest economies on the planet.
@@ -29,7 +28,7 @@ The 2025 raises helped.
 They did not close the gap.
 Here's the part that should make every parent angry: Texas pays new teachers competitively, then falls further behind the longer they stay.
 We lose our best people right when they get GOOD at the job.
-My plan: Bring teacher salaries up to 10% above the national average(roughly $84,000 at today's numbers) to attract, retain, and respect the educators who shape our future.
+My plan: Bring teacher salaries up to 10% above the national average (roughly $84,000 at today's numbers) to attract, retain, and respect the educators who shape our future.
 3.
 Provide Fair Healthcare for Educators.
 Texas school employees and retirees are covered through TRS plans that are separate from the plans offered to other State of Texas employees.
@@ -42,7 +41,7 @@ My plan: Allow educators, both current and retired, to access the same healthcar
 Support All Educational Staff.
 The average K-12 support staff salary in Texas was $33,481 in 2024-25, almost $3,000 below the national average.
 These are the people who drive our kids to school, keep them fed, help them learn to read, and keep the building running.
-My plan: Examine and fairly fund the salaries of paraprofessionals, librarians, bus drivers, and all other educational support staff.
+My plan: Examine and fairly fund the salaries of paraprofessionals, librarians, bus drivers, and all other educational support staff .
 Our schools can't thrive without them.
 5.
 End Unfunded Mandates.
@@ -55,20 +54,24 @@ Austin takes the credit, and your ISD gets the bill.
 My plan: If the Texas Legislature passes a bill that increases costs for local districts, the state must attach the funding.
 This backdoor method of kneecapping our ISDs has gone on for too long.
 It needs to stop.
-How We Pay For It
-Texas is not broke.
+How We Pay For It Texas is not broke.
 We don't need to raise taxes on working families to fund our schools.
 We need to stop wasting the money we already have.
-- Redirect voucher dollars back to the public schools that serve every child.
-- Put the Rainy Day Fund to work.
+Redirect voucher dollars back to the public schools that serve every child.
+Put the Rainy Day Fund to work.
 Texas has one of the largest reserve funds in the nation.
 Our kids are not a rainy day expense.
-- Legalize and tax cannabis, with revenue dedicated to public education.
+Legalize and tax cannabis, with revenue dedicated to public education.
 Read my cannabis plan.
-- Review corporate tax breaks and abatements that hand billions to companies while our schools go without.
-- Fight for every federal dollar Texas is owed, including Title I funding for the students who need it most.
+Review corporate tax breaks and abatements that hand billions to companies while our schools go without.
+Fight for every federal dollar Texas is owed, including Title I funding for the students who need it most.
 Our kids only get one shot at third grade.
 They can't wait for Austin to get its priorities straight.
 Our Community.
 Our Future.
 Our Fight.
+This is more than a campaign; it is a movement aimed at reclaiming our voice within the government, and the time for listening is now.
+I invite you to connect with me directly through the form below.
+Email Address Full Name Phone Number Message 5 + 12 = Send Message Political advertisement paid for by Sara McGee.
+Copyright #.
+Follow Follow Follow Web site design provided by Complete Computing Services .

@@ -1,6 +1,4 @@
-About Tom
-Meet Tom
-TTom Sullivan has built his life around service—to his country, his community, working families, and the people of Colorado.
+Sullivan for Colorado Home About Meet Tom Issues Endorse Volunteer Contact Action Fund Contribute Sullivan for Colorado Sully's Action Fund Sully's Leadership Fund Home / About / Meet Tom Issues / Endorse / Volunteer / Contact / Action Fund / Contribute / Sullivan for Colorado Sully's Action Fund Sully's Leadership Fund Meet Tom Home / About / Meet Tom Issues / Endorse / Volunteer / Contact / Action Fund / Contribute / Sullivan for Colorado Sully's Action Fund Sully's Leadership Fund About Tom Meet Tom TTom Sullivan has built his life around service—to his country, his community, working families, and the people of Colorado.
 The son of two U.S.
 Air Force veterans, Tom spent much of his childhood moving around the world before his family settled in Rochester, New York.
 After graduating from high school, Tom followed in his parents’ footsteps and enlisted in the U.S.
@@ -33,13 +31,9 @@ From his service in the Air Force and decades as a postal worker to his advocacy
 Now, he is asking the people of Senate District 27 for the opportunity to continue that work.
 Join Tom and help keep a fighter for Colorado families in the State Senate.
 Volunteer today.
-Facts About Tom
-Born on May 17, 1956
-Married his wife, Terry, in 1978
-Dad to Megan and Alex.
+Facts About Tom Born on May 17, 1956 Married his wife, Terry, in 1978 Dad to Megan and Alex.
 Grandpa to Mollie.
 Served in US Air Force from 1974 to 1977.
 Graduate of the Metropolitan State University of Denver in accounting and journalism.
 Retired from a 30-year career with the United States Postal Service (USPS).
-New York Mets Baseball Fan
-Spiderman (and all other) comic book collector
+New York Mets Baseball Fan Spiderman (and all other) comic book collector Paid for by Sullivan For Colorado PO Box 461331, Aurora, CO 80046 Privacy Policy Terms of Service

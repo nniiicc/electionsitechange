@@ -1,45 +1,26 @@
-In your own words, what would you want to tell DC?
+About Top 5 Issues Endorsements Events Volunteer Donate Merch About Top 5 Issues Endorsements Events Volunteer Donate Merch In your own words, what would you want to tell DC?
 Fill out the form below or call/text (417) 674-3481 to leave your message.
-My priorities and bills to go with each one.
-#1
-Close Tax Loopholes to End Billionaire Welfare
-Fund and protect Social Security
-Paid Family and Medical Leave
-Stop Price Gouging in Grocery Stores
-Ban Junk Fees
-#2
-Invest in rural education and workforce training
-Fair Elections and Ending Gerrymandering
-Comprehensive Data Privacy for Children
-Raise Teacher Pay
-#3
-Medicare for all who want it
-Veterans’ Healthcare Access
-Rural hospital stabilization
-Politicians out of your Doctor's Office
-Medicare Drug Price Negotiation
-#4
-Right-to-repair
-Protect U.S. farmland from foreign adversaries
-Oppose AI Data Centers
-Crop Insurance Reform
-#5
-Release the Epstein files
-Ban Congressional Stock Trading
-Audit the Pentagon
-Lifetime lobbying ban for members of Congress
-Ban dark money, end Citizens United
-Congressional term limits
-2x,
-Virtual Event
-Minutes for Missi - join us virtually as we make calls directly to voters and future volunteers!
-Event will repeat every Tuesday from 5:30-7:30 CT
-RSVP
-Historic Downing Street - Downing St, Hollister, MO 65672, USA
-Minutes for Missi - join us virtually as we make calls directly to voters and future volunteers!
-Event will repeat every Sunday from 2:30-5:30 CT
-RSVP
-Historic Carthage Square - 301 Grant St, Carthage, MO 64836, USA
-Champion Park - 2561 S Grant Ave, Springfield, MO 65807, USA
-Tall Pines Moonshine Distillery - 3316 Goodin Hollow Rd, Noel, MO 64854, USA
-Teamsters #245 Union Hall - 1850 E Division St, Springfield, MO 65803, USA
+Leave this field blank May we follow up with you via text?
+Yes No May we follow up with you via email?
+Yes No Submit Top 5 Issues My priorities and bills to go with each one.
+#1 Affordability for All Close Tax Loopholes to End Billionaire Welfare Fund and protect Social Security Paid Family and Medical Leave Stop Price Gouging in Grocery Stores Ban Junk Fees Read the Bills #2 Protect our Kids' Future Invest in rural education and workforce training Fair Elections and Ending Gerrymandering Comprehensive Data Privacy for Children Raise Teacher Pay Read the Bills #3 Make Healthcare Work Medicare for all who want it Veterans’ Healthcare Access Rural hospital stabilization Politicians out of your Doctor's Office Medicare Drug Price Negotiation Read the Bills #4 Support Our Farmers and Natural Resources Right-to-repair Protect U.S. farmland from foreign adversaries Oppose AI Data Centers Crop Insurance Reform Read the Bill #5 Bring Accountability Back to Our Government Release the Epstein files Ban Congressional Stock Trading Audit the Pentagon Lifetime lobbying ban for members of Congress Ban dark money, end Citizens United Congressional term limits Read the Bills Do you support these policies?
+Rank each one with the sliders, and leave your own thoughts too.
+Fill out the form or call/text (417) 674-3481 to leave a message.
+Affordability for All Don't Support Almost Suport Support Fully Support Strongly Support Protect Our Kid’s Future.
+Don't Support Almost Suport Support Fully Support Strongly Support Make Healthcare Work.
+Don't Support Almost Suport Support Fully Support Strongly Support Support Our Farmers and Natural Resources Don't Support Almost Suport Support Fully Support Strongly Support Bring Accountability Back to Our Government Don't Support Almost Suport Support Fully Support Strongly Support Leave this field blank Submit Upcoming Events Branson- Taney County Meeting Loading...
+El Lago - 440 State Hwy 248, Branson, MO 65616, USA RSVP Hollister- Grape and Fall Festival Loading...
+Historic Downing Street - Downing St, Hollister, MO 65672, USA RSVP Minutes for Missi–Virtual Phone Banking Sunday Afternoons 2x, Loading...
+Virtual Event Minutes for Missi - join us virtually as we make calls directly to voters and future volunteers!
+Event will repeat every Sunday from 2:30-5:30 CT RSVP Rogersville- Meet and Greet Loading...
+Madd Kitchen - 5900 E Barbara St ste 3, Rogersville, MO 65742, USA RSVP Minutes for Missi–Virtual Phone Banking Tuesday Evenings 2x, Loading...
+Virtual Event Minutes for Missi - join us virtually as we make calls directly to voters and future volunteers!
+Event will repeat every Tuesday from 5:30-7:30 CT RSVP Joplin- Nanda Nunnelly Backyard Party Loading...
+1201 S Duquesne Rd, Joplin, MO 64801, USA RSVP Carthage- Maple Leaf Festival Parade Loading...
+Historic Carthage Square - 301 Grant St, Carthage, MO 64836, USA RSVP Springfield- Block Party with Katelyn Zach Loading...
+Champion Park - 2561 S Grant Ave, Springfield, MO 65807, USA RSVP Joplin Townhall Loading...
+Joplin, MO, USA RSVP Meet & Greet at Tall Pines Distillery Loading...
+Tall Pines Moonshine Distillery - 3316 Goodin Hollow Rd, Noel, MO 64854, USA RSVP Cassville Chili Cook-Off Loading...
+Barry County Courthouse - 700 Main St, Cassville, MO 65625, USA RSVP Springfield- Bingo Night with Jess Piper Loading...
+Teamsters #245 Union Hall - 1850 E Division St, Springfield, MO 65803, USA RSVP Previous 1 2 3 Next DONATE $1 Helps Kick Out Big $$$ from Southwest MO If you prefer the old fashioned way, mail donations to: P.O.
+Box 651 Forsyth, MO 65653 $# $# $# $# $# Other I would like to: Volunteer Talk to Missi's Team Canvass Leave this field blank Send English Español (Spanish) Hawaiian Reo Māori (Maori) Samoan Paid for by The Committee to Elect Missi Hesketh for Congress - Jim Kabell, Treasurer Made in Solidarity Tech

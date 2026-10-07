@@ -1,19 +1,82 @@
 [
-"https://facebook.com/VoteLizCampos",
-"https://facebook.com/votelizcampos",
-"https://house.texas.gov/members/3950/legislation/R",
-"https://instagram.com/VoteLizCampos",
-"https://instagram.com/votelizcampos",
-"https://lizcampos.com/",
-"https://lizcampos.com/about",
-"https://lizcampos.com/about-hd-119",
-"https://lizcampos.com/accomplishments",
-"https://lizcampos.com/endorsements",
-"https://lizcampos.com/in-the-news",
-"https://lizcampos.com/issues",
-"https://lizcampos.com/liz-in-the-community",
-"https://lizcampos.com/privacy-policy",
-"https://lp.constantcontactpages.com/sl/gjzn9LI",
-"https://secure.anedot.com/lizcampos/donate",
-"https://x.com/votelizcampos"
+{
+"text": "About",
+"href": "https://www.lizcampos.com/about"
+},
+{
+"text": "About HD 119",
+"href": "https://www.lizcampos.com/about-hd-119"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.lizcampos.com/accomplishments"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/lizcampos/donate"
+},
+{
+"text": "CONTRIBUTE TO LIZ",
+"href": "https://secure.anedot.com/lizcampos/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lizcampos.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.lizcampos.com"
+},
+{
+"text": "In The News",
+"href": "https://www.lizcampos.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.lizcampos.com/issues"
+},
+{
+"text": "Liz In The Community",
+"href": "https://www.lizcampos.com/liz-in-the-community"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lizcampos.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://house.texas.gov/members/3950/legislation/R"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://lp.constantcontactpages.com/sl/gjzn9LI"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteLizCampos"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/votelizcampos"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/VoteLizCampos"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votelizcampos"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.x.com/votelizcampos"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/votelizcampos"
+},
+{
+"text": "liz@lizcampos.com",
+"href": "mailto:liz@lizcampos.com"
+}
 ]

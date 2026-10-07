@@ -1,17 +1,66 @@
 [
-"https://aaawm.org/",
-"https://miottawa.org/clerk/elections",
-"https://miottawa.org/cmh",
-"https://oaisd.org/",
-"https://ottawacorc.com/",
-"https://zickusfor89th.com/",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/resources.html",
-"https://zickusfor89th.com/voter-information.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Issues",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Resources",
+"href": "https://zickusfor89th.com/resources.html"
+},
+{
+"text": "Visit Community Mental Health of Ottawa County (opens in a new tab)",
+"href": "https://miottawa.org/cmh/"
+},
+{
+"text": "Visit Ottawa Area ISD (opens in a new tab)",
+"href": "https://www.oaisd.org/"
+},
+{
+"text": "Visit Ottawa County Elections (opens in a new tab)",
+"href": "https://miottawa.org/clerk/elections/"
+},
+{
+"text": "Visit the Area Agency on Aging of Western Michigan (opens in a new tab)",
+"href": "https://www.aaawm.org/"
+},
+{
+"text": "Visit the Ottawa County Road Commission (opens in a new tab)",
+"href": "https://ottawacorc.com/"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+}
 ]

@@ -1,27 +1,3 @@
-0
-Skip to Content
-Home
-Meet David
-Issues
-Endorsements
-Volunteer
-Donate
-Open Menu
-Close Menu
-Home
-Meet David
-Issues
-Endorsements
-Volunteer
-Donate
-Open Menu
-Close Menu
-Home
-Meet David
-Issues
-Endorsements
-Volunteer
-Donate
-Volunteer
-Help us get Rep.
+0 Skip to Content Home Meet David Issues Endorsements Volunteer Donate Open Menu Close Menu Home Meet David Issues Endorsements Volunteer Donate Open Menu Close Menu Home Meet David Issues Endorsements Volunteer Donate Volunteer Help us get Rep.
 Gomberg get across the finish line in November!
+Contribute to David's Campaign ✭✭✭ Contribute to David's Campaign ✭✭✭ Contribute to David's Campaign ✭✭✭ Navigation HOME MEET DAVID ISSUES ENDORSEMENTS CONTRIBUTE Email Mailing Address: PO Box 113, Neotsu Oregon 97364 Paid for by Gomberg for State Rep, PAC ID 15348 Site Design by Hunch Theory

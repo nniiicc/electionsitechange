@@ -1,23 +1,142 @@
 [
-"https://danblueforsenate.org/",
-"https://danblueforsenate.org/about",
-"https://danblueforsenate.org/category/bills",
-"https://danblueforsenate.org/category/events",
-"https://danblueforsenate.org/category/news",
-"https://danblueforsenate.org/category/sourced",
-"https://danblueforsenate.org/category/statements",
-"https://danblueforsenate.org/dan-blue-joins-fireside-chat-on-legislative-collaboration",
-"https://danblueforsenate.org/dan-blue-questions-unequal-prosecutor-distribution-in-new-legislation",
-"https://danblueforsenate.org/dan-blue-responds-to-republican-congressional-map-redraw",
-"https://danblueforsenate.org/dan-blue-to-host-senate-district-14-town-halls",
-"https://danblueforsenate.org/issues",
-"https://danblueforsenate.org/nc-legislative-black-caucus-foundation-gifts-sau-25000",
-"https://danblueforsenate.org/news-and-events",
-"https://danblueforsenate.org/news-and-events/page/2",
-"https://danblueforsenate.org/property-tax-levy-limit-could-devastate-some-n-c-budgets",
-"https://danblueforsenate.org/volunteer",
-"https://facebook.com/danbluenc",
-"https://medium.com/@DanBlueNC",
-"https://secure.actblue.com/donate/dan-blue-1",
-"https://twitter.com/DanBlueNC"
+{
+"text": "Bills",
+"href": "https://danblueforsenate.org/category/bills/"
+},
+{
+"text": "Blue questions unequal prosecutor distribution in new legislation",
+"href": "https://danblueforsenate.org/dan-blue-questions-unequal-prosecutor-distribution-in-new-legislation/"
+},
+{
+"text": "Dan Blue responds to Republican congressional map redraw",
+"href": "https://danblueforsenate.org/dan-blue-responds-to-republican-congressional-map-redraw/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Elections",
+"href": "https://danblueforsenate.org/category/elections/"
+},
+{
+"text": "Events",
+"href": "https://danblueforsenate.org/category/events/"
+},
+{
+"text": "Follow",
+"href": "https://medium.com/@DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/danbluenc"
+},
+{
+"text": "Home",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "Issues",
+"href": "https://danblueforsenate.org/issues/"
+},
+{
+"text": "Meet Dan Blue",
+"href": "https://danblueforsenate.org/about/"
+},
+{
+"text": "NC Legislative Black Caucus Foundation Gifts SAU $25,000",
+"href": "https://danblueforsenate.org/nc-legislative-black-caucus-foundation-gifts-sau-25000/"
+},
+{
+"text": "News",
+"href": "https://danblueforsenate.org/category/news/"
+},
+{
+"text": "News and Events",
+"href": "https://danblueforsenate.org/news-and-events/"
+},
+{
+"text": "Property tax levy limit could devastate some N.C. budgets",
+"href": "https://danblueforsenate.org/property-tax-levy-limit-could-devastate-some-n-c-budgets/"
+},
+{
+"text": "Sen. Dan Blue Joins Fireside Chat on Legislative Collaboration",
+"href": "https://danblueforsenate.org/dan-blue-joins-fireside-chat-on-legislative-collaboration/"
+},
+{
+"text": "Sourced",
+"href": "https://danblueforsenate.org/category/sourced/"
+},
+{
+"text": "Statements",
+"href": "https://danblueforsenate.org/category/statements/"
+},
+{
+"text": "Volunteer",
+"href": "https://danblueforsenate.org/volunteer/"
+},
+{
+"text": "What Dan Blue says about his party, economy and MLB in NC",
+"href": "https://danblueforsenate.org/what-dan-blue-says-about-his-party-economy-and-mlb-in-nc/"
+},
+{
+"text": "[image: Blue questions unequal prosecutor distribution in new legislation]",
+"href": "https://danblueforsenate.org/dan-blue-questions-unequal-prosecutor-distribution-in-new-legislation/"
+},
+{
+"text": "[image: Dan Blue For Senate]",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "[image: Dan Blue responds to Republican congressional map redraw]",
+"href": "https://danblueforsenate.org/dan-blue-responds-to-republican-congressional-map-redraw/"
+},
+{
+"text": "[image: NC Legislative Black Caucus Foundation Gifts SAU $25,000]",
+"href": "https://danblueforsenate.org/nc-legislative-black-caucus-foundation-gifts-sau-25000/"
+},
+{
+"text": "[image: Property tax levy limit could devastate some N.C. budgets]",
+"href": "https://danblueforsenate.org/property-tax-levy-limit-could-devastate-some-n-c-budgets/"
+},
+{
+"text": "[image: Sen. Dan Blue Joins Fireside Chat on Legislative Collaboration]",
+"href": "https://danblueforsenate.org/dan-blue-joins-fireside-chat-on-legislative-collaboration/"
+},
+{
+"text": "[image: What Dan Blue says about his party, economy and MLB in NC]",
+"href": "https://danblueforsenate.org/what-dan-blue-says-about-his-party-economy-and-mlb-in-nc/"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/dan-blue-joins-fireside-chat-on-legislative-collaboration/"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/dan-blue-questions-unequal-prosecutor-distribution-in-new-legislation/"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/dan-blue-responds-to-republican-congressional-map-redraw/"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/nc-legislative-black-caucus-foundation-gifts-sau-25000/"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/property-tax-levy-limit-could-devastate-some-n-c-budgets/"
+},
+{
+"text": "read more",
+"href": "https://danblueforsenate.org/what-dan-blue-says-about-his-party-economy-and-mlb-in-nc/"
+},
+{
+"text": "« Older Entries",
+"href": "https://danblueforsenate.org/news-and-events/page/2/?et_blog="
+}
 ]

@@ -1,82 +1,338 @@
 [
-"http://marvelous.media/",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5227",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5493",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5524",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5571",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5578",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5612",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5626",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5632",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5637",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5697",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5699",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5742",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5944",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=596",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6330",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6537",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6627",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6738",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6985",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=7047",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=73",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=993",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=294",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=300",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=301",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5401",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5402",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5473",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5474",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5475",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5540",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5578",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5597",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5653",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5657",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5670",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5692",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5752",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5796",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5797",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5839",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5874",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5882",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5970",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5981",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5982",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6126",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6131",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6193",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6194",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6271",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6273",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6293",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6325",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6332",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6462",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6491",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6517",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6637",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=802",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=822",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=hj00048",
-"https://facebook.com/Gale-Mastrofrancesco-for-State-Representative-636455133673697",
-"https://facebook.com/galeforstaterep",
-"https://galemastrofrancesco.com/",
-"https://galemastrofrancesco.com/bio",
-"https://galemastrofrancesco.com/blog",
-"https://galemastrofrancesco.com/contact",
-"https://galemastrofrancesco.com/endorsements",
-"https://galemastrofrancesco.com/gallery-full-text-four-column",
-"https://galemastrofrancesco.com/issues",
-"https://galemastrofrancesco.com/legislation",
-"https://galemastrofrancesco.com/photos",
-"https://galemastrofrancesco.com/portfolios/2018-press-release",
-"https://galemastrofrancesco.com/portfolios/republican-american-article",
-"https://galemastrofrancesco.com/portfolios/southington-observer-article",
-"https://galemastrofrancesco.com/uncategorized/recent-news",
-"https://galemastrofrancesco.com/volunteer",
-"https://google.com/maps/d/viewer?mid=1C0gkB-suCIvxG10aV_iSnlWBEJg&ll=41.6015534910799%2C-72.948487&z=13"
+{
+"text": "About",
+"href": "https://galemastrofrancesco.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://galemastrofrancesco.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://galemastrofrancesco.com/contact/"
+},
+{
+"text": "Contact Me",
+"href": "https://galemastrofrancesco.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://www.google.com/maps/d/viewer?mid=1C0gkB-suCIvxG10aV_iSnlWBEJg&ll=41.6015534910799%2C-72.948487&z=13"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://galemastrofrancesco.com/endorsements/"
+},
+{
+"text": "HB05227",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5227"
+},
+{
+"text": "HB05493",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5493"
+},
+{
+"text": "HB05524",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5524"
+},
+{
+"text": "HB05571",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5571"
+},
+{
+"text": "HB05578",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5578"
+},
+{
+"text": "HB05612",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5612"
+},
+{
+"text": "HB05626",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5626"
+},
+{
+"text": "HB05632",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5632"
+},
+{
+"text": "HB05637",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5637"
+},
+{
+"text": "HB05697",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5697"
+},
+{
+"text": "HB05699",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5699"
+},
+{
+"text": "HB05742",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5742"
+},
+{
+"text": "HB05944",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=5944"
+},
+{
+"text": "HB06330",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6330"
+},
+{
+"text": "HB06537",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6537"
+},
+{
+"text": "HB06627",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6627"
+},
+{
+"text": "HB06738",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6738"
+},
+{
+"text": "HB06985",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=6985"
+},
+{
+"text": "HB07047",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=7047"
+},
+{
+"text": "HB5401",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5401"
+},
+{
+"text": "HB5402",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5402"
+},
+{
+"text": "HB5473",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5473"
+},
+{
+"text": "HB5474",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5474"
+},
+{
+"text": "HB5475",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5475"
+},
+{
+"text": "HB5540",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5540"
+},
+{
+"text": "HB5578",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5578"
+},
+{
+"text": "HB5597",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5597"
+},
+{
+"text": "HB5653",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5653"
+},
+{
+"text": "HB5657",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5657"
+},
+{
+"text": "HB5670",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5670"
+},
+{
+"text": "HB5692",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5692"
+},
+{
+"text": "HB5752",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5752"
+},
+{
+"text": "HB5796",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5796"
+},
+{
+"text": "HB5797",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5797"
+},
+{
+"text": "HB5839",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5839"
+},
+{
+"text": "HB5874",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5874"
+},
+{
+"text": "HB5882",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5882"
+},
+{
+"text": "HB5970",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5970"
+},
+{
+"text": "HB5981",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5981"
+},
+{
+"text": "HB5982",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=5982"
+},
+{
+"text": "HB6126",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6126"
+},
+{
+"text": "HB6131",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6131"
+},
+{
+"text": "HB6193",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6193"
+},
+{
+"text": "HB6194",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6194"
+},
+{
+"text": "HB6271",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6271"
+},
+{
+"text": "HB6273",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6273"
+},
+{
+"text": "HB6293",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6293"
+},
+{
+"text": "HB6325",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6325"
+},
+{
+"text": "HB6332",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6332"
+},
+{
+"text": "HB6462",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6462"
+},
+{
+"text": "HB6491",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6491"
+},
+{
+"text": "HB6517",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6517"
+},
+{
+"text": "HB6637",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=6637"
+},
+{
+"text": "HJ00048",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=hj00048"
+},
+{
+"text": "Home",
+"href": "https://galemastrofrancesco.com/"
+},
+{
+"text": "Issues",
+"href": "https://galemastrofrancesco.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://galemastrofrancesco.com/legislation/"
+},
+{
+"text": "NEWS",
+"href": "https://galemastrofrancesco.com/blog/"
+},
+{
+"text": "Official Facebook Page",
+"href": "https://www.facebook.com/galeforstaterep/"
+},
+{
+"text": "Photos",
+"href": "https://galemastrofrancesco.com/photos/"
+},
+{
+"text": "Press",
+"href": "https://galemastrofrancesco.com/gallery-full-text-four-column/"
+},
+{
+"text": "Recent News",
+"href": "https://galemastrofrancesco.com/uncategorized/recent-news/"
+},
+{
+"text": "SB00073",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=73"
+},
+{
+"text": "SB00596",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=596"
+},
+{
+"text": "SB00993",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2019&bill_num=993"
+},
+{
+"text": "SB294",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=294"
+},
+{
+"text": "SB300",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=300"
+},
+{
+"text": "SB301",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=301"
+},
+{
+"text": "SB802",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=802"
+},
+{
+"text": "SB822",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2021&bill_num=822"
+},
+{
+"text": "Site Design by Marvelous Media",
+"href": "http://marvelous.media"
+},
+{
+"text": "Volunteer",
+"href": "https://galemastrofrancesco.com/volunteer/"
+},
+{
+"text": "[image: Gale Mastrofrancesco]",
+"href": "https://galemastrofrancesco.com/"
+},
+{
+"text": "[image]",
+"href": "https://galemastrofrancesco.com/portfolios/2018-press-release/"
+},
+{
+"text": "[image]",
+"href": "https://galemastrofrancesco.com/portfolios/republican-american-article/"
+},
+{
+"text": "[image]",
+"href": "https://galemastrofrancesco.com/portfolios/southington-observer-article/"
+},
+{
+"text": "[tooltip: Recent News]",
+"href": "https://galemastrofrancesco.com/uncategorized/recent-news/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/Gale-Mastrofrancesco-for-State-Representative-636455133673697/"
+}
 ]

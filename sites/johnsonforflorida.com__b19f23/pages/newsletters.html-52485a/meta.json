@@ -1,7 +1,14 @@
 {
  "description": "Read the latest campaign newsletters for the Chad Johnson for State Representative Campaign.",
  "final_url": "https://johnsonforflorida.com/newsletters.html",
- "paid_for_by": null,
+ "fingerprint": "b3faef62ee0f29d8cb42634f1fc65e22ed43f032",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Newsletters",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

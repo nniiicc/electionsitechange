@@ -1,8 +1,34 @@
 [
-"https://danandersson.com/",
-"https://danandersson.com/about-dan.html",
-"https://danandersson.com/connect-with-the-campaign.html",
-"https://danandersson.com/on-the-issues.html",
-"https://hostgator.com/",
-"https://secure.actblue.com/donate/dan-andersson-for-south-dakota-1"
+{
+"text": "About Dan",
+"href": "https://danandersson.com/about-dan.html"
+},
+{
+"text": "Connect with the Campaign",
+"href": "https://danandersson.com/connect-with-the-campaign.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-andersson-for-south-dakota-1"
+},
+{
+"text": "Home",
+"href": "https://danandersson.com/"
+},
+{
+"text": "Hostgator",
+"href": "https://www.hostgator.com"
+},
+{
+"text": "On the Issues",
+"href": "https://danandersson.com/on-the-issues.html"
+},
+{
+"text": "Priorities",
+"href": "https://danandersson.com/on-the-issues.html"
+},
+{
+"text": "[image: Dan Andersson]",
+"href": "https://danandersson.com/"
+}
 ]

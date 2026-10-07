@@ -1,8 +1,30 @@
 [
-"http://cindyroeforhouse.com/",
-"http://cindyroeforhouse.com/about",
-"http://cindyroeforhouse.com/contact",
-"http://cindyroeforhouse.com/donate",
-"http://cindyroeforhouse.com/get-involved",
-"https://m.facebook.com/Cindy-Roe-for-State-Representative-111762753588926"
+{
+"text": "About",
+"href": "http://cindyroeforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://cindyroeforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "http://cindyroeforhouse.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://m.facebook.com/Cindy-Roe-for-State-Representative-111762753588926/"
+},
+{
+"text": "Get Involved",
+"href": "http://cindyroeforhouse.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "http://cindyroeforhouse.com/"
+},
+{
+"text": "[image: Cindy Roe]",
+"href": "http://cindyroeforhouse.com/"
+}
 ]

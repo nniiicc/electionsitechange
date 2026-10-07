@@ -1,6 +1,42 @@
 [
-"https://mattesonnh.com/",
-"https://mattesonnh.com/blog/every-kid-needs-a-pet",
-"https://mattesonnh.com/blog/flowers-dreams-neighbors",
-"https://mattesonnh.com/contact"
+{
+"text": "About Gary",
+"href": "https://mattesonnh.com#about"
+},
+{
+"text": "Community",
+"href": "https://mattesonnh.com#community"
+},
+{
+"text": "Contact",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Contact Form",
+"href": "https://mattesonnh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://mattesonnh.com#donate"
+},
+{
+"text": "Gary Matteson",
+"href": "https://mattesonnh.com"
+},
+{
+"text": "Priorities",
+"href": "https://mattesonnh.com#issues"
+},
+{
+"text": "[image] August 03, 2026 Every Kid Needs a Pet The value of learning at an early age that freedom and responsibility are inseparable. Read more →",
+"href": "https://mattesonnh.com/blog/every-kid-needs-a-pet"
+},
+{
+"text": "[image] July 23, 2026 Flowers, Dreams, Neighbors Within days of moving to Epsom in 1981, neighbors stopped by to help as word spread that I was building greenhouses. Read more →",
+"href": "https://mattesonnh.com/blog/flowers-dreams-neighbors"
+},
+{
+"text": "mattesonnh@gmail.com",
+"href": "mailto:mattesonnh@gmail.com"
+}
 ]

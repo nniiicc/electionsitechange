@@ -1,13 +1,66 @@
 [
-"https://facebook.com/JordanAHarris",
-"https://instagram.com/jordanaharris?hl=en",
-"https://jordanharrisforpa.com/",
-"https://jordanharrisforpa.com/about",
-"https://jordanharrisforpa.com/blog",
-"https://jordanharrisforpa.com/cart",
-"https://jordanharrisforpa.com/home",
-"https://jordanharrisforpa.com/learn-more",
-"https://jordanharrisforpa.com/news",
-"https://jordanharrisforpa.com/programs",
-"https://secure.actblue.com/donate/jordanharrismajority"
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jordanharrismajority"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jordanharrismajority"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/jordanharrismajority"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jordanharrismajority"
+},
+{
+"text": "0",
+"href": "https://jordanharrisforpa.com/cart"
+},
+{
+"text": "About",
+"href": "https://jordanharrisforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://jordanharrisforpa.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://jordanharrisforpa.com/programs"
+},
+{
+"text": "Home",
+"href": "https://jordanharrisforpa.com/"
+},
+{
+"text": "Learn More",
+"href": "https://jordanharrisforpa.com/learn-more"
+},
+{
+"text": "News",
+"href": "https://jordanharrisforpa.com/news"
+},
+{
+"text": "Read More",
+"href": "https://jordanharrisforpa.com/learn-more"
+},
+{
+"text": "[image: Rep. Jordan Harris ]",
+"href": "https://jordanharrisforpa.com/"
+},
+{
+"text": "[image]",
+"href": "https://jordanharrisforpa.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JordanAHarris/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jordanaharris/?hl=en"
+}
 ]

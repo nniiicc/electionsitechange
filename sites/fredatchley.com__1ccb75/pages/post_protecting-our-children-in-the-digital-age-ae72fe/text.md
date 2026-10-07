@@ -1,5 +1,5 @@
-Protecting Our Children in the Digital Age
-We are raising the first generation of children who have never known a world without smartphones, social media, and constant digital connectivity.
+top of page HOME ABOUT NEWS DONATE More Use tab to navigate through the menu items.
+All Posts Search Protecting Our Children in the Digital Age Team Atchley Jun 15 2 min read We are raising the first generation of children who have never known a world without smartphones, social media, and constant digital connectivity.
 In many ways, that is a gift.
 Technology opens doors, connects people, and creates opportunities that previous generations could not have imagined.
 But it also comes with risks.
@@ -23,3 +23,6 @@ But the state can and should be a partner in that effort.
 These measures represent a commitment to taking the mental health and safety of our children seriously.
 I will continue working on this issue in future sessions.
 Our kids deserve nothing less.
+1130 S.
+Fork Dr., Sevierville, TN 37862 team@fredatchley.com Paid for by Fred Atchley for State Representative, Phil Whaley, Treasurer.
+Web design by ZDStephens Company . bottom of page

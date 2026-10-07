@@ -1,12 +1,42 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/MattRobyforSD",
-"https://mattrobyforsd.com/",
-"https://mattrobyforsd.com/contact",
-"https://mattrobyforsd.com/contribute",
-"https://mattrobyforsd.com/meet_matt",
-"https://mattrobyforsd.com/news",
-"https://mattrobyforsd.com/updates",
-"https://mattrobyforsd.com/volunteer",
-"https://mattrobyforsd.com/yard-sign"
+{
+"text": "Contact",
+"href": "https://www.mattrobyforsd.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.mattrobyforsd.com/contribute"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.mattrobyforsd.com/meet_matt"
+},
+{
+"text": "News",
+"href": "https://www.mattrobyforsd.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Updates",
+"href": "https://www.mattrobyforsd.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mattrobyforsd.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.mattrobyforsd.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.mattrobyforsd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MattRobyforSD/"
+}
 ]

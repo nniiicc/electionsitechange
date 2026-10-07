@@ -1,5 +1,4 @@
-The Commons: Goodnow eyes Toleno’s House seat
-This week, incumbent Rep.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate The Commons: Goodnow eyes Toleno’s House seat Ian Goodnow for State Representative on May 12, 2024 This week, incumbent Rep.
 Tristan Toleno (D-Brattleboro) announced he is not seeking re-election after serving District 9 for the past 12 years.
-Toleno has formally endorsed Goodnow, stating in a news release that “Ian’s leadership on the Selectboard showed me that he is humble and curious, that he knows how to listen and engage with all different perspectives, and that his care and commitment to Brattleboro are unmatched.”
-The Commons
+Toleno has formally endorsed Goodnow, stating in a news release that “Ian’s leadership on the Selectboard showed me that he is humble and curious, that he knows how to listen and engage with all different perspectives, and that his care and commitment to Brattleboro are unmatched.” The Commons Read the full story Category: In the News Post navigation Previous: Previous post: Brattleboro Reformer: Rep.
+Tristan Toleno endorses Ian Goodnow Next: Next post: Michael Antonucci: Ian Goodnow for Windham 9 District Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

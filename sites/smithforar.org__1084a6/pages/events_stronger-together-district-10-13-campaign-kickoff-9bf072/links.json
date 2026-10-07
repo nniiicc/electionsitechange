@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Stronger+Together%3A+Districts+10+%26amp%3B+13+Campaign+Kickoff&dates=20260131T230000Z%2F20260201T020000Z&location=901+Southwest+14th+Street%2C+Bentonville%2C+AR%2C+72712%2C+United+States",
-"http://instagram.com/smith_for_ar_13",
-"http://maps.google.com/?q=901+Southwest+14th+Street+Bentonville%2C+AR%2C+72712+United+States",
-"https://allenforarkansas.com/",
-"https://bentonvillebrewing.com/",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://goodchange.app/version-live/donate/strong-13",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/events/rogers-lowell-chamber-of-commerce",
-"https://smithforar.org/events/stronger-together-district-10-13-campaign-kickoff?format=ical",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=901+southwest+14th+street+bentonville%2C+ar%2C+72712+united+states"
+},
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Bentonville Brewing",
+"href": "https://www.bentonvillebrewing.com/"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Stronger+Together%3A+Districts+10+%26amp%3B+13+Campaign+Kickoff&dates=20260131T230000Z%2F20260201T020000Z&location=901+Southwest+14th+Street%2C+Bentonville%2C+AR%2C+72712%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/stronger-together-district-10-13-campaign-kickoff?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Jacob Allen",
+"href": "https://www.allenforarkansas.com/"
+},
+{
+"text": "Next Next February 5 Rogers-Lowell Chamber of Commerce Hob Nob at Joint Business After Hours",
+"href": "https://smithforar.org/events/rogers-lowell-chamber-of-commerce"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+},
+{
+"text": "here",
+"href": "https://goodchange.app/version-live/donate/strong-13"
+}
 ]

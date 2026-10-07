@@ -1,6 +1,2 @@
-NEW: MORE NY22 & NYS Police Groups Back Claudia Tenney
-ALERT: NY22 & Statewide Police Groups Endorse Claudia Tenney
-Letter of Concern NY22 Law Enforcement and Anthony Brindisi
-New Tenney Ad: Claudia Will Fight for Trump Agenda, Middle Class
-DODGE: Brindisi Won’t Say if Biden Should Pack Supreme Court
-NY-22 ALERT: Claudia Tenney Raises Nearly $1 Million in Q3
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Press Releases Press Releases Opinion Editorials Press Releases Opinion Editorials Press Releases NEW: MORE NY22 & NYS Police Groups Back Claudia Tenney October 19 2020 Learn More Share ALERT: NY22 & Statewide Police Groups Endorse Claudia Tenney October 18 2020 Learn More Share Letter of Concern NY22 Law Enforcement and Anthony Brindisi October 15 2020 Learn More Share New Tenney Ad: Claudia Will Fight for Trump Agenda, Middle Class October 14 2020 Learn More Share DODGE: Brindisi Won’t Say if Biden Should Pack Supreme Court October 12 2020 Learn More Share NY-22 ALERT: Claudia Tenney Raises Nearly $1 Million in Q3 October 7 2020 Learn More Share « 1 2 3 4 5 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

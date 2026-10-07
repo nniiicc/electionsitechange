@@ -1,7 +1,9 @@
 {
  "description": "Public / Unsubscribe on Governor Gotra. Governor Gotra helps you organize, track, and share your work in 1 unified.",
  "final_url": "https://governorgotra.com/unsubscribe",
- "paid_for_by": null,
+ "fingerprint": "2c0e9a485be667cb2f0e3eb3e05347a94fadbb97",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Public / Unsubscribe | Governor Gotra",
  "years_mentioned": []
 }

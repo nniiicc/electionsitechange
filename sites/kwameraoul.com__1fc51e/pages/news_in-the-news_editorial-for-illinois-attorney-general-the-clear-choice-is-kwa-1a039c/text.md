@@ -1,4 +1,4 @@
-Nine sitting or recent members of the Illinois General Assembly have been charged with federal crimes since 2019.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us In the News | 10/14/22 Editorial: For Illinois attorney general, the clear choice is Kwame Raoul Share Nine sitting or recent members of the Illinois General Assembly have been charged with federal crimes since 2019.
 State Sen.
 Emil Jones III is the latest.
 He faces bribery charges in connection with the state’s notorious red-light camera scandal, and has entered a not guilty plea.
@@ -12,8 +12,7 @@ When Democrat Kwame Raoul took over as state attorney general in January 2019, w
 He didn’t.
 Now, however, he tells us he is working to expand the attorney general’s jurisdiction over public corruption cases.
 It will take a change in state law to make that happen, but Raoul says his team has made recommendations to the General Assembly’s Joint Commission on Ethics and Lobbying Reform to broaden the AG’s authority over corruption cases, as well as to ramp up the powers of the Legislative Inspector General’s Office.
-That office is the General Assembly’s watchdog, but lawmakers had weakened the IG’s powers to a point where one-time Inspector General Carol Pope called her office “a paper tiger.”
-Raoul’s goal isn’t to usurp the work of federal prosecutors, who have ably gone after a vast array of public officials on corruption charges, most notably Michael Madigan.
+That office is the General Assembly’s watchdog, but lawmakers had weakened the IG’s powers to a point where one-time Inspector General Carol Pope called her office “a paper tiger.” Raoul’s goal isn’t to usurp the work of federal prosecutors, who have ably gone after a vast array of public officials on corruption charges, most notably Michael Madigan.
 The point is to augment, collaborate where needed, and more aggressively work to ensure that corruption no longer persists as a defining characteristic of Illinois politics.
 Another key task on the shoulders of the state attorney general involves ensuring the Chicago Police Department’s compliance with the consent decree, the 2019 court order that lays out steps the city must take to reform the department in the wake of the 2014 murder of Black teenager Laquan McDonald by a Chicago police officer.
 Until Chicago police can show substantive evidence of reform, residents of Black and Latino neighborhoods will continue to harbor deep mistrust of law enforcement, and consequently avoid cooperating with police investigators probing the ceaseless cases of violent crime.
@@ -42,3 +41,5 @@ We find him unqualified for the job.
 Raoul pledges to expand the attorney general’s jurisdiction over corruption cases, and Illinoisans should hold him to that pledge.
 In this important race, he is clearly the best qualified candidate.
 Raoul is endorsed.
+Read on the Chicago Tribune Share Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

@@ -1,13 +1,82 @@
 [
-"http://facebook.com/peopleforpam",
-"http://instagram.com/peopleforpam",
-"http://secure.actblue.com/donate/peopleforpam",
-"http://twitter.com/peopleforpam",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://elections.maryland.gov/voting/where.html",
-"https://howardcountymd.gov/board-elections/early-voting",
-"https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7",
-"https://peopleforpam.com/",
-"https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+{
+"text": "Contact",
+"href": "mailto:pam@peopleforpam.com?subject=Hi+Pam%21+I%27m+contacting+you+from+your+website."
+},
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/peopleforpam"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+},
+{
+"text": "Early Voting",
+"href": "https://www.howardcountymd.gov/board-elections/early-voting"
+},
+{
+"text": "Find Your District",
+"href": "https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7"
+},
+{
+"text": "Find Your Polling Site",
+"href": "https://elections.maryland.gov/voting/where.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Home",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Vote by Absentee Ballot",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/peopleforpam"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/peopleforpam"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/peopleforpam"
+},
+{
+"text": "[no text]",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "[no text]",
+"href": "https://elections.maryland.gov/voting/where.html"
+},
+{
+"text": "[no text]",
+"href": "https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7"
+},
+{
+"text": "[no text]",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "[no text]",
+"href": "https://www.howardcountymd.gov/board-elections/early-voting"
+}
 ]

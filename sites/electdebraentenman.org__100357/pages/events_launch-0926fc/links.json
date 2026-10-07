@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Debra%27s+Virtual+Campaign+Launch&dates=20200521T020000Z%2F20200521T030000Z&location=Zoom%2C+Kent%2C+WA",
-"http://maps.google.com/?q=Zoom+Kent%2C+WA",
-"https://electdebraentenman.org/",
-"https://electdebraentenman.org/about",
-"https://electdebraentenman.org/cart",
-"https://electdebraentenman.org/contact-1",
-"https://electdebraentenman.org/events",
-"https://electdebraentenman.org/events/debra-entenman-field-launch-party",
-"https://electdebraentenman.org/events/launch?format=ical",
-"https://electdebraentenman.org/platform",
-"https://electdebraentenman.org/team",
-"https://electdebraentenman.org/volunteer",
-"https://facebook.com/electdebraentenman",
-"https://syndon.us/campaign/debraentenman"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=zoom+kent%2C+wa+"
+},
+{
+"text": "0",
+"href": "https://www.electdebraentenman.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.electdebraentenman.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electdebraentenman.org/events"
+},
+{
+"text": "Contact",
+"href": "https://www.electdebraentenman.org/contact-1"
+},
+{
+"text": "Donate",
+"href": "https://syndon.us/campaign/debraentenman"
+},
+{
+"text": "Events",
+"href": "https://www.electdebraentenman.org/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Debra%27s+Virtual+Campaign+Launch&dates=20200521T020000Z%2F20200521T030000Z&location=Zoom%2C+Kent%2C+WA"
+},
+{
+"text": "Home",
+"href": "https://www.electdebraentenman.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.electdebraentenman.org/events/launch?format=ical"
+},
+{
+"text": "Next Next July 2 Debra Entenman Field Launch Party",
+"href": "https://www.electdebraentenman.org/events/debra-entenman-field-launch-party"
+},
+{
+"text": "Platform",
+"href": "https://www.electdebraentenman.org/platform"
+},
+{
+"text": "Team",
+"href": "https://www.electdebraentenman.org/team"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electdebraentenman.org/volunteer"
+},
+{
+"text": "[image: Debra Entenman]",
+"href": "https://www.electdebraentenman.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electdebraentenman"
+}
 ]

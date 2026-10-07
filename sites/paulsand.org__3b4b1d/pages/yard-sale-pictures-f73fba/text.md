@@ -1,10 +1,2 @@
-Signed in as:
-filler@godaddy.com
-Sign out
-Signed in as:
-filler@godaddy.com
-Account
-Sign out
-Home Winery Equipment For Sale
-Copyright © 2026 Paul Sand - All Rights Reserved.
+Home About Me Gallery Contact Me Yard Sale Pictures More Home About Me Gallery Contact Me Yard Sale Pictures Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Me Gallery Contact Me Yard Sale Pictures Account My Account Sign out Sign In My Account YARD SALE PICTURES Home Winery Equipment For Sale Copyright © # Paul Sand - All Rights Reserved.
 Powered by

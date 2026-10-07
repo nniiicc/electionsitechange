@@ -1,15 +1,62 @@
 [
-"https://bsky.app/profile/celeste4sos.bsky.social",
-"https://celeste4sos.com/",
-"https://celeste4sos.com/blog",
-"https://celeste4sos.com/donate",
-"https://celeste4sos.com/events",
-"https://celeste4sos.com/help",
-"https://celeste4sos.com/meet",
-"https://celeste4sos.com/news-archive-1",
-"https://celeste4sos.com/priorities",
-"https://celeste4sos.com/privacy-policy",
-"https://facebook.com/people/Celeste-Landry/61587657275237",
-"https://instagram.com/celeste4sos",
-"https://x.com/celeste4sos"
+{
+"text": "Donate",
+"href": "https://www.celeste4sos.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.celeste4sos.com/events"
+},
+{
+"text": "Help",
+"href": "https://www.celeste4sos.com/help"
+},
+{
+"text": "Home",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "Meet",
+"href": "https://www.celeste4sos.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.celeste4sos.com/news-archive-1"
+},
+{
+"text": "Newsletters",
+"href": "https://www.celeste4sos.com/blog"
+},
+{
+"text": "Priorities",
+"href": "https://www.celeste4sos.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.celeste4sos.com/privacy-policy"
+},
+{
+"text": "Up",
+"href": "https://www.celeste4sos.com/donate"
+},
+{
+"text": "[image: Bluesky_edited]",
+"href": "https://bsky.app/profile/celeste4sos.bsky.social"
+},
+{
+"text": "[image: Celeste Landry for Secretary of State logo]",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Celeste-Landry/61587657275237/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/celeste4sos/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/celeste4sos"
+}
 ]

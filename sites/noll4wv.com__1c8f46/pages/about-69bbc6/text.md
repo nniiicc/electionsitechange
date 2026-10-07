@@ -1,8 +1,6 @@
-ABOUT BRAD
-I live in the Tomahawk area of Berkeley County.
+0 Skip to Content HOME ISSUES ABOUT BRAD ENDORSEMENTS NEWS CONTACT Donate Open Menu Close Menu HOME ISSUES ABOUT BRAD ENDORSEMENTS NEWS CONTACT Donate Open Menu Close Menu HOME ISSUES ABOUT BRAD ENDORSEMENTS NEWS CONTACT Donate ABOUT BRAD I live in the Tomahawk area of Berkeley County.
 I'm running for the West Virginia House of Delegates, District 92, because I've watched my county get taken advantage of long enough — and I don't see anyone in Charleston pushing back hard enough.
-About Me
-I'm not a career politician.
+About Me I'm not a career politician.
 I'm a citizen.
 I've been to almost every county in this state — I hunt and belong to a camp in Webster County, at the center of the state.
 I know West Virginia.
@@ -20,18 +18,9 @@ I've always been on the side of labor — that's why I'm a Democrat, however, be
 I show up to the meetings AND participate.
 I write to the legislators.
 I don't ask anyone in Charleston for permission to speak up on what's happening in my own county.
-That's the kind of representation I would be in District 92.
-✓ Pro–gun rights and responsible ownership
-✓ Anti-tax, anti-hidden-fees
-✓ Pro-labor, pro-working-class
-✓ Pro-property-rights and states' rights
-✓ Pro-economic-development with fair terms for the host county
-✓ Endorsed by educators, coal, and labor
-✓ The only Democrat in the state of West Virginia endorsed by farmers
-Most of the people in District 92 are not party loyalists.
+That's the kind of representation I would be in District 92. ✓ Pro–gun rights and responsible ownership ✓ Anti-tax, anti-hidden-fees ✓ Pro-labor, pro-working-class ✓ Pro-property-rights and states' rights ✓ Pro-economic-development with fair terms for the host county ✓ Endorsed by educators, coal, and labor ✓ The only Democrat in the state of West Virginia endorsed by farmers Most of the people in District 92 are not party loyalists.
 They're tired of being talked down to, tired of paying for things they didn't ask for, and tired of a representative who votes how Charleston tells him to and dismisses constituents the rest of the time.
-WHY YOU'D VOTE FOR ME — EVEN IF YOU'RE NOT A DEMOCRAT
-I'm running because I'm anti-establishment in the way that actually counts — I don't owe anyone in Charleston a favor, I don't take money from lobbyists for the county, and I won't vote yes.
+WHY YOU'D VOTE FOR ME — EVEN IF YOU'RE NOT A DEMOCRAT I'm running because I'm anti-establishment in the way that actually counts — I don't owe anyone in Charleston a favor, I don't take money from lobbyists for the county, and I won't vote yes.
 I know how things work in Charleston because I show up and I ask questions.
 I've stood in front of the Department of Natural Resources Commission.
 I've gone to County Commission meetings.
@@ -41,3 +30,4 @@ If you're an independent who got locked out of the Republican primary this year,
 If you're a Democrat who hasn't had a real choice in years, you do now.
 Berkeley County deserves a representative whose first allegiance is to the people who live here.
 That's the job I'm asking for.
+Paid for by Brad Noll for WV House of Delegates, District 92 · Hedgesville, WV BRAD@NOLL4WV.COM

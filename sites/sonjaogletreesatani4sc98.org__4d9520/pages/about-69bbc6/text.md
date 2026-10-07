@@ -1,4 +1,5 @@
-Dr.
+Together, Let's Move 98 Forward Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy More Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy About Dr.
+Sonja Ogletree Satani Dr.
 Sonja Ogletree Satani is a dedicated leader, Air Force veteran, esteemed professor, and accomplished business expert with a passion for service and community empowerment.
 She brings over three decades of experience in leadership training, business management consulting, and organizational development to her candidacy for the South Carolina State House of Representatives District 98.
 As a seasoned professional, Dr.
@@ -26,6 +27,5 @@ With her proven track record of leadership, expertise in business management, an
 Sonja Ogletree Satani is the ideal candidate to lead District 98 forward.
 Vote for Dr.
 Sonja Ogletree Satani for a brighter future for all.
-Copyright © 2025 Sonja Ogletree Satani For SC House 98 - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Sonja Ogletree Satani For SC House 98 - All Rights Reserved.
+Donate Privacy Policy

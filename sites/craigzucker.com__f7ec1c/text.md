@@ -1,4 +1,11 @@
-Craig J.
+Meet Craig Issues Endorsements Scholarship Voter FAQ Contribute Meet Craig Issues Endorsements Scholarship Voter FAQ Contribute Craig’s Message Thank you for visiting my website.
+It is an honor and privilege to serve our community and the residents of Montgomery County in the Maryland State Senate.
+This website provides an opportunity to learn a little bit more about me.
+I am interested in hearing from you.
+Please let me know if ever there is anything I can be helpful with.
+Get Involved If you would like to stay involved with Senator Craig Zucker and the District 14 team, click the link below.
+Get Involved Meet Craig Senator Craig Zucker and his wife, Jenny.
+Read More About Craig Craig J.
 Zucker is a Democratic state senator from Maryland’s 14th District and represents more than 130,000 residents.
 He was appointed to the Maryland State Senate on February 4th, 2016.
 In 2018, Craig was elected to the Maryland State Senate.
@@ -34,3 +41,5 @@ Craig earned his Bachelor of Science Degree from St.
 Thomas Aquinas College and his Master’s Degree in Government from Johns Hopkins University.
 He lives in Brookeville, Maryland, with his wife Jenny, their two sons, and their dog Olivia.
 He is a member of Shaare Tefila in Olney, MD.
+The Issues Working to Improve the Economy Read More Standing Up for Working Families Read More Bringing Back State Resources Read More Investing in Public Education Read More Protecting Our Natural Resources Read More Keeping Our Neighborhoods Safe Read More Creating Transportation Solutions Read More Providing Accessible Health Care Read More Contact Craig P.O.
+Box 1037 Olney, MD 20830 craig@craigzucker.com By Authority: Friends of Craig Zucker, Lauretta Rodich, Treasurer

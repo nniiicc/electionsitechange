@@ -1,11 +1,54 @@
 [
-"http://eepurl.com/hBx_m9",
-"https://facebook.com/DelLukeClippinger",
-"https://luke46.org/",
-"https://luke46.org/about-luke",
-"https://luke46.org/get-involved",
-"https://luke46.org/issues",
-"https://secure.actblue.com/donate/friends-of-luke-clippinger-1",
-"https://secure.actblue.com/donate/luke-clippinger",
-"https://twitter.com/LukeClippinger"
+{
+"text": "About Luke",
+"href": "https://www.luke46.org/about-luke"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/luke-clippinger"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-luke-clippinger-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.luke46.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.luke46.org"
+},
+{
+"text": "Issues",
+"href": "https://www.luke46.org/issues"
+},
+{
+"text": "Newsletter Sign-Up",
+"href": "http://eepurl.com/hBx_m9"
+},
+{
+"text": "Sign Up",
+"href": "http://eepurl.com/hBx_m9"
+},
+{
+"text": "[image: CLP_Logo_RBG.png]",
+"href": "https://www.luke46.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DelLukeClippinger"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LukeClippinger"
+},
+{
+"text": "info@luke46.org",
+"href": "mailto:info@luke46.org"
+},
+{
+"text": "luke.clippinger@house.state.md.us",
+"href": "mailto:luke.clippinger@house.state.md.us"
+}
 ]

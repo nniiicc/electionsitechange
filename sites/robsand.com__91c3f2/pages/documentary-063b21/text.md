@@ -1,4 +1,2 @@
-Donate by mail
-Checks can be addressed to Rob Sand for Iowa and mailed to:
-PO Box 8382, Des Moines, IA 50301
-Paid for by Rob Sand for Iowa
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

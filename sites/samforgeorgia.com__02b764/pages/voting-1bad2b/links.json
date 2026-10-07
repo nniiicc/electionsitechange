@@ -1,23 +1,90 @@
 [
-"https://blogs.loc.gov/loc/2020/07/remembering-john-lewis-the-power-of-good-trouble",
-"https://elections.sos.ga.gov/Elections/countyregistrars.do",
-"https://facebook.com/samforgeorgia",
-"https://instagram.com/repsampark",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://registertovote.sos.ga.gov/GAOLVR/welcome.do",
-"https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do",
-"https://samforgeorgia.com/",
-"https://samforgeorgia.com/cart",
-"https://samforgeorgia.com/contact",
-"https://samforgeorgia.com/dfp",
-"https://samforgeorgia.com/home",
-"https://samforgeorgia.com/meet-sam",
-"https://samforgeorgia.com/priorities",
-"https://samforgeorgia.com/privacy-policy",
-"https://samforgeorgia.com/resources",
-"https://samforgeorgia.com/volunteer",
-"https://samforgeorgia.com/voting",
-"https://secure.actblue.com/donate/sampark24",
-"https://sos.ga.gov/sites/default/files/forms/2022%20State%20Scheduled%20Elections%20Short%20Calendar.pdf",
-"https://twitter.com/samforgeorgia"
+{
+"text": "0",
+"href": "https://www.samforgeorgia.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.samforgeorgia.com/contact"
+},
+{
+"text": "County Board of Registrar's Office",
+"href": "https://elections.sos.ga.gov/Elections/countyregistrars.do"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/sampark24"
+},
+{
+"text": "Fellowship Program",
+"href": "https://www.samforgeorgia.com/dfp"
+},
+{
+"text": "John Lewis",
+"href": "https://blogs.loc.gov/loc/2020/07/remembering-john-lewis-the-power-of-good-trouble/"
+},
+{
+"text": "Meet Sam",
+"href": "https://www.samforgeorgia.com/meet-sam"
+},
+{
+"text": "My Voter Page",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Priorities",
+"href": "https://www.samforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.samforgeorgia.com/privacy-policy"
+},
+{
+"text": "Resources",
+"href": "https://www.samforgeorgia.com/resources"
+},
+{
+"text": "Volunteer",
+"href": "https://www.samforgeorgia.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.samforgeorgia.com/voting"
+},
+{
+"text": "[image: Sam Park for Georgia]",
+"href": "https://www.samforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.samforgeorgia.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/samforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/samforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repsampark/"
+},
+{
+"text": "contact",
+"href": "mailto:sam@samforgeorgia.com"
+},
+{
+"text": "election calendar",
+"href": "https://www.sos.ga.gov/sites/default/files/forms/2022%20State%20Scheduled%20Elections%20Short%20Calendar.pdf"
+},
+{
+"text": "register online",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button"
+},
+{
+"text": "submit a new voter registration application",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+}
 ]

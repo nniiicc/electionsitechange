@@ -1,14 +1,21 @@
-HAPPY NEW YEAR AND THE UPCOMING LEGISLATIVE SESSION
-Dear Friends and Neighbors, As we begin this new year, I would like to wish you all a safe and prosperous 2019.
+top of page HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+TAKE ACTION CONTRIBUTE STAY CONNECTED NEWSROOM HAPPY NEW YEAR AND THE UPCOMING LEGISLATIVE SESSION Dear Friends and Neighbors, As we begin this new year, I would like to wish you all a safe and prosperous 2019.
 And as we start this new...
+HAPPY HOLIDAYS FROM OUR FAMILY TO YOURS!
 HAPPY THANKSGIVING!
 Dear Friends and Neighbors, Thanksgiving is one of my most favorite holidays.
 It's the time of year when we gather with our loved ones...
-Voter Registration and Absentee Voting
-Dear Friends and Neighbors, Absentee voting begins TODAY and you have until WEDNESDAY, OCTOBER 17 to register to vote.
+Voter Registration and Absentee Voting Dear Friends and Neighbors, Absentee voting begins TODAY and you have until WEDNESDAY, OCTOBER 17 to register to vote.
 The date to...
-HURRICANE FLORENCE
-Dear Friends and Neighbors, Fierce winds and torrential rainfall are expected due to Hurricane Florence.
+HURRICANE FLORENCE Dear Friends and Neighbors, Fierce winds and torrential rainfall are expected due to Hurricane Florence.
 It may be a storm of historic...
-BACK TO SCHOOL
-Dear Friends and Neighbors, My two daughters who are now entering high school and middle school, respectively, recently returned back...
+BACK TO SCHOOL Dear Friends and Neighbors, My two daughters who are now entering high school and middle school, respectively, recently returned back...
+4 5 6 7 8 Recent Posts Statement on the Passing of Senator Lindsey Graham 2026 END OF SESSION LEGISLATIVE UPDATE Happy Birthday, America!
+Plus my End of Session Legislative Update Happy holidays from my family to yours!
+Happy Thanksgiving!
+Checking In - Recovering from Hurricane Helene BACK TO SCHOOL MESSAGE - HONORING OUR TEACHERS Happy Birthday, America!
+Plus my End of Session Legislative Update Happy Holidays from my family to yours!
+Memorial Day - Remember and Honor CONTRIBUTE NOW GET UPDATES FOLLOW ME LIKE MY PAGE HOME ABOUT ISSUES NEWS CONTACT More...
+Use tab to navigate through the menu items.
+CONTRIBUTE Phone: 803.212-6940 Blatt Building, #532-C, Pendleton Street Columbia, SC 29201 Email: beth@bethbernsteinsc.com | Beth Bernstein for House PAID FOR BY BETH BERNSTEIN FOR HOUSE Follow Us on X! bottom of page

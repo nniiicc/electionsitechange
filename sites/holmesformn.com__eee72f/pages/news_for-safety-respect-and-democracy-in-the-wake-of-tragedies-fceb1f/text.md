@@ -1,5 +1,4 @@
-For Safety, Respect, and Democracy in the Wake of Tragedies
-The murder of Charlie Kirk is a heartbreaking reminder of how dangerous our political climate has become, and my deepest condolences go to his family and loved ones.
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact For Safety, Respect, and Democracy in the Wake of Tragedies Sep 10 Written By Maren Schroeder The murder of Charlie Kirk is a heartbreaking reminder of how dangerous our political climate has become, and my deepest condolences go to his family and loved ones.
 Sadly, his death is not an isolated tragedy.
 In recent years, we’ve seen political figures and their families targeted across the spectrum — from the attempted assassinations of President Trump, to the shooting of Congresswoman Gabby Giffords, the attack on Republican members of Congress at a baseball practice, the brutal assault on Paul Pelosi, and here in Minnesota, the murders of Melissa and Mark Hortman and the shooting of Senator John Hoffman and his wife.
 No matter the party, no matter the ideology, political violence is unacceptable and has no place in our democracy.
@@ -11,3 +10,5 @@ Whether in politics or in our schools, these tragedies are fueled by overheated 
 It is time to turn down the temperature, reject misinformation, and recommit to civil discourse.
 Our neighbors deserve leaders who will work across differences to find real solutions that keep our children safe, strengthen our communities, and protect the democracy we all value.
 Politics must be settled with ballots and conversations, never with bullets.
+Maren Schroeder Previous Previous Putting our Communities Ahead of Big Tech Next Next Finding the Courage to Act: Statement on Annunciation Catholic School Shooting Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

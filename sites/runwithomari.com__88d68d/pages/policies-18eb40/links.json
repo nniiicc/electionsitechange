@@ -1,16 +1,62 @@
 [
-"http://instagram.com/runwithomari",
-"https://facebook.com/runwithomari",
-"https://run-with-omari-shop.fourthwall.com/",
-"https://runwithomari.com/",
-"https://runwithomari.com/omaris-story",
-"https://runwithomari.com/policies",
-"https://runwithomari.com/running-the-50-states",
-"https://secure.actblue.com/donate/runwithomari",
-"https://secure.actblue.com/donate/runwithomari?amount=100",
-"https://secure.actblue.com/donate/runwithomari?amount=25",
-"https://secure.actblue.com/donate/runwithomari?amount=5",
-"https://secure.actblue.com/donate/runwithomari?amount=50",
-"https://secure.actblue.com/donate/runwithomari?amount=500",
-"https://tiktok.com/@runwithomari"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/runwithomari?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/runwithomari?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/runwithomari?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/runwithomari?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/runwithomari?amount=500"
+},
+{
+"text": "Chip In",
+"href": "https://secure.actblue.com/donate/runwithomari"
+},
+{
+"text": "Follow",
+"href": "http://instagram.com/runwithomari"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/runwithomari"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@runwithomari"
+},
+{
+"text": "Home",
+"href": "https://runwithomari.com/"
+},
+{
+"text": "Omari’s Story",
+"href": "https://runwithomari.com/omaris-story/"
+},
+{
+"text": "Policy Rundown",
+"href": "https://runwithomari.com/policies/"
+},
+{
+"text": "Running the 50 States",
+"href": "https://runwithomari.com/running-the-50-states/"
+},
+{
+"text": "Shop",
+"href": "https://run-with-omari-shop.fourthwall.com/"
+},
+{
+"text": "[image: Omari Crawford]",
+"href": "https://runwithomari.com/"
+}
 ]

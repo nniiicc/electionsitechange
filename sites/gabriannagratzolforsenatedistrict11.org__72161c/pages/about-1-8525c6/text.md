@@ -1,7 +1,6 @@
-It all began in a classroom.
+0 Skip to Content Home About Gabrianna Platform About District 11 Contact Us Events Open Menu Close Menu Home About Gabrianna Platform About District 11 Contact Us Events Open Menu Close Menu Home About Gabrianna Platform About District 11 Contact Us Events It all began in a classroom.
 When I started in activism, one question that I kept hearing was, “When did you know you had to do something?
-Where did it start for you?”
-I remember the moment it happened for me.
+Where did it start for you?” I remember the moment it happened for me.
 I was sitting in my second-grade classroom and the lights were off.
 We were watching a movie about Ruby Bridges.
 I sat at my desk and watched as adults, adults that looked just like the adults that I was told to listen to and to trust, screamed insults and threw bricks at a girl smaller than I was.
@@ -19,8 +18,7 @@ As I entered adulthood, I wanted to do work that made a positive difference.
 I worked with teenagers with mental health barriers in residential treatment.
 I’ve worked with children with autism, helping them and their families find their voices and learning how to advocate for them in spaces where they were not represented.
 “When the systems fail to protect us, we must work to change them.
-I’m ready to take the fight to Indianapolis.”
-I eventually got a job in a wood shop.
+I’m ready to take the fight to Indianapolis.” I eventually got a job in a wood shop.
 The pay was higher than what I had made previously and I found myself in a position to start a family.
 While working there, I received nothing but enthusiastic, positive feedback on my performance.
 Then I made a life changing discovery.
@@ -38,11 +36,10 @@ There I was, a person who had worked my whole life, built up my credit score, bo
 I was lucky.
 My situation afforded me privileges that helped me get through it.
 Once I got through to the other side, I resolved that I would do everything in my power to make sure that the people that come after me don’t have to go through what I went through.
-“What I found was that every safety net that was supposed to catch us fell short.”
-“I’m not here to hope and wait, I’m here to work.”
-Now I support my family working full time in a plastics manufacturing plant with my husband.
+“What I found was that every safety net that was supposed to catch us fell short.” “I’m not here to hope and wait, I’m here to work.” Now I support my family working full time in a plastics manufacturing plant with my husband.
 I spend my free time volunteering with our local Democratic Parties, organizing protests, building relationships with nonprofits and mutual aid organizations, and helping connect people in need of help with groups that can help them.
 I’m a founding board member of a nonprofit created for left leaning individuals who own firearms and want to protect second amendment rights in a way that prioritizes safety, equity, and responsible legislation around firearms.
 Learning to balance my physically and mentally demanding job with my work in activism and political involvement has been a challenge that I’ve greatly enjoyed.
 My background in behavioral health has equipped me with the skills necessary to work with people with differing beliefs, backgrounds, and abilities in a way that produces real results that improve situations for all involved.
 I’m ready to take these skills to the State Senate and fix the systems that are failing us as they currently function.
+Gabrianna Gratzol for State Senate District 11 Made with Squarespace Paid for by Friends of Gabrianna Gratzol Contact gabriannagratzol@gmail.com (574) 322-8115

@@ -1,21 +1,3 @@
-1
-/
-34
-Malliotakis: Never Forget Means Making Sure Law Enforcement Has Resources to Prevent Another Attack
-Malliotakis: Hochul has made New Yorkers pay 60% MORE for electricity than USA average
-Malliotakis: Democrat Socialists Push Radical No Cops, No Jails, No Borders Agenda
-Malliotakis: Democrats let criminals wreak havoc in NYC; Trump & Congress stopped it
-Malliotakis Urges DOJ to Shut Down NYC’s Illegal Heroin Injection Centers
-Malliotakis Pushes Larger Exemption From Capital Gains Tax on Middle-Class Home Sales
-Malliotakis: Anti-Semitism on the Rise As Democrats Keep Electing Radical Leftists
-Malliotakis: New York Democrats’ Education Priorities Upside down
-Malliotakis Discusses GOP Affordability Agenda with Maria Bartiromo
-Malliotakis Warns Turkey Should Not Be Sold F-35 Jets
-Malliotakis Pushes Higher Capital Gains Tax Exemption for Seniors Selling Their Homes
-Malliotakis Touts Success of Working Families Tax Cuts One Year Later
-Malliotakis: Socialists Seek To Destroy Our Country From Within
-Malliotakis: This is not your grandfather’s Democrat party anymore…it’s not even your father’s
-Malliotakis Slams Schumer For Saying “Nobody Respects” ICE & Border Patrol
-1
-/
-34
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Watch Now « Prev 1 / 34 Next » Malliotakis: Economy is growing, Tax Cuts were Delivered & border is Secured.
+Malliotakis: Never Forget Means Making Sure Law Enforcement Has Resources to Prevent Another Attack Malliotakis: Hochul has made New Yorkers pay 60% MORE for electricity than USA average Malliotakis: Democrat Socialists Push Radical No Cops, No Jails, No Borders Agenda Malliotakis: Democrats let criminals wreak havoc in NYC; Trump & Congress stopped it Malliotakis Urges DOJ to Shut Down NYC’s Illegal Heroin Injection Centers Malliotakis Pushes Larger Exemption From Capital Gains Tax on Middle-Class Home Sales Malliotakis: Anti-Semitism on the Rise As Democrats Keep Electing Radical Leftists Malliotakis: New York Democrats’ Education Priorities Upside down Malliotakis Discusses GOP Affordability Agenda with Maria Bartiromo Malliotakis Warns Turkey Should Not Be Sold F-35 Jets Malliotakis Pushes Higher Capital Gains Tax Exemption for Seniors Selling Their Homes Malliotakis Touts Success of Working Families Tax Cuts One Year Later Malliotakis: Socialists Seek To Destroy Our Country From Within Malliotakis: This is not your grandfather’s Democrat party anymore…it’s not even your father’s « Prev 1 / 34 Next » « Prev 1 / 34 Next » Malliotakis: Economy is growing, Tax Cuts were Delivered & border is Secured.
+Malliotakis: Never Forget Means Making Sure Law Enforcement Has Resources to Prevent Another Attack Malliotakis: Hochul has made New Yorkers pay 60% MORE for electricity than USA average Malliotakis: Democrat Socialists Push Radical No Cops, No Jails, No Borders Agenda Malliotakis: Democrats let criminals wreak havoc in NYC; Trump & Congress stopped it Malliotakis Urges DOJ to Shut Down NYC’s Illegal Heroin Injection Centers Malliotakis Pushes Larger Exemption From Capital Gains Tax on Middle-Class Home Sales Malliotakis: Anti-Semitism on the Rise As Democrats Keep Electing Radical Leftists Malliotakis: New York Democrats’ Education Priorities Upside down Malliotakis Discusses GOP Affordability Agenda with Maria Bartiromo Malliotakis Warns Turkey Should Not Be Sold F-35 Jets Malliotakis Pushes Higher Capital Gains Tax Exemption for Seniors Selling Their Homes Malliotakis Touts Success of Working Families Tax Cuts One Year Later Malliotakis: Socialists Seek To Destroy Our Country From Within Malliotakis: This is not your grandfather’s Democrat party anymore…it’s not even your father’s « Prev 1 / 34 Next » STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

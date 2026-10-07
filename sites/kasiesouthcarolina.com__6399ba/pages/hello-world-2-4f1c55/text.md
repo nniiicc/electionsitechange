@@ -1,4 +1,4 @@
-I love July 4th.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Declare Your Independence this 4th of July I love July 4th.
 I like the heat of a summer’s day, the splash of swimming pool parties, hot dogs on the grill, and fireworks in the sky.
 I love patriotic music from John Philips Souza to Johnny Horton.
 I think of July 4th as the Thanksgiving that extends from our family gathering to our community, our state, and our nation.
@@ -7,8 +7,7 @@ It was treason to sign the Declaration of Independence and they did it anyway.
 I think about the beliefs that compelled them to dissolve the political binds they had with England.
 That governments are instituted to secure our inalienable rights, and that governments derive their power from the consent of the governed.
 That whenever government becomes antagonistic to liberty, it is the right of the people to alter or abolish it.
-Light the fire of independence and share it with a friend | Photo by Tairon Fernandez on Pexels.com
-Three such incredibly powerful assertions: 1) We have God-given rights to life, liberty, and the pursuit of happiness, 2) we consent to a government that will protect those rights, and 3) if the government fails to protect those rights, we will alter or abolish it.
+Light the fire of independence and share it with a friend | Photo by Tairon Fernandez on Pexels.com Three such incredibly powerful assertions: 1) We have God-given rights to life, liberty, and the pursuit of happiness, 2) we consent to a government that will protect those rights, and 3) if the government fails to protect those rights, we will alter or abolish it.
 The document goes on to say that man is more likely to abide suffering than to disrupt the known order.
 How well we know this.
 Our current condition is one of suffering under the known order: the two parties that have hijacked our government and suppressed us all with their tyranny.
@@ -36,3 +35,6 @@ I hope we’ll each feel that swell of pride in our nation, and gratitude, above
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

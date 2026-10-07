@@ -1,1 +1,6 @@
-The Illinois Department of Financial and Professional Regulation (IDFPR) is rolling out a new online licensing system to replace its old paper-based, backlog-prone process — aiming to finally eliminate the […]
+Home About Issues News Contact Volunteer Donate & Support Home About News Donate Contact Volunteer Proposed “Junk Fee” Reform Would Force Price Transparency in Illinois Illinois Enacts Law Requiring Seat Belts on New School Buses Illinois Department Streamlines Online Licensing System The Illinois Department of Financial and Professional Regulation (IDFPR) is rolling out a new online licensing system to replace its old paper-based, backlog-prone process — aiming to finally eliminate the […] Illinois Bill Would Limit AI in Health Insurance Decisions Illinois Becomes First State to Ban AI Therapists Proposed “Junk Fee” Reform Would Force Price Transparency in Illinois Illinois Department Streamlines Online Licensing System Illinois Shouldn’t Subsidize Losing Teams Illinois Enacts Law Requiring Seat Belts on New School Buses Rep.
+Bob Morgan: What patriotism means to me three years after the Highland Park mass shooting Address P.O.
+Box 1074 Deerfield, IL 60015 Contact info@bobmorganforillinois.com PH: (847) 282-0577 Follow Facebook LinkedIn Twitter Paid for by Friends of Bob Morgan.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Copyright.
+All Rights Reserved ©#

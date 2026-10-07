@@ -1,33 +1,126 @@
 [
-"https://secure.winred.com/victor-marx-for-governor/donate",
-"https://victor2026.com/",
-"https://victor2026.com/articles",
-"https://victor2026.com/articles/categories/newsletters",
-"https://victor2026.com/articles/categories/op-eds",
-"https://victor2026.com/articles/categories/press-releases",
-"https://victor2026.com/colorado-works-better",
-"https://victor2026.com/contact",
-"https://victor2026.com/endorsements",
-"https://victor2026.com/events",
-"https://victor2026.com/media",
-"https://victor2026.com/meet-victor",
-"https://victor2026.com/my-policies",
-"https://victor2026.com/policies",
-"https://victor2026.com/post/campaign-finance-decision-from-sos",
-"https://victor2026.com/post/victor-marx-calls-on-governor-polis-torelease-tina-peters-from-prison",
-"https://victor2026.com/post/victor-marx-delivers-28-541-petition-signatures-to-colorado-secretary-of-state-in-historic-grassroot",
-"https://victor2026.com/post/victor-marx-dominates-9news-debatelocks-up-gop-front-runner-status",
-"https://victor2026.com/post/victor-marx-dominates-coloradogovernor-s-race",
-"https://victor2026.com/post/victor-marx-dominates-first-public-poll-shows-commanding-lead-in-colorado-gop-primary",
-"https://victor2026.com/post/victor-marx-dominates-governor-s-race",
-"https://victor2026.com/post/victor-marx-initiative-195-punishes-success-and-puts-colorado-jobs-at-risk",
-"https://victor2026.com/post/victor-marx-launches-campaign-for-governor-a-vision-for-faith-family-and-freedom-in-colorado",
-"https://victor2026.com/post/victor-marx-launches-six-city-colorado-rescue-tour",
-"https://victor2026.com/post/victor-marx-leads-the-pack-in-grassroots-visibility-doubling-down-on-direct-voter-engagement-ahead",
-"https://victor2026.com/post/victor-marx-s-rescue-colorado-tourends-with-hope-and-unity",
-"https://victor2026.com/post/victor-marx-selects-retired-marine-colonel-and-operations-executive-george-markert-as-running-mate",
-"https://victor2026.com/post/victor-marx-shatters-fundraising-milestone-raising-over-2-million-from-all-64-colorado-counties",
-"https://victor2026.com/post/victor-marx-shattersfundraising-expectations-in-januaryraising-over-300-000-in-just-28-days",
-"https://victor2026.com/post/victor-marx-to-be-featured-speaker-at-international-faith-summit-during-cpac-usa-2026",
-"https://victor2026.com/post/victor-marx-wins-39-of-delegates-at-colorado-republican-state-assembly-secures-ballot-position"
+{
+"text": "ALL POSTS",
+"href": "https://www.victor2026.com/articles"
+},
+{
+"text": "CONTACT",
+"href": "https://www.victor2026.com/contact"
+},
+{
+"text": "CWB PLAN",
+"href": "https://www.victor2026.com/colorado-works-better"
+},
+{
+"text": "Campaign Finance Decision from SoS",
+"href": "https://www.victor2026.com/post/campaign-finance-decision-from-sos"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/victor-marx-for-governor/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.victor2026.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.victor2026.com/events"
+},
+{
+"text": "MEDIA",
+"href": "https://www.victor2026.com/media"
+},
+{
+"text": "MEET VICTOR",
+"href": "https://www.victor2026.com/meet-victor"
+},
+{
+"text": "My Priorities",
+"href": "https://www.victor2026.com/my-policies"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.victor2026.com/articles/categories/newsletters"
+},
+{
+"text": "OP-EDS",
+"href": "https://www.victor2026.com/articles/categories/op-eds"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.victor2026.com/articles/categories/press-releases"
+},
+{
+"text": "Policies",
+"href": "https://www.victor2026.com/policies"
+},
+{
+"text": "VICTOR MARX DELIVERS 28,541 PETITION SIGNATURES TO COLORADO SECRETARY OF STATE In Historic Grassroots Achievement",
+"href": "https://www.victor2026.com/post/victor-marx-delivers-28-541-petition-signatures-to-colorado-secretary-of-state-in-historic-grassroot"
+},
+{
+"text": "VICTOR MARX DOMINATES - First Public Poll Shows Commanding Lead in Colorado GOP Primary",
+"href": "https://www.victor2026.com/post/victor-marx-dominates-first-public-poll-shows-commanding-lead-in-colorado-gop-primary"
+},
+{
+"text": "VICTOR MARX DOMINATES 9NEWS DEBATELOCKS UP GOP FRONT-RUNNER STATUS",
+"href": "https://www.victor2026.com/post/victor-marx-dominates-9news-debatelocks-up-gop-front-runner-status"
+},
+{
+"text": "VICTOR MARX DOMINATES COLORADO GOVERNOR’S RACE",
+"href": "https://www.victor2026.com/post/victor-marx-dominates-coloradogovernor-s-race"
+},
+{
+"text": "VICTOR MARX DOMINATES GOVERNOR’S RACE",
+"href": "https://www.victor2026.com/post/victor-marx-dominates-governor-s-race"
+},
+{
+"text": "VICTOR MARX LAUNCHES SIX CITY “COLORADO RESCUE TOUR”",
+"href": "https://www.victor2026.com/post/victor-marx-launches-six-city-colorado-rescue-tour"
+},
+{
+"text": "VICTOR MARX LEADS THE PACK IN GRASSROOTS VISIBILITY - DOUBLING DOWN ON DIRECT VOTER ENGAGEMENT AHEAD OF PRIMARY",
+"href": "https://www.victor2026.com/post/victor-marx-leads-the-pack-in-grassroots-visibility-doubling-down-on-direct-voter-engagement-ahead"
+},
+{
+"text": "VICTOR MARX SELECTS RETIRED MARINE COLONEL AND OPERATIONS EXECUTIVE, GEORGE MARKERT, AS RUNNING MATE",
+"href": "https://www.victor2026.com/post/victor-marx-selects-retired-marine-colonel-and-operations-executive-george-markert-as-running-mate"
+},
+{
+"text": "VICTOR MARX SHATTERS FUNDRAISING EXPECTATIONS IN JANUARY Raising over $300,000 in just 28 Days!",
+"href": "https://www.victor2026.com/post/victor-marx-shattersfundraising-expectations-in-januaryraising-over-300-000-in-just-28-days"
+},
+{
+"text": "VICTOR MARX SHATTERS FUNDRAISING MILESTONE RAISING OVER $2 MILLION FROM ALL 64 COLORADO COUNTIES",
+"href": "https://www.victor2026.com/post/victor-marx-shatters-fundraising-milestone-raising-over-2-million-from-all-64-colorado-counties"
+},
+{
+"text": "VICTOR MARX TO BE FEATURED SPEAKER AT INTERNATIONAL FAITH SUMMIT DURING CPAC USA 2026",
+"href": "https://www.victor2026.com/post/victor-marx-to-be-featured-speaker-at-international-faith-summit-during-cpac-usa-2026"
+},
+{
+"text": "VICTOR MARX WINS 39% OF DELEGATES AT COLORADO REPUBLICAN STATE ASSEMBLY SECURES BALLOT POSITION",
+"href": "https://www.victor2026.com/post/victor-marx-wins-39-of-delegates-at-colorado-republican-state-assembly-secures-ballot-position"
+},
+{
+"text": "VICTOR MARX: INITIATIVE 195 PUNISHES SUCCESS AND PUTS COLORADO JOBS AT RISK",
+"href": "https://www.victor2026.com/post/victor-marx-initiative-195-punishes-success-and-puts-colorado-jobs-at-risk"
+},
+{
+"text": "VICTOR MARX’S RESCUE COLORADO TOUR ENDS WITH HOPE AND UNITY",
+"href": "https://www.victor2026.com/post/victor-marx-s-rescue-colorado-tourends-with-hope-and-unity"
+},
+{
+"text": "Victor Marx Calls on Governor Polis toRelease Tina Peters from Prison",
+"href": "https://www.victor2026.com/post/victor-marx-calls-on-governor-polis-torelease-tina-peters-from-prison"
+},
+{
+"text": "Victor Marx Launches Campaign for Governor: A Vision for Faith, Family, and Freedom in Colorado",
+"href": "https://www.victor2026.com/post/victor-marx-launches-campaign-for-governor-a-vision-for-faith-family-and-freedom-in-colorado"
+},
+{
+"text": "[image: victor-logo.png]",
+"href": "https://www.victor2026.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Adam Neylon in the News",
  "final_url": "https://www.adamneylon.com/news",
- "paid_for_by": null,
+ "fingerprint": "7d44511b9205f97e14af4fd764be7cb17487929c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

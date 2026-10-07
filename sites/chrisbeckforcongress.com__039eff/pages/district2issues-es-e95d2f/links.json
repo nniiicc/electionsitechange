@@ -1,29 +1,122 @@
 [
-"http://facebook.com/ChrisBeckforCongress",
-"https://chrisbeckforcongress.com/",
-"https://chrisbeckforcongress.com/about",
-"https://chrisbeckforcongress.com/aboutchris",
-"https://chrisbeckforcongress.com/aboutchris-es",
-"https://chrisbeckforcongress.com/calendar",
-"https://chrisbeckforcongress.com/calendar-es",
-"https://chrisbeckforcongress.com/cart",
-"https://chrisbeckforcongress.com/contact",
-"https://chrisbeckforcongress.com/district2issues",
-"https://chrisbeckforcongress.com/district2issues-es",
-"https://chrisbeckforcongress.com/espanol",
-"https://chrisbeckforcongress.com/espanol-1",
-"https://chrisbeckforcongress.com/media-kit",
-"https://chrisbeckforcongress.com/shop",
-"https://chrisbeckforcongress.com/shop-es",
-"https://chrisbeckforcongress.com/volunteer",
-"https://chrisbeckforcongress.com/volunteer-es",
-"https://chrisbeckforcongress.com/voters-pamphlet-statement",
-"https://doi.gov/lwcf",
-"https://donation.c-esystems.com/campaign/chrisbeckforcongress",
-"https://farmers.gov/your-business/beginning-farmers",
-"https://instagram.com/chrisbeckforcongress",
-"https://nrcs.usda.gov/programs-initiatives/agricultural-conservation-easement-program",
-"https://rd.usda.gov/about-rd/agencies/rural-housing-service",
-"https://rd.usda.gov/programs-services/community-facilities",
-"https://youtube.com/@ChrisBeckforCongress/videos"
+{
+"text": "0",
+"href": "https://chrisbeckforcongress.com/cart"
+},
+{
+"text": "Agricultural Conservation Easement Program",
+"href": "https://www.nrcs.usda.gov/programs-initiatives/agricultural-conservation-easement-program"
+},
+{
+"text": "Back",
+"href": "https://chrisbeckforcongress.com/"
+},
+{
+"text": "Beginning Farmer and Rancher",
+"href": "https://www.farmers.gov/your-business/beginning-farmers"
+},
+{
+"text": "Calendar",
+"href": "https://chrisbeckforcongress.com/calendar"
+},
+{
+"text": "Calendario",
+"href": "https://chrisbeckforcongress.com/calendar-es"
+},
+{
+"text": "Community Facilities Program",
+"href": "https://www.rd.usda.gov/programs-services/community-facilities"
+},
+{
+"text": "Contact",
+"href": "https://chrisbeckforcongress.com/contact"
+},
+{
+"text": "Contact Chris",
+"href": "https://chrisbeckforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://donation.c-esystems.com/campaign/chrisbeckforcongress"
+},
+{
+"text": "District 2 issues",
+"href": "https://chrisbeckforcongress.com/district2issues"
+},
+{
+"text": "Folder: About",
+"href": "https://chrisbeckforcongress.com/about"
+},
+{
+"text": "Folder: ES",
+"href": "https://chrisbeckforcongress.com/espanol-1"
+},
+{
+"text": "Inicio",
+"href": "https://chrisbeckforcongress.com/espanol"
+},
+{
+"text": "Land and Water Conservation Fund",
+"href": "https://www.doi.gov/lwcf"
+},
+{
+"text": "Media kit",
+"href": "https://chrisbeckforcongress.com/media-kit"
+},
+{
+"text": "Rural Housing Services",
+"href": "https://www.rd.usda.gov/about-rd/agencies/rural-housing-service"
+},
+{
+"text": "Shop",
+"href": "https://chrisbeckforcongress.com/shop"
+},
+{
+"text": "Temas del Distrito 2",
+"href": "https://chrisbeckforcongress.com/district2issues-es"
+},
+{
+"text": "Tienda",
+"href": "https://chrisbeckforcongress.com/shop-es"
+},
+{
+"text": "Videos",
+"href": "https://www.youtube.com/@ChrisBeckforCongress/videos"
+},
+{
+"text": "Voluntariado",
+"href": "https://chrisbeckforcongress.com/volunteer-es"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisbeckforcongress.com/volunteer"
+},
+{
+"text": "Voters' Pamphlet Statement",
+"href": "https://chrisbeckforcongress.com/voters-pamphlet-statement"
+},
+{
+"text": "Who is Chris?",
+"href": "https://chrisbeckforcongress.com/aboutchris"
+},
+{
+"text": "[image: Chris Beck for Congress]",
+"href": "https://chrisbeckforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://donation.c-esystems.com/campaign/chrisbeckforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ChrisBeckforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisbeckforcongress"
+},
+{
+"text": "¿Quién es Chris?",
+"href": "https://chrisbeckforcongress.com/aboutchris-es"
+}
 ]

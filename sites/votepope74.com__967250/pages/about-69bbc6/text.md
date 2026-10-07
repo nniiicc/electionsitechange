@@ -1,5 +1,7 @@
-Meet Harold
-Harold A.
+0 Skip to Content Home Meet Harold Priorities Endorsements Contact Voter FAQs Donate Here!
+Open Menu Close Menu Home Meet Harold Priorities Endorsements Contact Voter FAQs Donate Here!
+Open Menu Close Menu Home Meet Harold Priorities Endorsements Contact Voter FAQs Donate Here!
+Meet Harold Harold A.
 Pope is a candidate for the Michigan House of Representatives in the 74th District, bringing with him a lifetime of leadership, service, and a deep commitment to community empowerment.
 Raised by a single mother in Albany, New York, Harold learned early the values of hard work, resilience, and advocacy.
 His mother, Anne M.
@@ -24,3 +26,11 @@ Throughout his career, Harold has remained committed to uplifting his community.
 He founded Guardians of Our Future, a nonprofit organization focused on mentoring young men and preparing them for success.
 After relocating to Michigan, he became deeply involved in civic and community organizations, including the NAACP, Big Brothers Big Sisters of the Michigan Capital Region, and the Lansing Juneteenth Committee.
 He also played a key role in fostering partnerships that expanded mentorship opportunities and strengthened community support systems.
+Donate By Mail Harold A.
+Pope for Michigan House District 74 PO Box 203 Holt, MI 48842 Follow the Movement: Contact the Campaign ‍ ‍ Events Volunteer Speaking Requests Harold A.
+Pope is a former member of the U.S.
+Army.
+Use of his her military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense or any branch of U.S. government.
+PAID FOR BY COMMITTEE TO ELECT HAROLD A.
+POPE PO Box 203 Holt, MI 48842

@@ -1,13 +1,58 @@
 [
-"https://flic.kr/s/aHBqjD64AE",
-"https://katelynzach.com/",
-"https://katelynzach.com/about-katelyn",
-"https://katelynzach.com/get-involved",
-"https://katelynzach.com/issues",
-"https://secure.actblue.com/donate/katelyn-zach-1",
-"https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=1000&express_lane=true",
-"https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=50&express_lane=true"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=1000&express_lane=true"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=100&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=250&express_lane=true"
+},
+{
+"text": "About Katelyn",
+"href": "https://www.katelynzach.com/about-katelyn"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1"
+},
+{
+"text": "Drive",
+"href": "https://flic.kr/s/aHBqjD64AE"
+},
+{
+"text": "Get Involved",
+"href": "https://www.katelynzach.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.katelynzach.com"
+},
+{
+"text": "Issues",
+"href": "https://www.katelynzach.com/issues"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1/refcode=website?amount=50&express_lane=true"
+},
+{
+"text": "Read More",
+"href": "https://www.katelynzach.com/issues"
+},
+{
+"text": "katelynzach4missouri@gmail.com",
+"href": "mailto:katelynzach4missouri@gmail.com"
+},
+{
+"text": "​",
+"href": "https://www.katelynzach.com"
+}
 ]

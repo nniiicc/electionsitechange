@@ -1,7 +1,7 @@
-In the light of the upcoming constitutional amendments election, our office has received a few questions from people wanting to understand more about Proposition 4.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements November 1, 2019 Jeff Frazier Op-Ed #21 Prop.
+4 Questions and Answers November 1, 2019 Jeff Frazier In the light of the upcoming constitutional amendments election, our office has received a few questions from people wanting to understand more about Proposition 4.
 There has been a lot of information, misinformation and questions floating around about what Prop 4 accomplishes and how it would be implemented.
-I’d like to share our answers with you to help give a clearer picture of the reasoning behind the amendment, and help you to make a more informed decision at the ballot box
-Q: Does this actually ban a State Income Tax?
+I’d like to share our answers with you to help give a clearer picture of the reasoning behind the amendment, and help you to make a more informed decision at the ballot box Q: Does this actually ban a State Income Tax?
 Isn’t it already banned?
 A: Currently the legislature can propose an income tax if the revenue goes to property tax relief and/or education funding.
 An income tax proposal would then also have to go to a statewide referendum.
@@ -10,7 +10,7 @@ Any exceptions to that ban would take another amendment to the constitution, req
 Q: Why does the language in the amendment strike the allocation of funds for education and property tax reduction?
 A: Currently, an income tax is legal for the legislature to pass, but only if the funds go to property tax relief and education, and it could only be enacted if a referendum on the bill passes.
 Prop 4 removes the option all together.
-Having a provision that says it can’t exist at all and a provision that says if you do the money has to go to a certain place would be contradictory.
+Having a provision that says it can’t exist at all and a provision that says if you do the money has to go to a certain place would be contradictory .
 Additionally, as with the requirements that lottery proceeds go to fund education, these kinds of mechanisms are vulnerable to a shell game where, while the funds from an income tax would go toward education funding, an equal amount of other revenue sources are taken away from education at the same time, effectively allowing the state to spend the income tax revenue on whatever they choose.
 Q: Does the switch from “Natural Persons” to “Individuals” provide a loophole to give big tax breaks to businesses?
 A: The change in wording was suggested by our legislative council as a cleaner more updated version of the statute.
@@ -31,3 +31,15 @@ It is better to simply remove that provision altogether as part of a blanket ban
 A 2/3rds majority effectively means that any effort to overturn the ban on an income tax would be bipartisan, as one party rarely control the necessary 100 seats in the House and 21 seats in the Senate.
 An income tax would be a massive change to our state.
 If we implement one it shouldn’t be part of a shell game, and it should require broad support beyond a simple majority.
+November 1, 2019 Jeff Frazier Jeff Frazier Op-Ed #22 Property Taxes Part 1 - Ad Valorem Overview Op-Ed #20 - What You Might Not Have Heard About the 86th Legislature Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

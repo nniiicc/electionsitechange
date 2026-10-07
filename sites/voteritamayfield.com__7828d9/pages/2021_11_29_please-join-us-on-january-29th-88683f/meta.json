@@ -1,7 +1,12 @@
 {
- "description": "You are invited to a celebration of Rep. Rita Mayfield on Saturday, January 29th at 6:30pm. The event will be \u2026",
+ "description": "You are invited to a celebration of Rep. Rita Mayfield on Saturday, January 29th at 6:30pm. The event will be …",
  "final_url": "https://www.voteritamayfield.com/2021/11/29/please-join-us-on-january-29th/",
- "paid_for_by": null,
+ "fingerprint": "c30587c77ee4789e30be22a8693e76f28a3ad8e6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Please Join Us on January 29th - Rita Mayfield for State Rep",
- "years_mentioned": []
+ "years_mentioned": [
+  "2021",
+  "2024"
+ ]
 }

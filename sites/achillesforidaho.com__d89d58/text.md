@@ -1,7 +1,6 @@
-STAY UP TO DATE ON THE CAMPAIGN AND SUBSCRIBE TO OUR NEWSLETTER!
-MEET TODD ACHILLES
-HE IS INDEPENDENT LIKE IDAHO
-I am running as a candidate for the United States Senate because the two-party system has failed America.
+...
+0 Skip to Content Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Folder: Volunteer Back Volunteer Newsletter Folder: Media Back Endorsements NEWS ARTICLES Interviews Newsroom Folder: Merch Back Supporter Merch Assert Your Independence Folder: ESPANOL Back Inicio Políticas Boletín Voluntariado Donate STAY UP TO DATE ON THE CAMPAIGN AND SUBSCRIBE TO OUR NEWSLETTER!
+GET UPDATES MEET TODD ACHILLES HE IS INDEPENDENT LIKE IDAHO I am running as a candidate for the United States Senate because the two-party system has failed America.
 Both parties increase the national debt, keep us in endless wars, and favor big corporations, harming our families in the process.
 Both parties benefit from division among Americans.
 I reject the left-right divide because the challenge ahead of us is those at the top versus those at the bottom — those in power against the people.
@@ -10,3 +9,13 @@ I grew up on a family farm, where I learned from a very young age the values we 
 I served in the United States Army as a tank commander and armor officer.
 The Army taught me the discipline of teamwork, leadership, and determination.
 These are the qualities I bring to public service.
+IN THE NEWS NEWS ARTICLES October 5, 2026 There should be age limits for U.S.
+Senators, including Idaho’s | Opinion - Idaho’s Mitch McConnell October 5, 2026 Read more → October 5, 2026 October 5, 2026 ACHILLES: Opportunity for Idaho October 5, 2026 Read more → October 5, 2026 October 5, 2026 The unicorn: It’s a different contest; is it different enough?
+October 5, 2026 Read more → October 5, 2026 October 5, 2026 Idaho US Senate candidates weigh in on tariffs, Iran War, federal spending and more October 5, 2026 Read more → October 5, 2026 September 30, 2026 Fact check: Where Idaho U.S.
+Senate candidates stand on immigration September 30, 2026 Read more → September 30, 2026 September 30, 2026 Opinion: It is high time to turn the page on hyper-partisan politics in Idaho September 30, 2026 Read more → September 30, 2026 September 28, 2026 OPINION: Achilles-Risch campaign is a referendum on Iran September 28, 2026 Read more → September 28, 2026 September 25, 2026 Letter to the Editor: Good news September 25, 2026 Read more → September 25, 2026 September 23, 2026 U.S.
+Senate, Statewide | Voter Guide: 2026 General Election (Idaho Capital Sun) September 23, 2026 Read more → September 23, 2026 LET'S SUPPORT TODD!
+PLEASE MAKE A DONATION TO TODD ACHILLES' CAMPAIGN FOR U.S.
+SENATE $10 $25 $50 $100 $250 Other Amount INTERVIEWS Interviews Idaho independent Todd Achilles says he won't caucus with either party if elected to Senate Read more → RUNNING FOR US SENATE IN IDAHO WITH TODD ACHILLES Read more → Candidate says independents should take charge with Dems, GOP frustrated Read more → CNN - Strategic Quitting Read more → The Veteran Breaking the Two-Party Grip Read more → EXCLUSIVE: Todd Achilles on What Comes Next for Congress Read more → Todd Achilles announces campaign for Idaho Senate Read more → Inserting Competition in Idaho with Todd Achilles Read more → Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
+The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

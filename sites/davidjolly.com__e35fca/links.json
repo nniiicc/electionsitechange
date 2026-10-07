@@ -1,46 +1,254 @@
 [
-"https://davidjolly.com/",
-"https://davidjolly.com/a-florida-for-everyone",
-"https://davidjolly.com/about",
-"https://davidjolly.com/about-david",
-"https://davidjolly.com/about-gwen",
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/contact",
-"https://davidjolly.com/ending-the-culture-wars",
-"https://davidjolly.com/environment",
-"https://davidjolly.com/es",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/florida-governor-s-race-is-officially-a-toss-up",
-"https://davidjolly.com/from-the-trail",
-"https://davidjolly.com/get-involved",
-"https://davidjolly.com/homeowners-insurance",
-"https://davidjolly.com/ht",
-"https://davidjolly.com/inside-elections-shifts-florida-governor-s-race-even-further-in-david-jolly-s-di",
-"https://davidjolly.com/issues",
-"https://davidjolly.com/issues/affordability",
-"https://davidjolly.com/issues/data-centers",
-"https://davidjolly.com/issues/health-care",
-"https://davidjolly.com/issues/public-education",
-"https://davidjolly.com/issues/republicans-for-jolly",
-"https://davidjolly.com/jolly-insurance-proposal-facts",
-"https://davidjolly.com/media",
-"https://davidjolly.com/meet-gwen",
-"https://davidjolly.com/sabato-s-crystal-ball-shifts-governor-s-race-in-david-jolly-s-direction-now-rate",
-"https://davidjolly.com/video",
-"https://davidjolly.com/where-david-stands",
-"https://facebook.com/davidjollyflorida",
-"https://instagram.com/davidjollyfl",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://x.com/davidjollyfl"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "A Florida for Everyone The people who make this state strong shouldn't be pushed to the margins. Learn more →",
+"href": "https://davidjolly.com/a-florida-for-everyone"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "About David Jolly",
+"href": "https://davidjolly.com/about/"
+},
+{
+"text": "Be part of it",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "Commentary",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://davidjolly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "ES",
+"href": "https://davidjolly.com/es/"
+},
+{
+"text": "Education",
+"href": "https://davidjolly.com/issues/public-education/"
+},
+{
+"text": "Ending the Culture Wars We can't move forward together if we are constantly being driven apart. Learn more →",
+"href": "https://davidjolly.com/ending-the-culture-wars"
+},
+{
+"text": "From the Trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "Get involved",
+"href": "https://davidjolly.com/get-involved"
+},
+{
+"text": "Get to know David →",
+"href": "https://davidjolly.com/about-david"
+},
+{
+"text": "Get to know Gwen →",
+"href": "https://davidjolly.com/about-gwen"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/"
+},
+{
+"text": "Healthcare",
+"href": "https://davidjolly.com/issues/health-care/"
+},
+{
+"text": "Housing",
+"href": "https://davidjolly.com/issues/affordability/"
+},
+{
+"text": "Issues",
+"href": "https://davidjolly.com/issues/"
+},
+{
+"text": "Join the movement",
+"href": "https://davidjolly.com/get-involved"
+},
+{
+"text": "Join the movement",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "Learn more about policy",
+"href": "https://davidjolly.com/issues"
+},
+{
+"text": "Media",
+"href": "https://davidjolly.com/media/"
+},
+{
+"text": "Meet David",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "More news →",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "No data centers",
+"href": "https://davidjolly.com/issues/data-centers/"
+},
+{
+"text": "Open this stop on its own",
+"href": "https://davidjolly.com/from-the-trail/#stop-2026-09-27-sep-27-2026"
+},
+{
+"text": "Open this stop on its own",
+"href": "https://davidjolly.com/from-the-trail/#stop-2026-09-27-sep-27-2026-2"
+},
+{
+"text": "Open this stop on its own",
+"href": "https://davidjolly.com/from-the-trail/#stop-2026-10-01-oct-1-2026"
+},
+{
+"text": "Open this stop on its own",
+"href": "https://davidjolly.com/from-the-trail/#stop-2026-10-01-oct-1-2026-2"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "Republicans for Jolly",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "See more from the trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "September 17, 2026Jolly Insurance Proposal FactsRead more →",
+"href": "https://davidjolly.com/jolly-insurance-proposal-facts/"
+},
+{
+"text": "September 18, 2026Inside Elections Shifts Florida Governor’s Race Even Further in David Jolly’s Direction, Now Rating Race ‘Lean Republican’Read more →",
+"href": "https://davidjolly.com/inside-elections-shifts-florida-governor-s-race-even-further-in-david-jolly-s-di/"
+},
+{
+"text": "September 24, 2026Florida Governor’s Race is Officially a Toss-UpRead more →",
+"href": "https://davidjolly.com/florida-governor-s-race-is-officially-a-toss-up/"
+},
+{
+"text": "September 29, 2026FACT CHECK: David Jolly Fought Against Offshore Drilling in Congress & Never Lobbied for ItRead more →",
+"href": "https://davidjolly.com/fact-check-david-jolly-offshore-drilling-record/"
+},
+{
+"text": "Store",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "The 2026 Race",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "The Insurance Crisis Floridians pay the highest home insurance prices in America. Here is the plan to cut them by 60 to 70 percent. Learn more →",
+"href": "https://davidjolly.com/homeowners-insurance/"
+},
+{
+"text": "The Reality We Can't Ignore You can see it. You can feel it. And it's not going away on its own. Learn more →",
+"href": "https://davidjolly.com/environment"
+},
+{
+"text": "Video",
+"href": "https://davidjolly.com/video/"
+},
+{
+"text": "Where David Stands",
+"href": "https://davidjolly.com/where-david-stands/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+}
 ]

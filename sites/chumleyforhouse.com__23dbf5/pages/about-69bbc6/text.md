@@ -1,4 +1,4 @@
-Fighting the Political Establishment.
+About Issues Survey Connect Donate About Issues Survey Connect Donate Real Conservative Values Fighting the Political Establishment.
 A native of Reidville, farmer and small business owner, Rep.
 Chumley and his wife Faye have two married sons and six grand-children.
 Rep.
@@ -14,3 +14,4 @@ He is a co-founder of the Reidville Historical Society and he helped organize th
 The Chumley’s founded and built a church for RV campers.
 In the House, Bill has proven to be a conservative leader on issues from defending the unborn to our Second Amendment rights.
 Among his colleagues, Bill is highly regarded as a thoughtful and consistent conservative voice for reforming state government.
+PAID FOR BY CHUMLEY FOR HOUSE

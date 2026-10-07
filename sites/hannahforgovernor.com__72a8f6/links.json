@@ -1,45 +1,254 @@
 [
-"https://bsky.app/profile/hannahpingree.bsky.social",
-"https://facebook.com/profile.php?id=61577230374810&sk=about",
-"https://hannahforgovernor.com/",
-"https://hannahforgovernor.com/2026/09/20",
-"https://hannahforgovernor.com/2026/09/21",
-"https://hannahforgovernor.com/2026/09/24",
-"https://hannahforgovernor.com/2026/09/25",
-"https://hannahforgovernor.com/2026/09/28",
-"https://hannahforgovernor.com/2026/10/05",
-"https://hannahforgovernor.com/accomplishments",
-"https://hannahforgovernor.com/affordability",
-"https://hannahforgovernor.com/climate",
-"https://hannahforgovernor.com/economic-development",
-"https://hannahforgovernor.com/education",
-"https://hannahforgovernor.com/endorse-hannah",
-"https://hannahforgovernor.com/endorsements",
-"https://hannahforgovernor.com/hannah-in-the-news",
-"https://hannahforgovernor.com/hannah-pingree-leads-fundraising-in-maines-race-for-governor",
-"https://hannahforgovernor.com/hannah-pingree-releases-new-tv-ad-we-bought-it-features-resident-of-blueberry-fields-cooperative-in-brunswick",
-"https://hannahforgovernor.com/hannah-pingree-statement-on-spike-in-heating-oil-costs",
-"https://hannahforgovernor.com/health-care",
-"https://hannahforgovernor.com/housing-plan",
-"https://hannahforgovernor.com/letter-why-hannah-pingree-has-my-vote",
-"https://hannahforgovernor.com/media",
-"https://hannahforgovernor.com/meet-hannah-pingree",
-"https://hannahforgovernor.com/opinion-hannah-pingree-is-the-governor-maine-needs",
-"https://hannahforgovernor.com/privacy-policy",
-"https://hannahforgovernor.com/volunteer",
-"https://hannahforgovernor.com/vote-for-hannah-sen-angus-king-endorses-hannah-pingree-for-governor",
-"https://instagram.com/hannahpingreeforgovernor",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/sbd-hp-fr-website",
-"https://secure.actblue.com/donate/sbd-hp-fr-website&source=popup",
-"https://secure.actblue.com/donate/sbd-hp-fr-website?amount=10",
-"https://secure.actblue.com/donate/sbd-hp-fr-website?amount=100",
-"https://secure.actblue.com/donate/sbd-hp-fr-website?amount=25",
-"https://secure.actblue.com/donate/sbd-hp-fr-website?amount=250",
-"https://secure.actblue.com/donate/sbd-hp-fr-website?amount=500",
-"https://store.hannahforgovernor.com/",
-"https://tiktok.com/@hannah.pingree",
-"https://tiktok.com/@hannah.pingree?_t=ZP-90nSfDy7xvy&_r=1",
-"https://x.com/pingreehannah?s=21",
-"https://youtube.com/@HannahPingreeforGovernor"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website?amount=500"
+},
+{
+"text": "Accomplishments",
+"href": "https://hannahforgovernor.com/accomplishments/"
+},
+{
+"text": "Affordability",
+"href": "https://hannahforgovernor.com/affordability/"
+},
+{
+"text": "All Rights Reserved. Copyright #. Privacy Policy.",
+"href": "https://hannahforgovernor.com/privacy-policy/"
+},
+{
+"text": "Climate & Energy",
+"href": "https://hannahforgovernor.com/climate/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@hannahforgovernor.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website"
+},
+{
+"text": "Economic Opportunity",
+"href": "https://hannahforgovernor.com/economic-development/"
+},
+{
+"text": "Education",
+"href": "https://hannahforgovernor.com/education/"
+},
+{
+"text": "Endorse Hannah",
+"href": "https://hannahforgovernor.com/endorse-hannah/"
+},
+{
+"text": "Endorse Hannah's Campaign",
+"href": "https://hannahforgovernor.com/endorse-hannah/"
+},
+{
+"text": "Endorsements",
+"href": "https://hannahforgovernor.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577230374810&sk=about"
+},
+{
+"text": "Hannah Pingree Releases New TV Ad, “We Bought It” – Features Resident of Blueberry Fields Cooperative in Brunswick",
+"href": "https://hannahforgovernor.com/hannah-pingree-releases-new-tv-ad-we-bought-it-features-resident-of-blueberry-fields-cooperative-in-brunswick/"
+},
+{
+"text": "Hannah Pingree Statement on Spike in Heating Oil Costs",
+"href": "https://hannahforgovernor.com/hannah-pingree-statement-on-spike-in-heating-oil-costs/"
+},
+{
+"text": "Hannah Pingree leads fundraising in Maine’s race for governor",
+"href": "https://hannahforgovernor.com/hannah-pingree-leads-fundraising-in-maines-race-for-governor/"
+},
+{
+"text": "Health Care",
+"href": "https://hannahforgovernor.com/health-care/"
+},
+{
+"text": "Home",
+"href": "https://hannahforgovernor.com/"
+},
+{
+"text": "Housing",
+"href": "https://hannahforgovernor.com/housing-plan/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/hannahpingreeforgovernor/"
+},
+{
+"text": "Issues",
+"href": "https://hannahforgovernor.com/affordability/"
+},
+{
+"text": "Letter: Why Hannah Pingree has my vote",
+"href": "https://hannahforgovernor.com/letter-why-hannah-pingree-has-my-vote/"
+},
+{
+"text": "Make A Donation Online",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website"
+},
+{
+"text": "Media Kit",
+"href": "https://hannahforgovernor.com/media/"
+},
+{
+"text": "Meet Hannah",
+"href": "https://hannahforgovernor.com/meet-hannah-pingree/"
+},
+{
+"text": "News",
+"href": "https://hannahforgovernor.com/hannah-in-the-news/"
+},
+{
+"text": "October 5, 2026",
+"href": "https://hannahforgovernor.com/2026/10/05/"
+},
+{
+"text": "Opinion: Hannah Pingree is the governor Maine needs",
+"href": "https://hannahforgovernor.com/opinion-hannah-pingree-is-the-governor-maine-needs/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website&source=popup"
+},
+{
+"text": "Read More",
+"href": "https://hannahforgovernor.com/hannah-pingree-leads-fundraising-in-maines-race-for-governor/"
+},
+{
+"text": "Read More",
+"href": "https://hannahforgovernor.com/hannah-pingree-releases-new-tv-ad-we-bought-it-features-resident-of-blueberry-fields-cooperative-in-brunswick/"
+},
+{
+"text": "Read More",
+"href": "https://hannahforgovernor.com/hannah-pingree-statement-on-spike-in-heating-oil-costs/"
+},
+{
+"text": "Read More",
+"href": "https://hannahforgovernor.com/letter-why-hannah-pingree-has-my-vote/"
+},
+{
+"text": "Read More",
+"href": "https://hannahforgovernor.com/opinion-hannah-pingree-is-the-governor-maine-needs/"
+},
+{
+"text": "Read More",
+"href": "https://hannahforgovernor.com/vote-for-hannah-sen-angus-king-endorses-hannah-pingree-for-governor/"
+},
+{
+"text": "September 20, 2026",
+"href": "https://hannahforgovernor.com/2026/09/20/"
+},
+{
+"text": "September 21, 2026",
+"href": "https://hannahforgovernor.com/2026/09/21/"
+},
+{
+"text": "September 24, 2026",
+"href": "https://hannahforgovernor.com/2026/09/24/"
+},
+{
+"text": "September 25, 2026",
+"href": "https://hannahforgovernor.com/2026/09/25/"
+},
+{
+"text": "September 28, 2026",
+"href": "https://hannahforgovernor.com/2026/09/28/"
+},
+{
+"text": "Sign Up To Volunteer",
+"href": "https://hannahforgovernor.com/volunteer/"
+},
+{
+"text": "Store",
+"href": "https://store.hannahforgovernor.com/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@hannah.pingree"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@hannah.pingree?_t=ZP-90nSfDy7xvy&_r=1"
+},
+{
+"text": "Volunteer",
+"href": "https://hannahforgovernor.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/pingreehannah?s=21"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@HannahPingreeforGovernor"
+},
+{
+"text": "[image]",
+"href": "https://hannahforgovernor.com"
+},
+{
+"text": "[image]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/hannahpingree.bsky.social"
+},
+{
+"text": "making a donation online",
+"href": "https://secure.actblue.com/donate/sbd-hp-fr-website"
+},
+{
+"text": "signing up to volunteer",
+"href": "https://hannahforgovernor.com/volunteer/"
+},
+{
+"text": "“Vote for Hannah” | Sen. Angus King endorses Hannah Pingree for governor",
+"href": "https://hannahforgovernor.com/vote-for-hannah-sen-angus-king-endorses-hannah-pingree-for-governor/"
+}
 ]

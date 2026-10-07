@@ -1,40 +1,18 @@
-serving MONTANANS
-Open & civil debate, abundant & affordable energy, robust & resilient infrastructure, and quality education for all promote personal and economic Freedom.
+Skip to content About About Me What Brad Believes Legislation Positions Highlights Newsletter Signup News Get Involved Donate About About Me What Brad Believes Legislation Positions Highlights Newsletter Signup News Get Involved Donate Representative Brad Barker serving MONTANANS Open & civil debate, abundant & affordable energy, robust & resilient infrastructure, and quality education for all promote personal and economic Freedom.
 Focused on people over politics.
 Grounded by a rural ranch upbringing and having served around the world in countries both rich and poor, stable and ripped apart by conflict, I know that we are extremely blessed.
 Montanans have the resources, ingenuity, work ethic and grit to conquer any challenge put before us if we work together, without arbitrary government constraints, and honor the institutions and traditions that got us here.
 It is my honor to serve the Citizens of this District and the State.
-The appearance of U.S.
+Proven Combat Leader > Principled Conservative > Problem Solver > The appearance of U.S.
 Department of Defense and Army visual information does not imply or constitute DOD or Army endorsement.
-SELECT POLICY POSITIONS
-EDUCATION IS INTEGRAL
-TO DEMOCRACY
-“Educate and inform the whole mass of the people… They are the only sure reliance for the preservation of our liberty.” ~ Thomas Jefferson ~ I support school choice and alternative pathways, like vocational education, with judgment based on a single criterion – student outcomes.
-CRITICAL INFRASTRUCTURE
-FOR MONTANANS
-Reduce red tape, restrictive zoning and frivolous lawsuits to increase the reliability and affordability of energy & free market housing.
+SELECT POLICY POSITIONS EDUCATION IS INTEGRAL TO DEMOCRACY “Educate and inform the whole mass of the people… They are the only sure reliance for the preservation of our liberty.” ~ Thomas Jefferson ~ I support school choice and alternative pathways, like vocational education, with judgment based on a single criterion – student outcomes. more details CRITICAL INFRASTRUCTURE FOR MONTANANS Reduce red tape, restrictive zoning and frivolous lawsuits to increase the reliability and affordability of energy & free market housing.
 Protect water rights & rural healthcare.
 Streamline disaster recovery.
-Address cyber threats & AI regulation to protect citizens and businesses.
-Taxes
-We must reform Montana’s Tax Code to reduce the reliance and burden on residential property taxes.
-Address spending, at all levels, the tax shifts created by the loss of natural resource extraction, and the significant increase in out-of-state home ownership.
-Integrity & Transparency
-Continue to improve voter registration & voting systems to ensure integrity while acknowledging that there is no evidence of significant election fraud in Montana.
-Address both fraud & unsubstantiated allegations to restore trust.
-Economic Development
-Provide a stable regulatory and tax structure to attract and grow a vibrant agriculture and business community that makes it possible for our kids to earn a living and raise their own families in Montana.
-Public Safety
-Address the violence, drugs and mental heath challenges in our communities.
-Address the lack of a pre-trial confinement facility in the District & staffing & facility issues at the Deer Lodge State Prison and Warm Springs State Hospital.
-ENDORSED OR HIGHLY RATED BY
-Montana Farm Bureau – MONTANA CONSERVATIVE INDEX – MONTANA CHAMBER OF COMMERCE – NRA
-NRA ENDORSED
-“Solidly pro-gun candidate.
-A candidate who has supported NRA positions on key votes in elective office or a candidate with a demonstrated record of support on Second Amendment issues.”
-— OFFICIAL NRA A RANKING CRITERIA
-Get Involved
-Are you interested in being a part of my campaign and refocusing public service on Montana residents instead of politics?
+Address cyber threats & AI regulation to protect citizens and businesses. more details Taxes We must reform Montana’s Tax Code to reduce the reliance and burden on residential property taxes.
+Address spending, at all levels, the tax shifts created by the loss of natural resource extraction, and the significant increase in out-of-state home ownership. more details Integrity & Transparency Continue to improve voter registration & voting systems to ensure integrity while acknowledging that there is no evidence of significant election fraud in Montana.
+Address both fraud & unsubstantiated allegations to restore trust. more details Economic Development Provide a stable regulatory and tax structure to attract and grow a vibrant agriculture and business community that makes it possible for our kids to earn a living and raise their own families in Montana. more details Public Safety Address the violence, drugs and mental heath challenges in our communities.
+Address the lack of a pre-trial confinement facility in the District & staffing & facility issues at the Deer Lodge State Prison and Warm Springs State Hospital. more details ENDORSED OR HIGHLY RATED BY Montana Farm Bureau – MONTANA CONSERVATIVE INDEX – MONTANA CHAMBER OF COMMERCE – NRA NRA ENDORSED “Solidly pro-gun candidate.
+A candidate who has supported NRA positions on key votes in elective office or a candidate with a demonstrated record of support on Second Amendment issues.” — OFFICIAL NRA A RANKING CRITERIA Get Involved Are you interested in being a part of my campaign and refocusing public service on Montana residents instead of politics?
 Get a sign, request for me to speak at an event, publicly endorse me, donate securely below, or share your ideas for support with me through my contact form.
 You can also email me at brad@bradbarker.com or call me at 406.426.1034.
-Box 1242, Red Lodge, MT 59068
+Donate Box 1242, Red Lodge, MT 59068 Join My Newsletter Learn More LEGISLATOR DETAILS ABOUT LEGISLATOR DETAILS ABOUT Facebook-f Instagram Linkedin Contact Brad Box 1242, Red Lodge, MT 59068 406.426.1034 brad@bradbarker.com Brad Barker © # All Rights Reserved.

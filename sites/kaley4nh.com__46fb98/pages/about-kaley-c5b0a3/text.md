@@ -1,6 +1,4 @@
-Embedded Files
-Candidate Statement
-Hello - I am Kaley Dvorak, you may know my face from my role as one of your Supervisors of the Checklist for Brentwood for the last 6 years.
+Search this site Embedded Files Skip to main content Skip to navigation Kaley Dvorak for State Rep Home About Kaley Events Contact Donate Kaley Dvorak for State Rep Home About Kaley Events Contact Donate More Home About Kaley Events Contact Donate Candidate Statement Hello - I am Kaley Dvorak, you may know my face from my role as one of your Supervisors of the Checklist for Brentwood for the last 6 years.
 Serving in that role has allowed me to see the inner workings of a community, and motivated me to run to serve as your State Representative, because I believe in public service as a force for good in a community.
 There is a lot happening in New Hampshire right now which appears short-sighted, lacking the meaningful work to tackle big problems.
 The legislation being enacted in Concord right now does not make the everyday lives of people in Brentwood, Danville and Fremont better, it makes lives harder & more expensive.
@@ -16,21 +14,10 @@ By day, I am a data analyst and manager of a business analytics group.
 In this role I am regularly asked to solve a problem in a subject of which I have some understanding, but may not be an expert.
 To solve the problem, I have to ask questions, listen, and validate what I heard, to make sure any new data process that we design will work for everyone.
 If you elect me as your State Representative, I will use the same process to serve our community.
-I would listen to you - my constituents, the other members of the House, and experts in the space to make the best informed decision which best balances the needs of the community.
-l humbly ask for your vote on November 3rd.
-Thank you,
-Kaley Dvorak
-Kaley's Background
-Rooted in NH & Always Growing
-- Born in Manchester, NH & Graduated from Central High School in Manchester
-- Served on the NH Youth Legislative Council at age 15 to provide the youth perspective on legislation.
-- Campaigned for Public Education with Ed'08 in 2008, where the focus is promoting public education at key driver of your vote.
-- Graduated from the University of New Hampshire with a Degree in Chemical Engineering in 2011, and later from Tufts University with a Masters in Engineering Management in 2019.
-- Bought a house in Brentwood NH in 2015.
-- Facilitated the Launch of the STEAM Design Challenge at Swasey Elementary in Brentwood in 2019 and have repeated the challenge two additional times.
-- Served as Supervisor of Checklist for Brentwood from 2020-2026
-- Actively Serving on NHPR Community Advisory Board
-- Joined the public school community as a parent as my child started kindergarten
-Page updated
-Google Sites
-Report abuse
+I would listen to you - my constituents, the other members of the House, and experts in the space to make the best informed decision which best balances the needs of the community. l humbly ask for your vote on November 3rd.
+Thank you, Kaley Dvorak Kaley's Background Rooted in NH & Always Growing Born in Manchester, NH & Graduated from Central High School in Manchester Served on the NH Youth Legislative Council at age 15 to provide the youth perspective on legislation.
+Campaigned for Public Education with Ed'08 in 2008, where the focus is promoting public education at key driver of your vote.
+Graduated from the University of New Hampshire with a Degree in Chemical Engineering in 2011, and later from Tufts University with a Masters in Engineering Management in 2019.
+Bought a house in Brentwood NH in 2015.
+Facilitated the Launch of the STEAM Design Challenge at Swasey Elementa ry in Brentwood in 2019 and have repeated the challenge two additional times.
+Served as Supervisor of Checklist for Brentwood from 2020-2026 Actively Serving on NHPR Community Advisory Board Joined the public school community as a parent as my child started kindergarten [ kaley.dvorak@gmail.com ] [ 603-289-8664 ] [Paid for by Kaley Dvorak for NH : Kaley Dvorak, Treasurer, 16 Block Dr, Brentwood NH ] Google Sites Report abuse Page details Page updated Google Sites Report abuse

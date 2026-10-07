@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=We+Demand+Change+%28Student+Forum%29&dates=20260522T203000Z%2F20260522T223000Z&location=Dimond+Hall%2C+Room+195%2C+Denver%2C+CO+80210",
-"http://maps.google.com/?q=Dimond+Hall%2C+Room+195+Denver%2C+CO+80210",
-"https://facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135",
-"https://instagram.com/Iris4colorado",
-"https://iris4colorado.org/",
-"https://iris4colorado.org/about",
-"https://iris4colorado.org/cart",
-"https://iris4colorado.org/contact",
-"https://iris4colorado.org/endorsements",
-"https://iris4colorado.org/events",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-4lpre",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2",
-"https://iris4colorado.org/events/we-demand-change-student-forum?format=ical",
-"https://iris4colorado.org/press",
-"https://iris4colorado.org/privacy",
-"https://iris4colorado.org/terms",
-"https://secure.actblue.com/donate/iris-halpern-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=dimond+hall%2C+room+195+denver%2C+co+80210+"
+},
+{
+"text": "0",
+"href": "https://www.iris4colorado.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.iris4colorado.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.iris4colorado.org/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-halpern-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.iris4colorado.org/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Demand+Change+%28Student+Forum%29&dates=20260522T203000Z%2F20260522T223000Z&location=Dimond+Hall%2C+Room+195%2C+Denver%2C+CO+80210"
+},
+{
+"text": "Home",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/we-demand-change-student-forum?format=ical"
+},
+{
+"text": "Iris in the Press",
+"href": "https://www.iris4colorado.org/press"
+},
+{
+"text": "Next Next May 23 Canvass HD6 for Iris - Congress Park/Cheesman Park Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.iris4colorado.org/privacy"
+},
+{
+"text": "Previous Previous May 17 Canvass for Iris",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-4lpre"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.iris4colorado.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.iris4colorado.org/contact"
+},
+{
+"text": "[image: Iris Halpern]",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Iris4colorado"
+}
 ]

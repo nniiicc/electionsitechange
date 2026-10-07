@@ -1,5 +1,4 @@
-ABOUT AFTYN
-COMING HOME.
+0 Skip to Content DONATE Campaigns Pot for Potholes Children Over Checks End The Grocery Tax Policy Briefs Tennessee Data Center Policy 101 About Aftyn Open Menu Close Menu DONATE Campaigns Pot for Potholes Children Over Checks End The Grocery Tax Policy Briefs Tennessee Data Center Policy 101 About Aftyn Open Menu Close Menu DONATE Folder: Campaigns Back Pot for Potholes Children Over Checks End The Grocery Tax Folder: Policy Briefs Back Tennessee Data Center Policy 101 About Aftyn ABOUT AFTYN COMING HOME.
 An active Girl Scout until she was 18, Aftyn grew up in Knoxville and started her advocacy career early.
 She attended high school in Knoxville where she was nominated to represent her high school in the Knoxville Mayor’s Youth Council in addition to achieving her Girl Scout Gold Award.
 Following graduation, Aftyn attended the University of Texas at Austin where she graduated Phi Beta Kappa from the Liberal Arts Honors and the Psychology Honors programs.
@@ -33,4 +32,5 @@ In Spring 2022, the White House recognized the organization’s contributions by
 Aftyn attended, representing her tireless advocacy for reliable broadband access both nationally and in rural Tennessee.
 Aftyn currently serves on the steering committee for the Southern Connected Communities Project, a non-profit dedicated to bringing internet connectivity to underserved or unserved areas, with an emphasis on community input and ownership, and Healthy and Free TN, an organization working to grow a reproductive justice movement across race, class, and gender in Tennessee.
 Aftyn’s international, federal, and state experience has prepared her to serve in the Tennessee State House and shape the future into one that works for us all.
-Photo by the wonderful Matt Ferry
+Photo by the wonderful Matt Ferry Let’s care loudly for each other.
+GET UPDATES DONATE Contact the campaign at team@aftynbehn.com PO BOX 60594 NASHVILLE, TN, 37206

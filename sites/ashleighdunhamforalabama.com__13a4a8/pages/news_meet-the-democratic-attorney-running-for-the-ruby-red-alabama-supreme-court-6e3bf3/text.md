@@ -1,5 +1,4 @@
-Meet the Democratic Attorney Running for the Ruby Red Alabama Supreme Court
-This week, Mallory Hagan and Maggie Gehlsen-Burnett sit down with AshLeigh for Alabama for Alabama to discuss voting rights, why the Supreme Court in Alabama (and any state) matters, conservative women, and more.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Meet the Democratic Attorney Running for the Ruby Red Alabama Supreme Court Jul 1 Written By AshLeigh Dunham This week, Mallory Hagan and Maggie Gehlsen-Burnett sit down with AshLeigh for Alabama for Alabama to discuss voting rights, why the Supreme Court in Alabama (and any state) matters, conservative women, and more.
 AshLeigh is currently running to be a Supreme Court Justice in Alabama.
 AshLeigh earned her undergraduate degree from the University of Alabama and her law degree from Cumberland School of Law at Samford University.
 She is a distinguished legal professional with a career rooted in service to Alabama families.
@@ -11,3 +10,4 @@ As an attorney, AshLeigh helps individuals and couples navigate the legal comple
 That experience fuels her public advocacy for legal protections for families seeking fertility treatment.
 She believes no Alabamian should have to leave home to start a family.
 All this and more, on The Siren Network.
+AshLeigh Dunham https://ashleighdunhamforalabama.com Next Next AshLeigh Dunham Endorsed by Chief Justice Sue Bell Cobb AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

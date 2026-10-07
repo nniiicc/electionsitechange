@@ -1,4 +1,4 @@
-Hi there, I'm Jake Hunsaker.
+Skip to content Home Issues About Get Involved Endorsements Events Home Issues About Get Involved Endorsements Events Click here to donate now Hi there, I'm Jake Hunsaker.
 Conservative.
 Principled.
 Proven Leader.
@@ -8,8 +8,7 @@ Solutions-Oriented.
 Respectful.
 Anchored.
 Ready.
-About Jake
-I grew up right here in Utah, in a single-income household with eleven kids.
+About Jake I grew up right here in Utah, in a single-income household with eleven kids.
 My first job was milking cows and picking corn for local farmers.
 We didn’t have much, but we had a strong sense of responsibility—to each other, to our work, and to our community.
 I learned about the power of creative solutions early.
@@ -24,3 +23,4 @@ I’ve also been a precinct officer and state and county delegate, and now serve
 I am a vocal advocate for a broad, solutions-focused Republican Party, leaning into President Ronald Reagan’s vision of a “big tent” coalition grounded in conservative principles and civic respect.
 I know how to make effective conservative policy and I know the people involved.
 I’m running to lead within the Republican caucus, advocate effectively for District 48, and deliver results that position our community as a leader for the long term.
+Facebook Instagram DONATE jake.hunsaker.utah@gmail.com Paid for by Jake Hunsaker for Utah Paid for by Jake Hunsaker for Utah

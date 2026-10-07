@@ -1,9 +1,30 @@
 [
-"http://lepageforcongress.com/",
-"https://lepageforcongress.com/",
-"https://lepageforcongress.com/meet-paul",
-"https://lepageforcongress.com/privacy-policy",
-"https://lepageforcongress.com/team",
-"https://secure.anedot.com/paul-lepage-for-congress/donate",
-"https://vimeo.com/1221613221"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate"
+},
+{
+"text": "ISSUES",
+"href": "http://lepageforcongress.com/#issues"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://lepageforcongress.com/team"
+},
+{
+"text": "LePage Works for Maine Video‍",
+"href": "https://vimeo.com/1221613221"
+},
+{
+"text": "Meet PAUL",
+"href": "https://lepageforcongress.com/meet-paul"
+},
+{
+"text": "Read Our Text Message Privacy Policy as well as Terms and Conditions Here",
+"href": "https://lepageforcongress.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://lepageforcongress.com/"
+}
 ]

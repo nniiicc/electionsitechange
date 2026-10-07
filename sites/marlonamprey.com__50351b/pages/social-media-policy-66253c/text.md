@@ -1,25 +1,8 @@
-Social Media Policy:
-Engaging Responsibly and Respectfully on Social Media
-This document constitutes the Office of Delegate Marlon Amprey’s Social Media Policy (the “Policy”).
-As described below, this Policy applies to the following social media platforms:
-- Facebook
-- Twitter
-- Instagram
-- Youtube
-- Tik-Tok
-Constructive dialogue is encouraged within comments, messages, retweets, and other user communications (“Comments”).
+0 Skip to Content Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home Folder: About Back Meet Marlon Meet the Team 2026 End of Session Letter Folder: Legislative Matters Back Policy Goals Legislative Accomplishments Folder: Resources Back Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Folder: Blog Back Videos In the News Newsletter Social Media Policy Contact Us Folder: Volunteer Back Volunteer Sign-Up Sign Request Donate Voting Information Social Media Policy: Engaging Responsibly and Respectfully on Social Media This document constitutes the Office of Delegate Marlon Amprey’s Social Media Policy (the “Policy”).
+As described below, this Policy applies to the following social media platforms: Facebook Twitter Instagram Youtube Tik-Tok Constructive dialogue is encouraged within comments, messages, retweets, and other user communications (“Comments”).
 Our office is interested in hearing the thoughts and opinions of constituents, Marylanders, and others.
 We do not discriminate based on viewpoint or beliefs but may remove comments and restrict access to users for violating this policy.
-Comments may be removed if they contain, constitute, or link to:
-- Malicious or harmful software;
-- Advertisements, promotions, or solicitations of a commercial product or service;
-- Confidential, personally identifying, or private information as defined by State law;
-- Profanity, nudity, indecency, or obscenity;
-- Threats of violence or to public safety;
-- Graphic pictures or videos of violence;
-- Copyrighted materials in violation of State or federal law;
-- Disruptively repetitive content; or
-- remarks that are clearly unrelated to the subject matter of any post ever made on the platform and distract from the intent of the messages or media.
+Comments may be removed if they contain, constitute, or link to: Malicious or harmful software; Advertisements, promotions, or solicitations of a commercial product or service; Confidential, personally identifying, or private information as defined by State law; Profanity, nudity, indecency, or obscenity; Threats of violence or to public safety; Graphic pictures or videos of violence; Copyrighted materials in violation of State or federal law; Disruptively repetitive content; or remarks that are clearly unrelated to the subject matter of any post ever made on the platform and distract from the intent of the messages or media.
 Users that make express or implied threats of violence or to public safety may be reported to the authorities for investigation.
 Users may be temporarily or permanently restricted from accessing the social media platform if they repeatedly and consistently violate this Policy.
 To contest the restriction of access to a social media platform, the user must submit to marlon.amprey@house.state.md.us a written statement providing grounds for reinstatement.
@@ -31,3 +14,4 @@ A comment is the opinion of the commentator only.
 Publication of a comment does not necessarily imply endorsement of or agreement by Delegate Marlon Amprey.
 Comments and content should be understood to be entirely public, and users should not write comments with any information that they consider or would like to keep, confidential.
 Social media is a useful tool to allow everyone equal footing to engage, but it must be done respecfully and responsibly.
+Authority: Citizens for Marlon Amprey, Treasurer, Ryan Galloway.

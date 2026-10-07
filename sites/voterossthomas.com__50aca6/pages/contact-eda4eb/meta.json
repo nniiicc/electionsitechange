@@ -1,7 +1,9 @@
 {
  "description": "Contact the Ross Thomas Campaign",
  "final_url": "https://www.voterossthomas.com/contact",
- "paid_for_by": null,
+ "fingerprint": "c71b54ca27fbcfc4276cc02b75d17ed1d260c6cf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Ross Thomas Campaign",
  "years_mentioned": []
 }

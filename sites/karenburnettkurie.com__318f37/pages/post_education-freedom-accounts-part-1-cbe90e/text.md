@@ -1,7 +1,5 @@
-Education Freedom Accounts- Part 1
-Updated: Oct 21, 2024
-Letter to the Editor:
-In 2021 NH’s Legislature and Governor approved Education Freedom Accounts (EFA).
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search Education Freedom Accounts- Part 1 Karen Burnett-Kurie May 25, 2024 2 min read Updated: Oct 21, 2024 Letter to the Editor: In 2021 NH’s Legislature and Governor approved Education Freedom Accounts (EFA).
 According to the NH Bulletin “the Education Freedom Account program allows parents to take the state education funding dollars that would go to their child’s public school and use them for private and homeschooling expenses instead.” A family can qualify even if their children are not and have never been in public school.
 As a result many of the families who took advantage of the program starting in the first year were already attending private schools or homeschooled.
 This means there is a substantial added cost for the program, not just a transfer of funds.
@@ -20,4 +18,5 @@ And why are providing tax dollars to someone who does not even file a tax return
 The money comes out of the state’s Education Trust Fund, established to meet the state’s adequate funding mandate to traditional public schools.
 Adequate funding is a state obligation specified in the NH constitution.
 After 40 plus years, instead of meeting its obligation to traditional public schools, the state now uses them for a variety of other programs like EFAs.
-Karen Burnett-Kurie
+Karen Burnett-Kurie Education Recent Posts See All NH Better Served by Quality Education & Lower Property Taxes Educational Freedom Accounts Part 2: Charter Schools in NH Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

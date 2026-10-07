@@ -1,4 +1,4 @@
-Since 2025, Derrick has served as a Deputy Director in Prince George’s County Department of Environment managing the Animal Services Division, Climate and Energy Division and County Council Legislative Affairs Office.
+HELP ELECT DERRICK COLEY TO THE MARYLAND HOUSE OF DELEGATES DISTRICT 24 Donate ABOUT VOTING ABOUT VOTING BIOGRAPHY Since 2025, Derrick has served as a Deputy Director in Prince George’s County Department of Environment managing the Animal Services Division, Climate and Energy Division and County Council Legislative Affairs Office.
 Derrick ensures animal safety by managing zoonotic disease control and promoting responsible pet ownership.
 His work in Animal Services strives to mitigate the impact of stray populations on local communities through positive interactions and adoption, prioritizing humane education and community outreach.
 Derrick fosters a culture of stewardship that serves as the baseline for broader engagement and management across animal services.
@@ -56,3 +56,6 @@ His research treatise was entitled “A Comparative Analysis of Cuba’s Tourism
 Derrick resides in Glenn Dale with his four children, Julia, Marshall, Henry, and Claira.
 His wife, Okeysha, passed away in March 2025 after a valiant battle with breast cancer.
 They were happily married for over twenty-three years.
+BY AUTHORITY: FRIENDS OF DERRICK COLEY.
+KIM SMITH, TREASURER. © # Friends of Derrick Coley.
+All rights reserved.

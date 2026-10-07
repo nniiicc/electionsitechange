@@ -1,6 +1,5 @@
-Proud Texans
-Supporting Vikki
-We’re proud that the following people have endorsed Vikki Goodwin to become the next Lieutenant Governor of Texas.
-Your voice matters!
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Proud Texans Supporting Vikki We’re proud that the following people have endorsed Vikki Goodwin to become the next Lieutenant Governor of Texas.
+Texas Voters Public Officials Organizations Your voice matters!
 If you would like to see a change at the head of the Texas Senate, and you think Vikki is a GOOD Win for Texas, sign up to endorse her in a run for Lt.
 Governor.
+Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

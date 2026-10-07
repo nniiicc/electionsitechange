@@ -1,4 +1,2 @@
-On May 2nd, the Greater Beverly Chamber of Commerce hosted a forum for State Rep candidates Hannah Bowen and Medley Long.
-Skip to content
-Video: GBCC 6th Essex State Representative Forum
-On May 2nd, the Greater Beverly Chamber of Commerce hosted a forum for State Rep candidates Hannah Bowen and Medley Long.
+Skip to content Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab About Hannah 2025 Endorsements News Priorities Donate Contact Menu Video: GBCC 6th Essex State Representative Forum Post author By Website Manager Post date May 5, 2025 On May 2nd, the Greater Beverly Chamber of Commerce hosted a forum for State Rep candidates Hannah Bowen and Medley Long.
+About Hannah 2025 Endorsements Priorities News Donate Contact Sign up for SMS Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab © # Committee to Elect Hannah Bowen

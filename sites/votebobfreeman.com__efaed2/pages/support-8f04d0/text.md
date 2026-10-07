@@ -1,13 +1,4 @@
-Register to Vote
-Not yet registered or need to change your address?
-We can help. more >>
-Volunteer
-There are many ways you can get involved Bob’s campaign. more >>
-Find District 56
-This handy tool will tell you whether you live in Bob’s district with just a click. more >>
-Contact Bob
-Questions?
+Volunteer Find District 56 Get In Touch Newsletter Sign Up Meet Bob Issues Contribute Follow Follow Meet Bob Issues Contribute Support Bob Register to Vote Volunteer Find District 56 Get In Touch Support Bob Register to Vote Not yet registered or need to change your address?
+We can help. more >> Volunteer There are many ways you can get involved Bob’s campaign. more >> Find District 56 This handy tool will tell you whether you live in Bob’s district with just a click. more >> Contact Bob Questions?
 Concerns?
-Connect with Bob and make your voice heard. more >>
-Contribute
-We appreciate your contributions to Bob’s efforts to serve you. more >>
+Connect with Bob and make your voice heard. more >> Contribute We appreciate your contributions to Bob’s efforts to serve you. more >> Search for: Recent Comments Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Site By ManOverMachine | Privacy Policy

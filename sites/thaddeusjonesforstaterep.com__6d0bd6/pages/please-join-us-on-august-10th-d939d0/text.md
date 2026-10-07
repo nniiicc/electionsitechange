@@ -1,3 +1,5 @@
-June 9, 2024 Please Join Us On August 10th Please join us on August 10th for a reception and baseball game with special guest Emanuel “Chris” Welch.
+Close Home About Issues Action Center Attend Events Donate Yard Sign Volunteer Contact Donate Search Search Thaddeus Jones for State Rep Home About Issues Action Center Attend Events Donate Yard Sign Volunteer Contact Donate June 9, 2024 Please Join Us On August 10th Please join us on August 10th for a reception and baseball game with special guest Emanuel “Chris” Welch.
 RSVP by Wednesday July 10th by calling 708-654-6090 or via email to jonescalumetcity@aol.com.
-Buy Tickets Online
+Buy Tickets Online June 9, 2024 staff news Latest News Please Join Us On November 1st 10:13 pm 22 Sep 2026 Cross Town Classic 11:59 pm 06 Jul 2026 March 17th 2026 Sample Ballot 8:14 pm 22 Feb 2026 Back to top Twitter Facebook Instagram Powered by Non-Stop Web Design Paid for by Jones for State Representative.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
+Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law. ©# Jones for State Representative Search:

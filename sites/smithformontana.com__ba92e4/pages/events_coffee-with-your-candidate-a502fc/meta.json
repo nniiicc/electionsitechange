@@ -1,7 +1,11 @@
 {
  "description": "Every Saturday at 8:30am, you'll find me at 105 Brewing. I'm your neighbor and I'm running for State House, but mostly I'm just someone ...",
  "final_url": "https://smithformontana.com/events/coffee-with-your-candidate/",
- "paid_for_by": "Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 \u00a9 2026 All rights reserved",
+ "fingerprint": "01efe682c484efc8fcfeaf1af67bbd3ec715127e",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved",
  "title": "Coffee with Your Candidate | Smith for Montana",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

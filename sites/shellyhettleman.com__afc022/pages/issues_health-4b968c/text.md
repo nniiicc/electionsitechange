@@ -1,5 +1,7 @@
-Health & Wellness
-Healthcare is a right.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Health & Wellness Healthcare is a right.
 For too many Marylanders, securing affordable, quality, care poses a challenge.
 No one should have to choose between filing a prescription and meeting basic needs, like paying rent or buying food.
 Access to resources that support overall health and well being benefit everyone in the community.
+Shelly supports policies and programs that:  Control prescription drug prices and create transparency in billing and services  Expand access to affordable, accessible, high quality preventative healthcare  Close the gap in health disparities among minority and underserved populations, including maternal mortality  Provide wrap-around services that treat patients holistically  Support reproductive rights and expand access to contraception  Encourage the development of affordable housing to provide a healthy living environment  Address the special needs of people combating chronic illness, veterans, and people with disabilities  Provide access to healthy food and environments, addiction and substance abuse counseling, and mental health screening and treatment  Promote equity in healthcare, from research to treatment options and accessibility Get in Touch Contact Us Name * First Last * Last Email * Phone Address Street City City State State ZIP ZIP Subject * Message * D11 Constituent?
+Yes No reCAPTCHA Submit Follow Shelly Follow Follow Follow Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

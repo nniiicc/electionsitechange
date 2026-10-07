@@ -1,8 +1,4 @@
-Bringing Outside Voices, Vision,
-and Values Inside the House
-Who Am I
-A Servant Leader Committed to the People
-I am Rev.
+Skip navigation menu Home Who I Am Why I'm Running Issues Join the Movement Contact Voter Information Donate Home Who I Am Why I'm Running Issues Join the Movement Contact Voter Information Donate Bringing Outside Voices, Vision, and Values Inside the House Who Am I A Servant Leader Committed to the People I am Rev.
 Frederick Douglass Haynes III, Ph.D., a faith-rooted servant leader and senior pastor, community advocate, and coalition-builder committed to justice, opportunity, accountability, and the people.
 For more than four decades, I have served Dallas as Senior Pastor of Friendship-West Baptist Church, helping grow a small congregation of fewer than 100 members into more than 13,000, making it one of the most influential faith-based institutions not only in North Texas but also in the country.
 Friendship-West is not only a place of worship but also a hub for civic engagement, economic empowerment, voter education, workforce development, and social change.
@@ -25,3 +21,10 @@ This campaign is about people over politics, service over slogans, and results o
 I believe leadership means listening, building coalitions, and acting with courage.
 Leadership matters, and my life’s work has prepared me to lead with courage and a relentless commitment to the people.
 I am ready to serve because our community deserves leadership that shows up and delivers.
+HOME | ISSUES | JOIN THE MOVEMENT | VOTER INFORMATION | CONTACT Donation checks may be mailed to: Haynes For Congress, PO Box 1165, Cedar Hill, Texas 75106 TERMS OF SERVICE PRIVACY POLICY By providing your information, you agree to receive communications from Haynes for Congress.
+Message and data rates may apply.
+Reply STOP to opt out.
+Contributions are subject to federal limits and reporting requirements.
+Powered by RUN! website builder Political Advertisement Paid for by Haynes For Congress, Dr.
+Danielle R.
+Franklin, Treasurer You need to enable JavaScript to run this app.

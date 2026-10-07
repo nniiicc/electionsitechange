@@ -1,10 +1,7 @@
-HOLLAND, MI — In an interview on WOOD-TV’s To The Point this weekend, ‘Tax Man’ Sean McCann doubled down on his support for even more tax increases for working families.
-In the interview, McCann praised Biden’s Inflation Expansion Act saying the bill was “taking us in the right direction.”
-Congressman Bill Huizenga’s campaign released the following statement:
-“Southwest Michigan families are finding it harder and harder to get by, yet ‘Tax Man’ Sean McCann went on local television over the weekend to throw his support behind supercharging the IRS, raising utility bills and taxing your retirement savings,” said Calvin Moore, spokesman for the Huizenga campaign.
-“If anything is certain it’s that Sean McCann will rubber-stamp his party bosses’ radical agenda to make your life more expensive, any chance he gets.”
-As a reminder, the Inflation Expansion Act that McCann backed over the weekend includes…
-- Supercharging the IRS: Endorsing $80 billion in IRS expansion to fund thousands of new enforcement agents unleashed on middle-class taxpayers and small businesses.
-- Higher Utility & Gas Bills: Backing methane emissions fees and fossil fuel taxes that get passed directly to families through higher heating bills and prices at the pump.
-- Stifling Jobs & Manufacturing: Supporting the 15% Corporate Alternative Minimum Tax that suppresses wage growth and hurts local manufacturing and small business.
-- Taxing Retirement Savings: Supporting excise taxes on domestic investments that penalize the retirement savings of West Michigan retirees and working families.
+Donate About Issues News Join Donate News ‘Tax Man’ Sean McCann Doubles Down On Massive Tax Hikes August 31, 2026 Back to News HOLLAND, MI — In an interview on WOOD-TV’s To The Point this weekend, ‘Tax Man’ Sean McCann doubled down on his support for even more tax increases for working families.
+In the interview, McCann praised Biden’s Inflation Expansion Act saying the bill was “taking us in the right direction.” Congressman Bill Huizenga’s campaign released the following statement: “Southwest Michigan families are finding it harder and harder to get by, yet ‘Tax Man’ Sean McCann went on local television over the weekend to throw his support behind supercharging the IRS, raising utility bills and taxing your retirement savings,” said Calvin Moore, spokesman for the Huizenga campaign.
+“If anything is certain it’s that Sean McCann will rubber-stamp his party bosses’ radical agenda to make your life more expensive, any chance he gets.” As a reminder, the Inflation Expansion Act that McCann backed over the weekend includes… Supercharging the IRS: Endorsing $80 billion in IRS expansion to fund thousands of new enforcement agents unleashed on middle-class taxpayers and small businesses.
+Higher Utility & Gas Bills: Backing methane emissions fees and fossil fuel taxes that get passed directly to families through higher heating bills and prices at the pump.
+Stifling Jobs & Manufacturing: Supporting the 15% Corporate Alternative Minimum Tax that suppresses wage growth and hurts local manufacturing and small business.
+Taxing Retirement Savings: Supporting excise taxes on domestic investments that penalize the retirement savings of West Michigan retirees and working families.
+Share: PAID FOR BY HUIZENGA FOR CONGRESS PRIVACY POLICY · TERMS AND CONDITIONS About Issues News Join

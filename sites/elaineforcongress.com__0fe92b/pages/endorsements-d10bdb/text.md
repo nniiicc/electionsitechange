@@ -1,40 +1,10 @@
-Organizations
-- 314 Action Fund
-- DCCC Red to Blue Program
-- DMFI
-- Elect Democratic Women
-- EMILY’s List
-- League of Conservation Voters (LCV) Action Fund
-- New Democrat Coalition Action Fund
-- New Politics
-- VoteVets
-- Virginia SEIU
-- The Teamsters
-- International Association of Ironworkers
-- AFGE
-- MoveON
-- IFPTE
-- United Association of Plumbers and Pipefitters
-- ATU
-Elected and Former Elected Officials
-- Abigail Spanberger Governor of Virginia
-- Mark Warner United States Senator from Virginia
-- Tim Kaine United States Senator from Virginia
-- Terry McAuliffe Former Governor of Virginia
-- Don Scott Speaker of the Virginia House of Delegates
-- Aaron Rouse State Senator Virginia Beach
-- Kelly Convirs-Fowler Delegate Virginia Beach
-- Michael Feggans Delegate Virginia Beach
-- Nadarius Clark Delegate Chesapeake, Isle of Wright, Franklin & Suffolk
-- Cliff Hayes Delegate Chesapeake & Portsmouth
-- Alex Askew Delegate Norfolk & Virginia Beach
-- Jennifer McClellan U.S.
-Representative Virginia’s 4th Congressional District
-- Eugene Vindman U.S.
-Representative Virginia’s 7th Congressional District
-- Don Beyer U.S.
-Representative Virginia’s 8th Congressional District
-- Suhas Subramanyam U.S.
-Representative Virginia’s 10th Congressional District
-- James Walkinshaw, U.S.
-Representative Virginia’s 11th Congressional District
+Skip to content Chip in $25 to support Elaine Luria for Congress >>> Chip in $25 to support Elaine Luria for Congress >>> Home About Priorities Endorsements News Home About Priorities Endorsements News Facebook X-twitter Instagram Youtube Take Action Take Action Donate Donate Donate Donate OUR SUPPORTERS Endorsements Organizations 314 Action Fund DCCC Red to Blue Program DMFI Elect Democratic Women EMILY’s List League of Conservation Voters (LCV) Action Fund New Democrat Coalition Action Fund New Politics VoteVets Virginia SEIU The Teamsters International Association of Ironworkers AFGE MoveON IFPTE United Association of Plumbers and Pipefitters ATU Elected and Former Elected Officials Abigail Spanberger Governor of Virginia Mark Warner United States Senator from Virginia Tim Kaine United States Senator from Virginia Terry McAuliffe Former Governor of Virginia Don Scott Speaker of the Virginia House of Delegates Aaron Rouse State Senator Virginia Beach Kelly Convirs-Fowler Delegate Virginia Beach Michael Feggans Delegate Virginia Beach Nadarius Clark Delegate Chesapeake, Isle of Wright, Franklin & Suffolk Cliff Hayes Delegate Chesapeake & Portsmouth Alex Askew Delegate Norfolk & Virginia Beach Jennifer McClellan U.S.
+Representative Virginia’s 4th Congressional District Eugene Vindman U.S.
+Representative Virginia’s 7th Congressional District Don Beyer U.S.
+Representative Virginia’s 8th Congressional District Suhas Subramanyam U.S.
+Representative Virginia’s 10th Congressional District James Walkinshaw, U.S.
+Representative Virginia’s 11th Congressional District Contribute Contribute Take Action Take Action Meet Elaine Meet Elaine GET UPDATES Join the Team Or Chip in $5 today → Or Chip in $5 today → Home About Endorsements Media Take Action Donate Facebook Instagram Youtube Donate by Mail: PO Box 66191, Virginia Beach, VA 23466 [email protected] Privacy Policy Accessibility Press Inquiry Contact Paid for By Elaine Luria for Congress Elaine Luria is a retired member of the US Navy.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the US Navy or the Department of Defense.
+Powered by APOLLO Home About Priorities Endorsements News Home About Priorities Endorsements News Take Action Take Action Donate Donate Facebook Instagram Youtube Let's Flip VA-02 Blue If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# Donate Donate PLAY VIDEO Donate Now to Take Back VA-02!
+If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount...
+Continue to Website

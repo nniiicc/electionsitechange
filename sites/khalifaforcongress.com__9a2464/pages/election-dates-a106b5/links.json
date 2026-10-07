@@ -1,59 +1,322 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=ACDP+Monthly+Meeting&dates=20260522T000000Z%2F20260522T010000Z&location=125+Marshall+Street%2C+Graniteville%2C+SC%2C+29829%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Barnwell+Fashion+Show&dates=20260822T210000Z%2F20260822T220000Z&location=10620+Dunbarton+Boulevard%2C+Barnwell%2C+South+Carolina%2C+29812%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff&dates=20260321T170000Z%2F20260321T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Conversations&dates=20260416T220000Z%2F20260416T233000Z&location=471+University+Parkway%2C+Aiken%2C+SC%2C+29801%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Forward+Together+&dates=20260327T220000Z%2F20260328T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Greek+Fest+2026&dates=20260417T210000Z%2F20260419T020000Z&location=Richmond+Circle%2C+New+Ellenton%2C+SC%2C+29809%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Zyon+Khalifa+%28Copy%29&dates=20260523T180000Z%2F20260523T200000Z&location=1113+Friarsgate+Boulevard%2C+Irmo%2C+SC%2C+29063%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Speaking+at+Young+Democrats+of+Central+Midlands+Meeting&dates=20260408T233000Z%2F20260409T003000Z&location=1929+Gadsden+Street%2C+Columbia%2C+SC%2C+29201%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=USCA+NAACP+General+Body+Meeting&dates=20260407T220000Z%2F20260407T230000Z&location=471+University+Parkway%2C+Aiken%2C+SC%2C+29801%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+to+Phone+Bank+for+Zyon+Khalifa&dates=20260624T230000Z%2F20261104T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=We+Are+The+People&dates=20260522T230000Z%2F20260523T000000Z&location=400+Magnolia+Street%2C+Orangeburg%2C+SC%2C+29115%2C+United+States",
-"http://maps.google.com/?q=10620+Dunbarton+Boulevard+Barnwell%2C+South+Carolina%2C+29812+United+States",
-"http://maps.google.com/?q=1113+Friarsgate+Boulevard+Irmo%2C+SC%2C+29063+United+States",
-"http://maps.google.com/?q=125+Marshall+Street+Graniteville%2C+SC%2C+29829+United+States",
-"http://maps.google.com/?q=1929+Gadsden+Street+Columbia%2C+SC%2C+29201+United+States",
-"http://maps.google.com/?q=400+Magnolia+Street+Orangeburg%2C+SC%2C+29115+United+States",
-"http://maps.google.com/?q=471+University+Parkway+Aiken%2C+SC%2C+29801+United+States",
-"http://maps.google.com/?q=Richmond+Circle+New+Ellenton%2C+SC%2C+29809+United+States",
-"http://maps.google.com/?q=Virtual",
-"https://docs.google.com/forms/d/e/1FAIpQLSfu8NGmD4jQjn1NtkQLidEc9etU42rMLF0SDUXns7WvyA-aPQ/viewform",
-"https://facebook.com/share/1CLvb9PTAE?mibextid=wwXIfr",
-"https://instagram.com/khalifaforcongress?igsh=MXByeWliN2YzMm5hdw%3D%3D",
-"https://khalifaforcongress.com/",
-"https://khalifaforcongress.com/about-2",
-"https://khalifaforcongress.com/about-2-1",
-"https://khalifaforcongress.com/campaign-merch",
-"https://khalifaforcongress.com/cart",
-"https://khalifaforcongress.com/contact",
-"https://khalifaforcongress.com/contact-1-1",
-"https://khalifaforcongress.com/election-dates",
-"https://khalifaforcongress.com/election-dates/acdp-monthly-meeting",
-"https://khalifaforcongress.com/election-dates/acdp-monthly-meeting?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-a65ft",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-a65ft?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z?format=ical",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k?format=ical",
-"https://khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87",
-"https://khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87-wdzrm",
-"https://khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87-wdzrm?format=ical",
-"https://khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87?format=ical",
-"https://khalifaforcongress.com/platform",
-"https://khalifaforcongress.com/privacy-policy",
-"https://khalifaforcongress.com/volunteer",
-"https://khalifaforcongress.com/what-have-we-been-up-to",
-"https://secure.actblue.com/donate/zyon-khalifa-2026"
+{
+"text": "(0)",
+"href": "https://www.khalifaforcongress.com/cart"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10620+dunbarton+boulevard+barnwell%2C+south+carolina%2C+29812+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1113+friarsgate+boulevard+irmo%2C+sc%2C+29063+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=125+marshall+street+graniteville%2C+sc%2C+29829+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1929+gadsden+street+columbia%2C+sc%2C+29201+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+magnolia+street+orangeburg%2C+sc%2C+29115+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=471+university+parkway+aiken%2C+sc%2C+29801+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=richmond+circle+new+ellenton%2C+sc%2C+29809+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=virtual+"
+},
+{
+"text": "ACDP Monthly Meeting",
+"href": "https://www.khalifaforcongress.com/election-dates/acdp-monthly-meeting"
+},
+{
+"text": "Barnwell Fashion Show",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-a65ft"
+},
+{
+"text": "Campaign Kickoff",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87-wdzrm"
+},
+{
+"text": "Campaign Merch",
+"href": "https://www.khalifaforcongress.com/campaign-merch"
+},
+{
+"text": "Cart (0)",
+"href": "https://www.khalifaforcongress.com/cart"
+},
+{
+"text": "Community Conversations",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k"
+},
+{
+"text": "Contact",
+"href": "https://www.khalifaforcongress.com/contact"
+},
+{
+"text": "Debate",
+"href": "https://www.khalifaforcongress.com/contact-1-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zyon-khalifa-2026"
+},
+{
+"text": "Events",
+"href": "https://www.khalifaforcongress.com/election-dates"
+},
+{
+"text": "Forward Together",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ACDP+Monthly+Meeting&dates=20260522T000000Z%2F20260522T010000Z&location=125+Marshall+Street%2C+Graniteville%2C+SC%2C+29829%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Barnwell+Fashion+Show&dates=20260822T210000Z%2F20260822T220000Z&location=10620+Dunbarton+Boulevard%2C+Barnwell%2C+South+Carolina%2C+29812%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff&dates=20260321T170000Z%2F20260321T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Conversations&dates=20260416T220000Z%2F20260416T233000Z&location=471+University+Parkway%2C+Aiken%2C+SC%2C+29801%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Forward+Together+&dates=20260327T220000Z%2F20260328T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Greek+Fest+2026&dates=20260417T210000Z%2F20260419T020000Z&location=Richmond+Circle%2C+New+Ellenton%2C+SC%2C+29809%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Zyon+Khalifa+%28Copy%29&dates=20260523T180000Z%2F20260523T200000Z&location=1113+Friarsgate+Boulevard%2C+Irmo%2C+SC%2C+29063%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Speaking+at+Young+Democrats+of+Central+Midlands+Meeting&dates=20260408T233000Z%2F20260409T003000Z&location=1929+Gadsden+Street%2C+Columbia%2C+SC%2C+29201%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=USCA+NAACP+General+Body+Meeting&dates=20260407T220000Z%2F20260407T230000Z&location=471+University+Parkway%2C+Aiken%2C+SC%2C+29801%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+to+Phone+Bank+for+Zyon+Khalifa&dates=20260624T230000Z%2F20261104T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Are+The+People&dates=20260522T230000Z%2F20260523T000000Z&location=400+Magnolia+Street%2C+Orangeburg%2C+SC%2C+29115%2C+United+States"
+},
+{
+"text": "Greek Fest 2026",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k"
+},
+{
+"text": "Have an Event For Us?",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfu8NGmD4jQjn1NtkQLidEc9etU42rMLF0SDUXns7WvyA-aPQ/viewform"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/acdp-monthly-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-a65ft?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87-wdzrm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87?format=ical"
+},
+{
+"text": "Meet Zyon Khalifa",
+"href": "https://www.khalifaforcongress.com/about-2"
+},
+{
+"text": "Meet Zyon Khalifa",
+"href": "https://www.khalifaforcongress.com/about-2-1"
+},
+{
+"text": "Meet and Greet with Zyon Khalifa (Copy)",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p"
+},
+{
+"text": "Platform",
+"href": "https://www.khalifaforcongress.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.khalifaforcongress.com/privacy-policy"
+},
+{
+"text": "Speaking at Young Democrats of Central Midlands Meeting",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z"
+},
+{
+"text": "USCA NAACP General Body Meeting",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/acdp-monthly-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-a65ft"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87"
+},
+{
+"text": "View Event →",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87-wdzrm"
+},
+{
+"text": "Volunteer",
+"href": "https://www.khalifaforcongress.com/volunteer"
+},
+{
+"text": "Volunteer to Phone Bank for Zyon Khalifa",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp"
+},
+{
+"text": "We Are The People",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5"
+},
+{
+"text": "Zyon's Messages",
+"href": "https://www.khalifaforcongress.com/what-have-we-been-up-to"
+},
+{
+"text": "[image: ACDP Monthly Meeting]",
+"href": "https://www.khalifaforcongress.com/election-dates/acdp-monthly-meeting"
+},
+{
+"text": "[image: Barnwell Fashion Show]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-a65ft"
+},
+{
+"text": "[image: Campaign Kickoff]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87-wdzrm"
+},
+{
+"text": "[image: Community Conversations]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k"
+},
+{
+"text": "[image: Forward Together ]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-two-w7zrh-s4xbg-wzd87"
+},
+{
+"text": "[image: Greek Fest 2026]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k"
+},
+{
+"text": "[image: Khalifa For Congress]",
+"href": "https://www.khalifaforcongress.com/"
+},
+{
+"text": "[image: Meet and Greet with Zyon Khalifa (Copy)]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p"
+},
+{
+"text": "[image: Speaking at Young Democrats of Central Midlands Meeting]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z"
+},
+{
+"text": "[image: USCA NAACP General Body Meeting]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr"
+},
+{
+"text": "[image: Volunteer to Phone Bank for Zyon Khalifa]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp"
+},
+{
+"text": "[image: We Are The People]",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1CLvb9PTAE/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/khalifaforcongress?igsh=MXByeWliN2YzMm5hdw%3D%3D"
+}
 ]

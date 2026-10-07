@@ -1,8 +1,6 @@
-Legislative Priorities
-Cost of Living
-- Make food and medical services exempt from the General Excise tax in order to help families afford their everyday necessities.
-- Repeal the income tax for minimum wage earners and lower rates for the middle class.
-- Invest additional dollars in high-density residential infrastructure in our urban core.
+0 Skip to Content Meet Lauren Priorities Community Endorsements Contact Volunteer Donate Open Menu Close Menu Meet Lauren Priorities Community Endorsements Contact Volunteer Donate Open Menu Close Menu Meet Lauren Priorities Community Endorsements Contact Volunteer Donate Legislative Priorities Cost of Living Jobs and the Economy Housing Crime and Rehabilitation Education Ag and Environment Cost of Living Make food and medical services exempt from the General Excise tax in order to help families afford their everyday necessities.
+Repeal the income tax for minimum wage earners and lower rates for the middle class.
+Invest additional dollars in high-density residential infrastructure in our urban core.
 Since I have held office, addressing the high cost of living in Hawaii has been a top priority.
 With costs just increasing, legislation on the economy and the cost of living are more important than ever.
 During my time in the legislature, I have introduced several bills to address the high cost of living.
@@ -15,11 +13,9 @@ Our state income tax rates are some of the highest in the nation, and working re
 Removing the income tax for minimum wage earners and reducing it for the middle class rewards the hard working men and women in our communities and would give families additional funds to save, invest, or spend in the local economy.
 These examples are initiatives that can provide instant relief for our families, especially those affected by the economic fallout from the COVID-19 crisis.
 In addition to these measures there are other long-term and structural issues we need to continue to address.
-Jobs and the Economy
-- Support our local businesses
-- Focus on diversifying our economy through agriculture, technology, and the film industry.
-- Update the State’s financial database system to provide greater transparency and accountability so taxpayer dollars are spent wisely.
-- STEM school to career pipeline to help create the local talent to fill high paying positions.
+Return to Top Jobs and the Economy Support our local businesses Focus on diversifying our economy through agriculture, technology, and the film industry.
+Update the State’s financial database system to provide greater transparency and accountability so taxpayer dollars are spent wisely.
+STEM school to career pipeline to help create the local talent to fill high paying positions.
 Since Hawaii is an economy largely based on tourism, we need to work on diversification of our economy.
 The first three sectors that the state should invest in to diversify are the film industry, technology, and agriculture and agricultural tourism.
 In order to diversify we need to recognize what is realistic to implement in both the short and long term.
@@ -36,10 +32,9 @@ Once our economy is on the road to recovery I believe we should begin to diversi
 We should use this advantage to develop a strong tech industry here in Hawaii.
 For several years in the legislature I have championed several STEM bills that would strengthen the pipeline for technological jobs in our state.
 As an island state we have limited land space and tech will provide high paying jobs with a small footprint.
-Housing
-- Increase financing options to support down payments on home purchases.
-- Establish a local housing market to increase the ability of Hawaii residents to purchase homes.
-- Continue to develop housing for working class people along Transit Oriented Development Zones.
+Return to Top Housing Increase financing options to support down payments on home purchases.
+Establish a local housing market to increase the ability of Hawaii residents to purchase homes.
+Continue to develop housing for working class people along Transit Oriented Development Zones.
 The high cost of housing in Hawaii is one of the largest contributors to our cost of living and needs long-term, dedicated solutions to ensure our future generations can afford to stay in Hawaii.
 In order to address the housing crisis, I propose a three-part solution.
 First, we need to increase financing options to allow prospective home buyers multiple ways to produce a down payment on home purchases.
@@ -56,11 +51,10 @@ This will both increase the amount of available housing for working families, as
 The State should also look into innovative and alternative programs for housing.
 Two creative examples are investing in ideas such as 3D printed homes and in recent years UH Manoa has built a display home out of invasive albizia.
 State and private cooperation in this field will be vital in making housing accessible for local families.
-Crime and Rehabilitation
-- Focus state resources toward crime prevention by creating rehabilitation and reentry services that will decrease the percentage of reoffending criminals.
-- Strengthen families and protect children from generational trauma Hawai‘i’s prison systems might cause by creating restorative justice opportunities for incarcerated parents.
-- Increase collaboration with the public, private and non-profit sectors to develop wrap around services for those in need of mental health support.
-- Expand the Housing First Program and provide support for non-profit service organizations that serve homeless individuals in Central Oahu.
+Return to Top Crime and Rehabilitation Focus state resources toward crime prevention by creating rehabilitation and reentry services that will decrease the percentage of reoffending criminals.
+Strengthen families and protect children from generational trauma Hawai‘i’s prison systems might cause by creating restorative justice opportunities for incarcerated parents.
+Increase collaboration with the public, private and non-profit sectors to develop wrap around services for those in need of mental health support.
+Expand the Housing First Program and provide support for non-profit service organizations that serve homeless individuals in Central Oahu.
 Our community has experienced a concerning increase of crime in a short amount of time.
 When surveying the district it was the number one concern among community members.
 One of the first steps we need to do is to focus our state resources towards prevention and rehabilitation in order to deter criminal activity and strengthen reentry systems.
@@ -85,13 +79,12 @@ One of the first things we need to do is increase collaboration with the public,
 Most of these services are located in urban Honolulu and need to be expanded towards central Oahu.
 Additionally, I support the Housing First model to support those experiencing homelessness.
 Housing First is a interpersonal relief approach that prioritizes helping individuals choose permanent housing to support their basic needs first and then attending to other issues second such as mental health and substance abuse.
-Education
-- Educate the whole child by funding physical education, arts, vocational tech, and in corporate extra-curricular programs into the school day.
-- Continue to support partnerships between K-12 schools and community partners to allow for real-world experiences and support.
-- Give principals additional power and resources to attend to minor repair and maintenance projects.
-- Provide greater access and affordability for early childhood education and care.
-- Incentivize onsite childcare facilities at businesses in our state through tax credits.
-- Create a grant program for teachers who receive a degree in early childhood education at the University of Hawaii system and commit to stay in Hawaii and teach at an Executive Office of Early Learning preschool.
+Return to top Education Educate the whole child by funding physical education, arts, vocational tech, and in corporate extra-curricular programs into the school day.
+Continue to support partnerships between K-12 schools and community partners to allow for real-world experiences and support.
+Give principals additional power and resources to attend to minor repair and maintenance projects.
+Provide greater access and affordability for early childhood education and care.
+Incentivize onsite childcare facilities at businesses in our state through tax credits.
+Create a grant program for teachers who receive a degree in early childhood education at the University of Hawaii system and commit to stay in Hawaii and teach at an Executive Office of Early Learning preschool.
 As a mother of two young children I understand the importance and am a strong advocate for early childhood education.
 An area that needs to be addressed is the access and the cost of childcare and early childhood education.
 For many families childcare is one of their biggest expenses after their rent or mortgage, and for some the top expense.
@@ -117,8 +110,7 @@ I’ve introduced legislation regarding physical education, computer science, vo
 I have advocated for having funding brought down to the school level to give principals and teachers more flexibility in how funds are allocated.
 In the 2019-2020 session I introduced a bill that would create discretionary sub accounts for schools to fund minor repair and maintenance projects that don't require an EIS or building permit.
 This is beneficial because those who work at the schools are the most familiar with the needs of their schools and it would help restore faith in government if families could see necessary repairs being done quickly to our schools.
-If we cut wasteful spending from the top and bring the money down to the level of the individual schools, we can take the first step toward a brighter future for our keiki.
-In addition to my work at the legislature, I have been involved personally with the teachers and students in my district.
+If we cut wasteful spending from the top and bring the money down to the level of the individual schools, we can take the first step toward a brighter future for our keiki.﻿﻿﻿ In addition to my work at the legislature, I have been involved personally with the teachers and students in my district.
 I frequently visit classrooms to talk and answer questions about civics, governmental processes and to read to students.
 I conduct legislative tours for classes as well as host special tours during fall break so teachers, parents and their children can learn about the legislative process.
 I have also created a resource for students to learn how to have their voices heard.
@@ -126,13 +118,12 @@ I designed the Hawai‘i State Government Activity Book to provide a fun way to 
 Over the past few years, I have distributed both a PDF version and hardcopy of the activity book to all of the elementary schools in my district to supplement the students' learning.
 Finally, I know how important hands-on experience is for our students so for the past eight years I have had a high school internship program in my office for students who are interested in getting involved in our government.
 As one of the co-conveners of the national Women’s Legislative Caucus I have pushed for a formal internship program within the capitol and have been working with a committee to launch this initiative.
-Agriculture & the Environment
-- Invest in water, electrical and transportation infrastructure to increase productivity and connect farmers to markets.
-- Ensure agricultural lands are protected for agricultural use to produce food for our local communities.
-- Increase access for farmers to processing and distribution facilities.
-- Expand training for local farmers.
-- Protect agricultural lands and water resources and preserve open space.
-- Implement policies to reduce and or eliminate invasive species.
+Return to Top Agriculture & the Environment Invest in water, electrical and transportation infrastructure to increase productivity and connect farmers to markets.
+Ensure agricultural lands are protected for agricultural use to produce food for our local communities.
+Increase access for farmers to processing and distribution facilities.
+Expand training for local farmers.
+Protect agricultural lands and water resources and preserve open space.
+Implement policies to reduce and or eliminate invasive species.
 Hawai‘i was at one time a completely self-sustaining chain of islands in the middle of the Pacific Ocean.
 We now produce only about 10% of our own food.
 The COVID-19 pandemic has highlighted an overdependence on food imports, now is the time to renvision and rebuild agricultural infrastructure so that we can become more self-sustaining.
@@ -153,4 +144,4 @@ One of the ways I have found that we can continue stewarding our environment is 
 This resolution that I introduced passed in the 2022 legislative session.
 Once this website is implemented, this will increase transparency and include the public in the decision making process.
 We can and should work with economists and the environmental community to maintain and preserve the natural environment that makes Hawai’i such a special place to live.
-We must lead the way for clean energy solutions in Hawai’i in order to reap the economic benefits of environmental progress and achieve our mission of protecting Hawai‘i’s fragile environment.
+We must lead the way for clean energy solutions in Hawai’i in order to reap the economic benefits of environmental progress and achieve our mission of protecting Hawai‘i’s fragile environment.﻿ Return to Top Paid for by Friends of Lauren Matsumoto PO Box 893585 Mililani, HI 96789 lauren@laurenforhawaii.com

@@ -1,5 +1,1 @@
-Tour of Berkley Field Station to discuss new job opportunities for Contra Costa Residents
-March 22, 2022
-Tour of Berkley Field Station to discuss new job opportunities for Contra Costa Residents
-Contribute
-Our campaign is built with your support
+Skip to main content Social Media John Garamendi Facebook John Garamendi Flickr John Garamendi Twitter John Garamendi YouTube Main navigation About John In the District Issues show submenu for "Issues" Jobs Health Care Agriculture Education Environment Military Affairs and Foreign Relations Social Justice Seniors Transportation Veterans Water Events News Header Buttons Join Contribute Tour of Berkley Field Station to discuss new job opportunities for Contra Costa Residents March 22, 2022 Tour of Berkley Field Station to discuss new job opportunities for Contra Costa Residents Contribute Our campaign is built with your support $25 $50 $100 $500 $1000 $3300 Contact the Campaign PO BOX 2978, FAIRFIELD, CA 94533 Social Media John Garamendi Facebook John Garamendi Flickr John Garamendi Twitter John Garamendi YouTube PAID FOR AND AUTHORIZED BY GARAMENDI FOR CONGRESS

@@ -1,17 +1,82 @@
 [
-"https://flickr.com/photos/196110945@N02",
-"https://forms.gle/DijwRstWLZn2FT798",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fgustafsonforsd36&sa=D&sntz=1&usg=AOvVaw10_-Pqch5oTaSfhHUzUfPn",
-"https://google.com/url?q=https%3A%2F%2Ftwitter.com%2Fgus_heather&sa=D&sntz=1&usg=AOvVaw2cBkv1nUC1O3fRKR6320LM",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fvoteheathergustafson&sa=D&sntz=1&usg=AOvVaw1YsLO1EZuMPn-Im6TbaCUY",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fheatherhgustafson&sa=D&sntz=1&usg=AOvVaw3KgYlPWC8wbChuThgYlalm",
-"https://google.com/url?q=https%3A%2F%2Fwww.threads.net%2F%40heatherhgustafson&sa=D&sntz=1&usg=AOvVaw3kAeP157rCUehKQAz5H8nf",
-"https://google.com/url?q=https%3A%2F%2Fwww.tiktok.com%2F%40voteheathergustafson&sa=D&sntz=1&usg=AOvVaw2AqOplQVzZvRtA0y-uo-aF",
-"https://sos.mn.gov/elections-voting/register-to-vote",
-"https://voteheathergustafson.com/contact",
-"https://voteheathergustafson.com/donate",
-"https://voteheathergustafson.com/endorsements",
-"https://voteheathergustafson.com/home",
-"https://voteheathergustafson.com/meet-heather",
-"https://voteheathergustafson.com/priorities"
+{
+"text": "Contact",
+"href": "https://www.voteheathergustafson.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.voteheathergustafson.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fgustafsonforsd36&sa=D&sntz=1&usg=AOvVaw10_-Pqch5oTaSfhHUzUfPn"
+},
+{
+"text": "Donate",
+"href": "https://www.voteheathergustafson.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteheathergustafson.com/endorsements"
+},
+{
+"text": "Get involoved",
+"href": "https://forms.gle/DijwRstWLZn2FT798"
+},
+{
+"text": "HERE",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/"
+},
+{
+"text": "Heather Gustafson",
+"href": "https://www.voteheathergustafson.com/home"
+},
+{
+"text": "Home",
+"href": "https://www.voteheathergustafson.com/home"
+},
+{
+"text": "Media/press photos",
+"href": "https://www.flickr.com/photos/196110945@N02/"
+},
+{
+"text": "Meet Heather",
+"href": "https://www.voteheathergustafson.com/meet-heather"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteheathergustafson.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fvoteheathergustafson&sa=D&sntz=1&usg=AOvVaw1YsLO1EZuMPn-Im6TbaCUY"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fheatherhgustafson&sa=D&sntz=1&usg=AOvVaw3KgYlPWC8wbChuThgYlalm"
+},
+{
+"text": "[image: Link]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.threads.net%2F%40heatherhgustafson&sa=D&sntz=1&usg=AOvVaw3kAeP157rCUehKQAz5H8nf"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.tiktok.com%2F%40voteheathergustafson&sa=D&sntz=1&usg=AOvVaw2AqOplQVzZvRtA0y-uo-aF"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fgus_heather&sa=D&sntz=1&usg=AOvVaw2cBkv1nUC1O3fRKR6320LM"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fgustafsonforsd36&sa=D&sntz=1&usg=AOvVaw10_-Pqch5oTaSfhHUzUfPn"
+},
+{
+"text": "[image]",
+"href": "https://www.voteheathergustafson.com/home"
+},
+{
+"text": "[image]Heather Gustafson",
+"href": "https://www.voteheathergustafson.com/home"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/governor-ayotte-s-valentines-gift-to-the-legislature",
- "paid_for_by": null,
+ "fingerprint": "6f8d695f1e2b15497e85c649058704fa4a444565",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monthly Letter",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2025"
  ]
 }

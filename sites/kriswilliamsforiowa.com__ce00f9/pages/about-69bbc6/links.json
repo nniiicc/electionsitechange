@@ -1,22 +1,90 @@
 [
-"https://bsky.app/profile/@kriswilliams4iowa.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61579789080435",
-"https://instagram.com/kriswilliamsforiowa",
-"https://kriswilliamsforiowa.com/",
-"https://kriswilliamsforiowa.com/2f4d7c0f-0cf0-4ee3-b195-e8099f72e324",
-"https://kriswilliamsforiowa.com/about-copy",
-"https://kriswilliamsforiowa.com/contact1",
-"https://kriswilliamsforiowa.com/endorsements",
-"https://kriswilliamsforiowa.com/events",
-"https://kriswilliamsforiowa.com/new-page",
-"https://kriswilliamsforiowa.com/news",
-"https://kriswilliamsforiowa.com/privacy-policy",
-"https://kriswilliamsforiowa.com/take-action",
-"https://kriswilliamsforiowa.com/terms-and-conditions",
-"https://kriswilliamsforiowa.com/volunteer",
-"https://linktree.com/kriswilliamsforiowa",
-"https://secure.actblue.com/donate/kris-williams-1",
-"https://tiktok.com/@kriswilliamsforiowa",
-"https://x.com/Kristof92108985"
+{
+"text": "About",
+"href": "https://www.kriswilliamsforiowa.com/about-copy"
+},
+{
+"text": "Contact",
+"href": "https://www.kriswilliamsforiowa.com/contact1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kris-williams-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kriswilliamsforiowa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kriswilliamsforiowa.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kriswilliamsforiowa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kriswilliamsforiowa.com/new-page"
+},
+{
+"text": "News and press",
+"href": "https://www.kriswilliamsforiowa.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kriswilliamsforiowa.com/privacy-policy"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.kriswilliamsforiowa.com/2f4d7c0f-0cf0-4ee3-b195-e8099f72e324"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.kriswilliamsforiowa.com/take-action"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.kriswilliamsforiowa.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kriswilliamsforiowa.com/volunteer"
+},
+{
+"text": "[image: Kris Williams for Iowa]",
+"href": "https://www.kriswilliamsforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/@kriswilliams4iowa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579789080435"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Kristof92108985"
+},
+{
+"text": "kriswilliamsforiowa@gmail.com",
+"href": "mailto:kriswilliamsforiowa@gmail.com"
+}
 ]

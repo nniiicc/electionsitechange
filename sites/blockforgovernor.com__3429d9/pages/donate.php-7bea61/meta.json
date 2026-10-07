@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.blockforgovernor.com/donate.php",
- "paid_for_by": null,
+ "fingerprint": "7170b6728bdbce7c741e8120369153c8fb8f7b4d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ken Block for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000",
+  "2026"
+ ]
 }

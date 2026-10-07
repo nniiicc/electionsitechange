@@ -1,117 +1,38 @@
-Issues
-Democracy needs elected representatives who actually represent the people.
+Contribute Meet Rob Issues Endorsements News Issues Democracy needs elected representatives who actually represent the people.
 I will hold to my beliefs and fight to make Washington State policy reflect your values.
-No Data Centers
-The Real Price of Data Centers
-Power - Water - Land: Who gets to use them, and who's left holding the bill.
+No Data Centers The Real Price of Data Centers Power - Water - Land: Who gets to use them, and who's left holding the bill.
 Add a fourth to that list — tax breaks for the wealthy.
 We've lived this before.
 Six years ago, crypto mining was pitched as our economic salvation.
 Usk's newsprint mill went dark.
 Allrise Capital — a Chinese-affiliated firm — saw cheap leftover power and smelled opportunity.
 They promised a cardboard plant.
-Here's what they delivered instead:
-- Millions of dollars in mill equipment, sold for scrap
-- 140 living-wage jobs, erased
-- 90 shipping containers of crypto-mining hardware, built overseas
-- A handful of outside contractors who don't live here, don't shop here, don't raise families here
-Not a warning: That's the blueprint
-The more money a company can make, the bigger the project gets — And the bigger the gap between what they promise and what we get.
-Here's how it usually plays out:
-- A corporation sends its envoy to make their pitch
-- The pitch is full of promises — jobs, investment, community partnership
-- Behind closed doors, a sweetheart deal gets engineered for a billion-dollar bottom line
-- The costs — power strain, water use, land impact — stay here, while the profits leave
-We already paid this price once.
+Here's what they delivered instead: Millions of dollars in mill equipment, sold for scrap 140 living-wage jobs, erased 90 shipping containers of crypto-mining hardware, built overseas A handful of outside contractors who don't live here, don't shop here, don't raise families here Not a warning: That's the blueprint The more money a company can make, the bigger the project gets — And the bigger the gap between what they promise and what we get.
+Here's how it usually plays out: A corporation sends its envoy to make their pitch The pitch is full of promises — jobs, investment, community partnership Behind closed doors, a sweetheart deal gets engineered for a billion-dollar bottom line The costs — power strain, water use, land impact — stay here, while the profits leave We already paid this price once.
 We should not be paying it again.
-Public Safety
-A Safe Community is Our Foundation
-Public safety means more than responding to crime — it means addressing the root causes that drive it.
-What drives property crime?
-poverty and trauma → addiction → homelessness → property crime
-Breaking this cycle requires addressing each link — not just the final one.
+Public Safety A Safe Community is Our Foundation Public safety means more than responding to crime — it means addressing the root causes that drive it.
+What drives property crime? poverty and trauma → addiction → homelessness → property crime Breaking this cycle requires addressing each link — not just the final one.
 The Behavioral Health Unit (BHU) used by our local law enforcement takes a co-deployment approach — embedding Frontier Behavioral Health clinicians alongside law enforcement.
 In its first year, the BHU contacted 3,760 individuals, with 78% of those contacts resulting in an outcome other than jail or the hospital.
 That's fewer repeat calls, less strain on emergency rooms, and better outcomes for everyone.
-Read More
-Healthcare
-Affordable healthcare isn't a partisan issue — it is a basic need.
+Read More Healthcare Affordable healthcare isn't a partisan issue — it is a basic need.
 When part-time and uninsured workers can't pay, that cost lands on local hospitals, which drives up prices for everyone.
 Healthcare has drifted from a public service into a profit-driven industry.
 That's not working for District 4.
-I will:
-- Fight for universal healthcare coverage to keep our local hospitals viable
-- Create real incentives for employers to offer public or non-profit insurance plans
-Strong Economy
-Pillars of a Strong Local Economy
-A skilled and educated workforce
-- Strong K-12 schools and accessible community colleges
-- Vocational and trade training tied to local industries
-- Keep our young people from leaving the region for opportunity elsewhere
-Reliable infrastructure
-- Roads and bridges that can handle agricultural and industrial freight
-- Broadband internet — rural Eastern WA still has serious connectivity gaps
-- Water access and irrigation infrastructure for agriculture
-Healthcare
-- Healthy workers show up and stay productive
-- Without accessible healthcare, businesses struggle to recruit and retain employees
-- Rural hospital closures are an economic crisis, not just a health crisis
-Housing that people can afford
-- Workforce housing shortages push workers out of the region
-- Teachers, nurses, and tradespeople can't stay if they can't afford to live here
-Support for agriculture
-- Eastern WA's AG economy runs on wheat, apples, potatoes, hops, and livestock
-- Fuel, fertilizer, fair markets, and labor are foundational to the AG sector
-- Fair water rights, reasonable regulation, and market access are non-negotiable
-- Small family farms need:
-- Easier access to low interest loans
-- Simple grants that run October - September
-- Level funding of the above that recurs year after year
-Small business ecosystem
-- Local businesses recirculate money in the community
-- Access to small business loans and startup support matters enormously in rural areas
-Public safety
-- Businesses don't invest in or relocate to high-crime areas
-- Safe communities attract families and employers
-Taxes
-Responsible Spending of Tax Dollars
-The Contract
-Every taxpayer is making a deal with their government: I'll contribute, and you'll deliver.
+I will: Fight for universal healthcare coverage to keep our local hospitals viable Create real incentives for employers to offer public or non-profit insurance plans Why Healthcare is expensive Does Cutting People from Healthcare save You money Strong Economy Pillars of a Strong Local Economy A skilled and educated workforce Strong K-12 schools and accessible community colleges Vocational and trade training tied to local industries Keep our young people from leaving the region for opportunity elsewhere Reliable infrastructure Roads and bridges that can handle agricultural and industrial freight Broadband internet — rural Eastern WA still has serious connectivity gaps Water access and irrigation infrastructure for agriculture Healthcare Healthy workers show up and stay productive Without accessible healthcare, businesses struggle to recruit and retain employees Rural hospital closures are an economic crisis, not just a health crisis Housing that people can afford Workforce housing shortages push workers out of the region Teachers, nurses, and tradespeople can't stay if they can't afford to live here Support for agriculture Eastern WA's AG economy runs on wheat, apples, potatoes, hops, and livestock Fuel, fertilizer, fair markets, and labor are foundational to the AG sector Fair water rights, reasonable regulation, and market access are non-negotiable Small family farms need: Easier access to low interest loans Simple grants that run October - September Level funding of the above that recurs year after year Small business ecosystem Local businesses recirculate money in the community Access to small business loans and startup support matters enormously in rural areas Public safety Businesses don't invest in or relocate to high-crime areas Safe communities attract families and employers Taxes Responsible Spending of Tax Dollars The Contract Every taxpayer is making a deal with their government: I'll contribute, and you'll deliver.
 Roads, schools, emergency services, clean water.
 When government fails to deliver, that contract is broken.
-Who Really Pays
-Washington relies heavily on sales tax instead of income tax.
+Who Really Pays Washington relies heavily on sales tax instead of income tax.
 That's a problem for Eastern WA — sales tax takes a bigger bite out of a smaller paycheck.
 The less you earn, the harder it hits.
-How taxes are collected:
-- Sales tax is collected uniformly across the state — Eastern WA's rate is the same structure as Western WA
-- Property taxes are collected locally by county treasurers and partially redistributed by the state
-- Business taxes (B&O) are collected statewide regardless of where the business operates
-The imbalance — and why it matters
-Eastern Washington's economy is driven by agriculture, manufacturing, and small business — sectors that generate less tax revenue per capita than the tech and finance industries concentrated in Seattle and the Puget Sound region.
-As a result:
-- Eastern WA contributes less to the state tax pool relative to its population
-- But it receives more in state funded services — roads, schools, public health, infrastructure
-- That is, Eastern WA gets roughly $1.30 back for every $1.00 paid.
-What this means politically
-Eastern WA residents often feel overtaxed and underserved — but the data tells a more complicated story.
+How taxes are collected : Sales tax is collected uniformly across the state — Eastern WA's rate is the same structure as Western WA Property taxes are collected locally by county treasurers and partially redistributed by the state Business taxes (B&O) are collected statewide regardless of where the business operates The imbalance — and why it matters Eastern Washington's economy is driven by agriculture, manufacturing, and small business — sectors that generate less tax revenue per capita than the tech and finance industries concentrated in Seattle and the Puget Sound region.
+As a result: Eastern WA contributes less to the state tax pool relative to its population But it receives more in state funded services — roads, schools, public health, infrastructure That is, Eastern WA gets roughly $1.30 back for every $1.00 paid.
+What this means politically Eastern WA residents often feel overtaxed and underserved — but the data tells a more complicated story.
 The frustration is real, but the math shows the region is actually a net beneficiary of the current system.
-The honest takeaway
-Washington state relies heavily on sales tax instead of income tax.
+The honest takeaway Washington state relies heavily on sales tax instead of income tax.
 This ends up being harder on lower-income families in Eastern WA, because people with less money spend a bigger share of their earnings on everyday purchases — and pay sales tax on all of it.
 It's a real and fair concern that deserves attention.
-Read More
-One Washington State
-Our current representative is fixated with making Washington state into two Autonomous Regions (HB2085)
-Fiscally Reckless
-Eastern Washington receives roughly $1.30 in state services for every $1.00 paid in taxes.
+Read More One Washington State Our current representative is fixated with making Washington state into two Autonomous Regions (HB2085) Fiscally Reckless Eastern Washington receives roughly $1.30 in state services for every $1.00 paid in taxes .
 Separation would cut off that subsidy - hurting the very region pushing hardest for the split.
-Practical problems
-- Dividing a state's government, infrastructure, and budget would be complicated and expensive
-- Water rights, highways, utilities, and public lands cross the proposed dividing lines — splitting them would create legal chaos
-- The creation of 2 regions requires the impractical hurdle of a WA State constitutional amendment, as well as a 2/3 voter majority to pass
-Political and economic problems
-- Eastern WA is largely rural and lower-population — it would have a much smaller tax base to fund schools, roads, and services on its own
-- Western WA generates most of the state's economic output; separating it could hurt both sides
-- It could complicate both regions' influence in the U.S.
-Senate rather than strengthen either one
+Practical problems Dividing a state's government, infrastructure, and budget would be complicated and expensive Water rights, highways, utilities, and public lands cross the proposed dividing lines — splitting them would create legal chaos The creation of 2 regions requires the impractical hurdle of a WA State constitutional amendment, as well as a 2/3 voter majority to pass Political and economic problems Eastern WA is largely rural and lower-population — it would have a much smaller tax base to fund schools, roads, and services on its own Western WA generates most of the state's economic output; separating it could hurt both sides It could complicate both regions' influence in the U.S.
+Senate rather than strengthen either one Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

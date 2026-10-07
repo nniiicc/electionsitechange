@@ -1,5 +1,4 @@
-ABOUT BETTY
-Before she was elected to Congress, Betty McCollum grew up the daughter of a flight attendant and a World War II veteran in South St.
+0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE ABOUT BETTY Before she was elected to Congress, Betty McCollum grew up the daughter of a flight attendant and a World War II veteran in South St.
 Paul, and graduated from South St.
 Public Schools.
 Upon graduating from Inver Hills Community College with an A.A. and St.
@@ -14,7 +13,11 @@ On the Appropriations Committee, Betty serves as the Ranking Member on the Defen
 She is also a senior member on the Interior-Environment Subcommittee, where she works to protect federal funding for the Environmental Protection Agency, our national parks, public lands, the arts & humanities, and tribal nations.
 As Minnesota’s sole member of the Appropriations Committee in Congress, Betty is uniquely-positioned to secure billions of dollars in federal funding each year for projects, programs, and services that save lives, create jobs, boost economic security, improve our infrastructure, and grow our local economy.
 Betty has been an outspoken champion for protecting and preserving our environment.
-Betty is the leading advocate in Congress for permanently protecting Minnesota’s Boundary Waters Wilderness from toxic sulfide-ore copper mining through her introduction of the Boundary Waters Wilderness Protection and Pollution Prevention Act.
+Betty is the leading advocate in Congress for permanently protecting Minnesota’s Boundary Waters Wilderness from toxic sulfide-ore copper mining through her introduction of the Boundary Waters Wilderness Protection and Pollution Prevention Act .
 She has also introduced legislation in Congress to coordinate efforts to protect and restore the Mississippi River, end the use of cancerous perfluoroalkyl and polyfluoroalkyl substances (PFAS) in everyday products, and expand animal cruelty protections for cold-blooded animals.
 Betty is a mother to two children and a proud grandmother to two grandsons.
 She lives in Saint Paul, Minnesota.
+Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+(651) 603-1505 info@mccollumforcongress.com McCollum for Congress P.O.
+Box 14131 Saint Paul, MN 55114 PAID FOR BY McCOLLUM FOR CONGRESS

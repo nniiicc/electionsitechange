@@ -1,9 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jimjoymn.com/",
-"https://jimjoymn.com/contact-us",
-"https://jimjoymn.com/issues",
-"https://jimjoymn.com/radio-transcripts",
-"https://secure.winred.com/jim-joy-for-house",
-"https://secure.winred.com/jim-joy-for-house/donate-today"
+{
+"text": "Contact Us",
+"href": "https://jimjoymn.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jim-joy-for-house/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jim-joy-for-house/donate-today"
+},
+{
+"text": "Home",
+"href": "https://jimjoymn.com/"
+},
+{
+"text": "Radio Transcripts",
+"href": "https://jimjoymn.com/radio-transcripts"
+},
+{
+"text": "[image: Jim Joy MN]",
+"href": "https://jimjoymn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "issues",
+"href": "https://jimjoymn.com/issues"
+}
 ]

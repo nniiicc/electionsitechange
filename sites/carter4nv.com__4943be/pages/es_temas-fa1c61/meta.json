@@ -1,7 +1,9 @@
 {
- "description": "Plataforma de Max Carter: Reducci\u00f3n de costos, seguridad p\u00fablica, empleos sindicales bien remunerados, financiaci\u00f3n de la educaci\u00f3n, vivienda asequible, acceso a la atenci\u00f3n m\u00e9dica y protecci\u00f3n de los derechos.",
+ "description": "Plataforma de Max Carter: Reducción de costos, seguridad pública, empleos sindicales bien remunerados, financiación de la educación, vivienda asequible, acceso a la atención médica y protección de los derechos.",
  "final_url": "https://www.carter4nv.com/es/temas",
- "paid_for_by": null,
+ "fingerprint": "c64958162c50befd8a714a272e6a360799524ee4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Temas | Max Carter por el Distrito 12 de la Asamblea Estatal de Nevada",
  "years_mentioned": [
   "2023"

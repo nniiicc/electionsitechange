@@ -1,22 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Blitz+with+Attorney+General+William+Tong&dates=20260920T143000Z%2F20260920T163000Z",
-"http://votelettieri.com/get-involved",
-"https://facebook.com/profile.php?id=61559037015755",
-"https://instagram.com/cinzialettierict",
-"https://votelettieri.com/",
-"https://votelettieri.com/cart",
-"https://votelettieri.com/contact",
-"https://votelettieri.com/endorsements",
-"https://votelettieri.com/events-1",
-"https://votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri",
-"https://votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong?format=ical",
-"https://votelettieri.com/get-involved-1",
-"https://votelettieri.com/get-your-lawn-sign",
-"https://votelettieri.com/headquarters",
-"https://votelettieri.com/issues",
-"https://votelettieri.com/meet-cinzia",
-"https://votelettieri.com/new-dropdown",
-"https://votelettieri.com/press",
-"https://votelettieri.com/volunteer",
-"https://votelettieri.com/voter-info"
+{
+"text": "0",
+"href": "https://www.votelettieri.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.votelettieri.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votelettieri.com/events-1"
+},
+{
+"text": "Cinzia Lettieri For State Representative",
+"href": "https://www.votelettieri.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.votelettieri.com/contact"
+},
+{
+"text": "Contact",
+"href": "mailto:votelettieri@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelettieri.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61559037015755"
+},
+{
+"text": "Folder: About",
+"href": "https://www.votelettieri.com/new-dropdown"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.votelettieri.com/get-involved-1"
+},
+{
+"text": "Get Your Lawn Sign!",
+"href": "https://www.votelettieri.com/get-your-lawn-sign"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Blitz+with+Attorney+General+William+Tong&dates=20260920T143000Z%2F20260920T163000Z"
+},
+{
+"text": "Headquarters",
+"href": "https://www.votelettieri.com/headquarters"
+},
+{
+"text": "ICS",
+"href": "https://www.votelettieri.com/events-1/door-knocking-blitz-with-attorney-general-william-tong?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cinzialettierict/"
+},
+{
+"text": "Issues",
+"href": "https://www.votelettieri.com/issues"
+},
+{
+"text": "Meet Cinzia",
+"href": "https://www.votelettieri.com/meet-cinzia"
+},
+{
+"text": "Next Next September 26 Clinton Democrats' Wine and Cheese Event",
+"href": "https://www.votelettieri.com/events-1/clinton-democrats-he-saidshe-said-a-battle-of-the-sexes-meet-candidate-for-state-representative-cinzia-lettieri"
+},
+{
+"text": "Press",
+"href": "https://www.votelettieri.com/press"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.votelettieri.com/events-1"
+},
+{
+"text": "Volunteer",
+"href": "http://www.votelettieri.com/get-involved"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votelettieri.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votelettieri.com/voter-info"
+}
 ]

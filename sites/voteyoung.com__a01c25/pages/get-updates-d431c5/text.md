@@ -1,4 +1,5 @@
-GET UPDATES
-"Like you, I’m focused on the things keeping families up at night: making life more affordable, protecting access to quality healthcare, keeping our communities safe, supporting our schools, and building a stronger local economy.
+HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM DONATE GET UPDATES "Like you, I’m focused on the things keeping families up at night: making life more affordable, protecting access to quality healthcare, keeping our communities safe, supporting our schools, and building a stronger local economy.
 When you sign up to follow my campaign, you’ll receive regular, no-nonsense updates on these critical issues—straight talk about the challenges we face and the practical steps we can take together.
-No fluff, just the information you need to stay informed." - Marty Young
+No fluff, just the information you need to stay informed." - Marty Young Sign-up to Receive our Newsletter!
+PAID FOR BY MARTY YOUNG FOR CONGRESS P.O.
+Box 7 Pocopson, PA 19366-9998 info@voteyoung.com HOME DONATE VOLUNTEER PRIVACY & TERMS Share by:

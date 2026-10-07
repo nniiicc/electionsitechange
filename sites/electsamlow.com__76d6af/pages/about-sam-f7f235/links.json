@@ -1,11 +1,42 @@
 [
-"https://electsamlow.com/",
-"https://electsamlow.com/about-sam",
-"https://electsamlow.com/contact-sam",
-"https://electsamlow.com/donate-today",
-"https://electsamlow.com/endorsements",
-"https://facebook.com/Electsamlow",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://x.com/electsamlow",
-"https://youtube.com/channel/UC31GWhSptKfQjn5yG3wDOgQ/featured"
+{
+"text": "About Sam",
+"href": "https://electsamlow.com/about-sam"
+},
+{
+"text": "Contact Sam",
+"href": "https://electsamlow.com/contact-sam"
+},
+{
+"text": "Donate Today",
+"href": "https://electsamlow.com/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://electsamlow.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://electsamlow.com/"
+},
+{
+"text": "[image]",
+"href": "https://electsamlow.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Electsamlow/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electsamlow/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC31GWhSptKfQjn5yG3wDOgQ/featured"
+}
 ]

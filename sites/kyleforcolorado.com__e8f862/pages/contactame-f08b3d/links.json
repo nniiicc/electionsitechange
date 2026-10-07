@@ -1,22 +1,98 @@
 [
-"https://kyleforcolorado.com/",
-"https://kyleforcolorado.com/contact-me",
-"https://kyleforcolorado.com/contactame",
-"https://kyleforcolorado.com/distrito-12",
-"https://kyleforcolorado.com/donate",
-"https://kyleforcolorado.com/hd12",
-"https://kyleforcolorado.com/los-resultados-importan",
-"https://kyleforcolorado.com/mi-cuento",
-"https://kyleforcolorado.com/my-story",
-"https://kyleforcolorado.com/newsletters",
-"https://kyleforcolorado.com/noticias",
-"https://kyleforcolorado.com/results-matter",
-"https://kyleforcolorado.com/unete-a-nuestra-campana",
-"https://kyleforcolorado.com/valores-progresivos-resultados-comprobados",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fkyleforcolorado.com%2Fcontactame%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fkyleforcolorado.com%252Fcontactame%252F",
-"https://wordpress.com/start",
-"https://wp.me/P9GhS8-jR"
+{
+"text": "Contact Me",
+"href": "https://kyleforcolorado.com/contact-me/"
+},
+{
+"text": "Contáctame",
+"href": "https://kyleforcolorado.com/contactame/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/P9GhS8-jR"
+},
+{
+"text": "Distrito 12",
+"href": "https://kyleforcolorado.com/distrito-12/"
+},
+{
+"text": "Home",
+"href": "https://kyleforcolorado.com/"
+},
+{
+"text": "Inicio",
+"href": "https://kyleforcolorado.com/valores-progresivos-resultados-comprobados/"
+},
+{
+"text": "Kyle Brown: State Representative",
+"href": "https://kyleforcolorado.com/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fkyleforcolorado.com%252Fcontactame%252F"
+},
+{
+"text": "Los Resultados Importan",
+"href": "https://kyleforcolorado.com/los-resultados-importan/"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Mi Historia",
+"href": "https://kyleforcolorado.com/mi-cuento/"
+},
+{
+"text": "My Story",
+"href": "https://kyleforcolorado.com/my-story/"
+},
+{
+"text": "Newsletters",
+"href": "https://kyleforcolorado.com/newsletters/"
+},
+{
+"text": "Noticias",
+"href": "https://kyleforcolorado.com/noticias/"
+},
+{
+"text": "Our District: HD12",
+"href": "https://kyleforcolorado.com/hd12/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fkyleforcolorado.com%2Fcontactame%2F"
+},
+{
+"text": "Results Matter",
+"href": "https://kyleforcolorado.com/results-matter/"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Support My Campaign",
+"href": "https://kyleforcolorado.com/donate/"
+},
+{
+"text": "[image]Kyle Brown: State Representative",
+"href": "https://kyleforcolorado.com"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "kyleforcolorado@gmail.com",
+"href": "mailto:kyleforcolorado@gmail.com"
+},
+{
+"text": "Únete a Nuestra Campaña",
+"href": "https://kyleforcolorado.com/unete-a-nuestra-campana/"
+},
+{
+"text": "← Back",
+"href": "https://kyleforcolorado.com/contactame/"
+}
 ]

@@ -1,4 +1,3 @@
-Jessie Barcala is a former member of the USAF.
+Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Photos 12/05/2025 - Donating Type 1 Diabetics dolls to Huntsville Hospital Pediatric Endocrinology Clinic Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
-Paid for by Committee to Elect Jessie Barcala
-Powered by CampaignPartner.com - Political Websites
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

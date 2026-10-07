@@ -1,802 +1,361 @@
-NEWSROOM
-PRESS RELEASE
-Jocelyn Benson Joins SEIU Homecare Nurse on the Job, Shares Plan to Raise Homecare Wages
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined SEIU in Flint for their “Walk a Day in our Shoes” program.
+Skip navigation menu Meet Jocelyn Issues News Volunteer Store Donate Meet Jocelyn Issues News Volunteer Store Donate NEWSROOM PRESS RELEASE Jocelyn Benson WINS First Gubernatorial Debate on WOOD-TV Jocelyn Benson took the debate stage at WOOD-TV tonight and made her case directly to Michigan families: she'll lower costs, raise wages, and protect the rights and freedoms they were born with.
+Read more Oct 6 2026 PRESS RELEASE Jocelyn Benson Joins SEIU Homecare Nurse on the Job, Shares Plan to Raise Homecare Wages Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined SEIU in Flint for their “Walk a Day in our Shoes” program.
 Jocelyn joined a homecare nurse on the job and spoke with staff about the struggles facing homecare workers and their patients, and how the next governor can best help.
-PRESS RELEASE
-NEW AD: Jocelyn Benson Vows to Fight for Affordable Healthcare and Put Patients First
-Yesterday, Jocelyn Benson released her latest statewide television ad, “Helping Patients,” which highlights her plan to lower drug costs, take on insurance companies that deny care, and expand access to quality, affordable healthcare in every community across the state.
-PRESS RELEASE
-WATCH: Jocelyn Benson Slams John James for $6,400 Tariff Tax on Michigan
-Last night, Secretary of State and Democratic nominee for Governor Jocelyn Benson called out John James on MS NOW’s The Last Word With Lawrence O'Donnell for backing Trump’s reckless trade war with Canada, and costing Michigan households more than $6,400 over the past year — the most of any state in the country.
+Read more Oct 2 2026 PRESS RELEASE NEW AD: Jocelyn Benson Vows to Fight for Affordable Healthcare and Put Patients First Yesterday, Jocelyn Benson released her latest statewide television ad, “ Helping Patients ,” which highlights her plan to lower drug costs, take on insurance companies that deny care, and expand access to quality, affordable healthcare in every community across the state.
+Read more Oct 1 2026 PRESS RELEASE WATCH: Jocelyn Benson Slams John James for $6,400 Tariff Tax on Michigan Last night, Secretary of State and Democratic nominee for Governor Jocelyn Benson called out John James on MS NOW’s The Last Word With Lawrence O'Donnell for backing Trump’s reckless trade war with Canada, and costing Michigan households more than $6,400 over the past year — the most of any state in the country.
 Michiganders are already struggling to make ends meet, and instead of fighting for Michiganders, James is rubber-stamping Trump’s failed economic policies, from the trade war to the Iran War.
-PRESS RELEASE
-Jocelyn Benson Launches “Heroes for Benson” Coalition, Vows Support for Michigan’s Veterans, First Responders
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson and U.S.
+Read more Sep 30 2026 PRESS RELEASE Jocelyn Benson Launches “Heroes for Benson” Coalition, Vows Support for Michigan’s Veterans, First Responders Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson and U.S.
 Senator Elissa Slotkin launched the “Heroes for Benson” coalition: a group of veterans, first responders, and healthcare heroes that trust Jocelyn to work for them, bring down their costs, and protect their rights and safety.
 Michigan’s heroes are the latest addition to Team Benson’s statewide coalition of unions, nonprofits, and community leaders gearing up to elect Jocelyn this November.
-PRESS RELEASE
-LISTEN: Jocelyn Benson Commits to Cleaning Up John James’ Mess, Bringing Costs Down for Michiganders
-Last week, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined the Meidas Touch Podcast to share what she’s been hearing from Michiganders as they’re facing the consequences of John James’ failed economic policies.
+Read more Sep 28 2026 PRESS RELEASE LISTEN: Jocelyn Benson Commits to Cleaning Up John James’ Mess, Bringing Costs Down for Michiganders Last week, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined the Meidas Touch Podcast to share what she’s been hearing from Michiganders as they’re facing the consequences of John James’ failed economic policies.
 From Detroit to Muskegon, Jocelyn has heard from Michiganders struggling to afford their healthcare, housing, groceries, and electricity, due to rising costs amidst the trade war with Canada and ongoing Iran War.
 While John James is raising household costs, and allowing gas prices to skyrocket to $5/gallon, Jocelyn vows to get to work on day one to bring down costs for Michiganders.
-PRESS RELEASE
-Jocelyn Benson, Big Sean Discuss Strategies to Grow Michigan’s Creative Economy
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined Detroit-born artist and entrepreneur Big Sean, digital creators, and business leaders in Detroit for a conversation about Michigan’s creative economy.
+Read more Sep 28 2026 PRESS RELEASE Jocelyn Benson, Big Sean Discuss Strategies to Grow Michigan’s Creative Economy Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined Detroit-born artist and entrepreneur Big Sean, digital creators, and business leaders in Detroit for a conversation about Michigan’s creative economy.
 They discussed how the next governor can invest in the arts, support creative entrepreneurs, and build more opportunities for Michiganders in creative fields.
-PRESS RELEASE
-WATCH: Jocelyn Benson Highlights Consequences of John James’ Failed Economic Policies
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson called out John James on Morning Joe for rubberstamping Trump’s failed economic policies in Congress and raising costs for Michiganders.
+Read more Sep 26 2026 PRESS RELEASE WATCH: Jocelyn Benson Highlights Consequences of John James’ Failed Economic Policies Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson called out John James on Morning Joe for rubberstamping Trump’s failed economic policies in Congress and raising costs for Michiganders.
 While James has voted to support the tariffs raising household costs by $5,619, and repeatedly voted to support Trump’s Iran War that skyrocketed gas prices to over $5 per gallon — including just last week — Jocelyn has rolled out a comprehensive plan to bring down costs and raise wages.
 Michiganders deserve a governor that makes their life easier, and works for them — not a yes-man for Donald Trump.
-PRESS RELEASE
-WATCH: Jocelyn Benson Vows to Fight to Bring Down Energy Costs for Michigan Families
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable in Detroit with Attorney General Dana Nessel to hear from families facing higher utility bills and discuss how the next governor can bring down the rising energy costs.
-PRESS RELEASE
-Jocelyn Benson, Dana Nessel Discuss Rising Energy Costs, Slam James for Unnecessary Price Hikes
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined Attorney General Dana Nessel for a roundtable discussion in Detroit about the growing cost of energy and everything else, from gas to groceries, and what the next governor can do to deliver relief.
-PRESS RELEASE
-Jocelyn Benson Shares Plan To Tackle Healthcare Workforce Shortage and Protect Michiganders From
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined medical professionals and students in Traverse City for a roundtable discussion about her plan to tackle the healthcare workforce shortage hitting Michigan, and bring down the rising healthcare costs.
-PRESS RELEASE
-Jocelyn Benson to John James On High Gas Prices: This is Your Mess
-Today, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined Tony Ortiz on WWJ Newsradio to discuss her call for Donald Trump and John James to suspend the gas tax as the war in Iran pushes gas prices to $5/gallon in Michigan.
+Read more Sep 24 2026 PRESS RELEASE WATCH: Jocelyn Benson Vows to Fight to Bring Down Energy Costs for Michigan Families Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable in Detroit with Attorney General Dana Nessel to hear from families facing higher utility bills and discuss how the next governor can bring down the rising energy costs.
+Read more Sep 23 2026 PRESS RELEASE Jocelyn Benson, Dana Nessel Discuss Rising Energy Costs, Slam James for Unnecessary Price Hikes Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined Attorney General Dana Nessel for a roundtable discussion in Detroit about the growing cost of energy and everything else, from gas to groceries, and what the next governor can do to deliver relief.
+Read more Sep 22 2026 PRESS RELEASE Jocelyn Benson Shares Plan To Tackle Healthcare Workforce Shortage and Protect Michiganders From Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined medical professionals and students in Traverse City for a roundtable discussion about her plan to tackle the healthcare workforce shortage hitting Michigan, and bring down the rising healthcare costs.
+Read more Sep 21 2026 PRESS RELEASE Jocelyn Benson to John James On High Gas Prices: This is Your Mess Today, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined Tony Ortiz on WWJ Newsradio to discuss her call for Donald Trump and John James to suspend the gas tax as the war in Iran pushes gas prices to $5/gallon in Michigan.
 This is an unaffordable war that Trump and James started and it’s on them — not Michiganders — to clean it up.
 This is the second costly war James has rubber-stamped: just as he voted to continue the Iran war, he voted to continue Trump’s trade war that’s costing Michigan families an extra $5,619.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson Calls on John James and Donald Trump to Suspend Federal Gas Tax and End Iran War
-Today, as gas reaches $5/gallon and diesel prices are at record levels because of Donald Trump and John James’ Iran War, Secretary of State and Democratic Nominee for Governor Jocelyn Benson released the following statement:
-PRESS RELEASE
-Jocelyn Benson Vows to Fight “John James Tax” Hikes
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson traveled to events across metro Detroit to discuss rising costs, and share her plans to counteract the damage of the Trump-James price hiking agenda.
-PRESS RELEASE
-Jocelyn Benson Hears from Local Grocery Store Owner and Customers Drowning Under “John James Tax” Hike on Groceries
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined State Rep.
+Read more Sep 18 2026 PRESS RELEASE STATEMENT: Jocelyn Benson Calls on John James and Donald Trump to Suspend Federal Gas Tax and End Iran War Today, as gas reaches $5/gallon and diesel prices are at record levels because of Donald Trump and John James’ Iran War, Secretary of State and Democratic Nominee for Governor Jocelyn Benson released the following statement: Read more Sep 18 2026 PRESS RELEASE Jocelyn Benson Vows to Fight “John James Tax” Hikes Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson traveled to events across metro Detroit to discuss rising costs, and share her plans to counteract the damage of the Trump-James price hiking agenda.
+Read more Sep 17 2026 PRESS RELEASE Jocelyn Benson Hears from Local Grocery Store Owner and Customers Drowning Under “John James Tax” Hike on Groceries Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined State Rep.
 Natalie Price at a grocery store in Ferndale for a roundtable discussion about rising food costs.
 From the gas pump, to the doctors office, to the grocery store, Michiganders have been drowning under skyrocketing costs.
 Now, thanks to the latest round of John James Tax hikes, Michiganders are shouldering yet another Republican-made price hike.
-PRESS RELEASE
-Jocelyn Benson Shares Her Vision for Michigan, Slams James’ Failed Economic Record at Detroit Economic Club
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined the Detroit Economic Club to share her vision of Michigan as the economic engine of the Midwest, and the best place in the nation to live, work, and raise a family.
+Read more Sep 16 2026 PRESS RELEASE Jocelyn Benson Shares Her Vision for Michigan, Slams James’ Failed Economic Record at Detroit Economic Club Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined the Detroit Economic Club to share her vision of Michigan as the economic engine of the Midwest, and the best place in the nation to live, work, and raise a family.
 Covering topics from data centers, to healthcare, to education, Jocelyn shared her plans to bring down costs, diversify our economy, and protect communities.
-PRESS RELEASE
-Jocelyn Benson Statement on John James Voting Against Ending the Iran War and Lowering Costs for Michiganders
-Last night, Congressman John James voted against a resolution to end Donald Trump’s disastrous and costly War in Iran.
-Secretary of State and Democratic Nominee for Governor Jocelyn Benson released the following statement in response:
-PRESS RELEASE
-Winnie Brinks Meets Michiganders Hurting from “John James Tax” Across the State
-Over the last few days, Senate Majority Leader and Democratic nominee for Lieutenant Governor Winnie Brinks has traveled across the state — from Traverse City to Saginaw — to meet with Michiganders suffering the consequences of the John James Tax hikes.
+Read more Sep 16 2026 PRESS RELEASE Jocelyn Benson Statement on John James Voting Against Ending the Iran War and Lowering Costs for Michiganders Last night, Congressman John James voted against a resolution to end Donald Trump’s disastrous and costly War in Iran.
+Secretary of State and Democratic Nominee for Governor Jocelyn Benson released the following statement in response: Read more Sep 16 2026 PRESS RELEASE Winnie Brinks Meets Michiganders Hurting from “John James Tax” Across the State Over the last few days, Senate Majority Leader and Democratic nominee for Lieutenant Governor Winnie Brinks has traveled across the state — from Traverse City to Saginaw — to meet with Michiganders suffering the consequences of the John James Tax hikes.
 Winnie called out James for putting Trump’s agenda ahead of Michiganders — continuing to back his reckless trade war even as Michigan households have faced an additional $5,619 in costs over the past year.
-PRESS RELEASE
-Winnie Brinks and Sen.
-Greene Hear from Community Members Facing Rising Costs Under “John James Tax”
-Today, Senate Majority Leader and Democratic Nominee for Lieutenant Governor Winnie Brinks and state Senator Chedrick Greene heard from Saginaw residents facing higher costs thanks to the latest “John James Tax” and shared the Benson-Brinks plan to lower costs and help residents survive these tax hikes.
+Read more Sep 15 2026 PRESS RELEASE Winnie Brinks and Sen.
+Greene Hear from Community Members Facing Rising Costs Under “John James Tax” Today, Senate Majority Leader and Democratic Nominee for Lieutenant Governor Winnie Brinks and state Senator Chedrick Greene heard from Saginaw residents facing higher costs thanks to the latest “ John James Tax ” and shared the Benson-Brinks plan to lower costs and help residents survive these tax hikes.
 Jocelyn and Winnie are the only ticket with a comprehensive plan to make it easier to build a life, from lowering costs to diversifying our economy.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson Calls On John James and Donald Trump to Halt Tariffs
-This week, as the U.S.
+Read more Sep 14 2026 PRESS RELEASE STATEMENT: Jocelyn Benson Calls On John James and Donald Trump to Halt Tariffs This week, as the U.S.
 House of Representatives meets in D.C. for the final time ahead of the November election after D.C.
-Republicans cut their own schedule short, Secretary of State and Democratic Nominee for Governor Jocelyn Benson released the following statement:
-PRESS RELEASE
-Jocelyn Benson Calls for Moratorium on Data Centers in New “Michigan First” Ad
-Today, Jocelyn Benson is out with her latest statewide television ad, “Michigan First,” where she pledges to put people over profits as the next Governor — calling for a moratorium on data center projects in Michigan, an end to tax breaks for data center companies, and safeguards that ensure data centers don’t raise electricity bills for Michiganders.
+Republicans cut their own schedule short , Secretary of State and Democratic Nominee for Governor Jocelyn Benson released the following statement: Read more Sep 14 2026 PRESS RELEASE Jocelyn Benson Calls for Moratorium on Data Centers in New “Michigan First” Ad Today, Jocelyn Benson is out with her latest statewide television ad, “ Michigan First ,” where she pledges to put people over profits as the next Governor — calling for a moratorium on data center projects in Michigan, an end to tax breaks for data center companies, and safeguards that ensure data centers don’t raise electricity bills for Michiganders.
 Jocelyn called for a moratorium on data centers until we can put strict, enforceable guardrails in place to protect Michiganders, and require them to hire Michigan union workers.
-PRESS RELEASE
-Winnie Brinks Joins Small Business Owners in Traverse City to Discuss Crushing “John James Tax”
-Today, Senate Majority Leader and Democratic Nominee for Lieutenant Governor Winnie Brinks held a roundtable with small business owners in Traverse City to discuss the impacts of the latest “John James Tax” hikes.
+Read more Sep 13 2026 PRESS RELEASE Winnie Brinks Joins Small Business Owners in Traverse City to Discuss Crushing “John James Tax” Today, Senate Majority Leader and Democratic Nominee for Lieutenant Governor Winnie Brinks held a roundtable with small business owners in Traverse City to discuss the impacts of the latest “ John James Tax ” hikes.
 Michigan’s small businesses, which are already struggling with high utility and operating costs, are now facing higher prices thanks to the latest round of reckless Trump-James tariffs on Canada – forcing them to cut staff, raise prices, or close their doors.
 John James has repeatedly backed these unaffordable tariffs that are hurting the economy, and has refused to call them out for what they are: a tax on Michiganders.
-PRESS RELEASE
-Jocelyn Benson Vows to Fight for Seniors Hurt by John James Healthcare Cuts
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable with Lansing seniors to discuss the rising healthcare costs and growing facility closures in the wake of the James-backed Medicaid cuts.
-PRESS RELEASE
-ON THE AIRWAVES: Winnie Brinks Draws Sharp Contrast Between James Price-Hikes and Benson Affordability Agenda
-Senate Majority Leader and Democratic Nominee for Lieutenant Governor Winnie Brinks took to the airwaves this week to highlight the Benson-Brinks agenda to make Michigan the best place in the nation to call home.
+Read more Sep 11 2026 PRESS RELEASE Jocelyn Benson Vows to Fight for Seniors Hurt by John James Healthcare Cuts Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable with Lansing seniors to discuss the rising healthcare costs and growing facility closures in the wake of the James-backed Medicaid cuts.
+Read more Sep 9 2026 PRESS RELEASE ON THE AIRWAVES: Winnie Brinks Draws Sharp Contrast Between James Price-Hikes and Benson Affordability Agenda Senate Majority Leader and Democratic Nominee for Lieutenant Governor Winnie Brinks took to the airwaves this week to highlight the Benson-Brinks agenda to make Michigan the best place in the nation to call home.
 As governor, Jocelyn will bring down the costs of everything — from healthcare to housing to energy — grow our economy and stand up to anyone to protect the rights and safety of Michiganders.
-PRESS RELEASE
-Jocelyn Benson, Sen.
-Sarah Anthony Share Plan to Tackle Skyrocketing Healthcare Costs After Federal Cuts
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable with State Senator Sarah Anthony and Lansing community members to discuss the growing consequences of the James-backed cuts to healthcare that are forcing hospital closures and driving medical bills up.
-PRESS RELEASE
-WATCH: Jocelyn Benson Slams John James Tax Hike Costing Michiganders $5600
-This morning, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined Face The Nation on CBS to discuss the latest John James Tax hikes.
+Read more Sep 9 2026 PRESS RELEASE Jocelyn Benson, Sen.
+Sarah Anthony Share Plan to Tackle Skyrocketing Healthcare Costs After Federal Cuts Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable with State Senator Sarah Anthony and Lansing community members to discuss the growing consequences of the James-backed cuts to healthcare that are forcing hospital closures and driving medical bills up.
+Read more Sep 8 2026 PRESS RELEASE WATCH: Jocelyn Benson Slams John James Tax Hike Costing Michiganders $5600 This morning, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined Face The Nation on CBS to discuss the latest John James Tax hikes.
 Michiganders have already been paying an additional $5,600 because of James and Trump — the highest of any state — and now are facing an escalating trade war with Canada, and price hikes across the board thanks to John James.
-PRESS RELEASE
-Jocelyn Benson Continues Record-Breaking Fundraising One Month Into General Election
-After winning every county in Michigan and more than 80% of the vote in the August primary, Jocelyn Benson is carrying that momentum into the general election with nearly $1.8 million raised in only five weeks.
-PRESS RELEASE
-Jocelyn Benson Hears From Small Business Owners Drowning Under “John James Tax” Hikes
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson spoke with small business owners in Flint who are losing customers and facing higher costs amidst the latest round of “John James Tax” hikes.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson on Flock Cameras Invading Michiganders’ Privacy
-In response to growing concerns from Michiganders about the spread of Flock cameras, and fears of privacy invasion, Democratic gubernatorial nominee and Secretary of State Jocelyn Benson released the below statement:
-PRESS RELEASE
-🚨FACT CHECK, TRUE: John James Voted to Increase Michiganders’ Healthcare Costs Three Times
-New reporting by Bridge Michigan exposed John James’ healthcare record — confirming he’s voted at least three times to raise the healthcare costs of Michiganders.
-In January, Jocelyn declared healthcare the “defining issue” of the race and is still the only candidate with a real plan to lower medical bills, improve outcomes, and expand access to lifesaving care.
+Read more Sep 6 2026 PRESS RELEASE Jocelyn Benson Continues Record-Breaking Fundraising One Month Into General Election After winning every county in Michigan and more than #% of the vote in the August primary, Jocelyn Benson is carrying that momentum into the general election with nearly $# million raised in only five weeks.
+Read more Sep 3 2026 PRESS RELEASE Jocelyn Benson Hears From Small Business Owners Drowning Under “John James Tax” Hikes Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson spoke with small business owners in Flint who are losing customers and facing higher costs amidst the latest round of “ John James Tax ” hikes.
+Read more Sep 2 2026 PRESS RELEASE STATEMENT: Jocelyn Benson on Flock Cameras Invading Michiganders’ Privacy In response to growing concerns from Michiganders about the spread of Flock cameras, and fears of privacy invasion, Democratic gubernatorial nominee and Secretary of State Jocelyn Benson released the below statement: Read more Sep 2 2026 PRESS RELEASE 🚨FACT CHECK, TRUE: John James Voted to Increase Michiganders’ Healthcare Costs Three Times New reporting by Bridge Michigan exposed John James’ healthcare record — confirming he’s voted at least three times to raise the healthcare costs of Michiganders.
+In January, Jocelyn declared healthcare the “ defining issue ” of the race and is still the only candidate with a real plan to lower medical bills, improve outcomes, and expand access to lifesaving care.
 While Jocelyn is laser focused on lowering costs, James has spent his time in Congress voting to rip away Michiganders’ healthcare and raise premiums on thousands.
-PRESS RELEASE
-Jocelyn Benson, Small Business Owners Discuss Sky-High Costs Because of “John James Tax”
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable discussion with small business owners and local nonprofit leaders in Flint, to discuss the challenges facing small businesses in the wake of the latest round of “John James Tax” hikes.
+Read more Sep 1 2026 PRESS RELEASE Jocelyn Benson, Small Business Owners Discuss Sky-High Costs Because of “John James Tax” Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a roundtable discussion with small business owners and local nonprofit leaders in Flint, to discuss the challenges facing small businesses in the wake of the latest round of “ John James Tax ” hikes.
 The Trump-James tariffs bring yet another man-made price hike that leaves small businesses vulnerable, unable to compete, and forced to choose between shutting their doors, laying off staff, and charging patrons more.
-PRESS RELEASE
-Jocelyn Benson: “Call These Tariffs What They Are: A John James Tax on Michigan.”
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a virtual press conference with Former Michigan Governor and U.S.
+Read more Sep 1 2026 PRESS RELEASE Jocelyn Benson: “Call These Tariffs What They Are: A John James Tax on Michigan.” Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a virtual press conference with Former Michigan Governor and U.S.
 Ambassador to Canada Jim Blanchard and UAW Region 1 Director LaShawn English, where they slammed the latest round of “John James Tax” hikes.
 While Michiganders are already struggling to get by, they are now facing unnecessary price hikes courtesy of John James and Donald Trump.
-PRESS RELEASE
-Jocelyn Benson Honors Fallen Soldier, Running in 11th Annual Remembrance 5K
-This weekend, Secretary of State and Democratic nominee for Governor Jocelyn Benson traveled to Owosso to run in the 11th annual Campaign for Shane 5K — honoring the late Army Pfc.
+Read more Sep 1 2026 PRESS RELEASE Jocelyn Benson Honors Fallen Soldier, Running in 11th Annual Remembrance 5K This weekend, Secretary of State and Democratic nominee for Governor Jocelyn Benson traveled to Owosso to run in the 11th annual Campaign for Shane 5K — honoring the late Army Pfc.
 Shane Cantu who was deployed to Afghanistan alongside her husband in 2012.
 Jocelyn has run in the 5K to honor her late friend every year since its inception.
-PRESS RELEASE
-Jocelyn Benson, Gov.
-Blanchard, UAW Leader Call Out Latest John James Tax on Michiganders
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson, Former Michigan Governor and U.S.
-Ambassador to Canada Jim Blanchard, and UAW Region 1 Director LaShawn English held a virtual press conference to call out the latest “John James tax” that is raising prices on Michiganders.
-PRESS RELEASE
-NEW AD: “Remember” Makes the Case Government Should Work for the People, Not Corporations
-Today, Jocelyn Benson’s campaign for Governor launched a new television ad, “Remember.”
-PRESS RELEASE
-IT’S OFFICIAL: Winnie Brinks Becomes Democratic Nominee for Lieutenant Governor with Resounding Support
-Today, Senate Majority Leader Winnie Brinks officially became the Democratic nominee for Lieutenant Governor of Michigan, joining Secretary of State and Democratic nominee for Governor Jocelyn Benson at the top of the ticket.
+Read more Aug 31 2026 PRESS RELEASE Jocelyn Benson, Gov.
+Blanchard, UAW Leader Call Out Latest John James Tax on Michiganders Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson, Former Michigan Governor and U.S.
+Ambassador to Canada Jim Blanchard, and UAW Region 1 Director LaShawn English held a virtual press conference to call out the latest “ John James tax ” that is raising prices on Michiganders.
+Read more Aug 31 2026 PRESS RELEASE NEW AD: “Remember” Makes the Case Government Should Work for the People, Not Corporations Today, Jocelyn Benson’s campaign for Governor launched a new television ad, “ Remember .” Read more Aug 31 2026 PRESS RELEASE IT’S OFFICIAL: Winnie Brinks Becomes Democratic Nominee for Lieutenant Governor with Resounding Support Today, Senate Majority Leader Winnie Brinks officially became the Democratic nominee for Lieutenant Governor of Michigan, joining Secretary of State and Democratic nominee for Governor Jocelyn Benson at the top of the ticket.
 Michigan Democrats from across the state rallied around her today at the party’s convention in Lansing.
-PRESS RELEASE
-Traveling the State, Benson and Brinks Remain Focused on Protecting Access to Affordable Healthcare
-This week, Secretary of State and Democratic nominee for Governor Jocelyn Benson and her running mate, Senate Majority Leader Winnie Brinks, traveled across Michigan – from Southfield to Marquette – to highlight their plan to bring quality, affordable healthcare to every zip code in the state.
-PRESS RELEASE
-Jocelyn Benson Joins Healthcare Workers, Patients in Marquette, Shares Plans to Expand Healthcare Access in Upper Peninsula
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a press conference alongside healthcare workers in Marquette at the site of the former Marquette Planned Parenthood — one of the four clinics forced to close their doors last year due to Republican-backed cuts to healthcare.
+Read more Aug 29 2026 PRESS RELEASE Traveling the State, Benson and Brinks Remain Focused on Protecting Access to Affordable Healthcare This week, Secretary of State and Democratic nominee for Governor Jocelyn Benson and her running mate, Senate Majority Leader Winnie Brinks, traveled across Michigan – from Southfield to Marquette – to highlight their plan to bring quality, affordable healthcare to every zip code in the state.
+Read more Aug 28 2026 PRESS RELEASE Jocelyn Benson Joins Healthcare Workers, Patients in Marquette, Shares Plans to Expand Healthcare Access in Upper Peninsula Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson held a press conference alongside healthcare workers in Marquette at the site of the former Marquette Planned Parenthood — one of the four clinics forced to close their doors last year due to Republican-backed cuts to healthcare.
 Jocelyn discussed her plans to expand access to affordable, quality healthcare and tackle the growing physician shortage and healthcare deserts across the Upper Peninsula.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson on Trump’s Executive Order to Rename Lake Ontario
-Following Donald Trump’s executive order renaming Lake Ontario, Democratic gubernatorial nominee and Secretary of State Jocelyn Benson released the below statement:
-PRESS RELEASE
-Jocelyn Benson and Winnie Brinks Slam “John James Tax” at Events Across Michigan
-This week, Secretary of State and Democratic nominee for Governor Jocelyn Benson and her running mate, Senate Majority Leader Winnie Brinks, slammed John James for backing Trump’s unaffordable tariffs at events across the state.
-PRESS RELEASE
-Jocelyn Benson Tours Housing Construction Site, Slams the Latest Trump-James Tax on Housing Materials
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson toured a housing construction site in Muskegon where she discussed her plans to drive down housing costs and called out the latest round of “John James Tax” hikes.
-PRESS RELEASE
-WHAT THEY’RE SAYING: Announcement of Benson-Brinks Ticket Met with Widespread Enthusiasm from Community Leaders, Nonprofits, and Labor Groups
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced her new running mate, Democratic candidate for Lieutenant Governor Winnie Brinks.
+Read more Aug 27 2026 PRESS RELEASE STATEMENT: Jocelyn Benson on Trump’s Executive Order to Rename Lake Ontario Following Donald Trump’s executive order renaming Lake Ontario, Democratic gubernatorial nominee and Secretary of State Jocelyn Benson released the below statement: Read more Aug 27 2026 PRESS RELEASE Jocelyn Benson and Winnie Brinks Slam “John James Tax” at Events Across Michigan This week, Secretary of State and Democratic nominee for Governor Jocelyn Benson and her running mate, Senate Majority Leader Winnie Brinks, slammed John James for backing Trump’s unaffordable tariffs at events across the state.
+Read more Aug 27 2026 PRESS RELEASE Jocelyn Benson Tours Housing Construction Site, Slams the Latest Trump-James Tax on Housing Materials Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson toured a housing construction site in Muskegon where she discussed her plans to drive down housing costs and called out the latest round of “ John James Tax ” hikes.
+Read more Aug 26 2026 PRESS RELEASE WHAT THEY’RE SAYING: Announcement of Benson-Brinks Ticket Met with Widespread Enthusiasm from Community Leaders, Nonprofits, and Labor Groups Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced her new running mate, Democratic candidate for Lieutenant Governor Winnie Brinks.
 The Benson-Brinks partnership was met with enthusiasm from elected officials, nonprofits, labor organizations, and other leaders across the state who pointed to Brinks’ reputation as a strong leader and an effective legislator, and recognized her as the best possible candidate for the job.
-PRESS RELEASE
-Benson and Brinks Will Work Together to Bring Down Costs for Michiganders and Win Back The Democratic Trifecta
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced her running mate, Democratic candidate for Lieutenant Governor Winnie Brinks.
-Bringing over a decade of legislative experience to the ticket, Leader Brinks was praised across the state as a “veteran lawmaker” thanks to her “sweeping” track record of delivering historic change for Michiganders.
+Read more Aug 20 2026 PRESS RELEASE Benson and Brinks Will Work Together to Bring Down Costs for Michiganders and Win Back The Democratic Trifecta Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced her running mate, Democratic candidate for Lieutenant Governor Winnie Brinks.
+Bringing over a decade of legislative experience to the ticket, Leader Brinks was praised across the state as a “ veteran lawmaker ” thanks to her “ sweeping ” track record of delivering historic change for Michiganders.
 As the first woman to represent Grand Rapids in the state Senate since 1921 and the first woman to lead the state Senate, Brinks is no stranger to delivering results for Michiganders.
-PRESS RELEASE
-WHAT THEY’RE SAYING: Benson-Brinks Ticket Celebrated as the Best Choice for Michigan
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced that Michigan Senate Majority Leader Winnie Brinks will join her on the ticket as her running mate and the Democratic nominee for Lieutenant Governor of Michigan.
-PRESS RELEASE
-Jocelyn Benson Names Senate Majority Leader Winnie Brinks as Running Mate in Campaign to Lower Costs
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced her running mate in the race for the next Governor and Lieutenant Governor of Michigan: Senate Majority Leader Winnie Brinks.
-PRESS RELEASE
-Team Benson Launches “Black Voters for Benson” Coalition, Highlights Plan to Invest in Every Community in Michigan
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson launched her “Black Voters for Benson” coalition during a rally with community and faith leaders in Detroit.
+Read more Aug 20 2026 PRESS RELEASE WHAT THEY’RE SAYING: Benson-Brinks Ticket Celebrated as the Best Choice for Michigan Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced that Michigan Senate Majority Leader Winnie Brinks will join her on the ticket as her running mate and the Democratic nominee for Lieutenant Governor of Michigan.
+Read more Aug 19 2026 PRESS RELEASE Jocelyn Benson Names Senate Majority Leader Winnie Brinks as Running Mate in Campaign to Lower Costs Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson announced her running mate in the race for the next Governor and Lieutenant Governor of Michigan: Senate Majority Leader Winnie Brinks.
+Read more Aug 19 2026 PRESS RELEASE Team Benson Launches “Black Voters for Benson” Coalition, Highlights Plan to Invest in Every Community in Michigan Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson launched her “Black Voters for Benson” coalition during a rally with community and faith leaders in Detroit.
 The launch marks the latest expansion of Jocelyn’s massive grassroots coalition, which turned out in record-breaking numbers in the August primary.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson on Jake Lang’s Demonstration In Dearborn
-Ahead of far-right White nationalist and anti-Muslim activist Jake Lang’s demonstration planned for the Dearborn City Council meeting today, gubernatorial nominee and Secretary of State Jocelyn Benson released the below statement:
-PRESS RELEASE
-Jocelyn Benson Joins Gabby Giffords and Christina Hines for Community Conversation on Public Safety in Macomb County
-Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined former U.S.
+Read more Aug 18 2026 PRESS RELEASE STATEMENT: Jocelyn Benson on Jake Lang’s Demonstration In Dearborn Ahead of far-right White nationalist and anti-Muslim activist Jake Lang’s demonstration planned for the Dearborn City Council meeting today, gubernatorial nominee and Secretary of State Jocelyn Benson released the below statement: Read more Aug 18 2026 PRESS RELEASE Jocelyn Benson Joins Gabby Giffords and Christina Hines for Community Conversation on Public Safety in Macomb County Today, Secretary of State and Democratic nominee for Governor Jocelyn Benson joined former U.S.
 Representative Gabby Giffords and Democratic nominee for Michigan’s 10th Congressional District Christina Hines in Clinton Township for a community conversation on safety and affordability.
-PRESS RELEASE
-Jocelyn Benson Introduces Plan to Boost Tourism Economy at Michigan’s Adventure
-Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson was joined by State Representative Will Snyder (HD-87) for a tour of Michigan’s Adventure, one of the only amusement parks in Michigan.
+Read more Aug 15 2026 PRESS RELEASE Jocelyn Benson Introduces Plan to Boost Tourism Economy at Michigan’s Adventure Yesterday, Secretary of State and Democratic nominee for Governor Jocelyn Benson was joined by State Representative Will Snyder (HD-87) for a tour of Michigan’s Adventure, one of the only amusement parks in Michigan.
 Together, they discussed a plan to grow Michigan’s tourism economy, highlighting the role of tourist attractions like Michigan’s Adventure in generating revenue, growing local economies, creating well-paying jobs, and making Michigan a leader in the Midwest for tourism.
-PRESS RELEASE
-FIRST TV AD: Benson Campaign Up On Airwaves with New Ad “That’s Me”
-Today, Jocelyn Benson’s campaign for Governor launched its first television ad of the general election, “That’s Me,” as part of a $10 million broadcast, cable, and streaming reservation.
-PRESS RELEASE
-Jocelyn Benson Tours Michigan’s Adventure, Shares Her Plans to Grow Tourism Economy
-Today, Secretary of State and Democratic Nominee for Governor Jocelyn Benson toured Michigan’s Adventure, an amusement park in Muskegon.
+Read more Aug 14 2026 PRESS RELEASE FIRST TV AD: Benson Campaign Up On Airwaves with New Ad “That’s Me” Today, Jocelyn Benson’s campaign for Governor launched its first television ad of the general election, “ That’s Me ,” as part of a $10 million broadcast, cable, and streaming reservation.
+Read more Aug 14 2026 PRESS RELEASE Jocelyn Benson Tours Michigan’s Adventure, Shares Her Plans to Grow Tourism Economy Today, Secretary of State and Democratic Nominee for Governor Jocelyn Benson toured Michigan’s Adventure, an amusement park in Muskegon.
 During the visit, she highlighted how, as governor, she’ll grow Michigan’s tourism economy – from amusement parks to the Great Lakes – to boost local economies and create more well-paying jobs across the state.
-PRESS RELEASE
-Jocelyn Benson Tours TechTown, Shares Plans to Invest in Small Businesses as Part of her Economic Development Plan
-Yesterday, Secretary of State and Democratic Nominee for Governor Jocelyn Benson toured the TechTown facility in Detroit, a start-up incubator and accelerator that serves small businesses and entrepreneurs.
+Read more Aug 13 2026 PRESS RELEASE Jocelyn Benson Tours TechTown, Shares Plans to Invest in Small Businesses as Part of her Economic Development Plan Yesterday, Secretary of State and Democratic Nominee for Governor Jocelyn Benson toured the TechTown facility in Detroit, a start-up incubator and accelerator that serves small businesses and entrepreneurs.
 During the tour she spoke with leaders in the science, technology, and foodservice industries, shared her plans to turn Michigan into the small business capital of the nation, and discussed the best ways the next governor can be a partner to programs like TechTown.
-PRESS RELEASE
-Jocelyn Benson Dominates First Days of General Election
-On Wednesday, Secretary of State and Democratic Nominee for Governor Jocelyn Benson kicked-off the general election with events in Detroit and Lansing, where she earned the endorsements of Democratic Governors Association (DGA) Chair and Kentucky Governor Andy Beshear and DGA Vice Chair Governor Gretchen Whitmer.
+Read more Aug 13 2026 PRESS RELEASE Jocelyn Benson Dominates First Days of General Election On Wednesday, Secretary of State and Democratic Nominee for Governor Jocelyn Benson kicked-off the general election with events in Detroit and Lansing, where she earned the endorsements of Democratic Governors Association (DGA) Chair and Kentucky Governor Andy Beshear and DGA Vice Chair Governor Gretchen Whitmer.
 Together, they discussed Jocelyn’s plan to make Michigan more affordable and outlined the stakes of the election: who will the next governor work for?
 The people?
 Or Donald Trump?
-PRESS RELEASE
-WATCH: Jocelyn Benson Lays Out Michigan Democrats’ Agenda: Lower Costs, Higher Wages, & Protecting Michiganders’ Rights
-Last night, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined MS Now’s The 11th Hour with Ali Velshi to discuss the Democratic tickets’ shared goal: making life more affordable for Michiganders and serving as guardrails against the cruelty and chaos happening at the federal level.
+Read more Aug 7 2026 PRESS RELEASE WATCH: Jocelyn Benson Lays Out Michigan Democrats’ Agenda: Lower Costs, Higher Wages, & Protecting Michiganders’ Rights Last night, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined MS Now’s The 11th Hour with Ali Velshi to discuss the Democratic tickets’ shared goal: making life more affordable for Michiganders and serving as guardrails against the cruelty and chaos happening at the federal level.
 For the last 18 months, Jocelyn has traveled the state sharing her comprehensive plans to bring down costs, grow the economy, and, along with the rest of the Democratic ticket, ensure government is working for the people – not corporations or Donald Trump.
-PRESS RELEASE
-Jocelyn Benson Agrees to Two Televised General Election Debates
-Today, on the heels of her landslide primary victory, Secretary of State and gubernatorial nominee Jocelyn Benson announced that she will participate in two televised debates in Detroit and Grand Rapids in October.
-PRESS RELEASE
-WATCH: Michigan Voters Love Jocelyn’s Record as Secretary of State, Turn Out In Record Numbers in Governor’s Race
-Last night, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined MS Now’s The Last Word With Lawrence O'Donnell to discuss her record-breaking win in Tuesday’s primary – earning more votes than any primary election candidate in Michigan history.
+Read more Aug 7 2026 PRESS RELEASE Jocelyn Benson Agrees to Two Televised General Election Debates Today, on the heels of her landslide primary victory, Secretary of State and gubernatorial nominee Jocelyn Benson announced that she will participate in two televised debates in Detroit and Grand Rapids in October.
+Read more Aug 6 2026 PRESS RELEASE WATCH: Michigan Voters Love Jocelyn’s Record as Secretary of State, Turn Out In Record Numbers in Governor’s Race Last night, Secretary of State and Democratic Nominee for Governor Jocelyn Benson joined MS Now’s The Last Word With Lawrence O'Donnell to discuss her record-breaking win in Tuesday’s primary – earning more votes than any primary election candidate in Michigan history.
 With over 1.2 million votes, her landslide win made clear that Michigan voters love her successful record as Secretary of State – where she transformed the state’s most important agency, saved people time and money, and protected Michiganders’ rights – and trust her to be the next governor.
-PRESS RELEASE
-WHAT THEY’RE SAYING: Jocelyn Benson Enters General Election Ready to Win After “Landslide” Victory
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson won the Democratic Nomination to be the next Governor of Michigan in a landslide victory – securing 84% of the vote, and receiving the most votes of any candidate in a statewide primary in Michigan history.
-PRESS RELEASE
-Governor Gretchen Whitmer Endorses Jocelyn Benson for Governor
-Today, Governor Gretchen Whitmer endorsed Secretary of State and Democratic Nominee Jocelyn Benson to be the next Governor of Michigan where they rallied in Lansing to kick off the general election.
+Read more Aug 6 2026 PRESS RELEASE WHAT THEY’RE SAYING: Jocelyn Benson Enters General Election Ready to Win After “Landslide” Victory Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson won the Democratic Nomination to be the next Governor of Michigan in a landslide victory – securing 84% of the vote, and receiving the most votes of any candidate in a statewide primary in Michigan history.
+Read more Aug 5 2026 PRESS RELEASE Governor Gretchen Whitmer Endorses Jocelyn Benson for Governor Today, Governor Gretchen Whitmer endorsed Secretary of State and Democratic Nominee Jocelyn Benson to be the next Governor of Michigan where they rallied in Lansing to kick off the general election.
 Gov.
 Whitmer pointed to Benson’s record as Secretary of State – where she transformed the state’s largest agency to save people time and money – and her comprehensive plan to make Michigan the best place in the nation to live, work, and build a family to highlight why she will be an excellent governor.
-PRESS RELEASE
-Jocelyn Benson Hosts Roundtable Discussion, Rallies with Democrats alongside Kentucky Governor Andy Beshear
-Today, on the first day of the general election, Secretary of State and Democratic Nominee for Governor Jocelyn Benson was joined by Democratic Governors Association (DGA) Chair and Kentucky Governor Andy Beshear for events across Metro Detroit.
+Read more Aug 5 2026 PRESS RELEASE Jocelyn Benson Hosts Roundtable Discussion, Rallies with Democrats alongside Kentucky Governor Andy Beshear Today, on the first day of the general election, Secretary of State and Democratic Nominee for Governor Jocelyn Benson was joined by Democratic Governors Association (DGA) Chair and Kentucky Governor Andy Beshear for events across Metro Detroit.
 As Democrats across the state rally behind Jocelyn’s candidacy, Governor Beshear is the latest national leader to endorse Team Benson and join her broad coalition of Michigan leaders, labor organizations, and advocacy groups that are ready to send Jocelyn to the governor’s seat.
-PRESS RELEASE
-TRANSCRIPT: Jocelyn Benson Delivers Victory Speech After Winning Democratic Nomination for Michigan Governor
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson delivered her victory speech after officially becoming the Democratic Nominee to be the next Governor of Michigan.
+Read more Aug 5 2026 PRESS RELEASE TRANSCRIPT: Jocelyn Benson Delivers Victory Speech After Winning Democratic Nomination for Michigan Governor Today, Secretary of State and gubernatorial candidate Jocelyn Benson delivered her victory speech after officially becoming the Democratic Nominee to be the next Governor of Michigan.
 In her speech, Jocelyn outlined her plan to build a more affordable Michigan and laid out the stakes of the general elections: who do Michiganders want their next governor working for?
 The people, or the highest bidder.
-PRESS RELEASE
-Benson Campaign Reserves $10 Million in Ad Time for General Election
-Today, Jocelyn Benson’s campaign for governor announced it has reserved $10 million in air time starting in September – an eight-figure statewide investment that will carry Benson’s message of lowering costs, raising wages, and fighting corruption through the fall.
+Read more Aug 4 2026 PRESS RELEASE Benson Campaign Reserves $10 Million in Ad Time for General Election Today, Jocelyn Benson’s campaign for governor announced it has reserved $10 million in air time starting in September – an eight-figure statewide investment that will carry Benson’s message of lowering costs, raising wages, and fighting corruption through the fall.
 The reservation underscores Benson’s commanding position ahead of tomorrow’s primary and solidifies her strong position in the general.
-PRESS RELEASE
-Jocelyn Benson Stumps for Battleground State Legislature Candidates in Metro Detroit for “Road to Trifecta” Tour
-On Day Three of her “Road to Trifecta” tour, gubernatorial candidate Jocelyn Benson attended events across Metro Detroit with Sarah Pounds, Lisa McIntyre, and Alex Hawkins – battleground candidates for Michigan’s Legislature.
-PRESS RELEASE
-American Federation of Teachers Michigan Endorses Jocelyn Benson for Governor
-Today, the American Federation of Teachers (AFT) Michigan, representing 35,000 Michiganders, endorsed Jocelyn Benson for governor.
+Read more Aug 3 2026 PRESS RELEASE Jocelyn Benson Stumps for Battleground State Legislature Candidates in Metro Detroit for “Road to Trifecta” Tour On Day Three of her “Road to Trifecta” tour, gubernatorial candidate Jocelyn Benson attended events across Metro Detroit with Sarah Pounds, Lisa McIntyre, and Alex Hawkins – battleground candidates for Michigan’s Legislature.
+Read more Jul 30 2026 PRESS RELEASE American Federation of Teachers Michigan Endorses Jocelyn Benson for Governor Today, the American Federation of Teachers (AFT) Michigan, representing 35,000 Michiganders, endorsed Jocelyn Benson for governor.
 A former educator and the daughter of special education teachers, Benson is running on a plan to make Michigan’s public schools the best in the nation.
-PRESS RELEASE
-NEW: Wayne County Executive Warren Evans and Oakland County Executive David Coulter Endorse Jocelyn Benson for Governor
-Today, Wayne County Executive Warren Evans and Oakland County Executive David Coulter endorsed Jocelyn Benson to be the next governor of Michigan.
+Read more Jul 29 2026 PRESS RELEASE NEW: Wayne County Executive Warren Evans and Oakland County Executive David Coulter Endorse Jocelyn Benson for Governor Today, Wayne County Executive Warren Evans and Oakland County Executive David Coulter endorsed Jocelyn Benson to be the next governor of Michigan.
 Evans and Coulter join a broad coalition of mayors, city leaders, and labor organizations who recognize Benson’s track record of delivering for Michiganders and her laser focus on bringing costs down, wages up, and making government work for the people.
-PRESS RELEASE
-Jocelyn Benson Kicks Off “Road to Trifecta” Tour in West Michigan
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson kicked off her “Road to Trifecta” tour with events across West Michigan featuring Rebecca Amidon and Joseph McClusky, two battleground candidates for Michigan’s State Legislature.
-PRESS RELEASE
-Jocelyn Benson Kicks Off “Road to Trifecta” Tour
-Today, Jocelyn Benson is launching her “Road to Trifecta” tour, campaigning alongside candidates in battleground state legislative districts across Michigan.
+Read more Jul 28 2026 PRESS RELEASE Jocelyn Benson Kicks Off “Road to Trifecta” Tour in West Michigan Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson kicked off her “Road to Trifecta” tour with events across West Michigan featuring Rebecca Amidon and Joseph McClusky, two battleground candidates for Michigan’s State Legislature.
+Read more Jul 28 2026 PRESS RELEASE Jocelyn Benson Kicks Off “Road to Trifecta” Tour Today, Jocelyn Benson is launching her “Road to Trifecta” tour, campaigning alongside candidates in battleground state legislative districts across Michigan.
 The tour builds on Benson’s “Costs Down, Wages Up” tour, where she met with voters to share her plans to lower costs, raise wages, and make Michigan the best place to call home.
-PRESS RELEASE
-Jocelyn Hosts Barbershop Roundtable, Shares Plans to Invest in Saginaw
-Last week, Secretary of State and gubernatorial candidate Jocelyn Benson joined elected leaders, fathers, and community advocates at Courtside Cuts, a Black-owned barbershop in Saginaw, for a discussion about affordability, economic prosperity for the Black community, and other challenges Michiganders are facing.
-PRESS RELEASE
-Jocelyn Benson Announces Record-Breaking $10.8 Million Raised Since Campaign Launch
+Read more Jul 27 2026 PRESS RELEASE Jocelyn Hosts Barbershop Roundtable, Shares Plans to Invest in Saginaw Last week, Secretary of State and gubernatorial candidate Jocelyn Benson joined elected leaders, fathers, and community advocates at Courtside Cuts, a Black-owned barbershop in Saginaw, for a discussion about affordability, economic prosperity for the Black community, and other challenges Michiganders are facing.
+Read more Jul 27 2026 PRESS RELEASE Jocelyn Benson Announces Record-Breaking $# Million Raised Since Campaign Launch Today, Secretary of State and gubernatorial candidate Jocelyn Benson announced her campaign has raised $10.8 million since she launched – almost $4 million more than any other non-incumbent Democratic candidate for governor in Michigan history at this point in the cycle.
 Since the last fundraising deadline, the campaign has brought in nearly $5 million, including $3.2 million in the 58 days since the Independent candidate dropped out of the race, and has $6.4 million cash on hand.
-PRESS RELEASE
-ON THE AIRWAVES: Benson Emphasizes Affordability Agenda Ahead of August Primary
-This week, Secretary of State and gubernatorial candidate Jocelyn Benson took her affordability agenda across the state, from Traverse City to Detroit, to discuss her plans to make healthcare, energy costs, and housing more affordable as the next governor.
+Read more Jul 24 2026 PRESS RELEASE ON THE AIRWAVES: Benson Emphasizes Affordability Agenda Ahead of August Primary This week, Secretary of State and gubernatorial candidate Jocelyn Benson took her affordability agenda across the state, from Traverse City to Detroit, to discuss her plans to make healthcare, energy costs, and housing more affordable as the next governor.
 For months, Benson has laid out comprehensive plans to bring down costs – from healthcare, to housing, to energy – and make Michigan the best place in the country to live, work, and raise a family.
-PRESS RELEASE
-Jocelyn Joins Barbershop Roundtable in Saginaw, Shares Plan to Invest in Communities Across the State and Lower Costs
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined State Representative Amos O’Neal, Saginaw Mayor Brenda Moore, and local Michiganders for a discussion about affordability, economic prosperity for the Black community, and education at Courtside Cuts, a black-owned barbershop in Saginaw.
+Read more Jul 23 2026 PRESS RELEASE Jocelyn Joins Barbershop Roundtable in Saginaw, Shares Plan to Invest in Communities Across the State and Lower Costs Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined State Representative Amos O’Neal, Saginaw Mayor Brenda Moore, and local Michiganders for a discussion about affordability, economic prosperity for the Black community, and education at Courtside Cuts, a black-owned barbershop in Saginaw.
 Jocelyn spoke with fathers and community advocates about what keeps them up at night and how the next governor can best invest in their communities.
-PRESS RELEASE
-LISTEN: Jocelyn Benson Calls Out GOP Lies, Lays Out Plan to Make Life More Affordable for Michiganders
-This weekend, Secretary of State and gubernatorial candidate Jocelyn Benson joined The Back Room with Andy Ostroy to share her plans to lower costs, raise wages, and protect Michiganders’ rights and freedoms.
+Read more Jul 22 2026 PRESS RELEASE LISTEN: Jocelyn Benson Calls Out GOP Lies, Lays Out Plan to Make Life More Affordable for Michiganders This weekend, Secretary of State and gubernatorial candidate Jocelyn Benson joined The Back Room with Andy Ostroy to share her plans to lower costs, raise wages, and protect Michiganders’ rights and freedoms.
 While Donald Trump and the Michigan GOP are wasting Michiganders’ time relitigating debunked conspiracy theories from six years ago, Jocelyn was clear: the job of the next governor is tackling Michigan’s affordability crisis.
-PRESS RELEASE
-WATCH: Dearborn Mayor Abdullah Hammoud Endorses Jocelyn Benson for Governor
-Today, Dearborn Mayor Abdullah Hammoud endorsed Jocelyn Benson to be the next Governor of Michigan.
+Read more Jul 20 2026 PRESS RELEASE WATCH: Dearborn Mayor Abdullah Hammoud Endorses Jocelyn Benson for Governor Today, Dearborn Mayor Abdullah Hammoud endorsed Jocelyn Benson to be the next Governor of Michigan.
 Hammoud joins a broad coalition of mayors, city leaders, and labor organizations who recognize Benson’s track record of delivering for Michiganders and her laser focus on bringing costs down, wages up, and making government work for the people who need it.
-PRESS RELEASE
-Michigan Professional Fire Fighters Union Endorses Jocelyn Benson for Governor
-Today, the Michigan Professional Fire Fighters Union endorsed Jocelyn Benson as the next Governor of Michigan.
+Read more Jul 17 2026 PRESS RELEASE Michigan Professional Fire Fighters Union Endorses Jocelyn Benson for Governor Today, the Michigan Professional Fire Fighters Union endorsed Jocelyn Benson as the next Governor of Michigan.
 The union praised Jocelyn’s commitment to making life more affordable for Michiganders so they can continue living, working, and raising their families in the communities they serve.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson Responds to Vetoed Bills Package
-Following the decision today to veto the nine Republican-stalled bills in the state legislature, gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement:
-PRESS RELEASE
-ICYMI: Benson Makes Affordability Agenda Her North Star on “Costs Down, Wages Up” Tour
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson wrapped up her week-long “Costs Down, Wages Up” statewide tour.
+Read more Jul 16 2026 PRESS RELEASE STATEMENT: Jocelyn Benson Responds to Vetoed Bills Package Following the decision today to veto the nine Republican-stalled bills in the state legislature, gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement: Read more Jul 10 2026 PRESS RELEASE ICYMI: Benson Makes Affordability Agenda Her North Star on “Costs Down, Wages Up” Tour Today, Secretary of State and gubernatorial candidate Jocelyn Benson wrapped up her week-long “Costs Down, Wages Up” statewide tour.
 Jocelyn heard from small business owners, farmers, local leaders, and Michiganders across the state about how rising costs are impacting their lives.
 At every stop, she shared her affordability agenda to put more money in Michiganders’ pockets, and drew a clear contrast: the choice between a governor who fights to lower costs, or Republicans who have put politics over Michigan families.
-PRESS RELEASE
-Benson Shares Plans to Lower Costs, Raise Wages with Voters in Traverse City, Petoskey, and Cheboygan
-Yesterday, on Day 7 of her statewide “Costs Down, Wages Up” tour, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to make life more affordable at events across northern Michigan.
-PRESS RELEASE
-WATCH: Jocelyn Benson Confirms Michigan Elections are Transparent and Secure, Slams Trump Administration Interference
-Yesterday, following the news that the Department of Justice will send election monitors to Michigan in 2026, Jocelyn Benson joined MS NOW to discuss how she is standing up to the Trump administration to prevent interference and intimidation at the polls.
+Read more Jul 8 2026 PRESS RELEASE Benson Shares Plans to Lower Costs, Raise Wages with Voters in Traverse City, Petoskey, and Cheboygan Yesterday, on Day 7 of her statewide “Costs Down, Wages Up” tour, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to make life more affordable at events across northern Michigan.
+Read more Jul 8 2026 PRESS RELEASE WATCH: Jocelyn Benson Confirms Michigan Elections are Transparent and Secure, Slams Trump Administration Interference Yesterday, following the news that the Department of Justice will send election monitors to Michigan in 2026, Jocelyn Benson joined MS NOW to discuss how she is standing up to the Trump administration to prevent interference and intimidation at the polls.
 Jocelyn also highlighted her commitment to lowering costs and raising wages in Michigan while one of her potential opponents, John James, tries to distract from his record of raising healthcare costs.
-PRESS RELEASE
-Pete Buttigieg Endorses Jocelyn Benson for Governor in Traverse City
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson announced the endorsement of former U.S.
+Read more Jul 7 2026 PRESS RELEASE Pete Buttigieg Endorses Jocelyn Benson for Governor in Traverse City Today, Secretary of State and gubernatorial candidate Jocelyn Benson announced the endorsement of former U.S.
 Secretary of Transportation Pete Buttigieg, who is joining her in Traverse City for a "Pints and Politics" conversation focused on lowering costs for Michigan families, defending democracy, and building an economy where everyone has the opportunity to succeed.
-PRESS RELEASE
-Benson Rolls Out Environmental Plan in Grand Rapids, Earns Michigan LCV Endorsement
-Today, on Day 6 of her statewide “Costs Down, Wages Up” tour, Secretary of State and gubernatorial candidate Jocelyn Benson gained the endorsement of the Michigan League of Conservation Voters (LCV) and unveiled her environmental plan alongside local leaders, elected officials, and Michiganders.
+Read more Jul 6 2026 PRESS RELEASE Benson Rolls Out Environmental Plan in Grand Rapids, Earns Michigan LCV Endorsement Today, on Day 6 of her statewide “Costs Down, Wages Up” tour, Secretary of State and gubernatorial candidate Jocelyn Benson gained the endorsement of the Michigan League of Conservation Voters (LCV) and unveiled her environmental plan alongside local leaders, elected officials, and Michiganders.
 Jocelyn is fighting for a future where Michigan’s Great Lakes are protected from pollution and aging infrastructure, clean energy creates good-paying union jobs without raising costs, and communities are safeguarded from environmental harm.
-PRESS RELEASE
-Benson Celebrates Fourth of July Alongside Michiganders Across Detroit
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson celebrated the Fourth of July alongside Michiganders at parades across South East Michigan.
-PRESS RELEASE
-Benson Meets with Veterans, Holds Small Business Roundtable, Tours Local Farms Across Mid-Michigan
-Yesterday, on Day 3 of her statewide “Costs Down, Wages Up” tour Secretary of State and gubernatorial candidate Jocelyn Benson met with veterans, held a small business roundtable, and toured local farms.
-PRESS RELEASE
-Benson Shares Plans to Lower Costs, Raise Wages in Bay City
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to lower costs and raise wages in Bay City during her statewide “Costs Down, Wages Up” tour.
-PRESS RELEASE
-Benson Kicks Off “Costs Down, Wages Up” Statewide Tour in Detroit Alongside Michiganders
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson kicked off her “Costs Down, Wages Up” statewide tour with events across the Detroit metro area.
+Read more Jul 6 2026 PRESS RELEASE Benson Celebrates Fourth of July Alongside Michiganders Across Detroit Today, Secretary of State and gubernatorial candidate Jocelyn Benson celebrated the Fourth of July alongside Michiganders at parades across South East Michigan.
+Read more Jul 4 2026 PRESS RELEASE Benson Meets with Veterans, Holds Small Business Roundtable, Tours Local Farms Across Mid-Michigan Yesterday, on Day 3 of her statewide “Costs Down, Wages Up” tour Secretary of State and gubernatorial candidate Jocelyn Benson met with veterans, held a small business roundtable, and toured local farms.
+Read more Jul 4 2026 PRESS RELEASE Benson Shares Plans to Lower Costs, Raise Wages in Bay City Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to lower costs and raise wages in Bay City during her statewide “Costs Down, Wages Up” tour.
+Read more Jul 3 2026 PRESS RELEASE Benson Kicks Off “Costs Down, Wages Up” Statewide Tour in Detroit Alongside Michiganders Today, Secretary of State and gubernatorial candidate Jocelyn Benson kicked off her “Costs Down, Wages Up” statewide tour with events across the Detroit metro area.
 Benson is campaigning to lower costs, raise wages and build a Michigan where everyone can thrive.
-PRESS RELEASE
-Maryland Governor Wes Moore Highlights Jocelyn Benson’s Fight for Small Businesses, Affordability Vision
-Yesterday in Detroit, Maryland Governor Wes Moore joined small business owners and city leaders for a roundtable discussion about Jocelyn Benson’s gubernatorial campaign to lower costs and raise wages for Michiganders.
+Read more Jul 1 2026 PRESS RELEASE Maryland Governor Wes Moore Highlights Jocelyn Benson’s Fight for Small Businesses, Affordability Vision Yesterday in Detroit, Maryland Governor Wes Moore joined small business owners and city leaders for a roundtable discussion about Jocelyn Benson’s gubernatorial campaign to lower costs and raise wages for Michiganders.
 Governor Moore made the case for Jocelyn’s vision: a future where life is more affordable for all Michiganders, government works for the people, and everyone has the opportunity to get ahead and thrive.
-PRESS RELEASE
-Jocelyn Benson Launches “Costs Down, Wages Up” Statewide Tour
-Today, gubernatorial candidate Jocelyn Benson is announcing her statewide “Costs Down, Wages Up” tour, which will kick off on July 1st.
+Read more Jun 30 2026 PRESS RELEASE Jocelyn Benson Launches “Costs Down, Wages Up” Statewide Tour Today, gubernatorial candidate Jocelyn Benson is announcing her statewide “Costs Down, Wages Up” tour, which will kick off on July 1st.
 Joined by elected officials, Michiganders, and special guests, Jocelyn will speak with voters across the state, sharing her plan to lower costs, raise wages, and protect their rights and freedoms as governor, and reminding every voter that they have a place on Team Benson.
-PRESS RELEASE
-LISTEN: Jocelyn Benson Outlines the Stakes of the 2026 Election as Ballots Go Out in Michigan
-As absentee ballots go out in Michigan, Jocelyn Benson joined The Electorette to discuss the major challenges facing Michiganders — ranging from sky high costs to threats to their rights and freedoms.
+Read more Jun 29 2026 PRESS RELEASE LISTEN: Jocelyn Benson Outlines the Stakes of the 2026 Election as Ballots Go Out in Michigan As absentee ballots go out in Michigan, Jocelyn Benson joined The Electorette to discuss the major challenges facing Michiganders — ranging from sky high costs to threats to their rights and freedoms.
 Jocelyn shared how she has fought to protect voters as Secretary of State, and how she will continue that work as Governor during this critical moment for democracy.
-PRESS RELEASE
-Michigan AFL-CIO, Representing 40+ Unions in Michigan, Endorses Jocelyn Benson for Governor
-Today, the Michigan American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) Michigan endorsed Jocelyn Benson as the next Governor of Michigan.
+Read more Jun 26 2026 PRESS RELEASE Michigan AFL-CIO, Representing 40+ Unions in Michigan, Endorses Jocelyn Benson for Governor Today, the Michigan American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) Michigan endorsed Jocelyn Benson as the next Governor of Michigan.
 The state federation of labor represents over 1,000,000 active and retired members of 40+ unions throughout the state.
-PRESS RELEASE
-Jocelyn Benson on Anniversary of the Overturn of Roe v.
-Wade: “Rights are Only as Strong as the Leaders Responsible for Upholding Them”
-In an op-ed in the Detroit News, Secretary of State and gubernatorial candidate Jocelyn Benson and Reproductive Freedom for All Director of Michigan Campaigns Shanay Watson-Whittaker marked the fourth anniversary of the U.S.
+Read more Jun 25 2026 PRESS RELEASE Jocelyn Benson on Anniversary of the Overturn of Roe v.
+Wade: “Rights are Only as Strong as the Leaders Responsible for Upholding Them” In an op-ed in the Detroit News , Secretary of State and gubernatorial candidate Jocelyn Benson and Reproductive Freedom for All Director of Michigan Campaigns Shanay Watson-Whittaker marked the fourth anniversary of the U.S.
 Supreme Court’s overturning of Roe v.
 Wade in the Dobbs v.
 Jackson Women's Health Organization decision by reaffirming their commitment to protecting the reproductive freedoms of all Michiganders.
-PRESS RELEASE
-Emgage Action Endorses Jocelyn Benson for Governor
-Today, Emgage Action endorsed Jocelyn Benson as the next Governor of Michigan.
+Read more Jun 24 2026 PRESS RELEASE Emgage Action Endorses Jocelyn Benson for Governor Today, Emgage Action endorsed Jocelyn Benson as the next Governor of Michigan.
 Emgage, one of the largest Muslim American civic organizations in the country, praised Jocelyn’s track record of protecting Michiganders’ rights in their endorsement.
-PRESS RELEASE
-In Grand Rapids, Benson Launches “Seniors for Benson” Coalition in Her Fight for a More Affordable Michigan
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson launched the “Seniors for Benson” Coalition during a roundtable with Michigan seniors and elected leaders in Grand Rapids.
+Read more Jun 23 2026 PRESS RELEASE In Grand Rapids, Benson Launches “Seniors for Benson” Coalition in Her Fight for a More Affordable Michigan Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson launched the “Seniors for Benson” Coalition during a roundtable with Michigan seniors and elected leaders in Grand Rapids.
 Benson is campaigning to lower costs, and make Michigan the best place to build a life, retire, and call home.
-PRESS RELEASE
-STATEMENT: Benson Campaign Statement on Trump Endorsing John James
-Benson for Governor Campaign Manager Nikki Goldschein released the following statement:
-PRESS RELEASE
-SEIU Endorses Jocelyn Benson for Governor
-Today, the Service Employees International Union (SEIU) Michigan endorsed Jocelyn Benson as the next Governor of Michigan.
+Read more Jun 23 2026 PRESS RELEASE STATEMENT: Benson Campaign Statement on Trump Endorsing John James Benson for Governor Campaign Manager Nikki Goldschein released the following statement: Read more Jun 22 2026 PRESS RELEASE SEIU Endorses Jocelyn Benson for Governor Today, the Service Employees International Union (SEIU) Michigan endorsed Jocelyn Benson as the next Governor of Michigan.
 The union is one of the largest in the state, representing over 66,000 Michigan healthcare workers, janitors, security officers, and other essential service workers across healthcare and key sectors of the economy.
-PRESS RELEASE
-Benson Spends Juneteenth Meeting with Voters, Sharing Vision of Economic Empowerment for All Michiganders
-Today on Juneteenth, Secretary of State and gubernatorial candidate Jocelyn Benson connected with Michiganders at Juneteenth celebrations in Highland Park, Detroit, and Oak Park, sharing her plans to lower costs, raise wages, and protect the rights and freedoms of all Michiganders.
-PRESS RELEASE
-Jocelyn Benson on Juneteenth: “Every Michigander Deserves to Build Wealth, Raise a Family, and See Themselves in the Future of this State”
-In a new op-ed in the Michigan Chronicle, Jocelyn Benson marks Juneteenth by outlining how she will work to deliver on the promise of the civil rights movement as governor.
+Read more Jun 22 2026 PRESS RELEASE Benson Spends Juneteenth Meeting with Voters, Sharing Vision of Economic Empowerment for All Michiganders Today on Juneteenth, Secretary of State and gubernatorial candidate Jocelyn Benson connected with Michiganders at Juneteenth celebrations in Highland Park, Detroit, and Oak Park, sharing her plans to lower costs, raise wages, and protect the rights and freedoms of all Michiganders.
+Read more Jun 19 2026 PRESS RELEASE Jocelyn Benson on Juneteenth: “Every Michigander Deserves to Build Wealth, Raise a Family, and See Themselves in the Future of this State” In a new op-ed in the Michigan Chronicle , Jocelyn Benson marks Juneteenth by outlining how she will work to deliver on the promise of the civil rights movement as governor.
 She believes economic opportunity is key for all Michiganders’ ability to thrive.
 That’s why she’s developed a real plan to lower costs, raise wages, and invest in every community across our state—creating more opportunities to build wealth and build a future in our state.
-PRESS RELEASE
-Jocelyn Benson Commits to Being a Governor for Working Michiganders at UAW
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson rallied a crowd of hundreds of UAW members in Detroit to share her plans to lower costs, and to fight for working Michiganders as governor.
+Read more Jun 19 2026 PRESS RELEASE Jocelyn Benson Commits to Being a Governor for Working Michiganders at UAW Today, Secretary of State and gubernatorial candidate Jocelyn Benson rallied a crowd of hundreds of UAW members in Detroit to share her plans to lower costs, and to fight for working Michiganders as governor.
 Earlier this month, the UAW endorsed Jocelyn for governor because of her commitment to stand with Michigan workers against corporate interests and billionaires.
-PRESS RELEASE
-Benson Earns Key Endorsement from Detroit Mayor Mary Sheffield
-This week, Detroit Mayor Mary Sheffield endorsed Jocelyn Benson to be the next governor of Michigan.
-Sheffield named Benson a “true partner” to the city of Detroit.
-PRESS RELEASE
-Detroit Mayor Mary Sheffield Endorses Jocelyn Benson for Governor
-Today, Detroit Mayor Mary Sheffield endorsed Jocelyn Benson to be the next governor of Michigan.
+Read more Jun 18 2026 PRESS RELEASE Benson Earns Key Endorsement from Detroit Mayor Mary Sheffield This week, Detroit Mayor Mary Sheffield endorsed Jocelyn Benson to be the next governor of Michigan.
+Sheffield named Benson a “ true partner ” to the city of Detroit.
+Read more Jun 16 2026 PRESS RELEASE Detroit Mayor Mary Sheffield Endorses Jocelyn Benson for Governor Today, Detroit Mayor Mary Sheffield endorsed Jocelyn Benson to be the next governor of Michigan.
 Mayor Sheffield was joined by Jocelyn in Detroit this afternoon to make the announcement.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson Applauds UAW Local 2093 Tentative Agreement
-After UAW Local 2093 announced a tentative agreement to end the strike at the American Axle facility in Three Rivers, gubernatorial candidate and Secretary of State Jocelyn Benson released the following statement:
-PRESS RELEASE
-Jocelyn Benson Meets with Detroit Faith Leaders, Secures Key Endorsement from Judge Greg Mathis
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson met with faith leaders in Detroit to share her plans to make life more affordable in Michigan, and how she’ll fight for the rights of all Michiganders as governor.
+Read more Jun 15 2026 PRESS RELEASE STATEMENT: Jocelyn Benson Applauds UAW Local 2093 Tentative Agreement After UAW Local 2093 announced a tentative agreement to end the strike at the American Axle facility in Three Rivers, gubernatorial candidate and Secretary of State Jocelyn Benson released the following statement: Read more Jun 10 2026 PRESS RELEASE Jocelyn Benson Meets with Detroit Faith Leaders, Secures Key Endorsement from Judge Greg Mathis Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson met with faith leaders in Detroit to share her plans to make life more affordable in Michigan, and how she’ll fight for the rights of all Michiganders as governor.
 During the event, Judge Greg Mathis endorsed Jocelyn for governor —the latest addition to a growing list of Detroit area leaders, labor organizations, and faith groups supporting Benson’s campaign to lower costs, raise wages, and protect the rights of all Michiganders.
-PRESS RELEASE
-Jocelyn Benson Meets with Detroit Seniors, Outlines Plan to Make Life More Affordable
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson met with seniors at Gateshead Crossing and Dickerson Manor in Detroit to share her plans to lower costs and make life more affordable in Michigan.
-PRESS RELEASE
-Former Governor Jennifer Granholm Endorses Jocelyn Benson for Michigan Governor
-Today, former Michigan Governor Jennifer Granholm endorsed Jocelyn Benson for governor of Michigan.
+Read more Jun 10 2026 PRESS RELEASE Jocelyn Benson Meets with Detroit Seniors, Outlines Plan to Make Life More Affordable Today, Secretary of State and gubernatorial candidate Jocelyn Benson met with seniors at Gateshead Crossing and Dickerson Manor in Detroit to share her plans to lower costs and make life more affordable in Michigan.
+Read more Jun 9 2026 PRESS RELEASE Former Governor Jennifer Granholm Endorses Jocelyn Benson for Michigan Governor Today, former Michigan Governor Jennifer Granholm endorsed Jocelyn Benson for governor of Michigan.
 Granholm is the second former Michigan governor to endorse Benson.
-PRESS RELEASE
-Jocelyn Benson Tours Detroit Public School, Shares Plans to Transform Education in Michigan
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined Detroit Public Schools Community District (DPSCD) Superintendent Dr.
+Read more Jun 8 2026 PRESS RELEASE Jocelyn Benson Tours Detroit Public School, Shares Plans to Transform Education in Michigan Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined Detroit Public Schools Community District (DPSCD) Superintendent Dr.
 Nikolai Vitti for a tour of Palmer Park Preparatory Academy in Detroit.
 Jocelyn met with teachers, administrators, and students, sharing her plan to reform the education system so that every child in Michigan has access to a world-class education that prepares them for the future.
-PRESS RELEASE
-Jocelyn Benson Joins Detroit Federation of Teachers, Highlights Her Plan to Transform Education System
-Tonight, Secretary of State and gubernatorial candidate Jocelyn Benson met with the Detroit Federation of Teachers and shared her plan to reform Michigan’s public education system.
+Read more Jun 5 2026 PRESS RELEASE Jocelyn Benson Joins Detroit Federation of Teachers, Highlights Her Plan to Transform Education System Tonight, Secretary of State and gubernatorial candidate Jocelyn Benson met with the Detroit Federation of Teachers and shared her plan to reform Michigan’s public education system.
 Joined by local educators, Jocelyn outlined how her administration will work to provide every child in Michigan with access to a world-class education that prepares them for the future.
-PRESS RELEASE
-Northern Midwest Regional Council of Carpenters Endorses Jocelyn Benson for Governor
-Today, the Northern Midwest Regional Council of Carpenters endorsed Jocelyn Benson as the next Governor of Michigan.
+Read more Jun 4 2026 PRESS RELEASE Northern Midwest Regional Council of Carpenters Endorses Jocelyn Benson for Governor Today, the Northern Midwest Regional Council of Carpenters endorsed Jocelyn Benson as the next Governor of Michigan.
 The group, which represents over 14,000 carpenters, floorlayers, and millwrights across the state, praised Jocelyn’s ironclad commitment to protecting workers’ rights, her track record of making government work for the people, and her plan to lower costs and raise wages.
-PRESS RELEASE
-Michigan-Ontario Council of Bishops Endorses Jocelyn Benson for Governor
-Today, the Michigan-Ontario Council of Bishops endorsed Jocelyn Benson for governor.
+Read more Jun 4 2026 PRESS RELEASE Michigan-Ontario Council of Bishops Endorses Jocelyn Benson for Governor Today, the Michigan-Ontario Council of Bishops endorsed Jocelyn Benson for governor.
 The endorsement adds to a growing list of Detroit area leaders, labor organizations, and faith groups supporting Benson’s campaign to lower costs, raise wages, and protect the rights of all Michiganders.
-PRESS RELEASE
-Jocelyn Benson Meets with Black Voters in Detroit, Shares Vision of Economic Empowerment
-Last night, Secretary of State and gubernatorial candidate Jocelyn Benson met with over 30 Black women in Detroit and shared her plans to lower costs, raise wages, and protect the rights and freedoms of all Michiganders.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson on Republican’s Decision to Stall 9 Bills
-Gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement on the nine Republican-stalled bills in the state legislature:
-PRESS RELEASE
-Benson’s “Courageous” Plan Will Deliver a World Class Education For Every Michigan Student
-Last week, Jocelyn Benson rolled out her plan to transform Michigan's public education system to provide every Michigan kid with access to a world-class education that will prepare them for the future.
+Read more Jun 3 2026 PRESS RELEASE Jocelyn Benson Meets with Black Voters in Detroit, Shares Vision of Economic Empowerment Last night, Secretary of State and gubernatorial candidate Jocelyn Benson met with over 30 Black women in Detroit and shared her plans to lower costs, raise wages, and protect the rights and freedoms of all Michiganders.
+Read more Jun 3 2026 PRESS RELEASE STATEMENT: Jocelyn Benson on Republican’s Decision to Stall 9 Bills Gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement on the nine Republican-stalled bills in the state legislature: Read more Jun 1 2026 PRESS RELEASE Benson’s “Courageous” Plan Will Deliver a World Class Education For Every Michigan Student Last week, Jocelyn Benson rolled out her plan to transform Michigan's public education system to provide every Michigan kid with access to a world-class education that will prepare them for the future.
 As the daughter of two public school teachers, a former educator, and a mother of a 9 year old son, getting this right for the next generation of Michiganders is personal.
-PRESS RELEASE
-Jocelyn Rolls Out “Bold” Plan to Build a World-Class Education for Every Michigan Child
-Yesterday, Jocelyn Benson released her plan to reform Michigan’s public education system to provide every child with access to a world-class education.
+Read more Jun 1 2026 PRESS RELEASE Jocelyn Rolls Out “Bold” Plan to Build a World-Class Education for Every Michigan Child Yesterday, Jocelyn Benson released her plan to reform Michigan’s public education system to provide every child with access to a world-class education.
 As the daughter of two public school teachers, a former educator, and a mother of a 9 year old son, getting this right for the next generation of Michiganders is personal.
 That’s why she’s worked with teachers, administrators, and educators to build a plan that directly addresses the struggles teachers and students are facing.
-PRESS RELEASE
-Benson Highlights Momentum and Her Promise to Lower Costs and Raise Wages Alongside Lawmakers
-Today during the Mackinac Policy Conference, Secretary of State and gubernatorial candidate Jocelyn Benson stood with state lawmakers to highlight her campaign's momentum and her agenda to lower costs and raise wages as governor.
-PRESS RELEASE
-STATEMENT: Benson Statement on Mike Duggan Dropping Out of the Race for Governor
-Following today’s announcement that Mike Duggan has dropped out of the race for governor, Secretary of State and gubernatorial candidate Jocelyn Benson released the below statement:
-PRESS RELEASE
-Detroit City Council Member Angela Whitfield Calloway Endorses Jocelyn Benson for Governor
-Today, Detroit City Council Member Angela Whitfield Calloway endorsed Jocelyn Benson for governor.
-PRESS RELEASE
-13th Congressional District Democrats Endorse Jocelyn Benson for Governor
-Today, the 13th Congressional District Democratic Party endorsed Jocelyn Benson for governor of Michigan.
+Read more May 29 2026 PRESS RELEASE Benson Highlights Momentum and Her Promise to Lower Costs and Raise Wages Alongside Lawmakers Today during the Mackinac Policy Conference, Secretary of State and gubernatorial candidate Jocelyn Benson stood with state lawmakers to highlight her campaign's momentum and her agenda to lower costs and raise wages as governor.
+Read more May 28 2026 PRESS RELEASE STATEMENT: Benson Statement on Mike Duggan Dropping Out of the Race for Governor Following today’s announcement that Mike Duggan has dropped out of the race for governor, Secretary of State and gubernatorial candidate Jocelyn Benson released the below statement: Read more May 21 2026 PRESS RELEASE Detroit City Council Member Angela Whitfield Calloway Endorses Jocelyn Benson for Governor Today, Detroit City Council Member Angela Whitfield Calloway endorsed Jocelyn Benson for governor.
+Read more May 21 2026 PRESS RELEASE 13th Congressional District Democrats Endorse Jocelyn Benson for Governor Today, the 13th Congressional District Democratic Party endorsed Jocelyn Benson for governor of Michigan.
 The endorsement comes as Benson continues to consolidate support and secure key endorsements across Metro Detroit.
-PRESS RELEASE
-Jocelyn Benson Lays Out Vision for Protecting Workers, Raising Wages at UAW Forum
-Following today’s United Auto Workers gubernatorial forum, the Benson for Governor campaign released the below statement:
-PRESS RELEASE
-WATCH: Jocelyn Shares Experience as a Military Spouse, Vision for Stronger Veteran Support
-In a new interview with WZMQ during National Military Appreciation Month, Secretary of State and gubernatorial nominee Jocelyn Benson discussed her family's commitment to service, her experience as a military spouse when her husband served overseas, and how she will help ensure veterans can afford to live and thrive in every corner of the state as governor.
-PRESS RELEASE
-At Gun Violence Prevention Forum, Jocelyn Benson Lays Out Vision to Keep Michiganders Safe and Secure
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to tackle the crisis of gun violence at a forum in Detroit.
+Read more May 20 2026 PRESS RELEASE Jocelyn Benson Lays Out Vision for Protecting Workers, Raising Wages at UAW Forum Following today’s United Auto Workers gubernatorial forum, the Benson for Governor campaign released the below statement: Read more May 18 2026 PRESS RELEASE WATCH: Jocelyn Shares Experience as a Military Spouse, Vision for Stronger Veteran Support In a new interview with WZMQ during National Military Appreciation Month, Secretary of State and gubernatorial nominee Jocelyn Benson discussed her family's commitment to service, her experience as a military spouse when her husband served overseas, and how she will help ensure veterans can afford to live and thrive in every corner of the state as governor.
+Read more May 18 2026 PRESS RELEASE At Gun Violence Prevention Forum, Jocelyn Benson Lays Out Vision to Keep Michiganders Safe and Secure Today, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to tackle the crisis of gun violence at a forum in Detroit.
 As Secretary of State, Jocelyn worked to ban guns in polling locations so that Michiganders could cast their votes safely without fear of intimidation.
-PRESS RELEASE
-Jocelyn Benson Reintroduces Michigan Voting Rights Act, Lays Out Case for Additional Protections
-In a new op-ed in the Michigan Chronicle, Jocelyn Benson outlined the impact of the Supreme Court’s decision to gut the Voting Rights Act last week and called on the state legislature to pass the Michigan Voting Rights Act.
-PRESS RELEASE
-Detroit Original Eastside Slate Endorses Jocelyn Benson for Governor
-Today, the Detroit Original Eastside Slate endorsed Jocelyn Benson for governor of Michigan.
+Read more May 16 2026 PRESS RELEASE Jocelyn Benson Reintroduces Michigan Voting Rights Act, Lays Out Case for Additional Protections In a new op-ed in the Michigan Chronicle , Jocelyn Benson outlined the impact of the Supreme Court’s decision to gut the Voting Rights Act last week and called on the state legislature to pass the Michigan Voting Rights Act.
+Read more May 15 2026 PRESS RELEASE Detroit Original Eastside Slate Endorses Jocelyn Benson for Governor Today, the Detroit Original Eastside Slate endorsed Jocelyn Benson for governor of Michigan.
 The Eastside Slate has long advocated for the residents of Detroit and fought to ensure their voices are heard at all levels of government.
 They are committed to elected leaders who will deliver on economic equality and invest in all Detroiters.
-PRESS RELEASE
-New Poll Shows Jocelyn Benson with Dominant, Double-Digit Lead in Governor’s Race
-New polling conducted by Mitchell Research & Communications shows Secretary of State Jocelyn Benson with an overwhelming 12 percentage point lead in the race for governor.
+Read more May 14 2026 PRESS RELEASE New Poll Shows Jocelyn Benson with Dominant, Double-Digit Lead in Governor’s Race New pollin g conducted by Mitchell Research & Communications shows Secretary of State Jocelyn Benson with an overwhelming 12 percentage point lead in the race for governor.
 The poll, commissioned by MIRS, shows Benson pulling away from the rest of the field as enthusiasm surges for her plans to lower costs, raise wages, and protect the rights of all Michiganders.
-PRESS RELEASE
-ICYMI: New Poll Shows Jocelyn Benson with Five Point Lead in Governor’s Race
-New polling commissioned by the Duggan-aligned Detroit Regional Chamber shows Jocelyn Benson with a commanding lead in the governor’s race.
-Meanwhile, Mike Duggan is faced with “warning signs for his campaign” and support for his candidacy has “plummeted.”
-PRESS RELEASE
-Jocelyn Benson Meets with Pontiac Seniors, Outlines Plans to Lower Costs
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson addressed the Golden Opportunity Club in Pontiac, meeting with seniors and sharing her plans to make life more affordable in Michigan.
-PRESS RELEASE
-NEW MI GOV POLL: Jocelyn Benson Surges to Commanding Lead in New Poll
-New polling conducted by the Glengariff Group shows Secretary of State Jocelyn Benson growing her lead in the race for governor as voters learn more about her record of delivering for Michiganders and her plans to lower costs, raise wages, and protect their rights and freedoms.
-PRESS RELEASE
-LISTEN: Benson Vows to Lower Costs, Stand Up for Michiganders
-During an interview on WDET, Secretary of State and gubernatorial candidate Jocelyn Benson laid out her vision for a more affordable state and shared stories from Michiganders struggling under skyrocketing costs.
-PRESS RELEASE
-Benson Meets with Educators, Tours Postsecondary Education Schools, Highlights Importance of Supporting Special Education
-Today, gubernatorial candidate Jocelyn Benson toured the Macomb Community College M3 Facility, the Rising Stars Academy, and then hosted a roundtable with educators and local leaders to discuss ways the next governor can better support our teachers and set students up for success in the job market.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson on Supreme Court Reviewing Republican’s Undemocratic Decision to Stall 9 Bills
-Following today’s hearing at the Michigan Supreme Court on nine Republican-stalled bills in the state legislature, gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement:
-PRESS RELEASE
-Jocelyn Benson Tours Union Plumbers and Pipefitters Local in Lansing, Discusses Plans to Raise Wages
-Today in Lansing, Secretary of State and gubernatorial candidate Jocelyn Benson toured UA Plumbers and Pipefitters Local 333 and met with union workers to share her plans to raise wages, lower costs, and create well-paying union jobs and apprenticeships across Michigan.
-PRESS RELEASE
-STATEMENT: Jocelyn Benson on Supreme Court Decision to Weaken the Voting Rights Act
-Following today’s Supreme Court’s decision to weaken Section 2 of the Voting Rights Act, gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement:
-PRESS RELEASE
-Jocelyn Benson Lays Out Economic Development Vision at Southern Wayne County Chamber Forum
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined the Southern Wayne County Chamber for a discussion on her plans to make Michigan the best place to live, work, build a business, and raise a family.
-PRESS RELEASE
-Jocelyn Benson Shares Affordability Agenda with Detroit Seniors
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson met with seniors at Riverbend Towers in Detroit and shared her plans to make life more affordable in Michigan.
-PRESS RELEASE
-WATCH: Benson Stands Strong for Michigan Voters Against Trump Demands for 2024 Wayne County Ballots
-During an interview on MS NOW’s Deadline: White House, Secretary of State and gubernatorial candidate Jocelyn Benson called out Donald Trump and the Department of Justice’s latest attempt to interfere and sow doubt about the integrity of Michigan’s elections.
-PRESS RELEASE
-WATCH: Benson Slams Trump and DOJ’s Latest Attempt to Sow Seeds of Doubt About Past Elections
-During an interview on MS NOW’s The Weekend, Secretary of State and gubernatorial candidate Jocelyn Benson slammed Donald Trump and the Department of Justice’s latest attempt to sow seeds of doubt about past elections.
-PRESS RELEASE
-Jocelyn Benson Submits Maximum of 30,000 Signatures to Qualify for the Ballot
-Today, Jocelyn Benson submitted 30,000 petition signatures, more than double the amount required, to earn her place on the ballot.
+Read more May 14 2026 PRESS RELEASE ICYMI: New Poll Shows Jocelyn Benson with Five Point Lead in Governor’s Race New polling commissioned by the Duggan-aligned Detroit Regional Chamber shows Jocelyn Benson with a commanding lead in the governor’s race.
+Meanwhile, Mike Duggan is faced with “ warning signs for his campaign ” and support for his candidacy has “ plummeted .” Read more May 13 2026 PRESS RELEASE Jocelyn Benson Meets with Pontiac Seniors, Outlines Plans to Lower Costs Today, Secretary of State and gubernatorial candidate Jocelyn Benson addressed the Golden Opportunity Club in Pontiac, meeting with seniors and sharing her plans to make life more affordable in Michigan.
+Read more May 12 2026 PRESS RELEASE NEW MI GOV POLL: Jocelyn Benson Surges to Commanding Lead in New Poll New polling conducted by the Glengariff Group shows Secretary of State Jocelyn Benson growing her lead in the race for governor as voters learn more about her record of delivering for Michiganders and her plans to lower costs, raise wages, and protect their rights and freedoms.
+Read more May 12 2026 PRESS RELEASE LISTEN: Benson Vows to Lower Costs, Stand Up for Michiganders During an interview on WDET, Secretary of State and gubernatorial candidate Jocelyn Benson laid out her vision for a more affordable state and shared stories from Michiganders struggling under skyrocketing costs.
+Read more May 11 2026 PRESS RELEASE Benson Meets with Educators, Tours Postsecondary Education Schools, Highlights Importance of Supporting Special Education Today, gubernatorial candidate Jocelyn Benson toured the Macomb Community College M3 Facility, the Rising Stars Academy, and then hosted a roundtable with educators and local leaders to discuss ways the next governor can better support our teachers and set students up for success in the job market.
+Read more May 8 2026 PRESS RELEASE STATEMENT: Jocelyn Benson on Supreme Court Reviewing Republican’s Undemocratic Decision to Stall 9 Bills Following today’s hearing at the Michigan Supreme Court on nine Republican-stalled bills in the state legislature, gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement: Read more May 7 2026 PRESS RELEASE Jocelyn Benson Tours Union Plumbers and Pipefitters Local in Lansing, Discusses Plans to Raise Wages Today in Lansing, Secretary of State and gubernatorial candidate Jocelyn Benson toured UA Plumbers and Pipefitters Local 333 and met with union workers to share her plans to raise wages, lower costs, and create well-paying union jobs and apprenticeships across Michigan.
+Read more Apr 30 2026 PRESS RELEASE STATEMENT: Jocelyn Benson on Supreme Court Decision to Weaken the Voting Rights Act Following today’s Supreme Court’s decision to weaken Section 2 of the Voting Rights Act, gubernatorial candidate and Secretary of State Jocelyn Benson released the below statement: Read more Apr 29 2026 PRESS RELEASE Jocelyn Benson Lays Out Economic Development Vision at Southern Wayne County Chamber Forum Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined the Southern Wayne County Chamber for a discussion on her plans to make Michigan the best place to live, work, build a business, and raise a family.
+Read more Apr 27 2026 PRESS RELEASE Jocelyn Benson Shares Affordability Agenda with Detroit Seniors Today, Secretary of State and gubernatorial candidate Jocelyn Benson met with seniors at Riverbend Towers in Detroit and shared her plans to make life more affordable in Michigan.
+Read more Apr 24 2026 PRESS RELEASE WATCH: Benson Stands Strong for Michigan Voters Against Trump Demands for 2024 Wayne County Ballots During an interview on MS NOW’s Deadline: White House, Secretary of State and gubernatorial candidate Jocelyn Benson called out Donald Trump and the Department of Justice’s latest attempt to interfere and sow doubt about the integrity of Michigan’s elections.
+Read more Apr 21 2026 PRESS RELEASE WATCH: Benson Slams Trump and DOJ’s Latest Attempt to Sow Seeds of Doubt About Past Elections During an interview on MS NOW’s The Weekend, Secretary of State and gubernatorial candidate Jocelyn Benson slammed Donald Trump and the Department of Justice’s latest attempt to sow seeds of doubt about past elections.
+Read more Apr 20 2026 PRESS RELEASE Jocelyn Benson Submits Maximum of 30,000 Signatures to Qualify for the Ballot Today, Jocelyn Benson submitted 30,000 petition signatures, more than double the amount required, to earn her place on the ballot.
 With support from every corner of Michigan, Jocelyn is building a powerful coalition to win in November.
-PRESS RELEASE
-State Senators Sam Singh and Jeff Irwin, and Representative Veronica Paiz Endorse Jocelyn Benson for Michigan Governor
-Today, State Senators Sam Singh and Jeff Irwin, and State Representative Veronica Paiz endorsed Jocelyn Benson for governor.
-PRESS RELEASE
-Former Governor Jim Blanchard Endorses Jocelyn Benson, Points to Effective Leadership, Focus on Affordability
-This week, former Michigan Governor Jim Blanchard endorsed Jocelyn Benson to be the next governor of Michigan.
+Read more Apr 16 2026 PRESS RELEASE State Senators Sam Singh and Jeff Irwin, and Representative Veronica Paiz Endorse Jocelyn Benson for Michigan Governor Today, State Senators Sam Singh and Jeff Irwin, and State Representative Veronica Paiz endorsed Jocelyn Benson for governor.
+Read more Apr 15 2026 PRESS RELEASE Former Governor Jim Blanchard Endorses Jocelyn Benson, Points to Effective Leadership, Focus on Affordability This week, former Michigan Governor Jim Blanchard endorsed Jocelyn Benson to be the next governor of Michigan.
 Blanchard is the first former governor of Michigan to endorse a candidate for governor.
-PRESS RELEASE
-“Jocelyn Benson’s Approach to Good Government: Get Out of the Way Unless You’re Needed”
-Ahead of the Michigan Democratic Party’s endorsement convention this weekend, the Michigan Advance highlighted gubernatorial candidate Jocelyn Benson’s legacy as Secretary of State, an office she reshaped into a national model for saving people time and money.
-PRESS RELEASE
-Former Governor Jim Blanchard Endorses Jocelyn Benson for Michigan Governor
-Today, Former Michigan Governor Jim Blanchard endorsed Jocelyn Benson for governor of Michigan.
+Read more Apr 15 2026 PRESS RELEASE “Jocelyn Benson’s Approach to Good Government: Get Out of the Way Unless You’re Needed” Ahead of the Michigan Democratic Party’s endorsement convention this weekend, the Michigan Advance highlighted gubernatorial candidate Jocelyn Benson’s legacy as Secretary of State, an office she reshaped into a national model for saving people time and money.
+Read more Apr 14 2026 PRESS RELEASE Former Governor Jim Blanchard Endorses Jocelyn Benson for Michigan Governor Today, Former Michigan Governor Jim Blanchard endorsed Jocelyn Benson for governor of Michigan.
 Blanchard is the first former governor of Michigan to endorse a candidate for governor.
-PRESS RELEASE
-Jocelyn Benson’s Energy Affordability Plan Will Take on Skyrocketing Costs and Reform a Broken System
-On Friday, Secretary of State and gubernatorial candidate Jocelyn Benson rolled out her energy affordability agenda with stops in Saginaw and Detroit.
-PRESS RELEASE
-Jocelyn Benson Rolls Out Energy Affordability Plan with Michiganders and Elected Leaders in Saginaw and Detroit
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson unveiled her energy affordability agenda with events in Saginaw and Detroit.
-PRESS RELEASE
-Detroit News: Jocelyn Benson Lays Out Vision to Take on the Housing Affordability Crisis
-In a new op-ed in the Detroit News, Jocelyn Benson shared the heartbreaking stories she’s heard from Michigan voters about the rising cost of housing and her plan to lower costs and ensure Michiganders in every corner of the state can afford a home in the community where they live and work.
+Read more Apr 13 2026 PRESS RELEASE Jocelyn Benson’s Energy Affordability Plan Will Take on Skyrocketing Costs and Reform a Broken System On Friday, Secretary of State and gubernatorial candidate Jocelyn Benson rolled out her energy affordability agenda with stops in Saginaw and Detroit.
+Read more Apr 13 2026 PRESS RELEASE Jocelyn Benson Rolls Out Energy Affordability Plan with Michiganders and Elected Leaders in Saginaw and Detroit Today, Secretary of State and gubernatorial candidate Jocelyn Benson unveiled her energy affordability agenda with events in Saginaw and Detroit.
+Read more Apr 10 2026 PRESS RELEASE Detroit News: Jocelyn Benson Lays Out Vision to Take on the Housing Affordability Crisis In a new op-ed in the Detroit News , Jocelyn Benson shared the heartbreaking stories she’s heard from Michigan voters about the rising cost of housing and her plan to lower costs and ensure Michiganders in every corner of the state can afford a home in the community where they live and work.
 Jocelyn is the only candidate for governor with a plan and laser focus on lowering costs.
-PRESS RELEASE
-Jocelyn Benson Takes Her Housing Agenda Across the State
-Over the past month, Jocelyn Benson has been traveling the state, talking to Michiganders about the issues that keep them up at night, and sharing the second plank of her affordability agenda: her plan to lower the cost of housing and ensure Michiganders in every corner of the state can afford a home in the community where they live and work.
+Read more Apr 8 2026 PRESS RELEASE Jocelyn Benson Takes Her Housing Agenda Across the State Over the past month, Jocelyn Benson has been traveling the state, talking to Michiganders about the issues that keep them up at night, and sharing the second plank of her affordability agenda: her plan to lower the cost of housing and ensure Michiganders in every corner of the state can afford a home in the community where they live and work.
 Jocelyn is the only candidate for governor with a comprehensive plan to lower costs.
-PRESS RELEASE
-State Senators Stephanie Chang and Sarah Anthony, and Representative Mai Xiong Endorse Jocelyn Benson for Michigan Governor
-Today, State Senators Stephanie Chang and Sarah Anthony, and State Representative Mai Xiong endorsed Jocelyn Benson for governor.
-PRESS RELEASE
-Benson Vows to Show Up for Michigan’s Rural Communities as Governor
-New reporting from the Holland Sentinel details Secretary of State and gubernatorial candidate Jocelyn Benson’s commitment to driving down costs for Michigan’s rural communities and her plans to make Michigan the best place to call home.
-PRESS RELEASE
-The 19TH: Jocelyn Benson’s Journey to the Michigan Governor’s Race
-New reporting from The 19th highlights Secretary of State and gubernatorial candidate Jocelyn Benson’s path to public service from Selma to Michigan, her commitment to protecting Michiganders’ rights and freedoms, and how she’ll deliver for Michigan as governor.
-PRESS RELEASE
-Benson Shares Affordability Agenda Across West Michigan, Meeting with Voters, Small Business Owners
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson campaigned across West Michigan, meeting with voters in Kalamazoo, small business owners in Grand Rapids, and labor leaders.
-PRESS RELEASE
-Detroit Metro Times: “Benson Takes on Data Center Boom with Stricter Safeguards”
-New reporting from the Detroit Metro Times details Secretary of State and gubernatorial candidate Jocelyn Benson’s “strict” guardrails that will ensure transparency and local involvement in projects, keep energy costs low for communities, protect Michigan’s natural resources, and require union labor.
-PRESS RELEASE
-WATCH: Benson Sounds the Alarm on the SAVE Act, Saying It Will Cost Citizens More Time and Money, Make It Harder to Vote
-During an interview on MS NOW, Michigan Secretary of State and gubernatorial candidate Jocelyn Benson sounded the alarm on the SAVE Act, legislation that will cost citizens more time and money while making it harder to vote.
-PRESS RELEASE
-Jocelyn Benson Announces Transparency and Accountability Agenda to Take on Corruption and Make Government Work for Michiganders
-Today, Jocelyn Benson announced her transparency agenda — her plan to hold leaders accountable and ensure they are working for the people, not the highest bidder.
+Read more Apr 7 2026 PRESS RELEASE State Senators Stephanie Chang and Sarah Anthony, and Representative Mai Xiong Endorse Jocelyn Benson for Michigan Governor Today, State Senators Stephanie Chang and Sarah Anthony, and State Representative Mai Xiong endorsed Jocelyn Benson for governor.
+Read more Apr 1 2026 PRESS RELEASE Benson Vows to Show Up for Michigan’s Rural Communities as Governor New reporting from the Holland Sentinel details Secretary of State and gubernatorial candidate Jocelyn Benson’s commitment to driving down costs for Michigan’s rural communities and her plans to make Michigan the best place to call home.
+Read more Mar 25 2026 PRESS RELEASE The 19TH: Jocelyn Benson’s Journey to the Michigan Governor’s Race New reporting from The 19th highlights Secretary of State and gubernatorial candidate Jocelyn Benson’s path to public service from Selma to Michigan, her commitment to protecting Michiganders’ rights and freedoms, and how she’ll deliver for Michigan as governor.
+Read more Mar 24 2026 PRESS RELEASE Benson Shares Affordability Agenda Across West Michigan, Meeting with Voters, Small Business Owners Today, Secretary of State and gubernatorial candidate Jocelyn Benson campaigned across West Michigan, meeting with voters in Kalamazoo, small business owners in Grand Rapids, and labor leaders.
+Read more Mar 23 2026 PRESS RELEASE Detroit Metro Times: “Benson Takes on Data Center Boom with Stricter Safeguards” New reporting from the Detroit Metro Times details Secretary of State and gubernatorial candidate Jocelyn Benson’s “strict” guardrails that will ensure transparency and local involvement in projects, keep energy costs low for communities, protect Michigan’s natural resources, and require union labor.
+Read more Mar 23 2026 PRESS RELEASE WATCH: Benson Sounds the Alarm on the SAVE Act, Saying It Will Cost Citizens More Time and Money, Make It Harder to Vote During an interview on MS NOW, Michigan Secretary of State and gubernatorial candidate Jocelyn Benson sounded the alarm on the SAVE Act, legislation that will cost citizens more time and money while making it harder to vote.
+Read more Mar 21 2026 PRESS RELEASE Jocelyn Benson Announces Transparency and Accountability Agenda to Take on Corruption and Make Government Work for Michiganders Today, Jocelyn Benson announced her transparency agenda — her plan to hold leaders accountable and ensure they are working for the people, not the highest bidder.
 Her plan will deliver the accountability, transparency, and results that Michiganders deserve by banning dark money, backroom deals, and undisclosed influence.
-PRESS RELEASE
-Jocelyn Benson and Rep.
-Betsy Coffia in Traverse City Record-Eagle: “Right now, health care is inaccessible, unfair, and unaffordable”
-In a new op-ed in the Traverse City Record-Eagle, Jocelyn Benson and state Rep.
+Read more Mar 20 2026 PRESS RELEASE Jocelyn Benson and Rep.
+Betsy Coffia in Traverse City Record-Eagle: “Right now, health care is inaccessible, unfair, and unaffordable” In a new op-ed in the Traverse City Record-Eagle, Jocelyn Benson and state Rep.
 Betsy Coffia share the heartbreaking stories about the healthcare system they've heard from voters in northern Michigan and explain how Jocelyn’s healthcare plan will lower costs, improve outcomes, and ensure Michiganders in every corner of the state have access to quality care.
-PRESS RELEASE
-ICYMI: Benson Shares Vision to Take on Housing Crisis During Building Site Tour in Lansing
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson toured new affordable housing facilities in Lansing and shared her plan to drive down the cost of housing.
+Read more Mar 20 2026 PRESS RELEASE ICYMI: Benson Shares Vision to Take on Housing Crisis During Building Site Tour in Lansing Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson toured new affordable housing facilities in Lansing and shared her plan to drive down the cost of housing.
 During her visit at the Lansing Housing Commission, Benson toured two of their new buildings – the 220 Riverview Apartments and the Grand Vista Place Apartments.
-PRESS RELEASE
-Detroit Councilwoman Gabriela Santiago Romero Endorses Jocelyn Benson for Michigan Governor
-Today, Detroit Councilwoman Gabriela Santiago Romero endorsed Jocelyn Benson for governor of Michigan.
+Read more Mar 18 2026 PRESS RELEASE Detroit Councilwoman Gabriela Santiago Romero Endorses Jocelyn Benson for Michigan Governor Today, Detroit Councilwoman Gabriela Santiago Romero endorsed Jocelyn Benson for governor of Michigan.
 Councilwoman Romero has spent her life standing up for Detroiters, fighting to lower costs, and helping the most vulnerable.
 A lifelong resident and daughter of Detroit, she knows firsthand just how critical it is for Michigan to have a governor who will invest in every single community across our state.
-PRESS RELEASE
-In Lansing, Benson Tours New Affordable Housing Units, Shares Plan to Lower Costs for Michiganders
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson toured new affordable housing facilities in Lansing and shared her plan to drive down the cost of housing.
+Read more Mar 18 2026 PRESS RELEASE In Lansing, Benson Tours New Affordable Housing Units, Shares Plan to Lower Costs for Michiganders Today, Secretary of State and gubernatorial candidate Jocelyn Benson toured new affordable housing facilities in Lansing and shared her plan to drive down the cost of housing.
 During her visit at the Lansing Housing Commission, Benson toured two of their new buildings – the 220 Riverview Apartments and the Grand Vista Place Apartments.
-PRESS RELEASE
-Benson Campaigns with Reproductive Freedom for All President Mini Timmaraju
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined Reproductive Freedom for All President Mini Timmaraju to talk with Michiganders about what’s at stake in this year’s gubernatorial race and the importance of electing leaders who will protect Michiganders’ access to reproductive healthcare and stand up for their rights and freedoms.
-PRESS RELEASE
-ON THE AIRWAVES: Benson Shares Plan to Drive Down Costs
-This week, Secretary of State and gubernatorial candidate Jocelyn Benson campaigned across Michigan, meeting with community leaders, stopping at local businesses, and sharing her affordability agenda to bring costs down, drive wages up, and make Michigan the best place to call home.
-PRESS RELEASE
-Benson, Michigan Lawmakers Travel to Selma for 61st Jubilee and March on the Edmund Pettus Bridge
-Over the weekend, Secretary of State and gubernatorial candidate Jocelyn Benson led a group of Michigan lawmakers on a trip to Selma for the 61st Jubilee and march on the Edmund Pettus Bridge.
+Read more Mar 17 2026 PRESS RELEASE Benson Campaigns with Reproductive Freedom for All President Mini Timmaraju Today, Secretary of State and gubernatorial candidate Jocelyn Benson joined Reproductive Freedom for All President Mini Timmaraju to talk with Michiganders about what’s at stake in this year’s gubernatorial race and the importance of electing leaders who will protect Michiganders’ access to reproductive healthcare and stand up for their rights and freedoms.
+Read more Mar 16 2026 PRESS RELEASE ON THE AIRWAVES: Benson Shares Plan to Drive Down Costs This week, Secretary of State and gubernatorial candidate Jocelyn Benson campaigned across Michigan, meeting with community leaders, stopping at local businesses, and sharing her affordability agenda to bring costs down, drive wages up, and make Michigan the best place to call home.
+Read more Mar 13 2026 PRESS RELEASE Benson, Michigan Lawmakers Travel to Selma for 61st Jubilee and March on the Edmund Pettus Bridge Over the weekend, Secretary of State and gubernatorial candidate Jocelyn Benson led a group of Michigan lawmakers on a trip to Selma for the 61st Jubilee and march on the Edmund Pettus Bridge.
 Every year, Benson travels to Selma to march and recommit to continuing the work of the Civil Rights Movement.
-PRESS RELEASE
-MANISTEE NEWS: “Benson’s [Healthcare Affordability] plan offers hope”
-Secretary of State and gubernatorial candidate Jocelyn Benson is the only candidate for governor with a plan to lower healthcare costs and voters are taking notice.
+Read more Mar 11 2026 PRESS RELEASE MANISTEE NEWS: “Benson’s [Healthcare Affordability] plan offers hope” Secretary of State and gubernatorial candidate Jocelyn Benson is the only candidate for governor with a plan to lower healthcare costs and voters are taking notice.
 It’s clear that Benson’s plan is resonating with voters, especially as other candidates continue to support higher healthcare costs and massive cuts to Medicaid.
-PRESS RELEASE
-In Detroit, Benson, Saunteel Jenkins, and Local Leaders Discuss Housing Affordability Crisis
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson discussed her plan to lower the cost of housing for Michigan families with former Detroit City Council President Saunteel Jenkins, local leaders, housing advocates, and residents.
-PRESS RELEASE
-West Michigan Stagehands Union (IATSE 26) Endorses Jocelyn Benson for Governor
-Today, the International Alliance of Theatrical Stage Employees (IATSE) Local 26, the West Michigan Stagehands Union, endorsed Jocelyn Benson as the next Governor of Michigan.
+Read more Mar 9 2026 PRESS RELEASE In Detroit, Benson, Saunteel Jenkins, and Local Leaders Discuss Housing Affordability Crisis Today, Secretary of State and gubernatorial candidate Jocelyn Benson discussed her plan to lower the cost of housing for Michigan families with former Detroit City Council President Saunteel Jenkins, local leaders, housing advocates, and residents.
+Read more Mar 5 2026 PRESS RELEASE West Michigan Stagehands Union (IATSE 26) Endorses Jocelyn Benson for Governor Today, the International Alliance of Theatrical Stage Employees (IATSE) Local 26, the West Michigan Stagehands Union, endorsed Jocelyn Benson as the next Governor of Michigan.
 IATSE Local 26 praised Benson’s track record of standing up to anyone, including the President, to deliver for Michiganders and her laser focus on lowering costs and raising wages.
-PRESS RELEASE
-ICYMI: Benson Is the Only Candidate with a Plan to Lower Housing Costs
-Yesterday, Jocelyn Benson unveiled her plan to lower the cost of housing and build more homes across Michigan, so that every Michigander can afford a home in the community where they live and work.
-PRESS RELEASE
-In Grand Rapids, Benson Rolls Out Housing Affordability Agenda, Meets with Faith Leaders and Business Owners, Touts Scholten Endorsement
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson rolled out her plan to lower the cost of housing for Michigan families and met with local leaders, faith leaders, and business owners in Grand Rapids.
-PRESS RELEASE
-ICYMI: “New poll shows Benson pulling ahead as Duggan slips despite big spending”
-New polling last week showed Secretary of State Jocelyn Benson leading the race for governor and gaining strength as voters learn about her story, her record of delivering for Michiganders, and her plan to lower costs across the state.
-PRESS RELEASE
-ICYMI: Benson Makes Healthcare Affordability Defining Issue with Plan to Drive Down Costs and Increase Access to Care
-Last month, Jocelyn Benson released her plan to lower healthcare costs, improve outcomes, and ensure Michiganders in every corner of the state have access to quality care.
-PRESS RELEASE
-NEW MI GOV POLL: Jocelyn Benson Leads Race For Michigan Governor
-New polling conducted by Impact Research shows Secretary of State Jocelyn Benson leading the race for governor and gaining strength as voters learn more about her story and see her record of saving Michiganders time and money.
-PRESS RELEASE
-Michigan Nurses Association Endorses Jocelyn Benson for Governor
-Today, the Michigan Nurses Association, the largest union and professional association for registered nurses and healthcare professionals in the state, endorsed Jocelyn Benson for Governor.
-PRESS RELEASE
-NEW: Black Mayors of Michigan Endorses Jocelyn Benson for Governor
-Today, the Black Mayors of Michigan, a nonpartisan coalition of Black mayors from across the state dedicated to advancing strong leadership, collaboration, and advocacy across their cities, endorsed Jocelyn Benson in the race for Governor.
-PRESS RELEASE
-Reproductive Freedom for All Endorses Jocelyn Benson for Governor
-Today, Reproductive Freedom for All, a national leading advocate of reproductive freedom, endorsed Jocelyn Benson in the race for governor.
-PRESS RELEASE
-Benson Promotes Plan to Tackle Black Maternal Healthcare Crisis and Lower Medical Bills
-Yesterday, speaking alongside medical professionals and advocates, Secretary of State and gubernatorial candidate Jocelyn Benson expanded on her plan to lower healthcare costs and tackle the Black maternal healthcare crisis.
-PRESS RELEASE
-Benson Discusses Maternal Healthcare in Flint, Meets with Michiganders in Bay City and Saginaw
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson met with Michiganders in Flint, Bay City, and Saginaw to share her vision for Michigan.
+Read more Mar 4 2026 PRESS RELEASE ICYMI: Benson Is the Only Candidate with a Plan to Lower Housing Costs Yesterday, Jocelyn Benson unveiled her plan to lower the cost of housing and build more homes across Michigan, so that every Michigander can afford a home in the community where they live and work.
+Read more Mar 3 2026 PRESS RELEASE In Grand Rapids, Benson Rolls Out Housing Affordability Agenda, Meets with Faith Leaders and Business Owners, Touts Scholten Endorsement Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson rolled out her plan to lower the cost of housing for Michigan families and met with local leaders, faith leaders, and business owners in Grand Rapids.
+Read more Mar 3 2026 PRESS RELEASE ICYMI: “New poll shows Benson pulling ahead as Duggan slips despite big spending” New polling last week showed Secretary of State Jocelyn Benson leading the race for governor and gaining strength as voters learn about her story, her record of delivering for Michiganders, and her plan to lower costs across the state.
+Read more Feb 23 2026 PRESS RELEASE ICYMI: Benson Makes Healthcare Affordability Defining Issue with Plan to Drive Down Costs and Increase Access to Care Last month, Jocelyn Benson released her plan to lower healthcare costs, improve outcomes, and ensure Michiganders in every corner of the state have access to quality care.
+Read more Feb 23 2026 PRESS RELEASE NEW MI GOV POLL: Jocelyn Benson Leads Race For Michigan Governor New polling conducted by Impact Research shows Secretary of State Jocelyn Benson leading the race for governor and gaining strength as voters learn more about her story and see her record of saving Michiganders time and money.
+Read more Feb 24 2026 PRESS RELEASE Michigan Nurses Association Endorses Jocelyn Benson for Governor Today, the Michigan Nurses Association, the largest union and professional association for registered nurses and healthcare professionals in the state, endorsed Jocelyn Benson for Governor.
+Read more Feb 16 2026 PRESS RELEASE NEW: Black Mayors of Michigan Endorses Jocelyn Benson for Governor Today, the Black Mayors of Michigan, a nonpartisan coalition of Black mayors from across the state dedicated to advancing strong leadership, collaboration, and advocacy across their cities, endorsed Jocelyn Benson in the race for Governor.
+Read more Feb 13 2026 PRESS RELEASE Reproductive Freedom for All Endorses Jocelyn Benson for Governor Today, Reproductive Freedom for All, a national leading advocate of reproductive freedom, endorsed Jocelyn Benson in the race for governor.
+Read more Feb 11 2026 PRESS RELEASE Benson Promotes Plan to Tackle Black Maternal Healthcare Crisis and Lower Medical Bills Yesterday, speaking alongside medical professionals and advocates, Secretary of State and gubernatorial candidate Jocelyn Benson expanded on her plan to lower healthcare costs and tackle the Black maternal healthcare crisis.
+Read more Feb 10 2026 PRESS RELEASE Benson Discusses Maternal Healthcare in Flint, Meets with Michiganders in Bay City and Saginaw Today, Secretary of State and gubernatorial candidate Jocelyn Benson met with Michiganders in Flint, Bay City, and Saginaw to share her vision for Michigan.
 Benson is the only candidate for governor who has released a thorough agenda to lower healthcare costs for all Michiganders and improve maternal healthcare.
-PRESS RELEASE
-ICYMI: Benson Impresses at Michigan Education Association Forum
-Last week, during the Michigan Education Association gubernatorial forum, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to make Michigan’s public schools the best in the country.
+Read more Feb 9 2026 PRESS RELEASE ICYMI: Benson Impresses at Michigan Education Association Forum Last week, during the Michigan Education Association gubernatorial forum, Secretary of State and gubernatorial candidate Jocelyn Benson shared her plans to make Michigan’s public schools the best in the country.
 Her personal story as a former educator, the daughter of special education teachers, and a mom – and her commitment to always standing up to protect Michiganders’ rights and freedoms – resonated with MEA attendees in the audience.
-PRESS RELEASE
-At Michigan Education Association Forum, Benson Outlines Plan to Invest in Educators
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson took part in the Michigan Education Association’s gubernatorial candidate forum where she shared her vision to make Michigan the best place to be a kid, raise a kid, and call home with fellow educators and union members.
-PRESS RELEASE
-ICYMI: Benson Will Transform State Agencies and Save Michiganders Time and Money
-Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson spoke in front of a packed audience at the Detroit Economic Club and showcased how she will transform Michigan’s state agencies to better serve residents and save taxpayers money.
-PRESS RELEASE
-Benson Speaks with the Small Business Association of Michigan and Michigan Black Business Alliance
-Today, Secretary of State Jocelyn Benson spoke at the Small Business Association of Michigan’s (SBAM) and the Michigan Black Business Alliance’s (MBBA) Road to 2026 Candidate Series about her plans to make Michigan the best place to start and grow a small business, and turn the state into the economic engine of the Midwest and Great Lakes region.
-PRESS RELEASE
-WATCH: Benson Slams Trump for Calling to “Nationalize” Elections
-Michigan Secretary of State and gubernatorial candidate Jocelyn Benson called out Donald Trump for continuing his baseless attacks on Michigan’s election security and calling for Republicans to “nationalize” future elections during an interview on CNN last night.
-PRESS RELEASE
-GIFFORDS PAC Endorses Jocelyn Benson for Governor
-Today, GIFFORDS PAC, the national gun violence prevention organization led by former Congresswoman Gabrielle Giffords, endorsed Jocelyn Benson in the race for Governor.
-PRESS RELEASE
-PRESS RELEASE
-WATCH: Benson Discusses Her Fight for Safe, Secure Elections Even in the Face of Threats
-During a new interview on CBS’s The Takeout, Secretary of State and gubernatorial candidate Jocelyn Benson discussed her work protecting the safety and security of Michigan’s elections, even amidst threats of violence against herself and her family.
-PRESS RELEASE
-Michigan House Democratic Leader Ranjeev Puri, State Lawmakers Endorse Jocelyn Benson for Governor
-Today, Michigan House Democratic Leader Ranjeev Puri, State Senators Darrin Camilleri and Paul Wojno, and State Representative Laurie Pohutsky endorsed Jocelyn Benson for governor.
-PRESS RELEASE
-ICYMI: Benson Zeroes in on Affordability and Lowering Costs in Campaign for Governor
-New reporting from POLITICO details gubernatorial candidate Jocelyn Benson’s laser focus on lowering costs for Michiganders.
+Read more Feb 9 2026 PRESS RELEASE At Michigan Education Association Forum, Benson Outlines Plan to Invest in Educators Today, Secretary of State and gubernatorial candidate Jocelyn Benson took part in the Michigan Education Association’s gubernatorial candidate forum where she shared her vision to make Michigan the best place to be a kid, raise a kid, and call home with fellow educators and union members.
+Read more Feb 6 2026 PRESS RELEASE ICYMI: Benson Will Transform State Agencies and Save Michiganders Time and Money Yesterday, Secretary of State and gubernatorial candidate Jocelyn Benson spoke in front of a packed audience at the Detroit Economic Club and showcased how she will transform Michigan’s state agencies to better serve residents and save taxpayers money.
+Read more Feb 6 2026 PRESS RELEASE Benson Speaks with the Small Business Association of Michigan and Michigan Black Business Alliance Today, Secretary of State Jocelyn Benson spoke at the Small Business Association of Michigan’s (SBAM) and the Michigan Black Business Alliance’s (MBBA) Road to 2026 Candidate Series about her plans to make Michigan the best place to start and grow a small business, and turn the state into the economic engine of the Midwest and Great Lakes region.
+Read more Feb 5 2026 PRESS RELEASE WATCH: Benson Slams Trump for Calling to “Nationalize” Elections Michigan Secretary of State and gubernatorial candidate Jocelyn Benson called out Donald Trump for continuing his baseless attacks on Michigan’s election security and calling for Republicans to “ nationalize ” future elections during an interview on CNN last night.
+Read more Feb 4 2026 PRESS RELEASE GIFFORDS PAC Endorses Jocelyn Benson for Governor Today, GIFFORDS PAC, the national gun violence prevention organization led by former Congresswoman Gabrielle Giffords, endorsed Jocelyn Benson in the race for Governor.
+Read more Feb 4 2026 PRESS RELEASE Benson for Governor Raised Nearly $# Million in 2025, Outraising Entire Field Secretary of State and gubernatorial candidate Jocelyn Benson raised another $# million from thousands of supporters across Michigan to bring her total 2025 fundraising haul to $# million – once again shattering records in Michigan’s open governor’s race.
+Read more Feb 2 2026 PRESS RELEASE WATCH: Benson Discusses Her Fight for Safe, Secure Elections Even in the Face of Threats During a new interview on CBS’s The Takeout , Secretary of State and gubernatorial candidate Jocelyn Benson discussed her work protecting the safety and security of Michigan’s elections, even amidst threats of violence against herself and her family.
+Read more Feb 3 2026 PRESS RELEASE Michigan House Democratic Leader Ranjeev Puri, State Lawmakers Endorse Jocelyn Benson for Governor Today, Michigan House Democratic Leader Ranjeev Puri, State Senators Darrin Camilleri and Paul Wojno, and State Representative Laurie Pohutsky endorsed Jocelyn Benson for governor.
+Read more Jan 30 2026 PRESS RELEASE ICYMI: Benson Zeroes in on Affordability and Lowering Costs in Campaign for Governor New reporting from POLITICO details gubernatorial candidate Jocelyn Benson’s laser focus on lowering costs for Michiganders.
 Benson is the only candidate in the race with real plans to lower costs.
-PRESS RELEASE
-Benson Speaks at Northern Michigan Chamber, Meets with Michiganders, Visits Local Health Clinic
-Today, Secretary of State Jocelyn Benson spoke at the Northern Michigan Chamber sharing her plans about what it will take to ensure Michigan is the best place to be a kid, raise a kid, call home, and start and grow a business.
-PRESS RELEASE
-State Reps., Mayors, City Leaders Join Broad and Growing Coalition Endorsing Jocelyn Benson
-Today, elected and local leaders across Michigan endorsed Jocelyn Benson for governor joining a broad and growing coalition of Michiganders rallying behind her campaign.
+Read more Jan 29 2026 PRESS RELEASE Benson Speaks at Northern Michigan Chamber, Meets with Michiganders, Visits Local Health Clinic Today, Secretary of State Jocelyn Benson spoke at the Northern Michigan Chamber sharing her plans about what it will take to ensure Michigan is the best place to be a kid, raise a kid, call home, and start and grow a business.
+Read more Jan 23 2026 PRESS RELEASE State Reps., Mayors, City Leaders Join Broad and Growing Coalition Endorsing Jocelyn Benson Today, elected and local leaders across Michigan endorsed Jocelyn Benson for governor joining a broad and growing coalition of Michiganders rallying behind her campaign.
 Endorsements include State Reps.
 Morgan Foreman, Stephen Wooden, Jason Hoskins, the Mayors of Royal Oak and Farmington Hills, and city council members.
-PRESS RELEASE
-In Lansing, Majority Leader Winnie Brinks Endorses Jocelyn Benson for Michigan Governor
-Today, State Senate Majority Leader Winnie Brinks formally endorsed Secretary of State Jocelyn Benson for governor during a press conference in Lansing.
+Read more Jan 23 2026 PRESS RELEASE In Lansing, Majority Leader Winnie Brinks Endorses Jocelyn Benson for Michigan Governor Today, State Senate Majority Leader Winnie Brinks formally endorsed Secretary of State Jocelyn Benson for governor during a press conference in Lansing.
 The Secretary and Leader Brinks laid out the stakes of the 2026 election and the importance of electing Democrats up and down the ballot in November.
-PRESS RELEASE
-Michigan Association for Justice Endorses Jocelyn Benson for Governor
-Today, the Michigan Association for Justice (MAJ) endorsed Jocelyn Benson for Governor.
-PRESS RELEASE
-Detroit’s Former U.S.
-Congresswoman Brenda Lawrence Endorses Jocelyn Benson for Governor
-Today, Detroit's former U.S.
+Read more Jan 22 2026 PRESS RELEASE Michigan Association for Justice Endorses Jocelyn Benson for Governor Today, the Michigan Association for Justice (MAJ) endorsed Jocelyn Benson for Governor.
+Read more Jan 21 2026 PRESS RELEASE Detroit’s Former U.S.
+Congresswoman Brenda Lawrence Endorses Jocelyn Benson for Governor Today, Detroit's former U.S.
 Congresswoman Brenda Lawrence endorsed Jocelyn Benson for Governor.
-PRESS RELEASE
-Michigan Democratic Party Black Caucus Endorses Jocelyn Benson for Governor
-Today, the Michigan Democratic Party Black Caucus has proudly endorsed Secretary of State Jocelyn Benson for Governor of Michigan.
-PRESS RELEASE
-Detroit Rev.
-Horace Sheffield Endorses Jocelyn Benson for Governor
-Today, Reverend Horace Sheffield, a longtime community activist, pastor, and radio host in Detroit, endorsed Jocelyn Benson for Governor of Michigan...
-PRESS RELEASE
-Jocelyn Benson for Governor Rolls Out Healthcare Affordability Agenda
-"Every day we don't tackle this crisis is another day Michigan families are choosing between prescriptions and groceries." Today, gubernatorial candidate Jocelyn Benson unveiled her...
-PRESS RELEASE
-Southwest Michigan Leaders Endorse Jocelyn Benson for Governor
-Today, South West Michigan leaders including the Mayor of St.
+Read more Jan 20 2026 PRESS RELEASE Michigan Democratic Party Black Caucus Endorses Jocelyn Benson for Governor Today, the Michigan Democratic Party Black Caucus has proudly endorsed Secretary of State Jocelyn Benson for Governor of Michigan.
+Read more Jan 13 2026 PRESS RELEASE Detroit Rev.
+Horace Sheffield Endorses Jocelyn Benson for Governor Today, Reverend Horace Sheffield, a longtime community activist, pastor, and radio host in Detroit, endorsed Jocelyn Benson for Governor of Michigan...
+Read more Jan 10 2026 PRESS RELEASE Jocelyn Benson for Governor Rolls Out Healthcare Affordability Agenda "Every day we don't tackle this crisis is another day Michigan families are choosing between prescriptions and groceries." Today, gubernatorial candidate Jocelyn Benson unveiled her...
+Read more Jan 8 2026 PRESS RELEASE Southwest Michigan Leaders Endorse Jocelyn Benson for Governor Today, South West Michigan leaders including the Mayor of St.
 Joseph, school board members, and the president of the Michigan Alliance for Retired Americans endorsed Jocelyn Benson for Governor.
 These...
-PRESS RELEASE
-OP-ED: Secretary of State Jocelyn Benson Calls Out Trump, Michigan Republicans for Continuing to Sow
-Today, Secretary of State and gubernatorial candidate Jocelyn Benson published an op-ed in MS NOW criticizing Donald Trump’s recent pardons, which she says send a “green light” to election deniers throughout the country and those running...
-PRESS RELEASE
-WATCH: Secretary of State Jocelyn Benson Calls Trump Pardons a “Green Light” to “Undermine our Elections
-Last night, Michigan Secretary of State and gubernatorial candidate Jocelyn Benson warned that President Trump’s pardons of 2020 election deniers send a dangerous “green light” to those who would use lies and conspiracy theories to undermine...
-PRESS RELEASE
-Jocelyn Benson Touts Campaign Milestones, Lays Out Vision for Michigan at “One Year Out” Campaign Event
-“I will work tirelessly every day to ensure that every Michigander knows, no matter what party they belong to, no matter where they live, that I work for them.” Yesterday, gubernatorial candidate Jocelyn Benson rallied close...
-PRESS RELEASE
-Benson for Governor Announces Record-Breaking $4.7 Million Haul Since Launch
-Secretary of State and gubernatorial candidate Jocelyn Benson reports another historic haul of $1.2 million raised this period, bringing her total fundraising to...
-PRESS RELEASE
-Jocelyn Benson, Teamsters Members Call Out GOP Healthcare Cuts in State Budget
-This morning, Jocelyn Benson joined five Teamsters presidents and their members from across the state in Lansing to speak out against the House Republican state budget proposal.
+Read more Dec 23 2025 PRESS RELEASE OP-ED: Secretary of State Jocelyn Benson Calls Out Trump, Michigan Republicans for Continuing to Sow Today, Secretary of State and gubernatorial candidate Jocelyn Benson published an op-ed in MS NOW criticizing Donald Trump’s recent pardons, which she says send a “green light” to election deniers throughout the country and those running...
+Read more Nov 19 2025 PRESS RELEASE WATCH: Secretary of State Jocelyn Benson Calls Trump Pardons a “Green Light” to “Undermine our Elections Last night, Michigan Secretary of State and gubernatorial candidate Jocelyn Benson warned that President Trump’s pardons of 2020 election deniers send a dangerous “green light” to those who would use lies and conspiracy theories to undermine...
+Read more Nov 11 2025 PRESS RELEASE Jocelyn Benson Touts Campaign Milestones, Lays Out Vision for Michigan at “One Year Out” Campaign Event “I will work tirelessly every day to ensure that every Michigander knows, no matter what party they belong to, no matter where they live, that I work for them.” Yesterday, gubernatorial candidate Jocelyn Benson rallied close...
+Read more Nov 7 2025 PRESS RELEASE Benson for Governor Announces Record-Breaking $4.7 Million Haul Since Launch Benson raised $# million since July, maintains nearly $# million cash on hand .
+Secretary of State and gubernatorial candidate Jocelyn Benson reports another historic haul of $# million raised this period, bringing her total fundraising to...
+Read more Oct 27 2025 PRESS RELEASE Jocelyn Benson, Teamsters Members Call Out GOP Healthcare Cuts in State Budget This morning, Jocelyn Benson joined five Teamsters presidents and their members from across the state in Lansing to speak out against the House Republican state budget proposal.
 The House’s state budget would threaten healthcare workers and...
-PRESS RELEASE
-Majority of Teamsters Members Endorse Jocelyn Benson for Governor
-Five of the ten affiliated locals representing a majority of Teamsters in Michigan announced their support today.
+Read more Sep 24 2025 PRESS RELEASE Majority of Teamsters Members Endorse Jocelyn Benson for Governor Five of the ten affiliated locals representing a majority of Teamsters in Michigan announced their support today.
 Today, half of the affiliated Teamsters locals from Detroit to Grand Rapids endorsed Jocelyn Benson for Governor.
 Teamster Locals...
-PRESS RELEASE
-WATCH: Jocelyn Benson Calls Out Michigan House GOP for Disastrous Budget Proposal, Urges Bipartisan Solutions
-In the aftermath of the Michigan House GOP’s vote to advance a state budget that would slash education resources, food and child care assistance, and other programs essential to Michiganders’ well-being, Secretary of State Jocelyn Benson...
-PRESS RELEASE
-Michigan Laborers’ District Council (LiUNA) Endorses Jocelyn Benson for Governor
-Today, the Michigan Laborers’ District Council (LiUNA), which represents over 14,000 members who build our state’s roads, bridges, transit, and energy sources, endorsed Secretary of State Jocelyn Benson as the next Governor of Michigan.
+Read more Sep 17 2025 PRESS RELEASE WATCH: Jocelyn Benson Calls Out Michigan House GOP for Disastrous Budget Proposal, Urges Bipartisan Solutions In the aftermath of the Michigan House GOP’s vote to advance a state budget that would slash education resources, food and child care assistance, and other programs essential to Michiganders’ well-being, Secretary of State Jocelyn Benson...
+Read more Sep 9 2025 PRESS RELEASE Michigan Laborers’ District Council (LiUNA) Endorses Jocelyn Benson for Governor Today, the Michigan Laborers’ District Council (LiUNA), which represents over 14,000 members who build our state’s roads, bridges, transit, and energy sources, endorsed Secretary of State Jocelyn Benson as the next Governor of Michigan.
 In their...
-PRESS RELEASE
-ICYMI: Benson Has Strongest Fundraising Haul of the Field, Most Cash on Hand
-Today, after all candidates filed Benson Campaign Manager Nikki Goldschein released the following statement: “Today’s fundraising reports make clear that Jocelyn Benson is the strongest candidate to win the Democratic primary for Governor and take on
-PRESS RELEASE
-Benson for Governor Reports Record Breaking $3.5 Million Raised
-Benson has $2.4 million cash on hand, doubling and tripling the amounts her Democratic opponents raised in the same filing period.
-PRESS RELEASE
-State Rep.
-Emily Dievendorf, Ann Arbor Mayor, Dozens of Local Leaders Across Michigan Endorse Jocelyn Benson for Governor
-Following a two week statewide tour to talk with Michiganders about her plans to make sure everyone can afford a home, students have a world class education, and Michiganders don’t have to choose between paying their...
-PRESS RELEASE
-Wayne County Prosecutor Kym Worthy Endorses Jocelyn Benson for Governor
-oday, Wayne County Prosecutor Kym Worthy endorsed Jocelyn Benson for Governor of Michigan.
+Read more Aug 28 2025 PRESS RELEASE ICYMI: Benson Has Strongest Fundraising Haul of the Field, Most Cash on Hand Today, after all candidates filed Benson Campaign Manager Nikki Goldschein released the following statement: “Today’s fundraising reports make clear that Jocelyn Benson is the strongest candidate to win the Democratic primary for Governor and take on Read more Jul 25 2025 PRESS RELEASE Benson for Governor Reports Record Breaking $# Million Raised Benson has $# million cash on hand, doubling and tripling the amounts her Democratic opponents raised in the same filing period.
+Jocelyn Benson has raised over $# million since launching her campaign for Governor in January—more...
+Read more Jul 24 2025 PRESS RELEASE State Rep.
+Emily Dievendorf, Ann Arbor Mayor, Dozens of Local Leaders Across Michigan Endorse Jocelyn Benson for Governor Following a two week statewide tour to talk with Michiganders about her plans to make sure everyone can afford a home, students have a world class education, and Michiganders don’t have to choose between paying their...
+Read more Jul 23 2025 PRESS RELEASE Wayne County Prosecutor Kym Worthy Endorses Jocelyn Benson for Governor oday, Wayne County Prosecutor Kym Worthy endorsed Jocelyn Benson for Governor of Michigan.
 “I’m incredibly grateful for the support of Prosecutor Worthy in this campaign,” said Jocelyn Benson.
 “She is the epitome of legal courage...
-PRESS RELEASE
-Detroit State Rep.
-Tonya Myers Phillips Endorses Jocelyn Benson for Governor
-Yesterday, on the last day of Benson for Governor’s Thrive in Michigan tour, State Rep.
+Read more Jul 10 2025 PRESS RELEASE Detroit State Rep.
+Tonya Myers Phillips Endorses Jocelyn Benson for Governor Yesterday, on the last day of Benson for Governor’s Thrive in Michigan tour, State Rep.
 Tonya Myers Phillips joined endorsed Jocelyn Benson for Governor of Michigan at an intimate community conversation with nearly 40 Black women...
-PRESS RELEASE
-Jocelyn Benson Previews Education Agenda at Saginaw Roundtable with Education Leaders, Parents, Students
-“Just like I reformed our Secretary of State offices, I know how to take on big issues in education and get things done.” Yesterday, gubernatorial candidate Jocelyn Benson previewed her comprehensive plan to bring Michigan’s public...
-PRESS RELEASE
-Benson Makes Stops in Northern and Western Michigan, Shares Thrive in Michigan Agenda with Hundreds
-This week, Secretary of State Jocelyn Benson joined local leaders across Northern and Western Michigan – including Traverse City Mayor Amy Shamroe, Muskegon Mayor Ken Johnson, Muskegon Vice Mayor Rebecca St.
+Read more Jul 3 2025 PRESS RELEASE Jocelyn Benson Previews Education Agenda at Saginaw Roundtable with Education Leaders, Parents, Students “Just like I reformed our Secretary of State offices, I know how to take on big issues in education and get things done.” Yesterday, gubernatorial candidate Jocelyn Benson previewed her comprehensive plan to bring Michigan’s public...
+Read more Jun 26 2025 PRESS RELEASE Benson Makes Stops in Northern and Western Michigan, Shares Thrive in Michigan Agenda with Hundreds This week, Secretary of State Jocelyn Benson joined local leaders across Northern and Western Michigan – including Traverse City Mayor Amy Shamroe, Muskegon Mayor Ken Johnson, Muskegon Vice Mayor Rebecca St.
 Clair, Cadillac Mayor Antoinette Schippers...
-PRESS RELEASE
-ICYMI: Secretary of State Jocelyn Benson Highlights Thrive in Michigan Agenda in Bear Lake
-This week, Secretary of State Jocelyn Benson launched her statewide Thrive in Michigan tour to share her plans to make Michigan the best place to be a kid, raise a kid, and call home.
+Read more Jun 20 2025 PRESS RELEASE ICYMI: Secretary of State Jocelyn Benson Highlights Thrive in Michigan Agenda in Bear Lake This week, Secretary of State Jocelyn Benson launched her statewide Thrive in Michigan tour to share her plans to make Michigan the best place to be a kid, raise a kid, and call home.
 Achieving that...
-PRESS RELEASE
-Secretary of State Jocelyn Benson Remarks at Juneteenth Prayer Breakfast with Benton Harbor Mayor Marcus Muhammad
-Celebrating Juneteenth and highlighting the challenges we must continue to fight for, Jocelyn Benson delivered the following remarks at a prayer breakfast with Benton Harbor Mayor Marcus Muhammad and other community leaders: “Juneteenth is important...
-PRESS RELEASE
-ICYMI: Secretary of State Jocelyn Benson Addresses Housing Affordability Crisis in Traverse City Townhall
-This week, Secretary of State Jocelyn Benson launched her statewide Thrive in Michigan tour on Monday with a townhall in Traverse City.
+Read more Jun 20 2025 PRESS RELEASE Secretary of State Jocelyn Benson Remarks at Juneteenth Prayer Breakfast with Benton Harbor Mayor Marcus Muhammad Celebrating Juneteenth and highlighting the challenges we must continue to fight for, Jocelyn Benson delivered the following remarks at a prayer breakfast with Benton Harbor Mayor Marcus Muhammad and other community leaders: “Juneteenth is important...
+Read more Jun 19 2025 PRESS RELEASE ICYMI: Secretary of State Jocelyn Benson Addresses Housing Affordability Crisis in Traverse City Townhall This week, Secretary of State Jocelyn Benson launched her statewide Thrive in Michigan tour on Monday with a townhall in Traverse City.
 Top of mind for residents: Housing.
 Too many families and young people...
-PRESS RELEASE
-Jocelyn Benson to Kick Off Statewide “Thrive in Michigan” Tour
-On Monday, June 16, 2025, Jocelyn Benson, candidate for Michigan governor, will kick off a statewide tour to unveil her “Thrive in Michigan” agenda to make Michigan the best place to be a kid, raise a...
-PRESS RELEASE
-Benson Campaign Statement on the GOP’s Desperate Attacks Against Jocelyn Benson
-After a new poll released last week showing Jocelyn Benson as the gubernatorial frontrunner, Republicans are continuing their baseless attacks against her.
+Read more Jun 18 2025 PRESS RELEASE Jocelyn Benson to Kick Off Statewide “Thrive in Michigan” Tour On Monday, June 16, 2025, Jocelyn Benson, candidate for Michigan governor, will kick off a statewide tour to unveil her “Thrive in Michigan” agenda to make Michigan the best place to be a kid, raise a...
+Read more Jun 8 2025 PRESS RELEASE Benson Campaign Statement on the GOP’s Desperate Attacks Against Jocelyn Benson After a new poll released last week showing Jocelyn Benson as the gubernatorial frontrunner, Republicans are continuing their baseless attacks against her.
 Benson campaign manager Nikki Goldschein released the following statement: “Michiganders are tired of Republican lawmakers wasting time and taxpayer dollars...
-PRESS RELEASE
-Association of Flight Attendants-CWA Endorses Jocelyn Benson for Governor
-Today, the Association of Flight Attendants-CWA, representing thousands of Michiganders across 20 airlines, endorsed Jocelyn Benson in the race for Governor of Michigan.
+Read more Jun 3 2025 PRESS RELEASE Association of Flight Attendants-CWA Endorses Jocelyn Benson for Governor Today, the Association of Flight Attendants-CWA, representing thousands of Michiganders across 20 airlines, endorsed Jocelyn Benson in the race for Governor of Michigan.
 “I’ll always stand with workers – and that includes the flight attendants...
-PRESS RELEASE
-Jocelyn Benson, Fems for Dems, Hold Women’s History Month Event With Over 250 Women in Southfield
-Yesterday in Southfield, to wrap up Women’s History Month, Secretary Jocelyn Benson joined over 250 Fems for Dems members for a community conversation to celebrate the strength and resilience of women in Michigan with the spirit...
-PRESS RELEASE
-UFCW Local 951, Representing 30,000 Michiganders, Endorses Jocelyn Benson for Governor
-Today, the United Food and Commercial Workers union Local 951, the largest private sector union in Michigan, announced their endorsement of Jocelyn Benson’s run for governor.
+Read more Apr 18 2025 PRESS RELEASE Jocelyn Benson, Fems for Dems, Hold Women’s History Month Event With Over 250 Women in Southfield Yesterday in Southfield, to wrap up Women’s History Month, Secretary Jocelyn Benson joined over 250 Fems for Dems members for a community conversation to celebrate the strength and resilience of women in Michigan with the spirit...
+Read more Mar 25 2025 PRESS RELEASE UFCW Local 951, Representing 30,000 Michiganders, Endorses Jocelyn Benson for Governor Today, the United Food and Commercial Workers union Local 951, the largest private sector union in Michigan, announced their endorsement of Jocelyn Benson’s run for governor.
 “I am proud to stand with the largest union in...
-PRESS RELEASE
-Benson for Governor Has Nearly $2 Million War Chest as New Poll Confirms Benson is the Frontrunner in 2026
-Jocelyn Benson has grown her war chest to $1.9 million since launching her campaign for Governor.
-With over 14,000 individual contributions and an average donation of $47 since the campaign’s January 22 launch, Secretary Benson’s vision...
-PRESS RELEASE
-Jocelyn Benson Dominates in New Poll, Clear Frontrunner in 2026 Governor’s Race
-A new poll conducted by Target Insyght on behalf of MIRS News shows Jocelyn Benson is the overwhelming favorite in the Democratic primary for governor and is far ahead of the Republican and Independent candidates in the November...
-PRESS RELEASE
-Former U.S.
-Capitol Police Officers Endorse Jocelyn Benson for Governor
-Today, former U.S.
+Read more Mar 10 2025 PRESS RELEASE Benson for Governor Has Nearly $2 Million War Chest as New Poll Confirms Benson is the Frontrunner in 2026 Jocelyn Benson has grown her war chest to $# million since launching her campaign for Governor.
+With over 14,000 individual contributions and an average donation of $# since the campaign’s January 22 launch, Secretary Benson’s vision...
+Read more Mar 10 2025 PRESS RELEASE Jocelyn Benson Dominates in New Poll, Clear Frontrunner in 2026 Governor’s Race A new poll conducted by Target Insyght on behalf of MIRS News shows Jocelyn Benson is the overwhelming favorite in the Democratic primary for governor and is far ahead of the Republican and Independent candidates in the November...
+Read more Mar 8 2025 PRESS RELEASE Former U.S.
+Capitol Police Officers Endorse Jocelyn Benson for Governor Today, former U.S.
 Capitol Hill officer Harry Dunn and former Sergeant Aquilino Gonnell endorsed Secretary of State Jocelyn Benson for Michigan Governor.
 These officers protected the U.S.
 Capitol on January 6, 2021 from violent protestors and...
-PRESS RELEASE
-Jocelyn Benson Statement on Donald Trump Pausing Federal Dollars for Thousands of Working of Michiganders
-In response to Donald Trump’s complete disregard for working Michiganders who rely on federal funding for healthcare, housing, food, and more, Jocelyn Benson released the following statement: “President Trump’s sweeping, nonsensical decision to pause critical federal...
-PRESS RELEASE
-ICYMI: Jocelyn Benson Launches Gubernatorial Campaign with Momentum and Support Across Michigan
-Secretary of State Jocelyn Benson kicked off her gubernatorial campaign last week with overwhelming support from Michiganders across the state.
-She made her vision for the future of Michigan clear in her campaign ad “Fair Shot”...
-PRESS RELEASE
-End Citizens United Endorses Jocelyn Benson for Governor
-Today, End Citizens United (ECU) endorsed Secretary of State Jocelyn Benson for Michigan Governor.
+Read more Feb 4 2025 PRESS RELEASE Jocelyn Benson Statement on Donald Trump Pausing Federal Dollars for Thousands of Working of Michiganders In response to Donald Trump’s complete disregard for working Michiganders who rely on federal funding for healthcare, housing, food, and more, Jocelyn Benson released the following statement: “President Trump’s sweeping, nonsensical decision to pause critical federal...
+Read more Jan 28 2025 PRESS RELEASE ICYMI: Jocelyn Benson Launches Gubernatorial Campaign with Momentum and Support Across Michigan Secretary of State Jocelyn Benson kicked off her gubernatorial campaign last week with overwhelming support from Michiganders across the state.
+She made her vision for the future of Michigan clear in her campaign ad “ Fair Shot ”...
+Read more Jan 27 2025 PRESS RELEASE End Citizens United Endorses Jocelyn Benson for Governor Today, End Citizens United (ECU) endorsed Secretary of State Jocelyn Benson for Michigan Governor.
 “Secretary Benson has consistently demonstrated the courage and commitment needed to move Michigan forward in these unprecedented times,” said End Citizens United...
-PRESS RELEASE
-EMILYs List Endorses Jocelyn Benson for Governor
-Today, EMILY’s List, the nation’s largest resource for women in politics, endorsed Jocelyn Benson in the race for Governor of Michigan.
+Read more Jan 23 2025 PRESS RELEASE EMILYs List Endorses Jocelyn Benson for Governor Today, EMILY’s List, the nation’s largest resource for women in politics, endorsed Jocelyn Benson in the race for Governor of Michigan.
 “EMILYs List is proud to support Jocelyn Benson...
-PRESS RELEASE
-Michigan State Lawmakers Endorse Jocelyn Benson for Governor
-On the heels of Secretary of State Jocelyn Benson’s gubernatorial kick-off, Democratic state lawmakers endorsed Secretary Benson for Governor.
+Read more Jan 23 2025 PRESS RELEASE Michigan State Lawmakers Endorse Jocelyn Benson for Governor On the heels of Secretary of State Jocelyn Benson’s gubernatorial kick-off, Democratic state lawmakers endorsed Secretary Benson for Governor.
 Her endorsers include Democratic members of the legislature from across Michigan.
 “I am incredibly honored...
+Read more Jan 23 2025 PRESS RELEASE Michigan Secretary of State Jocelyn Benson Announces Run for Governor DETROIT – Today, Secretary of State Jocelyn Benson announced her run for Governor of Michigan.
+“I am running for Governor because our state needs a bold leader who will save all Michiganders time and money, deliver...
+Read more Jan 22 2025 Donate By Mail Jocelyn Benson for Governor 23133 Woodward Ave, Number 116 Ferndale, MI 48220 Powered by RUN! website builder Paid for by Jocelyn Benson for Governor, 23133 Woodward Ave, Number 116, Ferndale, MI 48220 You need to enable JavaScript to run this app.

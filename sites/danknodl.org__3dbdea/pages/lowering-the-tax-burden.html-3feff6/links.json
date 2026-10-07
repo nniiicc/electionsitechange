@@ -1,12 +1,50 @@
 [
-"https://danknodl.org/",
-"https://danknodl.org/about-dan.html",
-"https://danknodl.org/contact.html",
-"https://danknodl.org/creating-opportunities.html",
-"https://danknodl.org/education.html",
-"https://danknodl.org/issues.html",
-"https://danknodl.org/lowering-the-tax-burden.html",
-"https://danknodl.org/reining-in-government-overreach.html",
-"https://danknodl.org/safe-communities.html",
-"https://secure.winred.com/knodl-for-senate"
+{
+"text": "About",
+"href": "https://www.danknodl.org/about-dan.html"
+},
+{
+"text": "About Dan",
+"href": "https://www.danknodl.org/about-dan.html"
+},
+{
+"text": "Contact",
+"href": "https://www.danknodl.org/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/knodl-for-senate"
+},
+{
+"text": "Creating Opportunities",
+"href": "https://www.danknodl.org/creating-opportunities.html"
+},
+{
+"text": "Education",
+"href": "https://www.danknodl.org/education.html"
+},
+{
+"text": "Home",
+"href": "https://www.danknodl.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.danknodl.org/issues.html"
+},
+{
+"text": "Issues >",
+"href": "https://www.danknodl.org/issues.html"
+},
+{
+"text": "Lowering the Tax Burden",
+"href": "https://www.danknodl.org/lowering-the-tax-burden.html"
+},
+{
+"text": "Reining in Government Overreach",
+"href": "https://www.danknodl.org/reining-in-government-overreach.html"
+},
+{
+"text": "Safe Communities",
+"href": "https://www.danknodl.org/safe-communities.html"
+}
 ]

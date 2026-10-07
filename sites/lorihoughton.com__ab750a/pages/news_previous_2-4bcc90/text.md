@@ -1,9 +1,9 @@
-| Well, it’s nearly a wrap on the first half of the biennium.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources 2025 Legislative Session: A Year in Review 6/6/2025 0 Comments Well, it’s nearly a wrap on the first half of the biennium.
 We have done hard and meaningful work this session– all while keeping up to speed on the rapidly changing federal landscape and how those changes will impact Vermonters.
-Consensus in this work doesn’t always come easy, but we all have a shared commitment to making Vermont a stronger, healthier and more affordable place to call home.
+Consensus in this work doesn’t always come easy, but we all have a shared commitment to making Vermont a stronger, healthier and more affordable place to call home .
 At times, the path to getting there has been long but we are taking concrete steps like lowering health care costs and transforming our system of care.
 This session, we created a new program to help our most vulnerable secure housing and social services to help them in their greatest time of need.
-We passed a transformative housing bill that acknowledges the current need for not only more housing–but affordable housing.
+We passed a transformative housing bill that acknowledges the current need for not only more housing–but affordable housing .
 Our priorities have been clear from the start, but we still have more work ahead of us.
 We remain focused on our commitment to a public education system that is safe, consistent, and provides a quality education for all Vermont kids while bending the cost curve for Vermonters.
 This policy is too important to rush through in the wee hours of the morning, so, we will back back on June 16th to continue our hard work in collaboration with the Governor and the Senate.
@@ -15,7 +15,7 @@ We know that many of you are concerned about impacts to Vermont’s state budget
 It’s so challenging to fully understand what this will look like, but we will do our best to keep you up to speed!
 Vermont is actively responding to federal policy shifts as developments become known.
 State Treasurer Mike Pieciak has established a task force to assess the economic impact of these policy changes on Vermont’s economy.
-For more information, follow this link: Vermont's Task Force on Federal Impacts.
+For more information, follow this link: Vermont's Task Force on Federal Impacts .
 Additionally, the Essex House Delegation hosted a Community Forum on Monday, June 2nd with three of our statewide elected leaders, Secretary of State Sarah Copeland-Hanzas, Attorney General Charity Clark and Treasurer Mike Pieciak, to discuss this topic in more detail.
 The forum was recorded by Town Meeting TV and coverage is available at this link: https://www.cctv.org/watch-tv/programs/essex-community-forum-impact-federal-actions-vermont Highlights from Session Priorities: Education, Housing & Healthcare EDUCATION: H454 This is the priority issue that we will focus on when we return to the Statehouse on June 16th.
 We know this has been a hot button issue across the state– and we know that in order to address rising property taxes, we must look at the ways we fund our education system.
@@ -30,14 +30,21 @@ Their collective expertise and forthcoming public engagement process are essenti
 We know that class size is pivotal in Vermont’s education policy decisions, especially given our rural context, declining enrollment, and fiscal challenges.
 Average class sizes in Vermonter are already smaller than those outlined in education research, and small class sizes can create challenges for effective instruction.
 We want all our students to have access to abundant opportunities, while limiting consolidation where it makes sense.
-So far, those numbers look like this: Proposed class size minimums: HEALTHCARE: The legislature has acted on multiple fronts—affordability, access, and accountability—to stabilize Vermont’s healthcare system and prepare for an uncertain federal funding landscape.
+So far, those numbers look like this: Proposed class size minimums: Kindergarten/1st grade: 10 students 2nd–5th grades: 12 students 6th–8th grades: 15 students 9th–12th grades: 18 students Additionally, the need for more statewide cohesion around graduation standards is clear.
+These standards will benefit our system and CTE students in particular.
+As public schools face transformative change, we are looking critically at all the places we’re investing public dollars.
+Our current system fragments our public dollars in many directions, including out of state and out of country.
+The current House proposal both recognizes the important historical role of independent schools in areas of the state that do not fully operate grades K-12 but also puts important guardrails on our current system.
+It provides for a multi-year transition to ensure current learning is not disrupted as we transform the system.
+We are hopeful we can strike a balance in this work that honors Vermont’s entire education ecosystem.
+HEALTHCARE: The legislature has acted on multiple fronts—affordability, access, and accountability—to stabilize Vermont’s healthcare system and prepare for an uncertain federal funding landscape.
 These measures aim to protect patients, support providers, and ensure the long-term sustainability of healthcare delivery in the state.
-In response to growing concerns the Health Care Committee has advanced a series of impactful bills this session: H.35: Unmerges the individual and small group insurance markets to reduce premiums for small businesses.
+In response to growing concerns the Health Care Committee has advanced a series of impactful bills this session: H.35 : Unmerges the individual and small group insurance markets to reduce premiums for small businesses.
 With federal subsidies for the individual market set to expire at the end of 2025, this change helps offset potential cost increases for Vermonters.
 Signed into law.
-H.96: Raises the threshold for Certificates of Need, making it easier and less costly for healthcare facilities to pursue new projects—ultimately reducing expenses passed on to patients.
+H.96 : Raises the threshold for Certificates of Need , making it easier and less costly for healthcare facilities to pursue new projects—ultimately reducing expenses passed on to patients.
 Signed into law.
-H.266: Initially aimed at protecting 340B pharmacies, it was amended to cap excessive drug markups by hospitals.
+H.266 : Initially aimed at protecting 340B pharmacies, it was amended to cap excessive drug markups by hospitals .
 Vermont had been charging commercial insurers up to 600% over average sales price; the bill now limits prices to 130% of Medicare's average sales price, effective 2026.
 Delivered to the Governor June 5th, awaiting his decision.
 Perhaps the most impactful policy passed out of Healthcare this year is S.126.
@@ -53,9 +60,11 @@ It holds AHS accountable for the work and timeline required in ACT 167 around ho
 Most of all, this bill is about urgency and accountability.
 In the process of being delivered to the Governor.
 HOUSING: This year the legislature has been highly focused on work to address our severe shortage in housing stock.
-Our housing crisis calls for immediate and long-term solutions, which we have addressed in our landmark housing bill, S. 127.
+Our housing crisis calls for immediate and long-term solutions, which we have addressed in our landmark housing bill, S.
+127.
 This bill is a comprehensive proposal aimed at addressing housing shortages and improving housing accessibility, affordability, and infrastructure in Vermont.
-S. 127 introduces new programs to incentivize rental housing rehabilitation, manufactured home improvements, infrastructure development, and protections for the vulnerable.
+S.
+127 introduces new programs to incentivize rental housing rehabilitation, manufactured home improvements, infrastructure development, and protections for the vulnerable.
 Finally, the bill creates the Community and Housing Infrastructure Program (CHIP), a tax increment financing program, for municipalities and private developers to finance housing infrastructure projects in both rural and urban regions, to support the creation of up to 3,750 new units per year over the next 10 years.
 In the process of being delivered to the Governor.
 MEETING THE COMPREHENSIVE HOUSING NEEDS OF OUR MOST VULNERABLE: Through H.91, the legislature has set Vermont up to transition from a system rooted in emergency motel vouchers managed by the Department for Children and Families to a more comprehensive, sustainable program based in communities.
@@ -70,7 +79,9 @@ This bill is now in the Senate to be passed out during the June 16th and 17th se
 Earned Income Tax Credit (EITC) – expands the Vermont EITC for individuals without children from 38% of the federal EITC to 100% so folks who are working can receive more of their money back at tax time.
 Child Tax Credit – raises the age limit for children who create a tax credit for their families from 5 to 6 years old.
 This tax credit is the most powerful piece of legislation to reduce childhood poverty passed in the last 25 years.
+Expansion of Social Security income limits – the income limits for taxpayers who are eligible to receive an income tax exemption on their social security income are raised from $50,000 to $55,000 (with a phase out up to $65,000) for individuals and from $65,000 to $70,000 (with a phase out up to $80,000) for joint filers.
 The vast majority of older Vermonters pay no taxes on their hard earned social security under this proposal.
+Expansion of Civil Service Retirement System (CSRS) income limits – the income limits for taxpayers who are eligible to exempt the first $10,000 of their CSRS income from income tax are raised from $50,000 to $55,000 (with a phase out up to $65,000) for individuals and from $65,000 to $70,000 (with a phase out up to $80,000) for joint filers.
 Military Pension and Survivor Benefits Exemption – Military retirees and their survivors with income of $125,000 or less will be able to exempt their military pension and survivor benefits from income tax.
 For income above $125,000, the exemption phases out until at $175,000 of income, the benefits are no longer exempt.
 Military retirees will no longer have to choose between taking their military pension exemption or their social security exemption but can exempt both as long as they qualify under the income limitations.
@@ -94,17 +105,9 @@ Signed into law.
 Act 8 expands Vermont’s hate-motivated crimes statute.
 It more accurately captures the conduct that such a statute is intended to penalize by expanding the scope of who can be considered a victim of a hate crime.
 Hateful conduct is not acceptable.
-Act 8 helps ensure that such conduct can be named and prosecuted effectively.
-Kindergarten/1st grade: 10 students 2nd–5th grades: 12 students 6th–8th grades: 15 students 9th–12th grades: 18 students Additionally, the need for more statewide cohesion around graduation standards is clear.
-These standards will benefit our system and CTE students in particular.
-As public schools face transformative change, we are looking critically at all the places we’re investing public dollars.
-Our current system fragments our public dollars in many directions, including out of state and out of country.
-The current House proposal both recognizes the important historical role of independent schools in areas of the state that do not fully operate grades K-12 but also puts important guardrails on our current system.
-It provides for a multi-year transition to ensure current learning is not disrupted as we transform the system.
-We are hopeful we can strike a balance in this work that honors Vermont’s entire education ecosystem.
-The community forum on Monday, June 2, was a huge success.
+Act 8 helps ensure that such conduct can be named and prosecuted effectively. ​ 0 Comments COMMUNITY FORUM ON THE IMPACT OF FEDERAL ACTIONS ON VERMONT - JUNE 2ND 2025 6/5/2025 0 Comments The community forum on Monday, June 2, was a huge success.
 Thank you to everyone who attended.
-If you could not join us, you can still watch the recording on CCTV.
+If you could not join us, you can still watch the recording on CCTV .
 It was wonderful to be joined by Attorney General Charity Clark, Secretary of State Sarah Copeland Hanzas, and Treasurer Mike Pieciak, all of whom shared so much information about how Vermont is both preparing for and fighting back against the destructive actions at the federal level.
 Thank you to the incredible staff at the Essex Cinema and the Essex Experience for hosting the event and to CCTV for recording it and making it possible for us to share it statewide.
 A lot of information was shared at the event.
@@ -112,15 +115,14 @@ My post has links to the resources.
 Attorney General Clark Actions Taken Against the Trump Administration Vermont Asylum Assistance Project – Know Your Rights Vermont Medical Society – Resources on Immigration Enforcement Secretary of State Copeland Hanzas Press Release on Elections Executive Order Civic Engagement & Education Resources Elections & Voter Resources Treasurer Pieciak Task Force on Federal Transition AARP – Social Security Advocacy & Assistance Trump Tariffs Impact on Vermont Press Release Vermont Immigration Legal Defense Fund Vermont General Assembly JFO Federal Funds Under Trump Administration Overview of Federal Funds in VT Budget How Proposed Changes to Federal Safety Net Programs Could Affect the States Joint Resolution Supporting Vermont's Transgender & Non-Binary Community Information about Immunizations and Reproductive Health Care Thank you again for joining us.
 We hope this information is helpful.
 As always, don't hesitate to reach out to us with any questions or concerns.
-The rain held off Saturday for another wonderful Essex Memorial Day Parade.
+0 Comments House Update and Community Forum Invite 5/25/2025 0 Comments The rain held off Saturday for another wonderful Essex Memorial Day Parade.
 I’m grateful for the organizers and volunteers who make this event happen year after year so we can come together to honor and remember those who have paid the ultimate sacrifice protecting our freedoms.
 The legislature is winding up its work (hopefully this week!).
 Rep.
 Dolan and I will share an End of Session Report in the coming weeks summarizing the more impactful legislation passed.
 As always we want to hear your perspectives and answer questions.
 Your engagement helps ensure we are informed about what is important to you.
-Please reach out to me ([email protected]) or Representative Dolan ([email protected]) at any time.
-STATE LEADERS TACKLE FEDERAL POLICY IN VERMONT - JUNE 2, 6 TO 8 PM Join Attorney General Charity Clark, Secretary of State, Sarah Copeland Hanzas, and Treasurer Mike Pieciak, and the Essex House Delegation for a community forum about the impacts of the Trump Administration's actions on Vermont.
+Please reach out to me ( [email protected] ) or Representative Dolan ( [email protected] ) at any time. ​ STATE LEADERS TACKLE FEDERAL POLICY IN VERMONT - JUNE 2, 6 TO 8 PM Join Attorney General Charity Clark, Secretary of State, Sarah Copeland Hanzas, and Treasurer Mike Pieciak, and the Essex House Delegation for a community forum about the impacts of the Trump Administration's actions on Vermont.
 They will share current information about the legal, financial, and policy implications of the federal situation, as well as actions they are taking to respond.
 The current federal climate is raising a lot of questions and uncertainty in Vermont.
 We believe in transparency and collaboration, and we appreciate the opportunity to bring state leaders into our community to share firsthand what is happening and how these challenges are being addressed.
@@ -140,51 +142,50 @@ In conjunction, these measures will help us make significant progress in our hou
 The House will vote on the bill a third time Tuesday before it moves back to the Senate.
 H.454 AN ACT RELATING TO TRANSFORMING VERMONT’S EDUCATION GOVERNANCE, QUALITY, AND FINANCE SYSTEMS The Senate passed out H.454 Friday afternoon on a voice vote.
 The bill passed out of the Senate was largely the House version passed several weeks ago with a few changes.
-Below are a few of the education governance changes and we are still working through the financing changes. https://legislature.vermont.gov/Documents/2026/Docs/JOURNAL/sj250523.pdf?20250523094304 Best, Rep.
-Lori Houghton Expanding the people on the redistricting task force, increasing district size to 8,000 with no minimums and still requiring 3 maps be drawn over the summer for legislators to review and pass next year.
+Below are a few of the education governance changes and we are still working through the financing changes.
+Expanding the people on the redistricting task force, increasing district size to 8,000 with no minimums and still requiring 3 maps be drawn over the summer for legislators to review and pass next year.
 Lowering class size minimums from the House version Removing the requirement for a statewide curriculum and calendar The bill will now move to a Senate and House conference committee.
-You can find the Senate passed version at this link starting on page 1362.
-April in Vermont is a time of transition - flowers are starting to pop and the sun peeks out every so often - yet the rain, snow and chilly air persist.
+You can find the Senate passed version at this link starting on page 1362. https://legislature.vermont.gov/Documents/2026/Docs/JOURNAL/sj250523.pdf?20250523094304 ​ Best, Rep.
+Lori Houghton 0 Comments House Passes Education Transformation Reform Bill 4/12/2025 0 Comments April in Vermont is a time of transition - flowers are starting to pop and the sun peeks out every so often - yet the rain, snow and chilly air persist.
 I keep my eyes focused on the not too distant future when the landscape will burst into that impossibly bright green color that Vermonters cherish.
 April is also a transition in the Statehouse as our time is more fully in our committees after long crossover floor sessions.
-You can track our activity at https://legislature.vermont.gov/.
+You can track our activity at https://legislature.vermont.gov/ .
 We archive all sessions on YouTube which can also be found by following the link above.
-Please reach out to me ([email protected]) or Representative Dolan ([email protected]) at any time.
+Please reach out to me ( [email protected] ) or Representative Dolan ( [email protected] ) at any time.
 We are always happy to answer questions and share perspectives.
 Your engagement helps ensure we are informed about what is important to you.
 YOU’RE INVITED TO OUR COMMUNITY CONVERSATION SERIES Please join your Essex House delegation during the legislative session for "Community Conversations," a monthly forum for updates on bills, committees, caucus activities and more.
 We welcome your concerns, questions and a spirit of open, respectful dialogue.
 Thanks to all who joined us on Zoom yesterday!
-Our next conversation is Saturday May 10, 11-12:30 at The Nest.
-EDUCATION TRANSFORMATION REFORM BILL On Friday the House passed H.454 an act relating to transforming Vermont’s education governance, quality, and finance systems on a tripartisan vote of 87-55.
-The Essex and Essex Junction House Delegation stands in strong support of H.454, a bold and forward-thinking blueprint to modernize and strengthen Vermont’s public education system.
+Our next conversation is Saturday May 10, 11-12:30 at The Nest. ​ EDUCATION TRANSFORMATION REFORM BILL On Friday the House passed H.454 an act relating to transforming Vermont’s education governance, quality, and finance systems on a tripartisan vote of 87-55.
+The Essex and Essex Junction House Delegation stands in strong support of H.454 , a bold and forward-thinking blueprint to modernize and strengthen Vermont’s public education system.
 We believe this legislation is a major step toward building a more equitable and student-centered public education system and a more stable, resilient financing system.
 Vermont’s current education structure is showing signs of strain.
 Declining enrollment, rising costs, aging facilities, and financial complexity all signal the need for a careful but bold transformation.
 H.454 provides that path—one that is intentional, incremental, and guided by deep public engagement.
-We are particularly encouraged by several key provisions: Essex and Essex Junction community members—like those across Vermont—deserve a public education system that is equitable, modern, and sustainably funded where all students have the chance to learn, grow and explore their interests.
+We are particularly encouraged by several key provisions: The Commission on the Future of Public Education and its School District Boundary Subcommittee will bring strategic, research-driven thinking to reimagining school district boundaries, ensuring community voices are heard and valued in the process.
+The focus on scale and efficiency , especially in class size standards and the encouragement of sustainable school size, aligns with our goals of equity, fiscal responsibility, and improved student outcomes, while providing important waiver options for rural and geographically isolated schools.
+The commitment to state aid for school construction is not only timely but essential.
+Our schools must reflect the educational and infrastructure standards of the 21st century, and H.454 ensures this work can begin in earnest with the necessary state partnership.
+Efforts to promote statewide cohesion , including a statewide school calendar, unified graduation standards, and improved data systems, will all bring greater clarity and coordination to our education system.
+The emphasis on transparent and independent governance by enhancing the role and structure of the State Board of Education and ensuring legislative voices are part of that process.
+H.454 takes on education finance reform by strengthening the tax base, increasing fairness, and removing the “cliffs” that have made funding unpredictable for so many communities.
+With the statewide property tax as our largest source of education funding, meaningful tax reform is not just timely—it’s essential.
+The proposals contained in the bill are sweeping changes to our current school system to be enacted on a deliberate, sustainable pace .
+It is a responsible and realistic plan that does not cripple our ability to serve students in the transition.
+By taking a measured, research-based approach, this bill lays out a map leading to a more stable and equitable future, and it supports improvements in both urban and rural communities.
+This document outlines the implementation timeline. https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Ways%20and%20Means/Bills/H.454/W~Jon%20Gray~Education%20Transformation%20Timeline~4-8-2025.pdf Essex and Essex Junction community members—like those across Vermont—deserve a public education system that is equitable, modern, and sustainably funded where all students have the chance to learn, grow and explore their interests.
 H.454 takes significant steps in that direction.
 We appreciate the thoughtful and intentional approach the House took to develop this comprehensive bill, and we look forward to working with our colleagues, stakeholders, and communities to continue moving H.454 through the legislative process to create an education system that sustainably and predictably elevates Vermont’s education system.
 H.454 now moves to the Senate.
 Please continue to reach out to us with your thoughts and questions.
 Thank you for the opportunity to serve our community.
 Rep.
-Lori Houghton The Commission on the Future of Public Education and its School District Boundary Subcommittee will bring strategic, research-driven thinking to reimagining school district boundaries, ensuring community voices are heard and valued in the process.
-The focus on scale and efficiency, especially in class size standards and the encouragement of sustainable school size, aligns with our goals of equity, fiscal responsibility, and improved student outcomes, while providing important waiver options for rural and geographically isolated schools.
-The commitment to state aid for school construction is not only timely but essential.
-Our schools must reflect the educational and infrastructure standards of the 21st century, and H.454 ensures this work can begin in earnest with the necessary state partnership.
-Efforts to promote statewide cohesion, including a statewide school calendar, unified graduation standards, and improved data systems, will all bring greater clarity and coordination to our education system.
-The emphasis on transparent and independent governance by enhancing the role and structure of the State Board of Education and ensuring legislative voices are part of that process.
-H.454 takes on education finance reform by strengthening the tax base, increasing fairness, and removing the “cliffs” that have made funding unpredictable for so many communities.
-With the statewide property tax as our largest source of education funding, meaningful tax reform is not just timely—it’s essential.
-The proposals contained in the bill are sweeping changes to our current school system to be enacted on a deliberate, sustainable pace.
-It is a responsible and realistic plan that does not cripple our ability to serve students in the transition.
-By taking a measured, research-based approach, this bill lays out a map leading to a more stable and equitable future, and it supports improvements in both urban and rural communities.
-This document outlines the implementation timeline. https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Ways%20and%20Means/Bills/H.454/W~Jon%20Gray~Education%20Transformation%20Timeline~4-8-2025.pdf It wouldn’t be March in Vermont without a messy snowstorm.
+Lori Houghton 0 Comments Week 11 Update - Budget, Housing and Gov's Executive Order 3/29/2025 0 Comments It wouldn’t be March in Vermont without a messy snowstorm.
 It was a bit of a messy week in Montpelier as we spent most of our time on the house floor.
-You can track our activity at https://legislature.vermont.gov/.
+You can track our activity at https://legislature.vermont.gov/ .
 We archive all sessions on YouTube which can also be found by following the link above.
-Please reach out to me ([email protected]) or Representative Dolan ([email protected]) at any time.
+Please reach out to me ( [email protected] ) or Representative Dolan ( [email protected] ) at any time.
 We are always happy to answer questions and share perspectives.
 Your engagement helps ensure we are informed about what is important to you.
 YOU’RE INVITED TO OUR COMMUNITY CONVERSATION SERIES Please join your Essex House delegation during the legislative session for "Community Conversations," a monthly forum for updates on bills, committees, caucus activities and more.
@@ -214,4 +215,6 @@ The bill makes it easier to finance housing and related infrastructure, and adds
 The bill provides funding to assist first-time and first-generation homebuyers and contains funding to develop housing that lower income and middle-income Vermonters can afford to rent and buy.
 Thank you for the opportunity to serve our community.
 Rep.
-Lori Houghton |
+Lori Houghton 0 Comments <<Previous Forward>> [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

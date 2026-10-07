@@ -1,7 +1,9 @@
 {
  "description": "Explore Kenny Cody endorsements from key political figures like Trump and Congresswoman Diana Harshbarger, showcasing his campaign support.",
  "final_url": "https://votekennycody.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "2a29f53b5b02705497bb8824b36d5e4695478e96",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": [
   "2021",

@@ -1,8 +1,10 @@
 {
  "description": "This is a test post.",
  "final_url": "https://jasonwoolford.com/test-post/",
+ "fingerprint": "970ed255cf75d8eb5be95c29370bbc828d6d8805",
+ "format": 3,
  "paid_for_by": "Paid for by Jason Woolford for State Representative, P",
- "title": "Test Post \u2013 Jason Woolford",
+ "title": "Test Post – Jason Woolford",
  "years_mentioned": [
   "2024"
  ]

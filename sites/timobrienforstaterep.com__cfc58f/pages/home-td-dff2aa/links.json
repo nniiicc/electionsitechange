@@ -1,6 +1,26 @@
 [
-"http://secure.winred.com/friends-of-tim-o-brien",
-"https://facebook.com/profile.php?id=61580823661105",
-"https://timobrienforstaterep.com/home-td",
-"https://timobrienforstaterep.com/learn"
+{
+"text": "Donate Today",
+"href": "http://secure.winred.com/friends-of-tim-o-brien/"
+},
+{
+"text": "Donate!",
+"href": "http://secure.winred.com/friends-of-tim-o-brien/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580823661105"
+},
+{
+"text": "Learn More",
+"href": "https://timobrienforstaterep.com/learn/"
+},
+{
+"text": "Learn More",
+"href": "https://www.timobrienforstaterep.com/learn/"
+},
+{
+"text": "[image]",
+"href": "https://timobrienforstaterep.com/home-td/"
+}
 ]

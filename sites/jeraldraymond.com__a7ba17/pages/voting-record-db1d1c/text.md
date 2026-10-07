@@ -1,5 +1,4 @@
-The following pieces of legislation are those Representative Raymond sponsored during the 2020 session:
-HB356: This bill allows feedlot operators to use the Idaho State Department of Agriculture’s (ISDA) web-based planner to create a Nutrient Management Plan while maintaining the proprietary nature of these production records.
+Skip to main content Jerald Raymond Menu About Voting Record Endorsements Updates Donate Volunteer Search the site Expand Search Voting Record The following pieces of legislation are those Representative Raymond sponsored during the 2020 session: HB356: This bill allows feedlot operators to use the Idaho State Department of Agriculture’s (ISDA) web-based planner to create a Nutrient Management Plan while maintaining the proprietary nature of these production records.
 HB480: This bill grants a “Seal of Biliteracy” to students who become proficient in a second world language.
 This will help those in the dual language immersion programs by recognizing their efforts on their graduation diplomas.
 It may create job opportunities and/or extra college credits.
@@ -23,3 +22,4 @@ With Representative Furniss' efforts, HB443 was passed this year.
 Raymond was able to be part of the signing ceremony on Feb 9, 2022.
 This legislation benefits administrators, educators and certified staff across the state while at the same time saving tax payer dollars at the district level.
 Raymond has promised to continue to work for the people of Idaho and especially the citizens of District 31 in a conservative effort to improve lives and better Idaho’s future.
+Home Voting Record House Seat 31A Jerald Raymond Paige Nelson - Treasurer © # Back to top

@@ -1,18 +1,78 @@
 [
-"https://facebook.com/profile.php?id=100078446973953",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://linkedin.com/in/peterverbica",
-"https://peterverbica.com/",
-"https://peterverbica.com/about",
-"https://peterverbica.com/contact-us",
-"https://peterverbica.com/district-19",
-"https://peterverbica.com/endorsements",
-"https://peterverbica.com/news",
-"https://peterverbica.com/privacy-policy-%26-terms",
-"https://peterverbica.com/relevant-links",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/utrpac/sms",
-"https://secure.anedot.com/verbica/sms",
-"https://youtube.com/channel/UCms_9w3r9O_P477lrQmAD9Q"
+{
+"text": "About",
+"href": "https://peterverbica.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://peterverbica.com/contact-us"
+},
+{
+"text": "DONATE --Upon This Rock PAC (Leadership PAC to help Additional Candidates).",
+"href": "https://secure.anedot.com/utrpac/sms"
+},
+{
+"text": "District 19",
+"href": "https://peterverbica.com/district-19"
+},
+{
+"text": "Donate -- Verbica for Congress",
+"href": "https://secure.anedot.com/verbica/sms"
+},
+{
+"text": "Endorsements",
+"href": "https://peterverbica.com/endorsements"
+},
+{
+"text": "Find out more",
+"href": "https://peterverbica.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://peterverbica.com/"
+},
+{
+"text": "News",
+"href": "https://peterverbica.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://peterverbica.com/privacy-policy-%26-terms"
+},
+{
+"text": "Relevant Links",
+"href": "https://peterverbica.com/relevant-links"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: VERBICA FOR CONGRESS - District 19 ]",
+"href": "https://peterverbica.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100078446973953"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/peterverbica/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCms_9w3r9O_P477lrQmAD9Q"
+},
+{
+"text": "peter.verbica@gmail.com",
+"href": "mailto:peter.verbica@gmail.com"
+}
 ]

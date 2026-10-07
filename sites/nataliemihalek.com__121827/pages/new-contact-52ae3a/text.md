@@ -1,8 +1,1 @@
-About
-Issues
-Legislation
-Contact
-DONATE
-info@nataliemihalek.com
-PO Box 81
-Hershey, PA 17033
+About Issues Legislation Contact DONATE info@nataliemihalek.com PO Box 81 Hershey, PA 17033 About Issues Accomplishments & Legislation Contact Follow info@nataliemihalek.com | PO Box 81, Hershey, PA 17033 Paid for by Friends of Natalie Mihalek

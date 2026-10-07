@@ -1,29 +1,114 @@
 [
-"http://ilga.gov/legislation/BillStatus.asp?DocNum=1905&GAID=14&DocTypeID=SB&LegId=105221&SessionID=91&GA=100",
-"http://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2903&GAID=14&SessionID=91&LegID=104399",
-"http://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4042&GAID=14&SessionID=91&LegID=106863",
-"http://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=5957&GAID=14&SessionID=91&LegID=113269",
-"http://in2013dollars.com/1984-dollars-in-2018?amount=450",
-"https://businessinsurance.com/article/20180312/NEWS08/912319777/Illinois-bill-would-create-state-sponsored-Illinois-Employers-Mutual-Insurance-C",
-"https://ctbaonline.org/reports/addressing-illinois%E2%80%99-pension-debt-crisis-reamortization",
-"https://en.wikipedia.org/wiki/The_Grace_Commission",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/my-new-years-wish-for-illinois",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/tag/government-spending",
-"https://ilikereick.com/tag/grace-commission",
-"https://ilikereick.com/tag/j-b-pritzker",
-"https://ilikereick.com/tag/michael-madigan",
-"https://ilikereick.com/tag/property-taxes",
-"https://ilikereick.com/tag/public-pensions",
-"https://ilikereick.com/videos",
-"https://saukvalley.com/2018/12/07/springfield-spotlight-on-a-mission-to-raise-the-minimum-wage/ag4q1js",
-"https://turnkeydigital.com/",
-"https://youtu.be/vUAYuI_a2jw"
+{
+"text": "2018 dollars",
+"href": "http://www.in2013dollars.com/1984-dollars-in-2018?amount=450"
+},
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/my-new-years-wish-for-illinois/#respond"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Grace commission",
+"href": "https://ilikereick.com/tag/grace-commission/"
+},
+{
+"text": "J.B. Pritzker",
+"href": "https://ilikereick.com/tag/j-b-pritzker/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Michael Madigan",
+"href": "https://ilikereick.com/tag/michael-madigan/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://ilikereick.com/tag/property-taxes/"
+},
+{
+"text": "Public Pensions",
+"href": "https://ilikereick.com/tag/public-pensions/"
+},
+{
+"text": "Republican-sponsored bill",
+"href": "http://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4042&GAID=14&SessionID=91&LegID=106863"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+},
+{
+"text": "bill",
+"href": "http://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2903&GAID=14&SessionID=91&LegID=104399#actions"
+},
+{
+"text": "bills",
+"href": "https://www.saukvalley.com/2018/12/07/springfield-spotlight-on-a-mission-to-raise-the-minimum-wage/ag4q1js/"
+},
+{
+"text": "cost study",
+"href": "http://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=5957&GAID=14&SessionID=91&LegID=113269"
+},
+{
+"text": "flatten",
+"href": "https://www.ctbaonline.org/reports/addressing-illinois%E2%80%99-pension-debt-crisis-reamortization"
+},
+{
+"text": "government spending",
+"href": "https://ilikereick.com/tag/government-spending/"
+},
+{
+"text": "proposal",
+"href": "https://youtu.be/vUAYuI_a2jw"
+},
+{
+"text": "sole responsibility",
+"href": "https://www.businessinsurance.com/article/20180312/NEWS08/912319777/Illinois-bill-would-create-state-sponsored-Illinois-Employers-Mutual-Insurance-C"
+},
+{
+"text": "they won’t want",
+"href": "http://ilga.gov/legislation/BillStatus.asp?DocNum=1905&GAID=14&DocTypeID=SB&LegId=105221&SessionID=91&GA=100"
+},
+{
+"text": "“Grace Commission”",
+"href": "https://en.wikipedia.org/wiki/The_Grace_Commission"
+}
 ]

@@ -1,18 +1,10 @@
-About Pat
-Senator Patricia Fahy was first elected to the New York State Senate in 2024.
+top of page Home Meet Pat Record of Results Endorsements Events News Chat With Pat Pat Fahy for State Senate DONATE Request a Lawn Sign!
+About Pat Senator Patricia Fahy was first elected to the New York State Senate in 2024.
 Prior to her election to the State Senate, she was elected to the New York State Assembly in 2012, where she served as the 109th District's Assemblymember until 2024.
 Senator Patricia Fahy represents the 46th District, which includes most of Albany County, part of Schenectady County, and all of Montgomery County.
-A leading advocate for job creation, environmental conservation, and quality education, Pat has been the prime sponsor of over 300 bills since her election to the State Legislature – more than 110 of which have been signed into law, including:
-- the nation’s first Gun Industry Liability Law to hold gun manufacturers accountable for their role in the gun violence crisis;
-- the nation’s first Right to Repair legislation;
-- #TurnOnTheTap, which expanded the tuition assistance program for the first time in more than 20 years;
-- the first state-wide Short-Term Rental Registry;
-- and $5M in feasibility funding to reimagine parts of I-787 to better reconnect downtown Albany to the waterfront.
+A leading advocate for job creation, environmental conservation, and quality education, Pat has been the prime sponsor of over 300 bills since her election to the State Legislature – more than 110 of which have been signed into law, including: the nation’s first Gun Industry Liability Law to hold gun manufacturers accountable for their role in the gun violence crisis; the nation’s first Right to Repair legislation; #TurnOnTheTap, which expanded the tuition assistance program for the first time in more than 20 years; the first state-wide Short-Term Rental Registry; and $5M in feasibility funding to reimagine parts of I-787 to better reconnect downtown Albany to the waterfront.
 Pat has championed and passed several key pieces of legislation to accelerate New York State’s transition to clean and renewable energy.
-These include:
-- establishing a 30x30 conservation goal to protect 30% of the state’s land and water by 2030;
-- expanding funding for the Earned Income Tax Credit (EITC);
-- and addressing the growing threat of plastic pollution and toxic “forever chemicals” such as PFAS in food packaging.
+These include: establishing a 30x30 conservation goal to protect #% of the state’s land and water by 2030; expanding funding for the Earned Income Tax Credit (EITC); and addressing the growing threat of plastic pollution and toxic “forever chemicals” such as PFAS in food packaging.
 Pat currently serves as the Chair of the Senate Disabilities Committee and on the Senate Higher Education, Local Governments, Racing & Wagering, Cities II, Agriculture, and Environmental Conservation Committees.
 She is also a member of the Joint Senate Task Force on Opioids, Addiction & Overdose Prevention.
 Pat was awarded Freshman Legislator of the Year by the New York State School Boards Association during her first term in office and the Advocate for Choice award by Upper Hudson Planned Parenthood.
@@ -27,3 +19,5 @@ House and Senate; and as a Presidential Management Intern in the Department of t
 Pat is married to Wayne Bequette, a professor at RPI in Troy, NY.
 They have two children, Brendan and Eileen, and live in the City of Albany.
 She has a Master’s Degree in Public Administration from the University of Illinois at Chicago and a Bachelor’s Degree in Political Science from Northern Illinois University.
+Meet Senator Pat Fahy Friends of Patricia Fahy 2026, P.O.
+Box 8282, Albany, NY 12208 pat@patriciafahy.com ​ ​Accessibility Statement © # by Friends of Patricia Fahy 2026. bottom of page

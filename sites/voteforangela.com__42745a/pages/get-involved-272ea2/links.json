@@ -1,8 +1,46 @@
 [
-"https://secure.actblue.com/donate/angelawitwer",
-"https://voteforangela.com/",
-"https://voteforangela.com/about",
-"https://voteforangela.com/contact",
-"https://voteforangela.com/get-involved",
-"https://voteforangela.com/priorities"
+{
+"text": "Angela Witwer",
+"href": "https://voteforangela.com/"
+},
+{
+"text": "Contact",
+"href": "https://voteforangela.com/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://voteforangela.com/contact/"
+},
+{
+"text": "Contact Us to Volunteer",
+"href": "mailto:Angela@voteforangela.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/angelawitwer"
+},
+{
+"text": "Endorsements",
+"href": "https://voteforangela.com/#endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://voteforangela.com/get-involved/"
+},
+{
+"text": "Info@VoteforAngela.com",
+"href": "mailto:info@voteforangela.com"
+},
+{
+"text": "Meet Angela",
+"href": "https://voteforangela.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://voteforangela.com/priorities/"
+},
+{
+"text": "[image: Angela Witwer]",
+"href": "https://voteforangela.com/"
+}
 ]

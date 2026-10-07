@@ -1,4 +1,4 @@
-U.S.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News April 25, 2022 Another $500,000 Awarded For Hockanum Mill Restoration In Vernon U.S.
 Rep.
 Joe Courtney: More federal money is headed to the Hockanum Mill/New England Motorcycle Museum property.
 VERNON, CT — Another $500,000 in federal aid is headed to the Old Hockanum Mill building in the Rockville Section of Vernon for continued efforts to completely restore it.
@@ -15,4 +15,4 @@ It’s the second $500,000 grant funneled from the federal government to local o
 Mill owners have also received federal brownfield loans — administered through the state — of $2 million, $1 million and $1 million for restoration purposes.
 Its brownfield allocation is capped, Gately said.
 Courtney is a Vernon resident and knows the mill building well.
-Read more: https://patch.com/connecticut/vernon/another-500-000-awarded-hockanum-mill-restoration-vernon
+Read more: https://patch.com/connecticut/vernon/another-500-000-awarded-hockanum-mill-restoration-vernon Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

@@ -1,17 +1,98 @@
 [
-"http://chuckforohio.com/Common-Sense",
-"https://chuckforohio.com/",
-"https://chuckforohio.com/Common-Sense",
-"https://chuckforohio.com/Common-Sense/post/common-sense-gun-safety",
-"https://chuckforohio.com/Common-Sense/post/common-sense-healthcare",
-"https://chuckforohio.com/Common-Sense/post/green-is-common-sense",
-"https://chuckforohio.com/Contact",
-"https://chuckforohio.com/Donate",
-"https://chuckforohio.com/common-sense",
-"https://chuckforohio.com/contact",
-"https://chuckforohio.com/donate",
-"https://chuckforohio.com/privacy",
-"https://chuckforohio.com/terms",
-"https://chuckforohio.com/volunteer",
-"https://secure.actblue.com/donate/hornforhouse"
+{
+"text": "Common Sense",
+"href": "https://www.chuckforohio.com/common-sense"
+},
+{
+"text": "Contact",
+"href": "https://www.chuckforohio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/hornforhouse"
+},
+{
+"text": "Donate",
+"href": "https://www.chuckforohio.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/hornforhouse"
+},
+{
+"text": "Environment",
+"href": "https://www.chuckforohio.com/Common-Sense/post/green-is-common-sense"
+},
+{
+"text": "Gun Safety",
+"href": "https://www.chuckforohio.com/Common-Sense/post/common-sense-gun-safety"
+},
+{
+"text": "Healthcare",
+"href": "https://www.chuckforohio.com/Common-Sense/post/common-sense-healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.chuckforohio.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "http://chuckforohio.com/Common-Sense"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.chuckforohio.com/Common-Sense"
+},
+{
+"text": "MORE COMMON SENSE IDEAS",
+"href": "https://www.chuckforohio.com/Common-Sense"
+},
+{
+"text": "OHIO 36th District",
+"href": "https://www.chuckforohio.com/Contact"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.chuckforohio.com/privacy"
+},
+{
+"text": "SUPPORT US",
+"href": "https://www.chuckforohio.com/Donate"
+},
+{
+"text": "Terms Of Use",
+"href": "https://www.chuckforohio.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chuckforohio.com/volunteer"
+},
+{
+"text": "[image: Agriculture]",
+"href": "https://www.chuckforohio.com/Common-Sense/post/common-sense-healthcare"
+},
+{
+"text": "[image: Culture]",
+"href": "https://www.chuckforohio.com/Common-Sense/post/green-is-common-sense"
+},
+{
+"text": "[image: Gun Safety Training]",
+"href": "https://www.chuckforohio.com/Common-Sense/post/common-sense-gun-safety"
+},
+{
+"text": "[image]",
+"href": "https://www.chuckforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:__doPostBack('dnn%24dnnSEARCH129803%24cmdSearch','')"
+},
+{
+"text": "[no text]",
+"href": "javascript:__doPostBack('dnn%24dnnSEARCH622101%24cmdSearch','')"
+},
+{
+"text": "chuck@chuckforohio.com",
+"href": "mailto:"
+}
 ]

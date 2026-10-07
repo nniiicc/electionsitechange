@@ -1,5 +1,4 @@
-About Heidi Sinsley
-Heidi is a wife, mom, attorney, and community advocate who stands up for those without a voice.
+Home About Issues Get Involved Contact   Donate  About Heidi Sinsley Heidi is a wife, mom, attorney, and community advocate who stands up for those without a voice.
 The daughter of an engineer and a stay-at-home mom, she comes from a proud family of service: one grandfather was a World War II chaplain and Army lieutenant, and the other a gunner in the legendary Bloody Hundredth unit featured in Masters of the Air.
 Her uncle, a Vietnam veteran, has battled lifelong health issues from Agent Orange exposure and inspired Heidi’s passion for justice.
 Growing up, Heidi saw how illness, disability, and poverty affect families.
@@ -20,3 +19,4 @@ Real People.
 Real Impact.
 Every contribution helps.
 Thank you for your support!
+Donate Now Sinsley for NC Quick Links Home Get Involved About Contact Get Involved Donate Volunteer

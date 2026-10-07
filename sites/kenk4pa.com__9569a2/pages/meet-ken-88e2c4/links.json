@@ -1,42 +1,178 @@
 [
-"http://astarshipstory.com/",
-"http://atlassnubbed.com/",
-"http://atlassnubbed.com/AtlasSnubbedBookOne-SeparatingSocietyAndState.pdf",
-"http://kenk.org/Governor.php?Link=2&Topic=The+Separation+of+Society+and+State",
-"http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C418%2C942.PN.&OS=PN%2F5%2C418%2C942&RS=PN%2F5%2C418%2C942",
-"http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C564%2C119.PN.&OS=PN%2F5%2C564%2C119&RS=PN%2F5%2C564%2C119",
-"http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C960%2C437.PN.&OS=PN%2F5%2C960%2C437&RS=PN%2F5%2C960%2C437",
-"http://pennsylvaniaproject.com/",
-"http://tmdistrict38.org/",
-"http://tmdistrict38.org/Foster-Award",
-"http://toastmasters.org/",
-"http://wethespeakers.org/",
-"https://elegantthemes.com/",
-"https://facebook.com/KenK4Pa",
-"https://kenk4pa.com/",
-"https://kenk4pa.com/1726-2",
-"https://kenk4pa.com/1783-2",
-"https://kenk4pa.com/1800-2",
-"https://kenk4pa.com/data-centers",
-"https://kenk4pa.com/donate",
-"https://kenk4pa.com/events",
-"https://kenk4pa.com/feed",
-"https://kenk4pa.com/issues",
-"https://kenk4pa.com/issues/abortion",
-"https://kenk4pa.com/issues/constitution",
-"https://kenk4pa.com/issues/crime",
-"https://kenk4pa.com/issues/drugs",
-"https://kenk4pa.com/issues/education",
-"https://kenk4pa.com/issues/elections",
-"https://kenk4pa.com/issues/environment",
-"https://kenk4pa.com/issues/gun-control",
-"https://kenk4pa.com/issues/lgbt",
-"https://kenk4pa.com/issues/responses-to-facebook-questions",
-"https://kenk4pa.com/issues/taxes",
-"https://kenk4pa.com/issues/taxes/welfare",
-"https://kenk4pa.com/press-releases",
-"https://kenk4pa.com/volunteer",
-"https://kenk4pa.com/wp-content/uploads/2026/02/Ken-Krawchuk-Headshot-1.jpg",
-"https://twitter.com/kenk4pa",
-"https://wordpress.org/"
+{
+"text": "5,418,942",
+"href": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C418%2C942.PN.&OS=PN%2F5%2C418%2C942&RS=PN%2F5%2C418%2C942"
+},
+{
+"text": "5,564,119",
+"href": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C564%2C119.PN.&OS=PN%2F5%2C564%2C119&RS=PN%2F5%2C564%2C119"
+},
+{
+"text": "5,960,437",
+"href": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5%2C960%2C437.PN.&OS=PN%2F5%2C960%2C437&RS=PN%2F5%2C960%2C437"
+},
+{
+"text": "Abortion",
+"href": "https://www.kenk4pa.com/issues/abortion/"
+},
+{
+"text": "Access hi-res headshot here",
+"href": "https://www.kenk4pa.com/wp-content/uploads/2026/02/Ken-Krawchuk-Headshot-1.jpg"
+},
+{
+"text": "Atlas Snubbed",
+"href": "http://www.atlassnubbed.com/"
+},
+{
+"text": "Campaign Songs",
+"href": "https://www.kenk4pa.com/1726-2/"
+},
+{
+"text": "Constitution",
+"href": "https://www.kenk4pa.com/issues/constitution/"
+},
+{
+"text": "Crime",
+"href": "https://www.kenk4pa.com/issues/crime/"
+},
+{
+"text": "Data Centers",
+"href": "https://www.kenk4pa.com/data-centers/"
+},
+{
+"text": "District 38",
+"href": "http://www.tmdistrict38.org/"
+},
+{
+"text": "Donate",
+"href": "https://www.kenk4pa.com/donate/"
+},
+{
+"text": "Drugs",
+"href": "https://www.kenk4pa.com/issues/drugs/"
+},
+{
+"text": "Education",
+"href": "https://www.kenk4pa.com/issues/education/"
+},
+{
+"text": "Elections",
+"href": "https://www.kenk4pa.com/issues/elections/"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Environment",
+"href": "https://www.kenk4pa.com/issues/environment/"
+},
+{
+"text": "Events",
+"href": "https://www.kenk4pa.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KenK4Pa/"
+},
+{
+"text": "Flock Cameras",
+"href": "https://www.kenk4pa.com/1800-2/"
+},
+{
+"text": "Gun Control",
+"href": "https://www.kenk4pa.com/issues/gun-control/"
+},
+{
+"text": "Home",
+"href": "https://www.kenk4pa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kenk4pa.com/issues/"
+},
+{
+"text": "John E. Foster DTM Achievement Award",
+"href": "http://www.tmdistrict38.org/Foster-Award/"
+},
+{
+"text": "LGBT",
+"href": "https://www.kenk4pa.com/issues/lgbt/"
+},
+{
+"text": "Libertarian Toastmasters club",
+"href": "http://www.wethespeakers.org/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.kenk4pa.com/press-releases/"
+},
+{
+"text": "RSS",
+"href": "https://www.kenk4pa.com/feed/"
+},
+{
+"text": "Responses to Facebook Questions",
+"href": "https://www.kenk4pa.com/issues/responses-to-facebook-questions/"
+},
+{
+"text": "Shutdowns",
+"href": "https://www.kenk4pa.com/1783-2/"
+},
+{
+"text": "Socials",
+"href": "https://www.kenk4pa.com/"
+},
+{
+"text": "Taxes",
+"href": "https://www.kenk4pa.com/issues/taxes/"
+},
+{
+"text": "The Pennsylvania Project",
+"href": "http://pennsylvaniaproject.com"
+},
+{
+"text": "The Separation of Society and State",
+"href": "http://www.kenk.org/Governor.php?Link=2&Topic=The+Separation+of+Society+and+State"
+},
+{
+"text": "Toastmasters International",
+"href": "http://www.toastmasters.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kenk4pa.com/volunteer/"
+},
+{
+"text": "Welfare",
+"href": "https://www.kenk4pa.com/issues/taxes/welfare/"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "X",
+"href": "https://twitter.com/kenk4pa"
+},
+{
+"text": "[image: Ken Krawchuk Libertarian for Pennsylvania Governor!]",
+"href": "https://www.kenk4pa.com/"
+},
+{
+"text": "aStarshipStory.com",
+"href": "http://astarshipstory.com"
+},
+{
+"text": "here",
+"href": "http://atlassnubbed.com/AtlasSnubbedBookOne-SeparatingSocietyAndState.pdf"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/KenK4Pa/"
+},
+{
+"text": "",
+"href": "https://twitter.com/kenk4pa"
+}
 ]

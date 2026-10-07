@@ -1,11 +1,46 @@
 [
-"https://alonnaberry.com/",
-"https://facebook.com/Nnamdi1ststaterep?mibextid=wwXIfr&rdid=yvumzdVHXk3w8IdD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EwcHbQFGU%2F%3Fmibextid%3DwwXIfr",
-"https://instagram.com/nnamdi1ststaterep",
-"https://nnamdi-de.com/",
-"https://nnamdi-de.com/about",
-"https://nnamdi-de.com/copy-of-about",
-"https://nnamdi-de.com/copy-of-about-1",
-"https://nnamdi-de.com/privacy-policy",
-"https://nnamdi-de.com/terms-and-conditions"
+{
+"text": "@nnamdi-de.com",
+"href": "mailto:contact@alonnaberry.com"
+},
+{
+"text": "ABOUT",
+"href": "https://www.nnamdi-de.com/about"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.nnamdi-de.com/copy-of-about"
+},
+{
+"text": "HOME",
+"href": "https://www.nnamdi-de.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.nnamdi-de.com/copy-of-about-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nnamdi-de.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.nnamdi-de.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Nnamdi1ststaterep/?mibextid=wwXIfr&rdid=yvumzdVHXk3w8IdD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EwcHbQFGU%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/nnamdi1ststaterep/"
+},
+{
+"text": "https://www.nnamdi-de.com",
+"href": "https://www.alonnaberry.com/"
+},
+{
+"text": "info@nnamdi-de.com",
+"href": "mailto:info@nnamdi-de.com"
+}
 ]

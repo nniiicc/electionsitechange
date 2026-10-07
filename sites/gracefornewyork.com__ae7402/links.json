@@ -1,16 +1,62 @@
 [
-"https://facebook.com/grace4ny",
-"https://gracefornewyork.com/",
-"https://gracefornewyork.com/cart",
-"https://gracefornewyork.com/get-involved",
-"https://gracefornewyork.com/issues",
-"https://gracefornewyork.com/meet-grace",
-"https://gracefornewyork.com/privacy-policy",
-"https://instagram.com/grace4ny",
-"https://secure.actblue.com/donate/gmwebsite",
-"https://secure.actblue.com/donate/gmwebsite?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/gmwebsite?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/gmwebsite?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/grace-meng-2",
-"https://x.com/grace4ny"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/gmwebsite?amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/gmwebsite?amount=25&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/gmwebsite?amount=50&express_lane=true"
+},
+{
+"text": "0",
+"href": "https://www.gracefornewyork.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/grace-meng-2"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gracefornewyork.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.gracefornewyork.com/issues"
+},
+{
+"text": "Meet Grace",
+"href": "https://www.gracefornewyork.com/meet-grace"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/gmwebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gracefornewyork.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gracefornewyork.com/get-involved"
+},
+{
+"text": "[image: Grace for New York]",
+"href": "https://www.gracefornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/grace4ny"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/grace4ny/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/grace4ny"
+}
 ]

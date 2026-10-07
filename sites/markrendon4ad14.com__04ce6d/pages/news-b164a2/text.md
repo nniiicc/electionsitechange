@@ -1,23 +1,15 @@
-NEWS
-NEWS ARTICLE
-“Voters in California’s 14th Assembly District are set to choose in November between incumbent Democrat Assemblymember Buffy Wicks or progressive Green Party challenger Mark Rendón. … ‘My number one priority, the reason why I’m campaigning, remains Medicare for all in California,” Rendón told Bay Area News Group.
+0 Skip to Content About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate NEWS News Blog September 23, 2026 The Mercury News: “Election 2026: Wicks battles challenger Rendón in upcoming District 14 race” September 23, 2026 NEWS ARTICLE “Voters in California’s 14th Assembly District are set to choose in November between incumbent Democrat Assemblymember Buffy Wicks or progressive Green Party challenger Mark Rendón. … ‘My number one priority, the reason why I’m campaigning, remains Medicare for all in California,” Rendón told Bay Area News Group.
 “It’s just way overdue.
-It’s way past time to get it passed.’”
-Read the full article here: https://www.mercurynews.com/2026/09/23/wicks-rendon-november-election-2026/.
-PRESS RELEASE
-The Executive Board and the Representative Council of the Oakland Education Association (OEA) gave their unanimous endorsements for Mark Rendón for State Assembly, AD-14.
-Watch Rendón’s endorsement interview with the OEA here.
-PRESS RELEASE
-The Richmond Progressive Alliance (RPA) has endorsed Mark Rendón (G) for State Assembly in Assembly District 14.
+It’s way past time to get it passed.’” Read the full article here: https://www.mercurynews.com/2026/09/23/wicks-rendon-november-election-2026/ .
+Read more → September 23, 2026 September 17, 2026 Mark Rendón Receives Unanimous Endorsement from the Oakland Education Association September 17, 2026 PRESS RELEASE The Executive Board and the Representative Council of the Oakland Education Association (OEA) gave their unanimous endorsements for Mark Rendón for State Assembly, AD-14.
+Watch Rendón’s endorsement interview with the OEA here .
+Read more → September 17, 2026 September 10, 2026 The Richmond Progressive Alliance Endorses Mark Rendón for State Assembly in AD-14 September 10, 2026 PRESS RELEASE The Richmond Progressive Alliance (RPA) has endorsed Mark Rendón (G) for State Assembly in Assembly District 14.
 The RPA has endorsed and supported Green Party candidates in the past, notably Gayle McLaughlin.
 This is a significant development that demonstrates the campaign’s accelerating momentum, particularly with political movers and shakers with deep roots in Richmond and the East Bay.
-VIDEO
-Mark Rendón was interviewed by his former union, the Oakland Education Association, as part of their formal endorsement process.
+Read more → September 10, 2026 September 8, 2026 Mark Rendón Endorsement Interview with the Oakland Education Association September 8, 2026 VIDEO Mark Rendón was interviewed by his former union, the Oakland Education Association, as part of their formal endorsement process.
 Learn more about Mark's stances on education by tuning into this interview!
-PRESS RELEASE
-The campaign for Mark Rendón, candidate for State Assembly AD-14, is gaining momentum amidst multiple endorsements from progressive organizations and notable figures.
-GPCA STATEMENT
-On July 10, the California Secretary of State certified the June Primary vote count on a truly historic primary election and revealed that Mark Rendón and Victor Hernandez will officially become the sixth and seventh California Greens to move on to the general election since the top two primary was enacted.
-NEWS ARTICLE
-“Incumbent Buffy Wicks is taking on two challengers on the June ballot in the race for her District 14 state seat: Republican Borgar Solnordal and Green Party candidate Mark Rendón.”
-Read the full article here: https://www.mercurynews.com/2026/05/14/wicks-faces-two-challengers-in-district-14-reelection-bid/.
+Read more → September 8, 2026 August 31, 2026 Mark Rendón’s Campaign for State Assembly Gains Momentum Amidst Steady Stream of Endorsements August 31, 2026 PRESS RELEASE The campaign for Mark Rendón, candidate for State Assembly AD-14, is gaining momentum amidst multiple endorsements from progressive organizations and notable figures.
+Read more → August 31, 2026 July 13, 2026 Two Greens move on to the November General Election!
+July 13, 2026 GPCA STATEMENT On July 10, the California Secretary of State certified the June Primary vote count on a truly historic primary election and revealed that Mark Rendón and Victor Hernandez will officially become the sixth and seventh California Greens to move on to the general election since the top two primary was enacted.
+Read more → July 13, 2026 May 14, 2026 The Mercury News: “Wicks faces two challengers in District 14 reelection bid” May 14, 2026 NEWS ARTICLE “Incumbent Buffy Wicks is taking on two challengers on the June ballot in the race for her District 14 state seat: Republican Borgar Solnordal and Green Party candidate Mark Rendón.” Read the full article here: https://www.mercurynews.com/2026/05/14/wicks-faces-two-challengers-in-district-14-reelection-bid/ .
+Read more → May 14, 2026 Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026

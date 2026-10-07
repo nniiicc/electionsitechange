@@ -1,12 +1,46 @@
 [
-"http://get-involved/",
-"http://williamsforiowa.com/",
-"http://williamsforiowa.com/about",
-"http://williamsforiowa.com/contact",
-"http://williamsforiowa.com/contribute",
-"http://williamsforiowa.com/get-involved",
-"http://williamsforiowa.com/news",
-"http://williamsforiowa.com/priorities",
-"https://facebook.com/Williams-for-Iowa-105310477673365",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+{
+"text": "ABOUT",
+"href": "http://williamsforiowa.com/about/"
+},
+{
+"text": "Absentee Ballot Request",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+},
+{
+"text": "CONTACT",
+"href": "http://williamsforiowa.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "http://williamsforiowa.com/contribute"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Williams-for-Iowa-105310477673365"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://get-involved"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://williamsforiowa.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "http://williamsforiowa.com/"
+},
+{
+"text": "NEWS",
+"href": "http://williamsforiowa.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "http://williamsforiowa.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "http://williamsforiowa.com/"
+}
 ]

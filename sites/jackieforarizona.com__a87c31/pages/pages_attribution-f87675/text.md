@@ -1,1 +1,1 @@
-- Hero image by Andrew Schultz on UnSplash.
+Hero image by Andrew Schultz on UnSplash.

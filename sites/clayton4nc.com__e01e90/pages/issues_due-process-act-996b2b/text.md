@@ -1,6 +1,5 @@
-David Clayton believes in
-The Due Process Act
-Ensuring no federal agency can detain and/or imprison individuals in any facility without due process.
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in The Due Process Act Ensuring no federal agency can detain and/or imprison individuals in any facility without due process.
 State oversight will be mandated for federal custody of individuals.
 If individuals are apprehended without a judicial warrant with named individuals for apprehension, due process has not been observed and those actions are unconstitutional.
 All persons get due process.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

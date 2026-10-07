@@ -1,9 +1,30 @@
 [
-"http://facebook.com/justinstatehouse",
-"https://paypal.com/donate?hosted_button_id=X46EGMLD86SDQ",
-"https://squarespace.com/",
-"https://voteruffridge.com/",
-"https://voteruffridge.com/about",
-"https://voteruffridge.com/cart",
-"https://voteruffridge.com/contact"
+{
+"text": "0",
+"href": "https://www.voteruffridge.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteruffridge.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.voteruffridge.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/donate/?hosted_button_id=X46EGMLD86SDQ"
+},
+{
+"text": "Squarespace",
+"href": "https://www.squarespace.com/"
+},
+{
+"text": "[image: Ruffridge Alaska State House District 7]",
+"href": "https://www.voteruffridge.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/justinstatehouse"
+}
 ]

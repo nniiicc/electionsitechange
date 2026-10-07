@@ -1,4 +1,3 @@
-Echols Campaign Announces Endorsement by Over Half of all Oklahoma Sheriffs
-Oklahoma City, OK – Today, the campaign for Oklahoma Attorney General candidate Jon Echols announced a new list of 13 Sheriff endorsements.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Day September 4, 2025 Uncategorized Echols Campaign Announces Endorsement by Over Half of all Oklahoma Sheriffs Oklahoma City, OK – Today, the campaign for Oklahoma Attorney General candidate Jon Echols announced a new list of 13 Sheriff endorsements.
 With the announcement, Echols has officially locked in the endorsement of over half the Sheriffs in Oklahoma.
-He now sits at…
+He now sits at… campaign2026 September 4, 2025 Terms – Privacy – Opt-in Authorized and Paid for by Echols for Attorney General 2026

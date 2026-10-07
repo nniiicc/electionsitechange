@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.markdcarverfornchouse109.com/vote",
- "paid_for_by": null,
+ "fingerprint": "ae14b779d0ce0a8ca790ef113aa528b89bb0989a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

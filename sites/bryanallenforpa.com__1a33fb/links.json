@@ -1,24 +1,114 @@
 [
-"http://vote.pa.gov/applymailballot",
-"http://vote.pa.gov/polls",
-"http://vote.pa.gov/register",
-"https://bryanallenforpa.com/",
-"https://bryanallenforpa.com/about",
-"https://bryanallenforpa.com/contact",
-"https://bryanallenforpa.com/endorsements",
-"https://bryanallenforpa.com/get-involved",
-"https://bryanallenforpa.com/gujarati",
-"https://bryanallenforpa.com/issues",
-"https://bryanallenforpa.com/news",
-"https://bryanallenforpa.com/vote",
-"https://facebook.com/BryanAllenforPA",
-"https://instagram.com/bryanallenforpa",
-"https://secure.actblue.com/donate/bryanallenforpa",
-"https://secure.actblue.com/donate/bryanallenforpa?express_lane=true",
-"https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=50",
-"https://secure.ngpvan.com/bWCk-8ig_EO6z9ygvE4ziw2"
+{
+"text": "About",
+"href": "https://www.bryanallenforpa.com/about"
+},
+{
+"text": "Click here to request a yard sign!",
+"href": "https://secure.ngpvan.com/bWCk-8ig_EO6z9ygvE4ziw2"
+},
+{
+"text": "Contact",
+"href": "https://www.bryanallenforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bryanallenforpa"
+},
+{
+"text": "DONATE",
+"href": "https://www.bryanallenforpa.com"
+},
+{
+"text": "Donate $100",
+"href": "https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=100"
+},
+{
+"text": "Donate $25",
+"href": "https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=25"
+},
+{
+"text": "Donate $250",
+"href": "https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=250"
+},
+{
+"text": "Donate $5",
+"href": "https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=5"
+},
+{
+"text": "Donate $50",
+"href": "https://secure.actblue.com/donate/bryanallenforpa?express_lane=true&amount=50"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bryanallenforpa.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.bryanallenforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.bryanallenforpa.com"
+},
+{
+"text": "MEET BRYAN",
+"href": "https://www.bryanallenforpa.com/about"
+},
+{
+"text": "News",
+"href": "https://www.bryanallenforpa.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bryanallenforpa?express_lane=true"
+},
+{
+"text": "Platform",
+"href": "https://www.bryanallenforpa.com/issues"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.bryanallenforpa.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.bryanallenforpa.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://www.bryanallenforpa.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BryanAllenforPA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bryanallenforpa/"
+},
+{
+"text": "[image: imgi_22_qt=q_95.png]",
+"href": "https://www.bryanallenforpa.com"
+},
+{
+"text": "contact@bryanallenforpa.com",
+"href": "mailto:contact@bryanallenforpa.com"
+},
+{
+"text": "vote.pa.gov/applymailballot",
+"href": "http://vote.pa.gov/applymailballot"
+},
+{
+"text": "vote.pa.gov/polls",
+"href": "http://vote.pa.gov/polls"
+},
+{
+"text": "vote.pa.gov/register",
+"href": "http://vote.pa.gov/register"
+},
+{
+"text": "ગુજરાતીમાં વાંચો!",
+"href": "https://www.bryanallenforpa.com/gujarati"
+}
 ]

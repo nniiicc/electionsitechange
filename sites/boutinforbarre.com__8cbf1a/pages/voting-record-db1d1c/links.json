@@ -1,12 +1,54 @@
 [
-"https://boutinforbarre.com/",
-"https://boutinforbarre.com/about",
-"https://boutinforbarre.com/boutin-beat",
-"https://boutinforbarre.com/contact-me",
-"https://boutinforbarre.com/donate",
-"https://boutinforbarre.com/issues",
-"https://boutinforbarre.com/voting-record",
-"https://facebook.com/boutinforbarre",
-"https://legislature.vermont.gov/Documents/2026/Docs/RESOLUTN/HR0012/HR0012%20As%20adopted%20by%20the%20House%20Official.pdf",
-"https://legislature.vermont.gov/people/single/2026/40432"
+{
+"text": "About",
+"href": "https://boutinforbarre.com/about"
+},
+{
+"text": "Boutin Beat",
+"href": "https://boutinforbarre.com/boutin-beat"
+},
+{
+"text": "Contact",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Contact Me",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://boutinforbarre.com/donate"
+},
+{
+"text": "Home",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "Issues",
+"href": "https://boutinforbarre.com/issues"
+},
+{
+"text": "View my official voting record",
+"href": "https://legislature.vermont.gov/people/single/2026/40432#voting-record"
+},
+{
+"text": "Voting Record",
+"href": "https://boutinforbarre.com/voting-record"
+},
+{
+"text": "[image]",
+"href": "https://legislature.vermont.gov/Documents/2026/Docs/RESOLUTN/HR0012/HR0012%20As%20adopted%20by%20the%20House%20Official.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/boutinforbarre"
+},
+{
+"text": "https://governor.vermont.gov/sites/scott/files/documents/S.190%20veto%20letter.pdf",
+"href": "https://governor.vermont.gov/sites/scott/files/documents/S.190%20veto%20letter.pdf"
+}
 ]

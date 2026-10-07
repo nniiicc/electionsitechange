@@ -1,5 +1,4 @@
-Dear Friends,
-Yesterday was crossover, the day by which a bill needs to pass in its house of origin to be guaranteed a hearing in the other house.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Crossover Time Mar 24, 2026 Dear Friends, Yesterday was crossover, the day by which a bill needs to pass in its house of origin to be guaranteed a hearing in the other house.
 Committees have been very busy and we have spent a lot of time on the Senate floor debating and voting on bills.
 Please scroll down for an update on which bills in my legislative agenda have crossed over.
 As a member of the Budget & Taxation Committee, we have spent the past 60 days or so reviewing executive agencies budgets and crafting a budget which was passed by the Senate last week and is being considered by the House this week.
@@ -16,6 +15,6 @@ As we enter the final weeks of session, we’ll be busy fine-tuning bills and th
 Rest assured that my focus continues to be on bringing costs down and protecting Marylanders from the overreaches of the federal government.
 As always, please feel free to reach out if my office can be of assistance to you.
 Shelly L.
-Hettleman
-Senator, District 11
-Check out the full newsletter here.
+Hettleman Senator, District 11 Check out the full newsletter here .
+Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

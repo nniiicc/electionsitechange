@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/caitlinrourk.bsky.social",
-"https://caitlinrourk.com/",
-"https://caitlinrourk.com/contact-us",
-"https://caitlinrourk.com/issues",
-"https://caitlinrourk.com/news",
-"https://caitlinrourk.com/privacy-policy",
-"https://caitlinrourk.substack.com/",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfmMU0Tx5QZeAm0XeFXNAybgUrIOPpCrfvYs-rEYEH6kIo30Q/viewform",
-"https://facebook.com/caitlinrourkforcongress",
-"https://forms.gle/AoKDK4Vr5RjPM1BP8",
-"https://instagram.com/caitlinrourk",
-"https://linkedin.com//in/caitlinrourk",
-"https://secure.actblue.com/donate/caitlin-rourk-website"
+{
+"text": "Contact Us",
+"href": "https://www.caitlinrourk.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/caitlin-rourk-website"
+},
+{
+"text": "Home",
+"href": "https://www.caitlinrourk.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.caitlinrourk.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.caitlinrourk.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.caitlinrourk.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfmMU0Tx5QZeAm0XeFXNAybgUrIOPpCrfvYs-rEYEH6kIo30Q/viewform"
+},
+{
+"text": "Yard Signs",
+"href": "https://forms.gle/AoKDK4Vr5RjPM1BP8"
+},
+{
+"text": "[image: Caitlin Rourk for Congress logo]",
+"href": "https://www.caitlinrourk.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.caitlinrourk.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/caitlinrourk.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://caitlinrourk.substack.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/caitlinrourkforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/caitlinrourk"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com//in/caitlinrourk/"
+}
 ]

@@ -1,28 +1,122 @@
 [
-"http://twitter.com/teresa_saavedra",
-"https://facebook.com/TeresaWoorman",
-"https://forms.gle/qTmVhbW3XL5Qu6GU6",
-"https://instagram.com/teresa_woorman",
-"https://linkedin.com/in/teresawoorman",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0962?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0963?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0965?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1042?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1069?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1070?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1083?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1248?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1272?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1409?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1420?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1438?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1476?ys=2025RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1530?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1569?ys=2026rs",
-"https://secure.actblue.com/donate/teresawoorman",
-"https://teresawoorman.com/",
-"https://teresawoorman.com/contact-8",
-"https://teresawoorman.com/legislation",
-"https://teresawoorman.com/newsletter",
-"https://teresawoorman.com/scholarships"
+{
+"text": "Contact",
+"href": "https://www.teresawoorman.com/contact-8"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresawoorman"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Get involved!",
+"href": "https://forms.gle/qTmVhbW3XL5Qu6GU6"
+},
+{
+"text": "HB 1069 – Insurance Discretionary Clauses Prohibition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1069?ys=2025RS&search=True"
+},
+{
+"text": "HB 1248 Revenge Pornography and Intimate Visual Depictions - Prohibition and Removal",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1248?ys=2025RS&search=True"
+},
+{
+"text": "HB 1476 Labor and Employment - Disclosure of Employee's Immigration Status - Prohibition",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1476?ys=2025RS&search=True"
+},
+{
+"text": "HB 965 Office of Health Care Quality Stakeholder Advisory Council - Establishment",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0965?ys=2026RS"
+},
+{
+"text": "HB0962: Local Public Campaign Financing - County Boards of Education",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0962?ys=2026RS"
+},
+{
+"text": "HB0963: Registers of Wills – Appointment of Personal Representatives",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0963/?ys=2026rs"
+},
+{
+"text": "HB1042: Health Occupations – Structural Racism Training – Funding Sources",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1042/?ys=2026rs"
+},
+{
+"text": "HB1070 Maryland Department of Health - Access to Telephones - Study",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1070?ys=2025RS&search=True"
+},
+{
+"text": "HB1083: Montgomery County Board of Elections – Membership",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1083/?ys=2026rs"
+},
+{
+"text": "HB1272 Youth Sports Safety Advisory Commission",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1272?ys=2025RS&search=True"
+},
+{
+"text": "HB1420 Registers of Wills - Appointment of Personal Representatives - Noncitizens",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1420?ys=2025RS&search=True"
+},
+{
+"text": "HB1438: State Board of Education – Public High School Graduation Requirements",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1438?ys=2026RS"
+},
+{
+"text": "HB1530: Higher Education – Undocumented Students – Out–of–State Tuition Exemption Eligibility",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1530?ys=2026RS"
+},
+{
+"text": "HB1569: Parking Enforcement - Vehicles in Custody or Control of Auto Repair or Storage Facility",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1569/?ys=2026rs"
+},
+{
+"text": "HB409 Health - Medical Care Facilities - Electronic Monitoring Devices",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1409?ys=2025RS&search=True"
+},
+{
+"text": "Home",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.teresawoorman.com/legislation"
+},
+{
+"text": "Media",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Newsletter",
+"href": "https://www.teresawoorman.com/newsletter"
+},
+{
+"text": "Scholarships",
+"href": "https://www.teresawoorman.com/scholarships"
+},
+{
+"text": "Video",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TeresaWoorman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/teresa_woorman/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/teresawoorman/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/teresa_saavedra"
+},
+{
+"text": "teresa@teresawoorman.com",
+"href": "mailto:teresa@teresawoorman.com"
+}
 ]

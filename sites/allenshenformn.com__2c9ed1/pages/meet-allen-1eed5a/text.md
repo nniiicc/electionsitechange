@@ -1,7 +1,4 @@
-An American
-Dream Story
-Background
-The American Dream story of my family started when my parents decided to immigrate to America in the late 1980s.
+top of page Christian, Veteran, Patriot Donate Freedom Matters Home Meet Allen Allen & Friends Media Vision Your Constitutional Rights Minnesota's Education Minnesota's Economy Healthcare Public Safety Veterans Government Reform Other Issues Current Issues Take Action Join us Internship An American Dream Story Background The American Dream story of my family started when my parents decided to immigrate to America in the late 1980s .
 Aspired by freedom that the United States represented, they believed that if they put in the hard work anything was possible in the Land of the Free.
 My dad’s career had experienced many ups and downs.
 He went from teaching at the University of Minnesota to a paperboy delivering Star Tribunes to make the ends meet.
@@ -19,9 +16,7 @@ My parents reached out to the then State Auditor Mark Dayton for help and he did
 Mark Dayton used this connections in the government to put pressures on the Chinese government, Eventually, by the grace of God, we were able to convince Henry Kissinger to write a letter to the Chinese government and demanded for my release.
 When I was 12 years old I flew across the Pacific Ocean by myself leaving the communist state behind.
 Upon seeing the shiny cars dashing on the freeways while landing at LAX, I realized that I had arrived in the land of the Free, and thus my journey in the free world began.
-Allen Shen's Childhood in China
-Military Service
-Upon finishing high school at Mounds View I answered the call to serve my country in the US Army.
+Allen Shen's Childhood in China Mark Dayton and his children with Allen Shen 1992 Military Service Upon finishing high school at Mounds View I answered the call to serve my country in the US Army.
 This country had offered me so much, and allowed me to fully live out my potentials.
 It was my desire and greatest honor to defend her freedom, carrying on the ideal of our nation and to protect the American way of life.
 During the seven years while I served in the US Army, I had come across many brave patriots who were willing to give their lives to protect this great nation.
@@ -32,10 +27,10 @@ It was my time in the military that taught me the concepts of discipline, selfle
 I am now answering another call to serve my country and my state of Minnesota by running for the State House.
 I will fight to defend our constitutional rights, our freedom and the American way of life.
 We are the land of the free because we are home of the brave!
-International Experiences
-After I got out of the Army, I took a job opportunity and moved to Shanghai, China doing international business.
+International Experiences After I got out of the Army, I took a job opportunity and moved to Shanghai, China doing international business.
 I worked for two French companies with the intention to further advance my international business expertise and obtain the consumer behaviors over in the Far East.
 I brought my extensive knowledge back to the United States to assist American corporations in expanding their business interests into global markets.
 Combining my international business savvy and my military style determination, I will get things done for you.
 Unlike the career politicians who are in this for the glamour and fame, I know I work for you, the Great Minnesotan People, hence I will not waver for a second on my determination to serve.
-Business trip in Taiwan, Allen and Michel
+Business trip in Taiwan, Allen and Michel Allen Shen's Commencement Speech Allen's Interview: Truth of Socialism Click the buttons below, take actions today!
+Join Our Team Chip In Today Prepared and paid for by Allen Shen for House Committee. campaign office 7321 Melody Drive NE Fridley, MN 55432 bottom of page

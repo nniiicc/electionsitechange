@@ -1,6 +1,22 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://veronicaforsenate.com/",
-"https://veronicaforsenate.com/about-me",
-"https://veronicaforsenate.com/policies"
+{
+"text": "About Me",
+"href": "https://veronicaforsenate.com/about-me"
+},
+{
+"text": "Home",
+"href": "https://veronicaforsenate.com/"
+},
+{
+"text": "Policies",
+"href": "https://veronicaforsenate.com/policies"
+},
+{
+"text": "Veronica FernandezIndependent ProgressiveVeronica Fernandez Independent ProgressiveVeronica Fernandez Independent ProgressiveVeronica Fernandez Independent Progressive",
+"href": "https://veronicaforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

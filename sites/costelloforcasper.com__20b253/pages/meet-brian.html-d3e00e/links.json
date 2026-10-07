@@ -1,8 +1,26 @@
 [
-"https://costelloforcasper.com/contact.html",
-"https://costelloforcasper.com/donate.html",
-"https://costelloforcasper.com/endorsements.html",
-"https://costelloforcasper.com/index.html",
-"https://costelloforcasper.com/meet-brian.html",
-"https://costelloforcasper.com/priorities.html"
+{
+"text": "Contact",
+"href": "https://www.costelloforcasper.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.costelloforcasper.com/donate.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.costelloforcasper.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.costelloforcasper.com/index.html"
+},
+{
+"text": "Meet Brian",
+"href": "https://www.costelloforcasper.com/meet-brian.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.costelloforcasper.com/priorities.html"
+}
 ]

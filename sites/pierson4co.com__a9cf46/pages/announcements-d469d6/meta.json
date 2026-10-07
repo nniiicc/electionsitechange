@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the latest announcements from Michael Pierson, your representative for Colorado House of Representatives District 22.",
  "final_url": "https://pierson4co.com/announcements",
- "paid_for_by": null,
+ "fingerprint": "2778e1b594820441b3a45b479ba6cd070199ef34",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Michael Pierson&#39;s Announcements for Colorado House of Representatives",
  "years_mentioned": []
 }

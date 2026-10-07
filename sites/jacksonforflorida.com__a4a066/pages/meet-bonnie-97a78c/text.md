@@ -1,4 +1,4 @@
-Bonnie Jackson is a principled community leader, local business owner, and longtime Orange County resident.
+Home Meet Bonnie Donate Back to Basics Agenda Endorsements Press Release Video More Home Meet Bonnie Donate Back to Basics Agenda Endorsements Press Release Video Home Meet Bonnie Donate Back to Basics Agenda Endorsements Press Release Video Meet Bonnie Bonnie Jackson is a principled community leader, local business owner, and longtime Orange County resident.
 For nearly 30 years, Bonnie has called our community home—raising a family, building a successful business, and watching the area grow and evolve.
 Now she’s running for the Florida House of Representatives to bring her leadership, legal expertise, and business experience to Tallahassee, ensuring Orange County families have a strong, effective voice in our State Capitol.
 A successful attorney for three decades, Bonnie began her career as an Assistant District Attorney in Houston, Texas, before moving to Florida and entering private practice.
@@ -10,3 +10,5 @@ Active in her parish, St.
 Margaret Mary Catholic Church, Bonnie has served as a Sunday preschool teacher and in various ministries.
 She is fluent in Spanish and remains committed to giving back to her community through professional and volunteer service.
 Bonnie and Michael live in Winter Park, where they raised their three children and are proud to welcome a wonderful son-in-law into their family.
+Copyright © # Jackson for Florida - All Rights Reserved.
+Powered by

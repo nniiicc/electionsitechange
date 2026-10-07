@@ -1,7 +1,12 @@
 {
  "description": "Get to know Mike Zimmer as a family man, business man, coach, and community volunteer.",
  "final_url": "https://www.mikezimmerforiowa.com/about",
+ "fingerprint": "9e86ea4b0f04dcc20bda855427ab2ff6f89186b9",
+ "format": 3,
  "paid_for_by": "Paid for by Mike Zimmer for Iowa Senate",
  "title": "About | Zimmer for Iowa State Senate | Clinton, IA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000",
+  "2002"
+ ]
 }

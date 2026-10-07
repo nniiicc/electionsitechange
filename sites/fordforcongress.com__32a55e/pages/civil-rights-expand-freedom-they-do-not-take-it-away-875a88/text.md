@@ -1,9 +1,8 @@
-By La Shawn K.
-Ford
-By La Shawn K.
-Ford
-Dear Neighbors,
-I am deeply concerned by the direction of our national conversation on civil rights, particularly following recent comments by President Donald Trump suggesting that civil rights protections amount to “reverse discrimination” against white Americans.
+Skip to content Follow Ford Facebook X-twitter Instagram Youtube DONATE Civil Rights Expand Freedom.
+They Do Not Take It Away.
+By Ford for Congress Campaign Team / January 12, 2026 By La Shawn K.
+Ford By La Shawn K.
+Ford Dear Neighbors, I am deeply concerned by the direction of our national conversation on civil rights, particularly following recent comments by President Donald Trump suggesting that civil rights protections amount to “reverse discrimination” against white Americans.
 That claim is wrong, and it is dangerous.
 The civil rights movement did not emerge from theory or political convenience.
 It was a response to centuries of systemic discrimination, violence, and exclusion faced by Black Americans and other marginalized communities.
@@ -26,6 +25,10 @@ Equality is not a zero-sum proposition.
 Protecting civil rights strengthens the nation as a whole.
 This moment calls for clarity and resolve.
 We must honor those who fought to expand freedom in this country and recommit ourselves to building a society where equality is not only a principle, but a lived reality.
-Sincerely,
-La Shawn K.
-Ford
+Sincerely, La Shawn K.
+Ford Previous Affordable Housing Plan for Illinois’ 7th Congressional District Next Trump’s Project 2025 vs.
+Ford’s Project 2027 Leave a Comment Cancel Reply Your email address will not be published.
+Required fields are marked * Type here..
+Name* Email* Website Save my name, email, and website in this browser for the next time I comment.
+A PROVEN RECORD issues The Newsroom donate donate Facebook X-twitter Instagram Youtube Privacy Policy Paid for by La Shawn K.
+Ford for Congress Scroll to Top A Proven Record Issues Platform The Newsroom Endorsements Volunteer Contact Us DONATE

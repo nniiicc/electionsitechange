@@ -1,5 +1,4 @@
-Misti Cordell: A Fighter for Louisiana, Not a Politician for Washington
-Unlike the career politicians in the race, Misti Cordell is not a career politician.
+Home About Platform News Support DONATE About Misti Cordell: A Fighter for Louisiana, Not a Politician for Washington Unlike the career politicians in the race, Misti Cordell is not a career politician.
 Misti is a wife and mother, a successful businesswoman, a Republican leader, a two-time Trump delegate, and Governor Landry’s appointed Board of Regents Chair.
 She has spent her adulthood raising a family, growing a business, and serving her community - giving her real-world experience, not empty rhetoric.
 As a mother and businesswoman, she understands firsthand the pressures families face from rising healthcare costs, failing schools, inflation, and over-taxation.
@@ -14,3 +13,4 @@ Under her leadership, the Board has focused on fiscal responsibility, strengthen
 A Trump Delegate to the 2020 and 2024 Republican National Conventions, Misti has spent years as a Republican leader.
 She serves on the Louisiana Republican State Central Committee and has held executive roles in multiple parish and local Republican organizations.
 As Louisiana’s next Member of Congress, Misti will focus on defending President Trump from partisan impeachment attacks, cutting taxes, eliminating wasteful spending, securing the border, protecting the right to life, defending the Second Amendment, restoring parental rights in education, protecting women’s sports and Title IX, rebuilding infrastructure, expanding broadband access, and fighting for farmers and small businesses across both urban and rural Louisiana.
+PAID FOR BY CORDELL FOR CONGRESS 3103 Cypress Street, Suite 3, Box 126, West Monroe, LA 71291 (318) 930-2238 PRIVACY POLICY Share by:

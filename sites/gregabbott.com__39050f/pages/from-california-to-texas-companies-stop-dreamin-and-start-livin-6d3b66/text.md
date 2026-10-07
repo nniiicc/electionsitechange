@@ -1,5 +1,5 @@
-Since 2020, more than 100 companies have relocated to Texas.
-A whopping 40 percent of them are fleeing California.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page From California to Texas — Companies Stop Dreamin’ and Start Livin’ Apr 8, 2026 Since 2020, more than 100 companies have relocated to Texas.
+A whopping 40 percent of them are fleeing California .
 And of the ten Fortune 500 companies that have moved to Texas in the last six years, eight of them are from our rival in the West.
 These California transplants are some of the nearly 330 corporate headquarters that Texas has attracted since Governor Abbott became governor.
 This is no accident.
@@ -21,3 +21,5 @@ Texas is where the future of global business and trade is being built.
 In 2025, the state was recognized by Site Selection Magazine as the best state for doing business, ranking first in the nation by attracting more than 1,400 business locations and expansion projects.
 In contrast, the Golden State has tarnished.
 That’s why companies are moving to the Black Gold State – Texas.
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

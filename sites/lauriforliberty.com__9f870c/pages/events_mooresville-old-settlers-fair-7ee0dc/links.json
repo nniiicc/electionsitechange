@@ -1,22 +1,90 @@
 [
-"http://eepurl.com/jmvTI2",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mooresville+Old+Settlers+Fair&dates=20260808T210000Z%2F20260809T010000Z",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://google.com/maps/place/Pioneer+Park/@39.6275455,-86.3602585,17z/data=!3m1!4b1!4m6!3m5!1s0x886ca24f59e5c9d7:0x3db9de7a63d7297!8m2!3d39.6275455!4d-86.3602585!16s%2Fg%2F11g6mhtwnm?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/events/ballad-access-night",
-"https://lauriforliberty.com/events/mooresville-old-settlers-fair?format=ical",
-"https://lauriforliberty.com/events/whitley-county-first-friday",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mooresville+Old+Settlers+Fair&dates=20260808T210000Z%2F20260809T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.lauriforliberty.com/events/mooresville-old-settlers-fair?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Next Next August 28 Ballad Access Night",
+"href": "https://www.lauriforliberty.com/events/ballad-access-night"
+},
+{
+"text": "Pioneer Park",
+"href": "https://www.google.com/maps/place/Pioneer+Park/@39.6275455,-86.3602585,17z/data=!3m1!4b1!4m6!3m5!1s0x886ca24f59e5c9d7:0x3db9de7a63d7297!8m2!3d39.6275455!4d-86.3602585!16s%2Fg%2F11g6mhtwnm?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Previous Previous August 7 Whitley County First Friday",
+"href": "https://www.lauriforliberty.com/events/whitley-county-first-friday"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+}
 ]

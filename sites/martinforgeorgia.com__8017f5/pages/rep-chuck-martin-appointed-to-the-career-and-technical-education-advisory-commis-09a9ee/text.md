@@ -1,6 +1,6 @@
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
 Rep.
-Chuck Martin Appointed to the Career and Technical Education Advisory Commission
-August 29, 2023
-Improving Educational Opportunities for Georgians
-"I'm honored to be selected by Speaker Jon Burns to serve on the Career & Technical Education Advisory Commission" - Rep.
-Chuck Martin
+Chuck Martin Appointed to the Career and Technical Education Advisory Commission August 29, 2023 Improving Educational Opportunities for Georgians "I'm honored to be selected by Speaker Jon Burns to serve on the Career & Technical Education Advisory Commission" - Rep.
+Chuck Martin < Older Post Newer Post > Share Tweet Share Mail Updates from Chuck Listening First on Local Taxes July 27, 2026 The first meeting of the Blue-Ribbon Study Committee on Local Government Taxation, Funding, and Budgeting.
+University of North Georgia STEM Excellence Center Groundbreaking By Chuck Martin • July 14, 2026 University of North Georgia - STEM Excellence Center Groundbreaking 1 (current) 2 3 ...
+8 HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

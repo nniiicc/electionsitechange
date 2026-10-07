@@ -1,3 +1,1 @@
-Oct 6, 2020 | News
-Read Full Article:
-https://www.duluthnewstribune.com/opinion/columns/6691182-Minnesota-Supreme-Court-Incumbents-View-Return-sound-judgment-valuable-experience-to-the-court
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page News Minnesota Supreme Court Incumbent’s View: Return sound judgment, valuable experience to the court Oct 6, 2020 | News Read Full Article: https://www.duluthnewstribune.com/opinion/columns/6691182-Minnesota-Supreme-Court-Incumbents-View-Return-sound-judgment-valuable-experience-to-the-court Privacy Policy

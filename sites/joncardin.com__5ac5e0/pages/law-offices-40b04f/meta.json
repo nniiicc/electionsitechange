@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/law-offices",
- "paid_for_by": null,
+ "fingerprint": "ad659891d9eb4803a50fd559e44460a0297a0c70",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Law Offices",
  "years_mentioned": [
+  "2003",
+  "2004",
   "2012",
-  "2015",
-  "2020"
+  "2015"
  ]
 }

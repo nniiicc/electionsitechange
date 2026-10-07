@@ -1,16 +1,74 @@
 [
-"https://facebook.com/RayPickettNCHouse",
-"https://google.com/maps/search/P.O.+Box 265 ,+ Blowing Rock,+North Carolina,+28605+USA",
-"https://google.com/maps/search/P.O.+Box 265,+Blowing Rock,+NC,+28605+USA",
-"https://raypickettdotcom.wordpress.com/",
-"https://raypickettdotcom.wordpress.com/about",
-"https://raypickettdotcom.wordpress.com/contact",
-"https://raypickettdotcom.wordpress.com/gallery",
-"https://secure.anedot.com/committee-to-elect-ray-pickett/donate",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fraypickettdotcom.wordpress.com%2Fcontact%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fraypickettdotcom.wordpress.com%2Fcontact%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/228273692/posts/58",
-"https://wordpress.com/start",
-"https://wp.me/PfrOpK-W"
+{
+"text": "About",
+"href": "https://raypickettdotcom.wordpress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://raypickettdotcom.wordpress.com/contact/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/PfrOpK-W"
+},
+{
+"text": "DonateUse this form to donate to Ray Pickett’s campaign",
+"href": "https://secure.anedot.com/committee-to-elect-ray-pickett/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RayPickettNCHouse/"
+},
+{
+"text": "Gallery",
+"href": "https://raypickettdotcom.wordpress.com/gallery/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fraypickettdotcom.wordpress.com%2Fcontact%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fraypickettdotcom.wordpress.com%2Fcontact%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "P.O. Box 265 Blowing Rock, North Carolina 28605USA",
+"href": "https://www.google.com/maps/search/P.O.+Box%20265%20,+%20Blowing%20Rock,+North%20Carolina,+28605+USA"
+},
+{
+"text": "P.O. Box 265Blowing Rock, NC 28605USA",
+"href": "https://www.google.com/maps/search/P.O.+Box%20265,+Blowing%20Rock,+NC,+28605+USA"
+},
+{
+"text": "Ray Pickett for NC House",
+"href": "https://raypickettdotcom.wordpress.com"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fraypickettdotcom.wordpress.com%2Fcontact%2F"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/228273692/posts/58"
+},
+{
+"text": "[image]Ray Pickett for NC House",
+"href": "https://raypickettdotcom.wordpress.com"
+},
+{
+"text": "info@raypickett.com",
+"href": "mailto:info@raypickett.com"
+},
+{
+"text": "← Back",
+"href": "https://raypickettdotcom.wordpress.com/contact/"
+}
 ]

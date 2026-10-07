@@ -1,8 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://lilliwalsh.com/",
-"https://lilliwalsh.com/contact-me",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/friends-of-lilli-walsh/donate"
+{
+"text": "978-228-5116",
+"href": "tel:9782285116"
+},
+{
+"text": "Contact Me",
+"href": "https://lilliwalsh.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-lilli-walsh/donate"
+},
+{
+"text": "Home",
+"href": "https://lilliwalsh.com/"
+},
+{
+"text": "Lilli@lilliwalsh.com",
+"href": "mailto:Lilli@lilliwalsh.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Elect Lilli Walsh for State Rep. District 15 Hampstead, NH ]",
+"href": "https://lilliwalsh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

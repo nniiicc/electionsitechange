@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/paoverprofits.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61586737770108",
-"https://pennsylvaniansoverprofits.com/",
-"https://pennsylvaniansoverprofits.com/about",
-"https://pennsylvaniansoverprofits.com/events",
-"https://pennsylvaniansoverprofits.com/issues",
-"https://pennsylvaniansoverprofits.com/why-run-why-now",
-"https://secure.actblue.com/donate/pa-over-profits",
-"https://substack.com/@pennsylvaniansoverprofits",
-"https://x.com/paoverprofits",
-"https://youtube.com/@pennsylvaniansoverprofits"
+{
+"text": "About",
+"href": "https://www.pennsylvaniansoverprofits.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pa-over-profits"
+},
+{
+"text": "Events",
+"href": "https://www.pennsylvaniansoverprofits.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.pennsylvaniansoverprofits.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Why Run? Why Now?",
+"href": "https://www.pennsylvaniansoverprofits.com/why-run-why-now"
+},
+{
+"text": "[image: Kyle Devlin for State House District 111 | Pennsylvanians Over Profits]",
+"href": "https://www.pennsylvaniansoverprofits.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/paoverprofits.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61586737770108"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@pennsylvaniansoverprofits"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@pennsylvaniansoverprofits"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/paoverprofits"
+},
+{
+"text": "kyle@pennsylvaniansoverprofits.com",
+"href": "mailto:kyle@pennsylvaniansoverprofits.com"
+}
 ]

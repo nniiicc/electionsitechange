@@ -1,46 +1,13 @@
-news & press
-NEWS ARTICLE
-Democratic congressional hopeful Paul Nolley on Iran war, ‘chaotic’ tariffs, and workers’ rights
-NEWS ARTICLE
-Nolley, Kemp to be featured at Sept. 10 candidate event at Sauk Valley Community College
-NEWS ARTICLE - Rockton-Roscoe News
-‘Working-class people, we’ve had it rough’: LaHood’s Democratic challenger tells voters in Morris
-NEWS ARTICLE - WGLT 89.1FM
-U.S.
+Skip navigation menu Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE news & press NEWS ARTICLE Paul Nolley full interview with WGLT Read more Sep 29 2026 NEWS ARTICLE Congressional candidates offer positions on budget deficit and Social Security fixes Read more Sep 29 2026 NEWS ARTICLE Paul Nolley blames Republicans for rising diesel prices Read more Sep 25 2026 NEWS ARTICLE Democratic candidate Paul Nolley links fuel hikes to Iran conflict during campaign stop Read more Sep 25 2026 NEWS ARTICLE Nolley Challenges LaHood on His Votes that Supported the War Read more Sep 22 2026 NEWS ARTICLE Paul Nolley returns to Roscoe for a Community Townhall Read more Sep 11 2026 NEWS ARTICLE Nolley addresses data centers during Bloomington town hall Read more Aug 30 2026 NEWS ARTICLE Paul Nolley Discusses 16th Congressional District Campaign Read more Aug 28 2026 NEWS ARTICLE Submit a Question for the 2026 Illinois 16th Congressional District Candidate Forum Read more Aug 26 2026 NEWS ARTICLE Paul Nolley Candidate for U.S.
+House - 16th District Read more Aug 25 2026 NEWS ARTICLE Democratic congressional hopeful Paul Nolley on Iran war, ‘chaotic’ tariffs, and workers’ rights Read more Aug 24 2026 NEWS ARTICLE Nolley, Kemp to be featured at Sept.
+10 candidate event at Sauk Valley Community College Read more Aug 19 2026 NEWS ARTICLE - Galena Gazette Nolley kicks off door to door campaigning in Elizabeth Read more Jul 28 2026 NEWS ARTICLE - WMBD ABC PEORIA Democrats rally in Peoria in hopes of beating Rep.
+Darin LaHood Read more Jul 21 2026 interview - the ben jarovsky show Paul Nolley—Here Comes The Underdog Read more Jul 10 2026 NEWS ARTICLE - Rockton-Roscoe News ‘Working-class people, we’ve had it rough’: LaHood’s Democratic challenger tells voters in Morris Read more Jun 24 2026 NEWS ARTICLE - WGLT 89.1FM U.S.
 Rep.
-Darin LaHood and Democratic opponent Paul Nolley differ on war powers vote
-NEWS ARTICLE - SHAW LOCAL
-Democratic candidate Nolley heads to Streator for kid-friendly campaign stop
-NEWS ARTICLE - Rockton-Roscoe News
-Roscoe resident takes on incumbent for Illinois's 16th Congressional District
-NEWS ARTICLE - Channel 25 peoria
-Democratic newcomer challenges incumbent LaHood for 16th Congressional District seat
-NEWS ARTICLE - WIFR CBS ROCKFORD
-The Issues: U.S.
-Congressmen, candidate weigh in on busy week in Washington
-NEWS ARTICLE - Rockford register star
-Here are the major Illinois and Rockford area elections to watch
-NEWS ARTICLE - telegraph herald
-Illinois Dems talk economic, social struggles at Jo Daviess County forum
-NEWS ARTICLE - WIFR CBS ROCKFORD
-Democrat Paul Nolley gains union endorsements in bid for 16th Congressional seat
-NEWS ARTICLE - WTVO ABC Rockford
-Democratic candidate Paul Nolley earns endorsements from Illinois labor groups
-NEWS ARTICLE - channel 25 peoria
-Democratic challenger calls on LaHood to vote for release of Epstein files
-NEWS ARTICLE - WTVO abc Rockford
-Paul Nolley engages with constituents in Rockton in bid to unseat Rep.
-Darin LaHood
-NEWS ARTICLE - peoria journal star
-Two candidates file to run against Darin LaHood in midterm elections
-NEWS ARTICLE - The Bradley Scout
-Congressional hopeful Paul Nolley speaks to the public at Bradley University
-news articlE - rockton-roscoe news
-Paul Nolley, Hononegah alum, launches campaign for Illinois' 16th congressional district
-NEWS ARTICLE - rockford register star
-'I'm a regular guy': Rockford area Democrat hopes to unseat Darin LaHood in Illinois' 16th
-NEWS ARTICLE- WMBd abc peoria
-On the Record: Another Democratic challenger takes aim at LaHood’s House seat
-NEWS ARTICLE - WCBU Peoria
-A Rockford Democrat wants to offer a 'different vision' in Illinois' 16th Congressional District
-NEWS ARTICLE - WTVO ABC Rockford
+Darin LaHood and Democratic opponent Paul Nolley differ on war powers vote Read more Jun 8 2026 NEWS ARTICLE - WMBD ABC PEORIA Democrat Paul Nolley wants a debate with Rep.
+LaHood Read more May 19 2026 NEWS ARTICLE - galena gazette Nolley meets with citizens during campaign Read more May 19 2026 NEWS ARTICLE - SHAW LOCAL Democratic candidate Nolley heads to Streator for kid-friendly campaign stop Read more Apr 23 2026 NEWS ARTICLE - WMBD ABC Peoria Rep.
+LaHood’s Democratic challenger makes his pitch to Morton voters Read more Apr 10 2026 NEWS ARTICLE - the Kewanee voice Congressional hopeful Paul Nolley hosts Geneseo forum Read more Apr 10 2026 NEWS ARTICLE - Rockton-Roscoe News Roscoe resident takes on incumbent for Illinois's 16th Congressional District Read more Mar 12 2026 NEWS ARTICLE - Channel 25 peoria Democratic newcomer challenges incumbent LaHood for 16th Congressional District seat Read more Feb 27 2026 NEWS ARTICLE - WIFR CBS ROCKFORD The Issues: U.S.
+Congressmen, candidate weigh in on busy week in Washington Read more Feb 26 2026 NEWS ARTICLE - Rockford register star Here are the major Illinois and Rockford area elections to watch Read more Feb 5 2026 NEWS ARTICLE - telegraph herald Illinois Dems talk economic, social struggles at Jo Daviess County forum Read more Feb 3 2026 NEWS ARTICLE - WIFR CBS ROCKFORD Democrat Paul Nolley gains union endorsements in bid for 16th Congressional seat Read more Dec 16 2025 NEWS ARTICLE - WTVO ABC Rockford Democratic candidate Paul Nolley earns endorsements from Illinois labor groups Read more Dec 16 2025 interview- the ben joravsky show Paul Nolley—Winning The 16th Read more Dec 1 2025 NEWS ARTICLE - channel 25 peoria Democratic challenger calls on LaHood to vote for release of Epstein files Read more Nov 21 2025 NEWS ARTICLE - wmbd abc peoria Democrat Paul Nolley challenges Rep.
+LaHood on Epstein files Read more Nov 17 2025 NEWS ARTICLE - rockton-roscoe news Sizable turnout for hometown Congressional candidate Paul Nolley Read more Nov 12 2025 NEWS ARTICLE - WTVO abc Rockford Paul Nolley engages with constituents in Rockton in bid to unseat Rep.
+Darin LaHood Read more Nov 11 2025 NEWS ARTICLE - peoria journal star Two candidates file to run against Darin LaHood in midterm elections Read more Nov 4 2025 NEWS ARTICLE - The Bradley Scout Congressional hopeful Paul Nolley speaks to the public at Bradley University Read more Oct 31 2025 news articlE - rockton-roscoe news Paul Nolley, Hononegah alum, launches campaign for Illinois' 16th congressional district Read more Sep 10 2025 NEWS ARTICLE - rockford register star 'I'm a regular guy': Rockford area Democrat hopes to unseat Darin LaHood in Illinois' 16th Read more Aug 27 2025 NEWS ARTICLE- WMBd abc peoria On the Record: Another Democratic challenger takes aim at LaHood’s House seat Read more Aug 11 2025 press release - u.s. term limits Strong Support in IL CD-16 Race for Term Limits on Congress Read more Aug 6 2025 NEWS ARTICLE - WCBU Peoria A Rockford Democrat wants to offer a 'different vision' in Illinois' 16th Congressional District Read more May 12 2025 NEWS ARTICLE - WTVO ABC Rockford Democrat Paul Nolley launches campaign to unseat Illinois Rep.
+Darin LaHood Read more Apr 29 2025 NEWS article - wifr CBs rockford Paul Nolley looks to unseat LaHood with bid to represent Illinois’ 16th District Read more Apr 29 2025 Contribute Volunteer Register to Vote District Map Privacy Policy Nolley for Congress P.O.
+Box 2166 Loves Park, IL 61130 General Questions: contact@nolleyforcongress.com Press & Media: press@nolleyforcongress.com Powered by RUN! website builder Paid for by Nolley for Congress You need to enable JavaScript to run this app.

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/groverformo",
-"https://groverformo.com/",
-"https://groverformo.com/30th-district",
-"https://groverformo.com/about",
-"https://groverformo.com/cart",
-"https://groverformo.com/events",
-"https://groverformo.com/get-involved",
-"https://groverformo.com/priorities",
-"https://instagram.com/groverformo",
-"https://secure.actblue.com/donate/kevingrover",
-"https://x.com/GroverforMO"
+{
+"text": "0",
+"href": "https://groverformo.com/cart"
+},
+{
+"text": "30th District",
+"href": "https://groverformo.com/30th-district"
+},
+{
+"text": "About",
+"href": "https://groverformo.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kevingrover"
+},
+{
+"text": "Events",
+"href": "https://groverformo.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://groverformo.com/get-involved"
+},
+{
+"text": "Learn more about Kevin",
+"href": "https://groverformo.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://groverformo.com/priorities"
+},
+{
+"text": "View All Priorities",
+"href": "https://groverformo.com/priorities"
+},
+{
+"text": "[image: Kevin Grover for Missouri]",
+"href": "https://groverformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/groverformo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/groverformo/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GroverforMO"
+}
 ]

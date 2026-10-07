@@ -1,12 +1,54 @@
 [
-"https://facebook.com/repfranksossamon",
-"https://frankfornc.com/",
-"https://frankfornc.com/contact",
-"https://frankfornc.com/endorsements",
-"https://frankfornc.com/meet-frank",
-"https://frankfornc.com/priorities",
-"https://frankfornc.com/privacy",
-"https://instagram.com/lauracohencreative",
-"https://instagram.com/repfranksossamon",
-"https://secure.anedot.com/committee-to-elect-frank-sossamon/donate"
+{
+"text": "CONTACT",
+"href": "https://www.frankfornc.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-frank-sossamon/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.frankfornc.com/endorsements"
+},
+{
+"text": "Explore His priorities",
+"href": "https://www.frankfornc.com/priorities"
+},
+{
+"text": "MEET FRANK",
+"href": "https://www.frankfornc.com/meet-frank"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.frankfornc.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.frankfornc.com/privacy"
+},
+{
+"text": "Site Design Credit",
+"href": "https://www.instagram.com/lauracohencreative/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repfranksossamon"
+},
+{
+"text": "[image: FrankSossamon_MainLogo.png]",
+"href": "https://www.frankfornc.com"
+},
+{
+"text": "[image: FrankSossamon_SecondaryLogo,Style2_White.png]",
+"href": "https://www.frankfornc.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repfranksossamon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.frankfornc.com/privacy"
+}
 ]

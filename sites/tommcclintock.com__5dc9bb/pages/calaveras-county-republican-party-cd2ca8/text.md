@@ -1,5 +1,4 @@
-September 22, 2024
-The Democrats have made one thing perfectly clear: they really, really, REALLY hate Donald Trump.
+Home About Issues News Volunteer Donate Calaveras County Republican Party September 22, 2024 The Democrats have made one thing perfectly clear: they really, really, REALLY hate Donald Trump.
 Apparently there is great JOY in hating somebody so much – at least for some people.
 And the reason is pretty simple.
 Donald Trump is all that stands between them and their ultimate objective: a socialist America where you will have absolute freedom to do whatever THEY WANT you to do.
@@ -19,8 +18,7 @@ They’ve weaponized our justice system, using it to harass and intimidate ordin
 And for the first time in American history, a presidential administration is abusing our legal system in order to jail its opposition.
 Their cultural Marxism that divides people by race has ignited racial divisions and virulent antisemitism that are now exploding into violence on college campuses and city streets.
 You can’t say they haven’t accomplished anything.
-Their entire campaign is crafted for the single purpose of avoiding the central question Americans will answer in 44 days: “Are you better off today than you were four years ago?”
-That question is so powerful because it’s a question they CANNOT SPIN.
+Their entire campaign is crafted for the single purpose of avoiding the central question Americans will answer in 44 days: “Are you better off today than you were four years ago?” That question is so powerful because it’s a question they CANNOT SPIN.
 Everyone knows how they’re doing in their own lives.
 Ronald Reagan asked that question in 1980 after four years of the same Democratic policies of shortage, inflation and malaise.
 Republicans won in a landslide.
@@ -51,15 +49,13 @@ He said, “The world has never had a good definition of the word liberty, and t
 We ALL declare for liberty; but in using the same word we do not ALL mean the same thing.
 With some, the word liberty may mean for each man to do as he pleases with himself, and the product of his labor; while with others the same word may mean for some men to do as they please with other men, and the product of other men’s labor.
 Here are two, not only different, but incompatible things, called by the same name, liberty.
-And it follows that each of the things is, by the respective parties, called by two different and incompatible names–liberty and tyranny.”
-And that’s the fine point of the matter and the choice before Americans today.
+And it follows that each of the things is, by the respective parties, called by two different and incompatible names–liberty and tyranny.” And that’s the fine point of the matter and the choice before Americans today.
 In 1848, Alex de Toqueville defined precisely the nature of the evil we are up against.
 He said, “The trait which best describes socialists of all schools and shades, is a profound opposition to personal liberty and scorn for individual reason, a complete contempt for the individual.
 They unceasingly attempt to mutilate, to curtail, to obstruct personal freedom in any and all ways.
 They hold that the State must not only act as the director of society, but must further be master of each man, and not only master, but keeper and trainer.
 For fear of allowing him to err, the State must place itself forever by his side, above him, around him, better to guide him, to maintain him, in a word, to confine him.
-They call, in fact, for the forfeiture, to a greater or lesser degree, of human liberty, to the point where, were I to attempt to sum up what socialism is, I would say that it was simply a new system of serfdom.”
-So when Tim Walz says that socialism is neighborliness – he actually believes that.
+They call, in fact, for the forfeiture, to a greater or lesser degree, of human liberty, to the point where, were I to attempt to sum up what socialism is, I would say that it was simply a new system of serfdom.” So when Tim Walz says that socialism is neighborliness – he actually believes that.
 When Kamala Harris proposes the economic policies of Nicholas Maduro and Hugo Chavez – she actually believes that.
 When they have tolerated violent riots in our streets, ordered brutal and unconstitutional mass lockdowns of our people, squandered trillions of dollars of our earnings for their green energy grifters, released dangerous felons on our streets, opened our borders to criminal gangs and international crime cartels – remember what they stand for.
 And when they try to tell us that’s all in the past and we should trust that they’ve just had a miraculous political epiphany, remember they are the same people who lied and lied and lied to us about Joe Biden’s condition until one fateful night when every American saw that they were lying.
@@ -75,7 +71,7 @@ Just look around.
 Wherever the Democrats have taken complete control of any city or any state, you see the same social, economic and political pathologies within the span of just a decade or two.
 You see sky-high taxes, chronic shortages and unaffordable prices for basic necessities like water, gasoline, electricity and housing.
 You see failing schools, rising crime, rampant homelessness, chronic unemployment, growing poverty, failing businesses and ultimately fleeing families.
-They took over the most beautiful and prosperous cities of the 20th Century: San Francisco, Chicago, St.
+They took over the most beautiful and prosperous cities of the 20 th Century: San Francisco, Chicago, St.
 Louis, Baltimore, New York, Detroit, Los Angeles and in the span of just a few decades turned them into socialist hell-holes.
 They’re doing the same thing today to the states they control: Illinois, New York, and of course, our beloved California.
 Families are now voting with their feet as an unprecedented mass migration has begun to escape the failing states controlled by the Democrats to find refuge in the prospering states governed by Republicans.
@@ -83,12 +79,7 @@ If things get bad enough in California, there are 49 other states we can move to
 But if the left succeeds in taking over our country – where can we go?
 But that’s not the real danger.
 As Trump and Reagan demonstrated, their ruinous economic policies can be turned around in just a few years.
-But if they succeed in taking majorities in the House, the Senate and the White House, they have already been crystal clear as to their agenda:
-- They will pack the Senate with new states like Washington, D.C. – as many as they need for permanent control;
-- They will pack the Supreme Court with new leftist activists – as many as they need for permanent control;
-- They will rig the election laws as they have in California, severing the chain of custody between the voter and the ballot box;
-- They will bypass the Electoral College with their Compact of the States, which Tim Walz already approved as Governor of Minnesota;
-- And they will extend the vote to the millions of illegal aliens they have already released into our country, as they are already attempting to do in the jurisdictions they control.
+But if they succeed in taking majorities in the House, the Senate and the White House, they have already been crystal clear as to their agenda: They will pack the Senate with new states like Washington, D.C. – as many as they need for permanent control; They will pack the Supreme Court with new leftist activists – as many as they need for permanent control; They will rig the election laws as they have in California, severing the chain of custody between the voter and the ballot box; They will bypass the Electoral College with their Compact of the States, which Tim Walz already approved as Governor of Minnesota; And they will extend the vote to the millions of illegal aliens they have already released into our country, as they are already attempting to do in the jurisdictions they control.
 There will be no turning back from then on.
 Elections after that won’t mean anything.
 These five steps will make them the permanent master of our society and of our lives.
@@ -117,3 +108,4 @@ Our state and our country have not been struck by some terrible act of God.
 These are all acts of government that we have the power to change the moment we summon the political will to do so.
 And in 44 days, that moment will come.
 On that moment, as Lincoln said, we shall either nobly save, or meanly lose, this, the last best hope of mankind on this earth.
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

@@ -1,9 +1,4 @@
-News
-Latest updates from the campaign:
-FOR IMMEDIATE RELEASE
-Date: 6/28/26
-Republican Nomination Secured — Now the Real Campaign Begins
-I am honored and grateful to have earned the Republican nomination for Oregon House District 20.
+Meet Andrew Issues News Contribute Volunteer News Latest updates from the campaign: FOR IMMEDIATE RELEASE Date: 6/28/26 Republican Nomination Secured — Now the Real Campaign Begins I am honored and grateful to have earned the Republican nomination for Oregon House District 20.
 Republican voters across our district delivered a decisive victory, awarding our campaign nearly two-thirds of all votes cast (excluding abstentions) — the most lopsided margin in contested Republican primaries for this district in recent memory.
 This overwhelming result reflects a clear desire for accountable leadership, fiscal responsibility, and practical solutions to the challenges facing Oregon families.
 To every volunteer who knocked on doors, made phone calls, displayed yard signs, contributed financially, or simply cast a vote of confidence in our campaign — thank you.
@@ -24,5 +19,10 @@ Every conversation matters, and every vote will count.
 The path to victory starts today, and with your continued support, I am confident we can bring a new voice and a new direction to Salem this November.
 Thank you for your trust.
 Now let’s finish what we’ve started.
-Media Contact:
-Email: info@fudge4oregon.org
+Media Contact: Email: info@fudge4oregon.org 6 Oct Tuesday, 10:41 PM · 2026 BREAKING NEWS: Representative Evans Arrested Reposted (Capital Chronicle) Read more 15 May Friday, 7:35 AM · 2026 Mid-valley Candidates Update Candidates across the Willamette Valley running in final stretch of primary election.
+Read more 11 May Monday, 6:00 PM · 2026 Meet the Candidate Capital Chronicle guide to state candidates (redirects to oregoncapitalchronicle.com).
+Read more 25 Apr Saturday, 9:16 PM · 2026 Your Vote Counts - Candidate Interview The League of Women Voters of Marion and Polk Counties, in collaboration with Salem’s Capital Community Media, invited all candidates for state and national office to participate in the May primary election candidate interview program.
+Recorded interviews are available on YouTube, AppleTV, Roku, and VOD.
+Read more 20 Apr Monday, 6:04 PM · 2026 Who are the candidates for Oregon House District 20?
+Who are the HD20 candidates?
+Read more 15 Mar Sunday, 6:27 PM · 2026 Statesman Journal (Reposted) Three challenging longtime lawmaker… Read more Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu

@@ -1,6 +1,66 @@
 [
-"https://facebook.com/hongforga",
-"https://hongforgeorgia.com/",
-"https://secure.anedot.com/hong-for-state-house/donate",
-"https://twitter.com/soohong"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/hong-for-state-house/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/hong-for-state-house/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/hong-for-state-house/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/hong-for-state-house/donate"
+},
+{
+"text": "About",
+"href": "https://www.hongforgeorgia.com/#About"
+},
+{
+"text": "Contact",
+"href": "https://www.hongforgeorgia.com/#Contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.hongforgeorgia.com/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/hong-for-state-house/donate"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.hongforgeorgia.com/"
+},
+{
+"text": "Home",
+"href": "https://www.hongforgeorgia.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.hongforgeorgia.com/#Issues"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/hong-for-state-house/donate"
+},
+{
+"text": "SUPPORT the CAMPAIGN",
+"href": "https://www.hongforgeorgia.com/#Contact"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/soohong"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hongforga"
+},
+{
+"text": "[no text]",
+"href": "mailto:soo@hongforgeorgia.com"
+}
 ]

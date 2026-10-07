@@ -1,24 +1,19 @@
-This page is a campaign-facing summary.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Meet Kelly Professional experience A public summary of the work that prepared Kelly Grappe to lead a statewide service organization — not a private employment résumé.
+Meet Kelly See My Plan Overview Experience Why I'm running Journey Community The People's Voice Initiatives & petitions This page is a campaign-facing summary.
 It does not include personal contact information.
 For dates and role titles, see the public LinkedIn record.
-Learning & Development leadership
-Multi-state dental organization based in Little Rock
-Leads learning strategy and the practical systems and tools required to implement it across many locations.
+Learning & Development leadership Multi-state dental organization based in Little Rock Leads learning strategy and the practical systems and tools required to implement it across many locations.
 Current full-time work in organizational development, training, and execution across a multi-state operation.
-Operations leadership
-Alltel and Verizon — nearly 25 years
-Worked across multiple states in large, complex operations.
+Operations leadership Alltel and Verizon — nearly 25 years Worked across multiple states in large, complex operations.
 Led teams, supported multi-site operations, managed multimillion-dollar budgets and projects, worked with enterprise systems and major vendors, and turned strategy into results.
 Responsibilities included an operation of roughly 800 employees on a large corporate campus, including a customer-service operation with a $43 million annual call-center budget.
-Small business and farm
-Rose Bud, Arkansas — with Steve Grappe
-Owned a small business and operated a farm in rural Arkansas.
+Small business and farm Rose Bud, Arkansas — with Steve Grappe Owned a small business and operated a farm in rural Arkansas.
 Managed expenses, navigated requirements, and kept an operation going when margins were tight.
 Farm operations were later paused — a first-hand view of how hard it can be for small-business owners and farmers trying to make a living.
-Civic organizing
-Grassroots / direct-democracy work in Arkansas
-Extensive grassroots and direct-democracy organizing: helping ordinary Arkansans understand how to participate, how petitions move, and how to navigate a process that too often requires lawyers and professional infrastructure.
-Why this maps to the Secretary of State’s office
-The Secretary of State’s office is a large statewide service organization.
+Civic organizing Grassroots / direct-democracy work in Arkansas Extensive grassroots and direct-democracy organizing: helping ordinary Arkansans understand how to participate, how petitions move, and how to navigate a process that too often requires lawyers and professional infrastructure.
+Why this maps to the Secretary of State’s office The Secretary of State’s office is a large statewide service organization.
 It is responsible for election administration and support, business and commercial services, public records, the initiative and referendum process, and stewardship of the State Capitol.
 The work that matters here is leading people, managing complex systems, understanding the people who depend on them, and making those systems work better.
+Public LinkedIn record Why I’m running Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

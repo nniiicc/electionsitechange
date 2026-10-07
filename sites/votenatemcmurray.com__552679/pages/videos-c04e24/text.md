@@ -1,5 +1,7 @@
-Hear From Nate
-- THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Today I sat down with my friend Daniel Greer, who’s spent years living in Asia, to talk about how America looks from the outside right now.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Hear From Nate Skip to Videos All | Facebook | Podcast | Podcast , THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Today I sat down with my friend Daniel Greer, who’s spent years living in Asia, to talk about how America looks from the outside right now.
 But the conversation quickly turned into something deeper—and honestly more urgent.
 We ended up talking about FDR's Economic Bill of Rights, one of the most powerful political ideas the Democratic Party ever produced—and one it has mostly forgotten.
 FDR believed political freedom meant very little without economic freedom.
@@ -25,20 +27,20 @@ Because the cities that built America still matter.
 And they still deserve a politics that fights for them.
 This turned into one of the most thoughtful conversations we’ve had in a while.
 Give it a listen.
-- Why Is Southern Ontario Doing Better Than Western New York?
+Podcast , Why Is Southern Ontario Doing Better Than Western New York?
 We dive into one of the biggest questions in the region: why does Southern Ontario often feel like it’s moving forward while Western New York keeps struggling to hold itself together?
 We talk about bridge delays at the border, Buffalo’s growing budget problems, and the strange political story of Byron Brown and India Walton and what her rise revealed about frustration inside Buffalo itself.
 We also get into the lack of major investment in Niagara County despite generations of overwhelming Republican control through political families, insider networks, and entrenched local leadership.
 At some point, people have to stop blaming everyone else and ask: after decades in power, what exactly have these leaders built?
 A wide-ranging conversation about regional decline, cross-border comparisons, infrastructure, politics, and whether Western New York still has a path forward.
-- Trump at 32% — So Why Is Everyone Still Afraid?
+Podcast , Trump at 32% — So Why Is Everyone Still Afraid?
 The Courage Gap in American Politics Trump at 32% — So Why Is Everyone Still Afraid?
 The Courage Gap in American Politics (and Why Niagara County Needs Backbone Too) Something important is happening right now—and not enough Democrats are acting like they see it.
 Trump’s numbers are dropping.
 Not slowly.
 Not subtly.
 Dropping.
-And when you start seeing support slide toward the low 30s, that’s not just Democrats walking away.
+And when you start seeing support slide toward the low #s, that’s not just Democrats walking away.
 That means Republicans are starting to drift too.
 This is the easiest moment in ten years to show courage.
 And what do we get instead?
@@ -87,7 +89,7 @@ People are ready for leadership again.
 The only question is: who’s willing to step forward?
 I am.
 How about you?
-- North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) In today’s episode, I sit down with local North Tonawanda councilman Will Schulmeister to talk about what’s happening right in our backyard—local power, local decisions, and the future of North Tonawanda and Niagara County.
+Podcast , North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) In today’s episode, I sit down with local North Tonawanda councilman Will Schulmeister to talk about what’s happening right in our backyard—local power, local decisions, and the future of North Tonawanda and Niagara County.
 We break down the role of a councilman—what authority actually looks like on the ground—and how decisions at the local level shape neighborhoods like my hometown.
 This isn’t abstract politics.
 This is zoning, development, accountability, and who really has a say over the places we live.
@@ -96,7 +98,7 @@ We discuss claims of a system driven by loyalty and insider networks—where pol
 The argument isn’t just about one issue.
 It’s about whether the broader system is working for the public—or for itself.
 If you care about Western New York, this is where it starts—not in Washington, but right here.
-- PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Today’s topic: Let’s revive the American Dream.
+Podcast , PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Today’s topic: Let’s revive the American Dream.
 I talk about my own background alongside my cohost Tony, and how upward mobility in America feels dead for a huge number of people.
 We discuss why so many Americans say “both parties suck” — and honestly, there’s truth to that.
 But we also talk about how one party currently controls virtually everything at the national level, and Republicans control Niagara County locally.
@@ -111,7 +113,7 @@ It’s bizarre.
 It’s embarrassing.
 And it perfectly captures how unserious and chaotic modern American politics has become.
 We break all of it down live.
-- IS NATE A RADICAL COMMUNIST?
+Podcast , IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
 Apparently wanting people to have healthcare, not loving endless wars, and thinking normal people should be able to afford a house now makes you Karl Marx with a Buffalo accent.
 So today we do a full review.
@@ -134,7 +136,7 @@ TRUMP IS SUCH A FAKE!
 ENOUGH ALREADY!
 We do a quick review because honestly… what is even happening anymore?
 WATCH LIVE OR CATCH THE FULL EPISODE: Search:“Nate Cast with Nate McMurray” Available on YouTube, Spotify, and Apple Podcasts.
-- NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+Podcast , NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
 Tomorrow is the Cambria Town Hall, and I have questions.
 The same Niagara County Republican leadership that promised voters they would stop this massive solar project now wants to help fund it with roughly $30 million in public support.
@@ -157,7 +159,7 @@ They read the Bible.
 They consider themselves Christians.
 You don’t have to agree with their theology, but government officials labeling faith groups as acceptable or unacceptable should concern everyone.
 It’s another reminder that freedom of religion means freedom for everyone.
-- I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: On this week’s NateCast: First, I dive deeper into why Niagara Falls needs to move forward with the proposed Civic Center and convention center project.
+Podcast , I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: On this week’s NateCast: First, I dive deeper into why Niagara Falls needs to move forward with the proposed Civic Center and convention center project.
 For too long, wealth generated in Niagara Falls has been used to benefit other communities while our city was left behind.
 From power revenues to state investments, Niagara Falls has given far more than it has received.
 It’s time we start reclaiming what belongs here and investing in a future worthy of one of the most famous destinations on Earth.
@@ -176,7 +178,7 @@ Don’t take my word for it.
 Look at the public records, follow the votes, and decide for yourself.
 I also break down the biggest stories of the week, including Elon Musk’s growing influence and the race to become the world’s first trillionaire, unrest and race-related tensions in the United Kingdom, major national political developments, and the stories that may shape the future of America and Western New York.
 And finally, a little sports talk: GO KNICKS!
-- WE ARE AT A CROSSROADS IN WESTERN NEW YORK First, GO KNICKS!
+Podcast , WE ARE AT A CROSSROADS IN WESTERN NEW YORK First, GO KNICKS!
 That was one of the best basketball games I’ve ever watched.
 Pure heart.
 Pure grit.
@@ -214,7 +216,8 @@ Speak up.
 Get involved.
 Make your voice heard.
 Because if we don’t shape the future of this region, someone else will.
-- PODCAST CLIP: THEY DIDN’T EVEN SHOW UP I attended a candidate forum hosted by the Niagara Gazette, the leading newspaper in our district.
+Podcast , PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Podcast , PODCAST CLIP: THEY DIDN’T EVEN SHOW UP I attended a candidate forum hosted by the Niagara Gazette, the leading newspaper in our district.
 My opponent didn’t show up.
 In fact, no Republican candidates showed up.
 Think about that.
@@ -228,3 +231,4 @@ If you’re asking for people’s votes, you should be willing to answer their q
 I showed up.
 I answered every question.
 The question is: why won’t they?
+Volunteer and Sign Up for Updates!

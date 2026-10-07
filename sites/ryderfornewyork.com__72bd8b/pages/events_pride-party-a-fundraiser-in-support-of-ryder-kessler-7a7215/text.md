@@ -1,11 +1,4 @@
-Back to All Events
-Join us at Julius' to celebrate pride and support Ryder Kessler's campaign for State Assembly in District 66—the Village, Soho, Noho, and Tribeca.
+0 Skip to Content Home About Platform Endorsements Events Donate Open Menu Close Menu Donate Home About Platform Endorsements Events Open Menu Close Menu Home About Platform Endorsements Events Donate Back to All Events Pride Party!
+A Fundraiser in Support of Ryder Kessler Sunday, June 7, 2026 5:00 PM 7:00 PM Google Calendar ICS Join us at Julius' to celebrate pride and support Ryder Kessler's campaign for State Assembly in District 66—the Village, Soho, Noho, and Tribeca.
 Tickets required for entry—every dollar goes toward reaching voters with Ryder's vision of a more affordable and just New York for all.
-Host committee (still in formation): Equality NY PAC, Mitch Draizin, Jesse Greenwald, Gabriel Lewenstein, Dylan Lyons, Dirk McCall Paloma, Katia Portela
-Previous
-Previous
-June 7
-West Village Canvass
-Next
-Next
-June 8
+Host committee (still in formation): Equality NY PAC, Mitch Draizin, Jesse Greenwald, Gabriel Lewenstein, Dylan Lyons, Dirk McCall Paloma, Katia Portela RSVP Previous Previous June 7 West Village Canvass Next Next June 8 Pride Day of Action with Stonewall Dems! hello@ryderfornewyork.com Paid for by Ryder for New York 2026

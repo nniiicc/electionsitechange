@@ -1,6 +1,4 @@
-Endorsement: Our primary pick for Michigan's 5th Congressional District
-From: Detroit News
-Here is our recommendation for the partisan primary in Michigan's 5th District, which encompasses southern Michigan.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Endorsement: Our primary pick for Michigan's 5th Congressional District 20 June News SHARE Endorsement: Our primary pick for Michigan's 5th Congressional District From: Detroit News Here is our recommendation for the partisan primary in Michigan's 5th District, which encompasses southern Michigan.
 Incumbent Republican Tim Walberg of Jackson is seeking an eighth term in Congress.
 The former pastor served in the Michigan House before going to Congress.
 His focus has been on encouraging job creation and economic growth, and he promises to continue pushing for affordable health care.
@@ -12,4 +10,8 @@ Michigan is a key battleground in the fight for control of the U.S.
 House this election cycle.
 The state's current 14 member delegation is divided evenly between Republicans and Democrats.
 The state lost a seat to redistricting, and will send 13 members, chosen from newly drawn districts, to the House in January.
-Many voters will be casting their ballots in unfamiliar districts when they go to the polls on Aug. 2, and for candidates they know little about.
+Many voters will be casting their ballots in unfamiliar districts when they go to the polls on Aug.
+2, and for candidates they know little about.
+GO BACK Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

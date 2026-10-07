@@ -1,15 +1,4 @@
-Pol.
-Adv Paid For By Celeste For Texas
-Please Make Checks Payable To:
-Celeste For Texas
-Mailing Address:
-2112 W.
-University Drive #1141
-Edinburg, Texas 78539
-Location
-2112 W.
-University Drive, #1141
-Edinburg, Texas 78539
-Contact
-Info@celestefortexas.com
-(956) 339-5979
+0 Skip to Content Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Open Menu Close Menu Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Open Menu Close Menu Donate Home Events Issues Volunteer Become a Election Worker Podcast Media DONATE Click on Flyer to Sign up for Vendor or General Admission Click On Flyer To Register Free Event 03/21/2026-Super Saturday Day of Action | RSVP Here (Click on Image) 03/21/2026-Coffee With Celeste @ Anita's Cafe-Edinburg | RSVP Here (Click on Image) Pol.
+Adv Paid For By Celeste For Texas Please Make Checks Payable To: Celeste For Texas Mailing Address : 2112 W.
+University Drive #1141 Edinburg, Texas 78539 Location 2112 W.
+University Drive, #1141 Edinburg, Texas 78539 Contact Info@celestefortexas.com (956) 339-5979

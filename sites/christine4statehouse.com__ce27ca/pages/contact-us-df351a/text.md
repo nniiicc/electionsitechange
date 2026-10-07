@@ -1,13 +1,4 @@
-Christine.Chandler@nmlegis.gov (official legislative business)
-(505) 695-2646
-District Legislative Aide (official legislative business)
-Laurel Minter
-(505) 946-5643
-P.O.
-Box 1565
-Los Alamos, NM 87544
-Paid for by Friends for Christine
-PO Box 1565, Los Alamos, NM 87544
-Copyright © 2026 Friends For Christine - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop More Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Account Orders My Account Sign out Sign In Orders My Account Contact Us Send us an email!
+Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Friends For Christine christine4nmhouse@gmail.com Christine.Chandler@nmlegis.gov (official legislative business) (505) 695-2646 District Legislative Aide (official legislative business) Laurel Minter Laurel.Minter@nmlegis.gov (505) 946-5643 P.O.
+Box 1565 Los Alamos, NM 87544 Privacy Policy Terms and Conditions Paid for by Friends for Christine PO Box 1565, Los Alamos, NM 87544 Copyright © # Friends For Christine - All Rights Reserved.

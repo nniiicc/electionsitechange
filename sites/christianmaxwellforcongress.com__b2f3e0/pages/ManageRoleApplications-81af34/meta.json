@@ -1,7 +1,9 @@
 {
  "description": "Manage Role Applications on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageRoleApplications",
- "paid_for_by": null,
+ "fingerprint": "a9be5a927a26e6bbf456c66f93b4c23740465bfc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Role Applications | Maxwell for Congress",
  "years_mentioned": []
 }

@@ -1,17 +1,66 @@
 [
-"http://lepageforcongress.com/",
-"https://lepageforcongress.com/",
-"https://lepageforcongress.com/meet-paul",
-"https://lepageforcongress.com/privacy-policy",
-"https://lepageforcongress.com/team",
-"https://secure.anedot.com/paul-lepage-for-congress/donate",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=126",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=1776",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=2026",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=226",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=26",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=52",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=526",
-"https://secure.anedot.com/paul-lepage-for-congress/donate?amount=726",
-"https://vimeo.com/1221613221"
+{
+"text": "$1,776",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=1776"
+},
+{
+"text": "$126",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=126"
+},
+{
+"text": "$2,026",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=2026"
+},
+{
+"text": "$226",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=226"
+},
+{
+"text": "$26",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=26"
+},
+{
+"text": "$52",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=52"
+},
+{
+"text": "$526",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=526"
+},
+{
+"text": "$726",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate?amount=726"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/paul-lepage-for-congress/donate"
+},
+{
+"text": "ISSUES",
+"href": "http://lepageforcongress.com/#issues"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://lepageforcongress.com/team"
+},
+{
+"text": "LePage Works for Maine Video‍",
+"href": "https://vimeo.com/1221613221"
+},
+{
+"text": "Meet PAUL",
+"href": "https://lepageforcongress.com/meet-paul"
+},
+{
+"text": "Read More",
+"href": "https://lepageforcongress.com/meet-paul"
+},
+{
+"text": "Read Our Text Message Privacy Policy as well as Terms and Conditions Here",
+"href": "https://lepageforcongress.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://lepageforcongress.com/"
+}
 ]

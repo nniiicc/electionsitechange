@@ -1,16 +1,82 @@
 [
-"https://facebook.com/profile.php?id=61553632804092",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.upballot.com%2FElizabeth-Fuchs%2Fevents%2Fcanvass-with-lilly-2",
-"https://google.com/maps/dir?api=1&destination=3606+Arsenal+St%2C+St.+Louis%2C+MO+63116%2C+USA&destination_place_id=ChIJEUYVg2e02IcRky7NP9piMnE",
-"https://instagram.com/lillyforthelou",
-"https://secure.actblue.com/donate/friends-for-fuchs-1",
-"https://twitter.com/elizabethfuchs?lang=en",
-"https://upballot.com/",
-"https://upballot.com/Elizabeth-Fuchs",
-"https://upballot.com/Elizabeth-Fuchs/about",
-"https://upballot.com/Elizabeth-Fuchs/events",
-"https://upballot.com/Elizabeth-Fuchs/get-involved",
-"https://upballot.com/Elizabeth-Fuchs/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Elizabeth 'Lilly'",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/friends-for-fuchs-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/events/"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=3606+Arsenal+St%2C+St.+Louis%2C+MO+63116%2C+USA&destination_place_id=ChIJEUYVg2e02IcRky7NP9piMnE"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Elizabeth-Fuchs"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Share This Event",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.upballot.com%2FElizabeth-Fuchs%2Fevents%2Fcanvass-with-lilly-2"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: Elizabeth 'Lilly' Fuchs Logo]",
+"href": "https://www.upballot.com/Elizabeth-Fuchs/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/elizabethfuchs?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553632804092"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lillyforthelou/"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61553632804092"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/lillyforthelou/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/elizabethfuchs?lang=en"
+},
+{
+"text": "lillyforthelou@gmail.com",
+"href": "mailto:lillyforthelou@gmail.com"
+},
+{
+"text": "tel:314-323-0584",
+"href": "tel:314-323-0584"
+}
 ]

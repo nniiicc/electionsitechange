@@ -1,13 +1,50 @@
 [
-"https://hallfornh.com/2021-special-election-photos-1",
-"https://hallfornh.com/2021-special-election-photos-2",
-"https://hallfornh.com/2022-election-photos",
-"https://hallfornh.com/2024-election-photos",
-"https://hallfornh.com/2026-election-photos",
-"https://hallfornh.com/about-muriel",
-"https://hallfornh.com/donate",
-"https://hallfornh.com/election-results",
-"https://hallfornh.com/endorsementsrecommendations",
-"https://hallfornh.com/home",
-"https://hallfornh.com/priorities"
+{
+"text": "2021 Special Election Photos-1",
+"href": "https://www.hallfornh.com/2021-special-election-photos-1"
+},
+{
+"text": "2021 Special Election Photos-2",
+"href": "https://www.hallfornh.com/2021-special-election-photos-2"
+},
+{
+"text": "2022 Election Photos",
+"href": "https://www.hallfornh.com/2022-election-photos"
+},
+{
+"text": "2024 Election Photos",
+"href": "https://www.hallfornh.com/2024-election-photos"
+},
+{
+"text": "2026 Election Photos",
+"href": "https://www.hallfornh.com/2026-election-photos"
+},
+{
+"text": "About Muriel",
+"href": "https://www.hallfornh.com/about-muriel"
+},
+{
+"text": "Donate",
+"href": "https://www.hallfornh.com/donate"
+},
+{
+"text": "Election Results",
+"href": "https://www.hallfornh.com/election-results"
+},
+{
+"text": "Endorsements/Recommendations",
+"href": "https://www.hallfornh.com/endorsementsrecommendations"
+},
+{
+"text": "Home",
+"href": "https://www.hallfornh.com/home"
+},
+{
+"text": "Muriel Hall for NH",
+"href": "https://www.hallfornh.com/home"
+},
+{
+"text": "Priorities",
+"href": "https://www.hallfornh.com/priorities"
+}
 ]

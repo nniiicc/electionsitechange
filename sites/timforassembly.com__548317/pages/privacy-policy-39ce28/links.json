@@ -1,9 +1,42 @@
 [
-"http://createscapeent.com/",
-"https://facebook.com/profile.php?id=61586369664323",
-"https://instagram.com/Timforassembly",
-"https://secure.actblue.com/donate/tim4assembly2026",
-"https://timforassembly.com/",
-"https://timforassembly.com/issues",
-"https://timforassembly.com/privacy-policy"
+{
+"text": "CreatEscape Entertainment",
+"href": "http://www.createscapeent.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tim4assembly2026"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.timforassembly.com"
+},
+{
+"text": "HOME",
+"href": "https://www.timforassembly.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.timforassembly.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.timforassembly.com/issues"
+},
+{
+"text": "MEET TIM",
+"href": "https://www.timforassembly.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.timforassembly.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586369664323"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/Timforassembly"
+}
 ]

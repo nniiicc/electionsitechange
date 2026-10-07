@@ -1,45 +1,194 @@
 [
-"https://ericjones.us/",
-"https://ericjones.us/cart",
-"https://ericjones.us/events",
-"https://ericjones.us/meet-eric",
-"https://ericjones.us/newsroom",
-"https://ericjones.us/priorities",
-"https://ericjones.us/priorities/fight-corruption",
-"https://ericjones.us/priorities/fight-corruption/corporate-fair-share",
-"https://ericjones.us/priorities/fight-corruption/end-gerrymandering",
-"https://ericjones.us/priorities/fight-corruption/end-price-gouging",
-"https://ericjones.us/priorities/fight-corruption/hold-pge-accountable",
-"https://ericjones.us/priorities/fight-corruption/money-in-politics",
-"https://ericjones.us/priorities/fight-corruption/spotlight",
-"https://ericjones.us/priorities/fight-corruption/term-limits",
-"https://ericjones.us/priorities/lower-cost-of-living",
-"https://ericjones.us/priorities/lower-cost-of-living/build-more-homes-cut-red-tape",
-"https://ericjones.us/priorities/lower-cost-of-living/end-pge-monopoly-lower-bills",
-"https://ericjones.us/priorities/lower-cost-of-living/expand-medicare",
-"https://ericjones.us/priorities/lower-cost-of-living/farm-workforce",
-"https://ericjones.us/priorities/lower-cost-of-living/lower-drug-costs",
-"https://ericjones.us/priorities/lower-cost-of-living/make-rent-tax-deductible",
-"https://ericjones.us/priorities/lower-cost-of-living/open-door-to-homeownership",
-"https://ericjones.us/priorities/lower-cost-of-living/working-class-tax-cut",
-"https://ericjones.us/priorities/protect-our-future",
-"https://ericjones.us/priorities/protect-our-future/flood-protection",
-"https://ericjones.us/priorities/protect-our-future/growers-and-winemakers",
-"https://ericjones.us/priorities/protect-our-future/keep-kids-safe-online",
-"https://ericjones.us/priorities/protect-our-future/live-within-our-means",
-"https://ericjones.us/priorities/protect-our-future/make-big-tech-build-responsibly",
-"https://ericjones.us/priorities/protect-our-future/no-blank-checks-for-war",
-"https://ericjones.us/priorities/protect-our-future/protect-land-family-farms",
-"https://ericjones.us/priorities/protect-our-future/secure-our-water",
-"https://ericjones.us/priorities/protect-our-future/serve-our-veterans",
-"https://ericjones.us/priorities/protect-our-future/social-security",
-"https://ericjones.us/priorities/protect-our-future/surveillance",
-"https://ericjones.us/priorities/protect-our-future/trade-and-exports",
-"https://ericjones.us/volunteer",
-"https://facebook.com/ericjones.us",
-"https://instagram.com/ericjones.us",
-"https://secure.actblue.com/donate/ejfc",
-"https://tiktok.com/@ericjones.us",
-"https://x.com/ericjones_us?lang=en",
-"https://youtube.com/@ericjones_us"
+{
+"text": "0",
+"href": "https://www.ericjones.us/cart"
+},
+{
+"text": "Build More Homes by Cutting the Red Tape",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/build-more-homes-cut-red-tape"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/ejfc"
+},
+{
+"text": "Defend Social Security",
+"href": "https://www.ericjones.us/priorities/protect-our-future/social-security"
+},
+{
+"text": "End Big Pharma Price Gouging",
+"href": "https://www.ericjones.us/priorities/fight-corruption/end-price-gouging"
+},
+{
+"text": "End Gerrymandering — Everywhere",
+"href": "https://www.ericjones.us/priorities/fight-corruption/end-gerrymandering"
+},
+{
+"text": "End PG&E's Monopoly and Lower Your Bills",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/end-pge-monopoly-lower-bills"
+},
+{
+"text": "Events",
+"href": "https://www.ericjones.us/events"
+},
+{
+"text": "Expand Medicare — Vision, Dental, Hearing, and In-Home Care",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/expand-medicare"
+},
+{
+"text": "Fight Corruption",
+"href": "https://www.ericjones.us/priorities/fight-corruption"
+},
+{
+"text": "Fight for Our Growers and Winemakers",
+"href": "https://www.ericjones.us/priorities/protect-our-future/growers-and-winemakers"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ericjones.us/volunteer"
+},
+{
+"text": "Get Our Growers the Workforce They Need",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/farm-workforce"
+},
+{
+"text": "Get the Corruption Out of Politics",
+"href": "https://www.ericjones.us/priorities/fight-corruption/money-in-politics"
+},
+{
+"text": "Hold PG&E and the Monopolies Accountable",
+"href": "https://www.ericjones.us/priorities/fight-corruption/hold-pge-accountable"
+},
+{
+"text": "Keep Our Kids Safe Online",
+"href": "https://www.ericjones.us/priorities/protect-our-future/keep-kids-safe-online"
+},
+{
+"text": "Live Within Our Means",
+"href": "https://www.ericjones.us/priorities/protect-our-future/live-within-our-means"
+},
+{
+"text": "Lower Cost of Living",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living"
+},
+{
+"text": "Lower Prescription Drug Costs",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/lower-drug-costs"
+},
+{
+"text": "Make Big Tech Build Responsibly",
+"href": "https://www.ericjones.us/priorities/protect-our-future/make-big-tech-build-responsibly"
+},
+{
+"text": "Make Corporations Pay Their Fair Share",
+"href": "https://www.ericjones.us/priorities/fight-corruption/corporate-fair-share"
+},
+{
+"text": "Make Rent Tax-Deductible",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/make-rent-tax-deductible"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericjones.us/meet-eric"
+},
+{
+"text": "Newsroom",
+"href": "https://www.ericjones.us/newsroom"
+},
+{
+"text": "No Blank Checks for War, Death, and Destruction",
+"href": "https://www.ericjones.us/priorities/protect-our-future/no-blank-checks-for-war"
+},
+{
+"text": "Open the Door to Homeownership",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/open-door-to-homeownership"
+},
+{
+"text": "Open the Markets Our Crops Depend On",
+"href": "https://www.ericjones.us/priorities/protect-our-future/trade-and-exports"
+},
+{
+"text": "Priorities",
+"href": "https://www.ericjones.us/priorities"
+},
+{
+"text": "Protect Our Future",
+"href": "https://www.ericjones.us/priorities/protect-our-future"
+},
+{
+"text": "Protect Our Land and Family Farms",
+"href": "https://www.ericjones.us/priorities/protect-our-future/protect-land-family-farms"
+},
+{
+"text": "Protect Us From the Next Flood",
+"href": "https://www.ericjones.us/priorities/protect-our-future/flood-protection"
+},
+{
+"text": "Read My Plan to: FIGHT CORRUPTION",
+"href": "https://www.ericjones.us/priorities/fight-corruption"
+},
+{
+"text": "Read My Plan to: LOWER THE COST OF LIVING",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living"
+},
+{
+"text": "Read My Plan to: PROTECT OUR FUTURE",
+"href": "https://www.ericjones.us/priorities/protect-our-future"
+},
+{
+"text": "Secure Our Water",
+"href": "https://www.ericjones.us/priorities/protect-our-future/secure-our-water"
+},
+{
+"text": "Serve Our Veterans and Protect their Services",
+"href": "https://www.ericjones.us/priorities/protect-our-future/serve-our-veterans"
+},
+{
+"text": "Shine a Spotlight on Money and Influence",
+"href": "https://www.ericjones.us/priorities/fight-corruption/spotlight"
+},
+{
+"text": "Stop Flock & End the Surveillance State",
+"href": "https://www.ericjones.us/priorities/protect-our-future/surveillance"
+},
+{
+"text": "Term Limits and Real Accountability",
+"href": "https://www.ericjones.us/priorities/fight-corruption/term-limits"
+},
+{
+"text": "Working Class Tax Cut",
+"href": "https://www.ericjones.us/priorities/lower-cost-of-living/working-class-tax-cut"
+},
+{
+"text": "[image: Eric Jones for Congress]",
+"href": "https://www.ericjones.us/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ericjones.us/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ericjones.us"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ericjones.us"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ericjones_us/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ericjones_us?lang=en"
+},
+{
+"text": "info@ericjones.us",
+"href": "mailto:info@ericjones.us?subject=Reaching+Out+from+Website&body=Hello%2CI+am+reaching+out+via+your+website+and+would+love+to+get+involved+with+your+campaign%21+Please+let+me+know+how+I+can+support.Eager+to+join+the+fight+-+thanks%21"
+},
+{
+"text": "press@ericjones.us",
+"href": "mailto:press@ericjones.us?subject=Press+Inquiry&body=Hello%2CI+have+a+press+inquiry+and+would+like+to+discuss.Thank+you."
+}
 ]

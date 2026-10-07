@@ -1,12 +1,16 @@
 {
  "description": "Two biomass power plants in northeast Georgia have led to enormous fish kills, environmental investigations, legal battles, and adverse health effects...",
  "final_url": "https://www.spencerfrye.com/a-dirty-taste-of-clean-energy/",
- "paid_for_by": null,
+ "fingerprint": "2528eb17c5b5ecc37d6f2b0b7fbb6073c0692212",
+ "format": 3,
+ "paid_for_by": "",
  "title": "A Dirty Taste of \"Clean\" Energy",
  "years_mentioned": [
   "2011",
   "2015",
   "2016",
-  "2018"
+  "2018",
+  "2019",
+  "2020"
  ]
 }

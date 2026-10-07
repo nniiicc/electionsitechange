@@ -1,17 +1,62 @@
 [
-"https://bethanyballard.com/",
-"https://bethanyballard.com/about",
-"https://bethanyballard.com/cdn-cgi/l/email-protection",
-"https://bethanyballard.com/conservatives",
-"https://bethanyballard.com/contact",
-"https://bethanyballard.com/donate",
-"https://bethanyballard.com/education",
-"https://bethanyballard.com/foster-care",
-"https://bethanyballard.com/issues",
-"https://bethanyballard.com/jobs-economy",
-"https://bethanyballard.com/privacy-policy",
-"https://bethanyballard.com/public-safety",
-"https://bethanyballard.com/robins-afb",
-"https://facebook.com/BethanyBallard4StateHouse",
-"https://instagram.com/bethanyballard4statehouse"
+{
+"text": "About",
+"href": "https://bethanyballard.com/about"
+},
+{
+"text": "Conservativism",
+"href": "https://bethanyballard.com/conservatives"
+},
+{
+"text": "Contact",
+"href": "https://bethanyballard.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://bethanyballard.com/donate"
+},
+{
+"text": "Education",
+"href": "https://bethanyballard.com/education"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BethanyBallard4StateHouse"
+},
+{
+"text": "Foster Care Reform",
+"href": "https://bethanyballard.com/foster-care"
+},
+{
+"text": "Home",
+"href": "https://bethanyballard.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bethanyballard4statehouse/"
+},
+{
+"text": "Issues",
+"href": "https://bethanyballard.com/issues"
+},
+{
+"text": "Jobs and Economy",
+"href": "https://bethanyballard.com/jobs-economy"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://bethanyballard.com/privacy-policy"
+},
+{
+"text": "Public Safety",
+"href": "https://bethanyballard.com/public-safety"
+},
+{
+"text": "Robins AFB",
+"href": "https://bethanyballard.com/robins-afb"
+},
+{
+"text": "[email protected]",
+"href": "https://bethanyballard.com/cdn-cgi/l/email-protection"
+}
 ]

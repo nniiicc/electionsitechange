@@ -1,8 +1,5 @@
-Constitutional Civics
-Washington Supreme Court Strikes Down the People's Term Limit Initiative
-In 1992 Washington voters overwhelmingly approved term limits, and the Supreme Court struck them down — raising a deeper question about whether the people can do anything they want through an initiative.
-July 4, 2026 · 4 min read
-One of the most important constitutional questions is not whether government has too much power.
+Home Meet Karim Karim's Vision Learn Washington Law Contact Donate Karim Merchant Home Meet Karim Karim's Vision Learn Washington Law Contact Donate Constitutional Civics Washington Supreme Court Strikes Down the People's Term Limit Initiative In 1992 Washington voters overwhelmingly approved term limits, and the Supreme Court struck them down — raising a deeper question about whether the people can do anything they want through an initiative.
+July 4, 2026 · 4 min read One of the most important constitutional questions is not whether government has too much power.
 It's whether the people themselves have limits on their power.
 That question was at the heart of Washington's term limits case.
 In 1992, Washington voters overwhelmingly approved Initiative 573.
@@ -15,11 +12,10 @@ The people created the government.
 The people should be able to change it.
 Yet the Washington Supreme Court struck the initiative down.
 Gerberding v.
-Munro, 134 Wn.2d 188 (1998).
+Munro , 134 Wn.2d 188 (1998).
 The case raises one of the most fascinating questions in constitutional law: can the people do anything they want through the initiative process?
 Or are some changes so fundamental that they require a constitutional amendment?
-The People's Power Is Broad — but Not Unlimited
-Washington's Constitution reserves legislative power directly to the people.
+The People's Power Is Broad — but Not Unlimited Washington's Constitution reserves legislative power directly to the people.
 Through initiatives and referendums, voters may enact laws without going through the Legislature.
 That is an extraordinary power.
 Most states do not give citizens such a direct role in lawmaking.
@@ -27,12 +23,11 @@ Washington does.
 But the initiative power is still a legislative power.
 It is the power to make laws.
 It is not necessarily the power to amend the Constitution.
-That distinction became critical in Munro.
+That distinction became critical in Munro .
 Supporters argued that Initiative 573 merely regulated elections.
 Opponents argued that it did something much more significant — that the initiative added new qualifications for office.
 And if that was true, the Constitution itself became the controlling document.
-Qualifications for Office Matter
-The Washington Constitution already establishes qualifications for many elected offices: age, residency, citizenship, voter status.
+Qualifications for Office Matter The Washington Constitution already establishes qualifications for many elected offices: age, residency, citizenship, voter status.
 These qualifications appear in the Constitution because the people who drafted and adopted it decided they were important enough to place beyond ordinary legislative control.
 That decision serves an important purpose.
 Constitutions are designed to create stability.
@@ -42,8 +37,7 @@ That is not a flaw.
 That is the point.
 The question before the Court was whether term limits effectively created a new qualification for office.
 If they did, the initiative could not stand — because ordinary legislation cannot amend the Constitution.
-The Court's Reasoning
-The Court ultimately concluded that term limits functioned as an additional qualification for office.
+The Court's Reasoning The Court ultimately concluded that term limits functioned as an additional qualification for office.
 A candidate might satisfy every qualification listed in the Constitution — old enough, a resident, a citizen, a registered voter — yet under the initiative, that candidate could still be barred from appearing on the ballot.
 The Court reasoned that such a restriction effectively added a new qualification beyond those contained in the Constitution itself.
 As a result, the initiative was invalid.
@@ -51,8 +45,7 @@ Not because term limits were unconstitutional.
 Not because term limits were bad policy.
 But because the Constitution required a different process.
 If Washington wanted term limits for constitutional offices, the people would need to amend the Constitution itself.
-The Forgotten Constitutional Question
-The most interesting part of the case may not be the Court's conclusion.
+The Forgotten Constitutional Question The most interesting part of the case may not be the Court's conclusion.
 It may be what the conclusion tells us about constitutional structure.
 Many people assume the initiative process is the ultimate expression of democracy.
 In one sense, it is — the people legislate directly.
@@ -60,8 +53,7 @@ But the Constitution reflects a different principle as well: some decisions are 
 Not because the people lack power, but because constitutional change requires a higher level of consensus.
 That principle protects both liberty and stability.
 Without it, constitutional provisions could be altered whenever a temporary majority desired a different result, and the Constitution would become little more than an ordinary statute.
-The Real Constitutional Debate
-The real question raised by Munro is not whether term limits are a good idea.
+The Real Constitutional Debate The real question raised by Munro is not whether term limits are a good idea.
 Reasonable people can disagree about that.
 The real question is whether there is a meaningful difference between making law and changing the Constitution.
 If there is no difference, then the initiative power becomes nearly unlimited.
@@ -70,8 +62,7 @@ The Washington Supreme Court chose the second path.
 The Court concluded that term limits may be desirable.
 They may even be popular.
 But popularity alone cannot substitute for constitutional procedure.
-Why the Case Still Matters Today
-Munro teaches an important lesson about constitutional government.
+Why the Case Still Matters Today Munro teaches an important lesson about constitutional government.
 The Constitution does not merely limit government.
 It limits everyone — legislators, governors, judges, and even the people themselves.
 That may sound strange in a democracy.
@@ -83,3 +74,13 @@ And sometimes the answer is: not unless you amend the Constitution first.
 Educational note.
 This article explains constitutional principles and how Washington's government works.
 It is offered for educational purposes only and is not a promise or prediction about how any future case would be decided.
+Back to Learn Washington Law Share More From the Series Constitutional Civics Immigration, Slavery, and the Three-Fifths Clause: The Census Problem We Didn't Learn About in School We're taught the Three-Fifths Clause diminished people.
+Look at it through the lens of the Census and you'll find the real story — population is power, from 1787 to today.
+July 30, 2026 · 4 min read Read Constitutional Civics Who Controls Washington's Wallet?
+Some of the Supreme Court's most consequential decisions aren't about speech or criminal law — they're about money, and who gets to decide how public funds are raised and spent.
+July 1, 2026 · 9 min read Read Constitutional Civics The Do's and Don'ts of Running for Judge in Washington There are things a candidate for the Supreme Court can say — and things they absolutely cannot.
+The rules governing judicial elections are some of the strangest in American politics.
+July 2, 2026 · 4 min read Read Karim Merchant Justice rooted in the Constitution, Grounded in the People.
+Campaign Meet Karim Karim's Vision Learn Washington Law Take Action Get Involved Donate Connect Contact Us Paid for by Karim for Supreme Court.
+P.O.
+Box 53184, Bellevue, WA 98015 Paid for by Karim for Supreme Court Privacy Policy Terms & Conditions © 2026

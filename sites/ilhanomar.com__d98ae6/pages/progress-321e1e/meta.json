@@ -1,13 +1,16 @@
 {
  "description": "Send her back",
  "final_url": "https://ilhanomar.com/progress/",
- "paid_for_by": "Paid for by Ilhan for Congress &copy; Copyright 2021",
- "title": "Progress - Ilhan for Congresslogo-innerlogo-stickyfacebooktwitterinstagramfacebooktwitterinstagramtwitterfacebooklogomark-footerfacebooktwitterinstagram",
+ "fingerprint": "431ba0a896e713f93c9a04487e8d4f5bdef48767",
+ "format": 3,
+ "paid_for_by": "Paid for by Ilhan for Congress © Copyright #",
+ "title": "Progress - Ilhan for Congress",
  "years_mentioned": [
   "2019",
   "2020",
   "2022",
   "2023",
-  "2025"
+  "2025",
+  "2030"
  ]
 }

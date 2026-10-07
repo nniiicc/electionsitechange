@@ -1,10 +1,34 @@
 [
-"http://facebook.com/JoeLovvorn",
-"http://joelovvorn.com/",
-"http://joelovvorn.com/About",
-"http://joelovvorn.com/Accomplishments",
-"http://joelovvorn.com/Contact",
-"http://joelovvorn.com/Donations",
-"http://joelovvorn.com/Privacy",
-"https://alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+{
+"text": "About Joe",
+"href": "http://www.joelovvorn.com/About/"
+},
+{
+"text": "Accomplishments & Goals",
+"href": "http://www.joelovvorn.com/Accomplishments/"
+},
+{
+"text": "Contact",
+"href": "http://www.joelovvorn.com/Contact/"
+},
+{
+"text": "Donations",
+"href": "http://www.joelovvorn.com/Donations/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://www.joelovvorn.com/Privacy/"
+},
+{
+"text": "[image: Alabama Votes, The Sate of Alabama's Official Election Center]",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/JoeLovvorn/"
+},
+{
+"text": "[image: Joe Lovvorn State House District 79]",
+"href": "http://www.joelovvorn.com/"
+}
 ]

@@ -1,10 +1,13 @@
 {
  "description": "Stay informed with Sandy Bartlett news and updates in Laurel, MD. Follow leadership highlights, community events, and initiatives in District 32.",
  "final_url": "https://sandybartlett.com/news/",
- "paid_for_by": null,
+ "fingerprint": "ff7337ecc60f2ee6cb1e3302ebda401850512e84",
+ "format": 3,
+ "paid_for_by": "Authorized By Citizens For Sandy Bartlett, Scott Bartlett Treasurer Delegate J",
  "title": "News & Updates | Delegate J. Sandy Bartlett | District 32",
  "years_mentioned": [
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

@@ -1,11 +1,9 @@
-Issues
-Keeping Taxes Low
-Continuing to make Florida one of the most competitive states for businesses to expand and relocate.
-Job Growth
-Addressing infrastructure needs in rural communities, and advocating for free-market principles that keep the government out of your pocketbook.
-Education
-Bringing more advanced academic options to rural communities to give students better opportunities for high achievement, and exploring career readiness education programs that give non-college bound students an option to learn a trade or skill that can translate into an available job opportunity providing a livable wage.
-Agriculture
-Exploring funding options for research and development, marketing, and cost-sharing programs, looking at outdated regulations and policies that favor large scale agriculture operations at the expense of the small farmers, and addressing water quantity issues so that farming and rural communities will not have to expend valuable time and energy to compete for limited water resources.
-Veterans
-Exploring ways to address the unique issues facing veterans in rural communities, starting with the lack of transitional housing resources available to veterans.
+top of page Representative Kaylee Tuck, Florida House District 55 Donate Now Home Biography Values Issues Endorsements and Support News Contributions More Use tab to navigate through the menu items. kaylee@kayleetuck.com (863) 835-0130 Issues Issues: Welcome Facebook Twitter Pinterest Tumblr Copy Link Link Copied Play Video Play Video Kaylee Tuck for Florida House "What Makes Me Different" Kaylee addresses a group of constituents at a recent gathering.
+Watch as she tackles both the issues and positions that make her campaign unique at a critical time in our state.
+Issues: Video Player Keeping Taxes Low Continuing to make Florida one of the most competitive states for businesses to expand and relocate.
+Job Growth Addressing infrastructure needs in rural communities, and advocating for free-market principles that keep the government out of your pocketbook.
+Education Bringing more advanced academic options to rural communities to give students better opportunities for high achievement, and exploring career readiness education programs that give non-college bound students an option to learn a trade or skill that can translate into an available job opportunity providing a livable wage.
+Agriculture Exploring funding options for research and development, marketing, and cost-sharing programs, looking at outdated regulations and policies that favor large scale agriculture operations at the expense of the small farmers, and addressing water quantity issues so that farming and rural communities will not have to expend valuable time and energy to compete for limited water resources.
+Veterans Exploring ways to address the unique issues facing veterans in rural communities, starting with the lack of transitional housing resources available to veterans.
+Issues: Issues Representative Kaylee Tuck, Florida House kaylee@kayleetuck.com (863) 835-0130 ©#.
+Political advertisement paid for and approved by Representative Kaylee Tuck, Florida House District 55. bottom of page

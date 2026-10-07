@@ -1,7 +1,12 @@
 {
  "description": "Get the stories behind the stories.",
  "final_url": "https://juliemorrisonforsenate.com/",
- "paid_for_by": "Paid for by Julie Morrison for State Senate \u00a9 2026",
+ "fingerprint": "75aceca452e9b8e58f2baa262aa69068b0450cb3",
+ "format": 3,
+ "paid_for_by": "Paid for by Julie Morrison for State Senate © #",
  "title": "Home - Julie Morrison",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

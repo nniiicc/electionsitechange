@@ -1,7 +1,11 @@
 {
  "description": "Fed-Up Like You",
  "final_url": "https://samforstatenisland.com/news/",
+ "fingerprint": "52fbe26340db6fc32bcdddfe13147cfa78385422",
+ "format": 3,
  "paid_for_by": "Paid for By Sam Pirozzolo for Assembly 2026 Designed and Maintained by Politika",
  "title": "News - Sam Pirozzolo for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

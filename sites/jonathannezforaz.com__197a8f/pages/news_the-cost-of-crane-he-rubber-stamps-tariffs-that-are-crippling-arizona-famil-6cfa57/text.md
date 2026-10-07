@@ -1,18 +1,24 @@
-PRESS RELEASE
-The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses
-FLAGSTAFF, AZ - Today, Canada announced $20 billion in retaliatory tariffs on American goods, further escalating the trade war between the United States and its largest trading partners.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Eli Crane Has Failed Us.
+PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Crane, Trump Admin.
+Over Inaction PRESS RELEASE ICYMI: Poll Shows Dem.
+Jonathan Nez Tied with Rep.
+Eli Crane in District Trump Won by Double Digits PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Aug 25 2026 PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses FLAGSTAFF, AZ - Today, Canada announced $20 billion in retaliatory tariffs on American goods, further escalating the trade war between the United States and its largest trading partners.
 President Donald Trump imposed the tariffs without congressional approval, a move Congressman Eli Crane has repeatedly rubber-stamped.
-Trump’s tariffs have already cost Americans roughly $317 billion, with small-business importers bearing an average cost of roughly $37,000 per month.
+Trump’s tariffs have already cost Americans roughly $317 billion , with small-business importers bearing an average cost of roughly $37,000 per month .
 “Congressman Eli Crane’s complicity with this administration is disgraceful.
 At a time when inflation is already squeezing small businesses and making it difficult for hardworking Arizonans to afford everyday living costs, Crane continues to rubber-stamp this administration’s reckless, anti-business tariffs,” said Nez.
 “He should know better as a business owner himself.
-Crane knows exactly what higher costs do to businesses and families, yet he keeps putting his billionaire friends and own political interests ahead of the people he represents.”
-Congressman Crane has had at least six chances to repeal Trump’s tariffs.
+Crane knows exactly what higher costs do to businesses and families, yet he keeps putting his billionaire friends and own political interests ahead of the people he represents.” Congressman Crane has had at least six chances to repeal Trump’s tariffs.
 Every time, he voted to block congressional efforts to roll them back, choosing the administration’s trade agenda over Arizona businesses and families.
-Small businesses are the backbone of the American economy, employing nearly half of all U.S. workers and creating roughly 1.2 million new jobs in 2025.
-Canada is one of Arizona’s top trade partners, as Arizona imported $2.8 billion in goods from Canada in 2025.
+Small businesses are the backbone of the American economy, employing nearly half of all U.S. workers and creating roughly 1.2 million new jobs in 2025 .
+Canada is one of Arizona’s top trade partners , as Arizona imported $2.8 billion in goods from Canada in 2025 .
 More tariffs on Canadian goods will only drive prices higher, putting more pressure on small businesses and American families already struggling with rising costs.
-SEE ALSO:
-- Arizona Commerce Authority: Arizona-Canada
-- New York Times: Canada Announces 50% Retaliatory Tariffs as Trade War Escalates (8/25/26)
-- NPR News: A year after 'Liberation Day,' Trump's tariffs are hurting small businesses (4/7/26)
+SEE ALSO: Arizona Commerce Authority: Arizona-Canada New York Times: Canada Announces 50% Retaliatory Tariffs as Trade War Escalates (8/25/26) NPR News: A year after 'Liberation Day,' Trump's tariffs are hurting small businesses (4/7/26) Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

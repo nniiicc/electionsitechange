@@ -1,20 +1,78 @@
 [
-"http://taoscounty.org/174/Precinct-Sites",
-"https://biogeocreations.com/",
-"https://facebook.com/Ortez4NM",
-"https://ortez4nm.com/",
-"https://ortez4nm.com/391a0f5b-5f48-4a9a-8377-8c2ffce73105",
-"https://ortez4nm.com/about-kristina",
-"https://ortez4nm.com/cart",
-"https://ortez4nm.com/contact",
-"https://ortez4nm.com/district-42",
-"https://ortez4nm.com/endorsements",
-"https://ortez4nm.com/get-involved",
-"https://ortez4nm.com/priorities",
-"https://ortez4nm.com/voting",
-"https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx",
-"https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx",
-"https://secure.actblue.com/donate/ortez-for-nm-1",
-"https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx",
-"https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx"
+{
+"text": "0",
+"href": "https://www.ortez4nm.com/cart"
+},
+{
+"text": "ABOUT KRISTINA",
+"href": "https://www.ortez4nm.com/about-kristina"
+},
+{
+"text": "BGC",
+"href": "https://www.biogeocreations.com"
+},
+{
+"text": "Back",
+"href": "https://www.ortez4nm.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.ortez4nm.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/ortez-for-nm-1"
+},
+{
+"text": "DISTRICT 42",
+"href": "https://www.ortez4nm.com/district-42"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ortez4nm.com/endorsements"
+},
+{
+"text": "Folder: ABOUT",
+"href": "https://www.ortez4nm.com/391a0f5b-5f48-4a9a-8377-8c2ffce73105"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ortez4nm.com/get-involved"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ortez4nm.com/priorities"
+},
+{
+"text": "VOTING",
+"href": "https://www.ortez4nm.com/voting"
+},
+{
+"text": "[image: Kristina Ortez 4 New Mexico]",
+"href": "https://www.ortez4nm.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Ortez4NM/"
+},
+{
+"text": "here",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx"
+},
+{
+"text": "here",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx"
+},
+{
+"text": "http://www.taoscounty.org/174/Precinct-Sites",
+"href": "http://www.taoscounty.org/174/Precinct-Sites"
+},
+{
+"text": "online",
+"href": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx"
+},
+{
+"text": "online",
+"href": "https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx"
+}
 ]

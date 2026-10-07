@@ -1,14 +1,62 @@
 [
-"https://achieve.lausd.net/resources",
-"https://coveredca.com/",
-"https://dhcs.ca.gov/services/medi-cal",
-"https://edd.ca.gov/Unemployment/Filing_a_Claim.htm",
-"https://hildasolis.com/",
-"https://hildasolis.com/2022/join-team-hilda",
-"https://hildasolis.com/2022/supporters",
-"https://hildasolis.com/gallery",
-"https://hildasolis.com/join-team-hilda",
-"https://hildasolis.com/supporters",
-"https://lafoodbank.org/find-food/pantry-locator",
-"https://secure.actblue.com/donate/hilda-solis-4"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hilda-solis-4"
+},
+{
+"text": "Donate[image]",
+"href": "https://secure.actblue.com/donate/hilda-solis-4"
+},
+{
+"text": "Endorse Hilda",
+"href": "https://www.hildasolis.com/2022/supporters/"
+},
+{
+"text": "Gallery",
+"href": "https://www.hildasolis.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.hildasolis.com/"
+},
+{
+"text": "Join Team Hilda",
+"href": "https://www.hildasolis.com/2022/join-team-hilda/"
+},
+{
+"text": "Join Team Hilda",
+"href": "https://www.hildasolis.com/join-team-hilda/"
+},
+{
+"text": "Supporters",
+"href": "https://www.hildasolis.com/supporters/"
+},
+{
+"text": "[image: Hilda Solis | For Congress]",
+"href": "https://www.hildasolis.com/"
+},
+{
+"text": "https://achieve.lausd.net/resources",
+"href": "https://achieve.lausd.net/resources"
+},
+{
+"text": "https://edd.ca.gov/Unemployment/Filing_a_Claim.htm",
+"href": "https://edd.ca.gov/Unemployment/Filing_a_Claim.htm"
+},
+{
+"text": "https://www.coveredca.com/",
+"href": "https://www.coveredca.com/"
+},
+{
+"text": "https://www.dhcs.ca.gov/services/medi-cal",
+"href": "https://www.dhcs.ca.gov/services/medi-cal"
+},
+{
+"text": "https://www.lafoodbank.org/find-food/pantry-locator/",
+"href": "https://www.lafoodbank.org/find-food/pantry-locator/"
+},
+{
+"text": "info@hildasolis.com",
+"href": "mailto:info@hildasolis.com"
+}
 ]

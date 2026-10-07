@@ -1,14 +1,12 @@
-Signed in as:
-filler@godaddy.com
-My name is Paul Sand.
+Home About Me Gallery Contact Me Yard Sale Pictures More Home About Me Gallery Contact Me Yard Sale Pictures Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Me Gallery Contact Me Yard Sale Pictures Account My Account Sign out Sign In My Account About Me Return to home Page Overview My name is Paul Sand.
 I am a 77 year-old retired computer software engineer with over 65 years of electronics and computer experience.
 I am also an extreme outdoors adventurer.
 If I am not playing on liquid or frozen water, I am probably climbing something or building something.
 I live in White Bird Idaho and previously served ten years on the White Bird City Council and I am a former member of the White Bird Volunteer Fire Department.
 I am also a carpenter/architect and I built several homes for my family in my spare time and on weekends.
 I have a wife, Sandra Miller (pictured), an ex-wife who is the mother of my three grown children, three grandchildren and 4 cats.
-I grew up in Minnesota and moved west, about 30 years ago, after my divorce.
-I met my current wife about 26 years ago when I was working in Spokane.
+I grew up in Minnesota and moved west, about #ago, after my divorce.
+I met my current wife about #ago when I was working in Spokane.
 I have been playing and working with electronics and computers since the mid 1950’s.
 My experience goes back to the days of electronic data processing (EDP), analog computers and digital computers that still used vacuum tubes.
 I developed the first operating systems for micro-processors long before Bill Gates or Steve Jobs.
@@ -22,7 +20,7 @@ I believe that representing the people is a position of service, not a position 
 My wife and I have no retirement savings or retirement income other than social security.
 Our house is fully mortgaged, and we are living on borrowed money and borrowed time.
 We have nothing to lose, and we have nothing to gain.
-My father ran the back office of a retail men's clothing store and my mother was a keypunch operator in the data processing department of a grocery store distributor.
+My Business Career My father ran the back office of a retail men's clothing store and my mother was a keypunch operator in the data processing department of a grocery store distributor.
 I grew up learning the retail and distribution business models.
 Both of my parents spent their entire careers processing data.
 After starting my first computer business at the age of 19, I’ve started and run about a dozen businesses during my 54-year career.
@@ -34,7 +32,7 @@ If you are starting a business on a shoestring by your bootstraps and you need t
 If you are a residential construction general contractor, sub-contractor, or construction worker, I've done your job, including footings, concrete work, masonry, framing, roofing, siding, interior finishing, drywall, tile, plumbing, electrical, HVAC, etc.
 I also have experience working with product testing laboratories such as UL and Factory Mutual and with regulatory standards agencies like the NFPA.
 I understand intellectual property law, including patents and trademarks and was issued a registered trademark for “Smartware®”.
-During my construction career I have had to deal with land use zoning, building permitting, building inspections, and homeowner associations in several states.
+My Government Experience During my construction career I have had to deal with land use zoning, building permitting, building inspections, and homeowner associations in several states.
 While I oppose all land use restrictions, I support Idaho state permitting and inspections for all electrical, plumbing and HVAC work, for public safety reasons.
 If you own property in Idaho County, you can build anything you want, any way you want, and you don’t have to ask anyone for permission.
 Between 1972 and 1977, I developed software tools for the State of Minnesota that was used by a variety of public agencies at the county, regional, state, and federal levels for geographic analysis and mapping of natural, physical, and economic resources.
@@ -45,11 +43,10 @@ From 1997 to 2010, I worked in Spokane, Washington, for Monaco Enterprises, Inc.
 After my retirement in 2010, through 12/31/2021, I continued working as a consultant and independent subcontractor.
 As lead software engineer, I designed the GIS and GPS based front-end dispatch application and designed, developed, and maintained the data communication backbone that ran the building communication layer.
 Due to my work and experience in this field, I fully understand what is involved in civilian emergency response operations.
-From 2007 to 2017, I served three two-year terms and one four-year term on the White Bird city council.
+My Political Career From 2007 to 2017, I served three two-year terms and one four-year term on the White Bird city council.
 I understand local election procedures, the state open meeting law and meeting procedures, and the responsibilities of the mayor, city clerk, and city council members.
 I also have experience dealing with city/county government and public safety operations.
-During my ten-year tenure on the council, we handled many complex and challenging issues including:
-Federal Pollution Lawsuit – The Idaho Conservation League (ICL) sued the City of White Bird (70 households) for 35 million dollars for discharging wastewater without a permit and polluting White Bird Creek.
+During my ten-year tenure on the council, we handled many complex and challenging issues including: Federal Pollution Lawsuit – The Idaho Conservation League (ICL) sued the City of White Bird (70 households) for 35 million dollars for discharging wastewater without a permit and polluting White Bird Creek.
 Our city’s liability insurance does not cover pollution lawsuits, so we had to hire our federal lawyers and pay for their federal lawyers out of our pockets.
 We had proof that the discharge permit was in fact properly filed when the former treatment plant was put online but it was never processed by the EPA.
 Engineering grant applications – Our grant application for engineering services for our sewer plant upgrade is what triggered the ICL investigation and lawsuit.
@@ -76,3 +73,5 @@ I prepared the city budgets for the 2 years that Rod was incapacitated and after
 I reorganized the White Bird Volunteer Fire Department after a year without fire protection and I reorganized the White Bird Flood District which had been inactive for nearly ten years, which resulted in an unacceptable rating for our dike from the US Army Corps of Engineers.
 Dike maintenance is now back on schedule.
 I feel I left the city going in a positive direction when I retired from the council in 2017.
+Copyright © # Paul Sand - All Rights Reserved.
+Powered by

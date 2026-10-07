@@ -1,12 +1,74 @@
 [
-"https://morganfortexas.com/",
-"https://morganfortexas.com/about",
-"https://morganfortexas.com/copy-of-contact",
-"https://morganfortexas.com/copy-of-terms-of-use",
-"https://morganfortexas.com/endorse-matt",
-"https://morganfortexas.com/endorsements",
-"https://morganfortexas.com/join-the-team",
-"https://morganfortexas.com/yard-sign",
-"https://secure.anedot.com/matt-morgan/donate",
-"https://secure.anedot.com/matt-morgan/keysandcocktails2026"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "$2,800",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "About",
+"href": "https://www.morganfortexas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.morganfortexas.com/copy-of-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "Endorse Matt",
+"href": "https://www.morganfortexas.com/endorse-matt"
+},
+{
+"text": "Endorsements",
+"href": "https://www.morganfortexas.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.morganfortexas.com"
+},
+{
+"text": "JOIN THE FIGHT",
+"href": "https://secure.anedot.com/matt-morgan/donate"
+},
+{
+"text": "Join the Team!",
+"href": "https://www.morganfortexas.com/join-the-team"
+},
+{
+"text": "Keys & Cocktails Event",
+"href": "https://secure.anedot.com/matt-morgan/keysandcocktails2026"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.morganfortexas.com/copy-of-terms-of-use"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.morganfortexas.com/copy-of-terms-of-use"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.morganfortexas.com/yard-sign"
+},
+{
+"text": "[image: vector-file-eps-02.png]",
+"href": "https://www.morganfortexas.com"
+}
 ]

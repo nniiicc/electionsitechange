@@ -1,7 +1,12 @@
 {
- "description": "Jack was first elected to the Tennessee State Senate in 2006. Since his first day in office he has proudly represented Tennessean\u2019s conservative values.",
+ "description": "Jack was first elected to the Tennessee State Senate in 2006. Since his first day in office he has proudly represented Tennessean’s conservative values.",
  "final_url": "https://www.johnsonfortennessee.com/",
- "paid_for_by": "Paid for by Johnson for State Senate, Tommy Nelms, Treasurer Follow Privacy Policy &amp; Terms &amp; Conditions Press Kit",
+ "fingerprint": "8fe12cd0602b69840d80dd16f291a0311c450e63",
+ "format": 3,
+ "paid_for_by": "Paid for by Johnson for State Senate, Tommy Nelms, Treasurer Follow Privacy Policy & Terms & Conditions Press Kit",
  "title": "Jack Johnson for Tennessee State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2006",
+  "2026"
+ ]
 }

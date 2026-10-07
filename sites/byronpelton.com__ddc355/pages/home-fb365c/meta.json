@@ -1,7 +1,11 @@
 {
  "description": "Senator Byron Pelton Colorado's 1st Senate District",
  "final_url": "https://www.byronpelton.com/home",
+ "fingerprint": "957e1219deb4a64557cc85f1efb7ae6cb676d812",
+ "format": 3,
  "paid_for_by": "Paid for by Pelton for State Senate",
  "title": "Senator Byron Pelton Colorado's 1st Senate District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008"
+ ]
 }

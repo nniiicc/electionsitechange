@@ -1,10 +1,46 @@
 [
-"https://henryhostetler.com/",
-"https://henryhostetler.com/about",
-"https://henryhostetler.com/contact",
-"https://henryhostetler.com/endorsements",
-"https://henryhostetler.com/index.php",
-"https://henryhostetler.com/platform",
-"https://secure.winred.com/henry-hostetler-nc-senate-campaign-fund/support-now?sc=winred-directory&money_bomb=false&recurring=false",
-"https://zudesa.com/"
+{
+"text": "About",
+"href": "https://henryhostetler.com/about"
+},
+{
+"text": "Contact",
+"href": "https://henryhostetler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/henry-hostetler-nc-senate-campaign-fund/support-now?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://henryhostetler.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://henryhostetler.com"
+},
+{
+"text": "Home",
+"href": "https://henryhostetler.com/"
+},
+{
+"text": "Home",
+"href": "https://henryhostetler.com/index.php"
+},
+{
+"text": "Platform",
+"href": "https://henryhostetler.com/platform"
+},
+{
+"text": "Zudesa Corporation",
+"href": "https://zudesa.com"
+},
+{
+"text": "[image: Henry Hostetler for NC State Senate]Henry Hostetler for NC State Senate",
+"href": "https://henryhostetler.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(null)"
+}
 ]

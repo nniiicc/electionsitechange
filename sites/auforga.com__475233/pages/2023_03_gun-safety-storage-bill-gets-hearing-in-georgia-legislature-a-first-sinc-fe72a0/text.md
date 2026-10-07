@@ -1,4 +1,8 @@
-By Jonathan Raymond
-[the] bill on gun storage regulations was presented Thursday before a Georgia House subcommittee – as the state marked two years since the Atlanta spa shootings.
+Meet Michelle Priorities Economic Prosperity Public Safety Reproductive Rights Healthcare Education Voting Rights Voter Guide News Join #TeamAu DONATE Menu Menu Meet Michelle Priorities Economic Prosperity Public Safety Reproductive Rights Healthcare Education Voting Rights News Voter Guide Join #TeamAu Gun safety storage bill gets hearing in Georgia legislature, a first since Atlanta spa shootings By Jonathan Raymond [the] bill on gun storage regulations was presented Thursday before a Georgia House subcommittee – as the state marked two years since the Atlanta spa shootings.
 Its sponsor, state Rep.
-Michelle Au, described the hearing as the “first substantive committee hearing for a gun safety bill that we have had since the tragic events two years ago to this day.”
+Michelle Au, described the hearing as the “first substantive committee hearing for a gun safety bill that we have had since the tragic events two years ago to this day.” READ MORE Recent Posts Threat To Mail-In Ballots September 8, 2026 Special Session Recap June 29, 2026 Deep Dive into Next Week’s Redistricting Special Session June 8, 2026 Today is Sine Die!
+April 2, 2026 From operating room to the Gold Dome: How Georgia’s medical lawmakers shape policy March 23, 2026 Au for Georgia, Inc.
+5805 State Bridge Road, Suite G238 Johns Creek, Georgia 30097 michelle@auforga.com 770-405-9418 Site Map Meet Michelle Voter Guide In the News Join #TeamAu Privacy Policy Terms of Use © # Paid for by Au for Georgia, inc.
+Designed by Benton Creative .
+Link to: Bill to protect healthcare workers from assaults introduced in Georgia Bill to protect healthcare workers from assaults introduced in Georgia Link to: Atlanta News First discusses HB856 and HB857, our Short and Continuing Insulin Safety Net Programs Atlanta News First discusses HB856 and HB857, our Short and Continuing Insulin...
+Scroll to top Scroll to top

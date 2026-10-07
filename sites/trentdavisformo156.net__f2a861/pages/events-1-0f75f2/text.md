@@ -1,9 +1,2 @@
-TRENT DAVIS
-for STATE REPRESENTATIVE
-Home
-Election News
-About
-Events
-Get Involved
-More
-Help Send Me To Jefferson City
+top of page TRENT DAVIS for STATE REPRESENTATIVE DONATE Home Election News About Events Get Involved More Use tab to navigate through the menu items.
+EVENTS Help Send Me To Jefferson City No events at the moment Home Election News About Events Get Involved Trent Davis - FOR STATE REPRESENTATIVE - When Missouri Speaks, Trent Listens Terms & Conditions Privacy Policy Accessibility Statement ​ bottom of page

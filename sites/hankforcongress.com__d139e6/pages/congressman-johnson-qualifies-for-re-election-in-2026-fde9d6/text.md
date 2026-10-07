@@ -1,9 +1,9 @@
-Democratic Caucus Leader, Senior Member of Judiciary and T&I Committees Makes It Official
-DECATUR, GA – On Monday, March 2, 2026, Congressman Hank Johnson (GA-04) made it official by qualifying to run for his eleventh term in Georgia’s Fourth Congressional District.
+Skip to content Home About Issues News Contact Donate Sign Up Home About Issues News Contact Donate Sign Up Facebook Instagram Congressman Johnson Qualifies for Re-Election in 2026 Democratic Caucus Leader, Senior Member of Judiciary and T&I Committees Makes It Official DECATUR, GA – On Monday, March 2, 2026, Congressman Hank Johnson (GA-04) made it official by qualifying to run for his eleventh term in Georgia’s Fourth Congressional District.
 “I am proud of my strong record in Congress,” he said.
-“I look forward to meeting new voters, constituents and continuing to work for the people of Georgia’s Fourth Congressional District.”
-Since 2007, Congressman Johnson has helped bring in billions of dollars in federal investments for local community projects, schools, transportation projects, small businesses, public safety, veterans, and seniors.
+“I look forward to meeting new voters, constituents and continuing to work for the people of Georgia’s Fourth Congressional District.” Since 2007, Congressman Johnson has helped bring in billions of dollars in federal investments for local community projects, schools, transportation projects, small businesses, public safety, veterans, and seniors.
 From his main district office in Stonecrest, he has worked to help secure more than $120 million for constituents seeking help with specific federal agencies such as the IRS, Social Security, VA and the Small Business Administration.
 As a senior member of the Democratic Caucus, Congressman Johnson is known for his effective resistance to Trump’s lawless, corrupt and immoral second term.
 He is nationally known for his work on police and court reform, consumer protection, civil and voting rights, First Amendment rights, environmental protection, and renewable energy.
-FOR MORE: HANKFORCONGRESS.COM
+FOR MORE: HANKFORCONGRESS.COM CONTRIBUTE VOLUNTEER SIGN UP Facebook Instagram CONGRESSMAN HANK JOHNSON In his tenth term as U.S.
+Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
+Supreme Court’s decision September 16, 2026 Congressman Johnson Introduces Historic Bill To Prevent Judges, Justices From Trading Stocks August 27, 2026 Paid for by the Committee to Elect Hank Johnson

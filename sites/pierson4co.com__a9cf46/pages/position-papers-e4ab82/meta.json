@@ -1,7 +1,9 @@
 {
  "description": "Explore detailed position papers by Michael Pierson for the Colorado House of Representatives, highlighting key issues and proposals.",
  "final_url": "https://pierson4co.com/position-papers",
- "paid_for_by": null,
+ "fingerprint": "c78c55bc9a23ae7e69e6360ef26bcf78f3722258",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Position Papers by Michael Pierson for Colorado",
  "years_mentioned": [
   "2026"

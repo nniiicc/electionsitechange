@@ -1,9 +1,54 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://secure.fundhero.com/therealtheodoretx?_gl=1%2A1spqkrq%2A_gcl_au%2ANjUyODcxODkyLjE3NjUwNTQ4MDE.",
-"https://theodoretx.com/",
-"https://tiktok.com/@wix",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "Accessibility Statement",
+"href": "https://www.theodoretx.com"
+},
+{
+"text": "Contact Us",
+"href": "mailto:theodoretx@duck.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.fundhero.com/therealtheodoretx"
+},
+{
+"text": "Home",
+"href": "https://www.theodoretx.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.theodoretx.com"
+},
+{
+"text": "TheodoreTX",
+"href": "https://www.theodoretx.com"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "contact",
+"href": "https://www.theodoretx.com"
+},
+{
+"text": "info@mysite.com",
+"href": "mailto:info@mysite.com"
+}
 ]

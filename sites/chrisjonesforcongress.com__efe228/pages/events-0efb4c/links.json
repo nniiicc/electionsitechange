@@ -1,55 +1,254 @@
 [
-"http://store.chrisjonesforcongress.com/",
-"https://chrisjonesforcongress.com/",
-"https://chrisjonesforcongress.com/about",
-"https://chrisjonesforcongress.com/accountability",
-"https://chrisjonesforcongress.com/affordability",
-"https://chrisjonesforcongress.com/canvassing",
-"https://chrisjonesforcongress.com/community",
-"https://chrisjonesforcongress.com/contact-us",
-"https://chrisjonesforcongress.com/endorsements",
-"https://chrisjonesforcongress.com/event/canvassing-with-team-jones-32",
-"https://chrisjonesforcongress.com/event/canvassing-with-team-jones-33",
-"https://chrisjonesforcongress.com/event/canvassing-with-team-jones-34",
-"https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-44",
-"https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-45",
-"https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-46",
-"https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-47",
-"https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-48",
-"https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-49",
-"https://chrisjonesforcongress.com/event/volunteer-at-our-lr-office-week-of-october-5th",
-"https://chrisjonesforcongress.com/events",
-"https://chrisjonesforcongress.com/events/list",
-"https://chrisjonesforcongress.com/events/list/page/2",
-"https://chrisjonesforcongress.com/events/list?eventDisplay=past",
-"https://chrisjonesforcongress.com/events/list?ical=1",
-"https://chrisjonesforcongress.com/events/list?outlook-ical=1",
-"https://chrisjonesforcongress.com/events/month",
-"https://chrisjonesforcongress.com/events/today",
-"https://chrisjonesforcongress.com/facebook",
-"https://chrisjonesforcongress.com/in-the-press",
-"https://chrisjonesforcongress.com/instagram",
-"https://chrisjonesforcongress.com/media",
-"https://chrisjonesforcongress.com/opportunity",
-"https://chrisjonesforcongress.com/press-kit",
-"https://chrisjonesforcongress.com/press-releases",
-"https://chrisjonesforcongress.com/priorities",
-"https://chrisjonesforcongress.com/privacy-policy",
-"https://chrisjonesforcongress.com/terms",
-"https://chrisjonesforcongress.com/volunteer",
-"https://chrisjonesforcongress.com/voter-hub",
-"https://chrisjonesforcongress.com/x",
-"https://chrisjonesforcongress.com/yard-sign",
-"https://chrisjonesforcongress.com/youtube",
-"https://goodchange.app/donate/suppo-co",
-"https://goodchange.app/donate/suppo-co?mk=web-3",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fchrisjonesforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://iwillvote.com/register?state=AR",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchrisjonesforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chris+Jones+for+Congress+Events+%E2%80%93+Chris+Jones+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchrisjonesforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chris+Jones+for+Congress+Events+%E2%80%93+Chris+Jones+for+Congress",
-"https://secure.actblue.com/donate/chip-in-for-chris",
-"https://secure.actblue.com/donate/chip-in-for-chris?amount=5",
-"https://secure.actblue.com/donate/chrisjones_wsd_r2bpop",
-"https://store.chrisjonesforcongress.com/",
-"https://wponetap.com/"
+{
+"text": "#ago",
+"href": "https://chrisjonesforcongress.com/events/list/"
+},
+{
+"text": "About Chris",
+"href": "https://chrisjonesforcongress.com/about/"
+},
+{
+"text": "Accountability For All",
+"href": "https://chrisjonesforcongress.com/accountability/"
+},
+{
+"text": "Affordability For All",
+"href": "https://chrisjonesforcongress.com/affordability/"
+},
+{
+"text": "CHIP IN TODAY",
+"href": "https://secure.actblue.com/donate/chrisjones_wsd_r2bpop"
+},
+{
+"text": "Canvassing",
+"href": "https://chrisjonesforcongress.com/canvassing/"
+},
+{
+"text": "Canvassing with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/canvassing-with-team-jones-34/"
+},
+{
+"text": "Canvassing with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/canvassing-with-team-jones-35/"
+},
+{
+"text": "Canvassing with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/canvassing-with-team-jones-36/"
+},
+{
+"text": "Contact",
+"href": "https://chrisjonesforcongress.com/contact-us/"
+},
+{
+"text": "Day",
+"href": "https://chrisjonesforcongress.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris?amount=5"
+},
+{
+"text": "Donate Via GoodChange",
+"href": "https://goodchange.app/donate/suppo-co"
+},
+{
+"text": "Donate Via GoodChange",
+"href": "https://goodchange.app/donate/suppo-co?mk=web-3"
+},
+{
+"text": "Endorsements",
+"href": "https://chrisjonesforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://chrisjonesforcongress.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://chrisjonesforcongress.com/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://chrisjonesforcongress.com/events/list/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://chrisjonesforcongress.com/facebook/"
+},
+{
+"text": "Get A Yard Sign",
+"href": "https://chrisjonesforcongress.com/yard-sign/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fchrisjonesforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "In The Press",
+"href": "https://chrisjonesforcongress.com/in-the-press/"
+},
+{
+"text": "In the Community",
+"href": "https://chrisjonesforcongress.com/community/"
+},
+{
+"text": "Instagram",
+"href": "https://chrisjonesforcongress.com/instagram/"
+},
+{
+"text": "List",
+"href": "https://chrisjonesforcongress.com/events/list/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrisjonesforcongress.com/about/"
+},
+{
+"text": "Month",
+"href": "https://chrisjonesforcongress.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://chrisjonesforcongress.com/events/list/page/2/"
+},
+{
+"text": "OneTap",
+"href": "https://wponetap.com/"
+},
+{
+"text": "Opportunity For All",
+"href": "https://chrisjonesforcongress.com/opportunity/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchrisjonesforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chris+Jones+for+Congress+Events+%E2%80%93+Chris+Jones+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fchrisjonesforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Chris+Jones+for+Congress+Events+%E2%80%93+Chris+Jones+for+Congress"
+},
+{
+"text": "P.O. Box 21803, Little Rock, AR 72221",
+"href": "https://chrisjonesforcongress.com/contact-us/"
+},
+{
+"text": "Press Kit",
+"href": "https://chrisjonesforcongress.com/press-kit/"
+},
+{
+"text": "Press Releases",
+"href": "https://chrisjonesforcongress.com/press-releases/"
+},
+{
+"text": "Previous Events",
+"href": "https://chrisjonesforcongress.com/events/list/?eventDisplay=past"
+},
+{
+"text": "Priorities",
+"href": "https://chrisjonesforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrisjonesforcongress.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://iwillvote.com/register/?state=AR"
+},
+{
+"text": "Store",
+"href": "http://store.chrisjonesforcongress.com/"
+},
+{
+"text": "Store",
+"href": "https://store.chrisjonesforcongress.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://chrisjonesforcongress.com/terms/"
+},
+{
+"text": "Via ActBlue →",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris"
+},
+{
+"text": "Via GoodChange →",
+"href": "https://goodchange.app/donate/suppo-co?mk=web-3"
+},
+{
+"text": "Virtual Phone and Text Bank Training with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-47/"
+},
+{
+"text": "Virtual Phone and Text Bank Training with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-48/"
+},
+{
+"text": "Virtual Phone and Text Bank Training with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-49/"
+},
+{
+"text": "Virtual Phone and Text Bank Training with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-50/"
+},
+{
+"text": "Virtual Phone and Text Bank Training with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-51/"
+},
+{
+"text": "Virtual Phone and Text Bank Training with Team Jones!",
+"href": "https://chrisjonesforcongress.com/event/virtual-phone-and-text-bank-training-with-team-jones-52/"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisjonesforcongress.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisjonesforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer at our LR Office! Week of October 5th",
+"href": "https://chrisjonesforcongress.com/event/volunteer-at-our-lr-office-week-of-october-5th/"
+},
+{
+"text": "Vote",
+"href": "https://chrisjonesforcongress.com/voter-hub/"
+},
+{
+"text": "Voter Hub",
+"href": "https://chrisjonesforcongress.com/voter-hub/"
+},
+{
+"text": "X-twitter",
+"href": "https://chrisjonesforcongress.com/x/"
+},
+{
+"text": "Youtube",
+"href": "https://chrisjonesforcongress.com/youtube/"
+},
+{
+"text": "[image]",
+"href": "https://chrisjonesforcongress.com"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://chrisjonesforcongress.com/events/list/page/2/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://chrisjonesforcongress.com/events/list/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://chrisjonesforcongress.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

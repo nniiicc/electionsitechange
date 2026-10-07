@@ -1,23 +1,114 @@
 [
-"https://facebook.com/SenatorJackJohnson",
-"https://flickr.com/photos/195904713@N04",
-"https://jack-johnson-for-state-senate.webflow.io/issues",
-"https://johnsonfortennessee.com/",
-"https://johnsonfortennessee.com/contact",
-"https://johnsonfortennessee.com/issues",
-"https://johnsonfortennessee.com/meet-jack",
-"https://johnsonfortennessee.com/news",
-"https://johnsonfortennessee.com/news/johnson-discusses-music-city-loop-as-tunneling-advances-in-nashville",
-"https://johnsonfortennessee.com/news/johnson-sponsors-legislation-establishing-framework-for-underground-transportation-projects",
-"https://johnsonfortennessee.com/news/senate-passes-johnson-bill-to-strengthen-tennessee-disaster-response",
-"https://johnsonfortennessee.com/press-kit",
-"https://johnsonfortennessee.com/privacy-policy",
-"https://johnsonfortennessee.com/take-action",
-"https://secure.anedot.com/johnsonfortennessee/donate",
-"https://secure.anedot.com/johnsonfortennessee/donate?amount=100",
-"https://secure.anedot.com/johnsonfortennessee/donate?amount=25",
-"https://secure.anedot.com/johnsonfortennessee/donate?amount=250",
-"https://secure.anedot.com/johnsonfortennessee/donate?amount=50",
-"https://secure.anedot.com/johnsonfortennessee/donate?amount=500",
-"https://x.com/SenJohnson"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://www.johnsonfortennessee.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate"
+},
+{
+"text": "February 25, 2026Johnson Sponsors Legislation Establishing Framework for Underground Transportation ProjectsRead More",
+"href": "https://www.johnsonfortennessee.com/news/johnson-sponsors-legislation-establishing-framework-for-underground-transportation-projects"
+},
+{
+"text": "Home",
+"href": "https://www.johnsonfortennessee.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.johnsonfortennessee.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.johnsonfortennessee.com/meet-jack"
+},
+{
+"text": "March 2, 2026Senate Passes Johnson Bill to Strengthen Tennessee Disaster ResponseRead More",
+"href": "https://www.johnsonfortennessee.com/news/senate-passes-johnson-bill-to-strengthen-tennessee-disaster-response"
+},
+{
+"text": "May 15, 2026Johnson Discusses Music City Loop as Tunneling Advances in NashvilleRead More",
+"href": "https://www.johnsonfortennessee.com/news/johnson-discusses-music-city-loop-as-tunneling-advances-in-nashville"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.johnsonfortennessee.com/meet-jack"
+},
+{
+"text": "News",
+"href": "https://www.johnsonfortennessee.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate"
+},
+{
+"text": "Press Kit",
+"href": "https://www.johnsonfortennessee.com/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnsonfortennessee.com/privacy-policy"
+},
+{
+"text": "Privacy Policy & Terms & Conditions",
+"href": "https://www.johnsonfortennessee.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://jack-johnson-for-state-senate.webflow.io/issues"
+},
+{
+"text": "Read More",
+"href": "https://www.johnsonfortennessee.com/issues"
+},
+{
+"text": "Take Action",
+"href": "https://www.johnsonfortennessee.com/take-action"
+},
+{
+"text": "View More",
+"href": "https://www.johnsonfortennessee.com/news"
+},
+{
+"text": "Where Jack Stands",
+"href": "https://www.johnsonfortennessee.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.johnsonfortennessee.com/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.facebook.com/SenatorJackJohnson/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.flickr.com/photos/195904713@N04/"
+},
+{
+"text": "[image][image]",
+"href": "https://x.com/SenJohnson"
+}
 ]

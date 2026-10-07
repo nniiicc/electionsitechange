@@ -1,5 +1,6 @@
-About Danny
-When it comes to representing your family and Hawai’i, the best choice is Dr.
+0 Skip to Content Dr.
+Danny de Gracia for Hawai’i State House District 39 About The Plan Endorsements Media Donate Contact Open Menu Close Menu Dr.
+Danny de Gracia for Hawai’i State House District 39 About The Plan Endorsements Media Donate Contact Open Menu Close Menu About The Plan Endorsements Media Donate Contact About Danny When it comes to representing your family and Hawai’i, the best choice is Dr.
 Danny de Gracia.
 Hawai’i needs reliable leaders with the experience to get things right, and Danny is Ready On Day One.
 Dependable.
@@ -7,26 +8,7 @@ Reliable.
 Hard working.
 Danny is already on the job for Hawai’i as a civil servant, a labor union leader, and a writer who has advocated reform for decades.
 With a proven track record as someone who can solve difficult problems, lead state programs, and do the people’s business, Danny will get the job done and won’t let your family down.
-Education
-- Master of Public Health in Health Policy Management
-University of Hawai’i at Manoa (expected Fall 2026)
-- Doctor of Ministry
-Andersonville Theological Seminary
-- Doctor of Theology
-Andersonville Theological Seminary
-- Master of Arts, Political Science and Humanities
-Texas State University, San Marcos
-- Bachelor of Arts, Political Science and Public Administration
-University of Texas at San Antonio
-Experience
-- Program Specialist, Hawai’i State Department of Health
-Chronic Disease Prevention and Health Promotion Division
-- Former columnist for Honolulu Civil Beat and numerous other publications
-- Member, Waipahu Neighborhood Board No.22
-- Chair, HGEA Oahu Island Division Unit 13
-- Former Hawai’i State House of Representatives Committee Clerk for Human Services and International Affairs committees
-- Former Hawai’i State House of Representatives Minority Research Analyst for House Minority Research
-Family first means Hawai’i first.
+Education Master of Public Health in Health Policy Management University of Hawai’i at Manoa (expected Fall 2026) Doctor of Ministry Andersonville Theological Seminary Doctor of Theology Andersonville Theological Seminary Master of Arts, Political Science and Humanities Texas State University, San Marcos Bachelor of Arts, Political Science and Public Administration University of Texas at San Antonio Experience Program Specialist, Hawai’i State Department of Health Chronic Disease Prevention and Health Promotion Division Former columnist for Honolulu Civil Beat and numerous other publications Member, Waipahu Neighborhood Board No.22 Chair, HGEA Oahu Island Division Unit 13 Former Hawai’i State House of Representatives Committee Clerk for Human Services and International Affairs committees Former Hawai’i State House of Representatives Minority Research Analyst for House Minority Research Family first means Hawai’i first.
 Danny first learned government and the values of God, Duty, Honor, Country as the only child of a military family.
 His father, retired Colonel Daniel P. de Gracia Sr, served in the United States Air Force during the Cold War as a Medical Service Corps officer who was awarded the Legion of Merit twice.
 His mother, retired Dr.
@@ -38,3 +20,6 @@ Family values for Danny means that everyone is family, and everyone has value.
 When elected to office, Danny will show leadership-by-example through his commitment to God, Duty, Honor, Country.
 Disclaimer: Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of War.
 Photo of Danny and his parents in the late 1980s.
+Paid for by Team de Gracia and authorized by Danny de Gracia.
+P.O.
+Box 31114 Honolulu HI 96820 Contact danny4hawaii@gmail.com (808) 927-9396

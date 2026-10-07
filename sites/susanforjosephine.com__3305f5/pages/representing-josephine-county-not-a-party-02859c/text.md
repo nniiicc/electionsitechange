@@ -1,9 +1,8 @@
-Question:
-Josephine County has historically leaned politically conservative, while you are seeking office as a Democrat.
+Skip to content Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Donate Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Question: Josephine County has historically leaned politically conservative, while you are seeking office as a Democrat.
 If the priorities of Democratic leadership in Salem were to conflict with what you believed was in the best interest of the residents of House District 3, how would you approach that disagreement, and where would your responsibility to your district stand in relation to your responsibility to your party?
-This question originally appeared in a Grants Pass Tribune article: Read More
-Answer:
-Josephine County comes first.
+This question originally appeared in a Grants Pass Tribune article: Read More Answer: Josephine County comes first.
 I’m a Democrat and I’m not going to pretend otherwise.
 I’m also running to represent everyone in House District 3, including the people who won’t vote for me and the people who disagree with me.
 That isn’t a difficult position to hold.
@@ -23,3 +22,15 @@ In the majority, you argue while a bill is still being written.
 In the minority, you mostly object after it’s finished.
 My job wouldn’t be to bring Salem’s priorities home to Josephine County.
 It would be to bring Josephine County’s priorities to Salem, and to come back with something to show for it.
+See the Latest News My Response to Rep.
+Yunker’s Attack Ad I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » The Principles I’ll Take With Me to Salem.
+I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Why I’m Asking for Your Trust I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Facebook Instagram © # Susan for Josephine.
+All rights Reserved.

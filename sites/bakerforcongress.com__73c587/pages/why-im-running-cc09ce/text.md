@@ -1,5 +1,4 @@
-Why I’m Running
-I’m running for Congress because, on a human level, it is not healthy for us to be this divided.
+0 Skip to Content Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Why I’m Running I’m running for Congress because, on a human level, it is not healthy for us to be this divided.
 We were not meant to live in constant fight mode or suspicion of one another.
 We can stand firmly for our principles, as we always have, while still making space to understand where someone else is coming from.
 In fact, that is where real strength is found.
@@ -39,3 +38,4 @@ On a human level, this is how we start to move forward again.
 This is leadership that gets things done.
 That’s what I will bring to Congress.
 And this is what this moment is asking of us.
+Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # Privacy Policy ‍ ‍ Terms of Service ‍ ‍ Disclaimer contact@BakerForCongress.com contact@BakerForCongress.com Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # PAID FOR BY BAKER FOR CONGRESS

@@ -1,13 +1,50 @@
 [
-"http://thejoedyegroup.com/",
-"https://facebook.com/HarpForCongress",
-"https://instagram.com/harpforcongress",
-"https://secure.actblue.com/donate/seth-harp-2",
-"https://sethharpforcongress.com/",
-"https://sethharpforcongress.com/event",
-"https://sethharpforcongress.com/issues",
-"https://sethharpforcongress.com/join",
-"https://sethharpforcongress.com/meetseth",
-"https://sethharpforcongress.com/privacy-policy",
-"https://x.com/harpforcongress"
+{
+"text": "About",
+"href": "https://www.sethharpforcongress.com/meetseth"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/seth-harp-2"
+},
+{
+"text": "Events",
+"href": "https://www.sethharpforcongress.com/event"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sethharpforcongress.com/join"
+},
+{
+"text": "Home",
+"href": "https://www.sethharpforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.sethharpforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sethharpforcongress.com/privacy-policy"
+},
+{
+"text": "The Joe Dye Group",
+"href": "http://www.thejoedyegroup.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/HarpForCongress/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/harpforcongress/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/harpforcongress"
+},
+{
+"text": "info@sethharpforcongress.com",
+"href": "mailto:info@sethharpforcongress.com"
+}
 ]

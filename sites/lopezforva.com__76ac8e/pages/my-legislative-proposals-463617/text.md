@@ -1,4 +1,4 @@
-I am not running for Congress merely to criticize the current system.
+Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Home About My Legislative Proposals DONATE Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Home About My Legislative Proposals DONATE More Home About My Legislative Proposals DONATE Home About My Legislative Proposals DONATE My Legislative Proposals Real Solutions for the Immediate Needs of the American People I am not running for Congress merely to criticize the current system.
 I am offering practical legislative proposals designed to address the urgent challenges facing our people, protect individual liberty, strengthen our national security, and ensure that our government serves the American people.
 I created and developed the legislative proposals presented below.
 They are discussion drafts offered for public review and have not yet been introduced, approved, or enacted by Congress.
@@ -11,5 +11,5 @@ American Working Farms Act: This proposal helps keep working farms in farming fa
 Instead of creating another subsidy program, it uses targeted tax relief to protect family farms, support a legal agricultural workforce, and reduce pressure to sell farmland for development.
 Human Existential Protection Act: Unlike existing AI policies that largely regulate how artificial intelligence is developed and used, this proposal focuses on preventing AI from becoming an existential threat.
 It preserves ultimate human control by restricting autonomous AI access to weapons of mass destruction and critical systems, requiring emergency shutdown capabilities, preventing uncontrolled self-replication, and requiring the isolation and elimination of AI systems determined to pose a catastrophic threat.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+PDF Viewer Download PDF PDF Viewer Download PDF PDF Viewer Download PDF PDF Viewer Download PDF PDF Viewer Download PDF Download the Proposal Drafts Veterans_28_Act_ Sep 1 2026 (pdf) Download Data_Center_Community_Consent_Act Sep 1 2026 (pdf) Download 10-12_Act_Legislative_Discussion_Draft_Taner_Demirci_Lopez sep 2 2026 (pdf) Download Human_Existential_Protection_Act_Short_Draft (pdf) Download American_Working_Farms_Act Short version UPDATED (pdf) Download Lopez for Virginia Copyright © # Lopez for Virginia - All Rights Reserved.
+Powered by

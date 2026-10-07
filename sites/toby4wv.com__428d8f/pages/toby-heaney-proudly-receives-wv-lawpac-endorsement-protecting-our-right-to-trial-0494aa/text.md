@@ -1,4 +1,4 @@
-I am thrilled to share some exciting news with you all: our campaign for the West Virginia House of Delegates, District 76, has received the endorsement of the West Virginia LAWPAC, the political action committee of the West Virginia Association for Justice.
+Home About Issues Events Calendar Donations & Volunteer Opportunities News Contact Toby Contact Toby Toby Heaney Proudly Receives WV LAWPAC Endorsement: Protecting Our Right to Trial by Jury by Toby Heaney | Apr 19, 2024 | Blog I am thrilled to share some exciting news with you all: our campaign for the West Virginia House of Delegates, District 76, has received the endorsement of the West Virginia LAWPAC, the political action committee of the West Virginia Association for Justice.
 This endorsement is a significant milestone for our campaign and underscores our commitment to protecting our constitutional right to trial by jury.
 WV LAWPAC is a voluntary bar association comprised of nearly 500 attorneys who are dedicated to upholding the principles of justice, fairness, and equality in our legal system.
 Their endorsement reflects their belief in our ability to represent the best interests of West Virginians and uphold the values that are fundamental to our democracy.
@@ -12,6 +12,8 @@ With their support and the support of West Virginians who believe in the importa
 In closing, let me reaffirm my dedication to upholding our constitutional rights and serving as a strong advocate for the people of West Virginia, District 76.
 Together, we can work to build a fairer, more just society where everyone has the opportunity to seek redress in a court of law.
 Thank you for your support.
-Sincerely,
-Toby Heaney
-Republican Candidate for the West Virginia House of Delegates, District 76
+Sincerely, Toby Heaney Republican Candidate for the West Virginia House of Delegates, District 76 Newsletter Subscribe Our Newsletter /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ Home About Issues Events Calendar Donations & Volunteer Opportunities News Contact Toby Follow Paid for by Friends of Toby Heaney The appearance of U.S.
+Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.
+Copyright.
+Toby Heaney All Rights Reserved.
+Powered by

@@ -1,13 +1,74 @@
 [
-"https://electhughes.com/",
-"https://electhughes.com/about",
-"https://electhughes.com/about-3",
-"https://electhughes.com/contact",
-"https://electhughes.com/event-list",
-"https://facebook.com/profile.php?id=61560179266013&mibextid=LQQJ4d",
-"https://instagram.com/hughes4nc",
-"https://secure.actblue.com/donate/barbara_gaskins",
-"https://secure.actblue.com/donate/frankfornc",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "About",
+"href": "https://www.electhughes.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electhughes.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/frankfornc"
+},
+{
+"text": "Environmental Stewardship",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "Events",
+"href": "https://www.electhughes.com/event-list"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Health Care",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "Home",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "Platform",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "Policy Positions",
+"href": "https://www.electhughes.com/about-3"
+},
+{
+"text": "Public Education",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://secure.actblue.com/donate/barbara_gaskins"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+},
+{
+"text": "Vote",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61560179266013&mibextid=LQQJ4d"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hughes4nc/"
+},
+{
+"text": "[image: image000000 - Frank.png]",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.electhughes.com/about"
+}
 ]

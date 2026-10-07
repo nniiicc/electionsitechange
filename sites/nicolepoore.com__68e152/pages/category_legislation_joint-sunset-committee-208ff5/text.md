@@ -1,19 +1,13 @@
-Significant legislation sponsored or co-sponsored by Senator Poore during the 2015 session.
-SB-65
-Sponsor[s]: Poore
-Co-sponsor[s]: Sokola, Townsend
-Sunset Committee Bill updating standards for the Board of Funeral Services.
-Status: Signed into law
-SB-63
-Co-Sponsor[s]: Sokola, Townsend
-Sunset Committee Bill sunsetting The Council on Manufactured Housing and the Delaware Manufactured Housing Alternative Dispute Resolution Act.
-As Co-Chair of the Joint Sunset Committee, I took part in hearings this year to review the operations and performance of various state agencies.
+Press: Reflecting on Progress: What’s Next… One Month Left of the… Emergency Closure of Lorewood Grove… New Air Quality Initiatives Launching… Legislative Recap: April 2026 info@nicolepoore.com Donate About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter Category: Joint Sunset Committee Home Joint Sunset Committee SB-65 January 4, 2016 admin Joint Sunset Committee , Open Government/Government Operations 0 0 Significant legislation sponsored or co-sponsored by Senator Poore during the 2015 session.
+SB-65 Sponsor[s]: Poore Co-sponsor[s]: Sokola, Townsend Sunset Committee Bill updating standards for the Board of Funeral Services.
+Status: Signed into law SB-63 January 4, 2016 admin Joint Sunset Committee , Open Government/Government Operations 0 0 Significant legislation sponsored or co-sponsored by Senator Poore during the 2015 session.
+SB-63 Sponsor[s]: Poore Co-Sponsor[s]: Sokola, Townsend Sunset Committee Bill sunsetting The Council on Manufactured Housing and the Delaware Manufactured Housing Alternative Dispute Resolution Act.
+Status: Signed into law General Assembly’s Joint Sunset Committee Report for 2014 March 16, 2015 admin Joint Sunset Committee 0 0 As Co-Chair of the Joint Sunset Committee, I took part in hearings this year to review the operations and performance of various state agencies.
 These hearings resulted in six pieces of legislation designed to make state government more efficient.
 The mission of the Sunset Committee is to address duplication of services and government organizational effectiveness.
-- SB 214 – Relating to the Delaware Association of Professional Engineers
-- HB 354 w/HA 1 – Relating to the Diamond State Port Corporation
-- HB 351 – Relating to the Freedom of Information Act
-- HB 365 – Relating to the Cash Management Policy Board
-- HB 381 – Relating to financial disclosures
-- HB 359 – Relating to Physical Therapy and Athletic Training
-Please visit: http://www.legis.delaware.gov to view any of the bills listed above or other bills considered this year that might be of interest to you.
+SB 214 – Relating to the Delaware Association of Professional Engineers HB 354 w/HA 1 – Relating to the Diamond State Port Corporation HB 351 – Relating to the Freedom of Information Act HB 365 – Relating to the Cash Management Policy Board HB 381 – Relating to financial disclosures HB 359 – Relating to Physical Therapy and Athletic Training Please visit: http://www.legis.delaware.gov to view any of the bills listed above or other bills considered this year that might be of interest to you.
+Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
+Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
+Site design by The Writer's Block .
+Accessibility Statement . × How much would you like to donate?
+Donate Now

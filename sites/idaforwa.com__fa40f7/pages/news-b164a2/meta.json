@@ -1,7 +1,14 @@
 {
  "description": "",
  "final_url": "https://idaforwa.com/news/",
- "paid_for_by": "Paid for by Friends of Ida 731 State Route 9 NE 101 # 2033 | Lake Stevens , WA 98258",
+ "fingerprint": "0687d1584e16966759c248ebc084a46fbb8876c7",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Ida 731 State Route 9 NE 101 # 2033",
  "title": "News - Ida Keeley",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "2019",
+  "2026",
+  "2033"
+ ]
 }

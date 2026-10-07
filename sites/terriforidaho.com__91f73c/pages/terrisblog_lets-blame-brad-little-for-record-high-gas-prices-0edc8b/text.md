@@ -1,5 +1,4 @@
-Let’s Blame Brad Little for Record High Gas Prices
-If you fueled up over Labor Day, you know the sickening feeling of watching the pump price spinning up faster than cherries and diamonds on a truck stop slot machine.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Let’s Blame Brad Little for Record High Gas Prices Sep 10 Written By Elle Casner If you fueled up over Labor Day, you know the sickening feeling of watching the pump price spinning up faster than cherries and diamonds on a truck stop slot machine.
 These days, slot machines and gas pumps serve the same purpose: make sure the House always wins.
 I blame Brad Little.
 Why blame a governor for something he has no control over?
@@ -22,8 +21,7 @@ Little has MAGA Trump influence, take his word.
 President Trump gave Mr.
 Little his “Complete and Total endorsement" for the Republican primary.
 Under “Accomplishments,” Mr.
-Little’s website boasts:
-Gov.
+Little’s website boasts: Gov.
 Little has collaborated with President Trump on implementing his agenda in Idaho.
 Since Mr.
 Little lets federal agents tyrannize Idahoans, "collaborator" seems a fitting designation for him.
@@ -33,3 +31,5 @@ Little a big collaborator, sticking it to the farmers and truckers with high die
 His collaboration raises prices in the grocery store too.
 Your volunteer work, your financial contribution, and your vote for Terri Pickens to be Idaho’s next governor is how we can change that.
 Thanks for your support!
+Donate Elle Casner Previous Previous I am fighting to keep Idaho safe and livable.
+Next Next Rolling Toward Victory TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

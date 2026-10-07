@@ -1,17 +1,10 @@
-State Representative Anita Gonzales Selected as 2025 Luna Community College Commencement Speaker
-05/10/2025 | Luna Community College – Watch the 2025 Commencement Ceremony Live.
-Introduction and keynote address starts at 44:00
-Officials, residents plan next moves to protect Upper Pecos Watershed
-04/14/2025 | Source NM – “We’ve done a good job of getting the support in place from the tribal governments, acequias, land grant governments, city, county and state.
+Democrat for NM House District 70 Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact News State Representative Anita Gonzales Selected as 2025 Luna Community College Commencement Speaker 05/10/2025 | Luna Community College – Watch the 2025 Commencement Ceremony Live.
+Introduction and keynote address starts at 44:00 Officials, residents plan next moves to protect Upper Pecos Watershed 04/14/2025 | Source NM – “We’ve done a good job of getting the support in place from the tribal governments, acequias, land grant governments, city, county and state.
 The next step is this federal protection.
-We just have to hold the line long enough to where we’re able to pick up the moment" -Gonzales
-A Community to be Heard
-04/02/2025 | Las Vegas Optic – ‘A Community to be Heard,’ a grassroots movement that was created with the goal of helping individuals affected by the Hermits Peak/Calf Canyon Fire share their stories.
+We just have to hold the line long enough to where we’re able to pick up the moment" -Gonzales A Community to be Heard 04/02/2025 | Las Vegas Optic – ‘A Community to be Heard,’ a grassroots movement that was created with the goal of helping individuals affected by the Hermits Peak/Calf Canyon Fire share their stories.
 This event was held March 29, at Luna Community College.
-Wildfire Prepared Program Would Provide Grants
-03/31/2025 | KSFR – The new wildfire prepared program is an important first step in helping prepare for and survive wildfire events.
-Republicans decry Lujan Grisham’s Capital Outlay funding
-03/19/2025 | Santa Fe New Mexican – "Reproductive health care is health care, and in Northern New Mexico, it is very much needed.”-Gonzales
-Wildfire prevention bills make their way through the Roundhouse
-03/13/2025 | KRQE – After the most destructive wildfire in state history devastated the Ruidoso area this past summer, lawmakers are pushing legislation to protect New Mexico communities from future fires.
+Wildfire Prepared Program Would Provide Grants 03/31/2025 | KSFR – The new wildfire prepared program is an important first step in helping prepare for and survive wildfire events.
+Republicans decry Lujan Grisham’s Capital Outlay funding 03/19/2025 | Santa Fe New Mexican – "Reproductive health care is health care, and in Northern New Mexico, it is very much needed.”-Gonzales Wildfire prevention bills make their way through the Roundhouse 03/13/2025 | KRQE – After the most destructive wildfire in state history devastated the Ruidoso area this past summer, lawmakers are pushing legislation to protect New Mexico communities from future fires.
 A bipartisan bill, SB 33, is making its way through the legislative session.
+Page 1 of 3 1 2 3 » Connect with our campaign Paid for and authorized by the Friends for Anita Gonzales Martha Peña, Treasurer Site Map | Privacy Policy ©#-#, Friends for Anita Gonzales; All rights reserved.
+Edit This | Admin Designed and developed by Evo Home About Anita About District 70 Voting Contribute Priorities Endorsements Volunteer Events News Contact Home About About Anita Gonzales About House District 70 Voting Contribute Priorities Endorsements Volunteer News/Events Upcoming Events News Contact

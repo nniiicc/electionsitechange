@@ -1,5 +1,14 @@
 [
-"https://chrisgober.com/",
-"https://chrisgober.com/communications",
-"https://chrisgober.com/privacy-policy"
+{
+"text": "Communications & Consent Policy",
+"href": "https://chrisgober.com/communications"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrisgober.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://chrisgober.com/"
+}
 ]

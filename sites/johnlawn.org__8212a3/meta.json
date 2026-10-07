@@ -1,7 +1,9 @@
 {
  "description": "Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).",
- "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/johnlawn&followup=https://sites.google.com/view/johnlawn&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1524744477:1791245626949485",
- "paid_for_by": null,
+ "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/johnlawn&followup=https://sites.google.com/view/johnlawn&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S556442196:1791369643524081",
+ "fingerprint": "a0ae1f83289ff0dd4ade393cdcd9a552fcd990af",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Google Drive: Sign-in",
  "years_mentioned": []
 }

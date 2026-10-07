@@ -1,18 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Florence+Meet+and+Greet&dates=20260709T230000Z%2F20260710T010000Z&location=119+South+Court+Street%2C+Florence%2C+AL+35630",
-"http://maps.google.com/?q=119+South+Court+Street+Florence%2C+AL+35630",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf",
-"https://ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf?format=ical",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=119+south+court+street+florence%2C+al+35630+"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Florence Meet and Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Florence+Meet+and+Greet&dates=20260709T230000Z%2F20260710T010000Z&location=119+South+Court+Street%2C+Florence%2C+AL+35630"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "[image: Florence Meet and Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-one-rg2bh-mx2wm-hj3jf"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

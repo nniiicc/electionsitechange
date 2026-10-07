@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the latest campaign news and press releases from James Hayes for Congress, fighting for Pennsylvania&#39;s future.",
  "final_url": "https://jameshayesforpa.com/newsroom",
- "paid_for_by": null,
+ "fingerprint": "786aacd0eba4467d11941782fd9953b0ce587383",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NEWSROOM",
  "years_mentioned": [
   "2023",

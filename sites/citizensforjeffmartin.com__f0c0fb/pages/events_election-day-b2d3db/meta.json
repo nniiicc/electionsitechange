@@ -1,7 +1,11 @@
 {
  "description": "Get out and VOTE!",
  "final_url": "https://www.citizensforjeffmartin.com/events/election-day",
+ "fingerprint": "db74870bf78a4ba04220ccdbe98e5754b1b38281",
+ "format": 3,
  "paid_for_by": "PAID FOR BY CITIZENS FOR JEFF MARTIN, BRETT EURITT, TREASURER",
- "title": "Election Day \u2014 Jeff Martin for Missouri House District 30",
- "years_mentioned": []
+ "title": "Election Day — Jeff Martin for Missouri House District 30",
+ "years_mentioned": [
+  "2026"
+ ]
 }

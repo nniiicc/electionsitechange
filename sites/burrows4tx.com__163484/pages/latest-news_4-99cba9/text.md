@@ -1,13 +1,16 @@
-Latest News
-Press Release
-AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today issued the following statement praising final passage of House Bill 4, the House’s congressional redistricting bill answering Governor Abbott’s special session call: “The Texas House today delivered legislation to redistrict certain congressional districts to address concerns raised by the Department of Justice and ensure fairness and accuracy in Texans’ representation in Congress.
-Press Release
-AUSTIN, Texas — Speaker of the Texas House Dustin Burrows and Attorney General Ken Paxton have filed a legal complaint in the State of California to enforce arrest warrants issued by the Texas House of Representatives against legislators who fled the State to obstruct the proceedings of the Texas Legislature.
-Press Release
-AUSTIN, Texas — Speaker of the Texas House Dustin Burrows and Attorney General Ken Paxton have taken legal action to enforce arrest warrants issued by the Texas House of Representatives on Democrat members who fled the State in order to break quorum.
-Press Release
-AUSTIN, Texas — Following a critical hearing yesterday of the House Select Committee on Disaster Preparedness & Flooding, Speaker of the Texas House Dustin Burrows highlighted the committee’s dedication to providing relief to Texans devastated by the recent flooding and strengthening the state against future disasters.
-Press Release
-AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today announced the creation of the House Select Committee on Congressional Redistricting.
-Press Release
-AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today issued a proclamation for the House Select Committee on Disaster Preparedness and Flooding and appointed nine House members to serve on it.
+Skip to content Home About House District 83 Issues Latest News Volunteer Home About House District 83 Issues Latest News Volunteer Donate Latest News Press Release Speaker Dustin Burrows Praises Texas House Passage of Congressional Redistricting Bill August 20, 2025 AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today issued the following statement praising final passage of House Bill 4, the House’s congressional redistricting bill answering Governor Abbott’s special session call: “The Texas House today delivered legislation to redistrict certain congressional districts to address concerns raised by the Department of Justice and ensure fairness and accuracy in Texans’ representation in Congress.
+Read More Press Release Speaker Dustin Burrows and Attorney General Ken Paxton Take Action to Enforce Arrest Warrants for Rogue Democrats in California August 9, 2025 AUSTIN, Texas — Speaker of the Texas House Dustin Burrows and Attorney General Ken Paxton have filed a legal complaint in the State of California to enforce arrest warrants issued by the Texas House of Representatives against legislators who fled the State to obstruct the proceedings of the Texas Legislature.
+Read More Press Release Speaker Dustin Burrows and Attorney General Ken Paxton Move to Enforce Texas House Arrest Warrants on Runaway Democrats in Other States August 7, 2025 AUSTIN, Texas — Speaker of the Texas House Dustin Burrows and Attorney General Ken Paxton have taken legal action to enforce arrest warrants issued by the Texas House of Representatives on Democrat members who fled the State in order to break quorum.
+Read More Press Release Speaker Dustin Burrows Touts Select Committee’s Dedication to Flood Recovery August 6, 2025 AUSTIN, Texas — Following a critical hearing yesterday of the House Select Committee on Disaster Preparedness & Flooding, Speaker of the Texas House Dustin Burrows highlighted the committee’s dedication to providing relief to Texans devastated by the recent flooding and strengthening the state against future disasters.
+Read More Press Release Speaker Dustin Burrows Announces Creation of House Select Committee on Congressional Redistricting July 21, 2025 AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today announced the creation of the House Select Committee on Congressional Redistricting.
+Read More Press Release Speaker Dustin Burrows Appoints Members to the House Select Committee on Disaster Preparedness and Flooding July 15, 2025 AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today issued a proclamation for the House Select Committee on Disaster Preparedness and Flooding and appointed nine House members to serve on it.
+Read More Page 1 Page 2 Page 3 Page 4 Page 5 JOIN OUR EMAIL LIST First Name Last Name Email Sign Up By providing my mobile number I consent to receive informational text messages from Dustin Burrows Campaign.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms & Conditions and Privacy Policies.
+POL.
+ADV.
+PAID FOR BY DUSTIN BURROWS CAMPAIGN Mailing Address: Dustin Burrows Campaign P.O.
+Box 2569 | Lubbock, TX 79408 Privacy Policy Terms of Use Contact Donate

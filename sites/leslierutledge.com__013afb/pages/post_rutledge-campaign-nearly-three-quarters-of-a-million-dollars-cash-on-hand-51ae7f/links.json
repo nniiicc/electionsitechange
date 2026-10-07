@@ -1,19 +1,82 @@
 [
-"https://facebook.com/LeslieRutledgeAR",
-"https://instagram.com/leslierutledge_ar",
-"https://leslierutledge.com/",
-"https://leslierutledge.com/meet-leslie",
-"https://leslierutledge.com/news",
-"https://leslierutledge.com/news/categories/press-release",
-"https://leslierutledge.com/privacy-policy",
-"https://leslierutledge.com/record",
-"https://leslierutledge.com/volunteer",
-"https://secure.winred.com/leslierutledge/donate",
-"https://secure.winred.com/leslierutledge/donate?amount=100&sc=website-support",
-"https://secure.winred.com/leslierutledge/donate?amount=25&sc=website-support",
-"https://secure.winred.com/leslierutledge/donate?amount=250&sc=website-support",
-"https://secure.winred.com/leslierutledge/donate?amount=50&sc=website-support",
-"https://secure.winred.com/leslierutledge/storefront",
-"https://x.com/LeslieRutledge",
-"https://youtube.com/@leslierutledgeforarkansas7778"
+{
+"text": "$100",
+"href": "https://secure.winred.com/leslierutledge/donate?amount=100&sc=website-support"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/leslierutledge/donate?amount=25&sc=website-support"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/leslierutledge/donate?amount=250&sc=website-support"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/leslierutledge/donate?amount=50&sc=website-support"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/leslierutledge/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.leslierutledge.com"
+},
+{
+"text": "MEET LESLIE",
+"href": "https://www.leslierutledge.com/meet-leslie"
+},
+{
+"text": "NEWS",
+"href": "https://www.leslierutledge.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.leslierutledge.com/privacy-policy"
+},
+{
+"text": "Press Release",
+"href": "https://www.leslierutledge.com/news/categories/press-release"
+},
+{
+"text": "RECORD",
+"href": "https://www.leslierutledge.com/record"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/leslierutledge/storefront/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.leslierutledge.com/volunteer"
+},
+{
+"text": "Will@LeslieRutledge.com",
+"href": "mailto:Will@LeslieRutledge.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LeslieRutledgeAR"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/leslierutledge_ar/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/LeslieRutledge"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@leslierutledgeforarkansas7778"
+},
+{
+"text": "[no text]",
+"href": "https://www.leslierutledge.com"
+},
+{
+"text": "​INFO@LESLIERUTLEDGE.COM",
+"href": "mailto:​INFO@LESLIERUTLEDGE.COM"
+}
 ]

@@ -1,35 +1,698 @@
 [
-"http://instagram.com/jamiejoyce4congress",
-"http://twitter.com/justjamiejoyce",
-"https://bsky.app/profile/jamiejoyce.bsky.social",
-"https://dailymail.com/news/article-15811113/congressional-candidate-jamie-joyce-democrats-epstein.html",
-"https://data.cityofberkeley.info/d/p88g-6gs2",
-"https://data.oaklandca.gov/d/quth-gb8e",
-"https://instagram.com/p/DYxWlVEE1EC",
-"https://jamiejoyce.com/",
-"https://jamiejoyce.com/-helping-the-district",
-"https://jamiejoyce.com/alameda-needs",
-"https://jamiejoyce.com/albany-needs",
-"https://jamiejoyce.com/berkeley-needs",
-"https://jamiejoyce.com/cart",
-"https://jamiejoyce.com/contact",
-"https://jamiejoyce.com/district-overview",
-"https://jamiejoyce.com/donate",
-"https://jamiejoyce.com/emeryville-needs",
-"https://jamiejoyce.com/endorsements",
-"https://jamiejoyce.com/in-the-news",
-"https://jamiejoyce.com/in-the-news/2026/6/29/jamie-speaks-in-dc-endorsed-by-epstein-survivors",
-"https://jamiejoyce.com/jamies-background",
-"https://jamiejoyce.com/oakland-needs",
-"https://jamiejoyce.com/piedmont-needs",
-"https://jamiejoyce.com/san-leandro-needs",
-"https://jamiejoyce.com/volunteer",
-"https://linkedin.com/in/justjamiejoyce",
-"https://mercurynews.com/2026/05/12/in-deep-blue-east-bay-district-simon-challenger-calls-for-democratic-party-overhaul",
-"https://msn.com/en-us/news/politics/blue-district-candidate-launches-fierce-critique-of-democratic-party/ss-AA235kfj?uxmode=ruby",
-"https://seeclickfix.com/",
-"https://seeclickfix.com/issues/19072997",
-"https://seeclickfix.com/issues/20365866",
-"https://themadact.com/",
-"https://tiktok.com/@repjamiejoyce"
+{
+"text": "$1 million federal tree planting grant",
+"href": "https://www.jamiejoyce.com/berkeley-needs#px-t16"
+},
+{
+"text": "$11.6 million deficit over three years",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sl-t02"
+},
+{
+"text": "$13.8 million in federal Head Start funding",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t40"
+},
+{
+"text": "$290 million of shoreline work",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t03"
+},
+{
+"text": "$3.5 million",
+"href": "https://www.jamiejoyce.com/berkeley-needs#c12-t06"
+},
+{
+"text": "$30 million structural deficit",
+"href": "https://www.jamiejoyce.com/berkeley-needs#brk-t01"
+},
+{
+"text": "0",
+"href": "https://www.jamiejoyce.com/cart"
+},
+{
+"text": "1,178 open sidewalk requests",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-03"
+},
+{
+"text": "156 speakers came before the council rejected a larger Flock Safety contract 8 to 1",
+"href": "https://www.jamiejoyce.com/berkeley-needs#brk-t03"
+},
+{
+"text": "189 of 405 sidewalk inspection requests",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-01"
+},
+{
+"text": "189 open sidewalk inspection requests",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-01"
+},
+{
+"text": "210 reports were never marked as received",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-unacknowledged"
+},
+{
+"text": "65 homes in 2025 against a state target of 5,353",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t12"
+},
+{
+"text": "67th and Hollis Streets in Emeryville",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-signals"
+},
+{
+"text": "88 reports about the crosswalk",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-clinton-park-crosswalk"
+},
+{
+"text": "95% are open",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-03"
+},
+{
+"text": "Alameda",
+"href": "https://www.jamiejoyce.com/alameda-needs"
+},
+{
+"text": "Albany",
+"href": "https://www.jamiejoyce.com/albany-needs"
+},
+{
+"text": "Albany",
+"href": "https://www.jamiejoyce.com/albany-needs#abn-san-pablo-corners"
+},
+{
+"text": "Albany Marsh",
+"href": "https://www.jamiejoyce.com/albany-needs#mar-t02"
+},
+{
+"text": "Back",
+"href": "https://www.jamiejoyce.com/"
+},
+{
+"text": "Berkeley",
+"href": "https://www.jamiejoyce.com/berkeley-needs"
+},
+{
+"text": "Berkeley",
+"href": "https://www.jamiejoyce.com/berkeley-needs#px-t16"
+},
+{
+"text": "Berkeley's open data portal",
+"href": "https://data.cityofberkeley.info/d/p88g-6gs2"
+},
+{
+"text": "Broadway and Lincoln Avenue, 6th Street and Haight Avenue and others",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-street-safety-corners"
+},
+{
+"text": "California Street and King Street corners",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-22"
+},
+{
+"text": "DONATE",
+"href": "https://www.jamiejoyce.com/donate"
+},
+{
+"text": "District Overview",
+"href": "https://www.jamiejoyce.com/district-overview"
+},
+{
+"text": "Emeryville",
+"href": "https://www.jamiejoyce.com/emeryville-needs"
+},
+{
+"text": "Flock Safety license plate readers",
+"href": "https://www.jamiejoyce.com/berkeley-needs#brk-t03"
+},
+{
+"text": "Flock license plate reader cameras",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t19"
+},
+{
+"text": "Folder: ✔ Serving the District",
+"href": "https://www.jamiejoyce.com/-helping-the-district"
+},
+{
+"text": "Fontaine Street",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-01"
+},
+{
+"text": "Golden Gate Fields",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t01"
+},
+{
+"text": "Hollis and Horton Street construction ran past its end date",
+"href": "https://www.jamiejoyce.com/emeryville-needs#emy-t15"
+},
+{
+"text": "Jackson Street ramp",
+"href": "https://www.jamiejoyce.com/oakland-needs#px-t05"
+},
+{
+"text": "Jamie Joyce personally and vehemently opposes Flock",
+"href": "https://www.instagram.com/p/DYxWlVEE1EC/"
+},
+{
+"text": "Lake Chabot Road",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sl-t19"
+},
+{
+"text": "Lake Chabot Road, closed since December 2022",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sl-t19"
+},
+{
+"text": "Measure BB",
+"href": "https://www.jamiejoyce.com/emeryville-needs#emy-t02"
+},
+{
+"text": "Measure GG",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t07"
+},
+{
+"text": "Measure L",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t01"
+},
+{
+"text": "Measure L and Alameda Hospital",
+"href": "https://www.jamiejoyce.com/alameda-needs#budgets-schools-council"
+},
+{
+"text": "Measure T",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t19"
+},
+{
+"text": "Oakland",
+"href": "https://www.jamiejoyce.com/oakland-needs"
+},
+{
+"text": "Oakland",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-02"
+},
+{
+"text": "Oakland's open data portal",
+"href": "https://data.oaklandca.gov/d/quth-gb8e"
+},
+{
+"text": "Park Street and Clinton Avenue",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-clinton-park-crosswalk"
+},
+{
+"text": "Piedmont",
+"href": "https://www.jamiejoyce.com/piedmont-needs"
+},
+{
+"text": "San Leandro",
+"href": "https://www.jamiejoyce.com/san-leandro-needs"
+},
+{
+"text": "San Leandro",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-08"
+},
+{
+"text": "SeeClickFix",
+"href": "https://seeclickfix.com"
+},
+{
+"text": "SeeClickFix report",
+"href": "https://seeclickfix.com/issues/19072997"
+},
+{
+"text": "SeeClickFix report of 6 November 2025",
+"href": "https://seeclickfix.com/issues/20365866"
+},
+{
+"text": "Slow Streets barricades that they say keep the street sweeper away",
+"href": "https://www.jamiejoyce.com/alameda-needs#pc-t01"
+},
+{
+"text": "Tiffany Road",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-05"
+},
+{
+"text": "Tudor Road and Cascade Road",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-03"
+},
+{
+"text": "[image: Jamie Joyce For Congress]",
+"href": "https://www.jamiejoyce.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.dailymail.com/news/article-15811113/congressional-candidate-jamie-joyce-democrats-epstein.html"
+},
+{
+"text": "[image]",
+"href": "https://www.jamiejoyce.com/in-the-news/2026/6/29/jamie-speaks-in-dc-endorsed-by-epstein-survivors"
+},
+{
+"text": "[image]",
+"href": "https://www.mercurynews.com/2026/05/12/in-deep-blue-east-bay-district-simon-challenger-calls-for-democratic-party-overhaul/"
+},
+{
+"text": "[image]",
+"href": "https://www.msn.com/en-us/news/politics/blue-district-candidate-launches-fierce-critique-of-democratic-party/ss-AA235kfj?uxmode=ruby#image=5"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jamiejoyce4congress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/justjamiejoyce"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jamiejoyce.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/justjamiejoyce/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@repjamiejoyce"
+},
+{
+"text": "a $2.25 million, two-year Flock contract 7 to 1",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t19"
+},
+{
+"text": "a 48-camera Flock network",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t10"
+},
+{
+"text": "a block without repaving for over two decades",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-01"
+},
+{
+"text": "a crosswalk at Park Street and Clinton Avenue",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-clinton-park-crosswalk"
+},
+{
+"text": "a rail-corridor encampment present since December 2020",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#pc-t24"
+},
+{
+"text": "a space-rent ordinance has not come to a vote",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#pc-t23"
+},
+{
+"text": "a surveillance oversight committee",
+"href": "https://www.jamiejoyce.com/emeryville-needs#emy-t08"
+},
+{
+"text": "aging buildings and how Piedmont pays for them",
+"href": "https://www.jamiejoyce.com/piedmont-needs#infrastructure"
+},
+{
+"text": "an audit of its plate readers",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sl-t08"
+},
+{
+"text": "ballot measures and council races",
+"href": "https://www.jamiejoyce.com/berkeley-needs#brk-t14"
+},
+{
+"text": "belongings on sidewalks",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-30"
+},
+{
+"text": "blocks that flood each winter",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-storm-drains"
+},
+{
+"text": "broken elevators and a rental inspection program that was never funded",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t25"
+},
+{
+"text": "broken sidewalks and hill paths",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-05"
+},
+{
+"text": "burglaries along the Oakland border",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t10"
+},
+{
+"text": "camps that block sidewalks",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t10"
+},
+{
+"text": "closed two days later with nothing fixed",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-07"
+},
+{
+"text": "closes dumping reports in a median of 4 days",
+"href": "https://www.jamiejoyce.com/emeryville-needs#graffiti-parks-animals"
+},
+{
+"text": "contamination from the Navy and Chevron",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t06"
+},
+{
+"text": "crashes at Marin Avenue and Nielsen Street",
+"href": "https://www.jamiejoyce.com/albany-needs#abn-marin-nielsen"
+},
+{
+"text": "crossings where people were killed",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-17"
+},
+{
+"text": "demolition dust and lead in occupied apartments",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-lead-dust"
+},
+{
+"text": "downtown, data centers and bus service",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#development-transit"
+},
+{
+"text": "driveway access and emergency routes",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pn-01"
+},
+{
+"text": "dumping and graffiti",
+"href": "https://www.jamiejoyce.com/alameda-needs#dumping-graffiti-encampments"
+},
+{
+"text": "eliminates up to 138 positions",
+"href": "https://www.jamiejoyce.com/berkeley-needs#brk-t01"
+},
+{
+"text": "encampment complaints",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t10"
+},
+{
+"text": "encampment present since December 2020",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#pc-t24"
+},
+{
+"text": "federal research money at UC Berkeley",
+"href": "https://www.jamiejoyce.com/berkeley-needs#research"
+},
+{
+"text": "flooding and the estuary",
+"href": "https://www.jamiejoyce.com/oakland-needs#water"
+},
+{
+"text": "graffiti reports were closed without action",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-09"
+},
+{
+"text": "graffiti, parks and rodents",
+"href": "https://www.jamiejoyce.com/emeryville-needs#graffiti-parks-animals"
+},
+{
+"text": "her closest bus stop is half a mile away",
+"href": "https://www.jamiejoyce.com/albany-needs#pc-t11"
+},
+{
+"text": "homeless outreach",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t16"
+},
+{
+"text": "homeless outreach is run by 1.5 staff",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t16"
+},
+{
+"text": "hospital system",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t20"
+},
+{
+"text": "housing and neighbor notice",
+"href": "https://www.jamiejoyce.com/albany-needs#housing-notice"
+},
+{
+"text": "housing and renters",
+"href": "https://www.jamiejoyce.com/berkeley-needs#housing"
+},
+{
+"text": "how reports reach the city",
+"href": "https://www.jamiejoyce.com/emeryville-needs#reports-meetings-transit-schools"
+},
+{
+"text": "illegal dumping",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-22"
+},
+{
+"text": "illegal dumping that keeps returning to the same blocks",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t01"
+},
+{
+"text": "it returns to the same corners",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-22"
+},
+{
+"text": "king tides and shoreline work",
+"href": "https://www.jamiejoyce.com/alameda-needs#flooding-shoreline"
+},
+{
+"text": "less screen time in classrooms",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t13"
+},
+{
+"text": "license plate reader contract",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t15"
+},
+{
+"text": "military cargo through Oakland International Airport",
+"href": "https://www.jamiejoyce.com/oakland-needs#arm-t01"
+},
+{
+"text": "more than 20 cluster mailbox break-ins",
+"href": "https://www.jamiejoyce.com/emeryville-needs#emy-t20"
+},
+{
+"text": "no permanent police chief since 13 May 2026",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sl-t07"
+},
+{
+"text": "parks and the Mastick Senior Center",
+"href": "https://www.jamiejoyce.com/alameda-needs#parks-trails-buildings"
+},
+{
+"text": "people living in RVs",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-04"
+},
+{
+"text": "people sleeping on the greenway benches",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-greenway-encampments"
+},
+{
+"text": "ponding water at San Pablo Avenue",
+"href": "https://www.jamiejoyce.com/albany-needs#abn-san-pablo-corners"
+},
+{
+"text": "potholes",
+"href": "https://www.jamiejoyce.com/oakland-needs#px-t04"
+},
+{
+"text": "pruning requests",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-02"
+},
+{
+"text": "raised curb at San Pablo Avenue and Castro Street",
+"href": "https://www.jamiejoyce.com/albany-needs#abn-san-pablo-corners"
+},
+{
+"text": "raised curbs and trip hazards at San Pablo Avenue corners",
+"href": "https://www.jamiejoyce.com/albany-needs#abn-san-pablo-corners"
+},
+{
+"text": "reckless driving in a school drop-off zone",
+"href": "https://www.jamiejoyce.com/emeryville-needs#emy-t11"
+},
+{
+"text": "red curb requests that wait a year",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-red-curbs"
+},
+{
+"text": "rejected a five-year contract of up to $318,745",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t15"
+},
+{
+"text": "reported an encampment",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-eagle-encampments"
+},
+{
+"text": "reported nine times in twelve months",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-18"
+},
+{
+"text": "requests filed as complex rarely show as closed",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-13"
+},
+{
+"text": "requests to repair damaged sidewalks and curb ramps",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-03"
+},
+{
+"text": "school closures and immigrant families",
+"href": "https://www.jamiejoyce.com/oakland-needs#schools"
+},
+{
+"text": "school drop-off safety and the district budget",
+"href": "https://www.jamiejoyce.com/albany-needs#schools"
+},
+{
+"text": "school-area parking and Moraga Avenue crossings",
+"href": "https://www.jamiejoyce.com/piedmont-needs#streets"
+},
+{
+"text": "severe e-bike head injuries among children",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t17"
+},
+{
+"text": "sideshows and signals",
+"href": "https://www.jamiejoyce.com/oakland-needs#traffic"
+},
+{
+"text": "sidewalk inspection requests that sit for months",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-01"
+},
+{
+"text": "sidewalks narrowed by bushes, trip hazards and standing water",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-sidewalk-clearance"
+},
+{
+"text": "six measures",
+"href": "https://www.jamiejoyce.com/albany-needs#alb-t03"
+},
+{
+"text": "speeding corners",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#traffic"
+},
+{
+"text": "standing water on Powell Street",
+"href": "https://www.jamiejoyce.com/emeryville-needs#emy-t05"
+},
+{
+"text": "storm drains among its unfunded repairs",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t06"
+},
+{
+"text": "storm drains and the Aquatic Park lagoon",
+"href": "https://www.jamiejoyce.com/berkeley-needs#water"
+},
+{
+"text": "street lights have been out for two years",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-adeline-lights"
+},
+{
+"text": "street repair",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t06"
+},
+{
+"text": "street trees",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#trees"
+},
+{
+"text": "streetlights that are out or shaded by trees",
+"href": "https://www.jamiejoyce.com/albany-needs#abn-dark-streetlights"
+},
+{
+"text": "streets that flood or crumble",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-05"
+},
+{
+"text": "tents on a sidewalk across from two preschools",
+"href": "https://www.jamiejoyce.com/berkeley-needs#bn-03"
+},
+{
+"text": "tents under the Powell Street bridge",
+"href": "https://www.jamiejoyce.com/emeryville-needs#en-encampments-structures"
+},
+{
+"text": "the budget and council ethics",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#budget-ethics"
+},
+{
+"text": "the budget and local business",
+"href": "https://www.jamiejoyce.com/emeryville-needs#budget-taxes-business"
+},
+{
+"text": "the city budget",
+"href": "https://www.jamiejoyce.com/oakland-needs#cityhall"
+},
+{
+"text": "the marsh and the Albany Bulb",
+"href": "https://www.jamiejoyce.com/albany-needs#shoreline"
+},
+{
+"text": "the pool and the Play School building",
+"href": "https://www.jamiejoyce.com/piedmont-needs#recreation"
+},
+{
+"text": "the same addresses come back",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t24"
+},
+{
+"text": "three Pacific Avenue addresses",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-08"
+},
+{
+"text": "traffic safety requests",
+"href": "https://www.jamiejoyce.com/oakland-needs#on-07"
+},
+{
+"text": "tree planting requests",
+"href": "https://www.jamiejoyce.com/berkeley-needs#px-t16"
+},
+{
+"text": "tree trim requests",
+"href": "https://www.jamiejoyce.com/san-leandro-needs#sn-07"
+},
+{
+"text": "two large trees removed that year",
+"href": "https://www.jamiejoyce.com/alameda-needs#an-street-trees"
+},
+{
+"text": "uneven sidewalks",
+"href": "https://www.jamiejoyce.com/alameda-needs#px-t200"
+},
+{
+"text": "vacancies and a 224-day hiring process",
+"href": "https://www.jamiejoyce.com/alameda-needs#ala-t15"
+},
+{
+"text": "water pooling in a street",
+"href": "https://www.jamiejoyce.com/oakland-needs#px-t05"
+},
+{
+"text": "where a fenced dog park will go",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pn-02"
+},
+{
+"text": "whether Moraga Avenue can evacuate the canyon",
+"href": "https://www.jamiejoyce.com/piedmont-needs#pie-t02"
+},
+{
+"text": "wildfire readiness",
+"href": "https://www.jamiejoyce.com/berkeley-needs#fire"
+},
+{
+"text": "yearly deficit of $115 million to $130 million",
+"href": "https://www.jamiejoyce.com/oakland-needs#oak-t05"
+},
+{
+"text": "✔ About Jamie",
+"href": "https://www.jamiejoyce.com/jamies-background"
+},
+{
+"text": "✔ Contact",
+"href": "https://www.jamiejoyce.com/contact"
+},
+{
+"text": "✔ Endorsements",
+"href": "https://www.jamiejoyce.com/endorsements"
+},
+{
+"text": "✔ News",
+"href": "https://www.jamiejoyce.com/in-the-news"
+},
+{
+"text": "✔ Read The MAD Act",
+"href": "https://themadact.com"
+},
+{
+"text": "✔ Volunteer",
+"href": "https://www.jamiejoyce.com/volunteer"
+},
+{
+"text": "❤️ DONATE",
+"href": "https://www.jamiejoyce.com/donate"
+}
 ]

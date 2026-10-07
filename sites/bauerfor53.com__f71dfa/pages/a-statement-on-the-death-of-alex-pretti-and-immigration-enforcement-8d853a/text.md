@@ -1,4 +1,4 @@
-I want my campaign to be focused on the people of Illinois and on the need for Illinois in all of its beauty and strength to be preserved for future generations.
+ELIZABETH BAUER Illinois House District 53 Home Issues Positions Events Donate Commentary A Statement on the Death of Alex Pretti and Immigration Enforcement January 28, 2026 · Elizabeth Bauer I want my campaign to be focused on the people of Illinois and on the need for Illinois in all of its beauty and strength to be preserved for future generations.
 Accordingly, I have resisted getting involved in discussions about national topics and national politics, but it seems inescapable to do so with regard to Minneapolis’s surge of immigration enforcement and the death of Alex Pretti, fatally shot by CBP agents on Saturday.
 I do not believe that Pretti was “executed” or “murdered” or “gunned down” by the agents.
 Those are inflammatory terms.
@@ -22,4 +22,6 @@ Sending whistles to Minneapolis and encouraging activists to get in the way of l
 I will always defend everybody’s constitutional right to peacefully assemble, to protest, and to make their voices heard.
 But the manner in which anti-ICE activism is being conducted is irresponsible.
 Lastly, when tragedies happen, I ask everyone to give space for investigations to take place.
-Premature and politically slanted statements, whether they come from the White House, from local politicians or from activists, only serve to further divide us.
+Premature and politically slanted statements, whether they come from the White House, from local politicians or from activists, only serve to further divide us. https://commons.wikimedia.org/wiki/File:Immigration_and_Customs_Enforcement_(US)_badge_-_Special_Agent.jpg; www.ice.govUploaded by Carrt81 at en.wikipedia, Public domain, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
+Illinois needs someone who reads the numbers and does the math before spending your money.
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com

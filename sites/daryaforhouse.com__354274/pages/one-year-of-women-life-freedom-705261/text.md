@@ -1,9 +1,9 @@
-On September 16th, 2022, Mahsa Zhina Amini was murdered by the Islamic Regime of Iran after she was arrested by the morality police for showing too much hair.
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News September 6, 2023 Statements One Year of Women, Life, Freedom On September 16th, 2022, Mahsa Zhina Amini was murdered by the Islamic Regime of Iran after she was arrested by the morality police for showing too much hair.
 In her death, she revived a movement much older than her under the banner of the Women, Life, Freedom movement that showed the world the strength and resilience of Iranian women.
 The killing made clear the oppression, the utter lack of human rights, and the horrific police brutality that Iranians are facing.
 Iranians were devastated and outraged.
 People all around the world showed up to stand with Iranians, amplify their voices, and explicitly condemn the Islamic Regime of Iran.
-We shared our personal and family stories of what it was like in Iran, and drafted issue statements, and calls to action encouraging allies to join us.
+We shared our personal and family stories of what it was like in Iran, and drafted issue statements , and calls to action encouraging allies to join us.
 We will not stand idly by while a dictatorial regime kills our siblings, we must continue to speak up.
 Yet, over this last year, when we needed to come together and advocate for our siblings more than ever an internal conflict has torn us apart.
 We’ve fallen victim to an insidious disinformation campaign that has accused almost every organization and community leader of working for the regime.
@@ -20,7 +20,4 @@ Please remember that the fight is far from over, that my siblings are still dyin
 Rest in power, Mahsa Amini.
 Zan, Zendeghi, Azadi.
 Jin, Jian, Azadi.
-Women, Life, Freedom
-In solidarity,
-Darya Farivar
-State Representative, 46th Legislative District
+Women, Life, Freedom In solidarity, Darya Farivar State Representative, 46th Legislative District Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

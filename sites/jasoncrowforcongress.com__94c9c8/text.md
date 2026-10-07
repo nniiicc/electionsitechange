@@ -1,9 +1,6 @@
-A NEW GENERATION OF LEADERSHIP
-WHY I’M serving
-In moments like this, our democracy needs bold leaders who fight and have moral clarity.
+Chip In Every donation helps get us closer to our goals.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# Other close Meet Values Endorsements Events Store Volunteer Donate A NEW GENERATION OF LEADERSHIP Donate Volunteer Join us WHY I’M serving In moments like this, our democracy needs bold leaders who fight and have moral clarity.
 Coloradans deserve a champion who will make life more affordable, protect health care, and take on corruption.
 America is ready for a new generation of leadership that focuses on working people, not protecting special interests.
-Learn More
-“With his record fighting to fix the broken system, Jason Crow had to be one of our first endorsements of the cycle!
-He’s fighting to fix the broken campaign finance system and get Washington working again for CO06.”
-See All Endorsements
+Learn More “With his record fighting to fix the broken system, Jason Crow had to be one of our first endorsements of the cycle!
+He’s fighting to fix the broken campaign finance system and get Washington working again for CO06.” end citizens united See All Endorsements Get Involved Sign up to volunteer Volunteer Request Jason for an event Learn More Contribute to the campaign Donate Chip in to Our Campaign Today Help Jason Crow keep fighting for Coloradans If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Volunteer Donate Meet Values Endorsements Events Store Contact Us Privacy Policy PAID FOR BY JASON CROW FOR CONGRESS 8547 E Arapahoe Road, STE J-543, Greenwood Village, CO, 80112 Made by Authentic

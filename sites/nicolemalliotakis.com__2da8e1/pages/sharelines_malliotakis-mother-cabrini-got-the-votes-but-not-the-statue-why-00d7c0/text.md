@@ -1,5 +1,6 @@
-Originally published in the Staten Island Advance
-Mayor Bill de Blasio and his wife Chirlane McRay seem obsessed with statues.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Op-Ed by Nicole Malliotakis Mother Cabrini got the votes -- but not the statue.
+Why?
+Oct 10, 2019 Originally published in the Staten Island Advance Mayor Bill de Blasio and his wife Chirlane McRay seem obsessed with statues.
 First it was Mayor de Blasio’s misguided plan to rid the city of a wide range of historical statues, ranging from Christopher Columbus to Teddy Roosevelt, because he and his far left cronies deemed they were offensive to people of color.
 His plan failed miserably after stirring justifiable anger among the city’s Italian community as well as among common sense New Yorkers who realize that you don’t rewrite the history of a nation and banish beautiful and significant pieces of public art to some dusty municipal warehouse.
 Over the past 18 months the city’s First Lady has gotten into the act with an initiative called “She Built NYC” which intends to remedy the gender imbalance of historical statues in public places; currently only 5 out of 150 statues on city property represent women.
@@ -24,3 +25,4 @@ The problem is, that would be a common sense approach and as anybody will tell y
 When common sense fails, action is necessary.
 Take a few minutes to sit down and call, email or write Mayor de Blasio and First Lady Chirlane McCray.
 Tell them the time has come to honor Mother Frances Cabrini, the patron saint of immigrants, for the mark she left on our city of immigrants, our nation and all the generations of people who have benefitted from her acts of charity.
+Join Nicole Malliotakis today: $ 10 $ 25 $ 50 other donate now NEXT ARTICLE The 10 most vulnerable House members in 2020: Democrats dominate PREVIOUS ARTICLE Republican challenges Staten Island’s Max Rose, who now favors impeachment inquiry STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

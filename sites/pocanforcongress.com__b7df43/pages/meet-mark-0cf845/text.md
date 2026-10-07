@@ -1,5 +1,4 @@
-Meet Mark Pocan
-Mark Pocan has a long record as an effective progressive leader.
+Meet Mark News Contact Nomination Papers Join The Team Get Involved Contribute Menu Menu Link to Facebook Link to X Meet Mark Pocan Mark Pocan has a long record as an effective progressive leader.
 In 2013, Mark took his 14 years of experience in the Wisconsin State Assembly to Congress where he has continued to fight for progressive values.
 Mark’s political roots took hold in blue-collar Kenosha, Wisconsin where he got his start at age eight delivering campaign literature door- to-door for his father, a long-time city alderman.
 Mark came to Madison to attend college and shortly after earning a degree in journalism in 1986, opened up his own small business – a union printing company that he ran and owned for 37 years.
@@ -20,3 +19,4 @@ He has fought hard against the entrenched special interests standing in the way 
 Mark firmly believes in what the late Minnesota Senator Paul Wellstone famously said, “We all do better when we all do better.” That should be the goal for all progressives as we move forward in this campaign.
 Mark and his husband, Phil married in Canada in 2006.
 They live in the Town of Vermont, Wisconsin.
+Contact the Campaign Mark Pocan for Congress PO Box 327 Madison, WI 53701 (608) 286-1073 [email protected] Follow Mark on Facebook Get Email Updates Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top

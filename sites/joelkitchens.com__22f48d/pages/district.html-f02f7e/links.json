@@ -1,10 +1,34 @@
 [
-"https://joelkitchens.com/",
-"https://joelkitchens.com/about-joel.html",
-"https://joelkitchens.com/contact.html",
-"https://joelkitchens.com/district.html",
-"https://joelkitchens.com/issues.html",
-"https://maps.legis.wisconsin.gov/?asm=1&single=y",
-"https://maps.legis.wisconsin.gov/?version=2024",
-"https://secure.anedot.com/joel-kitchens-for-assembly01/donate"
+{
+"text": "1st Assembly District",
+"href": "https://maps.legis.wisconsin.gov/?asm=1&single=y"
+},
+{
+"text": "About Joel",
+"href": "https://www.joelkitchens.com/about-joel.html"
+},
+{
+"text": "Address (District) Look Up",
+"href": "https://maps.legis.wisconsin.gov/?version=2024"
+},
+{
+"text": "Contact",
+"href": "https://www.joelkitchens.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/joel-kitchens-for-assembly01/donate"
+},
+{
+"text": "District",
+"href": "https://www.joelkitchens.com/district.html"
+},
+{
+"text": "Home",
+"href": "https://www.joelkitchens.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.joelkitchens.com/issues.html"
+}
 ]

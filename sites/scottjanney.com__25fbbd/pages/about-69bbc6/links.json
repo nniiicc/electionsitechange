@@ -1,15 +1,66 @@
 [
-"http://scottjanney.com/",
-"https://facebook.com/people/Scott-Janney-for-State-Senate/61583136781837",
-"https://instagram.com/drscottjanney",
-"https://linkedin.com/in/scottjanney",
-"https://scottjanney.com/about",
-"https://scottjanney.com/contact",
-"https://scottjanney.com/issues",
-"https://scottjanney.com/privacy-policy-and-terms-of-use",
-"https://scottjanney.com/videos",
-"https://scottjanney.com/volunteer",
-"https://secure.winred.com/vote-for-scott-janney/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://x.com/JanneyScott1",
-"https://youtube.com/@ScottJanney"
+{
+"text": "484-852-1710",
+"href": "tel:484-852-1710"
+},
+{
+"text": "About",
+"href": "https://scottjanney.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://scottjanney.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/vote-for-scott-janney/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Scott-Janney-for-State-Senate/61583136781837/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/drscottjanney/"
+},
+{
+"text": "Issues",
+"href": "https://scottjanney.com/issues/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/scottjanney/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scottjanney.com/privacy-policy-and-terms-of-use"
+},
+{
+"text": "Support Scott",
+"href": "https://secure.winred.com/vote-for-scott-janney/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Videos",
+"href": "https://scottjanney.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://scottjanney.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JanneyScott1"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@ScottJanney"
+},
+{
+"text": "[image]",
+"href": "http://www.scottjanney.com"
+},
+{
+"text": "scott@scottjanney.com",
+"href": "mailto:scott@scottjanney.com"
+}
 ]

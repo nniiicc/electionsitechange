@@ -1,14 +1,50 @@
 [
-"https://brianshaverforcongress.com/",
-"https://brianshaverforcongress.com/contact",
-"https://brianshaverforcongress.com/donate",
-"https://brianshaverforcongress.com/events",
-"https://brianshaverforcongress.com/getinvolved",
-"https://brianshaverforcongress.com/issues",
-"https://facebook.com/BrianShaverForCongress",
-"https://instagram.com/BrianShaverForCongress",
-"https://lwvohio.org/make-a-voting-plan",
-"https://olvr.ohiosos.gov/",
-"https://secure.actblue.com/donate/brianshaver",
-"https://voterlookup.ohiosos.gov/voterlookup.aspx"
+{
+"text": "Check Status",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.brianshaverforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brianshaver"
+},
+{
+"text": "Donate",
+"href": "https://www.brianshaverforcongress.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.brianshaverforcongress.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brianshaverforcongress.com/getinvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.brianshaverforcongress.com/issues"
+},
+{
+"text": "Plan Your Vote",
+"href": "https://www.lwvohio.org/make-a-voting-plan"
+},
+{
+"text": "Register Now",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "[image: Brian-Shaver-for-Congress-logo]",
+"href": "https://www.brianshaverforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrianShaverForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/BrianShaverForCongress"
+}
 ]

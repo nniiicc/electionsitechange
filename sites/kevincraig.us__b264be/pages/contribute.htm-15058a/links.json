@@ -1,18 +1,98 @@
 [
-"http://bible.gospelcom.net/cgi-bin/bible?passage=MATT+5%3A13&language=english&version=KJV&showfn=on&showxref=on",
-"http://bible.gospelcom.net/cgi-bin/bible?passage=MATT+5%3A14&language=english&version=KJV&showfn=on&showxref=on",
-"http://blog.kevincraig.us/",
-"http://blogger.com/",
-"http://doncleary.com/",
-"http://freedomkeys.com/vigil.htm",
-"http://kevincraig.us/",
-"http://kevincraig.us/EndTheWall/true_religion.htm",
-"http://kevincraig.us/brokenlink.htm",
-"http://kevincraig.us/education.htm",
-"http://web.archive.org/web/20071012032153/http://www.thenewamerican.com/node/1639",
-"https://kevincraig.us/USPS.htm",
-"https://kevincraig.us/campaign.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/liberty.htm",
-"https://kevincraig.us/zipcodes.htm"
+{
+"text": "Campaign Finance page",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Eternal vigilance is the price of liberty",
+"href": "http://www.freedomkeys.com/vigil.htm"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Here are the zipcodes",
+"href": "https://kevincraig.us/zipcodes.htm"
+},
+{
+"text": "Kevin Craig for Congress blog",
+"href": "http://blog.kevincraig.us"
+},
+{
+"text": "KevinCraig.US",
+"href": "http://www.kevincraig.us"
+},
+{
+"text": "Liberty Under God",
+"href": "https://kevincraig.us/liberty.htm"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "This is a really important link - click it NOW!",
+"href": "http://kevincraig.us/brokenlink.htm"
+},
+{
+"text": "True Religion",
+"href": "http://kevincraig.us/EndTheWall/true_religion.htm"
+},
+{
+"text": "Tweedledee and Tweedledum",
+"href": "http://web.archive.org/web/20071012032153/http://www.thenewamerican.com/node/1639"
+},
+{
+"text": "US Postal Service",
+"href": "https://kevincraig.us/USPS.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "a city upon a hill",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=MATT+5%3A14&language=english&version=KJV&showfn=on&showxref=on"
+},
+{
+"text": "a light unto the world",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=MATT+5%3A14&language=english&version=KJV&showfn=on&showxref=on"
+},
+{
+"text": "here",
+"href": "http://blogger.com"
+},
+{
+"text": "http://KevinCraig.us/brokenlink.htm",
+"href": "http://kevincraig.us/brokenlink.htm"
+},
+{
+"text": "http://KevinCraig.us/education.htm",
+"href": "http://kevincraig.us/education.htm"
+},
+{
+"text": "of voters in Missouri's 7th Congressional District.",
+"href": "https://kevincraig.us/zipcodes.htm"
+},
+{
+"text": "the salt of the earth",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=MATT+5%3A13&language=english&version=KJV&showfn=on&showxref=on"
+},
+{
+"text": "the zipcode list",
+"href": "https://kevincraig.us/zipcodes.htm"
+},
+{
+"text": "www.DonCleary.com",
+"href": "http://www.doncleary.com"
+}
 ]

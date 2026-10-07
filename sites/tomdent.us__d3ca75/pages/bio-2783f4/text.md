@@ -1,5 +1,5 @@
-Representative Tom Dent
-I moved with my family to Othello, Washington in 1955 at the age of five.
+Tom Dent - State Representative, Washington Representing voters from Grant, Kittitas, Adams, and Douglas Counties.
+Home Bio District Map Community Endorsements Projects Legislative Achievements 2014-2026 Buffalo Soldiers Crop Life America Gallery Contact Us Bio Representative Tom Dent I moved with my family to Othello, Washington in 1955 at the age of five.
 The early years in Othello were an old west adventure as there was no pavement on the streets.
 They were all dirt except for Main Street which was gravel.
 When the wind blew the house across the street would disappear in a cloud of dust.
@@ -25,7 +25,8 @@ In my spare time I would teach flying, and broke into the world of crop-dusting.
 In 1977 I started Tom Dent Aviation as a flight school and pilot service company, while maintaining employment as a corporate pilot, and filling in as a crop-duster as time allowed.
 In 1982 I moved to Moses Lake, to work as a Spray Pilot, eventually starting my own crop-dusting company under the banner of Tom Dent Aviation in 1984.
 My first month in business was very trying, as I had a propeller break which put the airplane down and set us back financially.
-My wife Dayna and I bucked up and persevered, borrowed what money we could and didn’t look back. 2014 was the 31st season for Tom Dent Aviation, after which I sold the business to my competitor.
+My wife Dayna and I bucked up and persevered, borrowed what money we could and didn’t look back.
+2014 was the 31 st season for Tom Dent Aviation, after which I sold the business to my competitor.
 Having accumulated well over 20,000 hours in the air, I currently hold an Airline Transport Pilot Certificate multi-engine airplane with commercial privileges single engine airplane.
 I am also a certificated Flight Instructor for single & multi engine airplane and instrument airplane, as well as a basic, advanced and instrument ground instructor.
 Drift management for the aerial application industry has been of keen interest to me and for that reason I have devoted my efforts to producing two videos on the subject.
@@ -50,7 +51,7 @@ I have always had a sense of gratitude and appreciation for our way of live here
 Freedom is a precious commodity and it is our responsibility to preserve this Republic for the generations yet to come.
 I watched when President Kennedy took the oath of office on a small television with a snowy picture and I have never forgotten his words, “Ask not what your country can do for you, ask what you can do for your country “.
 With that in mind I entered the political world a little deeper in 2014 and threw my hat into the ring for the Washington State House of Representatives.
-I now proudly serve the 13th district as a State Representative.
+I now proudly serve the 13 th district as a State Representative.
 The rest of our family is a bit spread out with daughter Aron living in Seattle and daughter Teresa lives in Okanogan.
 We have four granddaughters, Kelsie, Riley, Hannah and Harley along with five great-grandsons, Cooper, Arlo, July, Colter and Banner.
 My wife and I were foster parents for many years working to help young people find a direction for their future.
@@ -60,7 +61,7 @@ Foster children bring a bright light to the world; we don’t want that light to
 Children are our future!
 On a personal and final note, when I am not in the air or representing the people, I am enjoying a wonderful life with plenty of hobbies to keep me busy including: hunting, horses, leather work, snow skiing and training in karate.
 Life has been good to me.
-With President Kennedy’s words ringing in my ears, “ask what you can do for your country.”
-I am giving back.
+With President Kennedy’s words ringing in my ears, “ask what you can do for your country.” I am giving back.
 I am living the American dream.
 I am Blessed!!
+Search This Site Search for: Translate This Site English English Japanese Portuguese Russian Spanish Ukrainian Tom Dent on Facebook Visit Tom Dent on Facebook Pages Awards & Recognitions Bio Buffalo Soldiers Campaign Donations Community Endorsements Contact Us Crop Life America District Map Gallery Home Keeping in Touch and Working Hard Legislative Achievements 2014-2026 Oganizational Endorsements Other Committees Parade Schedule 2026 Re-Elect Press Release Short Bio Sponsored – House Joint Memorials Sponsored – Resolutions Standing Committees Statutory Committees Tom Dent - State Representative © #

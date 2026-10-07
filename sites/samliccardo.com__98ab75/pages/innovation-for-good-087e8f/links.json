@@ -1,16 +1,94 @@
 [
-"https://bsky.app/profile/sliccardo.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/SamLiccardo1",
-"https://instagram.com//samliccardo",
-"https://liccardo.house.gov/",
-"https://samliccardo.com/",
-"https://samliccardo.com/get-involved",
-"https://samliccardo.com/i4g-investor-report",
-"https://samliccardo.com/news",
-"https://samliccardo.com/privacy",
-"https://secure.numero.ai/contribute/Innovation-for-Good",
-"https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress",
-"https://secure.numero.ai/survey/Innovation-for-Good-Interest-Form",
-"https://x.com/sliccardo"
+{
+"text": "Contact Us",
+"href": "mailto:info@samliccardo.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Innovation-for-Good"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "Dr. Amish Shah (AZ-01)",
+"href": "https://www.samliccardo.com/amish-shah-az-01"
+},
+{
+"text": "Get Involved",
+"href": "https://www.samliccardo.com/get-involved"
+},
+{
+"text": "Join Us",
+"href": "https://secure.numero.ai/survey/Innovation-for-Good-Interest-Form"
+},
+{
+"text": "Marni Von Wilpert (CA-48)",
+"href": "https://www.samliccardo.com/marni-von-wilpert-ca-48"
+},
+{
+"text": "News",
+"href": "https://www.samliccardo.com/news"
+},
+{
+"text": "Pia Dandiya (FL-22)",
+"href": "https://www.samliccardo.com/pia-dandiya-fl-22"
+},
+{
+"text": "Privacy",
+"href": "https://www.samliccardo.com/privacy"
+},
+{
+"text": "RSVP",
+"href": "https://secure.numero.ai/signup/Oct17I4G"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.numero.ai/signup/Oct17I4G"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rep. Nellie Pou (NJ-09)",
+"href": "https://www.samliccardo.com/nellie-pou-nj-09"
+},
+{
+"text": "View More",
+"href": "https://www.samliccardo.com/i4g-investor-report"
+},
+{
+"text": "[image: samliccardo.com logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sliccardo.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SamLiccardo1"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//samliccardo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sliccardo"
+},
+{
+"text": "here.",
+"href": "https://liccardo.house.gov/"
+},
+{
+"text": "info@samliccardo.com",
+"href": "mailto:info@samliccardo.com"
+}
 ]

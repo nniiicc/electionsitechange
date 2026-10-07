@@ -1,3 +1,5 @@
-The Declaration of Independence states that it is the "right and the duty of citizens to provide New Guards for their future security." It is time for the "new" to step into the gap to "guard" the gift this country and state have been given and to protect the system that will secure their God-given liberties.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Home About Sponsored Legislation Real State of the State Contact Donate More Home About Sponsored Legislation Real State of the State Contact Donate Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Home About Sponsored Legislation Real State of the State Contact Donate Contact I'd love to hear from you!
+Name* Email* Town* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+The New Guard of Liberty The Declaration of Independence states that it is the "right and the duty of citizens to provide New Guards for their future security." It is time for the "new" to step into the gap to "guard" the gift this country and state have been given and to protect the system that will secure their God-given liberties.
+Copyright © # Representative Reagan Paul - All Rights Reserved.
+Powered by

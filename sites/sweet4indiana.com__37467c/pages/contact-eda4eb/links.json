@@ -1,10 +1,50 @@
 [
-"http://facebook.com/sweet4indiana",
-"https://facebook.com/sweet4indiana",
-"https://sweet4indiana.com/",
-"https://sweet4indiana.com/contact",
-"https://sweet4indiana.com/facts",
-"https://sweet4indiana.com/get-involved",
-"https://sweet4indiana.com/survey",
-"https://zeffy.com/en-US/donation-form/959022de-7dbb-4d1a-bf0e-fe10ecb24e27"
+{
+"text": "Contact",
+"href": "https://www.sweet4indiana.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.zeffy.com/en-US/donation-form/959022de-7dbb-4d1a-bf0e-fe10ecb24e27"
+},
+{
+"text": "FOR DISTRICT 50",
+"href": "https://www.sweet4indiana.com"
+},
+{
+"text": "Facts",
+"href": "https://www.sweet4indiana.com/facts"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sweet4indiana.com/get-involved"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.sweet4indiana.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.sweet4indiana.com"
+},
+{
+"text": "LORISSA SWEET",
+"href": "https://www.sweet4indiana.com"
+},
+{
+"text": "Survey",
+"href": "https://www.sweet4indiana.com/survey"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/sweet4indiana"
+},
+{
+"text": "sweet4indiana@gmail.com",
+"href": "mailto:sweet4indiana@gmail.com"
+},
+{
+"text": "www.facebook.com/sweet4indiana",
+"href": "http://www.facebook.com/sweet4indiana"
+}
 ]

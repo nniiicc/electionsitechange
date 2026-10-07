@@ -1,10 +1,50 @@
 [
-"http://facebook.com/votemullins",
-"http://instagram.com/votemullins",
-"http://votemullins.com/about",
-"http://votemullins.com/priorities",
-"https://votemullins.com/",
-"https://votemullins.com/about",
-"https://votemullins.com/donate",
-"https://votemullins.com/priorities"
+{
+"text": "ABOUT KYLE",
+"href": "https://www.votemullins.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.votemullins.com/donate"
+},
+{
+"text": "Find Out How →",
+"href": "http://votemullins.com/priorities"
+},
+{
+"text": "Home",
+"href": "https://www.votemullins.com/"
+},
+{
+"text": "Learn More →",
+"href": "http://votemullins.com/about"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.votemullins.com/priorities"
+},
+{
+"text": "[image: KMullinsFinal (14 of 57).jpg]",
+"href": "https://www.votemullins.com/about"
+},
+{
+"text": "[image: KyleMullins_9-9-20 (37 of 53).jpg]",
+"href": "https://www.votemullins.com/priorities"
+},
+{
+"text": "[image: VOTE MULLINS]",
+"href": "https://www.votemullins.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votemullins"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/votemullins"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@votemullins.com"
+}
 ]

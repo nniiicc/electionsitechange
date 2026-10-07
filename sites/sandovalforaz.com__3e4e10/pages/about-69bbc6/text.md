@@ -1,4 +1,4 @@
-Mariana Sandoval has built her life around hard work, service, and helping people.
+0 Skip to Content MEET MARIANA VOLUNTEER DONATE ISSUES ENDORSEMENTS RESOURCES English DONATE Open Menu Close Menu MEET MARIANA VOLUNTEER DONATE ISSUES ENDORSEMENTS RESOURCES English DONATE Open Menu Close Menu MEET MARIANA VOLUNTEER DONATE ISSUES ENDORSEMENTS RESOURCES English Back DONATE Mariana Sandoval has built her life around hard work, service, and helping people.
 She put herself through Los Angeles Mission College, where she earned a degree in Paralegal Studies, Interdisciplinary Studies, and a Paralegal certificate.
 She also earned a B.A. in Law from the University of Arizona.
 She believes education is the great equalizer.
@@ -15,3 +15,5 @@ Legislative District 23 spans over four counties: Maricopa, Yuma, Pima, and Pina
 It contains the largest stretch (230 miles) of the U.S. - Mexico border in Arizona and is home to the Tohono O’odham Nation, the Cocopah Tribe, and part of the Fort Yuma Quechan.
 Historic fact, approximately 80 percent of Arizona’s Legislative District 23 overlaps with Congressional District 7, which is represented by Adelita Grijalva, the first Latina/Chicana elected in Arizona to serve in the United States Congress.
 With more than two decades of public service, Mariana approaches her work in the State Legislature with one goal: to make life better for the people she serves and ensure every Arizonan has the opportunity to thrive.
+SANDOVAL FOR ARIZONA PO Box 5021 Goodyear, AZ 85338 SandovalForAZ@gmail.com PAID FOR BY SANDOVAL FOR ARIZONA.
+AUTHORIZED BY MARIANA SANDOVAL

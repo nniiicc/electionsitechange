@@ -1,8 +1,38 @@
 [
-"https://electhughes.com/",
-"https://electhughes.com/about",
-"https://electhughes.com/about-3",
-"https://electhughes.com/contact",
-"https://electhughes.com/event-list",
-"https://secure.actblue.com/donate/frankfornc"
+{
+"text": "About",
+"href": "https://www.electhughes.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electhughes.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/frankfornc"
+},
+{
+"text": "Events",
+"href": "https://www.electhughes.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "Platform",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "Policy Positions",
+"href": "https://www.electhughes.com/about-3"
+},
+{
+"text": "Vote",
+"href": "https://www.electhughes.com"
+},
+{
+"text": "[image: image000000 - Frank.png]",
+"href": "https://www.electhughes.com"
+}
 ]

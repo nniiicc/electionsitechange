@@ -1,9 +1,2 @@
-ENDORSEMENTS
-- Monroe County Democratic Committee
-- New York State Young Democrats
-- Irondequoit Democratic Committee
-- Penfield Democratic Committee
-- Perinton Democratic Committee
-- East Rochester Democratic Committee
-- Pittsford Democratic Committee
-- Webster Democratic Committee
+0 Skip to Content About Issues Endorsements Volunteer Vote Donate now Open Menu Close Menu About Issues Endorsements Volunteer Vote Donate now Open Menu Close Menu About Issues Endorsements Volunteer Vote Donate now ENDORSEMENTS Monroe County Democratic Committee New York State Young Democrats Irondequoit Democratic Committee Penfield Democratic Committee Perinton Democratic Committee East Rochester Democratic Committee Pittsford Democratic Committee Webster Democratic Committee CONTRIBUTE Support our campaign and help Samra continue her work in Albany.
+DONATE GET IN TOUCH info@samraforsenate.com PAID FOR BY SAMRA BROUK FOR STATE SENATE

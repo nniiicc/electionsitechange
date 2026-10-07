@@ -1,6 +1,3 @@
-Photos from the campaign trail.
-Eugene Blue Protest includes Bill Vivian Sign
-Candidates Q&A Event- Out of the Horse's Mouth
-Oregon Pro-Life Gala Atttendance
-U of O Ducks Opening Football Game Day
-Flag Waving- Labor Day Weekend
+Meet Bill Issues News Volunteer Contribute Photos Photos from the campaign trail.
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Eugene Blue Protest includes Bill Vivian Sign Candidates Q&A Event- Out of the Horse's Mouth Oregon Pro-Life Gala Atttendance U of O Ducks Opening Football Game Day Flag Waving- Labor Day Weekend Voter Information Endorsements Yard Signs Events Photos Contact Self Treasurer to Elect Bill Vivian Powered by CampaignPartner.com - Political Websites Home Meet Bill Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

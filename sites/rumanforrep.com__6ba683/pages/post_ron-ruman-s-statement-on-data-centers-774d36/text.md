@@ -1,13 +1,7 @@
-Ron Ruman's Statement on Data Centers
-Data centers must play by OUR rules, not theirs.
-Data centers must:
-- pay for the electricity they use, and not push these costs onto residents and businesses
-- strictly abide by water use guidelines so as not to threaten the community’s water supply
-- be transparent with local residents and officials
-- hire local residents whenever possible
-- strictly abide by local noise and lighting ordinances
-I support repealing the sales tax exemption for data centers to buy equipment.
+top of page DONATE Home About Issues Get Involved Video & Media Contact All Articles Search Ron Ruman's Statement on Data Centers Ronald Ruman Sep 18 1 min read Data centers must play by OUR rules, not theirs.
+Data centers must: pay for the electricity they use, and not push these costs onto residents and businesses strictly abide by water use guidelines so as not to threaten the community’s water supply be transparent with local residents and officials hire local residents whenever possible strictly abide by local noise and lighting ordinances I support repealing the sales tax exemption for data centers to buy equipment.
 The richest companies in the world do not need this tax break.
 Repealing it would provide Pennsylvania taxpayers with a projected $260 million in the next fiscal year, which should be used to pay for important services which benefit all Pennsylvanians.
 For now, I support using this money from repealing the data center tax exemption to provide subsidies to help thousands of York County residents, and hundreds of thousands of Pennsylvanians, pay the premiums on their health insurance when they buy it through the Affordable Care Act.
 This is a matter of life and death for these folks.
+Recent Posts See All Ron Ruman on The Gary Sutton Show SportsRadio 98.9 FM & 1350 WOYK in York County, Pennsylvania Video: Meet Ron Ruman Ron Ruman - FOR PENNSYLVANIA REPRESENTATIVE - © # RumanforRep Paid for by RumanforRep info@rumanforrep.com bottom of page

@@ -1,9 +1,2 @@
-top of page
-Home
-About
-Mission
-Gallery
-Contact
-DONATE
-Gallery
-bottom of page
+top of page Home About Mission Gallery Contact DONATE Gallery Striving to create your dream country Hello Team Theodis Daniel for highlights his vision for safer communities, better schools, and responsible leadership.
+Get in touch info@theodisfortexas.com +1 346 920 6876 Call or Text Links Home About Gallery Donate Socials Facebook Paid for and authorized by Theodis Daniel for Texas Twitter bottom of page

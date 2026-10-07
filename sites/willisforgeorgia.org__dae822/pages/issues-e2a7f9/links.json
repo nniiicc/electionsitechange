@@ -1,8 +1,30 @@
 [
-"https://secure.actblue.com/donate/willisforgeorgia",
-"https://willisforgeorgia.org/",
-"https://willisforgeorgia.org/cart",
-"https://willisforgeorgia.org/issues",
-"https://willisforgeorgia.org/story",
-"https://willisforgeorgia.org/visit"
+{
+"text": "0",
+"href": "https://www.willisforgeorgia.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.willisforgeorgia.org/story"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/willisforgeorgia"
+},
+{
+"text": "Home",
+"href": "https://www.willisforgeorgia.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.willisforgeorgia.org/issues"
+},
+{
+"text": "Voter Information",
+"href": "https://www.willisforgeorgia.org/visit"
+},
+{
+"text": "[image: WillisforGeorgia]",
+"href": "https://www.willisforgeorgia.org/"
+}
 ]

@@ -1,18 +1,3 @@
-In the News
-Pete Sessions on Fox Business
-May 5, 2026
-Sessions on Iran Conflict – CNN
-May 5, 2026
-Congressman Sessions Joins NewsNation Morning in America
-April 29, 2026
-Congressman Sessions Joins Newsmax
-April 29, 2026
-Congressman Sessions Joins CNN News Central
-April 29, 2026
-Congressman Sessions on C-SPAN
-March 30, 2026
-Sessions on Wake Up America Early
-March 29, 2026
-Sessions on Latest Tariffs Supreme Court Ruling
-March 9, 2026
-Read the article from KLTV Channel 7 here.
+Toggle navigation Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate In the News Congressman Sessions on NewsNation May 5, 2026 Pete Sessions on Fox Business May 5, 2026 Sessions on Iran Conflict – CNN May 5, 2026 Congressman Sessions Joins NewsNation Morning in America April 29, 2026 Congressman Sessions Joins Newsmax April 29, 2026 Congressman Sessions Joins CNN News Central April 29, 2026 Congressman Sessions on C-SPAN March 30, 2026 Sessions on Wake Up America Early March 29, 2026 Sessions on Latest Tariffs Supreme Court Ruling March 9, 2026 Read the article from KLTV Channel 7 here.
+Congressman Sessions Discusses the Ongoing Operation Epic Fury in Iran on CNN March 6, 2026 « Previous Next » P.O.
+Box 7754 Waco, TX 76714-7754 [email protected] Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Paid for by Pete Sessions for Congress Privacy Policy

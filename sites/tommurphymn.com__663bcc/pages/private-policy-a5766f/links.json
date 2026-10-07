@@ -1,16 +1,70 @@
 [
-"http://instagram.com/tommurphy3911",
-"https://facebook.com/TomMurphyforHouse",
-"https://tommurphymn.com/",
-"https://tommurphymn.com/aboutme",
-"https://tommurphymn.com/cart",
-"https://tommurphymn.com/donate-now",
-"https://tommurphymn.com/endorsements",
-"https://tommurphymn.com/events",
-"https://tommurphymn.com/gallery-1",
-"https://tommurphymn.com/news",
-"https://tommurphymn.com/passionatecauses",
-"https://tommurphymn.com/private-policy",
-"https://tommurphymn.com/volunteer",
-"https://tommurphymn.com/whynow"
+{
+"text": "0",
+"href": "https://www.tommurphymn.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.tommurphymn.com/aboutme"
+},
+{
+"text": "Donate Now",
+"href": "https://www.tommurphymn.com/donate-now"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tommurphymn.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.tommurphymn.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tommurphymn.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.tommurphymn.com/"
+},
+{
+"text": "News",
+"href": "https://www.tommurphymn.com/news"
+},
+{
+"text": "Passionate Causes",
+"href": "https://www.tommurphymn.com/passionatecauses"
+},
+{
+"text": "Photos",
+"href": "https://www.tommurphymn.com/gallery-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tommurphymn.com/private-policy"
+},
+{
+"text": "Why Now?",
+"href": "https://www.tommurphymn.com/whynow"
+},
+{
+"text": "[image: Tom Murphy]",
+"href": "https://www.tommurphymn.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/tommurphy3911"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TomMurphyforHouse"
+},
+{
+"text": "info@tommurphymn.com",
+"href": "javascript:;"
+},
+{
+"text": "info@tommurphymn.com",
+"href": "mailto:info@tommurphymn.com"
+}
 ]

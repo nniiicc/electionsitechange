@@ -1,83 +1,43 @@
-Laurel Lee for Congress respects your privacy and are committed to protecting your personal information.
+About Laurel Laurel’s Record Join Team Lee Gallery Donate ✕ Privacy Policy Laurel Lee for Congress respects your privacy and are committed to protecting your personal information.
 This Privacy Policy outlines the type of information we may collect from you or that you may provide when you use votelaurel.com and how we use that information, as well as our practices for collecting, using, maintaining, and disclosing various information.
-This Policy applies to information we collect:
-- On the Website
-- On any of our social media platforms
-- In electronic communications, such as e-mail and any other messages, between you and the Laurel Lee for Congress Through any third party application by which you access data on this Website
-- Through any third party application by which you submit media, a User Contribution (as defined in our Terms of Use), or other data on the Website or any of our social media platforms
-It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from the Website or a social media platform.
+This Policy applies to information we collect: On the Website On any of our social media platforms In electronic communications, such as e-mail and any other messages, between you and the Laurel Lee for Congress Through any third party application by which you access data on this Website Through any third party application by which you submit media, a User Contribution (as defined in our Terms of Use), or other data on the Website or any of our social media platforms It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from the Website or a social media platform.
 Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it.
 If you do not agree with our policies and practices, your choice is not to interact with us or use the Website.
 By accessing or using the Website, or interacting with us in any way, you agree to this Policy.
 This Policy may change from time to time.
 Your continued use of the Website and/or interaction with us after we make changes is deemed to be acceptance of those changes, so please check the Policy prior to interreacting with us for updates.
-Information We Collect.
-We collect several types of information from and about users of our Website, including information:
-- By which you may be personally identified, such as name, likeness, postal address, e-mail address, social media usernames and/or accounts, and/or telephone number (“Personal Information”)
-- About your voting history, beliefs, and opinions relating to candidates and public policy issues (“Political Information”)
-- That you make available on social media platforms (“Social Media Information”)
-- About candidates, committees, and causes to which you have contributed, including the dates and amounts of your contributions (“Contribution Information”)
-- That is about you but individually does not identify you
-- About your computer, phone, or tablet; internet connection and IP address; operating system; browser; and usage details (“Device Information”)
-We collect this information:
-- Directly from you when you provide it to us or an affiliate, interact directly with us or an affiliate, engage with us or an affiliate on social media, or provide it to a candidate or committee with whom we interact directly or indirectly.
-- Indirectly when you make it publicly available, such as via social media; making a contribution to a candidate or committee that is publicly reportable; or take any other action where the information you provide is available to third parties.
-- Automatically as you navigate through the Website.
-Information collected automatically may include usage details, IP addresses, and information collected through cookies and other tracking technologies.
-- From third parties, including our service providers, contractors, and affiliates
-Use of Your Information.
-The information we collect helps us to:
-- Develop and improve, independently or in collaboration with others, data and analysis of data used by us, including analysis regarding your interests.
-- Improve the services we provide to you and others
-- Facilitate political communications
-- Facilitate marketing communications
-- Comply with campaign finance laws and other local, state, and federal laws, rules, and regulations
-- Recognize you when you return to the Website
-- Carry out any obligations and enforce any rights arising from any agreements to which we are a party
-- Notify you about any changes to how we interact with you
-- Take other actions which we may describe when you provide the pertinent information
-- For any other purpose permitted by law or, if required by an applicable law, rule, or regulation, with your consent
-Disclosure of Your Information.
+Information We Collect .
+We collect several types of information from and about users of our Website, including information: By which you may be personally identified, such as name, likeness, postal address, e-mail address, social media usernames and/or accounts, and/or telephone number (“ Personal Information ”) About your voting history, beliefs, and opinions relating to candidates and public policy issues (“ Political Information ”) That you make available on social media platforms (“ Social Media Information ”) About candidates, committees, and causes to which you have contributed, including the dates and amounts of your contributions (“ Contribution Information ”) That is about you but individually does not identify you About your computer, phone, or tablet; internet connection and IP address; operating system; browser; and usage details (“ Device Information ”) We collect this information: Directly from you when you provide it to us or an affiliate, interact directly with us or an affiliate, engage with us or an affiliate on social media, or provide it to a candidate or committee with whom we interact directly or indirectly.
+Indirectly when you make it publicly available, such as via social media; making a contribution to a candidate or committee that is publicly reportable; or take any other action where the information you provide is available to third parties.
+From third parties, including our service providers, contractors, and affiliates Use of Your Information .
+The information we collect helps us to: Develop and improve, independently or in collaboration with others, data and analysis of data used by us, including analysis regarding your interests.
+Improve the services we provide to you and others Facilitate political communications Facilitate marketing communications Comply with campaign finance laws and other local, state, and federal laws, rules, and regulations Recognize you when you return to the Website Carry out any obligations and enforce any rights arising from any agreements to which we are a party Notify you about any changes to how we interact with you Take other actions which we may describe when you provide the pertinent information For any other purpose permitted by law or, if required by an applicable law, rule, or regulation, with your consent Disclosure of Your Information .
 We may disclose anonymized, aggregated information about our users in general, and information which does not identify any individual, without restriction.
-We may disclose Personal Information, Political Information, Social Media Information, Voting Information, Contribution Information, and Device Information that we collect or that you provide to us as described in this Policy:
-- To our affiliates
-- To contractors, service providers, and other third parties we use to support our ventures, including for meaningful consideration
-- To fulfill the purpose for which you provide it
-- For any other purpose disclosed by us when you provide the information
-- To comply with any court order, law, or legal process, including to respond to any government or regulatory request, and to satisfy our reporting requirements under applicable campaign finance laws
-- To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes
-- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of our stakeholders or any other individual or entity
-Policy Towards Minors.
+We may disclose Personal Information, Political Information, Social Media Information, Voting Information, Contribution Information, and Device Information that we collect or that you provide to us as described in this Policy: To our affiliates To contractors, service providers, and other third parties we use to support our ventures, including for meaningful consideration To fulfill the purpose for which you provide it For any other purpose disclosed by us when you provide the information To comply with any court order, law, or legal process, including to respond to any government or regulatory request, and to satisfy our reporting requirements under applicable campaign finance laws To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of our stakeholders or any other individual or entity Policy Towards Minors .
 Our Website is not intended for children under the age of 13.
 No one under the age of 13 may provide any information to or on the Website.
 We do not knowingly collect Personal Information from children under the age of 13.
 If you are under the age of 13, do not use or provide any information on this Website or on or through any of its features/register on the Website.
 If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information.
-If you believe we might have any information from or about a child under 13, please contact us at info@votelaurel.com
-Your State Privacy Rights.
+If you believe we might have any information from or about a child under 13, please contact us at info@votelaurel.com Your State Privacy Rights .
 Certain states permit users of our Website that are residents of those states to request certain information regarding our storage and use of those users’ Personal Information.
-If you would like more details on our storage and use of your Personal Information, if you would like to confirm and/or correct your Personal Information submitted to use via the Website or otherwise, or if you have another inquiry regarding your Personal Information, please send an e-mail to: info@votelaurel.com
-These Terms of Use and Privacy Policy constitute the entire and exclusive agreement between us and you regarding the Website, and supersede and replace any prior agreements between us and you regarding the Website and its Service.
-Terms of Service
-Laurel Lee for Congress
-TERMS OF USE
-These Terms of Use (these “Terms” or this “Agreement”) govern your use of votelaurel.com and constitute a license for your use of the Website.
+If you would like more details on our storage and use of your Personal Information, if you would like to confirm and/or correct your Personal Information submitted to use via the Website or otherwise, or if you have another inquiry regarding your Personal Information, please send an e-mail to: info@votelaurel.com These Terms of Use and Privacy Policy constitute the entire and exclusive agreement between us and you regarding the Website, and supersede and replace any prior agreements between us and you regarding the Website and its Service.
+Terms of Service Laurel Lee for Congress TERMS OF USE These Terms of Use (these “ Terms ” or this “ Agreement ”) govern your use of votelaurel.com and constitute a license for your use of the Website.
 By accessing, viewing, or using the Website, you acknowledge that you have read, understand, and agree with these Terms.
 If you disagree with these Terms and the Privacy Policy and/or do not wish to be bound by these Terms or the Privacy Policy, do not use the Website.
 If you are accepting these Terms of Use on behalf of a business, you represent and warrant that you have sufficient authority to bind the business, and that your acceptance of these Terms shall bind the company on whose behalf you are accepting these Terms.
-Your Use of the Website.
+Your Use of the Website .
 Laurel Lee for Congress grants you a limited, nonexclusive, nontransferable, revocable license to use the Website and its service subject to the restrictions set forth in these Terms of Use.
 The Website is offered and available to users who are at least 18 years of age or order, and reside in the United States of America or any of its territories or possessions.
 By using the Website, you represent and warrant that you are of legal age to form a binding contract with Laurel Lee for Congress and meet all of the eligibility requirements for doing so in the state in which you reside.
 If you are under the age of 18 and/or are otherwise unable to enter into a binding contract, you must not access the Website.
 The Website is not intended for children under the age of 13.
-Access and Account Security.
+Access and Account Security .
 Laurel Lee for Congress reserves the right to withdraw or amend this Website, and any service or material it provides on the Website, in its sole discretion, and without notice.
 Laurel Lee for Congress will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period, or if, as a result of such unavailability, you claim to suffer any damages.
 From time to time, Laurel Lee for Congress may restrict access to some parts of the Website, or the entire Website, to users, including registered users.
-You are responsible for:
-- Making all arrangements necessary for you to have access to the Website.
-- Ensuring that all persons who access the Website through your internet connection are aware of these Terms of Use and comply with them.
+You are responsible for: Making all arrangements necessary for you to have access to the Website.
+Ensuring that all persons who access the Website through your internet connection are aware of these Terms of Use and comply with them.
 To access the Website or some of the resources it offers, you may be asked to provide certain registration details or other information.
 It is a condition of your use of the Website that all the information you provide on the Website is correct, current, and complete.
 You agree that all information you provide to register with this Website or otherwise, including but not limited to through the use of any interactive features on the Website, is governed by our Privacy Policy, and you consent to all actions Laurel Lee for Congress takes with respect to your information consistent with our Laurel Lee for Congress Privacy Policy.
@@ -87,74 +47,68 @@ You agree to notify the Laurel Lee for Congress immediately of any unauthorized 
 You also agree to ensure that you exit from your account at the end of each session.
 You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.
 Laurel Lee for Congress has the right to disable any user name, password, or other identifier, whether chosen by you or provided by Laurel Lee for Congress at any time in our sole discretion for any or no reason, including, but not limited to, if, in our opinion, you have violated any provision of these Terms of Use, and/or any local, state, or federal law, rule, or regulation.
-Intellectual Property Rights.
+Intellectual Property Rights .
 The Website and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection, and arrangement thereof), are owned by Laurel Lee for Congress its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
-You agree that you shall not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on the Website, except as follows:
-- Your computer may temporarily store copies of such materials in RAM incidental to your accessing and viewing those materials.
-- You may store files that are automatically cached by your Web browser for display enhancement purposes.
-- You may print one copy of a reasonable number of pages of the Website for your own personal, non-commercial use and not for further reproduction, publication, distribution, or dissemination.
-- If the Website includes social media features and/or sharing features with certain content, you may take such actions as are enabled by such features.
-You must not:
-- Modify copies of any materials from this site.
-- Use any illustrations, photographs, video or audio sequences or any graphics separately from the accompanying text.
-- Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.
-- Reverse engineer, decompile, disassemble, reproduce, or create any derivative works from any portion or subset of the Website or any content thereon.
+You agree that you shall not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on the Website, except as follows: Your computer may temporarily store copies of such materials in RAM incidental to your accessing and viewing those materials.
+You may store files that are automatically cached by your Web browser for display enhancement purposes.
+You may print one copy of a reasonable number of pages of the Website for your own personal, non-commercial use and not for further reproduction, publication, distribution, or dissemination.
+If the Website includes social media features and/or sharing features with certain content, you may take such actions as are enabled by such features.
+You must not: Modify copies of any materials from this site.
+Use any illustrations, photographs, video or audio sequences or any graphics separately from the accompanying text.
+Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.
+Reverse engineer, decompile, disassemble, reproduce, or create any derivative works from any portion or subset of the Website or any content thereon.
 If you print, copy, modify, download or otherwise disseminate or distribute any part of the Website in violation of the Terms of Use, your right to use the Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
 No right, title or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by Laurel Lee for Congress.
 Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark, and other laws.
 Laurel Lee for Congress’s name and logo, and all related names, logos, product, and service names, designs, and slogans are trademarks of Laurel Lee for Congress or its affiliates or licensors.
 You must not use such marks without the prior written permission of Laurel Lee for Congress.
 All other names, logos, product, and service names, designs, and slogans on the Website are the intellectual property of their respective owners.
-Content Standards; License.
-These content standards apply to any and all data you submit to the Website made by any user (each, a “User Contribution”) and use of any interactive services offered by Laurel Lee for Congress through the Website, any other website connected to the Website, and any social media platforms linked to the Website.
+Content Standards; License .
+These content standards apply to any and all data you submit to the Website made by any user (each, a “ User Contribution ”) and use of any interactive services offered by Laurel Lee for Congress through the Website, any other website connected to the Website, and any social media platforms linked to the Website.
 User Contributions must in their entirety, comply with all applicable local, state, and federal laws, rules, and regulations.
 By submitting a User Contribution, you grant to Laurel Lee for Congress a non-exclusive, worldwide, irrevocable, perpetual, transferable, and royalty-free right to use, copy, distribute, display, perform, modify, translate, store, or otherwise exploit the User Contribution (including identifying information, such as your name, likeness, etc.) in any media throughout the world.
 You represent and warrant that you own or have all necessary rights to provide your User Contribution and license it to Laurel Lee for Congress for use as described above; that your User Contribution is accurate; and that use of your User Contribution, in any form, does not violate these Terms or violate or infringe on the rights of any third party.
 At our request, you will provide us with documentation to verify your compliance with these Terms.
 To the fullest extent permitted by law, you waive any “moral rights” you may have in your User Contribution, even if you do not agree with our use or how we have modified it.
-Without limiting the foregoing, User Contributions must not:
-- Contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable.
-- Promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age.
-- Infringe any patent, trademark, trade secret, copyright, or other intellectual property or other rights of any other person.
-- Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our Privacy Policy.
-- Be likely to deceive any person.
-- Promote any illegal activity, or advocate, promote, or assist any unlawful act.
-- Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm or annoy any other person.
-- Impersonate any person, or misrepresent your identity or affiliation with any person or organization.
-- Involve commercial activities or sales, such as contests, sweepstakes and other sales promotions, barter, or advertising.
-- Give the impression that they emanate from or are endorsed by Laurel Lee for Congress or any other person or entity, if this is not the case.
-Prohibited Uses.
+Without limiting the foregoing, User Contributions must not: Contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable.
+Promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age.
+Infringe any patent, trademark, trade secret, copyright, or other intellectual property or other rights of any other person.
+Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our Privacy Policy.
+Be likely to deceive any person.
+Promote any illegal activity, or advocate, promote, or assist any unlawful act.
+Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm or annoy any other person.
+Impersonate any person, or misrepresent your identity or affiliation with any person or organization.
+Involve commercial activities or sales, such as contests, sweepstakes and other sales promotions, barter, or advertising.
+Give the impression that they emanate from or are endorsed by Laurel Lee for Congress or any other person or entity, if this is not the case.
+Prohibited Uses .
 You may use the Website only for lawful purposes and in accordance with these Terms of Use.
-You agree not to use the Website:
-- In any way that violates any applicable local, state, or federal law, rule, or regulation (including, without limitation, any laws regarding the export of data or software to and from the United States or other countries).
-- For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.
-- To transmit, or procure the sending of, any advertising or promotional material inconsistent with the Website, including any “junk mail,” “chain letter,” or “spam,” or any other similar solicitation.
-- To impersonate or attempt to impersonate any person or entity (including, without limitation, by using e-mail addresses or other personally identifying characteristics associated with such a person or entity.
-- To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Website, or which, as determined by us, may harm Laurel Lee for Congress or users of the Website, or expose them to liability.
-Additionally, you agree not to:
-- Use the Website in any manner that could disable, overburden, damage, or impair the Website or interfere with any other party’s use of the Website, including their ability to engage in real time activities through the Website.
-- Use any robot, spider, or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on the Website.
-- Use any manual process to monitor or copy any of the material on the Website or for any other unauthorized purpose without our prior written consent.
-- Use any device, software, or routine that interferes with the proper working of the Website.
-- Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful.
-- Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Website, the server(s) on which the Website is stored, or any server, computer, or database connected to the Website.
-- Attack the Website via a denial-of-service attack or a distributed denial-of-service attack.
-- Otherwise attempt to interfere with the functionality of the Website.
-Monitoring and Enforcement; Termination.
-Laurel Lee for Congress at all times shall have the right to:
-- Remove or refuse to post any User Contributions for any or no reason in our sole discretion.
-- Take any action with respect to any User Contribution that Laurel Lee for Congress deems necessary or appropriate in its sole discretion, including if it believes that such User Contribution violates the Terms of Use, including the Content Standards, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Website or the public, or could in any way create liability for the Laurel Lee for Congress.
-- Disclose your identity or other information about you to any third party who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy.
-- Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Website.
-- Terminate or suspend your access to all or part of the Website for any or no reason, including without limitation, any violation of these Terms of Use, or local, state, or federal law or regulation.
+You agree not to use the Website: In any way that violates any applicable local, state, or federal law, rule, or regulation (including, without limitation, any laws regarding the export of data or software to and from the United States or other countries).
+For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.
+To transmit, or procure the sending of, any advertising or promotional material inconsistent with the Website, including any “junk mail,” “chain letter,” or “spam,” or any other similar solicitation.
+To impersonate or attempt to impersonate any person or entity (including, without limitation, by using e-mail addresses or other personally identifying characteristics associated with such a person or entity.
+To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Website, or which, as determined by us, may harm Laurel Lee for Congress or users of the Website, or expose them to liability.
+Additionally, you agree not to: Use the Website in any manner that could disable, overburden, damage, or impair the Website or interfere with any other party’s use of the Website, including their ability to engage in real time activities through the Website.
+Use any robot, spider, or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on the Website.
+Use any manual process to monitor or copy any of the material on the Website or for any other unauthorized purpose without our prior written consent.
+Use any device, software, or routine that interferes with the proper working of the Website.
+Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful.
+Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Website, the server(s) on which the Website is stored, or any server, computer, or database connected to the Website.
+Attack the Website via a denial-of-service attack or a distributed denial-of-service attack.
+Otherwise attempt to interfere with the functionality of the Website.
+Monitoring and Enforcement; Termination .
+Laurel Lee for Congress at all times shall have the right to: Remove or refuse to post any User Contributions for any or no reason in our sole discretion.
+Take any action with respect to any User Contribution that Laurel Lee for Congress deems necessary or appropriate in its sole discretion, including if it believes that such User Contribution violates the Terms of Use, including the Content Standards, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Website or the public, or could in any way create liability for the Laurel Lee for Congress.
+Disclose your identity or other information about you to any third party who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy.
+Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Website.
+Terminate or suspend your access to all or part of the Website for any or no reason, including without limitation, any violation of these Terms of Use, or local, state, or federal law or regulation.
 Without limiting the foregoing, Laurel Lee for Congress has the right to fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Website.
 YOU WAIVE AND HOLD HARMLESS Laurel Lee for Congress AND ITS AFFILIATES, LICENSEES, AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY ADMINISTRATOR OF THE WEBSITE DURING OR AS A RESULT OF SUCH AN INVESTIGATION AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER Laurel Lee for Congress OR LAW ENFORCEMENT AUTHORITIES.
 Laurel Lee for Congress does not undertake to review all material before it is posted on the Website, and cannot ensure prompt removal of objectionable material after it has been posted.
 Accordingly, Laurel Lee for Congress assumes no liability for any action or inaction regarding transmissions, communications, or content placed on the Website by any user or third party and shall have no liability or responsibility to anyone for performance or nonperformance of the activities described in this section.
-Use the Website at Your Own Risk.
+Use the Website at Your Own Risk .
 You agree that your access to and use of the Website and its service is at your own risk.
 Laurel Lee for Congress will have no responsibility for any harm that results from your access to or use of its site, any related site, its content, or its service.
-Disclaimer of Warranties.
+Disclaimer of Warranties .
 You understand that Laurel Lee for Congress cannot and does not guarantee or warrant that files available for downloading from the internet or the Website will be free of viruses or other destructive code.
 You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data.
 Laurel Lee for Congress WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA, OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE LINKED TO IT.
@@ -168,13 +122,12 @@ Limitation on Liability.
 IN NO EVENT WILL Laurel Lee for Congress, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, MEMBERS, MANAGERS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE.
 THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 IN NO EVENT WILL THE TOTAL LIABILITY TO YOU BY THE Laurel Lee for Congress ITS AFFILIATES, ITS MEMBERS, ITS MANAGERS, ITS EMPLOYEES, AND ITS CONTRACTORS, FOR ANY CLAIMS, DAMAGES, LOSSES, AND CAUSES OF ACTION EXCEED $100.
-Indemnification.
+Indemnification .
 You agree to defend, indemnify, and hold harmless the Laurel Lee for Congress, its affiliates, licensors, and service providers, and its and their respective officers, directors, members, managers, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms of Use or your use of the Website, including, but not limited to, your User Contributions, any use of the Website’s content, services, and products other than as expressly authorized in these Terms of Use, or your use of any information obtained from the Website, or the violation of these Terms of Service by a third party to whom you granted your access to the Website.
-Third Party Access.
+Third Party Access .
 If you grant an employee, agent, volunteer, contractor, or other Third Party access to your data, such Third Party shall be deemed to have read, understand, and agree with these Terms.
 Under no circumstances shall the Laurel Lee for Congress be liable for any action taken by such a Third Party, including, but not limited to, data loss, data corruption, a violation of Content Standards, and any action on another site or via a different entity which the Third Party uses your data accessed on the Laurel Lee for Congress.
-Miscellaneous
-No waiver of any breach of any provision of these Terms will be deemed a waiver of any preceding or succeeding breach or of any other provision of these Terms.
+Miscellaneous No waiver of any breach of any provision of these Terms will be deemed a waiver of any preceding or succeeding breach or of any other provision of these Terms.
 No extension of time for performance of any obligations or acts will be deemed an extension of the time for performance of any other obligations or acts.
 In the event that any one or more of the provisions contained herein shall, for any reason, be held to be invalid, illegal, or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provisions of these Terms, but these Terms shall be construed as if such invalid, illegal, or unenforceable provisions had never been contained herein, unless the deletion of such provision or provisions would result in such a material change so as to cause completion of the transactions contemplated herein to be unreasonable.
 The Website is controlled by facilities in the United States of America.
@@ -182,3 +135,4 @@ Laurel Lee for Congress makes no representations that the Website is appropriate
 If you access the Website from any location outside the United States of America, you do so at your own risk and you are solely responsible for your compliance with all local laws and regulations.These Terms are the entire and exclusive agreement between Laurel Lee for Congress and you regarding the Website, and these Terms of Use supersede and replace any prior agreements between Laurel Lee for Congress and you regarding the Website.
 Laurel Lee for Congress may update these terms from time to time in its sole discretion.
 Your use of and/or interaction with the Website constitutes your agreement with the Terms in effect at that time.
+Copyright #, Laurel Lee for Congress | Privacy Policy Media Assets Paid for by Laurel Lee for Congress

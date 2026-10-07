@@ -1,13 +1,46 @@
 [
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.voteforchrisparker.com%2Fevent-details%2Fwabash-founders-festival-parade",
-"https://secure.winred.com/friends-of-chris-parker/donate",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.voteforchrisparker.com%2Fevent-details%2Fwabash-founders-festival-parade&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://voteforchrisparker.com/",
-"https://voteforchrisparker.com/connect",
-"https://voteforchrisparker.com/doge",
-"https://voteforchrisparker.com/event-list",
-"https://voteforchrisparker.com/platform",
-"https://voteforchrisparker.com/privacy",
-"https://voteforchrisparker.com/terms",
-"https://voteforchrisparker.com/volunteer"
+{
+"text": "Connect",
+"href": "https://www.voteforchrisparker.com/connect"
+},
+{
+"text": "D.O.G.E.",
+"href": "https://www.voteforchrisparker.com/doge"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-chris-parker/donate"
+},
+{
+"text": "Platform",
+"href": "https://www.voteforchrisparker.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteforchrisparker.com/privacy"
+},
+{
+"text": "See other events",
+"href": "https://www.voteforchrisparker.com/event-list"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.voteforchrisparker.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteforchrisparker.com/volunteer"
+},
+{
+"text": "[image: Chris Parker Long logo - White.png]",
+"href": "https://www.voteforchrisparker.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.voteforchrisparker.com%2Fevent-details%2Fwabash-founders-festival-parade&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.voteforchrisparker.com%2Fevent-details%2Fwabash-founders-festival-parade"
+}
 ]

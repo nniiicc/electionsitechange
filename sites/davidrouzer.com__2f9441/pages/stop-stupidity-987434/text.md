@@ -1,4 +1,5 @@
-What if you had to ask the Environmental Protection Agency for permission before building an addition on your home, landscaping your yard, or planting crops on your farm?
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Stop the Stupidity September 11, 2014 What if you had to ask the Environmental Protection Agency for permission before building an addition on your home, landscaping your yard, or planting crops on your farm?
 That’s exactly what families, small businesses, farmers, realtors, and property owners within every part of the Seventh District will be facing if the EPA’s proposed expansion of the “Waters of the US” rule goes into effect.
 The EPA, no bastion of common sense, has proposed a revision to the Clean Water Act that would broadly redefine what qualifies as a “water of the United States,” thereby vastly expanding their jurisdiction over ponds, ditches, wet soils, and the occasional mud puddle in your front yard.
 That’s right.
@@ -11,5 +12,4 @@ It is this type of nonsense that I will fight vigorously in Congress.
 Will you donate today to help me fight the red tape the Obama Administration continues to pile on?
 Thank you for your consideration and support!
 We must work hard to save America.
-Best Regards,
-David
+Best Regards, David Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

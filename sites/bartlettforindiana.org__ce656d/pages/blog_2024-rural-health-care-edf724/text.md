@@ -1,5 +1,4 @@
-2024 - Rural Health Care
-Indiana ranks among the WORST states for quality of healthcare and among the MOST EXPENSIVE for health care costs.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024 - Rural Health Care Jul 25 Written By John Bartlett for IN State Rep Dist 33 Indiana ranks among the WORST states for quality of healthcare and among the MOST EXPENSIVE for health care costs.
 This has come about due to CORPORATE CONSOLIDATION of healthcare facilities.
 About half of Indiana’s communities now live in a monopoly for healthcare meaning these corporations can drive up our costs.
 Further, they are placing profit expectations on facilities and close them when they don’t perform.
@@ -12,3 +11,4 @@ Jay?
 Randolph?
 We need new legislation to make it out of committee to regulate them and ensure that they are prosecuted for violating laws ensuring accessibility to life-saving health care.
 Health care should be as it has always been, in the best interest for preserving life, not for profit.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2024 - Medicaid/Nursing Home Crisis Next Next 2024 - Agriculture Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

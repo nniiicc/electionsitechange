@@ -1,6 +1,5 @@
-LGBTQ+ RIGHTS
-I deeply believe that government must work especially hard for those who have been pushed aside, including LGBTQ+ Americans across the Sixth District.
-- I stand with the LGBTQ+ community in the fight for equality and safety.
-- I support marriage equality, oppose discrimination in all its forms, and will fight to ensure transgender Americans have access to healthcare, education, and safe, welcoming communities.
+Skip navigation menu Home Meet Dan Endorsements Press Issues Donate Issues Home Meet Dan Endorsements Press Issues Donate Issues Fighting Trump's Corruption Protecting Democracy Abolish Trump's ICE An Affordable Massachusetts Winning Back Our Country Healthcare Affordable Housing Strengthening Unions Climate Change Reproductive Rights Racial Justice Education Gun Safety LGBTQ+ RIGHTS Transportation LGBTQ+ RIGHTS I deeply believe that government must work especially hard for those who have been pushed aside, including LGBTQ+ Americans across the Sixth District.
+I stand with the LGBTQ+ community in the fight for equality and safety.
+I support marriage equality, oppose discrimination in all its forms, and will fight to ensure transgender Americans have access to healthcare, education, and safe, welcoming communities.
 I was honored to serve in the most pro LGBTQ+ administration in American history, and I will carry that commitment with me into Congress.
-Every American deserves the freedom to live openly, safely, and with dignity.
+Every American deserves the freedom to live openly, safely, and with dignity. letsgo@kohforcongress.com For press inquiries, email press@kohforcongress.com Powered by RUN! website builder Paid for by the Committee to Elect Dan Koh You need to enable JavaScript to run this app.

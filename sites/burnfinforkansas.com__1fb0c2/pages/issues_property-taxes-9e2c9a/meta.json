@@ -1,9 +1,12 @@
 {
  "description": "Property Taxes",
  "final_url": "https://burnfinforkansas.com/issues/property-taxes",
+ "fingerprint": "0f7460faa328a8d8c764756c8a935e43b83c4515",
+ "format": 3,
  "paid_for_by": "Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner",
  "title": "Property Taxes",
  "years_mentioned": [
+  "2005",
   "2012",
   "2024"
  ]

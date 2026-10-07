@@ -1,5 +1,4 @@
-Garrett
-“I grew up in and around the 14th District, on Milwaukee’s northwest side and now in Wauwatosa with my family.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Garrett More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett “I grew up in and around the 14th District, on Milwaukee’s northwest side and now in Wauwatosa with my family.
 And I grew up pretty conservative, attending Catholic schools and really believing in the fiscal policies of the Republican Party.
 Working in financial affairs, I started to see a disconnect between what I thought the GOP stood for, and the policies and candidates they were actually putting forward.
 My loyalties started to shift with all of the controversy around the Affordable Care Act.
@@ -9,4 +8,4 @@ The more the Right pushed against “Obamacare,” the less that vitriol made se
 By 2014, I started to identify as an Independent, and now, well, I’m very much a Democrat.
 Today, having health insurance is more important than ever, and I’m seeing our state Republican leaders hoard money and power and votes instead of taking care of the most vulnerable.
 I voted for Robyn in 2018, and I’ve been proud to watch her tireless support of the Healthcare Heroes Act despite her colleagues unwillingness to go to work.
-Robyn won’t stop fighting for access to health care and what is right, so we won’t stop fighting for her.” -Garrett
+Robyn won’t stop fighting for access to health care and what is right, so we won’t stop fighting for her.” -Garrett More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

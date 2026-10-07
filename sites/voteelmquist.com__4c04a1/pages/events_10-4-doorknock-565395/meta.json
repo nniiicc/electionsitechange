@@ -1,7 +1,11 @@
 {
  "description": "RSVP here.",
  "final_url": "https://www.voteelmquist.com/events/10-4-doorknock",
+ "fingerprint": "03a03a313e69d1003e4b15e567bfaabf1b380d17",
+ "format": 3,
  "paid_for_by": "Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top",
- "title": "New Brighton Doorknock with State Auditor Candidate Zack Filipovich - 10/4 \u2014 Elmquist for House",
- "years_mentioned": []
+ "title": "New Brighton Doorknock with State Auditor Candidate Zack Filipovich - 10/4 — Elmquist for House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

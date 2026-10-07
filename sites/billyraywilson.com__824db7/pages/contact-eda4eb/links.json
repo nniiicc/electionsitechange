@@ -1,7 +1,34 @@
 [
-"https://billyraywilson.com/",
-"https://billyraywilson.com/about",
-"https://billyraywilson.com/blog",
-"https://billyraywilson.com/books",
-"https://billyraywilson.com/contact"
+{
+"text": "About",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Contact",
+"href": "https://billyraywilson.com/contact/"
+},
+{
+"text": "Email",
+"href": "mailto:usnationalistworkersparty@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "[image: Billy Ray Wilson – American Veteran, Author, and Political Candidate]",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:usnationalistworkersparty@gmail.com"
+}
 ]

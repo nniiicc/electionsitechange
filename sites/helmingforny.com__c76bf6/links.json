@@ -1,13 +1,86 @@
 [
-"https://facebook.com/HelmingforSenate",
-"https://helmingforny.com/",
-"https://helmingforny.com/about",
-"https://helmingforny.com/blog",
-"https://helmingforny.com/connect-vote",
-"https://helmingforny.com/endorsments",
-"https://helmingforny.com/volunteer",
-"https://helmingforny.com/yardsigns",
-"https://secure.winred.com/helming-for-senate/donate",
-"https://secure.winred.com/helming-for-senate/pizza-with-pam?qr=true",
-"https://twitter.com/senatorhelming"
+{
+"text": "Bio",
+"href": "https://www.helmingforny.com/about"
+},
+{
+"text": "Connect & Vote",
+"href": "https://www.helmingforny.com/connect-vote"
+},
+{
+"text": "Contact",
+"href": "https://www.helmingforny.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/helming-for-senate/donate"
+},
+{
+"text": "Endorsments",
+"href": "https://www.helmingforny.com/endorsments"
+},
+{
+"text": "Learn More",
+"href": "https://www.helmingforny.com/about"
+},
+{
+"text": "News",
+"href": "https://www.helmingforny.com/blog"
+},
+{
+"text": "PAM HELMING FOR SENATE",
+"href": "https://www.helmingforny.com"
+},
+{
+"text": "SUPPORT PAM",
+"href": "https://www.helmingforny.com#support"
+},
+{
+"text": "Volunteer",
+"href": "https://www.helmingforny.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.helmingforny.com/yardsigns"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/HelmingforSenate"
+},
+{
+"text": "[image: IMG_7381-1.jpg]",
+"href": "https://secure.winred.com/helming-for-senate/pizza-with-pam?qr=true"
+},
+{
+"text": "[image: PH_logo_white-red-bkg.png]",
+"href": "https://www.helmingforny.com"
+},
+{
+"text": "[image: Winred-logo.png]",
+"href": "https://secure.winred.com/helming-for-senate/donate"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/senatorhelming"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/senatorhelming"
+},
+{
+"text": "[no text]",
+"href": "https://www.helmingforny.com#support"
+},
+{
+"text": "[no text]",
+"href": "https://www.helmingforny.com/connect-vote"
+},
+{
+"text": "[no text]",
+"href": "https://www.helmingforny.com/volunteer"
+},
+{
+"text": "pamhelming@gmail.com",
+"href": "mailto:pamhelming@gmail.com?subject=website+submission"
+}
 ]

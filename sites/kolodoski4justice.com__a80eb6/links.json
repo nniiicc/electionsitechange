@@ -1,10 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61553044765461",
-"https://kolodoski4justice.com/",
-"https://kolodoski4justice.com/about.html",
-"https://kolodoski4justice.com/contact.html",
-"https://kolodoski4justice.com/donations.html",
-"https://kolodoski4justice.com/index.html",
-"https://kolodoski4justice.com/news.php",
-"https://linkedin.com/in/mkolodoski"
+{
+"text": "About",
+"href": "https://www.kolodoski4justice.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.kolodoski4justice.com/contact.html"
+},
+{
+"text": "Donations",
+"href": "https://www.kolodoski4justice.com/donations.html"
+},
+{
+"text": "Home",
+"href": "https://www.kolodoski4justice.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.kolodoski4justice.com/#HomepageAbout"
+},
+{
+"text": "Learn More",
+"href": "https://www.kolodoski4justice.com/about.html"
+},
+{
+"text": "News",
+"href": "https://www.kolodoski4justice.com/news.php"
+},
+{
+"text": "Welcome",
+"href": "https://www.kolodoski4justice.com/index.html"
+},
+{
+"text": "[image: Elect Matthew Kolodoski Logo]",
+"href": "https://www.kolodoski4justice.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553044765461"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/mkolodoski/"
+}
 ]

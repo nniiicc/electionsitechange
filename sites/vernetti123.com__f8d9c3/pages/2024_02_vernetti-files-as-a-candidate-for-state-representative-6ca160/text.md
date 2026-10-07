@@ -1,4 +1,3 @@
-Vernetti Files as a Candidate for State Representative
-Feb 27, 2024
-Today, Jeff made it official and filed as a candidate for State Representative for the 123rd District.
+info@vernetti123.com Facebook Facebook HOME ABOUT PRESS RELEASES DONATE Select Page Vernetti Files as a Candidate for State Representative Feb 27, 2024 Today, Jeff made it official and filed as a candidate for State Representative for the 123rd District.
 He will be a strong voice in Jefferson City for our District and he would appreciate your support in any way possible!
+Donate PRESS RELEASES Vernetti Files as a Candidate for State Representative February 27, 2024 Vernetti Successfully Vetted by Camden County Republican Central Committee January 31, 2024 Vernetti Awarded Community Champion Impact Award January 23, 2024 Vernetti Featured in LO Profile Magazine “Big Business” Issue January 10, 2024 Vernetti Announces Run for State Representative for 123rd District October 25, 2023 HOME ABOUT PRESS RELEASES DONATE Facebook Paid for by the Committee to Elect Jeff Vernetti, Craig Roonan Treasurer

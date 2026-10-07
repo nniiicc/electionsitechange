@@ -1,7 +1,11 @@
 {
  "description": "On NewsNation, Deb Haaland, the Democratic nominee for governor in New Mexico, talked about her plan to stand up to Donald Trump and put more money back into the pockets of New Mexicans.",
  "final_url": "https://debhaaland.com/2026/09/newsnation-deb-haaland-projected-to-win-gubernatorial-race-in-new-mexico/",
- "paid_for_by": null,
+ "fingerprint": "43800b192415336f8d1f8443b7c3a9099a299b04",
+ "format": 3,
+ "paid_for_by": "authorized by Deb for New Mexico Contact Privacy Policy Made with Middle Seat",
  "title": "NewsNation: Deb Haaland Projected to Win Gubernatorial Race in New Mexico | Deb Haaland for New Mexico",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

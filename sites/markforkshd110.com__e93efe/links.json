@@ -1,12 +1,62 @@
 [
-"https://bsky.app/profile/mschauk.bsky.social",
-"https://facebook.com/profile.php?id=61589295358633",
-"https://markforkshd110.com/",
-"https://markforkshd110.com/about",
-"https://markforkshd110.com/contact",
-"https://markforkshd110.com/endorsements",
-"https://markforkshd110.com/get-involved",
-"https://markforkshd110.com/my-platform",
-"https://markforkshd110.com/volunteer",
-"https://secure.actblue.com/donate/mark-schaukowitch-1"
+{
+"text": "About",
+"href": "https://www.markforkshd110.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.markforkshd110.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mark-schaukowitch-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.markforkshd110.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.markforkshd110.com/get-involved"
+},
+{
+"text": "Mark for Kansas HD 110",
+"href": "https://www.markforkshd110.com"
+},
+{
+"text": "My Platform",
+"href": "https://www.markforkshd110.com/my-platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markforkshd110.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61589295358633"
+},
+{
+"text": "[image: Mark S Logo take 2.png]",
+"href": "https://www.markforkshd110.com"
+},
+{
+"text": "[image: bluesky white]",
+"href": "https://bsky.app/profile/mschauk.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/mark-schaukowitch-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.markforkshd110.com/contact"
+},
+{
+"text": "[no text]",
+"href": "https://www.markforkshd110.com/volunteer"
+},
+{
+"text": "mark4kshd110@gmail.com",
+"href": "mailto:mark4kshd110@gmail.com"
+}
 ]

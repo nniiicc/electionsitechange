@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day%21+&dates=20261103T170000Z%2F20261103T180000Z",
-"https://davenportmn27a.house/",
-"https://davenportmn27a.house/calendar",
-"https://davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-clmxh-d2kj6",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-fd43m",
-"https://davenportmn27a.house/calendar/primary-election-day-lgcer?format=ical",
-"https://davenportmn27a.house/campaign-priorities",
-"https://davenportmn27a.house/cart",
-"https://davenportmn27a.house/endorsements",
-"https://davenportmn27a.house/our-district",
-"https://davenportmn27a.house/the-patriot-newspaper-articles",
-"https://davenportmn27a.house/the-patriot-newspaper-articles-1",
-"https://facebook.com/profile.php?id=61586379279340",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote"
+{
+"text": "0",
+"href": "https://www.davenportmn27a.house/cart"
+},
+{
+"text": "About",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Campaign Priorities",
+"href": "https://www.davenportmn27a.house/campaign-priorities"
+},
+{
+"text": "Davenport for Minnesota House 27A",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davenportmn27a.house/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day%21+&dates=20261103T170000Z%2F20261103T180000Z"
+},
+{
+"text": "Home",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "ICS",
+"href": "https://www.davenportmn27a.house/calendar/primary-election-day-lgcer?format=ical"
+},
+{
+"text": "Next Next November 11 DFL SD27 Monthly Meeting",
+"href": "https://www.davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-clmxh-d2kj6"
+},
+{
+"text": "Our District",
+"href": "https://www.davenportmn27a.house/our-district"
+},
+{
+"text": "Previous Previous October 28 TBD Door Knocking",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-fd43m"
+},
+{
+"text": "The Patriot Newspaper",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586379279340"
+},
+{
+"text": "[no text]",
+"href": "mailto:vanessa@davenportmn27a.house"
+},
+{
+"text": "https://sos.mn.gov/elections-voting/other-ways-to-vote/",
+"href": "https://sos.mn.gov/elections-voting/other-ways-to-vote/"
+}
 ]

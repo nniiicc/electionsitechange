@@ -1,30 +1,8 @@
-Meet Woodson
-Issues
-Media
-More
-More
-Connect with Woodson on her Facebook, TikTok, Instagram, or LinkedIn.
-NC Senator pushes for school transparency bill as CMS violent threat suspect released from jail
-It doesn't have to be this hard to get divorced — Senator Bradley featured in Vox Media
-Charlotte law enforcement honors fallen officers at uptown memorial service
-NC Senator 'outraged' that man who threatened CMS school shootings given lower bond
-NC budget targets legal fund that could strip low-income residents of attorney help
-Opinion: 5 reasons Charlotte should rethink its "no" on I-77 tolls
-Senator Bradley pushes for change to strangulation law
-Senator Bradley files 41% of first-day bills in Senate
-NC Senate Democrats file "No Budget No Pay" Bill
-Discourse on SB50 —Permitless Concealed Carry of Handguns
-North Carolina Homeowners Score a Win Against HOAs
-NC Leaders aren't showing interest as gas prices rise.
-Here's why
-Getting Money to Survivors: Human Trafficking Commission Investigation
-Mecklenburg County officials highlight safe center after child custody exchange shooting
-Under the Dome Podcast featuring
-Senator Bradley
-Hundreds of bills never stood a chance this legislative session.
+top of page Meet Woodson Issues Media Social Media News Video More Contact Us Endorsements Join the Team More Use tab to navigate through the menu items.
+DONATE VOLUNTEER Connect with Woodson on her Facebook, TikTok, Instagram, or LinkedIn.
+NC Senator pushes for school transparency bill as CMS violent threat suspect released from jail Link It doesn't have to be this hard to get divorced — Senator Bradley featured in Vox Media Link Charlotte law enforcement honors fallen officers at uptown memorial service Link NC Senator 'outraged' that man who threatened CMS school shootings given lower bond Link NC budget targets legal fund that could strip low-income residents of attorney help Link Opinion: 5 reasons Charlotte should rethink its "no" on I-77 tolls Link Senator Bradley pushes for change to strangulation law Link Senator Bradley files 41% of first-day bills in Senate Link NC Senate Democrats file "No Budget No Pay" Bill Link Discourse on SB50 —Permitless Concealed Carry of Handguns Link ​ North Carolina Homeowners Score a Win Against HOAs Link NC Leaders aren't showing interest as gas prices rise.
+Here's why Link Getting Money to Survivors: Human Trafficking Commission Investigation Link Mecklenburg County officials highlight safe center after child custody exchange shooting Link Under the Dome Podcast featuring Senator Bradley Link Hundreds of bills never stood a chance this legislative session.
 They had one thing in common.
-Sen.
-Bradley meets with FOP Lodge 9 President to Discuss Workers' Compensation
-Bradley Sponsors Bill Aiming to Standardize Notifications Over School Threats in NC
-Daimler Truck Financial plans $7.8M HQ in Charlotte, creating 276 jobs
-Financial services groups to create more than 700 jobs in Charlotte
+Link Sen.
+Bradley meets with FOP Lodge 9 President to Discuss Workers' Compensation Link Bradley Sponsors Bill Aiming to Standardize Notifications Over School Threats in NC Link Daimler Truck Financial plans $7.8M HQ in Charlotte, creating 276 jobs Link Financial services groups to create more than 700 jobs in Charlotte Link Woodson Bradley for NC 1001 Wade Ave, Ste 323 Raleigh, NC 27605 Meet Woodson Issues News DONATE Designed by cwkwebsites Paid for by Woodson Bradley for NC Contact Us!
+Facebook TikTok Instagram bottom of page

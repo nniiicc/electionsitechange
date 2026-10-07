@@ -1,41 +1,60 @@
-Dan is running to Make Winona county an affordable place to live, raise a family, and retire.
-Sign up to join Dan’s campaign for Minnesota State House.
-Meet Dan
-Dan Wilson is a farmer, laborer, and community advocate who has called Winona County home for the past twenty years.
+< ! ––HIDE HEADER––> <! ––HIDE HEADER––> Home Meet Dan Values Volunteer Contribute Home Meet Dan Values Volunteer Contribute 0 Skip to Content Contribute Open Menu Close Menu Contribute Open Menu Close Menu Contribute Dan is running to Make Winona county an affordable place to live, raise a family, and retire.
+Sign up to join Dan’s campaign for Minnesota State House. “ Winona County, needs more housing and more childcare to be able to thrive, so that is what I am committing to doing...
+I believe our future is worth fighting for. ” Meet Dan Dan Wilson is a farmer , laborer , and community advocate who has called Winona County home for the past twenty years.
 Dan spent six years as a live-in volunteer at Bethany House before helping lead the grassroots movement that banned frac sand mining in Winona County.
 He and his wife, Rachel, farm rotationally grazed cattle in rural Winona County, where they are raising their two children.
 Dan serves on the co-chair Winona Economic Development Authority, chairs Hope for Homes, and volunteers with the Wilson Fire Department.
 He is running for House District 26A because Winona deserves a champion for affordability, not a party follower.
-Values
-I am running for office because I believe Winona should be an affordable place for people to raise families and make a home.
+Get to Know Dan Values I am running for office because I believe Winona should be an affordable place for people to raise families and make a home.
 As a Winonan myself, I understand the issues most important to voters.
 To achieve these goals, I vow to work with anyone who has Winonan's best interests in mind.
-People over politics
-The issues here are driving me to run for office and fight for Winona in St.
+People over politics The issues here are driving me to run for office and fight for Winona in St.
 Paul.
 Our political system has deteriorated into a 2-party shouting match with purity tests and loyalty oaths.
 As a Farmer and a Laborer, my values line up with the historic Farm Labor Party, now the Democratic Farm Labor party, but I promise you that I am running first as a Winonan who wants to make Winona better for everyone.
 That means making sure I deliver on these promises and work with whoever will work with me to make that happen, regardless of the letter behind someone's name.
-More
-Housing
-Winona County has a housing crisis.
+More Housing Winona County has a housing crisis.
 I am committing to building 100 units of affordable housing in downtown Winona, and making it easier for neighbors to build more homes for neighbors.
-Affordable
-Childcare
-Winona County is short 500 slots of daycare.
+Affordable Childcare Winona County is short 500 slots of daycare.
 I am committing to fully funding a daycare center in our school district and making it easier for more in-home daycares to be built.
-Economic
-Fairness
-I am committing to lowering insurance prices by enacting policies that break up monopolies and fight corporate greed.
-Farm & Labor Endorsed
-Your Voice Matters
-Big change, real change, starts at the local level and moves up.
+Economic Fairness I am committing to lowering insurance prices by enacting policies that break up monopolies and fight corporate greed.
+Read more about Dan's Platform Farm & Labor Endorsed Your Voice Matters Big change, real change, starts at the local level and moves up.
 Especially now, all of our attention is driven by the rage fueled stories about the federal government designed to make us angry and tune out.
 State politics can be different.
 This race is different.
-Decisions that are made at state level:
-Who decides how much you pay in college tuition
-If your school needs to fire your child's teacher due to budget cuts
-If the potholes on your street get filled
-If your community has enough for housing for everyone to thrive
-Press & Media
+Decisions that are made at state level: Who decides how much you pay in college tuition If your school needs to fire your child's teacher due to budget cuts If the potholes on your street get filled If your community has enough for housing for everyone to thrive Find your voting location Are you registered?
+Are you in 26A?
+Student Voting Press & Media EXCLUSIVE: Minnesota House candidate Dan Wilson says, ‘Winona first, party last’ '“The broader pitch Wilson says he wants voters to hear and understand is simple: He wants to put Winona County and its issues first and not ‘hype up culture war BS.’” Read More Are Winona's housing reforms working? “‘It's not a really big swing to say, ‘Let's let the market decide what parking needs are for housing,’ Wilson said.
+He added, ‘These are changes that might potentially have an impact on development that will come online in the next like three to four years, potentially.
+So it's like having your house on fire, and we're arguing about whether or not we should turn on the garden hose.’” Read More Lt.
+Gov.
+Peggy Flanagan discusses 'right to repair' with farmers at local farm “Minnesota Lt.
+Gov.
+Peggy Flanagan met with local farmers Monday for a discussion about the challenges they’re facing and what support they need to strengthen their operations.
+The conversation was held at the farm of House district candidate Dan Wilson, who is campaigning on improving access to resources for farmers…” Read More Minnesota farmers raise concerns over their right to repair equipment amid John Deere settlement “‘The argument from John Deere of like ‘we’ve made this incredibly complicated piece of machinery, we need supercomputers’ help to solve.’ It turns out that is not the case,’ said Dan Wilson, a local farmer and state house candidate…” Read More Deere 'right to repair' settlement is a start but not enough [...] Lt.
+Gov.
+Peggy Flanagan, along with legislative candidates Dan Wilson and Jack Hedin, discussed the issue during a July 13 campaign stop in Rushford, days after John Deere agreed in U.S.
+District Court to a settlement with the Federal Trade Commission and several states, including Minnesota, over claims the company blocked farmers from repairing their own equipment outside of authorized dealers…” Read More Political season sprouts among us “Harbinger of yard-sign mania.
+A household on a rural road flaunts support for House 26-A candidate Dan Wilson…” Read More District 26 Democrats: We’re energized to take over “Democrats emerged from their District 26 endorsement convention with confidence about the November election…” Read More Dan Wilson: What Living at a Catholic Worker House Taught Me “In this episode of How Life Shapes Us, Dan Wilson reflects on the unexpected paths that led him from college plans for medical school to a life rooted in community service.
+His journey includes running a summer camp for cows, living and working at Bethany House, and advocating for greater voter turnout in southeastern Minnesota.” Listen Now MN-1 hopeful sees Democratic ticket as dream team “A couple hundred volunteers rallied to support Mn-1 Congressional candidate Jake Johnson, District 26 State Senate candidate Jack Hedin, and 26-A House candidate Dan Wilson…” Read More The Real Housing Problem in Winona (And How to Fix It) w/ Dan Wilson “We dive deep into local housing needs, zoning challenges, and Dan’s ideas on how we can make housing more affordable and accessible for our community.
+If you care about housing, local leadership, or the direction of our community, this is an episode you won’t want to miss.” Watch Now Wilson is back, this time for Winona House seat “Wilson announced his new candidacy from the bed of a white pickup truck at a parking lot at Second and Huff streets.
+Wilson said he chose the site because of its potential for desperately needed senior housing in Winona.” Read More Rural broadband access listening session Sept.
+6 “Engage Winona and staff from the Minnesota Department of Employment and Economic Development (DEED) are co-hosting a Digital Opportunity Listening Session in southern Winona County.
+DEED has written a Digital Opportunity Plan outlining how to best use new funding from the federal government…” Read More Engage Winona to host regional broadband conversation with Department of Employment and Economic Development “Engage Winona will host a digital opportunity listening session Sept.
+6 with the Minnesota Department of Employment and Economic Development at the Witoka Tavern and Reception Hall, according to a press release…” Read More Winona nonprofit hosts listening session about internet access “Winona, Minn.
+(WKBT) -- More than 3,000 homes in Winona County don't have access to the internet according to Dan Wilson, a policy assistant at Engage Winona…” Read More Rural broadband access “The State of Minnesota recently passed a state budget that will include up to $215 million over the next several years to expand internet access.
+With an additional $650 million coming from the federal government, there will be a lot of resources dedicated to solving the problem of broadband access…” Read More Share input on rural broadband needs June 17 “The Minnesota Department of Economic Expansion is helping host a Digital Inclusion Committee in Wiscoy Township in southern Winona County.
+The committee will receive community feedback from folks that are lacking good broadband access, then use this information to help write Minnesota’s Digital Equity Plan. “ Read More Can Winona County turn around its lagging voter turnout?
+These people are working to do that “In 2020, the last presidential election, Winona County’s 67.3 percent turnout was the lowest among southeastern Minnesota counties and far below the 81.6 percent statewide figure…” Read More Block parties share chances to get involved “On a recent summer evening at Maplewood Community Center, Engage Winona held a block party during which community members could register to vote and talk with a number of community organizations about ways to get involved…” Read More East Rec's first block party since pandemic “Community members got out to enjoy the sun, play yard games, chase bubbles, make arts and crafts, meet each other, and learn about local nonprofits last week at the city’s first East Recreation Center (ERC) block party since 2019…” Read More Why is local voter turnout low?
+“Over the last several elections, voter turnout in Winona County has been among the 10 lowest across all Minnesota counties.
+A few community members involved in local politics or nonprofits said voter engagement and campaign strategies may contribute to that trend…” Read More Let’s face up to the risks associated with groundwater nitrates in southeastern Minnesota “As a farmer in southeastern Minnesota, I’ve seen my neighbors contract a myriad of entirely preventable diseases related to the water they have been drinking.
+Toddlers in our daycares have experienced birth defects and developmental delays due to preterm births and low birth rates…” Read More EPA Ruling Is a Wake-up Call to All of Us “Similar to what the EDA did in Flint, Mich., the EPA has determined that local Minnesota agencies have not been doing enough to protect south-eastern Minnesota residents from harmful elevated nitrate levels in their drinking water…” Read More Conservation programs can help solve nitrate crisis “We must first lament that for the past 30 years, there have been farmers who have had chemo for cancers caused by nitrates in their groundwater.
+Some of our neighbors have contracted a myriad of entirely preventable diseases…” Read More Addressing Nitrate in Southeast Minnesota “MDH met with Dan, who is a farmer and advocate in Southeast Minnesota working with Project REACH through the University of Minnesota.
+We discussed possible legislative proposal to help fund community health workers to preform water quality tests and provide education…“ Read More Let’s face up to the risks associated with groundwater nitrates in southeastern Minnesota “Many farmers, like myself, try to farm in a way that improves the water that leaves our farms.
+Minnesota has one of the highest rejection rates of federal soil health programs, due to lack of funds.
+And yet, the number of contaminated wells in Minnesota continues to rise, and the toll on Minnesotans continues to worsen…” Read More Winona Quakers affirm diversity, equity and inclusion values “Winona Friends Meeting, as a member of the Religious Society of Friends (Quakers), affirms that every person is created with inherent dignity and worth.
+Rooted in the sacred call to love our neighbors as ourselves, we embrace diversity, equity, and inclusion as sacred mandates, not optional ideals…” Read More Winona County names comp plan committee “After sharp disagreement earlier this spring about the importance of updating the plan and concerns about rural representation in the process, the Winona County Board unanimously appointed a Comprehensive Plan Steering Committee made up of predominantly rural residents late last month…” Read More Wilson: Safeguards needed against Big Brother “Said Wilson: ‘These cameras should have robust safeguards to protect our privacy and constitutional freedoms, while also allowing local law enforcement to have valuable tools to help solve serious crimes.
+Feelings about mass surveillance transcend political ideology.
+It’s pretty straightforward: We shouldn’t have to trade our privacy for our safety.
+We can — and we should — demand both.’” Read More Recently View fullsize View fullsize View fullsize View fullsize View fullsize Donate by Mail Dan Wilson for House Committee PO Box 381 Winona, MN 55987 Meet Dan Values Volunteer Student Resources Donate Media Kit Show Your Support!
+Contact Us Prepared and Paid for by the Dan Wilson for House Committee

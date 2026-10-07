@@ -1,14 +1,62 @@
 [
-"https://bsky.app/profile/gailpellerin.bsky.social",
-"https://facebook.com/gailpellerinforassembly",
-"https://gailpellerinforassembly.com/",
-"https://gailpellerinforassembly.com/about-gail",
-"https://gailpellerinforassembly.com/endorsements-26",
-"https://gailpellerinforassembly.com/get-involved",
-"https://gailpellerinforassembly.com/press",
-"https://gailpellerinforassembly.com/priorities",
-"https://gailpellerinforassembly.com/voting",
-"https://instagram.com/gailpellerinforassembly",
-"https://secure.ngpvan.com/--iT6BCr7kyb7R0C7X5Rdw2",
-"https://youtube.com/@GailPellerinForAssembly"
+{
+"text": "ABOUT GAIL",
+"href": "https://www.gailpellerinforassembly.com/about-gail"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/--iT6BCr7kyb7R0C7X5Rdw2"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.gailpellerinforassembly.com/endorsements-26"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.gailpellerinforassembly.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.gailpellerinforassembly.com"
+},
+{
+"text": "I ENDORSE GAIL!",
+"href": "https://www.gailpellerinforassembly.com/get-involved"
+},
+{
+"text": "PRESS",
+"href": "https://www.gailpellerinforassembly.com/press"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.gailpellerinforassembly.com/priorities"
+},
+{
+"text": "VOTING",
+"href": "https://www.gailpellerinforassembly.com/voting"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gailpellerinforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gailpellerinforassembly"
+},
+{
+"text": "[image: Untitled design (2)]",
+"href": "https://bsky.app/profile/gailpellerin.bsky.social"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@GailPellerinForAssembly"
+},
+{
+"text": "info@gailpellerinforassembly.com",
+"href": "mailto:info@gailpellerinforassembly.com"
+},
+{
+"text": "‪(408) 214-4521",
+"href": "tel:%E2%80%AA(408)%20214-4521"
+}
 ]

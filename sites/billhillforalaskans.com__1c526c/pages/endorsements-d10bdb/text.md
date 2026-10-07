@@ -1,107 +1,34 @@
-Bill Hill is building the coalition to beat Nick Begich
-Endorsed by:
-Organizations
-State legislators
-Alaska Native leaders
-With contributions from:
-Alaska communities
-Bill is endorsed by:
-Alaska AFL-CIO, National Education Association, Alaska Professional Firefighters Association, The Alaska Center, Advance Native Leadership, End Citizens United, and more
-Organizations
-Endorse Bill Hill for Congress
-Your endorsement will help convey trust and support for Bill Hill as a leader.
+Skip to content Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store DONATE Facebook Instagram X-twitter Tiktok Youtube Flickr Bill Hill is building the coalition to beat Nick Begich Endorsed by: 0 Organizations 0 State legislators 0 + Alaska Native leaders With contributions from: 0 + Alaska communities Bill is endorsed by: Alaska AFL-CIO, National Education Association, Alaska Professional Firefighters Association, The Alaska Center, Advance Native Leadership, End Citizens United, and more Organizations Endorse Bill Hill for Congress Your endorsement will help convey trust and support for Bill Hill as a leader.
 Click on the relevant button below to fill out an endorsement form.
-Elected Officials & Community Leaders
-Anna Brawley
-Anchorage Assembly District 3,
-West Anchorage
-Bryce Edgmon
-Speaker of the House, State Rep.
-District 37,
-Bristol Bay, Lake & Pen, the Aleutians
-Calvin Schrage
-State Rep.
-District 12,
-Anchorage
-Carl Jacobs
-Anchorage School Board, Seat G
-Donny Olson
-State Senator, District T,
-Northwest and Arctic Alaska
-Grier Hopkins
-Fairbanks North Star Borough Mayor
-Kameron Perez Verdia
-Anchorage Assembly District 3,
-West Anchorage
-Kelly Lessens
-Anchorage School Board, Seat B
-Ky Holland
-State Rep.
-District 9
-Anchorage, Girdwood Whittier
-Les Gara
-2022 Democratic gubernatorial nominee Former Alaska State Representative
-Lyman Hoffman
-State Senator, District S
-Yukon-Kuskokwim Delta, Alaska Peninsula, Aleutian Islands
-Maxine Dibert
-State Rep.
-District 31,
-Fairbanks
-Nellie Unangiq Jimmie
-State Rep.
-District 38
-Lower Kuskokwim
-Paul McDonogh
-Anchorage School Board, Seat D
-Rachel Blakeslee
-Anchorage School Board, Seat C
-Rebecca Himschoot
-State Rep.
-District 2
-Sitka, Petersburg, Yakutat
-Robyn Niayuq Frier
-State Rep.
-District 40
-North Slope and Northwest Arctic
-Sydney Scout
-Anchorage Assembly District 1,
-North Anchorage
-35+ Alaska Native leaders
-Edward Alexander
-Rob Allen
-Stevi Angasan
-Kristina Andrew
-Charisse Arce
-Wáahlaal Gíidaak Blake
-Callan Chythlook-Sifsof
-Eddie Clark
-Casey Coupchiak
-Maxine Dibert
-Bryce Edgmon
-Robyn Frier
-Penny Gage
-Sonta Hamilton Roach
-Lyman Hoffman
-Qunmiġu Kacey Hopson
-Nellie Jimmie
-Aucha Kameroff
-Cordelia Kellie
-Toni Mallott
-Judy Jo Matson
-Joe Nelson
-Donny Olson
-Alana Peterson
-Russ Phelps
-Ayyu Qassataq
-Connor Romer
-Irene Rowan
-AlexAnna Salmon
-Christina Salmon Bringhurst
-Raina Thiele
-Aleesha Towns-Bain
-Láaganaay Tsiits Gitanee (legal name changed from Liz Medicine Crow)
-X̱’unei Twitchell
-Maria Williams
-George Wilson
-Lisa Worl
+Commercial Fishermen for Bill Alaska Native Leaders for Bill Educators for Bill Small business owners for BIll Veterans for bill Elected Officials & Community Leaders Anna Brawley Anchorage Assembly District 3, West Anchorage Bryce Edgmon Speaker of the House, State Rep.
+District 37, Bristol Bay, Lake & Pen, the Aleutians “As I’ve gotten to know Bill, I’ve seen how passionate he is about making this state a better place to raise your family.
+We need more of that in Congress.
+Bill’s goals are clear: he wants Alaska to be prosperous and more affordable.
+Bill is a family man who will put families like ours first.” Calvin Schrage State Rep.
+District 12, Anchorage Carl Jacobs Anchorage School Board, Seat G Donny Olson State Senator, District T, Northwest and Arctic Alaska Grier Hopkins Fairbanks North Star Borough Mayor Kameron Perez Verdia Anchorage Assembly District 3, West Anchorage Kelly Lessens Anchorage School Board, Seat B “Our state is in dire need of leadership that not only understands how Alaskans are struggling, but is also committed to building the kind of economy that keeps our families here.
+Bill Hill brings real-world experience in business and education, and understands how workforce development, strong schools, and smart community and economic investment must work together.
+We need him voting on important legislation in Congress and collaborating effectively to secure the partnerships and resources that will help create real jobs and lasting opportunity for current and future generations of Alaskans.” Ky Holland State Rep.
+District 9 Anchorage, Girdwood Whittier Les Gara 2022 Democratic gubernatorial nominee Former Alaska State Representative Lyman Hoffman State Senator, District S Yukon-Kuskokwim Delta, Alaska Peninsula, Aleutian Islands “As a teacher, I know firsthand the challenges our schools and kids face everyday.
+Bill Hill is a lifelong educator who understands the difficulties we experience.
+He will be a strong advocate for kids and for public education.
+He’ll fight for working families every day if we send him to Congress.” Maxine Dibert State Rep.
+District 31, Fairbanks “From housing to infrastructure to healthcare, there are so many issues that require urgent action in communities like the ones I represent in Western Alaska.
+We need representation in DC who will go to bat for our communities, and that’s a major reason why I’m so enthusiastic about Bill representing us in Congress.
+He has a deep connection to our state, the land, and the working people who count on us to serve them.
+I’m proud to endorse him.” Nellie Unangiq Jimmie State Rep.
+District 38 Lower Kuskokwim Paul McDonogh Anchorage School Board, Seat D Rachel Blakeslee Anchorage School Board, Seat C “I have encountered many struggling families during my career as a classroom educator.
+As a former teacher, Bill Hill has seen what I’ve seen.
+He knows we need to invest in education.
+But he also knows that kids can’t learn when families can’t pay the bills, and the people of Alaska are facing rising costs when it comes to healthcare, utilities, groceries.
+It’s threatening our ability to stay in the state and communities we love.
+Everything is getting more expensive, and we need someone like Bill to take back this seat for working Alaskans.” Rebecca Himschoot State Rep.
+District 2 Sitka, Petersburg, Yakutat “My community of Utqiagvik is the northernmost community in the entire United States.
+It’s remote, and has no connection to Alaska’s highway system.
+Communities like mine are often forgotten about, but our people deserve support and representation that accounts for our unique way of life, and that includes subsistence lifestyles.
+I’ve known Bill for several years and am proud to endorse him for Congress.
+He knows what it means to feed your family through subsistence hunting and fishing and I know he’ll advocate for communities like mine in DC.” Robyn Niayuq Frier State Rep.
+District 40 North Slope and Northwest Arctic Sydney Scout Anchorage Assembly District 1, North Anchorage 35+ Alaska Native leaders Edward Alexander Rob Allen Stevi Angasan Kristina Andrew Charisse Arce Wáahlaal Gíidaak Blake Callan Chythlook-Sifsof Eddie Clark Casey Coupchiak Maxine Dibert Bryce Edgmon Robyn Frier Penny Gage Sonta Hamilton Roach Lyman Hoffman Qunmiġu Kacey Hopson Nellie Jimmie Aucha Kameroff Cordelia Kellie Toni Mallott Judy Jo Matson Joe Nelson Donny Olson Alana Peterson Russ Phelps Ayyu Qassataq Connor Romer Irene Rowan AlexAnna Salmon Christina Salmon Bringhurst Raina Thiele Aleesha Towns-Bain Láaganaay Tsiits Gitanee (legal name changed from Liz Medicine Crow) X̱’unei Twitchell Maria Williams George Wilson Lisa Worl Endorsement press releases The United Auto Workers Region 6 Western States CAP & PAC Council endorse Bill Hill Labor support for Bill Hill continues to grow Read More July 6, 2026 Bill Hill returns to Bristol Bay for 49th commercial fishing opener Bill Hill has fished Bristol Bay his whole life.
+Running for Congress won’t change that.
+Read More July 3, 2026 Alaska Native leaders from across Alaska back Bill Hill Alaska Native leaders from across Alaska back Bill Hill Read More June 29, 2026 UFCW Local 1496 Endorses Bill Hill for Congress Organized labor support for Bill Hill grows as union representing thousands of grocery and retail workers endorses campaign Read More June 24, 2026 The Association of Flight Attendants-CWA endorses Bill Hill Largest union representing flight attendants backs Hill for Congress Read More June 23, 2026 The Alaska Public Employees Association endorses Bill Hill APEA/AFT represents thousands of Alaska public employees Read More June 22, 2026 Load More It's going to take hard work to fix this country.
+But that's okay, hard work is what we're all about.
+DONATE CONTACT Commercial fisherman Construction worker Teacher and Superintendent Small business owner Menu Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Social Media Bill Hill for Alaskans billhillforalaskans @BillHillAK billhillforalaskans BillHillForAlaskans billhillforalaskans Checks can be mailed to: Bill Hill For Alaskans PO Box 220703, Anchorage AK 99522 Messaging & visual assets Paid for by Bill Hill for Alaskans Privacy Policy

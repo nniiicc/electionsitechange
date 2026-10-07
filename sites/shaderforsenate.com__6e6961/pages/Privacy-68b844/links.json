@@ -1,14 +1,58 @@
 [
-"https://efundraisingconnections.com/c/RhondaShader",
-"https://facebook.com/shaderforsenate",
-"https://instagram.com/shaderforsenate",
-"https://shaderforsenate.com/",
-"https://shaderforsenate.com/Privacy",
-"https://shaderforsenate.com/contact",
-"https://shaderforsenate.com/endorsements",
-"https://shaderforsenate.com/gallery",
-"https://shaderforsenate.com/issues",
-"https://shaderforsenate.com/meet-rhonda",
-"https://shaderforsenate.com/news",
-"https://shaderforsenate.com/terms"
+{
+"text": "Contact",
+"href": "https://shaderforsenate.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/RhondaShader"
+},
+{
+"text": "Endorsements",
+"href": "https://shaderforsenate.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://shaderforsenate.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://shaderforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://shaderforsenate.com/issues/"
+},
+{
+"text": "Meet Rhonda",
+"href": "https://shaderforsenate.com/meet-rhonda/"
+},
+{
+"text": "News",
+"href": "https://shaderforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://shaderforsenate.com/Privacy/"
+},
+{
+"text": "Terms of Use",
+"href": "https://shaderforsenate.com/terms/"
+},
+{
+"text": "[image: Rhonda Shader for Senate]",
+"href": "https://shaderforsenate.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/shaderforsenate"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/shaderforsenate/"
+},
+{
+"text": "contact us",
+"href": "https://shaderforsenate.com/contact/"
+}
 ]

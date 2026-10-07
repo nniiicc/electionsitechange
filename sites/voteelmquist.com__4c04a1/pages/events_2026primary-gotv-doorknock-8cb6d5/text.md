@@ -1,9 +1,5 @@
-Back to All Events
-Join Aisha and Senator John Marty, Representatives David Gottfried and Meg Luger-Nikolai, Ramsey County Commissioner Tara Jebens-Singh, and Ramsey County Attorney John Choi to hit the doors across 40A to remind voters about the Primary on Tuesday, August 11th!
-Previous
-Previous
-August 8
-New Brighton Stockyard Days Parade
-Next
-Next
-August 10
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events Primary GOTV Doorknock Sunday, August 9, 2026 12:00 PM 3:00 PM Greenfield Park 2335 Knoll Dr Mounds View, MN 55112 (map) Google Calendar ICS Join Aisha and Senator John Marty, Representatives David Gottfried and Meg Luger-Nikolai, Ramsey County Commissioner Tara Jebens-Singh, and Ramsey County Attorney John Choi to hit the doors across 40A to remind voters about the Primary on Tuesday, August 11th!
+RSVP Here Previous Previous August 8 New Brighton Stockyard Days Parade Next Next August 10 Primary GOTV Phonebank Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

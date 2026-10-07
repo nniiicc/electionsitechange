@@ -1,7 +1,9 @@
-My long-term prediction has been proven wrong.
+Skip to content Matt Loesby for Idaho Campaign Platform Who Am I?
+Can I Win?
+Help the Campaign Donate Search Archive June 2024 May 2024 March 2024 Categorise Libertarian Party Politics Uncategorized Recent Posts Remove Chase Oliver as the Libertarian Presidential Nominee June 17, 2024 I Was Wrong.
+May 1, 2024 TikTok Is Not The Target March 15, 2024 Tags Social Links Facebook Twitter LinkedIn Instagram matt May 1, 2024 My long-term prediction has been proven wrong.
 For the past 2-3 years, I have expected that the Fed would drop the target rate to near-zero in this time frame (Spring 2024).
-My reasoning, now disproven as the Fed has announced it will hold rates steady, was as follows:
-I believed the Fed would yield to pressure from the Biden Administration to lower rates in order to create a boom for election season.
+My reasoning, now disproven as the Fed has announced it will hold rates steady, was as follows: I believed the Fed would yield to pressure from the Biden Administration to lower rates in order to create a boom for election season.
 I am certain the Biden Administration has been applying that pressure; the Fed not yielding to it indicates a rift between the banking elite and the administration.
 I also saw the large amount of upcoming treasury bonds reaching maturity, which need to be rolled over this year.
 At these interest rates, we will see debt service surpass 1/3 of annual federal tax receipts.
@@ -18,3 +20,12 @@ The trend of suppressing anti-Zionist rhetoric through all possible institutions
 Ukraine will be set aside, since it distracts from Israel, but anti-Putin rhetoric will remain.
 But hey.
 We might get some tax breaks.
+Uncategorized Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Matt Loesby for Idaho Stop Doing Evil.
+Re-knit the Social Fabric.
+Know What Time It Is.
+Elect Matt Loesby to the US House for Idaho.
+About the Campaign Platform Who Am I?
+Can I Win?
+Help the Campaign Recent News Libertarian Party Politics (1) Uncategorized (2) Social Media Twitter Facebook Support the Campaign Donate Volunteer

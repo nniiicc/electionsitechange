@@ -1,9 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/15x8kHkQnh",
-"https://instagram.com/rah.wyo?igsh=Z2VzcTIwMzM0ZXFr",
-"https://wyorah.com/",
-"https://wyorah.com/donate",
-"https://wyorah.com/events-copy",
-"https://wyorah.com/voter-registration-information"
+{
+"text": "Check Your District",
+"href": "https://www.wyorah.com/events-copy"
+},
+{
+"text": "Donate",
+"href": "https://www.wyorah.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Voter Information",
+"href": "https://www.wyorah.com/voter-registration-information"
+},
+{
+"text": "[image: Wyo.Reinholz logo]",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/15x8kHkQnh/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rah.wyo?igsh=Z2VzcTIwMzM0ZXFr"
+}
 ]

@@ -1,7 +1,8 @@
+0 Skip to Content WALLYN FOR HAWAI'I Events Home Meet Wallyn Wallyn in Action The People's Priorities Donate Today Constituent Power Tools Become a Volunteer Open Menu Close Menu WALLYN FOR HAWAI'I Events Home Meet Wallyn Wallyn in Action The People's Priorities Donate Today Constituent Power Tools Become a Volunteer Open Menu Close Menu Events Home Meet Wallyn Wallyn in Action The People's Priorities Donate Today Constituent Power Tools Become a Volunteer TESTIFY!
 TESTIFY!
 TESTIFY!
 Every voice matters..
-In the spirit of aloha and truth, I believe the people’s voices must be heard and the laws upheld with honesty and respect.
+CLICK HERE TO ADD WALLYN AS PHONE CONTACT In the spirit of aloha and truth, I believe the people’s voices must be heard and the laws upheld with honesty and respect.
 Government should truly serve the people, and I am committed to speaking up for our ʻāina, our communities, and our future.
 When I testify, I stand as one of the people—born and raised in Hawaiʻi, rooted in this land, and guided by kuleana and mālama.
 I speak not for personal gain, but for our people—from our keiki to our kūpuna, and generations to come—with love, humility, and a commitment to what is pono.
@@ -11,3 +12,4 @@ I encourage you to share your manaʻo with our leaders so we can honor the past 
 Let us come together in unity and purpose to strengthen our community for all.
 Click on image above to see Wallyn speak on the devasting Lahaina fires on Maui.
 Click image above to see Wallyn Christian speak on another salary raise.
+Click here to see all testimonies WALLYN CHRISTIAN FOR HAWAI’I STATE SENATE 13 Contact Information: Phone: 808-450-4380 Email: wallynchristian@wallynforhawaii.net Paid for by Friends of Wallyn Christian PO Box 84, Aiea, HI 96701 ‍ ‍

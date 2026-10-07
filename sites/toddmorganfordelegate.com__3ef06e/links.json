@@ -1,15 +1,70 @@
 [
-"http://facebook.com/toddmorganfordelegate",
-"http://instagram.com/toddfordelegate",
-"http://toddmorganfordelegate.com/donate",
-"http://twitter.com/toddmorganfordelegate",
-"https://toddmorganfordelegate.com/",
-"https://toddmorganfordelegate.com/?page_id=95",
-"https://toddmorganfordelegate.com/contacts",
-"https://toddmorganfordelegate.com/donate",
-"https://toddmorganfordelegate.com/our-platform-style-2",
-"https://toddmorganfordelegate.com/privacy",
-"https://toddmorganfordelegate.com/terms-of-service",
-"https://toddmorganfordelegate.com/volunteering",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+{
+"text": "About Todd",
+"href": "https://toddmorganfordelegate.com/our-platform-style-2/"
+},
+{
+"text": "Contact Us",
+"href": "https://toddmorganfordelegate.com/?page_id=95"
+},
+{
+"text": "Contact Us",
+"href": "https://toddmorganfordelegate.com/contacts/"
+},
+{
+"text": "Donate",
+"href": "https://toddmorganfordelegate.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://toddmorganfordelegate.com/privacy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Terms of Service",
+"href": "https://toddmorganfordelegate.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://toddmorganfordelegate.com/volunteering/"
+},
+{
+"text": "[image: logo-footer-image]",
+"href": "https://toddmorganfordelegate.com/"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/toddmorganfordelegate"
+},
+{
+"text": "[image]",
+"href": "http://toddmorganfordelegate.com/donate"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/toddmorganfordelegate"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/toddfordelegate"
+},
+{
+"text": "[no text]",
+"href": "http://toddmorganfordelegate.com/donate"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/toddmorganfordelegate"
+},
+{
+"text": "todd@toddmorganfordelegate.com",
+"href": "mailto:todd@toddmorganfordelegate.com"
+}
 ]

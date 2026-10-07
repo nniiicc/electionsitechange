@@ -1,13 +1,2 @@
-or
-Send a Check made out to "Steve Manos for Congress"
-to 28097 Bradley Rd.
-Sun City, CA 92586
-Per FEC reporting guidelines,
-please include your phone number, Employer and Job Title
-28097 Bradley Road
-Sun City, CA 92586 951-479-3899 info@electstevemanos.com
-FEC# C00904557
-Placing a sign at my home (please include address above)
-Making calls to voters
-Passing out information to voters
-Hosting a fundraiser
+Skip to main content Home Meet Steve steve's record Issues 39th district events Get Involved Menu take action Make a Contribution Today DONATE HERE or Send a Check made out to "Steve Manos for Congress" to 28097 Bradley Rd.
+Sun City, CA 92586 Per FEC reporting guidelines, please include your phone number, Employer and Job Title get in touch 28097 Bradley Road Sun City, CA 92586 951-479-3899 info@electstevemanos.com FEC# C00904557 volunteer or request a sign Placing a sign at my home (please include address above) Making calls to voters Passing out information to voters Hosting a fundraiser Submit Contact 28097 Bradley Road Sun City, CA 92586 Phone: (951) 479-3899 Email:info@electstevemanos.com FEC ID# C00904557 Social media Facebook X Instagram

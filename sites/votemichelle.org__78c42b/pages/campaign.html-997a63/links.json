@@ -1,9 +1,38 @@
 [
-"https://google.com/maps/d/u/1/viewer?mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&ll=42.01218008097522%2C-88.0049856191592&z=15",
-"https://votemichelle.org/bio.html",
-"https://votemichelle.org/contact.html",
-"https://votemichelle.org/contribute.html",
-"https://votemichelle.org/endorse.html",
-"https://votemichelle.org/index.html",
-"https://votemichelle.org/issues.html"
+{
+"text": "BIO",
+"href": "https://www.votemichelle.org/bio.html"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.votemichelle.org/contact.html"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.votemichelle.org/contribute.html"
+},
+{
+"text": "Click here",
+"href": "https://www.google.com/maps/d/u/1/viewer?mid=1L7I2r4gat9nRWx9wfaizpn7XkA7i1qL4&ll=42.01218008097522%2C-88.0049856191592&z=15"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votemichelle.org/endorse.html"
+},
+{
+"text": "HOME",
+"href": "https://www.votemichelle.org/index.html"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votemichelle.org/issues.html"
+},
+{
+"text": "VoteMussman@gmail.com",
+"href": "mailto:votemussman@gmail.com"
+},
+{
+"text": "[image: Michelle Mussman — Candidate for State Representative]",
+"href": "https://www.votemichelle.org/index.html"
+}
 ]

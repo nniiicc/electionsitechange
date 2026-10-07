@@ -1,17 +1,106 @@
 [
-"https://bsky.app/profile/zickusfor89th.bsky.social",
-"https://facebook.com/profile.php?id=61590208576269",
-"https://instagram.com/zickusfor89th",
-"https://joemoss.com/",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/index.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/public-record.html",
-"https://zickusfor89th.com/the-choice.html",
-"https://zickusfor89th.com/voter-information.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/zickusfor89th.bsky.social"
+},
+{
+"text": "Browse the Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Campaign Comparison",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Compare candidate positions",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590208576269"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/zickusfor89th/"
+},
+{
+"text": "Issue & article archive",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Issues",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Local issues. Practical solutions.",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Public Record",
+"href": "https://zickusfor89th.com/public-record.html"
+},
+{
+"text": "Read Joe Moss’s campaign website",
+"href": "https://joemoss.com/"
+},
+{
+"text": "Read Meegan’s published issue statements",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Send a correction",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "The Choice",
+"href": "https://zickusfor89th.com/the-choice.html"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "ZickusJD@gmail.com",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "the public-record collection",
+"href": "https://zickusfor89th.com/public-record.html"
+}
 ]

@@ -1,7 +1,5 @@
-A Letter to the Conservatives of the Southwest Virginia
-I am not asking you to be a democrat, I'm asking you to vote for the more constitutional and conservative candidate.
-Me
-I know many of you have never voted for anybody with my letter next to their name so let me say I am not writing to ask you to change what you believe.
+top of page HOME WHO IS JOY PRIORITIES THE ISSUES EVENTS ENDORSEMENTS NEWS DONATE A Letter to the Conservatives of the Southwest Virginia Joy Powers Sep 17 4 min read I am not asking you to be a democrat, I'm asking you to vote for the more constitutional and conservative candidate.
+Me I know many of you have never voted for anybody with my letter next to their name so let me say I am not writing to ask you to change what you believe.
 I am writing because almost every conservative I’ve met during this campaign has agreed with me: the people running the federal government right now are not conservatives.
 And the career politicians who keep getting sent back, floated on money they don’t want you to trace, are not representing you either.
 It is time we stopped pretending they are.
@@ -65,5 +63,8 @@ I’m not asking you to switch parties but I am asking you to send an actual rep
 This isn’t partisan, it’s about our people.
 Hire me for two years.
 If I do not do what I said I would do, fire me.
-That is how it was built to work, and it only works if somebody is willing to do it.
--Joy
+That is how it was built to work, and it only works if somebody is willing to do it. -Joy Recent Posts See All Joy Powers to Hold Town Hall in Martinsville Joy Powers to Hold Town Hall in Russell County Morgan Griffith Refuses Debates With Joy Powers, Says Voters “Already Know” Where He Stands HOME WHO IS JOY PRIORITIES THE ISSUES EVENTS ENDORSEMENTS NEWS DONATE More Use tab to navigate through the menu items.
+P.O.
+Box 321 MONETA, VA 24121 connect@joyforva.com Paid for by Joy for Virginia © # by Joy for Virginia.
+Privacy Policy.
+Powered and secured by Wix bottom of page

@@ -1,6 +1,4 @@
-Your choice between two visions for the future
-Putting trust in the American people
-A few days ago, on October 28, my opponent announced on his website that “federal tax dollars return to Anaheim as part of nearly $15 million” that he was able to secure for local community projects in the 2024 federal budget.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Your choice between two visions for the future Nov 4 Written By David Pan Putting trust in the American people A few days ago, on October 28, my opponent announced on his website that “federal tax dollars return to Anaheim as part of nearly $15 million” that he was able to secure for local community projects in the 2024 federal budget.
 In this model of government, we send our money to Washington, and then our lawmakers work to get it back in the form of grants to local government and non-profit organizations.
 Those organizations then spend this money in ways that they think would be best for certain groups of people.
 My opponent’s main argument for staying in office is to participate in this tax and spend merry go round in which our money is taken by the federal government and then filters back down to us through programs designed by government.
@@ -24,3 +22,9 @@ In short, I want to support your hopes and plans for your future.
 I respectfully ask for your vote.
 It would be an honor to serve as your congressman.
 You can find out more about my campaign and make a donation at DavidPanforCongress.com.
+David Pan Previous Previous A New Declaration Next Next Senator Gloria Romero (Ret.) Endorses David Pan for Congress in 2024 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

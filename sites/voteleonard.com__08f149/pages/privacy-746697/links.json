@@ -1,15 +1,58 @@
 [
-"http://allaboutcookies.org/",
-"http://voteleonard.com/",
-"https://facebook.com/profile.php?id=61578548098436",
-"https://google.com/intl/en/policies/privacy/.",
-"https://instagram.com/stephanie_lyn_leonard",
-"https://tools.google.com/dlpage/gaoptout.",
-"https://voteleonard.com/",
-"https://voteleonard.com/about",
-"https://voteleonard.com/contact",
-"https://voteleonard.com/donate",
-"https://voteleonard.com/priorities",
-"https://voteleonard.com/privacy",
-"https://x.com/@Lynforstaterep"
+{
+"text": "About",
+"href": "https://voteleonard.com/about"
+},
+{
+"text": "Contact",
+"href": "https://voteleonard.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://voteleonard.com/donate"
+},
+{
+"text": "Home",
+"href": "https://voteleonard.com/"
+},
+{
+"text": "Priorities",
+"href": "https://voteleonard.com/priorities"
+},
+{
+"text": "Privacy",
+"href": "https://voteleonard.com/privacy"
+},
+{
+"text": "[image]",
+"href": "https://voteleonard.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578548098436"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stephanie_lyn_leonard/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@Lynforstaterep"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout.",
+"href": "https://tools.google.com/dlpage/gaoptout."
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy/.",
+"href": "https://www.google.com/intl/en/policies/privacy/."
+},
+{
+"text": "www.voteleonard.com",
+"href": "http://www.voteleonard.com"
+}
 ]

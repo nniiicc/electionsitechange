@@ -1,20 +1,82 @@
 [
-"https://bsky.app/profile/anitaearls.bsky.social",
-"https://earls4justice.com/",
-"https://earls4justice.com/about",
-"https://earls4justice.com/cart",
-"https://earls4justice.com/endorsements",
-"https://earls4justice.com/leandro",
-"https://earls4justice.com/news",
-"https://earls4justice.com/privacy-policy",
-"https://facebook.com/AnitaEarls4Justice",
-"https://flickr.com/photos/204398439@N08",
-"https://instagram.com/earlsanita",
-"https://linkedin.com/company/earls-for-justice?viewAsMember=true",
-"https://secure.actblue.com/donate/earlswebsite",
-"https://secure.numero.ai/signup/Sign-up-to-volunteer-with-Earls-for-Justice",
-"https://store.earls4justice.com/",
-"https://threads.net/@earlsanita",
-"https://tiktok.com/@earls4nc?lang=en",
-"https://x.com/Anita_Earls"
+{
+"text": "0",
+"href": "https://earls4justice.com/cart"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:team@earls4justice.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/earlswebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://earls4justice.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://earls4justice.com/"
+},
+{
+"text": "Leandro",
+"href": "https://earls4justice.com/leandro"
+},
+{
+"text": "Meet Anita",
+"href": "https://earls4justice.com/about"
+},
+{
+"text": "News",
+"href": "https://earls4justice.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://earls4justice.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.earls4justice.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://secure.numero.ai/signup/Sign-up-to-volunteer-with-Earls-for-Justice"
+},
+{
+"text": "[image: Earls for Justice]",
+"href": "https://earls4justice.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/anitaearls.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AnitaEarls4Justice/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/204398439@N08/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/earlsanita/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/earls-for-justice/?viewAsMember=true"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@earlsanita"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@earls4nc?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Anita_Earls"
+}
 ]

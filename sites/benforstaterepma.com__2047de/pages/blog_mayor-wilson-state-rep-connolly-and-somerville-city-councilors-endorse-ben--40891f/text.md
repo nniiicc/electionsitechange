@@ -1,14 +1,14 @@
-Ben Ewen-Campen’s campaign for State Representative today announced a first round of endorsements from Mayor Jake Wilson, State Representative Mike Connolly, and City Councilors from across the 27th Middlesex District.
+Updates Home About Accomplishments Newsletter Archive Mailing List Endorsements DONATE Ben Ewen-Campen For State Rep Updates Home About Accomplishments Newsletter Archive Mailing List Endorsements DONATE Ben Ewen-Campen May 6, 2026 Mayor Wilson, State Rep Connolly, and Somerville City Councilors Endorse Ben Ewen-Campen for State Representative Ben Ewen-Campen May 6, 2026 Ben Ewen-Campen’s campaign for State Representative today announced a first round of endorsements from Mayor Jake Wilson, State Representative Mike Connolly, and City Councilors from across the 27th Middlesex District.
 The endorsements include Somerville Mayor Jake Wilson, State Representative Mike Connolly, City Councilors Matt McLaughlin, JT Scott, Jesse Clingan, Naima Sait, Lance Davis, Emily Hardt, Jon Link, Will Mbah, and Ben Wheeler, as well as former Councilor Mary Jo Rossetti and former Ward 3 School Committee member Sarah Phillips.
 “Ben is exactly what you want in a public servant: Brilliant, creative, unafraid, dedicated, and caring.
 He has the progressive values we want representing us on Beacon Hill and an unparalleled track record of delivering on those as a legislator,” said Mayor Wilson in his endorsement.
 “I’ve known Ben Ewen-Campen for 25 years,” said Councilor-At-Large Ben Wheeler, “and I've seen him consistently approach problems the way a great public servant should: doing the homework, listening carefully, and building common ground.
-That combination of rigor and collaboration is exactly what we need in the State House, and I'm thrilled to have him represent our community there.”
-In his endorsement, Ward 4 Councilor Jesse Clingan said: “Over the years we’ve served together on the Council, I’ve had the opportunity to see firsthand the kind of leader Ben is.
+That combination of rigor and collaboration is exactly what we need in the State House, and I'm thrilled to have him represent our community there.” In his endorsement, Ward 4 Councilor Jesse Clingan said: “Over the years we’ve served together on the Council, I’ve had the opportunity to see firsthand the kind of leader Ben is.
 He brings a thoughtful, technical approach to every issue he takes on, digging into the details and doing the work necessary to arrive at a common sense conclusion.
 No matter the issue, he takes the time to listen, understand concerns, and work collaboratively toward real solutions.
-We will be well served by Ben’s dedication, integrity, and steady leadership on Beacon Hill.”
-“Somerville has shown what’s possible when local government is bold, collaborative, and accountable to residents — from our housing justice work to our work on development without displacement.
+We will be well served by Ben’s dedication, integrity, and steady leadership on Beacon Hill.” “Somerville has shown what’s possible when local government is bold, collaborative, and accountable to residents — from our housing justice work to our work on development without displacement.
 I’m running to bring that same approach to Beacon Hill, and I’m humbled to have the support of the colleagues who helped make it happen,” said Ewen-Campen.
 “The Democratic Primary election is on Tuesday, September 1.
-I’m fired up to earn every vote, and with such an extraordinary team of public servants behind me I’m more motivated than ever.”
+I’m fired up to earn every vote, and with such an extraordinary team of public servants behind me I’m more motivated than ever.” Newer Post Planned Parenthood Advocacy Fund, Progressive Mass, AFL-CIO of Massachusetts, and Mass Alliance endorse Ben Ewen-Campen for State Rep Older Post I'm running for State Rep!
+Contact Ben Please get in touch!
+BenForWard3@gmail.com (617) 702-2613 Back to Top

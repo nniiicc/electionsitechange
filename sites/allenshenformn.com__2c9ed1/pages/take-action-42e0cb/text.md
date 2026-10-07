@@ -1,6 +1,3 @@
-Freedom Matters
-Contact Us
-Thank you for contacting us
-Thank you for contacting us.
+top of page Christian, Veteran, Patriot Donate Freedom Matters Home Meet Allen Allen & Friends Media Vision Your Constitutional Rights Minnesota's Education Minnesota's Economy Healthcare Public Safety Veterans Government Reform Other Issues Current Issues Take Action Join us Internship Contact Us Thank you for contacting us Contact us First name * Last name * Phone Email * Write a message * Submit Thank you for contacting us.
 We need people like you to deliver changes in Minnesota.
-Please leave us a message and let's work together to take our state back
+Please leave us a message and let's work together to take our state back Prepared and paid for by Allen Shen for House Committee. campaign office 7321 Melody Drive NE Fridley, MN 55432 bottom of page

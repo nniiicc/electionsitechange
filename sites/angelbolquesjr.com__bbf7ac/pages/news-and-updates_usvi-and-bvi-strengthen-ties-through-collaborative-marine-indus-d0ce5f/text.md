@@ -1,5 +1,9 @@
-16Apr
-April 15, 2025 — Charlotte Amalie, USVI – The Governor of the United States Virgin Islands (USVI), Albert Bryan Jr. welcomed a distinguished delegation from the British Virgin Islands (BVI) led by their Premier, Dr.
+Angel Bolques, Jr.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Angel Bolques, Jr.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Home News and Updates USVI and BVI Strengthen Ties Through Collaborative Marine Industry Dialogue USVI and BVI Strengthen Ties Through Collaborative Marine Industry Dialogue Angel Bolques Jr.
+16 Apr 16 Apr April 15, 2025 — Charlotte Amalie, USVI – The Governor of the United States Virgin Islands (USVI), Albert Bryan Jr. welcomed a distinguished delegation from the British Virgin Islands (BVI) led by their Premier, Dr.
 Natalio D.
 Wheatley today for a strategic meeting aimed at deepening cross-border cooperation in the marine industry.
 The high-level discussions reflected a mutual commitment to economic growth, environmental stewardship, and regional partnership.
@@ -40,6 +44,12 @@ Carolyn Stoutt-Igwe - Permanent Secretary, Premier's Office and Ms.
 Alyssa Soloman - Private Secretary to the Premier.
 Ms.
 Dwynel Davis – Ag.
-Director International Affairs Secretariat – Office of the Premier Sincere thanks are extended to Governor Albert Bryan Jr. and his administration, Premier, Dr.
-Natalio Wheatley and his administration, and our legislative colleagues and agency leaders for their invaluable participation and commitment to regional progress. ###
-Comments
+Director International Affairs Secretariat – Office of the Premier Sincere thanks are extended to Governor Albert Bryan Jr. and his administration , Premier, Dr.
+Natalio Wheatley and his administration , and our legislative colleagues and agency leaders for their invaluable participation and commitment to regional progress.
+### US Virgin Islands British Virgin Islands Virgin Islands marine industry Angel Bolques Jr marine industry partnership BVI USVI relations charter fee reform regional cooperation Caribbean sustainable marine economy marine tourism Virgin Islands vessel charter regulation digital vessel licensing maritime logistics Caribbean USVI BVI Friendship Day Virgin Islands delegation meeting Governor Albert Bryan Jr Premier Natalio Wheatley cross-border marine collaboration Caribbean government partnership marine industry innovation economic development Virgin Islands environmental stewardship Caribbean inter-agency cooperation BVI USVI cultural exchange Caribbean digital maritime systems regional tourism Caribbean policy collaboration marine sector infrastructure development Virgin Islands 20 Mar Senator Bolques reads to Montessori School Elementary students 16 Mar Providing Assistance to the Elderly 15 Mar The Bolques Bulletin (A bimestrial newsletter) Comments Post Comment * The email will not be published on the website.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Subscribe Copyright © # All rights reserved - Angel Bolques, Jr.
+Terms | Privacy | Accessibility +1340-3406902555 - FRIENDS OF ANGEL BOLQUESJR.
+ANGELBOLQUESJRFORSENATE@GMAIL.COM 486G Estate Chocolate Hole Road, St.
+John, USVI (PO Box 8493.
+STT, Virgin Islands 00801 or PO Box 630, STJ VI 00830)

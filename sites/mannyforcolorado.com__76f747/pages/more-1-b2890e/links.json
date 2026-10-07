@@ -1,44 +1,182 @@
 [
-"http://govotecolorado.gov/",
-"https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/adams-county-elections",
-"https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/adams-county-elections/2026-elections/voter-service-polling-center-locations",
-"https://ballottrax.coloradosos.gov/voter",
-"https://coloradodems.org/vote",
-"https://coloradosos.gov/pubs/elections/vote/acceptableFormsOfID.html",
-"https://facebook.com/mannyforcolorado",
-"https://govtrack.us/congress/members/CO/8",
-"https://instagram.com/mannyrutinel",
-"https://larimer.gov/clerk/elections",
-"https://larimer.gov/clerk/elections/voter-service-and-polling-center-vspc-wait-times",
-"https://mannyforcolorado.com/",
-"https://mannyforcolorado.com/cart",
-"https://mannyforcolorado.com/contact",
-"https://mannyforcolorado.com/disc",
-"https://mannyforcolorado.com/donate",
-"https://mannyforcolorado.com/fellowships",
-"https://mannyforcolorado.com/home",
-"https://mannyforcolorado.com/howtovote",
-"https://mannyforcolorado.com/issues",
-"https://mannyforcolorado.com/media",
-"https://mannyforcolorado.com/meetmanny",
-"https://mannyforcolorado.com/more-1",
-"https://mannyforcolorado.com/press",
-"https://mannyforcolorado.com/retrobattlegame",
-"https://mobilize.us/mannyrutinelforcongress",
-"https://secure.actblue.com/donate/mannyforco8",
-"https://secure.actblue.com/donate/mannyforco8?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/mannyforco8?amount=1000&express_lane=true",
-"https://secure.actblue.com/donate/mannyforco8?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/mannyforco8?amount=7000&express_lane=true",
-"https://secure.actblue.com/donate/mannyforco8?amount=8&express_lane=true",
-"https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=26",
-"https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/mannyforco8?recurring=1",
-"https://tel:(833)%20336-8683/",
-"https://threads.net/@mannyrutinel",
-"https://twitter.com/MannyRutinel",
-"https://weld.gov/Government/Departments/Clerk-and-Recorder/Elections-Department/Contact-Elections",
-"https://weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-voting-and-drop-box-locations.pdf"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=26"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mannyforco8?express_lane=true&amount=5"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mannyforco8?amount=100&express_lane=true"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/mannyforco8?amount=1000&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mannyforco8?amount=25&express_lane=true"
+},
+{
+"text": "$7000",
+"href": "https://secure.actblue.com/donate/mannyforco8?amount=7000&express_lane=true"
+},
+{
+"text": "$8",
+"href": "https://secure.actblue.com/donate/mannyforco8?amount=8&express_lane=true"
+},
+{
+"text": "0",
+"href": "https://www.mannyforcolorado.com/cart"
+},
+{
+"text": "1-833-336-8683",
+"href": "https://tel:(833)%20336-8683"
+},
+{
+"text": "Adams County",
+"href": "https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/adams-county-elections/"
+},
+{
+"text": "Adams County In Person Voting",
+"href": "https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/adams-county-elections/2026-elections/voter-service-polling-center-locations/"
+},
+{
+"text": "Back",
+"href": "https://www.mannyforcolorado.com/"
+},
+{
+"text": "BallotTrax",
+"href": "https://ballottrax.coloradosos.gov/voter/"
+},
+{
+"text": "CDP’s Voting Website",
+"href": "https://www.coloradodems.org/vote"
+},
+{
+"text": "Congressional District 8",
+"href": "https://www.govtrack.us/congress/members/CO/8"
+},
+{
+"text": "Contact",
+"href": "https://www.mannyforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mannyforcolorado.com/donate"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@mannyforcolorado.com"
+},
+{
+"text": "Fellowships",
+"href": "https://www.mannyforcolorado.com/fellowships"
+},
+{
+"text": "Folder: More",
+"href": "https://www.mannyforcolorado.com/more-1"
+},
+{
+"text": "GoVoteColorado.gov",
+"href": "http://govotecolorado.gov"
+},
+{
+"text": "How to Vote",
+"href": "https://www.mannyforcolorado.com/howtovote"
+},
+{
+"text": "Issues",
+"href": "https://www.mannyforcolorado.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.mobilize.us/mannyrutinelforcongress/"
+},
+{
+"text": "Larimer County",
+"href": "https://www.larimer.gov/clerk/elections"
+},
+{
+"text": "Larimer County In Person Voting",
+"href": "https://www.larimer.gov/clerk/elections/voter-service-and-polling-center-vspc-wait-times"
+},
+{
+"text": "Media",
+"href": "https://www.mannyforcolorado.com/media"
+},
+{
+"text": "Meet Manny",
+"href": "https://www.mannyforcolorado.com/meetmanny"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/mannyforco8?recurring=1"
+},
+{
+"text": "Press",
+"href": "https://www.mannyforcolorado.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mannyforcolorado.com/disc"
+},
+{
+"text": "Retro Battle Game",
+"href": "https://www.mannyforcolorado.com/retrobattlegame"
+},
+{
+"text": "Weld County",
+"href": "https://www.weld.gov/Government/Departments/Clerk-and-Recorder/Elections-Department/Contact-Elections"
+},
+{
+"text": "Weld County In Person Voting",
+"href": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-voting-and-drop-box-locations.pdf"
+},
+{
+"text": "[image: Manny for Colorado]",
+"href": "https://www.mannyforcolorado.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mannyforcolorado.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MannyRutinel"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mannyforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mannyrutinel/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@mannyrutinel"
+},
+{
+"text": "bring an ID",
+"href": "https://www.coloradosos.gov/pubs/elections/vote/acceptableFormsOfID.html"
+},
+{
+"text": "contact us",
+"href": "https://www.mannyforcolorado.com/contact"
+},
+{
+"text": "other",
+"href": "https://secure.actblue.com/donate/mannyforco8"
+}
 ]

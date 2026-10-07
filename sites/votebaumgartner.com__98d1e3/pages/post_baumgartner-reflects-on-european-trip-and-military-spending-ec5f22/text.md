@@ -1,4 +1,4 @@
-Baumgartner Reflects on European Trip and Military Spending
-The Spokesman-Review | February 22, 2026
-Congressman Baumgartner traveled to Germany to hear directly from traditional U.S. allies and push for increased European military spending.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE All Articles On the Campaign Trail In Congress Search Baumgartner Reflects on European Trip and Military Spending stan889 Feb 22 1 min read The Spokesman-Review | February 22, 2026 Congressman Baumgartner traveled to Germany to hear directly from traditional U.S. allies and push for increased European military spending.
 His trip underscored the importance of burden-sharing among NATO partners and the need for European nations to invest more in their own defense capabilities.
+Read the full article in The Spokesman-Review In Congress Recent Posts See All Back from Weeklong Trip to Israel, Baumgartner Reflects Trump Touts Winning in State of the Union Address Deep-Dive Interview on Border Integrity and Regional Agriculture Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

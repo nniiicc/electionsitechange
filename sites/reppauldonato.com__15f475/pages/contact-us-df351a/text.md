@@ -1,7 +1,2 @@
-271 Spring Street
-Medford, MA 02155
-Phone: (781) 395-1683
-Fax: (781) 395-2871
-Email: repdonato38@aol.com
-Copyright © 2020 Friends of Paul Donato - All Rights Reserved.
-Powered by
+Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter More Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter Get in Contact with Paul District Office 271 Spring Street Medford, MA 02155 Phone: (781) 395-1683 Fax: (781) 395-2871 ​Email: repdonato38@aol.com Copyright © # Friends of Paul Donato - All Rights Reserved.
+Endorsements Donate Volunteer Newsletter Powered by

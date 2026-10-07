@@ -1,15 +1,14 @@
-Raise the checkered flag (well maybe not quite yet)!
-Week 5 is done, and so is over half of the 98th legislative session.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG SESSION WEEK FIVE Posted by ttordsen February 10, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Raise the checkered flag (well maybe not quite yet)!
+Week 5 is done, and so is over half of the 98 th legislative session.
 Beyond the pace of session picking up, there’s another thing you’ll notice.
 In about a week and a half, there will be “crossover day”.
 This means that the House must have all of their bills over to the Senate, and vice versa.
 There is a lot of discussion to be had on Senate bills, but we first need to get done with what’s in front of us.
-Here’s some of the highlights from committees this past week:
-When it came to House Education, we had a conversation about how materials can be restricted if it contained materials that was thought to be “obscene” or “harmful to minors” (HB1163).
+Here’s some of the highlights from committees this past week: When it came to House Education, we had a conversation about how materials can be restricted if it contained materials that was thought to be “obscene” or “harmful to minors” (HB1163).
 I appreciated the intent of this bill, but also learned public schools and public libraries already have a process and procedure in place.
 The other concern was if we’re going to create a statewide policy, the language and outcomes needed to be stronger.
 I also prefer handling issues at the local level first if it can be resolved there.
-Ultimately, after some really good testimony and debate, I voted to send the bill to the 41st legislative day, effectively killing the bill.
+Ultimately, after some really good testimony and debate, I voted to send the bill to the 41 st legislative day, effectively killing the bill.
 It was great see and visit with some District 14 parents and residents in their State Capitol this week.
 House Judiciary also dug into a lot of bills this week.
 One major bill I’ll highlight was HB1160.
@@ -22,17 +21,18 @@ This is a very contentious and passionate issue and is related to the current st
 I believe that this specific vote on HB1133 came down to a matter of principle.
 When I ran for the legislature, I promised to support economic development and policies that would continue the tradition of South Dakota being “open for business” and changing the rules for a single company in the middle of their project is not one of those policies.
 The specific pieces of legislation that I’m leading this year continue to make their way through the process.
-Here’s a short rundown:
-- HB1101 – Indian Arts and Crafts Bill – Passed House and Passed Senate Commerce and Energy Committee, now before the full Senate on Monday 2/13.
-- HB1124 – Election Tabulation Machine Bill – Passed House unanimously Monday, coming before Senate State Affairs Committee TBD.
-- SB76 – Occupational Licensure Bill (Governor Supported and Sen.
+Here’s a short rundown: HB1101 – Indian Arts and Crafts Bill – Passed House and Passed Senate Commerce and Energy Committee, now before the full Senate on Monday 2/13.
+HB1124 – Election Tabulation Machine Bill – Passed House unanimously Monday, coming before Senate State Affairs Committee TBD.
+SB76 – Occupational Licensure Bill (Governor Supported and Sen.
 Stalzer Lead) – Passed out of Senate Commerce and Energy Committee unanimously, now before the full Senate on Monday 2/13.
-- SB88 – Cleaning up old Taxi Statutes (Sen.
+SB88 – Cleaning up old Taxi Statutes (Sen.
 Rohl Lead) – Passed Senate unanimously and scheduled for hearing in House Local Government on Tuesday 2/14.
-- SB189 – Prohibit State Contracts with Companies Owned by Foreign Governments (Sen.
+SB189 – Prohibit State Contracts with Companies Owned by Foreign Governments (Sen.
 Stalzer Lead) – Scheduled for its first hearing in the Senate on Monday 2/13.
 As we finish up working through House bills in the next couple of weeks, please feel free to reach out to me if you have any questions or thoughts on legislation coming before us.
 Also, if you are a teacher, I would encourage you to find a way to bring your class up for a visit.
 There’s been many classes coming up to visit just like the Wagner Area government class (pictured above), and it would be an honor to introduce to the House a group from Sioux Falls!
-Have a great weekend!
--Representative Tyler Tordsen
+Have a great weekend! -Representative Tyler Tordsen GET WEEKLY UPDATES Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 10, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK FOUR Next Post Next post: SESSION WEEK SIX Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

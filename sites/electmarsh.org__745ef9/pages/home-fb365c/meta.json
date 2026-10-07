@@ -1,7 +1,9 @@
 {
  "description": "I'm Douglas P. Marsh and I am running for U.S. Senate in Michigan.",
  "final_url": "https://www.electmarsh.org/home",
- "paid_for_by": null,
+ "fingerprint": "d4550cffef9a7c53275ce24c67e81ba3c29cd861",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MARSH for MI",
  "years_mentioned": [
   "2010"

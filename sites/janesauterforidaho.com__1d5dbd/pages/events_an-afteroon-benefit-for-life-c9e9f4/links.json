@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=An+Afteroon+Benefit+for+Life&dates=20261010T210000Z%2F20261010T230000Z&location=Riley+Creek+Park+Road%2C+Laclede%2C+Idaho%2C+83841%2C+United+States",
-"http://maps.google.com/?q=Riley+Creek+Park+Road+Laclede%2C+Idaho%2C+83841+United+States",
-"https://facebook.com/profile.php?id=61582690706514",
-"https://instagram.com/p/DV2D8Sql2hj",
-"https://janesauterforidaho.com/",
-"https://janesauterforidaho.com/about-me",
-"https://janesauterforidaho.com/cart",
-"https://janesauterforidaho.com/contact-me",
-"https://janesauterforidaho.com/events",
-"https://janesauterforidaho.com/events/an-afteroon-benefit-for-life?format=ical",
-"https://janesauterforidaho.com/events/property-tax-discussion",
-"https://janesauterforidaho.com/gallery",
-"https://janesauterforidaho.com/introduction",
-"https://janesauterforidaho.com/media",
-"https://janesauterforidaho.com/news",
-"https://secure.anedot.com/janesauterforidaho/donate",
-"https://x.com/janesauterforID",
-"https://youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=riley+creek+park+road+laclede%2C+idaho%2C+83841+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janesauterforidaho.com/cart"
+},
+{
+"text": "About me",
+"href": "https://www.janesauterforidaho.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Contact me",
+"href": "https://www.janesauterforidaho.com/contact-me"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/janesauterforidaho/donate"
+},
+{
+"text": "Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.janesauterforidaho.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=An+Afteroon+Benefit+for+Life&dates=20261010T210000Z%2F20261010T230000Z&location=Riley+Creek+Park+Road%2C+Laclede%2C+Idaho%2C+83841%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.janesauterforidaho.com/events/an-afteroon-benefit-for-life?format=ical"
+},
+{
+"text": "Introduction",
+"href": "https://www.janesauterforidaho.com/introduction"
+},
+{
+"text": "Media",
+"href": "https://www.janesauterforidaho.com/media"
+},
+{
+"text": "News",
+"href": "https://www.janesauterforidaho.com/news"
+},
+{
+"text": "Previous Previous September 29 Property Tax Discussion",
+"href": "https://www.janesauterforidaho.com/events/property-tax-discussion"
+},
+{
+"text": "[image: Jane Sauter for Idaho]",
+"href": "https://www.janesauterforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582690706514"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DV2D8Sql2hj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/janesauterforID"
+}
 ]

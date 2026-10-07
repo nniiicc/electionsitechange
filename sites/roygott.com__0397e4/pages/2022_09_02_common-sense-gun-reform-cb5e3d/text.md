@@ -1,5 +1,5 @@
-From my May 27th post to the Facebook page:
-I'm writing this from Romania as we visit my wife's family, having just attended the wedding of a mutual friend, in a beautifully rustic setting a little bit outside of Bucharest.
+Roy D.
+Gott Home About Contact Positions Blog Common Sense Gun Reform admin September 2, 2022 2:38 am From my May 27th post to the Facebook page: I'm writing this from Romania as we visit my wife's family, having just attended the wedding of a mutual friend, in a beautifully rustic setting a little bit outside of Bucharest.
 While I would like to say that I'm appalled at the lack of surprise with which both we and our friends here reacted to the news of the elementary school shooting in Uvalde, TX, news of such shootings – in schools and other public places in the US – have become such commonplace headlines that any surprise is disingenuous by now.
 Thoughts and prayers are what we offer people whose country is being invaded.
 They are what we offer people in countries suffering from a massive earthquake, tidal wave, or devastating weather event.
@@ -36,3 +36,10 @@ As I am working toward being your representative in Augusta, I would ask you wha
 Unfortunately, due to the divisive nature of this topic, I fear direct comments on this post could become combative very quickly and so I am turning of commenting for this post.
 I truly encourage you to message me on Facebook or email me at roy@roygott.com with ideas for ways we can try to address these issues.
 All constructive suggestions will be considered in whatever opinion I eventually form.
+Category : Positions Previous Reproductive Rights Next Post-Roe Bar Harbor Demonstration Search Search Recent Posts Endorsements & Distinctions Lobster Rule Scoping Session in Portland I Don’t Debate in the Comments Section I Support Our Lobster Industry Encouraging Words are a Sign Recent Comments Ken Gleason on Encouraging Words are a Sign Archives September 2026 October 2022 September 2022 Categories Campaigning Positions Uncategorized Roy D.
+Gott Roy D.
+Gott serves the communities of Franklin, Gouldsboro, Hancock, Milbridge, Sorrento, Steuben, Sullivan, Tremont, Trenton, and Winter Harbor with technical support and sales for their municipal, utility, and public safety functions.
+He served as Franklin's member of the Regional School Unit No.
+24 Board of Directors (2012-2025, Chair 2016-2025), and as Region IV (Hancock County) Director (2022-2024) and Vice President (2024-2025) for the Maine School Boards Association.
+He served as chair of the Schoodic Peninsula Broadband Committee and is founder of the Sumner Alumni Association.
+Quick Links Home About Contact Get in Touch PO Box 94, Franklin, ME 04634 2075653666 roy@roygott.com

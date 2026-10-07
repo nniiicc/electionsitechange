@@ -1,15 +1,12 @@
-Her story
-Grit built this.
+Skip to content Home Meet Kathy Priorities News Events Newsletter Get Involved Contact Donate Open menu Home Meet Kathy Priorities News Events Newsletter Get Involved Contact Donate Her story Grit built this.
 Faith keeps it.
 Kathy Szeliga has washed dishes, hung drywall, waited tables, taught second graders, run a construction company, and whipped votes in the Maryland House of Delegates.
 In that order.
-Wife · Mother · Grandmother · Small Business Owner · Fighter for Maryland
-Delegate Kathy Szeliga has proudly served in the Maryland House of Delegates since 2011, bringing real-world experience, common sense, and a deep commitment to the people and communities she represents.
+Wife · Mother · Grandmother · Small Business Owner · Fighter for Maryland Delegate Kathy Szeliga has proudly served in the Maryland House of Delegates since 2011, bringing real-world experience, common sense, and a deep commitment to the people and communities she represents.
 She currently represents communities in Baltimore County and previously had the privilege of representing portions of Harford County as well.
-Deep Maryland roots
-Kathy grew up in a military family with a career Army father.
+Deep Maryland roots Kathy grew up in a military family with a career Army father.
 Her family moved about every two years, but Baltimore was always home base, where generations of her mother’s family have lived and where her Maryland roots run deep.
-Kathy met her husband, Mark, in Ocean City, and they eloped in Colorado more than 46 years ago.
+Kathy met her husband, Mark, in Ocean City, and they eloped in Colorado more than #ago.
 In those early years, Kathy worked a string of jobs to help make ends meet — as a dishwasher, parking lot attendant, maid, drywall worker, and waitress — while Mark learned the carpentry trade.
 They worked hard, saved what they could, and in 1986 they moved back to Maryland, took a leap of faith, and started their own small construction business.
 While working, raising their children, and volunteering in the community, Kathy attended Towson University at night, eventually earning her bachelor’s degree in elementary education and graduating summa cum laude.
@@ -21,16 +18,14 @@ They know firsthand what it’s like to make payroll, balance a budget, meet a d
 After more than 40 years in general contracting and residential rental property management, Kathy and Mark recently retired from their business.
 Kathy also served as a foster parent, youth athletic coach, and youth Sunday School teacher — experiences that deepened her commitment to children, families, and her community.
 Together, these experiences have given Kathy a practical understanding of the challenges facing working families, parents, and small-business owners, and continue to shape the way she approaches her work in Annapolis.
-Serving Maryland
-In the House of Delegates, Kathy serves on the Health Committee, including the Insurance and Pharmaceutical Subcommittee and the Health Facilities Subcommittee.
+Serving Maryland In the House of Delegates, Kathy serves on the Health Committee, including the Insurance and Pharmaceutical Subcommittee and the Health Facilities Subcommittee.
 She also serves on the Rules and Executive Nominations Committee.
 From 2013 to 2021, Kathy served as House Minority Whip, helping lead the House Republican Caucus and shape legislative strategy in Annapolis.
 She is also a founding member of the Maryland Freedom Caucus and serves as its Vice Chair, where she champions individual liberty, fiscal responsibility, government accountability, public safety, and making Maryland more affordable for families and retirees.
 Kathy’s leadership has led to appointments on a number of important commissions and workgroups, including Governor Larry Hogan’s State Transparency and Accountability Reform (STAR) Commission, Speaker Adrienne Jones’ Police Reform and Accountability Workgroup, and Speaker Michael Busch’s Marijuana Legalization Workgroup.
 These appointments have given Kathy the opportunity to work with leaders from across the political spectrum on some of the most consequential issues facing Maryland.
 From 2019 to 2023, Kathy also served on the Maryland Commission on Aging, advocating for Maryland’s seniors and the families who love and care for them.
-Family, faith, and community
-For Kathy, family, faith, and community have always come first.
+Family, faith, and community For Kathy, family, faith, and community have always come first.
 She and Mark have been married for more than 46 years and are the proud parents of two married sons and grandparents of two grandchildren.
 Kathy attends Mountain Christian Church in Joppa, Maryland, and for decades has been actively involved in numerous national and international Bible studies.
 Her faith is the foundation of her life, guiding her commitment to her family, her community, and serving others.
@@ -38,60 +33,32 @@ From working as a dishwasher and drywall worker to putting herself through colle
 Kathy Szeliga is dedicated to ensuring the American Dream and unlimited opportunity are available for all Americans for generations to come.
 For Kathy, public service is ultimately about people — listening to them, standing up for them, and working to leave Maryland better for the next generation.
 She remains committed to protecting the freedoms and opportunities that allow Marylanders to live, work, start a business, raise a family, and retire in the state they are proud to call home.
-The record
-What sixteen years looks like
-- 16
-- Years in the House of Delegates
-- Representing Baltimore County since 2011
-- 8
-- Years as House Minority Whip
-- Longest-serving Republican Caucus Whip, 2013 – 2021
-- 40
-- Years running a family small business
-- General contracting, built alongside her husband Mark
-- Vice Chair
-- Maryland Freedom Caucus
-- Founding member — liberty, fiscal responsibility, accountability
-Supported by
-- Congressman Andy Harris
-- Gov.
-Bob Ehrlich
-- Gov.
-Larry Hogan
-- Amb.
-Ellen Sauerbrey
-Twice selected to the Republican National Platform Committee, and an RNC delegate for President Trump.
-The record
-What Kathy has delivered
-Fighting is the job description.
+Faith & family Kathy attends Mountain Christian Church in Joppa and has been active in national and international Bible studies for decades.
+She and Mark opened their home as foster parents; she coached youth sports and taught youth Sunday school.
+Two married sons, two grandchildren, and more than 46 years of marriage that started with an elopement in Colorado — that is the family this fight is for.
+The record What sixteen years looks like 16 Years in the House of Delegates Representing Baltimore County since 2011 8 Years as House Minority Whip Longest-serving Republican Caucus Whip, 2013 – 2021 40 Years running a family small business General contracting, built alongside her husband Mark Vice Chair Maryland Freedom Caucus Founding member — liberty, fiscal responsibility, accountability Supported by Congressman Andy Harris Gov.
+Bob Ehrlich Gov.
+Larry Hogan Amb.
+Ellen Sauerbrey Twice selected to the Republican National Platform Committee, and an RNC delegate for President Trump.
+The record What Kathy has delivered Fighting is the job description.
 This is what it produced — state money into District 7A schools and first responders, and a seat at the table on the work that mattered.
-State funding requested for District 7A
-2026 session
-- Loch Raven High SchoolElectronic message sign$165,000Approved
-- Kingsville Elementary SchoolSchool facility improvements · $150,000 requested$100,000Approved
-- Fraternal Order of Police Lodge No. 34Lodge facility$150,000Filed
-- Pine Grove Elementary SchoolElectronic message sign$120,000Filed
-$265,000 approved for Loch Raven High School and Kingsville Elementary in the 2026 session.
+State funding requested for District 7A 2026 session Loch Raven High School Electronic message sign $165,000 Approved Kingsville Elementary School School facility improvements · $150,000 requested $100,000 Approved Fraternal Order of Police Lodge No.
+34 Lodge facility $150,000 Filed Pine Grove Elementary School Electronic message sign $120,000 Filed $ 265,000 approved for Loch Raven High School and Kingsville Elementary in the 2026 session.
 Remaining requests are filed and pending.
-Where Kathy has served
-- House Minority Whip 2013 – 2021 The highest-ranking elected Republican woman in Maryland history.
-- Vice Chair, Maryland Freedom Caucus 2025 – present Founding member.
-- Health Committee · Rules and Executive Nominations Current Health Facilities, Health Occupations, and Pharmaceuticals subcommittees.
-- Joint COVID-19 Response Legislative Work Group 2020 – 2021 One of the legislators writing Maryland’s pandemic response.
-- Police Reform and Accountability Work Group 2020 At the table for the most contested public-safety debate in years.
-- State Transparency and Accountability Reform Commission 2020 – 2021 Open government and ethics reform.
-- Chief of Staff to State Senator Andy Harris 2004 – 2010 Six years learning Annapolis before she ran for it.
-- Commission on Aging 2020 – 2025 Maryland’s seniors and long-term care.
-Recognition
-- Blue Ribbon Award Maryland Business for Responsive Government 2013
-- 50 Women to Watch The Baltimore Sun 2014
-- Maryland’s Top 100 Women The Daily Record 2015
-On the ground
-Out in District 7A
-Now you know Kathy.
+Where Kathy has served House Minority Whip 2013 – 2021 The highest-ranking elected Republican woman in Maryland history.
+Vice Chair, Maryland Freedom Caucus 2025 – present Founding member.
+Health Committee · Rules and Executive Nominations Current Health Facilities, Health Occupations, and Pharmaceuticals subcommittees.
+Joint COVID-19 Response Legislative Work Group 2020 – 2021 One of the legislators writing Maryland’s pandemic response.
+Police Reform and Accountability Work Group 2020 At the table for the most contested public-safety debate in years.
+State Transparency and Accountability Reform Commission 2020 – 2021 Open government and ethics reform.
+Chief of Staff to State Senator Andy Harris 2004 – 2010 Six years learning Annapolis before she ran for it.
+Commission on Aging 2020 – 2025 Maryland’s seniors and long-term care.
+Recognition Blue Ribbon Award Maryland Business for Responsive Government 2013 50 Women to Watch The Baltimore Sun 2014 Maryland’s Top 100 Women The Daily Record 2015 On the ground Out in District 7A Backing the blue View larger: Backing the blue Graduation season in District 7A View larger: Graduation season in District 7A At the pump like everyone else View larger: At the pump like everyone else Around the kitchen table View larger: Around the kitchen table Honoring a Navy veteran View larger: Honoring a Navy veteran Celebrating a hometown business View larger: Celebrating a hometown business Signs, built by hand View larger: Signs, built by hand With the Natural Resources Police View larger: With the Natural Resources Police On the floor in Annapolis View larger: On the floor in Annapolis Fleet Week in Baltimore View larger: Fleet Week in Baltimore With Del.
+Ryan Nawrocki View larger: With Del.
+Ryan Nawrocki With Congressman Andy Harris View larger: With Congressman Andy Harris Rain or shine View larger: Rain or shine The Baltimore County team View larger: The Baltimore County team With Mayor Glenn “Kane” Jacobs View larger: With Mayor Glenn “Kane” Jacobs Making friends at ALEC View larger: Making friends at ALEC Listening to District 7A View larger: Listening to District 7A On the trail View larger: On the trail Now you know Kathy.
 See what she is fighting for.
-Where she stands
-Stand with District 7A
-Keep Kathy fighting in Annapolis.
+Where she stands Stand with District 7A Keep Kathy fighting in Annapolis.
 Kathy stands up for this district and the people who call it home — every session, every vote.
 Stand with her and keep that fight strong.
+Contribute today Get involved Fighting for Baltimore County families, taxpayers, and Maryland values.
+Instagram X Substack Quick links Meet Kathy Priorities News Events Newsletter Get Involved Contact Contact info@marylandkathy.com 410-989-2148 Friends of Kathy Szeliga PO Box 40 Kingsville, MD 21087 Contact us Paid for by Friends of Kathy Szeliga · Mark Szeliga, Treasurer Privacy Terms © 2026 Donate

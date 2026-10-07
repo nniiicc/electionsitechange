@@ -1,12 +1,50 @@
 [
-"https://bsky.app/profile/brianturnernc.bsky.social",
-"https://facebook.com/RepBrianTurner",
-"https://instagram.com/brianturnernc",
-"https://secure.actblue.com/donate/turnerfornc",
-"https://turnerfornc.com/",
-"https://turnerfornc.com/about-brian-turner",
-"https://turnerfornc.com/endorsements",
-"https://turnerfornc.com/news",
-"https://turnerfornc.com/privacy",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://turnerfornc.com/about-brian-turner"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/turnerfornc"
+},
+{
+"text": "Endorsements",
+"href": "https://turnerfornc.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://turnerfornc.com/"
+},
+{
+"text": "News",
+"href": "https://turnerfornc.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://turnerfornc.com/privacy"
+},
+{
+"text": "[image: Brian Turner for NC House of Representatives]",
+"href": "https://turnerfornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/brianturnernc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepBrianTurner"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brianturnernc/"
+},
+{
+"text": "here",
+"href": "https://turnerfornc.com/endorsements"
+}
 ]

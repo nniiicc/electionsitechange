@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.votedavecalder.com/news/calder-calls-on-utahs-congressional-deligation-to-begin-impeachment-and-removal-of-donald-trump",
- "paid_for_by": "Paid For By Dave Calder for Utah",
+ "fingerprint": "f23390097faad79354760b82f92badc8156f6e8c",
+ "format": 3,
+ "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
  "title": "Calder Calls on Utah's Congressional Delegation to begin Impeachment and Removal of Donald Trump",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

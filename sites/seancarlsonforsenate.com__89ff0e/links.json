@@ -1,12 +1,66 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61579352702200",
-"https://instagram.com//seancarlsonforstatesenate",
-"https://seancarlsonforsenate.com/",
-"https://seancarlsonforsenate.com/about",
-"https://seancarlsonforsenate.com/contact",
-"https://seancarlsonforsenate.com/endorsements",
-"https://seancarlsonforsenate.com/news",
-"https://seancarlsonforsenate.com/priorities",
-"https://secure.actblue.com/donate/carlsonweb"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.seancarlsonforsenate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.seancarlsonforsenate.com/contact"
+},
+{
+"text": "Meet Sean",
+"href": "https://www.seancarlsonforsenate.com/about"
+},
+{
+"text": "News",
+"href": "https://www.seancarlsonforsenate.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "Priorities",
+"href": "https://www.seancarlsonforsenate.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Sean Carlson for State Senate]",
+"href": "https://www.seancarlsonforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579352702200"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//seancarlsonforstatesenate/"
+}
 ]

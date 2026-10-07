@@ -1,5 +1,5 @@
-Tim McNeely Statement on Harrison County Commission Decision
-CLARKSBURG, W.Va. — Today, after careful consideration, the Harrison County Commission affirmed the results of the Republican primary election, and I am honored to officially be the Republican nominee for West Virginia House of Delegates in the 71st District.
+top of page Home News About More Use tab to navigate through the menu items.
+DONATE VIDEOS Paid for by Friends of Tim McNeely Melissa Matheny, Treasurer Campaign News Search Tim McNeely Statement on Harrison County Commission Decision Friends of Tim McNeely Jul 16 2 min read CLARKSBURG, W.Va . — Today, after careful consideration, the Harrison County Commission affirmed the results of the Republican primary election, and I am honored to officially be the Republican nominee for West Virginia House of Delegates in the 71st District.
 I want to thank the Harrison County Commissioners for their thoughtful consideration of this matter and for the professionalism and integrity they demonstrated throughout the process.
 I also want to express my sincere appreciation to Harrison County Clerk John Spires, his staff, our poll workers, and everyone who worked so diligently to conduct a fair, secure, and accurate election.
 Their commitment to protecting the integrity of our elections deserves our respect and gratitude, and they have my complete confidence.
@@ -18,3 +18,4 @@ We look forward to meeting many more of you this summer and fall as we continue 
 The primary election is behind us.
 Now it's time to unite, focus on the future, and earn the support of every voter in the 71st District.
 The work continues, and I couldn't be more excited about what lies ahead.
+Recent Posts See All Tim McNeely Secures Republican Nomination for House of Delegates, District 71 Following Recount © # by Liahona Design & Print bottom of page

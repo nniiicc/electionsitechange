@@ -1,7 +1,6 @@
-Cristina Fontanelli Biography
-Cristina Fontanelli is an American opera singer, actress, and television host known for her work in the performing arts and community philanthropy.
+top of page EVENTS ABOUT SIGN UP ISSUES OUR DISTRICT TESTIMONIALS DONATE Cristina Fontanelli Biography Cristina Fontanelli is an American opera singer, actress, and television host known for her work in the performing arts and community philanthropy.
 Born in Brooklyn, New York, she studied at the American Academy of Dramatic Arts and attended the Juilliard School, building a career that has spanned more than four decades.
 She has performed internationally and with major orchestras, including the Boston Pops, and has appeared on PBS specials and at prominent venues such as Carnegie Hall and Lincoln Center.
 In addition to her artistic career, Fontanelli founded The Cristina Fontanelli Foundation, a nonprofit dedicated to providing performance opportunities for young artists and supporting charitable causes through music programs.
 Her work in the arts has earned numerous honors, including the “Lifetime Achievement Award in the Arts” from the Order Sons of Italy in America.
-A longtime New York City resident, Fontanelli has also been active in civic and community initiatives and has sought to bring her experience in the arts and nonprofit sector into public service.
+A longtime New York City resident, Fontanelli has also been active in civic and community initiatives and has sought to bring her experience in the arts and nonprofit sector into public service. cfontanelli4NY@gmail.com DONATE Privacy Policy & Terms and Conditions All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties Paid for by the Committee to elect Cristina Fontanelli bottom of page

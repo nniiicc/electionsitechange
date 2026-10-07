@@ -1,10 +1,1 @@
-IN THE NEWS
-55KRC Wednesday Show - Jack Atherton, AFP, Keith Faber, Judge Napolitano, Keegan Corcoran
-Brian Thomas 55KRC Radio
-Guest User
-Guest User
-Fox & Friends
-NewsNation
-The Windsor Report
-Fox News
-NBC4 Columbus
+0 Skip to Content Home Meet Keith His Record Issues In the News Endorsements Media Kit DONATE Open Menu Close Menu Home Meet Keith His Record Issues In the News Endorsements Media Kit DONATE Open Menu Close Menu Home Meet Keith His Record Issues In the News Endorsements Media Kit DONATE IN THE NEWS Guest User 6/4/26 Guest User 6/4/26 Ohio auditor describes how widespread Medicaid fraud affects taxpayers Fox & Friends Read More Guest User 6/4/26 Guest User 6/4/26 Ohio Medicaid fraud has gone unchecked, until now: Auditor NewsNation Read More Guest User 6/4/26 Guest User 6/4/26 State Auditor Keith Faber on the Medicaid crack-down The Windsor Report Read More Guest User 6/3/26 Guest User 6/3/26 I'm Ohio's state auditor — Medicaid fraud is not just a Washington problem Fox News Read More Guest User 5/31/26 Guest User 5/31/26 Sunday Briefing: Medicaid abuse; data center tax breaks; more Strauss survivors NBC4 Columbus Read More Guest User 5/24/26 Guest User 5/24/26 Radio: Auditor Keith Faber The Mark Blazor Show Read More Guest User 5/5/26 Guest User 5/5/26 Radio: Guest Keith Faber The Bruce Hooley Show Read More Guest User 4/29/26 Guest User 4/29/26 55KRC Wednesday Show - Jack Atherton, AFP, Keith Faber, Judge Napolitano, Keegan Corcoran Brian Thomas 55KRC Radio Read More Privacy Policy | Terms & Conditions PAID FOR BY FRIENDS OF FABER

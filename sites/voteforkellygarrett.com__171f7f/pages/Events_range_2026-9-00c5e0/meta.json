@@ -1,7 +1,11 @@
 {
  "description": "Kelly Garrett Campaign Events",
  "final_url": "https://www.voteforkellygarrett.com/Events?range=2026-9",
+ "fingerprint": "137230c82d88db5a740af73ce98c62f3286f4f13",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave",
  "title": "Kelly Garrett Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

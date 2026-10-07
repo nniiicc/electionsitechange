@@ -1,16 +1,70 @@
 [
-"https://bsky.app/profile/cotterforri.bsky.social",
-"https://facebook.com/CotterforRI",
-"https://megancotterri.com/",
-"https://megancotterri.com/blank",
-"https://megancotterri.com/join-the-team",
-"https://megancotterri.com/meet-megan",
-"https://megancotterri.com/priorities",
-"https://megancotterri.com/voting-info",
-"https://secure.actblue.com/donate/friends-of-megan-1",
-"https://static.wixstatic.com/media/6c0d04_2036b76183064e65bc31f9adb0a1969a~mv2.jpg",
-"https://static.wixstatic.com/media/6c0d04_312c4e7adfa0485498ab333dfee21442~mv2.jpg",
-"https://static.wixstatic.com/media/6c0d04_4901be8ae69b4bc985a32c2f9ce075b5~mv2.jpg",
-"https://static.wixstatic.com/media/6c0d04_6c4451e1f418464b9f1674272d904fa8~mv2.jpg",
-"https://static.wixstatic.com/media/6c0d04_a84d0fa50eb04c3e8580ae09bd240efb~mv2.jpg"
+{
+"text": "Contact Megan",
+"href": "https://www.megancotterri.com/blank"
+},
+{
+"text": "Home",
+"href": "https://www.megancotterri.com"
+},
+{
+"text": "Join the Team!",
+"href": "https://www.megancotterri.com/join-the-team"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.actblue.com/donate/friends-of-megan-1"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.megancotterri.com/meet-megan"
+},
+{
+"text": "Mega Cotter at a podium",
+"href": "https://static.wixstatic.com/media/6c0d04_6c4451e1f418464b9f1674272d904fa8~mv2.jpg"
+},
+{
+"text": "Megan Cotter at podium",
+"href": "https://static.wixstatic.com/media/6c0d04_a84d0fa50eb04c3e8580ae09bd240efb~mv2.jpg"
+},
+{
+"text": "Megan@megancotterri.com",
+"href": "mailto:Megan@megancotterri.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.megancotterri.com/priorities"
+},
+{
+"text": "Rep. Megan Cotter at a Podium",
+"href": "https://static.wixstatic.com/media/6c0d04_4901be8ae69b4bc985a32c2f9ce075b5~mv2.jpg"
+},
+{
+"text": "Rep. Megan Cotter at a podium",
+"href": "https://static.wixstatic.com/media/6c0d04_2036b76183064e65bc31f9adb0a1969a~mv2.jpg"
+},
+{
+"text": "Rep. Megan Cotter at a podium",
+"href": "https://static.wixstatic.com/media/6c0d04_312c4e7adfa0485498ab333dfee21442~mv2.jpg"
+},
+{
+"text": "Voting Info",
+"href": "https://www.megancotterri.com/voting-info"
+},
+{
+"text": "[image: 2026 Megan Cotter Logo State Rep RBG.png]",
+"href": "https://www.megancotterri.com/"
+},
+{
+"text": "[image: 2026 Megan Cotter Logo State Representative]",
+"href": "https://www.megancotterri.com/"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/cotterforri.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CotterforRI"
+}
 ]

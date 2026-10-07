@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61577451027491",
-"https://instagram.com/tricianakamatsu",
-"https://secure.actblue.com/donate/tricianakamatsu",
-"https://tricianakamatsu.com/",
-"https://tricianakamatsu.com/connect-with-me",
-"https://tricianakamatsu.com/endorsements",
-"https://tricianakamatsu.com/get-involved",
-"https://tricianakamatsu.com/in-the-news",
-"https://tricianakamatsu.com/issues",
-"https://tricianakamatsu.com/press-releases",
-"https://tricianakamatsu.com/privacy-policy",
-"https://tricianakamatsu.com/terms-conditions"
+{
+"text": "Connect with Me",
+"href": "https://www.tricianakamatsu.com/connect-with-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tricianakamatsu"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tricianakamatsu.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tricianakamatsu.com/get-involved"
+},
+{
+"text": "In the News",
+"href": "https://www.tricianakamatsu.com/in-the-news"
+},
+{
+"text": "JOIN THE CAUSE",
+"href": "https://www.tricianakamatsu.com/get-involved"
+},
+{
+"text": "Press Releases",
+"href": "https://www.tricianakamatsu.com/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tricianakamatsu.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.tricianakamatsu.com/terms-conditions"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.tricianakamatsu.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61577451027491"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tricianakamatsu"
+},
+{
+"text": "[image]",
+"href": "https://www.tricianakamatsu.com/"
+}
 ]

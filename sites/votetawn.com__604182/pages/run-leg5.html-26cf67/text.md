@@ -1,17 +1,7 @@
+Home Running for YOU All Legs Donate Home Running for YOU All Legs Donate Running for YOU!
 Tawn is running across Senate District 14 — listening to voters and fighting for conservative solutions.
-Leg 5: Ann Arbor → Downtown Ann Arbor
-Monday, June 22nd • 6:30 PM
-1505 Dhu Varren Rd (Olson Park) • 4.13 miles
-Join us and help bring real solutions to Michigan families
-Monday, June 22nd at 6:30 PM
-Starting at 1505 Dhu Varren Rd (Olson Park), Ann Arbor, MI to West Park, 205 Chapin St, Ann Arbor, MI
-Watch this page for route updates and exact meeting point.
-💼
-Excessive rules and taxes are driving businesses out of Michigan and making it harder for families to find good-paying jobs.
-📉
-District 14 workers deserve an economy where hard work is rewarded and opportunity is available for everyone.
-🏭
-High energy prices driven by bad policies make Michigan less competitive for manufacturing and new business investment.
+Leg 5: Ann Arbor → Downtown Ann Arbor Monday, June 22nd • 6:30 PM 1505 Dhu Varren Rd (Olson Park) • 4.13 miles Join us and help bring real solutions to Michigan families See the Route Donate to Fuel the Run Leg 5 Route Monday, June 22nd at 6:30 PM Starting at 1505 Dhu Varren Rd (Olson Park), Ann Arbor, MI to West Park, 205 Chapin St, Ann Arbor, MI Watch this page for route updates and exact meeting point.
+Why We're Running This Leg Jobs & Economic Freedom 💼 Over-Regulation Hurts Small Business Excessive rules and taxes are driving businesses out of Michigan and making it harder for families to find good-paying jobs. 📉 Stagnant Wages & Opportunity District 14 workers deserve an economy where hard work is rewarded and opportunity is available for everyone. 🏭 Energy Costs Killing Jobs High energy prices driven by bad policies make Michigan less competitive for manufacturing and new business investment.
 Tawn will cut red tape, lower taxes, promote energy affordability, and fight for pro-growth policies that create jobs and opportunity for Michigan families.
 Join us for Leg 5 on Monday, June 22nd at 6:30 PM and help shine a light on the real issues affecting Michigan families.
-Join the Discussion
+Join the Discussion Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn ← Previous Leg Next Leg →

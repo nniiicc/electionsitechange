@@ -1,5 +1,5 @@
-Senator Rashaun Kemp proudly represents Georgia’s 38th Senate District, a Fulton County seat that includes portions of Atlanta, Sandy Springs, the City of South Fulton, Fairburn, East Point, Union City, Palmetto, and Chattahoochee Hills.
-In his very first legislative session, Senator Kemp delivered results by passing his first bill, Senate Bill 93, a bipartisan measure signed into law by the Governor.
+Home Meet Senator Kemp Platform Voter Information Endorsements Events Photos Statements & More Contact Senator Kemp/ Newsletter Sign Up DONATE → Meet Senator Kemp Meet Senator RaShaun Kemp Senator Rashaun Kemp proudly represents Georgia’s 38th Senate District, a Fulton County seat that includes portions of Atlanta, Sandy Springs, the City of South Fulton, Fairburn, East Point, Union City, Palmetto, and Chattahoochee Hills.
+In his very first legislative session, Senator Kemp delivered results by passing his first bill, Senate Bill 93 , a bipartisan measure signed into law by the Governor.
 SB 93 addresses Georgia’s literacy crisis—where nearly 70% of children are not reading on grade level—by ensuring all Georgia teachers are properly trained in evidence-based reading instruction.
 Senator Kemp serves as Chief of Staff at the National Charter Collaborative dedicated to amplifying the voices of Black and Brown public charter school leaders.
 He previously led a national nonprofit as its first Executive Director.
@@ -13,3 +13,5 @@ Ken Kemp, a college professor and policy director.
 Together, they are the proud parents of Jaden and Brooklyn.
 The Kemp family attends Impact United Methodist Church and cherishes spending time with loved ones in Dublin, Georgia, Columbus, Ohio, and San Antonio, Texas.
 In his free time, Senator Kemp enjoys spending time with friends, traveling, watching football, and playing tennis.
+CONTACT US (404) 576-8986 rashaun.kemp@senate.ga.gov Legislative Assistant: Cole Simmons cole.simmons@senate.ga.gov P.O.
+Box 310041 Atlanta, GA 31131 © # All Rights Reserved | RaShaun for State Senate Share by:

@@ -1,6 +1,30 @@
 [
-"https://valguestforstatehouse.com/",
-"https://valguestforstatehouse.com/about-val",
-"https://valguestforstatehouse.com/donate",
-"https://valguestforstatehouse.com/issues"
+{
+"text": "ABOUT VAL",
+"href": "https://www.valguestforstatehouse.com/about-val"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.valguestforstatehouse.com/issues"
+},
+{
+"text": "DONATE",
+"href": "https://www.valguestforstatehouse.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.valguestforstatehouse.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.valguestforstatehouse.com/issues"
+},
+{
+"text": "Val Guest for State House",
+"href": "https://www.valguestforstatehouse.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.valguestforstatehouse.com/issues"
+}
 ]

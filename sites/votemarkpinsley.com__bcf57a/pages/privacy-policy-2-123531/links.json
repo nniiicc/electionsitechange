@@ -1,15 +1,70 @@
 [
-"https://bsky.app/profile/mpinsley.bsky.social",
-"https://facebook.com/VoteMarkPinsley",
-"https://instagram.com/markpinsley",
-"https://secure.actblue.com/donate/mark-pinsley-2",
-"https://tiktok.com/@markpinsley4congress",
-"https://tiktok.com/@markpinsley4statesenate",
-"https://votemarkpinsley.com/",
-"https://votemarkpinsley.com/contact",
-"https://votemarkpinsley.com/endorsements",
-"https://votemarkpinsley.com/issues",
-"https://votemarkpinsley.com/meet-mark",
-"https://votemarkpinsley.com/privacy-policy-2",
-"https://votemarkpinsley.com/terms-and-conditions"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mark-pinsley-2/"
+},
+{
+"text": "Endorsements",
+"href": "https://votemarkpinsley.com/endorsements/"
+},
+{
+"text": "Get In Contact",
+"href": "https://votemarkpinsley.com/contact/"
+},
+{
+"text": "Privacy policy",
+"href": "https://votemarkpinsley.com/privacy-policy-2/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votemarkpinsley.com/terms-and-conditions/"
+},
+{
+"text": "The Candidate",
+"href": "https://votemarkpinsley.com/meet-mark/"
+},
+{
+"text": "The Issues",
+"href": "https://votemarkpinsley.com/issues/"
+},
+{
+"text": "[image: Pinsley Logo Web color reversed]",
+"href": "https://votemarkpinsley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/mpinsley.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMarkPinsley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/markpinsley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@markpinsley4statesenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@voteformarkpinsley"
+},
+{
+"text": "contact",
+"href": "https://votemarkpinsley.com/contact/"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/mark-pinsley-2"
+},
+{
+"text": "get involved",
+"href": "https://votemarkpinsley.com/contact/"
+},
+{
+"text": "info@votemarkpinsley.com",
+"href": "mailto:info@votemarkpinsley.com"
+}
 ]

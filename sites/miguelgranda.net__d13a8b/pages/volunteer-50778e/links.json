@@ -1,13 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61567610731137",
-"https://instagram.com/miguelforflorida",
-"https://miguelgranda.net/",
-"https://miguelgranda.net/about",
-"https://miguelgranda.net/contact",
-"https://miguelgranda.net/issues",
-"https://miguelgranda.net/privacy-policy",
-"https://miguelgranda.net/terms-of-service",
-"https://miguelgranda.net/volunteer",
-"https://ryvall.com/",
-"https://secure.anedot.com/miguel-granda-campaign/donate"
+{
+"text": "About",
+"href": "https://www.miguelgranda.net/about"
+},
+{
+"text": "Contact",
+"href": "https://www.miguelgranda.net/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/miguel-granda-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://www.miguelgranda.net/"
+},
+{
+"text": "Issues",
+"href": "https://www.miguelgranda.net/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.miguelgranda.net/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.miguelgranda.net/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.miguelgranda.net/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61567610731137"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/miguelforflorida/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/miguel-granda-campaign/donate"
+},
+{
+"text": "[no text]",
+"href": "https://www.miguelgranda.net/volunteer"
+}
 ]

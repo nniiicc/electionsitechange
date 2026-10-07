@@ -1,9 +1,2 @@
-Contact Us
-Email Me
-info@aaronpaulmn.com
-Call or text
-(952) 479-0748
-Email Me
-info@aaronpaulmn.com
-Call or text
-(952) 479-0748
+Home Issues Endorsements Photos Articles Videos Priorities Survey Voting Information Contact Donate Contact Us Email Me info@aaronpaulmn.com Call or text (952) 479-0748 Email Me info@aaronpaulmn.com Call or text (952) 479-0748 Follow Follow Follow Get Involved | The Republican Party of Minnesota | Scott County GOP Prepared and Paid for by Aaron Paul for Minnesota House | P.O.
+Box 385125, 6101 West Old Shakopee Rd, Bloomington, MN 55438

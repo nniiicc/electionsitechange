@@ -1,17 +1,70 @@
 [
-"https://aceforcongress.com/",
-"https://aceforcongress.com/aceplatform",
-"https://aceforcongress.com/blog",
-"https://aceforcongress.com/endorsement",
-"https://aceforcongress.com/eventslive",
-"https://aceforcongress.com/inthepapers",
-"https://aceforcongress.com/meetace",
-"https://aceforcongress.com/members-area/6ac7b12b-6f9f-4c1a-aeef-5c36947c15c045477/events?disableScrollToTop=true",
-"https://aceforcongress.com/members-area/6ac7b12b-6f9f-4c1a-aeef-5c36947c15c045477/profile?disableScrollToTop=true",
-"https://aceforcongress.com/post/disability-justice-wv-harrison-county",
-"https://aceforcongress.com/post/how-we-re-using-ai-to-connect-with-voters",
-"https://aceforcongress.com/post/sending-haitians-home-to-die",
-"https://aceforcongress.com/voicesofwv",
-"https://actionnetwork.org/forms/help-build-a-people-powered-campaign-ace-for-congress",
-"https://secure.actblue.com/donate/ace4congress"
+{
+"text": "Ace’s Blog",
+"href": "https://www.aceforcongress.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ace4congress"
+},
+{
+"text": "Endorsements",
+"href": "https://www.aceforcongress.com/endorsement"
+},
+{
+"text": "Events",
+"href": "https://www.aceforcongress.com/eventslive"
+},
+{
+"text": "Events",
+"href": "https://www.aceforcongress.com/members-area/6ac7b12b-6f9f-4c1a-aeef-5c36947c15c045477/events?disableScrollToTop=true"
+},
+{
+"text": "Home",
+"href": "https://www.aceforcongress.com"
+},
+{
+"text": "In the News",
+"href": "https://www.aceforcongress.com/inthepapers"
+},
+{
+"text": "Join Our Mailing List",
+"href": "https://actionnetwork.org/forms/help-build-a-people-powered-campaign-ace-for-congress"
+},
+{
+"text": "Meet Ace",
+"href": "https://www.aceforcongress.com/meetace"
+},
+{
+"text": "Platform",
+"href": "https://www.aceforcongress.com/aceplatform"
+},
+{
+"text": "Profile",
+"href": "https://www.aceforcongress.com/members-area/6ac7b12b-6f9f-4c1a-aeef-5c36947c15c045477/profile?disableScrollToTop=true"
+},
+{
+"text": "Voices of WV",
+"href": "https://www.aceforcongress.com/voicesofwv"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/help-build-a-people-powered-campaign-ace-for-congress"
+},
+{
+"text": "[image: Screenshot 2026-03-29 103230.jpg]",
+"href": "https://www.aceforcongress.com"
+},
+{
+"text": "[image]Aug 27, 2026 ∙ 5 minHow We’re Using AI to Connect With Voters There's an old saying about insanity: Doing the same thing over and over again and expecting a different result. Whatever else this campaign is, it isn't that definition of insane.250",
+"href": "https://www.aceforcongress.com/post/how-we-re-using-ai-to-connect-with-voters"
+},
+{
+"text": "[image]Jul 6, 2026 ∙ 4 minSending Haitians Home to Die Isn't Justice. It's a Moral Failure.There is a difference between an immigration system with limits and one with no mercy.3601",
+"href": "https://www.aceforcongress.com/post/sending-haitians-home-to-die"
+},
+{
+"text": "[image]Jul 6, 2026 ∙ 4 minWhat I Heard about Disabilities in Harrison CountyJob policy and disability policy are not two separate conversations.540",
+"href": "https://www.aceforcongress.com/post/disability-justice-wv-harrison-county"
+}
 ]

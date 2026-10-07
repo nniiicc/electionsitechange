@@ -1,10 +1,6 @@
-Our lineup for Still She Rises: A Celebration of Women’s Empowerment & Leadership continues to grow, and we hope you’ll join us for this inspiring evening supporting Krista L.
-Allison’s campaign for Ohio’s 49th House District.
-We’re honored to welcome an outstanding group of women leaders, including:
-- Beryl Brown Piccolantonio, House Minority Whip
-- Allison Russo, House Democratic Leader and Democratic nominee for Ohio Secretary of State
-- Desiree Tims, Assistant House Minority Whip and Co-Chair of the Ohio House Democratic Caucus
-- Melissa Cropper, President of OFT-AFT
-The evening will also feature special performances, inspiring remarks, community fellowship, and a celebration of the women who lead, inspire, and strengthen our communities.
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Still She Rises: A Celebration of Women’s Empowerment & Leadership Wednesday, September 2, 2026 6:00 PM 8:00 PM Google Calendar ICS Our lineup for Still She Rises: A Celebration of Women’s Empowerment & Leadership continues to grow, and we hope you’ll join us for this inspiring evening supporting Krista L.
+Allison’s campaign for Ohio’s 49th House District .
+We’re honored to welcome an outstanding group of women leaders, including: Beryl Brown Piccolantonio, House Minority Whip Allison Russo, House Democratic Leader and Democratic nominee for Ohio Secretary of State Desiree Tims, Assistant House Minority Whip and Co-Chair of the Ohio House Democratic Caucus Melissa Cropper, President of OFT-AFT The evening will also feature special performances, inspiring remarks, community fellowship, and a celebration of the women who lead, inspire, and strengthen our communities.
 Please RSVP soon, as space is limited.
-To reserve your spot, email events@kristalallisonforoh49.com
+To reserve your spot, email events@kristalallisonforoh49.com Previous Previous July 28 Taco Tuesday with Krista 🌮 Next Next September 18 4th Annual Stonewall Dems Party Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

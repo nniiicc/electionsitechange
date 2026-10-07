@@ -1,8 +1,50 @@
 [
-"https://facebook.com/StanMayHD80",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://secure.anedot.com/friends-of-stan-may-2020/donate",
-"https://stanmay.com/",
-"https://stanmay.com/contact",
-"https://stanmay.com/privacy-policy"
+{
+"text": "CONTACT US",
+"href": "https://stanmay.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-stan-may-2020/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/StanMayHD80"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/StanMayHD80"
+},
+{
+"text": "HOME",
+"href": "https://stanmay.com/"
+},
+{
+"text": "MEET STAN",
+"href": "https://stanmay.com#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://stanmay.com/privacy-policy/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://stanmay.com#take-action"
+},
+{
+"text": "VALUES",
+"href": "https://stanmay.com#values"
+},
+{
+"text": "[image]",
+"href": "https://stanmay.com"
+},
+{
+"text": "please contact us.",
+"href": "https://stanmay.com/contact/"
+}
 ]

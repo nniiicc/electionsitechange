@@ -1,34 +1,182 @@
 [
-"http://bit.ly/FoodAssistMoco",
-"http://bit.ly/MDUIapp",
-"http://bit.ly/RentalAssistMoco",
-"http://bit.ly/SNAPappMD",
-"https://cashmd.org/benefits-screening",
-"https://dhs.maryland.gov/office-of-home-energy-programs/how-do-you-apply",
-"https://dllr.state.md.us/employment/uitaxpaymentplans.shtml",
-"https://everymind.org/Programs/988?gad_source=1",
-"https://facebook.com/charkoudian.lorig",
-"https://instagram.com/lorigcharkoudian?hl=en",
-"https://lorigd20.com/",
-"https://lorigd20.com/about-4",
-"https://lorigd20.com/community-resources",
-"https://lorigd20.com/contact",
-"https://lorigd20.com/delegate-scholarship",
-"https://lorigd20.com/donate",
-"https://lorigd20.com/energy",
-"https://lorigd20.com/eusp",
-"https://lorigd20.com/farmers-market-1",
-"https://lorigd20.com/get-involved",
-"https://lorigd20.com/health-care",
-"https://lorigd20.com/immigration-resources",
-"https://lorigd20.com/legislation",
-"https://lorigd20.com/news",
-"https://lorigd20.com/power-in-the-park",
-"https://lorigd20.com/precinct-official-information",
-"https://lorigd20.com/subscribe",
-"https://lorigd20.com/unemployment-insurance-webinar",
-"https://lorigd20.com/voting-information",
-"https://montgomerycountymd.gov/DHCA/covid-19/eviction_process_and_renters.html",
-"https://roads.maryland.gov/mdotsha/pages/Index.aspx?PageId=519",
-"https://twitter.com/LCharkoudian"
+{
+"text": "About",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "About Lorig",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "Assistance for Renters",
+"href": "http://bit.ly/RentalAssistMoco"
+},
+{
+"text": "Assistance with the Utility Component of your Rent Bill",
+"href": "https://www.lorigd20.com/eusp"
+},
+{
+"text": "Attending a Maryland college? I award annual scholarships!",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "CASH Campaign of Maryland",
+"href": "https://cashmd.org/benefits-screening/"
+},
+{
+"text": "DONATE",
+"href": "https://www.lorigd20.com/donate"
+},
+{
+"text": "Delegate Scholarship",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "Energy Resources",
+"href": "https://www.lorigd20.com/energy"
+},
+{
+"text": "Events",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Farmers Markets",
+"href": "https://www.lorigd20.com/farmers-market-1"
+},
+{
+"text": "Food Distribution Sites",
+"href": "http://bit.ly/FoodAssistMoco"
+},
+{
+"text": "Form: How to Report a Pedestrian or Bike Safety Issue on State Highways",
+"href": "https://roads.maryland.gov/mdotsha/pages/Index.aspx?PageId=519"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Help with Health Care Costs",
+"href": "https://www.lorigd20.com/health-care"
+},
+{
+"text": "Help with Utility Bills",
+"href": "https://dhs.maryland.gov/office-of-home-energy-programs/how-do-you-apply/"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com/community-resources"
+},
+{
+"text": "Immigration Resources",
+"href": "https://www.lorigd20.com/immigration-resources"
+},
+{
+"text": "Legislation",
+"href": "https://www.lorigd20.com/legislation"
+},
+{
+"text": "Lorig.charkoudian@house.state.md.us",
+"href": "mailto:Lorig.charkoudian@house.state.md.us"
+},
+{
+"text": "Mental Health Crisis",
+"href": "https://www.everymind.org/Programs/988/?gad_source=1"
+},
+{
+"text": "Newsroom",
+"href": "https://www.lorigd20.com/news"
+},
+{
+"text": "Power in the Park",
+"href": "https://www.lorigd20.com/power-in-the-park"
+},
+{
+"text": "Power in the Park Resource Fair",
+"href": "https://www.lorigd20.com/power-in-the-park"
+},
+{
+"text": "Precinct Official Information",
+"href": "https://www.lorigd20.com/precinct-official-information"
+},
+{
+"text": "Rental Assistance and Avoiding Eviction​",
+"href": "https://www.montgomerycountymd.gov/DHCA/covid-19/eviction_process_and_renters.html"
+},
+{
+"text": "Resources/Scholarship",
+"href": "https://www.lorigd20.com/community-resources"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.lorigd20.com/subscribe"
+},
+{
+"text": "Supplemental Nutrition Assistance Program (SNAP)",
+"href": "http://bit.ly/SNAPappMD"
+},
+{
+"text": "Unemployment Insurance Application",
+"href": "http://bit.ly/MDUIapp"
+},
+{
+"text": "Unemployment Insurance Tax Payment Plans",
+"href": "https://www.dllr.state.md.us/employment/uitaxpaymentplans.shtml"
+},
+{
+"text": "Unemployment Insurance Webinar",
+"href": "https://www.lorigd20.com/unemployment-insurance-webinar"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Voting Information",
+"href": "https://www.lorigd20.com/voting-information"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/charkoudian.lorig"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lorigcharkoudian/?hl=en"
+},
+{
+"text": "[image: Screen Shot 2021-11-21 at 4.58.01 PM.png]",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LCharkoudian"
+},
+{
+"text": "[no text]",
+"href": "http://bit.ly/MDUIapp"
+},
+{
+"text": "[no text]",
+"href": "mailto:Lorig.charkoudian@house.state.md.us"
+},
+{
+"text": "contact",
+"href": "https://www.lorigd20.com/contact"
+},
+{
+"text": "friendsoflorig@gmail.com",
+"href": "mailto:friendsoflorig@gmail.com"
+},
+{
+"text": "here",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "my office",
+"href": "https://www.lorigd20.com/contact"
+}
 ]

@@ -1,35 +1,35 @@
+    ENGLISH CONOCE A NICOLE arrow_drop_down NUESTRA MISIÓN BIOGRAFÍA TEMAS arrow_drop_down CORRUPCIÓN SENIORS HEALTHCARE MI OPONENTE COSTO DE VIDA INMIGRACIÓN IRÁN CUBA PALESTINA EPSTEIN ENDOSOS DONAR ¡INVOLÚCRATE! arrow_drop_down APÓYANOS TIENDA ¡SÚMATE!
+REGISTRY     0 Your Cart $ 0.00 USD : Remove Subtotal Pay with browser.
+Continue to Checkout No items found.
+Product is not available in this quantity.  ¡ES HORA DE PISAR EL FRENO!
 Los precios siguen subiendo mientras la economía empieza a mostrar señales de desaceleración.
 La guerra está aumentando los costos de energía.
 Los aranceles encarecen los productos.
 Una deuda nacional de $40 billones hace más caro pedir prestado.
 La contratación se está debilitando.
 Y gran parte del mercado de valores depende de enormes expectativas sobre la inteligencia artificial.
-Si los precios siguen altos mientras el empleo y el crecimiento económico se debilitan, corremos el riesgo de caer en estanflación: una de las situaciones económicas más difíciles de resolver.
-La guerra con Irán ha alterado los mercados mundiales de energía.
+Si los precios siguen altos mientras el empleo y el crecimiento económico se debilitan, corremos el riesgo de caer en estanflación : una de las situaciones económicas más difíciles de resolver. ‍ crisis del costo de vida La guerra con Irán ha alterado los mercados mundiales de energía.
 Un petróleo más caro no significa solamente gasolina más cara.
 También aumenta el costo de transportar alimentos y mercancías, cultivar, volar, fabricar productos y llevar casi todo lo que compramos hasta nuestras casas.
 Usar la Reserva Estratégica de Petróleo puede ayudar temporalmente, pero también nos deja con menos reservas para la próxima emergencia.
-Al mismo tiempo, la deuda nacional de Estados Unidos ya superó los $40 billones.
+Al mismo tiempo, la deuda nacional de Estados Unidos ya superó los $40 billones .
 El gobierno financia esa deuda vendiendo bonos.
 Piense en el rendimiento de un bono como la tasa de interés que Estados Unidos tiene que pagar para pedir dinero prestado.
 Cuando los rendimientos suben, pedir prestado cuesta más.
-Cuando bajan, cuesta menos.
-Las tasas más altas de los bonos del Tesoro pueden terminar aumentando las hipotecas, los préstamos de autos, los préstamos para pequeños negocios y otras tasas de interés.
+Cuando bajan, cuesta menos. ‍ Las tasas más altas de los bonos del Tesoro pueden terminar aumentando las hipotecas, los préstamos de autos, los préstamos para pequeños negocios y otras tasas de interés.
 Además, Estados Unidos tiene que competir por inversionistas.
 Japón, por ejemplo, históricamente ha sido uno de los grandes compradores de deuda estadounidense.
 Si los bonos japoneses empiezan a ofrecer mejores rendimientos, hay menos incentivo para invertir ese dinero en Estados Unidos.
 También hay señales de alerta en el mercado laboral.
-Los reportes recientes de empleo han sido revisados repetidamente a la baja, lo que significa que la economía estaba creando menos empleos de lo que inicialmente se pensaba.
+Los reportes recientes de empleo han sido revisados repetidamente a la baja , lo que significa que la economía estaba creando menos empleos de lo que inicialmente se pensaba.
 La contratación se está frenando mientras las familias siguen enfrentando precios altos.
 Mientras tanto, buena parte del crecimiento del mercado de valores depende de enormes expectativas sobre la inteligencia artificial.
 La IA podría crear muchísimo valor, pero las empresas también están gastando y tomando prestadas cantidades enormes de dinero basándose en ganancias que esperan obtener en el futuro.
-Si esas expectativas resultan demasiado optimistas, una caída en la bolsa podría afectar las inversiones, los ahorros para la jubilación, la contratación y la confianza de los consumidores.
-Ese es el riesgo de estanflación: los precios se mantienen altos por la energía, los aranceles, la deuda y otros costos, mientras la creación de empleos y el crecimiento económico se debilitan.
-Las familias quedan atrapadas entre precios más altos y menos oportunidades.
+Si esas expectativas resultan demasiado optimistas, una caída en la bolsa podría afectar las inversiones, los ahorros para la jubilación, la contratación y la confianza de los consumidores. ‍ Ese es el riesgo de estanflación: los precios se mantienen altos por la energía, los aranceles, la deuda y otros costos, mientras la creación de empleos y el crecimiento económico se debilitan.
+Las familias quedan atrapadas entre precios más altos y menos oportunidades. ‍ ¿Qué hacemos?
 Tenemos que dejar de seguir encareciendo la economía.
-Hay muchas maneras de darle la vuelta a esta situación, pero todo empieza por PISAR EL FRENO.
-Después de sacar del Congreso al títere de Trump, Mario Díaz-Balart, podemos empezar a hacer lo obvio:
-1.
+Hay muchas maneras de darle la vuelta a esta situación, pero todo empieza por PISAR EL FRENO .
+Después de sacar del Congreso al títere de Trump, Mario Díaz-Balart, podemos empezar a hacer lo obvio: 1.
 Poner fin a las guerras que alteran los mercados de energía.
 2.
 Reducir los aranceles innecesarios.
@@ -39,10 +39,10 @@ Controlar el déficit y la deuda sin recortar la salud ni los servicios básicos
 Construir más viviendas.Invertir en energía sostenible.
 5.
 Gastar nuestros impuestos aquí mismo, en Estados Unidos.
-En cambio, nuestro representante, Mario Díaz-Balart, toma la decisión equivocada una y otra vez.
-También debemos reconocer que la inmigración legal fortalece nuestra economía.
+En cambio, nuestro representante, Mario Díaz-Balart, toma la decisión equivocada una y otra vez. ‍ También debemos reconocer que la inmigración legal fortalece nuestra economía.
 Los inmigrantes amplían nuestra fuerza laboral, crean negocios, ocupan puestos esenciales, pagan impuestos y generan más actividad económica.
 Reducir la inmigración mientras nuestra población envejece hace más difícil que la economía crezca, empeora la falta de trabajadores y puede contribuir al aumento de los precios.
-En vez de hacer que las familias trabajadoras carguen con el costo de nuestra deuda, debemos exigir que los multimillonarios y las grandes corporaciones aporten más.
-La solución a la crisis del costo de vida es reducir los costos innecesarios mientras construimos una economía más grande, más fuerte y más productiva.
+En vez de hacer que las familias trabajadoras carguen con el costo de nuestra deuda, debemos exigir que los multimillonarios y las grandes corporaciones aporten más. ‍ La solución a la crisis del costo de vida es reducir los costos innecesarios mientras construimos una economía más grande, más fuerte y más productiva.
 Cuando saquemos a Mario Díaz-Balart del Congreso el 3 de noviembre, me pondré a trabajar para arreglar el desastre que deja atrás.
+Solicita la participación de la demócrata Nicole Locklin en un evento: Si desea que Nicole Locklin asista a su reunión o a cualquier otro tipo de evento, por favor envíe su solicitud por correo electrónico a: info@locklinforcongress.com Nicole Locklin para el Congreso de los Estados Unidos | 650 NE 32nd Street Miami, FL 33137 1808 N.
+University Dr, Pembroke Pines, FL 33024 (786) 626-0772 La presencia de personas en fotos o videos en nuestro sitio web no implica un respaldo a Nicole Locklin por parte de esas personas ni de ninguna organización con la que puedan estar afiliadas, a menos que se indique lo contrario. ‍     Política de Privacidad

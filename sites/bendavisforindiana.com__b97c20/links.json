@@ -1,24 +1,102 @@
 [
-"https://bendavisforindiana.com/",
-"https://bendavisforindiana.com/about",
-"https://bendavisforindiana.com/contact",
-"https://bendavisforindiana.com/events",
-"https://bendavisforindiana.com/issues",
-"https://bendavisforindiana.com/volunteer",
-"https://bendavisforindiana.substack.com/",
-"https://designedtorun.com/",
-"https://donorbox.org/ben-davis-for-indiana",
-"https://donorbox.org/ben-davis-for-indiana?amount=10",
-"https://donorbox.org/ben-davis-for-indiana?amount=100",
-"https://donorbox.org/ben-davis-for-indiana?amount=25",
-"https://donorbox.org/ben-davis-for-indiana?amount=250",
-"https://donorbox.org/ben-davis-for-indiana?amount=50",
-"https://facebook.com//profile.php?id=61584106796963",
-"https://iga.in.gov/information/find-legislators",
-"https://indianavoters.in.gov/",
-"https://instagram.com//bendavisforindiana",
-"https://linkedin.com/in/bendavisitpro",
-"https://socialistpartyin.com/",
-"https://tiktok.com/@bendavisforindiana",
-"https://youtube.com/@BenDavisforIndiana"
+{
+"text": "$10",
+"href": "https://donorbox.org/ben-davis-for-indiana?amount=10"
+},
+{
+"text": "$100",
+"href": "https://donorbox.org/ben-davis-for-indiana?amount=100"
+},
+{
+"text": "$25",
+"href": "https://donorbox.org/ben-davis-for-indiana?amount=25"
+},
+{
+"text": "$250",
+"href": "https://donorbox.org/ben-davis-for-indiana?amount=250"
+},
+{
+"text": "$50",
+"href": "https://donorbox.org/ben-davis-for-indiana?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.bendavisforindiana.com/about"
+},
+{
+"text": "Check your address",
+"href": "https://iga.in.gov/information/find-legislators"
+},
+{
+"text": "Contact",
+"href": "https://www.bendavisforindiana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/ben-davis-for-indiana"
+},
+{
+"text": "Events",
+"href": "https://www.bendavisforindiana.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.bendavisforindiana.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.bendavisforindiana.com/issues"
+},
+{
+"text": "Other",
+"href": "https://donorbox.org/ben-davis-for-indiana"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Socialist Party of Indiana",
+"href": "https://socialistpartyin.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bendavisforindiana.com/volunteer"
+},
+{
+"text": "[image: Ben Davis for Indiana | House District 13]",
+"href": "https://www.bendavisforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bendavisforindiana.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61584106796963"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//bendavisforindiana/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/bendavisitpro/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bendavisforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BenDavisforIndiana"
+},
+{
+"text": "hello@bendavisforindiana.com",
+"href": "mailto:hello@bendavisforindiana.com"
+}
 ]

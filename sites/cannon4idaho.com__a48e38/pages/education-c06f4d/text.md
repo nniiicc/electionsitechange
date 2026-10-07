@@ -1,4 +1,5 @@
-The phrase “Common Sense Conservatism” applies to education.
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Education The phrase “Common Sense Conservatism” applies to education.
 Education in Idaho can be improved by approaching education less like a government program and more from a free-market standpoint.
 What does that mean?
 The course for Idaho education should be charted by Idahoans, not by bureaucrats living in Washington, D.C.
@@ -17,3 +18,4 @@ Accountability for results.
 Choice.
 These are the tools which have led to prosperity and progress in America’s free markets.
 These are the tools which, applied more frequently and readily in Idaho education, will bring growth and progress to this vital area.
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

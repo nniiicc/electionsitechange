@@ -1,18 +1,90 @@
 [
-"https://jonkoznick.com/",
-"https://jonkoznick.com/economy-inflation",
-"https://jonkoznick.com/endorsements",
-"https://jonkoznick.com/family-budgets-first",
-"https://jonkoznick.com/general-9",
-"https://jonkoznick.com/get-involved",
-"https://jonkoznick.com/lowering-healthcare-costs",
-"https://jonkoznick.com/news",
-"https://jonkoznick.com/priorities",
-"https://jonkoznick.com/public-safety",
-"https://jonkoznick.com/results",
-"https://jonkoznick.com/supporting-our-schools",
-"https://jonkoznick.com/teamkoz",
-"https://jonkoznick.com/transportation",
-"https://jonkoznick.com/vote",
-"https://secure.anedot.com/jon-koznick-for-house/donate"
+{
+"text": "#TeamKozMN",
+"href": "https://www.jonkoznick.com/teamkoz"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jon-koznick-for-house/donate"
+},
+{
+"text": "ECONOMY & INFLATION",
+"href": "https://www.jonkoznick.com/economy-inflation"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonkoznick.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonkoznick.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jonkoznick.com"
+},
+{
+"text": "LOWERING HEALTHCARE COSTS",
+"href": "https://www.jonkoznick.com/lowering-healthcare-costs"
+},
+{
+"text": "Learn More",
+"href": "https://www.jonkoznick.com/economy-inflation"
+},
+{
+"text": "Learn More",
+"href": "https://www.jonkoznick.com/family-budgets-first"
+},
+{
+"text": "Learn More",
+"href": "https://www.jonkoznick.com/lowering-healthcare-costs"
+},
+{
+"text": "Learn More",
+"href": "https://www.jonkoznick.com/public-safety"
+},
+{
+"text": "Learn More",
+"href": "https://www.jonkoznick.com/supporting-our-schools"
+},
+{
+"text": "Learn More",
+"href": "https://www.jonkoznick.com/transportation"
+},
+{
+"text": "News",
+"href": "https://www.jonkoznick.com/news"
+},
+{
+"text": "PUBLIC SAFETY",
+"href": "https://www.jonkoznick.com/public-safety"
+},
+{
+"text": "PUTTING FAMILY BUDGETS FIRST",
+"href": "https://www.jonkoznick.com/family-budgets-first"
+},
+{
+"text": "Priorities",
+"href": "https://www.jonkoznick.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jonkoznick.com/general-9"
+},
+{
+"text": "Results",
+"href": "https://www.jonkoznick.com/results"
+},
+{
+"text": "SUPPORTING OUR SCHOOLS",
+"href": "https://www.jonkoznick.com/supporting-our-schools"
+},
+{
+"text": "TRANSPORTATION",
+"href": "https://www.jonkoznick.com/transportation"
+},
+{
+"text": "Vote",
+"href": "https://www.jonkoznick.com/vote"
+}
 ]

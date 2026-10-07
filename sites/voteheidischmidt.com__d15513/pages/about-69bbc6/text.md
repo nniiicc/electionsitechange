@@ -1,5 +1,4 @@
-Meet Heidi Schmidt
-I’m Heidi.
+0 Skip to Content Home Meet Heidi On the Issues Get Involved DONATE Open Menu Close Menu Home Meet Heidi On the Issues Get Involved DONATE Open Menu Close Menu Home Meet Heidi On the Issues Get Involved DONATE Meet Heidi Schmidt I’m Heidi.
 I’m a mom, a small business owner, a community advocate, and proud resident of Pasadena, Maryland.
 I’m running to represent District 31 in the Maryland House of Delegates because our communities deserve leadership that listens, leads with integrity, and puts people over politics.
 I was born and raised in Vermont, the first in my family to go to college.
@@ -18,12 +17,12 @@ In addition to running my business, I have served on the board of the Pasadena B
 I also represent District 31 on the Anne Arundel County Democratic Central Committee.
 I’ve previously served on the board of the Junior League of Annapolis (VP of Communications, Secretary-Elect, and Secretary) and have volunteered with Girls on the Run of Greater Chesapeake as a coach (2012), the Lake Shore Elementary & CBMS PTAs (2018 - 2024), and the Scouts of America, as my son participated in the Cub Scout program (2018 - 2024).
 I believe showing up matters, and I’m proud to be running for the opportunity to serve our community.
-My Leadership Values…
-- Authenticity – I believe in being genuine and honest with the people I serve.
-- Integrity – I don’t make empty promises.
+My Leadership Values… Authenticity – I believe in being genuine and honest with the people I serve.
+Integrity – I don’t make empty promises.
 I believe in follow-through and accountability.
-- Communication – I’m here to listen, learn, and lead through collaboration, not isolation.
+Communication – I’m here to listen, learn, and lead through collaboration, not isolation.
 I’m running to represent everyone in District 31.
 That means open conversations, responsive leadership, mutual respect, and a genuine commitment to learning what matters most to you. because public service should be about showing up, not showing off.
 When I’m not working or campaigning, you can find me out on the trails, paddling local waterways, nose deep in a good book, or logging a few miles on a run.
 I believe in balance, in being grounded, and in leading with heart.
+Make An Impact SIGN UP TO VOLUNTEER DONATE TO SUPPORT OUR CAMPAIGN By Authority: Friends of Heidi Schmidt Treasurer: Adam Schmidt DONATE TO OUR CAMPAIGN

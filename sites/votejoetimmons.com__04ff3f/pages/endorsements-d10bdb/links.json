@@ -1,59 +1,250 @@
 [
-"https://231teamsters.org/",
-"https://aftwa.org/",
-"https://atu.org/",
-"https://auws.enpnetwork.com/",
-"https://awb.org/",
-"https://childrenscampaignfund.org/",
-"https://eccwa.org/wp",
-"https://facebook.com/votejoetimmons",
-"https://gunresponsibility.org/",
-"https://housingactionfund.org/",
-"https://iaff106.org/",
-"https://iam751.org/",
-"https://ibew48.com/",
-"https://ilwuinwa.org/",
-"https://instagram.com/vote.joetimmons",
-"https://jc28.org/",
-"https://lummi-nsn.gov/node/Website.php?PageID=388",
-"https://momsdemandaction.org/",
-"https://ncscarpenters.org/",
-"https://nwwclc.com/",
-"https://plannedparenthood.org/planned-parenthood-greater-washington-north-idaho",
-"https://pseclassified.org/",
-"https://rpecwa.org/",
-"https://secure.actblue.com/donate/joetimmons",
-"https://seiu1199nw.org/",
-"https://seiu775.org/",
-"https://seiu925.org/",
-"https://sierraclub.org/washington",
-"https://smart-nwrc.org/smart-local-66",
-"https://smw55.org/",
-"https://ualocal32.com/",
-"https://uawregion6.org/",
-"https://votejoetimmons.com/",
-"https://votejoetimmons.com/code-of-conduct",
-"https://votejoetimmons.com/endorsements",
-"https://votejoetimmons.com/events",
-"https://votejoetimmons.com/latest-news",
-"https://votejoetimmons.com/media-gallery",
-"https://votejoetimmons.com/meet-joe",
-"https://votejoetimmons.com/priorities",
-"https://votejoetimmons.com/privacy-policy",
-"https://votejoetimmons.com/volunteer",
-"https://wabikes.org/",
-"https://wabuildingtrades.org/",
-"https://waconservationaction.org/",
-"https://wahsd.org/",
-"https://washingtonea.org/",
-"https://washingtonretail.org/",
-"https://wcar.net/",
-"https://wfse.org/",
-"https://whatcomdemocrats.org/",
-"https://wp.42dems.org/",
-"https://wslc.org/",
-"https://wsna.org/",
-"https://wspta.org/",
-"https://wssra.org/",
-"https://wsvma.org/"
+{
+"text": "Code of Conduct",
+"href": "https://www.votejoetimmons.com/code-of-conduct"
+},
+{
+"text": "Contact Joe",
+"href": "mailto:hello@votejoetimmons.com?subject=Joe%21+I+have+a+question"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joetimmons"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejoetimmons.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votejoetimmons.com/events"
+},
+{
+"text": "Joe Timmons",
+"href": "https://www.votejoetimmons.com/meet-joe"
+},
+{
+"text": "Latest News",
+"href": "https://www.votejoetimmons.com/latest-news"
+},
+{
+"text": "Like",
+"href": "https://www.facebook.com/votejoetimmons"
+},
+{
+"text": "Like",
+"href": "https://www.instagram.com/vote.joetimmons"
+},
+{
+"text": "Media Gallery",
+"href": "https://www.votejoetimmons.com/media-gallery"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.votejoetimmons.com/meet-joe"
+},
+{
+"text": "Priorities",
+"href": "https://www.votejoetimmons.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejoetimmons.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejoetimmons.com/volunteer"
+},
+{
+"text": "[image: 42nd Legislative District Democrats Logo]",
+"href": "https://wp.42dems.org/"
+},
+{
+"text": "[image: Advanced Practice Registered Nurses of Washington State Logo]",
+"href": "https://auws.enpnetwork.com/"
+},
+{
+"text": "[image: Alliance for Gun Responsibility Logo]",
+"href": "https://gunresponsibility.org/"
+},
+{
+"text": "[image: Amalgamated Transit Union Legislative Council Logo]",
+"href": "https://www.atu.org/"
+},
+{
+"text": "[image: American Federation of Teachers Washington Logo]",
+"href": "https://www.aftwa.org/"
+},
+{
+"text": "[image: Association of Washington Business Logo]",
+"href": "https://www.awb.org/"
+},
+{
+"text": "[image: Children's Campaign Fund Logo]",
+"href": "https://www.childrenscampaignfund.org/"
+},
+{
+"text": "[image: Environment and Climate Council of the Washington State Democratic Party Logo]",
+"href": "https://eccwa.org/wp/"
+},
+{
+"text": "[image: International Association of Fire Fighters Local 106 Logo]",
+"href": "https://www.iaff106.org/"
+},
+{
+"text": "[image: International Association of Machinists & Aerospace Workers District Lodge 751 Logo]",
+"href": "https://www.iam751.org/"
+},
+{
+"text": "[image: International Brotherhood of Electrical Workers Local 48 Logo]",
+"href": "https://www.ibew48.com/"
+},
+{
+"text": "[image: International Brotherhood of Teamsters Local 231 Logo]",
+"href": "https://www.231teamsters.org/"
+},
+{
+"text": "[image: Joe Timmons Logo - Cream Background.png]",
+"href": "https://www.votejoetimmons.com"
+},
+{
+"text": "[image: Joe Timmons Logo - White Background.png]",
+"href": "https://www.votejoetimmons.com"
+},
+{
+"text": "[image: Joint Council of Teamsters 28 Logo]",
+"href": "https://www.jc28.org/"
+},
+{
+"text": "[image: Lummi Indian Business Council Logo]",
+"href": "https://www.lummi-nsn.gov/node/Website.php?PageID=388"
+},
+{
+"text": "[image: Moms Demand Action Logo]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: North Coast States Carpenters Union Logo]",
+"href": "https://ncscarpenters.org/"
+},
+{
+"text": "[image: Northwest Washington Central Labor Council Logo]",
+"href": "https://www.nwwclc.com/"
+},
+{
+"text": "[image: Planned Parenthood Advocates of Greater Washington and North Idaho Logo]",
+"href": "https://www.plannedparenthood.org/planned-parenthood-greater-washington-north-idaho"
+},
+{
+"text": "[image: Public School Employees of Washington Logo]",
+"href": "https://www.pseclassified.org/"
+},
+{
+"text": "[image: Retired Public Employees Council of Washington Logo]",
+"href": "https://rpecwa.org/"
+},
+{
+"text": "[image: Service Employees International Union Local 1199NW Logo]",
+"href": "https://www.seiu1199nw.org/"
+},
+{
+"text": "[image: Service Employees International Union Local 775 Logo]",
+"href": "https://seiu775.org/"
+},
+{
+"text": "[image: Service Employees International Union Local 925 Logo]",
+"href": "https://www.seiu925.org/"
+},
+{
+"text": "[image: Sheet Metal Workers Local Union 55 Logo]",
+"href": "https://smw55.org/"
+},
+{
+"text": "[image: Sheet Metal Workers Local Union 66 Logo]",
+"href": "https://smart-nwrc.org/smart-local-66/"
+},
+{
+"text": "[image: Sierra Club Logo]",
+"href": "https://www.sierraclub.org/washington"
+},
+{
+"text": "[image: United Association Local 32 Logo]",
+"href": "https://ualocal32.com/"
+},
+{
+"text": "[image: United Auto Workers Region 6 Logo]",
+"href": "https://www.uawregion6.org/"
+},
+{
+"text": "[image: Washington Area District Council of the International Longshore and Warehouse Union Logo]",
+"href": "https://ilwuinwa.org/"
+},
+{
+"text": "[image: Washington Bikes Logo]",
+"href": "https://wabikes.org/"
+},
+{
+"text": "[image: Washington Conservation Action Logo]",
+"href": "https://waconservationaction.org/"
+},
+{
+"text": "[image: Washington Education Association Logo]",
+"href": "https://www.washingtonea.org/"
+},
+{
+"text": "[image: Washington Federation of State Employees Logo]",
+"href": "https://wfse.org/"
+},
+{
+"text": "[image: Washington Housing Alliance Action Fund Logo]",
+"href": "https://housingactionfund.org/"
+},
+{
+"text": "[image: Washington Retail Association Logo]",
+"href": "https://washingtonretail.org/"
+},
+{
+"text": "[image: Washington State Building & Construction Trades Council Logo]",
+"href": "https://www.wabuildingtrades.org/"
+},
+{
+"text": "[image: Washington State High School Democrats Logo]",
+"href": "https://www.wahsd.org/"
+},
+{
+"text": "[image: Washington State Labor Council Logo]",
+"href": "https://wslc.org/"
+},
+{
+"text": "[image: Washington State Nurses Association Political Action Committee Logo]",
+"href": "https://www.wsna.org/"
+},
+{
+"text": "[image: Washington State Patrol Troopers Association Logo]",
+"href": "https://www.wspta.org/"
+},
+{
+"text": "[image: Washington State School Retirees' Association Logo]",
+"href": "https://wssra.org/"
+},
+{
+"text": "[image: Washington State Veterinary Medical Association Logo]",
+"href": "https://wsvma.org/"
+},
+{
+"text": "[image: Whatcom County Association of Realtors Logo]",
+"href": "https://www.wcar.net/"
+},
+{
+"text": "[image: Whatcom County Democrats Logo]",
+"href": "https://www.whatcomdemocrats.org/"
+},
+{
+"text": "making a contribution",
+"href": "https://secure.actblue.com/donate/joetimmons"
+},
+{
+"text": "signing up to volunteer",
+"href": "https://www.votejoetimmons.com/volunteer"
+}
 ]

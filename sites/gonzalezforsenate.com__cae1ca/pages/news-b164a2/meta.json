@@ -1,7 +1,11 @@
 {
  "description": "Press releases and news coverage from Guillermo Gonzalez's campaign for California State Senate, District 16.",
  "final_url": "https://www.gonzalezforsenate.com/news",
- "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 &copy; 2026 Guillermo Gonzalez for Senate 2026",
+ "fingerprint": "d4993cee5f42392db77bf46619a317fe2b6214e4",
+ "format": 3,
+ "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026",
  "title": "In the News | Gonzalez for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

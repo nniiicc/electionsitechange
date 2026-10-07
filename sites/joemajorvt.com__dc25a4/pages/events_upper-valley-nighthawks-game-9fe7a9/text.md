@@ -1,9 +1,3 @@
-Back to All Events
-Joe will be throwing out the first pitch at this Upper Valley Nighthawks game.
-Previous
-Previous
-June 27
-Windsor County Senate Candidate Forum - Springfield, VT
-Next
-Next
-June 29
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Back to All Events Upper Valley Nighthawks Game Sunday, June 28, 2026 5:00 PM 6:00 PM Maxfield Sports Complex 120 Lesle Dr White River Junction, VT 05001 United States (map) Google Calendar ICS Joe will be throwing out the first pitch at this Upper Valley Nighthawks game.
+Previous Previous June 27 Windsor County Senate Candidate Forum - Springfield, VT Next Next June 29 Hartford Town Hall Candidates Forum Joe Major for Windsor County Senate Donate Today!
+Actblue.com

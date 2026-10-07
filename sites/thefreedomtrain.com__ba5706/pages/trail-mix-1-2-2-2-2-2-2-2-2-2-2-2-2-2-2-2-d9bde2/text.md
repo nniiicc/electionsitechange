@@ -1,6 +1,4 @@
-The President Is Selling Inside Information
-8/12/26
-Citizens!
+Skip to content The President Is Selling Inside Information 8/12/26 Citizens!
 President Donald Trump recently announced that he is selling early access to his Truth Social posts for $60,000 to $100,000.
 As president, his policies affect both the world’s political situation and financial markets, and early access to a forthcoming policy could result in large profits for subscribers.
 The president of the United States is selling inside information!
@@ -19,3 +17,6 @@ It is time for common sense in these uncommon times.
 If you agree, I would like to earn your vote.
 My name is Gaylon Kent, and I am the Libertarian Party’s nominee for Congress from Colorado’s 2nd District.
 We have a country to change; let’s get to work.
+Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

@@ -1,12 +1,4 @@
-Back to All Events
-Meet at the 1st Shelter across from old Golf Course
-Join us for a celebration of all your good work toward the priMARY win and help us kick off the second phase of this campaign.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Party in the Park - Vanderburgh Wednesday, May 27, 2026 5:30 PM 7:00 PM Wesselman Park 551 North Boeke Road Evansville, IN, 47711 United States (map) Google Calendar ICS Meet at the 1st Shelter across from old Golf Course Join us for a celebration of all your good work toward the priMARY win and help us kick off the second phase of this campaign.
 Join us for ice cream sundaes, outdoor games, and a drop of new campaign swag.
 This party is free and all about this movement of working together for the people of the 8th district.
-Previous
-Previous
-May 22
-Party in the Park- Terre Haute
-Next
-Next
-May 28
+Source: https://www.mobilize.us/maryallenforcongress/event/953958/ Previous Previous May 22 Party in the Park- Terre Haute Next Next May 28 Party in the Park- Jasper REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

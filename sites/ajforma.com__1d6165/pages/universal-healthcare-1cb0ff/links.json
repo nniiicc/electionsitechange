@@ -1,19 +1,82 @@
 [
-"http://masscare.org/",
-"https://ajforma.com/",
-"https://ajforma.com/events",
-"https://ajforma.com/get-involved",
-"https://ajforma.com/media",
-"https://ajforma.com/meet-andrea",
-"https://ajforma.com/platform",
-"https://ajforma.com/shop",
-"https://ajforma.com/voter-information",
-"https://andrea-james-for-governor.solidarity.tech/donate",
-"https://bsky.app/profile/andreaforgovernor.bsky.social",
-"https://facebook.com/andreaforgovernor",
-"https://instagram.com/andreaforgovernor",
-"https://masscare.org/about",
-"https://solidarity.tech/",
-"https://tiktok.com/@ajforma",
-"https://x.com/ajforma"
+{
+"text": "Donate",
+"href": "https://andrea-james-for-governor.solidarity.tech/donate"
+},
+{
+"text": "Events",
+"href": "https://www.ajforma.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ajforma.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.ajforma.com/platform"
+},
+{
+"text": "Media and Contact",
+"href": "https://www.ajforma.com/media"
+},
+{
+"text": "Meet Andrea",
+"href": "https://www.ajforma.com/meet-andrea"
+},
+{
+"text": "Read more Issues.",
+"href": "https://www.ajforma.com/platform"
+},
+{
+"text": "Shop",
+"href": "https://www.ajforma.com/shop"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.ajforma.com/voter-information"
+},
+{
+"text": "[image: Andrea James for Governor]",
+"href": "https://www.ajforma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/andreaforgovernor.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.ajforma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/andreaforgovernor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andreaforgovernor"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ajforma"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ajforma"
+},
+{
+"text": "https://masscare.org/about/",
+"href": "https://masscare.org/about/"
+},
+{
+"text": "masscare.org",
+"href": "http://masscare.org"
+}
 ]

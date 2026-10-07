@@ -1,23 +1,114 @@
 [
-"http://facebook.com/malcolmpruff",
-"http://instagram.com/malcolmpruff",
-"http://threads.net/@malcolmpruff",
-"https://baltimorecity.gov/boe/our-work/election-information/voting-centers",
-"https://elections.maryland.gov/voter_registration/documents/VRA-English.pdf",
-"https://elections.maryland.gov/voting/documents/Absentee_Ballot_Application_English.pdf",
-"https://malcolmpruff.com/",
-"https://malcolmpruff.com/about-me",
-"https://malcolmpruff.com/cart",
-"https://malcolmpruff.com/endorsements",
-"https://malcolmpruff.com/issues",
-"https://malcolmpruff.com/privacy-policy",
-"https://malcolmpruff.com/volunteer",
-"https://malcolmpruff.com/vote",
-"https://maps.app.goo.gl/4dbQPxfifmYxaZLT6",
-"https://maps.caliper.com/public-plans/planviewer-sb1012-congressional",
-"https://secure.actblue.com/donate/mpr41ct",
-"https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch"
+{
+"text": "0",
+"href": "https://www.malcolmpruff.com/cart"
+},
+{
+"text": "410-396-5550",
+"href": "tel:4103965550"
+},
+{
+"text": "417 E. Fayette St., #129, Baltimore, MD 21202",
+"href": "https://maps.app.goo.gl/4dbQPxfifmYxaZLT6"
+},
+{
+"text": "866-687-8683",
+"href": "tel:8666878683"
+},
+{
+"text": "About Malcolm",
+"href": "https://www.malcolmpruff.com/about-me"
+},
+{
+"text": "Click here",
+"href": "https://www.baltimorecity.gov/boe/our-work/election-information/voting-centers"
+},
+{
+"text": "Click here to find your local polling place.",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "Click here to request a mail-in ballot.",
+"href": "https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1"
+},
+{
+"text": "Click this link here to check.",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mpr41ct"
+},
+{
+"text": "Endorsements",
+"href": "https://www.malcolmpruff.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.malcolmpruff.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.malcolmpruff.com/issues"
+},
+{
+"text": "MALCOLM P. RUFF",
+"href": "https://www.malcolmpruff.com/"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://www.malcolmpruff.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.malcolmpruff.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.malcolmpruff.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/malcolmpruff"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/malcolmpruff"
+},
+{
+"text": "[no text]",
+"href": "http://threads.net/@malcolmpruff"
+},
+{
+"text": "click here to enroll",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "click here.",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "click this link to print",
+"href": "https://elections.maryland.gov/voting/documents/Absentee_Ballot_Application_English.pdf"
+},
+{
+"text": "clicking here.",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "election.judge@baltimorecity.gov",
+"href": "mailto:election.judge@baltimorecity.gov"
+},
+{
+"text": "info@ruff41.com",
+"href": "mailto:info@ruff41.com"
+},
+{
+"text": "using this form linked here.",
+"href": "https://elections.maryland.gov/voter_registration/documents/VRA-English.pdf"
+}
 ]

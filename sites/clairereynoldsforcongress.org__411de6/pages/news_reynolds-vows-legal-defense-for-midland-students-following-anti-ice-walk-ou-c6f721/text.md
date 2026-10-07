@@ -1,15 +1,21 @@
-PRESS RELEASE
-Reynolds Vows Legal Defense for Midland Students Following Anti-ICE Walk-Out
-FOR IMMEDIATE RELEASE
-February 1, 2026
-Contact: Claire Reynolds, media@clairereynoldsforcongress.org, 512-666-0424
-AUSTIN, Texas - Claire Reynolds, Democratic candidate for U.S.
+Skip navigation menu Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire News Issues Press Kit Get Involved Español Donate NEWS ARTICLE Claire Reynolds Searches for Blue Dots in West Texas PODCAST Claire on Wait What?!
+NEWS ARTICLE Democrats Hammer on Data Centers, Local Control PRESS RELEASE Reynolds Demands Pfluger Act After Fatal ICE Shootings YouTube Video Claire Reynolds Addresses Texas Democratic Convention Podcast Claire Reynolds on Progress Texas: Fighting for West Texas, Holding Power Accountable NEWS ARTICLE Republican Congress Extends Shutdown Through April NEWS ARTICLE Claire Reynolds Wins Democratic Nomination for TX-11 NEWS ARTICLE Meet the candidates in Texas’ 11th Congressional District NEWS ARTICLE Travis County Republicans Delay Primary Returns NEWS ARTICLE Stephen Colbert blasts CBS for nixing James Talarico interview NEWS ARTICLE August Pfluger Blames Democrats for Minneapolis Tragedies NEWS ARTICLE After Anti-ICE School Walkout, Midland ISD Police Seek to Identify Organizers PRESS RELEASE Reynolds Vows Legal Defense for Midland Students Following Anti-ICE Walk-Out NEWS ARTICLE Pfluger Won't Speak Truth to Power NEWS ARTICLE Reynolds Wins NorthEast Travis County Democrats Endorsement NEWS ARTICLE Claire Reynolds Wants Congress to do its Job NEWS ARTICLE Reynolds Wins Liberal Austin Democrats Endorsement NEWS ARTICLE Democrat Claire Reynolds Challenges Republican August Pfluger PRESS RELEASE Claire Reynolds Clears Key Early Fundraising Benchmark in First FEC Filing NEWS ARTICLE Texas Tribune's Primary Voter Guide NEWS ARTICLE Which January 6 Traitors Can We Vote Out This Year?
+PRESS RELEASE Attorney and Ethics Watchdog Claire Reynolds Announces 11th District Run in Texas NEWS ARTICLE Democrats Hoping for a Comeback, Again NEWS ARTICLE USPS changes may delay postmark dates, affecting mail-in ballots, tax payments News Texas Democrats fill every state and federal race on 2026 ballot, a first for either party NEWS ARTICLE Claire Reynolds on West Texas Data Center Fight: "You Are the Employers" NEWS ARTICLE A Representative's Loyalty Is to the District, Not the Party NEWS ARTICLE It's Dems vs.
+Goliaths on the Campaign Trail PRESS RELEASE Congressman Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington NEWS ARTICLE "Uncharted territory": Two months from Election Day, Democrats in Texas are truly competitive NEWS VIDEO Permian Basin Central Labor Union holds 70th annual Labor Day luncheon NEWS ARTICLE "Up Against a 500-Pound Gorilla": Can Dems Make Inroads in Deep-Red West Texas?
+Podcast Pod Save America: Choosin' Texas with Bobby Pulido NEWS ARTICLE Democrat Claire Reynolds says accountability drives bid for Texas District 11 Editorial Endorsement Reynolds offers U.S.
+House 11 a stronger Central Texas voice Youtube / PBS Texas Congressional District 11 Debate Feb 1 2026 PRESS RELEASE Reynolds Vows Legal Defense for Midland Students Following Anti-ICE Walk-Out FOR IMMEDIATE RELEASE February 1, 2026 Contact: Claire Reynolds, media@clairereynoldsforcongress.org , 512-666-0424 AUSTIN, Texas - Claire Reynolds, Democratic candidate for U.S.
 House in Texas’s 11th Congressional District, announced today that she will personally represent or fund legal representation for any Midland ISD students facing criminal charges after participating in last week’s U.S.
 Immigration and Customs Enforcement (ICE) protest walkout.
 Reynolds’ statement comes in response to a notice from the Midland ISD Police Department, made late January 30 on the Midland Crime Stoppers Facebook page, seeking information related to notes in school restrooms encouraging the student walkout, and asking members of the public to provide tips to law enforcement.
 “If any kids from Midland ISD are charged with a crime because of the walkout, I will represent them on those criminal charges or pay for their representation,” Claire vowed.
 Reynolds emphasized that youth civic engagement should be encouraged, not criminalized.
 “Kids, I'm so damn proud of you for standing up for what you believe in.
-Don't ever let any adult tell you that your voice doesn't matter–or that you're wrong for caring about how our government treats human beings.”
-As a licensed attorney and former ethics watchdog for the Texas State Bar, civil rights, constitutional protection, and accountability are central parts of Reynolds’ congressional campaign.
+Don't ever let any adult tell you that your voice doesn't matter–or that you're wrong for caring about how our government treats human beings.” As a licensed attorney and former ethics watchdog for the Texas State Bar, civil rights, constitutional protection, and accountability are central parts of Reynolds’ congressional campaign.
 She has repeatedly called for the abolishment of ICE due to widespread constitutional abuses perpetrated by the agency against U.S. citizens and residents, including against children.
+Make checks payable to: Claire Reynolds for Congress P.O.
+Box 200753 Austin, TX 78720 (please include your job title and employer) info@clairereynoldsforcongress.org By submitting your mobile number, you consent to receive voting and donation messages from Claire Reynolds for Congress.
+Msg & data rates may apply.
+Msg frequency varies.
+Text HELP for help, STOP to Opt Out.
+Privacy Policy .
+For Press Inquiries, contact press@clairereynoldsforcongress.org Powered by RUN! website builder Paid for by Claire Reynolds for Congress You need to enable JavaScript to run this app.

@@ -1,28 +1,178 @@
 [
-"https://facebook.com/JoshShapiroPA",
-"https://instagram.com/joshshapiropa",
-"https://joshshapiro.org/",
-"https://joshshapiro.org/accessibility-statement",
-"https://joshshapiro.org/es",
-"https://joshshapiro.org/invite-josh",
-"https://joshshapiro.org/join",
-"https://joshshapiro.org/meet-austin",
-"https://joshshapiro.org/meet-josh",
-"https://joshshapiro.org/news",
-"https://joshshapiro.org/news/governor-shapiro-endorses-democratic-candidates-in-critical-state-house-and-senate-races-across-pennsylvania",
-"https://joshshapiro.org/news/icymi-governor-josh-shapiro-and-governor-gretchen-whitmer-campaign-together-in-philadelphia",
-"https://joshshapiro.org/news/icymi-lt-governor-austin-davis-fires-up-pennsylvanians-in-cambria-westmoreland-and-allegheny-counties-highlighting-the-stakes-of-the-midterms",
-"https://joshshapiro.org/news/new-ad-shapiro-for-pennsylvania-campaign-launches-tv-and-digital-ad-highlighting-stacy-garritys-100-loyalty-to-donald-trumps-reckless-cost-raising-agenda",
-"https://joshshapiro.org/news/with-one-month-until-election-day-governor-josh-shapiro-fires-up-pennsylvanians-in-philadelphia-and-bucks-county",
-"https://joshshapiro.org/privacy-policy",
-"https://joshshapiro.org/yard-sign-pickup",
-"https://secure.actblue.com/donate/s4gwebsite",
-"https://secure.actblue.com/donate/s4gwebsite?amount=100",
-"https://secure.actblue.com/donate/s4gwebsite?amount=15",
-"https://secure.actblue.com/donate/s4gwebsite?amount=25",
-"https://secure.actblue.com/donate/s4gwebsite?amount=5",
-"https://secure.actblue.com/donate/s4gwebsite?amount=50",
-"https://shop.joshshapiro.org/",
-"https://twitter.com/joshshapiropa",
-"https://youtube.com/channel/UC_6gZyhRgtaQoBW7_JRcPIA/featured"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=15"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=50"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=50"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://joshshapiro.org/accessibility-statement/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:contact@joshshapiro.org"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=25"
+},
+{
+"text": "ES",
+"href": "https://joshshapiro.org/es/"
+},
+{
+"text": "Governor Shapiro Endorses Democratic Candidates in Critical State House and Senate Races Across PennsylvaniaSeptember 29, 2026",
+"href": "https://joshshapiro.org/news/governor-shapiro-endorses-democratic-candidates-in-critical-state-house-and-senate-races-across-pennsylvania/"
+},
+{
+"text": "ICYMI: Governor Josh Shapiro and Governor Gretchen Whitmer Campaign Together in PhiladelphiaSeptember 26, 2026",
+"href": "https://joshshapiro.org/news/icymi-governor-josh-shapiro-and-governor-gretchen-whitmer-campaign-together-in-philadelphia/"
+},
+{
+"text": "ICYMI: Lt. Governor Austin Davis Fires Up Pennsylvanians in Cambria, Westmoreland, and Allegheny Counties, Highlighting the Stakes of the MidtermsSeptember 28, 2026",
+"href": "https://joshshapiro.org/news/icymi-lt-governor-austin-davis-fires-up-pennsylvanians-in-cambria-westmoreland-and-allegheny-counties-highlighting-the-stakes-of-the-midterms/"
+},
+{
+"text": "Invite Josh",
+"href": "https://joshshapiro.org/invite-josh/"
+},
+{
+"text": "Meet Austin",
+"href": "https://joshshapiro.org/meet-austin/"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshshapiro.org/meet-josh/"
+},
+{
+"text": "NEW AD: Shapiro for Pennsylvania Campaign Launches TV and Digital Ad Highlighting Stacy Garrity’s 100% Loyalty to Donald Trump’s Reckless, Cost-Raising AgendaSeptember 29, 2026",
+"href": "https://joshshapiro.org/news/new-ad-shapiro-for-pennsylvania-campaign-launches-tv-and-digital-ad-highlighting-stacy-garritys-100-loyalty-to-donald-trumps-reckless-cost-raising-agenda/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/s4gwebsite"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=25"
+},
+{
+"text": "Press",
+"href": "https://joshshapiro.org/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joshshapiro.org/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://shop.joshshapiro.org/"
+},
+{
+"text": "This button leads off-site. Donate",
+"href": "https://secure.actblue.com/donate/s4gwebsite?amount=25"
+},
+{
+"text": "This link leads off-site.",
+"href": "https://twitter.com/joshshapiropa"
+},
+{
+"text": "This link leads off-site.",
+"href": "https://www.facebook.com/JoshShapiroPA/"
+},
+{
+"text": "This link leads off-site.",
+"href": "https://www.instagram.com/joshshapiropa/"
+},
+{
+"text": "This link leads off-site.",
+"href": "https://www.youtube.com/channel/UC_6gZyhRgtaQoBW7_JRcPIA/featured"
+},
+{
+"text": "This link leads off-site. [image]",
+"href": "https://twitter.com/joshshapiropa"
+},
+{
+"text": "This link leads off-site. [image]",
+"href": "https://www.facebook.com/JoshShapiroPA/"
+},
+{
+"text": "This link leads off-site. [image]",
+"href": "https://www.instagram.com/joshshapiropa/"
+},
+{
+"text": "This link leads off-site. [image]",
+"href": "https://www.youtube.com/channel/UC_6gZyhRgtaQoBW7_JRcPIA/featured"
+},
+{
+"text": "Volunteer",
+"href": "https://joshshapiro.org/join/"
+},
+{
+"text": "With One Month Until Election Day, Governor Josh Shapiro Fires Up Pennsylvanians in Philadelphia and Bucks CountyOctober 4, 2026",
+"href": "https://joshshapiro.org/news/with-one-month-until-election-day-governor-josh-shapiro-fires-up-pennsylvanians-in-philadelphia-and-bucks-county/"
+},
+{
+"text": "Yard Signs",
+"href": "https://joshshapiro.org/yard-sign-pickup/"
+},
+{
+"text": "[image]",
+"href": "https://joshshapiro.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/joshshapiropa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshShapiroPA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshshapiropa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC_6gZyhRgtaQoBW7_JRcPIA/featured"
+},
+{
+"text": "terms & privacy policy",
+"href": "https://joshshapiro.org/privacy-policy/"
+}
 ]

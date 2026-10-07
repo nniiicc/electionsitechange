@@ -1,7 +1,11 @@
 {
  "description": "Communicate with State Representative Tom Sawyer through Social media, text, email or phone.",
  "final_url": "https://www.tomsawyerforkansas.com/contact",
+ "fingerprint": "7bc79f09035b905c054c61d083626722d0bbfb33",
+ "format": 3,
  "paid_for_by": "Paid for by Sawyer for Representative, Tom Sawyer, Treasurer Powered by Webador",
  "title": "Contact State Representative Tom Sawyer",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

@@ -1,24 +1,110 @@
 [
-"https://bsky.app/profile/trippchutchinson.bsky.social",
-"https://facebook.com/profile.php?id=61586649001259",
-"https://instagram.com/trippchutchinson",
-"https://keydesignwebsites.com/",
-"https://threads.com/@trippchutchinson?igshid=NTc4MTIwNjQ2YQ%3D%3D",
-"https://tiktok.com/@vote4tripp?_r=1&_t=ZP-93JsJeOauL8",
-"https://votefortripp.com/",
-"https://votefortripp.com/?page_id=984",
-"https://votefortripp.com/art",
-"https://votefortripp.com/disclaimer",
-"https://votefortripp.com/donations",
-"https://votefortripp.com/events",
-"https://votefortripp.com/linking-policy",
-"https://votefortripp.com/platform",
-"https://votefortripp.com/privacy-policy",
-"https://votefortripp.com/summer-tour",
-"https://votefortripp.com/terms-of-use",
-"https://votefortripp.com/testimonials-disclosure",
-"https://votefortripp.com/volunteer",
-"https://x.com/vote4tripp?s=21",
-"https://youtube.com/@TrippHutchinsonforIdaho",
-"https://youtube.com/playlist?list=PLAye_Sl_XrMZCtKdYAhom89soU0PLKo_X"
+{
+"text": "About",
+"href": "https://votefortripp.com/#about"
+},
+{
+"text": "Art",
+"href": "https://votefortripp.com/art/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/trippchutchinson.bsky.social"
+},
+{
+"text": "Disclaimer",
+"href": "https://votefortripp.com/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://votefortripp.com/donations/"
+},
+{
+"text": "Endorsements",
+"href": "https://votefortripp.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://votefortripp.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586649001259"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/trippchutchinson/"
+},
+{
+"text": "Join",
+"href": "https://votefortripp.com/#join-movement"
+},
+{
+"text": "Linking Policy",
+"href": "https://votefortripp.com/linking-policy/"
+},
+{
+"text": "Paid for by Tripp Hutchinson for United States Congress",
+"href": "https://votefortripp.com"
+},
+{
+"text": "Platform",
+"href": "https://votefortripp.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votefortripp.com/privacy-policy/"
+},
+{
+"text": "Resources",
+"href": "https://www.youtube.com/playlist?list=PLAye_Sl_XrMZCtKdYAhom89soU0PLKo_X"
+},
+{
+"text": "Site built & hosted by Key Design Websites",
+"href": "https://www.keydesignwebsites.com/"
+},
+{
+"text": "Summer Tour",
+"href": "https://votefortripp.com/summer-tour/"
+},
+{
+"text": "Team",
+"href": "https://votefortripp.com/?page_id=984"
+},
+{
+"text": "Terms of Use",
+"href": "https://votefortripp.com/terms-of-use/"
+},
+{
+"text": "Testimonials Disclosure",
+"href": "https://votefortripp.com/testimonials-disclosure/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@trippchutchinson?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@vote4tripp?_r=1&_t=ZP-93JsJeOauL8"
+},
+{
+"text": "Volunteer",
+"href": "https://votefortripp.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/vote4tripp?s=21"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@TrippHutchinsonforIdaho"
+},
+{
+"text": "[image: Logo]",
+"href": "https://votefortripp.com"
+},
+{
+"text": "https://votefortripp.com",
+"href": "https://votefortripp.com"
+}
 ]

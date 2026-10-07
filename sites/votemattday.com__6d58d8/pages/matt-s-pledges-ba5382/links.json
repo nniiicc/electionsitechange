@@ -1,16 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61578575818759",
-"https://instagram.com/mattdayforcongress",
-"https://linkedin.com/in/matt-day-976983381",
-"https://secure.anedot.com/day-victory-fund/donate",
-"https://tiktok.com/@mattdaycongress",
-"https://votemattday.com/",
-"https://votemattday.com/copy-2-of-home",
-"https://votemattday.com/copy-of-matt-s-pledges",
-"https://votemattday.com/copy-of-national-issues",
-"https://votemattday.com/copy-of-privacy-policy",
-"https://votemattday.com/matt-s-pledges",
-"https://votemattday.com/privacy-policy",
-"https://x.com/MattDayCongress",
-"https://youtube.com/@MattDayForCongress"
+{
+"text": "ABOUT MATT",
+"href": "https://www.votemattday.com/copy-2-of-home"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/day-victory-fund/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votemattday.com"
+},
+{
+"text": "Local Issues",
+"href": "https://www.votemattday.com/copy-of-national-issues"
+},
+{
+"text": "National Issues",
+"href": "https://www.votemattday.com/copy-of-matt-s-pledges"
+},
+{
+"text": "Privacy Policies",
+"href": "https://www.votemattday.com/privacy-policy"
+},
+{
+"text": "Re-Election Pledges",
+"href": "https://www.votemattday.com/matt-s-pledges"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votemattday.com/copy-of-privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578575818759"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mattdayforcongress/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/matt-day-976983381/"
+},
+{
+"text": "[image: Screenshot (301).png]",
+"href": "https://www.votemattday.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattdaycongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/MattDayCongress"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@MattDayForCongress"
+}
 ]

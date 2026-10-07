@@ -1,15 +1,74 @@
 [
-"https://facebook.com/palmeriforassembly",
-"https://instagram.com/palmeriforassembly",
-"https://myvote.wi.gov/en-us",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail",
-"https://palmeriforassembly.com/",
-"https://palmeriforassembly.com/about",
-"https://palmeriforassembly.com/connect",
-"https://palmeriforassembly.com/issues",
-"https://palmeriforassembly.com/privacy-policy",
-"https://secure.actblue.com/donate/palmeriforassembly",
-"https://winnebagocountywi.gov/262/Election-Information"
+{
+"text": "ABOUT",
+"href": "https://www.palmeriforassembly.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.palmeriforassembly.com"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://www.winnebagocountywi.gov/262/Election-Information"
+},
+{
+"text": "CLICKING HERE.",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "CONNECT",
+"href": "https://www.palmeriforassembly.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/palmeriforassembly"
+},
+{
+"text": "HOME",
+"href": "https://www.palmeriforassembly.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.palmeriforassembly.com/issues"
+},
+{
+"text": "KEY PRIORITIES",
+"href": "https://www.palmeriforassembly.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.palmeriforassembly.com/issues"
+},
+{
+"text": "MORE INFO",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.palmeriforassembly.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.palmeriforassembly.com/about"
+},
+{
+"text": "[image: Campaign logo for Lori Palmeri]",
+"href": "https://www.palmeriforassembly.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/palmeriforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/palmeriforassembly"
+}
 ]

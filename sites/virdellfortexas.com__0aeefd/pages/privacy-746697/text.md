@@ -1,12 +1,10 @@
-Wesley Virdell For Texas PRIVACY Policy
-INTRODUCTION
-Welcome to virdellfortexas.com, the official website (the “website” or “site”) of Wesley Virdell For Texas (“Wesley Virdell”, “we”, “us”, “our”).
+Wesley Virdell For Texas PRIVACY Policy Last modified on January 14, 2026.
+INTRODUCTION Welcome to virdellfortexas.com, the official website (the “website” or “site”) of Wesley Virdell For Texas (“Wesley Virdell”, “we”, “us”, “our”).
 We understand that visitors to our website may have questions about how this website collects and uses information.
 We are committed to safeguarding the privacy of our supporters’ information.
 This Privacy Policy explains our privacy practices, including the information we collect from you when you use our website, apps, and other digital and online services (collectively, the “Services”) and how we and our affiliated committee(s) may use that information; our rights to share and disclose such information to third parties; how you can review and modify information that you provide to us; and your preferences regarding our use and disclosure of such information.
 Please review our Terms of Service, which govern your use of the Services.
-Any capitalized terms that are not defined in this Privacy Policy shall have the meaning ascribed in the Terms of Service
-This Privacy Policy only applies to the information collected by us and any third parties acting with our authorization or information otherwise provided to us by third parties about you, in each instance, in connection with your use of the Services.
+Any capitalized terms that are not defined in this Privacy Policy shall have the meaning ascribed in the Terms of Service This Privacy Policy only applies to the information collected by us and any third parties acting with our authorization or information otherwise provided to us by third parties about you, in each instance, in connection with your use of the Services.
 This Privacy Policy applies regardless of the computer, mobile phone, tablet, or other electronic device (“Device”) you use to access the Services and whether you are accessing the Services as a registered user or otherwise.
 By using the Services, you agree that your use of the Services is governed by this Privacy Policy and our Terms of Service.
 From time to time, we may update this Privacy Policy.
@@ -65,27 +63,7 @@ If you access the Services via your Third-Party Platform account (e.g., by loggi
 You can learn more about adjusting your settings and preferences with respect to Third-Party Platforms in Section 4.A below.
 HOW WE USE INFORMATION THAT WE COLLECT.
 A.
-Except as prohibited by the terms and conditions of any applicable Third-Party Platform (e.g., Facebook, Twitter, etc.) and subject to Section 4, we may use information we collect for, among other things, the following purposes:
-- Sending you Wesley Virdell and affiliated committees’ marketing, promotional, e-mails, messages and other correspondence and notifications regarding the Services;
-- To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers;
-- Delivery of features, content, services, and products available to you through the Services based on your location;
-- Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services;
-- Contacting you regarding the administration of any features or functions of the Services you have registered to use;
-- Sending you information about your relationship or transactions with us;
-- Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities;
-- Where you order goods or services, performing credit checking or other authentication;
-- For the prevention and detection of fraud or infringement of our or any third-party’s rights;
-- Responding to your questions or other requests;
-- Subject to applicable contractual or legal restrictions, in connection with a sale of all or substantially all of the assets of Wesley Virdell For Texas;
-- Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity;
-- Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services;
-- Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services);
-- Tracking your return visits to and use of the Services;
-- For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested;
-- For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third-Party Platforms, etc.;
-- Accumulating and reporting aggregate, statistical information in connection with the Services and user activity;
-- Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and
-- Saving certain information for your ongoing use of the Services.
+Except as prohibited by the terms and conditions of any applicable Third-Party Platform (e.g., Facebook, Twitter, etc.) and subject to Section 4, we may use information we collect for, among other things, the following purposes: Sending you Wesley Virdell and affiliated committees’ marketing, promotional, e-mails, messages and other correspondence and notifications regarding the Services; To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers; Delivery of features, content, services, and products available to you through the Services based on your location; Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services; Contacting you regarding the administration of any features or functions of the Services you have registered to use; Sending you information about your relationship or transactions with us; Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities; Where you order goods or services, performing credit checking or other authentication; For the prevention and detection of fraud or infringement of our or any third-party’s rights; Responding to your questions or other requests; Subject to applicable contractual or legal restrictions, in connection with a sale of all or substantially all of the assets of Wesley Virdell For Texas; Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity; Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services; Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services); Tracking your return visits to and use of the Services; For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested; For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third-Party Platforms, etc.; Accumulating and reporting aggregate, statistical information in connection with the Services and user activity; Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and Saving certain information for your ongoing use of the Services.
 OPTING-OUT OF CERTAIN USES OF YOUR INFORMATION.
 A.
 User Account Privacy Settings.
@@ -174,15 +152,6 @@ The Services are controlled, operated, and administered entirely within the Unit
 If you visit, access, interact with, and/or otherwise use the Services from a location outside the United States, please be advised that any information you provide in connection with any such activity may be processed in and/or transferred to the United States of America and/or other territories and locations, where privacy protections may not be as comprehensive as those in the territory or location where you interact with or otherwise use the Services.
 By using the Services, you affirmatively consent to the transfer, use, disclosure, provision, and other administration of your information as described herein.
 CONTACT US.
-If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at:
-Email:
-privacy@virdellfortexas.com
-OR
-Mail:
-Wesley Virdell For Texas
-Attn: Privacy Matters
-P.O.
-Box 147
-Brady, TX 76825
-SOLE STATEMENT.
+If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at: Email: privacy@virdellfortexas.com OR Mail: Wesley Virdell For Texas Attn: Privacy Matters P.O.
+Box 147 Brady, TX 76825 SOLE STATEMENT.
 This document is the sole statement of the Services’ Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.

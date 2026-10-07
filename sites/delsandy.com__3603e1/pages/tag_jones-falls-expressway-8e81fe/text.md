@@ -1,4 +1,4 @@
-Amendments are the order of the week.
+Skip to content Get Sandy's Diary in your Email Δ Legislative Session Summary Header Link Voting Rights Act | My Legislative Diary My Key Issues: Sandy's Answers to candidate questionnaires Primary Menu Why I Run About Sandy Bills I’ve Introduced 2020 Session Summary Endorsements Contact Sandy Tag: Jones Falls Expressway Defining the Issue February 28, 2024 | by delsandy | Uncategorized | No Comments Amendments are the order of the week.
 They are the compromise needed to get your bill a favorable report.
 A subcommittee will make it clear that your bill will move forward only if it’s modified.
 You want to draft the amendment.
@@ -11,3 +11,27 @@ I asked the Attorney General’s Office for advice.
 Have the Maryland appellate courts defined “harm” in the context of the existing law criminalizing interference with a judicial proceeding?
 Have the courts done so in any other context?
 If there is no judicial definition, would it be appropriate to use a dictionary definition?
+Tags: Jones Falls Expressway , speeding tickets On my seat, getting across the street March 14, 2023 | by delsandy | Uncategorized | No Comments Sometimes I do my best thinking on my seat.
+I had testified on my bill to broaden the permitted uses of the money from speeding tickets on the Jones Falls Expressway.
+One of my objectives with House Bill 512 is to fund a pedestrian bridge over Cold Spring Lane for the hundreds of Poly and Western students who now cross the street on foot – to and from the light rail stop.
+This revenue could be used to “enhance pedestrian safety at intersections” near exit ramps.
+I was still at the witness table. answering questions from committee members.
+The last one was from the committee char.
+Delegate Barve made the point that when the committee authorized the speed cameras on the JFX, it wanted the money generated to be used for the roadway.
+Enhancing pedestrian safety would be outside that standard.
+I responded, “If the committee amends the bill to apply only to the Poly-Western students, I would not object.” Tags: Jones Falls Expressway , Poly , Western High School High Speed Improvements December 9, 2022 | by delsandy | Uncategorized | No Comments When you’re driving on the Jones Falls Expressway, I hope you’re obeying the speed limit.
+For your own safety and that of other drivers, myself included.
+But people who are ticketed are expected to generate $34.7 million annually.
+Under existing law, that money would go towards road and safety improvements to I-83, eligible activities under the State Highway Administration’s Safe Routes to School Program, or improvements consistent with the Complete Streets Program.
+The interchanges for the JFX need improvements.
+There’s an entrance or exit to the highway in five of the six legislative districts in the City.
+Two are in the 41st District.
+Upgrades will begin at the bottleneck at Northern Parkway and Falls Road after the affected neighborhood groups, myself, and my colleagues secured a commitment from the City Department of Transportation last winter.
+More work still needs to be done at that intersection.
+Hundreds of students at Poly and Western must cross Cold Spring Lane during rush hour.
+A pedestrian bridge would be a major improvement.
+No doubt there are also pressing needs at the other interchanges.
+Perhaps we should set aside a certain percentage of the estimated $34.7 million from speeding tickets for these projects.
+I’ve begun the discussion.
+Tags: Jones Falls Expressway My Key Issues: Archives Archives Select Month February 2024 January 2024 August 2023 July 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 November 2018 October 2018 September 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 February 2014 January 2014 November 2013 October 2013 September 2013 August 2013 July 2013 May 2013 April 2013 March 2013 February 2013 January 2013 December 2012 November 2012 October 2012 September 2012 August 2012 July 2012 June 2012 May 2012 April 2012 March 2012 February 2012 January 2012 December 2011 November 2011 October 2011 August 2011 July 2011 May 2011 April 2011 March 2011 February 2011 January 2011 December 2010 November 2010 October 2010 August 2010 July 2010 April 2010 March 2010 February 2010 January 2010 July 2009 April 2009 March 2009 February 2009 January 2009 Categories Categories Select Category featured Sandy’s 2011 Legislative Diary Sandy’s 2012 Legislative Diary Sandy’s 2013 Legislative Diary Sandy’s 2014 Legislative Diary Sandy’s 2015 Legislative Diary Sandy’s 2016 Legis;ative Diary Sandy’s 2016 Legislative Diary Sandy’s 2017 Legislative Diary Sandy’s 2018 Legislative Diary Sandy’s Campaign Diary 2018 Sandy’s Israel Diary – June 2012 Sandy’s Legislative Diary Sandy’s Israel Diary Uncategorized Search for: Are You in the 41st District? © #.
+Authority: Citizens for Sandy Rosenberg, Jean Fugett, Jr., Treasurer Contact Sandy |

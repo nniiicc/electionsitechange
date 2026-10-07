@@ -1,7 +1,9 @@
 {
  "description": "Explore Rob Matzie&#39;s priorities on cost of living, education funding reforms, healthcare advocacy, infrastructure development, and labor rights protections.",
  "final_url": "https://robmatzie.com/priorities",
- "paid_for_by": null,
+ "fingerprint": "30697a689fc117c02f0d9be4556e3268567d1acd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Priorities",
  "years_mentioned": [
   "2026"

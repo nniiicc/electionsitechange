@@ -1,12 +1,4 @@
-Join the team!
+Meet Parke Priorities Endorsements Volunteer Connect Meet Parke Priorities Endorsements Volunteer Connect Make A Donation Facebook Become A Volunteer​ Join the team!
 It doesn’t take much and it will make a big difference.
-We use cookies to improve your experience on our site.
-By using our site, you consent to cookies.
-Manage your cookie preferences below:
-Essential cookies enable basic functions and are necessary for the proper function of the website.
-Name
-Description
-Duration
-Cookie Preferences
-This cookie is used to store the user's cookie consent preferences.
-You can find more information in our Cookie Policy and .
+Hi Parke, let's work together!
+I'm Interested in: Yard Signs Election Day Phone Calls Door To Door First Name Last Name Email Phone Number Address Line 1 Address Line 2 City State City Zipcode Send Paid For By Elect Parke Wentling Senator Bob Robbins, Chairman PO Box 81 Greenville, PA 16125 © # All Rights Reserved

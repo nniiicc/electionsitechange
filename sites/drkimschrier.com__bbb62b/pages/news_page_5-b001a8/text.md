@@ -1,30 +1,31 @@
-Patch: Rep.
-Kim Schrier Lends A Hand At Kent Vaccination Site
-March 15, 2021 — Rep.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer News: Page 5 Patch: Rep.
+Kim Schrier Lends A Hand At Kent Vaccination Site March 15, 2021 — Rep.
 Schrier paid a visit to the ShoWare Center on Monday and got a firsthand look at Washington’s growing mass vaccination ...
-Read more
-February 2, 2021 — U.S.
+Read more SHARE: KING 5: Washington Rep.
+Kim Schrier pushing for rapid, at-home COVID-19 tests February 2, 2021 — U.S.
 Rep.
 Kim Schrier said providing rapid, at-home COVID-19 test kits to Americans would be another “tool in our toolbox” to ...
-Read more
-December 28, 2020 — Consider this alternative to your morning routine: Your alarm goes off, you turn on the coffee machine, you brush your teeth, ...
-Read more
-October 14, 2020 — The general election is right around the corner, but that doesn’t stop a person from enjoying a cup of coffee, or ...
-Read more
-ISSAQUAH, WA – Dr.
+Read more SHARE: Seattle Times: U.S.
+Rep.
+Kim Schrier: Inexpensive rapid testing is our fastest way out of the pandemic December 28, 2020 — Consider this alternative to your morning routine: Your alarm goes off, you turn on the coffee machine, you brush your teeth, ...
+Read more SHARE: KING 5: Drinks with Daniels: 8th Congressional District candidates Jesse Jensen, Kim Schrier October 14, 2020 — The general election is right around the corner, but that doesn’t stop a person from enjoying a cup of coffee, or ...
+Read more SHARE: Schrier Campaign Announces $1.5 million in Q3 Fundraising ISSAQUAH, WA – Dr.
+Kim Schrier for Congress today announced that Kim Schrier raised over $# million in the third quarter of 2020.
 “I am ...
-Read more
-September 17, 2020 — U.S.
+Read more SHARE: KOHO 101: Rep.
+Schrier Working on Federal Aid for Fire Victims of NCW September 17, 2020 — U.S.
 Rep.
 Kim Schrier from Washington’s 8th Congressional District talks with KOHO Morning Show host Chris Hansen about the efforts to ...
-Read more
-September 14, 2020 — Washington’s 8th Congressional District not only spans the Cascade Mountains but also the partisan divide that has riven America.
+Read more SHARE: Seattle Times: The Times recommends U.S.
+Rep.
+Kim Schrier for the 8th Congressional District September 14, 2020 — Washington’s 8th Congressional District not only spans the Cascade Mountains but also the partisan divide that has riven America.
 Since winning a ...
-Read more
-August 30, 2020 — Kim joined Alex Witt on MSNBC to discuss the COVID-19 pandemic and Kim’s concerns over superspreader events like Trump’s recent rally. ...
-Read more
-Aug 22, 2020 — Despite restrictions imposed on gatherings due to the coronavirus pandemic, a local government representative found time last Thursday to meet with local ...
-Read more
-Aug 18, 2020 — ISSAQUAH, WA — Rep.
+Read more SHARE: MSNBC: Dr.
+Kim Schrier speaks with Alex Witt on MSNBC about COVID19 and superspreader events August 30, 2020 — Kim joined Alex Witt on MSNBC to discuss the COVID-19 pandemic and Kim’s concerns over superspreader events like Trump’s recent rally. ...
+Read more SHARE: Daily Record: Rep.
+Kim Schrier visits multiple sites in county, talks about economy, environmental issues Aug 22, 2020 — Despite restrictions imposed on gatherings due to the coronavirus pandemic, a local government representative found time last Thursday to meet with local ...
+Read more SHARE: Patch: Rep.
+Kim Schrier Visits Issaquah Post Office Aug 18, 2020 — ISSAQUAH, WA — Rep.
 Kim Schrier visited the Issaquah Post Office on Tuesday to share stories from some of her constituents who have ...
-Read more
+Read more SHARE: « Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 Next » About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

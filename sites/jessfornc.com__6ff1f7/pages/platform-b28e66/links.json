@@ -1,11 +1,46 @@
 [
-"http://facebook.com/jessfornc",
-"http://instagram.com/jessfornc",
-"https://jessfornc.com/",
-"https://jessfornc.com/about",
-"https://jessfornc.com/cart",
-"https://jessfornc.com/ledger",
-"https://jessfornc.com/platform",
-"https://jessfornc.com/volunteer",
-"https://secure.actblue.com/donate/jessrivera"
+{
+"text": "0",
+"href": "https://www.jessfornc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jessfornc.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jessfornc.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jessrivera"
+},
+{
+"text": "Home",
+"href": "https://www.jessfornc.com/"
+},
+{
+"text": "Ledger",
+"href": "https://www.jessfornc.com/ledger"
+},
+{
+"text": "Platform",
+"href": "https://www.jessfornc.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jessfornc.com/volunteer"
+},
+{
+"text": "[image: Jess Rivera for NC State Senate]",
+"href": "https://www.jessfornc.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/jessfornc"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/jessfornc"
+}
 ]

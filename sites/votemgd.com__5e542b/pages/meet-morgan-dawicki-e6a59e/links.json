@@ -1,40 +1,170 @@
 [
-"http://x.com/mgdawicki",
-"https://facebook.com/mgdawicki",
-"https://facebook.com/votemorgandawicki",
-"https://instagram.com/mgdawicki",
-"https://instagram.com/votemorgandawicki",
-"https://morgangifforddawicki.substack.com/",
-"https://votemgd.com/",
-"https://votemgd.com/donate",
-"https://votemgd.com/issues",
-"https://votemgd.com/meet-morgan-dawicki",
-"https://votemgd.com/resources",
-"https://votemgd.com/volunteer",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-1.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-10.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-11.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-12.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-13.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-14.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-15.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-16.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-17.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-19.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-2.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-20.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-21.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-22.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-23.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-24.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-25.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-26.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-27.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-3.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-4.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-5.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-6.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-8.jpg",
-"https://votemgd.com/wp-content/uploads/2025/07/MGD-9.jpg",
-"https://x.com/mgdawicki"
+{
+"text": "Blog",
+"href": "https://morgangifforddawicki.substack.com/"
+},
+{
+"text": "DONATE",
+"href": "https://votemgd.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://votemgd.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://votemgd.com/volunteer/"
+},
+{
+"text": "Issues",
+"href": "https://votemgd.com/issues/"
+},
+{
+"text": "Meet Morgan",
+"href": "https://votemgd.com/meet-morgan-dawicki/"
+},
+{
+"text": "Meet Morgan Dawicki",
+"href": "https://votemgd.com/meet-morgan-dawicki/"
+},
+{
+"text": "Read Now",
+"href": "https://morgangifforddawicki.substack.com/"
+},
+{
+"text": "Resources",
+"href": "https://votemgd.com/resources/"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-10.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-11.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-12.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-13.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-14.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-15.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-16.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-17.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-19.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-20.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-21.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-22.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-23.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-24.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-25.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-26.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-27.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-5.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-6.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-8.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votemgd.com/wp-content/uploads/2025/07/MGD-9.jpg"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/mgdawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mgdawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemorgandawicki"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mgdawicki/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemorgandawicki"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mgdawicki"
+}
 ]

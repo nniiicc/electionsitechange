@@ -1,19 +1,7 @@
-Public Safety
-ROOTED
-Delia grew up in the Humboldt Park community, where gun violence is all too common.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE Public Safety Apr 1 Written By Guest User ROOTED Delia grew up in the Humboldt Park community, where gun violence is all too common.
 She believes we need to get guns off our streets and solve the root causes of crime and violence.
 She knows that building safe communities requires a comprehensive plan that includes community-based youth programs and mental health services, investment in domestic violence prevention, stricter gun laws, and reinvesting in communities that have been under-resourced.
-READY
-Delia is taking on gun violence in Congress.
+READY Delia is taking on gun violence in Congress.
 She is a champion for stronger gun laws to get illegal guns off our streets including: universal background checks, banning assault-style weapons, and reducing the flow of illegal guns across state lines.
 She pushes for expanding mental health services, street outreach, and intervention, and expanding restorative justice programs in our schools and community centers.
-RESULTS
-In Congress, Delia has:
-- Co-sponsored the Assault Weapons Ban of 2023
-- Co-sponsored the Office of Gun Violence Prevention Act of 2023 to establish a federal agency to oversee gun violence prevention efforts
-- Co-sponsored Ethan’s Law to regulate home firearms storage
-As IL State Representative, Delia:
-- Secured $250 million for community-based violence prevention in neighborhoods most impacted by gun violence
-- Reformed our bond system, so that judges will make pretrial detention decisions based on public safety and not jail people just for being poor
-- Voted to legalize cannabis, so that we can focus our public safety resources on addressing the root causes of violence and not low-level drug possession
-- Supported the “Fix the FOID” legislation which expands background checks for firearm purchases
+RESULTS In Congress, Delia has: Co-sponsored the Assault Weapons Ban of 2023 Co-sponsored the Office of Gun Violence Prevention Act of 2023 to establish a federal agency to oversee gun violence prevention efforts Co-sponsored Ethan’s Law to regulate home firearms storage As IL State Representative, Delia: Secured $250 million for community-based violence prevention in neighborhoods most impacted by gun violence Reformed our bond system, so that judges will make pretrial detention decisions based on public safety and not jail people just for being poor Voted to legalize cannabis, so that we can focus our public safety resources on addressing the root causes of violence and not low-level drug possession Supported the “Fix the FOID” legislation which expands background checks for firearm purchases Guest User Previous Previous Covid-19 and Pandemic Prevention Next Next Climate Change and Clean Energy MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

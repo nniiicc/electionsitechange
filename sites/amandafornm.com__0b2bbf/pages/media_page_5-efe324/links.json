@@ -1,28 +1,110 @@
 [
-"https://amandafornm.com/",
-"https://amandafornm.com/./news",
-"https://amandafornm.com/./press",
-"https://amandafornm.com/./videos",
-"https://amandafornm.com/about",
-"https://amandafornm.com/contact",
-"https://amandafornm.com/media",
-"https://amandafornm.com/media/page/1",
-"https://amandafornm.com/media/page/3",
-"https://amandafornm.com/media/page/4",
-"https://amandafornm.com/take-action",
-"https://bsky.app/profile/letstalkamanda.bsky.social",
-"https://facebook.com/alafornm",
-"https://instagram.com/amandafornm",
-"https://krwg.org/regional/2018-09-12/dona-ana-county-board-of-commissioners-selects-dr-amanda-lopez-askin-as-county-clerk",
-"https://lascrucesbulletin.com/stories/amanda-lpez-askin-wins-doa-ana-county-clerk-primary,82826",
-"https://secure.actblue.com/donate/ala-web",
-"https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=5",
-"https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?recurring=false",
-"https://youtube.com/watch?v=M8oNgoKsIO0",
-"https://youtube.com/watch?v=uVwBduSf74c"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false"
+},
+{
+"text": "1",
+"href": "https://amandafornm.com/media/page/1/"
+},
+{
+"text": "3",
+"href": "https://amandafornm.com/media/page/3/"
+},
+{
+"text": "4",
+"href": "https://amandafornm.com/media/page/4/"
+},
+{
+"text": "About",
+"href": "https://amandafornm.com/about/"
+},
+{
+"text": "Chip in $5 right now to join the fight for our future ",
+"href": "https://secure.actblue.com/donate/ala-web?amount=5"
+},
+{
+"text": "Click to read Amanda López Askin wins Doña Ana County Clerk primary",
+"href": "https://www.lascrucesbulletin.com/stories/amanda-lpez-askin-wins-doa-ana-county-clerk-primary,82826"
+},
+{
+"text": "Click to read Doña Ana County Board of Commissioners Selects Dr. Amanda López Askin as County Clerk",
+"href": "https://www.krwg.org/regional/2018-09-12/dona-ana-county-board-of-commissioners-selects-dr-amanda-lopez-askin-as-county-clerk"
+},
+{
+"text": "Click to read Dr. Amanda Lopez Askin Doña Ana County Clerk",
+"href": "https://www.youtube.com/watch?v=M8oNgoKsIO0"
+},
+{
+"text": "Click to read Voting and Elections; Doña Ana County Clerk Amanda López Askin",
+"href": "https://www.youtube.com/watch?v=uVwBduSf74c"
+},
+{
+"text": "Connect on Bluesky",
+"href": "https://bsky.app/profile/letstalkamanda.bsky.social"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://facebook.com/alafornm/"
+},
+{
+"text": "Connect on Instagram",
+"href": "https://instagram.com/amandafornm/"
+},
+{
+"text": "Contact",
+"href": "https://amandafornm.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ala-web"
+},
+{
+"text": "Media",
+"href": "https://amandafornm.com/media/"
+},
+{
+"text": "News",
+"href": "https://amandafornm.com/./news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ala-web?recurring=false"
+},
+{
+"text": "Press Releases",
+"href": "https://amandafornm.com/./press/"
+},
+{
+"text": "Previous Page",
+"href": "https://amandafornm.com/media/page/4/"
+},
+{
+"text": "Take Action",
+"href": "https://amandafornm.com/take-action/"
+},
+{
+"text": "Videos",
+"href": "https://amandafornm.com/./videos/"
+},
+{
+"text": "[image: Amanda for New Mexico]Amanda for New Mexico",
+"href": "https://amandafornm.com"
+}
 ]

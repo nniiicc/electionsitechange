@@ -1,2 +1,2 @@
-Representative Shea Roberts Shea.Roberts@house.ga.gov | (404) 656-0220 Legislative Committee Assignments: Governmental Affairs | Science and Technology State | Planning and Community Affairs
-Shea Roberts Campaign Team info@sheaforgeorgia.com
+Cart 0 Meet Shea Platform Vote Contribute Cart 0 Meet Shea Platform Vote Contribute Contact Shea Representative Shea Roberts Shea.Roberts@house.ga.gov | (404) 656-0220 Legislative Committee Assignments: Governmental Affairs | Science and Technology State | Planning and Community Affairs Media Inquiries Shea Roberts Campaign Team info@sheaforgeorgia.com Get Updates Contact Us Paid for by Shea Roberts for Georgia Campaign Address: P.O Box 28571 Atlanta, GA 30358 Capitol Office Address: 608-B Coverdell Legislative Office Bldg.
+Atlanta, GA 30334 (404) 656-0298 shea@sheaforgeorgia.com | shea.roberts@house.ga.gov

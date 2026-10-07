@@ -1,5 +1,14 @@
 [
-"https://senatorgallo.com/",
-"https://senatorgallo.com/privacy",
-"https://senatorgallo.com/terms"
+{
+"text": "Home",
+"href": "https://senatorgallo.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://senatorgallo.com/privacy"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://senatorgallo.com/terms"
+}
 ]

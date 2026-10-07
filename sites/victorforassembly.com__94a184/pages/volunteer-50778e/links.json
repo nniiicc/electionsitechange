@@ -1,16 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61563504616043",
-"https://instagram.com/victorforassembly",
-"https://tiktok.com/@oc_greens",
-"https://victorforassembly.com/",
-"https://victorforassembly.com/about",
-"https://victorforassembly.com/contact",
-"https://victorforassembly.com/donate",
-"https://victorforassembly.com/endorsements",
-"https://victorforassembly.com/events",
-"https://victorforassembly.com/issues",
-"https://victorforassembly.com/news",
-"https://victorforassembly.com/press-kit",
-"https://victorforassembly.com/privacy-policy"
+{
+"text": "Contact",
+"href": "https://www.victorforassembly.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.victorforassembly.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.victorforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.victorforassembly.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.victorforassembly.com/issues"
+},
+{
+"text": "Meet Victor",
+"href": "https://www.victorforassembly.com/about"
+},
+{
+"text": "News",
+"href": "https://www.victorforassembly.com/news"
+},
+{
+"text": "Press Kit",
+"href": "https://www.victorforassembly.com/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.victorforassembly.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Victor for State Assembly District 59]",
+"href": "https://www.victorforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61563504616043"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/victorforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@oc_greens"
+}
 ]

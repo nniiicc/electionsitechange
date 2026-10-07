@@ -1,5 +1,7 @@
-Join Trina downtown Duluth for an evening of fun, music and democracy!
-RSVP to finance@trinaforcongress.com.
-Donate Today
-Trina doesn't take corporate PAC money.
-Every dollar comes from people like you — neighbors who believe MN-8 deserves better.
+Skip to content Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News SIGN UP DONATE SIGN UP DONATE Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Campaign Events Fundraiser Join Trina downtown Duluth for an evening of fun, music and democracy!
+RSVP to finance@trinaforcongress.com .
+Donate Today BACK TO ALL EVENTS OCT 13 Tuesday In 7 days Date October 13, 2026 Time 6:00 PM – 9:00 PM Location Dubh Linn Brew Pub 109 W Superior St, Duluth, MN Register Now Get Directions Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+All rights reserved.
+Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
+Support Trina's Campaign Trina doesn't take corporate PAC money.
+Every dollar comes from people like you — neighbors who believe MN-8 deserves better. $5 $25 $50 $100 $500 $1,000 Other Donate Now

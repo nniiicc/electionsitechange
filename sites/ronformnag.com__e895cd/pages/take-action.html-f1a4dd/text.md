@@ -1,30 +1,3 @@
-Home
-Meet
-Priorities
-Accomplishments
-Fact or Fiction
-News
-Contact
-Take Action
-DONATE TODAY
-Get Involved
-TAKE ACTION MN
-Action
-Sign Up and Get Involved
-Action
-Voter Information
-Action
-Make A Pledge To Vote
-Action
-Chip In $10 To Support Ron
-Action
-Share Message With Friends
-Action
-Print Literature to
-Share
-STAND UP FOR MINNESOTA
-$25
-$50
-$100
-$500
-SIGN UP TO JOIN THE TEAM
+Home Meet Priorities Accomplishments Fact or Fiction News Contact Take Action DONATE TODAY Get Involved TAKE ACTION MN Action Sign Up and Get Involved Action Voter Information Action Make A Pledge To Vote Action Chip In $10 To Support Ron ﻿Action Share Message With Friends Action Print Literature to Share STAND UP FOR MINNESOTA ﻿ $25 $50 $100 $500 SIGN UP TO JOIN THE TEAM Ron for MN AG 216 Myrtle St W P.O.
+Box 132 ﻿Stillwater, MN 55082-4830 Email info@RonForMNAG.com Press info@RonForMNAG.comPress Kit Join Us Priorities Meet Ron Contact Us News, Media & Press Kit Take Action Our App Accomplishments Copyright ©# | Privacy Policy Prepared and Paid for by Ron for MN AG ﻿P.O.
+Box 132, Stillwater, MN 55082-4830

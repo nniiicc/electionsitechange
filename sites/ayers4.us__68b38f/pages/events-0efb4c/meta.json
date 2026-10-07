@@ -1,7 +1,11 @@
 {
- "description": "",
- "final_url": "https://ayers4.us/events/",
+ "description": "October 2026 events: the Harris County Candidates Forum, Ayers Campaign Virtual Townhall & Fundraiser, and Prairie View A&M University Homecoming.",
+ "final_url": "https://ayers4.us/events",
+ "fingerprint": "38a869d5e6c3b8603bd8c61b7f7bb32713e664ce",
+ "format": 3,
  "paid_for_by": "Paid for by the Avery Ayers campaign committee",
- "title": "Upcoming Events",
- "years_mentioned": []
+ "title": "Events | Avery Ayers for U.S. Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

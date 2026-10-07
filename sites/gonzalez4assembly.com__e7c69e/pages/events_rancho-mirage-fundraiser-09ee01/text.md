@@ -1,11 +1,4 @@
-Back to All Events
-Join Team Gonzalez for an evening supporting Jeff’s re-election as our Assemblyman for District 36!
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE Back to All Events Rancho Mirage Fundraiser Wednesday, September 16, 2026 5:30 PM 7:30 PM Google Calendar ICS Join Team Gonzalez for an evening supporting Jeff’s re-election as our Assemblyman for District 36!
 Address will be provided upon RSVP.
-RSVP here: https://efundraisingconnections.com/c/JeffGonzalezforAssembly2026/9162026RanchoMirageFundraiser
-Previous
-Previous
-September 12
-Coachella Valley Campaign Kickoff
-Next
-Next
-September 18
+RSVP here: https://efundraisingconnections.com/c/JeffGonzalezforAssembly2026/9162026RanchoMirageFundraiser Previous Previous September 12 Coachella Valley Campaign Kickoff Next Next September 18 Imperial County Campaign Kickoff MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

@@ -1,7 +1,11 @@
 {
  "description": "Dave Bronson is built for Alaska's toughest challenges. U.S. Air Force veteran, former Anchorage Mayor with proven results on economy, public safety, and homelessness. Conservative leader ready to put Alaska First.",
  "final_url": "https://www.davebronson.com/about-dave",
- "paid_for_by": "Paid for by Bronson Church 2026 | PO Box 90938, Anchorage, AK 99509 Contact: info@davebronson",
+ "fingerprint": "62e674522a1b008c279a4c1191338d9ceb201601",
+ "format": 3,
+ "paid_for_by": "Paid for by Bronson Church 2026",
  "title": "About Dave Bronson | Dave Bronson for Alaska Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

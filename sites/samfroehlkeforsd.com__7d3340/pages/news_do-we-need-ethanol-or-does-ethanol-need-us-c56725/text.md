@@ -1,3 +1,5 @@
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / Do we need ethanol, or does ethanol need us?
+15 May Friday, 6:21 AM · 2026 Do we need ethanol, or does ethanol need us?
 I read a letter to the editor in our local paper this week.
 A candidate for state office had made assertions during the Deuel County Lincoln Day Dinner regarding what he viewed as inappropriate amounts of money having been donated to his current opponent by the ethanol industry in the 2024 campaign.
 The letter was written by one of these ethanol companies, and they accused him of using inaccurate figures in his address.
@@ -34,4 +36,5 @@ Follow the money.
 Ask yourself why these people are getting so much from special interests, and who they’ll really represent in Pierre.
 Because we do have one weapon to fight this system.
 Our vote.
-And we can use it on June 2nd and November 3rd, to try to throw out as much of the whole rotten mess as we can.
+And we can use it on June 2 nd and November 3 rd , to try to throw out as much of the whole rotten mess as we can.
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

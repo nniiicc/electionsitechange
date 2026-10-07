@@ -1,4 +1,5 @@
-Get Involved
-Sign up here to receive Will’s newsletter and hear more about volunteer opportunities with the campaign.
-By clicking Send, I consent to receive calls and/or texts for any purpose, from the Committee to Elect Will Mbah or its affiliates and their representatives at the telephone number(s) I provided, possibly through the use of automated technology and pre-recorded voice.
+0 Skip to Content In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Folder: Issues Back Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Get Involved Sign up here to receive Will’s newsletter and hear more about volunteer opportunities with the campaign.
+By clicking Send , I consent to receive calls and/or texts for any purpose, from the Committee to Elect Will Mbah or its affiliates and their representatives at the telephone number(s) I provided, possibly through the use of automated technology and pre-recorded voice.
 To the extent applicable, I also understand my consent is not a condition of any purchase.
+Paid for by the Mbah Committee 42A Linden Ave.
+#2, Somerville MA 02143 Get Involved Donate

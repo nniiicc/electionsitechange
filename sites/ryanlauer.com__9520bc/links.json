@@ -1,9 +1,62 @@
 [
-"https://facebook.com/RyanForIndiana",
-"https://indianahouserepublicans.com/members/general/ryan-lauer",
-"https://instagram.com/ryanforindiana",
-"https://ryanlauer.com/",
-"https://secure.winred.com/ryan-lauer",
-"https://secure.winred.com/ryan-lauer/donate",
-"https://twitter.com/ryandlauer"
+{
+"text": "About Ryan",
+"href": "https://www.ryanlauer.com/#About-Ryan"
+},
+{
+"text": "Contact Office",
+"href": "https://www.indianahouserepublicans.com/members/general/ryan-lauer/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ryan-lauer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ryan-lauer/donate"
+},
+{
+"text": "Donate now",
+"href": "https://secure.winred.com/ryan-lauer"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RyanForIndiana"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RyanForIndiana"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/ryanforindiana"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/ryandlauer"
+},
+{
+"text": "Get a yard sign",
+"href": "https://www.ryanlauer.com/#yardsign"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ryanforindiana"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ryanlauer.com/#Volunteer"
+},
+{
+"text": "X",
+"href": "https://twitter.com/ryandlauer"
+},
+{
+"text": "[image: Ryan Lauer<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-5T2LX08R87\"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag(\"js\",new Date),gtag(\"config\",\"G-5T2LX08R87\");</script>]",
+"href": "https://www.ryanlauer.com/"
+},
+{
+"text": "campaign@ryanlauer.com",
+"href": "mailto:campaign@ryanlauer.com"
+}
 ]

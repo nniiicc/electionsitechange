@@ -1,7 +1,30 @@
 [
-"https://facebook.com/zane4senate",
-"https://instagram.com/zane4senate",
-"https://primary.jwwb.nl/public/m/r/m/temp-emhqjjkqrxpiffuqimcr/image-high-y3hwd9.png",
-"https://webador.com/",
-"https://zaneforsenate.com/"
+{
+"text": "Facebook",
+"href": "https://facebook.com/zane4senate"
+},
+{
+"text": "Home",
+"href": "https://www.zaneforsenate.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/zane4senate"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.zaneforsenate.com/#main-content"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "[image]",
+"href": "https://primary.jwwb.nl/public/m/r/m/temp-emhqjjkqrxpiffuqimcr/image-high-y3hwd9.png"
+},
+{
+"text": "zane4senate@gmail.com",
+"href": "mailto:zane4senate@gmail.com"
+}
 ]

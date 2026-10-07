@@ -1,13 +1,10 @@
-the promise
-To every volunteer who gives their time, voice, and heart — we make this promise:
-We will lead with integrity, listen with respect, and value your contributions.
+0 Skip to Content Home The Candidate Donations Volunteer Policy Issues Open Menu Close Menu Home The Candidate Donations Volunteer Policy Issues Open Menu Close Menu Home The Candidate Donations Volunteer Policy Issues the promise To every volunteer who gives their time, voice, and heart — we make this promise: We will lead with integrity, listen with respect, and value your contributions.
 We will honor your time, support your growth, and build a team rooted in service, not ego.
 We will work together with humility, purpose, and accountability to make life better for others.
 You are not just volunteering — you are part of a mission and a community.
 Together, we serve.
 Together, we rise.
-Volunteer With Our Campaign
-This movement isn’t powered by politics — it’s powered by people.
+Volunteer With Our Campaign This movement isn’t powered by politics — it’s powered by people.
 Neighbors.
 Students.
 Parents.
@@ -19,3 +16,6 @@ Everyday Marylanders who believe in strengthening our communities and shaping a 
 Whether you’ve volunteered before or you’re stepping into civic service for the first time, you are welcome here.
 Your voice, your time, your ideas, and your heart matter.
 When we serve together, we build stronger neighborhoods and a stronger Maryland.
+Paid for by CITIZENS for Domonic Martin.
+James appel, TREASURER Building a stronger 44B through service, integrity, and opportunity.
+Accountability • Affordability • Access “The goal is to make life better for someone else.” Contact campaign@domonicmartin.com

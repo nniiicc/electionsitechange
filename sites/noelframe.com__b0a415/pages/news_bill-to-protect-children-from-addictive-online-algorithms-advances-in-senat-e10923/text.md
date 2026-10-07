@@ -1,6 +1,4 @@
-Bill to protect children from addictive online algorithms advances in Senate
-by Sana Aljobory for KATU • March 15th, 2025
-SEATTLE, Wash.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate Bill to protect children from addictive online algorithms advances in Senate Mar 15 Written By Upper Left Strategies by Sana Aljobory for KATU • March 15th, 2025 SEATTLE, Wash.
 (KATU) — Legislation aimed at safeguarding children's mental and behavioral health from addictive social media algorithms and harmful online content has successfully passed the Senate with a 36-12 vote on Wednesday.
 In 2024, an opinion piece by the U.S. surgeon general in the New York Times highlighted that spending three hours online daily doubles the risk of mental health issues, such as depression and anxiety.
 He also also noted that teenagers average 3.5 hours of online activity each day.
@@ -12,9 +10,10 @@ Additionally, the bill limits push notifications, ensuring minors do not receive
 "I think every parent worries about what their children are up to online and the effect social media apps and their addictive content feeds have on their mental health and success at school," said Frame.
 "These sophisticated algorithms are so good at keeping you scrolling and scrolling.
 They can take our attention away from everything else going on in the world.
-Research shows there’s a direct link between screentime and youth mental health, and I think the Legislature has a responsibility to step in to see if we can help put some real protections in place for kids."
-The legislation was developed in collaboration with Attorney General Nick Brown, whose agency requested the bill.
+Research shows there’s a direct link between screentime and youth mental health, and I think the Legislature has a responsibility to step in to see if we can help put some real protections in place for kids." The legislation was developed in collaboration with Attorney General Nick Brown, whose agency requested the bill.
 Brown stated, "Passage of SB 5708 is a win for families and young people whose mental health is put at serious risk by compulsive social media use.
-This is a commonsense and legally sound approach to give families peace of mind their children aren’t being tracked or manipulated by the social media platforms they enjoy."
-Brown added, "We’re committed to working with legislators and stakeholders to get the best possible bill to the governor’s desk by end of session."
-The bill now moves to the House of Representatives for further consideration.
+This is a commonsense and legally sound approach to give families peace of mind their children aren’t being tracked or manipulated by the social media platforms they enjoy." Brown added, "We’re committed to working with legislators and stakeholders to get the best possible bill to the governor’s desk by end of session." The bill now moves to the House of Representatives for further consideration.
+Upper Left Strategies https://upperleftstrategies.com Previous Previous Democratic state senators push $17B tax package to balance Washington budget Next Next Washington lawmakers confront juvenile detention overcrowding crisis HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

@@ -1,7 +1,11 @@
 {
  "description": "All 20 counties in Iowa's First Congressional District certified their ballots confirming Congresswoman Miller-Meeks' re-election.",
  "final_url": "https://drmillermeeks.com/news/20-counties-certify-miller-meeks-election-win/",
+ "fingerprint": "e662d844d13dfb4f5b64e9d2301dbd28a8c5a3c6",
+ "format": 3,
  "paid_for_by": "Paid for by Miller-Meeks for Congress",
  "title": "20 Counties Certify Miller-Meeks Election Win | Miller-Meeks for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

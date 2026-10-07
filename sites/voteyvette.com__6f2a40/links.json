@@ -1,22 +1,118 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://secure.actblue.com/donate/ydc_donatepage?amount=1",
-"https://secure.actblue.com/donate/ydc_donatepage?amount=10",
-"https://secure.actblue.com/donate/ydc_donatepage?amount=20",
-"https://secure.actblue.com/donate/ydc_donatepage?amount=5",
-"https://secure.actblue.com/donate/ydc_donatepage?amount=50",
-"https://twitter.com/voteyvette?ref_src=twsrc%5Etfw",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/open-letter",
-"https://voteyvette.com/press",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "$1",
+"href": "https://secure.actblue.com/donate/ydc_donatepage?amount=1"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ydc_donatepage?amount=10"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/ydc_donatepage?amount=20"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/ydc_donatepage?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/ydc_donatepage?amount=50"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/issues"
+},
+{
+"text": "Like",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "READ MORE",
+"href": "https://voteyvette.com/open-letter/"
+},
+{
+"text": "Tweets by VoteYvette",
+"href": "https://twitter.com/voteyvette?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image] Healthcare Our healthcare crisis is at an all-time high. Pharmaceutical companies and private health insurance providers make it virtually impossible for everyday Americans, including Brooklynites, to afford adequate physical and mental healthcare. Access to affordable and adequate healthcare should be a right for all Americans - not a privilege.",
+"href": "https://voteyvette.com/issues"
+},
+{
+"text": "[image: Image] Housing Congresswoman Clarke has been a relentless advocate to ensure that Brooklyn remains affordable for everyday residents, especially low-income communities, as the district’s economic make-up has shifted in recent years. In 2019, she introduced the Affordable Housing and Area Median Income Fairness Act to cut rent in subsidized areas.",
+"href": "https://voteyvette.com/issues"
+},
+{
+"text": "[image: Image] Immigration Our immigration crisis has come to a head. Children have been separated from families, and conditions in immigration detention centers have been deteriorating – we must take substantial action to prevent these inhumane circumstances. We are a nation of immigrants, and our policies must empower those looking to become part of the American dream. As a daughter of immigrants, Yvette is a fearless leader for immigrants’ rights.",
+"href": "https://voteyvette.com/issues"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+}
 ]

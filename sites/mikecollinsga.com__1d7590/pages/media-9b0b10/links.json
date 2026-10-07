@@ -1,57 +1,254 @@
 [
-"https://app.campaign-crypto.com/c4c",
-"https://facebook.com/MikeCollinsGA",
-"https://instagram.com/mikecollinsga",
-"https://mikecollinsga.com/",
-"https://mikecollinsga.com/about",
-"https://mikecollinsga.com/cdn-cgi/l/email-protection",
-"https://mikecollinsga.com/convoy",
-"https://mikecollinsga.com/endorsements",
-"https://mikecollinsga.com/events",
-"https://mikecollinsga.com/media",
-"https://mikecollinsga.com/news/demo-news",
-"https://mikecollinsga.com/news/news-2",
-"https://mikecollinsga.com/news/news-3",
-"https://mikecollinsga.com/press",
-"https://mikecollinsga.com/privacy-policy",
-"https://mikecollinsga.com/terms-conditions",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/COLLINS-RAW-055-1.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-1-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-3-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-4-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-5-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-6-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-8-1-1-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-8-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-9.webp",
-"https://mikecollinsga.com/wp-content/uploads/2025/07/image-scaled.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_1.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_10.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_11.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_12.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_13.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_14.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_15.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_16.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_17.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_18.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_19.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_2.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_20.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_21.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_22.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_3.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_4.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_5.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_6.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_7.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_8.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_9.webp",
-"https://mikecollinsga.com/wp-content/uploads/2026/09/Memo-Georgia-Senate-Messaging.pdf",
-"https://mikecollinsga.com/wp-content/uploads/2026/09/Mike-Collins-for-U.S.-Senate.mp4",
-"https://secure.winred.com/mike-collins/storefront",
-"https://secure.winred.com/mike-collins/website?exitintent=true",
-"https://truthsocial.com/@MikeCollinsGA",
-"https://x.com/mikecollinsga",
-"https://youtube.com/channel/UCjh6vFfsb53dVOGIQxBcdBA"
+{
+"text": "CONTACT US",
+"href": "mailto:contact@mikecollinsga.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/mike-collins/website?exitintent=true"
+},
+{
+"text": "DONATE WITH CRYPTO",
+"href": "https://app.campaign-crypto.com/c4c/"
+},
+{
+"text": "Download this",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/09/Memo-Georgia-Senate-Messaging.pdf"
+},
+{
+"text": "Download this Video",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/09/Mike-Collins-for-U.S.-Senate.mp4"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://mikecollinsga.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://mikecollinsga.com/events"
+},
+{
+"text": "Excepteur sint occaecat cupidatat non proident",
+"href": "https://mikecollinsga.com/news/news-2/"
+},
+{
+"text": "MEDIA",
+"href": "https://mikecollinsga.com/media"
+},
+{
+"text": "MEDIA INQUIRIES",
+"href": "mailto:press@mikecollinsga.com"
+},
+{
+"text": "MEET MIKE",
+"href": "https://mikecollinsga.com/about"
+},
+{
+"text": "News 3Duis aute irure dolor in reprehenderit",
+"href": "https://mikecollinsga.com/news/news-3/"
+},
+{
+"text": "PRESS",
+"href": "https://mikecollinsga.com/press"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://mikecollinsga.com/privacy-policy/"
+},
+{
+"text": "Read More »",
+"href": "https://mikecollinsga.com/news/demo-news/"
+},
+{
+"text": "Read More »",
+"href": "https://mikecollinsga.com/news/news-2/"
+},
+{
+"text": "Read More »",
+"href": "https://mikecollinsga.com/news/news-3/"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/mike-collins/storefront/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://mikecollinsga.com/terms-conditions/"
+},
+{
+"text": "Ut enim ad minim veniam, quis nostrud exercitation",
+"href": "https://mikecollinsga.com/news/demo-news/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mikecollinsga.com/convoy"
+},
+{
+"text": "[image]",
+"href": "https://mikecollinsga.com/"
+},
+{
+"text": "[image]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/09/Memo-Georgia-Senate-Messaging.pdf"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@MikeCollinsGA"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/news/demo-news/"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/news/news-2/"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/news/news-3/"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/COLLINS-RAW-055-1.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-1-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-3-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-4-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-5-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-6-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-8-1-1-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-8-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-9.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2025/07/image-scaled.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_1.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_10.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_11.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_12.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_13.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_14.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_15.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_16.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_17.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_18.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_19.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_2.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_20.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_21.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_22.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_3.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_4.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_5.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_6.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_7.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_8.webp"
+},
+{
+"text": "[no text]",
+"href": "https://mikecollinsga.com/wp-content/uploads/2026/08/Mike_Collins_9.webp"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeCollinsGA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikecollinsga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCjh6vFfsb53dVOGIQxBcdBA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikecollinsga/"
+}
 ]

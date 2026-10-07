@@ -1,6 +1,22 @@
 [
-"https://facebook.com/toddfortn",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://toddfortn.com/",
-"https://toddfortn.com/contact-me"
+{
+"text": "Contact Me!",
+"href": "https://toddfortn.com/contact-me"
+},
+{
+"text": "Home",
+"href": "https://toddfortn.com/"
+},
+{
+"text": "[image: State Representative Todd Warner]",
+"href": "https://toddfortn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/toddfortn"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

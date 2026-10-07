@@ -1,11 +1,54 @@
 [
-"http://secure.actblue.com/donate/mikerice26",
-"https://facebook.com/mikericevt",
-"https://instagram.com/mikericevt",
-"https://mikericevt.com/",
-"https://mikericevt.com/cart",
-"https://mikericevt.com/in-the-news",
-"https://mikericevt.com/meet-mike",
-"https://mikericevt.com/supporters",
-"https://mikericevt.com/volunteer"
+{
+"text": "0",
+"href": "https://www.mikericevt.com/cart"
+},
+{
+"text": "DONATE",
+"href": "http://secure.actblue.com/donate/mikerice26"
+},
+{
+"text": "In The News",
+"href": "https://www.mikericevt.com/in-the-news"
+},
+{
+"text": "Learn more →",
+"href": "https://www.mikericevt.com/meet-mike"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.mikericevt.com/meet-mike"
+},
+{
+"text": "More Endorsements",
+"href": "https://www.mikericevt.com/supporters"
+},
+{
+"text": "Supporters",
+"href": "https://www.mikericevt.com/supporters"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikericevt.com/volunteer"
+},
+{
+"text": "[image: Mike Rice for State Representative]",
+"href": "https://www.mikericevt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mikericevt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikericevt"
+},
+{
+"text": "[no text]",
+"href": "mailto:mike@mikericevt.com"
+},
+{
+"text": "mike@mikericevt.com",
+"href": "mailto:mike@mikericevt.com"
+}
 ]

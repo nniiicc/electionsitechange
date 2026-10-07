@@ -1,15 +1,62 @@
 [
-"http://facebook.com/wix",
-"http://twitter.com/wix",
-"http://wix.com/templateslp/links",
-"https://clagett4wv.com/",
-"https://clagett4wv.com/accessibility-statement",
-"https://clagett4wv.com/get-involved",
-"https://clagett4wv.com/home-1",
-"https://clagett4wv.com/issues",
-"https://clagett4wv.com/meet-chris",
-"https://clagett4wv.com/privacy-policy",
-"https://clagett4wv.com/terms-and-conditions",
-"https://secure.anedot.com/clagett-4-wv-house/donate",
-"https://wix.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://www.clagett4wv.com/accessibility-statement"
+},
+{
+"text": "Chris Clagett",
+"href": "https://www.clagett4wv.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/clagett-4-wv-house/donate"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.anedot.com/clagett-4-wv-house/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.clagett4wv.com/home-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.clagett4wv.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.clagett4wv.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.clagett4wv.com/issues"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://www.clagett4wv.com/meet-chris"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.clagett4wv.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.clagett4wv.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image][image][image]",
+"href": "http://www.wix.com/templateslp/links"
+}
 ]

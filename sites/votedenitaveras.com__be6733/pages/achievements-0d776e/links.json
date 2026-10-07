@@ -1,48 +1,386 @@
 [
-"http://facebook.com/10154924738362252",
-"https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy",
-"https://votedenitaveras.com/",
-"https://votedenitaveras.com/about-deni",
-"https://votedenitaveras.com/achievements",
-"https://votedenitaveras.com/developments/2017/7/24/development-1",
-"https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha",
-"https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha-d4gxh",
-"https://votedenitaveras.com/developments/2017/7/29/artworks-and-pizza-paradiso",
-"https://votedenitaveras.com/developments/2017/7/29/avondale-overlook-townhomes",
-"https://votedenitaveras.com/developments/2017/7/29/netzero-energy-townhomes",
-"https://votedenitaveras.com/developments/2017/7/29/rainier-manor-ii",
-"https://votedenitaveras.com/developments/2017/7/29/safeway-at-university-town-center",
-"https://votedenitaveras.com/developments/2017/7/29/singer-building",
-"https://votedenitaveras.com/developments/2017/7/29/studio-3807",
-"https://votedenitaveras.com/developments/2017/7/29/the-artisan",
-"https://votedenitaveras.com/developments/2017/7/29/the-riverfront-at-west-hyattsville",
-"https://votedenitaveras.com/developments/2017/7/30/hyattsville-library",
-"https://votedenitaveras.com/developments/2017/7/30/purple-line",
-"https://votedenitaveras.com/donate",
-"https://votedenitaveras.com/events",
-"https://votedenitaveras.com/issues",
-"https://votedenitaveras.com/legislation/2017/7/24/legislation",
-"https://votedenitaveras.com/legislation/2017/7/24/legislation-f32b8",
-"https://votedenitaveras.com/legislation/2017/7/24/legislation-f32b8-w39dp",
-"https://votedenitaveras.com/legislation/2017/7/29/combatting-drug-activities-and-human-trafficking-in-housing-rentals",
-"https://votedenitaveras.com/legislation/2017/7/29/creation-of-the-northern-gateway-district",
-"https://votedenitaveras.com/legislation/2017/7/29/curbstoning-prevention",
-"https://votedenitaveras.com/legislation/2017/7/29/ensuring-removal-of-accumulated-and-bulk-trash-at-evictions",
-"https://votedenitaveras.com/legislation/2017/7/29/fracking-ban",
-"https://votedenitaveras.com/legislation/2017/7/29/gateway-arts-district-small-business-development",
-"https://votedenitaveras.com/legislation/2017/7/29/increasing-penalties-for-illegal-signs",
-"https://votedenitaveras.com/legislation/2017/7/29/prince-georges-plaza-transit-center-district",
-"https://votedenitaveras.com/legislation/2017/7/29/supportin-urban-farms",
-"https://votedenitaveras.com/legislation/2018/4/23/fining-multifamily-housing",
-"https://votedenitaveras.com/legislation/2018/4/23/gateway-arts-district-minor-amendment",
-"https://votedenitaveras.com/legislation/2018/4/23/landlord-tenant-retaliatory-action",
-"https://votedenitaveras.com/legislation/2018/4/23/language-access",
-"https://votedenitaveras.com/legislation/2018/4/23/overcrowding-in-housing",
-"https://votedenitaveras.com/legislation/2018/4/23/protecting-dreamers-and-tps-holders",
-"https://votedenitaveras.com/legislation/2018/4/23/standards-for-non-conforming-uses",
-"https://votedenitaveras.com/legislation/2018/4/23/subdivision-regulations-exemptions",
-"https://votedenitaveras.com/legislation/2018/4/23/sustainable-community-status-for-greater-chillum",
-"https://votedenitaveras.com/legislation/2018/4/23/tax-credits-for-improving-historic-houses",
-"https://votedenitaveras.com/legislation/2018/4/23/unity-resolution",
-"https://votedenitaveras.com/news"
+{
+"text": "ABOUT DENI",
+"href": "https://votedenitaveras.com/about-deni"
+},
+{
+"text": "ACHIEVEMENTS",
+"href": "https://votedenitaveras.com/achievements"
+},
+{
+"text": "Artworks and Pizza Paradiso",
+"href": "https://votedenitaveras.com/developments/2017/7/29/artworks-and-pizza-paradiso"
+},
+{
+"text": "Avondale Overlook Townhomes",
+"href": "https://votedenitaveras.com/developments/2017/7/29/avondale-overlook-townhomes"
+},
+{
+"text": "Combating Public Drinking and Loitering",
+"href": "https://votedenitaveras.com/legislation/2017/7/24/legislation"
+},
+{
+"text": "Combatting Drug Activities and Human Trafficking in Housing Rentals",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/combatting-drug-activities-and-human-trafficking-in-housing-rentals"
+},
+{
+"text": "Creation of the Northern Gateway District",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/creation-of-the-northern-gateway-district"
+},
+{
+"text": "Curbstoning Prevention",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/curbstoning-prevention"
+},
+{
+"text": "DONATE",
+"href": "https://votedenitaveras.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "Ensuring Removal of Accumulated and Bulk Trash at Evictions",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/ensuring-removal-of-accumulated-and-bulk-trash-at-evictions"
+},
+{
+"text": "Extending Senior Leases",
+"href": "https://votedenitaveras.com/legislation/2017/7/24/legislation-f32b8-w39dp"
+},
+{
+"text": "Fining Multifamily Housing",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/fining-multifamily-housing"
+},
+{
+"text": "Fracking Ban",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/fracking-ban"
+},
+{
+"text": "Gateway Arts District Minor Amendment",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/gateway-arts-district-minor-amendment"
+},
+{
+"text": "Gateway Arts District Small Business Development",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/gateway-arts-district-small-business-development"
+},
+{
+"text": "HOME",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "Hyattsville Library",
+"href": "https://votedenitaveras.com/developments/2017/7/30/hyattsville-library"
+},
+{
+"text": "ISSUES",
+"href": "https://votedenitaveras.com/issues"
+},
+{
+"text": "Increasing Penalties for Illegal Signs",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/increasing-penalties-for-illegal-signs"
+},
+{
+"text": "Kiplinger Development at Editor's Park Drive",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha"
+},
+{
+"text": "Landlord Tenant - Retaliatory Action",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/landlord-tenant-retaliatory-action"
+},
+{
+"text": "Language Access",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/language-access"
+},
+{
+"text": "NEWS",
+"href": "https://votedenitaveras.com/news"
+},
+{
+"text": "Netzero Energy Townhomes",
+"href": "https://votedenitaveras.com/developments/2017/7/29/netzero-energy-townhomes"
+},
+{
+"text": "Overcrowding in Housing",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/overcrowding-in-housing"
+},
+{
+"text": "Prince George's Plaza Transit Center District",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/prince-georges-plaza-transit-center-district"
+},
+{
+"text": "Protecting Dreamers and TPS Holders",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/protecting-dreamers-and-tps-holders"
+},
+{
+"text": "Purple Line",
+"href": "https://votedenitaveras.com/developments/2017/7/30/purple-line"
+},
+{
+"text": "Pyramid Atlantic at the Arcade",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha-d4gxh"
+},
+{
+"text": "Rainier Manor II",
+"href": "https://votedenitaveras.com/developments/2017/7/29/rainier-manor-ii"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha-d4gxh"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/artworks-and-pizza-paradiso"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/avondale-overlook-townhomes"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/netzero-energy-townhomes"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/rainier-manor-ii"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/safeway-at-university-town-center"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/singer-building"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/studio-3807"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-artisan"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-riverfront-at-west-hyattsville"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/30/hyattsville-library"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/developments/2017/7/30/purple-line"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/24/legislation"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/24/legislation-f32b8"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/24/legislation-f32b8-w39dp"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/combatting-drug-activities-and-human-trafficking-in-housing-rentals"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/creation-of-the-northern-gateway-district"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/curbstoning-prevention"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/ensuring-removal-of-accumulated-and-bulk-trash-at-evictions"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/fracking-ban"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/gateway-arts-district-small-business-development"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/increasing-penalties-for-illegal-signs"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/prince-georges-plaza-transit-center-district"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/supportin-urban-farms"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/fining-multifamily-housing"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/gateway-arts-district-minor-amendment"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/landlord-tenant-retaliatory-action"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/language-access"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/overcrowding-in-housing"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/protecting-dreamers-and-tps-holders"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/standards-for-non-conforming-uses"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/subdivision-regulations-exemptions"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/sustainable-community-status-for-greater-chillum"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/tax-credits-for-improving-historic-houses"
+},
+{
+"text": "Read more →",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/unity-resolution"
+},
+{
+"text": "Safeway at University Town Center",
+"href": "https://votedenitaveras.com/developments/2017/7/29/safeway-at-university-town-center"
+},
+{
+"text": "Singer Building",
+"href": "https://votedenitaveras.com/developments/2017/7/29/singer-building"
+},
+{
+"text": "Standards for Non-Conforming Uses",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/standards-for-non-conforming-uses"
+},
+{
+"text": "Studio 3807",
+"href": "https://votedenitaveras.com/developments/2017/7/29/studio-3807"
+},
+{
+"text": "Styrofoam Ban",
+"href": "https://votedenitaveras.com/legislation/2017/7/24/legislation-f32b8"
+},
+{
+"text": "Subdivision Regulations - Exemptions",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/subdivision-regulations-exemptions"
+},
+{
+"text": "Supporting Urban Farms",
+"href": "https://votedenitaveras.com/legislation/2017/7/29/supportin-urban-farms"
+},
+{
+"text": "Sustainable Community Status for Greater Chillum",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/sustainable-community-status-for-greater-chillum"
+},
+{
+"text": "Takoma Langley Crossroads Transit Center",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1"
+},
+{
+"text": "Tax Credits for Improving Historic Houses",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/tax-credits-for-improving-historic-houses"
+},
+{
+"text": "The Artisan",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-artisan"
+},
+{
+"text": "The Riverfront at West Hyattsville",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-riverfront-at-west-hyattsville"
+},
+{
+"text": "Unity Resolution",
+"href": "https://votedenitaveras.com/legislation/2018/4/23/unity-resolution"
+},
+{
+"text": "Vote Deni Taveras 2026",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "[image: Artworks and Pizza Paradiso]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/artworks-and-pizza-paradiso"
+},
+{
+"text": "[image: Kiplinger Development at Editor's Park Drive]",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha"
+},
+{
+"text": "[image: Netzero Energy Townhomes]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/netzero-energy-townhomes"
+},
+{
+"text": "[image: Purple Line]",
+"href": "https://votedenitaveras.com/developments/2017/7/30/purple-line"
+},
+{
+"text": "[image: Pyramid Atlantic at the Arcade]",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1-l9gha-d4gxh"
+},
+{
+"text": "[image: Rainier Manor II]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/rainier-manor-ii"
+},
+{
+"text": "[image: Safeway at University Town Center]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/safeway-at-university-town-center"
+},
+{
+"text": "[image: Singer Building]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/singer-building"
+},
+{
+"text": "[image: Studio 3807]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/studio-3807"
+},
+{
+"text": "[image: Takoma Langley Crossroads Transit Center]",
+"href": "https://votedenitaveras.com/developments/2017/7/24/development-1"
+},
+{
+"text": "[image: The Artisan]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-artisan"
+},
+{
+"text": "[image: The Riverfront at West Hyattsville]",
+"href": "https://votedenitaveras.com/developments/2017/7/29/the-riverfront-at-west-hyattsville"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/10154924738362252"
+},
+{
+"text": "the most consequential politician in the last 20 years in Hyattsville",
+"href": "https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy/"
+}
 ]

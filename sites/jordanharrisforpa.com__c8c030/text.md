@@ -1,27 +1,14 @@
-JORDAN HARRIS
-Proudly serving the 186th district
-RUNNING ON RESULTS
-MY STORY
-Champion for Change and Community
-State Representative Jordan Harris has served his community in South and Southwest Philadelphia for his entire adult life.
+0 Skip to Content Home Donate Learn More About News Contact Open Menu Close Menu Home Donate Learn More About News Contact Open Menu Close Menu Home Donate Learn More About News Contact JORDAN HARRIS Proudly serving the 186th district RUNNING ON RESULTS MY STORY Champion for Change and Community State Representative Jordan Harris has served his community in South and Southwest Philadelphia for his entire adult life.
 Born and raised in Point Breeze and currently living in Greys Ferry, Harris has made delivering for his community and enriching the lives of those in Philadelphia and across Pennsylvania the center point of his career.
 After graduating from John Bartram Motivation High School and then Millersville University, Harris served as both a teacher in Philadelphia and as the Executive Director of Philadelphia’s Youth Commission before running for public office.
 First elected to the Pennsylvania House of Representatives in 2012, Harris has quickly established himself as a leader and visionary, first serving as the Chairman of the Legislative Black Caucus, then serving as only the second African American to hold the position of Democratic Whip.
 Harris is currently again only the second African American to hold the position of Majority Chairman of the Committee on Appropriations, the powerful House committee that controls all aspects of the state budget.
 While in office, Harris championed criminal justice reform and education reform, bringing real positive change to the lives of millions of Pennsylvanians.
-Learn more about his service to Pennsylvania:
-CHANGING THE GAME
-THE CLEAN SLATE LAW
-Harris is leading the transformation of Pennsylvania's criminal justice system with the Clean Slate Act, sealing minor offenses and boosting access to employment, housing, and education for those rehabilitated.
+Learn more about his service to Pennsylvania: Read More CHANGING THE GAME THE CLEAN SLATE LAW Harris is leading the transformation of Pennsylvania's criminal justice system with the Clean Slate Act, sealing minor offenses and boosting access to employment, housing, and education for those rehabilitated.
 His work on probation reform and professional licensing is fostering community reintegration and breaking poverty cycles.
-Collaborating with Governor Tom Wolf on efforts like 'Ban the Box,' Harris is setting a national benchmark for justice reform
-FIXING OUR PROBATION SYSTEM
-As former head of the Pennsylvania Legislative Black Caucus, Harris, with Governor Tom Wolf, tackled gun violence in Philadelphia, securing a $60 million grant and founding the Gun Violence Task Force to address the crisis and improve safety.
+Collaborating with Governor Tom Wolf on efforts like 'Ban the Box,' Harris is setting a national benchmark for justice reform FIXING OUR PROBATION SYSTEM As former head of the Pennsylvania Legislative Black Caucus, Harris, with Governor Tom Wolf, tackled gun violence in Philadelphia, securing a $60 million grant and founding the Gun Violence Task Force to address the crisis and improve safety.
 His advocacy also won an extra $2.5 million for the Task Force, strengthening efforts to make communities safer.
-SUPPORT OUR CAMPAIGN
-EDUCATION REFORM
-Harris is dedicated to expanding educational access, advocating for increased public education
-Harris views education as a key to escaping poverty, and through the Pennsylvania Promise, seeks to make higher education attainable for more Pennsylvania families, helping them achieve their educational goals.
-EMPOWERING THE COMMUNITY
-Harris has secured nearly $5 million in state funds for the 186th District, championing initiatives like the Schuylkill River Trail to enhance urban connectivity, the development of a community garden and playground refurbishment, the transformation of dilapidated buildings into vibrant mixed-use spaces, upgrades to a community senior center, a new cooler for a local public school, and support for affordable housing for low-income families.
+SUPPORT OUR CAMPAIGN $5 $25 $50 $250 EDUCATION REFORM Harris is dedicated to expanding educational access, advocating for increased public education Harris views education as a key to escaping poverty, and through the Pennsylvania Promise, seeks to make higher education attainable for more Pennsylvania families, helping them achieve their educational goals.
+EMPOWERING THE COMMUNITY Harris has secured nearly $5 million in state funds for the 186th District, championing initiatives like the Schuylkill River Trail to enhance urban connectivity, the development of a community garden and playground refurbishment, the transformation of dilapidated buildings into vibrant mixed-use spaces, upgrades to a community senior center, a new cooler for a local public school, and support for affordable housing for low-income families.
 These projects underscore his commitment to fostering a supportive and thriving community environment.
+LET’S KEEP IN TOUCH!

@@ -1,7 +1,9 @@
 {
  "description": "Health Care",
  "final_url": "https://www.sethfordelegate.com/issues/health_care",
- "paid_for_by": null,
+ "fingerprint": "081d4809787f6a36296af1abff2860e81f252082",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Health Care",
  "years_mentioned": []
 }

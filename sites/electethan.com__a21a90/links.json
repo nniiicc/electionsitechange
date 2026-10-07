@@ -1,11 +1,66 @@
 [
-"http://facebook.com/electethan",
-"https://electethan.com/",
-"https://imaweb.com/",
-"https://indianachamber.com/policy-advocacy/ibrg-pac",
-"https://infarmbureau.org/public-policy",
-"https://irtl.org/",
-"https://nrapvf.org/",
-"https://secure.anedot.com/electethan/donate",
-"https://twitter.com/ethanemanning"
+{
+"text": "About",
+"href": "https://electethan.com/#about"
+},
+{
+"text": "Connect",
+"href": "https://electethan.com/#social"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/electethan/donate"
+},
+{
+"text": "Email",
+"href": "https://electethan.com/#contact"
+},
+{
+"text": "Email",
+"href": "mailto:ethan@electethan.com"
+},
+{
+"text": "Home",
+"href": "https://electethan.com/"
+},
+{
+"text": "Indiana Chamber of Commerce",
+"href": "https://www.indianachamber.com/policy-advocacy/ibrg-pac/"
+},
+{
+"text": "Indiana Farm Bureau Ag Elect",
+"href": "https://www.infarmbureau.org/public-policy"
+},
+{
+"text": "Indiana Manufacturers Association",
+"href": "https://www.imaweb.com/"
+},
+{
+"text": "Indiana Right to Life",
+"href": "https://www.irtl.org/"
+},
+{
+"text": "Join",
+"href": "https://electethan.com/#join"
+},
+{
+"text": "National Rifle Association",
+"href": "https://www.nrapvf.org/"
+},
+{
+"text": "[image: State Representative Ethan Manning]",
+"href": "https://electethan.com"
+},
+{
+"text": "ethan@electethan.com",
+"href": "mailto:ethan@electethan.com"
+},
+{
+"text": "facebook like the campaign",
+"href": "http://www.facebook.com/electethan"
+},
+{
+"text": "twitter follow the campaign",
+"href": "https://twitter.com/ethanemanning"
+}
 ]

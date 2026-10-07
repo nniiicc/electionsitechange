@@ -1,5 +1,7 @@
-Meet Cinzia
-Cinzia Lettieri grew up in Clinton, Connecticut and is a proud graduate of The Morgan School.
+0 Skip to Content Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Folder: About Back Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
+Folder: Get Involved Back Volunteer Contact Headquarters Voter Information Meet Cinzia Cinzia Lettieri grew up in Clinton, Connecticut and is a proud graduate of The Morgan School.
 As the daughter of an immigrant from a blue-collar family, she learned early on the value of hard work, resilience, and forging her own path.
 For more than 15 years, Cinzia has dedicated her career to education, advocacy, and public policy.
 She has worked alongside CEOs, legislators, and advocacy organizations to simplify complex systems, address inequities, and build solutions that work for real people.
@@ -21,3 +23,10 @@ At the state level, Cinzia has been a consistent advocate for the issues that ma
 In 2025, Cinzia’s commitment to service was recognized by Shoreline Publishing with the Beacon Award for Outstanding Community Service—but for Cinzia, the work has never been about recognition.
 It’s about results.
 From local boards to state advocacy, Cinzia brings energy, experience, and a relentless focus on delivering for her community.
+Committed to Our Community Cinzia Lettieri for State Representative Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Let's Stay in Touch Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+I can’t wait to share what is happening in the community with you!
+Volunteer ‍ ‍ Contact ‍ ‍ Instagram ‍ ‍ Facebook Paid for by Lettieri for State Rep, Treasurer Seth Kweller.
+Approved by Cinzia Lettieri

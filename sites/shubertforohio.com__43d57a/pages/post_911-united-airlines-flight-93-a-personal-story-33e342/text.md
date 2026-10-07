@@ -1,6 +1,4 @@
-9/11: Flight 93 – A Personal Story
-Updated: Sep 12
-SAG HARBOR, NY – Hurricane Erin roared up the Eastern Seaboard overnight 25 years ago today, leaving behind what would be an absolutely gorgeous day, weatherwise, across the region.
+top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information DONATE GET INVOLVED All Posts 9/11: Flight 93 – A Personal Story Shubert for Ohio Sep 11 2 min read Updated: Sep 12 SAG HARBOR, NY – Hurricane Erin roared up the Eastern Seaboard overnight #ago today, leaving behind what would be an absolutely gorgeous day, weatherwise, across the region.
 The sun arose to reveal a beautiful blue sky with white cotton ball-like clouds.
 I turned on the television to catch the latest weather report, to see if it would be a good beach day, as my late wife, Sherri Moyer, and I were on vacation in The Hamptons.
 What I saw and the events of the morning would leave an indelible mark on my life and those of tens of millions of others around the world.
@@ -23,3 +21,7 @@ We spent the next 3 days consoling her mother, Doris Gronlund, a long-time Sag H
 It was not the vacation we had planned, but God put us where he needed us most.
 May all the souls that perished that day rest eternal.
 And may our country never forget those who paid the ultimate price to either rescue the injured or bring those responsible to justice.
+Recent Posts See All Who is Craig Shubert?
+Candidate for Ohio State Representative, District 34 2026 Voter Guide for Ohio House District 34 Statement on Tuesday’s Law Enforcement Activity in Hudson and Stow Paid for by Shubert for Ohio. © # Shubert for Ohio.
+All rights reserved.
+DONATE bottom of page

@@ -1,8 +1,8 @@
-I’m Rae Krantz.
+0 Skip to Content Meet Rae Endorsements Priorities Volunteer Vote For Rae Get a Yard Sign Donate Open Menu Close Menu Meet Rae Endorsements Priorities Volunteer Vote For Rae Get a Yard Sign Donate Open Menu Close Menu Meet Rae Endorsements Priorities Volunteer Vote For Rae Get a Yard Sign Donate I’m Rae Krantz.
 A software engineer, community advocate, and mother of two.
 Now I’m running to represent Delaware’s 6th State House District.
 I believe we can build a state government that works for all of us.
-Throughout my life, I’ve forged my own path by refusing to accept the status quo and working to make the world better for everyone who comes after me.
+Read my Platform Throughout my life, I’ve forged my own path by refusing to accept the status quo and working to make the world better for everyone who comes after me.
 When I was disenchanted with my jobs after college, I taught myself the necessary skills to enable a career-change to software development.
 To make it easier for others to do the same, I then became an advocate for stronger apprenticeship programs in the industry and founded a non-profit to guide people starting software development careers.
 I’ve also shared my knowledge and experience as an international conference speaker.
@@ -28,3 +28,5 @@ I am running because it’s a time for action.
 We all have a part to play in being the change we want to see.
 I will fight for our right to live healthy and safe lives, and to ensure that your voice carries the weight it deserves in Dover.
 None of this is easy, but I’ve never shied away from hard work.
+Join me and we can build something better together.
+Join the Team Donate Sign Up to Volunteer Donate Follow Rae Contact Our Campaign rae@raefordelaware.com 302-635-0756 Paid for by Friends of Rachel Krantz

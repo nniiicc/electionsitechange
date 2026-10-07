@@ -1,36 +1,30 @@
-Got Questions?
+Main Menu Home About Lisa Blog FAQs Sign Up for Emails Donate Login Register Home FAQs Got Questions?
 Good!
-Let's Start Here:
-Important Questions
-Lisa’s answers to Lisa’s Questions.
+Let's Start Here: Important Questions Lisa’s answers to Lisa’s Questions.
 For now.
 Join the community.
 Start a Discussion.
-Motivation To Run
+Motivation To Run Why Texas Legislature?
 This is the level of government where I feel I am least represented.
 In our district the previous office holder ran unopposed in 2024.
 He is not seeking re-election.
 The Texas Legislature has runaway momentum due to dominance of a single party.
-This is allowing distraction from the primary duty to uphold the TX Constitution.\
+This is allowing distraction from the primary duty to uphold the TX Constitution.\ Lisa, are you qualified?
 First, I meet the constitutional requirements for the office.
-Additional Relevant Qualifications Below:
-Education:
-I hold an Undergraduate Degree from Dartmouth College, Hanover NH.
+Additional Relevant Qualifications Below: Education: I hold an Undergraduate Degree from Dartmouth College, Hanover NH.
 I studied geology and completed and honors thesis.
 Formative experiences included a three-month language study program in Beijing China and membership in the Sigma Delta sorority.
 I earned my Ph.D. in Geology from the University of Oregon, Eugene OR.
 My dissertation focused on 18 Million Year Old fossil leaves from the Oregon Coast.
 My work suggested that the Oregon region was much warmer in the past.
 Similar to our Piney Woods area in Texas.
-Professional Experience:
-ExxonMobil: Geologic Exploration and Business Development: 2009 to Present.
+Professional Experience: ExxonMobil: Geologic Exploration and Business Development: 2009 to Present.
 Currently on Leave of Absence.
 Various customer service jobs when I was younger.
 International Experience: As the diversity of our district is an inspiration, I also think that my familiarity with the world is a competitive advantage in this election.
 Countries Visited as a Student: Mexico, Costa Rica, Peoples Republic of China, Ecuador.
 Countries Visited as a Professional: Canada, UK, Spain, Ireland, Angola, China, South Korea.
-Countries Visited as a Tourist: Canada, Mexico, Peru, Bolivia, Chile, Morrocco, Japan, Peoples Republic of China, Mongolia, Russia, Belarus, Czech Republic, Austria, Germany, The Netherlands, Belgum, France, Spain, Portugal, Monaco, Italy, Switzerland
-Countries Visited as a Child: Grenada, Mexico, Marquesas Islands, New Zealand, Australia
+Countries Visited as a Tourist: Canada, Mexico, Peru, Bolivia, Chile, Morrocco, Japan, Peoples Republic of China, Mongolia, Russia, Belarus, Czech Republic, Austria, Germany, The Netherlands, Belgum, France, Spain, Portugal, Monaco, Italy, Switzerland Countries Visited as a Child: Grenada, Mexico, Marquesas Islands, New Zealand, Australia Why run as an independent?
 The existing parties offer a false choice.
 They are keeping people from participating.
 Almost me!
@@ -51,6 +45,7 @@ You have a choice.
 I am running to give you a choice.
 Please, come along.
 It will be fun!
+How does running as an independent work?
 To appear on the November 2026 ballot I will need to submit at least 500 signatures of voters from this district.
 The signatures will need to be gathered after the conclusion of the primary, which may include a run-off election.
 Valid signatures will be from registered voters that did not participate in the primary.
@@ -58,14 +53,14 @@ W H A T????
 Bottom Line: I need you to sign a petition in May 2026!
 Please, Log in to this website, get involved, get in touch.
 I will bring the petition to your house if need be, but I need you to be ready!
+Lisa, why are you doing this?
 I feel a civic duty.
 I believe I can make a positive impact.
 I think it will be fun and interesting.
-District 126 - Tell Me More:
-Texas District 126 is in Northern Harris County.
+District 126 - Tell Me More: Where is Texas District 126 Texas District 126 is in Northern Harris County.
 It runs mostly west to east from 249 near Willowbrook Mall, along 1960 for a bit and then along Cypresswood Drive nearly to I-45.
 It also stretches north through Champions and Glenloch Farms, eventually stretching to include Hooks airport.
-Map of District
+Map of District Who lives in 126?
 Me!
 Maybe you?
 District 126 is a suburban district with people in a number of different neighborhoods.
@@ -74,6 +69,11 @@ Residents are educated and diverse.
 Not poor, not rich.
 Not city, not country.
 Just rich, poor, city, country folk living together.
+How can I support the campaign?
 Log into the website!
 Read the blog.
 Subscribe to the paper.
+I want to help!
+I still have questions.
+Community Home About Me FAQs Blog Join the Email List Useful links Activity Groups Forums Register Log In Copyright # Lisa Emerson Log into your account Email/username Password Remember Me Lost Password?
+Log Into Your Account Create an account

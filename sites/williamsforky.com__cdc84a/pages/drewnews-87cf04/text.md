@@ -1,15 +1,13 @@
-DREW IN THE NEWS
-Our government is in critical need of reestablishing and securing its essential Balance of Power and profoundly increased Accountability to its constituents - the People of these United States.
-March 11, 2026
-He's running against Congressman James Comer to fill the House seat covering much of West Kentucky.
-August 4, 2025
-U.S.
+Skip to Content Open Menu Close Menu Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Open Menu Close Menu Meet Drew Folder: Policies Back Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact Donate DREW IN THE NEWS John “Drew” Williams Signs Taking BAC Congress Pledge Our government is in critical need of reestablishing and securing its essential Balance of Power and profoundly increased Accountability to its constituents - the People of these United States.
+March 11, 2026 John 'Drew' Williams only Democrat to speak at Fancy Farm 2025 He's running against Congressman James Comer to fill the House seat covering much of West Kentucky.
+August 4, 2025 U.S.
+House candidate John 'Drew' Williams speaks at Fancy Farm Picnic 2025 U.S.
 House candidate John "Drew" Williams speaks during the 145th annual Fancy Farm Picnic at St.
 Jerome's Catholic Church in southwestern Kentucky.
-August 2, 2025
-John “Drew” Williams is a Marshall County native, and has long strived to be as involved with the community as possible.
-June 5, 2025
-U.S.
+August 2, 2025 Williams vows to bring community's concerns to Congress if elected John “Drew” Williams is a Marshall County native, and has long strived to be as involved with the community as possible.
+June 5, 2025 John “Drew” Williams Pledges to Support Term Limits on Congress U.S.
 Term Limits (USTL) praises Williams for signing pledge for an amendment to term limit Congress.
-June 5, 2025
-Marshall County native pledges to bring community-first values to Washington.
+June 5, 2025 John “Drew” Williams Announces Campaign for U.S.
+House in Kentucky’s 1st District Marshall County native pledges to bring community-first values to Washington.
+May 27, 2025 WHAT ARE YOUR CONCERNS?
+TELL ME ABOUT IT Meet Drew Contact Us Donate by Mail Mutual Aid Policy Plans Volunteer Terms + Conditions Privacy Policy Paid for by Williams for Kentucky Campaign.

@@ -1,8 +1,4 @@
-top of page
-Your voice is essential to this movement.
+top of page DONATE TO ELECT JUSTIN PIKE FOR STATE REPRESENTATIVE MEET JUSTIN PRIORITIES ENDORSEMENTS MEDIA EVENTS VOLUNTEER CONTACT Your voice is essential to this movement.
 Whether you have a question, a suggestion, or want to volunteer, we want to hear from you.
 Leadership starts with listening, and every perspective matters in our journey to build a stronger district.
-Join the Conversation
-Paid for by Vote Justin Pike (R) PO Box 1406, Bellingham WA 98227
-votejustinpike@gmail.com
-bottom of page
+Join the Conversation First name * Last name * Email address * Title / position What would you like Justin to know? * Send Message Paid for by Vote Justin Pike (R) PO Box 1406, Bellingham WA 98227 votejustinpike@gmail.com MEET JUSTIN PRIORITIES ENDORSEMENTS MEDIA EVENTS VOLUNTEER CONTACT LET'S KEEP MOVING WHATCOM COUNTY FORWARD People Not Politics DONATE Paid for by Vote Justin Pike (R) PO Box 1406, Bellingham WA 98227 Facebook TicTok Instagram votejustinpike@gmail.com bottom of page

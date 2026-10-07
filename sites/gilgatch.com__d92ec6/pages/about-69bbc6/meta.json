@@ -1,10 +1,13 @@
 {
  "description": "Meet Gil Gatch, a Summerville native, attorney, former pastor, and Republican leader serving South Carolina House District 94.",
  "final_url": "https://www.gilgatch.com/about/",
- "paid_for_by": "Paid for by Gil Gatch for State House \u00a9 2026 Gil Gatch for State House",
+ "fingerprint": "6bf94250e1fab2a1ef12240c2e203013a772ee54",
+ "format": 3,
+ "paid_for_by": "Paid for by Gil Gatch for State House © # Gil Gatch for State House",
  "title": "About Gil Gatch | SC House District 94",
  "years_mentioned": [
   "2012",
-  "2015"
+  "2015",
+  "2020"
  ]
 }

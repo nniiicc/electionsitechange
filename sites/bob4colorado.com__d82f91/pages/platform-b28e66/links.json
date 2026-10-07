@@ -1,13 +1,46 @@
 [
-"https://bob4colorado.com/about",
-"https://bob4colorado.com/canvass",
-"https://bob4colorado.com/contact",
-"https://bob4colorado.com/events-1",
-"https://bob4colorado.com/hd43",
-"https://bob4colorado.com/news",
-"https://bob4colorado.com/platform",
-"https://coloradopolitics.com/legislature/it-took-courage-first-term-democrats-challenge-decades-of-illegal-meetings-at-colorados-legislature-cover/article_4922cb94-20f1-11ee-9abc-574272b6e0ac.html",
-"https://facebook.com/Bob4Colorado",
-"https://secure.actblue.com/donate/bob-4-colorado-1",
-"https://twitter.com/Bob4Colorado"
+{
+"text": "About",
+"href": "https://www.bob4colorado.com/about"
+},
+{
+"text": "Canvass",
+"href": "https://www.bob4colorado.com/canvass"
+},
+{
+"text": "Contact",
+"href": "https://www.bob4colorado.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bob-4-colorado-1"
+},
+{
+"text": "Events",
+"href": "https://www.bob4colorado.com/events-1"
+},
+{
+"text": "First-term Democrats challenge decades of illegal meetings",
+"href": "https://www.coloradopolitics.com/legislature/it-took-courage-first-term-democrats-challenge-decades-of-illegal-meetings-at-colorados-legislature-cover/article_4922cb94-20f1-11ee-9abc-574272b6e0ac.html"
+},
+{
+"text": "HD43",
+"href": "https://www.bob4colorado.com/hd43"
+},
+{
+"text": "News",
+"href": "https://www.bob4colorado.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.bob4colorado.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Bob4Colorado"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Bob4Colorado"
+}
 ]

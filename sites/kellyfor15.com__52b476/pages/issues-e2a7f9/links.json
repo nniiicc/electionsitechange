@@ -1,13 +1,58 @@
 [
-"http://blueinkweb.com/",
-"https://facebook.com/Kellyfor15",
-"https://getwibsy.com/",
-"https://instagram.com/kellyfor15",
-"https://kellyfor15.com/",
-"https://kellyfor15.com/about",
-"https://kellyfor15.com/contact",
-"https://kellyfor15.com/contact0930ca20",
-"https://kellyfor15.com/endorsements",
-"https://kellyfor15.com/issues",
-"https://secure.actblue.com/donate/friends-of-mike-kelly-1"
+{
+"text": "About",
+"href": "https://www.kellyfor15.com/about"
+},
+{
+"text": "Blue Ink Web",
+"href": "http://blueinkweb.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kellyfor15.com/"
+},
+{
+"text": "CONTACT MIKE",
+"href": "https://www.kellyfor15.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.kellyfor15.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-mike-kelly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellyfor15.com/endorsements"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.kellyfor15.com/"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.kellyfor15.com/contact0930ca20"
+},
+{
+"text": "Home",
+"href": "https://www.kellyfor15.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kellyfor15.com/issues"
+},
+{
+"text": "Wibsy",
+"href": "https://www.getwibsy.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Kellyfor15/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kellyfor15/"
+}
 ]

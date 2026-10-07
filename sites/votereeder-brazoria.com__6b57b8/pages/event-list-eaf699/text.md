@@ -1,2 +1,4 @@
-Come say hello, bring a friend, and share what you are seeing in your community.
+top of page HOME MEET KAREN GET INVOLVED EVENTS CONTACT US ISSUES DONATE Menu Close Log In Upcoming Events Fri, Oct 02 Family Show Down Fundraiser / Manvel Details Oct 02, 2026, 6:30 PM – 9:30 PM Manvel, Manvel, TX, USA See All Thu, Apr 23 Karen Reeder Meet & Greet! / 2600 Smith Ranch Rd Details Apr 23, 2026, 6:30 PM – 8:00 PM CDT 2600 Smith Ranch Rd, 2600 Smith Ranch Rd, Pearland, TX 77584, USA Come meet Karen Reeder, hear her vision, and be part of the conversation.
+Sat, Feb 21 Official Vote Reeder Brazoria Campaign Kick Off / RSVP For Event Location Details Feb 21, 2026, 3:00 PM – 5:00 PM RSVP For Event Location EVENTS Come say hello, bring a friend, and share what you are seeing in your community.
 If you want to host a small conversation at your home or business, our team will help set it up.
+Sponsor an Event HOME MEET KAREN GET INVOLVED EVENTS CONTACT US ISSUES DONATE bottom of page

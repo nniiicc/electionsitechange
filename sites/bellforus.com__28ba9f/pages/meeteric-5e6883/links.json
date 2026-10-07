@@ -1,13 +1,46 @@
 [
-"https://bellforus.com/",
-"https://bellforus.com/blog",
-"https://bellforus.com/help",
-"https://bellforus.com/meeteric",
-"https://bellforus.com/platform",
-"https://facebook.com/eazy.smu",
-"https://instagram.com/ericforcommissioner",
-"https://linkedin.com/in/eric-bell-06550248",
-"https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do",
-"https://secure.actblue.com/donate/bellforus",
-"https://twitter.com/sirsokool"
+{
+"text": "BLOG",
+"href": "https://www.bellforus.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bellforus"
+},
+{
+"text": "HELP",
+"href": "https://www.bellforus.com/help"
+},
+{
+"text": "HOME",
+"href": "https://www.bellforus.com"
+},
+{
+"text": "MEET ERIC",
+"href": "https://www.bellforus.com/meeteric"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.bellforus.com/platform"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "https://www.facebook.com/eazy.smu"
+},
+{
+"text": "[image: Instagram Clean Grey]",
+"href": "https://www.instagram.com/ericforcommissioner/"
+},
+{
+"text": "[image: LinkedIn Clean Grey]",
+"href": "https://www.linkedin.com/in/eric-bell-06550248"
+},
+{
+"text": "[image: Twitter Clean Grey]",
+"href": "https://twitter.com/sirsokool"
+},
+{
+"text": "[image][image][image]",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcometoga.do#no-back-button"
+}
 ]

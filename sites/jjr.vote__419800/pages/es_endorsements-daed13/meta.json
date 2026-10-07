@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.jjr.vote/es/endorsements",
- "paid_for_by": null,
+ "fingerprint": "3cb607a13f809c08e2c439eb842229e7948d69ea",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": [
+  "1991",
   "2026"
  ]
 }

@@ -1,6 +1,5 @@
-Michael Antonucci: Ian Goodnow for Windham 9 District
-I witnessed Ian work as a tireless advocate for Brattleboro, repeatedly stepping out of the office for meetings and phone calls on behalf of the town while keeping up with the work on his desk.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Michael Antonucci: Ian Goodnow for Windham 9 District Ian Goodnow for State Representative on June 10, 2024 I witnessed Ian work as a tireless advocate for Brattleboro, repeatedly stepping out of the office for meetings and phone calls on behalf of the town while keeping up with the work on his desk.
 I saw Ian quietly, efficiently and consistently undertake difficult tasks and make hard decisions as a leader and elected official.
 Working together as we did, I came to understand Ian’s dedication to public service as being informed by an abiding commitment to building community.
 This quality distinguishes his candidacy from those of other office seekers on this year’s ballot.
-Michael Antonucci (Brattleboro Reformer)
+Michael Antonucci (Brattleboro Reformer) Read the full story Category: In the News Post navigation Previous: Previous post: The Commons: Goodnow eyes Toleno’s House seat Next: Next post: Brattleboro Reformer: Gartenstein, Goodnow face off Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

@@ -1,43 +1,222 @@
 [
-"https://facebook.com/mckayforsenate",
-"https://instagram.com/mckay_senate",
-"https://mckayforussenate.com/",
-"https://mckayforussenate.com/events",
-"https://mckayforussenate.com/in-the-news",
-"https://mckayforussenate.com/join-team-mckay",
-"https://mckayforussenate.com/meet-ray-mckay",
-"https://mckayforussenate.com/privacy-policy",
-"https://mckayforussenate.com/right-direction",
-"https://mckayforussenate.com/terms-conditions",
-"https://secure.winred.com/mckay-for-senate/donate-hd?amount=1000",
-"https://secure.winred.com/mckay-for-senate/donate-hd?amount=3500",
-"https://secure.winred.com/mckay-for-senate/donate-hd?amount=500",
-"https://secure.winred.com/mckay-for-senate/donate-hd?amount=7000",
-"https://secure.winred.com/mckay-for-senate/donate-today",
-"https://secure.winred.com/mckay-for-senate/donate-today?amount=100",
-"https://secure.winred.com/mckay-for-senate/donate-today?amount=250",
-"https://secure.winred.com/mckay-for-senate/donate-today?amount=50",
-"https://twitter.com/McKay_Senate",
-"https://twitter.com/McKay_Senate/status/2105657963067449581",
-"https://twitter.com/intent/like?tweet_id=2103906902979625006&related=vicmellorforri",
-"https://twitter.com/intent/like?tweet_id=2104150179524010190&related=rinewstoday",
-"https://twitter.com/intent/like?tweet_id=2105657963067449581&related=mckay_senate",
-"https://twitter.com/intent/like?tweet_id=2106426720198840397&related=mckay_senate",
-"https://twitter.com/intent/retweet?tweet_id=2103906902979625006&related=vicmellorforri",
-"https://twitter.com/intent/retweet?tweet_id=2104150179524010190&related=rinewstoday",
-"https://twitter.com/intent/retweet?tweet_id=2105657963067449581&related=mckay_senate",
-"https://twitter.com/intent/retweet?tweet_id=2106426720198840397&related=mckay_senate",
-"https://twitter.com/intent/tweet?in_reply_to=2103906902979625006&related=vicmellorforri",
-"https://twitter.com/intent/tweet?in_reply_to=2104150179524010190&related=rinewstoday",
-"https://twitter.com/intent/tweet?in_reply_to=2105657963067449581&related=mckay_senate",
-"https://twitter.com/intent/tweet?in_reply_to=2106426720198840397&related=mckay_senate",
-"https://twitter.com/intent/user?screen_name=McKay_Senate",
-"https://twitter.com/mckay_senate",
-"https://twitter.com/mckay_senate/status/2105657963067449581",
-"https://twitter.com/mckay_senate/status/2106426720198840397",
-"https://twitter.com/rinewstoday",
-"https://twitter.com/rinewstoday/status/2104150179524010190",
-"https://twitter.com/vicmellorforri",
-"https://twitter.com/vicmellorforri/status/2103906902979625006",
-"https://x.com/McKay_Senate"
+{
+"text": "$ 1,000",
+"href": "https://secure.winred.com/mckay-for-senate/donate-hd?amount=1000"
+},
+{
+"text": "$ 100",
+"href": "https://secure.winred.com/mckay-for-senate/donate-today?amount=100"
+},
+{
+"text": "$ 250",
+"href": "https://secure.winred.com/mckay-for-senate/donate-today?amount=250"
+},
+{
+"text": "$ 3,500",
+"href": "https://secure.winred.com/mckay-for-senate/donate-hd?amount=3500"
+},
+{
+"text": "$ 50",
+"href": "https://secure.winred.com/mckay-for-senate/donate-today?amount=50"
+},
+{
+"text": "$ 500",
+"href": "https://secure.winred.com/mckay-for-senate/donate-hd?amount=500"
+},
+{
+"text": "$ 7,000",
+"href": "https://secure.winred.com/mckay-for-senate/donate-hd?amount=7000"
+},
+{
+"text": "(401) 795-4401",
+"href": "tel:4017954401"
+},
+{
+"text": "1 Oct",
+"href": "https://twitter.com/mckay_senate/status/2105657963067449581"
+},
+{
+"text": "26 Sep",
+"href": "https://twitter.com/vicmellorforri/status/2103906902979625006"
+},
+{
+"text": "27 Sep",
+"href": "https://twitter.com/rinewstoday/status/2104150179524010190"
+},
+{
+"text": "3 Oct",
+"href": "https://twitter.com/mckay_senate/status/2106426720198840397"
+},
+{
+"text": "@mckay_senate",
+"href": "https://twitter.com/mckay_senate"
+},
+{
+"text": "@rinewstoday",
+"href": "https://twitter.com/rinewstoday"
+},
+{
+"text": "@vicmellorforri",
+"href": "https://twitter.com/vicmellorforri"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mckay-for-senate/donate-today"
+},
+{
+"text": "Events",
+"href": "https://www.mckayforussenate.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.mckayforussenate.com/"
+},
+{
+"text": "Join / Contact",
+"href": "https://www.mckayforussenate.com/join-team-mckay/"
+},
+{
+"text": "Like on Twitter 2103906902979625006 71",
+"href": "https://twitter.com/intent/like?tweet_id=2103906902979625006&related=vicmellorforri"
+},
+{
+"text": "Like on Twitter 2104150179524010190 15",
+"href": "https://twitter.com/intent/like?tweet_id=2104150179524010190&related=rinewstoday"
+},
+{
+"text": "Like on Twitter 2105657963067449581 4",
+"href": "https://twitter.com/intent/like?tweet_id=2105657963067449581&related=mckay_senate"
+},
+{
+"text": "Like on Twitter 2106426720198840397",
+"href": "https://twitter.com/intent/like?tweet_id=2106426720198840397&related=mckay_senate"
+},
+{
+"text": "Meet Ray McKay",
+"href": "https://www.mckayforussenate.com/meet-ray-mckay/"
+},
+{
+"text": "News",
+"href": "https://www.mckayforussenate.com/in-the-news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/mckay-for-senate/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mckayforussenate.com/privacy-policy/"
+},
+{
+"text": "RINewsToday",
+"href": "https://twitter.com/rinewstoday"
+},
+{
+"text": "Raymond T McKay",
+"href": "https://twitter.com/mckay_senate"
+},
+{
+"text": "Raymond T McKay Retweeted",
+"href": "https://twitter.com/mckay_senate"
+},
+{
+"text": "Raymond T McKay Verified account Follow McKay for U.S. Senate - RI McKay for Senate Inc US Army Veteran ** Constitutional Conservative [image: McKay_Senate]",
+"href": "https://twitter.com/McKay_Senate/"
+},
+{
+"text": "Reply on Twitter 2103906902979625006",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2103906902979625006&related=vicmellorforri"
+},
+{
+"text": "Reply on Twitter 2104150179524010190",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2104150179524010190&related=rinewstoday"
+},
+{
+"text": "Reply on Twitter 2105657963067449581",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2105657963067449581&related=mckay_senate"
+},
+{
+"text": "Reply on Twitter 2106426720198840397",
+"href": "https://twitter.com/intent/tweet?in_reply_to=2106426720198840397&related=mckay_senate"
+},
+{
+"text": "Retweet on Twitter",
+"href": "https://twitter.com/intent/user?screen_name=McKay_Senate"
+},
+{
+"text": "Retweet on Twitter 2103906902979625006 25",
+"href": "https://twitter.com/intent/retweet?tweet_id=2103906902979625006&related=vicmellorforri"
+},
+{
+"text": "Retweet on Twitter 2104150179524010190 5",
+"href": "https://twitter.com/intent/retweet?tweet_id=2104150179524010190&related=rinewstoday"
+},
+{
+"text": "Retweet on Twitter 2105657963067449581 1",
+"href": "https://twitter.com/intent/retweet?tweet_id=2105657963067449581&related=mckay_senate"
+},
+{
+"text": "Retweet on Twitter 2106426720198840397",
+"href": "https://twitter.com/intent/retweet?tweet_id=2106426720198840397&related=mckay_senate"
+},
+{
+"text": "Right Direction",
+"href": "https://www.mckayforussenate.com/right-direction/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mckayforussenate.com/terms-conditions/"
+},
+{
+"text": "Vic Mellor For Congress RI",
+"href": "https://twitter.com/vicmellorforri"
+},
+{
+"text": "X 2103906902979625006",
+"href": "https://twitter.com/vicmellorforri/status/2103906902979625006"
+},
+{
+"text": "X 2104150179524010190",
+"href": "https://twitter.com/rinewstoday/status/2104150179524010190"
+},
+{
+"text": "X 2105657963067449581",
+"href": "https://twitter.com/mckay_senate/status/2105657963067449581"
+},
+{
+"text": "X 2106426720198840397",
+"href": "https://twitter.com/mckay_senate/status/2106426720198840397"
+},
+{
+"text": "[image: McKay for U.S. Senate]",
+"href": "https://www.mckayforussenate.com/"
+},
+{
+"text": "[image: mckay_senate]",
+"href": "https://twitter.com/mckay_senate"
+},
+{
+"text": "[image: rinewstoday]",
+"href": "https://twitter.com/rinewstoday"
+},
+{
+"text": "[image: vicmellorforri]",
+"href": "https://twitter.com/vicmellorforri"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/McKay_Senate/status/2105657963067449581"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mckayforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mckay_senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/McKay_Senate"
+}
 ]

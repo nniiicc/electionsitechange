@@ -1,23 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Civil+Beat+Pop+Up+Newsroom%3A+Meet+the+Candidates&dates=20240727T033000Z%2F20240727T043000Z&location=1200+Ala+Moana+Boulevard%2C+Honolulu%2C+HI%2C+96814%2C+United+States",
-"http://maps.google.com/?q=1200+Ala+Moana+Boulevard+Honolulu%2C+HI%2C+96814+United+States",
-"https://facebook.com/votekimcoco",
-"https://forms.gle/k9st6ryCCr6bTRb67",
-"https://instagram.com/votekimcoco",
-"https://secure.actblue.com/donate/votekimcoco2026",
-"https://twitter.com/votekimcoco",
-"https://votekimcoco.com/",
-"https://votekimcoco.com/blog",
-"https://votekimcoco.com/contact-me",
-"https://votekimcoco.com/district-resources",
-"https://votekimcoco.com/experience",
-"https://votekimcoco.com/issues",
-"https://votekimcoco.com/letsmeet",
-"https://votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n",
-"https://votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom?format=ical",
-"https://votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs",
-"https://votekimcoco.com/media",
-"https://votekimcoco.com/meet-kim-coco",
-"https://votekimcoco.com/search",
-"https://votekimcoco.com/whykimcoco"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1200+ala+moana+boulevard+honolulu%2C+hi%2C+96814+united+states"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Blog",
+"href": "https://www.votekimcoco.com/blog"
+},
+{
+"text": "Contact Me",
+"href": "https://www.votekimcoco.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/votekimcoco2026"
+},
+{
+"text": "District Resources",
+"href": "https://www.votekimcoco.com/district-resources"
+},
+{
+"text": "Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Experience",
+"href": "https://www.votekimcoco.com/experience"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Civil+Beat+Pop+Up+Newsroom%3A+Meet+the+Candidates&dates=20240727T033000Z%2F20240727T043000Z&location=1200+Ala+Moana+Boulevard%2C+Honolulu%2C+HI%2C+96814%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2024/7/26/civil-beat-pop-up-newsroom?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votekimcoco.com/issues"
+},
+{
+"text": "KimCoco@KimCoco.com",
+"href": "mailto:kimcoco@kimcoco.com"
+},
+{
+"text": "Media",
+"href": "https://www.votekimcoco.com/media"
+},
+{
+"text": "Meet Kim Coco",
+"href": "https://www.votekimcoco.com/meet-kim-coco"
+},
+{
+"text": "Phonebank for Team Coco",
+"href": "https://www.votekimcoco.com/letsmeet/2024/5/26/phonebank-for-team-coco-pm2ah-bma93-gxsbf-l4kmd-8xhrw-ftb5n"
+},
+{
+"text": "Sign Waving - Kamakee & Auahi",
+"href": "https://www.votekimcoco.com/letsmeet/beretania-wszd9-jmnkb-hl35x-fh6na-whwgs"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/k9st6ryCCr6bTRb67"
+},
+{
+"text": "Why Kim Coco",
+"href": "https://www.votekimcoco.com/whykimcoco"
+},
+{
+"text": "[image: Kim Coco Iwamoto]",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "[image: social_icons-facebook-sml.png]",
+"href": "https://www.facebook.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-instagram-sml.png]",
+"href": "https://www.instagram.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-twitter-sml.png]",
+"href": "https://twitter.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:kimcoco@kimcoco.com"
+}
 ]

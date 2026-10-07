@@ -1,11 +1,58 @@
 [
-"http://google.com/analytics/tos.html",
-"http://google.com/privacypolicy.html",
-"http://usa.gov/optout_instructions.shtml",
-"https://facebook.com/TrentKellyforCongress",
-"https://kellyformississippi.com/",
-"https://kellyformississippi.com/privacy-policy",
-"https://trentkelly.house.gov/biography",
-"https://twitter.com/KellyforMS01",
-"https://winred.revv.co/TrentKelly/donate"
+{
+"text": "About",
+"href": "https://trentkelly.house.gov/biography/"
+},
+{
+"text": "Donate",
+"href": "https://winred.revv.co/TrentKelly/donate"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@kellyformississippi.com"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@kellyformississippi.com?Subject=Website+Privacy+Policy"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "http://www.google.com/analytics/tos.html"
+},
+{
+"text": "Google Privacy Policy",
+"href": "http://www.google.com/privacypolicy.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kellyformississippi.com/privacy-policy/"
+},
+{
+"text": "[image: Kelly for Mississippi]",
+"href": "https://kellyformississippi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://kellyformississippi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KellyforMS01"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TrentKellyforCongress"
+},
+{
+"text": "disabling cookies",
+"href": "http://www.usa.gov/optout_instructions.shtml"
+},
+{
+"text": "info@kellyformississippi.com",
+"href": "mailto:info@kellyformississippi.com"
+},
+{
+"text": "www.kellyformississippi.com",
+"href": "https://kellyformississippi.com/"
+}
 ]

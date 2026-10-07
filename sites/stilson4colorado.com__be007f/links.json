@@ -1,14 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61587015147509",
-"https://secure.anedot.com/stilson-for-senate-district-11/donate",
-"https://stilson4colorado.com/about",
-"https://stilson4colorado.com/cdn-cgi/l/email-protection",
-"https://stilson4colorado.com/contact",
-"https://stilson4colorado.com/home",
-"https://stilson4colorado.com/legal",
-"https://stilson4colorado.com/news",
-"https://stilson4colorado.com/priorities",
-"https://stilson4colorado.com/request-a-yard-sign",
-"https://stilson4colorado.com/stilson",
-"https://stilson4colorado.com/volunteer"
+{
+"text": "About",
+"href": "https://stilson4colorado.com/about"
+},
+{
+"text": "Contact",
+"href": "https://stilson4colorado.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/stilson-for-senate-district-11/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/stilson-for-senate-district-11/donate"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://stilson4colorado.com/request-a-yard-sign"
+},
+{
+"text": "Home",
+"href": "https://stilson4colorado.com/home"
+},
+{
+"text": "Legal",
+"href": "https://stilson4colorado.com/legal"
+},
+{
+"text": "News",
+"href": "https://stilson4colorado.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://stilson4colorado.com/priorities"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://stilson4colorado.com/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://stilson4colorado.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://stilson4colorado.com/request-a-yard-sign"
+},
+{
+"text": "[email protected]",
+"href": "https://stilson4colorado.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Brand Logo]",
+"href": "https://stilson4colorado.com/stilson"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/profile.php?id=61587015147509"
+},
+{
+"text": "[image]",
+"href": "https://stilson4colorado.com/stilson"
+}
 ]

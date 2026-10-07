@@ -1,7 +1,4 @@
-Fundraising
-Jaclyn Martin
-Fundraising
-Jaclyn Martin
-Football squares and watch party to raise funds for JJ’s campaign.
-Pizza and Fundraising—Saturday, August 8th!
-Learn to salsa while fundraising!
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Fundraising Jaclyn Martin 9/21/26 Fundraising Jaclyn Martin 9/21/26 Football squares + Fun Football squares and watch party to raise funds for JJ’s campaign.
+Read More Fundraising Jaclyn Martin 8/4/26 Fundraising Jaclyn Martin 8/4/26 Get Pizza, Raise dough Pizza and Fundraising—Saturday, August 8th!
+Read More Fundraising Jaclyn Martin 7/13/26 Fundraising Jaclyn Martin 7/13/26 Salsa Dancing Night Learn to salsa while fundraising!
+Read More DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

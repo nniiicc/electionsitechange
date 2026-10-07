@@ -1,9 +1,12 @@
 {
  "description": "Meet Gabriel Acevero, Democratic candidate for Delegate in District 39. Learn about his story, community roots, and commitment to civil rights and justice.",
  "final_url": "https://www.gabeacevero.org/about",
- "paid_for_by": null,
+ "fingerprint": "7b1e0651c375d46fae17c082a2eafe3cd94da0ca",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Delegate Gabriel Acevero",
  "years_mentioned": [
+  "2007",
   "2018"
  ]
 }

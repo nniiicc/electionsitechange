@@ -1,11 +1,10 @@
-December 26, 2020
-Back in school when we were taking tests, if you got caught cheating you were in big trouble.
+Home Donate Blog News About Connect Cheating the Presidential Election December 26, 2020 Back in school when we were taking tests, if you got caught cheating you were in big trouble.
 The teacher didn't take any time to try to sort out which answers you got correct naturally, or which ones you cheated on to get right.
-If you got caught cheating, your grade was a big fat ZERO.
+If you got caught cheating, your grade was a big fat ZERO .
 End of story.
 It didn't matter if your method of cheating was copying from your neighbor or pilfering the answer sheet from the back of the teacher's edition of the textbook.
 Cheating, in any form, got your entire test disqualified.
-Your grade for that test was ZERO, just like the grade you'd get if you failed to take the test at all.
+Your grade for that test was ZERO , just like the grade you'd get if you failed to take the test at all.
 Not only were you sentenced to utterly and completely failing that particular test, your parents were notified and you were given a week or two of detention, suspension, or worse.
 The ZERO grade alone was not sufficient punishment.
 Why not?
@@ -17,7 +16,7 @@ Handing out the test personally to each individual student is time-consuming, so
 What happens if these six "row captains," while passing out the tests, decide to tell the students in their respective rows that they CAN copy off their neighbor, can use a pilfered answer sheet, or can use Google to look up the answers?
 This would run directly counter to your longstanding classroom rules for tests stating that each student is to answer the questions from their own knowledge, without any outside assistance.
 What would you do upon discovering this plot by your six row captains?
-This is no longer a retail cheating scheme by a singular student, but a wider and more troubling wholesale cheating scheme, which is much more concerning and difficult to sort out.
+This is no longer a retail cheating scheme by a singular student, but a wider and more troubling wholesale cheating scheme , which is much more concerning and difficult to sort out.
 You have no way to determine which students actually stuck to the traditional classroom rules for taking tests, nor which ones acted on the underhanded and bogus advice of their row captain to use outside assistance to complete the test.
 It's hard to blame every student who listened to their row captain.
 After all, those row captains have been called upon at various times all year to assist you in similar ways in the classroom.
@@ -30,7 +29,7 @@ But you also know, because you know your students, that some of them have no rea
 Wholesale cheating in the presidential election...
 This is where we're at in Pennsylvania regarding the 2020 General Election for President of the United States of America.
 The General Assembly is in the role of the teacher.
-Under our plenary authority granted by the US Constitution and federal law, we've set the rules for voting in a presidential election through the Pennsylvania Election Code.
+Under our plenary authority granted by the US Constitution and federal law , we've set the rules for voting in a presidential election through the Pennsylvania Election Code.
 The voters are the students, who completed their tests according to the rules as they understood them.
 It is the "row captains," in this case the Department of State – led by a hyper-partisan Democrat – and election officials in certain counties, who told voters that the rules just no longer apply.
 And they got an assist from hyper-partisan friendlies on the PA Supreme Court and in the Governor's office.
@@ -77,4 +76,5 @@ Cheaters not only don't get to win, they get punished and made an example of so 
 If that doesn't happen in this, the biggest contest of all, we shall forever risk living in a completely lawless society.
 Liberty and the American way cannot continue to exist without basic standards of fairness which everyone agrees to and understands.
 I am committed to doing everything I possibly can to make sure we don't lose our way of life, to right this wrong, and to bring cheaters to justice by denying them a win.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

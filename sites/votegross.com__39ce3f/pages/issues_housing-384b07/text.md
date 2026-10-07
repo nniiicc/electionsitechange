@@ -1,6 +1,4 @@
-Rachel Gross believes in
-Rural Homeownership & Housing Stability
-Homeownership is the American dream.
+Skip navigation menu About Volunteer Issues Events Endorsements Contact Donate About Volunteer Issues Events Endorsements Contact Donate Safe Nurse Staffing Standards HB 4141 - Restricting Cell Phones in Schools Rural Homeownership & Housing Stability Rural Rental Housing Relief Mental Health & Youth Wellness Rachel Gross believes in Rural Homeownership & Housing Stability Homeownership is the American dream.
 It is the reward for working hard, making sacrifices, and building a life.
 It is what we promised ourselves and our children was possible if we did the right things.
 But across the 78th District, home prices have risen faster than wages.
@@ -49,3 +47,4 @@ A home is where financial freedom begins.
 The people of the 78th District have worked for that dream, sacrificed for it, and built their lives around it.
 They deserve housing markets that reflect the realities of local wages, not speculative pricing that pushes stability out of reach.
 As your State House Representative, I am ready to advocate for every family in this district and protect the dream of equitable, affordable homeownership for all.
+Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

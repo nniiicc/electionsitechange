@@ -1,56 +1,6 @@
-Home
-Volunteer
-Events
-Turnaround PA Team
-Issues
-Data Centers
-Home
-Volunteer
-Events
-Turnaround PA Team
-Issues
-Data Centers
-Make a Donation
-Donate With Crypto
-Events
-Upcoming
-Check back here soon for new events!
-Past Events
-GOP State Committee
-List Item #2
-List Item #2
-Registration Ended
-Ephrata Fair
-List Item #2
-List Item #2
-Registration Ended
-9/19 | Philadelphia Veterans for Garrity Rally
-List Item #2
-List Item #2
-Registration Ended
-9/17 | Chester County Rally with Stacy Garrity
-List Item #2
-List Item #2
-Registration Ended
-9/12 | Tailgate: Penn State @ Temple
-List Item #2
-List Item #2
-Registration Ended
-9/7 | Join Stacy at the Pen Argyl Labor Day Parade
-List Item #2
-List Item #2
-Registration Ended
-Home
-Volunteer
-Events
-Turnaround PA Team
-Issues
-Data Centers
-Home
-Volunteer
-Events
-Turnaround PA Team
-Issues
-Data Centers
-Make a Donation
-Donate With Crypto
+Home Volunteer Events Turnaround PA Team Issues Data Centers Home Volunteer Events Turnaround PA Team Issues Data Centers Make a Donation Donate With Crypto Events Upcoming Check back here soon for new events!
+Past Events GOP State Committee List Item #2 List Item #2 Registration Ended Ephrata Fair List Item #2 List Item #2 Registration Ended 9/19 | Philadelphia Veterans for Garrity Rally List Item #2 List Item #2 Registration Ended 9/17 | Chester County Rally with Stacy Garrity List Item #2 List Item #2 Registration Ended 9/12 | Tailgate: Penn State @ Temple List Item #2 List Item #2 Registration Ended 9/7 | Join Stacy at the Pen Argyl Labor Day Parade List Item #2 List Item #2 Registration Ended Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+All Rights Reserved.
+Garrity for PA 4075 Linglestown Rd.
+#119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+Home Volunteer Events Turnaround PA Team Issues Data Centers Home Volunteer Events Turnaround PA Team Issues Data Centers Make a Donation Donate With Crypto

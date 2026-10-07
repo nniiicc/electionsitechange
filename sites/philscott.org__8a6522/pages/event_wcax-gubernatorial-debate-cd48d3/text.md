@@ -1,4 +1,3 @@
-- This event has passed.
-WCAX Gubernatorial Debate
-October 7, 2020 @ 7:00 pm - 8:00 pm
-Governor Scott participates in the fourth and final gubernatorial debate hosted by WCAX, live at 7:00 PM.
+Toggle navigation Join the Team Meet Phil Donate « All Events This event has passed.
+WCAX Gubernatorial Debate October 7, 2020 @ 7:00 pm - 8:00 pm « NBC5 (WPTZ) Gubernatorial Debate Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan » Governor Scott participates in the fourth and final gubernatorial debate hosted by WCAX, live at 7:00 PM.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 7, 2020 Time: 7:00 pm - 8:00 pm Website: wcax.com « NBC5 (WPTZ) Gubernatorial Debate Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan » Connect with Phil Paid for by Phil Scott For Vermont PO Box 988 Montpelier, VT 05601 | Privacy Policy | Terms and Conditions Website Designed by Bytes.co × Close

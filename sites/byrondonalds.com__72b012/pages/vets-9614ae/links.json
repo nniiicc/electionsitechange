@@ -1,7 +1,22 @@
 [
-"https://byrondonalds.com/businesswomen-for-byron",
-"https://byrondonalds.com/faith-leaders-for-byron",
-"https://byrondonalds.com/latinos-for-byron",
-"https://byrondonalds.com/privacy-policy",
-"https://byrondonalds.com/terms-and-conditions"
+{
+"text": "Privacy Policy",
+"href": "https://byrondonalds.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://byrondonalds.com/terms-and-conditions/"
+},
+{
+"text": "[image: Byron Donalds speaking to supporters at a Miami-Dade campaign rally] Faith Leaders for Byron →",
+"href": "https://byrondonalds.com/faith-leaders-for-byron/"
+},
+{
+"text": "[image: Byron Donalds with Businesswomen for Byron supporters at a coalition event] Businesswomen for Byron →",
+"href": "https://byrondonalds.com/businesswomen-for-byron/"
+},
+{
+"text": "[image: Latinos for Byron rally with speaker at the podium] Latinos for Byron →",
+"href": "https://byrondonalds.com/latinos-for-byron/"
+}
 ]

@@ -1,12 +1,17 @@
 {
  "description": "Read all of the posts by Cindy Ledbetter on",
  "final_url": "https://votecindyledbetter.com/author/cindyledbetternp/",
+ "fingerprint": "152c582f627680245a2d23424c8bbaa426ebb97a",
+ "format": 3,
  "paid_for_by": "Paid for by Ledbetter for State Representative Blog at WordPress",
  "title": "Cindy Ledbetter",
  "years_mentioned": [
   "2021",
   "2022",
   "2023",
-  "2025"
+  "2024",
+  "2025",
+  "2026",
+  "2027"
  ]
 }

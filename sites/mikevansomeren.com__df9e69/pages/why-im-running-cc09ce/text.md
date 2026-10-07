@@ -1,5 +1,4 @@
-Why I’M RUNNING
-I grew up in Somerset, Wisconsin.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate Why I’M RUNNING I grew up in Somerset, Wisconsin.
 My dad drove a truck.
 My mom was a secretary.
 We weren’t rich, but the deal was simple and everybody understood it: work hard, play it straight, and you can build a good life here.
@@ -38,8 +37,6 @@ You may not agree with me on everything.
 In this district, plenty of good people won’t.
 I’ll knock on their doors anyway, because listening to people who disagree with you is most of this job.
 But if you believe hard work should pay, that the rules should apply to everyone, and that your senator should live here, show up here, and answer here, then we already agree on the things that matter most.
-That’s why I’m running.
-— Mike
-Every WISCONSIN family should be able to enjoy the American Dream.
-Join the Campaign
-Knock doors, make calls, host a conversation, put up a yard sign, or help however you can.
+That’s why I’m running. — Mike Every WISCONSIN family should be able to enjoy the American Dream.
+Join the Campaign Knock doors, make calls, host a conversation, put up a yard sign, or help however you can.
+Volunteer Donate info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

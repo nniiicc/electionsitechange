@@ -1,23 +1,86 @@
 [
-"https://clerk2.kanecountyil.gov/Elections",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations",
-"https://cookcountyclerkil.gov/elections/your-voter-information",
-"https://facebook.com/MartinMcLaughlinBH",
-"https://instagram.com/martyforillinois",
-"https://lakecountyil.gov/4138/November-5-2024-General-Election",
-"https://martyforillinois.com/",
-"https://martyforillinois.com/52nd-district-map",
-"https://martyforillinois.com/about-martin",
-"https://martyforillinois.com/calendar-2",
-"https://martyforillinois.com/contact",
-"https://martyforillinois.com/donate",
-"https://martyforillinois.com/get-involved",
-"https://martyforillinois.com/in-the-news",
-"https://martyforillinois.com/legislation",
-"https://martyforillinois.com/news",
-"https://martyforillinois.com/videos",
-"https://martyforillinois.com/voter-information",
-"https://mchenrycountyil.gov/departments/county-clerk/elections/voter-information",
-"https://mchenrycountyil.gov/home/showpublisheddocument/108757",
-"https://twitter.com/MartyForIL"
+{
+"text": "52nd District Map",
+"href": "https://martyforillinois.com/52nd-district-map/"
+},
+{
+"text": "About",
+"href": "https://martyforillinois.com/about-martin/"
+},
+{
+"text": "Calendar",
+"href": "https://martyforillinois.com/calendar-2/"
+},
+{
+"text": "Contact",
+"href": "https://martyforillinois.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://martyforillinois.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://martyforillinois.com/legislation/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/MartyForIL"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/MartinMcLaughlinBH/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/martyforillinois/"
+},
+{
+"text": "Get Involved",
+"href": "https://martyforillinois.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://martyforillinois.com/in-the-news/"
+},
+{
+"text": "News & Events",
+"href": "https://martyforillinois.com/news/"
+},
+{
+"text": "Videos",
+"href": "https://martyforillinois.com/videos/"
+},
+{
+"text": "Voter Information",
+"href": "https://martyforillinois.com/voter-information/"
+},
+{
+"text": "[image: Martin McLaughlin]",
+"href": "https://martyforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.mchenrycountyil.gov/home/showpublisheddocument/108757"
+},
+{
+"text": "https://clerk2.kanecountyil.gov/Elections",
+"href": "https://clerk2.kanecountyil.gov/Elections"
+},
+{
+"text": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations"
+},
+{
+"text": "https://www.cookcountyclerkil.gov/elections/your-voter-information",
+"href": "https://www.cookcountyclerkil.gov/elections/your-voter-information"
+},
+{
+"text": "https://www.lakecountyil.gov/4138/November-5-2024-General-Election",
+"href": "https://www.lakecountyil.gov/4138/November-5-2024-General-Election"
+},
+{
+"text": "https://www.mchenrycountyil.gov/departments/county-clerk/elections/voter-information",
+"href": "https://www.mchenrycountyil.gov/departments/county-clerk/elections/voter-information"
+}
 ]

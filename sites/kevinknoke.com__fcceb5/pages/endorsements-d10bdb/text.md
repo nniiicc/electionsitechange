@@ -1,10 +1,9 @@
-top of page
-We're Supporting Kevin!
+top of page HOME ABOUT ISSUES CONNECT Menu Close DONATE We're Supporting Kevin!
 Kevin Knoke was a former member of the United States Army Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Army, the Department of Defense or any branch of U.S. government.
-Kevin Knoke is proud to receive the endorsement of 314 Action. 314 Action is the only national organization working to elect scientists across all levels of government—from the Senate down to local school boards.
-The organization is powered by a grassroots community of over six million people
-supporting scientists, doctors, and STEM professionals who will use science and facts to address our most pressing issues like climate change and health care.
+Kevin Knoke is proud to receive the endorsement of 314 Action.
+314 Action is the only national organization working to elect scientists across all levels of government—from the Senate down to local school boards.
+The organization is powered by a grassroots community of over six million people supporting scientists, doctors, and STEM professionals who will use science and facts to address our most pressing issues like climate change and health care.
 Climate Cabinet has endorsed Kevin Knoke for WI Assembly District 30.
 Climate Cabinet is a U.S. nonprofit that uses data-driven analysis to identify high-impact state and local elections, supporting pro-climate candidates and policymakers to advance clean energy, reduce emissions, and improve affordability.
 They recognize Kevin's commitment to the environment.
@@ -35,4 +34,8 @@ Kevin Knoke proud to receive the endorsement of OPCMIA Local 599, an organizatio
 Their support reflects a shared commitment to good-paying jobs, strong labor standards, safe workplaces, and ensuring Wisconsin’s hardworking families have opportunities to succeed.
 Kevin is grateful to receive the endorsement of Planned Parenthood, an organization dedicated to protecting reproductive freedom and expanding access to essential healthcare.
 Their support reflects our shared commitment to ensuring every Wisconsinite can make personal healthcare decisions, access affordable and quality care, and receive the services they need without political interference.
-bottom of page
+Privacy Policy Back to Top © # - Authorized and Paid for by Kevin Knoke for Assembly, Richelle Jader, Treasurer. ​ Kevin Knoke is a former member of the U.S.
+Military.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Department of Defense or any other department, agency, or service of the United States Government.
+HOME ABOUT ISSUES CONNECT bottom of page

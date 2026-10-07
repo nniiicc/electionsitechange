@@ -1,7 +1,4 @@
-top of page
-Current Legislative Record
-Senate passes bipartisan legislation to fight human trafficking in Michigan (SBs 520, 521 and 705)
-Damoose supports legislation to stop UIA clawbacks, ‘hold residents and businesses harmless’ (SB 700)
-Damoose legislation seeks to enhance education standards, retain effective teachers (SB 379)
-Senate passes legislation offering flexibility for schools affected by Northern Michigan ice storm (HB 4345)
-bottom of page
+top of page Home Results About Top Priorities Legislative Record Donate Contact Current Legislative Record Senate passes bipartisan legislation to fight human trafficking in Michigan (SBs 520, 521 and 705) Learn More Damoose applauds MDOT grant funding for Sault Ste.
+Marie road repairs Learn More Damoose supports legislation to stop UIA clawbacks, ‘hold residents and businesses harmless’ (SB 700) Learn More ​Senate passes Damoose legislation supporting Mackinac Island (SB 304) Learn More Senate committee approves NRTF recommendations Learn More Damoose supports legislation to curb robocall scams in Michigan (SBs 351-355) Learn More Damoose legislation seeks to enhance education standards, retain effective teachers (SB 379) Learn More Senate passes legislation offering flexibility for schools affected by Northern Michigan ice storm (HB 4345) Learn More info@damooseforsenate.com Paid for by John Damoose for State Senate.
+P.O.
+Box 95, Harbor Springs, MI 49740 bottom of page

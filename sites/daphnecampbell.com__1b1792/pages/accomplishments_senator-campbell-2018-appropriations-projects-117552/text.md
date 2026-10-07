@@ -1,9 +1,11 @@
-Senator Campbell 2018 Appropriations Projects
-In the 2018 legislative session, Senator Campbell championed several key initiatives aimed at enhancing the well-being and infrastructure of Florida's communities.
+Running for State Representative of District 108 , join me in the fight for better healthcare, education, gun violence prevention and housing!
+Home Initiatives Petition & Yard Sign Support Form Bio Accomplishments Comment Accomplishments Press Releases Blog Contact Stand With Daphne – Give Today 0 Senator Campbell 2018 Appropriations Projects In the 2018 legislative session, Senator Campbell championed several key initiatives aimed at enhancing the well-being and infrastructure of Florida's communities.
 These projects were introduced as part of the General Appropriations Act, HB 5001/SB 2500, which allocates funding for the state's operations and development.
 Senator Campbell's efforts focused on securing resources for vital areas such as veterans' services, behavioral health programs, and educational facilities.
 Through strategic advocacy, these appropriations reflect a commitment to addressing the diverse needs of Florida's residents and ensuring sustainable growth across the state.
-Reach Out
-Have any questions or ideas you need to run by me, or just want to chat?
-Reach out and I'll respond as soon as I can!
-I'm excited to hear from you.
+Related State Representative Daphne Campbell — 2012 Legislative Session Newsletter District 108 | Florida House of Representatives A Message from Representative Campbell Dear Constituents, I have recently wrapped up my second Legislative Session in the Florida House of Representatives.
+I returned to Tallahassee in January to start an early session due to Florida redistricting.
+The 2012 … Read more State Representative Daphne Campbell — 2011 Legislative Newsletter District 108 | Florida House of Representatives A Message from Representative Campbell Dear constituents, supporters, and friends, I am very pleased to present my first legislative newsletter to the community of District 108.
+It has been nearly a year since I have represented the people of Miami Shores and I … Read more Senator Campbell's 2018 Appropriations Projects Introduced into HB 5001 — Filed March 19, 2018 Senator Campbell worked tirelessly to secure critical funding for the cities and communities of Senate District 38.
+Below is a full breakdown of every project she introduced, the amounts requested, and the final outcomes.
+Environment & Water Projects Bal Harbour … Read more Contact Me 7310 NW 7th Avenue, Miami, Florida [email protected] Instagram Facebook Merchant Policies Legal Notice Powered by

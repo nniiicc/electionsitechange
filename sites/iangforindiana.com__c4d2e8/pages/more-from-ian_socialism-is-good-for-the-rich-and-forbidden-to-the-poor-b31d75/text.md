@@ -1,5 +1,5 @@
-Socialism is good for the rich, and forbidden to the poor.
-Every day, people here in Indiana wake up, beginning their day at a punch clock.
+Skip to Content Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact Socialism is good for the rich, and forbidden to the poor.
+May 27 Written By Ian Richardson Every day, people here in Indiana wake up, beginning their day at a punch clock.
 They do the hard work that keeps our communities moving, growing, and thriving.
 We balance our budgets at the kitchen table or a desk.
 We make hard choices based upon what we can afford.
@@ -17,18 +17,18 @@ Suddenly, the safety net disappears.
 The state tells us the budget is too tight, the red tape is too thick, and we have to rely strictly on our own personal responsibility.
 That support is forbidden to the poor and the working class.
 Look at the books!
-This isn't just theory—it’s exactly how our tax dollars are being spent right now:
-- The Billion-Dollar Stadium Deals: State politicians are fast-tracking creative new tax districts and pushing up to $1 billion in public money to lure a professional sports team across the state line.
+This isn't just theory—it’s exactly how our tax dollars are being spent right now: The Billion-Dollar Stadium Deals: State politicians are fast-tracking creative new tax districts and pushing up to $1 billion in public money to lure a professional sports team across the state line.
 But when our local teachers ask for a living wage, the state dries up and forces school districts to beg local homeowners to raise their own property taxes through a referendum just to keep the lights on.
-- The $1 Billion Highway vs.
+The $1 Billion Highway vs.
 Summer Lunches: The state is pushing forward with the Mid-States Corridor—a highway project whose estimated cost has ballooned past $1 billion.
 Yet, at the exact same time, Indiana opted out of a federal summer food program.
 It would have cost the state a fraction of that—around $5 million—to bring in grocery assistance for over 600,000 Hoosier kids who lose access to school lunches during the summer months.
-Time for Real Stewardship
-This isn't about being against growth or infrastructure.
+Time for Real Stewardship This isn't about being against growth or infrastructure.
 It’s about basic fairness and common-sense stewardship.
 A tax dollar is a tax dollar, no matter what bucket the politicians try to hide it in.
 If our state can find the money, the time, and the bureaucratic will to build playgrounds for billionaires and cut massive highways through our countryside, we can find the will to support our teachers and keep our kids fed.
 It is time for a state government that stops protecting big money from risk while leaving regular families to shoulder it all alone.
 We need a system that works for the people who actually pay the bills—the working people of Indiana.
 Please, donate to my campaign today, so I can help build the movement to make your tax dollars work for you.
+Ian Richardson Previous Previous Building for the Next Millennium: A Common-Sense Energy Blueprint for Our Community Next Next From the Primary to the Pavement Paid for by Elect Ian Richardson Made with Squarespace Contact iangforindiana@gmail.com 260-205-8781 Ian G.
+Richardson PO Box 110 Bluffton, IN 46714

@@ -1,11 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/markformaine",
-"https://instagram.com/markformaine",
-"https://markformaine.com/",
-"https://markformaine.com/about",
-"https://markformaine.com/donate",
-"https://markformaine.com/endorsements",
-"https://markformaine.com/news",
-"https://markformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.markformaine.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.markformaine.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.markformaine.com/endorsements"
+},
+{
+"text": "News",
+"href": "https://www.markformaine.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markformaine.com/volunteer"
+},
+{
+"text": "[image: Mark for Maine]",
+"href": "https://www.markformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/markformaine/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/markformaine/"
+}
 ]

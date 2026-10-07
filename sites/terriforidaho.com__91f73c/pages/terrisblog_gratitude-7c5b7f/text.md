@@ -1,5 +1,4 @@
-Gratitude
-I stole a few minutes for myself today to watch a river that I have swam, floated, let my kids and dogs splash in, and flyfished on.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Gratitude May 1 Written By Elle Casner I stole a few minutes for myself today to watch a river that I have swam, floated, let my kids and dogs splash in, and flyfished on.
 I just watched.
 The river was running strong, lapping the banks, leaping rocks, in a hurry to find the ocean.
 This moment of calm reminded me how important it is to feel grateful.
@@ -28,3 +27,4 @@ These things make me love.
 These things are why I fight.
 I don’t care if I come off a little corny here, but I mean it from my heart: I love you all for letting me be in this fight with you.
 Thank you for trusting me to be Idaho’s next governor.
+Primary Endorsements Donate Elle Casner Previous Previous Teacher Appreciation Week Next Next Don’t Let Little Forget This Endorsement TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

@@ -1,24 +1,8 @@
-FOLLOW US
-ALINA IN THE NEWS
-Jewish leaders call out Mamdani at gathering outside mayor’s residence
-My thoughts on J.D.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE ALINA IN THE NEWS Media JTA - Sept.18, 2026 Jewish leaders call out Mamdani at gathering outside mayor’s residence VIEW MORE News Nation Sept.19.
+2026 My thoughts on J.D.
 Vance’s role on the campaign trail and why affordability remains the defining issue for New Yorkers.
-Posting Soon
-Posting Soon
-Posting Soon
-Jewish New Yorkers Show Growing Resistance To DSA As Siena Poll Points To Political Shift
-Segment with The Jewish Voice
-Exclusive Interview: Alina Bonsell on Public Safety, Jewish Identity, and Her Vision for New York
-Bonsell Commends Menin For Standing With UES, Calls For Overhaul Of Broken Shelter Siting Process
-Major Shift Among NYC Jewish Democrats Amid Backlash Over DSA Endorsements
-From Refugee to Candidate - A conversation with NY State Senate Candidate Alina Bonsell
-Bonsell: Krueger's $75 Billion Legal Defeat is Another Example of 24 Years of Neglect
-Heated Community Board Meeting on First Avenue Shelter Descends Into Shouting and Chaos
-State Senate Candidate Alina Bonsell Calls On Mayor Mamdani To Stay Away From 9/11 Ceremony
-Segment with Bob Brooks and Katrina Szish
-New Details On UES Homeless Shelter Revealed At Volatile Public Hearing
-Bonsell Condemns Political Violence after Gracie Mansion Protest and Upper East Side Explosive Incident
-Bonsell Calls for a Stronger Pro-Israel Voice and a Fight Against Antisemitism in Albany
-Ukrainian Immigrant and New York Senate Candidate Alina Bonsell Calls for Restraint as New Missile Strikes Ukraine
-SUPPORT THE CAMPAIGN
-Every contribution helps us reach D28 voters.
+VIEW MORE Posting Soon Posting Soon VIEW MORE Posting Soon Posting Soon VIEW MORE Posting Soon Posting Soon VIEW MORE TheJ.CA - Aug 19, 2026 Jewish New Yorkers Show Growing Resistance To DSA As Siena Poll Points To Political Shift VIEW MORE TJV News - Aug 19, 2026 Segment with The Jewish Voice VIEW MORE New York Jewish Travel Guide - Jun 2, 2026 Exclusive Interview: Alina Bonsell on Public Safety, Jewish Identity, and Her Vision for New York VIEW MORE Patch.com - Aug 25, 2026 Bonsell Commends Menin For Standing With UES, Calls For Overhaul Of Broken Shelter Siting Process VIEW MORE The Jewish Voice & Opinion - Aug 12, 2026 Major Shift Among NYC Jewish Democrats Amid Backlash Over DSA Endorsements VIEW MORE On the Mark - Apr 17, 2026 From Refugee to Candidate - A conversation with NY State Senate Candidate Alina Bonsell VIEW MORE Patch.com - Sept.
+02.
+2026 Bonsell: Krueger's $75 Billion Legal Defeat is Another Example of 24 Years of Neglect VIEW MORE Real America's Voice - Jul 26, 2026 Exclusive Interview: Alina Bonsell on Public Safety, Jewish Identity, and Her Vision for New York VIEW MORE East Side Feed - Feb 11, 2026 Heated Community Board Meeting on First Avenue Shelter Descends Into Shouting and Chaos VIEW MORE THEJ.CA - Sept.
+06, 2026 State Senate Candidate Alina Bonsell Calls On Mayor Mamdani To Stay Away From 9/11 Ceremony VIEW MORE Real America's Voice - Jul 24, 2026 Segment with Bob Brooks and Katrina Szish VIEW MORE Patch.com - Feb 10, 2026 New Details On UES Homeless Shelter Revealed At Volatile Public Hearing VIEW MORE THEJ.CA - Sept.
+17, 2026 Bonsell Condemns Political Violence after Gracie Mansion Protest and Upper East Side Explosive Incident VIEW MORE The Jewish Voice & Opinion - Jun 11, 2026 Bonsell Calls for a Stronger Pro-Israel Voice and a Fight Against Antisemitism in Albany VIEW MORE Kxan - Dec 24, 2025 Ukrainian Immigrant and New York Senate Candidate Alina Bonsell Calls for Restraint as New Missile Strikes Ukraine VIEW MORE Donate SUPPORT THE CAMPAIGN Every contribution helps us reach D28 voters. $28 $50 $100 $150 $250 $1050 $5000 Other DONATE CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

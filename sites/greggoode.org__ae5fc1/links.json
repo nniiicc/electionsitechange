@@ -1,6 +1,26 @@
 [
-"https://greggoode.org/",
-"https://greggoode.org/privacy-policy",
-"https://indianavoters.com/",
-"https://secure.winred.com/committee-to-elect-greg-goode-add0c098/donate-today"
+{
+"text": "About",
+"href": "https://www.greggoode.org/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-greg-goode-add0c098/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.greggoode.org/"
+},
+{
+"text": "IndianaVoters.com",
+"href": "https://indianavoters.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.greggoode.org/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.greggoode.org/privacy-policy"
+}
 ]

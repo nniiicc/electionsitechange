@@ -1,4 +1,7 @@
-NEWARK, DE — Dr.
+Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Press Release · September 15, 2026 Dr.
+Mike Katz Wins Republican Primary for U.S.
+Senate On November 3rd, it's time to fire Chris Coons.
+For Immediate Release Press Contact: Hunter@drmikekatz.com NEWARK, DE — Dr.
 Mike Katz tonight declared victory in the Republican primary for U.S.
 Senate and turned his attention to the November 3 general election.
 "Tonight, Delaware Republicans sent a clear message: they are ready for a new direction.
@@ -25,4 +28,15 @@ A pediatric critical care anesthesiologist, business executive, former Delaware 
 Katz has dedicated more than three decades to serving Delaware families through medicine, business leadership, and public service.
 He and his wife, Trish, have called Delaware home for thirty years, where they raised their family.
 His campaign is focused on restoring accountability, strengthening Delaware's economy, supporting law enforcement and veterans, defending agriculture, securing America's borders, protecting constitutional freedoms, making America healthy again, and always putting Delaware first.
-Media Contact Hunter Dworsky, Executive Director (Campaign Manager) Hunter@drmikekatz.com
+Media Contact Hunter Dworsky, Executive Director (Campaign Manager) Hunter@drmikekatz.com Get Involved Support the campaign to send Dr.
+Katz to Washington.
+Donate Today Share This Page Copy link Share on Facebook Post on X ← All Press Releases Dr.
+Mike Katz for Delaware A physician, business owner, and proven public servant.
+Ready to fight for Delaware families in Washington.
+Campaign Meet Dr.
+Katz Endorsements Platform Record News Fact Check Videos Resources Vote Retire Coons Donate Volunteer Yard Signs Join the Campaign Contact Paid for by Dr.
+Mike Katz for U.S.
+Senate · Delaware 2026 © # Dr.
+Mike Katz for U.S.
+Senate.
+All rights reserved. · Privacy Policy --

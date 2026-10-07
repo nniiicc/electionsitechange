@@ -1,8 +1,38 @@
 [
-"https://secure.anedot.com/jackson-county-republican-committee/cb5314bd-0ce2-4c45-9073-b7b979672be4",
-"https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14",
-"https://votetawn.com/index.html",
-"https://votetawn.com/run-leg12.html",
-"https://votetawn.com/run-leg14.html",
-"https://votetawn.com/run-main.html"
+{
+"text": "All Legs",
+"href": "https://votetawn.com/run-main.html#all-legs"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14"
+},
+{
+"text": "Donate to Fuel the Run",
+"href": "https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14"
+},
+{
+"text": "Home",
+"href": "https://votetawn.com/index.html"
+},
+{
+"text": "Next Leg →",
+"href": "https://votetawn.com/run-leg14.html"
+},
+{
+"text": "Register for the Event",
+"href": "https://secure.anedot.com/jackson-county-republican-committee/cb5314bd-0ce2-4c45-9073-b7b979672be4"
+},
+{
+"text": "Running for YOU",
+"href": "https://votetawn.com/run-main.html"
+},
+{
+"text": "[image: Tawn Beliger Logo]",
+"href": "https://votetawn.com/index.html"
+},
+{
+"text": "← Previous Leg",
+"href": "https://votetawn.com/run-leg12.html"
+}
 ]

@@ -1,48 +1,37 @@
-Meet Bernice
-I am a Democrat and member of the House of Delegates, representing District 14.
+top of page Home Meet Bernice Legislative Wins How to Vote Scholarship Get Involved Events Volunteer Intern Media Gallery News Contact More Use tab to navigate through the menu items.
+Contribute Build with Bernice Leadership you can count on for healthier, safer, stronger communities.
+Meet Delegate Bernice Get Ready to Vote about Meet Bernice IMG_0003k-1 PHOTO-2025-12-30-14-29-57 IMG_2861_edited IMG_0003k-1 1/10 I am a Democrat and member of the House of Delegates, representing District 14.
 For the past four years, I've fought for better schools, affordable housing, and economic opportunity for every family in our community.
 Now, I'm asking for your support to continue this work.
 Together, we're building a stronger Maryland.
-Maryland District 14
-District 14 includes vibrant communities across Montgomery County, spanning parts of Brookeville, Olney, Ashton, Sandy Spring, Damascus, Laytonsville, and parts of Silver Spring and Burtonsville.
-I'm proud to represent the diverse families, small businesses, and community organizations that make our district strong.
-District 14 Communities Include:
-- Olney
-- Brookeville
-- Damascus
-- Laytonsville
-- Ashton
-- Sandy Spring
-- Silver Spring (partial)
-- Burtonsville
-- Fairland
-- Briggs Chaney
-- Calverton (partial)
-ZIP Codes Served: 20833, 20832, 20853, 20860, 20861, 20862, 20866, 20904, 20905
-Not sure if you're in District 14?
-Use the map above to see our district boundaries, or check your voter registration at elections.maryland.gov
-See What I've Delivered
-Laws I've passed and funding I've secured for District 14
-Accomplishments for Child Care & Families
-Child Care Scholarships: Keeping Families Enrolled During Freezes
-When the state's Child Care Scholarship Program runs low on funding, it sometimes freezes new enrollments, which can cut off exactly the families who need help most.
+Learn more about me Watch My Welcome Message See My Priorities Maryland District 14 MD Distict 14 District 14 includes vibrant communities across Montgomery County, spanning parts of Brookeville, Olney, Ashton, Sandy Spring, Damascus, Laytonsville, and parts of Silver Spring and Burtonsville.
+I'm proud to represent the diverse families, small businesses, and community organizations that make our district strong. ​ District 14 Communities Include: Olney Brookeville Damascus Laytonsville Ashton Sandy Spring Silver Spring (partial) Burtonsville Fairland Briggs Chaney Calverton (partial) ​ ZIP Codes Served: 20833, 20832, 20853, 20860, 20861, 20862, 20866, 20904, 20905 ​ Not sure if you're in District 14?
+Use the map above to see our district boundaries, or check your voter registration at elections.maryland.gov See What I've Delivered Laws I've passed and funding I've secured for District 14 Child Care & Families Education & Young People Workers & Economic Security Community & Civic Life Accomplishments for Child Care & Families Child Care Scholarships: Keeping Families Enrolled During Freezes When the state's Child Care Scholarship Program runs low on funding, it sometimes freezes new enrollments, which can cut off exactly the families who need help most.
 I changed that.
-This law makes sure families on public assistance, siblings of children already enrolled, and kids experiencing homelessness can never be turned away because of an administrative pause.
-Securing $3.7 Million for Therapeutic Child Care Programs
-Families of young children with developmental, physical, or behavioral disabilities often can't find child care equipped to meet their child's needs.
-This law secures $3.7 million from FY2027–2029 for specialized programs serving children from birth to age 6, so these kids get the care they need and their parents can stay in the workforce.
-Better Pay Pathways for Early Childhood Educators
-Maryland's Career Ladder program was designed to reward early childhood educators with better pay and professional development.
+This law makes sure families on public assistance, siblings of children already enrolled, and kids experiencing homelessness can never be turned away because of an administrative pause. ​ Securing $3.7 Million for Therapeutic Child Care Programs Families of young children with developmental, physical, or behavioral disabilities often can't find child care equipped to meet their child's needs.
+This law secures $3.7 million from FY2027–2029 for specialized programs serving children from birth to age 6, so these kids get the care they need and their parents can stay in the workforce. ​ Better Pay Pathways for Early Childhood Educators Maryland's Career Ladder program was designed to reward early childhood educators with better pay and professional development.
 But arbitrary enrollment deadlines were blocking qualified educators from advancing.
 I replaced those deadlines with flexible, progression-based timelines, so qualified educators can move up, and earn more, without bureaucratic delay.
-Bernice's Priorities
-Healthier, Safer, Stronger Communities
-01
-Support healthier communities for our youth and families regardless of zip code
-Expanding access to quality healthcare, mental health services, and wellness programs so every family in District 14 can thrive.
-02
-Encourage safer communities with smart public safety and improved access to resources
-Investing in community-based safety initiatives, supporting first responders, and ensuring every neighborhood has the resources needed to keep our families safe.
-03
-Build stronger communities by strengthening community engagement, housing stock, businesses and schools
-Creating economic opportunity, preserving affordable housing, fully funding our schools, and empowering residents to shape the future of District 14.
+Accomplishments for Education & Young People Expanding College Tuition Waiver for More Foster Youth Maryland waives college tuition at state schools for young people who grew up in the foster care system, but children adopted before their 13th birthday were shut out of this support.
+I lowered that qualifying age to 8, opening the door to higher education for more foster youth. ​ Tackling the School Psychologist Shortage Maryland schools are facing a serious shortage of mental health professionals.
+This law joins Maryland to a national compact that lets licensed school psychologists from other member states work here without restarting the licensing process, making it faster and easier to put qualified professionals in front of students who need support.
+Student Loan Relief for School Nurses As the daughter of a nurse, this one is personal.
+This law extends Maryland's existing loan assistance program to include school nurses, helping address the nursing shortage in our schools while relieving the debt burden on the people who care for our kids every day.
+Accomplishments for Workers & Economic Security ​Waiving Business Start-Up Fees for Displaced Federal Workers Thousands of Marylanders lost federal jobs this year through no fault of their own.
+I secured $150,000 in the budget to waive state business licensing fees for former federal employees who are ready to start something new in Maryland. ​ Protecting Tenants in Mental Health Crises When someone is in a serious mental health crisis, they shouldn't be trapped in a home they can no longer safely stay in or owe months of back rent for leaving.
+This law lets tenants with a documented condition break their lease early, capped at two months' liability. ​ Independent Appeals Rights for WSSC Workers Workers at the Washington Suburban Sanitary Commission had no path to independent review when they faced disciplinary action.
+This law gives those employees the right to appeal suspensions to the Office of Administrative Hearings, an independent state body, so disputes are resolved fairly.
+Accomplishments for Community & Civic Life Language Access at the Polls If you can't read the ballot or communicate with poll workers, your right to vote is incomplete.
+This law requires eligible counties to translate online voting materials, provide real-time interpretation at polling places, and actively recruit bilingual election judges, so every eligible voter in our diverse district can actually exercise their vote. ​ Honoring District 14 History at Freedman's State Park This law renames two state parks to better reflect their varied amenities and history.
+Right here in District 14, Freedman's State Park honors Enoch George Howard, a man born enslaved in 1814 who purchased his own freedom, bought back the land he was once enslaved on, and built schools and a church for his community.
+The site is believed to have been a stop on the Underground Railroad.
+Honoring that history matters.
+The law also updates the name of Port Deposit State Park.
+Bernice's Priorities Healthier, Safer, Stronger Communities 01 Support healthier communities for our youth and families regardless of zip code Expanding access to quality healthcare, mental health services, and wellness programs so every family in District 14 can thrive.
+02 Encourage safer communities with smart public safety and improved access to resources Investing in community-based safety initiatives, supporting first responders, and ensuring every neighborhood has the resources needed to keep our families safe.
+03 Build stronger communities by strengthening community engagement, housing stock, businesses and schools Creating economic opportunity, preserving affordable housing, fully funding our schools, and empowering residents to shape the future of District 14.
+Endorsements Trusted by Leaders Across Maryland "Her team: Senator Zucker, Delegate Kaiser, and Delegate Mireku-North have my continued enthusiastic support for reelection.
+Their record of delivering for our community is top-notch." — Former County Executive Isiah “Ike” Leggett #BuildwithBernice Join Our Movement and Get involved with Delegate Bernice Intern on the Campaign Help us reach voters and communities across Maryland District 14 Apply Here Attend an Event Meet Bernice and connect with neighbors View Events Stay Connected Get campaign updates and voting info Subscribe Leadership you can count on for healthier, safer, stronger communities.
+Quick Links About Bernice | Priorities | How to Vote | Volunteer | Events | Gallery | Contact Subscribe for Updates Follow Online Paid for by Friends of Bernice Mireku-North, Matthew Enokwe, Treasurer. © # Friends of Bernice Mireku-North.
+All rights reserved.
+Privacy Policy & Terms of Service bottom of page

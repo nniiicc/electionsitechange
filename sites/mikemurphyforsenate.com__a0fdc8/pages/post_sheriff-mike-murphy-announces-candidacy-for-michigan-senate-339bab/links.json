@@ -1,11 +1,50 @@
 [
-"http://mikemurphyforsenate.com/",
-"https://mikemurphyforsenate.com/",
-"https://mikemurphyforsenate.com/22nd-senate",
-"https://mikemurphyforsenate.com/about-mike",
-"https://mikemurphyforsenate.com/contact",
-"https://mikemurphyforsenate.com/events",
-"https://mikemurphyforsenate.com/join",
-"https://mikemurphyforsenate.com/news",
-"https://secure.anedot.com/mike-murphy-for-mi-senate/donate"
+{
+"text": "ABOUT MIKE",
+"href": "https://www.mikemurphyforsenate.com/about-mike"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mikemurphyforsenate.com/contact"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.mikemurphyforsenate.com/22nd-senate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mike-murphy-for-mi-senate/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mikemurphyforsenate.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.mikemurphyforsenate.com"
+},
+{
+"text": "INFO@MIKEMURPHYFORSENATE.COM",
+"href": "mailto:INFO@MIKEMURPHYFORSENATE.COM"
+},
+{
+"text": "JOIN",
+"href": "https://www.mikemurphyforsenate.com/join"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.mikemurphyforsenate.com/join"
+},
+{
+"text": "NEWS",
+"href": "https://www.mikemurphyforsenate.com/news"
+},
+{
+"text": "[image: Murphy for Senate - Black.png]",
+"href": "https://www.mikemurphyforsenate.com"
+},
+{
+"text": "www.mikemurphyforsenate.com",
+"href": "http://www.mikemurphyforsenate.com"
+}
 ]

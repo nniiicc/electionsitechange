@@ -1,9 +1,12 @@
 {
  "description": "political",
  "final_url": "https://andrews4nevada.com/home",
- "paid_for_by": null,
+ "fingerprint": "258f165545873cceecf404daec74f6e1b92b1ae4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "HOME",
  "years_mentioned": [
+  "2024",
   "2026"
  ]
 }

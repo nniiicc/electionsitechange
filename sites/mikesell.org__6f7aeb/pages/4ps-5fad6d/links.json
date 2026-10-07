@@ -1,6 +1,18 @@
 [
-"https://duvalelections.gov/222/Electronic-Ballot-Request",
-"https://mikesell.org/4ps",
-"https://mikesell.org/privacy",
-"https://substack.com/@yb0wned"
+{
+"text": "A Plan for Us",
+"href": "https://www.mikesell.org/4ps"
+},
+{
+"text": "Meet Mike",
+"href": "https://substack.com/@yb0wned"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikesell.org/privacy"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.duvalelections.gov/222/Electronic-Ballot-Request"
+}
 ]

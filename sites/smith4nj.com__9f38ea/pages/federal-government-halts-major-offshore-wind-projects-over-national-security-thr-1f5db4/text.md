@@ -1,13 +1,10 @@
+Skip to content About Endorsements Election Information News Volunteer Contact Donate Federal Government Halts Major Offshore Wind Projects Over National Security Threats, Echoing Rep.
+Smith’s Longtime Concerns By Jeann e Wall Published December 24, 2025 NEW JERSEY— The Trump administration has ordered a suspension of construction and lease activity for five major offshore wind projects along the East Coast, including Empire Wind, planned off the New Jersey and New York coasts, citing national security concerns related to radar interference, echoing Rep.
+Chris Smith’s Longtime Concerns.
 The pause, announced by the U.S.
 Departments of the Interior and Defense, applies to projects in every stage of development — from those still in planning to projects already approved or under construction.
 Federal officials said the action is intended to allow time for additional review and coordination among federal agencies, the U.S. military, and offshore wind developers, particularly regarding potential interference with military and civilian radar systems used for aviation and maritime navigation.
-The five offshore wind projects affected by the suspension are:
-- Empire Wind 1 (New York–New Jersey coast), developed by Equinor
-- Vineyard Wind 1 (off Massachusetts), the nation’s first large-scale offshore wind farm
-- Revolution Wind (off Rhode Island and Connecticut), led by Ørsted
-- Sunrise Wind (off New York), also developed by Ørsted
-- Coastal Virginia Offshore Wind (CVOW), a Dominion Energy project off Virginia
-Together, the projects represent several gigawatts of planned renewable energy capacity and have been central to state and federal clean energy strategies along the Eastern Seaboard.
+The five offshore wind projects affected by the suspension are: Empire Wind 1 (New York–New Jersey coast), developed by Equinor Vineyard Wind 1 (off Massachusetts), the nation’s first large-scale offshore wind farm Revolution Wind (off Rhode Island and Connecticut), led by Ørsted Sunrise Wind (off New York), also developed by Ørsted Coastal Virginia Offshore Wind (CVOW), a Dominion Energy project off Virginia Together, the projects represent several gigawatts of planned renewable energy capacity and have been central to state and federal clean energy strategies along the Eastern Seaboard.
 Rep.
 Chris Smith (R–NJ), a long-time critic of offshore wind development, welcomed the administration’s decision, saying it validates concerns he has raised for several years regarding radar interference and national security risks.
 Smith had been sounding the alarm well before the current pause, repeatedly warning federal agencies, the military, and the public that offshore wind turbines posed unresolved national security issues.
@@ -19,9 +16,7 @@ House in 2023 requiring certification that offshore wind projects would not inte
 Empire Wind, in particular, has drawn heightened scrutiny due to its proximity to critical transportation and defense infrastructure, including Newark Liberty International Airport, LaGuardia Airport, and JFK, as well as Joint Base McGuire-Dix-Lakehurst and Naval Weapons Station Earle in New Jersey.
 Speaking about the federal pause, Smith said, “This has been one of my deepest concerns and an issue I have fought since day one.
 The fact that these risks were never fully tested, and that the previous administration would not certify the projects as safe, is alarming and, at best, negligent.
-You don’t move forward with projects of this magnitude — especially in close proximity to critical military installations and major airports — without first proving they pose no risk to national security, aviation safety, or maritime operations.”
-Local Impact of Offshore Turbines and Transmission Lines
-Beyond Empire Wind, the federal pause also affects offshore wind development tied to the Atlantic Shores Offshore Wind South project.
+You don’t move forward with projects of this magnitude — especially in close proximity to critical military installations and major airports — without first proving they pose no risk to national security, aviation safety, or maritime operations.” Local Impact of Offshore Turbines and Transmission Lines Beyond Empire Wind, the federal pause also affects offshore wind development tied to the Atlantic Shores Offshore Wind South project.
 The project, which has drawn significant attention locally, would place turbines roughly nine miles off Long Beach Island.
 Its onshore transmission infrastructure would impact Sea Girt, Manasquan, Wall Township, and Howell.
 Plans call for subsea cables to make landfall near the Sea Girt National Guard Training Center before running underground through local corridors to grid connections in Howell.
@@ -34,4 +29,7 @@ The administration has not provided a timeline for completing its review or dete
 For now, construction activity on all five offshore wind projects remains on hold.
 The decision represents one of the most significant federal interventions into offshore wind development to date and signals a broader reassessment of U.S. offshore wind policy, particularly along the densely populated and strategically sensitive Northeast coast.
 Federal Government Halts Major Offshore Wind Projects Over National Security Threats, Echoing Rep.
-Smith’s Longtime Concerns | Holmdel & Colts Neck, NJ News TAPinto | TAPinto
+Smith’s Longtime Concerns | Holmdel & Colts Neck, NJ News TAPinto | TAPinto Post navigation Rep.
+Smith discusses religious persecution on Fox’s Life, Liberty & Levin Smith announces $1.5 million EPA grant for Ocean County Utilities Authority Get Involved.
+First and Last Name First Last Email Address ZIP Code How Would You Like to Help Chris Smith?
+Make phone calls from home Make phone calls at Campaign HQ Hand Addressing Letters Put a Sign in My Yard How Would You Like to Help Chris Smith (col 2) Volunteering at Events Go door to door in my neighborhood Host a fundraiser Phone * Address * Street Address City VOLUNTEER About Endorsements Election Information News Volunteer Contact Donate Friends of Chris Smith PO Box 1266, Toms River, NJ 08754 Phone: 732-357-0900 E-mail: [email protected] PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy

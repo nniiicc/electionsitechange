@@ -1,3 +1,4 @@
-Laura Osborn 11/19/25 Laura Osborn 11/19/25 We can’t afford to get complacent Read More Laura Osborn 11/11/25 Laura Osborn 11/11/25 Happy Veterans Day!
+0 Skip to Content Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Laura Osborn 11/19/25 Laura Osborn 11/19/25 We can’t afford to get complacent Read More Laura Osborn 11/11/25 Laura Osborn 11/11/25 Happy Veterans Day!
 Read More Laura Osborn 10/14/25 Laura Osborn 10/14/25 Big news from Cleaver HQ!
-Read More Laura Osborn 11/6/24 Laura Osborn 11/6/24 They are tearing our country apart Read More
+Read More Laura Osborn 11/6/24 Laura Osborn 11/6/24 They are tearing our country apart Read More Cleaver for Congress P.O.
+Box 411872 Kansas City, Missouri 64141 816-561-2575 info@cleaver4congress.com Privacy Policy Accessibility #cleaver-countdown-popup.show{ bottom:140px; } × Chip in to Support Cleaver If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount… CONTINUE TO WEBSITE ➜ × GENERAL ELECTION # Days # Hours # Minutes # Seconds Tuesday November 3, 2026 Volunteer Donate

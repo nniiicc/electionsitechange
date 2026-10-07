@@ -1,8 +1,50 @@
 [
-"https://mandyforiowa.com/",
-"https://mandyforiowa.com/about",
-"https://mandyforiowa.com/connect",
-"https://mandyforiowa.com/issues",
-"https://mandyforiowa.com/privacy-policy",
-"https://secure.actblue.com/donate/mandyforiowa"
+{
+"text": "About",
+"href": "https://www.mandyforiowa.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.mandyforiowa.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mandyforiowa"
+},
+{
+"text": "Home",
+"href": "https://www.mandyforiowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.mandyforiowa.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.mandyforiowa.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://www.mandyforiowa.com/issues"
+},
+{
+"text": "Meet Mandy",
+"href": "https://www.mandyforiowa.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mandyforiowa.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.mandyforiowa.com/issues"
+},
+{
+"text": "[image: Campaign logo for Mandy for Iowa]",
+"href": "https://www.mandyforiowa.com"
+},
+{
+"text": "[image: White campaign logo]",
+"href": "https://www.mandyforiowa.com"
+}
 ]

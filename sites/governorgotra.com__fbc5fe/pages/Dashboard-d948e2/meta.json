@@ -1,7 +1,9 @@
 {
  "description": "Campaign Dashboard on Governor Gotra. Governor Gotra helps you organize, track, and share your work in 1 unified.",
  "final_url": "https://governorgotra.com/Dashboard",
- "paid_for_by": null,
+ "fingerprint": "a843d566f84586cf327bf2be87e25fc87cf6a59d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Dashboard | Governor Gotra",
  "years_mentioned": []
 }

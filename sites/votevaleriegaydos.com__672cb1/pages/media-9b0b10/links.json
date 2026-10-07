@@ -1,40 +1,162 @@
 [
-"https://facebook.com/VoteValerieGaydos",
-"https://secure.anedot.com/gaydos-for-pa/donate",
-"https://truefitmarketing.com/",
-"https://votevaleriegaydos.com/",
-"https://votevaleriegaydos.com/?blackhole=54718f3185",
-"https://votevaleriegaydos.com/about",
-"https://votevaleriegaydos.com/donate-online",
-"https://votevaleriegaydos.com/endorsements-2",
-"https://votevaleriegaydos.com/gaydos-gear",
-"https://votevaleriegaydos.com/get-involved",
-"https://votevaleriegaydos.com/in-the-news",
-"https://votevaleriegaydos.com/media",
-"https://votevaleriegaydos.com/priorities",
-"https://votevaleriegaydos.com/privacy-policy-2",
-"https://votevaleriegaydos.com/terms-of-service",
-"https://votevaleriegaydos.com/volunteer",
-"https://votevaleriegaydos.com/vote",
-"https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2419-scaled-e1787795881713.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2565-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2914-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2980-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2999-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_3111-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/04/DSC_9540-scaled-e1786375076525.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/04/DSC_9716-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2577-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2659-2-scaled-e1787795699836.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2750-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2790-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2869-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_5624-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/08/ValeriearmscrossedheadshotGKV_5349-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/09/DSC_9616-1-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/09/GKV_2891-scaled.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/09/GKV_3003-e1788865506644.jpg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/09/IMG_2704.jpeg",
-"https://votevaleriegaydos.com/wp-content/uploads/2026/09/Screenshot-175.png",
-"https://youtube.com/channel/UCbEpKTbKf9nF-KN8cENFn4w"
+{
+"text": "About",
+"href": "https://votevaleriegaydos.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gaydos-for-pa/donate"
+},
+{
+"text": "Donate Online",
+"href": "https://votevaleriegaydos.com/donate-online/"
+},
+{
+"text": "Endorsements",
+"href": "https://votevaleriegaydos.com/endorsements-2/"
+},
+{
+"text": "Get Involved",
+"href": "https://votevaleriegaydos.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://votevaleriegaydos.com/"
+},
+{
+"text": "In The News",
+"href": "https://votevaleriegaydos.com/in-the-news/"
+},
+{
+"text": "Media",
+"href": "https://votevaleriegaydos.com/media/"
+},
+{
+"text": "Priorities & Accomplishments",
+"href": "https://votevaleriegaydos.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votevaleriegaydos.com/privacy-policy-2/"
+},
+{
+"text": "Request a Yard Sign or Volunteer",
+"href": "https://votevaleriegaydos.com/volunteer/"
+},
+{
+"text": "Shop",
+"href": "https://votevaleriegaydos.com/gaydos-gear/"
+},
+{
+"text": "Terms of Service",
+"href": "https://votevaleriegaydos.com/terms-of-service/"
+},
+{
+"text": "True Fit Marketing",
+"href": "https://truefitmarketing.com"
+},
+{
+"text": "Valerie Gaydos",
+"href": "https://votevaleriegaydos.com/?blackhole=36999b85f3"
+},
+{
+"text": "Vote",
+"href": "https://votevaleriegaydos.com/vote/"
+},
+{
+"text": "Yard Signs",
+"href": "https://votevaleriegaydos.com/volunteer/"
+},
+{
+"text": "[image: DSC_9540][image: DSC_9540]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/04/DSC_9540-scaled-e1786375076525.jpg"
+},
+{
+"text": "[image: DSC_9616 (1)][image: DSC_9616 (1)]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/09/DSC_9616-1-scaled.jpg"
+},
+{
+"text": "[image: DSC_9716][image: DSC_9716]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/04/DSC_9716-scaled.jpg"
+},
+{
+"text": "[image: GKV_2565][image: GKV_2565]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2565-scaled.jpg"
+},
+{
+"text": "[image: GKV_2577][image: GKV_2577]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2577-scaled.jpg"
+},
+{
+"text": "[image: GKV_2659 (2)][image: GKV_2659 (2)]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2659-2-scaled-e1787795699836.jpg"
+},
+{
+"text": "[image: GKV_2750][image: GKV_2750]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2750-scaled.jpg"
+},
+{
+"text": "[image: GKV_2790][image: GKV_2790]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2790-scaled.jpg"
+},
+{
+"text": "[image: GKV_2869][image: GKV_2869]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_2869-scaled.jpg"
+},
+{
+"text": "[image: GKV_2891][image: GKV_2891]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/09/GKV_2891-scaled.jpg"
+},
+{
+"text": "[image: GKV_2914][image: GKV_2914]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2914-scaled.jpg"
+},
+{
+"text": "[image: GKV_2980][image: GKV_2980]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2980-scaled.jpg"
+},
+{
+"text": "[image: GKV_2999][image: GKV_2999]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2999-scaled.jpg"
+},
+{
+"text": "[image: GKV_3111][image: GKV_3111]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_3111-scaled.jpg"
+},
+{
+"text": "[image: GKV_5624][image: GKV_5624]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/GKV_5624-scaled.jpg"
+},
+{
+"text": "[image: Screenshot (175)][image: Screenshot (175)]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/09/Screenshot-175.png"
+},
+{
+"text": "[image: Valerie Gaydos][image: Valerie Gaydos]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/09/GKV_3003-e1788865506644.jpg"
+},
+{
+"text": "[image: Valerie Gaydos][image: Valerie Gaydos]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/09/IMG_2704.jpeg"
+},
+{
+"text": "[image: ValeriearmscrossedheadshotGKV_5349][image: ValeriearmscrossedheadshotGKV_5349]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2026/08/ValeriearmscrossedheadshotGKV_5349-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votevaleriegaydos.com/"
+},
+{
+"text": "[image][image]",
+"href": "https://votevaleriegaydos.com/wp-content/uploads/2024/09/GKV_2419-scaled-e1787795881713.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteValerieGaydos/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCbEpKTbKf9nF-KN8cENFn4w"
+}
 ]

@@ -1,2 +1,5 @@
-Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary May 5, 2026 | Press Release
-Tim Mihalick and Blaine DesLauriers Announce Joint Campaign for North Dakota House of Representatives in District 3 Jan 7, 2026 | Press Release
+Meet Tim Priorities News Get Involved Vote Contact DONATE Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary May 5, 2026 | Press Release Tim Mihalick and Blaine DesLauriers Announce Joint Campaign for North Dakota House of Representatives in District 3 Jan 7, 2026 | Press Release Search Search Recent Posts DesLauriers, Mihalick top District 3 Republican House race Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary District 3 House Candidates Tim Mihalick and Blaine DesLauriers Join Rob Port on Plain Talk Minot candidates announce joint run for ND House in District 3 Tim Mihalick and Blaine DesLauriers Announce Joint Campaign for North Dakota House of Representatives in District 3 Recent Comments No comments to show.
+SUPPORT TIM IN HIS CAMPAIGN DONATE TODAY $25 $500 $50 $750 $100 $1,000 $200 Other STAY UP TO DATE Follow Tim on the Campaign Trail  Follow Tim on the Campaign Trail  Tim Mihalick for ND PO Box 1967 Minot, ND 58701 Contact Tim Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY TIM MIHALICK FOR ND, BROCK DESLAURIERS, TREASURER

@@ -1,15 +1,2 @@
-Lead
-Leadership & Awards
-Leadership:
-- Panel Speaker, Beyond Borders International Conference on Reproductive Rights (January 2024, Washington D.C.)
-- Plenary Speaker, State Innovation Exchange National Conference (December 2022, Washington D.C.)
-- Co-Chair, Wake County Legislative Delegation (2021-2022 Session)
-- Co-Chair, House Democratic Women's Caucus (2021-2022 Session)
-- North Carolina State Lead, National Caucus of Environmental Legislators (2021)
-Awards:
-- 2023 Elected Woman of Excellence (National Foundation for Women Legislators)
-- Lillian's List Jan Allen Courage Award (2022)
-- Child Care Services Association Public Service Award (2022)
-- NC State Firefighters' Association Firefighter's Friend Award (2021-2022)
-- League of Conservation Voters Green Tie Award (2020)
-- NC-ERA Alliance Champion Award (2019)
+top of page Log In CONTRIBUTE VOLUNTEER HOME ABOUT ISSUES EVENTS MORE ENDORSEMENTS LEADERSHIP/AWARDS More Use tab to navigate through the menu items.
+Lead Leadership & Awards Leadership: ​ ​ Panel Speaker, Beyond Borders International Conference on Reproductive Rights (January 2024, Washington D.C.) Plenary Speaker, State Innovation Exchange National Conference (December 2022, Washington D.C.) Co-Chair, Wake County Legislative Delegation (2021-2022 Session) Co-Chair, House Democratic Women's Caucus (2021-2022 Session) North Carolina State Lead, National Caucus of Environmental Legislators (2021) ​ Awards: ​ 2023 Elected Woman of Excellence (National Foundation for Women Legislators) Lillian's List Jan Allen Courage Award (2022) Child Care Services Association Public Service Award (2022) NC State Firefighters' Association Firefighter's Friend Award (2021-2022) League of Conservation Voters Green Tie Award (2020) NC-ERA Alliance Champion Award (2019) PAID FOR BY FOR THE COMMITTEE TO ELECT JULIE VON HAEFEN 1002 S Wellonsburg Place Apex, NC 27502 bottom of page

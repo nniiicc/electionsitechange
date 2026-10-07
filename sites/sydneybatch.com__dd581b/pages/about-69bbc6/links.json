@@ -1,15 +1,58 @@
 [
-"http://facebook.com/friendsforbatch",
-"https://facebook.com/WixStudio",
-"https://instagram.com/friendsforbatch",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/sbweb",
-"https://sydneybatch.com/",
-"https://sydneybatch.com/about",
-"https://sydneybatch.com/news",
-"https://sydneybatch.com/thejob",
-"https://tiktok.com/@friendsforbatch?is_from_webapp=1&sender_device=pc",
-"https://tiktok.com/@wix",
-"https://twitter.com/WixStudio",
-"https://twitter.com/friendsforbatch"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sbweb"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/sbweb"
+},
+{
+"text": "Home",
+"href": "https://www.sydneybatch.com"
+},
+{
+"text": "Meet Sydney",
+"href": "https://www.sydneybatch.com/about"
+},
+{
+"text": "Press",
+"href": "https://www.sydneybatch.com/news"
+},
+{
+"text": "The Job",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/friendsforbatch"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/friendsforbatch"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/friendsforbatch/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@friendsforbatch?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@wix"
+}
 ]

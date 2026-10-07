@@ -1,21 +1,22 @@
-PRESS RELEASE
-Weekly Update 8/24
-Science over politics – and 71 days to go
-What we did
-Just keep chugging along.
+Skip navigation menu Home About Take Action Issues News and press Events Endorsements Donate Home About Take Action Issues News and press Events Endorsements Donate Event Meet Chris Jones and Clean Water Candidates in Kiron PRESS RELEASE Weekly Campaign Calendar Sep 21-27 PRESS RELEASE Weekly Update 9/21 PRESS RELEASE Weekly update 9/13 PRESS RELEASE Campaign Calendar week of Sep 14-20 Event Chris Jones for Sec. of Ag. (and local candidates) Rally PRESS RELEASE Weekly Update 8/31 PRESS RELEASE Weekly Update 8/24 PRESS RELEASE Weekly Update 8/17 PRESS RELEASE Karaoke with the Candidates!
+PRESS RELEASE Weekly Update 5/8 Event Kris Williams Canvass Event!
+PRESS RELEASE Weekly update 7/13 PRESS RELEASE 4th of July!
+PRESS RELEASE Weekly update #11 "Money out of Politics" Event Door Knocking Event PRESS RELEASE Fort Dodge Pride!
+Event Ice Cream Social PRESS RELEASE Weekly update #10 "Woke Trans Agenda" PRESS RELEASE Weekly update #9 Water Quality PRESS RELEASE Frontier Days PRESS RELEASE Weekly update #8 Cost of Living Event Canvassing Event PRESS RELEASE Weekly update #6/7 PRESS RELEASE Weekly update #5 PRESS RELEASE Weekly update #3/4 Event May Day!
+PRESS RELEASE Weekly update #2 PRESS RELEASE Weekly update #1 PRESS RELEASE Letter To The Editor 4/06/2026 Campaign On!
+Aug 24 2026 PRESS RELEASE Weekly Update 8/24 Science over politics – and # days to go What we did Just keep chugging along.
 This week we knocked doors, restocked on campaign palm cards, and – due to some technical difficulties – re‑restocked on cards that will arrive this week.
+# days until Election Day!
 Welcome back to school season to our students this fall.
 Personally, our toddler starts preschool next week.
 We're still in denial that he can go to any sort of school.
-The Issues - Science Over Politics
-You may have heard about the return of measles.
+The Issues - Science Over Politics You may have heard about the return of measles.
 In Iowa, we currently have 16 confirmed cases this year – up from 9 last year.
 The CDC says 1 in 5 unvaccinated people get hospitalized, and 1 in 20 children with measles develop pneumonia.
 We have dropping vaccination rates to thank for that.
 Vaccines don't just protect against measles; they reduce harm across the board.
 And yet, just last session, Republicans passed a bill out of subcommittee to eliminate MMR vaccination requirements for kids in school entirely.
-The Problem
-Vaccines have been pushed aside in politics, along with much of our science.
+The Problem Vaccines have been pushed aside in politics, along with much of our science.
 The climate crisis.
 Water quality.
 Vaccinations for diseases that killed many of our loved ones.
@@ -26,30 +27,10 @@ That includes Rep.
 Ann Meyer, who voted to remove COVID‑19 vaccine requirements for students, right after expanding access to them the year before.
 As a rubber stamp, she votes with her party 99% of the time – more often than the average Republican.
 Vaccines are not where she draws the line, if you can say one exists.
-The Solution
-Only good lobbying is informing ones; legislators shouldn’t be passing bills without input from experts and those who will live with the results.
-If elected, I will fight to:
-- Listen to experts in their fields – especially those without a profit motive
-- Listen to teachers about teaching
-- Listen to scientists about science
-- Work with communities actually impacted by policy
-We have had culture wars take off, where getting praise from Trump is the goal - not taking care of us.
+The Solution Only good lobbying is informing ones; legislators shouldn’t be passing bills without input from experts and those who will live with the results.
+If elected, I will fight to: Listen to experts in their fields – especially those without a profit motive Listen to teachers about teaching Listen to scientists about science Work with communities actually impacted by policy We have had culture wars take off, where getting praise from Trump is the goal - not taking care of us.
 Without backing, we have RFK calling vaccines to blame for autism, ivermectin for COVID.
 We have to get common sense back into the legislature.
-Where We’re Going
-- New campaign cards (second time’s the charm?) arrive this week
-- Knocking more doors in Fort Dodge (we were just in Otho and Vincent)
-Noteworthy Posts
-- Link to Facebook of Israel AI texting me - here
-- Link to Facebook on some blue wave mojo coming in November - here
-We again are rejecting all Corporate PAC money, so we really rely on, and are extremely grateful for, your support.
-We’ll spend your donations on ways to expand our reach to as many voters as possible, including:
-- Postcards and other mailers and postage
-- Hand‑out cards for doors/events
-- Text messaging campaigns
-- Transportation costs for events and door-knocking
-- Campaign website costs
-- Radio ads, social media ads, and (hopefully) TV ads
-- Our campaign manager
-https://secure.actblue.com/donate/kris-williams-1
-Finally, if you have anyone else in mind who would like to be added to our email list or who would be interested in volunteering, let us know at kriswilliamsforiowa@gmail.com!
+Where We’re Going New campaign cards (second time’s the charm?) arrive this week Knocking more doors in Fort Dodge (we were just in Otho and Vincent) Noteworthy Posts Link to Facebook of Israel AI texting me - here Link to Facebook on some blue wave mojo coming in November - here Donate We again are rejecting all Corporate PAC money , so we really rely on, and are extremely grateful for, your support.
+We’ll spend your donations on ways to expand our reach to as many voters as possible, including: Postcards and other mailers and postage Hand‑out cards for doors/events Text messaging campaigns Transportation costs for events and door-knocking Campaign website costs Radio ads, social media ads, and (hopefully) TV ads Our campaign manager https://secure.actblue.com/donate/kris-williams-1 Finally, if you have anyone else in mind who would like to be added to our email list or who would be interested in volunteering, let us know at kriswilliamsforiowa@gmail.com !
+Volunteer Privacy Policy About Donate Contact Terms and Conditions kriswilliamsforiowa@gmail.com Powered by RUN! website builder Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app.

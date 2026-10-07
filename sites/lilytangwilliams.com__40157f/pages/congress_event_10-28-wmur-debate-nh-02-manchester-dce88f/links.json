@@ -1,25 +1,106 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261028T000000%2F20261028T235959&text=10%2F28+%E2%80%93+WMUR+Debate+%28NH-02%29+%E2%80%93+Manchester&details=%3Cp%3E%3Cstrong%3EWednesday%2C+10%2F28+%E2%80%93+Time+TBA%3C%2Fstrong%3E%3Cbr+%2F%3EWMUR+News+9%2C+Manchester%2C+NH%3C%2Fp%3E%3Cp%3ENH-02+congressional+debate+on+WMUR.%3C%2Fp%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress",
-"https://lilytangwilliams.com/congress",
-"https://lilytangwilliams.com/congress/about",
-"https://lilytangwilliams.com/congress/campaign-blog",
-"https://lilytangwilliams.com/congress/campaign-photos",
-"https://lilytangwilliams.com/congress/contact-us",
-"https://lilytangwilliams.com/congress/donate",
-"https://lilytangwilliams.com/congress/endorsements",
-"https://lilytangwilliams.com/congress/event/team-lily-rindge-jaffrey-fitzwilliam-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/event/team-lily-winchester-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/events",
-"https://lilytangwilliams.com/congress/events/category/lily-attending",
-"https://lilytangwilliams.com/congress/issues",
-"https://lilytangwilliams.com/congress/lilys-affordability-plan",
-"https://lilytangwilliams.com/congress/parents-for-lily",
-"https://lilytangwilliams.com/congress/press-releases",
-"https://lilytangwilliams.com/congress/privacy-policy",
-"https://lilytangwilliams.com/congress/request-yard-sign",
-"https://lilytangwilliams.com/congress/small-businesses-for-lily",
-"https://lilytangwilliams.com/congress/veterans-for-lily",
-"https://lilytangwilliams.com/congress/volunteer",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-28T00%3A00%3A00&enddt=2026-10-28T00%3A00%3A00&subject=10%2F28+%E2%80%93+WMUR+Debate+%28NH-02%29+%E2%80%93+Manchester&body=%3Cp%3EWednesday%2C+10%2F28+%E2%80%93+Time+TBAWMUR+News+9%2C+Manchester%2C+NH%3C%2Fp%3E%3Cp%3ENH-02+congressional+debate+on+WMUR.%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-28T00%3A00%3A00&enddt=2026-10-28T00%3A00%3A00&subject=10%2F28+%E2%80%93+WMUR+Debate+%28NH-02%29+%E2%80%93+Manchester&body=%3Cp%3EWednesday%2C+10%2F28+%E2%80%93+Time+TBAWMUR+News+9%2C+Manchester%2C+NH%3C%2Fp%3E%3Cp%3ENH-02+congressional+debate+on+WMUR.%3C%2Fp%3E"
+{
+"text": "Campaign Pictures",
+"href": "https://www.lilytangwilliams.com/congress/campaign-photos/"
+},
+{
+"text": "Contact",
+"href": "https://www.lilytangwilliams.com/congress/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://www.lilytangwilliams.com/congress/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lilytangwilliams.com/congress/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261028T000000%2F20261028T235959&text=10%2F28+%E2%80%93+WMUR+Debate+%28NH-02%29+%E2%80%93+Manchester&details=%3Cp%3E%3Cstrong%3EWednesday%2C+10%2F28+%E2%80%93+Time+TBA%3C%2Fstrong%3E%3Cbr+%2F%3EWMUR+News+9%2C+Manchester%2C+NH%3C%2Fp%3E%3Cp%3ENH-02+congressional+debate+on+WMUR.%3C%2Fp%3E&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress"
+},
+{
+"text": "Join",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "Lily’s Affordability Plan",
+"href": "https://www.lilytangwilliams.com/congress/lilys-affordability-plan/"
+},
+{
+"text": "Lily’s Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Lily’s Story",
+"href": "https://www.lilytangwilliams.com/congress/about/"
+},
+{
+"text": "News",
+"href": "https://www.lilytangwilliams.com/congress/campaign-blog/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00&enddt=%23T00%3A00%3A00&location=&subject=10%2F28+%E2%80%93+WMUR+Debate+%28NH-02%29+%E2%80%93+Manchester&body=%3Cp%3EWednesday%2C+10%2F28+%E2%80%93+Time+TBAWMUR+News+9%2C+Manchester%2C+NH%3C%2Fp%3E%3Cp%3ENH-02+congressional+debate+on+WMUR.%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00&enddt=%23T00%3A00%3A00&location=&subject=10%2F28+%E2%80%93+WMUR+Debate+%28NH-02%29+%E2%80%93+Manchester&body=%3Cp%3EWednesday%2C+10%2F28+%E2%80%93+Time+TBAWMUR+News+9%2C+Manchester%2C+NH%3C%2Fp%3E%3Cp%3ENH-02+congressional+debate+on+WMUR.%3C%2Fp%3E"
+},
+{
+"text": "Parents for Lily",
+"href": "https://www.lilytangwilliams.com/congress/parents-for-lily/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.lilytangwilliams.com/congress/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lilytangwilliams.com/congress/privacy-policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://www.lilytangwilliams.com/congress/request-yard-sign/"
+},
+{
+"text": "Small Businesses for Lily",
+"href": "https://www.lilytangwilliams.com/congress/small-businesses-for-lily/"
+},
+{
+"text": "TEAM LILY – Rindge-Jaffrey-Fitzwilliam Republican Committee Meeting »",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-rindge-jaffrey-fitzwilliam-republican-committee-meeting-2/"
+},
+{
+"text": "Veterans for Lily",
+"href": "https://www.lilytangwilliams.com/congress/veterans-for-lily/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "[image: Lily Tang Williams for Congress]",
+"href": "https://www.lilytangwilliams.com/congress/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.lilytangwilliams.com/congress/event/10-28-wmur-debate-nh-02-manchester/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.lilytangwilliams.com/congress/events/"
+},
+{
+"text": "« TEAM LILY – Winchester Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-winchester-republican-committee-meeting-2/"
+}
 ]

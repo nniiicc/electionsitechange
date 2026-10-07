@@ -1,7 +1,11 @@
 {
  "description": "West Virginia House of Delegates | Cabell County",
  "final_url": "https://patricklucaswv.com/",
- "paid_for_by": null,
+ "fingerprint": "99f299c4048ef50b197af6b8f432d8f042c8099a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Patrick Lucas",
- "years_mentioned": []
+ "years_mentioned": [
+  "2009"
+ ]
 }

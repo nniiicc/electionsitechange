@@ -1,44 +1,198 @@
 [
-"http://facebook.com/profile.php?id=61574380539767",
-"https://admin.campaignpartner.com/images/152850/State_Population_Summary_Budget_Schedule_6.pdf",
-"https://arthurwebbassembly.com/",
-"https://arthurwebbassembly.com/about",
-"https://arthurwebbassembly.com/contact",
-"https://arthurwebbassembly.com/contribute",
-"https://arthurwebbassembly.com/district-15-map",
-"https://arthurwebbassembly.com/guiding-principles",
-"https://arthurwebbassembly.com/home",
-"https://arthurwebbassembly.com/images/152850/State_Budget.pdf",
-"https://arthurwebbassembly.com/issues",
-"https://arthurwebbassembly.com/meet_arthur",
-"https://arthurwebbassembly.com/news",
-"https://arthurwebbassembly.com/privacy-policy",
-"https://arthurwebbassembly.com/propositions",
-"https://arthurwebbassembly.com/volunteer",
-"https://arthurwebbassembly.com/vote",
-"https://arthurwebbassembly.com/why-i-am-running",
-"https://arthurwebbassembly.com/yard-sign",
-"https://california.public.law/codes/revenue_and_taxation_code_section_7360",
-"https://california.public.law/codes/revenue_and_taxation_code_section_8352.5",
-"https://california.public.law/codes/streets_and_highways_code_section_2031",
-"https://california.public.law/codes/streets_and_highways_code_section_2103",
-"https://campaignpartner.com/",
-"https://catc.ca.gov/-/media/ctc-media/documents/ctc-meetings/2025/2025-10/30-3-5-a11y.pdf",
-"https://catc.ca.gov/reports-resources/annual-reports",
-"https://cdtfa.ca.gov/lawguides/vol3/uftr/use-fuel-tax-regulations.html",
-"https://cdtfa.ca.gov/taxes-and-fees/fuel-tax-and-fee-guides/diesel-fuel-and-motor-vehicle-fuel-tax",
-"https://cdtfa.ca.gov/taxes-and-fees/special-taxes-and-fees-tax-rates/fuel-taxes.htm",
-"https://cdtfa.ca.gov/taxes-and-fees/spftrpts.htm",
-"https://dof.ca.gov/forecasting",
-"https://dot.ca.gov/-/media/dot-media/programs/budgets/documents/financial-package-summary-202526-signedadaa11y.pdf",
-"https://ebudget.ca.gov/",
-"https://lao.ca.gov/reports/2017/3688/2017-transportation-package-060817.pdf",
-"https://linkedin.com/in/arthur-webb-914716402",
-"https://oilprice.com/Energy/Energy-General/Pipeline-Gaps-and-Refinery-Shifts-Expose-Californias-Energy-Vulnerability.html",
-"https://sco.ca.gov/ard_local_apportionments.html",
-"https://sco.ca.gov/ard_payments_highway_2526_april.html",
-"https://trackbill.com/bill/california-senate-bill-1-transportation-funding/1314846",
-"https://usinflationcalculator.com/",
-"https://ww2.arb.ca.gov/",
-"https://x.com/WebbAssembly"
+{
+"text": "031",
+"href": "https://california.public.law/codes/streets_and_highways_code_section_2031"
+},
+{
+"text": "2",
+"href": "https://california.public.law/codes/streets_and_highways_code_section_2031"
+},
+{
+"text": "7360",
+"href": "https://california.public.law/codes/revenue_and_taxation_code_section_7360"
+},
+{
+"text": "About",
+"href": "https://arthurwebbassembly.com/about"
+},
+{
+"text": "Annual Reports",
+"href": "https://catc.ca.gov/reports-resources/annual-reports"
+},
+{
+"text": "ArthurWebbAssembly.com\\Issues",
+"href": "https://arthurwebbassembly.com/issues"
+},
+{
+"text": "ArthurWebbAssembly@gmail.com",
+"href": "mailto:ArthurWebbAssembly@gmail.com"
+},
+{
+"text": "CA LAO: Overview of the 2017 Transportation Funding Package",
+"href": "https://lao.ca.gov/reports/2017/3688/2017-transportation-package-060817.pdf"
+},
+{
+"text": "CA Senate: SB1 Third Reading",
+"href": "https://trackbill.com/bill/california-senate-bill-1-transportation-funding/1314846/"
+},
+{
+"text": "CARB",
+"href": "https://ww2.arb.ca.gov/"
+},
+{
+"text": "Cal Trans to CTC (see Appendix C)",
+"href": "https://catc.ca.gov/-/media/ctc-media/documents/ctc-meetings/2025/2025-10/30-3-5-a11y.pdf"
+},
+{
+"text": "California Transportation Financing Package",
+"href": "https://dot.ca.gov/-/media/dot-media/programs/budgets/documents/financial-package-summary-202526-signedadaa11y.pdf"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact Us",
+"href": "https://arthurwebbassembly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://arthurwebbassembly.com/contribute"
+},
+{
+"text": "District 15 Map",
+"href": "https://arthurwebbassembly.com/district-15-map"
+},
+{
+"text": "Gas and Diesel Excise Tax Guide",
+"href": "https://cdtfa.ca.gov/taxes-and-fees/fuel-tax-and-fee-guides/diesel-fuel-and-motor-vehicle-fuel-tax/"
+},
+{
+"text": "Gas and Diesel Gallon Usage",
+"href": "https://cdtfa.ca.gov/taxes-and-fees/spftrpts.htm"
+},
+{
+"text": "Guiding Principles",
+"href": "https://arthurwebbassembly.com/guiding-principles"
+},
+{
+"text": "Home",
+"href": "https://arthurwebbassembly.com/home"
+},
+{
+"text": "Issues",
+"href": "https://arthurwebbassembly.com/issues"
+},
+{
+"text": "Laws, Regulations, and Annotations",
+"href": "https://cdtfa.ca.gov/lawguides/vol3/uftr/use-fuel-tax-regulations.html"
+},
+{
+"text": "May allocation of HUTA account",
+"href": "https://sco.ca.gov/ard_payments_highway_2526_april.html"
+},
+{
+"text": "Meet Arthur",
+"href": "https://arthurwebbassembly.com/meet_arthur"
+},
+{
+"text": "News",
+"href": "https://arthurwebbassembly.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://arthurwebbassembly.com/privacy-policy"
+},
+{
+"text": "Propositions",
+"href": "https://arthurwebbassembly.com/propositions"
+},
+{
+"text": "Schedule 6",
+"href": "https://admin.campaignpartner.com/images/152850/State_Population_Summary_Budget_Schedule_6.pdf"
+},
+{
+"text": "State Budgets in General",
+"href": "https://ebudget.ca.gov"
+},
+{
+"text": "Tax Rates",
+"href": "https://cdtfa.ca.gov/taxes-and-fees/special-taxes-and-fees-tax-rates/fuel-taxes.htm"
+},
+{
+"text": "US Inflation Calculator",
+"href": "https://www.usinflationcalculator.com"
+},
+{
+"text": "Volunteer",
+"href": "https://arthurwebbassembly.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://arthurwebbassembly.com/vote"
+},
+{
+"text": "Why Am I Running?",
+"href": "https://arthurwebbassembly.com/why-i-am-running"
+},
+{
+"text": "Yard Signs",
+"href": "https://arthurwebbassembly.com/yard-sign"
+},
+{
+"text": "[image: Arthur Webb California State Assembly 15]",
+"href": "https://arthurwebbassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/profile.php?id=61574380539767"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/arthur-webb-914716402"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WebbAssembly"
+},
+{
+"text": "allocations",
+"href": "https://www.sco.ca.gov/ard_local_apportionments.html"
+},
+{
+"text": "dof.ca.gov/forecasting.",
+"href": "https://dof.ca.gov/forecasting"
+},
+{
+"text": "ebudget.ca.gov",
+"href": "https://ebudget.ca.gov/"
+},
+{
+"text": "https://www.usinflationcalculator.com",
+"href": "https://www.usinflationcalculator.com/"
+},
+{
+"text": "oilprice.com",
+"href": "https://oilprice.com/Energy/Energy-General/Pipeline-Gaps-and-Refinery-Shifts-Expose-Californias-Energy-Vulnerability.html"
+},
+{
+"text": "spreadsheet",
+"href": "https://arthurwebbassembly.com/images/152850/State_Budget.pdf"
+},
+{
+"text": "§",
+"href": "https://california.public.law/codes/revenue_and_taxation_code_section_7360"
+},
+{
+"text": "§",
+"href": "https://california.public.law/codes/streets_and_highways_code_section_2031"
+},
+{
+"text": "§2103-§2108",
+"href": "https://california.public.law/codes/streets_and_highways_code_section_2103"
+},
+{
+"text": "§8352.5",
+"href": "https://california.public.law/codes/revenue_and_taxation_code_section_8352.5"
+}
 ]

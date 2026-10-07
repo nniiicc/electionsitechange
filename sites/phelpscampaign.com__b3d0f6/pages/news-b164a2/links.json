@@ -1,31 +1,134 @@
 [
-"https://andrewtarcon.com/",
-"https://facebook.com/PhelpsCampaign",
-"https://instagram.com/cs_phelps",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://phelpscampaign.com/",
-"https://phelpscampaign.com/2024/07/17/phelps-campaign-draws-largest-number-of-individual-grassroots-donors-in-93rd-assembly-race",
-"https://phelpscampaign.com/2024/08/01/meet-and-greet-hosted-by-jo-burke-and-terry-meyer",
-"https://phelpscampaign.com/2024/08/14/christian-phelps-celebrates-democratic-primary-results-for-wisconsins-93rd-assembly-district",
-"https://phelpscampaign.com/2024/09/18/cathy-reitz-trio-presents-fall-into-action-with-phelps",
-"https://phelpscampaign.com/2024/11/06/christian-phelps-declares-victory-in-wisconsins-93rd-assembly-district",
-"https://phelpscampaign.com/2025/08/14/standing-up-against-an-insufficient-budget",
-"https://phelpscampaign.com/2025/09/23/keep-families-together",
-"https://phelpscampaign.com/2025/09/29/rep-christian-phelpss-birthday-fundraiser",
-"https://phelpscampaign.com/2026/04/30/representative-christian-phelps-officially-launches-2026-state-assembly-re-election-campaign",
-"https://phelpscampaign.com/2026/09/08/october-2026-events",
-"https://phelpscampaign.com/endorsements",
-"https://phelpscampaign.com/issues",
-"https://phelpscampaign.com/meet-christian",
-"https://phelpscampaign.com/news",
-"https://phelpscampaign.com/news/page/2",
-"https://phelpscampaign.com/news/page/3",
-"https://phelpscampaign.com/remex?summer_search_category=5",
-"https://phelpscampaign.com/remex?summer_search_category=6",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=10",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=100",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=1000",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=250",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=500"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=1000"
+},
+{
+"text": "2",
+"href": "https://phelpscampaign.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://phelpscampaign.com/news/page/3/"
+},
+{
+"text": "Andrew Tarcon",
+"href": "https://andrewtarcon.com"
+},
+{
+"text": "Contact",
+"href": "mailto:contact@phelpscampaign.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1"
+},
+{
+"text": "Endorsements",
+"href": "https://phelpscampaign.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://phelpscampaign.com/remex?summer_search_category=6"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Home",
+"href": "https://phelpscampaign.com/"
+},
+{
+"text": "Issues",
+"href": "https://phelpscampaign.com/issues/"
+},
+{
+"text": "Meet Christian",
+"href": "https://phelpscampaign.com/meet-christian/"
+},
+{
+"text": "News",
+"href": "https://phelpscampaign.com/remex?summer_search_category=5"
+},
+{
+"text": "News & Events",
+"href": "https://phelpscampaign.com/news/"
+},
+{
+"text": "Next",
+"href": "https://phelpscampaign.com/news/page/2/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/07/17/phelps-campaign-draws-largest-number-of-individual-grassroots-donors-in-93rd-assembly-race/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/08/01/meet-and-greet-hosted-by-jo-burke-and-terry-meyer/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/08/14/christian-phelps-celebrates-democratic-primary-results-for-wisconsins-93rd-assembly-district/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/09/18/cathy-reitz-trio-presents-fall-into-action-with-phelps/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/11/06/christian-phelps-declares-victory-in-wisconsins-93rd-assembly-district/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2025/08/14/standing-up-against-an-insufficient-budget/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2025/09/23/keep-families-together/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2025/09/29/rep-christian-phelpss-birthday-fundraiser/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2026/04/30/representative-christian-phelps-officially-launches-2026-state-assembly-re-election-campaign/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2026/09/08/october-2026-events/"
+},
+{
+"text": "[image: Christian Phelps For State Assembly]",
+"href": "https://phelpscampaign.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/PhelpsCampaign"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/cs_phelps/"
+}
 ]

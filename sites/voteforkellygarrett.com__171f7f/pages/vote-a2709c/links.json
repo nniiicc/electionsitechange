@@ -1,23 +1,86 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://facebook.com/kellygarrettforcommunity",
-"https://linkedin.com/in/kellyg1",
-"https://mvic.sos.state.mi.us/",
-"https://register.vote.org/",
-"https://verify.vote.org/",
-"https://voteforkellygarrett.com/",
-"https://voteforkellygarrett.com/contact",
-"https://voteforkellygarrett.com/contribute",
-"https://voteforkellygarrett.com/events",
-"https://voteforkellygarrett.com/home",
-"https://voteforkellygarrett.com/issues",
-"https://voteforkellygarrett.com/meet_kelly",
-"https://voteforkellygarrett.com/news",
-"https://voteforkellygarrett.com/photos",
-"https://voteforkellygarrett.com/privacy-policy",
-"https://voteforkellygarrett.com/view-endorsements",
-"https://voteforkellygarrett.com/volunteer",
-"https://voteforkellygarrett.com/vote",
-"https://voteforkellygarrett.com/yard-sign"
+{
+"text": "Contact",
+"href": "https://www.voteforkellygarrett.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voteforkellygarrett.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteforkellygarrett.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteforkellygarrett.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.voteforkellygarrett.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voteforkellygarrett.com/issues"
+},
+{
+"text": "Meet Kelly",
+"href": "https://www.voteforkellygarrett.com/meet_kelly"
+},
+{
+"text": "Michigan.gov/Vote",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "News",
+"href": "https://www.voteforkellygarrett.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.voteforkellygarrett.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteforkellygarrett.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteforkellygarrett.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteforkellygarrett.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.voteforkellygarrett.com/yard-sign"
+},
+{
+"text": "[image: Kelly Garrett State Representative - District 18]",
+"href": "https://www.voteforkellygarrett.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kellygarrettforcommunity/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kellyg1/"
+}
 ]

@@ -1,14 +1,58 @@
 [
-"http://networkadvertising.org/",
-"https://brownformaryland.com/",
-"https://brownformaryland.com/about",
-"https://brownformaryland.com/issues",
-"https://brownformaryland.com/privacy-policy",
-"https://docs.google.com/forms/d/e/1FAIpQLSd2ablGx_eSTlaA4VzZGsafDzw3jPRNAHjDBVQwpOz2tqgKxg/viewform?usp=header",
-"https://facebook.com/lydiaformaryland",
-"https://forms.gle/27nP9GTrc8PfuWL79",
-"https://secure.actblue.com/donate/brownformd",
-"https://twitter.com/lydiaformd",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://brownformaryland.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brownformd"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brownformd/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/lydiaformaryland"
+},
+{
+"text": "Home",
+"href": "https://brownformaryland.com/"
+},
+{
+"text": "Issues",
+"href": "https://brownformaryland.com/issues/"
+},
+{
+"text": "Ly Xīnzhèn Brown for State Delegate",
+"href": "https://brownformaryland.com/"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://brownformaryland.com/privacy-policy/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/lydiaformd"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd2ablGx_eSTlaA4VzZGsafDzw3jPRNAHjDBVQwpOz2tqgKxg/viewform?usp=header"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/27nP9GTrc8PfuWL79"
+},
+{
+"text": "Voter Registration",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration"
+},
+{
+"text": "click here.",
+"href": "http://www.networkadvertising.org/"
+}
 ]

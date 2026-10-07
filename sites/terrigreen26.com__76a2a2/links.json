@@ -1,6 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61585254656309",
-"https://instagram.com/terrigreenforarkansas?igsh=aWN4OHJxbTF0Y2ho",
-"https://terrigreenforarkansas.com/",
-"https://terrigreenforarkansas.com/donate"
+{
+"text": "DONATE",
+"href": "https://www.terrigreenforarkansas.com/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "Meet Dr. Green",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "[image: Dr.GreenforArkansas-logo ]",
+"href": "https://www.terrigreenforarkansas.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61585254656309"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/terrigreenforarkansas?igsh=aWN4OHJxbTF0Y2ho"
+},
+{
+"text": "info@terrigreenforarkansas.com",
+"href": "mailto:info@terrigreenforarkansas.com"
+}
 ]

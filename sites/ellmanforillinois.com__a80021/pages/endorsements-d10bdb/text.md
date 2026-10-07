@@ -1,24 +1,3 @@
-Laura Ellman is proud to receive the support of:
-Congressman Bill Foster, 11th Congressional District
-Sean Casten for Congress
-Lauren Underwood for Congress
-Illinois AFL-CIO
-Illinois NOW
-AFSCME Council 31
-SEIU Healthcare Illinois
-SEIU Local 73
-Local 881 United Food and Commercial Workers PAC
-West Suburban Teachers Union Local 571
-Citizen Action Illinois
-Teamsters Joint Council 25
-International Union Of Operating Engineers Local 150
-United Union of Roofers, Waterproofers, and Allied Workers Local 11
-Illinois Federation of Teachers
-National Association of Social Workers Illinois PAC
-Equality Illinois PAC
-Personal PAC
-Inclusion PAC
-Planned Parenthood Illinois Action
-Illinois Sierra Club
-314 Action
-Moms Demand Action GunSense Distinguished Candidate
+Toggle navigation ABOUT LAURA MY VISION ISSUES GET INVOLVED REQUEST A YARD SIGN THE 21ST DISTRICT ENDORSEMENTS DONATE TODAY ENDORSEMENTS Laura Ellman is proud to receive the support of: Congressman Bill Foster, 11th Congressional District Sean Casten for Congress Lauren Underwood for Congress Illinois AFL-CIO Illinois NOW AFSCME Council 31 SEIU Healthcare Illinois SEIU Local 73 Local 881 United Food and Commercial Workers PAC West Suburban Teachers Union Local 571 Citizen Action Illinois Teamsters Joint Council 25 International Union Of Operating Engineers Local 150 United Union of Roofers, Waterproofers, and Allied Workers Local 11 Illinois Federation of Teachers National Association of Social Workers Illinois PAC Equality Illinois PAC Personal PAC Inclusion PAC Planned Parenthood Illinois Action Illinois Sierra Club 314 Action Moms Demand Action GunSense Distinguished Candidate Notice: JavaScript is required for this content.
+PROMOTIONAL COMMUNICATIONS You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from Ellman for IL Senate D21 by following the instructions in those communications.
+Please note that we may still send you other types of non-promotional communications, such as those about your use of the Services or any of your donations, transactions, or activities related to the Services PAID FOR BY ELLMAN FOR IL SENATE D21

@@ -1,19 +1,70 @@
 [
-"http://wvcdl.org/candidate_ratings",
-"https://electguyward.com/",
-"https://electguyward.com/contact",
-"https://electguyward.com/endorsements",
-"https://electguyward.com/issues",
-"https://electguyward.com/meet-guy",
-"https://electguyward.com/updates",
-"https://electguyward.com/volunteer",
-"https://electguyward.com/wp/feed",
-"https://facebook.com/GuyWardHouseofDelegates",
-"https://fairmontstate.edu/",
-"https://nrapvf.org/grades",
-"https://pierpont.edu/",
-"https://recoverypointwv.org/",
-"https://secure.winred.com/committee-to-elect-guy-ward-214b4122/donate",
-"https://wvforlife.org/",
-"https://wvnews.com/news/wvnews/middletown-mall-redevelopment-large-part-of-proposed-tif-district/article_204c92dd-6e72-5a78-8850-104b2d50713d.html"
+{
+"text": "Contact",
+"href": "https://electguyward.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-guy-ward-214b4122/donate#new_tab"
+},
+{
+"text": "Endorsements",
+"href": "https://electguyward.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/GuyWardHouseofDelegates/"
+},
+{
+"text": "Fairmont State University",
+"href": "https://www.fairmontstate.edu/"
+},
+{
+"text": "Issues",
+"href": "https://electguyward.com/issues/"
+},
+{
+"text": "Mayor of White Hall",
+"href": "https://www.wvnews.com/news/wvnews/middletown-mall-redevelopment-large-part-of-proposed-tif-district/article_204c92dd-6e72-5a78-8850-104b2d50713d.html"
+},
+{
+"text": "Meet Guy",
+"href": "https://electguyward.com/meet-guy/"
+},
+{
+"text": "National Rifle Association",
+"href": "https://www.nrapvf.org/grades/"
+},
+{
+"text": "Pierpont Community and Technical College",
+"href": "https://www.pierpont.edu/"
+},
+{
+"text": "RSS",
+"href": "https://electguyward.com/wp/feed"
+},
+{
+"text": "Recovery Point WV",
+"href": "https://www.recoverypointwv.org/"
+},
+{
+"text": "Updates",
+"href": "https://electguyward.com/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://electguyward.com/volunteer/"
+},
+{
+"text": "West Virginia Civil Defense League",
+"href": "http://www.wvcdl.org/candidate_ratings/"
+},
+{
+"text": "West Virginians for Life",
+"href": "https://www.wvforlife.org/"
+},
+{
+"text": "[image: Guy Ward for House of Delegates | District 74]",
+"href": "https://electguyward.com/"
+}
 ]

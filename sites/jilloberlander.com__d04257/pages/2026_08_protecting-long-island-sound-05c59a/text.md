@@ -1,5 +1,4 @@
-Investing in the infrastructure that keeps our water clean
-Ever since I was a little girl, the beach has been my happy place.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Protecting Long Island Sound Newsletter • August 20, 2026 Investing in the infrastructure that keeps our water clean Ever since I was a little girl, the beach has been my happy place.
 I love the smell of sea air, the light along the shoreline, and swimming in open water.
 Living along Long Island Sound is one of the things that makes our communities so special.
 Unfortunately, after heavy rains, stormwater can carry bacteria and pollutants through drainage systems and into our waterways and the Sound and make swimming unsafe.
@@ -17,4 +16,7 @@ This is what I’ll fight for in Hartford.
 Safe water.
 Clean beaches.
 Fewer closures.
-And more summer days when the only decisions we have to make are what to read and when to reapply sunscreen.
+And more summer days when the only decisions we have to make are what to read and when to reapply sunscreen. ← Zoning and development decisions should be made locally A strong start to the school year → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+We should have theirs.
+A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

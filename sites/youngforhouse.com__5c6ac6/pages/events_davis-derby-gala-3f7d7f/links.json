@@ -1,15 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Davis+Derby+Gala&dates=20260411T003000Z%2F20260411T040000Z&location=748+W+Heritage+Park+Boulevard%2C+Layton%2C+UT%2C+84041%2C+United+States",
-"http://maps.google.com/?q=748+W+Heritage+Park+Boulevard+Layton%2C+UT%2C+84041+United+States",
-"https://secure.actblue.com/donate/derbygala",
-"https://secure.actblue.com/donate/youngforhouse",
-"https://youngforhouse.com/",
-"https://youngforhouse.com/cart",
-"https://youngforhouse.com/contact",
-"https://youngforhouse.com/donate",
-"https://youngforhouse.com/events",
-"https://youngforhouse.com/events/davis-county-lets-talk",
-"https://youngforhouse.com/events/davis-derby-gala?format=ical",
-"https://youngforhouse.com/events/fireside-chat",
-"https://youngforhouse.com/faq"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=748+w+heritage+park+boulevard+layton%2C+ut%2C+84041+united+states"
+},
+{
+"text": "0",
+"href": "https://www.youngforhouse.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.youngforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/youngforhouse"
+},
+{
+"text": "Donate",
+"href": "https://www.youngforhouse.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.youngforhouse.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Davis+Derby+Gala&dates=20260411T003000Z%2F20260411T040000Z&location=748+W+Heritage+Park+Boulevard%2C+Layton%2C+UT%2C+84041%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/davis-derby-gala?format=ical"
+},
+{
+"text": "Next Next April 21 Davis County: Let's Talk",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk"
+},
+{
+"text": "Previous Previous March 30 Fireside Chat",
+"href": "https://www.youngforhouse.com/events/fireside-chat"
+},
+{
+"text": "Purchase Tickets",
+"href": "https://secure.actblue.com/donate/derbygala"
+},
+{
+"text": "[image: Brandon Young for Utah House of Representatives]",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bydirector"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577546979131"
+}
 ]

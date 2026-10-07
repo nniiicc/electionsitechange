@@ -1,8 +1,4 @@
-Serving Northwood & Nottingham
-Common Sense, Tudor Leadership
-NH
-Meet Your Candidate
-From the U.S.
+Paul Tudor About Endorsements Issues Endorsements Donate Contact Contribute Serving Northwood & Nottingham Paul Tudor Common Sense, Tudor Leadership Support the Campaign Learn More NH Meet Your Candidate Service-Driven Leadership From the U.S.
 Air Force to General Electric, Paul Tudor has dedicated his life to solving complex problems and delivering real results.
 After serving our nation in the Air Force until 1980, reaching the rank of Sergeant E4, Tudor brought his technical expertise to GE, where he led test operations and jet engine facility design teams for decades.
 His engineering mindset and commitment to excellence drove innovation and efficiency throughout his career.
@@ -12,25 +8,28 @@ Living in Northwood with his wife Shirley, where his family has deep roots spann
 As a life member of the NRA, Tudor stands firmly for constitutional rights and the freedoms that make New Hampshire exceptional.
 His philosophy is simple: government works best when it stays out of the way.
 His years managing complex projects taught him that results trump good intentions every time — a principle he'll bring to the State House to keep taxes low, regulations sensible, and liberty protected.
-Proven Leader
-Fighting For You
-Paul Tudor will vote against any attempt to implement a state income or sales tax in New Hampshire, protecting the competitive advantage that draws businesses and families to our state.
+Proven Leader Fighting For You Key Priorities No Income or Sales Tax Paul Tudor will vote against any attempt to implement a state income or sales tax in New Hampshire, protecting the competitive advantage that draws businesses and families to our state.
 He will oppose all legislative proposals that would circumvent the constitutional requirement for a two-thirds majority to pass broad-based taxes.
 Tudor recognizes that New Hampshire's tax structure, while placing greater reliance on property taxes, has made us an economic magnet in New England and will work to keep it that way.
-I will vote against any legislation that restricts law-abiding New Hampshire citizens' constitutional right to keep and bear arms, including opposing universal background checks and magazine capacity limits.
+Protect Second Amendment Rights I will vote against any legislation that restricts law-abiding New Hampshire citizens' constitutional right to keep and bear arms, including opposing universal background checks and magazine capacity limits.
 As your representative, I will work to strengthen New Hampshire's existing constitutional carry laws and ensure our state remains a beacon of freedom where responsible gun owners face no additional burdens or bureaucratic obstacles.
 I will actively resist any federal overreach that attempts to undermine our Live Free or Die values through gun control measures that only punish law-abiding citizens while doing nothing to stop criminals.
-Paul Tudor will push for legislation requiring parental notification before schools provide mental health services or conduct surveys about students' personal lives, and he'll work to expand New Hampshire's Education Freedom Account program so more families can use their property tax dollars for educational choices that align with their values.
+Support Parents' Rights Paul Tudor will push for legislation requiring parental notification before schools provide mental health services or conduct surveys about students' personal lives, and he'll work to expand New Hampshire's Education Freedom Account program so more families can use their property tax dollars for educational choices that align with their values.
 He'll also support parents' fundamental right to access and review all curriculum materials and library books available to their children in school, ensuring transparency in what's being taught with their tax dollars.
-Paul Tudor will vote to prohibit biological males from using girls' bathrooms and locker rooms in New Hampshire schools, protecting the privacy and safety of our daughters.
+Keep Boys Out of Girls' Bathrooms Paul Tudor will vote to prohibit biological males from using girls' bathrooms and locker rooms in New Hampshire schools, protecting the privacy and safety of our daughters.
 He will support legislation requiring schools to maintain separate facilities based on biological sex, ensuring parents in Rockingham County can send their children to school without worrying about inappropriate bathroom policies that compromise their safety.
-Paul Tudor will vote against any state income tax proposal and work to reduce the regulatory burden on New Hampshire's small businesses that drive our economy.
+Capitalism, Small Government & Local Control Paul Tudor will vote against any state income tax proposal and work to reduce the regulatory burden on New Hampshire's small businesses that drive our economy.
 He will push authority back to Rockingham County towns and school districts, ensuring local communities control their own property tax rates and educational priorities rather than having mandates imposed from Concord.
 Tudor will oppose state government expansion that forces higher property taxes on homeowners to fund programs better handled at the local level.
-Make a Difference
-Support
-Endorsements
-Howard PearlSenator
-NH Liberty AllianceNHLiberty.org
-Citizens Alliance of NHwww.citizensalliancenh.org/
-Cornerstone ActionEndorsed for 2026
+Make a Difference Support Common Sense Leadership $25 $50 $100 $250 $500 Other First Name Last Name Email Address Phone Number I agree to receive recurring text messages from Paul D.
+Tudor and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
+Msg frequency varies.
+Msg & data rates may apply.
+Reply STOP to opt out, HELP for help.
+See our Privacy Policy and Terms .
+Street Address City State ZIP Code Employer Occupation Credit Card Information Cover processing fees so 100% goes to the campaign Make this a monthly donation Contribute Contributions are not tax deductible.
+New Hampshire law requires us to collect and report the name, mailing address, occupation, and employer of each contributor.
+Support Endorsements Howard Pearl Senator NH Liberty Alliance NHLiberty.org Citizens Alliance of NH www.citizensalliancenh.org/ Cornerstone Action Endorsed for 2026 Paul Tudor Common Sense, Tudor Leadership Quick Links About Paul Key Issues Contribute Contact Contact Info [email protected] [phone protected] 167 bow st Get Involved Volunteer Donate Host an Event Paid for by Paul D.
+Tudor, 167 Bow St, Northwood, NH 03261, Paul D.
+Tudor chairman © # Paul Tudor.
+All rights reserved.

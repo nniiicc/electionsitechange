@@ -1,7 +1,9 @@
 {
  "description": "Events and fundraisers for the campaign.",
  "final_url": "https://votevarian2026.com/events.html",
- "paid_for_by": null,
+ "fingerprint": "e9684fc58a4c759ad36884021bce74264404934f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | VoteVarian2026",
  "years_mentioned": [
   "2026"

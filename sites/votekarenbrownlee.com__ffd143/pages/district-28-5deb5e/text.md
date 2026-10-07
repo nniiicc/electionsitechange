@@ -1,5 +1,2 @@
-District 28
-Voter ToolKit
-Ohio House District 28 Map
-House District 28 includes:
-Blue Ash • Deer Park • Evendale • Forest Park • Montgomery • Loveland • Pleasant Run Farms (Springfield Twp, precincts D, T, AA) • Sharonville • Springdale • Sycamore Township • Symmes Township (except for Camp Dennison, precinct A)
+× Donate to Karen Brownlee for Ohio House $28 $250 $50 $500 $100 OTHER Or, sign up to volunteer ➔ 0 Skip to Content Home Meet Karen Issues Endorsements District 28 Voting Information GET INVOLVED Open Menu Close Menu Home Meet Karen Issues Endorsements District 28 Voting Information GET INVOLVED Open Menu Close Menu Home Meet Karen Issues Endorsements District 28 Voting Information GET INVOLVED District 28 Voter ToolKit Register to Vote Register or update your voter registration Find My District Find out if you live in Ohio House District 28 Find my polling place The Primary Election is Tuesday, May 5, 2026 Ohio House District 28 Map View fullsize House District 28 includes: Blue Ash • Deer Park • Evendale • Forest Park • Montgomery • Loveland • Pleasant Run Farms (Springfield Twp, precincts D, T, AA) • Sharonville • Springdale • Sycamore Township • Symmes Township (except for Camp Dennison, precinct A) Get involved with Team Brownlee Donate Get Involved Contact PAID FOR BY FRIENDS FOR KAREN BROWNLEE ©# Friends for Karen Brownlee.
+All rights reserved.

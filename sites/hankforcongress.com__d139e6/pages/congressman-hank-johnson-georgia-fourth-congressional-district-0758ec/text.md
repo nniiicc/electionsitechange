@@ -1,4 +1,4 @@
-Congressman Henry C.
+Skip to content Home About Issues News Contact Donate Sign Up Home About Issues News Contact Donate Sign Up Facebook Instagram About Congressman Hank Johnson Congressman Henry C.
 “Hank” Johnson, Jr. has served Georgia’s Fourth Congressional District since 2007, currently representing parts of DeKalb and Gwinnett counties.
 Elected to his 10th term in 2024, he has earned recognition as one of Congress’s most effective Democrats, championing legislation that strengthens civil rights, consumer protections, judicial transparency and accountability, and community safety.
 As a senior member of the House Judiciary Committee and ranking member of its Subcommittee on Courts, Intellectual Property Artificial Intelligence, and the Internet, Congressman Johnson has been a national leader on court reform, pushing for accountability and ethical standards for Justices seated on the United States Supreme Court.
@@ -20,3 +20,6 @@ Congressman Johnson was born in Washington, D.C. and earned his B.A. in Politica
 Prior to Congress, he practiced law for 27 years in Decatur, Georgia, specializing in criminal defense, civil rights, and personal injury law.
 He also served as a Magistrate Judge for 12 years, and as a DeKalb County Commissioner for five years.
 He and his wife, DeKalb County Commissioner Mereda Davis Johnson, have two adult children.
+CONTRIBUTE VOLUNTEER SIGN UP Facebook Instagram CONGRESSMAN HANK JOHNSON In his tenth term as U.S.
+Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
+Supreme Court’s decision September 16, 2026 Congressman Johnson Introduces Historic Bill To Prevent Judges, Justices From Trading Stocks August 27, 2026 Paid for by the Committee to Elect Hank Johnson

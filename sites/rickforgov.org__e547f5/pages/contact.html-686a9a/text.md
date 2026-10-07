@@ -1,4 +1,3 @@
-Stay in Contact
-Please contact us here with any questions you have about the campaign, our policy goals and implementation, or anything that relates to Nebraska and the upcoming elections.
+Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear Menu RICK BEARD FOR GOVERNOR Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear Stay in Contact Please contact us here with any questions you have about the campaign, our policy goals and implementation, or anything that relates to Nebraska and the upcoming elections.
 We look forward to hearing from you as we strive to win your vote.
-| | | |
+Sign up for our newsletter..... * Indicates required field Email * I agree to receiving marketing and promotional materials * Subscribe to Newsletter Rick and Marion Beard ​Omaha, NE 68104 707-738-1237​ ​ [email protected] We want to hear from you! * Indicates required field Name * First Last Email * Comment * Submit Proudly powered by Weebly Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear G-D2TBD14C94

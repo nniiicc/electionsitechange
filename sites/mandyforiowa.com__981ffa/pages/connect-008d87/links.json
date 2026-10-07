@@ -1,12 +1,54 @@
 [
-"https://facebook.com/mandyforiowa",
-"https://instagram.com/mandyforiowa",
-"https://mandyforiowa.com/",
-"https://mandyforiowa.com/about",
-"https://mandyforiowa.com/connect",
-"https://mandyforiowa.com/issues",
-"https://mandyforiowa.com/privacy-policy",
-"https://secure.actblue.com/donate/mandyforiowa",
-"https://tiktok.com/@mandyforiowa",
-"https://x.com/mandyforiowa"
+{
+"text": "About",
+"href": "https://www.mandyforiowa.com/about"
+},
+{
+"text": "Click here to make an online donation.",
+"href": "https://secure.actblue.com/donate/mandyforiowa"
+},
+{
+"text": "Connect",
+"href": "https://www.mandyforiowa.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mandyforiowa"
+},
+{
+"text": "Home",
+"href": "https://www.mandyforiowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.mandyforiowa.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mandyforiowa.com/privacy-policy"
+},
+{
+"text": "[image: Campaign logo for Mandy for Iowa]",
+"href": "https://www.mandyforiowa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mandyforiowa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mandyforiowa/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mandyforiowa"
+},
+{
+"text": "[image: White campaign logo]",
+"href": "https://www.mandyforiowa.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/mandyforiowa"
+}
 ]

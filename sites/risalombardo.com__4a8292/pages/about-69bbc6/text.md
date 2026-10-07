@@ -1,4 +1,4 @@
-I’m running for Governor to be a voice for everyone being ignored by the major parties, and to champion issues that matter to every Arizonan.
+Skip to content Home About Issues Volunteer Privacy Policy Risa Lombardo For Arizona About Contact Issues Privacy Policy Volunteer About I’m running for Governor to be a voice for everyone being ignored by the major parties, and to champion issues that matter to every Arizonan.
 I’ve been registered with both major parties, although I spent most of my life as a Democrat.
 Each party has some elected officials who can be admired or respected in some way, but on the whole, neither party seems interested or capable of fixing the problems we face.
 Equal opportunity for everyone, based on our individual merit.
@@ -9,3 +9,4 @@ Other challengers don’t offer much in these regards, and four years with Katie
 We deserve better but won’t get it until we stand together in sufficient numbers that we earn the attention of the powers that be.
 When they realize they need us, they’ll listen to us and work with us.
 Join this campaign movement and let’s reward candidates who want to fix our problems, not just talk about them!
+Copyright # - PAID FOR BY LOMBARDO FOR AZ | AUTHORIZED BY RISA LOMBARDO Scroll to Top

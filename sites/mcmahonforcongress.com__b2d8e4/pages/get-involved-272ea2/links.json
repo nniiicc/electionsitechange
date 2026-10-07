@@ -1,13 +1,50 @@
 [
-"https://bsky.app/profile/mcmahonforcd6.bsky.social",
-"https://facebook.com/mcmahonforcd6",
-"https://instagram.com/mcmahonforcd6",
-"https://mcmahonforcongress.com/",
-"https://mcmahonforcongress.com/get-involved",
-"https://mcmahonforcongress.com/home",
-"https://mcmahonforcongress.com/on-the-issues",
-"https://mcmahonforcongress.com/videos",
-"https://tiktok.com/@pattymcmahon4congress",
-"https://x.com/mcmahonforcd6",
-"https://youtube.com/@McMahonforCD6/videos"
+{
+"text": "About Patty",
+"href": "https://www.mcmahonforcongress.com"
+},
+{
+"text": "Get involved",
+"href": "https://www.mcmahonforcongress.com/get-involved"
+},
+{
+"text": "On the Issues",
+"href": "https://www.mcmahonforcongress.com/on-the-issues"
+},
+{
+"text": "Videos",
+"href": "https://www.mcmahonforcongress.com/videos"
+},
+{
+"text": "[image: McMahon for Congress logo]",
+"href": "https://www.mcmahonforcongress.com/home"
+},
+{
+"text": "[image: Patty on TikTok]",
+"href": "https://www.tiktok.com/@pattymcmahon4congress"
+},
+{
+"text": "[image: Patty's Blueksy]",
+"href": "https://bsky.app/profile/mcmahonforcd6.bsky.social"
+},
+{
+"text": "[image: Patty's Facebook]",
+"href": "https://www.facebook.com/mcmahonforcd6"
+},
+{
+"text": "[image: Patty's Instagram]",
+"href": "https://www.instagram.com/mcmahonforcd6"
+},
+{
+"text": "[image: Patty's Twitter]",
+"href": "https://x.com/mcmahonforcd6"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@McMahonforCD6/videos"
+},
+{
+"text": "contact@mcmahonforcongress.com",
+"href": "mailto:contact@mcmahonforcongress.com"
+}
 ]

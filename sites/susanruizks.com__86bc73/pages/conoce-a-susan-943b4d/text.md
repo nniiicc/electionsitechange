@@ -1,6 +1,4 @@
-//// Una Voz para todos ////
-Conosca a Susan
-He dedicado la mayoria de mi vida ayudando a personas necesitadas a alcanzar sus metas y sueños.
+Skip to content Inicio Acerca Prioridades Únase English Contribuir » //// Una Voz para todos //// Conosca a Susan He dedicado la mayoria de mi vida ayudando a personas necesitadas a alcanzar sus metas y sueños.
 Y como su representante estatal, no dejaré de trabajar por los sueños de todos los residentes de Kansas.
 A lo largo de mi vida, desde mi crianza en un hogar mexicoamericano, hasta mi servicio a las personas como trabajadora social, aprendí el inmenso valor de ayudar a las comunidades subrepresentadas a través de la educación pública, abogacía, atención médica económica y accesible, los derechos civiles y mucho más.
 Mis padres fueron mi mayor influencia en mi formación cívica.
@@ -17,4 +15,4 @@ Mientras que mis clientes a menudo fueron descartados por la sociedad como una �
 En el 2018 y el 2020, tuve el honor de ser elegida como su Representante Estatal en el Distrito 23, sirviendo a Shawnee, Lenexa y Overland Park.
 Es realmente el honor de mi vida poder representarlos y asegurarme de que su voz se tome en cuenta.
 Espero ganar su voto nuevamente mientras busco la reelección el 8 de noviembre de 2022.
-Mientras tanto, continuaré trabajando duro para hacer cambios positivos en el Estado de Kansas.
+Mientras tanto, continuaré trabajando duro para hacer cambios positivos en el Estado de Kansas. /// Pongámonos a trabajar /// Conosca Cuales Son Mis Prioridades Principales Ver prioridades » Copyright © # Susan Ruiz for Kansas - Vote on November 3, 2026 Paid for by Susan Ruiz for Kansas | Tim Quinn, Treasurer _ Get in touch: Email | Facebook | Twitter

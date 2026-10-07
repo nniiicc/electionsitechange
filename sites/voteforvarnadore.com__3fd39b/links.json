@@ -1,6 +1,22 @@
 [
-"https://secure.anedot.com/jordan-varnadore-campaign/f98465fb-4be5-4a97-adf4-b1476218de23",
-"https://voteforvarnadore.com/",
-"https://voteforvarnadore.com/privacy-policy",
-"https://voteforvarnadore.com/terms-conditions"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jordan-varnadore-campaign/f98465fb-4be5-4a97-adf4-b1476218de23"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteforvarnadore.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://voteforvarnadore.com/terms-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://voteforvarnadore.com"
+},
+{
+"text": "info@voteforvarnadore.com",
+"href": "mailto:info@voteforvarnadore.com"
+}
 ]

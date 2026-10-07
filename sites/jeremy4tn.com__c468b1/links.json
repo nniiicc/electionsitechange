@@ -1,17 +1,126 @@
 [
-"https://hub.jeremy4tn.com/pledge",
-"https://hub.jeremy4tn.com/preferences/request",
-"https://jeremy4tn.com/",
-"https://jeremy4tn.com/bio",
-"https://jeremy4tn.com/cdn-cgi/l/email-protection",
-"https://jeremy4tn.com/donate",
-"https://jeremy4tn.com/events",
-"https://jeremy4tn.com/platform",
-"https://jeremy4tn.com/privacy",
-"https://jeremy4tn.com/subscribe",
-"https://jeremy4tn.com/terms",
-"https://jeremy4tn.com/volunteer",
-"https://jeremy4tn.com/vote",
-"https://secure.anedot.com/jeremy-4-tn/signs",
-"https://sos.tn.gov/elections"
+{
+"text": "About",
+"href": "https://jeremy4tn.com/bio"
+},
+{
+"text": "Affordability",
+"href": "https://jeremy4tn.com/platform#affordability"
+},
+{
+"text": "Already decided? Planning to vote for Jeremy? Add your name. Count me in",
+"href": "https://hub.jeremy4tn.com/pledge"
+},
+{
+"text": "Chip in Help power this campaign and show your support with a yard sign or campaign shirt. Only individual donors here, no party or PAC money.",
+"href": "https://jeremy4tn.com/donate"
+},
+{
+"text": "Connect with Jeremy Find Jeremy and his volunteers at an event near you, or help out.",
+"href": "https://jeremy4tn.com/events"
+},
+{
+"text": "Count Me In",
+"href": "https://hub.jeremy4tn.com/pledge"
+},
+{
+"text": "Data Centers",
+"href": "https://jeremy4tn.com/platform#data-centers"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jeremy-4-tn/signs"
+},
+{
+"text": "Education",
+"href": "https://jeremy4tn.com/platform#education"
+},
+{
+"text": "Environment & Natural Resources",
+"href": "https://jeremy4tn.com/platform#environment"
+},
+{
+"text": "Events",
+"href": "https://jeremy4tn.com/events"
+},
+{
+"text": "Get to know Jeremy Where he came from and why he chose District 23.",
+"href": "https://jeremy4tn.com/bio"
+},
+{
+"text": "Government & Accountability",
+"href": "https://jeremy4tn.com/platform#government"
+},
+{
+"text": "Health Care",
+"href": "https://jeremy4tn.com/platform#health-care"
+},
+{
+"text": "Immigration",
+"href": "https://jeremy4tn.com/platform#immigration"
+},
+{
+"text": "Personal Freedoms",
+"href": "https://jeremy4tn.com/platform#personal-freedoms"
+},
+{
+"text": "Platform",
+"href": "https://jeremy4tn.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jeremy4tn.com/privacy"
+},
+{
+"text": "Ready to volunteer? Start here",
+"href": "https://jeremy4tn.com/volunteer"
+},
+{
+"text": "Review hours and locations",
+"href": "https://jeremy4tn.com/vote"
+},
+{
+"text": "Stay in the loop",
+"href": "https://jeremy4tn.com/subscribe"
+},
+{
+"text": "Stay in the loop Not sure yet, or live outside the district? Join the list.",
+"href": "https://jeremy4tn.com/subscribe"
+},
+{
+"text": "Subscribe",
+"href": "https://jeremy4tn.com/subscribe"
+},
+{
+"text": "Terms of Service",
+"href": "https://jeremy4tn.com/terms"
+},
+{
+"text": "Update Communication Preferences",
+"href": "https://hub.jeremy4tn.com/preferences/request"
+},
+{
+"text": "View the Full Platform",
+"href": "https://jeremy4tn.com/platform"
+},
+{
+"text": "Voting Info",
+"href": "https://jeremy4tn.com/vote"
+},
+{
+"text": "Why Jeremy's running Learn what he stands for, issue by issue.",
+"href": "https://jeremy4tn.com/platform"
+},
+{
+"text": "[email protected]",
+"href": "mailto:legal@jeremy4tn.com"
+},
+{
+"text": "[image] Jeremy 4 TN",
+"href": "https://jeremy4tn.com/"
+},
+{
+"text": "sos.tn.gov/elections",
+"href": "https://sos.tn.gov/elections"
+}
 ]

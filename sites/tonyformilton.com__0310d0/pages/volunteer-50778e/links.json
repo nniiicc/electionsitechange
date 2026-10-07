@@ -1,12 +1,50 @@
 [
-"https://facebook.com/tonyformilton",
-"https://tonyformilton.com/",
-"https://tonyformilton.com/about",
-"https://tonyformilton.com/cart",
-"https://tonyformilton.com/contact",
-"https://tonyformilton.com/donate",
-"https://tonyformilton.com/from-the-legislature",
-"https://tonyformilton.com/issues",
-"https://tonyformilton.com/volunteer",
-"https://x.com/tonyformilton"
+{
+"text": "0",
+"href": "https://www.tonyformilton.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.tonyformilton.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tonyformilton.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.tonyformilton.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.tonyformilton.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.tonyformilton.com/issues"
+},
+{
+"text": "TonyForMilton.com",
+"href": "https://www.tonyformilton.com/"
+},
+{
+"text": "Updates & Media",
+"href": "https://www.tonyformilton.com/from-the-legislature"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tonyformilton.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tonyformilton.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/tonyformilton"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tonyformilton"
+}
 ]

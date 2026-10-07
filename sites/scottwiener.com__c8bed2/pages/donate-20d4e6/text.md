@@ -1,4 +1,4 @@
-Thank you!
+Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE DONATE Donate STAY UPDATED Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
@@ -9,7 +9,5 @@ Msg frequency varies.
 Opt-in data and consent will not be shared with any third parties.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
-Privacy Policy.
-415-690-7280
-Paid for by Scott Wiener for Congress.
-More InformationPrivacy Policy
+Privacy Policy . info@scottwiener.com 415-690-7280 Paid for by Scott Wiener for Congress.
+More Information Privacy Policy

@@ -1,13 +1,58 @@
 [
-"https://facebook.com/Rolisonforny",
-"https://instagram.com/rolisonforny?igshid=YmMyMTA2M2Y%3D+https%3A%2F%2Finstagram.com%2Frolisonforny%3Figshid%3DYmMyMTA2M2Y%3D",
-"https://robrolison.com/",
-"https://robrolison.com/about",
-"https://robrolison.com/district-map",
-"https://robrolison.com/donate",
-"https://robrolison.com/events",
-"https://robrolison.com/general-8",
-"https://robrolison.com/volunteer",
-"https://twitter.com/rolisonforny?s=11&t=V9WVZw6Sefgc1PcxoRcDDA+https%3A%2F%2Ftwitter.com%2Frolisonforny%3Fs%3D11&t=V9WVZw6Sefgc1PcxoRcDDA",
-"https://youtube.com/channel/UCWn7AB_q3za83n9LqRxP3sw"
+{
+"text": "About",
+"href": "https://www.robrolison.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.robrolison.com"
+},
+{
+"text": "District Map",
+"href": "https://www.robrolison.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://www.robrolison.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.robrolison.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.robrolison.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robrolison.com/general-8"
+},
+{
+"text": "Volunteer",
+"href": "https://www.robrolison.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Rolisonforny"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/rolisonforny?igshid=YmMyMTA2M2Y%3D+https%3A%2F%2Finstagram.com%2Frolisonforny%3Figshid%3DYmMyMTA2M2Y%3D"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/rolisonforny?s=11&t=V9WVZw6Sefgc1PcxoRcDDA+https%3A%2F%2Ftwitter.com%2Frolisonforny%3Fs%3D11&t=V9WVZw6Sefgc1PcxoRcDDA"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCWn7AB_q3za83n9LqRxP3sw"
+},
+{
+"text": "[no text]",
+"href": "https://www.robrolison.com/about"
+},
+{
+"text": "teamrolison@gmail.com",
+"href": "mailto:teamrolison@gmail.com"
+}
 ]

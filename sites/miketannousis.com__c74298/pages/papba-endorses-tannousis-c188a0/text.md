@@ -1,6 +1,5 @@
-The Port Authority Police Benevolent Association has endorsed Mike Tannousis for State Assembly.
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Endorsements BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly by Team Tannousis on Aug 14, 2020 The Port Authority Police Benevolent Association has endorsed Mike Tannousis for State Assembly.
 “As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.
 This has been demonstrated in your work as an Assistant District Attorney.
 You have been tough on crime by prosecuting violent felonies and drug cases.
-Holding those who commit these crimes accountable and keeping Staten Island safe.”
-– Paul Nunziato, Port Authority PBA President
+Holding those who commit these crimes accountable and keeping Staten Island safe.” – Paul Nunziato, Port Authority PBA President MEET MIKE share NEXT ARTICLE BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly PREVIOUS ARTICLE Tannousis Wins Republican Primary for State Assembly Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

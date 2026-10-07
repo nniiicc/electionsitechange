@@ -1,9 +1,30 @@
 [
-"https://chumleyforhouse.com/",
-"https://chumleyforhouse.com/about",
-"https://chumleyforhouse.com/connect",
-"https://chumleyforhouse.com/issues",
-"https://chumleyforhouse.com/search",
-"https://chumleyforhouse.com/survey",
-"https://secure.anedot.com/bill-chumley-for-sc-house/donate"
+{
+"text": "About",
+"href": "https://www.chumleyforhouse.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.chumleyforhouse.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bill-chumley-for-sc-house/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.chumleyforhouse.com/issues"
+},
+{
+"text": "Survey",
+"href": "https://www.chumleyforhouse.com/survey"
+},
+{
+"text": "[image: Chumley for House]",
+"href": "https://www.chumleyforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.chumleyforhouse.com/search"
+}
 ]

@@ -1,65 +1,16 @@
-Media
-Articles about Megan's campaign
-- Srinivas, Bagniewski running for Iowa House seats in Des Moines - Bleeding Heartland, 12/5/2021
-- Iowa House redistricting affects Des Moines area 2022 legislative races - Des Moines Register, 12/5/2021
-Megan in the News
-- Iowa stops tracking home county of COVID hospital patients - Wall Street Journal, 1/10/22
-- Iowa physicians discuss impact of having COVID-19 and the flu simultaneously - KCCI News, 1/8/2022
-- Iowa stops tracking home county of COVID hospital patients - AP News, 11/29/21
-- Will getting kids vaccinated help with herd immunity? - KCCI News, 11/9/21
-- Immunocompromised Iowans eager to get booster shot - KCCI News, 8/13/21
-- Protesters call on Iowa Gov.
-Kim Reynolds to allow school mask orders - AP News, 8/12/21
-- Rescind Iowas Mask Mandate Ban for Kids sake - YouTube, 8/11/21
-- Iowa mothers urge reversal of state mask mandate prohibition - The Gazette, 8/11/21
-- COVID-19 rates a worry as 1 million head for Iowa State Fair - ABC News, 7/29/21
-- Ankeny Schools announces it 'may not' quarantine students exposed to COVID-19 in the fall - Des Moines Register, 7/29/21
-- Can Governor Reynolds put Iowa kids' well-being ahead of politics? - Bleeding Heartland, 7/28/21
-- COVID-19 a worry as 1 million people head for Iowa State Fair - KCCI News, 7/19/21
-- While "normalcy" returns, Iowa doctors warn of increasing delta variant threat - Fox 17 News, 7/8/21
-- Why we recommend the COVID-19 vaccines: A statement from infectious disease physicians in Iowa - Des Moines Register, 6/27/21
-- 2021 Forty Under 40 Class - The Business Record, 2021
-- Iowa Plans Events To Attract Large Crowds Just Like Pre-Pandemic Occasions - NPR, 6/8/2021
-- Physician leaders discuss COVID-19 vaccine misinformation - AMA, 5/26/2021
-- Pandemic public health and safety - PBS – Iowa Press, 5/26/2021
-- Drake University holds firm on decision to limit state track attendance - KCCI, 5/5/2021
-- These are the 40 under 40 leaders in minority health - AMA, 4/16/2021
-- Des Moines Woman Who Received J&J Vaccine Says Rewards Outweigh Improbable Risks - WHO-13, 4/15/2021
-- After J&J vaccine pause, added hesitancy more of a concern than supply crunches - KCCI 8 News, 4/13/2021
-- Masks: When, where and how to wear them - AMA YouTube, 3/12/2021
-- What doctors wish patients knew about double masking - AMA, 5/4/2021
-- National Minority Quality Forum Announces 2021 “40 Under 40 Leaders in Minority Health” Award Recipients - Minority Quality Forum, 3/11/2021
-- COVID-19 Reinfection is Possible, Especially With New Variants: Infectious Disease Expert - WHO-13, 2/13/2021
-- Infectious Disease Doctor Explains "Double Masking" - WHO-13, 2/12//2021
-- Calling COVID-19 a hoax worsens trauma, PTSD for frontline responders, physician says - KCCI 8 News, 1/27/2021
-- Iowa surpasses 4,000 COVID-19 deaths as new cases increase - KCCI 8 News, 1/6/2021
-- Rural Iowa counties up against multiple challenges in distributing vaccine - KCCI News, 12/14/20
-- Doctor: Negative COVID-19 tests do not ensure safe Thanksgiving gatherings - KCCI News, 11/23/20
-- Close Up: How to celebrate the holidays safely - KCCI 8 News, 11/22/2020
-- FEARLESS - FEARLESS, 11/13/2020
-- Recommendations for a Safer Thanksgiving Celebration - WHO-13, 11/15/2020
-- Trump's critics place advertisement on billboard, hire airplane before DSM rally - KCCI News, 10/17/20
-- Trump rally comes to Iowa as virus hospitalizations climb - AP News, 10/13/20
-- Iowa surpasses 100,000 coronavirus cases as COVID-19 deaths continue to increase - Des Moines Register, 10/12/20
-- Coronavirus hospitalizations grow in the Midwest amid climbing cases — "It’s clearly a forest fire" - CNBC, 10/3/20
-- A Science based interview with Sara Ann Willette and Megan Srinivas MD - YouTube, 10/4/20
-- New Study Shows Pregnant People May Have More Complications from COVID-19 - WHO-13, 9/20/20
-- "Horrifying" data glitch skews key Iowa coronavirus metrics - WHO-13, 9/20/20
-- Six Things Doctors Wish Patients Knew About Masks - AMA Association, 8/21/20
-- Time to Mask Up: Five Keys to Effective Exam Room Talk with Patients - AMA Association, 8/14/20
-- Doctors Say Mask Requirements Will Prevent Businesses From Closing - WHO-13, 7/19/20
-- Younger People Driving Iowa’s Latest Surge in Coronavirus Cases - WHO-13, 7/12/20
-- New Hot Spots as Daily Cases in Climb in Roughly 20 States - NBC Nightly News with Lester Holt, 5/5/20
-Authored or Co-Authored Works
-- Srinivas ML, Shim H, Jones DL, et al (2021).
+top of page DONATE About Legislative Appointments Events Videos Sign Up Contact Media More Use tab to navigate through the menu items.
+Media Articles about Megan's campaign ​ Srinivas, Bagniewski running for Iowa House seats in Des Moines - Bleeding Heartland, 12/5/2021 Iowa House redistricting affects Des Moines area 2022 legislative races - Des Moines Register, 12/5/2021 ​ Megan in the News ​ Iowa stops tracking home county of COVID hospital patients - Wall Street Journal, 1/10/22 Iowa physicians discuss impact of having COVID-19 and the flu simultaneously - KCCI News, 1/8/2022 Iowa stops tracking home county of COVID hospital patients - AP News, 11/29/21 Will getting kids vaccinated help with herd immunity? - KCCI News, 11/9/21 Immunocompromised Iowans eager to get booster shot - KCCI News, 8/13/21 Protesters call on Iowa Gov.
+Kim Reynolds to allow school mask orders - AP News, 8/12/21 Rescind Iowas Mask Mandate Ban for Kids sake - YouTube, 8/11/21 Iowa mothers urge reversal of state mask mandate prohibition - The Gazette, 8/11/21 COVID-19 rates a worry as 1 million head for Iowa State Fair - ABC News, 7/29/21 Ankeny Schools announces it 'may not' quarantine students exposed to COVID-19 in the fall - Des Moines Register, 7/29/21 Can Governor Reynolds put Iowa kids' well-being ahead of politics? - Bleeding Heartland, 7/28/21 COVID-19 a worry as 1 million people head for Iowa State Fair - KCCI News, 7/19/21 While "normalcy" returns, Iowa doctors warn of increasing delta variant threat - Fox 17 News, 7/8/21 Why we recommend the COVID-19 vaccines: A statement from infectious disease physicians in Iowa - Des Moines Register, 6/27/21 2021 Forty Under 40 Class - The Business Record, 2021 Iowa Plans Events To Attract Large Crowds Just Like Pre-Pandemic Occasions - NPR, 6/8/2021 Physician leaders discuss COVID-19 vaccine misinformation - AMA, 5/26/2021 Pandemic public health and safety - PBS – Iowa Press, 5/26/2021 Drake University holds firm on decision to limit state track attendance - KCCI, 5/5/2021 These are the 40 under 40 leaders in minority health - AMA, 4/16/2021 Des Moines Woman Who Received J&J Vaccine Says Rewards Outweigh Improbable Risks - WHO-13, 4/15/2021 After J&J vaccine pause, added hesitancy more of a concern than supply crunches - KCCI 8 News, 4/13/2021 Masks: When, where and how to wear them - AMA YouTube, 3/12/2021 What doctors wish patients knew about double masking - AMA, 5/4/2021 National Minority Quality Forum Announces 2021 “40 Under 40 Leaders in Minority Health” Award Recipients - Minority Quality Forum, 3/11/2021 COVID-19 Reinfection is Possible, Especially With New Variants: Infectious Disease Expert - WHO-13, 2/13/2021 Infectious Disease Doctor Explains "Double Masking" - WHO-13, 2/12//2021 Calling COVID-19 a hoax worsens trauma, PTSD for frontline responders, physician says - KCCI 8 News, 1/27/2021 Iowa surpasses 4,000 COVID-19 deaths as new cases increase - KCCI 8 News, 1/6/2021 Rural Iowa counties up against multiple challenges in distributing vaccine - KCCI News, 12/14/20 Doctor: Negative COVID-19 tests do not ensure safe Thanksgiving gatherings - KCCI News, 11/23/20 Close Up: How to celebrate the holidays safely - KCCI 8 News, 11/22/2020 FEARLESS - FEARLESS, 11/13/2020 Recommendations for a Safer Thanksgiving Celebration - WHO-13, 11/15/2020 Trump's critics place advertisement on billboard, hire airplane before DSM rally - KCCI News, 10/17/20 Trump rally comes to Iowa as virus hospitalizations climb - AP News, 10/13/20 Iowa surpasses 100,000 coronavirus cases as COVID-19 deaths continue to increase - Des Moines Register, 10/12/20 Coronavirus hospitalizations grow in the Midwest amid climbing cases — "It’s clearly a forest fire" - CNBC, 10/3/20 A Science based interview with Sara Ann Willette and Megan Srinivas MD - YouTube, 10/4/20 New Study Shows Pregnant People May Have More Complications from COVID-19 - WHO-13, 9/20/20 "Horrifying" data glitch skews key Iowa coronavirus metrics - WHO-13, 9/20/20 Six Things Doctors Wish Patients Knew About Masks - AMA Association, 8/21/20 Time to Mask Up: Five Keys to Effective Exam Room Talk with Patients - AMA Association, 8/14/20 Doctors Say Mask Requirements Will Prevent Businesses From Closing - WHO-13, 7/19/20 Younger People Driving Iowa’s Latest Surge in Coronavirus Cases - WHO-13, 7/12/20 New Hot Spots as Daily Cases in Climb in Roughly 20 States - NBC Nightly News with Lester Holt, 5/5/20 ​ Authored or Co-Authored Works ​ Srinivas ML, Shim H, Jones DL, et al (2021).
 "The importance of data accuracy and transparency for policy-making during a public health crisis: a case study in the state of Iowa." Presented at IDWeek Oct 2021, Virtual.
-- Srinivas ML, Yang EJ, et al.
-(2021) "Impact of defunding family planning health centers on gonorrhea and chlamydia cases in Iowa: a longitudinal spatiotemporal analysis of 2000-2018." Presented at STI & HIV 2021 World Congress, Jul. 2021, Amsterdam, Netherlands and Virtual.
-- Grijalva R, Makhlouf MD, Srinivas, ML, Lopez G.
-"An equitable distribution of COVID-19 vaccine must include noncitizens." The Hill, 26 Jan 2021
-- Srinivas ML, Yang EJ, et al.
-(2020) "Impact of defunding family planning health centers on sexually transmitted infection rates." Presented at IDWeek, Oct. 2020, Philadelphia, PA, USA.
-- Srinivas, Megan L.
-"We Don't Have the Data We Need to Reopen Iowa." Des Moines Register, 30 Apr. 2020,
-- Srinivas, Megan L.
-"Rural America Is Not Ready for COVID-19." Des Moines Register, 2020
+Srinivas ML, Yang EJ, et al.
+(2021) "Impact of defunding family planning health centers on gonorrhea and chlamydia cases in Iowa: a longitudinal spatiotemporal analysis of 2000-2018." Presented at STI & HIV 2021 World Congress, Jul.
+2021, Amsterdam, Netherlands and Virtual.
+Grijalva R, Makhlouf MD, Srinivas, ML, Lopez G.
+"An equitable distribution of COVID-19 vaccine must include noncitizens." The Hill, 26 Jan 2021 Srinivas ML, Yang EJ, et al.
+(2020) "Impact of defunding family planning health centers on sexually transmitted infection rates." Presented at IDWeek, Oct.
+2020, Philadelphia, PA, USA.
+Srinivas, Megan L.
+"We Don't Have the Data We Need to Reopen Iowa." Des Moines Register, 30 Apr.
+2020, Srinivas, Megan L.
+"Rural America Is Not Ready for COVID-19." Des Moines Register, 2020 Home About Me Events Sign Up Contact Paid for by Megan Srinivas for Iowa Committee #2406 Megan Srinivas for Iowa c/o Treasurer 2006 Chautauqua Pkwy.
+Des Moines, IA 50314 bottom of page

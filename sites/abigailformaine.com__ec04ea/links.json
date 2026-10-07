@@ -1,9 +1,46 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://abigailformaine.com/",
-"https://abigailformaine.com/cart",
-"https://abigailformaine.com/volunteer",
-"https://maine.gov/cleanelections"
+{
+"text": "0",
+"href": "https://www.abigailformaine.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.abigailformaine.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.abigailformaine.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "On the Issues",
+"href": "https://www.abigailformaine.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.abigailformaine.com/volunteer"
+},
+{
+"text": "[image: Abigail Geer for State Rep]",
+"href": "https://www.abigailformaine.com/"
+},
+{
+"text": "[image]",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+}
 ]

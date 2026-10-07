@@ -1,7 +1,11 @@
 {
  "description": "Come grab a coffee with Rick Bennett, ask your questions, and hear why he's running for Governor of Maine. Practical leadership. Real solutions. A Governor who answers only to Mainers. Click here for more information and to RSVP here: https://www.supportrickbennett.com/eastport",
  "final_url": "https://bennettforgovernor.com/events/coffee-and-questions-with-rick",
- "paid_for_by": null,
- "title": "Coffee and Questions with Rick \u2014 Rick Bennett for Governor",
- "years_mentioned": []
+ "fingerprint": "3f47b36177f9b403bf3d55e47a209b441b7efd12",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "Coffee and Questions with Rick — Rick Bennett for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

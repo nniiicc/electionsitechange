@@ -1,5 +1,5 @@
-Sen.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute Job Descriptions Home Job Descriptions Sen.
 Kagan is always seeking talented people to join her team!
-We look forward to receiving your cover letter and resume.
-- Home
-- Job Descriptions
+Chief of Staff Communications Specialist Legislative Aide Legislative & Communications Interns We look forward to receiving your cover letter and resume.
+Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

@@ -1,7 +1,11 @@
 {
  "description": "Official voting information for Berkeley County and South Carolina voters, with quick links to registration, polling place, and voting details.",
  "final_url": "https://www.thepricecampaign.com/vote/",
- "paid_for_by": null,
+ "fingerprint": "963f780586963712c23ba3e716f9ac45574d969d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voting Info | The Price Campaign",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,44 +1,15 @@
-Hot Topic
-America Has Become What We Claim to Fight Against
-By launching an unprovoked military attack and kidnapping a head of state without congressional approval or international authorization, President Trump has transformed America from the defender of international law into its violator.
+Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate NEWS ARTICLE Fry, Vincent outlines priorities in SC-7 race NEWS ARTICLE New Poll: Vincent and Fry in Statistical Dead Heat in South Carolina's 7th District NEWS ARTICLE Russell Fry Abandons SC-7 for a Shot at U.S.
+Senate PRESS RELEASE Democratic Candidates Forum Campaign News 1 Year Strong - # Days to Go!
+PRESS RELEASE Jaime Harrison Endorses John Vincent for U.S.
+Congress PRESS RELEASE Campaign Office Officially Open PRESS RELEASE John Vincent Officially Files In The News The SAVE Act SCAM - The Truth Revealed News Alert SC Measles Outbreak Local News Data Center Proposals: Balancing the Checkbook with Regional Reality In The News The ICE Shooting of Renee Good In The News Russell Fry Votes against Community Healthcare...
+Again John's Hot Take Stop the Insanity: Why I’m Running Against a Political Coward Hot Topic America Has Become What We Claim to Fight Against Campaign Update We're Fighting for you in 2026 Hot Topic Backgrounder 1.17 MILLION AMERICAN JOBS LOST IN 2025 Hot Topic BackGrounder Is Hegseth Guilty of War Crimes Campaign Blog This Thanksgiving, Let's Restore the Spirit That Built America News Backgrounder The Hidden Crisis of Seasonal Employment News Opinion Gun at No Kings Protest in Myrtle Beach Campaign News No Kings in Conway & Myrtle Beach SC Legislation Testimony Against State Bill 323 EDITORIAL Opinion Sometimes Principle Demands a Stand PRESS RELEASE JOHN VINCENT ENDORSES CANDIDATES IN KEY RACES PRESS RELEASE "FIGHT FOR DEMOCRACY FESTIVAL" DRAWS RECORD CROWD OF 350+ TV News WPDE: Democrat Aims to Unseat SC 7th District Incumbent State Legislation Testimony in Columbia Against State Bill 323 NEWS ARTICLE Forward Party Endorses U.S.
+House Candidate John Gregory Vincent for South Carolina Jan 3 2026 Hot Topic America Has Become What We Claim to Fight Against By launching an unprovoked military attack and kidnapping a head of state without congressional approval or international authorization, President Trump has transformed America from the defender of international law into its violator.
 We have become the aggressor we condemn.
 We are now doing exactly what Putin did in Ukraine - what we've spent billions opposing.
-We Are Now What We Claim to Fight
-- We condemned Russia for invading Ukraine - now we've done the same
-- We sanctioned Russia for seizing territory - now we're seizing oil
-- We called Putin a war criminal - now Trump is acting like Putin
-- The entire world condemns us - Brazil, Colombia, Chile, EU, even UK distancing itself
-Consequence:
-- Every dictator can now point to America and justify their aggression
-- China can cite this for Taiwan
-- Russia can cite this for Ukraine
-- We've destroyed our moral authority for oil or for the imperial dreams of a morally corrupt individual
-One Man Cannot Wage War for Oil
-- Article I, Section 8: Congress alone has power to declare war
-- Trump didn't ask Congress - didn't even tell congressional leaders
-- House Minority Leader: No advance notice
-- House Armed Services Committee: Not briefed
-- Rubio and Hegseth lied to Congress - said Venezuelan actions were not about regime change
-We Wrote These Laws - Now We're Breaking
-- UN Charter prohibits force except: (1) UN Security Council authorization, or (2) Self-defense
-- Neither applies
-- UN experts: This is "illegal aggression"
-- We created the UN to prevent powerful nations invading weaker ones for resources
-- Now we've torn up our own rulebook.
+We Are Now What We Claim to Fight We condemned Russia for invading Ukraine - now we've done the same We sanctioned Russia for seizing territory - now we're seizing oil We called Putin a war criminal - now Trump is acting like Putin The entire world condemns us - Brazil, Colombia, Chile, EU, even UK distancing itself Consequence: Every dictator can now point to America and justify their aggression China can cite this for Taiwan Russia can cite this for Ukraine We've destroyed our moral authority for oil or for the imperial dreams of a morally corrupt individual One Man Cannot Wage War for Oil Article I, Section 8: Congress alone has power to declare war Trump didn't ask Congress - didn't even tell congressional leaders House Minority Leader: No advance notice House Armed Services Committee: Not briefed Rubio and Hegseth lied to Congress - said Venezuelan actions were not about regime change We Wrote These Laws - Now We're Breaking UN Charter prohibits force except: (1) UN Security Council authorization, or (2) Self-defense Neither applies UN experts: This is "illegal aggression" We created the UN to prevent powerful nations invading weaker ones for resources Now we've torn up our own rulebook.
 For oil.
-This Is About Resources, Not Drugs
-- Venezuela has world's largest oil reserves - 303.8 billion barrels (more than Saudi Arabia)
-- $1.36 trillion in minerals - rare earths, lithium, coltan, uranium
-- Critical for technology, defense, breaking China's monopoly
-Trump's Confession:
-- December 16, 2025: Demanded Venezuela "return oil, land, and assets"
-- January 3, 2026: US will be "strongly involved" in oil industry
-- Official policy: Military can be used for resource access
-- Trump is bragging about now controlling Venezuela's oil.
-Every Justification Is a Lie
-- Venezuela does NOT produce fentanyl (New York Times confirmed)
-- Venezuela is NOT a major drug source (Politifact confirmed)
-- No seized drugs ever shown despite 110+ killed in boat strikes
-- Maduro does NOT control Tren de Aragua gang (NPR/US intelligence)
-- "Cartel de los Soles" doesn't even exist (CNN)
-Bottom line: They're lying about drugs to hide an oil war
+This Is About Resources, Not Drugs Venezuela has world's largest oil reserves - 303.8 billion barrels (more than Saudi Arabia) $1.36 trillion in minerals - rare earths, lithium, coltan, uranium Critical for technology, defense, breaking China's monopoly Trump's Confession: December 16, 2025: Demanded Venezuela "return oil, land, and assets" January 3, 2026: US will be "strongly involved" in oil industry Official policy: Military can be used for resource access Trump is bragging about now controlling Venezuela's oil.
+Every Justification Is a Lie Venezuela does NOT produce fentanyl (New York Times confirmed) Venezuela is NOT a major drug source (Politifact confirmed) No seized drugs ever shown despite 110+ killed in boat strikes Maduro does NOT control Tren de Aragua gang (NPR/US intelligence) "Cartel de los Soles" doesn't even exist (CNN) Bottom line: They're lying about drugs to hide an oil war Donate About News Events Issues Endorsements Media Volunteer Please mail checks to: John Vincent for Congress P.O.
+Box 31043, Myrtle Beach, SC 29588 To contact us, email info@VincentForCongress.com 843-300-9234 HOME ABOUT ISSUES STORE MEDIA John Vincent is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by any branch of the U.S. government.
+Paid for by John Vincent for Congress You need to enable JavaScript to run this app.

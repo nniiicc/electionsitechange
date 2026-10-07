@@ -1,12 +1,54 @@
 [
-"http://eepurl.com/gV9Hgn",
-"https://facebook.com/SenBobbyJoeChampion?mibextid=LQQJ4d",
-"https://instagram.com/bobbyjoechampion",
-"https://secure.actblue.com/donate/bobbyjoe59",
-"https://sos.state.mn.us/elections-voting/register-to-vote",
-"https://thechampion4change.com/",
-"https://thechampion4change.com/about",
-"https://thechampion4change.com/issues",
-"https://thechampion4change.com/volunteer",
-"https://x.com/SenatorChampion"
+{
+"text": "ABOUT",
+"href": "https://www.thechampion4change.com/about"
+},
+{
+"text": "Click here",
+"href": "http://eepurl.com/gV9Hgn"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bobbyjoe59"
+},
+{
+"text": "ISSUES",
+"href": "https://www.thechampion4change.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.thechampion4change.com/volunteer"
+},
+{
+"text": "WELCOME",
+"href": "https://www.thechampion4change.com"
+},
+{
+"text": "[image: 442476050_833726395237187_105103949459924597_n.jpg]",
+"href": "https://www.thechampion4change.com/issues"
+},
+{
+"text": "[image: 450508215_1182363039578163_6313095336139266993_n.jpg]",
+"href": "https://www.thechampion4change.com"
+},
+{
+"text": "[image: IMG_5916.jpg]",
+"href": "https://www.thechampion4change.com/about"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/SenBobbyJoeChampion?mibextid=LQQJ4d"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/bobbyjoechampion/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/SenatorChampion"
+},
+{
+"text": "click here",
+"href": "https://www.sos.state.mn.us/elections-voting/register-to-vote/"
+}
 ]

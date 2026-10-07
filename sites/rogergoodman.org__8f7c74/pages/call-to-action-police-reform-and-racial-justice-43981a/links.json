@@ -1,49 +1,214 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=1054&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1064&Year=2019&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=1310&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1412&Year=2021&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5051&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5066&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=5259&Initiative=false&Year=2021",
-"https://chronline.com/stories/lewis-county-sheriff-speaks-out-against-new-police-reform-laws,271298",
-"https://crosscut.com/politics/2021/11/wa-lawmakers-want-new-police-decertification-law-apply-past-misconduct",
-"https://crosscut.com/politics/2022/03/new-wa-police-accountability-law-can-now-include-past-misconduct",
-"https://facebook.com/GoodmanCampaign",
-"https://invw.org/2022/04/23/where-you-live-in-washington-may-determine-whether-you-get-stuck-in-jail-before-trial",
-"https://keprtv.com/news/local/democratic-lawmaker-wants-to-fix-glitch-in-new-police-reform-laws",
-"https://king5.com/article/news/politics/in-session/in-session-police-pursuit-public-safety-bills/281-a054a280-8bad-483b-aff1-a5f05fae0223",
-"https://kiro7.com/news/local/police-use-of-force-bill-clears-state-house/NJXOX4TYGBACXJZMVTM2SI2U2I",
-"https://komonews.com/news/local/confusion-over-police-reform-law-continues-as-recent-call-in-kent-shows",
-"https://komonews.com/news/local/state-training-commission-adjusting-to-new-demands-from-police-accountability-laws",
-"https://komonews.com/news/operation-crime-justice/confusion-over-states-new-police-reform-laws-continues-for-some-law-enforcement-agencies",
-"https://komonews.com/news/politics/state-lawmakers-mull-changes-to-police-reform-law-that-some-say-has-hindered-response",
-"https://komonews.com/newsletters-deprecated/legislative-committee-approves-changes-to-police-reform-law-with-bi-partisan-support",
-"https://kuow.org/stories/wa-lawmakers-may-restore-police-power-to-use-for",
-"https://nwpb.org/2022/05/27/see-ya-washington-police-say-drivers-arent-stopping-for-them-cite-pursuit-restrictions",
-"https://ptleader.com/stories/police-restraint-gets-clarification-in-house-bill,80453",
-"https://rogergoodman.org/",
-"https://rogergoodman.org/about-roger",
-"https://rogergoodman.org/add-me-to-the-mailing-list",
-"https://rogergoodman.org/awards",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice/2",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice/3",
-"https://rogergoodman.org/contact2",
-"https://rogergoodman.org/endorse-roger",
-"https://rogergoodman.org/endorsements",
-"https://rogergoodman.org/gallery",
-"https://rogergoodman.org/legislation-2",
-"https://rogergoodman.org/new-media",
-"https://rogergoodman.org/volunteer",
-"https://ruckelshauscenter.wsu.edu/meetings-and-materials-criminal-sentencing-task-force",
-"https://seattletimes.com/opinion/lift-the-burden-of-legal-fines-and-fees",
-"https://seattletimes.com/seattle-news/politics/inslee-democrats-eye-fixes-to-long-term-care-policing-laws-transportation-budget-in-washingtons-legislative-session",
-"https://secure.actblue.com/donate/friends-of-roger-goodman-1",
-"https://theolympian.com/news/state/washington/article253289628.html",
-"https://thestranger.com/news/2022/12/20/78776894/state-legislature-could-finally-fix-nonsensical-sentencing-guidelines",
-"https://thestranger.com/news/2023/01/20/78822229/cops-want-to-endanger-innocent-lives-by-making-car-chases-easier",
-"https://youtube.com/watch?v=q5VDgWbCkV0"
+{
+"text": "Awards",
+"href": "https://www.rogergoodman.org/awards/"
+},
+{
+"text": "Confusion over police reform law continues as recent response call in Kent shows",
+"href": "https://komonews.com/news/local/confusion-over-police-reform-law-continues-as-recent-call-in-kent-shows"
+},
+{
+"text": "Confusion over state’s new police reform laws continues for some law enforcement agencies",
+"href": "https://komonews.com/news/operation-crime-justice/confusion-over-states-new-police-reform-laws-continues-for-some-law-enforcement-agencies"
+},
+{
+"text": "Contact",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Contact Roger",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Cops Want to Endanger Innocent Lives by Making Car Chases Easier",
+"href": "https://www.thestranger.com/news/2023/01/20/78822229/cops-want-to-endanger-innocent-lives-by-making-car-chases-easier"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-roger-goodman-1"
+},
+{
+"text": "Endorse Roger",
+"href": "https://www.rogergoodman.org/endorse-roger/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rogergoodman.org/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/GoodmanCampaign/"
+},
+{
+"text": "HB 2037",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021"
+},
+{
+"text": "Home",
+"href": "https://www.rogergoodman.org/"
+},
+{
+"text": "House Bill 1412",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1412&Year=2021&Initiative=False"
+},
+{
+"text": "House Bill 1735",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021"
+},
+{
+"text": "House Bill 2037",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021"
+},
+{
+"text": "Justice Reform",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/"
+},
+{
+"text": "Lawmaker wants to fix glitch in new police reform laws",
+"href": "https://keprtv.com/news/local/democratic-lawmaker-wants-to-fix-glitch-in-new-police-reform-laws"
+},
+{
+"text": "League of Women Voters Forum on Police De-escalation and Use of Force",
+"href": "https://www.youtube.com/watch?v=q5VDgWbCkV0"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.rogergoodman.org/legislation-2/"
+},
+{
+"text": "Lewis County Sheriff Speaks Out Against New Police Reform Laws",
+"href": "https://www.chronline.com/stories/lewis-county-sheriff-speaks-out-against-new-police-reform-laws,271298"
+},
+{
+"text": "Lift the Burden of Legal Fines and Fees",
+"href": "https://www.seattletimes.com/opinion/lift-the-burden-of-legal-fines-and-fees/"
+},
+{
+"text": "Mailing List",
+"href": "https://www.rogergoodman.org/add-me-to-the-mailing-list/"
+},
+{
+"text": "Media",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Meet Roger",
+"href": "https://www.rogergoodman.org/about-roger/"
+},
+{
+"text": "New WA police accountability law can now include past misconduct",
+"href": "https://crosscut.com/politics/2022/03/new-wa-police-accountability-law-can-now-include-past-misconduct"
+},
+{
+"text": "News",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Page2",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/2/"
+},
+{
+"text": "Page3",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/3/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.rogergoodman.org/gallery/"
+},
+{
+"text": "Police Restraint Clarified in House Bill",
+"href": "https://www.ptleader.com/stories/police-restraint-gets-clarification-in-house-bill,80453"
+},
+{
+"text": "Police Use-of-Force Bill Clears State House",
+"href": "https://www.kiro7.com/news/local/police-use-of-force-bill-clears-state-house/NJXOX4TYGBACXJZMVTM2SI2U2I/"
+},
+{
+"text": "Police should respond to mental health calls, AG says",
+"href": "https://www.theolympian.com/news/state/washington/article253289628.html"
+},
+{
+"text": "See Ya! Washington Police Say Drivers Aren’t Stopping For Them; Cite Pursuit Restrictions",
+"href": "https://www.nwpb.org/2022/05/27/see-ya-washington-police-say-drivers-arent-stopping-for-them-cite-pursuit-restrictions/"
+},
+{
+"text": "Solid Data is Needed to Resolve Issues With the “Car Chase Bill”",
+"href": "https://www.king5.com/article/news/politics/in-session/in-session-police-pursuit-public-safety-bills/281-a054a280-8bad-483b-aff1-a5f05fae0223"
+},
+{
+"text": "State Legislature Could Finally Fix Nonsensical Sentencing Guidelines",
+"href": "https://www.thestranger.com/news/2022/12/20/78776894/state-legislature-could-finally-fix-nonsensical-sentencing-guidelines/"
+},
+{
+"text": "State lawmakers mull changes to police reform laws",
+"href": "https://komonews.com/news/politics/state-lawmakers-mull-changes-to-police-reform-law-that-some-say-has-hindered-response"
+},
+{
+"text": "State training commission adjusting to new demands from police accountability laws",
+"href": "https://komonews.com/news/local/state-training-commission-adjusting-to-new-demands-from-police-accountability-laws"
+},
+{
+"text": "The Washington Legislature will tackle some of the biggest issues in your life starting Monday",
+"href": "https://www.seattletimes.com/seattle-news/politics/inslee-democrats-eye-fixes-to-long-term-care-policing-laws-transportation-budget-in-washingtons-legislative-session/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rogergoodman.org/volunteer/"
+},
+{
+"text": "WA lawmakers want new police decertification law to apply to past misconduct",
+"href": "https://crosscut.com/politics/2021/11/wa-lawmakers-want-new-police-decertification-law-apply-past-misconduct"
+},
+{
+"text": "WA police may regain authority to use force to stop people fleeing crime scene",
+"href": "https://kuow.org/stories/wa-lawmakers-may-restore-police-power-to-use-for"
+},
+{
+"text": "Washington State Criminal Sentencing Task Force",
+"href": "https://ruckelshauscenter.wsu.edu/meetings-and-materials-criminal-sentencing-task-force/"
+},
+{
+"text": "Washington state legislators take up police reform measures — again",
+"href": "https://komonews.com/newsletters-deprecated/legislative-committee-approves-changes-to-police-reform-law-with-bi-partisan-support"
+},
+{
+"text": "Where you live in Washington may determine whether you get stuck in jail before trial",
+"href": "https://www.invw.org/2022/04/23/where-you-live-in-washington-may-determine-whether-you-get-stuck-in-jail-before-trial/"
+},
+{
+"text": "[image: cropped-SignLogo.png]",
+"href": "https://www.rogergoodman.org"
+},
+{
+"text": "addressing questionable police tactics",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1054&Initiative=false&Year=2021"
+},
+{
+"text": "imposed new duties on police",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5066&Initiative=false&Year=2021"
+},
+{
+"text": "measures",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1064&Year=2019&Initiative=false"
+},
+{
+"text": "prevent criminal suspects from fleeing a crime scene.",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2037&Initiative=false&Year=2021"
+},
+{
+"text": "respond effectively to mental health crisis calls",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1735&Initiative=false&Year=2021"
+},
+{
+"text": "state’s ability to sanction and decertify police",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Initiative=false&Year=2021"
+},
+{
+"text": "transparency measures",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5259&Initiative=false&Year=2021"
+},
+{
+"text": "uniform standard limiting police use of force",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1310&Initiative=false&Year=2021"
+}
 ]

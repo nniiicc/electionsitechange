@@ -1,6 +1,38 @@
 [
-"http://victoryenterprises.com/",
-"https://facebook.com/JenniferSmithForIowa",
-"https://secure.winred.com/smith-for-iowa/donate-today",
-"https://smithforiowa.com/"
+{
+"text": "About",
+"href": "https://www.smithforiowa.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.smithforiowa.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/smith-for-iowa/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://www.smithforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.smithforiowa.com/#volunteer"
+},
+{
+"text": "[image: Victory Enterprses]",
+"href": "http://www.victoryenterprises.com"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/JenniferSmithForIowa/"
+},
+{
+"text": "https://www.facebook.com/JenniferSmithForIowa/",
+"href": "https://www.facebook.com/JenniferSmithForIowa/"
+},
+{
+"text": "jennifer@SmithForIowa.com",
+"href": "mailto:jennifer@SmithForIowa.com"
+}
 ]

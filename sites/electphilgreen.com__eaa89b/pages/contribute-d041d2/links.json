@@ -1,13 +1,50 @@
 [
-"http://inspirationwebworks.com/",
-"https://electphilgreen.com/",
-"https://electphilgreen.com/about",
-"https://electphilgreen.com/contact",
-"https://electphilgreen.com/contribute",
-"https://electphilgreen.com/endorse",
-"https://electphilgreen.com/endorsements",
-"https://electphilgreen.com/privacy-policy",
-"https://electphilgreen.com/volunteer",
-"https://electphilgreen.com/wp-content/uploads/2023/12/3.jpg",
-"https://secure.winred.com/friends-of-phil-green/donate-today"
+{
+"text": "About Phil Green",
+"href": "https://www.electphilgreen.com/about/"
+},
+{
+"text": "Click here to donate online using your credit card.",
+"href": "https://secure.winred.com/friends-of-phil-green/donate-today"
+},
+{
+"text": "Contact",
+"href": "https://www.electphilgreen.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.electphilgreen.com/contribute/"
+},
+{
+"text": "Endorse",
+"href": "https://www.electphilgreen.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electphilgreen.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.electphilgreen.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electphilgreen.com/volunteer/"
+},
+{
+"text": "[image: Elect Phil Green State Representative]",
+"href": "https://www.electphilgreen.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.inspirationwebworks.com"
+},
+{
+"text": "[image]",
+"href": "https://www.electphilgreen.com/wp-content/uploads/2023/12/3.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.electphilgreen.com/privacy-policy/"
+}
 ]

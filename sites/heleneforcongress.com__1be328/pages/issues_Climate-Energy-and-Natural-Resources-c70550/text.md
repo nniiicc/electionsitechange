@@ -1,12 +1,6 @@
-Climate, Energy, and Natural Resources
-Climate and weather patterns are changing, and North Dakota farmers, ranchers, and communities are already experiencing the impacts through drought, flooding, and shifting growing conditions.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Home ❭ Issues ❭ Climate, Energy, and Natural Resources Climate, Energy, and Natural Resources Climate and weather patterns are changing, and North Dakota farmers, ranchers, and communities are already experiencing the impacts through drought, flooding, and shifting growing conditions.
 These changes affect agriculture, infrastructure, and rural economies.
-We need practical, balanced solutions that:
-- Support responsible energy development
-- Encourage innovation and new technologies
-- Protect water, land, and natural resources
-- Strengthening rural resilience and infrastructure
-Energy independence, environmental stewardship, and economic growth can go hand in hand.
+We need practical, balanced solutions that: Support responsible energy development Encourage innovation and new technologies Protect water, land, and natural resources Strengthening rural resilience and infrastructure Energy independence, environmental stewardship, and economic growth can go hand in hand.
 North Dakota can lead with responsible development, innovation, and common-sense solutions.
 Protecting our natural resources today helps ensure strong communities, strong agriculture, and a strong economy for future generations.
 Climate change is not simply an environmental issue.
@@ -16,4 +10,4 @@ Following the Great Flood of 1993 in Iowa, I worked with the Federal Emergency M
 Natural disasters do not end when the floodwaters recede.
 Contaminated water, damaged infrastructure, environmental hazards, and communicable diseases can continue affecting communities long after the initial event.
 That experience taught me the importance of preparedness, resilient infrastructure, clean water systems, strong public health agencies, and science-based decision-making.
-As climate patterns continue to change, we must ensure that our communities, farmers, and emergency response systems are prepared for whatever challenges lie ahead.
+As climate patterns continue to change, we must ensure that our communities, farmers, and emergency response systems are prepared for whatever challenges lie ahead. « Previous: Childcare and Working Families Next: Democracy and the Right to Participate » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

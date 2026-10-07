@@ -1,1 +1,2 @@
-Meet Darren Croft and Kathleen Anderson Kathleen is a candidate for Salt Lake County Council At Large When: August 17, 6-8pm Where: Whitmore Library, Downstairs
+Skip to content Menu Menu Home Top 3 About Issues Endorsements News Contact Contribute News Item Posted August 13, 2026 Meet Darren Croft and Kathleen Anderson Kathleen is a candidate for Salt Lake County Council At Large When: August 17, 6-8pm Where: Whitmore Library, Downstairs Categories News Neighborhood Meet and Greet Campaign Events Leave a Comment Cancel reply Comment Name Email Website Save my name, email, and website in this browser for the next time I comment.
+District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

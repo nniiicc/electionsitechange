@@ -1,13 +1,54 @@
 [
-"http://instagram.com/carrieforidaho",
-"https://carrieforidaho.com/",
-"https://carrieforidaho.com/cart",
-"https://carrieforidaho.com/contact",
-"https://carrieforidaho.com/educationstation",
-"https://carrieforidaho.com/newsletter",
-"https://carrieforidaho.com/sharestory",
-"https://carrieforidaho.com/volunteer",
-"https://donate.fundhero.io/carrie-for-idaho",
-"https://facebook.com/CarrieforIdaho",
-"https://twitter.com/CarrieforIdaho"
+{
+"text": "0",
+"href": "https://www.carrieforidaho.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://carrieforidaho.com#about-me"
+},
+{
+"text": "Contact Me",
+"href": "https://www.carrieforidaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.fundhero.io/carrie-for-idaho"
+},
+{
+"text": "Education Station",
+"href": "https://www.carrieforidaho.com/educationstation"
+},
+{
+"text": "Newsletter",
+"href": "https://www.carrieforidaho.com/newsletter"
+},
+{
+"text": "Send me a message.",
+"href": "https://www.carrieforidaho.com/contact"
+},
+{
+"text": "Share Your Story",
+"href": "https://www.carrieforidaho.com/sharestory"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carrieforidaho.com/volunteer"
+},
+{
+"text": "[image: Carrie for Idaho]",
+"href": "https://www.carrieforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/carrieforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/CarrieforIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarrieforIdaho/"
+}
 ]

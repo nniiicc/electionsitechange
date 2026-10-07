@@ -1,113 +1,458 @@
 [
-"http://adventisthealthcare.com/locations/shady-grove-medical-center",
-"http://baltimoresun.com/",
-"http://cherylkagan.org/in-the-news",
-"http://cherylkagan.org/ng911",
-"http://cmrocks.org/",
-"http://dctrolley.org/",
-"http://dhr.maryland.gov/office-of-home-energy-programs",
-"http://dhs.maryland.gov/weathering-tough-times/medical-assistance",
-"http://donatelifemaryland.org/",
-"http://elections.state.md.us/voter_registration",
-"http://eltiempolatino.com/",
-"http://gaithersburgmd.gov/",
-"http://gaithersburgrotary.org/",
-"http://ggchamber.org/",
-"http://governor.maryland.gov/",
-"http://holycrosshealth.org/",
-"http://hopkinsmedicine.org/suburban_hospital",
-"http://iworksmc.org/",
-"http://kentlandsmarketsquare.com/",
-"http://maryland.gov/",
-"http://marylandreporter.com/",
-"http://mccaedu.org/",
-"http://mcch.net/",
-"http://mdelect.net/",
-"http://mgaleg.maryland.gov/mgawebsite/Members/Details/kagan01",
-"http://mgaleg.maryland.gov/mgawebsite/Members/Details/palakovich01",
-"http://mncppc.org/",
-"http://montgomerycountymd.gov/index.aspx",
-"http://montgomerycountymd.gov/library",
-"http://montgomerycountymd.gov/rec",
-"http://montgomerycountymd.gov/rec/thingstodo/aquatics/index.html",
-"http://montgomerycountymd.gov/rec/thingstodo/camps/index.html",
-"http://montgomerycountymd.gov/rec/thingstodo/senior/index.html",
-"http://montgomeryschoolsmd.org/",
-"http://msa.md.gov/msa/mdmanual/07leg/html/proc.html",
-"http://oag.state.md.us/",
-"http://rockvillechamber.org/",
-"http://rockvillemd.gov/",
-"http://rockvillemd.gov/Facilities",
-"http://rockvillerotary.org/",
-"http://rrpfi.org/",
-"http://shadygrove.umd.edu/",
-"http://steppingstonesshelter.org/",
-"http://theseventhstate.com/",
-"http://usa.gov/",
-"http://washingtonpost.com/",
-"http://yfs.ymcadc.org/",
-"https://adventuretheatre-mtc.org/",
-"https://alsobrooks.senate.gov/",
-"https://blackrockcenter.org/",
-"https://centermaryland.org/",
-"https://cherylkagan.org/",
-"https://cherylkagan.org/about",
-"https://cherylkagan.org/bio",
-"https://cherylkagan.org/casework",
-"https://cherylkagan.org/community-resources",
-"https://cherylkagan.org/community-updates",
-"https://cherylkagan.org/constituent-services",
-"https://cherylkagan.org/contact",
-"https://cherylkagan.org/email-sign-up",
-"https://cherylkagan.org/human-resources-links",
-"https://cherylkagan.org/jobs",
-"https://cherylkagan.org/legislative-overview",
-"https://cherylkagan.org/press-releases",
-"https://cherylkagan.org/senatorial-scholarships",
-"https://dbm.maryland.gov/jobseekers/pages/veteransjobs.aspx",
-"https://facebook.com/CherylCKagan",
-"https://facebook.com/FitzgeraldTheatreRockville",
-"https://facebook.com/thepuppetco",
-"https://gaithersburgbookfestival.org/",
-"https://gaithersburgmd.gov/about-us/city-facilities/casey-community-center",
-"https://gaithersburgmd.gov/recreation/farmers-markets",
-"https://gaithersburgmd.gov/recreation/parks-fields",
-"https://ggwash.org/",
-"https://glenechopark.org/",
-"https://glenstone.org/",
-"https://health.maryland.gov/Pages/contactus.aspx",
-"https://instagram.com/cherylckagan",
-"https://marylandhealthconnection.gov/",
-"https://marylandhomeownership.com/a-helping-hand-maryland-announces-significant-new-housing-support",
-"https://marylandmatters.org/",
-"https://marylandtaxes.gov/",
-"https://mcccmd.com/",
-"https://mcclaindelaney.house.gov/",
-"https://mdelectricchoice.com/",
-"https://mgaleg.maryland.gov/mgawebsite",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/spiegel01",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/vogel01",
-"https://moco360.media/",
-"https://mocoshow.com/",
-"https://montgomerycollege.edu/",
-"https://montgomerycountymd.gov/montgomery-county-recreation/activities-programs/classes",
-"https://montgomerycountymd.gov/montgomery-county-recreation/activities-programs/trips-tours",
-"https://montgomeryparks.org/parks-and-trails/woodlawn-manor-cultural-park/underground-railroad-experience-trail",
-"https://montgomeryperspective.com/",
-"https://olneytheatre.org/",
-"https://raskin.house.gov/",
-"https://rockvillemd.gov/places/thomas-farm-community-center",
-"https://rockvillemd.gov/services/rockville-farmers-market",
-"https://roundhousetheatre.org/",
-"https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan",
-"https://strathmore.org/",
-"https://thebaltimorebanner.com/",
-"https://twitter.com/CherylKagan",
-"https://vanhollen.senate.gov/",
-"https://visartscenter.org/",
-"https://visitmontgomery.com/events/shady-grove-farmers-market",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://writer.org/",
-"https://wtop.com/",
-"https://youtube.com/@SenCherylKagan"
+{
+"text": "9-1-1",
+"href": "http://cherylkagan.org/ng911/"
+},
+{
+"text": "About",
+"href": "https://cherylkagan.org/bio"
+},
+{
+"text": "Adventist Health Care Shady Grove Center",
+"href": "http://www.adventisthealthcare.com/locations/shady-grove-medical-center/"
+},
+{
+"text": "Adventure Theatre MTC",
+"href": "https://www.adventuretheatre-mtc.org/"
+},
+{
+"text": "Aquatics",
+"href": "http://www.montgomerycountymd.gov/rec/thingstodo/aquatics/index.html"
+},
+{
+"text": "Baltimore Banner",
+"href": "https://www.thebaltimorebanner.com/"
+},
+{
+"text": "Baltimore Sun",
+"href": "http://www.baltimoresun.com/"
+},
+{
+"text": "Bethesda Today (Bethesda Magazine)",
+"href": "https://moco360.media/"
+},
+{
+"text": "Biography",
+"href": "https://cherylkagan.org/about/"
+},
+{
+"text": "Blackrock Center for the Arts",
+"href": "https://www.blackrockcenter.org/"
+},
+{
+"text": "Camps",
+"href": "http://www.montgomerycountymd.gov/rec/thingstodo/camps/index.html"
+},
+{
+"text": "Casey Community Center",
+"href": "https://www.gaithersburgmd.gov/about-us/city-facilities/casey-community-center"
+},
+{
+"text": "Center Maryland",
+"href": "https://centermaryland.org/"
+},
+{
+"text": "Choosing an Energy Provider",
+"href": "https://www.mdelectricchoice.com/"
+},
+{
+"text": "City of Gaithersburg Government",
+"href": "http://gaithersburgmd.gov/"
+},
+{
+"text": "City of Rockville Government",
+"href": "http://www.rockvillemd.gov/"
+},
+{
+"text": "Classes",
+"href": "https://www.montgomerycountymd.gov/montgomery-county-recreation/activities-programs/classes"
+},
+{
+"text": "Community Reach of Montgomery County (Formerly Community Ministries of Rockville)",
+"href": "http://www.cmrocks.org/"
+},
+{
+"text": "Community Resources",
+"href": "https://cherylkagan.org/community-resources/"
+},
+{
+"text": "Community Updates",
+"href": "https://cherylkagan.org/community-updates/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan"
+},
+{
+"text": "Del. Joe Vogel",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/vogel01"
+},
+{
+"text": "Del. Julie Palakovich Carr",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Members/Details/palakovich01"
+},
+{
+"text": "Del. Ryan Spiegel",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/spiegel01"
+},
+{
+"text": "District 17 Casework Portal",
+"href": "https://cherylkagan.org/casework/"
+},
+{
+"text": "Donate Life Maryland",
+"href": "http://www.donatelifemaryland.org/"
+},
+{
+"text": "El Tiempo Latino",
+"href": "http://eltiempolatino.com/"
+},
+{
+"text": "Email Sign Up",
+"href": "https://cherylkagan.org/email-sign-up/"
+},
+{
+"text": "Energy Assistance",
+"href": "http://dhr.maryland.gov/office-of-home-energy-programs/"
+},
+{
+"text": "F. Scott Fitzgerald Theatre",
+"href": "https://www.facebook.com/FitzgeraldTheatreRockville/"
+},
+{
+"text": "Federal Government",
+"href": "http://www.usa.gov/"
+},
+{
+"text": "Find your Elected Officials",
+"href": "http://www.mdelect.net/"
+},
+{
+"text": "Gaithersburg Book Festival",
+"href": "https://www.gaithersburgbookfestival.org/"
+},
+{
+"text": "Gaithersburg Farmers Market",
+"href": "https://www.gaithersburgmd.gov/recreation/farmers-markets"
+},
+{
+"text": "Gaithersburg Parks and Facilities",
+"href": "https://www.gaithersburgmd.gov/recreation/parks-fields"
+},
+{
+"text": "Gaithersburg Rotary Club",
+"href": "http://www.gaithersburgrotary.org/"
+},
+{
+"text": "Gaithersburg-Germantown Chamber of Commerce",
+"href": "http://www.ggchamber.org/"
+},
+{
+"text": "Glen Echo Park",
+"href": "https://glenechopark.org/"
+},
+{
+"text": "Glenstone Museum",
+"href": "https://www.glenstone.org/"
+},
+{
+"text": "Greater Greater Washington",
+"href": "https://ggwash.org/"
+},
+{
+"text": "Holy Cross Health Center",
+"href": "http://www.holycrosshealth.org/"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org/"
+},
+{
+"text": "How a Bill Becomes a Law",
+"href": "http://www.msa.md.gov/msa/mdmanual/07leg/html/proc.html"
+},
+{
+"text": "Human Resources Links",
+"href": "https://cherylkagan.org/human-resources-links/"
+},
+{
+"text": "Interfaith Works",
+"href": "http://www.iworksmc.org/"
+},
+{
+"text": "Job Descriptions",
+"href": "https://cherylkagan.org/jobs/"
+},
+{
+"text": "Kagan in the News",
+"href": "http://cherylkagan.org/in-the-news/"
+},
+{
+"text": "Kentlands Market Square",
+"href": "http://kentlandsmarketsquare.com/"
+},
+{
+"text": "Legislative Session Overviews",
+"href": "https://cherylkagan.org/legislative-overview/"
+},
+{
+"text": "Maryland General Assembly",
+"href": "https://mgaleg.maryland.gov/mgawebsite"
+},
+{
+"text": "Maryland Health Connection",
+"href": "https://www.marylandhealthconnection.gov/"
+},
+{
+"text": "Maryland Health Department",
+"href": "https://health.maryland.gov/Pages/contactus.aspx"
+},
+{
+"text": "Maryland Homeowner Assistance Fund",
+"href": "https://www.marylandhomeownership.com/a-helping-hand-maryland-announces-significant-new-housing-support/"
+},
+{
+"text": "Maryland Matters",
+"href": "https://www.marylandmatters.org/"
+},
+{
+"text": "Maryland Medical Assistance Programs",
+"href": "http://dhs.maryland.gov/weathering-tough-times/medical-assistance/"
+},
+{
+"text": "Maryland National Capital Parks and Planning Commission",
+"href": "http://www.mncppc.org/"
+},
+{
+"text": "Maryland Reporter",
+"href": "http://marylandreporter.com/"
+},
+{
+"text": "Maryland State Government",
+"href": "http://www.maryland.gov/"
+},
+{
+"text": "Montgomery College",
+"href": "https://www.montgomerycollege.edu/"
+},
+{
+"text": "Montgomery County Chamber of Commerce",
+"href": "https://www.mcccmd.com/"
+},
+{
+"text": "Montgomery County Child Care Association",
+"href": "http://www.mccaedu.org/"
+},
+{
+"text": "Montgomery County Coalition for the Homeless",
+"href": "http://www.mcch.net/"
+},
+{
+"text": "Montgomery County Government",
+"href": "http://www.montgomerycountymd.gov/index.aspx"
+},
+{
+"text": "Montgomery County Public Library",
+"href": "http://www.montgomerycountymd.gov/library/"
+},
+{
+"text": "Montgomery County Public Schools",
+"href": "http://www.montgomeryschoolsmd.org/"
+},
+{
+"text": "Montgomery County Recreation and Parks",
+"href": "http://www.montgomerycountymd.gov/rec/"
+},
+{
+"text": "Montgomery Perspective",
+"href": "https://montgomeryperspective.com/"
+},
+{
+"text": "National Capital Trolley Museum",
+"href": "http://dctrolley.org/"
+},
+{
+"text": "Office of the Attorney General",
+"href": "http://www.oag.state.md.us/"
+},
+{
+"text": "Office of the Comptroller",
+"href": "https://www.marylandtaxes.gov/"
+},
+{
+"text": "Office of the Governor",
+"href": "http://www.governor.maryland.gov/"
+},
+{
+"text": "Olney Theatre",
+"href": "https://www.olneytheatre.org/"
+},
+{
+"text": "Press Releases",
+"href": "https://cherylkagan.org/press-releases/"
+},
+{
+"text": "Register to Vote",
+"href": "http://www.elections.state.md.us/voter_registration/"
+},
+{
+"text": "Rep. April McClain Delaney",
+"href": "https://mcclaindelaney.house.gov/"
+},
+{
+"text": "Rep. Jamie Raskin",
+"href": "https://raskin.house.gov/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Rockville Chamber of Commerce",
+"href": "http://www.rockvillechamber.org/"
+},
+{
+"text": "Rockville Farmers Market",
+"href": "https://www.rockvillemd.gov/services/rockville-farmers-market/"
+},
+{
+"text": "Rockville Parks and Facilities",
+"href": "http://www.rockvillemd.gov/Facilities"
+},
+{
+"text": "Rockville Recreation and Parks Foundation",
+"href": "http://www.rrpfi.org/"
+},
+{
+"text": "Rockville Rotary Club",
+"href": "http://www.rockvillerotary.org/"
+},
+{
+"text": "Round House Theatre",
+"href": "https://www.roundhousetheatre.org/"
+},
+{
+"text": "Scholarships",
+"href": "https://cherylkagan.org/senatorial-scholarships/"
+},
+{
+"text": "Sen. Angela Alsobrooks",
+"href": "https://www.alsobrooks.senate.gov/"
+},
+{
+"text": "Sen. Cheryl Kagan",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Members/Details/kagan01"
+},
+{
+"text": "Sen. Chris Van Hollen",
+"href": "https://www.vanhollen.senate.gov/"
+},
+{
+"text": "Senior Programs",
+"href": "http://www.montgomerycountymd.gov/rec/thingstodo/senior/index.html"
+},
+{
+"text": "Services & Resources",
+"href": "https://cherylkagan.org/constituent-services/"
+},
+{
+"text": "Shady Grove Farmers Market",
+"href": "https://visitmontgomery.com/events/shady-grove-farmers-market/"
+},
+{
+"text": "Share Your Thoughts",
+"href": "https://cherylkagan.org/contact/"
+},
+{
+"text": "Stepping Stones Shelter",
+"href": "http://steppingstonesshelter.org/"
+},
+{
+"text": "Strathmore Hall",
+"href": "https://www.strathmore.org/"
+},
+{
+"text": "Suburban Hospital",
+"href": "http://www.hopkinsmedicine.org/suburban_hospital/"
+},
+{
+"text": "The MoCo Show",
+"href": "https://mocoshow.com/"
+},
+{
+"text": "The Puppet Co.",
+"href": "https://www.facebook.com/thepuppetco"
+},
+{
+"text": "The Seventh State",
+"href": "http://www.theseventhstate.com/"
+},
+{
+"text": "The Underground Railroad Experience Trail",
+"href": "https://montgomeryparks.org/parks-and-trails/woodlawn-manor-cultural-park/underground-railroad-experience-trail/"
+},
+{
+"text": "The Writer’s Center",
+"href": "https://www.writer.org/"
+},
+{
+"text": "Thomas Farm Community Center",
+"href": "https://www.rockvillemd.gov/places/thomas-farm-community-center/"
+},
+{
+"text": "Trips and Tours",
+"href": "https://www.montgomerycountymd.gov/montgomery-county-recreation/activities-programs/trips-tours"
+},
+{
+"text": "Universities at Shady Grove",
+"href": "http://www.shadygrove.umd.edu/"
+},
+{
+"text": "Veteran Job Opportunities",
+"href": "https://dbm.maryland.gov/jobseekers/pages/veteransjobs.aspx"
+},
+{
+"text": "VisArts Center",
+"href": "https://www.visartscenter.org/"
+},
+{
+"text": "WTOP",
+"href": "https://wtop.com/"
+},
+{
+"text": "Washington Post",
+"href": "http://washingtonpost.com/"
+},
+{
+"text": "YMCA Youth and Family Services",
+"href": "http://yfs.ymcadc.org/"
+},
+{
+"text": "[image] (410) 841-3134",
+"href": "tel:410-841-3134"
+},
+{
+"text": "[image] Cheryl.Kagan@senate.state.md.us",
+"href": "mailto:Cheryl.Kagan@senate.state.md.us"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/CherylCKagan"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/cherylckagan/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://twitter.com/CherylKagan"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "https://www.youtube.com/@SenCherylKagan"
+}
 ]

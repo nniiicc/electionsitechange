@@ -1,9 +1,34 @@
 [
-"http://andrewbolin.com/",
-"http://andrewbolin.com/cdn-cgi/l/email-protection",
-"http://andrewbolin.com/contact.html",
-"http://andrewbolin.com/district-map.html",
-"http://andrewbolin.com/q--a.html",
-"http://lpmo.org/platform",
-"https://weebly.com/signup"
+{
+"text": "Contact",
+"href": "http://www.andrewbolin.com/contact.html"
+},
+{
+"text": "District Map",
+"href": "http://www.andrewbolin.com/district-map.html"
+},
+{
+"text": "Home",
+"href": "http://www.andrewbolin.com/"
+},
+{
+"text": "LP MO Platform",
+"href": "http://lpmo.org/platform"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+},
+{
+"text": "Q & A",
+"href": "http://www.andrewbolin.com/q--a.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:voteforliberty@andrewbolin.com"
+},
+{
+"text": "[image: Andrew Bolin for State Rep (District 83)]",
+"href": "http://www.andrewbolin.com/"
+}
 ]

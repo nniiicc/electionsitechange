@@ -1,6 +1,22 @@
 [
-"https://jessicafornewyork.com/",
-"https://jessicafornewyork.com/copy-of-home-1",
-"https://jessicafornewyork.com/privacy",
-"https://secure.actblue.com/donate/jssdonation"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jssdonation"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jessicafornewyork.com"
+},
+{
+"text": "Privacy Policy & Terms and Conditions",
+"href": "https://www.jessicafornewyork.com/privacy"
+},
+{
+"text": "[image: Jessica 2024.png]",
+"href": "https://www.jessicafornewyork.com/copy-of-home-1"
+},
+{
+"text": "info@jessicafornewyork.com",
+"href": "mailto:info@jessicafornewyork.com"
+}
 ]

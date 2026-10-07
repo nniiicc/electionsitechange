@@ -1,8 +1,7 @@
-Volunteer
-TIME is by far the most precious commodity you can offer for this campaign.
+Meet Lynn Contribute Issues Volunteer Volunteer TIME is by far the most precious commodity you can offer for this campaign.
 If you are ready to roll up your sleeves, sign up below to volunteer!
 (By providing your phone number, you agree to receive informational text messages from LynnRamirez4SC should we choose to use this communication method.
 Message and data rates may apply.
 Message frequency varies.
 Reply HELP to request help or STOP to opt out of text messages.
-Also refer to the Privacy Policy)
+Also refer to the Privacy Policy ) First Name Last Name Email Phone Street Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I will distribute literature - door to door (Lit Drop) I would like to make a financial contribution Host a gathering at a house or other venue with guests to meet with Lynn Contact voters by phone about Lynn's campaign I will knock doors and talk with neighbors I would like a yard sign I would like to volunteer Please add me to your list of supporters I will help write postcards Submit Meet Lynn Issues Volunteer Events Contribute Yard Signs Contact Voter Information Privacy Policy Committee to Elect Lynn Ramirez LynnRamirez4SC Powered by CampaignPartner.com - Political Campaign Websites Meet Lynn Contribute Issues Volunteer Events Yard Signs Contact Voter Information Privacy Policy Close Menu

@@ -1,23 +1,98 @@
 [
-"https://facebook.com/LesterCforNY",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/Lester4NY",
-"https://lesterchang.com/",
-"https://lesterchang.com/contact",
-"https://lesterchang.com/endorsements",
-"https://lesterchang.com/i-stand-with-you-1",
-"https://lesterchang.com/m/account",
-"https://lesterchang.com/m/create-account",
-"https://lesterchang.com/m/login",
-"https://lesterchang.com/media-1",
-"https://lesterchang.com/meet-lester",
-"https://lesterchang.com/our-district",
-"https://lesterchang.com/volunteer",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/lester-4-ny-2026/donate",
-"https://vote.nyc/RequestBallot",
-"https://vote.nyc/page/find-your-poll-site",
-"https://x.com/AMLesterChangNY",
-"https://youtube.com/@lesterchangforny"
+{
+"text": "Contact",
+"href": "https://lesterchang.com/contact"
+},
+{
+"text": "Create Account",
+"href": "https://lesterchang.com/m/create-account"
+},
+{
+"text": "Donate to re-elect Lester Chang to the New York Assembly!",
+"href": "https://secure.anedot.com/lester-4-ny-2026/donate"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/lester-4-ny-2026/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://lesterchang.com/endorsements"
+},
+{
+"text": "Find Your Pollsite",
+"href": "https://vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "Home",
+"href": "https://lesterchang.com/"
+},
+{
+"text": "I Stand with You",
+"href": "https://lesterchang.com/i-stand-with-you-1"
+},
+{
+"text": "Media",
+"href": "https://lesterchang.com/media-1"
+},
+{
+"text": "Meet Lester",
+"href": "https://lesterchang.com/meet-lester"
+},
+{
+"text": "My Account",
+"href": "https://lesterchang.com/m/account"
+},
+{
+"text": "Our District",
+"href": "https://lesterchang.com/our-district"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://vote.nyc/RequestBallot"
+},
+{
+"text": "Sign In",
+"href": "https://lesterchang.com/m/account"
+},
+{
+"text": "Sign in",
+"href": "https://lesterchang.com/m/login"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://lesterchang.com/volunteer"
+},
+{
+"text": "[image: Lester Chang for NY]",
+"href": "https://lesterchang.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LesterCforNY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Lester4NY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/AMLesterChangNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@lesterchangforny"
+}
 ]

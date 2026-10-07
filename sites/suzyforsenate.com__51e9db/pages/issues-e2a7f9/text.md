@@ -1,4 +1,4 @@
-The Issues Learn about Suzy’s stance on the important issues in Illinois.
+Skip to content Home About Endorsements Issues The District Get Involved Contact Home About Endorsements Issues The District Get Involved Contact CONTRIBUTE The Issues Learn about Suzy’s stance on the important issues in Illinois.
 Taxes & Government Spending Keeping in line with her belief in fiscal responsibility, Suzy believes changes in the tax code must be coupled with a thorough review of spending to ensure that our tax dollars are not being wasted.
 KEEP READING Education Suzy is a firm supporter of Illinois public education system.
 Suzy wants to use resources saved from reduction of bureaucratic redundancies to help offset the property tax burden.
@@ -7,4 +7,4 @@ Keep Reading Healthcare Suzy is a firm supporter of the Affordable Healthcare Ac
 Keep Reading Good Government & Leadership During her time as a Trustee for Western Springs, Suzy led an effort to consolidate city services with surrounding communities to save taxpayer dollars.
 Keep Reading The Environment Suzy is an avid environmentalist.
 Climate change is one of the foremost problems facing our state and bold steps need to be taken to ensure a sustainable future.
-Keep Reading
+Keep Reading Facebook X-twitter Youtube The District Get Involved Contact Privacy Policy The District Get Involved Contact Privacy Policy Contribute Paid for by Friends of Suzy Glowiak Scroll to Top

@@ -1,8 +1,4 @@
-- Asuntos
-- Labor
-Sindicatos Para Todos
-Introducción
-Nunca ha habido un momento más crítico para los trabajadores ni para el movimiento sindical en nuestro país.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Asuntos Labor Sindicatos Para Todos Introducción Nunca ha habido un momento más crítico para los trabajadores ni para el movimiento sindical en nuestro país.
 El ataque estratégico contra los sindicatos, que se ha prolongado durante décadas, ha resultado enormemente exitoso para los oligarcas y los empresarios, y la afiliación sindical ha alcanzado su nivel más bajo desde la aprobación de la Ley Nacional de Relaciones Laborales (NLRA).
 Hoy en día, solo el 10% de los trabajadores de Estados Unidos pertenece a un sindicato y apenas el 6% en el sector privado.
 A medida que el poder de los trabajadores se ha debilitado, la hegemonía empresarial se ha afianzado, y el resultado es una época caracterizada por una desigualdad extrema, una concentración de la riqueza sin precedentes en la historia y una alienación cada vez mayor entre la clase trabajadora.
@@ -12,8 +8,7 @@ Da igual si eres barista en Bushwick, repartidor de Amazon en Maspeth o trabajas
 Los sindicatos son herramientas fundamentales para hacer frente a esta crisis.
 Si nos mantenemos unidos, podemos negociar colectivamente las condiciones laborales que nos merecemos.
 Podemos lograr un futuro mejor: uno en el que todos podamos llevar una vida digna y plena, pasar tiempo de calidad con la familia y los amigos, dedicarnos a nuestras aficiones fuera del trabajo y jubilarnos con la salud y la seguridad a salvo.
-Nuestra Visión
-Nos encontramos ante una oportunidad para el movimiento sindical.
+Nuestra Visión Nos encontramos ante una oportunidad para el movimiento sindical.
 El apoyo público a los sindicatos ha aumentado de forma constante durante la última década, y el 68% de los adultos estadounidenses se muestra a favor, lo que supone el nivel más alto registrado desde finales de la década de 1950.
 Los trabajadores están dispuestos a organizarse, a negociar salarios dignos y a exigir condiciones de trabajo seguras y dignas.
 Pero para aprovechar al máximo este momento, necesitamos representantes en el Congreso dispuestos a estar a la altura.
@@ -21,31 +16,25 @@ Claire trabajará para aprobar leyes que protejan a los trabajadores que se orga
 Luchará por frenar la hegemonía corporativa regulando el uso de la inteligencia artificial por parte de las empresas, implementando políticas comerciales e industriales favorables a los trabajadores y creando una garantía federal de empleo.
 Además, apoyará la ampliación de los programas sociales que garanticen que todo el mundo tenga derecho a la asistencia sanitaria, a un salario digno y a vacaciones pagadas.
 Al alinear las políticas con el apoyo público, podemos construir una nueva era de poder para los trabajadores en este país.
-Como miembro del Congreso, Claire luchará por:
-- Reforzar y aprobar la Ley PRO, establecer un apoyo federal activo a la sindicalización y poner fin al empleo “a voluntad”, allanando el camino para una nueva era del movimiento sindical y haciendo realidad los sindicatos para todos;
-- Poner fin al dominio corporativo sin control que se ha extendido en nuestro país durante demasiado tiempo;
-- Asegurar que todo el mundo tenga la libertad de llevar una vida digna, garantizando un empleo con un salario digno, permisos parentales y de enfermedad retribuidos, una asistencia médica de calidad y una jubilación digna.
-Sindicatos Para Todos
-Los sindicatos son más populares que nunca en la historia moderna y se estima que unos 60 millones de estadounidenses afirman que se afiliarían a un sindicato si pudieran.
+Como miembro del Congreso, Claire luchará por: Reforzar y aprobar la Ley PRO, establecer un apoyo federal activo a la sindicalización y poner fin al empleo “a voluntad”, allanando el camino para una nueva era del movimiento sindical y haciendo realidad los sindicatos para todos; Poner fin al dominio corporativo sin control que se ha extendido en nuestro país durante demasiado tiempo; Asegurar que todo el mundo tenga la libertad de llevar una vida digna, garantizando un empleo con un salario digno, permisos parentales y de enfermedad retribuidos, una asistencia médica de calidad y una jubilación digna.
+Sindicatos Para Todos Los sindicatos son más populares que nunca en la historia moderna y se estima que unos 60 millones de estadounidenses afirman que se afiliarían a un sindicato si pudieran.
 Sin embargo, los multimillonarios llevan décadas intentando frenar el poder de los trabajadores mediante una amplia variedad de tácticas: la represión sindical, la aprobación de las llamadas leyes de “derecho al trabajo” y el debilitamiento de la Junta Nacional de Relaciones Laborales (NLRB).
 Mientras los trabajadores sigan en desventaja, los empresarios continuarán con sus prácticas explotadoras, imponiendo malas condiciones laborales y considerando las infracciones de la legislación laboral como un simple coste de hacer negocios.
 La aprobación de la Ley PRO supondría la reforma laboral más importante en generaciones, pero no es más que el principio.
-Como miembro del Congreso, Claire trabajará para:
-- Reforzar y aprobar la Ley PRO: La Ley PRO facilitaría la certificación sindical, permitiría a la Junta Nacional de Relaciones Laborales (NLRB) sancionar a los empresarios por incumplir los convenios y por prácticas antisindicales, y agilizaría el proceso de negociación colectiva.
+Como miembro del Congreso, Claire trabajará para: Reforzar y aprobar la Ley PRO: La Ley PRO facilitaría la certificación sindical, permitiría a la Junta Nacional de Relaciones Laborales (NLRB) sancionar a los empresarios por incumplir los convenios y por prácticas antisindicales, y agilizaría el proceso de negociación colectiva.
 Ese debería ser el mínimo de nuestras aspiraciones, no el máximo.
 Claire trabajará para aprobar una legislación que vaya aún más allá: garantizando que, cuando la mayoría de los trabajadores firme tarjetas de afiliación sindical, se reconozca al sindicato y estableciendo sanciones más estrictas y mecanismos de aplicación más rigurosos que la NLRB pueda imponer a los empresarios que incumplan la ley.
-- Apostar con todo el peso del Gobierno federal por la nueva organización sindical: En su momento de mayor esplendor, los sindicatos representaban a uno de cada tres trabajadores estadounidenses, pero tras décadas de ataques de las empresas, esa cifra se ha reducido a un sorprendente 1 de cada 16 en el sector privado.
+Apostar con todo el peso del Gobierno federal por la nueva organización sindical: En su momento de mayor esplendor, los sindicatos representaban a uno de cada tres trabajadores estadounidenses, pero tras décadas de ataques de las empresas, esa cifra se ha reducido a un sorprendente 1 de cada 16 en el sector privado.
 En pocas palabras, se trata de una emergencia nacional.
 Claire cree que debemos responder implementando un enfoque integral y multifacético para garantizar la igualdad de condiciones.
 Presentará una ley para proporcionar una sólida financiación pública y apoyo a la nueva organización sindical, similar a los esfuerzos actuales del Comité de Organización Laboral de Emergencia (EWOC), y para suspender los contratos y subsidios federales a cualquier empresa que participe en actividades antisindicales.
 También trabajará para crear un recurso federal que apoye a los trabajadores en dificultades, dotándolos de las herramientas y la orientación necesarias para formar sus propios sindicatos.
-- Acabar con el empleo “a voluntad” para todos los trabajadores: En la mayoría de los países desarrollados, los empleadores deben demostrar una «causa justificada» para despedirte.
+Acabar con el empleo “a voluntad” para todos los trabajadores: En la mayoría de los países desarrollados, los empleadores deben demostrar una «causa justificada» para despedirte.
 Sin embargo, en Estados Unidos, a menos que el convenio colectivo de tu sindicato establezca lo contrario, tu jefe puede despedirte por cualquier motivo, o sin motivo alguno.
 Claire ya ha presentado una propuesta de ley en el estado de Nueva York para acabar con el empleo “A-Voluntad” y establecer protecciones basadas en la causa justificada para los trabajadores y luchará para que se apruebe una legislación similar en el Congreso.
-- Legalizar la lucha sindical para los trabajadores federales: Los trabajadores federales prestan servicios esenciales a millones de personas cada día, pero, a diferencia de la mayoría de los trabajadores de nuestro país, pueden ser despedidos, o incluso ir a la cárcel, por ir a la lucha sindical.
+Legalizar la lucha sindical para los trabajadores federales: Los trabajadores federales prestan servicios esenciales a millones de personas cada día, pero, a diferencia de la mayoría de los trabajadores de nuestro país, pueden ser despedidos, o incluso ir a la cárcel, por ir a la lucha sindical.
 Claire luchará para derogar las leyes que penalizan a los trabajadores federales y garantizará plenamente su derecho a la huelga.
-Empoderar a los trabajadores y acabar con el dominio de las grandes empresas
-Ya sea en el sector agrícola, en los medios de comunicación, en el sector farmacéutico, en los seguros, en la banca o en la tecnología, prácticamente todos los sectores importantes de los Estados Unidos están hoy en día dominados por un pequeño grupo de empresas.
+Empoderar a los trabajadores y acabar con el dominio de las grandes empresas Ya sea en el sector agrícola, en los medios de comunicación, en el sector farmacéutico, en los seguros, en la banca o en la tecnología, prácticamente todos los sectores importantes de los Estados Unidos están hoy en día dominados por un pequeño grupo de empresas.
 Décadas de desregulación y una aplicación poco estricta de las leyes antimonopolio han permitido a los más ricos de entre nosotros acumular niveles de riqueza y poder sin precedentes.
 Y han utilizado ese poder para comprar elecciones, sobornar a los jueces del Tribunal Supremo, deslocalizar fábricas y atacar los derechos de los trabajadores, a menudo con el objetivo de enriquecerse aún más.
 La clase dominante y sus monopolios corrompen nuestra democracia y encarecen la vida mediante su poder incontestado sobre los salarios y los precios.
@@ -54,53 +43,51 @@ En lugar de utilizar sus beneficios para pagar impuestos, reinvertir en salarios
 Empoderar a toda la clase trabajadora también significa crear por fin una garantía federal de empleo.
 Durante demasiado tiempo, el Congreso ha aprobado leyes que favorecen a accionistas lejanos en lugar de a los trabajadores que generan valor.
 Como miembro del Congreso, Claire presentará y defenderá leyes que prioricen a los trabajadores.
-Ella:
-- Utilizar la política comercial e industrial para mejorar la situación de los trabajadores: Claire luchará por políticas que promuevan una industria manufacturera nacional de calidad, inviertan en cadenas de suministro esenciales y apoyen empleos duraderos y sindicalizados en las industrias del futuro.
+Ella: Utilizar la política comercial e industrial para mejorar la situación de los trabajadores: Claire luchará por políticas que promuevan una industria manufacturera nacional de calidad, inviertan en cadenas de suministro esenciales y apoyen empleos duraderos y sindicalizados en las industrias del futuro.
 En lugar de ofrecer ayudas a las empresas sin condiciones, cree que el Gobierno federal debe utilizar todo el conjunto de herramientas a su disposición, incluyendo la contratación pública, la planificación democrática, la inversión pública y la propiedad pública, no solo para hacer crecer las industrias clave, sino también para remodelarlas en interés de los trabajadores.Desde la renegociación del Acuerdo entre Estados Unidos, México y Canadá (USMCA) hasta la reforma de nuestro marco comercial y fiscal en general, Claire impulsará políticas que cumplan con los más altos estándares laborales y medioambientales, eviten una «carrera a la baja» a nivel mundial y pongan fin a la práctica de las empresas de externalizar puestos de trabajo, reducir salarios y socavar a los sindicatos.
 Las políticas de comercio justo elevarán los estándares laborales a nivel mundial, al tiempo que reducirán las presiones económicas que impulsan la migración.
 También luchará para que Estados Unidos se sume a la iniciativa global sobre el impuesto mínimo a las empresas, garantizando que las corporaciones ya no puedan eludir el pago de su parte justa trasladando beneficios y puestos de trabajo al extranjero.
-- Proteger las normas salariales vigentes y los convenios laborales para proyectos (PLA): Esto es fundamental para garantizar que los trabajadores de las obras públicas federales reciban salarios competitivos, estén protegidos con las medidas de seguridad adecuadas y puedan permitirse un nivel de vida digno.
+Proteger las normas salariales vigentes y los convenios laborales para proyectos (PLA): Esto es fundamental para garantizar que los trabajadores de las obras públicas federales reciban salarios competitivos, estén protegidos con las medidas de seguridad adecuadas y puedan permitirse un nivel de vida digno.
 La Administración Trump ha amenazado con modificar o derogar la Ley Davis-Bacon y ha restringido el uso de los PLA, lo que abre la puerta a que los contratistas no sindicados ofrezcan salarios más bajos, escatimen en seguridad y exploten a los trabajadores.
 Rebajar los estándares del sector perjudica a todos los trabajadores, tanto a los afiliados a sindicatos como a los que no lo son.
 Claire se ha comprometido a luchar y a garantizar el estricto cumplimiento de la Ley Davis-Bacon y de los acuerdos de trabajo colectivo (PLA), para que los carpinteros, albañiles, instaladores de sistemas de vapor y otros profesionales reciban la remuneración que se merecen por su trabajo.
-- Lucha por una garantía federal de empleo: Durante gran parte de la historia de este país, la amenaza del desempleo ha impedido a los trabajadores organizarse o defender sus derechos.
+Lucha por una garantía federal de empleo: Durante gran parte de la historia de este país, la amenaza del desempleo ha impedido a los trabajadores organizarse o defender sus derechos.
 Sin embargo, nuestras leyes están diseñadas para mantener un nivel constante de desempleo que mantiene los salarios bajos y a los trabajadores en situación de inseguridad.
 El desempleo no es un fracaso personal; es una decisión política.
 Y sabemos que hay mucho trabajo útil por hacer: los puentes se están deteriorando, las escuelas, las bibliotecas y los parques carecen de personal, y los niños y las personas mayores necesitan cuidados.
 Debemos recuperar el papel de la «creación de empleo» de manos de multimillonarios codiciosos e irresponsables y situarlo donde debe estar: en nuestras comunidades.
 El programa federal de garantía de empleo crearía un programa permanente, similar a Medicare o la Seguridad Social, para acabar con el desempleo involuntario, enseñar habilidades útiles y fortalecer las economías locales y los derechos de los trabajadores.
 Esto transformaría de manera fundamental la dinámica de poder en la economía, otorgando a cada trabajador seguridad laboral permanente para que pueda dejar cualquier empleo en el que no se le ofrezcan salarios y condiciones competitivas.
-- Regular la IA y hacer cumplir las leyes antimonopolio: La IA supone una amenaza inminente para la privacidad y la libertad de los trabajadores en el ámbito laboral.
+Regular la IA y hacer cumplir las leyes antimonopolio: La IA supone una amenaza inminente para la privacidad y la libertad de los trabajadores en el ámbito laboral.
 Claire luchará por prohibir la vigilancia electrónica en el lugar de trabajo, especialmente mediante el uso de herramientas de IA.
 Presentará una ley que prohíba el uso de la IA o de sistemas automatizados de toma de decisiones que afecten al empleo, a los salarios o a las medidas disciplinarias.
 Por último, Claire luchará por reforzar las leyes antimonopolio y la FTC y volverá a presentar regulaciones significativas para sectores clave, como la banca y las telecomunicaciones, cuyas derogaciones anteriores han sido desastrosas para los trabajadores y han permitido niveles de consolidación empresarial antes impensables.
-Libertad para Vivir una Buena Vida
-Los trabajadores se lo merecen todo y eso implica poder llevar una buena vida.
+Libertad para Vivir una Buena Vida Los trabajadores se lo merecen todo y eso implica poder llevar una buena vida.
 Esto significa un salario digno, asistencia sanitaria gratuita y de alta calidad, la seguridad de poder tomarse tiempo libre para cuidar de sus seres queridos y descansar, y una jubilación cómoda.
 Demasiados neoyorquinos viven al día, sin saber si podrán llevar comida a la mesa y pagar sus facturas.
 Pero incluso si recibes lo esencial, como un salario digno y asistencia sanitaria de tu empleador, nuestra frágil red de seguridad social hace que muchos trabajadores estén a un despido o a una factura médica de la catástrofe.
 En el Congreso, Claire luchará para garantizar que todo el mundo pueda recibir asistencia sanitaria de alta calidad, un salario digno, tiempo para estar con sus seres queridos y una sólida red de seguridad social, tanto si está empleado, sin trabajo o jubilado.
-Claire luchará para:
-- Establecer una semana laboral de cuatro días y 32 horas: Los estudios han demostrado que una semana laboral de 32 horas genera los mismos niveles de productividad, reduce el número total de bajas por enfermedad que solicitan los trabajadores y aumenta la satisfacción laboral.
+Claire luchará para: Establecer una semana laboral de cuatro días y 32 horas: Los estudios han demostrado que una semana laboral de 32 horas genera los mismos niveles de productividad, reduce el número total de bajas por enfermedad que solicitan los trabajadores y aumenta la satisfacción laboral.
 El aumento de la eficiencia que ha traído consigo el avance tecnológico no ha hecho más que reforzar los argumentos a favor de la semana de cuatro días.
 En el Congreso, Claire presentará una propuesta de ley para implantar una semana laboral de cuatro días y 32 horas sin cambios en el salario ni en las prestaciones.
 Deberías poder realizar tu trabajo de forma más productiva con la misma remuneración y tener tiempo para descansar y vivir tu vida con tus amigos y familiares.
-- Aumentar el salario mínimo federal: A pesar de la enorme riqueza que genera nuestra economía, muchos trabajadores se ven obligados a conformarse con salarios de miseria porque no tienen otra opción.
+Aumentar el salario mínimo federal: A pesar de la enorme riqueza que genera nuestra economía, muchos trabajadores se ven obligados a conformarse con salarios de miseria porque no tienen otra opción.
 El salario mínimo federal actual, de 7.25 dólares, no ha aumentado desde 2009, a pesar del considerable incremento del coste de la vida en todo el país.
 La presión no ha hecho más que aumentar, ya que la Administración Trump está recortando el gasto en el SNAP y en Medicaid, dos programas de ayuda federal de los que dependen los trabajadores con salario mínimo para llegar a fin de mes.
 Claire copatrocinará la Ley de Aumento del Salario (Raise the Wage Act) para elevar el salario mínimo federal a 17 dólares para 2030.
 Esta legislación eliminará el salario inferior al mínimo (por debajo de 7.25 dólares) para los trabajadores que reciben propinas, los jóvenes y las personas con discapacidad.
 Claire también seguirá apoyando la iniciativa de la ciudad de Nueva York para establecer un salario mínimo de 30 dólares para 2030, con el fin de hacer frente al elevado coste de la vida en los cinco distritos.
-- Expandir el seguro de desempleo: Cuando pierdes tu trabajo o te declaras en huelga, no deberías tener que preocuparte por mantener un techo sobre tu cabeza y poner comida en la mesa.
+Expandir el seguro de desempleo: Cuando pierdes tu trabajo o te declaras en huelga, no deberías tener que preocuparte por mantener un techo sobre tu cabeza y poner comida en la mesa.
 En el Congreso, Claire seguirá trabajando para ampliar las prestaciones del seguro de desempleo y luchará por que se apruebe la Ley de Modernización del Seguro de Desempleo y Preparación para la Recesión.
 Esta legislación garantizará que todos los estados ofrezcan 26 semanas de subsidio de desempleo equivalente al 75 % del salario anterior (sustitución del 100 % del salario en caso de desastres y emergencias de salud pública), cubran la primera semana de desempleo, conocida como “semana de espera,” un periodo en el que la mayoría pierde el salario de una semana, y ofrecen estas prestaciones tanto a los trabajadores a tiempo completo como a los de tiempo parcial.
 Además, esta legislación crearía un programa federal de «subsidio para solicitantes de empleo» de 250 dólares semanales para los trabajadores desempleados que no estén cubiertos por el seguro de desempleo tradicional.
-- Garantizar los permisos familiares y médicos remunerados, los permisos por duelo y las vacaciones: Debemos garantizar permisos familiares y médicos remunerados para todos, junto con vacaciones pagadas y permisos por muerte de un familiar, para que nadie tenga que elegir entre su sueldo y llevar una vida plena.
+Garantizar los permisos familiares y médicos remunerados, los permisos por duelo y las vacaciones: Debemos garantizar permisos familiares y médicos remunerados para todos, junto con vacaciones pagadas y permisos por muerte de un familiar, para que nadie tenga que elegir entre su sueldo y llevar una vida plena.
 Claire luchará por establecer un mínimo federal de tres meses de permiso familiar remunerado, cinco días de permiso por pérdida de un ser querido, entre 10 y 20 días de vacaciones remuneradas en función de la antigüedad, y bajas por enfermedad según sea necesario.
 Un programa nacional de permisos sólido no solo fortalecería a las familias, sino que también garantizaría una distribución más equitativa de las responsabilidades de cuidado, lo que contribuiría a reducir las disparidades de larga data en materia de salarios y de participación en la fuerza laboral.
-- Pensiones seguras para todos: La seguridad en la jubilación debe reconstruirse en torno a ingresos garantizados en la vejez, y no a la volatilidad de las cuentas de ahorro individuales.
+Pensiones seguras para todos: La seguridad en la jubilación debe reconstruirse en torno a ingresos garantizados en la vejez, y no a la volatilidad de las cuentas de ahorro individuales.
 Claire luchará por volver a las pensiones de prestaciones definidas que garantizan ingresos mensuales de por vida, revirtiendo el cambio producido a partir de 2007 hacia sistemas tipo 401(k) que hacen recaer los riesgos sobre los trabajadores.
 La jubilación debe ser una garantía colectiva, no una apuesta individual, y Claire cree que se debe exigir a los empleadores que ofrezcan sistemas de pensiones seguros y protejan a los trabajadores de la exposición al mercado en la vejez.
-- Aprobar Medicare para todos: Miles de residentes del distrito NY-7 no tienen seguro o cuentan con una cobertura insuficiente, por lo que renuncian a la atención médica que necesitan y a una red de seguridad sanitaria para llegar a fin de mes.
+Aprobar Medicare para todos: Miles de residentes del distrito NY-7 no tienen seguro o cuentan con una cobertura insuficiente, por lo que renuncian a la atención médica que necesitan y a una red de seguridad sanitaria para llegar a fin de mes.
 En el Congreso, Claire luchará por aprobar Medicare para todos con el fin de garantizar que todos los neoyorquinos puedan recibir una asistencia sanitaria gratuita y de alta calidad, independientemente de su situación laboral.
 Esto supone el fin de los copagos, las franquicias elevadas y las denegaciones de seguros privados para la atención médica esencial.
+Donar Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

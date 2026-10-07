@@ -1,4 +1,5 @@
-Health Fair Brings Free Services to Shirley
-Free screenings, family activities and community resources draw residents to Shirley event.
-Families across Shirley turned out Saturday for a Community Health Fair that brought free medical screenings,…
-Read Article →
+← Home Donate News Latest News Events September 20, 2026 Health Fair Brings Free Services to Shirley Free screenings, family activities and community resources draw residents to Shirley event.
+Families across Shirley turned out Saturday for a Community Health Fair that brought free medical screenings,… Read Article → September 20, 2026 Local Control Urged For Broadband Expansion Despite billions of dollars committed to expanding broadband, New York still has significant gaps in high-speed internet service, prompting Assembly Republicans to renew their push for a more… Read Article → September 20, 2026 DeStefano Blows Federal Whistle On New York Fraud Case Assemblyman Joseph DeStefano has escalated his push for an investigation into the Seneca Babcock Community Association by filing a formal whistleblower complaint through President Trump’s fraud reporting portal,… Read Article → September 20, 2026 Third Lane For The Sunrise Assemblyman Joe DeStefano joined Senator Dean Murray and state and county leaders, first responders, organized labor and construction industry representatives to call on New York State to widen… Read Article → September 20, 2026 DeStefano on Criminal Justice Public safety has been a priority for Assemblyman Joe DeStefano throughout his time in Albany.
+Drawing on 27 years of experience with the Suffolk County Sheriff’s Office, DeStefano… Read Article → September 20, 2026 Fighting Fraud and Abuse Assemblyman Joe DeStefano has made rooting out government waste, fraud and abuse a priority, arguing that taxpayers should not be asked for more money until Albany does a… Read Article → Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

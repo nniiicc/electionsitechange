@@ -1,15 +1,58 @@
 [
-"https://barbforkansas.com/",
-"https://barbforkansas.com/contact",
-"https://barbforkansas.com/contribute",
-"https://barbforkansas.com/home",
-"https://barbforkansas.com/issues",
-"https://barbforkansas.com/meet_barb",
-"https://barbforkansas.com/privacy-policy",
-"https://barbforkansas.com/view-endorsements",
-"https://barbforkansas.com/volunteer",
-"https://barbforkansas.com/vote",
-"https://facebook.com/electbarbwasinger",
-"https://kslegislature.gov/b2025_26/legislators/rep_vanhouden_charles_1",
-"https://kslegislature.gov/b2025_26/legislators/rep_wasinger_barbara_1"
+{
+"text": "Contact",
+"href": "https://barbforkansas.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://barbforkansas.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://barbforkansas.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://barbforkansas.com/home"
+},
+{
+"text": "Issues",
+"href": "https://barbforkansas.com/issues"
+},
+{
+"text": "Meet Barb",
+"href": "https://barbforkansas.com/meet_barb"
+},
+{
+"text": "Privacy Policy",
+"href": "https://barbforkansas.com/privacy-policy"
+},
+{
+"text": "Representative Barb Wasinger - 111th House District",
+"href": "https://www.kslegislature.gov/b2025_26/legislators/rep_vanhouden_charles_1/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://barbforkansas.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://barbforkansas.com/vote"
+},
+{
+"text": "[image: Barb Wasinger]",
+"href": "https://barbforkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.kslegislature.gov/b2025_26/legislators/rep_wasinger_barbara_1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electbarbwasinger"
+},
+{
+"text": "here",
+"href": "https://www.kslegislature.gov/b2025_26/legislators/rep_wasinger_barbara_1/"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Joe
-A dedicated servant leader.
+Home Meet Joe Issues Join Joe Meet Joe A dedicated servant leader.
 A father of two, husband of 19 years, and follower of Jesus Christ since age 11, Joe lives in Dublin with his wife, Jamie, and their sons, Landon and Asher.
 The family are members of Pine Forest Methodist Church.
 Born in Toccoa, Joe’s sense of community and inclusion runs deep, shaped by his Appalachian roots and the values he learned at home.
@@ -14,10 +13,11 @@ Joe’s career spans public service, broadcast journalism, radio, television sal
 His work has earned recognition including Piedmont College’s Broadcaster of the Year award, Associated Press news-award nominations, DuPont Awards for CNN’s wartime news coverage, national EMS accreditation, and the American Red Cross Volunteer of the Year award in Dublin.
 He also became a certified public-safety clown during his public-service career—an unusual but meaningful example of his commitment to community outreach.
 After nearly four years at 13WMAZ, Joe moved from media sales into on-air radio at Y96.
-He hosted the Classic Country Jukebox, co-hosted the morning show, and covered high-school sports, becoming known locally as “The Voice of the Irish.”
-Joe’s blend of media production, community involvement, sales leadership, and communications experience led to senior management roles across Georgia: General Sales Manager at 41NBC in Macon; General Manager and General Sales Manager at FOX54 in Columbus; and Georgia market leader for Cox Media.
+He hosted the Classic Country Jukebox, co-hosted the morning show, and covered high-school sports, becoming known locally as “The Voice of the Irish.” Joe’s blend of media production, community involvement, sales leadership, and communications experience led to senior management roles across Georgia: General Sales Manager at 41NBC in Macon; General Manager and General Sales Manager at FOX54 in Columbus; and Georgia market leader for Cox Media.
 Today, Joe operates a streaming radio station and full-service marketing agency while working full-time with Renewal by Andersen.
 Joe is running because working families in Laurens and Johnson counties deserve a leader who listens, works hard, and brings people together to get results.
 He believes public service is not about politics or personal ambition—it is about putting faith, family, community, and common sense first.
-Video can’t be displayed
-Video can’t be displayed
+Video can’t be displayed Video can’t be displayed Copyright # Joseph A.
+Powers Paid for and authorized by Joseph A.
+Powers for Georgia State House 155 Representative ﻿ Privacy Policy | Terms & Conditions ﻿ Joe Powers is for Us.
+Donate ﻿ support@JoePowersForGA.com ﻿

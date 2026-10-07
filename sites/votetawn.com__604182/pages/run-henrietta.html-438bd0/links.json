@@ -1,7 +1,38 @@
 [
-"https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14",
-"https://votetawn.com/index.html",
-"https://votetawn.com/run-leg15.html",
-"https://votetawn.com/run-main.html",
-"https://votetawn.com/run-tompkins.html"
+{
+"text": "All Legs",
+"href": "https://votetawn.com/run-main.html#all-legs"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14"
+},
+{
+"text": "Donate to Fuel the Run",
+"href": "https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.winred.com/tawn-beliger-cte/support-tawn-senate-14"
+},
+{
+"text": "Home",
+"href": "https://votetawn.com/index.html"
+},
+{
+"text": "Next Leg →",
+"href": "https://votetawn.com/run-tompkins.html"
+},
+{
+"text": "Running for YOU",
+"href": "https://votetawn.com/run-main.html"
+},
+{
+"text": "[image: Tawn Beliger Logo]",
+"href": "https://votetawn.com/index.html"
+},
+{
+"text": "← Previous Leg",
+"href": "https://votetawn.com/run-leg15.html"
+}
 ]

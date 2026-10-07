@@ -1,29 +1,5 @@
-Endorsements
-“Preparing students to be good citizens and thoughtful voters is one of the most important jobs for educators.
+0 Skip to Content Defending Democracy Secretary of State for All Meet Steve Endorsements Volunteer DONATE Open Menu Close Menu Defending Democracy Secretary of State for All Meet Steve Endorsements Volunteer DONATE Open Menu Close Menu Defending Democracy Secretary of State for All Meet Steve Endorsements Volunteer DONATE Endorsements “Preparing students to be good citizens and thoughtful voters is one of the most important jobs for educators.
 We take it very seriously.
 That's why we proudly endorse Steve Simon.
-He's a great advocate for voting and a strong defender of free and fair elections.”
-- Education Minnesota
-- AFSCME Council 5
-- AFSCME Council 65
-- Credit Union PAC
-- Everytown for Gun Safety
-- DFL Environmental Caucus
-- DFL Rural Caucus
-- DFL Senior Caucus
-- Education Minnesota
-- IBEW Local 292
-- IBEW Local 343
-- Inter-Faculty Organization (IFO)
-- Indivisible Twin Cities
-- Joint Council 32 DRIVE
-- LIUNA
-- MAPE
-- MNA
-- MN Building and Construction Trades Council
-- MN DFL
-- MN AFL-CIO
-- MN Farmers Union
-- NASW-MN PACE
-- Planned Parenthood Action Fund
-- SEIU MN
+He's a great advocate for voting and a strong defender of free and fair elections.” - Education Minnesota AFSCME Council 5 AFSCME Council 65 Credit Union PAC Everytown for Gun Safety DFL Environmental Caucus DFL Rural Caucus DFL Senior Caucus Education Minnesota IBEW Local 292 IBEW Local 343 Inter-Faculty Organization (IFO) Indivisible Twin Cities Joint Council 32 DRIVE LIUNA MAPE MNA MN Building and Construction Trades Council MN DFL MN AFL-CIO MN Farmers Union NASW-MN PACE Planned Parenthood Action Fund SEIU MN Volunteer Donate Prepared and paid for by Simon for Secretary of State Committee | P.O.
+Box 4217 | Hopkins, MN | 55343 Website by Lift Creative .

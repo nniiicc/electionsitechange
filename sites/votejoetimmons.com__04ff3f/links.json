@@ -1,31 +1,146 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=1540&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=1632&Chamber=House&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=2467&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=2532&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=5480&Chamber=Senate&Year=2025",
-"https://cascadiadaily.com/2026/may/18/wwu-union-members-press-legislative-candidates-on-funding-public-records-reforms",
-"https://facebook.com/votejoetimmons",
-"https://instagram.com/vote.joetimmons",
-"https://lyndentribune.com/news/state-reps-tour-lynden-wastewater-treatment-plant/article_f728f8f0-2e36-452c-9b6f-7968682596e2.html",
-"https://secure.actblue.com/donate/joetimmons",
-"https://secure.actblue.com/donate/joetimmons-anchor",
-"https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=125",
-"https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=15",
-"https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=42",
-"https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=500",
-"https://votejoetimmons.com/",
-"https://votejoetimmons.com/code-of-conduct",
-"https://votejoetimmons.com/endorsements",
-"https://votejoetimmons.com/events",
-"https://votejoetimmons.com/latest-news",
-"https://votejoetimmons.com/latest-news/state-representative-joe-timmons-launches-re-election-campaign-for-third-term-focused-on-affordability%2C-public-safety%2C-and-delivering-results-for-whatcom-county",
-"https://votejoetimmons.com/latest-news/you%E2%80%99re-invited%3A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th",
-"https://votejoetimmons.com/media-gallery",
-"https://votejoetimmons.com/meet-joe",
-"https://votejoetimmons.com/priorities",
-"https://votejoetimmons.com/privacy-policy",
-"https://votejoetimmons.com/volunteer",
-"https://wsac.wa.gov/sites/default/files/SSEH.ProgramOverview.pdf"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=125"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=15"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=42"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/joetimmons-anchor?express_lane=true&amount=500"
+},
+{
+"text": "Code of Conduct",
+"href": "https://www.votejoetimmons.com/code-of-conduct"
+},
+{
+"text": "Contact Joe",
+"href": "mailto:hello@votejoetimmons.com?subject=Joe%21+I+have+a+question"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joetimmons"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejoetimmons.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votejoetimmons.com/events"
+},
+{
+"text": "HB 1540",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1540&Year=2025&Initiative=False"
+},
+{
+"text": "HB 2467",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2467&Year=2025&Initiative=False"
+},
+{
+"text": "HB 2532",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2532&Year=2025&Initiative=False"
+},
+{
+"text": "Joe Timmons",
+"href": "https://www.votejoetimmons.com/meet-joe"
+},
+{
+"text": "Latest News",
+"href": "https://www.votejoetimmons.com/latest-news"
+},
+{
+"text": "Like",
+"href": "https://www.facebook.com/votejoetimmons"
+},
+{
+"text": "Like",
+"href": "https://www.instagram.com/vote.joetimmons"
+},
+{
+"text": "MORE NEWS",
+"href": "https://www.votejoetimmons.com/latest-news"
+},
+{
+"text": "Media Gallery",
+"href": "https://www.votejoetimmons.com/media-gallery"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.votejoetimmons.com/meet-joe"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/joetimmons-anchor"
+},
+{
+"text": "Priorities",
+"href": "https://www.votejoetimmons.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejoetimmons.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.cascadiadaily.com/2026/may/18/wwu-union-members-press-legislative-candidates-on-funding-public-records-reforms/"
+},
+{
+"text": "READ MORE",
+"href": "https://www.lyndentribune.com/news/state-reps-tour-lynden-wastewater-treatment-plant/article_f728f8f0-2e36-452c-9b6f-7968682596e2.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votejoetimmons.com/latest-news/state-representative-joe-timmons-launches-re-election-campaign-for-third-term-focused-on-affordability%2C-public-safety%2C-and-delivering-results-for-whatcom-county"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votejoetimmons.com/latest-news/you%E2%80%99re-invited%3A-campaign-kickoff-with-special-guest-laurie-jinkins-on-june-4th"
+},
+{
+"text": "SB 5480",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5480&Chamber=Senate&Year=2025"
+},
+{
+"text": "Supporting Student Experiencing Homelessness project",
+"href": "https://wsac.wa.gov/sites/default/files/SSEH.ProgramOverview.pdf"
+},
+{
+"text": "VIEW JOE'S PRIORITIES",
+"href": "https://www.votejoetimmons.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejoetimmons.com/volunteer"
+},
+{
+"text": "[image: Joe Timmons Logo - Cream Background.png]",
+"href": "https://www.votejoetimmons.com"
+},
+{
+"text": "[image: Joe Timmons Logo - White Background.png]",
+"href": "https://www.votejoetimmons.com"
+},
+{
+"text": "companion legislation",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=1632&Chamber=House&Year=2025"
+},
+{
+"text": "making a contribution",
+"href": "https://secure.actblue.com/donate/joetimmons"
+},
+{
+"text": "signing up to volunteer",
+"href": "https://www.votejoetimmons.com/volunteer"
+}
 ]

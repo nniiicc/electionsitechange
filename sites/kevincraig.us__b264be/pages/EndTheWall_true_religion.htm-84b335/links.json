@@ -1,32 +1,158 @@
 [
-"http://bible.gospelcom.net/bible?version=KJV&passage=matt+7%3A12",
-"http://bible.gospelcom.net/cgi-bin/bible?passage=2COR+3%3A17&language=english&version=KJV&showfn=on&showxref=on",
-"http://biblegateway.com/passage?search=James+1%3A27&version=MSG",
-"http://kevincraig.us/",
-"http://kevincraig.us/VFT.htm",
-"http://kevincraig.us/fundamentalism.htm",
-"http://laws.findlaw.com/US/492/573.html",
-"http://memory.loc.gov/cgi-bin/query/r",
-"http://memory.loc.gov/ll/llhj/003/0700/07180724.tif",
-"http://vftonline.org/EndTheWall/NWOrd.htm",
-"http://vftonline.org/EndTheWall/TrinityHistory.htm",
-"http://vftonline.org/EndTheWall/cases.htm",
-"http://vftonline.org/EndTheWall/madison2.htm",
-"http://vftonline.org/EndTheWall/organic_law.htm",
-"http://vftonline.org/EndTheWall/true_religion.htm",
-"http://vftonline.org/TenC%204%20USA/UShistory/index.htm",
-"http://vftonline.org/TestOath/Everson1.htm",
-"http://vftonline.org/TestOath/HolyTrinity.htm",
-"http://vftonline.org/TestOath/memorial.htm",
-"https://hillsdale.edu/news/imprimis/archive/issue.asp?year=1995&month=04",
-"https://kevincraig.us/EndTheWall/HolyTrinity.htm",
-"https://kevincraig.us/EndTheWall/endorse.htm",
-"https://kevincraig.us/EndTheWall/false-religion.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/idolatry.htm",
-"https://kevincraig.us/liberty.htm",
-"https://kevincraig.us/religion.htm",
-"https://kevincraig.us/salvation.htm",
-"https://kevincraig.us/what_is_the_libertarian_party.htm",
-"https://web.archive.org/web/20050906053457/http://www.empowermentnetwork.com/policy/victory2.htm"
+{
+"text": "2 Corinthians 3:17",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=2COR+3%3A17&language=english&version=KJV&showfn=on&showxref=on"
+},
+{
+"text": "Aguillard",
+"href": "http://vftonline.org/EndTheWall/cases.htm#AGUILLARD"
+},
+{
+"text": "Allegheny County v.Greater Pittsburgh ACLU",
+"href": "http://laws.findlaw.com/US/492/573.html"
+},
+{
+"text": "Allegheny v. ACLU",
+"href": "http://vftonline.org/EndTheWall/cases.htm#ALLEGHENY"
+},
+{
+"text": "Christian nation",
+"href": "http://vftonline.org/TestOath/HolyTrinity.htm"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Everson v Bd of Education",
+"href": "http://vftonline.org/EndTheWall/cases.htm#EVERSON"
+},
+{
+"text": "Everson v. Board of Education",
+"href": "http://vftonline.org/TestOath/Everson1.htm#true%20religion"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Fourth Annual Address",
+"href": "http://memory.loc.gov/ll/llhj/003/0700/07180724.tif"
+},
+{
+"text": "Freddie Garcia's",
+"href": "https://web.archive.org/web/20050906053457/http://www.empowermentnetwork.com/policy/victory2.htm"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Imprimis",
+"href": "https://www.hillsdale.edu/news/imprimis/archive/issue.asp?year=1995&month=04"
+},
+{
+"text": "In one of his most famous speeches",
+"href": "http://vftonline.org/TestOath/memorial.htm#12"
+},
+{
+"text": "Jaffree",
+"href": "http://vftonline.org/EndTheWall/cases.htm#JAFFREE"
+},
+{
+"text": "James 1:27",
+"href": "http://www.biblegateway.com/passage/?search=James+1%3A27&version=MSG"
+},
+{
+"text": "Libertarian Party",
+"href": "https://kevincraig.us/what_is_the_libertarian_party.htm"
+},
+{
+"text": "Liberty Under God",
+"href": "https://kevincraig.us/liberty.htm"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Northwest Ordinance",
+"href": "http://vftonline.org/EndTheWall/NWOrd.htm"
+},
+{
+"text": "Our laws",
+"href": "http://vftonline.org/TenC%204%20USA/UShistory/index.htm"
+},
+{
+"text": "President James Madison",
+"href": "http://vftonline.org/EndTheWall/madison2.htm"
+},
+{
+"text": "Proclamation by George Washington",
+"href": "http://memory.loc.gov/cgi-bin/query/r?ammem%2Fmgw%3A%40field%28DOCID+%40lit%28gw300388%29%29="
+},
+{
+"text": "The American Dream",
+"href": "http://kevincraig.us/VFT.htm"
+},
+{
+"text": "Vine & Fig Tree",
+"href": "http://kevincraig.us/VFT.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "a Christian nation",
+"href": "https://kevincraig.us/EndTheWall/HolyTrinity.htm"
+},
+{
+"text": "do to others as they would require that others should do to them",
+"href": "http://bible.gospelcom.net/bible?version=KJV&passage=matt+7%3A12"
+},
+{
+"text": "endorsed",
+"href": "https://kevincraig.us/EndTheWall/endorse.htm"
+},
+{
+"text": "false religion",
+"href": "https://kevincraig.us/EndTheWall/false-religion.htm"
+},
+{
+"text": "false religion",
+"href": "https://kevincraig.us/idolatry.htm"
+},
+{
+"text": "fundamentalist",
+"href": "http://kevincraig.us/fundamentalism.htm"
+},
+{
+"text": "nations who continue in darkness",
+"href": "http://vftonline.org/EndTheWall/TrinityHistory.htm#darkness"
+},
+{
+"text": "organic law",
+"href": "http://vftonline.org/EndTheWall/organic_law.htm"
+},
+{
+"text": "ought to be that it may be imparted to the whole race of mankind",
+"href": "http://vftonline.org/EndTheWall/TrinityHistory.htm#darkness"
+},
+{
+"text": "our holy religion",
+"href": "http://vftonline.org/EndTheWall/true_religion.htm"
+},
+{
+"text": "religion",
+"href": "https://kevincraig.us/religion.htm"
+},
+{
+"text": "salvation",
+"href": "https://kevincraig.us/salvation.htm"
+},
+{
+"text": "the Washington Papers",
+"href": "http://memory.loc.gov/cgi-bin/query/r?ammem%2Fmgw%3A%40field%28DOCID+%40lit%28gw300391%29%29="
+}
 ]

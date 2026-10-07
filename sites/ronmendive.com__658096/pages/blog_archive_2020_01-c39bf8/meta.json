@@ -1,7 +1,19 @@
 {
  "description": "",
  "final_url": "https://www.ronmendive.com/blog/archive/2020/01",
- "paid_for_by": null,
+ "fingerprint": "0f8be2d751ead0a12ab19715c6371a87d3842c02",
+ "format": 3,
+ "paid_for_by": "",
  "title": "January - 2020",
- "years_mentioned": []
+ "years_mentioned": [
+  "2014",
+  "2015",
+  "2018",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025"
+ ]
 }

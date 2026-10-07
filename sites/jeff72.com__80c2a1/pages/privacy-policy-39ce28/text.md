@@ -1,5 +1,5 @@
-Privacy Policy
-Welcome to the official website of Jeff Jacks for Missouri (the campaign) at www.jeff72.com (the campaign website).
+Jeffrey Jacks for State Representative Home Contribute Platform RECA Jeffrey Jacks for State Representative Home Contribute Platform RECA © # Jeffrey Jacks for State Representative RECA: Radiation Exposure Compensation Act – Do You Qualify?
+Privacy Policy Privacy Policy ​ Welcome to the official website of Jeff Jacks for Missouri (the campaign) at www.jeff72.com (the campaign website).
 Jeff knows your right to privacy is important, especially online.
 This privacy policy has been created to answer any questions you may have regarding the Jacks campaign’s data collection and protection policies.
 What information is being collected at the campaign’s website?
@@ -23,8 +23,7 @@ We will not sell your personal information.
 Under no circumstances will the campaign sell your information to third parties or any commercial entities.
 When you voluntarily provide your information to the campaign, it may share that information with other organizations who may contact you with related offers for products or services.
 However, text messaging originator opt-in data and consent will not be shared with any non-associated and/or non-related third-party individual, brand, or entity except for with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes).
-If you would prefer that we not share your information for these purposes, you may opt-out by emailing jeff@jeff72.com
-Is my information secure?
+If you would prefer that we not share your information for these purposes, you may opt-out by emailing jeff@jeff72.com Is my information secure?
 Protecting information you provide is important to us.
 The campaign makes every effort to protect your information from the moment you enter your information to when it is stored on our secure servers.
 The campaign and its payment vendor(s) use(s) a secure socket layer (SSL) – with the highest level of encryption commercially available – on pages where online visitors register or make a secure online donation using their credit card.
@@ -42,20 +41,10 @@ How do I contact the Jeff Jacks for Missouri?
 If you have any questions, comments or concerns please contact the campaign through the contact form on the website, by electronic mail at jeff@jeff72.com or by phone using the contact information provided on the website and various social media account pages related to the campaign.
 Will this privacy policy change?
 We have no intentions to make changes to this privacy policy, though we do reserve the right to revise or update this privacy policy at any time.
-3rd Party Advertising Cookies Opt-Out
-The campaign is dedicated to providing privacy on the Internet.
-In addition to developing our privacy policy, we have provided you the opportunity to opt out of future 3rd party advertising cookies.
 Third parties can place cookies on the site for advertising purposes.
 This Online Privacy Statement does not cover the collection methods or use of the information collected by these vendors.
 These vendors have their own privacy policies and may be members of the Network Advertising Initiative (“NAI”).
 To remove yourself from some or all NAI member advertising programs, please visit the NAI Opt-Out Page and follow the relevant instructions.
 Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.
-These cookies contain no personally identifiable information.
-The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.
-To opt-out of these cookies, please go to http://www.aboutads.info/choices.
-Contact Info
-Citizens for Jeffrey Jacks
-PO Box 204, Saint Ann, MO 63074
-Jeff@Jeff72.com
-314-702-3120
+Contact Info Citizens for Jeffrey Jacks PO Box 204, Saint Ann, MO 63074 Jeff@Jeff72.com 314-702-3120 © # Jeffrey Jacks for State Representative.
+Created with ❤ using WordPress and Kubio

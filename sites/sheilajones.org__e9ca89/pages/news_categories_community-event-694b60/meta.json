@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.sheilajones.org/news/categories/community-event",
- "paid_for_by": null,
+ "fingerprint": "685f08ed2e133ba752e23a6fc04e83419f528073",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Community Event",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023",
+  "2025"
+ ]
 }

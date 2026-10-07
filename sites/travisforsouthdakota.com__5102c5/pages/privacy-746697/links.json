@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61558128721185",
-"https://facebook.com/travis4sd",
-"https://travisforsd.com/",
-"https://travisforsd.com/about",
-"https://travisforsd.com/campaign-platform",
-"https://travisforsd.com/cdn-cgi/l/email-protection",
-"https://travisforsd.com/donate",
-"https://travisforsd.com/privacy",
-"https://travisforsd.com/terms",
-"https://travisforsd.com/volunteer-contact"
+{
+"text": "About",
+"href": "https://www.travisforsd.com/about/"
+},
+{
+"text": "Campaign Platform",
+"href": "https://www.travisforsd.com/campaign-platform/"
+},
+{
+"text": "Donate",
+"href": "https://www.travisforsd.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61558128721185"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/travis4sd"
+},
+{
+"text": "Home",
+"href": "https://www.travisforsd.com/"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.travisforsd.com/volunteer-contact/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@travisforsd.com"
+},
+{
+"text": "[image]",
+"href": "https://www.travisforsd.com/"
+},
+{
+"text": "here",
+"href": "https://www.travisforsd.com/privacy"
+},
+{
+"text": "terms",
+"href": "https://www.travisforsd.com/terms"
+}
 ]

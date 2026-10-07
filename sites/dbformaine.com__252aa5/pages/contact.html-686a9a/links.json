@@ -1,13 +1,54 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://dbformaine.com/",
-"https://dbformaine.com/about.html",
-"https://dbformaine.com/cdn-cgi/l/email-protection",
-"https://dbformaine.com/contact.html",
-"https://dbformaine.com/endorsements.html",
-"https://dbformaine.com/news.html",
-"https://dbformaine.com/past-results.html",
-"https://dbformaine.com/results.html",
-"https://dbformaine.com/videos.html",
-"https://dbformaine.com/volunteer.html"
+{
+"text": "207-284-9962",
+"href": "tel:2072849962"
+},
+{
+"text": "About",
+"href": "https://www.dbformaine.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.dbformaine.com/contact.html"
+},
+{
+"text": "Donate $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dbformaine.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.dbformaine.com/"
+},
+{
+"text": "News",
+"href": "https://www.dbformaine.com/news.html"
+},
+{
+"text": "Past Results",
+"href": "https://www.dbformaine.com/past-results.html"
+},
+{
+"text": "Results",
+"href": "https://www.dbformaine.com/results.html"
+},
+{
+"text": "SENATOR DONNA BAILEY",
+"href": "https://www.dbformaine.com/"
+},
+{
+"text": "Videos",
+"href": "https://www.dbformaine.com/videos.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dbformaine.com/volunteer.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:donna@dbformaine.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "The campaign website for Robert Short, businessman, Converse County Commissioner, and Republican candidate for Wyoming Secretary of State.",
  "final_url": "https://www.shortforstate.com/",
- "paid_for_by": "Paid for by Short for State&nbsp; |&nbsp; P",
+ "fingerprint": "887b854725ce8d86642663cb0bbd82e5a9f7bb70",
+ "format": 3,
+ "paid_for_by": "Paid for by Short for State",
  "title": "Robert Short for Wyoming Secretary of State | Home",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

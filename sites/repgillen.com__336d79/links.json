@@ -1,30 +1,150 @@
 [
-"https://facebook.com/RepGillen",
-"https://pa.gov/agencies/penndot.html",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repgillen.com/",
-"https://repgillen.com/Email-Signup",
-"https://repgillen.com/News/35608/Latest-News/Gillen-Responds-to-Governor-s-2025-26-Budget-Address",
-"https://repgillen.com/News/35663/Latest-News/Gillen-Announces-Grant-Funding-to-Support-Local-Fire-Companies",
-"https://repgillen.com/News/35770/Latest-News/Gillen-Announces--750K-for-Key-Transportation-Projects-in-Berks-County",
-"https://repgillen.com/News/36318/Latest-News/Gillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting",
-"https://repgillen.com/News/37466/Latest-News/Gillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility",
-"https://repgillen.com/News/37592/Latest-News/Gillen-Announces-More-Than--117-000-for-Fire-Companies-in-128th-District",
-"https://repgillen.com/News/38219/Latest-News/Gillen-to-Host-Dedication-of-PFC-Travis-C--Zimmerman-Memorial-Bridge",
-"https://repgillen.com/News/38284/Latest-News/Gillen-Issues-Statement-on-2026-27-State-Budget",
-"https://repgillen.com/News/38741/Latest-News/Gillen-Announces-More-Than--1-8-Million-in-LSA-Funding-for-128th-District-Projects",
-"https://repgillen.com/NewsGroup/Press-Releases",
-"https://repgillen.com/PAGovLinks",
-"https://repgillen.com/about",
-"https://repgillen.com/citizenaccess",
-"https://repgillen.com/contact",
-"https://repgillen.com/districtmap",
-"https://repgillen.com/events",
-"https://repgillen.com/livestreams",
-"https://repgillen.com/officeservices",
-"https://repgillen.com/ptrr",
-"https://repgillen.com/video/latestvideo",
-"https://revenue.pa.gov/Pages/default.aspx",
-"https://unclaimedproperty.patreasury.gov/en/Property/SearchIndex"
+{
+"text": "About the 128th District",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Bio",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Citizens Info Access",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "Contact Mark",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "Contact My Office",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Events Coming Up",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Feb12 Press Release Gillen Announces Grant Funding to Support Local Fire Companies Read More",
+"href": "https://www.repgillen.com/News/35663/Latest-News/Gillen-Announces-Grant-Funding-to-Support-Local-Fire-Companies"
+},
+{
+"text": "Feb18 Press Release Gillen Announces More Than $117,000 for Fire Companies in 128th District Read More",
+"href": "https://www.repgillen.com/News/37592/Latest-News/Gillen-Announces-More-Than--117-000-for-Fire-Companies-in-128th-District"
+},
+{
+"text": "Feb25 Press Release Gillen Announces $750K for Key Transportation Projects in Berks County Read More",
+"href": "https://www.repgillen.com/News/35770/Latest-News/Gillen-Announces--750K-for-Key-Transportation-Projects-in-Berks-County"
+},
+{
+"text": "Feb4 Press Release Gillen Backs First Responders, Calls for Fiscal Responsibility Read More",
+"href": "https://www.repgillen.com/News/37466/Latest-News/Gillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility"
+},
+{
+"text": "Feb7 Press Release Gillen Responds to Governor’s 2025-26 Budget Address Read More",
+"href": "https://www.repgillen.com/News/35608/Latest-News/Gillen-Responds-to-Governor-s-2025-26-Budget-Address"
+},
+{
+"text": "Home",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "How My Office Can Help",
+"href": "https://www.repgillen.com/officeservices"
+},
+{
+"text": "Jul12 Press Release Gillen Issues Statement on 2026-27 State Budget Read More",
+"href": "https://www.repgillen.com/News/38284/Latest-News/Gillen-Issues-Statement-on-2026-27-State-Budget"
+},
+{
+"text": "Jul2 Press Release Gillen to Host Dedication of PFC Travis C. Zimmerman Memorial Bridge Read More",
+"href": "https://www.repgillen.com/News/38219/Latest-News/Gillen-to-Host-Dedication-of-PFC-Travis-C--Zimmerman-Memorial-Bridge"
+},
+{
+"text": "Jun12 Press Release Gillen to Honor Firefighters During Township Supervisor Meeting Read More",
+"href": "https://www.repgillen.com/News/36318/Latest-News/Gillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting"
+},
+{
+"text": "Latest News",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "Learn More",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repgillen.com/livestreams"
+},
+{
+"text": "Office Services",
+"href": "https://www.repgillen.com/officeservices"
+},
+{
+"text": "PA State Rep. Mark GillenServing PA's 128th Legislative District",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://pa.gov/agencies/penndot.html#sortCriteria=%40copapwpeffectivedate%20descending"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate Program",
+"href": "https://www.repgillen.com/ptrr"
+},
+{
+"text": "Search for Unclaimed Property",
+"href": "https://unclaimedproperty.patreasury.gov/en/Property/SearchIndex"
+},
+{
+"text": "Sep15 Press Release Gillen Announces More Than $1.8 Million in LSA Funding for 128th District Projects Read More",
+"href": "https://www.repgillen.com/News/38741/Latest-News/Gillen-Announces-More-Than--1-8-Million-in-LSA-Funding-for-128th-District-Projects"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repgillen.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repgillen.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Video",
+"href": "https://www.repgillen.com/video/latestvideo"
+},
+{
+"text": "View All Press Releases",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepGillen/"
+}
 ]

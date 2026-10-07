@@ -1,7 +1,11 @@
 {
  "description": "The latest news on Abdul, the leading grassroots candidate for US Senate in Michigan in 2026. Abdul will make government work for people.",
  "final_url": "https://abdulforsenate.com/news/page/3/",
+ "fingerprint": "ba08d4744503819370a5ff5ccdcb3b41c895d6d2",
+ "format": 3,
  "paid_for_by": "Paid for by Abdul for U",
- "title": "The Latest News on Abdul \u2013 Michigan US Senate Candidate 2026",
- "years_mentioned": []
+ "title": "The Latest News on Abdul – Michigan US Senate Candidate 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

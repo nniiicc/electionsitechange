@@ -1,9 +1,34 @@
 [
-"https://secure.actblue.com/donate/vhss",
-"https://vannahoward.com/",
-"https://vannahoward.com/about",
-"https://vannahoward.com/cart",
-"https://vannahoward.com/get-involved",
-"https://vannahoward.com/policies",
-"https://vannahoward.com/vote"
+{
+"text": "0",
+"href": "https://www.vannahoward.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vhss"
+},
+{
+"text": "Get Involved",
+"href": "https://www.vannahoward.com/get-involved"
+},
+{
+"text": "Meet Vanna",
+"href": "https://www.vannahoward.com/about"
+},
+{
+"text": "Policies",
+"href": "https://www.vannahoward.com/policies"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vannahoward.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://www.vannahoward.com/vote"
+},
+{
+"text": "[image: Vanna Howard for State Senate]",
+"href": "https://www.vannahoward.com/"
+}
 ]

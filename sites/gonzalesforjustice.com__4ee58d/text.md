@@ -1,9 +1,7 @@
-February 17-27, 2026
-March 3, 2026
-Connie Gonzales for Justice is the official campaign website of a Texas attorney and appellate justice candidate dedicated to fairness, due process, and equal justice under the law.
+Skip to content Join My Team Donate ✖ Early Voting February 17-27, 2026 Election Day March 3, 2026 Early Voting February 17-27, 2026 Election Day March 3, 2026 Connie Gonzales for Justice is the official campaign website of a Texas attorney and appellate justice candidate dedicated to fairness, due process, and equal justice under the law.
 With more than two decades of legal experience serving individuals, families, and businesses across Texas, Connie Gonzales brings diligence, integrity, and respect for the rule of law to every case.
 Her commitment to applying the law faithfully and without bias reflects a deep belief in judicial independence and equal accountability for all.
-I am a sixth-generation Latina Texan.
+Join My Team Donate ✖ Meet Connie I am a sixth-generation Latina Texan.
 For more than 20 years, I’ve had the privilege of practicing law in Texas, representing clients across the state in a wide range of matters—from personal injury and real estate to probate, employment disputes, contracts, civil rights, and criminal defense.
 What has always mattered most to me is working closely with people—individuals, families, and businesses from all walks of life—and earning their trust through diligence, integrity, and genuine compassion.
 Service has been a constant thread throughout my career.
@@ -18,7 +16,7 @@ Those years were formative, and I was humbled to be named Teacher of the Year fo
 I later earned my law degree from Tulane Law School.
 After gaining experience at two large law firms, I opened my own practice, where I continue to serve clients throughout Texas with dedication and care.
 I live in Houston with my family and am a proud mother of two grown children.
-As an appellate justice I would apply the law faithfully, fairly, and consistently, guided by the United States Constitution, the Texas Constitution, statutory law, and binding precedent.
+Judicial Philosophy As an appellate justice I would apply the law faithfully, fairly, and consistently, guided by the United States Constitution, the Texas Constitution, statutory law, and binding precedent.
 I would be entrusted with the responsibility to carefully and thoughtfully review trial court decisions based on the entire trial record and the applicable standards of review, without regard to the identity, status, or resources of the parties.
 I believe that every appeal deserves careful consideration, regardless of the amount in controversy or the background of the litigants.
 Fair process and respect for due process are essential to maintaining public confidence in the judicial system.
@@ -32,10 +30,8 @@ No one is above the law.
 Protecting due process and judicial independence is essential to ensuring justice as it also helps our communities’ trust the courts.
 I will treat every person with dignity and respect and will decide cases conscientiously and without bias.
 This strengthens public trust in the courts and upholds the integrity of the justice system.
-Supporters like you make this campaign “go” and help me deliver justice for our community and our state.
+Join My Team Donate ✖ Join My Team Today Supporters like you make this campaign “go” and help me deliver justice for our community and our state.
 Thank you for your support.
-Campaign Office
-×
-General Information
-For questions about the election, voting, or court procedures, please consult the official resources provided by the State of Texas or your local election office.
+Name Email Send Campaign Office 5773 Woodway Dr.
+Suite 156, Houston, TX 77057 (832) 819-4241 Connie@gonzalesforjustice.com Facebook-f X-twitter Instagram Join My Team Donate ✖ × General Information For questions about the election, voting, or court procedures, please consult the official resources provided by the State of Texas or your local election office.
 Political ad paid for by Connie Gonzales for Chief Justice 14th court of appeals.

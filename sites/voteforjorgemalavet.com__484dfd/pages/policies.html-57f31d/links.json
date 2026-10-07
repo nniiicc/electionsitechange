@@ -1,14 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61576949667907",
-"https://instagram.com/jorge.malavet",
-"https://secure.anedot.com/jorge-malavet-campaign/donate",
-"https://threads.com/@jorge.malavet",
-"https://tiktok.com/@malavetforflhouse",
-"https://voteforjorgemalavet.com/",
-"https://voteforjorgemalavet.com/about.html",
-"https://voteforjorgemalavet.com/index.html",
-"https://voteforjorgemalavet.com/policies.html",
-"https://voteforjorgemalavet.com/privacy-policy.html",
-"https://x.com/JorgeAMalavet",
-"https://youtube.com/@JorgeMalavet"
+{
+"text": "About",
+"href": "https://voteforjorgemalavet.com/about.html"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/jorge-malavet-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jorge-malavet-campaign/donate"
+},
+{
+"text": "Policies",
+"href": "https://voteforjorgemalavet.com/policies.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteforjorgemalavet.com/privacy-policy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforjorgemalavet.com/index.html#sign-up"
+},
+{
+"text": "[image: Follow Jorge Malavet on Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61576949667907"
+},
+{
+"text": "[image: Follow Jorge Malavet on Instagram]",
+"href": "https://www.instagram.com/jorge.malavet"
+},
+{
+"text": "[image: Follow Jorge Malavet on Threads]",
+"href": "https://www.threads.com/@jorge.malavet"
+},
+{
+"text": "[image: Follow Jorge Malavet on TikTok]",
+"href": "https://tiktok.com/@malavetforflhouse"
+},
+{
+"text": "[image: Follow Jorge Malavet on X]",
+"href": "https://x.com/JorgeAMalavet"
+},
+{
+"text": "[image: Jorge Malavet for State Representative logo]",
+"href": "https://voteforjorgemalavet.com/"
+},
+{
+"text": "[image: Jorge Malavet for State Representative logo]",
+"href": "https://voteforjorgemalavet.com/index.html"
+},
+{
+"text": "[image: Subscribe to Jorge Malavet on YouTube]",
+"href": "https://youtube.com/@JorgeMalavet"
+}
 ]

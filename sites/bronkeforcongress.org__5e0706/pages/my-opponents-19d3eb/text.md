@@ -1,7 +1,4 @@
-My Opponents
-Who Answers the Call
-My Opponents
-In the last election the Democratic Party representative was Libby Urban and I met her at a County Fair and talked to her briefly and basically said that if either of us win we both win.
+Home About us Resume Jim Bronke Info Contact My Opponents Who Answers the Call My Opponents In the last election the Democratic Party representative was Libby Urban and I met her at a County Fair and talked to her briefly and basically said that if either of us win we both win.
 I also heard her speak at an event and she talked about her experience and what she felt qualified her to represent our district in Michigan.
 She mentioned how she was the first female head of the union in Detroit the auto union and talked about her experiences doing that.
 What she didn't talk about was the problems our country faces and what her solutions are for those problems.
@@ -17,5 +14,11 @@ There must be a two-state solution it's just that simple.
 What has happened in the last year that Trump has run the Republican Party into the ground is that Walberg has supported anything that Trump does and has not voted against anything that Trump wants.
 We as Americans have had to have enough of this.
 There must be independent thinkers here across Michigan and all across the United States and if I am elected that will happen.
-A Comment on Walberg:
-Anti-Union, Pro-Israel Billionaires Are Behind Tim Walberg and His Show Trials | Truthout
+A Comment on Walberg: Anti-Union, Pro-Israel Billionaires Are Behind Tim Walberg and His Show Trials | Truthout © Copyright.
+All rights reserved.
+We need your consent to load the translations We use a third-party service to translate the website content that may collect data about your activity.
+Please review the details in the privacy policy and accept the service to view the translations.
+Decline Accept This site uses third-party website tracking technologies to provide and continually improve our services, and to display advertisements according to users' interests.
+I agree and may revoke or change my consent at any time with effect for the future.
+Configure Accept Reject Privacy Settings Website Translator IONOS SiteAnalytics Google Maps Privacy Settings This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle Select all services Toggle Website Translator More Less Toggle IONOS SiteAnalytics More Less Toggle Google Maps More Less Save Settings

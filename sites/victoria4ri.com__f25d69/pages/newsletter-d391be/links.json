@@ -1,59 +1,250 @@
 [
-"http://rilegislature.gov/",
-"https://facebook.com/victoria4ri",
-"https://instagram.com/victoria4ri",
-"https://mailchi.mp/419b029da5d5/this-week-early-voting-wine-cheese-9684028?e=2b0cc61fc0",
-"https://mailchi.mp/4626e23bc444/this-week-early-voting-wine-cheese-9695716?e=2b0cc61fc0",
-"https://mailchi.mp/482397fbb98b/this-week-early-voting-wine-cheese-9683992?e=2b0cc61fc0",
-"https://mailchi.mp/aca3b24da768/this-week-early-voting-wine-cheese-9673216?e=2b0cc61fc0",
-"https://mailchi.mp/be0188773b23/this-week-early-voting-wine-cheese-9703664?e=2b0cc61fc0",
-"https://mailchi.mp/e2edc91bc023/this-week-early-voting-wine-cheese-9680744?e=2b0cc61fc0",
-"https://secure.actblue.com/donate/victoria4ri",
-"https://themeforest.net/user/ir-tech/portfolio",
-"https://twitter.com/victoria4ri",
-"https://us14.campaign-archive.com/?u=3c65de4ede2285707d5f33c80&id=69618d8ea0",
-"https://victoria4ri.com/",
-"https://victoria4ri.com/contact",
-"https://victoria4ri.com/endorsements",
-"https://victoria4ri.com/events",
-"https://victoria4ri.com/lawn-sign",
-"https://victoria4ri.com/meet-victoria",
-"https://victoria4ri.com/news",
-"https://victoria4ri.com/newsletter",
-"https://victoria4ri.com/the-issues",
-"https://victoria4ri.com/town-hall",
-"https://victoria4ri.com/volunteer",
-"https://victoria4ri.com/wp-content/uploads/2023/08/August-updates-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2023/09/September-Updates-2nd-Mental-Health-Forum.pdf",
-"https://victoria4ri.com/wp-content/uploads/2023/11/October-2023-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/01/December-2023-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/01/November-2023-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/02/February-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/03/March-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/04/April-2024-Newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/05/May-2024-Newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/06/April-2024-newsletter2.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/06/June-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/07/july-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/09/september-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/10/october-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2024/11/november-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/01/december-2024-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/02/february-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/02/january-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/04/april-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/04/march-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/06/may-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/07/june-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/08/july-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/10/september-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/11/october-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2025/12/november-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/01/decenber-2025-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/02/feb-2026-newsletter-2.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/02/feb-2026-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/03/march-2026-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/05/may-2026-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/06/june-2026-newsletter.pdf",
-"https://victoria4ri.com/wp-content/uploads/2026/07/july-2026-newsletter.pdf"
+{
+"text": "2026 Campaign",
+"href": "https://www.victoria4ri.com/volunteer"
+},
+{
+"text": "April 2024 Updates & Fundraiser",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/04/April-2024-Newsletter.pdf"
+},
+{
+"text": "April 2025: Responding to Federal Cuts",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/04/april-2025-newsletter.pdf"
+},
+{
+"text": "April 29th Town Hall & May 7th Bond Referendum",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/06/April-2024-newsletter2.pdf"
+},
+{
+"text": "August 2023 Updates & Education and Workforce Development Forum",
+"href": "https://victoria4ri.com/wp-content/uploads/2023/08/August-updates-newsletter.pdf"
+},
+{
+"text": "Contact Us",
+"href": "https://victoria4ri.com/contact/"
+},
+{
+"text": "December 2023 Updates & Housing Forum",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/01/December-2023-newsletter.pdf"
+},
+{
+"text": "December 2024 : Happy Holidays!",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/01/december-2024-newsletter.pdf"
+},
+{
+"text": "December 2025: Why Hard Work Matters",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/01/decenber-2025-newsletter.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/victoria4ri"
+},
+{
+"text": "Endorsements",
+"href": "https://victoria4ri.com/endorsements/"
+},
+{
+"text": "February 2023 Updates",
+"href": "https://mailchi.mp/e2edc91bc023/this-week-early-voting-wine-cheese-9680744?e=2b0cc61fc0"
+},
+{
+"text": "February 2024 Updates & Climate Resiliency Forum",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/02/February-2024-newsletter.pdf"
+},
+{
+"text": "February 2025: & Scams / Fraud Town Hall on March 17th",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/02/february-2025-newsletter.pdf"
+},
+{
+"text": "February 2026: Fundraiser on Feb 26th and More Feb Updates",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/02/feb-2026-newsletter-2.pdf"
+},
+{
+"text": "February 2026: Start of the 2026 Session",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/02/feb-2026-newsletter.pdf"
+},
+{
+"text": "First Day on the Job and Priorities",
+"href": "https://us14.campaign-archive.com/?u=3c65de4ede2285707d5f33c80&id=69618d8ea0"
+},
+{
+"text": "Home",
+"href": "https://victoria4ri.com/"
+},
+{
+"text": "Ir-Tech",
+"href": "https://themeforest.net/user/ir-tech/portfolio"
+},
+{
+"text": "January 2023 Updates",
+"href": "https://mailchi.mp/aca3b24da768/this-week-early-voting-wine-cheese-9673216?e=2b0cc61fc0"
+},
+{
+"text": "January 2025: Starting the 2025 Session",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/02/january-2025-newsletter.pdf"
+},
+{
+"text": "July 2024: How a Bill Becomes a Law",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/07/july-2024-newsletter.pdf"
+},
+{
+"text": "July 2025: Town Hall Recap & Westerly Rail Action Alert",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/08/july-2025-newsletter.pdf"
+},
+{
+"text": "July 2026: Getting on the Ballot and Fundraiser on July 21",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/07/july-2026-newsletter.pdf"
+},
+{
+"text": "June 2023 End of Session Updates",
+"href": "https://mailchi.mp/be0188773b23/this-week-early-voting-wine-cheese-9703664?e=2b0cc61fc0"
+},
+{
+"text": "June 2024 Updates: The End of Another Legislative Year",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/06/June-2024-newsletter.pdf"
+},
+{
+"text": "June 2025: RI's 2025 Legislative Session in Review",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/07/june-2025-newsletter.pdf"
+},
+{
+"text": "June 2026: End-of-Session Takeaways",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/06/june-2026-newsletter.pdf"
+},
+{
+"text": "March 2024 Updates",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/03/March-2024-newsletter.pdf"
+},
+{
+"text": "March 2025: Fundraiser on Wed April 9th",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/04/march-2025-newsletter.pdf"
+},
+{
+"text": "March 2026: We Need Your Voices In Bill Hearings",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/03/march-2026-newsletter.pdf"
+},
+{
+"text": "May 2024 Updates & Disaster Relief Applications",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/05/May-2024-Newsletter.pdf"
+},
+{
+"text": "May 2025: Last Several Weeks of Session",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/06/may-2025-newsletter.pdf"
+},
+{
+"text": "May 2026: 6 Weeks Until the End of Session",
+"href": "https://victoria4ri.com/wp-content/uploads/2026/05/may-2026-newsletter.pdf"
+},
+{
+"text": "Meet Victoria",
+"href": "https://victoria4ri.com/meet-victoria/"
+},
+{
+"text": "Meet and Greets",
+"href": "https://victoria4ri.com/events/"
+},
+{
+"text": "Mid-April 2023 Updates",
+"href": "https://mailchi.mp/419b029da5d5/this-week-early-voting-wine-cheese-9684028?e=2b0cc61fc0"
+},
+{
+"text": "Mid-March 2023 Updates",
+"href": "https://mailchi.mp/482397fbb98b/this-week-early-voting-wine-cheese-9683992?e=2b0cc61fc0"
+},
+{
+"text": "Mid-May 2023 Updates",
+"href": "https://mailchi.mp/4626e23bc444/this-week-early-voting-wine-cheese-9695716?e=2b0cc61fc0"
+},
+{
+"text": "News",
+"href": "https://victoria4ri.com/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://victoria4ri.com/newsletter/"
+},
+{
+"text": "November 2023 Updates",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/01/November-2023-newsletter.pdf"
+},
+{
+"text": "November 2024 : Asking For Your Vote",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/11/november-2024-newsletter.pdf"
+},
+{
+"text": "November 2025: Rail Listening Session on Dec 10th",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/12/november-2025-newsletter.pdf"
+},
+{
+"text": "October 2023 Updates & Commuter Rail Forum",
+"href": "https://victoria4ri.com/wp-content/uploads/2023/11/October-2023-newsletter.pdf"
+},
+{
+"text": "October 2024: Important Research Before You Vote!",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/10/october-2024-newsletter.pdf"
+},
+{
+"text": "October 2025: Food Drive & Rail Survey",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/11/october-2025-newsletter.pdf"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://victoria4ri.com/lawn-sign/"
+},
+{
+"text": "Sen-Gu@rilegislature.gov",
+"href": "mailto:Sen-Gu@rilegislature.gov"
+},
+{
+"text": "September 2023 Updates & Mental Health Forum",
+"href": "https://victoria4ri.com/wp-content/uploads/2023/09/September-Updates-2nd-Mental-Health-Forum.pdf"
+},
+{
+"text": "September 2024: How to Get Involved",
+"href": "https://victoria4ri.com/wp-content/uploads/2024/09/september-2024-newsletter.pdf"
+},
+{
+"text": "September 2025 Newsletter & CRMC Public Hearing Alert",
+"href": "https://victoria4ri.com/wp-content/uploads/2025/10/september-2025-newsletter.pdf"
+},
+{
+"text": "The Issues",
+"href": "https://victoria4ri.com/the-issues/"
+},
+{
+"text": "Town Halls",
+"href": "https://victoria4ri.com/town-hall/"
+},
+{
+"text": "Volunteer",
+"href": "https://victoria4ri.com/volunteer/"
+},
+{
+"text": "[image: Logo for Victoria Gu - RI State Senate District 38]",
+"href": "https://victoria4ri.com"
+},
+{
+"text": "[image]",
+"href": "https://victoria4ri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/victoria4ri"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/victoria4ri"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/victoria4ri"
+},
+{
+"text": "http://www.rilegislature.gov",
+"href": "http://www.rilegislature.gov"
+},
+{
+"text": "jbaxter@rilin.state.ri.us",
+"href": "mailto:jbaxter@rilin.state.ri.us"
+}
 ]

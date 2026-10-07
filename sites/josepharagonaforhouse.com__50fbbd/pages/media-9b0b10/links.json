@@ -1,11 +1,42 @@
 [
-"https://facebook.com/JoeAragonaforMichigan",
-"https://josepharagonaforhouse.com/",
-"https://josepharagonaforhouse.com/contact",
-"https://josepharagonaforhouse.com/issues",
-"https://josepharagonaforhouse.com/media",
-"https://macombdaily.com/2024/12/20/macomb-republican-lawmakers-restaurant-owners-plot-to-stop-tipped-wage-law",
-"https://pbs.org/video/july-5-2024-rep-joe-aragona-r-off-the-record-xtkowo",
-"https://secure.winred.com/cte-joe-aragona/contribute",
-"https://x.com/thejoearagona"
+{
+"text": "Contact",
+"href": "https://josepharagonaforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/cte-joe-aragona/contribute"
+},
+{
+"text": "Home",
+"href": "https://josepharagonaforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://josepharagonaforhouse.com/issues"
+},
+{
+"text": "Media",
+"href": "https://josepharagonaforhouse.com/media"
+},
+{
+"text": "[image: Joseph Aragona for State Representative logo]",
+"href": "https://josepharagonaforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.macombdaily.com/2024/12/20/macomb-republican-lawmakers-restaurant-owners-plot-to-stop-tipped-wage-law/"
+},
+{
+"text": "[image]",
+"href": "https://www.pbs.org/video/july-5-2024-rep-joe-aragona-r-off-the-record-xtkowo/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/JoeAragonaforMichigan/"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/thejoearagona"
+}
 ]

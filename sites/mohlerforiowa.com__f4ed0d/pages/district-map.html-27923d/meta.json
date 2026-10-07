@@ -1,7 +1,9 @@
 {
  "description": "Interactive map of Iowa House and Senate districts. Find your legislators and their contact info.",
  "final_url": "https://mohlerforiowa.com/district-map.html",
- "paid_for_by": null,
+ "fingerprint": "af3a2836db6f0bf774c82740c8bb1916082f6065",
+ "format": 3,
+ "paid_for_by": "Paid for by Mohler for Iowa",
  "title": "Iowa District Map | Mohler for Iowa",
  "years_mentioned": []
 }

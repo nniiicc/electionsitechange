@@ -1,18 +1,70 @@
 [
-"https://davidsonforcongress.com/",
-"https://davidsonforcongress.com/about-warren",
-"https://davidsonforcongress.com/district",
-"https://davidsonforcongress.com/issues",
-"https://davidsonforcongress.com/privacy-policy",
-"https://davidsonforcongress.com/shop",
-"https://davidsonforcongress.com/volunteer",
-"https://facebook.com/CongressmanWarrenDavidson",
-"https://instagram.com/repwarrendavidson",
-"https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab",
-"https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=100",
-"https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=5",
-"https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=50",
-"https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=500",
-"https://x.com/WarrenDavidson",
-"https://youtube.com/@congressmanwarrendavidson2640?si=uiAhrWxxJbXFYTLO"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=100"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab?amount=500"
+},
+{
+"text": "About Warren",
+"href": "https://www.davidsonforcongress.com/about-warren/"
+},
+{
+"text": "Continue to site",
+"href": "https://www.davidsonforcongress.com"
+},
+{
+"text": "District",
+"href": "https://www.davidsonforcongress.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/CongressmanWarrenDavidson/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repwarrendavidson"
+},
+{
+"text": "Issues",
+"href": "https://www.davidsonforcongress.com/issues/"
+},
+{
+"text": "Learn more",
+"href": "https://www.davidsonforcongress.com/district/"
+},
+{
+"text": "Shop",
+"href": "https://www.davidsonforcongress.com/shop/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davidsonforcongress.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/WarrenDavidson"
+},
+{
+"text": "Youtube",
+"href": "https://youtube.com/@congressmanwarrendavidson2640?si=uiAhrWxxJbXFYTLO"
+},
+{
+"text": "[image]",
+"href": "https://www.davidsonforcongress.com"
+}
 ]

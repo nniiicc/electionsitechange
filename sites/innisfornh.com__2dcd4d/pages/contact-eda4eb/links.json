@@ -1,8 +1,34 @@
 [
-"https://innisfornh.com/",
-"https://innisfornh.com/about",
-"https://innisfornh.com/contact",
-"https://innisfornh.com/privacy-terms",
-"https://innisfornh.wpenginepowered.com/",
-"https://secure.winred.com/friends-of-dan-innis-7e71b46a/donate-today"
+{
+"text": "603-285-1150",
+"href": "tel:6032851150"
+},
+{
+"text": "About",
+"href": "https://innisfornh.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://innisfornh.com/contact/"
+},
+{
+"text": "Dan@daninnisforsenate.com",
+"href": "mailto:Dan@daninnisforsenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-dan-innis-7e71b46a/donate-today"
+},
+{
+"text": "Home",
+"href": "https://innisfornh.com/"
+},
+{
+"text": "[image]",
+"href": "https://innisfornh.wpenginepowered.com/"
+},
+{
+"text": "here",
+"href": "https://innisfornh.com/privacy-terms/"
+}
 ]

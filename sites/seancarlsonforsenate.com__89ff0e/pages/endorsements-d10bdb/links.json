@@ -1,42 +1,186 @@
 [
-"http://teamsters243.org/",
-"https://aftmichigan.org/",
-"https://committeetoprotect.org/",
-"https://constructionlaborers1076.org/",
-"https://designedtorun.com/",
-"https://detroitnews.com/story/opinion/editorials/2026/07/12/our-picks-for-state-senate-from-oakland-co-endorsements/90737777007",
-"https://facebook.com/profile.php?id=61579352702200",
-"https://freep.com/story/opinion/editorials/2026/07/02/free-press-2026-endorsements-michigan-state-legislature-senate-primary/90506186007",
-"https://ibewmichigan.com/local58",
-"https://instagram.com//seancarlsonforstatesenate",
-"https://ironworkers25.org/",
-"https://mea.org/",
-"https://miaflcio.org/",
-"https://miafscme.org/",
-"https://michiganbuildingtrades.org/",
-"https://michiganjustice.org/",
-"https://michiganlcv.org/",
-"https://micountyroads.org/wp-content/uploads/07.01.26-Roads-announces-endorsements-for-2026-August-primary-election.pdf",
-"https://milist.org/",
-"https://miplannedparenthood.org/",
-"https://momsdemandaction.org/",
-"https://mpffu.org/",
-"https://newpolitics.org/",
-"https://nmcarpenters.com/",
-"https://pipefitters636.org/",
-"https://retailers.com/news/mra-names-126-candidates-as-friends-of-retail",
-"https://seancarlsonforsenate.com/",
-"https://seancarlsonforsenate.com/about",
-"https://seancarlsonforsenate.com/contact",
-"https://seancarlsonforsenate.com/news",
-"https://seancarlsonforsenate.com/priorities",
-"https://secure.actblue.com/donate/carlsonweb",
-"https://seiumi.org/",
-"https://sierraclub.org/michigan",
-"https://sladems.org/",
-"https://ualocal98.org/",
-"https://uaw.org/",
-"https://ufcw951.org/",
-"https://usw.org/districts/district-1",
-"https://votevets.org/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carlsonweb"
+},
+{
+"text": "Get Involved",
+"href": "https://www.seancarlsonforsenate.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.seancarlsonforsenate.com/"
+},
+{
+"text": "Meet Sean",
+"href": "https://www.seancarlsonforsenate.com/about"
+},
+{
+"text": "News",
+"href": "https://www.seancarlsonforsenate.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.seancarlsonforsenate.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: AFSCME]",
+"href": "https://miafscme.org/"
+},
+{
+"text": "[image: AFT Michigan]",
+"href": "https://aftmichigan.org/"
+},
+{
+"text": "[image: Committee to Protect Health Care]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image: Detroit Free Press]",
+"href": "https://www.freep.com/story/opinion/editorials/2026/07/02/free-press-2026-endorsements-michigan-state-legislature-senate-primary/90506186007/#district-13"
+},
+{
+"text": "[image: Detroit Plumbers 98]",
+"href": "https://ualocal98.org/"
+},
+{
+"text": "[image: IBEW 58]",
+"href": "https://www.ibewmichigan.com/local58"
+},
+{
+"text": "[image: Iron Workers 25]",
+"href": "https://www.ironworkers25.org/"
+},
+{
+"text": "[image: LiUNA 1076]",
+"href": "https://www.constructionlaborers1076.org/"
+},
+{
+"text": "[image: MAJ]",
+"href": "https://www.michiganjustice.org/"
+},
+{
+"text": "[image: MAPO]",
+"href": "http://www.mapo411.com/"
+},
+{
+"text": "[image: MEA]",
+"href": "https://mea.org/"
+},
+{
+"text": "[image: MI AFL-CIO]",
+"href": "https://miaflcio.org/"
+},
+{
+"text": "[image: MI Building Trades]",
+"href": "https://www.michiganbuildingtrades.org/"
+},
+{
+"text": "[image: MI LCV]",
+"href": "https://www.michiganlcv.org/"
+},
+{
+"text": "[image: MI List]",
+"href": "https://milist.org/"
+},
+{
+"text": "[image: MI Retail Association]",
+"href": "https://www.retailers.com/news/mra-names-126-candidates-as-friends-of-retail"
+},
+{
+"text": "[image: MIHPC]",
+"href": "https://mihpc.org/"
+},
+{
+"text": "[image: MNA]",
+"href": "https://minurses.org/"
+},
+{
+"text": "[image: MPFFU]",
+"href": "https://www.mpffu.org/"
+},
+{
+"text": "[image: Moms Demand Action]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: NMRCC]",
+"href": "https://www.nmcarpenters.com/"
+},
+{
+"text": "[image: New Politics]",
+"href": "https://www.newpolitics.org/"
+},
+{
+"text": "[image: PPAM]",
+"href": "https://www.miplannedparenthood.org/"
+},
+{
+"text": "[image: Pipefitters 636]",
+"href": "https://pipefitters636.org/"
+},
+{
+"text": "[image: Repro Freedom for All]",
+"href": "https://reproductivefreedomforall.org/state/michigan/"
+},
+{
+"text": "[image: Roads+]",
+"href": "https://micountyroads.org/wp-content/uploads/07.01.26-Roads-announces-endorsements-for-2026-August-primary-election.pdf"
+},
+{
+"text": "[image: SBAM]",
+"href": "https://www.sbam.org/why-join-sbam/?gad_source=1&gad_campaignid=23278070285&gbraid=0AAAAAp4jbTlyENvNp9YuKTYbFB-rgqJis"
+},
+{
+"text": "[image: SEIU Michigan]",
+"href": "https://www.seiumi.org/"
+},
+{
+"text": "[image: Sean Carlson for State Senate logo]",
+"href": "https://www.seancarlsonforsenate.com/"
+},
+{
+"text": "[image: Sean Carlson for State Senate]",
+"href": "https://www.seancarlsonforsenate.com/"
+},
+{
+"text": "[image: Sierra Club]",
+"href": "https://www.sierraclub.org/michigan"
+},
+{
+"text": "[image: Teamsters 243]",
+"href": "http://www.teamsters243.org/"
+},
+{
+"text": "[image: UAW]",
+"href": "https://uaw.org/"
+},
+{
+"text": "[image: UFCW 876]",
+"href": "https://www.ufcw876.org/"
+},
+{
+"text": "[image: UFCW 951]",
+"href": "https://ufcw951.org/"
+},
+{
+"text": "[image: USW District 1]",
+"href": "https://usw.org/districts/district-1/"
+},
+{
+"text": "[image: VoteVets]",
+"href": "https://votevets.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579352702200"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//seancarlsonforstatesenate/"
+}
 ]

@@ -1,11 +1,50 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61573346258395&sa=D&sntz=1&usg=AOvVaw0hrC2sk8pbBFAP343ecZJF",
-"https://google.com/url?q=https%3A%2F%2Fwww.recorder.pima.gov%2FVoterStats%2FPrecinctDistrictSearch&sa=D&sntz=1&usg=AOvVaw2xhvWo7YmsOGRWbsxMfTO6",
-"https://vote.arizonadougster.com/about",
-"https://vote.arizonadougster.com/get-involved",
-"https://vote.arizonadougster.com/happenings",
-"https://vote.arizonadougster.com/home",
-"https://vote.arizonadougster.com/issues",
-"https://vote.arizonadougster.com/ld-map",
-"https://vote.arizonadougster.com/literature"
+{
+"text": "About",
+"href": "https://vote.arizonadougster.com/about"
+},
+{
+"text": "Click this button to confirm your address is in LD 18 (Pima County Recorder)",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.recorder.pima.gov%2FVoterStats%2FPrecinctDistrictSearch&sa=D&sntz=1&usg=AOvVaw2xhvWo7YmsOGRWbsxMfTO6"
+},
+{
+"text": "Douglas Everett LD18",
+"href": "https://vote.arizonadougster.com/home"
+},
+{
+"text": "Get Involved",
+"href": "https://vote.arizonadougster.com/get-involved"
+},
+{
+"text": "Happenings",
+"href": "https://vote.arizonadougster.com/happenings"
+},
+{
+"text": "Home",
+"href": "https://vote.arizonadougster.com/home"
+},
+{
+"text": "Issues",
+"href": "https://vote.arizonadougster.com/issues"
+},
+{
+"text": "LD Map",
+"href": "https://vote.arizonadougster.com/ld-map"
+},
+{
+"text": "Literature",
+"href": "https://vote.arizonadougster.com/literature"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61573346258395&sa=D&sntz=1&usg=AOvVaw0hrC2sk8pbBFAP343ecZJF"
+},
+{
+"text": "[image]",
+"href": "https://vote.arizonadougster.com/home"
+},
+{
+"text": "[image]Douglas Everett LD18",
+"href": "https://vote.arizonadougster.com/home"
+}
 ]

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/jimmy.pittsford",
-"https://instagram.com/wix",
-"https://pittsford4indiana.com/",
-"https://pittsford4indiana.com/about",
-"https://pittsford4indiana.com/calendar",
-"https://pittsford4indiana.com/endorsements",
-"https://pittsford4indiana.com/gallery",
-"https://pittsford4indiana.com/volunteers",
-"https://secure.actblue.com/donate/james-pittsford-iii-1",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.pittsford4indiana.com/about"
+},
+{
+"text": "Calendar",
+"href": "https://www.pittsford4indiana.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/james-pittsford-iii-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pittsford4indiana.com/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.pittsford4indiana.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.pittsford4indiana.com"
+},
+{
+"text": "Volunteers",
+"href": "https://www.pittsford4indiana.com/volunteers"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jimmy.pittsford"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+},
+{
+"text": "pittsford4indiana@outlook.com",
+"href": "mailto:info@mysite.com"
+}
 ]

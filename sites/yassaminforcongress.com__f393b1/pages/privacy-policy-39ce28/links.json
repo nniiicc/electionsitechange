@@ -1,23 +1,106 @@
 [
-"https://adobe.com/products/flashplayer/security",
-"https://facebook.com/yassaminansari",
-"https://instagram.com/yassaminansari",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/yassaminansari_web",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=10",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=100",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=25",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=250",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=50",
-"https://twitter.com/yassaminansari",
-"https://yassaminforcongress.com/",
-"https://yassaminforcongress.com/?page_id=944",
-"https://yassaminforcongress.com/about",
-"https://yassaminforcongress.com/contact",
-"https://yassaminforcongress.com/endorsements",
-"https://yassaminforcongress.com/es/privacy-policy",
-"https://yassaminforcongress.com/media",
-"https://yassaminforcongress.com/news",
-"https://yassaminforcongress.com/privacy-policy",
-"https://yassaminforcongress.myshopify.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=50"
+},
+{
+"text": "About Yassamin",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Endorsements",
+"href": "https://yassaminforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/yassaminansari/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yassaminansari/"
+},
+{
+"text": "Issues & Policy",
+"href": "https://yassaminforcongress.com/?page_id=944"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media/"
+},
+{
+"text": "Meet Yass",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://yassaminforcongress.com/news"
+},
+{
+"text": "News & Press",
+"href": "https://yassaminforcongress.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://yassaminforcongress.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://yassaminforcongress.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/yassaminansari"
+},
+{
+"text": "[image: es_ES]Español",
+"href": "https://yassaminforcongress.com/es/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://yassaminforcongress.com"
+},
+{
+"text": "info@yassaminforcongress.com",
+"href": "mailto:info@yassaminforcongress.com"
+}
 ]

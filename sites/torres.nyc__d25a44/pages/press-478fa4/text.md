@@ -1,124 +1,57 @@
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-AMNY
-Bronx Times
-AMNY
-AMNY
-Bronx Times
-Bronx Times
-Politics NY
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Gay City News
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Bronx Times
-Gizmodo
-Fox News
-Washington Post
-AMNY
-PaymentsDive
-Business Insider
-Axios
-NPR
-Front Office Sports
-NPR
-The Block
-The Bulwark
-ABC7
-Norwood News
-Chalkbeat
-ABC7
-Bronx Times
-Quiver Quant
-The Contrarian
-NPR
-Advocate
-CNN
-The Atlantic
-The Contrarian
-CBS
-CNN
-CBS
-NY Post
-The Contrarian
-The Hill
-The Hill
-Axios
-Riverdale Press
-The Hill
-City & State
-News 12
-The Bulwark
-WSJ
-New York Times
-NY Post
-Washington Post
-Fox News
-NBC
-Time
-Advocate
-Oprah Daily
-The City
-Fire Island News
-City & State
-City & State
-CNN
-Spectrum NY 1
-New Yorker
-New Yorker
-NBC
-Bronx Times
-Riverdale Press
-ABC
-CBS
-New York Times
-NBC
-Spectrum NY 1
-ABC7
-NBC
-CBS
-New York Times
-Bronx Times
-Bronx Times
-Help us build a better Bronx.
+Meet Ritchie Endorsements Volunteer Media X (Twitter) Facebook Instagram YouTube TikTok Substack Donate Donate Meet Ritchie Endorsements Volunteer Media Donate In the News Bronx Times Photos: Torres hosts community roundtable on gun violence prevention and public safety Bronx Times INTERVIEW: Trailblazer Ritchie Torres Bronx Times Ritchie Torres calls on NYCHA to convert Mitchel Houses to electric energy, residents agree Bronx Times Bronx congressman demands action to dismantle open-air drug market in the Hub Bronx Times Under the CHEFS Act, Torres wants restaurants to get a tax credit to clean up their grills Bronx Times Hochul, Torres call on state to reject Con Edison’s proposed rate hikes Bronx Times Rep.
+Torres, VIP Community Services and other elected officials hosting annual job fair Sept.
+5 Bronx Times Op-Ed | Ritchie Torres is right.
+To help vulnerable communities, policymakers must embrace crypto Bronx Times Rep.
+Torres: Trump cuts to SNAP and Medicaid would spell disaster for the Bronx Bronx Times U.S.
+Rep.
+Ritchie Torres secures over $18M in funding for Bronx projects Bronx Times Torres continues full court press on Adams admin over drug use in the Hub Bronx Times Rep.
+Torres honors Hostos Community College president for Women’s History Month Bronx Times Rep.
+Torres introduces bill targeting slumlords; requires heat sensors in federally subsidized buildings Bronx Times U.S.
+Rep Torres pushes for consumer advocacy office as Con Edison rate hikes loom Bronx Times Hochul and Torres rally at Lincoln Hospital against ‘cruel’ Trump health care cuts Bronx Times Torres calls for federal assistance to Mitchel Houses and NYCHA following partial building collapse Bronx Times Torres calls on City Hall to fund Harlem River Environmental Restoration Project Bronx Times Torres introduces River’s Law to ban swimming pools at residential daycares after tot’s deadly drowning Bronx Times Rep.
+Torres accuses utility company Con Edison of price gouging, says Bronx residents pay highest rates in NYC Bronx Times U.S.
+Reps Torres and Emmer introduce bill to expand mental health services Bronx Times Rep.
+Torres, Fordham University co-host urban agriculture and food security roundtable Bronx Times Rep.
+Torres calls for increase in funding to help make New York City’s subways safer following fatal shooting at Bronx station Bronx Times EXCLUSIVE: Torres calls for treatment plans for those city is chasing away from Roberto Clemente Plaza Bronx Times Bronx Rep.
+Torres touts affordable housing dub in now-failed Signature Bank loan sale Bronx Times Torres announces new legislation aimed at protecting seniors’ access to Medicare Bronx Times Torres introduces new legislation following failures of Silicon Valley Bank, Signature Bank Bronx Times Torres, Revel announce first high-power EV charger coming to Port Morris AMNY George Santos scandal | Torres introduces bill to require Congressional candidates disclose education, work history under oath Bronx Times Torres warns of potential housing crisis in the wake of NYC Signature Bank flop last month AMNY George Santos scandal: Goldman, Torres urge GOP House leadership to ‘cooperate’ with investigations AMNY Goldman, Torres request House Ethics probe into George Santos’ ‘deeply concerning’ campaign finance filings Bronx Times Office-to-residential conversion plan gets backing from Bronx pols Torres, Espaillat Bronx Times Rep.
+Torres calls for FBI investigation into Riverdale-based diplomatic compound tied to Russia Politics NY Reps.
+Clarke, Torres Introduce Federal Legislation on Manufacturing of Space Heaters Bronx Times Torres introduces new bipartisan fire safety legislation in hopes of preventing another Twin Parks Bronx Times Schumer and Torres unveil 4-point federal fire safety package in response to Bronx fire Bronx Times Torres attends Bronxchester Houses Family Day Bronx Times Schumer and Torres announce support for federal dollars to cap Cross Bronx Gay City News In Historic Meeting with Biden, Torres Advocates for End to Blood Ban Bronx Times Torres and gun safety advocates announce new federal push to curb ghost guns Bronx Times Gillibrand and Torres unveil safety proposals in wake of Fordham Heights fire Bronx Times Torres introduces bill to combat veteran homelessness Bronx Times Schumer, Torres push for federal money for NYC public hospitals Bronx Times Torres bill to improve DHS software against cyberattacks passes Homeland Security Committee Bronx Times Torres and Schumer urge FTA to expedite Penn Station Access Project Bronx Times Ritchie Torres responds to Capitol Building storm of Trump supporters Bronx Times Torres and elected officials commemorate 100th anniversary of Tulsa massacre Bronx Times Torres introduces legislation to combat homelessness Bronx Times Schumer, Torres unveil plan to push for $80 plus billion investment in public housing Bronx Times Torres and environmental groups push Biden Admin to invest in capping the Cross BX Bronx Times Torres and Burgos announce legislation on housing access for formerly incarcerated Bronx Times Torres and patients pressure United Healthcare against dropping health coverage and insurance Bronx Times Torres announces new funding for Bronx health centers for COVID vaccines & care Bronx Times Torres and gun violence victims and families urge congressional action Bronx Times AOC, Torres, Schumer call for Trump’s immediate removal, other Bronx reps share details of Capitol lockdown Gizmodo Dem Congressman Wants to Make ICE Agents Wear QR Codes Fox News House Dem introduces bill after Venezuela operation to block presidents from bypassing Congress Washington Post Opinion | Who used the Maduro raid to earn $400K?
+The pool of suspects is alarming.
+AMNY Bronx Congress Member Ritchie Torres pushing bill to mandate that all ICE agents have QR codes on uniforms to identify themselves PaymentsDive House Democrat joins EWA effort Business Insider A well-timed Maduro bet on Polymarket paid out big.
+A new bill would keep government insiders out.
+Axios A congressman wants to criminalize insider trading on prediction markets NPR Rep.
+Ritchie Torres on why he opposes the Senate deal to reopen the government Front Office Sports Prediction Market Scrutiny Intensifies With Introduction of Insider Trading Bill NPR Rep.
+Ritchie Torres, D-N.Y., talks about the government shutdown The Block Ex-House Speaker Nancy Pelosi, other Democrats back bill to ban elected officials from political prediction market bets The Bulwark America’s Wars Shouldn't Be a Casino (w/ Rep.
+Ritchie Torres) ABC7 Up Close: NY Congressman Ritchie Torres on government shutdown; former Gov.
+Paterson on mayoral race Norwood News Ritchie Torres Decries Trump’s Firing of Democratic Appointees for Oversight of Puerto Rico Chalkbeat Bronx Rep.
+Ritchie Torres demands answers from ICE on arrest of NYC high school student ABC7 Bronx residents call on feds to fund SNAP benefits that keep families afloat Bronx Times Ritchie Torres calls on NYCHA to convert Mitchel Houses to electric energy, residents agree Quiver Quant New Bill: Representative Ritchie Torres introduces H.R.
+6603: Our Parks Act The Contrarian Maduro's Arrest Made WHO 400k Richer?
+NPR Democrats must counter Texas' redistricting 'cheating,' says Rep.
+Ritchie Torres Advocate LGBTQ+ officials denounce ICE killing of Minneapolis woman, demand investigation CNN Adapt ... or we're in danger of becoming extinct': See Rep.
+Torres' warning for Democrats The Atlantic The Fight for the Political Center The Contrarian Eight Senate Democrats Just Betrayed the Country: Rep.
+Ritchie Torres on the Shutdown 'Deal' CBS Rep.
+Ritchie Torres calls Trump budget bill "a catastrophe for the working poor people of the Bronx" CNN Rep.
+Ritchie Torres: Trump's deportation actions "dangerous" CBS Rep.
+Ritchie Torres continues to call for clean-up in South Bronx's Hub NY Post Rep.
+Ritchie Torres blasts NYC for failing to clean up ‘Broadway of the Bronx’ as report finds it’s overrun with junkies The Contrarian Rep.
+Ritchie Torres on the Whiplash of Trump's Tariffs The Hill House Democrat to Jennings: Medicaid caregivers ‘working much harder than you are’ The Hill NYC congressman reacts to Trump coin: ‘Money should feature beautiful faces’ Axios Scoop: House Dem drafts bill to criminalize classified Signal chats Riverdale Press U.S.
+Rep.
+Ritchie Torres reintroduces BODEGA Act The Hill Torres to introduce resolution condemning Ogles over Mamdani, Jeffries comments City & State The evolution of Ritchie Torres News 12 Rep.
+Ritchie Torres calls on state commission to reject Con Edison proposed rate increases The Bulwark Trump Promised Justice.
+Why Is He Hiding? (w/ Rep.
+Ritchie Torres) WSJ Ritchie Torres: ‘We Should Break That Cycle of Insanity’ New York Times New York’s Superstar Progressive Isn’t A.O.C.
+NY Post Rep.
+Ritchie Torres: My school was named after two slain NYPD cops — their killer was released from prison Washington Post Rep.
+Ritchie Torres on the future for Democrats and the lessons of 2024 Fox News Dem rep calls out NYC's ongoing failure to tackle Bronx 'open air drug market' crisis NBC Ritchie Torres becomes first gay Afro Latino elected to Congress Time Ritchie Torres on How Struggling With Depression Makes Him a Better Congressman Advocate New York Dem Ritchie Torres discusses the fight for LGBTQ+ representation as election looms Oprah Daily Portrait of a Congressman The City Rep.
+Ritchie Torres Decries ‘Shocking’ Disparities That Cut NYC Out of Green Bonds Fire Island News INTERVIEW: Trailblazer Ritchie Torres City & State Ritchie Torres once again pushing consequences for Santos City & State Ritchie Torres won’t follow your script CNN Ritchie Torres wins House race and will become first Black member of Congress who identifies as gay Spectrum NY 1 Rep.
+Ritchie Torres: Averting government shutdown is 'a win for the American people' New Yorker Ritchie Torres, Another Young Bronx Progressive, Launches a Run for Congress New Yorker Ritchie Torres Represents the Bronx from his Apartment NBC Rep.
+Ritchie Torres feels 'the weight of history' on his shoulders Bronx Times Op-Ed | Ritchie Torres is right.
+To help vulnerable communities, policymakers must embrace crypto Riverdale Press Rep.
+Ritchie Torres, running for re-election, highlights significant achievements ABC NY congressman opens up about struggling with depression to 'break the shame, silence and stigma' CBS Rep.
+Ritchie Torres sounds alarm over "open-air drug market" in the Bronx New York Times Torres and Jones Win and Will Become 1st Gay Black Members of Congress NBC How Ritchie Torres, Congress's first gay Afro-Latino, won on 'bread-and-butter issues' Spectrum NY 1 Rep.
+Torres re-ups call for probe of $9B Medicaid home care contract ABC7 Youngest elected official in NYC history credits historic rise to Latino upbringing NBC Barrier-breaking Rep.
+Ritchie Torres went from public housing to House of Representatives CBS Rep.
+Ritchie Torres on "that triumph of hope" New York Times Ritchie Torres for Congress in the Bronx Bronx Times U.S.
+Rep.
+Ritchie Torres secures over $18M in funding for Bronx projects Bronx Times Rep.
+Torres, Fordham University co-host urban agriculture and food security roundtable Contact Us: info@torres.nyc For press inquiries: ritchietorrespress@gmail.com Paid for by Torres for Congress Our Privacy Policy • Supporter Toolkit X (Twitter) Facebook Instagram YouTube TikTok Substack Donate To Congressman Ritchie Torres Help us build a better Bronx.
+Donate

@@ -1,13 +1,62 @@
 [
-"http://tracyfororegon.com/",
-"https://secure.anedot.com/tracycramer/website",
-"https://tracyfororegon.com/",
-"https://tracyfororegon.com/cart",
-"https://tracyfororegon.com/contact",
-"https://tracyfororegon.com/endorsements",
-"https://tracyfororegon.com/home",
-"https://tracyfororegon.com/map",
-"https://tracyfororegon.com/priorities",
-"https://tracyfororegon.com/privacy-policy",
-"https://tracyfororegon.com/volunteer"
+{
+"text": "0",
+"href": "https://www.tracyfororegon.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.tracyfororegon.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.tracyfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tracycramer/website"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/tracycramer/website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tracyfororegon.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.tracyfororegon.com/"
+},
+{
+"text": "Home",
+"href": "https://www.tracyfororegon.com/home"
+},
+{
+"text": "Priorities",
+"href": "https://www.tracyfororegon.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tracyfororegon.com/privacy-policy"
+},
+{
+"text": "SD 11 Map",
+"href": "https://www.tracyfororegon.com/map"
+},
+{
+"text": "TracyforOregon.com",
+"href": "http://tracyfororegon.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tracyfororegon.com/volunteer"
+},
+{
+"text": "[image: Tracy Cramer for Oregon]",
+"href": "https://www.tracyfororegon.com/"
+},
+{
+"text": "info@tracyfororegon.com",
+"href": "mailto:info@tracyfororegon.com"
+}
 ]

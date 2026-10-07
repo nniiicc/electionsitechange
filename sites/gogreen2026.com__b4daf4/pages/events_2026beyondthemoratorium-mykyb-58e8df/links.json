@@ -1,36 +1,154 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+in+Maryland+Rally&dates=20261003T170000Z%2F20261003T190000Z&location=25+Calvert+Street%2C+Annapolis%2C+Maryland%2C+21401%2C+United+States",
-"http://maps.google.com/?q=25+Calvert+Street+Annapolis%2C+Maryland%2C+21401+United+States",
-"https://bonfire.com/store/andy-ellis-for-governor",
-"https://facebook.com/profile.php?id=100087765158737",
-"https://forms.gle/fQcpjtDTinWrcEWx5",
-"https://forms.gle/reX3fD7vTMC5SkhP8",
-"https://gogreen2026.com/",
-"https://gogreen2026.com/about-1",
-"https://gogreen2026.com/campaign-plan",
-"https://gogreen2026.com/cart",
-"https://gogreen2026.com/contact",
-"https://gogreen2026.com/donate",
-"https://gogreen2026.com/events",
-"https://gogreen2026.com/events/2026beyondthemoratorium",
-"https://gogreen2026.com/events/2026beyondthemoratorium-mykyb?format=ical",
-"https://gogreen2026.com/events/2026takomaparkstreetfestival-9n958",
-"https://gogreen2026.com/get-involved",
-"https://gogreen2026.com/issues-2",
-"https://gogreen2026.com/media",
-"https://gogreen2026.com/meet-andy",
-"https://gogreen2026.com/meet-owen",
-"https://gogreen2026.com/news",
-"https://gogreen2026.com/platform",
-"https://gogreen2026.com/press-kit",
-"https://gogreen2026.com/priorities",
-"https://gogreen2026.com/take-action",
-"https://gogreen2026.com/volunteer",
-"https://gogreen2026.com/why-we-are-running",
-"https://instagram.com/gogreenmd",
-"https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W",
-"https://twitter.com/gogreen2026",
-"https://youtube.com/@GoGreen2026",
-"https://youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5",
-"https://youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=25+calvert+street+annapolis%2C+maryland%2C+21401+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gogreen2026.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.gogreen2026.com/events"
+},
+{
+"text": "Bumper Stickers",
+"href": "https://forms.gle/fQcpjtDTinWrcEWx5"
+},
+{
+"text": "Campaign Plan",
+"href": "https://www.gogreen2026.com/campaign-plan"
+},
+{
+"text": "Contact",
+"href": "https://www.gogreen2026.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.gogreen2026.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.gogreen2026.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.gogreen2026.com/about-1"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.gogreen2026.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gogreen2026.com/issues-2"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.gogreen2026.com/media"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+in+Maryland+Rally&dates=20261003T170000Z%2F20261003T190000Z&location=25+Calvert+Street%2C+Annapolis%2C+Maryland%2C+21401%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb?format=ical"
+},
+{
+"text": "Livestream",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+},
+{
+"text": "Meet Andy",
+"href": "https://www.gogreen2026.com/meet-andy"
+},
+{
+"text": "Meet Owen",
+"href": "https://www.gogreen2026.com/meet-owen"
+},
+{
+"text": "Merchandise",
+"href": "https://www.bonfire.com/store/andy-ellis-for-governor/"
+},
+{
+"text": "News",
+"href": "https://www.gogreen2026.com/news"
+},
+{
+"text": "Next Next October 4 Takoma Park Street Festival",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
+},
+{
+"text": "Platform",
+"href": "https://www.gogreen2026.com/platform"
+},
+{
+"text": "Podcast",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5"
+},
+{
+"text": "Press Kit",
+"href": "https://www.gogreen2026.com/press-kit"
+},
+{
+"text": "Previous Previous September 27 Beyond the Moratorium",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+},
+{
+"text": "Priorities",
+"href": "https://www.gogreen2026.com/priorities"
+},
+{
+"text": "Take Action",
+"href": "https://www.gogreen2026.com/take-action"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gogreen2026.com/volunteer"
+},
+{
+"text": "Why We Are Running",
+"href": "https://www.gogreen2026.com/why-we-are-running"
+},
+{
+"text": "Yard Signs",
+"href": "https://forms.gle/reX3fD7vTMC5SkhP8"
+},
+{
+"text": "[image: Andy Ellis For Governor 2026]",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "[no text]",
+"href": "https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gogreen2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100087765158737"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gogreenmd/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GoGreen2026"
+},
+{
+"text": "andy@gogreen2026.com",
+"href": "mailto:andy@gogreen2026.com"
+}
 ]

@@ -1,9 +1,42 @@
 [
-"http://facebook.com/staabsmosd16",
-"https://staabsmosd16.com/",
-"https://staabsmosd16.com/contact-us",
-"https://staabsmosd16.com/donations-of-time-or-money",
-"https://staabsmosd16.com/issues-stances",
-"https://staabsmosd16.com/merchandise-and-swag",
-"https://webador.com/"
+{
+"text": "Contact Us",
+"href": "https://www.staabsmosd16.com/contact-us"
+},
+{
+"text": "Donations of Time or Money",
+"href": "https://www.staabsmosd16.com/donations-of-time-or-money"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/staabsmosd16"
+},
+{
+"text": "Home",
+"href": "https://www.staabsmosd16.com/"
+},
+{
+"text": "How can I help",
+"href": "https://www.staabsmosd16.com/donations-of-time-or-money"
+},
+{
+"text": "Issues & Stances",
+"href": "https://www.staabsmosd16.com/issues-stances"
+},
+{
+"text": "Merchandise and Swag",
+"href": "https://www.staabsmosd16.com/merchandise-and-swag"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.staabsmosd16.com/#main-content"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com/"
+}
 ]

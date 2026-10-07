@@ -1,29 +1,158 @@
 [
-"http://kipkescholarships.com/",
-"http://mhec.state.md.us/financialAid/UNIQUE%20MAJOR%20APPLICATION%20(NEW)%20(2).pdf",
-"https://facebook.com/delegatekipke",
-"https://instagram.com/delegate_kipke",
-"https://kipke.com/",
-"https://kipke.com/about-delegate-nic-kipke",
-"https://kipke.com/coffee-with-kipke",
-"https://kipke.com/constituent-service",
-"https://kipke.com/contact",
-"https://kipke.com/events",
-"https://kipke.com/issues",
-"https://kipke.com/join-nic-kipke-for-cocktails",
-"https://kipke.com/kipke-christmas",
-"https://kipke.com/legislative-intern-program-for-college-students",
-"https://kipke.com/legislative-scholarship-program",
-"https://kipke.com/neighborhood-tours",
-"https://kipke.com/news",
-"https://kipke.com/nic-kipke-and-district-31-republican-legislative-slate-file-for-2026-election",
-"https://kipke.com/pasadena-service-league",
-"https://kipke.com/privacy-policy",
-"https://kipke.com/services",
-"https://kipke.com/volunteer",
-"https://kipkechristmas.com/",
-"https://mojo.biz/",
-"https://secure.anedot.com/nickipke/contribute",
-"https://twitter.com/kipke",
-"https://youtube.com/user/NicKipke"
+{
+"text": "About",
+"href": "https://kipke.com/about-delegate-nic-kipke/"
+},
+{
+"text": "Access Website",
+"href": "https://kipkechristmas.com/"
+},
+{
+"text": "Cocktails with Kipke",
+"href": "https://kipke.com/cocktails/"
+},
+{
+"text": "Coffee with Kipke",
+"href": "https://kipke.com/coffee-with-kipke/"
+},
+{
+"text": "Constituent Service",
+"href": "https://kipke.com/constituent-service/"
+},
+{
+"text": "Contact",
+"href": "https://kipke.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/nickipke/contribute"
+},
+{
+"text": "Events",
+"href": "https://kipke.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/delegatekipke"
+},
+{
+"text": "Home",
+"href": "https://kipke.com/"
+},
+{
+"text": "Icon-twitter-x",
+"href": "https://twitter.com/kipke"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/delegate_kipke/"
+},
+{
+"text": "Issues",
+"href": "https://kipke.com/issues/"
+},
+{
+"text": "Join Nic Kipke for Cocktails!",
+"href": "https://kipke.com/join-nic-kipke-for-cocktails/"
+},
+{
+"text": "Kipke Christmas",
+"href": "https://kipke.com/kipke-christmas/"
+},
+{
+"text": "Legislative Intern Program for College Students",
+"href": "https://kipke.com/legislative-intern-program-for-college-students/"
+},
+{
+"text": "Legislative Scholarship Program",
+"href": "https://kipke.com/legislative-scholarship-program/"
+},
+{
+"text": "Neighborhood Tours",
+"href": "https://kipke.com/neighborhood-tours/"
+},
+{
+"text": "News",
+"href": "https://kipke.com/news/"
+},
+{
+"text": "Nicholaus.Kipke@house.state.md.us",
+"href": "mailto:Nicholaus.Kipke@house.state.md.us?subject=Constituent+Service"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kipke.com/privacy-policy/"
+},
+{
+"text": "Scholarship",
+"href": "http://kipkescholarships.com/"
+},
+{
+"text": "Service League",
+"href": "https://kipke.com/pasadena-service-league/"
+},
+{
+"text": "Services",
+"href": "https://kipke.com/services/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/kipke"
+},
+{
+"text": "Unique Major Application",
+"href": "http://www.mhec.state.md.us/financialAid/UNIQUE%20MAJOR%20APPLICATION%20(NEW)%20(2).pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://kipke.com/volunteer"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/NicKipke"
+},
+{
+"text": "[image: Nic Kipke]",
+"href": "https://kipke.com"
+},
+{
+"text": "[image]",
+"href": "https://kipke.com/coffee-with-kipke/"
+},
+{
+"text": "[image]",
+"href": "https://kipke.com/constituent-service/"
+},
+{
+"text": "[image]",
+"href": "https://kipke.com/kipke-christmas/"
+},
+{
+"text": "[image]",
+"href": "https://kipke.com/legislative-intern-program-for-college-students/"
+},
+{
+"text": "[image]",
+"href": "https://kipke.com/legislative-scholarship-program/"
+},
+{
+"text": "[image]",
+"href": "https://kipke.com/neighborhood-tours/"
+},
+{
+"text": "[image]",
+"href": "https://www.mojo.biz/"
+},
+{
+"text": "kipke@kipke.com",
+"href": "mailto:kipke@kipke.com"
+},
+{
+"text": "nicholaus.kipke@house.state.md.us",
+"href": "mailto:nicholaus.kipke@house.state.md.us?subject=Internship+Information"
+},
+{
+"text": "nicholaus.kipke@house.state.md.us",
+"href": "mailto:nicholaus.kipke@house.state.md.us?subject=Request+for+a+coffee+with+Del.+Kipke"
+}
 ]

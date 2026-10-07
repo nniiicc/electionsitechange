@@ -1,4 +1,4 @@
-Human-induced climate change is real and measurable.
+Skip to content Mon – Fri 9:00 -17:00 info@tomstalcup.com 877-943-4328 Twitter Instagram WhatsApp Log in Tom Stalcup Republican Candidate for Congress, MA-4 Home About Events DONATE Environment Human-induced climate change is real and measurable.
 This is not a matter of opinion—it is supported by overwhelming evidence.
 As a physicist and the founder of an environmental monitoring company with systems deployed from the Arctic to Antarctica, I’ve worked directly with the kind of data that makes this clear.
 We should approach this issue with the same seriousness and rigor we would apply to any other scientific problem—grounded in evidence, not politics.
@@ -11,3 +11,8 @@ We also need practical, results-driven solutions.
 That means investing in technologies that reverse environmental impact without undermining economic stability.
 It means supporting innovation while ensuring that public resources are used responsibly and effectively.
 Addressing climate change is not just about recognizing the problem—it’s about solving it in a way that is honest, accountable, and grounded in reality.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Stalcup for congress I’m taking on powerful interests like Big Pharma and the broken laws that let them siphon paychecks and drain family savings.
+If you’re tired of rising costs while politicians shift the burden and divide us, join me.
+Contact Info 233 Harvard St.
+Suite 316 Brookline, MA 02446 info@tomstalcup.com (877) 943-4328 Twitter Instagram WhatsApp Popular Link Healthcare Foreign Policy environment Events Recent News © # Stalcup for congress .
+All Rights Reserved Scroll To Top %d

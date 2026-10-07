@@ -1,37 +1,162 @@
 [
-"https://accessibility-helper.co.il/",
-"https://burnettmediagroup.com/",
-"https://facebook.com/people/Glenn-Lancaster-for-Mayor/61561177884105",
-"https://glennlancaster.com/",
-"https://glennlancaster.com/about",
-"https://glennlancaster.com/cart",
-"https://glennlancaster.com/communitysupport",
-"https://glennlancaster.com/contact-page",
-"https://glennlancaster.com/donation-form",
-"https://glennlancaster.com/event-sign-up-get-invited",
-"https://glennlancaster.com/issues2",
-"https://glennlancaster.com/news",
-"https://glennlancaster.com/privacypolicy",
-"https://glennlancaster.com/product-category/uncategorized",
-"https://glennlancaster.com/product/ceramic-mug-11oz-15oz",
-"https://glennlancaster.com/product/kiss-cut-stickers",
-"https://glennlancaster.com/product/spiral-notebook-ruled-line",
-"https://glennlancaster.com/product/spiral-notebook-ruled-line-3",
-"https://glennlancaster.com/product/unisex-jersey-short-sleeve-tee-2",
-"https://glennlancaster.com/shop",
-"https://glennlancaster.com/terms-and-conditions",
-"https://glennlancaster.com/volunteer-sign-up",
-"https://glennlancaster.com/wp-content/uploads/2026/03/12765519277055760394_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/14646784147281154703_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/15877231837332546238_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/18309829738168726996_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/3231767674129779100_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/54826535222326167_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/6297785176266053543_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/7386420130635383204_1200.jpeg",
-"https://glennlancaster.com/wp-content/uploads/2026/03/8245905454299863938_1200.jpeg",
-"https://hostdoodle.com/",
-"https://instagram.com/glennlancasterfororegon",
-"https://linkedin.com/company/glennlancaster",
-"https://x.com/Lancaster4Or"
+{
+"text": "About",
+"href": "https://glennlancaster.com/about/"
+},
+{
+"text": "Accessibility by WAH",
+"href": "https://accessibility-helper.co.il/"
+},
+{
+"text": "Cancel reply",
+"href": "https://glennlancaster.com/product/kiss-cut-stickers/#respond"
+},
+{
+"text": "Contact",
+"href": "https://glennlancaster.com/contact-page/"
+},
+{
+"text": "Contribute",
+"href": "https://glennlancaster.com/donation-form/"
+},
+{
+"text": "Event Sign-Up",
+"href": "https://glennlancaster.com/event-sign-up-get-invited/"
+},
+{
+"text": "Glenn's Personal Phone: 971.396.6610 [call or text]",
+"href": "tel:Glenn's%20Personal%20Phone:%20971.396.6610%20%5Bcall%20or%20text%5D"
+},
+{
+"text": "Glenn@GlennLancaster.com",
+"href": "mailto:Glenn@GlennLancaster.com"
+},
+{
+"text": "GlennLancaster.com",
+"href": "https://glennlancaster.com"
+},
+{
+"text": "Hostdoodle",
+"href": "https://www.hostdoodle.com/"
+},
+{
+"text": "News",
+"href": "https://glennlancaster.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://glennlancaster.com/issues2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://glennlancaster.com/privacypolicy/"
+},
+{
+"text": "Shop",
+"href": "https://glennlancaster.com/shop/"
+},
+{
+"text": "Support",
+"href": "https://glennlancaster.com/communitysupport/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://glennlancaster.com/terms-and-conditions/"
+},
+{
+"text": "Terms and conditions",
+"href": "https://glennlancaster.com/terms-and-conditions/"
+},
+{
+"text": "Uncategorized",
+"href": "https://glennlancaster.com/product-category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://glennlancaster.com/volunteer-sign-up/"
+},
+{
+"text": "[image: Glenn Lancaster]",
+"href": "https://glennlancaster.com"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/12765519277055760394_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/14646784147281154703_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/15877231837332546238_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/18309829738168726996_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/3231767674129779100_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/54826535222326167_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/6297785176266053543_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/7386420130635383204_1200.jpeg"
+},
+{
+"text": "[image: Kiss-Cut Stickers]",
+"href": "https://glennlancaster.com/wp-content/uploads/2026/03/8245905454299863938_1200.jpeg"
+},
+{
+"text": "[image: Love Where You Live Unisex T-Shirt - Heart Design]Love Where You Live Unisex T-Shirt – Heart Design $15.51 – $22.08Price range: $15.51 through $22.08",
+"href": "https://glennlancaster.com/product/love-where-you-live-unisex-t-shirt-heart-design/"
+},
+{
+"text": "[image: Mouse Pad (Rectangle)]Mouse Pad (Rectangle) $6.10",
+"href": "https://glennlancaster.com/product/mouse-pad-rectangle/"
+},
+{
+"text": "[image: Unisex Jersey Short Sleeve Tee]Unisex Jersey Short Sleeve Tee $14.11 – $25.55Price range: $14.11 through $25.55",
+"href": "https://glennlancaster.com/product/unisex-jersey-short-sleeve-tee-2/"
+},
+{
+"text": "[image: Unisex Short Sleeve Tee]Unisex Short Sleeve Tee $13.84 – $19.74Price range: $13.84 through $19.74",
+"href": "https://glennlancaster.com/product/unisex-short-sleeve-tee/"
+},
+{
+"text": "[image]",
+"href": "https://glennlancaster.com"
+},
+{
+"text": "[no text]",
+"href": "https://glennlancaster.com/cart/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Glenn-Lancaster-for-Mayor/61561177884105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/glennlancasterfororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/glennlancaster/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Lancaster4Or"
+},
+{
+"text": "burnett media group",
+"href": "https://burnettmediagroup.com/"
+}
 ]

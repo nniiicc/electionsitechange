@@ -1,8 +1,5 @@
-Pete Aguilar for Congress
-Mobile Messaging Terms & Conditions and Privacy Policy
-Effective Date: April 2, 2025
-Pete Aguilar for Congress (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Terms”).
-By opting into or participating in our Program, you accept and agree to these Terms, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “Dispute Resolution” section below.
+About Pete Get Involved Sign Up Volunteer Donate Now About Pete Get Involved Sign Up Volunteer Sign Up Sign Up Volunteer Volunteer Take Action Take Action Pete Aguilar for Congress Mobile Messaging Terms & Conditions and Privacy Policy Effective Date: April 2, 2025 Privacy Privacy Policy Mobile Privacy Policy Privacy Policy Mobile Privacy Policy Pete Aguilar for Congress (hereinafter “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Terms”).
+By opting into or participating in our Program, you accept and agree to these Terms, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “ Dispute Resolution ” section below.
 These Terms are limited to the Program and are not intended to modify other terms & conditions or privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Modification of Terms: We reserve the right to revise these Terms from time to time.
 If We do revise these Terms, the revised terms will supersede prior revisions.
@@ -17,7 +14,7 @@ While you consent to receive messages sent using an autodialer, the foregoing sh
 Message and data rates may apply.
 User Opt Out: If you do not wish to continue participating in the Program or no longer agree to these Terms, you agree to reply “STOP,” “QUIT,” “END,” “CANCEL,” “UNSUBSCRIBE,” or “STOP ALL” to any mobile message from Us in order to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
-Alternatively, you may opt out by sending an email to [email protected].
+Alternatively, you may opt out by sending an email to [email protected] .
 You understand and agree that the foregoing options are the only reasonable methods of opting out.
 You also understand and agree that any other method of opting out, including, but not limited to, texting words other than those set forth above or verbally requesting one of Our employees to remove you from our list is not a reasonable means of opting out.
 Duty to Notify and Indemnify: If at any time you intend to stop using the mobile telephone number used to subscribe to the Program, including canceling your service plan or selling or transferring the phone number to another party, you agree that you will complete the User Opt Out process set forth above prior to ending your use of the mobile telephone number.
@@ -28,7 +25,7 @@ YOU AGREE THAT YOU SHALL INDEMNIFY, DEFEND, AND HOLD US, OUR AGENTS, AND ANY THI
 Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive committee & donation messages concerning Our activities and your relationship with Us, including, but not limited to, messages regarding fundraising, volunteer opportunities, Our supported candidates, and/or news such as online events, or TV appearances from Us.
 Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent periodically based on your interaction with Us.
-Support Instructions: For support regarding the Program, text “HELP” to 303-11 or email Us at [email protected].
+Support Instructions: For support regarding the Program, text “HELP” to 303-11 or email Us at [email protected] .
 Please note that the use of this email address is not an acceptable method of opting out of the program.
 Opt outs must be submitted in accordance with the User Opt Out procedures set forth above.
 MMS Disclosure: The Program will send SMS TMs (terminating messages) if your mobile device does not support MMS messaging.
@@ -49,20 +46,14 @@ Mobile Messaging Privacy Policy: We respect your privacy.
 This Mobile Messaging Privacy Policy describes any personal information that We collect or receive when you choose to participate in the Program, how We use or disclose your information, and your rights related to your personal information.
 This Mobile Messaging Privacy Policy applies to all personal information collected, used, or shared by us when you opt-in to the Program and is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Please contact Us if you have any questions about the information in this Privacy Policy.
-Information We Collect and How We Use It:
-The personal information We may collect, includes your name, phone number, email address and certain marketing preferences.
+Information We Collect and How We Use It: The personal information We may collect, includes your name, phone number, email address and certain marketing preferences.
 We may also collect data with respect to confirmation that a message has been delivered to you, confirmation that you have read a message, and related information.
 We may use the information for the following business purposes: (1) provide the Program and related customer service; (2) deliver information about Our products, services and promotions, (3) improve the Program and services, (4) prevent fraud and comply with law, and (5) protect the security of Our systems.
 We may combine the personal information We obtain through your participation in the Program with offline or other online personal information We retain about you.
-When We Share Your Information: Information that you provide to us through the Program may be shared with third parties for the same purposes as outlined in our website’s privacy policy, which is available here.
+When We Share Your Information: Information that you provide to us through the Program may be shared with third parties for the same purposes as outlined in our website’s privacy policy, which is available here .
 However, this excludes text messaging originator opt-in data and consent, which we do not share with third parties, except that We may share your personal information with the third-party text messaging platform provider or other trusted service partners as may be necessary to send you messages under the Program and these Terms.
 We also reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
-Contact Us: To exercise any of your rights related to your personal information, please contact us using one of the following methods:
-· Visit us at www.peteaguilar.com
-· Send us an email at [email protected]
-· Write to us at [email protected]
-·
-California Residents.
+Contact Us: To exercise any of your rights related to your personal information, please contact us using one of the following methods: · Visit us at www.peteaguilar.com · Send us an email at [email protected] · Write to us at [email protected] · California Residents.
 As a non-profit, we are not a “business” subject to the California Consumer Privacy Act (“CCPA”).
 Dispute Resolution: In the event that there is a dispute, claim, or controversy between you and Us, or between you and our third-party text messaging platform provider, or between you and any other third-party service provider acting on Our behalf to transmit the mobile messages related to the Program Description set forth above, arising out of or relating to federal or state statutory claims, common law claims, these Terms, or the breach, termination, enforcement, interpretation, or validity thereof, including, but not limited to, the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim, or controversy will be, to the fullest extent permitted by law, determined by arbitration in California before one arbitrator.
 The parties agree to submit the dispute to binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then in effect.
@@ -84,3 +75,5 @@ Miscellaneous: You warrant and represent to Us that you have all necessary right
 The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder.
 If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
 Any new features, changes, updates, or improvements of the Program shall be subject to these Terms unless explicitly stated otherwise in writing.
+Not Politics.
+Sign Up Sign Up Volunteer Volunteer Take Action Take Action Donate Now Address PO Box 10954 San Bernardino, CA 92423 Phone 909-368-8133 Press Inquiries [email protected] Privacy Policy Mobile Privacy Policy Paid for by Pete Aguilar for Congress Sign Up Sign Up Volunteer Volunteer Take Action Take Action Share Share Tweet Email

@@ -1,8 +1,4 @@
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Otsego, Michigan, United States
-polonowski.jared@gmail.com
-Open today
-09:00 am – 09:00 pm
-Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078
-Copyright © 2026 The Committee to elect Jared Polonowski - All Rights Reserved.
+Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us More Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Contact Us Get involved!
+Name* Email* Attach Files Attachments (0) Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Committee To Elect Jared Polonowski 616-516-6491 Otsego, Michigan, United States polonowski.jared@gmail.com Availability Open today 09:00 am – 09:00 pm Get directions Connect With Us Linktree Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078 Copyright © # The Committee to elect Jared Polonowski - All Rights Reserved.
 Powered by

@@ -1,24 +1,14 @@
-Neighborhood Investment
-Thousands of vacant properties throughout Baltimore drain city resources while destabilizing blocks and preventing families from building generational wealth.
+top of page Home Meet Tiffany Issues Affordability Public Safety & Health Economic Development Neighborhood Investment Youth Opportunity Press Volunteer More Use tab to navigate through the menu items.
+DONATE Neighborhood Investment Thousands of vacant properties throughout Baltimore drain city resources while destabilizing blocks and preventing families from building generational wealth.
 Tiffany is committed to fighting for community-controlled development through strategic reinvestment programs, affordable homeownership initiatives, and resident-driven revitalization that strengthens neighborhoods without displacing longtime families.
-The Cause
-The Effect
-The 40th District is home to a diverse range of neighborhoods, from Rosemont to Clipper Mill, each with their own heritage, strengths, and needs.
+The Cause The Effect The 40th District is home to a diverse range of neighborhoods, from Rosemont to Clipper Mill, each with their own heritage, strengths, and needs.
 Too often, however, investment strategies take a one-size-fits-all approach while limited resources and underinvestment fail to meet the evolving needs of neighborhoods as they age, diversify, and redefine who they are.
 Vacant and dumping sites go unaddressed, green spaces decline, and development projects move forward without community buy-in.
 This lack of community competency leaves residents feeling unsupported and weakens the fabric of our neighborhoods.
-- Once-populated neighborhoods lose residents as families seek better conditions elsewhere.
-- Communities feel “forgotten” when resources are unevenly distributed, leaving blocks only streets apart looking vastly different.
-- Mission-disconnected development disrupts rather than integrates into neighborhoods.
-- Vacant and deteriorating homes threaten the safety and property values of those who remain.
-- Community leaders lose momentum when their work isn’t matched with public investment.
-Tiff's Solution
-Mission-Driven Development
-- Advance development that integrates into existing communities instead of displacing them.
-- Provide consistent funding for successful models like the West North Avenue Development Authority, which coordinates public, private, and community revitalization efforts to reflect resident priorities.
-Support for Place-Based Organizations
-- Increase resources to community development corporations (CDCs), neighborhood associations, and resident-led groups to lead housing assistance, corridor revitalization, and keep families in their homes.
-- Leverage programs like Baltimore’s Community Catalyst Grant and Maryland DHCD Neighborhood Revitalization funding to support housing rehab, small business support, and placemaking projects in Baltimore communities.
-Resident-Led Safety, Health, and Placemaking
-- Support collaborative initiatives that make blocks safer, greener, and more connected.
-- Expand support for green spaces, multigenerational community centers, and walkable neighborhoods that promote health, wellness, and aging in place.
+Once-populated neighborhoods lose residents as families seek better conditions elsewhere. ​ Communities feel “forgotten” when resources are unevenly distributed, leaving blocks only streets apart looking vastly different. ​ Mission-disconnected development disrupts rather than integrates into neighborhoods. ​ Vacant and deteriorating homes threaten the safety and property values of those who remain. ​ Community leaders lose momentum when their work isn’t matched with public investment.
+Tiff's Solution Mission-Driven Development ​ Advance development that integrates into existing communities instead of displacing them. ​ Provide consistent funding for successful models like the West North Avenue Development Authority, which coordinates public, private, and community revitalization efforts to reflect resident priorities.
+Support for Place-Based Organizations ​​ Increase resources to community development corporations (CDCs), neighborhood associations, and resident-led groups to lead housing assistance, corridor revitalization, and keep families in their homes. ​ Leverage programs like Baltimore’s Community Catalyst Grant and Maryland DHCD Neighborhood Revitalization funding to support housing rehab, small business support, and placemaking projects in Baltimore communities.
+Resident-Led Safety, Health, and Placemaking ​ Support collaborative initiatives that make blocks safer, greener, and more connected. ​ Expand support for green spaces, multigenerational community centers, and walkable neighborhoods that promote health, wellness, and aging in place.
+Stand with Tiffany!
+JOIN THE TEAM AND GET IN THE FIGHT!
+MAKE A CONTRIBUTION VOLUNTEER TO HELP By Authority: Friends of Tiffany Welch Brittany Warren, Treasurer bottom of page

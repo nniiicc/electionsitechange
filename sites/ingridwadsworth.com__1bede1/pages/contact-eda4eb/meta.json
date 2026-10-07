@@ -1,7 +1,9 @@
 {
  "description": "Contact the Ingrid Wadsworth Campaign",
  "final_url": "https://ingridwadsworth.com/contact",
- "paid_for_by": null,
+ "fingerprint": "9a865a0681207d0b5a7a20bfdfd0a8af616d4149",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Ingrid Wadsworth Campaign",
  "years_mentioned": []
 }

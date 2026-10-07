@@ -1,5 +1,4 @@
-Meet Governor Joe Lombardo
-Born into a military family in Japan, Joe Lombardo grew up around the world before his father was stationed at Nellis Air Force Base, where the Lombardo family put down roots in Las Vegas.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Meet Governor Joe Lombardo Born into a military family in Japan, Joe Lombardo grew up around the world before his father was stationed at Nellis Air Force Base, where the Lombardo family put down roots in Las Vegas.
 Joe graduated from Rancho High School in North Las Vegas and went on to earn his Bachelor of Science from the University of Nevada, Las Vegas.
 He later served honorably in the United States Army and the Nevada National Guard.
 After his military service, Joe joined the Las Vegas Metropolitan Police Department, where he worked nearly every rank, from patrol officer to assistant sheriff over the course of 26 years.
@@ -11,3 +10,5 @@ As Governor, he has delivered on his promises; cutting red tape, making historic
 But there’s still unfinished business.
 Joe is committed to building a safer, stronger, and more prosperous Nevada for every family.
 Above all, Joe Lombardo is a devoted husband to First Lady Donna Lombardo, a proud father to his children Morgan, Lacey, and Jackson, and a loving grandfather to his grandson Theodore.
+Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

@@ -1,15 +1,66 @@
 [
-"https://dashboard.twitch.tv/u/votedorland/home",
-"https://facebook.com/profile.php?id=61591242647248",
-"https://instagram.com/votedorland",
-"https://votetucson.org/",
-"https://votetucson.org/about",
-"https://votetucson.org/contact",
-"https://votetucson.org/help-wanted",
-"https://votetucson.org/privacy-policy",
-"https://votetucson.org/the-ledger",
-"https://votetucson.org/the-platform",
-"https://votetucson.org/why-you-might-pick-me",
-"https://votetucson.org/write_me_in",
-"https://youtube.com/@VoteDorland"
+{
+"text": "About",
+"href": "https://www.votetucson.org/about/"
+},
+{
+"text": "Connect With Us",
+"href": "https://www.votetucson.org/contact/"
+},
+{
+"text": "Contact",
+"href": "https://www.votetucson.org/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591242647248"
+},
+{
+"text": "Help Wanted",
+"href": "https://www.votetucson.org/help-wanted/"
+},
+{
+"text": "Home",
+"href": "https://www.votetucson.org/"
+},
+{
+"text": "How To Write Me In",
+"href": "https://www.votetucson.org/write_me_in/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votedorland/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votetucson.org/privacy-policy/"
+},
+{
+"text": "The Ledger",
+"href": "https://www.votetucson.org/the-ledger/"
+},
+{
+"text": "The Platform",
+"href": "https://www.votetucson.org/the-platform/"
+},
+{
+"text": "Twitch",
+"href": "https://dashboard.twitch.tv/u/votedorland/home"
+},
+{
+"text": "Why Me?",
+"href": "https://www.votetucson.org/why-you-might-pick-me/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@VoteDorland"
+},
+{
+"text": "[image: Vote Dorland campaign logo. A cartoon penguin wearing an Arizona state flag on its chest, standing in front of the United States Capitol dome and a saguaro cactus, against a United States flag background]",
+"href": "https://www.votetucson.org"
+},
+{
+"text": "← Back to The Platform",
+"href": "https://www.votetucson.org/the-platform/"
+}
 ]

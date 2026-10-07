@@ -1,7 +1,6 @@
-Endorsed!
-NASW-NY
-“Your longstanding efforts to strengthen the community and your advocacy on behalf of the social work profession are recognized and appreciated.” — National Association of Social Workers New York Chapter
-Thank you for your endorsement Josh Riley!
-I’m thrilled to be endorsed by our neighbor Josh Riley
-James Barber
-“Rural New York can have a voice in the Assembly that our leaders will actually listen to.”
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Endorsements + Recognitions Heather Phelps-Lipton 10/2/26 Endorsements + Recognitions Heather Phelps-Lipton 10/2/26 Endorsed!
+NASW-NY “ Your longstanding efforts to strengthen the community and your advocacy on behalf of the social work profession are recognized and appreciated.” — National Association of Social Workers New York Chapter Read More Endorsements + Recognitions Heather Phelps-Lipton 9/23/26 Endorsements + Recognitions Heather Phelps-Lipton 9/23/26 Thank you for your endorsement Josh Riley!
+I’m thrilled to be endorsed by our neighbor Josh Riley Read More Endorsements + Recognitions , healthcare Heather Phelps-Lipton 9/12/26 Endorsements + Recognitions , healthcare Heather Phelps-Lipton 9/12/26 I’ve been designated a 2026 Mental Health Now Candidate Read More Endorsements + Recognitions Heather Phelps-Lipton 7/22/26 Endorsements + Recognitions Heather Phelps-Lipton 7/22/26 New York Health Act Champion I’m honored to be named a New York Health Act Champion Read More Endorsements + Recognitions Heather Phelps-Lipton 1/16/26 Endorsements + Recognitions Heather Phelps-Lipton 1/16/26 James Barber “Rural New York can have a voice in the Assembly that our leaders will actually listen to.” Read More Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared with subcontractors in support services, such as customer service.
+All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

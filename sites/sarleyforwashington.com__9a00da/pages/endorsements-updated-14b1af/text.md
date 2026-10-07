@@ -1,14 +1,4 @@
-Endorsements (Updated)
-Washington State Labor Council
-Washington State Nurses Association
-WA Area Council of the Association of Western Pulp and Paper Workers
-International Association of Machinists and Aerospace Workers | District 751
-Washington Education Association
-AFT Washington
-AFSCME Council 28 / Washington Federation of State Employees
-Planned Parenthood Advocates of Greater Washington and North Idaho
-Democratic Parties of Benton, Franklin and Walla Walla Counties
-The Washington State Labor Council, a state federation of the AFL-CIO, is the largest labor organization in Washington, made up of more than 650 local unions representing more than 600,000 union members statewide.
+Skip to content Home About Priorities News Contact Volunteer Donate September 30, 2026 Endorsements (Updated) Washington State Labor Council Washington State Nurses Association WA Area Council of the Association of Western Pulp and Paper Workers International Association of Machinists and Aerospace Workers | District 751 Washington Education Association AFT Washington AFSCME Council 28 / Washington Federation of State Employees Planned Parenthood Advocates of Greater Washington and North Idaho Democratic Parties of Benton, Franklin and Walla Walla Counties The Washington State Labor Council, a state federation of the AFL-CIO, is the largest labor organization in Washington, made up of more than 650 local unions representing more than 600,000 union members statewide.
 The WSLC is the voice of labor in Washington and the only state organization representing all AFL-CIO unions.
 The Washington State Nurses Association Political Action Committee (WSNA PAC) is fueled by individual nurses and others whose goal is to use the political process to improve the nurse’s role in the health care delivery system.
 Their endorsement reflects their belief that I will work to advance nursing and patient safety priorities on behalf of the 16th legislative district and all Washington residents.
@@ -22,3 +12,4 @@ AFT Washington is a statewide federation representing approximately 6,500 educat
 Their endorsement adds the support of educators and education workers who advocate for strong public schools, workplace fairness, and access to educational opportunity across Washington.
 The Washington Federation of State Employees, AFSCME Council 28, represents more than 52,000 state, higher-education, and public-service employees across Washington.
 Their endorsement brings the support of public workers who provide essential services across the state and advocate for fair pay, benefits, working conditions, and strong public services.
+Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

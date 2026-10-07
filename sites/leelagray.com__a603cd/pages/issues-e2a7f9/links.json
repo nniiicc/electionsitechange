@@ -1,25 +1,126 @@
 [
-"https://bsky.app/profile/leelagray.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSeFnaXiwKy8FYU9xNO0gM1B7Y_JypRy6_hGBGYKodAUUVMxlg/viewform?usp=header",
-"https://facebook.com/profile.php?id=61587323275903",
-"https://instagram.com/LeelaJGray",
-"https://leelagray.com/",
-"https://leelagray.com/89bbf532-7275-4817-b37f-be802fc96e2d",
-"https://leelagray.com/about",
-"https://leelagray.com/b8362b7e-4495-4b3a-8ef5-be6442ad1fcd",
-"https://leelagray.com/endorsements",
-"https://leelagray.com/issues/anti-corruption-agenda",
-"https://leelagray.com/issues/fighting-for-our-most-vulnerable",
-"https://leelagray.com/issues/issue-1",
-"https://leelagray.com/issues/issue-2",
-"https://leelagray.com/issues/protecting-our-beaches-land-and-coastal-economy",
-"https://leelagray.com/news",
-"https://leelagray.com/privacy-policy",
-"https://leelagray.com/terms",
-"https://mobilize.us/leelagrayforcongress",
-"https://secure.actblue.com/donate/lg-web",
-"https://store.leelagray.com/",
-"https://tiktok.com/@LeelaGray5",
-"https://x.com/LeelaJGray",
-"https://youtube.com/@LeelaJGray"
+{
+"text": "About",
+"href": "https://www.leelagray.com/about"
+},
+{
+"text": "Anti-Corruption Agenda",
+"href": "https://www.leelagray.com/issues/anti-corruption-agenda"
+},
+{
+"text": "Cutting Costs Agenda",
+"href": "https://www.leelagray.com/issues/cutting-costs-agenda"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lg-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leelagray.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://mobilize.us/leelagrayforcongress"
+},
+{
+"text": "Fighting for Our Most Vulnerable",
+"href": "https://www.leelagray.com/issues/fighting-for-our-most-vulnerable"
+},
+{
+"text": "Growing Economic Opportunities",
+"href": "https://www.leelagray.com/issues/issue-2"
+},
+{
+"text": "Home",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "News",
+"href": "https://www.leelagray.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leelagray.com/89bbf532-7275-4817-b37f-be802fc96e2d"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leelagray.com/privacy-policy"
+},
+{
+"text": "Protecting our Beaches, Land, and Coastal Economy",
+"href": "https://www.leelagray.com/issues/protecting-our-beaches-land-and-coastal-economy"
+},
+{
+"text": "Store",
+"href": "https://store.leelagray.com/"
+},
+{
+"text": "Terms",
+"href": "https://www.leelagray.com/b8362b7e-4495-4b3a-8ef5-be6442ad1fcd"
+},
+{
+"text": "Terms",
+"href": "https://www.leelagray.com/terms"
+},
+{
+"text": "View more",
+"href": "https://www.leelagray.com/issues/anti-corruption-agenda"
+},
+{
+"text": "View more",
+"href": "https://www.leelagray.com/issues/cutting-costs-agenda"
+},
+{
+"text": "View more",
+"href": "https://www.leelagray.com/issues/fighting-for-our-most-vulnerable"
+},
+{
+"text": "View more",
+"href": "https://www.leelagray.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.leelagray.com/issues/protecting-our-beaches-land-and-coastal-economy"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeFnaXiwKy8FYU9xNO0gM1B7Y_JypRy6_hGBGYKodAUUVMxlg/viewform?usp=header"
+},
+{
+"text": "[image: Leela Gray - Veteran for Florida logo]",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "[image: Leela Gray - Veteran for Florida]",
+"href": "https://www.leelagray.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/leelagray.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61587323275903"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/LeelaJGray"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@LeelaGray5"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LeelaJGray"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LeelaJGray"
+},
+{
+"text": "outreach@leelagray.com",
+"href": "mailto:outreach@leelagray.com"
+}
 ]

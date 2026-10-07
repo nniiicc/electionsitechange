@@ -1,12 +1,66 @@
 [
-"https://electmikejacobs.com/",
-"https://electmikejacobs.com/cart",
-"https://electmikejacobs.com/home",
-"https://electmikejacobs.com/volunteer",
-"https://secure.anedot.com/friends-for-mike-jacobs/donate",
-"https://secure.anedot.com/friends-for-mike-jacobs/donate100",
-"https://secure.anedot.com/friends-for-mike-jacobs/donate150",
-"https://secure.anedot.com/friends-for-mike-jacobs/donate200",
-"https://secure.anedot.com/friends-for-mike-jacobs/donate25",
-"https://secure.anedot.com/friends-for-mike-jacobs/donate50"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate100"
+},
+{
+"text": "$150",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate150"
+},
+{
+"text": "$200",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate200"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate50"
+},
+{
+"text": "0",
+"href": "https://www.electmikejacobs.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://www.electmikejacobs.com/home#donate"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.electmikejacobs.com/#meetmike"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.electmikejacobs.com/home#meetmike"
+},
+{
+"text": "My Priorities",
+"href": "https://www.electmikejacobs.com/home#priorities"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/friends-for-mike-jacobs/donate"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electmikejacobs.com/volunteer"
+},
+{
+"text": "Want to do more? Sign up to volunteer for the campaign!",
+"href": "https://www.electmikejacobs.com/volunteer"
+},
+{
+"text": "[image: Elect Mike Jacobs]",
+"href": "https://www.electmikejacobs.com/"
+}
 ]

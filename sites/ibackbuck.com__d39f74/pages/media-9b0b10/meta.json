@@ -1,7 +1,11 @@
 {
  "description": "Browse and download high-quality photos of Senator Buck Newton, available for public use and free in the public domain. Perfect for media, supporters, and campaign materials. No attribution required.",
  "final_url": "https://www.ibackbuck.com/media",
+ "fingerprint": "58349e07a9ca08f89df0188f6638f03dab957e4c",
+ "format": 3,
  "paid_for_by": "PAID FOR BY CITIZENS FOR BUCK NEWTON",
- "title": "MEDIA | Buck Newton \u2013 North Carolina Senator",
- "years_mentioned": []
+ "title": "MEDIA | Buck Newton – North Carolina Senator",
+ "years_mentioned": [
+  "2047"
+ ]
 }

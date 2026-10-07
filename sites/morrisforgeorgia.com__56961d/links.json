@@ -1,5 +1,18 @@
 [
-"https://facebook.com/morrisforgeorgia",
-"https://instagram.com/Catherinemorrisforgeorgia",
-"https://secure.actblue.com/donate/catherine-morris-1?amount=100"
+{
+"text": "Contribute Now",
+"href": "https://secure.actblue.com/donate/catherine-morris-1?amount=100"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/morrisforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Catherinemorrisforgeorgia"
+},
+{
+"text": "morrisforgeorgia@gmail.com",
+"href": "mailto:morrisforgeorgia@gmail.com"
+}
 ]

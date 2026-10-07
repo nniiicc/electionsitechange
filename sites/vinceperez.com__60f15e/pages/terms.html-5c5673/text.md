@@ -1,8 +1,6 @@
-Legal
-Campaign Terms of Service
-These terms are published by the Vince Perez Campaign, the campaign committee for Vince Perez, State Representative for Texas House District 77.
+VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Legal Campaign Terms of Service These terms are published by the Vince Perez Campaign , the campaign committee for Vince Perez, State Representative for Texas House District 77.
 Jorge Perez, Treasurer.
-PO Box 71309, El Paso, TX 79917 · info@vinceperez.com.
+PO Box 71309, El Paso, TX 79917 · info@vinceperez.com .
 References below to “this campaign,” “We,” “Us” and “Our” mean the Vince Perez Campaign.
 This campaign, (collectively referred to herein as “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
@@ -22,16 +20,25 @@ User Opt Out: To opt out (discontinue participation in Program), reply “STOP�
 The entity sending such text will be the entity that processes your opt-out request and you will need to send separate and individual opt-out requests to each entity if you wish to opt-out of communications from each participating entity.
 Sending “STOP” is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out and you hereby consent to the receipt of such opt out confirmation message.
-Contact Information: For support text “HELP” in reply to any messages you received from us, or contact us at info@vinceperez.com.
+Contact Information: For support text “HELP” in reply to any messages you received from us, or contact us at info@vinceperez.com .
 MMS Disclosure: The Program will send SMS MMS if your mobile device supports MMS messaging.
 Supported Carriers: Our messages are supported on major U.S. wireless carriers.
 Service may not be available on all carriers or devices at all times.
 Your Mobile Information: No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
 SMS opt-in consent and data are not shared with any third party except the service providers who deliver the messages on Our behalf.
-See our Privacy Policy.
+See our Privacy Policy .
 We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator and is outside of Our control.
-By providing your telephone number to the campaign, you agree to receive occasional text messages from us.
+Campaign Texting Policy By providing your telephone number to the campaign, you agree to receive occasional text messages from us.
 Messaging fees may apply.
 You can opt out at any time by replying STOP.
-Last update: January 20, 2024
+Our Privacy Policy Last update: January 20, 2024 Privacy Policy Get Involved VINCE PEREZ Fighting for Texas.
+Delivering for El Paso.
+State Representative · Texas House District 77 · El Paso.
+Ways & Means.
+Deputy Whip.
+FB X IG Site Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Office Constituent Services Contact Get Involved Contact PO Box 71309 El Paso, TX 79917 info@vinceperez.com © Vince Perez.
+Pol.
+Adv.
+Paid for by Vince Perez Campaign, Jorge Perez Treasurer.
+Privacy Policy Terms of Service

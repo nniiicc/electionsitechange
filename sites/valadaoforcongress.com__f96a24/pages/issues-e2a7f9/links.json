@@ -1,29 +1,162 @@
 [
-"https://facebook.com/ValadaoforCongress",
-"https://secure.winred.com/valadao-for-congress",
-"https://secure.winred.com/valadao-for-congress?amount=10",
-"https://secure.winred.com/valadao-for-congress?amount=25",
-"https://secure.winred.com/valadao-for-congress?amount=5",
-"https://secure.winred.com/valadao-for-congress?amount=50",
-"https://twitter.com/dgvaladao",
-"https://valadaoforcongress.com/",
-"https://valadaoforcongress.com/about-david",
-"https://valadaoforcongress.com/agriculture",
-"https://valadaoforcongress.com/education",
-"https://valadaoforcongress.com/energy",
-"https://valadaoforcongress.com/healthcare",
-"https://valadaoforcongress.com/immigration",
-"https://valadaoforcongress.com/inicio",
-"https://valadaoforcongress.com/issues",
-"https://valadaoforcongress.com/jobs-and-the-economy",
-"https://valadaoforcongress.com/media",
-"https://valadaoforcongress.com/news",
-"https://valadaoforcongress.com/privacy-policy",
-"https://valadaoforcongress.com/reforming-washington",
-"https://valadaoforcongress.com/seniors",
-"https://valadaoforcongress.com/showsupportrequestayardsign",
-"https://valadaoforcongress.com/spending",
-"https://valadaoforcongress.com/veterans",
-"https://valadaoforcongress.com/voter-information",
-"https://valadaoforcongress.com/water"
+{
+"text": "$10",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=50"
+},
+{
+"text": "About David",
+"href": "https://valadaoforcongress.com/about-david/"
+},
+{
+"text": "Balance the Budget",
+"href": "https://valadaoforcongress.com/spending"
+},
+{
+"text": "Developing Our Energy Resources",
+"href": "https://valadaoforcongress.com/energy"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/valadao-for-congress/"
+},
+{
+"text": "Ensuring The Valley's Future",
+"href": "https://valadaoforcongress.com/education"
+},
+{
+"text": "Español",
+"href": "https://valadaoforcongress.com/inicio/"
+},
+{
+"text": "Fighting for Central Valley Farmers",
+"href": "https://valadaoforcongress.com/agriculture"
+},
+{
+"text": "Finding Valley Families Jobs",
+"href": "https://valadaoforcongress.com/jobs-and-the-economy"
+},
+{
+"text": "Fixing the Broken System",
+"href": "https://valadaoforcongress.com/immigration"
+},
+{
+"text": "Get Involved",
+"href": "https://valadaoforcongress.com/showsupportrequestayardsign/"
+},
+{
+"text": "Getting You Affordable Care",
+"href": "https://valadaoforcongress.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://valadaoforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://valadaoforcongress.com/media/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy"
+},
+{
+"text": "Protecting Our Seniors",
+"href": "https://valadaoforcongress.com/seniors"
+},
+{
+"text": "Protecting Our Water Supply",
+"href": "https://valadaoforcongress.com/water"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/agriculture"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/education"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/energy"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/healthcare"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/immigration"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/jobs-and-the-economy"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/reforming-washington"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/seniors"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/spending"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/veterans"
+},
+{
+"text": "Read More ››",
+"href": "https://valadaoforcongress.com/water"
+},
+{
+"text": "Serving Americans",
+"href": "https://valadaoforcongress.com/reforming-washington"
+},
+{
+"text": "Taking Care of our Heroes",
+"href": "https://valadaoforcongress.com/veterans"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy/"
+},
+{
+"text": "Voter Information",
+"href": "https://valadaoforcongress.com/voter-information/"
+},
+{
+"text": "[image]",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/dgvaladao"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ValadaoforCongress/"
+}
 ]

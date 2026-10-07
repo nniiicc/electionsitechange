@@ -1,4 +1,4 @@
-I’m Tina Liebling, and I work for you.
+Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Scroll Meet Tina I’m Tina Liebling, and I work for you.
 Tina Liebling was born and raised in Minneapolis, the second of five children.
 Her dad taught film and photography at the University of Minnesota, and often took his children with him as he traveled the state photographing the people of Minnesota.
 He loved and admired the Minnesota women and men who get up every day and work hard to take care of their families, as well as those who struggle every day to overcome challenges like poverty, disability, and prejudice.
@@ -31,3 +31,4 @@ Tina belongs to and supports many local organizations.
 Her three children graduated from Rochester Public Schools and from college, and she has three grandchildren.
 Tina has built a life advocating for Minnesotans who need opportunities to get ahead.
 She stands up to anyone who plays politics with Minnesota’s future.
+About Cover About Rochester, Minnesota 507-289-4664 info@tinaliebling.com Hours tina@tinaliebling.com 507-289-4664 Prepared and Paid for by the Liebling (Tina) for State House committee, PO Box 6332 Rochester, MN 55903

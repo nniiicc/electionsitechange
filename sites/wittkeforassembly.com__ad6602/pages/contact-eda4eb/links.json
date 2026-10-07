@@ -1,7 +1,30 @@
 [
-"https://wittkeforassembly.com/",
-"https://wittkeforassembly.com/about-robert",
-"https://wittkeforassembly.com/contact",
-"https://wittkeforassembly.com/contribute",
-"https://wittkeforassembly.com/issues"
+{
+"text": "About Robert",
+"href": "https://wittkeforassembly.com/about-robert/"
+},
+{
+"text": "Contact",
+"href": "https://wittkeforassembly.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://wittkeforassembly.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://wittkeforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://wittkeforassembly.com/issues/"
+},
+{
+"text": "[image: contribute]",
+"href": "https://wittkeforassembly.com/contribute/"
+},
+{
+"text": "[image]",
+"href": "https://wittkeforassembly.com/"
+}
 ]

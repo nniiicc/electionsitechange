@@ -1,9 +1,11 @@
-Senate Campaign Updates
-September 9, 2025
-May 9, 2025
-- Senate Campaign News
-- General News
-Get
-Connected.
-Subscribe to my newsletter to get the latest updates on events and campaign efforts
-Connected.
+Skip to content Get Involved: Support Nic and help your local community!
+Facebook Youtube Twitter Facebook Youtube Icon-twitter-x Instagram Home About Issues Scholarship Services Events Service League News Contact Home About Issues Scholarship Services Events Service League News Contact Volunteer Donate News Home News Senate Campaign Events Cocktails with Kipke October 5, 2026 Senate Campaign Events Join Nic Kipke for Cocktails!
+October 1, 2025 Senate Campaign Updates Nic Kipke and District 31 Republican Legislative Slate File for 2026 Election September 9, 2025 KIPKE STATE SENATE May 9, 2025 Senate Campaign News Nic Kipke and District 31 Republican Legislative Slate File for 2026 Election September 9, 2025 General News Cocktails with Kipke October 5, 2026 Nic Kipke and District 31 Republican Legislative Slate File for 2026 Election September 9, 2025 Kipke becomes Public Policy Dispute Resolution Fellow August 11, 2021 Delegate Nic Kipke Receives Public Service Award August 11, 2021 Kipke Launches Petition to Oppose Mountain Road Bay Bridge August 11, 2021 Get Connected.
+Subscribe to my newsletter to get the latest updates on events and campaign efforts Subscribe Get Connected Subscribe to my newsletter to get the latest updates on events and campaign efforts.
+Subscribe Nic Kipke is working hard to cut taxes, improve accountability to parents and students in public schools, and to improve public safety.
+Youtube Twitter Facebook Youtube Icon-twitter-x Facebook Useful Links Home About Issues Scholarship Services Events Service League News Contact Privacy Policy × Home About Issues Scholarship Services Events Service League News Contact Privacy Policy Community Impact Cocktails with Kipke JOIN US TO HELP ELECT DELEGATENIC KIPKE AS OUR NEXT STATE SENATOR… Join Nic Kipke for Cocktails!
+JOIN US TO HELP ELECT DELEGATENIC KIPKE AS OUR NEXT STATE SENATOR… Contact Del.
+Nic Kipke Campaign Contact Information: PO BOX 862 Pasadena, Maryland 21123 kipke@kipke.com Official State Delegate Office Contact Information House Office Building, Room 212 6 Bladen St., Annapolis, MD 21401 nicholaus.kipke@house.state.md.us (410) 841-3421 1-800-492-7122, ext.
+3421 ©Copyright Nic Kipke 2021, All Rights Reserved – Not at Taxpayer Expense.
+Auth: Friends of Nic Kipke.
+Judy Glinka, Treasurer.

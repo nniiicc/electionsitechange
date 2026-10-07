@@ -1,23 +1,118 @@
 [
-"https://clarkforwi.com/",
-"https://clarkforwi.com/about",
-"https://clarkforwi.com/contact",
-"https://clarkforwi.com/endorsements",
-"https://clarkforwi.com/events",
-"https://clarkforwi.com/issues/ai",
-"https://clarkforwi.com/issues/border-safety-and-immigration",
-"https://clarkforwi.com/issues/data-centers",
-"https://clarkforwi.com/issues/health-care-for-everyone",
-"https://clarkforwi.com/issues/our-constitution-and-the-rule-of-law",
-"https://clarkforwi.com/issues/supporting-womens-rights-and-womens-health",
-"https://clarkforwi.com/media",
-"https://clarkforwi.com/new-north-woods",
-"https://clarkforwi.com/privacy-policy",
-"https://clarkforwi.com/volunteer1",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeDODUE44kYaBfA8U2gvK226yQKR43S3k9vzMjZ3BFqmiPLAg/viewform",
-"https://facebook.com/profile.php?id=61580798786652",
-"https://instagram.com/fredclarkforwi",
-"https://secure.actblue.com/donate/fred-clark-web",
-"https://store.clarkforwi.com/"
+{
+"text": "Border Safety and Immigration",
+"href": "https://www.clarkforwi.com/issues/border-safety-and-immigration"
+},
+{
+"text": "Contact",
+"href": "https://www.clarkforwi.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fred-clark-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clarkforwi.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clarkforwi.com/events"
+},
+{
+"text": "Health Care for Everyone",
+"href": "https://www.clarkforwi.com/issues/health-care-for-everyone"
+},
+{
+"text": "MERCH",
+"href": "https://store.clarkforwi.com/"
+},
+{
+"text": "Making Artificial Intelligence Work For Us",
+"href": "https://www.clarkforwi.com/issues/ai"
+},
+{
+"text": "Media",
+"href": "https://www.clarkforwi.com/media"
+},
+{
+"text": "Meet Fred",
+"href": "https://www.clarkforwi.com/about"
+},
+{
+"text": "New Northwoods",
+"href": "https://www.clarkforwi.com/new-north-woods"
+},
+{
+"text": "Our Constitution and the Rule of Law",
+"href": "https://www.clarkforwi.com/issues/our-constitution-and-the-rule-of-law"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.clarkforwi.com/privacy-policy"
+},
+{
+"text": "Putting the Reins on Data Centers",
+"href": "https://www.clarkforwi.com/issues/data-centers"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeDODUE44kYaBfA8U2gvK226yQKR43S3k9vzMjZ3BFqmiPLAg/viewform"
+},
+{
+"text": "Supporting Women’s Rights and Women’s Health",
+"href": "https://www.clarkforwi.com/issues/supporting-womens-rights-and-womens-health"
+},
+{
+"text": "View more",
+"href": "https://www.clarkforwi.com/issues/ai"
+},
+{
+"text": "View more",
+"href": "https://www.clarkforwi.com/issues/border-safety-and-immigration"
+},
+{
+"text": "View more",
+"href": "https://www.clarkforwi.com/issues/data-centers"
+},
+{
+"text": "View more",
+"href": "https://www.clarkforwi.com/issues/health-care-for-everyone"
+},
+{
+"text": "View more",
+"href": "https://www.clarkforwi.com/issues/our-constitution-and-the-rule-of-law"
+},
+{
+"text": "View more",
+"href": "https://www.clarkforwi.com/issues/supporting-womens-rights-and-womens-health"
+},
+{
+"text": "Volunteer",
+"href": "https://www.clarkforwi.com/volunteer1"
+},
+{
+"text": "[image: Clark for Wisconsin logo]",
+"href": "https://www.clarkforwi.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.clarkforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61580798786652"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/fredclarkforwi"
+},
+{
+"text": "info@clarkforwi.com",
+"href": "mailto:info@clarkforwi.com"
+}
 ]

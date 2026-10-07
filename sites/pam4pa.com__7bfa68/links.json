@@ -1,18 +1,74 @@
 [
-"https://moodusmedia.com/",
-"https://pam4pa.com/",
-"https://pam4pa.com/about",
-"https://pam4pa.com/accessibility",
-"https://pam4pa.com/community-meet-and-greet-march-8-2026",
-"https://pam4pa.com/cookie-policy",
-"https://pam4pa.com/fact-cards",
-"https://pam4pa.com/fact-cards/health-insurance-rate-increase",
-"https://pam4pa.com/fact-cards/i-will-not-be-bullied-into-silence",
-"https://pam4pa.com/fact-cards/we-the-people-are-the-answer",
-"https://pam4pa.com/losing-local-healthcare-access",
-"https://pam4pa.com/news",
-"https://pam4pa.com/privacy-policy",
-"https://pam4pa.com/terms-of-use",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/donate/pamela-hemann-1"
+{
+"text": "About Pam",
+"href": "https://pam4pa.com/about/"
+},
+{
+"text": "All Fact Cards",
+"href": "https://pam4pa.com/fact-cards/"
+},
+{
+"text": "Community Meet & Greet — Sunday, March 8 (1–4 PM) at Draught & Barrel",
+"href": "https://pam4pa.com/community-meet-and-greet-march-8-2026/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pamela-hemann-1"
+},
+{
+"text": "Donate Now via ActBlue",
+"href": "https://secure.actblue.com/donate/pamela-hemann-1"
+},
+{
+"text": "Facts",
+"href": "https://pam4pa.com/fact-cards/"
+},
+{
+"text": "February 18, 2026",
+"href": "https://pam4pa.com/community-meet-and-greet-march-8-2026/"
+},
+{
+"text": "Health Insurance Rate Increase",
+"href": "https://pam4pa.com/fact-cards/health-insurance-rate-increase/"
+},
+{
+"text": "I Will Not Be Bullied Into Silence",
+"href": "https://pam4pa.com/fact-cards/i-will-not-be-bullied-into-silence/"
+},
+{
+"text": "July 7, 2025",
+"href": "https://pam4pa.com/losing-local-healthcare-access/"
+},
+{
+"text": "News",
+"href": "https://pam4pa.com/news/"
+},
+{
+"text": "READ PAM'S BIO",
+"href": "https://pam4pa.com/about/"
+},
+{
+"text": "We The People Are The Answer",
+"href": "https://pam4pa.com/fact-cards/we-the-people-are-the-answer/"
+},
+{
+"text": "[image: Community Meet & Greet — Sunday, March 8 (1–4 PM) at Draught & Barrel]",
+"href": "https://pam4pa.com/community-meet-and-greet-march-8-2026/"
+},
+{
+"text": "[image: Pam 4 PA]",
+"href": "https://pam4pa.com/"
+},
+{
+"text": "[image: 🏥 Losing Local Healthcare Access — And What’s at Stake Right Now]",
+"href": "https://pam4pa.com/losing-local-healthcare-access/"
+},
+{
+"text": "[image]",
+"href": "https://pam4pa.com"
+},
+{
+"text": "🏥 Losing Local Healthcare Access — And What’s at Stake Right Now",
+"href": "https://pam4pa.com/losing-local-healthcare-access/"
+}
 ]

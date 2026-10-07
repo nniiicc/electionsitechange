@@ -1,7 +1,11 @@
 {
- "description": "Watch Victor\u2019s latest interviews, press releases, and campaign videos as he shares his vision for faith, family, and freedom in Colorado.",
+ "description": "Watch Victor’s latest interviews, press releases, and campaign videos as he shares his vision for faith, family, and freedom in Colorado.",
  "final_url": "https://www.victor2026.com/media",
- "paid_for_by": null,
+ "fingerprint": "f0502705030a955c59ca281b27db8367209553bb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Victor Marx for Governor | Media",
- "years_mentioned": []
+ "years_mentioned": [
+  "2035"
+ ]
 }

@@ -1,11 +1,5 @@
-Congresswoman Lori Trahan introduced the Pandemic Production Act
-‘It ensures we never get caught flat-footed by a pandemic or an infectious disease outbreak again.’
-The Merrimack River: A treasure worth protecting – By Lori Trahan
-‘Grant funding is absolutely vital when the scale of wastewater infrastructure projects is so large.’
-Trahan Shows Support for Local Farmers
-Congresswoman Trahan, accompanied by other state officials, visited farms in Littleton, Stow and Fitchburg.
-Trahan joins Black Caucus leader for broadcast on race
-‘We must continue tough conversations and expose racial injustice in all its hiding places.’
-Mass.
-Lawmakers Call For Changes At Assisted Living Facilities
-The Stop Sewage Overflow Act intends to limit sewage overflows into waterways like the Merrimack River.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu News From The Trail For press inquiries, please contact Press@LoriTrahan.com Congresswoman Lori Trahan introduced the Pandemic Production Act ‘It ensures we never get caught flat-footed by a pandemic or an infectious disease outbreak again.’ Read More The Merrimack River: A treasure worth protecting – By Lori Trahan ‘Grant funding is absolutely vital when the scale of wastewater infrastructure projects is so large.’ Read More Trahan Shows Support for Local Farmers Congresswoman Trahan, accompanied by other state officials, visited farms in Littleton, Stow and Fitchburg.
+Read More Trahan joins Black Caucus leader for broadcast on race ‘We must continue tough conversations and expose racial injustice in all its hiding places.’ Read More Mass.
+Lawmakers Call For Changes At Assisted Living Facilities The Stop Sewage Overflow Act intends to limit sewage overflows into waterways like the Merrimack River.
+Read More 1 2 3 4 › » Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

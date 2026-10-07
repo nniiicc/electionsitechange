@@ -1,16 +1,66 @@
 [
-"http://terryburkedotson.com/",
-"http://terryburkedotson.com/2020/10/terry-burke-dotson-and-paul-frost-respond-to-voter-questions",
-"http://terryburkedotson.com/2022/09/postcard",
-"http://terryburkedotson.com/2022/10/auburn-news",
-"http://terryburkedotson.com/about",
-"http://terryburkedotson.com/author/terryburkedotson",
-"http://terryburkedotson.com/category/terryburkedotson-com",
-"http://terryburkedotson.com/contact",
-"http://terryburkedotson.com/news",
-"http://terryburkedotson.com/photos",
-"http://terryburkedotson.com/video",
-"http://terryburkedotson.com/wp-content/uploads/2022/09/TBDotson_2022.pdf",
-"https://facebook.com/terryburke.dotson",
-"https://youtube.com/channel/UCBRseDFO8eV4q2duWGYq08A"
+{
+"text": "About",
+"href": "http://www.terryburkedotson.com/about/"
+},
+{
+"text": "Auburn News",
+"href": "http://www.terryburkedotson.com/2022/10/auburn-news/"
+},
+{
+"text": "Click Here",
+"href": "http://www.terryburkedotson.com/wp-content/uploads/2022/09/TBDotson_2022.pdf"
+},
+{
+"text": "Contact",
+"href": "http://www.terryburkedotson.com/contact/"
+},
+{
+"text": "News",
+"href": "http://www.terryburkedotson.com/news/"
+},
+{
+"text": "Photos",
+"href": "http://www.terryburkedotson.com/photos/"
+},
+{
+"text": "Postcard",
+"href": "http://www.terryburkedotson.com/2022/09/postcard/"
+},
+{
+"text": "September 23, 2022",
+"href": "http://www.terryburkedotson.com/2022/09/postcard/"
+},
+{
+"text": "Terry Burke Dotson and Paul Frost Respond to Voter Questions",
+"href": "http://www.terryburkedotson.com/2020/10/terry-burke-dotson-and-paul-frost-respond-to-voter-questions/"
+},
+{
+"text": "Terry Burke Dotson running for State Representative",
+"href": "http://www.terryburkedotson.com/"
+},
+{
+"text": "TerryBurkeDotson.com",
+"href": "http://www.terryburkedotson.com/"
+},
+{
+"text": "Video",
+"href": "http://www.terryburkedotson.com/video/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/terryburke.dotson"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCBRseDFO8eV4q2duWGYq08A"
+},
+{
+"text": "terryburkedotson.com",
+"href": "http://www.terryburkedotson.com/author/terryburkedotson/"
+},
+{
+"text": "terryburkedotson.com",
+"href": "http://www.terryburkedotson.com/category/terryburkedotson-com/"
+}
 ]

@@ -1,10 +1,4 @@
-Back to All Events
-Come out and support Clinton Anderson at a candidate forum for District 45.
+0 Skip to Content Home About Issues Events Endorsements Donate Open Menu Close Menu Open Menu Close Menu Home About Issues Events Endorsements Donate Home About Issues Events Endorsements Donate Back to All Events Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League Wednesday, October 12, 2022 6:00 PM 7:30 PM Kolak Education Center 1500 4th Street Beloit, WI, 53511 United States (map) Google Calendar ICS Come out and support Clinton Anderson at a candidate forum for District 45.
 The forum is hosted by the LWV Wisconsin, Beloit NAACP, and Beloit League.
-Previous
-Previous
-October 5
-Democratic Party of Green County Meet and Greet Supporting Jenna Jacobson, Mark Spreitzer, and Clinton Anderson
-Next
-Next
-October 13
+Previous Previous October 5 Democratic Party of Green County Meet and Greet Supporting Jenna Jacobson, Mark Spreitzer, and Clinton Anderson Next Next October 13 Meet and Greet in Evansville for Clinton Anderson Email: admin@clintonforassembly.com Phone: +1 (608) 302-7913 Donate Paid for by Friends of Clinton Anderson 2282 Bootmaker Dr.
+Beloit, WI 53511

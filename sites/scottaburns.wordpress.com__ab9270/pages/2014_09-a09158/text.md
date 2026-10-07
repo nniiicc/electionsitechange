@@ -1,26 +1,15 @@
-- Recent Tweets Tweets by sbpres
-- Events
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: September 2014
-2014 Legislative Report Card: NH Alcohol and Drug Policy
-New Futures Legislative Report Card puts me in support of reducing Alcohol and Drug Abuse.
-Visit New Futures website or click on link:
-Message from NH Public Health Association
-NH Public Health Association has thank me for my voting record on their bills in 2014.
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: September 2014 2014 Legislative Report Card: NH Alcohol and Drug Policy Posted on September 21, 2014 by Scott Burns for State Representative New Futures Legislative Report Card puts me in support of reducing Alcohol and Drug Abuse.
+Visit New Futures website or click on link: Posted in Uncategorized | Leave a comment Message from NH Public Health Association Posted on September 21, 2014 by Scott Burns for State Representative NH Public Health Association has thank me for my voting record on their bills in 2014.
 There will be a letter to the editor in the Concord Monitor soon.
 Thanks for recognizing me as a Public Health Champion for 2014.
-AFT-NH Endorsement
-Today, I received a letter from AFT-NH.
+Posted in Uncategorized | Leave a comment AFT-NH Endorsement Posted on September 21, 2014 by Scott Burns for State Representative Today, I received a letter from AFT-NH.
 Once again, I have been endorsed by AFT-NH.
 I will continue to support fully funding and support public education and public services.
-NH AFL CIO 2014 Endorsement
-Today, I am proud to be endorsed by NH AFL CIO.
+Posted in Uncategorized | Leave a comment NH AFL CIO 2014 Endorsement Posted on September 18, 2014 by Scott Burns for State Representative Today, I am proud to be endorsed by NH AFL CIO.
 I have taken the Working Family Pledge.
 I will continue to create jobs not only for the district but for NH.
 My Stewardship bills will create jobs.
-Reelection
-I am running for reelection to continue to support the education system to work with leaders to provide more job skills or internships to prepare for new jobs we hopefully get.
-I will introduce some recycling bills that will create … Continue reading
+Posted in Uncategorized | Leave a comment Reelection Posted on September 1, 2014 by Scott Burns for State Representative I am running for reelection to continue to support the education system to work with leaders to provide more job skills or internships to prepare for new jobs we hopefully get.
+I will introduce some recycling bills that will create … Continue reading → Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events September 2014 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Apr Oct » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

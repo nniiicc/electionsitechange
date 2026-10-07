@@ -1,9 +1,7 @@
-Virginia Staabs for Missouri State Senate District 16
-Virginia Staabs, is the Democratic candidate for the Missouri State Senate representing District 16.
-She is a resident of Richland, Missouri, and has a background that includes over a decade of work as a Notary Public and Signing Agent in multiple states.
-Her career and civic contributions include:
-- Civic Leadership: She founded and leads "What’s Up in Missouri Elections," a local organization that focuses on helping residents understand and engage in the electoral process.
-- Public Service & Non-Profits: Her history of service extends to various non-profit organizations and government-related committees, particularly in the realm of finance and local governance.
-- Training & Communication: She is recognized for her work with large organizations, where she specialized in training trainers and teaching effective communication and listening skills.
+Skip to main content Staabs MO SD 16 Staabs MO SD 16 Home Issues & Stances Merchandise and Swag Donations of Time or Money Contact Us Virginia Staabs for Missouri State Senate District 16 Virginia Staabs, is the Democratic candidate for the Missouri State Senate representing District 16.
+She is a resident of Richland, Missouri , and has a background that includes over a decade of work as a Notary Public and Signing Agent in multiple states.
+Her career and civic contributions include: Civic Leadership : She founded and leads "What’s Up in Missouri Elections," a local organization that focuses on helping residents understand and engage in the electoral process.
+Public Service & Non-Profits : Her history of service extends to various non-profit organizations and government-related committees, particularly in the realm of finance and local governance.
+Training & Communication : She is recognized for her work with large organizations, where she specialized in training trainers and teaching effective communication and listening skills .
 In March 2026, she filed as the sole Democratic candidate, to run for the District 16 seat, which includes counties such as Dent, Laclede, Maries, Phelps, Pulaski and Wright.
-Email - StaabsMOSD16@gmail.com
+How can I help Facebook Calendar Email - StaabsMOSD16@gmail.com Create Your Own Website With Webador Paid for by: StaabsMOSD16, Treasurer Mary Meir, Treasurer © # Staabs MO SD 16 Powered by Webador

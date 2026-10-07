@@ -1,5 +1,6 @@
-YOUR PRIVACY MATTERS
-In today's digital era, Walt acknowledges that protecting your privacy is paramount.
+top of page DONATE HERE!
+HOME WALT'S STORY WALT'S VISION FOR ARIZONA WALT'S POLICIES & ISSUES BORDER SECURITY ENDORSEMENTS WALT'S VOTING RECORD PROJECTS AZ GOP Links JLBC Budget Walt's Legistrative Summary BOOK ONLINE WALT'S PODCAST WALT'S BLOG LD7 NewsLetter CONTACT WALT Privacy Disclaimer Blog Events More Use tab to navigate through the menu items.
+WALT BLACKMAN REPIBLICAN FOR ARZONIA Please Sign My Pettion YOUR PRIVACY MATTERS In today's digital era, Walt acknowledges that protecting your privacy is paramount.
 Privacy Disclaimer.
 We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
@@ -11,9 +12,7 @@ When you complete forms online or otherwise provide Us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If We, in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
-Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms.
-AI Use & Accessibility Statement
-As a combat veteran living with a service-related disability, including a Traumatic Brain Injury (TBI), I utilize AI technologies to assist in the management, creation, and upkeep of this website.
+Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms. ​ AI Use & Accessibility Statement As a combat veteran living with a service-related disability, including a Traumatic Brain Injury (TBI), I utilize AI technologies to assist in the management, creation, and upkeep of this website.
 These tools help me maintain functionality, accessibility, and content quality despite the ongoing challenges associated with my condition.
 AI may be used for generating written content, streamlining communication, and enhancing overall site experience.
 While AI supports these efforts, I personally review and approve all material to ensure it reflects the values and accuracy expected of this platform.
@@ -23,9 +22,9 @@ Your support and understanding mean a great deal.
 By visiting this site, you're not only engaging with meaningful content but also supporting a mission shaped by service, resilience, and adaptive strength.
 For more detailed information, please refer to our [Privacy Policy] and [Terms of Service].
 Let me know if you'd like this in a shorter or more formal version, or if you need help writing the linked policies.
-GET IN TOUCH
-By providing your phone number and checking this box, you are consenting to receive calls and text messages, including auto-dialed and automated calls and texts, to that number from Duarte for Congress.
+GET IN TOUCH By providing your phone number and checking this box, you are consenting to receive calls and text messages, including auto-dialed and automated calls and texts, to that number from Duarte for Congress.
 Message and data rates may apply.
 Reply "STOP" to opt-out.
 Please see Privacy Policy & Terms of Use for more info.
-928-241-4129
+928-241-4129 info@waltbforld7.com First Name Last Name Email Message Send Thanks for submitting!
+GET INVOLVED: INFO@WALTBFORLD7.COM PAID FOR BY BLACKMAN.VOTE PRIVACY POLICY FUNDED BY THE COMMITTEE SUPPORTING WALT BLACKMAN'S CANDIDACY. bottom of page

@@ -1,6 +1,4 @@
-ORANGE COUNTY’S HARDWORKING STATE SENATOR
-– Blocking the proposed Village of Seven Springs next to KJ, rewriting the law that governs how new villages form
-– Cracking down on corporate welfare
-– Opposing new taxes on the middle class
-– Chairing the Senate Investigations Committee
-– Securing universal pre-k and record school funding
+GET INVOLVED ABOUT JAMES ISSUES VOTE CONTRIBUTE GET INVOLVED ABOUT JAMES ISSUES VOTE CONTRIBUTE THE STRONG VOICE WE ALL NEED NOW ORANGE COUNTY’S HARDWORKING STATE SENATOR James Skoufis has proven himself as the strong, independent voice the Hudson Valley needs.
+He’ll continue fighting for the things that matter most to our communities.
+His record of accomplishment in Albany includes: – Blocking the proposed Village of Seven Springs next to KJ, rewriting the law that governs how new villages form – Cracking down on corporate welfare – Opposing new taxes on the middle class – Chairing the Senate Investigations Committee – Securing universal pre-k and record school funding WHERE HE STANDS LEARN MORE GET INVOLVED ABOUT MEDIA CONTRIBUTE NEWS VOTE SUPPORT OUR CAUSE Politics as usual doesn’t work for me.
+I’m making sure special interests are held in check and that everyone plays by the same rules.” MEET JAMES ENDORSED BY JOIN US ABOUT JAMES ISSUES MEDIA VOTE CONTRIBUTE Join Email List ‪845-397-7625‬ © # Skoufis for NY Senate Paid for by Skoufis for NY Senate

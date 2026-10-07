@@ -1,28 +1,106 @@
 [
-"http://leg.wa.gov/",
-"https://electpeterabbarno.com/",
-"https://electpeterabbarno.com/about",
-"https://electpeterabbarno.com/category/blog",
-"https://electpeterabbarno.com/category/uncategorized",
-"https://electpeterabbarno.com/es/el-diputado-abbarno-se-reune-con-el-vicegobernador-rodgers-de-vermont",
-"https://electpeterabbarno.com/issues",
-"https://electpeterabbarno.com/items-of-interest",
-"https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized",
-"https://electpeterabbarno.com/making-home-energy-improvements-work-better-for-washington-communities",
-"https://electpeterabbarno.com/peters-blog",
-"https://electpeterabbarno.com/protecting-rural-washington",
-"https://electpeterabbarno.com/rep-abbarno-meets-with-eagle-scout",
-"https://electpeterabbarno.com/rep-abbarno-meets-with-vermont-lt-governor-rodgers",
-"https://electpeterabbarno.com/signup-for-peters-newsletter",
-"https://electpeterabbarno.com/washington-state-nurses-association-pac-endorsement",
-"https://facebook.com/events/1169415675293956?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-UK-R",
-"https://facebook.com/johnrodgersvt?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-%5DK-R",
-"https://facebook.com/peter.abbarno",
-"https://facebook.com/vermontlaw?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-%5DK-R",
-"https://facebook.com/vtgop?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-%5DK-R",
-"https://instagram.com/peter_abbarno",
-"https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026",
-"https://silveragency.com/",
-"https://sos.wa.gov/elections",
-"https://twitter.com/peterabbarno"
+{
+"text": "ABOUT",
+"href": "https://electpeterabbarno.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://electpeterabbarno.com/peters-blog/"
+},
+{
+"text": "Blog",
+"href": "https://electpeterabbarno.com/category/blog/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/peterabbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/peter.abbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/peter_abbarno"
+},
+{
+"text": "Get Peter's Newsletter",
+"href": "https://electpeterabbarno.com/signup-for-peters-newsletter/"
+},
+{
+"text": "ISSUES",
+"href": "https://electpeterabbarno.com/issues/"
+},
+{
+"text": "LEGISLATURE",
+"href": "http://leg.wa.gov/"
+},
+{
+"text": "Lewis County Public Health building to be modernized",
+"href": "https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized/"
+},
+{
+"text": "Lieutenant Governor John Rodgers",
+"href": "https://www.facebook.com/johnrodgersvt?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-%5DK-R"
+},
+{
+"text": "Making Home Energy Improvements Work Better for Washington Communities",
+"href": "https://electpeterabbarno.com/making-home-energy-improvements-work-better-for-washington-communities/"
+},
+{
+"text": "NEWS",
+"href": "https://electpeterabbarno.com/items-of-interest/"
+},
+{
+"text": "Next Article →",
+"href": "https://electpeterabbarno.com/rep-abbarno-meets-with-eagle-scout/"
+},
+{
+"text": "Protecting Washington’s Working Lands and Strengthening Rural Communities",
+"href": "https://electpeterabbarno.com/protecting-rural-washington/"
+},
+{
+"text": "The 2026 Cascade Conference",
+"href": "https://www.facebook.com/events/1169415675293956/?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-UK-R"
+},
+{
+"text": "The Silver Agency",
+"href": "https://silveragency.com"
+},
+{
+"text": "Uncategorized",
+"href": "https://electpeterabbarno.com/category/uncategorized/"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.sos.wa.gov/elections/"
+},
+{
+"text": "Vermont Law and Graduate School",
+"href": "https://www.facebook.com/vermontlaw?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-%5DK-R"
+},
+{
+"text": "Vermont Republican Party",
+"href": "https://www.facebook.com/vtgop?__cft__%5B0%5D=AZZGYjxQ77Grv9EAJmbmVDWkPYbUOyQEKuBiR5XRWCPxosqf1MQa2Rz_x1GP1qjPWQ6rFwYYHUgBUZBztRbT_O7n_emVqhzvrFdxclQD9v1cJcaT-2kU3bXxlhyHLQx9at4h4Poq2ci27PiyO0UqVkMw&__tn__=-%5DK-R"
+},
+{
+"text": "[image]",
+"href": "https://electpeterabbarno.com/"
+},
+{
+"text": "[image]English",
+"href": "https://electpeterabbarno.com/rep-abbarno-meets-with-vermont-lt-governor-rodgers/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://electpeterabbarno.com/es/el-diputado-abbarno-se-reune-con-el-vicegobernador-rodgers-de-vermont/"
+},
+{
+"text": "← Previous Article",
+"href": "https://electpeterabbarno.com/washington-state-nurses-association-pac-endorsement/"
+}
 ]

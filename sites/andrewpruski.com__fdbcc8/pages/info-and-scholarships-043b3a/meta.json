@@ -1,7 +1,11 @@
 {
  "description": "Andrew Pruski's campaign",
  "final_url": "https://www.andrewpruski.com/info-and-scholarships",
- "paid_for_by": null,
- "title": "Voter Information \u2014 Andrew Pruski",
- "years_mentioned": []
+ "fingerprint": "b83d7392954f3e0cad8403049ae457a8476867ac",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Voter Information — Andrew Pruski",
+ "years_mentioned": [
+  "2026"
+ ]
 }

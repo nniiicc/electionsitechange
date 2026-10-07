@@ -1,16 +1,70 @@
 [
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05044&which_year=2026",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00001&which_year=2024",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00010&which_year=2025",
-"https://cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00196&which_year=2026",
-"https://crumblingfoundations.org/",
-"https://ctmirror.org/2022/04/27/ct-budget-deal-includes-600m-in-tax-cuts-extends-gas-tax-holiday",
-"https://facebook.com/SenatorSaudAnwar",
-"https://instagram.com/saudanwarct",
-"https://linkedin.com/in/saud-anwar-md-mph-fccp-4612a44a",
-"https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2019/06-2019/Governor-Lamont-Signs-Historic-Law-Enacting-Family-and-Medical-Leave-in-Connecticut",
-"https://portal.ct.gov/sots",
-"https://saudanwar.com/",
-"https://saudanwar.com/about",
-"https://twitter.com/SaudAnwarCT"
+{
+"text": "Biografía",
+"href": "https://saudanwar.com/about"
+},
+{
+"text": "CT Mirror, 2022 →",
+"href": "https://ctmirror.org/2022/04/27/ct-budget-deal-includes-600m-in-tax-cuts-extends-gas-tax-holiday/"
+},
+{
+"text": "CT Paid Leave, 2019 →",
+"href": "https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2019/06-2019/Governor-Lamont-Signs-Historic-Law-Enacting-Family-and-Medical-Leave-in-Connecticut"
+},
+{
+"text": "ENGLISH",
+"href": "https://saudanwar.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SenatorSaudAnwar/"
+},
+{
+"text": "Fechas y lugares",
+"href": "https://portal.ct.gov/sots"
+},
+{
+"text": "Info por correo",
+"href": "https://portal.ct.gov/sots"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/saudanwarct/"
+},
+{
+"text": "Leer la ley - HB 5044 / PA 26-3 →",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05044&which_year=2026"
+},
+{
+"text": "Leer la ley - SB 1 (2024) / PA 24-19 →",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00001&which_year=2024"
+},
+{
+"text": "Leer la ley - SB 10 / PA 25-94 →",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00010&which_year=2025"
+},
+{
+"text": "Leer la ley - SB 196 / PA 26-22 →",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00196&which_year=2026"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/saud-anwar-md-mph-fccp-4612a44a/"
+},
+{
+"text": "Programa de reparación de cimientos →",
+"href": "https://crumblingfoundations.org"
+},
+{
+"text": "SB 196 / PA 26-22 →",
+"href": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00196&which_year=2026"
+},
+{
+"text": "Twitter / X",
+"href": "https://twitter.com/SaudAnwarCT"
+},
+{
+"text": "portal oficial del votante del Secretario del Estado de CT",
+"href": "https://portal.ct.gov/sots"
+}
 ]

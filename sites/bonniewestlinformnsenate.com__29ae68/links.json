@@ -1,16 +1,62 @@
 [
-"https://bonniewestlinformnsenate.com/",
-"https://bonniewestlinformnsenate.com/about-bonnie",
-"https://bonniewestlinformnsenate.com/contact-us",
-"https://bonniewestlinformnsenate.com/endorsements",
-"https://bonniewestlinformnsenate.com/legislative-issues",
-"https://bonniewestlinformnsenate.com/vote",
-"https://facebook.com/WestlinForMNSenate",
-"https://flickr.com/photos/189876342@N03",
-"https://instagram.com/westlinformnsenate",
-"https://mobilize.us/Westlin-for-MN-SenateDFL/event/1016102",
-"https://secure.actblue.com/donate/reelectbonnie",
-"https://sos.mn.gov/elections-voting/register-to-vote",
-"https://sos.state.mn.us/elections-voting/register-to-vote",
-"https://youtube.com/channel/UCtjVGt45yvrMow_4lfcbSDQ"
+{
+"text": "About Bonnie",
+"href": "https://www.bonniewestlinformnsenate.com/about-bonnie/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bonniewestlinformnsenate.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelectbonnie"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bonniewestlinformnsenate.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/Westlin-for-MN-SenateDFL/event/1016102/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/WestlinForMNSenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/189876342@N03/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/westlinformnsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/channel/UCtjVGt45yvrMow_4lfcbSDQ/"
+},
+{
+"text": "Legislative Issues",
+"href": "https://www.bonniewestlinformnsenate.com/legislative-issues/"
+},
+{
+"text": "Priorities & Issues",
+"href": "https://www.bonniewestlinformnsenate.com/legislative-issues/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.mn.us/elections-voting/register-to-vote/"
+},
+{
+"text": "Vote",
+"href": "https://www.bonniewestlinformnsenate.com/vote/"
+},
+{
+"text": "[image: Bonnie Westlin]",
+"href": "https://www.bonniewestlinformnsenate.com/"
+},
+{
+"text": "register to vote",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/"
+}
 ]

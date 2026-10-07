@@ -1,7 +1,42 @@
 [
-"https://facebook.com/robbyforhouse",
-"https://instagram.com/robbyforhouse",
-"https://robbyforhouse.com/about.html",
-"https://scvotes.gov/",
-"https://secure.anedot.com/ca39b2c3-fb03-4aeb-9dc5-461b9bcc37bb/fb453e3d-1076-4859-8c29-6aee9f41cc3f"
+{
+"text": "About",
+"href": "https://robbyforhouse.com/about.html"
+},
+{
+"text": "Check your registration",
+"href": "https://scvotes.gov"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ca39b2c3-fb03-4aeb-9dc5-461b9bcc37bb/fb453e3d-1076-4859-8c29-6aee9f41cc3f"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/ca39b2c3-fb03-4aeb-9dc5-461b9bcc37bb/fb453e3d-1076-4859-8c29-6aee9f41cc3f"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/robbyforhouse"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:info@robbyforhouse.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/robbyforhouse"
+},
+{
+"text": "Request a Yard Sign",
+"href": "mailto:info@robbyforhouse.com?subject=Yard+Sign+Request&body=Hello%2CI+would+like+a+Robby+Robbins+yard+sign.Please+fill+in+your+details+before+sending%3AName%3A+Street+address%3A+City%3A+State%3A+ZIP+code%3A+Thank+you%21"
+},
+{
+"text": "Robby's Full Bio",
+"href": "https://robbyforhouse.com/about.html"
+},
+{
+"text": "scvotes.gov",
+"href": "https://scvotes.gov"
+}
 ]

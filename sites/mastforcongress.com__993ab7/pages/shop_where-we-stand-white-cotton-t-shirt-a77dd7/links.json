@@ -1,32 +1,142 @@
 [
-"https://facebook.com/BrianMastFL",
-"https://mastforcongress.com/",
-"https://mastforcongress.com/collections/accessories",
-"https://mastforcongress.com/collections/apparel",
-"https://mastforcongress.com/collections/causes",
-"https://mastforcongress.com/collections/causes/back-the-blue",
-"https://mastforcongress.com/collections/causes/send-the-water-south",
-"https://mastforcongress.com/collections/causes/stop-socialism",
-"https://mastforcongress.com/collections/featured",
-"https://mastforcongress.com/collections/limited-edition",
-"https://mastforcongress.com/collections/merch",
-"https://mastforcongress.com/contact",
-"https://mastforcongress.com/faq",
-"https://mastforcongress.com/privacy-policy",
-"https://mastforcongress.com/shipping-and-returns",
-"https://mastforcongress.com/shop",
-"https://mastforcongress.com/shop/official-team-mast-hat",
-"https://mastforcongress.com/shop/official-team-mast-navy-jersey",
-"https://mastforcongress.com/shop/official-team-mast-rectangular-bumper-sticker",
-"https://mastforcongress.com/shop/socialism-sucks-black-jersey",
-"https://mastforcongress.com/wp-content/uploads/2024/03/BM151_BM152_5000_White.png",
-"https://secure.winred.com/mast-for-congress/donate",
-"https://secure.winred.com/mast-for-congress/storefront/official-team-mast-hat-sku_fffqybtl/details",
-"https://secure.winred.com/mast-for-congress/storefront/official-team-mast-navy-jersey/details",
-"https://secure.winred.com/mast-for-congress/storefront/official-team-mast-rectangular-bumper-sticker-set-of-2/details",
-"https://secure.winred.com/mast-for-congress/storefront/socialism-sucks-black-jersey/details",
-"https://secure.winred.com/mast-for-congress/storefront/where-we-stand-white-cotton-t-shirt/details",
-"https://truthsocial.com/@BrianMastFL",
-"https://twitter.com/BrianMastFL",
-"https://youtube.com/channel/UCFHmV3VcjZxOEFeTitzUszQ"
+{
+"text": "Accessories",
+"href": "https://mastforcongress.com/collections/accessories/"
+},
+{
+"text": "Apparel",
+"href": "https://mastforcongress.com/collections/apparel/"
+},
+{
+"text": "Back the Blue",
+"href": "https://mastforcongress.com/collections/causes/back-the-blue/"
+},
+{
+"text": "Buy product",
+"href": "https://secure.winred.com/mast-for-congress/storefront/official-team-mast-hat-sku_fffqybtl/details"
+},
+{
+"text": "Buy product",
+"href": "https://secure.winred.com/mast-for-congress/storefront/official-team-mast-jersey/details"
+},
+{
+"text": "Buy product",
+"href": "https://secure.winred.com/mast-for-congress/storefront/official-team-mast-navy-jersey/details"
+},
+{
+"text": "Buy product",
+"href": "https://secure.winred.com/mast-for-congress/storefront/official-team-mast-white-men-s-dry-wick-polo/details"
+},
+{
+"text": "Buy product",
+"href": "https://secure.winred.com/mast-for-congress/storefront/where-we-stand-white-cotton-t-shirt/details/"
+},
+{
+"text": "Contact",
+"href": "https://mastforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "FAQ",
+"href": "https://mastforcongress.com/faq/"
+},
+{
+"text": "Featured",
+"href": "https://mastforcongress.com/collections/featured/"
+},
+{
+"text": "Home",
+"href": "https://mastforcongress.com"
+},
+{
+"text": "Limited Edition",
+"href": "https://mastforcongress.com/collections/limited-edition/"
+},
+{
+"text": "Main Site",
+"href": "https://mastforcongress.com/"
+},
+{
+"text": "Merch",
+"href": "https://mastforcongress.com/collections/merch/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mastforcongress.com/privacy-policy/"
+},
+{
+"text": "Send the Water South",
+"href": "https://mastforcongress.com/collections/causes/send-the-water-south/"
+},
+{
+"text": "Shipping and Returns",
+"href": "https://mastforcongress.com/shipping-and-returns/"
+},
+{
+"text": "Shop",
+"href": "https://mastforcongress.com/shop/"
+},
+{
+"text": "Shop Your Cause",
+"href": "https://mastforcongress.com/collections/causes/"
+},
+{
+"text": "Stop Socialism",
+"href": "https://mastforcongress.com/collections/causes/stop-socialism/"
+},
+{
+"text": "[image: Mast for Congress]",
+"href": "https://mastforcongress.com"
+},
+{
+"text": "[image: Mast for Congress]",
+"href": "https://mastforcongress.com/shop/"
+},
+{
+"text": "[image: Official Team Mast Hat]Official Team Mast Hat $30.00",
+"href": "https://mastforcongress.com/shop/official-team-mast-hat/"
+},
+{
+"text": "[image: Official Team Mast Jersey]Official Team Mast Jersey $35.00",
+"href": "https://mastforcongress.com/shop/official-team-mast-jersey/"
+},
+{
+"text": "[image: Official Team Mast Navy Jersey]Official Team Mast Navy Jersey $35.00",
+"href": "https://mastforcongress.com/shop/official-team-mast-navy-jersey/"
+},
+{
+"text": "[image: Official Team Mast White Men's Dry-Wick Polo]Official Team Mast White Men’s Dry-Wick Polo $50.00",
+"href": "https://mastforcongress.com/shop/official-team-mast-white-mens-dry-wick-polo/"
+},
+{
+"text": "[image: Where We Stand White Cotton T-Shirt]",
+"href": "https://mastforcongress.com/wp-content/uploads/2024/03/BM151_BM152_5000_White.png"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@BrianMastFL"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrianMastFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrianMastFL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCFHmV3VcjZxOEFeTitzUszQ"
+},
+{
+"text": "terms & privacy policy",
+"href": "https://mastforcongress.com/privacy-policy/"
+}
 ]

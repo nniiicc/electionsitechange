@@ -1,13 +1,1 @@
-Skip to content
-Will Darby for Nashua Ward 8 State Representative
-Meet Will
-On the
-Issues
-Blog
-Acknowledgements
-and Endorsements
-Get Involved
-Donate
-Facebook
-Endorsements
-Acknowledgements
+Skip to content Will Darby for Nashua Ward 8 State Representative Meet Will On the Issues Blog Acknowledgements and Endorsements Get Involved Donate Facebook Endorsements Acknowledgements Paid for by Friends of Will Darby, William Darby, Fiscal Agent 13 Jensen St., Nashua, NH Website Credits

@@ -1,5 +1,4 @@
-About Joe
-Joseph Floy Lovvorn, born September 5, 1976.
+About Joe Accomplishments & Goals Contact Donations About Joe See How Joe is Working For You Joseph Floy Lovvorn, born September 5, 1976.
 Joe grew up in Graham, Alabama.
 Joe is the son of Terry and Sherry Lovvorn.
 Joe and his sister, Susan, grew up understanding the basics of life.
@@ -12,7 +11,7 @@ While attending Auburn University, Joe became a student firefighter.
 He was promoted to a career firefighter after completing his education at Auburn.
 In the years following, Joe has been promoted to Team Leader, then Lieutenant, and he is currently a Battalion Chief.
 Joe has assumed various other roles during his lifetime.
-He became a Realtor about 15 years ago.
+He became a Realtor about #ago.
 His real estate career lead him to open a small local business.
 He is the owner/franchisee of Two Men and a Truck, Auburn/Montgomery.
 As a business owner, Joe has become very involved in the Auburn Chamber of Commerce and is a board member.
@@ -25,3 +24,4 @@ Joe is married to Jenifer Bigelow Lovvorn.
 Jenifer worked for Auburn City Schools for 15 years.
 She resigned in 2014 to focus on raising their two children, Jackson (9) and Landon (7).
 Jenifer and Joe are both Realtors at Berkshire Hathaway HomeServices.
+About Joe Accomplishments & Goals Donations Contact Paid for by the Joe Lovvorn Campaign Privacy Policy

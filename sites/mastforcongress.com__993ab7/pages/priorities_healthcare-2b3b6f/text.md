@@ -1,4 +1,6 @@
-There’s no doubt the rising cost of healthcare caused by Obamacare has burdened American families and created a massive increase in bureaucracy resulting in less choice.
+Thanks for your interest in our AMERICA FIRST movement.
+Will you please take a moment to join our team?
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Making Healthcare More Affordable There’s no doubt the rising cost of healthcare caused by Obamacare has burdened American families and created a massive increase in bureaucracy resulting in less choice.
 Unfortunately, the far left’s plan to enact socialized medicine would drastically reduce the quality of care while skyrocketing taxes.
 I am fighting to stop that from happening and instead implement a healthcare system founded on the idea that you should have the ultimate freedom to choose the plan that works best for your family.
 Specifically, we need healthcare in the United States that increases choice and enables Americans to choose the doctors and plans that fit their specific needs while still protecting individuals with pre-existing conditions and drastically lowering costs.
@@ -7,5 +9,9 @@ I also helped successfully eliminate Obamacare’s individual mandate tax and ex
 There’s no doubt we also need to eliminate red tape to speed up the development of life saving cures and drive down costs for prescription drugs.
 To that end, I helped pass new legislation to lower prescription drug costs, secured more than $6 billion to combat the opioid epidemic, increased support for Alzheimer’s patients and funded new cancer research.
 Of course, no conversation about healthcare is complete without discussing critical needs for Medicare beneficiaries and veterans.
-To learn more about my work on behalf of seniors click here and to learn more about my work on behalf of veterans click here.
-Sign Up To Learn More About My Fight For Affordable Healthcare
+To learn more about my work on behalf of seniors click here and to learn more about my work on behalf of veterans click here .
+Sign Up To Learn More About My Fight For Affordable Healthcare Related Blog Posts: Put Veterans in the Driver’s Seat September 21, 2026 Honoring the Battle After the Battlefield June 8, 2026 Promises Kept: The Medal of Sacrifice is Now Law June 1, 2026 Honoring the Sacrifice: Better Healthcare for Our Heroes May 26, 2026 Freedom is Earned: Honoring Those Who Answer the Call May 4, 2026 Freedom Isn’t Free: Making Veterans the Heart of America’s 250th Anniversary April 20, 2026 Homeless Veterans & The Border.
+Let’s Talk About It… May 13, 2024 Biden left them dead and abandoned August 4, 2022 Why this month is important to me May 16, 2022 Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Brian Mast is a retired member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

@@ -1,6 +1,6 @@
-Dear Neighbor,
-Greetings from the House, where we are busy preparing for the 2026 legislative session to begin in St.
-Paul Feb. 17.
+Home About Bills Articles Events Photos Voting Priorities Survey Contact Donate Dear Neighbor, Greetings from the House, where we are busy preparing for the 2026 legislative session to begin in St.
+Paul Feb.
+17.
 The state already has a two-year budget in place, so this session will focus on an assortment of other key issues in our state – with rampant fraud at the top of the list.
 The list of fraud scandals in Minnesota seems to grow by the day, including two recent reports from the nonpartisan Office of the Legislative Auditor.
 One OLA report revealed major problems in how the Department of Human Services handled behavioral health grants.
@@ -22,6 +22,7 @@ In other words, our state is failing to conduct even the most basic due diligenc
 New state leaders following the same failed playbook will only bring more waste, more fraud, and higher costs for taxpayers.
 That is why, when the 2026 session begins next month, tackling fraud must be a top priority.
 We need basic, common-sense reforms that strengthen oversight and accountability in state programs.
+And, even though this isn’t a budget year, cracking down on fraud now could make a major difference in addressing our state’s projected $3 billion budget shortfall for 2028–29 after one-party government spent our $18 billion surplus, grew state spending by 40 percent, and raised taxes by $10 billion during the last biennium.
 If we don’t fix this, the vicious cycle continues where criminals raid taxpayer-funded programs, the state keeps replenishing them, and the people who truly rely on these services are the ones who suffer (along with taxpayers).
 This includes hungry kids, struggling families, the homeless, children with autism and more.
 Minnesotans deserve a government that protects their tax dollars, not one that hands them to scammers and then asks hardworking taxpayers to pay even more.
@@ -30,9 +31,10 @@ We should not accept anything less.
 Look for more from the House soon.
 Until next time, please stay in touch and let me know how I can help.
 I very much appreciate input from local residents because it helps me continue doing my best to represent the people in our district.
-Please Contact Me
-It’s an honor and privilege to work for you at the Capitol.
+Please Contact Me It’s an honor and privilege to work for you at the Capitol.
 Don’t hesitate to contact my office at any time this session to share your thoughts, concerns or ideas.
-You can call me at 651-296-6316, or email me at rep.bernie.perryman@house.mn.gov.
+You can call me at 651-296-6316, or email me at rep.bernie.perryman@house.mn. gov .
 I am here to serve you!
-Bernie
+Bernie Follow Follow Follow Follow Follow Audio Ad Transcripts Prepared and Paid for by Perryman for Senate P.O.
+Box 7144, St.
+Cloud, MN 56302

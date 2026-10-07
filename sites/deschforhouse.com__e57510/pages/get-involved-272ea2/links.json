@@ -1,11 +1,42 @@
 [
-"https://deschforhouse.com/",
-"https://deschforhouse.com/accessibility-statement",
-"https://deschforhouse.com/get-involved",
-"https://deschforhouse.com/meet-jenny",
-"https://deschforhouse.com/privacy-policy",
-"https://facebook.com/DeschForHouse",
-"https://instagram.com/deschforhouse",
-"https://kentcreativeagency.com/",
-"https://secure.actblue.com/donate/deschforhouse"
+{
+"text": "Accessibility Statement",
+"href": "https://www.deschforhouse.com/accessibility-statement"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/deschforhouse"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deschforhouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.deschforhouse.com"
+},
+{
+"text": "Kent Creative Agency",
+"href": "https://www.kentcreativeagency.com"
+},
+{
+"text": "Meet Jenny",
+"href": "https://www.deschforhouse.com/meet-jenny"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deschforhouse.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DeschForHouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/deschforhouse"
+},
+{
+"text": "[image: Logo for Jenny Desch for House - Fort Mill]",
+"href": "https://www.deschforhouse.com"
+}
 ]

@@ -1,11 +1,3 @@
-Back to All Events
-This online Town Hall has been canceled due to a scheduling conflict with the Forum in Traverse City.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events In Person(town hall) Wednesday, April 1, 2026 7:00 PM 8:00 PM Youtube Live (map) Google Calendar ICS This online Town Hall has been canceled due to a scheduling conflict with the Forum in Traverse City.
 If you’re in the area please consider joining the event in person.
-The livestreamed event can be found here
-Previous
-Previous
-April 1
-Candidate Forum
-Next
-Next
-April 2
+The livestreamed event can be found here https://www.mobilize.us/tiestraverseindivisibleeducationsolidarity/event/904658/?referring_vol=1377573&rname=John&share_context=event_details&share_medium=copy_link Previous Previous April 1 Candidate Forum Next Next April 2 Candidate Forum

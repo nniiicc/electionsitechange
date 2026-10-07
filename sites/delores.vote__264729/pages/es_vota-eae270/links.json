@@ -1,20 +1,94 @@
 [
-"http://my.arizona.vote/",
-"https://arizona.vote/",
-"https://azsos.gov/elections/about-elections/county-election-contact-info",
-"https://azsos.gov/elections/vote",
-"https://azsos.gov/elections/voters/register-vote-update-current-voter-information",
-"https://delores.vote/es",
-"https://delores.vote/es/conoce-a-delores",
-"https://delores.vote/es/mapa",
-"https://delores.vote/es/privacidad",
-"https://delores.vote/es/propuestas",
-"https://delores.vote/es/vota",
-"https://delores.vote/vote",
-"https://facebook.com/FrankSteeleAZ",
-"https://instagram.com/steeleforazsenate",
-"https://justthefacts.vote/",
-"https://my.arizona.vote/PortalList.aspx",
-"https://my.arizona.vote/WhereToVote.aspx?s=address",
-"https://servicearizona.com/"
+{
+"text": "Conoce a Delores",
+"href": "https://delores.vote/es/conoce-a-delores/"
+},
+{
+"text": "EN",
+"href": "https://delores.vote/vote/"
+},
+{
+"text": "ES",
+"href": "https://delores.vote/es/vota/"
+},
+{
+"text": "Encuentra dónde votar",
+"href": "https://my.arizona.vote/WhereToVote.aspx?s=address"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/FrankSteeleAZ/"
+},
+{
+"text": "Información electoral",
+"href": "https://justthefacts.vote"
+},
+{
+"text": "Inicio",
+"href": "https://delores.vote/es/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steeleforazsenate/"
+},
+{
+"text": "La votación anticipada comienza el 7 de octubre. ¡Haz un plan para votar!",
+"href": "https://delores.vote/es/vota/"
+},
+{
+"text": "Mapa",
+"href": "https://delores.vote/es/mapa/"
+},
+{
+"text": "Panel del votante",
+"href": "https://azsos.gov/elections/vote"
+},
+{
+"text": "Propuestas",
+"href": "https://delores.vote/es/propuestas/"
+},
+{
+"text": "Secretaría de Estado de Arizona: registro de votantes",
+"href": "https://azsos.gov/elections/voters/register-vote-update-current-voter-information"
+},
+{
+"text": "Ver mapa del Distrito Legislativo 24",
+"href": "https://delores.vote/es/mapa/"
+},
+{
+"text": "Vota",
+"href": "https://delores.vote/es/vota/"
+},
+{
+"text": "[image: Delores McLaughlin for Arizona State House LD24 Logo in Maroon]",
+"href": "https://delores.vote/es/"
+},
+{
+"text": "[image: Delores McLaughlin for Arizona State House LD24 Logo in White]",
+"href": "https://delores.vote/es/"
+},
+{
+"text": "https://Arizona.Vote",
+"href": "https://arizona.vote"
+},
+{
+"text": "my.Arizona.vote",
+"href": "http://my.arizona.vote"
+},
+{
+"text": "my.Arizona.vote",
+"href": "https://my.arizona.vote/PortalList.aspx"
+},
+{
+"text": "política de privacidad aquí",
+"href": "https://delores.vote/es/privacidad/"
+},
+{
+"text": "sitio web de la Secretaría de Estado de Arizona",
+"href": "https://azsos.gov/elections/about-elections/county-election-contact-info"
+},
+{
+"text": "www.ServiceArizona.com",
+"href": "https://www.servicearizona.com"
+}
 ]

@@ -1,5 +1,4 @@
-Fighting for the Middle Class
-Many middle class families are struggling.
+Skip to primary navigation Skip to content × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact × Close Meet Salud En Español Get Involved Join the Team Endorsements Contact x x search x MENU Contribute Facebook icon Twitter icon Flickr icon Home Issues Fighting for the Middle Class Many middle class families are struggling.
 They work hard, but still feel like they are falling further behind–in large part because of the rising cost of living that we see on the Central Coast.
 Lowering costs for you and your family is my number one priority in Congress, because I know that higher prices keep folks from getting ahead and finding prosperity.
 Housing: We need more affordable housing options in our communities.
@@ -16,3 +15,7 @@ In Congress, I put the fight for these working class families first because I un
 My father worked the fields in Oxnard and our family lived in public housing.
 I focused on my education and worked my way through UCSB, and served my country in the Marine Corps Reserves.
 I worked hard to get ahead and build a better life for my family, and I am committed to making sure that same opportunity is afforded to all who are willing to put in the hard work.
+Need more information?
+Give us a Call!
+Our phone number is (805) 845-9745 Contribute Meet Salud En Español Issues Get Involved Contact Privacy Policy Salud Carbajal for Congress P.O.
+Box 1290 Santa Barbara, CA, 93102 (805) 845-9745 Facebook icon Twitter icon Flickr icon Paid for by Salud Carbajal for Congress

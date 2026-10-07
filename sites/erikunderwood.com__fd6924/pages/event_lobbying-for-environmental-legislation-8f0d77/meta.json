@@ -1,7 +1,12 @@
 {
  "description": "Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernaturaut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo.",
  "final_url": "https://erikunderwood.com/event/lobbying-for-environmental-legislation/",
- "paid_for_by": "Paid for by Underwood for Colorado \u00a9 2026",
+ "fingerprint": "613911fb0471b149d598fa0ac4ba604ac2413ff4",
+ "format": 3,
+ "paid_for_by": "Paid for by Underwood for Colorado © #",
  "title": "Lobbying for environmental legislation - Erik Underwood",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

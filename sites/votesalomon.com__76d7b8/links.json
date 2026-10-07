@@ -1,12 +1,54 @@
 [
-"https://facebook.com/JesseSalomonElectJesse.net",
-"https://secure.actblue.com/donate/electjesse",
-"https://votesalomon.com/",
-"https://votesalomon.com/cart",
-"https://votesalomon.com/endorsements",
-"https://votesalomon.com/get-involved",
-"https://votesalomon.com/in-the-news",
-"https://votesalomon.com/issues",
-"https://votesalomon.com/media-1",
-"https://votesalomon.com/meet-jesse"
+{
+"text": "0",
+"href": "https://www.votesalomon.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjesse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votesalomon.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votesalomon.com/get-involved"
+},
+{
+"text": "In the News",
+"href": "https://www.votesalomon.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.votesalomon.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votesalomon.com/media-1"
+},
+{
+"text": "Meet Jesse",
+"href": "https://www.votesalomon.com/meet-jesse"
+},
+{
+"text": "Read Jesse's Plan",
+"href": "https://www.votesalomon.com/issues"
+},
+{
+"text": "Read More »",
+"href": "https://www.votesalomon.com/issues"
+},
+{
+"text": "[image: Vote Jesse Salomon]",
+"href": "https://www.votesalomon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JesseSalomonElectJesse.net/"
+},
+{
+"text": "info@votesalomon.com",
+"href": "mailto:info@votesalomon.com"
+}
 ]

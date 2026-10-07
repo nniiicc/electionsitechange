@@ -1,13 +1,58 @@
 [
-"https://bsky.app/profile/kelso4wa.bsky.social",
-"https://facebook.com/profile.php?id=100082634871974",
-"https://kelso4wa.com/",
-"https://kelso4wa.com/about",
-"https://kelso4wa.com/contact",
-"https://kelso4wa.com/donate",
-"https://kelso4wa.com/endorsements",
-"https://kelso4wa.com/issues",
-"https://kelso4wa.com/news",
-"https://kelso4wa.com/privacy-policy",
-"https://secure.actblue.com/donate/friends-of-michaela-kelso-1"
+{
+"text": "+1 (509) 609-4155",
+"href": "tel:+1%20(509)%20609-4155"
+},
+{
+"text": "About",
+"href": "https://www.kelso4wa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kelso4wa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-michaela-kelso-1"
+},
+{
+"text": "Donate",
+"href": "https://www.kelso4wa.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kelso4wa.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kelso4wa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kelso4wa.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.kelso4wa.com/news"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.kelso4wa.com/privacy-policy"
+},
+{
+"text": "[image: Elect Michaela Kelso for WA 6LD logo]",
+"href": "https://www.kelso4wa.com/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/kelso4wa.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=100082634871974"
+},
+{
+"text": "info@kelso4wa.com",
+"href": "mailto:info@kelso4wa.com"
+}
 ]

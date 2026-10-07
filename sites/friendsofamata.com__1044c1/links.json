@@ -1,10 +1,46 @@
 [
-"https://cookieadmin.net/",
-"https://friendsofamata.com/",
-"https://friendsofamata.com/about",
-"https://friendsofamata.com/accomplishments",
-"https://friendsofamata.com/brochures",
-"https://friendsofamata.com/contact-us",
-"https://friendsofamata.com/donations",
-"https://friendsofamata.com/videos"
+{
+"text": "About",
+"href": "https://friendsofamata.com/about/"
+},
+{
+"text": "Brochures",
+"href": "https://friendsofamata.com/brochures/"
+},
+{
+"text": "Contact Us",
+"href": "https://friendsofamata.com/contact-us/"
+},
+{
+"text": "Donate Now",
+"href": "https://friendsofamata.com/donations"
+},
+{
+"text": "Donations",
+"href": "https://friendsofamata.com/donations/"
+},
+{
+"text": "Home",
+"href": "https://friendsofamata.com/"
+},
+{
+"text": "Kiliki iinei e matamata ai i le lomiga i le gagana Samoa.",
+"href": "https://friendsofamata.com/videos"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Priorities",
+"href": "https://friendsofamata.com/accomplishments/"
+},
+{
+"text": "Read more about how I have worked for American Samoa",
+"href": "https://friendsofamata.com/accomplishments"
+},
+{
+"text": "[image: Friends-Website-Logo]",
+"href": "https://friendsofamata.com/"
+}
 ]

@@ -1,17 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/Walt-Brooks-for-State-Rep-75-1677413619164925",
-"https://secure.utah.gov/voterreg/index.html",
-"https://waltbrooks.com/",
-"https://waltbrooks.com/about_walt",
-"https://waltbrooks.com/contact",
-"https://waltbrooks.com/home",
-"https://waltbrooks.com/issues",
-"https://waltbrooks.com/news",
-"https://waltbrooks.com/photos",
-"https://waltbrooks.com/previous-newsletters",
-"https://waltbrooks.com/volunteer",
-"https://waltbrooks.com/vote",
-"https://washco.utah.gov/departments/clerk-auditor/precinct-maps-poll-locations",
-"https://washco.utah.gov/wp-content/uploads/clad/pdf/ppl/poll-locations.pdf"
+{
+"text": "About Walt",
+"href": "https://www.waltbrooks.com/about_walt"
+},
+{
+"text": "Contact",
+"href": "https://www.waltbrooks.com/contact"
+},
+{
+"text": "HERE",
+"href": "https://secure.utah.gov/voterreg/index.html"
+},
+{
+"text": "Here",
+"href": "https://www.washco.utah.gov/departments/clerk-auditor/precinct-maps-poll-locations/"
+},
+{
+"text": "Here",
+"href": "https://www.washco.utah.gov/wp-content/uploads/clad/pdf/ppl/poll-locations.pdf"
+},
+{
+"text": "Home",
+"href": "https://www.waltbrooks.com/home"
+},
+{
+"text": "I'd like a sign",
+"href": "https://www.waltbrooks.com/volunteer"
+},
+{
+"text": "News",
+"href": "https://www.waltbrooks.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.waltbrooks.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.waltbrooks.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Previous Newsletters",
+"href": "https://www.waltbrooks.com/previous-newsletters"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.waltbrooks.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.waltbrooks.com/vote"
+},
+{
+"text": "[image: Walt Brooks]",
+"href": "https://www.waltbrooks.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Walt-Brooks-for-State-Rep-75-1677413619164925/"
+}
 ]

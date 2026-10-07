@@ -1,4 +1,4 @@
-The House of Representatives concurred in Senate amendments to H.3449 and enrolled the legislation for ratification.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 3/22/2019 Kambrell Garvin March 25, 2019 Comments Off on The State Capitol Report – 3/22/2019 Uncategorized The House of Representatives concurred in Senate amendments to H.3449 and enrolled the legislation for ratification.
 The bill enacts the “SOUTH CAROLINA HEMP FARMING ACT” to promote the cultivation and processing of hemp, expand the state’s hemp industry, open new commercial markets for farmers and businesses through the sale of hemp products, and encourage research into hemp growth and hemp products at state institutions of higher education and in the private sector.
 The legislation addresses the use of the Cannabis sativa L. plant, with federally defined THC level for hemp, for such uses as cloth, cordage, fiber, fuel, paint, paper, particleboard, plastics, cosmetics, personal care products, food, and any product containing one or more hemp‑derived cannabinoids, such as cannabidiol.
 In light of the enactment of the 2018 Federal Farm Bill, which classifies hemp as an agricultural commodity, this legislation replaces the state’s provisions for cultivating industrial hemp that were previously enacted and provides for the South Carolina Department of Agriculture to submit a state plan to the USDA for approval.
@@ -76,4 +76,6 @@ The House committed H.3355, a bill addressing DRIVING WHILE USING AN ELECTRONIC 
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 3/15/2019 The State Capital Report – 3/29/2019 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

@@ -1,8 +1,20 @@
-Stop the Tax Hikes & Protect Taxpayers
-Massachusetts doesn't need higher taxes.
+Open main menu Home About Issues Get Involved Contact Donate Donate Platform Where David Stands Taxes Energy Accountability Transportation Red Tape Housing Vision Stop the Tax Hikes & Protect Taxpayers Massachusetts doesn't need higher taxes.
 We need smarter spending and accountability.
-David's Plan
-- Oppose the 'Municipal Empowerment Act' that quietly raises taxes on meals, lodging, and excise taxes
-- Defend Proposition 2½ which has protected homeowners from runaway property taxes for over 40 years
-- Fight against proposals to tax medicine and prescriptions when families are struggling with healthcare costs
-- Demand smarter spending and accountability for where our money goes
+David's Plan Oppose the 'Municipal Empowerment Act' that quietly raises taxes on meals, lodging, and excise taxes Defend Proposition 2½ which has protected homeowners from runaway property taxes for over 40 years Fight against proposals to tax medicine and prescriptions when families are struggling with healthcare costs Demand smarter spending and accountability for where our money goes Lower Energy Costs and Secure Reliable Power Energy policy should be about affordability, accountability, and common sense.
+David's Plan End Beacon Hill's overreliance on costly energy dictates and push for true energy independence File legislation to dissolve the wasteful MassSave program and replace it with a lean, accountable framework Introduce legislation requiring the Legislature to directly approve any utility cost increases Fight for a balanced, reliable mix of energy sources that keep rates stable and affordable Restore Accountability to State Government If we can't audit the government, we can't trust it to manage our money.
+David's Plan Vote to open the books and require transparency in legislative spending Support the independent audit of the State Legislature that 70% of voters approved Hold government accountable to the people, not the politicians End the culture of secrecy and restore public trust in how our money is managed Protect Freedom of Movement & Stop Hidden Transportation Taxes Beacon Hill politicians are pushing new mileage based fees and driving restrictions that amount to yet another hidden tax on working families, while they continue to collect their own travel stipends.
+These proposals make it more expensive to live, work, and access essential services, especially outside of Boston.
+David's Plan Mileage based fees and driving restrictions disproportionately hurt commuters, tradespeople, shift workers, and seniors, particularly those who must travel to access our world class hospitals in Boston and throughout the Commonwealth.
+These policies assume everyone lives near public transit.
+Massachusetts is more than Boston, and families in suburban and regional communities should not be penalized for where they live or work.
+Asking residents to pay more for driving, while Beacon Hill politicians do not bear the same costs, is unfair and out of touch.
+Massachusetts doesn't need restrictions on movement or another quiet money grab.
+We need better roads, smarter infrastructure investments, and reliable transportation options, without punishing the people who keep our economy and communities running.
+Cut Red Tape and Wasteful Mandates Local governments are drowning in regulations and state-imposed costs.
+David's Plan Modernize outdated procurement laws that create delays and drive up project costs Fight to reduce unfunded mandates that force municipalities to spend more without state reimbursement Give towns flexibility to meet local needs without new taxes End wasteful directives like school transportation requirements that leave buses nearly empty Stand Up for Local Control and Responsible Housing Housing policy should reflect our communities' voices, not Beacon Hill's bureaucracy.
+David's Plan Protect local control over zoning and planning decisions Repeal or reform the MBTA Communities Law that forces towns into dense development they can't support Reform Chapter 40B to ensure affordable housing projects include local input and transparency Support responsible growth that reflects a town's character, capacity, and infrastructure A Common-Sense Vision for Massachusetts Our district deserves a representative who stands up for our values.
+David's Plan Fiscal responsibility — stop the endless tax hikes Local control — let towns and cities make their own choices Government accountability — open the books, end insider politics Affordable living — lower utility bills, rein in state mandates Practical solutions — not costly and time-consuming political theater There are several more important issues facing our district.
+If you wish to speak with David about any topic, please email him at David@ElectDavidGolden.com Ready to Make a Difference?
+Join Team Golden to help us build a stronger Plymouth together.
+Donate Now Get Involved Home About Issues Get Involved Contact Donate Facebook Instagram Email Paid for by CTE David Golden Privacy Policy Terms & Conditions © 2026 CTE David Golden.
+All rights reserved.

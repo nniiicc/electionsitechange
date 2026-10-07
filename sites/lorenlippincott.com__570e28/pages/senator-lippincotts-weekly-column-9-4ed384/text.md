@@ -1,5 +1,4 @@
-A Time for War and a Time for Peace
-Peace reigned during my years in the U.S.
+Home About District 34 Issues News Get Involved Donate Donate Home About District 34 Issues News Get Involved News October 19, 2023 Senator Lippincott's Weekly Column A Time for War and a Time for Peace Peace reigned during my years in the U.S.
 Air Force, however, I did witness the kind of carnage that can be caused by combat aircraft.
 While stationed at Ramstein Air Base, Germany, our family attended Europe’s biggest air show at our base.
 On August 28, 1988 the Italian Air Force demonstration team (similar to our Thunderbirds) performed in front of a crowd of 300,000.
@@ -20,8 +19,7 @@ In Genesis 16:12 the Bible speaks of Ishmael, son of Abraham and the servant Hag
 It says, “He will be a wild donkey of a man; his hand will be against everyone and everyone’s hand against him, and he will live in hostility toward all his brothers.” We are seeing this 4,000 year old prophecy lived out in our world today.
 Since we live 65-hundred miles from these events, we may think we are safe here in our rural state, but we need to remember that our southern border is wide open!
 We are rapidly approaching a situation in which 10 percent of our national population will be illegals!
-The videos of the hordes of people storming across the border into Texas and Arizona are stark
-evidence that little effort is being made to turn back this literal invasion.
+The videos of the hordes of people storming across the border into Texas and Arizona are stark evidence that little effort is being made to turn back this literal invasion.
 While this has been going on for a long time, the record clearly shows this mayhem ratcheted up greatly after January 21, 2021 with the new presidential administration.
 Far from taking action to close the border, the party in power actually encourages the invasion since government statistics show over 2/3 of immigrants register as Democrats.
 At the same time, and even more alarming, is the woke brainwashing being inflicted upon our military personnel.
@@ -43,6 +41,6 @@ We must get involved at the grassroots level to make sure the ideals of our foun
 I fear we are heading for perilous times ahead.
 With weak American leadership we have seen the invasion of Ukraine, now Israel and the threat of a Chinese invasion of Taiwan.
 A weak America is a danger to the world.
-As George Washington said, “To be prepared for war is one of the most effectual means of preserving peace.” And Ronald Reagan boiled that statement down to just three words which became the hallmark of his presidency, “Peace through strength.”
-Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
+As George Washington said, “To be prepared for war is one of the most effectual means of preserving peace.” And Ronald Reagan boiled that statement down to just three words which became the hallmark of his presidency, “Peace through strength.” Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
+Share

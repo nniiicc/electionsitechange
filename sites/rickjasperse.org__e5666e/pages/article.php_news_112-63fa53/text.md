@@ -1,4 +1,4 @@
-[February 14, 2022] | We are in the fifth week of the 2022 legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ February 14, 2022 ] | We are in the fifth week of the 2022 legislative session.
 Each session meeting this week was longer as more legislation made its way to the House floor, including the bill for the Amended Fiscal Year (AFY) 2022 budget.
 To some, budget work is boring, but you can't believe the amount of work that goes into the budget we vote on.
 Governor Kemp?s revenue folks and House and Senate staff work year-round to bring us accurate figures to base our work.
@@ -26,3 +26,4 @@ It has always been one of my top priorities to help my constituents and to hear 
 I encourage you to reach out if you have any questions or concerns regarding legislation that has been discussed or passed so far.
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at the Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

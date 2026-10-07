@@ -1,10 +1,54 @@
 [
-"https://bryanhughes.com/",
-"https://bryanhughes.com/donate",
-"https://bryanhughes.com/news",
-"https://bryanhughes.com/news/2015/8/24/endorsements",
-"https://bryanhughes.com/takeaction",
-"https://facebook.com/BryanHughesTX",
-"https://secure.piryx.com/donate/5kanPy8Z/Bryan-Hughes-for-Texas-Senate/main",
-"https://twitter.com/SenBryanHughes"
+{
+"text": "About",
+"href": "https://www.bryanhughes.com/#bio-section"
+},
+{
+"text": "Donate",
+"href": "https://secure.piryx.com/donate/5kanPy8Z/Bryan-Hughes-for-Texas-Senate/main"
+},
+{
+"text": "Donate",
+"href": "https://www.bryanhughes.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bryanhughes.com/#endorsements-section"
+},
+{
+"text": "Home",
+"href": "https://www.bryanhughes.com/#home-pacific-section"
+},
+{
+"text": "News",
+"href": "https://www.bryanhughes.com/news"
+},
+{
+"text": "Take Action",
+"href": "https://www.bryanhughes.com/#takeaction-section"
+},
+{
+"text": "VIEW ALL ENDORSEMENTS HERE!",
+"href": "https://www.bryanhughes.com/news/2015/8/24/endorsements"
+},
+{
+"text": "Welcome",
+"href": "https://www.bryanhughes.com/"
+},
+{
+"text": "[image: Bryan Hughes]",
+"href": "https://www.bryanhughes.com/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/SenBryanHughes"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BryanHughesTX"
+},
+{
+"text": "or sign up to join the team here!",
+"href": "https://www.bryanhughes.com/takeaction"
+}
 ]

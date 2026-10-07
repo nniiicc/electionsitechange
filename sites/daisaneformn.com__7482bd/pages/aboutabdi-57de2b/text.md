@@ -1,4 +1,4 @@
-I was born during the civil war in Somalia.
+0 Skip to Content Home Issues Meet Abdi Volunteer Events Endorsements Donate Open Menu Close Menu Home Issues Meet Abdi Volunteer Events Endorsements Donate Open Menu Close Menu Home Issues Meet Abdi Volunteer Events Endorsements Donate I was born during the civil war in Somalia.
 I am the youngest of six children.
 My family fled to the Dadaab Refugee Camp in Kenya.
 I spent the first 18 years of my life there.
@@ -13,9 +13,7 @@ I earned a bachelor’s degree in international relations and later a master’s
 Education opened doors for me.
 I was honored to be selected for the University of Minnesota’s Humphrey Policy Fellows Program, the U of MN’s Minnesota Young American Leaders Program, and to receive the St.
 Cloud Times “5 Under 40” award.
-Early Life & Education
-Family, Business, & Community Leadership
-I am a proud husband and father.
+Early Life & Education Family, Business, & Community Leadership I am a proud husband and father.
 My wife, Ayan Aidid—many know her as Kaaba—is an author, a community leader, and a MSW graduate student at SCSU.
 Together we are raising three children.
 Our son Maher is six.
@@ -35,9 +33,13 @@ I have worked long shifts to support my family.
 I have raised children while navigating systems that often feel stacked against us.
 I have faced the same struggles that many working families in Central Minnesota face every day.
 I also know what happens when people are given real opportunities and support.
-Doors open… Families thrive… Communities grow stronger…
-Central Minnesota deserves a leader who doesn’t just talk about these challenges but has lived them.
+Doors open… Families thrive… Communities grow stronger… Central Minnesota deserves a leader who doesn’t just talk about these challenges but has lived them.
 This is my home.
 It is where I chose to build my life and raise my children.
 I am running to make sure every family has the tools, resources, and voice they need to succeed.
 Together, we can build a Minnesota where everyone has a fair chance.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email to get the latest news and important updates.
+Email Address Sign Up Thank you!
+Paid for by Daisane for MN PO BOX 2354 Saint Cloud, MN 56302 daisaneformn@gmail.com

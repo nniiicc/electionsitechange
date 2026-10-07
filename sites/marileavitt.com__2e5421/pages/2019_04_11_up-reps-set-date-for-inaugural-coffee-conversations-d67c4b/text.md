@@ -1,3 +1,5 @@
-Patch UP Reps Set Date For Inaugural ‘Coffee & Conversations’ April 11, 2019 Reps.
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery 2022 Endorsements Get Involved Volunteer Endorse Contact Patch UP Reps Set Date For Inaugural ‘Coffee & Conversations’ April 11, 2019 Reps.
 Mari Leavitt and Christine Kilduff will be at Anthem Coffee & Tea in University Place next month to meet and talk with constituents.
-Read More
+Related reading on marileavitt.com More on campaign updates from the 28th District: Check out our press release announcing my campaign for the 28th… More on campaign updates from the 28th District: Educator, PTSA Mom, Business Owner and Former Human Services… More on campaign updates from the 28th District: Pierce County Benefits From State Budget Plan More on campaign updates from the 28th District: New State Transportation Budget to Improve I-5, DuPont-Steilacoom… For official reference, see Rep.
+Mari Leavitt’s official legislative profile and Washington State Legislature .
+Read More « Previous: National Guard could see pay bump for wildfire response » Next: Washington National Guard firefighting pay raise

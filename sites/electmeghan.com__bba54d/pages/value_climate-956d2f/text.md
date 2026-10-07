@@ -1,5 +1,5 @@
-Climate Crisis
-The climate crisis demands our immediate attention.
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Climate Crisis Homepage Climate Climate Crisis Climate Crisis The climate crisis demands our immediate attention.
 The climate crisis demands our immediate attention, and resilience is key.
 I believe that we need to invest in safer sources of energy, such as wind and solar so that our whole community can benefit from the green energy surge, and I believe that states and cities can–and must–lead on this.
-Read Meghan’s Values
+Read Meghan’s Values " Climate Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

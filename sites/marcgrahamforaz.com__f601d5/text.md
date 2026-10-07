@@ -1,8 +1,6 @@
-Marc Graham
-Democrat For Arizona House LD28
-TIME FOR CHANGE!
-Thank you to the Arizona AFL-CIO for your important endorsement
-My friends.
+Home About Protecting Voter Access Water Security Sustainable Growth Education Marc Graham for LD28 Marc Graham for LD28 Home About Protecting Voter Access Water Security Sustainable Growth Education Marc Graham Democrat For Arizona House LD28 Contact Marc Bluesky TikTok IG Threads TIME FOR CHANGE!
+PLEASE HELP.
+YOUR $5 MEANS SO MUCH Thank you to the Arizona AFL-CIO for your important endorsement My friends.
 A devastating new reality is upon us.
 I don't know which heinous act broke it, but the tipping point has passed.
 Each layer of our society is being stripped away.
@@ -26,13 +24,10 @@ ICE, Border Patrol and many in law enforcement have demonstrated their disdain f
 The burdens of providing constitutionally mandated process clashes with a fanatical obsession.
 They forgive themselves their transgressions in the service of a leader so justified, so idolized, so sanctified, that no rule made by men can have legitimacy when it stands in the way of a long overdue comeuppance.
 And so here we are.
-When so many engage in active and ongoing suppression of our basic and constitutionally protected rights such as Assembly, Education, Habeus Corpus, and Commerce;
-When many in our legislature ignore the real issues in our district in favor of their Racist Republican patrons who reward cruelty, segregation, and intolerance;
-When the economic burden of every bad decision made by the Greedy Republicans is passed down to every local business, every hourly worker, and everyone who can least afford it, and the wealthy continue to
-And, when we are not safe in our own homes from those with the power to detain, to imprison, to kill,
-I can no longer stand by without action.
+When so many engage in active and ongoing suppression of our basic and constitutionally protected rights such as Assembly, Education, Habeus Corpus, and Commerce; When many in our legislature ignore the real issues in our district in favor of their Racist Republican patrons who reward cruelty, segregation, and intolerance; When the economic burden of every bad decision made by the Greedy Republicans is passed down to every local business, every hourly worker, and everyone who can least afford it, and the wealthy continue to And, when we are not safe in our own homes from those with the power to detain, to imprison, to kill, I can no longer stand by without action.
 Therefore, I have decided to run for a seat in the Arizona State Legislature representing the long underserved people of District 28, and to use that platform to draw attention to the imminent threats to us all.
 I have the training, experience, and vision to lead my friends, neighbors and any others who have a stake in the future of this district, this city, and all of Arizona.
 I ask only for your attention as the threat to our continued existence as a free society looms over us all.
-I humbly ask for your friendship, your support, and your vote
-Marc Graham
+I humbly ask for your friendship, your support, and your vote Marc Graham My message to you © #.
+All rights reserved.
+Click here Yourhelp makes all the difference

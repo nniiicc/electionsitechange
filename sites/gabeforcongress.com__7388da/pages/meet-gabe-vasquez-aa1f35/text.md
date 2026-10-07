@@ -1,6 +1,4 @@
-Meet Gabe Vasquez
-Representing New Mexico's 2nd District
-Gabe Vasquez grew up in New Mexico’s borderlands, where he learned the value of hard work from his mother.
+Skip to content Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Facebook Instagram X-twitter DONATE Meet Gabe Vasquez Representing New Mexico's 2nd District Gabe Vasquez grew up in New Mexico’s borderlands, where he learned the value of hard work from his mother.
 He worked his way through college, helped build a local small business, and served on the Las Cruces City Council before being elected to Congress.
 In Congress, Gabe has put partisanship aside to do what’s right, working to keep rural hospitals funded and cap the price of insulin at $35, fund 22,000 customs and border protection agents to make our communities safer, and get his bipartisan bill to combat wildfires signed by President Trump.
 Gabe has never been afraid to stand up to leaders of either party.
@@ -27,3 +25,11 @@ An ever rising cost-of-living, a tax code that only benefits CEOs and millionair
 Gabe is running for Congress to champion New Mexican values and get real results out of Washington.
 As Congressman, Gabe founded the bipartisan Public Land Caucus and led the successful fight to stop the MAGA extremists in Congress from selling off million of acres of public lands across the country; he got his bipartisan bill to reduce wildfire risk signed into law by this administration; he’s cracked down on out-of-state landlords buying up homes and jacking up rents; he fought back against the disastrous Medicaid cuts; he delivered over $3 million to public safety agencies across the district; and he’s stood up to leaders of both parties to deliver for New Mexicans.
 With another term, Gabe can keep fighting for these values and champion policies that actually help working families get ahead.
+Share: Join Our Team First Name Last Name Email Zip Code Cell Phone Get Updates By providing your cell phone number you consent to receive recurring updates from Gabe Vasquez for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy.
+Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Gabe Vasquez has represented New Mexico’s 2nd Congressional District in the House of Representatives since 2022.
+He is running for re-election in one of the most competitives races in the nation.
+Support his campaign by making a donation here .
+575-202-8870 [email protected] Facebook Instagram X-twitter contributions can be mailed to: Gabe Vasquez for Congress Drawer L, Mesilla, NM 88046 Media Paid for by Gabe Vasquez for Congress Privacy Policy

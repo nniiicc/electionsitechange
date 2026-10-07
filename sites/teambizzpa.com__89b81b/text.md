@@ -1,5 +1,12 @@
-I consent to receive SMS and email messages from The Committee to Elect Ryan Bizzarro.
+Skip navigation menu About Volunteer Contact Donate Email Email Phone Phone ZIP Code ZIP Code Submit I consent to receive SMS and email messages from The Committee to Elect Ryan Bizzarro.
 Message & data rates may apply.
 Reply STOP to opt out.
 Reply HELP for help.
-Review our Privacy Policy HERE.
+Review our Privacy Policy HERE .
+About Volunteer Contact Donate Email Email Phone Phone ZIP Code ZIP Code Submit I consent to receive SMS and email messages from The Committee to Elect Ryan Bizzarro.
+Message & data rates may apply.
+Reply STOP to opt out.
+Reply HELP for help.
+Review our Privacy Policy HERE . sign up to Get Involved First Name First Name Email Email ZIP Code ZIP Code Submit Committee to Elect Ryan Bizzarro P.O.
+Box 8570 Erie, PA 16505 info@TeamBizzPA.com PRIVACY POLICY Powered by RUN! website builder Paid for by the Committee to Elect Ryan Bizzarro.
+You need to enable JavaScript to run this app.

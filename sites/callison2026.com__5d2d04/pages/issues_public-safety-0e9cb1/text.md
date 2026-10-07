@@ -1,5 +1,4 @@
-- People deserve to feel safe in their neighborhoods and communities.
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Public Safety People deserve to feel safe in their neighborhoods and communities.
 I will work in collaboration with community leaders and state and local law enforcement to ensure justice for victims and accountability in policing.
-- I recognize that a large percentage of calls police officers respond to are for people with adverse mental health conditions.
-I hope to improve the quality and access to mental health in the state, to help the person with declining mental health before an encounter with law enforcement.
-Gun rights must be protected under the Constitution while ensuring responsible safety measures.
+I recognize that a large percentage of calls police officers respond to are for people with adverse mental health conditions.
+I hope to improve the quality and access to mental health in the state, to help the person with declining mental health before an encounter with law enforcement. get involved Related Issues Second Amendment Gun rights must be protected under the Constitution while ensuring responsible safety measures. learn more Cannabis Lower fees, fair regulations, and federal legalization can grow the cannabis industry and create opportunity. learn more Prev Healthcare Cannabis Next Paid for by Callison for Assembly 2026, FPPC ID #1483879.

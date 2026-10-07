@@ -1,5 +1,4 @@
-Opposing the Socialist Energy Takeover:
-While I share the concerns of many Americans about climate change, I am also concerned about the overreaching and ambiguous nature of the Green New Deal.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE Green New Deal & Our Energy Future October 11, 2019 Opposing the Socialist Energy Takeover : While I share the concerns of many Americans about climate change, I am also concerned about the overreaching and ambiguous nature of the Green New Deal.
 For example, I was very concerned to hear the lead sponsor of the legislation, Representative Alexandria Ocasio-Cortez (D-NY) say that the plan would transition off nuclear and all fossil fuels as soon as possible.
 I’ve said for years that I don’t believe you can seriously talk about addressing climate change without talking about nuclear energy.
 Nuclear energy is 100% carbon-free and currently supplies more than half of our nation’s carbon-free energy.
@@ -14,4 +13,6 @@ As Ranking Member of the House Energy and Water Appropriations Subcommittee and 
 Instead of creating a host of government mandates and forcing consumers to foot the bill for these regulations, I support using technology, incentives, and innovation to move our economy to more sustainable, independent energy sources.
 I believe that to do so we must look at all the options, including renewable energy, nuclear energy, and domestic oil production, and be realistic about how that transition can and should occur.
 These are real problems, and they must be addressed in a common sense, thoughtful way.
-I look forward to the debate in Congress.
+I look forward to the debate in Congress. « Previous: Veterans Agriculture » Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

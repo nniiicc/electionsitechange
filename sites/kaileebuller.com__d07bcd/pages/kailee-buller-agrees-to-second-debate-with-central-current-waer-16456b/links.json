@@ -1,17 +1,70 @@
 [
-"https://facebook.com/bullerforny",
-"https://instagram.com/bullerforny",
-"https://kaileebuller.com/",
-"https://kaileebuller.com/blog",
-"https://kaileebuller.com/cdn-cgi/l/email-protection",
-"https://kaileebuller.com/media",
-"https://kaileebuller.com/newsletter-sign-up",
-"https://kaileebuller.com/privacy-policy",
-"https://kaileebuller.com/terms-and-conditions",
-"https://kaileebuller.com/tour",
-"https://kaileebuller.com/volunteer",
-"https://kaileebuller.com/yard-sign-request",
-"https://secure.winred.com/kailee-for-congress/donate-today",
-"https://x.com/bullerforny",
-"https://youtube.com/@bullerforny"
+{
+"text": "Blog",
+"href": "https://kaileebuller.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kailee-for-congress/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/bullerforny"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/bullerforny"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@bullerforny"
+},
+{
+"text": "Follow",
+"href": "https://x.com/bullerforny"
+},
+{
+"text": "Issues",
+"href": "https://kaileebuller.com/#Issues"
+},
+{
+"text": "Kitchen Table Solutions Tour",
+"href": "https://kaileebuller.com/tour/"
+},
+{
+"text": "Media",
+"href": "https://kaileebuller.com/media/"
+},
+{
+"text": "Newsletter Sign Up",
+"href": "https://kaileebuller.com/newsletter-sign-up/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kaileebuller.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://kaileebuller.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://kaileebuller.com/volunteer/"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://kaileebuller.com/yard-sign-request/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@kaileebuller.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:team@kaileebuller.com"
+},
+{
+"text": "[image]",
+"href": "https://kaileebuller.com/"
+}
 ]

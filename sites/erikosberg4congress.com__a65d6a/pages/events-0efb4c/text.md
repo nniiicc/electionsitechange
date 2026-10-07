@@ -1,187 +1,35 @@
-Come meet Erik
-The best campaigns are built through real conversations.
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Events Erik Osberg for Congress > Events Come meet Erik The best campaigns are built through real conversations.
 Join Erik at an upcoming event to ask questions, share what is on your mind, and learn more about the campaign to bring real representation to Western Minnesota.
 Whether you have followed the campaign from the beginning or are just getting to know Erik, you are welcome here.
-Upcoming Events
-Doorknock for Erik in Milroy
-10/05/2026 2:00 PM - 4:00 PM
-United States Postal Service
-404 Euclid St
-Milroy, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock for Erik in Lucan
-10/05/2026 4:00 PM - 5:00 PM
-108 Main St
-Lucan, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Moorhead Mondays with Team Osberg
-10/05/2026 4:30 PM - 7:00 PM
-Clay County DFL Office
-1424 1st Ave N
-Moorhead, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock with Team Erik in Hutchinson
-10/05/2026 5:30 PM - 7:30 PM
-Library Square
-12 Main St S
-Hutchinson, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock for Erik in Wabasso
-10/05/2026 5:30 PM - 7:00 PM
-United States Postal Service
-733 Main St
-Wabasso, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock for Erik in Morris
-10/06/2026 4:30 PM - 7:00 PM
-Morris Public Library
-102 E 6th St
-Morris, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Lac Qui Parle County Fish Fry Town Hall
-10/06/2026 5:00 PM - 7:00 PM
-Veterans of Foreign Wars
-710 W 2nd St
-Madison, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Turnout Tuesdays with Team Erik
-10/06/2026 6:00 PM - 7:00 PM
-Online Event
-Sponsor: Erik Osberg for Congress
-Click here for more information
-McLeod County Fish Fry Town Hall
-10/07/2026 5:00 PM - 7:00 PM
-Pla More Ballroom
-1904 9th St E
-Glencoe, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock with Team Erik in Alexandria Every Thursday
-10/08/2026 3:30 PM - 6:00 PM
-DFL Office
-460 Northside Dr NE
-Alexandria, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Thief River Falls Thursdays with Team Osberg
-10/08/2026 4:30 PM - 7:00 PM
-Thief River Falls Library
-102 1st St E
-Thief River Falls, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock for Erik in Morris
-10/09/2026 4:30 PM - 7:00 PM
-Morris Public Library
-102 E 6th St
-Morris, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock for Erik and local candidates in Pierz
-10/09/2026 5:00 PM - 7:00 PM
-222 1/2 Main St
-Pierz, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock with Erik and Julie in Willmar
-10/10/2026 10:00 AM - 12:00 PM
-Kandiyohi County DFL Office
-920 Litchfield Ave SW
-Willmar, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Kandiyohi County Fish Fry Town Hall
-10/11/2026 5:00 PM - 7:00 PM
-Spurs Grill & Bar
-313 4th St SW
-Willmar, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Stevens County Fish Fry Town Hall
-10/13/2026 5:00 PM - 7:00 PM
-Old No 1 Bar & Grill
-412 Atlantic Ave
-Morris, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Doorknock with Team Erik in Lancaster
-10/14/2026 1:00 PM - 3:00 PM
-Lancaster Community Center
-110 Center Ave
-Lancaster, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Lyon County Fish Fry Town Hall
-10/17/2026 4:00 PM - 6:00 PM
-Adult Community Center
-107 S 4th St
-Marshall, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Lincoln County Fish Fry Town Hall
-10/20/2026 5:00 PM - 7:00 PM
-Ivanhoe Events Center
-401 N Harold St
-Ivanhoe, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Traverse County Fish Fry Town Hall
-10/22/2026 5:00 PM - 7:00 PM
-American Legion
-303 5th St N
-Wheaton, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-House Party Hosted by Becky Parker
-10/23/2026 6:00 PM - 8:00 PM
-This event’s address is private.
-Sign up for more details
-This event’s address is private.
-Sign up for more details
-Ortonville, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Kittson County Fish Fry Town Hall
-10/27/2026 11:00 AM - 1:00 PM
-Lancaster Community Center
-110 Central Ave
-Lancaster, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Roseau County Fish Fry Town Hall
-10/27/2026 5:00 PM - 7:00 PM
-Community Room
-114 2nd St NE
-Roseau, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Marshall County Fish Fry Town Hall
-10/28/2026 11:00 AM - 1:00 PM
-Stephen Community Center
-319 5th St
-Stephen, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Pennington County Fish Fry Town Hall
-10/28/2026 5:00 PM - 7:00 PM
-Fraternal Order of Eagles
-305 Red Lake Blvd
-Thief River Falls, MN
-Sponsor: Erik Osberg for Congress
-Click here for more information
-Host an Event
-Want to help introduce Erik to your friends, neighbors, coworkers, or community?
+Upcoming Events Doorknock for Erik in Glenwood 10/07/2026 4:00 PM - 6:00 PM 201 Franklin St S Glenwood, MN Sponsor: Erik Osberg for Congress Click here for more information McLeod County Fish Fry Town Hall 10/07/2026 5:00 PM - 7:00 PM Pla More Ballroom 1904 9th St E Glencoe, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock with Team Erik in Alexandria Every Thursday 10/08/2026 3:30 PM - 6:00 PM DFL Office 460 Northside Dr NE Alexandria, MN Sponsor: Erik Osberg for Congress Click here for more information Thief River Falls Thursdays with Team Osberg 10/08/2026 4:30 PM - 7:00 PM Thief River Falls Library 102 1st St E Thief River Falls, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock for Erik in Clara City 10/09/2026 4:00 PM - 6:00 PM United States Postal Service 218 Center Ave Clara City, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock for Erik in Morris 10/09/2026 4:30 PM - 7:00 PM Morris Public Library 102 E 6th St Morris, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock for Erik and local candidates in Pierz 10/09/2026 5:00 PM - 7:00 PM 222 1/2 Main St Pierz, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock with Erik and Julie in Willmar 10/10/2026 10:00 AM - 12:00 PM Kandiyohi County DFL Office 920 Litchfield Ave SW Willmar, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock with Erik in Granite Falls 10/10/2026 1:00 PM - 3:00 PM Winter park 761 11th St Granite Falls, MN Sponsor: Erik Osberg for Congress Click here for more information Kandiyohi County Fish Fry Town Hall 10/11/2026 5:00 PM - 7:00 PM Spurs Grill & Bar 313 4th St SW Willmar, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock for Erik in Montevideo 10/12/2026 1:00 PM - 3:00 PM Montevideo Post Office 316 S.
+1st St.
+Montevideo, MN Sponsor: Erik Osberg for Congress Click here for more information Moorhead Mondays with Team Osberg 10/12/2026 4:30 PM - 7:00 PM Clay County DFL Office 1424 1st Ave N Moorhead, MN Sponsor: Erik Osberg for Congress Click here for more information Stevens County Fish Fry Town Hall 10/13/2026 5:00 PM - 7:00 PM Old No 1 Bar & Grill 412 Atlantic Ave Morris, MN Sponsor: Erik Osberg for Congress Click here for more information Turnout Tuesdays with Team Erik 10/13/2026 6:00 PM - 7:00 PM Online Event Sponsor: Erik Osberg for Congress Click here for more information Doorknock with Team Erik in Lancaster 10/14/2026 1:00 PM - 3:00 PM Lancaster Community Center 110 Center Ave Lancaster, MN Sponsor: Erik Osberg for Congress Click here for more information Doorknock with Erik in Marshall 10/17/2026 1:00 PM - 3:00 PM DFL office 105 E Main St Marshall, MN Sponsor: Erik Osberg for Congress Click here for more information Lyon County Fish Fry Town Hall 10/17/2026 4:00 PM - 6:00 PM Adult Community Center 107 S 4th St Marshall, MN Sponsor: Erik Osberg for Congress Click here for more information Lincoln County Fish Fry Town Hall 10/20/2026 5:00 PM - 7:00 PM Ivanhoe Events Center 401 N Harold St Ivanhoe, MN Sponsor: Erik Osberg for Congress Click here for more information Traverse County Fish Fry Town Hall 10/22/2026 5:00 PM - 7:00 PM American Legion 303 5th St N Wheaton, MN Sponsor: Erik Osberg for Congress Click here for more information House Party Hosted by Becky Parker 10/23/2026 6:00 PM - 8:00 PM This event’s address is private.
+Sign up for more details This event’s address is private.
+Sign up for more details Ortonville, MN Sponsor: Erik Osberg for Congress Click here for more information Kittson County Fish Fry Town Hall 10/27/2026 11:00 AM - 1:00 PM Lancaster Community Center 110 Central Ave Lancaster, MN Sponsor: Erik Osberg for Congress Click here for more information Roseau County Fish Fry Town Hall 10/27/2026 5:00 PM - 7:00 PM Community Room 114 2nd St NE Roseau, MN Sponsor: Erik Osberg for Congress Click here for more information Marshall County Fish Fry Town Hall 10/28/2026 11:00 AM - 1:00 PM Stephen Community Center 319 5th St Stephen, MN Sponsor: Erik Osberg for Congress Click here for more information Pennington County Fish Fry Town Hall 10/28/2026 5:00 PM - 7:00 PM Fraternal Order of Eagles 305 Red Lake Blvd Thief River Falls, MN Sponsor: Erik Osberg for Congress Click here for more information Wadena County Fish Fry Town Hall 11/02/2026 5:00 PM - 7:00 PM The Depot 100 Aldrich Ave SE Wadena, MN Sponsor: Erik Osberg for Congress Click here for more information View More Events On Mobilize Host an Event Want to help introduce Erik to your friends, neighbors, coworkers, or community?
 Hosting an event is one of the most meaningful ways to support the campaign.
 It does not have to be formal or complicated.
 A few neighbors around a kitchen table, a backyard gathering, a coffee conversation, or a community meet-and-greet can make a real difference.
 Our team can help with planning, invitations, materials, and next steps.
-Invite Erik
-Erik wants to hear directly from the people of Western Minnesota.
+Host An Event Host An Event By providing your phone number, you agree to receive political and donation related text messages from Erik Osberg for Congress.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Privacy Policy and Terms & Conditions.
+A member of our team will reach out to confirm details and scheduling.
+Thanks for the support!
+Your information will be securely sent to and stored in Google Sheets for the purpose of processing your form submission.
+Invite Erik Erik wants to hear directly from the people of Western Minnesota.
 Invite Erik to attend a community gathering, farm visit, small business tour, house party, labor conversation, school-related event, local forum, or neighborhood meeting.
+Invite Erik To Your Event Invite Erik To Your Event By providing your phone number, you agree to receive political and donation related text messages from Erik Osberg for Congress.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Privacy Policy and Terms & Conditions.
+A member of our team will reach out to confirm details and scheduling.
+Thanks for the support!
+Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

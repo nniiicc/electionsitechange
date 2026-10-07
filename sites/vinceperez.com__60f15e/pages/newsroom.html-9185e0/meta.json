@@ -1,9 +1,16 @@
 {
  "description": "Press releases, floor remarks, and media kit for State Representative Vince Perez.",
  "final_url": "https://www.vinceperez.com/newsroom.html",
+ "fingerprint": "fac6a809d071f063957ab9b79f6f266f98a3f16e",
+ "format": 3,
  "paid_for_by": "Paid for by Vince Perez Campaign, Jorge Perez Treasurer",
- "title": "Newsroom \u2014 Vince Perez, Texas HD 77",
+ "title": "Newsroom — Vince Perez, Texas HD 77",
  "years_mentioned": [
-  "2026"
+  "2013",
+  "2016",
+  "2020",
+  "2025",
+  "2026",
+  "2027"
  ]
 }

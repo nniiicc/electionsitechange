@@ -1,9 +1,12 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.fieldsforflorida.com/news/commissioner-bryan-eastman-and-rep-dotie-joseph-back-antione-fields-in-hd-21",
- "paid_for_by": "Paid for by Antione Fields, Democrat for Florida House District 21",
+ "fingerprint": "74cbf455c9a47aaffde6a3a7cddca05d327e3b16",
+ "format": 3,
+ "paid_for_by": "Paid for by Antione Fields, Democrat for Florida House District 21 You need to enable JavaScript to run this app",
  "title": "Gainesville Commissioner Bryan Eastman, Marion County Civil Rights Leaders Back Antione Fields in HD 21",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2026"
  ]
 }

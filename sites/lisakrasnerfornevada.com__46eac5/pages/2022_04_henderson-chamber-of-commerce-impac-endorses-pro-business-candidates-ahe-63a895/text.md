@@ -1,5 +1,3 @@
-By Nevada News & PR Wire
-STATE SENATE – NEVADA:
-SD16 Lisa Krasner – R
-The Henderson Chamber of Commerce -Issues Mobilization Political Action Committee (IMPAC), followed its process of recommending a slate of candidates seeking election in the 2022 Nevada Primary Election.
+Home Donate Meet Lisa Issues Contact Lisa BLOG Lisa Krasner for Nevada NV State Senator Lisa Krasner Home Donate Meet Lisa Issues Contact Lisa BLOG Henderson Chamber of Commerce- IMPAC Endorses Pro-business Candidates Ahead of Primary Elections Thursday, April 14 th, 2022 By Nevada News & PR Wire STATE SENATE – NEVADA: SD16 Lisa Krasner – R The Henderson Chamber of Commerce -Issues Mobilization Political Action Committee (IMPAC), followed its process of recommending a slate of candidates seeking election in the 2022 Nevada Primary Election.
 Candidates selected based on experience and expectations to support local businesses.
+PAID FOR BY LISA KRASNER FOR NEVADA

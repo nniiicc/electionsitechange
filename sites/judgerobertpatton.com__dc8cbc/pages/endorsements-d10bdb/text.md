@@ -1,15 +1,5 @@
-Your vote creates the future
-Call Us :
-(216) 409-0364
-|
-rjpesq68@hotmail.com
-Facebook
-Home
-About Robert
-Endorsements
-News
-X
-Donate
-Endorsements
-Endorsements for Judge Robert Patton
-Sheriff Frank Leonbruno Endorsement
+Your vote creates the future Call Us : (216) 409-0364 | rjpesq68@hotmail.com Facebook Home About Robert Endorsements News X Donate Endorsements Endorsements for Judge Robert Patton Sheriff Frank Leonbruno Endorsement Together we the people achieve more than any single person could ever do alone.
+Address: Friends of Judge Robert J.
+Patton P.O.
+Box 5464, Willowick, Ohio 44095 Quick Links About Robert Donate Copyright # © Paid For By Friends of Judge Robert J.
+Patton | Powered by Alpha Key Digital Follow Judge Patton on Facebook

@@ -1,16 +1,62 @@
 [
-"https://levonfornc.com/",
-"https://levonfornc.com/en",
-"https://levonfornc.com/en/about",
-"https://levonfornc.com/en/endorsements",
-"https://levonfornc.com/en/events",
-"https://levonfornc.com/en/priorities",
-"https://levonfornc.com/en/privacy-policy",
-"https://levonfornc.com/en/volunteer",
-"https://mobilize.us/levonbarnesfornc/event/1007678",
-"https://mobilize.us/levonbarnesfornc/event/920135?force_banner=true&share_context=event_details&share_medium=copy_link",
-"https://mobilize.us/levonbarnesfornc/event/929665",
-"https://mobilize.us/s/Vjr8ez",
-"https://secure.actblue.com/donate/levonfornc",
-"https://secure.actblue.com/donate/levonfornc-merch"
+{
+"text": "About",
+"href": "https://www.levonfornc.com/en/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/levonfornc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.levonfornc.com/en/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.levonfornc.com/en/events"
+},
+{
+"text": "Home",
+"href": "https://www.levonfornc.com/en/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://mobilize.us/s/Vjr8ez"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.mobilize.us/levonbarnesfornc/event/1007678/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.mobilize.us/levonbarnesfornc/event/920135/?force_banner=true&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.mobilize.us/levonbarnesfornc/event/929665/"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/levonfornc-merch"
+},
+{
+"text": "Priorities",
+"href": "https://www.levonfornc.com/en/priorities"
+},
+{
+"text": "Read our Privacy Policy",
+"href": "https://www.levonfornc.com/en/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.levonfornc.com/en/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.levonfornc.com"
+},
+{
+"text": "levonfornc@gmail.com",
+"href": "mailto:levonfornc@gmail.com"
+}
 ]

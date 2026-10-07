@@ -1,11 +1,7 @@
-Lori Trahan Campaign Raises $550K in 2017
-Q4 Report Will Show 73% of Donations from Inside 3rd District; 83% from MA Today, Lori Trahan’s campaign announced strong fundraising support in 2017, ending the year with more than $550K in contributions.
-Lori Trahan Campaign Announces Endorsement of International Association of Iron Workers Local 7
-Cites confidence in Lori’s ability to fight for working families
-Zanni endorses Trahan in 3rd District race / Eagle Tribune
-Lori would be a tireless and successful advocate for Methuen and the Merrimack Valley in Washington, Mayor Zanni said.
-Lori Trahan Campaign Announces Endorsement of Methuen Mayor Stephen N.
-Zanni
-Cites Trahan’s work in Congress and business as key to his support
-Zanni Endorses Trahan In Third District Congress Race
-“As a member of Congress, I will continue Mayor Zanni’s work to fight for a vibrant regional economy,” Trahan said.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu News From The Trail For press inquiries, please contact Press@LoriTrahan.com Lori Trahan Campaign Raises $550K in 2017 Q4 Report Will Show 73% of Donations from Inside 3rd District; 83% from MA Today, Lori Trahan’s campaign announced strong fundraising support in 2017, ending the year with more than $550K in contributions.
+The campaign’s Jan.
+31 FEC filing will show a total of $310K raised in Q4, on top of $240K collected in Q3, and cash-on-hand of more […] Read More Lori Trahan Campaign Announces Endorsement of International Association of Iron Workers Local 7 Cites confidence in Lori’s ability to fight for working families Read More Zanni endorses Trahan in 3rd District race / Eagle Tribune Lori would be a tireless and successful advocate for Methuen and the Merrimack Valley in Washington, Mayor Zanni said.
+Read More Lori Trahan Campaign Announces Endorsement of Methuen Mayor Stephen N.
+Zanni Cites Trahan’s work in Congress and business as key to his support Read More Zanni Endorses Trahan In Third District Congress Race “As a member of Congress, I will continue Mayor Zanni’s work to fight for a vibrant regional economy,” Trahan said.
+Read More « ‹ 14 15 16 17 › » Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

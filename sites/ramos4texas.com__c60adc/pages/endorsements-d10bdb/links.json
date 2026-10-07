@@ -1,46 +1,182 @@
 [
-"http://boldprogressives.org/",
-"http://dallascountytejanodemocrats.com/",
-"http://farnorthdallasdemocrats.org/",
-"http://gcpacdfw.com/",
-"http://northtexasasiandemocrats.org/",
-"http://nwpc.org/",
-"http://promesapac.org/",
-"http://stonewalldemocratsofdallas.org/",
-"http://teamsterslocal745.org/",
-"http://ufcw1000.org/",
-"http://workingfamilies.org/",
-"http://wowdems.org/",
-"https://annieslist.com/",
-"https://battlegroundtexas.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSe1q5kxIpT8ksQueBCxN8x79DWMk3KV0Df2r8L7195iFohbog/viewform",
-"https://emilyslist.org/",
-"https://facebook.com/LatinasRising",
-"https://facebook.com/MexicanAmericanDemocrats",
-"https://facebook.com/TexasProgressiveBallot",
-"https://facebook.com/maba.dtx",
-"https://facebook.com/ramos4texashd102",
-"https://flippable.org/",
-"https://front.moveon.org/",
-"https://instagram.com/ramos4texashd102",
-"https://jolttx.org/en",
-"https://momsdemandaction.org/",
-"https://ndtdw.com/",
-"https://plannedparenthoodaction.org/planned-parenthood-texas-votes?edit_off=true",
-"https://ramos4texas.com/",
-"https://ramos4texas.com/about",
-"https://ramos4texas.com/contact-us",
-"https://ramos4texas.com/endorsements",
-"https://ramos4texas.com/general-5",
-"https://ramos4texas.com/issues",
-"https://secure.actblue.com/donate/2020reelectwebpage",
-"https://socialworkers.org/",
-"https://texasaflcio.org/",
-"https://texasaft.org/",
-"https://texaslatinalist.org/",
-"https://texaswomenrising.com/",
-"https://tsta.org/",
-"https://twitter.com/BarackObama/status/1046803503988006912",
-"https://twitter.com/Ramos4Texas",
-"https://youtube.com/channel/UC0JOEnSQmkrpgZPFH62SoMA"
+{
+"text": "ABOUT",
+"href": "https://www.ramos4texas.com/about"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.ramos4texas.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/2020reelectwebpage"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ramos4texas.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.ramos4texas.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ramos4texas.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe1q5kxIpT8ksQueBCxN8x79DWMk3KV0Df2r8L7195iFohbog/viewform"
+},
+{
+"text": "VOTING",
+"href": "https://www.ramos4texas.com/general-5"
+},
+{
+"text": "[image: AFL-CIO.png]",
+"href": "https://www.texasaflcio.org/"
+},
+{
+"text": "[image: Annie'sList.png]",
+"href": "https://annieslist.com/"
+},
+{
+"text": "[image: BlueStarProject.png]",
+"href": "https://www.battlegroundtexas.com/"
+},
+{
+"text": "[image: Boldprogressives.png]",
+"href": "http://boldprogressives.org/"
+},
+{
+"text": "[image: DallasTejanoDemocrats.jpg]",
+"href": "http://dallascountytejanodemocrats.com/"
+},
+{
+"text": "[image: EmilysList.png]",
+"href": "https://www.emilyslist.org/"
+},
+{
+"text": "[image: FNDRD.png]",
+"href": "http://farnorthdallasdemocrats.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ramos4texashd102/"
+},
+{
+"text": "[image: Flippable.png]",
+"href": "https://flippable.org/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ramos4texashd102/"
+},
+{
+"text": "[image: IntBrotherhoodTeamsters.jpg]",
+"href": "http://www.teamsterslocal745.org/"
+},
+{
+"text": "[image: LatinaRising.jpg]",
+"href": "https://www.facebook.com/LatinasRising/"
+},
+{
+"text": "[image: MABA.jpg]",
+"href": "https://www.facebook.com/maba.dtx/"
+},
+{
+"text": "[image: MADofTexas.png]",
+"href": "https://www.facebook.com/MexicanAmericanDemocrats/"
+},
+{
+"text": "[image: MomsDemandActionGunSenseLogo.jpg]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: MoveOn.png]",
+"href": "https://front.moveon.org/"
+},
+{
+"text": "[image: NASW.gif]",
+"href": "https://www.socialworkers.org/"
+},
+{
+"text": "[image: NDallasTXdemWomen.jpg]",
+"href": "https://ndtdw.com/"
+},
+{
+"text": "[image: NTAD.jpg]",
+"href": "http://www.northtexasasiandemocrats.org/"
+},
+{
+"text": "[image: Obama_candidate_endor.jpg]",
+"href": "https://twitter.com/BarackObama/status/1046803503988006912"
+},
+{
+"text": "[image: PromesaPAC.jpg]",
+"href": "http://promesapac.org/"
+},
+{
+"text": "[image: Stonewall.jpeg]",
+"href": "http://stonewalldemocratsofdallas.org/"
+},
+{
+"text": "[image: TexasWomenRising.jpg]",
+"href": "https://www.texaswomenrising.com/"
+},
+{
+"text": "[image: TheProgressiveBallotTexas.png]",
+"href": "https://www.facebook.com/TexasProgressiveBallot/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Ramos4Texas"
+},
+{
+"text": "[image: UFCW.png]",
+"href": "http://ufcw1000.org/"
+},
+{
+"text": "[image: WOWDems.jpg]",
+"href": "http://www.wowdems.org/"
+},
+{
+"text": "[image: WPC-Tx.jpg]",
+"href": "http://www.nwpc.org/"
+},
+{
+"text": "[image: WorkingFamilies.png]",
+"href": "http://workingfamilies.org/"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UC0JOEnSQmkrpgZPFH62SoMA"
+},
+{
+"text": "[image: aft.png]",
+"href": "https://www.texasaft.org/"
+},
+{
+"text": "[image: goodcitizensdfw.jpg]",
+"href": "http://www.gcpacdfw.com/"
+},
+{
+"text": "[image: jolt.jpeg]",
+"href": "https://jolttx.org/en/"
+},
+{
+"text": "[image: plannedparenthood.png]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes?edit_off=true"
+},
+{
+"text": "[image: texaslatinalist.png]",
+"href": "https://texaslatinalist.org/"
+},
+{
+"text": "[image: tsta-nea.jpg]",
+"href": "https://tsta.org/"
+},
+{
+"text": "teamramos@ramos4texas.com",
+"href": "mailto:teamramos@ramos4texas.com"
+}
 ]

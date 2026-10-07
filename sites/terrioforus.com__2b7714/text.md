@@ -1,5 +1,4 @@
-Real Representation Arrives When the People Do
-Putting humanity at the center of politics.
+0 Skip to Content Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Steph Terrio for Oregon House - District 26 Policy Why So Serious Donate Volunteer Contact About Open Menu Close Menu Policy Why So Serious Donate Volunteer Contact About Real Representation Arrives When the People Do Putting humanity at the center of politics.
 America's promise is that we are all inherently equal, with rights that cannot be taken away.
 Our government has been unable to guarantee success in the society it created.
 We are divided and have yet to see a nation that truly treats all its people as equal.
@@ -8,9 +7,7 @@ This will be a long and necessary journey for us to take together.
 One of cooperation, and the pathway is clear; no more politicians making millions of dollars.
 The current form of capitalism will never represent the working class, or your children, if the goal is shareholder profit.
 Care about the laws that affect us, our future depends on it.
-Endorsed by: The Progressive Party of America,
-Pacific Green Party, and Oregon Progressive Party
-I am running for office because I believe politics should serve human dignity before it serves any party, ideology, or interest.
+Learn How to Become a Candidate Endorsed by: The Progressive Party of America, Pacific Green Party, and Oregon Progressive Party I am running for office because I believe politics should serve human dignity before it serves any party, ideology, or interest.
 The tapestry of Americans and our history is beautiful and must continue to be woven.
 We are living through a moment where information shapes our choices, and the information has been deliberately corrupted.
 Our tribal instincts are weaponized against us.
@@ -29,3 +26,4 @@ We are capable of seeing more than this moment suggests.
 The story of America is longer and more extraordinary than any single election, any single crisis, or any single division.
 We can rise together to bring dignity to all, and renew the public's hope in a just and honorable government.
 I am asking you to take the longer view with me, and to help weave something worth leaving behind.
+There is a spirit that unites all Americans far more than our politics divide us Paid for by Terrio for US PAC ID 25090 Privacy Notice

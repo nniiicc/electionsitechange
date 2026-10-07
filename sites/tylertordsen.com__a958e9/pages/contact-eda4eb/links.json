@@ -1,12 +1,62 @@
 [
-"https://secure.anedot.com/cf3f3b4f-106f-48e2-8fff-0be5ada200e4/eaf5dc7e-39ee-4fe2-8956-1b5d1ae6a9d7",
-"https://tylertordsen.com/",
-"https://tylertordsen.com/about",
-"https://tylertordsen.com/blog",
-"https://tylertordsen.com/contact",
-"https://tylertordsen.com/issues",
-"https://tylertordsen.com/privacy",
-"https://tylertordsen.com/terms-conditions",
-"https://tylertordsen.com/vote",
-"https://wordpress.com/"
+{
+"text": "ABOUT",
+"href": "https://tylertordsen.com/about/"
+},
+{
+"text": "ABOUT TYLER",
+"href": "https://tylertordsen.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://tylertordsen.com/blog/"
+},
+{
+"text": "CONTACT",
+"href": "https://tylertordsen.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cf3f3b4f-106f-48e2-8fff-0be5ada200e4/eaf5dc7e-39ee-4fe2-8956-1b5d1ae6a9d7"
+},
+{
+"text": "EFFECTIVE LEADERSHIP",
+"href": "https://tylertordsen.com/issues/"
+},
+{
+"text": "HOME",
+"href": "https://tylertordsen.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tylertordsen.com/privacy"
+},
+{
+"text": "TYLER TORDSEN",
+"href": "https://tylertordsen.com/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://tylertordsen.com/terms-conditions/"
+},
+{
+"text": "VOTE",
+"href": "https://tylertordsen.com/vote/"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://tylertordsen.com/vote/"
+},
+{
+"text": "[image: TYLER TORDSEN]",
+"href": "https://tylertordsen.com/"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "← Back",
+"href": "https://tylertordsen.com/contact/"
+}
 ]

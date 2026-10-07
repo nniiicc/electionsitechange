@@ -1,17 +1,82 @@
 [
-"http://steadyforvthouse.org/",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr",
-"https://governor.vermont.gov/press-release/governor-phil-scott-delivers-2026-state-state-address",
-"https://legislature.vermont.gov/bill/passed/2026",
-"https://legislature.vermont.gov/committee/streaming/house-education",
-"https://steadyforvthouse.org/about",
-"https://steadyforvthouse.org/community",
-"https://steadyforvthouse.org/contact",
-"https://steadyforvthouse.org/donate",
-"https://steadyforvthouse.org/endorsements",
-"https://steadyforvthouse.org/highlights",
-"https://steadyforvthouse.org/home",
-"https://steadyforvthouse.org/key-issues",
-"https://steadyforvthouse.org/legislative-updates-2025",
-"https://steadyforvthouse.org/legislature"
+{
+"text": "About",
+"href": "https://www.steadyforvthouse.org/about"
+},
+{
+"text": "Community",
+"href": "https://www.steadyforvthouse.org/community"
+},
+{
+"text": "Contact",
+"href": "https://www.steadyforvthouse.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.steadyforvthouse.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.steadyforvthouse.org/endorsements"
+},
+{
+"text": "Governor Phil Scott Delivers 2026 State of the State Address | Office of Governor Phil Scott",
+"href": "https://governor.vermont.gov/press-release/governor-phil-scott-delivers-2026-state-state-address"
+},
+{
+"text": "Highlights",
+"href": "https://www.steadyforvthouse.org/highlights"
+},
+{
+"text": "Home",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "Key Issues",
+"href": "https://www.steadyforvthouse.org/key-issues"
+},
+{
+"text": "Legislative Updates 2025",
+"href": "https://www.steadyforvthouse.org/legislative-updates-2025"
+},
+{
+"text": "Legislature",
+"href": "https://www.steadyforvthouse.org/legislature"
+},
+{
+"text": "SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "SteadyforVTHouse.org",
+"href": "http://steadyforvthouse.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr"
+},
+{
+"text": "[image]",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "bsteady@leg.state.vt.us",
+"href": "mailto:bsteady@leg.state.vt.us"
+},
+{
+"text": "https://legislature.vermont.gov/bill/passed/2026",
+"href": "https://legislature.vermont.gov/bill/passed/2026"
+},
+{
+"text": "https://legislature.vermont.gov/committee/streaming/house-education",
+"href": "https://legislature.vermont.gov/committee/streaming/house-education"
+},
+{
+"text": "steadyforvthouse.org",
+"href": "http://steadyforvthouse.org"
+}
 ]

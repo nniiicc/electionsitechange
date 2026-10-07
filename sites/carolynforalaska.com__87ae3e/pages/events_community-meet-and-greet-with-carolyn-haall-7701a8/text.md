@@ -1,15 +1,6 @@
-Back to All Events
-Come out to Jewel Lake Kaladi Brothers and meet with Carolyn Hall, candidate for State House District 16
-This is a fantastic opportunity to meet Carolyn in person, learn about her vision for our community, and discuss the issues that matter most to you.
-Date: Saturday, June 22nd
-Time: 11:00 AM - Noon
-Location: Jewel Lake Kaladi, 6861 Jewel Lake Rd
-Come along to share your thoughts, ask questions, and see how Carolyn plans to bring positive change to our district.
+0 Skip to Content DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Open Menu Close Menu DONATE About Carolyn Voter Info Policies Endorsements Events Get Involved Back to All Events Community Meet and Greet with Carolyn Hall Saturday, June 22, 2024 11:00 AM 12:00 PM Kaladi Brothers 6855 Jewel Lake Road Anchorage, AK, 99502 United States (map) Google Calendar ICS Come out to Jewel Lake Kaladi Brothers and meet with Carolyn Hall, candidate for State House District 16 This is a fantastic opportunity to meet Carolyn in person, learn about her vision for our community, and discuss the issues that matter most to you.
+Date: Saturday, June 22nd Time: 11:00 AM - Noon Location: Jewel Lake Kaladi, 6861 Jewel Lake Rd Come along to share your thoughts, ask questions, and see how Carolyn plans to bring positive change to our district.
 Whether you're a longtime supporter or just curious about her campaign, we would love to see you there!
-Previous
-Previous
-June 12
-Backyard Bonfire to Support Carolyn Hall and Denny Wells
-Next
-Next
-June 26
+Previous Previous June 12 Backyard Bonfire to Support Carolyn Hall and Denny Wells Next Next June 26 Exclusive Dinner with Candidate Carolyn Hall hosted by Rep.
+Jennie Armstrong Connect with us. carolyn@carolynforalaska.com Paid for by Carolyn for Alaska P.O.
+Box 91771, Anchorage, Alaska 99509

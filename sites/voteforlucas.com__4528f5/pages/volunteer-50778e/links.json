@@ -1,14 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61553690931694",
-"https://twitter.com/VoteforLucasMO",
-"https://voteforlucas.com/",
-"https://voteforlucas.com/contact",
-"https://voteforlucas.com/donate",
-"https://voteforlucas.com/issues",
-"https://voteforlucas.com/landing",
-"https://voteforlucas.com/meet2",
-"https://voteforlucas.com/privacy-policy",
-"https://voteforlucas.com/store/cart",
-"https://voteforlucas.com/volunteer",
-"https://youtube.com/@VoteForLucas"
+{
+"text": "Bio",
+"href": "https://voteforlucas.com/meet2"
+},
+{
+"text": "Contact",
+"href": "https://voteforlucas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://voteforlucas.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61553690931694"
+},
+{
+"text": "Home",
+"href": "https://voteforlucas.com/landing"
+},
+{
+"text": "Issues",
+"href": "https://voteforlucas.com/issues"
+},
+{
+"text": "Join Email List",
+"href": "javascript:WebPlatform.Popups.show(2);"
+},
+{
+"text": "Meet",
+"href": "https://voteforlucas.com/meet2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteforlucas.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforlucas.com/volunteer"
+},
+{
+"text": "[image: Lucas Green For District 146 Representative]",
+"href": "https://voteforlucas.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteforLucasMO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553690931694"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VoteForLucas"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://voteforlucas.com/store/cart"
+}
 ]

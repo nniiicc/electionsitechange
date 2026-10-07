@@ -1,6 +1,18 @@
 [
-"https://ericsynenberg.com/home",
-"https://ericsynenberg.com/issues",
-"https://ericsynenberg.com/meet-eric",
-"https://secure.actblue.com/donate/es2024-ct"
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/es2024-ct"
+},
+{
+"text": "Home",
+"href": "https://ericsynenberg.com/home"
+},
+{
+"text": "Issues",
+"href": "https://ericsynenberg.com/issues"
+},
+{
+"text": "Meet Eric",
+"href": "https://ericsynenberg.com/meet-eric"
+}
 ]

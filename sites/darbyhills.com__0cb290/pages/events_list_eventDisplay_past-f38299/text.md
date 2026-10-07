@@ -1,25 +1,27 @@
-Pizza & Politics: Spring Session Recap
-Join us for a recap of the Spring Legislative Session!
+Skip to content Main Menu Home Issues Issues Make Life More Affordable Keep Our Communities Safe Stand for Common Sense About Meet Darby Darby's Endorsements Darby's District Map Darby's Political Videos Darby's Legislative Videos Darby's Legislation Privacy Policy EVENTS News Get Involved Volunteer Request a Yard Sign Events & Volunteer Opportunities Contact the Campaign Vote Contact Donate Home Issues Stand for Common Sense Over Extreme Agendas Keep Our Communities Safe for Families and Children Make Life More Affordable for Struggling Working Families About Meet Darby Darby’s Endorsements District Map Darby’s Videos Darby’s Political Videos Darby’s Videos Senator Darby Hills’ Legislative Priorities Privacy Policy Events News Latest News WGN News Boy, 14, dies after e-moto crash with SUV in Wauconda Third Hoffman Estates data center faces opposition from nearby residents Legislation to Access Foster Care History NBC 5 Chicago Bill aims to close ‘loophole’ for those convicted of secretly videotaping minors CBS Chicago CBS Chicago Senator Darby Hills Responds to Recent Teacher/Coach Arrests, Discussed SB2381 WCIA News Illinois Senate Republicans unveil plan combatting child trafficking, exploitation WAND News New Illinois law requires diaper ingredients transparency Healing Through History: IL Senate passes bill helping families receive foster care records IL Senate GOP introduce bills to protect children from exploitation FOX 32 Chicago Child seriously hurt in Crystal Lake e-bike crash as calls grow for tougher safety rules State Senator Darby Hills Calls for Action on SB2381 Following Mundelein Teacher/Coach’s Arrest on FOX32 Illinois Insider Senator Darby Hills on Transparency in Illinois Senator Darby Hills’ aiming to make life more affordable here in Illinoi Senator Darby Hills and Melissa Khamkhounnavong discuss SB2895 ABC 7 Chicago Senator Hills Highlights Need for Statewide E-Bike Safety Standards Get Involved Request a Yard Sign Upcoming Events & Volunteer Opportunities Contact Voter Info Contribute Contact Home Issues Stand for Common Sense Over Extreme Agendas Keep Our Communities Safe for Families and Children Make Life More Affordable for Struggling Working Families About Meet Darby Darby’s Endorsements District Map Darby’s Videos Darby’s Political Videos Darby’s Videos Senator Darby Hills’ Legislative Priorities Privacy Policy Events News Latest News WGN News Boy, 14, dies after e-moto crash with SUV in Wauconda Third Hoffman Estates data center faces opposition from nearby residents Legislation to Access Foster Care History NBC 5 Chicago Bill aims to close ‘loophole’ for those convicted of secretly videotaping minors CBS Chicago CBS Chicago Senator Darby Hills Responds to Recent Teacher/Coach Arrests, Discussed SB2381 WCIA News Illinois Senate Republicans unveil plan combatting child trafficking, exploitation WAND News New Illinois law requires diaper ingredients transparency Healing Through History: IL Senate passes bill helping families receive foster care records IL Senate GOP introduce bills to protect children from exploitation FOX 32 Chicago Child seriously hurt in Crystal Lake e-bike crash as calls grow for tougher safety rules State Senator Darby Hills Calls for Action on SB2381 Following Mundelein Teacher/Coach’s Arrest on FOX32 Illinois Insider Senator Darby Hills on Transparency in Illinois Senator Darby Hills’ aiming to make life more affordable here in Illinoi Senator Darby Hills and Melissa Khamkhounnavong discuss SB2895 ABC 7 Chicago Senator Hills Highlights Need for Statewide E-Bike Safety Standards Get Involved Request a Yard Sign Upcoming Events & Volunteer Opportunities Contact Voter Info Contribute Contact 7 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List #ago 6/23/2026 June 23 - 10/7/2026 Now Select date.
+June 2026 Tue 23 Pizza & Politics: Spring Session Recap June 23 @ 6:30 pm - 8:30 pm Join us for a recap of the Spring Legislative Session!
 Food and drinks will be provided.
-7 events found.
-- Pizza & Politics: Spring Session Recap Join us for a recap of the Spring Legislative Session!
-Food and drinks will be provided.
-- Coffee, Conversation, and Community Action!
-Join Team Darby this Saturday for We'll start the morning with coffee, pastries, and a discussion about the issues facing our community and state.
-Then, for those who are interested, we'll head out into the community to connect with neighbors and hear what's on their minds. 📍 1000 Hart Road, Suite 208, Barrington, […]
-- Barrington 4th of July Parade – RSVP to Walk w/ Team Hills!
-Team Darby Hills would love for you to join them in the Barrington Fourth of July Parade!
+Sat 27 Coffee, Conversation, and Community Action!
+June 27 @ 8:00 am - 5:00 pm Join Team Darby this Saturday for We'll start the morning with coffee, pastries, and a discussion about the issues facing our community and state.
+Then, for those who are interested, we'll head out into the community to connect with neighbors and hear what's on their minds. 📍 1000 Hart Road, Suite 208, Barrington, […] July 2026 Sat 4 Barrington 4th of July Parade – RSVP to Walk w/ Team Hills!
+July 4 @ 10:00 am - 11:30 pm Team Darby Hills would love for you to join them in the Barrington Fourth of July Parade!
 One of the favorite parts of serving our community is meeting neighbors and celebrating the traditions that bring us together.
-If you’d like to walk with our team in this year’s parade, we’d be thrilled to have you […]
-- Internship Opportunity Looking for an opportunity to gain valuable, hands-on experience in politics and public service?
+If you’d like to walk with our team in this year’s parade, we’d be thrilled to have you […] Thu 9 Internship Opportunity July 9 - August 1 Looking for an opportunity to gain valuable, hands-on experience in politics and public service?
 Senator Darby Hills' campaign is seeking motivated interns to join our team this fall.
 Interns will gain real-world experience in grassroots organizing, voter outreach, campaign communications, and event coordination while playing an important role in our campaign.
-The internship offers: • […]
-- Volunteers Needed: Walk with Senator Darby Hills in the Lake Zurich Alpine Fest Parade Volunteers Needed: Walk with Senator Darby Hills in the Lake Zurich Alpine Fest Parade Senator Darby Hills is looking for volunteers to join her campaign team at this year's Lake Zurich Alpine Fest Parade.
-The parade is a great opportunity to connect with neighbors, meet local families, and help spread Senator Hills' message throughout the […]
-- Day of Action Join us for a Day of Action!
+The internship offers: • […] Sun 19 Volunteers Needed: Walk with Senator Darby Hills in the Lake Zurich Alpine Fest Parade July 19 @ 10:30 am - 12:30 pm Volunteers Needed: Walk with Senator Darby Hills in the Lake Zurich Alpine Fest Parade Senator Darby Hills is looking for volunteers to join her campaign team at this year's Lake Zurich Alpine Fest Parade.
+The parade is a great opportunity to connect with neighbors, meet local families, and help spread Senator Hills' message throughout the […] August 2026 Sat 22 Day of Action August 22 @ 8:30 am - 3:00 pm Join us for a Day of Action!
 This is your chance to get involved, meet Senator Darby Hills, connect with neighbors, and help make a difference in our community.
-We’ll kick off the morning with coffee, donuts, and a chance to meet fellow volunteers before heading out to talk with voters across the 26th senate […]
-- Day of Action Team Darby Hills is excited to invite you to join us for another Day of Action!
+We’ll kick off the morning with coffee, donuts, and a chance to meet fellow volunteers before heading out to talk with voters across the 26th senate […] September 2026 Sat 19 Day of Action September 19 @ 9:00 am - 5:00 pm Team Darby Hills is excited to invite you to join us for another Day of Action!
 Stop by anytime between 9 AM and 5 PM to meet neighbors, have meaningful conversations, and help make a difference in our community.
-Whether you can stay for an hour or spend the whole day with us, every conversation […]
+Whether you can stay for an hour or spend the whole day with us, every conversation […] Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+They’re FREE!
+We’ll even deliver it and put it in your yard for you.
+All you have to do is fill out the form here , and we’ll take care of the rest!
+Campaign Office Address: 1000 Hart Road, Suite 208, Barrington, Illinois Office Hours: 8:30 a.m. to 7:30 p.m.
+Paid for by Citizens for Darby Hills.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( http://www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Customize Reject All Accept All Powered by

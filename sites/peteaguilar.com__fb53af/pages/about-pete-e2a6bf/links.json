@@ -1,14 +1,70 @@
 [
-"http://facebook.com/PeteAguilarforCongress",
-"http://instagram.com/aguilarpete",
-"http://twitter.com/PeteAguilar",
-"https://peteaguilar.com/",
-"https://peteaguilar.com/about-pete",
-"https://peteaguilar.com/cdn-cgi/l/email-protection",
-"https://peteaguilar.com/donate",
-"https://peteaguilar.com/get-involved",
-"https://peteaguilar.com/get-involved/sign-up",
-"https://peteaguilar.com/get-involved/volunteer",
-"https://peteaguilar.com/mobile-privacy-policy",
-"https://peteaguilar.com/privacy-policy"
+{
+"text": "909-368-8133",
+"href": "tel:909-368-8133%20"
+},
+{
+"text": "About Pete",
+"href": "https://peteaguilar.com/about-pete/"
+},
+{
+"text": "Donate Now",
+"href": "https://peteaguilar.com/donate"
+},
+{
+"text": "Email",
+"href": "mailto:?subject=About+Pete+-+Pete+Aguilar+for+U.S.+Congress&body=https%3A%2F%2Fpeteaguilar.com%2Fabout-pete%2F"
+},
+{
+"text": "Get Involved",
+"href": "https://peteaguilar.com/get-involved/"
+},
+{
+"text": "Mobile Privacy Policy",
+"href": "https://peteaguilar.com/mobile-privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://peteaguilar.com/privacy-policy"
+},
+{
+"text": "Sign Up",
+"href": "https://peteaguilar.com/get-involved/sign-up/"
+},
+{
+"text": "Sign Up Sign Up",
+"href": "https://peteaguilar.com/get-involved/sign-up"
+},
+{
+"text": "Take Action Take Action",
+"href": "https://peteaguilar.com/get-involved"
+},
+{
+"text": "Volunteer",
+"href": "https://peteaguilar.com/get-involved/volunteer/"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://peteaguilar.com/get-involved/volunteer"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@peteaguilar.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/PeteAguilarforCongress"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/aguilarpete"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/PeteAguilar"
+},
+{
+"text": "[no text]",
+"href": "https://peteaguilar.com"
+}
 ]

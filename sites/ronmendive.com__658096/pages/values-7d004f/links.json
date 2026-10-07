@@ -1,8 +1,38 @@
 [
-"http://kcgov.us/elections",
-"http://wix.com/",
-"https://ronmendive.com/",
-"https://ronmendive.com/blog",
-"https://ronmendive.com/meet-ron",
-"https://ronmendive.com/values"
+{
+"text": "BLOG",
+"href": "https://www.ronmendive.com/blog"
+},
+{
+"text": "District 5",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "HOME",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "Idaho State Representative",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "MEET RON",
+"href": "https://www.ronmendive.com/meet-ron"
+},
+{
+"text": "Ron Mendive",
+"href": "https://www.ronmendive.com"
+},
+{
+"text": "VALUES",
+"href": "https://www.ronmendive.com/values"
+},
+{
+"text": "VOTE",
+"href": "http://kcgov.us/elections/"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com"
+}
 ]

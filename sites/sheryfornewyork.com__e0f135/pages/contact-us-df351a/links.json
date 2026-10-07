@@ -1,13 +1,66 @@
 [
-"https://facebook.com/shery.olivo",
-"https://instagram.com/sheryolivo",
-"https://secure.anedot.com/friends-of-shery-olivo/donate",
-"https://sheryfornewyork.com/",
-"https://sheryfornewyork.com/about-us",
-"https://sheryfornewyork.com/contact-us",
-"https://sheryfornewyork.com/faq",
-"https://sheryfornewyork.com/gallery",
-"https://visionfusion.io/",
-"https://x.com//sheryolivonyc",
-"https://x.com/SheryOlivoNYC"
+{
+"text": "About",
+"href": "https://sheryfornewyork.com/about-us/"
+},
+{
+"text": "Contact Us",
+"href": "https://sheryfornewyork.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-shery-olivo/donate"
+},
+{
+"text": "FAQ",
+"href": "https://sheryfornewyork.com/faq/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/shery.olivo"
+},
+{
+"text": "Gallery",
+"href": "https://sheryfornewyork.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://sheryfornewyork.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sheryolivo/"
+},
+{
+"text": "Our Mission",
+"href": "https://sheryfornewyork.com/faq/"
+},
+{
+"text": "Sheryforny",
+"href": "https://sheryfornewyork.com"
+},
+{
+"text": "Ti-facebook",
+"href": "https://www.facebook.com/shery.olivo"
+},
+{
+"text": "Twitter",
+"href": "https://x.com//sheryolivonyc"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/SheryOlivoNYC"
+},
+{
+"text": "[image]",
+"href": "https://sheryfornewyork.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.visionfusion.io/"
+},
+{
+"text": "info@sheryfornewyork.com",
+"href": "mailto:info@sheryfornewyork.com"
+}
 ]

@@ -1,7 +1,8 @@
-Rebecca has fought to protect our community through major environmental and sustainability initiatives.
-- One of Rebecca’s first acts in office was to sponsor the clean waterways fund, signed by the Governor.
-- Rebecca has co sponsored legislation to incentivize the use of renewable energy, promote clean waterways, and protect our sources of local food in New York State.
-- Seawright cosponsored the New York State Climate Leadership and Community Protection Act to reduce greenhouse gas emissions, implement the state’s renewable energy goals for 2030, support disadvantaged communities, and invest in green energy projects that pay prevailing wages.
-- Rebecca will continue her commitment to monitoring air quality surrounding the waste transfer station.
+Skip to content MEET REBECCA ISSUES Protecting and Enhancing Women’s Rights Animal Rights Criminal Justice Reform Election Reform Environmental Gun Reform Health and Safety During COVID-19 Higher Education Homelessness Housing K-12 Education LGBTQ+ Senior Citizen Rights Small Businesses Taxes Transportation ENDORSEMENTS Organization Endorsements GET INVOLVED NEWS DONATE Environmental Rebecca has fought to protect our community through major environmental and sustainability initiatives.
+One of Rebecca’s first acts in office was to sponsor the clean waterways fund, signed by the Governor.
+Rebecca has co sponsored legislation to incentivize the use of renewable energy, promote clean waterways, and protect our sources of local food in New York State.
+Seawright cosponsored the New York State Climate Leadership and Community Protection Act to reduce greenhouse gas emissions, implement the state’s renewable energy goals for 2030, support disadvantaged communities, and invest in green energy projects that pay prevailing wages.
+Rebecca will continue her commitment to monitoring air quality surrounding the waste transfer station.
 In 2017 Rebecca introduced and passed legislation to require the New York State Department of Health to conduct a study on the high incidence of asthma in Manhattan and prepare remediation plans.
-- Rebecca introduced legislation to require the New York State Commissioner of Environmental Conservation to implement regulations requiring the placement of air quality monitoring equipment at waste transfer stations in New York.
+Rebecca introduced legislation to require the New York State Commissioner of Environmental Conservation to implement regulations requiring the placement of air quality monitoring equipment at waste transfer stations in New York.
+Back to Top Paid for by Friends of Rebecca Seawright

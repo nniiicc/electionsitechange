@@ -1,4 +1,4 @@
-Ruth is a state senator, community leader, and working mother of three children.
+Skip to content Ruth for Vermont Senator Ruth Hardy for Addison District Menu Meet Ruth Updates Endorsements Get Email Updates Legislation Commitments En Español Contribute Meet Ruth Ruth is a state senator, community leader, and working mother of three children.
 She has spent her career advocating for good public policy, financially stable organizations, and opportunities for everyone to participate in democracy and community.
 In 2018, she was elected to the Vermont State Senate representing the Addison District – Addison County, Buels Gore, Huntington and Rochester.
 In the Senate, she serves on the Finance Committee, Natural Resource & Energy Committee, Joint Committee on Judicial Retention, and chairs the State House Advisory Committee.
@@ -10,7 +10,7 @@ For many years, Ruth has been at the center of education reform debates at the S
 During the off-session, Ruth often works as a guest lecturer at Middlebury College or a substitute teacher for Addison Central School District.
 For many years, Ruth worked at the Middlebury College budget office and helped steer the College through the 2008 international financial crisis.
 Ruth has also served on early childhood center boards, and began her career as a non-partisan school finance analyst for the Wisconsin Legislature.
-Ruth believes in access to quality healthcare.
+Photo by Michael Tallman Photography Ruth believes in access to quality healthcare.
 She has worked as the Director of Government Grants for Planned Parenthood of Northern New England raising funds to support access to women’s health services, and as Director of the Addison County Open Door Clinic providing free medical care to uninsured Vermonters.
 By running and serving in the legislature, Ruth is leading by example.
 From 2015 to 2019, she was Executive Director of Emerge Vermont, which recruits and trains Democratic women to run for public office.
@@ -25,3 +25,6 @@ Ruth spent much of her childhood riding horses, working on local farms, and bein
 Her mother was a teacher and her father was a state civil servant.
 Ruth left home to attend Oberlin College in Ohio and then the LBJ School of Public Affairs at University of Texas-Austin.
 After over a decade in the Midwest and South, Ruth moved back to the Northeast in 2002 to raise her family and put down roots in Vermont.
+Facebook Instagram Recent Posts Everywhere, All of the Time Setting the record straight about my work Vergennes Opera House All Access Project Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

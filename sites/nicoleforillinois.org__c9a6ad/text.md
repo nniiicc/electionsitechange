@@ -1,8 +1,3 @@
-Illinois State Representative Nicole La Ha
-COMMONSENSE LEADERSHIP
-YOU CAN TRUST
-"As a mother of two young children, a disability advocate and effective community leader, I am committed to authentic and approachable
-representation for the
-people of the 82nd district."
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Join our movement and take action today!
+Home meet Nicole PRIORITIES Endorsements Get Involved Contact Us More Home meet Nicole PRIORITIES Endorsements Get Involved Contact Us Home meet Nicole PRIORITIES Endorsements Get Involved Contact Us Illinois State Representative Nicole La Ha Illinois State Representative Nicole La Ha Illinois State Representative Nicole La Ha Illinois State Representative Nicole La Ha COMMONSENSE LEADERSHIP YOU CAN TRUST Learn More DONATE to Nicole's campaign Fighting for your family and your future.
+"As a mother of two young children, a disability advocate and effective community leader, I am committed to authentic and approachable representation for the people of the 82nd district." Learn more about Nicole & her family Paid for by Nicole for Illinois Powered by Media Privacy Policy

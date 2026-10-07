@@ -1,28 +1,110 @@
 [
-"https://facebook.com/Gail4NM",
-"https://gailfornewmexico.com/",
-"https://gailfornewmexico.com/about",
-"https://gailfornewmexico.com/district-49",
-"https://gailfornewmexico.com/donate",
-"https://gailfornewmexico.com/legislation",
-"https://gailfornewmexico.com/volunteer",
-"https://instagram.com/gail4nm",
-"https://mailchi.mp/gopnm.org/save-nm-15484589?e=44f0d2894f",
-"https://nmlegis.gov/committee/interim_committee?committeecode=alc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=alesc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=alfc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=cbpc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=ccj",
-"https://nmlegis.gov/committee/interim_committee?committeecode=css",
-"https://nmlegis.gov/committee/interim_committee?committeecode=erdpc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=ipoc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=mfa",
-"https://nmlegis.gov/committee/interim_committee?committeecode=sttc",
-"https://nmlegis.gov/committee/interim_committee?committeecode=tirs",
-"https://nmlegis.gov/committee/interim_committee?committeecode=wnr",
-"https://nmlegis.gov/committee/standing_committee?committeecode=hcedc",
-"https://nmlegis.gov/committee/standing_committee?committeecode=htpwc",
-"https://nmlegis.gov/committee/standing_committee?committeecode=hxpsc",
-"https://nmlegis.gov/committee/standing_committee?committeecode=hxrc",
-"https://twitter.com/Gail4NM"
+{
+"text": "About",
+"href": "https://gailfornewmexico.com/about/"
+},
+{
+"text": "District 49",
+"href": "https://gailfornewmexico.com/district-49/"
+},
+{
+"text": "Donate",
+"href": "https://gailfornewmexico.com/donate/"
+},
+{
+"text": "Legislation",
+"href": "https://gailfornewmexico.com/legislation/"
+},
+{
+"text": "Volunteer",
+"href": "https://gailfornewmexico.com/volunteer/"
+},
+{
+"text": "Voter Registration",
+"href": "https://mailchi.mp/gopnm.org/save-nm-15484589?e=44f0d2894f"
+},
+{
+"text": "[image: Logo]",
+"href": "https://gailfornewmexico.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Gail4NM"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Gail4NM/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gail4nm/"
+},
+{
+"text": "capitol buildings planning commission",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=cbpc"
+},
+{
+"text": "capitol security subcommittee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=css"
+},
+{
+"text": "courts, corrections & justice committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=ccj"
+},
+{
+"text": "economic & rural development & policy committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=erdpc"
+},
+{
+"text": "gail@gailfornewmexico.com",
+"href": "mailto:gail@gailfornewmexico.com"
+},
+{
+"text": "investments & pensions oversight committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=ipoc"
+},
+{
+"text": "legislative council",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=alc"
+},
+{
+"text": "legislative education study committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=alesc"
+},
+{
+"text": "legislative finance committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=alfc"
+},
+{
+"text": "member: house commerce & economic development committee",
+"href": "https://www.nmlegis.gov/committee/standing_committee?committeecode=hcedc"
+},
+{
+"text": "member: house printing & supplies",
+"href": "https://www.nmlegis.gov/committee/standing_committee?committeecode=hxpsc"
+},
+{
+"text": "member: house rules & order of business",
+"href": "https://www.nmlegis.gov/committee/standing_committee?committeecode=hxrc"
+},
+{
+"text": "member: house transportation, public works & capital improvements",
+"href": "https://www.nmlegis.gov/committee/standing_committee?committeecode=htpwc"
+},
+{
+"text": "mortgage finance authority act oversight committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=mfa"
+},
+{
+"text": "science, technology & telecommunications committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=sttc"
+},
+{
+"text": "transportation infrastructure revenue subcommittee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=tirs"
+},
+{
+"text": "water & natural resources committee",
+"href": "https://www.nmlegis.gov/committee/interim_committee?committeecode=wnr"
+}
 ]

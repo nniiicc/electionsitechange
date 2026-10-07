@@ -1,16 +1,12 @@
-por Peter Abbarno | Ago 27, 2026 | Blog
-Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
+Familias más fuertes.
+Comunidades más fuertes.
+Un Washington más fuerte Sobre Peter Cuestiones Artículos de interés LEGISLATURE VOTER INFO Blog de Peter DONATE Seguir Seguir Seguir Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington por Peter Abbarno | Ago 27, 2026 | Blog Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
 Puede significar un hogar más calentito en invierno, facturas mensuales más bajas, poder hacer...
-por Peter Abbarno | Ago 27, 2026 | Blog
-Las granjas, los bosques, los ríos y las tierras de cultivo de Washington son parte de lo que hace que nuestro estado sea especial.
+Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales por Peter Abbarno | Ago 27, 2026 | Blog Las granjas, los bosques, los ríos y las tierras de cultivo de Washington son parte de lo que hace que nuestro estado sea especial.
 Además, generan miles de puestos de trabajo, producen alimentos y madera, protegen los hábitats y la calidad del agua, y sostienen a las...
-por Peter Abbarno | Jul 31, 2025 | Blog
-ICYMI: Kim Ashmore se unió a Peter Abbarno en AM1470 KELA / KMNT Radio para hablar del Distrito de Beneficio del Transporte de Centralia, de su tiempo en la Junta del Distrito Escolar de Centralia y de 41 años de increíble servicio a la Ciudad de Centralia.
-Entrevista...
-por Peter Abbarno | Jun 26, 2025 | Blog
-ICYMI: Peter Abbarno entrevistó a Miss Lewis County WA Madeline Scalici y a Miss Lewis County’s Teen Hailey Sturdevant en AM1470 KELA / KMNT...
-por Peter Abbarno | Jun 21, 2024 | Blog
-Peter Abbarno se reunió con Samantha Magnuson de NOMAD Turck y SUV Outfitters en la radio KELA-KMNT para hablar del Mes Nacional del Camping en junio y de cómo puedes equipar tu vehículo para crear recuerdos con tu...
-por Peter Abbarno | Feb 27, 2024 | Blog
-He presentado una enmienda a la propuesta de Presupuesto de Funcionamiento de la Cámara de Representantes que eliminaría una disposición de reembolso por votos.
-El Presupuesto Operativo propuesto por los Demócratas de la Cámara crea un reembolso, Si y sólo Si, votas...
+Peter Abbarno con Kim Ashmore en Radio KELA por Peter Abbarno | Jul 31, 2025 | Blog ICYMI: Kim Ashmore se unió a Peter Abbarno en AM1470 KELA / KMNT Radio para hablar del Distrito de Beneficio del Transporte de Centralia, de su tiempo en la Junta del Distrito Escolar de Centralia y de 41 años de increíble servicio a la Ciudad de Centralia.
+Entrevista... ¡Conoce a Miss Lewis County y Miss Lewis County Teen! por Peter Abbarno | Jun 26, 2025 | Blog ICYMI: Peter Abbarno entrevistó a Miss Lewis County WA Madeline Scalici y a Miss Lewis County’s Teen Hailey Sturdevant en AM1470 KELA / KMNT...
+Abbarno: El Mes Nacional de la Acampada es una forma estupenda de estrechar lazos y buscar aventuras con tu familia por Peter Abbarno | Jun 21, 2024 | Blog Peter Abbarno se reunió con Samantha Magnuson de NOMAD Turck y SUV Outfitters en la radio KELA-KMNT para hablar del Mes Nacional del Camping en junio y de cómo puedes equipar tu vehículo para crear recuerdos con tu...
+El diputado Abbarno se opone a los pagos que podrían influir en las elecciones por Peter Abbarno | Feb 27, 2024 | Blog He presentado una enmienda a la propuesta de Presupuesto de Funcionamiento de la Cámara de Representantes que eliminaría una disposición de reembolso por votos.
+El Presupuesto Operativo propuesto por los Demócratas de la Cámara crea un reembolso, Si y sólo Si, votas... « Entradas más antiguas Mantente al día de las últimas noticias de Olimpia.
+Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

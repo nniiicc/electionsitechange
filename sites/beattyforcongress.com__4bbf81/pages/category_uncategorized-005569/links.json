@@ -1,19 +1,94 @@
 [
-"https://beattyforcongress.com/",
-"https://beattyforcongress.com/about",
-"https://beattyforcongress.com/category/election",
-"https://beattyforcongress.com/category/uncategorized",
-"https://beattyforcongress.com/contact",
-"https://beattyforcongress.com/editorial-endorsement-for-congress-rep-joyce-beatty",
-"https://beattyforcongress.com/events/list",
-"https://beattyforcongress.com/get-involved",
-"https://beattyforcongress.com/grid-gallery",
-"https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people",
-"https://beattyforcongress.com/issues-page",
-"https://beattyforcongress.com/news",
-"https://beattyforcongress.com/rep-beatty-dances-to-drakes-in-my-feelings-to-promote-millennial-voting",
-"https://beattyforcongress.com/terms-and-conditions-privacy",
-"https://facebook.com/JoyceBeattyforCongress",
-"https://instagram.com/beattyforcongress",
-"https://twitter.com/JoyceBeatty"
+{
+"text": "About Joyce",
+"href": "https://beattyforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://beattyforcongress.com/contact/"
+},
+{
+"text": "Editorial endorsement: For Congress: Rep. Joyce Beatty",
+"href": "https://beattyforcongress.com/editorial-endorsement-for-congress-rep-joyce-beatty/"
+},
+{
+"text": "Election",
+"href": "https://beattyforcongress.com/category/election/"
+},
+{
+"text": "Events",
+"href": "https://beattyforcongress.com/events/list/"
+},
+{
+"text": "Gallery",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "How a Democratic “Minority-Engagement Program” Is Fighting Ohio’s Voter-Roll Purges and Their Impact on Black People",
+"href": "https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/"
+},
+{
+"text": "Issues",
+"href": "https://beattyforcongress.com/issues-page/"
+},
+{
+"text": "News",
+"href": "https://beattyforcongress.com/news/"
+},
+{
+"text": "Read More",
+"href": "https://beattyforcongress.com/editorial-endorsement-for-congress-rep-joyce-beatty/"
+},
+{
+"text": "Read More",
+"href": "https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/"
+},
+{
+"text": "Read More",
+"href": "https://beattyforcongress.com/rep-beatty-dances-to-drakes-in-my-feelings-to-promote-millennial-voting/"
+},
+{
+"text": "Read More",
+"href": "https://beattyforcongress.com/terms-and-conditions-privacy/"
+},
+{
+"text": "Rep. Beatty dances to Drake’s ‘In My Feelings’ to promote millennial voting",
+"href": "https://beattyforcongress.com/rep-beatty-dances-to-drakes-in-my-feelings-to-promote-millennial-voting/"
+},
+{
+"text": "Terms and Conditions/Privacy",
+"href": "https://beattyforcongress.com/terms-and-conditions-privacy/"
+},
+{
+"text": "Uncategorized",
+"href": "https://beattyforcongress.com/category/uncategorized/"
+},
+{
+"text": "[image: Joyce Beatty for Congress]",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoyceBeatty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoyceBeattyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beattyforcongress/"
+},
+{
+"text": "beattyforcongress@gmail.com",
+"href": "mailto:beattyforcongress@gmail.com"
+}
 ]

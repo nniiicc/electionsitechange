@@ -1,22 +1,98 @@
 [
-"https://d14tal8bchn59o.cloudfront.net/9JbL7Xl9XmiePv9PnWTJWCCfq3ottBlw8mlCysafL1Q/w:1920/fn:politicaltheme3_2x/plain/s3://multisiteadmin-production/fh6z872ll3t5o36828zkijbawuvt",
-"https://d14tal8bchn59o.cloudfront.net/MNz-X72bhMqnn0xfF64zW-cFUNznBYlMmLbb2vtq7Lc/w:1920/fn:politicaltheme4_2x/plain/s3://multisiteadmin-production/e91hkw5vur3q9ugw01ox7efkx3fr",
-"https://dredesignpro.com/",
-"https://facebook.com/raulforassembly",
-"https://instagram.com/raulforassembly",
-"https://politics.raisethemoney.com/ba90tspqyxspxuip3vw9qw",
-"https://politics.raisethemoney.com/en/rortiz",
-"https://raulortizforassembly.com/",
-"https://raulortizforassembly.com/a/login?site_return_path=%2F",
-"https://raulortizforassembly.com/about",
-"https://raulortizforassembly.com/contact-us",
-"https://raulortizforassembly.com/donate",
-"https://raulortizforassembly.com/espanol",
-"https://raulortizforassembly.com/events",
-"https://raulortizforassembly.com/gallery",
-"https://raulortizforassembly.com/media",
-"https://raulortizforassembly.com/news-links",
-"https://raulortizforassembly.com/privacy-policy",
-"https://raulortizforassembly.com/support",
-"https://raulortizforassembly.com/volunteer"
+{
+"text": "(562) 619-0183",
+"href": "tel:%28562%29%20619-0183"
+},
+{
+"text": "About",
+"href": "https://www.raulortizforassembly.com/about"
+},
+{
+"text": "Call",
+"href": "tel:+15626190183"
+},
+{
+"text": "Connect",
+"href": "https://www.raulortizforassembly.com/contact-us"
+},
+{
+"text": "Contact Us",
+"href": "https://www.raulortizforassembly.com/contact-us"
+},
+{
+"text": "Designed by Dré Design Pro",
+"href": "https://dredesignpro.com"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/rortiz"
+},
+{
+"text": "Donate",
+"href": "https://www.raulortizforassembly.com/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://politics.raisethemoney.com/en/rortiz"
+},
+{
+"text": "Español",
+"href": "https://www.raulortizforassembly.com/espanol"
+},
+{
+"text": "Events",
+"href": "https://www.raulortizforassembly.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.raulortizforassembly.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.raulortizforassembly.com/"
+},
+{
+"text": "Login",
+"href": "https://www.raulortizforassembly.com/a/login?site_return_path=%2F"
+},
+{
+"text": "Media",
+"href": "https://www.raulortizforassembly.com/media"
+},
+{
+"text": "News/Links",
+"href": "https://www.raulortizforassembly.com/news-links"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.raulortizforassembly.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.raulortizforassembly.com/support"
+},
+{
+"text": "Volunteer",
+"href": "https://www.raulortizforassembly.com/volunteer"
+},
+{
+"text": "[image: Politicaltheme3 2x]",
+"href": "https://d14tal8bchn59o.cloudfront.net/9JbL7Xl9XmiePv9PnWTJWCCfq3ottBlw8mlCysafL1Q/w:1920/fn:politicaltheme3_2x/plain/s3://multisiteadmin-production/fh6z872ll3t5o36828zkijbawuvt"
+},
+{
+"text": "[image: Politicaltheme4 2x]",
+"href": "https://d14tal8bchn59o.cloudfront.net/MNz-X72bhMqnn0xfF64zW-cFUNznBYlMmLbb2vtq7Lc/w:1920/fn:politicaltheme4_2x/plain/s3://multisiteadmin-production/e91hkw5vur3q9ugw01ox7efkx3fr"
+},
+{
+"text": "[image] Raul Ortiz",
+"href": "https://www.raulortizforassembly.com/"
+},
+{
+"text": "[tooltip: Follow us on Facebook Page]",
+"href": "https://www.facebook.com/raulforassembly"
+},
+{
+"text": "[tooltip: Follow us on Instagram]",
+"href": "https://www.instagram.com/raulforassembly/"
+}
 ]

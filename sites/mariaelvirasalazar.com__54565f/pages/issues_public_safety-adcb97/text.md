@@ -1,19 +1,20 @@
-Endorsed by Leading Law Enforcement Organizations
-South Florida Police Benevolent Association
-Miami Fraternal Order of Police
-Police Officers’ Defense Coalition
-Hispanic Police Officers Association
-Miami-Dade Sheriff Rosie Cordero-Stutz
-Recognized for her strong support of law enforcement, commitment to public safety, and efforts to ensure officers have the resources they need to protect South Florida.
-- My TAKE IT DOWN Act is now Law: Led and secured passage of the bipartisan, bicameral TAKE IT DOWN Act, unanimously approved by the Senate and passed by the House, to protect victims, especially women and children, from non-consensual intimate images and AI-generated deepfake pornography by holding online predators accountable while upholding free speech.
-Learn More
-- $1.25 Million for Miami-Dade Sheriff’s Office Violence Reduction Initiative: Supports a strategic effort to combat gun violence by targeting illegal firearms, reducing gun-related crime, and strengthening public safety across Miami-Dade.
-- $2.1 Million for City of Miami Police Cruisers: Secured funding to acquire additional marked police cruisers equipped with lights and sirens, strengthening law enforcement presence and enhancing community safety across Miami.
-- $3.75 Million for Miami-Dade Police Department Platform Upgrade: Enhances law enforcement capabilities by replacing outdated laptops with advanced smartphones and the DeX platform, boosting in-vehicle computing efficiency and providing officers with up-to-date investigative tools.
-- I Recognized Miami Police Officers for their Bravery protecting us: Honored 75 officers from Florida’s 27th Congressional District for their exceptional bravery and service.
-- I Recognized Miami Firefighters for their Heroism: Honored over 30 firefighters in South Florida for their significant contributions to our district safety and their heroic efforts.
-- I Introduced the SERVICE Act for Veterans and Law Enforcement: Launches a pilot program through the U.S.
+En Español Follow on social media: En Español Donate Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store En Español Donate Public Safety Public Safety ISSUES: Small Business & the Economy Environment Healthcare Infrastructure Public Safety Seniors Fight Against Socialism Main Page Endorsed by Leading Law Enforcement Organizations South Florida Police Benevolent Association Miami Fraternal Order of Police Police Officers’ Defense Coalition Hispanic Police Officers Association Miami-Dade Sheriff Rosie Cordero-Stutz Recognized for her strong support of law enforcement, commitment to public safety, and efforts to ensure officers have the resources they need to protect South Florida.
+Here are some of my key accomplishments: My TAKE IT DOWN Act is now Law: Led and secured passage of the bipartisan, bicameral TAKE IT DOWN Act, unanimously approved by the Senate and passed by the House, to protect victims, especially women and children, from non-consensual intimate images and AI-generated deepfake pornography by holding online predators accountable while upholding free speech.
+Learn More $1.25 Million for Miami-Dade Sheriff’s Office Violence Reduction Initiative: Supports a strategic effort to combat gun violence by targeting illegal firearms, reducing gun-related crime, and strengthening public safety across Miami-Dade. $2.1 Million for City of Miami Police Cruisers: Secured funding to acquire additional marked police cruisers equipped with lights and sirens, strengthening law enforcement presence and enhancing community safety across Miami. $3.75 Million for Miami-Dade Police Department Platform Upgrade: Enhances law enforcement capabilities by replacing outdated laptops with advanced smartphones and the DeX platform, boosting in-vehicle computing efficiency and providing officers with up-to-date investigative tools.
+I Recognized Miami Police Officers for their Bravery protecting us: Honored 75 officers from Florida’s 27th Congressional District for their exceptional bravery and service.
+I Recognized Miami Firefighters for their Heroism: Honored over 30 firefighters in South Florida for their significant contributions to our district safety and their heroic efforts.
+I Introduced the SERVICE Act for Veterans and Law Enforcement: Launches a pilot program through the U.S.
 Department of Justice to establish veteran response teams within law enforcement, supporting veterans in crisis and connecting them with essential resources.
-- Ongoing Roundtables with Police and Firefighters: Hosts regular meetings with local police and firefighters to understand their challenges and seek ways to enhance public safety in South Florida.
-- Supporting Law Enforcement Resolution: I cosponsored and helped pass a resolution expressing support for police officers and recognizing the critical role they play in keeping our communities safe.
-- Protecting Americans Abroad: I cosponsored the Commission on Americans Living Abroad bill to ensure federal laws and policies are fair for U.S. citizens living overseas, including civilians and members of the Armed Forces.
+Ongoing Roundtables with Police and Firefighters: Hosts regular meetings with local police and firefighters to understand their challenges and seek ways to enhance public safety in South Florida.
+Supporting Law Enforcement Resolution: I cosponsored and helped pass a resolution expressing support for police officers and recognizing the critical role they play in keeping our communities safe.
+Protecting Americans Abroad: I cosponsored the Commission on Americans Living Abroad bill to ensure federal laws and policies are fair for U.S. citizens living overseas, including civilians and members of the Armed Forces.
+ISSUES: Small Business & the Economy Environment Healthcare Infrastructure Public Safety Seniors Fight Against Socialism Main Page Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Donate Email Address * Phone Number By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
+Recurring messages, msg&data rates may apply.
+Text JOIN to 46856.
+Text HELP for help.
+At any time, text STOP to cancel.
+SMS opt-in consent and data will not be shared with third parties.
+See privacy policy and terms and conditions here.
+Consent I would like to receive text message updates. Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow on social media: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com PRIVACY POLICY Paid for by Salazar for Congress

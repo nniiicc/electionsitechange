@@ -1,20 +1,86 @@
 [
-"https://adambairsouthdakota.com/",
-"https://adambairsouthdakota.com/accessibility-statement",
-"https://adambairsouthdakota.com/contact-our-campaign",
-"https://adambairsouthdakota.com/donate",
-"https://adambairsouthdakota.com/endorsements",
-"https://adambairsouthdakota.com/issues",
-"https://adambairsouthdakota.com/links",
-"https://adambairsouthdakota.com/meet-adam",
-"https://adambairsouthdakota.com/terms-of-service",
-"https://adambairsouthdakota.com/volunteer",
-"https://adambairsouthdakota.com/voting-info",
-"https://adambairsouthdakota.com/want-a-yard-sign",
-"https://facebook.com/profile.php?id=61578112494544",
-"https://heyvictor.com/",
-"https://instagram.com/adambairforsd",
-"https://secure.actblue.com/donate/adam-bair-1",
-"https://tiktok.com/@adambairforsd",
-"https://x.com/AdamBairForSD"
+{
+"text": "Accessibility Statement",
+"href": "https://adambairsouthdakota.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Contact Our Campaign.",
+"href": "https://adambairsouthdakota.com/contact-our-campaign/"
+},
+{
+"text": "Donate",
+"href": "https://adambairsouthdakota.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adam-bair-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://adambairsouthdakota.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://adambairsouthdakota.com/"
+},
+{
+"text": "Issues",
+"href": "https://adambairsouthdakota.com/issues/"
+},
+{
+"text": "Links",
+"href": "https://adambairsouthdakota.com/links/"
+},
+{
+"text": "Meet Adam",
+"href": "https://adambairsouthdakota.com/meet-adam/"
+},
+{
+"text": "Terms of Service",
+"href": "https://adambairsouthdakota.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://adambairsouthdakota.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://adambairsouthdakota.com/voting-info/"
+},
+{
+"text": "Want A Yard Sign?",
+"href": "https://adambairsouthdakota.com/want-a-yard-sign/"
+},
+{
+"text": "[image] [image]",
+"href": "https://adambairsouthdakota.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578112494544"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/adambairforsd/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@adambairforsd"
+},
+{
+"text": "[tooltip: X/Twitter]",
+"href": "https://x.com/AdamBairForSD"
+},
+{
+"text": "https://adambairsouthdakota.com",
+"href": "https://adambairsouthdakota.com"
+}
 ]

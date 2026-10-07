@@ -1,26 +1,12 @@
-top of page
-Use tab to navigate through the menu items.
-ASSEMBLYMAN ED RA ANNOUNCES WINNER OF 2026 ‘THERE OUGHT TO BE A LAW’ CONTEST
-Assembly Minority Leader Ed Ra with contest winner Gabriella Rodia on Monday, June 22, 2026.
+top of page DONATE SUBSCRIBE MEET ED ON THE ISSUES LATEST UPDATES GET INVOLVED VOLUNTEER LAWN SIGN REQUEST GET IN TOUCH EVENTS Use tab to navigate through the menu items.
+PRESS RELEASES LATEST UPDATES MEDIA ADVISORY Search ASSEMBLYMAN ED RA ANNOUNCES WINNER OF 2026 ‘THERE OUGHT TO BE A LAW’ CONTEST Assembly Minority Leader Ed Ra with contest winner Gabriella Rodia on Monday, June 22, 2026.
 Assembly Minority Leader Ed Ra (R-Franklin Square) hosted his eighth annual “There Ought to Be a Law” ceremony on Monday, June 22 at Mineola High School, where he recognized 30 semi-finalists selected from 553 entries submitted by fifth-grade students across nine local schools.
 The annual contest invites students to think critically about ideas they think might make good laws.
-T
-Jun 241 min read
-ASSEMBLYMAN ED RA PRESENTS CAPITOL-FLOWN FLAGS TO LOCAL ELEMENTARY SCHOOLS
-Assemblyman Ed Ra (R-Franklin Square) presents a Capitol-flown flag during the Manor Oaks School Flag Day Assembly on Monday, June 15, 2026.
+T Jun 24 1 min read ASSEMBLYMAN ED RA PRESENTS CAPITOL-FLOWN FLAGS TO LOCAL ELEMENTARY SCHOOLS Assemblyman Ed Ra (R-Franklin Square) presents a Capitol-flown flag during the Manor Oaks School Flag Day Assembly on Monday, June 15, 2026.
 In celebration of Flag Day, Assemblyman Ed Ra (R-Franklin Square) presented four American flags, each flown over the New York State Capitol, to local elementary schools in the New Hyde Park-Garden City Park School District.
-Yesterday, Ra attended Manor Oaks School’s Flag Day assembly, where students learned about the symbolism of
-Jun 161 min read
-ASSEMBLY MINORITY LEADER RA CELEBRATES RECOGNITION OF ELLEN ANDRASICK AS SENIOR CITIZEN OF THE YEAR
-Assembly Minority Leader Ed Ra presents Ellen Andrasick with an Assembly proclamation Assembly Minority Leader Ed Ra (R-Franklin Square) presented Nassau County Senior Citizen of the Year Ellen Andrasick with an official Assembly proclamation to commemorate her lifetime of service, leadership and commitment to helping others.
-Ellen represents the highest ideal of civic engagement, having served in multiple leadership roles in the Order Sons and Daughters of Italy in America,
-May 261 min read
-ASSEMBLY MINORITY LEADER RA WELCOMES PRESIDENT OF LONG ISLAND FEDERATION OF LABOR JOHN DURSO TO CAPITOL
-Pictured L to R: Assemblyman Mike Durso, John Durso, Assemblyman Angelo Morinello, Leader Ra.
+Yesterday, Ra attended Manor Oaks School’s Flag Day assembly, where students learned about the symbolism of Jun 16 1 min read ASSEMBLY MINORITY LEADER RA CELEBRATES RECOGNITION OF ELLEN ANDRASICK AS SENIOR CITIZEN OF THE YEAR Assembly Minority Leader Ed Ra presents Ellen Andrasick with an Assembly proclamation Assembly Minority Leader Ed Ra (R-Franklin Square) presented Nassau County Senior Citizen of the Year Ellen Andrasick with an official Assembly proclamation to commemorate her lifetime of service, leadership and commitment to helping others.
+Ellen represents the highest ideal of civic engagement, having served in multiple leadership roles in the Order Sons and Daughters of Italy in America, May 26 1 min read ASSEMBLY MINORITY LEADER RA WELCOMES PRESIDENT OF LONG ISLAND FEDERATION OF LABOR JOHN DURSO TO CAPITOL Pictured L to R: Assemblyman Mike Durso, John Durso, Assemblyman Angelo Morinello, Leader Ra.
 Today, Assembly Minority Leader Ed Ra welcomed the Long Island Federation of Labor President John Durso as part of the Italian American Day celebration at the Capitol.
 The New York Conference of Italian American State Legislators hosts the annual event to promote and celebrate Italian culture, fellowship and traditional Italian food and festivities.
-Durso was presented with an offici
-May 181 min read
-ENDORSEMENTS
-GET THE LATEST UPDATES
-bottom of page
+Durso was presented with an offici May 18 1 min read ENDORSEMENTS GET THE LATEST UPDATES Home Meet Ed Latest Updates Events Get Involved Get In Touch © # by Ed Ra.
+Powered and secured by Wix Friends of Ed Ra ​ PO Box 8088 Garden City, NY 11530 ​ ​ ​ ​ ​ voteedra@gmail.com bottom of page

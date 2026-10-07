@@ -1,18 +1,2 @@
-Mike Scala in His Own Words
-- 05.14 2026 Op-Ed: The Return of Democracy
-- 04.23 2026 Op-Ed: When Politics Becomes Politricks
-News & Media Coverage
-- October 7, 2016
-- September 29, 2016
-- September 26, 2016
-- September 26, 2016
-- September 13, 2016
-- September 8, 2016
-- August 12, 2016
-- August 11, 2016
-- August 10, 2016
-- August 7, 2016
-- July 29, 2016
-- April 22, 2016
-- April 21, 2016
-- April 21, 2016
+Facebook Instagram Twitter Queens, NY Home Meet Mike Issues Press Room Contribute Skip to content Press Room Mike Scala in His Own Words 05.14 2026 Op-Ed: The Return of Democracy 04.23 2026 Op-Ed: When Politics Becomes Politricks 03.26 2026 Close the Loophole That Shortchanges Our Workers Next Page News & Media Coverage October 7, 2016 QPTC Candidates Night October 6, 2016 Candidates Share Stances on Area Transportation Issues at Civic Election Forum September 29, 2016 Debate Night At Bungalow Bar September 26, 2016 Debate Watch Party and Candidates Night in Rockaway September 26, 2016 Queens debate watch parties abound September 13, 2016 Governor Signs Missing Adults Bill Drafted by Scala September 8, 2016 Ticket to Success August 12, 2016 QPTC Says Thumbs Down On SBS August 11, 2016 Residents Keep Fighting SBS Plan August 10, 2016 Hundreds Rally Against SBS Plan August 7, 2016 Opponents Protest Select Bus Service Plan in Woodhaven July 29, 2016 Locals Rally For Police April 22, 2016 Beachcomber April 21, 2016 Sanders aide might run for Ulrich’s seat April 21, 2016 High Tide Previous Page 1 … 13 14 15 16 17 Next Page Search for: New York State Assembly District 23 includes all or parts of Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hamilton Beach, Howard Beach, Lindenwood, Ozone Park, Neponsit, Rockaway Beach, Rockaway Park and Roxbury in Queens.
+Paid for by Scala for New York

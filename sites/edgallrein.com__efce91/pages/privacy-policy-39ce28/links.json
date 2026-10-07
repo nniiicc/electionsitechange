@@ -1,9 +1,46 @@
 [
-"https://edgallrein.com/",
-"https://edgallrein.com/media",
-"https://edgallrein.com/privacy-policy",
-"https://facebook.com/EdGallreinforCongress?rdid=ZuGswivHgsrbhif0",
-"https://secure.winred.com/gallrein-for-congress/donate",
-"https://secure.winred.com/gallrein-for-congress/storefront",
-"https://x.com/EdGallrein"
+{
+"text": "Contact",
+"href": "mailto:info@edgallrein.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gallrein-for-congress/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EdGallreinforCongress/?rdid=ZuGswivHgsrbhif0"
+},
+{
+"text": "Media",
+"href": "https://www.edgallrein.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.edgallrein.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/gallrein-for-congress/storefront/"
+},
+{
+"text": "Terms& Conditions and Privacy Policy.",
+"href": "https://www.edgallrein.com/privacy-policy"
+},
+{
+"text": "X",
+"href": "https://x.com/EdGallrein"
+},
+{
+"text": "[image]",
+"href": "https://www.edgallrein.com/"
+},
+{
+"text": "info@edgallrein.com",
+"href": "mailto:info@edgallrein.com"
+},
+{
+"text": "press@edgallrein.com",
+"href": "mailto:press@edgallrein.com"
+}
 ]

@@ -1,15 +1,90 @@
 [
-"https://discord.gg/gUT4F4CjuQ",
-"https://electwilliamdehnel.org/",
-"https://electwilliamdehnel.org/about",
-"https://electwilliamdehnel.org/education",
-"https://electwilliamdehnel.org/get-involved",
-"https://electwilliamdehnel.org/healthcare",
-"https://electwilliamdehnel.org/infrastructure",
-"https://electwilliamdehnel.org/lgbtq",
-"https://electwilliamdehnel.org/lgbtq+",
-"https://electwilliamdehnel.org/taxes",
-"https://facebook.com/profile.php?id=61582417957404",
-"https://secure.actblue.com/donate/william-dehnel",
-"https://tiktok.com/"
+{
+"text": "About",
+"href": "https://electwilliamdehnel.org/about/"
+},
+{
+"text": "Discord",
+"href": "https://discord.gg/gUT4F4CjuQ"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/william-dehnel"
+},
+{
+"text": "Education",
+"href": "https://electwilliamdehnel.org/education/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61582417957404"
+},
+{
+"text": "Get Involved",
+"href": "https://electwilliamdehnel.org/get-involved/"
+},
+{
+"text": "Healthcare",
+"href": "https://electwilliamdehnel.org/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://electwilliamdehnel.org/"
+},
+{
+"text": "Infrastructure",
+"href": "https://electwilliamdehnel.org/infrastructure/"
+},
+{
+"text": "Join",
+"href": "https://electwilliamdehnel.org/get-involved/"
+},
+{
+"text": "Join Us",
+"href": "https://electwilliamdehnel.org/get-involved/"
+},
+{
+"text": "LGBTQ+",
+"href": "https://electwilliamdehnel.org/lgbtq+/"
+},
+{
+"text": "Learn More About William →",
+"href": "https://electwilliamdehnel.org/about/"
+},
+{
+"text": "Learn More →",
+"href": "https://electwilliamdehnel.org/education/"
+},
+{
+"text": "Learn More →",
+"href": "https://electwilliamdehnel.org/healthcare/"
+},
+{
+"text": "Learn More →",
+"href": "https://electwilliamdehnel.org/infrastructure/"
+},
+{
+"text": "Learn More →",
+"href": "https://electwilliamdehnel.org/lgbtq/"
+},
+{
+"text": "Learn More →",
+"href": "https://electwilliamdehnel.org/taxes/"
+},
+{
+"text": "Taxes",
+"href": "https://electwilliamdehnel.org/taxes/"
+},
+{
+"text": "TikTok",
+"href": "https://tiktok.com"
+},
+{
+"text": "William for LD 2",
+"href": "https://electwilliamdehnel.org"
+},
+{
+"text": "[image: William for LD 2]",
+"href": "https://electwilliamdehnel.org/"
+}
 ]

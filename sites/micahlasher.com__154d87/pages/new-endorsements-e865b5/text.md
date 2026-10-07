@@ -1,51 +1,37 @@
-Jerry Nadler
-Congressman
-“Micah Lasher will bring a sense of urgency, creativity, and fearlessness to Congress.
+Skip to main content Skip to footer Opens in a new tab Meet Micah Platform Fighting Back Against Trumpism Tackling Affordability Protecting Immigrants and Defending Civil Rights Ensuring Health Care for All Improving Public Safety and Quality of Life Championing Reproductive Health and Freedom Stopping Corruption Strengthening our Public Schools and Colleges Combating Hate Crimes and Antisemitism Leading on Climate Change and Environmental Protection Strengthening Rights and Protections for the LGBTQ+ Community Restoring a Principled, Lawful, and Effective Foreign Policy Holding Big Tech Corporations Accountable and Putting Safeguards on AI Project 2026 Endorsements News & Updates Contribute Volunteer Meet Micah Platform & Policies Endorsements News & Updates Project 2026 Donate Endorsements Community leaders and elected officials are proudly supporting Micah for Congress Jerry Nadler Congressman “Micah Lasher will bring a sense of urgency, creativity, and fearlessness to Congress.
 And I know his sharp mind and big heart will serve the people of this district incredibly well.
 Micah is not just ready for the fight ahead of him in Washington.
-He’s ready to lead it.“
-- Kathy HochulGovernor
-- Nydia VelázquezCongresswoman
-- MICHAEL BLOOMBERGFormer Mayor
-- David PatersonFormer Governor
-- Mark LevineCity Comptroller
-- Brad Hoylman-SigalBorough President
-- Gale BrewerCity Councilmember and former Borough President
-- Erik BottcherState Senator
-- BRIAN KavanaghState Senator
-- Linda B.
-RosenthalAssemblymember
-- Deborah GlickAssemblymember
-- Shaun AbreuCity Council Majority Leader
-- Carl WilsonCity Councilmember
-- RICHARD GOTTFRIEDFormer Assemblymember
-- Dan GarodnickFormer City Councilmember
-- Carl McCallFormer State Comptroller
-- Scott StringerFormer City Comptroller and Borough President
-- DIANA AYALAFormer City Councilmember
-- CHRISTINE QUINNFormer City Council Speaker
-- Ruth MessingerFormer Borough President
-- Liam ElkindFormer CD-12 Candidate
-- 32BJ SEIU
-- Abundance New york
-- Actors' equity association
-- BRADY PAC
-- Broadway Democrats
-- Columbia university democrats
-- Congressional progressive caucus pac
-- Council of school supervisors and administrators
-- CWA LOCAL 1180
-- Eleanor Roosevelt Independent Democrats
-- Future Forum PAC
-- Giffords pac
-- Hell's Kitchen Democrats
-- Moms demand action: GUN sense candidate
-- NYS AFL-CIO
-- New york league of conservation voters
-- public employees federation
-- Samuel J.
-Tilden Democratic Club
-- THIRD ACT NYC
-- Three Parks Independent Democrats
-- Village Independent Democrats
-- West Side Democrats
+He’s ready to lead it. “ Kathy Hochul Governor “Micah knows how to use the legislative process to make meaningful change — not just on one issue, but on the many fronts Democrats must be fighting right now.
+He is exactly the kind of thoughtful, effective leader we need fighting for us in Congress.
+That’s why I am so proud to endorse him.” Nydia Velázquez Congresswoman “Whether it’s working to protect immigrants and abolish ICE, defend the right to choose, or champion policies like Medicare for All and universal child care that will make life more affordable, Democrats can count on Micah Lasher to lead the fight in Washington .
+I’m proud to endorse him for Congress. “ MICHAEL BLOOMBERG Former Mayor “At a moment like this, New Yorkers need representatives with the imagination to offer bold new ideas, the experience to get big things done, and the courage to take on the toughest fights.
+That’s why I will be voting for Micah Lasher for Congress this year. “ David Paterson Former Governor “Micah Lasher will bring two things to Congress that are really important.
+He has a proven record of taking on powerful interests to protect New Yorkers, our rights, and our values.
+And he has the rare ability not just to come up with new, progressive policy ideas, but to turn them into law .” Mark Levine City Comptroller “Micah has shown time and again that he is one of the most creative and effective thinkers we have in the fight against the Trump regime.
+At this challenging moment, we would all benefit greatly from having Micah Lasher’s leadership in Washington.” Brad Hoylman-Sigal Borough President “Micah Lasher is exactly what the Democratic Party needs in Congress — a policy dynamo who’s never been afraid of tough fights and an experienced leader who gets results.
+From Day One in Congress, Micah will be a nightmare for Donald Trump and his MAGA minions , and he’ll bring badly needed energy to Democrats in Washington.” Gale Brewer City Councilmember and former Borough President “I’ve known Micah Lasher for years and seen the passion he brings to so many of today’s big issues.
+I’ve also seen the incredible focus he brings to issues that may only matter to a neighborhood, a block, or a single building.
+His experience in government is unique and will make him a powerful new voice in Congress .” Erik Bottcher State Senator “Micah has a long record standing up to the powerful and advancing the progressive cause —on issues from abortion rights to protecting and creating affordable housing to LGBTQ+ equality.
+I’m proud to endorse Micah and excited for the change I know he’ll help bring to Washington.” BRIAN Kavanagh State Senator “Micah Lasher is the kind of leader the Democratic party needs in Congress right now.
+He’s someone who’s shown again and again he knows how to turn smart ideas into progressive policy , take on powerful interests, and get results.” Linda B.
+Rosenthal Assemblymember “Filling Jerry Nadler’s shoes on the West Side and in the halls of our nation’s Capitol is no easy feat.
+However, no one is more capable of taking on that formidable challenge than my colleague and friend, Assemblymember Micah Lasher.” Deborah Glick Assemblymember “Micah Lasher is exactly the kind of leader the Democratic Party needs in Washington right now — someone with the energy and resourcefulness to battle Trump and the Republicans and a legislator who’s taken on tough fights and gotten results.” Shaun Abreu City Council Majority Leader “Micah Lasher has the relentless drive and proven track record New Yorkers demand.
+From bringing down long-standing scaffolding to taking on the national battles, Micah has shown he knows how to fight and how to win .
+He is the leader this moment demands.” Carl Wilson City Councilmember RICHARD GOTTFRIED Former Assemblymember “Micah Lasher has the relentless drive and proven track record New Yorkers demand.
+From bringing down long-standing scaffolding to taking on the national battles, Micah has shown he knows how to fight and how to win .
+He is the leader this moment demands.” Dan Garodnick Former City Councilmember “I have seen first-hand, on so many occasions, the knowledge, integrity, and moral clarity that Micah brings to every issue .
+Quite simply, there is no one better prepared to fight for New Yorkers and their values — and against the Trump Administration — in Congress.” Carl McCall Former State Comptroller “Micah Lasher will bring new energy and ideas to Congress.
+He’s a policy dynamo who’s emerged as one of the most effective legislators in Albany and a national leader in the fight against Donald Trump and his enablers.” Scott Stringer Former City Comptroller and Borough President “Micah Lasher wrote the playbook for what blue states should be doing to fight back against Trump—and he’s led the resistance here in New York .
+His deep knowledge of policy and government will make him a nightmare for the craven Republicans in Congress.
+And at a time when the Democratic Party desperately needs new ideas and energy, Micah Lasher will bring a lot of both to Washington.” DIANA AYALA Former City Councilmember “Micah Lasher will continue in this district’s long tradition of fearless, principled leadership .
+He’s a strong progressive who never hesitates to take on powerful interests—from Big Oil to Elon Musk.
+Micah will do something that’s too rare these days in Washington—stand up for the most vulnerable among us.” CHRISTINE QUINN Former City Council Speaker “Micah Lasher will continue in this district’s long tradition of fearless, principled leadership .
+He’s a strong progressive who never hesitates to take on powerful interests—from Big Oil to Elon Musk.
+Micah will do something that’s too rare these days in Washington—stand up for the most vulnerable among us.” Ruth Messinger Former Borough President “Micah Lasher will continue in this district’s long tradition of fearless, principled leadership .
+He’s a strong progressive who never hesitates to take on powerful interests—from Big Oil to Elon Musk.
+Micah will do something that’s too rare these days in Washington—stand up for the most vulnerable among us.” Liam Elkind Former CD-12 Candidate “Micah will bring his track record of turning big ideas into progress to Washington DC.
+From holding giant corporations accountable with the MEGA Act to his work fighting back against the Trump administration’s assault on our democracy, Micah will fight and win for New York City. “ 32BJ SEIU Abundance New york Actors' equity association BRADY PAC Broadway Democrats Columbia university democrats Congressional progressive caucus pac Council of school supervisors and administrators CWA LOCAL 1180 Eleanor Roosevelt Independent Democrats Future Forum PAC Giffords pac Hell's Kitchen Democrats Moms demand action: GUN sense candidate NYS AFL-CIO New york league of conservation voters public employees federation Samuel J.
+Tilden Democratic Club THIRD ACT NYC Three Parks Independent Democrats Village Independent Democrats West Side Democrats Meet Micah Platform & Policies Endorsements News & Updates Contribute Volunteer Donate by Mail Lasher for Congress ATTN: Robert Gottheim, Treasurer 200 W.
+79th Street, #8N New York, NY 10024 Contact Us Paid for by Lasher for Congress ©# Lasher for Congress.
+All Rights Reserved.
+Privacy Policy

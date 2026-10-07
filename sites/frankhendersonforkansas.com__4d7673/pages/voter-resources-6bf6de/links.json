@@ -1,18 +1,126 @@
 [
-"https://aclukansas.org/election-protection",
-"https://facebook.com/FrankHendersonForKansas",
-"https://frankhendersonforkansas.com/",
-"https://frankhendersonforkansas.com/endorsements-and-testimonials",
-"https://frankhendersonforkansas.com/priorities",
-"https://frankhendersonforkansas.com/request-a-sign",
-"https://frankhendersonforkansas.com/volunteer",
-"https://frankhendersonforkansas.com/voter-resources",
-"https://imvotingunion.com/",
-"https://instagram.com/kansashd6",
-"https://kdor.ks.gov/apps/voterreg",
-"https://miamicoksdems.org/",
-"https://myvoteinfo.voteks.org/",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://secure.actblue.com/donate/frank-henderson-4ksh6",
-"https://vote411.org/kansas"
+{
+"text": "Check Your Voter Registration",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "Connect",
+"href": "https://miamicoksdems.org/"
+},
+{
+"text": "Connect with the",
+"href": "https://miamicoksdems.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/frank-henderson-4ksh6"
+},
+{
+"text": "Donation.",
+"href": "https://secure.actblue.com/donate/frank-henderson-4ksh6"
+},
+{
+"text": "Endorsements & Testimonials",
+"href": "https://frankhendersonforkansas.com/endorsements-and-testimonials"
+},
+{
+"text": "Get Voter Assistance",
+"href": "https://www.aclukansas.org/election-protection/"
+},
+{
+"text": "Here",
+"href": "https://frankhendersonforkansas.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://frankhendersonforkansas.com/"
+},
+{
+"text": "ImVotingUnion.com",
+"href": "https://imvotingunion.com/"
+},
+{
+"text": "Miami County Democrats",
+"href": "https://miamicoksdems.org/"
+},
+{
+"text": "Priorities",
+"href": "https://frankhendersonforkansas.com/priorities"
+},
+{
+"text": "Register to Vote!",
+"href": "https://www.kdor.ks.gov/apps/voterreg/"
+},
+{
+"text": "Request a Sign",
+"href": "https://frankhendersonforkansas.com/request-a-sign"
+},
+{
+"text": "Stay vote ready- confirm your status in minutes and verify your polling location at",
+"href": "https://myvoteinfo.voteks.org/"
+},
+{
+"text": "Verify your voting eligibility, and register to vote online",
+"href": "https://www.kdor.ks.gov/apps/voterreg/"
+},
+{
+"text": "Visit",
+"href": "https://imvotingunion.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://frankhendersonforkansas.com/volunteer"
+},
+{
+"text": "Vote 411 - Kansas",
+"href": "https://www.vote411.org/kansas"
+},
+{
+"text": "Voter Resources",
+"href": "https://frankhendersonforkansas.com/voter-resources"
+},
+{
+"text": "[image: Frank Henderson for Kansas House District 6 logo]",
+"href": "https://frankhendersonforkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://imvotingunion.com/"
+},
+{
+"text": "[image]",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "[image]",
+"href": "https://www.aclukansas.org/election-protection/"
+},
+{
+"text": "[image]",
+"href": "https://www.kdor.ks.gov/apps/voterreg/"
+},
+{
+"text": "[image]",
+"href": "https://www.vote411.org/kansas"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/FrankHendersonForKansas/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/kansashd6/"
+},
+{
+"text": "and enter your address to find the candidates on your ballot who have earned the endorsement of the Kansas AFL-CIO and local labor councils. These candidates have been reviewed and recommended by working people because of their commitment to unions, workers’ rights, fair wages, safe workplaces, and strong communities.",
+"href": "https://imvotingunion.com/"
+},
+{
+"text": "for local events, volunteer opportunities, voter resources, and ways to support Democratic candidates across our community. Visit",
+"href": "https://miamicoksdems.org/"
+},
+{
+"text": "voteks.org",
+"href": "https://myvoteinfo.voteks.org/"
+}
 ]

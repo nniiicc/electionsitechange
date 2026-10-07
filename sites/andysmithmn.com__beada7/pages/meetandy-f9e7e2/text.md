@@ -1,4 +1,5 @@
-Andy moved to Rochester with his wife Anna to start his dream business: an independent movie theater and coffee shop.
+Skip to Content Open Menu Close Menu Get Off the Couch Tour Get Involved Donate Subscribe Issues Healthcare Tax the Rich Abortion Thriving Communities Meet Andy 0 0 Donate Get Off the Couch Tour Get Involved Donate Subscribe Issues Healthcare Tax the Rich Abortion Thriving Communities Meet Andy 0 0 Donate Open Menu Close Menu Get Off the Couch Tour Folder: Get Involved Back Donate Subscribe Folder: Issues Back Healthcare Tax the Rich Abortion Thriving Communities Meet Andy Donate Meet Andy.
+Small Business Owner & Community Builder Andy moved to Rochester with his wife Anna to start his dream business: an independent movie theater and coffee shop.
 That vision led to Gray Duck Theater & Coffeehouse, a business that not only survived the pandemic but thrived, thanks to community support.
 Gray Duck was able to add several employees while operating responsibly during the ongoing COVID-19 pandemic, and every employee at Gray Duck makes at least $15/hr.
 In 2021, Andy and Anna started Garden Party Books, a used bookstore that’s located right next door to Gray Duck.
@@ -16,3 +17,5 @@ Some of his favorite books are The Color Purple, The Lord of the Rings, The Hous
 Some of his favorite movies are Do The Right Thing, Sing Street, The Lord of the Rings, La La Land, Parasite, and Moonlight.
 Andy and Anna have been married for twelve years and live with two adorable cats named Cali and Min.
 They have 16 nieces and nephews spread all over the country who inspire them to fight for the next generation.
+Prepared and paid for by the Andy Smith for House Committee, PO Box 321, Rochester, MN 55903.
+PO Box #321, Rochester, MN 55903 info@andysmithmn.com Made with Squarespace

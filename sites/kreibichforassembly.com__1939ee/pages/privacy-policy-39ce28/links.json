@@ -1,15 +1,42 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://kreibechforassembly.com/",
-"https://kreibichforassembly.com/",
-"https://kreibichforassembly.com/about",
-"https://kreibichforassembly.com/cdn-cgi/l/email-protection",
-"https://kreibichforassembly.com/issues",
-"https://kreibichforassembly.com/join",
-"https://kreibichforassembly.com/privacy-policy",
-"https://secure.winred.com/kreibich-for-assembly/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "About",
+"href": "https://www.kreibichforassembly.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kreibich-for-assembly/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://www.kreibichforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kreibichforassembly.com/issues"
+},
+{
+"text": "Join",
+"href": "https://www.kreibichforassembly.com/join"
+},
+{
+"text": "Kreibechforassembly.com",
+"href": "https://kreibechforassembly.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kreibichforassembly.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@kreibechforassembly.com"
+},
+{
+"text": "[image]",
+"href": "https://www.kreibichforassembly.com/"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

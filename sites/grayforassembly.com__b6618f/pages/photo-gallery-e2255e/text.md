@@ -1,3 +1,1 @@
-friendsofgray@gmail.com
-Scott Gray for Assembly | New York State Assembly, 116th District
-Experienced Businessman and Legislator asks for the North Country Vote
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate Photo Gallery On The Campaign Trail On The Job – 6 Years As Chairman of Jefferson County Board of Legislators Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

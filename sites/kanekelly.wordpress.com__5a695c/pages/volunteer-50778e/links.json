@@ -1,20 +1,86 @@
 [
-"https://automattic.com/cookies",
-"https://facebook.com/kanekellyTX",
-"https://kanekelly.wordpress.com/",
-"https://kanekelly.wordpress.com/2026/06/05/june-13-2026-joint-runoff-election",
-"https://kanekelly.wordpress.com/2026/06/10/candidate-application",
-"https://kanekelly.wordpress.com/2026/06/27/end-of-campaign",
-"https://kanekelly.wordpress.com/about",
-"https://kanekelly.wordpress.com/author/visualmediumindependent",
-"https://kanekelly.wordpress.com/platform",
-"https://kanekelly.wordpress.com/the-political-process",
-"https://kanekelly.wordpress.com/volunteer",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fkanekelly.wordpress.com%2Fvolunteer%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fvolunteer%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/250107122/posts/27",
-"https://wordpress.com/start",
-"https://wp.me/PgVqhQ-r"
+{
+"text": "About",
+"href": "https://kanekelly.wordpress.com/about/"
+},
+{
+"text": "Blog at WordPress.com.",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Candidate Application",
+"href": "https://kanekelly.wordpress.com/2026/06/10/candidate-application/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/PgVqhQ-r"
+},
+{
+"text": "End of Campaign",
+"href": "https://kanekelly.wordpress.com/2026/06/27/end-of-campaign/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/kanekellyTX/"
+},
+{
+"text": "Home",
+"href": "https://kanekelly.wordpress.com/"
+},
+{
+"text": "June 13, 2026 – Joint Runoff Election",
+"href": "https://kanekelly.wordpress.com/2026/06/05/june-13-2026-joint-runoff-election/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fvolunteer%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fvolunteer%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Platform",
+"href": "https://kanekelly.wordpress.com/platform/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fkanekelly.wordpress.com%2Fvolunteer%2F"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "The Compass",
+"href": "https://kanekelly.wordpress.com/the-political-process/"
+},
+{
+"text": "VMI",
+"href": "https://kanekelly.wordpress.com/author/visualmediumindependent/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/250107122/posts/27"
+},
+{
+"text": "Volunteer",
+"href": "https://kanekelly.wordpress.com/volunteer/"
+},
+{
+"text": "[image: VMI's avatar]",
+"href": "https://kanekelly.wordpress.com/author/visualmediumindependent/"
+},
+{
+"text": "[image]kanekelly.com",
+"href": "https://kanekelly.wordpress.com"
+},
+{
+"text": "kanekelly.com",
+"href": "https://kanekelly.wordpress.com"
+}
 ]

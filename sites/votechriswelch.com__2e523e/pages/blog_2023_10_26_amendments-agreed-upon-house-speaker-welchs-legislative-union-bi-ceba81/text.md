@@ -1,8 +1,7 @@
-Amendments agreed upon, House Speaker Welch's legislative union bill advances in House
-A bill allowing the unionization of legislative staff passed in the Illinois House of Representatives on Wednesday and now heads to the Senate.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Amendments agreed upon, House Speaker Welch's legislative union bill advances in House A bill allowing the unionization of legislative staff passed in the Illinois House of Representatives on Wednesday and now heads to the Senate.
 House Bill 4148 passed in a 74-35 vote along party lines following a short debate.
 As promised, House Speaker Emanuel "Chris" Welch filed amendments to his bill after it passed in committee yesterday.
 Mostly correcting drafting errors, the amendment changes the creation date of the Office of State Legislative Labor Relations — which would represent staff in collective bargaining matters — to one year before the bill's effective date on July 1, 2026.
 It also reduces the original 30-day notice to strike to five days.
 “From janitors to researchers, every member of our legislative staff is critical to what we do in Springfield,” said Welch in a news release.
-“They deserve the right to unionize, and I am proud to spearhead the legislation that makes Illinois one of the first states in our nation to allow that to happen.”
+“They deserve the right to unionize, and I am proud to spearhead the legislation that makes Illinois one of the first states in our nation to allow that to happen.” Read More Guest User October 26, 2023 Facebook 0 Twitter Pinterest 0 0 Likes Previous Welch Secures Votes for Third Term as House Speaker Jordan Evans November 8, 2024 Next Illinois House speaker files bill authorizing legislative staff union Jordan Evans September 29, 2023 Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

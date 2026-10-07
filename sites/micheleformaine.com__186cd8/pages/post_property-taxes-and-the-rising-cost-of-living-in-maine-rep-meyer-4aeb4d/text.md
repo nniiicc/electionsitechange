@@ -1,9 +1,7 @@
-Property taxes and the rising cost of living in Maine: Rep.
-Meyer
-Rep.
-MicheleMeyer
-Guest Columnist
-For families in York County and across Maine, the rising cost of living is making it harder to make ends meet.
+top of page HOME ABOUT CONTACT CONTRIBUTE NEWS FIND MY DISTRICT More Use tab to navigate through the menu items.
+In the news News & Press Search Property taxes and the rising cost of living in Maine: Rep.
+Meyer Sep 26, 2025 3 min read Rep.
+MicheleMeyer Guest Columnist From SeacoastOnline.com For families in York County and across Maine, the rising cost of living is making it harder to make ends meet.
 The costs of housing, child care, health care and more have left folks struggling to keep up with their bills – let alone save for a rainy day or to get ahead.
 When it comes to rising housing costs in particular, property taxes are one of a number of contributing factors.
 Since I was first elected to the Maine House in 2018, I have had countless conversations with constituents about property taxes, and I’ve worked hard to advance measures to provide relief.
@@ -29,3 +27,5 @@ That’s why this year, the Legislature unanimously supported legislation to exa
 It’s also why I am focused, as co-chair of the Legislature’s Health and Human Services Committee, on ensuring that all Mainers have access to quality health care that they can afford.
 And why I am dedicated to making our state more affordable and our economy stronger for everyone in the upcoming legislative session, which begins in January.
 My commitment to you is this: I will always work to lower the cost of living for Maine people, whether they are families working hard to get by or retirees who have worked hard their whole lives and deserve a dignified retirement.
+Recent Posts See All Gearing up for a State Senate race Mainspring celebrates impact on fighting hunger, poverty in Seacoast Rep.
+Meyer: Keeping children safe by keeping families strong ©# Paid for and authorized by Michele for Maine bottom of page

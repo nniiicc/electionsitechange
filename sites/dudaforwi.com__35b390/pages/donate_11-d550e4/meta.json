@@ -1,7 +1,9 @@
 {
  "description": "One multiple of 11 for Senate District 11. Secure donation via ActBlue, amount already selected.",
  "final_url": "https://www.dudaforwi.com/donate/11?refcode=site-header_11",
- "paid_for_by": null,
- "title": "$11 for SD-11 \u00b7 Adam Duda for State Senate",
+ "fingerprint": "2d3b25b424e75740868571edd60664e3172a76a0",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "$11 for SD-11 · Adam Duda for State Senate",
  "years_mentioned": []
 }

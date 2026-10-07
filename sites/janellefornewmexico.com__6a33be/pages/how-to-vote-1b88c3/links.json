@@ -1,110 +1,606 @@
 [
-"https://berncoclerk.gov/elections/absentee-voting/return-your-absentee-ballot",
-"https://berncoclerk.gov/elections/early-voting",
-"https://berncoclerk.gov/elections/election-day-voting",
-"https://google.com/maps/place/10131+Coors+Blvd+NW,+Albuquerque,+NM+87114/@35.2005281,-106.6507855,17z/data=!4m6!3m5!1s0x872271421edc2d9b:0x829e37785b882138!8m2!3d35.2005786!4d-106.650651!16s%2Fg%2F11c5pmtrzl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/10600+Indian+School+Rd+NE,+Albuquerque,+NM+87112/@35.0997429,-106.5276114,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a00c1616923b:0x6fa5db118a7f2893!8m2!3d35.0998874!4d-106.5278412!16s%2Fg%2F11bw401044?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1100+Texas+St+NE,+Albuquerque,+NM+87110/@35.0905408,-106.5533741,18z/data=!3m1!4b1!4m6!3m5!1s0x87220a95cfb18ee7:0x6973b9ad5aa32218!8m2!3d35.0904451!4d-106.5547242!16s%2Fg%2F11b8v52j74?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/11001+Camero+Ave+NE,+Albuquerque,+NM+87111/@35.1462275,-106.5166999,16z/data=!3m1!4b1!4m6!3m5!1s0x87189fc1545b7f35:0x6c1138d4a32bff8c!8m2!3d35.1462275!4d-106.5166999!16s%2Fg%2F11c4cjr8hf?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1101+Park+Ave+SW,+Albuquerque,+NM+87102/@35.086556,-106.661085,18z/data=!3m1!4b1!4m6!3m5!1s0x87220cc5bba0a4cb:0x2efd83a1b8be55e8!8m2!3d35.086546!4d-106.6611845!16s%2Fg%2F11bw415nfr?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/11300+Montgomery+Blvd+NE,+Albuquerque,+NM+87111/@35.128238,-106.513188,17z/data=!3m1!4b1!4m6!3m5!1s0x87189ff2e5c65ee5:0x2d98abe97d519835!8m2!3d35.128238!4d-106.513188!16s%2Fg%2F11c26gkrm2?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/120+98th+St+NW,+Albuquerque,+NM+87121/@35.074654,-106.7422108,21z/data=!4m6!3m5!1s0x872212b9487a2b43:0x29e572769c3f9d2d!8m2!3d35.0746549!4d-106.7422915!16s%2Fg%2F11c5n9tg71?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/12200+Lomas+Blvd+NE,+Albuquerque,+NM+87112/@35.0848381,-106.5112783,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a0677e2fde71:0xb4fb516573a41083!8m2!3d35.0848381!4d-106.5112783!16s%2Fg%2F11bw3x4_yl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/12415+Brentwood+Hills+Blvd+NE,+Albuquerque,+NM+87112/@35.1052209,-106.5035399,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a03bd94825fb:0x803e837ce3859399!8m2!3d35.1052209!4d-106.5035399!16s%2Fg%2F11c1bzdtm1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/12500+Montgomery+Blvd+NE+%23101,+Albuquerque,+NM+87111/@35.129965,-106.499321,16z/data=!3m1!4b1!4m5!3m4!1s0x87189f857e7f26ad:0x32b2238dc196dcb8!8m2!3d35.129965!4d-106.499321?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/13140+Central+Ave+SE+%231420,+Albuquerque,+NM+87123/@35.0680359,-106.4999696,17z/data=!3m1!4b1!4m5!3m4!1s0x8718a0f0026c05e7:0xe753f0206ada6631!8m2!3d35.0680359!4d-106.4999696?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/15+La+Madera+Rd,+Sandia+Park,+NM+87047/@35.1770588,-106.341065,17z/data=!3m1!4b1!4m6!3m5!1s0x8718978672e3ed07:0xe1bc2ecd34e3d215!8m2!3d35.1770588!4d-106.341065!16s%2Fg%2F11c1dmdys1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1500+Lomas+Blvd+NW,+Albuquerque,+NM+87104/@35.0924543,-106.6658523,17z/data=!3m1!4b1!4m5!3m4!1s0x87220cce120bc61b:0x341e6d14bb0887d9!8m2!3d35.0924499!4d-106.6636636",
-"https://google.com/maps/place/1505+Candelaria+Rd+NW,+Albuquerque,+NM+87107/@35.1253624,-106.661358,17z/data=!3m1!4b1!4m6!3m5!1s0x87227316d4337773:0x57cbce8561334c3e!8m2!3d35.1250447!4d-106.660816!16s%2Fg%2F11bw3gfcpc?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1510+Ellison+Dr+NW,+Albuquerque,+NM+87114/@35.204124,-106.663072,16z/data=!3m1!4b1!4m6!3m5!1s0x8722716d6acf84d3:0xe7575cc7f7c77188!8m2!3d35.204124!4d-106.663072!16s%2Fg%2F11c2fq194v?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1700+Mae+Ave+SW,+Albuquerque,+NM+87105/@35.0763769,-106.6823097,17z/data=!4m6!3m5!1s0x87220d22273cb4af:0x3fc7b0a0fdbffa09!8m2!3d35.0763769!4d-106.6823097!16s%2Fg%2F11c2h1m8yz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1724+Camino+Del+Valle+SW,+Albuquerque,+NM+87105/@35.0218169,-106.6856526,16z/data=!3m1!4b1!4m6!3m5!1s0x87220dcfc9c749cf:0x1d5338862d8e5916!8m2!3d35.0218169!4d-106.6856526!16s%2Fg%2F11bw3zpzkh?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/1830+William+St+SE,+Albuquerque,+NM+87102/@35.0642756,-106.6487835,17z/data=!3m1!4b1!4m6!3m5!1s0x87220c8c6eabeba1:0x5ce1154af52dff56!8m2!3d35.0642756!4d-106.6487835!16s%2Fg%2F11bw407gnj?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/201+Prosperity+Ave+SE,+Albuquerque,+NM+87105/@35.0161552,-106.6577891,16z/data=!3m1!4b1!4m6!3m5!1s0x87220c20d9ec5475:0xd7294c23fc537856!8m2!3d35.0162842!4d-106.6576841!16s%2Fg%2F11bw4dk04f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/2300+Arenal+Rd+SW,+Albuquerque,+NM+87105/@35.0499368,-106.6948844,17z/data=!3m1!4b1!4m6!3m5!1s0x87220da0c7a1e42b:0x1ac63a3165fb5569!8m2!3d35.0503317!4d-106.6950859!16s%2Fg%2F11bw3xnrm1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/24+Public+School+Rd,+Tijeras,+NM+87059/@35.076937,-106.39066,17z/data=!3m1!4b1!4m6!3m5!1s0x8718a3a0afb53ff7:0xe7d20bf27cb0f316!8m2!3d35.076937!4d-106.39066!16s%2Fg%2F11c5j9mfn4?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/2436+Zickert+Rd+NW,+Albuquerque,+NM+87104/@35.111568,-106.6743917,17z/data=!3m1!4b1!4m6!3m5!1s0x872273271696aac7:0xeff05693f1310b!8m2!3d35.111568!4d-106.6743917!16s%2Fg%2F11c4xtdrrp?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/2701+Don+Felipe+Rd+SW,+Albuquerque,+NM+87105/@35.001971,-106.7124332,17z/data=!3m1!4b1!4m6!3m5!1s0x87220e05bffc25df:0x8c2086a0ee1884cc!8m2!3d35.001971!4d-106.7124332!16s%2Fg%2F11c2254p9x?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/2800+Vermejo+Park+Dr+SW,+Albuquerque,+NM+87121/@35.035286,-106.7326505,17z/data=!3m1!4b1!4m6!3m5!1s0x872212708042fe19:0x5c1e2c8fb8c35088!8m2!3d35.035286!4d-106.7326505!16s%2Fg%2F11c25jxjkp?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/3100+Indian+School+Rd+NE,+Albuquerque,+NM+87106/@35.1010314,-106.609707,16z/data=!3m1!4b1!4m6!3m5!1s0x87220b4bdec142ad:0x758748d80b899fdd!8m2!3d35.1011521!4d-106.6096055!16s%2Fg%2F11bw3xk_kw?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/3501+6th+St+NW,+Albuquerque,+NM+87107/@35.1181205,-106.649152,16z/data=!3m1!4b1!4m6!3m5!1s0x8722734117e002eb:0x95c4f127e076341a!8m2!3d35.1181205!4d-106.649152!16s%2Fg%2F11b8v5hyxg?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/3501+Moon+St+NE,+Albuquerque,+NM+87111/@35.1216754,-106.5433029,16z/data=!3m1!4b1!4m6!3m5!1s0x87227551712cc8a1:0xe26d88fda8386628!8m2!3d35.1215239!4d-106.5429395!16s%2Fg%2F11b8v5ld82?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/4200+Wyoming+Blvd+NE,+Albuquerque,+NM+87111/@35.1288202,-106.5500378,18z/data=!3m1!4b1!4m6!3m5!1s0x872275445b694621:0x1876adbce7eab720!8m2!3d35.1288202!4d-106.5500378!16s%2Fg%2F11b8ykv1jf?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/4500+Comanche+Rd+NE,+Albuquerque,+NM+87110/@35.1217742,-106.5930883,18z/data=!3m1!4b1!4m6!3m5!1s0x872274c4d5626ae7:0x362ea33239cb8629!8m2!3d35.1223296!4d-106.5945025!16s%2Fg%2F11bw41zbrp?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/4700+Coal+Ave+SE,+Albuquerque,+NM+87108/@35.0752765,-106.5908186,16z/data=!3m1!4b1!4m6!3m5!1s0x87220b04e0209ef1:0x5e72950b03836769!8m2!3d35.0752765!4d-106.5908186!16s%2Fg%2F11c4t0pzwg?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/5211+Ouray+Rd+NW+B,+Albuquerque,+NM+87120/@35.1129016,-106.7005765,21z/data=!4m6!3m5!1s0x872272bf8e11307d:0x629419f54564d7!8m2!3d35.1129461!4d-106.7005447!16s%2Fg%2F11bw43g4nj?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/5323+Montgomery+Blvd+NE,+Albuquerque,+NM+87110/@35.1326943,-106.5837963,16z/data=!3m1!4b1!4m6!3m5!1s0x872274e04229fddb:0x1fbc1e5679cd2780!8m2!3d35.132571!4d-106.5834523!16s%2Fg%2F11bw3y130w?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/54+NM-217,+Tijeras,+NM+87059/@34.9628322,-106.2784708,17z/data=!3m1!4b1!4m6!3m5!1s0x8718b095b376fe87:0x2f5bd6ef8c71747a!8m2!3d34.9628322!4d-106.2784708!16s%2Fg%2F11csmtmnlz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/5600+Coors+Blvd+NW,+Albuquerque,+NM+87120/@35.1463472,-106.6883392,21z/data=!4m6!3m5!1s0x8722738957576f23:0xcf75d96695f83d31!8m2!3d35.146688!4d-106.6866258!16s%2Fg%2F11w3njn2t0?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/5600+Eagle+Rock+Ave+NE,+Albuquerque,+NM+87113/@35.186833,-106.583176,16z/data=!3m1!4b1!4m6!3m5!1s0x8722742d2317d79f:0xeb6fb898023d855d!8m2!3d35.186833!4d-106.583176!16s%2Fg%2F11bw41_cw6?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6080+Isleta+Blvd+SW,+Albuquerque,+NM+87105/@34.9870153,-106.6982226,17z/data=!3m1!4b1!4m5!3m4!1s0x87220e6a77b53b6b:0xd27e7857ead45d8d!8m2!3d34.9870153!4d-106.6960286",
-"https://google.com/maps/place/6080+Isleta+Blvd+SW,+Albuquerque,+NM+87105/@34.9870568,-106.6960237,17z/data=!3m1!4b1!4m6!3m5!1s0x87220e6a77b53b6b:0xd27e7857ead45d8d!8m2!3d34.9870568!4d-106.6960237!16s%2Fg%2F11c0z1ykmw?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6300+Claremont+Ave+NE,+Albuquerque,+NM+87110/@35.1118373,-106.5755515,16z/data=!3m1!4b1!4m6!3m5!1s0x8722752ca4f5dbb3:0x423cfa2869129d8!8m2!3d35.111922!4d-106.5757174!16s%2Fg%2F11bw3yn88f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6325+Milne+Rd+NW,+Albuquerque,+NM+87120/@35.1330304,-106.7116585,18z/data=!3m1!4b1!4m6!3m5!1s0x8722728875885f5b:0xfca1efb25862652c!8m2!3d35.1328578!4d-106.7120385!16s%2Fg%2F11bw3wvf39?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6504+Harper+Dr+NE,+Albuquerque,+NM+87109/@35.1526606,-106.5752976,17z/data=!3m1!4b1!4m6!3m5!1s0x872275074653e991:0x407014ff8a3ce6a7!8m2!3d35.1526606!4d-106.5752976!16s%2Fg%2F11cpmbxs3j?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6601+4th+St+NW,+Los+Ranchos+De+Albuquerque,+NM+87107/@35.1540713,-106.6403137,19z/data=!4m6!3m5!1s0x87227341f41f428b:0xaed8ce5fc548f593!8m2!3d35.1540713!4d-106.6396686!16s%2Fg%2F11n7ljr0pb?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6701+Fortuna+Rd+NW,+Albuquerque,+NM+87121/@35.0958915,-106.7138761,18z/data=!3m1!4b1!4m6!3m5!1s0x872272adb2930397:0xa7ef38b5f5f0d87d!8m2!3d35.0961668!4d-106.7138813!16s%2Fg%2F11bw3ybsx0?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6801+Ventana+Village+Rd+NW,+Albuquerque,+NM+87114/@35.1959543,-106.7315992,16z/data=!3m1!4b1!4m6!3m5!1s0x87226e22784846ab:0x3eb481c32e178482!8m2!3d35.1959543!4d-106.7315992!16s%2Fg%2F11bw3zv_5k?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/6811+Taylor+Ranch+Rd+NW,+Albuquerque,+NM+87120/@35.1612888,-106.6962779,17z/data=!3m1!4b1!4m6!3m5!1s0x8722723efaddf83b:0x604905aec2a8e90a!8m2!3d35.1612888!4d-106.6962779!16s%2Fg%2F11gnstyr7f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/700+Louisiana+Blvd+SE,+Albuquerque,+NM+87108/@35.0662443,-106.5688414,17z/data=!3m1!4b1!4m5!3m4!1s0x87220a590364b147:0x19651ae8eecce91d!8m2!3d35.0662399!4d-106.5666527?shorturl=1",
-"https://google.com/maps/place/712+Girard+Blvd+NE,+Albuquerque,+NM+87106/@35.0883786,-106.6113237,18z/data=!3m1!4b1!4m6!3m5!1s0x87220b41604cf07d:0xa96c85ebd6ceb61b!8m2!3d35.0882373!4d-106.611079!16s%2Fg%2F11bw3xwmkl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/721+Tomasita+St+NE,+Albuquerque,+NM+87123/@35.0834305,-106.5247113,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a07ae1713bcd:0x9e674b9d2bd4f68!8m2!3d35.0834305!4d-106.5247113!16s%2Fg%2F11ckqm28hv?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/7801+Candelaria+Rd+NE,+Albuquerque,+NM+87110/@35.1182471,-106.5565041,17z/data=!3m1!4b1!4m6!3m5!1s0x8722754a3b485f0d:0x2bdd24f50b878105!8m2!3d35.1183325!4d-106.5561974!16s%2Fg%2F11bw40t9ms?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/7801+Wilshire+Ave+NE,+Albuquerque,+NM+87122/@35.1829284,-106.5565634,17z/data=!3m1!4b1!4m6!3m5!1s0x872275ea26d2d72b:0xa9881e024a16d146!8m2!3d35.1825111!4d-106.5561974!16s%2Fg%2F11b8v439wq?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/800+Odelia+Rd+NE,+Albuquerque,+NM+87102/@35.096572,-106.6356697,16z/data=!3m1!4b1!4m6!3m5!1s0x87220caead120435:0x3220e4ecdd061e9e!8m2!3d35.096572!4d-106.6356697!16s%2Fg%2F11c3q4hkh0?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/801+Elizabeth+St+SE,+Albuquerque,+NM+87123/@35.0620107,-106.5245119,18z/data=!3m1!4b1!4m6!3m5!1s0x8718a09af5bd26ff:0x6eec8ea24a5a50b8!8m2!3d35.0621574!4d-106.5248954!16s%2Fg%2F11b8v77mk6?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/8100+Rainbow+Blvd+NW,+Albuquerque,+NM+87114/@35.1777939,-106.7331071,17z/data=!3m1!4b1!4m6!3m5!1s0x87226e06fdf4884f:0xbc09c3e41e59500d!8m2!3d35.1777939!4d-106.7331071!16s%2Fg%2F11c5k26c1v?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/8200+Guadalupe+Trail+NW,+Los+Ranchos+De+Albuquerque,+NM+87114/@35.1758296,-106.6366074,17z/data=!3m1!4b1!4m6!3m5!1s0x872273f0eac23b93:0x6b4c1471059b176d!8m2!3d35.1760967!4d-106.637604!16s%2Fg%2F11bw3xplzn?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/8701+Princess+Jeanne,+St.+NE,+Albuquerque,+NM+87112/@35.0985425,-106.5468141,16z/data=!3m1!4b1!4m6!3m5!1s0x87220abcac803cbd:0xe7b8f87965b5128d!8m2!3d35.0985505!4d-106.5469904!16s%2Fg%2F11b8vgmlpn?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/8901+Lowell+Dr+NE,+Albuquerque,+NM+87122/@35.1860596,-106.5083472,18z/data=!3m1!4b1!4m6!3m5!1s0x87189e6a58a9d9c7:0xefeff0f993bd8a30!8m2!3d35.1861441!4d-106.5086938!16s%2Fg%2F11b8v58q24?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/9301+Ventura+St+NE,+Albuquerque,+NM+87122/@35.1924869,-106.5439085,17z/data=!3m1!4b1!4m6!3m5!1s0x872275fae311e035:0xe6590a133dcc8ad7!8m2!3d35.1924869!4d-106.5439085!16s%2Fg%2F11bw4jgf8f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/9400+Benavides+Rd+SW,+Albuquerque,+NM+87121/@35.0510616,-106.7370772,16z/data=!3m1!4b1!4m6!3m5!1s0x8722128f3407e565:0xe538e09cd56fc105!8m2!3d35.0510616!4d-106.7370772!16s%2Fg%2F11csdwm2zz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/9800+4th+St+NW,+Albuquerque,+NM+87114/@35.1929366,-106.6155456,17z/data=!3m1!4b1!4m6!3m5!1s0x872276a7ba69ae0d:0xb5554d3259cb2490!8m2!3d35.1929366!4d-106.6155456!16s%2Fg%2F11bw3znmkq?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/9801+Academy+Hills+Dr+NE,+Albuquerque,+NM+87111/@35.15125,-106.530498,16z/data=!3m1!4b1!4m6!3m5!1s0x87189fd717c11b7d:0xc4753715d75b872e!8m2!3d35.15125!4d-106.530498!16s%2Fg%2F11c26dptzz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Bandelier+Elementary+School/@35.0709222,-106.6082185,18z/data=!4m6!3m5!1s0x87220b733da016fb:0xa7b13a1b8874f423!8m2!3d35.07092!4d-106.606931!16s%2Fm%2F076dv62?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Clerk's+Annex/@35.0923177,-106.6636419,21z/data=!3m1!5s0x87220cce110ba42b:0x4d1690e2c74b29b9!4m6!3m5!1s0x87220cce10419727:0x58f19e419c5d5e6a!8m2!3d35.0924499!4d-106.6636636!16s%2Fg%2F11mvmhmgw1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Clerk's+Annex/@35.0924543,-106.6662385,17z/data=!3m2!4b1!5s0x87220cce110ba42b:0x4d1690e2c74b29b9!4m6!3m5!1s0x87220cce10419727:0x58f19e419c5d5e6a!8m2!3d35.0924499!4d-106.6636636!16s%2Fg%2F11mvmhmgw1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Daskalos+Shopping+Center,+5339+Menaul+Blvd+NE,+Albuquerque,+NM+87110/@35.1100323,-106.5832474,18z/data=!4m6!3m5!1s0x872274d54b2a7557:0x4539b1657a27c719!8m2!3d35.109694!4d-106.5832681!16s%2Fg%2F11bvtb2swh?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Elder+Center/@34.9030914,-106.7010421,19z/data=!3m1!4b1!4m6!3m5!1s0x8722054029098ad5:0xef1ff12d5ad16d0f!8m2!3d34.9030914!4d-106.7010421!16s%2Fg%2F11b6bj4mpk?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Holiday+Park,+11710+Comanche+Rd+NE,+Albuquerque,+NM+87111/@35.1227955,-106.5090279,16z/data=!3m1!4b1!4m6!3m5!1s0x87189f8afd31626b:0x9c2dd79f73be8148!8m2!3d35.1227955!4d-106.5090279!16s%2Fg%2F11b8v55nnj?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/La+Mesa+Elementary+School/@35.079571,-106.562597,18z/data=!3m1!4b1!4m6!3m5!1s0x87220af26e2e5c1f:0x9c25f5453e48c30f!8m2!3d35.079571!4d-106.562597!16s%2Fm%2F0766mvl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Petroglyph+Plaza,+8201+Golf+Course+Rd+NW+F,+Albuquerque,+NM+87120/@35.1780036,-106.6892394,19z/data=!4m6!3m5!1s0x87227227ca9ee6d9:0x9528e680c5507d4f!8m2!3d35.1779005!4d-106.6895351!16s%2Fg%2F11gd4fv84_?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/South+Valley+Multipurpose+Senior+Center/@35.069824,-106.6881653,18z/data=!3m1!4b1!4m6!3m5!1s0x87220d1761cdd137:0x8e97b267491a05c!8m2!3d35.069824!4d-106.6881653!16s%2Fg%2F11ckjv0w6y?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Student+Union+Bldg,+1+Roma+Ave+NE,+Albuquerque,+NM+87106/@35.0834705,-106.6201612,19z/data=!4m6!3m5!1s0x87220b5d7eda4715:0x4650a1172227bc19!8m2!3d35.0836489!4d-106.6200642!16s%2Fg%2F1vljgsx_?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Tijeras+City+Hall/@35.0891717,-106.3744617,19z/data=!3m1!4b1!4m6!3m5!1s0x8718ba3affbf86b1:0xe7f94679cc8d3064!8m2!3d35.0891717!4d-106.3744617!16s%2Fg%2F1tk6wccx?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Tohajiilee+Navajo+Chapter+Administration/@35.0709318,-107.1130043,21z/data=!4m6!3m5!1s0x872249e51b8197db:0x90487a88115d2cd0!8m2!3d35.0711159!4d-107.1129636!16s%2Fg%2F11rw8_0846?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Vote+Center/@35.0739244,-106.5786897,19z/data=!4m6!3m5!1s0x87220afc3b6c3653:0xe271b9831f2bfa5e!8m2!3d35.0739205!4d-106.5780016!16s%2Fg%2F11nsv49xp_?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Your+Vote+Center/@35.1456447,-106.5880886,21z/data=!4m6!3m5!1s0x872274fbf413fa93:0x7d04db8d3ad734b0!8m2!3d35.1455493!4d-106.5881739!16s%2Fg%2F11fnrfl5sv?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Your+Vote+Center/@35.1754148,-106.5725691,21z/data=!4m6!3m5!1s0x872275b7d6e2e023:0xf80860abc7486cde!8m2!3d35.1753485!4d-106.5725847!16s%2Fg%2F11vbxjkff7?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-"https://ipgr.maps.arcgis.com/apps/instant/nearby/index.html?appid=3bcb1ab89e6547b0a3c76e071c76e8d6",
-"https://janellefornewmexico.com/",
-"https://janellefornewmexico.com/contact-8",
-"https://janellefornewmexico.com/endorsements",
-"https://janellefornewmexico.com/how-to-vote",
-"https://janellefornewmexico.com/meet-janelle",
-"https://janellefornewmexico.com/priorities",
-"https://maps.app.goo.gl/5hxndgg6fJSZXhVR8",
-"https://maps.app.goo.gl/7DQr4nUY8z4Es1DR9",
-"https://maps.app.goo.gl/B9RqMh61yhu64noK9",
-"https://maps.app.goo.gl/QaNSsmKQLn4Dgoj57",
-"https://maps.app.goo.gl/Tfp91xG549GFBMMW8",
-"https://maps.app.goo.gl/UsPmWkmcvZ2vqYP48",
-"https://maps.app.goo.gl/WByUfF3dfYbZdT3o9",
-"https://maps.app.goo.gl/YRfxwDdJgpM6eJsZ9",
-"https://maps.app.goo.gl/bN1UXVjVpKbNUhtn9",
-"https://maps.app.goo.gl/fXenVp1H6zpHHZcp6",
-"https://maps.app.goo.gl/frMMJ3BBoMq5hxfQ9",
-"https://maps.app.goo.gl/gj9kYwG5VUgWmS2G7",
-"https://maps.app.goo.gl/iafiq9NsbGJmSva1A",
-"https://maps.app.goo.gl/mkhooYUQmsah5GgWA",
-"https://maps.app.goo.gl/n3YZwqmMtBsCZav99",
-"https://maps.app.goo.gl/nqz7E1nRHRNd31CS6",
-"https://maps.app.goo.gl/qMD87Yvh9gdG83Ba8",
-"https://maps.app.goo.gl/r5P4CPART8DtNePB8",
-"https://maps.app.goo.gl/vGMYmdMQKM8cisLY8",
-"https://maps.app.goo.gl/x3rDF25qrfxaLBiv6",
-"https://portal.sos.state.nm.us/OVR/(S(2rvefzulmtkbbq5a1l30jkjh))/WebPages/InstructionsStep1.aspx",
-"https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx?type=RA",
-"https://secure.actblue.com/donate/janelle-for-new-mexico-19",
-"https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?tab=AbsenteeTracker"
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/5hxndgg6fJSZXhVR8"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/7DQr4nUY8z4Es1DR9"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/B9RqMh61yhu64noK9"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/QaNSsmKQLn4Dgoj57"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/Tfp91xG549GFBMMW8"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/UsPmWkmcvZ2vqYP48"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/WByUfF3dfYbZdT3o9"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/YRfxwDdJgpM6eJsZ9"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/bN1UXVjVpKbNUhtn9"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/fXenVp1H6zpHHZcp6"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/gj9kYwG5VUgWmS2G7"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/iafiq9NsbGJmSva1A"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/mkhooYUQmsah5GgWA"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/n3YZwqmMtBsCZav99"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/nqz7E1nRHRNd31CS6"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/qMD87Yvh9gdG83Ba8"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/r5P4CPART8DtNePB8"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/vGMYmdMQKM8cisLY8"
+},
+{
+"text": "-",
+"href": "https://maps.app.goo.gl/x3rDF25qrfxaLBiv6"
+},
+{
+"text": "-",
+"href": "https://www.google.com/maps/place/6080+Isleta+Blvd+SW,+Albuquerque,+NM+87105/@34.9870153,-106.6982226,17z/data=!3m1!4b1!4m5!3m4!1s0x87220e6a77b53b6b:0xd27e7857ead45d8d!8m2!3d34.9870153!4d-106.6960286"
+},
+{
+"text": "1.",
+"href": "https://maps.app.goo.gl/WByUfF3dfYbZdT3o9"
+},
+{
+"text": "10.",
+"href": "https://maps.app.goo.gl/mkhooYUQmsah5GgWA"
+},
+{
+"text": "11.",
+"href": "https://maps.app.goo.gl/QaNSsmKQLn4Dgoj57"
+},
+{
+"text": "12.",
+"href": "https://maps.app.goo.gl/n3YZwqmMtBsCZav99"
+},
+{
+"text": "13.",
+"href": "https://maps.app.goo.gl/gj9kYwG5VUgWmS2G7"
+},
+{
+"text": "14.",
+"href": "https://maps.app.goo.gl/vGMYmdMQKM8cisLY8"
+},
+{
+"text": "15.",
+"href": "https://maps.app.goo.gl/YRfxwDdJgpM6eJsZ9"
+},
+{
+"text": "16.",
+"href": "https://maps.app.goo.gl/nqz7E1nRHRNd31CS6"
+},
+{
+"text": "17.",
+"href": "https://maps.app.goo.gl/x3rDF25qrfxaLBiv6"
+},
+{
+"text": "18.",
+"href": "https://maps.app.goo.gl/7DQr4nUY8z4Es1DR9"
+},
+{
+"text": "19.",
+"href": "https://maps.app.goo.gl/r5P4CPART8DtNePB8"
+},
+{
+"text": "2.",
+"href": "https://maps.app.goo.gl/fXenVp1H6zpHHZcp6"
+},
+{
+"text": "20.",
+"href": "https://maps.app.goo.gl/B9RqMh61yhu64noK9"
+},
+{
+"text": "3.",
+"href": "https://www.google.com/maps/place/6080+Isleta+Blvd+SW,+Albuquerque,+NM+87105/@34.9870153,-106.6982226,17z/data=!3m1!4b1!4m5!3m4!1s0x87220e6a77b53b6b:0xd27e7857ead45d8d!8m2!3d34.9870153!4d-106.6960286"
+},
+{
+"text": "4.",
+"href": "https://maps.app.goo.gl/qMD87Yvh9gdG83Ba8"
+},
+{
+"text": "5.",
+"href": "https://maps.app.goo.gl/iafiq9NsbGJmSva1A"
+},
+{
+"text": "6.",
+"href": "https://maps.app.goo.gl/UsPmWkmcvZ2vqYP48"
+},
+{
+"text": "7.",
+"href": "https://maps.app.goo.gl/5hxndgg6fJSZXhVR8"
+},
+{
+"text": "8.",
+"href": "https://maps.app.goo.gl/Tfp91xG549GFBMMW8"
+},
+{
+"text": "9.",
+"href": "https://maps.app.goo.gl/bN1UXVjVpKbNUhtn9"
+},
+{
+"text": "98th & Central Shopping Center",
+"href": "https://maps.app.goo.gl/WByUfF3dfYbZdT3o9"
+},
+{
+"text": "98th & Central Shopping Center",
+"href": "https://www.google.com/maps/place/120+98th+St+NW,+Albuquerque,+NM+87121/@35.074654,-106.7422108,21z/data=!4m6!3m5!1s0x872212b9487a2b43:0x29e572769c3f9d2d!8m2!3d35.0746549!4d-106.7422915!16s%2Fg%2F11c5n9tg71?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "A Montoya Elementary School",
+"href": "https://www.google.com/maps/place/24+Public+School+Rd,+Tijeras,+NM+87059/@35.076937,-106.39066,17z/data=!3m1!4b1!4m6!3m5!1s0x8718a3a0afb53ff7:0xe7d20bf27cb0f316!8m2!3d35.076937!4d-106.39066!16s%2Fg%2F11c5j9mfn4?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Adobe Acres Elementary School",
+"href": "https://www.google.com/maps/place/1724+Camino+Del+Valle+SW,+Albuquerque,+NM+87105/@35.0218169,-106.6856526,16z/data=!3m1!4b1!4m6!3m5!1s0x87220dcfc9c749cf:0x1d5338862d8e5916!8m2!3d35.0218169!4d-106.6856526!16s%2Fg%2F11bw3zpzkh?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Albuquerque High School",
+"href": "https://www.google.com/maps/place/800+Odelia+Rd+NE,+Albuquerque,+NM+87102/@35.096572,-106.6356697,16z/data=!3m1!4b1!4m6!3m5!1s0x87220caead120435:0x3220e4ecdd061e9e!8m2!3d35.096572!4d-106.6356697!16s%2Fg%2F11c3q4hkh0?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Andalucia Shopping Center",
+"href": "https://maps.app.goo.gl/fXenVp1H6zpHHZcp6"
+},
+{
+"text": "Andalucia Shopping Center",
+"href": "https://www.google.com/maps/place/5600+Coors+Blvd+NW,+Albuquerque,+NM+87120/@35.1463472,-106.6883392,21z/data=!4m6!3m5!1s0x8722738957576f23:0xcf75d96695f83d31!8m2!3d35.146688!4d-106.6866258!16s%2Fg%2F11w3njn2t0?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Arroyo Del Oso Elementary School",
+"href": "https://www.google.com/maps/place/6504+Harper+Dr+NE,+Albuquerque,+NM+87109/@35.1526606,-106.5752976,17z/data=!3m1!4b1!4m6!3m5!1s0x872275074653e991:0x407014ff8a3ce6a7!8m2!3d35.1526606!4d-106.5752976!16s%2Fg%2F11cpmbxs3j?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Bandelier Elementary School",
+"href": "https://www.google.com/maps/place/Bandelier+Elementary+School/@35.0709222,-106.6082185,18z/data=!4m6!3m5!1s0x87220b733da016fb:0xa7b13a1b8874f423!8m2!3d35.07092!4d-106.606931!16s%2Fm%2F076dv62?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Bellehaven Elementary School",
+"href": "https://www.google.com/maps/place/8701+Princess+Jeanne,+St.+NE,+Albuquerque,+NM+87112/@35.0985425,-106.5468141,16z/data=!3m1!4b1!4m6!3m5!1s0x87220abcac803cbd:0xe7b8f87965b5128d!8m2!3d35.0985505!4d-106.5469904!16s%2Fg%2F11b8vgmlpn?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Bernalillo County Visitor Center",
+"href": "https://www.google.com/maps/place/6080+Isleta+Blvd+SW,+Albuquerque,+NM+87105/@34.9870153,-106.6982226,17z/data=!3m1!4b1!4m5!3m4!1s0x87220e6a77b53b6b:0xd27e7857ead45d8d!8m2!3d34.9870153!4d-106.6960286"
+},
+{
+"text": "Bernalillo County Visitor Center",
+"href": "https://www.google.com/maps/place/6080+Isleta+Blvd+SW,+Albuquerque,+NM+87105/@34.9870568,-106.6960237,17z/data=!3m1!4b1!4m6!3m5!1s0x87220e6a77b53b6b:0xd27e7857ead45d8d!8m2!3d34.9870568!4d-106.6960237!16s%2Fg%2F11c0z1ykmw?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "CNM Workforce Training Center",
+"href": "https://www.google.com/maps/place/5600+Eagle+Rock+Ave+NE,+Albuquerque,+NM+87113/@35.186833,-106.583176,16z/data=!3m1!4b1!4m6!3m5!1s0x8722742d2317d79f:0xeb6fb898023d855d!8m2!3d35.186833!4d-106.583176!16s%2Fg%2F11bw41_cw6?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Caracol Plaza",
+"href": "https://maps.app.goo.gl/qMD87Yvh9gdG83Ba8"
+},
+{
+"text": "Caracol Plaza",
+"href": "https://www.google.com/maps/place/12500+Montgomery+Blvd+NE+%23101,+Albuquerque,+NM+87111/@35.129965,-106.499321,16z/data=!3m1!4b1!4m5!3m4!1s0x87189f857e7f26ad:0x32b2238dc196dcb8!8m2!3d35.129965!4d-106.499321?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Central Mercado",
+"href": "https://maps.app.goo.gl/iafiq9NsbGJmSva1A"
+},
+{
+"text": "Central Mercado",
+"href": "https://www.google.com/maps/place/Vote+Center/@35.0739244,-106.5786897,19z/data=!4m6!3m5!1s0x87220afc3b6c3653:0xe271b9831f2bfa5e!8m2!3d35.0739205!4d-106.5780016!16s%2Fg%2F11nsv49xp_?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Chaparral Elementary School",
+"href": "https://www.google.com/maps/place/6325+Milne+Rd+NW,+Albuquerque,+NM+87120/@35.1330304,-106.7116585,18z/data=!3m1!4b1!4m6!3m5!1s0x8722728875885f5b:0xfca1efb25862652c!8m2!3d35.1328578!4d-106.7120385!16s%2Fg%2F11bw3wvf39?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Cibola High School",
+"href": "https://www.google.com/maps/place/1510+Ellison+Dr+NW,+Albuquerque,+NM+87114/@35.204124,-106.663072,16z/data=!3m1!4b1!4m6!3m5!1s0x8722716d6acf84d3:0xe7575cc7f7c77188!8m2!3d35.204124!4d-106.663072!16s%2Fg%2F11c2fq194v?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Clerk’s Annex",
+"href": "https://maps.app.goo.gl/UsPmWkmcvZ2vqYP48"
+},
+{
+"text": "Clerk’s Annex",
+"href": "https://www.google.com/maps/place/1500+Lomas+Blvd+NW,+Albuquerque,+NM+87104/@35.0924543,-106.6658523,17z/data=!3m1!4b1!4m5!3m4!1s0x87220cce120bc61b:0x341e6d14bb0887d9!8m2!3d35.0924499!4d-106.6636636"
+},
+{
+"text": "Clerk’s Annex",
+"href": "https://www.google.com/maps/place/Clerk's+Annex/@35.0923177,-106.6636419,21z/data=!3m1!5s0x87220cce110ba42b:0x4d1690e2c74b29b9!4m6!3m5!1s0x87220cce10419727:0x58f19e419c5d5e6a!8m2!3d35.0924499!4d-106.6636636!16s%2Fg%2F11mvmhmgw1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Clerk’s Annex (",
+"href": "https://www.google.com/maps/place/Clerk's+Annex/@35.0924543,-106.6662385,17z/data=!3m2!4b1!5s0x87220cce110ba42b:0x4d1690e2c74b29b9!4m6!3m5!1s0x87220cce10419727:0x58f19e419c5d5e6a!8m2!3d35.0924499!4d-106.6636636!16s%2Fg%2F11mvmhmgw1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Contact",
+"href": "https://www.janellefornewmexico.com/contact-8"
+},
+{
+"text": "Cottonwood West",
+"href": "https://maps.app.goo.gl/5hxndgg6fJSZXhVR8"
+},
+{
+"text": "Cottonwood West",
+"href": "https://www.google.com/maps/place/10131+Coors+Blvd+NW,+Albuquerque,+NM+87114/@35.2005281,-106.6507855,17z/data=!4m6!3m5!1s0x872271421edc2d9b:0x829e37785b882138!8m2!3d35.2005786!4d-106.650651!16s%2Fg%2F11c5pmtrzl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Daskalos Center",
+"href": "https://maps.app.goo.gl/Tfp91xG549GFBMMW8"
+},
+{
+"text": "Daskalos Center",
+"href": "https://www.google.com/maps/place/Daskalos+Shopping+Center,+5339+Menaul+Blvd+NE,+Albuquerque,+NM+87110/@35.1100323,-106.5832474,18z/data=!4m6!3m5!1s0x872274d54b2a7557:0x4539b1657a27c719!8m2!3d35.109694!4d-106.5832681!16s%2Fg%2F11bvtb2swh?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Del Norte High School",
+"href": "https://www.google.com/maps/place/5323+Montgomery+Blvd+NE,+Albuquerque,+NM+87110/@35.1326943,-106.5837963,16z/data=!3m1!4b1!4m6!3m5!1s0x872274e04229fddb:0x1fbc1e5679cd2780!8m2!3d35.132571!4d-106.5834523!16s%2Fg%2F11bw3y130w?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Desiderio Community Center",
+"href": "https://maps.app.goo.gl/bN1UXVjVpKbNUhtn9"
+},
+{
+"text": "Desiderio Community Center",
+"href": "https://www.google.com/maps/place/Tohajiilee+Navajo+Chapter+Administration/@35.0709318,-107.1130043,21z/data=!4m6!3m5!1s0x872249e51b8197db:0x90487a88115d2cd0!8m2!3d35.0711159!4d-107.1129636!16s%2Fg%2F11rw8_0846?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janelle-for-new-mexico-19"
+},
+{
+"text": "Double Eagle Elementary School",
+"href": "https://www.google.com/maps/place/8901+Lowell+Dr+NE,+Albuquerque,+NM+87122/@35.1860596,-106.5083472,18z/data=!3m1!4b1!4m6!3m5!1s0x87189e6a58a9d9c7:0xefeff0f993bd8a30!8m2!3d35.1861441!4d-106.5086938!16s%2Fg%2F11b8v58q24?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Duranes Elementary School",
+"href": "https://www.google.com/maps/place/2436+Zickert+Rd+NW,+Albuquerque,+NM+87104/@35.111568,-106.6743917,17z/data=!3m1!4b1!4m6!3m5!1s0x872273271696aac7:0xeff05693f1310b!8m2!3d35.111568!4d-106.6743917!16s%2Fg%2F11c4xtdrrp?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Early Voting locations",
+"href": "https://www.berncoclerk.gov/elections/early-voting/"
+},
+{
+"text": "Eisenhower Middle School",
+"href": "https://www.google.com/maps/place/11001+Camero+Ave+NE,+Albuquerque,+NM+87111/@35.1462275,-106.5166999,16z/data=!3m1!4b1!4m6!3m5!1s0x87189fc1545b7f35:0x6c1138d4a32bff8c!8m2!3d35.1462275!4d-106.5166999!16s%2Fg%2F11c4cjr8hf?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Eldorado High School",
+"href": "https://www.google.com/maps/place/11300+Montgomery+Blvd+NE,+Albuquerque,+NM+87111/@35.128238,-106.513188,17z/data=!3m1!4b1!4m6!3m5!1s0x87189ff2e5c65ee5:0x2d98abe97d519835!8m2!3d35.128238!4d-106.513188!16s%2Fg%2F11c26gkrm2?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Election Day voting locations (7AM-7PM)",
+"href": "https://www.berncoclerk.gov/elections/election-day-voting/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.janellefornewmexico.com/endorsements"
+},
+{
+"text": "Forest Meadow Baptist Church",
+"href": "https://www.google.com/maps/place/54+NM-217,+Tijeras,+NM+87059/@34.9628322,-106.2784708,17z/data=!3m1!4b1!4m6!3m5!1s0x8718b095b376fe87:0x2f5bd6ef8c71747a!8m2!3d34.9628322!4d-106.2784708!16s%2Fg%2F11csmtmnlz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Four Hills Shopping Center",
+"href": "https://maps.app.goo.gl/mkhooYUQmsah5GgWA"
+},
+{
+"text": "Four Hills Shopping Center",
+"href": "https://www.google.com/maps/place/13140+Central+Ave+SE+%231420,+Albuquerque,+NM+87123/@35.0680359,-106.4999696,17z/data=!3m1!4b1!4m5!3m4!1s0x8718a0f0026c05e7:0xe753f0206ada6631!8m2!3d35.0680359!4d-106.4999696?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Garfield Middle School",
+"href": "https://www.google.com/maps/place/3501+6th+St+NW,+Albuquerque,+NM+87107/@35.1181205,-106.649152,16z/data=!3m1!4b1!4m6!3m5!1s0x8722734117e002eb:0x95c4f127e076341a!8m2!3d35.1181205!4d-106.649152!16s%2Fg%2F11b8v5hyxg?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Hayes Middle School",
+"href": "https://www.google.com/maps/place/1100+Texas+St+NE,+Albuquerque,+NM+87110/@35.0905408,-106.5533741,18z/data=!3m1!4b1!4m6!3m5!1s0x87220a95cfb18ee7:0x6973b9ad5aa32218!8m2!3d35.0904451!4d-106.5547242!16s%2Fg%2F11b8v52j74?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Henry “Kiki” Saavedra Community Center",
+"href": "https://www.google.com/maps/place/201+Prosperity+Ave+SE,+Albuquerque,+NM+87105/@35.0161552,-106.6577891,16z/data=!3m1!4b1!4m6!3m5!1s0x87220c20d9ec5475:0xd7294c23fc537856!8m2!3d35.0162842!4d-106.6576841!16s%2Fg%2F11bw4dk04f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Herman Sanchez Community Center",
+"href": "https://www.google.com/maps/place/1830+William+St+SE,+Albuquerque,+NM+87102/@35.0642756,-106.6487835,17z/data=!3m1!4b1!4m6!3m5!1s0x87220c8c6eabeba1:0x5ce1154af52dff56!8m2!3d35.0642756!4d-106.6487835!16s%2Fg%2F11bw407gnj?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Highland High School",
+"href": "https://www.google.com/maps/place/4700+Coal+Ave+SE,+Albuquerque,+NM+87108/@35.0752765,-106.5908186,16z/data=!3m1!4b1!4m6!3m5!1s0x87220b04e0209ef1:0x5e72950b03836769!8m2!3d35.0752765!4d-106.5908186!16s%2Fg%2F11c4t0pzwg?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Holiday Park Community Center",
+"href": "https://www.google.com/maps/place/Holiday+Park,+11710+Comanche+Rd+NE,+Albuquerque,+NM+87111/@35.1227955,-106.5090279,16z/data=!3m1!4b1!4m6!3m5!1s0x87189f8afd31626b:0x9c2dd79f73be8148!8m2!3d35.1227955!4d-106.5090279!16s%2Fg%2F11b8v55nnj?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Holly Plaza Shopping Center",
+"href": "https://maps.app.goo.gl/QaNSsmKQLn4Dgoj57"
+},
+{
+"text": "Holly Plaza Shopping Center",
+"href": "https://www.google.com/maps/place/Your+Vote+Center/@35.1754148,-106.5725691,21z/data=!4m6!3m5!1s0x872275b7d6e2e023:0xf80860abc7486cde!8m2!3d35.1753485!4d-106.5725847!16s%2Fg%2F11vbxjkff7?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "How to Vote",
+"href": "https://www.janellefornewmexico.com/how-to-vote"
+},
+{
+"text": "Hubert H Humphrey Elementary School",
+"href": "https://www.google.com/maps/place/9801+Academy+Hills+Dr+NE,+Albuquerque,+NM+87111/@35.15125,-106.530498,16z/data=!3m1!4b1!4m6!3m5!1s0x87189fd717c11b7d:0xc4753715d75b872e!8m2!3d35.15125!4d-106.530498!16s%2Fg%2F11c26dptzz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Isleta Elder Center",
+"href": "https://maps.app.goo.gl/n3YZwqmMtBsCZav99"
+},
+{
+"text": "Isleta Elder Center",
+"href": "https://www.google.com/maps/place/Elder+Center/@34.9030914,-106.7010421,19z/data=!3m1!4b1!4m6!3m5!1s0x8722054029098ad5:0xef1ff12d5ad16d0f!8m2!3d34.9030914!4d-106.7010421!16s%2Fg%2F11b6bj4mpk?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Jackson Middle School",
+"href": "https://www.google.com/maps/place/10600+Indian+School+Rd+NE,+Albuquerque,+NM+87112/@35.0997429,-106.5276114,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a00c1616923b:0x6fa5db118a7f2893!8m2!3d35.0998874!4d-106.5278412!16s%2Fg%2F11bw401044?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Jefferson Middle School",
+"href": "https://www.google.com/maps/place/712+Girard+Blvd+NE,+Albuquerque,+NM+87106/@35.0883786,-106.6113237,18z/data=!3m1!4b1!4m6!3m5!1s0x87220b41604cf07d:0xa96c85ebd6ceb61b!8m2!3d35.0882373!4d-106.611079!16s%2Fg%2F11bw3xwmkl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Kennedy Middle School",
+"href": "https://www.google.com/maps/place/721+Tomasita+St+NE,+Albuquerque,+NM+87123/@35.0834305,-106.5247113,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a07ae1713bcd:0x9e674b9d2bd4f68!8m2!3d35.0834305!4d-106.5247113!16s%2Fg%2F11ckqm28hv?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "La Cueva High School",
+"href": "https://www.google.com/maps/place/7801+Wilshire+Ave+NE,+Albuquerque,+NM+87122/@35.1829284,-106.5565634,17z/data=!3m1!4b1!4m6!3m5!1s0x872275ea26d2d72b:0xa9881e024a16d146!8m2!3d35.1825111!4d-106.5561974!16s%2Fg%2F11b8v439wq?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "La Mesa Elementary School",
+"href": "https://www.google.com/maps/place/La+Mesa+Elementary+School/@35.079571,-106.562597,18z/data=!3m1!4b1!4m6!3m5!1s0x87220af26e2e5c1f:0x9c25f5453e48c30f!8m2!3d35.079571!4d-106.562597!16s%2Fm%2F0766mvl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Los Altos Plaza",
+"href": "https://maps.app.goo.gl/gj9kYwG5VUgWmS2G7"
+},
+{
+"text": "Los Altos Plaza",
+"href": "https://www.google.com/maps/place/4200+Wyoming+Blvd+NE,+Albuquerque,+NM+87111/@35.1288202,-106.5500378,18z/data=!3m1!4b1!4m6!3m5!1s0x872275445b694621:0x1876adbce7eab720!8m2!3d35.1288202!4d-106.5500378!16s%2Fg%2F11b8ykv1jf?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Los Ranchos Villa",
+"href": "https://maps.app.goo.gl/vGMYmdMQKM8cisLY8"
+},
+{
+"text": "Los Ranchos Villa",
+"href": "https://www.google.com/maps/place/6601+4th+St+NW,+Los+Ranchos+De+Albuquerque,+NM+87107/@35.1540713,-106.6403137,19z/data=!4m6!3m5!1s0x87227341f41f428b:0xaed8ce5fc548f593!8m2!3d35.1540713!4d-106.6396686!16s%2Fg%2F11n7ljr0pb?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Lyndon B Johnson Middle School",
+"href": "https://www.google.com/maps/place/6811+Taylor+Ranch+Rd+NW,+Albuquerque,+NM+87120/@35.1612888,-106.6962779,17z/data=!3m1!4b1!4m6!3m5!1s0x8722723efaddf83b:0x604905aec2a8e90a!8m2!3d35.1612888!4d-106.6962779!16s%2Fg%2F11gnstyr7f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Madison Middle School",
+"href": "https://www.google.com/maps/place/3501+Moon+St+NE,+Albuquerque,+NM+87111/@35.1216754,-106.5433029,16z/data=!3m1!4b1!4m6!3m5!1s0x87227551712cc8a1:0xe26d88fda8386628!8m2!3d35.1215239!4d-106.5429395!16s%2Fg%2F11b8v5ld82?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Manzano High School",
+"href": "https://www.google.com/maps/place/12200+Lomas+Blvd+NE,+Albuquerque,+NM+87112/@35.0848381,-106.5112783,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a0677e2fde71:0xb4fb516573a41083!8m2!3d35.0848381!4d-106.5112783!16s%2Fg%2F11bw3x4_yl?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Manzano Mesa Elementary School",
+"href": "https://www.google.com/maps/place/801+Elizabeth+St+SE,+Albuquerque,+NM+87123/@35.0620107,-106.5245119,18z/data=!3m1!4b1!4m6!3m5!1s0x8718a09af5bd26ff:0x6eec8ea24a5a50b8!8m2!3d35.0621574!4d-106.5248954!16s%2Fg%2F11b8v77mk6?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "McKinley Middle School",
+"href": "https://www.google.com/maps/place/4500+Comanche+Rd+NE,+Albuquerque,+NM+87110/@35.1217742,-106.5930883,18z/data=!3m1!4b1!4m6!3m5!1s0x872274c4d5626ae7:0x362ea33239cb8629!8m2!3d35.1223296!4d-106.5945025!16s%2Fg%2F11bw41zbrp?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Meet Janelle",
+"href": "https://www.janellefornewmexico.com/meet-janelle"
+},
+{
+"text": "Mobile Voting Unit",
+"href": "https://maps.app.goo.gl/frMMJ3BBoMq5hxfQ9"
+},
+{
+"text": "Montezuma Elementary School",
+"href": "https://www.google.com/maps/place/3100+Indian+School+Rd+NE,+Albuquerque,+NM+87106/@35.1010314,-106.609707,16z/data=!3m1!4b1!4m6!3m5!1s0x87220b4bdec142ad:0x758748d80b899fdd!8m2!3d35.1011521!4d-106.6096055!16s%2Fg%2F11bw3xk_kw?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "North Star Elementary School",
+"href": "https://www.google.com/maps/place/9301+Ventura+St+NE,+Albuquerque,+NM+87122/@35.1924869,-106.5439085,17z/data=!3m1!4b1!4m6!3m5!1s0x872275fae311e035:0xe6590a133dcc8ad7!8m2!3d35.1924869!4d-106.5439085!16s%2Fg%2F11bw4jgf8f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "October 21 - November 1",
+"href": "https://maps.app.goo.gl/frMMJ3BBoMq5hxfQ9"
+},
+{
+"text": "Onate Elementary School",
+"href": "https://www.google.com/maps/place/12415+Brentwood+Hills+Blvd+NE,+Albuquerque,+NM+87112/@35.1052209,-106.5035399,16z/data=!3m1!4b1!4m6!3m5!1s0x8718a03bd94825fb:0x803e837ce3859399!8m2!3d35.1052209!4d-106.5035399!16s%2Fg%2F11c1bzdtm1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Pajarito Elementary School",
+"href": "https://www.google.com/maps/place/2701+Don+Felipe+Rd+SW,+Albuquerque,+NM+87105/@35.001971,-106.7124332,17z/data=!3m1!4b1!4m6!3m5!1s0x87220e05bffc25df:0x8c2086a0ee1884cc!8m2!3d35.001971!4d-106.7124332!16s%2Fg%2F11c2254p9x?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Petroglyph Plaza",
+"href": "https://maps.app.goo.gl/YRfxwDdJgpM6eJsZ9"
+},
+{
+"text": "Petroglyph Plaza",
+"href": "https://www.google.com/maps/place/Petroglyph+Plaza,+8201+Golf+Course+Rd+NW+F,+Albuquerque,+NM+87120/@35.1780036,-106.6892394,19z/data=!4m6!3m5!1s0x87227227ca9ee6d9:0x9528e680c5507d4f!8m2!3d35.1779005!4d-106.6895351!16s%2Fg%2F11gd4fv84_?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Polk Middle School",
+"href": "https://www.google.com/maps/place/2701+Don+Felipe+Rd+SW,+Albuquerque,+NM+87105/@35.001971,-106.7124332,17z/data=!3m1!4b1!4m6!3m5!1s0x87220e05bffc25df:0x8c2086a0ee1884cc!8m2!3d35.001971!4d-106.7124332!16s%2Fg%2F11c2254p9x?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Priorities",
+"href": "https://www.janellefornewmexico.com/priorities"
+},
+{
+"text": "Raymond G Sanchez Community Center",
+"href": "https://www.google.com/maps/place/9800+4th+St+NW,+Albuquerque,+NM+87114/@35.1929366,-106.6155456,17z/data=!3m1!4b1!4m6!3m5!1s0x872276a7ba69ae0d:0xb5554d3259cb2490!8m2!3d35.1929366!4d-106.6155456!16s%2Fg%2F11bw3znmkq?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Register to vote online",
+"href": "https://portal.sos.state.nm.us/OVR/(S(2rvefzulmtkbbq5a1l30jkjh))/WebPages/InstructionsStep1.aspx"
+},
+{
+"text": "Rio Grande High School",
+"href": "https://www.google.com/maps/place/2300+Arenal+Rd+SW,+Albuquerque,+NM+87105/@35.0499368,-106.6948844,17z/data=!3m1!4b1!4m6!3m5!1s0x87220da0c7a1e42b:0x1ac63a3165fb5569!8m2!3d35.0503317!4d-106.6950859!16s%2Fg%2F11bw3xnrm1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Rudolfo Anaya Elementary School",
+"href": "https://www.google.com/maps/place/2800+Vermejo+Park+Dr+SW,+Albuquerque,+NM+87121/@35.035286,-106.7326505,17z/data=!3m1!4b1!4m6!3m5!1s0x872212708042fe19:0x5c1e2c8fb8c35088!8m2!3d35.035286!4d-106.7326505!16s%2Fg%2F11c25jxjkp?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Sandia High School",
+"href": "https://www.google.com/maps/place/7801+Candelaria+Rd+NE,+Albuquerque,+NM+87110/@35.1182471,-106.5565041,17z/data=!3m1!4b1!4m6!3m5!1s0x8722754a3b485f0d:0x2bdd24f50b878105!8m2!3d35.1183325!4d-106.5561974!16s%2Fg%2F11bw40t9ms?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "South Valley Multi-Purpose Senior Center",
+"href": "https://maps.app.goo.gl/nqz7E1nRHRNd31CS6"
+},
+{
+"text": "South Valley Multi-Purpose Senior Center",
+"href": "https://www.google.com/maps/place/South+Valley+Multipurpose+Senior+Center/@35.069824,-106.6881653,18z/data=!3m1!4b1!4m6!3m5!1s0x87220d1761cdd137:0x8e97b267491a05c!8m2!3d35.069824!4d-106.6881653!16s%2Fg%2F11ckjv0w6y?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Taylor Middle School",
+"href": "https://www.google.com/maps/place/8200+Guadalupe+Trail+NW,+Los+Ranchos+De+Albuquerque,+NM+87114/@35.1758296,-106.6366074,17z/data=!3m1!4b1!4m6!3m5!1s0x872273f0eac23b93:0x6b4c1471059b176d!8m2!3d35.1760967!4d-106.637604!16s%2Fg%2F11bw3xplzn?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "The Shoppes at 6001 San Mateo",
+"href": "https://maps.app.goo.gl/x3rDF25qrfxaLBiv6"
+},
+{
+"text": "The Shoppes at 6001 San Mateo",
+"href": "https://www.google.com/maps/place/Your+Vote+Center/@35.1456447,-106.5880886,21z/data=!4m6!3m5!1s0x872274fbf413fa93:0x7d04db8d3ad734b0!8m2!3d35.1455493!4d-106.5881739!16s%2Fg%2F11fnrfl5sv?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Tijeras City Hall",
+"href": "https://maps.app.goo.gl/7DQr4nUY8z4Es1DR9"
+},
+{
+"text": "Tijeras City Hall",
+"href": "https://www.google.com/maps/place/Tijeras+City+Hall/@35.0891717,-106.3744617,19z/data=!3m1!4b1!4m6!3m5!1s0x8718ba3affbf86b1:0xe7f94679cc8d3064!8m2!3d35.0891717!4d-106.3744617!16s%2Fg%2F1tk6wccx?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Truman Middle School",
+"href": "https://www.google.com/maps/place/9400+Benavides+Rd+SW,+Albuquerque,+NM+87121/@35.0510616,-106.7370772,16z/data=!3m1!4b1!4m6!3m5!1s0x8722128f3407e565:0xe538e09cd56fc105!8m2!3d35.0510616!4d-106.7370772!16s%2Fg%2F11csdwm2zz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "University of New Mexico",
+"href": "https://maps.app.goo.gl/r5P4CPART8DtNePB8"
+},
+{
+"text": "University of New Mexico",
+"href": "https://www.google.com/maps/place/Student+Union+Bldg,+1+Roma+Ave+NE,+Albuquerque,+NM+87106/@35.0834705,-106.6201612,19z/data=!4m6!3m5!1s0x87220b5d7eda4715:0x4650a1172227bc19!8m2!3d35.0836489!4d-106.6200642!16s%2Fg%2F1vljgsx_?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Valle Vista Elementary School",
+"href": "https://www.google.com/maps/place/1700+Mae+Ave+SW,+Albuquerque,+NM+87105/@35.0763769,-106.6823097,17z/data=!4m6!3m5!1s0x87220d22273cb4af:0x3fc7b0a0fdbffa09!8m2!3d35.0763769!4d-106.6823097!16s%2Fg%2F11c2h1m8yz?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Valley High School",
+"href": "https://www.google.com/maps/place/1505+Candelaria+Rd+NW,+Albuquerque,+NM+87107/@35.1253624,-106.661358,17z/data=!3m1!4b1!4m6!3m5!1s0x87227316d4337773:0x57cbce8561334c3e!8m2!3d35.1250447!4d-106.660816!16s%2Fg%2F11bw3gfcpc?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Van Buren Middle School",
+"href": "https://www.google.com/maps/place/700+Louisiana+Blvd+SE,+Albuquerque,+NM+87108/@35.0662443,-106.5688414,17z/data=!3m1!4b1!4m5!3m4!1s0x87220a590364b147:0x19651ae8eecce91d!8m2!3d35.0662399!4d-106.5666527?shorturl=1"
+},
+{
+"text": "Ventana Ranch Elementary School",
+"href": "https://www.google.com/maps/place/6801+Ventana+Village+Rd+NW,+Albuquerque,+NM+87114/@35.1959543,-106.7315992,16z/data=!3m1!4b1!4m6!3m5!1s0x87226e22784846ab:0x3eb481c32e178482!8m2!3d35.1959543!4d-106.7315992!16s%2Fg%2F11bw3zv_5k?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Vista Grande Community Center",
+"href": "https://www.google.com/maps/place/15+La+Madera+Rd,+Sandia+Park,+NM+87047/@35.1770588,-106.341065,17z/data=!3m1!4b1!4m6!3m5!1s0x8718978672e3ed07:0xe1bc2ecd34e3d215!8m2!3d35.1770588!4d-106.341065!16s%2Fg%2F11c1dmdys1?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Volcano Vista High School",
+"href": "https://www.google.com/maps/place/8100+Rainbow+Blvd+NW,+Albuquerque,+NM+87114/@35.1777939,-106.7331071,17z/data=!3m1!4b1!4m6!3m5!1s0x87226e06fdf4884f:0xbc09c3e41e59500d!8m2!3d35.1777939!4d-106.7331071!16s%2Fg%2F11c5k26c1v?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Washington Middle School",
+"href": "https://www.google.com/maps/place/1101+Park+Ave+SW,+Albuquerque,+NM+87102/@35.086556,-106.661085,18z/data=!3m1!4b1!4m6!3m5!1s0x87220cc5bba0a4cb:0x2efd83a1b8be55e8!8m2!3d35.086546!4d-106.6611845!16s%2Fg%2F11bw415nfr?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "West Bluff Center",
+"href": "https://maps.app.goo.gl/B9RqMh61yhu64noK9"
+},
+{
+"text": "West Bluff Center",
+"href": "https://www.google.com/maps/place/5211+Ouray+Rd+NW+B,+Albuquerque,+NM+87120/@35.1129016,-106.7005765,21z/data=!4m6!3m5!1s0x872272bf8e11307d:0x629419f54564d7!8m2!3d35.1129461!4d-106.7005447!16s%2Fg%2F11bw43g4nj?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "West Mesa High School",
+"href": "https://www.google.com/maps/place/6701+Fortuna+Rd+NW,+Albuquerque,+NM+87121/@35.0958915,-106.7138761,18z/data=!3m1!4b1!4m6!3m5!1s0x872272adb2930397:0xa7ef38b5f5f0d87d!8m2!3d35.0961668!4d-106.7138813!16s%2Fg%2F11bw3ybsx0?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Zuni Elementary School",
+"href": "https://www.google.com/maps/place/6300+Claremont+Ave+NE,+Albuquerque,+NM+87110/@35.1118373,-106.5755515,16z/data=!3m1!4b1!4m6!3m5!1s0x8722752ca4f5dbb3:0x423cfa2869129d8!8m2!3d35.111922!4d-106.5757174!16s%2Fg%2F11bw3yn88f?entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.janellefornewmexico.com"
+},
+{
+"text": "[no text]",
+"href": "https://maps.app.goo.gl/frMMJ3BBoMq5hxfQ9"
+},
+{
+"text": "here",
+"href": "https://ipgr.maps.arcgis.com/apps/instant/nearby/index.html?appid=3bcb1ab89e6547b0a3c76e071c76e8d6"
+},
+{
+"text": "here",
+"href": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx?type=RA"
+},
+{
+"text": "here",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?tab=AbsenteeTracker"
+},
+{
+"text": "return your ballot",
+"href": "https://www.berncoclerk.gov/elections/absentee-voting/return-your-absentee-ballot/"
+}
 ]

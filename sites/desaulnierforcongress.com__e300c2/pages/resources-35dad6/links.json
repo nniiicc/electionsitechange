@@ -1,70 +1,302 @@
 [
-"http://bayareaborderrelief.org/",
-"http://ccprogressives.org/",
-"https://350bayarea.org/",
-"https://5calls.org/",
-"https://acceaction.org/",
-"https://actiontogetherwest.org/",
-"https://cadem.org/2026-organizing-efforts",
-"https://cadem.org/action",
-"https://cademocracypartnership.org/",
-"https://calaborfed.org/",
-"https://castatestrong.org/",
-"https://ccinterfaithcoalition.org/",
-"https://cocoyoungdems.org/",
-"https://commit2democracy.com/",
-"https://commoncause.org/",
-"https://concordcommunitiesalliance.org/",
-"https://contesteveryrace.com/",
-"https://contracostadems.com/",
-"https://contracostanow.org/",
-"https://couragecalifornia.org/",
-"https://cvdems.org/",
-"https://dccc.org/2026-districts-in-play",
-"https://dccc.org/2026-frontline",
-"https://dccc.org/2026-red-to-blue",
-"https://democracyforward.org/",
-"https://democrats.org/act",
-"https://democratsofrossmoor.org/",
-"https://desaulnierforcongress.com/",
-"https://desaulnierforcongress.com/endorsements",
-"https://desaulnierforcongress.com/get-involved",
-"https://desaulnierforcongress.com/issues",
-"https://desaulnierforcongress.com/meetmark",
-"https://desaulnierforcongress.com/resources",
-"https://dscc.org/take-action",
-"https://ebyd.org/",
-"https://envirovoters.org/",
-"https://facebook.com/MarkDeSaulnier",
-"https://facebook.com/groups/384379595287684?locale=fo_FO",
-"https://fiftyfifty.one/",
-"https://front.moveon.org/",
-"https://healthcareforall.org/chapters/contra-costa",
-"https://indivisible.org/",
-"https://indivisibleresisters.org/",
-"https://instagram.com/desaulnierforcongress",
-"https://interfaithccc.org/",
-"https://ldclub.org/",
-"https://marshcreekdems.org/",
-"https://mobilize.us/",
-"https://monumentcrisiscenter.org/",
-"https://multifaithactioncoalition.org/",
-"https://naralca.org/",
-"https://nokings.org/",
-"https://nvunheard.org/",
-"https://ourpeacecenter.org/",
-"https://pflaglamorinda.com/",
-"https://runforsomething.net/",
-"https://sierraclub.org/sfbay/local-groups",
-"https://sunflower-alliance.org/",
-"https://sunrisebayarea.org/",
-"https://swingbluealliance.org/",
-"https://swingleft.org/",
-"https://trivalleydems.com/",
-"https://turnoutpac.org/postcards",
-"https://twitter.com/MarkDeSaulnier",
-"https://unitedlatinovoices.org/",
-"https://votefwd.org/",
-"https://workingfamilies.org/",
-"https://yda.org/"
+{
+"text": "350 Bay Area",
+"href": "https://350bayarea.org/"
+},
+{
+"text": "5 Calls",
+"href": "https://5calls.org/"
+},
+{
+"text": "51501",
+"href": "https://www.fiftyfifty.one/"
+},
+{
+"text": "Action Together West",
+"href": "https://www.actiontogetherwest.org/"
+},
+{
+"text": "Alliance of Californians for Community Empowerment",
+"href": "https://www.acceaction.org/"
+},
+{
+"text": "Bay Area Border Relief",
+"href": "http://www.bayareaborderrelief.org/"
+},
+{
+"text": "California Democracy Partnership",
+"href": "https://www.cademocracypartnership.org/"
+},
+{
+"text": "California Democrats",
+"href": "https://cadem.org/action/"
+},
+{
+"text": "California Environmental Voters",
+"href": "https://envirovoters.org/"
+},
+{
+"text": "California Fights Forward",
+"href": "https://cadem.org/2026-organizing-efforts/"
+},
+{
+"text": "California Labor Federation",
+"href": "https://calaborfed.org/"
+},
+{
+"text": "Castro Valley Democratic Club",
+"href": "https://www.cvdems.org/"
+},
+{
+"text": "Civic Engagement",
+"href": "https://desaulnierforcongress.com/resources/"
+},
+{
+"text": "Commit to Democracy",
+"href": "https://www.commit2democracy.com/"
+},
+{
+"text": "Common Cause",
+"href": "https://www.commoncause.org/"
+},
+{
+"text": "Concord Communities Alliance",
+"href": "https://concordcommunitiesalliance.org/"
+},
+{
+"text": "Contest Every Race",
+"href": "https://www.contesteveryrace.com/"
+},
+{
+"text": "Contra Costa Interfaith Coalition",
+"href": "https://ccinterfaithcoalition.org/"
+},
+{
+"text": "Contra Costa NOW",
+"href": "https://contracostanow.org/"
+},
+{
+"text": "Contra Costa Progressives",
+"href": "http://www.ccprogressives.org/"
+},
+{
+"text": "Contra Costa Young Democrats",
+"href": "https://cocoyoungdems.org/"
+},
+{
+"text": "Courage California",
+"href": "https://couragecalifornia.org/"
+},
+{
+"text": "DCCC",
+"href": "https://dccc.org/2026-districts-in-play/"
+},
+{
+"text": "DCCC",
+"href": "https://dccc.org/2026-frontline/"
+},
+{
+"text": "DCCC",
+"href": "https://dccc.org/2026-red-to-blue/"
+},
+{
+"text": "DSCC",
+"href": "https://www.dscc.org/take-action/"
+},
+{
+"text": "Democracy Forward",
+"href": "https://democracyforward.org/"
+},
+{
+"text": "Democratic Party of Contra Costa",
+"href": "https://contracostadems.com/"
+},
+{
+"text": "Democrats",
+"href": "https://democrats.org/act/"
+},
+{
+"text": "Democrats of Rossmoor",
+"href": "https://democratsofrossmoor.org/"
+},
+{
+"text": "East Bay Young Democrats",
+"href": "https://www.ebyd.org/"
+},
+{
+"text": "Email",
+"href": "mailto:teammarkdesaulnier@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://desaulnierforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MarkDeSaulnier"
+},
+{
+"text": "Get Involved",
+"href": "https://desaulnierforcongress.com/get-involved/"
+},
+{
+"text": "Health Care for All California",
+"href": "https://healthcareforall.org/chapters/contra-costa/"
+},
+{
+"text": "Home",
+"href": "https://desaulnierforcongress.com/"
+},
+{
+"text": "Indivisible",
+"href": "https://indivisible.org/"
+},
+{
+"text": "Indivisible CA StateStrong",
+"href": "https://www.castatestrong.org/"
+},
+{
+"text": "Indivisible ReSisters Contra Costa",
+"href": "https://www.indivisibleresisters.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/desaulnierforcongress/"
+},
+{
+"text": "Interfaith Council of Contra Costa County",
+"href": "https://interfaithccc.org/"
+},
+{
+"text": "Issues",
+"href": "https://desaulnierforcongress.com/issues/"
+},
+{
+"text": "Lambda Democratic Club",
+"href": "https://www.facebook.com/groups/384379595287684/?locale=fo_FO"
+},
+{
+"text": "Lamorinda Democratic Club",
+"href": "https://ldclub.org/"
+},
+{
+"text": "Marsh Creek Democratic Club",
+"href": "https://www.marshcreekdems.org/"
+},
+{
+"text": "Meet Mark",
+"href": "https://desaulnierforcongress.com/meetmark/"
+},
+{
+"text": "Mobilize",
+"href": "https://www.mobilize.us/"
+},
+{
+"text": "Monument Crisis Center",
+"href": "https://monumentcrisiscenter.org/"
+},
+{
+"text": "MoveOn",
+"href": "https://front.moveon.org/"
+},
+{
+"text": "Mt. Diablo Peace and Justice",
+"href": "https://ourpeacecenter.org/"
+},
+{
+"text": "Multi-faith Action Coalition",
+"href": "https://www.multifaithactioncoalition.org/"
+},
+{
+"text": "NARAL Pro-Choice California",
+"href": "https://www.naralca.org/"
+},
+{
+"text": "No Kings",
+"href": "https://www.nokings.org/"
+},
+{
+"text": "No Voice Unheard",
+"href": "https://nvunheard.org/"
+},
+{
+"text": "PFLAG Lamorinda",
+"href": "https://www.pflaglamorinda.com/"
+},
+{
+"text": "Phone",
+"href": "tel:925-957-1123"
+},
+{
+"text": "Postcards to Swing States",
+"href": "https://turnoutpac.org/postcards/"
+},
+{
+"text": "Run for Something",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "Sierra Club Mt. Diablo",
+"href": "https://www.sierraclub.org/sfbay/local-groups#diablo"
+},
+{
+"text": "Sunflower Alliance",
+"href": "https://www.sunflower-alliance.org/"
+},
+{
+"text": "Sunrise Bay Area",
+"href": "https://sunrisebayarea.org/"
+},
+{
+"text": "Swing Blue Alliance",
+"href": "https://swingbluealliance.org/"
+},
+{
+"text": "Swing Left",
+"href": "https://swingleft.org/"
+},
+{
+"text": "Tri-Valley Democratic Club",
+"href": "https://trivalleydems.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/MarkDeSaulnier"
+},
+{
+"text": "United Latino Voices",
+"href": "https://unitedlatinovoices.org/"
+},
+{
+"text": "Vote Forward",
+"href": "https://votefwd.org/"
+},
+{
+"text": "Working Families Party",
+"href": "https://workingfamilies.org/"
+},
+{
+"text": "Young Democrats of America",
+"href": "https://yda.org/"
+},
+{
+"text": "[image: Mark DeSaulnier For Congress]",
+"href": "https://desaulnierforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MarkDeSaulnier"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MarkDeSaulnier"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/desaulnierforcongress/"
+},
+{
+"text": "[no text]",
+"href": "mailto:teammarkdesaulnier@gmail.com"
+}
 ]

@@ -1,23 +1,2 @@
-Be part of the movement from the beginning!
-Join supporters and special guests as we launch our campaign with energy and purpose.
-Events
-November 5 @ 8:00 am
--
-5:00 pm
-Rally and volunteer cleanup event supporting environmental protection and sustainability efforts in our community.
-November 10 @ 8:00 am
--
-5:00 pm
-A community dialogue on criminal justice reform, public safety, and restoring trust between citizens and institutions.
-November 16 @ 8:00 am
--
-5:00 pm
-A student-led event highlighting education, climate, and mental health policy ideas from the next generation of voters.
-November 19 @ 8:00 am
--
-5:00 pm
-A focused conversation with local business owners to discuss challenges, recovery efforts, and economic growth solutions.
-November 24 @ 8:00 am
--
-5:00 pm
-Join us for an open forum to share your concerns, ask questions, and help shape our campaign’s vision for real change.
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Events Home | Events Page Volunteer & Campaign Activities November 2 @ 8:00 am - 5:00 pm Campaign Kickoff Rally Be part of the movement from the beginning!
+Join supporters and special guests as we launch our campaign with energy and purpose. view details Volunteer & Campaign Activities November 5 @ 8:00 am - 5:00 pm Environmental Action Day Rally and volunteer cleanup event supporting environmental protection and sustainability efforts in our community. view details Community Engagement November 10 @ 8:00 am - 5:00 pm Justice & Equity Listening Session A community dialogue on criminal justice reform, public safety, and restoring trust between citizens and institutions. view details Policy & Advocacy Forums November 16 @ 8:00 am - 5:00 pm Youth for Change A student-led event highlighting education, climate, and mental health policy ideas from the next generation of voters. view details Policy & Advocacy Forums November 19 @ 8:00 am - 5:00 pm Small Business Roundtable A focused conversation with local business owners to discuss challenges, recovery efforts, and economic growth solutions. view details Community Engagement November 24 @ 8:00 am - 5:00 pm Community Town Hall Join us for an open forum to share your concerns, ask questions, and help shape our campaign’s vision for real change. view details Paid for by Callison for Assembly 2026, FPPC ID #1483879.

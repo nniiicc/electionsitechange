@@ -1,6 +1,4 @@
-Fred Clark believes in
-Putting the Reins on Data Centers
-Artificial intelligence and the technology that drives it has tremendous potential to remake and improve our society and our lives.
+Skip navigation menu Meet Fred Issues New Northwoods Endorsements Volunteer MERCH Donate Meet Fred Issues New Northwoods Endorsements Volunteer MERCH Donate Putting the Reins on Data Centers Making Artificial Intelligence Work For Us Supporting Women’s Rights and Women’s Health Border Safety and Immigration Our Constitution and the Rule of Law Health Care for Everyone Fred Clark believes in Putting the Reins on Data Centers Artificial intelligence and the technology that drives it has tremendous potential to remake and improve our society and our lives.
 We can only realize those benefits however by taking a strong public oversight of this technology and how it is built out.
 The huge footprint of hyper-scale data centers and their demand for electricity and water for cooling can affect neighboring property owners as well as energy rate payers.
 Alphabet, Meta, Microsoft, and Amazon collectively estimate their capital expenditures into AI will reach $700-800 billion in 2026.
@@ -9,10 +7,10 @@ Much of the hyper-scale data center build out is highly-leveraged by debt, howev
 Unlike in previous eras, a financial bust in the tech sector today would mean huge costs and impacts to communities where data centers are constructed, including the risk that data centers constructed today could soon be sitting empty.
 Private developments occurring at this scale, speed, and potential impact require strong, well-informed public oversight.
 Federal and State lawmakers need to get ahead of the data center buildout boom before more data centers are approved.
-In Congress I will support:
-- Allowing states to regulate data centers similar to utilities through Public Service Commissions that evaluate and permit proposed developments.
-- Ensuring that data center developments do not result in utility rate hikes so other energy consumers are not forced to subsidize data center energy costs.
-- Requiring data centers cover 100% of the costs of grid upgrades and heavily incentivize use of renewable energy with community benefits to prevent data center developments powered primarily by fossil fuels.
-- Subjecting data centers to environmental assessments that consider water usage in light of groundwater availability to ensure there is no detrimental impact to water sources for local communities.
-- Holding data center developers accountable for the impact of their developments and possible financial losses through binding community benefit agreements.
-- Requiring data center developers to contribute substantial ongoing payments to community benefit funds, and close the loopholes that let data centers dodge property taxes.
+In Congress I will support: Allowing states to regulate data centers similar to utilities through Public Service Commissions that evaluate and permit proposed developments.
+Ensuring that data center developments do not result in utility rate hikes so other energy consumers are not forced to subsidize data center energy costs.
+Requiring data centers cover 100% of the costs of grid upgrades and heavily incentivize use of renewable energy with community benefits to prevent data center developments powered primarily by fossil fuels.
+Subjecting data centers to environmental assessments that consider water usage in light of groundwater availability to ensure there is no detrimental impact to water sources for local communities.
+Holding data center developers accountable for the impact of their developments and possible financial losses through binding community benefit agreements.
+Requiring data center developers to contribute substantial ongoing payments to community benefit funds, and close the loopholes that let data centers dodge property taxes.
+Request a Yard Sign Events Media Contact Privacy Policy info@clarkforwi.com Powered by RUN! website builder Paid for by Fred Clark for Wisconsin PO Box 385, Washburn, WI 54891 You need to enable JavaScript to run this app.

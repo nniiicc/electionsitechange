@@ -1,13 +1,11 @@
-National Security & Immigration
-Secure the border the smart way.
+Skip navigation menu Home About Issues News Endorsements Get Involved Contact Donate ISSUES THAT MATTER IN NC DISTRICT 6 Home About Issues News Endorsements Get Involved Contact Donate ISSUES THAT MATTER IN NC DISTRICT 6 Affordability & Cost of Living Healthcare & Hunger Relief Protecting Democracy & Accountability Education & Workforce Development Economic Development & Infrastructure National Security & Immigration National Security & Immigration Secure the border the smart way.
 Cyril supports bipartisan solutions like the Border Act of 2024 to add border agents, judges, and cutting-edge fentanyl detection technology at legal ports of entry—where over 90% of fentanyl is caught.
 Fix our broken immigration system.
 He’ll expand legal visa pathways, streamline hiring for trusted employers, and protect American wages with E-Verify.
 Modernize our military and support veterans.
 Cyril will invest in cybersecurity, AI defense systems, and resilient supply chains while fully funding VA care, cutting claims backlogs, and helping service members transition to civilian careers.
 Bottom line: Safety without sacrificing values—because security and opportunity go hand in hand.
-Standards For Immigration Enforcement
-Safety requires trust.
+Standards For Immigration Enforcement Safety requires trust.
 As Mayor of High Point, Cyril’s first responsibility has been to keep his community safe—and to protect the trust that makes public safety possible.
 He has seen firsthand that communities are strongest when law enforcement is professional, transparent, and accountable.
 That same approach is what he will bring to Washington on behalf of North Carolina’s 6th District.
@@ -28,3 +26,6 @@ He will work to ensure ICE follows the law and has the proper training, oversigh
 Bottom line: Law enforcement and constitutional rights go hand in hand.
 Strong training builds trust.
 And trust keeps communities safe.
+Privacy Cyril For Congress | P.O.
+Box 5043 | High Point, NC 27262 Paid for by Cyril for Congress committee.
+You need to enable JavaScript to run this app.

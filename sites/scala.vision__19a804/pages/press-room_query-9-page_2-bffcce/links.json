@@ -1,35 +1,154 @@
 [
-"http://maps.google.com/?q=Queens%2C+NY",
-"https://facebook.com/realmikescala",
-"https://instagram.com/scalavision",
-"https://queenseagle.com/all/2026/2/27/queens-candidates-hit-streets-as-busy-ballot-petition-season-begins",
-"https://rockawave.com/articles/editorial-behind-the-big-blue-curtain",
-"https://rockawave.com/articles/editorial-rage-against-the-machine",
-"https://rockawave.com/articles/letters-1-23-26",
-"https://rockawave.com/articles/letters-3-12-26",
-"https://rockawave.com/articles/letters-3-5-26",
-"https://rockawave.com/articles/looking-out-for-our-best-friends",
-"https://rockawave.com/articles/mike-scala-pesach-osina-address-the-lew-m-simon-regular-democratic-club",
-"https://rockawave.com/articles/page-5-op-ed-10",
-"https://rockawave.com/articles/page-5-op-ed-12",
-"https://rockawave.com/articles/page-5-op-ed-16",
-"https://rockawave.com/articles/page-5-op-ed-6",
-"https://rockawave.com/articles/page-5-op-ed-8",
-"https://rockawave.com/articles/page-5-op-ed-9",
-"https://rockawaytimes.com/access-to-capital-event-supports-small-business-owners",
-"https://rockawaytimes.com/february-community-board-14-meeting-recap",
-"https://rockawaytimes.com/january-cb14-meeting-recap",
-"https://rockawaytimes.com/op-ed-the-return-of-democracy",
-"https://scala.vision/",
-"https://scala.vision/issues",
-"https://scala.vision/meet-mike",
-"https://scala.vision/press-room",
-"https://scala.vision/press-room?query-9-page=1",
-"https://scala.vision/press-room?query-9-page=17",
-"https://scala.vision/press-room?query-9-page=2&query-1-page=2",
-"https://scala.vision/press-room?query-9-page=3",
-"https://scala.vision/press-room?query-9-page=4",
-"https://scala.vision/volunteer",
-"https://secure.actblue.com/donate/mike-scala",
-"https://twitter.com/mikegscala"
+{
+"text": "1",
+"href": "https://scala.vision/press-room/?cst="
+},
+{
+"text": "17",
+"href": "https://scala.vision/press-room/?query-9-page=17&cst="
+},
+{
+"text": "3",
+"href": "https://scala.vision/press-room/?query-9-page=3&cst="
+},
+{
+"text": "4",
+"href": "https://scala.vision/press-room/?query-9-page=4&cst="
+},
+{
+"text": "Access to Capital Event Supports Small Business Owners",
+"href": "https://www.rockawaytimes.com/access-to-capital-event-supports-small-business-owners/#new_tab"
+},
+{
+"text": "Close the Loophole That Shortchanges Our Workers",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-12/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "Debates Are Central to Democracy",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-10/"
+},
+{
+"text": "Editorial: Behind The Big Blue Curtain",
+"href": "https://www.rockawave.com/articles/editorial-behind-the-big-blue-curtain/#new_tab"
+},
+{
+"text": "Editorial: Rage Against The Machine",
+"href": "https://www.rockawave.com/articles/editorial-rage-against-the-machine/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/realmikescala"
+},
+{
+"text": "February Community Board 14 Meeting Recap",
+"href": "https://www.rockawaytimes.com/february-community-board-14-meeting-recap/"
+},
+{
+"text": "Fix Tier 6",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-6/#new_tab"
+},
+{
+"text": "Home",
+"href": "https://scala.vision/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scalavision"
+},
+{
+"text": "Issues",
+"href": "https://scala.vision/issues/"
+},
+{
+"text": "January CB14 Meeting Recap",
+"href": "https://www.rockawaytimes.com/january-cb14-meeting-recap/#new_tab"
+},
+{
+"text": "Letters 1-23-26",
+"href": "https://www.rockawave.com/articles/letters-1-23-26/#new_tab"
+},
+{
+"text": "Letters 3-12-16",
+"href": "https://www.rockawave.com/articles/letters-3-12-26/"
+},
+{
+"text": "Letters 3-5-16",
+"href": "https://www.rockawave.com/articles/letters-3-5-26/"
+},
+{
+"text": "Looking Out For Our Best Friends",
+"href": "https://www.rockawave.com/articles/looking-out-for-our-best-friends/#new_tab"
+},
+{
+"text": "Meet Mike",
+"href": "https://scala.vision/meet-mike/"
+},
+{
+"text": "Mike Scala, Pesach Osina Address The Lew M. Simon Regular Democratic Club",
+"href": "https://www.rockawave.com/articles/mike-scala-pesach-osina-address-the-lew-m-simon-regular-democratic-club/#new_tab"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=2&query-1-page=2"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=3"
+},
+{
+"text": "Op-Ed: The Return of Democracy",
+"href": "https://www.rockawaytimes.com/op-ed-the-return-of-democracy/#new_tab"
+},
+{
+"text": "Op-Ed: When Politics Becomes Politricks",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-16/#new_tab"
+},
+{
+"text": "Page 5 Op-Ed",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-9/"
+},
+{
+"text": "Press Room",
+"href": "https://scala.vision/press-room/"
+},
+{
+"text": "Previous Page",
+"href": "https://scala.vision/press-room/?query-9-page=1"
+},
+{
+"text": "Queens candidates hit streets as busy ballot petition season begins",
+"href": "https://queenseagle.com/all/2026/2/27/queens-candidates-hit-streets-as-busy-ballot-petition-season-begins"
+},
+{
+"text": "Queens, NY",
+"href": "http://maps.google.com/?q=Queens%2C+NY"
+},
+{
+"text": "Twitter",
+"href": "https://www.twitter.com/mikegscala"
+},
+{
+"text": "We Must Continue Opposing the NESE Pipeline",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-8/"
+},
+{
+"text": "[image: Contribute]",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "[image: Scala for Assembly]",
+"href": "https://scala.vision/"
+},
+{
+"text": "[image: Volunteer to help Mike Scala for New York State Assembly]",
+"href": "https://scala.vision/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/realmikescala"
+}
 ]

@@ -1,21 +1,182 @@
 [
-"http://eepurl.com/hLXP_1",
-"https://docs.google.com/forms/d/e/1FAIpQLScPwT-aHl26RSv1_Mzjpx-5_HFwtEjWr_oNDQOBWyiovpSYQA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLScXfryroDcPm5CtcJLlr2BlvFnligPoEDKkKwymQitIpEJnew/viewform?usp=pp_url",
-"https://erinmayequade.com/",
-"https://erinmayequade.com/?page_id=572",
-"https://erinmayequade.com/meet-erin",
-"https://erinmayequade.com/meet-erin/endorsements",
-"https://erinmayequade.com/priorities",
-"https://erinmayequade.com/priorities/holding-big-tech-and-ai-accountable",
-"https://erinmayequade.com/priorities/increasing-program-integrity-and-fighting-corporate-fraud",
-"https://erinmayequade.com/priorities/protecting-essential-services-and-programs",
-"https://erinmayequade.com/priorities/protecting-rights-and-expanding-freedoms",
-"https://erinmayequade.com/priorities/restoring-democracy-to-the-people",
-"https://erinmayequade.com/priorities/tackling-the-affordability-crisis",
-"https://erinmayequade.com/priorities/uplifting-children-and-families",
-"https://facebook.com/ErinMayeQuadeMN",
-"https://instagram.com/erinmayequade",
-"https://secure.actblue.com/donate/team-emq",
-"https://twitter.com/ErinMayeQuade"
+{
+"text": "Affordability",
+"href": "https://erinmayequade.com/priorities/tackling-the-affordability-crisis/"
+},
+{
+"text": "Big Tech and AI",
+"href": "https://erinmayequade.com/priorities/holding-big-tech-and-ai-accountable/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/team-emq"
+},
+{
+"text": "Democracy",
+"href": "https://erinmayequade.com/priorities/restoring-democracy-to-the-people/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://erinmayequade.com/meet-erin/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ErinMayeQuadeMN"
+},
+{
+"text": "Fighting Corporate Fraud",
+"href": "https://erinmayequade.com/priorities/increasing-program-integrity-and-fighting-corporate-fraud/"
+},
+{
+"text": "Get Involved!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScPwT-aHl26RSv1_Mzjpx-5_HFwtEjWr_oNDQOBWyiovpSYQA/viewform"
+},
+{
+"text": "HOME",
+"href": "https://erinmayequade.com/"
+},
+{
+"text": "Holding Big Tech and AI Accountable",
+"href": "https://erinmayequade.com/priorities/holding-big-tech-and-ai-accountable/"
+},
+{
+"text": "Increasing Program Integrity and Fighting Corporate Fraud",
+"href": "https://erinmayequade.com/priorities/increasing-program-integrity-and-fighting-corporate-fraud/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/erinmayequade/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/meet-erin/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/holding-big-tech-and-ai-accountable/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/increasing-program-integrity-and-fighting-corporate-fraud/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/protecting-essential-services-and-programs/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/protecting-rights-and-expanding-freedoms/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/restoring-democracy-to-the-people/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/tackling-the-affordability-crisis/"
+},
+{
+"text": "Learn More",
+"href": "https://erinmayequade.com/priorities/uplifting-children-and-families/"
+},
+{
+"text": "Learn More About Voting in the Primary Election",
+"href": "https://erinmayequade.com/?page_id=572"
+},
+{
+"text": "MEET ERIN",
+"href": "https://erinmayequade.com/meet-erin/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://erinmayequade.com/priorities/"
+},
+{
+"text": "Protecting Essential Services",
+"href": "https://erinmayequade.com/priorities/protecting-essential-services-and-programs/"
+},
+{
+"text": "Protecting Essential Services and Programs",
+"href": "https://erinmayequade.com/priorities/protecting-essential-services-and-programs/"
+},
+{
+"text": "Protecting Our Rights",
+"href": "https://erinmayequade.com/priorities/protecting-rights-and-expanding-freedoms/"
+},
+{
+"text": "Protecting Rights and Expanding Freedoms",
+"href": "https://erinmayequade.com/priorities/protecting-rights-and-expanding-freedoms/"
+},
+{
+"text": "Request a lawn sign!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScXfryroDcPm5CtcJLlr2BlvFnligPoEDKkKwymQitIpEJnew/viewform?usp=pp_url"
+},
+{
+"text": "Restoring Democracy to the People",
+"href": "https://erinmayequade.com/priorities/restoring-democracy-to-the-people/"
+},
+{
+"text": "Sign up to Volunteer!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScPwT-aHl26RSv1_Mzjpx-5_HFwtEjWr_oNDQOBWyiovpSYQA/viewform"
+},
+{
+"text": "Stay Connected!",
+"href": "http://eepurl.com/hLXP_1"
+},
+{
+"text": "Tackling the Affordability Crisis",
+"href": "https://erinmayequade.com/priorities/tackling-the-affordability-crisis/"
+},
+{
+"text": "Uplifting Children and Families",
+"href": "https://erinmayequade.com/priorities/uplifting-children-and-families/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScPwT-aHl26RSv1_Mzjpx-5_HFwtEjWr_oNDQOBWyiovpSYQA/viewform"
+},
+{
+"text": "Working Families",
+"href": "https://erinmayequade.com/priorities/uplifting-children-and-families/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/ErinMayeQuade"
+},
+{
+"text": "[image: Erin Maye Quade for MN State Senate]",
+"href": "https://erinmayequade.com/"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/protecting-essential-services-and-programs/"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/uplifting-children-and-families/"
+},
+{
+"text": "",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScPwT-aHl26RSv1_Mzjpx-5_HFwtEjWr_oNDQOBWyiovpSYQA/viewform"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/increasing-program-integrity-and-fighting-corporate-fraud/"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/holding-big-tech-and-ai-accountable/"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/protecting-rights-and-expanding-freedoms/"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/tackling-the-affordability-crisis/"
+},
+{
+"text": "",
+"href": "https://erinmayequade.com/priorities/restoring-democracy-to-the-people/"
+}
 ]

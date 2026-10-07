@@ -1,7 +1,9 @@
 {
  "description": "Tom Smith is running for U.S. Representative for Michigan's 8th Congressional District. Conservative leadership guided by the Constitution, Faith, and Freedom.",
  "final_url": "https://tomsmithformi.com/",
- "paid_for_by": null,
+ "fingerprint": "57c879167115b2bc0b128e447e8c71f51458ad58",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tom Smith for Congress",
  "years_mentioned": []
 }

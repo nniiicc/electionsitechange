@@ -1,30 +1,162 @@
 [
-"https://aclu-il.org/campaigns-initiatives/voting-in-the-2026-election",
-"https://aclu-il.org/know-your-rights/know-your-rights-voting-illinois",
-"https://chicagoelections.gov/",
-"https://cookcountyclerkil.gov/elections",
-"https://elections.il.gov/",
-"https://elections.il.gov/ElectionOperations/VotingByMail.aspx",
-"https://elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx",
-"https://elections.il.gov/InformationForVoters.aspx",
-"https://elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx",
-"https://facebook.com/profile.php?id=61588490796414",
-"https://kankakeecountyclerk.gov/election-information",
-"https://mailvoting.cookcountyclerkil.gov/en/Application/ApplicantInformation",
-"https://noack4congress.com/",
-"https://noack4congress.com/about",
-"https://noack4congress.com/contact",
-"https://noack4congress.com/district-resources",
-"https://noack4congress.com/get-involved",
-"https://noack4congress.com/issues",
-"https://noack4congress.com/news",
-"https://ova.elections.il.gov/",
-"https://ova.elections.il.gov/PollingPlaceLookup.aspx",
-"https://ova.elections.il.gov/RegistrationLookup.aspx",
-"https://secure.winred.com/the-committee-to-elect-michael-scott-noack-for-con/donate-today",
-"https://vote.gov/register/illinois",
-"https://vote411.org/illinois",
-"https://willcountyclerk.gov/elections",
-"https://wordpress.org/",
-"https://x.com/Noack4ILDist2"
+{
+"text": "2026 Voting Rights Resources",
+"href": "https://www.aclu-il.org/campaigns-initiatives/voting-in-the-2026-election/"
+},
+{
+"text": "About Mike",
+"href": "https://noack4congress.com/about/"
+},
+{
+"text": "Apply for a Mail Ballot (ISBE)",
+"href": "https://www.elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx"
+},
+{
+"text": "Check Your Registration Status",
+"href": "https://ova.elections.il.gov/RegistrationLookup.aspx"
+},
+{
+"text": "Chicago Board of Elections",
+"href": "https://chicagoelections.gov/"
+},
+{
+"text": "Clean Energy",
+"href": "https://noack4congress.com/issues/#clean-energy"
+},
+{
+"text": "Contact",
+"href": "https://noack4congress.com/contact/"
+},
+{
+"text": "Cook County Clerk — Elections",
+"href": "https://www.cookcountyclerkil.gov/elections"
+},
+{
+"text": "Cook County Mail Ballot Application",
+"href": "https://mailvoting.cookcountyclerkil.gov/en/Application/ApplicantInformation"
+},
+{
+"text": "District Resources",
+"href": "https://noack4congress.com/district-resources/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/the-committee-to-elect-michael-scott-noack-for-con/donate-today"
+},
+{
+"text": "Donate Now — Fuel the Campaign",
+"href": "https://secure.winred.com/the-committee-to-elect-michael-scott-noack-for-con/donate-today"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://www.elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx"
+},
+{
+"text": "Federal Voter Registration (Vote.gov)",
+"href": "https://vote.gov/register/illinois"
+},
+{
+"text": "Get Involved",
+"href": "https://noack4congress.com/get-involved/"
+},
+{
+"text": "Healthcare",
+"href": "https://noack4congress.com/issues/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://noack4congress.com/"
+},
+{
+"text": "Illinois State Board of Elections",
+"href": "https://www.elections.il.gov/"
+},
+{
+"text": "Illinois Voter Information Hub",
+"href": "https://www.elections.il.gov/InformationForVoters.aspx"
+},
+{
+"text": "Immigration",
+"href": "https://noack4congress.com/issues/#immigration"
+},
+{
+"text": "Issues",
+"href": "https://noack4congress.com/issues/"
+},
+{
+"text": "Kankakee County Clerk — Elections",
+"href": "https://www.kankakeecountyclerk.gov/election-information/"
+},
+{
+"text": "Know Your Rights: Voting in Illinois",
+"href": "https://www.aclu-il.org/know-your-rights/know-your-rights-voting-illinois/"
+},
+{
+"text": "Mike Noack for Congress",
+"href": "https://noack4congress.com"
+},
+{
+"text": "Mike Noack for Congress",
+"href": "https://noack4congress.com/"
+},
+{
+"text": "News",
+"href": "https://noack4congress.com/news/"
+},
+{
+"text": "Noack for CongressIllinois’ 2nd District",
+"href": "https://noack4congress.com/"
+},
+{
+"text": "Polling Place Lookup (ISBE)",
+"href": "https://ova.elections.il.gov/PollingPlaceLookup.aspx"
+},
+{
+"text": "Register to Vote Online",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Taxes & Spending",
+"href": "https://noack4congress.com/issues/#taxes"
+},
+{
+"text": "VOTE411 — League of Women Voters",
+"href": "https://www.vote411.org/illinois"
+},
+{
+"text": "Veterans",
+"href": "https://noack4congress.com/issues/#veterans"
+},
+{
+"text": "Volunteer",
+"href": "https://noack4congress.com/get-involved/"
+},
+{
+"text": "Vote by Mail Information (ISBE)",
+"href": "https://www.elections.il.gov/ElectionOperations/VotingByMail.aspx"
+},
+{
+"text": "Will County Clerk — Elections",
+"href": "https://www.willcountyclerk.gov/elections/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588490796414"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Noack4ILDist2"
+},
+{
+"text": "michaeln@noack4congress.com",
+"href": "mailto:michaeln@noack4congress.com"
+},
+{
+"text": "michaelw@noack4congress.com",
+"href": "mailto:michaelw@noack4congress.com"
+}
 ]

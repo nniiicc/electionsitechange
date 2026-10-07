@@ -1,8 +1,4 @@
-Embedded Files
-Control of Arizona Government
-Click to download this image
-Images are available for free download.
+Search this site Embedded Files Skip to main content Skip to navigation rwkarp.com Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter rwkarp.com Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter More Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter Graphics Control of Arizona Government Click to download Click to download this image Images are available for free download.
 You may use them but agree not to edit or change them in any manner.
-Page updated
-Google Sites
-Report abuse
+(C) Robert W Karp # Paid for by Bob Karp for AZ Senate, authorized by Bob Karp Contact the campaign at bobkarp2026@gmail.com 2069 Kaleigh Ct.
+Sierra Vista, AZ 85635, 520-559-3835 Our privacy policy: https://tinyurl.com/3dxf7cb3 Google Sites Report abuse Page details Page updated Google Sites Report abuse

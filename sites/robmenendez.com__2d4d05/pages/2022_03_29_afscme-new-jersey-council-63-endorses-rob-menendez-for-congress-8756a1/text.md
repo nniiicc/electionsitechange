@@ -1,13 +1,10 @@
-Press Releases
-AFSCME New Jersey Council 63 Endorses Rob Menendez for Congress
-HAMILTON – AFSCME New Jersey Council 63 today announced their endorsement of Rob Menendez for Congress, in New Jersey’s Eighth District.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Press Releases AFSCME New Jersey Council 63 Endorses Rob Menendez for Congress March 29, 2022 HAMILTON – AFSCME New Jersey Council 63 today announced their endorsement of Rob Menendez for Congress, in New Jersey’s Eighth District.
 “Rob Menendez is a bright, young voice for working families in the Eighth District,” said Executive Director Steve Tully.
 “Rob has shown that he understands the critical role that public employees play in our municipalities, counties, and our state.
 In Washington, he will fight for our rights to protect the men and women that work tirelessly everyday to provide essential services to the public.
-We wholeheartedly endorse Rob and his work to strengthen families in our state.”
-“Growing up in a family of public servants has shown me firsthand the dedication and hard work that government employees exhibit every single day,” said Rob Menendez.
+We wholeheartedly endorse Rob and his work to strengthen families in our state.” “Growing up in a family of public servants has shown me firsthand the dedication and hard work that government employees exhibit every single day,” said Rob Menendez.
 “I am honored to accept AFSCME’s endorsement of our campaign and our values.
 Strengthening families is at the core of our campaign and unions like AFSCME are critical to this mission.
-In Congress, I will fight every day for organized labor, because unions have been the path to success and financial security for so many in our district and our state.”
-AFSCME New Jersey Council 63 represents over 20,000 state, municipal, and local employees across the state.
+In Congress, I will fight every day for organized labor, because unions have been the path to success and financial security for so many in our district and our state.” AFSCME New Jersey Council 63 represents over 20,000 state, municipal, and local employees across the state.
 There are more than 30,000 retired and current AFSCME members living in New Jersey.
+Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

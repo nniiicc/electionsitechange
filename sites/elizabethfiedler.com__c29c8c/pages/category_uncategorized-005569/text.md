@@ -1,28 +1,22 @@
-December 19, 2023 HARRISBURG, Dec. 19 – State Rep.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Category: Uncategorized Fiedler welcomes more than $100,000 in state grants to south Phila.
+Posted on December 21, 2023 by Sarah Bishop-Stone December 19, 2023 HARRISBURG, Dec.
+19 – State Rep.
 Elizabeth Fiedler, D-Phila., has announced that a total of $105,685 in state funding from the Commonwealth Financing Authority’s Arts and Culture Recovery Grants Program has been awarded to multiple organizations in her legislative district in south Philadelphia.
-Funds distributed through the PA Arts and Culture Recovery […]
-Category: Uncategorized
-December 20, 2023 The boiler at South Philadelphia High School is so old that it’s difficult to find replacement parts when something breaks.
-There’s no air-conditioning — often a problem in sweltering June and September in the five-story school that occupies an entire city block on South Broad Street — and there’s an outdated electrical […]
-November 24, 2023 HARRISBURG — All Pennsylvania medical providers will soon be required to get consent before conducting any pelvic, rectal, or prostate exams on patients under anesthesia.
-While some regional medical institutions have banned the practice, there was no statewide ban to prevent physicians or medical students from conducting invasive pelvic exams, even when […]
-August 4, 2023 A proposal in the state legislature would help boost renewables in Pennsylvania by easing the process for schools to install solar panels.
+Funds distributed through the PA Arts and Culture Recovery […] Posted in News , Uncategorized State leaders tout $175 million to fix old school buildings during visit to South Philly HS Posted on December 20, 2023 December 21, 2023 by Sarah Bishop-Stone December 20, 2023 The boiler at South Philadelphia High School is so old that it’s difficult to find replacement parts when something breaks.
+There’s no air-conditioning — often a problem in sweltering June and September in the five-story school that occupies an entire city block on South Broad Street — and there’s an outdated electrical […] Posted in News , Uncategorized Doctors in Pa. can’t perform pelvic exams without consent, new law says Posted on November 24, 2023 December 21, 2023 by Sarah Bishop-Stone November 24, 2023 HARRISBURG — All Pennsylvania medical providers will soon be required to get consent before conducting any pelvic, rectal, or prostate exams on patients under anesthesia.
+While some regional medical institutions have banned the practice, there was no statewide ban to prevent physicians or medical students from conducting invasive pelvic exams, even when […] Posted in News , Uncategorized 1 Comment on Doctors in Pa. can’t perform pelvic exams without consent, new law says Bill to boost solar in Pa. schools has bipartisan support Posted on August 4, 2023 December 21, 2023 by Sarah Bishop-Stone August 4, 2023 A proposal in the state legislature would help boost renewables in Pennsylvania by easing the process for schools to install solar panels.
 The Solar for Schools bill passed the House in June with a bipartisan vote of 134-69 and is now waiting for a vote in the Senate.
-The initiative would give […]
-June 29, 2023 A handful of school districts around Pennsylvania have embraced solar energy to reduce or eliminate their utility costs and legislation passed in the state House on Thursday would give other districts an incentive to invest in renewable energy.
-The Solar for Schools Act would leverage federal funding through the Inflation Reduction Act […]
-June 23, 2023 As negotiations over the state budget heat up, Philadelphia lawmakers and officials say funds to fix the city’s aging, toxic schools rank as a top priority.
+The initiative would give […] Posted in News , Uncategorized Solar energy grant program for Pa. school districts gets bipartisan support in state House Posted on June 29, 2023 December 21, 2023 by Sarah Bishop-Stone June 29, 2023 A handful of school districts around Pennsylvania have embraced solar energy to reduce or eliminate their utility costs and legislation passed in the state House on Thursday would give other districts an incentive to invest in renewable energy.
+The Solar for Schools Act would leverage federal funding through the Inflation Reduction Act […] Posted in News , Uncategorized Philly leaders are demanding money to repair schools in new Pa. budget Posted on June 23, 2023 December 21, 2023 by Sarah Bishop-Stone June 23, 2023 As negotiations over the state budget heat up, Philadelphia lawmakers and officials say funds to fix the city’s aging, toxic schools rank as a top priority.
 At a news conference Friday at South Philadelphia High School, the school district’s superintendent, City Council members and union leaders joined State Rep.
-Elizabeth Fiedler (D., […]
-Philadelphia, May 3, 2022 – Pennsylvania State Representative Elizabeth Fiedler on Tuesday announced endorsements from Planned Parenthood and EMILY’s List in her bid for re-election.
+Elizabeth Fiedler (D., […] Posted in News , Uncategorized PA State Rep Elizabeth Fiedler endorsed by Planned Parenthood and EMILY’s List Posted on May 3, 2022 May 3, 2022 by Wordpress Fiedler Philadelphia, May 3, 2022 – Pennsylvania State Representative Elizabeth Fiedler on Tuesday announced endorsements from Planned Parenthood and EMILY’s List in her bid for re-election.
 “EMILY’s List is excited to endorse Elizabeth Fiedler to represent Pennsylvania’s 184th House District,” said Sarah Curmi, Vice President of State and Local Campaigns at EMILY’s List.
 “Rep.
-Fiedler’s dedication […]
-1/18/2022 State Rep.
+Fiedler’s dedication […] Posted in Uncategorized Fiedler partners in food drive for South Philly families Posted on January 18, 2022 March 11, 2022 by Anthony Amaker 1/18/2022 State Rep.
 Elizabeth Fiedler recently partnered with local groups to provide food to senior citizens and families across her district, which includes parts of South Philadelphia.
-Dozens of holiday hams and groceries were provided to seniors from the South Philadelphia Older Adult Center, and to children and their families from the Discovery Place Pre-School, […]
-June 18, 2021 As lawmakers prepare to make the final push to pass a state budget, education funding is becoming a focal point on several fronts.
+Dozens of holiday hams and groceries were provided to seniors from the South Philadelphia Older Adult Center, and to children and their families from the Discovery Place Pre-School, […] Posted in Uncategorized Education funding taking center stage at state Capitol Posted on June 18, 2021 March 11, 2022 by Anthony Amaker June 18, 2021 As lawmakers prepare to make the final push to pass a state budget, education funding is becoming a focal point on several fronts.
 “We stand in solidarity with the 5- and 6-year-old children whose lungs, hearts and brains are still developing while they sit in toxic buildings.
-We stand here today with […]
-June 16, 2021 HARRISBURG, June 16 — Labor leaders and lawmakers from across Pennsylvania took to the steps of the Capitol in Harrisburg on Wednesday morning to hold a Labor for Schools Rally.
-The group called for the legislature to take bold, job-creating, life-saving action and remediate the lead, asbestos and other toxins currently in […]
+We stand here today with […] Posted in News , Uncategorized Rep.
+Fiedler, colleagues host No More Excuses, End Toxic Schools rally Posted on June 16, 2021 March 11, 2022 by Anthony Amaker June 16, 2021 HARRISBURG, June 16 — Labor leaders and lawmakers from across Pennsylvania took to the steps of the Capitol in Harrisburg on Wednesday morning to hold a Labor for Schools Rally.
+The group called for the legislature to take bold, job-creating, life-saving action and remediate the lead, asbestos and other toxins currently in […] Posted in News , Uncategorized Posts navigation Older posts Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

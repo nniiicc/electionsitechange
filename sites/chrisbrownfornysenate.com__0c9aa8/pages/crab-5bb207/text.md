@@ -1,6 +1,1 @@
-Maryland Blue Crab Fest
-All you can eat
-Come support Chris Brown for NY State Senate for District 55
-Date: Friday, October 9th • 5:30 – 9:00pm
-Location: VFW Post 8495, 300 Macedon Center Road, Fairport, NY 14450
-Connect with us
+Skip to content Connect with us Toggle Navigation MEET CHRIS EVENTS DONATE Maryland Blue Crab Fest All you can eat Come support Chris Brown for NY State Senate for District 55 Date: Friday, October 9th • 5:30 – 9:00pm Location: VFW Post 8495, 300 Macedon Center Road, Fairport, NY 14450 Paid for by CHRISTOPHER BROWN FOR STATE SENATE • Promoting Values that Shape a Rising Future Copyright © # | All Rights Reserved Facebook Page load link Go to Top

@@ -1,46 +1,28 @@
-Crossover Day at the Capitol
-Friends —
-Yesterday was Crossover Day, marking an exciting milestone for the 2026 Legislative Session.
+0 Skip to Content HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE Crossover Day at the Capitol Mar 7 Written By Emma Nunez Friends — Yesterday was Crossover Day, marking an exciting milestone for the 2026 Legislative Session.
 Crossover day is the last day a bill has to pass from its chamber of origin to the other to be considered during the current legislative session.
 From historic tax relief, insurance reform, and education policy to forestry relief, healthcare, and public safety, the Georgia House has been laser-focused on addressing the most pressing issues facing our state and delivering real, meaningful results for the people of Georgia.
-Below are just a few highlights of legislation passed by the House so far:
-HB 880 - Income Tax Rate Reduction
-House Bill 880 incrementally lowers the individual income tax rate from 4.99% to 3.99%, increases the personal exemption for dependents from $4,000 to $6,000, raises the standard deduction for married couples filing jointly from $24,000 to $36,000, increases the standard deduction for single filers from $12,000 to $18,000, and raises the income exclusion for retirees 65 or older from $65,000 to $70,000 per eligible taxpayer.
-HB 1000 - Income Tax Rebate
-House Bill 1000 puts over $1 billion back into the pockets of hardworking Georgians with a fourth one-time tax rebate for our state’s taxpayers.
-HB 1116 - The Georgia HOME Act
-The Georgia HOME Act provides homeowners with much-needed property tax relief by capping property tax increases at 3%, capping local sales tax at the current level while enabling a dollar-for-dollar sales tax penny to offset property tax, requiring local governments to report revenues to the Georgia Department of Revenue annually, and requiring local governments to provide written notice of tax increases to each parcel holder.
-HR 1000 - Forestry Industry Relief
-Georgia’s forestry industry has been the backbone of communities across the southeast for generations.
+Below are just a few highlights of legislation passed by the House so far: HB 880 - Income Tax Rate Reduction House Bill 880 incrementally lowers the individual income tax rate from 4.99% to 3.99%, increases the personal exemption for dependents from $4,000 to $6,000, raises the standard deduction for married couples filing jointly from $24,000 to $36,000, increases the standard deduction for single filers from $12,000 to $18,000, and raises the income exclusion for retirees 65 or older from $65,000 to $70,000 per eligible taxpayer.
+HB 1000 - Income Tax Rebate House Bill 1000 puts over $1 billion back into the pockets of hardworking Georgians with a fourth one-time tax rebate for our state’s taxpayers.
+HB 1116 - The Georgia HOME Act The Georgia HOME Act provides homeowners with much-needed property tax relief by capping property tax increases at 3%, capping local sales tax at the current level while enabling a dollar-for-dollar sales tax penny to offset property tax, requiring local governments to report revenues to the Georgia Department of Revenue annually, and requiring local governments to provide written notice of tax increases to each parcel holder.
+HR 1000 - Forestry Industry Relief Georgia’s forestry industry has been the backbone of communities across the southeast for generations.
 The House is committed to delivering relief to our growers and producers as changing markets place unprecedented financial strain on the industry.
 House Resolution 1000 proposes a constitutional amendment to reduce the assessment rate for qualifying timber to zero percent, effectively exempting it from ad valorem taxation at harvest or sale.
-HB 1063 - Georgia Utility Ratepayer Protections
-House Bill 1063 safeguards energy affordability for Georgia families and small businesses by ensuring data centers and large-load consumers pay their own way up front.
-HB 1009 - Removes Cellphones from High School Classrooms
-House Bill 1009 mandates distraction-free, cellphone-free classrooms in grades 9-12, helping our students focus on learning and prioritize face time over screen time.
-HB 1193 - Georgia Early Literacy Act of 2026
-The Georgia Early Literacy Act makes significant strides in ensuring every child across our state learns to read.
+HB 1063 - Georgia Utility Ratepayer Protections House Bill 1063 safeguards energy affordability for Georgia families and small businesses by ensuring data centers and large-load consumers pay their own way up front.
+HB 1009 - Removes Cellphones from High School Classrooms House Bill 1009 mandates distraction-free, cellphone-free classrooms in grades 9-12, helping our students focus on learning and prioritize face time over screen time.
+HB 1193 - Georgia Early Literacy Act of 2026 The Georgia Early Literacy Act makes significant strides in ensuring every child across our state learns to read.
 This bill will place a literacy coach in every K-3 elementary school, ensure our future educators are prepared to teach reading, and provide a book to every new family when they leave the hospital.
-HB 1402 - Mandatory Vision and Hearing Screening for Early Learners
-The ability to see and hear in the classroom is critical for the success of Georgia’s earliest learners.
+HB 1402 - Mandatory Vision and Hearing Screening for Early Learners The ability to see and hear in the classroom is critical for the success of Georgia’s earliest learners.
 House Bill 1402 Mandates vision and hearing screenings for all public school students in pre-K through third grade.
-HB 1123 - Expands After-School Care for Early Learners
-House Bill 1123 supports working families by increasing access to after-school care for pre-K students by requiring public schools that operate after-school programs to allow pre-K students to participate.
-HB 1118 - Increases Paid Maternal Leave from 6 to 9 Weeks for State Employees
-There is no more important time for mothers and families than the first few weeks with a newborn.
+HB 1123 - Expands After-School Care for Early Learners House Bill 1123 supports working families by increasing access to after-school care for pre-K students by requiring public schools that operate after-school programs to allow pre-K students to participate.
+HB 1118 - Increases Paid Maternal Leave from 6 to 9 Weeks for State Employees There is no more important time for mothers and families than the first few weeks with a newborn.
 That’s why the House was proud to pass HB 1118, increasing paid maternal leave for state-employed birth mothers from 6 to 9 weeks.
-HB 1142 - Creates a Repeat Domestic Violence Offender Registry
-House Bill 1142 sends a clear message.
+HB 1142 - Creates a Repeat Domestic Violence Offender Registry House Bill 1142 sends a clear message.
 Here in Georgia, we will not ignore patterns of violence, and we will always support strengthening protections for women, families, and children.
 This measure created Georgia’s first registry of repeat domestic violence offenders to be managed by the Georgia Bureau of Investigation.
-HB 1247 - Georgia Bureaucratic Deference Elimination Act
-House Bill 1247 strengthens legislative intent and restores balance between the branches of government by preventing courts and administrative officers from deferring to state agency interpretations when interpreting Georgia's Constitution, statutes, or regulations.
-HB 1274 - Insurance Affordability Reform
-The Excess Auto Insurance Profits Act requires insurance companies that profit above five percent of their expected profit for three consecutive years to file a rate decrease.
+HB 1247 - Georgia Bureaucratic Deference Elimination Act House Bill 1247 strengthens legislative intent and restores balance between the branches of government by preventing courts and administrative officers from deferring to state agency interpretations when interpreting Georgia's Constitution, statutes, or regulations.
+HB 1274 - Insurance Affordability Reform The Excess Auto Insurance Profits Act requires insurance companies that profit above five percent of their expected profit for three consecutive years to file a rate decrease.
 A similar law in Florida resulted in a $1 billion rebate to customers.
-HB 1344 - Georgia Insurance Affordability and Claims Integrity Act
-The Insurance Affordability & Claims Integrity Act increases nearly 40 insurance fines in Georgia’s insurance code, strengthens the authority of the Office of the Insurance Commissioner to levy fines against bad actors, enforces Georgia’s uninsured motorist laws, cracks down on insurance fraud, and tightens up Georgia law about claims processing following storms and other damage.
+HB 1344 - Georgia Insurance Affordability and Claims Integrity Act The Insurance Affordability & Claims Integrity Act increases nearly 40 insurance fines in Georgia’s insurance code, strengthens the authority of the Office of the Insurance Commissioner to levy fines against bad actors, enforces Georgia’s uninsured motorist laws, cracks down on insurance fraud, and tightens up Georgia law about claims processing following storms and other damage.
 Our work is far from over.
 We’ll continue to work alongside Governor Kemp and our friends in the Senate to support common-sense policy, make life more affordable for every family, and uplift each of our neighbors across Georgia.
-My best,
-Speaker Jon Burns
+Celebrating the passage of several House priorities to uplift women, children, and families with bill sponsors and Majority Caucus members My best, Speaker Jon Burns Emma Nunez Previous Previous FY 2027 Budget Next Next Insurance Premium Relief + Early Literacy Act JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY

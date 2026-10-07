@@ -1,11 +1,6 @@
-top of page
-Get Involved
-Host a Community Conversation
-If you would like to host a small community gathering or neighborhood meeting, I would love to meet with you and hear your concerns directly.
-Help Spread
-the Word
-If you support what I stand for, will you help me get the word out?
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate Get Involved Host a Community Conversation If you would like to host a small community gathering or neighborhood meeting, I would love to meet with you and hear your concerns directly.
+Help Spread the Word If you support what I stand for, will you help me get the word out?
 Please put up my sign, hand out our information, talk with your friends and neighbors.
 We need a grass roots movement to change Whatcom County.
 If We Don’t Create Change at the State Level Now, Life Is Going to Get More Expensive.
-bottom of page
+Meet Erika Volunteer Donate Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

@@ -1,5 +1,4 @@
-About Ronny Jackson
-Doctor Ronny Jackson retired from the Navy as a Rear Admiral on December 1, 2019 after 25 years of Active Duty service.
+Home About Issues Donate Donate About Ronny Jackson Doctor Ronny Jackson retired from the Navy as a Rear Admiral on December 1, 2019 after 25 years of Active Duty service.
 His last duty assignment was at the White House, where he served as Assistant to the President and as the appointed Chief Medical Advisor to President Donald J.
 Trump.
 Born and raised in a hardworking blue-collar family in the small town of Levelland, Texas, Dr.
@@ -26,3 +25,8 @@ Jackson was appointed Assistant to the President and took on the newly establish
 His awards include the Defense Superior Service Medal, the Legion of Merit, the Navy/Marine Corps Commendation Medal (four awards), the Navy/Marine Corps Achievement Medal (three awards), as well as other individual, unit and campaign awards.
 He is also designated as a diving and undersea medical officer, naval parachutist, Fleet Marine Force warfare qualified officer, and submarine warfare qualified medical officer.
 Ronny has been married to his wife Jane for 32 years and they have 3 children.
+Paid for by Team Ronny, a joint fundraising committee authorized and composed of Texans for Ronny Jackson,Texas Red, and NRCC.
+P.O.
+Box 51522, Amarillo, TX 79159 © 2026 Ronny Jackson for Congress.
+All rights reserved.
+Terms of Service Privacy Policy

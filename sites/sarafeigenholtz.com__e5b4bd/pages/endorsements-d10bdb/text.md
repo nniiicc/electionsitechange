@@ -1,19 +1,2 @@
-Home
-Meet Sara
-Issues
-Community Safety
-Reproductive Rights
-Environment
-Mental Health
-Housing
-LGBTQ+ rights
-Transportation
-Endorsements
-Volunteer
-Contact
-Donate
-Endorsements
-Home
-Endorsements
-Latest News
-Oops, category not found.
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate Endorsements Home Endorsements Latest News Oops, category not found.
+Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

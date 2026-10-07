@@ -1,5 +1,4 @@
-Friends and neighbors,
-I am proud to support Naomi Riess for House District 59.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Lorene Bonds Lorene Bonds Friends and neighbors, I am proud to support Naomi Riess for House District 59.
 I have known Naomi for more than 20 years through our work in agriculture, the Fair, horticulture programs, and sustainable agriculture efforts in our community.
 Over those years, I have watched her step up time and again to do the hard work that keeps our rural way of life strong.
 Naomi currently serves as Chair of the Florida Mesa Planning District, where she has taken the lead in implementing the district plan and coordinating directly with the county.
@@ -16,6 +15,4 @@ Water, land stewardship, and responsible policy are not abstract issues to me, t
 Naomi is strong enough, grounded enough, and guided by common sense.
 She will earn the votes of this district and represent us with confidence and clarity at the Capitol.
 I fully endorse Naomi Riess for House District 59.
-Lorene Bonds
-Fourth Generation Community Member
-La Plata County Rancher
+Lorene Bonds Fourth Generation Community Member La Plata County Rancher Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

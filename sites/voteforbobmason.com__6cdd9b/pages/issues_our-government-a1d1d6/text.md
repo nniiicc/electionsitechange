@@ -1,9 +1,7 @@
-Our Government
-For almost 8 years our governor has been acting as a dictator.
+Home Meet Bob Issues News Volunteer Contribute Contact Yard Signs Home ❭ Issues ❭ Our Government Our Government For almost 8 years our governor has been acting as a dictator.
 From keeping kids out of school, to telling you not to go out while she buys jewelry, to attempting to ruin small business, to telling you what kind of car you can drive, she has exercised a level of control that is far beyond what is allowed for in either the U.S. or state constitution.
 She feels like those constitutions are subordinate to her own whims and desires.
-In 2023, she stated that "No constitutional right, in my view, including my oath, is intended to be absolute,"
-That should have energized the legislature to take steps to regain their ability to represent you.
+In 2023, she stated that "No constitutional right, in my view, including my oath, is intended to be absolute," That should have energized the legislature to take steps to regain their ability to represent you.
 It did not.
 It’s that sort of power grab that the U.S. and state constitutions were designed to prevent.
 The greatest power is supposed to be in the hands of your elected legislators who represent you.
@@ -20,7 +18,4 @@ That’s not a good use of your tax dollars.
 They constantly overlook, or even support the governor’s ever-growing cabinet with boards and committees that can make rules you have to live by but for which you will never have a vote.
 Even though our legislature seems uninterested in representing your concerns and interests, they never hesitate to create ever more burdensome requirements.
 I will fight to limit government, instill fiscal restraint, and return the power to you.
-As your representative I will sponsor and support legislation that
-- Ensures you are represented in decisions that affect your life
-- Reduces the size of government and abolishes unaccountable rule makers
-- Protects your rights under the U.S. and state constitutions
+As your representative I will sponsor and support legislation that Ensures you are represented in decisions that affect your life Reduces the size of government and abolishes unaccountable rule makers Protects your rights under the U.S. and state constitutions « Previous: Affordability Next: A Few Other Issues » Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

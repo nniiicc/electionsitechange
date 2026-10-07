@@ -1,7 +1,9 @@
 {
  "description": "John in the News Videos",
  "final_url": "https://votezangari.com/news/",
- "paid_for_by": "Paid for by Friends of John Zangari Copyright \u00a9 2026 Friends of John Zangari",
+ "fingerprint": "bb5b13e3593d5b61e9d9d7616fa0f0051a71ba3c",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of John Zangari Copyright © # Friends of John Zangari",
  "title": "News - VOTE ZANGARI",
  "years_mentioned": [
   "2026"

@@ -1,13 +1,2 @@
-Dana
-Dana
-West Lafayette
-West Lafayette
-West Lafayette
-West Lafayette
-Attica
-Attica
-Newport
-Newport
-Copyright © 2026 DAVID SANDERS FOR INDIANA STATE SENATE--DISTRICT 23 - All Rights Reserved.
-Paid for by David Sanders for Indiana
-Powered by
+Home About David Events David in the News Campaign Photos On the Issues CAMPAIGN VIDEOS More Home About David Events David in the News Campaign Photos On the Issues CAMPAIGN VIDEOS Home About David Events David in the News Campaign Photos On the Issues CAMPAIGN VIDEOS Events 08/07/2026 Ernie Pyle Fireman's Festival 5pm - 7:00pm Dana 08/07/2026 Ernie Pyle Fireman's Festival 5pm - 7:00pm Dana 08/18/2026 Door-to-Door in West Lafayette 5pm - 7:30pm West Lafayette 08/18/2026 Door-to-Door in West Lafayette 5pm - 7:30pm West Lafayette 08/19/2026 Door-to-Door in West Lafayette 5pm - 7:30pm West Lafayette 08/19/2026 Door-to-Door in West Lafayette 5pm - 7:30pm West Lafayette 08/20/2026 Door-to-Door in Attica 5pm - 7:30pm Attica 08/20/2026 Door-to-Door in Attica 5pm - 7:30pm Attica 08/25/2026 Vermillion County Commissioner Meeting, Data Centers 6pm - 7:30pm Newport 08/25/2026 Vermillion County Commissioner Meeting, Data Centers 6pm - 7:30pm Newport Copyright © # DAVID SANDERS FOR INDIANA STATE SENATE--DISTRICT 23 - All Rights Reserved.
+Paid for by David Sanders for Indiana Powered by Events David in the News Campaign Photos

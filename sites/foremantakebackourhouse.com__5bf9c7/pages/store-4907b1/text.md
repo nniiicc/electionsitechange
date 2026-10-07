@@ -1,13 +1,4 @@
-Real Representation for Nebraska
-Signed in as:
-filler@godaddy.com
-Want to make a statement while supporting the campaign? $500 Campaign Donation Minimum
-Become a Liberty Lemonade Stand Sponsor and receive your very own custom campaign lemonade stand to display at community events, neighborhood gatherings, parades, block parties, tailgates, or wherever freedom-loving people gather.
-Help spread the message of liberty and real representation across Nebraska with an official Eric Foreman for Congress bumper sticker.
-Foreman for US Congress
-Thereckoningcoming@gmail.com
-Putting the 'tism in Patriotism
-Copyright © 2026 Foreman for US Congress - All Rights Reserved.
+Real Representation for Nebraska HOME MEET ERIC PLATFORM DONATE EVENTS ENDORSEMENTS STORE 2A CHIP CHALLENGE VOLUNTEER More HOME MEET ERIC PLATFORM DONATE EVENTS ENDORSEMENTS STORE 2A CHIP CHALLENGE VOLUNTEER Sign In Create Account Bookings My Account Signed in as: filler@godaddy.com Bookings My Account Sign out Signed in as: filler@godaddy.com HOME MEET ERIC PLATFORM DONATE EVENTS ENDORSEMENTS STORE 2A CHIP CHALLENGE VOLUNTEER Account Bookings My Account Sign out Sign In Bookings My Account Join Us Lemonade Stand Sponsor Want to make a statement while supporting the campaign? $# Campaign Donation Minimum Become a Liberty Lemonade Stand Sponsor and receive your very own custom campaign lemonade stand to display at community events, neighborhood gatherings, parades, block parties, tailgates, or wherever freedom-loving people gather.
+Donate SWAG (Pre-Order) Bison Hat "For those willing to charge into the storm instead of running from it." Pre-Order $50 Campaign Yard Sign Make Omaha Gold Pre-Order $25 Campaign Bumper Sticker Campaign Bumper Sticker Help spread the message of liberty and real representation across Nebraska with an official Eric Foreman for Congress bumper sticker.
+Pre-Order $10 HOME MEET ERIC PLATFORM EVENTS ENDORSEMENTS STORE 2A CHIP CHALLENGE VOLUNTEER Foreman for US Congress Thereckoningcoming@gmail.com Putting the 'tism in Patriotism Copyright © # Foreman for US Congress - All Rights Reserved.
 United We Stand-Divided We Fall
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

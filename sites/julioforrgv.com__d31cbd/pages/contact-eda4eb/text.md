@@ -1,26 +1,2 @@
-0
-Skip to Content
-HOME
-MEET JULIO
-ISSUES
-ENDORSEMENTS
-CONTACT
-DONATE
-Open Menu
-Close Menu
-HOME
-MEET JULIO
-ISSUES
-ENDORSEMENTS
-CONTACT
-DONATE
-Open Menu
-Close Menu
-HOME
-MEET JULIO
-ISSUES
-ENDORSEMENTS
-CONTACT
-DONATE
-Contact Us
-Connect with Julio and the team!
+0 Skip to Content HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Open Menu Close Menu HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Open Menu Close Menu HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Contact Us Connect with Julio and the team!
+For inquiries, please contact: Jake Webber (Campaign Manager) jake@julioforrgv.com (512)-968-3299 For inquiries, please contact: Julio Salinas julio@julioforrgv.com PAID FOR BY JULIO FOR TEXAS

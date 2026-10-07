@@ -1,19 +1,74 @@
 [
-"https://314action.org/endorsed-candidates/state-legislative-municipal",
-"https://bitting4pa.today/contact-us",
-"https://bitting4pa.today/donate",
-"https://bitting4pa.today/endorsements",
-"https://bitting4pa.today/find-an-event",
-"https://bitting4pa.today/jared-bitting",
-"https://bitting4pa.today/meet-jared",
-"https://bitting4pa.today/on-the-issues",
-"https://bitting4pa.today/volunteer",
-"https://cleanairactionfund.org/endorsements",
-"https://climatecabinet.org/candidates/jared-bitting",
-"https://facebook.com/Bitting4PA",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://lv4all.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-pennsylvania-advocates/elections/pp-pa-pac-2024-endorsements",
-"https://secure.actblue.com/donate/bitting-4-pa-1",
-"https://wildforcongress.com/"
+{
+"text": "Contact Us",
+"href": "https://bitting4pa.today/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://bitting4pa.today/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bitting-4-pa-1"
+},
+{
+"text": "Endorsements",
+"href": "https://bitting4pa.today/endorsements"
+},
+{
+"text": "Find an Event",
+"href": "https://bitting4pa.today/find-an-event"
+},
+{
+"text": "Jared Bitting",
+"href": "https://bitting4pa.today/jared-bitting"
+},
+{
+"text": "Meet Jared",
+"href": "https://bitting4pa.today/meet-jared"
+},
+{
+"text": "On the Issues",
+"href": "https://bitting4pa.today/on-the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://bitting4pa.today/volunteer"
+},
+{
+"text": "[image: 3.14 Action]",
+"href": "https://314action.org/endorsed-candidates/state-legislative-municipal/"
+},
+{
+"text": "[image: Clean Air Action]",
+"href": "https://www.cleanairactionfund.org/endorsements"
+},
+{
+"text": "[image: Climate Cabinet]",
+"href": "https://climatecabinet.org/candidates/jared-bitting"
+},
+{
+"text": "[image: LV4ALL - Lehigh Valley For All ]",
+"href": "https://www.lv4all.org/"
+},
+{
+"text": "[image: Planned Parenthood Pennsylvania PAC]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-pennsylvania-advocates/elections/pp-pa-pac-2024-endorsements"
+},
+{
+"text": "[image: Susan Wild - US Congress]",
+"href": "https://wildforcongress.com/"
+},
+{
+"text": "[image: Vote Bitting for PA today, for a better tomorrow!]",
+"href": "https://bitting4pa.today/jared-bitting"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Bitting4PA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

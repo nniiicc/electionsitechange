@@ -1,4 +1,7 @@
-Montana Democrat.
+0 Skip to Content Why vote Evan Schroedel?
+Local Matters Principals Key Components Hear It From Evan Endorsements Contact Donate Open Menu Close Menu Why vote Evan Schroedel?
+Local Matters Principals Key Components Hear It From Evan Endorsements Contact Donate Open Menu Close Menu Folder: Why vote Evan Schroedel?
+Back Local Matters Principals Key Components Hear It From Evan Endorsements Contact Donate Montana Democrat.
 Montana Values.
 Evan Schroedel’s values were shaped early by his parents.
 From them, he learned the importance of integrity, compassion, and standing up for what’s right, even when it isn’t easy.
@@ -10,3 +13,4 @@ Today, Evan Schroedel is a proud Democrat who believes in practical leadership, 
 He understands that Montana’s strength comes from its rural communities, agricultural roots, and independent spirit.
 Evan has actively supported leaders like Jon Tester, leaders who put Montana first and believe public service is about showing up, listening, and doing the work.
 Like Tester, Evan believes leadership means working across differences and delivering real results that matter at home.
+Evan Schroedel for House District 88 Check out our Facebook Page for updates and election information.

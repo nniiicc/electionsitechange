@@ -1,4 +1,2 @@
-MAKE A PLAN TO VOTE BY MAIL OR IN PERSON NOVEMBER 3, 2026
-Keep up to date on the campaign!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+MAKE A PLAN TO VOTE BY MAIL OR IN PERSON NOVEMBER 3, 2026 Home Meet Rob Priorities More Home Meet Rob Priorities Home Meet Rob Priorities DONATE “The Tour” Funding our schools, infrastructure, and first responders SUPPORTED BY FRIENDS, NEIGHBORS AND LEADERS WE TRUST Endorsed by Governor Josh Shapiro “Our Future” “Working For You” “Our Seniors” “ONE MILE UP THE ROAD” Photo Gallery Stay Informed Keep up to date on the campaign! email* Sign up Social Media Copyright © # People For Matzie All Rights Reserved.
+EMAIL: rob@robmatzie.com Powered by

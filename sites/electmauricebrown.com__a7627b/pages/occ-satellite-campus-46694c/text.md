@@ -1,6 +1,5 @@
-Increase Education Access and establish an OCC Satellite Campus Downtown Syracuse.
-By Maurice Brown, Candidate for Onondaga County Legislature, March 20th 2023
-Leaders in Central New York should establish an Onondaga Community College satellite campus in downtown Syracuse.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Increase Education Access and establish an OCC Satellite Campus Downtown Syracuse.
+By Maurice Brown, Candidate for Onondaga County Legislature, March 20th 2023 Leaders in Central New York should establish an Onondaga Community College satellite campus in downtown Syracuse.
 As an OCC Alum, an OCC Employee and and a resident of this county, I know this move would provide numerous benefits for our community, including increased access to education and economic opportunities for our citizens.
 Currently, OCC’s main campus is not accessible for our entire community.
 It’s located in the town of Onondaga and is almost impossible to get to without a car.
@@ -16,6 +15,6 @@ And this won’t just benefit OCC students—it will also help downtown Syracuse
 Employers like the startups at the Tech Garden could more easily recruit new talent, and all the foot traffic from students, staff, and professors would support downtown businesses.
 I urge our leaders at all levels of government to work with SUNY to expand OCC to our downtown area.
 This move would not only provide greater access to education for our citizens but also help to give city residents a fair chance at upward mobility in order to take control of their lives for the better.
-Sincerely,
-Maurice Mo Brown
-Candidate for Onondaga County Legislature
+Sincerely, Maurice Mo Brown Candidate for Onondaga County Legislature ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

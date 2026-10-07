@@ -1,4 +1,5 @@
-One story after another in the Mail Tribune describes the many ways that homelessness affects all of us — teachers, cops, social workers, park employees, shopkeepers, bus drivers, ODOT workers, newspaper reporters, family members and residents — in heart-rending and often frustrating experiences.
+Skip to content Wed.
+Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements State is doing what it can to address homelessness One story after another in the Mail Tribune describes the many ways that homelessness affects all of us — teachers, cops, social workers, park employees, shopkeepers, bus drivers, ODOT workers, newspaper reporters, family members and residents — in heart-rending and often frustrating experiences.
 The homeless adults that we encounter on sidewalks in in parks are just the tip of the iceberg.
 The 5 percent of children in our schools who are without stable homes are less visible.
 It is hard to understand how we could let this happen at a moment when employment is peaking and economists tell us we are well off.
@@ -8,8 +9,7 @@ We have not done enough, but we have done what we can.
 We will continue to do more.
 Changing the trajectory of homelessness will require local communities, state governments and (don’t count on it) Congress to step up.
 And yes, it will require new revenue.
-Here’s a broad-brush look at the intertwined issues:
-Housing: Oregon has a housing deficit of approximately 155,000 units.
+Here’s a broad-brush look at the intertwined issues: Housing: Oregon has a housing deficit of approximately 155,000 units.
 Housing starts plummeted in the 2007-’10 recession, but the state didn’t stop growing.
 The pressures caused by the housing shortage fueled rent increases and accelerated home values, often sending people on the edge to the street.
 It is not hyperbole to describe this situation as a crisis.
@@ -30,7 +30,7 @@ In the meantime, we need to build public support for the significant investment 
 Revenue reform: It is easy to second-guess budget decisions.
 But the reality is that Oregon faces a structural revenue problem that began with the passage of Measure 5 in 1990.
 Without fundamental change in our taxation strategy, every budget decision is a Sophie’s choice.
-If we want to provide stable, sufficient and long-term support for the services that Oregonians want and need, including those for our homeless, we have to face up to the fact that the tax system that we created nearly 100 years ago is no longer adequate or equitable for our 21st century needs.
+If we want to provide stable, sufficient and long-term support for the services that Oregonians want and need, including those for our homeless, we have to face up to the fact that the tax system that we created nearly #ago is no longer adequate or equitable for our 21st century needs.
 In 2017, we worked for months with legislators from both parties, business leaders, and labor leaders to pursue a tax reform package that would have increased revenues by $1.4 billion/year and decreased the individual income tax, along with implementing PERS reform and cost cutting measures.
 This would have been a game changer, but the legislation fell a vote short.
 Absent change, it would be easy for us to fight over limited dollars.
@@ -40,3 +40,5 @@ Addressing homelessness is going to require all of us to work together to make c
 The discussion begun by the Mail Tribunes editors is a step in the right direction.
 Rep.
 Pam Marsh, D-Ashland, represents District 5 in the Oregon House of Representatives.
+LINK TO ARTICLE DOWNLOAD PDF Post navigation Legislative Emails 2018 FALL LEGISLATIVE FORUM DONATE TO PAM'S 2026 CAMPAIGN Follow Pam on Facebook REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 Proudly powered by WordPress | Theme: Newsup by Themeansar .
+ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements

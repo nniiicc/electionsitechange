@@ -1,13 +1,3 @@
-To contact Sandy by mail during the Legislative Session, use the following address:
-The Maryland House of Delegates
-Delegate Samuel “Sandy” Rosenberg
-6 Bladen Street, Room 131
-Annapolis, MD 21401
-By phone: (410) 841-3297
-Or fill out this form:
-Skip to content
-Contact Sandy
-To contact Sandy by mail during the Legislative Session, use the following address:
-By phone: (410) 841-3297
-Or fill out this form:
-Get Sandy's Diary in your Email
+Skip to content Get Sandy's Diary in your Email Δ Legislative Session Summary Header Link Voting Rights Act | My Legislative Diary My Key Issues: Sandy's Answers to candidate questionnaires Primary Menu Why I Run About Sandy Bills I’ve Introduced 2020 Session Summary Endorsements Contact Sandy Roland Park | Wyman Park Mt.
+Washington Howard Park | Forest Park Northern Park Heights Edmondson Village My Key Issues: Contact Sandy To contact Sandy by mail during the Legislative Session, use the following address: The Maryland House of Delegates Delegate Samuel “Sandy” Rosenberg 6 Bladen Street, Room 131 Annapolis, MD 21401 By phone: (410) 841-3297 Or fill out this form: Your Name (required) Your Email (required) Subject (required) Your Message Δ Are You in the 41st District? © #.
+Authority: Citizens for Sandy Rosenberg, Jean Fugett, Jr., Treasurer Contact Sandy |

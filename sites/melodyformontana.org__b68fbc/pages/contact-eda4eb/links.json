@@ -1,12 +1,42 @@
 [
-"https://cart/",
-"https://facebook.com/MelodyforMontana",
-"https://gis.missoulacounty.us/elections/voter",
-"https://instagram.com/melodyformontana",
-"https://melodyformontana.org/contact",
-"https://melodyformontana.org/issues",
-"https://melodyformontana.org/meet2",
-"https://melodyformontana.org/melody-for-mt",
-"https://melodyformontana.org/privacy-policy",
-"https://secure.actblue.com/donate/melody-for-montana-1"
+{
+"text": "Contact",
+"href": "https://melodyformontana.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melody-for-montana-1"
+},
+{
+"text": "Find your District",
+"href": "https://gis.missoulacounty.us/elections/voter/"
+},
+{
+"text": "Home",
+"href": "https://melodyformontana.org/melody-for-mt"
+},
+{
+"text": "Issues",
+"href": "https://melodyformontana.org/issues"
+},
+{
+"text": "Meet Melody",
+"href": "https://melodyformontana.org/meet2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://melodyformontana.org/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MelodyforMontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/melodyformontana/"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

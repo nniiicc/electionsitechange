@@ -1,8 +1,7 @@
-Your content goes here.
+Home Meet Rick Issues Donate Home Meet Rick Issues Donate Your content goes here.
 Edit or remove this text inline or in the module Content settings.
 You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.
-Meet Rick
-Marine Veteran.
+Meet Rick Marine Veteran.
 Small Business Owner.
 Proven Conservative Leader.
 Born and raised in Greenwood, Missouri, Rick Brattin graduated from Lee’s Summit High School and answered the call to serve after the September 11th attacks, joining the United States Marine Corps.
@@ -17,6 +16,7 @@ Rick has been a strong supporter of President Trump, supporting his campaigns in
 He has also supported legislation to empower Missouri to enforce immigration laws and sponsored bills to prevent illegal immigrants from getting jobs in our state.
 Rick and his wife are members of Abundant Life, and they have five children and recently welcomed their first grandchild.
 Now, he’s ready to take his proven conservative record to Washington and fight for Missouri values in the United States Congress.
-Paid for and Authorized by Rick Brattin for Congress
-Rick Brattin is a veteran of the United States Marine Corps.
+Follow Follow Paid for and Authorized by Rick Brattin for Congress Rick Brattin is a veteran of the United States Marine Corps.
+The use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy, the Marine Corps, or the Department of Defense.
+Follow Follow PO Box 11513 Kansas City, MO 64138 Paid for and Authorized by Rick Brattin for Congress Rick Brattin is a veteran of the United States Marine Corps.
 The use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy, the Marine Corps, or the Department of Defense.

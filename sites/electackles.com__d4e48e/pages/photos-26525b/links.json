@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://electackles.com/",
-"https://electackles.com/contact",
-"https://electackles.com/events",
-"https://electackles.com/home",
-"https://electackles.com/meet_janene",
-"https://electackles.com/photos",
-"https://electackles.com/platform",
-"https://electackles.com/view-endorsements",
-"https://electackles.com/volunteer",
-"https://electackles.com/vote",
-"https://facebook.com/acklesdublinhouse43",
-"https://i.campaignpartner.net/images/cdn_queue/128690/254662441a0e409f97e09b0267ceb183.png",
-"https://i.campaignpartner.net/images/cdn_queue/128690/6751631d60d64cc5817523d9ac81b362.png",
-"https://i.campaignpartner.net/images/cdn_queue/128690/a8070b2bc42e409ea59f42409c10d5e3.png"
+{
+"text": "CONTACT",
+"href": "https://electackles.com/contact"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://electackles.com/view-endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://electackles.com/events"
+},
+{
+"text": "HOME",
+"href": "https://electackles.com/home"
+},
+{
+"text": "MEET JANENE",
+"href": "https://electackles.com/meet_janene"
+},
+{
+"text": "OUR FIGHT",
+"href": "https://electackles.com/platform"
+},
+{
+"text": "PHOTOS",
+"href": "https://electackles.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://electackles.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://electackles.com/vote"
+},
+{
+"text": "[image: Janene Ackles, Downtown Fayetteville]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/128690/254662441a0e409f97e09b0267ceb183.png"
+},
+{
+"text": "[image]",
+"href": "https://electackles.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/128690/6751631d60d64cc5817523d9ac81b362.png"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/128690/a8070b2bc42e409ea59f42409c10d5e3.png"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/acklesdublinhouse43"
+}
 ]

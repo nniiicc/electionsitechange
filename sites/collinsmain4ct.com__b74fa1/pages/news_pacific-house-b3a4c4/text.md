@@ -1,23 +1,19 @@
-The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House
-STAMFORD — Tens of thousands of state dollars are headed to a local nonprofit thanks to the city’s legislative delegation.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House Dec 5 Written By Eilish Main Courtesy of Brian O’Connor and Connecticut House Democrats STAMFORD — Tens of thousands of state dollars are headed to a local nonprofit thanks to the city’s legislative delegation.
 Officials and community members gathered earlier this week to celebrate the announcement.
 State Representative Eilish Collins Main of Stamford visited Pacific House on Tuesday, December 2, to share the news that the housing agency is receiving the funding, which state legislators secured after it was approved by the Connecticut General Assembly during this year’s session as part of the biennial state budget.
 According to a press release, Pacific House will receive a total of $70,000 over the next two years with $35,000 being allocated each year in Fiscal Years 2026 and 2027.
 “The funding for Pacific House is a major win to help the shelter expand its services and continue to provide quality support to those experiencing homelessness in Fairfield County, especially going into the winter season,” Collins Main said.
 “Pacific House provides essential resources to many individuals facing homelessness, and this additional funding will allow the organization to expand services and continue supporting residents in need.
-I am thrilled to deliver this funding to Pacific House during a critical time, and I am grateful for the legislature’s support to invest in Pacific House and its mission.”
-The agency has been in operation for four decades and currently offers emergency shelter for both men and young adults.
+I am thrilled to deliver this funding to Pacific House during a critical time, and I am grateful for the legislature’s support to invest in Pacific House and its mission.” The agency has been in operation for four decades and currently offers emergency shelter for both men and young adults.
 They also develop and operate permanent supportive housing for men, women, and families with children throughout Fairfield County.
-Also in attendance was State Representative Kadeem Roberts of Norwalk, who serves as chair of the End Homelessness Caucus and discussed the importance of the additional disbursement to help address the region’s housing issues.
+Courtesy of Brian O’Connor and Connecticut House Democrats Also in attendance was State Representative Kadeem Roberts of Norwalk, who serves as chair of the End Homelessness Caucus and discussed the importance of the additional disbursement to help address the region’s housing issues.
 “This is a great victory in the fight to end homelessness in the state.
 Despite its reputation for being an affluent area, there are many people in Fairfield County who struggle to make ends meet.
 Pacific House has served our community well by doing tremendous work for individuals experiencing homelessness,” Roberts said.
-“This additional funding will allow them to expand their reach and provide assistance to more people in need.”
-Pacific House’s operations include a total of 15 homes in Darien, Norwalk, and Stamford with more than 130 residents.
+“This additional funding will allow them to expand their reach and provide assistance to more people in need.” Pacific House’s operations include a total of 15 homes in Darien, Norwalk, and Stamford with more than 130 residents.
 The nonprofit seeks to increase stability and improve people’s lives through community partnerships, housing development, and supportive services.
 “Pacific House is deeply grateful for this critical investment.
 These flexible funds will allow us to strengthen and expand our services, reaching more men, women, and families with children who are facing housing insecurity,” Pacific House President and CEO Carmen Colón said.
-“We thank the legislature for recognizing our work and helping us advance our mission to prevent and end homelessness in Fairfield County.”
-The Pacific House shelter, which is operated 24 hours a day and 365 days a year, provides two nutritious meals every day.
-Learn more about Pacific House at pacifichouse.org.
-🌊
+“We thank the legislature for recognizing our work and helping us advance our mission to prevent and end homelessness in Fairfield County.” Courtesy of Brian O’Connor and Connecticut House Democrats The Pacific House shelter, which is operated # hours a day and # days a year, provides two nutritious meals every day.
+Learn more about Pacific House at pacifichouse.org . 🌊 Eilish Main https://collinsmain4ct.com Previous Previous Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection Next Next News 12 Connecticut: Recapping the 146th State House District Race Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

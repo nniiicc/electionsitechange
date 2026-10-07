@@ -1,7 +1,9 @@
 {
  "description": "Houston Brignano for Congress",
  "final_url": "https://www.voteforhouston.com/observer",
- "paid_for_by": null,
+ "fingerprint": "be0b8e72e0463547c4d940b3427ef2d4f73f9187",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Open Letter: Put an observer in the room",
  "years_mentioned": []
 }

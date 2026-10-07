@@ -1,5 +1,8 @@
-Early Childhood Task Force Becomes Law Nov. 1: What Happens Next?
-Since I started running for office in 2018, I’ve run on three core issues: healthcare access, equal opportunity and education.
+top of page Rep.
+Trish Ranson Home Request a Yard Sign Register to Vote About Issues Health Care Equal Opportunity Education People, Politics & Pints News Blog Merch More Use tab to navigate through the menu items.
+Donate All Posts Issues Search Early Childhood Task Force Becomes Law Nov.
+1: What Happens Next?
+Trish Ranson May 25 2 min read Since I started running for office in 2018, I’ve run on three core issues: healthcare access, equal opportunity and education.
 The passage of House Bill 1979, creating Oklahoma’s Early Childhood Taskforce, ensures our most vulnerable citizens get the care and support they need across all of these issues and beyond.
 For too long we’ve seen the repercussions of not investing in our children.
 Early childhood support directly impacts school readiness, literacy development, workforce preparedness and much more.
@@ -10,12 +13,11 @@ The task force will bring together agency leaders, advocates and legislators to 
 The goal of House Bill 1979 is straightforward: Make services easier to access.
 Improve coordination.
 Strengthen outcomes for Oklahoma children and families.
-Over the next two years, task force members will examine important questions:
-- How can Oklahoma better organize early childhood services?
-- Should governance remain spread across agencies or become more centralized?
-- What systems create better access for families?
-- How do we ensure efficiency while protecting critical services?
-- What structure best prepares Oklahoma children for lifelong success?
+Over the next two years, task force members will examine important questions: How can Oklahoma better organize early childhood services?
+Should governance remain spread across agencies or become more centralized?
+What systems create better access for families?
+How do we ensure efficiency while protecting critical services?
+What structure best prepares Oklahoma children for lifelong success?
 This process is intentionally thoughtful because lasting solutions require careful planning.
 As educators often say: You start slow so you can go fast.
 The first year will focus on gathering information, evaluating existing systems and studying successful approaches from other states.
@@ -24,3 +26,5 @@ The second year will focus on building a roadmap forward by identifying what sta
 Ultimately, lawmakers will review those recommendations and determine the best path forward for Oklahoma families.
 The work ahead is important, and I remain committed to advocating for Oklahoma students, Oklahoma educators and Oklahoma families.
 Building a stronger future for Oklahoma starts by investing in our children from the very beginning.
+Recent Posts See All Why I'm Voting NO on State Questions 844 & 846 Off to the Race!
+Trish Ranson's Authored Bills for the 2026 Legislative Session ©# by Friends of Trish Ranson 2026. bottom of page

@@ -1,5 +1,4 @@
-Meet Leigh
-Leigh Wambsganss (womz-gonz) is running for State Senate to keep Texas strong and free, and fight for real affordability that lower taxes and commonsense policies bring.
+Get Involved Donate Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos a DONATE Meet Leigh District Map Issues Endorsements Get Involved Videos Meet Leigh Leigh Wambsganss (womz-gonz) is running for State Senate to keep Texas strong and free, and fight for real affordability that lower taxes and commonsense policies bring.
 She is a mom, a business owner, a seasoned professional, and a volunteer with over 30 years of experience advocating for Texas families.
 Leigh knows what it’s like to struggle, to sacrifice, to not be sure the money will stretch to the end of the month, and to work hard for every opportunity.
 She didn’t inherit her success.
@@ -27,3 +26,4 @@ That’s the kind of common-sense, hard-working, grounded leadership that Texas 
 Leigh is a Christian, wife, mother, and dog lover.
 She and her husband, Andy, have lived in Tarrant County over thirty years and have two grown sons.
 The Wambsganss family worships at The Met Church in Fort Worth.
+Endorse Leigh Now Follow Follow Follow Follow Donate If you would prefer to contribute by check, please mail it to: Leigh Wambsganss Campaign PO Box 94095 Southlake, TX 76092 pd pol ad • Leigh Wambsganss Campaign Privacy Policy

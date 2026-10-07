@@ -1,28 +1,150 @@
 [
-"https://bsky.app/profile/villegas4congress.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/VillegasforCongress",
-"https://instagram.com/villegasforcongress",
-"https://secure.actblue.com/donate/rvfc-web-2026",
-"https://tiktok.com/@villegasforcongress",
-"https://villegasforcongress.com/",
-"https://villegasforcongress.com/about",
-"https://villegasforcongress.com/endorsements",
-"https://villegasforcongress.com/events",
-"https://villegasforcongress.com/issues/artificial-intelligence",
-"https://villegasforcongress.com/issues/education-training",
-"https://villegasforcongress.com/issues/environment",
-"https://villegasforcongress.com/issues/fight-political-corruption",
-"https://villegasforcongress.com/issues/foreign-policy",
-"https://villegasforcongress.com/issues/healthcare",
-"https://villegasforcongress.com/issues/housing",
-"https://villegasforcongress.com/issues/immigration",
-"https://villegasforcongress.com/issues/immigration-1",
-"https://villegasforcongress.com/issues/jobs-the-economy",
-"https://villegasforcongress.com/media",
-"https://villegasforcongress.com/news",
-"https://villegasforcongress.com/privacy-policy",
-"https://villegasforcongress.com/sobre-el-candidato",
-"https://villegasforcongress.com/yard-signs",
-"https://x.com/Villegas_CA22"
+{
+"text": "About",
+"href": "https://www.villegasforcongress.com/about"
+},
+{
+"text": "Conoce a Randy",
+"href": "https://www.villegasforcongress.com/sobre-el-candidato"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rvfc-web-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.villegasforcongress.com/endorsements"
+},
+{
+"text": "Media",
+"href": "https://www.villegasforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.villegasforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.villegasforcongress.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/artificial-intelligence"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/education-training"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/environment"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/fight-political-corruption"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/foreign-policy"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/healthcare"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/housing"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/immigration"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/immigration-1"
+},
+{
+"text": "View more",
+"href": "https://www.villegasforcongress.com/issues/jobs-the-economy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.villegasforcongress.com/events"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.villegasforcongress.com/yard-signs"
+},
+{
+"text": "[image: Randy Villegas for Congress]",
+"href": "https://www.villegasforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/villegas4congress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/VillegasforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/villegasforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@villegasforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Villegas_CA22"
+},
+{
+"text": "info@villegasforcongress.com",
+"href": "mailto:info@villegasforcongress.com"
+},
+{
+"text": "🌎 Foreign Policy",
+"href": "https://www.villegasforcongress.com/issues/foreign-policy"
+},
+{
+"text": "🎓 Education & Training",
+"href": "https://www.villegasforcongress.com/issues/education-training"
+},
+{
+"text": "🏞️ Environment",
+"href": "https://www.villegasforcongress.com/issues/environment"
+},
+{
+"text": "🏠 Housing",
+"href": "https://www.villegasforcongress.com/issues/housing"
+},
+{
+"text": "🏥 Healthcare",
+"href": "https://www.villegasforcongress.com/issues/immigration"
+},
+{
+"text": "🏦 Fight Political Corruption",
+"href": "https://www.villegasforcongress.com/issues/fight-political-corruption"
+},
+{
+"text": "👥 Immigration",
+"href": "https://www.villegasforcongress.com/issues/immigration-1"
+},
+{
+"text": "💼 Jobs & The Economy",
+"href": "https://www.villegasforcongress.com/issues/jobs-the-economy"
+},
+{
+"text": "🧠 Artificial Intelligence",
+"href": "https://www.villegasforcongress.com/issues/artificial-intelligence"
+},
+{
+"text": "🪙 Cost of living",
+"href": "https://www.villegasforcongress.com/issues/healthcare"
+}
 ]

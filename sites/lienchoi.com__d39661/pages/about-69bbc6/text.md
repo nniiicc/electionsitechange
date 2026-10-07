@@ -1,5 +1,4 @@
-Dear Chicago and Residents of Illinois’ 7th District,
-My name is Lien Choi, and it is an honor just to have you hear me out.
+home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate Dear Chicago and Residents of Illinois’ 7th District, My name is Lien Choi, and it is an honor just to have you hear me out.
 What exactly does a Congressperson do all day?
 To what extent can the power of a Congressperson be exercised for the good of their constituents?
 I am weary of the repetitive cycle of political rhetoric that seems to dominate every election season.
@@ -65,3 +64,4 @@ We are paying for it.
 Dearly.
 We deserve more than that.
 A whole lot more.
+"Walls can also trap things in rather than keep things out." Students of Frank Lloyd Wright

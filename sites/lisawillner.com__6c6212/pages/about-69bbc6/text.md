@@ -1,5 +1,4 @@
-About Lisa
-Lisa is a graduate of Yale University and received her PhD in Clinical Psychology from the California School of Professional Psychology.
+Request Your Free Yard Sign About Lisa's Leadership Contact 2026 Session Survey Donate About Lisa's Leadership Contact 2026 Session Survey Donate About Lisa Lisa is a graduate of Yale University and received her PhD in Clinical Psychology from the California School of Professional Psychology.
 Lisa and her husband John Scruton have lived in the 35th House District since 1995 where they raised their two children, Ben and Eliza.
 Their household now includes their two rescue dogs, Ozzie and Walter.
 Lisa and John are members of First Unitarian Church, where Lisa formerly served as Director of Religious Education.
@@ -16,6 +15,6 @@ In 2021, the Kentucky Association for Psychology in the Schools (KAPS) presented
 Lisa is passionate about children’s rights, labor rights, human rights, environmental and economic justice, women’s rights, LGBTQ+ Fairness, and standing up for those who need a voice.
 Lisa is committed to standing up for seniors, children, and families, and to expanding economic opportunities and promoting safer neighborhoods for the hard-working people of the 35th District.
 Questions or support?
-Reach out anytime.
+Reach out anytime. lisaforkyhouse@gmail.com Office: 502-564-8100 Cell: 502-599-7289 © #.
 All rights reserved.
-Paid for by Lisa Willner for State Representative
+Paid for by Lisa Willner for State Representative Volunteer Request Yard Sign About Lisa's Leadership Contact Donate Privacy

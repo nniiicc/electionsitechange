@@ -1,20 +1,78 @@
 [
-"https://instagram.com/joebushnelltacomacouncil5",
-"https://joebushnell.com/",
-"https://joebushnell.com/?page_id=1431",
-"https://joebushnell.com/?page_id=1644",
-"https://joebushnell.com/?page_id=2021",
-"https://joebushnell.com/?page_id=2172",
-"https://joebushnell.com/?page_id=2490",
-"https://joebushnell.com/about-joe-bushnell",
-"https://joebushnell.com/contact",
-"https://joebushnell.com/endorsements",
-"https://joebushnell.com/issues",
-"https://joebushnell.com/joe-bushnell-in-the-media-and-press-releases",
-"https://joebushnell.com/product-category/product",
-"https://joebushnell.com/product-tag/hat",
-"https://joebushnell.com/product/campaign-hat",
-"https://secure.anedot.com/votejoebushnell/donate2026",
-"https://web.archive.org/web/20211120034957/mailto:joe@joebushnell.com",
-"https://web.facebook.com/JoeBushnellTacomaCouncil5"
+{
+"text": "About",
+"href": "https://www.joebushnell.com/about-joe-bushnell/"
+},
+{
+"text": "About The Campaign",
+"href": "https://www.joebushnell.com/?page_id=1431"
+},
+{
+"text": "Campaign Hat",
+"href": "https://www.joebushnell.com/product/campaign-hat/"
+},
+{
+"text": "Contact",
+"href": "https://www.joebushnell.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joebushnell.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.joebushnell.com/?page_id=2021"
+},
+{
+"text": "Hat",
+"href": "https://www.joebushnell.com/product-tag/hat/"
+},
+{
+"text": "Issues",
+"href": "https://www.joebushnell.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://www.joebushnell.com/?page_id=1644"
+},
+{
+"text": "Media",
+"href": "https://www.joebushnell.com/joe-bushnell-in-the-media-and-press-releases/"
+},
+{
+"text": "Product",
+"href": "https://www.joebushnell.com/product-category/product/"
+},
+{
+"text": "Products Store",
+"href": "https://www.joebushnell.com/?page_id=2172"
+},
+{
+"text": "Take Action",
+"href": "https://www.joebushnell.com/?page_id=2490"
+},
+{
+"text": "[image: Campaign Hat]",
+"href": "https://www.joebushnell.com/"
+},
+{
+"text": "[image: Campaign Hat]",
+"href": "https://www.joebushnell.com/product/campaign-hat/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://web.facebook.com/JoeBushnellTacomaCouncil5"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/joebushnelltacomacouncil5/"
+},
+{
+"text": "donate",
+"href": "https://secure.anedot.com/votejoebushnell/donate2026"
+},
+{
+"text": "joe@joebushnell.com",
+"href": "https://web.archive.org/web/20211120034957/mailto:joe@joebushnell.com"
+}
 ]

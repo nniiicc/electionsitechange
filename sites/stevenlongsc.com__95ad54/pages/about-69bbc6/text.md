@@ -1,5 +1,4 @@
-Meet Steven
-Steven Long proudly represents Boiling Springs and Inman in the State House.
+0 Skip to Content Home About Issues Contact Contribute Open Menu Close Menu Home About Issues Contact Contribute Open Menu Close Menu Home About Issues Contact Contribute Meet Steven Steven Long proudly represents Boiling Springs and Inman in the State House.
 As a member of the Ways & Means Committee, he fights for conservative budget needs like roads and tax cuts.
 Serving on the Regulations Committee he grills state agencies to cuts unnecessary red tape.
 As Vice-Chair of the Economic Development ad hoc committee he has prioritized helping small businesses.
@@ -14,3 +13,4 @@ He has prior experience in insurance as well as industrial & hazardous material 
 He is a member of many community organizations including the Boiling Springs Business Association, Inman Area Chamber of Commerce, Sons of American Legion, and more.
 Steven grew up in Boiling Springs attending Boiling Springs High School, Spartanburg Community College, and USC Upstate.
 He developed an interest in public service at a young age as an Eagle Scout and volunteering for local candidate races.
+Paid for by Steven Long for State House

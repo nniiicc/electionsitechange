@@ -1,6 +1,38 @@
 [
-"https://electsteveewing.com/",
-"https://electsteveewing.com/privacy-policy",
-"https://secure.anedot.com/ewing-for-washington/c409d3ad-de00-443a-a1dd-3fc0b2c7b3c2",
-"https://sos.wa.gov/elections/register.aspx"
+{
+"text": "About",
+"href": "https://electsteveewing.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ewing-for-washington/c409d3ad-de00-443a-a1dd-3fc0b2c7b3c2"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/ewing-for-washington/c409d3ad-de00-443a-a1dd-3fc0b2c7b3c2"
+},
+{
+"text": "Endorsements",
+"href": "https://electsteveewing.com/#endorsements"
+},
+{
+"text": "Experience",
+"href": "https://electsteveewing.com/#experience"
+},
+{
+"text": "Priorities",
+"href": "https://electsteveewing.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electsteveewing.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.wa.gov/elections/register.aspx"
+},
+{
+"text": "[image: Steve Ewing logo]",
+"href": "https://electsteveewing.com"
+}
 ]

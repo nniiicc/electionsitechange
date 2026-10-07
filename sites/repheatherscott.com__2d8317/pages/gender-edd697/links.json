@@ -1,28 +1,110 @@
 [
-"http://repheatherscott.com/feed",
-"https://content.govdelivery.com/accounts/IDLEG/bulletins/2600d02",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/happy-independence-day",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/merry-christmas-happy-new-year",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/summer-activities-idaho-freedom-caucus",
-"https://repheatherscott.com/wp-content/uploads/2019/09/63-genders.pdf",
-"https://repheatherscott.com/wp-content/uploads/2019/09/adf-birth-certificate-comments.pdf",
-"https://repheatherscott.com/wp-content/uploads/2019/09/ag-answers.pdf",
-"https://repheatherscott.com/wp-content/uploads/2019/09/birth-cert-overview-state-by-state.pdf",
-"https://repheatherscott.com/wp-content/uploads/2019/09/certificate-of-live-birth-idaho-sample.pdf",
-"https://twitter.com/HeatherScottID"
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Alliance Defending Freedom: “Birth Certificates and Other Vital Records Should Reflect Factual Information”",
+"href": "https://repheatherscott.com/wp-content/uploads/2019/09/adf-birth-certificate-comments.pdf"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "Are there 63 genders? Some people claim it’s true. Here’s their full list.",
+"href": "https://repheatherscott.com/wp-content/uploads/2019/09/63-genders.pdf"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Happy Independence Day!",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Idaho AG Answers to Questions Concerning Changes to Birth Certificate Gender Markers",
+"href": "https://repheatherscott.com/wp-content/uploads/2019/09/ag-answers.pdf"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "Merry Christmas! Happy New Year!",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Sample State of Idaho Certificate of Live Birth",
+"href": "https://repheatherscott.com/wp-content/uploads/2019/09/certificate-of-live-birth-idaho-sample.pdf"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "State-by-State Overview: Rules for Changing Gender Markers on Birth Certificates (April 2017)",
+"href": "https://repheatherscott.com/wp-content/uploads/2019/09/birth-cert-overview-state-by-state.pdf"
+},
+{
+"text": "Summer Activities – Idaho Freedom Caucus",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "“Please consider participating to help stop the out of control gender agenda occurring in our state.”",
+"href": "https://content.govdelivery.com/accounts/IDLEG/bulletins/2600d02"
+}
 ]

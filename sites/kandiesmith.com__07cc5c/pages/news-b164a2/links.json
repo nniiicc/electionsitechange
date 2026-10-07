@@ -1,12 +1,58 @@
 [
-"https://kandiesmith.com/",
-"https://kandiesmith.com/about",
-"https://kandiesmith.com/accessibility-statement",
-"https://kandiesmith.com/contact",
-"https://kandiesmith.com/news",
-"https://kandiesmith.com/post/bill-updates",
-"https://kandiesmith.com/priorities",
-"https://kandiesmith.com/privacy-policy",
-"https://secure.actblue.com/donate/kandie-smith-for-nc-1",
-"https://senatorkandiesmith.substack.com/"
+{
+"text": "About",
+"href": "https://www.kandiesmith.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.kandiesmith.com/accessibility-statement"
+},
+{
+"text": "All Articles",
+"href": "https://www.kandiesmith.com/news"
+},
+{
+"text": "Bill Updates",
+"href": "https://www.kandiesmith.com/post/bill-updates"
+},
+{
+"text": "Contact",
+"href": "https://www.kandiesmith.com/contact"
+},
+{
+"text": "Donation",
+"href": "https://secure.actblue.com/donate/kandie-smith-for-nc-1"
+},
+{
+"text": "Home",
+"href": "https://www.kandiesmith.com"
+},
+{
+"text": "KANDIE SMITH",
+"href": "https://www.kandiesmith.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.kandiesmith.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kandiesmith.com/privacy-policy"
+},
+{
+"text": "STATE SENATE",
+"href": "https://www.kandiesmith.com"
+},
+{
+"text": "SUBSCRIBE TO NEWSLETTER",
+"href": "https://senatorkandiesmith.substack.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kandiesmith.com/priorities"
+},
+{
+"text": "Updates",
+"href": "https://www.kandiesmith.com/news"
+}
 ]

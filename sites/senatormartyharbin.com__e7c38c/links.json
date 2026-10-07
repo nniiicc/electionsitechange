@@ -1,12 +1,66 @@
 [
-"http://instagram.com/",
-"http://linkedin.com/",
-"https://facebook.com/",
-"https://secure.anedot.com/senator-marty-harbin/donate",
-"https://secure.anedot.com/senator-marty-harbin/donatecom",
-"https://senatormartyharbin.com/",
-"https://senatormartyharbin.com/about-marty",
-"https://senatormartyharbin.com/issuesa2c36c01",
-"https://twitter.com/",
-"https://youtube.com/channel/UCWRyy6hbZfRnZ_1MlB2vhYg"
+{
+"text": "About Marty",
+"href": "https://www.senatormartyharbin.com/about-marty"
+},
+{
+"text": "Book an Audit",
+"href": "https://www.senatormartyharbin.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.senatormartyharbin.com/#ContactUs"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/senator-marty-harbin/donate"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.anedot.com/senator-marty-harbin/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/senator-marty-harbin/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/senator-marty-harbin/donatecom"
+},
+{
+"text": "Home",
+"href": "https://www.senatormartyharbin.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.senatormartyharbin.com/issuesa2c36c01"
+},
+{
+"text": "LEARN MORE ABOUT ISSUES →",
+"href": "https://www.senatormartyharbin.com/issuesa2c36c01"
+},
+{
+"text": "[image]",
+"href": "https://www.senatormartyharbin.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCWRyy6hbZfRnZ_1MlB2vhYg"
+}
 ]

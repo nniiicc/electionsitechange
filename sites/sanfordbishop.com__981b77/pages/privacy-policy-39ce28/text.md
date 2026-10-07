@@ -1,19 +1,14 @@
-Last Updated: September 20, 2024
-This Privacy Policy explains how Bishop for Congress collects, uses, and discloses information about you when you access or use our websites and mobile sites (“Sites”) that link to this Privacy Policy.
+28th Annual Sanford Bishop Golf Classic About Issues Videos News Volunteer About Issues Videos News Volunteer Get Involved Donate Golf classic Privacy Policy Last Updated: September 20, 2024 This Privacy Policy explains how Bishop for Congress collects, uses, and discloses information about you when you access or use our websites and mobile sites (“Sites”) that link to this Privacy Policy.
 We may change this Privacy Policy from time to time.
 If we make changes, we will notify you by revising the date at the top of the policy.
 We encourage you to review the Privacy Policy whenever you access the Site or otherwise interact with us to stay informed about our information practices and the choices available to you.
-WHAT PERSONAL DATA WE COLLECT AND WHY WE COLLECT IT
-COMMENTS
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+WHAT PERSONAL DATA WE COLLECT AND WHY WE COLLECT IT COMMENTS When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 The Gravatar service privacy policy is available here: https://automattic.com/privacy/.
 After approval of your comment, your profile picture is visible to the public in the context of your comment.
-MEDIA
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included.
+MEDIA If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included.
 Visitors to the website can download and extract any location data from images on the website.
-COOKIES
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies.
+COOKIES If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies.
 These are for your convenience so that you do not have to fill in your details again when you leave another comment.
 These cookies will last for one year.
 If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies.
@@ -25,47 +20,19 @@ If you log out of your account, the login cookies will be removed.
 If you edit or publish an article, an additional cookie will be saved in your browser.
 This cookie includes no personal data and simply indicates the post ID of the article you just edited.
 It expires after 1 day.
-EMBEDDED CONTENT FROM OTHER WEBSITES
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.).
+EMBEDDED CONTENT FROM OTHER WEBSITES Articles on this site may include embedded content (e.g. videos, images, articles, etc.).
 Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
-ANALYTICS
-HOW PERSONAL DATA IS USED
-We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites.
-For example, we may use personal information we collect:
-To provide the information or products you request, and to process and complete such requests and any related transactions;
-To send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
-To notify you about important changes to the Sites;
-To send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
-To help connect you with other supporters, and to solicit volunteers, donations and support for Pelosi for Congress and for candidates, issues and organizations that we support;
-To contact you if other information is necessary under Federal election laws;
-To request feedback and to otherwise contact you about your use of the Sites;
-To respond to your emails, submissions, questions, comments, and requests and to provide customer service;
-To monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness;
-To serve ads, on this or other websites or media, based on the information you provide and the actions you take;
-To remind you to send in your voter registration form and to vote;
-To assist you in finding your registration information and polling location; and
-For any other purpose for which the information was collected.
-WHO WE SHARE YOUR DATA WITH
-We may share personal information as follows:
-With vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
-To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website athttp://www.fec.gov);
-When you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information;
-When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
-When we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of Bishop for Congress, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
-To enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
-In connection with, or during negotiations of, any reorganization, formation of new committee, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of Bishop for Congress; or
-With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives;
-Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
-HOW LONG WE RETAIN YOUR DATA
-If you leave a comment, the comment and its metadata are retained indefinitely.
+ANALYTICS HOW PERSONAL DATA IS USED We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites.
+For example, we may use personal information we collect: To provide the information or products you request, and to process and complete such requests and any related transactions; To send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites; To notify you about important changes to the Sites; To send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services; To help connect you with other supporters, and to solicit volunteers, donations and support for Pelosi for Congress and for candidates, issues and organizations that we support; To contact you if other information is necessary under Federal election laws; To request feedback and to otherwise contact you about your use of the Sites; To respond to your emails, submissions, questions, comments, and requests and to provide customer service; To monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness; To serve ads, on this or other websites or media, based on the information you provide and the actions you take; To remind you to send in your voter registration form and to vote; To assist you in finding your registration information and polling location; and For any other purpose for which the information was collected.
+WHO WE SHARE YOUR DATA WITH We may share personal information as follows: With vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us; To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website athttp://www.fec.gov); When you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information; When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders; When we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of Bishop for Congress, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site; To enforce or apply this Policy, our Terms of Use, or our other policies or agreements; In connection with, or during negotiations of, any reorganization, formation of new committee, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of Bishop for Congress; or With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives; Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+HOW LONG WE RETAIN YOUR DATA If you leave a comment, the comment and its metadata are retained indefinitely.
 This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 For users that register on our website (if any), we also store the personal information they provide in their user profile.
 All users can see, edit, or delete their personal information at any time (except they cannot change their username).
 Website administrators can also see and edit that information.
-WHAT RIGHTS YOU HAVE OVER YOUR DATA
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
+WHAT RIGHTS YOU HAVE OVER YOUR DATA If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
 You can also request that we erase any personal data we hold about you.
 This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-WHERE WE SEND YOUR DATA
-Visitor comments may be checked through an automated spam detection service.
+WHERE WE SEND YOUR DATA Visitor comments may be checked through an automated spam detection service.
+Join Our Campaign Return Home Home About Issues Videos News Volunteer Home About Issues Videos News Volunteer Donate Facebook Twitter Paid for by Sanford Bishop for Congress P.o.
+Box 909 Columbus, GA 31902 Privacy Policy © # Site by BCom Solutions, LLC About Issues Videos News Volunteer About Issues Videos News Volunteer Golf Classic rsvp Get Involved Donate

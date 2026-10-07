@@ -1,28 +1,134 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfB47OUJXcLWwVIK6cv1PeZMIi8Rpxis0pFA3Aba-wCAV6aNQ/viewform?usp=header",
-"https://facebook.com/JanooForVT",
-"https://google.com/calendar/event?action=TEMPLATE&text=Montpelier+Canvass+for+Amanda+Janoo%21&dates=20260618T213000Z%2F20260619T000000Z&details=%3Cp%3EJoin+us+to+knock+doors+in+Montpelier+to+talk+to+voters+about+Amanda+Janoo%21+We+will+meet+at+the+Vermont+College+of+Fine+Arts+green+for+a+training+at+5%3A30.+We+will+then+knock+doors+from+6%3A00+%26%238211%3B+8%3A00+and+then+meet+up+again+back+on+the+green+for+a+debrief.%C2%A0%3Cbr+%2F%3ESo+excited+to+see+you+there%21%3C%2Fp%3E",
-"https://instagram.com/janooforvt",
-"https://janooforvt.com/",
-"https://janooforvt.com/14-sheet-janoo-2",
-"https://janooforvt.com/about-page",
-"https://janooforvt.com/endorsements",
-"https://janooforvt.com/platform-page",
-"https://janooforvt.com/privacy-policy",
-"https://janooforvt.com/wp-content/uploads/2026/10/14-Sheet-Janoo-.pdf",
-"https://janooforvt.solidarity.tech/campaign-suggestion-box",
-"https://janooforvt.solidarity.tech/canvass-events",
-"https://janooforvt.solidarity.tech/get-involved",
-"https://janooforvt.solidarity.tech/join-page",
-"https://janooforvt.solidarity.tech/lawn-sign-request",
-"https://janooforvt.solidarity.tech/montpelier-canvas-for-amanda-janoo-copy",
-"https://janooforvt.solidarity.tech/phone-bank-events",
-"https://janooforvt.solidarity.tech/town-hall-statewide-tour",
-"https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2026-06-18T21%3A30%3A00Z&enddt=2026-06-19T00%3A00%3A00Z&subject=Montpelier+Canvass+for+Amanda+Janoo%21",
-"https://outlook.office365.com/owa?path=%2Fcalendar%2Faction%2Fcompose&subject=Montpelier+Canvass+for+Amanda+Janoo%21&startdt=2026-06-18T21%3A30%3A00Z&enddt=2026-06-19T00%3A00%3A00Z",
-"https://secure.actblue.com/donate/janoo-for-vt",
-"https://store.janooforvt.com/",
-"https://tiktok.com/@janooforvt",
-"https://youtube.com/@janooforvt"
+{
+"text": "All Campaign Events",
+"href": "https://janooforvt.solidarity.tech/join-page"
+},
+{
+"text": "Amanda",
+"href": "https://www.janooforvt.com/about-page/"
+},
+{
+"text": "Campaign Stops",
+"href": "https://www.janooforvt.com/#events"
+},
+{
+"text": "Canvass",
+"href": "https://janooforvt.solidarity.tech/canvass-events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janoo-for-vt"
+},
+{
+"text": "Download 1/4 Sheets",
+"href": "https://www.janooforvt.com/14-sheet-janoo-2/"
+},
+{
+"text": "Download 1/4 Sheets",
+"href": "https://www.janooforvt.com/wp-content/uploads/2026/10/14-Sheet-Janoo-.pdf"
+},
+{
+"text": "Endorse Amanda",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfB47OUJXcLWwVIK6cv1PeZMIi8Rpxis0pFA3Aba-wCAV6aNQ/viewform?usp=header"
+},
+{
+"text": "Endorsements",
+"href": "https://www.janooforvt.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://janooforvt.solidarity.tech/get-involved"
+},
+{
+"text": "Get Tickets Now",
+"href": "https://janooforvt.solidarity.tech/montpelier-canvas-for-amanda-janoo-copy"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Montpelier+Canvass+for+Amanda+Janoo%21&dates=20260618T213000Z%2F20260619T000000Z&details=%3Cp%3EJoin+us+to+knock+doors+in+Montpelier+to+talk+to+voters+about+Amanda+Janoo%21+We+will+meet+at+the+Vermont+College+of+Fine+Arts+green+for+a+training+at+5%3A30.+We+will+then+knock+doors+from+6%3A00+%26%238211%3B+8%3A00+and+then+meet+up+again+back+on+the+green+for+a+debrief.%C2%A0%3Cbr+%2F%3ESo+excited+to+see+you+there%21%3C%2Fp%3E"
+},
+{
+"text": "Home",
+"href": "https://www.janooforvt.com"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeU61FNmjWLIcxE29KcyTVza-PrYXkf4TBstJy1mA_9PdcIyg/viewform"
+},
+{
+"text": "News",
+"href": "https://www.janooforvt.com#news"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office365.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&subject=Montpelier+Canvass+for+Amanda+Janoo%21&startdt=%23T21%3A30%3A00Z&enddt=%23T00%3A00%3A00Z"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T21%3A30%3A00Z&enddt=%23T00%3A00%3A00Z&subject=Montpelier+Canvass+for+Amanda+Janoo%21"
+},
+{
+"text": "Phone Bank",
+"href": "https://janooforvt.solidarity.tech/phone-bank-events"
+},
+{
+"text": "Platform",
+"href": "https://www.janooforvt.com/platform-page/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janooforvt.com/privacy-policy/"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://janooforvt.solidarity.tech/lawn-sign-request"
+},
+{
+"text": "Store",
+"href": "https://store.janooforvt.com/"
+},
+{
+"text": "Suggestion Box",
+"href": "https://janooforvt.solidarity.tech/campaign-suggestion-box"
+},
+{
+"text": "Town Hall State Tour",
+"href": "https://janooforvt.solidarity.tech/town-hall-statewide-tour"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://janooforvt.solidarity.tech/get-involved"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://www.janooforvt.com/#events-volunteer"
+},
+{
+"text": "[image: Amanda Janoo for Governor]",
+"href": "https://www.janooforvt.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JanooForVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/janooforvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@janooforvt"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@janooforvt"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@janooforvt.com"
+},
+{
+"text": "iCal Export",
+"href": "javascript:void();"
+}
 ]

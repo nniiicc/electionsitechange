@@ -1,2 +1,2 @@
-12 Sep 2026 | News
-Join us in Corrales for a Meet & Greet with Representative Pamelya Herndon & Representative Kathleen Cates, at the home of Eleanor Bravo, in Corrales, Saturday, 19 September, 3-5 PM.
+Home Issues Background Events Kool Things Endorsed Posts Contact DONATE Follow Follow Follow Corrales Meet & Greet 12 Sep 2026 | News Join us in Corrales for a Meet & Greet with Representative Pamelya Herndon & Representative Kathleen Cates, at the home of Eleanor Bravo, in Corrales, Saturday, 19 September, 3-5 PM. ← Previous Next → © #, KM Cates Archive of legislation FAQs Post Categories NM House District 44?
+Contact Photos DONATE Paid for by Vote for Kathleen

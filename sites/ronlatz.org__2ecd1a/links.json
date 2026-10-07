@@ -1,16 +1,62 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSffCxQaF7HgRVkWK3yMXCP3bK0dv_KK2c5SkfSvZSCK7CZUpw/viewform?usp=header",
-"https://facebook.com/61585567020055",
-"https://flickr.com/photos/204672762@N05",
-"https://instagram.com/ronlatzmn",
-"https://ronlatz.org/",
-"https://ronlatz.org/about",
-"https://ronlatz.org/cart",
-"https://ronlatz.org/donate",
-"https://ronlatz.org/endorsement",
-"https://ronlatz.org/policy",
-"https://ronlatz.org/volunteer",
-"https://secure.actblue.com/donate/ron-latz?amount=25",
-"https://sos.mn.gov/elections-voting",
-"https://twitter.com/RonLatzMN"
+{
+"text": "0",
+"href": "https://www.ronlatz.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.ronlatz.org/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ron-latz?amount=25"
+},
+{
+"text": "Donate",
+"href": "https://www.ronlatz.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ronlatz.org/endorsement"
+},
+{
+"text": "Home",
+"href": "https://www.ronlatz.org/"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/204672762@N05/"
+},
+{
+"text": "Policy",
+"href": "https://www.ronlatz.org/policy"
+},
+{
+"text": "Request A Lawn Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSffCxQaF7HgRVkWK3yMXCP3bK0dv_KK2c5SkfSvZSCK7CZUpw/viewform?usp=header"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ronlatz.org/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "[image: Ron Latz for Minnesota State Senate]",
+"href": "https://www.ronlatz.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RonLatzMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/61585567020055/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ronlatzmn"
+}
 ]

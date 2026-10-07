@@ -1,11 +1,5 @@
-FOR IMMEDIATE RELEASE
-August 25, 2025
-Contact: press@jjr.vote, 786-683-8781
-Today, José Javier Rodríguez, Democratic candidate for Florida Attorney General, released the following statement after recent news on the Everglades detention center and Attorney General James Uthmeier’s refusal to comply with a court order to shut down the facility:
-“Florida’s Attorney General should defend the law, not defy it.
-Once again, AG Uthmeier is refusing to comply with a clear court order, just as he was previously found in contempt for ignoring the courts.
-The judge’s ruling was straightforward: no more detainees should be sent to the Everglades detention center and the state must begin dismantling it.
-Instead of respecting the law, Uthmeier has chosen to double down, openly declaring he will continue operating a facility the court has already deemed unlawful, only to keep putting on a political show for Washington.
-No one is above the law, not even the Attorney General.
-Floridians deserve an Attorney General who will enforce the law, not flout it, who will protect families, and who will stop wasting taxpayer dollars defending cruelty and lawlessness.”
-###
+EN ES Home About Priorities Media Endorsements Get involved Donate FOR IMMEDIATE RELEASE August 25, 2025 Contact: press@jjr.vote , 786-683-8781 EN ES Statement from José Javier Rodríguez on Uthmeier’s Refusal to Comply with Court Order on Everglades Detention Center Today, José Javier Rodríguez, Democratic candidate for Florida Attorney General, released the following statement after recent news on the Everglades detention center and Attorney General James Uthmeier’s refusal to comply with a court order to shut down the facility: ‍ “Florida’s Attorney General should defend the law, not defy it.
+Once again, AG Uthmeier is refusing to comply with a clear court order, just as he was previously found in contempt for ignoring the courts. ‍ The judge’s ruling was straightforward: no more detainees should be sent to the Everglades detention center and the state must begin dismantling it.
+Instead of respecting the law, Uthmeier has chosen to double down, openly declaring he will continue operating a facility the court has already deemed unlawful, only to keep putting on a political show for Washington. ‍ No one is above the law, not even the Attorney General.
+Floridians deserve an Attorney General who will enforce the law, not flout it, who will protect families, and who will stop wasting taxpayer dollars defending cruelty and lawlessness.” ### Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL August 25, 2025

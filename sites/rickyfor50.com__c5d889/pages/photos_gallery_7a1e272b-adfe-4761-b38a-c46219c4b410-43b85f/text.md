@@ -1,4 +1,2 @@
-Congressman Maxwell Frost Endorses Victor Torres
-Paul Snatchko and Eric Schrimshaw are hosting a gathering in support of Victor Torres with special guest Congressman Maxwell Frost.
-Committee to Elect Ricky Santiago for FL House Dist.50
-Powered by CampaignPartner.com - Political Campaign Websites
+Home/ Inicio Meet Ricky/ Conoce a Ricky Events/ Eventos Issues/ Temas de Campaña Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Congressman Maxwell Frost Endorses Victor Torres Paul Snatchko and Eric Schrimshaw are hosting a gathering in support of Victor Torres with special guest Congressman Maxwell Frost.
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

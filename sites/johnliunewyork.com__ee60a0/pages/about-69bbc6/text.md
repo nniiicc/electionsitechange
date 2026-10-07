@@ -1,5 +1,6 @@
-About John
-John C.
+Check back for updates!
+About Donate Check back for updates!
+About Donate About John John C.
 Liu is the former Comptroller of the City of New York (2010-2013) and a former member of the New York City Council (2002-2009).
 In 2013, John was a candidate for Mayor of New York City, in lieu of running for re-election as Comptroller.
 Currently, John teaches municipal finance and public policy in Masters programs at the City University of New York (CUNY) and Columbia University.
@@ -27,3 +28,5 @@ John has drawn upon his real world fiscal expertise to root out waste and misman
 John Liu immigrated from Taiwan at the age of five.
 He was educated in New York public schools, including Hunter College High School, Bronx High School of Science, and Binghamton University, attaining his degree in Mathematical Physics.
 John lives in Flushing with his wife Jenny and their son Joey.
+Back to Top To Get Involved: volunteers@johnliunewyork.com For Press Inquiries: press@johnliunewyork.com For Fundraising: funds@johnliunewyork.com Other Questions?
+Email lisa@johnliunewyork.com Paid for by Liu for New York

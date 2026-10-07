@@ -1,10 +1,38 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://reaganformaine.com/",
-"https://reaganformaine.com/about",
-"https://reaganformaine.com/contact",
-"https://reaganformaine.com/donate",
-"https://reaganformaine.com/real-state-of-the-state",
-"https://reaganformaine.com/sponsored-legislation",
-"https://secure.anedot.com/reagan-for-rep/donate"
+{
+"text": "About",
+"href": "https://reaganformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://reaganformaine.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/reagan-for-rep/donate"
+},
+{
+"text": "Donate",
+"href": "https://reaganformaine.com/donate"
+},
+{
+"text": "Home",
+"href": "https://reaganformaine.com/"
+},
+{
+"text": "Real State of the State",
+"href": "https://reaganformaine.com/real-state-of-the-state"
+},
+{
+"text": "Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul",
+"href": "https://reaganformaine.com/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://reaganformaine.com/sponsored-legislation"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

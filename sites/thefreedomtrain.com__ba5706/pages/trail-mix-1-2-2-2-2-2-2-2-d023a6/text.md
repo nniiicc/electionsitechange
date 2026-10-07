@@ -1,6 +1,4 @@
-It’s Time For The Trump Presidency To End
-4/10/26
-Nothing Donald Trump says or does is a surprise.
+Skip to content It’s Time For The Trump Presidency To End 4/10/26 Nothing Donald Trump says or does is a surprise.
 His recent diatribes have been shocking.
 They’ve been embarrassing.
 They’ve been dangerous.
@@ -22,4 +20,6 @@ The House will not impeach him.
 The only hope is electing a House and Senate amenable to impeachment and removal on Election Day.
 It’s time for common sense in these uncommon times.
 It’s time to send me, Gaylon Kent, to Congress.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

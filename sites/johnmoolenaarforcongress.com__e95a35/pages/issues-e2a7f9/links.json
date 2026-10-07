@@ -1,33 +1,126 @@
 [
-"https://facebook.com/JohnMoolenaarforCongress",
-"https://johnmoolenaarforcongress.com/",
-"https://johnmoolenaarforcongress.com/cart",
-"https://johnmoolenaarforcongress.com/contactus",
-"https://johnmoolenaarforcongress.com/endorsements",
-"https://johnmoolenaarforcongress.com/get-involved",
-"https://johnmoolenaarforcongress.com/issues",
-"https://johnmoolenaarforcongress.com/issues-2nd-amendment",
-"https://johnmoolenaarforcongress.com/issues-agriculture",
-"https://johnmoolenaarforcongress.com/issues-datacenters",
-"https://johnmoolenaarforcongress.com/issues-economy",
-"https://johnmoolenaarforcongress.com/issues-education",
-"https://johnmoolenaarforcongress.com/issues-election-integrity",
-"https://johnmoolenaarforcongress.com/issues-fiscal-responsibility",
-"https://johnmoolenaarforcongress.com/issues-great-lakes-protection",
-"https://johnmoolenaarforcongress.com/issues-health-care",
-"https://johnmoolenaarforcongress.com/issues-health-care-medicareforall",
-"https://johnmoolenaarforcongress.com/issues-immigration",
-"https://johnmoolenaarforcongress.com/issues-infrastructure",
-"https://johnmoolenaarforcongress.com/issues-national-defense",
-"https://johnmoolenaarforcongress.com/issues-pro-life",
-"https://johnmoolenaarforcongress.com/issues-rural-broadband",
-"https://johnmoolenaarforcongress.com/issues-veterans",
-"https://johnmoolenaarforcongress.com/news",
-"https://johnmoolenaarforcongress.com/privacy-policy",
-"https://johnmoolenaarforcongress.com/updates-sign-up",
-"https://johnmoolenaarforcongress.com/voting-information",
-"https://secure.winred.com/johnmoolenaar/donate",
-"https://secure.winred.com/johnmoolenaar/storefront",
-"https://twitter.com/JohnMoolenaar",
-"https://youtube.com/channel/UC9CpBZbuMo9EhnEx-ygIN2A?app=desktop"
+{
+"text": "0",
+"href": "https://www.johnmoolenaarforcongress.com/cart"
+},
+{
+"text": "Contact Team Moolenaar",
+"href": "https://www.johnmoolenaarforcongress.com/contactus"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/johnmoolenaar/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnmoolenaarforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.johnmoolenaarforcongress.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.johnmoolenaarforcongress.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.johnmoolenaarforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johnmoolenaarforcongress.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/johnmoolenaar/storefront/"
+},
+{
+"text": "Updates",
+"href": "https://www.johnmoolenaarforcongress.com/updates-sign-up"
+},
+{
+"text": "Voting Information",
+"href": "https://www.johnmoolenaarforcongress.com/voting-information"
+},
+{
+"text": "[image: 0BB329CC6CFE48633A51A575517AE1B2.moolenaar-issues-healthcare-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-health-care"
+},
+{
+"text": "[image: 13C0D128727118A4A766B924ADB82B82.moolenaar-issues-economy-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-economy"
+},
+{
+"text": "[image: 289DAF5874CA5E550980155D79CCB8F9.moolenaar-issues-infrastructure-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-infrastructure"
+},
+{
+"text": "[image: 3F1C61FD42B6B315BF9BDC23816F3EA2.moolenaar-issues-immigration-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-immigration"
+},
+{
+"text": "[image: 83D3B40440C85501CFEC037F47EA0A13.moolenaar-issues-greatlakesprotection-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-great-lakes-protection"
+},
+{
+"text": "[image: 907EFA181528F6C62EC7ABB3E6A0BCBE.moolenaar-issues-ruralbroadband-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-rural-broadband"
+},
+{
+"text": "[image: 9949F46F1F01B7174392F9332DBEB392.moolenaar-issues-veterans-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-veterans"
+},
+{
+"text": "[image: B5F06992EECD48E552EB1C38A22DDEF9.moolenaar-issues-fiscalresponsibility-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-fiscal-responsibility"
+},
+{
+"text": "[image: DC.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-datacenters"
+},
+{
+"text": "[image: DD49A47E6BAEF6F89101DC2FECD9A20B.moolenaar-issues-defense-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-national-defense"
+},
+{
+"text": "[image: E98E1299D2E82401250C0A3DF5112CC9.moolenaar-issues-pro-life-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-pro-life"
+},
+{
+"text": "[image: F37E21015CC40F7EAC256DD987D2F908.moolenaar-issues-agriculture-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-agriculture"
+},
+{
+"text": "[image: FBD2B3E547485CA50A973336A282546B.moolenaar-issues-education-display.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-education"
+},
+{
+"text": "[image: Health%252BCare.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-health-care-medicareforall"
+},
+{
+"text": "[image: John Moolenaar for Congress]",
+"href": "https://www.johnmoolenaarforcongress.com/"
+},
+{
+"text": "[image: Moolenaar_Asap040622-02.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-election-integrity"
+},
+{
+"text": "[image: Moolenaar_Asap040622-04.png]",
+"href": "https://www.johnmoolenaarforcongress.com/issues-2nd-amendment"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JohnMoolenaar"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnMoolenaarforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC9CpBZbuMo9EhnEx-ygIN2A?app=desktop"
+}
 ]

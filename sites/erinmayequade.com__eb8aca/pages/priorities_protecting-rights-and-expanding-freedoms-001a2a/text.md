@@ -1,36 +1,15 @@
-Priorities
-Protecting Rights and Expanding Freedoms
-We are witnessing the current administration in Washington attack our fundamental rights and freedoms.
+HOME MEET ERIN PRIORITIES Affordability Big Tech and AI Protecting Essential Services Fighting Corporate Fraud Working Families Democracy Protecting Our Rights ENDORSEMENTS DONATE Select Page Priorities Protecting Rights and Expanding Freedoms We are witnessing the current administration in Washington attack our fundamental rights and freedoms.
 In Minnesota, we’re dedicated to ensuring that everyone who calls our state and our district home are treated with the dignity and respect they deserve regardless of race, ethnicity, gender identity, immigration status, or disability.
 In 2018, I helped create and lead the largest reproductive health, rights, and justice coalition in the state of Minnesota.
 We laid the groundwork for a statewide movement to protect and expand our reproductive rights.
-In my first term as your state senator, we passed critical legislation such as:
-The Reproductive Freedom Codification Act (RFCA) to repeal unconstitutional and outdated abortion restrictions
-The Reproductive Freedom Defense Act (RFDA) to protect patients accessing abortion care in Minnesota from out-of-state prosecution
-Medicaid coverage for home birth services
-Required study and reporting of maternal deaths to improve prevention measures
-As a reproductive justice advocate and Co-Chair of the Reproductive Freedom Caucus, I am committed to upholding the fundamental right to abortion and the full range of reproductive health care from increased access to contraceptives to insurance coverage for fertility services and preservation to universal baby boxes for new parents.
+In my first term as your state senator, we passed critical legislation such as: The Reproductive Freedom Codification Act (RFCA) to repeal unconstitutional and outdated abortion restrictions The Reproductive Freedom Defense Act (RFDA) to protect patients accessing abortion care in Minnesota from out-of-state prosecution Medicaid coverage for home birth services Required study and reporting of maternal deaths to improve prevention measures As a reproductive justice advocate and Co-Chair of the Reproductive Freedom Caucus, I am committed to upholding the fundamental right to abortion and the full range of reproductive health care from increased access to contraceptives to insurance coverage for fertility services and preservation to universal baby boxes for new parents.
 I am the first out lesbian at the Minnesota Senate and a proud member of the Senate Queer Caucus.
-It’s honor to have passed meaningful legislation that protects and uplifts our community, including:
-The Trans Refuge Act which protected children and families from out-of-state prosecution for seeking lawful gender affirming healthcare
-The creation of the Council on LGBTQIA2S+ Minnesotans
-Updated marriage and parentage laws to be gender inclusive and provide legal protections for same-sex couples and their children
-It’s up to each of us to keep fighting for these protections and refuse efforts to take us back in time on Trans and LGBQ+ rights.
+It’s honor to have passed meaningful legislation that protects and uplifts our community, including: The Trans Refuge Act which protected children and families from out-of-state prosecution for seeking lawful gender affirming healthcare The creation of the Council on LGBTQIA2S+ Minnesotans Updated marriage and parentage laws to be gender inclusive and provide legal protections for same-sex couples and their children It’s up to each of us to keep fighting for these protections and refuse efforts to take us back in time on Trans and LGBQ+ rights.
 I serve as Vice Chair of the Senate People of Color and Indigenous (POCI) Caucus.
 It is imperative to have legislative champions who will continue to advance policies that center equity and justice.
 As one of the first Black women ever elected to the Minnesota Senate, I’m proud of the legislation we’ve passed to improve the lives of BIPOC Minnesotans.
-CROWN Act bans discrimination based on race-based natural hair texture and styles
-Creation of the African American Family Preservation Act intended
-Driver’s License for All
-Requirement for ethnic studies to be taught in schools
-As we see continued efforts to undermine due process and civil rights for immigrant and BIPOC communities, we must stand firm on the frontlines to protect our residents from cruel policies meant to divide and weaken us.
+CROWN Act bans discrimination based on race-based natural hair texture and styles Creation of the African American Family Preservation Act intended Driver’s License for All Requirement for ethnic studies to be taught in schools As we see continued efforts to undermine due process and civil rights for immigrant and BIPOC communities, we must stand firm on the frontlines to protect our residents from cruel policies meant to divide and weaken us.
 I’m proud to serve on the Senate Human Services committee and champion the policies Minnesotans with disabilities rely on.
-In the last three sessions, I’ve passed laws to…
-Eliminate TEFRA and parental fees that function as a tax on parents with children with disabilities
-Invest $889 million into Community First Services and Supports
-Provide $500,000 to Dakota County to reduce workforce shortages in disability services
-In the upcoming session, I will be working on increasing program integrity measures in disability services, enacting disability wage justice by eliminating subminimum wage, and protecting programs from executive overreach.
-I’m proud of the work I’ve done to protect the rights and freedoms of Minnesotans, and I will continue to pursue legislation that protects and expands our wins to ensure our classrooms, workspaces, and communities remain inclusive, safe, and supported.
-Sign Up for Campaign Updates
-Stay in Touch!
-Prepared and paid for by the Erin Maye Quade for Senate committee
+In the last three sessions, I’ve passed laws to… Eliminate TEFRA and parental fees that function as a tax on parents with children with disabilities Invest $889 million into Community First Services and Supports Provide $500,000 to Dakota County to reduce workforce shortages in disability services In the upcoming session, I will be working on increasing program integrity measures in disability services, enacting disability wage justice by eliminating subminimum wage, and protecting programs from executive overreach.
+I’m proud of the work I’ve done to protect the rights and freedoms of Minnesotans, and I will continue to pursue legislation that protects and expands our wins to ensure our classrooms, workspaces, and communities remain inclusive, safe, and supported.  Restoring Democracy to the People  Protecting Essential Services and Programs  Increasing Program Integrity and Fighting Corporate Fraud  Tackling the Affordability Crisis  Uplifting Children and Families  Holding Big Tech and AI Accountable  Protecting Rights and Expanding Freedoms Sign Up for Campaign Updates Stay in Touch!
+DONATE VOLUNTEER Name Email Address Phone Message Send Prepared and paid for by the Erin Maye Quade for Senate committee Learn More About Voting in the Primary Election Facebook X Instagram

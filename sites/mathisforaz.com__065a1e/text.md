@@ -1,16 +1,8 @@
-TUCSON VALUES:
-Preserve our Precious Water Resources
-Common Sense Gun Safety
-Invest in Public Schools
-An Arizona We Can Afford
-Restore Reproductive Rights
-Protect Voting Rights
-Chris Mathis is a Democrat who teaches health care law at the U of A and lives with his wife, Colleen, in Tucson.
+top of page Home Meet Chris Join Volunteer Donate Endorsements More Use tab to navigate through the menu items.
+Home DONATE TUCSON VALUES: Preserve our Precious Water Resources Common Sense Gun Safety Invest in Public Schools An Arizona We Can Afford Restore Reproductive Rights Protect Voting Rights Chris Mathis is a Democrat who teaches health care law at the U of A and lives with his wife, Colleen, in Tucson.
 A vote for Chris is a vote for a pro-choice, pro-education and pro-environment leader.
-MEET CHRIS
-A Democrat for Arizona.
-Chris Mathis is a Democrat who teaches health care law at the U of A and lives with his wife, Colleen, in Tucson.
-Chris practices elder law, helping older Tucsonans and their families resolve issues related to long-term care, public benefits, senior housing and estate planning.
+MEET CHRIS A Democrat for Arizona.
+Chris Mathis is a Democrat who teaches health care law at the U of A and lives with his wife, Colleen, in Tucson. ​ Chris practices elder law, helping older Tucsonans and their families resolve issues related to long-term care, public benefits, senior housing and estate planning.
 A Professor of Practice at the University of Arizona’s James E.
 Rogers College of Law and Arizona Education Association member, Chris teaches classes on Health Care Law & Policy and Aging.
 He formerly served as Director of Policy & Communications at the Healthcare Markets & Regulation (HMR) Lab at Harvard Medical School and as Southern Arizona Coordinator for the Flinn-Brown Fellows Civic Leadership Program.
@@ -25,3 +17,7 @@ Chris was appointed to the Arizona House of Representatives in 2021, elected in 
 In the Legislature, Chris has fought to preserve Arizona's precious water resources, restore reproductive rights, invest in public schools, protect voting rights and pass common-sense gun safety laws.
 He's the ranking House member on the Natural Resources, Energy and Water Committee and the Ethics Committee.
 He also serves on the Health and Human Services and Rules Committees.
+Meet Chris Sign up to Volunteer with the Campaign!
+DONATE Paid for by Mathis for Arizona.
+Authorized by Chris Mathis.
+PO Box 65385 Tucson AZ 85728 bottom of page

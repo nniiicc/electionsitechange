@@ -1,7 +1,9 @@
 {
  "description": "Manage Endorsements on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageEndorsements",
- "paid_for_by": null,
+ "fingerprint": "277b70f9d4b3e044c2b838d37f64317ff1d560de",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Endorsements | Maxwell for Congress",
  "years_mentioned": []
 }

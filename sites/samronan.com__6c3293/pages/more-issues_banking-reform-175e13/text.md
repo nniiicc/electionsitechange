@@ -1,15 +1,7 @@
-BANKING REFORM
-Banking
-All forms of banking shall become federalized and publicly owned.
-Commercial banks, and other private banking financial institutions shall be converted to a singular infrastructure and merged with the US Postal Service
-- Paid Interest on loans shall serve to offset federal spending and taxation
-- Payday Loans, and other similar services shall be explicitly illegal activities
-- Any lending of funds outside of the banking system, including vendor loans, or financing shall be strictly prohibited
-- Vendors may only offer monthly installment payment plans without the possibility of charging additional interest or fees
-All loans, consumer or commercial shall be reset to 1% interest rates
-- Car loans shall have a maximum loan period of 10 years
-- Commercial loans shall have a maximum loan period of 30 years
-Credit scores shall be abolished
-Financial history shall be kept to determine financial history, and to offer support to individuals who may be struggling financially, or wish to enter into loan requiring purchases
-Reinstating the Glass-Steagall Act of 1933 to ensure that any further banking reforms, minimally, cannot reintegrate retail and investment banking
-Banking institutions shall be thoroughly audited and findings made publicly available
+top of page Log In BANKING REFORM Previous Next Banking All forms of banking shall become federalized and publicly owned.
+Commercial banks, and other private banking financial institutions shall be converted to a singular infrastructure and merged with the US Postal Service Paid Interest on loans shall serve to offset federal spending and taxation Payday Loans, and other similar services shall be explicitly illegal activities Any lending of funds outside of the banking system, including vendor loans, or financing shall be strictly prohibited Vendors may only offer monthly installment payment plans without the possibility of charging additional interest or fees All loans, consumer or commercial shall be reset to 1% interest rates Car loans shall have a maximum loan period of 10 years Commercial loans shall have a maximum loan period of 30 years Credit scores shall be abolished Financial history shall be kept to determine financial history, and to offer support to individuals who may be struggling financially, or wish to enter into loan requiring purchases Reinstating the Glass-Steagall Act of 1933 to ensure that any further banking reforms, minimally, cannot reintegrate retail and investment banking Banking institutions shall be thoroughly audited and findings made publicly available STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

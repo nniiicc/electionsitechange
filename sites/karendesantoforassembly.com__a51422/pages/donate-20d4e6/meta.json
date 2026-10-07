@@ -1,9 +1,9 @@
 {
  "description": "Support DeSanto&#39;s campaign by making a donation today. Your political contributions help create a better tomorrow!",
  "final_url": "https://karendesantoforassembly.com/donate",
- "paid_for_by": null,
+ "fingerprint": "63713ae090102ab098a81fdcef3c81f64d3af8a7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATE",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

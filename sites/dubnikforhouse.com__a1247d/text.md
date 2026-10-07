@@ -1,3 +1,2 @@
-Matt Dubnik
-Education | Tax cuts | Public Safety
-Your conservative Representative serving the people of Gainesville, Oakwood, and Hall County in the Georgia House since 2017.
+Skip to content Close Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Facebook-f X-twitter Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Home Meet Matt Priorities Scorecard Awards-Endorsements Contact En Espanol Voter Guide Facebook-f Toggle Mobile Menu Matt Dubnik Education | Tax cuts | Public Safety Your conservative Representative serving the people of Gainesville, Oakwood, and Hall County in the Georgia House since 2017.
+Meet Matt Paid for and authorized by: Committee to Elect Matt Dubnik

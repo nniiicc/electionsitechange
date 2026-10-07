@@ -1,11 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sheltonforsdsenate",
-"https://instagram.com/sheltonforsenate",
-"https://sheltonforsdsenate.com/",
-"https://sheltonforsdsenate.com/about",
-"https://sheltonforsdsenate.com/donate",
-"https://sheltonforsdsenate.com/events",
-"https://sheltonforsdsenate.com/issues",
-"https://sheltonforsdsenate.com/volunteer"
+{
+"text": "About",
+"href": "https://www.sheltonforsdsenate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.sheltonforsdsenate.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.sheltonforsdsenate.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.sheltonforsdsenate.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sheltonforsdsenate.com/volunteer"
+},
+{
+"text": "[image: Jeff Shelton for District 32 Senate]",
+"href": "https://www.sheltonforsdsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sheltonforsdsenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sheltonforsenate"
+},
+{
+"text": "jeffshelton@sheltonforsdsenate.com",
+"href": "mailto:jeffshelton@sheltonforsdsenate.com"
+}
 ]

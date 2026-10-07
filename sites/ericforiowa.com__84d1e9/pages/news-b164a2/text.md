@@ -1,77 +1,27 @@
-In The News
-August 18, 2018
-LETTER: Vote for Eric Gjerde for House District 67
-The Gazette
-"Today’s political climate is nothing less than divisive.
+top of page State Representative Eric Gjerde HOME MEET ERIC STATE HOUSE CONTACT ME CAMPAIGN PRIORITIES GET INVOLVED NEWS PHOTOS Use tab to navigate through the menu items.
+DONATE House District 74 In The News August 18, 2018 LETTER: Vote for Eric Gjerde for House District 67 The Gazette "Today’s political climate is nothing less than divisive.
 It is difficult to sort through the “noise” and determine who is sincere and will work for Iowans.
 I am supporting Eric Gjerde in Iowa House District 67 because I’ve spent time talking with him about the issues that are important to me and found I connected with his vision for making Iowa work.
-Together."
-August 02, 2018
-EP48: Early 2020 Moves & Eric Gjerde Interview
-Iowa Starting Line
-"Iowa Starting Line Podcast host Pat Rynard talks with producer Chance Dorland about the early moves from 2020 contenders and the odd field Democrats could find themselves caucusing for soon.
+Together." READ HERE August 02, 2018 EP48: Early 2020 Moves & Eric Gjerde Interview Iowa Starting Line "Iowa Starting Line Podcast host Pat Rynard talks with producer Chance Dorland about the early moves from 2020 contenders and the odd field Democrats could find themselves caucusing for soon.
 And we talk with special education teacher Eric Gjerde about his campaign for House District 67.
-He was just endorsed yesterday by Barack Obama."
-August 01, 2018
-Obama endorses 6 Iowa Democratic candidates
-The Gazette
-"Flipping House District 67 will be key to Democrats if they wish to win control of the Iowa House.
+He was just endorsed yesterday by Barack Obama." READ MORE August 01, 2018 Obama endorses 6 Iowa Democratic candidates The Gazette "Flipping House District 67 will be key to Democrats if they wish to win control of the Iowa House.
 Republicans had a 59-41 majority during the 2018 session.
 The Democratic Legislative Campaign Committee said it sent recommendations to Obama for endorsement based on competitive races and seats Democrats need to flip in order to gain control of legislative chambers.
-Gjerde, an admirer of Obama, said he and other Iowa Democrats are trying to bring a similar message of hope to Iowans who feel they’ve been left behind."
-July 27, 2018
-Race ratings: Battle for the Iowa House
-Bleeding Heartland
-"Hinson faces Democrat Eric Gjerde, a local educator and Linn County Sheriff’s Deputy.
+Gjerde, an admirer of Obama, said he and other Iowa Democrats are trying to bring a similar message of hope to Iowans who feel they’ve been left behind." READ MORE July 27, 2018 Race ratings: Battle for the Iowa House Bleeding Heartland "Hinson faces Democrat Eric Gjerde, a local educator and Linn County Sheriff’s Deputy.
 Both candidates are well funded– Hinson leads in COH $64,731 to Gjerde’s $43,328.
 While Hinson has taken some bad votes, she is well known and her temperament seems to be a much better fit for the district than was Donald Trump’s, meaning she is likely to outperform the Republican lean.
-But Gjerde is a strong candidate, and Hinson shouldn’t take anything for granted– it’s a toss-up."
-May 29, 2018
-Democrats Post Strong Fundraising Reports, Out-Raise GOP In Many Races
-Iowa Starting Line
-"Over in the Cedar Rapids suburbs, Eric Gjerde continues to build a strong campaign to take on Republican Ashley Hinson in HD 67.
-That’s more than twice what Hinson got: $11,075."
-April 08, 2018
-CLIP: Town Hall for Our Lives creates community dialogue with Iowa legislators on gun violence
-CBS 2
-"Almost every member on stage and in the room could agree on one thing.
+But Gjerde is a strong candidate, and Hinson shouldn’t take anything for granted– it’s a toss-up." READ MORE May 29, 2018 Democrats Post Strong Fundraising Reports, Out-Raise GOP In Many Races Iowa Starting Line "Over in the Cedar Rapids suburbs, Eric Gjerde continues to build a strong campaign to take on Republican Ashley Hinson in HD 67.
+He raised $# adding to his previous haul of $# That’s more than twice what Hinson got: $#" READ MORE April 08, 2018 CLIP: Town Hall for Our Lives creates community dialogue with Iowa legislators on gun violence CBS 2 "Almost every member on stage and in the room could agree on one thing.
 "I support the second amendment," said Dr.
 Eric Gjerde, Candidate for District 67.
-"But I also support common sense gun legislation in the state of Iowa.""
-April 02, 2018
-Majority makers: 15 districts that will determine control of the Iowa House
-Bleeding Heartland
-"Democrats did not make much of a play here in 2016 but have recruited educator and Linn County Deputy Sheriff Dr.
+"But I also support common sense gun legislation in the state of Iowa."" READ MORE April 02, 2018 Majority makers: 15 districts that will determine control of the Iowa House Bleeding Heartland "Democrats did not make much of a play here in 2016 but have recruited educator and Linn County Deputy Sheriff Dr.
 Eric Gjerde this cycle.
-Gjerde has been running for several months and appears have the kind of professional campaign that will be necessary to knock off an incumbent with high name recognition and strong fundraising totals."
-March 29, 2018
-Eric Gjerde files to run for State Representative in Linn County
-Marion Times
-"Last week, educator Eric Gjerde officially filed papers to run for State Representative in House District 67, which includes Robins, Hiawatha and parts of Marion and Cedar Rapids.
-Gjerde announced his campaign in May and since then, he's focused his grassroots campaign on meeting voters and hearing their ideas and concerns."
-March 01, 2018
-Flip the Iowa House
-Bleeding Heartland
-"Eric is taking on Republican Ashley Hinson in House district 67, which makes up the northern part of Cedar Rapids, Hiawatha, Robins and part of Marion.
-Eric won’t be my state representative when he wins, but he will be an ally to my local Democratic representatives and will stand with them to protect public education and access to healthcare, and bring reason back to the state’s fiscal policy."
-January 25, 2018
-Sparked by Trump, Indivisible Iowa's progressive activism is growing, spreading
-Press Citizen
-"Hiatt also mentions Iowa House District 67 north of Cedar Rapids, where Democrat Eric Gjerde is challenging incumbent Rep.
-Ashley Hinson, who supported a weakening of collective bargaining rights and a tightening of voter identification laws in Iowa last session."
-January 24, 2018
-Which Legislative Candidates Stood Out In Fundraising Reports
-Iowa Starting Line
-"Special education teacher and volunteer sheriff special deputy Eric Gjerde put up a good total for his first report.
-He’s running against Representative Ashley Hinson in another suburban district that could be ripe for a Democratic swing in the 2018 political climate, this one based in Hiawatha, Marion, Robins and the north side of Cedar Rapids."
-July 11, 2017
-LETTER: Iowans didn't get a 'better deal'
-The Gazette
-"Rep.
+Gjerde has been running for several months and appears have the kind of professional campaign that will be necessary to knock off an incumbent with high name recognition and strong fundraising totals." READ MORE March 29, 2018 Eric Gjerde files to run for State Representative in Linn County Marion Times "Last week, educator Eric Gjerde officially filed papers to run for State Representative in House District 67, which includes Robins, Hiawatha and parts of Marion and Cedar Rapids.
+Gjerde announced his campaign in May and since then, he's focused his grassroots campaign on meeting voters and hearing their ideas and concerns." READ MORE March 01, 2018 Flip the Iowa House Bleeding Heartland "Eric is taking on Republican Ashley Hinson in House district 67, which makes up the northern part of Cedar Rapids, Hiawatha, Robins and part of Marion.
+Eric won’t be my state representative when he wins, but he will be an ally to my local Democratic representatives and will stand with them to protect public education and access to healthcare, and bring reason back to the state’s fiscal policy." READ MORE January 25, 2018 Sparked by Trump, Indivisible Iowa's progressive activism is growing, spreading Press Citizen "Hiatt also mentions Iowa House District 67 north of Cedar Rapids, where Democrat Eric Gjerde is challenging incumbent Rep.
+Ashley Hinson, who supported a weakening of collective bargaining rights and a tightening of voter identification laws in Iowa last session." READ MORE January 24, 2018 Which Legislative Candidates Stood Out In Fundraising Reports Iowa Starting Line "Special education teacher and volunteer sheriff special deputy Eric Gjerde put up a good total for his first report.
+He’s running against Representative Ashley Hinson in another suburban district that could be ripe for a Democratic swing in the 2018 political climate, this one based in Hiawatha, Marion, Robins and the north side of Cedar Rapids." READ MORE July 11, 2017 LETTER: Iowans didn't get a 'better deal' The Gazette "Rep.
 Ashley Hinson’s June 27 guest column “Trump visit highlights commitment to Midwest” supporting President Donald Trump is long in rhetoric and short on facts.
 It’s probably because the facts don’t back up her claims.
-Let’s start with her claim Iowans got a “better deal” during the 2017 legislative session."
-March 07, 2017
-Voter ID bill draws fervent support, strong criticism
-Radio Iowa
-"Eric Gjerde, a teacher from Cedar Rapids, said the bill is “hateful."“The only reason to introduce this legislation is to keep certain groups of people — generally low income Americans who are often people of color, students, elderly or the disabled — from the polling places,” Gjerde said."
+Let’s start with her claim Iowans got a “better deal” during the 2017 legislative session." READ MORE March 07, 2017 Voter ID bill draws fervent support, strong criticism Radio Iowa "Eric Gjerde, a teacher from Cedar Rapids, said the bill is “hateful."“The only reason to introduce this legislation is to keep certain groups of people — generally low income Americans who are often people of color, students, elderly or the disabled — from the polling places,” Gjerde said." READ MORE Please reload How To Support: Quick Donate $25 Quick Donate $50 Quick Donate $100 Contact Eric Representative Eric Gjerde P.O.
+Box 11593 Cedar Rapids, IA 52410 ​ (515) 281-3221 (capitol) ​ eric.gjerde@legis.iowa.gov © # Paid for by Eric Gjerde for Iowa House. bottom of page

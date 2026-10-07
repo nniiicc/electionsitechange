@@ -1,11 +1,10 @@
-Whatcom County Is Too Expensive.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability Whatcom County Is Too Expensive.
 We Need More Affordability.
-Ask almost anyone in Whatcom County about the cost of living and you’ll hear a familiar answer: it has become too expensive to live here.
+Campaign Staff Sep 28 6 min read Ask almost anyone in Whatcom County about the cost of living and you’ll hear a familiar answer: it has become too expensive to live here.
 Housing takes an increasingly large share of household income.
 Groceries, gas, utilities, healthcare and other basic expenses continue to strain family budgets.
 For renters trying to save, homeowners trying to keep up, seniors living on fixed incomes and young adults hoping to build a future here, affordability has become one of the defining challenges facing our community.
-The Growing Gap Between Housing Costs and Wages
-As I knock on doors and talk with people throughout our district, one concern comes up again and again: people are worried they will never be able to afford a home here.
+The Growing Gap Between Housing Costs and Wages As I knock on doors and talk with people throughout our district, one concern comes up again and again: people are worried they will never be able to afford a home here.
 For many millennials and Gen Z residents, homeownership feels increasingly out of reach.
 That matters not only because people want the stability of owning a home, but because housing has historically been one of the primary ways American households build wealth.
 The gap between homeowners and renters has become striking.
@@ -21,12 +20,11 @@ From 2000 to 2020, Bellingham’s median family income increased about 20% after
 Taken together, these numbers tell a clear story: the cost of housing has been rising much faster than the ability of many local households to pay for it.
 Removing barriers to building to increase the housing supply must be part of the solution.
 So must creating more opportunities for people to earn wages that reflect the true cost of living in our community.
-It’s Not Just Housing
-Housing may be the largest expense in most household budgets, but it is only one part of Whatcom County’s affordability problem.
+It’s Not Just Housing Housing may be the largest expense in most household budgets, but it is only one part of Whatcom County’s affordability problem.
 Research from Western Washington University’s Center for Economic & Business Research found that the cost of living in Whatcom County during the first quarter of 2025 was 20.8% higher than the national average.
 Cascadia Daily reported that those higher costs, combined with comparatively low local wages, leave many Bellingham residents living paycheck to paycheck.
 Transportation costs are another source of pressure.
-In early September 2026, AAA reported that the average price for regular gasoline in Whatcom County reached approximately $5.35 per gallon, about 40 cents higher than it had been one month earlier.
+In early September 2026, AAA reported that the average price for regular gasoline in Whatcom County reached approximately $5.35 per gallon , about 40 cents higher than it had been one month earlier.
 Higher fuel prices affect more than the cost of filling a tank.
 Transportation is built into the cost of getting food, materials and other goods to market, so increases can ripple through household and business budgets.
 State policy is also part of the overall cost equation.
@@ -41,8 +39,7 @@ When so many working households are struggling to afford ordinary life, affordab
 Housing, wages, transportation, taxes, healthcare, education and economic development are interconnected.
 Addressing the cost of living requires looking at all of them together.
 Dr.
-Erika Creydt’s Approach: Accountability First
-As a clinical psychologist, small-business owner, and Blaine School Board director running for State Senate in the 42nd District, my approach starts with a simple principle: before state government asks Washington families and businesses for more, it should be able to show that the money it already collects is being spent effectively.
+Erika Creydt’s Approach: Accountability First As a clinical psychologist, small-business owner, and Blaine School Board director running for State Senate in the 42nd District, my approach starts with a simple principle: before state government asks Washington families and businesses for more, it should be able to show that the money it already collects is being spent effectively.
 Washington’s current 2025–27 operating budget totals about $166 billion from all fund sources, including roughly $70 billion supported by General Fund-State tax and fee revenues and reserves.
 I support bringing greater accountability into the state budget by measuring whether programs are achieving their intended outcomes and whether taxpayer dollars are reaching the people and services they were designed to support.
 Programs that deliver results should be strengthened.
@@ -54,14 +51,12 @@ Under Senate Bill 6346, beginning January 1, 2028, Washington will impose a 9.9%
 The legislation also changes a number of state pension statutes that impact teachers, law enforcement, fire fighters, and other state employees so that pension income is not categorically exempt from the new tax.
 I support repealing this tax because once income tax is legal for one income bracket, it's legal to apply the tax to any income bracket.
 Washington should preserve its longstanding advantage of having no broad-based individual income tax and focus instead on better managing the resources the state already collects.
-More Homes, Built Responsibly
-Accountability alone will not solve the affordability crisis.
+More Homes, Built Responsibly Accountability alone will not solve the affordability crisis.
 Housing supply is another major piece of the equation.
 I support making it easier to build more housing by streamlining permitting, removing unnecessary barriers, and ensuring communities have the infrastructure needed to support responsible growth.
 The goal is not growth at any cost, we should concentrate development where roads, utilities, schools, and other infrastructure can accommodate it while protecting farmland, water resources, and environmentally sensitive areas.
 Increasing the supply and variety of housing can give more people a realistic opportunity to stay in the community they call home, allowing seniors to remain close to family and support networks, giving young adults a better chance to put down roots, and making Whatcom County a more realistic place for graduates of Western Washington University, Whatcom Community College, and Bellingham Technical College to build careers and futures.
-Better Jobs, Stronger Household Incomes
-Affordability is not only about what things cost.
+Better Jobs, Stronger Household Incomes Affordability is not only about what things cost.
 It is also about what people earn.
 When housing costs rise faster than wages, even people working full time can struggle to get ahead.
 Whatcom County needs a stronger economic-development strategy focused on both retaining existing employers and attracting businesses that provide living-wage careers.
@@ -70,9 +65,12 @@ A stronger base of living-wage employment can help households keep pace with the
 Housing and jobs reinforce one another.
 Employers have a harder time attracting and retaining workers when those workers cannot afford to live nearby.
 At the same time, increasing housing supply without improving earning opportunities leaves many households facing the same affordability gap.
-Connected Affordability Issues Require Connected Solutions
-Housing costs, household incomes, taxes, transportation, healthcare, education, and state spending do not exist in isolation.
+Connected Affordability Issues Require Connected Solutions Housing costs, household incomes, taxes, transportation, healthcare, education, and state spending do not exist in isolation.
 Together, they determine whether a family can afford to build a stable life in Whatcom County.
 My approach is to look at those pressures together: increase housing supply responsibly, strengthen opportunities for living-wage employment, improve access to healthcare and education, and demand greater accountability for how state government spends taxpayer dollars.
 This will help make Whatcom County a place where people can afford to live, work, raise a family, build a career, and retire.
 I am running to represent Democrats, Independents, and Republicans alike and I am committed to supporting policies that improve quality of life for everyone in the 42nd District.
+Recent Posts See All What's Up With the Heart?
+Dr.
+Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Dr.
+Erika Creydt Advances to the General Election With Growing Grassroots Momentum Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

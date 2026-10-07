@@ -1,5 +1,1 @@
-to at least $15
-Expand eligibility for universal pre-k and increase per-child funding and staffing
-Provide Universal School lunches for every child in PA
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money More Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money Home Healthcare Housing Family Flock Cameras Data Centers ICE Gift Ban Contribution Limits No Corpo Election Money Support Legislation to: Raise PA minimum wage to at least $15 Support Legislation to: Expand eligibility for universal pre-k and increase per-child funding and staffing Support Legislation to: Provide Universal School lunches for every child in PA

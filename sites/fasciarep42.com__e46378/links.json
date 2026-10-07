@@ -1,12 +1,54 @@
 [
-"https://facebook.com/representative.richard.fascia",
-"https://fasciarep42.com/",
-"https://fasciarep42.com/about",
-"https://fasciarep42.com/home",
-"https://fasciarep42.com/issues",
-"https://fasciarep42.com/news",
-"https://fasciarep42.com/support",
-"https://instagram.com/fasciarep42",
-"https://secure.winred.com/friends-of-richard-fascia/donate-today",
-"https://x.com/FasciaRep42"
+{
+"text": "Contact",
+"href": "https://fasciarep42.com/home/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-richard-fascia/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/representative.richard.fascia"
+},
+{
+"text": "ISSUES & POSITIONS",
+"href": "https://fasciarep42.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fasciarep42"
+},
+{
+"text": "Legislative Recap",
+"href": "https://fasciarep42.com/issues/"
+},
+{
+"text": "News & Endorsements",
+"href": "https://fasciarep42.com/news/"
+},
+{
+"text": "RICHARD'S STORY",
+"href": "https://fasciarep42.com/about/"
+},
+{
+"text": "Richard’s Story",
+"href": "https://fasciarep42.com/about/"
+},
+{
+"text": "Support",
+"href": "https://fasciarep42.com/support/"
+},
+{
+"text": "X",
+"href": "https://x.com/FasciaRep42"
+},
+{
+"text": "[image]",
+"href": "https://fasciarep42.com"
+},
+{
+"text": "visit the NEWS link",
+"href": "https://fasciarep42.com/news/"
+}
 ]

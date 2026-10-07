@@ -1,21 +1,9 @@
-Loren Petty for Idaho
-My Goals:
-Quality Public Education
-Equal Rights for All
-Affordable Housing and Living Wages
-Reproductive Rights
-Protecting access to Public Lands and maintaining Idaho’s heritage of hunting and fishing rights.
+0 Skip to Content Loren Petty for Idaho About Contact Open Menu Close Menu Loren Petty for Idaho About Contact Open Menu Close Menu About Contact Loren Petty for Idaho My Goals: Quality Public Education Equal Rights for All Affordable Housing and Living Wages Reproductive Rights Protecting access to Public Lands and maintaining Idaho’s heritage of hunting and fishing rights.
 Expanding access to quality medical care.
-Standing up for working Idahoans
-Get to know Loren Petty
-Loren Petty is an Idaho Native who graduated from Boise's Capital High School, served in the Marine Corps, and spent forty years with the family business, Jack Petty Roofing.
+Standing up for working Idahoans Get to know Loren Petty Loren Petty is an Idaho Native who graduated from Boise's Capital High School, served in the Marine Corps, and spent forty years with the family business, Jack Petty Roofing.
 In the meantime, he also served in the Marine Corps Reserve, earned a Bachelors Degree in Communication/Journalism from Boise State University, and published a newsprint periodical, Boise Times, from 1992 through 1997.
 Now retired from the roofing business, Loren is ready to once again serve the people of Idaho by representing District 22.
-As a lifelong Idahoan I am tired of hearing the most outrageous extremist ideas described as “the Idaho way.” I am running to represent District 22 as a blue collar every day Idahoan who will stand up for the working people, not the wealthy interests who take advantage of them. - Loren Petty
-2026 KBOI Idaho General Election Survey: State Representative
-Name: Loren Petty
-Hometown: Boise, Idaho
-Background: Boise State University BA Communication (2001) and Capital High School graduate (1976).
+As a lifelong Idahoan I am tired of hearing the most outrageous extremist ideas described as “the Idaho way.” I am running to represent District 22 as a blue collar every day Idahoan who will stand up for the working people, not the wealthy interests who take advantage of them. - Loren Petty 2026 KBOI Idaho General Election Survey: State Representative Name: Loren Petty Hometown: Boise, Idaho Background: Boise State University BA Communication (2001) and Capital High School graduate (1976).
 Marine Corps Infantry Veteran (1977 – 1981).
 Family roofing business employee and manager (Jack Petty Roofing 1981-2021).
 Periodical publisher (Boise Times 1992 - 1997).
@@ -65,33 +53,51 @@ If you believe that supporting public schools, (the very backbone of civilizatio
 If you believe that public lands in Idaho should be sold to the highest bidders to become exclusive playgrounds for the world’s wealthiest persons, you should not vote for me.
 If you happen to be among those who believe the opposite of all those things are true, that equal rights under the law are guaranteed under the Constitution, that everyone is indeed welcome here, that gender equity is the law of the land, that public lands belong to all of us and should be preserved for future generations, that education is the key to the future of our state and that quality public education is mandated by the state constitution, then I welcome your vote.
 And as an Idaho Native, I thank you for actually standing up for the Idaho way.
-Connect With Us
-We are here to listen to your thoughts and ideas on how we can make a positive change together.
+Connect With Us We are here to listen to your thoughts and ideas on how we can make a positive change together.
 Feel free to drop us a message and let's start creating a better future for all!
 Do you know Loren as a Marine, student, journalist, roofer, friend, or major annoyance?
 The people of D22 would like to hear your TESTIMONIALS regarding this candidate.
 It matters not where you live, just be truthful, and mind your language :) Please use the above form to send your stories.
-Thank you
-E-mail loren@lorenpettyforidaho.com
-Now accepting campaign donations. $5 is fine, but if you can spare a little more, that would be great.
+Thank you E-mail loren@lorenpettyforidaho.com Now accepting campaign donations. $# is fine, but if you can spare a little more, that would be great.
 I am not planning on running an extravagant campaign, you can be sure I will do my best to make the most of what is given.
-Loren Petty for Idaho PO Box 190767 Boise, Idaho 83719
-Facebook: Loren Petty for Idaho
-Together, let’s bring common sense back to the Idaho legislature.
-TESTIMONIALS AND ENDORSEMENTS
-I've known Loren for quite some time, and I can tell you exactly who you're getting: someone honest to the core, fiercely loyal, and always ready to lift others up.
+Loren Petty for Idaho PO Box 190767 Boise, Idaho 83719 Facebook: Loren Petty for Idaho Together, let’s bring common sense back to the Idaho legislature.
+TESTIMONIALS AND ENDORSEMENTS I've known Loren for quite some time, and I can tell you exactly who you're getting: someone honest to the core, fiercely loyal, and always ready to lift others up.
 As a Marine, he learned what it means to serve something bigger than himself — and he's carried that same commitment into everything he does since.
 What sets Loren apart is that he actually listens.
 He doesn't come in with his mind made up; he asks questions, hears people out, and isn't afraid to change course when it's the right thing to do.
 Add in his big heart, his quick sense of humor, and the energy he brings into every room, and you get someone people genuinely want to follow.
 Idaho needs leaders like Loren — steady, open-minded, and driven by service, not ego.
-Give him your vote.
-—Ryan M.
-Loren is an Idaho native who will work, with integrity, to promote the voters' needs. - Laurie Black Morehead, Hammett Idaho
-I have known and worked with Loren for more than 40 years.
+Give him your vote. —Ryan M.
+Loren is an Idaho native who will work, with integrity, to promote the voters' needs. - Laurie Black Morehead, Hammett Idaho I have known and worked with Loren for more than 40 years.
 He has always been honest and worked very hard to achieve his goals and keep his word.
 You may feel I may be a little biased in my opinion of him but that opinion is based on 40+ years of having him as my friend and the things I have experienced with him, and all the things I would have missed out on without him.
 I agree with almost if not all his political views.
 I wished he could represent the district that I live in but he does not.
 Therefore all I can do is say if you can vote for him I would hope that you do because if he is elected I know he will work very hard to improve the lives of all the people of Idaho instead of only being concerned about corporate interests like the current administration does.
-Please at least look at what he wants to improve and compare to the alternative because I do believe if you do he will get your vote and all our lives will be better for it. - Bob Roberts Jr., New Meadows Idaho
+Please at least look at what he wants to improve and compare to the alternative because I do believe if you do he will get your vote and all our lives will be better for it. - Bob Roberts Jr., New Meadows Idaho Good for you Loren!!
+You’ll be a great legislator!
+Intelligent, hard working and honest!
+A breath of fresh air!!
+You have my vote! - Kim Knowlton Boise, Idaho I have been acquainted with Mr.
+Petty for 25 years through his roofing business.
+As a businessman, I find him to be ethical, responsible and responsive to the needs of others.
+I trust he would bring these values to issues confronting our legislature and community.
+JL, Boise.
+Loren, I wish you success in the coming election.
+It is many years since we served together in the Corps, but I am sure you are the best choice for the legislative seat.
+Good luck!
+Jim Welsh, Colonel, USMC (Retired) Message: Honest take from a conservative: Loren and I spent many of nights working on college newspapers, writing, reporting, all things that go on in production.
+We were two sides of the coin.
+We didn't always agree (and many times we did), but we always listened to each other and discussed issues rationally.
+Together we put out one great little newspaper, we even made national news.
+Later, I helped Loren with a roofing job or two.
+He is an extremely hard worker, I can give you that, and when my parents needed roof work, they always called Loren.
+Loren is a good man, a man of honor & integrity.
+I believe he will listen to his constituents, pro or con, he always listened to me, even when we disagreed.
+His word is his bond, one of finest people I know.
+If Loren's views speak to your conscience, your vote will not find a better person to represent you.
+He's more left, I'm more right... but here & now, that doesn't matter.
+His character alone demands the respect of the best of testimony because he earned it - that's just who he truly is.
+Loren, I wish you very best in your race.
+Your friend, & colleague Ernest Woods.
+Loren Petty for Idaho

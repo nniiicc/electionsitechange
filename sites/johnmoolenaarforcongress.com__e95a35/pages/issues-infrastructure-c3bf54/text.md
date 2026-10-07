@@ -1,4 +1,4 @@
-Throughout my time in Congress I have prioritized investments in infrastructure, public safety, and national security through both legislation and federal appropriations.
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Throughout my time in Congress I have prioritized investments in infrastructure, public safety, and national security through both legislation and federal appropriations.
 I have helped direct federal resources to communities across Michigan's Second Congressional District for critical improvements to drinking water systems, wastewater infrastructure, and efforts to remediate PFAS contamination.
 In response to the catastrophic failures of the Edenville and Sanford dams, I sponsored bipartisan legislation designed to strengthen dam oversight, encourage infrastructure modernization, and improve coordination between state and federal agencies.
 When I was first elected, one of the most important infrastructure projects I kept hearing about was the need for a new lock at the Soo Locks in Sault Ste.
@@ -10,3 +10,4 @@ I have also pursued measures to safeguard the nation's transportation network by
 Additionally, I supported funding to enhance Michigan's transportation and defense capabilities through investments in facilities such as Gerald R.
 Ford International Airport and Selfridge Air National Guard Base.
 I have helped make historic progress for our state and I will continue to prioritize our infrastructure needs.
+DONATE Paid for by Moolenaar for Congress Privacy Policy

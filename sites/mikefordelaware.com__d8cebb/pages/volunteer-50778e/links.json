@@ -1,10 +1,46 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://mikefordelaware.com/",
-"https://mikefordelaware.com/donate-today",
-"https://mikefordelaware.com/volunteer",
-"https://mikefordelaware.com/wp-login.php",
-"https://pinterest.com/",
-"https://twitter.com/"
+{
+"text": "Donate Today",
+"href": "https://mikefordelaware.com/donate-today/"
+},
+{
+"text": "Home",
+"href": "https://mikefordelaware.com/"
+},
+{
+"text": "Log in",
+"href": "https://mikefordelaware.com/wp-login.php"
+},
+{
+"text": "Volunteer",
+"href": "https://mikefordelaware.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://mikefordelaware.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://pinterest.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "info@mikefordelaware.com",
+"href": "mailto:info@mikefordelaware.com"
+}
 ]

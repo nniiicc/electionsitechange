@@ -1,7 +1,13 @@
 {
  "description": "Official campaign website for John Waldron for House District 77",
  "final_url": "https://www.waldron4ok.com/",
- "paid_for_by": null,
+ "fingerprint": "cc06a7fd1378901aaae4851e8732ef971dc16196",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Waldron for House District 77",
- "years_mentioned": []
+ "years_mentioned": [
+  "2017",
+  "2020",
+  "2022"
+ ]
 }

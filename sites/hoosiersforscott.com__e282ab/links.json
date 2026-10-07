@@ -1,10 +1,38 @@
 [
-"https://blogger.com/",
-"https://facebook.com/hoosiersforscott",
-"https://hoosiersforscott.com/",
-"https://hoosiersforscott.com/2025/12/about-scott.html",
-"https://hoosiersforscott.com/2025/12/community-volunteer.html",
-"https://hoosiersforscott.com/2025/12/conservative-leader.html",
-"https://hoosiersforscott.com/2025/12/endorsements.html",
-"https://secure.winred.com/hoosiersforscott/donate?recurring=false&cover_fees=true"
+{
+"text": "About Scott",
+"href": "https://www.hoosiersforscott.com/2025/12/about-scott.html"
+},
+{
+"text": "Blogger",
+"href": "https://www.blogger.com"
+},
+{
+"text": "Community Volunteer",
+"href": "https://www.hoosiersforscott.com/2025/12/community-volunteer.html"
+},
+{
+"text": "Conservative Leader",
+"href": "https://www.hoosiersforscott.com/2025/12/conservative-leader.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.hoosiersforscott.com/2025/12/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.hoosiersforscott.com/"
+},
+{
+"text": "[image: Scott Fluhr for State Rep District 70]",
+"href": "https://www.hoosiersforscott.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/hoosiersforscott/donate?recurring=false&cover_fees=true"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/hoosiersforscott"
+}
 ]

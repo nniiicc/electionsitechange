@@ -1,12 +1,46 @@
 [
-"https://chrisgober.com/",
-"https://chrisgober.com/communications",
-"https://chrisgober.com/privacy-policy",
-"https://facebook.com/chrisgobertx",
-"https://instagram.com/chrisgobertx",
-"https://sos.state.tx.us/elections/voter/reqabbm.shtml",
-"https://votetexas.gov/register-to-vote/index.html",
-"https://votetexas.gov/voting/where.html",
-"https://x.com/ChrisKGober",
-"https://youtube.com/@ChrisGoberforTexas"
+{
+"text": "Check Status",
+"href": "https://www.votetexas.gov/register-to-vote/index.html"
+},
+{
+"text": "Communications & Consent Policy",
+"href": "https://chrisgober.com/communications"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/chrisgobertx"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chrisgobertx/"
+},
+{
+"text": "Locations",
+"href": "https://www.votetexas.gov/voting/where.html"
+},
+{
+"text": "More Info",
+"href": "https://www.sos.state.tx.us/elections/voter/reqabbm.shtml"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrisgober.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://chrisgober.com/communications"
+},
+{
+"text": "X",
+"href": "https://x.com/ChrisKGober"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ChrisGoberforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://chrisgober.com/"
+}
 ]

@@ -1,19 +1,82 @@
 [
-"https://facebook.com/thomaskutzpa",
-"https://instagram.com/thomaskutzpa",
-"https://secure.winred.com/thomaskutz/donate",
-"https://thomaskutz.com/",
-"https://thomaskutz.com/join",
-"https://thomaskutz.com/news",
-"https://thomaskutz.com/news/tags/boiling-springs",
-"https://thomaskutz.com/news/tags/cumberland-county",
-"https://thomaskutz.com/news/tags/general-assembly",
-"https://thomaskutz.com/news/tags/house-of-representatives",
-"https://thomaskutz.com/news/tags/mechanicsburg",
-"https://thomaskutz.com/news/tags/pennsylvania",
-"https://thomaskutz.com/news/tags/reelection",
-"https://thomaskutz.com/news/tags/state-representative",
-"https://thomaskutz.com/news/tags/thomas-kutz",
-"https://thomaskutz.com/thomas",
-"https://twitter.com/thkutz"
+{
+"text": "All Posts",
+"href": "https://www.thomaskutz.com/news"
+},
+{
+"text": "CONNECT@THOMASKUTZ.COM",
+"href": "mailto:CONNECT@THOMASKUTZ.COM"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/thomaskutz/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.thomaskutz.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.thomaskutz.com/join"
+},
+{
+"text": "NEWS",
+"href": "https://www.thomaskutz.com/news"
+},
+{
+"text": "THOMAS",
+"href": "https://www.thomaskutz.com/thomas"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "https://instagram.com/thomaskutzpa"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/thkutz"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/thomaskutzpa"
+},
+{
+"text": "boiling springs",
+"href": "https://www.thomaskutz.com/news/tags/boiling-springs"
+},
+{
+"text": "connect@thomaskutz.com",
+"href": "mailto:connect@thomaskutz.com"
+},
+{
+"text": "cumberland county",
+"href": "https://www.thomaskutz.com/news/tags/cumberland-county"
+},
+{
+"text": "general assembly",
+"href": "https://www.thomaskutz.com/news/tags/general-assembly"
+},
+{
+"text": "house of representatives",
+"href": "https://www.thomaskutz.com/news/tags/house-of-representatives"
+},
+{
+"text": "mechanicsburg",
+"href": "https://www.thomaskutz.com/news/tags/mechanicsburg"
+},
+{
+"text": "pennsylvania",
+"href": "https://www.thomaskutz.com/news/tags/pennsylvania"
+},
+{
+"text": "reelection",
+"href": "https://www.thomaskutz.com/news/tags/reelection"
+},
+{
+"text": "state representative",
+"href": "https://www.thomaskutz.com/news/tags/state-representative"
+},
+{
+"text": "thomas kutz",
+"href": "https://www.thomaskutz.com/news/tags/thomas-kutz"
+}
 ]

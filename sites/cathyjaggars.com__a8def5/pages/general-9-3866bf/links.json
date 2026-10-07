@@ -1,13 +1,54 @@
 [
-"https://cathyjaggars.com/",
-"https://cathyjaggars.com/contact",
-"https://cathyjaggars.com/general-9",
-"https://cathyjaggars.com/meet-cathy",
-"https://cathyjaggars.com/privacy-policy",
-"https://scstatehouse.gov/maps/house/HD97.pdf",
-"https://scvotes.gov/voters/absentee-voting",
-"https://scvotes.gov/voters/early-voting",
-"https://scvotes.gov/voters/register-to-vote",
-"https://secure.actblue.com/donate/cathyjaggars",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+{
+"text": "Cathy Jaggars",
+"href": "https://www.cathyjaggars.com"
+},
+{
+"text": "Cathy Jaggars, SC House 97",
+"href": "https://www.cathyjaggars.com"
+},
+{
+"text": "Check your Voter Registration",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+},
+{
+"text": "Contact",
+"href": "https://www.cathyjaggars.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cathyjaggars"
+},
+{
+"text": "Home",
+"href": "https://www.cathyjaggars.com"
+},
+{
+"text": "Link to the map",
+"href": "https://www.scstatehouse.gov/maps/house/HD97.pdf"
+},
+{
+"text": "Meet Cathy",
+"href": "https://www.cathyjaggars.com/meet-cathy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cathyjaggars.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://scvotes.gov/voters/absentee-voting/"
+},
+{
+"text": "Vote Early",
+"href": "https://scvotes.gov/voters/early-voting/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.cathyjaggars.com/general-9"
+}
 ]

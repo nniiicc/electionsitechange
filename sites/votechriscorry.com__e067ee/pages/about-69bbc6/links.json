@@ -1,8 +1,34 @@
 [
-"http://wix.com/",
-"https://votechriscorry.com/",
-"https://votechriscorry.com/about",
-"https://votechriscorry.com/contact",
-"https://votechriscorry.com/donate",
-"https://votechriscorry.com/issues"
+{
+"text": "ABOUT",
+"href": "https://www.votechriscorry.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.votechriscorry.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.votechriscorry.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.votechriscorry.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votechriscorry.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votechriscorry.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.votechriscorry.com/about"
+},
+{
+"text": "©# Friends of Chris Corry",
+"href": "http://wix.com"
+}
 ]

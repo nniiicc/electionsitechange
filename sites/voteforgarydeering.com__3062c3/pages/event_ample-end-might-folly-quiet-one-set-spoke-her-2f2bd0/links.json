@@ -1,10 +1,54 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvoteforgarydeering.com%2Fevent%2Fample-end-might-folly-quiet-one-set-spoke-her%2F%3Fical%3D1",
-"https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://voteforgarydeering.com/",
-"https://voteforgarydeering.com/events",
-"https://voteforgarydeering.com/events/category/residence",
-"https://voteforgarydeering.com/news",
-"https://voteforgarydeering.com/tag/answer",
-"https://voteforgarydeering.com/tag/present"
+{
+"text": "+ Add to Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvoteforgarydeering.com%2Fevent%2Fample-end-might-folly-quiet-one-set-spoke-her%2F%3Fical%3D1"
+},
+{
+"text": "+ Add to iCalendar",
+"href": "webcal://voteforgarydeering.com/event/ample-end-might-folly-quiet-one-set-spoke-her/?ical=1"
+},
+{
+"text": "About",
+"href": "https://voteforgarydeering.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://voteforgarydeering.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Events",
+"href": "https://voteforgarydeering.com/events/"
+},
+{
+"text": "Home",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "News",
+"href": "https://voteforgarydeering.com/news/"
+},
+{
+"text": "Residence",
+"href": "https://voteforgarydeering.com/events/category/residence/"
+},
+{
+"text": "[image: Gary Deering]",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "answer",
+"href": "https://voteforgarydeering.com/tag/answer/"
+},
+{
+"text": "present",
+"href": "https://voteforgarydeering.com/tag/present/"
+}
 ]

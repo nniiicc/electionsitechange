@@ -1,6 +1,3 @@
-Havis For Senate
-because he listens to what you have to say
-Previous post
-Kathy Fuller
-Next post
-Tom Kennedy
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Patricia Morris because he listens to what you have to say Published April 9, 2026 By Lee Havis Categorized as testimonials Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Kathy Fuller Next post Tom Kennedy Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

@@ -1,16 +1,78 @@
 [
-"https://briansfernandez.com/",
-"https://briansfernandez.com/about",
-"https://briansfernandez.com/cart",
-"https://briansfernandez.com/contact",
-"https://briansfernandez.com/services",
-"https://facebook.com/LD4Democrats",
-"https://instagram.com/briansfernandez",
-"https://nextnova.tech/",
-"https://secure.actblue.com/donate/fernandez-for-arizona-senate-2",
-"https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=100",
-"https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=1000",
-"https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=25",
-"https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=250",
-"https://twitter.com/BrianSFernandez"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=100%0D%0A"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/fernandez-for-arizona-senate-2?amount=250"
+},
+{
+"text": "$Other",
+"href": "https://secure.actblue.com/donate/fernandez-for-arizona-senate-2"
+},
+{
+"text": "0",
+"href": "https://www.briansfernandez.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.briansfernandez.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.briansfernandez.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fernandez-for-arizona-senate-2"
+},
+{
+"text": "Home",
+"href": "https://www.briansfernandez.com/"
+},
+{
+"text": "Join US",
+"href": "https://www.briansfernandez.com/contact"
+},
+{
+"text": "Learn more",
+"href": "https://www.briansfernandez.com/services"
+},
+{
+"text": "Next Nova Tech",
+"href": "https://nextnova.tech/"
+},
+{
+"text": "Services",
+"href": "https://www.briansfernandez.com/services"
+},
+{
+"text": "[image: Brian Fernandez for Arizona State Senate]",
+"href": "https://www.briansfernandez.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.briansfernandez.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrianSFernandez"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LD4Democrats"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/briansfernandez"
+}
 ]

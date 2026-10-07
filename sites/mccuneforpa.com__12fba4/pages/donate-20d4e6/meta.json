@@ -1,7 +1,9 @@
 {
  "description": "Listen to the people!",
  "final_url": "https://mccuneforpa.com/donate/",
- "paid_for_by": null,
+ "fingerprint": "e10273cea301b0656cafb041dc13119eff8460da",
+ "format": 3,
+ "paid_for_by": "",
  "title": "donate",
  "years_mentioned": []
 }

@@ -1,4 +1,4 @@
-I’m Kanika Brown, your fighter for District 71.
+Skip to content Home About Platform Volunteer Donate Sign Up for Updates Home About Platform Volunteer DONATE Menu I’m Kanika Brown, your fighter for District 71.
 My passion for community activism and social justice started at a young age, watching my aunt, Julie Hunter, coming home after hours spent amongst our community and advocating for the unheard.
 She taught me that true greatness is defined not by what you can do for yourself but by the impact you can have on behalf of others, and I have carried that spirit with me throughout my life.
 From the time I was a young adult, I’ve spent my life organizing with progressive causes.
@@ -12,3 +12,6 @@ With your support, I look forward to continuing that work and delivering real ch
 We will only change our state by working together.
 It’s going to take all of us together fighting for our values to effect change.
 Can I ask you to please sign up to learn more about this campaign and volunteer by adding your name and contact information below?
+First Name * Last Name * Email * Mobile Phone * JOIN THE TEAM Paid for by the Committee to Elect Kanika Brown.
+Privacy Policy .
+Website design by Express Lane Strategies . 🤠

@@ -1,180 +1,1014 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Launch&dates=20260523T150000Z%2F20260523T180000Z&location=+128+W+22nd+Street%2C+Holland%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Launch+with+State+Rep.+Joey+Andrews+and+joseph+mcclusky&dates=20260627T150000Z%2F20260627T170000Z&location=608+Bay+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Kickoff&dates=20260425T150000Z%2F20260425T190000Z&location=400+136th+Avenue%2C+Holland%2C+MI%2C+49424%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knock+with+Joseph+McClusky&dates=20260930T200000Z%2F20260930T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knock+with+Joseph+McClusky&dates=20261003T150000Z%2F20261003T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knock+with+Joseph+McClusky+&dates=20261002T140000Z%2F20261002T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260808T150000Z%2F20260808T170000Z&location=52+E+35th+St%2C+Holland%2C+MI%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260826T180000Z%2F20260826T233000Z&location=400+136th+Avenue%2C+Holland%2C+Michigan%2C+49424%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260827T210000Z%2F20260827T233000Z&location=609+Blackbass+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260828T180000Z%2F20260828T233000Z&location=515+Maple+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260901T170000Z%2F20260901T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260902T180000Z%2F20260902T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260903T220000Z%2F20260904T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260916T220000Z%2F20260917T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261007T190000Z%2F20261007T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261008T213000Z%2F20261008T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261011T200000Z%2F20261011T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261017T150000Z%2F20261017T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+&dates=20260918T183000Z%2F20260918T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+&dates=20260919T150000Z%2F20260919T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+&dates=20260922T200000Z%2F20260922T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+and+Joey+Andrews&dates=20260725T150000Z%2F20260725T170000Z&location=699+Harrington+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+and+the+Michigan+League+of+Conservation+Voters&dates=20260615T190000Z%2F20260615T210000Z&location=1774+Perry+Street%2C+Holland%2C+Michigan%2C+49424%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+in+Holland+Heights&dates=20260613T150000Z%2F20260613T170000Z&location=870+East+10th+Street%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+Mcclusky&dates=20260905T150000Z%2F20260906T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+and+Chris&dates=20261010T150000Z%2F20261011T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=February+Coffee+Hour&dates=20260221T150000Z%2F20260221T160000Z&location=12330+James+Street%2C+Holland%2C+MI%2C+49424%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Final+Push+Fall+Fundraiser&dates=20261001T223000Z%2F20261002T000000Z&location=61+East+7th+Street%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=GOTV+Kick+Off+with+Mallory+McMorrow&dates=20261024T140000Z%2F20261024T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Halloween+Canvassing+with+Joseph+McClusky&dates=20261031T150000Z%2F20261031T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=January+Coffee+Hour&dates=20260124T150000Z%2F20260124T160000Z&location=12330+James+Street%2C+Holland%2C+MI+49424%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joseph%27s+Birthday+Fundraiser&dates=20260629T220000Z%2F20260630T000000Z&location=248+S+River+Ave%2C+Holland%2C+MI",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Jocelyn+Benson+and+Joseph+McClusky&dates=20260727T193000Z%2F20260727T201500Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Joseph+McClusky&dates=20260324T220000Z%2F20260325T003000Z&location=69+East+8th+Street%2C+Holland%2C+MI%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Spring+Kickoff+Fundraiser&dates=20260413T220000Z%2F20260414T000000Z&location=61+East+7th+Street%2C+Holland%2C+MI+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Meet+and+Greet+Picnic+with+Joseph+McClusky&dates=20260613T190000Z%2F20260613T210000Z&location=608+Bay+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=World+Cup+Watch+Party+with+Joseph+McClusky&dates=20260611T190000Z%2F20260611T210000Z&location=430+West+17th+Street%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://maps.google.com/?q=+128+W+22nd+Street+Holland+United+States",
-"http://maps.google.com/?q=12330+James+Street+Holland%2C+MI%2C+49424+United+States",
-"http://maps.google.com/?q=12330+James+Street+Holland%2C+MI+49424+United+States",
-"http://maps.google.com/?q=1774+Perry+Street+Holland%2C+Michigan%2C+49424+United+States",
-"http://maps.google.com/?q=248+S+River+Ave+Holland%2C+MI",
-"http://maps.google.com/?q=400+136th+Avenue+Holland%2C+MI%2C+49424+United+States",
-"http://maps.google.com/?q=400+136th+Avenue+Holland%2C+Michigan%2C+49424+United+States",
-"http://maps.google.com/?q=430+West+17th+Street+Holland%2C+Michigan%2C+49423+United+States",
-"http://maps.google.com/?q=515+Maple+Avenue+Holland%2C+Michigan%2C+49423+United+States",
-"http://maps.google.com/?q=52+E+35th+St+Holland%2C+MI%2C+49423+United+States",
-"http://maps.google.com/?q=608+Bay+Avenue+Holland%2C+Michigan%2C+49423+United+States",
-"http://maps.google.com/?q=609+Blackbass+Avenue+Holland%2C+Michigan%2C+49423+United+States",
-"http://maps.google.com/?q=61+East+7th+Street+Holland%2C+MI+49423+United+States",
-"http://maps.google.com/?q=61+East+7th+Street+Holland%2C+Michigan%2C+49423+United+States",
-"http://maps.google.com/?q=69+East+8th+Street+Holland%2C+MI%2C+49423+United+States",
-"http://maps.google.com/?q=699+Harrington+Avenue+Holland%2C+Michigan%2C+49423+United+States",
-"http://maps.google.com/?q=870+East+10th+Street+Holland%2C+Michigan%2C+49423+United+States",
-"http://mobilize.us/michiganlcv/event/961290",
-"https://facebook.com/events/1361887492462774",
-"https://facebook.com/events/1697140648139710",
-"https://facebook.com/events/24868453112851756?acontext=%7B%22event_action_history%22%3A%5B%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-"https://facebook.com/events/892162030572205",
-"https://facebook.com/profile.php?id=61577899130009",
-"https://facebook.com/share/18qTnHKQFn?mibextid=wwXIfr",
-"https://facebook.com/share/1E5vvcyrRR",
-"https://facebook.com/share/1GjxRDmtPT",
-"https://instagram.com/mccluskyformi",
-"https://mccluskyformi.com/",
-"https://mccluskyformi.com/about-joseph",
-"https://mccluskyformi.com/cart",
-"https://mccluskyformi.com/contact",
-"https://mccluskyformi.com/endorsements",
-"https://mccluskyformi.com/espanol",
-"https://mccluskyformi.com/events",
-"https://mccluskyformi.com/events/as9c74bncgg3mntj625a49dhs9fmd8",
-"https://mccluskyformi.com/events/as9c74bncgg3mntj625a49dhs9fmd8?format=ical",
-"https://mccluskyformi.com/events/canvass-launch",
-"https://mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews",
-"https://mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews?format=ical",
-"https://mccluskyformi.com/events/canvass-launch?format=ical",
-"https://mccluskyformi.com/events/canvassing-kickoff",
-"https://mccluskyformi.com/events/canvassing-kickoff?format=ical",
-"https://mccluskyformi.com/events/db3onqllalqkq5cz17shtf5vnm8kop",
-"https://mccluskyformi.com/events/db3onqllalqkq5cz17shtf5vnm8kop?format=ical",
-"https://mccluskyformi.com/events/door-knock-with-joseph-mcclusky",
-"https://mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr",
-"https://mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr-m9ckd",
-"https://mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr-m9ckd?format=ical",
-"https://mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr?format=ical",
-"https://mccluskyformi.com/events/door-knock-with-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-and-chris",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-and-chris?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-1",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-1?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-5",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-5?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-the-michigan-league-of-conservation-voters",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-the-michigan-league-of-conservation-voters?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-in-holland-heights",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-in-holland-heights?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/february-coffee-hour",
-"https://mccluskyformi.com/events/february-coffee-hour?format=ical",
-"https://mccluskyformi.com/events/final-push-fall-fundraiser",
-"https://mccluskyformi.com/events/final-push-fall-fundraiser?format=ical",
-"https://mccluskyformi.com/events/gotv-kick-off-with-mallory-mcmorrow",
-"https://mccluskyformi.com/events/gotv-kick-off-with-mallory-mcmorrow?format=ical",
-"https://mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky",
-"https://mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/january-coffee-hour",
-"https://mccluskyformi.com/events/january-coffee-hour?format=ical",
-"https://mccluskyformi.com/events/josephs-birthday-fundraiser",
-"https://mccluskyformi.com/events/josephs-birthday-fundraiser?format=ical",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77-hbpee",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77-hbpee?format=ical",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77?format=ical",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb?format=ical",
-"https://mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh?format=ical",
-"https://mccluskyformi.com/events/meet-and-greet-with-jocelyn-benson-and-joseph-mcclusky",
-"https://mccluskyformi.com/events/meet-and-greet-with-jocelyn-benson-and-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/meet-and-greet-with-joseph-mcclusky",
-"https://mccluskyformi.com/events/meet-and-greet-with-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/psechpbpyezt9y3ptdch4sl7py79ng",
-"https://mccluskyformi.com/events/psechpbpyezt9y3ptdch4sl7py79ng?format=ical",
-"https://mccluskyformi.com/events/rpwpe6msfbeklg82d7rawgxn89xr22",
-"https://mccluskyformi.com/events/rpwpe6msfbeklg82d7rawgxn89xr22?format=ical",
-"https://mccluskyformi.com/events/spring-kickoff-fundraiser",
-"https://mccluskyformi.com/events/spring-kickoff-fundraiser?format=ical",
-"https://mccluskyformi.com/events/summer-meet-and-greet-picnic-with-joseph-mcclusky",
-"https://mccluskyformi.com/events/summer-meet-and-greet-picnic-with-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/swayn5b6wb3wj7y2ans3y2c7f9kd6x",
-"https://mccluskyformi.com/events/swayn5b6wb3wj7y2ans3y2c7f9kd6x?format=ical",
-"https://mccluskyformi.com/events/world-cup-watch-party-with-joseph-mcclusky",
-"https://mccluskyformi.com/events/world-cup-watch-party-with-joseph-mcclusky?format=ical",
-"https://mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex",
-"https://mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex?format=ical",
-"https://mccluskyformi.com/media",
-"https://mccluskyformi.com/platform",
-"https://mccluskyformi.com/privacy-policy",
-"https://mobilize.us/mccluskyformi/event/1002451",
-"https://mobilize.us/mccluskyformi/event/1016824",
-"https://mobilize.us/mccluskyformi/event/1016825",
-"https://mobilize.us/mccluskyformi/event/1016826",
-"https://mobilize.us/mccluskyformi/event/1021987",
-"https://mobilize.us/mccluskyformi/event/1021994",
-"https://mobilize.us/mccluskyformi/event/1022016",
-"https://mobilize.us/mccluskyformi/event/1034610",
-"https://mobilize.us/mccluskyformi/event/1034613",
-"https://mobilize.us/mccluskyformi/event/1034614",
-"https://mobilize.us/mccluskyformi/event/1034619",
-"https://mobilize.us/mccluskyformi/event/1047879",
-"https://mobilize.us/mccluskyformi/event/1047885",
-"https://mobilize.us/mccluskyformi/event/1047888",
-"https://mobilize.us/mccluskyformi/event/1051778",
-"https://mobilize.us/mccluskyformi/event/1051781",
-"https://mobilize.us/mccluskyformi/event/1051784",
-"https://mobilize.us/mccluskyformi/event/1051803",
-"https://mobilize.us/mccluskyformi/event/1051838",
-"https://mobilize.us/mccluskyformi/event/1055505",
-"https://mobilize.us/mccluskyformi/event/1055508",
-"https://mobilize.us/mccluskyformi/event/983073",
-"https://mobilize.us/mccluskyformi/event/994020",
-"https://mobilize.us/mobilize/event/959156",
-"https://secure.actblue.com/donate/mccluskybirthday",
-"https://secure.actblue.com/donate/mccluskyfallfundraiser",
-"https://secure.actblue.com/donate/mccluskyspringlaunch",
-"https://secure.actblue.com/donate/mccluskywebsite",
-"https://tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1",
-"https://x.com/mccluskyformi"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+128+w+22nd+street+holland+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=12330+james+street+holland%2C+mi%2C+49424+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=12330+james+street+holland%2C+mi+49424+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1774+perry+street+holland%2C+michigan%2C+49424+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=248+s+river+ave+holland%2C+mi+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+136th+avenue+holland%2C+mi%2C+49424+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+136th+avenue+holland%2C+michigan%2C+49424+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=430+west+17th+street+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=515+maple+avenue+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=52+e+35th+st+holland%2C+mi%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=608+bay+avenue+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=609+blackbass+avenue+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=61+east+7th+street+holland%2C+mi+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=61+east+7th+street+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=69+east+8th+street+holland%2C+mi%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=699+harrington+avenue+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=870+east+10th+street+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "0",
+"href": "https://www.mccluskyformi.com/cart"
+},
+{
+"text": "About Joseph",
+"href": "https://www.mccluskyformi.com/about-joseph"
+},
+{
+"text": "Canvass Launch",
+"href": "https://www.mccluskyformi.com/events/canvass-launch"
+},
+{
+"text": "Canvass Launch with State Rep. Joey Andrews and joseph mcclusky",
+"href": "https://www.mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews"
+},
+{
+"text": "Canvassing Kickoff",
+"href": "https://www.mccluskyformi.com/events/canvassing-kickoff"
+},
+{
+"text": "Contact",
+"href": "https://www.mccluskyformi.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mccluskywebsite"
+},
+{
+"text": "Door Knock with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky"
+},
+{
+"text": "Door Knock with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr"
+},
+{
+"text": "Door Knock with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr-m9ckd"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/as9c74bncgg3mntj625a49dhs9fmd8"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-1"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-5"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77-hbpee"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/psechpbpyezt9y3ptdch4sl7py79ng"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/rpwpe6msfbeklg82d7rawgxn89xr22"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/swayn5b6wb3wj7y2ans3y2c7f9kd6x"
+},
+{
+"text": "Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex"
+},
+{
+"text": "Door Knocking with Joseph McClusky and Joey Andrews",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews"
+},
+{
+"text": "Door Knocking with Joseph McClusky and the Michigan League of Conservation Voters",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-the-michigan-league-of-conservation-voters"
+},
+{
+"text": "Door Knocking with Joseph McClusky in Holland Heights",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-in-holland-heights"
+},
+{
+"text": "Door Knocking with Joseph Mcclusky",
+"href": "https://www.mccluskyformi.com/events/db3onqllalqkq5cz17shtf5vnm8kop"
+},
+{
+"text": "Door Knocking with Joseph and Chris",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-and-chris"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mccluskyformi.com/endorsements"
+},
+{
+"text": "Espanol",
+"href": "https://www.mccluskyformi.com/espanol"
+},
+{
+"text": "Events",
+"href": "https://www.mccluskyformi.com/events"
+},
+{
+"text": "Facebook Event",
+"href": "https://www.facebook.com/events/24868453112851756?acontext=%7B%22event_action_history%22%3A%5B%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22left_rail%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
+},
+{
+"text": "Facebook Event",
+"href": "https://www.facebook.com/share/18qTnHKQFn/?mibextid=wwXIfr"
+},
+{
+"text": "Facebook Event RSVP",
+"href": "https://www.facebook.com/share/1GjxRDmtPT/"
+},
+{
+"text": "Facebook RSVP",
+"href": "https://www.facebook.com/share/1E5vvcyrRR/"
+},
+{
+"text": "February Coffee Hour",
+"href": "https://www.mccluskyformi.com/events/february-coffee-hour"
+},
+{
+"text": "Final Push Fall Fundraiser",
+"href": "https://www.mccluskyformi.com/events/final-push-fall-fundraiser"
+},
+{
+"text": "GOTV Kick Off with Mallory McMorrow",
+"href": "https://www.mccluskyformi.com/events/gotv-kick-off-with-mallory-mcmorrow"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Launch&dates=20260523T150000Z%2F20260523T180000Z&location=+128+W+22nd+Street%2C+Holland%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Launch+with+State+Rep.+Joey+Andrews+and+joseph+mcclusky&dates=20260627T150000Z%2F20260627T170000Z&location=608+Bay+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Kickoff&dates=20260425T150000Z%2F20260425T190000Z&location=400+136th+Avenue%2C+Holland%2C+MI%2C+49424%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knock+with+Joseph+McClusky&dates=20260930T200000Z%2F20260930T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knock+with+Joseph+McClusky&dates=20261003T150000Z%2F20261003T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knock+with+Joseph+McClusky+&dates=20261002T140000Z%2F20261002T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260808T150000Z%2F20260808T170000Z&location=52+E+35th+St%2C+Holland%2C+MI%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260826T180000Z%2F20260826T233000Z&location=400+136th+Avenue%2C+Holland%2C+Michigan%2C+49424%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260827T210000Z%2F20260827T233000Z&location=609+Blackbass+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260828T180000Z%2F20260828T233000Z&location=515+Maple+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260901T170000Z%2F20260901T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260902T180000Z%2F20260902T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260903T220000Z%2F20260904T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260916T220000Z%2F20260917T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261007T190000Z%2F20261007T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261008T213000Z%2F20261008T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261011T200000Z%2F20261011T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20261017T150000Z%2F20261017T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+&dates=20260918T183000Z%2F20260918T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+&dates=20260919T150000Z%2F20260919T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+&dates=20260922T200000Z%2F20260922T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+and+Joey+Andrews&dates=20260725T150000Z%2F20260725T170000Z&location=699+Harrington+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+and+the+Michigan+League+of+Conservation+Voters&dates=20260615T190000Z%2F20260615T210000Z&location=1774+Perry+Street%2C+Holland%2C+Michigan%2C+49424%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky+in+Holland+Heights&dates=20260613T150000Z%2F20260613T170000Z&location=870+East+10th+Street%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+Mcclusky&dates=20260905T150000Z%2F20260906T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+and+Chris&dates=20261010T150000Z%2F20261011T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=February+Coffee+Hour&dates=20260221T150000Z%2F20260221T160000Z&location=12330+James+Street%2C+Holland%2C+MI%2C+49424%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Final+Push+Fall+Fundraiser&dates=20261001T223000Z%2F20261002T000000Z&location=61+East+7th+Street%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=GOTV+Kick+Off+with+Mallory+McMorrow&dates=20261024T140000Z%2F20261024T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Halloween+Canvassing+with+Joseph+McClusky&dates=20261031T150000Z%2F20261031T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=January+Coffee+Hour&dates=20260124T150000Z%2F20260124T160000Z&location=12330+James+Street%2C+Holland%2C+MI+49424%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joseph%27s+Birthday+Fundraiser&dates=20260629T220000Z%2F20260630T000000Z&location=248+S+River+Ave%2C+Holland%2C+MI"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Jocelyn+Benson+and+Joseph+McClusky&dates=20260727T193000Z%2F20260727T201500Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Joseph+McClusky&dates=20260324T220000Z%2F20260325T003000Z&location=69+East+8th+Street%2C+Holland%2C+MI%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Spring+Kickoff+Fundraiser&dates=20260413T220000Z%2F20260414T000000Z&location=61+East+7th+Street%2C+Holland%2C+MI+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Meet+and+Greet+Picnic+with+Joseph+McClusky&dates=20260613T190000Z%2F20260613T210000Z&location=608+Bay+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=World+Cup+Watch+Party+with+Joseph+McClusky&dates=20260611T190000Z%2F20260611T210000Z&location=430+West+17th+Street%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Halloween Canvassing with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky"
+},
+{
+"text": "Home",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/as9c74bncgg3mntj625a49dhs9fmd8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/canvass-launch?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/canvassing-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/db3onqllalqkq5cz17shtf5vnm8kop?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr-m9ckd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-and-chris?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-the-michigan-league-of-conservation-voters?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-in-holland-heights?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/february-coffee-hour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/final-push-fall-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/gotv-kick-off-with-mallory-mcmorrow?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/january-coffee-hour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/josephs-birthday-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77-hbpee?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-jocelyn-benson-and-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/psechpbpyezt9y3ptdch4sl7py79ng?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/rpwpe6msfbeklg82d7rawgxn89xr22?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/spring-kickoff-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/summer-meet-and-greet-picnic-with-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/swayn5b6wb3wj7y2ans3y2c7f9kd6x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/world-cup-watch-party-with-joseph-mcclusky?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex?format=ical"
+},
+{
+"text": "January Coffee Hour",
+"href": "https://www.mccluskyformi.com/events/january-coffee-hour"
+},
+{
+"text": "Joseph's Birthday Fundraiser",
+"href": "https://www.mccluskyformi.com/events/josephs-birthday-fundraiser"
+},
+{
+"text": "Media",
+"href": "https://www.mccluskyformi.com/media"
+},
+{
+"text": "Meet and Greet with Jocelyn Benson and Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-jocelyn-benson-and-joseph-mcclusky"
+},
+{
+"text": "Meet and Greet with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-joseph-mcclusky"
+},
+{
+"text": "Platform",
+"href": "https://www.mccluskyformi.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mccluskyformi.com/privacy-policy"
+},
+{
+"text": "Spring Kickoff Fundraiser",
+"href": "https://www.mccluskyformi.com/events/spring-kickoff-fundraiser"
+},
+{
+"text": "Summer Meet and Greet Picnic with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/summer-meet-and-greet-picnic-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/as9c74bncgg3mntj625a49dhs9fmd8"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/canvass-launch"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/canvassing-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/db3onqllalqkq5cz17shtf5vnm8kop"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr-m9ckd"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-and-chris"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-5"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-the-michigan-league-of-conservation-voters"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-in-holland-heights"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/february-coffee-hour"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/final-push-fall-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/gotv-kick-off-with-mallory-mcmorrow"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/january-coffee-hour"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/josephs-birthday-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77-hbpee"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-jocelyn-benson-and-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/psechpbpyezt9y3ptdch4sl7py79ng"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/rpwpe6msfbeklg82d7rawgxn89xr22"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/spring-kickoff-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/summer-meet-and-greet-picnic-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/swayn5b6wb3wj7y2ans3y2c7f9kd6x"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/world-cup-watch-party-with-joseph-mcclusky"
+},
+{
+"text": "View Event →",
+"href": "https://www.mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex"
+},
+{
+"text": "World Cup Watch Party with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/world-cup-watch-party-with-joseph-mcclusky"
+},
+{
+"text": "[image: Canvass Launch with State Rep. Joey Andrews and joseph mcclusky]",
+"href": "https://www.mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews"
+},
+{
+"text": "[image: Canvass Launch]",
+"href": "https://www.mccluskyformi.com/events/canvass-launch"
+},
+{
+"text": "[image: Canvassing Kickoff]",
+"href": "https://www.mccluskyformi.com/events/canvassing-kickoff"
+},
+{
+"text": "[image: Door Knock with Joseph McClusky ]",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr-m9ckd"
+},
+{
+"text": "[image: Door Knock with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky"
+},
+{
+"text": "[image: Door Knock with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knock-with-joseph-mcclusky-6lafr"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky ]",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky ]",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky ]",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh-3zxyb-lnj77-hbpee"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky and Joey Andrews]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky and the Michigan League of Conservation Voters]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-the-michigan-league-of-conservation-voters"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky in Holland Heights]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-in-holland-heights"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/as9c74bncgg3mntj625a49dhs9fmd8"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-1"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-5"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/ln38szdwksfa9craz52labb8gn35mh"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/psechpbpyezt9y3ptdch4sl7py79ng"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/rpwpe6msfbeklg82d7rawgxn89xr22"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/swayn5b6wb3wj7y2ans3y2c7f9kd6x"
+},
+{
+"text": "[image: Door Knocking with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex"
+},
+{
+"text": "[image: Door Knocking with Joseph Mcclusky]",
+"href": "https://www.mccluskyformi.com/events/db3onqllalqkq5cz17shtf5vnm8kop"
+},
+{
+"text": "[image: Door Knocking with Joseph and Chris]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-and-chris"
+},
+{
+"text": "[image: February Coffee Hour]",
+"href": "https://www.mccluskyformi.com/events/february-coffee-hour"
+},
+{
+"text": "[image: Final Push Fall Fundraiser]",
+"href": "https://www.mccluskyformi.com/events/final-push-fall-fundraiser"
+},
+{
+"text": "[image: GOTV Kick Off with Mallory McMorrow]",
+"href": "https://www.mccluskyformi.com/events/gotv-kick-off-with-mallory-mcmorrow"
+},
+{
+"text": "[image: Halloween Canvassing with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky"
+},
+{
+"text": "[image: January Coffee Hour]",
+"href": "https://www.mccluskyformi.com/events/january-coffee-hour"
+},
+{
+"text": "[image: Joseph McClusky for State Representative]",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "[image: Joseph's Birthday Fundraiser]",
+"href": "https://www.mccluskyformi.com/events/josephs-birthday-fundraiser"
+},
+{
+"text": "[image: Meet and Greet with Jocelyn Benson and Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-jocelyn-benson-and-joseph-mcclusky"
+},
+{
+"text": "[image: Meet and Greet with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/meet-and-greet-with-joseph-mcclusky"
+},
+{
+"text": "[image: Spring Kickoff Fundraiser]",
+"href": "https://www.mccluskyformi.com/events/spring-kickoff-fundraiser"
+},
+{
+"text": "[image: Summer Meet and Greet Picnic with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/summer-meet-and-greet-picnic-with-joseph-mcclusky"
+},
+{
+"text": "[image: World Cup Watch Party with Joseph McClusky]",
+"href": "https://www.mccluskyformi.com/events/world-cup-watch-party-with-joseph-mcclusky"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577899130009"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mccluskyformi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mccluskyformi"
+},
+{
+"text": "http://Mobilize.us/michiganlcv/event/961290",
+"href": "http://mobilize.us/michiganlcv/event/961290"
+},
+{
+"text": "https://secure.actblue.com/donate/mccluskybirthday",
+"href": "https://secure.actblue.com/donate/mccluskybirthday"
+},
+{
+"text": "https://secure.actblue.com/donate/mccluskyfallfundraiser",
+"href": "https://secure.actblue.com/donate/mccluskyfallfundraiser"
+},
+{
+"text": "https://secure.actblue.com/donate/mccluskyspringlaunch",
+"href": "https://secure.actblue.com/donate/mccluskyspringlaunch"
+},
+{
+"text": "https://www.facebook.com/events/1361887492462774",
+"href": "https://www.facebook.com/events/1361887492462774"
+},
+{
+"text": "https://www.facebook.com/events/1697140648139710",
+"href": "https://www.facebook.com/events/1697140648139710"
+},
+{
+"text": "https://www.facebook.com/events/892162030572205",
+"href": "https://www.facebook.com/events/892162030572205"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1002451/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1002451/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1016824/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1016824/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1016825/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1016825/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1016826/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1016826/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1021987/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1021987/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1021994/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1021994/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1022016/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1022016/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1034610/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1034610/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1034613/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1034613/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1034614/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1034614/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1034619/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1034619/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1047879/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1047879/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1047885/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1047885/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1047888/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1047888/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1051778/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1051778/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1051781/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1051781/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1051784/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1051784/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1051803/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1051803/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1051838/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1051838/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1055505/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1055505/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1055508/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1055508/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/983073/",
+"href": "https://www.mobilize.us/mccluskyformi/event/983073/"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/994020/",
+"href": "https://www.mobilize.us/mccluskyformi/event/994020/"
+},
+{
+"text": "https://www.mobilize.us/mobilize/event/959156/",
+"href": "https://www.mobilize.us/mobilize/event/959156/"
+}
 ]

@@ -1,17 +1,70 @@
 [
-"https://aflcio.org/",
-"https://aft.org/",
-"https://americanhumanist.org/",
-"https://cwa-union.org/",
-"https://facebook.com/miraforwv",
-"https://miraforwv.com/",
-"https://miraforwv.com/about-mira-tanner-hughes",
-"https://miraforwv.com/district-65-voter-registration",
-"https://miraforwv.com/get-involved-upshur-county",
-"https://miraforwv.com/mira-tanner-hughes-endorsements",
-"https://miraforwv.com/priorities-district-65",
-"https://openbadgefactory.com/obv3/credentials/5ada3bc77a9e14cf54fb13180f81da3cebdfad14",
-"https://plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic",
-"https://umwa.org/",
-"https://wvcantwait.com/"
+{
+"text": "(681) 245-7654",
+"href": "tel:+16812457654"
+},
+{
+"text": "About",
+"href": "https://www.miraforwv.com/about-mira-tanner-hughes"
+},
+{
+"text": "District 65",
+"href": "https://www.miraforwv.com/district-65-voter-registration"
+},
+{
+"text": "Endorsements",
+"href": "https://www.miraforwv.com/mira-tanner-hughes-endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.miraforwv.com/get-involved-upshur-county"
+},
+{
+"text": "Home",
+"href": "https://www.miraforwv.com/"
+},
+{
+"text": "Mira Tanner-Hughes | WV District 65",
+"href": "https://www.miraforwv.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.miraforwv.com/priorities-district-65"
+},
+{
+"text": "[image: American Federation of Labor & Congress of Industrial Organizations (AFL-CIO) clickable logo]",
+"href": "https://aflcio.org/"
+},
+{
+"text": "[image: American Federation of Teachers clickable logo]",
+"href": "https://aft.org/"
+},
+{
+"text": "[image: American Humanist Association clickable logo]",
+"href": "https://americanhumanist.org/"
+},
+{
+"text": "[image: Civics Credentialing clickable logo]",
+"href": "https://openbadgefactory.com/obv3/credentials/5ada3bc77a9e14cf54fb13180f81da3cebdfad14"
+},
+{
+"text": "[image: Communications Workers of America clickable logo]",
+"href": "https://cwa-union.org/"
+},
+{
+"text": "[image: Planned Parenthood clickable logo]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic"
+},
+{
+"text": "[image: United Mine Workers of America clickable logo]",
+"href": "https://umwa.org/"
+},
+{
+"text": "[image: West Virginia Can't Wait clickable logo]",
+"href": "https://wvcantwait.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/miraforwv/"
+}
 ]

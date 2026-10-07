@@ -1,6 +1,5 @@
-Commentary: Who gets to belong here?
-Updated: Apr 1
-Every conversation about affordable housing in Manchester comes down to one question: Who is this community for?
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Who gets to belong here?
+Thomas West Aug 14, 2025 4 min read Updated: Apr 1 Every conversation about affordable housing in Manchester comes down to one question: Who is this community for?
 The people who need housing here aren’t strangers.
 They’re the clerks in our hardware store, the lift operators on the mountain, the small business owners, the tradespeople, and the retirees who’ve built their lives here but now face being priced out of the place they call home.
 That includes the people we count on every day, the ones who plow our roads in winter, keep our parks open in summer, and show up when we call 911.
@@ -59,3 +58,7 @@ It finds ways to keep them here.
 The choice is ours.
 What comes next is up to all of us, and it starts with the courage to say yes and to keep saying it more often than not.
 Published on August 14, 2025 via Manchester Journal.
+Housing Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

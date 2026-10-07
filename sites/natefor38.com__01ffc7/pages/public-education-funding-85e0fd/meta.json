@@ -1,10 +1,11 @@
 {
  "description": "Explore Indiana public policy focused on education funding, rural healthcare access, and economic development to strengthen communities.",
  "final_url": "https://natefor38.com/public-education-funding",
+ "fingerprint": "724e4df98ee2ceb9e6eb194f325d50aacf20670e",
+ "format": 3,
  "paid_for_by": "paid for by Hoosiers to Elect Nate Stout",
  "title": "Public Education Funding",
  "years_mentioned": [
-  "2025",
-  "2026"
+  "2025"
  ]
 }

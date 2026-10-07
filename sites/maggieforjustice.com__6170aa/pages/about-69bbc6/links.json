@@ -1,9 +1,34 @@
 [
-"http://tiktok.com/@maggieforjustice",
-"https://facebook.com/maggieforjustice",
-"https://instagram.com/maggieforjustice",
-"https://maggieforjustice.com/",
-"https://maggieforjustice.com/about",
-"https://maggieforjustice.com/cart",
-"https://secure.actblue.com/donate/maggie-ellis-1"
+{
+"text": "0",
+"href": "https://www.maggieforjustice.com/cart"
+},
+{
+"text": "About Maggie",
+"href": "https://www.maggieforjustice.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/maggie-ellis-1"
+},
+{
+"text": "Home",
+"href": "https://www.maggieforjustice.com/"
+},
+{
+"text": "[image: MAGGIE ELLIS FOR CHIEF JUSTICE]",
+"href": "https://www.maggieforjustice.com/"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@maggieforjustice"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/maggieforjustice"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maggieforjustice/"
+}
 ]

@@ -1,5 +1,6 @@
-HEALTHCARE ACCESS
-As a pediatric nurse and social worker in my professional life, I have a history of advocating for quality healthcare for all, especially mental healthcare.
-In my first term at the Statehouse, I have introduced numerous bills focusing on access to care, including legislation to establish an adverse childhood experiences study commission, to create a remote opioid pilot program, to increase awareness of Alzheimer's and dementia, to revise the law governing certified registered nurse anesthetists, and to reduce the cost of prescription medications.
+top of page Home About Meet Rachel Rachel in Action Values & Experience Issues Legislation Endorsements Get Involved Volunteer Request a Yard Sign Donate Contact More Use tab to navigate through the menu items.
+HEALTHCARE ACCESS As a pediatric nurse and social worker in my professional life, I have a history of advocating for quality healthcare for all, especially mental healthcare.
+In my first term at the Statehouse, I have introduced numerous bills focusing on access to care, including legislation to establish an adverse childhood experiences study commission , to create a remote opioid pilot program , to increase awareness of Alzheimer's and dementia , to revise the law governing certified registered nurse anesthetists , and to reduce the cost of prescription medications .
 I will continue to advocate for mental health resources to address the ongoing and heightened mental health issue in our state.
 I support nurses and access to adequate resources for all healthcare workers, and introduced legislation this year to help provide a framework for violence prevention and workplace safety plans, training, and reporting standards in hospitals.
+Paid for by Friends of Rachel Baker bottom of page

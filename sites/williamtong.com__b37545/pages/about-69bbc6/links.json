@@ -1,10 +1,54 @@
 [
-"https://facebook.com/teamtong2018",
-"https://instagram.com/williamtongct",
-"https://williamtong.com/",
-"https://williamtong.com/about",
-"https://williamtong.com/accomplishments",
-"https://williamtong.com/contact",
-"https://williamtong.com/watch",
-"https://youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+{
+"text": "About",
+"href": "https://www.williamtong.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.williamtong.com/accomplishments/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.williamtong.com/"
+},
+{
+"text": "TongTV",
+"href": "https://www.williamtong.com/watch/"
+},
+{
+"text": "[image: William Tong]",
+"href": "https://www.williamtong.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/teamtong2018/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/williamtongct/"
+},
+{
+"text": "[no text]",
+"href": "https://www.williamtong.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/teamtong2018/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/williamtongct/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.williamtong.com/contact/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCxPkQeQ5QmTO-iI_0uewhsw"
+}
 ]

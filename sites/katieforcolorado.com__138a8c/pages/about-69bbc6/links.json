@@ -1,15 +1,62 @@
 [
-"https://flickr.com/photos/201113713@N08",
-"https://katieforcolorado.com/",
-"https://katieforcolorado.com/about",
-"https://katieforcolorado.com/contact-us",
-"https://katieforcolorado.com/en-espanol",
-"https://katieforcolorado.com/endorsements",
-"https://katieforcolorado.com/issues",
-"https://katieforcolorado.com/stay-updated",
-"https://kriesi.at/",
-"https://m.facebook.com/profile.php?id=61554388276206&eav=AfYP2wflUrVob04_IJ1AOkdegSjLr8QnVH-DRNSXHO0nTUX19bLmNVrMfdlCh8ERcE4&paipv=0",
-"https://secure.actblue.com/donate/k4c-website",
-"https://secure.actblue.com/donate/katie-for-colorado-1",
-"https://secure.actblue.com/donate/katiefor59"
+{
+"text": "Contact Us",
+"href": "https://www.katieforcolorado.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/k4c-website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/katiefor59"
+},
+{
+"text": "En Español",
+"href": "https://www.katieforcolorado.com/en-espanol/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.katieforcolorado.com/endorsements/"
+},
+{
+"text": "Enfold Theme by Kriesi",
+"href": "https://kriesi.at"
+},
+{
+"text": "Facebook",
+"href": "https://m.facebook.com/profile.php?id=61554388276206&eav=AfYP2wflUrVob04_IJ1AOkdegSjLr8QnVH-DRNSXHO0nTUX19bLmNVrMfdlCh8ERcE4&paipv=0"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.katieforcolorado.com/contact-us/"
+},
+{
+"text": "HERE",
+"href": "https://secure.actblue.com/donate/katie-for-colorado-1"
+},
+{
+"text": "Issues",
+"href": "https://www.katieforcolorado.com/issues/"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.katieforcolorado.com/about"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/201113713@N08/"
+},
+{
+"text": "Search",
+"href": "https://www.katieforcolorado.com/about/?s="
+},
+{
+"text": "Stay Updated",
+"href": "https://www.katieforcolorado.com/stay-updated/"
+},
+{
+"text": "[image: Katie Stewart for Colorado][image: Katie Stewart for Colorado]",
+"href": "https://www.katieforcolorado.com/"
+}
 ]

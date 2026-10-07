@@ -1,37 +1,174 @@
 [
-"https://facebook.com/yassaminansari",
-"https://instagram.com/yassaminansari",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/yassaminansari_web",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=10",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=100",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=25",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=250",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=50",
-"https://twitter.com/yassaminansari",
-"https://yassaminforcongress.com/",
-"https://yassaminforcongress.com/?page_id=944",
-"https://yassaminforcongress.com/about",
-"https://yassaminforcongress.com/contact",
-"https://yassaminforcongress.com/endorsements",
-"https://yassaminforcongress.com/es/news/3",
-"https://yassaminforcongress.com/media",
-"https://yassaminforcongress.com/news",
-"https://yassaminforcongress.com/news/2",
-"https://yassaminforcongress.com/news/4",
-"https://yassaminforcongress.com/news/5",
-"https://yassaminforcongress.com/news/az-mirror-campaign-launched-to-enshrine-vote-by-mail-in-state-constitution-and-counter-gop-restrictions",
-"https://yassaminforcongress.com/news/az-mirror-overflowing-toilets-no-medical-care-democrats-call-mesa-ice-facility-a-public-health-issue",
-"https://yassaminforcongress.com/news/azpm-arizona-lawmakers-call-on-ice-to-release-woman-with-leukemia-from-eloy-detention-center",
-"https://yassaminforcongress.com/news/fox-news-democrat-calls-howard-lutnick-a-pathological-liar-after-closed-door-epstein-testimony",
-"https://yassaminforcongress.com/news/ktar-arizona-democrats-make-2nd-surprise-visit-to-inhumane-ice-facility-at-mesa-airport",
-"https://yassaminforcongress.com/news/phoenix-new-times-qa-ansari-blasts-racist-supreme-court-ruling-on-voting-rights-act",
-"https://yassaminforcongress.com/press/brady-pac-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/press/defend-the-vote-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/press/giffords-pac-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/press/reproductive-freedom-for-all-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/press/senator-mark-kelly-endorses-yassamin-ansari-for-congress",
-"https://yassaminforcongress.com/press/yassamin-ansari-makes-phoenix-city-council-district-7-endorsements",
-"https://yassaminforcongress.com/privacy-policy",
-"https://yassaminforcongress.myshopify.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=50"
+},
+{
+"text": "AZ Mirror: Campaign launched to enshrine vote-by-mail in state constitution and counter GOP restrictions",
+"href": "https://yassaminforcongress.com/news/az-mirror-campaign-launched-to-enshrine-vote-by-mail-in-state-constitution-and-counter-gop-restrictions/"
+},
+{
+"text": "AZ Mirror: Overflowing toilets, no medical care: Democrats call Mesa ICE facility a ‘public health issue’",
+"href": "https://yassaminforcongress.com/news/az-mirror-overflowing-toilets-no-medical-care-democrats-call-mesa-ice-facility-a-public-health-issue/"
+},
+{
+"text": "AZPM: Arizona lawmakers call on ICE to release woman with leukemia from Eloy Detention Center",
+"href": "https://yassaminforcongress.com/news/azpm-arizona-lawmakers-call-on-ice-to-release-woman-with-leukemia-from-eloy-detention-center/"
+},
+{
+"text": "About Yassamin",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "Brady PAC Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/press/brady-pac-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Defend the Vote Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/press/defend-the-vote-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Endorsements",
+"href": "https://yassaminforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/yassaminansari/"
+},
+{
+"text": "Fox News: Democrat calls Howard Lutnick a ‘pathological liar’ after closed-door Epstein testimony",
+"href": "https://yassaminforcongress.com/news/fox-news-democrat-calls-howard-lutnick-a-pathological-liar-after-closed-door-epstein-testimony/"
+},
+{
+"text": "GIFFORDS PAC Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/press/giffords-pac-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yassaminansari/"
+},
+{
+"text": "Issues & Policy",
+"href": "https://yassaminforcongress.com/?page_id=944"
+},
+{
+"text": "KTAR: Arizona Democrats make 2nd surprise visit to ‘inhumane’ ICE facility at Mesa airport",
+"href": "https://yassaminforcongress.com/news/ktar-arizona-democrats-make-2nd-surprise-visit-to-inhumane-ice-facility-at-mesa-airport/"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/media/"
+},
+{
+"text": "Meet Yass",
+"href": "https://yassaminforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://yassaminforcongress.com/news"
+},
+{
+"text": "News & Press",
+"href": "https://yassaminforcongress.com/news/"
+},
+{
+"text": "Next »",
+"href": "https://yassaminforcongress.com/news/4/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Page1",
+"href": "https://yassaminforcongress.com/news/"
+},
+{
+"text": "Page2",
+"href": "https://yassaminforcongress.com/news/2/"
+},
+{
+"text": "Page4",
+"href": "https://yassaminforcongress.com/news/4/"
+},
+{
+"text": "Page5",
+"href": "https://yassaminforcongress.com/news/5/"
+},
+{
+"text": "Phoenix New Times: Q&A: Ansari blasts ‘racist’ Supreme Court ruling on Voting RIghts Act",
+"href": "https://yassaminforcongress.com/news/phoenix-new-times-qa-ansari-blasts-racist-supreme-court-ruling-on-voting-rights-act/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://yassaminforcongress.com/privacy-policy"
+},
+{
+"text": "Reproductive Freedom for All Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/press/reproductive-freedom-for-all-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Senator Mark Kelly Endorses Yassamin Ansari for Congress",
+"href": "https://yassaminforcongress.com/press/senator-mark-kelly-endorses-yassamin-ansari-for-congress/"
+},
+{
+"text": "Shop",
+"href": "https://yassaminforcongress.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/yassaminansari"
+},
+{
+"text": "Yassamin Ansari Makes Phoenix City Council District 7 Endorsements",
+"href": "https://yassaminforcongress.com/press/yassamin-ansari-makes-phoenix-city-council-district-7-endorsements/"
+},
+{
+"text": "[image: es_ES]Español",
+"href": "https://yassaminforcongress.com/es/news/3/"
+},
+{
+"text": "[image]",
+"href": "https://yassaminforcongress.com"
+},
+{
+"text": "« Previous",
+"href": "https://yassaminforcongress.com/news/2/"
+}
 ]

@@ -1,7 +1,26 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://chrislewey.com/",
-"https://chrislewey.com/cart",
-"https://chrislewey.com/contact",
-"https://facebook.com/profile.php?id=61584490816298"
+{
+"text": "0",
+"href": "https://www.chrislewey.com/cart"
+},
+{
+"text": "Chris Lewey for State House",
+"href": "https://www.chrislewey.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.chrislewey.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Home",
+"href": "https://www.chrislewey.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584490816298"
+}
 ]

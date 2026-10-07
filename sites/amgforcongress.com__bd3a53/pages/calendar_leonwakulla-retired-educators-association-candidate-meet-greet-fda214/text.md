@@ -1,10 +1,4 @@
-Back to All Events
-NOTE: This event starts at 12:45PM Central/1:45PM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Leon/Wakulla Retired Educators Association Candidate Meet & Greet Tuesday, October 6, 2026 1:45 PM 3:15 PM Saint Paul's United Methodist Church 1700 North Meridian Road Tallahassee, Florida, 32303 United States (map) Google Calendar ICS NOTE: This event starts at 12:45PM Central/1:45PM Eastern.
 Amanda will join the Leon/Wakulla Retired Educators Association for a Candidate Meet & Greet, giving local voters an opportunity to hear directly from candidates, learn more about their priorities, and ask questions ahead of the November election.
-Previous
-Previous
-October 6
-BBIA Candidate Breakfast Forum
-Next
-Next
-October 7
+Previous Previous October 6 BBIA Candidate Breakfast Forum Next Next October 7 TEAM AMG/VOLUNTEERS: Postcard Writing TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

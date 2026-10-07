@@ -1,14 +1,5 @@
-Mike Scala in His Own Words
-- 05.14 2026 Op-Ed: The Return of Democracy
-- 04.23 2026 Op-Ed: When Politics Becomes Politricks
-News & Media Coverage
-- April 30, 2021
-- April 29, 2021
-- April 22, 2021
-- April 15, 2021
-- February 18, 2021
-- January 28, 2021
-- January 22, 2021
-- January 20, 2021
-- January 14, 2021
-- January 7, 2021
+Facebook Instagram Twitter Queens, NY Home Meet Mike Issues Press Room Contribute Skip to content Press Room Mike Scala in His Own Words 05.14 2026 Op-Ed: The Return of Democracy 04.23 2026 Op-Ed: When Politics Becomes Politricks 03.26 2026 Close the Loophole That Shortchanges Our Workers Next Page News & Media Coverage April 30, 2021 Spring Cleaning!
+April 29, 2021 Rockaway Pitches In for Peninsula-Wide Cleanup April 22, 2021 Good News, Too April 15, 2021 Peninsula-Wide Spring Cleaning Set For April 24 March 23, 2021 Watch Mike Scala: Candidate for NYC Council District 32 (Queens) March 10, 2021 2021 Elections: Who’s running for City Council in the 32nd District?
+March 3, 2021 Lawmakers, Far Rockaway Residents Concerned About Proposals To Cut Costs At St.
+John’s Episcopal Hospital February 18, 2021 Mike Scala: A Record of Advocacy for District 32 February 17, 2021 United Federation of Teachers endorses Mike Scala for southern Queens City Council seat February 12, 2021 UFT Announces NYC Council Endorsements for 2021 Giving 15 Candidates A Big Boost January 28, 2021 Filth Under the Freeway January 22, 2021 Rockaway Participates in MLK Day with Boardwalk March January 20, 2021 Former Democratic candidate will run again January 14, 2021 High Tide January 7, 2021 Mike Scala Launches Campaign for City Council Previous Page 1 … 3 4 5 6 7 … 17 Next Page Search for: New York State Assembly District 23 includes all or parts of Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hamilton Beach, Howard Beach, Lindenwood, Ozone Park, Neponsit, Rockaway Beach, Rockaway Park and Roxbury in Queens.
+Paid for by Scala for New York

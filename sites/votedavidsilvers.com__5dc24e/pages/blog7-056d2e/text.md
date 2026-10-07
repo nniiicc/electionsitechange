@@ -1,8 +1,4 @@
-Time to fix coverage gap for mental health; Insurance policies in Florida can severely limit access to treatment
-Palm Beach Post (Florida)
-March 3, 2021 Wednesday
-FINAL EDITION
-If ever there was a time to modernize how we treat mental health and substance use treatment; the height of a global pandemic certainly seems like such a time.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Time to fix coverage gap for mental health; Insurance policies in Florida can severely limit access to treatment March 3, 2021 / in News / by David Silvers Palm Beach Post (Florida) March 3, 2021 Wednesday FINAL EDITION If ever there was a time to modernize how we treat mental health and substance use treatment; the height of a global pandemic certainly seems like such a time.
 It is a near-constant refrain that most of us believe that something — anything — must be done to improve how we address the very serious mental health issues in our state.
 Here is one simple, yet effective policy change that can directly help people and change how we address our failing mental health system.
 When patients are diagnosed with a mental health condition, too often they find that insurance fails to cover, or inadequately covers, treatment for that condition.
@@ -22,6 +18,6 @@ The insurance lobby will sow fear about rising costs and the unknown impacts of 
 The good news is that as other states have come into compliance, we now have data showing that closing this loophole and offering patients early treatment for mental health and substance use-related disorders can and will save both lives and money.
 With a growing mental health crisis, this is the time to do something good, even if it is hard.
 David Silvers (D) represents District 87, in central Palm Beach County, in the Florida Legislature.
-Your Turn
-David Silvers
-Guest columnist
+Your Turn David Silvers Guest columnist https://www.votedavidsilvers.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-9-2025-12_54_37-PM.png 1024 1024 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2021-03-03 18:40:19 2025-06-17 17:43:25 Time to fix coverage gap for mental health; Insurance policies in Florida can severely limit access to treatment Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: Point of View: New Florida allows for domestic violence injunctions to protect pets Point of View: New Florida allows for domestic violence injunctions to protect...
+Link to: Genetic counselors now are licensed professionals in Florida, and lives will be saved ANOTHER VIEWPOINT Genetic counselors now are licensed professionals in Florida, and lives will...
+Scroll to top Scroll to top

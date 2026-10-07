@@ -1,6 +1,4 @@
-Luke believes in
-Getting the Balance Right with Artificial Intelligence
-When voters talk to me about AI in this district, I hear a version of the same thing: nobody asked us.
+Skip navigation menu About Issues Endorsements Contact Lawn Signs Jobs Donate About Issues Endorsements Contact Lawn Signs Jobs Donate Bringing Down Costs Abolishing ICE & Fixing Our Immigration System Protecting Medicare, Medicaid, & Pushing for Universal Healthcare Building More Housing Affordable Childcare & Eldercare Safeguarding Reproductive Freedom Protecting LGBTQ+ Rights Taking Climate Change Seriously Fighting Corruption Creating a Fair Tax Code Reducing Gun Violence Educating Our Kids Building Modern Infrastructure Strengthening Social Security Getting the Balance Right with Artificial Intelligence Luke believes in Getting the Balance Right with Artificial Intelligence When voters talk to me about AI in this district, I hear a version of the same thing: nobody asked us.
 It showed up in our kids' phones, in the hiring process, in our electric bills, and there's no one in charge of it.
 That worry isn't irrational and it isn't anti-technology.
 It's what people feel when something this big moves this fast and the rules are nowhere in sight.
@@ -34,3 +32,6 @@ I ran a city that lived through what happens when the economy changes and nobody
 Hartford did not get hollowed out overnight.
 It got hollowed out because the people making decisions decided the workers who got left behind were somebody else’s problem.
 I am not going to sit in Congress and watch that happen again on a national scale and call it innovation.
+For press inquiries, email press@broninforcongress.com.
+For all other inquiries, please contact info@broninforcongress.com.
+Checks may be made out to "Luke Bronin for Congress" and mailed to: Luke Bronin for Congress, PO Box 230161, Hartford, CT 06123 Paid for by Luke Bronin for Congress You need to enable JavaScript to run this app.

@@ -1,11 +1,4 @@
-Back to All Events
-Register to help us GOTV in Lamoille and Washington County by calling and texting voters!
+0 Skip to Content About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Back to All Events Get Out the Vote (GOTV) Phone Banking/Texting Saturday, November 5, 2022 11:30 AM Tuesday, November 8, 2022 12:30 PM Google Calendar ICS Register to help us GOTV in Lamoille and Washington County by calling and texting voters!
 Flexible time options that work for your schedule.
 An optional training will be held on Thursday, November 3rd.
-Previous
-Previous
-November 4
-Get Out the Vote (GOTV) Honk and Waves/Canvassing:
-Next
-Next
-November 8
+Register Previous Previous November 4 Get Out the Vote (GOTV) Honk and Waves/Canvassing: Next Next November 8 Election Night Watch Party Donate Register to vote LaMont for Vermont lamontforvermont@gmail.com (802) 335-2334 PO Box 333 Morrisville VT 05661

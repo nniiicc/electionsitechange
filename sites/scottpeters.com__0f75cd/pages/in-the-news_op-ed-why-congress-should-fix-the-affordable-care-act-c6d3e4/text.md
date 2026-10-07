@@ -1,10 +1,6 @@
-Today, Rep.
+Meet Scott About Scott Accomplishments Awards Issues Jobs & the Economy Health Care Medicare & Social Security Veterans Energy & the Environment Education Equal Rights Immigration Keeping Americans Safe Biden Administration Fix Congress Endorsements Supporters Elected Officials Organizations AAPI Community News TV Ads Photo Gallery Hi-Resolution Photos Press Inquiries Get Involved Donate Meet Scott Issues Endorsements News News Op-Ed: Why Congress should fix the Affordable Care Act July 6, 2017 Today, Rep.
 Peters authored an op-ed for The San Diego Union-Tribune in response to the efforts of President Trump and Republican members of Congress to “repeal and replace” the Affordable Care Act.
-The July 6 op-ed is posted below:
-Why Congress should fix the Affordable Care Act
-By Scott Peters
-July 6, 2017
-It’s hard to find anyone other than Republican members of Congress who think the current proposals to “repeal and replace” the Affordable Care Act are good policy.
+The July 6 op-ed is posted below: Why Congress should fix the Affordable Care Act By Scott Peters July 6, 2017 It’s hard to find anyone other than Republican members of Congress who think the current proposals to “repeal and replace” the Affordable Care Act are good policy.
 The proposals are opposed by doctors, nurses, hospitals, faith leaders, insurance providers, AARP and likely by the 22 million Americans who will lose their health care if these plans are adopted.
 Fortunately for America’s working families, seniors, the very ill and those with pre-existing conditions, these plans have stalled.
 My Democratic colleagues and I will continue to vigorously fight these current harmful measures.
@@ -38,3 +34,14 @@ But many individual insurance markets need help today, and the fixes are availab
 There are broader proposals out there, but these are steps that we can take right now to stabilize the individual markets.
 This is what Congress should be doing: protecting what is working in our health care system and helping fix what isn’t.
 That would be a good step toward repairing a broken Congress and making health care more affordable and accessible for every American.
+3.31.02 News Peters called “one of the more statesmanlike of our elected representatives” Young, old challenge San Diego's history of civic status quoBy Neil MorganSAN DIEGO UNION TRIBUNEMarch 31, 2002I welcome the tangy...
+Scott Peters for CA 50 Get Involved Sign up to our newsletter and stay up to date with the campaign.
+Address PO Box 22074 San Diego, CA 92192 Phone (858) 848-7515 Email [email protected] ©# Scott Peters for Congress Contact Privacy Policy Paid for by Scott Peters for Congress Get Updates Get Updates Get Involved Get Involved Donate Now Donate Now Share Share Tweet Email California District 52 Is Scott your Representative in Congress?
+Type in your address to find out.
+You are in District 52!
+For more ways to help, please check out the link below: Get Involved Not in this district!
+According to our data, you are not in District 52!
+Please verify this information at the CA Dems website!
+CA Dems Go!
+The data here is provided by 3rd-party services.
+For best results, please visit CA Dems

@@ -1,4 +1,4 @@
-Ryan Rivers is a Central Ohio business professional who knows firsthand what it takes to build, grow, and sustain success in the real world, not just talk about it in government.
+Home Issues About Media Home Issues About Media More Home Issues About Media Home Issues About Media Ryan Rivers is a Central Ohio business professional who knows firsthand what it takes to build, grow, and sustain success in the real world, not just talk about it in government.
 With a career rooted in the private sector, Ryan has worked directly with employers, entrepreneurs, and local communities to create jobs, expand investment, and cut through bureaucratic barriers that hold prosperity back.
 He brings a results-driven mindset shaped by real accountability, where outcomes matter and excuses do not.
 While not a career politician, Ryan has served his community when it counted.
@@ -8,5 +8,10 @@ His focus is simple: protect taxpayers, defend local control, and make Ohio the 
 A proud lifelong Ohioan, Ryan lives in Delaware County with his wife and daughters and remains active in his community.
 He believes Ohio does not need more politicians.
 It needs leaders who understand how the real world works and have the courage to fight for it.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Endorsements & Ratings OHIO ADVOCATES FOR MEDICAL FREEDOM NATIONAL FEDERATION OF INDEPENDENT BUSINESS OHIO CHAMBER OF COMMERCE OHIO STATE LEGISLATIVE BOARD BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN OHIO ASSOCIATION OF PUBLIC SCHOOL EMPLOYEES OHIO FARM BUREAU FEDERATION AGRICULTURE OF GOOD GOVERNMENT OHIO FARM BUREAU FEDERATION AGRICULTURE OF GOOD GOVERNMENT OHIO FARM BUREAU FEDERATION AGRICULTURE OF GOOD GOVERNMENT AFFILIATED CONSTRUCTION TRADES OHIO FRATERNAL ORDER OF POLICE BUCKEYE FIREARMS ASSOCIATION COLUMBUS/CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL COLUMBUS/CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL OHIO STATE MEDICAL ASSOCIATION COLUMBUS/CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL INTERNATIONAL UNION OF OPERATING ENGINEERS INTERNATIONAL UNION OF OPERATING ENGINEERS COLUMBUS/CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL INTERNATIONAL UNION OF OPERATING ENGINEERS TEAMSTERS OHIO D.R.I.V.E.
+TEAMSTERS OHIO D.R.I.V.E.
+TEAMSTERS OHIO D.R.I.V.E.
+SHEET METAL WORKERS TEAMSTERS OHIO D.R.I.V.E.
+TEAMSTERS OHIO D.R.I.V.E.
+RIGHT TO LIFE TEAMSTERS OHIO D.R.I.V.E.
+RIGHT TO LIFE PAID FOR BY RIVERS FOR OHIO

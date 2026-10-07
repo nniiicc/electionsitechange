@@ -1,20 +1,86 @@
 [
-"http://wheredoivotema.com/bal/MyElectionInfo.aspx",
-"https://benforstaterepma.com/",
-"https://benforstaterepma.com/about",
-"https://benforstaterepma.com/accomplishments",
-"https://benforstaterepma.com/blog",
-"https://benforstaterepma.com/endorsements",
-"https://benforstaterepma.com/mailinglist",
-"https://benforstaterepma.com/newsletter-archive",
-"https://benforward3.com/accomplishments",
-"https://benforward3.com/newsletter-archive",
-"https://docs.google.com/forms/d/e/1FAIpQLSdTB4HdXy94NJ4FYzz6VjwlQw47CIkvee-ONFUV4fUNXT5EcA/viewform",
-"https://extavourlab.com/people/ben-ewen-campen",
-"https://hms.harvard.edu/news/scientist-day-local-politician-night",
-"https://pnas.org/doi/10.1073/pnas.0701209104",
-"https://sec.state.ma.us/ovr",
-"https://secure.actblue.com/contribute/page/benforward3",
-"https://secure.actblue.com/donate/ben-for-state-rep",
-"https://tandfonline.com/doi/abs/10.1676/09-153.1"
+{
+"text": "About",
+"href": "https://www.benforstaterepma.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.benforstaterepma.com/accomplishments"
+},
+{
+"text": "Ben Ewen-Campen For State Rep",
+"href": "https://www.benforstaterepma.com/"
+},
+{
+"text": "BenForWard3@gmail.com",
+"href": "mailto:BenForWard3@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ben-for-state-rep"
+},
+{
+"text": "Endorsements",
+"href": "https://www.benforstaterepma.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.benforstaterepma.com/"
+},
+{
+"text": "I’m a biologist at Harvard Medical School",
+"href": "https://hms.harvard.edu/news/scientist-day-local-politician-night"
+},
+{
+"text": "Join the Mailing list",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdTB4HdXy94NJ4FYzz6VjwlQw47CIkvee-ONFUV4fUNXT5EcA/viewform"
+},
+{
+"text": "Look up registration",
+"href": "http://www.wheredoivotema.com/bal/MyElectionInfo.aspx"
+},
+{
+"text": "Mailing List",
+"href": "https://www.benforstaterepma.com/mailinglist"
+},
+{
+"text": "Make a Donation →",
+"href": "https://secure.actblue.com/contribute/page/benforward3"
+},
+{
+"text": "Newsletter Archive",
+"href": "https://www.benforstaterepma.com/newsletter-archive"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sec.state.ma.us/ovr/"
+},
+{
+"text": "Updates",
+"href": "https://www.benforstaterepma.com/blog"
+},
+{
+"text": "email newsletter",
+"href": "https://www.benforward3.com/newsletter-archive/"
+},
+{
+"text": "graduate school in biology",
+"href": "https://www.extavourlab.com/people/ben-ewen-campen/"
+},
+{
+"text": "here",
+"href": "https://www.benforstaterepma.com/accomplishments"
+},
+{
+"text": "studied horned beetles",
+"href": "https://www.pnas.org/doi/10.1073/pnas.0701209104"
+},
+{
+"text": "studying birds in Alaska",
+"href": "https://www.tandfonline.com/doi/abs/10.1676/09-153.1"
+},
+{
+"text": "this has been my focus since being elected",
+"href": "https://www.benforward3.com/accomplishments"
+}
 ]

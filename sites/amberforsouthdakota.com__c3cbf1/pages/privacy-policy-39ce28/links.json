@@ -1,6 +1,22 @@
 [
-"https://amberforsouthdakota.com/",
-"https://amberforsouthdakota.com/cart",
-"https://amberforsouthdakota.com/privacy-policy",
-"https://secure.winred.com/amber-for-south-dakota/donate-today"
+{
+"text": "0",
+"href": "https://www.amberforsouthdakota.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/amber-for-south-dakota/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.amberforsouthdakota.com/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.amberforsouthdakota.com/privacy-policy"
+},
+{
+"text": "[image: Senator Amber Hulse]",
+"href": "https://www.amberforsouthdakota.com/"
+}
 ]

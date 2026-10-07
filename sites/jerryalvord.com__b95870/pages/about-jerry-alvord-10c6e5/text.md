@@ -1,5 +1,4 @@
-ABOUT JERRY ALVORD
-Generations of Alvord’s family have lived in Oklahoma, but during the dustbowl era, his maternal grandmother’s family found a need to move west for survival.
+top of page Home About Jerry Alvord Endorsements News Platform Contact DONATE ABOUT JERRY ALVORD Generations of Alvord’s family have lived in Oklahoma, but during the dustbowl era, his maternal grandmother’s family found a need to move west for survival.
 No matter where they lived, Jerry and his family carried their Oklahoma values, hard work, and honest dealings with them, and Jerry was glad to return to the roots that had been foundational to his principles and impacted his world view.
 Jerry Alvord and his wife Shelly entered public service after building successful careers as independent owners creating businesses from the ground up, including a flourishing cow/calf operation on their Carter County ranch.
 In decades of building relationships in Southern Oklahoma, Jerry and Shelly Alvord treasure the beauty of the land, but more importantly realized the state’s most precious resource is its people.
@@ -17,3 +16,5 @@ Alvord serves on the State Board of Directors for the Association of County Comm
 In addition, he is a NRA certified handgun instructor, member of Oklahoma Second Amendment Association, a member of the Noble Foundation, Oklahoma Cattleman’s Association and Oklahoma Farm Bureau.
 Alvord is also a proud graduate of Leadership Ardmore and Leadership Oklahoma, as well as a presenter for the Oklahoma Hall of Fame induction ceremonies.
 He and his wife are active members of Crosspoint Fellowship Church, where he also serves as an Elder and financial counselor.
+Home About Jerry Alvord Endorsements News Platform Contact More Use tab to navigate through the menu items.
+Authorized & Paid for by Friends of Jerry Alvord for State Senate 2022 POB 522, Lone Grove, OK 73443 bottom of page

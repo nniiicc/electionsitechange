@@ -1,18 +1,86 @@
 [
-"https://facebook.com/odonnell4judge",
-"https://instagram.com/elect_odonnell_for_justice",
-"https://lead-capture-form-57e73f.zapier.app/",
-"https://linkedin.com/in/sean-p-o%E2%80%99donnell-418a20b",
-"https://odonnellforjustice.com/",
-"https://odonnellforjustice.com/about",
-"https://odonnellforjustice.com/accessibility-statement",
-"https://odonnellforjustice.com/campaigncodeofconduct",
-"https://odonnellforjustice.com/endorsements",
-"https://odonnellforjustice.com/privacy-policy",
-"https://odonnellforjustice.com/terms-and-conditions",
-"https://secure.anedot.com/odonnell-for-justice/websitegeneral",
-"https://tiktok.com/@judge.odonnell",
-"https://wix.com/",
-"https://x.com/odonnell4judge",
-"https://youtube.com/@ODonnellForJustice"
+{
+"text": "ABOUT",
+"href": "https://www.odonnellforjustice.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.odonnellforjustice.com/accessibility-statement"
+},
+{
+"text": "Campaign Code of Conduct",
+"href": "https://www.odonnellforjustice.com/campaigncodeofconduct"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/odonnell-for-justice/websitegeneral"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.odonnellforjustice.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://lead-capture-form-57e73f.zapier.app/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.odonnellforjustice.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.odonnellforjustice.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/odonnell4judge"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/elect_odonnell_for_justice/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/sean-p-o%E2%80%99donnell-418a20b/"
+},
+{
+"text": "[image: ODonnell-Logo-FullColor-RGB.png]",
+"href": "https://www.odonnellforjustice.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@judge.odonnell"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/odonnell4judge"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@ODonnellForJustice"
+},
+{
+"text": "[image]",
+"href": "https://www.odonnellforjustice.com"
+},
+{
+"text": "campaign@odonnellforjustice.com",
+"href": "mailto:campaign@odonnellforjustice.com"
+},
+{
+"text": "here",
+"href": "https://www.odonnellforjustice.com/privacy-policy"
+},
+{
+"text": "here",
+"href": "https://www.odonnellforjustice.com/terms-and-conditions"
+},
+{
+"text": "odonnellforjustice@gmail.com",
+"href": "mailto:odonnellforjustice@gmail.com"
+}
 ]

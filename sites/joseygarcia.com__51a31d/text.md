@@ -1,24 +1,15 @@
-As the only woman veteran serving in the Texas Legislature, I’ve spent the last two sessions fighting for what matters most—justice, support for our veterans, working families, and every Texan who’s been overlooked or left behind.
-Together, we’ve passed meaningful legislation, secured vital resources for our communities, and stood strong in defense of our fundamental rights.
-But there’s still more work to do—and I’m not done fighting.
-- Josey Garcia
-2026 Elections Information
-How To Early Vote
-Early Voting in Bexar County.
+top of page ​ As the only woman veteran serving in the Texas Legislature, I’ve spent the last two sessions fighting for what matters most—justice, support for our veterans, working families, and every Texan who’s been overlooked or left behind. ​ Together, we’ve passed meaningful legislation, secured vital resources for our communities, and stood strong in defense of our fundamental rights. ​ But there’s still more work to do—and I’m not done fighting. ​ - Josey Garcia LEARN MORE SUPPORT REP.
+GARCIA $5 $25 $50 $ OTHER 2026 Elections Information How To Early Vote Early Voting in Bexar County.
 Any registered voter in Bexar County can vote early — no excuse needed.
 Vote at any early voting location in the county during the early voting period.
 Bring a valid photo ID (Texas ID, driver license, passport, or military ID).
 Voters without photo ID may complete a Reasonable Impediment Declaration.
-2026 Texas House Election Dates
-Primary Election
-- Election Day: March 3, 2026
-- Early Voting: Feb. 17 – Feb. 27, 2026
-- Voter Registration Deadline: Feb. 2, 2026
-Primary Runoff (if needed)
-- Election Day: May 26, 2026
-- Early Voting: May 18 – May 22, 2026
-General Election
-- Election Day: Nov. 3, 2026
-- Early Voting: Oct. 19 – Oct. 30, 2026
-- Voter Registration Deadline: Oct. 5, 2026
-- These dates apply to all Texas House races, including House District 124.
+Click Here To Find Your Polling Place 2026 Texas House Election Dates Primary Election Election Day: March 3, 2026 Early Voting: Feb.
+17 – Feb.
+27, 2026 Voter Registration Deadline: Feb.
+2, 2026 Primary Runoff (if needed) Election Day: May 26, 2026 Early Voting: May 18 – May 22, 2026 General Election Election Day: Nov.
+3, 2026 Early Voting: Oct.
+19 – Oct.
+30, 2026 Voter Registration Deadline: Oct.
+5, 2026 These dates apply to all Texas House races, including House District 124.
+Pol Ad Paid For By Josey Garcia For Texas House District 124 Photos in military uniform represents service only, it is not an endorsement from the Armed Services. ​ Contact Webmaster Design by RV3 Strategies bottom of page

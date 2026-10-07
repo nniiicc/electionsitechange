@@ -1,6 +1,7 @@
-PRESS RELEASE
-Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes
-HOBE SOUND, FL — Following American air strikes on Iranian soil, James Martin releases a statement on Trump’s air strikes.
+Skip navigation menu MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate PRESS RELEASE James Martin Campaign Responds to Brian Mast Discouraging Debates PRESS RELEASE Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes PRESS RELEASE James Martin for Congress Unveils Anti-Corruption Policy Platform, “Ending Insider Privilege” PRESS RELEASE Veterans for Responsible Leadership Endorses James Martin for Congress PRESS RELEASE Martin Earns Local Endorsements from Community Leaders PRESS RELEASE ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom PRESS RELEASE James Martin Calls On Rep.
+Mast, House Foreign Affairs Committee Chair, to Launch Formal Investigation Into Hegseth’s Illegal Airstrikes on Venezuelan Vessels PRESS RELEASE Coast Guard Veteran James Martin Raises Over $150K in First 24 hours PRESS RELEASE Coast Guard Veteran James Martin Announces Run for Florida’s 21st Congressional District PRESS RELEASE Coast Guard Veteran James Martin Endorsed by Vice President Kamala D.
+Harris in Race for Congress NEWS ARTICLE The Palm Beach Post Endorses James Martin PRESS RELEASE James Martin Launches Town Hall Series Across the District PRESS RELEASE James Martin Surges Ahead in Poll Against MAGA Rep.
+Brian Mast Feb 28 2026 PRESS RELEASE Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes HOBE SOUND, FL — Following American air strikes on Iranian soil, James Martin releases a statement on Trump’s air strikes.
 Martin served as second in command of CGC Monomoy, forward deployed to the Arabian Gulf from 2017-2018.
 “I believe the Iranian regime is evil.
 I stand with the Iranian people, support Israel’s security, and deeply respect our servicemembers.
@@ -8,5 +9,7 @@ But none of that requires silence in the face of what looks like a reckless rush
 “From my time serving in the Middle East and at the White House, I know there are hard-nosed ways to confront Iran without sending American kids into harm’s way: enforce sanctions, isolate the regime globally, support Iran’s democracy movement, and apply sustained pressure.
 Instead, this Administration appears to have engaged the U.S. military in strikes to herald regime change with no Congressional authorization, no clear mission, and no exit plan.
 That’s not strength, that’s recklessness.
-Our troops and the American people deserve better.”
-# # #
+Our troops and the American people deserve better.” # # # If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
+Commander in the United States Coast Guard Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

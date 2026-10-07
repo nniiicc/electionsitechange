@@ -1,12 +1,4 @@
-Back to All Events
-We will be hosting group phone banks every Sunday at 1 pm through election day!
-We will meet virtually each week, where we will go over our script, how to log calls, and everything else you might need!
-*Join us Oct 12th with Pro-Choice WA!
+0 Skip to Content Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Back to All Events Get Out The Vote Phone Banking Sunday, October 12, 2025 1:00 PM Sunday, November 2, 2025 1:00 PM Google Calendar ICS We will be hosting group phone banks every Sunday at 1 pm through election day!
+We will meet virtually each week, where we will go over our script, how to log calls, and everything else you might need! *Join us Oct 12th with Pro-Choice WA!
 To access our Google Meet Link, please email Zach@Debkforsenate.com!
-Previous
-Previous
-September 16
-Fall Doorbelling Schedule
-Next
-Next
-October 18
+Previous Previous September 16 Fall Doorbelling Schedule Next Next October 18 Get out the vote Doorbelling Kickoff DONATE ENDORSEMENTS ENDORSE DEB Paid for by Deb K for Senate (D) | 11010 Harbor Hill Dr Ste B 277, Gig Harbor, WA, 98332

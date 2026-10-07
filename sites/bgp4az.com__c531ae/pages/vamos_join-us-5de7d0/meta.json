@@ -1,7 +1,9 @@
 {
  "description": "Join Bernadette's campaign as a volunteer. Help connect with voters, support events, and make a difference across Arizona's 8th District.",
  "final_url": "https://bgp4az.com/vamos/join-us/",
- "paid_for_by": null,
+ "fingerprint": "7cd50aedaca10ce63c896fbd422643909fa85c22",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer with Bernadette | Join the Campaign",
  "years_mentioned": []
 }

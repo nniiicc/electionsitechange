@@ -1,5 +1,4 @@
-David Shallenberger Shares Your Cares and is ready to work for our community
-My family and I are excited to announce that I am running for the Utah House of Representatives for District 58.
+0 Skip to Content Dave Shallenberger Utah House 58 Home Convention About David Issues Get Involved Open Menu Close Menu Dave Shallenberger Utah House 58 Home Convention About David Issues Get Involved Open Menu Close Menu Home Convention About David Issues Get Involved David Shallenberger Shares Your Cares and is ready to work for our community My family and I are excited to announce that I am running for the Utah House of Representatives for District 58.
 I love this community and am ready to work tirelessly to protect it.
 We’re local—born and raised.
 I recognize that my first responsibility is to my wife and kids.
@@ -18,3 +17,5 @@ Our family loves spending time together and being involved in community sports a
 I am a local Precinct Chair, a Utah Republican State and County Delegate, participate, and volunteer with the Utah County Republican Party.
 As a conservative, I believe in individual choice and voice.
 I will listen and connect with the people I serve.
+I love our community and my experience and skills uniquely qualify me to help advocate for what we care about most.
+Shallenberger Shares Your Cares About Contact Follow on Facebook david4utah@gmail.com 801-472-6510

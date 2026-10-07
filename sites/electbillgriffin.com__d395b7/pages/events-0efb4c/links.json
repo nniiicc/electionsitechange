@@ -1,24 +1,118 @@
 [
-"http://facebook.com/ElectBillGriffin",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beef+%26+Beer+Fundraiser&dates=20260730T010000Z%2F20260730T040000Z&location=6900+State+Road%2C+Philadelphia%2C+Pennsylvania%2C+19135%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Bowling+Fundraiser+Night&dates=20260510T020000Z%2F20260510T040000Z&location=3075+Holme+Avenue%2C+Philadelphia%2C+PA%2C+19136%2C+United+States",
-"http://maps.google.com/?q=3075+Holme+Avenue+Philadelphia%2C+PA%2C+19136+United+States",
-"http://maps.google.com/?q=6900+State+Road+Philadelphia%2C+Pennsylvania%2C+19135+United+States",
-"http://twitter.com/ElectBGriffin",
-"https://electbillgriffin.com/",
-"https://electbillgriffin.com/about",
-"https://electbillgriffin.com/cart",
-"https://electbillgriffin.com/contact",
-"https://electbillgriffin.com/events",
-"https://electbillgriffin.com/events/beef-beer-fundraiser-2026",
-"https://electbillgriffin.com/events/beef-beer-fundraiser-2026?format=ical",
-"https://electbillgriffin.com/events/bowling-fundraiser-night",
-"https://electbillgriffin.com/events/bowling-fundraiser-night?format=ical",
-"https://electbillgriffin.com/issues",
-"https://electbillgriffin.com/media",
-"https://electbillgriffin.com/press-releases",
-"https://electbillgriffin.com/privacy-policy",
-"https://google.com/maps/search/8629+Yale+Place+%7C+Philadelphia,+PA+19136?entry=gmail",
-"https://instagram.com/ElectBillGriffin",
-"https://secure.anedot.com/bill-griffin-for-state-representative/billgriffinforstaterep"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3075+holme+avenue+philadelphia%2C+pa%2C+19136+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6900+state+road+philadelphia%2C+pennsylvania%2C+19135+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electbillgriffin.com/cart"
+},
+{
+"text": "8629 Yale Place | Philadelphia, PA 19136",
+"href": "https://www.google.com/maps/search/8629+Yale+Place+%7C+Philadelphia,+PA+19136?entry=gmail"
+},
+{
+"text": "ABOUT",
+"href": "https://www.electbillgriffin.com/about"
+},
+{
+"text": "Beef & Beer Fundraiser",
+"href": "https://www.electbillgriffin.com/events/beef-beer-fundraiser-2026"
+},
+{
+"text": "Bowling Fundraiser Night",
+"href": "https://www.electbillgriffin.com/events/bowling-fundraiser-night"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electbillgriffin.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bill-griffin-for-state-representative/billgriffinforstaterep"
+},
+{
+"text": "EVENTS",
+"href": "https://www.electbillgriffin.com/events"
+},
+{
+"text": "ElectBillGriffin@gmail.com",
+"href": "mailto:ElectBillGriffin@gmail.com"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beef+%26+Beer+Fundraiser&dates=20260730T010000Z%2F20260730T040000Z&location=6900+State+Road%2C+Philadelphia%2C+Pennsylvania%2C+19135%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bowling+Fundraiser+Night&dates=20260510T020000Z%2F20260510T040000Z&location=3075+Holme+Avenue%2C+Philadelphia%2C+PA%2C+19136%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.electbillgriffin.com/events/beef-beer-fundraiser-2026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbillgriffin.com/events/bowling-fundraiser-night?format=ical"
+},
+{
+"text": "MEDIA",
+"href": "https://www.electbillgriffin.com/media"
+},
+{
+"text": "MEET BILL",
+"href": "https://www.electbillgriffin.com/about"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.electbillgriffin.com/press-releases"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.electbillgriffin.com/privacy-policy"
+},
+{
+"text": "Support Bill for State Representative",
+"href": "https://secure.anedot.com/bill-griffin-for-state-representative/billgriffinforstaterep"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.electbillgriffin.com/issues"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbillgriffin.com/events/beef-beer-fundraiser-2026"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbillgriffin.com/events/bowling-fundraiser-night"
+},
+{
+"text": "[image: Beef & Beer Fundraiser]",
+"href": "https://www.electbillgriffin.com/events/beef-beer-fundraiser-2026"
+},
+{
+"text": "[image: Bill Griffin]",
+"href": "https://www.electbillgriffin.com/"
+},
+{
+"text": "[image: Bowling Fundraiser Night]",
+"href": "https://www.electbillgriffin.com/events/bowling-fundraiser-night"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ElectBillGriffin"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/ElectBGriffin"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ElectBillGriffin"
+}
 ]

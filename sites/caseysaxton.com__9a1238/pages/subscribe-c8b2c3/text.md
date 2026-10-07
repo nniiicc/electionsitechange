@@ -1,6 +1,3 @@
-top of page
-Sign Up for Email Updates
-Sign up for updates from Casey Saxton to receive policy surveys, campaign news, town hall invitations, special event invitations, and voting reminders right in your inbox.
-*If elected, I will also email you official legislative updates and news to keep you in the loop.
+top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES UPDATES GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Sign Up for Email Updates Sign up for updates from Casey Saxton to receive policy surveys, campaign news, town hall invitations, special event invitations, and voting reminders right in your inbox. *If elected, I will also email you official legislative updates and news to keep you in the loop.
 You can unsubscribe at any time.
-bottom of page
+Sign Up Here 801-613-0327 caseysaxtonut@gmail.com Copyright © Casey Saxton for State House DONATE Paid for by Casey Saxton for State House PO Box 18264 Kearns, Utah 84118 ​ bottom of page

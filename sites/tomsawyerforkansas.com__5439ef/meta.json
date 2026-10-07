@@ -1,7 +1,17 @@
 {
  "description": "Information about Kansas State Representative Tom Sawyer including voting record",
  "final_url": "https://www.tomsawyerforkansas.com/",
+ "fingerprint": "0de86f3e582ce625ddea14af8ea13e1ad10b8172",
+ "format": 3,
  "paid_for_by": "Paid for by Sawyer for Representative, Tom Sawyer, Treasurer Powered by Webador",
  "title": "Home State Representative Tom Sawyer",
- "years_mentioned": []
+ "years_mentioned": [
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

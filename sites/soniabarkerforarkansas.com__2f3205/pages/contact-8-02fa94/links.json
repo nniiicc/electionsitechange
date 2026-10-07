@@ -1,8 +1,26 @@
 [
-"https://facebook.com/soniaforstaterep",
-"https://soniabarkerforarkansas.com/",
-"https://soniabarkerforarkansas.com/about",
-"https://soniabarkerforarkansas.com/contact",
-"https://soniabarkerforarkansas.com/contact-8",
-"https://soniabarkerforarkansas.com/privacy-policy"
+{
+"text": "ABOUT",
+"href": "https://www.soniabarkerforarkansas.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.soniabarkerforarkansas.com/contact"
+},
+{
+"text": "HOME",
+"href": "https://www.soniabarkerforarkansas.com"
+},
+{
+"text": "Join The Team!",
+"href": "https://www.soniabarkerforarkansas.com/contact-8"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.soniabarkerforarkansas.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/soniaforstaterep"
+}
 ]

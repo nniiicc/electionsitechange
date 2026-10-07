@@ -1,7 +1,9 @@
 {
  "description": "Explore Mary Beth Walsh&#39;s stance on education reform, energy choice, and support for middle-class families in New York Assembly.",
  "final_url": "https://marybeth4ny.com/my-stance",
- "paid_for_by": null,
+ "fingerprint": "332a2661381287bf11eba03d6de94ddf7f21408d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MY STANCE",
  "years_mentioned": [
   "2016",
@@ -10,6 +12,7 @@
   "2020",
   "2021",
   "2022",
-  "2023"
+  "2023",
+  "2026"
  ]
 }

@@ -1,11 +1,50 @@
 [
-"http://facebook.com/LJHollowayforCongress",
-"http://instagram.com/lj4congress",
-"http://twitter.com/lj4congress",
-"https://hollowayforcongress.com/",
-"https://hollowayforcongress.com/about-lj",
-"https://hollowayforcongress.com/cart",
-"https://hollowayforcongress.com/media",
-"https://hollowayforcongress.com/platform",
-"https://secure.actblue.com/donate/holloway4congress"
+{
+"text": "0",
+"href": "https://www.hollowayforcongress.com/cart"
+},
+{
+"text": "About L.J.",
+"href": "https://www.hollowayforcongress.com/about-lj"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/holloway4congress"
+},
+{
+"text": "Learn More",
+"href": "https://www.hollowayforcongress.com/platform"
+},
+{
+"text": "Media",
+"href": "https://www.hollowayforcongress.com/media"
+},
+{
+"text": "Platform",
+"href": "https://www.hollowayforcongress.com/platform"
+},
+{
+"text": "Read More",
+"href": "https://www.hollowayforcongress.com/about-lj"
+},
+{
+"text": "View Full Bio",
+"href": "https://www.hollowayforcongress.com/about-lj"
+},
+{
+"text": "[image: Holloway for Congress]",
+"href": "https://www.hollowayforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/LJHollowayforCongress"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lj4congress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lj4congress"
+}
 ]

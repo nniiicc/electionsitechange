@@ -1,9 +1,19 @@
-Donate NowHomeMeet UsReviewsFAQ
-I agree to be contacted by Marisa for Minnesota.
-To opt out, click the unsubscribe link in the emails.
-Best Farmers Markets in Rice, Washington, and Anoka Counties for Fresh Minnesota Produce
-Join us & receive email updates.
-Marisa for Minnesota US Senate
-Lot #7060 PO BOX 17370 Saint Paul, MN 55117
-RECOMMENDED BY
-Donate Now
+Donate Now Home Meet Us Reviews FAQ Join us & receive email updates.
+Marisa for Minnesota US Senate Join Us I agree to be contacted by Marisa for Minnesota.
+To opt out, click the unsubscribe link in the emails. marisa4minnesota@marisasimonetti.com © # Prepared and paid for by Marisa for Minnesota Lot #7060 PO BOX 17370 Saint Paul, MN 55117 RECOMMENDED BY John Bristol for State Representative Tad Jude for US Congress Pam Altendorf House of Representatives 20A Steven Jacob House of Representatives 20B Senator Karin Housely Donate Now Dennis Walsh, Mayor of Orono ≡ :::: Tap to close menu Home News Blog Housing & Homeownership in Minnesota Minnesota Eats & Local Food Culture Things to Do in Minnesota Best Farmers Markets in Rice, Washington, and Anoka Counties for Fresh Minnesota Produce Nothing says summer in Minnesota like a morning stroll through a farmers market.
+The colors, the smells, and the fresh-picked flavor of locally grown produce make these weekly gatherings a highlight of the season.
+Whether you're looking for heirloom tomatoes, handmade soaps, or just the best local honey money can buy, these farmers markets in Rice, Washington, and Anoka Counties deliver the goods — and then some. 🍓 1.
+Faribault Farmers Market — Rice County 📍 Location: Central Avenue & 2nd Street NW 📅 Season: Saturdays, May to October 🕒 Time: 7 AM to noon This long-running community market features: •Fresh eggs, dairy, and produce from local family farms •Homemade jams, breads, and garden plants •Live music on select Saturdays 💡 Faribault Tip: Bring cash — many vendors don’t take cards.
+Whether you’re a local or preparing to sell your house in Faribault MN, this market is a great way to connect with neighbors and support local agriculture. 🍅 2.
+Stillwater Farmers Market — Washington County 📍 Location: Washington County Fairgrounds 📅 Season: Saturdays, June to October 🕒 Time: 7:30 AM to noon Just outside the historic river town of Stillwater, this market brings together: •Artisan cheeses and baked goods •Cut flowers and handmade crafts •Minnesota-grown sweet corn, peppers, and berries 🌻 What makes it special: The fairground setting provides easy parking and room to explore.
+Buyers looking in Washington County love the balance of rural charm and culinary culture.
+If you're considering a move, the market atmosphere speaks volumes about the community. 🥬 3.
+Anoka County Growers' Market — Anoka County 📍 Location: Lyric Arts Parking Lot, Downtown Anoka 📅 Season: Saturdays and Wednesdays, June to October 🕒 Time: 9 AM to 1 PM This is one of the oldest producer-only markets in the state, meaning: •All items are grown or made by the person selling them •No re-sellers, no middlemen — just pure local flavor Expect everything from pasture-raised meat to rhubarb preserves, plus the occasional food truck serving breakfast sandwiches. 🥚 Local Bonus: Vendors offer CSA signups and bulk-buy options for freezing or canning. 🧺 Why Farmers Markets Matter for Local Real Estate Buyers in Anoka, Washington, and Rice Counties are increasingly drawn to walkable communities with real lifestyle perks — like access to fresh food and vibrant town centers.
+If you’re thinking of listing your home this summer, use local markets as a highlight in your real estate listing.
+A Saturday stroll to fresh eggs and strawberries?
+That’s not just shopping — it’s a lifestyle.
+And if you’re choosing between updating the kitchen or selling as-is, showing that your neighborhood has local produce on tap can help balance the scales. 🥕 Farmers Market Shopping Tips •Bring reusable bags (and maybe a cooler for meats and dairy) •Ask about growing methods if organic produce is important to you •Go early for the best selection, or late for discounts •Talk to the farmers — they love sharing recipe tips 🌽 Final Thoughts: Eat Fresh, Live Local Farmers markets are more than produce stands — they’re where Minnesota communities come to life.
+Whether you're in Faribault, Stillwater, or Anoka, supporting local food systems keeps your neighborhood strong and your kitchen stocked.
+For homeowners or future sellers, proximity to vibrant local markets is a feature that helps buyers fall in love with more than just the house. 👤 About the Author Marisa Simonetti is a Minnesota-based housing advocate, real estate investor, and 2026 candidate for U.S.
+Senate in Minnesota .
+She writes about affordable housing, home repairs, and sustainable homeownership in counties like Dakota, Scott, Ramsey, and beyond.

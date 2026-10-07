@@ -1,7 +1,11 @@
 {
  "description": "View who has endorsed Katrina Pierson for Texas House District 33",
  "final_url": "https://katrinafortexas.com/endorsements/",
- "paid_for_by": "Paid for by Katrina Pierson Campaign \u00a9 KATRINA PIERSON FOR TEXAS HOUSE DISTRICT 33 2026 | ALL RIGHTS RESERVED Privacy Policy",
+ "fingerprint": "5cfe1abde347a6476a9037cd9bd0cb797ffa0df9",
+ "format": 3,
+ "paid_for_by": "Paid for by Katrina Pierson Campaign © KATRINA PIERSON FOR TEXAS HOUSE DISTRICT 33 2026",
  "title": "Endorsements | Katrina Pierson for Texas House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

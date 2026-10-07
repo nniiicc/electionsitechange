@@ -1,5 +1,4 @@
-Rolling Toward Victory
-My campaign has Momentum.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Rolling Toward Victory Aug 29 Written By Elle Casner My campaign has Momentum.
 I see it when people stop me on the street to give me a thumbs, saying, “Truth matters.” I feel it when I speak to crowds that continue to grow.
 In August alone, my social media had over 1.25 MILLION views (accomplished with almost no spending except for a few small boosts).
 As my prospects brighten, Brad Little’s future fades like a late autumn evening.
@@ -9,7 +8,7 @@ And Mr.
 Little has shown us plenty.
 He has glued himself to a president whose Idaho popularity just dove south of 50%.
 Even so, Mr.
-Little still lacks enough gumption to pipe up when Trump proposes importing low cost beef to drive down prices–to drive down Idaho cattle prices.
+Little still lacks enough gumption to pipe up when Trump proposes importing low cost beef to drive down prices– to drive down Idaho cattle prices.
 Ag folks know a bad deal when they see one.
 (Nearly 3,000 folks reacted positively to my post taking Little to task for ditching his fellow ranchers).
 As for me, I am working to show people who I really am.
@@ -25,7 +24,7 @@ That won’t happen on my watch.
 I will continue the honorable tradition of Republican and Democratic IDAHO governors who won’t let the federal government roll over us.
 With Election Day around the bend, it’s time to ramp up.
 I’ve been killing it on social media and in the field with a small devoted staff.
-But I’ll need to raise money to kick it into high gear:
-Once you build momentum, you need to feed it plenty of fuel to make it unstoppable!
+But I’ll need to raise money to kick it into high gear: Once you build momentum, you need to feed it plenty of fuel to make it unstoppable!
 With your help, we have a shot at winning.
 Thanks so much.
+Donate Elle Casner Previous Previous Let’s Blame Brad Little for Record High Gas Prices Next Next Notes from the Campaign Trail TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

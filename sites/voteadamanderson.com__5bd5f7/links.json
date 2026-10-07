@@ -1,6 +1,42 @@
 [
-"https://facebook.com/VoteAdamAnderson",
-"https://secure.anedot.com/adam-anderson-campaign/donate",
-"https://voteadamanderson.com/",
-"https://voteadamanderson.com/privacy-policy"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/adam-anderson-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteadamanderson.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://voteadamanderson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteAdamAnderson"
+}
 ]

@@ -1,48 +1,230 @@
 [
-"https://bowenforcongress.com/",
-"https://bowenforcongress.com/about",
-"https://bowenforcongress.com/assets/img/pledge-receipts/anne-hansen-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/boyd-bingham-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/gage-froerer-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/gary-harter-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/jefferson-moss-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/jerry-stevenson-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/karl-mcmillan-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/lee-perry-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/mark-shepherd-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/mike-ostermiller-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/mike-schultz-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/spencer-cox-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/stephen-r-hadfield-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/stuart-adams-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-receipts/tyler-vincent-certified-mail-receipt.jpg",
-"https://bowenforcongress.com/assets/img/pledge-results/mark-shepherd-signed-public-trust-pledge-2026-07-14.jpg",
-"https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf",
-"https://bowenforcongress.com/assets/pdf/cbdc-programmable-money-network-research.pdf",
-"https://bowenforcongress.com/cards",
-"https://bowenforcongress.com/datacenter",
-"https://bowenforcongress.com/donate",
-"https://bowenforcongress.com/events",
-"https://bowenforcongress.com/issues",
-"https://bowenforcongress.com/media",
-"https://bowenforcongress.com/volunteer",
-"https://facebook.com/BowenForCongress",
-"https://instagram.com/BowenForCongress",
-"https://tiktok.com/@BowenForCongress",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710105",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710112",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710419",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710426",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710433",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710440",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710457",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710464",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710471",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710488",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710495",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710501",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710518",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710525",
-"https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710532",
-"https://x.com/Bowen4Congress"
+{
+"text": "About",
+"href": "https://bowenforcongress.com/about/"
+},
+{
+"text": "Data Center",
+"href": "https://bowenforcongress.com/datacenter/"
+},
+{
+"text": "Donate",
+"href": "https://bowenforcongress.com/donate/"
+},
+{
+"text": "Download accountability fact sheet",
+"href": "https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf"
+},
+{
+"text": "Download fact sheet",
+"href": "https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf"
+},
+{
+"text": "Download programmable-money research",
+"href": "https://bowenforcongress.com/assets/pdf/cbdc-programmable-money-network-research.pdf"
+},
+{
+"text": "Download the Research Memorandum",
+"href": "https://bowenforcongress.com/assets/pdf/cbdc-programmable-money-network-research.pdf"
+},
+{
+"text": "Download the fact sheet",
+"href": "https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf"
+},
+{
+"text": "Events",
+"href": "https://bowenforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/BowenForCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://bowenforcongress.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/BowenForCongress"
+},
+{
+"text": "Issues",
+"href": "https://bowenforcongress.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://bowenforcongress.com/volunteer/#join"
+},
+{
+"text": "Join the campaign",
+"href": "https://bowenforcongress.com/volunteer/#join"
+},
+{
+"text": "Media",
+"href": "https://bowenforcongress.com/media/"
+},
+{
+"text": "Media contact",
+"href": "https://bowenforcongress.com/media/"
+},
+{
+"text": "Read the Research",
+"href": "https://bowenforcongress.com/assets/pdf/cbdc-programmable-money-network-research.pdf"
+},
+{
+"text": "Read the fact sheet",
+"href": "https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf"
+},
+{
+"text": "Request cards",
+"href": "https://bowenforcongress.com/cards/"
+},
+{
+"text": "Support the campaign",
+"href": "https://bowenforcongress.com/donate/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@BowenForCongress"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7101 05",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710105"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7101 12",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710112"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 19",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710419"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 26",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710426"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 33",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710433"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 40",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710440"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 57",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710457"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 64",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710464"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 71",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710471"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 88",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710488"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7104 95",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710495"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7105 01",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710501"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7105 18",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710518"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7105 25",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710525"
+},
+{
+"text": "USPS tracking: 9589 0710 5270 4380 7105 32",
+"href": "https://tools.usps.com/go/TrackConfirmAction?tLabels=9589071052704380710532"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/anne-hansen-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/boyd-bingham-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/gage-froerer-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/gary-harter-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/jefferson-moss-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/jerry-stevenson-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/karl-mcmillan-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/lee-perry-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/mark-shepherd-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/mike-ostermiller-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/mike-schultz-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/spencer-cox-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/stephen-r-hadfield-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/stuart-adams-certified-mail-receipt.jpg"
+},
+{
+"text": "View certified-mail receipt",
+"href": "https://bowenforcongress.com/assets/img/pledge-receipts/tyler-vincent-certified-mail-receipt.jpg"
+},
+{
+"text": "View signed pledge",
+"href": "https://bowenforcongress.com/assets/img/pledge-results/mark-shepherd-signed-public-trust-pledge-2026-07-14.jpg"
+},
+{
+"text": "Volunteer",
+"href": "https://bowenforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://bowenforcongress.com/volunteer/#captain"
+},
+{
+"text": "X / Grok",
+"href": "https://x.com/Bowen4Congress"
+},
+{
+"text": "[image: Bowen for US Congress]Carlton Bowen for US CongressIndependent American Party • Northern Utah's new CD2",
+"href": "https://bowenforcongress.com/"
+}
 ]

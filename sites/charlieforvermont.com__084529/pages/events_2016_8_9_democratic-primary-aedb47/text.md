@@ -1,5 +1,1 @@
-Vote for Charlie Kimbell in the Democratic Primary
-Back to All Events
-Vote for Charlie Kimbell in the Democratic Primary
-Later Event: November 3
-General Election
+Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell - Vermont Rep Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Back to All Events Democratic Primary Tuesday, August 11, 2026 7:00 AM 7:00 PM 07:00 19:00 Google Calendar ICS Vote for Charlie Kimbell in the Democratic Primary Later Event: November 3 General Election DONATE Back to Top Charlie Kimbell - Vermont State Representative, Windsor-5 email: kbellvt@gmail.com phone: 802-296-1276

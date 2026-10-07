@@ -1,9 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61586488290267",
-"https://secure.winred.com/friends-of-george-dobbins/votegeorgedobbinsdonations",
-"https://votegeorgedobbins.com/",
-"https://votegeorgedobbins.com/about",
-"https://votegeorgedobbins.com/cart",
-"https://votegeorgedobbins.com/new-page",
-"https://votegeorgedobbins.com/on-the-issues"
+{
+"text": "0",
+"href": "https://www.votegeorgedobbins.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votegeorgedobbins.com/about"
+},
+{
+"text": "Click here to contribute",
+"href": "https://secure.winred.com/friends-of-george-dobbins/votegeorgedobbinsdonations"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586488290267"
+},
+{
+"text": "George Dobbins for Assembly- NYS District 130",
+"href": "https://www.votegeorgedobbins.com/"
+},
+{
+"text": "Home",
+"href": "https://www.votegeorgedobbins.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.votegeorgedobbins.com/on-the-issues"
+},
+{
+"text": "Terms of Service & Privacy Policy",
+"href": "https://www.votegeorgedobbins.com/new-page"
+}
 ]

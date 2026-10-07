@@ -1,4 +1,4 @@
-That’s more than a slogan—it’s the foundation of how I approach leadership.
+Skip to content HOME About The CandiDate Donate The Agenda for Change Website Privacy Policy Cookie Policy The Agenda for Change That’s more than a slogan—it’s the foundation of how I approach leadership.
 My positions on policy come from three main places: my own lived experiences and values, countless conversations with neighbors across our community, and careful research into what works and what doesn’t.
 I don’t believe in drawing hard lines on issues.
 Instead, I see policy as a framework we build together—through listening, learning, and finding common ground.
@@ -9,7 +9,13 @@ Nothing meaningful is built without collaboration.
 When it comes to the issues that matter—public education, election integrity, health care, senior care, disaster preparedness, civic engagement, taxes, term limits, minimum wage, and more—I don’t approach them as my agenda, but our agenda.
 These aren’t abstract policies; they are real challenges that affect families, workers, and communities across District 73.
 If elected, I won’t just represent my personal values in Raleigh.
-I’ll represent all of us.
+I’ll represent all of us .
 That means being open, transparent, and accountable.
 It means seeking input, weighing different perspectives, and working toward solutions that strengthen our community as a whole.
 Because progress doesn’t come from one person making decisions alone—it comes from us, together, building a North Carolina where everyone has the chance to thrive.
+Together: Not Me.
+Not You.
+US.
+EVENTS DONATE VOLUNTEER Cookie Policy Privacy Policy About Thomas Events Platform Register to Vote Events Platform Register to Vote Facebook Instagram TikTok Bluesky X YouTube Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.electdavidfabrikant.com/photos",
- "paid_for_by": null,
+ "fingerprint": "6a4db22a9669776066ab7c61e6e6384f67c0e635",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

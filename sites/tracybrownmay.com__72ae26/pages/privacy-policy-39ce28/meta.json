@@ -1,7 +1,11 @@
 {
- "description": "INFORMATION THAT IS GATHERED FROM VISITORS In common with other websites, log files are stored on the web server saving details such as the visitor\u2019s IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where registration is required,",
+ "description": "INFORMATION THAT IS GATHERED FROM VISITORS In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where registration is required,",
  "final_url": "https://tracybrownmay.com/privacy-policy/",
- "paid_for_by": null,
- "title": "Privacy Policy \u2013 Tracy Brown-May",
- "years_mentioned": []
+ "fingerprint": "80326b35e2840e63d2299220ff5e829b93b519b7",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Tracy Brown May",
+ "title": "Privacy Policy – Tracy Brown-May",
+ "years_mentioned": [
+  "2024"
+ ]
 }

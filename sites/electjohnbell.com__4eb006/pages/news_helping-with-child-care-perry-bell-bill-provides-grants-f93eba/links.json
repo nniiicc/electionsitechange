@@ -1,14 +1,62 @@
 [
-"https://electjohnbell.com/",
-"https://electjohnbell.com/about",
-"https://electjohnbell.com/donate",
-"https://electjohnbell.com/gallery",
-"https://electjohnbell.com/issues",
-"https://electjohnbell.com/join",
-"https://electjohnbell.com/news",
-"https://facebook.com/john.bell.nchouse10",
-"https://instagram.com/johnbellnc",
-"https://newsargus.com/news/26186/helping-with-child-care-perry-bell-bill-provides-grants",
-"https://twitter.com/JohnBellNC",
-"https://youtube.com/channel/UC6vnVjrxxdyxsr0RhZ4SSkA"
+{
+"text": "ABOUT",
+"href": "https://www.electjohnbell.com/about"
+},
+{
+"text": "Back to News",
+"href": "https://www.electjohnbell.com/news"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.electjohnbell.com/donate"
+},
+{
+"text": "GAllery",
+"href": "https://www.electjohnbell.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.electjohnbell.com/"
+},
+{
+"text": "Join",
+"href": "https://www.electjohnbell.com/join"
+},
+{
+"text": "Link",
+"href": "https://newsargus.com/news/26186/helping-with-child-care-perry-bell-bill-provides-grants/"
+},
+{
+"text": "NEWS",
+"href": "https://www.electjohnbell.com/news"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/JohnBellNC"
+},
+{
+"text": "[image]",
+"href": "https://www.electjohnbell.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/john.bell.nchouse10/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/johnbellnc/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UC6vnVjrxxdyxsr0RhZ4SSkA/"
+},
+{
+"text": "john@electjohnbell.com",
+"href": "mailto:john@electjohnbell.com"
+},
+{
+"text": "priorities",
+"href": "https://www.electjohnbell.com/issues"
+}
 ]

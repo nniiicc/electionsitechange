@@ -1,10 +1,11 @@
 {
  "description": "Contact Us for updates and announcements from Tony Sabio, candidate for the VA 8th Congressional District.",
  "final_url": "https://sabioforcongress.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "cfe3340779e960da3d81ffbe2366541fb4942fbd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact Us - Subscribe to Updates from Tony Sabio",
  "years_mentioned": [
-  "2011",
-  "2025"
+  "2011"
  ]
 }

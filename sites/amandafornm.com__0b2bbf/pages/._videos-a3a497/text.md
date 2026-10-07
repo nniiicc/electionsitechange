@@ -1,12 +1,5 @@
-- Videos
-Campaign Updates
-Videos
-- KRWG
-Doña Ana County Clerk Amanda López Askin Discusses Reelection, Public Service
-Click to read Doña Ana County Clerk Amanda López Askin Discusses Reelection, Public Service
-- KRWG
-Dr.
-Amanda Lopez Askin Doña Ana County Clerk
-Click to read Dr.
-Amanda Lopez Askin Doña Ana County Clerk
-- KRWG
+Skip to content Chip in $5 right now to join the fight for our future  Amanda for New Mexico About Media News Press Releases Videos Take Action Contribute Connect on Facebook Connect on Instagram Connect on Bluesky Campaign Updates Videos Filter — Please choose an option — News Press Releases Videos Videos Ad: “Pass the Torch” May 11, 2026 Click to read Ad: “Pass the Torch” KRWG Doña Ana County Clerk Amanda López Askin Discusses Reelection, Public Service December 19, 2024 Click to read Doña Ana County Clerk Amanda López Askin Discusses Reelection, Public Service KRWG Dr.
+Amanda Lopez Askin Doña Ana County Clerk June 21, 2022 Click to read Dr.
+Amanda Lopez Askin Doña Ana County Clerk KRWG Voting and Elections; Doña Ana County Clerk Amanda López Askin October 19, 2021 Click to read Voting and Elections; Doña Ana County Clerk Amanda López Askin Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
+Contribute Chip in today This campaign is funded by people like you. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Amanda for New Mexico Connect on Facebook Connect on Instagram Connect on Bluesky About Media Take Action Contribute Paid for and Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact

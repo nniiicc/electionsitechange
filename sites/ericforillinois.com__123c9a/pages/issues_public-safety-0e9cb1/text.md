@@ -1,6 +1,6 @@
-I believe in
-Supporting Public Safety and Law Enforcement
-Out here, we support our law enforcement, because we know that police officers have tough jobs and often work on strained budgets to keep our communities safe.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate Creating Jobs and Lowering Costs for Illinois Protecting Reproductive Rights Supporting Public Safety and Law Enforcement LGBTQ+ Advocacy Supporting Veterans Strengthening Local Infrastructure Supporting Seniors and Social Security Cutting the Cost of Healthcare/Prescription Drugs Making Government Work for Illinois I believe in Supporting Public Safety and Law Enforcement Out here, we support our law enforcement , because we know that police officers have tough jobs and often work on strained budgets to keep our communities safe.
 That’s why I’ve led the effort in Congress to deliver millions to local police departments in Central and Northwestern Illinois.
 Working across the aisle, I secured $847,000 funding for equipment and construction of a new police training center in Winnebago County to benefit officers in our region.
 And to stop the flow of deadly drugs like fentanyl, I introduced bipartisan legislation to increase funding for fentanyl screening at the border and resources for local, state, and federal law enforcement agencies to go after traffickers.
+Eric Sorensen for Illinois P.O.
+Box 1172 Moline, IL 61265 ​ info@ericforillinois.com Privacy Policy Powered by RUN! website builder Paid for by Eric Sorensen for Illinois You need to enable JavaScript to run this app.

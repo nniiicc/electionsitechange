@@ -1,10 +1,2 @@
-Make an
-impact today
-Support Representative Matt MacPherson for UT State House by contributing a donation.
-Additional Ways to Give
-If you prefer mailing a check, please send it to:
-Matt MacPherson Campaign
-2943 S Sefton Drive,
-West Valley City, UT 84120
-Made out to: Campaign to Elect Matt MacPherson
-If you prefer to send donations directly through Venmo, please use the following link:
+0 Skip to Content About Results Issues My Legislation 2026 General Session 2025 General Session 2024 General Session In the News My Endorsements Contact English Donate Open Menu Close Menu About Results Issues My Legislation 2026 General Session 2025 General Session 2024 General Session In the News My Endorsements Contact English Donate Open Menu Close Menu About Results Issues Folder: My Legislation Back 2026 General Session 2025 General Session 2024 General Session In the News My Endorsements Contact English Back Donate Make an impact #ago Support Representative Matt MacPherson for UT State House by contributing a donation.
+Click Here to Donate Additional Ways to Give If you prefer mailing a check, please send it to: Matt MacPherson Campaign 2943 S Sefton Drive, West Valley City, UT 84120 Made out to: Campaign to Elect Matt MacPherson If you prefer to send donations directly through Venmo, please use the following link: https://venmo.com/u/UtahVote4Matt Sign Up For News And Updates - Paid for by Matt MacPherson Campaign - Privacy Policy

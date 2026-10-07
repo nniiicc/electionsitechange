@@ -1,12 +1,19 @@
-NEWSROOM
-Examining the impact to idaho’s economy of doge firings and cuts in federal funding.
-Protecting our Right to Citizen Initiatives
-The Idaho Supreme Court has said that the Initiative is fundamental right.
+0 Skip to Content Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Folder: Volunteer Back Volunteer Newsletter Folder: Media Back Endorsements NEWS ARTICLES Interviews Newsroom Folder: Merch Back Supporter Merch Assert Your Independence Folder: ESPANOL Back Inicio Políticas Boletín Voluntariado Donate NEWSROOM Examining the impact to idaho’s economy of doge firings and cuts in federal funding.
+Idaho Universities US Geological Survey #1 US Geological Survey #2 Boise VA Medical Center US Forest Service A Message to new Forest Service Chief Schultz Boise IRS Office Judges Step In 3/13/25 Social Security in Idaho Social Security and the myth of 150 year-old recipients Boise VA Updates (3/23/25) I.R.S. new hires (3/23/25) I.R.S. cuts make it easier to cheat Reinstating Fired Workers VA RTO hurts veteran care (3/30/25) Deepest cuts at IRS (3/30/25) Attacks on public lands National Parks economic value BLM economic value Idaho Universities Boise State Public Radio massive cuts to national parks Pirates Of The Public Lands "Parking" up the Wrong Tree Pirates of Public Lands II Protecting our Right to Citizen Initiatives The Idaho Supreme Court has said that the Initiative is fundamental right.
 In House State Affairs committee, I worked with a bipartisan group to stop bill H85 that would have radically changed the entire process.
-Link to the hearing.
-Working for Affordable Housing
-Introducing my bill, H203 to prohibit algorithmic price fixing. 2/10/25
-Read my letter to Attorney General Labrador.
+Link to the hearing .
+Working for Affordable Housing Introducing my bill, H203 to prohibit algorithmic price fixing.
+2/10/25 Read my letter to Attorney General Labrador.
 We provide him with evidence of illegal collusion among landlords and ask that he join the DOJ and 8 other states to stop these bad practices that harm Idaho renters.
 Boise rents have increased 3 times faster than inflation since 2020.
-Many Idaho landlords are using algorithms to illegally raise rents. 10/12/24
+Many Idaho landlords are using algorithms to illegally raise rents.
+10/12/24 Dumpster Bills of the Week Idaho Legislature 2024-2026 School is back in session but the Legislature needs to do more to support Idaho students, teachers and schools.
+8/23/24 Arguing on the House floor to allow housing development to go forward on the old State Street ITD campus.
+3/22/24 Public Office Vacancies (H362) 3/11/25 HCR18 - Traditional Family Values 3/21/25 House floor debate on stopping monopolies.
+3/24/24 Defending Small Business 4/04/25 Education - HJR1 2/19/25 Albertsons-Kroger merger is bad for Idaho and needs to be stopped.
+9/19/24 Speaking out against Anti-Camping Legislation (S1141aa) 3/25/25 RS32450 -Firefighters Collective Bargaining 2/25/25 My closing comments against H98, an anti-teachers union bill from out-of-state dark money groups.
+2/10/25 My floor debate against HJM1, a memorial to end marriage equality in Idaho, 1/27/25 Arguing against H520 restrictions on healthcare for trans Idahoans.
+2/21/24 Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
+The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

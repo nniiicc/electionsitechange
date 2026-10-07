@@ -1,7 +1,9 @@
 {
  "description": "Explore Joe Berning&#39;s Illinois State Senate priorities, focusing on supporting family farms, strengthening middle class, and advocating for a fair tax system.",
  "final_url": "https://berningforillinois.com/priorities",
- "paid_for_by": null,
+ "fingerprint": "0217a2d6b4d6ff9092571f24c8c0adc704ab5256",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Priorities",
  "years_mentioned": [
   "2026"

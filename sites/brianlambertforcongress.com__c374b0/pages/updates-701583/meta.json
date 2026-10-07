@@ -1,7 +1,11 @@
 {
  "description": "Read the latest campaign updates, public statements, event recaps, and news from Brian Lambert for Congress in Florida's 14th District.",
  "final_url": "https://www.brianlambertforcongress.com/updates",
+ "fingerprint": "f173022f1a0289d0a345046b07c2a585a0eb967c",
+ "format": 3,
  "paid_for_by": "Paid for by Brian Lambert for Congress",
  "title": "Campaign Updates | Brian Lambert for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,5 +1,4 @@
-Fall Happenings
-Welcome to cooler weather and new fall routines.
+0 Skip to Content Welcome Priorities Blog About Donate Open Menu Close Menu Open Menu Close Menu Welcome Priorities Blog About Donate Welcome Priorities Blog About Donate Fall Happenings Oct 1 Written By Daisy Berbeco Welcome to cooler weather and new fall routines.
 Things have been busy, despite the legislature being out of session.
 Last week I was at the State House to meet the NAACP student chapter from Castleton University who came to speak with a small group of Representatives about their struggles with their university’s administration around diversity, equity and inclusion initiatives.
 Two of the students were Winooski High School graduates and I was so proud to see them again, and hear about how well, and how hard they are fighting for visibility and justice for others at Castleton.
@@ -24,11 +23,12 @@ Finally, I want to wish Rep.
 Small and Carsen congratulations on their nuptials!
 Best wishes for a warm, loving and healthy forever.
 Below are a couple of upcoming events.
-October 5th, 6pm: Join me for a free Film Screening and Discussion Panel:“Anxiety Nation”, at Main St.
-Landing in Burlington
-Oct 26th, 5-7pm: Join me and VT State Treasurer Mike Pieciak to talk about VT Saves at Winooski High School Auditorium.
+October 5th, 6pm : Join me for a free Film Screening and Discussion Panel:“Anxiety Nation”, at Main St.
+Landing in Burlington Oct 26th, 5-7pm : Join me and VT State Treasurer Mike Pieciak to talk about VT Saves at Winooski High School Auditorium.
 VT Saves is a state-run retirement savings program.
 Employers who do not otherwise offer a qualified retirement savings program will be required to enroll in VT Saves and allow employees to make contributions via automatic payroll deductions.
 Why should we learn about VT Saves?
 In other states, programs like this are helping people who work for small employers that don’t offer retirement plans (which in Vermont are half of our businesses with less than 20 employees).
 Those are also the lower salary jobs which state data shows are usually held by young people, ethnic minorities and women.
+Daisy Berbeco Previous Previous Our Moral Crisis Next Next Voice for Refuge Daisy for Winooski P.O.
+Box 381 | Winooski, VT | 05404 (802) 391-4112 DaisyBerbecoVT@gmail.com Donate Welcome Priorities Blog About

@@ -1,3 +1,3 @@
-Fundamental Rights Taken Away State Sen.
+About Positions Endorsements Voter Info News Contact Support About Positions Endorsements Voter Info News Contact Support Fundamental Rights Taken Away State Sen.
 Mike Gierau said, “Over half of Americans had their fundamental right taken away from them.
-On a 6 to 3 vote, ripped away.” Read the full article at Jackson Hole News and Guide Frederick Mountain GroupAugust 27, 2022 Facebook0 Twitter LinkedIn0 Reddit Tumblr Pinterest0 0 Likes
+On a 6 to 3 vote, ripped away.” Read the full article at Jackson Hole News and Guide Frederick Mountain Group August 27, 2022 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous From JH News and Guide: CWC Outreach Campus Frederick Mountain Group August 27, 2022 Next From JH News and Guide: Mike Gierau to run for Senate District 17 Frederick Mountain Group August 27, 2022 ©# Paid for by the Committee to Elect Mike Gierau PO 2975 Jackson, WY 83001

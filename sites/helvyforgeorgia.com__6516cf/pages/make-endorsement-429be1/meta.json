@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.helvyforgeorgia.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "442e93ab3970cad2971455aa8c53f6505a600f31",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

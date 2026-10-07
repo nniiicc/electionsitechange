@@ -1,9 +1,30 @@
 [
-"https://cathrynnbrown.com/",
-"https://cathrynnbrown.com/?page_id=18",
-"https://cathrynnbrown.com/?page_id=45",
-"https://cathrynnbrown.com/?page_id=78",
-"https://cathrynnbrown.com/wp-content/uploads/2023/12/NMDist55Map-scaled.jpg",
-"https://dev.cathrynnbrown.com/",
-"https://facebook.com/RepCathrynnBrown"
+{
+"text": "About Cathrynn",
+"href": "https://cathrynnbrown.com/?page_id=45"
+},
+{
+"text": "Contact",
+"href": "https://cathrynnbrown.com/?page_id=18"
+},
+{
+"text": "Home",
+"href": "https://cathrynnbrown.com/"
+},
+{
+"text": "Resources",
+"href": "https://cathrynnbrown.com/?page_id=78"
+},
+{
+"text": "[image: CNBrown]",
+"href": "https://dev.cathrynnbrown.com/"
+},
+{
+"text": "[image: NMDist55Map]",
+"href": "https://cathrynnbrown.com/wp-content/uploads/2023/12/NMDist55Map-scaled.jpg"
+},
+{
+"text": "on Facebook",
+"href": "https://www.facebook.com/RepCathrynnBrown/"
+}
 ]

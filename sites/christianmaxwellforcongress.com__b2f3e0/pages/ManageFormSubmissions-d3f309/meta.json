@@ -1,7 +1,9 @@
 {
  "description": "Manage Form Submissions on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageFormSubmissions",
- "paid_for_by": null,
+ "fingerprint": "38e69284dabcfe4d9b867135e4403e75f75bd5f8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Form Submissions | Maxwell for Congress",
  "years_mentioned": []
 }

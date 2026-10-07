@@ -1,5 +1,4 @@
-Fair Policies Supporting Small Businesses
-As a third-generation owner of a family business, I understand the challenges Minnesotans are facing.
+0 Skip to Content Home Meet Robert Issues Legislative Work Coffee Hours Endorsements Get Involved Voting DONATE Open Menu Close Menu Open Menu Close Menu Home Meet Robert Issues Legislative Work Coffee Hours Endorsements Get Involved Voting DONATE Home Meet Robert Issues Legislative Work Coffee Hours Endorsements Get Involved Voting DONATE Fair Policies Supporting Small Businesses As a third-generation owner of a family business, I understand the challenges Minnesotans are facing.
 Past government inaction on issues such as infrastructure, healthcare, and fair tax policy for small businesses versus corporations has made life tough for many entrepreneurs.
 We need a strong voice advocating for workers and small business owners.
 Some believe the solution is to cut taxes and slash regulations.
@@ -10,3 +9,4 @@ Businesses prosper when their communities thrive.
 Past tax cuts have harmed public projects that would benefit everyone.
 Instead, there are too many tax breaks and loopholes that allow mega-corporations to reap billions in profits.
 We need to continue to focus on growing the middle class and actively promote small businesses.
+Prepared and Paid for by the Robert Bierman for MN House Committee PO Box 240574, Apple Valley, MN, 55124 Contact: GetInvolved@ElectRobertBierman.com

@@ -1,0 +1,26 @@
+Skip to main content Skip to footer Opens in a new tab Donate → Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Donate Donate By Mail Store Biggs/Kerr On The Campaign Trail Recap October 3, 2026 Press Release New endorsements and earned media for Biggs/Kerr while Hobbs hides out and avoids interviews MEDIA HIGHLIGHTS FROM THE CAMPAIGN TRAIL Monday, September 28 Arizona Republic – How Andy Biggs, Katie Hobbs compare on Arizona’s biggest issues : “ Biggs announced his plans in a Sept.
+22 news conference alongside his pick for lieutenant governor, former state Sen.
+Sine Kerr.
+Hobbs declined an interview request about her plans.
+Her campaign instead sent The Arizona Republic a statement that was light on details. ” Maricopa County Deputies Law Enforcement Association endorses Andy Biggs for Governor Katie Hobbs is Lying About Andy Biggs Again Tuesday, September 29 Andy Biggs Press Conference on Public Safety Endorsements – “ Law enforcement leaders and organizations from across the state agree: I’m the candidate they trust to support officers of the law and help keep Arizonans safe.
+I’m very honored to also announce for the first time our campaign has received the endorsement of the Arizona State Troopers Association.
+Everyone here has seen what Katie Hobbs has offered and the terrible results from her policies: a fentanyl death rate spike unlike any other state in the country, vetoes on bills to crack down on fentanyl dealers, and her ending of the Border Strike Force that led to the Biden Border Crisis. ” Wednesday, September 30 Arizona State Troopers Association Endorses Andy Biggs for Governor Andy Biggs and Sine Kerr Join Greater Phoenix Chamber Podcast – “ Sine Kerr & I are joining the Greater Phoenix Chamber Let’s Talk Business podcast today to share our vision for making Arizona more affordable and dynamic.
+We lost 4,100 jobs last month under Katie Hobbs, which is completely unacceptable.
+Looking forward to sharing the episode soon! ” Andy Biggs and Sine Kerr Join the Fox 10 Live Stream Andy Biggs Interviews with PBS Horizon After Katie Hobbs Refuses a Debate 12News- Andy Biggs Wants To Phase Out Arizona’s Income Tax Thursday, October 1 First 2026 Arizona Gubernatorial Debate Hosted by Biggs/Kerr Campaign ABC15- Andy Biggs Blames Katie Hobbs For DPS Staffing Issues : “ Biggs, the Republican nominee for Governor, says he plans to work on state trooper funding, recruitment, retention, and give the Department of Public Safety full resources. ” Arizona Capitol Times- Arizona’s Groundwater Future Hinges on 2026 Election : “ We will codify the repeal of Katie Hobbs’ housing moratorium that cut off the supply of new single-family homes in our fastest-growing areas,” Biggs told reporters on Sept.
+22. ” Reuters – Water Wars Come to the Ballot Box in Arizona : “ We are slowly losing our water from the Colorado River,” said healthcare worker Elizabeth Ramirez, 36, a Scottsdale resident who supports US Congressman Andy Biggs, the Republican gubernatorial candidate.
+She cited his $19 billion plan to build water infrastructure and complete a Yuma desalination plant.
+Biggs said Hobbs has stoked fears that Arizona has run out of water, costing the state tens of thousands of jobs and hundreds of millions of dollars in investment.
+“It is this panic narrative out there that this governor engenders,” Biggs said in an interview.
+“We’re ⁠not out of water.
+This is a matter of bringing it under control, managing it.” Hobbs, who did not respond to a Reuters request for an interview… ” Friday, October 2 KTAR- Andy Biggs Mocks Katie Hobbs’s Debate Refusal With Help From Rob Schneider : “ When Schneider’s character introduces Hobbs, the camera shows an unoccupied lectern while the sound of crickets chirping plays.
+The on-screen label reads “Katie Hobbs/Afraid To Debate.” The lectern scene becomes a running gag whenever it is Hobbs’ turn to appear on camera.
+Meanwhile, Biggs uses his turns to deliver his campaign positions as if it were an actual debate.
+The audience is made up of Grand Canyon University students, some of whom answer questions from Schneider.
+They all give pro-Biggs responses. ” NFIB Arizona PAC Endorses Andy Biggs for Governor – “ Our new candidates proactively sought our endorsement because they understand that small businesses are the foundation of our state’s economy.
+Small business owners want both a track record of standing up for Main Street and genuine enthusiasm for the fight.
+This slate delivers both. ” Sine Kerr Joins Breaking Battlegrounds Podcast Major Difference Between Campaigns with Momentum on the ground for Biggs/Kerr Saturday, October 3 Sine Kerr Participates in Rex Allen Days Parade in Willcox Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Paid for & authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

@@ -1,20 +1,82 @@
 [
-"https://campaignmanager.newlinforgeorgia.com/privacy",
-"https://facebook.com/profile.php?id=61562474787142",
-"https://instagram.com/newlin4georgia",
-"https://legis.ga.gov/",
-"https://legis.ga.gov/legislation/59226",
-"https://legis.ga.gov/legislation/63960",
-"https://legis.ga.gov/legislation/65588",
-"https://legis.ga.gov/legislation/67214",
-"https://legis.ga.gov/legislation/68789",
-"https://newlinforgeorgia.com/",
-"https://newlinforgeorgia.com/compare",
-"https://newlinforgeorgia.com/district-map",
-"https://newlinforgeorgia.com/home",
-"https://newlinforgeorgia.com/join",
-"https://newlinforgeorgia.com/meet-jeff",
-"https://newlinforgeorgia.com/priorities",
-"https://secure.anedot.com/newlin-for-georgia/donate",
-"https://x.com/newlin4georgia"
+{
+"text": "Compare",
+"href": "https://newlinforgeorgia.com/compare"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "District 41",
+"href": "https://newlinforgeorgia.com/district-map"
+},
+{
+"text": "Donate $10",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "Join The Team",
+"href": "https://newlinforgeorgia.com/join"
+},
+{
+"text": "Learn more about Jeff",
+"href": "https://newlinforgeorgia.com/#Jeff"
+},
+{
+"text": "Meet Jeff",
+"href": "https://newlinforgeorgia.com/meet-jeff"
+},
+{
+"text": "NEWLIN for STATE SENATE",
+"href": "https://newlinforgeorgia.com/home"
+},
+{
+"text": "Priorities",
+"href": "https://newlinforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://campaignmanager.newlinforgeorgia.com/privacy"
+},
+{
+"text": "SB 324 Passed → Address Confidentiality Program for survivors of stalking, domestic violence, and human trafficking. Helps the few hundred Georgians who enroll. Worthwhile. Narrow.",
+"href": "https://www.legis.ga.gov/legislation/65588"
+},
+{
+"text": "SB 531 Passed → DeKalb County School Board — salary raises. Raises pay for the school board members to $25,000/year — but failed to add any stipulations tying the raise to DeKalb school performance improvements.",
+"href": "https://www.legis.ga.gov/legislation/67214"
+},
+{
+"text": "SB 577 Passed → Streamlining waste removal fee collection from former tenants in DeKalb County. Helps DeKalb County collect more from former tenants. Doesn't lower your bill.",
+"href": "https://www.legis.ga.gov/legislation/68789"
+},
+{
+"text": "SB 75 Passed → Termination of residential lease for victims of stalking. Real protection for stalking victims who rent. Important — but a narrow slice of District 41.",
+"href": "https://www.legis.ga.gov/legislation/59226"
+},
+{
+"text": "SB 83 Passed → Stalking — eligibility for restraining orders, revised processes. Procedural improvement for the same small population as SB 75.",
+"href": "https://www.legis.ga.gov/legislation/63960"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61562474787142"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/newlin4georgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/newlin4georgia"
+},
+{
+"text": "legis.ga.gov",
+"href": "https://www.legis.ga.gov"
+},
+{
+"text": "← Back to her full record",
+"href": "https://newlinforgeorgia.com/compare"
+}
 ]

@@ -1,0 +1,2 @@
+Meet David Issues News Volunteer Contribute Events Join me on June 6, 2026 at the Moms Demand Action event in West Palm Beach. www.momsdemandaction.org #ago This Week This Month ‹ Previous Wed Oct 7 2026 Next › No events in this range Try a different date range, or check back soon for new events.
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com - Political Websites Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

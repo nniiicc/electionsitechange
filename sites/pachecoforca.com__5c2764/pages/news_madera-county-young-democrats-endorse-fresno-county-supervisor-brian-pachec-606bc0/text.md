@@ -1,12 +1,9 @@
-PRESS RELEASE
-Madera County Young Democrats Endorse Fresno County Supervisor Brian Pacheco For Assembly
-This Endorsement Delivers a Key Youth Endorsement to Supervisor Brian Pacheco in His Race for District 27
-The Madera County Young Democrats (MCYD) officially announced their endorsement of Fresno County Supervisor Brian Pacheco in his race for Assembly District 27.
+Skip navigation menu Meet Brian Issues Endorsements News Media Get Involved Donate Meet Brian Issues Endorsements News Media Get Involved Donate PRESS RELEASE California YIMBY Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE Peace Officers Research Association of California Endorses Brian Pacheco For Assembly PRESS RELEASE Sheet Metal Workers’ Local 104 Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE California Teachers Association Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE Madera County Young Democrats Endorse Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE North Valley Labor Federation Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE AFL-CIO Endorses Fresno County Supervisor Brian Pacheco PRESS RELEASE Fresno County Supervisor Brian Pacheco Secures Endorsement from Fresno Deputy Sheriff's Association May 1 2026 PRESS RELEASE Madera County Young Democrats Endorse Fresno County Supervisor Brian Pacheco For Assembly This Endorsement Delivers a Key Youth Endorsement to Supervisor Brian Pacheco in His Race for District 27 The Madera County Young Democrats (MCYD) officially announced their endorsement of Fresno County Supervisor Brian Pacheco in his race for Assembly District 27.
 Their support signals growing momentum in young voters.
 “We are proud to endorse Brian Pacheco for State Assembly District 27,” said Alvina Miguel, MCYD representative.
 “A consistent and trusted advocate, Pacheco has built a strong reputation for showing up for working families, small businesses, and local communities.
-His leadership is grounded in reliability, results and a deep commitment to the Central Valley.”
-“I’m grateful for their endorsement,” said Brian Pacheco.
-“Young people are the future, and having their support recognizes that our work is about more than today, it's about building a stronger District 27 for generations to come.”
-The Madera County Young Democrats endorsement adds to growing momentum behind Pacheco’s campaign.
+His leadership is grounded in reliability, results and a deep commitment to the Central Valley.” “I’m grateful for their endorsement,” said Brian Pacheco.
+“Young people are the future, and having their support recognizes that our work is about more than today, it's about building a stronger District 27 for generations to come.” The Madera County Young Democrats endorsement adds to growing momentum behind Pacheco’s campaign.
 Pacheco has earned the support of Assembly Speaker Robert Rivas, Assemblymember Esmeralda Soria, and Congressmen Jim Costa and Adam Gray, along with key labor endorsements including the Fresno Deputy Sheriff’s Association and the California Federation of Labor Unions.
+Privacy Policy Have a question, want to get involved, or interested in endorsing the campaign?
+Please contact info@pachecoforca.com Checks may be mailed to: Brian Pacheco for Assembly 2026 1700 Tribute Road, Suite 201 Sacramento, CA 95815 Powered by RUN! website builder Paid for by Pacheco for Assembly 2026 FPPC# 1485456 You need to enable JavaScript to run this app.

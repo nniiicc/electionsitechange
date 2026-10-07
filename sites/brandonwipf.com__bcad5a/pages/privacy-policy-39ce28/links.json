@@ -1,11 +1,42 @@
 [
-"https://brandonwipf.com/",
-"https://brandonwipf.com/about",
-"https://brandonwipf.com/cart",
-"https://brandonwipf.com/issues",
-"https://brandonwipf.com/new-page",
-"https://brandonwipf.com/privacy-policy",
-"https://brandonwipf.com/takeaction",
-"https://facebook.com/BrandonWipf22",
-"https://secure.winred.com/wipf-for-the-senate/donate"
+{
+"text": "0",
+"href": "https://www.brandonwipf.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.brandonwipf.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.brandonwipf.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.brandonwipf.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.brandonwipf.com/privacy-policy"
+},
+{
+"text": "Press",
+"href": "https://www.brandonwipf.com/new-page"
+},
+{
+"text": "Take Action",
+"href": "https://www.brandonwipf.com/takeaction"
+},
+{
+"text": "[image: Brandon Wipf for District 22 Senate]",
+"href": "https://www.brandonwipf.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrandonWipf22"
+}
 ]

@@ -1,45 +1,26 @@
-Governor Deval Patrick signs An Act Authorizing the Town of Braintree to Grant Additional Liquor License
-October 26, 2012
-For immediate release: October 26, 2012 (BOSTON) – On Friday October 19, 2012, Governor Deval Patrick signed into law An Act Authorizing the Town of Braintree to Grant Additional Liquor Licenses, which was filed by Representative Mark Cusack and Senator John F.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Latest News Governor Deval Patrick signs An Act Authorizing the Town of Braintree to Grant Additional Liquor License October 26, 2012 For immediate release: October 26, 2012 (BOSTON) – On Friday October 19, 2012, Governor Deval Patrick signed into law An Act Authorizing the Town of Braintree to Grant Additional Liquor Licenses, which was filed by Representative Mark Cusack and Senator John F.
 Keenan.
-This special legislation will allow Braintree’s licensing authority...Read More - Governor Deval Patrick signs An Act Authorizing the Town of Braintree to Grant Additional Liquor License
-Braintree Road Improvements
-October 25, 2012
-For immediate release: October 25, 2012 (BOSTON) - State Representative Mark J.
-Cusack (D-Braintree) is pleased to announce that the Massachusetts Department of Transportation will be milling and paving the intersection of Washington Street at Hancock St. and Plain St in an attempt to complete the work before the winter....Read More - Braintree Road Improvements
-Holbrook to Receive State Funding For Town Hall Renovations
-June 28, 2012
-For immediate release: June 28, 2012 (BOSTON) – Majority Leader Ron Mariano, Representative Mark Cusack and Senator John Keenan are pleased to announce that Holbrook received $100,000 in this year’s State budget to continue renovations at the Town Hall.
-“I am happy that Holbrook received this important funding from the...Read More - Holbrook to Receive State Funding For Town Hall Renovations
-Braintree to Receive State Funding For Public Safety Improvements
-May 12, 2012
-For immediate release: May 12, 2012 (BOSTON) – State Representative Mark Cusack joined his colleagues in the Massachusetts House of Representatives last week in passing a balanced FY ’13 budget aimed at increasing government efficiency, cutting costs and preserving essential services across the Commonwealth.
-Representative Cusack is pleased to announce...Read More - Braintree to Receive State Funding For Public Safety Improvements
-House Releases Health Care Payment Reform Bill
-May 8, 2012
-For immediate release: May 8, 2012 (BOSTON) – House Speaker Robert A.
+This special legislation will allow Braintree’s licensing authority...
+Read More - Governor Deval Patrick signs An Act Authorizing the Town of Braintree to Grant Additional Liquor License Braintree Road Improvements October 25, 2012 For immediate release: October 25, 2012 (BOSTON) - State Representative Mark J.
+Cusack (D-Braintree) is pleased to announce that the Massachusetts Department of Transportation will be milling and paving the intersection of Washington Street at Hancock St. and Plain St in an attempt to complete the work before the winter....
+Read More - Braintree Road Improvements Holbrook to Receive State Funding For Town Hall Renovations June 28, 2012 For immediate release: June 28, 2012 (BOSTON) – Majority Leader Ron Mariano, Representative Mark Cusack and Senator John Keenan are pleased to announce that Holbrook received $100,000 in this year’s State budget to continue renovations at the Town Hall.
+“I am happy that Holbrook received this important funding from the...
+Read More - Holbrook to Receive State Funding For Town Hall Renovations Braintree to Receive State Funding For Public Safety Improvements May 12, 2012 For immediate release: May 12, 2012 (BOSTON) – State Representative Mark Cusack joined his colleagues in the Massachusetts House of Representatives last week in passing a balanced FY ’13 budget aimed at increasing government efficiency, cutting costs and preserving essential services across the Commonwealth.
+Representative Cusack is pleased to announce...
+Read More - Braintree to Receive State Funding For Public Safety Improvements House Releases Health Care Payment Reform Bill May 8, 2012 For immediate release: May 8, 2012 (BOSTON) – House Speaker Robert A.
 DeLeo, Chairman Steven Walsh of the Committee on Health Care Financing, and the members of the committee have announced a comprehensive plan aimed at curbing health care costs and empowering patients.
-The bill, released by the Joint Committee...Read More - House Releases Health Care Payment Reform Bill
-Cusack Bill Calling for Local Approval on MBTA Billboards Heard before Transportation Committee
-March 12, 2012
-For immediate release: March 13, 2012 (BOSTON) – Representative Mark J.
+The bill, released by the Joint Committee...
+Read More - House Releases Health Care Payment Reform Bill Cusack Bill Calling for Local Approval on MBTA Billboards Heard before Transportation Committee March 12, 2012 For immediate release: March 13, 2012 (BOSTON) – Representative Mark J.
 Cusack’s bill concerning the Massachusetts Bay Transportation Authority’s’ advertising practices was heard yesterday in front of the Joint Committee on Transportation.
-Currently, the Massachusetts Bay Transportation Authority argues that they do not need to comply with local ordinances in...Read More - Cusack Bill Calling for Local Approval on MBTA Billboards Heard before Transportation Committee
-State To Repair Lights Highways
-February 14, 2012
-For immediate release: February 14, 2012 (BOSTON) - State Representative Mark J.
+Currently, the Massachusetts Bay Transportation Authority argues that they do not need to comply with local ordinances in...
+Read More - Cusack Bill Calling for Local Approval on MBTA Billboards Heard before Transportation Committee State To Repair Lights Highways February 14, 2012 For immediate release: February 14, 2012 (BOSTON) - State Representative Mark J.
 Cusack (D-Braintree) is pleased to announce that the Massachusetts Department of Transportation will be repairing the overhead lights on Route 93 and Route 3 towards Braintree.
-“I have been working on this issue going back to my years...Read More - State To Repair Lights Highways
-State To Repave Braintree Rotary
-December 1, 2011
-For immediate release: December 1, 2011 (BOSTON) - State Representative Mark J.
+“I have been working on this issue going back to my years...
+Read More - State To Repair Lights Highways State To Repave Braintree Rotary December 1, 2011 For immediate release: December 1, 2011 (BOSTON) - State Representative Mark J.
 Cusack (D-Braintree) is pleased to announce that the Massachusetts Department of Transportation is moving forward with its plans to repave the Braintree Rotary.
-“I’m glad that the State is finally repaving the Braintree Rotary, which has needed attention...Read More - State To Repave Braintree Rotary
-State To Begin Repaving Roads In Braintree
-November 14, 2011
-For immediate release: November 14, 2011 (BOSTON) - State Representative Mark J.
+“I’m glad that the State is finally repaving the Braintree Rotary, which has needed attention...
+Read More - State To Repave Braintree Rotary State To Begin Repaving Roads In Braintree November 14, 2011 For immediate release: November 14, 2011 (BOSTON) - State Representative Mark J.
 Cusack (D-Braintree) is pleased announce that the Massachusetts Department of Transportation is moving forward with its plans to repair Plain St., Grove St., and Columbian Rd. in Braintree.
-“I met with State officials over the past few months and...Read More - State To Begin Repaving Roads In Braintree
-Governor Patrick signs Pool/Rink Legislation paving the way for the Petersen Pool to be built in Braintree
-November 4, 2011
-For immediate release: November 4, 2011 (BOSTON) - Yesterday Governor Deval Patrick signed special legislation that will allow the Town of Braintree to enter into a design-build agreement with a private developer to build a state of the art Pool and Rink complex on the grounds of Braintree High School. ...Read More - Governor Patrick signs Pool/Rink Legislation paving the way for the Petersen Pool to be built in Braintree
+“I met with State officials over the past few months and...
+Read More - State To Begin Repaving Roads In Braintree Governor Patrick signs Pool/Rink Legislation paving the way for the Petersen Pool to be built in Braintree November 4, 2011 For immediate release: November 4, 2011 (BOSTON) - Yesterday Governor Deval Patrick signed special legislation that will allow the Town of Braintree to enter into a design-build agreement with a private developer to build a state of the art Pool and Rink complex on the grounds of Braintree High School. ...
+Read More - Governor Patrick signs Pool/Rink Legislation paving the way for the Petersen Pool to be built in Braintree Posts pagination 1 2 3 4 Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

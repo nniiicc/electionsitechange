@@ -1,5 +1,4 @@
-About Mark
-My parents were both Air Force officers.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE About Mark My parents were both Air Force officers.
 I grew up in Colorado.
 I earned a degree in economics at Whitman College, where I also played rugby and was a team captain.
 I first came to Nebraska in 1983 as a young Air Force Judge Advocate.
@@ -23,8 +22,7 @@ Part of the story takes place in Nebraska.
 It was a Book Sense mystery pick.
 During the pandemic I bought my Lemoyne home.
 I have long loved the Sandhills, so I later made that my primary home.
-Today I teach karate in Ogallala, though I still sometimes take on legal matters in Colorado.*
-I left the Democratic party about four years ago for several reasons.
+Today I teach karate in Ogallala, though I still sometimes take on legal matters in Colorado.* I left the Democratic party about four years ago for several reasons.
 First, I disagreed with that party’s position on guns.
 Second, I felt the party was sometimes tone deaf and was becoming increasingly less hospitable to moderates and people from rural areas.
 Many Democratic leaders just don’t get that policies popular in New York City and San Francisco are not always popular elsewhere.
@@ -35,10 +33,7 @@ I have three grown children.
 My companion, “Nurse Sheri,” is from Crete, Nebraska, and was the Nebraska State Pork Queen.
 I live in Lemoyne with my Irish Wolfhound, Solomon.
 I enjoy teaching karate and floating the Niobrara River.
-I have a bad popsicle habit.
-*Not licensed in Nebraska
-Why I’m Running
-Did you ever hire a supposed expert only to realize you could have done the job better yourself?
+I have a bad popsicle habit. *Not licensed in Nebraska Why I’m Running Did you ever hire a supposed expert only to realize you could have done the job better yourself?
 That’s how I feel about our political leaders.
 There was a time when Democrats and Republicans could work together.
 But today’s two party system often forces us to choose between two extremes.
@@ -67,11 +62,13 @@ I want to know what you think about the issues facing America and rural Nebraska
 Please email me at info@markfornebraska.org and tell me what’s on your mind.
 If you like what you see, we’d love your help.
 How Did We Get Here?
-- We encourage competition in business, but not in politics.
+THE FIRST PROBLEM WITH OUR SYSTEM – No Competition in Politics.
+We encourage competition in business, but not in politics.
 Our current political system is a duopoly comprised of two parties, and the one thing they agree on is that they should make it difficult for independent and third party candidates to win.
 The two parties have created a primary system that often rewards the most extreme candidates in each party because the people who donate money are the ones with strong beliefs about an issue.
 Few candidates win primaries by claiming to be moderates who can reach across the aisle.
-- The Supreme Court’s decision in Citizens United held that corporations have the same First Amendment rights as people and that they may therefore spend unlimited sums to support or oppose a candidate.
+THE SECOND PROBLEM WITH OUR SYSTEM – Corporate Money and Oligarch Money.
+The Supreme Court’s decision in Citizens United held that corporations have the same First Amendment rights as people and that they may therefore spend unlimited sums to support or oppose a candidate.
 Our Constitution gives people the right to vote – not corporations.
 Citizens serve in our armed forces – not corporations.
 But Citizens United effectively allows corporations to buy elections by spending unlimited amounts to support or oppose a candidate.
@@ -80,7 +77,8 @@ The problem is not just corporate money.
 The notion that individuals have a right to give unlimited donations to candidates in the name of free speech also threatens our democracy.
 Billionaires circumvent campaign contribution limits by forming PACs.
 Corporate titans handing out $1 million checks to voters is a perversion of our Constitution.
-- There is a concentration of media power in America like never before.
+THE THIRD PROBLEM WITH OUR SYSTEM – Concentration of Media Power and the Black and White Thinking it Rewards.
+There is a concentration of media power in America like never before.
 There are fewer independent news sources, making it harder for diverse viewpoints to be heard.
 It wasn’t long ago that the networks kept their news departments separate from their for-profit programming.
 But those days are gone.
@@ -99,10 +97,12 @@ Subsequent regulatory changes, such as the FCC's 2017 decision to relax media ow
 The rise of digital platforms like Google, Facebook, and Twitter has shifted media consumption patterns.
 These platforms have become dominant in news distribution, often acting as gatekeepers for information, but they don’t do nearly enough to combat misinformation (much of it from Russian and Chinese bots) because that costs money.
 The result of all this is reduced competition, fewer diverse perspectives, greater misinformation, erosion of local journalism, and an unhealthy concentration of influence and political power.
-- The Founders created a Constitution with three co-equal branches of government.
+THE FOURTH PROBLEM WITH OUR SYSTEM – The party that wins by 1% gets 99% of the Power.
+The Founders created a Constitution with three co-equal branches of government.
 But in today’s highly partisan climate Congress abdicates its responsibility when the party that controls Congress also controls the White House.
 Fearful of a primary challenge, our representatives stop asking what is best for America, what is right, or what is constitutional.
-- Too many of us have rewarded politicians who attempt to dumb us down with simplistic thinking.
+THE FIFTH PROBLEM WITH OUR SYSTEM – Us.
+Too many of us have rewarded politicians who attempt to dumb us down with simplistic thinking.
 It’s understandable to some extent because most of us are busy and just trying to support our families.
 It’s easier to repeat a four-word catchphrase like “Make America Great Again” than it is to ask what that means or to study complex issues such as climate change or cryptocurrency.
 Thomas Jefferson wrote, “A well-informed electorate is a prerequisite to democracy.” We must hold ourselves to a higher standard.
@@ -121,3 +121,4 @@ One thing we can do to help change things is to stop watching the primetime pund
 These shows are not “news” – they are entertainment aimed at profiting by dividing us.
 Turn them off; the primetime political smack talking is ruining American politics and inspiring violence.
 Read a small-town paper or independent publication instead.
+Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

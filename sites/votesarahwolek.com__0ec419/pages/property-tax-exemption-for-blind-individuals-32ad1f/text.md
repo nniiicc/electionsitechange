@@ -1,10 +1,7 @@
-Property Tax Exemption for Blind Individuals
-Bill Name
-The Property Tax - Exemption for Blind Individuals - Alteration
-Bill Number
-HB 910
-Year
-2025
-Priority Areas: Vulnerable Communities, Economic Development
-HB 910: The Property Tax - Exemption for Blind Individuals - Alteration increases the property tax exemption for blind individuals and their surviving spouses from $15,000 to $40,000.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Property Tax Exemption for Blind Individuals Bill Name The Property Tax - Exemption for Blind Individuals - Alteration Bill Number HB 910 Year 2025 Priority Areas: Vulnerable Communities, Economic Development Learn More HB 910: The Property Tax - Exemption for Blind Individuals - Alteration increases the property tax exemption for blind individuals and their surviving spouses from $15,000 to $40,000.
 This amount had not changed in the last 25 years, so the increase serves to keep the tax exemption consistent with the inflation we’ve seen in the housing market and ensure blind individuals continue to receive a proportional level of support.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

@@ -1,10 +1,9 @@
-John Ley
-New Leadership Delivering Results for Our Community
-State Committeeman & Precinct Committee Officer, Clark County Republican Party; Air Line Pilots Association Board of Directors and Chairman Council 124; Deputy State Master Councilor, Oregon DeMolay.
-Reporter, Clark County Today; Captain Delta Air Lines; Federal Flight Deck Officer; ALPA Major Contingency Fund Chairman; United States Air Force Instructor Pilot and Flight Commander, KC-135; Public Affairs Officer; small business owner.
-Portland State University, Bachelor of Science; Distinguished Graduate USAF Squadron Officer School; Air Command and Staff College; USAF ROTC scholarship.
-Transportation and responsible spending activist; campaign manager; organizer Special Olympics and United Way; attends Northwest Gospel Church; Editor The Orient Express pilot union newsletter.
-friend!
+Home News Latest News 60 Seconds With John Ley About Me Donate About John Ley New Leadership Delivering Results for Our Community I promise to ask ‘where’s the value’ in every government program, and about every dollar you send to Olympia.
+John Ley Elected Experience State Committeeman & Precinct Committee Officer, Clark County Republican Party; Air Line Pilots Association Board of Directors and Chairman Council 124; Deputy State Master Councilor, Oregon DeMolay.
+Other Professional Experience Reporter, Clark County Today; Captain Delta Air Lines; Federal Flight Deck Officer; ALPA Major Contingency Fund Chairman; United States Air Force Instructor Pilot and Flight Commander, KC-135; Public Affairs Officer; small business owner.
+Education Portland State University, Bachelor of Science; Distinguished Graduate USAF Squadron Officer School; Air Command and Staff College; USAF ROTC scholarship.
+Community Service Transportation and responsible spending activist; campaign manager; organizer Special Olympics and United Way; attends Northwest Gospel Church; Editor The Orient Express pilot union newsletter.
+Welcome dear friend!
 John is the oldest of 6 kids.
 His family has been part of the Pacific NW for over 40 years.
 In high school, he earned an Air Force ROTC scholarship, with a pilot slot.
@@ -33,3 +32,8 @@ John learned first hand, the challenges facing mom & pop businesses, just trying
 Most recently, John has joined countless local citizens fighting the Columbia River Crossing, Oregon’s outrageous tolling proposal, and the current $7.5 billion Interstate Bridge Replacement project that will double people’s time spent in congested traffic.
 He is also recognized as a local expert fight Oregon’s outrageous tolling scheme.
 He joins his fellow citizens in fighting for financially responsible, common sense solutions to problems.
+John Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

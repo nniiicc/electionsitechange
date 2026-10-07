@@ -1,12 +1,6 @@
-Oscar De Los Santos represents District 11 in the Arizona House of Representatives, which includes Downtown Phoenix, Laveen, Guadalupe, and South Phoenix.
+Home Donate About Oscar Endorsements Press Kit More Home Donate About Oscar Endorsements Press Kit get oscar on the ballot Home Donate About Oscar Endorsements Press Kit get oscar on the ballot About Oscar Oscar De Los Santos represents District 11 in the Arizona House of Representatives, which includes Downtown Phoenix, Laveen, Guadalupe, and South Phoenix.
 Elected by his peers as House Democratic Leader, Oscar is the youngest Democratic legislative leader in the nation.
-As head of the Arizona House Democrats, he negotiated a historic $17.6 billion state budget that:
-- Made school breakfast and lunch free for working-class students,
-- Delivered a historic initiative to make community college and public university tuition free for thousands of working-class students,
-- Invested more in affordable childcare than at any time in the past 15 years,
-- Created Arizona's first-ever plan to eradicate veterans homelessness,
-- Secured millions in relief for Arizonans on the brink of eviction, and
-- Expanded legal aid so workers can take on predatory corporations that violate their rights.
+As head of the Arizona House Democrats, he negotiated a historic $17.6 billion state budget that: Made school breakfast and lunch free for working-class students, Delivered a historic initiative to make community college and public university tuition free for thousands of working-class students, Invested more in affordable childcare than at any time in the past 15 years, Created Arizona's first-ever plan to eradicate veterans homelessness, Secured millions in relief for Arizonans on the brink of eviction, and Expanded legal aid so workers can take on predatory corporations that violate their rights.
 A stalwart champion for universal health care, Oscar fought for and won a landmark initiative to erase $2 billion in medical debt for one million Arizonans.
 He also successfully helped secure $122 million in lifesaving health care for people with developmental disabilities.
 He has also introduced legislation to crack down on corporate landlords driving up rents, outlaw AI price fixing, and crack down on corporate price gouging.
@@ -17,5 +11,8 @@ He also worked on President Barack Obama’s 2012 campaign, helping organize com
 Oscar earned a J.D. from Yale Law School, where he was a member of the Veterans Legal Services Clinic, serving our nation's heroes.
 He also holds a master’s degree in public policy from the University of Oxford where he studied as a Rhodes Scholar.
 Rooted in the Christian moral tradition, Oscar holds a master’s degree in Christian ethics from Union Theological Seminary.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Paid for by Oscar for AZ House.
+Authorized by Oscar De Los Santos.
+Copyright © # Oscar for AZ House - All Rights Reserved.
+Powered by Donate Make a grassroots donation to re-elect Oscar!
+DONATE

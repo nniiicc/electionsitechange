@@ -1,4 +1,6 @@
-Sign up to volunteer!
+0 Skip to Content Home About Nabeela Issues Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events DONATE Open Menu Close Menu Open Menu Close Menu DONATE Home About Nabeela Issues Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events Home About Nabeela Folder: Issues Back Economy & Tax Reform Healthcare Public Safety Education Equal Rights Choice Environment Big Tech Request a Yard Sign 26th District Election Info Volunteer Events DONATE Sign up to volunteer!
 After you fill out the form, we will be in touch with details.
 Thank you for your interest in volunteering with our campaign!
-SIGN UP TO VOLUNTEER
+SIGN UP TO VOLUNTEER NABEELA SYED FOR STATE SENATE (847) 496-3028 nabeela@nabeelasyed.com Paid for by Friends & Family of Nabeela Syed.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL.
+Privacy Policy Follow Twitter Facebook Instagram

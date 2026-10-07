@@ -1,4 +1,5 @@
-Skip navigation menu
+Skip navigation menu About Issues News Endorsements Volunteer Contact Donate My name is Ian Phillips, and I’m running for State Assembly.
+About Issues News Endorsements Volunteer Contact Donate My name is Ian Phillips, and I’m running for State Assembly.
 I’m a teacher, former Auburn school board President, union organizer, and lifelong Central New Yorker.
 And I’m an optimist.
 But we have real problems - a crushing affordability crisis, big corporations interfering in our elections, a healthcare system that leaves many of us behind.
@@ -23,3 +24,4 @@ I believe that when we work towards a common good, our communities are stronger.
 Our elected officials should believe the same thing.
 That’s why I’m running for Assembly - to deliver for us, not the wealthy and large corporations.
 Join my campaign today.
+Chip in to support Ian's campaign today! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other MEDIA Powered by RUN! website builder Paid for by Ian for CNY You need to enable JavaScript to run this app.

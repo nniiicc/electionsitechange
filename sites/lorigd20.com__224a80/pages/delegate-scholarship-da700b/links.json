@@ -1,29 +1,138 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfnefTv7vv4vVpqZCewir6JRgSoieUFfFNP6iQaIj5ifcvIKQ/viewform",
-"https://facebook.com/charkoudian.lorig",
-"https://google.com/url?q=http%3A%2F%2Fwww.mdelect.net&sa=D&ust=1646159280905999&usg=AOvVaw1q8PxY2CWyOmExeGSpq_c4",
-"https://google.com/url?q=https%3A%2F%2Fmhec.state.md.us%2Fpreparing%2FPages%2FFinancialAid%2Fdescriptions.aspx&sa=D&ust=1646159280906245&usg=AOvVaw3YdmQ6N_53Al40_uzKDd1h",
-"https://google.com/url?q=https%3A%2F%2Fmhec.state.md.us&sa=D&ust=1646159280906132&usg=AOvVaw0aI27xHQUFa46L_7L3bKty",
-"https://instagram.com/lorigcharkoudian?hl=en",
-"https://lorigd20.com/",
-"https://lorigd20.com/about-4",
-"https://lorigd20.com/community-resources",
-"https://lorigd20.com/contact",
-"https://lorigd20.com/delegate-scholarship",
-"https://lorigd20.com/donate",
-"https://lorigd20.com/get-involved",
-"https://lorigd20.com/immigration-resources",
-"https://lorigd20.com/legislation",
-"https://lorigd20.com/news",
-"https://lorigd20.com/power-in-the-park",
-"https://lorigd20.com/precinct-official-information",
-"https://lorigd20.com/subscribe",
-"https://mhec.maryland.gov/preparing/Pages/FinancialAid/CyberSecurity-Scholarship-Program.aspx",
-"https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_MDCommunityCollegePromiseScholarship.aspx",
-"https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_RichardWCollinsIIILeadershipwHScholarship.aspx",
-"https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_cbeag.aspx",
-"https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_gagrant.aspx",
-"https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_ptgrant.aspx",
-"https://mhec.maryland.gov/preparing/pages/financialaid/programdescriptions/prog_ea.aspx",
-"https://twitter.com/LCharkoudian"
+{
+"text": "About",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "About Lorig",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "Application Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfnefTv7vv4vVpqZCewir6JRgSoieUFfFNP6iQaIj5ifcvIKQ/viewform"
+},
+{
+"text": "Contact",
+"href": "https://www.lorigd20.com/contact"
+},
+{
+"text": "Cyber Security Public Service Scholarship",
+"href": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/CyberSecurity-Scholarship-Program.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://www.lorigd20.com/donate"
+},
+{
+"text": "Delegate Scholarship",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "Events",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "Howard P. Rawlings Campus Based Educational Assistance Grant",
+"href": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_cbeag.aspx"
+},
+{
+"text": "Howard P. Rawlings Educational Assistance Grant",
+"href": "https://mhec.maryland.gov/preparing/pages/financialaid/programdescriptions/prog_ea.aspx"
+},
+{
+"text": "Howard P. Rawlings Guaranteed Access Grant",
+"href": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_gagrant.aspx"
+},
+{
+"text": "Immigration Resources",
+"href": "https://www.lorigd20.com/immigration-resources"
+},
+{
+"text": "Legislation",
+"href": "https://www.lorigd20.com/legislation"
+},
+{
+"text": "Maryland Community College Promise Scholarship",
+"href": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_MDCommunityCollegePromiseScholarship.aspx"
+},
+{
+"text": "Newsroom",
+"href": "https://www.lorigd20.com/news"
+},
+{
+"text": "Part Time Grant",
+"href": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_ptgrant.aspx"
+},
+{
+"text": "Power in the Park",
+"href": "https://www.lorigd20.com/power-in-the-park"
+},
+{
+"text": "Precinct Official Information",
+"href": "https://www.lorigd20.com/precinct-official-information"
+},
+{
+"text": "Resources/Scholarship",
+"href": "https://www.lorigd20.com/community-resources"
+},
+{
+"text": "Richard W. Collins III Leadership with Honor Scholarship",
+"href": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_RichardWCollinsIIILeadershipwHScholarship.aspx"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.lorigd20.com/subscribe"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/charkoudian.lorig"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lorigcharkoudian/?hl=en"
+},
+{
+"text": "[image: Screen Shot 2021-11-21 at 4.58.01 PM.png]",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LCharkoudian"
+},
+{
+"text": "friendsoflorig@gmail.com",
+"href": "mailto:friendsoflorig@gmail.com"
+},
+{
+"text": "http://www.mdelect.net",
+"href": "https://www.google.com/url?q=http%3A%2F%2Fwww.mdelect.net&sa=D&ust=1646159280905999&usg=AOvVaw1q8PxY2CWyOmExeGSpq_c4"
+},
+{
+"text": "https://mhec.state.md.us",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmhec.state.md.us&sa=D&ust=1646159280906132&usg=AOvVaw0aI27xHQUFa46L_7L3bKty"
+},
+{
+"text": "https://mhec.state.md.us/preparing/Pages/FinancialAid/descriptions.aspx",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmhec.state.md.us%2Fpreparing%2FPages%2FFinancialAid%2Fdescriptions.aspx&sa=D&ust=1646159280906245&usg=AOvVaw3YdmQ6N_53Al40_uzKDd1h"
+},
+{
+"text": "lorig.charkoudian@house.state.md.us",
+"href": "mailto:lorig.charkoudian@house.state.md.us"
+}
 ]

@@ -1,14 +1,66 @@
 [
-"https://beardenforgeorgia.com/",
-"https://beardenforgeorgia.com/privacy-policy",
-"https://beardenforgeorgia.com/wp-content/uploads/2025/04/BEART-0009-SS30-GA-DSN-Legislative-Recap-PDF-2.pdf",
-"https://facebook.com/timbeardenforgeorgia",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden",
-"https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden?amount=100",
-"https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden?amount=1000",
-"https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden?amount=50",
-"https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden?amount=500",
-"https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden?exitIntent=true"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden/?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden/?amount=1000"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden/?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden/?amount=500"
+},
+{
+"text": "Conservative Priorities",
+"href": "https://beardenforgeorgia.com/#priorities"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden?exitIntent=true"
+},
+{
+"text": "Home",
+"href": "https://beardenforgeorgia.com/"
+},
+{
+"text": "Join Us",
+"href": "https://beardenforgeorgia.com/#join-section"
+},
+{
+"text": "Meet Tim",
+"href": "https://beardenforgeorgia.com/#meet-tim"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/tim-bearden-for-georgia/supporttimbearden"
+},
+{
+"text": "Privacy Policy",
+"href": "https://beardenforgeorgia.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Republican Tim Bearden for Georgia State Senate]",
+"href": "https://beardenforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://beardenforgeorgia.com/wp-content/uploads/2025/04/BEART-0009-SS30-GA-DSN-Legislative-Recap-PDF-2.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/timbeardenforgeorgia/"
+}
 ]

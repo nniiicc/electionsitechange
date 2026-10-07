@@ -1,6 +1,4 @@
-FOR VA-07
-Meet EUGENE
-A Story Only Possible in America.
+Skip to content Donate to Eugene Vindman for Congress Donate TO STAND WITH VINDMAN for Congress If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount About Issues Endorsements News Vote Shop Take Action About Issues Endorsements News Vote Shop Take Action Facebook X-twitter Youtube Instagram Threads Donate Donate Donate Donate FOR VA-07 Meet EUGENE A Story Only Possible in America.
 Eugene Vindman was born in Soviet Ukraine to a Jewish family during the height of the Cold War.
 When he was three years old, his mother died of cancer and his father Semyon fled from the bigoted, authoritarian regime with Eugene, his twin brother Alex, their older brother Len, and their Grandmother.
 Eugene’s family arrived in New York City as refugees on Christmas Eve, 1979 with just $759 to their name, but with a deep faith in the American dream.
@@ -28,3 +26,20 @@ Now, Eugene has a new mission.
 He is running for reelection to continue his service to others and defend our American values.
 Eugene is ready to stand up to attacks from MAGA Republicans on our most fundamental rights – from a woman’s right to access abortion care, a student’s right to learn in a safe, high quality public school, a worker’s ability to enter the middle class, or a voter’s right to make their voice heard.
 In Congress, Eugene will be an advocate for every community in the 7th district, bringing folks together around our shared values, and leading with integrity to make sure every voter can trust that he is fighting for them.
+DONATE NOW AND STAND WITH EUGENE VINDMAN $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+JOIN THE TEAM Email Address Zip Code Phone .
+By submitting your mobile phone number you are agreeing to receive periodic text messages from Vindman for Congress.
+Messages include donation asks.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Terms and privacy policy.
+Donate Donate Home About Issues Endorsements News Vote Shop Take Action Donate by Mail: Please make checks payable to Vindman for Congress 4222 Fortuna Center Plz, Ste 664 Dumfries, VA 22025 [email protected] Privacy Policy Accessibility Terms of Service Contact Press Inquiry Paid for by Vindman for Congress Eugene Vindman is a former member of the United States Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense or any branch of U.S. government.
+Powered By Apollo About Issues Endorsements News Vote Shop Take Action Donate Donate Facebook X-twitter Youtube Instagram Threads Father.
+Husband.
+Iraq War Veteran.
+If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount...
+Continue to Website Donate NOW If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount...
+Other Amount...

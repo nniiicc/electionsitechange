@@ -1,2 +1,6 @@
-The Washington State House of Representatives has passed a pair of bills that will help National Guard family members get workforce or college education and help non-profits serve veterans with disabilities.
-House passes Leavitt bills to support National Guard families and veterans with disabilities
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery News Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact Washington State House Democrats House passes Leavitt bills to support National Guard families and veterans with disabilities February 15, 2024 The Washington State House of Representatives has passed a pair of bills that will help National Guard family members get workforce or college education and help non-profits serve veterans with disabilities.
+Related reading on marileavitt.com More on National Guard and military family legislation: Rep.
+Leavitt says we can do better for our soldiers, veterans and… More on National Guard and military family legislation: Rep.
+Leavitt Appointed to Serve on NCSL Task Force on Military and… More on National Guard and military family legislation: Leavitt bills to support military families and veterans headed to… More on National Guard and military family legislation: Proposed state legislation could provide Guardsmen equal pay… For official reference, see Washington Military Department and Rep.
+Mari Leavitt’s official legislative profile .
+Read More « Previous: Leavitt’s Lucas Petty Act passes the House unanimously » Next: Leavitt bills to support military families and veterans headed to the Governor’s desk.

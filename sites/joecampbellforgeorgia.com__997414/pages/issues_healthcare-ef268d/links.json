@@ -1,12 +1,58 @@
 [
-"https://facebook.com/joecampbellforgeorgia",
-"https://joecampbellforgeorgia.com/",
-"https://joecampbellforgeorgia.com/about-joe",
-"https://joecampbellforgeorgia.com/issues",
-"https://joecampbellforgeorgia.com/issues/economy",
-"https://joecampbellforgeorgia.com/issues/healthcare",
-"https://joecampbellforgeorgia.com/issues/immigration",
-"https://joecampbellforgeorgia.com/joe-campbell-announces-campaign-for-ga-state-house-district-171",
-"https://joecampbellforgeorgia.com/join-the-team",
-"https://secure.anedot.com/joe-campbell-for-state-house/donate"
+{
+"text": "About Joe",
+"href": "https://joecampbellforgeorgia.com/about-joe/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joe-campbell-for-state-house/donate"
+},
+{
+"text": "Economy",
+"href": "https://joecampbellforgeorgia.com/issues/economy/"
+},
+{
+"text": "Healthcare",
+"href": "https://joecampbellforgeorgia.com/issues/healthcare/"
+},
+{
+"text": "Immigration",
+"href": "https://joecampbellforgeorgia.com/issues/immigration/"
+},
+{
+"text": "Issues",
+"href": "https://joecampbellforgeorgia.com/issues/"
+},
+{
+"text": "Joe Campbell",
+"href": "https://joecampbellforgeorgia.com/"
+},
+{
+"text": "Joe Campbell Announces Campaign for GA State House, District 171",
+"href": "https://joecampbellforgeorgia.com/joe-campbell-announces-campaign-for-ga-state-house-district-171/"
+},
+{
+"text": "Joe@JoeCampbellForGeorgia.com",
+"href": "mailto:joe@joecampbellforgeorgia.com"
+},
+{
+"text": "Join the Team",
+"href": "https://joecampbellforgeorgia.com/join-the-team/"
+},
+{
+"text": "X",
+"href": "javascript:void(0)"
+},
+{
+"text": "[image: 191219_JoeCampbell_BrandGuidelines_Logo_plain]",
+"href": "https://joecampbellforgeorgia.com/"
+},
+{
+"text": "[image: Joe Campbell]",
+"href": "https://joecampbellforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joecampbellforgeorgia"
+}
 ]

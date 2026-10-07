@@ -1,4 +1,4 @@
-I couldn’t stay silent.
+Skip to content Rick Olson for State Senate About Rick Volunteer Lawn Sign Issues Contact Us instagram facebook youtube Donate Search… CHIP IN $20 for RICK instagram facebook youtube Donate Rick Olson for State Senate Search… About Rick Volunteer Lawn Sign Issues Contact Us Search… Time to Choose Between Truth or Tribe – Freedom or Autocracy I couldn’t stay silent.
 Can you?
 In September of 2024 I sent out an email to 486 politically connected people in Scott County from both parties.
 The message was that we all had the responsibility to choose between truth or tribe.
@@ -13,34 +13,30 @@ But it is not too late.
 We must all speak out now.
 That is why I am running for MN State Senate.
 Below is what I emailed in September 2024……….
-Rick Olson
-September 18, 2024
-In this year’s elections, we will have the chance to vote for a multi-racial democracy or risk losing our democracy altogether.
+Rick Olson September 18, 2024 In this year’s elections, we will have the chance to vote for a multi-racial democracy or risk losing our democracy altogether.
 We cherish our rights to say what we want, see and hear what we want on whatever media we want, to believe and practice (or not) any religion we want, to go wherever and whenever we want, to love and marry whomever we want, to meet and gather with whomever, whenever and wherever we want.
 But these rights mean nothing unless they can be enforced – by the rule of law.
 I learned back in the 70’s from the JC’s that we were “A nation of laws and not of men.” This means that decisions about these rights are made based on laws, not on the whims of individual authoritarians or even growing pressure groups.
 I can’t stay silent.
 Can you?
-First, for democracies to survive, losers of elections must respect the outcome of free and fair elections – win or lose.
-- 65% of Republicans polled in Iowa just before the caucuses said “yes” to the question “if Trump is convicted, is he fit to be President?”
-- 61% also said “no” when asked if President Joe Biden was legitimately elected President.
-- Again in South Carolina, in the GOP Primary exit poll, when asked the same questions, Trump voters answered similarly.
+Get Involved Today First, for democracies to survive, losers of elections must respect the outcome of free and fair elections – win or lose.
+65% of Republicans polled in Iowa just before the caucuses said “yes” to the question “if Trump is convicted, is he fit to be President?” 61% also said “no” when asked if President Joe Biden was legitimately elected President.
+Again in South Carolina, in the GOP Primary exit poll, when asked the same questions, Trump voters answered similarly.
 I can’t stay silent.
 Can you?
 Second, we must unambiguously reject violence (or the threat of violence) as a means of achieving political goals.
 Trump wants us to be afraid.
 He wants us to be intimidated and has intimidated many politicians who afraid of resisting trump for fear of losing support of the Trump base of the Republican Party and risk destroying their political careers.
-Last week on social media, Trump wrote that if elected he would free people convicted over their role in the Jan. 6 Capitol attack, whom he called “hostages being wrongfully imprisoned.”
-I can’t stay silent.
+Last week on social media, Trump wrote that if elected he would free people convicted over their role in the Jan.
+6 Capitol attack, whom he called “hostages being wrongfully imprisoned.” I can’t stay silent.
 Can you?
-Violence only destroys; it does not build up.
+Get Involved Today Violence only destroys; it does not build up.
 The fear and the intimidation by Hitler and the “brown shirts” fit the same pattern that Hitler used in the 1930’s.
-In fact, MAGA uses the same tactics as the Nazis did in the 1930s:
-- Aim for the heart (appeal to feelings of losing something).
-- Divide (demonize and scapegoat, seduce with nostalgia blaming the loss to “others”).
-- Conquer (muzzle the media, bully the bureaucrats, condemn the courts, put down protesters).
-- Stoke violence.
-- Create an image of a “superman” to cure all ills.
+In fact, MAGA uses the same tactics as the Nazis did in the 1930s: Aim for the heart (appeal to feelings of losing something).
+Divide (demonize and scapegoat, seduce with nostalgia blaming the loss to “others”).
+Conquer (muzzle the media, bully the bureaucrats, condemn the courts, put down protesters).
+Stoke violence.
+Create an image of a “superman” to cure all ills.
 I wonder how many Germans (those who survived) later regretted not speaking out before it was too late.
 What would any of us have done had we been in their shoes and gone against a charismatic demigod supported by the multitude in what seemed to be an inevitability?
 How many of them could see evil as it was occurring?
@@ -61,7 +57,7 @@ Not to speak out is to condone what we see unfolding before our eyes.
 As a Republican since high school and a former elected Republican State Representative in Michigan, I feel it is my duty to our country to “speak out”.
 I can’t stay silent.
 Can you?
-“[Y]ou also had people that were very fine people, on both sides.” Donald Trump said, responding to questions from reporters regarding the violent protests in Charlottesville, Virginia in August 2017.
+Get Involved Today “[Y]ou also had people that were very fine people, on both sides.” Donald Trump said, responding to questions from reporters regarding the violent protests in Charlottesville, Virginia in August 2017.
 From my long experience in the Republican Party, I can concur with that comment, as most of the people I have known in the party are and have been good people.
 Most people do not like change.
 We are accustomed to and feel comfortable with the way things are.
@@ -85,7 +81,8 @@ If Poles under the thumb of murderous Soviet Union can speak out, can’t we?
 If Navalny can speak out against Putin, can’t we?
 Yes, it takes courage to stand up and be counted against what is believed and felt by even many of our friends.
 If you speak out, you may lose “friends” (but not real friends who really know you) but they will likely privately admire you.
-We must choose between “truth” vs.
-“tribe”.
+We must choose between “truth” vs. “tribe”.
 I can’t stay silent.
 Can you?
+Get Involved Today About Rick Voting Locations Volunteer Lawn Sign Privacy Policy Contact Us instagram facebook youtube Prepared and paid for by Olson Senate Committee, P.O.
+Box 15, Prior Lake, MN 55372 © Olson Senate Committee

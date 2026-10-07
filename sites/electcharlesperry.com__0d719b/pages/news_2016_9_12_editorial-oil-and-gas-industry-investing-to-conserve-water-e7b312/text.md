@@ -1,4 +1,5 @@
-Oil and gas production in Texas began on January 10, 1901 when the Lucas No. 1 well spewed mud, oil, and gas more than 100 feet into the air.
+Home About Issues News Take Action Contact Donate Home About Issues News Take Action Contact Donate ELIZABETH CUSTY September 12, 2016 EDITORIAL: Oil and gas industry investing to conserve water ELIZABETH CUSTY September 12, 2016 Oil and gas production in Texas began on January 10, 1901 when the Lucas No.
+1 well spewed mud, oil, and gas more than 100 feet into the air.
 Although capped nine days later, Spindletop changed Texas forever.
 Little did we know that cold winter day near Beaumont would give us the energy resources necessary to power railroads, cars, and other equipment that would, in time, diversify our state's economy from its rural agricultural roots to a modern, urbanized, and industrialized economic behemoth that currently is the world's 10th largest economy.
 Fast forward 80 years and George Mitchell is experimenting with different hydraulic fracturing techniques in the Barnett Shale, trying to identify and perfect a way to economically extract oil and gas from shale rock.
@@ -28,3 +29,15 @@ The responsible and informed use of natural resources by companies using innovat
 The oil and gas industry and Texas have enjoyed a long, productive, and mutually beneficial relationship.
 The industry continues to employ hundreds of thousands of Texans and pay billions in taxes every year by producing millions of barrels of oil and gas a day — all while using less and less water.
 For these reasons, I expect the great relationship between the oil and gas industry and Texas to continue long into the future.
+See full editorial here.
+Newer Post Newsletter: September 2016 Older Post Statement on O'Donnell Ten Commandments Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Get Updates!
+Thank you!
+Back to Top © Copyright # Charles Perry for State Senate.
+All rights reserved.
+NOT CREATED AT STATE EXPENSE.
+Pol.
+Adv.
+Pd. for by Charles Perry Campaign P.O.
+Box 94806 Lubbock, Texas 79493

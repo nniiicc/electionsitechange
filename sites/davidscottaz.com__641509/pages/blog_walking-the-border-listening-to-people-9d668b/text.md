@@ -1,20 +1,18 @@
-I spent several days along the U.S.–Mexico border near Nogales as part of a collaboration between Kino Border Initiative, Amplify Peace, and my church, Central Christian Church.
+Email Us Volunteer Donate Experience Leadership Issues & Approach Why David is Running How to Vote News Experience & Qualifications Leadership & Service Issues & Approach Why David is Running How to Vote News and Press Volunteer Donate Email Us Walking the Border, Listening to People I spent several days along the U.S.–Mexico border near Nogales as part of a collaboration between Kino Border Initiative , Amplify Peace , and my church, Central Christian Church .
 The purpose wasn’t political.
 It wasn’t to defend a party or argue a position.
 It was to listen.
 To walk the land.
 To hear from people whose lives are shaped by the border every day: migrants, ranchers, faith leaders, and Border Patrol agents alike.
 What I found is not a problem that can’t be reduced to easy answers.
-Orientation Without Conclusions
-At Kino Border Initiative, we began with listening and orientation.
+Orientation Without Conclusions At Kino Border Initiative, we began with listening and orientation.
 We learned that many of the people served there have lived in the United States for ten, twenty, sometimes thirty years before being deported.
 Many worked steadily.
 Many raised children who are still in the U.S.
 We heard how policy changes ripple outward: asylum appointments canceled abruptly, people stranded mid-process; individuals showing up for court dates, being detained, and then missing subsequent hearings they were never able to attend, automatically triggering deportation.
 The emphasis wasn’t on fixing people.
 It was about humanizing them and accompanying them through uncertainty.
-The Land Speaks First, and Last
-Then we met the desert.
+The Land Speaks First, and Last Then we met the desert.
 Outside Arivaca, Arizona, the land opens in every direction.
 The terrain is rough and uneven, thick with thorny brush and cactus.
 There’s no water.
@@ -33,10 +31,7 @@ You start to understand how a simple injury out here (a blister, a twisted ankle
 Migrants don’t arrive at hospitals when they make it through.
 They disappear quietly, trying to heal however they can, because visibility itself can be dangerous.
 That’s when the language we usually use — flows, encounters, numbers — stops making sense.
-There’s a quote from Pope Francis that I learned on this trip:
-“This crisis which can be measured in numbers and statistics, we want instead to measure with names, stories, and families.”
-Borderlands and Ranch Life
-From there, we traveled to the town of Arivaca where ranchers and residents live with realities most Americans never encounter.
+There’s a quote from Pope Francis that I learned on this trip: “This crisis which can be measured in numbers and statistics, we want instead to measure with names, stories, and families.” Borderlands and Ranch Life From there, we traveled to the town of Arivaca where ranchers and residents live with realities most Americans never encounter.
 After Sunday mass, we shared a meal with them.
 We spoke with multi-generation ranching families whose land runs directly along the border.
 Miles of fence, gaps where infrastructure ends, motion-sensor cameras quietly logging movement day and night.
@@ -49,9 +44,8 @@ They spoke of the abuses that women face on the journey.
 They were clear about wanting a secure border.
 They were also clear about being deeply uneasy with enforcement actions far from the border.
 Actions they believe damage trust in cities and neighborhoods in ways that take decades to repair.
-Over and over again, I heard the same word: Complicated.
-Walking With People in Nogales, Mexico
-Crossing into Nogales, Mexico, the border wall dominates the landscape.
+Over and over again, I heard the same word: Complicated .
+Walking With People in Nogales, Mexico Crossing into Nogales, Mexico, the border wall dominates the landscape.
 On the U.S. side: razor wire, patrol vehicles, constant surveillance.
 On the Mexican side: homes pressed up against steel, neighborhoods shaped by proximity to the line.
 At the Kino shelter, we shared meals and conversations with people who had been deported.
@@ -87,8 +81,7 @@ They were joyful.
 Curious.
 Laughing.
 It made me wonder what we trade away in our pursuit of comfort and control, and what it costs to the people we exclude.
-Inside the System With Border Patrol
-On the final day, we spent time with Border Patrol.
+Inside the System With Border Patrol On the final day, we spent time with Border Patrol.
 A senior agent walked us through their facility and spoke candidly about the realities of the job.
 The Nogales sector is hundreds of agents short.
 With retirements coming, staffing gaps are expected to grow.
@@ -106,10 +99,8 @@ He was clear.
 Those resources matter, because this job carries things home with you whether you want it to or not.
 He also told us his parents immigrated from Mexico when he was a boy.
 He spoke about wanting to do his job well, protect people, and still return home safely to his family each night.
-What stayed with me was how often I heard the same concern from migrants, ranchers, and agents alike:
-The system rewards the wrong things.
-How Language Shapes Outcomes
-There’s another layer to this that matters deeply.
+What stayed with me was how often I heard the same concern from migrants, ranchers, and agents alike: The system rewards the wrong things.
+How Language Shapes Outcomes There’s another layer to this that matters deeply.
 I still hear people in top leadership positions claim that undocumented immigrants vote in U.S. elections and that they threaten democracy itself.
 There’s no evidence that’s true.
 Undocumented people do not vote in any meaningful or coordinated way.
@@ -121,12 +112,17 @@ It begins upstream in language that isn’t honest and then flows into policy, e
 When we dehumanize others, we also dehumanize ourselves.
 The people I met aren’t stealing elections.
 They’re navigating systems that rarely see them as people.
-Holding Two Truths at the Same Time
-Here’s what I’m taking home.
+Holding Two Truths at the Same Time Here’s what I’m taking home.
 A secure border matters.
 Humane treatment matters.
 Ranchers, migrants, Border Patrol agents, and communities on both sides are all caught inside a reality shaped by income inequality between the USA and other nations, drug demand, labor demand, the flow of guns into Mexico, and systems that prioritize metrics over humane outcomes.
 I don’t have all the answers, probably just more questions.
-But after walking this land and listening carefully, I’m convinced of this:
-If we keep measuring this crisis only in numbers, we’ll keep missing what it’s actually doing to people.
+But after walking this land and listening carefully, I’m convinced of this: If we keep measuring this crisis only in numbers, we’ll keep missing what it’s actually doing to people.
 And if we can’t see people clearly — with their names, stories, and families — we shouldn’t be surprised when cruelty starts to feel normal.
+Memorial in the desert to an unknown person who died at this spot.
+Comedor – where Kino Border Initiative serves meals Views of Nogales, Sonora, Mexico Views of Nogales, Sonora, Mexico Views of Nogales, Sonora, Mexico Left to right: Joizeth, Tyler, David, Íñigo, Kaylin, Alan and DJ LinkedIn Facebook Instagram TikTok X Email Us © David Scott for LD10 Thank you for Putting David Scott on the Ballot David has submitted his petition signatures.
+Thank you so much for providing your support.
+Get Involved This campaign is built by people who believe District 10 deserves thoughtful, responsible representation.
+Volunteers help in many ways, including: Canvassing and voter outreach Phone and text support Hosting small community gatherings Helping at events Supporting behind-the-scenes campaign work Volunteer Support an Independent Campaign in District 10 David Scott is not backed by a party machine.
+Contributions help fund ballot access, voter outreach, and community engagement across District 10.
+Donate Menu

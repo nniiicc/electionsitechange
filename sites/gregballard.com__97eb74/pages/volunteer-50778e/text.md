@@ -1,2 +1,2 @@
-Volunteer to Help Elect Greg Ballard Secretary of State
-Complete the form below and someone from our team will reach out to you soon!
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Volunteer to Help Elect Greg Ballard Secretary of State Complete the form below and someone from our team will reach out to you soon!
+ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

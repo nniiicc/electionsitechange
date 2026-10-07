@@ -1,4 +1,5 @@
-| For sixteen years, North Carolina Republicans have held power not because voters freely chose them district by district, but because they drew political maps designed to guarantee their own control.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+North Carolina Is Living Under One-Party Authoritarian Rule 7/28/2026 0 Comments For sixteen years, North Carolina Republicans have held power not because voters freely chose them district by district, but because they drew political maps designed to guarantee their own control.
 They gerrymandered districts.
 They stacked the courts.
 They built a legislature that answers to itself instead of the people it claims to represent.
@@ -27,8 +28,13 @@ I join the citizens of House District 76 and people across our state in calling 
 If it reaches Governor Stein's desk, he should veto it without hesitation.
 Sixteen years of one-party rule has not strengthened democracy in North Carolina.
 Republicans have hollowed it out.
-It is time for the people of this state to take their government back.
-Scott Huffman, NC House 76 Candidate | Posts from before 2025 were written during Scott's campaigns for U.S.
+It is time for the people of this state to take their government back. ​Scott Huffman, NC House 76 Candidate 0 Comments Your comment will be posted after it is approved.
+Leave a Reply.
+Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

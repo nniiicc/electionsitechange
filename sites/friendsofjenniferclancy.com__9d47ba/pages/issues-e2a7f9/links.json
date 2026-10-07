@@ -1,32 +1,134 @@
 [
-"http://facebook.com/FriendsOfJenniferClancy",
-"http://instagram.com/friendsofjenniferclancy",
-"https://aclu.org/",
-"https://calendar.google.com/calendar/embed?src=friendsofjenniferclancy%40gmail.com&ctz=America%2FNew_York",
-"https://campaignpartner.com/",
-"https://constitutioncenter.org/the-constitution/constitution-101-course",
-"https://csmd.edu/apply-register/credit/high-school/career-technical-education/st-marys.html",
-"https://eepurl.com/jlXiCs",
-"https://forms.gle/PnxwMfdeh5jj5LQ18",
-"https://forms.gle/r2bAcYZ7Z9jcCmbT6",
-"https://friendsofjenniferclancy.com/",
-"https://friendsofjenniferclancy.com/contribute",
-"https://friendsofjenniferclancy.com/home",
-"https://friendsofjenniferclancy.com/issues",
-"https://friendsofjenniferclancy.com/issues/civil-social-justice",
-"https://friendsofjenniferclancy.com/meet_jennifer",
-"https://friendsofjenniferclancy.com/news",
-"https://friendsofjenniferclancy.com/privacy-policy",
-"https://friendsofjenniferclancy.com/vote",
-"https://insurance.maryland.gov/Consumer/pages/healthinsuranceoptions.aspx",
-"https://labor.maryland.gov/adultliteracy/ged.shtml",
-"https://labor.maryland.gov/county/smd",
-"https://mgaleg.maryland.gov/mgawebsite/members/district",
-"https://secure.actblue.com/donate/jennifer-clancy-1",
-"https://smchd.org/",
-"https://smchd.org/behavioral-health/mental-health/crisis-services",
-"https://smcps.org/offices/fiscal-services/budget-office",
-"https://stmalib.org/",
-"https://stmaryscountymd.gov/es",
-"https://stmaryscountymd.gov/treasurer"
+{
+"text": "COMMUNITY",
+"href": "https://friendsofjenniferclancy.com/issues/civil-social-justice"
+},
+{
+"text": "Calendar",
+"href": "https://calendar.google.com/calendar/embed?src=friendsofjenniferclancy%40gmail.com&ctz=America%2FNew_York"
+},
+{
+"text": "Civil Rights and Social Justice",
+"href": "https://www.aclu.org/"
+},
+{
+"text": "Contribute",
+"href": "https://friendsofjenniferclancy.com/contribute"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jennifer-clancy-1"
+},
+{
+"text": "Elected Leaders",
+"href": "https://mgaleg.maryland.gov/mgawebsite/members/district"
+},
+{
+"text": "Federal",
+"href": "https://constitutioncenter.org/the-constitution/constitution-101-course"
+},
+{
+"text": "GED programming",
+"href": "https://labor.maryland.gov/adultliteracy/ged.shtml"
+},
+{
+"text": "Home",
+"href": "https://friendsofjenniferclancy.com/home"
+},
+{
+"text": "Issues",
+"href": "https://friendsofjenniferclancy.com/issues"
+},
+{
+"text": "Maryland Children's Health Program",
+"href": "https://insurance.maryland.gov/Consumer/pages/healthinsuranceoptions.aspx"
+},
+{
+"text": "Meet Jennifer",
+"href": "https://friendsofjenniferclancy.com/meet_jennifer"
+},
+{
+"text": "News",
+"href": "https://friendsofjenniferclancy.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://friendsofjenniferclancy.com/privacy-policy"
+},
+{
+"text": "Questions for Clancy?",
+"href": "https://forms.gle/PnxwMfdeh5jj5LQ18"
+},
+{
+"text": "Read More",
+"href": "https://friendsofjenniferclancy.com/issues/civil-social-justice"
+},
+{
+"text": "State",
+"href": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://mgaleg.maryland.gov/pubs/LegisLegal/2019-constitution-maryland-us.pdf"
+},
+{
+"text": "Volunteer Newsletter",
+"href": "https://eepurl.com/jlXiCs%09"
+},
+{
+"text": "Voter Information",
+"href": "https://friendsofjenniferclancy.com/vote"
+},
+{
+"text": "YARD SIGN REQUEST",
+"href": "https://forms.gle/r2bAcYZ7Z9jcCmbT6"
+},
+{
+"text": "[image: Jennifer Clancy Maryland State Delegate 29A]",
+"href": "https://friendsofjenniferclancy.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/jennifer-clancy-1"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/FriendsOfJenniferClancy"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/friendsofjenniferclancy"
+},
+{
+"text": "career and technical education",
+"href": "https://www.csmd.edu/apply-register/credit/high-school/career-technical-education/st-marys.html"
+},
+{
+"text": "community mental health",
+"href": "https://smchd.org/behavioral-health/mental-health/crisis-services/"
+},
+{
+"text": "first responder",
+"href": "https://www.stmaryscountymd.gov/es/"
+},
+{
+"text": "informed medical decisions",
+"href": "https://smchd.org/"
+},
+{
+"text": "job readiness training",
+"href": "https://www.labor.maryland.gov/county/smd/"
+},
+{
+"text": "public libraries",
+"href": "https://www.stmalib.org/"
+},
+{
+"text": "public schools",
+"href": "https://www.smcps.org/offices/fiscal-services/budget-office"
+},
+{
+"text": "tax contributions",
+"href": "https://www.stmaryscountymd.gov/treasurer/"
+}
 ]

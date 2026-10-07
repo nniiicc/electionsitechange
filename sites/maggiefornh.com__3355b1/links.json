@@ -1,22 +1,94 @@
 [
-"https://act.maggiefornh.com/survey/volunteer",
-"https://act.maggiefornh.com/survey/yard-signs",
-"https://bsky.app/profile/maggiefornh.com",
-"https://facebook.com/p/Maggie-Goodlander-For-Congress-61559334545230",
-"https://goodlander.actionkit.com/survey/yard-signs",
-"https://instagram.com/MaggieforNH",
-"https://maggiefornh.com/",
-"https://maggiefornh.com/media",
-"https://maggiefornh.com/meet-maggie",
-"https://maggiefornh.com/priorities",
-"https://maggiefornh.com/privacy-policy",
-"https://secure.actblue.com/donate/good_website",
-"https://secure.actblue.com/donate/good_website?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/good_website?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/good_website?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/good_website?amount=6.03&express_lane=true",
-"https://secure.engageraise.com/donate/maggie-goodlander",
-"https://threads.com/@maggiefornh",
-"https://twitter.com/MaggieG603",
-"https://youtube.com/@MaggieGoodlanderforNH"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/good_website?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/good_website?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/good_website?amount=50&express_lane=true"
+},
+{
+"text": "$#.#",
+"href": "https://secure.actblue.com/donate/good_website?amount=6.03&express_lane=true"
+},
+{
+"text": "About Maggie",
+"href": "https://maggiefornh.com/meet-maggie/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/good_website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/good_website?amount=100&express_lane=true"
+},
+{
+"text": "Maggie's Story",
+"href": "https://maggiefornh.com/meet-maggie/"
+},
+{
+"text": "Media",
+"href": "https://maggiefornh.com/media/"
+},
+{
+"text": "Priorities",
+"href": "https://maggiefornh.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://maggiefornh.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://act.maggiefornh.com/survey/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://act.maggiefornh.com/survey/yard-signs/"
+},
+{
+"text": "Yard Signs",
+"href": "https://goodlander.actionkit.com/survey/yard-signs/"
+},
+{
+"text": "[image]",
+"href": "https://maggiefornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maggiefornh.com"
+},
+{
+"text": "[no text]",
+"href": "https://maggiefornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.engageraise.com/donate/maggie-goodlander/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MaggieG603"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Maggie-Goodlander-For-Congress-61559334545230/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MaggieforNH/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@maggiefornh"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaggieGoodlanderforNH"
+}
 ]

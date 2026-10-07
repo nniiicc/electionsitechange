@@ -1,10 +1,50 @@
 [
-"https://baxformo.com/",
-"https://baxformo.com/accessibility-statement",
-"https://baxformo.com/privacy-policy",
-"https://baxformo.com/terms-and-conditions",
-"https://facebook.com/profile.php?id=61585051343965",
-"https://instagram.com/baxformo",
-"https://secure.actblue.com/donate/bax-for-state-house",
-"https://support.wix.com/en/article/creating-a-privacy-policy"
+{
+"text": "ABOUT",
+"href": "https://www.baxformo.com"
+},
+{
+"text": "ACCESSIBILITY STATEMENT",
+"href": "https://www.baxformo.com/accessibility-statement"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bax-for-state-house"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61585051343965"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.baxformo.com"
+},
+{
+"text": "HOME",
+"href": "https://www.baxformo.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/baxformo/"
+},
+{
+"text": "LOGO",
+"href": "https://www.baxformo.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.baxformo.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.baxformo.com/terms-and-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://www.baxformo.com/privacy-policy"
+}
 ]

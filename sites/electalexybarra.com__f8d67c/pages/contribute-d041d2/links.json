@@ -1,9 +1,34 @@
 [
-"https://efundraisingconnections.com/c/AlexYbarra",
-"https://electalexybarra.com/",
-"https://electalexybarra.com/about-me",
-"https://electalexybarra.com/blog",
-"https://electalexybarra.com/contact",
-"https://electalexybarra.com/contribute",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About Me",
+"href": "https://electalexybarra.com/about-me"
+},
+{
+"text": "Blog",
+"href": "https://electalexybarra.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://electalexybarra.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://electalexybarra.com/contribute"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/AlexYbarra"
+},
+{
+"text": "Home",
+"href": "https://electalexybarra.com/"
+},
+{
+"text": "[image: Elect Alex Ybarra]",
+"href": "https://electalexybarra.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

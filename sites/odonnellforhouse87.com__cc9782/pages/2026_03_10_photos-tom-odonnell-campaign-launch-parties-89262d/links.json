@@ -1,7 +1,26 @@
 [
-"https://odonnellforhouse87.com/",
-"https://odonnellforhouse87.com/category/press",
-"https://odonnellforhouse87.com/home",
-"https://odonnellforhouse87.com/privacy-policy",
-"https://secure.actblue.com/donate/tom-for-website"
+{
+"text": "Contact Tom! info@odonnellforhouse87.com 641-630-3757",
+"href": "mailto:info@odonnellforhouse87.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tom-for-website"
+},
+{
+"text": "HOME",
+"href": "https://odonnellforhouse87.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://odonnellforhouse87.com/privacy-policy"
+},
+{
+"text": "Press",
+"href": "https://odonnellforhouse87.com/category/press/"
+},
+{
+"text": "[image]",
+"href": "https://odonnellforhouse87.com/home"
+}
 ]

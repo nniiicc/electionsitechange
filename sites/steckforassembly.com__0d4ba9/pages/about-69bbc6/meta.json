@@ -1,13 +1,19 @@
 {
  "description": "",
  "final_url": "https://steckforassembly.com/about",
- "paid_for_by": null,
+ "fingerprint": "6a79169b8c7a677fa8d4eda1f8344bc2aba84f68",
+ "format": 3,
+ "paid_for_by": "authorized by Steck for Assembly 2026",
  "title": "About - Phil Steck for Assembly",
  "years_mentioned": [
+  "1999",
+  "2007",
+  "2008",
   "2012",
   "2013",
   "2016",
   "2020",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

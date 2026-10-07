@@ -1,3 +1,6 @@
+Meet John The Issues ISSUES Education The Economy Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Economic Justice Climate Change Healthcare Get Involved Contribute Volunteer Learn More Accomplishments Testimonials Endorsements News Testimonials Endorsements Volunteer Contribute Volunteer Contribute  Back to News Published on February 26, 2022 It’s time to restore the gun ban at the Minnesota State Capitol The sight of people flaunting assault rifles is becoming commonplace at political rallies of Trump supporters and right-wing causes.
+During the past year, Michigan, Oregon, Kentucky and Idaho all had incidents where people, armed to the teeth and dressed for combat, walked into their state Capitols to threaten public officials.
+These incidents made national news because the brazen intimidation was so shocking.
 Originally appeared in the Star Tribune March 17th, 2021.
 The sight of people flaunting assault rifles is becoming commonplace at political rallies of Trump supporters and right-wing causes.
 During the past year, Michigan, Oregon, Kentucky and Idaho all had incidents where people, armed to the teeth and dressed for combat, walked into their state Capitols to threaten public officials.
@@ -7,9 +10,9 @@ Fifty years ago, it wasn’t this way.
 In 1967, when the Black Panthers walked into the California state Capitol heavily armed, there was strong bipartisan support for prohibiting the carrying of loaded firearms.
 Then-Gov.
 Ronald Reagan and even the NRA supported the Mulford Act, which sharply restricted the carrying of guns, not just in the California Capitol, but elsewhere.
-Reagan said there is “no reason why on the street today a citizen should be carrying loaded weapons.”
-Now however, when it is largely white conservatives who are taking guns to Capitols, the NRA and the Republican Party seem to consider it perfectly appropriate for their allies to use guns to intimidate political opponents.
-Security at the Minnesota Capitol has increased significantly, especially in the months since the election and the Jan. 6 insurrection at the Capitol in Washington.
+Reagan said there is “no reason why on the street today a citizen should be carrying loaded weapons.” Now however, when it is largely white conservatives who are taking guns to Capitols, the NRA and the Republican Party seem to consider it perfectly appropriate for their allies to use guns to intimidate political opponents.
+Security at the Minnesota Capitol has increased significantly, especially in the months since the election and the Jan.
+6 insurrection at the Capitol in Washington.
 However, unless we change the law, once COVID restrictions are lifted and the public is allowed back in the Capitol, any Minnesotan with a permit to carry can bring a gun, whether concealed or openly visible, throughout the Minnesota Capitol complex.
 We do not allow people to bring guns into county courthouses, into many big office buildings in the Twin Cities or at Vikings, Wild and Twins games.
 Thirty-two other states require people to walk through a metal detector before entering their Capitol buildings.
@@ -36,4 +39,23 @@ Whether or not they are necessary now, we should prepare and plan for the possib
 But for now, it’s time to treat the Capitol like county courthouses and other places that prohibit guns.
 Public discourse on contentious issues can be done in a rational manner without allowing some to intimidate others.
 Public safety will benefit as well.
-Allowing guns at the Capitol in these divided times is a recipe for disaster.
+Allowing guns at the Capitol in these divided times is a recipe for disaster. ‍ Read More News See All News The Marty Message: Restoring Trust in Government Read the latest newsletter from Senator John Marty.
+Read more  It’s time to restore the gun ban at the Minnesota State Capitol The sight of people flaunting assault rifles is becoming commonplace at political rallies of Trump supporters and right-wing causes.
+During the past year, Michigan, Oregon, Kentucky and Idaho all had incidents where people, armed to the teeth and dressed for combat, walked into their state Capitols to threaten public officials.
+These incidents made national news because the brazen intimidation was so shocking.
+Read more  Catalytic Converter Theft: An Effective Solution Unfortunately Blocked After looking at other states for a solution to the vexing problem of catalytic converter theft and finding no good answers, I worked with experts, victims, law enforcement, and colleagues.
+Read more  The latest from John Follow the campaign Bluesky and Instagram No money from special interests.
+None.
+John’s campaign is powered only by small individual donors and volunteers.
+That means: no special interest money.
+No PAC money.
+No lobbyist money.
+No contributions over $# per person.
+This makes your contribution especially important.
+Contribute By donating, you are confirming the following statements are true and accurate: 1) You are not a foreign national who lacks permanent residence in the United States.
+2) This contribution is made from your own funds, and not those of another.
+3) You are not a registered lobbyist.
+4) This contribution is not made from the funds of a corporation, a labor organization, or a political action committee.
+5) This contribution is made from an account or card for which you have the legal obligation to pay, and is not made using a corporate, business, or another person’s account or card.
+Member of the Minnesota State Senate.
+Menu Home Meet John The Issues Volunteer Contribute Contact The Issues Healthcare The Economy Economic Justice Climate Change Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Education Copyright © # Senator John Marty | Prepared and Paid for by the Senator John Marty Volunteer Committee.

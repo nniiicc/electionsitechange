@@ -1,18 +1,74 @@
 [
-"https://facebook.com/themariapeterson",
-"https://heyvictor.com/",
-"https://instagram.com/themariapeterson",
-"https://mariafor52.com/",
-"https://mariafor52.com/accessibility-statement",
-"https://mariafor52.com/endorsements",
-"https://mariafor52.com/issues",
-"https://mariafor52.com/meet-candidate",
-"https://mariafor52.com/news",
-"https://mariafor52.com/privacy-policy",
-"https://mariafor52.com/terms-of-service",
-"https://mariafor52.com/volunteer",
-"https://mariafor52.com/voting-info",
-"https://mobilize.us/mariafor52",
-"https://secure.actblue.com/donate/mariafor52-website",
-"https://youtube.com/channel/UCtI3GoC9h9jXJdKFXMvzw6Q"
+{
+"text": "Accessibility Statement",
+"href": "https://www.mariafor52.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mariafor52-website?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://www.mariafor52.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/mariafor52/"
+},
+{
+"text": "Home",
+"href": "https://www.mariafor52.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mariafor52.com/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://www.mariafor52.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://www.mariafor52.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mariafor52.com/privacy-policy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.mariafor52.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mariafor52.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.mariafor52.com/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.mariafor52.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/themariapeterson"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/themariapeterson/"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UCtI3GoC9h9jXJdKFXMvzw6Q"
+}
 ]

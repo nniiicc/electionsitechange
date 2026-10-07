@@ -1,35 +1,150 @@
 [
-"http://advanceusa.org/",
-"http://morganforsc.com/donate",
-"https://aacs.org/",
-"https://bgcllc.com/",
-"https://billconnorlaw.com/",
-"https://bju.edu/",
-"https://broadinsights.com/",
-"https://chbctaylors.org/",
-"https://facebook.com/francismariontire",
-"https://fbctaylors.org/",
-"https://fullservicecpa.com/",
-"https://genesislink.com/",
-"https://governor.sc.gov/executive-branch/awards",
-"https://greenvilleyoungrepublicans.com/",
-"https://hiddentreasure.org/",
-"https://justrightautorepair.com/",
-"https://majestymusic.com/",
-"https://morganforsc.com/",
-"https://morganforsc.com/about",
-"https://morganforsc.com/contact-me",
-"https://morganforsc.com/donate",
-"https://morganforsc.com/legislative-update",
-"https://morganforsc.com/positions",
-"https://morganforsc.com/sign-request",
-"https://morningside.org/",
-"https://ngu.edu/",
-"https://palmettofortis.com/team.html",
-"https://piedmontwomenscenter.org/",
-"https://teachthemdiligently.net/",
-"https://tentm.org/",
-"https://thcleanersgreenville.com/",
-"https://thereadinghq.com/",
-"https://wilds.org/"
+{
+"text": "AACS",
+"href": "https://www.aacs.org/"
+},
+{
+"text": "About",
+"href": "https://morganforsc.com/about/"
+},
+{
+"text": "Advance USA",
+"href": "http://advanceusa.org/"
+},
+{
+"text": "Alan Morgan",
+"href": "https://morganforsc.com/"
+},
+{
+"text": "Bill Connor Law",
+"href": "https://www.billconnorlaw.com/"
+},
+{
+"text": "Bob Jones University",
+"href": "https://www.bju.edu/"
+},
+{
+"text": "Bradshaw, Gordon and Clinkscales",
+"href": "https://bgcllc.com/"
+},
+{
+"text": "Broad Insights",
+"href": "https://broadinsights.com/"
+},
+{
+"text": "Colonial Hills Baptist Ch",
+"href": "https://chbctaylors.org/"
+},
+{
+"text": "Contact Me",
+"href": "https://morganforsc.com/contact-me/"
+},
+{
+"text": "Donate",
+"href": "https://morganforsc.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "http://morganforsc.com/donate"
+},
+{
+"text": "Faith Baptist Church",
+"href": "https://www.fbctaylors.org/"
+},
+{
+"text": "Francis Marion Tire & Brake",
+"href": "https://www.facebook.com/francismariontire"
+},
+{
+"text": "Genesis Marketing Group",
+"href": "https://www.genesislink.com/"
+},
+{
+"text": "Greenville Young Republicans",
+"href": "https://www.greenvilleyoungrepublicans.com/"
+},
+{
+"text": "Hidden Treasure Christian School",
+"href": "https://www.hiddentreasure.org/"
+},
+{
+"text": "Home",
+"href": "https://morganforsc.com/"
+},
+{
+"text": "Just Right Auto",
+"href": "https://justrightautorepair.com/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://morganforsc.com/legislative-update/"
+},
+{
+"text": "Majesty Music",
+"href": "https://www.majestymusic.com/"
+},
+{
+"text": "Moore Beauston & Woodham LLP",
+"href": "https://www.fullservicecpa.com/"
+},
+{
+"text": "Morningside Baptist Church",
+"href": "https://morningside.org/"
+},
+{
+"text": "North Greenville University",
+"href": "https://ngu.edu/"
+},
+{
+"text": "Order of the Palmetto",
+"href": "https://governor.sc.gov/executive-branch/awards#:~:text=The%20Order%20of%20the%20Palmetto%20is%20the%20State%20of%20South,the%20Order%20of%20the%20Palmetto."
+},
+{
+"text": "P",
+"href": "https://www.palmettofortis.com/team.html"
+},
+{
+"text": "Palmetto Fortis",
+"href": "https://www.palmettofortis.com/team.html"
+},
+{
+"text": "Piedmont Women’s Center",
+"href": "https://piedmontwomenscenter.org/"
+},
+{
+"text": "Positions",
+"href": "https://morganforsc.com/positions/"
+},
+{
+"text": "Reading HQ",
+"href": "https://www.thereadinghq.com/"
+},
+{
+"text": "Request a Sign",
+"href": "https://morganforsc.com/sign-request/"
+},
+{
+"text": "Teach Them Diligently",
+"href": "https://teachthemdiligently.net/"
+},
+{
+"text": "Tent Makers Intl.",
+"href": "https://www.tentm.org/"
+},
+{
+"text": "The Wilds Christian Camp",
+"href": "https://wilds.org/"
+},
+{
+"text": "Th’Cleaners",
+"href": "https://www.thcleanersgreenville.com/"
+},
+{
+"text": "almetto Fortis",
+"href": "https://www.palmettofortis.com/team.html"
+},
+{
+"text": "urch",
+"href": "https://chbctaylors.org/"
+}
 ]

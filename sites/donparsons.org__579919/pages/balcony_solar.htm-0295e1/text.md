@@ -1,8 +1,4 @@
-| home |
-| Plug-In Photovoltaics (PIPV) Commonly Referred to as: Plug-In Photovoltaics (PIPV) or Balcony Solar |
-| Technical Standards, Public Safety, and House Bill 1304 |
-| A White Paper Prepared by Representative Don Parsons Chairman House Energy, Utilities and Telecommunications Committee Georgia House of Representatives August 2026 Executive Summary |
-| Executive Summary Portable plug-in photovoltaic systems, commonly referred to as “balcony solar”, have become increasingly popular in Europe and are beginning to enter the U.S. market.
+home Plug-In Photovoltaics (PIPV) Commonly Referred to as: Plug-In Photovoltaics (PIPV) or Balcony Solar Technical Standards, Public Safety, and House Bill 1304 A White Paper Prepared by Representative Don Parsons Chairman House Energy, Utilities and Telecommunications Committee Georgia House of Representatives August 2026 Executive Summary Executive Summary Portable plug-in photovoltaic systems, commonly referred to as “balcony solar”, have become increasingly popular in Europe and are beginning to enter the U.S. market.
 These systems typically consist of one or more solar panels connected to a microinverter that plugs into a standard 120-volt household receptacle.
 During the 2026 Session of the Georgia General Assembly, House Bill 1304 proposed exempting certain plug-in solar systems from utility interconnection requirements and prohibiting electric providers from requiring prior approval, interconnection agreements, special meters, or additional fees.
 The purpose of this paper is not to advocate for or against balcony solar technology.
@@ -48,11 +44,16 @@ Nor did the committee dispute that properly certified grid-connected microinvert
 Instead, the committee considered whether Georgia law should exempt an entirely new category of consumer-installed electrical equipment from existing interconnection requirements before nationally recognized certification of complete systems had become available.
 The committee also heard testimony from Georgia Power, Georgia EMC, and municipal electric providers in opposition to the bill and expressing valid concerns regarding worker safety and utility system protection.
 Findings The committee’s review led to several observations: 1.
-Grid-connected photovoltaic systems can operate safely when designed, tested, certified, and installed in accordance with nationally recognized standards. 2.
-UL 1741 provides long-established certification for grid-interactive inverters. 3.
-Complete consumer plug-in photovoltaic systems present issues beyond the inverter alone. 4.
-Product certification applies to the complete assembled product—not merely to one certified component. 5.
-Independent certification helps ensure protection of utility personnel, emergency responders, homeowners, and the electric distribution system. 6.
+Grid-connected photovoltaic systems can operate safely when designed, tested, certified, and installed in accordance with nationally recognized standards.
+2.
+UL 1741 provides long-established certification for grid-interactive inverters.
+3.
+Complete consumer plug-in photovoltaic systems present issues beyond the inverter alone.
+4.
+Product certification applies to the complete assembled product—not merely to one certified component.
+5.
+Independent certification helps ensure protection of utility personnel, emergency responders, homeowners, and the electric distribution system.
+6.
 Legislatures should rely upon demonstrated safety standards before exempting new electrical technologies from existing regulatory requirements.
 Conclusion Balcony solar technology represents an innovative approach to distributed energy generation and may become an increasingly common option for residential consumers.
 As technology matures and nationally recognized standards continue to evolve, legislatures may appropriately revisit existing statutes governing plug-in photovoltaic systems.
@@ -60,12 +61,19 @@ The question before the House Energy, Utilities and Telecommunications Committee
 Rather, it was whether Georgia should remove existing interconnection safeguards before complete consumer plug-in photovoltaic systems had demonstrated compliance with nationally recognized safety standards specifically developed for that product category.
 The committee concluded that additional evidence of complete-system certification was appropriate before changing Georgia law.
 References 1.
-O.C.G.A. § 46-3-64. 2.
-National Electrical Code (NFPA 70). 3.
-National Electrical Safety Code (IEEE C2). 4.
-IEEE Std. 1547-2018, Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces. 5.
-UL 1741, Inverters, Converters, Controllers and Interconnection System Equipment for use with Distributed Energy Resources. 6.
-UL 3700, Photovoltaic Plug-in Equipment. 7.
-Georgia House Energy, Utilities and Telecommunications Committee hearing on House Bill 1304 (2026). 8.
-Testimony of Georgia Power, Georgia EMC, and municipal electric utility representatives before the House Energy, Utilities and Telecommunications Committee (2026). |
-| home |
+O.C.G.A. § 46-3-64.
+2.
+National Electrical Code (NFPA 70).
+3.
+National Electrical Safety Code (IEEE C2).
+4.
+IEEE Std.
+1547-2018, Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces.
+5.
+UL 1741, Inverters, Converters, Controllers and Interconnection System Equipment for use with Distributed Energy Resources.
+6.
+UL 3700, Photovoltaic Plug-in Equipment.
+7.
+Georgia House Energy, Utilities and Telecommunications Committee hearing on House Bill 1304 (2026).
+8.
+Testimony of Georgia Power, Georgia EMC, and municipal electric utility representatives before the House Energy, Utilities and Telecommunications Committee (2026). home

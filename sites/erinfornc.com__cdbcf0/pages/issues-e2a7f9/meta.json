@@ -1,7 +1,9 @@
 {
- "description": "Find out about essential political issues in North Carolina including affordability, healthcare, public safety, and women&#39;s sports. Join Team Par\u00e9!",
+ "description": "Find out about essential political issues in North Carolina including affordability, healthcare, public safety, and women&#39;s sports. Join Team Paré!",
  "final_url": "https://erinfornc.com/issues",
- "paid_for_by": null,
+ "fingerprint": "e891e9435ffbb140dd9f9332431314e4e8f34d67",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ISSUES",
  "years_mentioned": [
   "2026"

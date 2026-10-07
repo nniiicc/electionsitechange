@@ -1,4 +1,5 @@
-As reported by the Newnan Times-Herald: Coweta State Sen.
+Home Meet Matt About Committee Service Sponsored Legislation Issues News Press Kit Newsletter Updates Volunteer Archives Monthly Archives: July 2018 Brass to head up cannabis study committee July 15, 2018 As reported by the Newnan Times-Herald: Coweta State Sen.
 Matt Brass has been named co-chairman of the Joint Study Committee on Low THC Medical Oil Access.
 The committee, created by legislation that Brass, R-Newnan, shepherded through the Georgia Senate, is tasked with identifying ways to give access to medical cannabis oil to Georgians who have state-issued cards allowing them to possess the oil.
-Though the oil has been legal for certain conditions since 2015, there is no legal way for...READ MORE
+Though the oil has been legal for certain conditions since 2015, there is no legal way for...
+READ MORE Archives August 2020 June 2020 October 2019 September 2019 July 2019 April 2019 February 2019 January 2019 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 January 2018 March 2016 Categories Uncategorized Tags candidate District 28 election State Senate Home Meet Matt Issues News Volunteer

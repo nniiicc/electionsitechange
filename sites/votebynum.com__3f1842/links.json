@@ -1,17 +1,98 @@
 [
-"https://facebook.com/votebynum",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/votebynum",
-"https://secure.anedot.com/votebynum/donate",
-"https://votebynum.com/",
-"https://votebynum.com/about-me",
-"https://votebynum.com/contact",
-"https://votebynum.com/donate",
-"https://votebynum.com/m/account",
-"https://votebynum.com/m/create-account",
-"https://votebynum.com/memberships%2Fassociations",
-"https://votebynum.com/platform",
-"https://votebynum.com/privacy-policy",
-"https://votebynum.com/the-gift-of-art",
-"https://x.com/votebynum"
+{
+"text": "About Me",
+"href": "https://votebynum.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://votebynum.com/contact"
+},
+{
+"text": "Create Account",
+"href": "https://votebynum.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/votebynum/donate"
+},
+{
+"text": "Donate",
+"href": "https://votebynum.com/about-me"
+},
+{
+"text": "Donate",
+"href": "https://votebynum.com/donate"
+},
+{
+"text": "Education",
+"href": "https://votebynum.com/platform#ee7248a3-edee-445e-98f3-bb239f4a992d"
+},
+{
+"text": "Energy",
+"href": "https://votebynum.com/platform#ecdccb81-49b7-47d9-a317-969c497d1291"
+},
+{
+"text": "Home",
+"href": "https://votebynum.com/"
+},
+{
+"text": "Housing",
+"href": "https://votebynum.com/platform#ee7248a3-edee-445e-98f3-bb239f4a992d"
+},
+{
+"text": "Memberships/Associations",
+"href": "https://votebynum.com/memberships%2Fassociations"
+},
+{
+"text": "My Account",
+"href": "https://votebynum.com/m/account"
+},
+{
+"text": "PERMANENT FUND & DIVIDEND",
+"href": "https://votebynum.com/platform#1701baf2-4482-4ef3-8fff-3605aee82717"
+},
+{
+"text": "Platform",
+"href": "https://votebynum.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votebynum.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://votebynum.com/m/account"
+},
+{
+"text": "The Gift of Art",
+"href": "https://votebynum.com/the-gift-of-art"
+},
+{
+"text": "Transportation",
+"href": "https://votebynum.com/platform#3dba69a1-434a-4879-828c-328c9e0887f4"
+},
+{
+"text": "[image: VoteBynum]",
+"href": "https://votebynum.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votebynum"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebynum"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/votebynum"
+},
+{
+"text": "seniors",
+"href": "https://votebynum.com/platform#c32d047f-4c39-4a4b-8e55-093f8ccda636"
+}
 ]

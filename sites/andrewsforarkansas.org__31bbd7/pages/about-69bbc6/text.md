@@ -1,39 +1,6 @@
-Meet Jim Andrews
-Jim Andrews Summary
-FAMILY
-- Amanda - wife
-- James, Sierra, Fisher, and Lauren - children
-EDUCATION
-- Smackover High School
-- Southern Arkansas University - BBA
-- Baylor University - MBA
-- Southern Methodist University - JD in Law
-MILITARY SERVICE
-- U.S.
-Navy Reserve, LT Commander
-PROFESSIONAL CAREER
-- Deltic Timber - Corporate Attorney
-- Vice President of Law, Land and Safety,
-- General Counsel and Corporate Secretary
-- Arkansas Department of Parks, Heritage and Tourism (ADPHT) General Counsel
-- Former Circuit Court Judge 13th Judicial District
-COMMUNITY SERVICE & AFFILIATIONS
-- Arkansas Economic Development Council
-- Center for Arkansas Legal Services
-- Southern Arkansas University Foundation
-- Southern Arkansas University Alumni Association
-- DeSoto Area Council, Boy Scouts of America
-- Arkansas State Police Foundation
-- Economics Arkansas
-- Southern Arkansas University College of Business Advisory Council
-- South Arkansas Historical Preservation Society
-- Union County Industrial Board
-- NRA Lifetime Member
-- Arkansas & Texas Bar Associations
-Jim Andrews Biography
-Jim F.
-Andrews, Jr.
-(“Jim”) was born in El Dorado, Arkansas and is the sixth generation of his family to live and work in Union County.
+HOUSE DISTRICT 97 Meet Jim Andrews Platform Get Involved Endorsements Events Donate Meet Jim Andrews Jim Andrews Summary FAMILY Amanda - wife James, Sierra, Fisher, and Lauren - children EDUCATION Smackover High School Southern Arkansas University - BBA Baylor University - MBA Southern Methodist University - JD in Law MILITARY SERVICE U.S.
+Navy Reserve, LT Commander PROFESSIONAL CAREER Deltic Timber - Corporate Attorney Vice President of Law, Land and Safety, General Counsel and Corporate Secretary Arkansas Department of Parks, Heritage and Tourism (ADPHT) General Counsel Former Circuit Court Judge 13th Judicial District COMMUNITY SERVICE & AFFILIATIONS Arkansas Economic Development Council Center for Arkansas Legal Services Southern Arkansas University Foundation Southern Arkansas University Alumni Association DeSoto Area Council, Boy Scouts of America Arkansas State Police Foundation Economics Arkansas Southern Arkansas University College of Business Advisory Council South Arkansas Historical Preservation Society Union County Industrial Board NRA Lifetime Member Arkansas & Texas Bar Associations Jim Andrews Biography Jim F.
+Andrews, Jr. (“Jim”) was born in El Dorado, Arkansas and is the sixth generation of his family to live and work in Union County.
 He grew up in nearby Smackover, Arkansas where he was active in school activities, church, and Boy Scouts.
 He was instilled with traditional small town values of a strong work ethic (farm and oilfield work) and his core values (faith, family, and friends).
 After graduating from Smackover High School, Jim attended Southern Arkansas University (SAU) in Magnolia, Arkansas.
@@ -65,10 +32,4 @@ His current board service includes the Arkansas State Police Foundation, Economi
 With encouragement from his faith, family, and friends, Jim now seeks the Republican nomination for State Representative from Arkansas House District 97 (El Dorado and western Union County), his ancestral home.
 He is fully supported by his loving wife, Amanda Heath Andrews, and their four children James Andrews, III, Sierra Hill, Fisher Hill, and Lauren Andrews.
 Their family proudly calls Immanuel Baptist Church of El Dorado, Arkansas their church home and they enjoy a variety of outdoor activities in their spare time.
-STAY INFORMED
-Sign up for the newsletter.
-CONTACT
-Jim Andrews
-315 East Oak Street, Suite 201
-El Dorado, Arkansas 71730
-(501) 2-GET-JIM / (501-243-8546)
+STAY INFORMED Sign up for the newsletter. /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ CONTACT Jim Andrews 315 East Oak Street, Suite 201 El Dorado, Arkansas 71730 (501) 2-GET-JIM / (501-243-8546) Jim Andrews for Arkansas website by Astonished Man Design

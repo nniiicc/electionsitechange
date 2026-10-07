@@ -1,13 +1,46 @@
 [
-"http://facebook.com/ThomasRossMO",
-"http://twitter.com/ThomasRossMO",
-"https://missourirepublicanassembly.com/",
-"https://secure.winred.com/committee-to-elect-thomas-ross/donate-today",
-"https://thomasrossmo.com/",
-"https://thomasrossmo.com/about-thomas",
-"https://thomasrossmo.com/cart",
-"https://thomasrossmo.com/contact-us",
-"https://thomasrossmo.com/endorsements",
-"https://thomasrossmo.com/our-mission",
-"https://thomasrossmo.com/privacy-policy"
+{
+"text": "0",
+"href": "https://www.thomasrossmo.com/cart"
+},
+{
+"text": "About Thomas",
+"href": "https://www.thomasrossmo.com/about-thomas"
+},
+{
+"text": "Contact Us",
+"href": "https://www.thomasrossmo.com/contact-us"
+},
+{
+"text": "Donations",
+"href": "https://secure.winred.com/committee-to-elect-thomas-ross/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.thomasrossmo.com/endorsements"
+},
+{
+"text": "Home | Missouri Republican Assembly",
+"href": "https://www.missourirepublicanassembly.com/"
+},
+{
+"text": "Our Mission",
+"href": "https://www.thomasrossmo.com/our-mission"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.thomasrossmo.com/privacy-policy"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.thomasrossmo.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ThomasRossMO"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/ThomasRossMO"
+}
 ]

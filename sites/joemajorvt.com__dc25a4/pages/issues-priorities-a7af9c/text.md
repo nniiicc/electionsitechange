@@ -1,65 +1,16 @@
-Issues & Policy Priorities
-Serving Vermont means focusing on the real challenges facing our communities—while protecting the values that make our state unique.
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Issues & Policy Priorities Serving Vermont means focusing on the real challenges facing our communities—while protecting the values that make our state unique.
 As Vice Chair of the Senate Agriculture Committee, Joe Major brings a practical, community-centered approach to policymaking.
 His priorities reflect both what he’s accomplished and where he believes Vermont must go next.
-Housing Affordability & Community Vitality
-Vermont is facing a housing shortage that affects families, workers, and local economies.
+Housing Affordability & Community Vitality Vermont is facing a housing shortage that affects families, workers, and local economies.
 Joe has supported efforts to increase housing supply while maintaining the character of our towns.
-Accomplishments
-- Backed legislation to expand workforce housing and reduce regulatory barriers
-- Supported investments in infrastructure that enable smart growth in village centers
-Priorities:
-- Increase access to affordable and middle-income housing
-- Encourage responsible development while preserving Vermont’s landscape
-- Support local decision-making in planning and zoning
-Agriculture & Rural Economic Development
-Agriculture is central to Vermont’s identity and economy.
+Accomplishments Backed legislation to expand workforce housing and reduce regulatory barriers Supported investments in infrastructure that enable smart growth in village centers Priorities: Increase access to affordable and middle-income housing Encourage responsible development while preserving Vermont’s landscape Support local decision-making in planning and zoning Agriculture & Rural Economic Development Agriculture is central to Vermont’s identity and economy.
 Joe’s leadership on the Senate Agriculture Committee reflects a deep commitment to farmers, foresters, and rural communities.
-Accomplishments:
-- Advocated for funding to support dairy farmers and diversify agricultural markets
-- Supported local food systems and farm-to-school initiatives
-- Helped strengthen programs that protect working lands
-Priorities:
-- Expand economic opportunities for small and mid-sized farms
-- Invest in value-added agriculture and local food production
-- Support forestry, outdoor recreation, and rural small businesses
-Environmental Protection & Climate Action
-Protecting Vermont’s natural resources is essential to our economy, health, and way of life.
+Accomplishments: Advocated for funding to support dairy farmers and diversify agricultural markets Supported local food systems and farm-to-school initiatives Helped strengthen programs that protect working lands Priorities: Expand economic opportunities for small and mid-sized farms Invest in value-added agriculture and local food production Support forestry, outdoor recreation, and rural small businesses Environmental Protection & Climate Action Protecting Vermont’s natural resources is essential to our economy, health, and way of life.
 Joe supports balanced, practical approaches to environmental policy.
-Accomplishments:
-- Supported updates to land use and environmental review processes
-- Backed clean water initiatives and conservation funding
-Priorities:
-- Strengthen environmental protections while allowing thoughtful growth
-- Advance climate resilience strategies for rural communities
-- Ensure policies work for working lands and do not overburden small businesses
-Healthcare Access & Affordability
-Access to quality, affordable healthcare remains a top concern—especially in rural areas.
-Accomplishments:
-- Supported efforts to stabilize rural healthcare providers
-- Backed policies to improve mental health and substance use services
-Priorities:
-- Expand access to primary and preventative care
-- Address workforce shortages in healthcare
-- Lower costs for families and small businesses
-Education & Workforce Development
-Strong schools and training opportunities are key to Vermont’s future.
-Accomplishments:
-- Supported investments in career and technical education
-- Advocated for equitable education funding
-Priorities:
-- Strengthen pathways from education to good-paying jobs
-- Support local schools while ensuring fairness in funding
-- Address workforce shortages through training and retention programs
-Responsible Fiscal Policy
-Vermonters expect careful stewardship of taxpayer dollars.
-Accomplishments:
-- Supported balanced budgets that invest in priorities without overburdening taxpayers
-- Advocated for transparency and accountability in state spending
-Priorities:
-- Maintain fiscal discipline while addressing critical needs
-- Ensure state programs deliver results efficiently
-- Protect affordability for working families and seniors
-Looking Ahead…
-Joe Major’s approach is grounded in listening, collaboration, and practical problem-solving.
+Accomplishments: Supported updates to land use and environmental review processes Backed clean water initiatives and conservation funding Priorities: Strengthen environmental protections while allowing thoughtful growth Advance climate resilience strategies for rural communities Ensure policies work for working lands and do not overburden small businesses Healthcare Access & Affordability Access to quality, affordable healthcare remains a top concern—especially in rural areas.
+Accomplishments: Supported efforts to stabilize rural healthcare providers Backed policies to improve mental health and substance use services Priorities: Expand access to primary and preventative care Address workforce shortages in healthcare Lower costs for families and small businesses Education & Workforce Development Strong schools and training opportunities are key to Vermont’s future.
+Accomplishments: Supported investments in career and technical education Advocated for equitable education funding Priorities: Strengthen pathways from education to good-paying jobs Support local schools while ensuring fairness in funding Address workforce shortages through training and retention programs Responsible Fiscal Policy Vermonters expect careful stewardship of taxpayer dollars.
+Accomplishments: Supported balanced budgets that invest in priorities without overburdening taxpayers Advocated for transparency and accountability in state spending Priorities: Maintain fiscal discipline while addressing critical needs Ensure state programs deliver results efficiently Protect affordability for working families and seniors Looking Ahead… Joe Major’s approach is grounded in listening, collaboration, and practical problem-solving.
 As Vermont continues to face challenges—from housing to climate to economic opportunity—he remains focused on solutions that strengthen communities and preserve what makes Vermont special.
+Joe Major for Windsor County Senate Donate Today!
+Actblue.com

@@ -1,38 +1,150 @@
 [
-"http://bellinghamma.org/",
-"http://facebook.com/wix",
-"http://masslandrecords.com/",
-"http://medwayma.org/",
-"http://sec.state.ma.us/ele/eleidx.htm",
-"http://twitter.com/wix",
-"http://uxbridge-ma.gov/",
-"http://uxbridge-ma.gov/Pages/UxbridgeMA_Veterans/index",
-"http://uxbridge-ma.gov/Pages/index",
-"https://bellinghamma.org/veterans-services",
-"https://facebook.com/RepSoter",
-"https://instagram.com/repmikesoter",
-"https://kennedy.house.gov/",
-"https://mass.gov/locations/norfolk-county-district-attorneys-office",
-"https://mass.gov/locations/worcester-county-district-attorneys-office",
-"https://mass.gov/orgs/massachusetts-department-of-environmental-protection",
-"https://mass.gov/orgs/massachusetts-department-of-veterans-services",
-"https://mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
-"https://mass.gov/orgs/office-of-attorney-general-maura-healey",
-"https://mass.gov/orgs/state-ethics-commission",
-"https://mass.gov/topics/masshealth",
-"https://mcgovern.house.gov/",
-"https://medwayma.gov/departments/veterans-services",
-"https://mikesoter.com/",
-"https://mikesoter.com/citationrequest",
-"https://mikesoter.com/constituentservices",
-"https://mikesoter.com/contact",
-"https://mikesoter.com/focus",
-"https://mikesoter.com/meet-mike",
-"https://mikesoter.com/resources",
-"https://millvillema.org/",
-"https://millvillema.org/veterans-agent",
-"https://secure.anedot.com/cte-mike-soter/donate",
-"https://townofblackstone.org/",
-"https://townofblackstone.org/senior-center-council-aging/pages/veterans-agent",
-"https://twitter.com/RepSoter"
+{
+"text": "CITATION REQUEST",
+"href": "https://www.mikesoter.com/citationrequest"
+},
+{
+"text": "CONSTITUENT SERVICES",
+"href": "https://www.mikesoter.com/constituentservices"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mikesoter.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cte-mike-soter/donate"
+},
+{
+"text": "FOCUS",
+"href": "https://www.mikesoter.com/focus"
+},
+{
+"text": "HOME",
+"href": "https://www.mikesoter.com"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.mikesoter.com/meet-mike"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.mikesoter.com/resources"
+},
+{
+"text": "Uxbridge",
+"href": "http://www.uxbridge-ma.gov/Pages/index"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepSoter/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repmikesoter/"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/RepSoter"
+},
+{
+"text": "https://auchincloss.house.gov/",
+"href": "https://kennedy.house.gov/"
+},
+{
+"text": "https://mcgovern.house.gov",
+"href": "https://mcgovern.house.gov/"
+},
+{
+"text": "https://www.mass.gov",
+"href": "https://www.mass.gov/orgs/office-of-attorney-general-maura-healey"
+},
+{
+"text": "https://www.mass.gov",
+"href": "https://www.mass.gov/topics/masshealth"
+},
+{
+"text": "mike@mikesoter.com |",
+"href": "mailto:Mike@mikesoter.com"
+},
+{
+"text": "www.bellinghamma.org",
+"href": "http://www.bellinghamma.org"
+},
+{
+"text": "www.bellinghamma.org",
+"href": "https://www.bellinghamma.org/veterans-services"
+},
+{
+"text": "www.mass.gov",
+"href": "https://www.mass.gov/locations/norfolk-county-district-attorneys-office"
+},
+{
+"text": "www.mass.gov",
+"href": "https://www.mass.gov/locations/worcester-county-district-attorneys-office"
+},
+{
+"text": "www.mass.gov",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection"
+},
+{
+"text": "www.mass.gov",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-veterans-services"
+},
+{
+"text": "www.mass.gov",
+"href": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles"
+},
+{
+"text": "www.mass.gov",
+"href": "https://www.mass.gov/orgs/state-ethics-commission"
+},
+{
+"text": "www.masslandrecords.com",
+"href": "http://www.masslandrecords.com/"
+},
+{
+"text": "www.medwayma.org",
+"href": "http://www.medwayma.org"
+},
+{
+"text": "www.medwayma.org",
+"href": "https://medwayma.gov/departments/veterans-services/"
+},
+{
+"text": "www.millvillema.org",
+"href": "https://www.millvillema.org/"
+},
+{
+"text": "www.millvillema.org",
+"href": "https://www.millvillema.org/veterans-agent"
+},
+{
+"text": "www.sec.state.ma.us",
+"href": "http://www.sec.state.ma.us/ele/eleidx.htm"
+},
+{
+"text": "www.townofblackstone.org",
+"href": "https://www.townofblackstone.org/"
+},
+{
+"text": "www.townofblackstone.org",
+"href": "https://www.townofblackstone.org/senior-center-council-aging/pages/veterans-agent"
+},
+{
+"text": "www.uxbridge-ma.gov",
+"href": "http://www.uxbridge-ma.gov"
+},
+{
+"text": "www.uxbridge-ma.gov",
+"href": "http://www.uxbridge-ma.gov/Pages/UxbridgeMA_Veterans/index"
+}
 ]

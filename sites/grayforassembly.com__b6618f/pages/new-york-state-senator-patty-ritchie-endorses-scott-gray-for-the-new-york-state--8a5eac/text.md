@@ -1,4 +1,4 @@
-Scott Gray has the experience, leadership skills, and dedication necessary to fight for our region as a member of the New York State Legislature.
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate New York State Senator Patty Ritchie Endorses Scott Gray for the New York State Assembly in the River District September 26, 2022 by admin Scott Gray has the experience, leadership skills, and dedication necessary to fight for our region as a member of the New York State Legislature.
 I am pleased to offer my endorsement for his becoming the representative for the 116th Assembly District.
 Throughout my tenure as State Senator, I have worked with Scott on many issues impacting our region, including providing relief to those affected by record high water levels on Lake Ontario and the St.
 Lawrence River.
@@ -8,4 +8,4 @@ During his time on the Board of Legislators, Scott has prioritized keeping taxes
 This type of fiscal responsibility is essential, especially as people struggle due to rising costs and families continue to leave New York State for better opportunities elsewhere.
 Scott Gray has the experience needed to excel as our next Assemblyman and deliver real results for the people of our region.
 On Election Day, I encourage you to join me in casting your vote in support of Scott Gray.
-# # #
+# # # Category: News Previous Post: The National Rifle Association-Political Victory Fund (NRA-PVF)Endorses Scott Gray for New York State Assembly Next Post: IBEW Local 2032 Endorses Scott Gray for New York State Assembly Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

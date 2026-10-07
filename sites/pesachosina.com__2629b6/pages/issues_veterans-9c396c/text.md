@@ -1,22 +1,7 @@
-Supporting our Veterans
-Bringing Services Into the Community
-Geography shouldn’t be a barrier to getting help.
+Skip navigation menu Meet Pesach Issues Endorsements Volunteer Contact Donate Meet Pesach Issues Endorsements Volunteer Contact Donate Lowering Costs Improving Public Safety Fixing Transportation Protecting Seniors & Retirees Supporting Veterans Resiliency & Emergency Preparedness Responsible Housing Fighting Hate Animal Protection Supporting Veterans Bringing Services Into the Community Geography shouldn’t be a barrier to getting help.
 Pesach will fight to bring permanent, in-district veteran services to the 23rd Assembly District, including regular in-person clinics and mobile outreach directly into neighborhoods.
-He will work to:
-- Partner with accredited Veteran Service Officers (VSOs) to provide hands-on support
-- Offer assistance with claims filing, appeals, and documentation
-- Help veterans access healthcare, housing, and other benefits
-Real help should be local, accessible, and easy to navigate.
-Cutting Through the Red Tape
-Too many veterans are stuck dealing with complicated systems and long delays.
-Pesach will:
-- Advocate for better coordination between state, federal, and local agencies
-- Support faster processing of claims and appeals
-- Ensure veterans have clear guidance and support every step of the way
-No veteran should feel like they’re on their own trying to figure it out.
-Expanding Access & Awareness
-Some veterans don’t even realize what they qualify for.
-Pesach will work to:
-- Expand outreach so veterans know what benefits are available
-- Support community-based partnerships to reach underserved veterans
-- Make services more accessible for those facing transportation or technology barriers
+He will work to: Partner with accredited Veteran Service Officers (VSOs) to provide hands-on support Offer assistance with claims filing, appeals, and documentation Help veterans access healthcare, housing, and other benefits Real help should be local, accessible, and easy to navigate.
+Cutting Through the Red Tape Too many veterans are stuck dealing with complicated systems and long delays.
+Pesach will: Advocate for better coordination between state, federal, and local agencies Support faster processing of claims and appeals Ensure veterans have clear guidance and support every step of the way No veteran should feel like they’re on their own trying to figure it out.
+Expanding Access & Awareness Some veterans don’t even realize what they qualify for.
+Pesach will work to: Expand outreach so veterans know what benefits are available Support community-based partnerships to reach underserved veterans Make services more accessible for those facing transportation or technology barriers info@pesachosina.com Powered by RUN! website builder Paid for by Osina for NY You need to enable JavaScript to run this app.

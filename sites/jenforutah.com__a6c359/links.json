@@ -1,18 +1,78 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfT9Ese9g6E9dkl0g13dOjcdvKjYU8WT4kEEc4gPNHHhkoEyg/viewform",
-"https://facebook.com/jenforutah",
-"https://instagram.com/jenforutah",
-"https://jenforutah.com/",
-"https://jenforutah.com/cart",
-"https://jenforutah.com/endorsements",
-"https://jenforutah.com/get-involved",
-"https://jenforutah.com/meet-jen",
-"https://jenforutah.com/priorities",
-"https://jenforutah.com/priorities-1",
-"https://saltlakecounty.gov/clerk/elections/register-to-vote",
-"https://secure.actblue.com/donate/ws-jdp",
-"https://secure.utah.gov/voterreg/login.html?selection=REGISTER",
-"https://twitter.com/jenforutah",
-"https://utahhousedemocrats.utleg.gov/jennifer-dailey-provost",
-"https://votesearch.utah.gov/voter-search/search/search-by-voter/voter-info"
+{
+"text": "0",
+"href": "https://jenforutah.com/cart"
+},
+{
+"text": "Back",
+"href": "https://jenforutah.com/"
+},
+{
+"text": "Click here to register online.",
+"href": "https://secure.utah.gov/voterreg/login.html?selection=REGISTER"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ws-jdp"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jenforutah.com/endorsements"
+},
+{
+"text": "Folder: PRIORITIES",
+"href": "https://jenforutah.com/priorities-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://jenforutah.com/get-involved"
+},
+{
+"text": "IN THE LEGISLATURE",
+"href": "https://www.utahhousedemocrats.utleg.gov/jennifer-dailey-provost"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://jenforutah.com/get-involved"
+},
+{
+"text": "MEET JEN",
+"href": "https://jenforutah.com/meet-jen"
+},
+{
+"text": "PRIORITIES",
+"href": "https://jenforutah.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfT9Ese9g6E9dkl0g13dOjcdvKjYU8WT4kEEc4gPNHHhkoEyg/viewform"
+},
+{
+"text": "[image: Jen for Utah]",
+"href": "https://jenforutah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jenforutah"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jenforutah"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jenforutah/"
+},
+{
+"text": "check your voter registration status here.",
+"href": "https://votesearch.utah.gov/voter-search/search/search-by-voter/voter-info"
+},
+{
+"text": "jen@jenforutah.com",
+"href": "mailto:jen@jenforutah.com"
+},
+{
+"text": "same-day at an Early Voting or Election Day Vote Center",
+"href": "https://www.saltlakecounty.gov/clerk/elections/register-to-vote/#sameday"
+}
 ]

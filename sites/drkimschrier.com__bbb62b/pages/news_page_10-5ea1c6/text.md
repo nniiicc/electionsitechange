@@ -1,32 +1,27 @@
-Planned Parenthood Action Fund Endorses Dr.
-Kim Schrier in WA-08
-Issaquah, WA, June 14, 2018 – Planned Parenthood Action Fund today announced its sole endorsement in Washington’s 8th District race to Dr.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer News: Page 10 Planned Parenthood Action Fund Endorses Dr.
+Kim Schrier in WA-08 Issaquah, WA, June 14, 2018 – Planned Parenthood Action Fund today announced its sole endorsement in Washington’s 8th District race to Dr.
 Kim Schrier.
 Planned ...
-Read more
+Read more SHARE: Trump and GOP Congress One-Two Punch our Healthcare: Where’s Rossi?
 Issaquah, WA, June 8, 2018 – Yesterday was a horrible day for healthcare in the nation’s capital.
 The Trump administration urged a federal judge to ...
-Read more
-“Dr.
+Read more SHARE: American Federation of Teachers (AFT) Washington Endorses Dr.
+Kim Schrier “Dr.
 Schrier is the strongest candidate in the 8th District race, and we are excited to award her our sole endorsement.
 Her work serving families ...
-Read more
-The Washington State Labor Council and its 600 affiliated unions represent 450,000 members in Washington state.
+Read more SHARE: Dr.
+Kim Schrier Endorsed by Washington State Labor Council, AFL-CIO The Washington State Labor Council and its 600 affiliated unions represent 450,000 members in Washington state.
 Issaquah, WA, May 21, 2018—The Washington State Labor Council, ...
-Read more
-From Crosscut: The ‘progressive sisters’ transforming Washington politics Hoping to flip a key swing district Perhaps Emerge Washington’s most high-profile candidate is Kim Schrier, a pediatrician ...
-Read more
-Dr.
+Read more SHARE: Crosscut: The ‘progressive sisters’ transforming Washington politics From Crosscut: The ‘progressive sisters’ transforming Washington politics Hoping to flip a key swing district Perhaps Emerge Washington’s most high-profile candidate is Kim Schrier, a pediatrician ...
+Read more SHARE: Cheddar TV: Pediatrician Running for Congress in Washington Dr.
 Kim Schrier is seeking the Democratic nomination for Congress in Washington’s 8th district, one of the most competitive in the country.
 She’s hoping to ...
-Read more
-During his 2010 Senate race, Rossi appeared to not know what net neutrality was.
+Read more SHARE: Dr.
+Kim Schrier Calls on Rossi to Take Stand on Net Neutrality During his 2010 Senate race, Rossi appeared to not know what net neutrality was.
 Issaquah, WA, May 11, 2018 – During Dino Rossi’s 2010 Senate ...
-Read more
-“I don’t think Congress right now, with its divisiveness, is really representative of our country.” There are 15 doctors currently serving in Congress.
+Read more SHARE: A Plus: If Kim Schrier Is Elected, She’ll Be One Of A Kind In Congress “I don’t think Congress right now, with its divisiveness, is really representative of our country.” There are 15 doctors currently serving in Congress.
 All are ...
-Read more
-From Bloomberg, In the Year of the Woman, These Are the Races to Watch: A Doctor Running for House “Kim Schrier, a pediatrician and first-time ...
-Read more
-New York Times: Tariff Impact Colors a Key House Race in Boeing Country AUBURN, Wash. — President Trump likes to keep negotiating partners on their toes. ...
-Read more
+Read more SHARE: Bloomberg: In the Year of the Woman, These Are the Races to Watch From Bloomberg, In the Year of the Woman, These Are the Races to Watch: A Doctor Running for House “Kim Schrier, a pediatrician and first-time ...
+Read more SHARE: New York Times: Tariff Impact Colors a Key House Race in Boeing Country New York Times: Tariff Impact Colors a Key House Race in Boeing Country AUBURN, Wash. — President Trump likes to keep negotiating partners on their toes. ...
+Read more SHARE: « Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 Next » About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

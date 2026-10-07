@@ -1,12 +1,15 @@
 {
- "description": "Read Lauren Jewett\u2019s plan for infrastructure that works for everyone.",
+ "description": "Read Lauren Jewett’s plan for infrastructure that works for everyone.",
  "final_url": "https://www.laurenjewett.com/issues/infrastructure",
- "paid_for_by": "Paid for by the Committee to Elect Lauren Jewett for Congress \u00a9 Copyright 2026",
+ "fingerprint": "92f00980b224262ffd269d00b1c943c60f6ac375",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #",
  "title": "Infrastructure That Works for Everyone | Lauren Jewett | Lauren Jewett for Congress",
  "years_mentioned": [
   "2017",
   "2022",
   "2023",
-  "2026"
+  "2026",
+  "2032"
  ]
 }

@@ -1,5 +1,4 @@
-Meet Drew Teitelbaum
-Drew Teitelbaum is running for Nevada's Assembly District 2 because he fundamentally believes that advocating for liberty and the American way of life is not optional.
+0 Skip to Content Home About Issues Endorsements Volunteer Donate Open Menu Close Menu Home About Issues Endorsements Volunteer Donate Open Menu Close Menu Home About Issues Endorsements Volunteer Donate Meet Drew Teitelbaum Drew Teitelbaum is running for Nevada's Assembly District 2 because he fundamentally believes that advocating for liberty and the American way of life is not optional.
 A father of two and husband, Drew chose to root his family in Las Vegas in 2021, committed to building a safer and more prosperous community for the next generation.
 Professionally, he brings a diverse background from the worlds of commercial aviation, international development, the federal government, and angel (start up) investing, giving him a unique understanding of the economic challenges and opportunities facing Nevadans.
 Drew’s dedication to public service is rooted in a lifelong respect for different perspectives.
@@ -9,3 +8,4 @@ Drew later joined the 2016 Trump presidential campaign, which led to roles acros
 Throughout his career, Drew has remained committed to practical results, strong governance, and serving the public interest.
 Beyond his professional life, Drew and his wife are proud supporters of newly established women’s athletics programs in parts of West Africa, where the idea of women participating in sports is still emerging.
 Drew is a proud alumnus of Washington and Lee University and is ready to bring his experience and principled leadership to Carson City to fight for the families of District 2.
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) About Issues Volunteer Email: Drew@drewtfornv.com I Phone: (702) 720-5689 Mailing Address: 1930 Village Center Circle, Suite 3-942, Las Vegas, NV 89134 Paid for by Drew Teitelbaum for Nevada

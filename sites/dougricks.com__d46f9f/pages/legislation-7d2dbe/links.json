@@ -1,19 +1,122 @@
 [
-"https://dougricks.com/",
-"https://dougricks.com/about",
-"https://dougricks.com/contact",
-"https://dougricks.com/issues",
-"https://dougricks.com/legislation",
-"https://dougricks.com/news",
-"https://legislature.idaho.gov/sessioninfo/2019/legislation/H0076",
-"https://legislature.idaho.gov/sessioninfo/2019/legislation/H0103",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0345",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0373",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0379",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0384",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0408",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0461",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0486",
-"https://legislature.idaho.gov/sessioninfo/2020/legislation/H0518",
-"https://paypal.com/donate?hosted_button_id=74B2KKSMG3TDQ"
+{
+"text": "About",
+"href": "https://www.dougricks.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.dougricks.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.paypal.com/donate?hosted_button_id=74B2KKSMG3TDQ"
+},
+{
+"text": "H076 - E-Bike Bill",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/legislation/H0076/"
+},
+{
+"text": "H103 - Requires property tax cost disclosure on levy election ballots",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/legislation/H0103/"
+},
+{
+"text": "H345 - Preventing predatory car booting for expired license plates",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0345/"
+},
+{
+"text": "H373 - Prison reform, expands inmate work opportunities in agriculture",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0373/"
+},
+{
+"text": "H379 - Corrects a party affiliation issue for the Idaho Presidential Primary",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0379/"
+},
+{
+"text": "H384 - Wrongful Conviction (Gov. Little vetoed), I will bring back next year",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0384/"
+},
+{
+"text": "H408 - Rexburg, Sugar City, and Iona to receive more sales tax redistribution",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0408/"
+},
+{
+"text": "H461 - Makes a uniform process for landlord/tenant post eviction process",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0461/"
+},
+{
+"text": "H486 - Updated UAS/ drone law for privacy and emergency responders",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0486/"
+},
+{
+"text": "H518 - Puts expiration dates of bonds and levies on property tax statements",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0518/"
+},
+{
+"text": "Home",
+"href": "https://www.dougricks.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dougricks.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://www.dougricks.com/legislation/"
+},
+{
+"text": "News",
+"href": "https://www.dougricks.com/news/"
+},
+{
+"text": "[image: logoSmall][image: logoSmall]",
+"href": "https://dougricks.com"
+},
+{
+"text": "[image][image]",
+"href": "https://www.dougricks.com/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/legislation/H0076/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2019/legislation/H0103/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0345/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0373/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0379/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0384/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0408/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0461/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0486/"
+},
+{
+"text": "[no text]",
+"href": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0518/"
+},
+{
+"text": "ricksford34@gmail.com",
+"href": "mailto:ricksford34@gmail.com"
+}
 ]

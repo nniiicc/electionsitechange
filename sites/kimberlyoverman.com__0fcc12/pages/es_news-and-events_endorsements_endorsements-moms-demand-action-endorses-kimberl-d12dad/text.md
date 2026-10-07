@@ -1,28 +1,16 @@
-Kimberly Overman: «
-» para el Congreso
-Distrito 12 de Florida
-Recomendación
-Inicio » Noticias y eventos » Respaldos » Respaldos: «Moms Demand Action» respalda a Kimberly Overman
-Un candidato a favor del uso responsable de las armas en 2026
-Reconocido por Moms Demand Action
-Kimberly Overman ha sido nombrada «candidata de Moms Demand Action Gun Sense» para 2026, una distinción reservada a los candidatos que defienden la prevención de la violencia con armas de fuego y se comprometen a gobernar teniendo en cuenta la seguridad en el uso de las mismas.
+Ir al contenido Ir al contenido Ir al pie de página Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Facebook LinkedIn X-Twitter Voluntario Colabora Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Kimberly Overman: « » para el Congreso Distrito 12 de Florida Recomendación Inicio » Noticias y eventos » Respaldos » Respaldos: «Moms Demand Action» respalda a Kimberly Overman Un candidato a favor del uso responsable de las armas en 2026 Reconocido por Moms Demand Action Kimberly Overman ha sido nombrada «candidata de Moms Demand Action Gun Sense» para 2026 , una distinción reservada a los candidatos que defienden la prevención de la violencia con armas de fuego y se comprometen a gobernar teniendo en cuenta la seguridad en el uso de las mismas.
 Moms Demand Action es el mayor movimiento de base del país que trabaja para poner fin a la violencia con armas de fuego, movilizando a padres, estudiantes, supervivientes y vecinos de todos los estados para exigir reformas basadas en el sentido común.
 Garantizar la seguridad de las familias y las comunidades es uno de los valores fundamentales de la campaña de Kimberly.
 Ella cree que podemos proteger los derechos de los propietarios responsables de armas y, al mismo tiempo, impulsar las medidas de sentido común que cuenta con el apoyo de una amplia mayoría de estadounidenses.
 Eso significa escuchar a los padres, los estudiantes y los supervivientes de todo el 12.º distrito congresional de Florida que luchan por poner fin a la violencia armada, y hacer llegar sus voces a Washington.
 La distinción «Gun Sense Candidate» transmite a los votantes, voluntarios y simpatizantes que Kimberly está de su lado en la lucha por unas comunidades más seguras.
 Es una responsabilidad que se toma muy en serio y un compromiso que mantendrá una vez que ocupe el cargo.
-###
-Contacto para los medios de comunicación:
-Overman para el Congreso – Distrito 12 de Florida
-813-720-7719
-4610 N Central Avenue
-Tampa, FL 33603
-Vote@kimberlyoverman.com
-Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+### Contacto para los medios de comunicación: Overman para el Congreso – Distrito 12 de Florida 813-720-7719 4610 N Central Avenue Tampa, FL 33603 Vote@kimberlyoverman.com https://kimberlyoverman.com/ Impulsa una campaña que se nutra de la gente, no de intereses particulares.
 Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
 Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
-Este movimiento comienza
-contigo.
+Colabora Este movimiento comienza contigo.
 Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
 Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.
+Voluntario Mantente informado Distrito 12 de Florida LinkedIn Instagram Enlaces Inicio Te presentamos a Kimberly Temas En las noticias Kimberly en Substack Comunicados de prensa Eventos Contacto Colabora Privacidad Ponte en contacto con nosotros vote@KimberlyOverman.com Overman al Congreso 4610 Central Avenue Tampa, FL 33603-3904 813-720-7719 © #.
+Todos los derechos reservados.
+Financiado por Overman para el Congreso Español English

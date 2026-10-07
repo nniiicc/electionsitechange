@@ -1,16 +1,90 @@
 [
-"https://linkedin.com/in/danica-boyd-hartenfels",
-"https://secure.anedot.com/friends-of-danica/donate",
-"https://votedanica.com/",
-"https://votedanica.com/contact",
-"https://votedanica.com/endorsements",
-"https://votedanica.com/es/get-involved",
-"https://votedanica.com/events",
-"https://votedanica.com/get-involved",
-"https://votedanica.com/he/get-involved",
-"https://votedanica.com/meet-danica",
-"https://votedanica.com/news",
-"https://votedanica.com/pl/get-involved",
-"https://votedanica.com/ru/get-involved",
-"https://votedanica.com/zh/get-involved"
+{
+"text": "Contact",
+"href": "https://www.votedanica.com/contact"
+},
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/friends-of-danica/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-danica/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-of-danica/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedanica.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votedanica.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votedanica.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votedanica.com/"
+},
+{
+"text": "Join Our Online Team",
+"href": "https://www.votedanica.com/contact"
+},
+{
+"text": "Meet Danica",
+"href": "https://www.votedanica.com/meet-danica"
+},
+{
+"text": "News",
+"href": "https://www.votedanica.com/news"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://www.votedanica.com/contact"
+},
+{
+"text": "[image: Danica Hartenfels for State Representative]",
+"href": "https://www.votedanica.com/"
+},
+{
+"text": "[image: Danica Hartenfels for State Representative][image]",
+"href": "https://www.votedanica.com/"
+},
+{
+"text": "[image: English] English en",
+"href": "https://www.votedanica.com/get-involved"
+},
+{
+"text": "[image: Español] Español es",
+"href": "https://www.votedanica.com/es/get-involved"
+},
+{
+"text": "[image: polski] polski pl",
+"href": "https://www.votedanica.com/pl/get-involved"
+},
+{
+"text": "[image: русский] русский ru",
+"href": "https://www.votedanica.com/ru/get-involved"
+},
+{
+"text": "[image: עברית] עברית he",
+"href": "https://www.votedanica.com/he/get-involved"
+},
+{
+"text": "[image: 简体中文] 简体中文 zh",
+"href": "https://www.votedanica.com/zh/get-involved"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/danica-boyd-hartenfels/"
+},
+{
+"text": "[no text]",
+"href": "mailto:danica@votedanica.com"
+}
 ]

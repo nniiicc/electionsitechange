@@ -1,13 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/15x8kHkQnh",
-"https://instagram.com/rah.wyo?igsh=Z2VzcTIwMzM0ZXFr",
-"https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx",
-"https://sweetwatercountywy.gov/departments/county_clerk/become_an_election_judge.php",
-"https://sweetwatercountywy.gov/departments/county_clerk/online_absentee_ballot_request_form.php",
-"https://sweetwatercountywy.gov/departments/county_clerk/voter_registration_information.php",
-"https://wyorah.com/",
-"https://wyorah.com/donate",
-"https://wyorah.com/events",
-"https://wyorah.com/events-copy"
+{
+"text": "Become an Election Judge",
+"href": "https://www.sweetwatercountywy.gov/departments/county_clerk/become_an_election_judge.php"
+},
+{
+"text": "Check Your District",
+"href": "https://www.wyorah.com/events-copy"
+},
+{
+"text": "Donate",
+"href": "https://www.wyorah.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.wyorah.com/events"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.wyorah.com/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.sweetwatercountywy.gov/departments/county_clerk/online_absentee_ballot_request_form.php"
+},
+{
+"text": "Voter Registration Information",
+"href": "https://www.sweetwatercountywy.gov/departments/county_clerk/voter_registration_information.php"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/15x8kHkQnh/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rah.wyo?igsh=Z2VzcTIwMzM0ZXFr"
+}
 ]

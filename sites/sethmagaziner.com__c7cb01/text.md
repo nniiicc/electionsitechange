@@ -1,5 +1,3 @@
-Join Team Seth
-Meet Seth
-Seth ran for Congress to fight for working people and protect the fundamental rights of all Americans, and since day one in office has been hard at work advocating for Rhode Islanders.
+Seth Magaziner Menu Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Join Team Seth Meet Seth Seth ran for Congress to fight for working people and protect the fundamental rights of all Americans, and since day one in office has been hard at work advocating for Rhode Islanders.
 He is fighting to protect Social Security and Medicare, cut costs for working people, make prescription drugs more affordable, protect and expand the Affordable Care Act, enact common-sense gun safety legislation, and defend women’s right to an abortion.
-Learn More
+Learn More Twitter Facebook Instagram Youtube [email protected] PO Box 40993, Providence, RI 02940 Paid for by MAGAZINER FOR CONGRESS PRIVACY POLICY

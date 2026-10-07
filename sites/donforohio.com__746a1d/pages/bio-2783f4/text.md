@@ -1,5 +1,4 @@
-Meet Don Leonard
-I know what it feels like to be standing on the outside of the American Dream looking in.
+0 Skip to Content Home // Meet Don // Meet the District // Our Values // Media // Store // DONATE Open Menu Close Menu Home // Meet Don // Meet the District // Our Values // Media // Store // DONATE Open Menu Close Menu Home // Meet Don // Meet the District // Our Values // Media // Store // DONATE Meet Don Leonard I know what it feels like to be standing on the outside of the American Dream looking in.
 I’m the son of a loving and heroic single mom.
 Growing up, we saw times when all her resourcefulness and hard work wasn’t enough to keep poverty and homelessness at bay.
 This childhood taught me the value of personal responsibility.
@@ -27,4 +26,6 @@ But I will also reach out to fair-minded members of the political opposition fro
 I was raised conservative.
 Today I am a proud Democrat.
 But regardless of what you believe or who you voted for, I will never question your moral character just because we don’t see eye to eye on everything..
-Working with my constituents at home and my colleagues in Washington, I will fight relentlessly for an economy that’s fair, prosperous, and sustainable—so that Buckeyes like my daughter can dare to dream ever bigger dreams.
+Working with my constituents at home and my colleagues in Washington, I will fight relentlessly for an economy that’s fair, prosperous, and sustainable —so that Buckeyes like my daughter can dare to dream ever bigger dreams.
+Let’s do something!
+Donate volunteer paid for by Don Leonard for Ohio P.O Box 28148 | Columbus, Ohio | 43228 For media inquiries or more information contact info@donforohio.com

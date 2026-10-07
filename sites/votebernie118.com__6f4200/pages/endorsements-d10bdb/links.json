@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/bernstory.bsky.social",
-"https://facebook.com/profile.php?id=61588554671231",
-"https://instagram.com/bernieforsc118",
-"https://secure.actblue.com/donate/bernie118web",
-"https://tiktok.com/@bernstory",
-"https://votebernie118.com/",
-"https://votebernie118.com/endorsements",
-"https://votebernie118.com/get-involved",
-"https://votebernie118.com/meet-bernie",
-"https://votebernie118.com/my-why",
-"https://votebernie118.com/platform",
-"https://votebernie118.com/privacy-policy"
+{
+"text": "Bernie Scolaro",
+"href": "https://www.votebernie118.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bernie118web"
+},
+{
+"text": "ENDORSMENTS",
+"href": "https://www.votebernie118.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votebernie118.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votebernie118.com"
+},
+{
+"text": "MEET BERNIE",
+"href": "https://www.votebernie118.com/meet-bernie"
+},
+{
+"text": "MY WHY",
+"href": "https://www.votebernie118.com/my-why"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votebernie118.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebernie118.com/privacy-policy"
+},
+{
+"text": "[image: Bluesky_Logo.svg]",
+"href": "https://bsky.app/profile/bernstory.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588554671231"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bernieforsc118/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@bernstory"
+}
 ]

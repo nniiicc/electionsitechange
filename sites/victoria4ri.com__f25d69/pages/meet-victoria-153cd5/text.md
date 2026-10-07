@@ -1,9 +1,7 @@
-Bringing evidence-based solutions to the challenges we face
-Since January 2023, Victoria has served as State Senator for District 38, which includes Westerly and parts of Charlestown and South Kingstown.
+Skip to content Meet Victoria Town Halls Newsletter News Contact Us 2026 Campaign The Issues Request a Lawn Sign Endorsements Volunteer Meet and Greets Donate Meet Victoria Home Meet Victoria Bringing evidence-based solutions to the challenges we face Since January 2023, Victoria has served as State Senator for District 38, which includes Westerly and parts of Charlestown and South Kingstown.
 Victoria previously served as Chair of Charlestown’s Climate Resiliency Commission, using her leadership skills and professional background in data analysis and modeling to understand the impacts of climate change on our area and how we can leverage local, state, and federal resources to help our community adapt.
 Raised in South Kingstown with a long history of community service, Victoria is committed to listening to and advocating for our community and protecting our environment.
-Dear Neighbor
-My name is Victoria Gu, and I’m running for State Senate here in District 38, which covers Westerly and parts of Charlestown and South Kingstown.
+Dear Neighbor My name is Victoria Gu, and I’m running for State Senate here in District 38, which covers Westerly and parts of Charlestown and South Kingstown.
 I am running to push for thoughtful, evidence-based solutions to the challenges our communities face.
 Because I think it’s important for you to know as much as you possibly can about the people who want to serve in public office, this letter is my way of reaching out to share more about who I am: my story, and how my background and experiences have shaped my values and priorities for our communities and led me to decide to run for office.
 I grew up in South Kingstown and live near the Charlestown/Westerly border now, but my parents originally came from China when they were in their 20’s, so I only caught glimpses of my family’s past through stories.
@@ -47,23 +45,21 @@ I would focus on using evidence to develop informed solutions and track the data
 The COVID-19 pandemic led many people, including me, to leave their small apartments in the city.
 Back in RI, I’ve enjoyed the open space and going out on the water again.
 I found a place on Quonochontaug pond, and I was surprised to find that every house around me is a short-term vacation rental.
-Families, young adults, and seniors in our community are getting squeezed and pushed out by the rising cost of housing.
+Families, young adults, and seniors in our community are getting squeezed and pushed out by the rising cost of housing .
 Our community is special because it is tight-knit: multiple generations of families grow up and live here.
-I will work hard so that everyone with roots here can afford to stay here.
+I will work hard so that everyone with roots here can afford to stay here .
 Another challenge we have in our coastal towns- including Westerly, Charlestown, and South Kingstown- is that we are vulnerable to sea level rise and storms intensified by climate change.
 That’s why I joined the local Climate Resiliency Commission and was honored to be named Chair.
 In the past, I’ve worked on legislation that shifted government food purchases in several key areas, including environmental sustainability.
-I’m ready to take this knowledge and my focus on evidence-based solutions to the state house.
+I’m ready to take this knowledge and my focus on evidence-based solutions to the state house .
 Together, we can protect our natural environment and make sure that our community continues to be a great place to raise a family and retire.
 In the coming weeks, I will be out in our community to meet people, and I would love to learn more about what’s on your mind and your priorities for our community.
 I would be honored to earn your vote in the election on November 3rd, 2026.
-You can reach me at 401-388-0696 or at Sen-Gu@rilegislature.gov.
-Bringing evidence-based solutions to the challenges we face
-Since January 2023, Victoria has served as State Senator for District 38, which includes Westerly and parts of Charlestown and South Kingstown.
+You can reach me at 401-388-0696 or at S en-Gu@rilegislature.gov .
+Bringing evidence-based solutions to the challenges we face Since January 2023, Victoria has served as State Senator for District 38, which includes Westerly and parts of Charlestown and South Kingstown.
 Victoria previously served as Chair of Charlestown’s Climate Resiliency Commission, using her leadership skills and professional background in data analysis and modeling to understand the impacts of climate change on our area and how we can leverage local, state, and federal resources to help our community adapt.
 Raised in South Kingstown with a long history of community service, Victoria is committed to listening to and advocating for our community and protecting our environment.
-Dear Neighbor
-My name is Victoria Gu, and I’m running for State Senate here in District 38, which covers Westerly and parts of Charlestown and South Kingstown.
+Dear Neighbor My name is Victoria Gu, and I’m running for State Senate here in District 38, which covers Westerly and parts of Charlestown and South Kingstown.
 I am running to push for thoughtful, evidence-based solutions to the challenges our communities face.
 Because I think it’s important for you to know as much as you possibly can about the people who want to serve in public office, this letter is my way of reaching out to share more about who I am: my story, and how my background and experiences have shaped my values and priorities for our communities and led me to decide to run for office.
 I grew up in South Kingstown and live near the Charlestown/Westerly border now, but my parents originally came from China when they were in their 20’s, so I only caught glimpses of my family’s past through stories.
@@ -107,14 +103,15 @@ I would focus on using evidence to develop informed solutions and track the data
 The COVID-19 pandemic led many people, including me, to leave their small apartments in the city.
 Back in RI, I’ve enjoyed the open space and going out on the water again.
 I found a place on Quonochontaug pond, and I was surprised to find that every house around me is a short-term vacation rental.
-Families, young adults, and seniors in our community are getting squeezed and pushed out by the rising cost of housing.
+Families, young adults, and seniors in our community are getting squeezed and pushed out by the rising cost of housing .
 Our community is special because it is tight-knit: multiple generations of families grow up and live here.
-I will work hard so that everyone with roots here can afford to stay here.
+I will work hard so that everyone with roots here can afford to stay here .
 Another challenge we have in our coastal towns- including Westerly, Charlestown, and South Kingstown- is that we are vulnerable to sea level rise and storms intensified by climate change.
 That’s why I joined the local Climate Resiliency Commission and was honored to be named Chair.
 In the past, I’ve worked on legislation that shifted government food purchases in several key areas, including environmental sustainability.
-I’m ready to take this knowledge and my focus on evidence-based solutions to the state house.
+I’m ready to take this knowledge and my focus on evidence-based solutions to the state house .
 Together, we can protect our natural environment and make sure that our community continues to be a great place to raise a family and retire.
 In the coming weeks, I will be out in our community to meet people, and I would love to learn more about what’s on your mind and your priorities for our community.
 I would be honored to earn your vote in the election on November 3rd, 2026.
-You can reach me at 401-388-0696 or at Sen-Gu@rilegislature.gov.
+You can reach me at 401-388-0696 or at Sen-Gu@rilegislature.gov .
+Paid for by Friends of Victoria Gu Connect With Us Sen-Gu@rilegislature.gov (401) 388-0696 Westerly, Charlestown, South Kingstown Harnold Theme Developed by Ir-Tech

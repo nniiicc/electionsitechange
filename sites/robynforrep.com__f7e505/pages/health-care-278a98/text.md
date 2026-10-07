@@ -1,10 +1,10 @@
-Health Care
-Robyn’s work on healthcare includes:
-- Chief Co-Sponsorship of the Healthcare Protection Act, eliminating harmful practices such as step therapy and prior authorizations used by insurance companies to delay access to needed treatments.
+Skip to content Home About Issues Resources Contact Donate Main Menu Home About Issues Resources Contact Donate Health Care Robyn’s work on healthcare includes: Chief Co-Sponsorship of the Healthcare Protection Act, eliminating harmful practices such as step therapy and prior authorizations used by insurance companies to delay access to needed treatments.
 This improves transparency of networks and plan offerings and creates a review process to curb unchecked rate increases.
-- Banning the sale of “short-term, limited duration” health insurance policies, also known as “junk insurance.” These plans have high deductibles and fewer benefits that are mandated in other federally regulated plans, such as emergency treatments and coverages on preexisting conditions.
-- Sponsorship of legislation that creates a state-based insurance marketplace, creating expanded access to quality health care services by removing unnecessary barriers, and allowing more Illinoisans than ever before to utilize a health insurance plan that works for them and their family.
-- Passage of the Maternal Health & Birth Equity Initiative, designed to address maternal mortality, reduce racial disparities and improve overall outcomes for women and babies, by funding community-based birth centers and requiring commercial insurance programs to cover midwives, doulas and lactation consultants.
-- Assurance for patients that their prescription drug costs cannot change during their insurance policy period.
-- Expanding insurance requirements to ensure coverage for treatment of serious mental illness and substance abuse disorder.
-- Requiring certain music venues to have opioid antagonists and staff that are properly trained to administer opioid antagonists on the premises during its hours of operation as a music venue.
+Banning the sale of “short-term, limited duration” health insurance policies, also known as “junk insurance.” These plans have high deductibles and fewer benefits that are mandated in other federally regulated plans, such as emergency treatments and coverages on preexisting conditions.
+Sponsorship of legislation that creates a state-based insurance marketplace, creating expanded access to quality health care services by removing unnecessary barriers, and allowing more Illinoisans than ever before to utilize a health insurance plan that works for them and their family.
+Passage of the Maternal Health & Birth Equity Initiative, designed to address maternal mortality, reduce racial disparities and improve overall outcomes for women and babies, by funding community-based birth centers and requiring commercial insurance programs to cover midwives, doulas and lactation consultants.
+Assurance for patients that their prescription drug costs cannot change during their insurance policy period.
+Expanding insurance requirements to ensure coverage for treatment of serious mental illness and substance abuse disorder.
+Requiring certain music venues to have opioid antagonists and staff that are properly trained to administer opioid antagonists on the premises during its hours of operation as a music venue.
+Email: info@robynforrep.com Phone: 773-896-7847 Campaign Office: PO BOX 6453 Evanston, IL 60204-6453 Home About Contact Donate Privacy Policy Copyright © # Robyn Gabel For State Rep Paid for by Friends of Robyn Gabel.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.boyerforhouse.com/news",
- "paid_for_by": null,
+ "fingerprint": "68362e098224f12a5d65410738e0a568d36cde11",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

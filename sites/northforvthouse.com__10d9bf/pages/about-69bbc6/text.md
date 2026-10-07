@@ -1,6 +1,4 @@
-Rob North
-Meet
-I love Vermont, the lifestyle it offers, and the people in it.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Rob North Meet I love Vermont , the lifestyle it offers, and the people in it.
 I have lived in Ferrisburgh for 33 years and retired early from Collins Aerospace in 2020 having held senior leadership positions and traveled the world.
 My wife, Elaine, is a native Vermonter.
 We raised our family of four children here and attend church here.
@@ -22,3 +20,9 @@ Phil Scott a fighting chance to stop things that are bad for Vermonters, and bri
 Under progressive democrat control Vermont has been heading south.
 It’s time again to vote NORTH!
 I CAN, and WILL, and HAVE, pushed back against extreme policies and had SUCCESS in staying focused on what’s important to you.
+Contact Rob donate to the campaign Buy Rob North Merchandise Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

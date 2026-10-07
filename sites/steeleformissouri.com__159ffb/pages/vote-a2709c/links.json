@@ -1,13 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61578231523421",
-"https://instagram.com/steeleformissouri",
-"https://plattecountymovotes.gov/",
-"https://secure.actblue.com/donate/tracey-steele-1",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://steeleformissouri.com/",
-"https://steeleformissouri.com/gallery",
-"https://steeleformissouri.com/rebuilding-missouri",
-"https://vote.org/absentee-ballot",
-"https://voteroutreach.sos.mo.gov/portal"
+{
+"text": "Check if you're registered to vote",
+"href": "https://voteroutreach.sos.mo.gov/portal/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "Home",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "MEDIA GALLERY",
+"href": "https://www.steeleformissouri.com/gallery"
+},
+{
+"text": "Platte County Election Board",
+"href": "https://www.plattecountymovotes.gov/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rebuilding Missouri",
+"href": "https://www.steeleformissouri.com/rebuilding-missouri"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.vote.org/absentee-ballot/"
+},
+{
+"text": "[image: steeleformissouri logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578231523421"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/steeleformissouri"
+},
+{
+"text": "steeleformissouri@gmail.com",
+"href": "mailto:steeleformissouri@gmail.com"
+}
 ]

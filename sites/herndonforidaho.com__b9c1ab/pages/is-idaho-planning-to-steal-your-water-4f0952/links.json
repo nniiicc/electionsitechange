@@ -1,15 +1,58 @@
 [
-"https://facebook.com/ScottHerndonforIdaho",
-"https://herndonforidaho.com/",
-"https://herndonforidaho.com/category/herndons-editorial",
-"https://herndonforidaho.com/contact",
-"https://herndonforidaho.com/donate",
-"https://herndonforidaho.com/my-record",
-"https://herndonforidaho.com/news-2",
-"https://herndonforidaho.com/privacy",
-"https://idwr.idaho.gov/",
-"https://idwr.idaho.gov/wp-content/uploads/sites/2/adjudication/NIA-Brochure.pdf",
-"https://justice.gov/enrd/mccarran-amendment",
-"https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH1/SECT42-111",
-"https://twitter.com/herndonforidaho"
+{
+"text": "Donate",
+"href": "https://herndonforidaho.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ScottHerndonforIdaho/"
+},
+{
+"text": "Here is a link to a two page IDWR adjudication brochure",
+"href": "https://idwr.idaho.gov/wp-content/uploads/sites/2/adjudication/NIA-Brochure.pdf"
+},
+{
+"text": "Herndon's Editorial",
+"href": "https://herndonforidaho.com/category/herndons-editorial/"
+},
+{
+"text": "Home",
+"href": "https://herndonforidaho.com/"
+},
+{
+"text": "My Record",
+"href": "https://herndonforidaho.com/my-record/"
+},
+{
+"text": "News",
+"href": "https://herndonforidaho.com/news-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://herndonforidaho.com/privacy"
+},
+{
+"text": "See section 42-111 of Idaho Code",
+"href": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH1/SECT42-111/"
+},
+{
+"text": "Visit the Idaho Department of Water Resources website",
+"href": "https://idwr.idaho.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://herndonforidaho.com/contact/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/herndonforidaho"
+},
+{
+"text": "[image: Scott Herndon]",
+"href": "https://herndonforidaho.com/"
+},
+{
+"text": "the McCarran Amendment",
+"href": "https://www.justice.gov/enrd/mccarran-amendment"
+}
 ]

@@ -1,5 +1,2 @@
-Mon, Jun 15
-33 Middle School Rd
-You’re Invited!
-Jun 15, 2026, 6:00 PM
-33 Middle School Rd, 33 Middle School Rd, Summerville, GA 30747, USA
+top of page Home Beliefs Events Search Donate Meet the Candidate Mon, Jun 15 | 33 Middle School Rd You’re Invited!
+Registration is closed See other events Time & Location Jun 15, 2026, 6:00 PM 33 Middle School Rd, 33 Middle School Rd, Summerville, GA 30747, USA Share this event Chaney for Georgia Building a Better Future info@chaneyforgeorgia.com Privacy Policy Accessibility Statement © # by Chaney for Georgia Email * Yes, subscribe me to your newsletter. * Submit bottom of page

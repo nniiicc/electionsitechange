@@ -1,11 +1,42 @@
 [
-"https://danpelchat.com/",
-"https://danpelchat.com/about",
-"https://danpelchat.com/contact",
-"https://danpelchat.com/contact/www.linkedin.com/in/dannyp1922",
-"https://danpelchat.com/endorsments",
-"https://danpelchat.com/offerings",
-"https://facebook.com/danpelchatstaterep",
-"https://secure.actblue.com/donate/daniel-pelchat-1",
-"https://x.com/DanPelchat49"
+{
+"text": "Contact",
+"href": "https://danpelchat.com/contact/"
+},
+{
+"text": "Contact us today.",
+"href": "https://danpelchat.com/contact/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/daniel-pelchat-1"
+},
+{
+"text": "Endorsments",
+"href": "https://danpelchat.com/endorsments/"
+},
+{
+"text": "Home",
+"href": "https://danpelchat.com/"
+},
+{
+"text": "Meet Dan",
+"href": "https://danpelchat.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://danpelchat.com/offerings/"
+},
+{
+"text": "[no text]",
+"href": "https://danpelchat.com/contact/www.linkedin.com/in/dannyp1922"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/danpelchatstaterep/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DanPelchat49"
+}
 ]

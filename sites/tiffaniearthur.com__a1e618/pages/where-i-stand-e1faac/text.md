@@ -1,8 +1,7 @@
-Where I Stand
-I'm running for State Representative because I believe our communities deserve thoughtful leadership that listens first and works hard for the people who live here.
+Donate Menu Home Meet Your Candidate Where I Stand Volunteer Follow us Where I Stand I'm running for State Representative because I believe our communities deserve thoughtful leadership that listens first and works hard for the people who live here.
 The issues below reflect the concerns and priorities I hear about every day while talking with neighbors, parents, farmers, and local business owners.
 If elected, I will always approach these issues with one guiding principle: putting people and communities first.
-- Education is Fundamental Education is fundamental.
+Education is Fundamental Education is fundamental.
 Strong public schools build strong communities, strong local economies, and strong futures for our children.
 Across District 63, our schools are more than just places of learning, they are community hubs where students grow, teachers invest in the next generation, and families come together.
 But today, many of our public schools are being asked to do more with less.
@@ -12,23 +11,10 @@ For rural communities like ours, that shift matters.
 When a student uses a voucher, state funding follows that student out of the local public school system.
 For districts in House 63, the average amount tied to each student is roughly $6,000 to $6,600.
 That may not sound like much on it’s own, but when funding leaves small or rural school districts, the impact adds up quickly.
-That can mean fewer resources for:
-- classroom teachers and aides
-- career and technical education programs
-- special education services
-- transportation across large rural districts
-- building maintenance and upgrades
-- extracurricular activities and athletics
-Our rural schools don’t have the large tax bases or enrollment numbers that urban districts rely on.
+That can mean fewer resources for: classroom teachers and aides career and technical education programs special education services transportation across large rural districts building maintenance and upgrades extracurricular activities and athletics Our rural schools don’t have the large tax bases or enrollment numbers that urban districts rely on.
 Even small funding losses can affect staffing, programming, and opportunities for students.
 Why Public Schools Matter in District 63 Public schools are one of the most important institutions in our rural communities.
-They support:
-- local jobs and local economies
-- career and technical education for skilled trades
-- agriculture and STEM programs
-- community events and youth activities
-- opportunities for every child, regardless of income and background
-When public schools are strong, communities thrive.
+They support: local jobs and local economies career and technical education for skilled trades agriculture and STEM programs community events and youth activities opportunities for every child, regardless of income and background When public schools are strong, communities thrive.
 My Education Priorities Fully Fund Public Schools Public schools educate the overwhelming majority of Hoosier Students.
 State funding priorities should reflect that reality.
 I support strengthening funding for public school classrooms and ensuring rural districts receive the resources they need to succeed.
@@ -42,29 +28,17 @@ Putting Students and Communities First Parents should absolutely have choices in
 But those choices should not come at the expense of the schools that educate the vast majority of Indiana’s children.
 We should be investing in the schools that serve our communities every day.
 Because when we support strong public schools, we support strong families, strong towns, and a strong future for District 63.
-- Affordable Housing For All Strong Communities Need Places People Can Afford to Live Affordable housing is essential for healthy communities.
+Affordable Housing For All Strong Communities Need Places People Can Afford to Live Affordable housing is essential for healthy communities.
 When families, seniors, and young workers can afford safe, stable housing, our towns grow stronger.
 Across House District 63, many communities are facing a growing housing challenge.
 Young families struggle to find starter homes, seniors often want to downsize but cannot find smaller options, and local employers sometimes have trouble attracting workers because there simply aren’t enough available homes.
 Housing isn’t just a big-city issue.
 It’s a rural issue too, and one we must address thoughtfully.
 The Housing Challenges in Rural Indiana In many towns across Daviess, Dubois, Martin, and Pike counties, the housing supply has not kept up with demand.
-Several factors contribute to this challenge:
-- Limited new home construction in rural areas
-- Rising building costs and interest rates
-- Older housing stock that needs renovation
-- A shortage of smaller starter homes
-- Limited rental options for young workers and seniors
-When housing is scarce or unaffordable, communities feel the impact.
+Several factors contribute to this challenge: Limited new home construction in rural areas Rising building costs and interest rates Older housing stock that needs renovation A shortage of smaller starter homes Limited rental options for young workers and seniors When housing is scarce or unaffordable, communities feel the impact.
 Local businesses struggle to hire workers, young people move away, and families have fewer options to stay and build their lives here.
 Why Housing Matters for District 63 Affordable housing affects more than just homeowners or renters, it affects the future of our communities.
-When housing is accessible and affordable, it helps:
-- attract and retain local workers
-- support economic development
-- allow young families to stay in their hometowns
-- give seniors the ability to age in place near family
-- strengthen small-town growth
-Communities thrive when people can live where they work and raise their families.
+When housing is accessible and affordable, it helps: attract and retain local workers support economic development allow young families to stay in their hometowns give seniors the ability to age in place near family strengthen small-town growth Communities thrive when people can live where they work and raise their families.
 My Housing Priorities Expand Housing Opportunities in Rural Communities State policies should encourage responsible housing development in rural areas so communities can grow while preserving the character of our towns.
 Support Workforce Housing Workers in healthcare, education, manufacturing, agriculture, and service industries should be able to afford to live in the communities they serve.
 Invest in Revitalizing Existing Homes Many homes in our region are older but full of potential.
@@ -75,7 +49,7 @@ Local leaders understand their towns best and should have the flexibility to dev
 Building the Future of Rural Communities Affordable housing is about more than buildings, it’s about opportunity.
 When we make sure families can afford to live in our communities, we support local schools, strengthen small businesses, and create towns where the next generation can choose to stay and build their future.
 With thoughtful planning and smart investment, we can ensure House District 63 remains a place where people can live, work, and thrive.
-- Affordable and Reliable Energy for Hoosiers Energy costs are a major part of many household budgets, especially in rural communities like those across House District 63.
+Affordable and Reliable Energy for Hoosiers Energy costs are a major part of many household budgets, especially in rural communities like those across House District 63.
 Families are facing higher utility bills, rising fuel costs, increasing pressure on their household finances.
 For many Hoosiers in our region, energy use is not optional, it is a necessity of everyday life.
 Heating and cooling a home, fueling vehicles for long commutes, and powering farms or small businesses requires significant energy use.
@@ -105,7 +79,7 @@ Without proper planning and oversight, those costs can sometimes be passed on to
 As State Representative, I believe economic development should benefit our communities without shifting infrastructure costs onto Hoosier families.
 Large projects should be structured so that the businesses driving the demand are responsible for the energy investments required to support them.
 Responsible planning ensures that new development strengthens local economies while protecting residents from unnecessary increases in their energy costs.
-Support Energy Efficiency and Home Upgrades One of the most effective ways to lower energy costs is to reduce energy waste.
+Support Energy Efficiency and Home Upgrad es One of the most effective ways to lower energy costs is to reduce energy waste.
 Programs that help families improve insulation, upgrade heating and cooling systems, and increase home energy efficiency can significantly lower monthly utility bills.
 These improvements also help older homes remain comfortable and affordable for families and seniors.
 Supporting energy efficiency programs benefits households directly by lowering energy costs while also strengthening long-term energy stability.
@@ -117,30 +91,19 @@ Support Rural Communities and Local Economies Affordable energy helps rural comm
 When energy costs remain stable and predictable, families can better manage their household budgets, businesses can plan for the future, and farmers can continue producing the food and resources our state depends on.
 Lowering energy costs helps families keep more of their hard-earned income while ensuring our communities remain strong and economically competitive.
 As State Representative, I will work to support reliable, transparent, and affordable policies that put Hoosier families first.
-- Supporting Rural Healthcare Healthy Communities Depend on Strong Rural Hospitals Access to quality healthcare should not depend on your ZIP code.
+Supporting Rural Healthcare Healthy Communities Depend on Strong Rural Hospitals Access to quality healthcare should not depend on your ZIP code.
 Across House District 63, rural hospitals and healthcare providers play a critical role in keeping our communities healthy and our local economies strong.
 Hospitals and clinics in communities like Jasper, Petersburg, Shoals, Montgomery, and Washington provide essential care for families while also serving as some of the largest employers in our counties.
 But today, rural healthcare systems are under growing pressure.
 Hospitals in rural Indiana are facing rising costs, workforce shortages, and reimbursement challenges that make it harder every year to maintain services in small communities.
 When rural hospitals struggle, the effects ripple through the entire community.
 Why Rural Healthcare Matters in District 63 Rural hospitals provide more than emergency rooms.
-They are vital community institutions that support:
-- emergency and trauma care
-- maternity and family health services
-- chronic disease management
-- early detection and diagnosis
-- local healthcare jobs and economic stability
-In many rural areas, the nearest alternative hospital may be 30 to 60 minutes away.
+They are vital community institutions that support: emergency and trauma care maternity and family health services chronic disease management early detection and diagnosis local healthcare jobs and economic stability In many rural areas, the nearest alternative hospital may be 30 to 60 minutes away.
 When services disappear locally, patients often delay care or travel long distances for treatment.
 For seniors, families with young children, and individuals managing ongoing health conditions, that can create serious barriers.
 Rural Hospitals Are Economic Anchors Healthcare systems are also major economic drivers in rural communities.
 Hospitals and healthcare providers in District 63 employ hundreds of doctors, nurses, technicians, and support staff, making them some of the largest employers in our region.
-When hospitals are strong, they support:
-- local jobs and workforce stability
-- economic development and new business growth
-- access to healthcare for families and seniors
-- quality of life that helps communities attract new residents
-Protecting rural healthcare isn’t just about health, it’s about protecting the future of our communities.
+When hospitals are strong, they support: local jobs and workforce stability economic development and new business growth access to healthcare for families and seniors quality of life that helps communities attract new residents Protecting rural healthcare isn’t just about health, it’s about protecting the future of our communities.
 My Rural Healthcare Priorities Strengthen Rural Hospitals State policy should support the financial stability of rural hospitals so they can continue providing essential services close to home.
 As a legislator, I will support policies that ensure rural hospitals receive their fair reimbursement through Medicaid and other state programs so they are not forced to reduce services or close departments.
 Many rural hospitals operate on very thin margins, and even small policy changes can have major impacts.
@@ -179,7 +142,7 @@ Putting Rural Communities First Rural communities deserve the same access to qua
 Protecting rural hospitals and healthcare providers means protecting the health of our families, the stability of our local workforce, and the future of our communities.
 As your State Representative, I will work to ensure House District 63 has strong, accessible healthcare close to home.
 Because strong healthcare systems help build stronger, healthier communities.
-- Mid-States Corridor Infrastructure Decisions That Respect Our Communities The proposed Mid-States Corridor Project is one of the most significant infrastructure proposals affecting southwest Indiana in decades.
+Mid-States Corridor Infrastructure Decisions That Respect Our Communities The proposed Mid-States Corridor Project is one of the most significant infrastructure proposals affecting southwest Indiana in decades.
 The project, currently being studied by the Indiana Department of Transportation, would create a new highway connection between I-64 and I-69.
 Infrastructure plays an important role in supporting economic growth, improving transportation safety, and strengthening regional connections.
 At the same time, large projects like this must be carefully evaluated to ensure they truly benefit the communities they affect.
@@ -199,10 +162,9 @@ While infrastructure sometimes requires difficult decisions, projects that displ
 Hoosiers deserve to feel confident that their homes and property will not be taken for projects that do not clearly serve the public interest.
 Responsible Use of Taxpayer Dollars Major infrastructure projects come with major costs.
 The Mid-States Corridor is projected to cost hundreds of millions, and potentially billions, of taxpayer dollars over time.
-Before committing to projects of this scale, we must ask important questions:
-- Will this investment truly deliver long-term economic benefits?
-- Are there more cost-effective transportation improvements available?
-- Are taxpayers receiving real value for the money being spent?
+Before committing to projects of this scale, we must ask important questions: Will this investment truly deliver long-term economic benefits?
+Are there more cost-effective transportation improvements available?
+Are taxpayers receiving real value for the money being spent?
 At a time when families are facing rising costs for housing, healthcare, energy, and everyday necessities, we must be responsible stewards of taxpayer dollars.
 Investing in Smarter Transportation Solutions Improving transportation infrastructure does not always require building entirely new highways through rural communities.
 There may be opportunities to improve safety and efficiency by upgrading existing roadways, improving intersections, strengthening current corridors, and investing in infrastructure that already serves our communities.
@@ -212,3 +174,5 @@ After listening to residents and considering the long-term impact of the Mid-Sta
 Southwest Indiana deserves infrastructure solutions that support our communities while preserving the farms, homes, and landscapes that define our region.
 As your State Representative, I will work to ensure that the voices of local residents, farmers, and community leaders are heard and respected whenever major infrastructure decisions are being considered.
 Good public policy starts with listening to the people it affects most.
+Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Your Candidate Where I Stand Volunteer Donate Follow us Accessibility Statement Terms of Service Contact Paid for by arthur for Indiana Tiffanie Arthur for State House 63 © #

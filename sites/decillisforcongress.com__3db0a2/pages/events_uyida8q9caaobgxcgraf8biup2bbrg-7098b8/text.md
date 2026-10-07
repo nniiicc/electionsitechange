@@ -1,12 +1,5 @@
-Back to All Events
-Mike has been speaking to voters across the district and many parents have asked, "What does the dismantling of the Department of Education mean for our children?
+0 Skip to Content Home About Priorities News Events Endorsements Donate Open Menu Close Menu Home About Priorities News Events Endorsements Donate Open Menu Close Menu Home About Priorities News Events Endorsements Donate Back to All Events Virtual Town Hall: Public Education Tuesday, July 28, 2026 7:00 PM 8:00 PM Google Calendar ICS Mike has been speaking to voters across the district and many parents have asked, "What does the dismantling of the Department of Education mean for our children?
 How will it impact public schools and students that need accommodations made for special education?
 In response to your questions, Mike will be holding a virtual town hall open to residents of Staten Island and South Brooklyn.
 Mike will share his experiences both as a teacher and parent that has had to navigate the challenges around special education.
-Previous
-Previous
-July 17
-African Political Action Committee
-Next
-Next
-August 2
+Previous Previous July 17 African Political Action Committee Next Next August 2 Town Hall: Social Security, Veterans' Affairs & Disability paid for by decillis for congress info@Decillisforcongress.com

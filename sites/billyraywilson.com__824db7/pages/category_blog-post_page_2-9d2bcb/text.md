@@ -1,4 +1,25 @@
-Hebrew Lies
-The blog may be redundant to some but new to others therefore, we must identify the 1974 World Book Encyclopedia’s definition of Semite: A “member of a group that speaks one of the Semitic languages.” The ancient Hebrews, Assyrians, Phoenicians, and Carthaginians were Semites.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Blog Post Hebrew Lies Blog Post / By Billy Ray Wilson The blog may be redundant to some but new to others therefore, we must identify the 1974 World Book Encyclopedia’s definition of Semite: A “member of a group that speaks one of the Semitic languages.” The ancient Hebrews, Assyrians, Phoenicians, and Carthaginians were Semites.
 The Arabs and some Ethiopians are present day Semitic-speaking people.
-Excuse
+Excuse Hebrew Lies Read More » Republic Lost Blog Post / By Billy Ray Wilson Recently, while browsing the Internet, I came across a documentary titled “What if the US broke up in 2026?” Sadly, the documentary is video only without the ability to print the text.
+Believe it or not, this subject has been on my mind much of my lifetime due to my research on how European investors Republic Lost Read More » The Creator, The Gods of Abraham Fraud, Mankind, and Unethical Investors Blog Post / By Billy Ray Wilson The Creator I asked the Internet’s data source to explain the word “Creator” used in the Declaration of Independence and the following was provided: “The word ‘Creator” in the Declaration of Independence is used to refer to a general divine being rather than a specific deity from any one religion.
+The term is integral to The Creator, The Gods of Abraham Fraud, Mankind, and Unethical Investors Read More » Probable Self-Inflicted Injurious Blog, But Mandatory Responsibility Blog Post / By Billy Ray Wilson Individuals, from around the international community came to North America, before the idea of a nation, where all people regardless of race, creed, religion, sex orientation, etc., could live as equals without a mandatory religion, government persecution or whatever the negative factor for their own self-interest however, sadly, foreign governments and, of course, the religion Probable Self-Inflicted Injurious Blog, But Mandatory Responsibility Read More » Thomas Jefferson’s Written Opinion Regarding God Was Correct Blog Post / By Billy Ray Wilson For decades, I have written and published said publications on several different communication platforms without much success but, hopefully, someone will read this blog and go forward with sincere efforts to enlighten the people of the United States that we are a Constitutional Republic, not a theocracy or dictatorship.
+Thomas Jefferson, our third US President, Thomas Jefferson’s Written Opinion Regarding God Was Correct Read More » Response to Ms.
+Teri Anderson’s Article, “President Trump Promised War on U.S.
+Citizens, KY Politicians Stayed Silent” Blog Post / By Billy Ray Wilson First, I was extremely surprised but pleased and excited the Herald-Leader was once again printing articles that effect the U.S.
+Constitution.
+As a native of Laurel County, the Commonwealth of Kentucky, I recall on September 30, 1960, multiple Kentuckians and I, draftees and volunteers, were processed at Louisville, KY Military Entrance Processing Station (MEPS) and Response to Ms.
+Teri Anderson’s Article, “President Trump Promised War on U.S.
+Citizens, KY Politicians Stayed Silent” Read More » No Heaven & No Hell Blog Post / By Billy Ray Wilson Recent news reports have addressed President Trump’s concerns about whether he will go to heaven when he dies.
+No worries, Mr.
+President.
+Hell and heaven are fictional places created by centuries-old scam artists.
+Moreover, the old stories about paying clergy to get someone out of hell or purgatory are also fiction.
+Once you’re dead, you’re No Heaven & No Hell Read More » Seeking Assistance As A Write-In Candidate Blog Post / By Billy Ray Wilson I humbly request assistance in obtaining 400 verified signatures from Kentucky’s 5th US Congressional District, so that, as an Independent candidate, I may seek the office currently held by Republican Harold Rogers, in the November 2026 National Election.
+You may review personal history and my actions in supporting the US Constitution on my website at Seeking Assistance As A Write-In Candidate Read More » TRUTH Blog Post / By Billy Ray Wilson Upon the retirement of President and General George Washington, he stressed to the U.S.
+Senate the need for a constitutional amendment to remove the authority of the President as Commander in Chief of the Army.
+The failure to accomplish President Washington’s request, in my opinion, has produced the worst leadership in our country, in my TRUTH Read More » 1949 Déjà Vu Blog Post / By Billy Ray Wilson Today, July 25, 2025, we learned that U.S.
+Special Military Units attacked members of the Islamic State in Iraq and Syria (ISIS), deep inside Syria.
+Allegedly, the ISIS leader was killed and his two sons were injured.
+Yet, the Israeli government (Hebrews) continues nearly six thousand years of crimes against humanity toward non-Hebrew citizens and 1949 Déjà Vu Read More » ← Previous 1 2 3 … 14 Next → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

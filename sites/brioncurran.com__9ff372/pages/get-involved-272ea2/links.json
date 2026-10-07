@@ -1,15 +1,66 @@
 [
-"http://facebook.com/brionforhouse",
-"http://ttps://www.instagram.com/brionforhouse",
-"https://brioncurran.com/",
-"https://brioncurran.com/cart",
-"https://brioncurran.com/endorsements",
-"https://brioncurran.com/get-involved",
-"https://brioncurran.com/meet-brion",
-"https://brioncurran.com/priorities",
-"https://brioncurran.com/vote",
-"https://docs.google.com/forms/d/e/1FAIpQLScAdxrB3QAuNnWDox70rxS0mQivXanMBMoC88zkO77foI_jAw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdaK2VWJH3two-tZGuh3AxabDMWuqUtBF3ShiZqdERMLnAwzg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeQa6dLCekO5POcf2X8yKg1OBFupHbaqQH0RBeVQpGHv9zmoA/viewform",
-"https://secure.actblue.com/donate/brionforhouse"
+{
+"text": "0",
+"href": "https://brioncurran.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brionforhouse"
+},
+{
+"text": "DOOR KNOCK",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeQa6dLCekO5POcf2X8yKg1OBFupHbaqQH0RBeVQpGHv9zmoA/viewform"
+},
+{
+"text": "Endorsements",
+"href": "https://brioncurran.com/endorsements"
+},
+{
+"text": "GET A LAWN SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScAdxrB3QAuNnWDox70rxS0mQivXanMBMoC88zkO77foI_jAw/viewform"
+},
+{
+"text": "GIVE NOW",
+"href": "https://secure.actblue.com/donate/brionforhouse"
+},
+{
+"text": "Get Involved",
+"href": "https://brioncurran.com/get-involved"
+},
+{
+"text": "Join Us",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdaK2VWJH3two-tZGuh3AxabDMWuqUtBF3ShiZqdERMLnAwzg/viewform"
+},
+{
+"text": "MEET BRION",
+"href": "https://brioncurran.com/meet-brion"
+},
+{
+"text": "Priorities",
+"href": "https://brioncurran.com/priorities"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdaK2VWJH3two-tZGuh3AxabDMWuqUtBF3ShiZqdERMLnAwzg/viewform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdaK2VWJH3two-tZGuh3AxabDMWuqUtBF3ShiZqdERMLnAwzg/viewform"
+},
+{
+"text": "Vote",
+"href": "https://brioncurran.com/vote"
+},
+{
+"text": "[image: Brion Curran]",
+"href": "https://brioncurran.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brionforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://ttps://www.instagram.com/brionforhouse/"
+}
 ]

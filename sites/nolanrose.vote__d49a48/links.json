@@ -1,8 +1,26 @@
 [
-"https://bsky.app/profile/nolanrose.bsky.social",
-"https://facebook.com/profile.php?id=61586806954783",
-"https://reddit.com/r/NolanRose",
-"https://secure.anedot.com/friends-of-nolan-rose/primary_donation_page",
-"https://tiktok.com/@nolanrose_",
-"https://votecommongood.com/"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/nolanrose.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-nolan-rose/primary_donation_page"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586806954783"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/r/NolanRose/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nolanrose_"
+},
+{
+"text": "[image]",
+"href": "https://www.votecommongood.com/"
+}
 ]

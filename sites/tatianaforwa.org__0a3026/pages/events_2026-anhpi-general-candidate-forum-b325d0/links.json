@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=2026+A%26NH%2FPI+General+Candidate+Forum&dates=20261021T001500Z%2F20261021T020000Z&location=719+South+King+Street%2C+Seattle%2C+Washington%2C+98104%2C+United+States",
-"http://maps.google.com/?q=719+South+King+Street+Seattle%2C+Washington%2C+98104+United+States",
-"https://docs.google.com/forms/d/e/1FAIpQLSfH5LWRos2q-6Z-xiOXAfGuRK8NrOoDk8v-7GgwGBTW9YZTSg/viewform",
-"https://facebook.com/profile.php?id=61589252729764",
-"https://instagram.com/tatianaforwa",
-"https://linktr.ee/TatianaforWA",
-"https://tatianaforwa.org/",
-"https://tatianaforwa.org/about-tatiana",
-"https://tatianaforwa.org/cart",
-"https://tatianaforwa.org/events",
-"https://tatianaforwa.org/events/2026-anhpi-general-candidate-forum?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-19",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-20",
-"https://tatianaforwa.org/gallery",
-"https://tatianaforwa.org/home",
-"https://tatianaforwa.org/our-platform",
-"https://tatianaforwa.org/the-job"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=719+south+king+street+seattle%2C+washington%2C+98104+united+states"
+},
+{
+"text": "0",
+"href": "https://www.tatianaforwa.org/cart"
+},
+{
+"text": "About Tatiana",
+"href": "https://www.tatianaforwa.org/about-tatiana"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tatianaforwa.org/gallery"
+},
+{
+"text": "Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://linktr.ee/TatianaforWA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=2026+A%26NH%2FPI+General+Candidate+Forum&dates=20261021T001500Z%2F20261021T020000Z&location=719+South+King+Street%2C+Seattle%2C+Washington%2C+98104%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/2026-anhpi-general-candidate-forum?format=ical"
+},
+{
+"text": "Next Next October 20 Canvass with Tatiana in North Beacon Hill!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-20"
+},
+{
+"text": "Our Platform",
+"href": "https://www.tatianaforwa.org/our-platform"
+},
+{
+"text": "Previous Previous October 19 Canvass with Tatiana in Othello & New Holly!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-19"
+},
+{
+"text": "Talk to Tati",
+"href": "https://tatianaforwa.org/home#talk-to-tati"
+},
+{
+"text": "The Job",
+"href": "https://www.tatianaforwa.org/the-job"
+},
+{
+"text": "[image: Tatiana for Washington]",
+"href": "https://www.tatianaforwa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589252729764"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tatianaforwa"
+},
+{
+"text": "hello@tatianaforwa.org",
+"href": "mailto:hello@tatianaforwa.org"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSfH5LWRos2q-6Z-xiOXAfGuRK8NrOoDk8v-7GgwGBTW9YZTSg/viewform",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfH5LWRos2q-6Z-xiOXAfGuRK8NrOoDk8v-7GgwGBTW9YZTSg/viewform"
+}
 ]

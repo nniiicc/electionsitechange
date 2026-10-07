@@ -1,30 +1,190 @@
 [
-"http://facebook.com/mariannafornm",
-"https://abcnews.go.com/US/2-shot-1-dead-university-mexico-albuquerque-suspect/story?id=124066683",
-"https://abqjournal.com/news/article_2b5b3c2e-fa0a-11ef-bd47-d3e4f08e7fd7.html",
-"https://abqjournal.com/news/article_6138bbc0-00fc-11f0-9f19-a7dea599556b.html",
-"https://cibolacitizen.com/news/immigration-detention-cibola-threatened-house-bill-9",
-"https://dailylobo.com/article/2025/03/menstrual-equity-project-seeks-to-become-university-wide",
-"https://instagram.com/mariannafornm",
-"https://krqe.com/news/politics-government/legislature/house-bill-would-provide-menstrual-products-to-higher-education-bathrooms",
-"https://losalamosreporter.com/2025/03/13/house-passes-bill-to-create-lgbtq-day-in-new-mexico",
-"https://mariannafornm.com/",
-"https://mariannafornm.com/about-1",
-"https://mariannafornm.com/about-marianna",
-"https://mariannafornm.com/cart",
-"https://mariannafornm.com/contact",
-"https://mariannafornm.com/district-18",
-"https://mariannafornm.com/get-involved",
-"https://mariannafornm.com/news",
-"https://mariannafornm.com/platform",
-"https://mariannafornm.com/supporters",
-"https://nmpoliticalreport.com/2025/02/05/proposal-to-bolster-the-health-care-industry-moves-forward",
-"https://nmpoliticalreport.com/2025/08/06/rep-anaya-to-host-town-hall-on-medical-malpractice-reform",
-"https://pbs.org/video/health-care-legislation-and-aging-in-new-mexico-fjgha9",
-"https://rrobserver.com/news/legislature/sexual-assault-victims-advocate-for-hb73-at-legislative-session/article_7629170e-e352-11ef-9099-1b2ce8dff544.html",
-"https://santafenewmexican.com/news/legislature/democratic-lawmakers-criticize-governors-plan-to-take-custody-of-more-drug-exposed-babies/article_514e03a2-e193-4ce0-8b40-7a49d2440598.html",
-"https://santafenewmexican.com/news/local_news/new-mexico-lgbtq-legislators-say-nationwide-representation-increase-is-exciting-but-not-enough/article_48572b96-5544-4227-81c1-067287ede90d.html",
-"https://santafenewmexican.com/opinion/my_view/where-are-the-republicans-like-my-grandmother/article_641dcaab-7bc5-466b-a862-d3907b04143f.html",
-"https://secure.actblue.com/donate/mariannafornm",
-"https://sourcenm.com/2025/01/29/first-public-safety-bills-pass-through-committee-tuesday-evening"
+{
+"text": "0",
+"href": "https://www.mariannafornm.com/cart"
+},
+{
+"text": "About Marianna",
+"href": "https://www.mariannafornm.com/about-marianna"
+},
+{
+"text": "Back",
+"href": "https://www.mariannafornm.com/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/mariannafornm"
+},
+{
+"text": "Contact",
+"href": "https://www.mariannafornm.com/contact"
+},
+{
+"text": "District 18",
+"href": "https://www.mariannafornm.com/district-18"
+},
+{
+"text": "Folder: About",
+"href": "https://www.mariannafornm.com/about-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mariannafornm.com/get-involved"
+},
+{
+"text": "Healthcare Recruitment Bill Advances",
+"href": "https://nmpoliticalreport.com/2025/02/05/proposal-to-bolster-the-health-care-industry-moves-forward/"
+},
+{
+"text": "Menstrual Equity a Focus",
+"href": "https://nmpoliticalreport.com/2025/02/05/proposal-to-bolster-the-health-care-industry-moves-forward/"
+},
+{
+"text": "NEWS",
+"href": "https://www.mariannafornm.com/news"
+},
+{
+"text": "PBS Features Rep. Anaya’s Healthcare Recruitment Bill",
+"href": "https://www.pbs.org/video/health-care-legislation-and-aging-in-new-mexico-fjgha9/"
+},
+{
+"text": "Platform",
+"href": "https://www.mariannafornm.com/platform"
+},
+{
+"text": "Rep. Anaya Featured in Freshman Profile",
+"href": "https://www.abqjournal.com/news/article_6138bbc0-00fc-11f0-9f19-a7dea599556b.html"
+},
+{
+"text": "Rep. Anaya Focuses on Healthcare Recruitment",
+"href": "https://www.abqjournal.com/news/article_2b5b3c2e-fa0a-11ef-bd47-d3e4f08e7fd7.html"
+},
+{
+"text": "Rep. Anaya Introduces Legislation to Fight for Victims of Childhood Sexual Assault",
+"href": "https://www.rrobserver.com/news/legislature/sexual-assault-victims-advocate-for-hb73-at-legislative-session/article_7629170e-e352-11ef-9099-1b2ce8dff544.html"
+},
+{
+"text": "Rep. Anaya OpEd: Where are Republicans Like My Grandmother?",
+"href": "https://www.santafenewmexican.com/opinion/my_view/where-are-the-republicans-like-my-grandmother/article_641dcaab-7bc5-466b-a862-d3907b04143f.html"
+},
+{
+"text": "Rep. Anaya Partners With Students to Make Menstrual Products Available in Higher Ed",
+"href": "https://www.krqe.com/news/politics-government/legislature/house-bill-would-provide-menstrual-products-to-higher-education-bathrooms/"
+},
+{
+"text": "Rep. Anaya Sponsors Legislation that Prohibits Municipalities from Contracting with ICE",
+"href": "https://www.cibolacitizen.com/news/immigration-detention-cibola-threatened-house-bill-9"
+},
+{
+"text": "Rep. Anaya Tackles Competency Law",
+"href": "https://sourcenm.com/2025/01/29/first-public-safety-bills-pass-through-committee-tuesday-evening/"
+},
+{
+"text": "Rep. Anaya Voices Provider Concerns Over CARA Directive",
+"href": "https://www.santafenewmexican.com/news/legislature/democratic-lawmakers-criticize-governors-plan-to-take-custody-of-more-drug-exposed-babies/article_514e03a2-e193-4ce0-8b40-7a49d2440598.html"
+},
+{
+"text": "Rep. Anaya and UNM Students",
+"href": "https://nmpoliticalreport.com/2025/02/05/proposal-to-bolster-the-health-care-industry-moves-forward/"
+},
+{
+"text": "Rep. Anaya on LGBTQ Representation in Office",
+"href": "https://www.santafenewmexican.com/news/local_news/new-mexico-lgbtq-legislators-say-nationwide-representation-increase-is-exciting-but-not-enough/article_48572b96-5544-4227-81c1-067287ede90d.html"
+},
+{
+"text": "Rep. Anaya on the Shooting at UNM",
+"href": "https://abcnews.go.com/US/2-shot-1-dead-university-mexico-albuquerque-suspect/story?id=124066683"
+},
+{
+"text": "Rep. Anaya to Hold Town Hall on Medical Malpractice",
+"href": "https://nmpoliticalreport.com/2025/08/06/rep-anaya-to-host-town-hall-on-medical-malpractice-reform/"
+},
+{
+"text": "Rep. Anaya’s LGBTQ+ Legislation Passes House Floor",
+"href": "https://losalamosreporter.com/2025/03/13/house-passes-bill-to-create-lgbtq-day-in-new-mexico/"
+},
+{
+"text": "Supporters",
+"href": "https://www.mariannafornm.com/supporters"
+},
+{
+"text": "[image: Marianna for New Mexico]",
+"href": "https://www.mariannafornm.com/"
+},
+{
+"text": "[image]",
+"href": "https://abcnews.go.com/US/2-shot-1-dead-university-mexico-albuquerque-suspect/story?id=124066683"
+},
+{
+"text": "[image]",
+"href": "https://losalamosreporter.com/2025/03/13/house-passes-bill-to-create-lgbtq-day-in-new-mexico/"
+},
+{
+"text": "[image]",
+"href": "https://nmpoliticalreport.com/2025/02/05/proposal-to-bolster-the-health-care-industry-moves-forward/"
+},
+{
+"text": "[image]",
+"href": "https://nmpoliticalreport.com/2025/08/06/rep-anaya-to-host-town-hall-on-medical-malpractice-reform/"
+},
+{
+"text": "[image]",
+"href": "https://sourcenm.com/2025/01/29/first-public-safety-bills-pass-through-committee-tuesday-evening/"
+},
+{
+"text": "[image]",
+"href": "https://www.abqjournal.com/news/article_2b5b3c2e-fa0a-11ef-bd47-d3e4f08e7fd7.html"
+},
+{
+"text": "[image]",
+"href": "https://www.abqjournal.com/news/article_6138bbc0-00fc-11f0-9f19-a7dea599556b.html"
+},
+{
+"text": "[image]",
+"href": "https://www.cibolacitizen.com/news/immigration-detention-cibola-threatened-house-bill-9"
+},
+{
+"text": "[image]",
+"href": "https://www.dailylobo.com/article/2025/03/menstrual-equity-project-seeks-to-become-university-wide"
+},
+{
+"text": "[image]",
+"href": "https://www.krqe.com/news/politics-government/legislature/house-bill-would-provide-menstrual-products-to-higher-education-bathrooms/"
+},
+{
+"text": "[image]",
+"href": "https://www.pbs.org/video/health-care-legislation-and-aging-in-new-mexico-fjgha9/"
+},
+{
+"text": "[image]",
+"href": "https://www.rrobserver.com/news/legislature/sexual-assault-victims-advocate-for-hb73-at-legislative-session/article_7629170e-e352-11ef-9099-1b2ce8dff544.html"
+},
+{
+"text": "[image]",
+"href": "https://www.santafenewmexican.com/news/legislature/democratic-lawmakers-criticize-governors-plan-to-take-custody-of-more-drug-exposed-babies/article_514e03a2-e193-4ce0-8b40-7a49d2440598.html"
+},
+{
+"text": "[image]",
+"href": "https://www.santafenewmexican.com/news/local_news/new-mexico-lgbtq-legislators-say-nationwide-representation-increase-is-exciting-but-not-enough/article_48572b96-5544-4227-81c1-067287ede90d.html"
+},
+{
+"text": "[image]",
+"href": "https://www.santafenewmexican.com/opinion/my_view/where-are-the-republicans-like-my-grandmother/article_641dcaab-7bc5-466b-a862-d3907b04143f.html"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/mariannafornm"
+},
+{
+"text": "[no text]",
+"href": "https://www.cibolacitizen.com/news/immigration-detention-cibola-threatened-house-bill-9"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mariannafornm/"
+},
+{
+"text": "for",
+"href": "https://www.dailylobo.com/article/2025/03/menstrual-equity-project-seeks-to-become-university-wide"
+}
 ]

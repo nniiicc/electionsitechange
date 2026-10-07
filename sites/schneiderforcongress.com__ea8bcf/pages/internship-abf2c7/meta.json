@@ -1,7 +1,12 @@
 {
  "description": "Schneider for Congress's campaign",
  "final_url": "https://www.schneiderforcongress.com/internship",
- "paid_for_by": "Paid for by Schneider for Congress",
+ "fingerprint": "fc0092a022d1f57bd970bb1e06e7f7882babf528",
+ "format": 3,
+ "paid_for_by": "Paid for by Schneider for Congress You need to enable JavaScript to run this app",
  "title": "SfC Internship Application",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

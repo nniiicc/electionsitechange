@@ -1,3 +1,1 @@
-Representative Keri Weems Announces Re-Election Campaign for District 11 House
-Keri Weems
-Keri Weems
+0 Skip to Content Home DONATE Open Menu Close Menu DONATE Home Open Menu Close Menu Home DONATE Keri Weems 1/20/26 Keri Weems 1/20/26 Representative Keri Weems Announces Re-Election Campaign for District 11 House Representative Keri Weems Announces Re-Election Campaign for District 11 House Read More DONATE PAID FOR BY KERI WEEMS FOR LEGISLATURE 7308 W Lancaster Street Sioux Falls, SD 57106 PRIVACY POLICY

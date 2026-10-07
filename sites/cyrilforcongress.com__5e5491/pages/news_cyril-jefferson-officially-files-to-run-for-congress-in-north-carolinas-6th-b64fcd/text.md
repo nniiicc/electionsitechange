@@ -1,14 +1,14 @@
-Skip navigation menu
-Cyril Jefferson Officially Files to Run for Congress in North Carolina’s 6th District
-Raleigh, N.C. – Today, Cyril Jefferson officially filed to run for Congress in North Carolina’s 6th Congressional District, formally submitting paperwork at the North Carolina State Board of Elections in Raleigh.
+Skip navigation menu Home About Issues News Endorsements Get Involved Contact Donate News Home About Issues News Endorsements Get Involved Contact Donate News PRESS RELEASE National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America PRESS RELEASE UNCF to Honor Mayor Cyril Jefferson at 2nd Annual Triad “A Mind Is...”® PRESS RELEASE Mayor Cyril Jefferson Joins “Take BAC Congress” to Advance Government Accountability Reforms PRESS RELEASE Cyril Jefferson Officially Files to Run for Congress in North Carolina’s 6th District PRESS RELEASE Jefferson Represents High Point at U.S.
+Global Leadership Coalition’s Mayors Foreign Policy Summit PRESS RELEASE Mayor Cyril Jefferson Selected for Prestigious ElevateNC: Higher Education Leadership Cohort PRESS RELEASE Cyril Jefferson Calls for Bold Action on Soaring Cost of Living PRESS RELEASE Mayor Cyril Jefferson Opposes New Tariffs on Imported Furniture PRESS RELEASE Cyril Jefferson Blasts Trump’s Federal Takeover of D.C.
+Police and National Guard Deployment PRESS RELEASE Cyril Jefferson Announces Run for Congress PRESS RELEASE Cyril Jefferson Slams Addison McDowell’s Anti-Community Votes ARTICLE Mayor Jefferson Delivers State of the City Address Article High Point Mayor Jefferson '18 to Receive 2025 Keeper of the Flame Award ARTICLE Meet the Jeffersons Dec 2 2025 PRESS RELEASE Cyril Jefferson Officially Files to Run for Congress in North Carolina’s 6th District Raleigh, N.C. – Today, Cyril Jefferson officially filed to run for Congress in North Carolina’s 6th Congressional District, formally submitting paperwork at the North Carolina State Board of Elections in Raleigh.
 The district includes parts of Cabarrus, Forsyth, and Guilford counties, as well as all of Davidson, Davie, and Rowan counties.
-Currently serving as the Mayor of High Point, Jefferson is also a small business owner and a former educator.
-His campaign emphasizes results over partisanship, focusing on priorities that include supporting small businesses, expanding access to quality education, investing in infrastructure, and promoting economic opportunity across the district.
+Currently serving as the Mayor of High Point , Jefferson is also a small business owner and a former educator .
+His campaign emphasizes results over partisanship , focusing on priorities that include supporting small businesses, expanding access to quality education, investing in infrastructure, and promoting economic opportunity across the district.
 “This campaign is about getting results for the people of the 6th District,” Jefferson said.
-“I’ve spent my career serving this community in the classroom, in local government, and as a business owner, and I know that when we work together, we can achieve real solutions for families and businesses alike.”
-Jefferson also noted, “We need leadership that puts the community first, not party politics.
-I am committed to listening, collaborating, and making sure that every voice in our district is heard and represented in Washington.”
-The Democratic primary election is scheduled for Tuesday, March 3, 2026, and the winner will face freshman Republican Congressman Addison McDowell in the general election.
+“I’ve spent my career serving this community in the classroom, in local government, and as a business owner, and I know that when we work together, we can achieve real solutions for families and businesses alike.” Jefferson also noted, “We need leadership that puts the community first, not party politics.
+I am committed to listening, collaborating, and making sure that every voice in our district is heard and represented in Washington.” The Democratic primary election is scheduled for Tuesday, March 3, 2026 , and the winner will face freshman Republican Congressman Addison McDowell in the general election.
 Jefferson’s campaign aims to build on his record of service in High Point, promoting policies that strengthen communities, create opportunities for small businesses, and ensure that local voices shape decisions in government.
-For more information, visit www.CyrilForCongress.com or contact Brandon Lenoir at Management@CyrilForCongress.com.
-PRESS RELEASE
+For more information, visit www.CyrilForCongress.com or contact Brandon Lenoir at Management@CyrilForCongress.com .
+Media Contact: Brandon Lenoir, PhD Campaign Manager and Chief Policy Advisor 336-247-6727 Management@CyrilForCongress.com Privacy Cyril For Congress | P.O.
+Box 5043 | High Point, NC 27262 Paid for by Cyril for Congress committee.
+You need to enable JavaScript to run this app.

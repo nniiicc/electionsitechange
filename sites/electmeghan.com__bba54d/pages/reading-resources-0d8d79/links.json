@@ -1,34 +1,146 @@
 [
-"http://aforcemorepowerful.org/films/index.php",
-"http://gaylegoldin.com/content/advocacy",
-"http://newjimcrow.com/",
-"http://npr.org/podcasts/512508710/civics-101",
-"http://rihs.org/assetts/files/publications/1973_July.pdf",
-"http://sos.ri.gov/assets/downloads/documents/How-a-bill-becomes-a-law-in-RI.pdf",
-"http://sos.ri.gov/assets/downloads/documents/Levels-government-Federal-State-City-Town.pdf",
-"http://sos.ri.gov/divisions/Civics-And-Education/RI-History",
-"http://starhawk.org/pdfs/Webs%20of%20Power%20Extract.pdf",
-"http://utne.com/Politics/Revolution-Will-not-be-Funded-Nonprofit-Industrial-Complex",
-"http://webserver.rilin.state.ri.us/RiConstitution/ConstFull.html",
-"https://amazon.com/Peoples-History-United-States/dp/0062397346/ref=sr_1_1?ie=UTF8&qid=1509037194&sr=8-1&keywords=a+people%27s+history+of+the+united+states",
-"https://amazon.com/Stir-Up-Community-Organizing-Advocacy/dp/0787965332",
-"https://drkathyobear.com/wp-content/uploads/2017/01/But-Im-NOT-Racist-Advance-Reader-Copy.pdf",
-"https://electmeghan.com/",
-"https://electmeghan.com/?page_id=1",
-"https://electmeghan.com/?page_id=1158",
-"https://electmeghan.com/about",
-"https://electmeghan.com/bills",
-"https://electmeghan.com/contact",
-"https://electmeghan.com/early-voting",
-"https://electmeghan.com/es/reading-resources",
-"https://electmeghan.com/news",
-"https://electmeghan.com/reading-resources",
-"https://electmeghan.com/values",
-"https://electmeghan.com/volunteer",
-"https://electmeghan.com/vote",
-"https://electmeghan.com/vote-mail",
-"https://facebook.com/ElectMeghanKallman",
-"https://instagram.com/meghan.kallman",
-"https://secure.actblue.com/donate/kallmanforsenate2022",
-"https://twitter.com/MeghanEKallman"
+{
+"text": "A Force More Powerful",
+"href": "http://www.aforcemorepowerful.org/films/index.php"
+},
+{
+"text": "A People’s History of the United States",
+"href": "https://www.amazon.com/Peoples-History-United-States/dp/0062397346/ref=sr_1_1?ie=UTF8&qid=1509037194&sr=8-1&keywords=a+people%27s+history+of+the+united+states"
+},
+{
+"text": "A Short Guide to Advocacy at the RI Statehouse",
+"href": "http://www.gaylegoldin.com/content/advocacy"
+},
+{
+"text": "Bills",
+"href": "https://electmeghan.com/bills/"
+},
+{
+"text": "But I’m not Racist! Tools for Well-Meaning Whites",
+"href": "https://drkathyobear.com/wp-content/uploads/2017/01/But-Im-NOT-Racist-Advance-Reader-Copy.pdf"
+},
+{
+"text": "COVID-19 Resources",
+"href": "https://electmeghan.com/?page_id=1158"
+},
+{
+"text": "Census",
+"href": "https://electmeghan.com/?page_id=1"
+},
+{
+"text": "Contact",
+"href": "https://electmeghan.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kallmanforsenate2022"
+},
+{
+"text": "Home",
+"href": "https://electmeghan.com"
+},
+{
+"text": "Homepage",
+"href": "https://electmeghan.com/"
+},
+{
+"text": "How a Bill Becomes Law in Rhode Island",
+"href": "http://sos.ri.gov/assets/downloads/documents/How-a-bill-becomes-a-law-in-RI.pdf"
+},
+{
+"text": "In-Person Early Voting and Emergency Voting",
+"href": "https://electmeghan.com/early-voting/"
+},
+{
+"text": "Learn More",
+"href": "https://electmeghan.com/about/"
+},
+{
+"text": "Meet Meghan",
+"href": "https://electmeghan.com/about/"
+},
+{
+"text": "NPR’s Civics 101",
+"href": "http://www.npr.org/podcasts/512508710/civics-101"
+},
+{
+"text": "News",
+"href": "https://electmeghan.com/news/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Reading & Resources",
+"href": "https://electmeghan.com/reading-resources/"
+},
+{
+"text": "Rhode Island History",
+"href": "http://sos.ri.gov/divisions/Civics-And-Education/RI-History"
+},
+{
+"text": "Rhode Island History",
+"href": "http://www.rihs.org/assetts/files/publications/1973_July.pdf"
+},
+{
+"text": "Rhode Island’s State Constitution",
+"href": "http://webserver.rilin.state.ri.us/RiConstitution/ConstFull.html"
+},
+{
+"text": "Spanish",
+"href": "https://electmeghan.com/es/reading-resources/"
+},
+{
+"text": "Stir It Up",
+"href": "https://www.amazon.com/Stir-Up-Community-Organizing-Advocacy/dp/0787965332"
+},
+{
+"text": "The New Jim Crow",
+"href": "http://newjimcrow.com/"
+},
+{
+"text": "The Revolution Will Not Be Funded",
+"href": "http://www.utne.com/Politics/Revolution-Will-not-be-Funded-Nonprofit-Industrial-Complex"
+},
+{
+"text": "Values",
+"href": "https://electmeghan.com/values/"
+},
+{
+"text": "Volunteer",
+"href": "https://electmeghan.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://electmeghan.com/vote/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://electmeghan.com/vote-mail/"
+},
+{
+"text": "Webs of Power",
+"href": "http://starhawk.org/pdfs/Webs%20of%20Power%20Extract.pdf"
+},
+{
+"text": "Who does what: a guide to levels of government in Rhode Island",
+"href": "http://sos.ri.gov/assets/downloads/documents/Levels-government-Federal-State-City-Town.pdf"
+},
+{
+"text": "[image: ]",
+"href": "https://electmeghan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MeghanEKallman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectMeghanKallman"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/meghan.kallman/"
+}
 ]

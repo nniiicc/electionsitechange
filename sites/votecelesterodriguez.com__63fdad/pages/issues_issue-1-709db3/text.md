@@ -1,3 +1,4 @@
-Economic Opportunity for All
-Celeste Rodriguez works every day to ensure her community has the same access to resources and opportunities as every Californian.
+Skip navigation menu About Issues News Endorsements Events Join Us Donate Celeste's Priorities About Issues News Endorsements Events Join Us Donate Celeste's Priorities Economic Opportunity for All Education and Safe Learning Environments Environmental Equity Family Stability, Maternal Health, and Childcare Homelessness and Affordable Housing Economic Opportunity for All Celeste Rodriguez works every day to ensure her community has the same access to resources and opportunities as every Californian.
 In Sacramento, Celeste is continuing that work by advocating for programs that expand access to capital for small businesses, strengthen safety net resources for families in crisis, and ensure economic growth is inclusive — not something that leaves the Northeast Valley behind.
+Privacy Policy Connect with the campaign: celeste@votecelesterodriguez.com Powered by RUN! website builder Paid for by Celeste Rodriguez for Assembly 2026 FPPC #1477040 1700 Tribute Rd., Ste.
+201, Sacramento, CA 95815 You need to enable JavaScript to run this app.

@@ -1,9 +1,30 @@
 [
-"https://facebook.com/VaughanforSC",
-"https://instagram.com/vaughanforsc",
-"https://secure.winred.com/vaughanfor-sc-18bc6606/donate-today",
-"https://twitter.com/VaughanforSC",
-"https://vaughanforsc.com/",
-"https://vaughanforsc.com/issues",
-"https://vaughanforsc.com/meet-david"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vaughanfor-sc-18bc6606/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.vaughanforsc.com"
+},
+{
+"text": "Issues",
+"href": "https://www.vaughanforsc.com/issues"
+},
+{
+"text": "Meet David",
+"href": "https://www.vaughanforsc.com/meet-david"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VaughanforSC"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vaughanforsc/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/VaughanforSC"
+}
 ]

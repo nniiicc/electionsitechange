@@ -1,4 +1,4 @@
-By now, Iowans have likely seen a completely false and disingenuous attack ad funded by a liberal, dark-money group against U.S.
+Meet Ashley Issues Endorse Volunteer Contribute News & Updates Jim Boyer: Ignore the lies; Ashley Hinson bill backs farmers, consumers Jul 7, 2026 | In the News Back to Updates By now, Iowans have likely seen a completely false and disingenuous attack ad funded by a liberal, dark-money group against U.S.
 Rep.
 Ashley Hinson, U.S.
 Sen.
@@ -34,3 +34,5 @@ Senate because she won’t apologize for supporting Iowa farmers and she won’t
 I’m confident that those who peddle lies about her work for Iowa agriculture will pay an electoral price.
 Jim Boyer is an Emmet County farmer.
 This was originally published in the Des Moines Register: https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2026/06/28/save-our-bacon-california-proposition-12-farm-bill/90682769007/?
+Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

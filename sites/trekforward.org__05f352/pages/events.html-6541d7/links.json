@@ -1,11 +1,38 @@
 [
-"https://secure.actblue.com/donate/trek-forward",
-"https://trekforward.org/about.html",
-"https://trekforward.org/donate.html",
-"https://trekforward.org/events.html",
-"https://trekforward.org/index.html",
-"https://trekforward.org/issues.html",
-"https://trekforward.org/slater.html",
-"https://trekforward.org/volunteer.html",
-"https://trekforward.org/voting.html"
+{
+"text": "About",
+"href": "https://trekforward.org/about.html"
+},
+{
+"text": "Donate",
+"href": "https://trekforward.org/donate.html"
+},
+{
+"text": "Donate to Trek Forward",
+"href": "https://secure.actblue.com/donate/trek-forward"
+},
+{
+"text": "Events",
+"href": "https://trekforward.org/events.html"
+},
+{
+"text": "Home",
+"href": "https://trekforward.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://trekforward.org/issues.html"
+},
+{
+"text": "Slater's Record",
+"href": "https://trekforward.org/slater.html"
+},
+{
+"text": "Volunteer",
+"href": "https://trekforward.org/volunteer.html"
+},
+{
+"text": "Voting",
+"href": "https://trekforward.org/voting.html"
+}
 ]

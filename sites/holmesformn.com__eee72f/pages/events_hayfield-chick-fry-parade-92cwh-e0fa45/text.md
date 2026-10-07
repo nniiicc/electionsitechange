@@ -1,14 +1,4 @@
-Back to All Events
-Join Team Heather and the Dodge County DFL to walk in the Dodger Days Parade in Dodge Center!
-📅 Sunday, June 21st
-🕒 Lineup by 1:30 PM, parade starts 2:00 PM
-📍 Lineup is on 1st Ave.
-NE, entry #7
-🤝 With Dodge County DFL
-Previous
-Previous
-June 20
-Hayfield Chicken Fry Parade
-Next
-Next
-June 23
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact Back to All Events Dodger Days Parade, Dodge Center Sunday, June 21, 2026 1:30 PM 4:00 PM Google Calendar ICS Join Team Heather and the Dodge County DFL to walk in the Dodger Days Parade in Dodge Center! 📅 Sunday, June 21st 🕒 Lineup by 1:30 PM, parade starts 2:00 PM 📍 Lineup is on 1st Ave.
+NE, entry #7 🤝 With Dodge County DFL RSVP Here .
+Posted In: Community Events Previous Previous June 20 Hayfield Chicken Fry Parade Next Next June 23 Rochester Canvass Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

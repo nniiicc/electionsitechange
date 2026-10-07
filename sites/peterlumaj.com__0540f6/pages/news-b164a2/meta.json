@@ -1,7 +1,9 @@
 {
  "description": "Stay informed with the latest news, updates, and insights from Peter Lumaj's campaign.",
  "final_url": "https://peterlumaj.com/news",
- "paid_for_by": null,
+ "fingerprint": "2ab042c6520f25a479ffb867f85d6e2749f882de",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News & Updates | Peter Lumaj | Secretary of the State",
  "years_mentioned": []
 }

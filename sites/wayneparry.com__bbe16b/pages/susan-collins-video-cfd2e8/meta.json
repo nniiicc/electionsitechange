@@ -1,7 +1,9 @@
 {
- "description": "View Wayne\u2019s newest video for Senator Susan Collins! View Wayne\u2019s first video for Senator Susan Collins!",
+ "description": "View Wayne’s newest video for Senator Susan Collins! View Wayne’s first video for Senator Susan Collins!",
  "final_url": "https://www.wayneparry.com/susan-collins-video/",
- "paid_for_by": null,
+ "fingerprint": "6db060fb80e7f990213782cce998e057fe34cc80",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Susan Collins Videos - Wayne Parry for State Representative",
  "years_mentioned": []
 }

@@ -1,7 +1,9 @@
 {
- "description": "Get the latest news and updates from Will\u2019s campaign.",
+ "description": "Get the latest news and updates from Will’s campaign.",
  "final_url": "https://www.upballot.com/Will-Jobe/news/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
- "title": "News & Updates from Will JobeNews & Updates from Will Jobe",
+ "fingerprint": "ef0dc72c56fa1deed222db9cf760090c58a0ea4b",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "title": "News & Updates from Will Jobe",
  "years_mentioned": []
 }

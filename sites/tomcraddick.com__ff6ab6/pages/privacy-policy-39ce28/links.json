@@ -1,4 +1,22 @@
 [
-"https://checkout.square.site/merchant/1H53N8VVYR5HP/checkout/4WTDHGHII6P3SHX3TDILCRNO",
-"https://tomcraddick.com/"
+{
+"text": "About",
+"href": "https://tomcraddick.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://checkout.square.site/merchant/1H53N8VVYR5HP/checkout/4WTDHGHII6P3SHX3TDILCRNO"
+},
+{
+"text": "Get Involved",
+"href": "https://tomcraddick.com/#contact"
+},
+{
+"text": "Results",
+"href": "https://tomcraddick.com/#results"
+},
+{
+"text": "[image]",
+"href": "https://tomcraddick.com"
+}
 ]

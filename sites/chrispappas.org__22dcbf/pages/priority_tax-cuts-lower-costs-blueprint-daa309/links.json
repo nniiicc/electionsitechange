@@ -1,61 +1,290 @@
 [
-"https://act.chrispappas.org/signup/take_action_pappas_campaign",
-"https://bsky.app/profile/chrispappasnh.bsky.social",
-"https://chrispappas.org/",
-"https://chrispappas.org/2026/01/chris-pappas-for-senate-unveils-tax-cuts-and-lower-costs-blueprint-for-new-hampshire",
-"https://chrispappas.org/2026/02/chris-pappas-for-senates-tax-cuts-and-lower-costs-blueprint-spotlights-efforts-to-make-health-care-affordable",
-"https://chrispappas.org/2026/03/chris-pappas-for-senate-highlights-actions-to-lower-grocery-costs-for-granite-state-families",
-"https://chrispappas.org/2026/04/chris-pappas-for-senate-highlights-plan-to-lower-child-care-costs-for-granite-state-families",
-"https://chrispappas.org/2026/05/chris-pappas-for-senates-tax-cuts-and-lower-costs-blueprint-spotlights-efforts-to-make-housing-affordable",
-"https://chrispappas.org/about",
-"https://chrispappas.org/contact",
-"https://chrispappas.org/endorsements",
-"https://chrispappas.org/news",
-"https://chrispappas.org/priorities",
-"https://chrispappas.org/priority/affordability-and-the-economy",
-"https://chrispappas.org/priority/anti-corruption-agenda",
-"https://chrispappas.org/priority/education",
-"https://chrispappas.org/priority/energy-and-environment",
-"https://chrispappas.org/priority/equal-rights-lgbtq",
-"https://chrispappas.org/priority/foreign-policy",
-"https://chrispappas.org/priority/health-care",
-"https://chrispappas.org/priority/housing",
-"https://chrispappas.org/priority/immigration",
-"https://chrispappas.org/priority/labor",
-"https://chrispappas.org/priority/law-enforcement",
-"https://chrispappas.org/priority/prioritizing-public-safety",
-"https://chrispappas.org/priority/reproductive-freedom",
-"https://chrispappas.org/priority/seniors",
-"https://chrispappas.org/priority/small-businesses",
-"https://chrispappas.org/priority/taking-on-corporate-special-interests",
-"https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint",
-"https://chrispappas.org/priority/veterans-and-service-members",
-"https://chrispappas.org/privacy-policy",
-"https://concordmonitor.com/2026/02/04/letter-pappas-fights-to-cut-taxes-energy-costs",
-"https://facebook.com/pappasfornh",
-"https://instagram.com/pappasfornh",
-"https://keenesentinel.com/opinion/letters_to_the_editor/reader-opinion-vote-for-pappas-for-our-energy-future-by-bob-king/article_456cac6a-22af-4f88-9589-faccd8cb6edb.html",
-"https://laconiadailysun.com/opinion/letters_to_editor/valerie-scarborough-pappas-will-continue-to-fight-for-granite-state-veterans/article_6ada9512-467e-4d3c-bde5-40b6cad72450.html",
-"https://manchester.inklink.news/the-soapbox-on-gas-prices-pappas-acts-while-sununu-sides-with-big-oil",
-"https://manchester.inklink.news/the-soapbox-pappas-is-fighting-for-veterans-while-trump-sununu-fail-them",
-"https://middleseat.co/",
-"https://nashua.inklink.news/the-soapbox-chris-pappas-fights-for-affordable-groceries-strong-communities",
-"https://nashua.inklink.news/the-soapbox-chris-pappas-will-stand-up-for-new-hampshire-families-like-mine",
-"https://seacoastonline.com/story/opinion/letters/2026/06/17/letter-writers-weigh-in-on-us-senate-race-dover-politics-kittery-elections/90572098007",
-"https://seacoastonline.com/story/opinion/letters/2026/06/18/more-building-will-not-make-portsmouth-affordable-letters/90602071007",
-"https://secure.actblue.com/donate/cps_web",
-"https://secure.actblue.com/donate/cps_web?amount=10",
-"https://secure.actblue.com/donate/cps_web?amount=100",
-"https://secure.actblue.com/donate/cps_web?amount=25",
-"https://secure.actblue.com/donate/cps_web?amount=250",
-"https://secure.actblue.com/donate/cps_web?amount=500",
-"https://store.chrispappas.org/",
-"https://substack.com/@chrispappasnh",
-"https://threads.com/@pappasfornh",
-"https://tiktok.com/@chrispappasnh",
-"https://unionleader.com/opinion/letters_to_editor/letters-as-a-veteran-i-trust-pappas-to-fight-for-us/article_3bcee9f0-6874-49cf-aab8-5533240d6a6f.html",
-"https://unionleader.com/opinion/op-eds/dr-thomas-m-sherman-why-we-cant-afford-sununu-or-brown/article_93a01da0-1924-4417-b2e2-a965413f81c5.html",
-"https://unionleader.com/opinion/op-eds/senator-mark-kelly-and-congressman-chris-pappas-the-cost-of-conflict-is-paid-by-american/article_fbf49416-dc33-466d-81d1-c3cd01fa621b.html",
-"https://x.com/chrispappasnh",
-"https://youtube.com/@ChrisPappasNH"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "Affordability and the Economy",
+"href": "https://chrispappas.org/priority/affordability-and-the-economy/"
+},
+{
+"text": "Anti-Corruption Agenda",
+"href": "https://chrispappas.org/priority/anti-corruption-agenda/"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/chrispappasnh.bsky.social"
+},
+{
+"text": "Chris Pappas for Senate [image: Chris Pappas U.S. Senate]",
+"href": "https://chrispappas.org"
+},
+{
+"text": "Concord Monitor",
+"href": "https://www.concordmonitor.com/2026/02/04/letter-pappas-fights-to-cut-taxes-energy-costs/"
+},
+{
+"text": "Contact",
+"href": "https://chrispappas.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Education",
+"href": "https://chrispappas.org/priority/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://chrispappas.org/endorsements/"
+},
+{
+"text": "Energy and Environment",
+"href": "https://chrispappas.org/priority/energy-and-environment/"
+},
+{
+"text": "Equal Rights and LGBTQ+",
+"href": "https://chrispappas.org/priority/equal-rights-lgbtq/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/pappasfornh/"
+},
+{
+"text": "Foreign Policy",
+"href": "https://chrispappas.org/priority/foreign-policy/"
+},
+{
+"text": "Health Care",
+"href": "https://chrispappas.org/priority/health-care/"
+},
+{
+"text": "Home",
+"href": "https://chrispappas.org/"
+},
+{
+"text": "Housing",
+"href": "https://chrispappas.org/priority/housing/"
+},
+{
+"text": "Immigration",
+"href": "https://chrispappas.org/priority/immigration/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pappasfornh/"
+},
+{
+"text": "Keene Sentinel",
+"href": "https://www.keenesentinel.com/opinion/letters_to_the_editor/reader-opinion-vote-for-pappas-for-our-energy-future-by-bob-king/article_456cac6a-22af-4f88-9589-faccd8cb6edb.html"
+},
+{
+"text": "Labor",
+"href": "https://chrispappas.org/priority/labor/"
+},
+{
+"text": "Law Enforcement",
+"href": "https://chrispappas.org/priority/law-enforcement/"
+},
+{
+"text": "Manchester Ink Link",
+"href": "https://manchester.inklink.news/the-soapbox-on-gas-prices-pappas-acts-while-sununu-sides-with-big-oil/"
+},
+{
+"text": "Manchester Ink Link",
+"href": "https://manchester.inklink.news/the-soapbox-pappas-is-fighting-for-veterans-while-trump-sununu-fail-them/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrispappas.org/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Nashua Ink Link",
+"href": "https://nashua.inklink.news/the-soapbox-chris-pappas-fights-for-affordable-groceries-strong-communities/"
+},
+{
+"text": "Nashua Ink Link",
+"href": "https://nashua.inklink.news/the-soapbox-chris-pappas-will-stand-up-for-new-hampshire-families-like-mine/"
+},
+{
+"text": "News",
+"href": "https://chrispappas.org/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Priorities",
+"href": "https://chrispappas.org/priorities/"
+},
+{
+"text": "Prioritizing Public Safety",
+"href": "https://chrispappas.org/priority/prioritizing-public-safety/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "Read Chris’s full plan to lower child care costs.",
+"href": "https://chrispappas.org/2026/04/chris-pappas-for-senate-highlights-plan-to-lower-child-care-costs-for-granite-state-families/"
+},
+{
+"text": "Read Chris’s full plan to lower energy costs.",
+"href": "https://chrispappas.org/2026/01/chris-pappas-for-senate-unveils-tax-cuts-and-lower-costs-blueprint-for-new-hampshire/"
+},
+{
+"text": "Read Chris’s full plan to lower grocery costs.",
+"href": "https://chrispappas.org/2026/03/chris-pappas-for-senate-highlights-actions-to-lower-grocery-costs-for-granite-state-families/"
+},
+{
+"text": "Read Chris’s full plan to lower health care costs.",
+"href": "https://chrispappas.org/2026/02/chris-pappas-for-senates-tax-cuts-and-lower-costs-blueprint-spotlights-efforts-to-make-health-care-affordable/"
+},
+{
+"text": "Read Chris’s full plan to lower housing costs.",
+"href": "https://chrispappas.org/2026/05/chris-pappas-for-senates-tax-cuts-and-lower-costs-blueprint-spotlights-efforts-to-make-housing-affordable/"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://chrispappas.org/priority/reproductive-freedom/"
+},
+{
+"text": "Seacoastonline",
+"href": "https://www.seacoastonline.com/story/opinion/letters/2026/06/17/letter-writers-weigh-in-on-us-senate-race-dover-politics-kittery-elections/90572098007/"
+},
+{
+"text": "Seacoastonline",
+"href": "https://www.seacoastonline.com/story/opinion/letters/2026/06/18/more-building-will-not-make-portsmouth-affordable-letters/90602071007/"
+},
+{
+"text": "Seniors",
+"href": "https://chrispappas.org/priority/seniors/"
+},
+{
+"text": "Small Businesses",
+"href": "https://chrispappas.org/priority/small-businesses/"
+},
+{
+"text": "Store",
+"href": "https://store.chrispappas.org/"
+},
+{
+"text": "Substack",
+"href": "https://substack.com/@chrispappasnh"
+},
+{
+"text": "Take Action",
+"href": "https://act.chrispappas.org/signup/take_action_pappas_campaign/"
+},
+{
+"text": "Taking on Corporate Special Interests",
+"href": "https://chrispappas.org/priority/taking-on-corporate-special-interests/"
+},
+{
+"text": "Tax Cuts and Lower Costs Blueprint",
+"href": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@pappasfornh"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@chrispappasnh"
+},
+{
+"text": "Union Leader",
+"href": "https://www.laconiadailysun.com/opinion/letters_to_editor/valerie-scarborough-pappas-will-continue-to-fight-for-granite-state-veterans/article_6ada9512-467e-4d3c-bde5-40b6cad72450.html"
+},
+{
+"text": "Union Leader",
+"href": "https://www.unionleader.com/opinion/letters_to_editor/letters-as-a-veteran-i-trust-pappas-to-fight-for-us/article_3bcee9f0-6874-49cf-aab8-5533240d6a6f.html"
+},
+{
+"text": "Union Leader",
+"href": "https://www.unionleader.com/opinion/op-eds/dr-thomas-m-sherman-why-we-cant-afford-sununu-or-brown/article_93a01da0-1924-4417-b2e2-a965413f81c5.html"
+},
+{
+"text": "Veterans and Servicemembers",
+"href": "https://chrispappas.org/priority/veterans-and-service-members/"
+},
+{
+"text": "X",
+"href": "https://x.com/chrispappasnh"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ChrisPappasNH"
+},
+{
+"text": "fighting to lower energy costs",
+"href": "https://chrispappas.org/2026/01/chris-pappas-for-senate-unveils-tax-cuts-and-lower-costs-blueprint-for-new-hampshire/"
+},
+{
+"text": "fighting to lower grocery costs",
+"href": "https://chrispappas.org/2026/03/chris-pappas-for-senate-highlights-actions-to-lower-grocery-costs-for-granite-state-families/"
+},
+{
+"text": "fighting to lower health care costs",
+"href": "https://chrispappas.org/2026/02/chris-pappas-for-senates-tax-cuts-and-lower-costs-blueprint-spotlights-efforts-to-make-health-care-affordable/"
+},
+{
+"text": "fighting to put money back in Granite State families’ pockets and expand access to affordable care",
+"href": "https://chrispappas.org/2026/04/chris-pappas-for-senate-highlights-plan-to-lower-child-care-costs-for-granite-state-families/"
+},
+{
+"text": "fighting to tackle the housing affordability crisis",
+"href": "https://chrispappas.org/2026/05/chris-pappas-for-senates-tax-cuts-and-lower-costs-blueprint-spotlights-efforts-to-make-housing-affordable/"
+},
+{
+"text": "leading efforts with Senator Mark Kelly",
+"href": "https://www.unionleader.com/opinion/op-eds/senator-mark-kelly-and-congressman-chris-pappas-the-cost-of-conflict-is-paid-by-american/article_fbf49416-dc33-466d-81d1-c3cd01fa621b.html"
+}
 ]

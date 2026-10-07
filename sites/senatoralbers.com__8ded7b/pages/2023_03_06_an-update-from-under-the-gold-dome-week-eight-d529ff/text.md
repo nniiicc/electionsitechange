@@ -1,9 +1,8 @@
-An Update From Under the Gold Dome: Week Eight
-Monday, March 06, 2023
-As the Senate concludes week eight of the 2023 Legislative Session, my Senate colleagues and I remain diligent in our efforts to ensure all legislation is properly vetted as we descend upon Crossover Day.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back An Update From Under the Gold Dome: Week Eight Monday, March 06, 2023 As the Senate concludes week eight of the 2023 Legislative Session, my Senate colleagues and I remain diligent in our efforts to ensure all legislation is properly vetted as we descend upon Crossover Day.
 Monday.
 March 6 marks the infamous Legislative Day 28 and the deadline is quickly approaching to have legislation passed through the Senate Chamber in order to be voted upon in the House.
-This week, the Senate took up a number of significant measures to continue to better the lives and livelihoods of all Georgians. 33 measures received passage in the Senate this past week and I am pleased to provide you with updates on a few bills of note.
+This week, the Senate took up a number of significant measures to continue to better the lives and livelihoods of all Georgians.
+33 measures received passage in the Senate this past week and I am pleased to provide you with updates on a few bills of note.
 The most eventful legislative day of the week fell on Thursday, as the Senate debated and passed a total of 15 pieces of legislation with a few bills of note aimed at protecting Georgia’s citizens and communities.
 I had the pleasure of bringing Senate Bill 170, the “Students and Teachers SPEAK Act,” before the Senate floor for a vote.
 As I previously outlined, this legislation is a product of concerns brought to my attention by my constituents in Senate District 56.
@@ -38,8 +37,7 @@ We have a full week of committee meetings and floor sessions ahead of us.
 I look forward to continuing to work alongside my fellow Senators as we quickly approach the home stretch to Sine Die.
 As always, if I can ever be of assistance to you, please do not hesitate to reach out.
 It is an honor to serve you here in Atlanta.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

@@ -1,12 +1,10 @@
-VIDEO: Senator Suhas Subramanyam Releases Television Ad “For You”
-Commercial Showcases Why Senator Subramanyam Fights to Stop Gun Violence and Defend Abortion Rights
-Ashburn, VA – Today, Senator Suhas Subramanyam, Obama White House Alumnus and Candidate for Virginia’s 10th Congressional District (VA-10), released his first television advertisement, titled “For You”.
+0 Skip to Content Home Priorities Press and Media Volunteer Contribute Open Menu Close Menu Contribute Home Priorities Press and Media Volunteer Open Menu Close Menu Home Priorities Press and Media Volunteer Contribute VIDEO: Senator Suhas Subramanyam Releases Television Ad “For You” Apr 30 Written By Suhas for Virginia Commercial Showcases Why Senator Subramanyam Fights to Stop Gun Violence and Defend Abortion Rights Ashburn, VA – Today, Senator Suhas Subramanyam, Obama White House Alumnus and Candidate for Virginia’s 10th Congressional District (VA-10), released his first television advertisement, titled “For You”.
 The ad is a playful look at Senator Subramanyam’s life in service, including his past as an Obama White House advisor and a volunteer firefighter/EMT, through the lens of the biggest role and motivation he’s had: dad.
 The ad also highlights Suhas’s impressive record fighting gun violence, taking on MAGA extremists, and defending abortion rights.
 The ad will air on television, streaming, and digital channels as Suhas brings his message directly to the voters of the 10th.
 The beginning of his ad campaign adds to the building momentum for Senator Subramanyam’s campaign, recently boasting local endorsements from Virginia State Senator Russet Perry, Loudoun County Supervisor Laura Tekrony, and Loudoun County School Board Chair Melinda Mansfield.
-###
-Senator Suhas Subramanyam has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
+### Senator Suhas Subramanyam has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
 In Richmond, he has worked across the aisle to pass gun violence prevention bills, protect democracy, and defend abortion rights.
 Senator Subramanyam is best positioned to keep VA-10 in Democratic hands because he represents more VA-10 constituents than any of the 16 primary election candidates, and he has consistently outperformed the Democratic ticket and delivered for his constituents.
 Suhas resides in Ashburn, Virginia (in VA-10) with his wife, Miranda, and their two daughters.
+Suhas for Virginia Previous Previous Virginia Senate Majority Leader Scott Surovell Endorses Suhas Subramanyam for Congress Next Next Virginia Senator Russet Perry Endorses Suhas Subramanyam for Congress DONATE Paid for by Suhas for Virginia Suhas for Virginia PO Box 302 Ashburn, VA 20146 Privacy Policy Message for VA10 Voters

@@ -1,11 +1,13 @@
-As the dust settles from a divisive presidential election, one message is clear: the American people are sick and tired of business as usual in Washington.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Huffington Post: Want to Really Drain the Swamp?
+Let’s Start with the Green Stuff January 21, 2017 January 21, 2017 As the dust settles from a divisive presidential election, one message is clear: the American people are sick and tired of business as usual in Washington.
 They want a government that works for them, not special interests.
 While Donald Trump says he wants to “drain the swamp,” we know that his campaign benefited from the typical rolodex of mega-donors and dark money from Super PACs.
 There are already signs that his priorities in office will serve his campaign donors, rather than the people who elected him (what a coincidence).
 Donald Trump doesn’t want to “drain the swamp,” he wants to double down on the old “politics as usual” that only enriches himself and those already at the top.
 The fact is: we will never make Washington work for the people until we fundamentally change the way we conduct our elections and reduce the influence of big money in politics.
-It’s a simple matter of “supply and demand.”
-First, we need to restrict the supply of campaign contributions by publically financing our elections, imposing disclosure requirements, overturning Citizens United and reinstating campaign contribution limits.
+It’s a simple matter of “supply and demand.” First, we need to restrict the supply of campaign contributions by publically financing our elections, imposing disclosure requirements, overturning Citizens United and reinstating campaign contribution limits.
 I know how much time and attention fundraising consumes.
 When I was first elected to Congress in 2014, my primary was the most expensive race in the country.
 That’s why I’ve introduced [ or, I am introducing ] legislation that would restrict Members of Congress from making direct solicitations for campaign contributions.
@@ -35,3 +37,4 @@ Rep.
 Brendan F.
 Boyle (PA-13) is the Congressman representing the 13th Congressional District of Pennsylvania.
 His district spans part of Philadelphia and Montgomery County.
+PoliticsPA: Boyle Calls for Investigation Into Claims Russia is Blackmailing Trump Philadelphia Magazine: Power – The Boyle Blueprint Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

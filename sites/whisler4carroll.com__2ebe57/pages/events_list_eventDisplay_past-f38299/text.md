@@ -1,12 +1,13 @@
-10 events found.
-Events
-- South Carroll Business Association Liberatores Ristorante 6300 Georgetown Blvd, Eldersburg, MD, United States
-- American Legion Post 223 Meeting American Legion Sykesville Memorial Post 223 7327 Slacks Rd, Sykesville, MD, United States
-- North Carroll Business Alliance Greenmount Station 1631 N Main St, Hampstead, MD, United States
-- Carroll Republican Victory Meeting Johansson's Dining House 4 W Main St, Westminster, MD, United States
-- Island Green Event details will be posted shortly
-- Ehrlich Fundraiser Conservative Carroll & Frederick Board of Education Candidates Holly Hills Country Club 5502 Mussetter Rd, Ijamsville, MD, United States
-- Carroll County GOP Woman of the Year Fireside on Main 1341 N Main St, Hampstead, MD, United States
-- Taste of Carroll Stratosphere Social 1332 Londontown Blvd, Eldersburg, MD, United States
-- DeWees / Culver Fundraiser Tony Locos Bar & Restaurant 710 Lisbon Center Dr, Woodbine, MD, United States
-- Drive for Victory Island Green 1199 Pleasant Valley Road South, Westminster, MD, United States
+Skip to content Home Steve Events Press and News Endorsements DONATE 10 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month #ago 4/15/2026 April 15 - 10/7/2026 Now Select date.
+April 2026 Wed 15 South Carroll Business Association April 15 @ 12:00 pm - 2:00 pm Liberatores Ristorante 6300 Georgetown Blvd, Eldersburg, MD, United States Wed 15 American Legion Post 223 Meeting April 15 @ 7:00 pm - 10:00 pm American Legion Sykesville Memorial Post 223 7327 Slacks Rd, Sykesville, MD, United States Thu 16 North Carroll Business Alliance April 16 @ 12:00 pm - 1:30 pm Greenmount Station 1631 N Main St, Hampstead, MD, United States Tue 21 Carroll Republican Victory Meeting April 21 @ 7:00 pm - 10:00 pm Johansson's Dining House 4 W Main St, Westminster, MD, United States Wed 22 Island Green April 22 @ 6:00 pm - 8:00 pm Event details will be posted shortly Wed 22 Ehrlich Fundraiser Conservative Carroll & Frederick Board of Education Candidates April 22 @ 6:00 pm - 10:00 pm Holly Hills Country Club 5502 Mussetter Rd, Ijamsville, MD, United States Sun 26 Carroll County GOP Woman of the Year April 26 @ 1:00 pm - 4:00 pm Fireside on Main 1341 N Main St, Hampstead, MD, United States Mon 27 Taste of Carroll April 27 @ 6:00 pm - 9:00 pm Stratosphere Social 1332 Londontown Blvd, Eldersburg, MD, United States Wed 29 DeWees / Culver Fundraiser April 29 @ 6:00 pm - 9:30 pm Tony Locos Bar & Restaurant 710 Lisbon Center Dr, Woodbine, MD, United States May 2026 Thu 21 Drive for Victory May 21 @ 5:30 pm - 7:00 pm Island Green 1199 Pleasant Valley Road South, Westminster, MD, United States Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Get In Touch!
+410.963.7066 410.963.7066 6766 Ridge Road, Marriottsville, MD 21104 6766 Ridge Road Marriottsville, MD 21104 steve@Whisler4Carroll.com steve@Whisler4Carroll.com Receive Updates Keep In Touch Name (Required) First Last Email (Required) Phone Consent I have read and agree to the Terms of Service and Privacy Policy By providing my mobile number I consent to receive periodic text messages from Friends of Steve Whisler.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms of Service and Privacy Policies.
+Keep In Touch Click Here to Leave Your Information Join Us On Social Media Additional Resources Privacy Policy Terms of Service Authorized by: Friends of Steve Whisler Joe Tier, Treasurer Website Design and Hosting by Technolegs © # Friends of Steve Whisler; Joe Tier, Treasurer - All Rights Reserved.
+Scroll To Top

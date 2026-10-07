@@ -1,20 +1,5 @@
-Embedded Files
-- Retired engineer of 37 years in the defense and commercial aerospace industries
-- Graduated Texas A&M University (Gig'em Aggies!)
-- Proud son of United States Air Force (USAF) Pilot
-- Hobbies and volunteerism
-- Eagle Scout
-- Private pilot license
-- Licensed motorman for antique streetcars
-- Master swimmer
-- Sings 'The Star-Spangled Banner'
-- Community Minded
-- Volunteer chess club coach at Tucson city K-8 school
-- Boy Scouts' leader and merit badge counselor
-- Campaign manager for Arizona state legislative candidate.
+Search this site Embedded Files Skip to main content Skip to navigation Douglas Everett LD18 Home About Issues Happenings Get Involved LD Map Literature Douglas Everett LD18 Home About Issues Happenings Get Involved LD Map Literature More Home About Issues Happenings Get Involved LD Map Literature Doug Everett of LD 18 - Bio Retired engineer of 37 years in the defense and commercial aerospace industries Graduated Texas A&M University (Gig'em Aggies!) Proud son of United States Air Force (USAF) Pilot Hobbies and volunteerism Eagle Scout Private pilot license Licensed motorman for antique streetcars Master swimmer Sings 'The Star-Spangled Banner' Community Minded V olunteer chess club coach at Tucson city K-8 school Boy Scouts' leader and merit badge counselor Campaign manager for Arizona state legislative candi d ate.
 Results exceeded expectations.
 PAID FOR BY ARIZONA DOUGSTER COMMITTEE.
 AUTHORIZED BY DOUG EVERETT.
-Page updated
-Google Sites
-Report abuse
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

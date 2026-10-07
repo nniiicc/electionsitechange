@@ -1,9 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61585027174929",
-"https://gaultforgeorgia.com/",
-"https://gaultforgeorgia.com/about",
-"https://gaultforgeorgia.com/cart",
-"https://gaultforgeorgia.com/gallery",
-"https://instagram.com/gaultforgeorgia?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://secure.actblue.com/donate/maureen-gault-1"
+{
+"text": "0",
+"href": "https://www.gaultforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.gaultforgeorgia.com/about"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/maureen-gault-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/maureen-gault-1"
+},
+{
+"text": "Gallery",
+"href": "https://www.gaultforgeorgia.com/gallery"
+},
+{
+"text": "Gault For Georgia",
+"href": "https://www.gaultforgeorgia.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.gaultforgeorgia.com/about"
+},
+{
+"text": "MaureenForForsyth@gmail.com",
+"href": "mailto:MaureenForForsyth@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585027174929"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gaultforgeorgia?igsh=ZDNlZDc0MzIxNw%3D%3D"
+}
 ]

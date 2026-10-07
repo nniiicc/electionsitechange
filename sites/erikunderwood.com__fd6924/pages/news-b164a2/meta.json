@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://erikunderwood.com/news/",
- "paid_for_by": "Paid for by Underwood for Colorado \u00a9 2026",
- "title": "Blog \u2014 Standard - Erik Underwood",
+ "fingerprint": "1a71da0d77dea618948f538a3c145f49ad9480a4",
+ "format": 3,
+ "paid_for_by": "Paid for by Underwood for Colorado © #",
+ "title": "Blog — Standard - Erik Underwood",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

@@ -1,24 +1,98 @@
 [
-"https://facebook.com/KellyAyotteForNH",
-"https://ge2flgfqlg.wpdns.site/privacy-policy",
-"https://instagram.com/kelly4nh",
-"https://kellyfornh.com/",
-"https://kellyfornh.com/about-kelly",
-"https://kellyfornh.com/accomplishments",
-"https://kellyfornh.com/get-involved",
-"https://kellyfornh.com/news",
-"https://kellyfornh.com/privacy-policy",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=10&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar10",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=100&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar100",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=25&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar25",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=250&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar250",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=5&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar5",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=50&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar50",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_alertbar",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_desktopnav",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_footer",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_mobilenav",
-"https://x.com/KellyAyotte",
-"https://youtube.com/@KellyforNewHampshire"
+{
+"text": "$10",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=10&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=100&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=25&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=250&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar250"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=5&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?amount=50&web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar50"
+},
+{
+"text": "About Kelly",
+"href": "https://kellyfornh.com/about-kelly/"
+},
+{
+"text": "Accomplishments",
+"href": "https://kellyfornh.com/accomplishments/"
+},
+{
+"text": "Click here",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_donate-bar"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_desktopnav"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_mobilenav"
+},
+{
+"text": "Get Involved",
+"href": "https://kellyfornh.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://kellyfornh.com/"
+},
+{
+"text": "Join Team Kelly",
+"href": "https://kellyfornh.com/get-involved/"
+},
+{
+"text": "News",
+"href": "https://kellyfornh.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kellyfornh.com/privacy-policy/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://ge2flgfqlg.wpdns.site/privacy-policy/"
+},
+{
+"text": "Vote Kelly — Keep New Hampshire Safe, Prosperous and Free!",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_governor-kelly-ayotte-will-keep-new-hampshire-safe-prosperous-and-free_alertbar"
+},
+{
+"text": "[image: Kelly for New Hampshire, Inc.]",
+"href": "https://kellyfornh.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KellyAyotteForNH"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kelly4nh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KellyforNewHampshire"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KellyAyotte"
+}
 ]

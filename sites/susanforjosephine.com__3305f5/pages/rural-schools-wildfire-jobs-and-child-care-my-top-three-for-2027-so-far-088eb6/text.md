@@ -1,6 +1,6 @@
-Question:
-Answer:
-I’m writing this while at the Capitol for the September Interim Legislative Days.
+Skip to content Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Donate Rural Schools, Wildfire Jobs, and Child Care: My Top Three for 2027 (So Far) I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Question: Answer: I’m writing this while at the Capitol for the September Interim Legislative Days.
 This week I’m not testifying, but I will be listening: to agencies, advocacy groups, legislators, and their staff about what’s actually being drafted for 2027.
 So when asked to get specific about my top three priorities, the timing felt right because “specific” is exactly what I owe you.
 As I have said previously, 2027 won’t be a session for promising new programs, and I still believe that.
@@ -14,12 +14,11 @@ I picked these because HD3 families and organizations specifically raised them w
 None of these proposals begins with creating a new tax or raising an existing tax rate.
 In a tight budget, funding a priority means making choices, measuring results, using available federal and state dollars well, and being willing to spend less on things that deliver a weaker return.
 That matters to me.
-I’ve been reading Annie Lowrey’s new book, The Time Tax, about how much of what’s broken in government isn’t simply a lack of money.
+I’ve been reading Annie Lowrey’s new book, The Time Tax , about how much of what’s broken in government isn’t simply a lack of money.
 It is also wasted time: duplicated paperwork, agencies that don’t talk to each other, and good programs that people can’t actually access.
 That idea runs through all three answers below, especially the “how do we pay for it” parts.
 1.
-Create two paths to safe, warm, and dry rural schools
-What I’d propose: Oregon needs two ways to help communities repair aging school buildings.
+Create two paths to safe, warm, and dry rural schools What I’d propose: Oregon needs two ways to help communities repair aging school buildings.
 The first is to strengthen the existing Oregon School Capital Improvement Matching Program so it works better for high-need districts with limited local bonding capacity.
 Right now, the program considers factors such as assessed property value, poverty, and enrollment, but part of the available funding is still awarded based on the order in which completed applications arrive.
 Districts must also pass a local bond before receiving the state match.
@@ -56,8 +55,7 @@ The goal is straightforward: children should be safe, warm, and dry at school, w
 Who I’d need to persuade: The House and Senate education committees, the Joint Ways and Means education budget process, and the Joint Ways and Means Capital Construction Subcommittee, which considers state bond investments.
 I’d also work with rural and small-district legislators from both parties, the Oregon Department of Education, school boards, facilities professionals, and communities that have firsthand experience with failed bonds and deferred maintenance.
 2.
-Build a real wildfire and forestry jobs pipeline at Rogue Community College
-What I’d propose: Build a year-round wildfire and forestry workforce pathway at RCC in partnership with OSU Extension, local employers, and existing training providers.
+Build a real wildfire and forestry jobs pipeline at Rogue Community College What I’d propose: Build a year-round wildfire and forestry workforce pathway at RCC in partnership with OSU Extension, local employers, and existing training providers.
 Young people coming out of HD3 high schools could complete foundational wildland-fire courses such as S-130 and S-190, first aid, employer-required safety and field preparation, and appropriate saw training.
 Paid work-based learning could then help them build the experience needed to compete for local jobs in wildfire response, fuels reduction, prescribed fire, and forest restoration.
 What it would cost: RCC already offers wildland-fire continuing education, generally during winter and spring, and OSU Extension already has wildfire and forest-resilience expertise working in Josephine County.
@@ -78,8 +76,7 @@ The pilot should measure completion rates, credentials earned, job placement, wa
 Who I’d need to persuade: RCC, OSU Extension, Rogue Workforce Partnership, the Higher Education Coordinating Commission, local employers, and the legislative committees responsible for higher education, workforce development, wildfire, and natural resources.
 Oregon Department of Forestry would also be an important partner and a potential employer, although completing the pathway would not guarantee anyone a position.
 3.
-Protect child care before it gets cut again
-What I’d propose: Hold the line against further reductions to Employment Related Day Care and Preschool Promise.
+Protect child care before it gets cut again What I’d propose: Hold the line against further reductions to Employment Related Day Care and Preschool Promise.
 I would also push for coordinated eligibility and enrollment across ERDC, Preschool Promise, and other means-tested family supports, including reuse of income documents when state and federal law allow it.
 Families should not have to repeatedly submit the same information to different parts of government when those programs could safely coordinate.
 What it would cost: This is defense, not expansion, and I want to be honest about that.
@@ -106,8 +103,7 @@ Protecting ERDC and Preschool Promise supports working parents now while helping
 I would expect the state to report whether the investment improves access, keeps providers operating, reduces enrollment delays, supports parental employment, and lowers the administrative cost per family served.
 Who I’d need to persuade: The Joint Ways and Means education budget process, the House and Senate committees responsible for early learning, leadership at the Department of Early Learning and Care, and the legislators carrying Corporate Activity Tax threshold bills.
 I need to be in that room while the trade-offs are being decided, not reacting to a deal after it has already been made.
-What’s still on the list, and why it’s not final
-I want to be straight with you about what this list leaves out, because it is not because these things don’t matter.
+What’s still on the list, and why it’s not final I want to be straight with you about what this list leaves out, because it is not because these things don’t matter.
 Elder care, mental health and recovery services, homeowners insurance relief, headwaters and water quality protection, court care, support for young people aging out of foster care, death doula licensing, a Children’s Health Cabinet, and help for mom-and-pop landlords who are getting squeezed out by out-of-state investment firms all came from real conversations with real people in HD3.
 I’m still working on every one of them with the community and with colleagues in Salem.
 But you asked for my highest priorities, not everything, and I think you deserve honesty about that difference.
@@ -123,3 +119,15 @@ I expect it to keep changing as the budget, legislation, and opportunities come 
 If I’ve got the order wrong, or missed something that matters more to your family than what’s on this list, tell me.
 This whole campaign runs on the idea that the community holds the wisdom, not me.
 I’m just trying to carry it into the room.
+See the Latest News My Response to Rep.
+Yunker’s Attack Ad I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » The Principles I’ll Take With Me to Salem.
+I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Why I’m Asking for Your Trust I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Facebook Instagram © # Susan for Josephine.
+All rights Reserved.

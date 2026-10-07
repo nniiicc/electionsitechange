@@ -1,19 +1,90 @@
 [
-"https://facebook.com/MartinezforAssembly",
-"https://facebook.com/stmarqphotography",
-"https://instagram.com/martinezforassembly",
-"https://instagram.com/stmarqphotography",
-"https://martinezforassembly.org/",
-"https://martinezforassembly.org/2026/10/04/ballot-statement-english",
-"https://martinezforassembly.org/2026/10/04/ballot-statement-english-2",
-"https://martinezforassembly.org/about",
-"https://martinezforassembly.org/contact-me",
-"https://martinezforassembly.org/gallery",
-"https://martinezforassembly.org/news",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/F2019Platform.pdf",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/Yes4Jess-Button-2.25b.jpg",
-"https://martinezforassembly.org/wp-content/uploads/2026/08/20260704_102910-scaled.jpg",
-"https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today",
-"https://twitter.com/PastorStMarq",
-"https://x.com/Jessicafor56th"
+{
+"text": "About",
+"href": "https://www.martinezforassembly.org/about"
+},
+{
+"text": "About",
+"href": "https://www.martinezforassembly.org/about/"
+},
+{
+"text": "Ballot Statement – English",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english-2/"
+},
+{
+"text": "Ballot Statement – Spanish",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english/"
+},
+{
+"text": "Contact Me",
+"href": "https://www.martinezforassembly.org/contact-me/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MartinezforAssembly/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/stmarqphotography"
+},
+{
+"text": "Gallery",
+"href": "https://www.martinezforassembly.org/gallery/"
+},
+{
+"text": "Give",
+"href": "https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.martinezforassembly.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/martinezforassembly"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stmarqphotography/"
+},
+{
+"text": "Mail",
+"href": "mailto:martinezforassembly@gmail.com"
+},
+{
+"text": "News",
+"href": "https://www.martinezforassembly.org/news/"
+},
+{
+"text": "Read more: Ballot Statement – English",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english-2/"
+},
+{
+"text": "Read more: Ballot Statement – Spanish",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/PastorStMarq"
+},
+{
+"text": "X",
+"href": "https://x.com/Jessicafor56th"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/F2019Platform.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/Yes4Jess-Button-2.25b.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2026/08/20260704_102910-scaled.jpg"
+},
+{
+"text": "martinezforassembly@gmail.com",
+"href": "mailto:office@martinezforassembly.org/"
+}
 ]

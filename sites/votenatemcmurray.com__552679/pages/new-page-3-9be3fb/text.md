@@ -1,5 +1,7 @@
-Shake Things Up
-I am not a political insider.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Shake Things Up I am not a political insider.
 Go ahead—pretend I am.
 Have I ever been hand-picked for a role?
 Given an easy race?
@@ -11,7 +13,7 @@ They’re already in charge.
 I’m the guy who fights corruption on both sides—and often gets hit for it.
 I fought Trump, and he attacked me personally.
 I fought Cuomo, too.
-I say that because so few politicians will ever fight for anything, let alone corruption inside their own party.
+I say that because so few politicians will ever fight for anything , let alone corruption inside their own party.
 Most won’t risk their donors, their careers, or their comfort.
 I did.
 I never took a bribe.
@@ -69,7 +71,7 @@ Issue press releases?
 In today’s partisan climate, a Republican Assembly member won’t even be allowed to rename a post office — let alone deliver real resources to Niagara Falls or Niagara County.
 That’s not opinion.
 That’s reality.
-So ask yourself an honest question: how has sending corrupt Republicans to Albany—even if you instinctively distrust Democrats—actually helped our region?
+So ask yourself an honest question: how has sending corrupt Republicans to Albany— even if you instinctively distrust Democrats —actually helped our region?
 Look around.
 Our cities are struggling.
 Our infrastructure is neglected.
@@ -94,3 +96,4 @@ Demand more.
 Give change a chance.
 Because doing nothing is the one choice we already know doesn’t work.
 What do we really have left to lose that we haven’t already lost?
+Volunteer and Sign Up for Updates!

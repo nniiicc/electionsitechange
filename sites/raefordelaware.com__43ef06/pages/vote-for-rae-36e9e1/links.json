@@ -1,32 +1,130 @@
 [
-"https://elections.delaware.gov/elections/votinglocations.html",
-"https://elections.delaware.gov/voter/waystovote.html",
-"https://facebook.com/raefordelaware",
-"https://gis.elections.delaware.gov/apps/5bc1fa9352464944be601441655e36a0/explore",
-"https://instagram.com/raefordelaware",
-"https://ivote.de.gov/",
-"https://maps.app.goo.gl/9nR9seTAWP5vXiED9",
-"https://maps.app.goo.gl/A4MCBsX1sgGfQ8DU8",
-"https://maps.app.goo.gl/G8a7B1ztoapY8gTE8",
-"https://maps.app.goo.gl/NWTni4Jp5sY324Dr7",
-"https://maps.app.goo.gl/PHGTSP6y4krJCCEd8",
-"https://maps.app.goo.gl/Q5FmXsg9Gu8YVyxQ7",
-"https://maps.app.goo.gl/eqbXxU5tJEqkLX7y8",
-"https://maps.app.goo.gl/jz6x6Fjr46e6HNNy9",
-"https://maps.app.goo.gl/oozU58QHLJmz8D3TA",
-"https://maps.app.goo.gl/vEKr1YZtSUFmBbs78",
-"https://maps.app.goo.gl/vjofUPRK17WTMosu8",
-"https://maps.app.goo.gl/z8P8ehtvfoRrNt1W6",
-"https://mobilize.us/raefordelaware",
-"https://raefordelaware.com/",
-"https://raefordelaware.com/cart",
-"https://raefordelaware.com/endorsements",
-"https://raefordelaware.com/home",
-"https://raefordelaware.com/meet-rae",
-"https://raefordelaware.com/priorities",
-"https://raefordelaware.com/volunteer",
-"https://raefordelaware.com/vote-for-rae",
-"https://raefordelaware.com/yard-signs",
-"https://secure.actblue.com/donate/rae-for-delaware",
-"https://youtube.com/@RaeForDelaware"
+{
+"text": "0",
+"href": "https://www.raefordelaware.com/cart"
+},
+{
+"text": "1006 Brandywine Blvd, Wilmington, De 19809",
+"href": "https://maps.app.goo.gl/9nR9seTAWP5vXiED9"
+},
+{
+"text": "1006 Wilson Rd, Wilmington, De 19803",
+"href": "https://maps.app.goo.gl/NWTni4Jp5sY324Dr7"
+},
+{
+"text": "1400 Foulk Rd, Wilmington, De 19803",
+"href": "https://maps.app.goo.gl/vEKr1YZtSUFmBbs78"
+},
+{
+"text": "1530 Foulk Rd, Wilmington, De 19803",
+"href": "https://maps.app.goo.gl/Q5FmXsg9Gu8YVyxQ7"
+},
+{
+"text": "1800 N Broom St, Wilmington, De 19802",
+"href": "https://maps.app.goo.gl/z8P8ehtvfoRrNt1W6"
+},
+{
+"text": "400 Hillcrest Ave, Wilmington, De 19809",
+"href": "https://maps.app.goo.gl/PHGTSP6y4krJCCEd8"
+},
+{
+"text": "412 Foulk Rd, Wilmington, De 19803",
+"href": "https://maps.app.goo.gl/vjofUPRK17WTMosu8"
+},
+{
+"text": "4425 N Market St, Wilmington, De 19802",
+"href": "https://maps.app.goo.gl/G8a7B1ztoapY8gTE8"
+},
+{
+"text": "4641 Weldin Rd, Wilmington, De 19803",
+"href": "https://maps.app.goo.gl/oozU58QHLJmz8D3TA"
+},
+{
+"text": "500 Duncan Rd, Wilmington, De 19809",
+"href": "https://maps.app.goo.gl/jz6x6Fjr46e6HNNy9"
+},
+{
+"text": "503 Crest Rd, Wilmington, De 19803",
+"href": "https://maps.app.goo.gl/A4MCBsX1sgGfQ8DU8"
+},
+{
+"text": "5201 Washington St Ext, Wilmington, De 19809",
+"href": "https://maps.app.goo.gl/eqbXxU5tJEqkLX7y8"
+},
+{
+"text": "Absentee Ballot",
+"href": "https://elections.delaware.gov/voter/waystovote.html#absentee"
+},
+{
+"text": "Click here to find your Polling Location",
+"href": "https://ivote.de.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rae-for-delaware"
+},
+{
+"text": "Early Voting",
+"href": "https://elections.delaware.gov/voter/waystovote.html#ev"
+},
+{
+"text": "Election Day Voting",
+"href": "https://elections.delaware.gov/voter/waystovote.html#electionday"
+},
+{
+"text": "Endorsements",
+"href": "https://www.raefordelaware.com/endorsements"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.raefordelaware.com/yard-signs"
+},
+{
+"text": "Meet Rae",
+"href": "https://www.raefordelaware.com/meet-rae"
+},
+{
+"text": "Polling Locations Map",
+"href": "https://gis.elections.delaware.gov/apps/5bc1fa9352464944be601441655e36a0/explore"
+},
+{
+"text": "Priorities",
+"href": "https://www.raefordelaware.com/priorities"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://www.mobilize.us/raefordelaware/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.raefordelaware.com/volunteer"
+},
+{
+"text": "Vote For Rae",
+"href": "https://www.raefordelaware.com/vote-for-rae"
+},
+{
+"text": "[image: Rae Krantz for Delaware State House District 6]",
+"href": "https://www.raefordelaware.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.raefordelaware.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/raefordelaware"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/raefordelaware"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RaeForDelaware"
+},
+{
+"text": "here",
+"href": "https://elections.delaware.gov/elections/votinglocations.html"
+}
 ]

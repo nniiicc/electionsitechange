@@ -1,13 +1,46 @@
 [
-"https://coloradosos.gov/voter/pages/pub/olvr/verifyNewVoter.xhtml",
-"https://facebook.com/share/1B25DcV32o?mibextid=wwXIfr",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/Seanvadney",
-"https://seanvadneyforsos.org/",
-"https://seanvadneyforsos.org/about-sean",
-"https://seanvadneyforsos.org/register-to-vote",
-"https://seanvadneyforsos.org/videos",
-"https://seanvadneyforsos.org/why-vote-libertarian%3F",
-"https://x.com/seanvadney",
-"https://youtube.com/@SeanVadneyForColoradoSOS"
+{
+"text": "About Sean",
+"href": "https://seanvadneyforsos.org/about-sean"
+},
+{
+"text": "Home",
+"href": "https://seanvadneyforsos.org/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.coloradosos.gov/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Register to Vote!",
+"href": "https://seanvadneyforsos.org/register-to-vote"
+},
+{
+"text": "Videos",
+"href": "https://seanvadneyforsos.org/videos"
+},
+{
+"text": "Why Vote Libertarian?",
+"href": "https://seanvadneyforsos.org/why-vote-libertarian%3F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1B25DcV32o/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Seanvadney"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/seanvadney"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SeanVadneyForColoradoSOS"
+}
 ]

@@ -1,15 +1,12 @@
-ABOUT ME
-Hi, I'm Katarina
-Katarina is a Bolton resident running for VT House Representative in the Washington-Chittenden district.
-She has experience in federal, state, and local government and a focus on community-centered solutions.
-Katarina will bring governance and policy experience to Montpelier.
-Her career has been dedicated to public service:
-- Local Experience: Most recently, she served the community as the Recreation Director for the Town of Waterbury.
+top of page KATARINA FOR VT HOUSE Home About Events Get Involved Endorsements Contact Donate More Use tab to navigate through the menu items.
+ABOUT ME Hi, I'm Katarina Katarina is a Bolton resident running for VT House Representative in the Washington-Chittenden district.
+She has experience in federal, state, and local government and a focus on community-centered solutions. ​ Katarina will bring governance and policy experience to Montpelier.
+Her career has been dedicated to public service: ​ Local Experience: Most recently, she served the community as the Recreation Director for the Town of Waterbury.
 In that role, she oversaw camps, the afterschool program, and the pool, while managing major capital projects for ADA-accessible playgrounds and a new soccer field.
-She also collaborated closely with community members for the disc golf course, youth sports teams, and our new skatepark.
-- State Experience: As the Senior Advisor to the Commissioner at the Vermont Department for Children and Families, she led legislative and policy reforms, drove systems change, and worked towards creative solutions for complex challenges.
-- Federal Experience: She spent nearly a decade working for Senator Bernie Sanders in his Burlington Office.
-There, she sought Vermonters’ vital feedback to help shape federal legislation, including the Elementary and Secondary Education Act reauthorization, Violence Against Women’s Act reauthorization, and the multiple COVID relief bills.
-Ultimately, the strength of our local communities doesn’t come from Montpelier - it comes from backyard barbecues, our town meetings, and uplifting the places we call home.
+She also collaborated closely with community members for the disc golf course, youth sports teams, and our new skatepark. ​ State Experience: As the Senior Advisor to the Commissioner at the Vermont Department for Children and Families, she led legislative and policy reforms, drove systems change, and worked towards creative solutions for complex challenges. ​ Federal Experience: She spent nearly a decade working for Senator Bernie Sanders in his Burlington Office.
+There, she sought Vermonters’ vital feedback to help shape federal legislation, including the Elementary and Secondary Education Act reauthorization, Violence Against Women’s Act reauthorization, and the multiple COVID relief bills. ​ ​ Ultimately, the strength of our local communities doesn’t come from Montpelier - it comes from backyard barbecues, our town meetings, and uplifting the places we call home.
 Our communities face real, complex hurdles ahead, but Katarina knows what Vermonters can achieve when we look out for one another.
-She is running because she believes that by working together, we can build a resilient, supportive future where every neighbor thrives.
+She is running because she believes that by working together, we can build a resilient, supportive future where every neighbor thrives. ​Support Our Cause I am running to be the next Democratic representative for Bolton, Buels Gore, Huntington, and Waterbury.
+This campaign is fueled by the people - input, volunteering, and donations.
+Please contribute what you can.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Subscribe Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home About Me Events Get Involved Contact KATARINA FOR VT HOUSE Paid for by Friends of Katarina Lisaius, Treasurer Josh Coffee, PO Box 101, Waterbury VT 05676 © # by Katarina Lisaius. bottom of page

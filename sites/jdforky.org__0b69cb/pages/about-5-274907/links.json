@@ -1,9 +1,42 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://jdforky.org/",
-"https://jdforky.org/about-5",
-"https://linkedin.com/company/wix-com",
-"https://secure.actblue.com/donate/jd-netherton-1",
-"https://twitter.com/wix"
+{
+"text": "About JD",
+"href": "https://www.jdforky.org/about-5"
+},
+{
+"text": "Contact",
+"href": "https://www.jdforky.org"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jd-netherton-1"
+},
+{
+"text": "Elect JD for State Representative for the 50th District",
+"href": "https://www.jdforky.org"
+},
+{
+"text": "Email pending*",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "JD Netherton For Kentucky",
+"href": "https://www.jdforky.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

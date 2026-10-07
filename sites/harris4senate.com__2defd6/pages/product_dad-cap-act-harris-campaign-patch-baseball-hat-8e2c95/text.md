@@ -1,16 +1,16 @@
-Description
-Wear your values with a low-key, worn-in vibe.
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Home / Uncategorized / Dad Cap — ‘Act Harris’ Campaign Patch Baseball Hat Dad Cap — ‘Act Harris’ Campaign Patch Baseball Hat $ 33.47 Wear your values with a low-key, worn-in vibe.
+This classic dad cap sits low and relaxed, its precurved Permacurv® visor and subtle antique-brass hideaway strap giving a lived-in finish that slips into everyday life.
+The front patch features a bold, circular multicolor graphic that reads with clear, hopeful energy — a tiny, confident statement on… Colors Choose an option Black Size Choose an option One size Clear Dad Cap — 'Act Harris' Campaign Patch Baseball Hat quantity Add to cart Category: Uncategorized Description Additional information Reviews (0) Description Wear your values with a low-key, worn-in vibe.
 This classic dad cap sits low and relaxed, its precurved Permacurv® visor and subtle antique-brass hideaway strap giving a lived-in finish that slips into everyday life.
 The front patch features a bold, circular multicolor graphic that reads with clear, hopeful energy — a tiny, confident statement on city streets, at volunteer events, or while knocking on doors.
 Lightweight cotton and breathable eyelets keep you cool during long days outside.
 It’s the kind of hat you reach for when you want to be comfortable, visible, and quietly committed.
-Product features
-– Unstructured 6-panel body for a low-profile, comfortable fit
-– Precurved Permacurv® visor with matching underbill and 4-row stitch detail
-– Self-fabric hideaway strap with antique brass buckle and grommet for adjustable fit
-– 100% cotton (65/35 polyester/cotton for green camo option) with sewn-in label and brand sticker on visor
-– Breathable eyelets; adult sizing; sourced blank from China
-Care instructions
-– Use warm water and dish soap and clean spots off your hat.
+Product features – Unstructured 6-panel body for a low-profile, comfortable fit – Precurved Permacurv® visor with matching underbill and 4-row stitch detail – Self-fabric hideaway strap with antique brass buckle and grommet for adjustable fit – 100% cotton (65/35 polyester/cotton for green camo option) with sewn-in label and brand sticker on visor – Breathable eyelets; adult sizing; sourced blank from China Care instructions – Use warm water and dish soap and clean spots off your hat.
 It’s not necessary to soak the whole item.
 For hard to clean spots use a soft bristled brush.
+Additional information Weight N/A Reviews There are no reviews yet.
+Be the first to review “Dad Cap — ‘Act Harris’ Campaign Patch Baseball Hat” Cancel reply Your email address will not be published.
+Required fields are marked * Your rating * Rate… Perfect Good Average Not that bad Very poor Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
+Related products 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $ 14.33 Select options Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $ 10.37 Select options Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt $ 30.60 – $ 43.22 Price range: $30.60 through $43.22 Select options Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

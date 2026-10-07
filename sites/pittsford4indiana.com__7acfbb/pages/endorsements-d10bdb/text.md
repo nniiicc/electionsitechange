@@ -1,16 +1,3 @@
-top of page
-Home
-About
-Gallery
-Calendar
-Volunteers
-Endorsements
-Donate
-Endorsements
-Indiana Stonewall Democrats
-Former State Representative, Vern Tincher
-United Mineworkers of America
-Plumbers, Steamfitters, and HVAC Services Local 440
-Plumbers and Steamfitters Local 136
-Indiana State AFL-CIO
-bottom of page
+top of page Home About Gallery Calendar Volunteers Endorsements Donate Endorsements Indiana Stonewall Democrats Former State Representative, Vern Tincher United Mineworkers of America Plumbers, Steamfitters, and HVAC Services Local 440 Plumbers and Steamfitters Local 136 Indiana State AFL-CIO 812-272-4781 pittsford4indiana@outlook.com Donations in the form of a check can be mailed to: P.O.
+Box 43 Ellettsville, IN 47429 ​ Please make checks payable to: Pittsford for Indiana © #.
+Paid for by Pittsford for Indiana. bottom of page

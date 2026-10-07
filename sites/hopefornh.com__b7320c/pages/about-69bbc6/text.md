@@ -1,7 +1,6 @@
-“I am an Honest, Kind, Smart, Persistent, sometimes Funny, Lifelong learner with passion for helping people thrive, respect for American democracy, and endless energy for the work of being your state representative.
+0 Skip to Content Hope for NH Home Meet Hope The Issues Volunteer Donate Open Menu Close Menu Hope for NH Home Meet Hope The Issues Volunteer Donate Open Menu Close Menu Home Meet Hope The Issues Volunteer Donate “I am an Honest, Kind, Smart, Persistent, sometimes Funny, Lifelong learner with passion for helping people thrive, respect for American democracy, and endless energy for the work of being your state representative.
 I am a content wife, proud Mom of wonderful adult daughters, delighted Gramma, gardener, cyclist, breast cancer survivor, and non-judgmental dietitian/diabetes educator.
-Even in these challenging times, I am an optimist – Hope for NH isn’t just a slogan.”
-Hope has lived in Sullivan County all her adult life.
+Even in these challenging times, I am an optimist – Hope for NH isn’t just a slogan.” Hope has lived in Sullivan County all her adult life.
 She co-led Stand-Up for Croydon Students, a nonpartisan initiative that reversed the 53% cut to the Croydon School District budget in 2022.
 Connecting with neighbors and friends throughout Croydon led to a 377-2 vote to fully restore funding.
 The campaign made national news for its’ unusually successful grassroots democracy – Hope believes that democracy works best when we talk & listen to each other to find common ground.
@@ -29,3 +28,7 @@ Hope is known for showing up throughout the district at school board, selectboar
 She connects and learns everywhere to bring local knowledge and perspective to her state rep work.
 She votes for the best interest of our communities.
 Hope believes strongly in government transparency and works hard to keep you informed.
+Hope for NH District 8 includes the towns of Acworth, Claremont, Croydon, Goshen, Langdon, Lempster, Springfield, Sunapee & Washington Made with Squarespace Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Newsletter Sign Up First Name Last Name Email Address Sign Up Thank you!
+About Get Involved Paid for by Hope Damon For Representative 447 Old Springfield Rd, Sunapee, NH 03782 Fiscal Agent: George Chait

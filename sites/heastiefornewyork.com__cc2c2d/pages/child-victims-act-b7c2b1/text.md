@@ -1,3 +1,7 @@
-Survivors of childhood sexual abuse contend with physical scars and unimaginable trauma, meaning that it can take years or even decades before they’re ready to even disclose the abuse to another person.
+Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Carl E.
+Heastie Home About Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment 83rd District Accomplishments Contact DONATE Issues Criminal Justice Reform Affordable Housing Lifting Up All New Yorkers Giving Young People Opportunities to Succeed Investing in Education Protecting the Environment Combating Gun Violence Child Victims Act Ending Sexual Harassment Survivors of childhood sexual abuse contend with physical scars and unimaginable trauma, meaning that it can take years or even decades before they’re ready to even disclose the abuse to another person.
 To give more survivors the opportunity to seek justice, Speaker Heastie fought for and passed the Child Victims Act.
 The law extends the criminal and civil statutes of limitations and creates a one-year “look-back window” for victims to hold their abusers accountable in court even if the statute of limitations has expired.
+Back to Top Donate FRIENDS OF CARL E.
+HEASTIE P.O.
+BOX 840 BRONX, NY 10469 info@heastiefornewyork.com

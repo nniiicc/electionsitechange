@@ -1,4 +1,8 @@
-In the wake of the leaked draft decision purporting to overturn Roe v.
+Skip to content About BECOME A MAYFIELD MAJORITY MAKER!
+Donate Endorsements Home Issues News Privacy Policy Thank You Become a Mayfield Majority Maker!
+About NEWS ISSUES ENDORSEMENTS VOLUNTEER DONATE Become a Mayfield Majority Maker!
+Menu Roe v.
+Wade is under attack in North Carolina May 10, 2022 In the wake of the leaked draft decision purporting to overturn Roe v.
 Wade, it is, first, important to remember that this is only a draft decision and that abortion remains legal in this country.
 Second, this draft decision is not a huge surprise.
 It follows a clear and consistent Republican effort to end the right to abortions and a hard right turn in the Supreme Court, despite the fact that poll after poll and year after year, voters are clear: they overwhelmingly support reproductive freedom and Roe v.
@@ -13,3 +17,4 @@ We are only two seats away from that in the Senate and two in the House.
 There are tight races across the state and Democrats need to win every one of them.
 I am proudly part of the pro-choice majority in this country, and will always fight to protect abortion rights and to push back against efforts to put these decisions in the hands of government, instead of with us and our doctors, where it belongs.
 Residents of Buncombe County, hear this: I will do everything in my power to ensure reproductive freedom remains legal in NC.
+Previous Post Julie Files for Re-election + Maps Next Post Let's be transparent about our donors ABOUT | ISSUES | PRIVACY POLICY | VOLUNTEER | DONATE Paid for by Julie Mayfield for NC Senate

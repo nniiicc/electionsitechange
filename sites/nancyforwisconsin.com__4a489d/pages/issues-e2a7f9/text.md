@@ -1,48 +1,23 @@
-ADVOCATE & SUPPORT
-ISSUES & ACTIONS
-Focusing on the Issues important to our District
-During this term representing you in the Legislature, I have continued to focus on important issues important to our District.
-- I have advocated and supported investments in infrastructure and local roads and bridges.
-- Led initiatives to support our agriculture industry and farmers.
-- Supported our Veterans and active-duty personnel.
-- Prioritized economic development and tourism.
-- Continued to focus on mental health initiatives.
-- Supported a budget that makes substantial investments in:
-- Public safety
-- Emergency services
-- Local health care providers
-- Enhanced support for seniors
-- I supported a state budge that will reduce taxes by nearly $1.5 billion, with targeted cuts for middle class and Wisconsin seniors.
-- I have authored and and signed into law bipartisan legislation that reduces liability for public safety support personnel assisting with mental health crises.
-TRUE LEADER
-Representing Her District
-- Committee on Agriculture
-- Committee on Health, Aging and Long-Term Care
-- Committee on Mental Health and Substance Abuse Prevention
-- Committee on Rural Development
-- Vice-Chair -- Committee on Science, Technology, and AI
-- Chair -- Committee on Transportation
-- Committee on Veterans and Military Affairs
-- Joint Legislative Council
-- Speaker's Task Force on Elder Services
-Transportation
-COMMITTEE CHAIR
-It continues to be a privilege to Chair the Assembly Committee on Transportation, a role I've held since the 2023-2024 Legislative Session.
+top of page Nancy VanderMeer FOR 70TH ASSEMBLY Home About Legislation Authored Proposals Co-Authored Proposals Co-Sponsored Proposals Issues & Actions Successes Get Involved Contribute Volunteer Photos District Contact More Use tab to navigate through the menu items.
+18940 Eden Avenue | Tomah, WI 54660 608-343-6666 DONATE VOLUNTEER ADVOCATE & SUPPORT ISSUES & ACTIONS Focusing on the Issues important to our District During this term representing you in the Legislature, I have continued to focus on important issues important to our District. ​ I have advocated and supported investments in infrastructure and local roads and bridges.
+Led initiatives to support our agriculture industry and farmers.
+Supported our Veterans and active-duty personnel.
+Prioritized economic development and tourism.
+Continued to focus on mental health initiatives.
+Supported a budget that makes substantial investments in: Public safety Emergency services Local health care providers Enhanced support for seniors I supported a state budge that will reduce taxes by nearly $1.5 billion, with targeted cuts for middle class and Wisconsin seniors.
+I have authored and and signed into law bipartisan legislation that reduces liability for public safety support personnel assisting with mental health crises.
+TRUE LEADER Representing Her District Committee on Agriculture Committee on Health, Aging and Long-Term Care Committee on Mental Health and Substance Abuse Prevention Committee on Rural Development Vice-Chair -- Committee on Science, Technology, and AI Chair -- Committee on Transportation Committee on Veterans and Military Affairs Joint Legislative Council Speaker's Task Force on Elder Services Transportation COMMITTEE CHAIR It continues to be a privilege to Chair the Assembly Committee on Transportation, a role I've held since the 2023-2024 Legislative Session.
 Those that have followed my legislative work know that I place a high value on the committee process.
 It's tremendously valuable to hear directly from citizens that proposals impact, including professional stakeholders.
 The standing committee process also provides an opportunity to vet proposals, work with my legislative colleagues, and attempt to reach bipartisan consensus whenever possible.
 I'm happy to Chair the committee because it's an issue area that affects virtually all individuals and families I represent.
 Sustaining, improving, and modernizing public infrastructure impacts everything from important day-to-day activities like driving to work or safety picking up your kids from school, but it's also important for local and statewide economies and providing consistency and safety for commercial drivers and agricultural commodity haulers.
 This session, we've worked with and recommended a variety of proposals, ranging from authorizing safer lights on funeral procession vehicles, to eliminating the personalized registration fee for gold star family license plates, to allowing camera monitoring systems on commercial trucks to modernize safety options for CDL driver.
-Affordability
-TRUE FOCUSES ON MANY LEVELS
-The Wisconsin Assembly focused its affordability work heavily on housing initiatives, passing bills addressing workforce housing, zoning, and tax incentives.
+Affordability TRUE FOCUSES ON MANY LEVELS The Wisconsin Assembly focused its affordability work heavily on housing initiatives, passing bills addressing workforce housing, zoning, and tax incentives.
 Key actions include passing legislation for residential tax incremental financing, establishing a zero-interest workforce home loan program through the Wisconsin Housing and Economic Development Authority, and updating state housing laws.
-Workforce Housing and Loan Programs
-- Assembly Bill 194 (Wisconsin Act 237): Modifies competitive workforce housing loan programs (Vacancy-to-Vitality, Infrastructure Access, and Restore Main Street) funded via a historic $525 million state investment
-- Assembly Bill 454 (Wisconsin Act 239): Creates a statewide workforce home loan program offering zero-interest gap financing via WHEDA to help working families buy or rehabilitate homes.
-- Assembly Bill 182 (Wisconsin Act 236): Adjusts the Low-Income Housing Tax Credit (LIHTC) program, mandating that at least 35% of state tax credits target rural housing projects.
-Zoning and Development Reforms
-- Assembly Bill 451 / Senate Bill 480: Authorizes residential tax incremental districts (TIDs) to give local municipalities flexibility in using tax increments to pay for subdivision and infrastructure costs.
-- Assembly Bill 449 / Assembly Bill 453: Advances zoning changes to require local approval for accessory dwelling units (ADUs) on single-family lots and streamlines residential rezoning alignment.
-- Assembly Bill 452: Streamlines subdivision plat approvals to reduce local red tape for residential construction.
+Workforce Housing and Loan Programs Assembly Bill 194 (Wisconsin Act 237): Modifies competitive workforce housing loan programs (Vacancy-to-Vitality, Infrastructure Access, and Restore Main Street) funded via a historic $# million state investment Assembly Bill 454 (Wisconsin Act 239): Creates a statewide workforce home loan program offering zero-interest gap financing via WHEDA to help working families buy or rehabilitate homes.
+Assembly Bill 182 (Wisconsin Act 236): Adjusts the Low-Income Housing Tax Credit (LIHTC) program, mandating that at least 35% of state tax credits target rural housing projects.
+Zoning and Development Reforms Assembly Bill 451 / Senate Bill 480: Authorizes residential tax incremental districts (TIDs) to give local municipalities flexibility in using tax increments to pay for subdivision and infrastructure costs.
+Assembly Bill 449 / Assembly Bill 453: Advances zoning changes to require local approval for accessory dwelling units (ADUs) on single-family lots and streamlines residential rezoning alignment.
+Assembly Bill 452: Streamlines subdivision plat approvals to reduce local red tape for residential construction.
+Home About Legislation Authored Proposals Co-Authored Proposals Co-Sponsored Proposals Issues & Actions Successes Get Involved Contribute Volunteer Photos District Contact - RE-ELECT - Nancy VanderMeer - FOR ASSEMBLY - © # NANCY VANDERMEER FOR WISCONSIN designed by: Authorized and Paid for by Nancy 4 Wisconsin Gail Raddatz - Treasurer 18940 Eden Avenue Tomah, WI 54660 608-343-6666 info@nancyforwisconsin.com bottom of page

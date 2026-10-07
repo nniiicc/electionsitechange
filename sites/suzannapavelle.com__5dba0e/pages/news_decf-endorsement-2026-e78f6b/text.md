@@ -1,7 +1,8 @@
-About the endorsement
-Suzanna Pavelle’s campaign for Florida House District 19 has been endorsed by the Democratic Environmental Caucus of Florida (DECF).
+= scrolledFromTopThreshold; logoScrolled = window.pageYOffset >= logoOpacityThreshold" :class="{ 'bg-white': !isHeaderTransparent, 'bg-transparent site-header--over-hero': isHeaderTransparent && !scrolledFromTop }" class="fixed inset-x-0 top-0 z-10 px-4 site-header lg:px-8 js-header transition-colors duration-300 in-[.admin-bar]:top-[32px]" > Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News Donate Volunteer Menu Close Slideover Navigation Close Meet Suzanna Priorities Issues Close Issues Affordability Public Education Smart Growth Contact Events News Democratic Environmental Caucus of Florida endorses Suzanna Pavelle for Florida House District 19 Democratic Environmental Caucus of Florida endorses Suzanna Pavelle About the endorsement Suzanna Pavelle’s campaign for Florida House District 19 has been endorsed by the Democratic Environmental Caucus of Florida (DECF).
 In a letter announcing the endorsement, DECF President Judy Freiberg said Pavelle is a candidate who, when elected, commits to promoting policies that meet the challenges of the environmental and climate crisis Florida is facing.
 “I am thrilled to announce my endorsement from the Democratic Environmental Caucus of Florida,” Pavelle said.
 “I am a candidate who, when elected, commits to promoting policies that meet the challenges of the environmental and climate crisis we are facing in the state of Florida.
-Thank you for your endorsement.”
-The endorsement adds to the campaign’s growing public recognition and reinforces Pavelle’s commitment to protecting Florida’s waterways, wetlands, and natural heritage for District 19 families.
+Thank you for your endorsement.” The endorsement adds to the campaign’s growing public recognition and reinforces Pavelle’s commitment to protecting Florida’s waterways, wetlands, and natural heritage for District 19 families.
+Footer Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News BlueSky Twitter Threads Facebook © # Suzanna Pavelle for Florida House 19 Suzanna Pavelle is running for Florida State Representative in House District 19, serving Flagler County and part of St.
+Johns County, to fight for affordability, strong public schools, and responsible growth in 2026., Inc.
+All rights reserved.

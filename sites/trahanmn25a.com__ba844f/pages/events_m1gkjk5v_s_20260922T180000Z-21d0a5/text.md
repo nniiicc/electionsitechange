@@ -1,9 +1,2 @@
-The Arc Minnesota - SE Region, The Region 10 Quality Council and SAM (Self-advocates MN) SE Forum
-Time
-Tuesday, Sep 22, 2026
-6:00 PM – 8:00 PM
-About this event
-This event focuses on issues that impact people with disabilities in our community.
-Map
-3108 US 52
-Rochester, MN 55901
+Meet Brad Issues News Volunteer Contribute Events / The Arc Minnesota - SE Region, The Region 10 Quality Council and SAM (Self-advocates MN) SE Forum The Arc Minnesota - SE Region, The Region 10 Quality Council and SAM (Self-advocates MN) SE Forum Time Tuesday, Sep 22, 2026 6:00 PM – 8:00 PM Location 3108 US 52, Rochester, MN, 55901 Map About this event This event focuses on issues that impact people with disabilities in our community.
+Map 3108 US 52 Rochester, MN 55901 Directions → Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

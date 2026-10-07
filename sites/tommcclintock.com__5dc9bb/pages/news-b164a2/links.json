@@ -1,23 +1,134 @@
 [
-"https://facebook.com/jointom",
-"https://tommcclintock.com/",
-"https://tommcclintock.com/about-tom-mcclintock",
-"https://tommcclintock.com/calaveras-county-republican-party",
-"https://tommcclintock.com/california-republican-party-endorsed-rep-tom-mcclintock",
-"https://tommcclintock.com/contact-the-campaign",
-"https://tommcclintock.com/donate",
-"https://tommcclintock.com/former-rep-devin-nunes-endorses-rep-tom-mcclintock",
-"https://tommcclintock.com/former-rep-jeff-denham-endorses-rep-tom-mcclintock",
-"https://tommcclintock.com/house-republican-leader-rep-kevin-mccarthy-and-california-republican-house-delegation-endorses-rep-tom-mcclintock",
-"https://tommcclintock.com/mcclintock-on-the-propositions",
-"https://tommcclintock.com/mcclintock-on-the-propositions-general-election-2024",
-"https://tommcclintock.com/mcclintock-on-the-propositions-november-2026",
-"https://tommcclintock.com/news",
-"https://tommcclintock.com/privacy-policy",
-"https://tommcclintock.com/rep-mcclintock-on-general-election-victory",
-"https://tommcclintock.com/rep-mcclintock-on-the-primary-victory",
-"https://tommcclintock.com/terms-and-conditions",
-"https://tommcclintock.com/volunteer",
-"https://twitter.com/tommcclintock",
-"https://youtube.com/user/votemcclintock"
+{
+"text": "About",
+"href": "https://www.tommcclintock.com/about-tom-mcclintock/"
+},
+{
+"text": "Calaveras County Republican Party",
+"href": "https://www.tommcclintock.com/calaveras-county-republican-party/"
+},
+{
+"text": "California Republican Party Endorses Rep. Tom McClintock",
+"href": "https://www.tommcclintock.com/california-republican-party-endorsed-rep-tom-mcclintock/"
+},
+{
+"text": "Contact the campaign",
+"href": "https://www.tommcclintock.com/contact-the-campaign/"
+},
+{
+"text": "Donate",
+"href": "https://www.tommcclintock.com/donate/"
+},
+{
+"text": "Former Rep. Devin Nunes Endorses Rep. Tom McClintock",
+"href": "https://www.tommcclintock.com/former-rep-devin-nunes-endorses-rep-tom-mcclintock/"
+},
+{
+"text": "Former Rep. Jeff Denham Endorses Rep. Tom McClintock",
+"href": "https://www.tommcclintock.com/former-rep-jeff-denham-endorses-rep-tom-mcclintock/"
+},
+{
+"text": "Home",
+"href": "https://www.tommcclintock.com/"
+},
+{
+"text": "House Republican Leader Rep. Kevin McCarthy and California Republican House Delegation Endorses Rep. Tom McClintock",
+"href": "https://www.tommcclintock.com/house-republican-leader-rep-kevin-mccarthy-and-california-republican-house-delegation-endorses-rep-tom-mcclintock/"
+},
+{
+"text": "Issues",
+"href": "https://www.tommcclintock.com/#issues"
+},
+{
+"text": "McClintock on the Propositions",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions/"
+},
+{
+"text": "McClintock on the Propositions – General Election 2024",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions-general-election-2024/"
+},
+{
+"text": "McClintock on the Propositions – November 2026",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions-november-2026/"
+},
+{
+"text": "News",
+"href": "https://www.tommcclintock.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tommcclintock.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/calaveras-county-republican-party/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/california-republican-party-endorsed-rep-tom-mcclintock/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/former-rep-devin-nunes-endorses-rep-tom-mcclintock/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/former-rep-jeff-denham-endorses-rep-tom-mcclintock/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/house-republican-leader-rep-kevin-mccarthy-and-california-republican-house-delegation-endorses-rep-tom-mcclintock/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions-general-election-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions-november-2026/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/mcclintock-on-the-propositions/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/rep-mcclintock-on-general-election-victory/"
+},
+{
+"text": "Read More",
+"href": "https://www.tommcclintock.com/rep-mcclintock-on-the-primary-victory/"
+},
+{
+"text": "Rep. McClintock on General Election Victory",
+"href": "https://www.tommcclintock.com/rep-mcclintock-on-general-election-victory/"
+},
+{
+"text": "Rep. McClintock on the Primary Victory",
+"href": "https://www.tommcclintock.com/rep-mcclintock-on-the-primary-victory/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.tommcclintock.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tommcclintock.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/tommcclintock"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/jointom"
+},
+{
+"text": "[image]",
+"href": "https://www.tommcclintock.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/user/votemcclintock"
+}
 ]

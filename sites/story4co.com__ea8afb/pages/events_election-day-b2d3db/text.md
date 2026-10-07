@@ -1,5 +1,6 @@
-Team Tammy is doing a phone banking session on election day to engage voters to GET OUT THE VOTE!
+About Endorsements Events Priorities In the News Volunteer Yard Signs DONATE CONTACT Back Issues Legislative Achievements About Endorsements Events Priorities Issues Legislative Achievements In the News Volunteer Yard Signs DONATE CONTACT Colorado House District 25 Back to All Events Election Day Team Tammy Phone Bank Tuesday, November 5, 2024 7:00 AM 6:00 PM 07:00 18:00 Google Calendar ICS Team Tammy is doing a phone banking session on election day to engage voters to GET OUT THE VOTE!
 We need supporters to help us reach out to the community, explain why we support Tammy and encourage individuals to go out and vote.
 Your engagement can make a real impact.
 Join us at the campaign office when you can from 7:00am-6:00 pm!
 Sign up HERE for location details.
+Source:: https://forms.gle/UJMABDhaTKsDQURY7 Earlier Event: November 3 Team Tammy Canvass with AFL-CIO, CEA & Affiliates Later Event: June 25 Summer Solstice Campaign Kickoff Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

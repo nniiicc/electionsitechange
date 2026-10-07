@@ -1,10 +1,6 @@
-HOLLAND, MI – The FBI released new data that shows crime is soaring across MI-04 with Kalamazoo and Battle Creek now ranking among the worst cities for violent crime anywhere in America.
-Congressman Bill Huizenga’s campaign released the following statement:
-“Michigan families desperate for safer streets won’t find help from radicals like ’Tax Man’ Sean McCann or his buddy Abdul El-Sayed,” said Huizenga campaign spokesman Calvin Moore.
-“Between El Sayed repeatedly endorsing calls to defund the police, McCann voting against funding school police officers and proudly touting the endorsement of groups that want to strip funding from law enforcement, these two have shown their extreme agenda would only mean more crime in our neighborhoods.”
-As a reminder…
-- Abdul El-Sayed has repeatedly endorsed calls to defund the police
-- Sean McCann proudly accepted endorsements from groups have called to defund law enforcement.
-- McCann voted against funding school resource officers and police departments in Michigan schools.
-- McCann has voted with Democratic leadership over 97% of the time in the State Senate.
-When pressed to identify a single major issue where he stood up to his party, McCann admitted: “I think that, by and large, I’ve been mostly in step with my party… to me, I’m satisfied with my record.”
+Donate About Issues News Join Donate News New FBI Crime Data: McCann and El-Sayed’s Anti-Police Agenda Leaves MI-04 Families at Risk August 20, 2026 Back to News HOLLAND, MI – The FBI released new data that shows crime is soaring across MI-04 with Kalamazoo and Battle Creek now ranking among the worst cities for violent crime anywhere in America.
+Congressman Bill Huizenga’s campaign released the following statement: “ Michigan families desperate for safer streets won’t find help from radicals like ’Tax Man’ Sean McCann or his buddy Abdul El-Sayed,” said Huizenga campaign spokesman Calvin Moore.
+“Between El Sayed repeatedly endorsing calls to defund the police, McCann voting against funding school police officers and proudly touting the endorsement of groups that want to strip funding from law enforcement, these two have shown their extreme agenda would only mean more crime in our neighborhoods.” As a reminder… Abdul El-Sayed has repeatedly endorsed calls to defund the police Sean McCann proudly accepted endorsements from groups have called to defund law enforcement.
+McCann voted against funding school resource officers and police departments in Michigan schools.
+McCann has voted with Democratic leadership over 97% of the time in the State Senate.
+When pressed to identify a single major issue where he stood up to his party, McCann admitted: “I think that, by and large, I’ve been mostly in step with my party… to me, I’m satisfied with my record.” Share: PAID FOR BY HUIZENGA FOR CONGRESS PRIVACY POLICY · TERMS AND CONDITIONS About Issues News Join

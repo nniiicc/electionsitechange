@@ -1,9 +1,7 @@
-Endorsements
-Thank you to the community members, and organizations that have offered their support to my people-powered campaign.
+top of page KATARINA FOR VT HOUSE Home About Events Get Involved Endorsements Contact Donate More Use tab to navigate through the menu items.
+Endorsements Thank you to the community members, and organizations that have offered their support to my people-powered campaign.
 I have known Katarina for over 20 years and she has been nothing but a dedicated community member and neighbor.
-Her experience working on policies for Bernie Sanders, protecting Vermont's most vulnerable for DCF and helping lift Waterbury as our Recreation Director all tell me Kat will point us in the right direction in Montpelier.
--Dustin Spence
-As the retired Bolton Town Clerk and Treasurer, I had the privilege of serving our community for more than a decade.
+Her experience working on policies for Bernie Sanders, protecting Vermont's most vulnerable for DCF and helping lift Waterbury as our Recreation Director all tell me Kat will point us in the right direction in Montpelier. -Dustin Spence As the retired Bolton Town Clerk and Treasurer, I had the privilege of serving our community for more than a decade.
 During that time, I had the opportunity to work with dozens of volunteers and residents committed to making our community stronger.
 Katarina Lisaius has always been one of those people.
 Whether volunteering during elections, sewing masks for residents during the pandemic, or stepping up whenever help was needed, she has consistently put community first.
@@ -17,6 +15,7 @@ She knows that the best solutions come from working collaboratively, respecting 
 The qualities I value most in a public servant are integrity, compassion, common sense, and a willingness to roll up your sleeves and get the work done.
 Katarina has demonstrated those qualities time and again.
 I am proud to endorse Katarina Lisaius for the Vermont House of Representatives.
-I know she will be a thoughtful, accessible, and hardworking representative who will serve our district with the same dedication she has already shown our community.
--Amy Grover
-Organizational Endorsements
+I know she will be a thoughtful, accessible, and hardworking representative who will serve our district with the same dedication she has already shown our community. -Amy Grover Organizational Endorsements ​Support Our Cause I am running to be the next Democratic representative for Bolton, Buels Gore, Huntington, and Waterbury.
+This campaign is fueled by the people - input, volunteering, and donations.
+Please contribute what you can.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Subscribe Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home About Me Events Get Involved Contact KATARINA FOR VT HOUSE Paid for by Friends of Katarina Lisaius, Treasurer Josh Coffee, PO Box 101, Waterbury VT 05676 © # by Katarina Lisaius. bottom of page

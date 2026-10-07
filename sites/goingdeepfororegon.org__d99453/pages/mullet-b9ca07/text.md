@@ -1,6 +1,4 @@
-I'm Hair Proud
-Mullet
-I wear a mullet, and have worn my hair like this for decades.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map I'm Hair Proud Mullet I wear a mullet, and have worn my hair like this for decades.
 It's part of who I am, and I'll keep it this way as long as I am able.
 As an army brat, my early haircuts were crewcuts.
 In the late 1960s, while my father was on his second tour to Vietnam, iirc, I persuaded my mother to let me grow it out into a Beatles-style mop-top with a part on the left.
@@ -39,5 +37,6 @@ My hairline is my original hairline, and most of my hair is still black.
 I credit my genes for all that, most of all my Chinese genes.
 While I lived in Boston, I would occasionally get guys yelling at me “Get a haircut, you hippie!” But that doesn’t happen in Oregon.
 What does happen is far better.
-People will walk up to me occasionally – 10 year olds, people older than me, men, women – and say things like “dude, I love your hair!”
-So do I.
+People will walk up to me occasionally – 10 year olds, people older than me, men, women – and say things like “dude, I love your hair!” So do I.
+Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

@@ -1,7 +1,4 @@
-Make Iowa healthy again by reforming Medicaid by Jack Hatch
-Updated: Sep 5
-Reshared from Bleeding Heartland, March 3, 2026
-Jack Hatch is a former state senator and was an author of every health care reform bill in Iowa from 2003 through 2014.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate All Posts Health Politics Education Religion Rural Iowa Agriculture Economy Environment Make Iowa healthy again by reforming Medicaid by Jack Hatch Apr 1 5 min read Updated: Sep 5 Reshared from Bleeding Heartland, March 3, 2026 Jack Hatch is a former state senator and was an author of every health care reform bill in Iowa from 2003 through 2014.
 Health care is not a privilege.
 It is not a reward for good luck, good jobs, or good timing.
 It is a basic right.
@@ -13,13 +10,13 @@ We created bipartisan commissions to make policy.
 We listened to consumers, providers and other stakeholders.
 We debated publicly.
 And we acted with courage.
-That tradition expanded children’s coverage to become the state with the highest percentage per capita for children covered by insurance in the nation as listed by the Kaiser Family Foundation (now known as KFF) in 2013.
+That tradition expanded children’s coverage to become the state with the highest percentage per capita for children covered by insurance in the nation as listed by the Kaiser Family Foundation (now known as KFF) in 2013 .
 We led when we modernized health records.
 We led when we built patient-centered care.
 We led when we believed that health care reform required public conversation, not private contracts.
 With the passage of President Donald Trump’s so-called “One Big Beautiful Bill,” Congress stripped subsidies for adults receiving Medicaid, and the Iowa legislature is now retreating on providing some Medicaid services to children and adults.
 Iowa is losing health care coverage for over 125,000 Iowans.
-Last week, Republicans in the Iowa Senate approved Senate File 2422, which provides the opportunity to make Iowa the healthiest state in America again.
+Last week, Republicans in the Iowa Senate approved Senate File 2422 , which provides the opportunity to make Iowa the healthiest state in America again.
 But unfortunately, in its current form the bill (now pending in the Iowa House) would do the opposite.
 And the simple truth remains: we are not focused on providing the best health care for Iowans.
 Instead, we are engaging in political culture wars and not on making Iowans healthier.
@@ -27,16 +24,15 @@ Iowa faces a clear choice in 2026.
 We can protect and extend the Affordable Care Act’s individual marketplace, continue expanding Medicaid, and strengthen services for all Iowans—or we can allow instability to erode and inequality to widen.
 There is no neutral path.
 Doing nothing is a decision, and it is one that causes real harm to real people.
-In Iowa, where self-employment, seasonal work, and small businesses make up a significant part of our economy, the individual marketplace is not a gap-filling system—it is the system.
+In Iowa, where self-employment, seasonal work, and small businesses make up a significant part of our economy, the individual marketplace is not a gap-filling system— it is the system .
 Ending or shrinking these subsidies does not punish Washington politicians—it punishes the neighbor down the street.
 As currently written, Senate File 2422 would increase health care costs for Iowans and limit access to the children and working families.
 If cost neutrality is the main goal of Senate File 2422, then the Iowa House should take advantage of the bill’s funding mechanism and support two significant cost-saving measures.
 The first is to incorporate Iowa Medicaid Director Lee Grossman’s recommendation to transition pharmacy benefits from private managed care to public administration.
 Grossman (appointed by the Reynolds administration) told lawmakers in January that the state projects $27.5 million in savings by administering pharmacy benefits through the Iowa Department of Health and Human Services.
-At a time when Iowa has a huge deficit, this is certainly smart.
+At a time when Iowa has a huge deficit , this is certainly smart.
 The second funding mechanism is to provide for Iowans to buy Medicaid insurance.
-That is known as the “public option.”
-This is not radical.
+That is known as the “public option.” This is not radical.
 It is responsible.
 It is cheaper to keep people insured than to treat advanced illnesses.
 It is cheaper to manage chronic disease than to wait for crisis.
@@ -71,9 +67,8 @@ It is about continuity of care.
 It is about respect.
 In fact, Iowa needs to expand Medicaid services even further as a “public option” to all Iowans.
 Recently, Democratic State Senator Catelin Drey of Sioux City announced she had been diagnosed with stage one uterine cancer.
-Speaking on the Iowa Senate floor, she explained why she shared the details about her medical condition: “I am not interested in pretending this is just a private medical matter.
-It is a public policy failure playing out in my body.”
-Senator Drey’s situation is not rare.
+Speaking on the Iowa Senate floor , she explained why she shared the details about her medical condition: “I am not interested in pretending this is just a private medical matter.
+It is a public policy failure playing out in my body.” Senator Drey’s situation is not rare.
 As the state with the second-highest cancer rate in the nation, Iowa needs to do more.
 It is not distant.
 It touches nearly every family in some way—through aging, injury, mental illness, or developmental conditions.
@@ -98,3 +93,7 @@ Like the 2007 legislature, Iowa should start by creating a gubernatorial and leg
 Back in 2009, we even appointed former Governors Tom Vilsack and Terry Branstad as co-chairs of the legislature’s second Health Care Commission.
 This approach to bipartisan public discussion works.
 We can lead again.
+Health Recent Posts See All Campaign Blog: Independence Day Join Our Movement to Take Back Iowa Be a part of something that you will be proud of the rest of your life... help Alexander Schmidt win Iowa House - District 60 and make Iowa the welcoming state it was always intended to be.
+First name Last name Phone Email * How can you help our campaign?
+Yard sign Volunteer Host an event Other Send Alexander Schmidt for Iowa House Categories State Politics Religion Education Health Rural Iowa Environment Agriculture Economy Popular Tags No tags yet.
+Contact Us Privacy Policy © # PAID FOR BY ALEXANDER SCHMIDT FOR IOWA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

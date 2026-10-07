@@ -1,4 +1,4 @@
-| Well, I need to talk about a kitchen table issue that so many families face here in Congressional District 8.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass. healthcare almost WASN't 7/25/2019 Well, I need to talk about a kitchen table issue that so many families face here in Congressional District 8.
 My daughter had surgery.
 It was an out patient surgery procedure, and everything is fine, so please don't worry.
 This was a minor blip on the health radar.
@@ -52,8 +52,7 @@ Then from there, you pay modest but affordable copays, and there are no deductib
 This isn’t the complete solution and I don’t have time here to get into every nook and cranny detail on what’s obviously a very arcane and convoluted subject, but it’s a good start toward making this system better, and I look forward to sharing more of these ideas with y’all as 2020 approaches.
 In the meantime, I have got bills to pay, so I better get back to work!
 Please support my campaign for Congress.
-Make a donation today.
-This regime- because to call it just another “administration” pretends a civility it hasn’t earned- is full of so many shameful sins, it’s easy to forget one horrible act after another.
+Make a donation today. love MAGA or get out 7/21/2019 This regime- because to call it just another “administration” pretends a civility it hasn’t earned- is full of so many shameful sins, it’s easy to forget one horrible act after another.
 After all, this regime has brought us to an era of caged babies ripped from the arms of their parents, and they’ve caged the parents too.
 I’m still struggling to get my head around how we ended up with a for-profit gulag system in 21st century America.
 But this past week, in Greenville, the current occupant of the People’s House left an indelible stain on our state.
@@ -87,7 +86,7 @@ It feels to me like my opponent has forgotten that’s the whole point of going 
 It will be an uphill battle to take our country back to decency, humility and respect, but I’m willing to fight for it and I hope y’all are too.
 Please support my campaign for Congress.
 Make a donation today.
-Secure.actblue.com/donate/HuffmanForNC This morning, I was enjoying my coffee and watching one of my favorite TV shows on the Discovery Science Channel: “How It’s Made.” One of the episodes was about refurbishing a huge machine.
+Secure.actblue.com/donate/HuffmanForNC How it's made 7/7/2019 This morning, I was enjoying my coffee and watching one of my favorite TV shows on the Discovery Science Channel: “How It’s Made.” One of the episodes was about refurbishing a huge machine.
 It was big as a bus, with all kinds of hydraulics, electronics, and huge moving parts.
 According to the narrator, it had taken several months to overhaul this massive machine.
 This piece of equipment was a “continuous miner.” This machine is used to mine underground and only needs to be operated by one man.
@@ -110,9 +109,9 @@ Let’s provide greater incentives and grants to business to hire and *retrain* 
 There is a much bigger future for clean energy jobs in solar, wind, and micro-hydroelectric power generation.
 Also, absurd Trump lies about “windmill cancer” to the contrary aside, these clean energy jobs won’t give the workers black lung disease like coal mining jobs do.
 However, businesses can't create those jobs when 25 to 30٪ tariffs are applied.
-Many clean energy projects in #NC were either scaled back or put on indefinite hold when Trump announced this latest arbitrary blow to rig the markets in favor of the craven coal barons writing him checks.
+Many clean energy projects in # NC were either scaled back or put on indefinite hold when Trump announced this latest arbitrary blow to rig the markets in favor of the craven coal barons writing him checks.
 Where was our current Representative?
-Nowhere, silent as usual that #workingclass jobs were affected in this district he doesn’t even live in.
+Nowhere, silent as usual that # workingclass jobs were affected in this district he doesn’t even live in.
 Moving away from fossil fuel coal jobs to clean energy jobs is great for the environment & planet.
 Plus, it ensures we have a viable future to leave to our children.
 We can’t afford to prop up dying, toxic industries by screwing the future.
@@ -120,7 +119,7 @@ Fossil fuels are a 19th century solution to 21st century problems and we can’t
 Let’s embrace the future with open arms and open eyes.
 Please support my campaign for Congress.
 Make a donation today.
-Secure.actblue.com/donate/HuffmanForNC "If you don't like it you can leave." People say this a lot on the internet, and it’s usually when they’re defending horrible injustices happening in our country.
+Secure.actblue.com/donate/HuffmanForNC If you don't like it you can leave 7/6/2019 "If you don't like it you can leave." People say this a lot on the internet, and it’s usually when they’re defending horrible injustices happening in our country.
 I actually find the statement very telling of those who make it.
 They ignore the issues that are affecting their fellow Americans, whether it's racism, immigration, LGBTQ rights, poverty etc.
 If it’s not personally affecting them, they don’t care.
@@ -139,7 +138,11 @@ But I’m not leaving.
 I’m sticking around to fight for America and the promise of the American Dream, that conscientious hard work can pay off here, for the person working, not the corporate billionaire heirs and heiresses who won the birth lottery.
 I believe we are stronger together, and that everybody does better when EVERYBODY does better.
 “If you don’t like it, leave” is a cop out and this nation didn’t get anywhere by copping out.
-Please support my campaign - Make a donation today | Posts from before 2025 were written during Scott's campaigns for U.S.
+Please support my campaign - Make a donation today Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

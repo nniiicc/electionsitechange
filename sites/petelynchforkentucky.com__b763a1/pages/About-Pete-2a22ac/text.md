@@ -1,6 +1,7 @@
-About Dr.
-Pete Lynch
 Dr.
+Pete Lynch for Kentucky Paid for by Pete Lynch For Kentucky.
+Home Policies Get Involved About Pete Information for Voters Donate      About Dr.
+Pete Lynch Dr.
 Pete Lynch has spent over eight years studying and teaching American politics.
 He earned his PhD in American Politics from the University of Kentucky.
 Along the way, he won the Outstanding TA Award, one of just 15 given annually to graduate students in the College of Arts & Sciences.
@@ -10,5 +11,5 @@ This leaves the poor and middle class without a voice, while elites on both side
 As an economic populist, Pete is committed to fighting for working families and holding the powerful accountable.
 He is critical of both major parties when they fail to serve the public interest and has written extensively about corruption and political influence on his Substack.
 If elected, he will bring that same energy and independent perspective to Congress, putting the needs of Kentucky families first.
-You can read more of Pete’s work and ideas on his Substack here.
+You can read more of Pete’s work and ideas on his Substack here .
 Paid for by Pete Lynch For Kentucky.

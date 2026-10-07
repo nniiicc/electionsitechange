@@ -1,14 +1,58 @@
 [
-"https://electbrian.org/",
-"https://electbrian.org/about",
-"https://electbrian.org/contact",
-"https://electbrian.org/donate",
-"https://electbrian.org/endorsements",
-"https://electbrian.org/integrity",
-"https://electbrian.org/key-issues",
-"https://electbrian.org/terms-%26-conditions",
-"https://electbrian.org/why-choose-brian%3F",
-"https://facebook.com/177194082144266",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/electbrianagain"
+{
+"text": "About",
+"href": "https://electbrian.org/about"
+},
+{
+"text": "Contact",
+"href": "https://electbrian.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://electbrian.org/donate"
+},
+{
+"text": "Elect Brian McMahanElect Brian McMahanElect Brian McMahanElect Brian McMahan",
+"href": "https://electbrian.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbrian.org/endorsements"
+},
+{
+"text": "Follow me on Instagram",
+"href": "https://www.instagram.com/electbrianagain/"
+},
+{
+"text": "Home",
+"href": "https://electbrian.org/"
+},
+{
+"text": "Integrity",
+"href": "https://electbrian.org/integrity"
+},
+{
+"text": "Key Issues",
+"href": "https://electbrian.org/key-issues"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://electbrian.org/terms-%26-conditions"
+},
+{
+"text": "Why Choose Brian?",
+"href": "https://electbrian.org/why-choose-brian%3F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/177194082144266"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbrianagain/"
+}
 ]

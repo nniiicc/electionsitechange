@@ -1,21 +1,8 @@
-Indiana has a health crisis regarding infant and maternal mortality.
+Home Volunteer About Me Endorsements Policy More Home Volunteer About Me Endorsements Policy Home Volunteer About Me Endorsements Policy REPRODUCTIVE FREEDOM Indiana has a health crisis regarding infant and maternal mortality.
 States that, like Indiana, have chosen to let the government into the doctor's office are failing in those same areas.
 Great OBs and Nurse Practitioners are now forced to engage with the STATE when a mother's life is in danger.
 Furthermore, the average anti-choice voter often doesn't understand conditions like anencephaly or ectopic pregnancies.
 Lastly, I will not stand by and have any government force a 10 year old child to deliver a child.
 Indiana's Attorney General, Todd Rokita, made it clear that he wants children to bear children.
-Indiana ranks high in maternal mortality rates, with Black women at greater risk
-https://www.wishtv.com/news/multicultural-news/indiana-maternal-mortality-rates/
-2025 March of Dimes report card for Indiana
-https://www.marchofdimes.org/peristats/reports/indiana/report-card
-Maternal mortality in Indiana: Contributing factors, progress, and policy recommendations
-https://policyinstitute.iu.edu/research-analysis/research-findings/maternal-mortality.html
-Maternal mortality in Indiana
-https://policyinstitute.iu.edu/doc/maternal-mortality-brief-2025.pdf
-Wednesday, April 09, 2025
-Indiana high court reprimands AG for remarks about 10-year-old rape victim's doctor
-https://www.npr.org/2023/11/03/1210440222/indiana-abortion-todd-rokita-reprimand-caitlin-barnard
-Copyright © 2026 Hoosiers to Elect Nate Stout - All Rights Reserved.
+Indiana ranks high in maternal mortality rates, with Black women at greater risk https://www.wishtv.com/news/multicultural-news/indiana-maternal-mortality-rates/ 2025 March of Dimes report card for Indiana https://www.marchofdimes.org/peristats/reports/indiana/report-card Maternal mortality in Indiana: Contributing factors, progress, and policy recommendations https://policyinstitute.iu.edu/research-analysis/research-findings/maternal-mortality.html Maternal mortality in Indiana https://policyinstitute.iu.edu/doc/maternal-mortality-brief-2025.pdf Wednesday, April 09, 2025 https://policyinstitute.iu.edu/doc/maternal-mortality-brief-2025.pdf Indiana high court reprimands AG for remarks about 10-year-old rape victim's doctor https://www.npr.org/2023/11/03/1210440222/indiana-abortion-todd-rokita-reprimand-caitlin-barnard Volunteer About Me Privacy Policy Policy Nate for 38 Copyright © # Hoosiers to Elect Nate Stout - All Rights Reserved.
 This website is paid for by Hoosiers to Elect Nate Stout.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

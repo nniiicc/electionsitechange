@@ -1,15 +1,54 @@
 [
-"https://facebook.com/voteformai",
-"https://instagram.com/voteformai",
-"https://repxiong.com/",
-"https://secure.actblue.com/donate/standwithmai",
-"https://secure.actblue.com/donate/voteformai",
-"https://tiktok.com/@MaiXiongMI",
-"https://voteformai.com/",
-"https://voteformai.com/checkout",
-"https://voteformai.com/images-media",
-"https://voteformai.com/mai-xiongs-story-from-refugee-to-public-servant",
-"https://voteformai.com/merch",
-"https://voteformai.com/request-a-yard-sign",
-"https://youtube.com/@MaiXiongMI"
+{
+"text": "Checkout",
+"href": "https://www.voteformai.com/checkout/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/standwithmai"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/voteformai"
+},
+{
+"text": "Images/Media",
+"href": "https://www.voteformai.com/images-media/"
+},
+{
+"text": "Meet Mai",
+"href": "https://www.voteformai.com/mai-xiongs-story-from-refugee-to-public-servant/"
+},
+{
+"text": "Merch",
+"href": "https://www.voteformai.com/merch/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.voteformai.com/request-a-yard-sign/"
+},
+{
+"text": "[image]",
+"href": "https://www.voteformai.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteformai"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteformai"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@MaiXiongMI"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaiXiongMI"
+},
+{
+"text": "click here",
+"href": "https://repxiong.com"
+}
 ]

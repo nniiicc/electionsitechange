@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=94644",
- "paid_for_by": null,
+ "fingerprint": "44c913c84a5e7caf9fc95a6181337c36e1975925",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,7 +1,34 @@
 [
-"https://facebook.com/share/1971oYH3CB?mibextid=wwXIfr",
-"https://jimvowels.com/",
-"https://jimvowels.com/about",
-"https://jimvowels.com/join-us",
-"https://secure.actblue.com/donate/jim-vowels-1"
+{
+"text": "About",
+"href": "https://www.jimvowels.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jim-vowels-1"
+},
+{
+"text": "Home",
+"href": "https://www.jimvowels.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.jimvowels.com/join-us"
+},
+{
+"text": "Make A Contribution",
+"href": "https://secure.actblue.com/donate/jim-vowels-1"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.jimvowels.com/about"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1971oYH3CB/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Logo for the Jim Vowels for Iowa Senate campaign]",
+"href": "https://www.jimvowels.com"
+}
 ]

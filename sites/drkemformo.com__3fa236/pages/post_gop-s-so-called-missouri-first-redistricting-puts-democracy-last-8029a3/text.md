@@ -1,5 +1,6 @@
-GOP’s so-called ‘Missouri First’ redistricting puts democracy last
-The Missouri Senate has just taken an unprecedented step.
+top of page Dr.
+Kem Smith State Representative for Missouri House District 68 Home About Events Constituent Corner Join the Movement Contact Blog More Use tab to navigate through the menu items.
+Donate All Posts Search GOP’s so-called ‘Missouri First’ redistricting puts democracy last DrKem Smith Mar 20 5 min read The Missouri Senate has just taken an unprecedented step.
 Using a rarely invoked maneuver called the “previous question,” Republican leadership forced through initiative petition reform and a redrawn congressional map known as “Missouri First.” None of this comes as a surprise.
 Reports confirm that President Donald Trump himself called into a state Senate caucus meeting to demand support, inflating his poll numbers and insisting he needed Missouri to help secure control of the U.S.
 House.
@@ -51,8 +52,7 @@ We cannot afford to trade away democracy for the promise of a single issue.
 We cannot exchange freedom for bans on abortion or the stripping away of women’s rights.
 Tyranny always asks us to sacrifice one liberty in the name of safety.
 But when one falls, the rest follow.
-Community’s voice snatched away
-And then we hear it spoken plainly.
+Community’s voice snatched away And then we hear it spoken plainly.
 State Rep.
 Dirk Deaton, who sponsored this bill, said he hopes Missouri will send only Republicans to Congress.
 That is not valor.
@@ -88,5 +88,7 @@ If every resident of the state shows up at rallies, at canvases, and at town hal
 Our children are watching us.
 History is watching us.
 Let it be said that Missouri stood on the side of democracy.
-Read more at: https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article312086250.html#storylink=cpy
-This story was originally published September 13, 2025, at 5:03 AM.
+Read more at: https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article312086250.html#storylink=cpy This story was originally published September 13, 2025, at 5:03 AM.
+Recent Posts See All Missouri Is About to Nickel-and-Dime Working Families After the Tornado, St.
+Louis Needs More Than Sympathy.
+It Needs a Plan Why Missouri Must Trust Women to Choose Their Future Dr Kem Smith for Missouri State Representative info@drkemformo.com ©# by Dr Kem Smith for Missouri State Representative Paid for by Friends to Elect Dr Kem Smith bottom of page

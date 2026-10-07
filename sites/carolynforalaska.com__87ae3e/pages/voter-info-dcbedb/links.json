@@ -1,22 +1,94 @@
 [
-"https://absenteeballotapplication.alaska.gov/",
-"https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1",
-"https://akredistrict.org/files/1016/8420/3672/District16-H.pdf",
-"https://carolynforalaska.com/",
-"https://carolynforalaska.com/about",
-"https://carolynforalaska.com/cart",
-"https://carolynforalaska.com/endorsements",
-"https://carolynforalaska.com/events",
-"https://carolynforalaska.com/policies",
-"https://carolynforalaska.com/volunteer",
-"https://carolynforalaska.com/voter-info",
-"https://elections.alaska.gov/election-information",
-"https://elections.alaska.gov/voter-information",
-"https://facebook.com/CarolynforAlaska",
-"https://google.com/url?q=https%3A%2F%2Fwww.elections.alaska.gov%2Felection-information%2F%23PRIM&sa=D&ust=1760036015135599&usg=AOvVaw2pzWLRCyddbAMJuLZ36VCb",
-"https://instagram.com/carolynforalaska",
-"https://myvoterportal.alaska.gov/",
-"https://secure.actblue.com/donate/carolyn-for-alaska-1",
-"https://voterregistration.alaska.gov/",
-"https://youtube.com/watch?list=PLmaJaiSaUP8s2yEsQSZ3tJYwOx_1mUgdi&v=H163LS6iN0o"
+{
+"text": "0",
+"href": "https://www.carolynforalaska.com/cart"
+},
+{
+"text": "About Carolyn",
+"href": "https://www.carolynforalaska.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carolyn-for-alaska-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolynforalaska.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolynforalaska.com/events"
+},
+{
+"text": "Find your precinct",
+"href": "https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1"
+},
+{
+"text": "General ElectionNovember 3, 2026",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.elections.alaska.gov%2Felection-information%2F%23PRIM&sa=D&ust=1760036015135599&usg=AOvVaw2pzWLRCyddbAMJuLZ36VCb"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carolynforalaska.com/volunteer"
+},
+{
+"text": "Get info on the Genera",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.elections.alaska.gov%2Felection-information%2F%23PRIM&sa=D&ust=1760036015135599&usg=AOvVaw2pzWLRCyddbAMJuLZ36VCb"
+},
+{
+"text": "Learn about Ranked Choice Voting",
+"href": "https://www.youtube.com/watch?list=PLmaJaiSaUP8s2yEsQSZ3tJYwOx_1mUgdi&v=H163LS6iN0o"
+},
+{
+"text": "Policies",
+"href": "https://www.carolynforalaska.com/policies"
+},
+{
+"text": "View a map of District 16",
+"href": "https://www.akredistrict.org/files/1016/8420/3672/District16-H.pdf"
+},
+{
+"text": "Voter Info",
+"href": "https://www.carolynforalaska.com/voter-info"
+},
+{
+"text": "[image: Carolyn Hall for Alaska]",
+"href": "https://www.carolynforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolynforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carolynforalaska/"
+},
+{
+"text": "detailed voting information",
+"href": "https://www.elections.alaska.gov/voter-information/"
+},
+{
+"text": "https://absenteeballotapplication.alaska.gov/",
+"href": "https://absenteeballotapplication.alaska.gov/"
+},
+{
+"text": "https://myvoterinformation.alaska.gov/.",
+"href": "https://myvoterportal.alaska.gov/"
+},
+{
+"text": "https://myvoterportal.alaska.gov/",
+"href": "https://myvoterportal.alaska.gov/"
+},
+{
+"text": "https://voterregistration.alaska.gov/",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "https://www.elections.alaska.gov/election-information/#GENR",
+"href": "https://www.elections.alaska.gov/election-information/#GENR"
+},
+{
+"text": "https://www.elections.alaska.gov/election-information/#PRIM",
+"href": "https://www.elections.alaska.gov/election-information/#PRIM"
+}
 ]

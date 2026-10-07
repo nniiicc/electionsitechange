@@ -1,11 +1,34 @@
 [
-"https://facebook.com/ClerkGalonski",
-"https://instagram.com/taviagalonski?hl=en",
-"https://taviagalonski.com/",
-"https://taviagalonski.com/about",
-"https://taviagalonski.com/contact",
-"https://taviagalonski.com/endorsements",
-"https://taviagalonski.com/form/endorsement",
-"https://taviagalonski.com/get-involved",
-"https://twitter.com/ClerkGalonski?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+{
+"text": "About",
+"href": "https://www.taviagalonski.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.taviagalonski.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.taviagalonski.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.taviagalonski.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ClerkGalonski"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.taviagalonski.com/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/taviagalonski/?hl=en"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/ClerkGalonski?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+}
 ]

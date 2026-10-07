@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.voteedarriola.com/",
- "paid_for_by": null,
+ "fingerprint": "a7801b2b2e5f080a33c838aa797cfd21c68af235",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Ed For Precinct 3",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,7 +1,5 @@
-Support Our Campaign
-Donate Now to Elect John Vincent to Congress
-Your contribution will help our team to:
-✅ Get our message out to every voter in our district through digital ads and email
-✅ Organize town halls where your voice is heard
-✅ Build our field operation to register and mobilize voters
-If you've saved your information with ActBlue Express, your donation will go through immediately..
+Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate Support Our Campaign Donate Now to Elect John Vincent to Congress Your contribution will help our team to: ✅ Get our message out to every voter in our district through digital ads and email ✅ Organize town halls where your voice is heard ✅ Build our field operation to register and mobilize voters $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other If you've saved your information with ActBlue Express, your donation will go through immediately..
+Donate About News Events Issues Endorsements Media Volunteer Please mail checks to: John Vincent for Congress P.O.
+Box 31043, Myrtle Beach, SC 29588 To contact us, email info@VincentForCongress.com 843-300-9234 HOME ABOUT ISSUES STORE MEDIA John Vincent is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by any branch of the U.S. government.
+Paid for by John Vincent for Congress You need to enable JavaScript to run this app.

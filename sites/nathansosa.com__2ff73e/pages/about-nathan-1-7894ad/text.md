@@ -1,5 +1,5 @@
-MEET NATHAN
-As someone who grew up in poverty, Nathan experienced the struggles that so many families are going through right now.
+top of page HOME ABOUT NATHAN LEGISLATIVE RECORD COMMUNITY INVOLVEMENT POLICY PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items.
+DONATE MEET NATHAN ​ As someone who grew up in poverty, Nathan experienced the struggles that so many families are going through right now.
 He was raised by a single mom in a working-class family.
 They never had much money.
 For many years, they didn’t even own a car.
@@ -12,4 +12,4 @@ Over the past seventeen years, he’s devoted his legal career to helping protec
 For over a decade, Nathan has lived and worked in Hillsboro.
 He’s devoted countless hours to volunteer work in the community.
 He’s also been a civic leader for education, good governance, and justice reform.
-He has served as the state representative for House District 30 since February 2022.
+He has served as the state representative for House District 30 since February 2022. ​ ​ ​ HOME ABOUT NATHAN LEGISLATIVE RECORD COMMUNITY INVOLVEMENT POLICY PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items. nathan@nathansosa.com © # by Nathan Sosa for Oregon Nathan Sosa for House District 30 bottom of page

@@ -1,9 +1,6 @@
-Endorsed By No. 1 Doctor in NH
-To the Editor,
-As a surgeon in our community, I know that a successful practice is built on more than just medical expertise- it is built on the integrity and dedication who represent it every day.
-I had the privilege of working with Nick Dilorenzo as my medical assistant in our surgical practice
-and I can say without hesitation
-that he was one of the finest professionals I have ever worked with.
+top of page Menu Close Home News & Events Get Involved Donate All Posts Endorsed By No.
+1 Doctor in NH nicholasdilorenzo8 Mar 9 2 min read To the Editor, As a surgeon in our community, I know that a successful practice is built on more than just medical expertise- it is built on the integrity and dedication who represent it every day.
+I had the privilege of working with Nick Dilorenzo as my medical assistant in our surgical practice and I can say without hesitation that he was one of the finest professionals I have ever worked with.
 In our office, Nick was the first point of contact for patients facing difficult and sometimes life altering decisions.
 I watched firsthand as Nick handled every situation with empathy, kindness and a relentless work ethic.
 He cared deeply for our patients, ensuring that they were heard and supported throughout their care.
@@ -17,5 +14,6 @@ I am confident he will not be led by political ideology but rather by his moral 
 Our rural towns need a voice this is rooted in values of hard work and accountability.
 Nick lived those values every day in my office.
 He has earned my trust and support.
-Sincerely
-Jeffrey Kauffman M.D.
+Sincerely Jeffrey Kauffman M.D.
+Recent Posts See All Endorsed by Rep.
+Beth Quimby Endorsed By Senator Russ Ingalls Leadership Is Being There When It Matters ​ ​ ​ ​ ​ ​ ​ (c) # DiLorenzo for Vermont Home News & Events Get Involved Donate bottom of page

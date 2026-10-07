@@ -1,20 +1,13 @@
-I welcome you and your comments on my social media platforms.
+Contact Representative Steve Berch: sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 Contribute Now Get Involved Home How to Contribute How to Volunteer Subscribe to Newsletter Back Subscribe to Newsletter Newsletter Archive (2019-present) Meet Steve Contact Request a Yard Sign!
+SOCIAL MEDIA COMMENT POLICY I welcome you and your comments on my social media platforms.
 The purpose of these pages is to provide a way for me to inform and engage with my constituents, friends, family members, and other businesses, entities, or interested persons.
 You are encouraged to submit comments, questions, and concerns… but please note these are moderated online discussion sites and not public forums.
 Therefore, I, Steve Berch, reserve the right to block/hide accounts/comments that use vulgar language, personal attacks of any kind, or comments I deem to be offensive or disparaging.
-Furthermore, I reserve the right to block accounts that:
-- Do not use a real name and/or real profile picture;
-- Are unrelated to the purpose of the social media page or are not topically related to the specifics of the posting;
-- Are clearly off-topic or disruptive;
-- Promote or incite illegal or fraudulent transactions or activities;
-- Use fighting words, graphic or gratuitous violence, vulgar language (this includes masked words (***), acronyms, and abbreviations), profanity, nudity, obscene or indecent language or sexual content, or false representations of fact;
-- Threaten, intimidate, harass, or defame any person or organization;
-- Constitute “spam,” such as content that appears to be from internet bots, fake accounts, or repetitive, copy-paste statements;
-- Are chain letters, pyramid schemes, or fraudulent or deceptive messages;
-- Are commercial in nature, such as advertising, promotion, or endorsement of services, people, or products, or solicitation of funds without prior consent by Steve Berch.
-- Promote particular services, products, or political organizations or campaigns;
-- Contain personally identifiable information about another individual;
-- Misrepresent the account owner’s identity or affiliation
-- Advocate illegal activity;
-For official communication, please email Steve Berch This email address is being protected from spambots.
-You need JavaScript enabled to view it..
+Furthermore, I reserve the right to block accounts that: Do not use a real name and/or real profile picture; Are unrelated to the purpose of the social media page or are not topically related to the specifics of the posting; Are clearly off-topic or disruptive; Promote or incite illegal or fraudulent transactions or activities; Use fighting words, graphic or gratuitous violence, vulgar language (this includes masked words (***), acronyms, and abbreviations), profanity, nudity, obscene or indecent language or sexual content, or false representations of fact; Threaten, intimidate, harass, or defame any person or organization; Constitute “spam,” such as content that appears to be from internet bots, fake accounts, or repetitive, copy-paste statements; Are chain letters, pyramid schemes, or fraudulent or deceptive messages; Are commercial in nature, such as advertising, promotion, or endorsement of services, people, or products, or solicitation of funds without prior consent by Steve Berch.
+Promote particular services, products, or political organizations or campaigns; Contain personally identifiable information about another individual; Misrepresent the account owner’s identity or affiliation Advocate illegal activity; For official communication, please email Steve Berch This email address is being protected from spambots.
+You need JavaScript enabled to view it. .
+Steve Berch Campaign Office P.O.
+Box 4903 Boise, ID 83711 sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 SOCIAL MEDIA POLICY Legislative Committees Education Business Local Government Meet Steve Steve's Newsletters Legislature Coverage Eye on Boise Idaho Education News IPTV Idaho Reports Idaho in Session Support Steve Contribute Volunteer Contact © 2018 - 2026 by Committee to Elect Steve Berch.
+Joan Wallace, Treasurer.
+All rights reserved.
+Facebook Twitter YouTube Social Media Policy Privacy Policy Terms and Conditions

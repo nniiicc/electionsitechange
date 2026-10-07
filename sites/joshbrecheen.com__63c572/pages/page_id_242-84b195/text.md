@@ -1,6 +1,4 @@
-Privacy Policy
-Last Revised: May 25, 2017
-This website or mobile application is operated by Josh Brecheen for Congress.
+Vote for Josh Brecheen in the Primary on June 16 Home The Issues Meet Josh Contact Donate Endorsed by Trump Home The Issues Meet Josh Contact Donate Endorsed by Trump Privacy Policy Last Revised: May 25, 2017 This website or mobile application is operated by Josh Brecheen for Congress.
 This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by Josh Brecheen for Congress with respect to your use of the JoshBrecheen.com web site and other Josh Brecheen websites which display this Policy (the “Sites”) so you can make an informed decision about using the Sites.
 This Policy also applies to personal information collected on other web sites on our behalf by third party vendors.
 We reserve the right to change the provisions of this Policy at any time.
@@ -39,30 +37,13 @@ In some cases, third party vendors may collect personal information from you, su
 This Policy does apply to such personal information collected online in this manner, and we will treat such information in the same manner as information collected on our Sites.
 How Do We Use the Personal Information We Collect?
 We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites.
-For example, we may use personal information we collect:
-- to provide the services, products, or information you request, and to process and complete such requests and any related transactions;
-- to send you confirmations, receipts, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
-- to notify you about important changes to the Sites;
-- to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various issues, events, and resources;
-- to connect you with other supporters, and to solicit volunteers, donations and support for Josh Brecheen for Congress issues and organizations that we support;
-- to request feedback and to otherwise contact you about your use of the Sites;
-- to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
-- to monitor and analyze site usage and trends, and to personalize and improve the Sites and our users' experiences on the Sites, such as providing content, or features that match your profiles or interests, and to increase the Sites' functionality and user friendliness;
-- to serve ads, on this Site or other websites or media, based on the information you provide and the actions you take; and for any other purpose for which the information was collected.
+For example, we may use personal information we collect: to provide the services, products, or information you request, and to process and complete such requests and any related transactions; to send you confirmations, receipts, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites; to notify you about important changes to the Sites; to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various issues, events, and resources; to connect you with other supporters, and to solicit volunteers, donations and support for Josh Brecheen for Congress issues and organizations that we support; to request feedback and to otherwise contact you about your use of the Sites; to respond to your emails, submissions, questions, comments, and requests and to provide customer service; to monitor and analyze site usage and trends, and to personalize and improve the Sites and our users' experiences on the Sites, such as providing content, or features that match your profiles or interests, and to increase the Sites' functionality and user friendliness; to serve ads, on this Site or other websites or media, based on the information you provide and the actions you take; and for any other purpose for which the information was collected.
 Personal information collected through the SMS program, won’t be shared, sold, or rented to third parties for their own marketing purposes.
 What Personal Information Do We Share With Third Parties?
 It is our policy not to share the personal information we collect from you through our Sites with third parties, except as described in this Policy or as otherwise disclosed on the Sites.
-For example, we may share personal information as follows:
-- with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
-- with organizations, groups or causes that we believe have similar viewpoints, principles or objectives;
-- when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information;
-- when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
-- when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of Josh Brecheen for Congress, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
-- to enforce or apply this Policy, or our other policies or agreements;
-We are not responsible for the actions of any service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties.
+For example, we may share personal information as follows: with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us; with organizations, groups or causes that we believe have similar viewpoints, principles or objectives; when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information; when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders; when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of Josh Brecheen for Congress, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site; to enforce or apply this Policy, or our other policies or agreements; We are not responsible for the actions of any service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties.
 Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
-Links to Other Websites
-Our Sites may contain links to other websites.
+Links to Other Websites Our Sites may contain links to other websites.
 Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy.
 This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our Sites.
 We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
@@ -74,3 +55,4 @@ You are responsible for all uses of our Sites by any person using your password.
 Please advise us immediately if you believe your password has been misused.
 What Choices Do You Have Regarding the Use of Your Information?
 You may “opt out” of receiving text messages, email updates and newsletters by following the instructions in those text messages and emails.
+Paid for by Josh Brecheen For Congress 4019 W Highway 70 #310 Durant, OK 74701 Donate Privacy Policy

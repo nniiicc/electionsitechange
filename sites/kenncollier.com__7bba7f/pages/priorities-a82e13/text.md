@@ -1,4 +1,4 @@
-Opportunity That Reaches Home
-Our Campaign’s Top Priorities
-This campaign is about real solutions for real people—rooted in lived experience, community trust, and results.
+Skip navigation menu Home Meet Kenn Priorities Volunteer Contact Community Donate Home Meet Kenn Priorities Volunteer Contact Community Donate Opportunity That Reaches Home Our Campaign’s Top Priorities This campaign is about real solutions for real people —rooted in lived experience, community trust, and results.
 These are the priorities I’ll fight for at the State Capitol on behalf of District 62.
+Local Jobs & Economic Stability Youth Pathways & Career Access Community-Based Safety & Violence Prevention Trauma-Informed, Healing-Centered Schools Affordable Housing & Homeownership Healthcare, Mental Health & Community Wellness Local Jobs & Economic Stability View more Youth Pathways & Career Access View more Community-Based Safety & Violence Prevention View more Trauma-Informed, Healing-Centered Schools View more Affordable Housing & Homeownership View more Healthcare, Mental Health & Community Wellness View more Office Located at 2947 Legion Way.
+East Point, Ga 30344 Powered by RUN! website builder Paid for by The Committee to Elect Kenn Collier You need to enable JavaScript to run this app.

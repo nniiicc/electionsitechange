@@ -1,1 +1,0 @@
-When people commented that Rep Powers had survived the legislative session, she said “I not only survived, I thrived!” Speaking to an enthusiastic crowd at the Flathead Democrat’s Spring Dinner, she told stories of victories and failures in the legislature and assured the crowd that she was ready to do it again!

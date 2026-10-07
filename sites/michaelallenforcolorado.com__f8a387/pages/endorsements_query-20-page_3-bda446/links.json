@@ -1,15 +1,82 @@
 [
-"https://facebook.com/michaelallenforco",
-"https://instagram.com/michael_allen_co",
-"https://michaelallenforcolorado.com/",
-"https://michaelallenforcolorado.com/endorsements",
-"https://michaelallenforcolorado.com/endorsements?query-20-page=2",
-"https://michaelallenforcolorado.com/endorsements?query-20-page=4",
-"https://michaelallenforcolorado.com/endorsements?query-20-page=5",
-"https://michaelallenforcolorado.com/home",
-"https://michaelallenforcolorado.com/privacy-policy",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/michael-allen-for-colorado/donate",
-"https://x.com/MichaelAllen4CO"
+{
+"text": "1",
+"href": "https://michaelallenforcolorado.com/endorsements/?cst="
+},
+{
+"text": "2",
+"href": "https://michaelallenforcolorado.com/endorsements/?query-20-page=2&cst="
+},
+{
+"text": "4",
+"href": "https://michaelallenforcolorado.com/endorsements/?query-20-page=4&cst="
+},
+{
+"text": "5",
+"href": "https://michaelallenforcolorado.com/endorsements/?query-20-page=5&cst="
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/michael-allen-for-colorado/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://michaelallenforcolorado.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/michaelallenforco"
+},
+{
+"text": "Gallery",
+"href": "https://michaelallenforcolorado.com/#gallery"
+},
+{
+"text": "Home",
+"href": "https://michaelallenforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/michael_allen_co"
+},
+{
+"text": "Issues",
+"href": "https://michaelallenforcolorado.com/#issues"
+},
+{
+"text": "News",
+"href": "https://michaelallenforcolorado.com/#news"
+},
+{
+"text": "Next Page",
+"href": "https://michaelallenforcolorado.com/endorsements/?query-20-page=4"
+},
+{
+"text": "Previous Page",
+"href": "https://michaelallenforcolorado.com/endorsements/?query-20-page=2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://michaelallenforcolorado.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "X",
+"href": "https://x.com/MichaelAllen4CO"
+},
+{
+"text": "[image: Michael Allen for Colorado Attorney General]",
+"href": "https://michaelallenforcolorado.com/"
+},
+{
+"text": "[image]",
+"href": "https://michaelallenforcolorado.com/home/"
+}
 ]

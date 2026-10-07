@@ -1,18 +1,15 @@
-Good government serves the people, not the culture wars.
+top of page Home About Kim Volunteer Voter Information Endorsements 62nd District: Granby, New Hartford, Barkhamsted, Hartland Kim Becker A Strong Voice for Small Towns Get Involved Learn the Issues Good government serves the people, not the culture wars.
 Deeply rooted in the small towns of the 62nd District, Kim Becker is dedicated to serving its people.
 With a background in community advocacy and a commitment to fiscal responsibility, she will bring a grounded perspective to Connecticut State House.
 As a Selectwoman, President of a senior affordable housing community, wife and a mother of two, she understands the unique challenges faced by small-town families, from property taxes to education funding to affordable housing for seniors and young people.
 Kim is focused on building a future where every resident has a strong voice and a clear path forward.
-What Kim Is Fighting For
-Schools & ECS Funding
-I am committed to ensuring every student in our district has access to a high-quality public education.
+What Kim Is Fighting For Schools & ECS Funding I am committed to ensuring every student in our district has access to a high-quality public education.
 By advocating for fair funding and supporting local programs, we keep our schools strong, our communities safe and our property taxes stable.
-Affordable Housing
-Seniors who want to stay in their communities and young adults who want to move home need affordable options.
+Affordable Housing Seniors who want to stay in their communities and young adults who want to move home need affordable options.
 I am forcused on creating those opportunities for our residents.
-Public Safety
-Our first responders are our neighbors.
+Public Safety Our first responders are our neighbors.
 I support local law enforcement and emergency services by ensuring they have the resources they need to keep our small towns safe and our families protected.
-Environment & Agriculture
-I believe in supporting sustainable agriculture and protecting the river to ensure our local farms and recreation traditions thrive.
+Environment & Agriculture I believe in supporting sustainable agriculture and protecting the river to ensure our local farms and recreation traditions thrive.
 As a board member of the Farmington River Food Co-Op, I'm working to bring a community-owned grocery store to life.
+Trusted by the Community Ready to make your voice heard?
+Volunteer Voter Info 62nd District: Granby, New Hartford, Barkhamsted, Hartland Paid for by Kim Becker for CT, Nora Bishop, Treasurer bottom of page

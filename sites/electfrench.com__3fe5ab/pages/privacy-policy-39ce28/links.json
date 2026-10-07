@@ -1,14 +1,54 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://electfrench.com/",
-"https://electfrench.com/cdn-cgi/l/email-protection",
-"https://electfrench.com/donate",
-"https://electfrench.com/privacy-policy",
-"https://electfrench.com/terms-and-conditions",
-"https://facebook.com/electfrench",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://support.google.com/ads/answer/2662922?hl=en",
-"https://x.com/ElectFrench"
+{
+"text": "<< Back to site",
+"href": "https://www.electfrench.com"
+},
+{
+"text": "Donate",
+"href": "https://www.electfrench.com/donate"
+},
+{
+"text": "Fighting for French",
+"href": "https://www.electfrench.com/#endorsements"
+},
+{
+"text": "French on the Issues",
+"href": "https://www.electfrench.com/#issues"
+},
+{
+"text": "Meet French",
+"href": "https://www.electfrench.com/#about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electfrench.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electfrench.com/terms-and-conditions"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@electfrench.com"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/electfrench/"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://x.com/ElectFrench"
+},
+{
+"text": "[image: French Hill for Congress logo]",
+"href": "https://www.electfrench.com/"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+},
+{
+"text": "https://www.electfrench.com",
+"href": "https://www.electfrench.com"
+}
 ]

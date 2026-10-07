@@ -1,10 +1,13 @@
-Matt Hall Request a Yard Sign To request a yard sign, please fill out the form below.
-First Name(Required) Last Name(Required) Email(Required) Phone Address(Required) Street Address Address Line 2 City AlabamaAlaskaAmerican SamoaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahU.S.
-Virgin IslandsVermontVirginiaWashingtonWest VirginiaWisconsinWyomingArmed Forces AmericasArmed Forces EuropeArmed Forces Pacific State ZIP Code Consent By checking this box, you are consenting to the terms in our Privacy Policy to receive informational and alert text messages to that number.
+Home About Issues Request a Yard Sign DONATE DONATE Matt Hall Request a Yard Sign To request a yard sign, please fill out the form below.
+First Name (Required) Last Name (Required) Email (Required) Phone Address (Required) Street Address Address Line 2 City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code Consent By checking this box, you are consenting to the terms in our Privacy Policy to receive informational and alert text messages to that number.
 Message and data rates may apply.
 Message frequency may vary.
 Text ‘STOP’ to opt out.
 Text ‘HELP’ for help.
-View our Privacy Policy and Terms & Conditions.
-SUPPORT THE CAMPAIGN Help Matt keep fighting for Southwest Michigan families.
-DONATE
+View our Privacy Policy and Terms & Conditions .
+JOIN SUPPORT THE CAMPAIGN Help Matt keep fighting for Southwest Michigan families.
+DONATE Fighting for Michigan's future and delivering results for Southwest Michigan.
+PRIVACY POLICY · TERMS AND CONDITIONS Home About Issues Request a Yard Sign Donate Paid for by Matt Hall for State Representative.
+5455 Gull Rd.
+STE D #147, Kalamazoo, MI 49048 Home About Issues Request a Yard Sign DONATE

@@ -1,12 +1,3 @@
-Dave’s Support
-Planned Parenthood Advocacy Fund
-1199SEIU
-Enviornmental League of Massachusetts
-Action Fund
-Massachusetts AFL-CIO
-Reproductive Equity Now
-MA NASW-PACE
-“Dave is exactly the kind of leader our community deserves.
+0 Skip to Content Home Meet Dave Issues Our Support Contact Primary Election Info Donate Open Menu Close Menu Open Menu Close Menu Donate Home Meet Dave Issues Our Support Contact Primary Election Info Home Meet Dave Issues Our Support Contact Primary Election Info Donate Dave’s Support Planned Parenthood Advocacy Fund 1199SEIU Enviornmental League of Massachusetts Action Fund Massachusetts AFL-CIO Reproductive Equity Now MA NASW-PACE “Dave is exactly the kind of leader our community deserves.
 His tireless work ethic and genuine dedication to the people he serves makes a real difference every day.
-Dave shows up, listens, responds and gets things done, and our community is stronger for it.“
-Linda Levin-Scherz, Former Belmont School Committee Member, Chair of the Belmont Democratic Town Committee
+Dave shows up, listens, responds and gets things done, and our community is stronger for it.“ Linda Levin-Scherz , Former Belmont School Committee Member, Chair of the Belmont Democratic Town Committee Belmont Democratic Town Committee Volunteer DAVE ROGERS rogers4rep@gmail.com 617.817.9395 The Committee to Elect Dave Rogers | PO Box 50, Belmont, MA 02478 Paid for by the Committee to Elect Dave Rogers

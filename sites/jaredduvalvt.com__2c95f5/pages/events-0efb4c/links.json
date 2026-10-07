@@ -1,125 +1,754 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Announcement+%26+Launch%21&dates=20260427T160000Z%2F20260427T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Cabot+with+Lars+Torres+%26+Cathleen+Maine&dates=20220806T180000Z%2F20220806T210000Z&location=Cabot%2C+VT%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Montpelier&dates=20220807T140000Z%2F20220807T230000Z&location=Montpelier%2C+VT%2C+05602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Montpelier&dates=20220808T140000Z%2F20220808T230000Z&location=Montpelier%2C+VT%2C+05602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Orange&dates=20220805T180000Z%2F20220805T210000Z&location=Orange%2C+VT%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Plainfield&dates=20220804T180000Z%2F20220804T210000Z&location=Plainfield%2C+VT%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26+Conversation+with+Jared+at+Capitol+Grounds&dates=20260730T113000Z%2F20260730T130000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+and+Kate+at+Cafe+NOA&dates=20260721T113000Z%2F20260721T130000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+and+Kate+at+Cafe+NOA&dates=20260728T113000Z%2F20260728T130000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+and+Kate+at+Cafe+NOA&dates=20260804T113000Z%2F20260804T130000Z&location=8+Putnam+Street%2C+Montpelier%2C+Vermont%2C+05602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+at+Capitol+Grounds&dates=20260723T113000Z%2F20260723T130000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+at+Capitol+Grounds&dates=20260806T113000Z%2F20260806T123000Z&location=27+State+Street%2C+Montpelier%2C+Vermont%2C+05602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Conversation+at+the+Montpelier+Senior+Activity+Center&dates=20260611T210000Z%2F20260611T223000Z&location=58+Barre+St.+%2C+Montpelier%2C+VT%2C+USA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T120000Z%2F20261104T000000Z&location=39+Main+St.+%2C+Montpelier%2C+VT+05602%2C+USA",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party+at+Anne+Sarcka%E2%80%99s+&dates=20260727T210000Z%2F20260727T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party+at+Tina+Muncy%27s&dates=20260718T210000Z%2F20260718T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party+hosted+by+Judith+Hinds&dates=20260721T143000Z%2F20260721T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Liberty+Street+Yard+Sale&dates=20260725T130000Z%2F20260725T143000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Listening+%26+Talking+with+Voters+at+the+Barre+Town+Transfer+Station&dates=20220806T140000Z%2F20220806T160000Z&location=109+Pitman+Road%2C+Barre%2C+VT%2C+05641%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Listening+%26amp%3B+Talking+with+Voters%2C+Marshfield+Summer+Concert+Series&dates=20220804T223000Z%2F20220805T003000Z&location=122+School+Street%2C+Marshfield%2C+VT%2C+05658%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Listening+%26amp%3B+Talking+with+Voters+at+Harry%27s+Hardware%2C+Cabot&dates=20220806T220000Z%2F20220807T000000Z&location=3087+Main+Street%2C+Cabot%2C+VT%2C+05647%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+with+Sen.+Perchlik%2C+hosted+by+Angie+Barger+%26amp%3B+Joe+Astick%2C+Marshfield&dates=20220804T210000Z%2F20220804T223000Z&location=34+Gristmill+Place%2C+Marshfield%2C+VT%2C+05658%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%27s+Market&dates=20260627T130000Z%2F20260627T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%27s+Market&dates=20260704T130000Z%2F20260704T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%27s+Market+&dates=20260718T143000Z%2F20260718T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%E2%80%99s+Market&dates=20260711T130000Z%2F20260711T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Conversation&dates=20260630T223000Z%2F20260630T233000Z&location=First+Avenue+%2C+Montpelier%2C+VT%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Conversation+&dates=20260707T223000Z%2F20260707T233000Z&location=Prospect+Street%2C+Montpelier%2C+Vermont%2C+05602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20260811T110000Z%2F20260811T230000Z&location=39+Main+St.+%2C+Montpelier%2C+VT+05602%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=State+Rep.+Candidate+Forum+Hosted+by+The+Bridge+and+ORCA+Media&dates=20260728T213000Z%2F20260728T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Vermont+Primary&dates=20220809T120000Z%2F20220809T230000Z",
-"http://maps.google.com/?q=+Cabot%2C+VT+United+States",
-"http://maps.google.com/?q=+Montpelier%2C+VT%2C+05602+United+States",
-"http://maps.google.com/?q=+Orange%2C+VT+United+States",
-"http://maps.google.com/?q=+Plainfield%2C+VT+United+States",
-"http://maps.google.com/?q=109+Pitman+Road+Barre%2C+VT%2C+05641+United+States",
-"http://maps.google.com/?q=122+School+Street+Marshfield%2C+VT%2C+05658+United+States",
-"http://maps.google.com/?q=27+State+Street+Montpelier%2C+Vermont%2C+05602+United+States",
-"http://maps.google.com/?q=3087+Main+Street+Cabot%2C+VT%2C+05647+United+States",
-"http://maps.google.com/?q=34+Gristmill+Place+Marshfield%2C+VT%2C+05658+United+States",
-"http://maps.google.com/?q=39+Main+St.++Montpelier%2C+VT+05602+USA",
-"http://maps.google.com/?q=39+Main+St.++Montpelier%2C+VT+05602+United+States",
-"http://maps.google.com/?q=58+Barre+St.++Montpelier%2C+VT+USA",
-"http://maps.google.com/?q=8+Putnam+Street+Montpelier%2C+Vermont%2C+05602+United+States",
-"http://maps.google.com/?q=First+Avenue++Montpelier%2C+VT+United+States",
-"http://maps.google.com/?q=Prospect+Street+Montpelier%2C+Vermont%2C+05602+United+States",
-"https://facebook.com/JaredDuvalVT",
-"https://instagram.com/jaredduvalvt",
-"https://instagram.com/p/DY0nYvClEYl",
-"https://jaredduvalvt.com/",
-"https://jaredduvalvt.com/about",
-"https://jaredduvalvt.com/cart",
-"https://jaredduvalvt.com/contact",
-"https://jaredduvalvt.com/endorsements",
-"https://jaredduvalvt.com/events",
-"https://jaredduvalvt.com/events/330s16t6z15knhovsj7vsfkm5hii40",
-"https://jaredduvalvt.com/events/330s16t6z15knhovsj7vsfkm5hii40?format=ical",
-"https://jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65",
-"https://jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65?format=ical",
-"https://jaredduvalvt.com/events/campaign-announcement-launch",
-"https://jaredduvalvt.com/events/campaign-announcement-launch?format=ical",
-"https://jaredduvalvt.com/events/candidate-forum-hosted-by-the-bridge",
-"https://jaredduvalvt.com/events/candidate-forum-hosted-by-the-bridge?format=ical",
-"https://jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57",
-"https://jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57?format=ical",
-"https://jaredduvalvt.com/events/canvassing-in-montpelier-1-8cdaf",
-"https://jaredduvalvt.com/events/canvassing-in-montpelier-1-8cdaf?format=ical",
-"https://jaredduvalvt.com/events/canvassing-in-montpelier-2p276",
-"https://jaredduvalvt.com/events/canvassing-in-montpelier-2p276?format=ical",
-"https://jaredduvalvt.com/events/canvassing-in-plainfield-dzltk",
-"https://jaredduvalvt.com/events/canvassing-in-plainfield-dzltk?format=ical",
-"https://jaredduvalvt.com/events/canvassing-in-woodbury-w8945",
-"https://jaredduvalvt.com/events/canvassing-in-woodbury-w8945?format=ical",
-"https://jaredduvalvt.com/events/coffee-conversation-with-jared-at-capitol-grounds",
-"https://jaredduvalvt.com/events/coffee-conversation-with-jared-at-capitol-grounds?format=ical",
-"https://jaredduvalvt.com/events/election-day",
-"https://jaredduvalvt.com/events/election-day?format=ical",
-"https://jaredduvalvt.com/events/house-party-at-tina-muncys",
-"https://jaredduvalvt.com/events/house-party-at-tina-muncys?format=ical",
-"https://jaredduvalvt.com/events/j55ob61n14l304w6xoer3zsj8mqs9y",
-"https://jaredduvalvt.com/events/j55ob61n14l304w6xoer3zsj8mqs9y?format=ical",
-"https://jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns",
-"https://jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns?format=ical",
-"https://jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j",
-"https://jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j?format=ical",
-"https://jaredduvalvt.com/events/m3119i99334215sp2q9avhcwr4mud3",
-"https://jaredduvalvt.com/events/m3119i99334215sp2q9avhcwr4mud3?format=ical",
-"https://jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76",
-"https://jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76?format=ical",
-"https://jaredduvalvt.com/events/meet-jared-at-the-liberty-street-yard-sale",
-"https://jaredduvalvt.com/events/meet-jared-at-the-liberty-street-yard-sale?format=ical",
-"https://jaredduvalvt.com/events/montpelier-farmers-market",
-"https://jaredduvalvt.com/events/montpelier-farmers-market-1",
-"https://jaredduvalvt.com/events/montpelier-farmers-market-1?format=ical",
-"https://jaredduvalvt.com/events/montpelier-farmers-market-2",
-"https://jaredduvalvt.com/events/montpelier-farmers-market-2?format=ical",
-"https://jaredduvalvt.com/events/montpelier-farmers-market?format=ical",
-"https://jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls",
-"https://jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls?format=ical",
-"https://jaredduvalvt.com/events/neighborhood-conversation",
-"https://jaredduvalvt.com/events/neighborhood-conversation-prospect-pleasant-and-cherry",
-"https://jaredduvalvt.com/events/neighborhood-conversation-prospect-pleasant-and-cherry?format=ical",
-"https://jaredduvalvt.com/events/neighborhood-conversation?format=ical",
-"https://jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim",
-"https://jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim?format=ical",
-"https://jaredduvalvt.com/events/rezftmej92yvyu6odu2doqvuuk928j",
-"https://jaredduvalvt.com/events/rezftmej92yvyu6odu2doqvuuk928j?format=ical",
-"https://jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3",
-"https://jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3?format=ical",
-"https://jaredduvalvt.com/events/tsr76j567a2jpxvndfk94hox5whkae",
-"https://jaredduvalvt.com/events/tsr76j567a2jpxvndfk94hox5whkae?format=ical",
-"https://jaredduvalvt.com/events/vermont-primary-84mdz",
-"https://jaredduvalvt.com/events/vermont-primary-84mdz?format=ical",
-"https://jaredduvalvt.com/events/xdatiscttb7tybuuekr11ogltmdkua",
-"https://jaredduvalvt.com/events/xdatiscttb7tybuuekr11ogltmdkua?format=ical",
-"https://jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg",
-"https://jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg?format=ical",
-"https://jaredduvalvt.com/get-involved",
-"https://jaredduvalvt.com/home",
-"https://jaredduvalvt.com/news",
-"https://jaredduvalvt.com/on-the-issues",
-"https://secure.actblue.com/donate/jared-duval-1",
-"https://youtube.com/@jaredduvalvt5365"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+cabot%2C+vt+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+montpelier%2C+vt%2C+05602+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+orange%2C+vt+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+plainfield%2C+vt+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=109+pitman+road+barre%2C+vt%2C+05641+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=122+school+street+marshfield%2C+vt%2C+05658+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=27+state+street+montpelier%2C+vermont%2C+05602+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3087+main+street+cabot%2C+vt%2C+05647+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=34+gristmill+place+marshfield%2C+vt%2C+05658+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=39+main+st.++montpelier%2C+vt+05602+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=39+main+st.++montpelier%2C+vt+05602+usa"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=58+barre+st.++montpelier%2C+vt+usa"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8+putnam+street+montpelier%2C+vermont%2C+05602+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=first+avenue++montpelier%2C+vt+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=prospect+street+montpelier%2C+vermont%2C+05602+united+states"
+},
+{
+"text": "0",
+"href": "https://www.jaredduvalvt.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.jaredduvalvt.com/home"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jaredduvalvt.com/contact"
+},
+{
+"text": "Campaign Announcement & Launch!",
+"href": "https://www.jaredduvalvt.com/events/campaign-announcement-launch"
+},
+{
+"text": "Canvassing in Cabot with Lars Torres & Cathleen Maine",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57"
+},
+{
+"text": "Canvassing in Montpelier",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-1-8cdaf"
+},
+{
+"text": "Canvassing in Montpelier",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-2p276"
+},
+{
+"text": "Canvassing in Orange",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-woodbury-w8945"
+},
+{
+"text": "Canvassing in Plainfield",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-plainfield-dzltk"
+},
+{
+"text": "Coffee & Conversation with Jared and Kate at Cafe NOA",
+"href": "https://www.jaredduvalvt.com/events/330s16t6z15knhovsj7vsfkm5hii40"
+},
+{
+"text": "Coffee & Conversation with Jared and Kate at Cafe NOA",
+"href": "https://www.jaredduvalvt.com/events/j55ob61n14l304w6xoer3zsj8mqs9y"
+},
+{
+"text": "Coffee & Conversation with Jared and Kate at Cafe NOA",
+"href": "https://www.jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim"
+},
+{
+"text": "Coffee & Conversation with Jared at Capitol Grounds",
+"href": "https://www.jaredduvalvt.com/events/coffee-conversation-with-jared-at-capitol-grounds"
+},
+{
+"text": "Coffee & Conversation with Jared at Capitol Grounds",
+"href": "https://www.jaredduvalvt.com/events/tsr76j567a2jpxvndfk94hox5whkae"
+},
+{
+"text": "Coffee & Conversation with Jared at Capitol Grounds",
+"href": "https://www.jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg"
+},
+{
+"text": "Conversation at the Montpelier Senior Activity Center",
+"href": "https://www.jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jared-duval-1"
+},
+{
+"text": "Election Day",
+"href": "https://www.jaredduvalvt.com/events/election-day"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredduvalvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredduvalvt.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Announcement+%26+Launch%21&dates=20260427T160000Z%2F20260427T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Cabot+with+Lars+Torres+%26+Cathleen+Maine&dates=20220806T180000Z%2F20220806T210000Z&location=Cabot%2C+VT%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Montpelier&dates=20220807T140000Z%2F20220807T230000Z&location=Montpelier%2C+VT%2C+05602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Montpelier&dates=20220808T140000Z%2F20220808T230000Z&location=Montpelier%2C+VT%2C+05602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Orange&dates=20220805T180000Z%2F20220805T210000Z&location=Orange%2C+VT%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+in+Plainfield&dates=20220804T180000Z%2F20220804T210000Z&location=Plainfield%2C+VT%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26+Conversation+with+Jared+at+Capitol+Grounds&dates=20260730T113000Z%2F20260730T130000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+and+Kate+at+Cafe+NOA&dates=20260721T113000Z%2F20260721T130000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+and+Kate+at+Cafe+NOA&dates=20260728T113000Z%2F20260728T130000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+and+Kate+at+Cafe+NOA&dates=20260804T113000Z%2F20260804T130000Z&location=8+Putnam+Street%2C+Montpelier%2C+Vermont%2C+05602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+at+Capitol+Grounds&dates=20260723T113000Z%2F20260723T130000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+%26amp%3B+Conversation+with+Jared+at+Capitol+Grounds&dates=20260806T113000Z%2F20260806T123000Z&location=27+State+Street%2C+Montpelier%2C+Vermont%2C+05602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Conversation+at+the+Montpelier+Senior+Activity+Center&dates=20260611T210000Z%2F20260611T223000Z&location=58+Barre+St.+%2C+Montpelier%2C+VT%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T120000Z%2F20261104T000000Z&location=39+Main+St.+%2C+Montpelier%2C+VT+05602%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+Party+at+Anne+Sarcka%E2%80%99s+&dates=20260727T210000Z%2F20260727T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+Party+at+Tina+Muncy%27s&dates=20260718T210000Z%2F20260718T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+Party+hosted+by+Judith+Hinds&dates=20260721T143000Z%2F20260721T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Liberty+Street+Yard+Sale&dates=20260725T130000Z%2F20260725T143000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Listening+%26+Talking+with+Voters+at+the+Barre+Town+Transfer+Station&dates=20220806T140000Z%2F20220806T160000Z&location=109+Pitman+Road%2C+Barre%2C+VT%2C+05641%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Listening+%26amp%3B+Talking+with+Voters%2C+Marshfield+Summer+Concert+Series&dates=20220804T223000Z%2F20220805T003000Z&location=122+School+Street%2C+Marshfield%2C+VT%2C+05658%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Listening+%26amp%3B+Talking+with+Voters+at+Harry%27s+Hardware%2C+Cabot&dates=20220806T220000Z%2F20220807T000000Z&location=3087+Main+Street%2C+Cabot%2C+VT%2C+05647%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+with+Sen.+Perchlik%2C+hosted+by+Angie+Barger+%26amp%3B+Joe+Astick%2C+Marshfield&dates=20220804T210000Z%2F20220804T223000Z&location=34+Gristmill+Place%2C+Marshfield%2C+VT%2C+05658%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%27s+Market&dates=20260627T130000Z%2F20260627T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%27s+Market&dates=20260704T130000Z%2F20260704T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%27s+Market+&dates=20260718T143000Z%2F20260718T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montpelier+Farmer%E2%80%99s+Market&dates=20260711T130000Z%2F20260711T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Conversation&dates=20260630T223000Z%2F20260630T233000Z&location=First+Avenue+%2C+Montpelier%2C+VT%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Conversation+&dates=20260707T223000Z%2F20260707T233000Z&location=Prospect+Street%2C+Montpelier%2C+Vermont%2C+05602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20260811T110000Z%2F20260811T230000Z&location=39+Main+St.+%2C+Montpelier%2C+VT+05602%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=State+Rep.+Candidate+Forum+Hosted+by+The+Bridge+and+ORCA+Media&dates=20260728T213000Z%2F20260728T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Vermont+Primary&dates=20220809T120000Z%2F20220809T230000Z"
+},
+{
+"text": "House Party at Anne Sarcka’s",
+"href": "https://www.jaredduvalvt.com/events/rezftmej92yvyu6odu2doqvuuk928j"
+},
+{
+"text": "House Party at Tina Muncy's",
+"href": "https://www.jaredduvalvt.com/events/house-party-at-tina-muncys"
+},
+{
+"text": "House Party hosted by Judith Hinds",
+"href": "https://www.jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/330s16t6z15knhovsj7vsfkm5hii40?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/campaign-announcement-launch?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/candidate-forum-hosted-by-the-bridge?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-1-8cdaf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-2p276?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-plainfield-dzltk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-woodbury-w8945?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/coffee-conversation-with-jared-at-capitol-grounds?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/election-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/house-party-at-tina-muncys?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/j55ob61n14l304w6xoer3zsj8mqs9y?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/m3119i99334215sp2q9avhcwr4mud3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/meet-jared-at-the-liberty-street-yard-sale?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation-prospect-pleasant-and-cherry?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/rezftmej92yvyu6odu2doqvuuk928j?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/tsr76j567a2jpxvndfk94hox5whkae?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/vermont-primary-84mdz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/xdatiscttb7tybuuekr11ogltmdkua?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg?format=ical"
+},
+{
+"text": "Liberty Street Yard Sale",
+"href": "https://www.jaredduvalvt.com/events/meet-jared-at-the-liberty-street-yard-sale"
+},
+{
+"text": "Listening & Talking with Voters at Harry's Hardware, Cabot",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns"
+},
+{
+"text": "Listening & Talking with Voters at the Barre Town Transfer Station",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j"
+},
+{
+"text": "Listening & Talking with Voters, Marshfield Summer Concert Series",
+"href": "https://www.jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls"
+},
+{
+"text": "Meet & Greet with Sen. Perchlik, hosted by Angie Barger & Joe Astick, Marshfield",
+"href": "https://www.jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "Montpelier Farmer's Market",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market"
+},
+{
+"text": "Montpelier Farmer's Market",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-1"
+},
+{
+"text": "Montpelier Farmer's Market",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-2"
+},
+{
+"text": "Montpelier Farmer’s Market",
+"href": "https://www.jaredduvalvt.com/events/xdatiscttb7tybuuekr11ogltmdkua"
+},
+{
+"text": "Neighborhood Conversation",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation"
+},
+{
+"text": "Neighborhood Conversation",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation-prospect-pleasant-and-cherry"
+},
+{
+"text": "News",
+"href": "https://www.jaredduvalvt.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.jaredduvalvt.com/on-the-issues"
+},
+{
+"text": "Primary Election Day",
+"href": "https://www.jaredduvalvt.com/events/m3119i99334215sp2q9avhcwr4mud3"
+},
+{
+"text": "State Rep. Candidate Forum Hosted by The Bridge and ORCA Media",
+"href": "https://www.jaredduvalvt.com/events/candidate-forum-hosted-by-the-bridge"
+},
+{
+"text": "Vermont Primary",
+"href": "https://www.jaredduvalvt.com/events/vermont-primary-84mdz"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/330s16t6z15knhovsj7vsfkm5hii40"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/campaign-announcement-launch"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/candidate-forum-hosted-by-the-bridge"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-1-8cdaf"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-2p276"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-plainfield-dzltk"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-woodbury-w8945"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/coffee-conversation-with-jared-at-capitol-grounds"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/election-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/house-party-at-tina-muncys"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/j55ob61n14l304w6xoer3zsj8mqs9y"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/m3119i99334215sp2q9avhcwr4mud3"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/meet-jared-at-the-liberty-street-yard-sale"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation-prospect-pleasant-and-cherry"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/rezftmej92yvyu6odu2doqvuuk928j"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/tsr76j567a2jpxvndfk94hox5whkae"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/vermont-primary-84mdz"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/xdatiscttb7tybuuekr11ogltmdkua"
+},
+{
+"text": "View Event →",
+"href": "https://www.jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg"
+},
+{
+"text": "[image: Campaign Announcement & Launch!]",
+"href": "https://www.jaredduvalvt.com/events/campaign-announcement-launch"
+},
+{
+"text": "[image: Coffee & Conversation with Jared at Capitol Grounds]",
+"href": "https://www.jaredduvalvt.com/events/coffee-conversation-with-jared-at-capitol-grounds"
+},
+{
+"text": "[image: Coffee &amp; Conversation with Jared and Kate at Cafe NOA]",
+"href": "https://www.jaredduvalvt.com/events/330s16t6z15knhovsj7vsfkm5hii40"
+},
+{
+"text": "[image: Coffee &amp; Conversation with Jared and Kate at Cafe NOA]",
+"href": "https://www.jaredduvalvt.com/events/j55ob61n14l304w6xoer3zsj8mqs9y"
+},
+{
+"text": "[image: Coffee &amp; Conversation with Jared and Kate at Cafe NOA]",
+"href": "https://www.jaredduvalvt.com/events/r10xffs6lbe38zeml8kc28qthq0fim"
+},
+{
+"text": "[image: Coffee &amp; Conversation with Jared at Capitol Grounds]",
+"href": "https://www.jaredduvalvt.com/events/tsr76j567a2jpxvndfk94hox5whkae"
+},
+{
+"text": "[image: Coffee &amp; Conversation with Jared at Capitol Grounds]",
+"href": "https://www.jaredduvalvt.com/events/y0m2i7npcq1wojci68xw1eg1d747mg"
+},
+{
+"text": "[image: Conversation at the Montpelier Senior Activity Center]",
+"href": "https://www.jaredduvalvt.com/events/blxx8rhfw2kvgnbi36dtwu06pgye65"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.jaredduvalvt.com/events/election-day"
+},
+{
+"text": "[image: Jared for House 2026]",
+"href": "https://www.jaredduvalvt.com/"
+},
+{
+"text": "[image: Neighborhood Conversation ]",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation-prospect-pleasant-and-cherry"
+},
+{
+"text": "[image: Neighborhood Conversation]",
+"href": "https://www.jaredduvalvt.com/events/neighborhood-conversation"
+},
+{
+"text": "[image: Primary Election Day]",
+"href": "https://www.jaredduvalvt.com/events/m3119i99334215sp2q9avhcwr4mud3"
+},
+{
+"text": "[image: State Rep. Candidate Forum Hosted by The Bridge and ORCA Media]",
+"href": "https://www.jaredduvalvt.com/events/candidate-forum-hosted-by-the-bridge"
+},
+{
+"text": "[image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km][image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km]",
+"href": "https://www.instagram.com/p/DY0nYvClEYl/"
+},
+{
+"text": "[image: Vermont Primary]",
+"href": "https://www.jaredduvalvt.com/events/vermont-primary-84mdz"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaredDuvalVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredduvalvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-cabot-with-lars-torres-cathleen-maine-hts57"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-1-8cdaf"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-montpelier-2p276"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-plainfield-dzltk"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/canvassing-in-woodbury-w8945"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/house-party-at-tina-muncys"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-harrys-hardware-rk6ns"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/listening-talking-with-voters-at-the-barre-town-transfer-station-4479j"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/meet-greet-with-sen-perchlik-marshfield-gsy76"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/meet-jared-at-the-liberty-street-yard-sale"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/montpelier-farmers-market-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/n9ungzk3cjovizfbgmtq3xeu2zgdj6-9g2ls"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/rezftmej92yvyu6odu2doqvuuk928j"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/s8vs11j3ut9r3sap51ui14l90z9sa3"
+},
+{
+"text": "[no text]",
+"href": "https://www.jaredduvalvt.com/events/xdatiscttb7tybuuekr11ogltmdkua"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jaredduvalvt5365"
+},
+{
+"text": "jrsnelljr@gmail.com",
+"href": "mailto:jrsnelljr@gmail.com"
+},
+{
+"text": "kate.m.g.stephenson@gmail.com",
+"href": "mailto:kate.m.g.stephenson@gmail.com"
+}
 ]

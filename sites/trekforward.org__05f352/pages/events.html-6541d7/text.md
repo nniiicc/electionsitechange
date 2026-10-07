@@ -1,15 +1,4 @@
-Stay up to date with the Trek Forward campaign.
-SEP
-19
-OCT
-3
-OCT
-10
-OCT
-17
-OCT
-24
-AUG
-15
-Follow the campaign for the latest updates.
+PHIL BARNES Trek Forward Home About Issues Voting Slater's Record Donate Volunteer Events Events & News Stay up to date with the Trek Forward campaign.
+Upcoming Events SEP 19 Affirming Sumner 📍 Sumner County SEP 19 SCDP Three Star: America's 250th Celebration 📍 Bethpage, TN · Ticketed Event OCT 3 Trousdale Recovery Fest 📍 Trousdale County · 10:00 AM to 1:00 PM OCT 3 Main Street Festival 📍 Gallatin, TN · 2:00 PM to closing OCT 10 Trousdale Car Show 📍 Trousdale County · 10:00 AM OCT 17 No Kings Get Out The Vote Rally 📍 Location TBD OCT 24 Trousdale Democratic Party Meeting 📍 Mudlark Cafe · 206 Broadway, Hartsville · 2:00 PM Past Events AUG 15 Trousdale Dems Meet and Greet 📍 Mudlark Cafe · 206 Broadway, Hartsville, TN 37074 · 4:00 to 6:00 PM Campaign Updates Follow the campaign for the latest updates.
 More posts coming soon.
+Donate to Trek Forward Paid for by Trek Forward, Treasurer Phil Barnes

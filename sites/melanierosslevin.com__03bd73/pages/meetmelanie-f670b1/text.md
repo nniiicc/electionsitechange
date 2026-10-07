@@ -1,5 +1,4 @@
-Melanie Ross Levin
-Melanie is thrilled to serve as the State Representative for Delaware's 10th District.
+top of page Home Meet Melanie Issues Donate More Join Team Melanie Request a Yard Sign Melanie Ross Levin Melanie is thrilled to serve as the State Representative for Delaware's 10th District.
 Previously, as the Director of Delaware’s State Office of Women's Advancement and Advocacy, she played a pivotal role in achieving major milestones across the state.
 Her accomplishments include championing Paid Family and Medical Leave, establishing the nation's best paid parental leave benefit for state workers, raising the minimum wage, enacting the first ban on child marriage in the United States, advancing the Equal Rights Amendment, expanding Medicaid coverage for pregnant women, protecting pregnant workers, and ensuring menstrual hygiene products are available in schools and prisons.
 Beyond legislation, Melanie has spearheaded projects that create a more inclusive Delaware.
@@ -14,3 +13,6 @@ Early in her career, Melanie served as a Legislative Fellow in the Delaware Gene
 Melanie received her Master’s Degree in Public Administration and her Bachelor’s Degree in Political Science and Women’s Studies from the University of Delaware.
 Melanie serves on the University of Delaware Hillel Board of Directors and is an active member of Congregation Beth Emeth.
 She lives with her husband, two daughters and rescue dog in North Wilmington.
+Paid for by Friends of Melanie Ross Levin ​ Melanie Ross Levin Campaign for Delaware Democrat State Representative Privacy Policy CONTACT US Tell us what matters most to you. ​ 302-518-0166 Submit By providing your phone number you are consenting to receive campaign correspondence via text.
+You can unsubscribe at any time.
+Thanks for submitting! bottom of page

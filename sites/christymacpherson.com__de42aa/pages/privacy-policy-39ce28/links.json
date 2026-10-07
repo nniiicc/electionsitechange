@@ -1,12 +1,58 @@
 [
-"https://christymacpherson.com/",
-"https://christymacpherson.com/accessibility-statement",
-"https://christymacpherson.com/become-a-volunteer",
-"https://christymacpherson.com/community-issues",
-"https://christymacpherson.com/contact",
-"https://christymacpherson.com/meet-christy",
-"https://christymacpherson.com/privacy-policy",
-"https://christymacpherson.com/terms-and-conditions",
-"https://christymacpherson.solidarity.tech/volunteer",
-"https://secure.actblue.com/donate/friends-of-christy-macpherson"
+{
+"text": "Accessibility Statement",
+"href": "https://www.christymacpherson.com/accessibility-statement"
+},
+{
+"text": "Become a Volunteer",
+"href": "https://christymacpherson.solidarity.tech/volunteer"
+},
+{
+"text": "Become a Volunteer",
+"href": "https://www.christymacpherson.com/become-a-volunteer"
+},
+{
+"text": "Community Issues",
+"href": "https://www.christymacpherson.com/community-issues"
+},
+{
+"text": "Contact",
+"href": "https://www.christymacpherson.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-christy-macpherson"
+},
+{
+"text": "Home",
+"href": "https://www.christymacpherson.com"
+},
+{
+"text": "Meet Christy",
+"href": "https://www.christymacpherson.com/meet-christy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.christymacpherson.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.christymacpherson.com/terms-and-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://christymacpherson.solidarity.tech/volunteer"
+},
+{
+"text": "[image: Christy MacPherson 001]",
+"href": "https://www.christymacpherson.com"
+},
+{
+"text": "christyforhawaii@gmail.com",
+"href": "mailto:christyforhawaii@gmail.com"
+},
+{
+"text": "info@christymacpherson.com",
+"href": "mailto:info@christymacpherson.com"
+}
 ]

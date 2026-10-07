@@ -1,6 +1,23 @@
-A majority of voters in a 10th Congressional District poll disapprove of Republican U.S.
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Rep.
+Perry underwater with voters on job approval, trails Democrat: poll A majority of voters in a 10 th Congressional District poll disapprove of Republican U.S.
 Rep.
 Scott Perry’s job performance, while expected Democratic challenger Janelle Stelson has an early 4-point lead ahead of the 2026 election.
-The survey commissioned by Republicans Against Perry and conducted by Public Policy Polling questioned 549 registered voters in the 10th District, which encompasses Dauphin County and parts of York and Cumberland counties.
+The survey commissioned by Republicans Against Perry and conducted by Public Policy Polling questioned 549 registered voters in the 10 th District, which encompasses Dauphin County and parts of York and Cumberland counties.
 It has a margin of error of +/- 4.4 percentage points.
-Read full article here: https://www.pennlive.com/politics/2025/12/rep-perry-underwater-with-voters-on-job-approval-trails-democrat-who-wants-to-unseat-him-poll.html
+Read full article here: https://www.pennlive.com/politics/2025/12/rep-perry-underwater-with-voters-on-job-approval-trails-democrat-who-wants-to-unseat-him-poll.html Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.
+Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store For more than 30 years Central Pennsylvanians have relied on Janelle to tell the truth, trusted her to shine a light on our problems, and counted on her to get answers and hold the powerful accountable.
+Now, she’s running against Scott Perry to be your champion in Congress.
+Support Janelle’s campaign by making a donation or signing up to volunteer today.
+Volunteer Donate Facebook X-twitter Instagram Contributions can be mailed to: Friends of Janelle Stelson P.O.
+Box 41, Lemoyne, PA 17043 Paid for by Friends of Janelle Stelson Copyright #.
+All Rights Reserved.
+Privacy Policy.
+By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.

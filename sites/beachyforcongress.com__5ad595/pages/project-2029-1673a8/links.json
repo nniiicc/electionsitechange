@@ -1,5 +1,14 @@
 [
-"https://beachyforcongress.com/",
-"https://romanfink.com/",
-"https://wordpress.org/"
+{
+"text": "Roman Fink",
+"href": "https://romanfink.com"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "beachyforcongress.com",
+"href": "https://beachyforcongress.com"
+}
 ]

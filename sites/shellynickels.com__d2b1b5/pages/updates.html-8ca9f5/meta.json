@@ -1,7 +1,11 @@
 {
  "description": "Watch videos and follow campaign updates from Dr. Shelly Nickels for Texas House District 122.",
  "final_url": "https://shellynickels.com/updates.html",
+ "fingerprint": "abbd1a552fc027a6afe80cef4bf59a43b707972b",
+ "format": 3,
  "paid_for_by": "paid for by Shelly Nickels for TX HD-122",
  "title": "Campaign Updates | Dr. Shelly Nickels for Texas House District 122",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

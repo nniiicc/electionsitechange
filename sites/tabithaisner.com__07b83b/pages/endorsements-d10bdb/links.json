@@ -1,65 +1,254 @@
 [
-"https://alanthomasforhd50.us/",
-"https://aliciaescottlumpkin.com/",
-"https://amandaforalabama.com/",
-"https://ashleighdunhamforalabama.com/",
-"https://barcalaforstaterep.com/",
-"https://bsky.app/profile/tabithak",
-"https://clydeforcongress.com/",
-"https://cookforalabama.com/",
-"https://debrafosterforal32.com/",
-"https://designedtorun.com/",
-"https://dickey4alabama.com/",
-"https://dicksonnicksoncamp.com/",
-"https://dougjones.com/",
-"https://elect-terri-osborne.com/",
-"https://electdavidmorgan.com/",
-"https://electpamhoward.com/",
-"https://facebook.com/TabithaIsner",
-"https://facebook.com/hanu4alabama",
-"https://facebook.com/p/Christian-Martin-for-HD-16-61587079191150",
-"https://facebook.com/p/Janet-Appleby-for-Alabama-Senate-District-32-100075897772950",
-"https://facebook.com/p/Manfred-Malone-for-Alabama-House-Dist80-100072153111125",
-"https://figuresforcongress.com/",
-"https://forrestforalabama.com/",
-"https://forsythforalabama.com/",
-"https://jameslinderholm.com/",
-"https://jamesogordon.com/",
-"https://jasmynecrimiel.com/",
-"https://jimtoomeyforalhouse47.org/",
-"https://joanfriedlanderal.com/",
-"https://kramerforalabama.com/",
-"https://leemcinnis4alabama.com/",
-"https://mandieforalabama.com/",
-"https://mauricemercer.com/",
-"https://mcneilforpsc2.com/",
-"https://michellefrenchforalabama.com/",
-"https://motternforalabama.com/",
-"https://nellbrownforhouse15.com/",
-"https://phadrafoster.com/",
-"https://phillipensler.com/",
-"https://rickpressnellforalabama.com/",
-"https://rozforalabama.com/",
-"https://rudolphdrakeforsenate.com/",
-"https://secure.actblue.com/donate/dr--aristotle-kirkland-hd85",
-"https://sewellforcongress.com/",
-"https://sharpe4senate.com/",
-"https://slussforsenate.org/",
-"https://sneedforcongress.com/",
-"https://sparks2026.com/",
-"https://stone4senate.com/",
-"https://tabithaisner.com/",
-"https://tabithaisner.com/about",
-"https://tabithaisner.com/events-2",
-"https://tabithaisner.com/sdec",
-"https://taylorhd63.com/",
-"https://thehazelfloydcollective.com/",
-"https://tiktok.com/@tabitha.isner",
-"https://timefortoni.com/",
-"https://vote4roberthunter.com/",
-"https://voteforbobbymartin.com/",
-"https://votegigihayes52.com/",
-"https://voteviolet.com/",
-"https://wessforsenate.com/",
-"https://yourallyinmontgomery.org/"
+{
+"text": "About",
+"href": "https://www.tabithaisner.com/about"
+},
+{
+"text": "Events",
+"href": "https://www.tabithaisner.com/events-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "State Democratic Executive Committee",
+"href": "https://www.tabithaisner.com/sdec"
+},
+{
+"text": "[image: Alan Thomas]Alan ThomasDistrict 50",
+"href": "https://alanthomasforhd50.us/"
+},
+{
+"text": "[image: Alicia Escott Lumpkin]Alicia Escott LumpkinDistrict 60",
+"href": "https://www.aliciaescottlumpkin.com/"
+},
+{
+"text": "[image: Allison Montgomery]Allison MontgomeryDistrict 25",
+"href": "https://yourallyinmontgomery.org/"
+},
+{
+"text": "[image: Amanda Pusczek]Amanda PusczekUS House, District 4",
+"href": "https://www.amandaforalabama.com/"
+},
+{
+"text": "[image: Andrew Sneed]Andrew SneedUS House, district 5",
+"href": "https://www.sneedforcongress.com/"
+},
+{
+"text": "[image: Aristotle \"Kat\" Kirkland]Aristotle \"Kat\" KirklandDistrict 85",
+"href": "https://secure.actblue.com/donate/dr--aristotle-kirkland-hd85"
+},
+{
+"text": "[image: Ashley Sharpe]Ashley Sharpedistrict 22",
+"href": "https://sharpe4senate.com/"
+},
+{
+"text": "[image: Bobby Martin]Bobby MartinDistrict 6",
+"href": "https://www.voteforbobbymartin.com/"
+},
+{
+"text": "[image: Christian Martin]Christian MartinDistrict 16",
+"href": "https://www.facebook.com/p/Christian-Martin-for-HD-16-61587079191150/"
+},
+{
+"text": "[image: Clyde Jones]Clyde JonesUS House, District 1",
+"href": "https://clydeforcongress.com/"
+},
+{
+"text": "[image: David Morgan]David Morgandistrict 41",
+"href": "https://electdavidmorgan.com/"
+},
+{
+"text": "[image: Debra Foster]Debra FosterDistrict 32",
+"href": "https://www.debrafosterforal32.com/"
+},
+{
+"text": "[image: Donald Mottern]Donald Motterndistrict 11",
+"href": "https://motternforalabama.com/"
+},
+{
+"text": "[image: Everett Wess]Everett WessUS Senate",
+"href": "https://wessforsenate.com/"
+},
+{
+"text": "[image: Forrest Satterfield]Forrest SatterfieldDistrict 21",
+"href": "https://www.forrestforalabama.com/"
+},
+{
+"text": "[image: Gigi Hayes]Gigi HayesDistrict 52",
+"href": "https://www.votegigihayes52.com/"
+},
+{
+"text": "[image: Hanu Karlapalem]Hanu KarlapalemDistrict 4",
+"href": "https://www.facebook.com/hanu4alabama/"
+},
+{
+"text": "[image: Hazel Floyd]Hazel FloydDistrict 38",
+"href": "https://www.thehazelfloydcollective.com/"
+},
+{
+"text": "[image: James Linderholm]James LinderholmDistrict 20",
+"href": "https://www.jameslinderholm.com/"
+},
+{
+"text": "[image: Jamie Forsyth]Jamie ForsythDistrict 13",
+"href": "https://www.forsythforalabama.com/"
+},
+{
+"text": "[image: Janet Appleby]Janet ApplebyDistrict 32",
+"href": "https://www.facebook.com/p/Janet-Appleby-for-Alabama-Senate-District-32-100075897772950/"
+},
+{
+"text": "[image: Jared Sluss]Jared Slussdistrict 7",
+"href": "https://www.slussforsenate.org/"
+},
+{
+"text": "[image: Jasmyne Crimiel]Jasmyne CrimielDistrict 74",
+"href": "https://www.jasmynecrimiel.com/"
+},
+{
+"text": "[image: Jessie Barcala]Jessie BarcalaDistrict 5",
+"href": "https://www.barcalaforstaterep.com/"
+},
+{
+"text": "[image: Jim Toomey]Jim ToomeyDistrict 47",
+"href": "https://www.jimtoomeyforalhouse47.org/"
+},
+{
+"text": "[image: Joan Friedlander]Joan FriedlanderDistrict 101",
+"href": "https://joanfriedlanderal.com/"
+},
+{
+"text": "[image: John Dickey]John DickeyDistrict 3",
+"href": "https://dickey4alabama.com/"
+},
+{
+"text": "[image: Judith Taylor]Judith TaylorDistrict 63",
+"href": "https://taylorhd63.com/"
+},
+{
+"text": "[image: Katie Kramer]Katie KramerDistrict 8",
+"href": "https://www.kramerforalabama.com/"
+},
+{
+"text": "[image: Lee McInnis]Lee McInnisUS House, district 3",
+"href": "https://leemcinnis4alabama.com/"
+},
+{
+"text": "[image: Mandie Ledkins]Mandie LedkinsDistrict 14",
+"href": "https://mandieforalabama.com/"
+},
+{
+"text": "[image: Manfred Malone]Manfred MaloneDistrict 80",
+"href": "https://www.facebook.com/p/Manfred-Malone-for-Alabama-House-Dist80-100072153111125/"
+},
+{
+"text": "[image: Maurice Mercer]Maurice MercerUS House, district 6",
+"href": "https://www.mauricemercer.com/"
+},
+{
+"text": "[image: Michelle French]Michelle Frenchdistrict 37",
+"href": "https://michellefrenchforalabama.com/"
+},
+{
+"text": "[image: Nell Brown]Nell BrownDistrict 15",
+"href": "https://nellbrownforhouse15.com/"
+},
+{
+"text": "[image: Pam Howard]Pam HowardDistrict 40",
+"href": "https://electpamhoward.com/"
+},
+{
+"text": "[image: Phadra Foster]Phadra Fosterdistrict 25",
+"href": "https://phadrafoster.com/"
+},
+{
+"text": "[image: Rick Pressnell]Rick PressnellDistrict 2",
+"href": "https://www.rickpressnellforalabama.com/"
+},
+{
+"text": "[image: Robert Hunter]Robert HunterDistrict 28",
+"href": "https://vote4roberthunter.com/"
+},
+{
+"text": "[image: Rudolph Drake]Rudolph DrakeDistrict 2",
+"href": "https://www.rudolphdrakeforsenate.com/"
+},
+{
+"text": "[image: Shomari Figures]Shomari FiguresUS House, District 2",
+"href": "https://www.figuresforcongress.com/"
+},
+{
+"text": "[image: Spencer Stone]Spencer Stonedistrict 16",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "[image: Taylor Cook]Taylor CookDistrict 43",
+"href": "https://www.cookforalabama.com/"
+},
+{
+"text": "[image: Terri Osborne]Terri OsborneDistrict 96",
+"href": "https://www.elect-terri-osborne.com/"
+},
+{
+"text": "[image: Terri Sewell]Terri SewellUS House, district 7",
+"href": "https://sewellforcongress.com/"
+},
+{
+"text": "[image: Tisha Dickson Nickson]Tisha Dickson NicksonDistrict 75",
+"href": "https://dicksonnicksoncamp.com/"
+},
+{
+"text": "[image: Toni Vaughn]Toni VaughnDistrict 45",
+"href": "https://timefortoni.com/"
+},
+{
+"text": "[image: Vice Chair Tabitha Isner]",
+"href": "https://www.tabithaisner.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/tabithak"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TabithaIsner"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@tabitha.isner"
+},
+{
+"text": "https://jamesogordon.com/",
+"href": "https://jamesogordon.com/"
+},
+{
+"text": "https://mcneilforpsc2.com/",
+"href": "https://mcneilforpsc2.com/"
+},
+{
+"text": "https://phillipensler.com/",
+"href": "https://phillipensler.com/"
+},
+{
+"text": "https://rozforalabama.com/",
+"href": "https://rozforalabama.com/"
+},
+{
+"text": "https://sparks2026.com/",
+"href": "https://sparks2026.com/"
+},
+{
+"text": "https://www.ashleighdunhamforalabama.com/",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "https://www.dougjones.com/",
+"href": "https://www.dougjones.com/"
+},
+{
+"text": "https://www.voteviolet.com/",
+"href": "https://www.voteviolet.com/"
+}
 ]

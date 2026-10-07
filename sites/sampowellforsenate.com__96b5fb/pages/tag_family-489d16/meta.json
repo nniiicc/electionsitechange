@@ -1,10 +1,13 @@
 {
  "description": "Posts about family written by Sam Powell",
  "final_url": "https://sampowellforsenate.com/tag/family/",
- "paid_for_by": null,
- "title": "family \u2013 Sam Powell for Senate",
+ "fingerprint": "ce66159d21c6284310e2ef47814525cfbb15b49e",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "family – Sam Powell for Senate",
  "years_mentioned": [
   "2015",
-  "2016"
+  "2016",
+  "2026"
  ]
 }

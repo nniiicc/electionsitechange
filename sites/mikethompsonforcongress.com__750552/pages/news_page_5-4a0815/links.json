@@ -1,62 +1,422 @@
 [
-"https://bsky.app/profile/mt4congress.bsky.social",
-"https://facebook.com/mikethompsonforcongress",
-"https://instagram.com/mikethompson4congress",
-"https://mikethompsonforcongress.com/",
-"https://mikethompsonforcongress.com/biography",
-"https://mikethompsonforcongress.com/donate",
-"https://mikethompsonforcongress.com/endorsements",
-"https://mikethompsonforcongress.com/events",
-"https://mikethompsonforcongress.com/fourth-district",
-"https://mikethompsonforcongress.com/issues",
-"https://mikethompsonforcongress.com/issues/bay-delta-conservation-plan",
-"https://mikethompsonforcongress.com/issues/fiscal-responsibility",
-"https://mikethompsonforcongress.com/issues/gun-violence-prevention",
-"https://mikethompsonforcongress.com/issues/health-care",
-"https://mikethompsonforcongress.com/issues/housing",
-"https://mikethompsonforcongress.com/issues/immigration",
-"https://mikethompsonforcongress.com/issues/jobs-and-economy",
-"https://mikethompsonforcongress.com/issues/seniors",
-"https://mikethompsonforcongress.com/news",
-"https://mikethompsonforcongress.com/news/congressman-thompson-congressman-huffman-senator-mcguire-host-health-care-town-hall-tuesday",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-joined-1500-across-northern-california-calls-noem-impeachment-and-cuts-ice",
-"https://mikethompsonforcongress.com/news/reps-thompson-and-moylan-introduce-bipartisan-lowering-student-loans-act-cap-federal-student",
-"https://mikethompsonforcongress.com/news/thompson-announces-napa-veteran-and-small-business-owner-bernie-narvaez-state-union-guest",
-"https://mikethompsonforcongress.com/news/thompson-calls-out-presidents-unlawful-actions-announces-selection-designated-survivor-2026",
-"https://mikethompsonforcongress.com/news/thompson-commends-scotus-ruling-striking-down-trump-tariffs-announces-bill-refund-americans",
-"https://mikethompsonforcongress.com/news/thompson-helps-secure-nearly-25-million-sonoma-creek-floodplain-restoration-project",
-"https://mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-napa",
-"https://mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland",
-"https://mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland-0",
-"https://mikethompsonforcongress.com/news/thompson-introduces-bill-prevent-president-profiting-lawsuits-against-us-government",
-"https://mikethompsonforcongress.com/news/thompson-issues-statement-voting-end-presidents-emergency-tariffs-canada",
-"https://mikethompsonforcongress.com/news/thompson-joined-costa-garamendi-roundtable-support-ag-community",
-"https://mikethompsonforcongress.com/news/thompson-moylan-announce-bipartisan-bill-lower-student-loans",
-"https://mikethompsonforcongress.com/news/thompson-releases-statement-condemning-republican-funding-ice",
-"https://mikethompsonforcongress.com/news/thompson-releases-statement-iran-war-powers-resolution",
-"https://mikethompsonforcongress.com/news/thompson-releases-statement-us-strikes-against-iran",
-"https://mikethompsonforcongress.com/news/thompson-responds-state-union-address-insult-hardworking-americans",
-"https://mikethompsonforcongress.com/news/thompson-secures-1332-million-federal-funding-projects-californias-fourth-district",
-"https://mikethompsonforcongress.com/news/thompson-slams-arrest-journalists-if-we-lose-our-free-press-we-lose-our-democracy",
-"https://mikethompsonforcongress.com/news?page=0",
-"https://mikethompsonforcongress.com/news?page=1",
-"https://mikethompsonforcongress.com/news?page=2",
-"https://mikethompsonforcongress.com/news?page=3",
-"https://mikethompsonforcongress.com/news?page=4",
-"https://mikethompsonforcongress.com/news?page=5",
-"https://mikethompsonforcongress.com/news?page=56",
-"https://mikethompsonforcongress.com/news?page=6",
-"https://mikethompsonforcongress.com/news?page=7",
-"https://mikethompsonforcongress.com/news?page=8",
-"https://mikethompsonforcongress.com/news?page=9",
-"https://mikethompsonforcongress.com/privacy-policy",
-"https://mikethompsonforcongress.com/resources",
-"https://mikethompsonforcongress.com/subscribe",
-"https://mikethompsonforcongress.com/terms",
-"https://mikethompsonforcongress.com/volunteer",
-"https://mikethompsonforcongress.com/what-has-mike-thompson-accomplished",
-"https://threads.com/@mikethompson4congress",
-"https://tiktok.com/@mt4congress",
-"https://twitter.com/Mike_CA05",
-"https://youtube.com/@mikethompsonforcongress"
+{
+"text": "Bay Delta Conservation Plan",
+"href": "https://www.mikethompsonforcongress.com/issues/bay-delta-conservation-plan"
+},
+{
+"text": "Biography",
+"href": "https://www.mikethompsonforcongress.com/biography"
+},
+{
+"text": "Congressman Thompson, Congressman Huffman & Senator McGuire to host Health Care Town Hall This Tuesday in Santa Rosa",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-thompson-congressman-huffman-senator-mcguire-host-health-care-town-hall-tuesday"
+},
+{
+"text": "Current page 6",
+"href": "https://www.mikethompsonforcongress.com/news?page=5"
+},
+{
+"text": "Delivers $2.3 Million for Sonoma County Community Projects",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-secures-1332-million-federal-funding-projects-californias-fourth-district"
+},
+{
+"text": "Donate",
+"href": "https://www.mikethompsonforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikethompsonforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikethompsonforcongress.com/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Fiscal Responsibility",
+"href": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+},
+{
+"text": "Fourth Congressional District",
+"href": "https://www.mikethompsonforcongress.com/fourth-district"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention"
+},
+{
+"text": "Health Care",
+"href": "https://www.mikethompsonforcongress.com/issues/health-care"
+},
+{
+"text": "Housing",
+"href": "https://www.mikethompsonforcongress.com/issues/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.mikethompsonforcongress.com/issues/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.mikethompsonforcongress.com/issues"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.mikethompsonforcongress.com/issues/jobs-and-economy"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.mikethompsonforcongress.com/news?page=56"
+},
+{
+"text": "Mike Thompson for Congress on Bluesky",
+"href": "https://bsky.app/profile/mt4congress.bsky.social"
+},
+{
+"text": "Mike Thompson for Congress on Facebook",
+"href": "https://www.facebook.com/mikethompsonforcongress"
+},
+{
+"text": "Mike Thompson for Congress on Instagram",
+"href": "https://www.instagram.com/mikethompson4congress/"
+},
+{
+"text": "Mike Thompson for Congress on Threads",
+"href": "https://www.threads.com/@mikethompson4congress"
+},
+{
+"text": "Mike Thompson for Congress on TikTok",
+"href": "https://www.tiktok.com/@mt4congress"
+},
+{
+"text": "Mike Thompson for Congress on X",
+"href": "https://twitter.com/Mike_CA05"
+},
+{
+"text": "Mike Thompson for Congress on Youtube",
+"href": "https://www.youtube.com/@mikethompsonforcongress"
+},
+{
+"text": "Napa, CA – On Friday, March 6, Rep. Mike Thompson (CA-04) will hold a \"NO FOREVER WARS\" Day of Action at Veterans Park in Napa at 4:00 pm. As veterans and members of our community speak out, Rep. Thompson will call for Congress to assert its constitutional authority and prevent another endless conflict that puts American servicemembers at risk without a clear strategy or authorization.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-napa"
+},
+{
+"text": "News",
+"href": "https://www.mikethompsonforcongress.com/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.mikethompsonforcongress.com/news?page=6"
+},
+{
+"text": "Page 10",
+"href": "https://www.mikethompsonforcongress.com/news?page=9"
+},
+{
+"text": "Page 2",
+"href": "https://www.mikethompsonforcongress.com/news?page=1"
+},
+{
+"text": "Page 3",
+"href": "https://www.mikethompsonforcongress.com/news?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.mikethompsonforcongress.com/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.mikethompsonforcongress.com/news?page=4"
+},
+{
+"text": "Page 7",
+"href": "https://www.mikethompsonforcongress.com/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.mikethompsonforcongress.com/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.mikethompsonforcongress.com/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.mikethompsonforcongress.com/news?page=4"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikethompsonforcongress.com/privacy-policy"
+},
+{
+"text": "REP. MIKE THOMPSON, JOINED BY 1,500+ ACROSS NORTHERN CALIFORNIA, CALLS FOR NOEM IMPEACHMENT AND CUTS TO ICE FUNDING",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-joined-1500-across-northern-california-calls-noem-impeachment-and-cuts-ice"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-thompson-congressman-huffman-senator-mcguire-host-health-care-town-hall-tuesday"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-joined-1500-across-northern-california-calls-noem-impeachment-and-cuts-ice"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/reps-thompson-and-moylan-introduce-bipartisan-lowering-student-loans-act-cap-federal-student"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-napa-veteran-and-small-business-owner-bernie-narvaez-state-union-guest"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-calls-out-presidents-unlawful-actions-announces-selection-designated-survivor-2026"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-commends-scotus-ruling-striking-down-trump-tariffs-announces-bill-refund-americans"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-helps-secure-nearly-25-million-sonoma-creek-floodplain-restoration-project"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-napa"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland-0"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-introduces-bill-prevent-president-profiting-lawsuits-against-us-government"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-voting-end-presidents-emergency-tariffs-canada"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joined-costa-garamendi-roundtable-support-ag-community"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-moylan-announce-bipartisan-bill-lower-student-loans"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-condemning-republican-funding-ice"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-iran-war-powers-resolution"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-us-strikes-against-iran"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-responds-state-union-address-insult-hardworking-americans"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-secures-1332-million-federal-funding-projects-californias-fourth-district"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-slams-arrest-journalists-if-we-lose-our-free-press-we-lose-our-democracy"
+},
+{
+"text": "Read my statement on voting to end President Trump's \"emergency\" tariffs on Canada.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-voting-end-presidents-emergency-tariffs-canada"
+},
+{
+"text": "Reps. Thompson and Moylan Introduce Bipartisan Lowering Student Loans Act to Cap Federal Student Loan Interest Rates at 2 Percent",
+"href": "https://www.mikethompsonforcongress.com/news/reps-thompson-and-moylan-introduce-bipartisan-lowering-student-loans-act-cap-federal-student"
+},
+{
+"text": "Resources",
+"href": "https://www.mikethompsonforcongress.com/resources"
+},
+{
+"text": "SANTA ROSA — Congressman Mike Thompson (CA-04), along with Congressman Jared Huffman (CA-02) and State Senator Mike McGuire (SD-02), will be joined by local and state healthcare leaders for an in-person community Town Hall this coming Tuesday, March 10th at 6pm.",
+"href": "https://www.mikethompsonforcongress.com/news/congressman-thompson-congressman-huffman-senator-mcguire-host-health-care-town-hall-tuesday"
+},
+{
+"text": "Seniors",
+"href": "https://www.mikethompsonforcongress.com/issues/seniors"
+},
+{
+"text": "Sonoma, CA – Today, Rep. Mike Thompson (CA-04) announced that he has helped secure $2,496,686.63 in federal grant funding from the National Fish and Wildlife Foundation for the Sonoma Ecology Center to advance their floodplain restoration project in Sonoma Creek.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-helps-secure-nearly-25-million-sonoma-creek-floodplain-restoration-project"
+},
+{
+"text": "Subscribe",
+"href": "https://www.mikethompsonforcongress.com/subscribe"
+},
+{
+"text": "THOMPSON HELPS SECURE NEARLY $2.5 MILLION FOR SONOMA CREEK FLOODPLAIN RESTORATION PROJECT",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-helps-secure-nearly-25-million-sonoma-creek-floodplain-restoration-project"
+},
+{
+"text": "THOMPSON RELEASES STATEMENT ON IRAN WAR POWERS RESOLUTION",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-iran-war-powers-resolution"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikethompsonforcongress.com/terms"
+},
+{
+"text": "Thompson Announces Napa Veteran and Small Business Owner Bernie Narvaez as State of the Union Guest",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-napa-veteran-and-small-business-owner-bernie-narvaez-state-union-guest"
+},
+{
+"text": "Thompson Calls Out President's Unlawful Actions, Announces Selection as Designated Survivor for 2026 State of the Union",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-calls-out-presidents-unlawful-actions-announces-selection-designated-survivor-2026"
+},
+{
+"text": "Thompson Commends SCOTUS Ruling Striking Down Trump Tariffs, Announces Bill to Refund Americans",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-commends-scotus-ruling-striking-down-trump-tariffs-announces-bill-refund-americans"
+},
+{
+"text": "Thompson Introduces Bill to Prevent President from Profiting Off Lawsuits Against the U.S. Government",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-introduces-bill-prevent-president-profiting-lawsuits-against-us-government"
+},
+{
+"text": "Thompson Issues Statement on Voting to End the President's \"Emergency\" Tariffs on Canada",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-voting-end-presidents-emergency-tariffs-canada"
+},
+{
+"text": "Thompson Joined by Costa, Garamendi for Roundtable in Support of Ag Community",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joined-costa-garamendi-roundtable-support-ag-community"
+},
+{
+"text": "Thompson Releases Statement Condemning Republican Funding for ICE",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-condemning-republican-funding-ice"
+},
+{
+"text": "Thompson Releases Statement on U.S. Strikes Against Iran",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-us-strikes-against-iran"
+},
+{
+"text": "Thompson Responds to State of the Union Address: \"An Insult to Hardworking Americans\"",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-responds-state-union-address-insult-hardworking-americans"
+},
+{
+"text": "Thompson Secures $13.32 Million in Federal Funding for Projects in California's Fourth District",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-secures-1332-million-federal-funding-projects-californias-fourth-district"
+},
+{
+"text": "Thompson Slams Arrest of Journalists: “If we lose our free press, we lose our democracy”",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-slams-arrest-journalists-if-we-lose-our-free-press-we-lose-our-democracy"
+},
+{
+"text": "Thompson To Host \"No Forever Wars\" Day of Action in Napa",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-napa"
+},
+{
+"text": "Thompson To Host \"No Forever Wars\" Day of Action in Woodland",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland"
+},
+{
+"text": "Thompson To Host \"No Forever Wars\" Day of Action in Woodland",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland-0"
+},
+{
+"text": "Thompson, Moylan to Announce Bipartisan Bill to Lower Student Loans",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-moylan-announce-bipartisan-bill-lower-student-loans"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "WASHINGTON, D.C. — Today, U.S. Representatives Mike Thompson (CA-04) and James Moylan (Guam-AL) introduced the Lowering Student Loans Act, legislation to amend the Higher Education Act of 1965 and set a fixed 2 percent interest rate for all Federal Direct student loans.",
+"href": "https://www.mikethompsonforcongress.com/news/reps-thompson-and-moylan-introduce-bipartisan-lowering-student-loans-act-cap-federal-student"
+},
+{
+"text": "Washington – On Wednesday, March 4, Rep. Mike Thompson (CA-04) and Rep. James Moylan (Guam-AL) will hold a press conference in HVC Studio A at 2:00 p.m. to announce the introduction of their bipartisan Lowering Student Loans Act, legislation to lower the cost of students loans by setting a fixed two percent interest rate for all Federal Direct student loans.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-moylan-announce-bipartisan-bill-lower-student-loans"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement in response to Republicans’ government funding package, which included funding for ICE.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-condemning-republican-funding-ice"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement in response to the President’s State of the Union address tonight.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-responds-state-union-address-insult-hardworking-americans"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement today in response to the House vote on the Iran War Powers Resolution.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-iran-war-powers-resolution"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement today in response to the President’s strikes against Iran.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-us-strikes-against-iran"
+},
+{
+"text": "Washington, D.C. – Today, Rep. Mike Thompson (CA-04) announced he was selected by Democratic Leader Hakeem Jeffries as designated survivor for tomorrow’s State of the Union address.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-calls-out-presidents-unlawful-actions-announces-selection-designated-survivor-2026"
+},
+{
+"text": "Washington, D.C. – Today, Rep. Mike Thompson (CA-04) announced that Marine Corps veteran, small business owner, and City Councilmember Bernie Narvaez from Napa will be his guest to the President’s State of the Union address to Congress on February 24th, 2026.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-napa-veteran-and-small-business-owner-bernie-narvaez-state-union-guest"
+},
+{
+"text": "Washington, D.C. – Today, Rep. Mike Thompson (CA-04) issued the following statement in response to the Supreme Court’s 6-3 ruling striking down the President’s unlawful tariffs.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-commends-scotus-ruling-striking-down-trump-tariffs-announces-bill-refund-americans"
+},
+{
+"text": "Washington, D.C. – Today, Rep. Mike Thompson (CA-04) released the following statement in response to the Trump Administration’s arrest of two journalists over their coverage of an anti-immigration enforcement protest in Minnesota:",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-slams-arrest-journalists-if-we-lose-our-free-press-we-lose-our-democracy"
+},
+{
+"text": "Washington, D.C. – Today, Rep. Mike Thompson (CA-04), Ranking Member of the House Ways and Means Subcommittee on Tax, announced legislation to prevent a sitting president from profiting from lawsuits against the United States government.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-introduces-bill-prevent-president-profiting-lawsuits-against-us-government"
+},
+{
+"text": "What has Mike Thompson Accomplished?",
+"href": "https://www.mikethompsonforcongress.com/what-has-mike-thompson-accomplished"
+},
+{
+"text": "Woodland, CA – On Saturday, March 7, Rep. Mike Thompson (CA-04) will hold a \"NO FOREVER WARS\" Day of Action at Heritage Plaza in Woodland at 4:30 pm. As veterans and members of our community speak out, Rep. Thompson will call for Congress to assert its constitutional authority and prevent another endless conflict that puts American servicemembers at risk without a clear strategy or authorization.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland"
+},
+{
+"text": "Woodland, CA – On Saturday, March 7, Rep. Mike Thompson (CA-04) will hold a \"NO FOREVER WARS\" Day of Action at Heritage Plaza in Woodland at 4:30 pm. As veterans and members of our community speak out, Rep. Thompson will call for Congress to assert its constitutional authority and prevent another endless conflict that puts American servicemembers at risk without a clear strategy or authorization.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-host-no-forever-wars-day-action-woodland-0"
+},
+{
+"text": "Woodland, CA – Wednesday, Rep. Mike Thompson (CA-04) was joined by Rep. John Garamendi (CA-08) and House Committee on Agriculture member, Rep. Jim Costa (CA-21) for a roundtable meeting with local farmers, ranchers, processors, and ag leaders to discuss the ag community’s needs and how Congress can help deliver for them.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joined-costa-garamendi-roundtable-support-ag-community"
+},
+{
+"text": "Woodland, CA — This week, Congressman Mike Thompson (CA-04) was joined by over 1,500 community members in Napa and Woodland to protest ICE’s rogue actions in Minneapolis and call for action.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-joined-1500-across-northern-california-calls-noem-impeachment-and-cuts-ice"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.mikethompsonforcongress.com/"
+},
+{
+"text": "info@mikethompsonforcongress.com",
+"href": "mailto:info@mikethompsonforcongress.com"
+},
+{
+"text": "press@mikethompsonforcongress.com",
+"href": "mailto:press@mikethompsonforcongress.com"
+}
 ]

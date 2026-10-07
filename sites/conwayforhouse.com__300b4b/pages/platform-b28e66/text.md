@@ -1,4 +1,4 @@
-Public safety is about protecting our neighbors and keeping our communities strong.
+Home Donate Meet Mike Platform Contact More Home Donate Meet Mike Platform Contact Home Donate Meet Mike Platform Contact Mike's Platform Public safety is about protecting our neighbors and keeping our communities strong.
 We believe safe streets, strong families, and thriving neighborhoods start with supporting law enforcement and first responders who put themselves on the line for us every day.
 We must respect the rule of law, back accountability, and ensure our local public safety professionals have the resources they need to do their jobs well so our community can feel safe in the places we live, work, and raise our kids.
 We owe it to taxpayers to be responsible with every dollar.
@@ -10,4 +10,4 @@ We want our small businesses to succeed, our workers to have opportunities close
 That means creating a business climate that encourages growth, reduces unnecessary burdens, and keeps costs manageable for residents.
 When we support local employers and focus on affordability, we strengthen our economy and ensure our community remains a great place to live, work, and raise a family.
 Prepared and paid for by Conway for House, P.O.
-Box 5053, Saint Cloud, MN 56302
+Box 5053, Saint Cloud, MN 56302 Gallery Radio Ads/Trascripts

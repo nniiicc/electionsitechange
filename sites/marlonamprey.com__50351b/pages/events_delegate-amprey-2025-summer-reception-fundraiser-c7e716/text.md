@@ -1,11 +1,4 @@
-Back to All Events
-Join me and my special guests Maryland Governor Wes Moore and Maryland State Senator Antonio Hayes at the Baltimore Museum of Art for my annual Summer Reception!
-We will have delicious food and drinks from Gertrude’s Chesapeake Kitchen, sounds from the one and only dj5starr (Kendrick Tilghman), and views of the Baltimore Museum of Art’s Sculpture Garden.
+0 Skip to Content Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home Folder: About Back Meet Marlon Meet the Team 2026 End of Session Letter Folder: Legislative Matters Back Policy Goals Legislative Accomplishments Folder: Resources Back Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Folder: Blog Back Videos In the News Newsletter Social Media Policy Contact Us Folder: Volunteer Back Volunteer Sign-Up Sign Request Donate Voting Information Back to All Events Delegate Amprey's 2025 Summer Reception Fundraiser Tuesday, July 22, 2025 5:30 PM 7:30 PM Baltimore Museum of Art 10 Art Museum Drive Baltimore, MD, 21218 United States (map) Google Calendar ICS Join me and my special guests Maryland Governor Wes Moore and Maryland State Senator Antonio Hayes at the Baltimore Museum of Art for my annual Summer Reception!
+We will have delicious food and drinks from Gertrude’s Chesapeake Kitchen , sounds from the one and only dj5starr (Kendrick Tilghman) , and views of the Baltimore Museum of Art’s Sculpture Garden.
 To RSVP, please visit secure.actblue.com/donate/amprey07.22.25 or click the button below.
-Previous
-Previous
-January 6
-Delegate Amprey's 2025 Pre-Session Fundraiser
-Next
-Next
-October 4
+RSVP HERE Previous Previous January 6 Delegate Amprey's 2025 Pre-Session Fundraiser Next Next October 4 Day of Action Authority: Citizens for Marlon Amprey, Treasurer, Ryan Galloway.

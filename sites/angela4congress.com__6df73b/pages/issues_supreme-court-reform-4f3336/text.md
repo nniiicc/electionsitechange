@@ -1,8 +1,3 @@
-Your name believes in
-Supreme Court Reform
-Angela supports expanding the Supreme Court and imposing term limits for justices, arguing that lifetime appointments don't belong in a democracy: Citizens United and the reversal of Roe v.
+Skip navigation menu About Issues Endorsements Volunteer Donate About Issues Endorsements Volunteer Donate Money Out of Politics Housing for All Economic Dignity & Security Healthcare for All Tax the Rich, Not the Rest of Us Climate Action Now Education & Youth Empowerment Abolish ICE & Immigration Justice Pro-Peace Foreign Policy Stand Up to Big AI Criminal Justice Reform Supreme Court Reform Hold the Trump Administration Accountable Protect and Strengthen Democracy Your name believes in Supreme Court Reform Angela supports expanding the Supreme Court and imposing term limits for justices, arguing that lifetime appointments don't belong in a democracy: Citizens United and the reversal of Roe v.
 Wade are consequences of an unaccountable Court.
-- Support expanding the Supreme Court
-- Support term limits for Supreme Court justices
-- Require a binding, enforceable code of ethics for justices, including a ban on accepting gifts and owning stocks
-- Support codifying standards to curb abuse of the emergency "shadow docket," requiring the Court to explain its reasoning on emergency rulings
+Support expanding the Supreme Court Support term limits for Supreme Court justices Require a binding, enforceable code of ethics for justices, including a ban on accepting gifts and owning stocks Support codifying standards to curb abuse of the emergency "shadow docket," requiring the Court to explain its reasoning on emergency rulings Media Powered by RUN! website builder Paid for by Angela for CA-34 You need to enable JavaScript to run this app.

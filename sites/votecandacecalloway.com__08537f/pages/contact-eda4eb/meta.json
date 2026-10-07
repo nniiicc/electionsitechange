@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with Candace Calloway's campaign for Michigan State Representative.",
  "final_url": "https://www.votecandacecalloway.com/contact",
+ "fingerprint": "21055d4c193b0d969e48f94f97a1117c13bec2c1",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Candace Calloway P",
  "title": "Contact | Candace Calloway for District 5 State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

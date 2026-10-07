@@ -1,8 +1,30 @@
 [
-"http://emersonforassembly.com/",
-"http://facebook.com/emersonforassembly",
-"https://emersonforassembly.com/",
-"https://emersonforassembly.com/get-involved",
-"https://emersonforassembly.com/vote",
-"https://secure.actblue.com/donate/emerson-website"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/emerson-website"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.emersonforassembly.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.emersonforassembly.com"
+},
+{
+"text": "VOTE",
+"href": "https://www.emersonforassembly.com/vote"
+},
+{
+"text": "[image: Facebook Clean Grey]",
+"href": "http://www.facebook.com/emersonforassembly"
+},
+{
+"text": "[image]",
+"href": "https://www.emersonforassembly.com/get-involved"
+},
+{
+"text": "www.emersonforassembly.com",
+"href": "http://www.emersonforassembly.com"
+}
 ]

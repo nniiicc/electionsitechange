@@ -1,8 +1,7 @@
-ABOUT THE CANDIDATE
-Neighbor.
+MARGARET SPEAR HOME ABOUT ME MY PLATFORM ENDORSEMENTS GET INVOLVED DONATE HOME ABOUT ME MY PLATFORM ENDORSEMENTS GET INVOLVED Check Voter Registration ↗ DONATE NOW ABOUT THE CANDIDATE Meet Margaret Neighbor.
 Problem-solver.
 Ready to serve.
-I'm Margaret Spear, and I'm running for State Representative because I believe District 3 deserves practical leadership with real-world experience solving problems, managing complexity, and getting things done.
+MY STORY Chief of Staff · Ringgold, GA · Candidate for House District 3 I'm Margaret Spear, and I'm running for State Representative because I believe District 3 deserves practical leadership with real-world experience solving problems, managing complexity, and getting things done.
 I grew up in a small college town in Indiana, went to college in Seattle, and began my career in tech and operations in Austin.
 Over the years, I've built a career around helping teams move from big ideas to real results.
 I've worked with strong-willed leaders, managed competing priorities, helped build systems from the ground up, and learned how to keep people focused when the work is complicated and the stakes are high.
@@ -21,22 +20,15 @@ It was working as a poll worker in Catoosa County that made me feel like this is
 Since moving here, I've become even more convinced that the people of Northwest Georgia deserve leadership that reflects who we actually are: hardworking, generous, independent-minded, and tired of politics that try to turn neighbors against each other.
 After 18 years with no Democrat challenging the Republican Party in Catoosa County, I'm running to make sure District 3 has a real choice and a representative who is ready to be held accountable to this community.
 I live in Ringgold with my family and our animals, and I care deeply about the future we are building here.
-GUIDING PRINCIPLES
-Decisions about District 3 should be made by people who live here, and answer to the people they serve.
-We don't have to agree on everything to agree that Catoosa County is worth taking care of.
+GUIDING PRINCIPLES My Values Local & Accountable Decisions about District 3 should be made by people who live here, and answer to the people they serve.
+Neighbor First We don't have to agree on everything to agree that Catoosa County is worth taking care of.
 Disagreement doesn't have to mean dysfunction.
-Real change comes from showing up, early and often, not from talking points or photo ops.
-No spin, no double-talk.
+Do the Work Real change comes from showing up, early and often, not from talking points or photo ops.
+Honest & Direct No spin, no double-talk.
 You'll always know where I stand and why.
-BEYOND THE BALLOT
-You can find me enjoying…
-🧁Baking
-🥾Hiking
-🕹️Pinball
-🌿Gardening
-🃏Euchre
-✨Glitter
-ON THE TRAIL
-LEARN MORE
+BEYOND THE BALLOT When I'm Not Campaigning You can find me enjoying… 🧁 Baking 🥾 Hiking 🕹️ Pinball 🌿 Gardening 🃏 Euchre ✨ Glitter ON THE TRAIL Out in the Community SEE ALL PHOTOS ✕ ‹ › LEARN MORE Want to Know Where I Stand?
 See the issues I'm fighting for in District 3.
-VIEW MY PLATFORM
+VIEW MY PLATFORM MARGARET SPEAR Candidate for Georgia House District 3.
+Practical leadership that listens first and solves problems second.
+NAVIGATE Home About Me My Platform Endorsements Get Involved Check Voter Registration ↗ Civics by Spear ↗ CONTACT Every voice matters.
+Help bring real change to District 3. spearforga@gmail.com 423-521-2313 Paid for by Margaret Spear for Georgia House District 3 Election 2026

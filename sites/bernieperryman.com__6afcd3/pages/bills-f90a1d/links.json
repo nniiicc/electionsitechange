@@ -1,54 +1,218 @@
 [
-"https://bernieperryman.com/",
-"https://bernieperryman.com/about",
-"https://bernieperryman.com/articles",
-"https://bernieperryman.com/audio-ad-transcripts",
-"https://bernieperryman.com/bills",
-"https://bernieperryman.com/contact",
-"https://bernieperryman.com/donate",
-"https://bernieperryman.com/events",
-"https://bernieperryman.com/photos",
-"https://bernieperryman.com/priorities-survey",
-"https://bernieperryman.com/voting",
-"https://facebook.com/bernieforsenate",
-"https://flickr.com/photos/196266196@N04/with/54942125272",
-"https://instagram.com/bernieforsenate",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1015?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1290?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1372?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1498?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1583?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1732?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1844?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/1973?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/201?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2227?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2229?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2473?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2608?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2677?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2822?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2888?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/2946?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/303?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/307?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/320?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/336?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/400?body=House",
-"https://revisor.mn.gov/bills/94/2025/0/HF/946?body=House",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0653&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0941&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1227&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1230&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2086&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2231&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2232&ssn=0&y=2023",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3496&ssn=0&y=2024",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3828&ssn=0&y=2024",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3945&ssn=0&y=2024",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3984&ssn=0&y=2024",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF4523&ssn=0&y=2024",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF4566&ssn=0&y=2024",
-"https://x.com/bernieforsenate",
-"https://youtube.com/@BerniePerryman"
+{
+"text": "About",
+"href": "https://bernieperryman.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://bernieperryman.com/articles/"
+},
+{
+"text": "Audio Ad Transcripts",
+"href": "https://bernieperryman.com/audio-ad-transcripts/"
+},
+{
+"text": "Bills",
+"href": "https://bernieperryman.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://bernieperryman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://bernieperryman.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://bernieperryman.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/bernieforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/196266196@N04/with/54942125272/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/bernieforsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@BerniePerryman"
+},
+{
+"text": "Follow",
+"href": "https://x.com/bernieforsenate"
+},
+{
+"text": "HF0201",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/201/?body=House"
+},
+{
+"text": "HF0286",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/307/?body=House"
+},
+{
+"text": "HF0303",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/303/?body=House"
+},
+{
+"text": "HF0307",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/307/?body=House"
+},
+{
+"text": "HF0320",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/320/?body=House"
+},
+{
+"text": "HF0336",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/336/?body=House"
+},
+{
+"text": "HF0400",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/400/?body=House"
+},
+{
+"text": "HF0653",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0653&ssn=0&y=2023"
+},
+{
+"text": "HF0941",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0941&ssn=0&y=2023"
+},
+{
+"text": "HF0946",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/946/?body=House"
+},
+{
+"text": "HF1015",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1015/?body=House"
+},
+{
+"text": "HF1227",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1227&ssn=0&y=2023"
+},
+{
+"text": "HF1230",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1230&ssn=0&y=2023"
+},
+{
+"text": "HF1290",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1290/?body=House"
+},
+{
+"text": "HF1372",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1372/?body=House"
+},
+{
+"text": "HF1498",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1498/?body=House"
+},
+{
+"text": "HF1583",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1583/?body=House"
+},
+{
+"text": "HF1732",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1732/?body=House"
+},
+{
+"text": "HF1844",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1844/?body=House"
+},
+{
+"text": "HF1973",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1973/?body=House"
+},
+{
+"text": "HF2086",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2086&ssn=0&y=2023"
+},
+{
+"text": "HF2227",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2227/?body=House"
+},
+{
+"text": "HF2229",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2229/?body=House"
+},
+{
+"text": "HF2231",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2231&ssn=0&y=2023"
+},
+{
+"text": "HF2232",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2232&ssn=0&y=2023"
+},
+{
+"text": "HF2473",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2473/?body=House"
+},
+{
+"text": "HF2608",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2608/?body=House"
+},
+{
+"text": "HF2677",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2677/?body=House"
+},
+{
+"text": "HF2822",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2822/?body=House"
+},
+{
+"text": "HF2888",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2888/?body=House"
+},
+{
+"text": "HF2946",
+"href": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2946/?body=House"
+},
+{
+"text": "HF3496",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3496&ssn=0&y=2024"
+},
+{
+"text": "HF3828",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3828&ssn=0&y=2024"
+},
+{
+"text": "HF3945",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3945&ssn=0&y=2024"
+},
+{
+"text": "HF3984",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3984&ssn=0&y=2024"
+},
+{
+"text": "HF4523",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF4523&ssn=0&y=2024"
+},
+{
+"text": "HF4566",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF4566&ssn=0&y=2024"
+},
+{
+"text": "Home",
+"href": "https://bernieperryman.com/"
+},
+{
+"text": "Photos",
+"href": "https://bernieperryman.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://bernieperryman.com/priorities-survey/"
+},
+{
+"text": "Voting",
+"href": "https://bernieperryman.com/voting/"
+},
+{
+"text": "[image: Bernie Perryman for Senate]",
+"href": "https://bernieperryman.com"
+}
 ]

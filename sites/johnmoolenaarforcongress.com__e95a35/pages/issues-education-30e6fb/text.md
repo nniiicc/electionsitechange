@@ -1,4 +1,4 @@
-Parents should be the primary decision makers in their children's education.
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Parents should be the primary decision makers in their children's education.
 I believe families deserve transparency from schools and should always have access to information regarding their child's academic progress, curriculum, and well-being.
 That’s why I supported the Stopping Indoctrination and Protecting Kids Act to ensure schools cannot alter a minor student's gender markers, preferred names, pronouns, or sex-based accommodations (such as bathrooms or locker rooms) without parental consent.
 The legislation also prohibits any school receiving federal funds under the Elementary and Secondary Education Act (ESEA) from teaching or advancing concepts related to gender ideology.
@@ -17,3 +17,4 @@ That is why I supported the expansion of the Pell Grant to include our workforce
 I will continue working to expand access to workforce development programs and make education more affordable for Michigan families.
 Lastly, as a father of six, I understand the challenges families face when planning for higher education.
 I will continue supporting accountability, affordability, and excellence in education while ensuring Michigan's universities remain leaders in research and innovation.
+DONATE Paid for by Moolenaar for Congress Privacy Policy

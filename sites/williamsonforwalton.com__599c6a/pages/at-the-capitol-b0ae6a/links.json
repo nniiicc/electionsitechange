@@ -1,30 +1,130 @@
 [
-"http://gwa.com/",
-"http://socialcircleschools.com/",
-"http://walton.k12.ga.us/",
-"http://waltonchamber.org/",
-"http://waltoncountyga.gov/",
-"http://waltontribune.com/",
-"https://facebook.com/williamsonforwalton",
-"https://legis.ga.gov/members/house/778?session=1029",
-"https://secure.anedot.com/committee-to-elect-bruce-williamson-inc/donate",
-"https://subscribe.wordpress.com/",
-"https://twitter.com/williamson115",
-"https://williamsonforwalton.com/",
-"https://williamsonforwalton.com/at-the-capitol",
-"https://williamsonforwalton.com/at-the-capitol/bruce-at-the-podium",
-"https://williamsonforwalton.com/at-the-capitol/bruce-at-the-well",
-"https://williamsonforwalton.com/at-the-capitol/bruce-with-leadership-walton",
-"https://williamsonforwalton.com/at-the-capitol/processed-with-vsco-with-c3-preset",
-"https://williamsonforwalton.com/at-the-capitol?share=facebook",
-"https://williamsonforwalton.com/at-the-capitol?share=twitter",
-"https://williamsonforwalton.com/contact",
-"https://williamsonforwalton.com/donate",
-"https://williamsonforwalton.com/in-the-community",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fwilliamsonforwalton.com%2Fat-the-capitol%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwilliamsonforwalton.com%252Fat-the-capitol%252F",
-"https://wordpress.com/reader/blogs/137045343/posts/40",
-"https://wordpress.com/start",
-"https://wp.me/P9h1KL-E"
+{
+"text": "At the Capitol",
+"href": "https://williamsonforwalton.com/at-the-capitol/"
+},
+{
+"text": "Click here.",
+"href": "https://www.legis.ga.gov/members/house/778?session=1029"
+},
+{
+"text": "Contact",
+"href": "https://williamsonforwalton.com/contact/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/P9h1KL-E"
+},
+{
+"text": "Donate",
+"href": "https://williamsonforwalton.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/williamsonforwalton"
+},
+{
+"text": "George Walton Academy",
+"href": "http://www.gwa.com"
+},
+{
+"text": "In the Community",
+"href": "https://williamsonforwalton.com/in-the-community/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwilliamsonforwalton.com%252Fat-the-capitol%252F"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwilliamsonforwalton.com%252Fat-the-capitol%252F"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Meet Bruce",
+"href": "https://williamsonforwalton.com/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fwilliamsonforwalton.com%2Fat-the-capitol%2F"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://williamsonforwalton.com/at-the-capitol/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://williamsonforwalton.com/at-the-capitol/?share=twitter"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Social Circle Schools",
+"href": "http://www.socialcircleschools.com"
+},
+{
+"text": "The Walton Tribune",
+"href": "http://www.waltontribune.com"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/williamson115"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/137045343/posts/40"
+},
+{
+"text": "Walton County Chamber",
+"href": "http://www.waltonchamber.org"
+},
+{
+"text": "Walton County Government",
+"href": "http://www.waltoncountyga.gov"
+},
+{
+"text": "Walton County Schools",
+"href": "http://www.walton.k12.ga.us"
+},
+{
+"text": "Website Built with WordPress.com",
+"href": "https://wordpress.com/"
+},
+{
+"text": "[image: Bruce at the Podium]",
+"href": "https://williamsonforwalton.com/at-the-capitol/bruce-at-the-podium/#main"
+},
+{
+"text": "[image: Bruce at the Well]",
+"href": "https://williamsonforwalton.com/at-the-capitol/bruce-at-the-well/#main"
+},
+{
+"text": "[image: Bruce with Leadership Walton]",
+"href": "https://williamsonforwalton.com/at-the-capitol/bruce-with-leadership-walton/#main"
+},
+{
+"text": "[image: Processed with VSCO with c3 preset]",
+"href": "https://williamsonforwalton.com/at-the-capitol/processed-with-vsco-with-c3-preset/#main"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/committee-to-elect-bruce-williamson-inc/donate"
+},
+{
+"text": "[image]williamsonforwalton.com",
+"href": "https://williamsonforwalton.com"
+},
+{
+"text": "[no text]",
+"href": "https://williamsonforwalton.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://williamsonforwalton.com/"
+}
 ]

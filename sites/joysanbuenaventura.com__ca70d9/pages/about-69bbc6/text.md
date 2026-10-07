@@ -1,4 +1,4 @@
-State Senator Joy San Buenaventura represents the Puna / Kaʻu state senate district 2.
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website State Senator Joy San Buenaventura represents the Puna / Kaʻu state senate district 2.
 This past legislative session she served as the chair of HHS/ Homelessness.
 She is an advocate for the improvement of Hwy 130 and alternative routes to decrease congestion.
 She has been able to acquire funds for a new Puna ambulance and champions expansion of Hilo Hospital and improvements to Ka’ū hospital, along with Telemedicine services to the community.
@@ -14,3 +14,4 @@ She volunteered in the Hilo Self Help Clinic, which is a joint effort of the Haw
 Joy lives in Hawaiian Paradise Park with her husband Sheldon “weldin” Lehman, and their dog Makamai.
 She is an avid photographer and has had awards for her photography.
 It is not unusual to see her lugging all her camera equipment to capture that perfect shot.
+Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

@@ -1,9 +1,8 @@
-Robert Garcia is a proven leader with local experience serving the community and is ready to address key issues impacting the region.
-- Invest in Safe Neighborhoods
-- As a father, educator, and elected official, Robert is prepared to work across the region to develop key investments and policy that improves our communities quality of life.
-- Fully Fund our Schools
-- As a lifetime educator and elected official, Robert has seen and understands the issues impacting families within the region.
+Skip to content Menu Meet Robert News Endorsements District Map Media Volunteer Donate Quick Links: Facebook Twitter Instagram Open Search Window Home Issues Issues Robert Garcia is a proven leader with local experience serving the community and is ready to address key issues impacting the region.
+Invest in Safe Neighborhoods As a father, educator, and elected official, Robert is prepared to work across the region to develop key investments and policy that improves our communities quality of life.
+Fully Fund our Schools As a lifetime educator and elected official, Robert has seen and understands the issues impacting families within the region.
 He is determined to fully fund schools to provide vital resources to the classrooms and help families.
-- Address Housing Issues
-- Robert will use his experience as a policymaker to look towards alleviating the growing housing disparity within the Inland Empire.
+Address Housing Issues Robert will use his experience as a policymaker to look towards alleviating the growing housing disparity within the Inland Empire.
 He will approach it through evaluating rent, housing development, and homelessness.
+Comments are closed.
+Browse Categories Announcements 14 Search for: Search Recent Posts Speaker Robert Rivas Endorses Robert Garcia for Assembly March 18, 2024 Robert Garcia Advances to General Election in AD-50 Race March 12, 2024 Join us for an evening with Educators for Robert Garcia February 1, 2024 Join us for a fundraiser in support of Robert Garcia January 22, 2024 E-mail: info@robertgarcia4ca.com Social Media Facebook Instagram Twitter Join Team Robert Volunteer Donate Now Important Links Meet Robert Endorsements Our District Issues Facebook Twitter Instagram Open Search Window Copyright © # - PAID FOR BY ROBERT GARCIA FOR ASSEMBLY 2026 - FPPC #1477689 Search for: Search Close Search Window ↑

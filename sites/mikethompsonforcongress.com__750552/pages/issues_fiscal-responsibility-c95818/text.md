@@ -1,3 +1,6 @@
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Fiscal Responsibility We have to get our debt and deficit under control – and the best way to do this is through a balanced approach that cuts spending, asks everyone to pay their fair share, and creates jobs.
+More jobs equal more revenue and more investment back in our communities.
 Our nation’s debt is more than $37 trillion.
 This is a serious problem.
 The interest alone on the debt is more than $900 billion a year.
@@ -27,3 +30,4 @@ To get our fiscal house in order, we have to reform our tax structure so that ev
 And we have to invest in creating jobs and growing our economy.
 More jobs and growth will mean higher household incomes and more revenue to help get our nation out of the red.
 As your representative in Congress I will continue working to solve our fiscal crisis through a balanced approach that cuts spending, requires fairness and encourages economic growth.
+Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

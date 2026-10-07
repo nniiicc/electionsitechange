@@ -1,32 +1,6 @@
-Constitutional Powers of Congress
-These aren’t just traditions — they’re written into the Constitution.
+top of page Home Zero-One-Hundred Tax Plan About Jay Issues Congress News Fund the Change DONATE $5.00 Constitutional Powers of Congress These aren’t just traditions — they’re written into the Constitution.
 When Congress fails to use them, the balance shifts.
 Restoring them is about my promise to follow the Founders’ design.
-Legislative Authority:
-Only Congress can create, fund, or repeal federal laws and programs
-— Article I, Section 1 —
-"All legislative Powers herein granted shall be vested in a Congress..."
-Power of the Purse:
-Controls all government spending — can defund or limit executive actions
-— Article I, Section 9, Clause 7 —
-"No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law..."
-Oversight & Investigation:
-Can summon officials and demand records
-—Article I, Section 8, implied power —
-Grants Congress authority to "make all Laws necessary and proper" to carry out its duties
-Confirmations:
-Senate must approve appointments
-— Article II, Section 2, Clause 2 —
-"[The President] shall nominate, and by and with the Advice and Consent of the Senate, shall appoint..."
-Treaty Ratification:
-Senate must approve treaties
-— Article II, Section 2, Clause 2 —
-"[The President] shall have Power, by and with the Advice and Consent of the Senate, to make Treaties..."
-Impeachment & Removal:
-House impeaches, Senate removes
-— Article I, Section 2, Clause 5 —
-(House power to impeach); Article I, Section 3, Clause 6 (Senate power to try impeachments)
-Override Vetoes:
-Can pass laws despite presidential veto
-— Article I, Section 7, Clause 2 —
-"If [the President] do not approve... it shall not be a Law, unless... two-thirds of both Houses shall agree..."
+Legislative Authority: ​ Only Congress can create, fund, or repeal federal laws and programs — Article I, Section 1 — "All legislative Powers herein granted shall be vested in a Congress..." ​ ​ Power of the Purse: ​ Controls all government spending — can defund or limit executive actions — Article I, Section 9, Clause 7 — "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law..." ​ Oversight & Investigation: ​ Can summon officials and demand records —Article I, Section 8, implied power — Grants Congress authority to "make all Laws necessary and proper" to carry out its duties ​ Confirmations: ​ Senate must approve appointments — Article II, Section 2, Clause 2 — "[The President] shall nominate, and by and with the Advice and Consent of the Senate, shall appoint..." ​ Treaty Ratification: ​ Senate must approve treaties — Article II, Section 2, Clause 2 — "[The President] shall have Power, by and with the Advice and Consent of the Senate, to make Treaties..." ​ Impeachment & Removal: ​ House impeaches, Senate removes — Article I, Section 2, Clause 5 — (House power to impeach); Article I, Section 3, Clause 6 (Senate power to try impeachments) ​ Override Vetoes: ​ Can pass laws despite presidential veto — Article I, Section 7, Clause 2 — "If [the President] do not approve... it shall not be a Law, unless... two-thirds of both Houses shall agree..." ​ © # by Bowman for Congress.
+Stay Connected / Volunteer Reach us anytime Email * Yes, subscribe me to your newsletter.
+Submit Paid for by Bowman2026 bottom of page

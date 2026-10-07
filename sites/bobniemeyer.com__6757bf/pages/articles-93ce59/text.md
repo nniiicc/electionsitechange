@@ -1,22 +1,15 @@
-- Transportation Amendment Moving both people and goods from one location to another for any given reason is what transportation is all about.
-Transportation is clearly one of the few activities that has been part of Humanity for many millennia and will continue…
-- The Beaver Once upon a midnight dreary, while I pondered, weak and weary, Over many a curious volumes of legislation galore— While I nodded, nearly napping, suddenly there came a tapping, As of some voter gently rapping, rapping at my chamber door….
-- What I Really Think of Our Veterans To understand why our Veterans are important to America, people need to understand what the concept of “Treasure” is.
-I am sure that many of the people have heard the term “Risk our Nation’s youth and treasure” when this Nation…
-- Ride a Slug to the Moon YMCA summer camp was something that I looked forward to each summer when I was between the ages of eight and sixteen.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Articles Transportation Amendment Moving both people and goods from one location to another for any given reason is what transportation is all about.
+Transportation is clearly one of the few activities that has been part of Humanity for many millennia and will continue… Read More… September 4, 2026 The Beaver Once upon a midnight dreary, while I pondered, weak and weary, Over many a curious volumes of legislation galore— While I nodded, nearly napping, suddenly there came a tapping, As of some voter gently rapping, rapping at my chamber door….
+Read More… August 27, 2025 What I Really Think of Our Veterans To understand why our Veterans are important to America, people need to understand what the concept of “Treasure” is.
+I am sure that many of the people have heard the term “Risk our Nation’s youth and treasure” when this Nation… Read More… August 27, 2025 Ride a Slug to the Moon YMCA summer camp was something that I looked forward to each summer when I was between the ages of eight and sixteen.
 I got to spend one week a summer at one of the four camps called Trickle Falls.
-There…
-- Dad’s Purple Heart Later in my father’s life, I thought it would be a good thing to make a shadow box to display the medals that he received in WWII.
-After contacting the VA, we got a set of medals and built the…
-- Transportation What we really need to do Moving both people and goods from one location to another for any given reason is what transportation is all about.
-Transportation is clearly one of the few activities that has been part of Humanity for many millennia and will continue…
-- Impeachment: Not just for the Governor anymore!
+There… Read More… August 27, 2025 Dad’s Purple Heart Later in my father’s life, I thought it would be a good thing to make a shadow box to display the medals that he received in WWII.
+After contacting the VA, we got a set of medals and built the… Read More… August 27, 2025 Transportation What we really need to do Moving both people and goods from one location to another for any given reason is what transportation is all about.
+Transportation is clearly one of the few activities that has been part of Humanity for many millennia and will continue… Read More… August 27, 2025 Impeachment: Not just for the Governor anymore!
 Each branch of government has two duties or responsibilities that go along with upholding and defending the Constitution against enemies, both foreign and domestic.
-For the Executive Branch, the first half of the job is to enforce the laws of…
-- World-Wide Voter Registration/ Healthcare Data System There are only three things that Humanity needs: Fair trade, Healthcare, and Honest Voting.
-Some will argue that there are many more, however, these three will always wind up being on the top of the any kind of chart or…
-- Stop Unusual and Excessive Taxation Most People do not know that We already pay for Oregon’s roads at the pump.
+For the Executive Branch, the first half of the job is to enforce the laws of… Read More… August 27, 2025 World-Wide Voter Registration/ Healthcare Data System There are only three things that Humanity needs: Fair trade, Healthcare, and Honest Voting.
+Some will argue that there are many more, however, these three will always wind up being on the top of the any kind of chart or… Read More… August 27, 2025 Stop Unusual and Excessive Taxation Most People do not know that We already pay for Oregon’s roads at the pump.
 As of January 1, 2024, We will pay 40¢ State and 18¢ Federal tax on each and every gallon put in your car or truck….
-- What We-The-People Must Do President Reagan said the following in the 1970’s: “All government agencies can pass regulations that have the force of Law.
+Read More… August 27, 2025 What We-The-People Must Do President Reagan said the following in the 1970’s: “All government agencies can pass regulations that have the force of Law.
 The difference is when you break the law, you are innocent until proven guilty.
-When you break a regulation, you…
+When you break a regulation, you… Read More… August 27, 2025 1 2 3 4 Next Page © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign

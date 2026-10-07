@@ -1,7 +1,34 @@
 [
-"https://dinkinsformo.com/",
-"https://dinkinsformo.com/privacy-policy",
-"https://facebook.com/ChrisDinkinsforStateRepresentative",
-"https://secure.winred.com/friends-for-chris-dodson-dinkins/donate-today",
-"https://twitter.com/cdinkins?lang=en"
+{
+"text": "About",
+"href": "https://dinkinsformo.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-for-chris-dodson-dinkins/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ChrisDinkinsforStateRepresentative/"
+},
+{
+"text": "Issues",
+"href": "https://dinkinsformo.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dinkinsformo.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/cdinkins?lang=en"
+},
+{
+"text": "Volunteer",
+"href": "https://dinkinsformo.com/#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://dinkinsformo.com"
+}
 ]

@@ -1,4 +1,4 @@
-In Idaho, as in most of the west, water has always been a precious resource.
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate Bedke: Let’s Secure Idaho’s Water for the Future August 13, 2021 In Idaho, as in most of the west, water has always been a precious resource.
 Most notably, Idaho water has turned thousands of acres of desert into lush green fields that produce some of the finest crops and livestock in the United States.
 It is also key to maintaining healthy communities, creating recreational opportunity and drives our all facets of our economy.
 Without the wise use of our water, and continued efforts to protect and store all that we can, all that dries up.
@@ -25,4 +25,12 @@ I always have and always will take very seriously the responsibility of spending
 The wise course here is to fund the lifeblood of this state.
 I will fight to make sure Idaho can use our money how we know it needs to be used.
 I will continue to protect Idaho’s water into the future, not only for us, but for our children’s children.
-Read the full opinion on MagicValley.com
+Read the full opinion on MagicValley.com Share This Story Facebook Twitter Prev Rep.
+Scott Bedke: Happy Birthday, Idaho – Let’s celebrate and maintain the Idaho way Jim Risch endorses Scott Bedke for Lieutenant Governor Next Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

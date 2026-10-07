@@ -1,18 +1,66 @@
 [
-"https://facebook.com/voteamada",
-"https://instagram.com/amadaformnhouse",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://secure.actblue.com/donate/amada-marquez-simula",
-"https://twitter.com/AmadaMarquezS",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/donate/check",
-"https://voteamada.com/donate/terms",
-"https://voteamada.com/faq",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amada-marquez-simula"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/check/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Political Contribution Refund (PCR)",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "full Donation Terms and Conditions",
+"href": "https://www.voteamada.com/donate/terms/"
+}
 ]

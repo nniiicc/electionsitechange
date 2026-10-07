@@ -1,15 +1,10 @@
-Back to All Events
-Walk with Matt in the Blaine Festival Parade!
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Back to All Events Blaine Festival Parade 2025 Saturday, June 28, 2025 10:30 AM 1:30 PM Madison Elementary School 650 Territorial Road Northeast Blaine, MN, 55434 United States (map) Google Calendar ICS Walk with Matt in the Blaine Festival Parade!
 It’s parade season once again!
 Join Matt and walk in the Blaine Festival Parade on Saturday, June 28.
 Marchers should plan to arrive at 10:30 am for a tailgate brunch before heading to the start of the parade route.
 The parade should be over by 1:30 pm.
 Children, including those in strollers or wagons, are encouraged to be part of the group.
 We will send additional details to those who register in the days leading up to the parade.
-Previous
-Previous
-November 2
-November 2 Door Knocking with Matt
-Next
-Next
-September 6
+Previous Previous November 2 November 2 Door Knocking with Matt Next Next September 6 Team Norris Legislative Report Lit Drop Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

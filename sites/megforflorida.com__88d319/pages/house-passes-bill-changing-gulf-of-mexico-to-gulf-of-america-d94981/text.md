@@ -1,3 +1,4 @@
+Skip to main content Home Platform News & Events Endorsements Press Releases Image and Video Gallery Join Meg Donate House Passes Bill Changing ‘Gulf of Mexico’ to ‘Gulf of America’ Spread the word!
 The Florida House of Representatives passed a bill 78-27 on Thursday that would amend State Statues to replace all mentions of “Gulf of Mexico” with “Gulf of America,” aligning Florida law with the federal government’s designation begun by the Trump administration.
 Reps.
 Tyler Sirois (R-Merritt Island) and Meg Weinberger (R-Palm Beach Gardens) sponsored the bill (HB 575) in the House.
@@ -19,7 +20,8 @@ Gantt also said the name change was grammatically incorrect and should be Gulf o
 Sen.
 DiCeglie’s bill is awaiting Senate approval.
 If fully passed and signed by Gov.
-Ron DeSantis, HB 575/SB 608 would take effect on July 1.
-Original Article (Source): https://floridianpress.com/2025/04/house-passes-bill-changing-gulf-of-mexico-to-gulf-of-america/
-Author: Michael Costeines
-Watch the House Session at: https://thefloridachannel.org/videos/4-3-25-house-session/
+Ron DeSantis , HB 575/SB 608 would take effect on July 1.
+Original Article (Source): https://floridianpress.com/2025/04/house-passes-bill-changing-gulf-of-mexico-to-gulf-of-america/ Author: Michael Costeines Watch the House Session at: https://thefloridachannel.org/videos/4-3-25-house-session/ ← Representative Meg Weinberger: A First Session Defined by Leadership, Advocacy, and Community Impact Els for Autism Moves Closer to Inclusive Recreation Center in South FL →  Meg for Florida RSS Feed Contribute Today Join Meg's Team!
+Copyright ©# Meg Weinberger | Paid by Meg Weinberger, Republican, for State House, District 94. | Contributions are not tax deductible for federal income tax purposes.
+The Maximum contribution allowed by Florida Law is $1,000.00 per individual or business.
+Privacy Policy | Messaging Terms, Conditions & Policies Terms | Site by KO.

@@ -1,17 +1,5 @@
-MEET KEVIN
-Kevin recently completed his second term as a Republican Idaho State Senator for District 32.
-During his tenure, he served on various committees, including:
-- Commerce and Human Resource (Chairman, 2 years)
-- Joint Finance Appropriation Committee (4 years)
-- Local Government and Taxation
-- Commission for Educational Excellence
-- Idaho Career Ready Students
-- Managed Medicaid Task Force
-- Idaho Technology Authority
-- Ad Hoc committee on Technology
-- Group Insurance Advisory
-- Industrial Commission’s Advisory Committee
-Born in Spanish Fork, Utah, Kevin spent his childhood attending public school, playing sports, and working on the family farm.
+Skip to main content Kevin Cook for Idaho Menu Home About Kevin News Breakfast with Senator Cook In the News Weekly Newsletter Weekly Newsletter Archive Supporters Ask Kevin How to Help Water Add Your Signature Link to Idaho Delegation Donate How to vote Search the site Expand Search About Kevin MEET KEVIN Kevin recently completed his second term as a Republican Idaho State Senator for District 32.
+During his tenure, he served on various committees, including: Commerce and Human Resource (Chairman, 2 years) Joint Finance Appropriation Committee (4 years) Local Government and Taxation Commission for Educational Excellence Idaho Career Ready Students Managed Medicaid Task Force Idaho Technology Authority Ad Hoc committee on Technology Group Insurance Advisory Industrial Commission’s Advisory Committee Born in Spanish Fork, Utah, Kevin spent his childhood attending public school, playing sports, and working on the family farm.
 He earned a degree in computer science from Weber State University, where he met his wife, Cheri.
 After two years of pursuit, they married, and they have been happily married for 35 years.
 In 1999, Kevin relocated to Idaho Falls to broaden the scope of his Software Consulting business.
@@ -23,5 +11,9 @@ I decided to run for office because of my love for Idaho and the Constitution.
 I want to give Idaho businesses and families the power to stand up for what is right without fear of consequences.
 We have a lot of work ahead of us to battle against some very hard opposition.
 And we need your help!
-I Invite You to Join Our Movement
-Together we can PUT IDAHO FIRST where your voice, and the voice of your neighbor, will be heard in Boise.
+I Invite You to Join Our Movement Together we can PUT IDAHO FIRST where your voice, and the voice of your neighbor, will be heard in Boise.
+Questions?
+First name * The 'First name' field is required Last name * The 'Last name' field is required Email address * Please enter a valid Email address Telephone Message Submit Your message is being sent, please wait.
+Thank you for contacting us!
+Someone will reach out to you shortly.
+Home About Kevin Idaho Falls, Idaho © # Paid by KEVIN COOK for Idaho State Senate; Kevin Albaugh, Treasurer | Jeff Townsend, Campaign Manager Back to top

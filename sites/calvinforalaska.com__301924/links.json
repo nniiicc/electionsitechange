@@ -1,11 +1,58 @@
 [
-"http://facebook.com/calvinforalaska",
-"http://squarespace.com/",
-"https://calvinforalaska.com/",
-"https://calvinforalaska.com/about",
-"https://calvinforalaska.com/cart",
-"https://calvinforalaska.com/donate",
-"https://calvinforalaska.com/get-involved",
-"https://instagram.com/calvinforak",
-"https://secure.anedot.com/calvin-for-alaska/donate"
+{
+"text": "0",
+"href": "https://www.calvinforalaska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.calvinforalaska.com/about"
+},
+{
+"text": "Calvin For Alaska",
+"href": "https://www.calvinforalaska.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/calvin-for-alaska/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.calvinforalaska.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.calvinforalaska.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://calvinforalaska.com"
+},
+{
+"text": "Home",
+"href": "https://www.calvinforalaska.com/"
+},
+{
+"text": "Meet Calvin",
+"href": "https://www.calvinforalaska.com/about"
+},
+{
+"text": "[image]",
+"href": "https://www.calvinforalaska.com/about"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/calvinforalaska"
+},
+{
+"text": "[no text]",
+"href": "http://squarespace.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/calvinforak/"
+},
+{
+"text": "calvin@calvinforalaska.com",
+"href": "mailto:calvin@calvinforalaska.com"
+}
 ]

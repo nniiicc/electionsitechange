@@ -1,27 +1,23 @@
-Story Originally Appeared on: http://www.vvdailypress.com/article/20151215/NEWS/151219847/0/SEARCH
-More than 86 percent of respondents believe stricter gun laws are not the solution to preventing mass shootings, according to a Daily Press poll.
-Between Dec. 7 and Monday, 518 people responded to the online poll, with just 13.51 percent agreeing that further clamping down on gun restrictions could curb mass-casualty tragedies.
-The poll comes in the wake of the Dec. 2 shooting at the Inland Regional Center in San Bernardino that killed 14.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Poll: More Gun Control Not a Solution experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Story Originally Appeared on: http://www.vvdailypress.com/article/20151215/NEWS/151219847/0/SEARCH More than 86 percent of respondents believe stricter gun laws are not the solution to preventing mass shootings, according to a Daily Press poll.
+Between Dec.
+7 and Monday, 518 people responded to the online poll, with just 13.51 percent agreeing that further clamping down on gun restrictions could curb mass-casualty tragedies.
+The poll comes in the wake of the Dec.
+2 shooting at the Inland Regional Center in San Bernardino that killed 14.
 Democratic lawmakers have called for tightening rules in the wake of the attack.
 State Sen.
-Kevin de Leon, the legislature’s president pro tem, told the Los Angeles Times two days after the shooting that he’d work with the state Assembly to “deliver a package of proposals to the governor’s desk as soon as possible.”
-The call to further an already aggressively strict set of gun laws in California has been met by a spike in ammunition and gun sales in San Bernardino County and throughout the state.
+Kevin de Leon, the legislature’s president pro tem, told the Los Angeles Times two days after the shooting that he’d work with the state Assembly to “deliver a package of proposals to the governor’s desk as soon as possible.” The call to further an already aggressively strict set of gun laws in California has been met by a spike in ammunition and gun sales in San Bernardino County and throughout the state.
 Multiple sheriff’s officials told the Daily Press last week they support the issuance of concealed-carry permits to all law-abiding citizens here.
 State Sen.
 Sharon Runner, R-Lancaster, said Tuesday she would oppose any new control measures, a sentiment common among the GOP and in the Victor Valley, which is one of the strongest Republican strongholds in a state otherwise predominantly Democratic.
 “I wouldn’t say, ‘more gun control,’ I’d say, ‘more people to have their own guns,'” said Runner, following a speech to the Victorville Rotary Club.
 Runner, who represents the Victor and Antelope valleys in the California Senate, said she saw gun control pushing out of the state law-abiding citizens who feel they can’t adequately protect their families.
-She also pointed to the rise in ammunition and gun sales following the San Bernardino shooting as an indicator of “damning numbers of people feeling less secure.”
-“I think there’s a lot of fear right now,” she said.
-“I think the coming election, we’ll have to see some really strong leadership there to make people feel better about what’s happening in America, where we’re going and how we’re going to make sure everybody is safe … without taking away their freedom.”
-While debates over gun control tend to flare up in the wake of mass shootings, turning most times into a Second Amendment issue, Assemblyman Jay Obernolte also cautioned Tuesday against allowing the tragedies to be flipped into “a reason to advance a political agenda,” alluding to the swift policy suggestions by some, including de Leon.
-According to the Los Angeles Times, the Democrat lawmaker said Dec. 4 that he will pursue certain plans that had been suspended, while Assemblyman Mike Gatto, D-Glendale, sought to halt those on the federal government’s anti-terrorist “no-fly” list from buying guns and specific chemicals.
+She also pointed to the rise in ammunition and gun sales following the San Bernardino shooting as an indicator of “damning numbers of people feeling less secure.” “I think there’s a lot of fear right now,” she said.
+“I think the coming election, we’ll have to see some really strong leadership there to make people feel better about what’s happening in America, where we’re going and how we’re going to make sure everybody is safe … without taking away their freedom.” While debates over gun control tend to flare up in the wake of mass shootings, turning most times into a Second Amendment issue, Assemblyman Jay Obernolte also cautioned Tuesday against allowing the tragedies to be flipped into “a reason to advance a political agenda,” alluding to the swift policy suggestions by some, including de Leon.
+According to the Los Angeles Times, the Democrat lawmaker said Dec.
+4 that he will pursue certain plans that had been suspended, while Assemblyman Mike Gatto, D-Glendale, sought to halt those on the federal government’s anti-terrorist “no-fly” list from buying guns and specific chemicals.
 Obernolte, R-Hesperia, said Gatto’s plan and another proposal to ban high-capacity magazines would not have stopped the shooting by county Environmental Health Services worker Syed Rizwan Farook, 28, and his wife Tashfeen Malik, 29.
 The two had no criminal records, but FBI officials believe they had been radicalized for “quite some time” and said Malik even pledged allegiance on Facebook to the Islamic State.
 Asked if lower-level policies weren’t an answer, and if U.S. intelligence needed to be bolstered, Obernolte said he hadn’t seen any data to suggest state or federal agencies ignored facts or failed to catch tell-tale signs.
 “I know what the solutions aren’t,” Obernolte said.
-“The last thing we ought to be doing is taking the arms out of the hands of our concerned citizens who know how to use them properly.”
-Having attended a vigil in Victorville for the 14 victims Monday night, and urging focus to remain on those killed and their families, Obernolte rejected that his constituents were afraid, but called them “anguished.”
-At the vigil and in conversations he’s had with those in the 33rd Assembly District, which encompasses the Victor Valley, Obernolte added that what he has heard is people have “strengthened their resolve to fight against this evil.”
-Shea Johnson may be reached at 760-955-5368 or SJohnson@VVDailyPress.com.
-Follow him on Twitter at @DP_Shea.
+“The last thing we ought to be doing is taking the arms out of the hands of our concerned citizens who know how to use them properly.” Having attended a vigil in Victorville for the 14 victims Monday night, and urging focus to remain on those killed and their families, Obernolte rejected that his constituents were afraid, but called them “anguished.” At the vigil and in conversations he’s had with those in the 33rd Assembly District, which encompasses the Victor Valley, Obernolte added that what he has heard is people have “strengthened their resolve to fight against this evil.” Shea Johnson may be reached at 760-955-5368 or SJohnson@VVDailyPress.com.
+Follow him on Twitter at @DP_Shea. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

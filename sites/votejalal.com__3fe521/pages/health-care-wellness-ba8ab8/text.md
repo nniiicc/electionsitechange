@@ -1,9 +1,3 @@
-Ensuring Access & Prosperity
-Expanding Access to Health Care and Community Wellness
-Fighting for you in Lansing
-Other priorities
-With deep ties to the healthcare field through his wife’s work and his own advocacy background, Jalal will focus on expanding accessible, affordable, and compassionate healthcare; especially for seniors, working families, and immigrant communities.
-Key goals:
-- Support funding for community health clinics and preventive care
-- Protect Medicaid expansion and mental health services
-- Strengthen maternal health and senior care support programs
+Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Volunteer Take Our Survey Donate Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Donate Ensuring Access & Prosperity Expanding Access to Health Care and Community Wellness Fighting for you in Lansing Other priorities Strong, Safe Neighborhoods Working Families & Local Economy Education & Career Pathways Accountable, Community-Driven Leadership With deep ties to the healthcare field through his wife’s work and his own advocacy background, Jalal will focus on expanding accessible, affordable, and compassionate healthcare; especially for seniors, working families, and immigrant communities.
+Key goals: Support funding for community health clinics and preventive care Protect Medicaid expansion and mental health services Strengthen maternal health and senior care support programs Donate by mail: CTE Jalal Abdallah 23035 Sheridan St.
+Dearborn, MI 48124 Home Meet Jalal Priorities Volunteer Donate Connect with us: Contact Privacy Policy Terms of Use | Built by: Brick by Brick PAID FOR BY COMMITTEE TO ELECT JALAL ABDALLAH, PO Box 83, Dearborn Heights, MI 48127

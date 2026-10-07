@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+for+Krista+Allison+for+State+Representative&dates=20240817T100000Z%2F20240817T130000Z&location=1909+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States",
-"http://maps.google.com/?q=1909+3rd+Street+Northeast+Canton%2C+OH%2C+44704+United+States",
-"https://facebook.com/KristaLAllison49",
-"https://instagram.com/krista_l_allison",
-"https://kristalallisonforoh49.com/",
-"https://kristalallisonforoh49.com/about",
-"https://kristalallisonforoh49.com/cart",
-"https://kristalallisonforoh49.com/contact",
-"https://kristalallisonforoh49.com/endorsements",
-"https://kristalallisonforoh49.com/events",
-"https://kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative?format=ical",
-"https://kristalallisonforoh49.com/events/community-canvassing",
-"https://kristalallisonforoh49.com/events/special-gathering",
-"https://kristalallisonforoh49.com/learnmore",
-"https://kristalallisonforoh49.com/media",
-"https://kristalallisonforoh49.com/privacy-policy",
-"https://kristalallisonforoh49.com/what-krista-believes",
-"https://mobilize.us/ohdems/event/669715",
-"https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1909+3rd+street+northeast+canton%2C+oh%2C+44704+united+states"
+},
+{
+"text": "0",
+"href": "https://www.kristalallisonforoh49.com/cart"
+},
+{
+"text": "About Krista",
+"href": "https://www.kristalallisonforoh49.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kristalallisonforoh49.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristalallisonforoh49.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+for+Krista+Allison+for+State+Representative&dates=20240817T100000Z%2F20240817T130000Z&location=1909+3rd+Street+Northeast%2C+Canton%2C+OH%2C+44704%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/canton-canvass-for-krista-allison-for-state-representative?format=ical"
+},
+{
+"text": "Learn More",
+"href": "https://www.kristalallisonforoh49.com/learnmore"
+},
+{
+"text": "Media",
+"href": "https://www.kristalallisonforoh49.com/media"
+},
+{
+"text": "Next Next October 5 Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/community-canvassing"
+},
+{
+"text": "Previous Previous June 6 Special Gathering",
+"href": "https://www.kristalallisonforoh49.com/events/special-gathering"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kristalallisonforoh49.com/privacy-policy"
+},
+{
+"text": "What Krista Believes",
+"href": "https://www.kristalallisonforoh49.com/what-krista-believes"
+},
+{
+"text": "[image: Krista L Allison for OH 49]",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KristaLAllison49/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krista_l_allison"
+},
+{
+"text": "https://www.mobilize.us/ohdems/event/669715/",
+"href": "https://www.mobilize.us/ohdems/event/669715/"
+}
 ]

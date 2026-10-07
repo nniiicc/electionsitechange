@@ -1,10 +1,50 @@
 [
-"https://facebook.com/melineforcongress",
-"https://instagram.com/melineforcongress",
-"https://melineforcongress.com/",
-"https://melineforcongress.com/contact",
-"https://melineforcongress.com/priorities",
-"https://melineforcongress.com/privacy-policy",
-"https://politicx.webflow.io/product/donation",
-"https://secure.winred.com/meline-for-congress/donate"
+{
+"text": "Contribute to the CampaignJOIN THE CAMPAIGN[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "Donate to the campaign today!",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "DonateDonate[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+},
+{
+"text": "Home",
+"href": "https://www.melineforcongress.com/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.melineforcongress.com/privacy-policy"
+},
+{
+"text": "Vision & Priorities",
+"href": "https://www.melineforcongress.com/priorities"
+},
+{
+"text": "Volunteer & Contact",
+"href": "https://www.melineforcongress.com/contact"
+},
+{
+"text": "[image: Icon]",
+"href": "https://www.facebook.com/melineforcongress"
+},
+{
+"text": "[image: Icon]",
+"href": "https://www.instagram.com/melineforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.melineforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "mailto:info@melineforcongress.com"
+},
+{
+"text": "donate nowdonate now[image: Icon][image: Icon]",
+"href": "https://secure.winred.com/meline-for-congress/donate"
+}
 ]

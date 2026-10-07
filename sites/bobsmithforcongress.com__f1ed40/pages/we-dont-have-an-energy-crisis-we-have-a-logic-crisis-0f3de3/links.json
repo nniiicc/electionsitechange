@@ -1,32 +1,166 @@
 [
-"https://bobsmithforcongress.com/",
-"https://bobsmithforcongress.com/Op-Eds",
-"https://bobsmithforcongress.com/bob-talks",
-"https://bobsmithforcongress.com/contact",
-"https://bobsmithforcongress.com/get-involved",
-"https://bobsmithforcongress.com/in-the-news",
-"https://bobsmithforcongress.com/issues",
-"https://bobsmithforcongress.com/latinos-con-bob",
-"https://bobsmithforcongress.com/media",
-"https://bobsmithforcongress.com/op-eds",
-"https://bobsmithforcongress.com/privacy-policy",
-"https://bobsmithforcongress.com/terms",
-"https://bobsmithforcongress.com/the-choice",
-"https://bobsmithforcongress.com/why-bob",
-"https://california.ballottrax.net/voter",
-"https://calmatters.org/environment/2023/03/diablo-canyon-nuclear-power-plant",
-"https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3273",
-"https://cleanenergywire.org/factsheets/history-behind-germanys-nuclear-phase-out",
-"https://energysolutions.com/zion_nuclear_powerstation_decommissioning_successfully_completed",
-"https://facebook.com/bobsmith4congress",
-"https://instagram.com/bobsmith4congress",
-"https://linkedin.com/company/bobsmithforcongress",
-"https://nrc.gov/docs/ML2506/ML25062A140.pdf",
-"https://sbcurrent.com/p/we-dont-have-an-energy-crisiswe-have",
-"https://secure.anedot.com/bob-smith-for-congress/contributehere",
-"https://secure.anedot.com/bob-smith-for-congress/donate",
-"https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors",
-"https://worldnuclearreport.org/The-World-Nuclear-Industry-Status-Report-2024-HTML",
-"https://x.com/bobsmith4usa",
-"https://youtube.com/@BobSmithforCongress"
+{
+"text": "Bob Talks",
+"href": "https://bobsmithforcongress.com/bob-talks/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "Contact",
+"href": "https://bobsmithforcongress.com/contact/"
+},
+{
+"text": "Contact Bob’s Campaign",
+"href": "mailto:social@bobsmithforcongress.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/bob-smith-for-congress/contributehere"
+},
+{
+"text": "Diablo Canyon is the last nuclear plant in the state",
+"href": "https://calmatters.org/environment/2023/03/diablo-canyon-nuclear-power-plant/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "ES",
+"href": "https://bobsmithforcongress.com/latinos-con-bob/"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "Follow on LinkedIn",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/bobsmith4usa"
+},
+{
+"text": "Follow on YouTube",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "In The News",
+"href": "https://bobsmithforcongress.com/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://bobsmithforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://bobsmithforcongress.com/media/"
+},
+{
+"text": "On May 29th in his House press release",
+"href": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3273"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/Op-Eds"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/op-eds/"
+},
+{
+"text": "Plant lifetime spent nuclear fuel in dry casks.",
+"href": "https://www.energysolutions.com/zion_nuclear_powerstation_decommissioning_successfully_completed/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bobsmithforcongress.com/privacy-policy/"
+},
+{
+"text": "Santa Barbara Current",
+"href": "https://www.sbcurrent.com/p/we-dont-have-an-energy-crisiswe-have"
+},
+{
+"text": "Terms of Use",
+"href": "https://bobsmithforcongress.com/terms/"
+},
+{
+"text": "The Choice",
+"href": "https://bobsmithforcongress.com/the-choice/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "Where's My Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Why Bob",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "[image: Bob Smith for Congress Logo]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[image: Bob Smith for US Congress]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bobsmith4usa"
+},
+{
+"text": "by shutting down its nuclear plants",
+"href": "https://www.cleanenergywire.org/factsheets/history-behind-germanys-nuclear-phase-out"
+},
+{
+"text": "lack of understanding",
+"href": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors"
+},
+{
+"text": "safe to operate for 20 more years",
+"href": "https://www.nrc.gov/docs/ML2506/ML25062A140.pdf"
+},
+{
+"text": "which produces over 70% of its electricity from nuclear power",
+"href": "https://www.worldnuclearreport.org/The-World-Nuclear-Industry-Status-Report-2024-HTML"
+},
+{
+"text": "www.bobsmithforcongress.com",
+"href": "https://bobsmithforcongress.com/"
+}
 ]

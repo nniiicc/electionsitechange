@@ -1,3 +1,6 @@
+Skip to content Menu Home Meet Virgle Endorsements Newsletters Donate Get Involved!
+Get a Sign!
+DONATE TODAY!
 I have some exciting news.
 I have decided to enter the local race for state representative.
 This decision is one that I take seriously, and I want you to know more about why I am entering the race and how you can help.
@@ -24,11 +27,9 @@ There is more, but these are the important things I need right away.
 I cannot tell you how much I value your support and encouragement.
 This is going to be a difficult challenge, so we must run to win.
 Let me know if you have any questions, I am happy to answer them.
-Sincerely,
-Virgle Osborne
-P.S.
+Sincerely, Virgle Osborne P.S.
 For people making a $50 or $100 contribution, if you are single, you get a full tax credit for $50.
 If you are married, you get $100 tax credit.
 It’s a dollar-for-dollar credit.
 Stronger Leadership.
-Better Results.
+Better Results. © # Paid for by Friends of Virgle Osborne, #21437 | Privacy Policy | Terms & Conditions

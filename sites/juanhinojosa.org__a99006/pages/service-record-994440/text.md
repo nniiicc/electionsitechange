@@ -1,25 +1,4 @@
-From 1983–2012, LTC Juan J.
+0 Skip to Content Home Service Record Contact Us District Map Open Menu Close Menu Home Service Record Contact Us District Map Open Menu Close Menu Home Service Record Contact Us District Map From 1983–2012, LTC Juan J.
 Hinojosa earned numerous Army awards, campaign medals, badges, and professional distinctions recognizing his service at home and abroad.
 His record includes deployments to Afghanistan and Iraq and achievements across leadership, readiness, and specialized training.
-Afghanistan Campaign Medal w/ 3 Campaign Stars
-Bronze Star Medal (2nd Award)
-Meritorious Service Medal (3rd Award)
-Army Commendation Medal (4th Award)
-Army Achievement Medal (3rd Award)
-Army Good Conduct Medal
-Army Reserve Components Achievement Medal (3rd Award)
-National Defense Service Medal
-Global War on Terrorism Expeditionary Medal
-Global War on Terrorism Service Medal
-Korean Defense Service Medal
-Iraq Campaign Medal (w Campaign Star)
-Non-Commissioned Officer Professional -Development Ribbon (2nd Award)
-Army Service Ribbon
-Overseas Service Ribbon (4th Award)
-Army Reserve Component Overseas Training Ribbon
-Armed Forces Reserve Medal (w 10-Year Device-Bronze Hourglass)
-Armed Forces Reserve Medal With M-Device (3rd Award)
-Nato Medal (2nd Award)
-Expert Infantry Badge
-Special Forces Tab
-Master Parachutist Badge
+Afghanistan Campaign Medal w/ 3 Campaign Stars Bronze Star Medal (2nd Award) Meritorious Service Medal (3rd Award) Army Commendation Medal (4th Award) Army Achievement Medal (3rd Award) Army Good Conduct Medal Army Reserve Components Achievement Medal (3rd Award) National Defense Service Medal Global War on Terrorism Expeditionary Medal Global War on Terrorism Service Medal Korean Defense Service Medal Iraq Campaign Medal (w Campaign Star) Non-Commissioned Officer Professional -Development Ribbon (2nd Award) Army Service Ribbon Overseas Service Ribbon (4th Award) Army Reserve Component Overseas Training Ribbon Armed Forces Reserve Medal (w 10-Year Device-Bronze Hourglass) Armed Forces Reserve Medal With M-Device (3rd Award) Nato Medal (2nd Award) Expert Infantry Badge Special Forces Tab Master Parachutist Badge POLITICAL AD PAID FOR BY JUAN HINOJOSA CAMPAIGN Juan Hinojosa Campaign, PO Box 121 Suite 102, Viera, FL 32955 juanhinojosadistrict32@yahoo.com 804-986-1855

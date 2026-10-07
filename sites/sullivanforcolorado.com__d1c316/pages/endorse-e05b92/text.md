@@ -1,5 +1,5 @@
-Endorse Tom Sullivan
-Tom has spent his life serving others—as a U.S.
+Sullivan for Colorado Home About Meet Tom Issues Endorse Volunteer Contact Action Fund Contribute Sullivan for Colorado Sully's Action Fund Sully's Leadership Fund Home / About / Meet Tom Issues / Endorse / Volunteer / Contact / Action Fund / Contribute / Sullivan for Colorado Sully's Action Fund Sully's Leadership Fund Support Tom Home / About / Meet Tom Issues / Endorse / Volunteer / Contact / Action Fund / Contribute / Sullivan for Colorado Sully's Action Fund Sully's Leadership Fund Endorse Tom Sullivan Tom has spent his life serving others—as a U.S.
 Air Force veteran, postal worker, union advocate, gun violence prevention leader, and public servant.
 In the State Senate, he continues to fight for safer communities, working families, veterans, strong public schools, affordable health care and housing, and the rights and freedoms of every Coloradan.
 Add your name and stand with Tom as he continues fighting for Senate District 27.
+Paid for by Sullivan For Colorado PO Box 461331, Aurora, CO 80046 Privacy Policy Terms of Service

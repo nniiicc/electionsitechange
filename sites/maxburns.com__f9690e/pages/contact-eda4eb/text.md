@@ -1,7 +1,2 @@
-Link to Georgia General Assembly Member Information: https://www.legis.ga.gov/members/senate/4979?session=1033
-327-A CLOB Atlanta, GA 30334
-max.burns@senate.ga.gov
-PO Box 203, Sylvania, GA 30467
-MaxBurns@gmail.com
-Copyright © 2026 Max Burns for State Senate - All Rights Reserved.
-Powered by
+Home Meet Max News Issues Contribute Signs Newsletter Press Contact More Home Meet Max News Issues Contribute Signs Newsletter Press Contact Home Meet Max News Issues Contribute Signs Newsletter Press Contact Official Contact Information Link to Georgia General Assembly Member Information: https://www.legis.ga.gov/members/senate/4979?session=1033 Georgia Capitol Address: Senator Max Burns 327-A CLOB Atlanta, GA 30334 max.burns@senate.ga.gov Contact Campaign Campaign Address: Max Burns for State Senate PO Box 203, Sylvania, GA 30467 MaxBurns@gmail.com Copyright © # Max Burns for State Senate - All Rights Reserved.
+Powered by Archived News Privacy Statement

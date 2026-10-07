@@ -1,26 +1,102 @@
 [
-"http://aboutads.info/choices",
-"http://google.com/settings/ads",
-"http://youradchoices.ca/",
-"http://youronlinechoices.eu/",
-"https://anedot.com/privacy",
-"https://facebook.com/MaxforHD45",
-"https://facebook.com/help/164968693837950",
-"https://facebook.com/help/568137493302217",
-"https://facebook.com/privacy/explanation",
-"https://mailchimp.com/legal/privacy",
-"https://maxbrooksforcolorado.com/",
-"https://maxbrooksforcolorado.com/about",
-"https://maxbrooksforcolorado.com/about-max",
-"https://maxbrooksforcolorado.com/cart",
-"https://maxbrooksforcolorado.com/contact",
-"https://maxbrooksforcolorado.com/gallery",
-"https://maxbrooksforcolorado.com/get-in-touch",
-"https://maxbrooksforcolorado.com/news",
-"https://maxbrooksforcolorado.com/priorities",
-"https://maxbrooksforcolorado.com/privacy-policy",
-"https://maxbrooksforcolorado.com/volunteer",
-"https://policies.google.com/privacy",
-"https://secure.anedot.com/max-brooks-for-colorado-committee/donate",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "0",
+"href": "https://www.maxbrooksforcolorado.com/cart"
+},
+{
+"text": "About Max",
+"href": "https://www.maxbrooksforcolorado.com/about-max"
+},
+{
+"text": "Back",
+"href": "https://www.maxbrooksforcolorado.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.maxbrooksforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/max-brooks-for-colorado-committee/donate"
+},
+{
+"text": "Folder: About",
+"href": "https://www.maxbrooksforcolorado.com/about"
+},
+{
+"text": "Folder: Get in Touch",
+"href": "https://www.maxbrooksforcolorado.com/get-in-touch"
+},
+{
+"text": "Gallery",
+"href": "https://www.maxbrooksforcolorado.com/gallery"
+},
+{
+"text": "News",
+"href": "https://www.maxbrooksforcolorado.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.maxbrooksforcolorado.com/priorities"
+},
+{
+"text": "Privacy Policy ﻿",
+"href": "https://www.maxbrooksforcolorado.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.maxbrooksforcolorado.com/volunteer"
+},
+{
+"text": "[image: Max Brooks for Colorado House District 45]",
+"href": "https://www.maxbrooksforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaxforHD45"
+},
+{
+"text": "http://www.aboutads.info/choices/",
+"href": "http://www.aboutads.info/choices/"
+},
+{
+"text": "http://www.google.com/settings/ads",
+"href": "http://www.google.com/settings/ads"
+},
+{
+"text": "http://www.youronlinechoices.eu/",
+"href": "http://www.youronlinechoices.eu/"
+},
+{
+"text": "http://youradchoices.ca/",
+"href": "http://youradchoices.ca/"
+},
+{
+"text": "https://mailchimp.com/legal/privacy/",
+"href": "https://mailchimp.com/legal/privacy/"
+},
+{
+"text": "https://policies.google.com/privacy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.anedot.com/privacy",
+"href": "https://www.anedot.com/privacy"
+},
+{
+"text": "https://www.facebook.com/help/164968693837950",
+"href": "https://www.facebook.com/help/164968693837950"
+},
+{
+"text": "https://www.facebook.com/help/568137493302217",
+"href": "https://www.facebook.com/help/568137493302217"
+},
+{
+"text": "https://www.facebook.com/privacy/explanation",
+"href": "https://www.facebook.com/privacy/explanation"
+}
 ]

@@ -1,6 +1,34 @@
 [
-"https://deanformaine.com/",
-"https://deanformaine.com/cart",
-"https://deanformaine.com/volunteer",
-"https://maine.gov/cleanelections"
+{
+"text": "0",
+"href": "https://www.deanformaine.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.deanformaine.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.deanformaine.com/#contact"
+},
+{
+"text": "Dean LePage for State Rep",
+"href": "https://www.deanformaine.com/"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "On the Issues",
+"href": "https://www.deanformaine.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.deanformaine.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://maine.gov/cleanelections"
+}
 ]

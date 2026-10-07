@@ -1,10 +1,50 @@
 [
-"http://aboutads.info/",
-"http://adobe.com/products/flashplayer/security",
-"http://networkadvertising.org/",
-"https://ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy",
-"https://keepjudgearrowood.com/",
-"https://keepjudgearrowood.com/information",
-"https://keepjudgearrowood.com/privacypolicy",
-"https://secure.actblue.com/donate/arrowood"
+{
+"text": "About",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "Contact",
+"href": "mailto:info@keepjudgearrowood.com?subject=Website+Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/arrowood"
+},
+{
+"text": "Home",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "Information",
+"href": "https://www.keepjudgearrowood.com/information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.keepjudgearrowood.com/privacypolicy"
+},
+{
+"text": "[image: Judge John Arrowood for NC Court of Appeals logo]",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "http://networkadvertising.org",
+"href": "http://networkadvertising.org/"
+},
+{
+"text": "http://www.aboutads.info",
+"href": "http://www.aboutads.info/"
+},
+{
+"text": "https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy",
+"href": "https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy"
+},
+{
+"text": "info@keepjudgearrowood.com",
+"href": "mailto:info@keepjudgearrowood.com"
+},
+{
+"text": "www.adobe.com/products/flashplayer/security",
+"href": "http://www.adobe.com/products/flashplayer/security"
+}
 ]

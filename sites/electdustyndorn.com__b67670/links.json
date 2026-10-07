@@ -1,10 +1,42 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdZ5zoNXeru3wE7Dhp8MpftaeQNFfBE_Fb6ujxcYhTWvq5gUQ/viewform?usp=publish-editor",
-"https://electdustyndorn.com/cdn-cgi/l/email-protection",
-"https://ost4p.com/website",
-"https://secure.actblue.com/donate/dustyn-dorn-1",
-"https://shorturl.at/nsTtU",
-"https://vote.pa.gov/",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://vote.pa.gov/Voting-in-PA/Pages/Polling-Place-Equipment.aspx"
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/dustyn-dorn-1"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Polling-Place-Equipment.aspx"
+},
+{
+"text": "Mail-In Voting",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "OL Web Solutions",
+"href": "https://ost4p.com/website"
+},
+{
+"text": "PA Voter Registration",
+"href": "https://www.vote.pa.gov/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@electdustyndorn.com"
+},
+{
+"text": "[no text]",
+"href": "https://shorturl.at/nsTtU"
+},
+{
+"text": "✉️ [email protected]",
+"href": "mailto:info@electdustyndorn.com"
+},
+{
+"text": "📋 Fill Out Volunteer Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdZ5zoNXeru3wE7Dhp8MpftaeQNFfBE_Fb6ujxcYhTWvq5gUQ/viewform?usp=publish-editor"
+},
+{
+"text": "📋 Volunteer Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdZ5zoNXeru3wE7Dhp8MpftaeQNFfBE_Fb6ujxcYhTWvq5gUQ/viewform?usp=publish-editor"
+}
 ]

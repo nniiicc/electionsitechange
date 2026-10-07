@@ -1,5 +1,4 @@
-About Matt
-Matt Hanson is a champion for working class families and brings a solid foundation of values to his role as State Representative.
+Skip to content Home Priorities About Matt Take Action Menu Toggle Get A Yard Sign Volunteer Vote Contact Donate Main Menu Home Priorities About Matt Take Action Menu Toggle Get A Yard Sign Volunteer Vote Contact Donate About Matt Matt Hanson is a champion for working class families and brings a solid foundation of values to his role as State Representative.
 Dedicated to protecting working families, Matt focuses on crafting legislation that empowers the middle class and benefits all of Illinois.
 Matt serves on key committees, including Appropriations-General Services, Transportation, Cities & Villages, and Police & Fire, making waves for positive change.
 As the Illinois House Rep for the Midwest Interstate Passenger Rail Commission, he’s all about connecting and advocating for our transit and passenger rail infrastructure for our State.
@@ -9,3 +8,5 @@ A proud University of Richmond graduate with a Bachelor of Science in Business A
 He’s your guy on the Aurora Historic Preservation Commission and the METRA Citizens Advisory Board, making sure your voice is heard.
 Beyond the hustle, Matt is a dedicated volunteer at his church and throughout the community, embodying his commitment to making a positive impact wherever he goes.
 As State Representative, Matt will work to protect women’s rights, lower costs for working families, combat public corruption and support greater vocational education opportunities for our kids.
+Contact Us hansonforillinois@gmail.com Take Action Yard Sign Volunteer Contact Privacy Policy Copyright © # Vote Matt Hanson Paid for by Friends of Matt Hanson.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law

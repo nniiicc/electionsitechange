@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.upballot.com/event-calendar-ajax?year=2026&month=12&candidateId=42038",
- "paid_for_by": null,
+ "fingerprint": "de133c14b2f05badb39e3d7bcd4c6c9e32eccfd6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

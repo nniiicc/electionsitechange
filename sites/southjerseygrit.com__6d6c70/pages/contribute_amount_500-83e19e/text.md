@@ -1,6 +1,6 @@
-Contribute
-A single dollar goes a long way and is just as appreciated to me as a larger donation.
-We all have our part to play no matter how small and any amount will go directly to fighting the establishment by funding our movement to PUT THE PEOPLE FIRST
-Maximum Donation: $3500/individual
-SuperPAC money not welcomed at all.
+Meet Ramon Issues News Events Volunteer Contribute Contribute A single dollar goes a long way and is just as appreciated to me as a larger donation.
+We all have our part to play no matter how small and any amount will go directly to fighting the establishment by funding our movement to PUT THE PEOPLE FIRST Maximum Donation: $#/individual SuperPAC money not welcomed at all.
 Donate to me because you believe in me and my vision of America, NOT because you expect a favor, that goes against my morals and ethics.
+Complete your $ 500 contribution: Select Your Information Choose an amount: $1 $5 $10 $15 $20 $25 $50 $100 $250 $500 $1000 $1500 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * I would like to volunteer I would like to canvass Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,4 +1,4 @@
-| One year ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
+UT 74 VOTE ABOUT Posts Experience Contact Covid economic outlook, one Year Later 3/21/2021 #ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
 From the outset, it was apparent this recession would be unlike the past recession, or any other in our memory (see my post from March 19, 2020).
 It set in motion structural changes in our economy that will last decades.
 V, U, W, K Recovery As soon as the recession was declared, economists tried to describe the shape of the recovery.
@@ -73,4 +73,5 @@ The response has been to stimulate the economy by lowering interest rates and fi
 Homeowners, suburban and rural communities, and essential services are winners that are benefiting from the upside in a “K” shaped recovery.
 Urban centers, renters, children, and low wage earners are feeling the downside.
 The policies of the last year are highly inflationary, even if inflation doesn’t show up in traditional consumption items such as food, fuel, or other household purchases.
-Asset prices are rising and will do so until the policy induced stimulus runs out. | |
+Asset prices are rising and will do so until the policy induced stimulus runs out.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

@@ -1,4 +1,4 @@
-Last year, it seemed like winter would never end.
+Toggle navigation Home About Volunteer News Donate Investing in Idaho’s Water Infrastructure February 9, 2024 Last year, it seemed like winter would never end.
 This year, winter can’t decide if it’s coming or going.
 Idaho’s snowpacks are paying the price.
 Only a few of our basins along the southern border show above-average snowpack levels, with a handful sitting at close to average.
@@ -25,3 +25,12 @@ As Idaho continues to grow, so does our responsibility to protect its resources.
 We have an obligation to future generations to make proactive investments now that address current needs and prepare for future change.
 If we continue with the hard work today, Idaho doesn’t need to fear the future when it comes to water.
 This column originally appeared in the Post Register.
+Idaho infrastructure water Post navigation The Richness of Gratitude https://www.britt4idaho.com/wp-content/uploads/2024/04/shutterstock_1828500257-1130x565.jpg Home About Volunteer for Britt Donate Have questions?
+Email hello@britt4idaho.com Copyright © # Britt Raybould for Idaho | Paid for by Britt Raybould for Idaho – Ron Walker, Treasurer Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website.
+Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website.
+We also use third-party cookies that help us analyze and understand how you use this website.
+These cookies will be stored in your browser only with your consent.
+You also have the option to opt-out of these cookies.
+But opting out of some of these cookies may affect your browsing experience.
+Visitor data can be shared with third parties to perform services on behalf of this website.
+Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT

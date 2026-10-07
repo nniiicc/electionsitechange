@@ -1,15 +1,58 @@
 [
-"https://bsky.app/profile/jenbloom.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/Jen4MNhouse",
-"https://instagram.com/jenformnhouse",
-"https://jenformnhouse.com/",
-"https://jenformnhouse.com/about",
-"https://jenformnhouse.com/contact",
-"https://jenformnhouse.com/endorsements",
-"https://jenformnhouse.com/events",
-"https://jenformnhouse.com/f5f8e843-e184-4316-a2d4-ef16f0c92b12",
-"https://jenformnhouse.com/issues",
-"https://secure.actblue.com/donate/jenformn",
-"https://threads.net/@jenbloomquist"
+{
+"text": "About",
+"href": "https://www.jenformnhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jenformnhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenformn"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenformnhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jenformnhouse.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.jenformnhouse.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenformnhouse.com/f5f8e843-e184-4316-a2d4-ef16f0c92b12"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Jen for MN House]",
+"href": "https://www.jenformnhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenbloom.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Jen4MNhouse"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenformnhouse"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jenbloomquist"
+},
+{
+"text": "jen@jenformnhouse.com",
+"href": "mailto:jen@jenformnhouse.com"
+}
 ]

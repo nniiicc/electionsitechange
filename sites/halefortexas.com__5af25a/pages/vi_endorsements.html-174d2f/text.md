@@ -1,28 +1,7 @@
-Conservative Coalition of Harris County
-Tổ Chức Bảo Thủ
-The "C" Club of Houston
-Young Republicans of Houston
-BIZPAC
-Texas Conservative Review
-Conservative Republicans of Texas
-True Texas Project
-Veterans for America First
-Sự Ủng Hộ Truyền Thông
-Houston Chronicle
-Houston Latino Family Magazine
-Các Nhà Lãnh Đạo Cơ Sở Địa Phương
-Richard Weekley
-Caroline Kane
-Former GOP Nominee, TX-07
-Erin Montgomery
-Fellow 2026 Primary Candidate, TX-07
-Dr.
-Steven Hotze
-Mark & Lisa Ammerman
-Steven Mach
-Mike Cordell
-Rolando Garcia
-Richard Thorp
-Miles Sasser
-Muốn Ủng Hộ Alexander?
+HALE CHO TEXAS Về Alexander Ưu Tiên Tin Tức Tình Nguyện Sự Ủng Hộ Mạng Xã Hội Cửa Hàng 44 Quyên Góp EN | ES | VI | 中文 Về Alexander Ưu Tiên Tin Tức Tình Nguyện Sự Ủng Hộ Mạng Xã Hội Cửa Hàng 44 Quyên Góp EN | ES | VI | 中文 Sự Ủng Hộ Được ủng hộ bởi những người bảo thủ và các nhà lãnh đạo cộng đồng sẵn sàng chiến đấu cho tương lai của Houston.
+Tổ Chức Bảo Thủ Conservative Coalition of Harris County The "C" Club of Houston Young Republicans of Houston BIZPAC Texas Conservative Review Conservative Republicans of Texas True Texas Project Veterans for America First Sự Ủng Hộ Truyền Thông Houston Chronicle Houston Latino Family Magazine Các Nhà Lãnh Đạo Cơ Sở Địa Phương Richard Weekley Caroline Kane Former GOP Nominee, TX-07 Erin Montgomery Fellow 2026 Primary Candidate, TX-07 Dr.
+Steven Hotze Mark & Lisa Ammerman Steven Mach Mike Cordell Rolando Garcia Richard Thorp Miles Sasser Muốn Ủng Hộ Alexander?
 Nếu bạn là một nhà lãnh đạo cộng đồng, quan chức được bầu, hoặc tổ chức chia sẻ tầm nhìn của chúng tôi cho TX-07, chúng tôi rất muốn nghe từ bạn.
+Liên Hệ Tình Nguyện Thay Vào HALE CHO TEXAS Alexander Hale là ứng viên Đảng Cộng hòa cho Quốc hội Hoa Kỳ tại Khu vực Quốc hội thứ 7 của Texas, mang đến sự lãnh đạo bảo thủ hợp hiến cho Houston. f 𝕏 ig TT Liên Kết Nhanh Về Alexander Ưu Tiên Tin Tức Quyên Góp Tham Gia Tình Nguyện Tổ Chức Sự Kiện Biển Sân Sự Ủng Hộ Liên Hệ (713) 487-6231 info@halefortexas.com Yêu Cầu Báo Chí Mẫu Liên Hệ Được trả bởi Alexander Hale for Congress Không được ủy quyền bởi bất kỳ ứng viên hoặc ủy ban ứng viên nào.
+Các khoản đóng góp không được khấu trừ thuế cho mục đích thuế thu nhập liên bang.
+Chính Sách Bảo Mật Điều Khoản Dịch Vụ

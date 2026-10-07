@@ -1,11 +1,46 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/friends-of-jennifer-white-2",
-"https://votejenniferwhite.com/",
-"https://votejenniferwhite.com/bio-1",
-"https://votejenniferwhite.com/delegate-scholarship",
-"https://votejenniferwhite.com/join-the-team-1",
-"https://votejenniferwhite.com/priorities",
-"https://votejenniferwhite.com/sponsored-legislation-2",
-"https://votejenniferwhite.com/voting-information"
+{
+"text": "BIO",
+"href": "https://votejenniferwhite.com/bio-1"
+},
+{
+"text": "DELEGATE SCHOLARSHIP",
+"href": "https://votejenniferwhite.com/delegate-scholarship"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-jennifer-white-2"
+},
+{
+"text": "Home",
+"href": "https://votejenniferwhite.com/"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://votejenniferwhite.com/join-the-team-1"
+},
+{
+"text": "PRIORITIES",
+"href": "https://votejenniferwhite.com/priorities"
+},
+{
+"text": "SPONSORED LEGISLATION",
+"href": "https://votejenniferwhite.com/sponsored-legislation-2"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://votejenniferwhite.com/voting-information"
+},
+{
+"text": "[image: Vote for Jennifer White]",
+"href": "https://votejenniferwhite.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "friendsofjenniferwhite@gmail.com",
+"href": "mailto:friendsofjenniferwhite@gmail.com"
+}
 ]

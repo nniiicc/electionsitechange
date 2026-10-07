@@ -1,6 +1,10 @@
-On the Trail
-Campaign Events
-Doorknocks, town halls, and gatherings across District 32A.
-Upcoming
-No events are on the calendar right now.
+Skip to main content Amanda Matchett MN House 32A Home About Issues Endorsements Events Volunteer ♥ Donate Home About Issues Endorsements Events Volunteer Donate Meet Amanda Home Events On the Trail Campaign Events Doorknocks, town halls, and gatherings across District 32A.
+Upcoming No events are on the calendar right now.
 Sign up for campaign updates and we will let you know as soon as one is scheduled.
+Past August 2026 5 events Thu, Aug 27, 2026, 4:30 pm Doorknock with MAPE Tom Ryan Park 10802 Town Square Dr NE, Blaine, MN 55449, In person Wed, Aug 19, 2026, 4:30 pm Doorknock with Avonna Starck & Clean Water Action Tom Ryan Park 10802 Town Square Dr NE, Blaine, MN 55449, In person Tue, Aug 18, 2026, 5:30 pm Doorknock with Save the Boundary Waters Action Fund Aquatore Park 9191 Lincoln St NE, Blaine, MN 55434, In person Sun, Aug 16, 2026, 2:00 pm Amanda Birthday Doorknock & Party!
+Aquatore Park 9191 Lincoln St NE, Blaine, MN 55434, In person Thu, Aug 13, 2026, 4:30 pm Doorknock with Maia Gunderson Tom Ryan Park 10802 Town Square Dr NE, Blaine, MN 55449, In person July 2026 2 events Thu, Jul 30, 2026, 5:00 pm Music Trivia: Across the Millenia The Curious Crow Company 9157 S Hwy Dr, Circle Pines, MN 55014, In person Tue, Jul 14, 2026, 5:00 pm More Perfect Union Fundraiser West Lake Park 11903 South Lake Boulevard Northeast, Blaine, MN 55449, In person April 2026 3 events Sun, Apr 12, 2026, 12:00 pm Weekend of Action: Blaine DFL Doorknock Aurelia Park 382 91st Ave NE, Blaine, MN 55434, In person Sat, Apr 11, 2026, 12:00 pm Weekend of Action: Blaine DFL Doorknock Aurelia Park 382 91st Ave NE, Blaine, MN 55434, In person Fri, Apr 10, 2026, 1:00 pm Weekend of Action: Blaine DFL Doorknock Aurelia Park 382 91st Ave NE, Blaine, MN 55434, In person March 2026 1 event Sun, Mar 22, 2026, 12:00 pm 32A DFL Convention Teamsters Local 120 9422 Ulysses St NE, Blaine, MN 55434, In person February 2026 1 event Sat, Feb 21, 2026, 10:00 am Family Affordability Summit: Let’s Make Minnesota Affordable for Families Centennial Library 100 Civic Heights Cir, Circle Pines, MN 55014, In person Stay Connected Be Part of the Campaign Be the first to hear about events, policy positions, and ways to help.
+Volunteer, donate, or invite Amanda to your neighborhood.
+Every action helps build a stronger District 32A.
+Leave this field empty Email address Sign Up We send campaign updates and event invitations.
+Unsubscribe any time. ♥ Donate Volunteer Meet Amanda DFL-endorsed candidate for Minnesota House District 32A: Blaine, Ham Lake, and Columbus.
+Campaign About Amanda Issues Endorsements Events Volunteer Press Get Involved Volunteer Donate Meet Amanda Events Contact info@matchett4minnesota.com Contact form Prepared and paid for by Amanda Matchett for Minnesota PO Box 490251, Blaine, MN 55449 info@matchett4minnesota.com Privacy Policy Accessibility © # Matchett for Minnesota

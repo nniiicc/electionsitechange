@@ -1,6 +1,5 @@
-Blog
-April 7, 2025
-FOR IMMEDIATE RELEASE April 7, 2025 Contact: Info@DickersonForGeorgia.com State Senate District 21, soon to be vacated by Brandon Beach, includes parts of Cherokee and Fulton counties Canton, GA – Jason T.
+Home Community Food Resources About Contact Blog Contact us Home Community Food Resources About Contact Blog Get in touch 555-555-5555 mymail@mailservice.com Blog Successful Businessman and Christian Community Leader Jason T.
+Dickerson Announces Run for State Senate April 7, 2025 FOR IMMEDIATE RELEASE April 7, 2025 Contact: Info@DickersonForGeorgia.com ﻿ State Senate District 21, soon to be vacated by Brandon Beach, includes parts of Cherokee and Fulton counties Canton, GA – Jason T.
 Dickerson, a lifelong Cherokee County resident, business owner, and Christian community leader, proudly announced his candidacy for Georgia State Senate District 21 today.
 He steps forward to succeed his friend and colleague, Senator Brandon Beach, who has been appointed Treasurer of the United States by President Donald Trump.
 “Brandon has been a tireless advocate for our district,” Dickerson said.
@@ -18,4 +17,5 @@ The foundation’s work helps provide utility and rent assistance for struggling
 But I know how to listen, how to work hard, and how to get results,” he said.
 “I’m asking for the trust of my neighbors in Cherokee County and across District 21 to stand with me and protect our conservative way of life.” The election for State Senate District 21 promises to be a pivotal moment for our community, and Jason T.
 Dickerson is ready to lead with the same dedication that has defined his life.
-For more information about his campaign, visit www.DickersonForGeorgia.com. ###
+For more information about his campaign, visit www.DickersonForGeorgia.com.
+###

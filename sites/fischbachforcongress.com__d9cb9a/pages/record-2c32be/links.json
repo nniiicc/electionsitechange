@@ -1,37 +1,170 @@
 [
-"http://ratings.conservative.org/people/F000470",
-"http://wjhl.com/wp-content/uploads/sites/98/2020/12/Election-Integrity-Letter.pdf",
-"https://aflegal.org/america-first-legal-files-brief-in-support-of-presidential-immunity-for-donald-j-trump-on-behalf-of-senator-roger-marshall-and-26-members-of-congress",
-"https://americansforprosperity.org/national-scorecard",
-"https://bottradionetwork.com/ministry/washington-watch/2020-11-04-ken-blackwell-andy-biggs-michelle-fischbach-jim-lee",
-"https://clerk.house.gov/Votes/2023304",
-"https://clubforgrowth.org/scorecards/legislator/F000470/Michelle-Fischbach",
-"https://facebook.com/MichelleFischbachForCongress",
-"https://fischbachforcongress.com/",
-"https://fischbachforcongress.com/about",
-"https://fischbachforcongress.com/about-2",
-"https://fischbachforcongress.com/contact",
-"https://fischbachforcongress.com/issues",
-"https://fischbachforcongress.com/press",
-"https://fischbachforcongress.com/privacy-policy",
-"https://fischbachforcongress.com/volunteer",
-"https://frcaction.org/scorecard",
-"https://grades.numbersusa.com/",
-"https://gunowners.org/congressional-ratings",
-"https://heritageaction.com/scorecard/members/F000470",
-"https://instagram.com/fischbachmn7",
-"https://ivoterguide.com/candidate/53981/race/2069/election/1249",
-"https://libertyscore.conservativereview.com/michelle-fischbach",
-"https://mcusercontent.com/67fba463240fdd948eb636b35/files/d425b75e-d4fa-3da1-0242-7218b1fa2502/Minnesota_SOS_Letter.pdf",
-"https://nfib.com/advocacy/now?vvsrc=%2FScorecard",
-"https://nrapvf.org/grades/minnesota",
-"https://nssf.org/wp-content/uploads/2024/09/2024-NSSF-Congressional-Report-card.pdf",
-"https://scalise.house.gov/press-releases/Scalise-and-Cruz-File-Amicus-Brief-Supporting-President-Trump%E2%80%99s-Colorado-Ballot-Disqualification-Appeal",
-"https://scorecard.limitedgov.org/lawmakers/F000470",
-"https://secure.winred.com/MichelleFischbach/website-donations",
-"https://secure.winred.com/michellefischbach/lawsuit",
-"https://secure.winred.com/michellefischbach/storefront",
-"https://twitter.com/FischbachMN7",
-"https://votervoice.net/NRLC/Scorecard",
-"https://youtube.com/@fischbachmn7"
+{
+"text": "About",
+"href": "https://www.fischbachforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://www.fischbachforcongress.com/about-2/"
+},
+{
+"text": "As a Member-Elect, signed a letter with other Members-Elect to Nancy Pelosi",
+"href": "http://www.wjhl.com/wp-content/uploads/sites/98/2020/12/Election-Integrity-Letter.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.fischbachforcongress.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.fischbachforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/MichelleFischbach/website-donations"
+},
+{
+"text": "Donate [image: Caret]",
+"href": "https://secure.winred.com/MichelleFischbach/website-donations"
+},
+{
+"text": "H.R. 2670, Amendment 22",
+"href": "https://clerk.house.gov/Votes/2023304"
+},
+{
+"text": "Issues",
+"href": "https://www.fischbachforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://www.fischbachforcongress.com/issues/"
+},
+{
+"text": "One interview on Christian radio",
+"href": "https://bottradionetwork.com/ministry/washington-watch/2020-11-04-ken-blackwell-andy-biggs-michelle-fischbach-jim-lee/"
+},
+{
+"text": "Press",
+"href": "https://www.fischbachforcongress.com/press"
+},
+{
+"text": "Press",
+"href": "https://www.fischbachforcongress.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fischbachforcongress.com/privacy-policy/"
+},
+{
+"text": "Signed letter to MN Secretary of State Steve Simon",
+"href": "https://mcusercontent.com/67fba463240fdd948eb636b35/files/d425b75e-d4fa-3da1-0242-7218b1fa2502/Minnesota_SOS_Letter.pdf"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/michellefischbach/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fischbachforcongress.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fischbachforcongress.com/volunteer/"
+},
+{
+"text": "Vote MN",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "[image: Fischbach for Congress]",
+"href": "https://www.fischbachforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MichelleFischbachForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/FischbachMN7"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fischbachmn7/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@fischbachmn7"
+},
+{
+"text": "americansforprosperity.org/national-scorecard/#/legislator/771)",
+"href": "https://americansforprosperity.org/national-scorecard/#/legislator/771"
+},
+{
+"text": "amicus brief",
+"href": "https://aflegal.org/america-first-legal-files-brief-in-support-of-presidential-immunity-for-donald-j-trump-on-behalf-of-senator-roger-marshall-and-26-members-of-congress/"
+},
+{
+"text": "amicus brief",
+"href": "https://scalise.house.gov/press-releases/Scalise-and-Cruz-File-Amicus-Brief-Supporting-President-Trump%E2%80%99s-Colorado-Ballot-Disqualification-Appeal"
+},
+{
+"text": "calling for Congressional investigations",
+"href": "http://www.wjhl.com/wp-content/uploads/sites/98/2020/12/Election-Integrity-Letter.pdf"
+},
+{
+"text": "helped the Republican Party of Minnesota raise money as the Plaintiffs",
+"href": "https://secure.winred.com/michellefischbach/lawsuit"
+},
+{
+"text": "heritageaction.com/scorecard/members/F000470",
+"href": "https://heritageaction.com/scorecard/members/F000470"
+},
+{
+"text": "https://grades.numbersusa.com",
+"href": "https://grades.numbersusa.com"
+},
+{
+"text": "https://ivoterguide.com/candidate/53981/race/2069/election/1249",
+"href": "https://ivoterguide.com/candidate/53981/race/2069/election/1249"
+},
+{
+"text": "https://www.nrapvf.org/grades/minnesota",
+"href": "https://www.nrapvf.org/grades/minnesota/"
+},
+{
+"text": "libertyscore.conservativereview.com/michelle-fischbach",
+"href": "https://libertyscore.conservativereview.com/michelle-fischbach"
+},
+{
+"text": "ratings.conservative.org/people/F000470",
+"href": "http://ratings.conservative.org/people/F000470"
+},
+{
+"text": "scorecard.limitedgov.org/lawmakers/F000470",
+"href": "https://scorecard.limitedgov.org/lawmakers/F000470"
+},
+{
+"text": "www.clubforgrowth.org/scorecards/legislator/F000470/Michelle-Fischbach",
+"href": "https://www.clubforgrowth.org/scorecards/legislator/F000470/Michelle-Fischbach"
+},
+{
+"text": "www.frcaction.org/scorecard",
+"href": "https://www.frcaction.org/scorecard"
+},
+{
+"text": "www.gunowners.org/congressional-ratings/",
+"href": "https://www.gunowners.org/congressional-ratings/"
+},
+{
+"text": "www.nfib.com/advocacy/now/?vvsrc=%2fScorecard",
+"href": "https://www.nfib.com/advocacy/now/?vvsrc=%2FScorecard"
+},
+{
+"text": "www.nssf.org/wp-content/uploads/2024/09/2024-NSSF-Congressional-Report-card.pdf)",
+"href": "https://www.nssf.org/wp-content/uploads/2024/09/2024-NSSF-Congressional-Report-card.pdf"
+},
+{
+"text": "www.votervoice.net/NRLC/Scorecard",
+"href": "https://www.votervoice.net/NRLC/Scorecard"
+}
 ]

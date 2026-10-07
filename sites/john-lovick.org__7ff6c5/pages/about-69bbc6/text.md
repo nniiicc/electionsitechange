@@ -1,4 +1,4 @@
-Who is John Lovick?
+0 Skip to Content About Issues Endorsements Get Involved Donate Open Menu Close Menu About Issues Endorsements Get Involved Donate Open Menu Close Menu About Issues Endorsements Get Involved Donate Who is John Lovick?
 John Lovick has spent his life in public service.
 Prior to being elected to office, he served as a State Trooper for 31 years and was named Trooper of the Year in 1992.
 He also served a total of 13 years in the United States Coast Guard, including time patrolling the waters off Alaska.
@@ -13,3 +13,4 @@ In December 2021, Lovick was selected to fill the Senate vacancy left when Steve
 Since joining the Senate in 2022, Lovick has passed legislation granting restitution to individuals segregated in Covenant Homeownership Programs, creating new standards for our elected Sheriffs, and voted to pass Washington’s Millionaires’ Tax.
 A long-time resident of Mill Creek who has lived in Snohomish County for 49 years, Lovick is married to Karen Lovick, a retired school teacher.
 He still volunteers regularly at the elementary school his children attended and cooks many of his famous “John Lovick’s Deep-Fried Turkeys” for charity events.
+Donate Made with Squarespace Follow the Campaign Facebook Instagram Committee for John Lovick (D) PO Box 12554 Mill Creek, Washington, 98012 Location Contact JohnLovick@frontier.com (425) 318-2029

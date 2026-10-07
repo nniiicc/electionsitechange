@@ -1,6 +1,1 @@
-Previous
-Previous
-Democrats Jackie Elward and Eric Lucan headed for runoff in race for California’s Assembly District 12 seat
-Next
-Next
-Paid for by Eric Lucan for Assembly 2026 | FPPC ID# 1480086
+0 Skip to Content About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Editorial: In tight race, IJ recommends Lucan for Assembly May 9 Written By Guest User Guest User Previous Previous Democrats Jackie Elward and Eric Lucan headed for runoff in race for California’s Assembly District 12 seat Next Next SMART to continue free rides for youths, seniors Contribute About Endorsements Priorities Newsroom District & Voting Media Resources Contact Paid for by Eric Lucan for Assembly 2026 | FPPC ID# 1480086

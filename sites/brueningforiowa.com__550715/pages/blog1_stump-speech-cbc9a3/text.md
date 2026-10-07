@@ -1,4 +1,4 @@
-| Good afternoon, everyone!
+BRUENING FOR IOWA Home Blog Candidate Blog Stump Speech 10/8/2024 0 Comments Good afternoon, everyone!
 My name is Brian Bruening, and I’m proud to run for State Senate.
 Since moving to Elkader with my partner, Frederic, in 2006 to open Schera's Restaurant, I’ve witnessed firsthand the strength and resilience of our communities.
 Eighteen years later, our restaurant is thriving, but I know our success is intertwined with the health of Elkader's downtown and broader community.
@@ -39,4 +39,6 @@ Please visit my website, brueningforiowa.com, to learn how you can help.
 But most importantly talk to your friends and family.
 And let them know I need their vote to help make our communities stronger.
 Thank you for your time and for your vote.
-Let’s work together for a better Iowa ! | Author Brian Bruening Archives July 2026 May 2025 March 2025 October 2024 Categories |
+Let’s work together for a better Iowa !
+0 Comments Leave a Reply.
+Author Brian Bruening Archives July 2026 May 2025 March 2025 October 2024 Categories All Ads Endorsements Photos Videos Writing RSS Feed Paid for by Bruening for iowa ​ ©2 022-2026 Bruening for iowa Home Blog

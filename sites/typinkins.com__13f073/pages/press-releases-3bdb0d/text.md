@@ -1,18 +1,9 @@
-top of page
-Press Releases
-Apr 2, 2024
-Jan 9, 2024
-Jan 9, 2023
-Jan 9, 2023
-Jan 9, 2023
-DONATE BY MAIL
-Ty Pinkins for U.S.
-Senate
-P.O.
-Box 4525
-Jackson, MS 39296
-FEC ID: C00830554
-Contributions to Ty Pinkins for U.S.
+top of page DONATE VOLUNTEER HOME ABOUT TY ISSUES FULCRUM PRESS RELEASES VOTE TRANSPARENCY Press Releases Why I’m Leaving the Democratic Party and Running as an Independent Jul 5, 2025 Closed Doors, Lost Voices, Greed and Gatekeeping Jul 5, 2025 “But What About…”: How Whataboutism Is Breaking American Politics Jul 5, 2025 From the Cotton Fields of the Mississippi Delta to the Highest Court in the Land Jul 5, 2025 American Democracy Is on Life Support–I Wrote About It Five Years Ago, and Now It’s Happening Feb 7, 2025 Ty Pinkins, U.S.
+Senate Candidate and Army Veteran, Slams Trump's Reckless Gaza Plan, and Criticizes Cindy Hyde-Smith's Support Feb 5, 2025 Cindy Hyde-Smith and Donald Trump’s Tariff Disaster: Higher Prices,Fewer Jobs, and Betrayed Mississippians Feb 5, 2025 “Betrayal of Our Troops”: Ty Pinkins Blasts Mississippi Senators Wicker and Hyde-Smith for Confirming Pete Hegseth as Secretary of Defense Feb 5, 2025 From the Battlefield to the Ballot Box: Army Veteran Ty Pinkins Announces Run for U.S.
+Senate, Promises Bold Leadership Through Listening to Everyday Mississippians Feb 5, 2025 Pinkins to keynote fundraising breakfast in Southaven Apr 2, 2024 Pinkins promotes 330 Finance Council initiative Apr 2, 2024 Pinkins announces campaign for US Senate Jan 9, 2024 People convicted of felonies in Miss. should get their voting rights back, Democratic candidates say Sep 14, 2023 Statewide Democratic candidates call for voting rights reform Sep 13, 2023 Down in the Mississippi Delta Jan 9, 2023 Congress hears about plight of Black Delta farmers . . .
+Jan 9, 2023 Who is Ty Pinkins?
+Jan 9, 2023 Champion of Justice Jan 9, 2023 HOME ABOUT TY JOIN US NEWS ISSUES PRIVACY POLICY TERMS OF SERVICE DONATE VOLUNTEER DONATE BY MAIL ​ T y Pinkins for U.S.
+Senate P.O.
+Box 4525 Jackson, MS 39296 ​ ​ FEC ID: C00830554 Contributions to Ty Pinkins for U.S.
 Senate are not tax deductible.
-PAID FOR BY TY PINKINS FOR CONGRESS
-bottom of page
+PAID FOR BY TY PINKINS FOR CONGRESS bottom of page

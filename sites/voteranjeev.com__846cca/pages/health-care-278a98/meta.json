@@ -1,10 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.voteranjeev.com/health-care",
- "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 \u00a9 Copyright 2025",
- "title": "Health Care is a Right \u2014 Vote Ranjeev",
+ "fingerprint": "df16599f828cc1c887c328e7e1ca8b7d9b76f32a",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #",
+ "title": "Health Care is a Right — Vote Ranjeev",
  "years_mentioned": [
+  "1999",
   "2016",
-  "2017"
+  "2017",
+  "2025"
  ]
 }

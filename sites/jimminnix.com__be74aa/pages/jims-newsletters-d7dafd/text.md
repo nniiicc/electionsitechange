@@ -1,7 +1,4 @@
-Want to know what is going on in Topeka as soon as you can?
+↓ Home Mobile Menu ↓ Skip to primary content Skip to secondary content Home About Jim News Jim in the News Jim’s Newsletters Legislature Jim in the Legislature Legislative Highlights Policy Resources Resource Links House District 118 Contact Donate Jim Minnix for Kansas House Kansas House District 118 Jim’s Newsletters and Mailings Want to know what is going on in Topeka as soon as you can?
 Join my mailing list and I’ll send you periodic updates via email about bills being considered, other important information about our District, and your state government.
-In case you’ve missed some of my previous mailings, they are listed below:
-2022 Mailings
-2021 Mailings
-February 7, 2021 Legislative Update
-January 18, 2021 Legislative Update
+In case you’ve missed some of my previous mailings, they are listed below: 2022 Mailings June 5, 2022 Legislative Update- Session Wrap Up April 23, 2022 Legislative Update March 27, 2022 Legislative Update March 15, 2022 Legislative Update February 26, 2022 Legislative Update February 13, 2022 Legislative Update 2021 Mailings February 7, 2021 Legislative Update January 18, 2021 Legislative Update 2020 Mailings September 21, 2020 – A Message from Jim Jim’s Mailing List Subscribe to Jim’s mailing list .
+Kansas Legislature About the Legislature The Kansas House Find Your Legislator Kansas Legislative Guide Contact Jim 8101 W Road 40 Scott City, Kansas 67871 Phone: 620-874-4498 jimminnix@icloud.com Paid for by Minnix for Kansas House | Perry Nowak, Treasurer ↑

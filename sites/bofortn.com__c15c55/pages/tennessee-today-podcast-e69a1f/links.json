@@ -1,31 +1,122 @@
 [
-"https://bofortn.com/",
-"https://bofortn.com/about",
-"https://bofortn.com/bos-bash",
-"https://bofortn.com/cart",
-"https://bofortn.com/community",
-"https://bofortn.com/contact-bo",
-"https://bofortn.com/delivering-for-district-11",
-"https://bofortn.com/endorsements",
-"https://bofortn.com/home",
-"https://bofortn.com/media",
-"https://bofortn.com/newsletter",
-"https://bofortn.com/priorities",
-"https://bofortn.com/tennessee-today-podcast",
-"https://boomplay.com/podcasts/131294",
-"https://facebook.com/SenBoWatson",
-"https://iheart.com/podcast/1323-tennessee-today-272506073",
-"https://instagram.com/bofortennessee",
-"https://linkedin.com/in/bo-watson-a649695",
-"https://listennotes.com/podcasts/tennessee-today-tennessee-state-senator-bo-dH60uVoSrOf",
-"https://music.amazon.com/tasteCollection?customerFlow=firstTimeCustomer&returnTo=https%3A%2F%2Fmusic.amazon.com%2Fpodcasts%2F60523220-5341-42ed-8675-3ee794902727",
-"https://open.spotify.com/show/6c2YsMsIKFne8pEG6xI0oQ",
-"https://player.fm/series/3659159",
-"https://podbean.com/podcast-app-iphone-android-mobile",
-"https://podcasts.apple.com/us/podcast/tennessee-today/id1808426794",
-"https://podchaser.com/podcasts/tennessee-today-6064783",
-"https://secure.anedot.com/11-bo/friends-of-bo-watson",
-"https://tennesseetoday.podbean.com/",
-"https://x.com/SenBoWatson",
-"https://youtube.com/playlist?list=PLAWY_sbpeJA3iAvOdPy7mfBeWyygSfz8x"
+{
+"text": "0",
+"href": "https://www.bofortn.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bofortn.com/about"
+},
+{
+"text": "Amazon Music",
+"href": "https://music.amazon.com/tasteCollection?customerFlow=firstTimeCustomer&returnTo=https%3A%2F%2Fmusic.amazon.com%2Fpodcasts%2F60523220-5341-42ed-8675-3ee794902727"
+},
+{
+"text": "Apple Podcasts",
+"href": "https://podcasts.apple.com/us/podcast/tennessee-today/id1808426794"
+},
+{
+"text": "Bo for Tennessee",
+"href": "https://www.bofortn.com/home"
+},
+{
+"text": "Bo's Bash",
+"href": "https://www.bofortn.com/bos-bash"
+},
+{
+"text": "Boomplay",
+"href": "https://www.boomplay.com/podcasts/131294"
+},
+{
+"text": "Community",
+"href": "https://www.bofortn.com/community"
+},
+{
+"text": "Contact",
+"href": "https://www.bofortn.com/contact-bo"
+},
+{
+"text": "Contact Bo",
+"href": "https://www.bofortn.com/contact-bo"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/11-bo/friends-of-bo-watson"
+},
+{
+"text": "Delivering for District 11",
+"href": "https://www.bofortn.com/delivering-for-district-11"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bofortn.com/endorsements"
+},
+{
+"text": "Listen Notes",
+"href": "https://www.listennotes.com/podcasts/tennessee-today-tennessee-state-senator-bo-dH60uVoSrOf/"
+},
+{
+"text": "Media",
+"href": "https://www.bofortn.com/media"
+},
+{
+"text": "Newsletter",
+"href": "https://www.bofortn.com/newsletter"
+},
+{
+"text": "PlayerFM",
+"href": "https://player.fm/series/3659159"
+},
+{
+"text": "Podbean App",
+"href": "https://www.podbean.com/podcast-app-iphone-android-mobile"
+},
+{
+"text": "Podchaser",
+"href": "https://www.podchaser.com/podcasts/tennessee-today-6064783"
+},
+{
+"text": "Priorities",
+"href": "https://www.bofortn.com/priorities"
+},
+{
+"text": "Spotify",
+"href": "https://open.spotify.com/show/6c2YsMsIKFne8pEG6xI0oQ"
+},
+{
+"text": "Tennessee Today Podcast",
+"href": "https://www.bofortn.com/tennessee-today-podcast"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/playlist?list=PLAWY_sbpeJA3iAvOdPy7mfBeWyygSfz8x"
+},
+{
+"text": "[image: Senator Bo Watson]",
+"href": "https://www.bofortn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenBoWatson"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bofortennessee/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/bo-watson-a649695/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenBoWatson"
+},
+{
+"text": "iHeart Radio",
+"href": "https://www.iheart.com/podcast/1323-tennessee-today-272506073/"
+},
+{
+"text": "tennesseetoday.podbean.com",
+"href": "https://tennesseetoday.podbean.com"
+}
 ]

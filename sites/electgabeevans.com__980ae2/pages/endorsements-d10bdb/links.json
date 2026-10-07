@@ -1,9 +1,38 @@
 [
-"https://electgabeevans.com/",
-"https://electgabeevans.com/cart",
-"https://electgabeevans.com/endorsements",
-"https://electgabeevans.com/privacy-policy",
-"https://facebook.com/ElectGabeEvans",
-"https://flickr.com/photos/204619859@N07",
-"https://x.com/GabeforColorado?mx=2"
+{
+"text": "0",
+"href": "https://www.electgabeevans.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.electgabeevans.com/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electgabeevans.com/endorsements"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electgabeevans.com/privacy-policy"
+},
+{
+"text": "[image: Elect Gabe Evans]",
+"href": "https://www.electgabeevans.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectGabeEvans/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/204619859@N07/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GabeforColorado?mx=2"
+},
+{
+"text": "info@electgabeevans.com",
+"href": "mailto:info@electgabeevans.com"
+}
 ]

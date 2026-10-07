@@ -1,6 +1,5 @@
-Lorig's Letter to the Editor of The Baltimore Sun (6/26/23)
-Maryland can meet climate goals and keep down utility rates
-In a recent commentary ("Utility regulator: Md. must consider cost to ratepayers in setting clean energy goals," June 26), Jason Stanek, the outgoing chair of the Maryland Public Service Commission, recently urged Maryland policymakers and elected officials to exercise restraint and to temper our ambitious energy goals to consider the cost on ratepayers.
+top of page Home Precinct Official Information About Newsroom Resources/Scholarship Power in the Park Immigration Resources Delegate Scholarship Legislation Events More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE All Articles Search Lorig's Letter to the Editor of The Baltimore Sun (6/26/23) Jun 28, 2023 2 min read Maryland can meet climate goals and keep down utility rates In a recent commentary (" Utility regulator: Md. must consider cost to ratepayers in setting clean energy goals ," June 26), Jason Stanek, the outgoing chair of the Maryland Public Service Commission, recently urged Maryland policymakers and elected officials to exercise restraint and to temper our ambitious energy goals to consider the cost on ratepayers.
 I agree we need to protect ratepayers from steep rate increases, but timidity in the face of climate catastrophe is not the answer.
 We can cut pollution and protect ratepayers through innovative policy solutions.
 The idea that we can either accelerate our clean energy future or protect utility customers is a false premise.
@@ -13,6 +12,8 @@ Now is not the time to slow down our transition to a more sustainable energy fut
 Half-measures will neither achieve our laudable energy goals nor protect ratepayers.
 Now is the time to take decisive and determined action as we build a new clean energy economy.
 I thank Chair Stanek for his years of service working to move Maryland towards a brighter energy future.
-As we continue and expand that work, I would urge us to go hard, be bold and get creative.
-- Lorig Charkoudian, Takoma Park
-The writer, a Democrat, represents District 20 (Montgomery County) in the Maryland House of Delegates.
+As we continue and expand that work, I would urge us to go hard, be bold and get creative. - Lorig Charkoudian, Takoma Park The writer, a Democrat, represents District 20 (Montgomery County) in the Maryland House of Delegates.
+Recent Posts See All GET(S) with the (Energy Efficiency) Program!
+Immigration Enforcement: Bearing Witness, Taking Action Creating More Food Justice MAKE A CHANGE Support Lorig!
+DONATE VOLUNTEER GET THE LATEST FROM LORIG Home About Lorig Newsroom Get Involved Events Contact Mailing Address: P.O.
+Box 11281 Takoma Park, MD 20913 Email: friendsoflorig@gmail.com ​ Paid for by Friends of Lorig Charkoudian: Jill Feasley, Treasurer; Tebabu Assefa, Chair bottom of page

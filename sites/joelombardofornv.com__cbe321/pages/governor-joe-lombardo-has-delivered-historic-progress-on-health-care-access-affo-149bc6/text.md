@@ -1,44 +1,19 @@
-Governor Joe Lombardo has Delivered Historic Progress on Health Care Access, Affordability, and Workforce Development for Nevadans
-FOR IMMEDIATE RELEASE
-February 12, 2026
-Contact: press@joelombardofornv.com
-LAS VEGAS, NV – Under Governor Joe Lombardo’s leadership, Nevada has made significant progress in expanding access to affordable and reliable health care, strengthening the health care workforce, and investing in critical health care services for families across the state.
-Governor Lombardo has delivered bipartisan health care solutions for Nevada patients and families through strategic reforms and historic investments, including:
-Building a Stronger, More Affordable Health Care System
-- Created the Nevada Health Authority to ensure access to affordable and reliable health care by:
-- Uses the state’s purchasing power to secure better value for taxpayers while strengthening and improving insurance options.
-- Streamlining programs and services
-- Driving better quality and innovation across the health care system
-- Secured $180 million for the Nevada Health Authority through the federal Rural Health Transformation Program from the Centers for Medicare and Medicaid Services (CMS) under the Working Families Tax Cuts Act.
-- This will deliver critical support to expand care, particularly in rural and underserved communities.
-Strengthening Nevada’s Health Care Workforce
-- Signed essential health care legislation aimed at addressing provider shortages during the 2025 Special Session that:
-- Established the Statewide Health Care Access and Recruitment Program
-- Created a comprehensive statewide health care needs assessment
-- Funded grants to expand Nevada’s clinical workforce
-- Strengthened Graduate Medical Education (GME) programs with $4.5 million in new funding to:
-- Expand grant applicability so programs can build administrative and operational capacity
-- Establish clear criteria for prioritizing awards
-- Leverage federal Medicaid dollars to support residency training and postdoctoral fellowship programs
-- Signed Senate Bill 262 which expands in-state residency opportunities for medical graduates.
-- This aims to help address the state’s physician shortage and strengthen the pipeline of doctors practicing in Nevada, with a broader goal of lowering healthcare costs and improving access to critical medical care.
-- Signed Assembly Bill 483, legislation that streamlines and expedites the licensure process for certain healthcare professionals who commit to practicing in Nevada’s historically underserved and rural communities.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Governor Joe Lombardo has Delivered Historic Progress on Health Care Access, Affordability, and Workforce Development for Nevadans FOR IMMEDIATE RELEASE February 12, 2026 Contact: press@joelombardofornv.com LAS VEGAS, NV – Under Governor Joe Lombardo’s leadership, Nevada has made significant progress in expanding access to affordable and reliable health care, strengthening the health care workforce, and investing in critical health care services for families across the state.
+Governor Lombardo has delivered bipartisan health care solutions for Nevada patients and families through strategic reforms and historic investments, including: Building a Stronger, More Affordable Health Care System Created the Nevada Health Authority to ensure access to affordable and reliable health care by: Uses the state’s purchasing power to secure better value for taxpayers while strengthening and improving insurance options.
+Streamlining programs and services Driving better quality and innovation across the health care system Secured $180 million for the Nevada Health Authority through the federal Rural Health Transformation Program from the Centers for Medicare and Medicaid Services (CMS) under the Working Families Tax Cuts Act.
+This will deliver critical support to expand care, particularly in rural and underserved communities.
+Strengthening Nevada’s Health Care Workforce Signed essential health care legislation aimed at addressing provider shortages during the 2025 Special Session that: Established the Statewide Health Care Access and Recruitment Program Created a comprehensive statewide health care needs assessment Funded grants to expand Nevada’s clinical workforce Strengthened Graduate Medical Education (GME) programs with $4.5 million in new funding to: Expand grant applicability so programs can build administrative and operational capacity Establish clear criteria for prioritizing awards Leverage federal Medicaid dollars to support residency training and postdoctoral fellowship programs Signed Senate Bill 262 which expands in-state residency opportunities for medical graduates.
+This aims to help address the state’s physician shortage and strengthen the pipeline of doctors practicing in Nevada, with a broader goal of lowering healthcare costs and improving access to critical medical care.
+Signed Assembly Bill 483, legislation that streamlines and expedites the licensure process for certain healthcare professionals who commit to practicing in Nevada’s historically underserved and rural communities.
 This bill cuts unnecessary delays at the state level while maintaining rigorous professional standards, allowing qualified providers to begin serving patients sooner.
-- Signed SB 124 into law, creating a new limited licensure pathway for qualified, internationally trained physicians to practice under supervision, helping expand Nevada’s healthcare workforce and improve access to care, especially in Nevada’s underserved communities.
-Investing in Mental and Behavioral Health Services
-- Prioritized behavioral and mental health services aimed to increase access to care and strengthen support for vulnerable populations statewide by:
-- Expanding community behavioral health centers in underserved areas
-- Investing in juvenile mental health services and securing a dedicated revenue stream to fund these services
-- Signing legislation to increase reimbursement rates in areas of acute need, particularly in mental health care
-Supporting Families and Safeguarding Critical Services
-- Allocated nearly $40 million in state support for families disrupted by the federal shutdown.
-- Secured emergency funding to keep the Women, Infants, and Children (WIC) program operational.
-- Established the Silver State General Assistance Program to protect Nevadans if federal aid is disrupted in the future.
-- Oversaw the launch of a new unemployment insurance (UI) state system through the Nevada Department of Employment, Training and Rehabilitation (DETR), streamlining the claims process with a mobile-first approach for claimants and employers.
-Delivering Major Health Infrastructure Investments
-- Supported the construction of Nevada’s first stand-alone children’s hospital through Intermountain Healthcare, a historic investment that will transform pediatric care access for families across the state.
+Signed SB 124 into law, creating a new limited licensure pathway for qualified, internationally trained physicians to practice under supervision, helping expand Nevada’s healthcare workforce and improve access to care, especially in Nevada’s underserved communities.
+Investing in Mental and Behavioral Health Services Prioritized behavioral and mental health services aimed to increase access to care and strengthen support for vulnerable populations statewide by: Expanding community behavioral health centers in underserved areas Investing in juvenile mental health services and securing a dedicated revenue stream to fund these services Signing legislation to increase reimbursement rates in areas of acute need, particularly in mental health care Supporting Families and Safeguarding Critical Services Allocated nearly $40 million in state support for families disrupted by the federal shutdown.
+Secured emergency funding to keep the Women, Infants, and Children (WIC) program operational.
+Established the Silver State General Assistance Program to protect Nevadans if federal aid is disrupted in the future.
+Oversaw the launch of a new unemployment insurance (UI) state system through the Nevada Department of Employment, Training and Rehabilitation (DETR), streamlining the claims process with a mobile-first approach for claimants and employers.
+Delivering Major Health Infrastructure Investments Supported the construction of Nevada’s first stand-alone children’s hospital through Intermountain Healthcare, a historic investment that will transform pediatric care access for families across the state.
 “From expanding affordable care to strengthening our medical workforce, we are building a stronger, more resilient health care system in Nevada under Governor Joe Lombardo.
 Governor Lombardo’s focus is simple: improve access, lower costs, and ensure that every Nevadan has the opportunity to receive quality care close to home.
 The work isn’t done.
-Over the next four years, Governor Lombardo will continue to strengthen Nevada’s health care system for today and future generations.” - Halee Dobbins, Spokeswoman for the Governor Joe Lombardo Campaign
-###
+Over the next four years, Governor Lombardo will continue to strengthen Nevada’s health care system for today and future generations.” - Halee Dobbins, Spokeswoman for the Governor Joe Lombardo Campaign ### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

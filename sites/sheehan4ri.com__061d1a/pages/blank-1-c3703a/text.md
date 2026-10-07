@@ -1,6 +1,5 @@
-top of page
-Jim's Resume of Public Service
-James C.
+top of page Home About Jim Campaign Issues Why Running?
+Senate Record My Resume Contributions Contact Jim's Resume of Public Service James C.
 Sheehan is a lifelong Rhode Islander, former 20-year State Senator with a proven record of leadership, reform, and results.
 Born in Warwick in 1966 and raised in North Kingstown, Jim developed an early appreciation for public service and civic engagement.
 After graduating from college, he spent a year interning in Washington, D.C., and Germany, gaining firsthand experience in government and international affairs.
@@ -28,4 +27,4 @@ Previously, he served as an interim member of the North Kingstown School Committ
 He remains actively engaged in protecting the quality of life of North Kingstown and Exeter residents, including leading efforts to oppose the proposed Quonset sewage sludge processing facility.
 Jim believes that public service is about solving problems, bringing people together, and delivering results.
 His record reflects a commitment to principled leadership, responsive constituent service, and finding common-ground solutions that move Rhode Island forward.
-bottom of page
+Paid for by the Friends of James Sheehan bottom of page

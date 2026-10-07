@@ -1,9 +1,7 @@
-[April 04, 2022] | The last full week of the legislative session was this past week and was it a doozy!
-By "doozy" I mean a lot of long days and discussions on bills that have come over from the Senate and that we have amended...
-(they don't like that) and getting the bills we have passed out of the Senate committee and through their Rules committee process and onto the Senate floor for a vote.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ April 04, 2022 ] | The last full week of the legislative session was this past week and was it a doozy!
+By "doozy" I mean a lot of long days and discussions on bills that have come over from the Senate and that we have amended... (they don't like that) and getting the bills we have passed out of the Senate committee and through their Rules committee process and onto the Senate floor for a vote.
 Wish I had the step thing set up on my phone; I think I would have set a record for me walking back and forth.
-I am an officer on the House Rules committee, and we review the work of every committee and even make changes to their work ?.
-(they don?t like that).
+I am an officer on the House Rules committee, and we review the work of every committee and even make changes to their work ?. (they don?t like that).
 The Rules committee is the gate keeper for a floor vote on a bill.
 So, as you can imagine a lot of people want to talk to all of us about what their bill can do for you, or in some cases to you.
 It?s a very big honor to be a member of that group with a lot of responsibility.
@@ -25,3 +23,4 @@ During these last days the internet is full of what-ifs and rumors as we work on
 I encourage you to reach out if you have any questions or concerns regarding legislation that has been discussed or passed so far.
 You can reach my Capitol office at 404-656-7153, or you can email me directly at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative and legislative voice here at the Capitol.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

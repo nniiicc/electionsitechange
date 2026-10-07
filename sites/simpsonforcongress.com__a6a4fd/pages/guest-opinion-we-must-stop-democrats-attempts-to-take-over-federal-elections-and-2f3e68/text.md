@@ -1,16 +1,20 @@
-The right to vote, free from discrimination, is fundamental to what makes America great.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE Guest Opinion: We must stop Democrats’ attempts to take over federal elections and focus on real solutions May 12, 2022 The right to vote, free from discrimination, is fundamental to what makes America great.
 But Congressional Democrats have introduced several bills in the 117th Congress, along with a litany of actions at the state level prior to the 2020 election and since, claiming to support voting rights and fair elections that will do just the opposite.
 Democrats claim to be enhancing voting rights when their real goal is to hand state and local control of elections over to the federal government and tip the scale in their favor at the poll.
 The federal government certainly has a role to play in providing funding to ensure safe and fair elections, but securing elections is primarily the responsibility of states and localities, while existing federal law already protects Americans from voter discrimination.
-One piece of legislation the House of Representatives considered was H.R. 1, the For the People Act.
+One piece of legislation the House of Representatives considered was H.R.
+1, the For the People Act.
 I opposed this legislation because it would have expanded the definition of political speech and increased the power of the federal government to control it, removed the nonpartisan makeup of the Federal Election Commission (FEC) making it a blunt political tool of the party in the White House, and created a 6:1 government match to any small donor contribution of $200 or less in a congressional or presidential campaign.
-I also voted against H.R. 4, the John R.
+I also voted against H.R.
+4, the John R.
 Lewis Voting Rights Advancement Act.
-Despite bearing the name of a stalwart champion of the Civil Rights movement, H.R. 4 amounted to nothing more than an unprecedented rollback of state authority to govern their own elections with a massive overreach by the federal bureaucracy.
+Despite bearing the name of a stalwart champion of the Civil Rights movement, H.R.
+4 amounted to nothing more than an unprecedented rollback of state authority to govern their own elections with a massive overreach by the federal bureaucracy.
 Specifically, the bill would strip each state of the ability to determine their own electoral districts, polling place locations, voter ID and registration requirements, and instead empower anonymous, liberal bureaucrats at the Department of Justice (DOJ) to dictate those regulations for them without any accountability whatsoever to the voters those new rules would impact.
 As we saw disturbing examples of in California, ballot harvesting is one of the most alarming threats to the integrity of free and fair elections.
 There, ‘designated ballot retrievers’ were authorized to collect ballots from drop boxes and polling sites with no certification, proof of U.S. citizenship, or any other requirement beyond wearing a badge and taking an oath prior to taking up this duty.
-Congressional Democrats’ electoral power grab in H.R. 1 would have mandated this policy at the federal level and prohibited states from setting a limit on how many ballots a so-called ‘retriever’ can submit to any given polling location.
+Congressional Democrats’ electoral power grab in H.R.
+1 would have mandated this policy at the federal level and prohibited states from setting a limit on how many ballots a so-called ‘retriever’ can submit to any given polling location.
 This policy would not only present a shocking federal overreach into state elections but could also clear the way for anything from misrepresentation of votes to rampant voter fraud across all 50 states.
 While these bills were described by their proponents as promoting greater access to free and fair federal elections, I believe their real purpose was to give Democrat candidates an advantage in areas where their supporters had been unsuccessful in implementing similar changes at the state level.
 I am glad none of these bills have been successful in the U.S.
@@ -22,4 +26,8 @@ Misguided and reckless federal spending has continued to grow, resulting in reco
 And mismanagement by the same Department of Homeland Security tasked with determining the “truth” has inflamed the crisis at our southern border as demonstrated by the 1.5 million border arrests made in the last six months on this administration’s watch.
 While I will continue to fight to protect voting rights and the integrity of U.S. elections, we all must be wary of election reforms that do not achieve this purpose.
 Instead of distracting from the growing problems facing our country, Democrats should get to work solving them.
-Find original article at IdahoCountyFreePress.com
+Find original article at IdahoCountyFreePress.com « Previous: National Right to Life Endorses Mike Simpson U.S.
+Chamber Endorses Rep.
+Mike Simpson for Idaho’s 2nd Congressional District » Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

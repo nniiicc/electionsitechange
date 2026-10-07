@@ -1,19 +1,74 @@
 [
-"http://ericaneelyrecord.com/",
-"https://facebook.com/ryanfornevada",
-"https://instagram.com/ryanfornevada",
-"https://rayguncustom.com/collections/ryan-hampton-for-nevada-assembly-district-9",
-"https://ryanfornevada.com/",
-"https://ryanfornevada.com/about",
-"https://ryanfornevada.com/ad9-hampton-memo.pdf",
-"https://ryanfornevada.com/contact",
-"https://ryanfornevada.com/endorsements",
-"https://ryanfornevada.com/erica-neely-in-progress-060526.pdf",
-"https://ryanfornevada.com/events",
-"https://ryanfornevada.com/issues",
-"https://ryanfornevada.com/media",
-"https://ryanfornevada.com/privacy-policy",
-"https://ryanfornevada.com/volunteer",
-"https://secure.actblue.com/donate/ryanfornv",
-"https://x.com/RyanForRecovery"
+{
+"text": "About",
+"href": "https://www.ryanfornevada.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ryanfornevada.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ryanfornv"
+},
+{
+"text": "Download memo here",
+"href": "https://www.ryanfornevada.com/ad9-hampton-memo.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ryanfornevada.com/endorsements"
+},
+{
+"text": "Erica Neely's record",
+"href": "https://www.ryanfornevada.com/erica-neely-in-progress-060526.pdf"
+},
+{
+"text": "EricaNeelyRecord.com",
+"href": "http://ericaneelyrecord.com"
+},
+{
+"text": "Events",
+"href": "https://www.ryanfornevada.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.ryanfornevada.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.ryanfornevada.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ryanfornevada.com/privacy-policy"
+},
+{
+"text": "Ryan Hampton 2026 Campaign Memo",
+"href": "https://www.ryanfornevada.com/"
+},
+{
+"text": "Shop",
+"href": "https://www.rayguncustom.com/collections/ryan-hampton-for-nevada-assembly-district-9"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ryanfornevada.com/volunteer"
+},
+{
+"text": "[image: LOGO]",
+"href": "https://www.ryanfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ryanfornevada"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ryanfornevada"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RyanForRecovery"
+}
 ]

@@ -1,30 +1,12 @@
-NEVADA STATE SENATE - DISTRICT 10
-THE FIGHT TO PROTECT
-WORKING FAMILIES HAS NEVER BEEN MORE URGENT
-Join now to keep building our movement.
-SENATOR
-Fabian Doñate Working for Nevada
-Born and raised in Nevada.
+fabian@fabiandonate.com Home Meet Fabian Priorities Accomplishments News Contact DONATE NOW Home Meet Fabian Priorities Accomplishments News Contact DONATE NOW NEVADA STATE SENATE - DISTRICT 10 THE FIGHT TO PROTECT WORKING FAMILIES HAS NEVER BEEN MORE URGENT Join now to keep building our movement.
+CONTACT US DONATE NOW SENATOR Fabian Doñate Working for Nevada Born and raised in Nevada.
 Working for Nevada.
 Fabian Doñate grew up in a working-class Las Vegas family that understood what it meant to live paycheck to paycheck.
 Today, he brings those experiences to Carson City—taking on powerful interests, protecting Nevada jobs, and delivering practical results for working families and small businesses.
-Nevada Priorities
-Learn about the priorities in Nevada, such as jobs, the economy, healthcare, housing, and more.
-Real Stories & Results
-Discover the details of some of those highly significant stories; stories that positively change lives.
-Record of Results
-Learn about the results we have achieved for Nevada that have benefited all Nevadans.
-Nevada Priorities
-Learn about the priorities in Nevada, such as jobs, the economy, healthcare, housing, and more.
-Latest News
-Stay updated with our latest news and read the most recent stories here.
-Campaigns usually requir ampaign mana…
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-Need Career Political Communication
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-Grow your awesome Idea Communication
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-The Good is the best in world
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-Selected Titles on Political Theory
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+Nevada Priorities Learn about the priorities in Nevada, such as jobs, the economy, healthcare, housing, and more.
+Read More Real Stories & Results Discover the details of some of those highly significant stories; stories that positively change lives.
+Read More Record of Results Learn about the results we have achieved for Nevada that have benefited all Nevadans.
+Read More MEET FABIAN 2026 Elections Start Time Line Tuesday, November 3, 2026 DONATE NOW Nevada Priorities Learn about the priorities in Nevada, such as jobs, the economy, healthcare, housing, and more.
+Jobs and the Economy Consumer Protection Health Care & Accessibility Education and Workforce READ MORE Housing & Affordability Language Access Nevada Agriculture Small Businesses Meet Senator Fabián Doñate Latest News Stay updated with our latest news and read the most recent stories here.
+Nevada lawmakers move to regulate Flock license plate readers amid privacy concerns LAS VEGAS (KSNV) — Social media across the valley has been dominated by a growing Read More Viral Las Vegas cottage bakery gets ‘cease and desist’ order Latest post from Mama Llama Bakery has more than 200,000 views By Jaclyn Schultz Published: Read More Nevada GOP targets state senator’s family over immigration status following marketplace closure State Senator Fabian Doñate says he won't back down from "baseless attacks" after Nevada Republicans Read More State Senator warns immigration enforcement fears are impacting local economy LAS VEGAS (KSNV) — State Senator Fabian Donate has raised concerns about the impact of Read More Nevada Latino lawmakers push measures to protect community from Trump agenda ByJeniffer Solis-February 3, 2025 3:54 pm On the first official day of the 2025 Nevada Read More From the heart of Las Vegas to Carson City, Fabian Doñate is fighting for Nevadans Copyright © Fabian Doñate all rights reserved.
+Home Meet Fabian News Contact

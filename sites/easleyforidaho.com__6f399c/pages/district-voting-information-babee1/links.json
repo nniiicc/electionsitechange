@@ -1,14 +1,62 @@
 [
-"https://adacounty.id.gov/elections",
-"https://adacounty.id.gov/elections/early-voting",
-"https://easleyforidaho.com/",
-"https://easleyforidaho.com/district-voting-information",
-"https://easleyforidaho.com/donate",
-"https://easleyforidaho.com/event-list",
-"https://easleyforidaho.com/issues",
-"https://easleyforidaho.com/media",
-"https://easleyforidaho.com/volunteer",
-"https://gisprod.adacounty.id.gov/apps/electionday",
-"https://sos.idaho.gov/elections/forms/absentee_ballot_request.pdf",
-"https://voteidaho.gov/event/preregistration-deadline-2"
+{
+"text": "(208) 992-5227",
+"href": "tel:208-992-5227"
+},
+{
+"text": "Absentee ballot request deadline - October 23, 2026",
+"href": "https://sos.idaho.gov/elections/forms/absentee_ballot_request.pdf"
+},
+{
+"text": "District & Voting Information",
+"href": "https://www.easleyforidaho.com/district-voting-information"
+},
+{
+"text": "Donate",
+"href": "https://www.easleyforidaho.com/donate"
+},
+{
+"text": "Early voting window - October 13 - October 30, 2026",
+"href": "https://adacounty.id.gov/elections/early-voting/"
+},
+{
+"text": "Election Day /Absentee Ballots Due - November 3, 2026",
+"href": "https://gisprod.adacounty.id.gov/apps/electionday/"
+},
+{
+"text": "Events",
+"href": "https://www.easleyforidaho.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.easleyforidaho.com"
+},
+{
+"text": "Issues",
+"href": "https://www.easleyforidaho.com/issues"
+},
+{
+"text": "Join Us!",
+"href": "https://www.easleyforidaho.com/volunteer"
+},
+{
+"text": "Media Kit",
+"href": "https://www.easleyforidaho.com/media"
+},
+{
+"text": "Pre-registration deadline - October 23, 2026",
+"href": "https://voteidaho.gov/event/preregistration-deadline-2/"
+},
+{
+"text": "Visit Ada County Elections",
+"href": "https://adacounty.id.gov/elections/"
+},
+{
+"text": "[image: EASLEY FOr Idaho Logo.png]",
+"href": "https://www.easleyforidaho.com"
+},
+{
+"text": "info@easleyforidaho.com",
+"href": "mailto:info@easleyforidaho.com"
+}
 ]

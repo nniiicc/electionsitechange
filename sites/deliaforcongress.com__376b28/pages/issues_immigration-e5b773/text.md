@@ -1,20 +1,8 @@
-Immigration
-ROOTED
-Delia is the daughter of Guatemalan immigrants who worked tirelessly to secure a brighter future for her and her siblings.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE Immigration Apr 1 Written By Guest User ROOTED Delia is the daughter of Guatemalan immigrants who worked tirelessly to secure a brighter future for her and her siblings.
 She is also the only member of Congress who is married to a DACA recipient and understands firsthand the importance of creating a pathway to citizenship for DACA recipients.
 She believes we must stop tearing families apart through deportation.
 Families belong together and our immigration laws must be transformed to welcome people trying to make a better life for themselves and their families rather than deporting them.
-READY
-Delia has been a champion for immigrant families in Congress.
+READY Delia has been a champion for immigrant families in Congress.
 She unwaveringly advocates for a pathway to citizenship for the more than 11 million undocumented people in the U.S.
 She is fighting to allow DACA recipients the ability to permanently adjust their legal status, to eliminate the case backlog in immigration court, to reduce fees so that more people can file for citizenship, and to end deportations to keep families together.
-RESULTS
-In Congress, Delia:
-- Serves as co-lead on the American Dream and Promise Act to create a pathway to citizenship for DACA recipients
-- Co-sponsored the LIFT the BAR Act to remove barriers to social service programs (including free school meals, Social Security, and Medicaid) for undocumented immigrants and permanent residents
-- Co-introduced the Expanding Health Care Providers for Veterans Act to meet hiring shortages in the Veterans Administration by expanding employment visas
-As IL State Representative, Delia:
-- Co-sponsored legislation to stop IL cops from acting as Trump’s deportation force and making IL one of the most immigrant-friendly states in the nation
-- Co-sponsored legislation to shut down for-profit immigrant detention centers in IL
-- Championed budgetary investments that increased immigrant services line items and created immigrant welcoming centers throughout IL
-- Wrote and passed legislation to remove the citizenship requirement to apply for licensure in trades such as plumbing, water and well pump installation, and liquor control
+RESULTS In Congress, Delia: Serves as co-lead on the American Dream and Promise Act to create a pathway to citizenship for DACA recipients Co-sponsored the LIFT the BAR Act to remove barriers to social service programs (including free school meals, Social Security, and Medicaid) for undocumented immigrants and permanent residents Co-introduced the Expanding Health Care Providers for Veterans Act to meet hiring shortages in the Veterans Administration by expanding employment visas As IL State Representative, Delia: Co-sponsored legislation to stop IL cops from acting as Trump’s deportation force and making IL one of the most immigrant-friendly states in the nation Co-sponsored legislation to shut down for-profit immigrant detention centers in IL Championed budgetary investments that increased immigrant services line items and created immigrant welcoming centers throughout IL Wrote and passed legislation to remove the citizenship requirement to apply for licensure in trades such as plumbing, water and well pump installation, and liquor control Guest User Previous Previous Healthcare Next Next Reproductive Rights MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

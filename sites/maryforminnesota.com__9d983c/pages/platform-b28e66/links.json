@@ -1,11 +1,50 @@
 [
-"http://squarespace.com/",
-"https://maryforminnesota.com/",
-"https://maryforminnesota.com/about",
-"https://maryforminnesota.com/cart",
-"https://maryforminnesota.com/contact",
-"https://maryforminnesota.com/donate",
-"https://maryforminnesota.com/endorsements",
-"https://maryforminnesota.com/new-page",
-"https://maryforminnesota.com/platform"
+{
+"text": "0",
+"href": "https://www.maryforminnesota.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.maryforminnesota.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.maryforminnesota.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.maryforminnesota.com/donate"
+},
+{
+"text": "Donate Here",
+"href": "https://www.maryforminnesota.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.maryforminnesota.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.maryforminnesota.com/new-page"
+},
+{
+"text": "Home",
+"href": "https://www.maryforminnesota.com/"
+},
+{
+"text": "Let's Chat",
+"href": "https://www.maryforminnesota.com/contact"
+},
+{
+"text": "Platform",
+"href": "https://www.maryforminnesota.com/platform"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "[image: Mary for Minnesota]",
+"href": "https://www.maryforminnesota.com/"
+}
 ]

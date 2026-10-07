@@ -1,9 +1,7 @@
-Lowering Costs.
+Skip to content Home Meet Chris Join the Team Issues Store Donate Lowering Costs.
 Growing Wages.
 Protecting America.
-Donate today!
-Meet Chris Shea
-Chris Shea is a Watertown native, retired Navy SEAL, firefighter, former small business owner, nonprofit founder, husband, father, and the Republican nominee for Congress in Connecticut’s 5th District.
+Donate today! $50 $100 $500 $1000 $2000 $3500 Other Meet Chris Shea Chris Shea is a Watertown native, retired Navy SEAL, firefighter, former small business owner, nonprofit founder, husband, father, and the Republican nominee for Congress in Connecticut’s 5th District.
 Chris began his Navy career in 1991 as a hospital corpsman before completing the demanding Basic Underwater Demolition/SEAL (BUD/S) and Special Forces Medic training.
 Over a career spanning more than three decades, he served with SEAL Team 8, SEAL Team 18, Naval Special Warfare Group Two, Naval Special Warfare Development Group, Special Operations Command North, the U.S.
 Embassy in Mexico City, and at the Pentagon.
@@ -26,3 +24,14 @@ Today, Chris and Anita reside in Cheshire with their dog Lucy.
 On August 11, 2026, Republican voters overwhelmingly chose Chris to be their nominee for Congress in Connecticut’s 5th Congressional District, giving him 81% of the vote in the Republican primary.
 From Watertown to war zones, from the firehouse to the Pentagon, and from running a small business to helping veterans build new careers, Chris Shea has spent his life serving others.
 Now, as the Republican nominee for Congress, he’s ready to put that experience to work for the people of Connecticut’s 5th District.
+Join the Team!
+First Name * Last Name * Email * Phone Address * Town* Sign up for * Volunteer Lawn Sign Address * Street Address City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific ZIP Code Consent By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders, donations solicited) from Chris Shea for Congress at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy Submit info@chrissheaforcongress.com Chris Shea is a former member of the US Navy.
+Use of his military rank, job titles, photographs in uniform does not imply endorsement by the Department of the Navy or Department of War.
+Facebook X Donate Paid for by Chris Shea for Congress Copyright © # | Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

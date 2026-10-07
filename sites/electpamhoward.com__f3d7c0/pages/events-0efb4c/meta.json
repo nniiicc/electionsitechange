@@ -1,7 +1,9 @@
 {
  "description": "Join Pam Howard for community engagement events in Alabama, promoting political and social awareness.",
  "final_url": "https://electpamhoward.com/events",
- "paid_for_by": null,
+ "fingerprint": "66ab07b14e4dc1c446d1f476ff45dedf83489dbc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
  "years_mentioned": []
 }

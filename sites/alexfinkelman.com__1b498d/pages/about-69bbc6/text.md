@@ -1,11 +1,1 @@
-About Alex
-● Married to Denise with two children, Oliver (6) and Andre (4)
-● Born and raised in Rhode Island
-● Attended Providence Country Day School and the University of Hartford with a Dual Major in Insurance and Finance
-● Mother’s family has been in the Jewelry Business in Rhode Island for more than 75 years
-● Father’s family has been in the insurance business dating back to Great Grandfather
-● Became President of the Egis Insurance Group in 2020
-● Opened up various national insurance divisions, including Home Care Insurance Brokers and Other “Insurance USA” Brands
-● Has worked with thousands of families and small businesses, providing risk transfer and insurance solutions
-● Has consulted for hundreds of businesses of all sizes to help protect them and prepare them for the future
-● Holds many designations, including Registered Workers Comp Specialist (RWCS), Construction Risk and Insurance Specialist (CRIS), Certified Professional Insurance Agent (CPIA), Accredited Adviser in Insurance (AAI)
+Skip to content Home About Alex Platform Contact Contribute Menu Close About Alex ● Married to Denise with two children, Oliver (6) and Andre (4) ● Born and raised in Rhode Island ● Attended Providence Country Day School and the University of Hartford with a Dual Major in Insurance and Finance ● Mother’s family has been in the Jewelry Business in Rhode Island for more than 75 years ● Father’s family has been in the insurance business dating back to Great Grandfather ● Became President of the Egis Insurance Group in 2020 ● Opened up various national insurance divisions, including Home Care Insurance Brokers and Other “Insurance USA” Brands ● Has worked with thousands of families and small businesses, providing risk transfer and insurance solutions ● Has consulted for hundreds of businesses of all sizes to help protect them and prepare them for the future ● Holds many designations, including Registered Workers Comp Specialist (RWCS), Construction Risk and Insurance Specialist (CRIS), Certified Professional Insurance Agent (CPIA), Accredited Adviser in Insurance (AAI) Contact Phone: 401-206-1030 Email: alex@egisgroup.com Address 28 Bayberry Rd Jamestown, RI 02835 © # Alex Finkelman Close Menu

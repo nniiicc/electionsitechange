@@ -1,9 +1,27 @@
 {
  "description": "",
  "final_url": "https://www.repkevinhonan.org/legislative-record",
- "paid_for_by": null,
- "title": "Legislative Record \u2014 State Representative Kevin Honan",
+ "fingerprint": "56fd2a643e23c2ed5ee79ce5791e916d185315dc",
+ "format": 3,
+ "paid_for_by": "authorized by another 1,600 MW",
+ "title": "Legislative Record — State Representative Kevin Honan",
  "years_mentioned": [
+  "1989",
+  "1990",
+  "1992",
+  "1993",
+  "1994",
+  "1995",
+  "1996",
+  "1997",
+  "1998",
+  "2000",
+  "2001",
+  "2002",
+  "2003",
+  "2004",
+  "2006",
+  "2008",
   "2010",
   "2011",
   "2016",
@@ -13,6 +31,8 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2030",
+  "2040"
  ]
 }

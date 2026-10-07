@@ -1,4 +1,6 @@
-Donald Trump won the presidency upon on a wave of anti-establishment populism and disrespect for international alliances and political institutions like NATO and the EU.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate The Hill Op-Ed: Trump’s Dangerous Gamble on State Department Funding March 23, 2017 March 23, 2017 Donald Trump won the presidency upon on a wave of anti-establishment populism and disrespect for international alliances and political institutions like NATO and the EU.
 Now that he has taken office, his inexperience in public service and foreign affairs demands a fully staffed, well-funded, experienced and empowered State Department to safeguard America’s standing in global affairs.
 Unfortunately, his budget, along with recent reports of Secretary Rex Tillerson’s marginalization within Trump World, indicate just the opposite.
 This is a dangerous gamble.
@@ -40,3 +42,4 @@ Congress must protect the State Department from President Trump’s proposed cut
 Congressman Brendan F.
 Boyle, a member of the House Foreign Affairs Committee, is a Democrat who represents Pennsylvania’s 13th District.
 It includes sections of Philadelphia and Montgomery county.
+Huffington Post: Trumpcare Is Riddled With Broken Promises Congressman Brendan Boyle’s bill would set national PFC standard Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

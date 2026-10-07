@@ -1,9 +1,30 @@
 [
-"https://laurenjonesforus.com/",
-"https://laurenjonesforus.com/blank-12",
-"https://laurenjonesforus.com/event-list",
-"https://laurenjonesforus.com/groups",
-"https://laurenjonesforus.com/notifications",
-"https://laurenjonesforus.com/signrequest",
-"https://secure.actblue.com/donate/bartow-united"
+{
+"text": "Campaign Signs",
+"href": "https://www.laurenjonesforus.com/signrequest"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bartow-united"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjonesforus.com/event-list"
+},
+{
+"text": "Groups",
+"href": "https://www.laurenjonesforus.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.laurenjonesforus.com"
+},
+{
+"text": "Notifications",
+"href": "https://www.laurenjonesforus.com/notifications"
+},
+{
+"text": "Photos",
+"href": "https://www.laurenjonesforus.com/blank-12"
+}
 ]

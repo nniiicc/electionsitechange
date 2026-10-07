@@ -1,5 +1,5 @@
-About Lloyd Peeples
-I was born in Alabama and graduated from Samford University’s Cumberland School of Law.
+top of page HOME ABOUT ISSUES MEDIA GET INVOLVED DONATE More Use tab to navigate through the menu items.
+About Lloyd Peeples I was born in Alabama and graduated from Samford University’s Cumberland School of Law.
 I began my career in public service in 2003 as a federal prosecutor in the U.S.
 Attorney’s Office in Birmingham.
 Over the years, I’ve been trusted with some of the most complex and serious cases in the office.
@@ -31,3 +31,5 @@ We can be safer.
 We can strengthen education.
 We can make it easier for businesses to grow.
 That’s why I’m running—to build safer neighborhoods, stronger schools, and a better climate for business, because that’s what our families deserve.
+PAID FOR BY LLOYD FOR ALABAMA, PO BOX 430067, VESTAVIA, ALABAMA 35243 Contact Us How would you like to help?
+Help on Social Media Display Yard Sign Attend an Event Knock Doors Host a Meet & Greet Make Phone Calls FIRST NAME LAST NAME * Phone EMAIL * ADDRESS * SUBMIT bottom of page

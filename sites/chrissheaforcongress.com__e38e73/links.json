@@ -1,17 +1,90 @@
 [
-"https://chrissheaforcongress.com/",
-"https://chrissheaforcongress.com/issues",
-"https://chrissheaforcongress.com/privacy-policy",
-"https://facebook.com/profile.php?id=61586811124047",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/chris-shea-for-congress/donate",
-"https://secure.winred.com/chris-shea-for-congress/donate?amount=100",
-"https://secure.winred.com/chris-shea-for-congress/donate?amount=1000",
-"https://secure.winred.com/chris-shea-for-congress/donate?amount=2000",
-"https://secure.winred.com/chris-shea-for-congress/donate?amount=3500",
-"https://secure.winred.com/chris-shea-for-congress/donate?amount=50",
-"https://secure.winred.com/chris-shea-for-congress/donate?amount=500",
-"https://secure.winred.com/chris-shea-for-congress/storefront",
-"https://x.com/sheaforcongress"
+{
+"text": "$100",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate?amount=1000"
+},
+{
+"text": "$2000",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate?amount=2000"
+},
+{
+"text": "$3500",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586811124047"
+},
+{
+"text": "Home",
+"href": "https://chrissheaforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://chrissheaforcongress.com/issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://chrissheaforcongress.com/#contact"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrissheaforcongress.com/#meet"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/chris-shea-for-congress/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrissheaforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrissheaforcongress.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/chris-shea-for-congress/storefront/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "X",
+"href": "https://x.com/sheaforcongress"
+},
+{
+"text": "[image: Chris Shea for Congress]",
+"href": "https://chrissheaforcongress.com/"
+},
+{
+"text": "[image: Logo - Chris Shea for Congress]",
+"href": "https://chrissheaforcongress.com/"
+},
+{
+"text": "info@chrissheaforcongress.com",
+"href": "mailto:info@chrissheaforcongress.com"
+}
 ]

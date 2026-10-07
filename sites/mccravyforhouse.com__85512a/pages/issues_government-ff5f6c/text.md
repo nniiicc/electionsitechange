@@ -1,7 +1,4 @@
-Better Government
-Transparency, Reform & Local Results
-Lake Greenwood & Conestee Dam
-Lake Greenwood is the lifeblood of our community.
+Skip to content GENERAL ELECTION: Tuesday, November 3, 2026 | Find your polling place & voting information GENERAL ELECTION Tue, Nov 3, 2026 › Home About Record Issues Updates Contact Donate Where John Stands Better Government Transparency, Reform & Local Results Lake Greenwood & Conestee Dam Lake Greenwood is the lifeblood of our community.
 For years, the aging Conestee Dam in Greenville County posed a serious threat to our lake, risking the release of toxic industrial waste that has accumulated behind the dam for over a century.
 Columbia wasn't paying attention.
 I made them.
@@ -11,19 +8,21 @@ This is one of the largest infrastructure investments in the history of our dist
 It will safeguard our drinking water, our property values, and our way of life for generations.
 Nobody handed it to us.
 We fought for it and we got it done.
-FOIA Reform & Transparency
-Government works best when it works in the open.
+FOIA Reform & Transparency Government works best when it works in the open.
 I have been a consistent advocate for strengthening South Carolina's Freedom of Information Act to ensure that taxpayers have access to the information they need to hold their government accountable.
 I have supported legislation to close loopholes in FOIA that allow government bodies to conduct the public's business behind closed doors, and I will continue to fight for greater transparency in how our state and local governments operate.
-Ethics & Transparency
-I believe that public officials should be held to the highest standards of ethical conduct.
+Ethics & Transparency I believe that public officials should be held to the highest standards of ethical conduct.
 I have supported legislation to strengthen our ethics laws and to ensure that elected officials are accountable to the people they serve.
 Transparency in government spending, decision-making, and operations is not optional.
 It is a fundamental obligation.
-Conservative Judges
-South Carolina's judiciary plays a critical role in upholding the rule of law and protecting our constitutional rights.
+Conservative Judges South Carolina's judiciary plays a critical role in upholding the rule of law and protecting our constitutional rights.
 I have consistently supported the appointment and election of conservative judges who will interpret the law as written, not legislate from the bench.
 Our courts must be staffed by men and women who respect the Constitution, the separation of powers, and the rights of the people.
-Judicial Reform
-I have worked to reform South Carolina's Merit Selection Commission, which is responsible for screening and nominating candidates for judicial office.
+Judicial Reform I have worked to reform South Carolina's Merit Selection Commission, which is responsible for screening and nominating candidates for judicial office.
 The process should be transparent, accountable, and free from political influence, ensuring that the most qualified and principled candidates are elevated to the bench.
+Explore Issues Family Values Freedom Better Government Economy & Taxes Public Safety Education Veterans Better Government Get Updates from John Sign up for legislative updates and campaign news from District 13.
+Leave blank Sign Up Chip In Help Re-Elect John Your contribution keeps John fighting for conservative values, protecting life, and defending freedom in Greenwood & Laurens Counties .
+Every dollar goes directly to reaching voters before the November 3, 2026 general election. $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Other Amount → South Carolina law limits contributions to $1,000 per person, per election ($2,000 per couple).
+Contributions are not tax deductible.
+Paid for by McCravy for House .
+Navigate About Record Issues Updates Donate Contact Connect Facebook PO Box 50658, Greenwood, SC 29649 864.942.8501 johnmccravy@schouse.gov Legal Privacy Policy Terms of Service Paid for by McCravy for House

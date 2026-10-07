@@ -1,22 +1,86 @@
 [
-"http://allaboutcookies.org/",
-"http://networkadvertising.org/understanding-online-advertising/how-does-it-work",
-"http://optout.aboutads.info/",
-"http://teresaforall.com/",
-"https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
-"https://facebook.com/settings?tab=ads",
-"https://google.com/intl/en/policies/privacy",
-"https://google.com/settings/ads/anonymous",
-"https://secure.actblue.com/donate/teresa-for-nm",
-"https://teresaforall.com/",
-"https://teresaforall.com/endorsements",
-"https://teresaforall.com/issues",
-"https://teresaforall.com/media",
-"https://teresaforall.com/meet-teresa",
-"https://teresaforall.com/news",
-"https://teresaforall.com/photos",
-"https://teresaforall.com/press-releases",
-"https://teresaforall.com/videos",
-"https://teresaforall.com/volunteer",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "About",
+"href": "https://www.teresaforall.com/meet-teresa"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresa-for-nm"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresaforall.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.teresaforall.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.teresaforall.com/media"
+},
+{
+"text": "News",
+"href": "https://www.teresaforall.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.teresaforall.com/photos"
+},
+{
+"text": "Press Releases",
+"href": "https://www.teresaforall.com/press-releases"
+},
+{
+"text": "Videos",
+"href": "https://www.teresaforall.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.teresaforall.com/volunteer"
+},
+{
+"text": "[image: Teresa-Full-Color.png]",
+"href": "https://www.teresaforall.com"
+},
+{
+"text": "advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
+"href": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+},
+{
+"text": "http://optout.aboutads.info/",
+"href": "http://optout.aboutads.info/"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org/"
+},
+{
+"text": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work",
+"href": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy/",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "info@teresaforall.com",
+"href": "mailto:info@teresaforall.com"
+},
+{
+"text": "www.facebook.com/settings/?tab=ads",
+"href": "https://www.facebook.com/settings/?tab=ads"
+},
+{
+"text": "www.google.com/settings/ads/anonymous",
+"href": "https://www.google.com/settings/ads/anonymous"
+},
+{
+"text": "www.teresaforall.com",
+"href": "http://www.teresaforall.com"
+}
 ]

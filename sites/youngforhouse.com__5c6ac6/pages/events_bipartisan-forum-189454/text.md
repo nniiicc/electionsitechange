@@ -1,6 +1,3 @@
-Back to All Events
-Brandon Young (Democrat) and John Taylor (Republican) will meet to discuss plans for the district and sharing their viewpoints ahead of the upcoming election on November 3.
+0 Skip to Content Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Back to All Events Bipartisan Forum Wednesday, October 14, 2026 6:30 PM 8:00 PM Syracuse Library 1875 South 2000 West Syracuse, Utah, 84075 United States (map) Google Calendar ICS Brandon Young (Democrat) and John Taylor (Republican) will meet to discuss plans for the district and sharing their viewpoints ahead of the upcoming election on November 3.
 I am very appreciative of John for being willing to join in this respectful discussion.
-Previous
-Previous
-October 6
+Facebook event Previous Previous October 6 Meet & Greet with Peter Crosby Brandon Young for House District 14 Donate

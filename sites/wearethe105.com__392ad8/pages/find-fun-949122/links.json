@@ -1,26 +1,110 @@
 [
-"https://facebook.com/YOURPAGE",
-"https://instagram.com/YOURPAGE",
-"https://secure.actblue.com/donate/YOURPAGE",
-"https://secure.actblue.com/donate/rachel-longendyke-teeter-1",
-"https://wearethe105.com/",
-"https://wearethe105.com/about",
-"https://wearethe105.com/about-rachel",
-"https://wearethe105.com/cart",
-"https://wearethe105.com/endorsements",
-"https://wearethe105.com/events",
-"https://wearethe105.com/find-fun",
-"https://wearethe105.com/find-help",
-"https://wearethe105.com/findhelp",
-"https://wearethe105.com/get-involved",
-"https://wearethe105.com/rachelorken",
-"https://wearethe105.com/the-105",
-"https://wearethe105.com/updates",
-"https://wearethe105.com/volunteer",
-"https://wearethe105.com/whats-up-in-lansing",
-"https://wearethe105.com/whatsuplansing",
-"https://wearethe105.com/where-we-stand",
-"https://wearethe105.com/yard-sign",
-"https://wearethe105.com/yardsign",
-"https://youtube.com/@YOURPAGE"
+{
+"text": "0",
+"href": "https://www.wearethe105.com/cart"
+},
+{
+"text": "About Rachel",
+"href": "https://www.wearethe105.com/about"
+},
+{
+"text": "About Rachel",
+"href": "https://www.wearethe105.com/about-rachel"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/YOURPAGE"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rachel-longendyke-teeter-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wearethe105.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.wearethe105.com/events"
+},
+{
+"text": "Find Fun",
+"href": "https://www.wearethe105.com/find-fun"
+},
+{
+"text": "Find Help",
+"href": "https://www.wearethe105.com/findhelp"
+},
+{
+"text": "Find help in the 105",
+"href": "https://www.wearethe105.com/find-help"
+},
+{
+"text": "Get involved",
+"href": "https://www.wearethe105.com/get-involved"
+},
+{
+"text": "HOME: WE ARE THE 105",
+"href": "https://www.wearethe105.com/"
+},
+{
+"text": "Home",
+"href": "https://www.wearethe105.com/"
+},
+{
+"text": "Rachel or Ken?",
+"href": "https://www.wearethe105.com/rachelorken"
+},
+{
+"text": "Request a yard sign",
+"href": "https://www.wearethe105.com/yard-sign"
+},
+{
+"text": "The 105",
+"href": "https://www.wearethe105.com/the-105"
+},
+{
+"text": "Updates",
+"href": "https://www.wearethe105.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wearethe105.com/volunteer"
+},
+{
+"text": "What's up in Lansing",
+"href": "https://www.wearethe105.com/whats-up-in-lansing"
+},
+{
+"text": "What's up, Lansing?",
+"href": "https://www.wearethe105.com/whatsuplansing"
+},
+{
+"text": "Where we stand",
+"href": "https://www.wearethe105.com/where-we-stand"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.wearethe105.com/yardsign"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/YOURPAGE"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/YOURPAGE"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@YOURPAGE"
+},
+{
+"text": "rachel@wearethe105.com",
+"href": "mailto:rachel@wearethe105.com"
+},
+{
+"text": "wearethe105.com",
+"href": "https://www.wearethe105.com"
+}
 ]

@@ -1,5 +1,5 @@
-Salsa Dancing Night
-Thursday, August 6th at 6:00 pm, JJ Galvez will be attending a Salsa Night Fundraiser.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Salsa Dancing Night Fundraising Jul 13 Written By Jaclyn Martin Thursday, August 6th at 6:00 pm , JJ Galvez will be attending a Salsa Night Fundraiser.
 Along with dancing, there will be a buffet dinner by Toscano’s Catering, a silent auction, group beginner Salsa lessons led by Souls 4 Salsa Dance Co., and a professional Salsa DJ.
 It will be a fun evening to eat, drink, dance, fundraise, and meet the candidate.
 Click the image to learn more and get your tickets to join in!
+Fundraising Community Jaclyn Martin Previous Previous Get Pizza, Raise dough Next Next Mental Health Now DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

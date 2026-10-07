@@ -1,24 +1,142 @@
 [
-"https://bobsmithforcongress.com/",
-"https://bobsmithforcongress.com/common-ground",
-"https://bobsmithforcongress.com/contact",
-"https://bobsmithforcongress.com/debate",
-"https://bobsmithforcongress.com/district-map",
-"https://bobsmithforcongress.com/get-involved",
-"https://bobsmithforcongress.com/issues",
-"https://bobsmithforcongress.com/latinos-con-bob",
-"https://bobsmithforcongress.com/op-eds",
-"https://bobsmithforcongress.com/our-ocean",
-"https://bobsmithforcongress.com/privacy-policy",
-"https://bobsmithforcongress.com/terms",
-"https://bobsmithforcongress.com/the-choice",
-"https://bobsmithforcongress.com/veterans-for-bob",
-"https://bobsmithforcongress.com/why-bob",
-"https://facebook.com/bobsmith4congress",
-"https://instagram.com/bobsmith4congress",
-"https://linkedin.com/company/bobsmithforcongress",
-"https://secure.anedot.com/bob-smith-for-congress/donate",
-"https://voterstatus.sos.ca.gov/",
-"https://x.com/bobsmith4usa",
-"https://youtube.com/@BobSmithforCongress"
+{
+"text": "Check my registration",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Common Ground",
+"href": "https://bobsmithforcongress.com/common-ground/"
+},
+{
+"text": "Contact",
+"href": "https://bobsmithforcongress.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://bobsmithforcongress.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "ES",
+"href": "https://bobsmithforcongress.com/latinos-con-bob/"
+},
+{
+"text": "Get Involved",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "Get to Know Bob",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "Home",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "In writing, Aug 25",
+"href": "https://bobsmithforcongress.com/debate/"
+},
+{
+"text": "Issues",
+"href": "https://bobsmithforcongress.com/issues/"
+},
+{
+"text": "Join the team",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "Latinos con Bob",
+"href": "https://bobsmithforcongress.com/latinos-con-bob/"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/op-eds/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bobsmithforcongress.com/privacy-policy/"
+},
+{
+"text": "Read his story",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "Read the debate invitation",
+"href": "https://bobsmithforcongress.com/debate/"
+},
+{
+"text": "Read what others who served with him say",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "See the full contrast",
+"href": "https://bobsmithforcongress.com/the-choice/"
+},
+{
+"text": "See the full plan",
+"href": "https://bobsmithforcongress.com/issues/"
+},
+{
+"text": "See the full record",
+"href": "https://bobsmithforcongress.com/the-choice/"
+},
+{
+"text": "See what is planned off Morro Bay",
+"href": "https://bobsmithforcongress.com/our-ocean/"
+},
+{
+"text": "See what is planned ▸",
+"href": "https://bobsmithforcongress.com/our-ocean/"
+},
+{
+"text": "Terms",
+"href": "https://bobsmithforcongress.com/terms/"
+},
+{
+"text": "Terms of Use",
+"href": "https://bobsmithforcongress.com/terms/"
+},
+{
+"text": "The Choice",
+"href": "https://bobsmithforcongress.com/the-choice/"
+},
+{
+"text": "Veterans for Bob",
+"href": "https://bobsmithforcongress.com/veterans-for-bob/"
+},
+{
+"text": "Why Bob",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "[image: Bob Smith for US Congress]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bobsmith4usa"
+}
 ]

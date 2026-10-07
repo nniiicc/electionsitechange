@@ -1,7 +1,6 @@
-MEET MICHELE
-Family-Focused Conservative
-Fighting for Tennessee's 27th House District.
-Michele Reneau grew up in a working class family in South Carolina.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES MEET MICHELE Family-Focused Conservative Fighting for Tennessee's 27th House District. ​ Michele Reneau grew up in a working class family in South Carolina.
 As a child, she loved to learn, read and spend time outdoors.
 Her father served in the U.S.
 Army for 26 years where he met her mother in South Korea.
@@ -31,7 +30,6 @@ She later engaged in state-level initiatives and advocated for the Farm to Consu
 After lobbying and compromise, the bill passed nearly unanimously.
 As the building block of society, Michele Reneau believes in strong, healthy families and will work to strengthen them.
 She is passionate about protecting liberty for future generations.
-Her commitment is to God, to the People of Tennessee District 27, and to the TN and US Constitutions.
-District 27 spans from Lookout Mountain, Lookout Valley, Red Bank, Signal Mountain, Hixson, Soddy Daisy, Mowbray Mountain, Flat Top Mountain to Bakewell.
-"Those who expect to reap the blessing of freedom must, like men, undergo the fatigue of supporting it."
--Thomas Paine, The American Crisis, No.4, September 12, 1777
+Her commitment is to God, to the People of Tennessee District 27, and to the TN and US Constitutions. ​ District 27 spans from Lookout Mountain, Lookout Valley, Red Bank, Signal Mountain, Hixson, Soddy Daisy, Mowbray Mountain, Flat Top Mountain to Bakewell.
+"Those who expect to reap the blessing of freedom must, like men, undergo the fatigue of supporting it." -Thomas Paine, The American Crisis, No.4, September 12, 1777 © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

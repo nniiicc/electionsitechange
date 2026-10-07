@@ -1,11 +1,3 @@
-Press
-Belt-supported laws prioritize law enforcement officials
-EAST ST.
-LOUIS – State Senator Christopher Belt supported a number of measures signed into law aimed at helping law enforcement – including mental health support,
-July 1, 2022
-No Comments
-CHICAGO – To address the increase in car part thefts, State Senator Christopher Belt supported a proposal requiring people to keep record of the sale of
-EAST ST.
-LOUIS – Burning toxic synthetic chemicals will be banned thanks to a measure sponsored by State Senator Christopher Belt that was signed into law
-June 30, 2022
-No Comments
+Skip to content Home About Issues The District Committees News Volunteer Contact Home About Issues The District Committees News Volunteer Contact DONATE Category: Press Press Belt-supported laws prioritize law enforcement officials EAST ST.
+LOUIS – State Senator Christopher Belt supported a number of measures signed into law aimed at helping law enforcement – including mental health support, Read More » July 1, 2022 No Comments Press New Belt-supported law closes loophole for catalytic converter thefts CHICAGO – To address the increase in car part thefts, State Senator Christopher Belt supported a proposal requiring people to keep record of the sale of Read More » July 1, 2022 No Comments Press New Belt law bans burning toxic chemicals in Illinois EAST ST.
+LOUIS – Burning toxic synthetic chemicals will be banned thanks to a measure sponsored by State Senator Christopher Belt that was signed into law Read More » June 30, 2022 No Comments Take Action Contribute Volunteer The District Committees PAID FOR BY FRIENDS OF CHRISTOPHER BELT FOLLOW Christopher belt Facebook Twitter

@@ -1,18 +1,1 @@
-Home
-Meet Stephanie
-Issues
-Get Involved
-Donate
-Home
-Meet Stephanie
-Issues
-Get Involved
-Donate
-☆
-Donate Online
-☆
-or mail a check to:
-Clayton for Kansas
-9825 Woodson Drive
-Overland Park, KS 66207
-Donations are limited to $500 per individual, $1,000 per couple
+Home Meet Stephanie Issues Get Involved Donate Home Meet Stephanie Issues Get Involved Donate donate to my campaign ☆ Donate Online ☆ or mail a check to: ​Clayton for Kansas 9825 Woodson Drive Overland Park, KS 66207 Donations are limited to $# per individual, $# per couple Paid for by clayton for kansas, jennifer estes, treasurer

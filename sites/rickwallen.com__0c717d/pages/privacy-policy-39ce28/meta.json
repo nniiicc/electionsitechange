@@ -1,6 +1,8 @@
 {
- "description": "For each visitor to our Web page, our Web server automatically recognizes only the consumer\u2019s domain name, but not the e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses...[Read More]",
+ "description": "",
  "final_url": "https://rickwallen.com/privacy-policy/",
+ "fingerprint": "dea83e32fd100c5dc46cff14e8c9fc3cdc981919",
+ "format": 3,
  "paid_for_by": "PAID FOR BY RICK W ALLEN FOR CONGRESS Powered By Push Digital Privacy Policy",
  "title": "Privacy Policy - Rick W. Allen",
  "years_mentioned": []

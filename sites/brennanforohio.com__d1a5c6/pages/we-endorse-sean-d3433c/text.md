@@ -1,5 +1,7 @@
-By Editorial Board, cleveland.com and The Plain Dealer
-The residents of the Ohio House District 14, which comprises Parma, Parma Heights and parts of Old Brooklyn and Brooklyn Centre in Cleveland, have a treasure in Rep.
+Brennan For Ohio Brennan For Ohio Brennan For Ohio Brennan For Ohio Brennan For Ohio Brennan For Ohio Brennan For Ohio Brennan For Ohio Home Official Sean On the Issues We Endorse Sean!
+Sean's Community Service District 14 Maps Sean's Photo Gallery Sean’s Useful Web Links Testimonials Sean City Council Record Sean's Promises Contact Sean More Home Official Sean On the Issues We Endorse Sean!
+Sean's Community Service District 14 Maps Sean's Photo Gallery Sean’s Useful Web Links Testimonials Sean City Council Record Sean's Promises Contact Sean Home Official Sean On the Issues We Endorse Sean!
+Sean's Community Service District 14 Maps Sean's Photo Gallery Sean’s Useful Web Links Testimonials Sean City Council Record Sean's Promises Contact Sean Labor Endorsements 2026 More Labor Endorsements 2026 Still More Labor Endorsements Supported By Democrats Supported by Organizations 2026 Plain Dealer Endorsement 9/20/24 Sean Patrick Brennan for Ohio House, 14th District: endorsement editorial By Editorial Board, cleveland.com and The Plain Dealer The residents of the Ohio House District 14, which comprises Parma, Parma Heights and parts of Old Brooklyn and Brooklyn Centre in Cleveland, have a treasure in Rep.
 Sean Patrick Brennan.
 If they are wise, they will send him back to Columbus for a second term.
 Brennan, 54, of Parma, served on Parma City Council for 18 years – the last 10 as council president – and taught social studies to middle school and high school students for 28 years before his election to the state legislature in 2022.
@@ -8,9 +10,11 @@ He stresses his commitment to collegiality rather than partisan bickering – a 
 “I taught my students the importance of building bridges, always taking the high road, and I feel a really heavy responsibility to practice what I preached to those 8,000 students I had in class all those years,” said Brennan, who spoke movingly of his emotions as he watched Gov.
 Mike DeWine sign into law the first bipartisan bill he had shepherded through the legislature.
 “This is not just a talking point for the election,” he said, pointing to his 96% bipartisan rating in his first term.
-“This is my life’s work as a teacher, as a councilman and now as a state legislator.”
-Brennan doesn’t agree with his Republican colleagues on everything, of course, most notably arguing for more funding for public schools and for holding utility companies to account in their pricing and billing procedures.
-We enthusiastically urge voters to return Sean Patrick Brennan to Columbus on Nov. 5, so he can continue his good work for the people of District 14 and the state as a whole.
-Early voting begins Oct. 8.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+“This is my life’s work as a teacher, as a councilman and now as a state legislator.” Brennan doesn’t agree with his Republican colleagues on everything, of course, most notably arguing for more funding for public schools and for holding utility companies to account in their pricing and billing procedures.
+We enthusiastically urge voters to return Sean Patrick Brennan to Columbus on Nov.
+5, so he can continue his good work for the people of District 14 and the state as a whole.
+Early voting begins Oct.
+8.
+Paid for by Friends of Sean Brennan, Deena Brennan, Treasurer, Thomas Denk and Dean DePiero, Co-Chairs, 6306 Hampstead Avenue, Parma, Ohio, 44129.
+Copyright © # Brennan For Ohio - All Rights Reserved.
+Powered by

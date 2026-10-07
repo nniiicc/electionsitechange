@@ -1,17 +1,14 @@
-Skip navigation menu
-About Brad
-A tireless advocate for working families, a bold government reformer, an affordable housing advocate, husband, dad, and neighbor, Brad Lander is running for Congress to stand up to Donald Trump, fight for an affordable New York, and deliver real results for his neighbors.
+Skip navigation menu About Issues Media Shop Endorsements Apply for a Role Donate Meet Brad About Issues Media Shop Endorsements Apply for a Role Donate Meet Brad About Brad A tireless advocate for working families, a bold government reformer, an affordable housing advocate, husband, dad, and neighbor, Brad Lander is running for Congress to stand up to Donald Trump, fight for an affordable New York, and deliver real results for his neighbors.
 From preventing evictions in Brooklyn, to winning groundbreaking protections for fast-food workers and freelancers in the City Council, to taking on the Adams administration as Comptroller, to being arrested by federal agents while defending immigrants from ICE, Brad has spent his career taking on bullies and showing up for New Yorkers.
-Fighting for an affordable New York
-In the 1990s and 2000s, Brad led two not-for-profit, affordable housing and community development groups, the Fifth Avenue Committee and the Pratt Center for Community Development, where he organized tenants to prevent evictions, built and preserved thousands of affordable homes, and created job training programs that have helped over 10,000 New Yorkers find living-wage jobs.
+Fighting for an affordable New York In the 1990s and 2000s, Brad led two not-for-profit, affordable housing and community development groups, the Fifth Avenue Committee and the Pratt Center for Community Development, where he organized tenants to prevent evictions, built and preserved thousands of affordable homes, and created job training programs that have helped over 10,000 New Yorkers find living-wage jobs.
 As a City Council Member, Lander took on powerful corporate interests to deliver for working families.
 He passed the first laws in the country to guarantee a living wage for Uber and Lyft drivers and deliveristas, to shield fast-food and retail workers from abusive scheduling, and to protect freelancers from wage theft.
 He led the community planning effort to shape and pass the Gowanus Rezoning, generating over 8,000 units of new housing, over 3,000 of them affordable to low-income and working-class families, with investments in open space, arts, environmental remediation, stormwater protection, and NYCHA — one of the few large-scale rezonings to win overwhelming support from its community board.
-A record of getting things done
-The New York Times called Brad "among the hardest-working and most effective public servants in the city.” Lander helped to initiate and shepherd the successful effort to desegregate the middle schools of Brooklyn’s District 15.
+A record of getting things done The New York Times called Brad "among the hardest-working and most effective public servants in the city.” Lander helped to initiate and shepherd the successful effort to desegregate the middle schools of Brooklyn’s District 15 .
 He led the campaign that secured air-conditioning in every NYC public school classroom, after working with students on a report showing that 25 percent of classrooms had no A/C — making it #TooHotToLearn for kids and teachers.
-Holding power accountable as Comptroller
-As New York City's Comptroller, Brad served as the city's chief financial and accountability officer, leading a team of 700 professionals.
+Brad authored the Independent Expenditure Disclosure Act , giving NYC the most aggressive SuperPAC disclosure requirements in the country.
+He brought participatory budgeting to NYC and sponsored the legislation to implement ranked-choice voting here.
+Holding power accountable as Comptroller As New York City's Comptroller, Brad served as the city's chief financial and accountability officer, leading a team of 700 professionals.
 He held the Adams administration relentlessly accountable, uncovered waste and abuse, and saved hundreds of millions in taxpayer dollars.
 Brad sounded the alarm on Mayor Adams's rampant use of emergency procurement, forcing the cancellation of a $432 million no-bid contract with the unqualified vendor DocGo.
 He returned millions of dollars in stolen wages to workers by enforcing the prevailing wage.
@@ -19,17 +16,16 @@ And he protected NYC retirees from being forced into inferior Medicare Advantage
 Under Brad's stewardship, New York City's public pension funds earned strong returns and grew to record levels.
 He led the nation in responsible investing — divesting $4 billion dollars from fossil fuels, and pressing Starbucks and Amazon to respect workers' rights.
 His innovative investment in purchasing the loan portfolio of the failed Signature Bank protected nearly 35,000 rent-stabilized apartments in New York City while delivering strong returns for pensioners.
-Standing up to Trump and ICE
-In June 2025, Brad was handcuffed and detained by masked federal agents at 26 Federal Plaza while escorting an asylum seeker out of immigration court.
+Standing up to Trump and ICE In June 2025, Brad was handcuffed and detained by masked federal agents at 26 Federal Plaza while escorting an asylum seeker out of immigration court.
 He has continued to accompany immigrants to their court dates alongside fellow elected officials, clergy, and community members, because no New Yorker should have to face Trump's deportation machine alone.
 For Brad, defending our immigrant neighbors isn't a slogan — it's something you do with your body, in the building, when it counts.
 When Elon Musk stole $80 million from New York City, Brad caught it, and forced the reluctant Adams Administration into court to get it back.
 In Congress, Brad will be a relentless check on Trump — fighting his attacks on immigrants, on trans kids, on the rule of law, on health care, on Social Security, and on the working- and middle-class families who make this country run.
-Fighting for the future of New York City
-Last year, Brad ran a joyful, ambitious campaign for Mayor of New York City focused on ending street homelessness for people with serious mental illness, bringing down costs, building housing, expanding child care, and standing up to Trump.
+Fighting for the future of New York City Last year, Brad ran a joyful, ambitious campaign for Mayor of New York City focused on ending street homelessness for people with serious mental illness, bringing down costs, building housing, expanding child care, and standing up to Trump.
 When the race came down to its final days, Brad cross-endorsed Zohran Mamdani, uniting the progressive movement behind a shared vision of a city that everyone can afford, and where everyone is welcome.
 In the process, they helped show that Jewish New Yorkers and Muslim New Yorkers do not need to be divided from each other – that we can work together for the good of the city we love.
 Now, Brad is taking that fight to Washington – because this moment is a five-alarm fire for our democracy and our working families, and we need leaders who will fight, not fold.
 In Congress, Brad will fight against an authoritarian federal government, take on the billionaires and corporate interests who have rigged our economy against working people, and roll up his sleeves to deliver for his neighbors – just like he’s always done.
 Brad lives with his wife, Meg Barnette, in Brooklyn, where they raised two children, Marek and Rosa, both proud graduates of NYC public schools.
 He loves Prospect Park, CUNY graduations, and NYC street food, tries to stay in shape by boxing and running across the Brooklyn Bridge, and is a proud season ticket holder for the New York Liberty.
+Powered by RUN! website builder PAID FOR BY LANDER FOR CONGRESS You need to enable JavaScript to run this app.

@@ -1,6 +1,6 @@
-It’s not chaos.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate It’s not chaos.
 It’s beta testing.
-The tyrants who led Iran made the world more dangerous and more cruel.
+Mar 3 Written By Elle Casner The tyrants who led Iran made the world more dangerous and more cruel.
 I am glad they are gone.
 I also believe we are not safer today to have a president who starts wars without approval of the U.S.
 Congress.
@@ -22,10 +22,10 @@ And Trump has said he wants to federalize elections.
 So far, Trump’s power is undiminished by the killings of Renee Good and Alex Pretti.
 ICE agents remain masked.
 Prisons are springing up.
-Americans are forced to produce “their papers.”
-You don’t need a vivid imagination to picture what outrage follows that.
+Americans are forced to produce “their papers.” You don’t need a vivid imagination to picture what outrage follows that.
 As I campaign for governor, Idahoans tell me they are focused on the cost of food, housing, and health care.
 They want enough money leftover for some fun and some savings.
 They don’t want to have to fight to keep their government from taking the freedoms we were all born with.
 So, when I share concerns about President Trump, I am telling you who I am, what I believe, and, hopefully, giving you some reason to help me tackle the problems that matter most.
 Let’s work together to create the leadership Idaho, and our nation, needs.
+Donate Elle Casner Previous Previous Brad Little’s Budget Shows Us Who He Is Next Next Press Release: Terri Pickens for Idaho Governor: A Clear, Better Choice TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

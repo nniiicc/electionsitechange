@@ -1,5 +1,4 @@
-Iowa AG Bird joins bipartisan push for tougher “Know Your Customer” robocall rules
-Iowa Attorney General Brenna Bird on Tuesday joined a bipartisan coalition of 50 attorneys general urging the Federal Communications Commission to strengthen “Know Your Customer” rules aimed at curbing illegal robocalls.
+Donate Connect with Brenna News Donate News Iowa AG Bird joins bipartisan push for tougher “Know Your Customer” robocall rules July 28, 2026 KGAN Iowa Attorney General Brenna Bird on Tuesday joined a bipartisan coalition of 50 attorneys general urging the Federal Communications Commission to strengthen “Know Your Customer” rules aimed at curbing illegal robocalls.
 The rules would require phone companies to verify the identity and business practices of customers using their networks, allowing providers to suspend or deny service to entities making unlawful calls.
 “Scammers prey on the kindness of Iowans and they often use robocalls to do it,” Bird said in a statement.
 “I’m going to keep fighting to cut scammers off from their ability to make these calls and trick Iowans out of their hard-earned money.” Officials say illegal robocalls often originate with voice service providers that allow bad actors access to the U.S. communications network.
@@ -10,3 +9,4 @@ The attorneys general are calling on the FCC to require providers to better unde
 The request is part of “Operation Robocall Roundup,” a multistate effort launched in 2025 to combat robocall scams.
 Phase 2 of the initiative has expanded enforcement efforts to include major voice service providers.
 Residents who believe they have been targeted by scam robocalls are encouraged to contact local law enforcement or the Iowa Attorney General’s Office.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

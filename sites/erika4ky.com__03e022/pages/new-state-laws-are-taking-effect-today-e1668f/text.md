@@ -1,4 +1,5 @@
-Dozens of the bills we passed during the 2026 session officially become law this Wednesday, and I want to walk you through what’s changing.
+Skip to primary sidebar Skip to content Skip to footer Erika Hancock State Rep for Kentucky's 57th District Home Meet Erika Erika’s Update!
+Appearances News Contact Contribute You are here: Home / Erika's Updates / New state laws are taking effect today by on July 15, 2026 New state laws are taking effect today Dozens of the bills we passed during the 2026 session officially become law this Wednesday, and I want to walk you through what’s changing.
 Here’s the quick background.
 We passed more than 190 bills during this year’s 60-day session, and more than half of them take effect on July 15.
 Our state constitution says new laws kick in 90 days after we adjourn, unless a bill has a special date, is a budget measure, or includes an emergency clause that makes it law right away.
@@ -59,3 +60,7 @@ That’s a lot, I know.
 If any of these affect you or your family and you’ve got questions, my door is open.
 Reach out anytime.
 That’s what I’m here for.
+Primary Sidebar Sign Up for Erika's Updates!
+"Erika’s Update" is a newsletter sent out weekly during the legislative session and monthly the rest of the year.
+Footer Connect with Erika!
+Contact Us | LRC | Facebook | BlueSky Instagram | Threads | YouTube | Contribute Copyright © # · Paid for by Hancock for State Representative

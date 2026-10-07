@@ -1,10 +1,4 @@
-Back to All Events
-Please join Eunice and Indivisible Oconee SC for a celebration of Democratic primary winners at California’s Mexican Grill in Salem on Saturday.
-Register here.
-Previous
-Previous
-June 13
-Pickens County Democratic Party Meeting
-Next
-Next
-June 29
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events Celebration of Democratic Primary Winners Saturday, June 13, 2026 5:00 PM 9:00 PM California's Mexican Grill 305 McCall Brothers Drive Salem, South Carolina, 29676 United States (map) Google Calendar ICS Please join Eunice and Indivisible Oconee SC for a celebration of Democratic primary winners at California’s Mexican Grill in Salem on Saturday.
+Register here .
+Previous Previous June 13 Pickens County Democratic Party Meeting Next Next June 29 Meet & Greet for Eunice in Clemson (Patrick Square) Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

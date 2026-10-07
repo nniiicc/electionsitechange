@@ -1,8 +1,1 @@
-laurie’s Priorities
-- Strong Economy
-- Workforce Development
-- Better Paying Jobs
-- Affordable Housing
-- Defending the Second Amendment
-- Protecting the Unborn
-- Supporting State Employees
+0 Skip to Content About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate laurie’s Priorities Strong Economy Workforce Development Better Paying Jobs Affordable Housing Defending the Second Amendment Protecting the Unborn Supporting State Employees Paid for by Friends of Laurie Gill Terms & Conditions Privacy Policy

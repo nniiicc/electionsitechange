@@ -1,4 +1,5 @@
-James Sanders Jr. was elected to the New York State Senate on September 13, 2012.
+Skip to content Menu Home About En Español Videos Donations Photos Contact Senator James Sanders Jr.
+About James Sanders Jr. was elected to the New York State Senate on September 13, 2012.
 He represents the 10th Senatorial District in Queens, which includes the neighborhoods of South Jamaica, Rochdale Village, Rosedale, Richmond Hill, South Ozone Park, Springfield Gardens and most of the Rockaways.
 Senator Sanders is the ranking Democrat on the Civil Services & Pensions Committee.
 He also serves on the Commerce, Economic Development & Small Business Committee, Banks Committee, Insurance Committee, Labor Committee, Veterans, Homeland Security & Military Affairs Committee, Cultural Affairs & Tourism Committee, and Racing, Gaming & Wagering Committee.
@@ -25,3 +26,10 @@ As a married father of two, Sanders saw first-hand how economic advancement was 
 The senator served on Queens School Board District 27 for ten years, seven as president, – the first African-American to do so.
 In his spare time, Sanders has taken a community economic development training course offered by a federally funded program called Neighborhood Works and is nearing completion with only one final paper pending before he is awarded his certificate.
 Now in his second term, Senator Sanders, a veteran, lifelong public servant, proponent of education and advocate for working class families, promises to approach this legislative session with a renewed interest in bringing economic opportunities and resources to the people of Southeast Queens.
+Like Loading...
+Visit Sen.
+James Sanders Jr. on Social Media View StateSenatorJamesSandersJr’s profile on Facebook View jsandersnyc’s profile on Twitter View senator.james.sanders’s profile on Instagram Website Powered by WordPress.com .
+Senator James Sanders Jr.
+Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

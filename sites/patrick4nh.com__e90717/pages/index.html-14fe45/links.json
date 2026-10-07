@@ -1,11 +1,98 @@
 [
-"https://patrick4nh.com/about.html",
-"https://patrick4nh.com/contribute.html",
-"https://patrick4nh.com/contribute.html?amount=100",
-"https://patrick4nh.com/contribute.html?amount=25",
-"https://patrick4nh.com/contribute.html?amount=50",
-"https://patrick4nh.com/events.html",
-"https://patrick4nh.com/get-involved.html",
-"https://patrick4nh.com/index.html",
-"https://patrick4nh.com/issues.html"
+{
+"text": "About",
+"href": "https://www.patrick4nh.com/about.html"
+},
+{
+"text": "About Patrick",
+"href": "https://www.patrick4nh.com/about.html"
+},
+{
+"text": "Book a shift or host a gathering",
+"href": "https://www.patrick4nh.com/events.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Contribute $100",
+"href": "https://www.patrick4nh.com/contribute.html?amount=100"
+},
+{
+"text": "Contribute $25",
+"href": "https://www.patrick4nh.com/contribute.html?amount=25"
+},
+{
+"text": "Contribute $50",
+"href": "https://www.patrick4nh.com/contribute.html?amount=50"
+},
+{
+"text": "Contribute Now",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Contribute Today",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Email the Campaign",
+"href": "mailto:info@patrick4nh.com"
+},
+{
+"text": "Events",
+"href": "https://www.patrick4nh.com/events.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.patrick4nh.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.patrick4nh.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.patrick4nh.com/issues.html"
+},
+{
+"text": "Meet Patrick",
+"href": "https://www.patrick4nh.com/events.html"
+},
+{
+"text": "Other Amount",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Read the full platform →",
+"href": "https://www.patrick4nh.com/issues.html"
+},
+{
+"text": "Read the full story →",
+"href": "https://www.patrick4nh.com/about.html"
+},
+{
+"text": "See the full story and more photos →",
+"href": "https://www.patrick4nh.com/about.html"
+},
+{
+"text": "The Issues",
+"href": "https://www.patrick4nh.com/issues.html"
+},
+{
+"text": "Visit the full contribute page",
+"href": "https://www.patrick4nh.com/contribute.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patrick4nh.com/get-involved.html"
+},
+{
+"text": "get involved page",
+"href": "https://www.patrick4nh.com/get-involved.html"
+},
+{
+"text": "info@patrick4nh.com",
+"href": "mailto:info@patrick4nh.com"
+}
 ]

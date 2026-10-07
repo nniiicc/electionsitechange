@@ -1,7 +1,9 @@
 {
- "description": "See Jeremy\u2019s upcoming campaign events happening near you.",
+ "description": "See Jeremy’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/jeremy-dean/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "edd74f26f6dcae22f3248eb781fa9752e8b0abf3",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Jeremy Dean Events",
  "years_mentioned": []
 }

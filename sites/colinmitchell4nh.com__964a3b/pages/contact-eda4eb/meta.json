@@ -1,7 +1,9 @@
 {
  "description": "Get in touch with Colin Mitchell. Send a message, volunteer, or find contact information.",
  "final_url": "https://colinmitchell4nh.com/contact",
- "paid_for_by": "Paid for by Friends of Colin Mitchell, 29 Beech St Unit D, Wakefield, NH 03872 Colin Mitchell, treasurer \u00a9 2026 Colin Mitchell",
+ "fingerprint": "cc0fdff94a2f6bd5d89879942884ac3b8a014570",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Colin Mitchell, 29 Beech St Unit D, Wakefield, NH 03872 Colin Mitchell, treasurer © # Colin Mitchell",
  "title": "Contact Colin Mitchell",
  "years_mentioned": []
 }

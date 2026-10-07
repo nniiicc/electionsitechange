@@ -1,14 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdJO7X9xtiq-sKUyOcNU7JBZBsBBAY-mdzNnWhBqm40b1rzhw/viewform?usp=header",
-"https://facebook.com/VoteMercedes2026",
-"https://forms.gle/4UrwQMtbH5xSnTtk8",
-"https://mercedes2026.com/",
-"https://mercedes2026.com/about",
-"https://mercedes2026.com/about-2",
-"https://mercedes2026.com/community",
-"https://mercedes2026.com/donate",
-"https://mercedes2026.com/endorsements",
-"https://mercedes2026.com/register-to-vote-absentee",
-"https://mercedes2026.com/volunteer",
-"https://secure.actblue.com/donate/mercedes-vazquez-simmons-1"
+{
+"text": "About",
+"href": "https://www.mercedes2026.com/about"
+},
+{
+"text": "Community",
+"href": "https://www.mercedes2026.com/community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mercedes-vazquez-simmons-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.mercedes2026.com/donate"
+},
+{
+"text": "EMAIL",
+"href": "mailto:votemercedes2026@gmail.com?subject=Website+Question"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mercedes2026.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mercedes2026.com"
+},
+{
+"text": "I WANT ONE!",
+"href": "https://forms.gle/4UrwQMtbH5xSnTtk8"
+},
+{
+"text": "Record",
+"href": "https://www.mercedes2026.com/about-2"
+},
+{
+"text": "Register to Vote / Absentee",
+"href": "https://www.mercedes2026.com/register-to-vote-absentee"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdJO7X9xtiq-sKUyOcNU7JBZBsBBAY-mdzNnWhBqm40b1rzhw/viewform?usp=header"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.mercedes2026.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteMercedes2026"
+},
+{
+"text": "votemercedes2026@gmail.com",
+"href": "mailto:votemercedes2026@gmail.com"
+}
 ]

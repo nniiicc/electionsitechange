@@ -1,10 +1,3 @@
-top of page
-Our Mission for
-Trevor De Vries is fighting for the financial relief Northwest Indiana families deserve through common-sense solutions that help keep more money in their pockets.
-Lowering income and property taxes to help ease the burden on Hoosier families
-Reducing utility costs by opposing policies that drive up energy bills and demanding accountability from the agencies that set the rates
-Making healthcare more affordable by increasing competition to bring down insurance premiums and out-of-pocket medical expenses
-Lowering prescription drug costs for seniors and working families
-Forcing government to live within its means instead of passing higher costs on to taxpayers
-Common Sense Hoosier Values
-bottom of page
+top of page Home Meet Trevor Our Mission Support Endorsements Voting Record Sign Request Donate Our Mission for Trevor De Vries is fighting for the financial relief Northwest Indiana families deserve through common-sense solutions that help keep more money in their pockets. ​ Lowering income and property taxes to help ease the burden on Hoosier families Reducing utility costs by opposing policies that drive up energy bills and demanding accountability from the agencies that set the rates Making healthcare more affordable by increasing competition to bring down insurance premiums and out-of-pocket medical expenses Lowering prescription drug costs for seniors and working families ​ Forcing government to live within its means instead of passing higher costs on to taxpayers ​ ​ ​​ ​ ​ Common Sense Hoosier Values TREVOR DE VRIES FOR INDIANA TREVOR DE VRIES FOR INDIANA TREVOR DE VRIES FOR INDIANA TREVOR DE VRIES FOR INDIANA PO Box 44 Saint John, IN 46373 info@trevordv.com linktr.ee/trevor4indiana Privacy Policy Legal ​ Terms & Conditions © # by The Friends of Trevor De Vries, Paid for by The Friends of Trevor De Vries.
+All rights reserved.
+Trevor De Vries Candidate for Indiana State Senate District 1 bottom of page

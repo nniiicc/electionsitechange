@@ -1,5 +1,4 @@
-On Act 181
-I have been spending time sitting with Act 181; listening intently to the community’s concerns.
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services On Act 181 I have been spending time sitting with Act 181; listening intently to the community’s concerns.
 I’ve been sitting with my own concerns about the law.
 We have many interests to balance as we look to the future; the needs of our community youth and adults alike, the needs of our natural environment, and the needs of our built environment including our preserving our existing homes.
 From what I have seen VT has a vision for the future.
@@ -33,3 +32,6 @@ All within a serene working landscape.
 In the face of an artificial future the community and authenticity Vermont offers is a beacon.
 I am honored to serve the community toward that end.
 I’m looking forward to running again so I can continue this work.
+Donate Wilmington.
+Whitingham.
+Halifax

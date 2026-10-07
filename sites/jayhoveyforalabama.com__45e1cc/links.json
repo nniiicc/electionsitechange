@@ -1,8 +1,38 @@
 [
-"https://alabamainteractive.org/sos/voter_registration/instructions.action",
-"https://facebook.com/jayhoveyalabamasenate",
-"https://jayhoveyforalabama.com/",
-"https://jayhoveyforalabama.com/getinvolved",
-"https://jayhoveyforalabama.com/privacy-policy",
-"https://paypal.com/donate?hosted_button_id=WALNPX5NJAJFN"
+{
+"text": "ABOUT",
+"href": "https://www.jayhoveyforalabama.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=WALNPX5NJAJFN"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jayhoveyforalabama.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.jayhoveyforalabama.com"
+},
+{
+"text": "LEARN MORE ABOUT JAY",
+"href": "https://www.jayhoveyforalabama.com#humility"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.alabamainteractive.org/sos/voter_registration/instructions.action"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.jayhoveyforalabama.com/getinvolved"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/jayhoveyalabamasenate"
+},
+{
+"text": "https://jayhoveyforalabama.com/privacy-policy",
+"href": "https://www.jayhoveyforalabama.com/privacy-policy"
+}
 ]

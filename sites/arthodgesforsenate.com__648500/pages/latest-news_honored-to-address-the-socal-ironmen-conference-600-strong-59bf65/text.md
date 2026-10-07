@@ -1,5 +1,4 @@
-Honored to address the SoCal IRONMEN Conference — 600 strong
-Honored to address the SoCal IRONMEN Conference — 600 strong — alongside Michael Ensey (Ohio), Jonathan McDonald (Eureka, CA), and Tom Copple (Orange, CA).
+0 Skip to Content Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Folder: Meet Art Back About Art Candidate Comparison Photo Gallery 250 Club Folder: Media Back News Events Issues Endorsements District Map Get Involved English Back DONATE Honored to address the SoCal IRONMEN Conference — 600 strong Sep 12 Written By Art Hodges Honored to address the SoCal IRONMEN Conference — 600 strong — alongside Michael Ensey (Ohio), Jonathan McDonald (Eureka, CA), and Tom Copple (Orange, CA).
 In a culture trying to blur, if not erase, the lines between men and women — first in appearance and clothing, now even in science and biology — these men recognize what God already said: He made men and women different on purpose.
 Not to compete.
 To complement.
@@ -28,5 +27,5 @@ IRONMEN Conference had 600 men determined to fight and overcome the real battles
 Stay in the fight.
 Stay faithful.
 Stay present.
-God bless these IRONMEN.
-~ Bishop Art Hodges
+God bless these IRONMEN. ~ Bishop Art Hodges Art Hodges Previous Previous Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future Next Next “We Love Imperial County” - Art Hodges for Senate Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+All Rights Reserved

@@ -1,6 +1,4 @@
-Why I'm Running
-Meet The Candidate
-Susan R.
+Donate Menu Home Meet The Candidate Issues Volunteer Voting Info Follow us Why I'm Running Meet The Candidate Susan R.
 Leff is a lifelong Floridian, community advocate, and candidate for the Florida House of Representatives District 59.
 Susan was born in Jacksonville, Florida, and adopted into a loving family when she was just five days old.
 She often says she has only ever known one mother and one father, and she thanks God every day for the family she was blessed with.
@@ -21,3 +19,5 @@ Both of her parents were active in civic and charitable organizations, including
 Their example of community involvement and public responsibility had a lasting impact on Susan.
 Professionally, Susan has spent more than 40 years working in marketing, sales, and business development, consistently earning recognition as a top performer and producer.
 Today, she works in networking and consulting, helping others build connections and opportunities.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet The Candidate Issues Volunteer Voting Info Donate Follow us Accessibility Statement Terms of Service Contact Paid for and Authorized by LeffForThePeople 3665 East Bay Drive, Suite 204 Box 336 Largo, FL 33771 LeffForThePeople © #

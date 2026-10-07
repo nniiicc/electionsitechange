@@ -1,8 +1,6 @@
-Uncle Larry
-Updated: Feb 11
-My wife and I have always considered ourselves Republicrats.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Uncle Larry Dec 30, 2025 2 min read Updated: Feb 11 My wife and I have always considered ourselves Republicrats.
 Registered Independents who vote in every election.
-We supported the Republicans conservative fiscal management and the Democrats more liberal social agenda.
+We supported the Republi cans conservative fiscal management and the Demo crats more liberal social agenda.
 My father was a small-town businessman and politician.
 He served several terms as city council president and a term as President of the Nebraska Association of Business and Industry.
 He was a life-long active Republican.
@@ -32,5 +30,7 @@ I believe my dad, or my uncle would have been better suited for the job.
 It seems in this era we must choose sides.
 I chose.
 Sorry Dad.
-Bill Owen
-Harlan, Iowa
+Bill Owen Harlan, Iowa News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+Making Sense of Cancer and Your Water PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

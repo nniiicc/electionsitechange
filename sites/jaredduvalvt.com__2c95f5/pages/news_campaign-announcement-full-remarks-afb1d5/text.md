@@ -1,9 +1,4 @@
-Campaign Announcement: Full Remarks
-2026 Campaign Announcement - Full Video
-Jared Duval For State Representative
-April 27, 2026
-Remarks
-Good afternoon.
+0 Skip to Content Meet Jared On the Issues News Events Get Involved Endorsements Donate Open Menu Close Menu Open Menu Close Menu Meet Jared On the Issues News Events Get Involved Endorsements Donate Meet Jared On the Issues News Events Get Involved Endorsements Donate Campaign Announcement: Full Remarks Apr 27 Written By Jared Duval 2026 Campaign Announcement - Full Video Jared Duval For State Representative April 27, 2026 Remarks Good afternoon.
 My name is Jared Duval, and I’m so grateful to everyone for being here today as I announce my campaign to serve as one of your State Representatives for Montpelier.
 I want to start by thanking Representative Conor Casey for his service to Montpelier and to Vermont.
 Conor has dedicated his life to public service and good causes, so I know it cannot have been an easy decision for him not to seek re-election.
@@ -18,7 +13,8 @@ She shows up for her constituents just like she shows up for her students.
 And I think it is especially important at this moment of challenge and uncertainty around the future of public education in Vermont that we have experienced and dedicated teachers like Kate as a key part of that policy discussion.
 I’m so glad that Kate, who has been recognized as a Vermont Teacher of the Year, is serving us not just in the legislature, but specifically on the House Education Committee.
 Representative McCann has also passed important legislation beyond the area of education, including Act 95 of 2024, which expanded insurance coverage and aligned Vermont policy with federal guidelines to cover additional cancer screening.
-And this year, Representative McCann sponsored H. 88, a bill to ensure that there are protections against utility shut-offs during heat waves, which is increasingly important as they occur more frequently.
+And this year, Representative McCann sponsored H.
+88, a bill to ensure that there are protections against utility shut-offs during heat waves, which is increasingly important as they occur more frequently.
 I also particularly want to thank my family for their support – my wife, Joan and our son (who is not here because he is in school today).
 I’m also so glad that my Mom, Alice, is here today along with my Step-dad Sam; and my sister Juliet.
 And thank you all for being here.
@@ -78,13 +74,14 @@ Disaster recovery.
 Transportation funding.
 The list is long.
 Let’s take just one example: healthcare.
-With the expiration of federal credits at the end of last year, many middle-income Vermonters relying on the state exchange for health insurance faced a terrible choice: 1) pay as much as $10,000 more a year for individual coverage (or $32,000 more for a family of four), 2) accept far worse coverage, or 3) go without insurance altogether.
-In the face of these increased costs imposed by the federal government, over 2,500 Vermonters felt they had no other choice but to go uninsured.
-Additionally, an estimated 16,000 Vermonters are expected to lose Medicaid coverage due to federal policy changes, with an estimated cut of nearly $2.7 billion in federal Medicaid funding to Vermont over ten years.
-It's a similar story with food assistance: as many as 40,000 households in Vermont could see their access to 3Squares Vermont affected, with federal funding for food assistance via SNAP benefits expected to decline by between $7 to $22 million a year.
+With the expiration of federal credits at the end of last year, many middle-income Vermonters relying on the state exchange for health insurance faced a terrible choice: 1) pay as much as $10,000 more a year for individual coverage (or $32,000 more for a family of four ), 2) accept far worse coverage, or 3) go without insurance altogether.
+In the face of these increased costs imposed by the federal government, over 2,500 Vermonters felt they had no other choice but to go uninsured .
+Additionally, an estimated 16,000 Vermonters are expected to lose Medicaid coverage due to federal policy changes , with an estimated cut of nearly $2.7 billion in federal Medicaid funding to Vermont over ten years.
+It's a similar story with food assistance: as many as 40,000 households in Vermont could see their access to 3Squares Vermont affected, with federal funding for food assistance via SNAP benefits expected to decline by between $7 to $22 million a year .
 Those are some of the injuries.
-But here’s the insult: with the passage of H.R. 1 – the Trump megabill – the top 1% of Vermont income earners are now set to receive an average annual tax cut of $57,000 a year, beginning this year.
-That’s the new equation: cut vital services for those just trying to get by to pay for tax cuts for the wealthiest.
+But here’s the insult: with the passage of H.R.
+1 – the Trump megabill – the top 1% of Vermont income earners are now set to receive an average annual tax cut of $57,000 a year , beginning this year.
+That’s the new equation: cut vital services for those just trying to get by to pay for tax cuts for the wealthiest .
 Here’s what I believe: Taking away food assistance and health assistance from those who need it to pay for massive tax cuts for the top 1% who don’t need it is wrong.
 It is wrong.
 I believe this down to my core and it is one of the biggest reasons I am motivated to run.
@@ -103,11 +100,7 @@ I spoke about history earlier and I have to say that today I’m particularly aw
 He was a stone mason who immigrated from Antrim, Ireland to Montpelier in the early-1800’s.
 He worked in the granite sheds here in Montpelier and he helped work some of the granite that forms our State House.
 As I stand with you today, I want to share that it would be one of the greatest honors of my life if you were to entrust me with responsibility to craft policy with and on behalf of working Vermonters from the Statehouse that he helped build as a laborer.
-Because I believe that no matter the chaos, cruelty, and corruption happening nationally, here in Vermont - in that State House - our government can and should be defined this: competence and care for the common good.
-with elected officials who are guided by science and by reason;
-who listen to you and to each other;
-who honor our past while working to protect our future;
-and who have a rock solid commitment to civil rights, the rule of law, and our democracy.
+Because I believe that no matter the chaos, cruelty, and corruption happening nationally, here in Vermont - in that State House - our government can and should be defined this: competence and care for the common good. with elected officials who are guided by science and by reason; who listen to you and to each other; who honor our past while working to protect our future; and who have a rock solid commitment to civil rights, the rule of law, and our democracy.
 I don’t have all the answers.
 I don’t claim to, I don’t pretend to.
 We face deep, complex, and interrelated challenges.
@@ -125,3 +118,9 @@ And, if elected and re-elected, we will continue working together to do so; to r
 I want to end by thanking you for being here today.
 I hope to have or to earn your support ahead of the August 11th Democratic primary.
 And I hope you will also support Representative McCann, who I am very excited to campaign with and who I hope to serve alongside.
+Jared Duval Previous Previous Campaign Announcement Coverage in The Bridge Next Next Commentary by Jared: The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1% Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Get the scoop!
+Subscribe to learn more about me, find out what’s happening with the campaign, and get involved.
+First Name Last Name Email Address Subscribe Thank you!
+BACK TO TOP | ABOUT | CONTACT Donate © # Duval for State Representative

@@ -1,4 +1,4 @@
-Politics likes to make everything black and white.
+Trent Dilks MN13 Trent Dilks MN13 Trent Dilks MN13 Trent Dilks MN13 Home About Policy Contact Support Real People Trent Dilks MN13 Trent Dilks MN13 Trent Dilks MN13 Trent Dilks MN13 Home About Policy Contact Support Real People More Home About Policy Contact Support Real People Home About Policy Contact Support Real People Nontraditional is one way to put it Politics likes to make everything black and white.
 Real life rarely works that way.
 That's where I'm different.
 I believe in common sense solutions, and I don't believe every issue has to end with two sides yelling from opposite corners.
@@ -10,16 +10,19 @@ I've worked on farms, picked vegetables, packed meat, served two deployment for 
 Paul.
 Now I'm raising my family here in Central Minnesota, and the things I care about aren't complicated: good schools for our kids, communities where families can afford to live, opportunities to build a good life, and leaving this place a little better than we found it.
 That's a big part of why I'm running.
-Want to know more about me reach out any time at: Trent@Trenformn13.com
-I served 10 years in the Minnesota National Guard, including two deployments in support of Operation Iraqi Freedom.
+Want to know more about me reach out any time at: Trent@Trenformn13.com Combat Veteran Veterans Advocate Veterans Advocate I served 10 years in the Minnesota National Guard, including two deployments in support of Operation Iraqi Freedom.
 My first was a 22-month deployment 16 months in Iraq, running convoy missions as a machine gunner.
 Those experiences shaped how I understand service, leadership, and the responsibility we have to the people we send to war.
-For more than a decade, I've fought for Minnesota's veterans at the State Capitol, not just talking about change, but making it happen.
+Veterans Advocate Veterans Advocate Veterans Advocate For more than a decade, I've fought for Minnesota's veterans at the State Capitol, not just talking about change, but making it happen.
 I've worked across party lines to pass legislation, build programs, and make sure veterans and their families have a strong voice in St.
 Paul.
 It's where I learned that getting things done matters a whole lot more than who gets the credit.
-Of all the titles I've had, Dad is the one that matters most.
+Dad Veterans Advocate Dad Of all the titles I've had, Dad is the one that matters most.
 Valerie and I are raising our family here in Central Minnesota, and like a lot of families, we're thinking about schools, grocery bills, healthcare, childcare, and what kind of future our kids will inherit.
 Running for office is ultimately about them, and about making sure every family has a fair shot at building a good life here.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Stay Engaged Get in Touch The Best way to get in touch with me is to email me at _________ or with the message box below.
+I look forward to hearing from you.
+Name Email* Join our community updates for the latest news and information.
+Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Copyright © # Trent For MN13 - All Rights Reserved.
+Paid for by Trent for MN 13, trentformn13.com, PO Box 56, Saint Joseph, MN 56374 Powered by

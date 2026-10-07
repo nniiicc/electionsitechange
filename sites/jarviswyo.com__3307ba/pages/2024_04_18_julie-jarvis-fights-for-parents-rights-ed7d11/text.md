@@ -1,6 +1,6 @@
-Parental and school partnerships are best for families.
+Video Learn More About Julie Julie’s Views Contribute Donate Request a Yard Sign Volunteer Contact About Julie Julie Jarvis fights for parents’ rights April 18, 2024 Parental and school partnerships are best for families.
 Parents know what’s best for their kids.
 With a long-standing background in education, Julie understands the importance of proactive parents being involved in their child’s classroom.
 She is an unrelenting advocate of parental rights and will fight to keep decisions about your kids in your hands.
 Our state’s future depends on our youth, and they rely on an innovative, forward-thinking public education system accessible to all Wyoming students.
-With a master’s degree in elementary education and a doctorate in educational leadership, Julie will champion collaborative instruction.
+With a master’s degree in elementary education and a doctorate in educational leadership, Julie will champion collaborative instruction. previous Julie Jarvis is a Wyoming native next Julie Jarvis fights for true freedom Latest News Meet Julie Jarvis Julie Jarvis fights for true freedom Julie Jarvis fights for parents’ rights Categories About Julie Paid for by Friends of Julie Jarvis Contact julie@jarviswyo.com Friends of Julie Jarvis PO Box 511 Casper, WY 82602 Popular Links Meet Julie Julie’s Views Contact Contact form 1 News Contact

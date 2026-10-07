@@ -1,19 +1,7 @@
-The Issues
-Protecting Kids Online
-Cyberbullying, online violence, and the harmful effects of social media are harming our children’s mental health.
-I introduced legislation that:
-- Sets a minimum age of 14 to open a social media account (with parental consent for younger users)
-- Gives families — not tech companies — control over when and how their children access social media
-Stay Connected
-Latest From The Campaign
-Senator Coleman secures $13.2 million in local infrastructure investments
-Senator Julia Coleman has secured $13.2 million in critical local infrastructure investments for District 48
-Assistant Leader Coleman, Senate Republicans deliver tab fee tax cut for Minnesota
-Senator Julia Coleman announced a quarter-billion-dollar tab fee tax cut for Minnesotans
-Coleman, Senate Republicans propose ‘Tax Relief that Makes a Difference’
-Senate Republicans today released several bills to provide tax relief that will make a difference in the lives of Minnesotans
-Join Us
-Your Involvement Is Important
-We can't do this without you!
+Skip To Main Home Meet Julia Issues Latest Get Involved Donate Menu Get Involved Donate Home Meet Julia Issues Latest Get Involved Donate The Issues Protecting Kids Online Get Involved Donate Today Cyberbullying, online violence, and the harmful effects of social media are harming our children’s mental health.
+I introduced legislation that: Sets a minimum age of 14 to open a social media account (with parental consent for younger users) Gives families — not tech companies — control over when and how their children access social media Other Issue Topics Keeping Our Streets Safe Focused On Excellence In Education Fighting Fraud And Protecting Your Tax Dollars Helping The Family Budget Stay Connected Latest From The Campaign Senator Coleman secures $13.2 million in local infrastructure investments News Senator Julia Coleman has secured $13.2 million in critical local infrastructure investments for District 48 Read more Assistant Leader Coleman, Senate Republicans deliver tab fee tax cut for Minnesota News Senator Julia Coleman announced a quarter-billion-dollar tab fee tax cut for Minnesotans Read more Coleman, Senate Republicans propose ‘Tax Relief that Makes a Difference’ News Senate Republicans today released several bills to provide tax relief that will make a difference in the lives of Minnesotans Read more View All Updates Join Us Your Involvement Is Important We can't do this without you!
 Whether you contribute financially or with your time, you can make a difference.
 Don't sit on the sidelines — get involved today!
+Get Involved Donate Today Home Meet Julia Issues Latest Get Involved Donate Prepared & Paid For by Julia for MN P.O.
+Box 339, Chanhassen, MN 55317 © #-# Julia for MN.
+All rights reserved. | Privacy Policy

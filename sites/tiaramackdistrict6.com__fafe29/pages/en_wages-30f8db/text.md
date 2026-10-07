@@ -1,10 +1,4 @@
-WAGES
-HOUSING // EDUCATION // CRIMINAL JUSTICE // GUN POLICY // ELECTIONS // TAXES // WAGES // HEALTHCARE
-TIARA SUPPORTS
-- $15 minimum wage
-Read time: 5 minutes
-THE CURRENT SYSTEM IS BROKEN
-Our economy is radically unfair.
+0 Skip to Content Tiara Mack, RI Senate District 6 About Why I'm Running What We Believe Issues Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Cuestiones Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Contact Reach Out Social Media Contribute / Contribuir Open Menu Close Menu Tiara Mack, RI Senate District 6 About Why I'm Running What We Believe Issues Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Cuestiones Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Contact Reach Out Social Media Contribute / Contribuir Open Menu Close Menu Folder: About Back Why I'm Running What We Believe Folder: Issues Back Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Folder: Cuestiones Back Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Folder: Contact Back Reach Out Social Media Contribute / Contribuir WAGES HOUSING // EDUCATION // CRIMINAL JUSTICE // GUN POLICY // ELECTIONS // TAXES // WAGES // HEALTHCARE TIARA SUPPORTS $15 minimum wage Read time: 5 minutes THE CURRENT SYSTEM IS BROKEN Our economy is radically unfair.
 In Rhode Island, as well as the rest of the country, inflation vastly outpaces wage growth for all but the very richest Americans.
 This trend has endured for decades.
 In fact, after adjusting for inflation, most Americans have seen no significant wage increase since the early 1970s.
@@ -20,15 +14,13 @@ People working minimum wage jobs are unable to afford basic necessities like foo
 Approximately 11% of Rhode Island households suffer from chronic food insecurity.
 Housing is also out of reach for minimum wage earners.
 A Rhode Island resident earning minimum wage has to work sixty-six hours per week to afford the fair market value of a modest, one-bedroom apartment, and they have to work seventy-nine hours per week to afford a two-bedroom apartment.
-JUSTICE FOR WORKERS
-This is unacceptable.
+JUSTICE FOR WORKERS This is unacceptable.
 All candidates in the Rhode Island Political Cooperative will fight to increase the minimum wage to at least $15 per hour.
 A full-time, year-round employee with this salary earns $31,200 annually before taxes.
 Additionally, we will ensure that tipped employees get treated fairly.
 This means completely eliminating the separate, lower minimum wage applied to tipped employees, and abolishing the unjust “tip credit” system that permits employers to deduct money from their employees’ paychecks.
 Finally, we must ensure that the minimum wage automatically rises with inflation, so that a minimum wage employee’s purchasing power does not deteriorate over time.
-RAISING THE MINIMUM WAGE IMPROVES THE ECONOMY
-Research consistently indicates that increasing the minimum wage benefits the economy.
+RAISING THE MINIMUM WAGE IMPROVES THE ECONOMY Research consistently indicates that increasing the minimum wage benefits the economy.
 Most significantly, raising the minimum wage can help reduce what economists refer to as the “deficient aggregate demand problem,” a technical term that refers to the fact that our economy routinely produces more goods and services than people can afford to buy.
 Raising the minimum wage helps to address this problem by increasing the purchasing power of low-income workers.
 Because they lack substantial savings to draw on, these individuals quickly use the additional money that they receive from a minimum wage increase, prompting consumer spending growth, and increasing sales and profits for local businesses.
@@ -52,8 +44,7 @@ This increases what economists refer to as “friction” within the low-income 
 A high-friction job market is costly and inefficient, harming both workers and employers.
 Raising the minimum wage reduces turnover rates in the low-wage labor market by encouraging employees to stay at their current jobs, reducing the level of friction.
 This allows workers to enjoy greater job stability and allows businesses to pocket the money that they would otherwise spend on continuously filling new vacancies.
-RAISING THE MINIMUM WAGE IMPROVES PUBLIC HEALTH
-Researchers have found that raising the minimum wage allows low-income individuals to see their doctor more frequently, reducing the likelihood that their medical needs go unmet.
+RAISING THE MINIMUM WAGE IMPROVES PUBLIC HEALTH Researchers have found that raising the minimum wage allows low-income individuals to see their doctor more frequently, reducing the likelihood that their medical needs go unmet.
 This saves lives.
 By increasing access to healthcare, raising the minimum wage directly reduces the incidence of premature deaths, particularly involving diseases (like diabetes) that are more prevalent among low-income communities.
 Similarly, studies have found that raising the minimum wage consistently increases life expectancy.
@@ -63,8 +54,7 @@ In general, a $1 increase in the minimum wage tends to reduce the incidence of c
 Similarly, a $1 increase in the minimum wage has been found to reduce adolescent birth rates by approximately 2%.
 Studies also indicate that raising the minimum wage improves mental health.
 This last point is particularly important in Rhode Island which has the single highest rate of depression—6.4%—out of every state in the entire country.
-RAISING THE MINIMUM WAGE PROMOTES RACIAL JUSTICE
-The median level of wealth for white families is $171,000.
+RAISING THE MINIMUM WAGE PROMOTES RACIAL JUSTICE The median level of wealth for white families is $171,000.
 For black families, it is $17,600.
 For Hispanic or Latinx families, it is $20,700.
 The racial wealth gap is exacerbated by systemic disparities in income.
@@ -72,8 +62,7 @@ Decisions regarding whom to hire, train, and promote reflect enduring patterns o
 Approximately 42% of all workers earn less than $15 per hour, but this number is over 50% among African American workers and nearly 60% among Hispanic or Latinx workers.
 Because nonwhite individuals disproportionately hold minimum wage jobs, raising the minimum wage would reduce the racial disparity in income which would in turn reduce the racial disparity in wealth.
 Increasing the minimum wage is a critical component of any serious project to build a fair and racially-inclusive state.
-RAISING THE MINIMUM WAGE WOULD NARROW THE GENDER INCOME GAP
-In Rhode Island, women are paid only eighty-four cents for every dollar paid to men.
+RAISING THE MINIMUM WAGE WOULD NARROW THE GENDER INCOME GAP In Rhode Island, women are paid only eighty-four cents for every dollar paid to men.
 This means that there is an annual wage gap of $9,037 between men and women in our state.
 This is the result of enduring patterns of discrimination in hiring, training, and promotion which create a system that routinely forces women into low-wage jobs.
 Women comprise less than half of the overall workforce, but they represent 54.7% of workers earning less than $15 per hour.
@@ -82,11 +71,14 @@ It is also why states that have raised their minimum wage have lower gender disp
 The gender pay gap is, on average, almost 25% wider in the 21 states that have not raised the minimum wage above the federal level.
 Rhode Island has a lot more work to do to reduce its gender pay gap.
 Raising the minimum wage to $15 per hour would be a very good start.
-IN ADDITION TO THE COOP’S POLICY ON LIVING WAGE
-Tiara supports the implementation of the ABC Test.
+IN ADDITION TO THE COOP’S POLICY ON LIVING WAGE Tiara supports the implementation of the ABC Test.
 The ABC Test, passed by California last year, provides a stricter definition of an independent contractor.
 To be an independent contractor, the company must prove that the worker is free from the company’s control, performs work outside the company's primary business, and is regularly engaged in the trade the worker is hired for, independent of work for the company.
 In reality, what this means is that many gig economy workers (Lyft, Uber, etc…) who were previously classified as independent contractors can now be considered employees.
 This is a win for labor advocates in California, as companies now must pay them minimum wage and give them overtime protection.
 These companies have been exploiting their workers for too long under the guise of flexibility.
 Members of the gig economy deserve to be considered employees, and Tiara will fight to make this a reality in Rhode Island.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Campaign For info and updates First Name Last Name Email Address JOIN US Thank you!
+CONTACT // TIARAMACKRI@GMAIL.COM // +1 (401) 288-1288 CONTRIBUTE / CONTRIBUIR

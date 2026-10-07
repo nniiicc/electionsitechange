@@ -1,4 +1,2 @@
-Around the 18th
-Photos of the Amazing people I interact with throughout the 18th District. #IllinoisCitizensFirst
-Shanahan McGovern for Faith Family & Freedom
-Powered by CampaignPartner.com - Political Websites
+Meet Christine Issues Volunteer Donate Contact Events Around the 18th Photos of the Amazing people I interact with throughout the 18th District.
+#IllinoisCitizensFirst Christine Shanahan McGovern For District 36 #IllinoisCitizensFirst Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

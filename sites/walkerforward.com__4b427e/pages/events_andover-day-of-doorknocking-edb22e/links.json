@@ -1,21 +1,90 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://google.com/calendar/event?action=TEMPLATE&text=Andover+Day+of+Doorknocking&dates=20261010T170000Z%2F20261010T203000Z&location=1900+Crosstown+Boulevard+Northwest%2C+Andover%2C+Minnesota%2C+55304%2C+United+States",
-"http://instagram.com/walker.forward",
-"http://maps.google.com/?q=1900+Crosstown+Boulevard+Northwest+Andover%2C+Minnesota%2C+55304+United+States",
-"https://mobilize.us/dflcc/event/1027832",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/events/andover-day-of-doorknocking?format=ical",
-"https://walkerforward.com/events/vote-early-in-person-or-by-mail",
-"https://walkerforward.com/events/voting-early-registration-deadline",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1900+crosstown+boulevard+northwest+andover%2C+minnesota%2C+55304+united+states"
+},
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Andover+Day+of+Doorknocking&dates=20261010T170000Z%2F20261010T203000Z&location=1900+Crosstown+Boulevard+Northwest%2C+Andover%2C+Minnesota%2C+55304%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.walkerforward.com/events/andover-day-of-doorknocking?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Next Next October 13 Voting: Early Registration Deadline",
+"href": "https://www.walkerforward.com/events/voting-early-registration-deadline"
+},
+{
+"text": "Previous Previous September 19 Vote Early: In Person or by Mail",
+"href": "https://www.walkerforward.com/events/vote-early-in-person-or-by-mail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Sign Up Here",
+"href": "https://www.mobilize.us/dflcc/event/1027832/"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+}
 ]

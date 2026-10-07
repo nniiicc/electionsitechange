@@ -1,4 +1,4 @@
-Edgar’s Priorities
-- Lower Costs for Families: Lower costs for Arizonans and make utilities, childcare, healthcare, housing, and everyday essentials more affordable
-- Strengthen Public Education: Edgar will work to strengthen public schools, support educators, and make sure every child has the opportunity to succeed.
-- Support strong public safety Edgar will support strong public safety and ensure that local law enforcement has the resources it needs
+0 Skip to Content About Edgar Priorities Contact Donate Open Menu Close Menu About Edgar Priorities Contact Donate Open Menu Close Menu About Edgar Priorities Contact Donate Edgar’s Priorities Lower Costs for Families: Lower costs for Arizonans and make utilities, childcare, healthcare, housing, and everyday essentials more affordable Strengthen Public Education: Edgar will work to strengthen public schools, support educators, and make sure every child has the opportunity to succeed.
+Support strong public safety Edgar will support strong public safety and ensure that local law enforcement has the resources it needs Join The Mailing List Paid For By Soto For Arizona.
+Authorized By Edgar Soto.
+Use of military rank, job titles, photographs in uniform, or mention of military service does not imply endorsement by the United States Marine Corps, the Department of Defense, or the United States Government.

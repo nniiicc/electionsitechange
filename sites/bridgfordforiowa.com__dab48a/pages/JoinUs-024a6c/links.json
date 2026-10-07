@@ -1,15 +1,54 @@
 [
-"https://bridgfordforiowa.com/",
-"https://bridgfordforiowa.com/About",
-"https://bridgfordforiowa.com/Contact",
-"https://bridgfordforiowa.com/Events",
-"https://bridgfordforiowa.com/Fellowship",
-"https://bridgfordforiowa.com/Issues",
-"https://bridgfordforiowa.com/Merch",
-"https://bridgfordforiowa.com/News",
-"https://bridgfordforiowa.com/PastEvents",
-"https://bridgfordforiowa.com/PrivacyPolicy",
-"https://bridgfordforiowa.com/TermsAndConditions",
-"https://bridgfordforiowa.com/WhyImRunning",
-"https://bridgfordforiowa.com/mediakit"
+{
+"text": "About",
+"href": "https://bridgfordforiowa.com/About"
+},
+{
+"text": "Contact",
+"href": "https://bridgfordforiowa.com/Contact"
+},
+{
+"text": "Events",
+"href": "https://bridgfordforiowa.com/Events"
+},
+{
+"text": "Fellowship",
+"href": "https://bridgfordforiowa.com/Fellowship"
+},
+{
+"text": "Home",
+"href": "https://bridgfordforiowa.com/"
+},
+{
+"text": "Issues",
+"href": "https://bridgfordforiowa.com/Issues"
+},
+{
+"text": "Media Kit",
+"href": "https://bridgfordforiowa.com/mediakit"
+},
+{
+"text": "Merch",
+"href": "https://bridgfordforiowa.com/Merch"
+},
+{
+"text": "News",
+"href": "https://bridgfordforiowa.com/News"
+},
+{
+"text": "Past Events Page",
+"href": "https://bridgfordforiowa.com/PastEvents"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bridgfordforiowa.com/PrivacyPolicy"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://bridgfordforiowa.com/TermsAndConditions"
+},
+{
+"text": "Why Im Running",
+"href": "https://bridgfordforiowa.com/WhyImRunning"
+}
 ]

@@ -1,9 +1,5 @@
-Back to All Events
-Join us on Tuesday, July 15 for our Volunteer Kickoff via Zoom and be part of building a people powered campaign for Maine. https://www.supportrickbennett.com/7_15_volunteer
-Previous
-Previous
-July 11
-March with Rick at the Moxie Parade
-Next
-Next
-July 18
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Volunteer Kickoff Wednesday, July 15, 2026 7:00 PM 8:00 PM Google Calendar ICS Join us on Tuesday, July 15 for our Volunteer Kickoff via Zoom and be part of building a people powered campaign for Maine. https://www.supportrickbennett.com/7_15_volunteer Source: https://www.supportrickbennett.com/7_15_volunteer Previous Previous July 11 March with Rick at the Moxie Parade Next Next July 18 March with Rick in the Potato Blossom Parade Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

@@ -1,35 +1,142 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/es/contactanos",
-"https://ayannapressley.com/es/ella-es-ayanna",
-"https://ayannapressley.com/es/informacion-de-votantes",
-"https://ayannapressley.com/es/prioridades",
-"https://ayannapressley.com/es/prioridades/abordar-el-impacto-de-la-violencia-y-el-trauma",
-"https://ayannapressley.com/es/prioridades/acabar-con-arraigadas-disparidades-de-salud",
-"https://ayannapressley.com/es/prioridades/ampliando-la-oportunidad-educativa",
-"https://ayannapressley.com/es/prioridades/de-pie-con-la-comunidad-lgbtq",
-"https://ayannapressley.com/es/prioridades/enfrentando-la-crisis-climatica",
-"https://ayannapressley.com/es/prioridades/imaginando-el-futuro-del-transporte",
-"https://ayannapressley.com/es/prioridades/la-vivienda-es-un-derecho-humano",
-"https://ayannapressley.com/es/prioridades/politica-exterior-centrada-en-la-empatia-y-la-busqueda-de-la-paz",
-"https://ayannapressley.com/es/prioridades/proteccion-de-los-derechos-de-las-mujeres-y-ninas-cisgenero-y-transgenero",
-"https://ayannapressley.com/es/prioridades/transformando-nuestro-sistema-de-injusticia-criminal",
-"https://ayannapressley.com/es/prioridades/un-sistema-migratorio-justo-y-compasivo",
-"https://ayannapressley.com/es/prioridades/una-economia-que-trabaje-para-todos",
-"https://ayannapressley.com/es/privacidad",
-"https://ayannapressley.com/es/voluntarios",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Abordar el impacto de la violencia y el trauma",
+"href": "https://ayannapressley.com/es/prioridades/ampliando-la-oportunidad-educativa/"
+},
+{
+"text": "Abordar las disparidades arraigadas en el cuidado de la salud",
+"href": "https://ayannapressley.com/es/prioridades/imaginando-el-futuro-del-transporte/"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Contacto",
+"href": "https://ayannapressley.com/es/contactanos/"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Educación para todos",
+"href": "https://ayannapressley.com/es/prioridades/acabar-con-arraigadas-disparidades-de-salud/"
+},
+{
+"text": "El Aborto como un Derecho Humano",
+"href": "https://ayannapressley.com/es/prioridades/abordar-el-impacto-de-la-violencia-y-el-trauma/"
+},
+{
+"text": "Ella es Ayanna",
+"href": "https://ayannapressley.com/es/ella-es-ayanna/"
+},
+{
+"text": "Enfrentando el Odio y la Violencia",
+"href": "https://ayannapressley.com/es/prioridades/proteccion-de-los-derechos-de-las-mujeres-y-ninas-cisgenero-y-transgenero/"
+},
+{
+"text": "Enfrentando la Crisis Climática",
+"href": "https://ayannapressley.com/es/prioridades/un-sistema-migratorio-justo-y-compasivo/"
+},
+{
+"text": "Eventos",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Imaginando el futuro del transporte",
+"href": "https://ayannapressley.com/es/prioridades/la-vivienda-es-un-derecho-humano/"
+},
+{
+"text": "Información de votantes",
+"href": "https://ayannapressley.com/es/informacion-de-votantes/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "La vivienda como derecho humano",
+"href": "https://ayannapressley.com/es/prioridades/transformando-nuestro-sistema-de-injusticia-criminal/"
+},
+{
+"text": "Luchando por una economía justa",
+"href": "https://ayannapressley.com/es/prioridades/politica-exterior-centrada-en-la-empatia-y-la-busqueda-de-la-paz/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Política exterior centrada en la empatía y la búsqueda de la paz",
+"href": "https://ayannapressley.com/es/prioridades/enfrentando-la-crisis-climatica/"
+},
+{
+"text": "Prioridades",
+"href": "https://ayannapressley.com/es/prioridades/"
+},
+{
+"text": "Privacidad",
+"href": "https://ayannapressley.com/es/privacidad/"
+},
+{
+"text": "Tienda",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Transformando Nuestro Sistema Legal",
+"href": "https://ayannapressley.com/es/prioridades/de-pie-con-la-comunidad-lgbtq/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Un sistema de inmigración justo y humano",
+"href": "https://ayannapressley.com/es/prioridades/una-economia-que-trabaje-para-todos/"
+},
+{
+"text": "Voluntarios",
+"href": "https://ayannapressley.com/es/voluntarios/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+}
 ]

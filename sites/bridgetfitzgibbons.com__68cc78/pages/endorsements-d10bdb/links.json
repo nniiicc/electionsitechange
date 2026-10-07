@@ -1,14 +1,70 @@
 [
-"https://bridgetfitzgibbons.com/",
-"https://bridgetfitzgibbons.com/cdn-cgi/l/email-protection",
-"https://bridgetfitzgibbons.com/endorsements",
-"https://bridgetfitzgibbons.com/issues",
-"https://bridgetfitzgibbons.com/media",
-"https://bridgetfitzgibbons.com/meet-bridget",
-"https://bridgetfitzgibbons.com/privacy-policy",
-"https://bridgetfitzgibbons.com/terms",
-"https://facebook.com/bridgetforarizona",
-"https://instagram.com/bridgetforarizona",
-"https://secure.anedot.com/bridget/donate",
-"https://youtube.com/@bridgetforarizona"
+{
+"text": "Click to Support Dr. Fitzgibbons!",
+"href": "https://secure.anedot.com/bridget/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bridget/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/bridget/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://bridgetfitzgibbons.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://bridgetfitzgibbons.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://bridgetfitzgibbons.com/media/"
+},
+{
+"text": "Meet Bridget",
+"href": "https://bridgetfitzgibbons.com/meet-bridget/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bridgetfitzgibbons.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://bridgetfitzgibbons.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://bridgetfitzgibbons.com/terms/"
+},
+{
+"text": "Terms and Conditions.",
+"href": "https://bridgetfitzgibbons.com/terms/"
+},
+{
+"text": "[email protected]",
+"href": "https://bridgetfitzgibbons.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@bridgetfitzgibbons.com"
+},
+{
+"text": "[image: Political campaign logo for Bridget Fitzgibbons]",
+"href": "https://bridgetfitzgibbons.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bridgetforarizona"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bridgetforarizona"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@bridgetforarizona"
+}
 ]

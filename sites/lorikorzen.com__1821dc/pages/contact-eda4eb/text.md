@@ -1,37 +1,8 @@
-Lori Korzen
-About
-Priorities
-Community
-Events
-Donate
-Get In Touch
-We’d love to hear from you — reach out, ask questions, or join the team.
-Send a Message
-Your Name *
-Email Address *
-Phone Number
-Your Message
-Ways to Get Involved
-Door Knocking
-Phone Banking
-Yard Signs
-Event Help
-Social Media
-Other
-I agree to receive recurring text messages from Lori Korzen and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
+Lori Korzen About Priorities Community Events Donate Get In Touch We’d love to hear from you — reach out, ask questions, or join the team.
+Send a Message Your Name * Email Address * Phone Number Your Message Ways to Get Involved Door Knocking Phone Banking Yard Signs Event Help Social Media Other I agree to receive recurring text messages from Lori Korzen and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
 Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to opt out, HELP for help.
-See our
-Privacy Policy
-and
-Terms
-.
-Send Message
-Contact Information
-Email
-[email protected]
-Phone
-[phone protected]
-Address
-788 Kent Street, Berlin, NH 03570
+See our Privacy Policy and Terms .
+Send Message Contact Information Email [email protected] Phone [phone protected] Address 788 Kent Street, Berlin, NH 03570 Lori Korzen Republican State Representative Coos County District 7 Explore About Lori Priorities Community Events Donate District Berlin Carroll Jefferson Kilkenny Whitefield Contact [email protected] [phone protected] 788 Kent Street Paid for by Lori Korzen, 788 Kent Street, Berlin, NH 03570, Lori Korzen chairman © # Lori Korzen for Coos 7.
+All rights reserved.

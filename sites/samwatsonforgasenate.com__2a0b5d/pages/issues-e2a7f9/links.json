@@ -1,7 +1,26 @@
 [
-"https://facebook.com/votesamwatson",
-"https://samwatsonforgasenate.com/",
-"https://samwatsonforgasenate.com/contact-sam",
-"https://samwatsonforgasenate.com/issues",
-"https://twitter.com/VoteSamWatson"
+{
+"text": "Contact Sam",
+"href": "https://samwatsonforgasenate.com/contact-sam"
+},
+{
+"text": "Home",
+"href": "https://samwatsonforgasenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://samwatsonforgasenate.com/issues"
+},
+{
+"text": "[image: Sam Watson for GA Senate]",
+"href": "https://samwatsonforgasenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesamwatson"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/VoteSamWatson"
+}
 ]

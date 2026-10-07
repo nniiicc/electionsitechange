@@ -1,20 +1,90 @@
 [
-"http://paypal.com/",
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/16kxF58ES1kfKHDaYytm0ujnWVRPO5UKX?usp=drive_link",
-"https://facebook.com/peopleforpedersen",
-"https://instagram.com/peopleforpedersen",
-"https://peopleforpedersen.org/",
-"https://peopleforpedersen.org/about",
-"https://peopleforpedersen.org/contact",
-"https://peopleforpedersen.org/endorsements",
-"https://peopleforpedersen.org/issues",
-"https://peopleforpedersen.org/media-gallery",
-"https://peopleforpedersen.org/news",
-"https://peopleforpedersen.org/volunteer",
-"https://secure.actblue.com/donate/jamie-pedersen-3",
-"https://secure.actblue.com/donate/jamie-pedersen-3?amount=100",
-"https://secure.actblue.com/donate/jamie-pedersen-3?amount=250",
-"https://secure.actblue.com/donate/jamie-pedersen-3?amount=50",
-"https://secure.actblue.com/donate/jamie-pedersen-3?amount=500"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3?amount=100"
+},
+{
+"text": "$1200",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3?amount-1200="
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.peopleforpedersen.org/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.peopleforpedersen.org/issues"
+},
+{
+"text": "Contact",
+"href": "https://www.peopleforpedersen.org/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peopleforpedersen.org/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.peopleforpedersen.org/media-gallery"
+},
+{
+"text": "Media Gallery",
+"href": "https://drive.google.com/drive/folders/16kxF58ES1kfKHDaYytm0ujnWVRPO5UKX?usp=drive_link"
+},
+{
+"text": "News",
+"href": "https://www.peopleforpedersen.org/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3"
+},
+{
+"text": "PayPal.com",
+"href": "http://paypal.com"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.peopleforpedersen.org/volunteer"
+},
+{
+"text": "[image: Jamie Pedersen for Re-election logo]",
+"href": "https://www.peopleforpedersen.org/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.peopleforpedersen.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/peopleforpedersen"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/peopleforpedersen"
+},
+{
+"text": "campaign@peopleforpedersen.org.",
+"href": "mailto:campaign@peopleforpedersen.org"
+},
+{
+"text": "link to contribute via ActBlue",
+"href": "https://secure.actblue.com/donate/jamie-pedersen-3"
+}
 ]

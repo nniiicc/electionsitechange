@@ -1,29 +1,3 @@
-2026 ENDORSEMENTS
-Donald Trump
-U.S.
-President
-Ted Cruz
-U.S.
-Senator
-Greg Abbott
-Texas Governor
-Sid Miller
-Texas Agriculture Commissioner
-Ken Paxton
-Texas Attorney General
-Dawn Buckingham
-Texas Land Commissioner
-Katrina Pierson
-Texas State Representative
-Mike Olcott
-Texas State Representative
-Andy Hopper
-Texas State Representative
-Janis Holt
-Texas State Representative
-Keresa Richardson
-Texas Land Commissioner
-Bruce Dawsey
-Grayson County Judge
-Brent Lawson
-Grayson GOP Chair
+Skip links Skip to primary navigation Skip to content Home Meet Shelley Issues Legislative Accomplishments Constitutional Amendments Election Endorsements Get Involved Donate Red River Roll Call Photos DONATE Home Meet Shelley Issues Legislative Accomplishments Constitutional Amendments Election Endorsements Get Involved Donate Red River Roll Call Photos 2026 ENDORSEMENTS Donald Trump U.S.
+President Ted Cruz U.S.
+Senator Greg Abbott Texas Governor Sid Miller Texas Agriculture Commissioner Ken Paxton Texas Attorney General Dawn Buckingham Texas Land Commissioner Katrina Pierson Texas State Representative Mike Olcott Texas State Representative Andy Hopper Texas State Representative Janis Holt Texas State Representative Keresa Richardson Texas Land Commissioner Bruce Dawsey Grayson County Judge Brent Lawson Grayson GOP Chair donate 105 S Britton St #302 Tom Bean, TX 75489 Pol Adv Paid for by the Shelley Luther Campaign Home Account Cart Search Adding {{itemName}} to cart Added {{itemName}} to cart Loading... ×

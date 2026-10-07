@@ -1,7 +1,26 @@
 [
-"https://electkimwallan.com/",
-"https://electkimwallan.com/about",
-"https://electkimwallan.com/donate",
-"https://electkimwallan.com/join-us",
-"https://electkimwallan.com/priorities"
+{
+"text": "About",
+"href": "https://www.electkimwallan.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.electkimwallan.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electkimwallan.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.electkimwallan.com/join-us"
+},
+{
+"text": "Priorities",
+"href": "https://www.electkimwallan.com/priorities"
+},
+{
+"text": "[image: New Inverted Logo.png]",
+"href": "https://www.electkimwallan.com"
+}
 ]

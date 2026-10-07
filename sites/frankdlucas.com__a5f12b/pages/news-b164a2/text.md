@@ -1,4 +1,17 @@
-Frank Lucas Endorses President Trump
-Today, Congressman Frank Lucas endorsed President Donald Trump’s campaign for U.S.
-President: “President Trump will stop illegal immigration, end runaway inflation and roll back Joe Biden’s disastrous, ideological assault on […]
-Read More
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate Latest From Team Lucas Latest From Team Lucas Share Frank Lucas Endorses President Trump January 11, 2024 Today, Congressman Frank Lucas endorsed President Donald Trump’s campaign for U.S.
+President: “President Trump will stop illegal immigration, end runaway inflation and roll back Joe Biden’s disastrous, ideological assault on […] Read More Share Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ November 4, 2020 I am deeply honored that my neighbors, my fellow Oklahomans, the voters of the Third District overwhelmingly voted for me to continue to be their voice in Washington, D.C.
+Whether […] Read More Share Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason October 16, 2020 Growing up in Oklahoma, you learn pretty quickly how important your neighbors are.
+Whether they’re there to lend a helping hand when times are tough or there to celebrate your […] Read More Share President Trump Endorses Frank Lucas for Congress June 26, 2020 Today, President Donald Trump endorsed Congressman Frank Lucas’ reelection bid to Oklahoma’s Third Congressional District: Frank Lucas is a product of common-sense Oklahoma values and is a conservative voice of […] Read More Share Frank Lucas Welcomes President Trump to Oklahoma June 18, 2020 “From the Panhandle of Western Oklahoma to the woods of Northeast Oklahoma, Oklahoma is Trump Country.
+I’m excited President Trump and the Trump Campaign will be making a stop in […] Read More Share Lucas presses USDA to clarify federal funding disparities for cattle producers June 3, 2020 U.S.
+Rep.
+Frank Lucas (R-OK) joined 50 Republican colleagues in requesting that the U.S.
+Department of Agriculture (USDA) immediately allow cattle producers that sold cattle after April 15 to be […] Read More Share Rep.
+Lucas leads push to get answers into beef pricing May 12, 2020 Congressman Frank Lucas, R-OK, wants answers for his cattlemen constituents.
+And he’s not alone.
+On May 1, Lucas delivered a bipartisan letter, signed by 24 of his House colleagues, to […] Read More Share Frank Lucas Running for Re-Election April 10, 2020 Today I filed for re-election to continue to serve as your Representative of Oklahoma’s Third Congressional District.
+Serving as the voice for rural Oklahoma has been the honor of a […] Read More Share Rep.
+Lucas says Green New Deal is a “Bad Deal” February 17, 2020 Oklahoma Congressman Frank Lucas is among those who contends the Green New Deal pushed by Democrats is really a “bad deal” for American consumers.
+He says Congress should hold immediate […] Read More Share Congressman Frank Lucas Talks About the Trade Wins of the Week- and Says Thank Goodness January 16, 2020 Radio Oklahoma Ag Network Farm Director Ron Hays talked on Thursday with Oklahoma Congressman Frank Lucas- and was on the line with the Republican from Roger Mills County when the […] Read More Load More Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

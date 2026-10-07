@@ -1,4 +1,9 @@
-Guest User 10/9/24 Guest User 10/9/24 Offering a New Vision for Our Future Read More Guest User 9/25/24 Guest User 9/25/24 A U.S.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Guest User 10/9/24 Guest User 10/9/24 Offering a New Vision for Our Future Read More Guest User 9/25/24 Guest User 9/25/24 A U.S.
 National Debt Crisis Is Coming - The Wall Street Journal Read More Guest User 9/18/24 Guest User 9/18/24 Meet and Greet Event with David Pan Read More Guest User 9/16/24 Guest User 9/16/24 Increasing government spending only makes our problems worse Read More Guest User 9/5/24 Guest User 9/5/24 Helping our immigrants by creating opportunities Read More Guest User 8/28/24 Guest User 8/28/24 Raising the Child Tax Credit Is a Bad Idea Read More Guest User 8/14/24 Guest User 8/14/24 Reforming Social Security to guarantee benefits into the future Read More Guest User 8/7/24 Guest User 8/7/24 How to receive $16,000 per year for life Read More Guest User 7/30/24 Guest User 7/30/24 Free Markets or Government Control?
 Read More Guest User 6/12/24 Guest User 6/12/24 David Pan Has a Plan Read More Guest User 6/5/24 Guest User 6/5/24 A New Approach to Public Safety Read More Guest User 5/29/24 Guest User 5/29/24 Democrats and Republicans can work together Read More Guest User 5/22/24 Guest User 5/22/24 Reducing government spending to create a universal basic income Read More Guest User 5/15/24 Guest User 5/15/24 Should parents be able to choose the best schools for their children?
-Read More Guest User 5/8/24 Guest User 5/8/24 A New Kind of Politics Read More
+Read More Guest User 5/8/24 Guest User 5/8/24 A New Kind of Politics Read More Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

@@ -1,14 +1,14 @@
-I am not here to create more laws but to repeal those that violate the Constitution, that have failed their purpose, or that place an unjust burden on the Coloradan people.
+top of page Pricella Tiegen Candidate for House District 15 Registered To Vote?
+HOME MEET PRICELLA PLATFORM GET INVOLVED DONATION More Use tab to navigate through the menu items.
+DONATE My Polling Place I am not here to create more laws but to repeal those that violate the Constitution, that have failed their purpose, or that place an unjust burden on the Coloradan people.
 I am a seasoned leader with over a decade of experience driving real change in Colorado communities.
-My career has been defined by a commitment to public service, personal responsibility, and strengthening local institutions values that resonate deeply with hardworking Coloradans.
-After 18 years of management at a billion dollar company, I began my journey in Colorado Springs working with at-risk youth, helping young people find purpose and direction.
-From 2018 to 2021, I founded and led Destiny Walkers, a nonprofit that partnered with public schools to increase volunteer engagement and build stronger community ties empowering families and educators to work together for student success.
-At the Colorado State Capitol, I have worked behind the scenes to support legislative staff and promote principled leadership.
-My efforts have helped foster a culture of integrity and accountability within the heart of state government.
-Holding a degree in Biblical Studies and certificate in Government, I now serve as the State Hispanic Director of Field Operations for Truth & Liberty, a conservative organization focused on educating and mobilizing citizens to engage in the civic process.
-I work closely with pastors, community leaders, and grassroots advocates to ensure that Colorado’s values faith, freedom, and family are represented in local and state decision-making.
-My work has earned national recognition, including an invitation to the White House Faith Office for my leadership within Colorado’s Hispanic community.
+My career has been defined by a commitment to public service, personal responsibility, and strengthening local institutions values that resonate deeply with hardworking Coloradans. ​ ​ After 18 years of management at a billion dollar company, I began my journey in Colorado Springs working with at-risk youth, helping young people find purpose and direction.
+From 2018 to 2021, I founded and led Destiny Walkers, a nonprofit that partnered with public schools to increase volunteer engagement and build stronger community ties empowering families and educators to work together for student success. ​ At the Colorado State Capitol, I have worked behind the scenes to support legislative staff and promote principled leadership.
+My efforts have helped foster a culture of integrity and accountability within the heart of state government. ​ Holding a degree in Biblical Studies and certificate in Government, I now serve as the State Hispanic Director of Field Operations for Truth & Liberty, a conservative organization focused on educating and mobilizing citizens to engage in the civic process.
+I work closely with pastors, community leaders, and grassroots advocates to ensure that Colorado’s values faith, freedom, and family are represented in local and state decision-making. ​ My work has earned national recognition, including an invitation to the White House Faith Office for my leadership within Colorado’s Hispanic community.
 To date, I have built relationships with over 360 churches across the state, equipping leaders with practical tools to engage in policy, education, and community development.
 My approach is grounded in the belief that strong families, limited government, and moral leadership are the foundation of a thriving society.
 I am running for office to restore common sense, protect constitutional freedoms, and give Colorado families a stronger voice in government.
 I believe in leading with conviction, standing up for what’s right, and putting the needs of the people first.
+HOME MEET PRICELLA PLATFORM GET INVOLVED DONATION More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Pricella Tiegen Candidate for House District 15 pricellatiegenhd15@gmail.com Paid for by the Committee to Elect Pricella Tiegen for House District 15, registered agent Pricella Tiegen bottom of page

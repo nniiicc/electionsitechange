@@ -1,5 +1,4 @@
-The Future Is Person Over Party
-As the No Labels nominee for Governor, I am excited to serve every Arizonan and help tear down the artificial walls that divide us by political party.
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE The Future Is Person Over Party As the No Labels nominee for Governor, I am excited to serve every Arizonan and help tear down the artificial walls that divide us by political party.
 Those walls have kept us fighting each other instead of solving the problems that matter most.
 Imagine an Arizona where you can proudly be a Republican, Democrat, Independent, Libertarian, Green, No Labels, or anything else—and still work together.
 We don’t have to agree on everything to accomplish great things.
@@ -12,15 +11,13 @@ Then I ask, “How do we solve it?” It really isn’t rocket science.
 It’s about putting people ahead of politics and common sense ahead of party loyalty.
 Let’s show the nation that we can be proud of our individual parties, or no party at all, while standing together as one Arizona.
 I am your gal, and I’m ready to fight for every Arizonan.
-Fighting for Change Against the Odds
-Every meaningful change in history has started with someone willing to challenge the status quo.
+Fighting for Change Against the Odds Every meaningful change in history has started with someone willing to challenge the status quo.
 I am running for Governor because Arizona deserves a future that is built on solutions—not on endless political division.
 For too long, we’ve been told that the only choices are the same two-party system that continues to divide our communities.
 I believe Arizona has an opportunity to move in a new direction—one where every voter has a voice and every idea is judged by its merit, not by party affiliation.
 As Governor, I will work every day to unite Arizonans around practical solutions, accountability, and a government that serves the people first.
 This campaign is about having the courage to fight for change, even when the odds are difficult, because Arizona is worth it.
-Government Should Serve the People
-Government exists to serve the people—not itself.
+Government Should Serve the People Government exists to serve the people—not itself.
 As your Governor, I will fight to restore accountability, transparency, and leadership that puts everyday Arizonans first.
 I am tired of watching one crisis after another overwhelm our state while too many leaders seem more focused on politics than on solving real problems.
 Arizona deserves a government that listens, acts, and serves with integrity.
@@ -40,13 +37,10 @@ Arizona, we have an opportunity to change what political leadership looks like.
 People over politics.
 Public service over special interests.
 Arizona first.
-Fighting for Change, Standing with Every Arizonan
-Real leadership means showing up when the challenges are greatest.
+Fighting for Change, Standing with Every Arizonan Real leadership means showing up when the challenges are greatest.
 Despite incredible odds, I have never stopped fighting for meaningful change because every Arizonan deserves to be heard, respected, and supported.
 As Governor, I will work to address the real issues affecting our communities, including expanding opportunities and resources for people with disabilities, helping those experiencing homelessness, and ensuring our state responds with compassion, accountability, and practical solutions.
-I care about the problems facing Arizona, and I will work every day to help build a stronger future for all of us
-Showing Up, Serving, and Earning Your Trust
-As Governor, I will not ignore communities that have been overlooked, underserved, or forgotten.
+I care about the problems facing Arizona, and I will work every day to help build a stronger future for all of us Showing Up, Serving, and Earning Your Trust As Governor, I will not ignore communities that have been overlooked, underserved, or forgotten.
 I will be in our communities—listening, serving, working alongside people, and fighting to make neighborhoods safer, stronger, healthier, and filled with greater opportunity.
 I know some people may look at me and see “just a white girl” running for Governor.
 But I am asking Arizonans to look beyond what I look like and judge me by what I do.
@@ -61,8 +55,7 @@ Leadership isn’t about showing up when cameras are there or when votes are nee
 It is about being present, listening, serving, and doing the work every single day.
 Arizona, I don’t expect you to simply trust my words.
 Let me prove it through my actions.
-I Am Not a Label
-Political parties are just labels—they are not a person’s character, values, or ability to lead.
+I Am Not a Label Political parties are just labels—they are not a person’s character, values, or ability to lead.
 Too often, people are judged by the letter next to their name instead of the ideas they bring and the integrity they live by.
 As an Independent, I know what it feels like to be put into a box.
 I refuse to let labels define me, and I won’t let them define Arizona.
@@ -70,8 +63,7 @@ As Governor, I will lead by listening, solving problems, and serving every Arizo
 People matter more than politics, and solutions matter more than slogans.
 We are more than labels.
 We are Arizona.
-Arizona Deserves Leadership That Puts People Before Politics
-Arizona deserves leadership that answers to the people—not to special interests or big-money donors.
+Arizona Deserves Leadership That Puts People Before Politics Arizona deserves leadership that answers to the people—not to special interests or big-money donors.
 I am not running to serve wealthy political insiders or corporate interests.
 I am running to serve the people of Arizona.
 Conflicts of interest have no place in public office.
@@ -92,8 +84,7 @@ It’s time to stop thinking in terms of party first and people second.
 Whether you’re Republican, Democrat, Independent, No Party Preference, Libertarian, Green, or No Labels, we can all choose to think independently.
 Arizona deserves leaders who put people over politics and solutions over division.
 Let’s build a government that works for all Arizonans—not for political parties.
-We Need Change, Candidate Over Party
-Teri Ann Hourihan for AZ Governor.
+We Need Change, Candidate Over Party Teri Ann Hourihan for AZ Governor.
 In Arizona and across the United States, we need to start voting for the person before the party.
 A political party should always come second to the character, integrity, and qualifications of the candidate seeking office.
 Throughout my life, I have believed in supporting people, not political labels.
@@ -109,3 +100,4 @@ I will work with our federal partners when it benefits Arizona, but I won’t us
 Arizonans deserve a Governor who focuses on solving problems, building partnerships, and delivering results—not pointing fingers.
 Leadership is about accountability.
 Arizona deserves a Governor who is ready to do the work.
+Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

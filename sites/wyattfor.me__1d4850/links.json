@@ -1,6 +1,38 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?trans_type=candidate&submit=Contribute",
-"https://facebook.com/profile.php?id=61588587534009",
-"https://wyattfor.me/privacy",
-"https://wyattfor.me/sms-terms"
+{
+"text": "(207) 242-0725",
+"href": "tel:+12072420725"
+},
+{
+"text": "Contribute $5 Through Maine Clean Elections",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?trans_type=candidate&submit=Contribute"
+},
+{
+"text": "Email me",
+"href": "mailto:beaulieuformaine@gmail.com?subject=Message+from+District+60"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588587534009"
+},
+{
+"text": "Follow me on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588587534009"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wyattfor.me/privacy/"
+},
+{
+"text": "Text Message Terms",
+"href": "https://wyattfor.me/sms-terms/"
+},
+{
+"text": "Text Message Terms & Conditions",
+"href": "https://wyattfor.me/sms-terms/"
+},
+{
+"text": "beaulieuformaine@gmail.com",
+"href": "mailto:beaulieuformaine@gmail.com"
+}
 ]

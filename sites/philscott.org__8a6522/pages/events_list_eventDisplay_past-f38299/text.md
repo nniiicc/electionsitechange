@@ -1,16 +1,11 @@
-VPR General Election Debate
-Live on VPR
-10 events found.
-- VPR General Election Debate Live on VPR
-- Farm Bureau Candidate Meet and Greet Trader Duke's Hotel, South Burlington
-- 14 County Tour Join Governor Phil Scott, our next Lt.
+Toggle navigation Join the Team Meet Phil Donate 10 events found.
+Events Views Navigation Event Views Navigation List List Month Day #ago 10/24/2018 October 24, 2018 - 10/7/2026 Now Select date.
+October 2018 Wed 24 VPR General Election Debate October 24, 2018 @ 7:00 pm - 8:00 pm Live on VPR November 2018 Thu 1 NBC Channel 5 Debate November 1, 2018 @ 7:00 pm - 8:00 pm Fri 2 Farm Bureau Candidate Meet and Greet November 2, 2018 @ 3:30 pm - 5:00 pm Trader Duke's Hotel, South Burlington Mon 5 14 County Tour November 5, 2018 Join Governor Phil Scott, our next Lt.
 Governor Don Turner, and many more for our 14 County Tour!
-The tour takes place the day before the election, where we'll visitRead More
-- Election Night Celebration Join Governor Scott on Election Night!
+The tour takes place the day before the election, where we'll visit Read More Tue 6 Election Night Celebration November 6, 2018 @ 6:30 pm - 11:00 pm Join Governor Scott on Election Night!
 You're invited to join Governor Phil Scott, our next Lt.
-Governor Don Turner, legislators, candidates and many more as we watch the results comeRead More
-- VPR/Vermont PBS Gubernatorial Debate Governor Scott participates in the VPR/Vermont PBS gubernatorial debate, airing at noon on VPR.
-- VT Digger Gubernatorial Debate Governor Scott participates in the second gubernatorial debate, hosted by VT Digger.
-- NBC5 (WPTZ) Gubernatorial Debate Governor Scott participates in the third gubernatorial debate hosted by NBC5, live at 7:00 PM.
-- WCAX Gubernatorial Debate Governor Scott participates in the fourth and final gubernatorial debate hosted by WCAX, live at 7:00 PM.
-- Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan Watch at any of the following: phillscott.org/live https://www.facebook.com/PhilScottforVermont
+Governor Don Turner, legislators, candidates and many more as we watch the results come Read More September 2020 Thu 24 VPR/Vermont PBS Gubernatorial Debate September 24, 2020 @ 12:00 pm - 1:00 pm Governor Scott participates in the VPR/Vermont PBS gubernatorial debate, airing at noon on VPR.
+Tue 29 VT Digger Gubernatorial Debate September 29, 2020 @ 5:30 pm - 6:30 pm Governor Scott participates in the second gubernatorial debate, hosted by VT Digger.
+October 2020 Thu 1 NBC5 (WPTZ) Gubernatorial Debate October 1, 2020 @ 7:00 pm - 8:00 pm Governor Scott participates in the third gubernatorial debate hosted by NBC5, live at 7:00 PM.
+Wed 7 WCAX Gubernatorial Debate October 7, 2020 @ 7:00 pm - 8:00 pm Governor Scott participates in the fourth and final gubernatorial debate hosted by WCAX, live at 7:00 PM.
+Thu 22 Forum on Leadership, Civility and Unity with Governors Phil Scott, Charlie Baker and Larry Hogan October 22, 2020 @ 6:30 pm - 7:15 pm Watch at any of the following: phillscott.org/live https://www.facebook.com/PhilScottforVermont Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Connect with Phil Paid for by Phil Scott For Vermont PO Box 988 Montpelier, VT 05601 | Privacy Policy | Terms and Conditions Website Designed by Bytes.co × Close

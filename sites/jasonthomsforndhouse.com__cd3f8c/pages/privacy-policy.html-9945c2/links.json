@@ -1,9 +1,34 @@
 [
-"https://jasonthomsforndhouse.com/",
-"https://jasonthomsforndhouse.com/_blank",
-"https://jasonthomsforndhouse.com/about.html",
-"https://jasonthomsforndhouse.com/contact.html",
-"https://jasonthomsforndhouse.com/opinion-columns.html",
-"https://jasonthomsforndhouse.com/priorities.html",
-"https://jasonthomsforndhouse.com/privacy-policy.html"
+{
+"text": "About",
+"href": "https://www.jasonthomsforndhouse.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.jasonthomsforndhouse.com/contact.html"
+},
+{
+"text": "Home",
+"href": "https://www.jasonthomsforndhouse.com/"
+},
+{
+"text": "Opinion Columns",
+"href": "https://www.jasonthomsforndhouse.com/opinion-columns.html"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.jasonthomsforndhouse.com/priorities.html"
+},
+{
+"text": "Paid for by the Campaign Fund of Jason Thoms",
+"href": "https://www.jasonthomsforndhouse.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jasonthomsforndhouse.com/privacy-policy.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+}
 ]

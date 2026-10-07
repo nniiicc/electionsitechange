@@ -1,9 +1,4 @@
-top of page
-Corruption & Accountability
-I am strongly opposed to a state income tax for working families
-As people lose trust in government, rogue state leaders (i.e., WA Senate Majority Leader, Attorney General) have colluded to violate our state constitution to impose a 9.9% state income tax on everyone.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability Corruption & Accountability I am strongly opposed to a state income tax for working families As people lose trust in government, rogue state leaders (i.e., WA Senate Majority Leader, Attorney General) have colluded to violate our state constitution to impose a 9.9% state income tax on everyone.
 It was never about 'just taxing millionaires.' Public records obtained by The Center Square Washington show this and a state income tax is unconstitutional (see attached article).
-WA State Majority Leader Jamie Pedersen stated, “I would like to force the Washington Supreme Cou
-Dr.
-Erika CreydtMay 141 min read
-bottom of page
+WA State Majority Leader Jamie Pedersen stated, “I would like to force the Washington Supreme Cou Dr.
+Erika Creydt May 14 1 min read Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

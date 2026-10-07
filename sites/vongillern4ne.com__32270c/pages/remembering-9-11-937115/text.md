@@ -1,8 +1,8 @@
-I have to admit, I woke up a bit melancholy this morning, remembering, as most of us do, where I was 25 years ago and what that seminal moment in my adult life felt like.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE SHARE THIS POST: Facebook LinkedIn X Email Remembering 9/11 I have to admit, I woke up a bit melancholy this morning, remembering, as most of us do, where I was #ago and what that seminal moment in my adult life felt like.
 I really felt it when I put my flag out this morning and left it at half-mast.
 I have to admit, however, that the sadness over the attacks may be overwhelmed by my sadness over our country forgetting how it happened, why it happened, the lives lost, and our commitment to never forget.
 Turns out we have short memories as a country.
-George Santayana wrote over 100 years ago, “Those who cannot remember the past are condemned to repeat it.” Is it true that if we don’t remember what happened on 9/11, we could actually be opening the door to a repeat of such a devastating attack on our own soil?
+George Santayana wrote over #ago, “Those who cannot remember the past are condemned to repeat it.” Is it true that if we don’t remember what happened on 9/11, we could actually be opening the door to a repeat of such a devastating attack on our own soil?
 Maybe it’s good to let go of some pain, especially the rage that could cause us to act without reason or without considering the longer-term outcomes.
 My faith tells me to forgive, but it does not require me to abandon discernment and welcome a world that puts my family, my state, and my country at risk.
 It’s a tough needle to thread sometimes.
@@ -39,3 +39,17 @@ Say a prayer and ask for protection for our loved ones and for our nation.
 Set down the things that divide us as a nation, and pick up the things that will make our communities stronger.
 Remember the past, so that we, and generations to come, never repeat it.
 May God bless you all, and may God bless our incredible United States of America.
+VOLUNTEER DONATE Contact STAY INFORMED!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe Paid for by: von Gillern for Nebraska 18370 Honeysuckle Drive Elkhorn, NE 68022 www.vongillern4ne.com Facebook Copyright © # von Gillern for Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+JOIN

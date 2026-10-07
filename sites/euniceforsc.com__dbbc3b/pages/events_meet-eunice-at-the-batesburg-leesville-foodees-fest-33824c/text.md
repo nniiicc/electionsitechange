@@ -1,10 +1,4 @@
-Back to All Events
-Meet Eunice at the Batesburg-Leesville Foodees Fest on Friday, September 11, beginning at 6 PM EDT.
-Learn more here.
-Previous
-Previous
-September 11
-Canvassing in Holstons Precinct with Saluda County Council Candidate Doris Hicks
-Next
-Next
-September 12
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events Meet Eunice at the Batesburg-Leesville Foodees Fest Friday, September 11, 2026 6:00 PM 8:00 PM Lifelong Learning Center 101 West Columbia Avenue Batesburg-Leesville, South Carolina, 29006 United States (map) Google Calendar ICS Meet Eunice at the Batesburg-Leesville Foodees Fest on Friday, September 11, beginning at 6 PM EDT.
+Learn more here .
+Previous Previous September 11 Canvassing in Holstons Precinct with Saluda County Council Candidate Doris Hicks Next Next September 12 Saluda Phone Banking Party Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

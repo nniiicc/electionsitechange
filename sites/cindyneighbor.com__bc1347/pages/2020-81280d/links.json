@@ -1,15 +1,74 @@
 [
-"http://twitter.com/cindy_neighbor",
-"https://cindyneighbor.com/",
-"https://cindyneighbor.com/2020",
-"https://cindyneighbor.com/donate",
-"https://cindyneighbor.com/endorsements",
-"https://cindyneighbor.com/meet-cindy",
-"https://cindyneighbor.com/platform",
-"https://cindyneighbor.com/v",
-"https://facebook.com/CindyNeighborForKS",
-"https://jocoelection.org/registration",
-"https://jocoelection.org/sites/default/files/2026-05/Adv%20app%20-%20with%20unaffiliated-%20fillable%205-13-2026.pdf",
-"https://jocoelection.org/voting-election-info/advance-voting",
-"https://myvoteinfo.voteks.org/VoterView"
+{
+"text": "(ends at noon Monday Nov. 2nd)",
+"href": "https://www.jocoelection.org/voting-election-info/advance-voting"
+},
+{
+"text": "ADVANCE BALLOT APPLICATION",
+"href": "https://www.jocoelection.org/sites/default/files/2026-05/Adv%20app%20-%20with%20unaffiliated-%20fillable%205-13-2026.pdf"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.cindyneighbor.com/donate"
+},
+{
+"text": "EARLY VOTING LOCATIONS",
+"href": "https://www.jocoelection.org/voting-election-info/advance-voting"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.cindyneighbor.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.cindyneighbor.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.cindyneighbor.com/platform"
+},
+{
+"text": "MEET CINDY",
+"href": "https://www.cindyneighbor.com/meet-cindy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.jocoelection.org/registration"
+},
+{
+"text": "TO FIND YOUR IN PERSON POLLING LOCATION",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.cindyneighbor.com/v"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.cindyneighbor.com/2020"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/CindyNeighborForKS/"
+},
+{
+"text": "[image: X ]",
+"href": "http://www.twitter.com/cindy_neighbor"
+},
+{
+"text": "[no text]",
+"href": "https://www.jocoelection.org/sites/default/files/2026-05/Adv%20app%20-%20with%20unaffiliated-%20fillable%205-13-2026.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.jocoelection.org/voting-election-info/advance-voting"
+},
+{
+"text": "​",
+"href": "https://www.jocoelection.org/sites/default/files/2026-05/Adv%20app%20-%20with%20unaffiliated-%20fillable%205-13-2026.pdf"
+},
+{
+"text": "​TO CHECK YOUR VOTER REGISTRATION",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+}
 ]

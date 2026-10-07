@@ -1,36 +1,138 @@
 [
-"http://denver7.com/news/politics/colorado-lawmakers-look-to-limit-artificial-intelligence-use-in-licensed-therapy",
-"http://squarespace.com/",
-"https://coloradopolitics.com/2026/06/11/divided-colorado-supreme-court-finds-parental-anonymity-in-safe-haven-law",
-"https://cpr.org/2026/03/09/colorado-ai-health-care-guardrails-bills",
-"https://denver7.com/news/local-news/new-colorado-law-aims-to-make-it-easier-for-child-abuse-and-neglect-survivors-to-access-their-own-records",
-"https://gretchenforcolorado.com/",
-"https://gretchenforcolorado.com/cart",
-"https://gretchenforcolorado.com/endorsements",
-"https://gretchenforcolorado.com/events",
-"https://gretchenforcolorado.com/legislation",
-"https://gretchenforcolorado.com/meet-gretchen",
-"https://gretchenforcolorado.com/news",
-"https://gretchenforcolorado.com/take-action",
-"https://kjct8.com/2026/03/06/colorado-bill-under-consideration-would-draw-line-between-ai-tools-licensed-therapy",
-"https://littletonindependent.net/news/local-government/article_f8feb9a0-ab79-4333-b04d-8818be128608.html",
-"https://littletonindependent.net/news/rydin-launches-reelection-bid-for-house-district-38/article_dda025d6-300d-48ea-b335-fee735910f32.html",
-"https://mailchi.mp/0728e37a7c61/gretchenforcolorado-newsletter-11004629",
-"https://mailchi.mp/07bb9153d381/gretchenforcolorado-newsletter-11001158",
-"https://mailchi.mp/0fcf4dbe46f6/gretchenforcolorado-newsletter-11004239",
-"https://mailchi.mp/11c065c35348/gretchenforcolorado-newsletter-11001519",
-"https://mailchi.mp/2398bff176e7/gretchenforcolorado-newsletter-11003705",
-"https://mailchi.mp/36e9889f03a7/gretchenforcolorado-newsletter-11006582",
-"https://mailchi.mp/51b49325a54e/gretchenforcolorado-newsletter-11002720",
-"https://mailchi.mp/63508a0d4389/gretchenforcolorado-newsletter-11001876",
-"https://mailchi.mp/6a1d5e9f8177/gretchenforcolorado-newsletter-11003058",
-"https://mailchi.mp/836f60616d60/gretchenforcolorado-newsletter-11004894",
-"https://mailchi.mp/883f8fe76bc1/gretchenforcolorado-newsletter-11007267",
-"https://mailchi.mp/afdd39a71e73/gretchenforcolorado-newsletter-11005291",
-"https://mailchi.mp/b1957cf5b83e/gretchenforcolorado-newsletter-11005989?e=37d7a769a7",
-"https://mailchi.mp/b25c1bc19ab7/gretchenforcolorado-newsletter-11002188",
-"https://mailchi.mp/b42a68b11f5d/gretchenforcolorado-newsletter-11007745",
-"https://mailchi.mp/dffe6760ec2c/gretchenforcolorado-newsletter-11003345",
-"https://mailchi.mp/e841dbf5150a/gretchenforcolorado-newsletter-11005710",
-"https://mailchi.mp/f8cb6068e51b/gretchenforcolorado-newsletter-11004034"
+{
+"text": "0",
+"href": "https://www.gretchenforcolorado.com/cart"
+},
+{
+"text": "April 2025",
+"href": "https://mailchi.mp/11c065c35348/gretchenforcolorado-newsletter-11001519"
+},
+{
+"text": "April 2026",
+"href": "https://mailchi.mp/afdd39a71e73/gretchenforcolorado-newsletter-11005291"
+},
+{
+"text": "August 2025",
+"href": "https://mailchi.mp/51b49325a54e/gretchenforcolorado-newsletter-11002720"
+},
+{
+"text": "August 2026",
+"href": "https://mailchi.mp/883f8fe76bc1/gretchenforcolorado-newsletter-11007267"
+},
+{
+"text": "Colorado bill under consideration would draw a line between AI tools and licensed therapy",
+"href": "https://www.kjct8.com/2026/03/06/colorado-bill-under-consideration-would-draw-line-between-ai-tools-licensed-therapy/"
+},
+{
+"text": "Colorado lawmakers look to limit artificial intelligence use in licensed therapy",
+"href": "http://denver7.com/news/politics/colorado-lawmakers-look-to-limit-artificial-intelligence-use-in-licensed-therapy"
+},
+{
+"text": "December 2025",
+"href": "https://mailchi.mp/f8cb6068e51b/gretchenforcolorado-newsletter-11004034"
+},
+{
+"text": "Divided Colorado Supreme Court finds parental anonymity in ‘safe haven’ law",
+"href": "https://www.coloradopolitics.com/2026/06/11/divided-colorado-supreme-court-finds-parental-anonymity-in-safe-haven-law/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gretchenforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.gretchenforcolorado.com/events"
+},
+{
+"text": "February 2026",
+"href": "https://mailchi.mp/0728e37a7c61/gretchenforcolorado-newsletter-11004629"
+},
+{
+"text": "January 2026",
+"href": "https://mailchi.mp/0fcf4dbe46f6/gretchenforcolorado-newsletter-11004239"
+},
+{
+"text": "July 2026",
+"href": "https://mailchi.mp/36e9889f03a7/gretchenforcolorado-newsletter-11006582"
+},
+{
+"text": "June 2025",
+"href": "https://mailchi.mp/b25c1bc19ab7/gretchenforcolorado-newsletter-11002188"
+},
+{
+"text": "June 2026",
+"href": "https://mailchi.mp/b1957cf5b83e/gretchenforcolorado-newsletter-11005989?e=37d7a769a7"
+},
+{
+"text": "Legislation",
+"href": "https://www.gretchenforcolorado.com/legislation"
+},
+{
+"text": "March 2025",
+"href": "https://mailchi.mp/07bb9153d381/gretchenforcolorado-newsletter-11001158"
+},
+{
+"text": "March 2026",
+"href": "https://mailchi.mp/836f60616d60/gretchenforcolorado-newsletter-11004894"
+},
+{
+"text": "May 2025",
+"href": "https://mailchi.mp/63508a0d4389/gretchenforcolorado-newsletter-11001876"
+},
+{
+"text": "May 2026",
+"href": "https://mailchi.mp/e841dbf5150a/gretchenforcolorado-newsletter-11005710"
+},
+{
+"text": "Meet Gretchen",
+"href": "https://www.gretchenforcolorado.com/meet-gretchen"
+},
+{
+"text": "New Colorado law aims to make it easier for child abuse and neglect survivors to access their own records",
+"href": "https://www.denver7.com/news/local-news/new-colorado-law-aims-to-make-it-easier-for-child-abuse-and-neglect-survivors-to-access-their-own-records"
+},
+{
+"text": "News",
+"href": "https://www.gretchenforcolorado.com/news"
+},
+{
+"text": "November 2025",
+"href": "https://mailchi.mp/2398bff176e7/gretchenforcolorado-newsletter-11003705"
+},
+{
+"text": "October 2025",
+"href": "https://mailchi.mp/dffe6760ec2c/gretchenforcolorado-newsletter-11003345"
+},
+{
+"text": "Rep. Rydin town hall highlights new laws, development and city project updates",
+"href": "https://www.littletonindependent.net/news/local-government/article_f8feb9a0-ab79-4333-b04d-8818be128608.html"
+},
+{
+"text": "Rydin launches reelection bid for House District 38",
+"href": "https://www.littletonindependent.net/news/rydin-launches-reelection-bid-for-house-district-38/article_dda025d6-300d-48ea-b335-fee735910f32.html"
+},
+{
+"text": "September 2025",
+"href": "https://mailchi.mp/6a1d5e9f8177/gretchenforcolorado-newsletter-11003058"
+},
+{
+"text": "September 2026",
+"href": "https://mailchi.mp/b42a68b11f5d/gretchenforcolorado-newsletter-11007745"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.gretchenforcolorado.com/take-action"
+},
+{
+"text": "Two proposals on artificial intelligence in the medical system advance at the statehouse",
+"href": "https://www.cpr.org/2026/03/09/colorado-ai-health-care-guardrails-bills/"
+},
+{
+"text": "[image: Gretchen for Colorado]",
+"href": "https://www.gretchenforcolorado.com/"
+}
 ]

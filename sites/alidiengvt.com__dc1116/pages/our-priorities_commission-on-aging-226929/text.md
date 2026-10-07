@@ -1,7 +1,11 @@
-Vermont is the second oldest state in the nation, and older Vermonters bring a wealth of knowledge, skill and creativity to our communities.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: Commission on Aging Vermont is the second oldest state in the nation, and older Vermonters bring a wealth of knowledge, skill and creativity to our communities.
 The City of Burlington supports two senior centers and numerous positive programs for older adults, but it is critical that the state do more to value older residents and ensure that Vermont is age-friendly in all our policies and practices, especially in areas critical to aging well, related to financial security, access to good healthcare, housing, transportation, social supports and meaningful engagement.
 I will create a Commission on Aging tasked with identifying the most pressing needs of our older residents and recommending concrete actions the state can take to ensure we are all able to age well in the Green Mountain State.
 Commission on Aging will also implement home Support for Older community members.
 According to surveys, 90% of older adults want to age in their own home, but often a major challenge is keeping up with necessary home maintenance and repairs.
 While there are programs and services to help qualifying older Vermonters with housekeeping or home modifications for accessibility, individuals struggle to find help from family or volunteers for home maintenance or repairs.
 In order to support older residents, I will explore the idea of a Home Support Program for older homeowners to close this gap and help more residents age well in their own homes.
+DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

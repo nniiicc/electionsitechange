@@ -1,16 +1,62 @@
 [
-"https://facebook.com/SteveWollVA",
-"https://instagram.com/stevewollva",
-"https://linkedin.com/in/steve-woll",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevewoll.com%2Fevent-details%2Fdoor-knocking-canvassing-1",
-"https://secure.anedot.com/steve-woll-for-congress/steve-woll-for-congress",
-"https://stevewoll.com/",
-"https://stevewoll.com/accessibility-statement",
-"https://stevewoll.com/blog",
-"https://stevewoll.com/getinvolved",
-"https://stevewoll.com/issues",
-"https://stevewoll.com/meetsteve",
-"https://stevewoll.com/privacy-policy",
-"https://stevewoll.com/terms-and-conditions",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevewoll.com%2Fevent-details%2Fdoor-knocking-canvassing-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "ABOUT",
+"href": "https://www.stevewoll.com/meetsteve"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.stevewoll.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/steve-woll-for-congress/steve-woll-for-congress"
+},
+{
+"text": "Donate Now",
+"href": "https://www.stevewoll.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevewoll.com/getinvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.stevewoll.com/issues"
+},
+{
+"text": "Press",
+"href": "https://www.stevewoll.com/blog"
+},
+{
+"text": "Privacy Policy |",
+"href": "https://www.stevewoll.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions |",
+"href": "https://www.stevewoll.com/terms-and-conditions"
+},
+{
+"text": "[image: FINAL STEVE WOLL Logo 1.png]",
+"href": "https://www.stevewoll.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SteveWollVA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stevewollva/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/steve-woll/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.stevewoll.com%2Fevent-details%2Fdoor-knocking-canvassing-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.stevewoll.com%2Fevent-details%2Fdoor-knocking-canvassing-1"
+}
 ]

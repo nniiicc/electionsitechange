@@ -1,12 +1,5 @@
-Employees Deserve a Living Wage and a Safe Workplace #
-Every Minnesotan who puts in an honest day’s work should be able to afford to live — and should be able to return home safely at the end of every shift.
+↓ Skip to main content Mary Nesgoda for Minnesota House 22B About Issues Events News Volunteer Donate About Issues Events News Volunteer Donate Mary Nesgoda for Minnesota House 22B / Issues / Living Wages & Safe Workplaces / Living Wages & Safe Workplaces Employees Deserve a Living Wage and a Safe Workplace # Every Minnesotan who puts in an honest day’s work should be able to afford to live — and should be able to return home safely at the end of every shift.
 Too many workers in our district are earning wages that don’t cover the basics, while workplace safety standards haven’t kept pace with the demands on today’s workforce.
 That has to change.
-I will fight for:
-- Strong wage standards — Raise and index the minimum wage so it keeps up with the cost of living
-- Robust worker protections — Strengthen OSHA enforcement and hold employers accountable for unsafe conditions
-- Paid leave — No one should have to choose between a paycheck and caring for a sick child or recovering from an injury
-- Fair scheduling — Give workers predictable hours and advance notice of schedule changes
-- Support for unions — Protect the right to organize and bargain collectively
-- End wage theft — Crack down on employers who shortchange workers on pay, overtime, or benefits
-When workers are paid fairly and protected on the job, families are stronger, communities are healthier, and the economy works better for everyone.
+I will fight for: Strong wage standards — Raise and index the minimum wage so it keeps up with the cost of living Robust worker protections — Strengthen OSHA enforcement and hold employers accountable for unsafe conditions Paid leave — No one should have to choose between a paycheck and caring for a sick child or recovering from an injury Fair scheduling — Give workers predictable hours and advance notice of schedule changes Support for unions — Protect the right to organize and bargain collectively End wage theft — Crack down on employers who shortchange workers on pay, overtime, or benefits When workers are paid fairly and protected on the job, families are stronger, communities are healthier, and the economy works better for everyone. ← Tax Reform Economy & Cost of Living → ↑ © 2026 Mary Nesgoda Powered by Hugo & Blowfish Paid for by Mary Nesgoda for House 22B · P.O.
+Box 63, Le Sueur, MN 56058 · Authorized by Mary Nesgoda.

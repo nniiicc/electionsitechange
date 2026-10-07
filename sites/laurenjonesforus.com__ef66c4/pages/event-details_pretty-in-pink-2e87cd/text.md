@@ -1,7 +1,1 @@
-Tue, Oct 06
-Lips Drag Queen Show Palace, Restaurant
-Oct 06, 2026, 7:00 PM
-Lips Drag Queen Show Palace, Restaurant , 3011 Buford Hwy NE, Atlanta, GA 30329, USA
-$0.00
-Total
-$0.00
+top of page DONATE Home Events Groups Notifications Campaign Signs Photos Log In Pretty In Pink Tue, Oct 06 | Lips Drag Queen Show Palace, Restaurant Tickets are not on sale See other events Time & Location Oct 06, 2026, 7:00 PM Lips Drag Queen Show Palace, Restaurant , 3011 Buford Hwy NE, Atlanta, GA 30329, USA Share this event Contact Repjonesgeorgia@gmail.com Location Bartow County / District 15 Legal © # Lauren Jones for Georgia LEADERSHIP FOR BARTOW bottom of page

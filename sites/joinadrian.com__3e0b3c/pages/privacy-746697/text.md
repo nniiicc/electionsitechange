@@ -1,4 +1,5 @@
-Adrian Smith for Congress values its users’ privacy.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Privacy Policy Privacy Policy Adrian Smith for Congress 2026-01-08T11:10:50-06:00 Adrian Smith for Congress values its users’ privacy.
 This Privacy Policy (“Policy”) will help you understand how we collect and use personal information from those who visit our website or make use of our online facilities and services, and what we will and will not do with the information we collect.
 Our Policy has been designed and created to ensure those affiliated with Adrian Smith for Congress of our commitment and realization of our obligation not only to meet, but to exceed, most existing privacy standards.
 We reserve the right to make changes to this Policy at any given time.
@@ -10,67 +11,36 @@ Through the use of joinadrian.com, you are therefore consenting to the data coll
 Please note that this Policy does not govern the collection and use of information by companies that Adrian Smith for Congress does not control, nor by individuals not employed or managed by us.
 If you visit a website that we mention or link to, be sure to review its privacy policy before providing the site with information.
 It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent to better understand the way in which websites garner, make use of and share the information collected.
-Specifically, this Policy will inform you of the following
-- What personally identifiable information is collected from you through our website;
-- Why we collect personally identifiable information and the legal basis for such collection;
-- How we use the collected information and with whom it may be shared;
-- What choices are available to you regarding the use of your data; and
-- The security procedures in place to protect the misuse of your information.
-Information We Collect
-It is always up to you whether to disclose personally identifiable information to us, although if you elect not to do so, we reserve the right not to register you as a user or provide you with any products or services.
+Specifically, this Policy will inform you of the following What personally identifiable information is collected from you through our website; Why we collect personally identifiable information and the legal basis for such collection; How we use the collected information and with whom it may be shared; What choices are available to you regarding the use of your data; and The security procedures in place to protect the misuse of your information.
+Information We Collect It is always up to you whether to disclose personally identifiable information to us, although if you elect not to do so, we reserve the right not to register you as a user or provide you with any products or services.
 In addition, Adrian Smith for Congress may have the occasion to collect non-personal anonymous demographic information, such as age, gender, household income, political affiliation, race and religion, as well as the type of browser you are using, IP address, or type of operating system, which will assist us in providing and maintaining superior quality service.
-Why We Collect Information and For How Long
-We are collecting your data for several reasons:
-- To better understand your needs and provide you with the services you have requested;
-- To fulfill our legitimate interest in improving our services and products;
-- To send you promotional emails containing information we think you may like when we have your consent to do so;
-- To contact you to fill out surveys or participate in other types of market research, when we have your consent to do so;
-- To customize our website according to your online behavior and personal preferences.
+Why We Collect Information and For How Long We are collecting your data for several reasons: To better understand your needs and provide you with the services you have requested; To fulfill our legitimate interest in improving our services and products; To send you promotional emails containing information we think you may like when we have your consent to do so; To contact you to fill out surveys or participate in other types of market research, when we have your consent to do so; To customize our website according to your online behavior and personal preferences.
 The data we collect from you will be stored for no longer than necessary.
 The length of time we retain said information will be determined based upon the following criteria: the length of time your personal information remains relevant; the length of time it is reasonable to keep records to demonstrate that we have fulfilled our duties and obligations; any limitation periods within which claims might be made; any retention periods prescribed by law or recommended by regulators, professional bodies or associations; the type of contract we have with you, the existence of your consent, and our legitimate interest in keeping such information as stated in this Policy.
-Use of Information Collected
-Adrian Smith for Congress does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
+Use of Information Collected Adrian Smith for Congress does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
 Adrian Smith for Congress may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request.
-At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from joinadrian.com
-Adrian Smith for Congress may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
-Adrian Smith for Congress uses various third-party social media features including but not limited to Facebook, Twitter, and other interactive programs.
-These may collect your IP address and require cookies to work properly.
-These services are governed by the privacy policies of the providers and are not within Adrian Smith for Congress’s control.
-Disclosure of Information
-Adrian Smith for Congress may not use or disclose the information provided by you except under the following circumstances:
-- as necessary to provide services or products you have ordered;
-- in other ways described in this Policy or to which you have otherwise consented;
-- in the aggregate with other information in such a way so that your identity cannot reasonably be determined;
-- as required by law, or in response to a subpoena or search warrant;
-- to outside auditors who have agreed to keep the information confidential;
-- as necessary to enforce the Terms of Service;
-- as necessary to maintain, safeguard and preserve all the rights and property of Adrian Smith for Congress.
-Non-Marketing Purposes
-Adrian Smith for Congress greatly respects your privacy.
+At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from joinadrian.com Adrian Smith for Congress may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
+Disclosure of Information Adrian Smith for Congress may not use or disclose the information provided by you except under the following circumstances: as necessary to provide services or products you have ordered; in other ways described in this Policy or to which you have otherwise consented; in the aggregate with other information in such a way so that your identity cannot reasonably be determined; as required by law, or in response to a subpoena or search warrant; to outside auditors who have agreed to keep the information confidential; as necessary to enforce the Terms of Service; as necessary to maintain, safeguard and preserve all the rights and property of Adrian Smith for Congress.
+Non-Marketing Purposes Adrian Smith for Congress greatly respects your privacy.
 We do maintain and reserve the right to contact you if needed for non-marketing purposes (such as bug alerts, security breaches, account issues, and/or changes in Adrian Smith for Congress products and services).
 In certain circumstances, we may use our website, newspapers, or other public means to post a notice.
-Children under the age of 13
-Adrian Smith for Congress’s website is not directed to, and does not knowingly collect personal identifiable information from, children under the age of thirteen (13).
+Children under the age of 13 Adrian Smith for Congress’s website is not directed to, and does not knowingly collect personal identifiable information from, children under the age of thirteen (13).
 If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database, or in the alternative, that verifiable parental consent is obtained for the use and storage of such information.
 Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
-Unsubscribe or Opt-Out
-All users and visitors to our website have the option to discontinue receiving communications from us by way of email or newsletters.
+Unsubscribe or Opt-Out All users and visitors to our website have the option to discontinue receiving communications from us by way of email or newsletters.
 To discontinue or unsubscribe from our website please send an email that you wish to unsubscribe to committee@joinadrian.com.
 If you wish to unsubscribe or opt-out from any third-party websites, you must go to that specific website to unsubscribe or opt-out.
 Adrian Smith for Congress will continue to adhere to this Policy with respect to any personal information previously collected.
-Links to Other Websites
-Our website does contain links to affiliate and other websites.
+Links to Other Websites Our website does contain links to affiliate and other websites.
 Adrian Smith for Congress does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites.
 Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of every website that collects personally identifiable information.
 This Privacy Policy Agreement applies only and solely to the information collected by our website.
-Notice to European Union Users
-Adrian Smith for Congress’s operations are located primarily in the United States.
+Notice to European Union Users Adrian Smith for Congress’s operations are located primarily in the United States.
 If you provide information to us, the information will be transferred out of the European Union (EU) and sent to the United States.
 (The adequacy decision on the EU-US Privacy became operational on August 1, 2016.
 This framework protects the fundamental rights of anyone in the EU whose personal data is transferred to the United States for commercial purposes.
 It allows the free transfer of data to companies that are certified in the US under the Privacy Shield.) By providing personal information to us, you are consenting to its storage and use as described in this Policy.
-Security
-Adrian Smith for Congress takes precautions to protect your information.
+Security Adrian Smith for Congress takes precautions to protect your information.
 When you submit sensitive information via the website, your information is protected both online and offline.
 Wherever we collect sensitive information (e.g. credit card information), that information is encrypted and transmitted to us in a secure way.
 You can verify this by looking for a lock icon in the address bar and looking for “https” at the beginning of the address of the webpage.
@@ -78,10 +48,9 @@ While we use encryption to protect sensitive information transmitted online, we 
 Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
 The computers and servers in which we store personally identifiable information are kept in a secure environment.
 This is all done to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
-Acceptance of Terms
-By using this website, you are hereby accepting the terms and conditions stipulated within the Privacy Policy Agreement.
+Acceptance of Terms By using this website, you are hereby accepting the terms and conditions stipulated within the Privacy Policy Agreement.
 If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites.
 In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you agree and acceptance of such changes.
-How to Contact Us
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email address.
-Email: committee@joinadrian.com
+How to Contact Us If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email address.
+Email: committee@joinadrian.com 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

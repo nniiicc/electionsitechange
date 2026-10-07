@@ -1,4 +1,5 @@
-I grew up on the Kuskokwim River, where we have always depended on salmon.
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE Opinion: Fighting for our fish and our fishermen By Mary Peltola , June 26 2026 Share this Post: I grew up on the Kuskokwim River, where we have always depended on salmon.
 On the Kusko, a baby’s first solid food is dried salmon strips.
 From my childhood fishing with my father to spending long summer days at fish camp with my own kids, fishing is a way of life for me and for so many Alaskans.
 While there are commercial fishing areas like Bristol Bay and Prince William Sound whose fisheries are viable and have continued breaking records in recent years, it’s heartbreaking to witness the collapse of salmon populations in river systems we were able to rely on for generations.
@@ -13,7 +14,7 @@ And I’ve seen our fishermen have their livelihoods threatened.
 I’m running for Senate because it doesn’t have to be this way.
 We can take on the rigged system in D.C. and begin to restore abundance to Alaska.
 The truth is, out-of-state factory trawlers and excessive bycatch are hurting Alaska.
-They are sweeping up more than 140 million pounds of bycatch.
+They are sweeping up more than 140 million pounds of bycatch .
 More halibut is killed as bycatch than is actually consumed.
 But instead of reining in the trawling industry, Alaska subsistence and sport fishing are hit with crushing restrictions, punishing Alaskans while protecting the corporations doing the damage.
 Instead of holding their corporate trawler donors accountable, D.C. politicians kick the can down the road with more studies.
@@ -37,3 +38,7 @@ And that’s why I’m in this fight: to bring back our fish, restore abundance,
 Mary Peltola is a candidate for U.S.
 Senate who previously served in the U.S.
 House of Representatives from 2022 to 2025.
+Published By: VIEW ORIGINAL More News: Peltola backs gas project, more refining in Senate bid READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
+Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

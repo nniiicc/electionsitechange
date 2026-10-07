@@ -1,14 +1,4 @@
-More to Come
-Legislative Checklist
-- Keep Taxes Low and Money in Your Pocket
-- Lower the Costs of Goods and Services
-- Shrink Government
-- Protect Wisconsin Workers and Jobs
-- Provide a Flourishing Business Environment
-- Prevent State Mandates by Protecting Local Control
-- Encourage Families and Faith
-- Protect Wisconsin Nature Through Knowles Nelson
-“I am proud of all we have accomplished this session, but there is still work to be done.
+Support Background Accomplishments Goals In the News Gallery Contact Support Background Accomplishments Goals In the News Gallery Contact © # Re-Elect Paul Melotik.
+Created with ❤️ using WordPress and Kubio More to Come Legislative Checklist Keep Taxes Low and Money in Your Pocket Lower the Costs of Goods and Services Shrink Government Protect Wisconsin Workers and Jobs Provide a Flourishing Business Environment Prevent State Mandates by Protecting Local Control Encourage Families and Faith Protect Wisconsin Nature Through Knowles Nelson “I am proud of all we have accomplished this session, but there is still work to be done.
 Not only through legislation, but by doing the work necessary to maintain a governing majority and ensure Wisconsin continues moving in the right direction.
-I have only ever called Wisconsin home, and I will never stop fighting to protect our values, defend our communities, and preserve the Wisconsin way of life from those who want to fundamentally change it.“
-State Representative Paul Melotik
+I have only ever called Wisconsin home, and I will never stop fighting to protect our values, defend our communities, and preserve the Wisconsin way of life from those who want to fundamentally change it. “ State Representative Paul Melotik

@@ -1,6 +1,4 @@
-A LIFETIME OF SERVICE
-About Brad Sherman
-Brad Sherman was born and raised in Southern California and has lived in the San Fernando Valley for most of his life.
+top of page Meet Brad Issues Endorsements Statements of Support Statements of Support Get Involved Media Hi Res Photos Hi Res Video Hi Res Photos Hi Res Video Menu Close MEDIA DONATE A LIFETIME OF SERVICE About Brad Sherman Brad Sherman was born and raised in Southern California and has lived in the San Fernando Valley for most of his life.
 He represents the San Fernando Valley and parts of the West Side and Ventura County.
 He lives in Sherman Oaks.
 During his tenure in Congress, Sherman has developed a reputation as a strong fighter for working families, seniors, young people, veterans, immigrants, marginalized communities, as well as our communities' most vulnerable.
@@ -13,6 +11,6 @@ Congressman Sherman has successfully fought for hundreds of millions of dollars 
 He has secured funds for the Orange Line, and for improvements to the 405 and 101 Freeways, and is fighting for funds to build rail through the Sepulveda Pass.
 Congressman Sherman introduced the Housing Unhoused Disabled Veterans Act, which passed the House in 2025, to streamline access to housing for homeless disabled veterans.
 Sherman attended public schools in California, graduated from UCLA, and graduated from Harvard Law School.
-Brad is married to Lisa Kaplan Sherman, and they have three daughters, Molly (16), Naomi (15), and Lucy (14).
-Prior to his election to Congress, Brad Sherman worked as a CPA and Certified Tax Law Specialist, and headed up California’s Board of Equalization.
+Brad is married to Lisa Kaplan Sherman, and they have three daughters, Molly (16), Naomi (15), and Lucy (14). ​ Prior to his election to Congress, Brad Sherman worked as a CPA and Certified Tax Law Specialist, and headed up California’s Board of Equalization.
 He is one of only four CPAs serving in the House , and co-chairs the bipartisan CPA caucus.
+DONATE MEDIA Email: mail@bradsherman.com Phone: 818-817-9555 Fax: 818-817-3633 Paid for by Sherman for Congress 15030 Ventura Blvd, #636, Sherman Oaks, CA 91403 Terms & Conditions / Privacy Policy Meet Brad Issues Endorsements Statements of Support Get Involved Media Hi Res Photos Hi Res Video bottom of page

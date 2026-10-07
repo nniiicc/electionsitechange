@@ -1,13 +1,10 @@
-Issues
-Jobs
-Over the last decade, we have propelled this state to lead the nation on many different levels – reducing burdensome regulations, cutting red-tape, eliminating and reducing taxes, key reforms like tort reform and workers compensation.
+Toggle navigation Home About Issues On the Road News Volunteer Contact Donate Issues Jobs Over the last decade, we have propelled this state to lead the nation on many different levels – reducing burdensome regulations, cutting red-tape, eliminating and reducing taxes, key reforms like tort reform and workers compensation.
 Together, we have made Tennessee one of the most business-friendly states in America.
 Since 2011, we have supported the creation of 494,900 new private sector jobs.
 Our economy is thriving, and as we look all around us, there is evidence that things in Tennessee are good; in fact, some would say they are very good.
 We have seen historically low unemployment, and Tennessee is also the lowest debt state, median household incomes are increasing at the second fastest rate in the entire southeast, and we are the most fiscally stable state in the entire country.
 Our house is stable, in order, and our economic torch is shining brightly.
-Education
-As we have put our conservative economic principles into the healthcare marketplace, we must continue to focus on our workforce.
+Education As we have put our conservative economic principles into the healthcare marketplace, we must continue to focus on our workforce.
 Tomorrow’s workforce starts with solidifying the academic foundations of Tennessee’s current and future generations.
 We have made considerable progress; In the last eight years, we have invested over $1 billion dollars in K-12 education, and we have made the largest combined investment in teacher salaries than at any other point in our history.
 There is no denying the success we have experienced from these investments, and we are seeing transformative results.
@@ -36,8 +33,7 @@ A combination of all these things?
 I don’t know the exact answer – but I see a tangible result with similar demographics like other schools in Memphis.
 Our goal must be to ensure that every student has the same opportunity for success in all public schools across our state.
 Solidifying the foundations of our students earlier in their academic careers will make the education torch shine brighter for our current and future generations of leaders.
-Healthcare
-As we have built a very competitive marketplace in the economy that adds jobs, increases income, controls costs, and fosters innovation.
+Healthcare As we have built a very competitive marketplace in the economy that adds jobs, increases income, controls costs, and fosters innovation.
 A good paying job is essential to survival, but there are other obstacles getting in the way.
 While we let the marketplace work in a few sectors like the economy, we don’t utilize the same principles that have made us successful in other areas like healthcare.
 Healthcare costs are escalating much faster than the normal rate of inflation.
@@ -58,13 +54,12 @@ Removing barriers to competition by redoing and eliminating the Certificate of N
 Finally, we must also determine what a basic healthcare plan is and what its intended use is.
 This healthcare monopoly wasn’t created overnight, so it will take time to correct.
 By controlling pricing, providing more access, and creating transparency – together, we can regain control of the healthcare torch and make it shine brighter for all patients.
-Tax Cuts
-Under Conservative leadership, we have eliminated more than $645 million in taxes since 2011.
-This includes multiple cuts to the Hall income tax, which will be completely eliminated by Jan. 1, 2021.
+Tax Cuts Under Conservative leadership, we have eliminated more than $645 million in taxes since 2011.
+This includes multiple cuts to the Hall income tax, which will be completely eliminated by Jan.
+1, 2021.
 We have also repealed both the gym tax and the inheritance tax, slashed the food tax, exempted sales tax on fiber optic cable and water for farming operations, made multiple reductions to the Franchise and Excise tax in order to attract new business to our state, and we continue to slash taxes on Tennesseans impacted by the professional privilege tax.
 With a large budget surplus, we should look for new ways we can return more money to the citizens of Tennessee.
-Law & Order
-We must prioritize our responsibility of keeping Tennesseans safe.
+Law & Order We must prioritize our responsibility of keeping Tennesseans safe.
 We are a society of laws, and we follow the rule of law.
 As I have traveled throughout this state in recent months, I have met with law enforcement, district attorneys, public defenders, and our judges.
 During these meetings, the concepts of truth in sentencing and mental health are frequently discussed.
@@ -77,3 +72,4 @@ Truth in sentencing laws are designed to hold violent and repeat offenders total
 Truth in sentencing is clear, concise and easy to understand.
 It may cost some additional money and resources.
 But getting away from a 5 means 2 mentality and starting a 5 means 5 sends a strong message to criminals and an even stronger message to those who protect and serve us that we stand with you.
+Home About Issues On the Road News Volunteer Contact Donate Paid for by Cameron Sexton for State Representative Mark Elmore, Treasurer Privacy Policy

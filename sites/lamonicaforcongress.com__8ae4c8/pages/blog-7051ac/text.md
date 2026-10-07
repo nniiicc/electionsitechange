@@ -1,6 +1,8 @@
-Amid spending cuts and pending charges, McIver brings Newark home $1M for STEM
-https://www.nj.com/essex/2026/02/amid-spending-cuts-and-pending-charges-mciver-brings-newark-home-1m-for-stem.html
-Mar 3
-Labor and community unite behind N.J. lawmaker charged by ICE
-https://peoplesworld.org/article/labor-and-community-unite-behind-n-j-lawmaker-charged-by-ice/
-Jul 2, 2025
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events LaMonica's Download Media/Press Releases/Campaign News For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com Follow us on Socials McIver officially launches re-election campaign in NJ-10 Mar 3 Amid spending cuts and pending charges, McIver brings Newark home #M for STEM https://www.nj.com/essex/2026/02/amid-spending-cuts-and-pending-charges-mciver-brings-newark-home-#m-for-stem.html Mar 3 Huge: See lawmaker fighting Trump DOJ’s bid to imprison Dems for ICE 'oversight' Jul 2, 2025 'Sold their soul for Donald Trump': Rep.
+LaMonica McIver on Republicans Jul 2, 2025 Labor and community unite behind N.J. lawmaker charged by ICE https://peoplesworld.org/article/labor-and-community-unite-behind-n-j-lawmaker-charged-by-ice/ Jul 2, 2025 J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

@@ -1,9 +1,5 @@
-Send Mailing Inquiries to: Address: 607 Elmira Road Suite 288 Vacaville, CA 95687-4655
-Phone: 707-340-4047
-Email: info@rudyforuscongress.com
-Request Signs Below – Select in Message Context drop down list
-Comments are closed.
-Find Your Congressional District
-Click here to see a detailed map of your district
-Rudy's podcast Boot's on the Ground
-Register to Vote in California
+Major (Ret) Rudy Recile For U.S.
+Congress "Ang Inyong Lingkod" (At Your Service) Menu Skip to content Home About Issues Support for Veterans Education and School Choice Energy Independence Accountability in Government Spending Politics Volunteer Donate Interviews and Media coverage Candidates and Businesses I Support Candidates Businesses I support Contact Us Past Events Contact Us Send Mailing Inquiries to: Address: 607 Elmira Road Suite 288 Vacaville, CA 95687-4655 Phone: 707-340-4047 Email: info@rudyforuscongress.com Request Signs Below – Select in Message Context drop down list Please enable JavaScript in your browser to complete this form.
+Name * First Last Subject Email * Phone Number (optional) Message Context General Information Sign Request Volunteer Media Let us know what you'd like to know Address Address Line 1 Address Line 2 City Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming State Zip Code Checkboxes Sign up for updates Sign type - Add quantity in comments Standard Yard Sign 18" X 24" Diamond Sign 4' X 4' Large Sign 4' X 8' Other I will contact you Comment or Message * Submit Comments are closed.
+Donate Here Click on Map to see more detail Find Your Congressional District Click here to see a detailed map of your district Rudy's podcast Boot's on the Ground Register to Vote in California Major (Ret) Rudy Recile For U.S.
+Congress | Powered by Mantra & WordPress.

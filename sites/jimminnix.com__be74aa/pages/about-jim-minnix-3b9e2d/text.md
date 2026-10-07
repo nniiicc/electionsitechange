@@ -1,4 +1,4 @@
-Jim Minnix is a 4th generation Scott County farmer, farming both of his Great Grandfathers homesteads in Southwest Scott County.
+↓ Home Mobile Menu ↓ Skip to primary content Skip to secondary content Home About Jim News Jim in the News Jim’s Newsletters Legislature Jim in the Legislature Legislative Highlights Policy Resources Resource Links House District 118 Contact Donate Jim Minnix for Kansas House Kansas House District 118 About Jim Minnix Jim Minnix is a 4 th generation Scott County farmer, farming both of his Great Grandfathers homesteads in Southwest Scott County.
 His Great Grandfathers came to Scott County in early 1870s.
 Currently Jim farms 6600 acres in Scott and Wichita Counties.
 Jim graduated from Scott Community High School in 1972.
@@ -16,3 +16,5 @@ Jim was elected to the Kansas House of Representatives in 2020.
 He serves on the House Agricultural Committee, Transportation committee and beginning in 2023, he serves as Chairman of the House Water Committee.
 Jim has been married to Eilene for 34 years.
 They have six children and nine grandchildren.
+Jim’s Mailing List Subscribe to Jim’s mailing list .
+Minnix for Kansas House Kansas Legislature About the Legislature The Kansas House Find Your Legislator Kansas Legislative Guide Contact Jim 8101 W Road 40 Scott City, Kansas 67871 Phone: 620-874-4498 jimminnix@icloud.com Paid for by Minnix for Kansas House | Perry Nowak, Treasurer ↑

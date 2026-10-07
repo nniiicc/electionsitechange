@@ -1,4 +1,4 @@
-Hi, I’m Brenda Bandy.
+0 Skip to Content About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Hi, I’m Brenda Bandy.
 I did the math - 43 years.
 That is how long I have been in Manhattan.
 I turned one in an apartment complex off Seth Child when my Dad was stationed at Fort Riley.
@@ -17,29 +17,16 @@ Passing that law was the beginning of a 20-year commitment to passing policies t
 I am a co-founder of the Kansas Breastfeeding Coalition, a non-profit that has improved breastfeeding rates across Kansas.
 I learned the value of building relationships, listening, and working with people who have different ideas to accomplish a singular goal.
 My work in public health policymaking was recognized last fall by the Kansas Public Health Association’s highest award, the Samuel J.
-Crumbine Medal.
+Crumbine Medal .
 This medal is given for meritorious service as well as state, regional, or national recognition related to the improvement of the health of Kansans and/or the environment of the state.
 I have chosen Manhattan over and over again in my life.
 I want Manhattan to be a strong, viable choice for others.
 That’s why I am running for House District 67.
-- Graduated from Manhattan High School
-- Graduated from Kansas State University
-- Worked in property management for 10+ years
-- Co-founded a nonprofit
-- Military wife and daughter
-- Mother to four adult children
-- Manhattan Chamber of Commerce
-- K-State Alumni Association
-- League of Women Voters
-- Kansas Public Health Association
-- U.S.
-Lactation Consultant Association
-Receiving the Heartland Health Equity Award, Sept. 2025.
-(with Todd Moore)
-Receiving the Samuel J.
+Donate Just the Facts Graduated from Manhattan High School Graduated from Kansas State University Worked in property management for 10+ years Co-founded a nonprofit Military wife and daughter Mother to four adult children Memberships Manhattan Chamber of Commerce K-State Alumni Association League of Women Voters Kansas Public Health Association U.S.
+Lactation Consultant Association Receiving the Heartland Health Equity Award, Sept.
+2025. (with Todd Moore) Receiving the Samuel J.
 Crumbine Award, 2026.
-Big Ideas,
-Real Impact.
+Big Ideas, Real Impact.
 Signing ceremony for the law that protects a mother’s right to breastfeeding in public in 2006 with Governor Sebelius and family.
 For the past 20 years, I have worked with legislators at the Capitol in Topeka, advocating for policies that support families.
 I’ve noticed they have less time, and for some, less interest in listening as the majority grows in power.
@@ -54,7 +41,6 @@ Some call me tenacious.
 Others say passionate.
 Whatever it is that has made me successful in passing pro-family policies and building a nonprofit that has impacted our state - I will put into serving House District 67.
 I am committed to listening to constituents, advocates, and my legislative colleagues.
-The result will be stronger, commonsense policies that –
-- Will make it easier to raise a family and care for our elderly in Kansas by decreasing costs and giving people time to care for one another;
-- Build a stronger economy that makes Kansas a good choice for those wanting to start a business or start a family;
-- Makes health care easier to access.
+The result will be stronger, commonsense policies that – Will make it easier to raise a family and care for our elderly in Kansas by decreasing costs and giving people time to care for one another; Build a stronger economy that makes Kansas a good choice for those wanting to start a business or start a family; Makes health care easier to access.
+Donate Here Paid for by Bandy for Kansas.
+Carol Adams, Treasurer 1310 Westloop Place STE A PMB 280, Manhattan, KS 66502 brenda@bandyforkansas.com Privacy Policy

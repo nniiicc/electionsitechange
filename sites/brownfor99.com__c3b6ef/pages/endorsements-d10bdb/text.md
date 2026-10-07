@@ -1,5 +1,13 @@
-Community Endorsements
-"I have known this man since I was about fourteen years old.
+Skip navigation menu Home Meet Dr.
+Brown Issues Volunteer Endorsements Contact Donate The Doctor is IN!
+Will you join him?
+Endorsements Home Meet Dr.
+Brown Issues Volunteer Endorsements Contact Donate The Doctor is IN!
+Will you join him?
+Endorsements Community Endorsements FRM.
+COuncilman REV.
+Dr.
+Lee Cooper "I have known this man since I was about fourteen years old.
 I knew his father.
 I knew his brother.
 And in all those years, they have shown themselves to be good and decent people.
@@ -12,4 +20,8 @@ I believe he is ready on day one to walk into that Capitol and make a difference
 So I encourage you, vote for Dr.
 Herschel Brown, House District 99 on August 25th.
 He is ready.
-And so are we."
+And so are we." Pastor Derrick Scobey Representative Aletia Timmons Former Representative Kevin COX Pastor Kelly Booker Pastor Arthur Rainey Pastor Michael McDaniel View More The Doctor is IN!
+Support Dr.
+Herschel Brown’s campaign for HD-99.
+Powered by RUN! website builder Paid for By the Dr.
+Brown for District Campaign 2026 You need to enable JavaScript to run this app.

@@ -1,10 +1,10 @@
-IT IS A TREMENDOUS HONOR TO BE WITH YOU ALL HERE TODAY TO COMMEMORATE AND MEMORIALIZE HORACE MANN IN THE PLACE WHERE HE WAS BORN AND SPENT NEARLY ONE THIRD OF HIS LIFE.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Horace Mann dedication remarks IT IS A TREMENDOUS HONOR TO BE WITH YOU ALL HERE TODAY TO COMMEMORATE AND MEMORIALIZE HORACE MANN IN THE PLACE WHERE HE WAS BORN AND SPENT NEARLY ONE THIRD OF HIS LIFE.
 MANN WAS BORN DURING THE FOUNDING OF AMERICA, LESS THAN 20 YEARS AFTER THE DRAFTING OF THE DECLARATION OF INDEPENDENCE AND WHILE GEORGE WASHINGTON WAS STILL PRESIDENT.
 DURING THOSE EARLY YEARS, AMERICANS ECHOED GEORGE WASHINGTON AND THOMAS JEFFERSON ON THE DUTY OF THE STATE TO SUPPLY EDUCATION TO ALL CHILDREN.
 BUT IT WAS HORACE MANN WHO MOVED THE IDEA FROM CONVERSATION AND PUT IT INTO ACTUAL PRACTICE.
 MANN HAD THE VISION, COURAGE, AND PRACTICAL LEGISLATIVE EXPERIENCE TO TRANSLATE THESE PRINCIPLES INTO ACTUAL SCHOOLROOMS AND FUNCTIONING PROGRAMS.
-MANN KNEW THAT ONE OF THE MOST IMPORTANT OBJECTS OF GOVERNMENT IS “TO GIVE TO EVERY CHILD IN THE COMMONWEALTH A FREE, STRAIGHT, SOLID PATHWAY, BY WHICH HE COULD WALK DIRECTLY UP FROM THE IGNORANCE OF AN INFANT TO A KNOWLEDGE OF THE PRIMARY DUTIES OF A MAN.”
-BELIEVING THAT DEMOCRATIC FREEDOM COULD BE ENJOYED ONLY BY AN EDUCATED CITIZENRY, MANN SET ABOUT TO CHANGE THE ATTITUDE OF THE AMERICAN PEOPLE TOWARD THE COMMON SCHOOLS FROM APATHY AND INDIFFERENCE TO ACTIVE ENTHUSIASM AND SUPPORT.
+MANN KNEW THAT ONE OF THE MOST IMPORTANT OBJECTS OF GOVERNMENT IS “TO GIVE TO EVERY CHILD IN THE COMMONWEALTH A FREE, STRAIGHT, SOLID PATHWAY, BY WHICH HE COULD WALK DIRECTLY UP FROM THE IGNORANCE OF AN INFANT TO A KNOWLEDGE OF THE PRIMARY DUTIES OF A MAN.” BELIEVING THAT DEMOCRATIC FREEDOM COULD BE ENJOYED ONLY BY AN EDUCATED CITIZENRY, MANN SET ABOUT TO CHANGE THE ATTITUDE OF THE AMERICAN PEOPLE TOWARD THE COMMON SCHOOLS FROM APATHY AND INDIFFERENCE TO ACTIVE ENTHUSIASM AND SUPPORT.
 I THINK HE WOULD BE PROUD TO SEE THAT TODAY, MASSACHUSETTS IN NUMBER ONE IN THE NATION AND TOPS IN THE WORLD FOR EDUCATION, ALL BUILT ON THE FOUNDATION HE ESTABLISHED.
 HORACE MANN WAS BORN IN A FARM HOUSE ABOUT A MILE SOUTH OF HERE, AND HE WAS CHEIFLY SELF-TAUGHT.
 UP TO THE AGE OF 15, HIS ONLY FORMAL EDUCATION WAS DURING THE THREE MONTHS THAT SCHOOL WAS OPEN, ALLOWING NO MORE THAN EIGHT OR TEN WEEKS FOR SCHOOLING IN ANY GIVEN YEAR.
@@ -29,3 +29,11 @@ FINALLY, I WANT TO THANK THE MEMBERS OF THE STATUE COMMITTEE FOR THE GREAT WORK 
 I WAS HONORED TO BE A PART OF THE TEAM.
 AND THANK YOU TO EVERYONE WHO CAME OUT TO BE A PART OF THIS SPECIAL DAY FOR HORACE MANN, OUR COMMUNITY, AND THE CAUSE OF EDUCATION FOR ALL.
 THANK YOU AND PLEASE ENJOY THE REST OF YOUR DAY.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

@@ -1,7 +1,9 @@
 {
  "description": "Explore upcoming political issues like healthcare reform, immigration policy, and renewable power with Burke4Congress.",
  "final_url": "https://burke4congress.us/priorities",
- "paid_for_by": null,
+ "fingerprint": "83dbf02bd820b97cfb3f7a1cb1d226df75dbb12f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Priorities",
  "years_mentioned": []
 }

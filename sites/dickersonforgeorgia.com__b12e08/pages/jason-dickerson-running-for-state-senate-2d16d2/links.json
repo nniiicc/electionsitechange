@@ -1,10 +1,42 @@
 [
-"http://instagram.com/dickersonforgeorgia",
-"https://api.whatsapp.com/send?text=I+wanted+to+share+this+great+website+with+you+https%3A%2F%2Fwww.dickersonforgeorgia.com%2Ftips-for-writing-great-posts-that-increase-your-site-traffic",
-"https://dickersonforgeorgia.com/",
-"https://dickersonforgeorgia.com/about",
-"https://dickersonforgeorgia.com/blog",
-"https://dickersonforgeorgia.com/contact",
-"https://dickersonforgeorgia.com/food-resources",
-"https://facebook.com/DickersonforGeorgia"
+{
+"text": "About",
+"href": "https://www.dickersonforgeorgia.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.dickersonforgeorgia.com/blog"
+},
+{
+"text": "Community Food Resources",
+"href": "https://www.dickersonforgeorgia.com/food-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.dickersonforgeorgia.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.dickersonforgeorgia.com/"
+},
+{
+"text": "Home",
+"href": "https://www.dickersonforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/dickersonforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://api.whatsapp.com/send?text=I+wanted+to+share+this+great+website+with+you+https%3A%2F%2Fwww.dickersonforgeorgia.com%2Ftips-for-writing-great-posts-that-increase-your-site-traffic"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DickersonforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=I+wanted+to+share+this+great+website+with+you&body=https%3A%2F%2Fwww.dickersonforgeorgia.com%2Ftips-for-writing-great-posts-that-increase-your-site-traffic"
+}
 ]

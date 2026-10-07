@@ -1,0 +1,5 @@
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page Texans For Greg Abbott Raises Over $20 Million Oct 5, 2026 Governor Abbott’s Campaign Has Over $17 Million Cash on Hand AUSTIN – Texans for Greg Abbott today announced a successful fundraising period, raising more than $20 million from July 1, 2026, to September 24, 2026.
+“As we head into the home stretch of the campaign, Governor Abbott continues to receive strong support from Texans who want a safer, stronger, and more affordable Texas,” said Texans for Greg Abbott Campaign Manager Kim Snyder.
+“With Election Day less than one month away, Governor Abbott has the resources he needs to win and support Republican candidates up and down the ballot.” The total cash on hand for Texans for Greg Abbott on September 24, 2026, was over $17 million.
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

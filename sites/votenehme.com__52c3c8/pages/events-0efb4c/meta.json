@@ -1,7 +1,9 @@
 {
  "description": "Upcoming events for the Hassan Nehme campaign. Fundraisers, walkday kickoffs, meet-and-greets.",
  "final_url": "https://hassannehme.com/events",
- "paid_for_by": null,
+ "fingerprint": "f84ae0d538ea5d1b11dcdb5199af9359bfb37ad8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events - Hassan Nehme for State Representative",
  "years_mentioned": [
   "2026"

@@ -1,5 +1,7 @@
-Trans Maryland provides resources for health care, support programs and individual rights.
-Please click here for more information.
-The Trevor Project has peer supports, advocacy, and 24/7 crisis services for young people who need support.
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Trans Maryland provides resources for health care, support programs and individual rights.
+Please click here for more information .
+The Trevor Project has peer supports, advocacy, and 24/7 crisis services for young people who need support .
 FreeState Justice provides a variety of legal services to assist with legal name changes, declarations of gender identity, discrimination matters, family law matters, protective and peace orders, individual rights, hate crime/bias incident reports, and other community services.
-Please click here for more information.
+Please click here for more information .
+Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

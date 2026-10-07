@@ -1,5 +1,4 @@
-ABOUT
-I live and work in a beautiful area of the state of Idaho!
+208.663.4607 vburtenshaw@senate.idaho.gov Toggle Navigation Request Absentee Ballot About Contact Volunteer Contribute About ABOUT I live and work in a beautiful area of the state of Idaho!
 I have farmed and ranched in the Terreton area all my life.
 I have been married to my wife, Joni, for 39 years and we have five children and 16 grandchildren.
 It has been my privilege to represent Legislative District 35 in the legislature the past four sessions and in the state senate for the last two sessions.
@@ -17,3 +16,4 @@ As a member of JFAC, I have the responsibility, together with other committee me
 We are charged with weighing the needs of the departments against the available revenue.
 Idaho is the fastest growing state in the nation, and we struggle to keep pace with our technology and infrastructure needs.
 This assignment has allowed me to work with the various agencies of state government and gain an appreciation for what they provide for us as citizens of our legislative district, as well as the entire state.
+Hestia | Developed by ThemeIsle

@@ -1,37 +1,15 @@
-Lisa Demuth’s plan to end fraud in Minnesota
-“The most important thing I will do as governor to eliminate fraud is to change the culture.
+Donate Home About Priorities Fraud Prevention Plan Affordability Agenda Education Plan Public Safety Plan Store Take Action Donate Lisa Demuth’s plan to end fraud in Minnesota “The most important thing I will do as governor to eliminate fraud is to change the culture.
 No longer will our government be fixated on shoveling out taxpayer dollars first and asking questions later.
-We will transform Minnesota’s state government into a fiscal and moral steward of our tax dollars.”
-Lisa Demuth
-"If you steal welfare from our state, you’re going to prison – with no exceptions.
+We will transform Minnesota’s state government into a fiscal and moral steward of our tax dollars.” Lisa Demuth "If you steal welfare from our state, you’re going to prison – with no exceptions.
 You’re paying it back and we’re seizing the assets.
 You’ll receive a lifetime ban from receiving benefits.
 You can go to another state but you’re not going to steal from Minnesota again.
-We’re going to put people in prison and get the money back."
-As governor, Lisa Demuth will take immediate steps to enact her Fraud Prevention Plan, which will stop out-of-control fraud in Minnesota’s welfare programs:
-- As Governor, Demuth will fire all existing commissioners and deputy commissioners and replace them with experts in their respective fields that are committed to ending the culture of fraud.
-- Direct agency commissioners to accomplish the following:
-- Hire the best forensic accountants on the market to investigate credible whistleblower reports and respond to red flags when discovered by staff;
-- Establish programs and hire staff to conduct routine, unannounced site visits to recipients of tax dollars for programs such as CCAP, non-emergency transportation, and Medicaid services;
-- Develop regular, routine cross-check analysis for known fraudulent criminals against payments in other programs.
-- Crack down on fraud and work with the federal government to ensure legitimate providers can continue providing critical services to Minnesotans in need;
-- Ban remittances for Minnesotans on welfare and convicted of defrauding state government;
-- Ensure that participating entities credibly suspected of fraud will be ineligible to participate in any other programs until we can be assured that tax dollars are not being wasted;
-- Flag for investigation providers being run by individuals located outside the country;
-- Propose legislation to move services such as eligibility determination to a central, state-run entity, with likely regional components, rather than by the 87 individual counties across Minnesota;
-- Direct her lieutenant governor, Ryan Wilson, to take on the lead task of working across agencies and within agencies to root out fraud;
-- The Demuth-Wilson administration will form a standing fraud oversight committee at the executive level to be led by Demuth’s lieutenant governor, Ryan Wilson.
-Fraud Prevention Measures Already Passed Under Lisa's Leadership:
-- Established an independent Office of Inspector General, empowered with law enforcement tools to root out fraud across state government;
-- Major investments in technology modernization to help reduce payment error rates and strengthen identity verification;
-- 100% tax on fraud, ensuring fraudsters pay the price for stealing from taxpayers;
-- New licensing enforcement tools at the Minnesota Department of Human Services (DHS);
-- Banned payments to non-profits who fail to file timely tax documents
-- Stronger anti-kickback measures;
-- Expanded whistleblower protections for agency employees;
-- Stronger background check requirements for housing support providers;
-- Expanded Medicaid fraud investigations and enforcement capacity.
-“Families and providers that are doing everything right are being punished and swept up into the tsunami of fraud created by the Democrats.
+We’re going to put people in prison and get the money back." As governor, Lisa Demuth will take immediate steps to enact her Fraud Prevention Plan, which will stop out-of-control fraud in Minnesota’s welfare programs: As Governor, Demuth will fire all existing commissioners and deputy commissioners and replace them with experts in their respective fields that are committed to ending the culture of fraud.
+Direct agency commissioners to accomplish the following: Hire the best forensic accountants on the market to investigate credible whistleblower reports and respond to red flags when discovered by staff; Establish programs and hire staff to conduct routine, unannounced site visits to recipients of tax dollars for programs such as CCAP, non-emergency transportation, and Medicaid services; Develop regular, routine cross-check analysis for known fraudulent criminals against payments in other programs.
+Crack down on fraud and work with the federal government to ensure legitimate providers can continue providing critical services to Minnesotans in need; Ban remittances for Minnesotans on welfare and convicted of defrauding state government; Ensure that participating entities credibly suspected of fraud will be ineligible to participate in any other programs until we can be assured that tax dollars are not being wasted; Flag for investigation providers being run by individuals located outside the country; Propose legislation to move services such as eligibility determination to a central, state-run entity, with likely regional components, rather than by the 87 individual counties across Minnesota; Direct her lieutenant governor, Ryan Wilson, to take on the lead task of working across agencies and within agencies to root out fraud; The Demuth-Wilson administration will form a standing fraud oversight committee at the executive level to be led by Demuth’s lieutenant governor, Ryan Wilson.
+Fraud Prevention Measures Already Passed Under Lisa's Leadership: Established an independent Office of Inspector General, empowered with law enforcement tools to root out fraud across state government; Major investments in technology modernization to help reduce payment error rates and strengthen identity verification; 100% tax on fraud, ensuring fraudsters pay the price for stealing from taxpayers; New licensing enforcement tools at the Minnesota Department of Human Services (DHS); Banned payments to non-profits who fail to file timely tax documents Stronger anti-kickback measures; Expanded whistleblower protections for agency employees; Stronger background check requirements for housing support providers; Expanded Medicaid fraud investigations and enforcement capacity. “ Families and providers that are doing everything right are being punished and swept up into the tsunami of fraud created by the Democrats.
 My message to the disability community and others that rely on these funds: Help is on the way.
-You don’t deserve to be collateral damage in the Democrat-enabled fraud epidemic.”
-– Lisa Demuth
+You don’t deserve to be collateral damage in the Democrat-enabled fraud epidemic.” – Lisa Demuth Chip in to Join Our Team 5 10 25 50 100 500 Have questions for Lisa?
+Contact [email protected] Prepared and Paid for by the Lisa Demuth for Governor Committee.
+1041 Grand Ave #217, Saint Paul, MN 55105.
+PRIVACY POLICY · TERMS AND CONDITIONS Home About Priorities Fraud Prevention Plan Affordability Agenda Education Plan Public Safety Plan Store Take Action Donate

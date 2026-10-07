@@ -1,37 +1,158 @@
 [
-"http://allaboutcookies.org/",
-"http://jeffwadlin.nationbuilder.com/donate",
-"http://opera.com/browser/tutorials/security/cookies",
-"http://support.apple.com/kb/PH5042",
-"http://support.microsoft.com/kb/278835/en",
-"http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences",
-"https://attorneygeneral.delaware.gov/fraud/privacy-complaint-form",
-"https://complaints.coag.gov/s?varCFT=2",
-"https://consumerprotection.texasattorneygeneral.gov/consumercomplaintportal/s/flow/TCP_Complaint_Input_Data_Privacy",
-"https://dir.ct.gov/ag/complaint/e-complaint.aspx?CheckJavaScript=1%3FCheckJavaScript%3D1",
-"https://doj.nh.gov/data-privacy-enforcement",
-"https://dojmt.gov/office-of-consumer-protection/consumer-complaints",
-"https://facebook.com/JeffWadlinForArkansas",
-"https://globalprivacycontrol.org/",
-"https://instagram.com/jeffwadlin",
-"https://iowaattorneygeneral.gov/for-consumers",
-"https://jeffwadlin.com/",
-"https://jeffwadlin.com/about",
-"https://jeffwadlin.com/cart",
-"https://jeffwadlin.com/contact",
-"https://jeffwadlin.com/events",
-"https://jeffwadlin.com/in-the-news",
-"https://jeffwadlin.com/issues",
-"https://jeffwadlin.com/privacy-policy",
-"https://jeffwadlin.com/shop-merch",
-"https://jeffwadlin.com/terms-of-service",
-"https://jeffwadlin.com/volunteer",
-"https://justice.oregon.gov/consumercomplaints/OnlineComplaints/OnlineComplaintForm/en",
-"https://nebraska.gov/apps-ago-complaints",
-"https://njconsumeraffairs.nj.gov/file-a-complaint",
-"https://oag.state.va.us/consumercomplaintform/start",
-"https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy",
-"https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647",
-"https://threads.com/@jeffwadlin?hl=en",
-"https://x.com/jeffwadlin"
+{
+"text": "0",
+"href": "https://www.jeffwadlin.com/cart"
+},
+{
+"text": "479.370.5710",
+"href": "tel:479.370.5710"
+},
+{
+"text": "About",
+"href": "https://www.jeffwadlin.com/about"
+},
+{
+"text": "Chrome",
+"href": "https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647"
+},
+{
+"text": "Colorado Attorney General",
+"href": "https://complaints.coag.gov/s/?varCFT=2"
+},
+{
+"text": "Connecticut Attorney General",
+"href": "https://www.dir.ct.gov/ag/complaint/e-complaint.aspx?CheckJavaScript=1%3FCheckJavaScript%3D1"
+},
+{
+"text": "Contact",
+"href": "https://www.jeffwadlin.com/contact"
+},
+{
+"text": "DONATE",
+"href": "http://jeffwadlin.nationbuilder.com/donate"
+},
+{
+"text": "Delaware Attorney General",
+"href": "https://attorneygeneral.delaware.gov/fraud/privacy-complaint-form/"
+},
+{
+"text": "Events",
+"href": "https://www.jeffwadlin.com/events"
+},
+{
+"text": "Firefox",
+"href": "http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences"
+},
+{
+"text": "Global Privacy Control (GPC)",
+"href": "https://globalprivacycontrol.org/"
+},
+{
+"text": "In the News",
+"href": "https://www.jeffwadlin.com/in-the-news"
+},
+{
+"text": "Info@JeffWadlin.com",
+"href": "mailto:Info@JeffWadlin.com"
+},
+{
+"text": "Internet Explorer",
+"href": "http://support.microsoft.com/kb/278835/en"
+},
+{
+"text": "Iowa Attorney General",
+"href": "https://www.iowaattorneygeneral.gov/for-consumers"
+},
+{
+"text": "Issues",
+"href": "https://www.jeffwadlin.com/issues"
+},
+{
+"text": "Microsoft Edge",
+"href": "https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy"
+},
+{
+"text": "Montana Attorney General",
+"href": "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/"
+},
+{
+"text": "Nebraska Attorney General",
+"href": "https://www.nebraska.gov/apps-ago-complaints/"
+},
+{
+"text": "New Hampshire Attorney General",
+"href": "https://www.doj.nh.gov/data-privacy-enforcement"
+},
+{
+"text": "New Jersey Attorney General",
+"href": "https://njconsumeraffairs.nj.gov/file-a-complaint/"
+},
+{
+"text": "Opera",
+"href": "http://www.opera.com/browser/tutorials/security/cookies/"
+},
+{
+"text": "Oregon Attorney General",
+"href": "https://justice.oregon.gov/consumercomplaints/OnlineComplaints/OnlineComplaintForm/en"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jeffwadlin.com/privacy-policy"
+},
+{
+"text": "Safari",
+"href": "http://support.apple.com/kb/PH5042"
+},
+{
+"text": "Shop Merch",
+"href": "https://www.jeffwadlin.com/shop-merch"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.jeffwadlin.com/terms-of-service"
+},
+{
+"text": "Texas Attorney General",
+"href": "https://consumerprotection.texasattorneygeneral.gov/consumercomplaintportal/s/flow/TCP_Complaint_Input_Data_Privacy"
+},
+{
+"text": "Virginia Attorney General",
+"href": "https://www.oag.state.va.us/consumercomplaintform/start"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jeffwadlin.com/volunteer"
+},
+{
+"text": "[image: Jeff Wadlin For U.S. Senate]",
+"href": "https://www.jeffwadlin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JeffWadlinForArkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffwadlin/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jeffwadlin?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jeffwadlin"
+},
+{
+"text": "http://www.allaboutcookies.org/",
+"href": "http://www.allaboutcookies.org/"
+},
+{
+"text": "info@JeffWadlin.com",
+"href": "mailto:info@JeffWadlin.com"
+},
+{
+"text": "info@JeffWadlin.com",
+"href": "mailto:info@WadlinForSenate.com"
+}
 ]

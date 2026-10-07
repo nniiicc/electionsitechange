@@ -1,7 +1,9 @@
 {
  "description": "This is the contact us page of the website",
  "final_url": "https://www.votekyleharris.com/contactus",
- "paid_for_by": null,
+ "fingerprint": "959a96bb7b1c294eba9f78dd2fc3cabc0f474d33",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact Us | Vote Kyle Harris",
  "years_mentioned": []
 }

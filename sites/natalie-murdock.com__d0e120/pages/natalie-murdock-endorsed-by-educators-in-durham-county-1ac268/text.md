@@ -1,7 +1,5 @@
-Natalie Murdock Endorsed by Educators in Durham County
-for N.C.
-Senate District 20 Legislative Seat
-RALEIGH, N.C. – Educators in Durham County who are members of the Durham Association of Educators, an affiliate of the North Carolina Association of Educators, have endorsed Natalie Murdock for the N.C.
+Home Meet Natalie Natalie’s Accomplishments Platform Endorsements Endorse Natalie Events Contact Volunteer Press Blog Donate Select Page Natalie Murdock Endorsed by Educators in Durham County by Natalie Murdock | Aug 6, 2020 | Education Natalie Murdock Endorsed by Educators in Durham County for N.C.
+Senate District 20 Legislative Seat RALEIGH, N.C. – Educators in Durham County who are members of the Durham Association of Educators, an affiliate of the North Carolina Association of Educators, have endorsed Natalie Murdock for the N.C.
 Senate District 20 legislative seat.
 The commitment of Murdock’s parents and grandparents to serve their community inspired her to dedicate her life and efforts to public service.
 Her mother worked as a nurse and her father was in the military and is a social work.
@@ -15,8 +13,11 @@ Families throughout North Carolina need access to affordable health care.
 Workers need the ability to feed their families, pay their bills, and afford quality housing.
 Barriers remain to providing liberty, justice, equality, fairness, and opportunity for all residents of our state.
 Too many in control of the legislature do little or nothing to solve these problems.
-Instead, they come up with tactics and strategy to make sure that they pass their agenda to aid their special interests, to keep whatever power they hold and to reward their friends and those that agree with them.”
-“Educators know that candidates like Natalie, who have the experience and the drive to make a difference, are what’s needed in the state Legislature,” said Michelle Burton, president of the Durham Association of Educators.
+Instead, they come up with tactics and strategy to make sure that they pass their agenda to aid their special interests, to keep whatever power they hold and to reward their friends and those that agree with them.” “Educators know that candidates like Natalie, who have the experience and the drive to make a difference, are what’s needed in the state Legislature,” said Michelle Burton, president of the Durham Association of Educators.
 “Our students, our schools, our communities, and our state are depending on the work of the General Assembly to make North Carolina a leader not only in the South, but the nation!
-Lawmakers like Natalie can and will do just that!”
-NCAE is the state’s largest education advocacy organization for public school employees and represents active, retired, and student members.
+Lawmakers like Natalie can and will do just that!” NCAE is the state’s largest education advocacy organization for public school employees and represents active, retired, and student members.
+Search for: Recent Posts ‘A Long Time Coming’: NC Sen.
+Natalie Murdock Tells Us Why Biden’s Choice for VP Matters Natalie Murdock Endorsed by Educators in Durham County North Carolina Leaders Praise Joe Biden’s Plan for Racial Equity Our bodies.
+Our livelihoods.
+Our rights.
+Carrying the Torch to Justice: A Tribute to Freedom Fighters Archives August 2020 February 2020 Categories Black History Education Housing Presidential Campaign Racial Equity Women of Color Women's Rights Meta Log in Entries feed Comments feed WordPress.org Facebook X Paid for by Natalie for NC Senate

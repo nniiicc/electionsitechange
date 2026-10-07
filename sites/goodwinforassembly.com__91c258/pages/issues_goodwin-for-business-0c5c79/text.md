@@ -1,5 +1,5 @@
-GOODWIN FOR BUSINESS
-Russell Antonio Goodwin, Sr. plans to be a Goodwin for business in Milwaukee by addressing the gaps in mentorship, leadership, and support systems that can potentially hinder the growth of small businesses in the county.
+Home Meet Russell GOODWIN RECKLESS DRIVING PLAN Issues News Volunteer Contribute on ActBlue.com Donate Directly on Paypal.com 2026 Rep.
+Russell Goodwin Endorsements Yard Signs Contact Home ❭ Issues ❭ GOODWIN FOR BUSINESS GOODWIN FOR BUSINESS Russell Antonio Goodwin, Sr. plans to be a Goodwin for business in Milwaukee by addressing the gaps in mentorship, leadership, and support systems that can potentially hinder the growth of small businesses in the county.
 Despite having a strong network of support organizations for small businesses, there is a lack of a leading organization to coordinate and streamline resources to create a better ecosystem for entrepreneurs.
 Goodwin recognizes the need for a more cohesive approach to supporting small businesses in Milwaukee and aims to establish a centralized "front door" for entrepreneurs to access resources, similar to successful models in other cities like Kansas City and Detroit.
 By promoting collaboration among existing support organizations and providing seamless assistance to local entrepreneurs, Goodwin seeks to enhance the capacity and effectiveness of the small business support ecosystem in the city.
@@ -7,4 +7,6 @@ Additionally, Goodwin understands the importance of addressing capacity gaps in 
 By improving financial management skills among entrepreneurs and expanding programming for financial coaching, Goodwin hopes to empower small business owners to succeed.
 He also sees the need for more community development financial institutions to work directly with small businesses and advocates for coordinated funding efforts from philanthropic organizations to support and grow the small business community in Milwaukee.
 Overall, Goodwin's focus on enhancing leadership, coordination, and financial support for small businesses in Milwaukee reflects his commitment to improving and growing the local business ecosystem.
-By addressing key challenges and leveraging existing resources, Goodwin aims to create a more vibrant and effective environment for small business owners and entrepreneurs to thrive in the city.
+By addressing key challenges and leveraging existing resources, Goodwin aims to create a more vibrant and effective environment for small business owners and entrepreneurs to thrive in the city. « Previous: GOODWIN FOR BETTER JOBS Next: GOODWIN FOR HOMEOWNERSHIP » Home Meet Russell Issues GOODWIN RECKLESS DRIVING PLAN Volunteer Events Photos Yard Signs Contact 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Privacy Policy Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr., Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home Meet Russell Issues 2026 Rep.
+Russell Goodwin Endorsements Contribute on ActBlue.com Donate Directly on Paypal.com Volunteer News Yard Signs Events Contact Close Menu

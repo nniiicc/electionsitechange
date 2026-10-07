@@ -1,16 +1,70 @@
 [
-"http://portlanddsa.org/",
-"https://act.dsausa.org/donate/membership",
-"https://docs.google.com/forms/d/e/1FAIpQLSegxFPldWXLO2O-JhPrHsZXqJnyy-vExJdc69fVH7-ZIuJt1A/viewform",
-"https://instagram.com/oregontammy",
-"https://instagram.com/oregontammy?hl=en",
-"https://secure.actblue.com/donate/drtammyforor",
-"https://tammyfororegon.com/",
-"https://tammyfororegon.com/about",
-"https://tammyfororegon.com/campaign-news",
-"https://tammyfororegon.com/endorsements",
-"https://tammyfororegon.com/getinvolved",
-"https://tammyfororegon.com/platform",
-"https://tammyfororegon.com/platform/healthcare",
-"https://tiktok.com/@oregontammy"
+{
+"text": "About Tammy",
+"href": "https://tammyfororegon.com/about/"
+},
+{
+"text": "Campaign News",
+"href": "https://tammyfororegon.com/campaign-news/"
+},
+{
+"text": "Democratic Socialists of America",
+"href": "http://portlanddsa.org"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/drtammyforor"
+},
+{
+"text": "Endorsements",
+"href": "https://tammyfororegon.com/endorsements/"
+},
+{
+"text": "Find a Tour Stop",
+"href": "https://tammyfororegon.com/platform/healthcare/"
+},
+{
+"text": "Get Involved",
+"href": "https://tammyfororegon.com/getinvolved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/oregontammy"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/oregontammy/?hl=en"
+},
+{
+"text": "Join DSA",
+"href": "https://act.dsausa.org/donate/membership/"
+},
+{
+"text": "Join Team Tammy!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSegxFPldWXLO2O-JhPrHsZXqJnyy-vExJdc69fVH7-ZIuJt1A/viewform"
+},
+{
+"text": "Mail",
+"href": "mailto:info@tammyfororegon.com"
+},
+{
+"text": "Tammy Carpenter for OR House District 27",
+"href": "https://tammyfororegon.com"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@oregontammy"
+},
+{
+"text": "What I Stand For",
+"href": "https://tammyfororegon.com/platform/"
+},
+{
+"text": "[image: Tammy Carpenter for OR House District 27]",
+"href": "https://tammyfororegon.com/"
+},
+{
+"text": "[image]",
+"href": "https://tammyfororegon.com/platform/healthcare/"
+}
 ]

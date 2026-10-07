@@ -1,9 +1,12 @@
 {
  "description": "Josh Church is a lifelong Alaskan, Marine veteran, business leader, and community servant who has been selected by Dave Bronson as his choice for Lieutenant Governor of Alaska.",
  "final_url": "https://www.davebronson.com/about-josh",
- "paid_for_by": "Paid for by Bronson Church 2026 | PO Box 90938, Anchorage, AK 99509 Contact: info@davebronson",
+ "fingerprint": "c8013d54ee3048e5da8a692c962cf3457e4e0b62",
+ "format": 3,
+ "paid_for_by": "Paid for by Bronson Church 2026",
  "title": "About Josh Church | Dave Bronson for Alaska Governor",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

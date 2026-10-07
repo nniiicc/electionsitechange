@@ -1,10 +1,38 @@
 [
-"https://aylwardnh.com/",
-"https://aylwardnh.com/about",
-"https://aylwardnh.com/author/kkuttab",
-"https://aylwardnh.com/category/news",
-"https://aylwardnh.com/contact",
-"https://aylwardnh.com/news",
-"https://aylwardnh.com/volunteer",
-"https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=1525&inflect=2"
+{
+"text": "About",
+"href": "https://aylwardnh.com/about/"
+},
+{
+"text": "Admin",
+"href": "https://aylwardnh.com/author/kkuttab/"
+},
+{
+"text": "Contact",
+"href": "https://aylwardnh.com/contact/"
+},
+{
+"text": "Deborah Aylward, NH State Representative:",
+"href": "https://aylwardnh.com"
+},
+{
+"text": "Home",
+"href": "https://aylwardnh.com/"
+},
+{
+"text": "News",
+"href": "https://aylwardnh.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://aylwardnh.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://aylwardnh.com/volunteer/"
+},
+{
+"text": "https://www.gencourt.state.nh.us/bill_status/billinfo.aspx?id=1525&inflect=2",
+"href": "https://www.gencourt.state.nh.us/bill_status/billinfo.aspx?id=1525&inflect=2"
+}
 ]

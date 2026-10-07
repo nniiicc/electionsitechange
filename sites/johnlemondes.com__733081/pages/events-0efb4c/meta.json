@@ -1,7 +1,9 @@
 {
  "description": "Stay informed about New York Assembly events and engage with John Lemondes&#39; upcoming political activities and initiatives.",
  "final_url": "https://johnlemondes.com/events",
- "paid_for_by": null,
+ "fingerprint": "55f9bcc9bad4038381ddde23226470ce71b09f23",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
  "years_mentioned": []
 }

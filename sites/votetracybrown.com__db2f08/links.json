@@ -1,5 +1,14 @@
 [
-"https://facebook.com/profile.php?id=100086590837897",
-"https://votetracybrown.com/",
-"https://votetracybrown.com/learn-more"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100086590837897"
+},
+{
+"text": "Learn More",
+"href": "https://www.votetracybrown.com/learn-more/"
+},
+{
+"text": "[image]",
+"href": "https://www.votetracybrown.com/"
+}
 ]

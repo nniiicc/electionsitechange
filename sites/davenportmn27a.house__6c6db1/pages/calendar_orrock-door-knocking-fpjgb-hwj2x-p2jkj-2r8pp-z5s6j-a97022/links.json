@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Big+Lake+Door+Knocking&dates=20260911T220000Z%2F20260912T000000Z&location=160+Lake+Street+North%2C+Big+Lake%2C+Minnesota%2C+55309%2C+United+States",
-"http://maps.google.com/?q=160+Lake+Street+North+Big+Lake%2C+Minnesota%2C+55309+United+States",
-"https://davenportmn27a.house/",
-"https://davenportmn27a.house/calendar",
-"https://davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-n44z3",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-2r8pp-z5s6j?format=ical",
-"https://davenportmn27a.house/calendar/sherburne-county-fair-parade-59bjt",
-"https://davenportmn27a.house/campaign-priorities",
-"https://davenportmn27a.house/cart",
-"https://davenportmn27a.house/endorsements",
-"https://davenportmn27a.house/our-district",
-"https://davenportmn27a.house/the-patriot-newspaper-articles",
-"https://davenportmn27a.house/the-patriot-newspaper-articles-1",
-"https://facebook.com/profile.php?id=61586379279340"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=160+lake+street+north+big+lake%2C+minnesota%2C+55309+united+states"
+},
+{
+"text": "0",
+"href": "https://www.davenportmn27a.house/cart"
+},
+{
+"text": "About",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Campaign Priorities",
+"href": "https://www.davenportmn27a.house/campaign-priorities"
+},
+{
+"text": "Davenport for Minnesota House 27A",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davenportmn27a.house/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Big+Lake+Door+Knocking&dates=20260911T220000Z%2F20260912T000000Z&location=160+Lake+Street+North%2C+Big+Lake%2C+Minnesota%2C+55309%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "ICS",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-2r8pp-z5s6j?format=ical"
+},
+{
+"text": "Next Next September 12 Palmer Day Parade",
+"href": "https://www.davenportmn27a.house/calendar/sherburne-county-fair-parade-59bjt"
+},
+{
+"text": "Our District",
+"href": "https://www.davenportmn27a.house/our-district"
+},
+{
+"text": "Previous Previous September 9 DFL SD27 Monthly Meeting",
+"href": "https://www.davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-n44z3"
+},
+{
+"text": "The Patriot Newspaper",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586379279340"
+},
+{
+"text": "[no text]",
+"href": "mailto:vanessa@davenportmn27a.house"
+}
 ]

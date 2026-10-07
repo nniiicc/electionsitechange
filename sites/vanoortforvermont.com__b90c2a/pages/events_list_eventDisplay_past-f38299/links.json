@@ -1,22 +1,102 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Events+%E2%80%93+Van+Oort+for+Vermont",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Events+%E2%80%93+Van+Oort+for+Vermont",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/canvassing-for-jessica-van-oort-for-state-house",
-"https://vanoortforvermont.com/event/launch-party",
-"https://vanoortforvermont.com/event/middletown-springs-house-party",
-"https://vanoortforvermont.com/event/pawlet-geothermal-groundbreaking",
-"https://vanoortforvermont.com/event/primary-election",
-"https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort",
-"https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort-2",
-"https://vanoortforvermont.com/event/west-pawlet-house-party",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/events/list",
-"https://vanoortforvermont.com/events/list?eventDisplay=past&ical=1",
-"https://vanoortforvermont.com/events/list?eventDisplay=past&outlook-ical=1",
-"https://vanoortforvermont.com/events/month",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "#ago",
+"href": "https://vanoortforvermont.com/events/list/"
+},
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Canvassing for Jessica Van Oort for State House",
+"href": "https://vanoortforvermont.com/event/canvassing-for-jessica-van-oort-for-state-house/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://vanoortforvermont.com/events/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://vanoortforvermont.com/events/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Launch party",
+"href": "https://vanoortforvermont.com/event/launch-party/"
+},
+{
+"text": "List",
+"href": "https://vanoortforvermont.com/events/list/"
+},
+{
+"text": "Middletown Springs House Party",
+"href": "https://vanoortforvermont.com/event/middletown-springs-house-party/"
+},
+{
+"text": "Month",
+"href": "https://vanoortforvermont.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://vanoortforvermont.com/events/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Events+%E2%80%93+Van+Oort+for+Vermont"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Events+%E2%80%93+Van+Oort+for+Vermont"
+},
+{
+"text": "Pawlet Geothermal Groundbreaking",
+"href": "https://vanoortforvermont.com/event/pawlet-geothermal-groundbreaking/"
+},
+{
+"text": "Primary election",
+"href": "https://vanoortforvermont.com/event/primary-election/"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "Virtual Phone Bank for Jessica Van Oort",
+"href": "https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort-2/"
+},
+{
+"text": "Virtual Phone Bank for Jessica Van Oort",
+"href": "https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort/"
+},
+{
+"text": "West Pawlet House Party",
+"href": "https://vanoortforvermont.com/event/west-pawlet-house-party/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://vanoortforvermont.com/events/list/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

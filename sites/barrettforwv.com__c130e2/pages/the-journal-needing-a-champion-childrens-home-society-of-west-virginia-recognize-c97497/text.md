@@ -1,9 +1,10 @@
-The Journal
-MARTINSBURG — When the foster care system in West Virginia needed a champion, Delegate Jason Barrett was there.
+Skip to content Jason Barrett About District 16 Issues News Media Contact Donate The Journal: Needing a Champion – Children’s Home Society of West Virginia Recognizes Del.
+Barrett’s Advocacy for Children The Journal MARTINSBURG — When the foster care system in West Virginia needed a champion, Delegate Jason Barrett was there.
 A member of the state House of Delegates, representing the Eastern Panhandle, Barrett was there on the floor to ensure House Bill 4092 was passed and the foster care system in the state had what it needs in stressful times.
 On Monday, Barrett was honored for his work in advocacy and in helping the bill be passed by the Children’s Home Society of West Virginia, receiving the Champion for Children medal at the Martinsburg location.
 “It’s incredibly humbling.
 I’m honored to accept it,” Barrett said.
 “I told the staff that I’m certainly humbled and honored to have the award, but they’re the ones that deserve the award every day, and that goes along for our foster families, because they’re the ones that are really on the front lines, dealing with it day to day.
-We don’t thank them enough, but I wanted to make sure they knew their work wasn’t going unnoticed.”
-Read the full article from The Journal
+We don’t thank them enough, but I wanted to make sure they knew their work wasn’t going unnoticed.” Read the full article from The Journal Share Post navigation Metro News – Delegate Barrett is the Latest to Announce He’ll Run for State Senate Categories News Recent Posts 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Latest News 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Berkeley County’s Sen.
+Barrett to chair West Virginia Senate finance committee Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Donate Paid for by Friends of Jason Barrett Powered By Push Digital Jason Barrett © #

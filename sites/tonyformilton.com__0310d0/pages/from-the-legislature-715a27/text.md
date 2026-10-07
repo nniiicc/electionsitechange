@@ -1,10 +1,4 @@
-Stay up to date on what’s happening in Montpelier.
-I regularly share updates on legislation, committee work, and the issues impacting Vermonters—so you can see exactly what’s being worked on and how it affects you.
-📰 In the News
-I’ve had the opportunity to discuss key issues facing Vermont in local media.
-Here are a few recent appearances:
-Navigating Vermont Housing Legislation
-Inside Housing Podcast • March 2026
-Listen to Interview
-Data Privacy and Act 181 Reforms
-WVMT Morning Drive • May 2026
+0 Skip to Content TonyForMilton.com Home About Issues Updates & Media Volunteer Donate Contact Open Menu Close Menu TonyForMilton.com Home About Issues Updates & Media Volunteer Donate Contact Open Menu Close Menu Home About Issues Updates & Media Volunteer Donate Contact Stay up to date on what’s happening in Montpelier.
+I regularly share updates on legislation, committee work, and the issues impacting Vermonters—so you can see exactly what’s being worked on and how it affects you. 👉 Read My Latest Updates 👉 Subscribe for Weekly Updates 📰Recent Posts Thoughts on Healthcare Reform Labor Day and Workforce Reform Thoughts on Tax Relief 📰 In the News I’ve had the opportunity to discuss key issues facing Vermont in local media.
+Here are a few recent appearances: Navigating Vermont Housing Legislation Inside Housing Podcast • March 2026 Listen to Interview Data Privacy and Act 181 Reforms WVMT Morning Drive • May 2026 Copyright © # Anthony “Tony” Micklus for VT House Campaign.
+All Rights Reserved

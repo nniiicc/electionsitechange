@@ -1,5 +1,4 @@
-Meet Mary Beth
-My story begins like many others: My mom and dad, a biracial couple, met in the ’70s, fell in love and married.
+0 Skip to Content Meet Mary Beth Issues Endorsements Get Involved District Map Volunteer Contact Me Donate Open Menu Close Menu Meet Mary Beth Issues Endorsements Get Involved District Map Volunteer Contact Me Donate Open Menu Close Menu Meet Mary Beth Issues Endorsements Folder: Get Involved Back District Map Volunteer Contact Me Donate Meet Mary Beth My story begins like many others: My mom and dad, a biracial couple, met in the ’70s, fell in love and married.
 Their strength and courage, coupled with my own life experiences, have made me a fiercely independent person with a strong moral compass and sense of justice.
 I’ve always felt I’ve had to do more and work harder because I’ve never squarely belonged in any one place; I’ve tried to use that feeling of being in the middle to my advantage in bringing people together.
 My dad was a Navy officer and pilot, so we moved several times in my early years.
@@ -18,3 +17,7 @@ Since being elected in 2022 I have made sure that families would have access to 
 I have worked hard to make a mark for the northwest suburbs and the people of Illinois.
 I believe the state should be focused on policies good for all Illinoisans, not a chosen few, and not just in select areas.
 I am honored to represent the 54th District, and to make sure we lead the state in innovative policies.
+Mary Beth Canty for ILlinois 14 E.
+Northwest Highway Arlington Heights, IL 60004 info@marybethcanty.com CONTRIBUTE Paid for by Mary Beth Canty for Illinois.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, IL.
+View our privacy policy

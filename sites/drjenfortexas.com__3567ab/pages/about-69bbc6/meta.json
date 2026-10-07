@@ -1,7 +1,9 @@
 {
  "description": "Learn about Dr. Jen for Texas, a dedicated healthcare professional committed to providing compassionate, expert medical care tailored to your needs.",
  "final_url": "https://www.drjenfortexas.com/about",
- "paid_for_by": null,
+ "fingerprint": "ec34eceee3bffe4a41e4fb6d2ffbd9f112be4c17",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Dr. Jen for Texas",
  "years_mentioned": [
   "2010",

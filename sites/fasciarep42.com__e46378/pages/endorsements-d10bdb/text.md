@@ -1,0 +1,3 @@
+Legislative Recap News & Endorsements Richard’s Story Support Contact Donate 2026 Endorsements International Brotherhood of Police Officers Rhode Island Fraternal Order of Police Rhode Island State Association of Fire Fighters Rhode Island Brotherhood of Correctional Officers Rhode Island Troopers Association Rhode Island Federation of Teachers Rhode Island Right to Life Committee Phone: 401-903-0314 Office Address: 82 Smith St.
+Room 106 Providence 02908 Legislative Recap News & Endorsements Richard’s Story Support Contact Donate Facebook X Instagram Copyright # All Rights Reserved.
+Paid for and authorized by Friends of Richard Fascia.

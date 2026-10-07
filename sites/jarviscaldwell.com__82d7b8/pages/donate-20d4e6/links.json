@@ -1,8 +1,38 @@
 [
-"https://jarviscaldwell.com/",
-"https://jarviscaldwell.com/about-me",
-"https://jarviscaldwell.com/donate",
-"https://jarviscaldwell.com/general-8",
-"https://jarviscaldwell.com/get-involved",
-"https://secure.anedot.com/elect-jarvis-caldwell/donate"
+{
+"text": "About Me",
+"href": "https://www.jarviscaldwell.com/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://www.jarviscaldwell.com/donate"
+},
+{
+"text": "ElectJarvisCaldwell@gmail.com",
+"href": "mailto:ElectJarvisCaldwell@gmail.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jarviscaldwell.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jarviscaldwell.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jarviscaldwell.com/general-8"
+},
+{
+"text": "[image: Yard Sign 1.png]",
+"href": "https://www.jarviscaldwell.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:electjarviscaldwell@gmail.com"
+},
+{
+"text": "https://secure.anedot.com/elect-jarvis-caldwell/donate",
+"href": "https://secure.anedot.com/elect-jarvis-caldwell/donate"
+}
 ]

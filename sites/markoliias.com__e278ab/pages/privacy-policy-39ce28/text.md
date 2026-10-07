@@ -1,5 +1,3 @@
-Privacy Policy
-Marko Liias for Senate maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or a legal obligation.
-Personal information includes name, email address, phone number, and other contact information
-SMS Opt-Out: If you are receiving text messages from us and wish to stop receiving them, simply respond with “STOP” to the number from which you received the message.
-Once we receive your message, you will no longer receive further text messages from us.”
+About Marko Record News Contact Endorsements Donate About Marko Record News Contact Endorsements Donate Privacy Policy Marko Liias for Senate maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or a legal obligation.
+Personal information includes name, email address, phone number, and other contact information SMS Opt-Out: If you are receiving text messages from us and wish to stop receiving them, simply respond with “STOP” to the number from which you received the message.
+Once we receive your message, you will no longer receive further text messages from us.” Donate Paid for by Marko Liias for Senate 401 2nd Ave S Ste 303, Seattle, WA 98104

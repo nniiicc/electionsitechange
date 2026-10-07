@@ -1,22 +1,82 @@
 [
-"http://tiktok.com/@votebaumgartner",
-"https://facebook.com/VoteBaumgartner",
-"https://instagram.com/votebaumgartner",
-"https://secure.anedot.com/vote-baumgartner-for-congress-campaign/onlinedonation",
-"https://twitter.com/VoteBaumgartner",
-"https://votebaumgartner.com/",
-"https://votebaumgartner.com/about",
-"https://votebaumgartner.com/about-1",
-"https://votebaumgartner.com/about-1-10",
-"https://votebaumgartner.com/about2",
-"https://votebaumgartner.com/dams",
-"https://votebaumgartner.com/events-1",
-"https://votebaumgartner.com/get-involved",
-"https://votebaumgartner.com/home",
-"https://votebaumgartner.com/in-congress",
-"https://votebaumgartner.com/news",
-"https://votebaumgartner.com/privacy-policy",
-"https://votebaumgartner.com/store",
-"https://votebaumgartner.com/supporters",
-"https://youtube.com/VoteBaumgartner"
+{
+"text": "About",
+"href": "https://www.votebaumgartner.com/about2"
+},
+{
+"text": "About Michael",
+"href": "https://www.votebaumgartner.com/about"
+},
+{
+"text": "Blogs",
+"href": "https://www.votebaumgartner.com/about-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/vote-baumgartner-for-congress-campaign/onlinedonation"
+},
+{
+"text": "Dropbox Information",
+"href": "https://www.votebaumgartner.com/about-1-10"
+},
+{
+"text": "Events",
+"href": "https://www.votebaumgartner.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votebaumgartner.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votebaumgartner.com"
+},
+{
+"text": "Home",
+"href": "https://www.votebaumgartner.com/dams"
+},
+{
+"text": "Issues",
+"href": "https://www.votebaumgartner.com/in-congress"
+},
+{
+"text": "News",
+"href": "https://www.votebaumgartner.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebaumgartner.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://www.votebaumgartner.com/store"
+},
+{
+"text": "Supporters",
+"href": "https://www.votebaumgartner.com/supporters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteBaumgartner"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votebaumgartner"
+},
+{
+"text": "[image: Logo for Michael Baumgartner for Congress]",
+"href": "https://www.votebaumgartner.com/home"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@votebaumgartner"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/VoteBaumgartner"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/VoteBaumgartner"
+}
 ]

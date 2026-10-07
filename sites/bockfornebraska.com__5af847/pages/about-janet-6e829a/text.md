@@ -1,5 +1,4 @@
-About Janet
-Janet grew up on a small farm in southeast Nebraska near Liberty, where she developed a strong work ethic and deep appreciation for rural life.
+0 Skip to Content Home About Janet Priorities Volunteer Contact DONATE Open Menu Close Menu Home About Janet Priorities Volunteer Contact DONATE Open Menu Close Menu Home About Janet Priorities Volunteer Contact DONATE About Janet Janet grew up on a small farm in southeast Nebraska near Liberty, where she developed a strong work ethic and deep appreciation for rural life.
 She completed her early education at Liberty Public School and graduated from Barneston Public School.
 As the oldest of two children, her roots in agriculture remain strong, with her family continuing to care for the family farm.
 Janet began her healthcare career as a Certified Nursing Assistant before pursuing nursing, earning her Registered Nurse Diploma from Bryan School of Nursing.
@@ -12,3 +11,6 @@ She has been actively involved in education and youth programs, including volunt
 Janet married Eugene Bock in 1989, and together they dedicated their lives to the family farm.
 They have two adult children.
 Following Eugene’s passing in 2024, Janet continues to help maintain the farm with the support of family and community, further strengthening her connection to agriculture and rural life.
+Paid for by Janet Bock for Legislature | 13643 W.
+Sargent Rd.
+Beatrice, NE 68310

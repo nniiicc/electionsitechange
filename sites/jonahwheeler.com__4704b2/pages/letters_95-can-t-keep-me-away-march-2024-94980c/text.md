@@ -1,5 +1,4 @@
-March 2024 Letter
-To kick off the month I drove down to Florida during the week long winter recess of the legislature.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all 95 Can’t Keep Me Away 95 Can’t Keep Me Away 95 Can’t Keep Me Away Mar 31, 2024 Mar 31, 2024 March 2024 Letter View From My Seat - 21 March 2024 - 18:47 - Concord, NH - Taken by Jonah View From My Seat - 21 March 2024 - 18:47 - Concord, NH - Taken by Jonah To kick off the month I drove down to Florida during the week long winter recess of the legislature.
 Getting to visit D.C. on the way down, and all the grandeur of the plaster Rome and bringing constituent requests to the federal delegation.
 Most importantly I got some much needed sun in Sebastian, Florida.
 Everything moves slower down there.
@@ -52,5 +51,6 @@ The Human Rights Commission believes it is the best place for them, I am of the 
 I have had non stop conversations with the members of the committee and the HRC to find the right path forward for this legislation.
 The work continues under the golden dome.
 The legislature certainly has moments which makes one feel insane for choosing to participate, but those are overwhelmed by the moments of small success you have along the way.
-Until next month,
-Back to all
+Until next month, Governor's Breakfast - 14 March 2024 - 08:17 - Concord, NH - Taken by Rep.
+Amanda Bouldin Governor's Breakfast - 14 March 2024 - 08:17 - Concord, NH - Taken by Rep.
+Amanda Bouldin ‹ Black Hole Sun ‹ Black Hole Sun ‹ Black Hole Sun Workers Rights and Synchronicities › Workers Rights and Synchronicities › Workers Rights and Synchronicities › Back to all

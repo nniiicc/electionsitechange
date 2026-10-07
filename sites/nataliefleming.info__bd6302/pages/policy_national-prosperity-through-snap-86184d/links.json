@@ -1,10 +1,46 @@
 [
-"https://nataliefleming.info/",
-"https://nataliefleming.info/about-natalie-m-fleming",
-"https://nataliefleming.info/author/admin",
-"https://nataliefleming.info/category/policy",
-"https://nataliefleming.info/donate",
-"https://nataliefleming.info/join-the-team",
-"https://nataliefleming.info/just-a-few-issues",
-"https://nataliefleming.info/policy"
+{
+"text": "About Natalie M Fleming",
+"href": "https://nataliefleming.info/about-natalie-m-fleming/"
+},
+{
+"text": "Contribute →",
+"href": "https://nataliefleming.info/donate"
+},
+{
+"text": "Donate",
+"href": "https://nataliefleming.info/donate/"
+},
+{
+"text": "Issues",
+"href": "https://nataliefleming.info/just-a-few-issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://nataliefleming.info/join-the-team/"
+},
+{
+"text": "Natalie",
+"href": "https://nataliefleming.info/author/admin/"
+},
+{
+"text": "Natalie Fleming for US Senate",
+"href": "https://nataliefleming.info/"
+},
+{
+"text": "Policy",
+"href": "https://nataliefleming.info/category/policy/"
+},
+{
+"text": "Policy",
+"href": "https://nataliefleming.info/policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://nataliefleming.info/join-the-team"
+},
+{
+"text": "[image: Natalie]",
+"href": "https://nataliefleming.info/author/admin/"
+}
 ]

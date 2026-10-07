@@ -1,8 +1,7 @@
-The days are getting longer.
+Taking it on the Chin Mar 9, 2025 — by Seth Miller in Legislative Update The days are getting longer.
 This is happening for real, as Spring shows signs of peeking through.
 It is also happening in the NH State House, as some terrible legislation makes its way across the floor.
-Hopefully Helping
-One of the less frequently discussed parts of being a legislator is constituent services.
+Hopefully Helping One of the less frequently discussed parts of being a legislator is constituent services.
 We get emails or calls from time to time, asking us for help in navigating the bureaucracy of the State government.
 This week I received one of those messages relative to a DMV issue.
 Being on the Transportation Committee means I happen to have access to the Director of the DMV; he sits in on our committee meetings most sessions.
@@ -11,8 +10,7 @@ It will take some time to see if the desired resolution is reached; it is still 
 But at least I know the request made it to the correct place.
 That felt really good.
 Unfortunately, it was probably the only good news for the week.
-A Hearing of Hate
-Monday saw two anti-trans bills come before the Health, Human Services, and Elderly Affairs committee.
+A Hearing of Hate Monday saw two anti-trans bills come before the Health, Human Services, and Elderly Affairs committee.
 A couple other Representatives were unable to make the special hearings for those so I substituted in their place.
 It was brutal.
 I am in awe of the strength and courage shown by the many New Hampshire residents who testified about their lived experience, hoping to sway the body against these bills.
@@ -30,8 +28,7 @@ This rep is familiar with one of the kids who testified, describing her as “th
 Alas, the representative remains convinced that, despite seeing who is really so desperately fighting for care, “others” exist in a manner that demands bringing harm to the child they know.
 It is incredibly disappointing to see people unable to believe their own experiences because they’ve been so imbued with hate.
 I have great fear about what is about to happen in New Hampshire.
-More Bias, More Bad Bills
-Tuesday, hearings in the Transportation Committee were not much better on the inclusion and common sense front.
+More Bias, More Bad Bills Tuesday, hearings in the Transportation Committee were not much better on the inclusion and common sense front.
 The bill I sponsored to improve bicycle safety was recommended to die out of committee, citing “potential for unintended consequences.” That came despite significant testimony and evidence about how well it works elsewhere in the country.
 I’m still going to try to save it on the House floor, but I am not optimistic.
 I expect I’ll be bringing it back in 2027.
@@ -41,16 +38,14 @@ Which, of course, is fantastically challenging when one cannot drive to their En
 The bill is bad for business, bad for safety, and bad for New Hampshire.
 And I know it is going to pass on the House floor.
 Sigh.
-From the Floor
-Finally, on Thursday, the House voted to kill the NH Vaccine Association (HB524) , a program that cuts the cost of vaccination by about 30%.
+From the Floor Finally, on Thursday, the House voted to kill the NH Vaccine Association (HB524) , a program that cuts the cost of vaccination by about 30%.
 It also voted to kill a bill that would make it easier for eligible kids to get free meals at schools (HB583).
 HB224 passed on the floor, killing the renewable energy fund that pays out rebates to homeowners for installing solar and similar projects.
 A trio of bills related to workers’ rights all went against us.
 There were some parliamentary plays, efforts to get a win where the opposition was clear.
-As one colleague quipped, “We’re just finding new and creative ways to lose now.”
-It is what happens with the partisan split we face.
+As one colleague quipped, “We’re just finding new and creative ways to lose now.” It is what happens with the partisan split we face.
 None of the outcomes were particularly surprising.
 But it still sucks.
 The anti-trans floor speech at the end of the day, ostensibly to recognize Women’s History Month, was a fitting cap to the legislative week.
 Next week will be more of the same, especially with the Universal School Vouchers program up for debate on the floor.
-The bill will almost certainly pass, bringing higher taxes to our residents as they’re forced to subsidize their neighbors’ private schooling.
+The bill will almost certainly pass, bringing higher taxes to our residents as they’re forced to subsidize their neighbors’ private schooling. ← Previous: A Weirdly Winning* Week Next: Cooperation, Compromise, Consent, and Control → Representing Dover/Strafford County District 21 Contact the campaign: Email me (you’ll need to assemble the parts): seth millerworks net Social Bluesky Instagram Paid for by Miller for NH, 129 Fourth Street, Dover, NH 03820, Fiscal Agent: Seth Miller

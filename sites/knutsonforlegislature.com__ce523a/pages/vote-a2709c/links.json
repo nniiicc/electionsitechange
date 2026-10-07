@@ -1,20 +1,74 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://facebook.com/people/Caitlin-Knutson-for-Legislature-District-2/61580144651570",
-"https://instagram.com/knutson_for_legislature",
-"https://knutsonforlegislature.com/",
-"https://knutsonforlegislature.com/contact",
-"https://knutsonforlegislature.com/contribute",
-"https://knutsonforlegislature.com/home",
-"https://knutsonforlegislature.com/issues",
-"https://knutsonforlegislature.com/meet_caitlin",
-"https://knutsonforlegislature.com/view-endorsements",
-"https://knutsonforlegislature.com/volunteer",
-"https://knutsonforlegislature.com/vote",
-"https://knutsonforlegislature.com/yard-sign",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://register.vote.org/",
-"https://sos.nebraska.gov/elections/early-voting",
-"https://verify.vote.org/"
+{
+"text": "Contact",
+"href": "https://www.knutsonforlegislature.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.knutsonforlegislature.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.knutsonforlegislature.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.knutsonforlegislature.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.knutsonforlegislature.com/issues"
+},
+{
+"text": "Meet Caitlin",
+"href": "https://www.knutsonforlegislature.com/meet_caitlin"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.knutsonforlegislature.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.knutsonforlegislature.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.knutsonforlegislature.com/yard-sign"
+},
+{
+"text": "[image: Caitlin Knutson State Legislature District 2]",
+"href": "https://www.knutsonforlegislature.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Caitlin-Knutson-for-Legislature-District-2/61580144651570/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/knutson_for_legislature/"
+},
+{
+"text": "https://sos.nebraska.gov/elections/early-voting",
+"href": "https://sos.nebraska.gov/elections/early-voting"
+},
+{
+"text": "https://www.nebraska.gov/apps-sos-voter-registration/",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+}
 ]

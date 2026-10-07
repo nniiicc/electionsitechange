@@ -1,16 +1,62 @@
 [
-"https://facebook.com/CarbajalForCongress",
-"https://flickr.com/photos/saludcarbajal",
-"https://saludcarbajal.com/",
-"https://saludcarbajal.com/cdn-cgi/l/email-protection",
-"https://saludcarbajal.com/contact",
-"https://saludcarbajal.com/en-espanol",
-"https://saludcarbajal.com/endorsements",
-"https://saludcarbajal.com/get-involved",
-"https://saludcarbajal.com/issues",
-"https://saludcarbajal.com/meet-salud",
-"https://saludcarbajal.com/privacy-policy",
-"https://secure.ngpvan.com/DNALNmkrB0alidIdn3uhlw2",
-"https://secure.ngpvan.com/Ej2bC-PJA0uuzst37lBm9w2",
-"https://twitter.com/carbajalsalud"
+{
+"text": "Contact",
+"href": "https://www.saludcarbajal.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.ngpvan.com/DNALNmkrB0alidIdn3uhlw2"
+},
+{
+"text": "En Español",
+"href": "https://www.saludcarbajal.com/en-espanol"
+},
+{
+"text": "Endorsements",
+"href": "https://www.saludcarbajal.com/endorsements"
+},
+{
+"text": "Facebook icon",
+"href": "https://www.facebook.com/CarbajalForCongress/"
+},
+{
+"text": "Flickr icon",
+"href": "https://www.flickr.com/photos/saludcarbajal/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.saludcarbajal.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.saludcarbajal.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.saludcarbajal.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://secure.ngpvan.com/Ej2bC-PJA0uuzst37lBm9w2"
+},
+{
+"text": "Meet Salud",
+"href": "https://www.saludcarbajal.com/meet-salud"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.saludcarbajal.com/privacy-policy"
+},
+{
+"text": "Twitter icon",
+"href": "https://twitter.com/carbajalsalud"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@saludcarbajal.com"
+},
+{
+"text": "[image: inerior logo]",
+"href": "https://www.saludcarbajal.com/"
+}
 ]

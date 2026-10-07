@@ -1,8 +1,30 @@
 [
-"http://dannysterling.com/",
-"http://dannysterling.com/about-danny",
-"http://dannysterling.com/donate",
-"http://dannysterling.com/golf",
-"http://dannysterling.com/volunteer",
-"https://fb.me/DannySterlingHD27"
+{
+"text": "About Danny",
+"href": "http://dannysterling.com/about-danny/"
+},
+{
+"text": "Donate",
+"href": "http://dannysterling.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://fb.me/DannySterlingHD27"
+},
+{
+"text": "Golf",
+"href": "http://dannysterling.com/golf/"
+},
+{
+"text": "Home",
+"href": "http://dannysterling.com/"
+},
+{
+"text": "Volunteer",
+"href": "http://dannysterling.com/volunteer/"
+},
+{
+"text": "[image: Danny Sterling]",
+"href": "http://dannysterling.com/"
+}
 ]

@@ -1,15 +1,54 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.praterforok.com%2Fevent-details%2Fcampaign-support-music-concert",
-"https://praterforok.com/",
-"https://praterforok.com/about-me",
-"https://praterforok.com/event-list",
-"https://praterforok.com/search",
-"https://secure.actblue.com/donate/tiffany-prater-3",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.praterforok.com%2Fevent-details%2Fcampaign-support-music-concert&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About Me",
+"href": "https://www.praterforok.com/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tiffany-prater-3"
+},
+{
+"text": "Home",
+"href": "https://www.praterforok.com"
+},
+{
+"text": "Search Results",
+"href": "https://www.praterforok.com/search"
+},
+{
+"text": "See other events",
+"href": "https://www.praterforok.com/event-list"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.praterforok.com%2Fevent-details%2Fcampaign-support-music-concert&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.praterforok.com%2Fevent-details%2Fcampaign-support-music-concert"
+}
 ]

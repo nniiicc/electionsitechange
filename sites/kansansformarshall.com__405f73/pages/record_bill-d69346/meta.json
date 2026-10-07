@@ -1,10 +1,13 @@
 {
- "description": "Every bill cited across the record \u2014 sponsor, cosponsors, status, plain-English explainer, and a link to the official Congress.gov record.",
+ "description": "Every bill cited across the record — sponsor, cosponsors, status, plain-English explainer, and a link to the official Congress.gov record.",
  "final_url": "https://kansansformarshall.com/record/bill/",
- "paid_for_by": "Paid for by Kansans for Marshall PO Box 1588, Great Bend, KS 67530 Press: [email&#160;protected] Not authorized by any candidate or candidate\u2019s committ",
- "title": "The bills \u00b7 Doc Marshall",
+ "fingerprint": "35f4e78c66ea471da85fcd5567980c21ddd676fc",
+ "format": 3,
+ "paid_for_by": "Paid for by Kansans for Marshall PO Box 1588, Great Bend, KS 67530 Press: [email protected] Not authorized by any candidate or candidate’s committee other than Kansans for",
+ "title": "The bills · Doc Marshall",
  "years_mentioned": [
   "2010",
+  "2015",
   "2026"
  ]
 }

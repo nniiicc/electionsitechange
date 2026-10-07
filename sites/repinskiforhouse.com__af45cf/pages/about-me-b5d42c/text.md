@@ -1,4 +1,4 @@
-The Winona area has always been my home and I am humbled by how it has shaped my life.
+Skip to content Toggle Navigation Home Meet Aaron Donate Volunteer Media Issues Contact Meet Aaron Meet Aaron Vision Design The Winona area has always been my home and I am humbled by how it has shaped my life.
 I started school at St.
 Stans and then went to Cotter High School.
 After that it was on to Winona State University, where I earned my Associates Degree.
@@ -19,3 +19,7 @@ I’m a member of the Winona Civic Association, Winona Elks Lodge 327, and St.
 Stan’s Church.
 In the past, I have been a member of the Winona Fire Department, the Winona County Dive Rescue team, and the Fountain City Fire Department/First Responder team.
 I have also been a sports official for basketball, football, and softball, as well as a junior high basketball coach.
+VOTE Find your polling place Voting from military or abroad Vote early by mail Vote early in person Cities & towns that vote by mail Am I registered to vote?
+What’s on my ballot?
+HOME MEET AARON DONATE CONTACT © Aaron Repinski for House | All Rights Reserved | Privacy Policy | Accessibility Statement Prepared and paid for by Aaron Repinski for House, P.O.
+Box 262, Winona MN 55987 Page load link Go to Top

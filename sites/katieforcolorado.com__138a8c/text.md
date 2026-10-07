@@ -1,12 +1,20 @@
-Meet Katie Stewart
-Katie is a fourth-generation Durangoan who has spent her career serving Southwest Colorado, as everything from an EMT in Silverton and Durango to a school board member for Durango School District.
+Meet Katie Issues Endorsements En Español Stay Updated Donate Search Menu Menu E-Mail: * First Name Last Name Meet Katie Stewart Katie is a fourth-generation Durangoan who has spent her career serving Southwest Colorado, as everything from an EMT in Silverton and Durango to a school board member for Durango School District.
 She stands as a tireless advocate for the betterment of rural Colorado and is ready to collaborate with community organizations, educators, the agricultural workforce, and more to build a sustainable, affordable future for HD59.
 Given the chance, she will fight for what Southwest Colorado needs at the State Capital.
-Endorsements
-Issues
-- Water Water is one of the most pressing issues facing Southwest Colorado and I will work to focus our efforts on building a better future for everyone.
+Learn More Endorsements More Issues Water Water is one of the most pressing issues facing Southwest Colorado and I will work to focus our efforts on building a better future for everyone.
 This includes investing in sustainable agricultural practices and community design.
-- Housing High demand and limited housing inventory have led to soaring housing prices, pushing many hardworking individuals and families out of our communities.
+Housing High demand and limited housing inventory have led to soaring housing prices, pushing many hardworking individuals and families out of our communities.
 We need thoughtful planning to preserve the unique character of southwest Colorado while addressing the need for affordable housing for our workforce.
-- Partnering with Native Nations HD59 includes the sovereign nations of the Ute Mountain Ute and Southern Ute Tribe.
+Partnering with Native Nations HD59 includes the sovereign nations of the Ute Mountain Ute and Southern Ute Tribe.
 I am committed to building partnerships with these nations to create sustainable relationships that benefit Native communities in Southwest Colorado.
+Read More Press Signed!
+Bills to Protect Patient Access to Medication and Boost Support for Rural EMS June 2, 2026 “These new laws work to safeguard life-saving healthcare in rural communities,” said Rep.
+Katie Stewart, D-Durango, sponsor of HB26-1262 and HB26-1069.
+Read more https://www.katieforcolorado.com/wp-content/uploads/2024/07/Screenshot-2026-05-31-at-9.25.39-PM.jpg 542 702 mm.katieforcolorado@gmail.com https://www.katieforcolorado.com/wp-content/uploads/2024/01/Katie-59-Logo-300x235.jpg mm.katieforcolorado@gmail.com 2026-06-02 00:00:51 2026-06-04 18:40:08 Signed!
+Bills to Protect Patient Access to Medication and Boost Support for Rural EMS Sexual abuse in jails bill passes after three months under consideration May 11, 2026 After more than three months of hearings, discussions and amendments, a Colorado bill intended to curb sexual abuse and tighten strip search regulations in jails has passed with a 42-22 House vote.
+Read more https://www.katieforcolorado.com/wp-content/uploads/2024/07/2-1.png 1080 1080 katieforcolorado1 https://www.katieforcolorado.com/wp-content/uploads/2024/01/Katie-59-Logo-300x235.jpg katieforcolorado1 2026-05-11 11:00:24 2026-05-31 23:29:48 Sexual abuse in jails bill passes after three months under consideration Legislation to Create More Affordable Home Ownership Opportunities Signed into Law May 6, 2026 SB26-040, sponsored by Senator Judy Amabile, D-Boulder, and Representatives Katie Stewart, D-Durango, and Lesley Smith, D-Boulder, will expand eligibility for qualified buyers and make practical updates to better serve every Colorado community and meet the reality of the 2026 housing market.
+Read more https://www.katieforcolorado.com/wp-content/uploads/2026/05/Screenshot-2026-05-31-at-10.34.31-PM.jpg 1152 1342 mm.katieforcolorado@gmail.com https://www.katieforcolorado.com/wp-content/uploads/2024/01/Katie-59-Logo-300x235.jpg mm.katieforcolorado@gmail.com 2026-05-06 00:00:25 2026-05-31 23:36:28 Legislation to Create More Affordable Home Ownership Opportunities Signed into Law Rep.
+Stewart fights for our public lands March 18, 2026 “Coloradans have a deep, unifying love and affection for our shared national public lands and the essential, diverse benefits they provide to everyone.” That powerful opening from Colorado's recently passed Senate Joint Resolution 26-015 – co-sponsored by our own Rep.
+Katie Stewart – captures exactly why so many of us choose to live here, and why we must continue to stand up for keeping public lands in public hands.
+Read more https://www.katieforcolorado.com/wp-content/uploads/2024/07/2-1.png 1080 1080 katieforcolorado1 https://www.katieforcolorado.com/wp-content/uploads/2024/01/Katie-59-Logo-300x235.jpg katieforcolorado1 2026-03-18 05:00:19 2026-05-31 23:48:06 Rep.
+Stewart fights for our public lands Previous Next Meet Katie Photos Contact Us Stay Updated Donate En Español Paid for by Katie for Colorado Follow us on Facebook © Copyright June 6, 2026 - Katie Stewart for Colorado - Enfold Theme by Kriesi Facebook Scroll to top Donate Donate to Katie Stewart’s campaign HERE ×

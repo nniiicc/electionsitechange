@@ -1,13 +1,2 @@
-Back to All Events
-Ice Cream Social and Candidate Meet & Greet
-Meet your local candidates:
-Rod Moser, Utah House District 45
-Sara Cimmers, Salt Lake County Council District 5
-Zach Robinson, Salt Lake County Council At Large
-Previous
-Previous
-August 5
-Meet & Greet VIRTUAL
-Next
-Next
-August 8
+0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Back to All Events Ice Cream Social Meet & Greet Friday, August 7, 2026 6:00 PM 8:00 PM 2502 Rustic Roads Dr South Jordan, UT 84095 United States (map) Google Calendar ICS Ice Cream Social and Candidate Meet & Greet Meet your local candidates: Rod Moser , Utah House District 45 Sara Cimmers , Salt Lake County Council District 5 Zach Robinson , Salt Lake County Council At Large Previous Previous August 5 Meet & Greet VIRTUAL Next Next August 8 Canvass with Rod Moser for HD45 Utah Grit Request a Yard Sign House District 45 MAP Signs will be delivered to residences within House District 45 boundaries, paid for by Elect Rod Moser.
+Mailing Address: 3731 W South Jordan Pkwy #102-503 South Jordan, UT 84009 Paid for by Elect Rod Moser.

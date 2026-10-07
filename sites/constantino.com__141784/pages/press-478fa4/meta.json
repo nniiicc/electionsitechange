@@ -1,8 +1,10 @@
 {
  "description": "President Trump endorsed Anthony Constantino to represent New York's 21st Congressional disrict.",
  "final_url": "https://www.constantino.com/press/",
- "paid_for_by": null,
- "title": "Press - Anthony ConstantinoConstantino StoreFacebookXInstagramYoutube",
+ "fingerprint": "cdc18c0befb4530362209cff1f4ed3697c1ef6f2",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Press - Anthony Constantino",
  "years_mentioned": [
   "2024",
   "2026"

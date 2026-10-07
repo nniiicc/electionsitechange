@@ -1,3 +1,3 @@
-Contact Us We’re looking for volunteers to support our campaign!
+0 Skip to Content Jason Lohmann for MN State Senate Events & Newsletters Why I am Running About Me Get Involved Endorsements Home DONATE Open Menu Close Menu Jason Lohmann for MN State Senate Events & Newsletters Why I am Running About Me Get Involved Endorsements Home DONATE Open Menu Close Menu Events & Newsletters Why I am Running About Me Get Involved Endorsements Home DONATE Contact Us We’re looking for volunteers to support our campaign!
 Reach out and let us know how you would like to support.
-Jason@lohmannformnsenate20.com Email to join us for Door Knocking Email to help phone bank
+Jason@lohmannformnsenate20.com Email to join us for Door Knocking Email to help phone bank Jason Lohmann for MN Senate District 20 Prepared and paid for by Jason Lohmann for Senate, PO Box 126, Zumbrota, MN 55992

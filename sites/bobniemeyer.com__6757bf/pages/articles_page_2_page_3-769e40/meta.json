@@ -1,7 +1,13 @@
 {
  "description": "Articles",
  "final_url": "https://bobniemeyer.com/articles/?page=2&page=3",
+ "fingerprint": "619b12329f160a3974a4cdb3d4621f2a2f5e7111",
+ "format": 3,
  "paid_for_by": "Paid for by the Bob Niemeyer Campaign",
- "title": "Articles \u2013 Page 3 \u2013 Bob Niemeyer",
- "years_mentioned": []
+ "title": "Articles – Page 3 – Bob Niemeyer",
+ "years_mentioned": [
+  "1978",
+  "2019",
+  "2024"
+ ]
 }

@@ -1,7 +1,9 @@
 {
  "description": "Donate to Joe4Change and support Joe Espinola, Independent candidate for Massachusetts State Senate. Help bring real change to our communities.",
  "final_url": "https://www.joe4change.com/donation",
- "paid_for_by": null,
+ "fingerprint": "03df3dd269320136b2b3ec9e1d7357ec53247322",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATION | Joe4Change",
  "years_mentioned": []
 }

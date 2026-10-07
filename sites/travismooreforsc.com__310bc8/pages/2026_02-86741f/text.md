@@ -1,7 +1,3 @@
-Watch my remarks on the House floor explaining this amendment and why closing this loophole matters. https://youtu.be/Njlos5sX6p8 "If people continue to find new ways to kill unborn children, we need to continue to find ways to prevent that " Protecting …
-Continue reading
-By:Skylar Laird and Seanna Adcox-January 30, 20265:00 am COLUMBIA — Legislation that extends existing state law on K-12 bathrooms to South Carolina’s 33 public colleges passed the House on Thursday with bipartisan support.
-The bill largely mimics a law inserted in the state …
-Continue reading
-https://www.youtube.com/watch?v=j5w3116HK6Q COLUMBIA, S.C. — During this week’s Judiciary Subcommittee hearing, I was asked what the General Assembly is doing to protect children from predators, I was able to point to real action and real results. ✅ Criminalized AI-generated child sexual …
-Continue reading
+Home About News Contact Donate February 2026 Home 2026 Month: February 2026 February 9, 2026 Uncategorized Protecting Life and Closing Dangerous Loopholes Watch my remarks on the House floor explaining this amendment and why closing this loophole matters. https://youtu.be/Njlos5sX6p8 "If people continue to find new ways to kill unborn children, we need to continue to find ways to prevent that " Protecting … Continue reading February 5, 2026 Uncategorized House approves bill on bathrooms in SC K-12 schools and colleges with 2 changes By:Skylar Laird and Seanna Adcox-January 30, 20265:00 am COLUMBIA — Legislation that extends existing state law on K-12 bathrooms to South Carolina’s 33 public colleges passed the House on Thursday with bipartisan support.
+The bill largely mimics a law inserted in the state … Continue reading February 5, 2026 Uncategorized Protecting Kids Isn’t a Talking Point.
+It’s My Record. https://www.youtube.com/watch?v=j5w3116HK6Q COLUMBIA, S.C. — During this week’s Judiciary Subcommittee hearing, I was asked what the General Assembly is doing to protect children from predators, I was able to point to real action and real results. ✅ Criminalized AI-generated child sexual … Continue reading Paid for by Travis Moore for House Home About News Contact Donate

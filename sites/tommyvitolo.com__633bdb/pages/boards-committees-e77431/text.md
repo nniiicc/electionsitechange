@@ -1,9 +1,6 @@
-Tommy serves as Vice Chair of the Joint Committee on Election Laws.
-He also serves on:
-- the House Committee on Steering, Policy and Scheduling;
-- the Joint Committee on Elder Affairs; and
-- the Joint Committee on Tourism, Arts and Cultural Development.
-Committeesjranft482021-07-03T16:07:59-04:00
-Tommy serves as Vice Chair of the Joint Committee on Election Laws.
-He also serves on:
-Join Our Mailing List
+Skip to content Facebook Twitter Instagram Search for: Meet Tommy Background Committees Organizations News Bills Contact Contribute Meet Tommy Background Committees Organizations News Bills Contact Contribute Committees Home / Committees Committees jranft48 2021-07-03T16:07:59-04:00 Tommy serves as Vice Chair of the Joint Committee on Election Laws.
+He also serves on: the House Committee on Steering, Policy and Scheduling; the Joint Committee on Elder Affairs; and the Joint Committee on Tourism, Arts and Cultural Development.
+Join Our Mailing List Name (required) Email (required) Δ × Donate to the Campaign Whether it’s $25 or $1000, every contribution counts.
+Donate today to help elect Tommy Vitolo!
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $25 $50 $100 $250 $500 $1,000 Home | Meet Tommy | News | Endorsements | Bills | Contact | Contribute Paid for by the Committee to Elect Tommy Vitolo Neil Gordon, Treasurer 87 Ivy Street Brookline, MA 02446 By clicking the links above, you certify that you are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution.
+Meet Tommy ▼ Background Committees Organizations News Bills Contact Contribute Go to Top

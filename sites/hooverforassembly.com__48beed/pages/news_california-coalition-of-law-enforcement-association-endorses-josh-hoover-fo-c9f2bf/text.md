@@ -1,8 +1,8 @@
-California Coalition of Law Enforcement Association Endorses Josh Hoover for State Assembly
-Folsom, CA - - Momentum continues to build for Republican Josh Hoover in his campaign as today Hoover announced the endorsement of the California Coalition of Law Enforcement Association (CCLEA) in his campaign for the newly drawn 7th Assembly District.
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE California Coalition of Law Enforcement Association Endorses Josh Hoover for State Assembly Sep 5 Written By Mike Foster Folsom, CA - - Momentum continues to build for Republican Josh Hoover in his campaign as today Hoover announced the endorsement of the California Coalition of Law Enforcement Association (CCLEA) in his campaign for the newly drawn 7th Assembly District.
 In total CCLEA represents more than 150,000 peace officers statewide making them the largest law enforcement organization in the state.
 “I’m excited to be the choice of law enforcement in this important election,” said Hoover.
 “For too long the politicians in control have embraced the Defund the Police movement and it has put our community at risk.
-It’s time to get back to supporting law enforcement and holding criminals accountable and the voters of this district can trust that I will do just that as their Assemblyman.”
-CCLEA joins the recently announced support from the Sacramento County Deputy Sheriffs Association.
-To learn more about Josh and his campaign please visit www.HooverforAssembly.com.
+It’s time to get back to supporting law enforcement and holding criminals accountable and the voters of this district can trust that I will do just that as their Assemblyman.” CCLEA joins the recently announced support from the Sacramento County Deputy Sheriffs Association.
+To learn more about Josh and his campaign please visit www.HooverforAssembly.com .
+Mike Foster Previous Previous Watch Ken Cooley’s deceitful ad Next Next MAJOR ENDORSEMENT ALERT: Josh Hoover Earns the Endorsement of Northern California’s Largest Public Safety Organization ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

@@ -1,9 +1,38 @@
 [
-"https://discord.gg/gUT4F4CjuQ",
-"https://electwilliamdehnel.org/",
-"https://electwilliamdehnel.org/about",
-"https://electwilliamdehnel.org/get-involved",
-"https://facebook.com/profile.php?id=61582417957404",
-"https://secure.actblue.com/donate/william-dehnel",
-"https://tiktok.com/"
+{
+"text": "About",
+"href": "https://electwilliamdehnel.org/about/"
+},
+{
+"text": "Discord",
+"href": "https://discord.gg/gUT4F4CjuQ"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/william-dehnel"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61582417957404"
+},
+{
+"text": "Get Involved",
+"href": "https://electwilliamdehnel.org/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://electwilliamdehnel.org/"
+},
+{
+"text": "TikTok",
+"href": "https://tiktok.com"
+},
+{
+"text": "William for LD 2",
+"href": "https://electwilliamdehnel.org"
+},
+{
+"text": "[image: William for LD 2]",
+"href": "https://electwilliamdehnel.org/"
+}
 ]

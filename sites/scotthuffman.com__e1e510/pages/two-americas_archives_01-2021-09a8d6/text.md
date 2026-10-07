@@ -1,4 +1,5 @@
-| I know it's a catchy title, but it is true.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+Trump’s war on America and the Green New Deal 1/21/2021 I know it's a catchy title, but it is true.
 During Trump's four years in office, he was at war with America and his favorite weapon of mass destruction was tariffs.
 He claimed tariffs would level the playing field and make China pay.
 No, Americans paid those tariffs, not China, and Mexico did not pay for the wall.
@@ -13,7 +14,8 @@ During the 4 years of solar #tariffs, and according to a Government report by US
 It hurt the U.S. solar module industry, increased prices, wages dropped, and taxpayers paid greater than $741 million through these tariffs by the end of 2019.
 Before Covid19, North Carolina was on track for clean energy job growth.
 According to e2.org – nearly 113,000 North Carolinians work in solar, wind, grid modernization, energy storage, clean vehicles at the end of 2019.
-However, Covid19 squashed that industry and right now we have lost 19% of clean energy jobs. 22,000 North Carolinians remain unemployed and nationally that is 511,000 Americans.
+However, Covid19 squashed that industry and right now we have lost 19% of clean energy jobs.
+22,000 North Carolinians remain unemployed and nationally that is 511,000 Americans.
 Yesterday, Republican Ted Budd (R-NC13) touted he was ready to work with President Biden and in the same breath just 6 hours later he is attacking the President for canceling the Keystone XL Pipeline.
 Budd claimed this would kill 10,000 jobs, help Russia, China and referenced a fossil fuel propaganda website to back up the claim.
 Funny thing, the State Dept reviewed the project and their report found that it would only create about 3,900 temporary jobs and 15 permanent jobs.
@@ -33,7 +35,7 @@ Housing, Transportation, Education, Tech Jobs, and new Energy Jobs.
 The first step is rejoining the Paris Climate agreement and on his first day in office President Biden did just that.
 Now cancel the tariffs.
 So, let us roll up our sleeves and work to Build Back Better our nation, our economy and ensure we have a clean and bright future for our children and mother earth.
-Republicans are out of time to repudiate the Trump lies.
+OUT OF TIME 1/19/2021 Republicans are out of time to repudiate the Trump lies.
 Only 15 miles of the wall were built and Mexico didn't pay for it.
 We saw white men attack the nation because the white man is losing political power to an ever-changing diverse America.
 Instead of accepting the truth.
@@ -43,9 +45,9 @@ White privilege on display.
 Tomorrow, we close this chapter on American history and begin a new.
 This chapter of lies, broken promises and complicity of enablers must not be forgotten.
 We came so close to this being our last chapter of our American democracy.
-On January 11th, I tweeted a long thread of Ted Budd's support of Trump's lies on voter fraud.
+Chronicle of Rep Ted Budd's twitter feed 1/11/2021 On January 11th, I tweeted a long thread of Ted Budd's support of Trump's lies on voter fraud.
 Here is that thread with receipts.
-This is a chronicle of Rep Ted Budd's twitter feed since the election.
+This is a chronicle of Rep Ted Budd 's twitter feed since the election.
 He tweeted more than 25 times about the lack of election integrity and continued to push a LIE of voter fraud in support of Trump's narrative the election was stolen.
 It's a long thread.
 However, Budd never once said anything about the exhaustive court cases that never found any fraud.
@@ -59,21 +61,21 @@ We must hold these men and women accountable.
 They are dangerous and now people are dead because of them.
 On Nov 9th Budd tweeted 2 comments building his propaganda that if we can spend two years on Russia collusion and then tweets that AG Barr is looking into the "Allegations" On Nov 13th, he retweets Rep.
 Bill Posey's letter to AG Barr to investigate election software and hardware.
-On Nov 13th, he does a video attacking Democrats saying they don't want to admit that Trump has the right to investigate Voter Fraud (this tweet is designed to make you think there is fraud.) On Nov 18th, he brags about introducing a bill to combat voter fraud once and for all.
-(psst that bill died in the 116th Congress) On Nov 19th, he retweets the Koch Brother's Heritage foundation - who I might add is famous for their own false propaganda.
+On Nov 13th, he does a video attacking Democrats saying they don't want to admit that Trump has the right to investigate Voter Fraud (this tweet is designed to make you think there is fraud.) On Nov 18th, he brags about introducing a bill to combat voter fraud once and for all. (psst that bill died in the 116th Congress) On Nov 19th, he retweets the Koch Brother's Heritage foundation - who I might add is famous for their own false propaganda.
 The articled uses trigger words like "every vote must count" and "patriots." Well every vote was counted.
 Joe Biden won.
 Budd must have decided to take off for Thanksgiving.
 He didn't tweet until Dec 2nd - he retweets Rep.
 Warren Davidson bemoaning AG Barr must ID, prosecute, and correct the fraud of 2020.
-(Again no Fraud) On Dec 3rd, he retweeted the right wing pod-cast Blunt Force Truth thanking him for being on their pod-cast and hoping he has a speedy recovery from #Covid19.
+(Again no Fraud) On Dec 3rd, he retweeted the right wing pod-cast Blunt Force Truth thanking him for being on their pod-cast and hoping he has a speedy recovery from #Covid19 .
 I wished him a speedy recovery, he didn't retweet it.
 I wonder why?
 On Dec 4th, while he's suppose to be recovering from #Covid19 - he's pushing Rep.
 LaMalfa's bill to "count all legal votes." More false flag comments that the election was fraudulent.
-On Dec 9th, Budd is saying the DOJ needs to listen to #WethePeople claiming they have concerns, and how he is glad another house member is joining his #SeditionCaucus.
+On Dec 9th, Budd is saying the DOJ needs to listen to #WethePeople claiming they have concerns, and how he is glad another house member is joining his #SeditionCaucus .
 More false narratives supporting Trump's claim of election fraud.
-On Dec 11th, now Budd is claiming there are millions of Americans do not have faith in the election. #ComeOnTed for the last month you've pushed propaganda that there is fraud.
+On Dec 11th, now Budd is claiming there are millions of Americans do not have faith in the election.
+#ComeOnTed for the last month you've pushed propaganda that there is fraud.
 You're stoking the Trump Lies.
 Again on Dec 11th, you tweet saying #SCOTUS should hear the Texas Case.
 Psst they refused to hear the case.
@@ -84,7 +86,8 @@ Mo Brooks that Congress hold hearings before Jan 6th.
 He signed the letter.
 On Dec 22nd, He urges his fellow Republican NC Rep's to join his seditious fight for the Constitution and election integrity.
 Why didn't he ask Democrat's to join?
-Foxx, Bishop, Murphy, Rouzer, Hudson and Cawthorn joined the #NC #SeditiousSeven and #SeditiousCaucus On Dec 22nd, Budd proudly brags "Yes, I plan to object on January 6th." He said millions saw what I saw. #ComeonTed - What did you see Budd?
+Foxx, Bishop, Murphy, Rouzer, Hudson and Cawthorn joined the #NC #SeditiousSeven and #SeditiousCaucus On Dec 22nd, Budd proudly brags "Yes, I plan to object on January 6th." He said millions saw what I saw.
+#ComeonTed - What did you see Budd?
 It was a fair election.
 No Fraud.
 Still supporting Trump's lies.
@@ -93,10 +96,11 @@ Hawley for joining the fight.
 Pushing the Trump Lies.
 Pouring more gas on the #WeThePeople claims of voter fraud.
 On Dec 31st, he's tweeting about how their cause has went from the few liars to many more liars.
-Great to see it #wethepeople.
+Great to see it #wethepeople .
 On Jan 2nd, bragging about adding more major muscle.
 He's just adding more Trumpet's who are pushing the lie of election fraud.
-There was no election fraud. 60 Court cases were denied due to lack of evidence.
+There was no election fraud.
+60 Court cases were denied due to lack of evidence.
 On Jan 4th, Budd is attacking Democrats for not supporting election integrity.
 Claiming hypocrisy.
 Even wrote a letter.
@@ -116,13 +120,15 @@ Capitol building.
 On Jan 6th, Budd continues his seditious behavior.
 Addresses Congress.
 Objects to the votes cast in another state.
-Claiming a violent mob will not stop him from giving voice to North Carolinians who believe his lies of Election Fraud. #ComeOnTed What reality do you live in?
+Claiming a violent mob will not stop him from giving voice to North Carolinians who believe his lies of Election Fraud.
+#ComeOnTed What reality do you live in?
 He invited the violent mob.
 On Jan 9th - He attacks tech companies for shutting down Trump's twitter account and you can now find him on Parler.
 Tech companies have shut down Parler for giving hate a safe place to exposure their right wing conspiracy theories.
 On Jan 11th - after 4 years of supporting a President who has divided our nation, Budd is complaining that if Democrats what unity - impeachment of Trump for insurrection on the United States is not the way to show it.
 Please support this petition - #NCPOL Expel Seven NC Republicans who supported Sedition.
-They lied and 6 Americans died during the insurrection on January 6th. #ExpelTheSeditionists #ExpelTheNCSeven Sign the Petition! http://chng.it/gxQP6mVD via Change Congressman Ted Budd spent the months following the election spreading lies and misinformation about alleged election fraud.
+They lied and 6 Americans died during the insurrection on January 6th.
+#ExpelTheSeditionists #ExpelTheNCSeven Sign the Petition! http:// chng.it/gxQP6mVD via Change STATEMENT ON TED BUDD’S DANGEROUS HISTORY OF FOMENTING VIOLENCE 1/9/2021 Congressman Ted Budd spent the months following the election spreading lies and misinformation about alleged election fraud.
 He ginned up this propaganda and never once acknowledged any of the 60 plus court cases where absolutely no fraud was even alleged, much less shown, by the Trump legal team.
 Zero.
 Yet, on and on Ted Budd went, even going so far as to encourage Republicans to change their voting address to Georgia for the special election to “level the playing field.” Budd was one of the first in a group of the President’s cadre of elected officials who amplified and promoted unproven allegations of election fraud.
@@ -156,7 +162,7 @@ But that’s not what happened here.
 Intelligent men like Ted Budd knew the outcome and saw an opportunity for their political future so they refused to properly inform Americans of what happened.
 They chose themselves instead (just like Budd chose his family Business to receive $10 million in covid relief funds while voting against additional aid for Americans).
 This craven and dangerous failure to spread truth instead of misinformation has resulted in a violation of our most sacred governmental institutions and the first domestic terror attack in centuries.
-Friends, I have been a Democrat for as long as I have been able to vote.
+United States of America 1/6/2021 Friends, I have been a Democrat for as long as I have been able to vote.
 I have done my best to support Democratic candidates throughout North Carolina and the nation.
 I was proud to run twice as a Democratic congressional candidate in North Carolina.
 Georgia voted – Reverend Warnock will be Georgia’s next Senator and currently Jon Ossoff holds the lead, and his race should be called later today as the final votes are counted.
@@ -191,7 +197,7 @@ Now it is time for us to take stock of the loved ones we have and to figure out 
 Lincoln’s quote of “a house divided cannot stand” might be cliché, but it’s absolutely true, now more than ever.
 Let’s be sure that we work to heal the division and focus on what we have in common and not our toxic differences.
 I have faith that we can and will do so.
-The Cares Act was supposed to help everyday Americans through the lock-down.
+The fine print 1/1/2021 The Cares Act was supposed to help everyday Americans through the lock-down.
 But when you look back on 2020, the Extreme Rich, Millionaires, and Billionaires received the bigger slice of the Cares Act pie.
 An estimated $257.95 billion went to millionaires and billionaires who did not need the money. $10 million, the max amount a small business can receive went to a local NC company, The Budd Group.
 If that name is not familiar, that is my former congressional opponent Rep.
@@ -214,7 +220,8 @@ This is the wealth redistribution Republicans warned us about.
 This pandemic has grotesquely inflamed income inequality.
 Before the Covid19 pandemic hit our nation and forced 1000’s of businesses to shutter forever, it created 52 new billionaires for a total of 659.
 In contrast, it sent millions to the unemployment lines, food bank lines, and homeless shelters.
-Those billionaires have a combined wealth of 4 Trillion dollars and 10 of those hold more than 1 Trillion. 10 people.
+Those billionaires have a combined wealth of 4 Trillion dollars and 10 of those hold more than 1 Trillion.
+10 people.
 It is simply wrong.
 I keep saying we live in #Two Americas.
 The #extremerich and everybody else.
@@ -231,7 +238,11 @@ Who can live on little money?
 As voters, we need to pay attention to income inequality and what our leaders are doing to us.
 Cause it looks like they are doing everything for themselves and corporations.
 Sources: NBC Business News – Wall Street minted 56 new billionaires since the pandemic began… by Martha C.
-White ProPublica – The CARES Act sent you a $1,200 Check but Gave Millionaires and Billionaires Far More. by Allan Sloan | Posts from before 2025 were written during Scott's campaigns for U.S.
+White ProPublica – The CARES Act sent you a $1,200 Check but Gave Millionaires and Billionaires Far More. by Allan Sloan Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

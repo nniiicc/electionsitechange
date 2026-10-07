@@ -1,7 +1,11 @@
 {
  "description": "Brian Romero is a community organizer, social worker, and legislative staffer running for NY State Assembly in the 34th district.",
  "final_url": "https://www.brianr4ny.com/",
- "paid_for_by": null,
+ "fingerprint": "8dae31607cc4a2b7cc16b76d5b7230e8705f1aab",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Brian For NY",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

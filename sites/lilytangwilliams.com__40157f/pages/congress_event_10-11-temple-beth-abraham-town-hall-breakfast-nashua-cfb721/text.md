@@ -1,7 +1,5 @@
-10/11 – Temple Beth Abraham Town Hall & Breakfast – Nashua
-October 11 @ 9:15 am
-Sunday, 10/11 – Breakfast at 9:15 AM, candidate program at 9:45 AM
-Temple Beth Abraham, 4 Raymond Street, Nashua, NH 03064
-A bipartisan town hall hosted by the Southern NH Jewish Men’s Club and moderated by Rabbi Jon Spira-Savett.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/11 – Temple Beth Abraham Town Hall & Breakfast – Nashua October 11 @ 9:15 am « TEAM LILY – Milford Pumpkin Festival 10/12 – Right Side Broadcasting Network Interview – Virtual » Sunday, 10/11 – Breakfast at 9:15 AM, candidate program at 9:45 AM Temple Beth Abraham, 4 Raymond Street, Nashua, NH 03064 A bipartisan town hall hosted by the Southern NH Jewish Men’s Club and moderated by Rabbi Jon Spira-Savett.
 Opening statements, then Q&A.
 Open to the public.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 11 Time: 9:15 am Event Category: Events « TEAM LILY – Milford Pumpkin Festival 10/12 – Right Side Broadcasting Network Interview – Virtual » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

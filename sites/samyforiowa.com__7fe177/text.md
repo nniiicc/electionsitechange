@@ -1,19 +1,7 @@
-We have a long tradition in this state of caring for our neighbors -
-It is truly an Iowa value.
-- Tom Vilsack, former Governor of Iowa
-Public Education
-- Public Money for Public Schools
-- Sufficient funding to serve every student
-- Supporting AEA’s to ensure every student receives the services they deserve
-- Protections and support for LGBTQ students; Schools should be safe for everyone
-Rebuild the Middle Class
-- Raising Iowa's minimum wage to a living wage
-- Building sustainable neighborhoods with adequate services and housing
-- Bringing good union jobs to Central Iowa
-- Fertile ground for entrepreneurs and small business
-- Control inflation and prices to allow families to prosper
-Reproductive Rights
-- Keeping Abortion safe and legal
-- Keeping the government out of your healthcare decisions
-- Ensuring Access to IVF For Iowa Families
-- Guaranteeing safe and affordable healthcare
+top of page Home About Issues Endorsements Support More Use tab to navigate through the menu items.
+DONATE A Trusted Teacher's Voice for Des Moines Support Public Education Rebuild the Middle Class Protect Reproductive Rights Improve Health Outcomes for All LEARN MORE Find My Polling Location We have a long tradition in this state of caring for our neighbors - It is truly an Iowa value. - Tom Vilsack, former Governor of Iowa Public Education Public Money for Public Schools Sufficient funding to serve every student Supporting AEA’s to ensure every student receives the services they deserve Protections and support for LGBTQ students; Schools should be safe for everyone Rebuild the Middle Class Raising Iowa's minimum wage to a living wage Building sustainable neighborhoods with adequate services and housing Bringing good union jobs to Central Iowa Fertile ground for entrepreneurs and small business Control inflation and prices to allow families to prosper Reproductive Rights Keeping Abortion safe and legal Keeping the government out of your healthcare decisions Ensuring Access to IVF For Iowa Families Guaranteeing safe and affordable healthcare DONATE TO MY CAMPAIGN Meet Samy El-Baroudi Third generation educator, union leader, Des Moines resident, family man, community volunteer, and proud Democrat that is committed to making Iowa a better place to live and prosper.
+LEARN MORE Vote for Samy El-Baroudi on November 3, 2026 for Iowa Senate - District 17.
+SEE HIS ENDORSEMENTS Samy El-Baroudi for Iowa Senate.
+701 Hickman Rd.
+Des Moines, IA 50314 ​ Email justsamyelbaroudi@gmail.com Follow Samy Website Paid for by Samy for Iowa Get in Touch First Name Last Name Email Subject Leave us a message...
+I would like to: Submit an Endorsement Volunteer Get a Yard Sign (delivered in August) Replace a Yard Sign (Lost/Broken) Submit If requesting a sign, please include your address. ​ Thanks for submitting! bottom of page

@@ -1,8 +1,30 @@
 [
-"https://okeyanyiamforjudge.com/",
-"https://okeyanyiamforjudge.com/about",
-"https://okeyanyiamforjudge.com/contact",
-"https://okeyanyiamforjudge.com/donate",
-"https://okeyanyiamforjudge.com/privacy-policy",
-"https://okeyanyiamforjudge.com/voting-info"
+{
+"text": "About",
+"href": "https://okeyanyiamforjudge.com/about"
+},
+{
+"text": "Contact",
+"href": "https://okeyanyiamforjudge.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://okeyanyiamforjudge.com/donate"
+},
+{
+"text": "Home",
+"href": "https://okeyanyiamforjudge.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://okeyanyiamforjudge.com/privacy-policy"
+},
+{
+"text": "Voting Info",
+"href": "https://okeyanyiamforjudge.com/voting-info"
+},
+{
+"text": "[image: Okey Anyiam for Texas Court of Criminal Appeals]",
+"href": "https://okeyanyiamforjudge.com/"
+}
 ]

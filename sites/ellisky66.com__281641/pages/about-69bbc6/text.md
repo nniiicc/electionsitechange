@@ -1,4 +1,4 @@
-I’m a lifelong Kentuckian and a proud resident of Boone County, where I’ve lived for the past twenty years.
+Home Calendar News About Policy Donate More Home Calendar News About Policy Donate Home Calendar News About Policy Donate About Me My Background I’m a lifelong Kentuckian and a proud resident of Boone County, where I’ve lived for the past twenty years.
 My wife (my college sweetheart of twenty-two years) and I share three children and make our home on a farm in Burlington.
 We raise horses and live a quiet, grounded life rooted in care, stewardship, and community.
 After high school, I pursued higher education with a growing passion for language and its power to shape civic change.
@@ -9,11 +9,5 @@ I believe people should have the freedom to live their lives as they choose, whi
 I champion personal rights like free speech, privacy, and bodily autonomy—alongside strong public schools, healthcare access, and worker protections.
 I value both independence and civic responsibility, grounded in the belief that liberty and the common good must rise together.
 As a candidate for the Kentucky House, I represent the middle majority of Kentuckians—Democrats and Republicans alike—who share more with each other than with the extremes of either party.
-Affordable Housing
-Affordable Groceries
-Quality Job Creation
-Healthcare
-Education
-Decency in Politics Again
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+My Top Issues Affordable Housing Affordable Groceries Quality Job Creation Healthcare Education Decency in Politics Again About Jason Ellis - Kentucky Political Candidate Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Copyright © # Jason Ellis for KY66th - All Rights Reserved.
+Powered by

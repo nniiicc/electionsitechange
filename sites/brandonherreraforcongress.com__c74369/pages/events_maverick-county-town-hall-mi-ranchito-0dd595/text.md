@@ -1,9 +1,5 @@
-Date: Thursday, October 22nd, 2026
-Time: 12:00 PM - 1:00 PM CST
-Type: Town Hall
-Address: 1720 Del Rio Blvd, Eagle Pass, TX
-Open in Google Maps
-•
-Open in Apple Maps
-Join Brandon Herrera for a town hall at Mi Ranchito in Eagle Pass.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Maverick County Town Hall – Mi Ranchito October 22nd, 2026, 12:00 PM - 1:00 PM CST Date: Thursday, October 22nd, 2026 Time: 12:00 PM - 1:00 PM CST Type: Town Hall Address: 1720 Del Rio Blvd, Eagle Pass, TX Open in Google Maps • Open in Apple Maps Join Brandon Herrera for a town hall at Mi Ranchito in Eagle Pass.
 Hear Brandon’s message and bring your questions!
+Save to Calendar Add to Google Calendar Share This event Share this with those who live in Texas District 23!
+Help elect Brandon Herrera to Congress Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

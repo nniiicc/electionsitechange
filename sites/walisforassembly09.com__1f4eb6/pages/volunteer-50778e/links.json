@@ -1,12 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61583553430346",
-"https://instagram.com/cheezers99",
-"https://linkedin.com/in/christopher-walis-478500398",
-"https://secure.actblue.com/donate/christopher-walis-1",
-"https://twitter.com/wix",
-"https://walisforassembly09.com/",
-"https://walisforassembly09.com/about-7",
-"https://walisforassembly09.com/contact-8",
-"https://walisforassembly09.com/issues",
-"https://walisforassembly09.com/volunteer"
+{
+"text": "About",
+"href": "https://www.walisforassembly09.com/about-7"
+},
+{
+"text": "Christopher Walis",
+"href": "https://www.walisforassembly09.com"
+},
+{
+"text": "Contact",
+"href": "https://www.walisforassembly09.com/contact-8"
+},
+{
+"text": "Contact Us",
+"href": "https://www.walisforassembly09.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/christopher-walis-1"
+},
+{
+"text": "Home",
+"href": "https://www.walisforassembly09.com"
+},
+{
+"text": "Issues",
+"href": "https://www.walisforassembly09.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walisforassembly09.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61583553430346"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/cheezers99/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/christopher-walis-478500398"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

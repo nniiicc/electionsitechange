@@ -1,7 +1,6 @@
-Democrats in Congress are working hard to make your lives easier- cutting costs, lowering prices and making life more affordable.
+Skip to content Connect with Alma Facebook-f Twitter Donate Today Home About Alma Issues 4Hs + Labor Media Volunteer Contact Us Home About Alma Issues 4Hs + Labor Media Volunteer Contact Us About Alma Democrats in Congress are working hard to make your lives easier- cutting costs, lowering prices and making life more affordable.
 With your help, I’ll continue being a stakeholder representative who advocates for policies addressing the most urgent needs of the people back home.
-“What Matters to You, Matters to Me.”
-For Congresswoman Alma Adams, there are four necessities that all people require to live a quality life – affordable and accessible healthcare, access to healthy and nutritious food, fair and affordable housing, and a quality, first-class education.
+“What Matters to You, Matters to Me.” For Congresswoman Alma Adams, there are four necessities that all people require to live a quality life – affordable and accessible healthcare, access to healthy and nutritious food, fair and affordable housing, and a quality, first-class education.
 These essentials, which Alma calls “the 4H’s”, should not be political issues; they should be rights guaranteed to all people.
 She believes this because she knows personally how hard it is to survive without them.
 Alma’s mother was a strong Black Christian woman, who was a domestic worker.
@@ -23,42 +22,41 @@ During her time in Congress, Alma continued the fight to increase the minimum wa
 As co-founder of the Black Maternal Health Caucus, along with Rep.
 Lauren Underwood, she has led efforts to combat high mortality rates among Black women during childbirth and pushed for the Momnibus, a package of fourteen bills focusing on better maternal health outcomes and reducing the disparities in women’s health.
 As co-founder and chair of the Congressional Bipartisan HBCU caucus, she has led the fight to keep Historically Black Colleges and Universities (HBCUs) as sustainable options for low-income, first-generation college students – just like herself.
-Fondly referred to as the “Godmother” of HBCU’s, Alma has been awarded fourteen (14) Honorary degrees to include thirteen (13) from HBCU’s.
+Fondly referred to as the “Godmother” of HBCU’s , Alma has been awarded fourteen (14) Honorary degrees to include thirteen (13) from HBCU’s.
 Throughout her time in local and state elected office Alma taught art for forty years at Bennett College in Greensboro, North Carolina before being elected to the US Congress.
 Prior to her teaching and administrative career at Bennett, she taught art at Palmer Memorial Institute in Sedalia, North Carolina.
 Alma has never forgotten where she came from – she has always strived to be a Congresswoman who opens doors of opportunity for all children, no matter the circumstances of their birth.
-She will continue to be a stakeholder representative who fights to make Congress focus on the issues that matter most to the people of her district.
+She will continue to be a stakeholder representative who fights to make Congress focus on the issues that matter most to the people of her district .
 What matters to you, matters to her.
 She is an accessible and available representative who encourages and invites you to come to the table.
 Alma Adams received her bachelor’s degree and master’s degree in art education from North Carolina A&T State University in Greensboro and took her Ph.D. in Art Education and Multicultural Education from The Ohio State University in Columbus, Ohio and has been a member of the Alpha Kappa Alpha Sorority, Incorporated since 1978.
 She is a proud mother to two adult children (son and daughter), four grandchildren (two grandsons and two granddaughters) and one great granddaughter.
 Alma has never forgotten where she came from – she has always strived to be a Congresswoman who opens doors of opportunity for all children, no matter the circumstances of their birth.
-"As we enter 2026, I am pleased to provide a few highlights of my work this year.
+Click to View PDF of Rep.
+Adams' Bio "As we enter 2026, I am pleased to provide a few highlights of my work this year.
 It is my privilege to represent the citizens of North Carolina’s 12th District.
 I have introduced bills, led letters, and fought to address housing affordability, hunger and food insecurity, expand access to healthcare, and strengthen education for students.
-As your member of Congress, what matters to you matters to me.”
-– CONGRESSWOMAN ALMA S.
+As your member of Congress, what matters to you matters to me.” – CONGRESSWOMAN ALMA S.
 ADAMS, PH.D.
-Alma On The Issues
-Standing up for Women
-I will always fight for a woman’s right to choose and the right to privacy.
+Alma On The Issues Standing up for Women I will always fight for a woman’s right to choose and the right to privacy.
 Reproductive issues are health care issues, and they should be kept private between a woman and her doctor.
 Despite all our progress, women are still fighting for equal health care, equal pay, equal representation, equal respect, and equal rights.
 When the Supreme Court struck down Roe, it took reproductive health care decisions from women.
 I will continue to fight to ensure women’s rights are restored and protected.
 I will continue to support legislation that would provide paid family and medical leave benefits, making it easier for women who want to work and need to work to support her family or pursue her education is able to do so.
-Improving Public Education and Higher Education
-As a retired educator, I have seen first-hand the impact a great education can have on a young person’s life.
+Improving Public Education and Higher Education As a retired educator, I have seen first-hand the impact a great education can have on a young person’s life.
 I will always be a champion for public schools, our teachers, our children and our Historically Black Colleges and Universities.
 I want to make sure our HBCUs not only survive but thrive.
-That’s why in 2019 I sponsored and introduced H.R. 5363, the Fostering Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act that permanently provides funding totaling $255 million a year for all Minority-Serving Institutions, including $85 million for HBCUs.
+That’s why in 2019 I sponsored and introduced H.R.
+5363, the Fostering Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act that permanently provides funding totaling $255 million a year for all Minority-Serving Institutions, including $85 million for HBCUs.
 In 2023, I introduced The IGNITE HBCU Excellence Act, which would be an historic investment in Historically Black Colleges and Universities nationwide and would provide the necessary infrastructure (physical and personnel) improvements at our HBCUs.
-As a Stakeholder Representative for North Carolina’s 12th district, I want to make sure Charlotte’s students have every opportunity to succeed — from strong public schools to affordable colleges, to the federal support our families rely on.
+As a Stakeholder Representative for North Carolina’s 12 th district, I want to make sure Charlotte’s students have every opportunity to succeed — from strong public schools to affordable colleges, to the federal support our families rely on.
 I’ll continue to stand up for student aid, for HBCUs, and for an education system that leaves no child behind.
-Fighting for Better Healthcare
-Martin Luther King, Jr., said, “of all the forms of inequality, injustice in healthcare is the most shocking and inhumane.” The United States has the worst maternal health outcomes, including mortality and morbidity, out of all other developed nations.
+Fighting for Better Healthcare Martin Luther King, Jr., said, “of all the forms of inequality, injustice in healthcare is the most shocking and inhumane.” The United States has the worst maternal health outcomes, including mortality and morbidity, out of all other developed nations.
 Black women are three to four times more likely to die from a pregnancy-related complication compared to white women.
 That’s why I co-founded the Black Maternal Health Caucus and why I’m fighting for the Momnibus, a package of 14 bills focused on improving maternal health outcomes and closing the disparity gap.
 My Stillbirth Prevention Act became law this year which will expand funding for research and prevention and I’m working to pass the Endometriosis Care Act.
 I continue to support a single-payer health care system and an expansion to tax credits to help citizens afford health insurance and have fought for several decades to ensure North Carolina expansion of Medicaid that was finally expanded in 2024.
 I believe health care is a basic human right that should be accessible and affordable for all our citizens.
+Let's keep going in the right direction.
+Join The Campaign Home About Alma Issues 4Hs + Labor Media Volunteer Contact Us Home About Alma Issues 4Hs + Labor Media Volunteer Contact Us Paid for by Alma Adams for Congress

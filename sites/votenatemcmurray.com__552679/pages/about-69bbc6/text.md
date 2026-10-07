@@ -1,6 +1,7 @@
-Corruption Has Been Normalized
-Here Are the Facts:
-For decades, Niagara County politics has been controlled by a small circle of corrupt Republican insiders.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Corruption Has Been Normalized Here Are the Facts: For decades, Niagara County politics has been controlled by a small circle of corrupt Republican insiders.
 Now, you might be saying, “Wait — I’m a Republican.” Fine.
 This isn’t about who agrees with Fox News.
 They want you focused on national issues so you ignore local criminality.
@@ -25,8 +26,7 @@ If you map the interlocking boards, appointments, and contracts, the pattern bec
 They are literally hiring criminals — not despite their records, but because they’re part of the same OTB-connected cash system.
 This isn’t how a functioning democracy works.
 It looks more like a third-world patronage system.
-And too many people shrug and say, “That’s just how it is.”
-I don’t accept that.
+And too many people shrug and say, “That’s just how it is.” I don’t accept that.
 And it is my job to make you care.
 Corruption in the Niagara Region Isn’t Inevitable — It’s Tolerated.
 And That Can Change.
@@ -52,3 +52,7 @@ If it’s not, reform must follow.
 And it means breaking the insider cycle — no more quiet settlements, golden parachutes, or untouchable institutions operating without scrutiny.
 If you’re comfortable with a system where the same people always benefit and nothing ever changes, this isn’t your campaign.
 But if you’re tired of watching Niagara County get bled dry while leaders look the other way, then it’s time to do something different.
+Stop accepting corruption.
+Stop shrugging.
+Call it out — and let me fight it.
+Volunteer and Sign Up for Updates!

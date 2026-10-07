@@ -1,9 +1,34 @@
 [
-"https://kevinknoke.com/",
-"https://kevinknoke.com/about",
-"https://kevinknoke.com/connect",
-"https://kevinknoke.com/endorsements",
-"https://kevinknoke.com/issues",
-"https://kevinknoke.com/privacy-policy",
-"https://secure.actblue.com/donate/kevin-knoke-1"
+{
+"text": "ABOUT",
+"href": "https://www.kevinknoke.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.kevinknoke.com/endorsements"
+},
+{
+"text": "CONNECT",
+"href": "https://www.kevinknoke.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kevin-knoke-1"
+},
+{
+"text": "HOME",
+"href": "https://www.kevinknoke.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kevinknoke.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kevinknoke.com/privacy-policy"
+},
+{
+"text": "[image: Kevin Knoke for Assembly campaign logo]",
+"href": "https://www.kevinknoke.com"
+}
 ]

@@ -1,7 +1,18 @@
-The countdown to my Shadelands fundraiser is on!
-Less than one month remains until my annual reception at Shadelands Ranch in Walnut Creek, CA.
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu Press Release The countdown to my Shadelands fundraiser is on!
+August 15, 2024 August 15, 2024 / Press Release Less than one month remains until my annual reception at Shadelands Ranch in Walnut Creek, CA.
 I’m eagerly looking forward to connecting with the wonderful community of CA-10.
 Your support truly means the world to me, and I would be delighted to see you there!
-Please click here to confirm your RSVP and make an …
-The countdown to my Shadelands fundraiser is on!
-Read More »
+Please click here to confirm your RSVP and make an … The countdown to my Shadelands fundraiser is on!
+Read More » Congressman Mark DeSaulnier Wins CD-10 Congressional Seat with Nearly 80% Support April 7, 2023 April 7, 2023 / Press Release CONTRA COSTA, CA – The DeSaulnier for Congress Campaign is proud to announce Congressman DeSaulnier’s re-election to Congress in CD-10 with nearly 80% of voters supporting him.
+DeSaulnier has represented Concord and Contra Costa County in Congress since 2015 and vows to continue to work hard for his constituents, fighting for working families.
+“I’m honored and … Congressman Mark DeSaulnier Wins CD-10 Congressional Seat with Nearly 80% Support Read More » A Statement from Congressman Mark DeSaulnier on U.S.
+Supreme Court Decision to Overturn Roe v.
+Wade June 24, 2022 June 24, 2022 / Press Release Today, Congressman Mark DeSaulnier issued the following statement in response to the U.S.
+Supreme Court’s decision to overturn Roe v.
+Wade: Congressman Mark DeSaulnier Announces Re-election Campaign for California’s 10th Congressional District; Pledging to Continue His Work in Congress for Contra Costa December 20, 2021 December 21, 2021 / Press Release CONTRA COSTA, CA – The DeSaulnier for Congress Campaign announces the launch of Congressman DeSaulnier’s re-election campaign for California’s 10th Congressional district, as approved by the California Citizens’ Redistricting Commission (CCRC) tonight.
+Congressman DeSaulnier has represented Concord and Contra Costa County in Congress since 2015 and vows to continue to work hard for his constituents, fighting … Congressman Mark DeSaulnier Announces Re-election Campaign for California’s 10th Congressional District; Pledging to Continue His Work in Congress for Contra Costa Read More » Video Statement of Qualifications November 2, 2018 April 20, 2021 / Press Release https://www.facebook.com/MarkDeSaulnier/videos/352558608621889/ DeSaulnier Denounces Anti-Semitism in California-11 Race and Calls on the NRCC to Join CA Republican Party in Rejecting GOP Nominee John Fitzgerald’s Campaign October 30, 2018 October 30, 2018 / Press Release Walnut Creek, CA – Today, in the wake of the massacre of 11 Jewish Americans at the Tree of Life Synagogue, on the heels of President Trump’s visit to Pittsburgh, PA, and one week before the midterm election, Congressman Mark DeSaulnier (D-Concord) called on the National Republican Congressional Committee (NRCC) to join the California Republican Party … DeSaulnier Denounces Anti-Semitism in California-11 Race and Calls on the NRCC to Join CA Republican Party in Rejecting GOP Nominee John Fitzgerald’s Campaign Read More » My Statement of Qualifications October 27, 2018 October 27, 2018 / Press Release As a long-time business owner, a single father who raised two sons in Contra Costa County, and a public official, I understand the issues that matter to Contra Costa families.
+I am honored and humbled to have the opportunity to serve you as your Congressman in the United States House of Representatives.
+Whether it was … My Statement of Qualifications Read More » Congressman DeSaulnier makes the following endorsements October 27, 2018 October 27, 2018 / Press Release CONGRESSMAN DESAULNIER MAKES THE FOLLOWING ENDORSEMENTS FOR THE NOVEMBER 6, 2018 ELECTION STATEWIDE US Senate Dianne Feinstein Governor Gavin Newsom Lt.
+Governor Ed Hernandez Secretary of State Alex Padilla Attorney General Xavier Baccera Controller Betty Yee Treasurer Fiona Ma Insurance Commissioner Ricardo Lara Superintendent of … Congressman DeSaulnier makes the following endorsements Read More » Posts pagination 1 2 … 11 Next Page → Newsroom: In The News Message from Congressman DeSaulnier: Press Release Recent News: The countdown to my Shadelands fundraiser is on!
+August 15, 2024 Filed my papers to continue representing CA-10 in Congress!
+August 13, 2024 Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

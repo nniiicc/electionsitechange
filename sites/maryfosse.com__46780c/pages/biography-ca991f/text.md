@@ -1,5 +1,4 @@
-About Mary
-Rep.
+0 Skip to Content Home Biography Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Home Biography Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Home Biography Priorities Endorsements Volunteer Contact Donate About Mary Rep.
 Mary Fosse is a mother of two, the wife of a veteran, and our current State Representative in Olympia.
 She is well-known as a dedicated public servant, volunteer, and proponent of the rights of workers, families, and our most vulnerable.
 Mary currently serves on the Everett City Council, is on the Everett Public Schools Fiscal Advisory Council, and is a member and consistent volunteer for a variety of local organizations.
@@ -11,3 +10,5 @@ Her community service and leadership has brought environmental justice, public a
 Mary has led efforts to increase rain gardens, promote green and sustainable development, supply and educate neighbors on conservation and gardening resources, preserve North Everett’s last remaining wetlands, and helped expand North Everett’s tree canopy.
 Mary and her family live in the Delta neighborhood of north Everett.
 They have an expansive garden, six chickens, and enjoy spending time with friends and neighbors.
+Contact Donate Paid for by Friends of Mary Fosse (D), P.O.
+Box 3125, Everett WA, 98213

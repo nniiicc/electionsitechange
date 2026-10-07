@@ -1,8 +1,7 @@
-Meet Kristin
-Photo credit: Elayne Cronin
-Kristin is running for reelection as the State Representative for the 2nd Essex District representing Ipswich, Hamilton, Rowley, Newbury, Georgetown, and Topsfield (1).
+0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE DRIVING PROGRESS BUILDING COMMUNITY DELIVERING FOR YOU Photo credit: Elayne Cronin Meet Kristin Read More Photo credit: Elayne Cronin Kristin is running for reelection as the State Representative for the 2nd Essex District representing Ipswich, Hamilton, Rowley, Newbury, Georgetown, and Topsfield (1).
 As a planning professional with 20 years of local government experience, she has dedicated her career to improving quality of life for people and their environments in the Commonwealth.
-Priorities
-As your state representative, Kristin has fought for the North Shore's families, our environment, and the future we're building together.
-Endorsements
-Kristin is proud to stand with the labor unions, leading organizations, and elected leaders who have endorsed her.
+Priorities As your state representative, Kristin has fought for the North Shore's families, our environment, and the future we're building together.
+Read More Endorsements Kristin is proud to stand with the labor unions, leading organizations, and elected leaders who have endorsed her.
+Read More Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

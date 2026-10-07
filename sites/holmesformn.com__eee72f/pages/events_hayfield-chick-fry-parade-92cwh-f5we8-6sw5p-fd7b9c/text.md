@@ -1,5 +1,6 @@
-Join Team Heather and Team Simon for Stewartville’s Summerfest Parade on July 4th!
-📅 Saturday, July 4th 🕒 Lineup at 5:45 PM (arrive early, parking is tight) 📍 Stewartville Middle School / High School (6th Ave & 6th St.
-SW) 🤝 With Simon Glaser for Senate
-We'll be out celebrating Independence Day with our neighbors in Stewartville and would love to have a strong showing from supporters.
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact Back to All Events Stewartville Summerfest (4th of July) Parade Saturday, July 4, 2026 5:45 PM 9:00 PM Google Calendar ICS Join Team Heather and Team Simon for Stewartville’s Summerfest Parade on July 4th! 📅 Saturday, July 4th 🕒 Lineup at 5:45 PM (arrive early, parking is tight) 📍 Stewartville Middle School / High School (6th Ave & 6th St.
+SW) 🤝 With Simon Glaser for Senate We'll be out celebrating Independence Day with our neighbors in Stewartville and would love to have a strong showing from supporters.
 Following the parade, we will have a get together near the parade route, with food and drink, for the Stewartville Summerfest fireworks!
+RSVP Here .
+Posted In: Community Events Previous Previous July 2 Stewartville Canvass Next Next July 7 Stewartville Door Knock Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

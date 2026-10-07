@@ -1,4 +1,4 @@
-Astonishing.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now We Need More Courageous Voices Astonishing.
 That’s the word my sister used for it and I haven’t found a better fit.
 I am astonished that such a thing occurred at Utah Valley University.
 At any university, really.
@@ -11,7 +11,8 @@ Charlie Kirk listened.
 And the people he listened to felt heard.
 And the people who witnessed the listening understood.
 They might not agree, but they understood.
-I listened to the Tucker Carlson interview with Charlie Kirk and found common ground with both of them.
+Charlie Kirk stares down the camera during his campus visit at University of South Carolina.
+Photo by Jack Bradshaw for The Daily Gamecock ( original link) I listened to the Tucker Carlson interview with Charlie Kirk and found common ground with both of them.
 It’s not a secret that Charlie Kirk’s Turning Point USA was a movement that reached, educated, and mobilized thousands of young people.
 Some heralded it as the future of the Republican Party and others saw it as a threat.
 Charlie Kirk had unpopular opinions.
@@ -46,3 +47,10 @@ Because this latest act of heinous political violence is telling us something Ch
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Tagged Charlie Kirk , free speech , Politics 2 Responses Steven Hoffman says: September 15, 2025 at 7:13 pm Very nice eulogy for Charlie Kirk.
+It appears the times, they are a-changein’ and we all need to step back and contribute to the discussion in a civilized manner.
+Reply kasiesc says: September 25, 2025 at 12:03 pm Thanks, Steven.
+I appreciate you reading and the feedback.
+The answer to threats against free speech is MORE speech 🙂 Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

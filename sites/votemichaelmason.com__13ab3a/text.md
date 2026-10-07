@@ -1,7 +1,5 @@
-Mike Mason is running for the 151st District in Greenwich, CT.
-Visit Elect Mike Mason on Facebook
-Meet Mike Mason
-A Greenwich Neighbor.
+Skip to content Home News & Updates Contact Us Mike Mason is running for the 151st District in Greenwich, CT.
+Visit Elect Mike Mason on Facebook Meet Mike Mason A Greenwich Neighbor.
 A Proven Leader.
 Michael Mason is a third-generation Greenwich resident who has dedicated his life to serving the community he proudly calls home.
 He and his wife, Michele—both graduates of Greenwich High School—have lived in Cos Cob for more than 30 years, where they raised their daughter, Julia.
@@ -12,3 +10,5 @@ In addition, he represented District 8 on the Representative Town Meeting for 12
 Michael is running for State Representative in Connecticut's 151st District because he believes Greenwich needs a strong, independent voice in Hartford.
 He will fight to protect local control, oppose unfunded mandates, push back against excessive taxation, and ensure that decisions affecting Greenwich are made with the interests of Greenwich residents in mind.
 As your State Representative, Michael Mason will bring experience, accountability, and a commitment to putting Greenwich first—every time.
+Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
+Approved by Michael Mason

@@ -1,8 +1,38 @@
 [
-"https://facebook.com/votevancesmith",
-"https://secure.anedot.com/votevancesmith/donate",
-"https://votevancesmith.com/",
-"https://votevancesmith.com/about",
-"https://votevancesmith.com/contact",
-"https://votevancesmith.com/issues"
+{
+"text": "CONTACT",
+"href": "https://www.votevancesmith.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/votevancesmith/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/votevancesmith/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votevancesmith.com/"
+},
+{
+"text": "MEET VANCE",
+"href": "https://www.votevancesmith.com/about"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votevancesmith.com/about"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votevancesmith.com/issues"
+},
+{
+"text": "WHERE I STAND",
+"href": "https://www.votevancesmith.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votevancesmith/"
+}
 ]

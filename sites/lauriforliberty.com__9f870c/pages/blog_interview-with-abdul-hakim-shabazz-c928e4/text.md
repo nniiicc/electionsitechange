@@ -1,4 +1,3 @@
-Interview with Abdul-Hakim Shabazz
-Indy Politics’ Abdul-Hakim Shabazz interviews Lauri Shillings about her plans for the office of Secretary of state, incumbent Diego Morales’ many missteps, and what she thinks of an Independent entering the race.
-Previous
-Next
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Interview with Abdul-Hakim Shabazz Apr 18 Written By Danny Lundy Indy Politics’ Abdul-Hakim Shabazz interviews Lauri Shillings about her plans for the office of Secretary of state, incumbent Diego Morales’ many missteps, and what she thinks of an Independent entering the race.
+2026-04-06 abdul-zoom-15-57-45 Danny Lundy Previous Previous The Secretary of State’s Office is about Service, not Politics Next Next It’s Time Indiana’s Secretary of State Served the People Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

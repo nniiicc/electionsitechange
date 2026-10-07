@@ -1,6 +1,5 @@
-Dear Neighbors,
-We have four weeks left in the legislative session, and we’re working toward compromise on the pressing issues Minnesotans are asking for.
-New data from a recently filed lawsuit shows that the ICE agents who descended upon Minnesota during Operation Metro Surge drained more than $600 million from Minnesota’s economy.
+HOME BLOG ABOUT PRIORITIES ENDORSEMENTS NEWS COUNT ME IN DONATE Select Page Senior Care Facility Visits, Bill up in Taxes, and Arbor Day by Cheryl Youakim | Apr 24, 2026 | Blog | 0 comments Dear Neighbors, We have four weeks left in the legislative session, and we’re working toward compromise on the pressing issues Minnesotans are asking for.
+New data from a recently filed lawsuit shows that the ICE agents who descended upon Minnesota during Operation Metro Surge drained more than $600 million from Minnesota’s economy .
 There have been a variety of bills discussed to deliver monetary aid for our small business, local municipalities/school boards, and counties that have been effected by metro surge.
 Another package of legislation is in response to 70% of Minnesotans are asking for common sense gun violence prevention, including banning high capacity magazines, which are meant for war, not our streets.
 Hennepin County Medical Center, our number one trauma center serving our entire state, is in jeopardy of closing due to President Trump and Congress’ Medicaid cuts.
@@ -29,28 +28,26 @@ We ended the day by passing a handful of bipartisan bills off of the House Floor
 One bill to enhance protections for Minnesotans online, another to ban AI ‘nudification’ apps that can ruin a person’s life by manipulating images of people without clothing, and an important bill that would strengthen the penalties for individuals who impersonate law enforcement.
 That last bill was borne out of the events of June 14, 2025, when a gunman impersonating a police officer violated public trust and killed Melissa, Mark, and their family dog Gilbert.
 The bill is nation-leading and passed 134-0.
-Arbor Day
-Arbor Day is such a great reminder of how much trees mean to our communities!
+Arbor Day Arbor Day is such a great reminder of how much trees mean to our communities!
 Thank you to Rep.
 Rick Hanson and my colleagues that helped bundle the saplings.
 My Education Finance Co-Chair Rep.
 Mary Frances Clardy received Red Pines.
-Photo credit: Minnesota House Photography
-Serve on Hopkins’ Zoning Commission and Park Board!
+Photo credit: Minnesota House Photography Serve on Hopkins’ Zoning Commission and Park Board!
 Interested in serving your community?
 The City of Hopkins is seeking applicants to serve on their local boards and commissions.
 The City currently has openings on the Planning and Zoning Commission and the Park Board!
 Boards and commissions perform a vital role in the function of our community.
 Many of the City’s decisions, policies, and procedures are founded on recommendations from a board or commission.
-Learn more about City boards and commissions, and apply here.
+Learn more about City boards and commissions, and apply here .
 The deadline to apply is May 2.
-Keep in Touch
-Please continue to contact me anytime at rep.cheryl.youakim@house.mn.gov or 651-296-9889 with questions or input.
+Keep in Touch Please continue to contact me anytime at rep.cheryl.youakim@house.mn.gov or 651-296-9889 with questions or input.
 Email is the quickest way to get in touch.
 Thank you for the honor of serving our St.
 Louis Park, Hopkins, and Edina neighbors at the State Capitol.
 Enjoy the weekend!
 Rep.
-Cheryl Youakim
-46B – Hopkins, Edina, & St.
-Louis Park
+Cheryl Youakim 46B – Hopkins, Edina, & St.
+Louis Park Submit a Comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Recent Posts STEP school supply drive, State laws in effect July 1, and more Remembering Our Colleague Melissa Hortman Last Week of Session & Upcoming Town Hall Investing In Our Schools & Hold the Vote OIG Bill Passes and Mental Health Month Recent Comments Categories Blog News PRIVACY POLICY Facebook Twitter Designed by Glyph Digital

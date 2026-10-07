@@ -1,4 +1,4 @@
-I am proud to endorse Naomi Riess for Colorado House District 59.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from Jarvis Caldwell Jarvis Caldwell I am proud to endorse Naomi Riess for Colorado House District 59.
 Naomi brings decades of business, community and leadership experience to this race.
 She understands what it takes to manage budgets, solve problems, work with people and make responsible decisions.
 She also understands the challenges facing families, employers, farmers, ranchers and rural communities across Southwest Colorado.
@@ -11,5 +11,4 @@ It is a highly winnable seat, and electing Naomi would help restore balance at t
 We need Naomi’s experience, judgment and leadership in the Colorado House.
 She is prepared to serve, ready to lead and committed to representing Southwest Colorado with strength and integrity.
 I strongly encourage voters throughout House District 59 to support Naomi Riess.
-Representative Jarvis Caldwell
-Colorado House Minority Leader
+Representative Jarvis Caldwell Colorado House Minority Leader Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

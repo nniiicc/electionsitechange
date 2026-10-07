@@ -1,36 +1,134 @@
 [
-"http://maps.google.com/?q=1410+Prairie+Lane+Bar+Nunn%2C+Wyoming%2C+82601+United+States",
-"http://maps.google.com/?q=1430+Wilkins+Circle+Casper%2C+Wyoming%2C+82601+United+States",
-"http://maps.google.com/?q=1635+Reata+Drive+Gillette%2C+Wyoming%2C+82718+United+States",
-"http://maps.google.com/?q=170+Star+Lane+Casper%2C+Wyoming%2C+82604+United+States",
-"http://maps.google.com/?q=2001+West+Sunset+Drive+Riverton%2C+Wyoming%2C+82501+United+States",
-"http://maps.google.com/?q=2200+Pioneer+Avenue+Cheyenne%2C+Wyoming%2C+82001+United+States",
-"http://maps.google.com/?q=28627+Old+Highway+87+Buffalo%2C+Wyoming%2C+82834+United+States",
-"http://maps.google.com/?q=309+North+American+Road+Cheyenne%2C+Wyoming%2C+82007+United+States",
-"http://maps.google.com/?q=613+West+Yellowstone+Highway+Casper%2C+Wyoming%2C+82601+United+States",
-"https://barlowforwyo.com/",
-"https://barlowforwyo.com/cart",
-"https://barlowforwyo.com/contact",
-"https://barlowforwyo.com/events",
-"https://barlowforwyo.com/events/casper-meet-greet",
-"https://barlowforwyo.com/events/central-wyoming-counseling-center",
-"https://barlowforwyo.com/events/cheyenne-meet-greet",
-"https://barlowforwyo.com/events/cheyenne-meet-greet-1",
-"https://barlowforwyo.com/events/scottsdale-mint-and-the-wyoming-reserve-tour",
-"https://barlowforwyo.com/events/wyoming-pbs-general-election-debates",
-"https://barlowforwyo.com/events/wyoming-primary-care-symposium",
-"https://barlowforwyo.com/events/wyoming-womens-antelope-hunt-dinner",
-"https://barlowforwyo.com/events/wyoming-young-republicans",
-"https://barlowforwyo.com/events/yes-house-dancing-with-the-stars",
-"https://barlowforwyo.com/healthcare",
-"https://barlowforwyo.com/meeteric",
-"https://barlowforwyo.com/positions",
-"https://barlowforwyo.com/privacy-policy",
-"https://barlowforwyo.com/setting-the-record-straight",
-"https://facebook.com/EricBarlowRidingForWyoming",
-"https://instagram.com/barlow_wyo",
-"https://secure.winred.com/eric-barlow-32097f9d/donate",
-"https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@barlowforwyo",
-"https://x.com/Barlowforwyo"
+{
+"text": "0",
+"href": "https://www.barlowforwyo.com/cart"
+},
+{
+"text": "CAM-PLEX Multi-Event Facilities",
+"href": "http://maps.google.com?q=1635+reata+drive+gillette%2C+wyoming%2C+82718+united+states"
+},
+{
+"text": "Casper Meet & Greet",
+"href": "https://www.barlowforwyo.com/events/casper-meet-greet"
+},
+{
+"text": "Contact",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "Cygnet Brewing Company",
+"href": "http://maps.google.com?q=613+west+yellowstone+highway+casper%2C+wyoming%2C+82601+united+states"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate"
+},
+{
+"text": "Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "GET THE FACTS",
+"href": "https://www.barlowforwyo.com/setting-the-record-straight"
+},
+{
+"text": "Healthcare Strike Team",
+"href": "https://www.barlowforwyo.com/healthcare"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.barlowforwyo.com/meeteric"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.barlowforwyo.com/meeteric"
+},
+{
+"text": "Positions",
+"href": "https://www.barlowforwyo.com/positions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barlowforwyo.com/privacy-policy"
+},
+{
+"text": "Read more →",
+"href": "https://www.barlowforwyo.com/events/casper-meet-greet"
+},
+{
+"text": "Read more →",
+"href": "https://www.barlowforwyo.com/events/wyoming-pbs-general-election-debates"
+},
+{
+"text": "Read more →",
+"href": "https://www.barlowforwyo.com/events/wyoming-primary-care-symposium"
+},
+{
+"text": "Read more →",
+"href": "https://www.barlowforwyo.com/events/wyoming-womens-antelope-hunt-dinner"
+},
+{
+"text": "Read more →",
+"href": "https://www.barlowforwyo.com/events/yes-house-dancing-with-the-stars"
+},
+{
+"text": "Riverton High School Auditorium",
+"href": "http://maps.google.com?q=2001+west+sunset+drive+riverton%2C+wyoming%2C+82501+united+states"
+},
+{
+"text": "Sign UP",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "The Facts",
+"href": "https://www.barlowforwyo.com/setting-the-record-straight"
+},
+{
+"text": "The Hangar Bar & Grill",
+"href": "http://maps.google.com?q=1410+prairie+lane+bar+nunn%2C+wyoming%2C+82601+united+states"
+},
+{
+"text": "The TA Ranch",
+"href": "http://maps.google.com?q=28627+old+highway+87+buffalo%2C+wyoming%2C+82834+united+states"
+},
+{
+"text": "Wyoming PBS General Election Debates",
+"href": "https://www.barlowforwyo.com/events/wyoming-pbs-general-election-debates"
+},
+{
+"text": "Wyoming Primary Care Symposium",
+"href": "https://www.barlowforwyo.com/events/wyoming-primary-care-symposium"
+},
+{
+"text": "Wyoming Women's Antelope Hunt Dinner",
+"href": "https://www.barlowforwyo.com/events/wyoming-womens-antelope-hunt-dinner"
+},
+{
+"text": "YES House Dancing with the Stars",
+"href": "https://www.barlowforwyo.com/events/yes-house-dancing-with-the-stars"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.barlowforwyo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EricBarlowRidingForWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barlow_wyo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@barlowforwyo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barlowforwyo"
+}
 ]

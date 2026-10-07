@@ -1,8 +1,8 @@
-The South Philly Voter Project
-Mobilizing Neighbors for Democratic Victory
-Voting is vital to preserving our democracy, both at the national level and here in our community.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate The South Philly Voter Project Mobilizing Neighbors for Democratic Victory Voting is vital to preserving our democracy, both at the national level and here in our community.
 This year, our votes will decide the future of worker protections, abortion care, economic equality, and countering the climate crisis.
-The South Philly Voter Project (SPVP) is a voter outreach effort co-sponsored by State Representative Elizabeth Fiedler and State Senator Nikil Saval.
+The South Philly Voter Project (SPVP) is a voter outreach effort co-sponsored by State Representative Elizabeth Fiedler and State Senator Nikil Saval .
 In 2022, SPVP mobilized over 200 neighbors to knock 33,000 doors in our region, and delivered overall turnout that was 10% higher than the city’s average.
 In 2024, the South Philly Voter Project will once again help Philadelphia deliver Democratic victory in Pennsylvania.
-The South Philly Voter Project is a neighborhood coalition, made possible with the support of our partners.
+Get Involved Contribute $25 $100 $250 Other Amount The South Philly Voter Project is a neighborhood coalition, made possible with the support of our partners.
+Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

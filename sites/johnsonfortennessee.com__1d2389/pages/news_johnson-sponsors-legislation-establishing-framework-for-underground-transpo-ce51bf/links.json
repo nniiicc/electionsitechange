@@ -1,15 +1,58 @@
 [
-"https://facebook.com/SenatorJackJohnson",
-"https://flickr.com/photos/195904713@N04",
-"https://google.com/url?q=https%3A%2F%2Ftennesseestar.com%2Fnews%2Fstate-sen-majority-leader-jack-johnson-seeks-new-state-subterranean-authority-to-oversee-music-city-loop-future-tennessee-tunnel-projects%2Ftpappert%2F2026%2F02%2F26%2F%3Futm_source%3Dchatgpt.com&ust=1790365729732000&usg=AOvVaw1NUK6DtKZnsCLOYjxUtiUk",
-"https://johnsonfortennessee.com/",
-"https://johnsonfortennessee.com/contact",
-"https://johnsonfortennessee.com/issues",
-"https://johnsonfortennessee.com/meet-jack",
-"https://johnsonfortennessee.com/news",
-"https://johnsonfortennessee.com/press-kit",
-"https://johnsonfortennessee.com/privacy-policy",
-"https://johnsonfortennessee.com/take-action",
-"https://secure.anedot.com/johnsonfortennessee/donate",
-"https://x.com/SenJohnson"
+{
+"text": "Contact",
+"href": "https://www.johnsonfortennessee.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/johnsonfortennessee/donate"
+},
+{
+"text": "HERE",
+"href": "https://google.com/url?q=https%3A%2F%2Ftennesseestar.com%2Fnews%2Fstate-sen-majority-leader-jack-johnson-seeks-new-state-subterranean-authority-to-oversee-music-city-loop-future-tennessee-tunnel-projects%2Ftpappert%2F2026%2F02%2F26%2F%3Futm_source%3Dchatgpt.com&ust=1790365729732000&usg=AOvVaw1NUK6DtKZnsCLOYjxUtiUk"
+},
+{
+"text": "Home",
+"href": "https://www.johnsonfortennessee.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.johnsonfortennessee.com/issues"
+},
+{
+"text": "Meet Jack",
+"href": "https://www.johnsonfortennessee.com/meet-jack"
+},
+{
+"text": "News",
+"href": "https://www.johnsonfortennessee.com/news"
+},
+{
+"text": "Press Kit",
+"href": "https://www.johnsonfortennessee.com/press-kit"
+},
+{
+"text": "Privacy Policy & Terms & Conditions",
+"href": "https://www.johnsonfortennessee.com/privacy-policy"
+},
+{
+"text": "Take Action",
+"href": "https://www.johnsonfortennessee.com/take-action"
+},
+{
+"text": "[image]",
+"href": "https://www.johnsonfortennessee.com/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.facebook.com/SenatorJackJohnson/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.flickr.com/photos/195904713@N04/"
+},
+{
+"text": "[image][image]",
+"href": "https://x.com/SenJohnson"
+}
 ]

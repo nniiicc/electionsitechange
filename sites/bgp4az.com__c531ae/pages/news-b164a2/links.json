@@ -1,26 +1,138 @@
 [
-"https://bgp.stoke.dev/news/bernadette-launches-campaign",
-"https://bgp4az.com/",
-"https://bgp4az.com/about",
-"https://bgp4az.com/contact",
-"https://bgp4az.com/endorsements",
-"https://bgp4az.com/join-us",
-"https://bgp4az.com/media",
-"https://bgp4az.com/news",
-"https://bgp4az.com/priorities",
-"https://bgp4az.com/resources",
-"https://bgp4az.com/schedule",
-"https://bgp4az.com/vamos/news",
-"https://bsky.app/profile/bernadetteaz08.bsky.social",
-"https://facebook.com/bernadetteforcongress",
-"https://instagram.com/bernadetteforaz",
-"https://ktar.com/arizona-politics-news/cd8-dem-debate-abe-hamadeh/5880141",
-"https://linkedin.com/in/bernadette-greene-placentia-7b21b13a",
-"https://phoenixnewtimes.com/news/surprice-ice-detention-center-ai-show-tune-40656707",
-"https://secure.actblue.com/donate/bgp_website",
-"https://statepress.com/article/2025/08/politics-wont-back-down-tour-phoenix",
-"https://stokeinteractive.com/",
-"https://tiktok.com/@bernadetteforcongress%20",
-"https://x.com/bernadetteaz08",
-"https://youtube.com/@Bernadette4District8"
+{
+"text": "About",
+"href": "https://bgp4az.com/about"
+},
+{
+"text": "About",
+"href": "https://bgp4az.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://bgp4az.com/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://bgp4az.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bgp_website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bgp_website"
+},
+{
+"text": "Endorsements",
+"href": "https://bgp4az.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://bgp4az.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bernadetteforcongress/"
+},
+{
+"text": "Globe",
+"href": "https://bsky.app/profile/bernadetteaz08.bsky.social"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bernadetteforaz/"
+},
+{
+"text": "Join Us",
+"href": "https://bgp4az.com/join-us/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/bernadette-greene-placentia-7b21b13a/"
+},
+{
+"text": "Media",
+"href": "https://bgp4az.com/media/"
+},
+{
+"text": "News",
+"href": "https://bgp4az.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://bgp4az.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://bgp4az.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://bgp.stoke.dev/news/bernadette-launches-campaign"
+},
+{
+"text": "Read More",
+"href": "https://ktar.com/arizona-politics-news/cd8-dem-debate-abe-hamadeh/5880141/"
+},
+{
+"text": "Read More",
+"href": "https://www.phoenixnewtimes.com/news/surprice-ice-detention-center-ai-show-tune-40656707/"
+},
+{
+"text": "Read More",
+"href": "https://www.statepress.com/article/2025/08/politics-wont-back-down-tour-phoenix"
+},
+{
+"text": "Resources",
+"href": "https://bgp4az.com/resources"
+},
+{
+"text": "Resources",
+"href": "https://bgp4az.com/resources/"
+},
+{
+"text": "SUBMIT A MEDIA REQUEST",
+"href": "https://bgp4az.com/contact"
+},
+{
+"text": "Schedule",
+"href": "https://bgp4az.com/schedule"
+},
+{
+"text": "Schedule",
+"href": "https://bgp4az.com/schedule/"
+},
+{
+"text": "Stoke Interactive",
+"href": "https://stokeinteractive.com"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@bernadetteforcongress%20"
+},
+{
+"text": "Volunteer",
+"href": "https://bgp4az.com/join-us"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/bernadetteaz08"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Bernadette4District8"
+},
+{
+"text": "[image: bernadette-logo-website]",
+"href": "https://bgp4az.com"
+},
+{
+"text": "[image]Spanish",
+"href": "https://bgp4az.com/vamos/news/"
+},
+{
+"text": "info@bgp4az.com",
+"href": "mailto:info@bgp4az.com"
+}
 ]

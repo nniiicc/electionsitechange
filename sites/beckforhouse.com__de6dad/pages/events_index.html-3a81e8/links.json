@@ -1,14 +1,54 @@
 [
-"https://beckforhouse.com/",
-"https://beckforhouse.com/about-william.html",
-"https://beckforhouse.com/events/index.html",
-"https://beckforhouse.com/home.html",
-"https://beckforhouse.com/issues.html",
-"https://beckforhouse.com/join-us.html",
-"https://beckforhouse.com/privacy-and-mobile.html",
-"https://buzz360.app/",
-"https://facebook.com/Beck4MN",
-"https://flickr.com/photos/204536108@N02",
-"https://secure.winred.com/beck-for-minnesota-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://x.com/Beck4MN"
+{
+"text": "Beck4MN@gmail.com",
+"href": "mailto:Beck4MN@Gmail.com"
+},
+{
+"text": "Campaign Photos",
+"href": "https://www.flickr.com/photos/204536108@N02/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/beck-for-minnesota-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Events",
+"href": "https://www.beckforhouse.com/events/index.html"
+},
+{
+"text": "Home",
+"href": "https://www.beckforhouse.com/home.html"
+},
+{
+"text": "Join Us",
+"href": "https://www.beckforhouse.com/join-us.html"
+},
+{
+"text": "Meet William",
+"href": "https://www.beckforhouse.com/about-william.html"
+},
+{
+"text": "On the Issues",
+"href": "https://www.beckforhouse.com/issues.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beckforhouse.com/privacy-and-mobile.html"
+},
+{
+"text": "[image: William Beck for HD 41B]",
+"href": "https://www.beckforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://buzz360.app/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Beck4MN"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Beck4MN"
+}
 ]

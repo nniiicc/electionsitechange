@@ -1,7 +1,4 @@
-CALIFORNIA’S 5th CONGRESSIONAL DISTRICT
-CA5 now spans roughly 24,000 square miles, which is about 15% of the entire land mass of California and larger than the state of West Virginia!
-Covering 12 counties, this breathtaking district is home to California’s most sought after National Parks, rich farmland and countless historical sites.
-Full Counties:
-Alpine, Amador, Calaveras, Inyo, Tuolumne, Mariposa, Mono
-Partial Counties:
-El Dorado, Fresno, Madera, San Joaquin, Stanislaus
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate CALIFORNIA’S 5th CONGRESSIONAL DISTRICT CA5 now spans roughly 24,000 square miles, which is about 15% of the entire land mass of California and larger than the state of West Virginia!
+Covering 12 counties , this breathtaking district is home to California’s most sought after National Parks, rich farmland and countless historical sites.
+Full Counties: Alpine, Amador, Calaveras, Inyo, Tuolumne, Mariposa, Mono Partial Counties: El Dorado, Fresno, Madera, San Joaquin, Stanislaus Click the button below to ‘ Search My Address ’ to see which Congressional District you belong to!
+Search My Address Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

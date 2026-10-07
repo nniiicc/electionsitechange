@@ -1,7 +1,9 @@
 {
  "description": "Anonymous 2026 Rhode Island Attorney General voter survey.",
  "final_url": "https://alangordonri.com/survey.html",
- "paid_for_by": null,
+ "fingerprint": "3cd32c7eaf00052e409882097699198a31d4bc34",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2026 Rhode Island Attorney General Voter Survey",
  "years_mentioned": [
   "2026"

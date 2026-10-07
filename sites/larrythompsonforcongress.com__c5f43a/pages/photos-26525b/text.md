@@ -1,23 +1,11 @@
-PHOTOS
-"THE SANITY MAN"
-Campaigning on Ventura Blvd at the Sherman Oaks Street Fair.
+Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos PHOTOS "THE SANITY MAN" Campaigning on Ventura Blvd at the Sherman Oaks Street Fair.
 The Psychic told me that I would win the election.
 Larry Thompson, a/k/a "The Sanity Man," teamed up with Santa Claus and is bringing to you and the world Sanity, Prosperity, Peace, and Brotherly Love.
-If there is anything else you want for Christmas, please send us an email at Larry@LarryThompsonForCongress.com
-Ho, Ho, Ho, and Vote, Vote, Vote.
-Charlie Kirk Vigil in Beverly Hills, September 14, 2025
-It was an honor to speak at Charlie Kirk's Vigil
-and to thank God for sending him to us.
-Campaign is going strong! - April 2024
-CAGOP congratulates Larry Thompson on advancing in CA32
-Thompson Family in Washington (2016).
-(L-R, Larry, daughter, Taylor, wife, Kelly, and son, Trevor)
-Starting "The Next Revolution" with TV host, Steve Hilton, at LAGOP's special event with
-Tulsi Gabbard at the Trophy Room LA in Hollywood, CA.
+If there is anything else you want for Christmas, please send us an email at Larry@LarryThompsonForCongress.com Ho, Ho, Ho, and Vote, Vote, Vote.
+Charlie Kirk Vigil in Beverly Hills, September 14, 2025 It was an honor to speak at Charlie Kirk's Vigil and to thank God for sending him to us.
+Campaign is going strong! - April 2024 CAGOP congratulates Larry Thompson on advancing in CA32 Thompson Family in Washington (2016).
+(L-R, Larry, daughter, Taylor, wife, Kelly, and son, Trevor) Starting "The Next Revolution" with TV host, Steve Hilton, at LAGOP's special event with Tulsi Gabbard at the Trophy Room LA in Hollywood, CA.
 Tulsi Gabbard, U.S.
-Director of National Intelligence
-Mike Johnson, House Speaker
-Kelsey Grammer
-Rick Caruso
-Billy Bush announces on EXTRA that Larry Thompson is running for United States Congress.
-Thompson Family New Year's Eve 2023 - Beverly Hills Hotel
+Director of National Intelligence Mike Johnson, House Speaker Kelsey Grammer Rick Caruso Billy Bush announces on EXTRA that Larry Thompson is running for United States Congress.
+Thompson Family New Year's Eve 2023 - Beverly Hills Hotel VOTE NOW - VOTING ENDS IN November 3, 2026 at 8:00 PM CONTRIBUTE VOLUNTEER GIVE ENDORSEMENT REQUEST YARD SIGN VOTER INFO VOTING IN THE AGE OF CHAOS AI BILL OF RIGHTS WIKIPEDIA Get Updates Thank you for signing up!
+News Los Angeles Daily News - Larry Thompson, CA-32 candidate, 2026 election questionnaire Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots New York Times - Representative Brad Sherman to Face Larry Thompson in November Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com - Political Campaign Websites Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu

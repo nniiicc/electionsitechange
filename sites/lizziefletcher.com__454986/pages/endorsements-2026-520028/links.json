@@ -1,94 +1,390 @@
 [
-"http://80-20initiative.net/",
-"http://ncec.org/",
-"http://newdemactionfund.com/",
-"https://act.lcvactionfund.org/a/lcv-action-fund",
-"https://aipac.org/",
-"https://amyklobuchar.com/winbig",
-"https://animalwellnessaction.org/",
-"https://area5democrats.com/",
-"https://blackeconomicalliance.org/",
-"https://boldpac.com/",
-"https://bradypac.org/",
-"https://bsky.app/profile/lizziepfletcher.bsky.social",
-"https://cbcpac.org/",
-"https://committeetoprotect.org/",
-"https://cwa6222.com/",
-"https://dmfipac.org/",
-"https://emgagepac.org/",
-"https://emilyslist.org/",
-"https://equalitytexas.org/tag/texas-equity-pac",
-"https://facebook.com/Harrisyds",
-"https://facebook.com/Houston.8020.Asian.American.PAC",
-"https://facebook.com/LizzieForCongress",
-"https://facebook.com/hbad123",
-"https://facebook.com/hctejanos",
-"https://facebook.com/profile.php?id=100080299300037",
-"https://feministmajority.org/",
-"https://feministmajoritypac.org/",
-"https://fletcher.house.gov/",
-"https://foundation.blackeconomicalliance.org/",
-"https://futureforumpac.com/",
-"https://gcaflcio.org/",
-"https://giffords.org/",
-"https://giffords.org/endorsements",
-"https://greaterheightsdemocrats.com/",
-"https://gunsensevoter.org/endorsed-2020",
-"https://harrisyds.org/",
-"https://houstonblackdems.org/",
-"https://houstonchronicle.com/",
-"https://houstonchronicle.com/opinion/endorsements/article/Editorial-We-recommend-Lizzie-Fletcher-for-the-17485478.php",
-"https://hrc.org/",
-"https://hslf.org/",
-"https://instagram.com/LizziePFletcher",
-"https://jacpac.org/",
-"https://jewishdems.org/",
-"https://lcv.org/",
-"https://lgbtequalitypac.org/",
-"https://lizziefletcher.com/",
-"https://lizziefletcher.com/2026election",
-"https://lizziefletcher.com/cdn-cgi/l/email-protection",
-"https://lizziefletcher.com/endorsements-2026",
-"https://lizziefletcher.com/meet-lizzie-fletcher",
-"https://lizziefletcher.com/news",
-"https://lizziefletcher.com/press-releases",
-"https://lizziefletcher.com/press-toolkit",
-"https://lizziefletcher.com/the-district",
-"https://lllcstx.com/",
-"https://mobilize.us/fletcherforcongress",
-"https://momsdemandaction.org/",
-"https://mothersfordemocracy.org/",
-"https://nahb.org/advocacy/get-involved/build-pac",
-"https://newdemactionfund.com/",
-"https://nowpac.org/",
-"https://nwpc.org/",
-"https://offthesidelines.org/about",
-"https://pac.thecaucus.org/",
-"https://plannedparenthoodaction.org/",
-"https://prochoiceamerica.org/",
-"https://reproductivefreedomforall.org/",
-"https://retiredamericans.org/",
-"https://runsisterrunpac.com/",
-"https://secure.actblue.com/donate/folf-website-homepage",
-"https://secure.actblue.com/donate/lfcyardsign26",
-"https://sierraclub.org/",
-"https://socialsecurityworks.org/",
-"https://statetejanodemocrats.org/",
-"https://store.lizziefletcher.com/",
-"https://tcbdhc.com/",
-"https://teambluepac.com/",
-"https://texasaflcio.org/",
-"https://texasblackdemocrats.com/",
-"https://texasblackdemocrats.org/",
-"https://texasdemocrats.org/texas-democrats-with-disabilities",
-"https://texasfarmbureau.org/",
-"https://texasfarmbureau.org/advocacy/agfund",
-"https://thecaucus.org/",
-"https://tristatemaxedoutwomenspac.org/",
-"https://tristatemaxedoutwomenspac.org/candidates.html",
-"https://tsta.org/",
-"https://turnoutpac.org/",
-"https://twitter.com/LizziePFletcher",
-"https://uschamber.com/",
-"https://wedefendthevote.org/"
+{
+"text": "2026 Election",
+"href": "https://www.lizziefletcher.com/2026election/"
+},
+{
+"text": "About",
+"href": "https://www.lizziefletcher.com/meet-lizzie-fletcher/"
+},
+{
+"text": "About Lizzie",
+"href": "https://www.lizziefletcher.com/meet-lizzie-fletcher/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/folf-website-homepage"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lizziefletcher.com/endorsements-2026/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/LizzieForCongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/LizziePFletcher/"
+},
+{
+"text": "Lizzie in the News",
+"href": "https://www.lizziefletcher.com/news/"
+},
+{
+"text": "News",
+"href": "https://www.lizziefletcher.com/news/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.lizziefletcher.com/press-releases/"
+},
+{
+"text": "Press Toolkit",
+"href": "https://www.lizziefletcher.com/press-toolkit/"
+},
+{
+"text": "Team Lizzie Store",
+"href": "https://store.lizziefletcher.com/"
+},
+{
+"text": "The District",
+"href": "https://www.lizziefletcher.com/the-district/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/fletcherforcongress/"
+},
+{
+"text": "Yard Signs",
+"href": "https://secure.actblue.com/donate/lfcyardsign26"
+},
+{
+"text": "[email protected]",
+"href": "https://www.lizziefletcher.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: H80-20 PAC]",
+"href": "https://www.facebook.com/Houston.8020.Asian.American.PAC/"
+},
+{
+"text": "[image]",
+"href": "http://newdemactionfund.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.80-20initiative.net/"
+},
+{
+"text": "[image]",
+"href": "http://www.ncec.org/"
+},
+{
+"text": "[image]",
+"href": "https://act.lcvactionfund.org/a/lcv-action-fund/"
+},
+{
+"text": "[image]",
+"href": "https://amyklobuchar.com/winbig/"
+},
+{
+"text": "[image]",
+"href": "https://animalwellnessaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://blackeconomicalliance.org/"
+},
+{
+"text": "[image]",
+"href": "https://bradypac.org/"
+},
+{
+"text": "[image]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image]",
+"href": "https://cwa6222.com/"
+},
+{
+"text": "[image]",
+"href": "https://dmfipac.org/"
+},
+{
+"text": "[image]",
+"href": "https://emgagepac.org/"
+},
+{
+"text": "[image]",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "[image]",
+"href": "https://feministmajority.org/"
+},
+{
+"text": "[image]",
+"href": "https://feministmajoritypac.org/"
+},
+{
+"text": "[image]",
+"href": "https://foundation.blackeconomicalliance.org/"
+},
+{
+"text": "[image]",
+"href": "https://futureforumpac.com/"
+},
+{
+"text": "[image]",
+"href": "https://giffords.org/"
+},
+{
+"text": "[image]",
+"href": "https://giffords.org/endorsements/"
+},
+{
+"text": "[image]",
+"href": "https://greaterheightsdemocrats.com/"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org/endorsed-2020/"
+},
+{
+"text": "[image]",
+"href": "https://houstonblackdems.org/"
+},
+{
+"text": "[image]",
+"href": "https://hslf.org/"
+},
+{
+"text": "[image]",
+"href": "https://jewishdems.org/"
+},
+{
+"text": "[image]",
+"href": "https://lgbtequalitypac.org/"
+},
+{
+"text": "[image]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://mothersfordemocracy.org/"
+},
+{
+"text": "[image]",
+"href": "https://newdemactionfund.com/"
+},
+{
+"text": "[image]",
+"href": "https://nwpc.org/"
+},
+{
+"text": "[image]",
+"href": "https://offthesidelines.org/about/"
+},
+{
+"text": "[image]",
+"href": "https://pac.thecaucus.org/"
+},
+{
+"text": "[image]",
+"href": "https://reproductivefreedomforall.org/"
+},
+{
+"text": "[image]",
+"href": "https://retiredamericans.org/"
+},
+{
+"text": "[image]",
+"href": "https://socialsecurityworks.org/"
+},
+{
+"text": "[image]",
+"href": "https://texasaflcio.org/"
+},
+{
+"text": "[image]",
+"href": "https://texasfarmbureau.org/"
+},
+{
+"text": "[image]",
+"href": "https://texasfarmbureau.org/advocacy/agfund/"
+},
+{
+"text": "[image]",
+"href": "https://turnoutpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://uschamber.com/"
+},
+{
+"text": "[image]",
+"href": "https://wedefendthevote.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.aipac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.area5democrats.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.boldpac.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.cbcpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.emilyslist.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.equalitytexas.org/tag/texas-equity-pac/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Harrisyds/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/hbad123/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/hctejanos/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=100080299300037"
+},
+{
+"text": "[image]",
+"href": "https://www.gcaflcio.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.harrisyds.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.houstonchronicle.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.houstonchronicle.com/opinion/endorsements/article/Editorial-We-recommend-Lizzie-Fletcher-for-the-17485478.php#photo-23006446"
+},
+{
+"text": "[image]",
+"href": "https://www.hrc.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.jacpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.lcv.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.lizziefletcher.com"
+},
+{
+"text": "[image]",
+"href": "https://www.lllcstx.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.nahb.org/advocacy/get-involved/build-pac"
+},
+{
+"text": "[image]",
+"href": "https://www.nowpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nwpc.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.prochoiceamerica.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.runsisterrunpac.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.statetejanodemocrats.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.tcbdhc.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.teambluepac.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.texasblackdemocrats.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.texasblackdemocrats.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.texasdemocrats.org/texas-democrats-with-disabilities"
+},
+{
+"text": "[image]",
+"href": "https://www.thecaucus.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.tristatemaxedoutwomenspac.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.tristatemaxedoutwomenspac.org/candidates.html"
+},
+{
+"text": "[image]",
+"href": "https://www.tsta.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.turnoutpac.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/lizziepfletcher.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LizziePFletcher"
+},
+{
+"text": "here",
+"href": "https://fletcher.house.gov/"
+}
 ]

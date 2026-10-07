@@ -1,21 +1,162 @@
 [
-"https://charliemeier.org/",
-"https://charliemeier.org/about-charlie",
-"https://charliemeier.org/cart",
-"https://charliemeier.org/contact-us",
-"https://charliemeier.org/district-map",
-"https://charliemeier.org/news-1",
-"https://charliemeier.org/news-1/28-southern-illinois-mayors-endorse-charlie-meier",
-"https://charliemeier.org/news-1/charlie-meier-announces-re-election-bid-2026",
-"https://charliemeier.org/news-1/charlie-meier-earns-endorsement-from-farm-bureau",
-"https://charliemeier.org/news-1/conservative-state-rep-charlie-meier-files-for-re-election",
-"https://charliemeier.org/news-1/meier-cpac-award",
-"https://charliemeier.org/news-1/meier-rnc-trump-alternate-delegate",
-"https://charliemeier.org/news-1/meier-southern-illinois-will-not-become-the-abortion-capital-of-the-midwest",
-"https://charliemeier.org/news-1/mike-bost-backs-charlie-meier",
-"https://charliemeier.org/news-1/nra-endorses-charlie-meier-for-state-rep",
-"https://charliemeier.org/news-1/state-representative-charlie-meier-endorsed-by-madison-county-leaders",
-"https://charliemeier.org/volunteer",
-"https://facebook.com/profile.php?id=100057878088324",
-"https://secure.winred.com/citizens-for-charlie-meier/donate-today?exitintent=true"
+{
+"text": "0",
+"href": "https://www.charliemeier.org/cart"
+},
+{
+"text": "28 Southern Illinois Mayors Endorse Charlie Meier",
+"href": "https://www.charliemeier.org/news-1/28-southern-illinois-mayors-endorse-charlie-meier"
+},
+{
+"text": "About Charlie",
+"href": "https://www.charliemeier.org/about-charlie"
+},
+{
+"text": "Charlie Meier Earns Endorsement from Farm Bureau",
+"href": "https://www.charliemeier.org/news-1/charlie-meier-earns-endorsement-from-farm-bureau"
+},
+{
+"text": "Conservative State Rep. Charlie Meier Files for Re-Election",
+"href": "https://www.charliemeier.org/news-1/conservative-state-rep-charlie-meier-files-for-re-election"
+},
+{
+"text": "Contact Us",
+"href": "https://www.charliemeier.org/contact-us"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.winred.com/citizens-for-charlie-meier/donate-today?exitintent=true"
+},
+{
+"text": "District Map",
+"href": "https://www.charliemeier.org/district-map"
+},
+{
+"text": "Home",
+"href": "https://www.charliemeier.org/"
+},
+{
+"text": "Meier Receives Conservative Achievement Award from CPAC",
+"href": "https://www.charliemeier.org/news-1/meier-cpac-award"
+},
+{
+"text": "Meier: Southern Illinois Will Not Become The Abortion Capital Of The Midwest",
+"href": "https://www.charliemeier.org/news-1/meier-southern-illinois-will-not-become-the-abortion-capital-of-the-midwest"
+},
+{
+"text": "Mike Bost Backs Charlie Meier",
+"href": "https://www.charliemeier.org/news-1/mike-bost-backs-charlie-meier"
+},
+{
+"text": "NRA Endorses Charlie Meier for State Rep",
+"href": "https://www.charliemeier.org/news-1/nra-endorses-charlie-meier-for-state-rep"
+},
+{
+"text": "News",
+"href": "https://www.charliemeier.org/news-1"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/28-southern-illinois-mayors-endorse-charlie-meier"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/charlie-meier-announces-re-election-bid-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/charlie-meier-earns-endorsement-from-farm-bureau"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/conservative-state-rep-charlie-meier-files-for-re-election"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/meier-cpac-award"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/meier-rnc-trump-alternate-delegate"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/meier-southern-illinois-will-not-become-the-abortion-capital-of-the-midwest"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/mike-bost-backs-charlie-meier"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/nra-endorses-charlie-meier-for-state-rep"
+},
+{
+"text": "Read More",
+"href": "https://www.charliemeier.org/news-1/state-representative-charlie-meier-endorsed-by-madison-county-leaders"
+},
+{
+"text": "Rep. Charlie Meier Proud to Serve as Trump Alternate Delegate at RNC",
+"href": "https://www.charliemeier.org/news-1/meier-rnc-trump-alternate-delegate"
+},
+{
+"text": "State Representative Charlie Meier Announces Re-Election Bid",
+"href": "https://www.charliemeier.org/news-1/charlie-meier-announces-re-election-bid-2026"
+},
+{
+"text": "State Representative Charlie Meier Endorsed by Madison County Leaders",
+"href": "https://www.charliemeier.org/news-1/state-representative-charlie-meier-endorsed-by-madison-county-leaders"
+},
+{
+"text": "Volunteer",
+"href": "https://www.charliemeier.org/volunteer"
+},
+{
+"text": "[image: 28 Southern Illinois Mayors Endorse Charlie Meier]",
+"href": "https://www.charliemeier.org/news-1/28-southern-illinois-mayors-endorse-charlie-meier"
+},
+{
+"text": "[image: Charlie Meier Earns Endorsement from Farm Bureau]",
+"href": "https://www.charliemeier.org/news-1/charlie-meier-earns-endorsement-from-farm-bureau"
+},
+{
+"text": "[image: Charlie Meier for State Representative]",
+"href": "https://www.charliemeier.org/"
+},
+{
+"text": "[image: Conservative State Rep. Charlie Meier Files for Re-Election]",
+"href": "https://www.charliemeier.org/news-1/conservative-state-rep-charlie-meier-files-for-re-election"
+},
+{
+"text": "[image: Meier Receives Conservative Achievement Award from CPAC&nbsp;]",
+"href": "https://www.charliemeier.org/news-1/meier-cpac-award"
+},
+{
+"text": "[image: Meier: Southern Illinois Will Not Become The Abortion Capital Of The Midwest]",
+"href": "https://www.charliemeier.org/news-1/meier-southern-illinois-will-not-become-the-abortion-capital-of-the-midwest"
+},
+{
+"text": "[image: Mike Bost Backs Charlie Meier]",
+"href": "https://www.charliemeier.org/news-1/mike-bost-backs-charlie-meier"
+},
+{
+"text": "[image: NRA Endorses Charlie Meier for State Rep]",
+"href": "https://www.charliemeier.org/news-1/nra-endorses-charlie-meier-for-state-rep"
+},
+{
+"text": "[image: Rep. Charlie Meier Proud to Serve as Trump Alternate Delegate at RNC]",
+"href": "https://www.charliemeier.org/news-1/meier-rnc-trump-alternate-delegate"
+},
+{
+"text": "[image: State Representative Charlie Meier Announces Re-Election Bid]",
+"href": "https://www.charliemeier.org/news-1/charlie-meier-announces-re-election-bid-2026"
+},
+{
+"text": "[image: State Representative Charlie Meier Endorsed by Madison County Leaders]",
+"href": "https://www.charliemeier.org/news-1/state-representative-charlie-meier-endorsed-by-madison-county-leaders"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100057878088324"
+}
 ]

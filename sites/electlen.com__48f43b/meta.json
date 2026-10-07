@@ -1,9 +1,9 @@
 {
  "description": "Campaign website for Leonard Hennessy, 2026 Candidate for Georgia State Assembly House District 125.",
  "final_url": "https://electlen.com/",
+ "fingerprint": "b8544846f26625489d959bb35989bda58bb460bf",
+ "format": 3,
  "paid_for_by": "Paid for by Hennessy for Georgia",
  "title": "Hennessy For GA-125",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

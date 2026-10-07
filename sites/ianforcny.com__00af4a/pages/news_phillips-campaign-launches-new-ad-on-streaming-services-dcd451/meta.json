@@ -1,7 +1,9 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/phillips-campaign-launches-new-ad-on-streaming-services",
- "paid_for_by": "Paid for by Ian for CNY",
+ "fingerprint": "2da2589d2d64e58b17933ea109098d359c508f40",
+ "format": 3,
+ "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
  "title": "Phillips Campaign Launches New Ad on Streaming Services",
  "years_mentioned": [
   "2026"

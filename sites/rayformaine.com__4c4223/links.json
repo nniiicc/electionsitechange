@@ -1,8 +1,38 @@
 [
-"https://facebook.com/rayformaine",
-"https://maine.gov/cleanelections",
-"https://rayformaine.com/",
-"https://rayformaine.com/about",
-"https://rayformaine.com/cart",
-"https://rayformaine.com/issues"
+{
+"text": "0",
+"href": "https://www.rayformaine.com/cart"
+},
+{
+"text": "About Mike",
+"href": "https://www.rayformaine.com/about"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rayformaine.com/#contact"
+},
+{
+"text": "Mike Ray for Maine House",
+"href": "https://www.rayformaine.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.rayformaine.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rayformaine"
+},
+{
+"text": "mike@rayformaine.com",
+"href": "mailto:mike@rayformaine.com"
+}
 ]

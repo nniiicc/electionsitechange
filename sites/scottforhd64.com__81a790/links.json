@@ -1,13 +1,66 @@
 [
-"https://apps.weld.gov/clerkrecorder/elections/maps",
-"https://facebook.com/profile.php?id=61587269878803",
-"https://larimer.gov/clerk/elections/where-to-vote",
-"https://scottforhd64.com/",
-"https://scottforhd64.com/about-hd64",
-"https://scottforhd64.com/about-scott",
-"https://scottforhd64.com/voter-resources",
-"https://scottforhd64.com/where-scott-stands",
-"https://scottforhd64.com/yard-sign",
-"https://secure.anedot.com/scott-for-hd64/donate",
-"https://x.com/scottslaugh"
+{
+"text": "About HD64",
+"href": "https://scottforhd64.com/about-hd64/"
+},
+{
+"text": "About Scott",
+"href": "https://scottforhd64.com/about-scott/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/scott-for-hd64/donate"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://scottforhd64.com/yard-sign/"
+},
+{
+"text": "Home",
+"href": "https://scottforhd64.com/"
+},
+{
+"text": "LARIMER VOTER LOCATIONS",
+"href": "https://www.larimer.gov/clerk/elections/where-to-vote"
+},
+{
+"text": "MEET SCOTT",
+"href": "https://scottforhd64.com/about-scott"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottforhd64.com/about-scott/"
+},
+{
+"text": "On The Issues",
+"href": "https://scottforhd64.com/where-scott-stands/"
+},
+{
+"text": "SCOTT'S LEGISLATIVE ACCOMPLISHMENTS",
+"href": "https://scottforhd64.com/where-scott-stands/"
+},
+{
+"text": "VOTER FAQ & RESOURCES",
+"href": "https://scottforhd64.com/voter-resources/"
+},
+{
+"text": "Voter Resources",
+"href": "https://scottforhd64.com/voter-resources/"
+},
+{
+"text": "WELD VOTER LOCATIONS",
+"href": "https://apps.weld.gov/clerkrecorder/elections/maps/"
+},
+{
+"text": "[image: Scott Slaugh for Colorado State House District 64]",
+"href": "https://scottforhd64.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587269878803"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/scottslaugh"
+}
 ]

@@ -1,20 +1,86 @@
 [
-"https://actionnetwork.org/forms/get-campaign-updates-from-ryan-michael-kelly",
-"https://actionnetwork.org/forms/request-a-yard-sign-31",
-"https://actionnetwork.org/forms/volunteer-with-ryan-michael-kelly",
-"https://donorbox.org/ryan-michael-kelly-for-congress",
-"https://facebook.com/profile.php?id=61591925647456",
-"https://instagram.com/KellyForNJ03",
-"https://kellyfornj03.com/en",
-"https://kellyfornj03.com/en/about",
-"https://kellyfornj03.com/en/accessibility",
-"https://kellyfornj03.com/en/endorsements",
-"https://kellyfornj03.com/en/issues",
-"https://kellyfornj03.com/en/media",
-"https://kellyfornj03.com/en/press",
-"https://kellyfornj03.com/en/privacy",
-"https://kellyfornj03.com/en/transparency",
-"https://kellyfornj03.com/en/updates",
-"https://x.com/KellyForNJ03",
-"https://youtube.com/@KellyForNJ03com"
+{
+"text": "About Ryan",
+"href": "https://www.kellyfornj03.com/en/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.kellyfornj03.com/en/accessibility"
+},
+{
+"text": "Campaign Updates",
+"href": "https://www.kellyfornj03.com/en/updates"
+},
+{
+"text": "Campaign Website",
+"href": "https://www.kellyfornj03.com/en"
+},
+{
+"text": "Contact",
+"href": "mailto:info@KellyForNJ03.com"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/ryan-michael-kelly-for-congress"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellyfornj03.com/en/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591925647456"
+},
+{
+"text": "Get Campaign Updates",
+"href": "https://actionnetwork.org/forms/get-campaign-updates-from-ryan-michael-kelly"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/KellyForNJ03"
+},
+{
+"text": "Media",
+"href": "https://www.kellyfornj03.com/en/media"
+},
+{
+"text": "Media / Press",
+"href": "https://www.kellyfornj03.com/en/press"
+},
+{
+"text": "Privacy",
+"href": "https://www.kellyfornj03.com/en/privacy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://actionnetwork.org/forms/request-a-yard-sign-31"
+},
+{
+"text": "Ryan Michael Kelly",
+"href": "https://www.kellyfornj03.com/en"
+},
+{
+"text": "Transparency",
+"href": "https://www.kellyfornj03.com/en/transparency"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/volunteer-with-ryan-michael-kelly"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.kellyfornj03.com/en/issues"
+},
+{
+"text": "X",
+"href": "https://x.com/KellyForNJ03"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@KellyForNJ03com"
+},
+{
+"text": "info@KellyForNJ03.com",
+"href": "mailto:info@KellyForNJ03.com"
+}
 ]

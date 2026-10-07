@@ -1,13 +1,50 @@
 [
-"http://facebook.com/lisafororegon",
-"http://instagram.com/lisafororegon",
-"https://docs.google.com/forms/d/e/1FAIpQLSeNML6woCtCFNvjNfCZ068CDoh8zR8NQ3DDrNx03ObYp5K-Gg/viewform",
-"https://lisafororegon.com/",
-"https://lisafororegon.com/about",
-"https://lisafororegon.com/cart",
-"https://lisafororegon.com/endorsements",
-"https://lisafororegon.com/getinvolved",
-"https://lisafororegon.com/priorities",
-"https://secure.actblue.com/donate/lisafororegon34",
-"https://youtube.com/channel/UCJO4CLEIz67bNi8O4QhDNfg"
+{
+"text": "0",
+"href": "https://www.lisafororegon.com/cart"
+},
+{
+"text": "About Lisa",
+"href": "https://www.lisafororegon.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lisafororegon34"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisafororegon.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisafororegon.com/getinvolved"
+},
+{
+"text": "Priorities",
+"href": "https://www.lisafororegon.com/priorities"
+},
+{
+"text": "Sign Up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeNML6woCtCFNvjNfCZ068CDoh8zR8NQ3DDrNx03ObYp5K-Gg/viewform"
+},
+{
+"text": "[image: Dr. Lisa Reynolds for Oregon House District 34]",
+"href": "https://www.lisafororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lisafororegon"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lisafororegon"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCJO4CLEIz67bNi8O4QhDNfg"
+},
+{
+"text": "lisa@lisafororegon.com",
+"href": "mailto:lisa@lisafororegon.com"
+}
 ]

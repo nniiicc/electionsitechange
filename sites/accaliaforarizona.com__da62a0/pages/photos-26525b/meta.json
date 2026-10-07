@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.accaliaforarizona.com/photos",
- "paid_for_by": null,
+ "fingerprint": "831eddb2f7c475e6b268e4d7f284d55a8a4820b0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

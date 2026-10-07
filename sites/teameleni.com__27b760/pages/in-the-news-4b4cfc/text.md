@@ -1,44 +1,21 @@
-Eleni In the News
-CT lawmakers outline goals to address rise in homelessness,February 6, 2026
-New CT housing bill passes House during special session, November 12, 2025
-CT Foodshare Getting Millions More From State To Help Fight Hunger, September 2, 2025
-CT launches Purple Alert system for missing adults with intellectual and developmental disabilities, May 7, 2025
-What are Purple Alerts and how do they work?, May 6, 2025
-Democrats Raise Alarm on Student Loans, Tout Reimbursement Program, April 28, 2025
-New Connecticut Law Aims to Support Victims of Sexual Assault—and Prevent Them From Being Treated Like Suspects, June 18, 2024
-Change to CT car tax assessments could trigger special session, May 23, 2024
-Food insecurity increases 23% in Connecticut, new study shows: 'That's a crisis'
-From Literature to Legislation
-Empowering Connecticut: State Rep.
-Eleni Kavros DeGraw’s Vision for Progress, April 29, 2024
-Lamont aims to make it easier for towns to share services, April 23, 2024
-House passes bill making it easier for condo owners to install solar, April 18, 2024
-House Passes Bill Requiring Fences Around Inground Pools After Much Debate, April 18, 2024
-Face the Facts: Looking at ways to solve the state's homelessness crisis, March 31, 2024
-CT WFP endorses eighty candidates for the state legislature, September 12, 2022
-Avon/Canton Lawmaker Gets Good Environmental Score.
+0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Eleni In the News CT lawmakers outline goals to address rise in homelessness , February 6, 2026 New CT housing bill passes House during special session , November 12, 2025 CT Foodshare Getting Millions More From State To Help Fight Hunger , September 2, 2025 CT launches Purple Alert system for missing adults with intellectual and developmental disabilities , May 7, 2025 What are Purple Alerts and how do they work? , May 6, 2025 Democrats Raise Alarm on Student Loans, Tout Reimbursement Program , April 28, 2025 New Connecticut Law Aims to Support Victims of Sexual Assault—and Prevent Them From Being Treated Like Suspects , June 18, 2024 Change to CT car tax assessments could trigger special session , May 23, 2024 Food insecurity increases 23% in Connecticut, new study shows: 'That's a crisis' From Literature to Legislation Empowering Connecticut: State Rep.
+Eleni Kavros DeGraw’s Vision for Progress , April 29, 2024 Lamont aims to make it easier for towns to share services , April 23, 2024 House passes bill making it easier for condo owners to install solar , April 18, 2024 House Passes Bill Requiring Fences Around Inground Pools After Much Debate , April 18, 2024 Face the Facts: Looking at ways to solve the state's homelessness crisis , March 31, 2024 CT WFP endorses eighty candidates for the state legislature , September 12, 2022 Canton Voters To Decide Emergency Radio Funds One week after officials discussed a $550K grant from the state to upgrade emergency communications, town meeting voters have final say , September 12, 2022 Avon/Canton Lawmaker Gets Good Environmental Score.
 State Rep.
-Eleni Kavros DeGraw, D – Avon, was commended by the Connecticut League of Conservation Voters, August 12, 2022
-“Climate scientists continue to remind us that we are running out of time to prevent the most drastic consequences to our planet.
+Eleni Kavros DeGraw, D – Avon, wa s commended by the Connecticut League of Conservation Voters , August 12, 2022 “Climate scientists continue to remind us that we are running out of time to prevent the most drastic consequences to our planet.
 We have to look no further than the three recent heat waves to know we are at a tipping point.
 This session, I was proud to take a strong stance on climate change and pass legislation that works to improve the air we breathe, the water we drink, and transition to a zero-carbon energy grid," said Kavros DeGraw.
-At Simsbury vigil residents share grief, rage over Texas school shooting, inaction on gun violence
-“We are the only country in the world that has a color for gun violence awareness,” [Rep.
+At Simsbury vigil residents share grief, rage over Texas school shooting, inaction on gun violence “We are the only country in the world that has a color for gun violence awareness,” [Rep.
 Kavros DeGraw] said, noting that the U.S. is not unique in terms of its mental health issues.
 “We have a problem in this country and it is a gun problem.
-It is not the problem you see in other countries, because they don’t have the guns. … Until we say it loud, we say it often and we are unafraid of one singular lobby that is holding us hostage, holding our children hostage and holding our teachers hostage. … We should all be angry.”
-Kavros DeGraw said Connecticut residents saw 20 children and six educators gunned down at Sandy Hook in 2012.
+It is not the problem you see in other countries, because they don’t have the guns. … Until we say it loud, we say it often and we are unafraid of one singular lobby that is holding us hostage, holding our children hostage and holding our teachers hostage. … We should all be angry.” Kavros DeGraw said Connecticut residents saw 20 children and six educators gunned down at Sandy Hook in 2012.
 “And nothing changed,” she said.
 “The silence is deafening. … We have a mental health crisis in this country, it is not related to this.
-This is a gun problem. … We can no longer have a silence problem.”
-Murphy to Bring State Rep.
-Kavros DeGraw to Greek Prime Minister's Address to Congress, May 16, 2022
-“I am excited to be included because of my Greek heritage for Prime Minister Mitsotakis’ historic visit.
-I hope that as he reaffirms the excellent long-standing relationship the United States and Greece have enjoyed, he will also update us on the vision he has for Greece in the 21st century,” said Kavros DeGraw.
-Dems Endorse Kavros DeGraw For Re-Election To CT House, May 13, 2022"I think that what was really solidified for me was making sure that I ran as me and only me, and that when I brought all of you with me and all of your voices with me to [Hartford] that it was critically important that I stay a workhorse and only a workhorse," Kavros DeGraw said in her acceptance speech.
+This is a gun problem. … We can no longer have a silence problem.” Murphy to Bring State Rep.
+Kavros DeGraw to Greek Prime Minister's Address to Congress , May 16, 2022 “I am excited to be included because of my Greek heritage for Prime Minister Mitsotakis’ historic visit.
+I hope that as he reaffirms the excellent long-standing relationship the United States and Greece have enjoyed, he will also update us on the vision he has for Greece in the 21st century, ” said Kavros DeGraw.
+Dems Endorse Kavros DeGraw For Re-Election To CT House , May 13, 2022"I think that what was really solidified for me was making sure that I ran as me and only me, and that when I brought all of you with me and all of your voices with me to [Hartford] that it was critically important that I stay a workhorse and only a workhorse," Kavros DeGraw said in her acceptance speech.
 Early detection saved her life.
-A new CT measure mandates expanded insurance coverage of breast cancer diagnosis, treatment, Hartford Courant, May 6, 2022
-Connecticut lawmakers advance bill requiring well testing on home sales, The Telegraph, March 23, 2022
-“When they’re saying you don’t have to fix anything in your home to be able to sell it, there are a lot of unintended consequences of these sales that happen so fast,” said state Rep.
+A new CT measure mandates expanded insurance coverage of breast cancer diagnosis, treatment , Hartford Courant, May 6, 2022 Connecticut lawmakers advance bill requiring well testing on home sales , The Telegraph , March 23, 2022 “When they’re saying you don’t have to fix anything in your home to be able to sell it, there are a lot of unintended consequences of these sales that happen so fast,” said state Rep.
 Eleni Kavros DeGraw, D- Avon.
-State bond commission approves funds for Sycamore Hills playground, The Valley Press, January 7, 2022
+State bond commission approves funds for Sycamore Hills playground , The Valley Press , January 7, 2022 Paid for by Team Eleni, Claudine Fasano, Treasurer.
+Approved by Eleni Kavros DeGraw. info@teameleni.com

@@ -1,72 +1,29 @@
-News & Press
-For Immediate Release
-February 18, 2026
-Mike Odioso Officially Qualifies for the 2026 Ballot
-GREEN TWP, OH— State Representative Mike Odioso has officially qualified for the ballot in the 2026 election, marking an important milestone as he looks ahead to continuing his work in the Ohio Legislature.
-For Immediate Release
-November 6, 2024
-Mike Odioso Thanks Supporters Following Election to the Ohio Legislature
-GREEN TWP, OH – Mike Odioso issued the following statement following his election to the Ohio House of Representatives on Tuesday.
-For Immediate Release
-March 5, 2024
-Sheriff Richard Jones Endorsed Mike Odioso for State Represenative
-GREEN TWP, OH – On Tuesday morning, Mike Odioso announced that he has been endorsed by Butler County Sheriff Richard Jones in his campaign for the Ohio House of Representatives from Ohio's 30th District.
-For Immediate Release
-December 1, 2023
-Mike Odioso Officially Files to Run for Ohio Statehouse
-GREEN TWP, OH — On Friday, longtime conservative activist and community leader Mike Odioso officially filed his petitions to run for the Ohio House of Representatives from the 30th District.
+top of page MEET MIKE DELIVERING RESULTS NEWS GET INVOLVED CONTACT Menu Close DONATE DONATE News & Press For Immediate Release February 18, 2026 Mike Odioso Officially Qualifies for the 2026 Ballot GREEN TWP, OH— State Representative Mike Odioso has officially qualified for the ballot in the 2026 election, marking an important milestone as he looks ahead to continuing his work in the Ohio Legislature.
+For Immediate Release November 6, 2024 Mike Odioso Thanks Supporters Following Election to the Ohio Legislature GREEN TWP, OH – Mike Odioso issued the following statement following his election to the Ohio House of Representatives on Tuesday.
+For Immediate Release March 5, 2024 Sheriff Richard Jones Endorsed Mike Odioso for State Represenative GREEN TWP, OH – On Tuesday morning, Mike Odioso announced that he has been endorsed by Butler County Sheriff Richard Jones in his campaign for the Ohio House of Representatives from Ohio's 30th District.
+For Immediate Release December 1, 2023 Mike Odioso Officially Files to Run for Ohio Statehouse GREEN TWP, OH — On Friday, longtime conservative activist and community leader Mike Odioso officially filed his petitions to run for the Ohio House of Representatives from the 30th District.
+For Immediate Release July 7, 2023 Mike Odioso Launches Campaign for the Ohio Statehouse GREEN TWP, OH— Longtime conservative activist and community leader Mike Odioso announced his candidacy for the Ohio House of Representatives from the 30th District on Wednesday.
 Reps.
-Odioso, Lett Announce Creation of the Developmental Disabilities Legislative Caucus
-May 21, 2026
-COLUMBUS – State Representative Mike Odioso (R-Green Twp.) is excited to announce the leadership and creation of the bipartisan, bicameral Developmental Disabilities (DD) Legislative Caucus, with Caucus Co-Chairs Representative...
-Ohio House Passes Rep.
-Odioso's "Grand Jury Privacy and Protection Act"
-May 20, 2026
-COLUMBUS, OH – State Representative Mike Odioso (R-Green Twp.) today announced the Ohio House of Representatives passed House Bill 565, the “Grand Jury Privacy and Protection Act.”
-Ohio lawmakers want public to be able to easily compare nearby private, public schools
-April 13, 2026
-A proposed bill in the Ohio legislature would require some additional accountability for private schools accepting school vouchers and allow the public to compare the performance of nearby private and public schools.
-Ohio bill seeks to toughen penalties for drivers who seriously injure people in crosswalks
-March 17, 2026
-CINCINNATI (WKRC) - A bipartisan proposal at the Ohio Statehouse aims to crack down on drivers who injure people crossing the street as lawmakers look for ways to reduce traffic deaths that remain “above pre-COVID levels by a lot.”
-Odioso, Hall Highlight Legislation Expanding Computer Science Access for All Ohio Students
-January 22, 2026
-COLUMBUS, OH – State Representatives Mike Odioso (R-Green Twp) and Thomas Hall (R-Madison Twp) introduced House Bill 594 at the end of 2025.
+Odioso, Lett Announce Creation of the Developmental Disabilities Legislative Caucus May 21, 2026 COLUMBUS – State Representative Mike Odioso (R-Green Twp.) is excited to announce the leadership and creation of the bipartisan, bicameral Developmental Disabilities (DD) Legislative Caucus, with Caucus Co-Chairs Representative...
+READ MORE >>> Ohio House Passes Rep.
+Odioso's "Grand Jury Privacy and Protection Act" May 20, 2026 COLUMBUS, OH – State Representative Mike Odioso (R-Green Twp.) today announced the Ohio House of Representatives passed House Bill 565, the “Grand Jury Privacy and Protection Act.” READ MORE >>> Ohio lawmakers want public to be able to easily compare nearby private, public schools April 13, 2026 A proposed bill in the Ohio legislature would require some additional accountability for private schools accepting school vouchers and allow the public to compare the performance of nearby private and public schools.
+READ MORE >>> Ohio bill seeks to toughen penalties for drivers who seriously injure people in crosswalks March 17, 2026 CINCINNATI (WKRC) - A bipartisan proposal at the Ohio Statehouse aims to crack down on drivers who injure people crossing the street as lawmakers look for ways to reduce traffic deaths that remain “above pre-COVID levels by a lot.” READ MORE >>> Odioso, Hall Highlight Legislation Expanding Computer Science Access for All Ohio Students January 22, 2026 COLUMBUS, OH – State Representatives Mike Odioso (R-Green Twp) and Thomas Hall (R-Madison Twp) introduced House Bill 594 at the end of 2025.
 This legislation is designed to expand computer science education in every public high school...
-Odioso to Speak at Ohio Computer Science & AI for All Advocacy Day
-January 20, 2026
-COLUMBUS—State Representative Mike Odioso (R-Green Twp.) will provide remarks at the Ohio Computer Science & AI for All Advocacy Day, which will take place later this month at the Ohio Statehouse.
-Odioso Applauds Plan to Extend Operations at Miami Fort Power Plant
-December 18, 2025
-MIAMI TWP - State Representative Mike Odioso (R-Green Twp.) is extremely pleased that Vistra plans to continue operating the Miami Fort Power Plant beyond 2027 and convert the plant to a modern, natural gas-fueled operation.
-Odioso, Lett Introduce Bill to Expand Inclusive Housing Options for People with Developmental Disabilities
-November 7, 2025
-COLUMBUS – State Representatives Mike Odioso (R-Green Twp) and Crystal Lett (D-Columbus) introduced legislation to modernize the state’s Community Capital Assistance (CCA) program and expand affordable housing opportunities for individuals with developmental disabilities.
-Rep.
+READ MORE >>> Odioso to Speak at Ohio Computer Science & AI for All Advocacy Day January 20, 2026 COLUMBUS—State Representative Mike Odioso (R-Green Twp.) will provide remarks at the Ohio Computer Science & AI for All Advocacy Day, which will take place later this month at the Ohio Statehouse.
+READ MORE >>> Odioso Applauds Plan to Extend Operations at Miami Fort Power Plant December 18, 2025 MIAMI TWP - State Representative Mike Odioso (R-Green Twp.) is extremely pleased that Vistra plans to continue operating the Miami Fort Power Plant beyond 2027 and convert the plant to a modern, natural gas-fueled operation.
+READ MORE >>> Odioso, Lett Introduce Bill to Expand Inclusive Housing Options for People with Developmental Disabilities November 7, 2025 COLUMBUS – State Representatives Mike Odioso (R-Green Twp) and Crystal Lett (D-Columbus) introduced legislation to modernize the state’s Community Capital Assistance (CCA) program and expand affordable housing opportunities for individuals with developmental disabilities.
+READ MORE >>> Rep.
 Lett and Rep.
-Odioso Introduce Connie's Law to Expand Opportunities for Ohioans with Disabilities
-November 6, 2025
-COLUMBUS – State Rep.
+Odioso Introduce Connie's Law to Expand Opportunities for Ohioans with Disabilities November 6, 2025 COLUMBUS – State Rep.
 Mike Odioso (R-Green Twp), along with State Rep.
 Crystal Lett (D-Columbus), introduced Connie’s Law, which strengthens economic independence and workforce participation among Ohioans with disabilities by modernizing eligibility...
-Reps.
-Click, Odioso Provide Sponsor Testimony on WIN Act
-October 27, 2025
-COLUMBUS, OH – HB 484 seeks to increase the number of childcare workers, reduce childcare costs, and increase Ohio’s population-critical components of a vibrant economy.
-Ohio Lawmakers Introduce Legislation to Prevent Crowdfunding for Violent Crimes
-October 8, 2025
-CINCINNATI (WXIX) - Two Southwestern Ohio Representatives have introduced legislation that would ban individuals accused or convicted of a violent crime from profiting from crowdfunding platforms, according to the state representatives.
-Ohio House Passes Resolution Honoring Pope Leo XIV, the First American Pope
-October 7, 2025
-COLUMBUS – State Representatives Adam Mathews (R-Lebanon) and Mike Odioso (R-Green Twp.) announced the Ohio House of Representatives passed House Resolution 139, a resolution honoring Pope Leo XIV for his historic election as the first American Pope.
-Odioso Appointed as Vice Chair of Education Committee
-January 15, 2025
-COLUMBUS – State Representative Mike Odioso (R-Green Twp.) has been appointed by Ohio House Speaker Matt Huffman (R-Lima) as Vice Chair of the House Education Committee for the 136th General Assembly.
-Odioso Sworn in to Serve Ohio's 30th House District
-January 7, 2025
-COLUMBUS – State Representative Mike Odioso (R-Green Twp.) took the oath of office Monday for his first term as a member of the Ohio House of Representatives.
+READ MORE >>> Reps.
+Click, Odioso Provide Sponsor Testimony on WIN Act October 27, 2025 COLUMBUS, OH – HB 484 seeks to increase the number of childcare workers, reduce childcare costs, and increase Ohio’s population-critical components of a vibrant economy.
+READ MORE >>> Ohio Lawmakers Introduce Legislation to Prevent Crowdfunding for Violent Crimes October 8, 2025 CINCINNATI (WXIX) - Two Southwestern Ohio Representatives have introduced legislation that would ban individuals accused or convicted of a violent crime from profiting from crowdfunding platforms, according to the state representatives.
+READ MORE >>> Ohio House Passes Resolution Honoring Pope Leo XIV, the First American Pope October 7, 2025 COLUMBUS – State Representatives Adam Mathews (R-Lebanon) and Mike Odioso (R-Green Twp.) announced the Ohio House of Representatives passed House Resolution 139, a resolution honoring Pope Leo XIV for his historic election as the first American Pope.
+READ MORE >>> Odioso Appointed as Vice Chair of Education Committee January 15, 2025 COLUMBUS – State Representative Mike Odioso (R-Green Twp.) has been appointed by Ohio House Speaker Matt Huffman (R-Lima) as Vice Chair of the House Education Committee for the 136th General Assembly.
+READ MORE >>> Odioso Sworn in to Serve Ohio's 30th House District January 7, 2025 COLUMBUS – State Representative Mike Odioso (R-Green Twp.) took the oath of office Monday for his first term as a member of the Ohio House of Representatives.
 He represents the 30th House District...
-Critical gaps in care for developmentally disabled must be addressed | Opinion
-March 5, 2024
-Parenting a child with developmental disabilities is both incredibly rewarding and extremely difficult.
+READ MORE >>> Critical gaps in care for developmentally disabled must be addressed | Opinion March 5, 2024 Parenting a child with developmental disabilities is both incredibly rewarding and extremely difficult.
 It's a journey filled with love and resilience, yet marked by frustration at a system that often falls short.
+READ MORE >>> Mike Odioso for Ohio 12070 Stone Point Court | Loveland, OH 45140 PRIVACY POLICY TERMS OF SERVICE CONTACT Menu Close PAID FOR BY MIKE ODIOSO FOR OHIO MEET MIKE DELIVERING RESULTS NEWS GET INVOLVED CONTACT bottom of page

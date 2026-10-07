@@ -1,133 +1,35 @@
-Kimberly Overman: «
-» para el Congreso
-Noticias y eventos
-Inicio » Noticias y eventos
-En las noticias
-El político de Tampa Overman cruza las fronteras del distrito para enfrentarse a Bilirakis
-Elizabeth Johanson
-9 de mayo de 2026
-Hoodline informa sobre la entrada de Kimberly en la carrera por el recién delimitado distrito FL-12, en la que se enfrentará al actual representante Gus Bilirakis.
+Ir al contenido Ir al contenido Ir al pie de página Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Facebook LinkedIn X-Twitter Voluntario Colabora Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Kimberly Overman: « » para el Congreso Noticias y eventos En las noticias Eventos Comunicados de prensa Inicio » Noticias y eventos En las noticias Eventos Comunicados de prensa En las noticias El político de Tampa Overman cruza las fronteras del distrito para enfrentarse a Bilirakis Elizabeth Johanson 9 de mayo de 2026 Hoodline informa sobre la entrada de Kimberly en la carrera por el recién delimitado distrito FL-12, en la que se enfrentará al actual representante Gus Bilirakis.
 Ahora que el oeste del condado de Hillsborough forma parte del distrito y que Kimberly lidera a sus rivales en recaudación de fondos y reconocimiento de nombre, lo que antes se consideraba un bastión republicano adormecido se perfila como una de las contiendas más interesantes de la zona de Tampa Bay a las que seguir este otoño.
-La demócrata de Tampa Kimberly Overman se enfrentará a Gus Bilirakis en las elecciones al Congreso de los Estados Unidos
-Patrick Manteiga y La Gaceta
-8 de mayo de 2026
-Creative Loafing Tampa informa sobre la decisión de Kimberly de presentarse como rival del diputado Gus Bilirakis en el recién rediseñado distrito electoral CD-12.
+Lee el artículo La demócrata de Tampa Kimberly Overman se enfrentará a Gus Bilirakis en las elecciones al Congreso de los Estados Unidos Patrick Manteiga y La Gaceta 8 de mayo de 2026 Creative Loafing Tampa informa sobre la decisión de Kimberly de presentarse como rival del diputado Gus Bilirakis en el recién rediseñado distrito electoral CD-12.
 Ahora que el oeste del condado de Hillsborough forma parte del distrito y que los demócratas están en condiciones de superar los resultados de ciclos electorales recientes, la contienda vuelve a poner en juego un escaño que llevaba mucho tiempo sin disputarse, y Kimberly está dispuesta a dar a las familias trabajadoras una voz de la que no han disfrutado en años.
-Sunburn — La lectura matutina sobre lo más destacado de la política en Florida
-Peter Schorsch
-6 de mayo de 2026
-El boletín «Sunburn» de Florida Politics destaca el cambio de Kimberly al distrito congresional 12, junto con otros candidatos que se enfrentan al nuevo mapa electoral de Florida.
+Lee el artículo Sunburn — La lectura matutina sobre lo más destacado de la política en Florida Peter Schorsch 6 de mayo de 2026 El boletín «Sunburn» de Florida Politics destaca el cambio de Kimberly al distrito congresional 12, junto con otros candidatos que se enfrentan al nuevo mapa electoral de Florida.
 Tal y como ha compartido en Facebook, la parte del nuevo distrito que corresponde al condado de Hillsborough es su barrio, un bastión demócrata donde su campaña ya está bien arraigada y lista para luchar por las familias trabajadoras.
-Reorganización de distritos: Kimberly Overman pasa del distrito 15 al 12
-Janelle Irwin Taylor
-5 de mayo de 2026
-Florida Politics informa sobre el traslado de Kimberly al distrito CD-12 tras la redistribución de distritos realizada a mitad de década en Florida.
+Lee el artículo Reorganización de distritos: Kimberly Overman pasa del distrito 15 al 12 Janelle Irwin Taylor 5 de mayo de 2026 Florida Politics informa sobre el traslado de Kimberly al distrito CD-12 tras la redistribución de distritos realizada a mitad de década en Florida.
 La parte del nuevo distrito que corresponde al condado de Hillsborough es su barrio —y donde se encuentra su oficina de campaña—, lo que le permite seguir arraigada en la comunidad en la que ha desarrollado su carrera profesional.
-Comunicados de prensa
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-22 de septiembre de 2026
-KIMBERLY OVERMAN CELEBRARÁ UN ENCUENTRO PÚBLICO SOBRE LA SEGURIDAD SOCIAL EN NORTHDALE JUNTO A JON «BOWZER» BAUMAN, PRESIDENTE DE SOCIAL SECURITY WORKS
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL
-17 de septiembre de 2026 KIMBERLY OVERMAN (FL-12) HA SIDO DESIGNADA COMO UNA DE LAS «CARRERAS ELECTORALES A SEGUIR» POR EL PARTIDO DEMÓCRATA DE FLORIDA
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL
-14 de septiembre de 2026 KIMBERLY OVERMAN RETA A GUS BILIRAKIS A PARTICIPAR EN DEBATES TELEVISADOS EN LA CAMPAÑA ELECTORAL DEL DISTRITO 12 DE FLORIDA
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-20 de julio de 2026
-Kimberly Overman: El Congreso debe cumplir su promesa a nuestros veteranos: dejar de equilibrar el presupuesto a costa de ellos
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-20 de julio de 2026
-Kimberly Overman: El Congreso debe cumplir su promesa a nuestros veteranos: dejar de equilibrar el presupuesto a costa de ellos
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-10 de mayo de 2026
-Aumenta la confusión entre los votantes tras la nueva redistribución de distritos electorales: así pueden los floridanos confirmar su distrito, su circunscripción y su papeleta
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-8 de mayo de 2026
-El 13 de mayo de 2026 tendrá lugar una recaudación de fondos para el barrio de Heights con Kimberly Overman
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-4 de mayo de 2026
-Una actualización importante sobre la campaña de Overman al Congreso: un mensaje de Kimberly Overman a sus seguidores
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-29 de abril de 2026
-Overman insta a los líderes de Florida a rechazar la redistribución de distritos electorales en año de elecciones y a defender una representación justa.
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-7 de abril de 2026
-Kimberly Overman: Las familias de Tampa Bay necesitan estabilidad, no más caos procedente de Washington.
-Comunicado de prensa
-PARA SU PUBLICACIÓN INMEDIATA
-TAMPA, FL
-28 de enero de 2026
-Kimberly Overman, candidata al Congreso por el distrito 15 de Florida, emite un comunicado sobre los recientes acontecimientos en Minneapolis y pide una revisión de la rendición de cuentas a nivel federal que incluya procesos transparentes, un liderazgo responsable y medidas para recuperar la confianza de la ciudadanía.
-Eventos
-Recaudación de fondos «New World» con Kimberly Overman
-Terminemos el mes por todo lo alto con amigos, seguidores y vecinos.
-📅 Fecha: Jueves, 28 de mayo de 2026
-🕕 Hora: 18:30 – 20:30
-📍 Ubicación:
-New World Tampa
-810 E Skagway Ave
-Tampa, FL 33604
-¿No puedes asistir?
-Aún así, puedes colaborar como voluntario, haciendo una donación o difundiendo la campaña entre tus contactos.
-Tampa Heights – Acto benéfico «Shuffle» con Kimberly Overman
-Ven a pasar una noche divertida y llena de energía mientras apoyas nuestra campaña.
-📅 Fecha: Martes, 19 de mayo de 2026
-🕕 Hora: 17:30 – 20:00
-📍 Ubicación:
-Reproducir aleatoriamente
-2612 N Tampa St
-Tampa, FL 33602
-¿No puedes asistir?
-Aún así, puedes colaborar como voluntario, haciendo una donación o difundiendo la campaña entre tus contactos.
-Recaudación de fondos en el barrio de Heights con Kimberly Overman
-¡Únete a nosotros!
+Lee el artículo Comunicados de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 22 de septiembre de 2026 KIMBERLY OVERMAN CELEBRARÁ UN ENCUENTRO PÚBLICO SOBRE LA SEGURIDAD SOCIAL EN NORTHDALE JUNTO A JON «BOWZER» BAUMAN, PRESIDENTE DE SOCIAL SECURITY WORKS Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 17 de septiembre de 2026 KIMBERLY OVERMAN (FL-12) HA SIDO DESIGNADA COMO UNA DE LAS «CARRERAS ELECTORALES A SEGUIR» POR EL PARTIDO DEMÓCRATA DE FLORIDA Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 14 de septiembre de 2026 KIMBERLY OVERMAN RETA A GUS BILIRAKIS A PARTICIPAR EN DEBATES TELEVISADOS EN LA CAMPAÑA ELECTORAL DEL DISTRITO 12 DE FLORIDA Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 20 de julio de 2026 Kimberly Overman: El Congreso debe cumplir su promesa a nuestros veteranos: dejar de equilibrar el presupuesto a costa de ellos Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 20 de julio de 2026 Kimberly Overman: El Congreso debe cumplir su promesa a nuestros veteranos: dejar de equilibrar el presupuesto a costa de ellos Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 10 de mayo de 2026 Aumenta la confusión entre los votantes tras la nueva redistribución de distritos electorales: así pueden los floridanos confirmar su distrito, su circunscripción y su papeleta Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 8 de mayo de 2026 El 13 de mayo de 2026 tendrá lugar una recaudación de fondos para el barrio de Heights con Kimberly Overman Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 4 de mayo de 2026 Una actualización importante sobre la campaña de Overman al Congreso: un mensaje de Kimberly Overman a sus seguidores Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 29 de abril de 2026 Overman insta a los líderes de Florida a rechazar la redistribución de distritos electorales en año de elecciones y a defender una representación justa .
+Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 7 de abril de 2026 Kimberly Overman: Las familias de Tampa Bay necesitan estabilidad, no más caos procedente de Washington .
+Lea el comunicado de prensa Comunicado de prensa PARA SU PUBLICACIÓN INMEDIATA TAMPA, FL 28 de enero de 2026 Kimberly Overman, candidata al Congreso por el distrito 15 de Florida, emite un comunicado sobre los recientes acontecimientos en Minneapolis y pide una revisión de la rendición de cuentas a nivel federal que incluya procesos transparentes, un liderazgo responsable y medidas para recuperar la confianza de la ciudadanía .
+Lea el comunicado de prensa Eventos Recaudación de fondos «New World» con Kimberly Overman Terminemos el mes por todo lo alto con amigos, seguidores y vecinos. 📅 Fecha: Jueves, 28 de mayo de 2026 🕕 Hora: 18:30 – 20:30 📍 Ubicación: New World Tampa 810 E Skagway Ave Tampa, FL 33604 ¡Reserva ya! ¿No puedes asistir?
+Aún así, puedes colaborar como voluntario , haciendo una donación o difundiendo la campaña entre tus contactos.
+Tampa Heights – Acto benéfico «Shuffle» con Kimberly Overman Ven a pasar una noche divertida y llena de energía mientras apoyas nuestra campaña. 📅 Fecha: Martes, 19 de mayo de 2026 🕕 Hora: 17:30 – 20:00 📍 Ubicación: Reproducir aleatoriamente 2612 N Tampa St Tampa, FL 33602 ¡Reserva ya! ¿No puedes asistir?
+Aún así, puedes colaborar como voluntario , haciendo una donación o difundiendo la campaña entre tus contactos.
+Recaudación de fondos en el barrio de Heights con Kimberly Overman ¡Únete a nosotros!
 Este es nuestro momento de unirnos como comunidad y dar forma al futuro.
-Tanto si asistes, como si colaboras o ayudas a difundir el mensaje, formas parte de la construcción de un futuro más sólido para Tampa y el Distrito 12.
-📅 Fecha: Miércoles, 13 de mayo de 2026
-🕕 Hora: 17:30
-📍 Ubicación:
-The Independent
-5016 N Florida Ave
-Tampa, FL 33603
-¿No puedes asistir?
-Aún así, puedes colaborar como voluntario, haciendo una donación o difundiendo la campaña entre tus contactos.
+Tanto si asistes, como si colaboras o ayudas a difundir el mensaje, formas parte de la construcción de un futuro más sólido para Tampa y el Distrito 12. 📅 Fecha: Miércoles, 13 de mayo de 2026 🕕 Hora: 17:30 📍 Ubicación: The Independent 5016 N Florida Ave Tampa, FL 33603 ¡Reserva ya!
+Detalles del evento ¿No puedes asistir?
+Aún así, puedes colaborar como voluntario , haciendo una donación o difundiendo la campaña entre tus contactos.
 Recaudación de fondos de Swope Rodante P.A.
-Acompaña a Kimberly Overman en la próxima gala benéfica en apoyo a su campaña para el Congreso por el Distrito 15 de Florida, organizada por Dale Swope.
-📅 Fecha: Jueves, 12 de febrero de 2026
-🕕 Hora: 17:30
-📍 Lugar: Confirma tu asistencia para obtener más detalles sobre el evento
-¿No puedes asistir?
-Aún así, puedes colaborar como voluntario, haciendo una donación o difundiendo la campaña entre tus contactos.
-Inicio de la campaña de Overman para el Congreso
-Acompaña a Kimberly Overman en el lanzamiento oficial de su campaña para el Distrito 15 del Congreso de los Estados Unidos en Florida.
-Descubre su visión sobre un liderazgo responsable, el apoyo a las familias trabajadoras y el restablecimiento de la integridad en Washington.
-📅 Fecha: Miércoles, 29 de octubre de 2025
-🕕 Hora: 18:00
-📍 Lugar: Confirma tu asistencia para obtener más detalles sobre el evento
-¿No puedes asistir?
-Aún así, puedes colaborar como voluntario, haciendo una donación o difundiendo la campaña entre tus contactos.
-Organizaciones de toda Florida reconocen el liderazgo de Kimberly
-Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+Acompaña a Kimberly Overman en la próxima gala benéfica en apoyo a su campaña para el Congreso por el Distrito 15 de Florida , organizada por Dale Swope . 📅 Fecha: Jueves, 12 de febrero de 2026 🕕 Hora: 17:30 📍 Lugar: Confirma tu asistencia para obtener más detalles sobre el evento ¡Reserva ya! ¿No puedes asistir?
+Aún así, puedes colaborar como voluntario , haciendo una donación o difundiendo la campaña entre tus contactos.
+Inicio de la campaña de Overman para el Congreso Acompaña a Kimberly Overman en el lanzamiento oficial de su campaña para el Distrito 15 del Congreso de los Estados Unidos en Florida .
+Descubre su visión sobre un liderazgo responsable, el apoyo a las familias trabajadoras y el restablecimiento de la integridad en Washington. 📅 Fecha: Miércoles, 29 de octubre de 2025 🕕 Hora: 18:00 📍 Lugar: Confirma tu asistencia para obtener más detalles sobre el evento ¡Reserva ya! ¿No puedes asistir?
+Aún así, puedes colaborar como voluntario , haciendo una donación o difundiendo la campaña entre tus contactos.
+Organizaciones de toda Florida reconocen el liderazgo de Kimberly Madres por la Acción 01 Acción de Emgage 02 El Grupo Demócrata LGBTQ+ de Florida 03 Impulsa una campaña que se nutra de la gente, no de intereses particulares.
 Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
 Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
-Este movimiento comienza
-contigo.
+Colabora Este movimiento comienza contigo.
 Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
 Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.
+Voluntario Mantente informado Distrito 12 de Florida LinkedIn Instagram Enlaces Inicio Te presentamos a Kimberly Temas En las noticias Kimberly en Substack Comunicados de prensa Eventos Contacto Colabora Privacidad Ponte en contacto con nosotros vote@KimberlyOverman.com Overman al Congreso 4610 Central Avenue Tampa, FL 33603-3904 813-720-7719 © #.
+Todos los derechos reservados.
+Financiado por Overman para el Congreso Español English

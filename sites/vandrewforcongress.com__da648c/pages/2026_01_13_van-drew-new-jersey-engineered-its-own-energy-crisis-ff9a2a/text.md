@@ -1,5 +1,4 @@
-Van Drew: New Jersey Engineered its own Energy Crisis
-January 13, 2026 — Every month, families across New Jersey open their electric bills and ask the same question: How did it get this bad?
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Van Drew: New Jersey Engineered its own Energy Crisis January 13, 2026 — Every month, families across New Jersey open their electric bills and ask the same question: How did it get this bad?
 I hear this question at diners, in the grocery store and from concerned constituents across the district who do not understand how we reached this point.
 The answer is not complicated.
 This crisis was engineered by years of bad energy policy, where political agendas came first, and common sense came last.
@@ -44,4 +43,9 @@ They need reliable, affordable power now.
 This crisis did not happen by chance.
 It was the result of deliberate policy choices.
 Until New Jersey’s energy policy is grounded in reliability, affordability and reality, families will continue to pay the price for decisions they did not make.
-###
+### Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

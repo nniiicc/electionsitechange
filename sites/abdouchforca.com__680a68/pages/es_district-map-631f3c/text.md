@@ -1,37 +1,9 @@
-Distrito 45 de la Asamblea
-Las comunidades que Greg Abdouch busca representar
-Asamblea Estatal de California, Distrito 45
-Comunidades del Inland Empire que Greg Abdouch busca representar
-El Distrito 45 de la Asamblea se encuentra ubicado en su totalidad dentro del condado de San Bernardino y atiende a aproximadamente 490,577 personas.
+Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Distrito 45 de la Asamblea Las comunidades que Greg Abdouch busca representar Límite Oficial de la Asamblea Estatal Asamblea Estatal de California, Distrito 45 Comunidades del Inland Empire que Greg Abdouch busca representar El Distrito 45 de la Asamblea se encuentra ubicado en su totalidad dentro del condado de San Bernardino y atiende a aproximadamente 490,577 personas.
 Greg Abdouch se postula para ser su voz de sentido común para esta región en Sacramento.
-490,577 residentes
-Cifras oficiales del Censo de 2020
-5 Ciudades y 6 Áreas
-Territorio de Campaña
-Condado de San Bernardino
-Completamente dentro de los límites del condado
-Perfil del Distrito
-490,577 residentes
-Totalmente dentro del Condado de San Bernardino
-• Verificado desde el Mapa de la Comisión de Redistribución de Distritos de Ciudadanos• Datos límites de la Base de datos estatal de CaliforniaÚltima verificación: May 29, 2026
-- San Bernardino
-- Fontana
-- Rialto
-- Highland
-- Redlands
-- Mentone
-- Muscoy
-- Arrowhead Springs
-- Devore
-- Lytle Creek
-- San Bernardino Valley Mountain Foothills
-146.8 Millas cuadradas
-Participe en el Distrito 45 de la Asamblea Estatal
-ÚNASE AL EQUIPO
-Ayude a Greg a conectarse con los votantes de su vecindario y compartir nuestra campaña de sentido común.
-Donar en Línea
-Apoye nuestros esfuerzos de alcance comunitario y campaña para llevar su voz a Sacramento.
-Solicite un Letrero PARA EL JARDÍN
-Muestre su apoyo en su vecindario solicitando un Letrero PARA EL JARDÍN de la campaña.
-Manténgase Informado
-Reciba directamente noticias de la campaña, alertas de acción y actualizaciones regulares de eventos.
+Población 490,577 residentes Cifras oficiales del Censo de 2020 Comunidades Atendidas 5 Ciudades y 6 Áreas Territorio de Campaña Ubicación del Distrito Condado de San Bernardino Completamente dentro de los límites del condado Loading Interactive Map...
+Perfil del Distrito Población Atendida 490,577 residentes Ubicación del Distrito Totalmente dentro del Condado de San Bernardino Fuentes de Datos • Verificado desde el Mapa de la Comisión de Redistribución de Distritos de Ciudadanos • Datos límites de la Base de datos estatal de California Última verificación: May 29, 2026 Ciudades (Parcial) San Bernardino Fontana Rialto Highland Redlands Vecindarios y Áreas Mentone Muscoy Arrowhead Springs Devore Lytle Creek San Bernardino Valley Mountain Foothills Superficie Física 146.8 Millas cuadradas ← Volver al Inicio Participe en el Distrito 45 de la Asamblea Estatal ÚNASE AL EQUIPO Ayude a Greg a conectarse con los votantes de su vecindario y compartir nuestra campaña de sentido común. ÚNASE AL EQUIPO Donar en Línea Apoye nuestros esfuerzos de alcance comunitario y campaña para llevar su voz a Sacramento.
+Contribuir Ahora Solicite un Letrero PARA EL JARDÍN Muestre su apoyo en su vecindario solicitando un Letrero PARA EL JARDÍN de la campaña.
+Solicitar Letrero Manténgase Informado Reciba directamente noticias de la campaña, alertas de acción y actualizaciones regulares de eventos.
+Registrarse Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.
+Navegación Inicio Biografía Apoyos Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
+Todos los derechos reservados. | Política de Privacidad | Team Portal Estrategia Digital por GoSubmitto

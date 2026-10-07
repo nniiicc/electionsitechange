@@ -1,33 +1,8 @@
-Endorsements
-AFGE
-American Federation of Government Employees
-AFSCME
-American Federation of State, County and Municipal Employees
-American Federation of Teachers
-Color Action Fund
-Conservation Colorado
-CWA
-Communications Workers of America
-Defend the Vote
-Emily’s List
-Future Forum PAC
-GIFFORDS
-Human Rights Campaign
-IBEW
-International Brotherhood of Electrical Workers
-League of Conservation Voters
-NARAL
-National Education Association
-New Dems
-Action Fund
-Planned Parenthood
-SEIU
-SMART
-Teamsters
-UBC
-United Brotherhood of Carpenters
-UFCW
-United Food and Commercial Workers
-Voter Protection Project
-West Metro Professional Firefighters
-AFL-CIO
+Skip to content CHIP IN $25 TO ELECT BRITTANY PETTERSEN CHIP IN $25 TO ELECT BRITTANY PETTERSEN Home Meet Brittany Issues Endorsements Media Home Meet Brittany Issues Endorsements Media Facebook X-twitter Instagram Get Involved Get Involved Donate Donate Donate Donate Endorsements AFGE American Federation of Government Employees AFSCME American Federation of State, County and Municipal Employees American Federation of Teachers Color Action Fund Conservation Colorado CWA Communications Workers of America Defend the Vote Emily’s List Future Forum PAC GIFFORDS Human Rights Campaign IBEW International Brotherhood of Electrical Workers League of Conservation Voters NARAL National Education Association New Dems Action Fund Planned Parenthood SEIU SMART Teamsters UBC United Brotherhood of Carpenters UFCW United Food and Commercial Workers Voter Protection Project West Metro Professional Firefighters AFL-CIO Join Us.
+By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Home Meet Brittany Contact Us Privacy Policy Get Involved Contribute Paid for by Brittany Pettersen for Colorado P.O.
+Box 150887 | Lakewood, CO 80215 FEC ID: C00637215 | Treasurer: Ms.
+Lucinda Schneller | brittanypettersen.com Contributions are not tax-deductible Facebook X-twitter Instagram POWERED BY APOLLO Home Meet Brittany Issues Endorsements Media Home Meet Brittany Issues Endorsements Media Volunteer Volunteer Donate Donate Facebook Twitter Instagram

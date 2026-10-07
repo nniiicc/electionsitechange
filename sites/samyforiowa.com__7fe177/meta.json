@@ -1,7 +1,11 @@
 {
  "description": "Samy is running for Iowa Senate District 17 as a Democrat candidate. The primary will be June 2, 2026.",
  "final_url": "https://www.samyforiowa.com/",
+ "fingerprint": "5b8ec851dff6af760333bfe6ca692249d075e8ca",
+ "format": 3,
  "paid_for_by": "Paid for by Samy for Iowa Get in Touch First Name Last Name Email Subject Leave us a message",
  "title": "Home | Samy for Iowa | Democrat candidate | Des Moines, IA, USA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

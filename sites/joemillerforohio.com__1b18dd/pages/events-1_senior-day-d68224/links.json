@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94Senior+Day&dates=20260820T150000Z%2F20260820T230000Z&location=Norwalk%2C+OH+44857",
-"http://maps.google.com/?q=+Norwalk%2C+OH+44857",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/grafton-america-250-parade",
-"https://joemillerforohio.com/events-1/senior-day?format=ical",
-"https://joemillerforohio.com/events-1/veterans-day",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://mobilize.us/joemillerforstatesenate/event/993991",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+norwalk%2C+oh+44857+"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rep.+Joe+Miller+at+the+Huron+County+Fair%E2%80%94Senior+Day&dates=20260820T150000Z%2F20260820T230000Z&location=Norwalk%2C+OH+44857"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/senior-day?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next September 5 Join Team Joe Miller for the Grafton America 250 Parade",
+"href": "https://www.joemillerforohio.com/events-1/grafton-america-250-parade"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous August 19 Meet Rep. Joe Miller at the Huron County Fair— Veterans Day",
+"href": "https://www.joemillerforohio.com/events-1/veterans-day"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+},
+{
+"text": "https://www.mobilize.us/joemillerforstatesenate/event/993991/",
+"href": "https://www.mobilize.us/joemillerforstatesenate/event/993991/"
+}
 ]

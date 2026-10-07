@@ -1,11 +1,50 @@
 [
-"https://casscountynd.gov/our-county/finance-office/elections",
-"https://facebook.com/sauterfornd",
-"https://sauterfornd.com/",
-"https://sauterfornd.com/get-involved",
-"https://sauterfornd.com/home",
-"https://sauterfornd.com/news",
-"https://sauterfornd.com/stevesauter_logo",
-"https://sauterfornd.com/vote",
-"https://secure.winred.com/sauter-for-nd/donate"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/sauter-for-nd/donate"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/sauterfornd"
+},
+{
+"text": "Get Involved",
+"href": "https://sauterfornd.com/get-involved/"
+},
+{
+"text": "Meet Steve",
+"href": "https://sauterfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://sauterfornd.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://sauterfornd.com/home/#priorities"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sauterfornd.com/get-involved/"
+},
+{
+"text": "Vote",
+"href": "https://sauterfornd.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://sauterfornd.com/"
+},
+{
+"text": "[image]",
+"href": "https://sauterfornd.com/stevesauter_logo/"
+},
+{
+"text": "burleighauditor@nd.gov",
+"href": "mailto:burleighauditor@nd.gov"
+},
+{
+"text": "clicking here",
+"href": "https://www.casscountynd.gov/our-county/finance-office/elections#docaccess-3d144d27a46fed184785315b0c77ec68d0bf90a30add9704cc5214be4fc53cfc"
+}
 ]

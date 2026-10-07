@@ -1,8 +1,2 @@
-top of page
-Meet & Mingle your Senate Candidate Ashley Bartley
-Fri, Jun 12
-|Milton Grange Hall
-Join Stephanie & the rest of Chittenden 24 -Essex Town Residents -Meet your candidate for Senate - Ashely Bartley.
-Do you live in District 24? - see image attached
-Registration is closed
-bottom of page
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate Meet & Mingle your Senate Candidate Ashley Bartley Fri, Jun 12 | Milton Grange Hall Join Stephanie & the rest of Chittenden 24 -Essex Town Residents -Meet your candidate for Senate - Ashely Bartley.
+Do you live in District 24? - see image attached Registration is closed See other events Time & Location Jun 12, 2026, 6:00 PM – 8:00 PM Milton Grange Hall, 135 River St, Milton, VT 05468, USA About the event Chittenden-24 .pdf Download PDF • 503KB Show More Share this event Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

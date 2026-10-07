@@ -1,11 +1,42 @@
 [
-"https://dmv.ny.gov/more-info/electronic-voter-registration-application",
-"https://licgop.com/about.html",
-"https://licgop.com/calendar.html",
-"https://licgop.com/donate.html",
-"https://licgop.com/index2.html",
-"https://licgop.com/pdfs/EdLeeforAssembly36petition.pdf",
-"https://licgop.com/platform.html",
-"https://licgop.com/volunteer.html",
-"https://licgop.substack.com/"
+{
+"text": "About",
+"href": "https://licgop.com/about.html"
+},
+{
+"text": "Click here to change your voter registration.",
+"href": "https://dmv.ny.gov/more-info/electronic-voter-registration-application"
+},
+{
+"text": "Don't donate money?",
+"href": "https://licgop.com/donate.html"
+},
+{
+"text": "Edward Lee Republican for NYSAssembly District 36",
+"href": "https://licgop.com/index2.html"
+},
+{
+"text": "Event Calendar",
+"href": "https://licgop.com/calendar.html"
+},
+{
+"text": "Issues/ Platform",
+"href": "https://licgop.com/platform.html"
+},
+{
+"text": "Newsletter",
+"href": "https://licgop.substack.com/"
+},
+{
+"text": "Petitions available for download",
+"href": "https://licgop.com/pdfs/EdLeeforAssembly36petition.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://licgop.com/volunteer.html"
+},
+{
+"text": "[image: djelf7 logo]",
+"href": "https://licgop.com/index2.html"
+}
 ]

@@ -1,90 +1,534 @@
 [
-"http://facebook.com/perkins4mo",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260913T210000Z%2F20260914T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260916T213000Z%2F20260917T000000Z&location=15480+Clayton+Rd%2C+Ballwin%2C+MO%2C+United+States%2C+63011",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260919T150000Z%2F20260919T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260920T210000Z%2F20260921T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260923T210000Z%2F20260924T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260926T150000Z%2F20260926T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260927T190000Z%2F20260927T220000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260930T210000Z%2F20261001T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261003T150000Z%2F20261003T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261004T210000Z%2F20261005T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261007T210000Z%2F20261008T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261011T210000Z%2F20261012T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261014T210000Z%2F20261015T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261021T210000Z%2F20261022T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261024T150000Z%2F20261024T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261025T210000Z%2F20261026T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261028T210000Z%2F20261029T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261031T150000Z%2F20261031T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261101T220000Z%2F20261102T010000Z&location=14646+Manchester+Rd",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+perkins&dates=20261017T150000Z%2F20261017T180000Z&location=15480+Clayton+Rd",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+team+perkins&dates=20261010T150000Z%2F20261010T180000Z&location=15480+Clayton+Rd",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+team+perkins&dates=20261018T210000Z%2F20261019T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://instagram.com/perkins4mo",
-"http://maps.google.com/?q=14646+Manchester+Rd",
-"http://maps.google.com/?q=14646+Manchester+Road+Ballwin%2C+Missouri%2C+63011+United+States",
-"http://maps.google.com/?q=15480+Clayton+Rd",
-"http://maps.google.com/?q=15480+Clayton+Rd%2C+Ballwin%2C+MO%2C+United+States%2C+63011",
-"http://maps.google.com/?q=15480+Clayton+Road+Ballwin%2C+Missouri%2C+63011+United+States",
-"https://forms.gle/3pD2nWmzFoWSQLSX9",
-"https://mobilize.us/perkins4mo",
-"https://mobilize.us/s/m2QchG",
-"https://mobilize.us/s/wZWSOy",
-"https://perkinsformissouri.com/",
-"https://perkinsformissouri.com/cart",
-"https://perkinsformissouri.com/contact",
-"https://perkinsformissouri.com/endorsements",
-"https://perkinsformissouri.com/events",
-"https://perkinsformissouri.com/events/3zs294wbl3kdiqjd9bwg314hkcx57b",
-"https://perkinsformissouri.com/events/3zs294wbl3kdiqjd9bwg314hkcx57b?format=ical",
-"https://perkinsformissouri.com/events/6bkedkp6zdwpab3k738t44llcbe5zs",
-"https://perkinsformissouri.com/events/6bkedkp6zdwpab3k738t44llcbe5zs?format=ical",
-"https://perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd",
-"https://perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd?format=ical",
-"https://perkinsformissouri.com/events/cafczhk6bl87k8jtetccm3r93fxsrs",
-"https://perkinsformissouri.com/events/cafczhk6bl87k8jtetccm3r93fxsrs?format=ical",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-1",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-1?format=ical",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-2",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-2?format=ical",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-3",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-3?format=ical",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-4",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-4?format=ical",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-5",
-"https://perkinsformissouri.com/events/canvass-with-team-perkins-5?format=ical",
-"https://perkinsformissouri.com/events/eyh6z3f7x7kbn5d6k92523hdjlf8m6",
-"https://perkinsformissouri.com/events/eyh6z3f7x7kbn5d6k92523hdjlf8m6?format=ical",
-"https://perkinsformissouri.com/events/g8wcbwarpcrpb2r73n8zy757xldnfk",
-"https://perkinsformissouri.com/events/g8wcbwarpcrpb2r73n8zy757xldnfk?format=ical",
-"https://perkinsformissouri.com/events/hsu4xil7i9nf4dmdqcu2qcgymldc7l",
-"https://perkinsformissouri.com/events/hsu4xil7i9nf4dmdqcu2qcgymldc7l?format=ical",
-"https://perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3",
-"https://perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3?format=ical",
-"https://perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh",
-"https://perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh?format=ical",
-"https://perkinsformissouri.com/events/n479mgct5samc76yt6pc7ycx8k5cyk",
-"https://perkinsformissouri.com/events/n479mgct5samc76yt6pc7ycx8k5cyk?format=ical",
-"https://perkinsformissouri.com/events/nx76h4ycsbpz3me8wx5s7efwh3rf3x",
-"https://perkinsformissouri.com/events/nx76h4ycsbpz3me8wx5s7efwh3rf3x?format=ical",
-"https://perkinsformissouri.com/events/pfk3sj4d5th2bd9kgps8lsd2tthzck",
-"https://perkinsformissouri.com/events/pfk3sj4d5th2bd9kgps8lsd2tthzck?format=ical",
-"https://perkinsformissouri.com/events/sfdpy2c7xd7ejkwblpnga8gkb457wt",
-"https://perkinsformissouri.com/events/sfdpy2c7xd7ejkwblpnga8gkb457wt?format=ical",
-"https://perkinsformissouri.com/events/sw9tyrmx95ax6bezhkfxyflh2d4l82",
-"https://perkinsformissouri.com/events/sw9tyrmx95ax6bezhkfxyflh2d4l82?format=ical",
-"https://perkinsformissouri.com/events/ww7txtms3wpzaxpk3xzrr468rj2yrb",
-"https://perkinsformissouri.com/events/ww7txtms3wpzaxpk3xzrr468rj2yrb?format=ical",
-"https://perkinsformissouri.com/events/x7dpcg7xc82lex69gee5nck2nkc3ep",
-"https://perkinsformissouri.com/events/x7dpcg7xc82lex69gee5nck2nkc3ep?format=ical",
-"https://perkinsformissouri.com/events/zbdal2easfhy65pgzrrc5e879jcth8",
-"https://perkinsformissouri.com/events/zbdal2easfhy65pgzrrc5e879jcth8?format=ical",
-"https://perkinsformissouri.com/issues",
-"https://perkinsformissouri.com/join-us",
-"https://perkinsformissouri.com/media",
-"https://perkinsformissouri.com/meet-mary-ann",
-"https://perkinsformissouri.com/newsletter-archive",
-"https://secure.actblue.com/donate/mary-ann-perkins-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14646+manchester+rd++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14646+manchester+road+ballwin%2C+missouri%2C+63011+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=15480+clayton+rd%2C+ballwin%2C+mo%2C+united+states%2C+63011++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=15480+clayton+rd++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=15480+clayton+road+ballwin%2C+missouri%2C+63011+united+states"
+},
+{
+"text": "0",
+"href": "https://www.perkinsformissouri.com/cart"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/6bkedkp6zdwpab3k738t44llcbe5zs"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/cafczhk6bl87k8jtetccm3r93fxsrs"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-1"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-2"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-3"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-4"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-5"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/eyh6z3f7x7kbn5d6k92523hdjlf8m6"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/g8wcbwarpcrpb2r73n8zy757xldnfk"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/n479mgct5samc76yt6pc7ycx8k5cyk"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/nx76h4ycsbpz3me8wx5s7efwh3rf3x"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/pfk3sj4d5th2bd9kgps8lsd2tthzck"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/sfdpy2c7xd7ejkwblpnga8gkb457wt"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/sw9tyrmx95ax6bezhkfxyflh2d4l82"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/ww7txtms3wpzaxpk3xzrr468rj2yrb"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/x7dpcg7xc82lex69gee5nck2nkc3ep"
+},
+{
+"text": "Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/zbdal2easfhy65pgzrrc5e879jcth8"
+},
+{
+"text": "Canvass with Team perkins",
+"href": "https://www.perkinsformissouri.com/events/hsu4xil7i9nf4dmdqcu2qcgymldc7l"
+},
+{
+"text": "Canvass with team perkins",
+"href": "https://www.perkinsformissouri.com/events/3zs294wbl3kdiqjd9bwg314hkcx57b"
+},
+{
+"text": "Canvass with team perkins",
+"href": "https://www.perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh"
+},
+{
+"text": "Check Out Mobilize",
+"href": "https://www.mobilize.us/perkins4mo/"
+},
+{
+"text": "Contact",
+"href": "https://www.perkinsformissouri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-ann-perkins-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.perkinsformissouri.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260913T210000Z%2F20260914T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260916T213000Z%2F20260917T000000Z&location=15480+Clayton+Rd%2C+Ballwin%2C+MO%2C+United+States%2C+63011"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260919T150000Z%2F20260919T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260920T210000Z%2F20260921T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260923T210000Z%2F20260924T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260926T150000Z%2F20260926T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260927T190000Z%2F20260927T220000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20260930T210000Z%2F20261001T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261003T150000Z%2F20261003T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261004T210000Z%2F20261005T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261007T210000Z%2F20261008T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261011T210000Z%2F20261012T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261014T210000Z%2F20261015T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261021T210000Z%2F20261022T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261024T150000Z%2F20261024T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261025T210000Z%2F20261026T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261028T210000Z%2F20261029T000000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261031T150000Z%2F20261031T180000Z&location=15480+Clayton+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261101T220000Z%2F20261102T010000Z&location=14646+Manchester+Rd"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+perkins&dates=20261017T150000Z%2F20261017T180000Z&location=15480+Clayton+Rd"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+team+perkins&dates=20261010T150000Z%2F20261010T180000Z&location=15480+Clayton+Rd"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+team+perkins&dates=20261018T210000Z%2F20261019T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/3zs294wbl3kdiqjd9bwg314hkcx57b?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/6bkedkp6zdwpab3k738t44llcbe5zs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/cafczhk6bl87k8jtetccm3r93fxsrs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/eyh6z3f7x7kbn5d6k92523hdjlf8m6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/g8wcbwarpcrpb2r73n8zy757xldnfk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/hsu4xil7i9nf4dmdqcu2qcgymldc7l?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/n479mgct5samc76yt6pc7ycx8k5cyk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/nx76h4ycsbpz3me8wx5s7efwh3rf3x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/pfk3sj4d5th2bd9kgps8lsd2tthzck?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/sfdpy2c7xd7ejkwblpnga8gkb457wt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/sw9tyrmx95ax6bezhkfxyflh2d4l82?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/ww7txtms3wpzaxpk3xzrr468rj2yrb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/x7dpcg7xc82lex69gee5nck2nkc3ep?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/zbdal2easfhy65pgzrrc5e879jcth8?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.perkinsformissouri.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.perkinsformissouri.com/join-us"
+},
+{
+"text": "Media",
+"href": "https://www.perkinsformissouri.com/media"
+},
+{
+"text": "Meet Mary Ann",
+"href": "https://www.perkinsformissouri.com/meet-mary-ann"
+},
+{
+"text": "Newsletter Archive",
+"href": "https://www.perkinsformissouri.com/newsletter-archive"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.perkinsformissouri.com/events"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/3zs294wbl3kdiqjd9bwg314hkcx57b"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/6bkedkp6zdwpab3k738t44llcbe5zs"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/cafczhk6bl87k8jtetccm3r93fxsrs"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-3"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-4"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-5"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/eyh6z3f7x7kbn5d6k92523hdjlf8m6"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/g8wcbwarpcrpb2r73n8zy757xldnfk"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/hsu4xil7i9nf4dmdqcu2qcgymldc7l"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/n479mgct5samc76yt6pc7ycx8k5cyk"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/nx76h4ycsbpz3me8wx5s7efwh3rf3x"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/pfk3sj4d5th2bd9kgps8lsd2tthzck"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/sfdpy2c7xd7ejkwblpnga8gkb457wt"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/sw9tyrmx95ax6bezhkfxyflh2d4l82"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/ww7txtms3wpzaxpk3xzrr468rj2yrb"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/x7dpcg7xc82lex69gee5nck2nkc3ep"
+},
+{
+"text": "View Event →",
+"href": "https://www.perkinsformissouri.com/events/zbdal2easfhy65pgzrrc5e879jcth8"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/6bkedkp6zdwpab3k738t44llcbe5zs"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/cafczhk6bl87k8jtetccm3r93fxsrs"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-1"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-2"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-3"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-4"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/canvass-with-team-perkins-5"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/eyh6z3f7x7kbn5d6k92523hdjlf8m6"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/g8wcbwarpcrpb2r73n8zy757xldnfk"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/n479mgct5samc76yt6pc7ycx8k5cyk"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/nx76h4ycsbpz3me8wx5s7efwh3rf3x"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/pfk3sj4d5th2bd9kgps8lsd2tthzck"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/sfdpy2c7xd7ejkwblpnga8gkb457wt"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/sw9tyrmx95ax6bezhkfxyflh2d4l82"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/ww7txtms3wpzaxpk3xzrr468rj2yrb"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/x7dpcg7xc82lex69gee5nck2nkc3ep"
+},
+{
+"text": "[image: Canvass with Team Perkins]",
+"href": "https://www.perkinsformissouri.com/events/zbdal2easfhy65pgzrrc5e879jcth8"
+},
+{
+"text": "[image: Canvass with Team perkins]",
+"href": "https://www.perkinsformissouri.com/events/hsu4xil7i9nf4dmdqcu2qcgymldc7l"
+},
+{
+"text": "[image: Canvass with team perkins]",
+"href": "https://www.perkinsformissouri.com/events/3zs294wbl3kdiqjd9bwg314hkcx57b"
+},
+{
+"text": "[image: Canvass with team perkins]",
+"href": "https://www.perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh"
+},
+{
+"text": "[image: Mary Ann Perkins for Missouri House District 100]",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/perkins4mo"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/perkins4mo"
+},
+{
+"text": "https://forms.gle/3pD2nWmzFoWSQLSX9",
+"href": "https://forms.gle/3pD2nWmzFoWSQLSX9"
+},
+{
+"text": "https://mobilize.us/s/m2QchG",
+"href": "https://mobilize.us/s/m2QchG"
+},
+{
+"text": "https://mobilize.us/s/wZWSOy",
+"href": "https://mobilize.us/s/wZWSOy"
+}
 ]

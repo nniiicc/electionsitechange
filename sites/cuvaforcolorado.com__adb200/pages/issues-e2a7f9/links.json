@@ -1,13 +1,50 @@
 [
-"http://x.com/",
-"http://youtube.com/",
-"https://cuvaforcolorado.com/",
-"https://cuvaforcolorado.com/about",
-"https://cuvaforcolorado.com/contact",
-"https://cuvaforcolorado.com/event-list",
-"https://cuvaforcolorado.com/issues",
-"https://cuvaforcolorado.com/privacy-policy",
-"https://facebook.com/p/Adriana-Cuva-61555770587933",
-"https://instagram.com/cuvaforcolorado",
-"https://secure.anedot.com/cuvaforcolorado/cbb74a74-dc1f-46a2-88c9-ff029cc90459"
+{
+"text": "Contact",
+"href": "https://www.cuvaforcolorado.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cuvaforcolorado/cbb74a74-dc1f-46a2-88c9-ff029cc90459"
+},
+{
+"text": "Events",
+"href": "https://www.cuvaforcolorado.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.cuvaforcolorado.com"
+},
+{
+"text": "Issues",
+"href": "https://www.cuvaforcolorado.com/issues"
+},
+{
+"text": "Meet Adriana",
+"href": "https://www.cuvaforcolorado.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cuvaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.cuvaforcolorado.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Adriana-Cuva-61555770587933/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cuvaforcolorado/"
+}
 ]

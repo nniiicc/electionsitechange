@@ -1,18 +1,86 @@
 [
-"https://almaadamsforcongress.com/",
-"https://almaadamsforcongress.com/4hs-labor",
-"https://almaadamsforcongress.com/about-alma",
-"https://almaadamsforcongress.com/contact-us",
-"https://almaadamsforcongress.com/issues",
-"https://almaadamsforcongress.com/media",
-"https://almaadamsforcongress.com/volunteer",
-"https://facebook.com/AlmaAdamsforCongress",
-"https://ncsbe.gov/registering/how-register",
-"https://secure.actblue.com/donate/2026madhatter",
-"https://secure.actblue.com/donate/alma-adams-4",
-"https://secure.actblue.com/donate/alma-adams-4?amount=100",
-"https://secure.actblue.com/donate/alma-adams-4?amount=1000",
-"https://secure.actblue.com/donate/alma-adams-4?amount=50",
-"https://secure.actblue.com/donate/alma-adams-4?amount=500",
-"https://twitter.com/AlmaforCongress"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/alma-adams-4?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/alma-adams-4?amount=100"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/alma-adams-4?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/alma-adams-4?amount=500"
+},
+{
+"text": "4Hs + Labor",
+"href": "https://almaadamsforcongress.com/4hs-labor/"
+},
+{
+"text": "About Alma",
+"href": "https://almaadamsforcongress.com/about-alma/"
+},
+{
+"text": "Contact Us",
+"href": "https://almaadamsforcongress.com/contact-us/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/alma-adams-4"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/AlmaAdamsforCongress"
+},
+{
+"text": "Home",
+"href": "https://almaadamsforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://almaadamsforcongress.com/issues/"
+},
+{
+"text": "Join The Campaign",
+"href": "https://almaadamsforcongress.com/volunteer/"
+},
+{
+"text": "Media",
+"href": "https://almaadamsforcongress.com/media/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/alma-adams-4"
+},
+{
+"text": "Read More",
+"href": "https://almaadamsforcongress.com/issues/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AlmaforCongress"
+},
+{
+"text": "Volunteer",
+"href": "https://almaadamsforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://almaadamsforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/2026madhatter"
+},
+{
+"text": "[image] Get Involved",
+"href": "https://almaadamsforcongress.com/volunteer/"
+},
+{
+"text": "[image] Register to vote",
+"href": "https://www.ncsbe.gov/registering/how-register"
+}
 ]

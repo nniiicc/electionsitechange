@@ -1,5 +1,4 @@
-Embedded Files
-Growing up in the age of social media, I was able to get into the political process from a young age.
+Search this site Embedded Files Skip to main content Skip to navigation Luis for 40A Luis for 40A About Luis On the Issues Events Volunteer Contact Donate Luis for 40A Luis for 40A About Luis On the Issues Events Volunteer Contact Donate More Luis for 40A About Luis On the Issues Events Volunteer Contact Donate About Me Growing up in the age of social media, I was able to get into the political process from a young age.
 I am not the definition of a politician, perhaps the furthest from it.
 I work a normal working class job and I am not somebody who makes his living campaigning.
 I live in a modest 1bd1bth apartment in Mounds View with my significant other, and a cat I adopted with her named Lunita.
@@ -12,7 +11,5 @@ Or that I stepped up to bat and stood for what was right?
 And now, here I am!
 This campaign, I want to represent all of us proudly: Myself and my family, my neighbors, whether they are Republicans, Democrats, or otherwise, and the State of Minnesota which I am so blessed to call my home.
 My best trait as a representative would be my will to fight.
-I have no intention of pleasing donors, lobbyists, or politicians but to speak the truth and fight hard, tooth and nail, for policies I believe in.
-Page updated
-Google Sites
-Report abuse
+I have no intention of pleasing donors, lobbyists, or politicians but to speak the truth and fight hard, tooth and nail, for policies I believe in .
+Prepared and Paid for by Luis Withrow for House District 40a Google Sites Report abuse Page details Page updated Google Sites Report abuse

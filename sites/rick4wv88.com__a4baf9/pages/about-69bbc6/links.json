@@ -1,66 +1,258 @@
 [
-"http://hb 4865/",
-"http://mineralcountywebhostingllc.com/",
-"https://facebook.com/WVprinting",
-"https://rick4wv88.com/",
-"https://rick4wv88.com/about",
-"https://rick4wv88.com/civic-involvement",
-"https://rick4wv88.com/colas-for-wv-state-retirees",
-"https://rick4wv88.com/donate",
-"https://rick4wv88.com/education",
-"https://rick4wv88.com/education-licenses",
-"https://rick4wv88.com/elections-termlimits",
-"https://rick4wv88.com/employment",
-"https://rick4wv88.com/endorsementandrankings",
-"https://rick4wv88.com/energy",
-"https://rick4wv88.com/family-photos",
-"https://rick4wv88.com/general-photos",
-"https://rick4wv88.com/governemnt",
-"https://rick4wv88.com/health",
-"https://rick4wv88.com/illegal-drugs-drug-abuse",
-"https://rick4wv88.com/infrastructure-technology",
-"https://rick4wv88.com/jobs",
-"https://rick4wv88.com/legislative-photos",
-"https://rick4wv88.com/major-accomplishments-recognitions",
-"https://rick4wv88.com/on-the-job-photos",
-"https://rick4wv88.com/privacy-policy",
-"https://rick4wv88.com/public-safety-consumer-protection",
-"https://rick4wv88.com/social-security-taxation",
-"https://rick4wv88.com/veteran-affairs",
-"https://rick4wv88.com/vfds-and-ems",
-"https://rick4wv88.com/youth",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2067&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2121&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2123&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2511&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2871&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2961&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4053&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4364&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4366&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4404&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4433&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4452&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4463&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4474&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4484&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4552&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4625&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4755&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4845&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4863&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4880&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5013&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5065&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5122&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5128&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5168&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5213&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5227&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5326&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5349&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5401&year=2026&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5520&year=2024&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=2397&year=2025&sessiontype=RS",
-"https://wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=2399&year=2025&sessiontype=RS"
+{
+"text": "\"On the Job\" Photos",
+"href": "https://www.rick4wv88.com/on-the-job-photos"
+},
+{
+"text": "ABOUT",
+"href": "https://www.rick4wv88.com/about"
+},
+{
+"text": "COLAs for WV State Retirees",
+"href": "https://www.rick4wv88.com/colas-for-wv-state-retirees"
+},
+{
+"text": "Civic Involvement",
+"href": "https://www.rick4wv88.com/civic-involvement"
+},
+{
+"text": "Donate",
+"href": "https://www.rick4wv88.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.rick4wv88.com/education"
+},
+{
+"text": "Education & Licenses",
+"href": "https://www.rick4wv88.com/education-licenses"
+},
+{
+"text": "Elections & Term Limits",
+"href": "https://www.rick4wv88.com/elections-termlimits"
+},
+{
+"text": "Employment",
+"href": "https://www.rick4wv88.com/employment"
+},
+{
+"text": "Endorsement and Rankings",
+"href": "https://www.rick4wv88.com/endorsementandrankings"
+},
+{
+"text": "Energy",
+"href": "https://www.rick4wv88.com/energy"
+},
+{
+"text": "Family Photos",
+"href": "https://www.rick4wv88.com/family-photos"
+},
+{
+"text": "General Photos",
+"href": "https://www.rick4wv88.com/general-photos"
+},
+{
+"text": "Government",
+"href": "https://www.rick4wv88.com/governemnt"
+},
+{
+"text": "HB 2067",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2067&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 2121",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2121&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 2123",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2123&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 2397",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=2397&year=2025&sessiontype=RS"
+},
+{
+"text": "HB 2399",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=2399&year=2025&sessiontype=RS"
+},
+{
+"text": "HB 2511",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2511&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 2871",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2871&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 2961",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2961&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4053",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4053&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4364",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4364&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4366",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4366&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4404",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4404&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4433",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4433&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4452",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4452&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4463",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4463&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4474",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4474&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4484",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4484&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4552",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4552&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4625",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4625&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4755",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4755&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 4865",
+"href": "http://hb%204865"
+},
+{
+"text": "HB 4880",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4880&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5065",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5065&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5128",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5128&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5168",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5168&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5213",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5213&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5227",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5227&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5326",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5326&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5349",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5349&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB 5401",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5401&year=2026&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB4845",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4845&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB4863",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4863&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB5013",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5013&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB5122",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5122&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "HB5520",
+"href": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5520&year=2024&sessiontype=RS&btype=bill"
+},
+{
+"text": "Health",
+"href": "https://www.rick4wv88.com/health"
+},
+{
+"text": "Illegal Drugs/Drug Abuse",
+"href": "https://www.rick4wv88.com/illegal-drugs-drug-abuse"
+},
+{
+"text": "Infrastructure & Technology",
+"href": "https://www.rick4wv88.com/infrastructure-technology"
+},
+{
+"text": "Jobs",
+"href": "https://www.rick4wv88.com/jobs"
+},
+{
+"text": "Legislative Photos",
+"href": "https://www.rick4wv88.com/legislative-photos"
+},
+{
+"text": "Major Accomplishments/Recognitions",
+"href": "https://www.rick4wv88.com/major-accomplishments-recognitions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rick4wv88.com/privacy-policy"
+},
+{
+"text": "Public Safety & Consumer Protection",
+"href": "https://www.rick4wv88.com/public-safety-consumer-protection"
+},
+{
+"text": "Social Security & Taxation",
+"href": "https://www.rick4wv88.com/social-security-taxation"
+},
+{
+"text": "VFDs and EMS",
+"href": "https://www.rick4wv88.com/vfds-and-ems"
+},
+{
+"text": "Veteran Affairs",
+"href": "https://www.rick4wv88.com/veteran-affairs"
+},
+{
+"text": "WV Printing | Mineral County Print Shop LLC",
+"href": "https://www.facebook.com/WVprinting/"
+},
+{
+"text": "Youth",
+"href": "https://www.rick4wv88.com/youth"
+},
+{
+"text": "[image: correct logo-1_edited.png]",
+"href": "http://mineralcountywebhostingllc.com"
+},
+{
+"text": "[image: logo white font transparent background]",
+"href": "https://www.rick4wv88.com"
+}
 ]

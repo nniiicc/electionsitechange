@@ -1,12 +1,1 @@
-top of page
-Home
-Meet Phil
-Principles
-Priorities
-Menu
-Close
-Home
-Meet Phil
-Principles
-Priorities
-bottom of page
+top of page Home Meet Phil Principles Priorities Menu Close DONATE LEGISLATIVE PROFILE PO Box 10541 Raleigh, NC 27605 Paid for by Rubin for NC Privacy Policy & Terms of Service Home Meet Phil Principles Priorities bottom of page

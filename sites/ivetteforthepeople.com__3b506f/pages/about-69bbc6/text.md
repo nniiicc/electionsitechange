@@ -1,4 +1,4 @@
-Ivette Muhammad is a lifelong advocate for families, a proven nonprofit leader, and a candidate for Iowa House District 33 who believes leadership should be rooted in service, accountability, and opportunity.
++1.515.682.4085 Home Register About Issues Calendar News Videos Join Donate Songs Product Contact More Home Register About Issues Calendar News Videos Join Donate Songs Product Contact +1.515.682.4085 Home Register About Issues Calendar News Videos Join Donate Songs Product Contact About Ivette IVETTE FOR THE PEOPLE Ivette Muhammad is a lifelong advocate for families, a proven nonprofit leader, and a candidate for Iowa House District 33 who believes leadership should be rooted in service, accountability, and opportunity.
 Raised in circumstances that required resilience and determination, Ivette learned early what it means to work hard, overcome obstacles, and rely on community to move forward.
 Those early lessons shaped her values and her commitment to making sure others have access to the same opportunities that helped her succeed.
 As a mother who raised eight children, she understands firsthand the challenges working families face — balancing finances, prioritizing education, and striving to create stable, safe environments for their children.
@@ -21,5 +21,6 @@ She is proud to stand on the shoulders of leaders who have served the district w
 Ivette Muhammad is running not for a title, but to serve.
 She believes in building bridges, strengthening neighborhoods, and creating opportunities that allow families to thrive.
 Her commitment is to lead with integrity, compassion, and results — and to ensure that District 33 always has a strong and trusted voice at the State Capitol.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Register About Issues Calendar News Videos Join Subscribe Donate Songs Product Join "Ivette For The People" Movement & Let's Win!
+Des Moines Pkwy, Des Moines, Iowa 50316, USA +1.515.682.4085 Copyright © # IvetteForThePeople - All Rights Reserved.
+Paid For By Ivette For The People Campaign

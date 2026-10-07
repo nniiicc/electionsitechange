@@ -1,5 +1,3 @@
-Tuesday, November 3rd
-Updated website coming soon!
+RE-ELECT KELLY BREEN Tuesday, November 3rd Updated website coming soon!
 Come back soon to check us out!
-Paid for by Vote Kelly Breen
-242 Linhart St., Novi, MI 48377
+Paid for by Vote Kelly Breen 242 Linhart St., Novi, MI 48377 VOLUNTEER DONATE

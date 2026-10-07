@@ -1,10 +1,9 @@
-Sending Haitians Home to Die Isn't Justice.
+top of page Home Platform Meet Ace Endorsements Voices of WV Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Events Volunteer Join Our Mailing List Donate Menu Close Ace’s Blog Sending Haitians Home to Die Isn't Justice.
 It's a Moral Failure.
-Last month, the Supreme Court ruled 6-3 that the Trump administration can strip Temporary Protected Status from roughly 350,000 Haitians and 6,000 Syrians, clearing the way for mass deportations.
+Ace Parsi Jul 6 4 min read Last month, the Supreme Court ruled 6-3 that the Trump administration can strip Temporary Protected Status from roughly 350,000 Haitians and 6,000 Syrians, clearing the way for mass deportations.
 The Court overturned the ruling of a federal judge in Washington who said the decision to end those protections appeared to be driven by race.
 Within hours, White House adviser Stephen Miller was in front of cameras, practically gleeful, confirming that anyone who loses status "is supposed to be deported." When a reporter asked him point-blank whether Haiti is safe enough to send people back to, he didn't blink: "For Haitians?
-Absolutely."
-It's the kind of answer that sounds clever until you remember the State Department's own travel advisory tells Americans not to go there at all.
+Absolutely." It's the kind of answer that sounds clever until you remember the State Department's own travel advisory tells Americans not to go there at all.
 Lawyers for the Haitian plaintiffs were even more direct: They said this decision will result in thousands of people dying violent, needless deaths.
 Not might.
 Will.
@@ -53,3 +52,13 @@ There is a difference between an immigration system with limits and an immigrati
 We can secure our borders and still be the country that statue promised to be.
 We can do better than this.
 We have to.
+Recent Posts See All How We’re Using AI to Connect With Voters What I Heard about Disabilities in Harrison County Honoring My Best Friend Sign Up for our Newsletter By providing your phone number, you are consenting to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from WV- Ace for Congress.
+Donations may be solicited.
+Messaging & data rates may apply.
+Reply HELP for help.
+Reply STOP to cancel.
+Message Frequency Not To Exceed 3 Messages / Month.
+By signing up for our newsletter, you agree to our Terms and Privacy Policy .
+Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes.
+For press inquiries, please contact aceforcongress@gmail.com P AID FOR BY ACE PARSI FOR CONGRESS P.O.
+Box 4064, Morgantown, WV 26505 Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate bottom of page

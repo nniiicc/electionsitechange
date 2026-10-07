@@ -1,3 +1,3 @@
-Privacy Policy
-Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+0 Skip to Content Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Open Menu Close Menu Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Open Menu Close Menu Home Issues & Priorities Legislative Successes Endorsements About Volunteer Donate Privacy Policy Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+(801) 792-9343 doug@dougowensutah.com Paid for by Owens for Utah.

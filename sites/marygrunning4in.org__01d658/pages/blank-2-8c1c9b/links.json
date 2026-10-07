@@ -1,19 +1,98 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://marygrunning4in.org/",
-"https://marygrunning4in.org/blank",
-"https://marygrunning4in.org/blank-1",
-"https://marygrunning4in.org/blank-2",
-"https://marygrunning4in.org/blog",
-"https://marygrunning4in.org/book-online",
-"https://marygrunning4in.org/challenges",
-"https://marygrunning4in.org/event-list",
-"https://marygrunning4in.org/groups",
-"https://marygrunning4in.org/members",
-"https://marygrunning4in.org/notifications",
-"https://support.wix.com/en/article/creating-a-terms-and-conditions-policy",
-"https://tiktok.com/@wix",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.marygrunning4in.org/blank-1"
+},
+{
+"text": "Blog",
+"href": "https://www.marygrunning4in.org/blog"
+},
+{
+"text": "Blog Feed",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Book Online",
+"href": "https://www.marygrunning4in.org/book-online"
+},
+{
+"text": "Contact",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Creating a Terms and Conditions Policy",
+"href": "https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+},
+{
+"text": "Event Details",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Events",
+"href": "https://www.marygrunning4in.org/event-list"
+},
+{
+"text": "Groups",
+"href": "https://www.marygrunning4in.org/groups"
+},
+{
+"text": "Home",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Marygrunning4in.org",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Members",
+"href": "https://www.marygrunning4in.org/members"
+},
+{
+"text": "Notifications",
+"href": "https://www.marygrunning4in.org/notifications"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marygrunning4in.org/blank"
+},
+{
+"text": "Program List",
+"href": "https://www.marygrunning4in.org/challenges"
+},
+{
+"text": "Service List",
+"href": "https://www.marygrunning4in.org"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "maryg@marygrunning4in.org",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "​",
+"href": "https://www.marygrunning4in.org/blank-2"
+}
 ]

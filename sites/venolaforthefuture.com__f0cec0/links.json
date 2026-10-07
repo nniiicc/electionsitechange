@@ -1,13 +1,54 @@
 [
-"http://venolaforthefuture.com/meet-venola",
-"http://venolaforthefuture.com/priorities-for-district-94",
-"https://facebook.com/venolaforhd94",
-"https://georgia.gov/register-vote",
-"https://linkedin.com/in/masonvenola",
-"https://mvp.sos.ga.gov/s",
-"https://venolaforthefuture.com/",
-"https://venolaforthefuture.com/donate",
-"https://venolaforthefuture.com/meet-venola",
-"https://venolaforthefuture.com/priorities-for-district-94",
-"https://venolaforthefuture.com/volunteer"
+{
+"text": "About Venola",
+"href": "http://venolaforthefuture.com/meet-venola/"
+},
+{
+"text": "Contact Venola",
+"href": "mailto:venola@venolaforhd94.com"
+},
+{
+"text": "DONATE",
+"href": "https://venolaforthefuture.com/donate/"
+},
+{
+"text": "Georgia My Voter Page",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Meet Venola",
+"href": "https://venolaforthefuture.com/meet-venola/"
+},
+{
+"text": "Priorities for District 94",
+"href": "https://venolaforthefuture.com/priorities-for-district-94/"
+},
+{
+"text": "Priorities for Georgia House District 94",
+"href": "http://venolaforthefuture.com/priorities-for-district-94"
+},
+{
+"text": "Volunteer",
+"href": "https://venolaforthefuture.com/volunteer/"
+},
+{
+"text": "Voting Information",
+"href": "https://georgia.gov/register-vote"
+},
+{
+"text": "[image: Donate Button - https://venolaforthefuture.com/donate/]",
+"href": "https://venolaforthefuture.com/donate/"
+},
+{
+"text": "[image: Venola For House District 94]",
+"href": "https://venolaforthefuture.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/venolaforhd94"
+},
+{
+"text": "[tooltip: linkedin]",
+"href": "https://www.linkedin.com/in/masonvenola"
+}
 ]

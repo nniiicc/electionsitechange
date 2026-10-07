@@ -1,5 +1,10 @@
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+All Posts Press Releases In The News Election 2026 Search Team Tarsky Needs Your Help!
 Canvass with Team Tarsky on Saturday!
 The Needham Canvass is on Saturday, August 8th, at 11:00 am.
 Your attendance will provide critical momentum for the Healey-Driscoll Campaign and will help identify supporters for Team Healey-Driscoll to ensure we can follow up with them later on in the campaign to make a plan to vote.
-Josh has worked tirelessly to represent the interests of our district, and now he needs your help to continue that work.
+ELECTION 2026 Aug 3 1 min read Join Us for an Evening of Support & Giving Back: Fundraiser for Josh Tarsky's Re-Election as State Representative Josh has worked tirelessly to represent the interests of our district, and now he needs your help to continue that work.
 Join us for a fundraiser on Wednesday, December 17th, from 6:00 to 7:30 PM, where you can connect with fellow supporters, learn about what Josh has been up to, his vision for the future, and contribute to his campaign for re-election as State Representative of the 13th Norfolk District.
+ELECTION 2026 Dec 15, 2025 1 min read 2024 election news Tarsky Secures State Primary The Needham Local, September 4, 2024 read article Tarsky wins democratic Primary Needham Observer, September 4, 2024 read article HOUSING, PUBLIC TRANSIT TAKE CENTER STAGE IN STATE REP.
+RACE The Needham Local, August 23, 2024 read article State Rep candidates cordial in forum Needham Observer, August 21, 2024 read article Read More 2024 Election News Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

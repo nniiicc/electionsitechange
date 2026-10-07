@@ -1,20 +1,11 @@
-Welcome to the Beck for Congress Press Kit
-You’ll find campaign biographies, photographs, logos, policy & campaign positions, press releases & contact information below.
-Endorsements - see menu tab
-For interviews or speaking engagements, contact us at: press@beckforcongress.com
-About Andy Beck
-Andy Beck is the Democratic candidate for Wisconsin's 5th Congressional District.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Welcome to the Beck for Congress Press Kit You’ll find campaign biographies, photographs, logos, policy & campaign positions, press releases & contact information below.
+Endorsements - see menu tab For interviews or speaking engagements, contact us at: press@beckforcongress.com Media Kit Photos Logos Campaign Positions About Andy Beck Andy Beck is the Democratic candidate for Wisconsin's 5th Congressional District.
 A lifelong Wisconsin resident, healthcare professional, business executive, former union member, and father of two, Beck is running a grassroots campaign focused on lowering costs, expanding healthcare access, protecting Social Security and Medicare, supporting workers and unions, and defending democracy.
 Campaign Motto: A Change Will Do You Good!
-Campaign Priorities
-Lower Costs for Working Families
-Address rising costs for housing, groceries, healthcare, and energy.
-Better Healthcare
-Protect Medicare and Medicaid, expand access, ensure affordable coverage, & keep healthcare decisions between patients and their doctors.
-Good-Paying Local Jobs
-Support unions, workforce training, manufacturing, and small businesses.
-Protect Social Security
-No benefit cuts.
+Campaign Priorities Lower Costs for Working Families Address rising costs for housing, groceries, healthcare, and energy.
+Better Healthcare Protect Medicare and Medicaid, expand access, ensure affordable coverage, & keep healthcare decisions between patients and their doctors.
+Good-Paying Local Jobs Support unions, workforce training, manufacturing, and small businesses.
+Protect Social Security No benefit cuts.
 No raising the retirement age.
-Defend Democracy
-Protect voting rights, fair elections & the constitutional system of checks and balances.
+Defend Democracy Protect voting rights, fair elections & the constitutional system of checks and balances.
+DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

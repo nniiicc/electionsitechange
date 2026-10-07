@@ -1,5 +1,4 @@
-Van Drew to Challenge Electoral College Certification
-Over the last few months, tens of millions of Americans have raised legitimate questions and concerns about the manner in which we conduct our elections.
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Van Drew to Challenge Electoral College Certification Over the last few months, tens of millions of Americans have raised legitimate questions and concerns about the manner in which we conduct our elections.
 Did Governors have the constitutional authority to unilaterally change election laws without the approval of their respective state legislatures?
 How accurate were the voter rolls that were used to send out millions of live ballots?
 Who is ultimately responsible for counting ballots and what safeguards are in place to ensure the results are being accurately reported?
@@ -19,3 +18,9 @@ Thus far, we have been denied the answers to which we are entitled, and that is 
 Congressman Jeff Van Drew represents New Jersey’s 2nd Congressional District in Congress.
 He was re-elected by a 52%-46% margin over Amy Kennedy after withstanding an unprecedented $12 Million assault in a district where Democrats outnumber Republicans by more than 18,000 voters.
 Van Drew is also the first and only Republican ever to defeat a Kennedy at the Federal level.
+Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

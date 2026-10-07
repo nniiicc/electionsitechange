@@ -1,7 +1,1 @@
-Stacie Baker for Ohio Senate
-← Home
-Get Involved
-आगामी कार्यक्रमहरू
-अभियानमा सहभागी हुनुहोस्।
-थप कार्यक्रमहरू चाँडै आउँदैछन्
-अहिले कुनै आगामी कार्यक्रम छैन। चाँडै फेरि हेर्नुहोस्।
+Stacie Baker for Ohio Senate ← Home Get Involved आगामी कार्यक्रमहरू अभियानमा सहभागी हुनुहोस्। थप कार्यक्रमहरू चाँडै आउँदैछन् अहिले कुनै आगामी कार्यक्रम छैन। चाँडै फेरि हेर्नुहोस्। Paid for by Citizens for Stacie Baker · staciebakerforohio.org

@@ -1,10 +1,1 @@
-Home
-About
-Platform
-Accomplishments
-Media
-Radio Scripts
-Endorsements
-Volunteer
-Donate
-Endorsements
+Home About Platform Accomplishments Media Radio Scripts Endorsements Volunteer Donate Endorsements SMS Opt-in Privacy Policy Terms of Service Follow Follow Prepared and Paid for by Dornink for Minnesota State Senate Committee, District 23 , PO Box 111 Albert Lea, MN 56007

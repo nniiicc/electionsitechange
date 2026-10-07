@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.johnsjaarda.net/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "6f5f37844fd5839128aa75cf820310aec8d41f1d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

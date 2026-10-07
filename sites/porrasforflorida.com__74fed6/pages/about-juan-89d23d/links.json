@@ -1,12 +1,46 @@
 [
-"https://facebook.com/JuanCarlosPorrasFL",
-"https://instagram.com/juancarlosporrasfl",
-"https://porrasforflorida.com/",
-"https://porrasforflorida.com/about-juan",
-"https://porrasforflorida.com/issues",
-"https://porrasforflorida.com/legislative-accomplishments",
-"https://porrasforflorida.com/media",
-"https://porrasforflorida.com/privacy-policy",
-"https://secure.winred.com/juan-carlos-porras-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true",
-"https://twitter.com/juanporrasfl"
+{
+"text": "About",
+"href": "https://www.porrasforflorida.com/about-juan"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/juan-carlos-porras-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Issues",
+"href": "https://www.porrasforflorida.com/issues"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.porrasforflorida.com/legislative-accomplishments"
+},
+{
+"text": "Media",
+"href": "https://www.porrasforflorida.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.porrasforflorida.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/juanporrasfl"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/JuanCarlosPorrasFL/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/juancarlosporrasfl"
+},
+{
+"text": "[image]",
+"href": "https://www.porrasforflorida.com/"
+},
+{
+"text": "[image]",
+"href": "tel:+13054821148"
+}
 ]

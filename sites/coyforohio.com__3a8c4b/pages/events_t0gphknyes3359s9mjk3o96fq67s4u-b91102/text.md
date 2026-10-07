@@ -1,9 +1,2 @@
-Back to All Events
-Please use this link to sign up: https://www.mobilize.us/brianpoindexter/event/1015169/
-Previous
-Previous
-August 29
-Olmsted Falls Canvass Launch!
-Next
-Next
-September 10
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Joint Canvass Launch with Megan Coy, Brian Poindexter and Courtney Scheff Sunday, August 30, 2026 1:00 PM 2:00 PM Google Calendar ICS Please use this link to sign up: https://www.mobilize.us/brianpoindexter/event/1015169/ Previous Previous August 29 Olmsted Falls Canvass Launch!
+Next Next September 10 Megan Coy's Birthday Fundraiser Paid for by Friends of Megan Coy

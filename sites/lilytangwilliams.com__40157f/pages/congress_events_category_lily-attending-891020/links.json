@@ -1,78 +1,342 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress%2F%3Fpost_type%3Dtribe_events%26tribe_events_cat%3Dlily-attending%26ical%3D1%26eventDisplay%3Dlist",
-"https://lilytangwilliams.com/congress",
-"https://lilytangwilliams.com/congress/about",
-"https://lilytangwilliams.com/congress/campaign-blog",
-"https://lilytangwilliams.com/congress/campaign-photos",
-"https://lilytangwilliams.com/congress/contact-us",
-"https://lilytangwilliams.com/congress/donate",
-"https://lilytangwilliams.com/congress/endorsements",
-"https://lilytangwilliams.com/congress/event/10-11-temple-beth-abraham-town-hall-breakfast-nashua",
-"https://lilytangwilliams.com/congress/event/10-13-ask-me-anything-town-hall-concord",
-"https://lilytangwilliams.com/congress/event/10-14-fireside-chat-with-lily-dartmouth-rockefeller-center-hanover",
-"https://lilytangwilliams.com/congress/event/10-15-nhpr-granite-state-news-collaborative-candidate-forum-nh-02-keene",
-"https://lilytangwilliams.com/congress/event/10-19-greater-nashua-chamber-eggs-business-issues-candidate-forum-nashua",
-"https://lilytangwilliams.com/congress/event/10-20-general-debate-new-england-college-henniker-7pm",
-"https://lilytangwilliams.com/congress/event/10-22-ask-me-anything-town-hall-nashua",
-"https://lilytangwilliams.com/congress/event/10-25-temple-adath-yeshurun-brotherhood-candidates-forum-manchester",
-"https://lilytangwilliams.com/congress/event/10-28-wmur-debate-nh-02-manchester",
-"https://lilytangwilliams.com/congress/event/10-3-sen-howard-pearls-5th-annual-oktoberfest-loudon",
-"https://lilytangwilliams.com/congress/event/10-6-ask-me-anything-town-hall-jaffrey",
-"https://lilytangwilliams.com/congress/event/10-7-unh-carsey-school-candidate-policy-forum-nh-02-concord",
-"https://lilytangwilliams.com/congress/event/10-9-coffee-hour-meet-greet-new-hampshire-veterans-home-tilton",
-"https://lilytangwilliams.com/congress/event/team-lily-bow-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/event/team-lily-cheshire-county-gop-meeting",
-"https://lilytangwilliams.com/congress/event/team-lily-claremont-fall-festival-chili-cook-off",
-"https://lilytangwilliams.com/congress/event/team-lily-concord-republican-city-committee-meeting-2",
-"https://lilytangwilliams.com/congress/event/team-lily-deerfield-fair",
-"https://lilytangwilliams.com/congress/event/team-lily-dublin-area-gop-meeting",
-"https://lilytangwilliams.com/congress/event/team-lily-keene-city-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/event/team-lily-keene-pumpkin-festival",
-"https://lilytangwilliams.com/congress/event/team-lily-milford-pumpkin-festival",
-"https://lilytangwilliams.com/congress/event/team-lily-nashua-republican-city-committee-meeting",
-"https://lilytangwilliams.com/congress/event/team-lily-peak-into-peterborough",
-"https://lilytangwilliams.com/congress/event/team-lily-rindge-jaffrey-fitzwilliam-republican-committee-meeting",
-"https://lilytangwilliams.com/congress/event/team-lily-riverfire",
-"https://lilytangwilliams.com/congress/event/team-lily-swanzey-richmond-republican-committee-meeting",
-"https://lilytangwilliams.com/congress/event/team-lily-weare-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/event/team-lily-winchester-republican-committee-meeting-2",
-"https://lilytangwilliams.com/congress/events",
-"https://lilytangwilliams.com/congress/events/category/lily-attending",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/2026-09",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/2026-11",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-01",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-02",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-03",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-05",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-06",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-07",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-09",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-10",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-11",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-13",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-14",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-15",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-17",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-19",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-20",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-21",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-22",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-25",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-28",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/list",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/month",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/month?ical=1",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/month?outlook-ical=1",
-"https://lilytangwilliams.com/congress/events/category/lily-attending/today",
-"https://lilytangwilliams.com/congress/issues",
-"https://lilytangwilliams.com/congress/lilys-affordability-plan",
-"https://lilytangwilliams.com/congress/parents-for-lily",
-"https://lilytangwilliams.com/congress/press-releases",
-"https://lilytangwilliams.com/congress/privacy-policy",
-"https://lilytangwilliams.com/congress/request-yard-sign",
-"https://lilytangwilliams.com/congress/small-businesses-for-lily",
-"https://lilytangwilliams.com/congress/veterans-for-lily",
-"https://lilytangwilliams.com/congress/volunteer",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwww.lilytangwilliams.com%252Fcongress%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dlily-attending%2526eventDisplay%253Dlist%26ical%3D1&name=Lily+Tang+Williams+for+Congress+Lily+Tang+Williams+for+Congress",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwww.lilytangwilliams.com%252Fcongress%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dlily-attending%2526eventDisplay%253Dlist%26ical%3D1&name=Lily+Tang+Williams+for+Congress+Lily+Tang+Williams+for+Congress"
+{
+"text": "+ 1 More",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-17/"
+},
+{
+"text": "1",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-01/"
+},
+{
+"text": "10",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-10/"
+},
+{
+"text": "10/11 – Temple Beth Abraham Town Hall & Breakfast – Nashua",
+"href": "https://www.lilytangwilliams.com/congress/event/10-11-temple-beth-abraham-town-hall-breakfast-nashua/"
+},
+{
+"text": "10/12 – Right Side Broadcasting Network Interview – Virtual",
+"href": "https://www.lilytangwilliams.com/congress/event/10-12-right-side-broadcasting-network-interview-virtual/"
+},
+{
+"text": "10/13 – ASK ME ANYTHING Town Hall – Concord",
+"href": "https://www.lilytangwilliams.com/congress/event/10-13-ask-me-anything-town-hall-concord/"
+},
+{
+"text": "10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover",
+"href": "https://www.lilytangwilliams.com/congress/event/10-14-fireside-chat-with-lily-dartmouth-rockefeller-center-hanover/"
+},
+{
+"text": "10/15 – NHPR / Granite State News Collaborative Candidate Forum (NH-02) – Keene",
+"href": "https://www.lilytangwilliams.com/congress/event/10-15-nhpr-granite-state-news-collaborative-candidate-forum-nh-02-keene/"
+},
+{
+"text": "10/19 – Greater Nashua Chamber “Eggs & Business Issues” Candidate Forum – Nashua",
+"href": "https://www.lilytangwilliams.com/congress/event/10-19-greater-nashua-chamber-eggs-business-issues-candidate-forum-nashua/"
+},
+{
+"text": "10/20 – General Debate – New England College, Henniker, 7pm",
+"href": "https://www.lilytangwilliams.com/congress/event/10-20-general-debate-new-england-college-henniker-7pm/"
+},
+{
+"text": "10/22 – ASK ME ANYTHING Town Hall – Nashua",
+"href": "https://www.lilytangwilliams.com/congress/event/10-22-ask-me-anything-town-hall-nashua/"
+},
+{
+"text": "10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester",
+"href": "https://www.lilytangwilliams.com/congress/event/10-25-temple-adath-yeshurun-brotherhood-candidates-forum-manchester/"
+},
+{
+"text": "10/28 – WMUR Debate (NH-02) – Manchester",
+"href": "https://www.lilytangwilliams.com/congress/event/10-28-wmur-debate-nh-02-manchester/"
+},
+{
+"text": "10/6 – ASK ME ANYTHING Town Hall – Jaffrey",
+"href": "https://www.lilytangwilliams.com/congress/event/10-6-ask-me-anything-town-hall-jaffrey/"
+},
+{
+"text": "10/7 – UNH Carsey School Candidate Policy Forum (NH-02) – Concord",
+"href": "https://www.lilytangwilliams.com/congress/event/10-7-unh-carsey-school-candidate-policy-forum-nh-02-concord/"
+},
+{
+"text": "10/9 – Coffee Hour Meet & Greet – New Hampshire Veterans Home – Tilton",
+"href": "https://www.lilytangwilliams.com/congress/event/10-9-coffee-hour-meet-greet-new-hampshire-veterans-home-tilton/"
+},
+{
+"text": "11",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-11/"
+},
+{
+"text": "12",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-12/"
+},
+{
+"text": "13",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-13/"
+},
+{
+"text": "14",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-14/"
+},
+{
+"text": "15",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-15/"
+},
+{
+"text": "17",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-17/"
+},
+{
+"text": "19",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-19/"
+},
+{
+"text": "2",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-02/"
+},
+{
+"text": "20",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-20/"
+},
+{
+"text": "21",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-21/"
+},
+{
+"text": "22",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-22/"
+},
+{
+"text": "25",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-25/"
+},
+{
+"text": "28",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-28/"
+},
+{
+"text": "3",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-03/"
+},
+{
+"text": "5",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-05/"
+},
+{
+"text": "6",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-06/"
+},
+{
+"text": "7",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-07/"
+},
+{
+"text": "9",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/day/2026-10-09/"
+},
+{
+"text": "Campaign Pictures",
+"href": "https://www.lilytangwilliams.com/congress/campaign-photos/"
+},
+{
+"text": "Contact",
+"href": "https://www.lilytangwilliams.com/congress/contact-us/"
+},
+{
+"text": "Day",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/today/"
+},
+{
+"text": "Donate",
+"href": "https://www.lilytangwilliams.com/congress/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lilytangwilliams.com/congress/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.lilytangwilliams.com/congress/events/"
+},
+{
+"text": "Events",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/"
+},
+{
+"text": "Export .ics file",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/month/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.lilytangwilliams.com%2Fcongress%2F%3Fpost_type%3Dtribe_events%26tribe_events_cat%3Dlily-attending%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Join",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "Lily’s Affordability Plan",
+"href": "https://www.lilytangwilliams.com/congress/lilys-affordability-plan/"
+},
+{
+"text": "Lily’s Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Lily’s Story",
+"href": "https://www.lilytangwilliams.com/congress/about/"
+},
+{
+"text": "List",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/list/"
+},
+{
+"text": "Month",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/month/"
+},
+{
+"text": "News",
+"href": "https://www.lilytangwilliams.com/congress/campaign-blog/"
+},
+{
+"text": "Nov",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/2026-11/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwww.lilytangwilliams.com%252Fcongress%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dlily-attending%2526eventDisplay%253Dlist%26ical%3D1&name=Lily+Tang+Williams+for+Congress+Lily+Tang+Williams+for+Congress"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwww.lilytangwilliams.com%252Fcongress%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dlily-attending%2526eventDisplay%253Dlist%26ical%3D1&name=Lily+Tang+Williams+for+Congress+Lily+Tang+Williams+for+Congress"
+},
+{
+"text": "Parents for Lily",
+"href": "https://www.lilytangwilliams.com/congress/parents-for-lily/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.lilytangwilliams.com/congress/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lilytangwilliams.com/congress/privacy-policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://www.lilytangwilliams.com/congress/request-yard-sign/"
+},
+{
+"text": "Sep",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/2026-09/"
+},
+{
+"text": "Small Businesses for Lily",
+"href": "https://www.lilytangwilliams.com/congress/small-businesses-for-lily/"
+},
+{
+"text": "TEAM LILY – Bow Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-bow-republican-committee-meeting-2/"
+},
+{
+"text": "TEAM LILY – Cheshire County GOP Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-cheshire-county-gop-meeting/"
+},
+{
+"text": "TEAM LILY – Claremont Fall Festival & Chili Cook-Off",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-claremont-fall-festival-chili-cook-off/"
+},
+{
+"text": "TEAM LILY – Concord Republican City Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-concord-republican-city-committee-meeting-2/"
+},
+{
+"text": "TEAM LILY – Deerfield Fair",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-deerfield-fair/"
+},
+{
+"text": "TEAM LILY – Dublin Area GOP Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-dublin-area-gop-meeting/"
+},
+{
+"text": "TEAM LILY – Keene City Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-keene-city-republican-committee-meeting-2/"
+},
+{
+"text": "TEAM LILY – Keene Pumpkin Festival",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-keene-pumpkin-festival/"
+},
+{
+"text": "TEAM LILY – Milford Pumpkin Festival",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-milford-pumpkin-festival/"
+},
+{
+"text": "TEAM LILY – Nashua Republican City Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-nashua-republican-city-committee-meeting/"
+},
+{
+"text": "TEAM LILY – Peak into Peterborough",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-peak-into-peterborough/"
+},
+{
+"text": "TEAM LILY – Rindge-Jaffrey-Fitzwilliam Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-rindge-jaffrey-fitzwilliam-republican-committee-meeting/"
+},
+{
+"text": "TEAM LILY – RiverFire",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-riverfire/"
+},
+{
+"text": "TEAM LILY – Sen. Howard Pearl’s 5th Annual Oktoberfest",
+"href": "https://www.lilytangwilliams.com/congress/event/10-3-sen-howard-pearls-5th-annual-oktoberfest-loudon/"
+},
+{
+"text": "TEAM LILY – Swanzey/Richmond Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-swanzey-richmond-republican-committee-meeting/"
+},
+{
+"text": "TEAM LILY – Weare Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-weare-republican-committee-meeting-2/"
+},
+{
+"text": "TEAM LILY – Winchester Republican Committee Meeting",
+"href": "https://www.lilytangwilliams.com/congress/event/team-lily-winchester-republican-committee-meeting-2/"
+},
+{
+"text": "This Month",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/month/"
+},
+{
+"text": "Veterans for Lily",
+"href": "https://www.lilytangwilliams.com/congress/veterans-for-lily/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "[image: Lily Tang Williams for Congress]",
+"href": "https://www.lilytangwilliams.com/congress/"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/2026-11/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/2026-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.lilytangwilliams.com/congress/?post_type=tribe_events&tribe_events_cat=lily-attending&ical=1&eventDisplay=list"
+}
 ]

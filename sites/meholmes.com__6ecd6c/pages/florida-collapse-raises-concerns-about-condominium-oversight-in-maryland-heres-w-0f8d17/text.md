@@ -1,6 +1,6 @@
-The sudden collapse of the 12-story Champlain Towers South condominium building in Surfside, Florida, was a tragedy of a scale normally associated with natural disasters or terrorist attacks.
+Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues District 23 Endorsements Up Coming Events Menu Close Home About Marvin Issues District 23 Endorsements Up Coming Events Covid-19 Contact Us Get Involved Blog Home / Latest News / Florida collapse raises concerns about condominium oversight in Maryland; here’s what the legislature should do | COMMENTARY Florida collapse raises concerns about condominium oversight in Maryland; here’s what the legislature should do | COMMENTARY Post author: admin Post published: July 8, 2021 Post category: Latest News The sudden collapse of the 12-story Champlain Towers South condominium building in Surfside, Florida, was a tragedy of a scale normally associated with natural disasters or terrorist attacks.
 The exact cause is not yet known and may not be well understood for months yet.
-But while the investigation, cleanup and search for missing people efforts continue, the circumstances strongly point to deterioration in the concrete structure that for several years had not been sufficiently addressed by the governing board of the building’s condominium association.
+But while the investigation, cleanup and search for missing people efforts continue, the circumstances strongly point to deterioration in the concrete structure that for several years had not been sufficiently addressed by the governing board of the building’s condominium association .
 As recently as April, condo owners had been warned that a major renovation was needed in response to serious water damage evident in the basement garage at a cost of more than $15 million.
 While few communities have witnessed a sudden building failure of this magnitude, what is far more commonplace is a condominium development — whether a high-rise, collection of townhouses or low-rise apartments — facing insufficient investment in maintenance and replacement of common assets.
 Civil lawsuits arise from these circumstances fairly routinely.
@@ -20,7 +20,7 @@ The law requires the contractor to be well-qualified and experienced, recognized
 In the wake of the Florida disaster, this appears to be an excellent idea.
 Earlier this year, Del.
 Marvin E.
-Holmes Jr., a Prince George’s Democrat, offered legislation to take his home county’s approach statewide.
+Holmes Jr., a Prince George’s Democrat, offered legislation to take his home county’s approach statewide .
 It passed the House of Delegates by a 2-to-1 margin but never got serious consideration in the state Senate.
 It needs to become a much higher priority in the next legislative session in early 2022.
 As Assistant Maryland Attorney General Karen S.
@@ -28,7 +28,7 @@ Straughn testified in a House committee in January, such assessments may raise f
 The measure even allows condo associations to raise fees higher than whatever local cap may exist.
 Again, that’s because it’s in the owners’ collective financial interest.
 Some developers may oppose the measure.
-But during testimony on House Bill 313, builders did not object to the periodic studies, only asking that there ought to be an exemption for smaller developments with few common assets that are unlikely to generate major new costs.
+But during testimony on House Bill 313 , builders did not object to the periodic studies, only asking that there ought to be an exemption for smaller developments with few common assets that are unlikely to generate major new costs.
 That seems a reasonable point, particularly for projects where the only common spaces are walkways, parking lots and signs.
 There is certainly no reason to make this unduly burdensome.
 Indeed, it’s likely that the folks who will appreciate this level of protection most may be the homeowners who volunteer to serve on the governing boards of common ownership communities.
@@ -37,3 +37,9 @@ The more guardrails the better for these potentially fraught circumstances, part
 Surely, the owners will sleep better knowing that there are periodic assessments of maintenance needs — and the funds to cover them are going to be there when needed.
 Baltimore Sun editorial writers offer opinions and analysis on news and issues relevant to readers.
 They operate separately from the newsroom.
+Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like The Marlton Quarterly September 4, 2021 Today is day-one of the Maryland General Assembly January 14, 2021 Roomy houses, lots of amenities in the Prince George’s community of Perrywood August 19, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
+Holmes, Jr.
+J.
+Frank McGraw, Treasurer © # All Rights Reserved

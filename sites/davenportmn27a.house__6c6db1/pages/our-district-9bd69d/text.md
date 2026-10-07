@@ -1,3 +1,1 @@
-Our District
-Explore MN House District 27A
-Haven ~ Palmer ~ Santiago ~ Clear Lake ~ Becker ~ Orrock ~ Big Lake
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Our District Explore MN House District 27A Haven ~ Palmer ~ Santiago ~ Clear Lake ~ Becker ~ Orrock ~ Big Lake Paid for by Davenport for Minnesota House 27A

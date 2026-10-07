@@ -1,11 +1,5 @@
-Back to All Events
-Congressional Candidate Trygve Hammer will administer the tip-off at the 4 Bears Roar game in New Town on Saturday, April 4.
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events 4 Bears Roar Game Saturday, April 4, 2026 7:00 PM 9:00 PM 4 Bears Event Center 202 Frontage Road New Town, ND (map) Google Calendar ICS Congressional Candidate Trygve Hammer will administer the tip-off at the 4 Bears Roar game in New Town on Saturday, April 4.
 The 4 Bears Roar will play the Grant County Redtails from Mattawa, WA.
 This is The Roar’s first season—they are part of The Basketball League (TBL).
-Previous
-Previous
-March 19
-Meet the Candidate
-Next
-Next
-April 13
+Previous Previous March 19 Meet the Candidate Next Next April 13 Meet the Candidates for Governmental Transparency Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

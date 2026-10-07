@@ -1,5 +1,4 @@
-REPARATIONS
-Throughout the history of this nation, two groups in particular have experienced tragic mistreatment from the United States government.
+0 Skip to Content Stinnett For Senate Home About Main Ideas Open Menu Close Menu Stinnett For Senate Home About Main Ideas Open Menu Close Menu Home About Main Ideas REPARATIONS Jul 28 Written By Curtis Stinnett Throughout the history of this nation, two groups in particular have experienced tragic mistreatment from the United States government.
 Black Americans have an inheritance of trauma from 400 years of slavery and 100 years of Jim Crow.
 Native Americans ancestry dates back on this continent 12,000 years.
 This land is theirs by heritage and in many cases by treaty, all of which was trampled as their land and culture were stolen in an ongoing genocide since the first European settlers arrived.
@@ -17,3 +16,5 @@ Education will be provided at no cost including pre-K through 12 and any college
 Also, child care from birth through pre-K will be covered at no cost.
 These benefits are intended to ensure that for an entire generation no lack of basic necessities will prevent the success and accumulation of generational wealth that was denied systematically over the history of the United States.
 Finally, members of the group currently incarcerated for non-violent crimes would be released and fully enrolled in the benefits of the program.
+Curtis Stinnett Previous Previous Medicare for all Next Next Codify Roe Stinnett For Senate Stinnett4senate@gmail.com Paid for by the Candidate.
+Made with Squarespace

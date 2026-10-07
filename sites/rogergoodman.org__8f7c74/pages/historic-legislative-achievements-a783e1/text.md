@@ -1,5 +1,12 @@
-In contrast to the national political scene, the Washington State Legislature functions quite well, addressing the needs of our families, schools, workers and businesses and making a positive difference in our communities.
+Skip to content Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Volunteer Contact Donate Mailing List Menu Volunteer Contact Donate Mailing List Historic Legislative Achievements In contrast to the national political scene, the Washington State Legislature functions quite well, addressing the needs of our families, schools, workers and businesses and making a positive difference in our communities.
 During the height of the pandemic our legislative work intensified in response to the urgent demands to protect public health, to keep people housed and businesses afloat, and to pave the way for a strong and equitable economic recovery.
 Here in our area, I was busy helping our first responders get the personal protective equipment they needed, I helped health workers obtain their required credentials to work in our over-stressed hospitals, and I helped countless workers navigate through the bureaucracy to qualify for unemployment benefits, among many other demands.
 I also kept closely in touch with parents, teachers and school administrators to ensure that our kids could get the best education possible in the “remote learning” environment.
 It was such a challenging time for all of us.
+Even the Legislature held its sessions entirely remotely, as I and my colleagues were sequestered at home in front of our computer screens conducting public hearings and voting on bills via Zoom teleconference.
+The challenges of the pandemic did not deter us from enacting major legislation, however.
+In fact, the 2021-22 legislative session was the most efficient and productive in recent memory.
+We boosted our public health response to the pandemic and provided critical assistance and relief to small businesses, to tenants facing eviction and to our public schools.
+We passed a transformative package of transportation investments with a sharp focus on social equity and environmental sustainability, and we enacted landmark legislation to cap and curb carbon emissions and the use of fossil fuels.
+Brought to you by: Friends of Roger Goodman 218 Main St.
+PMB 763 Kirkland, WA 98033 Facebook-f

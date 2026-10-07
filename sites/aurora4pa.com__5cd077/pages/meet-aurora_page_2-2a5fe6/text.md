@@ -1,90 +1,36 @@
-Meet Aurora Stuski
-West Norriton resident.
+1-888-995-6699 commonsense@aurora4pa.com Facebook X Instagram Facebook X Instagram Home Donate Volunteer Events Meet Aurora Meet Aurora My Plan to Address the Student Loan Crisis and Make College More Affordable Safer Food, Stronger Farms, Healthier Families Shapiro Lies and Scare Tactics to Take Away Our Freedom Stand with Law Enforcement 🚨 The Academy of Natural Sciences Closure: Coincidence, Crisis — or Political Opportunity for Shapiro?
+A Platform for Strong Families, Safe Communities, and Responsible Growth Faith, Civics, and Our Children’s Future Protecting Our Children PA Families, Water Merger!
+Contact Select Page Meet Aurora Stuski West Norriton resident.
 Business owner.
 Advocate for families, seniors, and taxpayers.
 For over 35 years, Aurora Stuski has called West Norriton home.
 She is a local business owner, a mother of three, and a committed advocate for the people of this community—fighting to protect taxpayers, preserve green space, and ensure government works for residents, not the other way around.
-35 Years of Community, Family, and Commitment
-Aurora Stuski has been a proud West Norriton resident for over three decades.
+Support Aurora Get Involved 35 Years of Community, Family, and Commitment Aurora Stuski has been a proud West Norriton resident for over three decades.
 After moving from Philadelphia in 1987, she built her life, raised her family, and established deep roots in Montgomery County.
 She raised three children here—instilling values of hard work, integrity, and service.
 She often describes herself as a “fierce Mamabear patriot,” driven by a commitment to protect families and future generations.
 Aurora understands firsthand the challenges facing local residents—especially seniors on fixed incomes and families trying to build a stable future in an increasingly expensive region.
 The bigger the government, the smaller the citizen.
 Aurora believes in limited government, personal responsibility, and putting the residents of PA’s 4th Congressional District first.
-A Proven Professional with Decades of Experience
-Aurora is the Founder and Owner of AAS Appraisal Lab, serving Montgomery County since 1989.
-As a Graduate Gemologist and jewelry expert, she provides:
-- Appraisal services for jewelry, coins, and collectibles
-- Expert witness testimony
-- Estate valuation and liquidation services
-- Insurance claim arbitration and consumer advocacy
-Her work often places her directly between clients and insurance companies—where she fights to ensure fair outcomes and protect individuals during complex and high-stakes situations.
+A Proven Professional with Decades of Experience Aurora is the Founder and Owner of AAS Appraisal Lab, serving Montgomery County since 1989.
+As a Graduate Gemologist and jewelry expert, she provides: Appraisal services for jewelry, coins, and collectibles Expert witness testimony Estate valuation and liquidation services Insurance claim arbitration and consumer advocacy Her work often places her directly between clients and insurance companies—where she fights to ensure fair outcomes and protect individuals during complex and high-stakes situations.
 Earlier in her career, Aurora worked in the architectural field, contributing to proposal development and managing accounts receivable for a national firm building hospitals and healthcare facilities.
 Aurora is a gem.
-Fighting for Those Who Need It Most
-Aurora has long been a voice for children, families, and the elderly.
+Fighting for Those Who Need It Most Aurora has long been a voice for children, families, and the elderly.
 Her advocacy is deeply personal.
 She speaks openly about the challenges she faced growing up in Philadelphia, and how those experiences shaped her commitment to helping others.
-She is especially focused on:
-- Reducing the tax burden on homeowners
-- Protecting seniors from being forced out of their homes
-- Preserving green space in West Norriton
-- Supporting strong, community-centered education
-As a board member of West Norriton United, she works across political lines to protect the township’s future and quality of life.
-A Record of Action and Leadership
-Aurora has consistently stepped forward to serve her community and engage in the political process at every level.
-Leadership & Roles:
-- MCRC Area 8 Vice Chair (2024–Present)
-- West Norriton Republican Committee Chair (2024–Present)
-- West Norriton 4-1 Committee Person (2022–Present)
-- Candidate for GOP State Committee
-- Elected Delegate to the Republican National Convention (CD-4)
-- Candidate for Montgomery County Commissioner and West Norriton Commissioner
-Decades of Grassroots Engagement
-Early Political Involvement (1973–1983)
-Aurora began her political journey working on the Charles F.
+She is especially focused on: Reducing the tax burden on homeowners Protecting seniors from being forced out of their homes Preserving green space in West Norriton Supporting strong, community-centered education As a board member of West Norriton United, she works across political lines to protect the township’s future and quality of life.
+A Record of Action and Leadership Aurora has consistently stepped forward to serve her community and engage in the political process at every level.
+Leadership & Roles: MCRC Area 8 Vice Chair (2024–Present) West Norriton Republican Committee Chair (2024–Present) West Norriton 4-1 Committee Person (2022–Present) Candidate for GOP State Committee Elected Delegate to the Republican National Convention (CD-4) Candidate for Montgomery County Commissioner and West Norriton Commissioner Decades of Grassroots Engagement Early Political Involvement (1973–1983) Aurora began her political journey working on the Charles F.
 Dougherty congressional campaign—canvassing, preparing mailings, and supporting outreach efforts.
-1987
-Moved from Philadelphia to Montgomery County, where she would build her life and career.
-1989–1995
-Volunteered for the Ernie Preate campaign for Attorney General and remained active in community initiatives.
-2005–2018
-Focused on raising her three children while continuing community service, including:
-- Homeroom Mom leadership
-- Volunteer work in soup kitchens
-- Organizing donation drives for families in need
-2019–2021
-Volunteered for Kathy Barnette’s congressional and Senate campaigns, contributing to grassroots outreach and voter engagement across Pennsylvania.
-2020–2022
-Re-entered political activism in response to COVID-era policies affecting families:
-- Census Worker in Montgomery County
-- Advocate for in-person education
-- Active in parent-led education groups
-- Poll watcher and election integrity volunteer
-- Organized drop-box monitoring efforts
-- Ran a successful write-in campaign for Committee Person (115 votes)
-- Canvassed over 1,400 households for multiple campaigns
-2022–Present
-Expanded leadership roles and regional influence:
-- Vice Chair → Chair of West Norriton Republican Committee
-- Vice Chair of MCRC Area 8
-- Trump Force Captain
-- Delegate to the Republican National Convention
-Education & Professional Training
-- Bachelor of Fine Arts — Arcadia University
-- Minor in Business Administration — Arcadia University
-- Graduate Gemologist — Gemological Institute of America
-Stand with Aurora
-Aurora Stuski is committed to protecting families, lowering taxes, and preserving the values that make Montgomery and Berks Counties strong.
-Protecting Our Children:
-Human Trafficking, Artificial Intelligence, and the Responsibility to Act Berks County Patriots Meeting – Part II The second presentation of a Berks County Patriots meeting this year was difficult to hear but impossible to ignore.
-It focused on one of the…
-Faith, Civics, and Our Children’s Future
-Berks County Patriots Meeting Reflections On Thursday, June 18th, I visited my friends at the Berks County Patriots, where there were very riveting speakers all relating to something that should be at the forefront of our minds every day—our children and our…
-Supporting Those Who Serve: Why I Stand With Law Enforcement
-I grew up in Philadelphia, and both my uncle and my cousin served as Philadelphia police officers.
+1987 Moved from Philadelphia to Montgomery County, where she would build her life and career.
+1989–1995 Volunteered for the Ernie Preate campaign for Attorney General and remained active in community initiatives.
+2005–2018 Focused on raising her three children while continuing community service, including: Homeroom Mom leadership Volunteer work in soup kitchens Organizing donation drives for families in need 2019–2021 Volunteered for Kathy Barnette’s congressional and Senate campaigns, contributing to grassroots outreach and voter engagement across Pennsylvania.
+2020–2022 Re-entered political activism in response to COVID-era policies affecting families: Census Worker in Montgomery County Advocate for in-person education Active in parent-led education groups Poll watcher and election integrity volunteer Organized drop-box monitoring efforts Ran a successful write-in campaign for Committee Person (115 votes) Canvassed over 1,400 households for multiple campaigns 2022–Present Expanded leadership roles and regional influence: Vice Chair → Chair of West Norriton Republican Committee Vice Chair of MCRC Area 8 Trump Force Captain Delegate to the Republican National Convention Education & Professional Training Bachelor of Fine Arts — Arcadia University Minor in Business Administration — Arcadia University Graduate Gemologist — Gemological Institute of America Stand with Aurora Aurora Stuski is committed to protecting families, lowering taxes, and preserving the values that make Montgomery and Berks Counties strong.
+Donate Now Volunteer Contact Aurora Protecting Our Children: by Aurora Stuski | Jul, 2026 | PA-04 Issues Human Trafficking, Artificial Intelligence, and the Responsibility to Act Berks County Patriots Meeting – Part II The second presentation of a Berks County Patriots meeting this year was difficult to hear but impossible to ignore.
+It focused on one of the… read more… Faith, Civics, and Our Children’s Future by Aurora Stuski | Jun, 2026 | PA-04 Issues Berks County Patriots Meeting Reflections On Thursday, June 18th, I visited my friends at the Berks County Patriots, where there were very riveting speakers all relating to something that should be at the forefront of our minds every day—our children and our… read more… Supporting Those Who Serve: Why I Stand With Law Enforcement by Aurora Stuski | Jun, 2026 | PA-04 Issues I grew up in Philadelphia, and both my uncle and my cousin served as Philadelphia police officers.
 I’m going to show my age a little here, but I grew up in a time when information wasn’t instantly available at our fingertips.
-If there was a report on the evening news…
-Pennsylvania Families Should Be Paying Attention to This Water Merger
-Proposed big water merger between Pennsylvania American Water (PAWC) and Essential Utilities will be good for data centers but not families.
+If there was a report on the evening news… read more… Pennsylvania Families Should Be Paying Attention to This Water Merger by Aurora Stuski | May, 2026 | PA-04 Issues Proposed big water merger between Pennsylvania American Water (PAWC) and Essential Utilities will be good for data centers but not families. read more… Next Entries » Follow Follow Follow Friends of Aurora Stuski, PO Box 117, Eagleville, PA 19408 Home Events Donate Volunteer Meet Aurora Contact Privacy Policy Cookie Policy Facebook X Instagram Paid for by Friends of Aurora Stuski.
+Copyright # Aurora Stuski.
+Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window)

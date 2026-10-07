@@ -1,5 +1,4 @@
-FREQUENTLY ASKED QUESTIONS
-Who is Zach Herbert?
+Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact FREQUENTLY ASKED QUESTIONS Who is Zach Herbert?
 Zach Herbert is a Marine Corps veteran, trial attorney, small business owner, and father of four children enrolled in Richardson public schools.
 He is running for the Texas House District 112 seat as the Democratic nominee.
 When is the election for Texas House District 112?
@@ -66,3 +65,5 @@ What is Zach Herbert's position on property taxes?
 Zach Herbert has called for property tax relief that actually lowers bills rather than relying on accounting or budget shifts that don’t provide real relief to homeowners.
 Who has endorsed Zach Herbert?
 Zach Herbert’s listed endorsers include RAD (Richardson Area Democrats), Texas AFL-CIO, Planned Parenthood, Moms Demand Action, Texas American Federation of Teachers (Texas AFT), Texas State Teachers Association (TSTA), Garland Area Democratic Club, VoteVets, Stonewall Democrats of Dallas, Asian Texans for Justice Action Fund, Climate Cabinet, National Democratic Redistricting Committee (NDRC).
+2600 N Central Expy, Suite 200, Richardson, TX 75080 214-414-3808 Paid Political Advertisement, Zach Herbert for Texas Campaign Zach Herbert is a former member of the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Marine Corps, the Department of Defense or any branch of U.S. government.

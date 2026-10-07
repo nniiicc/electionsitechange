@@ -1,5 +1,4 @@
-About Mackenzie Miller
-I’m a parent, a Navy veteran, and a working-family advocate who believes public service should be rooted in integrity, accountability, and showing up for the people you represent.
+0 Skip to Content ISSUES ENDORSEMENTS ABOUT DONATE Open Menu Close Menu ISSUES ENDORSEMENTS ABOUT DONATE Open Menu Close Menu ISSUES ENDORSEMENTS ABOUT DONATE About Mackenzie Miller I’m a parent, a Navy veteran, and a working-family advocate who believes public service should be rooted in integrity, accountability, and showing up for the people you represent.
 My service in the U.S.
 Navy taught me the value of teamwork, responsibility, and getting a job done effectively.
 I believe leadership isn’t about titles or politics, but about listening, being prepared, and taking responsibility for the outcomes of your decisions.
@@ -18,7 +17,6 @@ I believe we can do better by listening to data, working through our differences
 I’m running to be an accessible, hardworking representative who shows up, listens, and works with others to deliver results for District 11 and all of Utah.
 I believe that being a public servant means just that; I am here to serve the public with honor, integrity, and transparency.
 Utahn families deserve leaders who respect their time, their careers, their families and their futures, and that’s the kind of leadership I’m committed to bringing to the Legislature.
-Contact us
-Interested in working together?
+Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!

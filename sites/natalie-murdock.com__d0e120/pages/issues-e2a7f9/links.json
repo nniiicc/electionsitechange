@@ -1,43 +1,222 @@
 [
-"http://ncpublicschools.org/fbs/finance/salary",
-"https://accessnc.nccommerce.com/DemoGraphicsReports/pdfs/countyProfile/NC/37063.pdf",
-"https://americashealthrankings.org/explore/annual/measure/Overall/state/NC",
-"https://americashealthrankings.org/explore/annual/measure/air/state/NC",
-"https://carolinasmallbusiness.org/impact/policy-and-research",
-"https://cdn.advocacy.sba.gov/wp-content/uploads/2019/04/23142650/2019-Small-Business-Profiles-NC.pdf",
-"https://dpsnc.net/cms/lib/NC01911152/Centricity/Domain/77/2018-19_Certified_Salary_Supplement_Packet_06282018.pdf",
-"https://dropbox.com/s/db5i4sct9xdnv3l/THE%20YEAR%20IN%20ELECTIONS%20UPDATE%202016%2015%20Sept%202016.pdf?dl=0",
-"https://edweek.org/ew/articles/2019/01/16/highlights-report-north-carolina.html",
-"https://edweek.org/ew/collections/quality-counts-2019-state-achievement/index.html",
-"https://environmentamerica.org/sites/environment/files/reports/GetTheLeadOut_032119.pdf",
-"https://environmentnorthcarolina.org/programs/nce/offshore-wind-nc",
-"https://environmentnorthcarolina.org/sites/environment/files/reports/NCE_Renewables-on-the-Rise_Jul18-Web.pdf",
-"https://facebook.com/NatalieforNC",
-"https://healthydurham.org/cms/wp-content/uploads/2019/09/2018-Durham-County-SOTCH-Final-Corrected-09302019.pdf",
-"https://natalie-murdock.com/",
-"https://natalie-murdock.com/accomplishments",
-"https://natalie-murdock.com/cdn-cgi/l/email-protection",
-"https://natalie-murdock.com/contact",
-"https://natalie-murdock.com/donate",
-"https://natalie-murdock.com/endorse",
-"https://natalie-murdock.com/endorsements",
-"https://natalie-murdock.com/events",
-"https://natalie-murdock.com/issues",
-"https://natalie-murdock.com/meet-natalie",
-"https://natalie-murdock.com/press",
-"https://natalie-murdock.com/press/blog",
-"https://natalie-murdock.com/volunteer",
-"https://ncchild.org/wp-content/uploads/2014/05/2013_STPP-FINAL.pdf",
-"https://ncforum.org/2019-local-school-finance-study",
-"https://nchealthworkforce.unc.edu/",
-"https://ncleg.gov/documentsites/committees/House2017-190/Student%20Health%20Working%20Group/4-23-18%20Meeting/Draft%20Recommendations/Subcommittee%20on%20Student%20Health%20Draft%20Findings%20and%20Recommendations.pdf",
-"https://niche.com/k12/d/durham-public-schools-nc",
-"https://nwlc.org/wp-content/uploads/2019/05/North-Carolina-childcare-subsidy2018.pdf",
-"https://prisonpolicy.org/profiles/NC.html",
-"https://publichealth.nc.gov/wch/aboutus/schoolnurses.htm",
-"https://seia.org/state-solar-policy/north-carolina-solar",
-"https://southerncoalition.org/resources/racial-equity-report-cards",
-"https://timeshighereducation.com/student/best-universities/best-public-universities-united-states",
-"https://twitter.com/NatalieforNC",
-"https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y"
+{
+"text": "$23,262",
+"href": "http://www.ncpublicschools.org/fbs/finance/salary/"
+},
+{
+"text": "$23,546",
+"href": "http://www.ncpublicschools.org/fbs/finance/salary/"
+},
+{
+"text": "$3,000",
+"href": "https://www.edweek.org/ew/articles/2019/01/16/highlights-report-north-carolina.html"
+},
+{
+"text": "$35,000",
+"href": "http://www.ncpublicschools.org/fbs/finance/salary/"
+},
+{
+"text": "$39,900",
+"href": "https://www.dpsnc.net/cms/lib/NC01911152/Centricity/Domain/77/2018-19_Certified_Salary_Supplement_Packet_06282018.pdf"
+},
+{
+"text": "$8 billion",
+"href": "https://www.ncforum.org/2019-local-school-finance-study/"
+},
+{
+"text": "100",
+"href": "https://www.ncleg.gov/documentsites/committees/House2017-190/Student%20Health%20Working%20Group/4-23-18%20Meeting/Draft%20Recommendations/Subcommittee%20on%20Student%20Health%20Draft%20Findings%20and%20Recommendations.pdf"
+},
+{
+"text": "12%",
+"href": "https://accessnc.nccommerce.com/DemoGraphicsReports/pdfs/countyProfile/NC/37063.pdf"
+},
+{
+"text": "160,000",
+"href": "https://www.prisonpolicy.org/profiles/NC.html"
+},
+{
+"text": "20%",
+"href": "https://environmentnorthcarolina.org/programs/nce/offshore-wind-nc"
+},
+{
+"text": "22nd",
+"href": "https://www.americashealthrankings.org/explore/annual/measure/air/state/NC"
+},
+{
+"text": "24 percent",
+"href": "https://www.ncforum.org/2019-local-school-finance-study/"
+},
+{
+"text": "30th",
+"href": "https://environmentnorthcarolina.org/sites/environment/files/reports/NCE_Renewables-on-the-Rise_Jul18-Web.pdf"
+},
+{
+"text": "33rd",
+"href": "https://www.americashealthrankings.org/explore/annual/measure/Overall/state/NC"
+},
+{
+"text": "35%",
+"href": "https://www.niche.com/k12/d/durham-public-schools-nc/"
+},
+{
+"text": "36%",
+"href": "https://carolinasmallbusiness.org/impact/policy-and-research/"
+},
+{
+"text": "36%",
+"href": "https://www.niche.com/k12/d/durham-public-schools-nc/"
+},
+{
+"text": "48%",
+"href": "https://publichealth.nc.gov/wch/aboutus/schoolnurses.htm"
+},
+{
+"text": "50,742",
+"href": "https://nwlc.org/wp-content/uploads/2019/05/North-Carolina-childcare-subsidy2018.pdf"
+},
+{
+"text": "53%",
+"href": "https://carolinasmallbusiness.org/impact/policy-and-research/"
+},
+{
+"text": "58 out of 100",
+"href": "https://www.dropbox.com/s/db5i4sct9xdnv3l/THE%20YEAR%20IN%20ELECTIONS%20UPDATE%202016%2015%20Sept%202016.pdf?dl=0"
+},
+{
+"text": "7/100",
+"href": "https://www.dropbox.com/s/db5i4sct9xdnv3l/THE%20YEAR%20IN%20ELECTIONS%20UPDATE%202016%2015%20Sept%202016.pdf?dl=0"
+},
+{
+"text": "805,985",
+"href": "https://carolinasmallbusiness.org/impact/policy-and-research/"
+},
+{
+"text": "Blog",
+"href": "https://natalie-murdock.com/press/blog/"
+},
+{
+"text": "Contact",
+"href": "https://natalie-murdock.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://natalie-murdock.com/donate/"
+},
+{
+"text": "Endorse Natalie",
+"href": "https://natalie-murdock.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://natalie-murdock.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://natalie-murdock.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/NatalieforNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/NatalieforNC"
+},
+{
+"text": "Home",
+"href": "https://natalie-murdock.com/"
+},
+{
+"text": "JOIN NATALIE",
+"href": "https://natalie-murdock.com/volunteer/"
+},
+{
+"text": "Meet Natalie",
+"href": "https://natalie-murdock.com/meet-natalie/"
+},
+{
+"text": "Natalie’s Accomplishments",
+"href": "https://natalie-murdock.com/accomplishments/"
+},
+{
+"text": "Platform",
+"href": "https://natalie-murdock.com/issues/"
+},
+{
+"text": "Press",
+"href": "https://natalie-murdock.com/press/"
+},
+{
+"text": "Report",
+"href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y"
+},
+{
+"text": "Studies",
+"href": "https://www.ncchild.org/wp-content/uploads/2014/05/2013_STPP-FINAL.pdf"
+},
+{
+"text": "Twenty",
+"href": "https://nchealthworkforce.unc.edu/"
+},
+{
+"text": "Volunteer",
+"href": "https://natalie-murdock.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "https://natalie-murdock.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Natalie Murdock for NC Senate]",
+"href": "https://natalie-murdock.com/"
+},
+{
+"text": "assessment",
+"href": "https://healthydurham.org/cms/wp-content/uploads/2019/09/2018-Durham-County-SOTCH-Final-Corrected-09302019.pdf"
+},
+{
+"text": "best states",
+"href": "https://www.timeshighereducation.com/student/best-universities/best-public-universities-united-states"
+},
+{
+"text": "data",
+"href": "https://www.southerncoalition.org/resources/racial-equity-report-cards/"
+},
+{
+"text": "five",
+"href": "https://www.timeshighereducation.com/student/best-universities/best-public-universities-united-states"
+},
+{
+"text": "half",
+"href": "https://cdn.advocacy.sba.gov/wp-content/uploads/2019/04/23142650/2019-Small-Business-Profiles-NC.pdf"
+},
+{
+"text": "higher",
+"href": "https://www.prisonpolicy.org/profiles/NC.html"
+},
+{
+"text": "increasing",
+"href": "https://www.prisonpolicy.org/profiles/NC.html"
+},
+{
+"text": "report",
+"href": "https://environmentamerica.org/sites/environment/files/reports/GetTheLeadOut_032119.pdf"
+},
+{
+"text": "report",
+"href": "https://www.edweek.org/ew/collections/quality-counts-2019-state-achievement/index.html"
+},
+{
+"text": "second",
+"href": "https://www.seia.org/state-solar-policy/north-carolina-solar"
+},
+{
+"text": "three",
+"href": "https://nchealthworkforce.unc.edu/"
+},
+{
+"text": "three",
+"href": "https://www.ncleg.gov/documentsites/committees/House2017-190/Student%20Health%20Working%20Group/4-23-18%20Meeting/Draft%20Recommendations/Subcommittee%20on%20Student%20Health%20Draft%20Findings%20and%20Recommendations.pdf"
+}
 ]

@@ -1,7 +1,34 @@
 [
-"https://facebook.com/Westin4RI",
-"https://secure.anedot.com/westin4ri/donate",
-"https://westin4ri.com/",
-"https://westin4ri.com/political-values",
-"https://westin4ri.com/volunteer"
+{
+"text": "Contact",
+"href": "https://westin4ri.com/political-values/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/westin4ri/donate"
+},
+{
+"text": "Goals",
+"href": "https://westin4ri.com/political-values/#goals"
+},
+{
+"text": "Home",
+"href": "https://westin4ri.com/"
+},
+{
+"text": "Political Values",
+"href": "https://westin4ri.com/political-values/"
+},
+{
+"text": "Volunteer",
+"href": "https://westin4ri.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://westin4ri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Westin4RI"
+}
 ]

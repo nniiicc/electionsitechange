@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://krisfair.com/donate",
- "paid_for_by": null,
+ "fingerprint": "c1f4a8861a3e93902fbb28ea6b7c9603d8497599",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

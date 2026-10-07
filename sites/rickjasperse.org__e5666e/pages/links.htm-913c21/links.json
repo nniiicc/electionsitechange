@@ -1,84 +1,338 @@
 [
-"http://calhountimes.com/",
-"http://careers.ga.gov/",
-"http://chatsworthtimes.com/",
-"http://consumer.georgia.gov/00/article/0,2086,5426814_39039081_39480072,00.html",
-"http://dca.state.ga.us/housing/Homeownership/programs/GeorgiaDream.asp",
-"http://dca.state.ga.us/housing/HousingDevelopment/programs/downloads/landlord/intro.html",
-"http://dch.georgia.gov/00/channel_title/0,2094,31446711_33935684,00.html",
-"http://dds.ga.gov/",
-"http://dds.ga.gov/FormsandManuals/index.aspx",
-"http://decal.state.ga.us/PreK/PreKMain.aspx",
-"http://dol.state.ga.us/js",
-"http://dol.state.ga.us/js/job_info_system.htm",
-"http://dot.state.ga.us/maps/Pages/default.aspx",
-"http://etax.dor.ga.gov/inctax/individual_income_tax_forms.aspx",
-"http://etax.dor.ga.gov/inctax/partnership_information_and_repo.aspx",
-"http://fueleconomy.gov/feg/gasprices/states/GA.shtml",
-"http://gacollege411.org/",
-"http://gacollege411.org/FinAid/ScholarshipsAndGrants/HOPEScholarship/default.asp",
-"http://gainsurance.org/ConsumerService/RateComparisons-Auto.aspx",
-"http://ganocall.com/",
-"http://gastateparks.org/",
-"http://gbi.georgia.gov/00/channel_modifieddate/0,2096,67862954_87983024,00.html",
-"http://gcbe.org/education/district/district.php?sectionid=1",
-"http://gema.state.ga.us/",
-"http://georgia-navigator.com/",
-"http://georgia.gov/00/channel_title/0,2094,4802_5009,00.html",
-"http://georgia.gov/00/channel_title/0,2094,5426814_39102589,00.html",
-"http://georgia.gov/00/channel_title/0,2094,5426814_39105738,00.html",
-"http://georgia.gov/00/channel_title/0,2094,5426814_39212696,00.html",
-"http://georgia.gov/00/maps/0,2555,4802_83232380,00.html",
-"http://georgia.org/Travel/FamilyTravel",
-"http://georgia.org/Travel/SpecialOffers.htm",
-"http://georgia911.org/02/gema/home/0,2538,55974416,00.html",
-"http://georgiawildlife.dnr.state.ga.us/",
-"http://gfc.state.ga.us/OnlinePermits",
-"http://gnpec.org/MainMenu.asp",
-"http://gordonchamber.org/",
-"http://gordoncounty.org/",
-"http://gpc.dhr.georgia.gov/portal/site/DHR-GPC",
-"http://inscomm.state.ga.us/Agents/AgentStatus.aspx",
-"http://itsmarta.com/",
-"http://keepgeorgiabeautiful.org/default.asp",
-"http://knowpickens.com/",
-"http://murray.k12.ga.us/",
-"http://murraycountychamber.org/",
-"http://murraycountyga.org/index.aspx?NID=27",
-"http://nces.ed.gov/globallocator",
-"http://newgeorgiaencyclopedia.org/nge/Home.jsp",
-"http://path2college529.com/index.html",
-"http://peachcare.org/",
-"http://pickenschamber.com/",
-"http://pickenscountyga.gov/",
-"http://pickenscountyschools.org/",
-"http://pickensprogress.com/",
-"http://privateschoolreview.com/state_private_schools/stateid/GA",
-"http://psc.state.ga.us/calc/calculators.asp",
-"http://public.doe.k12.ga.us/",
-"http://public.doe.k12.ga.us/findaschool.aspx?RegionID=ALL",
-"http://sbwc.georgia.gov/00/channel_modifieddate/0,2096,11394008_11400551,00.html",
-"http://sdvs.georgia.gov/00/channel_title/0,2094,26646926_26692185,00.html",
-"http://sdvs.georgia.gov/02/sdvs/home/0,2456,26646926,00.html",
-"http://services.georgia.gov/dch/mebs/jsp/index.jsp",
-"http://theagapecenter.com/Hospitals/Georgia.htm",
-"http://thelmalou.pap.state.ga.us/pls/web/georgia_profile_pkg.entry_form",
-"http://usg.edu/inst",
-"http://waittime.tsa.dhs.gov/index.html",
-"http://web.georgia.org/net/content/search.aspx?s=0.0.26.3011",
-"http://welcome.bbb.org/",
-"https://facebook.com/rick.jasperse",
-"https://instagram.com/rick.jasperse",
-"https://online.dds.ga.gov/DlAddressChange",
-"https://rickjasperse.org/",
-"https://rickjasperse.org/contactrick.htm",
-"https://rickjasperse.org/issues.htm",
-"https://rickjasperse.org/links.htm",
-"https://rickjasperse.org/meetrick.htm",
-"https://rickjasperse.org/needhelp.htm",
-"https://rickjasperse.org/news.htm",
-"https://rickjasperse.org/privacy.html",
-"https://rickjasperse.org/support.htm",
-"https://twitter.com/rickjasperse",
-"https://youtube.com/user/rickjasperse"
+{
+"text": "ASK RICK",
+"href": "https://www.rickjasperse.org/contactrick.htm"
+},
+{
+"text": "Appying to Medicaid",
+"href": "http://dch.georgia.gov/00/channel_title/0,2094,31446711_33935684,00.html"
+},
+{
+"text": "Benefits for Veterans",
+"href": "http://sdvs.georgia.gov/00/channel_title/0,2094,26646926_26692185,00.html"
+},
+{
+"text": "Better Business Bureau",
+"href": "http://welcome.bbb.org/"
+},
+{
+"text": "Calhoun Times - Local Newspaper",
+"href": "http://www.calhountimes.com/"
+},
+{
+"text": "Chatsworth Times - Local Newspaper",
+"href": "http://chatsworthtimes.com/"
+},
+{
+"text": "Comparison of Automobile Insurance Rates",
+"href": "http://www.gainsurance.org/ConsumerService/RateComparisons-Auto.aspx"
+},
+{
+"text": "Consumer Alerts— Notices and Product Recalls",
+"href": "http://www.georgia.gov/00/channel_title/0,2094,5426814_39212696,00.html"
+},
+{
+"text": "Driver’s License Address Change",
+"href": "https://online.dds.ga.gov/DlAddressChange/"
+},
+{
+"text": "Driver’s License Forms and Manuals",
+"href": "http://www.dds.ga.gov/FormsandManuals/index.aspx"
+},
+{
+"text": "Email Rick",
+"href": "mailto:rick@rickjasperse.org"
+},
+{
+"text": "File a Consumer Complaint",
+"href": "http://www.georgia.gov/00/channel_title/0,2094,5426814_39102589,00.html"
+},
+{
+"text": "Find a Career in State Government",
+"href": "http://www.careers.ga.gov/"
+},
+{
+"text": "Find a Public School",
+"href": "http://public.doe.k12.ga.us/findaschool.aspx?RegionID=ALL"
+},
+{
+"text": "GA Do Not Call List",
+"href": "http://www.ganocall.com/"
+},
+{
+"text": "GAcollege411",
+"href": "http://www.gacollege411.org/"
+},
+{
+"text": "GEMA— Georgia Emergency Management System",
+"href": "http://www.gema.state.ga.us/"
+},
+{
+"text": "Georgia Colleges and Universities",
+"href": "http://www.usg.edu/inst/"
+},
+{
+"text": "Georgia DNR— Wildlife Resources Division",
+"href": "http://georgiawildlife.dnr.state.ga.us/"
+},
+{
+"text": "Georgia DOT Maps",
+"href": "http://www.dot.state.ga.us/maps/Pages/default.aspx"
+},
+{
+"text": "Georgia Department of Early Care and Learning",
+"href": "http://www.decal.state.ga.us/PreK/PreKMain.aspx"
+},
+{
+"text": "Georgia Department of Education",
+"href": "http://public.doe.k12.ga.us/"
+},
+{
+"text": "Georgia Department of Veterans Service",
+"href": "http://sdvs.georgia.gov/02/sdvs/home/0,2456,26646926,00.html;jsessionid=8A9FBB1F4800C96D4803A1CB0E15CAC2"
+},
+{
+"text": "Georgia Dream Homeownership Program",
+"href": "http://www.dca.state.ga.us/housing/Homeownership/programs/GeorgiaDream.asp"
+},
+{
+"text": "Georgia Family Travel",
+"href": "http://www.georgia.org/Travel/FamilyTravel/"
+},
+{
+"text": "Georgia Job Bank",
+"href": "http://www.dol.state.ga.us/js/job_info_system.htm"
+},
+{
+"text": "Georgia Private School Review",
+"href": "http://www.privateschoolreview.com/state_private_schools/stateid/GA"
+},
+{
+"text": "Georgia State Parks & Historic Sites",
+"href": "http://www.gastateparks.org/"
+},
+{
+"text": "Georgia Tourism Search Engine",
+"href": "http://web.georgia.org/net/content/search.aspx?s=0.0.26.3011"
+},
+{
+"text": "Georgia911.org",
+"href": "http://georgia911.org/02/gema/home/0,2538,55974416,00.html"
+},
+{
+"text": "Gordon Chamber of Commerce",
+"href": "http://gordonchamber.org/"
+},
+{
+"text": "Gordon County Government",
+"href": "http://www.gordoncounty.org/"
+},
+{
+"text": "Gordon County Schools",
+"href": "http://www.gcbe.org/education/district/district.php?sectionid=1"
+},
+{
+"text": "HOPE Scholarship",
+"href": "http://www.gacollege411.org/FinAid/ScholarshipsAndGrants/HOPEScholarship/default.asp"
+},
+{
+"text": "ISSUES",
+"href": "https://www.rickjasperse.org/issues.htm"
+},
+{
+"text": "Individual Income Tax Forms",
+"href": "http://www.etax.dor.ga.gov/inctax/individual_income_tax_forms.aspx"
+},
+{
+"text": "Info for Job Seekers",
+"href": "http://www.dol.state.ga.us/js/"
+},
+{
+"text": "Insurance Agent Status Search",
+"href": "http://www.inscomm.state.ga.us/Agents/AgentStatus.aspx"
+},
+{
+"text": "Keep Georgia Beautiful",
+"href": "http://www.keepgeorgiabeautiful.org/default.asp"
+},
+{
+"text": "Know Thy Neighbor Parolee Database",
+"href": "http://thelmalou.pap.state.ga.us/pls/web/georgia_profile_pkg.entry_form"
+},
+{
+"text": "KnowPickens.com - Community Website",
+"href": "http://www.knowpickens.com"
+},
+{
+"text": "LINKS",
+"href": "https://www.rickjasperse.org/links.htm"
+},
+{
+"text": "Landlord/Tenant Handbook",
+"href": "http://www.dca.state.ga.us/housing/HousingDevelopment/programs/downloads/landlord/intro.html"
+},
+{
+"text": "Lemon Law Complaint",
+"href": "http://www.georgia.gov/00/channel_title/0,2094,5426814_39105738,00.html"
+},
+{
+"text": "Links to Gasoline Price Data for Georgia",
+"href": "http://www.fueleconomy.gov/feg/gasprices/states/GA.shtml"
+},
+{
+"text": "List of Georgia Hospitals and Medical Centers",
+"href": "http://www.theagapecenter.com/Hospitals/Georgia.htm"
+},
+{
+"text": "MARTA",
+"href": "http://www.itsmarta.com/"
+},
+{
+"text": "MEET RICK",
+"href": "https://www.rickjasperse.org/meetrick.htm"
+},
+{
+"text": "Murray Chamber of Commerce",
+"href": "http://www.murraycountychamber.org/"
+},
+{
+"text": "Murray County Government",
+"href": "http://www.murraycountyga.org/index.aspx?NID=27"
+},
+{
+"text": "Murry County Schools",
+"href": "http://www.murray.k12.ga.us/"
+},
+{
+"text": "NEED HELP",
+"href": "https://www.rickjasperse.org/needhelp.htm"
+},
+{
+"text": "NEWS",
+"href": "https://www.rickjasperse.org/news.htm"
+},
+{
+"text": "National Center for Education Statistics",
+"href": "http://nces.ed.gov/globallocator/"
+},
+{
+"text": "Obtain a Burning Permit",
+"href": "http://www.gfc.state.ga.us/OnlinePermits/"
+},
+{
+"text": "Partnership Income Tax Forms",
+"href": "http://www.etax.dor.ga.gov/inctax/partnership_information_and_repo.aspx"
+},
+{
+"text": "Path2College 529 Plan",
+"href": "http://www.path2college529.com/index.html"
+},
+{
+"text": "PeachCare for Kids",
+"href": "http://www.peachcare.org/"
+},
+{
+"text": "Pickens Chamber of Commerce",
+"href": "http://www.pickenschamber.com"
+},
+{
+"text": "Pickens County Government",
+"href": "http://www.pickenscountyga.gov"
+},
+{
+"text": "Pickens County Schools",
+"href": "http://www.pickenscountyschools.org"
+},
+{
+"text": "Pickens Progress - Local Newspaper",
+"href": "http://www.pickensprogress.com"
+},
+{
+"text": "Poison Control Center",
+"href": "http://gpc.dhr.georgia.gov/portal/site/DHR-GPC/"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.rickjasperse.org/privacy.html"
+},
+{
+"text": "Protect Yourself from Identity Theft",
+"href": "http://consumer.georgia.gov/00/article/0,2086,5426814_39039081_39480072,00.html"
+},
+{
+"text": "Real Time Traffic Updates",
+"href": "http://www.georgia-navigator.com/"
+},
+{
+"text": "Renew Your Driver's License Online",
+"href": "http://www.dds.ga.gov/"
+},
+{
+"text": "Request Vital Records",
+"href": "http://www.georgia.gov/00/channel_title/0,2094,4802_5009,00.html"
+},
+{
+"text": "SUPPORT RICK",
+"href": "https://www.rickjasperse.org/support.htm"
+},
+{
+"text": "Search for Driver's License Customer Service Centers",
+"href": "http://www.georgia.gov/00/maps/0,2555,4802_83232380,00.html"
+},
+{
+"text": "Search for Physicians",
+"href": "http://services.georgia.gov/dch/mebs/jsp/index.jsp"
+},
+{
+"text": "Sex Offender Registry",
+"href": "http://gbi.georgia.gov/00/channel_modifieddate/0,2096,67862954_87983024,00.html"
+},
+{
+"text": "Special Offers",
+"href": "http://www.georgia.org/Travel/SpecialOffers.htm"
+},
+{
+"text": "Student Transcript Request",
+"href": "http://www.gnpec.org/MainMenu.asp"
+},
+{
+"text": "TSA Security Checkpoint Wait Times",
+"href": "http://waittime.tsa.dhs.gov/index.html"
+},
+{
+"text": "The New Georgia Encyclopedia",
+"href": "http://www.newgeorgiaencyclopedia.org/nge/Home.jsp"
+},
+{
+"text": "Utility Bill Calculator",
+"href": "http://www.psc.state.ga.us/calc/calculators.asp"
+},
+{
+"text": "Workers’ Compensation Forms",
+"href": "http://sbwc.georgia.gov/00/channel_modifieddate/0,2096,11394008_11400551,00.html"
+},
+{
+"text": "[image: Follow Rick Jasperse on Facebook]",
+"href": "https://www.facebook.com/rick.jasperse/"
+},
+{
+"text": "[image: Follow Rick Jasperse on Instagram]",
+"href": "https://www.instagram.com/rick.jasperse/"
+},
+{
+"text": "[image: Follow Rick Jasperse on Twitter]",
+"href": "https://twitter.com/rickjasperse"
+},
+{
+"text": "[image: Follow Rick Jasperses on YouTube]",
+"href": "https://www.youtube.com/user/rickjasperse"
+},
+{
+"text": "[image: Republican Party Elephant Logo]",
+"href": "https://www.rickjasperse.org"
+},
+{
+"text": "[image: Rick Jasperse State Representative District 11 Georgia]",
+"href": "https://www.rickjasperse.org"
+}
 ]

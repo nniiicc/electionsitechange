@@ -1,4 +1,4 @@
-I am a Hoosier, born and raised in LaPorte, Indiana.
+Skip to primary content Chris Campbell For State Representative, District 26 Search Main menu Home News from the State House Donate Volunteer Issues About Gallery Contact About I am a Hoosier, born and raised in LaPorte, Indiana.
 I arrived in West Lafayette in the fall of 1987 to study at Purdue University and stayed In the Lafayette area until 1992, when I finished my master’s degree in Audiology.
 After our first child was born, my husband and I returned to raise a family in this great community.
 We now have two children.
@@ -17,4 +17,4 @@ I’ll make sure your vote will make your voice heard in Indianapolis.
 I’ll make sure our voice is heard in the state legislature.
 Thank you for considering me for your vote.
 I promise to be committed, accessible, and responsible.
-Paid for by Committee to Elect Campbell
+Paid for by Committee to Elect Campbell Proudly powered by WordPress

@@ -1,44 +1,226 @@
 [
-"http://facebook.com/RepBillFoster",
-"http://instagram.com/foster4congress",
-"http://twitter.com/Foster4Congress",
-"https://billfoster.com/",
-"https://billfoster.com/contact-us",
-"https://billfoster.com/donate",
-"https://billfoster.com/endorsements",
-"https://billfoster.com/gallery",
-"https://billfoster.com/issue/combating-the-climate-crisis",
-"https://billfoster.com/issue/defending-the-constitution",
-"https://billfoster.com/issue/economy",
-"https://billfoster.com/issue/education",
-"https://billfoster.com/issue/healthcare",
-"https://billfoster.com/issue/immigration",
-"https://billfoster.com/issue/reducing-gun-violence",
-"https://billfoster.com/issue/reforming-wall-street",
-"https://billfoster.com/issue/reproductive-freedom",
-"https://billfoster.com/issue/reviving-american-manufacturing",
-"https://billfoster.com/issue/science-and-technology",
-"https://billfoster.com/issue/the-financial-crisis",
-"https://billfoster.com/issues",
-"https://billfoster.com/meet-bill",
-"https://billfoster.com/meet-bill/bills-business-career",
-"https://billfoster.com/meet-bill/bills-congressional-career",
-"https://billfoster.com/meet-bill/bills-family",
-"https://billfoster.com/meet-bill/bills-professional-awards",
-"https://billfoster.com/meet-bill/bills-science-career",
-"https://billfoster.com/messaging",
-"https://billfoster.com/news",
-"https://billfoster.com/news/general",
-"https://billfoster.com/news/general/naperville-sun-standing-up-for-science",
-"https://billfoster.com/news/general/new-yorker-two-nasa-engineers-try-out-politics",
-"https://billfoster.com/news/general/stat-congresss-one-phd-trained-scientist-will-join-march-on-washington",
-"https://billfoster.com/news/page/57",
-"https://billfoster.com/news/page/58",
-"https://billfoster.com/news/page/60",
-"https://billfoster.com/news/page/61",
-"https://billfoster.com/news/science",
-"https://billfoster.com/news/science/gizmodo-at-the-march-for-science-congresss-lone-scientist-pines-for-company",
-"https://billfoster.com/privacy-policy",
-"https://billfoster.com/the-district",
-"https://billfoster.com/volunteer"
+{
+"text": "1",
+"href": "https://www.billfoster.com/news/"
+},
+{
+"text": "57",
+"href": "https://www.billfoster.com/news/page/57/"
+},
+{
+"text": "58",
+"href": "https://www.billfoster.com/news/page/58/"
+},
+{
+"text": "60",
+"href": "https://www.billfoster.com/news/page/60/"
+},
+{
+"text": "61",
+"href": "https://www.billfoster.com/news/page/61/"
+},
+{
+"text": "630-216-9340.",
+"href": "tel:630-216-9340."
+},
+{
+"text": "Business Career",
+"href": "https://www.billfoster.com/meet-bill/bills-business-career/"
+},
+{
+"text": "Combating the Climate Crisis",
+"href": "https://www.billfoster.com/issue/combating-the-climate-crisis/"
+},
+{
+"text": "Congressional Career",
+"href": "https://www.billfoster.com/meet-bill/bills-congressional-career/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.billfoster.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Contribute Now Make a donation to Bill Foster for Congress!",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Defending the Constitution",
+"href": "https://www.billfoster.com/issue/defending-the-constitution/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Economy",
+"href": "https://www.billfoster.com/issue/economy/"
+},
+{
+"text": "Education",
+"href": "https://www.billfoster.com/issue/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.billfoster.com/endorsements/"
+},
+{
+"text": "Family",
+"href": "https://www.billfoster.com/meet-bill/bills-family/"
+},
+{
+"text": "General",
+"href": "https://www.billfoster.com/news/general/"
+},
+{
+"text": "Gizmodo: At the March for Science, Congress’s Lone Scientist Pines for Company",
+"href": "https://www.billfoster.com/news/science/gizmodo-at-the-march-for-science-congresss-lone-scientist-pines-for-company/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.billfoster.com/issue/healthcare/"
+},
+{
+"text": "Immigration",
+"href": "https://www.billfoster.com/issue/immigration/"
+},
+{
+"text": "Issues",
+"href": "https://www.billfoster.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://www.billfoster.com/news/"
+},
+{
+"text": "Meet Bill",
+"href": "https://www.billfoster.com/meet-bill/"
+},
+{
+"text": "Messaging",
+"href": "https://www.billfoster.com/messaging"
+},
+{
+"text": "Naperville Sun: Standing up for science",
+"href": "https://www.billfoster.com/news/general/naperville-sun-standing-up-for-science/"
+},
+{
+"text": "New Yorker: Two NASA Engineers Try Out Politics",
+"href": "https://www.billfoster.com/news/general/new-yorker-two-nasa-engineers-try-out-politics/"
+},
+{
+"text": "News",
+"href": "https://www.billfoster.com/news/"
+},
+{
+"text": "On the Issues On the Issues",
+"href": "https://www.billfoster.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.billfoster.com/gallery/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.billfoster.com/privacy-policy"
+},
+{
+"text": "Professional Awards",
+"href": "https://www.billfoster.com/meet-bill/bills-professional-awards/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/general/naperville-sun-standing-up-for-science/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/general/new-yorker-two-nasa-engineers-try-out-politics/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/general/stat-congresss-one-phd-trained-scientist-will-join-march-on-washington/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/science/gizmodo-at-the-march-for-science-congresss-lone-scientist-pines-for-company/"
+},
+{
+"text": "Reducing Gun Violence",
+"href": "https://www.billfoster.com/issue/reducing-gun-violence/"
+},
+{
+"text": "Reforming Wall Street",
+"href": "https://www.billfoster.com/issue/reforming-wall-street/"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.billfoster.com/issue/reproductive-freedom/"
+},
+{
+"text": "Reviving American Manufacturing",
+"href": "https://www.billfoster.com/issue/reviving-american-manufacturing/"
+},
+{
+"text": "STAT: Congress’s one PhD-trained scientist will join march on Washington",
+"href": "https://www.billfoster.com/news/general/stat-congresss-one-phd-trained-scientist-will-join-march-on-washington/"
+},
+{
+"text": "Science",
+"href": "https://www.billfoster.com/news/science/"
+},
+{
+"text": "Science Career",
+"href": "https://www.billfoster.com/meet-bill/bills-science-career/"
+},
+{
+"text": "Science and Technology",
+"href": "https://www.billfoster.com/issue/science-and-technology/"
+},
+{
+"text": "The District",
+"href": "https://www.billfoster.com/the-district/"
+},
+{
+"text": "The Financial Crisis",
+"href": "https://www.billfoster.com/issue/the-financial-crisis/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.billfoster.com/volunteer"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://www.billfoster.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.billfoster.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/RepBillFoster"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/foster4congress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/Foster4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.billfoster.com/news/page/58/"
+},
+{
+"text": "[no text]",
+"href": "https://www.billfoster.com/news/page/60/"
+}
 ]

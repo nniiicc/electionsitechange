@@ -1,43 +1,170 @@
 [
-"http://twitter.com/share?url=https%3A%2F%2Fwww.scotthuffman.com%2F5%2Fpost%2F2021%2F09%2F1-in-500.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.scotthuffman.com%2F5%2Fpost%2F2021%2F09%2Freproductive-rights.html",
-"https://facebook.com/HuffmanForNC",
-"https://instagram.com/huffmanfornc",
-"https://scotthuffman.com/",
-"https://scotthuffman.com/5/feed",
-"https://scotthuffman.com/cdn-cgi/l/email-protection",
-"https://scotthuffman.com/contact.html",
-"https://scotthuffman.com/donate.html",
-"https://scotthuffman.com/issues.html",
-"https://scotthuffman.com/two-americas.html",
-"https://scotthuffman.com/two-americas/1-in-500",
-"https://scotthuffman.com/two-americas/archives/01-2021",
-"https://scotthuffman.com/two-americas/archives/02-2019",
-"https://scotthuffman.com/two-americas/archives/02-2021",
-"https://scotthuffman.com/two-americas/archives/03-2019",
-"https://scotthuffman.com/two-americas/archives/04-2016",
-"https://scotthuffman.com/two-americas/archives/04-2019",
-"https://scotthuffman.com/two-americas/archives/04-2026",
-"https://scotthuffman.com/two-americas/archives/05-2018",
-"https://scotthuffman.com/two-americas/archives/05-2026",
-"https://scotthuffman.com/two-americas/archives/06-2025",
-"https://scotthuffman.com/two-americas/archives/07-2019",
-"https://scotthuffman.com/two-americas/archives/07-2026",
-"https://scotthuffman.com/two-americas/archives/08-2019",
-"https://scotthuffman.com/two-americas/archives/08-2021",
-"https://scotthuffman.com/two-americas/archives/09-2019",
-"https://scotthuffman.com/two-americas/archives/09-2021",
-"https://scotthuffman.com/two-americas/archives/09-2025",
-"https://scotthuffman.com/two-americas/archives/09-2026",
-"https://scotthuffman.com/two-americas/archives/10-2025",
-"https://scotthuffman.com/two-americas/archives/10-2026",
-"https://scotthuffman.com/two-americas/archives/11-2019",
-"https://scotthuffman.com/two-americas/archives/11-2020",
-"https://scotthuffman.com/two-americas/archives/11-2021",
-"https://scotthuffman.com/two-americas/category/all",
-"https://scotthuffman.com/two-americas/reproductive-rights",
-"https://scotthuffman.com/volunteer.html",
-"https://scotthuffman.com/why-im-running.html",
-"https://secure.actblue.com/donate/huffmanfornc76",
-"https://twitter.com/HuffmanForNC"
+{
+"text": "1 in 500",
+"href": "https://www.scotthuffman.com/two-americas/1-in-500"
+},
+{
+"text": "All",
+"href": "https://www.scotthuffman.com/two-americas/category/all"
+},
+{
+"text": "April 2016",
+"href": "https://www.scotthuffman.com/two-americas/archives/04-2016"
+},
+{
+"text": "April 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/04-2019"
+},
+{
+"text": "April 2026",
+"href": "https://www.scotthuffman.com/two-americas/archives/04-2026"
+},
+{
+"text": "August 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/08-2019"
+},
+{
+"text": "August 2021",
+"href": "https://www.scotthuffman.com/two-americas/archives/08-2021"
+},
+{
+"text": "Contact",
+"href": "https://www.scotthuffman.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.scotthuffman.com/donate.html"
+},
+{
+"text": "Donate $10",
+"href": "https://secure.actblue.com/donate/huffmanfornc76"
+},
+{
+"text": "February 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/02-2019"
+},
+{
+"text": "February 2021",
+"href": "https://www.scotthuffman.com/two-americas/archives/02-2021"
+},
+{
+"text": "Home",
+"href": "https://www.scotthuffman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.scotthuffman.com/issues.html"
+},
+{
+"text": "January 2021",
+"href": "https://www.scotthuffman.com/two-americas/archives/01-2021"
+},
+{
+"text": "July 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/07-2019"
+},
+{
+"text": "July 2026",
+"href": "https://www.scotthuffman.com/two-americas/archives/07-2026"
+},
+{
+"text": "June 2025",
+"href": "https://www.scotthuffman.com/two-americas/archives/06-2025"
+},
+{
+"text": "March 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/03-2019"
+},
+{
+"text": "May 2018",
+"href": "https://www.scotthuffman.com/two-americas/archives/05-2018"
+},
+{
+"text": "May 2026",
+"href": "https://www.scotthuffman.com/two-americas/archives/05-2026"
+},
+{
+"text": "November 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/11-2019"
+},
+{
+"text": "November 2020",
+"href": "https://www.scotthuffman.com/two-americas/archives/11-2020"
+},
+{
+"text": "November 2021",
+"href": "https://www.scotthuffman.com/two-americas/archives/11-2021"
+},
+{
+"text": "October 2025",
+"href": "https://www.scotthuffman.com/two-americas/archives/10-2025"
+},
+{
+"text": "October 2026",
+"href": "https://www.scotthuffman.com/two-americas/archives/10-2026"
+},
+{
+"text": "Reproductive rights",
+"href": "https://www.scotthuffman.com/two-americas/reproductive-rights"
+},
+{
+"text": "September 2019",
+"href": "https://www.scotthuffman.com/two-americas/archives/09-2019"
+},
+{
+"text": "September 2021",
+"href": "https://www.scotthuffman.com/two-americas/archives/09-2021"
+},
+{
+"text": "September 2025",
+"href": "https://www.scotthuffman.com/two-americas/archives/09-2025"
+},
+{
+"text": "September 2026",
+"href": "https://www.scotthuffman.com/two-americas/archives/09-2026"
+},
+{
+"text": "Two Americas",
+"href": "https://www.scotthuffman.com/two-americas.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.scotthuffman.com/volunteer.html"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.scotthuffman.com/why-im-running.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@scotthuffman.com"
+},
+{
+"text": "[image] RSS Feed",
+"href": "https://www.scotthuffman.com/5/feed"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.scotthuffman.com%2F5%2Fpost%2F2021%2F09%2F1-in-500.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.scotthuffman.com%2F5%2Fpost%2F2021%2F09%2Freproductive-rights.html"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/HuffmanForNC"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/HuffmanForNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/huffmanfornc/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@scotthuffman.com"
+}
 ]

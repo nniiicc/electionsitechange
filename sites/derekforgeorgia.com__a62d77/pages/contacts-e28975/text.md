@@ -1,13 +1,1 @@
-Home
-About Derek Mallow
-Platforms
-Resources
-Contacts
-DONATE
-Reach out
-Contact Derek Mallow
-Email
-info@derekforgeorgia.com
-Follow
-Follow
-Follow
+Home About Derek Mallow Platforms Resources Contacts DONATE Reach out Contact Derek Mallow  Email info@derekforgeorgia.com Follow Follow Follow @ Copyright # | Derek for Georgia | Paid for by Friends of Derek Mallow | All Rights Reserved

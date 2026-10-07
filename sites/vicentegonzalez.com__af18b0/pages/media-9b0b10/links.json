@@ -1,27 +1,106 @@
 [
-"https://facebook.com/votevicente",
-"https://instagram.com/votevicente",
-"https://secure.actblue.com/donate/vicente-website-2022",
-"https://secure.actblue.com/donate/vicente-website-2022?amount=10",
-"https://twitter.com/votevicente",
-"https://vicentegonzalez.com/",
-"https://vicentegonzalez.com/accomplishments",
-"https://vicentegonzalez.com/get-involved",
-"https://vicentegonzalez.com/issues",
-"https://vicentegonzalez.com/media",
-"https://vicentegonzalez.com/meet-vicente",
-"https://vicentegonzalez.com/news",
-"https://vicentegonzalez.com/wp-content/uploads/2026/06/vicentegonzalez-images.zip",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A0116-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A1357-1-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A1863-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A1884-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A2012-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A2241-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A3143-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A3497-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A3850-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A9933-2-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/37-P1023871-scaled.jpg",
-"https://vicentegonzalez.com/wp-content/uploads/2026/08/38-P1023896-scaled.jpg"
+{
+"text": "Accomplishments",
+"href": "https://vicentegonzalez.com/accomplishments/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vicente-website-2022"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vicente-website-2022?amount=10"
+},
+{
+"text": "Download Images",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/06/vicentegonzalez-images.zip"
+},
+{
+"text": "Get Involved",
+"href": "https://vicentegonzalez.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://vicentegonzalez.com/"
+},
+{
+"text": "Issues",
+"href": "https://vicentegonzalez.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://vicentegonzalez.com/media/"
+},
+{
+"text": "Meet Vicente",
+"href": "https://vicentegonzalez.com/meet-vicente/"
+},
+{
+"text": "News",
+"href": "https://vicentegonzalez.com/news/"
+},
+{
+"text": "[image: 1T3A0116]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A0116-scaled.jpg"
+},
+{
+"text": "[image: 1T3A1357 (1)]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A1357-1-scaled.jpg"
+},
+{
+"text": "[image: 1T3A1863]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A1863-scaled.jpg"
+},
+{
+"text": "[image: 1T3A1884]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A1884-scaled.jpg"
+},
+{
+"text": "[image: 1T3A2012]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A2012-scaled.jpg"
+},
+{
+"text": "[image: 1T3A2241]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A2241-scaled.jpg"
+},
+{
+"text": "[image: 1T3A3143]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A3143-scaled.jpg"
+},
+{
+"text": "[image: 1T3A3497]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A3497-scaled.jpg"
+},
+{
+"text": "[image: 1T3A3850]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A3850-scaled.jpg"
+},
+{
+"text": "[image: 1T3A9933]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/1T3A9933-2-scaled.jpg"
+},
+{
+"text": "[image: 37-P1023871]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/37-P1023871-scaled.jpg"
+},
+{
+"text": "[image: 38-P1023896]",
+"href": "https://vicentegonzalez.com/wp-content/uploads/2026/08/38-P1023896-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vicentegonzalez.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votevicente"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votevicente"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevicente/"
+}
 ]

@@ -1,4 +1,4 @@
-Welcome!
+Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Skip to content Chip In to Help Reelect Tina Kotek Donate Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Meet First Lady Aimee Kotek Wilson Welcome!
 I’m Aimee Kotek Wilson, and I’ve been Tina’s partner for more than 20 years – we got married in 2016 after marriage equality was finally legalized.
 It was a shared passion for helping Oregonians that first brought us together.
 A dedication to creating community and opportunity for everyone has always been the foundation of our partnership.
@@ -15,5 +15,4 @@ Today, as First Lady, I continue that work by advocating for stronger mental hea
 I’m proud to have served as Chair of the Governor’s Behavioral Health Talent Council, where we focused on supporting, retaining, and growing the behavioral health workforce so that Oregonians can access the care they need, when they need it.
 At the end of the day, I’m still energized by the work of breaking down barriers, improving people’s lives, and ensuring that those impacted by an issue are a direct part of the discussion about how to address them.
 It’s an honor to do this work.
-Sincerely,
-First Lady Aimee Kotek Wilson
+Sincerely, First Lady Aimee Kotek Wilson press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

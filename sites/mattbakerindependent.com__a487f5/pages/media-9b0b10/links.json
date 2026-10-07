@@ -1,17 +1,74 @@
 [
-"https://facebook.com/MattBakerVA",
-"https://instagram.com/MattBakerVA",
-"https://instagram.com/mattbakerva",
-"https://mattbakerindependent.com/",
-"https://mattbakerindependent.com/about",
-"https://mattbakerindependent.com/accessibilitystatement",
-"https://mattbakerindependent.com/donate",
-"https://mattbakerindependent.com/getinvolved",
-"https://mattbakerindependent.com/media",
-"https://mattbakerindependent.com/post/independent-matt-baker-qualifies-for-va-2-november-ballot",
-"https://mattbakerindependent.com/post/matt-baker-on-the-independents-for-america-podcast",
-"https://mattbakerindependent.com/privacypolicy",
-"https://mattbakerindependent.com/termsandconditions",
-"https://mattbakerindependent.com/vision",
-"https://tiktok.com/@mattbakerva"
+{
+"text": "@mattbakerva",
+"href": "https://www.instagram.com/mattbakerva"
+},
+{
+"text": "ABOUT",
+"href": "https://www.mattbakerindependent.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.mattbakerindependent.com/accessibilitystatement"
+},
+{
+"text": "DONATE",
+"href": "https://www.mattbakerindependent.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mattbakerindependent.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.mattbakerindependent.com"
+},
+{
+"text": "Independent Matt Baker qualifies for VA-2 November ballot",
+"href": "https://www.mattbakerindependent.com/post/independent-matt-baker-qualifies-for-va-2-november-ballot"
+},
+{
+"text": "MEDIA",
+"href": "https://www.mattbakerindependent.com/media"
+},
+{
+"text": "MEDIA@MATTBAKERINDEPENDENT.COM",
+"href": "mailto:MEDIA@MATTBAKERINDEPENDENT.COM"
+},
+{
+"text": "Matt Baker on the Independents for America Podcast",
+"href": "https://www.mattbakerindependent.com/post/matt-baker-on-the-independents-for-america-podcast"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mattbakerindependent.com/privacypolicy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mattbakerindependent.com/termsandconditions"
+},
+{
+"text": "VISION",
+"href": "https://www.mattbakerindependent.com/vision"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MattBakerVA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/MattBakerVA"
+},
+{
+"text": "[image: Matt Baker.png]",
+"href": "https://www.mattbakerindependent.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattbakerva"
+},
+{
+"text": "[no text]",
+"href": "https://www.mattbakerindependent.com/media"
+}
 ]

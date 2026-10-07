@@ -1,17 +1,86 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61579560474012",
-"https://instagram.com//juliegableaz",
-"https://juliegable.com/",
-"https://juliegable.com/about",
-"https://juliegable.com/gallery",
-"https://juliegable.com/issues/ai-tech-policy",
-"https://juliegable.com/issues/issue-education",
-"https://juliegable.com/issues/issue-healthcare",
-"https://juliegable.com/issues/water-security-and-natural-resources",
-"https://juliegable.com/merchandise",
-"https://juliegable.com/privacy-policy",
-"https://juliegable.com/volunteer",
-"https://linkedin.com/in/juliegable",
-"https://youtube.com/watch?v=_8yzIFhoE20"
+{
+"text": "About",
+"href": "https://www.juliegable.com/about"
+},
+{
+"text": "Gallery",
+"href": "https://www.juliegable.com/gallery"
+},
+{
+"text": "Healthcare Access + Behavioral Health",
+"href": "https://www.juliegable.com/issues/issue-healthcare"
+},
+{
+"text": "Join Us",
+"href": "https://www.juliegable.com/volunteer"
+},
+{
+"text": "Learn More",
+"href": "https://www.juliegable.com/issues/ai-tech-policy"
+},
+{
+"text": "Learn More",
+"href": "https://www.juliegable.com/issues/issue-education"
+},
+{
+"text": "Learn More",
+"href": "https://www.juliegable.com/issues/issue-healthcare"
+},
+{
+"text": "Learn More",
+"href": "https://www.juliegable.com/issues/water-security-and-natural-resources"
+},
+{
+"text": "Merchandise",
+"href": "https://www.juliegable.com/merchandise"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.juliegable.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Responsible AI + Tech Policy",
+"href": "https://www.juliegable.com/issues/ai-tech-policy"
+},
+{
+"text": "Stronger Education",
+"href": "https://www.juliegable.com/issues/issue-education"
+},
+{
+"text": "This Desert Land",
+"href": "https://www.youtube.com/watch?v=_8yzIFhoE20"
+},
+{
+"text": "Volunteer",
+"href": "https://www.juliegable.com/volunteer"
+},
+{
+"text": "Water Security and Natural Resources",
+"href": "https://www.juliegable.com/issues/water-security-and-natural-resources"
+},
+{
+"text": "[image: Julie Gable | State House LD3 | Brighter Future for Arizona]",
+"href": "https://www.juliegable.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579560474012"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//juliegableaz/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/juliegable/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=_8yzIFhoE20"
+}
 ]

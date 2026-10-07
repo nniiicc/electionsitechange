@@ -1,4 +1,4 @@
-At the core, all people want the same things: security, prosperity, and fulfillment.
+Welcome What I'm About Issues Minnesota's Promise Exploitation Homelessness Liberty Contribute At the core, all people want the same things: security, prosperity, and fulfillment.
 Our disagreements are not about the destination, they are about the path.
 That is a far smaller divide than most would have us believe.
 Neither the Red Team nor the Blue Team has delivered meaningful progress toward any of these goals in decades.

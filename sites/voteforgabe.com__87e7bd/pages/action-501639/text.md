@@ -1,4 +1,5 @@
-Home Meet Gabe Issues Endorsements Take Action Contact Us Donate Take Action contribute Volunteer for Team Gabe How would you like to help out?
-(required) Receive email updates from the campaignYard SignHost a Fundraiser or EventPhone BankingCanvassingLetter to the EditorBecome a digital ambassador to support Gabe on social mediaSubmit a personal story about why I support Gabe Okoye for State HousePublicly endorse Gabe Okoye for State House Let us know any other comments or skills you have!
+Home Meet Gabe Issues Endorsements Take Action Contact Us Donate Take Action contribute Volunteer for Team Gabe How would you like to help out? (required) Receive email updates from the campaign Yard Sign Host a Fundraiser or Event Phone Banking Canvassing Letter to the Editor Become a digital ambassador to support Gabe on social media Submit a personal story about why I support Gabe Okoye for State House Publicly endorse Gabe Okoye for State House Let us know any other comments or skills you have!
 Your information will be securely sent to and stored in Google Sheets for the purpose of processing your form submission.
-Register to Vote Click Here Apply for an Absentee Ballot Click Here Find Your Polling Place Click Here
+Register to Vote Click Here Apply for an Absentee Ballot Click Here Find Your Polling Place Click Here Join Team Gabe Keep up with the Gabe Okoye campaign for State House by subscribing to our newsletter Success!
+First Name Last Name Email Subscribe Home Meet Gabe Issues Endorsements Take Action Contact Us Donate Paid for by Vote for Gabe | 121 East Crogan St.
+Suite 1715, Lawrenceville GA 30046 ©# - Site design by IKJ Web Follow

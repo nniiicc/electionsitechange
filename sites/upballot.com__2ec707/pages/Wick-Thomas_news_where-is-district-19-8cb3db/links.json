@@ -1,17 +1,86 @@
 [
-"https://facebook.com/wickformo",
-"https://forms.gle/zJh92pG4SFLDqNZT9",
-"https://google.com/maps/d/u/1/edit?mid=1kizgrTCEqBnPGZ0b31Uwq8VwCZ7WaSA&usp=sharing",
-"https://instagram.com/wickformo",
-"https://secure.actblue.com/donate/wick4mo",
-"https://twitter.com/wickformo",
-"https://upballot.com/",
-"https://upballot.com/Wick-Thomas",
-"https://upballot.com/Wick-Thomas/about",
-"https://upballot.com/Wick-Thomas/events",
-"https://upballot.com/Wick-Thomas/get-involved",
-"https://upballot.com/Wick-Thomas/issues",
-"https://upballot.com/Wick-Thomas/news",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Wick",
+"href": "https://www.upballot.com/Wick-Thomas/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Click Here for an interactive District 19 map!",
+"href": "https://www.google.com/maps/d/u/1/edit?mid=1kizgrTCEqBnPGZ0b31Uwq8VwCZ7WaSA&usp=sharing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/wick4mo"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Wick-Thomas/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Wick-Thomas/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Wick-Thomas"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Wick-Thomas/issues/"
+},
+{
+"text": "Live in District 19? Request a yard sign here!",
+"href": "https://forms.gle/zJh92pG4SFLDqNZT9"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/Wick-Thomas/news/"
+},
+{
+"text": "[image: Wick Thomas Logo]",
+"href": "https://www.upballot.com/Wick-Thomas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/wickformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/wickformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/wickformo"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/wickformo"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/wickformo"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://www.twitter.com/wickformo"
+},
+{
+"text": "team@wickthomas.org",
+"href": "mailto:team@wickthomas.org"
+},
+{
+"text": "tel:(816) 799-5428",
+"href": "tel:(816)%20799-5428"
+}
 ]

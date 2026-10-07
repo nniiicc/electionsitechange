@@ -1,101 +1,52 @@
-top of page
-July 25, 2026
-North Carolina teen accused of using AI for sexual exploitation.
+top of page Home Meet Sydney The Job Press Menu Close Menu Close DONATE NOW September 21, 2026 AI is everywhere, but can NC political candidates use it in campaign ads?
+READ MORE August 28, 2026 Stein vetoes bills on courts, election laws READ MORE August 17, 2026 Stein vetoes Republican-backed ‘anti-voter’ North Carolina elections bill READ MORE August 17, 2026 NC Gov.
+Stein vetoes elections, judicial discipline bills READ MORE August 11, 2026 ‘Barely making it’: Who should raise Wake’s teacher pay?
+READ MORE August 9, 2026 Can NC Democrats gain legislative power in November elections?
+Races to watch.
+READ MORE August 4, 2026 After heavy lobbying, NC House decides against vote on hemp product ban READ MORE August 1, 2026 Democrats tout affordability message at Raleigh Unity Dinner as Republicans push back READ MORE July 31, 2026 12 comments from Triangle politicians, groups supporting ABC11 in the FCC fight READ MORE July 28, 2026 NC Senate passes elections bill cutting primary early voting days, more tweaks READ MORE July 28, 2026 NC Senate votes to shorten early voting, purge more voters READ MORE July 25, 2026 North Carolina teen accused of using AI for sexual exploitation.
 Are state laws strong enough?
-July 7, 2026
-Gov.
-Stein signs NC budget as a compromise measure with legislators despite key concerns
-July 3, 2026
-Playing politics with public safety': Budget makes Wake County prosecutors NC's most understaffed
-June 24, 2026
-Artificial intelligence education NC guardrails get bipartisan support - Carolina Public Press
-June 23, 2026
-Senator Lisa Grafstein discusses the state budget debate and an effort to curb voting rights
-June 11, 2026
-NC ban on 'addictive' social media for children under 14 one vote away from governor's desk
-June 11, 2026
-Suspects who expose NC minors to explicit content would face harsher penalties under bill
-June 5, 2026
-North Carolina youth social media ban clears additional hurdle as it heads toward Senate vote
-June 4, 2026
-NC lawmakers enact education tax-break bill, adopting Trump policy by overriding Stein veto
-June 3, 2026
-North Carolina youth social media ban clears additional hurdle as it heads toward Senate vote
-June 3, 2026
-NC lawmakers enact education tax-break bill, adopting Trump policy by overriding Stein veto
-June 3, 2026
-North Carolina youth social media ban clears additional hurdle as it heads toward Senate vote
-June 2, 2026
-NC Senate considers tax on obscene materials, social media age limits, license plate readers
-June 2, 2026
-NC Senate considers tax on obscene materials, social media age limits, license plate readers
-May 7, 2026
-Senate property revaluation proposal easily passes | North Carolina | thecentersquare.com
-May 6, 2026
-Bill to put property taxes on hold in North Carolina gets initial Senate nod - NC Newsline
-April 29, 2026
-State Sen.
-Terence Everitt resigns, says he needs to focus on 'defending our democracy'
-April 29, 2026
-Medicaid funding bill passes NC House, Senate; heads to Gov.
-Stein’s desk for signature
-April 25, 2026
-What They're Saying: North Carolinians Applaud Governor Stein's Budget to Keep North ...
-April 24, 2026
-What They're Saying: North Carolinians Applaud Governor Stein's Budget to Keep North ...
-April 24, 2026
-NC Sen.
-Natalie Murdock (D) says new bill to fund Medicaid ‘turns blind eye to women and children'
-April 22, 2026
-North Carolina's Berger optimistic about budget, blames Democrats for primary loss - WRAL
-April 21, 2026
-North Carolina General Assembly convenes short session today, with budget and taxes atop ...
-April 8, 2026
-Public School Forum of NC puts student needs in the forefront ahead of legislative short session
-April 4, 2026
-Garson wins appointment to fill N.C.
-Senate District 23 seat - The News of Orange County
-March 26, 2026
-NC Senate Democrats call to be included in budget negotiations ahead of upcoming short session
-March 26, 2026
-NC Senate Democrats call to be included in budget negotiations ahead of upcoming short session
-March 25, 2026
-North Carolina Senate leader, conservative architect Phil Berger concedes primary loss
-March 25, 2026
-North Carolina Senate leader, conservative architect Phil Berger concedes primary loss
-March 25, 2026
-North Carolina Senate Leader, Conservative Architect Phil Berger Concedes Primary Loss
-March 24, 2026
-North Carolina Senate Leader, Conservative Architect Phil Berger Concedes Primary Loss
-March 20, 2026
-Meeting of the Governor's Advisory Council for Student Safety and Well-Being Scheduled for Monday
-March 9, 2026
-Triangle-area Democrat to resign from state Senate, take lead role at NC Justice Center
-February 20, 2026
-In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak
-February 20, 2026
-In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak
-February 20, 2026
-In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak
-February 20, 2026
-In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak
-February 15, 2026
-Our choice in the 4th Congressional District's Democratic primary - Durham Herald Sun
-February 15, 2026
-Our choice in the 4th Congressional District's Democratic primary - Durham Herald Sun
-January 16, 2026
-Alexander H.
-Jones: State GOP showing strains of political dominance - The Daily Reflector
-January 16, 2026
-Alexander H.
-Jones: State GOP showing strains of political dominance - The Daily Reflector
-January 7, 2026
-NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign
-January 7, 2026
-NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign
-January 7, 2026
-NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign
-January 7, 2026
-NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign
-News & Press
-bottom of page
+READ MORE July 17, 2026 NC's new budget spends $1.6 billion on projects.
+Here's where the money went READ MORE July 16, 2026 Sydney Batch's Push to Keep Redistricting Fight at Forefront READ MORE July 12, 2026 Standing Room Only in Raleigh with Leader Sydney Batch and Stacey Abrams READ MORE July 9, 2026 Delayed by budget talks, NC legislature still has plenty to do READ MORE July 7, 2026 State budget signed into law READ MORE July 7, 2026 NC's House vs.
+Senate budget clash fizzled out as it crossed the finish line READ MORE July 7, 2026 Gov.
+Stein signs NC budget as a compromise measure with legislators despite key concerns READ MORE July 4, 2026 NC reappraisal moratorium advances as counties face budget gaps READ MORE July 3, 2026 Playing politics with public safety': Budget makes Wake County prosecutors NC's most understaffed READ MORE July 3, 2026 Doing nothing was not an option': NC Senate votes to crack down on hemp READ MORE July 3, 2026 North Carolina's $34.4 billion budget passes House and Senate, heads to governor next READ MORE July 2, 2026 NC lawmakers end long standoff, send $34B state budget to Stein READ MORE July 2, 2026 Why Did N.C.'s Budget Take So Long?
+READ MORE June 24, 2026 Artificial intelligence education NC guardrails get bipartisan support - Carolina Public Press READ MORE June 23, 2026 Senator Lisa Grafstein discusses the state budget debate and an effort to curb voting rights READ MORE June 21, 2026 Josh Stein has been more involved in GOP-written budget than past NC governors READ MORE June 18, 2026 NC Senate leader Berger, Speaker Hall now in final talks about overdue state budget READ MORE June 11, 2026 NC lawmakers renew push to regulate where homeless people can sleep - WRAL READ MORE June 11, 2026 NC ban on 'addictive' social media for children under 14 one vote away from governor's desk READ MORE June 11, 2026 Suspects who expose NC minors to explicit content would face harsher penalties under bill READ MORE June 10, 2026 PRESS CONFERENCE: Senator Sydney Batch - North Carolina General Assembly READ MORE June 6, 2026 NC Dems want more information about GOP threats over WCU voting site READ MORE June 6, 2026 NC's Mike Causey faces allegations of inappropriate texts.
+Here's what to know READ MORE June 5, 2026 North Carolina youth social media ban clears additional hurdle as it heads toward Senate vote READ MORE June 4, 2026 Top NC Democrats want more information about GOP threats over a campus voting site READ MORE June 4, 2026 NC lawmakers enact education tax-break bill, adopting Trump policy by overriding Stein veto READ MORE June 3, 2026 Top NC Democrats want more information about GOP threats over a campus voting site READ MORE June 3, 2026 North Carolina youth social media ban clears additional hurdle as it heads toward Senate vote READ MORE June 3, 2026 NC Senate passes constitutional amendment to let voters cap the income tax - Yahoo READ MORE June 3, 2026 NC lawmakers enact education tax-break bill, adopting Trump policy by overriding Stein veto READ MORE June 3, 2026 ‘Inappropriate’ texts from NC insurance commissioner draw heat from Democrats READ MORE June 3, 2026 North Carolina youth social media ban clears additional hurdle as it heads toward Senate vote READ MORE June 2, 2026 ‘Inappropriate’ texts from NC insurance commissioner draw heat from Democrats READ MORE June 2, 2026 NC Senate considers tax on obscene materials, social media age limits, license plate readers READ MORE June 2, 2026 NC Senate considers tax on obscene materials, social media age limits, license plate readers READ MORE May 20, 2026 Proposed NC income tax cap heads to House after Senate approval - Yahoo READ MORE May 9, 2026 Chatham County, CAT clash over budget ahead of June deadline READ MORE May 9, 2026 Would an NC property tax pause help homeowners?
+Depends where you live READ MORE May 9, 2026 Guilford, Randolph Counties moving forward with plans to have boundary line surveyed READ MORE May 9, 2026 What Guilford County homeowners should know about proposed property tax changes READ MORE May 9, 2026 Extreme drought expands across central North Carolina - AOL.com READ MORE May 9, 2026 Petersburg residents with unpaid car taxes won't be able to renew licenses READ MORE May 9, 2026 Voters to decide on tax increase to benefit Upstate fire department READ MORE May 9, 2026 Proposed NC constitutional amendment would ban corporate political spending - AOL READ MORE May 8, 2026 Senate property revaluation proposal easily passes - Yahoo READ MORE May 8, 2026 Would an NC property tax pause help homeowners?
+Depends where you live READ MORE May 8, 2026 A new home appraisal is headed your way, but don't worry about taxes ... yet READ MORE May 7, 2026 NC Senate votes to pause property tax revaluations - PressReader READ MORE May 7, 2026 Binghamton City Council looks to advance housing legislation READ MORE May 7, 2026 Senate property revaluation proposal easily passes | North Carolina | thecentersquare.com READ MORE May 7, 2026 PRESS CONFERENCE: Senator Sydney Batch - North Carolina General Assembly READ MORE May 7, 2026 Sports wagering proceeds top inaugural year – with 2 months to go - AOL.com READ MORE May 7, 2026 New bill could change cannabis legality in North Carolina in 2026 READ MORE May 7, 2026 3rd special session to vote on property tax set for July - AOL.com READ MORE May 7, 2026 Rain falls, drought conditions rise - AOL.com READ MORE May 7, 2026 PRESS CONFERENCE: Senator Sydney Batch - YouTube READ MORE May 7, 2026 NC's budget negotiations are moving, but dragging.
+Where talks stand - AOL.com READ MORE May 6, 2026 NC Senate votes to pause property tax revaluations - AOL.com READ MORE May 6, 2026 NC Senate gives final OK to Berger’s reappraisal ‘moratorium’.
+House to consider next READ MORE May 6, 2026 Bill to put property taxes on hold in North Carolina gets initial Senate nod - NC Newsline READ MORE May 6, 2026 Dems Lock In, Teachers Appreciation Week, Drowning Don | North Carolina Democratic Party READ MORE May 6, 2026 Democrats talk strategy to win, govern at Raleigh gathering - Carolina Public Press READ MORE May 5, 2026 Wake County pauses WakeMed merger with Atrium Health - Business North Carolina READ MORE May 5, 2026 NC reappraisal ‘moratorium’ advances as counties face budget gaps READ MORE May 5, 2026 NC Senate votes to pause property tax revaluations - Raleigh (N.C.) News and Observer READ MORE May 4, 2026 Gov.
+Josh Stein signs $319 million Medicaid bill after NC General Assembly approval READ MORE May 2, 2026 Gov.
+Josh Stein signs $319 million Medicaid bill after NC General Assembly approval READ MORE April 30, 2026 Gov.
+Josh Stein to sign $319 million Medicaid bill after NC General Assembly approval READ MORE April 30, 2026 Gov.
+Josh Stein signs $319 million Medicaid bill after NC General Assembly approval READ MORE April 30, 2026 Wake County Democrat in battleground district resigns from NC Senate - PressReader READ MORE April 30, 2026 Gov.
+Josh Stein signs $319 million Medicaid bill after NC General Assembly approval READ MORE April 29, 2026 Wake Democrat Terence Everitt resigns from the NC Senate | News From The States READ MORE April 29, 2026 Wake County Democrat in battleground district resigns from NC Senate READ MORE April 29, 2026 Wake Democrat Terence Everitt resigns from the NC Senate - NC Newsline READ MORE April 29, 2026 State Sen.
+Terence Everitt resigns, says he needs to focus on 'defending our democracy' READ MORE April 29, 2026 Wake County Democrat resigns from NC Senate - WRAL READ MORE April 29, 2026 Democratic state Sen.
+Terence Everitt abruptly resigns | The North State Journal READ MORE April 29, 2026 Medicaid funding bill passes NC House, Senate; heads to Gov.
+Stein’s desk for signature READ MORE April 28, 2026 Unintended Consequences' of Republicans' Medicaid Deal - The Assembly NC READ MORE April 27, 2026 NC lawmakers used campaign money on travel, food and rent.
+See top spenders READ MORE April 27, 2026 NC lawmakers unite across aisle to advance Medicaid funding | WFAE 90.7 READ MORE April 26, 2026 Nominations Now Open For the 2026 Inductee Class of the NC Women READ MORE April 26, 2026 HOW SENATE DEMOCRATS WANT TO TACKLE PROPERTY TAXES READ MORE April 25, 2026 What They're Saying: North Carolinians Applaud Governor Stein's Budget to Keep North ...
+READ MORE April 24, 2026 Ruby Fields Shares Final Single 'Mikey Echo' From Second Album 'Small Achievements' READ MORE April 24, 2026 NC lawmakers vote for Medicaid deal.
+It goes beyond money to fraud and immigration.
+READ MORE April 24, 2026 What They're Saying: North Carolinians Applaud Governor Stein's Budget to Keep North ...
+READ MORE April 24, 2026 NC Sen.
+Natalie Murdock (D) says new bill to fund Medicaid ‘turns blind eye to women and children' READ MORE April 23, 2026 NC House, Senate advance Medicaid compromise legislation | WUNC News READ MORE April 23, 2026 A bill to pause NC property tax revaluations could be law by May, Berger says READ MORE April 23, 2026 NC lawmakers vote for Medicaid deal.
+It goes beyond money to fraud and immigration.
+READ MORE April 23, 2026 NC lawmakers vote for Medicaid deal.
+It goes beyond money to fraud and immigration READ MORE April 23, 2026 NC lawmakers unite across aisle to advance Medicaid funding - Carolina Public Press READ MORE April 22, 2026 North Carolina's Berger optimistic about budget, blames Democrats for primary loss - WRAL READ MORE April 22, 2026 NC legislators discuss education policy at annual retreat - EdNC READ MORE April 21, 2026 NC lawmakers are back.
+Get up to speed in our insider's guide to the session READ MORE April 21, 2026 North Carolina General Assembly convenes short session today, with budget and taxes atop ...
+READ MORE April 20, 2026 NC state legislature yet to set state budget - Elon News Network READ MORE April 19, 2026 NC lawmakers confront budget standoff, with unknowns in mix - PressReader READ MORE April 19, 2026 4 bills backed by NC GOP Senate leader Berger that could become law in 2026 READ MORE April 19, 2026 NC Lawmakers return to session this week READ MORE April 16, 2026 Priorities remain unchanged at Eggs & Issues forum | The North State Journal READ MORE April 16, 2026 NC lawmakers are back in session next week.
+See how much they made in 2025. - AOL READ MORE April 16, 2026 Budget standoff confronts returning NC lawmakers, but new unknowns are in the mix READ MORE April 15, 2026 NC legislative leaders use campaign funds for rent and travel expenses | READ MORE April 15, 2026 NC lawmakers use campaign funds for travel, rent and dining.
+Is that allowed?
+READ MORE April 15, 2026 NC lawmakers are back in session next week.
+See how much they made in 2025.
+READ MORE April 15, 2026 Budget standoff confronts returning NC lawmakers, but new unknowns are in the mix READ MORE April 14, 2026 N.C.
+Legislators Face Long To-Do List for 'Short Session' - CityView NC READ MORE April 10, 2026 Chapel Hill political organizer Jonah Garson appointed to NC Senate READ MORE April 9, 2026 NC Lawmakers Face Packed Agenda for 'Short Session' READ MORE April 9, 2026 NC legislators face long to-do list for 'short session' READ MORE April 8, 2026 Why NC school leaders won't give up after Leandro 'disappointment' for kids READ MORE April 8, 2026 Legislative Leadership Award Archives | Positive Childhood Alliance NC READ MORE April 8, 2026 NC school leaders say they won't give up after Supreme Court's 'disappointment' READ MORE April 8, 2026 Public School Forum of NC puts student needs in the forefront ahead of legislative short session READ MORE April 7, 2026 Top NC House Republican says teacher pay top priority as lawmakers return to Raleigh READ MORE April 7, 2026 NC education leaders, lawmakers meet days after Leandro thrown out READ MORE April 6, 2026 Inside N.C.'s mental health provider shortage READ MORE April 6, 2026 Jonah Garson Will Succeed Graig Meyer in the N.C.
+Senate - INDY Week READ MORE April 4, 2026 Garson wins appointment to fill N.C.
+Senate District 23 seat - The News of Orange County READ MORE April 2, 2026 NC Senate's top job is up for grabs after Berger's loss.
+Here's what to know - MSN READ MORE April 2, 2026 NC Senate's top job is up for grabs after Berger's loss.
+Here's what to know READ MORE April 1, 2026 Who could replace Berger as NC Senate president pro tem | News & Observer READ MORE April 1, 2026 4 bills backed by NC GOP Senate leader Berger that could become law in 2026 READ MORE March 30, 2026 Ep.
+54: N.C. takes bipartisan approach to fix public schools READ MORE March 27, 2026 Governor Stein Celebrates Women's History Month READ MORE March 27, 2026 Highlights from the Coalition for Charter Schools' 2026 advocacy summit READ MORE March 26, 2026 Revenue forecast predicts tax cuts and budget debate in NC READ MORE March 26, 2026 With limited power, NC Democratic leader offers deal to break GOP budget stalemate READ MORE March 26, 2026 NC Senate Democrats call to be included in budget negotiations ahead of upcoming short session READ MORE March 26, 2026 NC Senate Democrats call to be included in budget negotiations ahead of upcoming short session READ MORE March 26, 2026 Election 2026: State board certifies Page upset, state races READ MORE March 25, 2026 North Carolina Senate leader, conservative architect Phil Berger concedes primary loss READ MORE March 25, 2026 North Carolina Senate leader, conservative architect Phil Berger concedes primary loss READ MORE March 25, 2026 North Carolina Senate Leader, Conservative Architect Phil Berger Concedes Primary Loss READ MORE March 25, 2026 NC Senate leader, conservative architect Phil Berger concedes primary loss READ MORE March 25, 2026 NC Senate leader, conservative architect concedes primary loss READ MORE March 25, 2026 Berger concedes to Page after partial recount doesn't net any votes READ MORE March 25, 2026 Who will replace Phil Berger as Senate leader?
+READ MORE March 24, 2026 Gov.
+Josh Stein praises vote counting after Berger concedes GOP primary to Sam Page READ MORE March 24, 2026 North Carolina Senate Leader, Conservative Architect Phil Berger Concedes Primary Loss READ MORE March 20, 2026 Meeting of the Governor's Advisory Council for Student Safety and Well-Being Scheduled for Monday READ MORE March 14, 2026 For All the Right Reasons, Sydney Batch and Senate Democrats are in the Epstein Files READ MORE March 13, 2026 Berger trails Page as primary delivers NCGA upsets | The North State Journal READ MORE March 11, 2026 Democratic senator tenders resignation from General Assembly - North Carolina READ MORE March 10, 2026 Democratic senator tenders resignation from General Assembly - themountaineer.com READ MORE March 10, 2026 Nominations Now Open For the 2026 Inductee Class of the NC Women Business Owners ...
+READ MORE March 9, 2026 Triangle-area Democrat to resign from state Senate, take lead role at NC Justice Center READ MORE March 9, 2026 Graig Meyer to Resign from State Senate, Transition to North Carolina Justice Center READ MORE March 9, 2026 Graig Meyer Resigns From NC Senate To Lead Justice Center - Hoodline READ MORE March 5, 2026 NC March 3 primary General Assembly key race results | The North State Journal READ MORE March 5, 2026 Page, Berger Race too Close to Call READ MORE March 5, 2026 Here's Who Won in Wake County: 2026 Primary Results - INDY Week READ MORE March 5, 2026 Several NC Democratic lawmakers who voted with the GOP ousted in primary READ MORE March 5, 2026 Voting with GOP backfires for some NC Democrats in primaries - PressReader READ MORE March 3, 2026 North Carolina Primary Election Results 2026 - The New York Times READ MORE March 1, 2026 Charlotte crime shouldn't be used as 'political device,' NC Democratic leaders say READ MORE March 1, 2026 Foushee-Allam primary contrasts Democrats' style differences READ MORE February 27, 2026 NC Democrats Warn against tax cuts to lure companies READ MORE February 27, 2026 Charlotte crime shouldn't be used as 'political device,' NC Democratic leaders say READ MORE February 27, 2026 NC Democrats Warn against tax cuts to lure companies READ MORE February 27, 2026 Charlotte crime shouldn't be used as 'political device,' NC Democratic leaders say READ MORE February 25, 2026 The Road to Victory in NC-04 Runs Through Western Wake County - INDY Week READ MORE February 25, 2026 The Road to Victory in NC-04 Runs Through Western Wake County - INDY Week READ MORE February 24, 2026 Mar-a-Lago incident the latest to illustrate increasing threats to lawmakers READ MORE February 24, 2026 Mar-a-Lago incident the latest to illustrate increasing threats to lawmakers READ MORE February 20, 2026 In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak READ MORE February 20, 2026 In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak READ MORE February 20, 2026 In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak READ MORE February 20, 2026 In key NC Court of Appeals primary, Democrats compete to reverse six-year losing streak READ MORE February 15, 2026 Our choice in the 4th Congressional District's Democratic primary - Durham Herald Sun READ MORE February 15, 2026 Our choice in the 4th Congressional District's Democratic primary - Durham Herald Sun READ MORE February 12, 2026 N&O endorsements: Our choices in Wake County's state House and Senate primaries READ MORE February 12, 2026 N&O endorsements: Our choices in Wake County's state House and Senate primaries READ MORE February 5, 2026 Jones: The big picture in Republican Raleigh | Columns | ashepostandtimes.com READ MORE February 5, 2026 Jones: The big picture in Republican Raleigh | Columns | ashepostandtimes.com READ MORE February 2, 2026 Veteran political consultant Thomas Mills on the state of North Carolina politics READ MORE February 2, 2026 Veteran political consultant Thomas Mills on the state of North Carolina politics READ MORE January 29, 2026 Races to watch ahead of NC's March primaries READ MORE January 29, 2026 Races to watch ahead of NC's March primaries READ MORE January 22, 2026 Infighting, gaslighting, rate-hiking: 2025 NCLEG in review | Sierra Club READ MORE January 22, 2026 Infighting, gaslighting, rate-hiking: 2025 NCLEG in review | Sierra Club READ MORE January 18, 2026 Democrat's speech on immigrants led NC governor to intervene in primary, he says READ MORE January 18, 2026 Democrat's speech on immigrants led NC governor to intervene in primary, he says READ MORE January 16, 2026 Alexander H.
+Jones: State GOP showing strains of political dominance - The Daily Reflector READ MORE January 16, 2026 Alexander H.
+Jones: State GOP showing strains of political dominance - The Daily Reflector READ MORE January 14, 2026 The big picture in Republican-majority Raleigh - The Wilson Times READ MORE January 14, 2026 The big picture in Republican-majority Raleigh - The Wilson Times READ MORE January 10, 2026 Democrat's speech on immigrants led NC governor to intervene in primary, he says READ MORE January 10, 2026 Democrat's speech on immigrants led NC governor to intervene in primary, he says READ MORE January 8, 2026 NC Supreme Court Justice Anita Earls says breast cancer won't halt reelection bid READ MORE January 8, 2026 NC Supreme Court Justice Anita Earls says breast cancer won't halt reelection bid READ MORE January 7, 2026 NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign READ MORE January 7, 2026 Justice Anita Earls shares cancer diagnosis - WWAYTV3 READ MORE January 7, 2026 NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign READ MORE January 7, 2026 NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign READ MORE January 7, 2026 NC Supreme Court Justice Anita Earls says breast cancer won't halt reelection bid READ MORE January 7, 2026 Justice Anita Earls shares cancer diagnosis - WWAYTV3 READ MORE January 7, 2026 NC Supreme Court Justice Anita Earls says breast cancer won't halt reelection bid READ MORE January 7, 2026 Democrat's speech on immigrants led NC governor to intervene in primary, he says READ MORE January 7, 2026 Democrat's speech on immigrants led NC governor to intervene in primary, he says READ MORE January 7, 2026 NC Justice Anita Earls reveals breast cancer diagnosis, will continue reelection campaign READ MORE January 6, 2026 Facing primary, Charlotte's Carla Cunningham apologizes for 2025 ICE bill comments READ MORE January 6, 2026 Facing primary, Charlotte's Carla Cunningham apologizes for 2025 ICE bill comments READ MORE News & Press DONATE DONATE NOW PAID FOR BY FRIENDS FOR SYDNEY BATCH Mail Checks to: Friends Of Sydney Batch PO Box 10541 Raleigh, NC 27605 Home Meet Sydney The Job Press Home Meet Sydney The Job Press Menu Close DONATE bottom of page

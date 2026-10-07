@@ -1,11 +1,14 @@
 {
  "description": "Event Calendar UPCOMING EVENTS! LATEST NEWS PAST EVENTS Lead Like Lincoln 2024",
  "final_url": "https://citizensforsuzanneness.com/calendar/",
- "paid_for_by": null,
+ "fingerprint": "9c5d1262a0b118a9620bedc7ded223be83438924",
+ "format": 3,
+ "paid_for_by": "",
  "title": "CALENDAR - Citizens For Suzanne Ness",
  "years_mentioned": [
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

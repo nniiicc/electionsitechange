@@ -1,17 +1,6 @@
-top of page
-Donations by check can be mailed to:
-Citizens For Wroblewski
-2201 Wallis Ave.
-Overland, MO 63114
-Make checks payable to:
-Citizens For Wroblewski
-MAKE SURE TO INCLUDE YOUR EMPLOYER ON THE CHECK, if retired, write in retired, if self employed, write in your industry
-No donations OVER $2,000 can be accepted
-THANK YOU!!!!
-*donations disclaimer - The committee named "Citizens For Wroblewski" benefits from funds received via donation.
+top of page Patrick Wroblewski For the 72nd HOME ABOUT PATRICK FAQ SUPPORTERS ISSUES DONATE More Use tab to navigate through the menu items.
+Credit Card Donations are accepted through ACTBLUE Donations by check can be mailed to: Citizens For Wroblewski 2201 Wallis Ave.
+Overland, MO 63114 Make checks payable to: Citizens For Wroblewski MAKE SURE TO INCLUDE YOUR EMPLOYER ON THE CHECK, if retired, write in retired, if self employed, write in your industry No donations OVER $2,000 can be accepted THANK YOU!!!! *donations disclaimer - The committee named "Citizens For Wroblewski" benefits from funds received via donation.
 If a donation is made through ACT BLUE, they deduct a 3.95% processing fee.
-STAY UP TO DATE ON THE CAMPAIGN:
-314-313-2620 PatrickForThe72@yahoo.com
-website designed, built, and maintained by Patrick Wroblewski
-No AI used
-bottom of page
+HOME ABOUT PATRICK FAQ SUPPORTERS ISSUES DONATE More Use tab to navigate through the menu items.
+STAY UP TO DATE ON THE CAMPAIGN: 314-313-2620 PatrickForThe72@yahoo.com website designed, built, and maintained by Patrick Wroblewski No AI used © # Paid for by Citizens for Wroblewski, Rebekah Jimenez, Treasurer bottom of page

@@ -1,5 +1,4 @@
-REPRESENTING THE COLLECTIVE VOICES OF THE 49TH DISTRICT
-Assembly District 49 is in the heart of the Driftless Region, the most beautiful area of the state.
+0 Skip to Content John Rindy For Wisconsin About Contact DONATE Open Menu Close Menu John Rindy For Wisconsin About Contact DONATE Open Menu Close Menu About Contact DONATE REPRESENTING THE COLLECTIVE VOICES OF THE 49TH DISTRICT Assembly District 49 is in the heart of the Driftless Region, the most beautiful area of the state.
 I feel it is important to preserve its beauty for generations to come.
 The expansion of technology and its power requirements is needed for future generations but must be balanced with considerations for what we currently have rich farmland, great tasting water, and a panorama of undeniable natural beauty.
 We lend the land from our children, grandchildren, and future generations.
@@ -14,8 +13,7 @@ All of us benefit from their work and dedication to the environment and natural 
 I support Knowles-Nelson program funding and land acquisition funding fully.
 As your representative, I will defend the Driftless Region’s and Wisconsin’s nature and wildlife areas for future generations to enjoy.
 Knowles-Nelson must be funded in the next session of legislature.
-No Data Centers in District 49
-The data center development in Cassville must be paused or stopped entirely.
+Donate No Data Centers in District 49 The data center development in Cassville must be paused or stopped entirely.
 A moratorium of 12 -18 months is needed to put in place until further information is available regarding the long-term consequences, such as air pollution, noise pollution, the environmental waste, and health risks associated to the community.
 A decision made now, can and will affect generations to come.
 Data centers use polyfluoroalkyl substances, also known as "forever chemicals," or (PFAS) in the production of their chips, wiring, and computer boards needed for their operation.
@@ -32,9 +30,8 @@ They protect the billionaire class pushing their agenda until it is too late for
 Deals in the dark are dirty deals.
 As your representative in the Assembly, I will ensure transparency in all of the business ventures that come before us in the future and existing business that will affect the Driftless Region’s ecosystem, our water, our land, our health and our existing economy.
 My campaign is entirely grassroots - I will not take Corporate funding or AIPAC funding.
-Join us.
-Preserving Public Schools
-The solution to preserving our public schools is through amending the school voucher program and increased state funding.
+Join us .
+Donate Preserving Public Schools The solution to preserving our public schools is through amending the school voucher program and increased state funding.
 Wisconsin ranked fifth in the nation for overall quality in 2024.
 Fifth best in the country for math scores, and we have the third lowest dropout rate in 2024.
 Wisconsin ranks 25th in per pupil spending.
@@ -50,8 +47,7 @@ Home schooling is a good option for many families.
 The Voucher Program was passed on the premise of “Personal Choice”.
 Our United States Constitution has the Separation of Church and State Clause, the current misuse of the program is in direct violation of The Constitution.
 As your representative in the Assembly, I will fight for more funding for our schools and restructuring the School Voucher Program in an effort to offset the cost of increasing school taxes.
-Reform/Eliminating Property Taxes
-The solution to the endlessly increasing property taxes is to eliminate them entirely or, at the minimum, paid for a set number of years, 5 to 10 years max.
+Support This Campaign Reform/Eliminating Property Taxes The solution to the endlessly increasing property taxes is to eliminate them entirely or, at the minimum, paid for a set number of years, 5 to 10 years max.
 They can be offset by a progressive taxation system.
 A progressive based taxation system is a fair system to all and also more sustainable.
 The more money you make, the more money you pay.
@@ -72,13 +68,12 @@ An income based system, a one time tax upon sale of a home (like any other good 
 Also, the corporate tax rate must be increased.
 A combination of these ideas or one by itself is needed to help eliminate or greatly offset our current property tax burden of our citizens.
 I will fight for property tax reform/elimination.
-Hemp/Cannabis Reform
-There is a need to address the issue of hemp and cannabis reform.
+Hemp/Cannabis Reform There is a need to address the issue of hemp and cannabis reform.
 The current bill regarding hemp expires on November 12, 2026.
 Currently, the hemp industry is a $700 million industry in our state.
 We must keep the existing hemp industry.
 Cannabis reform is about “Adult Freedoms” and “Personal Choice”.
-It generates $160 million dollars in tax revenue to neighboring states every year.
+It generates $# million dollars in tax revenue to neighboring states every year.
 This is our money.
 These tax dollars could be directed toward lowering property taxes and funding our public schools.
 At the bare minimum, we must pass medical cannabis and preserve the hemp industry in the state of Wisconsin.
@@ -87,5 +82,4 @@ The farmers would benefit from a regulated market, new businesses would be creat
 Cannabis reform is a win for everyone and our economy.
 It is time to accept and embrace the medical benefits of cannabis.
 As your representative in the Assembly, I will fight for proper and fair legislation.
-Authorized & paid for by John Rindy for District 49
-Treasurer; Anne Groenewold
+Authorized & paid for by John Rindy for District 49 Treasurer; Anne Groenewold Contact Me John Rindy for Wisconsin Made with Squarespace Location Potosi, Wisconsin 53820 Contact johnrindy@gmail.com (563) 590-1851

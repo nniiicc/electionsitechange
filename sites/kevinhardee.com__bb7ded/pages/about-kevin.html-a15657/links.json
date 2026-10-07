@@ -1,7 +1,22 @@
 [
-"https://kevinhardee.com/about-kevin.html",
-"https://kevinhardee.com/contact-kevin.html",
-"https://kevinhardee.com/endorsements.html",
-"https://kevinhardee.com/index.html",
-"https://kevinhardee.com/volunteer.html"
+{
+"text": "About Kevin",
+"href": "https://kevinhardee.com/about-kevin.html"
+},
+{
+"text": "Contact Kevin",
+"href": "https://kevinhardee.com/contact-kevin.html"
+},
+{
+"text": "Endorsements",
+"href": "https://kevinhardee.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://kevinhardee.com/index.html"
+},
+{
+"text": "Volunteer",
+"href": "https://kevinhardee.com/volunteer.html"
+}
 ]

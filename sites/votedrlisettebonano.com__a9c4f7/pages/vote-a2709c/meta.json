@@ -1,7 +1,11 @@
 {
  "description": "Voting and voter registration information",
  "final_url": "https://votedrlisettebonano.com/vote/",
+ "fingerprint": "0df208b319b484a01e7acb29d9cc6255415752f2",
+ "format": 3,
  "paid_for_by": "Paid for by LTC LISETTE BONANO, Republican for Florida State House District 67 10006 Cross Creek Blvd",
  "title": "Voting Information | LTC LISETTE BONANO for Florida State House District 67",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

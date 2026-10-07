@@ -1,7 +1,12 @@
 {
  "description": "Kevin McCormick for Lieutenant Governor contact form for messages",
  "final_url": "https://www.kmm2026.org/contact",
- "paid_for_by": null,
+ "fingerprint": "1c28af66c1caa83aad3676204f32f8b65cb59cc5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026"
+ ]
 }

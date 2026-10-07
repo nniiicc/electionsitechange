@@ -1,13 +1,58 @@
 [
-"http://facebook.com/AbigailWoltersMN",
-"https://abigailwolters.com/",
-"https://abigailwolters.com/about-abigail-wolters",
-"https://abigailwolters.com/contact",
-"https://abigailwolters.com/donate",
-"https://abigailwolters.com/get-involved",
-"https://abigailwolters.com/issues",
-"https://abigailwolters.com/privacy-policy",
-"https://facebook.com/AbigailWoltersMN",
-"https://secure.anedot.com/campaign-of-abigail-wolters/donate",
-"https://x.com/AbigailWolters"
+{
+"text": "About Abby",
+"href": "https://abigailwolters.com/about-abigail-wolters/"
+},
+{
+"text": "Contact",
+"href": "https://abigailwolters.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/campaign-of-abigail-wolters/donate"
+},
+{
+"text": "Donate securely today",
+"href": "https://secure.anedot.com/campaign-of-abigail-wolters/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://abigailwolters.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://abigailwolters.com/issues/"
+},
+{
+"text": "Link to Facebook",
+"href": "http://facebook.com/AbigailWoltersMN"
+},
+{
+"text": "Link to X",
+"href": "https://x.com/AbigailWolters"
+},
+{
+"text": "Privacy Policy",
+"href": "https://abigailwolters.com/privacy-policy/"
+},
+{
+"text": "See all options →",
+"href": "https://abigailwolters.com/donate/"
+},
+{
+"text": "Volunteer",
+"href": "https://abigailwolters.com/get-involved/"
+},
+{
+"text": "[image: Abigail Wolters]",
+"href": "https://abigailwolters.com/"
+},
+{
+"text": "facebook.com/AbigailWoltersMN",
+"href": "https://facebook.com/AbigailWoltersMN"
+},
+{
+"text": "x.com/AbigailWolters",
+"href": "https://x.com/AbigailWolters"
+}
 ]

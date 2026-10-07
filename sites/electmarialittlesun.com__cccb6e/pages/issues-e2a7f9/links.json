@@ -1,9 +1,34 @@
 [
-"https://electmarialittlesun.com/",
-"https://electmarialittlesun.com/about-maria",
-"https://electmarialittlesun.com/cart",
-"https://electmarialittlesun.com/contact",
-"https://electmarialittlesun.com/endorsements",
-"https://electmarialittlesun.com/issues",
-"https://secure.anedot.com/littlesun/donate"
+{
+"text": "0",
+"href": "https://www.electmarialittlesun.com/cart"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://www.electmarialittlesun.com/endorsements"
+},
+{
+"text": "About Maria",
+"href": "https://www.electmarialittlesun.com/about-maria"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/littlesun/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electmarialittlesun.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.electmarialittlesun.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electmarialittlesun.com/issues"
+},
+{
+"text": "[image: Elect Maria Littlesun]",
+"href": "https://www.electmarialittlesun.com/"
+}
 ]

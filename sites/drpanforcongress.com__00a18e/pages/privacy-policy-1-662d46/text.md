@@ -1,5 +1,4 @@
-Texting Terms and Conditions
-Dr.
+0 Skip to Content About Issues News Endorsements Store Get Involved Media Donate Open Menu Close Menu About Issues News Endorsements Store Get Involved Media Donate Open Menu Close Menu About Issues News Endorsements Store Get Involved Media Donate Texting Terms and Conditions Dr.
 Richard Pan for Congress’ mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 You can cancel the SMS service at any time.
 Just text "STOP".
@@ -12,3 +11,8 @@ Richard Pan for Congress.
 As always, message and data rates may apply for any messages sent to you from us and to us from you.
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 If you have any questions regarding privacy, please read our privacy policy.
+ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
+Richard Pan for Congress Prefer to donate by check?
+2701 Del Paso Road, Ste 130-159 Sacramento CA 95835 © Copyright #.
+All Rights Reserved.
+SMS Opt-In | Terms & Conditions | Privacy Policy | Contact Us

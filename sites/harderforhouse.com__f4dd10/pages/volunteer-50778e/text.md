@@ -1,11 +1,1 @@
-top of page
-HOME
-ABOUT
-ISSUES
-ENDORSEMENTS
-GALLERY
-DONATE
-CONTACT
-More
-Use tab to navigate through the menu items.
-bottom of page
+top of page HOME ABOUT ISSUES ENDORSEMENTS GALLERY DONATE CONTACT More Use tab to navigate through the menu items. harderforhouse@gmail.com Prepared and paid for by Harder For House Committee, PO Box 303, Henderson, MN , USA 56044 bottom of page

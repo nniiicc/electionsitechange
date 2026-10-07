@@ -1,8 +1,30 @@
 [
-"http://judgemarywindom.com/about.html",
-"http://judgemarywindom.com/campaign-trail.html",
-"http://judgemarywindom.com/contact.html",
-"http://judgemarywindom.com/index.html",
-"http://judgemarywindom.com/news.html",
-"https://secure.anedot.com/committee-to-re-elect-mary-windom/give"
+{
+"text": "About",
+"href": "http://www.judgemarywindom.com/about.html"
+},
+{
+"text": "Contact",
+"href": "http://www.judgemarywindom.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-re-elect-mary-windom/give"
+},
+{
+"text": "Home",
+"href": "http://www.judgemarywindom.com/index.html"
+},
+{
+"text": "In the News",
+"href": "http://www.judgemarywindom.com/news.html"
+},
+{
+"text": "Photos from the Campaign Trail",
+"href": "http://www.judgemarywindom.com/campaign-trail.html"
+},
+{
+"text": "[image: Logo go home]",
+"href": "http://www.judgemarywindom.com/index.html"
+}
 ]

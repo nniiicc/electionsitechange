@@ -1,7 +1,12 @@
 {
  "description": "Official site of Alabama State Representative David Faulkner, serving District 46 including Mountain Brook, Homewood, and Hoover.",
  "final_url": "https://www.davidfaulkneral46.com/",
- "paid_for_by": null,
+ "fingerprint": "8e48987fa6780d20d9c84e687bcce09dbd3bfeb7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Faulkner | Alabama State Representative District 46",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2026"
+ ]
 }

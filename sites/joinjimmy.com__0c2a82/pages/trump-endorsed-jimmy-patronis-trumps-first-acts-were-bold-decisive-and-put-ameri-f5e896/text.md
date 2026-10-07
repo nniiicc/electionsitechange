@@ -1,4 +1,4 @@
-[Fort Walton 1-21-25] Today, Florida Chief Financial Officer (CFO) Jimmy Patronis issued a statement praising President Donald Trump’s actions on a breadth of issues, including securing the border, ending birthright citizenship for illegal immigrants, exiting the World Health Organization, declaring a national energy emergency to support oil and gas development, and many others.
+Skip to content Endorsed By President Trump @JimmyPatronis HOME ABOUT News SHOP VOLUNTEER Contribute January 21, 2025 Trump-Endorsed Jimmy Patronis: Trump’s First Acts Were Bold, Decisive, and Put America First [Fort Walton 1-21-25] Today, Florida Chief Financial Officer (CFO) Jimmy Patronis issued a statement praising President Donald Trump’s actions on a breadth of issues, including securing the border, ending birthright citizenship for illegal immigrants, exiting the World Health Organization, declaring a national energy emergency to support oil and gas development, and many others.
 Patronis is the only candidate who is backed by President Donald Trump for the Florida Congressional District 1 special election.
 CFO Jimmy Patronis said, “While MAGA flooded into the streets of DC, President Trump did what he does best: took decisive, bold action, rooted in commonsense.
 At a dizzying pace the President issued executive order after executive order to protect our borders, reduce inflation, support economic development, and frankly, return this country back to normalcy.
@@ -15,7 +15,9 @@ And no doubt, they’ll do it again.
 “The President needs fighters.
 He needs people who’ll watch his six as the Left and RINOs take swings at him.
 I love this country too much to let that happen, and I am fired up to go to Washington to fight for the America First agenda, and hold the Liz Cheneys and Adam Kinzingers accountable for what they have done to this great country.
-I want my boys to grow up in the country that’s given me so much, and I’m prepared to go to the mat for Donald Trump and MAGA to protect America – and I look forward to fighting for the men and women of CD-1 in Congress.”
-In addition to being endorsed by President Trump, other GOP leaders, including Speaker Mike Johnson, House Majority Leader Steve Scalise and House Majority Whip Tom Emmer have endorsed Jimmy Patronis in the CD-1 race.
+I want my boys to grow up in the country that’s given me so much, and I’m prepared to go to the mat for Donald Trump and MAGA to protect America – and I look forward to fighting for the men and women of CD-1 in Congress.” In addition to being endorsed by President Trump, other GOP leaders, including Speaker Mike Johnson, House Majority Leader Steve Scalise and House Majority Whip Tom Emmer have endorsed Jimmy Patronis in the CD-1 race.
 The Special Primary Election Day is scheduled for January 28, 2025 and the Special General Election is slated for April 1, 2025.
-For more information on Jimmy Patronis visit https://joinjimmy.com/.
+For more information on Jimmy Patronis visit https://joinjimmy.com/ .
+SHARE NEWS PRESS RELEASES ARCHIVES Trump-Endorsed Jimmy Patronis: Trump’s First Acts Were Bold, Decisive, and Put America First Read More » Jimmy Patronis Announces Endorsement from Honorable Public Servant Jeff Miller Read More » Trump-Endorsed Jimmy Patronis: Congress Must ProtectAmericans from Being Financially Blacklisted Read More » Search ARCHIVES Archives January 2025 GET PRESS RELEASES Δ HOME ABOUT VOLUNTEER Contribute PAID FOR BY FRIENDS OF JIMMY PATRONIS, INC.
+Contributions to Friends of Jimmy Patronis are not deductible as charitable contributions for federal income tax purposes.
+HOME ABOUT VOLUNTEER NEWS FIND PRECINCT

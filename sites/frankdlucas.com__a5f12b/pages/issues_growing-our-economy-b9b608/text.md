@@ -1,4 +1,8 @@
-Oklahoma’s economy is strongest when taxes are low, businesses are able to thrive, and government gets out of the way.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate Growing Our Economy Growing Our Economy Oklahoma’s economy is strongest when taxes are low, businesses are able to thrive, and government gets out of the way.
 From voting for historic tax reform to cutting unnecessary regulatory red tape, Frank supports lowering taxes, reducing burdensome regulations, and increasing free and fair trade- guaranteeing more Oklahomans take home more money at the end of a long-day’s work.
 He knows what small business owners and family farmers really want is for the government to get out of the way and let them grow their business.
 Allowing our small businesses and family farms thrive not only creates jobs but it promises a brighter future for all of Oklahoma’s families.
+Post navigation Strengthening Our National Security Securing America’s Border Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

@@ -1,25 +1,3 @@
-- This event has passed.
-4th Annual Golf Outing
-June 23 @ 11:00 am - 3:00 pm
-Join Senator Chesney for his 4th Annual Golf Outing
-THE FREEPORT CLUB • 1614 Park Blvd | Freeport, IL
-TUESDAY, JUNE 23RD
-11:00am – Registration • 12:00pm – Shotgun Start
-Food Truck by Rapped with Smoke BBQ
-TICKET PRICES:
-INDIVIDUAL: $175
-FOURSOME TICKETS: $700
-BIRDIE SPONSOR*
-$5,000
-LUNCH SPONSOR*
-$2,500
-HOLE IN ONE SPONSOR*
-$1,500
-RECEPTION SPONSOR*
-$1,000
-HOLE SPONSOR:
-$150
-*Sponsorships include foursome for golf, lunch, reception, event recognition & signage.
-PLEASE MAKE CHECKS PAYABLE TO:
-Chesney for Illinois | PO Box 633 | Freeport, IL 61032
-FOR MORE QUESTIONS OR TO RSVP, PLEASE CONTACT: rsvp@thenewberggroup.org or 815.513.5215
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY « All Events This event has passed.
+4th Annual Golf Outing June 23 @ 11:00 am - 3:00 pm « Legislative Breakfast with STATE SENATOR ANDREW CHESNEY and Guest Speaker COLLIN MOSELEY Cocktail reception in support of Andrew Chesney » Join Senator Chesney for his 4th Annual Golf Outing Sign Up Online THE FREEPORT CLUB • 1614 Park Blvd | Freeport, IL TUESDAY, JUNE 23RD 11:00am – Registration • 12:00pm – Shotgun Start Food Truck by Rapped with Smoke BBQ TICKET PRICES: INDIVIDUAL: $175 FOURSOME TICKETS: $700 BIRDIE SPONSOR* $5,000 LUNCH SPONSOR* $2,500 HOLE IN ONE SPONSOR* $1,500 RECEPTION SPONSOR* $1,000 HOLE SPONSOR: $150 *Sponsorships include foursome for golf, lunch, reception, event recognition & signage.
+PLEASE MAKE CHECKS PAYABLE TO: Chesney for Illinois | PO Box 633 | Freeport, IL 61032 FOR MORE QUESTIONS OR TO RSVP, PLEASE CONTACT: rsvp@thenewberggroup.org or 815.513.5215 Sign Up Online Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: June 23 Time: 11:00 am - 3:00 pm Website: https://secure.winred.com/chesney-for-illinois-219e90b9/260623 Venue The Freeport Club 1614 Park Blvd Freeport , IL + Google Map « Legislative Breakfast with STATE SENATOR ANDREW CHESNEY and Guest Speaker COLLIN MOSELEY Cocktail reception in support of Andrew Chesney » #© Paid for by Chesney for Illinois    

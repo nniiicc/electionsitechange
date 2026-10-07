@@ -1,5 +1,4 @@
-Taxing and Spending
-This year the legislature passed a budget that was a 10.8% increase over last year.
+Home Meet Bob Issues News Volunteer Contribute Contact Yard Signs Home ❭ Issues ❭ Taxing and Spending Taxing and Spending This year the legislature passed a budget that was a 10.8% increase over last year.
 Do you feel you are receiving 10% better results?
 Since 2017 state government spending has increased approximately 60%.
 Are you 60% better off than you were in 2017?
@@ -17,9 +16,4 @@ Remember it’s your money and your state government is responsible for carefull
 It’s been proven time and again that a reduction in income tax results in more revenue for the government.
 It’s your money.
 You earned it and I will fight to for you to keep more of it!
-As your representative I will sponsor and support legislation that
-- Eliminates the Personal Income Tax
-- Reforms the Gross Receipts Tax
-- Reduces state government spending
-- Provides a tax deduction for mortgage payments
-- Eliminate tax on overtime, tips, and social security
+As your representative I will sponsor and support legislation that Eliminates the Personal Income Tax Reforms the Gross Receipts Tax Reduces state government spending Provides a tax deduction for mortgage payments Eliminate tax on overtime, tips, and social security « Previous: Public Safety and Crime Next: Education » Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

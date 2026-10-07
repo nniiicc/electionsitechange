@@ -1,39 +1,24 @@
-Governor Lombardo Delivers Reliable Energy and New Solar Projects, Strengthens Nevada’s Fuel Supply
-FOR IMMEDIATE RELEASE
-April 02, 2026
-Contact: press@joelombardofornv.com
-LAS VEGAS – Since taking office, Governor Joe Lombardo has made energy affordability and reliability a top priority, delivering real results to keep costs down for Nevada families while strengthening the state’s long-term energy security.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Governor Lombardo Delivers Reliable Energy and New Solar Projects, Strengthens Nevada’s Fuel Supply FOR IMMEDIATE RELEASE April 02, 2026 Contact: press@joelombardofornv.com LAS VEGAS – Since taking office, Governor Joe Lombardo has made energy affordability and reliability a top priority, delivering real results to keep costs down for Nevada families while strengthening the state’s long-term energy security.
 From maintaining some of the lowest electricity rates in the nation and fighting for major solar projects, to taking decisive action to stabilize Nevada’s fuel supply and push back against California’s costly policies, Governor Lombardo has focused on a balanced, all-of-the-above approach that puts Nevada consumers first.
 “Governor Lombardo has taken a comprehensive, results-driven approach to energy - keeping electricity prices low, unlocking major solar projects to expand capacity, and aggressively pushing back on policies that threaten to raise costs for Nevadans.
-At the same time, he’s worked to strengthen Nevada’s fuel supply and reduce price volatility, always with a clear focus on affordability, reliability, and long-term energy security.” - Halee Dobbins, Spokesperson for the Lombardo for Governor Campaign
-Governor Lombardo Has Kept Nevada Electricity Prices Low
-- Nevada continues to offer some of the lowest electricity prices in the country, with residential rates through September 2025 coming in 11% below the Mountain West average, 26% below the national average, and 60% lower than California, according to the U.S.
+At the same time, he’s worked to strengthen Nevada’s fuel supply and reduce price volatility, always with a clear focus on affordability, reliability, and long-term energy security.” - Halee Dobbins, Spokesperson for the Lombardo for Governor Campaign Governor Lombardo Has Kept Nevada Electricity Prices Low Nevada continues to offer some of the lowest electricity prices in the country, with residential rates through September 2025 coming in 11% below the Mountain West average, 26% below the national average, and 60% lower than California, according to the U.S.
 Energy Information Administration.
-- From 2005 to 2025, Nevada recorded the smallest increase in electricity rates nationwide, according to recent data from the Energy Policy Research Foundation.
-- With low electricity prices, Nevada offers the best savings for electric vehicle drivers in the Southwest, according to the Southwest Energy Efficiency Project (SWEEP).
-Governor Lombardo Has Secured Nevada’s Solar Projects
-- Under Governor Lombardo, Nevada leads the nation in solar energy on a per-capita basis, producing more solar electricity per resident than any other state and supporting the highest number of solar industry jobs per capita.
-- In August 2025, Governor Lombardo wrote to U.S.
+From 2005 to 2025, Nevada recorded the smallest increase in electricity rates nationwide, according to recent data from the Energy Policy Research Foundation .
+With low electricity prices, Nevada offers the best savings for electric vehicle drivers in the Southwest, according to the Southwest Energy Efficiency Project (SWEEP). ‍ ‍ Governor Lombardo Has Secured Nevada’s Solar Projects Under Governor Lombardo, Nevada leads the nation in solar energy on a per-capita basis, producing more solar electricity per resident than any other state and supporting the highest number of solar industry jobs per capita.
+In August 2025, Governor Lombardo wrote to U.S.
 Secretary of the Interior Doug Burgum to ask for approval on three major solar projects in Nevada.
-- In November 2025, Governor Lombardoasked President Trump directly to expedite permitting approval for Nevada solar projects.
-- By early January 2026, the solar projects mentioned in Governor Lombardo’s letter to U.S.
-Secretary Burgumwere approved by the U.S.
+In November 2025, Governor Lombardo asked President Trump directly to expedite permitting approval for Nevada solar projects.
+By early January 2026, the solar projects mentioned in Governor Lombardo’s letter to U.S.
+Secretary Burgum were approved by the U.S.
 Department of the Interior.
 This includes Libra Solar, Boulder Solar III, and Dry Lake East solar projects, which saved more than 1,500 construction jobs for Nevadans.
-- Governor Lombardo has advocated for the National Energy Dominance Council’s approval of 18 new solar projects, all of which have been subsequently moved on to be approved or to complete the rest of their regular permitting process.
-Governor Lombardo Has Taken Action to Lower Costs and Strengthen Our Fuel Supply
-- As soon as Governor Lombardo took office in January 2023, he proposed suspending the gas tax for 12 months through his Inflation Reduction Act.
+Governor Lombardo has advocated for the National Energy Dominance Council’s approval of 18 new solar projects, all of which have been subsequently moved on to be approved or to complete the rest of their regular permitting process.
+Governor Lombardo Has Taken Action to Lower Costs and Strengthen Our Fuel Supply As soon as Governor Lombardo took office in January 2023, he proposed suspending the gas tax for 12 months through his Inflation Reduction Act.
 Democrats said the legislation was “dead on arrival” and refused to hear the bill.
-- In October 2025, Governor Lombardo proposed aresolution for the formation of a Fuel Resiliency Committee within the Nevada Commission on Homeland Security.
-- In December 2025, Governor Lombardo’s Fuel Resiliency Committee was approved by the Nevada Commission on Homeland Security, and the committee held their first meeting in January 2026.
-Governor Lombardo Has Taken Action to Lower Costs and Strengthen Our Fuel Supply
-- As soon as Governor Lombardo took office in January 2023, he proposed suspending the gas tax for 12 months through his Inflation Reduction Act.
+In October 2025, Governor Lombardo proposed a resolution for the formation of a Fuel Resiliency Committee within the Nevada Commission on Homeland Security.
+In December 2025, Governor Lombardo’s Fuel Resiliency Committee was approved by the Nevada Commission on Homeland Security, and the committee held their first meeting in January 2026. ‍ ‍ Governor Lombardo Has Taken Action to Lower Costs and Strengthen Our Fuel Supply As soon as Governor Lombardo took office in January 2023, he proposed suspending the gas tax for 12 months through his Inflation Reduction Act.
 Democrats said the legislation was “dead on arrival” and refused to hear the bill.
-- In October 2025, Governor Lombardo proposed aresolution for the formation of a Fuel Resiliency Committee within the Nevada Commission on Homeland Security.
-- In December 2025, Governor Lombardo’s Fuel Resiliency Committee was approved by the Nevada Commission on Homeland Security, and the committee held their first meeting in January 2026.
-IN THE NEWS:
-LVRJ:EDITORIAL: Lombardo right to urge Newsom to stop higher gas prices
-NY POST:Nevada governor fires warning shot at Gavin Newsom over oil crisis: ‘Real-world consequences’
-KOLO 8:Nevada’s new Fuel Resiliency Committee to strengthen fuel supply
-CA Globe:US Oil & Gas Association Slams Nevada AG Aaron Ford for Hypocrisy on Soaring Gas Prices
-###
+In October 2025, Governor Lombardo proposed a resolution for the formation of a Fuel Resiliency Committee within the Nevada Commission on Homeland Security.
+In December 2025, Governor Lombardo’s Fuel Resiliency Committee was approved by the Nevada Commission on Homeland Security, and the committee held their first meeting in January 2026.
+IN THE NEWS: ‍ ‍ LVRJ: EDITORIAL: Lombardo right to urge Newsom to stop higher gas prices NY POST: Nevada governor fires warning shot at Gavin Newsom over oil crisis: ‘Real-world consequences’ ‍ ‍ KOLO 8: Nevada’s new Fuel Resiliency Committee to strengthen fuel supply CA Globe: US Oil & Gas Association Slams Nevada AG Aaron Ford for Hypocrisy on Soaring Gas Prices ### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

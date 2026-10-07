@@ -1,10 +1,42 @@
 [
-"http://instagram.com/",
-"https://donnascheuren.com/",
-"https://donnascheuren.com/contact",
-"https://donnascheuren.com/services",
-"https://facebook.com/",
-"https://facebook.com/DonnaScheuren",
-"https://secure.winred.com/friends-of-donna-scheuren/donate-today",
-"https://twitter.com/"
+{
+"text": "ABOUT",
+"href": "https://www.donnascheuren.com/#About"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/friends-of-donna-scheuren/donate-today"
+},
+{
+"text": "DONATE →",
+"href": "https://www.donnascheuren.com/contact"
+},
+{
+"text": "DONATE →",
+"href": "https://www.donnascheuren.com/services"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.donnascheuren.com/#Issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.donnascheuren.com/#VOLUNTEER"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DonnaScheuren/"
+}
 ]

@@ -1,22 +1,98 @@
 [
-"https://0fa3687f-6d55-4bf3-b6ff-5e067dea2605.sitesab.com/meet-candidate",
-"https://candidates.wp-site.xyz/events",
-"https://conradforassembly.com/",
-"https://conradforassembly.com/accessibility-statement",
-"https://conradforassembly.com/endorsements",
-"https://conradforassembly.com/event/bill-conrads-7th-annual-oktoberfest",
-"https://conradforassembly.com/events",
-"https://conradforassembly.com/issues",
-"https://conradforassembly.com/meet-candidate",
-"https://conradforassembly.com/privacy-policy",
-"https://conradforassembly.com/terms-of-service",
-"https://facebook.com/conradfornys",
-"https://heyvictor.com/",
-"https://instagram.com/conradfornysassembly",
-"https://secure.actblue.com/donate/billconrad",
-"https://secure.actblue.com/donate/billconrad?amount=150",
-"https://secure.actblue.com/donate/billconrad?amount=25",
-"https://secure.actblue.com/donate/billconrad?amount=5",
-"https://secure.actblue.com/donate/billconrad?amount=50",
-"https://secure.actblue.com/donate/billconrad?amount=500"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/billconrad?amount=150"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/billconrad?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/billconrad?amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/billconrad?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/billconrad?amount=500"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://conradforassembly.com/accessibility-statement/"
+},
+{
+"text": "Bill Conrad’s 7th Annual Oktoberfest",
+"href": "https://conradforassembly.com/event/bill-conrads-7th-annual-oktoberfest/"
+},
+{
+"text": "Contact",
+"href": "mailto:campaignconrad@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/billconrad?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://conradforassembly.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://candidates.wp-site.xyz/events/"
+},
+{
+"text": "Events",
+"href": "https://conradforassembly.com/events/"
+},
+{
+"text": "Home",
+"href": "https://conradforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://conradforassembly.com/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://0fa3687f-6d55-4bf3-b6ff-5e067dea2605.sitesab.com/meet-candidate/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://conradforassembly.com/meet-candidate/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/billconrad?amount="
+},
+{
+"text": "Privacy Policy",
+"href": "https://conradforassembly.com/privacy-policy/"
+},
+{
+"text": "See event info",
+"href": "https://conradforassembly.com/event/bill-conrads-7th-annual-oktoberfest/"
+},
+{
+"text": "Terms of Service",
+"href": "https://conradforassembly.com/terms-of-service/"
+},
+{
+"text": "[image] [image]",
+"href": "https://conradforassembly.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/conradfornys/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/conradfornysassembly/"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Polls will be open from 7am - 7pm at Montpelier City Hall, 39 Main St.",
  "final_url": "https://www.jaredduvalvt.com/events/election-day",
- "paid_for_by": null,
- "title": "Election Day \u2014 Jared for House 2026",
- "years_mentioned": []
+ "fingerprint": "cdea62d0ffe8a79b2ad7f8f43124f019ac7ae2cb",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Election Day — Jared for House 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

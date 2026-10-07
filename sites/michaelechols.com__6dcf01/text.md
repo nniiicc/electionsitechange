@@ -1,4 +1,4 @@
-Michael Echols represents North Louisiana (District 14) in the Louisiana House of Representatives and serves as Chairman of the House Republican Delegation.
+Skip to content Home About Issues Endorsement Media Contact DONATE Michael Echols State Representative | Business Leader | Conservative Reformer Michael Echols represents North Louisiana (District 14) in the Louisiana House of Representatives and serves as Chairman of the House Republican Delegation.
 A lifelong resident of Northeast Louisiana, Michael has built his career on strengthening communities, expanding opportunity, and demanding accountability from government.
 A graduate of the University of Louisiana at Monroe, where he earned degrees in Accounting and an MBA, Michael is a licensed contractor and commercial real estate investor and builder.
 He has led projects that revitalize historic downtowns, expand housing, develop hotels and healthcare facilities, and create jobs across Louisiana.
@@ -9,3 +9,5 @@ Beyond the legislature, Michael’s service spans arts, culture, youth developme
 He has served as President of the Monroe Symphony Orchestra, President of the Monroe Kiwanis Club, Chairman of the Louisiana State Arts Council, and President of the Louisiana Trust for Historic Preservation.
 Michael is the longtime host of “Echols @ Eight” on KMLB, where he delivers principled conservative commentary on the issues shaping Louisiana’s future.
 Michael and his wife, Christie, an architect, live alongside the Ouachita River in Monroe with their two daughters.
+Paid for by Echols for Congress Echols For Congress P.O.
+Box 2991 Monroe, LA 71207 michael@michaelechols.com Privacy Policy | Terms of Service Facebook X-twitter

@@ -1,16 +1,74 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdeQ7pLN2OyE9GhmQKvjzHpS1QNBCAo6Y0P1ALoOn7JLVJpyQ/viewform?usp=sf_link",
-"https://docs.google.com/forms/d/e/1FAIpQLSetZkBjL8ZwWdRGwUKAhGtZr5QCXx6eZcU7THr3yMLbUn8nKw/viewform?usp=sf_link",
-"https://docs.google.com/forms/d/e/1FAIpQLSfaVOByLu2m_QPRL2wXQriWcnrtG0K8clWVQN-f8z2yFQ0PQw/viewform?usp=sf_link",
-"https://facebook.com/JamesSkoufis",
-"https://instagram.com/jamesskoufis",
-"https://secure.actblue.com/donate/james-skoufis",
-"https://skoufisforny.com/",
-"https://skoufisforny.com/about-james",
-"https://skoufisforny.com/contact",
-"https://skoufisforny.com/media",
-"https://skoufisforny.com/the-issues",
-"https://skoufisforny.com/topics",
-"https://skoufisforny.com/voting",
-"https://twitter.com/JamesSkoufis"
+{
+"text": "ABOUT JAMES",
+"href": "https://skoufisforny.com/about-james"
+},
+{
+"text": "ABOUT JAMES",
+"href": "https://skoufisforny.com/about-james/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/james-skoufis"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://skoufisforny.com/contact"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://skoufisforny.com/contact/"
+},
+{
+"text": "ISSUES",
+"href": "https://skoufisforny.com/the-issues/"
+},
+{
+"text": "ISSUES",
+"href": "https://skoufisforny.com/topics"
+},
+{
+"text": "Intern Interest Form.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfaVOByLu2m_QPRL2wXQriWcnrtG0K8clWVQN-f8z2yFQ0PQw/viewform?usp=sf_link"
+},
+{
+"text": "Join Email List",
+"href": "https://skoufisforny.com/contact/#email"
+},
+{
+"text": "MEDIA",
+"href": "https://skoufisforny.com/media"
+},
+{
+"text": "REQUEST LAWN SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdeQ7pLN2OyE9GhmQKvjzHpS1QNBCAo6Y0P1ALoOn7JLVJpyQ/viewform?usp=sf_link"
+},
+{
+"text": "VOTE",
+"href": "https://skoufisforny.com/voting/"
+},
+{
+"text": "Volunteer Interest Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSetZkBjL8ZwWdRGwUKAhGtZr5QCXx6eZcU7THr3yMLbUn8nKw/viewform?usp=sf_link"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://skoufisforny.com/"
+},
+{
+"text": "[image] 845-397-7625",
+"href": "tel:845-397-7625"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JamesSkoufis"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamesSkoufis"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamesskoufis/"
+}
 ]

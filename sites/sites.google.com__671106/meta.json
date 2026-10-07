@@ -1,7 +1,9 @@
 {
  "description": "Hello, everyone! My name's Ethan Sanford, and I'm running for Idaho State Senator from Legislative District #34 (a.k.a. Madison County)!",
  "final_url": "https://sites.google.com/view/ethan4statesenate/home",
- "paid_for_by": null,
+ "fingerprint": "c916f4039d34eba40890d1115267c9b4283c25b3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Idaho State Senate, LD#34",
  "years_mentioned": []
 }

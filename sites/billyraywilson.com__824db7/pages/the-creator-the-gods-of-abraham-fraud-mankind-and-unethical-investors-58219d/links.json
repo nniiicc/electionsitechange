@@ -1,14 +1,54 @@
 [
-"https://billyraywilson.com/",
-"https://billyraywilson.com/about",
-"https://billyraywilson.com/author/hotwire",
-"https://billyraywilson.com/blog",
-"https://billyraywilson.com/books",
-"https://billyraywilson.com/category/blog-post",
-"https://billyraywilson.com/contact",
-"https://billyraywilson.com/probable-self-inflicted-injurious-blog-but-mandatory-responsibility",
-"https://billyraywilson.com/republic-lost",
-"https://msn.com/en-gb/lifestyle/lifestylegeneral/humans-didn-t-evolve-from-monkeys-the-real-evolution-truth/vi-AA1Wds2j?ocid=hpmsn",
-"https://msn.com/en-us/news/world/is-christianity-a-colonizer-religion-m%C4%81ori-speak-out/vi-AA1Wd162",
-"https://youtube.com/shorts/0Wo7OVMIwZ8"
+{
+"text": "About",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "Billy Ray Wilson",
+"href": "https://billyraywilson.com/author/hotwire/"
+},
+{
+"text": "Blog",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "Blog Post",
+"href": "https://billyraywilson.com/category/blog-post/"
+},
+{
+"text": "Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Contact",
+"href": "https://billyraywilson.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://billyraywilson.com/republic-lost/"
+},
+{
+"text": "[image: Billy Ray Wilson – American Veteran, Author, and Political Candidate]",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "https://www.msn.com/en-gb/lifestyle/lifestylegeneral/humans-didn-t-evolve-from-monkeys-the-real-evolution-truth/vi-AA1Wds2j?ocid=hpmsn",
+"href": "https://www.msn.com/en-gb/lifestyle/lifestylegeneral/humans-didn-t-evolve-from-monkeys-the-real-evolution-truth/vi-AA1Wds2j?ocid=hpmsn"
+},
+{
+"text": "https://www.msn.com/en-us/news/world/is-christianity-a-colonizer-religion-m%C4%81ori-speak-out/vi-AA1Wd162",
+"href": "https://www.msn.com/en-us/news/world/is-christianity-a-colonizer-religion-m%C4%81ori-speak-out/vi-AA1Wd162"
+},
+{
+"text": "https://www.youtube.com/shorts/0Wo7OVMIwZ8",
+"href": "https://www.youtube.com/shorts/0Wo7OVMIwZ8"
+},
+{
+"text": "← Previous Post",
+"href": "https://billyraywilson.com/probable-self-inflicted-injurious-blog-but-mandatory-responsibility/"
+}
 ]

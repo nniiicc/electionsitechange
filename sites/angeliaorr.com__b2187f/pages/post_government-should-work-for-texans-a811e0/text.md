@@ -1,5 +1,5 @@
-Government Should Work for Texans
-A few weeks ago, I wrote to you about the Sunset Commission and government accountability.
+top of page Donate Facebook Twitter Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media More Use tab to navigate through the menu items.
+All Posts Search Government Should Work for Texans Angelia Orr Sep 21 2 min read A few weeks ago, I wrote to you about the Sunset Commission and government accountability.
 This week, I want to keep that conversation going!
 If Texans are expected to work hard, pay their taxes, and follow the rules, they should expect their government to do the same.
 That means government should be transparent about how it operates, responsible with taxpayer dollars, and willing to admit when something is not working and fix it.
@@ -20,5 +20,4 @@ I want to make sure you and the other Texans I represent are part of that conver
 If you have dealt with a state agency and encountered a problem, unnecessary red tape, a process that does not make sense, or simply have an idea for how government could serve people better, I encourage you to reach out to my office.
 Those firsthand experiences are important as the Sunset process continues.
 Our job is to make sure taxpayer dollars are being used responsibly, government operates in the open, and the agencies we fund are actually doing their jobs.
-That is accountability; it is something Texans should expect from their government, and it is something I am committed to every day.
-— Your Conservative State Representative Angelia Orr
+That is accountability; it is something Texans should expect from their government, and it is something I am committed to every day. — Your Conservative State Representative Angelia Orr Recent Posts See All Strengthening Rural Healthcare The Online Battle for Our Children Building the Foundation for Student Success Home Voting Endorsements About Angelia Priorities 89th Legislature Governor's Priorities Get Involved Media JOIN THE TEAM Welcome to Team Orr Facebook Twitter Donate Privacy Policy Pol Ad Paid For By Angelia Orr For Texas House PO Box 113 Itasca, TX 76055 bottom of page

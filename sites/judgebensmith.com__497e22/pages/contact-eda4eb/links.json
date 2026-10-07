@@ -1,15 +1,70 @@
 [
-"http://facebook.com/judgebensmith",
-"http://linkedin.com/in/judgebensmith",
-"https://judgebensmith.com/",
-"https://judgebensmith.com/attorneys",
-"https://judgebensmith.com/contact",
-"https://judgebensmith.com/donate",
-"https://judgebensmith.com/events",
-"https://judgebensmith.com/in-his-own-words",
-"https://judgebensmith.com/news-and-resources",
-"https://judgebensmith.com/practice-areas",
-"https://judgebensmith.com/social",
-"https://judgebensmith.com/voices-of-support",
-"https://linkedin.com/in/judgebensmith"
+{
+"text": "ABOUT",
+"href": "https://www.judgebensmith.com/practice-areas"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.judgebensmith.com/contact"
+},
+{
+"text": "CONTACT",
+"href": "https://www.judgebensmith.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.judgebensmith.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.judgebensmith.com/attorneys"
+},
+{
+"text": "EVENTS",
+"href": "https://www.judgebensmith.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.judgebensmith.com"
+},
+{
+"text": "IN HIS OWN WORDS",
+"href": "https://www.judgebensmith.com/in-his-own-words"
+},
+{
+"text": "NEWS",
+"href": "https://www.judgebensmith.com/news-and-resources"
+},
+{
+"text": "SOCIAL",
+"href": "https://www.judgebensmith.com/social"
+},
+{
+"text": "VOICES OF SUPPORT",
+"href": "https://www.judgebensmith.com/voices-of-support"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "http://www.facebook.com/judgebensmith"
+},
+{
+"text": "[image: Black LinkedIn Icon]",
+"href": "https://www.linkedin.com/in/judgebensmith"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/judgebensmith"
+},
+{
+"text": "[image: White LinkedIn Icon]",
+"href": "http://www.linkedin.com/in/judgebensmith"
+},
+{
+"text": "[no text]",
+"href": "https://www.judgebensmith.com/contact"
+},
+{
+"text": "campaign@judgebensmith.com",
+"href": "mailto:campaign@judgebensmith.com"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://adrbms.com/",
-"https://billmorrisforstaterep.com/",
-"https://billmorrisforstaterep.com/about",
-"https://billmorrisforstaterep.com/contact",
-"https://billmorrisforstaterep.com/contribute",
-"https://billmorrisforstaterep.com/volunteer",
-"https://billmorrisforstaterep.com/website-policies"
+{
+"text": "(Privacy & Website Policies)",
+"href": "https://billmorrisforstaterep.com/website-policies/"
+},
+{
+"text": "About",
+"href": "https://billmorrisforstaterep.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://billmorrisforstaterep.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://billmorrisforstaterep.com/contribute/"
+},
+{
+"text": "Volunteer",
+"href": "https://billmorrisforstaterep.com/volunteer/"
+},
+{
+"text": "Website Policies |",
+"href": "https://billmorrisforstaterep.com/website-policies/"
+},
+{
+"text": "Website by adrBMS.com",
+"href": "https://adrbms.com"
+},
+{
+"text": "[image: Bill Morris for State Representative]",
+"href": "https://billmorrisforstaterep.com/"
+}
 ]

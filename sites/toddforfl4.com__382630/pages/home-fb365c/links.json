@@ -1,28 +1,146 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/todd.for.congress",
-"https://tiktok.com/@toddforfl4",
-"https://toddforfl4.com/",
-"https://toddforfl4.com/contact",
-"https://toddforfl4.com/contribute",
-"https://toddforfl4.com/contribute?amount=10",
-"https://toddforfl4.com/contribute?amount=100",
-"https://toddforfl4.com/contribute?amount=1000",
-"https://toddforfl4.com/contribute?amount=25",
-"https://toddforfl4.com/contribute?amount=250",
-"https://toddforfl4.com/contribute?amount=50",
-"https://toddforfl4.com/contribute?amount=500",
-"https://toddforfl4.com/events",
-"https://toddforfl4.com/home",
-"https://toddforfl4.com/issues",
-"https://toddforfl4.com/issues/american-prosperity-card",
-"https://toddforfl4.com/issues/housing-affordability",
-"https://toddforfl4.com/meet_todd",
-"https://toddforfl4.com/news",
-"https://toddforfl4.com/privacy-policy",
-"https://toddforfl4.com/volunteer",
-"https://toddforfl4.com/vote",
-"https://toddforfl4.com/why-run-independent",
-"https://toddforfl4.com/yard-sign",
-"https://twitter.com/ToddforFL4"
+{
+"text": "$#",
+"href": "https://www.toddforfl4.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.toddforfl4.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.toddforfl4.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.toddforfl4.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.toddforfl4.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.toddforfl4.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.toddforfl4.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.toddforfl4.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.toddforfl4.com/contribute"
+},
+{
+"text": "Ending Government Corruption",
+"href": "https://www.toddforfl4.com/issues"
+},
+{
+"text": "Events",
+"href": "https://www.toddforfl4.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.toddforfl4.com/home"
+},
+{
+"text": "Housing Affordability",
+"href": "https://www.toddforfl4.com/issues/housing-affordability"
+},
+{
+"text": "Independent",
+"href": "https://www.toddforfl4.com/why-run-independent"
+},
+{
+"text": "Issues",
+"href": "https://www.toddforfl4.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.toddforfl4.com/volunteer"
+},
+{
+"text": "Learn about the American Prosperity Card",
+"href": "https://www.toddforfl4.com/issues/american-prosperity-card"
+},
+{
+"text": "Meet Todd",
+"href": "https://www.toddforfl4.com/meet_todd"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.toddforfl4.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.toddforfl4.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.toddforfl4.com/contribute"
+},
+{
+"text": "Passing a Fair and Lasting Living Wage",
+"href": "https://www.toddforfl4.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.toddforfl4.com/privacy-policy"
+},
+{
+"text": "Protecting Free Speech",
+"href": "https://www.toddforfl4.com/issues"
+},
+{
+"text": "Securing Healthcare for All Americans",
+"href": "https://www.toddforfl4.com/issues"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.toddforfl4.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.toddforfl4.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://www.toddforfl4.com/volunteer"
+},
+{
+"text": "Voter Registration",
+"href": "https://www.toddforfl4.com/vote"
+},
+{
+"text": "Why Run Independent?",
+"href": "https://www.toddforfl4.com/why-run-independent"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.toddforfl4.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.toddforfl4.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ToddforFL4"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/todd.for.congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@toddforfl4"
+}
 ]

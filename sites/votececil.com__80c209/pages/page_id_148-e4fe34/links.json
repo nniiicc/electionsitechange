@@ -1,22 +1,90 @@
 [
-"http://lp.org/",
-"http://votececil.com/",
-"http://votececil.com/?page_id=148",
-"http://votececil.com/?page_id=202",
-"http://votececil.com/?page_id=244",
-"http://votececil.com/?page_id=284",
-"http://votececil.com/?page_id=43",
-"http://votececil.com/?page_id=45",
-"http://votececil.com/?page_id=47",
-"http://votececil.com/?page_id=49",
-"http://votececil.com/?page_id=53",
-"http://votececil.com/?page_id=55",
-"http://votececil.com/?page_id=57",
-"https://ballotpedia.org/Cecil_Ince",
-"https://lpmo.org/",
-"https://mec.mo.gov/mec/Campaign_Finance/CommInfo.aspx?MECID=C263889",
-"https://policies.google.com/privacy",
-"https://politicalcandidatedirectory.com/MO/cecil-ince",
-"https://senate.mo.gov/19web/maps/district_30.pdf",
-"https://wpconsent.com/powered-by"
+{
+"text": "Adopt-a-street",
+"href": "http://votececil.com/?page_id=284"
+},
+{
+"text": "Ballotpedia – Cecil Ince",
+"href": "https://ballotpedia.org/Cecil_Ince"
+},
+{
+"text": "Campaign Calendar",
+"href": "http://votececil.com/?page_id=49"
+},
+{
+"text": "Candidate Bio",
+"href": "http://votececil.com/?page_id=43"
+},
+{
+"text": "Contact Us",
+"href": "http://votececil.com/?page_id=202"
+},
+{
+"text": "Donate",
+"href": "http://votececil.com/?page_id=53"
+},
+{
+"text": "Endorsements",
+"href": "http://votececil.com/?page_id=57"
+},
+{
+"text": "Home",
+"href": "http://votececil.com"
+},
+{
+"text": "In the News",
+"href": "http://votececil.com/?page_id=55"
+},
+{
+"text": "Issues",
+"href": "http://votececil.com/?page_id=47"
+},
+{
+"text": "Libertarian Party",
+"href": "http://lp.org"
+},
+{
+"text": "Libertarian Party of Missouri",
+"href": "https://lpmo.org/"
+},
+{
+"text": "Links",
+"href": "http://votececil.com/?page_id=148"
+},
+{
+"text": "Missouri Ethics Commission – Committee to Elect Cecil Ince",
+"href": "https://mec.mo.gov/mec/Campaign_Finance/CommInfo.aspx?MECID=C263889#gsc.tab=0"
+},
+{
+"text": "Missouri Senate District 30 – Map",
+"href": "https://www.senate.mo.gov/19web/maps/district_30.pdf"
+},
+{
+"text": "Platform",
+"href": "http://votececil.com/?page_id=45"
+},
+{
+"text": "Political Candidate Directory – Cecil Ince",
+"href": "https://www.politicalcandidatedirectory.com/MO/cecil-ince"
+},
+{
+"text": "Powered by (opens in a new window)",
+"href": "https://wpconsent.com/powered-by/"
+},
+{
+"text": "Volunteer",
+"href": "http://votececil.com/?page_id=244"
+},
+{
+"text": "[image: Cecil Ince for Missouri State Senate ]",
+"href": "http://votececil.com/"
+},
+{
+"text": "[image: Cecil Ince for Missouri State Senate ]Cecil Ince for Missouri State Senate Vote November 3rd",
+"href": "http://votececil.com/"
+},
+{
+"text": "policies.google.com (opens in a new window)",
+"href": "https://policies.google.com/privacy"
+}
 ]

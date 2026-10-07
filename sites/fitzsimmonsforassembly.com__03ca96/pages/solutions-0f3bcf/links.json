@@ -1,37 +1,178 @@
 [
-"https://aflcio.org/about-us/history",
-"https://americanhealth.jhu.edu/sites/default/files/2024-12/JHU_2024_HealthNotes_grantspassvjohnson_FINAL_12.3.pdf",
-"https://amiba.net/local-multiplier",
-"https://cdc.gov/act-early/families/why-act-early.html",
-"https://cdc.gov/public-health-gateway/php/about/social-determinants-of-health.html",
-"https://cdc.gov/public-health-gateway/php/our-work/about-public-health-systems-best-practices.html",
-"https://democracycollaborative.org/blogs/public-ownership-for-energy-democracy",
-"https://en.wikipedia.org/wiki/Town_hall_meeting",
-"https://exhibitions.lib.umd.edu/unions/social/african-americans-rights",
-"https://facebook.com/profile.php?id=61588564963009",
-"https://fitzsimmonsforassembly.com/",
-"https://fitzsimmonsforassembly.com/about",
-"https://fitzsimmonsforassembly.com/donate",
-"https://fitzsimmonsforassembly.com/energy",
-"https://fitzsimmonsforassembly.com/events-donate",
-"https://fitzsimmonsforassembly.com/family-farms",
-"https://fitzsimmonsforassembly.com/health-care",
-"https://fitzsimmonsforassembly.com/photos-video",
-"https://fitzsimmonsforassembly.com/privacy-policy",
-"https://fitzsimmonsforassembly.com/rein-in-ai",
-"https://fitzsimmonsforassembly.com/short-form-primary",
-"https://fitzsimmonsforassembly.com/short-form-primary-copy",
-"https://fitzsimmonsforassembly.com/sms-signup",
-"https://fitzsimmonsforassembly.com/sms-terms",
-"https://fitzsimmonsforassembly.com/solutions",
-"https://fitzsimmonsforassembly.com/volunteer",
-"https://fitzsimmonsforassembly.com/voter-resources",
-"https://frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1579787/full",
-"https://instagram.com/butchfitzsimmons",
-"https://nyhcampaign.org/aboutnyha",
-"https://opalfuels.com/projects",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC10509507",
-"https://publicpower.org/",
-"https://secure.actblue.com/donate/carl-fitzsimmons-1",
-"https://uniontrack.com/blog/unions-retirement-benefits"
+{
+"text": "About",
+"href": "https://fitzsimmonsforassembly.com/about/"
+},
+{
+"text": "About Carl",
+"href": "https://fitzsimmonsforassembly.com/about"
+},
+{
+"text": "Basing procedures and policies",
+"href": "https://www.cdc.gov/public-health-gateway/php/our-work/about-public-health-systems-best-practices.html#:~:text=On%20this%20page%2C%20you%20will%20find%20frameworks%2C%20strategies%2C,promoting%20health%20for%20all%20people%20in%20all%20communities."
+},
+{
+"text": "Content – General",
+"href": "https://fitzsimmonsforassembly.com/short-form-primary-copy/"
+},
+{
+"text": "Content – Primary",
+"href": "https://fitzsimmonsforassembly.com/short-form-primary/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/carl-fitzsimmons-1"
+},
+{
+"text": "Donate",
+"href": "https://fitzsimmonsforassembly.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carl-fitzsimmons-1"
+},
+{
+"text": "Energy",
+"href": "https://fitzsimmonsforassembly.com/energy/"
+},
+{
+"text": "Events & Donate",
+"href": "https://fitzsimmonsforassembly.com/events-donate/"
+},
+{
+"text": "Family Farms",
+"href": "https://fitzsimmonsforassembly.com/family-farms/"
+},
+{
+"text": "Finger Lakes Times – Full response to questions",
+"href": "https://fitzsimmonsforassembly.com/flt-full-response/"
+},
+{
+"text": "Follow us on Facebook →",
+"href": "https://www.facebook.com/profile.php?id=61588564963009"
+},
+{
+"text": "Follow us on Instagram →",
+"href": "https://www.instagram.com/butchfitzsimmons"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://fitzsimmonsforassembly.com/volunteer"
+},
+{
+"text": "Health Care",
+"href": "https://fitzsimmonsforassembly.com/health-care/"
+},
+{
+"text": "Home",
+"href": "https://fitzsimmonsforassembly.com/"
+},
+{
+"text": "Local companies return nearly three times as much value back into the local economy",
+"href": "https://amiba.net/local-multiplier/"
+},
+{
+"text": "Photos & Video",
+"href": "https://fitzsimmonsforassembly.com/photos-video/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fitzsimmonsforassembly.com/privacy-policy"
+},
+{
+"text": "Rein in AI",
+"href": "https://fitzsimmonsforassembly.com/rein-in-ai/"
+},
+{
+"text": "Renewable Natural Gas",
+"href": "https://opalfuels.com/projects/"
+},
+{
+"text": "SMS Terms",
+"href": "https://fitzsimmonsforassembly.com/sms-terms"
+},
+{
+"text": "SMS signup",
+"href": "https://fitzsimmonsforassembly.com/sms-signup"
+},
+{
+"text": "Solutions",
+"href": "https://fitzsimmonsforassembly.com/solutions"
+},
+{
+"text": "Solutions",
+"href": "https://fitzsimmonsforassembly.com/solutions/"
+},
+{
+"text": "Volunteer",
+"href": "https://fitzsimmonsforassembly.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://fitzsimmonsforassembly.com/volunteer/"
+},
+{
+"text": "Voter Resources",
+"href": "https://fitzsimmonsforassembly.com/voter-resources"
+},
+{
+"text": "Voter Resources",
+"href": "https://fitzsimmonsforassembly.com/voter-resources/"
+},
+{
+"text": "[image: Carl Fitzsimmons for Assembly][image: Carl Fitzsimmons for Assembly]",
+"href": "https://fitzsimmonsforassembly.com"
+},
+{
+"text": "are essential to opportunity",
+"href": "https://www.cdc.gov/act-early/families/why-act-early.html"
+},
+{
+"text": "cost effective healthcare",
+"href": "https://www.nyhcampaign.org/aboutnyha"
+},
+{
+"text": "energy",
+"href": "https://www.publicpower.org"
+},
+{
+"text": "friends@friendsofbutch.com",
+"href": "mailto:friends@friendsofbutch.com"
+},
+{
+"text": "health professionals such as social workers, harm reductionists, and mental health counselors",
+"href": "https://www.cdc.gov/public-health-gateway/php/about/social-determinants-of-health.html"
+},
+{
+"text": "holding open forums",
+"href": "https://en.wikipedia.org/wiki/Town_hall_meeting"
+},
+{
+"text": "housing",
+"href": "https://americanhealth.jhu.edu/sites/default/files/2024-12/JHU_2024_HealthNotes_grantspassvjohnson_FINAL_12.3.pdf"
+},
+{
+"text": "pensions",
+"href": "https://uniontrack.com/blog/unions-retirement-benefits"
+},
+{
+"text": "public energy development",
+"href": "https://www.democracycollaborative.org/blogs/public-ownership-for-energy-democracy"
+},
+{
+"text": "referring work to health professionals when a police response would not be particularly effective",
+"href": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1579787/full"
+},
+{
+"text": "scaling up of evidence-based health services and practices",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10509507/"
+},
+{
+"text": "supported civil rights",
+"href": "https://exhibitions.lib.umd.edu/unions/social/african-americans-rights"
+},
+{
+"text": "the 40 hour work week",
+"href": "https://aflcio.org/about-us/history"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"https://instagram.com/johnconyers",
-"https://mobilize.us/mcmorrowformichigan/event/882120",
-"https://mobilize.us/mcmorrowformichigan?q=signature+gathering",
-"https://mobilize.us/mcmorrowformichigan?q=validation",
-"https://secure.actblue.com/donate/conyers-web",
-"https://tiktok.com/@conyersthree",
-"https://voteconyers.com/About.html",
-"https://voteconyers.com/Platform.html",
-"https://voteconyers.com/Privacy-Policy.html",
-"https://voteconyers.com/facebook.com/conyersformichigan",
-"https://x.com/conyersthree",
-"https://youtube.com/@conyersformichigan"
+{
+"text": "About",
+"href": "https://voteconyers.com/About.html"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/conyers-web"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://voteconyers.com/Privacy-Policy.html"
+},
+{
+"text": "Phone banking",
+"href": "https://www.mobilize.us/mcmorrowformichigan/event/882120/"
+},
+{
+"text": "Platform",
+"href": "https://voteconyers.com/Platform.html"
+},
+{
+"text": "SHOW YOUR SUPPORT",
+"href": "https://secure.actblue.com/donate/conyers-web"
+},
+{
+"text": "Signature Gathering",
+"href": "https://www.mobilize.us/mcmorrowformichigan/?q=signature+gathering"
+},
+{
+"text": "Signature Validation",
+"href": "https://www.mobilize.us/mcmorrowformichigan/?q=validation"
+},
+{
+"text": "[image]",
+"href": "https://tiktok.com/@conyersthree"
+},
+{
+"text": "[image]",
+"href": "https://voteconyers.com/facebook.com/conyersformichigan"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/johnconyers"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@conyersformichigan"
+},
+{
+"text": "[image]",
+"href": "https://x.com/conyersthree"
+}
 ]

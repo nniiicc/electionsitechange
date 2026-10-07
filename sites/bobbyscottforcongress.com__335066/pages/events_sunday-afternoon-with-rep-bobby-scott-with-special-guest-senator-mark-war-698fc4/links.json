@@ -1,24 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+with+Special+Guest+Senator+Mark+Warner&dates=20201018T220000Z%2F20201018T230000Z",
-"https://bobbyscottforcongress.com/",
-"https://bobbyscottforcongress.com/about-bobby",
-"https://bobbyscottforcongress.com/contact",
-"https://bobbyscottforcongress.com/events",
-"https://bobbyscottforcongress.com/events/early-vote-drive-in-rally",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner?format=ical",
-"https://bobbyscottforcongress.com/photos",
-"https://bobbyscottforcongress.com/press-1",
-"https://bobbyscottforcongress.com/search",
-"https://bobbyscottforcongress.com/the-scott-record",
-"https://bobbyscottforcongress.com/volunteer",
-"https://bobbyscottforcongress.com/vote",
-"https://bobbyscottforcongress.com/working-for-us",
-"https://facebook.com/bobbyscottforcongress",
-"https://facebook.com/bobbyscottforcongress/live",
-"https://secure.actblue.com/donate/bobby-scott-3",
-"https://twitter.com/BobbyScott4VA3",
-"https://vademocrats.org/",
-"https://vayd.org/",
-"https://wevoteva.com/"
+{
+"text": "About Bobby",
+"href": "https://www.bobbyscottforcongress.com/about-bobby"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bobbyscottforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Early Vote Drive-In Rally",
+"href": "https://www.bobbyscottforcongress.com/events/early-vote-drive-in-rally"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+with+Rep.+Bobby+Scott+with+Special+Guest+Senator+Mark+Warner&dates=20201018T220000Z%2F20201018T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-senator-mark-warner?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.bobbyscottforcongress.com/press-1"
+},
+{
+"text": "Paid for by Bobby Scott for Congress",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Photos",
+"href": "https://www.bobbyscottforcongress.com/photos"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott with Special Guest Rev. Dr. Howard-John Wesley",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-with-special-guest-rev-dr-howard-john-wesley"
+},
+{
+"text": "The Scott Record",
+"href": "https://www.bobbyscottforcongress.com/the-scott-record"
+},
+{
+"text": "VAYD",
+"href": "https://www.vayd.org/"
+},
+{
+"text": "Virginia Dems",
+"href": "https://vademocrats.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bobbyscottforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bobbyscottforcongress.com/vote"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://www.wevoteva.com/"
+},
+{
+"text": "Working For Us",
+"href": "https://www.bobbyscottforcongress.com/working-for-us"
+},
+{
+"text": "[image: Bobby Scott for Congress]",
+"href": "https://www.bobbyscottforcongress.com/"
+},
+{
+"text": "[image: FB_logo_white.png]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "[image: twitter_logo_white.png]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "www.facebook.com/bobbyscottforcongress/live",
+"href": "https://www.facebook.com/bobbyscottforcongress/live"
+}
 ]

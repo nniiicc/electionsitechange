@@ -1,2 +1,5 @@
-Jackson, MI- Congressman Tim Walberg released his first television ad of the 2014 campaign highlighting his work to improve education and job training opportunities.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Latest Latest News Posts ALL NEWS PRESS MEDIA - Any - News Press Media 9 September Press SHARE Walberg Releases First TV Ad: Sharing Work to Improve Education and Job Training Opportunities Jackson, MI - Congressman Tim Walberg released his first television ad of the 2014 campaign highlighting his work to improve education and job training opportunities.
 As a member of the House Education and Workforce Committee, Tim was involved in passing...
+Pages PREV 1 2 Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

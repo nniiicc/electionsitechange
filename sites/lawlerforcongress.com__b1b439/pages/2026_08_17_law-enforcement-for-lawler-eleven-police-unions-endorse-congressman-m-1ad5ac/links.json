@@ -1,21 +1,82 @@
 [
-"https://facebook.com/lawler4ny",
-"https://instagram.com/lawler4ny",
-"https://lawlerforcongress.com/",
-"https://lawlerforcongress.com/about",
-"https://lawlerforcongress.com/accessibility",
-"https://lawlerforcongress.com/cdn-cgi/l/email-protection",
-"https://lawlerforcongress.com/endorsements",
-"https://lawlerforcongress.com/issues",
-"https://lawlerforcongress.com/news",
-"https://lawlerforcongress.com/privacy",
-"https://lawlerforcongress.com/sign",
-"https://lawlerforcongress.com/terms",
-"https://lawlerforcongress.com/volunteer",
-"https://lawlerforcongress.com/vote",
-"https://links.lawler4congress.com/els/v4/qfg0xdnvdzthbk0pnpqyd/Y7GfMXD9EUZdrQYHWkdbSXFnkCwcDTMTXIyuPeHcJZH1x2oepvgxA3FJ8J5D4Kw7ZbTw/lgqyjxVeZ7OrHE77uAFSweDgKPml9OrWXc5v1UZkdmuqCu56TVzaOWeWxU_pZ32YIVxM_PSueJuHiKs3s3fSY_IPtO2fkuyGnZFFHuYhpxG6LC9x46RFTSq_TaZRultYUE9ooo1K6CqHlXinMfmYaVy7_Hf5GmEaQcC-Iru8uoK1dfi59GjK1CYCYQQW5eY=",
-"https://links.lawler4congress.com/els/v4/relli3pzswuaexqrrimco/Y7GfMXD9EUZdrQYHWkdbSXFnkCwcDTMTXIyuPeHcJZH1x2oepvgxA3FJ8J5D4Kw7ZbTw/lgqyjxVeZ7OrHE77uAFSweDgKPml9OrWXc5v1UZkdkp8uqvbihtDImOFAUO9BGvUIRPx_dFFK9b5p2OInfKIdxRa3f6dxzTPVmUAKdJ1JwT-3dQYejte",
-"https://secure.winred.com/lawler-for-congress/donate-today",
-"https://secure.winred.com/lawler-for-congress/storefront",
-"https://twitter.com/lawler4ny"
+{
+"text": "About",
+"href": "https://www.lawlerforcongress.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.lawlerforcongress.com/accessibility/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lawler-for-congress/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lawlerforcongress.com/endorsements/"
+},
+{
+"text": "HERE",
+"href": "https://links.lawler4congress.com/els/v4/qfg0xdnvdzthbk0pnpqyd/Y7GfMXD9EUZdrQYHWkdbSXFnkCwcDTMTXIyuPeHcJZH1x2oepvgxA3FJ8J5D4Kw7ZbTw/lgqyjxVeZ7OrHE77uAFSweDgKPml9OrWXc5v1UZkdmuqCu56TVzaOWeWxU_pZ32YIVxM_PSueJuHiKs3s3fSY_IPtO2fkuyGnZFFHuYhpxG6LC9x46RFTSq_TaZRultYUE9ooo1K6CqHlXinMfmYaVy7_Hf5GmEaQcC-Iru8uoK1dfi59GjK1CYCYQQW5eY="
+},
+{
+"text": "HERE",
+"href": "https://links.lawler4congress.com/els/v4/relli3pzswuaexqrrimco/Y7GfMXD9EUZdrQYHWkdbSXFnkCwcDTMTXIyuPeHcJZH1x2oepvgxA3FJ8J5D4Kw7ZbTw/lgqyjxVeZ7OrHE77uAFSweDgKPml9OrWXc5v1UZkdkp8uqvbihtDImOFAUO9BGvUIRPx_dFFK9b5p2OInfKIdxRa3f6dxzTPVmUAKdJ1JwT-3dQYejte"
+},
+{
+"text": "Home",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.lawlerforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.lawlerforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lawlerforcongress.com/privacy/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/lawler-for-congress/storefront"
+},
+{
+"text": "Signs",
+"href": "https://www.lawlerforcongress.com/sign/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.lawlerforcongress.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lawlerforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.lawlerforcongress.com/vote/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:mike@lawlerforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lawler4ny"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/lawler4ny"
+},
+{
+"text": "[image: Mike Lawler for Congress logo]",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/lawler4ny"
+}
 ]

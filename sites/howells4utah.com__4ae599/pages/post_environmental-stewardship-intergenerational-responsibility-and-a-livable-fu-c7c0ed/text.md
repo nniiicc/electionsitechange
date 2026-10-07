@@ -1,5 +1,5 @@
-Environmental stewardship, intergenerational responsibility, and a livable future
-My environmental vision starts from a premise that is both moral and practical: we are stewards, not owners.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Environmental stewardship, intergenerational responsibility, and a livable future Drew Howells Jun 22 10 min read My environmental vision starts from a premise that is both moral and practical: we are stewards, not owners.
 The land, water, air, and ecosystems that sustain life in Utah were not created for short-term extraction or political convenience.
 They were entrusted to us, and our responsibility is to pass them forward in better condition than we received them.
 That responsibility does not belong to one political party, one generation, or one ideology.
@@ -58,7 +58,7 @@ Air quality is one of the clearest indicators of whether stewardship is being ta
 Pollution is not an imaginary or "woke" environmental issue.
 It is a public-health crisis that affects children, seniors, disabled people, outdoor workers, people with asthma or heart disease, and everyone who lives along the Wasatch Front.
 Clean air is not a luxury.
-It is a baseline responsibility of government.
+It is a baseline responsibility of government .
 In April 2026, the Environmental Protection Agency proposed reversing the Northern Wasatch Front’s reclassification from a “serious” ozone nonattainment area back to a “moderate” one.
 The proposal cited international pollution and wildfire smoke that Utah cannot directly control.
 Those factors deserve honest scientific consideration.
@@ -173,3 +173,7 @@ We borrow it from our descendants.
 They will not judge us by our slogans, our press releases, or the promises we made when consequences were still far away.
 They will judge us by what still works, what still flows, what still breathes, and what we chose to protect when we had the chance.
 My commitment as a legislator is to govern as if the future matters, because it does.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

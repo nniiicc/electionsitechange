@@ -1,6 +1,26 @@
 [
-"https://courtneywaters.com/",
-"https://facebook.com/profile.php?id=61568375280981",
-"https://instagram.com/courtneywaters113",
-"https://secure.actblue.com/donate/courtney-waters-2"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/courtney-waters-2"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/courtney-waters-2"
+},
+{
+"text": "Facebook-square",
+"href": "https://www.facebook.com/profile.php?id=61568375280981"
+},
+{
+"text": "Home",
+"href": "https://courtneywaters.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/courtneywaters113/"
+},
+{
+"text": "[image: Courtney Waters for SC House 113]",
+"href": "https://courtneywaters.com"
+}
 ]

@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.ericgisler.com/issues",
- "paid_for_by": "Paid For by Committee To Elect Eric Gisler | \u00a9 2026",
+ "fingerprint": "f961804ef7dfa70d24c577020564753dd36b14e6",
+ "format": 3,
+ "paid_for_by": "Paid For by Committee To Elect Eric Gisler",
  "title": "Projects",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

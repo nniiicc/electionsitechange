@@ -1,12 +1,21 @@
-Donaciones de Campaña
-Agradezco enormemente su apoyo.
-La siguiente información es para su conocimiento:
-Las contribuciones a campañas políticas no son deducibles de impuestos.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Principal Campaña 2026 Problemas - 2026 Acerca de Está aquí: Inicio Dona ahora Donaciones de Campaña Agradezco enormemente su apoyo.
+La siguiente información es para su conocimiento: Las contribuciones a campañas políticas no son deducibles de impuestos.
 La ley de Texas prohíbe las contribuciones anónimas, las contribuciones de corporaciones u organizaciones laborales y las contribuciones de ciudadanos extranjeros.
 La ley de Texas exige que la campaña política registre la fecha de la contribución, el monto, así como el nombre completo y la dirección del contribuyente.
 Esta información se incluye en los informes obligatorios que se presentan ante la Comisión de Ética de Texas.
 Si su dirección no coincide con la dirección asociada a su tarjeta de crédito, la transacción podría ser rechazada y usted podría recibir una notificación de "alerta de fraude".
 Si no desea que su información personal se incluya en los informes de financiamiento de campaña, por favor envíe un cheque o giro postal (no efectivo) por un monto de hasta $110 a: Kevin McCormick for Lt.
 Gov.; P.O.
-Box 513; Lindale TX 75771.
+Box 513; Lindale TX 75771 .
 Las contribuciones de $110 o menos realizadas por un mismo contribuyente a lo largo del año se reportarán como un monto total proveniente de todos los donantes de este tipo, sin incluir detalles personales.
+Nombre (*) Solo letras y [ .,;''/-123 ], por favor Dirección (*) Solo letras y números y [ .,;:'/-+() ], por favor Apellido (*) Solo letras y [ .,;''/-123 ], por favor Dirección 2 Letters and numbers, and [ .,;:'"/ - +#% ] only, please recibo por correo electrónico (*) recibo por correo electrónico Si No Select Si o No Correo electrónico (*) Dirección de correo electrónico válida, por favor.
+Ciudad (*) Letters and numbers, and [ .,;:"'/+ -! ] only, please Estado (*) TX AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY Seleccione un estado Código postal (*) Ingrese el código postal de 5 dígitos País US Invalid Input ¿Más de $110? (*) No Si Seleccione Sí o No.
+Select amount (*) 0 5 - 5.00 USD 10 - 10.00 USD 25 - 25.00 USD 50 - 50.00 USD otro Seleccione un monto Otro importe Solo números, por favor - 10 por $10 Donación total 0.00 USD Donación total Payment Method Payment Method Authorize.net select one Nombre en la tarjeta (*) Nombre y apellido en la tarjeta de crédito Credit Card Number (*) Please enter credit card number Puesto de trabajo (*) Solo letras y [ .,;:'"+/-#- ], por favor Empleador (*) Letters and [ .,'/+-] only, please Mes de vencimiento (*) 01 02 03 04 05 06 07 08 09 10 11 12 Seleccione mes de vencimiento la tarjeta Año de vencimiento (*) 26 27 28 29 30 31 32 33 34 35 36 37 Seleccione año de vencimiento la tarjeta Código de seguridad (*) Ingrese un código de seguridad de 3 o 4 dígitos ¿Enviar tarjetas de visita?
+0 10 20 50 100 Invalid Input Invalid Input Comentario 0/250 Solo letras y números, y [ .,;''/-*+ - ], por favor Enviar Enviar Restablecer Apoya la Campaña Dona ahora Mi Tarjetas Contacto Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

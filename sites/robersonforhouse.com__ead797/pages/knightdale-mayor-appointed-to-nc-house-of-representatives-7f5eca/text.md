@@ -1,4 +1,4 @@
-KNIGHTDALE, N.C.
+Skip to content About James Issues News District 39 About James Issues News District 39 Donate January 13, 2021 Knightdale mayor appointed to NC House of Representatives KNIGHTDALE, N.C.
 (WNCN) — You can now refer to former Knightdale Mayor James Roberson as Representative James Roberson after he was appointed to serve in the North Carolina House of Representatives.
 Roberson was appointed by Gov.
 Roy Cooper to replace Rep.
@@ -14,3 +14,4 @@ He is a brilliant leader and has been an example for everyone around him.
 We thank him for his vision and true passion for helping every member of our great community.
 We wish him great success in his new role,” Mayor Pro Tempore Jessica Day said.
 Roberson’s current term as mayor was set to expire in December 2023.
+Credit: WNCN Paid for by Roberson for North Carolina Facebook-f

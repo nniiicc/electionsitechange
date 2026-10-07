@@ -1,4 +1,4 @@
-William Timmons is a conservative reformer with a small business background committed to finding solutions to everyday problems.
+Skip to content William Timmons for Congress Serving South Carolina's Upstate About William Issues Volunteer Contact Donate William Timmons Attorney, Entrepreneur, and Captain in the SC Air National Guard William Timmons is a conservative reformer with a small business background committed to finding solutions to everyday problems.
 He is honored to represent South Carolina’s 4th Congressional District in the United States Congress, where he has been fighting for our Upstate conservative values since 2019.
 William began his professional career as a prosecutor in the Thirteenth Circuit Solicitor’s Office in Greenville, primarily serving victims of domestic violence and abuse.
 In this role, he saw inefficiencies in the criminal justice system that were wasting valuable tax dollars and impeding justice.
@@ -12,3 +12,6 @@ In addition to serving in Congress, he is a Captain and JAG officer in the South
 William graduated from George Washington University and received a Juris Doctorate and Master’s in International Studies from the University of South Carolina.
 He most recently earned a Master’s Degree in Cybersecurity Risk and Strategy.
 William is a lifelong and active member of Christ Church.
+Contact News Privacy Policy Resources Donate GET IN TOUCH Post Office Box 3416 Greenville, SC 29602 William Timmons is a member of the Air National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Paid for by William Timmons for Congress

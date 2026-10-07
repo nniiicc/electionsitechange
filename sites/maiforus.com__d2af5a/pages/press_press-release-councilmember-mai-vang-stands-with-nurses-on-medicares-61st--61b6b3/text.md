@@ -1,6 +1,4 @@
-Press Release: Councilmember Mai Vang Stands With Nurses on Medicare's 61st Anniversary
-FOR IMMEDIATE RELEASE
-Friday, July 31, 2026
+0 Skip to Content About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu About Mai Mai's Story Endorsements District 7 Fact Check Platform Vote Get Involved 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Open Menu Close Menu Folder: About Mai Back Mai's Story Endorsements District 7 Fact Check Platform Vote Folder: Get Involved Back 8/27 - CA7 Debate Volunteer Host A House Party Field Activations Get A Yard Sign Job Opportunities DONATE Press Release: Councilmember Mai Vang Stands With Nurses on Medicare's 61st Anniversary Jul 31 Written By Jonathan Tran FOR IMMEDIATE RELEASE Friday, July 31, 2026 SACRAMENTO, CA— Councilmember Mai Vang joined local nurses outside the federal building in downtown Sacramento on Thursday, standing with them at a rally marking the 61st anniversary of Medicare and joining the call to improve, expand, and protect the program..
 SACRAMENTO, CA—Councilmember Mai Vang joined local nurses outside the federal building in downtown Sacramento on Thursday, standing with them at a rally marking the 61st anniversary of Medicare and joining the call to improve, expand, and protect the program..
 Nurses had asked Matsui to sit down with them on the anniversary of Medicare and hear the case for Medicare for All.
 Matsui’s staff canceled the meeting the night before.
@@ -14,5 +12,6 @@ Meanwhile, Councilmember Mai Vang only learned about our rally this morning, yet
 "Nurses have waited long enough for a champion for Medicare for All.
 Insurance companies continue to make billions and people are getting sicker while we wait.
 Working families in our district deserve a representative who will have their backs and put their priorities at the top of the agenda in Washington," said Councilmember Mai Vang, Democratic candidate for Congress in CA-7.
-###
-California Nurses Association/National Nurses United is the largest and fastest-growing union and professional association of registered nurses in the nation with more than 100,000 members in more than 200 facilities throughout California and more than 225,000 RNs nationwide.
+### California Nurses Association/National Nurses United is the largest and fastest-growing union and professional association of registered nurses in the nation with more than 100,000 members in more than 200 facilities throughout California and more than 225,000 RNs nationwide.
+Jonathan Tran Next Next Press Release: Councilmember Mai Vang Overtakes Doris Matsui in CA-07, Officially Secures Spot on November Ballot CONTACT MEDIA FEC C00918037 - 1700 Tribute Rd.
+Suite 201, Sacramento, CA 95815

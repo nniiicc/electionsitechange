@@ -1,5 +1,4 @@
-Protecting Human Rights
-As a white heterosexual female, I’m mindful of the privileges I get simply by being me.
+Home Meet Darla Priorities Endorsements Volunteer Events Contribute Home ❭ Priorities ❭ Protecting Human Rights Protecting Human Rights As a white heterosexual female, I’m mindful of the privileges I get simply by being me.
 I also recognize the responsibility I have to help address the unfairness that exists in my community and society which can make it harder for people of color, immigrants, and LGBTQA+ individuals to succeed.
 Elderly adults and those facing poverty can also encounter extra challenges when it comes to getting the support they need.
 Reducing obstacles.
@@ -24,3 +23,4 @@ Without computers, internet services or phones, people are unable to connect wit
 Immigrants and low income residents can have difficulty finding housing options free from toxins and pests.
 Let’s break free from these cycles and make sure every Oregonian has the protection and support they need to not just survive, but truly flourish.
 We need to close the gaps between support and success, creating clear paths out of poverty.
+As an Oregon State Legislator and Representative of House District 51, I would work hard to achieve these goals for all Oregonians. « Previous: Enforcing Environmental Protections Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

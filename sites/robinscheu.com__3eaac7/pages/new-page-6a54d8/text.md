@@ -1,4 +1,4 @@
-I moved to Middlebury from Boston in 1992 with my husband, our two children, aged 3 and 6, and two dogs.
+Robin Scheu Home Meet Robin Issues Legislative Updates Endorsements Get Involved Home / Meet Robin / Issues / Legislative Updates / Endorsements / Get Involved / For Middlebury Meet Robin Home / Meet Robin / Issues / Legislative Updates / Endorsements / Get Involved / I moved to Middlebury from Boston in 1992 with my husband, our two children, aged 3 and 6, and two dogs.
 Everyone had a new job or a new school to attend so it was a big change for all of us.
 I had worked for many years at Bank of Boston and went to work for its subsidiary, Bank of Vermont.
 My husband Ted was an elementary school teacher in Shelburne.
@@ -14,10 +14,10 @@ I was appointed for 5 years to the Working Lands Enterprise Board (WLEB) and was
 I remain on the board of the Vermont Sustainable Jobs Fund and serve as its Secretary/Treasurer.
 In the legislature, I serve on the House Ways and Means Committee and am also the Clerk of the committee.
 As one of the two major money committees, Ways & Means considers matters relating to the revenue of the state.
-The committee page further states that Ways & Means “shall inquire into the state of the treasury; ascertain the amount of debt due the state, and the claims against it; report the amount of taxes necessary to be raised for the support of the government and inquire what measures, if any, ought to be adopted, the better to equalize the public burdens, secure the accountability of public agents, and otherwise improve the financial concerns of the state, including all matters relating to taxation, local or otherwise and all matters relating to the grand list.”
-I am also a member of the Vermont Climate Solutions Caucus and the Women’s Caucus.
-Two years ago I was nominated by the Speaker and subsequently accepted to the Emerging Leaders Program of the State Legislative Leaders Foundation.
+The committee page further states that Ways & Means “shall inquire into the state of the treasury; ascertain the amount of debt due the state, and the claims against it; report the amount of taxes necessary to be raised for the support of the government and inquire what measures, if any, ought to be adopted, the better to equalize the public burdens, secure the accountability of public agents, and otherwise improve the financial concerns of the state, including all matters relating to taxation, local or otherwise and all matters relating to the grand list.” I am also a member of the Vermont Climate Solutions Caucus and the Women’s Caucus.
+Two years ago I was nominated by the Speaker and subsequently accepted to the Emerging Leaders Program of the State Legislative Leaders Foundation .
 In 2019, I was selected as a Toll Fellow, one of the nation’s premier leadership development programs for state government officials and run by the Council of State Governments (CSG).
 In our spare time, Ted and I like to canoe, bike, and hike.
 We also like to travel and to visit our children.
 Both of our children are married and we have three adorable grandsons who are 4, 1, and 2 months old.
+JAMIE AND THERESA, BOOTH AND KIRSTEN, GRANT!, ROBIN AND TED Home / Meet Robin / Issues / Legislative Updates / Endorsements / Get Involved / Robin Scheu CONTRIBUTE GET INVOLVED REGISTER TO VOTE Request a Ballot Scheu for VT House 1459 Munger Street Middlebury, VT 05753 rscheu@leg.state.vt.us

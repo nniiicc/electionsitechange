@@ -1,121 +1,490 @@
 [
-"https://jonahwheeler.com/",
-"https://jonahwheeler.com/biography",
-"https://jonahwheeler.com/contact",
-"https://jonahwheeler.com/donate",
-"https://jonahwheeler.com/letters",
-"https://jonahwheeler.com/news",
-"https://jonahwheeler.com/sponsored-legislation",
-"https://jonahwheeler.com/sponsored-legislation/1583-fn-a",
-"https://jonahwheeler.com/sponsored-legislation/1597-fn",
-"https://jonahwheeler.com/sponsored-legislation/cacr-2",
-"https://jonahwheeler.com/sponsored-legislation/cacr19",
-"https://jonahwheeler.com/sponsored-legislation/cacr22",
-"https://jonahwheeler.com/sponsored-legislation/election-day-holiday",
-"https://jonahwheeler.com/sponsored-legislation/hb-1544",
-"https://jonahwheeler.com/sponsored-legislation/hb-1573",
-"https://jonahwheeler.com/sponsored-legislation/hb-1580-fn-local",
-"https://jonahwheeler.com/sponsored-legislation/hb-1612-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb-1621-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb-1625-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb104",
-"https://jonahwheeler.com/sponsored-legislation/hb1054",
-"https://jonahwheeler.com/sponsored-legislation/hb1091",
-"https://jonahwheeler.com/sponsored-legislation/hb1092",
-"https://jonahwheeler.com/sponsored-legislation/hb1119",
-"https://jonahwheeler.com/sponsored-legislation/hb1169-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb117",
-"https://jonahwheeler.com/sponsored-legislation/hb1214-relative-to-establishing-a-committee-to-study-best-practices-for-the-development-of-a-restorative-justice-model-for-misdemeanor-level-behavior-and-hate-crimes-committed-by-juveniles-under-the-age-of-eighteen",
-"https://jonahwheeler.com/sponsored-legislation/hb1231",
-"https://jonahwheeler.com/sponsored-legislation/hb1233",
-"https://jonahwheeler.com/sponsored-legislation/hb1237",
-"https://jonahwheeler.com/sponsored-legislation/hb1242",
-"https://jonahwheeler.com/sponsored-legislation/hb1243",
-"https://jonahwheeler.com/sponsored-legislation/hb126",
-"https://jonahwheeler.com/sponsored-legislation/hb1278",
-"https://jonahwheeler.com/sponsored-legislation/hb1281",
-"https://jonahwheeler.com/sponsored-legislation/hb1289",
-"https://jonahwheeler.com/sponsored-legislation/hb1297-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb1302",
-"https://jonahwheeler.com/sponsored-legislation/hb1305",
-"https://jonahwheeler.com/sponsored-legislation/hb1338",
-"https://jonahwheeler.com/sponsored-legislation/hb1346",
-"https://jonahwheeler.com/sponsored-legislation/hb1375",
-"https://jonahwheeler.com/sponsored-legislation/hb1380",
-"https://jonahwheeler.com/sponsored-legislation/hb1397",
-"https://jonahwheeler.com/sponsored-legislation/hb140",
-"https://jonahwheeler.com/sponsored-legislation/hb1438",
-"https://jonahwheeler.com/sponsored-legislation/hb1453",
-"https://jonahwheeler.com/sponsored-legislation/hb1474",
-"https://jonahwheeler.com/sponsored-legislation/hb1486",
-"https://jonahwheeler.com/sponsored-legislation/hb1494",
-"https://jonahwheeler.com/sponsored-legislation/hb1500",
-"https://jonahwheeler.com/sponsored-legislation/hb1524",
-"https://jonahwheeler.com/sponsored-legislation/hb1528",
-"https://jonahwheeler.com/sponsored-legislation/hb1539-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb1540",
-"https://jonahwheeler.com/sponsored-legislation/hb1544",
-"https://jonahwheeler.com/sponsored-legislation/hb1607",
-"https://jonahwheeler.com/sponsored-legislation/hb161",
-"https://jonahwheeler.com/sponsored-legislation/hb1633",
-"https://jonahwheeler.com/sponsored-legislation/hb1656-fn-l",
-"https://jonahwheeler.com/sponsored-legislation/hb1666",
-"https://jonahwheeler.com/sponsored-legislation/hb1670-fn-l",
-"https://jonahwheeler.com/sponsored-legislation/hb1702-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb1710-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb176",
-"https://jonahwheeler.com/sponsored-legislation/hb184",
-"https://jonahwheeler.com/sponsored-legislation/hb188",
-"https://jonahwheeler.com/sponsored-legislation/hb196",
-"https://jonahwheeler.com/sponsored-legislation/hb198",
-"https://jonahwheeler.com/sponsored-legislation/hb210",
-"https://jonahwheeler.com/sponsored-legislation/hb227",
-"https://jonahwheeler.com/sponsored-legislation/hb233",
-"https://jonahwheeler.com/sponsored-legislation/hb267",
-"https://jonahwheeler.com/sponsored-legislation/hb282-fn-a",
-"https://jonahwheeler.com/sponsored-legislation/hb287-fn",
-"https://jonahwheeler.com/sponsored-legislation/hb357",
-"https://jonahwheeler.com/sponsored-legislation/hb358",
-"https://jonahwheeler.com/sponsored-legislation/hb359",
-"https://jonahwheeler.com/sponsored-legislation/hb431",
-"https://jonahwheeler.com/sponsored-legislation/hb457",
-"https://jonahwheeler.com/sponsored-legislation/hb468",
-"https://jonahwheeler.com/sponsored-legislation/hb505-2023",
-"https://jonahwheeler.com/sponsored-legislation/hb508",
-"https://jonahwheeler.com/sponsored-legislation/hb509",
-"https://jonahwheeler.com/sponsored-legislation/hb541",
-"https://jonahwheeler.com/sponsored-legislation/hb555",
-"https://jonahwheeler.com/sponsored-legislation/hb559",
-"https://jonahwheeler.com/sponsored-legislation/hb575",
-"https://jonahwheeler.com/sponsored-legislation/hb597",
-"https://jonahwheeler.com/sponsored-legislation/hb603",
-"https://jonahwheeler.com/sponsored-legislation/hb633",
-"https://jonahwheeler.com/sponsored-legislation/hb641",
-"https://jonahwheeler.com/sponsored-legislation/hb669",
-"https://jonahwheeler.com/sponsored-legislation/hb671",
-"https://jonahwheeler.com/sponsored-legislation/hb697",
-"https://jonahwheeler.com/sponsored-legislation/hb715",
-"https://jonahwheeler.com/sponsored-legislation/hb73",
-"https://jonahwheeler.com/sponsored-legislation/hb81",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1631-fn",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1633-fn",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1634",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1674",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1675",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1691",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1698",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1707-fn",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1728-fn",
-"https://jonahwheeler.com/sponsored-legislation/house-bill-1779-fn",
-"https://jonahwheeler.com/sponsored-legislation/house-resolution-27",
-"https://jonahwheeler.com/sponsored-legislation/hr22",
-"https://jonahwheeler.com/sponsored-legislation/hr26",
-"https://jonahwheeler.com/sponsored-legislation/sb139",
-"https://jonahwheeler.com/sponsored-legislation/sb198",
-"https://jonahwheeler.com/sponsored-legislation/sb217",
-"https://jonahwheeler.com/sponsored-legislation/sb226",
-"https://jonahwheeler.com/sponsored-legislation/sb227",
-"https://jonahwheeler.com/sponsored-legislation/sb420",
-"https://jonahwheeler.com/sponsored-legislation/sb508",
-"https://jonahwheeler.com/videos"
+{
+"text": "A RESOLUTION urging Congress to adopt a constitutional amendment to distinguish between corporate and individual rights.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hr26"
+},
+{
+"text": "A RESOLUTION urging Congress to remove the exception from the Thirteenth Amendment to the United States Constitution: \"except as a punishment for crime whereof the party shall have been duly convicted.\"",
+"href": "https://jonahwheeler.com/sponsored-legislation/hr22"
+},
+{
+"text": "A RESOLUTION urging New Hampshire's congressional delegation to open an investigation into the United States' response to the USS Liberty incident.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-resolution-27"
+},
+{
+"text": "AN ACT changing the membership of the New Hampshire commission on Native American affairs.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb161"
+},
+{
+"text": "AN ACT creating a homestead tax exemption for certain lower-income property owners.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1674"
+},
+{
+"text": "AN ACT creating a private right of action in civil rights cases.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb139"
+},
+{
+"text": "AN ACT creating an additional property tax for certain unoccupied properties and creating a housing transfer tax exemption for certain low- and moderate-income home buyers.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1707-fn"
+},
+{
+"text": "AN ACT declaring the third week in September to be New Hampshire service dog week.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb198"
+},
+{
+"text": "AN ACT establishing a commission to investigate the New Hampshire Coalition Against Sexual and Domestic Violence and requiring funding only be provided for the direct services materially benefitting survivors of sexual and domestic assault.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1675"
+},
+{
+"text": "AN ACT establishing a commission to study the state flag and its history.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb210"
+},
+{
+"text": "AN ACT establishing a committee to study changing school start times.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb184"
+},
+{
+"text": "AN ACT establishing a committee to study energy and telecommunications infrastructure survivability and resiliency.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb541"
+},
+{
+"text": "AN ACT establishing a designated behavioral health access point within the enhanced 911 system.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb597"
+},
+{
+"text": "AN ACT establishing a kindergarten literacy readiness program.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb671"
+},
+{
+"text": "AN ACT establishing a private right of action for civil rights violations.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb641"
+},
+{
+"text": "AN ACT establishing a rural and underserved area educator incentive program for higher education and making an appropriation therefor.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb217"
+},
+{
+"text": "AN ACT establishing a voluntary \"blue envelope\" program for drivers with autism spectrum disorders and trauma and stressor-related disorders.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb140"
+},
+{
+"text": "AN ACT establishing state court remedies for violations of state and federal law by federal employees.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1634"
+},
+{
+"text": "AN ACT expanding the information provided to survivors of sexual assault regarding their existing rights.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1633-fn"
+},
+{
+"text": "AN ACT increasing the maximum amount of the optional veterans' tax credit, optional combat service tax credit, and optional surviving spouse tax credit.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1494"
+},
+{
+"text": "AN ACT permitting excused absences for students participating in civic engagement or attending a career or technical education event.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb-1573"
+},
+{
+"text": "AN ACT prohibiting insurance companies from considering the driving record of household members not covered by the motor vehicle insurance policy when establishing policy premiums.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1486"
+},
+{
+"text": "AN ACT prohibiting the use of scented products in public areas of state buildings.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb-1544"
+},
+{
+"text": "AN ACT relative to New Hampshire's enforcement of the Military Selective Service Act.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1338"
+},
+{
+"text": "AN ACT relative to adequate education grant amounts for pupils receiving special education services.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1656-fn-l"
+},
+{
+"text": "AN ACT relative to animal chiropractors.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb267"
+},
+{
+"text": "AN ACT relative to annual reporting on accessory dwelling unit construction and use.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb-1625-fn"
+},
+{
+"text": "AN ACT relative to annulling certain cannabis possession offenses.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb196"
+},
+{
+"text": "AN ACT relative to annulling, resentencing, or discontinuing prosecution of certain cannabis offenses.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1539-fn"
+},
+{
+"text": "AN ACT relative to changing the state flag design.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb176"
+},
+{
+"text": "AN ACT relative to civil actions regarding the prohibited use of synthetic media.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1710-fn"
+},
+{
+"text": "AN ACT relative to consumption of beverages or liquor in areas not approved for service by the liquor commission.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb81"
+},
+{
+"text": "AN ACT relative to electronic credentials.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1698"
+},
+{
+"text": "AN ACT relative to exemption from immunization requirements on the basis of religious belief.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb358"
+},
+{
+"text": "AN ACT relative to expanded safe haven protections.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1607"
+},
+{
+"text": "AN ACT relative to food service at a bed and breakfast.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1346"
+},
+{
+"text": "AN ACT relative to freedom of speech and association at public institutions of higher education.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1305"
+},
+{
+"text": "AN ACT relative to including all special education costs under state education grants.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1670-fn-l"
+},
+{
+"text": "AN ACT relative to including certain children and pregnant women in Medicaid and the children's health insurance program.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb282-fn-a"
+},
+{
+"text": "AN ACT relative to income reporting requirements for lobbyists.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1666"
+},
+{
+"text": "AN ACT relative to increasing the adequacy grant for pupils receiving special education services.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb603"
+},
+{
+"text": "AN ACT relative to indemnification for municipalities adopting policies to address homelessness.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1544"
+},
+{
+"text": "AN ACT relative to legalizing certain quantities of cannabis and establishing penalties for the smoking or vaping of cannabis in public.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb198"
+},
+{
+"text": "AN ACT relative to licensure for psychotherapy activities or services.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb227"
+},
+{
+"text": "AN ACT relative to limitations and qualifications for land placed in current use.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1691"
+},
+{
+"text": "AN ACT relative to oversight of liquor commission funding and repealing the liquor commission fund.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1702-fn"
+},
+{
+"text": "AN ACT relative to personal electric vehicles.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb715"
+},
+{
+"text": "AN ACT relative to prescriptions for certain controlled drugs.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb126"
+},
+{
+"text": "AN ACT relative to prohibiting the unlawful distribution of misleading synthetic media.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1500"
+},
+{
+"text": "AN ACT relative to reporting by the northern border alliance program.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1528"
+},
+{
+"text": "AN ACT relative to requiring all revenue raised under the statewide education property tax to be deposited in the education trust fund, and setting an equalized statewide tax rate.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb669"
+},
+{
+"text": "AN ACT relative to requiring an additional report from the legislative study committee concerning the long-term impact of the New Hampshire adult parole system.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb420"
+},
+{
+"text": "AN ACT relative to requiring an official declaration of war for the activation of the New Hampshire national guard in a foreign state.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb104"
+},
+{
+"text": "AN ACT relative to site setbacks for landfills.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb227"
+},
+{
+"text": "AN ACT relative to staffing requirements in emergency medical transport vehicles.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb559"
+},
+{
+"text": "AN ACT relative to student school board members.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1453"
+},
+{
+"text": "AN ACT relative to the authority of municipalities to enforce ordinances related to health and safety.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1297-fn"
+},
+{
+"text": "AN ACT relative to the commission on Native American affairs.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1474"
+},
+{
+"text": "AN ACT relative to the contents of the attorney general's annual report detailing state forfeiture information for the preceding fiscal year.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb509"
+},
+{
+"text": "AN ACT relative to the contents of the attorney general's annual report detailing state forfeiture information for the preceding fiscal year.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1631-fn"
+},
+{
+"text": "AN ACT relative to the definitions of full course meals and full service restaurant for purposes of alcohol licensing.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1540"
+},
+{
+"text": "AN ACT relative to the department of health and human services' rulemaking authority regarding immunization requirements.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb357"
+},
+{
+"text": "AN ACT relative to the duties of the superintendent of the county department of corrections concerning mental health and substance use disorder screening of inmates and coordination for services upon reentry into the community and relative to enforcement of New Hampshire anti-discrimination laws as they relate to Jewish people.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb508"
+},
+{
+"text": "AN ACT relative to the legalization and regulation of cannabis and making appropriations therefor.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1633"
+},
+{
+"text": "AN ACT relative to the maximum weekly unemployment benefit amount.",
+"href": "https://jonahwheeler.com/sponsored-legislation/1597-fn"
+},
+{
+"text": "AN ACT relative to the notice to abutters for the intent to cut.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1397"
+},
+{
+"text": "AN ACT relative to the per pupil cost of an opportunity for an adequate education.",
+"href": "https://jonahwheeler.com/sponsored-legislation/1583-fn-a"
+},
+{
+"text": "AN ACT relative to the substitution of biological products.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb117"
+},
+{
+"text": "AN ACT relative to the taxation of non-primary residences.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb-1580-fn-local"
+},
+{
+"text": "AN ACT relative to the use of price-fixing websites, algorithms, or other software by landlords.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb-1612-fn"
+},
+{
+"text": "AN ACT relative to witness fees in criminal cases.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb697"
+},
+{
+"text": "AN ACT requiring a baseline environmental impact study to be completed prior to development of certain manufacturing and storage facilities.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb-1621-fn"
+},
+{
+"text": "AN ACT requiring a logic and critical thinking course within the state high school education curriculum.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1524"
+},
+{
+"text": "AN ACT requiring meetings of the New Hampshire vaccine association to be audio and video recorded and published on its website within 48 hours.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb233"
+},
+{
+"text": "AN ACT requiring sufficient cybersecurity protections for critical infrastructure and technology projects.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1728-fn"
+},
+{
+"text": "AN ACT requiring the assessment of real property and land be based on replacement or cost-based value.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1380"
+},
+{
+"text": "AN ACT supporting the cultural background of children placed in foster care.",
+"href": "https://jonahwheeler.com/sponsored-legislation/house-bill-1779-fn"
+},
+{
+"text": "AN ACT suspending applications for new landfills and establishing a committee to study the feasibility of incinerating solid waste.",
+"href": "https://jonahwheeler.com/sponsored-legislation/sb226"
+},
+{
+"text": "About",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Appropriating state general fund surplus toward the retirement system unfunded accrued liability",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb555"
+},
+{
+"text": "Benbenebebnensgjsftyjfsjsdgdfgj",
+"href": "https://jonahwheeler.com/sponsored-legislation/election-day-holiday"
+},
+{
+"text": "Bill Title: prohibiting landlords from charging more than one application fee per tenant every 12 months.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1375"
+},
+{
+"text": "Bill Title: relating to the compensation of the legislature. Providing that the present compensation per elected term for legislators is hereby abolished.",
+"href": "https://jonahwheeler.com/sponsored-legislation/cacr22"
+},
+{
+"text": "Bill Title: relative to contracting and investment decisions by executive branch agencies.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1243"
+},
+{
+"text": "Bill Title: relative to post-arrest photograph distribution by law enforcement officers.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1302"
+},
+{
+"text": "Bill Title: relative to the penalty for violations of municipal ordinances related to sleeping or camping outside.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1091"
+},
+{
+"text": "Bill Title: relative to the regulation of funeral directors.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1119"
+},
+{
+"text": "Bill Title: requiring mental health caseworkers to report instances of animal abuse by their clients.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1438"
+},
+{
+"text": "Biography",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://jonahwheeler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://jonahwheeler.com/donate"
+},
+{
+"text": "Home",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "In the News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Issues",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "Letters",
+"href": "https://jonahwheeler.com/letters"
+},
+{
+"text": "News",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "Permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb431"
+},
+{
+"text": "Relative to comprehensive mental health education in schools",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb505-2023"
+},
+{
+"text": "Relative to electric distribution company market share, prohibiting certain electric rate increases, and requiring enforcement against Eversource.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb633"
+},
+{
+"text": "Relative to establishing a committee to study best practices for the development of a restorative justice model for misdemeanor-level behavior and hate crimes committed by juveniles under the age of eighteen.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1214-relative-to-establishing-a-committee-to-study-best-practices-for-the-development-of-a-restorative-justice-model-for-misdemeanor-level-behavior-and-hate-crimes-committed-by-juveniles-under-the-age-of-eighteen"
+},
+{
+"text": "Relative to legal holidays",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb359"
+},
+{
+"text": "Relative to pharmaceutical products purchased, promoted, or distributed by the state and its political subdivisions.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb575"
+},
+{
+"text": "Relative to the payment of postage on absentee ballot return envelopes.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb508"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://jonahwheeler.com/sponsored-legislation"
+},
+{
+"text": "Title: (New Title) removing fentanyl and xylazine testing equipment from the definition of drug paraphernalia in the controlled drug act.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb287-fn"
+},
+{
+"text": "Title: creating a period for the placing of and removal of political advertising on public property.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1092"
+},
+{
+"text": "Title: creating a private cause of action for discrimination based on hairstyles relative to a person's ethnicity.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1169-fn"
+},
+{
+"text": "Title: establishing a commission to study the replacement of the peaker plant in Bow with a clean energy baseload generator and storage.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1289"
+},
+{
+"text": "Title: relative to the duration of physical therapy.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb188"
+},
+{
+"text": "Title: relative to the personal possession of cannabis. Providing that adults 21 years of age or older shall have the right to possess a modest amount of cannabis intended for their personal consumption.",
+"href": "https://jonahwheeler.com/sponsored-legislation/cacr19"
+},
+{
+"text": "Videos",
+"href": "https://jonahwheeler.com/videos"
+},
+{
+"text": "[no text]",
+"href": "https://jonahwheeler.com/sponsored-legislation/cacr-2"
+},
+{
+"text": "establishing the crime of and penalties for unlawful use of unmanned aircraft systems.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb468"
+},
+{
+"text": "permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1231"
+},
+{
+"text": "relative to animal chiropractors.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1233"
+},
+{
+"text": "relative to qualifying medical conditions for purposes of therapeutic cannabis; and relative to the summer EBT program, the SNAP elderly simplified application and the school lunch program and making appropriations therefor.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1278"
+},
+{
+"text": "relative to the Northern Border Alliance Program fund.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1054"
+},
+{
+"text": "relative to the establishment of county-wide communication districts.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1242"
+},
+{
+"text": "relative to the repair of home appliances.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb73"
+},
+{
+"text": "relative to the use of unmarked or stealth police vehicles for traffic enforcement.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1237"
+},
+{
+"text": "relative to zoning restrictions on dwelling units.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb457"
+},
+{
+"text": "relative to zoning restrictions on residential rental property.",
+"href": "https://jonahwheeler.com/sponsored-legislation/hb1281"
+}
 ]

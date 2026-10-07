@@ -1,2 +1,2 @@
-Michigan deserves STRONG leaders whO put our state first, not Washington insiders.
-HELP KEEP LISA IN CONGRESS FIGHTER FOR SMALL TOWN VALUES proud CHRISTIAN, MOTHER, gun owner, BUSINESSWOMAN, DOG MOM
+0 Skip to Content Home Meet Lisa Request a Yard Sign Subscribe to the Newsletter Donate Open Menu Close Menu Home Meet Lisa Request a Yard Sign Subscribe to the Newsletter Donate Open Menu Close Menu Home Meet Lisa Request a Yard Sign Subscribe to the Newsletter Donate Michigan deserves STRONG leaders whO put our state first, not Washington insiders.
+HELP KEEP LISA IN CONGRESS FIGHTER FOR SMALL TOWN VALUES proud CHRISTIAN, MOTHER, gun owner, BUSINESSWOMAN, DOG MOM info@lisa-mcclain.com PAID FOR BY LISA McCLAIN FOR CONGRESS VIEW PRIVACY STATEMENT

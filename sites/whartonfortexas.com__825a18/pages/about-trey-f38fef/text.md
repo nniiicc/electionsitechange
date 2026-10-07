@@ -1,5 +1,4 @@
-About Trey Wharton
-A seventh generation Texan, Rep.
+Skip to content Skip to footer Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter donate Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter donate Home About Trey Clay Shoot 2026 Endorsements Join Us News Newsletter About Trey Wharton A seventh generation Texan, Rep.
 Trey Wharton has dedicated over three decades to serving the Huntsville community in various leadership roles.
 He proudly served on the Huntsville Independent School Board for eight years, including three years as Board President, where he championed education initiatives and fostered meaningful connections between schools and the community.
 While serving as a Huntsville School Board Trustee, he also contributed three years of service to the Huntsville Memorial Community Board of Directors where he supported efforts to enhance healthcare services in the region.
@@ -19,3 +18,4 @@ Wharton also serves on the National Council of Insurance Legislators’ Financia
 He is a member of the Republican, Rural, Water, Criminal Justice Reform, Energy, Climate, and Healthcare Affordability Caucuses, and is a member of the Texas Conservative Coalition.
 House District 12 is comprised of Grimes, Madison, Robertson, Walker, Washington, and part of Brazos Counties.
 Trey’s strong leadership and lifelong commitment to service make him a steadfast advocate for the values and needs of the people in District 12.
+Contact Trey at trey@whartonfortexas.com or (936) 661-5863 Campaign Address: PO Box 1242 Huntsville TX 77342 pd pol ad • Trey Wharton Campaign Privacy Policy

@@ -1,18 +1,70 @@
 [
-"https://bob4colorado.com/about",
-"https://bob4colorado.com/canvass",
-"https://bob4colorado.com/contact",
-"https://bob4colorado.com/events-1",
-"https://bob4colorado.com/hd43",
-"https://bob4colorado.com/news",
-"https://bob4colorado.com/news/categories/2025-legislative-newsletters",
-"https://bob4colorado.com/news/categories/2026-campaign-re-elect-bob-marshall",
-"https://bob4colorado.com/news/categories/legislative-newsletter",
-"https://bob4colorado.com/platform",
-"https://bob4colorado.com/post/april-newsletter",
-"https://bob4colorado.com/post/february-2026-newsletter",
-"https://bob4colorado.com/post/legislative-updates-and-upcoming-townhall",
-"https://facebook.com/Bob4Colorado",
-"https://secure.actblue.com/donate/bob-4-colorado-1",
-"https://twitter.com/Bob4Colorado"
+{
+"text": "2025 Legislative Newsletters",
+"href": "https://www.bob4colorado.com/news/categories/2025-legislative-newsletters"
+},
+{
+"text": "2026 Campaign Re-Elect Bob Marshall",
+"href": "https://www.bob4colorado.com/news/categories/2026-campaign-re-elect-bob-marshall"
+},
+{
+"text": "2026 Legislative Newsletters",
+"href": "https://www.bob4colorado.com/news/categories/legislative-newsletter"
+},
+{
+"text": "About",
+"href": "https://www.bob4colorado.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.bob4colorado.com/news"
+},
+{
+"text": "April Newsletter",
+"href": "https://www.bob4colorado.com/post/april-newsletter"
+},
+{
+"text": "Canvass",
+"href": "https://www.bob4colorado.com/canvass"
+},
+{
+"text": "Contact",
+"href": "https://www.bob4colorado.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bob-4-colorado-1"
+},
+{
+"text": "Events",
+"href": "https://www.bob4colorado.com/events-1"
+},
+{
+"text": "February 2026 Newsletter",
+"href": "https://www.bob4colorado.com/post/february-2026-newsletter"
+},
+{
+"text": "HD43",
+"href": "https://www.bob4colorado.com/hd43"
+},
+{
+"text": "Legislative Updates and Upcoming Townhall",
+"href": "https://www.bob4colorado.com/post/legislative-updates-and-upcoming-townhall"
+},
+{
+"text": "News",
+"href": "https://www.bob4colorado.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.bob4colorado.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Bob4Colorado"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Bob4Colorado"
+}
 ]

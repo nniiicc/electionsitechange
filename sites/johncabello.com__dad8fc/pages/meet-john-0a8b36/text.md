@@ -1,6 +1,4 @@
-John Cabello
-State Representative
-Former State Representative John Cabello (R-Machesney Park) was appointed to fill a vacancy in the 68th District and sworn into office in August of 2012.
+Facebook Twitter Contact Donate About Media Videos Recent Posts Endorsements Events Get Involved Voter Info Voter Registration Select Page About John John Cabello State Representative Former State Representative John Cabello (R-Machesney Park) was appointed to fill a vacancy in the 68th District and sworn into office in August of 2012.
 He was then elected to that seat in November of 2012.
 He is currently running in the 90th District which starts in Boone and cuts across the top of Winnebago County out to Stephenson County and Freeport.
 Originally from Texas, John and his family moved to Machesney Park when he was a young child.
@@ -18,3 +16,6 @@ John has since continued his law enforcement career.
 John is a Conservative Republican who has opposed the tax and fee increases and believes that government should live within its means.
 In Illinois, state policies and taxation have driven people and businesses out leaving the remaining to pay the bills for the state spending.
 John will go back to Springfield and fight for the principles that will make our state great again.
+About Media Endorsements Events Get Involved Voter Info Paid for by Citizens for John M.
+Cabello.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

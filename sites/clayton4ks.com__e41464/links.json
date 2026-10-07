@@ -1,12 +1,62 @@
 [
-"http://jocoelection.org/PDF/advapp.pdf",
-"https://clayton4ks.com/",
-"https://clayton4ks.com/donate.html",
-"https://clayton4ks.com/get-involved.html",
-"https://clayton4ks.com/issues.html",
-"https://clayton4ks.com/meet-stephanie.html",
-"https://clayton4ks.com/uploads/1/0/6/8/106876609/hd_19_map.pdf",
-"https://kdor.ks.gov/apps/voterreg/default.aspx",
-"https://secure.actblue.com/donate/stephanie-sawyer-clayton-for-state-representative-1",
-"https://voter.jocoelection.org/Search.aspx"
+{
+"text": "Donate",
+"href": "https://www.clayton4ks.com/donate.html"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/stephanie-sawyer-clayton-for-state-representative-1"
+},
+{
+"text": "Download Advance Ballot App",
+"href": "http://www.jocoelection.org/PDF/advapp.pdf"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://voter.jocoelection.org/Search.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://www.clayton4ks.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.clayton4ks.com/"
+},
+{
+"text": "House District 19 Map",
+"href": "https://www.clayton4ks.com/uploads/1/0/6/8/106876609/hd_19_map.pdf"
+},
+{
+"text": "Issues",
+"href": "https://www.clayton4ks.com/issues.html"
+},
+{
+"text": "Learn more about Stephanie",
+"href": "https://www.clayton4ks.com/meet-stephanie.html"
+},
+{
+"text": "Meet Stephanie",
+"href": "https://www.clayton4ks.com/meet-stephanie.html"
+},
+{
+"text": "My Priorities",
+"href": "https://www.clayton4ks.com/issues.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.kdor.ks.gov/apps/voterreg/default.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://www.clayton4ks.com/get-involved.html"
+},
+{
+"text": "[image: Picture]",
+"href": "https://secure.actblue.com/donate/stephanie-sawyer-clayton-for-state-representative-1"
+},
+{
+"text": "[image: Re-elect Rep. Stephanie Clayton for Kansas House]",
+"href": "https://www.clayton4ks.com/"
+}
 ]

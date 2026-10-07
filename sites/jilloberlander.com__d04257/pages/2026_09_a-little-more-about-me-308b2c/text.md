@@ -1,5 +1,4 @@
-The experiences and values that shaped me
-I’m running to be your state senator because I care deeply about our community, and I want to help make life better for the families and businesses who call Connecticut home.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn A little more about me Newsletter • September 17, 2026 The experiences and values that shaped me I’m running to be your state senator because I care deeply about our community, and I want to help make life better for the families and businesses who call Connecticut home.
 My commitment to public service started with my parents.
 My father was a Vietnam veteran and a Bronx OB-GYN.
 He spent his career taking care of women, including many who couldn’t otherwise afford the care they needed.
@@ -13,7 +12,7 @@ They want leaders who will listen, use common sense, take responsibility, and fo
 That’s the kind of leadership I will bring to Hartford.
 Government isn’t something distant or abstract.
 Its decisions affect our family budgets, our businesses and livelihoods, our schools, and our children’s opportunities.
-My focus will be on the things that matter in everyday life, what I call my ABC’s: making Connecticut more affordable; supporting our businesses, strengthening our economy and being responsible with taxpayers’ money; and bringing common sense and independent judgment to the decisions we make.
+My focus will be on the things that matter in everyday life, what I call my ABC’s: making Connecticut more affordable; supporting our businesses, strengthening our economy and being responsible with taxpayers’ money; and bringing common sense and independent judgment to the decisions we make .
 For me, this is deeply personal.
 I’m a wife and mother of three.
 I was a daughter to an aging parent.
@@ -22,4 +21,8 @@ Like you, I think about the future we’re leaving our children and the kind of 
 That’s why I’m running.
 I want to help build a Connecticut where families can afford to stay, businesses can grow, and our children can have a strong future.
 Thank you for taking the time to learn more about me and why I’m running.
-I look forward to meeting you, hearing your ideas, and earning your support.
+I look forward to meeting you, hearing your ideas, and earning your support. ← A common-sense approach is why Jill Oberlander has earned my vote for State Senator They have our backs.
+We should have theirs. → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+We should have theirs.
+A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

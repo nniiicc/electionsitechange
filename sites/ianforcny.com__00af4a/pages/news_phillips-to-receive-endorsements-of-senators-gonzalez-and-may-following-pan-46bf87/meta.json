@@ -1,7 +1,9 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/phillips-to-receive-endorsements-of-senators-gonzalez-and-may-following-panel-on-data-centers",
- "paid_for_by": "Paid for by Ian for CNY",
+ "fingerprint": "463336cd21dce0e66456f6d9cd74c9e6228f0496",
+ "format": 3,
+ "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
  "title": "Phillips to Receive Endorsements of Senators Gonzalez and May following Panel on Data Centers",
  "years_mentioned": [
   "2026"

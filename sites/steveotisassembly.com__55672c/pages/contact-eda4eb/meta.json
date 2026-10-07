@@ -1,7 +1,9 @@
 {
  "description": "Follow news from the campaign on Facebook. Email Steve at admin@steveotisassembly.com with any questions you may have.",
  "final_url": "https://steveotisassembly.com/contact/",
- "paid_for_by": "Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573",
+ "fingerprint": "49e93e8467e191e164028748b5b2246b5b15f9cb",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Steve Otis",
  "title": "Contact - Steve Otis for Assembly",
  "years_mentioned": []
 }

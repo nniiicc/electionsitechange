@@ -1,6 +1,6 @@
-About
-Solutions Less Problems
-I was born in Missouri, my family moved to Minnesota when I was in elementary school.
+top of page This website was built on Wix.
+Create yours today.
+Get Started Rustin Provance For Wisconsin Congressional District 3 Get In Touch Home Get Involved Events Projects About More Use tab to navigate through the menu items. rustinforcongress@gmail.com 715-402-0146 About Solutions Less Problems I was born in Missouri, my family moved to Minnesota when I was in elementary school.
 Both of my parents worked for Northwest Airlines, and moved for work.
 In 1999, Just weeks after my 18th birthday I went to prison for Non-violent, non-drug related crimes, they were property crimes, that I committed as a minor.
 I came from a broken home where I thought prison was safer then what was happening in my home.
@@ -21,3 +21,5 @@ I was diagnosed with Scoliosis, spinal arthritis, cirrhosis of the liver due to 
 But I still stand up for our country daily because I am sick of what our country has become, I am over the division created by both parties.
 My Kids, all of our children, the people of this country deserve a better end to this disaster we have endured.
 What a better way to show the world we can reunite and make some real changes then to send someone to Washington who will fight to stop the problems, and create real solutions.
+About : Bio Rustin Provance For Wisconsin Congressional District 3 715-402-0146 ©# by Rustin Provance.
+Proudly created with Wix.com bottom of page

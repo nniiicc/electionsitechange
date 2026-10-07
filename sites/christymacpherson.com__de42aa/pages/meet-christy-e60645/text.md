@@ -1,7 +1,5 @@
-ABOUT ME
-Aloha, I'm Christy
-I want our 'ohana to remain in Hawai'i
-My professional career spans 30 years working for community-based organizations.
+top of page Meet Christy Community Issues Become a Volunteer Contact More Use tab to navigate through the menu items.
+DONATE ABOUT ME Aloha, I'm Christy Read Christy's CivilBeat Article Button Button I want our 'ohana to remain in Hawai'i My professional career spans 30 years working for community-based organizations.
 My first job was at the Kalihi YMCA as a substance abuse counselor for teenagers.
 I worked with many populations — teen survivors of sexual abuse, mothers struggling with substance abuse issues, people living with HIV/AIDS, teens and adults coping with mental illness, and families experiencing homelessness.
 Working in the nonprofit sector taught me a lot of things — that systems need to be improved in order to effectively serve our community.
@@ -14,9 +12,10 @@ I can pull the community into the square building and work alongside them in int
 I am extremely excited to work with each and every one of you in building a grassroots campaign, canvassing the residents in my district and doing some deep listening, finding out their concerns, struggles, and hopes for the future.
 I am a really good listener and am able to translate concerns into action.
 I will use this campaign to look at organizing opportunities and where we can connect the dots so that we can have a thriving community in District 14 as well as across our beautiful state, our home, we call Hawaiʻi.
-MISSION STATEMENT
-Fighting for Our Community
-I’m running for State Senate to amplify the voices of working families in District 14 and across Hawai‘i — those who are too often overlooked by the status quo.
+MISSION STATEMENT Fighting for Our Community I’m running for State Senate to amplify the voices of working families in District 14 and across Hawai‘i — those who are too often overlooked by the status quo.
 As a lifelong community advocate, mother, and licensed clinical social worker, I’ve spent 30 years fighting for equity, safety, and dignity for all.
 My mission is to build a Hawai‘i where every ‘ohana can thrive — with affordable housing, strong public schools, quality healthcare, and a government that listens and leads with integrity.
 Together, we’ll create real change by organizing from the ground up, connecting across communities, and transforming compassion into lasting action.
+Follow me on STAND WITH CHRISTY MACPHERSON Be a founding supporter of Christy’s State Senate campaign!
+DONATE BECOME A VOLUNTEER Be the Change - Connect with YOUR Community!
+VOLUNTEER Home ​ ​ Meet Christy ​ ​ Community Issues ​ ​ Become a Volunteer ​ ​ Contact Terms & Conditions Privacy Policy Accessibility Statement © # by Christy Kikue MacPherson ​ PO Box 17026 Honolulu, HI 96817 ​ ​ info@christymacpherson.com bottom of page

@@ -1,4 +1,4 @@
-On April 20th, the House took up HB 21, which proposed three main changes for our school finance system.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements May 4, 2017 Jeff Frazier Sit-Rep #7 - Budgets (part 2) & School Finance Reform May 4, 2017 Jeff Frazier On April 20th, the House took up HB 21, which proposed three main changes for our school finance system.
 First, it provides much needed relief to our schools contributing towards the “Robin Hood” by allowing them to keep more of the money collected from their district rather than redistributing it around the state, while at the same time helping the districts that received those redistributed funds from being harmed.
 Second, it provided a buffer to help ease the blow to districts that would have been effected by the ending of several old funding programs that were already set to expire.
 There are three of those districts in HD20, all of which would be heavily effected should those programs simply disappear without some kind of soft landing, giving them time to adjust.
@@ -32,5 +32,17 @@ While I don’t like either option, and I would prefer the prioritization and bu
 The budget is now in the hands of the conference committee.
 I hope they will find the wisdom to solve our budget issues though prioritization and budget cuts, but if that is not the case, I ask that you continue to keep in touch with your HD20 staff as we examine the final version of the budget.
 Your input matters, and it will be vital in making the biggest decision of the session.
-You can reach your HD20 office at (512)463-0309 or by email at terry.wilson@house.texas.gov.
+You can reach your HD20 office at (512)463-0309 or by email at terry.wilson@house.texas.gov .
 We look forward to hearing from you.
+May 4, 2017 Jeff Frazier Jeff Frazier Sit-Rep #8 - SB 2 and Property Tax Reform Sit-Rep #6 - Budgets Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

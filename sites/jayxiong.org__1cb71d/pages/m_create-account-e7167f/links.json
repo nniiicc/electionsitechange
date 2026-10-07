@@ -1,10 +1,42 @@
 [
-"https://jayxiong.org/",
-"https://jayxiong.org/about",
-"https://jayxiong.org/donate",
-"https://jayxiong.org/m/account",
-"https://jayxiong.org/m/create-account",
-"https://jayxiong.org/m/login",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "About",
+"href": "https://jayxiong.org/about"
+},
+{
+"text": "Create Account",
+"href": "https://jayxiong.org/m/create-account"
+},
+{
+"text": "DONATE",
+"href": "https://jayxiong.org/donate"
+},
+{
+"text": "Home",
+"href": "https://jayxiong.org/"
+},
+{
+"text": "My Account",
+"href": "https://jayxiong.org/m/account"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Sign In",
+"href": "https://jayxiong.org/m/account"
+},
+{
+"text": "Sign in",
+"href": "https://jayxiong.org/m/login"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Jay Xiong MN House]",
+"href": "https://jayxiong.org/"
+}
 ]

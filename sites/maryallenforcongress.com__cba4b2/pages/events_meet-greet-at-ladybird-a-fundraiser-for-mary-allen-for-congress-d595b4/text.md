@@ -1,9 +1,1 @@
-Back to All Events
-Please join us for an evening in support for MARY ALLEN For Congress
-Previous
-Previous
-June 25
-An Evening with Mary Allen
-Next
-Next
-July 13
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Meet & Greet at Ladybird, a fundraiser for Mary Allen for Congress Tuesday, June 30, 2026 5:30 PM 7:30 PM Ladybird Cafe 900 Wabash Avenue Terre Haute, Indiana, 47807 United States (map) Google Calendar ICS Please join us for an evening in support for MARY ALLEN For Congress Source: https://secure.actblue.com/donate/ladybirdcafe Previous Previous June 25 An Evening with Mary Allen Next Next July 13 Virtual phone bank training (Every 4 wks) REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

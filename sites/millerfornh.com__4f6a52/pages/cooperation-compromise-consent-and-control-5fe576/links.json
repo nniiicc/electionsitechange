@@ -1,13 +1,46 @@
 [
-"https://bsky.app/profile/wandrme.paxex.aero",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=106&txtFormat=html",
-"https://instagram.com/wandrme",
-"https://millerfornh.com/",
-"https://millerfornh.com/author/sethmillerworks-net",
-"https://millerfornh.com/category/legislative-update",
-"https://millerfornh.com/cooperation-compromise-consent-and-control",
-"https://millerfornh.com/sifting-through-ignorance-and-hate",
-"https://millerfornh.com/taking-it-on-the-chin",
-"https://youtu.be/qm6SXpDMfZw?t=6788",
-"https://youtu.be/teiwdb3FQf8?t=25418"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/wandrme.paxex.aero"
+},
+{
+"text": "HB123",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=106&txtFormat=html"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/wandrme"
+},
+{
+"text": "Legislative Update",
+"href": "https://millerfornh.com/category/legislative-update/"
+},
+{
+"text": "Mar 16, 2025",
+"href": "https://millerfornh.com/cooperation-compromise-consent-and-control/"
+},
+{
+"text": "Next: Sifting Through Ignorance and Hate",
+"href": "https://millerfornh.com/sifting-through-ignorance-and-hate/"
+},
+{
+"text": "Previous: Taking it on the Chin",
+"href": "https://millerfornh.com/taking-it-on-the-chin/"
+},
+{
+"text": "Representative Veilleux spoke against it",
+"href": "https://youtu.be/teiwdb3FQf8?t=25418"
+},
+{
+"text": "Seth Miller",
+"href": "https://millerfornh.com/author/sethmillerworks-net/"
+},
+{
+"text": "Slightly longer version where he evades the question even more starts here",
+"href": "https://youtu.be/qm6SXpDMfZw?t=6788"
+},
+{
+"text": "[image: Miller for NH]",
+"href": "https://millerfornh.com/"
+}
 ]

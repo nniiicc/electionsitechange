@@ -1,22 +1,9 @@
-Mike Webb
-Hazel Park Mayor
-Andrea Washington
-Hazel Park Mayor Pro Tem
-Alissa Sullivan
-Hazel Park Council Member
-Andy LeCureaux
-Luke Londo
-Aaron Delikta
-Center Line Council Member
-Peter Harenski
-Richard Moeller
-Lorie Barnwell
-Warren City Treasurer
-Dave Dwyer
-Warren Mayor Pro Tem
-Mindy Moore
-Warren Council Member
-Angela Rogensues
-No more endorsements to load.
-Every dollar helps Mike keep delivering results—lowering costs, strengthening our communities, and standing up for what matters most.
-Make a quick contribution today and be part of Team McFall.
+Skip to content Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Donate Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Donate Endorsements Endorsed by Leaders.
+Trusted by Our Community.
+Organizational Endorsements Supported by Organizations Fighting for Workers, Families, and Our Communities No more endorsements to load.
+Individual Endorsements Backed by Leaders Who Know I Deliver Results Mike Webb Hazel Park Mayor Andrea Washington Hazel Park Mayor Pro Tem Alissa Sullivan Hazel Park Council Member Andy LeCureaux Hazel Park Council Member Luke Londo Hazel Park Council Member Aaron Delikta Center Line Council Member Peter Harenski Center Line Council Member Richard Moeller Center Line Council Member Lorie Barnwell Warren City Treasurer Dave Dwyer Warren Mayor Pro Tem Mindy Moore Warren Council Member Angela Rogensues Warren Council Member No more endorsements to load.
+Donate today to help me keep delivering real results for our community.
+Every dollar helps power the outreach and organizing it takes to win. $25 $50 $100 $250 $500 $1,225 Other $25 $50 $100 $250 $500 $1,225 Other Instagram Facebook Paid for by Friends of Mike McFall, P.O.
+Box 911, Hazel Park, MI 48030 Home Meet Mike Priorities Contact Volunteer Yard Signs Home Meet Mike Priorities Contact Volunteer Yard Signs Donate Paid for by Friends of Mike McFall, P.O.
+Box 911, Hazel Park, MI 48030 Donate to Help Re-Elect Mike McFall Chip in to Keep Mike Fighting for Our Communities Every dollar helps Mike keep delivering results—lowering costs, strengthening our communities, and standing up for what matters most.
+Make a quick contribution today and be part of Team McFall. $25 $50 $100 $250 $500 $1,225 Other

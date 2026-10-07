@@ -1,13 +1,62 @@
 [
-"https://facebook.com/p/Matt-Van-Epps-for-Congress-61576937085790",
-"https://mattfortn.com/",
-"https://mattfortn.com/election-info",
-"https://mattfortn.com/endorsements",
-"https://mattfortn.com/issues",
-"https://mattfortn.com/meet-matt",
-"https://mattfortn.com/news",
-"https://mattfortn.com/privacy",
-"https://mattfortn.com/volunteer",
-"https://secure.winred.com/matt-van-epps-for-congress/donate",
-"https://x.com/MattForTN"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/matt-van-epps-for-congress/donate"
+},
+{
+"text": "Election Info",
+"href": "https://www.mattfortn.com/election-info"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mattfortn.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mattfortn.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.mattfortn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mattfortn.com/issues"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.mattfortn.com/meet-matt"
+},
+{
+"text": "News",
+"href": "https://www.mattfortn.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mattfortn.com/privacy"
+},
+{
+"text": "Support Matt's Campaign",
+"href": "https://secure.winred.com/matt-van-epps-for-congress/donate"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mattfortn.com/volunteer"
+},
+{
+"text": "[image: Matt Van Epps for Congress Logo]",
+"href": "https://www.mattfortn.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/p/Matt-Van-Epps-for-Congress-61576937085790/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/MattForTN"
+},
+{
+"text": "alex@mattfortn.com",
+"href": "mailto:alex@mattfortn.com"
+}
 ]

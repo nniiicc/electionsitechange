@@ -1,7 +1,11 @@
 {
  "description": "Click here for more details and to RSVP",
  "final_url": "https://bennettforgovernor.com/events/bennett-headquarters-grand-opening",
- "paid_for_by": null,
- "title": "Bennett Headquarters Grand Opening! \u2014 Rick Bennett for Governor",
- "years_mentioned": []
+ "fingerprint": "8fb9d68cab10a3c624f58624db841fef1f0f0262",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "Bennett Headquarters Grand Opening! — Rick Bennett for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,17 +1,9 @@
-Rob's Priorities
-Gun Control
-Gun violence plagues our country.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Rob's Priorities Gun Control Gun violence plagues our country.
 More people than ever before are dying due to gun violence – more than 43,000 in 2023 – and nearly 80% of murders in the United States involve a gun.
 In the past decade, thousands of mass shootings have occurred, killing and injuring hundreds of thousands.
 And during the pandemic, gun violence only became worse.
 Republicans across the country are fighting to make it easier to get access to violent weapons with a stunning disregard for the safety of those who own guns and those around them.
 I joined the Gun Violence Prevention Task Force to protect our communities from these senseless acts of violence, and since taking office in January 2023, I have cosponsored more than twenty gun violence prevention bills, including the Bipartisan Background Checks Act, the Assault Weapons Ban, the Federal Extreme Risk Protection Order Act, and Ethan’s Law.
 And we’re just getting started.
-As your representative in Congress, I will always fight to:
-- Increase the scope of background checks so that Americans are no longer able to buy guns from private sellers without any safety measures in place;
-- Re-enact and expand the federal Assault Weapons Ban;
-- Close loopholes in gun purchasing laws and strengthen the ability to take guns away from abusive dating partners, felons, and children;
-- Address the growing threat of ghost guns that allow those who cannot lawfully own a weapon to access a firearm and skirt our gun laws;
-- Educate the public about suicides committed using guns, which account for roughly 60% of suicides and are fatal 90% of the time compared to only 3% for drug overdoses;
-- Ensure that guns are not in schools near our children; and
-- Support Ethan’s Law and any legislation that ensures safe storage of weapons.
+As your representative in Congress, I will always fight to: Increase the scope of background checks so that Americans are no longer able to buy guns from private sellers without any safety measures in place; Re-enact and expand the federal Assault Weapons Ban; Close loopholes in gun purchasing laws and strengthen the ability to take guns away from abusive dating partners, felons, and children; Address the growing threat of ghost guns that allow those who cannot lawfully own a weapon to access a firearm and skirt our gun laws; Educate the public about suicides committed using guns, which account for roughly 60% of suicides and are fatal 90% of the time compared to only 3% for drug overdoses; Ensure that guns are not in schools near our children; and Support Ethan’s Law and any legislation that ensures safe storage of weapons.
+Up Next Healthcare Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

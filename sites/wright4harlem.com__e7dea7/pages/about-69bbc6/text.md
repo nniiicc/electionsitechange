@@ -1,4 +1,4 @@
-Hi, I'm Jordan.
+top of page Home Meet Jordan The Playbook Join The Team Donate Contact Us Hi, I'm Jordan.
 As a son of Harlem and fourth-generation Harlemite, I embarked on this journey to public service long before I was even born – shaped by education, activism, and a politically engaged family that has nurtured me, supported me and always taught me to do the right thing.
 I am a proud Syracuse University alum, and since graduating I have sought to prove that education is the key to progress in all areas of life.
 A first-rate education is not available to everyone, though it should be.
@@ -8,3 +8,5 @@ In every single role that I have embraced up until this point, I found a platfor
 I remain steadfast in my commitment to effecting positive change and advancing the principles of justice, equity, and inclusivity in my community and beyond.
 As a child of the village, a former Community Board member, a Chief-of-Staff for the City Council District, and now having been honored to serve as Assemblyman, I seek to continue my life’s work as the representative of the 70th Assembly District.
 Harlem is my home and it would be the greatest honor of my life to continue to represent you.
+Jordan J.G.
+Wright The Playbook Jordan's Endorsements Learn more about the campaign Join The Team Home Meet Jordan The Playbook Join The Team Donate jordanwrightforny@gmail.com PAID FOR BY WRIGHT FOR NY Contact us First name Last name Email * Phone Message * Submit Home Meet Jordan The Playbook Join The Team Donate Contact Us bottom of page

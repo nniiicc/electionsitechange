@@ -1,5 +1,4 @@
-David Clayton believes in
-Incumbent Representative Campaign Reform
-Why do the wealthiest of elected officials always ask YOU for more money?
+Skip navigation menu Home About Issues Events Volunteer Contact Donate Home About Issues Events Volunteer Contact Donate Homeless Veterans The Social Security, Medicaid, & Medicare Protections Act The Patient Priority Act No Stock Trades For Elected Officials National Conflict of Interest Bill Incumbent Representative Campaign Reform Congressional Wage / Minimum Wage Reciprocity Act The Policing Wellness Act The Due Process Act Zero Kings Act David Clayton believes in Incumbent Representative Campaign Reform Why do the wealthiest of elected officials always ask YOU for more money?
 Why can't they pay their own way?
-If an incumbent has a net worth of more than $10 million, they are responsible for paying 75% of their campaigning costs and must match individual donations penny-for-penny should they accept them before meeting their quarterly 75% threshold.
+If an incumbent has a net worth of more than $# million, they are responsible for paying #% of their campaigning costs and must match individual donations penny-for-penny should they accept them before meeting their quarterly #% threshold.
+Stronger Together & Together Stronger Powered by RUN! website builder Paid for by Clayton4Congress You need to enable JavaScript to run this app.

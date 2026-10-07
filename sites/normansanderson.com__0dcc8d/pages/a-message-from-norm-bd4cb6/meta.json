@@ -1,12 +1,13 @@
 {
  "description": "Hello! My wife Linda and I are here to continue serving you in the NC Senate! There are good things in store for Eastern NC!",
  "final_url": "https://normansanderson.com/a-message-from-norm",
- "paid_for_by": null,
+ "fingerprint": "933b86210001d1a92135916943bf877703def3eb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "A Message from Norm | Norman Sanderson North Carolina Senate",
  "years_mentioned": [
   "2010",
   "2020",
-  "2024",
   "2026"
  ]
 }

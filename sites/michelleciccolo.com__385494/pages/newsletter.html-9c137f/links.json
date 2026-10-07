@@ -1,21 +1,82 @@
 [
-"http://instagram.com/repciccolo",
-"http://michelleciccolo.com/",
-"http://michelleciccolo.com/about.html",
-"http://michelleciccolo.com/blog-posts/category/press",
-"http://michelleciccolo.com/career-accomplishments.html",
-"http://michelleciccolo.com/cdn-cgi/l/email-protection",
-"http://michelleciccolo.com/contact.html",
-"http://michelleciccolo.com/donate.html",
-"http://michelleciccolo.com/legislation.html",
-"http://michelleciccolo.com/legislative-trails-caucus.html",
-"http://michelleciccolo.com/meet-michelle.html",
-"http://michelleciccolo.com/newsletter.html",
-"http://michelleciccolo.com/office-hours.html",
-"http://michelleciccolo.com/priorities.html",
-"http://michelleciccolo.com/the-district.html",
-"http://michelleciccolo.com/zero-waste-caucus.html",
-"https://facebook.com/repciccolo",
-"https://linkedin.com/in/michelle-ciccolo-81ab337",
-"https://twitter.com/mciccolo"
+{
+"text": "About",
+"href": "http://www.michelleciccolo.com/about.html"
+},
+{
+"text": "Campaign",
+"href": "http://www.michelleciccolo.com/donate.html"
+},
+{
+"text": "Career Accomplishments",
+"href": "http://www.michelleciccolo.com/career-accomplishments.html"
+},
+{
+"text": "Contact",
+"href": "http://www.michelleciccolo.com/contact.html"
+},
+{
+"text": "Home",
+"href": "http://www.michelleciccolo.com/"
+},
+{
+"text": "Legislation",
+"href": "http://www.michelleciccolo.com/legislation.html"
+},
+{
+"text": "Legislative Trails Caucus",
+"href": "http://www.michelleciccolo.com/legislative-trails-caucus.html"
+},
+{
+"text": "MICHELLE CICCOLO STATE REPRESENTATIVE",
+"href": "http://www.michelleciccolo.com/"
+},
+{
+"text": "Meet Michelle",
+"href": "http://www.michelleciccolo.com/meet-michelle.html"
+},
+{
+"text": "Newsletter",
+"href": "http://www.michelleciccolo.com/newsletter.html"
+},
+{
+"text": "Office Hours",
+"href": "http://www.michelleciccolo.com/office-hours.html"
+},
+{
+"text": "Press",
+"href": "http://www.michelleciccolo.com/blog-posts/category/press"
+},
+{
+"text": "Priorities",
+"href": "http://www.michelleciccolo.com/priorities.html"
+},
+{
+"text": "The District",
+"href": "http://www.michelleciccolo.com/the-district.html"
+},
+{
+"text": "Zero Waste Caucus",
+"href": "http://www.michelleciccolo.com/zero-waste-caucus.html"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/repciccolo"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mciccolo"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repciccolo"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/michelle-ciccolo-81ab337"
+},
+{
+"text": "[no text]",
+"href": "mailto:michelle.ciccolo@mahouse.gov"
+}
 ]

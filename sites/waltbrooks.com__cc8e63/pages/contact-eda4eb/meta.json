@@ -1,7 +1,9 @@
 {
  "description": "Contact",
  "final_url": "https://www.waltbrooks.com/contact",
- "paid_for_by": null,
+ "fingerprint": "37d79de7c6f0280478dab8366432895866c64756",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact",
  "years_mentioned": []
 }

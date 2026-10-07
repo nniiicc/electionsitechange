@@ -1,8 +1,7 @@
-District 24
-“I’m proud to live in District 24.
+0 Skip to Content HOME ABOUT ABOUT BEN ENDORSEMENTS & AWARDS RESOURCES DISTRICT 24 GET INVOLVED VOLUNTEER GET A YARD SIGN PLATFORM EVENTS VOTING GUIDE CONTACT DONATE Open Menu Close Menu HOME ABOUT ABOUT BEN ENDORSEMENTS & AWARDS RESOURCES DISTRICT 24 GET INVOLVED VOLUNTEER GET A YARD SIGN PLATFORM EVENTS VOTING GUIDE CONTACT DONATE Open Menu Close Menu HOME Folder: ABOUT Back ABOUT BEN ENDORSEMENTS & AWARDS RESOURCES DISTRICT 24 Folder: GET INVOLVED Back VOLUNTEER GET A YARD SIGN PLATFORM EVENTS VOTING GUIDE CONTACT DONATE District 24 “I’m proud to live in District 24.
 I grew up in this area, and my family has been living in the district since the sixties.
-Growing up, I enjoyed going to many of the beautiful natural areas in our district like the Morton Arboretum or Cantigny.
+Growing up, I enjoyed going to many of the beautiful natural areas in our district like the Morton Arboretum or Cantigny .
 This district is one with a rich and diverse history, where people from all over the world have come to make a better life for themselves.
 I know that the people here are hardworking and deserve to live good lives because they are families like my own.
-I want to make sure that community continues to be a good place to live and preserve it for generations to come.”
-The 24th Senate District includes parts of Addison, Bartlett, Bloomingdale, Carol Stream, Elk Grove Village, Hanover Park, Itasca, Naperville, Roselle, Warrenville, West Chicago, Wheaton, Winfield, and Wood Dale.
+I want to make sure that community continues to be a good place to live and preserve it for generations to come.” The 24th Senate District includes parts of Addison, Bartlett, Bloomingdale, Carol Stream, Elk Grove Village, Hanover Park, Itasca, Naperville, Roselle, Warrenville, West Chicago, Wheaton, Winfield, and Wood Dale.
+Paid for by Citizens for Ben McAdams Privacy Policy

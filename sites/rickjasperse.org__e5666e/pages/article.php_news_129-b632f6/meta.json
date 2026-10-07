@@ -1,10 +1,13 @@
 {
  "description": "GEORGIA ASSEMBLY STARTS MONDAY - The Georgia General Assembly starts on Monday the 8th. It's pretty exciting to be under the Gold Dom ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=129",
- "paid_for_by": null,
+ "fingerprint": "df7dfbc728f7590719c11bbc0a95320cd43be7a6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - GEORGIA ASSEMBLY STARTS MONDAY",
  "years_mentioned": [
   "2023",
-  "2024"
+  "2024",
+  "2039"
  ]
 }

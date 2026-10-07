@@ -1,12 +1,78 @@
 [
-"https://elizabethholmesforflorida.com/",
-"https://elizabethholmesforflorida.com/privacy-policy",
-"https://elizabethholmesforflorida.com/volunteer",
-"https://facebook.com/profile.php?id=61560331241061",
-"https://facebook.com/profile.php?id=61560331241061&sk=about",
-"https://instagram.com/elizabethforflorida",
-"https://mobilize.us/elizabethholmescampaignforfloridastatehouse94",
-"https://palmbeach.electionsfl.org/vrservices/mbrs",
-"https://secure.actblue.com/donate/elizabethholmesgeneraldonation",
-"https://votepalmbeach.gov/162/Register-to-Vote"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/elizabethholmesgeneraldonation"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/elizabethholmesgeneraldonation"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/elizabethholmesgeneraldonation"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/elizabethholmesgeneraldonation"
+},
+{
+"text": "CANVASS TODAY",
+"href": "https://www.mobilize.us/elizabethholmescampaignforfloridastatehouse94/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/elizabethholmesgeneraldonation"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/elizabethholmesgeneraldonation"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61560331241061"
+},
+{
+"text": "GET NEWSLETTER",
+"href": "https://www.elizabethholmesforflorida.com"
+},
+{
+"text": "HOME",
+"href": "https://www.elizabethholmesforflorida.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/elizabethforflorida/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.elizabethholmesforflorida.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.votepalmbeach.gov/162/Register-to-Vote"
+},
+{
+"text": "SIGN UP TO VOTE BY MAIL",
+"href": "https://palmbeach.electionsfl.org/vrservices/mbrs"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.elizabethholmesforflorida.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61560331241061&sk=about"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/elizabethforflorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.elizabethholmesforflorida.com"
+},
+{
+"text": "info@elizabethholmesforflorida.com",
+"href": "mailto:info@elizabethholmesforflorida.com?subject=Website+Contact"
+}
 ]

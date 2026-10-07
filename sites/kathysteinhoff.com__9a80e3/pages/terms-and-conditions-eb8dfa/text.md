@@ -1,77 +1,55 @@
-Last Updated: February 2020
-Introduction
-UpBallot, on behalf of itself and its subsidiaries and affiliates (“UpBallot”) maintains its website at www.upballot.com (the “Site”) for informational, general promotional, public information, as well as investor relations purposes.
+Terms & Conditions Last Updated: February 2020 Introduction UpBallot, on behalf of itself and its subsidiaries and affiliates (“UpBallot”) maintains its website at www.upballot.com (the “Site”) for informational, general promotional, public information, as well as investor relations purposes.
 The following Terms and Conditions apply to your use of this Site, including any other UpBallot-sponsored web logs, forums and social media sites and forums accessible from the Site and/or maintained by UpBallot.
 By accessing, browsing, posting comments to, or otherwise using this Site, you agree to be bound by these Terms and Conditions, as they may be modified from time to time.
-Intellectual Property
-UpBallot retains all copyrights in any text, graphic images, and software owned by UpBallot and hereby authorizes you to electronically copy documents published herein solely for the purpose of viewing the information for your own individual and/or internal purpose.
+Intellectual Property UpBallot retains all copyrights in any text, graphic images, and software owned by UpBallot and hereby authorizes you to electronically copy documents published herein solely for the purpose of viewing the information for your own individual and/or internal purpose.
 You may not otherwise copy, modify, distribute, transmit, display, publish, sell, license, create derivative works, link to, or use any information on this Site without written permission from UpBallot.
 Except as expressly provided above, nothing contained herein shall be construed as conferring any license or right under any UpBallot copyright, patent or trademark.
 UpBallot, the UpBallot logo, and the other UpBallot names or products referenced herein are trade names, trademarks or service marks of UpBallot, Incorporated or its subsidiaries and affiliates and may not be used without permission.
 UpBallot® is a registered trademark of UpBallot.
 Other product or company names mentioned herein may be the trade names, trademarks, or service marks of their respective owners.
-Disclaimer
-The information and materials available on or through this Site, including text, images, and links, are PROVIDED "AS IS" BY UPBALLOT, SOLELY AS A CONVENIENCE TO VISITORS OF THIS SITE WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+Disclaimer The information and materials available on or through this Site, including text, images, and links, are PROVIDED "AS IS" BY UPBALLOT, SOLELY AS A CONVENIENCE TO VISITORS OF THIS SITE WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.
 UPBALLOT DOES NOT WARRANT THE ACCURACY, ADEQUACY OR COMPLETENESS OF THIS INFORMATION AND MATERIALS, AND UPBALLOT EXPRESSLY DISCLAIMS LIABILITY FOR ERRORS OR OMISSIONS IN THIS INFORMATION AND MATERIALS.
 THERE IS NO WARRANTY THAT ANY INFORMATION, SERVICE, PRODUCTS, MATERIALS OR OTHER CONTENT OR DATA AVAILABLE ON OR THROUGH THIS SITE, OR UPBALLOT'S SOFTWARE OR HARDWARE SYSTEMS WILL FULFILL ANY OF YOUR PARTICULAR PURPOSES OR NEEDS.
 UPBALLOT DISCLAIMS A WARRANTY OF ANY KIND, IMPLIED, EXPRESSED OR STATUTORY, INCLUDING THE WARRANTIES OF NON-INFRINGEMENT OF THIRD PARTY RIGHTS, TITLE, MERCHANTABILITY OR QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OF INFORMATION CONTENT OR DATA, INFORMATION ACCESS AND ORDER EXECUTION, FREEDOM FROM COMPUTER VIRUS, IN CONNECTION WITH THIS SITE OR AVAILABLE INFORMATION AND MATERIALS, EVEN IF UPBALLOT HAS BEEN ADVISED OR IS OTHERWISE AWARE OF THE POSSIBILITY OF SUCH DAMAGES.
-Limited Liability
-IN NO EVENT SHALL UPBALLOT (OR ANY OF ITS SUBSIDIARIES OR AFFILIATES) BE LIABLE FOR ANY DAMAGES, INCLUDING ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL, DIRECT OR INDIRECT DAMAGES, LOSSES, OR EXPENSES, INCLUDING LOST PROFITS OR BUSINESS OPPORTUNITIES, ARISING IN CONNECTION WITH THE SITE OR ANY LINKED WEBSITE, OR USE THEREOF OR INABILITY TO USE, BY ANY PARTY OR IN CONNECTION WITH ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE, EVEN IF UPBALLOT, OR ITS REPRESENTATIVE THEREOF, IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, LOSSES OR EXPENSES, EXCEPT AS LIMITED BY APPLICABLE LAW.
+Limited Liability IN NO EVENT SHALL UPBALLOT (OR ANY OF ITS SUBSIDIARIES OR AFFILIATES) BE LIABLE FOR ANY DAMAGES, INCLUDING ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL, DIRECT OR INDIRECT DAMAGES, LOSSES, OR EXPENSES, INCLUDING LOST PROFITS OR BUSINESS OPPORTUNITIES, ARISING IN CONNECTION WITH THE SITE OR ANY LINKED WEBSITE, OR USE THEREOF OR INABILITY TO USE, BY ANY PARTY OR IN CONNECTION WITH ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE, EVEN IF UPBALLOT, OR ITS REPRESENTATIVE THEREOF, IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, LOSSES OR EXPENSES, EXCEPT AS LIMITED BY APPLICABLE LAW.
 SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.
 Only those terms and conditions set forth in any definitive agreement duly executed by UpBallot, or any of its affiliates or subsidiaries, shall govern the purchase, use, distribution or other relationship with UpBallot or its products or services.
 This Site and those that link into and out of this Site could include technical or other inaccuracies, and not all products or services referenced herein are available in all areas.
 UpBallot reserves the right to change the products or services described on this Site at any time.
 Contact UpBallot for further information before relying on any information contained herein.
-Data Submitted by You to this Site
-You agree that you are solely responsible for the text, graphic images, or other information that you create, submit, post, or display on or through this Site (collectively, the “Data”) and for the consequences of your actions.
+Data Submitted by You to this Site You agree that you are solely responsible for the text, graphic images, or other information that you create, submit, post, or display on or through this Site (collectively, the “Data”) and for the consequences of your actions.
 Subject to the terms the UpBallot Privacy Policy, you further agree that you are solely responsible for your Data, and UpBallot assumes no responsibility or liability for any Data posted by you or any third party user of this Site.
 UpBallot reserves the right, but shall have no obligation, to pre-screen, review, flag, filter, modify, refuse or remove from this Site any Data or any other text, graphic images, or other information, including without limitation, comments posted to web logs, social media sites or forums accessible from www.upballot.com or maintained by UpBallot.
 You agree that your Data does not and will not violate or infringe any copyright, trademark, right of privacy or publicity or other proprietary rights of any person or entity or constitute libelous, obscene, threatening, abusive or unlawful matter.
 Your Data will not include any computer viruses or any commercial messages or solicitations that have not been approved by UpBallot in advance.
-License from You
-By submitting, posting, or displaying your Data on or through this Site, you grant, and represent that you have the right to grant, to UpBallot a perpetual, irrevocable, worldwide, royalty-free, non-exclusive and sublicensable license to use, reproduce, adapt, modify, create derivative works from, translate, publish, publicly perform, publicly display, and distribute such Data.
+License from You By submitting, posting, or displaying your Data on or through this Site, you grant, and represent that you have the right to grant, to UpBallot a perpetual, irrevocable, worldwide, royalty-free, non-exclusive and sublicensable license to use, reproduce, adapt, modify, create derivative works from, translate, publish, publicly perform, publicly display, and distribute such Data.
 UpBallot and its licensees shall also have the right to use your name in connection with their use of any such Data.
 You further agree that UpBallot has no obligation to respond to any inquiries, your Data is not provided to UpBallot in confidence, and that your Data is created, submitted, posted or displayed gratuitously and without expectation of compensation.
 Without limiting any of UpBallot’s rights in the Data, you agree that UpBallot will be free to consider, reproduce, use, disclose and distribute the Data to others, and to use the Data for any purpose including without limitation, developing, manufacturing, and marketing products incorporating such Data.
-Indemnity
-You agree to indemnify, defend and hold UpBallot and its suppliers or other applicable related parties, harmless from and against all claims, losses, liability, cost, and expenses (including attorneys' fees) arising from your violation of these Terms and Conditions or use or misuse of this Site, or from the use of any Data or any service, product, information or materials provided through this Site.
+Indemnity You agree to indemnify, defend and hold UpBallot and its suppliers or other applicable related parties, harmless from and against all claims, losses, liability, cost, and expenses (including attorneys' fees) arising from your violation of these Terms and Conditions or use or misuse of this Site, or from the use of any Data or any service, product, information or materials provided through this Site.
 Your obligations under this paragraph will survive your termination of access to or use of the Site.
-Fraudulent, Illegal or Improper Activity
-You agree that you will not use this Site for any illegal, fraudulent, unauthorized, or improper activity (a "Prohibited Use").
+Fraudulent, Illegal or Improper Activity You agree that you will not use this Site for any illegal, fraudulent, unauthorized, or improper activity (a "Prohibited Use").
 If we suspect that you may be engaging in any Prohibited Use, including any violation of any terms or conditions relating to this Site or any service or product by UpBallot, your access to this Site and any service or product may be suspended or terminated without notice.
-Copyright Notices
-UpBallot respects the rights of all copyright holders.
-If you believe your copyright has been infringed, you may notify UpBallot by email at info@upballot.com.
-To be effective, your notice must include substantially the following, as provided for under the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. 512(c)(3):
-- Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site
-- A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-- Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
-- Information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;
-- A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-- A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Copyright Notices UpBallot respects the rights of all copyright holders.
+If you believe your copyright has been infringed, you may notify UpBallot by email at info@upballot.com .
+To be effective, your notice must include substantially the following, as provided for under the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C.
+512(c)(3): Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; Information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted; A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 UpBallot has adopted and reasonably implemented a policy that provides for the termination in appropriate circumstances of subscribers and account holders of UpBallot’s system or network who are repeat infringers.
-Links from this Web Site
-This Site contains links to other websites and resources maintained by third parties.
+Links from this Web Site This Site contains links to other websites and resources maintained by third parties.
 The linked sites may not be under the control of UpBallot, and UpBallot shall not be responsible for the content of any linked site or link contained in a linked site.
 These links are provided as a convenience only, and the inclusion of any link does not imply an endorsement, affiliation, or sponsorship by UpBallot of that site.
 Any use of or reliance on any such information, content, and materials is at your own risk, and may be subject to additional policies or terms and Conditions provided by the provider thereof.
-Submissions
-You agree to provide true, accurate, current and complete information about yourself when you elect to provide personal information to UpBallot via this Site, including in connection with registering or creating an account at this Site.
+Submissions You agree to provide true, accurate, current and complete information about yourself when you elect to provide personal information to UpBallot via this Site, including in connection with registering or creating an account at this Site.
 You also agree to maintain and promptly update any such information to keep it accurate.
 Without limiting the generality of the foregoing, you will not submit any false or misleading information (including without limitation names or other contact information) or impersonate any person.
 To protect your account, you shall keep your password confidential and take full responsibility for your own and third party activities that occur under or in connection with your account.
-Privacy and Security
-We understand the need to safeguard certain of your information and records from unauthorized use and disclosure.
+Privacy and Security We understand the need to safeguard certain of your information and records from unauthorized use and disclosure.
 Please see UpBallot Privacy Policy, which is deemed a part of these Terms and Conditions.
-Cross-border Transmission of Data
-Subject to the UpBallot Privacy Policy, you acknowledge and agree that by providing UpBallot with your personal or proprietary information in any application or transaction request through this Site, you hereby consent to the transmission of such personal or proprietary information to or by UpBallot, and its service providers or marketers, over state and international borders as necessary for handling your application or transaction request in accordance with UpBallot's standard business practices.
-Enforceability
-In the event any of the provisions of these Terms and Conditions shall be held to be unenforceable, the remaining provisions shall be unimpaired, and the unenforceable provision shall be replaced by such enforceable term or provision as comes closest to the intention underlying the unenforceable term or provision.
+Cross-border Transmission of Data Subject to the UpBallot Privacy Policy, you acknowledge and agree that by providing UpBallot with your personal or proprietary information in any application or transaction request through this Site, you hereby consent to the transmission of such personal or proprietary information to or by UpBallot, and its service providers or marketers, over state and international borders as necessary for handling your application or transaction request in accordance with UpBallot's standard business practices.
+Enforceability In the event any of the provisions of these Terms and Conditions shall be held to be unenforceable, the remaining provisions shall be unimpaired, and the unenforceable provision shall be replaced by such enforceable term or provision as comes closest to the intention underlying the unenforceable term or provision.
 These Terms and Conditions shall be subject to and do not alter any other agreements you have entered into with UpBallot.
-Applicable Law
-This Site (excluding linked sites) is controlled by UpBallot from its offices within the State of Missouri, United States of America.
+Applicable Law This Site (excluding linked sites) is controlled by UpBallot from its offices within the State of Missouri, United States of America.
 By accessing this Site, you agree that all matters relating to your use of this Site shall be governed by the statutes and laws of the State of Missouri, and the federal laws of the United States of America without regard to the conflicts of laws principles thereof.
 The application of the United Nations Convention of Contracts for the International Sale of Goods, and the model Uniform Computer Information Transactions Act approved by the National Conference of Commissioners on Uniform State Laws (as enacted and/or modified into any state law in the U.S.A.), are expressly excluded and shall not apply.
-Amendments
-We may change, amend or discontinue this Site (or any portion thereof) at any time without prior notice or obligation to you.
-We may also change these Terms and Conditions at any time without prior notice, and your continued use of this Site after such changes have been posted will constitute your acceptance of the changes.
+Amendments We may change, amend or discontinue this Site (or any portion thereof) at any time without prior notice or obligation to you.
+We may also change these Terms and Conditions at any time without prior notice, and your continued use of this Site after such changes have been posted will constitute your acceptance of the changes. ©# UpBallot | Built by Mostly Serious | Privacy Policy | Terms & Conditions

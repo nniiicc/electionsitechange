@@ -1,47 +1,230 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/announcements/a-small-procedural-fight-with-a-bigger-point-behind-it",
-"https://electbarnhill.net/announcements/announcement-of-candidacy",
-"https://electbarnhill.net/announcements/donate-nevada-independent-candidate",
-"https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing",
-"https://electbarnhill.net/announcements/nevada-secretary-of-state-candidates-2026",
-"https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit",
-"https://electbarnhill.net/announcements/service-complete-motion-to-dismiss-preview",
-"https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar",
-"https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster",
-"https://electbarnhill.net/author/electbarnhill",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/announcements/page/2",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/commentary/how-to-check-nevada-voter-registration",
-"https://electbarnhill.net/commentary/independents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands",
-"https://electbarnhill.net/commentary/nevadas-new-majority",
-"https://electbarnhill.net/commentary/question-7-nevada-voter-id",
-"https://electbarnhill.net/commentary/supreme-court-lets-states-use-federal-citizenship-database-for-voter-rolls-what-it-means-for-nevada",
-"https://electbarnhill.net/commentary/the-pendulum-stops-here-why-nevadas-independents-must-stop-swinging-and-start-winning",
-"https://electbarnhill.net/commentary/vote-for-someone-not-against-someone",
-"https://electbarnhill.net/commentary/what-nevada-secretary-of-state-candidates-owe-voters",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/policy-positions/independent-secretary-of-state-democrat-controlled-legislature",
-"https://electbarnhill.net/policy-positions/voter-id-is-coming-lets-talk-about-making-it-actually-work-for-people-2",
-"https://electbarnhill.net/policy-positions/youre-not-undecided-youre-unrepresented",
-"https://electbarnhill.net/promise-kept",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://instagram.com/electbarnhill",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "A Small Procedural Fight, With a Bigger Point Behind It",
+"href": "https://electbarnhill.net/announcements/a-small-procedural-fight-with-a-bigger-point-behind-it/"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer",
+"href": "https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "How to Check Nevada Voter Registration Status",
+"href": "https://electbarnhill.net/commentary/how-to-check-nevada-voter-registration/"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands",
+"href": "https://electbarnhill.net/commentary/independents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands/"
+},
+{
+"text": "I’ve Asked the Court to Rule on My E-Filing Request",
+"href": "https://electbarnhill.net/announcements/request-for-ruling-electronic-filing-barnhill-v-aguilar/"
+},
+{
+"text": "Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?",
+"href": "https://electbarnhill.net/announcements/nevada-secretary-of-state-candidates-2026/"
+},
+{
+"text": "Nevada’s New Majority",
+"href": "https://electbarnhill.net/commentary/nevadas-new-majority/"
+},
+{
+"text": "Next page",
+"href": "https://electbarnhill.net/category/announcements/page/2/"
+},
+{
+"text": "Page 2",
+"href": "https://electbarnhill.net/category/announcements/page/2/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Question 7 Nevada Voter ID: What Comes Next",
+"href": "https://electbarnhill.net/commentary/question-7-nevada-voter-id/"
+},
+{
+"text": "Service Is Complete. Here’s What Comes Next in Barnhill v. Aguilar.",
+"href": "https://electbarnhill.net/announcements/service-complete-motion-to-dismiss-preview/"
+},
+{
+"text": "Stop Voting Against Someone. Vote For Someone.",
+"href": "https://electbarnhill.net/commentary/vote-for-someone-not-against-someone/"
+},
+{
+"text": "Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada",
+"href": "https://electbarnhill.net/commentary/supreme-court-lets-states-use-federal-citizenship-database-for-voter-rolls-what-it-means-for-nevada/"
+},
+{
+"text": "The Lawsuit Is Filed: Barnhill v. Aguilar",
+"href": "https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar/"
+},
+{
+"text": "The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning",
+"href": "https://electbarnhill.net/commentary/the-pendulum-stops-here-why-nevadas-independents-must-stop-swinging-and-start-winning/"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "Voter ID Is Coming. Let’s Talk About Making It Actually Work For People.",
+"href": "https://electbarnhill.net/policy-positions/voter-id-is-coming-lets-talk-about-making-it-actually-work-for-people-2/"
+},
+{
+"text": "What Nevada Secretary of State Candidates Owe Voters",
+"href": "https://electbarnhill.net/commentary/what-nevada-secretary-of-state-candidates-owe-voters/"
+},
+{
+"text": "What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature",
+"href": "https://electbarnhill.net/policy-positions/independent-secretary-of-state-democrat-controlled-legislature/"
+},
+{
+"text": "While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster",
+"href": "https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster/"
+},
+{
+"text": "Who Will Protect Your Vote?",
+"href": "https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit/"
+},
+{
+"text": "Why Donate to a Nevada Independent Candidate?",
+"href": "https://electbarnhill.net/announcements/donate-nevada-independent-candidate/"
+},
+{
+"text": "You’re Not Undecided. You’re Unrepresented.",
+"href": "https://electbarnhill.net/policy-positions/youre-not-undecided-youre-unrepresented/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "electbarnhill",
+"href": "https://electbarnhill.net/author/electbarnhill/"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+}
 ]

@@ -1,5 +1,7 @@
-James Barber
-““Rural New York can have a voice in the Assembly that our leaders will actually listen to.
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved James Barber Endorsements + Recognitions Jan 16 Written By Heather Phelps-Lipton ““Rural New York can have a voice in the Assembly that our leaders will actually listen to.
 A voice that will provide alternatives to the current solar model that will both support landowners and preserve farmland.
 A voice that can explain the true financial burden of high labor costs and high property taxes crushing our farmers and local food systems.
-A voice that can articulate the inadequacy of our rural health care and a system that forces our farmers and store owners to drive school buses just for insurance so they can see a doctor; forcing them to drive buses rather than tending to the work of running their farms and businesses."
+A voice that can articulate the inadequacy of our rural health care and a system that forces our farmers and store owners to drive school buses just for insurance so they can see a doctor; forcing them to drive buses rather than tending to the work of running their farms and businesses." Heather Phelps-Lipton Previous Previous Healthcare policy should be led by evidence, not influencers Next Next Knocking on Doors Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared with subcontractors in support services, such as customer service.
+All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

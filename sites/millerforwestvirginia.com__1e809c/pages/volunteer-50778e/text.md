@@ -1,9 +1,10 @@
-Ways you can help:
-TALK TO YOUR FAMILY, FRIENDS, AND NEIGHBORS!
+DISTRICT 5 Miller For State Senate WV Huntington native, Chris Miller has spent a lifetime putting West Virginia first.
+Home Meet Chris Volunteer for Chris Endorse Chris Contact Us Donate DONATE Volunteer with the Campaign!
+If you’re ready to roll up your sleeves and help Chris, sign-up to today and we’ll send you our Volunteer Action Guide to help you get started!
+Ways you can help: TALK TO YOUR FAMILY, FRIENDS, AND NEIGHBORS!
 Everyone hates spam calls, but when a call comes from a neighbor down the street or a loved one, it means the world and helps deliver our message.
 Call the people you know, tell them why you’re supporting Chris Miller for State Senate, and encourage them to join our movement!
-We can help make it easy with points to share about Chris, so let us know when you’re
-ready to start calling!
+We can help make it easy with points to share about Chris, so let us know when you’re ready to start calling!
 WRITE TO YOUR LOCAL NEWSPAPER!
 Letters to the editor of your local newspaper are a great way to further spread Chris’ message and generate positive buzz in your community for our campaign.
 If you’ve never written a letter to the editor, it’s easy, fun, and we can help you get started!
@@ -13,11 +14,17 @@ The best campaign organizations are ground up, not top down, so we need your hel
 There is no minimum involvement required for someone new to volunteer with our campaign.
 The only requirement is they care about West Virginia!
 Sign up today to receive our volunteer action guide and become a part of our campaign today!
-Miller for WV
-PO Box 328
-Huntington, WV 25708
-Paid for by Miller for State Senate WV
+Get Our Volunteer Action Guide Full Name * Email * Phone Address Street Address City State Country Country Zip Code * By providing your phone number and checking the box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Miller for State Senate.
+Reply HELP for help, STOP to end.
+Msg & Data Rates May Apply.
+Message frequency may vary.
+SMS opt-in will not be sold, rented, or shared with third parties/affiliates unless required by law.
+Visit https://millerforwestvirginia.com/privacy-policy for more information.
+Yes, Sign Me Up to Volunteer!
+SUBMIT DONATE VIA CHECK Miller for WV PO Box 328 Huntington, WV 25708 DONATE ONLINE Paid for by Miller for State Senate WV Copyright #.
 Miller for State Senate WV.
-All rights reserved.
-lorem ipsum Quam est faucibus porttitor luctus sem phasellus.
+All rights reserved. get started The Ideal Home Is Waiting for You lorem ipsum Quam est faucibus porttitor luctus sem phasellus.
 Pretium neque aliquet .
+Contact us today get started The Ideal Home Is Waiting for You lorem ipsum Quam est faucibus porttitor luctus sem phasellus.
+Pretium neque aliquet .
+Contact us today

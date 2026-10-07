@@ -1,7 +1,11 @@
 {
  "description": "Zach Nunn Gets It Done. See what Zach is all about and how you can help in his campaign for Congress in Iowa.",
  "final_url": "https://zachnunn.com/",
- "paid_for_by": "Paid for by Team Nunn Copyright \u00a92026 Team Nunn",
+ "fingerprint": "b98dbd1f88f728c0bc49343fb0c0c78e25612bc5",
+ "format": 3,
+ "paid_for_by": "Paid for by Team Nunn Copyright ©# Team Nunn",
  "title": "Home - Zach Nunn for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,9 +1,42 @@
 [
-"https://beauchampforkansas.com/",
-"https://beauchampforkansas.com/about-5",
-"https://beauchampforkansas.com/donate",
-"https://beauchampforkansas.com/general-clean",
-"https://beauchampforkansas.com/issues-2",
-"https://beauchampforkansas.com/volunteer",
-"https://facebook.com/BeauchampForKansas"
+{
+"text": "BEAUCHAMP FOR KANSAS",
+"href": "https://www.beauchampforkansas.com"
+},
+{
+"text": "District 82",
+"href": "https://www.beauchampforkansas.com/general-clean"
+},
+{
+"text": "Donate",
+"href": "https://www.beauchampforkansas.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.beauchampforkansas.com"
+},
+{
+"text": "Issues",
+"href": "https://www.beauchampforkansas.com/issues-2"
+},
+{
+"text": "Meet Kyle",
+"href": "https://www.beauchampforkansas.com/about-5"
+},
+{
+"text": "Volunteer",
+"href": "https://www.beauchampforkansas.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BeauchampForKansas"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BeauchampForKansas/"
+},
+{
+"text": "beauchampforkansas@gmail.com",
+"href": "mailto:beauchampforkansas@gmail.com"
+}
 ]

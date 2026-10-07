@@ -1,7 +1,12 @@
 {
- "description": "Pr\u00f3ximos eventos de campa\u00f1a, asambleas populares y reuniones comunitarias para la campa\u00f1a congresional de Jose Vega. \u00danete a nosotros para aprender sobre nuestra plataforma e involucrarte.",
+ "description": "Próximos eventos de campaña, asambleas populares y reuniones comunitarias para la campaña congresional de Jose Vega. Únete a nosotros para aprender sobre nuestra plataforma e involucrarte.",
  "final_url": "https://votevega.nyc/es/events/",
- "paid_for_by": null,
+ "fingerprint": "810ab3d7d54eb0a098732b4384cbeea0573eab84",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Eventos | Jose Vega para el Congreso 2026 | Rescatemos el Bronx!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

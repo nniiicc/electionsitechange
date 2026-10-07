@@ -1,4 +1,3 @@
-| | SERVING OVERLAND PARK, LEAWOOD, AND PRAIRIE VILLAGE Your Voice, Your Vote | |
-| | Stephanie was raised in Johnson County, and chose to live, work, and raise her family here in Overland Park.
-First elected in 2012, Stephanie is serving her fifth term in the Kansas House of Representatives and has been the leading voice for accountability and transparency measures in Topeka. | |
-| | |
+Home Meet Stephanie Issues Get Involved Donate Home Meet Stephanie Issues Get Involved Donate Donate Today Subscribe to Stephanie's Legislative Updates! * indicates required Email Address * First Name Last Name SERVING OVERLAND PARK, LEAWOOD, AND PRAIRIE VILLAGE Your Voice, Your Vote Stephanie was raised in Johnson County, and chose to live, work, and raise her family here in Overland Park.
+First elected in 2012, Stephanie is serving her fifth term in the Kansas House of Representatives and has been the leading voice for accountability and transparency measures in Topeka.
+Learn more about Stephanie Learn More and Get Informed: ​​ Voter Resources: ☆ Register to Vote ☆ Download Advance Ballot App ​ ☆ Find Your Polling Place House District 19 Map Volunteer My Priorities Endorsements Paid for by clayton for kansas, jennifer estes, treasurer

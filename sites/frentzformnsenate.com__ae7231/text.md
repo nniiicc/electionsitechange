@@ -1,41 +1,13 @@
-RE-ELECT
-NICK FRENTZ
-For Minnesota State Senate
-District 18
-QUALITY EDUCATION, GOOD JOBS AND
-TRANSPORTATION.
+Follow Follow DONATE request a lawn sign Meet Nick Latest News Capitol Report Endorsements & Supporters Contact Nick RE-ELECT NICK FRENTZ For Minnesota State Senate District 18 QUALITY EDUCATION, GOOD JOBS AND TRANSPORTATION.
 “I’m very proud to announce my re-election campaign for the state senate.
-I look forward to working with you to continue to bring a strong voice
-for District 18 to the Minnesota State Capitol.”
-– Senator Nick Frentz
-Delivering a strong voice for District 18
-I have advocated for the inclusion of over $200 million dollars in bonding projects for our district during my time in the Senate, spurring economic growth through development and revitalization of our public resources.
+I look forward to working with you to continue to bring a strong voice for District 18 to the Minnesota State Capitol.” – Senator Nick Frentz Delivering a strong voice for District 18 I have advocated for the inclusion of over $200 million dollars in bonding projects for our district during my time in the Senate, spurring economic growth through development and revitalization of our public resources.
 I am a strong voice for the 2,000+ family farm owners in our district – these people are cornerstones of our economy, and their work is essential to the success of our entire state.
-“I am proud to have received the Minnesota Police and Peace Officers Association endorsement in my last three races, demonstrating my strong commitment to our public safety officers who work tirelessly to keep us safe.
-I also carried the bill that appropriated $67 million to help fund the construction of a new BCA crime lab in Mankato – making our officers jobs easier and more efficient and delivering safer communities to our district.”
-Delivering energy that is clean, affordable, and reliable while working to support Minnesota’s law that transitions us to 100% clean energy by 2040.
-GET INVOLVED!
+Economic Growth “I am proud to have received the Minnesota Police and Peace Officers Association endorsement in my last three races, demonstrating my strong commitment to our public safety officers who work tirelessly to keep us safe.
+I also carried the bill that appropriated $67 million to help fund the construction of a new BCA crime lab in Mankato – making our officers jobs easier and more efficient and delivering safer communities to our district.” Public Safety Delivering energy that is clean, affordable, and reliable while working to support Minnesota’s law that transitions us to 100% clean energy by 2040.
+Clean, Affordable, Reliable Energy VIEW CAPITOL REPORT GET INVOLVED!
 Our campaign is powered by people like YOU who believe in building a brighter, stronger future.
 Whether you have a few hours or a few minutes, your energy, ideas, and voice make all the difference.
-Here’s how you can help:
-Volunteer • Spread the Word • Join a Team • Attend Events • Donate
-Together, we can shape policies that reflect our values and create real solutions.
+Here’s how you can help: Volunteer • Spread the Word • Join a Team • Attend Events • Donate Together, we can shape policies that reflect our values and create real solutions.
 Join us today and be part of the movement for positive change!
-NICK ON THE JOB
-Legislative Service:
-Elected: 2016, re-elected 2020, 2022
-Term: 3rd
-Committee Assignments:
-Chair
-Energy, Utilities, Environment, and Climate
-Legislative Commission on Pensions & Retirement
-Vice Chair
-Finance
-Sitting Member
-Capital Investment
-Commerce and Consumer Protection
-Rules and Administration
-Bills Authored:
-2025-2026 Biennium Regular Session Status Report (With Details)
-2025-2026 Biennium Regular Session Status List
-2025 one Special Session Status Report (With Details)
+CONTACT US DONATE Newsletter Signup NICK ON THE JOB Legislative Service: Elected: 2016, re-elected 2020, 2022 Term: 3rd Committee Assignments: Chair Energy, Utilities, Environment, and Climate Legislative Commission on Pensions & Retirement Vice Chair Finance Sitting Member Capital Investment Commerce and Consumer Protection Rules and Administration Bills Authored: 2025-2026 Biennium Regular Session Status Report (With Details) 2025-2026 Biennium Regular Session Status List 2025 one Special Session Status Report (With Details) 2025 one Special Session Status List Click Image to Enlarge Prepared and Paid for by the Nick Frentz – Frentz for Senate Committee, 151 St Andrews Ct STE 1010, Mankato, MN 56001 Copyright © # Frentz for Senate Follow Follow Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from Senator Nick Frentz SUBSCRIBE!
+You have Successfully Subscribed!

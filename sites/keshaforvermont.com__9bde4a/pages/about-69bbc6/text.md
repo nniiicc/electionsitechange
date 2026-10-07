@@ -1,5 +1,4 @@
-Meet Kesha
-For over a decade, Kesha Ram Hinsdale has served the people of Vermont – breaking barriers, building consensus, and delivering meaningful progress.
+Skip to content Kesha Ram Meet Kesha Issues News Endorsements Volunteer Donate Volunteer Donate Meet Kesha For over a decade, Kesha Ram Hinsdale has served the people of Vermont – breaking barriers, building consensus, and delivering meaningful progress.
 Now, as Senate Majority Leader, she is fighting for working Vermonters and democracy in a time when polarization and extremism are threatening not just our future, but our fundamental rights.
 Kesha was born into a multiracial, working class family that gave back to the community every chance they could.
 She grew up waiting tables in the family business — an Irish pub run by her Jewish American mother and Indian immigrant father.
@@ -26,11 +25,13 @@ While serving on the boards of Planned Parenthood of Northern New England and th
 In 2020, she made history again as the first woman of color ever elected to the Vermont State Senate.
 There, Kesha has used her deep legislative background to support Vermont’s working families and advance climate action.
 She is the first woman to chair the powerful Senate Economic Development, Housing & General Affairs Committee, and made history once more this past session serving in that role while pregnant and caring for her newborn baby, Mira.
-From the hospital, she spearheaded historic reforms that advanced affordable housing and homeownership and strengthened unions and labor protections.
-“Our representatives should understand the barriers people face, and they should be committed to doing what is right over what is easy.
-The job is to stay in the fight until you’ve delivered.”
-Every step of the way, Kesha does what is difficult.
+From the hospital, she spearheaded historic reforms that advanced affordable housing and homeownership and strengthened unions and labor protections. “ Our representatives should understand the barriers people face, and they should be committed to doing what is right over what is easy.
+The job is to stay in the fight until you’ve delivered. ” Every step of the way, Kesha does what is difficult.
 And she never, ever leaves the negotiating table empty-handed.
 Over the years, she has unapologetically reintroduced and seen through legislation that fundamentally challenged the status quo: stopping schools from suspending and expelling young children; expanding language access and local voting rights for immigrant families; and building a framework of accountability for police misconduct and use of force.
 Meeting this moment requires passionate, progressive, proven leadership.
 Kesha is running for re-election to Vermont’s State Senate to keep Vermont and the nation moving forward: fighting for a Green New Deal that protects and expands middle class jobs, championing universal health care that puts people before profits, securing the fundamental voting rights that uphold our democracy, and guaranteeing access to abortion care no matter your zip code.
+Kesha is married to Jacob Hinsdale, who grew up on a dairy and maple farm in Charlotte.
+Together, they live in Shelburne with their two young children, Mira and Wesley.
+Chip in Help send Vermont’s fighter back to the State Senate.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $#.# $# $# $# $# Other Volunteer Donate Privacy Policy Contact Us 31 North Prospect Street Burlington, VT 05401 Paid for by Kesha for Vermont © Kesha for Vermont | Made by Authentic

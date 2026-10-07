@@ -1,7 +1,26 @@
 [
-"https://citizensforcassidy.com/",
-"https://citizensforcassidy.com/about-kelly",
-"https://citizensforcassidy.com/donate",
-"https://citizensforcassidy.com/get-involved",
-"https://secure.actblue.com/donate/cassidy"
+{
+"text": "About Kelly",
+"href": "https://www.citizensforcassidy.com/about-kelly"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cassidy"
+},
+{
+"text": "Donate",
+"href": "https://www.citizensforcassidy.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforcassidy.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforcassidy.com"
+},
+{
+"text": "kellycassidy14@gmail.com",
+"href": "mailto:kellycassidy14@gmail.com"
+}
 ]

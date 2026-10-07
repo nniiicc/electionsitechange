@@ -1,7 +1,9 @@
 {
  "description": "Discover the Alaska State House Podcast by Andrew Gray, diving deep into political discussions and insights from House District 20.",
  "final_url": "https://andrewgrayak.com/podcast",
- "paid_for_by": "Paid for by Andrew Gray for Alaska State House",
+ "fingerprint": "b51de2e4dfa351732d20fac18615df37f9d5fffd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Podcast",
  "years_mentioned": []
 }

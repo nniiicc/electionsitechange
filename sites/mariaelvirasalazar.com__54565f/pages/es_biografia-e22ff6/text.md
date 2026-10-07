@@ -1,3 +1,4 @@
+English Seguirnos en las redes sociales: In English Donar Biografía Políticas Donde Votar Únete al Equipo Noticias Tienda Online Biografía Políticas Donde Votar Únete al Equipo Noticias Tienda Online In English Donar Biografía Enfrentarse al poder... por el bienestar del pueblo.
 Nace en Miami, en la Pequeña Habana, de padres cubanos que emigran a los Estados Unidos con solo cinco dólares en sus bolsillos, huyendo de la llegada de Fidel Castro al poder.
 Ambos inculcaron en su hija, desde muy temprana edad, la búsqueda de la libertad y el sueño americano.
 Salazar pasó gran parte de su niñez en Puerto Rico, mientras escuchaba a sus padres contar las historias sobre el opresivo régimen comunista del que escaparon.
@@ -24,4 +25,6 @@ En su carrera, ha entrevistado a una amplia gama de líderes sociales y polític
 Bush, Álvaro Uribe, Jose Maria Aznar, Vicente Fox, Juan Manuel Santos, Augusto Pinochet, Nicolás Maduro y, más recientemente, Juan Guaidó.
 Salazar reside en Miami con sus dos hijas en edad universitaria y con su esposo.
 Actualmente es invitada habitual en varios programas de noticias locales y nacionales.
-Donar
+Donar Biografía Políticas Donde Votar Únete al Equipo Noticias Tienda Online Donar Name * First Correo Electrónico * Número de Teléfono * Ciudad Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Seguirnos en las redes sociales: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com POLÍTICA DE PRIVACIDAD Pagado por Salazar for Congress

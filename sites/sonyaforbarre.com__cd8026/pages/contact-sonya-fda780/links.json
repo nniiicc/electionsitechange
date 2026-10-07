@@ -1,13 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61557905641953",
-"https://instagram.com/sonyaspauldingforbarre",
-"https://secure.actblue.com/donate/sonya-for-barre",
-"https://sonyaforbarre.com/",
-"https://sonyaforbarre.com/contact-sonya",
-"https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard",
-"https://sonyaforbarre.com/endorsements",
-"https://sonyaforbarre.com/events",
-"https://sonyaforbarre.com/get-involved",
-"https://sonyaforbarre.com/priorities",
-"https://sonyaforbarre.com/volunteer"
+{
+"text": "CONTACT SONYA",
+"href": "https://sonyaforbarre.com/contact-sonya/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/sonya-for-barre"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://sonyaforbarre.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://sonyaforbarre.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557905641953"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://sonyaforbarre.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sonyaspauldingforbarre/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://sonyaforbarre.com/priorities/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sonyaforbarre.com/volunteer/"
+},
+{
+"text": "VOTE",
+"href": "https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard/"
+},
+{
+"text": "[image: Sonya Spaulding for State Rep]",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "sonya@sonyaforbarre.com",
+"href": "mailto:sonya@sonyaforbarre.com"
+}
 ]

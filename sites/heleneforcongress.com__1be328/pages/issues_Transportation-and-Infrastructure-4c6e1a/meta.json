@@ -1,7 +1,11 @@
 {
  "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Strong infrastructure is essential to public safety, economic growth, and the health of our communities.&amp;rdquo; &lt;/em&gt;&lt;/strong&gt;~ Helene...",
  "final_url": "https://www.heleneforcongress.com/issues/Transportation-and-Infrastructure",
- "paid_for_by": null,
+ "fingerprint": "00e5bb18e75c72deccdd28da73dcc367be62935c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Transportation and Infrastructure",
- "years_mentioned": []
+ "years_mentioned": [
+  "1993"
+ ]
 }

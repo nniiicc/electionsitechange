@@ -1,4 +1,4 @@
-I have been a resident of Baltimore County for 14 years and currently live in Randallstown.
+Home MEET JENNIFER BIO SPONSORED LEGISLATION VISION FOR DISTRICT 10 PRIORITIES RESOURCES VOTING INFORMATION DELEGATE SCHOLARSHIP DONATE JOIN THE TEAM Donate More Home MEET JENNIFER BIO SPONSORED LEGISLATION VISION FOR DISTRICT 10 PRIORITIES RESOURCES VOTING INFORMATION DELEGATE SCHOLARSHIP DONATE JOIN THE TEAM Donate Home MEET JENNIFER BIO SPONSORED LEGISLATION VISION FOR DISTRICT 10 PRIORITIES RESOURCES VOTING INFORMATION DELEGATE SCHOLARSHIP DONATE JOIN THE TEAM Donate Meet Jennifer I have been a resident of Baltimore County for 14 years and currently live in Randallstown.
 Before making the Old Line State my home, I grew up in the suburbs of Detroit.
 My grandparents were a part of The Great Migration and the first African-American family that settled in Novi in the early 1950s.
 My mother and I both graduated from Novi Public Schools.
@@ -16,15 +16,7 @@ As a woman of faith, I serve at Douglas Memorial Community Church and previously
 Currently, I use my public health and philanthropic expertise to serve on the Upton/Druid Heights Strengthening Families Coalition, which mobilizes the community to prevent youth substance use.
 As someone passionate about maternal and child health, I serve on the Advisory Committee of the Center of Excellence in Maternal and Child Health at the Johns Hopkins Bloomberg School of Public Health.
 I am a graduate of Emerge Maryland, a prestigious political training program for Democratic women and is proud to be part of a distinguished network of women who serve in public office across Maryland.
-I have been honored by the Daily Record as the 2013’s 20 in Their Twenties award, recognizing Marylanders under 30 working to help Maryland grow, was named as one of the Daily Record’s 2017 Leading Women, and named a Top 100 Women in 2025, based on my professional experience, community involvement and inspiring community change.
+I have been honored by the Daily Record as the 2013’s 20 in Their Twenties award , recognizing Marylanders under 30 working to help Maryland grow, was named as one of the Daily Record’s 2017 Leading Women , and named a Top 100 Women in 2025, based on my professional experience, community involvement and inspiring community change.
 In 2023, I married the love of my life, Corey Holland and in 2025 became a mom to a beautiful baby girl, Ryleigh Holland.
-By Authority: Friends of Jennifer White
-Chairman, Larissa Johnson
-Treasurer, Waqiba Strother
-Friends of Jennifer White
-P.O.
-Box 274
-Randallstown, MD 21133-9998
-Photo: Teisha J Photography
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+By Authority: Friends of Jennifer White Chairman, Larissa Johnson Treasurer, Waqiba Strother Friends of Jennifer White P.O.
+Box 274 Randallstown, MD 21133-9998 Photo: Teisha J Photography EMAIL: friendsofjenniferwhite@gmail.com Donate Powered by

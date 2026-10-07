@@ -1,5 +1,5 @@
-About Amanda
-Amanda Staehely is a born-and-raised Oregonian and lifelong member of the state’s agricultural community.
+Skip to content HOME ABOUT ISSUES IN THE NEWS ENDORSEMENTS CONTACT HOME ABOUT ISSUES IN THE NEWS ENDORSEMENTS CONTACT © # Amanda for Oregon.
+Paid for by Amanda for Oregon DONATE About Amanda Amanda Staehely is a born-and-raised Oregonian and lifelong member of the state’s agricultural community.
 She grew up in Canby working at her family’s nursery, Simnitt Nursery, where she learned the values of hard work and farming from her parents and grandparents.
 Amanda attended Canby High School, graduating as valedictorian of her class.
 After high school, Amanda pursued a professional career as a ballet dancer with Oregon Ballet Theatre, performing for four years.
@@ -13,3 +13,4 @@ Amanda currently serves on the Oregon Department of Agriculture’s Rules Adviso
 In 2025, she represented Oregon agriculture on a gubernatorial trade mission to South Korea and Japan.
 Outside of her work in agriculture, Amanda teaches and directs ballet for young students at a local dance studio.
 Amanda and Wayne live near Molalla with their three children: Luke, Emma, and Grant.
+PO Box 127 Molalla OR, 97038 PAID FOR BY AMANDA FOR OR © # Amanda for OR.

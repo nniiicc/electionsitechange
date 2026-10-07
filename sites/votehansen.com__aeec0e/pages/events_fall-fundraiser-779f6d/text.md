@@ -1,6 +1,2 @@
-Back to All Events
-Coffee and fall refreshments invited.
-Please donate $25 or more at https://secure.actblue.com/donate/voterickhansen
-Previous
-Previous
-October 23
+0 Skip to Content Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Back to All Events Fall Fundraiser Thursday, September 24, 2026 8:30 AM 10:00 AM Amore Coffee 879 Smith Avenue South West Saint Paul, Minnesota, 55118 United States (map) Google Calendar ICS Coffee and fall refreshments invited.
+Please donate $25 or more at https://secure.actblue.com/donate/voterickhansen Previous Previous October 23 Rep Rick Hansen Doorknock Prepared and paid for by People for Hansen PO Box 231 South St Paul, MN 55075

@@ -1,5 +1,5 @@
-by Admin01 | Apr 18, 2024 | Events, News
-75th Assembly Republican CandidateDuke Tucker There is only one team to be on if you support: Strong Family & Community Values Wise Use of Hard-Earned Tax Dollars Limited & Accountable Government Educating to Employ – Trades Support Local Land Use Policy...
-by Admin01 | Mar 18, 2024 | News
-Duke Tucker formally launches campaign for Wisconsin’s 75th State Assembly District.
+campaign@DukeforWisconsin.com Facebook Facebook Home Biography District 75 Endorsements News The Issues Donate Contact Select Page Campaign Kick-Off Rally by Admin01 | Apr 18, 2024 | Events , News 75th Assembly Republican CandidateDuke Tucker There is only one team to be on if you support: Strong Family & Community Values Wise Use of Hard-Earned Tax Dollars Limited & Accountable Government Educating to Employ – Trades Support Local Land Use Policy...
+Duke Tucker formally launches campaign for Wisconsin’s 75th State Assembly District by Admin01 | Mar 18, 2024 | News Duke Tucker formally launches campaign for Wisconsin’s 75th State Assembly District.
 Duke Tucker | Press ReleaseMonday, March 18, 2024 | 12:00 PM CDT Grantsburg, Wis. – Today, Duke Tucker, a Republican from Grantsburg, WI formally launched his campaign for State...
+Next Entries » Search Search Recent Posts Duke Tucker Elected to Represent Wisconsin’s 75th Assembly District Wisconsin Farm Bureau Endorses Duke Tucker Fundraiser + Meet and Greet for Duke Tucker Duke Tucker Wins Primary Election for Wisconsin’s 75th Assembly District Duke Tucker Launches His First Campaign Commercial Recent Comments No comments to show.
+Facebook Copyright © #-# KAM Paid for by Duke for Wisconsin

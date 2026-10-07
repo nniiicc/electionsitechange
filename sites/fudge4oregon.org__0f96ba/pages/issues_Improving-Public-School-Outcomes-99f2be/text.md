@@ -1,7 +1,2 @@
-Improving Public School Outcomes
-Parents and students deserve schools that deliver results.
-Andrew believes education policy should focus on student success and accountability, including:
-- Improving literacy and academic outcomes
-- Supporting teachers and classroom resources
-- Ensuring education funding produces measurable results
-Every Oregon child deserves access to a high-quality education that prepares them for the future.
+Meet Andrew Issues News Contribute Volunteer Home ❭ Issues ❭ Improving Public School Outcomes Improving Public School Outcomes Parents and students deserve schools that deliver results.
+Andrew believes education policy should focus on student success and accountability, including: Improving literacy and academic outcomes Supporting teachers and classroom resources Ensuring education funding produces measurable results Every Oregon child deserves access to a high-quality education that prepares them for the future. « Previous: Affordability for Oregon Families Next: Addressing Homelessness with Accountability » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu

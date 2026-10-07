@@ -1,36 +1,158 @@
 [
-"https://campaignhq.app/volunteer",
-"https://census.gov/mycd?st=39&cd=08",
-"https://disabledveterans.org/2016/09/27/congressman-says-veterans-moochers-pretenders",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/issue/closing-the-wealth-gap",
-"https://enochforcongress.com/issue/empowering-women",
-"https://enochforcongress.com/issue/reducing-rising-healthcare-costs",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://enochforcongress.com/wp-content/uploads/2022/06/New-OH-8th-Congressional-District.jpg",
-"https://facebook.com/1DocEnoch",
-"https://gao.gov/assets/700/696512.pdf",
-"https://house.gov/representatives/find-your-representative",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://ohiosos.gov/globalassets/publications/maps/2022-2026/congressional_2022-05-28.pdf",
-"https://pinterest.com/EnochforCongress",
-"https://propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million",
-"https://twitter.com/DrVEnoch",
-"https://usatoday.com/story/news/politics/onpolitics/2017/08/08/trumps-bedminster-trip-costs-secret-service-13-500-golf-cart-rentals/549401001"
+{
+"text": "2018 American Community Survey (ACS)",
+"href": "https://www.census.gov/mycd/?st=39&cd=08"
+},
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "More about Doc Enoch's work on women's issues can be found here >>",
+"href": "https://enochforcongress.com/issue/empowering-women/"
+},
+{
+"text": "More on Women's Issues >>",
+"href": "https://enochforcongress.com/issue/empowering-women/"
+},
+{
+"text": "More on the topic of Healthcare >>",
+"href": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/"
+},
+{
+"text": "More on the topic of Inequity >>",
+"href": "https://enochforcongress.com/issue/closing-the-wealth-gap/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "PDF of Ohio's 2022 Congressional District Map",
+"href": "https://www.ohiosos.gov/globalassets/publications/maps/2022-2026/congressional_2022-05-28.pdf"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "ProPublica",
+"href": "https://www.propublica.org/article/political-and-taxpayer-spending-at-trump-properties-16-1-million"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "USA Today estimated",
+"href": "https://www.usatoday.com/story/news/politics/onpolitics/2017/08/08/trumps-bedminster-trip-costs-secret-service-13-500-golf-cart-rentals/549401001/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "[image: New 8th Congressional District]",
+"href": "https://enochforcongress.com/wp-content/uploads/2022/06/New-OH-8th-Congressional-District.jpg"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "enter your ZIP code here on house.gov",
+"href": "https://www.house.gov/representatives/find-your-representative"
+},
+{
+"text": "in a town hall that there's an issue with vets who are \"pretenders\", \"moochers... clogging up the system\":",
+"href": "https://www.disabledveterans.org/2016/09/27/congressman-says-veterans-moochers-pretenders"
+},
+{
+"text": "reported in January 2019",
+"href": "https://www.gao.gov/assets/700/696512.pdf"
+}
 ]

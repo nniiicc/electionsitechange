@@ -1,14 +1,90 @@
 [
-"http://instagram.com/katie_for_texas",
-"https://facebook.com/KatieforTexas",
-"https://google.com/maps/d/u/0/viewer?mid=1Sb3oecdgVzkmufvvmzP8kE8S-AsQwk0&ll=32.7921655714481%2C-97.19743416601429&z=11",
-"https://katiefor94.com/",
-"https://katiefor94.com/cart",
-"https://katiefor94.com/contact",
-"https://katiefor94.com/endorsements",
-"https://katiefor94.com/hd-94-map",
-"https://katiefor94.com/issues",
-"https://katiefor94.com/join-the-campaign",
-"https://katiefor94.com/meet-katie",
-"https://secure.actblue.com/donate/tx94"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "(682) 251-0036",
+"href": "tel:6822510036"
+},
+{
+"text": "0",
+"href": "https://www.katiefor94.com/cart"
+},
+{
+"text": "CHECK YOUR ADDRESS",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1Sb3oecdgVzkmufvvmzP8kE8S-AsQwk0&ll=32.7921655714481%2C-97.19743416601429&z=11"
+},
+{
+"text": "CONTACT",
+"href": "https://www.katiefor94.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.katiefor94.com/endorsements"
+},
+{
+"text": "HD 94 MAP",
+"href": "https://www.katiefor94.com/hd-94-map"
+},
+{
+"text": "ISSUES",
+"href": "https://www.katiefor94.com/issues"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://www.katiefor94.com/join-the-campaign"
+},
+{
+"text": "MEET KATIE",
+"href": "https://www.katiefor94.com/meet-katie"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.actblue.com/donate/tx94"
+},
+{
+"text": "[image: Green sign in the shape of Texas with the text 'KATIE FOR 94' , featuring bold letters.]",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1Sb3oecdgVzkmufvvmzP8kE8S-AsQwk0&ll=32.7921655714481%2C-97.19743416601429&z=11"
+},
+{
+"text": "[image: Katie for 94]",
+"href": "https://www.katiefor94.com/"
+},
+{
+"text": "[image: Map showing the boundaries of House District 94, which includes parts of Arlington, Pantego, Dalworthing Gardens, Hurst, Euless, Bedford, and Fort Worth.]",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1Sb3oecdgVzkmufvvmzP8kE8S-AsQwk0&ll=32.7921655714481%2C-97.19743416601429&z=11"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/katie_for_texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KatieforTexas/"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@katiefor94.com"
+}
 ]

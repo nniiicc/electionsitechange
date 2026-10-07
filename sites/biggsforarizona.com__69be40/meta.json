@@ -1,7 +1,9 @@
 {
  "description": "Andy Biggs is an Arizona native fighting to make his home state the gold standard for freedom in America.",
  "final_url": "https://biggsforarizona.com/",
- "paid_for_by": null,
+ "fingerprint": "4e3f3cc9fff6de351a1574289ab2270bc0a1c2af",
+ "format": 3,
+ "paid_for_by": "authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number",
  "title": "Andy Biggs for Arizona",
  "years_mentioned": [
   "2016",

@@ -1,22 +1,90 @@
 [
-"http://elections.il.gov/",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+&dates=20260815T133000Z%2F20260815T153000Z&location=Huntley%2C+IL",
-"http://maps.google.com/?q=+Huntley%2C+IL",
-"https://bsky.app/profile/sarahmertensforil.bsky.social",
-"https://citizensforsarahmertens.com/",
-"https://citizensforsarahmertens.com/about-6-1",
-"https://citizensforsarahmertens.com/cart",
-"https://citizensforsarahmertens.com/endorsements",
-"https://citizensforsarahmertens.com/events",
-"https://citizensforsarahmertens.com/events/meet-and-greet",
-"https://citizensforsarahmertens.com/events/meet-and-greet-3wcsp?format=ical",
-"https://citizensforsarahmertens.com/events/virtual-phone-bank",
-"https://citizensforsarahmertens.com/get-involved",
-"https://citizensforsarahmertens.com/issues",
-"https://facebook.com/profile.php?id=61583609271188&sk=about",
-"https://instagram.com/Sarah.Mertens.for.IL.Senate",
-"https://platform.winnable.app/events/coffee-with-the-candidate-in-4b40y7g5",
-"https://secure.actblue.com/donate/sarah-mertens-1",
-"https://tiktok.com/@citizens.for.sarah",
-"https://twitch.tv/sarahmertens4il"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+huntley%2C+il+"
+},
+{
+"text": "0",
+"href": "https://www.citizensforsarahmertens.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.citizensforsarahmertens.com/about-6-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Donate - ActBlue",
+"href": "https://secure.actblue.com/donate/sarah-mertens-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforsarahmertens.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforsarahmertens.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+&dates=20260815T133000Z%2F20260815T153000Z&location=Huntley%2C+IL"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.citizensforsarahmertens.com/events/meet-and-greet-3wcsp?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.citizensforsarahmertens.com/issues"
+},
+{
+"text": "Next Next September 24 Virtual Phone Bank",
+"href": "https://www.citizensforsarahmertens.com/events/virtual-phone-bank"
+},
+{
+"text": "Previous Previous August 10 Meet and Greet",
+"href": "https://www.citizensforsarahmertens.com/events/meet-and-greet"
+},
+{
+"text": "[image: Citizens for Sarah Mertens]",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sarahmertensforil.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583609271188&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Sarah.Mertens.for.IL.Senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@citizens.for.sarah"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitch.tv/sarahmertens4il"
+},
+{
+"text": "https://platform.winnable.app/events/coffee-with-the-candidate-in-4b40y7g5",
+"href": "https://platform.winnable.app/events/coffee-with-the-candidate-in-4b40y7g5"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

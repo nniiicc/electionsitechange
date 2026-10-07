@@ -1,13 +1,54 @@
 [
-"https://facebook.com/Joy-Goeben-for-State-Assembly-District-5-101882115781521",
-"https://joygoeben.com/",
-"https://joygoeben.com/contact.html",
-"https://joygoeben.com/district.html",
-"https://joygoeben.com/donate.html",
-"https://joygoeben.com/gallery.html",
-"https://joygoeben.com/key-issues.html",
-"https://joygoeben.com/volunteer.html",
-"https://legis.wisconsin.gov/ltsb/gisdocs/AssemblyMaps/ASM_05_Poster_Map.pdf",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote"
+{
+"text": "About",
+"href": "https://www.joygoeben.com/"
+},
+{
+"text": "Click Here Find My Polling Place",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Click Here Register To Vote",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "Contact",
+"href": "https://www.joygoeben.com/contact.html"
+},
+{
+"text": "District",
+"href": "https://www.joygoeben.com/district.html"
+},
+{
+"text": "Donate",
+"href": "https://www.joygoeben.com/donate.html"
+},
+{
+"text": "GOEBEN FOR ASSEMBLY",
+"href": "https://www.joygoeben.com/"
+},
+{
+"text": "Gallery",
+"href": "https://www.joygoeben.com/gallery.html"
+},
+{
+"text": "Key Issues",
+"href": "https://www.joygoeben.com/key-issues.html"
+},
+{
+"text": "State Of Wisconsin Assembly District 5 Act 43 Map (PDF)",
+"href": "https://legis.wisconsin.gov/ltsb/gisdocs/AssemblyMaps/ASM_05_Poster_Map.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joygoeben.com/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://www.joygoeben.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Joy-Goeben-for-State-Assembly-District-5-101882115781521"
+}
 ]

@@ -1,45 +1,198 @@
 [
-"http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free",
-"http://twitter.com/share?url=http%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2015%2F04%2Fdont-buy-down-your-interest-rate-when-you-buy-a-home.html",
-"http://twitter.com/share?url=http%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2016%2F01%2Fstate-funded-buildings-are-not-free.html",
-"http://twitter.com/share?url=http%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2016%2F05%2Fstate-universities-receive-unequal-financial-support.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2020%2F02%2Fa-decade-of-growth.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2020%2F04%2Freduce-your-tax-liability-buy-real-estate.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2020%2F04%2Fworking-out-leases-and-loans.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2021%2F03%2Fcovid-economic-outlook-one-year-later.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2021%2F08%2F2021-mid-year-real-estate-update.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2022%2F02%2F2022-real-estate-forecast.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2023%2F02%2Fhousing-and-inflation.html",
-"https://dropbox.com/s/lvpazja5wt567dp/Bank%20Financing%20at%20Closing.pdf?dl=0",
-"https://dropbox.com/s/p276mjo7vxcu56y/Mortgage%20Calculator.xlsx?dl=0",
-"https://erabrokers.com/research",
-"https://excelcres.com/market-research",
-"https://rneilwalter.com/",
-"https://rneilwalter.com/2/feed",
-"https://rneilwalter.com/about.html",
-"https://rneilwalter.com/contact.html",
-"https://rneilwalter.com/experience.html",
-"https://rneilwalter.com/posts.html",
-"https://rneilwalter.com/posts/2021-mid-year-real-estate-update",
-"https://rneilwalter.com/posts/2022-real-estate-forecast",
-"https://rneilwalter.com/posts/a-decade-of-growth",
-"https://rneilwalter.com/posts/category/_blank",
-"https://rneilwalter.com/posts/category/all",
-"https://rneilwalter.com/posts/category/economics",
-"https://rneilwalter.com/posts/category/education",
-"https://rneilwalter.com/posts/category/energy",
-"https://rneilwalter.com/posts/category/politics",
-"https://rneilwalter.com/posts/category/public-lands",
-"https://rneilwalter.com/posts/category/real-estate",
-"https://rneilwalter.com/posts/category/risk-management",
-"https://rneilwalter.com/posts/covid-economic-outlook-one-year-later",
-"https://rneilwalter.com/posts/dont-buy-down-your-interest-rate-when-you-buy-a-home",
-"https://rneilwalter.com/posts/housing-and-inflation",
-"https://rneilwalter.com/posts/reduce-your-tax-liability-buy-real-estate",
-"https://rneilwalter.com/posts/state-funded-buildings-are-not-free",
-"https://rneilwalter.com/posts/state-universities-receive-unequal-financial-support",
-"https://rneilwalter.com/posts/working-out-leases-and-loans",
-"https://rneilwalter.com/uploads/4/0/1/8/40186015/higher_ed_state_support_comparison__2016_05_01_.pdf",
-"https://rneilwalter.com/uploads/4/0/1/8/40186015/utah_state_capital_resource_allocation__2016_01_21_.pdf",
-"https://rneilwalter.com/vote.html"
+{
+"text": "2021 Mid-year real estate update",
+"href": "https://www.rneilwalter.com/posts/2021-mid-year-real-estate-update"
+},
+{
+"text": "2022 Real estate forecast",
+"href": "https://www.rneilwalter.com/posts/2022-real-estate-forecast"
+},
+{
+"text": "A Decade of growth",
+"href": "https://www.rneilwalter.com/posts/a-decade-of-growth"
+},
+{
+"text": "ABOUT",
+"href": "https://www.rneilwalter.com/about.html"
+},
+{
+"text": "All",
+"href": "https://www.rneilwalter.com/posts/category/all"
+},
+{
+"text": "Bank Financing at Closing",
+"href": "https://www.dropbox.com/s/lvpazja5wt567dp/Bank%20Financing%20at%20Closing.pdf?dl=0"
+},
+{
+"text": "Closing Cost and Buy Down Calculator.",
+"href": "https://www.dropbox.com/s/p276mjo7vxcu56y/Mortgage%20Calculator.xlsx?dl=0"
+},
+{
+"text": "Commercial and Multi-family Market Research",
+"href": "https://excelcres.com/market-research/"
+},
+{
+"text": "Contact",
+"href": "https://www.rneilwalter.com/contact.html"
+},
+{
+"text": "Covid economic outlook, one Year Later",
+"href": "https://www.rneilwalter.com/posts/covid-economic-outlook-one-year-later"
+},
+{
+"text": "Don't buy down your interest rate when you Buy a home",
+"href": "https://www.rneilwalter.com/posts/dont-buy-down-your-interest-rate-when-you-buy-a-home"
+},
+{
+"text": "Download File",
+"href": "https://www.rneilwalter.com/uploads/4/0/1/8/40186015/utah_state_capital_resource_allocation__2016_01_21_.pdf"
+},
+{
+"text": "Download the white paper by clicking here",
+"href": "https://www.rneilwalter.com/uploads/4/0/1/8/40186015/higher_ed_state_support_comparison__2016_05_01_.pdf"
+},
+{
+"text": "Economics",
+"href": "https://www.rneilwalter.com/posts/category/economics"
+},
+{
+"text": "Education",
+"href": "https://www.rneilwalter.com/posts/category/education"
+},
+{
+"text": "Energy",
+"href": "https://www.rneilwalter.com/posts/category/energy"
+},
+{
+"text": "Experience",
+"href": "https://www.rneilwalter.com/experience.html"
+},
+{
+"text": "Housing and Inflation",
+"href": "https://www.rneilwalter.com/posts/housing-and-inflation"
+},
+{
+"text": "Politics",
+"href": "https://www.rneilwalter.com/posts/category/politics"
+},
+{
+"text": "Posts",
+"href": "https://www.rneilwalter.com/posts.html"
+},
+{
+"text": "Public Lands",
+"href": "https://www.rneilwalter.com/posts/category/public-lands"
+},
+{
+"text": "Real Estate",
+"href": "https://www.rneilwalter.com/posts/category/real-estate"
+},
+{
+"text": "Reduce Your Tax Liability, Buy Real Estate",
+"href": "https://www.rneilwalter.com/posts/reduce-your-tax-liability-buy-real-estate"
+},
+{
+"text": "Residential Market Research",
+"href": "https://erabrokers.com/research/"
+},
+{
+"text": "Risk Management",
+"href": "https://www.rneilwalter.com/posts/category/risk-management"
+},
+{
+"text": "State Universities receive uneven financial support",
+"href": "https://www.rneilwalter.com/posts/state-universities-receive-unequal-financial-support"
+},
+{
+"text": "State funded buildings are not free",
+"href": "https://www.rneilwalter.com/posts/state-funded-buildings-are-not-free"
+},
+{
+"text": "UT 74",
+"href": "https://www.rneilwalter.com/"
+},
+{
+"text": "VOTE",
+"href": "https://www.rneilwalter.com/vote.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "Working Out Leases And Loans",
+"href": "https://www.rneilwalter.com/posts/working-out-leases-and-loans"
+},
+{
+"text": "[image: Picture]",
+"href": "https://erabrokers.com/research/"
+},
+{
+"text": "[image: Picture]",
+"href": "https://excelcres.com/market-research/"
+},
+{
+"text": "[image: R. Neil Walter]",
+"href": "https://www.rneilwalter.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.rneilwalter.com/uploads/4/0/1/8/40186015/utah_state_capital_resource_allocation__2016_01_21_.pdf"
+},
+{
+"text": "[image] RSS Feed",
+"href": "https://www.rneilwalter.com/2/feed"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2015%2F04%2Fdont-buy-down-your-interest-rate-when-you-buy-a-home.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2016%2F01%2Fstate-funded-buildings-are-not-free.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2016%2F05%2Fstate-universities-receive-unequal-financial-support.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2020%2F02%2Fa-decade-of-growth.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2020%2F04%2Freduce-your-tax-liability-buy-real-estate.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2020%2F04%2Fworking-out-leases-and-loans.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2021%2F03%2Fcovid-economic-outlook-one-year-later.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2021%2F08%2F2021-mid-year-real-estate-update.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2022%2F02%2F2022-real-estate-forecast.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.rneilwalter.com%2F2%2Fpost%2F2023%2F02%2Fhousing-and-inflation.html"
+},
+{
+"text": "http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free",
+"href": "http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free"
+},
+{
+"text": "https://erabrokers.com/research/",
+"href": "https://erabrokers.com/research/"
+},
+{
+"text": "https://excelcres.com/market-research/",
+"href": "https://excelcres.com/market-research/"
+}
 ]

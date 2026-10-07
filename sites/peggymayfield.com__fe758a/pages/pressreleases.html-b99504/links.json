@@ -1,24 +1,90 @@
 [
-"http://eepurl.com/pRJpr",
-"http://hotshotsindiana.com/",
-"http://ratings.conservative.org/2013-ratings-indiana",
-"http://twitter.com/?status=I%27m+supporting+Peggy+Mayfield+for+the+State+of+Indiana+House+of+Representatives%2C+2012%21+www.peggymayfield.com++%23peggymayfield",
-"http://youtube.com/watch?list=PL80E5E393C7400FB0&v=dLY-0nPp4WU&feature=player_detailpage",
-"https://facebook.com/pages/Peggy-Mayfield-for-State-Representative/239681262790336",
-"https://peggymayfield.com/bio.html",
-"https://peggymayfield.com/calendar.html",
-"https://peggymayfield.com/commercials.html",
-"https://peggymayfield.com/files/Congressman Buyer Endorses Peggy Mayfield.htm",
-"https://peggymayfield.com/files/District 60 Map 11x17.pdf",
-"https://peggymayfield.com/files/Mayfield Clerk.htm",
-"https://peggymayfield.com/files/Peggy Mayfield Outraises Opponents 4 to 1.htm",
-"https://peggymayfield.com/files/Peggy Mayfield Rated AQ by the National Rifle Association.htm",
-"https://peggymayfield.com/files/Radio-MAYFIELD-12-001R.mp3",
-"https://peggymayfield.com/index.html",
-"https://peggymayfield.com/issues.html",
-"https://peggymayfield.com/photos.html",
-"https://peggymayfield.com/pressreleases.html",
-"https://peggymayfield.com/pressreleases2.html",
-"https://secure.winred.com/the-mayfield-campaign/donate",
-"https://twitter.com/"
+{
+"text": "Calendar",
+"href": "https://www.peggymayfield.com/calendar.html"
+},
+{
+"text": "Home",
+"href": "https://www.peggymayfield.com/index.html"
+},
+{
+"text": "Listen",
+"href": "https://www.peggymayfield.com/files/Radio-MAYFIELD-12-001R.mp3"
+},
+{
+"text": "Map",
+"href": "https://www.peggymayfield.com/files/District%2060%20Map%2011x17.pdf"
+},
+{
+"text": "Meet Peggy",
+"href": "https://www.peggymayfield.com/bio.html"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.peggymayfield.com/photos.html"
+},
+{
+"text": "Photos by Hot Shots Indiana, Mooresville, IN",
+"href": "http://www.hotshotsindiana.com"
+},
+{
+"text": "Press",
+"href": "https://www.peggymayfield.com/pressreleases.html"
+},
+{
+"text": "Read More...",
+"href": "http://ratings.conservative.org/2013-ratings-indiana"
+},
+{
+"text": "Read More...",
+"href": "https://www.peggymayfield.com/files/Congressman%20Buyer%20Endorses%20Peggy%20Mayfield.htm"
+},
+{
+"text": "Read More...",
+"href": "https://www.peggymayfield.com/files/Mayfield%20Clerk.htm"
+},
+{
+"text": "Read More...",
+"href": "https://www.peggymayfield.com/files/Peggy%20Mayfield%20Outraises%20Opponents%204%20to%201.htm"
+},
+{
+"text": "Read More...",
+"href": "https://www.peggymayfield.com/files/Peggy%20Mayfield%20Rated%20AQ%20by%20the%20National%20Rifle%20Association.htm"
+},
+{
+"text": "Read more stories here...",
+"href": "https://www.peggymayfield.com/pressreleases2.html"
+},
+{
+"text": "The Issues",
+"href": "https://www.peggymayfield.com/issues.html"
+},
+{
+"text": "Videos",
+"href": "https://www.peggymayfield.com/commercials.html"
+},
+{
+"text": "Watch",
+"href": "http://www.youtube.com/watch?list=PL80E5E393C7400FB0&v=dLY-0nPp4WU&feature=player_detailpage"
+},
+{
+"text": "[image]",
+"href": "http://eepurl.com/pRJpr"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/?status=I%27m+supporting+Peggy+Mayfield+for+the+State+of+Indiana+House+of+Representatives%2C+2012%21+www.peggymayfield.com++%23peggymayfield"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/the-mayfield-campaign/donate"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/#!/MayfieldHouse60"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/pages/Peggy-Mayfield-for-State-Representative/239681262790336"
+}
 ]

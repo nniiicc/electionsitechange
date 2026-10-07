@@ -1,15 +1,66 @@
 [
-"https://facebook.com/VoteDonnaDyeSholk",
-"https://instagram.com/VoteDonnaDyeSholk",
-"https://secure.actblue.com/donate/donna-dye-sholk",
-"https://votedonnadyesholk.com/",
-"https://votedonnadyesholk.com/about",
-"https://votedonnadyesholk.com/blog",
-"https://votedonnadyesholk.com/contact",
-"https://votedonnadyesholk.com/event-list",
-"https://votedonnadyesholk.com/get-involved",
-"https://votedonnadyesholk.com/mobile-terms",
-"https://votedonnadyesholk.com/priorities",
-"https://votedonnadyesholk.com/privacy-policy",
-"https://votedonnadyesholk.com/vote"
+{
+"text": "About",
+"href": "https://www.votedonnadyesholk.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.votedonnadyesholk.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.votedonnadyesholk.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/donna-dye-sholk"
+},
+{
+"text": "Events",
+"href": "https://www.votedonnadyesholk.com/event-list"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votedonnadyesholk.com/get-involved"
+},
+{
+"text": "Mobile Terms",
+"href": "https://www.votedonnadyesholk.com/mobile-terms"
+},
+{
+"text": "New York State Assembly",
+"href": "https://www.votedonnadyesholk.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.votedonnadyesholk.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedonnadyesholk.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.votedonnadyesholk.com"
+},
+{
+"text": "Vote",
+"href": "https://www.votedonnadyesholk.com/vote"
+},
+{
+"text": "Vote Donna Dye Sholk",
+"href": "https://www.votedonnadyesholk.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteDonnaDyeSholk"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/VoteDonnaDyeSholk"
+},
+{
+"text": "[no text]",
+"href": "mailto:VoteDonnaDyeSholk@gmail.com"
+}
 ]

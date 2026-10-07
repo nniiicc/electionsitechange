@@ -1,17 +1,66 @@
 [
-"https://dillonfillion.com/index.html",
-"https://dillonfillion.com/pages/about.html",
-"https://dillonfillion.com/pages/contact.html",
-"https://dillonfillion.com/pages/donation-policy.html",
-"https://dillonfillion.com/pages/endorsements.html",
-"https://dillonfillion.com/pages/events.html",
-"https://dillonfillion.com/pages/issues.html",
-"https://dillonfillion.com/pages/media.html",
-"https://dillonfillion.com/pages/press-releases.html",
-"https://dillonfillion.com/pages/privacy.html",
-"https://dillonfillion.com/pages/register-to-vote.html",
-"https://dillonfillion.com/pages/volunteer.html",
-"https://ethics.iowa.gov/",
-"https://secure.winred.com/fillion-for-iowa/donate-today1?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true",
-"https://secure.winred.com/fillion-for-iowa/storefront"
+{
+"text": "About",
+"href": "https://dillonfillion.com/pages/about.html"
+},
+{
+"text": "Contact Us",
+"href": "https://dillonfillion.com/pages/contact.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/fillion-for-iowa/donate-today1?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Donation Policy",
+"href": "https://dillonfillion.com/pages/donation-policy.html"
+},
+{
+"text": "Endorsements",
+"href": "https://dillonfillion.com/pages/endorsements.html"
+},
+{
+"text": "Events",
+"href": "https://dillonfillion.com/pages/events.html"
+},
+{
+"text": "Issues",
+"href": "https://dillonfillion.com/pages/issues.html"
+},
+{
+"text": "Media",
+"href": "https://dillonfillion.com/pages/media.html"
+},
+{
+"text": "Press Releases",
+"href": "https://dillonfillion.com/pages/press-releases.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dillonfillion.com/pages/privacy.html"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/fillion-for-iowa/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://dillonfillion.com/pages/volunteer.html"
+},
+{
+"text": "Vote",
+"href": "https://dillonfillion.com/pages/register-to-vote.html"
+},
+{
+"text": "[image: Dillon Fillion for Iowa House]",
+"href": "https://dillonfillion.com/index.html"
+},
+{
+"text": "contact@dillonfillion.com",
+"href": "mailto:contact@dillonfillion.com"
+},
+{
+"text": "ethics.iowa.gov",
+"href": "https://ethics.iowa.gov"
+}
 ]

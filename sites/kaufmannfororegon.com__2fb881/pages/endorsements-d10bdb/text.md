@@ -1,3 +1,5 @@
-"Roy Kaufmann is passionate, intelligent, and has extensive experience in getting things done in the Oregon State Government.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Endorsements Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Endorsements We are strongly supporting Roy Kaufmann for HD18 Local leaders and statewide organizations stand with Roy!
+Dr.
+John Kitzhaber Former oregon governor Brian Asher MAyor of aurora Jason Freilinger Mayor of Silverton April Newton Silverton City Council President Courtney Neron Misslin Oregon state senator (SD13) Nurses & Friends for Single Payer Oregon League of Conservation Voters Oregon School Employees Association Planned Parenthood Action Oregon Independent Party of Oregon Working Families Party " Roy Kaufmann is passionate, intelligent, and has extensive experience in getting things done in the Oregon State Government.
 He will be a voice of common sense outside the two-party political establishment.
-He will be dedicated to serve the needs of his constituents in House District 18, not a party hierarchy.”
+He will be dedicated to serve the needs of his constituents in House District 18, not a party hierarchy.” silverton mayor jason freilinger Powered by RUN! website builder You need to enable JavaScript to run this app.

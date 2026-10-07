@@ -1,3 +1,3 @@
-Build Back Better: The Impact on North Carolina
-Congress has an opportunity to make progressive changes that we have been looking forward to, that could serve as a catalyst for even more changes going forward.
-The initiative proposes large investments in learning opportunities for children, helping parents, especially working parents make ends meet…
+0 Skip to Content MEET GLADYS ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Open Menu Close Menu MEET GLADYS ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Open Menu Close Menu Folder: MEET GLADYS Back ABOUT GLADYS GALLERY GLADYS' RECORD DONATE NEWS VOLUNTEER Donate Gladys Robinson 11/2/21 Gladys Robinson 11/2/21 Build Back Better: The Impact on North Carolina Congress has an opportunity to make progressive changes that we have been looking forward to, that could serve as a catalyst for even more changes going forward.
+The initiative proposes large investments in learning opportunities for children, helping parents, especially working parents make ends meet… Read More PO Box 20627, Greensboro, NC 27420 COMMITTEE TO RE-ELECT GLADYS A.
+ROBINSON Senate28@GladysARobinson.com

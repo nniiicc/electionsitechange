@@ -1,16 +1,66 @@
 [
-"http://aboutads.info/choices",
-"http://optout.networkadvertising.org/?c=1",
-"http://youronlinechoices.eu/",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://google.com/analytics/tos.html",
-"https://google.com/privacypolicy.html",
-"https://heermannfordist7.com/",
-"https://heermannfordist7.com/about",
-"https://heermannfordist7.com/contact-me",
-"https://heermannfordist7.com/donate",
-"https://heermannfordist7.com/legislative-activity-1",
-"https://heermannfordist7.com/news-and-information",
-"https://heermannfordist7.com/privacy-policy",
-"https://usa.gov/optout_instructions.shtml"
+{
+"text": "About",
+"href": "https://heermannfordist7.com/about"
+},
+{
+"text": "Contact Me",
+"href": "https://heermannfordist7.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://heermannfordist7.com/donate"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "https://www.google.com/analytics/tos.html"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://www.google.com/privacypolicy.html"
+},
+{
+"text": "H",
+"href": "mailto:info@KristiForGovernor.com"
+},
+{
+"text": "Heermannfordistrict7@gmail.com",
+"href": "mailto:Heermannfordistrict7@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "Legislative Activity",
+"href": "https://heermannfordist7.com/legislative-activity-1"
+},
+{
+"text": "News and Information",
+"href": "https://heermannfordist7.com/news-and-information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heermannfordist7.com/privacy-policy"
+},
+{
+"text": "[image: Heermann for District 7]",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "disabling cookies",
+"href": "https://www.usa.gov/optout_instructions.shtml"
+},
+{
+"text": "eermannfordistrict7@gmail.com",
+"href": "mailto:eermannfordistrict7@gmail.com"
+},
+{
+"text": "https://heermannfordist7.com",
+"href": "https://heermannfordist7.com"
+}
 ]

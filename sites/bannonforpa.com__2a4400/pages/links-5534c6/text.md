@@ -1,5 +1,5 @@
-Other ways to get Involved
-Here are some other ways to get involved and help Make our state and country better
-We need your consent to load the translations
-We use a third-party service to translate the website content that may collect data about your activity.
+For the People For our Future For Pennsylvania Home Blog Michael Bannon for PA State Representitive Calendar Links Blog Michael Bannon for PA State Representitive Calendar Links Other ways to get Involved Here are some other ways to get involved and help Make our state and country better Email Us Delco Young Republicans Learn more Delaware county Republican Party Learn more Turning Point USA Learn more Tagline Convention of States Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Learn more PA Chase Learn more Paid for by Mike Bannon — Candidate for State Representative We need your consent to load the translations We use a third-party service to translate the website content that may collect data about your activity.
 Please review the details in the privacy policy and accept the service to view the translations.
+Decline Accept Website Translator IONOS SiteAnalytics Google Maps Privacy Settings This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle Select all services Toggle Website Translator More Less Toggle IONOS SiteAnalytics More Less Toggle Google Maps More Less Save Settings

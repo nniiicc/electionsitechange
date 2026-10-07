@@ -1,7 +1,16 @@
 {
  "description": "Latest News",
  "final_url": "https://www.dbformaine.com/news/maine-education-association-endorses-rep-bailey",
- "paid_for_by": null,
+ "fingerprint": "f4b1dba09e1653d09bfdb5994f0c495e3af8ee48",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5",
  "title": "Maine Education Association endorses Rep. Bailey - SENATOR DONNA BAILEY",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2022",
+  "2023",
+  "2024",
+  "2026"
+ ]
 }

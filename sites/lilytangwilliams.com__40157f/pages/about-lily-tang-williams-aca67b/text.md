@@ -1,9 +1,8 @@
-Fighting for Liberty.
+Skip to content Lily Tang Williams Menu Menu Home About Lily Lily for Congress 2026 Lily’s Store Contact Donate Fighting for Liberty.
 Lily is an American entrepreneur and educator who is fighting to prevent the country she loves from becoming the country she left.
 Fighting for Liberty.
 Lily is an American entrepreneur and educator who is fighting to prevent the country she loves from becoming the country she left.
-About Lily Tang Williams
-Lily Tang Williams is the Republican nominee for US House of Representatives in New Hampshire’s Second Congressional District 2.
+About Lily Tang Williams Lily Tang Williams is the Republican nominee for US House of Representatives in New Hampshire’s Second Congressional District 2.
 Lily Tang Williams is a survivor of Mao’s Communist regime in China.
 Born to poor working-class parents in China’s western Sichuan province, Lily grew up during Mao’s ten-year Cultural Revolution as a child, experiencing extremely poor living conditions, food rationing, social chaos and oppressive Communist restrictions and indoctrination.
 A few years later while studying law in university, she heard about the US Constitution and Declaration of Independence from an American student.
@@ -21,7 +20,6 @@ Her story was included in the Oral History of Communism Project funded by the St
 Recently featured in the documentary film, “The Great Awakening,” she has been speaking to students and parents and inspires people to be involved with the Liberty movement.
 Her one question video to take down gun control post child David Hogg at Dartmouth College has gone viral with millions of views in the country.
 Her final debate video clip in NH-2 has made her known in the whole country as a Republican congressional candidate, and won over a special endorsement from Robert “Bobby” Kennedy Jr.
-Lily for Congress
-I’m running for Congress because it is time for the majority to speak up and defend our country from the radical left and keep the American dream alive for our children.
-Tim Pool Interview
-I appeared on Tim Pool’s show to share my experiences.
+Lily for Congress I’m running for Congress because it is time for the majority to speak up and defend our country from the radical left and keep the American dream alive for our children.
+Lily for Congress Tim Pool Interview I appeared on Tim Pool’s show to share my experiences. © Copyright # Lily Tang Williams.
+All rights reserved.

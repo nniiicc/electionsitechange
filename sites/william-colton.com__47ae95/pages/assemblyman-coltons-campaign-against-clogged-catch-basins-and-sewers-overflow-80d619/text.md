@@ -1,5 +1,6 @@
-September 22, 2021
-Assemblyman William Colton’s (D – Gravesend, Bensonhurst, Bath Beach, and Dyker Heights) campaign against clogged catch basin and sewer overflow continue.
+Skip to content Colton For Assembly We can't just sit back and let those horrible attacks continue.
+An act of hate against anyone is against everyone.
+Menu expanded collapsed Home Meet Bill Colton Press Releases Gallery Volunteer Donate ASSEMBLYMAN COLTON’S CAMPAIGN AGAINST CLOGGED CATCH BASINS AND SEWERS OVERFLOW September 22, 20 21 Assemblyman William Colton’s (D – Gravesend, Bensonhurst, Bath Beach, and Dyker Heights) campaign against clogged catch basin and sewer overflow continue.
 We all know that the catch basin function is solely to collect rainwater from properties and streets to transport it to local waterways through a system of underground piping.
 It also helps to prevent the downstream pipes from becoming clogged and to reduce the amount of residue and waste being discharged into rivers and creeks.
 “Earlier this month a letter was sent to the DEP Commissioner demanding that federal infrastructure monies be used for sewer upgrades.
@@ -20,3 +21,6 @@ This will be an extended process but with violent storms becoming more common we
 “If you suffered any damages from Ida, then you may be able to be reimbursed from FEMA.
 You must prove your losses and the damages and file a claim.
 You can get claim applications and info from the internet at disasterassistance.gov or you can call my office for assistance,” Colton added.
+Facebook Twitter William Colton For Assembly Home Meet Bill Colton Press Releases Gallery Volunteer Donate Colton For Assembly , Create a website or blog at WordPress.com Colton For Assembly Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

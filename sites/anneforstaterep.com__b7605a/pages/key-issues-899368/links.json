@@ -1,13 +1,54 @@
 [
-"https://anneforstaterep.com/",
-"https://anneforstaterep.com/about-4",
-"https://anneforstaterep.com/contact-8",
-"https://anneforstaterep.com/copy-of-issues",
-"https://anneforstaterep.com/copy-of-news",
-"https://anneforstaterep.com/general-4",
-"https://anneforstaterep.com/key-issues",
-"https://anneforstaterep.com/privacy-policies",
-"https://anneforstaterep.com/voting-info",
-"https://anneforstaterep.com/where-they-stand",
-"https://facebook.com/Anne.forStateRep"
+{
+"text": "About Anne",
+"href": "https://www.anneforstaterep.com/about-4"
+},
+{
+"text": "Anne In the News",
+"href": "https://www.anneforstaterep.com/general-4"
+},
+{
+"text": "Anne Weisberg for State Representative",
+"href": "https://www.anneforstaterep.com"
+},
+{
+"text": "Candidate for the 108th State Assembly District: New Fairfield, Sherman, New Milford, & Danbury",
+"href": "https://www.anneforstaterep.com"
+},
+{
+"text": "Home",
+"href": "https://www.anneforstaterep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.anneforstaterep.com/key-issues"
+},
+{
+"text": "Newsletters",
+"href": "https://www.anneforstaterep.com/copy-of-news"
+},
+{
+"text": "Privacy Policies",
+"href": "https://www.anneforstaterep.com/privacy-policies"
+},
+{
+"text": "Trail Tales",
+"href": "https://www.anneforstaterep.com/copy-of-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.anneforstaterep.com/contact-8"
+},
+{
+"text": "Voting information",
+"href": "https://www.anneforstaterep.com/voting-info"
+},
+{
+"text": "Where They Stand",
+"href": "https://www.anneforstaterep.com/where-they-stand"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Anne.forStateRep"
+}
 ]

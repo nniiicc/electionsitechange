@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Helene Neville",
  "final_url": "https://www.heleneforcongress.com/",
- "paid_for_by": null,
+ "fingerprint": "5dd160046a4411f3c4ed328424287713be8e380c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Helene for Congress 2026 - North Dakota- Independent",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

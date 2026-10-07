@@ -1,21 +1,78 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61559584847605",
-"https://instagram.com/kerrytapperforstaterep",
-"https://kerrytapper.com/",
-"https://kerrytapper.com/Events?range=2026-10",
-"https://kerrytapper.com/Events?range=2026-10-05",
-"https://kerrytapper.com/Events?range=2026-11",
-"https://kerrytapper.com/Events?range=2026-9",
-"https://kerrytapper.com/Events?range=2026-W41",
-"https://kerrytapper.com/contact",
-"https://kerrytapper.com/contribute",
-"https://kerrytapper.com/events",
-"https://kerrytapper.com/home",
-"https://kerrytapper.com/meet_kerry",
-"https://kerrytapper.com/news",
-"https://kerrytapper.com/photos",
-"https://kerrytapper.com/view-endorsements",
-"https://kerrytapper.com/volunteer",
-"https://kerrytapper.com/yard-sign"
+{
+"text": "#ago",
+"href": "https://www.kerrytapper.com/Events?range=%23"
+},
+{
+"text": "Contact",
+"href": "https://www.kerrytapper.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.kerrytapper.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kerrytapper.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kerrytapper.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kerrytapper.com/home"
+},
+{
+"text": "Meet Kerry",
+"href": "https://www.kerrytapper.com/meet_kerry"
+},
+{
+"text": "News",
+"href": "https://www.kerrytapper.com/news"
+},
+{
+"text": "Next ›",
+"href": "https://www.kerrytapper.com/Events?range=2026-11"
+},
+{
+"text": "Photos",
+"href": "https://www.kerrytapper.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "This Month",
+"href": "https://www.kerrytapper.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.kerrytapper.com/Events?range=2026-W41"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kerrytapper.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.kerrytapper.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.kerrytapper.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61559584847605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kerrytapperforstaterep/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.kerrytapper.com/Events?range=2026-9"
+}
 ]

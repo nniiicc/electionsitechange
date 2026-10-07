@@ -1,22 +1,102 @@
 [
-"https://eisenhauerforcongress.com/",
-"https://eisenhauerforcongress.com/about-michael",
-"https://eisenhauerforcongress.com/booking",
-"https://eisenhauerforcongress.com/contact",
-"https://eisenhauerforcongress.com/endorsements",
-"https://eisenhauerforcongress.com/issues",
-"https://eisenhauerforcongress.com/privacy-policy",
-"https://eisenhauerforcongress.com/volunteer",
-"https://eisenhauerforcongress.com/why-independent",
-"https://facebook.com/eisenhauerforcongress",
-"https://instagram.com/eisenhauer.for.congress",
-"https://secure.anedot.com/eisenhauer-for-congress/donate",
-"https://secure.anedot.com/eisenhauer-for-congress/donate?amount=10",
-"https://secure.anedot.com/eisenhauer-for-congress/donate?amount=100",
-"https://secure.anedot.com/eisenhauer-for-congress/donate?amount=25",
-"https://secure.anedot.com/eisenhauer-for-congress/donate?amount=250",
-"https://secure.anedot.com/eisenhauer-for-congress/donate?amount=50",
-"https://tiktok.com/@eisenhauerforcongress",
-"https://wpplover.com/",
-"https://x.com/EisenhauerMT2"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate?amount=50"
+},
+{
+"text": "ABOUT MIKE",
+"href": "https://eisenhauerforcongress.com/about-michael/"
+},
+{
+"text": "About",
+"href": "https://eisenhauerforcongress.com/about-michael/"
+},
+{
+"text": "BOOKINGS",
+"href": "https://eisenhauerforcongress.com/booking/"
+},
+{
+"text": "Contact Us",
+"href": "https://eisenhauerforcongress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://eisenhauerforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/eisenhauerforcongress"
+},
+{
+"text": "HOME",
+"href": "https://eisenhauerforcongress.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://eisenhauerforcongress.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/eisenhauer.for.congress/"
+},
+{
+"text": "Issues",
+"href": "https://eisenhauerforcongress.com/issues/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/eisenhauer-for-congress/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://eisenhauerforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://eisenhauerforcongress.com/privacy-policy/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@eisenhauerforcongress"
+},
+{
+"text": "Twitter/X",
+"href": "https://x.com/EisenhauerMT2"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://eisenhauerforcongress.com/volunteer/"
+},
+{
+"text": "WHY INDEPENDENT?",
+"href": "https://eisenhauerforcongress.com/why-independent/"
+},
+{
+"text": "WP Plover",
+"href": "https://wpplover.com/"
+},
+{
+"text": "[image: Eisenhauer for Congress]",
+"href": "https://eisenhauerforcongress.com/"
+}
 ]

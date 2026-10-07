@@ -1,31 +1,13 @@
-I truly believe that communication with constituents is the key to any public service.
+JIM HAWKINS STATE REPRESENTATIVE Meet Jim Endorsements Volunteer Donate Our Community Jim in The News I truly believe that communication with constituents is the key to any public service.
 ATTLEBORO — As Jim Hawkins was being sworn into office in the Massachusetts House, the Ways and Means Committee was releasing its budget proposal for next fiscal year.
 Hawkins was surprised to see the budget did not include funding for a project important to Attleboro schools, research into alternatives to the MCAS tests students must pass to graduate.
-The new representative said he had to scramble to get background information and proper language to submit an amendment to add the funding."
-http://www.thesunchronicle.com/news/local_news/hawkins-scrambles-for-school-funding/article_6530c2e9-94e5-5ce9-b72a-c82352a54fc6.html
-After talking with the men and women that serve Attleboro’s fire department, and meeting with their representative regarding critical issues and needs they are facing, it was great to have an opportunity to work for a cause that is meaningful to them.
+The new representative said he had to scramble to get background information and proper language to submit an amendment to add the funding." http://www.thesunchronicle.com/news/local_news/hawkins-scrambles-for-school-funding/article_6530c2e9-94e5-5ce9-b72a-c82352a54fc6.html After talking with the men and women that serve Attleboro’s fire department, and meeting with their representative regarding critical issues and needs they are facing, it was great to have an opportunity to work for a cause that is meaningful to them.
 I was able to secure $50,000.00 for our Attleboro firefighters in the form of a fire safety grant.
 These funds are for use toward a fire fighter health and wellness initiative and to further fund the SAFE Grant for the City of Attleboro.
 The Attleboro fire department is in need of new physical fitness equipment for all stations, cancer screenings for our Attleboro Firefighters, and resources to help members combat the physical and psychological threats posed by the profession.
 Firefighters have a documented increased risk of developing occupational related cancers.
 Many suffer from heart disease and PTSD.
-Let’s protect those who protect us.
-http://www.thesunchronicle.com/news/local_news/hawkins-scores-first-budget-victory/article_875f6f2e-b919-579d-9bcb-18addebb1b60.html
-“We applaud Representative Hawkins for taking a step outside of his comfort zone and stepping into our Firefighting boots for the day.
-We hope this gave Representative Hawkins and the other Legislator’s a better understanding of the everyday challenges faced in our Profession and why we advocate so hard for our Members safety both locally and across the Commonwealth.” – Paul Jacques, Attleboro Firefighter and PFFM Legislative Agent
-http://www.mybackyardnews.com/blog/2018/05/08/fire-ops-for-legislators/
-Here is an article about me written by the AHS Eagles Eye.
-The newspaper is produced by Attleboro High School.
-https://ahseagleseye.wordpress.com/2014/11/15/farewell-to-james-hawkins/
-*THE SUN CHRONICLE OFFICIALLY ENDORSES JIM HAWKINS FOR STATE REPRESENTATIVE
-http://www.thesunchronicle.com/opinion/our-view-hawkins-deserves-a-chance/article_6ac84072-86e6-5d69-b471-618608d06f2a.html
-https://www.thesunchronicle.com/news/local_news/wheelchair-stroll-in-attleboro-provides-understanding-perspective/article_5502c373-b4f1-5ff4-b288-6c865547c6ab.html
-https://www.wickedlocal.com/story/regional/2022/09/22/rodent-poisons-kill-wildlife-limited-rodenticides-sgars-massachusetts-owls-eagles/8028641001/
-https://www.thesunchronicle.com/news/local_news/gubernatorial-candidate-maura-healey-makes-campaign-swing-through-attleboro/article_b8483eea-55a6-5eb4-8925-b3e464349027.html
-https://www.thesunchronicle.com/news/local_news/hawkins-pushing-mbta-to-get-going-on-south-attleboro-station-project/article_823afd27-9b09-5a80-a415-fc1017960263.html
-https://www.thesunchronicle.com/news/local_news/hawkins-seeks-help-from-public-in-push-for-repairs-to-south-attleboro-train-station/article_fde5430f-8454-567b-9328-2b80a6e4f56c.html
-https://www.thesunchronicle.com/news/local_news/homeless-shelter-to-be-constructed-in-2022-on-pleasant-street/article_7ca2824f-5d33-5664-8778-2aedeaf2dafc.html
-https://www.cbsnews.com/boston/news/rat-poison-sgars-rodenticides-new-england-wildlife-massachusetts-rep-jim-hawkins-bill/
-https://www.thesunchronicle.com/news/local_news/5m-state-grant-announced-for-attleboro-homeless-shelter/article_712b25da-0ffc-5f9e-8de6-26dc1836782c.html
-https://www.repairerdrivennews.com/2022/03/23/insurers-auto-body-labor-rates-well-below-market-rates-expert-tells-mass-commission/
-https://turnto10.com/news/local/site-finalized-for-attleboro-homeless-facility
+Let’s protect those who protect us. http://www.thesunchronicle.com/news/local_news/hawkins-scores-first-budget-victory/article_875f6f2e-b919-579d-9bcb-18addebb1b60.html “We applaud Representative Hawkins for taking a step outside of his comfort zone and stepping into our Firefighting boots for the day.
+We hope this gave Representative Hawkins and the other Legislator’s a better understanding of the everyday challenges faced in our Profession and why we advocate so hard for our Members safety both locally and across the Commonwealth.” – Paul Jacques, Attleboro Fir efighter and PFFM Legislative Agent ​http://www.mybackyardnews.com/blog/2018/05/08/fire-ops-for-legislators/ Here is an article about me written by the AHS Eagles Eye.
+The newspaper is produced by Attleboro High School. ​ https://ahseagleseye.wordpress.com/2014/11/15/farewell-to-james-hawkins/ *THE SUN CHRONICLE OFFICIALLY ENDORSES JIM HAWKINS FOR STATE REPRESENTATIVE http://www.thesunchronicle.com/opinion/our-view-hawkins-deserves-a-chance/article_6ac84072-86e6-5d69-b471-618608d06f2a.html https://www.thesunchronicle.com/news/local_news/wheelchair-stroll-in-attleboro-provides-understanding-perspective/article_5502c373-b4f1-5ff4-b288-6c865547c6ab.html https://www.wickedlocal.com/story/regional/2022/09/22/rodent-poisons-kill-wildlife-limited-rodenticides-sgars-massachusetts-owls-eagles/8028641001/ https://www.thesunchronicle.com/news/local_news/gubernatorial-candidate-maura-healey-makes-campaign-swing-through-attleboro/article_b8483eea-55a6-5eb4-8925-b3e464349027.html ​https://www.thesunchronicle.com/news/local_news/hawkins-pushing-mbta-to-get-going-on-south-attleboro-station-project/article_823afd27-9b09-5a80-a415-fc1017960263.html https://www.thesunchronicle.com/news/local_news/hawkins-seeks-help-from-public-in-push-for-repairs-to-south-attleboro-train-station/article_fde5430f-8454-567b-9328-2b80a6e4f56c.html https://www.thesunchronicle.com/news/local_news/homeless-shelter-to-be-constructed-in-2022-on-pleasant-street/article_7ca2824f-5d33-5664-8778-2aedeaf2dafc.html https://www.cbsnews.com/boston/news/rat-poison-sgars-rodenticides-new-england-wildlife-massachusetts-rep-jim-hawkins-bill/ https://www.thesunchronicle.com/news/local_news/5m-state-grant-announced-for-attleboro-homeless-shelter/article_712b25da-0ffc-5f9e-8de6-26dc1836782c.html ​https://www.repairerdrivennews.com/2022/03/23/insurers-auto-body-labor-rates-well-below-market-rates-expert-tells-mass-commission/ ​ ​https://turnto10.com/news/local/site-finalized-for-attleboro-homeless-facility Powered by Create your own unique website with customizable templates.
+Get Started Meet Jim Endorsements Volunteer Donate Our Community Jim in The News

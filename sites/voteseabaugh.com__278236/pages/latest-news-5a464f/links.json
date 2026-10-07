@@ -1,11 +1,38 @@
 [
-"https://legis.ga.gov/legislation/72294https://www.legis.ga.gov/legislation/72697",
-"https://legis.ga.gov/legislation/72682",
-"https://legis.ga.gov/members/house/5009?session=1033",
-"https://legis.ga.gov/search?s=1033&t=20&p=1",
-"https://secure.anedot.com/devan-seabaugh-for-state-house/donate",
-"https://voteseabaugh.com/",
-"https://voteseabaugh.com/constituentservices",
-"https://voteseabaugh.com/latest-news",
-"https://voteseabaugh.com/volunteer"
+{
+"text": "CONSTITUENT SERVICES",
+"href": "https://www.voteseabaugh.com/constituentservices"
+},
+{
+"text": "Click here",
+"href": "https://www.legis.ga.gov/members/house/5009?session=1033"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/devan-seabaugh-for-state-house/donate"
+},
+{
+"text": "Education Legislation",
+"href": "https://www.legis.ga.gov/search?s=1033&t=20&p=1"
+},
+{
+"text": "HB 1001",
+"href": "https://www.legis.ga.gov/legislation/72294https://www.legis.ga.gov/legislation/72697"
+},
+{
+"text": "HB 1128",
+"href": "https://www.legis.ga.gov/legislation/72682"
+},
+{
+"text": "NEWS",
+"href": "https://www.voteseabaugh.com/latest-news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteseabaugh.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.voteseabaugh.com/"
+}
 ]

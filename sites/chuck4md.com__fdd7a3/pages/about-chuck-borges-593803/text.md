@@ -1,16 +1,13 @@
-About
-Chuck Borges
-Service, integrity, and a drive to improve outcomes for everyone.
+Skip to content Voter Registration Need Help?
+Our Issues Housing Jobs in Southern MD Family Support About Chuck Meet Chuck Shop Donate Now Donate Now About Chuck Borges Service, integrity, and a drive to improve outcomes for everyone.
 Meet Chuck.
-The Borges family
-Chuck’s father is an Air Force veteran who was trained as an Air Traffic Controller.
+The Borges family Chuck’s father is an Air Force veteran who was trained as an Air Traffic Controller.
 He was also a Union man.
 When Chuck’s father was fired by Reagan during the PATCO Strike in 1981, he moved his family to rural upstate NY to find better opportunities.
 Chuck’s parents tended bar, made pizzas, and even sold vacuum cleaners to make ends meet.
 Chuck took up his parents’ work ethic as first a paperboy and then working through high school at the local Toys-R-Us.
 This upbringing gave him a unique perspective on the dignity of work and the impact that government decisions can have on families and children.
-To help pay for college, Chuck joined ROTC
-Working hard in school, Chuck earned admission to the Massachusetts Institute of Technology, majoring in astronomy.
+To help pay for college, Chuck joined ROTC Working hard in school, Chuck earned admission to the Massachusetts Institute of Technology, majoring in astronomy.
 Chuck completed ROTC with plans to be an astronaut and was commissioned into the Navy as a Naval Flight Officer on the P-3C Orion.
 Chuck was awarded an Air Medal with a Combat Distinguishing Device (“Combat V”) for individual action during Operation Iraqi Freedom following 9/11.
 Later, he graduated from US Naval Test Pilot School.
@@ -29,3 +26,7 @@ Our community is a vibrant intersection of tech savvy and agricultural industrie
 Chuck is a leader who can think outside the box.
 He’s seen what works (and what doesn’t) around the globe, and he unites a rural upbringing with experience in technology innovation and a passion for public service.
 Chuck has spent his life defending the public or finding innovative solutions to its most pressing problems – now he’s ready to help build a stronger, safer, more prosperous future for all of Southern Maryland.
+Home Voter Registration Donate Need Help?
+About Chuck Meet Chuck Shop Our Issues Housing Jobs in Southern MD Family Support Contact Us Email : info@chuck4md.com Phone : (301)841-6093 / 6094 Mailing Address : Friends of Chuck Borges PO Box 128 California, MD 20619 Privacy Policy Copyright © # Chuck for MD | Powered by Astra WordPress Theme | By Authority: Friends of Chuck Borges.
+David Hill, Treasurer.
+Scroll to Top

@@ -1,8 +1,9 @@
-Hi, I’m Cullin!
+0 Skip to Content Home Positions Donations SIGN OUR PETITION Open Menu Close Menu Home Positions Donations SIGN OUR PETITION Open Menu Close Menu Home Positions Donations SIGN OUR PETITION Hi, I’m Cullin!
 I am running to give Texans in District 86 a real choice for their future.
 After more than 20 years of Republican dominance, Texans in District 86 deserve a leader who represents everyone fairly, not just special interests, corporations, and the billionaire class.
 My priorities include fighting for our public education system, expanding Medicare and Medicaid, and standing up for rural communities that have been overlooked in Austin.
 If you are tired of “politics as usual,” I am asking for your vote, and together we can bring representative government BACK to Texans!
+Learn more Volunteer Make a Contribution!
 Who is Cullin?
 Born and raised in Amarillo, TX, Cullin has been involved with politics since he was 16.
 After graduating from Amarillo High School in 2010, Cullin moved to Austin in 2011 and studied at Texas State University.
@@ -23,7 +24,8 @@ After serving the rural areas through PRPC around the Texas Panhandle, his love 
 This work reassured his decision to resign from the PRPC to pursue his run for political office.
 Cullin is seeking to be your common-sense voice in the Texas House of Representatives.
 With both public and private sector experience, he is acutely attuned to solving the issues facing middle-and lower-income people, removing the bureaucratic red tape that stands in their way, and is dedicated to making fiscally responsible choices to better the lives of all Texans.
-Y’all Means ALL
-Contact me!
+Y’all Means ALL Contact me!
 Are you interested in being part of our campaign?
 Sign up here to receive email updates, event notifications, and volunteer opportunities!
+Made with Squarespace .
+Paid For By Cullin for Texas

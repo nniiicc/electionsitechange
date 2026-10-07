@@ -1,7 +1,5 @@
-Piping Progress & Feeding Families - for the Next 250 Years
-Rep.
-Mary Dye, July 4, 2026
-On this 250th celebration of our nation’s Independence, I am pleased to share two recent endorsements that mean so much to me.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Piping Progress & Feeding Families - for the Next 250 Years Jul 4 Written By Jim Hedemark Rep.
+Mary Dye, July 4, 2026 On this 250th celebration of our nation’s Independence, I am pleased to share two recent endorsements that mean so much to me.
 The United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry (UA Local 598 ) is a community, family based organization.
 Members and contractors are very proud of the communities we live and work in.
 Involvement is a core principal of our organization.
@@ -14,12 +12,12 @@ With our motto "We Do it Right the First Time", clients can be assured that our 
 The Washington Farm Bureau works for families, protecting the farms and ranches that provide food, fuel, and fiber.
 They endeavor to strengthen the future of our communities by strengthening the future of agriculture.
 I was so honored to be named the 2024 Washington Farm Bureau Legislator of the year.
-In an address to the Bureau, I shared, (see all here).
-“To be recognized in this industry, by my fellow sojourners, those who love and live the land, following her leading to truths revealed through perpetual surprises, the land whose fickle seasons meld and hone our characters into to forged steel.”
-As I reflect on our 250th celebration of our Independence, I am grateful for our forefathers and the forethought that established the most poignant document in human history, except for the Bible.
+In an address to the Bureau, I shared, ( see all here ).
+“To be recognized in this industry, by my fellow sojourners, those who love and live the land, following her leading to truths revealed through perpetual surprises, the land whose fickle seasons meld and hone our characters into to forged steel.” As I reflect on our 250th celebration of our Independence, I am grateful for our forefathers and the forethought that established the most poignant document in human history, except for the Bible.
 I believe that our Declaration of Independence was divinely inspired.
-“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness”
-I fully believe that the work of the men and women and the mission of the UA Local 598 and the Washington Farm Bureau should be celebrated along with so many Americans who protect our families, toil in the soil, create and inspire innovation and our next 250 years of the “Great Experiment” that is America.
+“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness” I fully believe that the work of the men and women and the mission of the UA Local 598 and the Washington Farm Bureau should be celebrated along with so many Americans who protect our families, toil in the soil, create and inspire innovation and our next 250 years of the “Great Experiment” that is America.
 America IS Great.
 And we are no longer an “experiment.” As a nation, we have proved that freedom is the ultimate God-given agency.
 Whether the single Mom working in a call center, the welder that brings us clean water and clean natural gas, the night shift nurse at a rural emergency hospital, the small business owner, the small town teacher who tutors students for free after hours, the volunteer youth baseball coach, and the multi-generational family farmers - we all work for our families and a future that continues the promise of America.
+May God Bless you and your family on this most special Day in the history of America!
+Jim Hedemark Next Next Memorial Day Weekend 2026 Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

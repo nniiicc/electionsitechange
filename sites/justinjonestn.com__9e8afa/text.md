@@ -1,13 +1,14 @@
-We Are Building a Movement for the South to Rise Anew.
-Join Us.
-The south will rise anew
-Vote Democrat Justin Jones
-Primary August 1,
-General Election November 5
-Learn more
-Justin Jones is an activist, organizer, legislator, representative, minister, community leader, environmentalist, and gun violence prevention advocate deeply committed to doing the justice work required to move Tennessee and our nation forward.
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate We Are Building a Movement for the South to Rise Anew.
+Join Us. Δ The south will rise anew Vote Democrat Justin Jones Primary August 1, General Election November 5 Learn more Justin Jones is an activist, organizer, legislator, representative, minister, community leader, environmentalist, and gun violence prevention advocate deeply committed to doing the justice work required to move Tennessee and our nation forward.
 Justin is a tireless fighter for collective liberation and is deeply embedded in a tradition of resistance that comes from his familial and movement ancestors who ground and guide his work.
 Justin was elected in 2022 to represent the people of District 52, a culmination of years of advocacy work around Medicaid expansion, racial justice, police accountability, and the Green New Deal.
 Justin was expelled from the Tennessee legislature, daring to put purpose before title, and bringing a moral conscience to the deliberative process which puts the lives of kids against the proliferation of firearms.
 Justin is a leader for the next generation and the next several to come, and brings past, present, and future into the halls of power with him.
 Justin Jones is a relentless fighter for the dignity of all Tennesseans and an unapologetic voice for a South that will RISE ANEW!
+Make a donation Donate join us Volunteer Volunteer News Highlights The New York Times National Progressive Allies Rally With Pittsburgh Congresswoman as Primary Looms April 21, 2024 Morning AgClips National Farm Action Fund: Agricultural Right to Repair Movement Spreads April 19, 2024 CNN National Tennessee lawmaker: ‘White supremacy codified in legislation’ April 4, 2024 Salon National Seeds of dissent: Agricultural manufacturers and farmers clash over “right to repair” equipment March 25, 2024 News Channel 9 local ‘Nazis felt welcomed in Nashville’: Rep.
+Justin Jones says GOP to blame February 21, 2024 Variety National Tennessee House GOP Blocks Proclamation Honoring Grammy Winner Allison Russell, While Letting Similar Measure for Paramore Pass February 12, 2024 The Hill National Formerly expelled Tennessee House lawmaker says he’s been stripped of committee assignment January 11, 2024 Essence National “Tennessee Three’ Lawmaker Justin Jones Filed A Lawsuit Over His Expulsion.
+Here’s Where Things Stand Now.
+December 15, 2023 The Hill National Justin Jones alleges Tennessee House Speaker violated Constitution with ‘disparate racial treatment’ October 3, 2023 Axios National Tennessee state Rep.
+Justin Jones sues House speaker over free speech October 3, 2023 See all news articles Major endorsements Organizations Elected Leaders Summer Lee U.S.
+Rep PA-12 Maxwell Alejandro Frost U.S.
+Rep FL-10 Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

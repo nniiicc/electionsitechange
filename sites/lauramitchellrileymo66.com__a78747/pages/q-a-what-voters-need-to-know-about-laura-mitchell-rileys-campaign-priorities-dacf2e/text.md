@@ -1,139 +1,226 @@
-Q&A: What Voters Need to Know About Laura Mitchell Riley’s Campaign Priorities
-Introduction: The Heart Behind Laura Mitchell Riley Campaign Priorities
-Shaping Views Through Experience and Faith
-Laura Mitchell Riley's political philosophy emerges from a blending of lived experience, faith, and mentorship.
+Laura Mitchell-Riley for Missouri District 66 House of Representatives Lifelong St.
+Louisan Pro-Life Pro-Marriage Between One Man and One Woman Pro-Life U.S.
+Constitution Biblical World View PROTECT and DIGNIFY our seniors LEARN ABOUT LAURA ISSUES Laura Mitchell-Riley for Missouri District 66 House of Representatives LEARN ABOUT LAURA ISSUES Lifelong St.
+Louisan Pro-Life Pro-Marriage Between One Man and One Woman Defender of the U.S.
+Constitution Biblical World View PROTECT and DIGNIFY our seniors News and Updates Q&A: What Voters Need to Know About Laura Mitchell Riley’s Campaign Priorities Mary Theresa McLean • 16 July 2026 Introduction: The Heart Behind Laura Mitchell Riley Campaign Priorities Shaping Views Through Experience and Faith Laura Mitchell Riley's political philosophy emerges from a blending of lived experience, faith, and mentorship.
 Initially unfamiliar with political systems, Riley credits her prior congressional run and connections with the local Republican Club in North County for equipping her with knowledge about governance and constituent representation.
 Her faith remains central, guiding her approach to leadership and decision-making at every step.
 She reflects candidly on her journey: “I didn’t realize how much politics impacted daily life until I got involved.
-Now, with God’s help and mentorship from local leaders like Dave Blanke and Mary Theresa McLean, I’m ready to serve with integrity. ”
-Commitment to Integrity and Transparency in the Missouri House
-Laura Mitchell Riley emphasizes, "Did I have integrity?
+Now, with God’s help and mentorship from local leaders like Dave Blanke and Mary Theresa McLean, I’m ready to serve with integrity. ” Commitment to Integrity and Transparency in the Missouri House Laura Mitchell Riley emphasizes, "Did I have integrity?
 When I say that I'm gonna do something, I'll do it.
-It's more important to please God than people.
-" This honest and faith-centered approach is the cornerstone of her campaign priorities.
+It's more important to please God than people. " This honest and faith-centered approach is the cornerstone of her campaign priorities.
 Riley pledges to be a transparent, accountable representative who stands firm on her promises, striving to place community values and divine guidance above political expediency.
-Protecting Civil Liberties and Religious Freedom in Missouri
-Concerns Over Religious Discrimination and Amendment 3
-Religious liberty stands as a fundamental concern in Laura Mitchell Riley’s campaign priorities.
+Protecting Civil Liberties and Religious Freedom in Missouri Concerns Over Religious Discrimination and Amendment 3 Religious liberty stands as a fundamental concern in Laura Mitchell Riley’s campaign priorities.
 She underscores the increasing challenges faced by Christian and Jewish communities regarding discrimination.
 "Discrimination is of the devil and has no place in our nation," Riley asserts, emphasizing the need for equality and respect among all citizens.
 Riley is outspoken against Missouri's Amendment 3, which she believes infringes on the rights of the unborn.
 She argues passionately that life begins at conception and that the unborn deserve protection rooted in both faith and law.
 This stance aligns with her broader pro-life advocacy, targeting legislative efforts that reinforce personhood and religious freedoms.
-Balancing Individual Freedom with Public Safety in the House of Representatives District 66
-On the delicate balance between individual freedoms and public safety, Riley champions Missouri’s constitutional republic framework.
+Balancing Individual Freedom with Public Safety in the House of Representatives District 66 On the delicate balance between individual freedoms and public safety, Riley champions Missouri’s constitutional republic framework.
 She highlights the right of all people to hold and express their beliefs freely, cautioning against attempts to coerce agreement on personal faith or values.
-Riley stresses the importance of mutual respect: "Everybody has a right to think what they want to think and say what they want to say, but they don't have a right to override somebody else’s belief.
-"
-She also voices concerns about cultural and religious assimilation, emphasizing that new residents should align with Missouri’s Christian values.
+Riley stresses the importance of mutual respect: "Everybody has a right to think what they want to think and say what they want to say, but they don't have a right to override somebody else’s belief. " She also voices concerns about cultural and religious assimilation, emphasizing that new residents should align with Missouri’s Christian values.
 While controversial, her perspective roots itself in preserving the community fabric she deems essential to District 66’s identity and safety.
-Education, Parents’ Rights, and School Policies in Missouri House of Representatives District 66
-Opposition to Transgender Policies and Advocacy for Parental Involvement
-Laura Mitchell Riley’s campaign priorities include a strong stance against current transgender policies in schools, criticizing practices where schools withhold information from parents about a child's gender identity decisions.
+Education, Parents’ Rights, and School Policies in Missouri House of Representatives District 66 Opposition to Transgender Policies and Advocacy for Parental Involvement Laura Mitchell Riley’s campaign priorities include a strong stance against current transgender policies in schools, criticizing practices where schools withhold information from parents about a child's gender identity decisions.
 She insists, “Parents should know everything about what their children are being taught.
-No teacher should withhold that from parents. ”
-Riley believes the school system should prioritize parental rights and uphold traditional understandings of gender.
+No teacher should withhold that from parents. ” Riley believes the school system should prioritize parental rights and uphold traditional understandings of gender.
 Her viewpoint is clear: policy changes that exclude or undermine parental consent threaten family integrity and community trust.
-Support for School Choice and Homeschooling as Alternatives
-In line with her advocacy for parental involvement, Riley supports school choice and homeschooling.
+Support for School Choice and Homeschooling as Alternatives In line with her advocacy for parental involvement, Riley supports school choice and homeschooling.
 She highlights the importance of providing families alternatives to public education systems where she perceives ideological indoctrination, such as Diversity, Equity, and Inclusion (DEI) programs.
-Riley shares, “Parents want control over what their children learn, and homeschooling or charter options empower families to align education with their values. ”
-This policy priority reflects her broader themes of faith, family, and transparency, seeking to ensure children receive foundational knowledge that prepares them for success without compromising parental authority.
-Border Security, Immigration, and Missouri’s Role
-Advocating for Legal Immigration and Opposition to Illegal Immigration in Missouri
-Reflecting a firm immigration stance, Laura Mitchell Riley campaigns for strict enforcement of immigration laws, opposing illegal immigration in Missouri.
+Riley shares, “Parents want control over what their children learn, and homeschooling or charter options empower families to align education with their values. ” This policy priority reflects her broader themes of faith, family, and transparency, seeking to ensure children receive foundational knowledge that prepares them for success without compromising parental authority.
+Border Security, Immigration, and Missouri’s Role Advocating for Legal Immigration and Opposition to Illegal Immigration in Missouri Reflecting a firm immigration stance, Laura Mitchell Riley campaigns for strict enforcement of immigration laws, opposing illegal immigration in Missouri.
 She declares, “Missouri should not take any illegal immigrants.
-There is a legal way to come into our country, and if they can’t do that, they shouldn’t come. ”
-Her priorities emphasize respecting the rule of law and protecting local resources for American citizens.
+There is a legal way to come into our country, and if they can’t do that, they shouldn’t come. ” Her priorities emphasize respecting the rule of law and protecting local resources for American citizens.
 Riley expresses concerns about the economic impact of illegal immigration and insists enforcement agencies like ICE should be empowered to remove those who enter unlawfully.
-The Role of Missouri in Supporting Federal Immigration Enforcement
-While immigration enforcement is largely federal, Riley sees Missouri’s legislature upholding strict state policies that align with federal law.
+The Role of Missouri in Supporting Federal Immigration Enforcement While immigration enforcement is largely federal, Riley sees Missouri’s legislature upholding strict state policies that align with federal law.
 She supports initiatives to prevent the state from harboring illegal immigrants and advocates for legislation reinforcing legal pathways only.
-Riley views Missouri as a guardian of both state sovereignty and the constitutional immigration framework.
-Abortion, Adoption, and Support for Women Facing Unplanned Pregnancies
-Opposition to Amendment 3 and Pro-Life Advocacy
-Central to Laura Mitchell Riley’s campaign priorities is a pro-life commitment opposing Missouri’s Amendment 3.
+Riley views Missouri as a guardian of both state sovereignty and the constitutional immigration framework. ﻿ Abortion, Adoption, and Support for Women Facing Unplanned Pregnancies Opposition to Amendment 3 and Pro-Life Advocacy Central to Laura Mitchell Riley’s campaign priorities is a pro-life commitment opposing Missouri’s Amendment 3.
 She calls for its repeal, underscoring that abortion is not a legitimate alternative when there are viable options like abstinence, birth control, and adoption.
 Riley passionately states, “Abortion should never be an alternative.
-Adoption is a better option, and there are agencies that help mothers with housing and support. ”
-Her campaign promotes faith-based alternatives and resources to assist women during and after pregnancy, emphasizing the need for compassionate support systems aligned with Christian values.
-Promoting Adoption and Resources for Mothers in Missouri House District 66
-Riley highlights existing community agencies that support unplanned pregnancy mothers with housing, counseling, and basic needs.
+Adoption is a better option, and there are agencies that help mothers with housing and support. ” Her campaign promotes faith-based alternatives and resources to assist women during and after pregnancy, emphasizing the need for compassionate support systems aligned with Christian values.
+Promoting Adoption and Resources for Mothers in Missouri House District 66 Riley highlights existing community agencies that support unplanned pregnancy mothers with housing, counseling, and basic needs.
 Based on her experience in foster care, she supports streamlining adoption processes and advocates for increased state attention to foster care improvements.
 For her, adoption is not just a policy issue but a moral imperative consistent with her campaign priorities focused on life and community care.
-Public Safety, Seniors’ Welfare, and Community Development in District 66
-Addressing Security for Seniors and Improving Senior Housing
-Seniors’ welfare is the most specific and urgent issue in Laura Mitchell Riley’s campaign priorities.
+Public Safety, Seniors’ Welfare, and Community Development in District 66 Addressing Security for Seniors and Improving Senior Housing Seniors’ welfare is the most specific and urgent issue in Laura Mitchell Riley’s campaign priorities.
 Drawing from personal experience living in senior housing, she points out significant gaps in security and support.
 With the disappearance of a social worker position from her building, Riley observes, “Seniors are not treated as well as illegal immigrants or veterans.
-They deserve better housing and support in our district — the same kind of priority I believe our veterans deserve."
-She calls for enhanced security policies in senior living facilities to protect vulnerable residents from exploitation and abusive situations.
+They deserve better housing and support in our district — the same kind of priority I believe our veterans deserve." She calls for enhanced security policies in senior living facilities to protect vulnerable residents from exploitation and abusive situations.
 This policy priority resonates emotionally with North County families concerned about the dignity and safety of their elderly loved ones.
-Enhancing Recreational Opportunities and Social Services for Seniors
-Highlighting the lack of recreational and social infrastructure for seniors in District 66, Riley laments the closure of community landmarks like Jamestown Mall.
+Enhancing Recreational Opportunities and Social Services for Seniors Highlighting the lack of recreational and social infrastructure for seniors in District 66, Riley laments the closure of community landmarks like Jamestown Mall.
 She proposes introducing more community centers, social activities, and adult daycare programs designed specifically for elderly residents.
 As Riley states, “There’s nothing here for seniors to do.
-Having social workers and recreational spaces is essential for their quality of life. ”
-This localized focus contrasts with her broader ideological positions, underscoring her genuine concern for tangible neighborhood issues that affect real lives of seniors.
-Honoring and Supporting Missouri's Veteran
-Few issues stir Laura Mitchell Riley's convictions more than the treatment of America's veterans.
+Having social workers and recreational spaces is essential for their quality of life. ” This localized focus contrasts with her broader ideological positions, underscoring her genuine concern for tangible neighborhood issues that affect real lives of seniors.
+Honoring and Supporting Missouri's Veteran Few issues stir Laura Mitchell Riley's convictions more than the treatment of America's veterans.
 She believes veterans have already paid the greatest price a citizen can pay in service to this country, and that the resources and dignity owed to them are too often diverted elsewhere.
 Riley states plainly, "Our veterans have paid it forward.
 They deserve to have everything that they need — housing, healthcare, support.
-They shouldn't have to worry about anything."
-Riley is direct about where she sees the imbalance: she believes veterans are too often treated as a lower priority than resources extended to those in the country illegally.
+They shouldn't have to worry about anything." Riley is direct about where she sees the imbalance: she believes veterans are too often treated as a lower priority than resources extended to those in the country illegally.
 In her view, benefits and services should go first to those who served and sacrificed for the nation.
 "Some of our veterans died for this country.
 Others have been hurt — they have body parts missing.
 That sacrifice should come first," she says.
 As a state representative, Riley intends to push for policies at the state level that ensure veterans in Missouri have reliable access to housing, healthcare, and support services — and that public resources prioritize those who served before they go anywhere else.
 She frames this as both a moral debt and a matter of basic justice: those who put their lives and bodies on the line for the country should never have to wonder whether they'll be taken care of.
-Leadership Style, Political Collaboration, and Voter Expectations
-Leading by Example and Upholding Christian Values
-Laura Mitchell Riley embodies a leadership style grounded in Christian principles, emphasizing integrity, honesty, and leading by example.
+Leadership Style, Political Collaboration, and Voter Expectations Leading by Example and Upholding Christian Values Laura Mitchell Riley embodies a leadership style grounded in Christian principles, emphasizing integrity, honesty, and leading by example.
 She believes true leadership is demonstrated through consistent actions, not just words.
 She says, “You have to follow before you can lead.
-I strive to live by the Word of God to earn trust and inspire others. ”
-Working with Legislators While Maintaining Integrity
-On political collaboration, Riley acknowledges the necessity of working with fellow legislators but draws a firm line at compromising her faith.
+I strive to live by the Word of God to earn trust and inspire others. ” Working with Legislators While Maintaining Integrity On political collaboration, Riley acknowledges the necessity of working with fellow legislators but draws a firm line at compromising her faith.
 “I don't compromise the word of God.
 I listen to those who have my back and offer constructive criticism,” she shares.
 Her approach is one of principled engagement—open to dialogue but unwavering on core values.
-Frequently Asked Questions About Laura Mitchell Riley Campaign Priorities
-- What motivates Laura Mitchell Riley’s campaign for the Missouri House of Representatives?
+Frequently Asked Questions About Laura Mitchell Riley Campaign Priorities What motivates Laura Mitchell Riley’s campaign for the Missouri House of Representatives?
 Her motivation is rooted in faith, a personal calling from God, and a desire to serve her community by addressing pressing local issues.
-- How does Laura Mitchell Riley view religious liberty and civil rights?
+How does Laura Mitchell Riley view religious liberty and civil rights?
 She advocates protecting Christian and Jewish religious freedoms and opposes discrimination, emphasizing equality under God.
-- What are her positions on education and parental rights?
+What are her positions on education and parental rights?
 Riley opposes transgender policies that exclude parents, supports school choice, and champions homeschooling as valid alternatives.
-- How does she propose to handle immigration and border security?
+How does she propose to handle immigration and border security?
 She supports legal immigration only, opposes illegal immigration, and endorses Missouri’s cooperation with federal immigration enforcement.
-- What steps does she support regarding abortion and adoption?
+What steps does she support regarding abortion and adoption?
 Riley opposes Amendment 3, advocates pro-life policies, and promotes adoption and support services for mothers.
-- How will she address public safety and seniors’ needs in District 66?
+How will she address public safety and seniors’ needs in District 66?
 She calls for improved security in senior housing, enhanced recreational opportunities, and social services tailored for seniors.
-- What leadership qualities does she bring to the Missouri House?
+What leadership qualities does she bring to the Missouri House?
 Riley brings integrity, faith-based leadership, transparency, and a commitment to stand firm on Christian values.
-- What is her stance on veterans?
+What is her stance on veterans?
 Riley believes veterans have earned priority access to housing, healthcare, and support because of their sacrifice, and that current resource allocation too often shortchanges them relative to other groups.
-She intends to push for policies that put veterans first.
-Summary Table: Key Laura Mitchell Riley Campaign Priorities
-| Priority Area | Position | Proposed Actions |
-|---|---|---|
-| Religious Liberty | Protect Christian and Jewish freedoms | Oppose Amendment 3; promote equality |
-| Education | Parental involvement and school choice | Remove DEI; support homeschooling |
-| Immigration | Legal immigration only | Support ICE enforcement; oppose illegal immigration |
-| Abortion | Pro-life | Repeal Amendment 3; promote adoption services |
-| Public Safety | Protect seniors and community | Enhance security in senior housing; improve recreational facilities |
-| Leadership | Integrity and faith-based | Lead by example; collaborate with like-minded legislators |
-| Veterans | Veterans deserve first priority | Push for housing, healthcare and support access for veterans statewide |
-Conclusion: Why Laura Mitchell Riley’s Campaign Priorities Matter to Voters
-A Commitment to Faith, Family, and Community in the Missouri House of Representatives District 66
-Laura Mitchell Riley concludes, "If I please God and push through what He wants, then I consider my term a success.
-" Her candidacy is a sincere and earnest effort to bring faith-driven leadership and local focus to a district that needs advocacy for often overlooked populations, notably veterans, seniors, families, and parents.
+She intends to push for policies that put veterans first. ﻿ Summary Table: Key Laura Mitchell Riley Campaign Priorities Priority Area Position Proposed Actions Religious Liberty Protect Christian and Jewish freedoms Oppose Amendment 3; promote equality Education Parental involvement and school choice Remove DEI; support homeschooling Immigration Legal immigration only Support ICE enforcement; oppose illegal immigration Abortion Pro-life Repeal Amendment 3; promote adoption services Public Safety Protect seniors and community Enhance security in senior housing; improve recreational facilities Leadership Integrity and faith-based Lead by example; collaborate with like-minded legislators Veterans Veterans deserve first priority Push for housing, healthcare and support access for veterans statewide Conclusion: Why Laura Mitchell Riley’s Campaign Priorities Matter to Voters A Commitment to Faith, Family, and Community in the Missouri House of Representatives District 66 Laura Mitchell Riley concludes, "If I please God and push through what He wants, then I consider my term a success. " Her candidacy is a sincere and earnest effort to bring faith-driven leadership and local focus to a district that needs advocacy for often overlooked populations, notably veterans, seniors, families, and parents.
 Riley’s campaign priorities reflect a blend of passionate conviction and grassroots concern, making her an authentic voice for District 66 voters.
-Get Involved and Learn More About Laura Mitchell Riley’s Vision
-- Contact Laura Mitchell Riley at laurariley62@gmail.com for campaign information
-- Learn more about Laura Mitchell Riley by visiting www.LauraMitchellRileyMO66.com
-- Attend local events to hear her speak on Missouri House priorities
-- Engage with community groups supporting her platform
+Get Involved and Learn More About Laura Mitchell Riley’s Vision Contact Laura Mitchell Riley at laurariley62@gmail.com for campaign information Learn more about Laura Mitchell Riley by visiting www.LauraMitchellRileyMO66.com Attend local events to hear her speak on Missouri House priorities Engage with community groups supporting her platform Sources https://ballotpedia.org/Laura_Mitchell-Riley https://www.ballotready.org/people/laura-mitchell-riley-3bdd6d72-df3b-4a36-8a98-b92ee20f1488 https://www.multistate.us/elections/district https://ballotpedia.org/Missouri_House_of_Representatives_District_66 https://www.multistate.us/elections/candidate https://www.ballotready.org/people/laura-mitchell-riley https://house.mo.gov/memberdetails.aspx < Older Post Newer Post > Parents' Rights in Education: Laura Mitchell Riley's Call for Accountability and Parental Oversight by Mary Theresa McLean • 28 July 2026 Did you know that over 70% of parents believe they have limited influence on their children's education?
+Understanding parents rights in education is crucial to empowering families and shaping better learning environments for students everywhere.
+In this article, we explore the compelling viewpoints of Laura Mitchell Riley, a committed advocate for parental involvement and guardian of family values in education.
+Her insights shed light on the challenges parents face and the actionable steps needed to protect their fundamental rights amid growing controversies in school curricula and policies.
+The Importance of Parents Rights in Education Current Challenges Facing Parents in Education Parents today are increasingly confronting significant obstacles that undermine their ability to actively guide their children's educational journey.
+Among the most pressing challenges is the widespread lack of transparency from schools about what exactly is being taught in classrooms.
+Parents frequently find themselves excluded from crucial decisions affecting their children's education and healthcare, particularly when controversial or sensitive topics are introduced without any parental consent.
+These challenges not only limit parents’ capacity to safeguard their family values but also create mistrust between families and educational institutions.
+The encroachment on parents' authority in their children’s educational experiences runs contrary to foundational civil liberties and calls for urgent attention.
+Limited transparency from schools about curriculum content Exclusion of parents from critical decisions regarding their children’s education and healthcare Introduction of controversial topics at young ages without parental consent Why Parents Rights in Education Matter Laura Mitchell Riley, candidate for Missouri House District 66, emphasizes, "The person should be involved in every area of their child's school life, and they're not doing that.
+Parents should know everything ." This statement underscores the vital role of parental involvement as a cornerstone of responsible education and child welfare.
+Parents possess the primary legal and moral right to know and influence how their children are taught, ensuring that education aligns with their values and principles. ﻿ Upholding these rights preserves family integrity, reinforces community values, and strengthens the trust essential for positive educational outcomes.
+The system becomes fairer for every student when parents are empowered to actively engage with schools and educators.
+Are Parents Being Shut Out of Their Children's Education?
+Laura Mitchell Riley Sounds the Alarm by Mary Theresa McLean • 28 July 2026 No parent should have to guess what's happening in their child's classroom! ﻿ Riley says she's deeply troubled by how far parents have been pushed out — and she intends to bring them back in.
+The answer starts with real accountability built into policy, not just promises.
+Her plan calls for curriculum transparency — requiring schools to post textbooks, reading lists, and daily lesson plans online so parents can review exactly what's being taught.
+It also includes opt-out provisions, giving parents the right to pull their children from classes, surveys, or modules covering sensitive personal, moral, or religious topics.
+On the health and safety front, Riley wants mandatory, immediate notification to parents whenever a student's mental or physical health services change.
+And she's pushing for guaranteed record access, ensuring parents get full, prompt access to their child's academic and disciplinary records.
+Together, Riley argues, these measures put parents back where they belong — informed, involved, and in control of decisions that affect their own children.
+Understanding Parental Rights Education Missouri: An Overview Defining Parental Rights in Missouri's Educational System Parental rights in Missouri encompass the authority to make crucial decisions regarding a child’s education, healthcare, and welfare.
+These rights ensure that parents, as primary caregivers, have the power to guide and influence their children's upbringing in alignment with their values and beliefs.
+Laura Mitchell Riley underscores that these rights must be vigorously protected from government overreach or school policies that exclude parents.
+Riley’s stance is clear: parents should be fully informed about school programs and decisions affecting their children.
+“Schools should not keep parents in the dark about what is being taught or the choices children are considering.
+Full disclosure is non-negotiable to maintain trust and partnership between families and educational institutions,” she states.
+This perspective resonates with many parents concerned about autonomy and involvement in their child’s academic journey.
+The Importance of Parental Involvement in Secondary Education Secondary education presents unique challenges where parental engagement can drastically influence student outcomes.
+Riley highlights that parents must be actively involved, especially when sensitive topics or policies like transgender education or health decisions arise.
+She believes schools sometimes sideline parents, which jeopardizes family authority and student well-being.
+Active parental involvement promotes accountability and ensures that children receive guidance grounded in their family's moral and religious values.
+This engagement fosters a supportive learning environment where students are secure in both their education and personal identity.
+For a deeper look at how parental rights intersect with broader educational and cultural issues in Missouri, you may find it helpful to explore Laura Mitchell Riley’s vision for Missouri schools, which delves into the relationship between education, parental authority, and cultural values .
+This resource expands on the challenges and opportunities facing families in today’s educational landscape.
+Laura Mitchell Riley’s Perspective on Protecting Parental Rights in Missouri House Laura Mitchell Riley, candidate for Missouri House District 66, emphasizes, "The parents should be involved in every area of their child's school life, and they're not doing that.
+Parents should know everything." Concerns Over School Transparency and Parental Notification Riley voices strong concerns about schools lacking transparency, particularly regarding issues like students' gender identity and health matters.
+She opposes policies that allow schools to keep parents uninformed, warning of the potential for irreversible decisions made without parental consent.
+“The decision for a child to transition is profound; parents must be notified and involved,” she insists.
+She advocates for mandatory parental approval in all significant educational and medical decisions, emphasizing that families should never be bypassed by school authorities.
+Lack of transparency, Riley argues, erodes trust and can severely impact familial relationships and children’s welfare.
+Opposition to Policies Undermining Parental Authority, Including Transgender Education The Platform That Changed Her Mind: Why Laura Mitchell Riley Believes Every Missouri Voter Should Read the Party Platforms by Mary Theresa McLean • 24 July 2026 When Laura Mitchell Riley sat down and actually read the party platforms for herself, her perspective shifted profoundly.
+She believes Missouri voters can only make informed decisions by understanding the full landscape of political thought available to them — not just the two names that dominate the headlines, but the range of platforms represented by the Democratic, Republican, Independent, Libertarian, and Green parties.
+Discover how delving into political party platforms can empower you to vote with confidence and clarity in this crucial election.
+Faith and Politics: How Laura Mitchell Riley Integrates Christian Values into Her Missouri Campaign by Mary Theresa McLean • 17 July 2026 Can Christian faith truly guide political leadership in a way that serves both God and community?
+Laura Mitchell Riley's journey from spiritual calling to political candidate for Missouri's District 66 offers a compelling answer.
+Rooted deeply in her christian values in politics, Riley's campaign is not just about policies, but about embodying a faith-driven vision that embraces integrity, community care, and moral clarity.
+This article unpacks how her beliefs shape her political philosophy and priorities, especially as she confronts urgent local issues like the treatment of seniors in North County.
+Exploring the Role of Christian Values in Politics: An Introduction Integrating christian values in politics means allowing faith-based principles like compassion, honesty, and respect for life to guide political decisions and leadership styles.
+In contemporary America, this intersection often sparks debate around religious liberty, government roles, and moral policymaking.
+Laura Mitchell Riley’s Missouri campaign illustrates such integration in action — where faith informs policy choices rather than political expediency.
+Her platform centers on key moral concerns, including defending life from conception, promoting parental rights in education, and safeguarding religious freedoms.
+But beyond broad ideals, her campaign is distinguished by a locally grounded concern for vulnerable populations, particularly seniors neglected by current policies in her district.
+Riley’s candidacy challenges voters to see how faith can translate into tangible community impact.
+Laura Mitchell Riley’s Motivations: Faith as the Foundation of Political Engagement Laura Mitchell Riley, of her Missouri campaign, explains, "I'm motivated to run because the Lord put it on my heart to run.
+When the Lord asks you to do something, it's a privilege and an honor to do it for Him." From the very beginning, Laura’s decision to run for office is less a political calculation and more a spiritual calling.
+This divine motivation defines the essence of her approach to governance.
+She candidly shares that she felt compelled by God’s prompting to step into public service, acknowledging that this is a responsibility and privilege entrusted to her.
+This perspective frames politics not as a career, but as ministry — an extension of serving God by serving people.
+It also encourages accountability to a higher authority than voters, fostering a leadership grounded firmly in conscience and scripture.
+The Intersection of Faith, Leadership, and Governance in Missouri’s District 66 by Mary Theresa McLean • 16 July 2026 “When the Lord asks you to do something, it’s a privilege and an honor to do it for Him. ” These words resonate deeply for Laura Mitchell Riley, a Christian mother and professional counselor whose faith has been both her compass and catalyst on a surprising journey from personal calling to political candidacy in Missouri’s House District 66.
+Understanding her story offers insight into the values steering her campaign and the vision she has for her community.
+Understanding Faith-Based Leadership Missouri: Foundations and Motivations For Laura Mitchell Riley, faith is not merely a private conviction but the foundation of her public life and leadership.
+“I am a Christian, pro-life, a believer, and a mother,” she affirms.
+Her decision to run for the Missouri House of Representatives, she says, is rooted in a divine calling.
+It wasn’t a calculated political move but rather a heartfelt response to what she sees as a higher purpose.
+Her educational journey, including a degree in liberal studies from St.
+Louis University and a master's in professional counseling, has equipped her with tools to understand and serve people on a deeper level.
+Yet it’s this spiritual prompting, more than any academic credential, that she credits as the driving force behind her campaign, underscoring how her values and faith directly influence her pursuit of public office.
+Laura Riley, of District 66, explains, "When the Lord asks you to do something, it's a privilege and an honor to do it for Him.
+That calling is what motivated me to run for office." What You'll Learn The role of Christian values in shaping political philosophy Challenges and priorities in Missouri’s District 66 Balancing individual freedoms with public safety Faith-driven perspectives on education, immigration, veterans, and social policies Insights on leadership qualities grounded in biblical principles ﻿ The Role of the Bible and Ministry in Shaping Political Values Education, Parental Rights, and Cultural Values: Laura Mitchell Riley’s Vision for Missouri Schools by Mary Theresa McLean • 16 July 2026 Education, Parental Rights, and Cultural Values: Laura Mitchell Riley’s Vision for Missouri Schools Parents deserve a voice in shaping their children's education, balancing cultural values with academic growth.
+Laura Mitchell Riley’s vision for Missouri schools passionately champions parental rights education in Missouri, ensuring families play a key role in molding futures.
+Discover how this approach empowers communities and safeguards children’s educational experiences.
+The Importance of Parental Rights in Missouri Education At the heart of Missouri’s educational debates lies a fundamental truth: parents must remain central to the decisions shaping their children's learning environment.
+Parental rights education in Missouri emphasizes the involvement of parents in every aspect of their child's school experience, from curricula to policy decisions.
+Laura Mitchell Riley, candidate for Missouri House District 66, stresses this vital role, explaining, "The person should be involved in every area of their child's school life, and they're not doing that.
+Parents should know everything and make a big deal out of it. " Riley’s perspective is rooted in the belief that parents—not schools or government entities—possess the deepest understanding and concern for their children’s wellbeing.
+She argues that parental engagement fosters transparency and accountability in schools, ultimately enhancing the educational outcomes for all children.
+This approach aligns with widespread community calls for increased openness about school curricula and policies, which many parents feel are often hidden from them.
+Empowering parents through education about their rights ensures that families can actively advocate for the values and knowledge they want their children to receive.
+In Missouri, this movement is gaining momentum as candidates like Riley seek legislative solutions reinforcing parents’ authority and responsibilities in education.
+Laura Mitchell Riley, of Missouri House District 66, explains, "The parents should be involved in every area of their child's school life, and they're not doing that.
+Both parents should know everything and make a big deal out of it." Current Challenges in Missouri Schools Regarding Parental Rights Issues with Transgender Policies and Parental Notification One of the most contentious issues in Missouri’s schools centers around transgender student policies, particularly the lack of parental notification.
+Riley voices strong opposition to situations where schools reportedly withhold information from parents about their children's decisions to transition genders.
+She states firmly, "The policy about transgenderism where the parents are not even told that the children decided they wanted to transition, is unacceptable. " According to Riley, such policies not only disenfranchise parents but contribute to confusion and harm among students, who might later regret these irreversible decisions without proper guidance.
+She insists that parents must be fully informed and involved before any decisions about a child’s gender identity are taken by school officials.
+Advocating for transparency, Riley champions parental rights to receive all relevant information promptly and to play an active role in guiding their children through complex identity concerns.
+This issue resonates with many Missouri families concerned about schools implementing significant social changes without parental consent.
+Riley's stance underscores a growing demand statewide for legislation that guarantees parents’ rights to be fully notified about sensitive matters affecting their children’s welfare.
+Concerns Over Curriculum Content and DEI Programs Another emerging controversy in Missouri education involves curriculum content—especially the inclusion of Diversity, Equity, and Inclusion (DEI) programs.
+Riley critiques DEI efforts as a form of discrimination themselves, lamenting their introduction into classrooms.
+She believes such initiatives undermine traditional education by emphasizing victimhood over achievement and unity.
+Riley recalls her own schooling, noting, "Children should be taught to be victorious, not to be victims. . .
+There was no DEI when I was going to school, and school was fun. " She advocates for removing DEI content to restore a more neutral, values-oriented educational environment that promotes equal treatment rather than division based on race or identity.
+This outlook is part of Riley’s broader push for transparency regarding curriculum materials.
+She encourages parents to demand full disclosure of what schools are teaching and to take action if content conflicts with their family values.
+Her criticism of DEI aligns with a wider conversation across Missouri and the nation about ideological influences in education.
+Advocating for School Choice and Homeschooling in Missouri In response to challenges within public education, Laura Mitchell Riley strongly supports expanding school choice and homeschooling options for Missouri families.
+She emphasizes the practical benefits of these alternatives, underscoring how they enable parents to tailor education more closely to their children’s needs and family values.
+Riley remarks plainly, "I do support homeschooling and school choice.
+Our kids excel in high school and college when homeschooled. " This endorsement is backed by observations of homeschoolers achieving academic success and fostering strong moral foundations without reliance on public school curricula, which sometimes conflict with conservative or Christian values.
+Further, Riley promotes school choice as a way to counteract the perceived overreach of government in education.
+By empowering parents to select from charter schools, private schools, or homeschooling, families gain control over educational content and environment, reinforcing parental rights education in Missouri at a structural level.
+Called to Serve: How Faith Shapes Laura Mitchell Riley's Campaign for Missouri House District 66 by Mary Theresa McLean • 16 July 2026 Called to Serve: How Faith Shapes Laura Mitchell Riley's Campaign for Missouri House District 66 "Faith is taking the first step even when you don’t see the whole staircase. " This timeless truth encapsulates how many political candidates integrate their spiritual beliefs into their public service journey.
+For Laura Mitchell Riley, candidate for Missouri House District 66, faith in politics is not just a phrase but a guiding force shaping her decisions, values, and leadership style.
+In this compelling exploration, discover the ways personal belief informs political candidacy and builds trust with voters.
+The Intersection of Faith and Politics: A Personal Journey Laura Mitchell Riley, of Missouri House District 66, explains, "When the Lord asks you to do something, it's a privilege and an honor to do it for Him.
+That is what motivated me to run." Laura Mitchell Riley’s story begins not with politics but with a calling — a deep conviction rooted in her Christian faith.
+A mother and lifelong believer, she shares that her motivation to enter the political arena came directly from spiritual guidance.
+“When the Lord asks you to do something, it’s a privilege and an honor,” she says, highlighting the personal and sacred nature of her decision to seek office.
+This journey into public service was neither spontaneous nor political ambition alone.
+Instead, Riley’s path was shaped through prayerful reflection, education, and a growing awareness that her faith and values could profoundly impact her community.
+From earning degrees in liberal studies and professional counseling, to engaging in local political clubs, her involvement blossomed as she embraced the responsibilities of leadership aligned with her beliefs.
+Who Knows Your Child Best?
+Laura Mitchell Riley on Parental Rights in Education by Mary Theresa McLean • 16 July 2026 In an era where families increasingly question the role of schools in shaping their children’s values and wellbeing, the topic of parental rights in education has become a pressing concern for many communities.
+For Missouri’s District 66 candidate, Laura Mitchell Riley, these rights are not just political talking points—they are personal convictions rooted in her faith and life experiences.
+“The person should be involved in every area of their child’s school life and everything, and they’re not doing that,” Riley emphasizes, highlighting the critical need for parental involvement and transparency.
+Understanding Parental Rights in Education and Healthcare Definition and scope of parental rights in education: Parental rights in education encompass the authority and responsibility parents have to make decisions about their children's schooling, including curricula, extracurricular activities, and healthcare decisions administered through schools.
+The role of parents in decisions about their children's schooling and healthcare: Parents are the primary guardians, entrusted with guiding their children's moral, educational, and physical development.
+This includes being informed and consenting to policies and treatments their children face in educational settings.
+Legal frameworks supporting parental rights, including references to the bill of rights: The U.S.
+Constitution and various Supreme Court rulings affirm that parents hold fundamental rights to direct the upbringing and education of their children.
+State laws further reinforce these protections, aiming to balance parental authority with the functions of public education systems.
+But do these legal protections reflect the day-to-day reality for families in Missouri House District 66?
+Laura Mitchell Riley, a candidate for Missouri House District 66, emphasizes, "The person should be involved in every area of their child's school life and everything, and they're not doing that.
+Left Behind in District 66: One Candidate's Fight for the Seniors North County Forgot 3 July 2026 Left Behind in District 66: One Candidate's Fight for the Seniors North County Forgot In Missouri's District 66, a growing concern shadows the lives of many elderly residents — the feeling of being overlooked and underserved.
+Laura Mitchell Riley, a seasoned candidate with two congressional campaigns behind her, is now setting her sights on the Missouri House — driven by faith and one issue that hits close to home: senior care in Missouri District 66 is failing many, especially those who call North County home.
+Faced with scarce recreational options, insecure housing, and dwindling support services, seniors in the area struggle daily.
+This article dives deep into these challenges, the existing support structures, and the urgent policy priorities that could change lives.
+Imagine living your golden years in a neighborhood where public spaces for seniors barely exist, where the housing meant to protect you lacks adequate security, and where essential support services are limited or vanishing.
+For many seniors in Missouri District 66, this is reality — and Laura Mitchell Riley is determined to make it better.
+Understanding Senior Care in Missouri District 66: Challenges and Realities Current State of Senior Care in Missouri District 66 The state of senior care Missouri District 66 reflects a mix of neglect and missed opportunity.
+Seniors in North County experience a shortage of vital recreational facilities that encourage physical and social engagement, which are key components of healthy aging.
+The limited availability of adult daycare centers and senior community hubs leaves many isolated, exacerbating social and physical challenges.
+Moreover, the security in senior housing units is often inadequate, putting vulnerable elderly residents at risk and compromising their quality of life.
+Support services that assist seniors with daily living, healthcare attendance, and social needs are also insufficient.
+This scarcity impacts seniors' ability to live independently and comfortably.
+Laura Mitchell Riley noted from her own experience in senior housing that social worker positions, once available to assist residents with transportation and healthcare tasks, have disappeared, leaving a significant gap in care and support.
+Limited recreational facilities for seniors Inadequate security in senior housing Insufficient support services for elderly residents 1 (current) ﻿ Paid for by Laura Mitchell-Riley Share by:

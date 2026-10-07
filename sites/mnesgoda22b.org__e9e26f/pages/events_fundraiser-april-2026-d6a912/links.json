@@ -1,14 +1,54 @@
 [
-"https://blowfish.page/",
-"https://gohugo.io/",
-"https://mnesgoda22b.org/",
-"https://mnesgoda22b.org/about",
-"https://mnesgoda22b.org/contact",
-"https://mnesgoda22b.org/events",
-"https://mnesgoda22b.org/events/fundraiser-april-2026",
-"https://mnesgoda22b.org/events/town-hall-march-2026",
-"https://mnesgoda22b.org/issues",
-"https://mnesgoda22b.org/news",
-"https://mnesgoda22b.org/volunteer",
-"https://secure.actblue.com/donate/mary-nesgoda-1"
+{
+"text": "About",
+"href": "https://mnesgoda22b.org/about/"
+},
+{
+"text": "Blowfish",
+"href": "https://blowfish.page/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mary-nesgoda-1"
+},
+{
+"text": "Events",
+"href": "https://mnesgoda22b.org/events/"
+},
+{
+"text": "Hugo",
+"href": "https://gohugo.io/"
+},
+{
+"text": "Issues",
+"href": "https://mnesgoda22b.org/issues/"
+},
+{
+"text": "Mary Nesgoda for Minnesota House 22B",
+"href": "https://mnesgoda22b.org/"
+},
+{
+"text": "News",
+"href": "https://mnesgoda22b.org/news/"
+},
+{
+"text": "Purchase tickets via ActBlue",
+"href": "https://secure.actblue.com/donate/mary-nesgoda-1"
+},
+{
+"text": "Spring Fundraiser Dinner",
+"href": "https://mnesgoda22b.org/events/fundraiser-april-2026/"
+},
+{
+"text": "Volunteer",
+"href": "https://mnesgoda22b.org/volunteer/"
+},
+{
+"text": "contact us",
+"href": "https://mnesgoda22b.org/contact/"
+},
+{
+"text": "← Town Hall: Healthcare & Education",
+"href": "https://mnesgoda22b.org/events/town-hall-march-2026/"
+}
 ]

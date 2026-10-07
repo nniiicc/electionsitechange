@@ -1,5 +1,6 @@
-This column by New Hampshire House Majority Leader Jason Osborne originally appeared in the New Hampshire Union Leader on February 23, 2020.
-Read it at unionleader.com.
+Skip to content Home News About Speaker’s Campaign Donate Rep.
+Jason Osborne: NH should not tax harm reduction This column by New Hampshire House Majority Leader Jason Osborne originally appeared in the New Hampshire Union Leader on February 23, 2020.
+Read it at unionleader.com .
 IN 2007, a new device, e-cigarettes, hit the U.S. market and revolutionized how Americans think about smoking.
 E-cigarettes have emerged as an effective tobacco harm reduction product that have helped more than three million Americans quit smoking combustible cigarettes.
 In fact, after roughly 15 years of smoking, I quit overnight using a cherry and vanilla-flavored vapor product.
@@ -30,4 +31,5 @@ As lawmakers, we must protect public health.
 Yet why do we dedicate so little of our existing tobacco monies to tobacco control?
 If my colleagues truly care about public health, they will not vaporize tobacco harm reduction by placing a greater tax burden on Granite Staters who have used these remarkable products to quit smoking.
 It’s not like we are currently using tobacco control monies to help them do that.
-Originally published in the New Hampshire Union Leader.
+Originally published in the New Hampshire Union Leader .
+Paid for by Friends of Jason Osborne 65 Miner Rd Auburn NH 03032 Chairman Jason Osborne Jason@Osborne4NH.com 603 391 2138 © # Friends of Jason Osborne Privacy Policy Search for:

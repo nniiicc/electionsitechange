@@ -1,8 +1,46 @@
 [
-"http://store.bermanforcongress.com/",
-"https://bermanforcongress.com/",
-"https://bermanforcongress.com/media",
-"https://bermanforcongress.com/priorities",
-"https://bermanforcongress.com/volunteer",
-"https://secure.actblue.com/donate/berman-website"
+{
+"text": "About",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/berman-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "Media",
+"href": "https://www.bermanforcongress.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.bermanforcongress.com/priorities"
+},
+{
+"text": "Store",
+"href": "http://store.bermanforcongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bermanforcongress.com/volunteer"
+},
+{
+"text": "WI-01",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "[image: MBerman_Logo_FINAL_OL_RGB.png]",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://www.bermanforcongress.com"
+},
+{
+"text": "info@bermanforcongress.com",
+"href": "mailto:info@bermanforcongress.com"
+}
 ]

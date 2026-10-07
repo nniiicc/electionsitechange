@@ -1,4 +1,5 @@
-HEALTH CARE
-State insurance (Medicare, Medicaid, Maryland Children's Health Program), private insurance, and concierge plans demonstrate that everyone has varying access and resources available to ensure their personal and family's wellbeing.
+Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
+YARD SIGN REQUEST Contribute Home ❭ Issues ❭ HEALTH CARE HEALTH CARE State insurance (Medicare, Medicaid, Maryland Children's Health Program ), private insurance, and concierge plans demonstrate that everyone has varying access and resources available to ensure their personal and family's wellbeing.
 I believe everyone, regardless of circumstance, should be provided opportunities to accessible and appropriate health and wellbeing services.
-I pledge to advocate for increased access and maintained funding to support those vulnerable in our community.
+I pledge to advocate for increased access and maintained funding to support those vulnerable in our community. « Previous: EDUCATION Next: COMMUNITY » Home Meet Jennifer Issues Voter Information YARD SIGN REQUEST Contribute Privacy Policy Authority: Friends of Jennifer Clancy, Alanna Taylor, Treasurer Powered by CampaignPartner.com - Political Websites Home Meet Jennifer Issues News Voter Information Calendar Volunteer Newsletter Questions for Clancy?
+YARD SIGN REQUEST Contribute Close Menu

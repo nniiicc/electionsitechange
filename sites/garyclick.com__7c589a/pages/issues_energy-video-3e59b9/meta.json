@@ -1,7 +1,9 @@
 {
  "description": "Energy (Video)",
  "final_url": "https://www.garyclick.com/issues/energy-video",
- "paid_for_by": null,
+ "fingerprint": "4c9f002c0c94ab431cd2145b1d519c4ae7212a8b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Energy",
  "years_mentioned": []
 }

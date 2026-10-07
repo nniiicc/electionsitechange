@@ -1,4 +1,4 @@
-WHEN YOU MEET DICK LOWE, YOU’VE MET RURAL OKLAHOMA.
+Skip to content DONATE Facebook DONATE HOME MEET DICK LOWE TAKE ACTION DONATE HOME MEET DICK LOWE TAKE ACTION DONATE Dick Lowe WHEN YOU MEET DICK LOWE, YOU’VE MET RURAL OKLAHOMA.
 The character of our land is ag and cattle.
 It’s mom and pop stores.
 It’s FFA and 4H in our schools.
@@ -7,8 +7,7 @@ In rural Oklahoma, we go to church.
 We love our country.
 Family comes first and neighbors help neighbors.
 THIS IS THE SAME CHARACTER YOU’LL FIND IN DICK LOWE.
-Meet Dick Lowe
-A graduate of Ninnekah High School, Dick Lowe grew up kicking dirt down country roads.
+Meet Dick Lowe A graduate of Ninnekah High School, Dick Lowe grew up kicking dirt down country roads.
 He was a national proficiency winner in FFA.
 He earned a degree in Animal Science from OSU and along the way was a part of a national championship livestock judging team.
 Ever since, he’s spent a lifetime helping rural Oklahoma as a cattle rancher and ag teacher.
@@ -24,3 +23,9 @@ He’s a strong supporter of the Second Amendment.
 When he’s not working or tending to his livestock, you’ll find Dick with Judy, his wife of 39 years.
 They have three adult sons, Brendon, Colin and Denton, and are loving grandparents to three grandbabies.
 Dick likes to say that rural Oklahoma is “made up of common people with common sense who work uncommonly hard.” State government could use more of that.
+TAKE ACTION Get involved in the campaign to elect DICK LOWE.
+Volunteer your time, put a sign in your yard or show your support on social media.
+DONATE REGISTER TO VOTE Facebook-f CONTACT US PRIVACY POLICY Yes!
+I want to help elect DICK!
+CHOOSE: Request a sign Make phone calls Social media team Knock on doors Invite to speak Host an event Whatever’s needed NAME EMAIL PHONE Text messaging opt-in data, consent and related collected personal information will not be shared with or sold to any third parties, unless required by law.
+YOUR MESSAGE SUBMIT Authorized and Paid for by Friends of Dick Lowe 2020

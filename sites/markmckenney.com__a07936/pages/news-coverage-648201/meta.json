@@ -1,9 +1,12 @@
 {
  "description": "Explore news coverage and updates related to Senator Mark McKenney and the Rhode Island issues shaping local communities.",
  "final_url": "https://www.markmckenney.com/news-coverage",
- "paid_for_by": "Paid for by Friends of Mark McKenney Privacy Policy Do Not Sell My Personal Information Home About Meet Sen",
+ "fingerprint": "2f918055f9ce8be2737549c4d7e274cece216b14",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "In the News | Senator Mark McKenney for State Senate",
  "years_mentioned": [
+  "2024",
   "2025",
   "2026"
  ]

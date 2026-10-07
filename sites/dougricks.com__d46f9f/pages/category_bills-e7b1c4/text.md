@@ -1,6 +1,4 @@
-In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a
-In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a – the Idaho Wrongful Conviction Act.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute Bills In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a Bills / By naters In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a – the Idaho Wrongful Conviction Act.
 This bill passed both the House and the Senate with only one no vote.
 I am shocked and disappointed the Governor took this action based on the overwhelming support from legislators and the general public.
-Because of the …
-In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a Read More »
+Because of the … In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a Read More » Search for: Recent Posts D34 Newsletter Week 2 D34 Newsletter Week 1 Idaho’s 66th Legislative Session Doug Ricks Announcement Press Release Doug’s Announcement Speech for Representative Seat 34A Archives January 2021 December 2020 Categories Bills Campaign Legislation Newsletter Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

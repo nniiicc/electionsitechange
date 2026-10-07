@@ -1,19 +1,78 @@
 [
-"https://dmv.ny.gov/more-info/electronic-voter-registration-application",
-"https://docs.google.com/forms/d/e/1FAIpQLSf5zd24F4S28KO3e_JqOKMJzS4ekjP_lHs6wpIB9mbYANHVVw/viewform?usp=header",
-"https://elections.ny.gov/VotingAbsentee.html",
-"https://facebook.com/profile.php?id=61586843494749",
-"https://findmypollsite.vote.nyc/",
-"https://instagram.com/joycefornewyork",
-"https://joycefornewyork.com/",
-"https://joycefornewyork.com/endorsements",
-"https://joycefornewyork.com/how-to-vote-for-joyce",
-"https://joycefornewyork.com/joyce-xie",
-"https://joycefornewyork.com/privacy-policy",
-"https://joycefornewyork.com/upcoming-events",
-"https://joycefornewyork.com/what-im-fighting-for",
-"https://nycabsentee.com/absentee",
-"https://nycvotersearch.com/",
-"https://secure.actblue.com/donate/joyce-xiaoqiong-xie-3",
-"https://x.com/Joycefornewyork"
+{
+"text": "Apply for an absentee ballot (nycabsentee.com)",
+"href": "https://nycabsentee.com/absentee"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joyce-xiaoqiong-xie-3"
+},
+{
+"text": "Endorsements",
+"href": "https://joycefornewyork.com/endorsements"
+},
+{
+"text": "Find my poll site (vote.nyc)",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Find out if you are registered to vote (nycvotersearch.com)",
+"href": "https://www.nycvotersearch.com/"
+},
+{
+"text": "Find out more",
+"href": "https://joycefornewyork.com/how-to-vote-for-joyce"
+},
+{
+"text": "Home",
+"href": "https://joycefornewyork.com/"
+},
+{
+"text": "How to Vote for Joyce",
+"href": "https://joycefornewyork.com/how-to-vote-for-joyce"
+},
+{
+"text": "Joyce Xie",
+"href": "https://joycefornewyork.com/joyce-xie"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joycefornewyork.com/privacy-policy"
+},
+{
+"text": "Register to vote or update your voter registration (dmv.ny.gov)",
+"href": "https://dmv.ny.gov/more-info/electronic-voter-registration-application"
+},
+{
+"text": "Upcoming Events",
+"href": "https://joycefornewyork.com/upcoming-events"
+},
+{
+"text": "Volunteer for Joyce",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf5zd24F4S28KO3e_JqOKMJzS4ekjP_lHs6wpIB9mbYANHVVw/viewform?usp=header"
+},
+{
+"text": "What I'm Fighting For",
+"href": "https://joycefornewyork.com/what-im-fighting-for"
+},
+{
+"text": "[image: joycefornewyork.com]",
+"href": "https://joycefornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586843494749"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joycefornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Joycefornewyork"
+},
+{
+"text": "a number of reasons",
+"href": "https://www.elections.ny.gov/VotingAbsentee.html"
+}
 ]

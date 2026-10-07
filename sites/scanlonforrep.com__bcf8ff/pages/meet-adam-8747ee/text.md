@@ -1,5 +1,4 @@
-Embedded Files
-Public service has always been about one thing for me: making a difference for the community I am proud to call home and for the people of the Commonwealth.
+Search this site Embedded Files Skip to main content Skip to navigation HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety More HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety MEET ADAM About Me Public service has always been about one thing for me: making a difference for the community I am proud to call home and for the people of the Commonwealth.
 My involvement in public service began when I was 17 years old, after learning that programs in the North Attleboro Public Schools were at risk of being cut.
 I reached out to the town's Finance Committee and advocated for restoring the funding.
 The funding was ultimately restored, but the experience taught me something even more important: one person who is willing to speak up and get involved can make a difference.
@@ -16,5 +15,4 @@ North Attleboro will always be home.
 I graduated from North Attleboro High School and was a first-generation college student, earning my bachelor's degree from Framingham State University and a master's degree in Public Administration from Northeastern University.
 I am continuing my education at the Massachusetts School of Law.
 From advocating for my schools as a 17-year-old student to representing my hometown in the Legislature, I have remained guided by the same belief that first inspired me to get involved: anyone can make a difference, and everyone should try.
-Google Sites
-Report abuse
+ISSUES adam.scanlon@scanlonforstaterepma.com DONATE PRIVACY Google Sites Report abuse Google Sites Report abuse

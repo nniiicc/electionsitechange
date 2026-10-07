@@ -1,15 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61590208576269",
-"https://instagram.com/zickusfor89th",
-"https://policies.google.com/privacy",
-"https://tools.google.com/dlpage/gaoptout",
-"https://zickusfor89th.com/",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/voter-information.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Facebook (opens in a new tab)",
+"href": "https://www.facebook.com/profile.php?id=61590208576269"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Instagram (opens in a new tab)",
+"href": "https://www.instagram.com/zickusfor89th/"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "ZickusJD@gmail.com",
+"href": "mailto:ZickusJD@gmail.com"
+}
 ]

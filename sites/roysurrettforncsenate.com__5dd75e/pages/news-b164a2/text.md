@@ -1,9 +1,2 @@
-top of page
-Campaign News
-Aug 26, 2026
-Hope, Hustle and Home: Washington County candidates rally voters in Roper
-Aug 24, 2026
-Davis Rallies Roper Crowd Around Rural Health Care, Affordability and Home-Grown Values
-Jul 1, 2026
-Surrett says NC Senate District 2 deserves a strong voice in Raleigh
-bottom of page
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Campaign News Sep 23, 2026 Former U.S Congressman G.K.
+Butterfield endorses Roy Surrett for N.C State Senate District 2 Read More Aug 26, 2026 Hope, Hustle and Home: Washington County candidates rally voters in Roper Read More Aug 24, 2026 Davis Rallies Roper Crowd Around Rural Health Care, Affordability and Home-Grown Values Read More Jul 1, 2026 Surrett says NC Senate District 2 deserves a strong voice in Raleigh Read More Paid for by the Committee to Elect Roy Surrett bottom of page

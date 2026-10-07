@@ -1,7 +1,4 @@
-- 818-758-4076
-- office@legit.com
-- 3146 Koontz Lane, California
-I watched my father, Mark Ricks, serve his community and state, both as State Senator and as Lieutenant Governor which influenced my decision to step up and serve my friends and neighbors too.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute About About Doug I watched my father, Mark Ricks, serve his community and state, both as State Senator and as Lieutenant Governor which influenced my decision to step up and serve my friends and neighbors too.
 I grew up on a farm in Madison County.
 Much of who I am comes from lessons I learned on the family farm.
 My first date with my wife, Melissa, was a tractor ride while I worked in the fields.
@@ -26,4 +23,4 @@ It was a humbling experience for me, and I enjoyed serving my constituents with 
 I watched Senator Pro Temp Brent Hill give many years of his life to serving his fellow man, so when he decided it was his time to retire I was prompted to try and follow in his footsteps.
 I am grateful for the opportunity to be representing District 34 in the Idaho Senate.
 With my wide range of experience, I will continue to represent the good people of District 34 well.
-Copyright © 2022 Doug Ricks | All rights reserved | Website created by Nathan Ricks
+Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

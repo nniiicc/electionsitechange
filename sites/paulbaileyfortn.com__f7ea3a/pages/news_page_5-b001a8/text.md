@@ -1,12 +1,12 @@
-In this episode of Backroads & Backstories, host Senator Paul Bailey talks with three men who were able to help people in the wake of the Cookeville tornado.
-He sits […]
-On this episode of Backroads and Backstories, host Senator Paul Bailey, sits down with Jake Hoot, winner of season 17 of The Voice.
-The Cookeville resident shares some insight on […]
-In this episode of Backroads & Backstories, host Senator Paul Bailey discusses the coronavirus (COVID-19) with State Senator Richard Briggs from Knoxville, who is a cardiac surgeon, as well […]
-In this episode of Backroads & Backstories, host Senator Paul Bailey invites state Senator Frank Niceley of District 8, Senator Rusty Crowe of District 3, and Senator Shane Reeves of […]
-In the premiere episode of Backroads and Backstories, host Senator Paul Bailey shares his own personal story and how he became involved in politics.
-Senator Paul Bailey delivers his weekly capitol update for the week of April 18, 2019.
-Senator Paul Bailey delivers his weekly capitol update for the week of April 3, 2019.
-Senator Paul Bailey delivers his weekly capitol update for the week of March 20Ma, 2019.
-Senator Paul Bailey delivers his weekly capitol update for the week of March 11, 2019.
-Senator Paul Bailey discusses important issues on the TN Capitol Report.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Backroads & Backstories: Everyday Heroes in the Wake of Disaster Home Blog Backroads & Backstories: Everyday Heroes in the Wake of Disaster In this episode of Backroads & Backstories, host Senator Paul Bailey talks with three men who were able to help people in the wake of the Cookeville tornado.
+He sits […] Continue Reading Backroads & Backstories: From Upper Cumberland to the Voice Stage, Jake Hoot Shares His Journey to Victory On this episode of Backroads and Backstories, host Senator Paul Bailey, sits down with Jake Hoot, winner of season 17 of The Voice.
+The Cookeville resident shares some insight on […] Continue Reading Backroads & Backstories: The Effects of COVID-19 & the Government’s Response in Tennessee ﻿ In this episode of Backroads & Backstories, host Senator Paul Bailey discusses the coronavirus (COVID-19) with State Senator Richard Briggs from Knoxville, who is a cardiac surgeon, as well […] Continue Reading Backroads & Backstories: Legislative Round Table on Governor Bill Lee’s State of the State Address In this episode of Backroads & Backstories, host Senator Paul Bailey invites state Senator Frank Niceley of District 8, Senator Rusty Crowe of District 3, and Senator Shane Reeves of […] Continue Reading Backroads and Backstories with Paul Bailey: Intro In the premiere episode of Backroads and Backstories, host Senator Paul Bailey shares his own personal story and how he became involved in politics.
+Continue Reading Weekly Capitol Update – Week of April 18, 2019 Senator Paul Bailey delivers his weekly capitol update for the week of April 18, 2019.
+Continue Reading Weekly Capitol Update – Week of April 3, 2019 Senator Paul Bailey delivers his weekly capitol update for the week of April 3, 2019.
+Continue Reading Weekly Capitol Update – Week of March 20, 2019 Senator Paul Bailey delivers his weekly capitol update for the week of March 20Ma, 2019.
+Continue Reading Weekly Capitol Update – Week of March 11, 2019 Senator Paul Bailey delivers his weekly capitol update for the week of March 11, 2019.
+Continue Reading Senator Paul Bailey featured on the TN Capitol Report Senator Paul Bailey discusses important issues on the TN Capitol Report.
+Continue Reading 1 … 3 4 5 6 7 SEARCH RECENT UPDATES Capitol Hill Update 4/17/2026 Capitol Hill Update 4/10/2026 Capitol Hill Update 4/3/2026 NEWSLETTER Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT

@@ -1,64 +1,258 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSe9ENtzuOaqAWgXa5drYTqDE3LQBFkrsrQ8L4IqY_qNieZWkg/viewform",
-"https://ecs.org/50-state-comparison-k-12-school-construction-funding-2023",
-"https://facebook.com/lynnewalzfornebraska",
-"https://instagram.com/lynne_walz",
-"https://lynnewalz.com/",
-"https://lynnewalz.com/about",
-"https://lynnewalz.com/accomplishments",
-"https://lynnewalz.com/endorsements",
-"https://lynnewalz.com/events",
-"https://lynnewalz.com/lynnes-commitment-to-nebraska",
-"https://lynnewalz.com/media",
-"https://lynnewalz.com/meet-ben",
-"https://lynnewalz.com/priorities",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=31457",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=34239",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=34288",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=34431",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37343",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37531",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37761",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37765",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37883",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=40747",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=41304",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=43944",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44026",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44180",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44404",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44414",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=46840",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=46908",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=47016",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50105",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50120",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50353",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50447",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50471",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50486",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50491",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50513",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50549",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50632",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50713",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50846",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54710",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54718",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54747",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54820",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55052",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55125",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55179",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55215",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55278",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55293",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55301",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55324",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55381",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55383",
-"https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55426",
-"https://secure.actblue.com/donate/lynneandben",
-"https://secure.numero.ai/signup/Lynne-Walz-for-Nebraska",
-"https://x.com/lynnewalz"
+{
+"text": "Accomplishments",
+"href": "https://lynnewalz.com/accomplishments/"
+},
+{
+"text": "As of 2023",
+"href": "https://www.ecs.org/50-state-comparison-k-12-school-construction-funding-2023/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lynneandben"
+},
+{
+"text": "Endorse",
+"href": "https://lynnewalz.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://lynnewalz.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/lynnewalzfornebraska/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lynne_walz/"
+},
+{
+"text": "LB100",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=43944"
+},
+{
+"text": "LB1006",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54820"
+},
+{
+"text": "LB1010",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54718"
+},
+{
+"text": "LB1011",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54710"
+},
+{
+"text": "LB1012",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55179"
+},
+{
+"text": "LB1013",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55301"
+},
+{
+"text": "LB1052",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55324"
+},
+{
+"text": "LB1054",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55125"
+},
+{
+"text": "LB1056",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55052"
+},
+{
+"text": "LB1086",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54747"
+},
+{
+"text": "LB1102",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=41304"
+},
+{
+"text": "LB1212",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55381"
+},
+{
+"text": "LB1284",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55278"
+},
+{
+"text": "LB1285",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55383"
+},
+{
+"text": "LB1337",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55426"
+},
+{
+"text": "LB1338",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55215"
+},
+{
+"text": "LB1377",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55293"
+},
+{
+"text": "LB202",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50120"
+},
+{
+"text": "LB234",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50120"
+},
+{
+"text": "LB251",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37343"
+},
+{
+"text": "LB278",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50105"
+},
+{
+"text": "LB286",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50486"
+},
+{
+"text": "LB358",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50632"
+},
+{
+"text": "LB430",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50491"
+},
+{
+"text": "LB515",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50471"
+},
+{
+"text": "LB516",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50447"
+},
+{
+"text": "LB518",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50353"
+},
+{
+"text": "LB519",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50513"
+},
+{
+"text": "LB520",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50846"
+},
+{
+"text": "LB522",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50713"
+},
+{
+"text": "LB523",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=50549"
+},
+{
+"text": "LB538",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44026"
+},
+{
+"text": "LB539",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44414"
+},
+{
+"text": "LB541",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44180"
+},
+{
+"text": "LB542",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=44404"
+},
+{
+"text": "LB552",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=31457"
+},
+{
+"text": "LB571",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37765"
+},
+{
+"text": "LB572",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37761"
+},
+{
+"text": "LB728",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37883"
+},
+{
+"text": "LB729",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=37531"
+},
+{
+"text": "LB771",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=34239"
+},
+{
+"text": "LB800",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=34431"
+},
+{
+"text": "LB890",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=46840"
+},
+{
+"text": "LB895",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=46908"
+},
+{
+"text": "LB905",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=47016"
+},
+{
+"text": "LB955",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=40747"
+},
+{
+"text": "LB998",
+"href": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=34288"
+},
+{
+"text": "Lynne’s Commitment",
+"href": "https://lynnewalz.com/lynnes-commitment-to-nebraska/"
+},
+{
+"text": "Media",
+"href": "https://lynnewalz.com/media/"
+},
+{
+"text": "Media inquires: press@lynnewalz.com Contact inquires: info@lynnewalz.com",
+"href": "mailto:info@lynnewalz.com"
+},
+{
+"text": "Meet Ben",
+"href": "https://lynnewalz.com/meet-ben/"
+},
+{
+"text": "Meet Lynne",
+"href": "https://lynnewalz.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://lynnewalz.com/priorities/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe9ENtzuOaqAWgXa5drYTqDE3LQBFkrsrQ8L4IqY_qNieZWkg/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.numero.ai/signup/Lynne-Walz-for-Nebraska"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/lynnewalz"
+},
+{
+"text": "[image]",
+"href": "https://lynnewalz.com"
+}
 ]

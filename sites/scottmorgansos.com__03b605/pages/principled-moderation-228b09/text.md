@@ -1,12 +1,9 @@
-What is Principled
-Moderation?
+0 Skip to Content Principles Guiding Principles Full Framework Bio Get Involved Media Donate Donate Open Menu Close Menu Principles Guiding Principles Full Framework Bio Get Involved Media Donate Donate Open Menu Close Menu Folder: Principles Back Guiding Principles Full Framework Bio Get Involved Media Donate Donate What is Principled Moderation?
 People often hear the word moderate and think it means weak, indecisive, or unwilling to take a stand.
 Someone lost in a bland, shifting middle.
 At United Kansas, we believe moderation is not the absence of conviction, but both a governing and a values-based ideology.
 We call it Principled Moderation: moderation with a backbone.
-A Governing &
-Values-Based Ideology
-As a governing ideology, moderation offers a clear vision for how responsible government should function in a free, pluralistic society.
+A Governing & Values-Based Ideology As a governing ideology, moderation offers a clear vision for how responsible government should function in a free, pluralistic society.
 It defends democracy and the rule of law.
 It respects dissent and prioritizes results-oriented leadership, rejecting performative politics.
 It does not treat governing as a zero-sum battle.
@@ -26,8 +23,7 @@ Principled Moderation rejects both failures.
 It insists that our goals and the ways we pursue them must reflect decency, fairness, and the integrity of our democratic system.
 It argues that our democracy depends on protecting our governing values first, so we can return to the necessary debates over which values to prioritize and how those shape policy.
 And it contends that moderates must be ready to join those debates with their own clear stands on today’s issues.
-Why It Matters
-In a time when outrage is profitable and polarization dominates politics, Americans are left to choose between two increasingly rigid options.
+Why It Matters In a time when outrage is profitable and polarization dominates politics, Americans are left to choose between two increasingly rigid options.
 Many feel trapped between competing extremes, with little room for thoughtful leadership focused on practical solutions.
 Many Kansans reject both parties and consider themselves moderates.
 Yet efforts to build new political movements aimed at independents and moderates have rarely succeeded.
@@ -38,12 +34,16 @@ It affirms the value and liberty of every individual and recognizes that communi
 It trusts diverse voices, common-sense analysis, and fiscally responsible governance to produce the strongest, most lasting solutions.
 These are not platitudes.
 These are philosophical guardrails that help prevent reckless, cruel, or shortsighted policies.
-An Optimistic,
-Practical Path Forward
-Principled Moderation is not an appeal to anger or fear.
+An Optimistic, Practical Path Forward Principled Moderation is not an appeal to anger or fear.
 It is a thoughtful, optimistic, and practical approach.
 Kansans deserve a party rooted in these values.
 A party willing to make tough decisions with honesty, compassion, and common sense.
 That is what Principled Moderation offers.
 That is what moderation with a backbone looks like.
 That is what United Kansas stands for.
+Bio Principles Full Issues FAQ Get Involved Media Donate info@ScottMorganSOS.com 785.236.8885 (text or call) PO Box 4645 Lawrence KS 66046 © # Scott Morgan for Secretary of State.
+All rights reserved.
+We play fair.
+Read our Privacy Policy and Terms of Use .
+Paid for by Scott Morgan for Secretary of State, Jeffrey S.
+Wagaman, Treasurer

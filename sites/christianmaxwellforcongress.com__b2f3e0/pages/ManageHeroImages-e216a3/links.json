@@ -1,78 +1,306 @@
 [
-"https://christianmaxwellforcongress.com/",
-"https://christianmaxwellforcongress.com/About",
-"https://christianmaxwellforcongress.com/AdminDashboard",
-"https://christianmaxwellforcongress.com/AdminLeads",
-"https://christianmaxwellforcongress.com/ApproveUsers",
-"https://christianmaxwellforcongress.com/Article",
-"https://christianmaxwellforcongress.com/Articles",
-"https://christianmaxwellforcongress.com/BackToSchoolTownhall",
-"https://christianmaxwellforcongress.com/BillboardFundraiser",
-"https://christianmaxwellforcongress.com/BudBillikenParade",
-"https://christianmaxwellforcongress.com/BusBenchCampaign",
-"https://christianmaxwellforcongress.com/Contact",
-"https://christianmaxwellforcongress.com/ContributionPolicy",
-"https://christianmaxwellforcongress.com/CookCountyVote",
-"https://christianmaxwellforcongress.com/Donate",
-"https://christianmaxwellforcongress.com/ElectionNightWatchParty",
-"https://christianmaxwellforcongress.com/Endorsements",
-"https://christianmaxwellforcongress.com/EventDetails",
-"https://christianmaxwellforcongress.com/Events",
-"https://christianmaxwellforcongress.com/FAQ",
-"https://christianmaxwellforcongress.com/Freebies",
-"https://christianmaxwellforcongress.com/Gala",
-"https://christianmaxwellforcongress.com/GetInvolved",
-"https://christianmaxwellforcongress.com/ILCD1Pledge",
-"https://christianmaxwellforcongress.com/ImmigrationStance",
-"https://christianmaxwellforcongress.com/Issues",
-"https://christianmaxwellforcongress.com/LeadGen",
-"https://christianmaxwellforcongress.com/LemontRally",
-"https://christianmaxwellforcongress.com/ManageArticles",
-"https://christianmaxwellforcongress.com/ManageDonations",
-"https://christianmaxwellforcongress.com/ManageEndorsements",
-"https://christianmaxwellforcongress.com/ManageEvents",
-"https://christianmaxwellforcongress.com/ManageFAQ",
-"https://christianmaxwellforcongress.com/ManageFormSubmissions",
-"https://christianmaxwellforcongress.com/ManageFreebies",
-"https://christianmaxwellforcongress.com/ManageLeads",
-"https://christianmaxwellforcongress.com/ManageLiveBroadcasts",
-"https://christianmaxwellforcongress.com/ManageMedia",
-"https://christianmaxwellforcongress.com/ManageNews",
-"https://christianmaxwellforcongress.com/ManagePetitions",
-"https://christianmaxwellforcongress.com/ManagePressPass",
-"https://christianmaxwellforcongress.com/ManagePressReleases",
-"https://christianmaxwellforcongress.com/ManageRSVPs",
-"https://christianmaxwellforcongress.com/ManageRoleApplications",
-"https://christianmaxwellforcongress.com/ManageTikTok",
-"https://christianmaxwellforcongress.com/ManageTownHalls",
-"https://christianmaxwellforcongress.com/ManageVolunteerRoles",
-"https://christianmaxwellforcongress.com/ManageVolunteerShifts",
-"https://christianmaxwellforcongress.com/ManageVolunteerTools",
-"https://christianmaxwellforcongress.com/ManageVoterRegistry",
-"https://christianmaxwellforcongress.com/MediaKit",
-"https://christianmaxwellforcongress.com/ModPun",
-"https://christianmaxwellforcongress.com/MomsForMaxwell",
-"https://christianmaxwellforcongress.com/MyReferrals",
-"https://christianmaxwellforcongress.com/NewLenoxRally",
-"https://christianmaxwellforcongress.com/PeoplePowerRally",
-"https://christianmaxwellforcongress.com/Petition",
-"https://christianmaxwellforcongress.com/Petitions",
-"https://christianmaxwellforcongress.com/PitchIn",
-"https://christianmaxwellforcongress.com/PledgeToVote",
-"https://christianmaxwellforcongress.com/PressMedia",
-"https://christianmaxwellforcongress.com/PressPassRequest",
-"https://christianmaxwellforcongress.com/Primary",
-"https://christianmaxwellforcongress.com/PrivacyPolicy",
-"https://christianmaxwellforcongress.com/ProtestRSVP",
-"https://christianmaxwellforcongress.com/RegisterToVote",
-"https://christianmaxwellforcongress.com/RequestAppearance",
-"https://christianmaxwellforcongress.com/StudentLoanPolicy",
-"https://christianmaxwellforcongress.com/SupporterHub",
-"https://christianmaxwellforcongress.com/TermsOfService",
-"https://christianmaxwellforcongress.com/TownHall",
-"https://christianmaxwellforcongress.com/VolunteerRecruit",
-"https://christianmaxwellforcongress.com/VolunteerShifts",
-"https://christianmaxwellforcongress.com/VoteMaxwell",
-"https://christianmaxwellforcongress.com/WillCountyVote",
-"https://christianmaxwellforcongress.com/YardSigns"
+{
+"text": "About",
+"href": "https://christianmaxwellforcongress.com/About"
+},
+{
+"text": "Admin Dashboard",
+"href": "https://christianmaxwellforcongress.com/AdminDashboard"
+},
+{
+"text": "Admin Leads",
+"href": "https://christianmaxwellforcongress.com/AdminLeads"
+},
+{
+"text": "Approve Users",
+"href": "https://christianmaxwellforcongress.com/ApproveUsers"
+},
+{
+"text": "Article",
+"href": "https://christianmaxwellforcongress.com/Article"
+},
+{
+"text": "Articles",
+"href": "https://christianmaxwellforcongress.com/Articles"
+},
+{
+"text": "Back To School Townhall",
+"href": "https://christianmaxwellforcongress.com/BackToSchoolTownhall"
+},
+{
+"text": "Billboard Fundraiser",
+"href": "https://christianmaxwellforcongress.com/BillboardFundraiser"
+},
+{
+"text": "Bud Billiken Parade",
+"href": "https://christianmaxwellforcongress.com/BudBillikenParade"
+},
+{
+"text": "Bus Bench Campaign",
+"href": "https://christianmaxwellforcongress.com/BusBenchCampaign"
+},
+{
+"text": "Contact",
+"href": "https://christianmaxwellforcongress.com/Contact"
+},
+{
+"text": "Contribution Policy",
+"href": "https://christianmaxwellforcongress.com/ContributionPolicy"
+},
+{
+"text": "Cook County Vote",
+"href": "https://christianmaxwellforcongress.com/CookCountyVote"
+},
+{
+"text": "Donate",
+"href": "https://christianmaxwellforcongress.com/Donate"
+},
+{
+"text": "Election Night Watch Party",
+"href": "https://christianmaxwellforcongress.com/ElectionNightWatchParty"
+},
+{
+"text": "Endorsements",
+"href": "https://christianmaxwellforcongress.com/Endorsements"
+},
+{
+"text": "Event Details",
+"href": "https://christianmaxwellforcongress.com/EventDetails"
+},
+{
+"text": "Events",
+"href": "https://christianmaxwellforcongress.com/Events"
+},
+{
+"text": "FAQ",
+"href": "https://christianmaxwellforcongress.com/FAQ"
+},
+{
+"text": "Freebies",
+"href": "https://christianmaxwellforcongress.com/Freebies"
+},
+{
+"text": "Gala",
+"href": "https://christianmaxwellforcongress.com/Gala"
+},
+{
+"text": "Get Involved",
+"href": "https://christianmaxwellforcongress.com/GetInvolved"
+},
+{
+"text": "Home",
+"href": "https://christianmaxwellforcongress.com/"
+},
+{
+"text": "ILCD1 Pledge",
+"href": "https://christianmaxwellforcongress.com/ILCD1Pledge"
+},
+{
+"text": "Immigration Stance",
+"href": "https://christianmaxwellforcongress.com/ImmigrationStance"
+},
+{
+"text": "Issues",
+"href": "https://christianmaxwellforcongress.com/Issues"
+},
+{
+"text": "Lead Gen",
+"href": "https://christianmaxwellforcongress.com/LeadGen"
+},
+{
+"text": "Lemont Rally",
+"href": "https://christianmaxwellforcongress.com/LemontRally"
+},
+{
+"text": "Manage Articles",
+"href": "https://christianmaxwellforcongress.com/ManageArticles"
+},
+{
+"text": "Manage Donations",
+"href": "https://christianmaxwellforcongress.com/ManageDonations"
+},
+{
+"text": "Manage Endorsements",
+"href": "https://christianmaxwellforcongress.com/ManageEndorsements"
+},
+{
+"text": "Manage Events",
+"href": "https://christianmaxwellforcongress.com/ManageEvents"
+},
+{
+"text": "Manage FAQ",
+"href": "https://christianmaxwellforcongress.com/ManageFAQ"
+},
+{
+"text": "Manage Form Submissions",
+"href": "https://christianmaxwellforcongress.com/ManageFormSubmissions"
+},
+{
+"text": "Manage Freebies",
+"href": "https://christianmaxwellforcongress.com/ManageFreebies"
+},
+{
+"text": "Manage Leads",
+"href": "https://christianmaxwellforcongress.com/ManageLeads"
+},
+{
+"text": "Manage Live Broadcasts",
+"href": "https://christianmaxwellforcongress.com/ManageLiveBroadcasts"
+},
+{
+"text": "Manage Media",
+"href": "https://christianmaxwellforcongress.com/ManageMedia"
+},
+{
+"text": "Manage News",
+"href": "https://christianmaxwellforcongress.com/ManageNews"
+},
+{
+"text": "Manage Petitions",
+"href": "https://christianmaxwellforcongress.com/ManagePetitions"
+},
+{
+"text": "Manage Press Pass",
+"href": "https://christianmaxwellforcongress.com/ManagePressPass"
+},
+{
+"text": "Manage Press Releases",
+"href": "https://christianmaxwellforcongress.com/ManagePressReleases"
+},
+{
+"text": "Manage RSV Ps",
+"href": "https://christianmaxwellforcongress.com/ManageRSVPs"
+},
+{
+"text": "Manage Role Applications",
+"href": "https://christianmaxwellforcongress.com/ManageRoleApplications"
+},
+{
+"text": "Manage Tik Tok",
+"href": "https://christianmaxwellforcongress.com/ManageTikTok"
+},
+{
+"text": "Manage Town Halls",
+"href": "https://christianmaxwellforcongress.com/ManageTownHalls"
+},
+{
+"text": "Manage Volunteer Roles",
+"href": "https://christianmaxwellforcongress.com/ManageVolunteerRoles"
+},
+{
+"text": "Manage Volunteer Shifts",
+"href": "https://christianmaxwellforcongress.com/ManageVolunteerShifts"
+},
+{
+"text": "Manage Volunteer Tools",
+"href": "https://christianmaxwellforcongress.com/ManageVolunteerTools"
+},
+{
+"text": "Manage Voter Registry",
+"href": "https://christianmaxwellforcongress.com/ManageVoterRegistry"
+},
+{
+"text": "Media Kit",
+"href": "https://christianmaxwellforcongress.com/MediaKit"
+},
+{
+"text": "Mod Pun",
+"href": "https://christianmaxwellforcongress.com/ModPun"
+},
+{
+"text": "Moms For Maxwell",
+"href": "https://christianmaxwellforcongress.com/MomsForMaxwell"
+},
+{
+"text": "My Referrals",
+"href": "https://christianmaxwellforcongress.com/MyReferrals"
+},
+{
+"text": "New Lenox Rally",
+"href": "https://christianmaxwellforcongress.com/NewLenoxRally"
+},
+{
+"text": "People Power Rally",
+"href": "https://christianmaxwellforcongress.com/PeoplePowerRally"
+},
+{
+"text": "Petition",
+"href": "https://christianmaxwellforcongress.com/Petition"
+},
+{
+"text": "Petitions",
+"href": "https://christianmaxwellforcongress.com/Petitions"
+},
+{
+"text": "Pitch In",
+"href": "https://christianmaxwellforcongress.com/PitchIn"
+},
+{
+"text": "Pledge To Vote",
+"href": "https://christianmaxwellforcongress.com/PledgeToVote"
+},
+{
+"text": "Press Media",
+"href": "https://christianmaxwellforcongress.com/PressMedia"
+},
+{
+"text": "Press Pass Request",
+"href": "https://christianmaxwellforcongress.com/PressPassRequest"
+},
+{
+"text": "Primary",
+"href": "https://christianmaxwellforcongress.com/Primary"
+},
+{
+"text": "Privacy Policy",
+"href": "https://christianmaxwellforcongress.com/PrivacyPolicy"
+},
+{
+"text": "Protest RSVP",
+"href": "https://christianmaxwellforcongress.com/ProtestRSVP"
+},
+{
+"text": "Register To Vote",
+"href": "https://christianmaxwellforcongress.com/RegisterToVote"
+},
+{
+"text": "Request Appearance",
+"href": "https://christianmaxwellforcongress.com/RequestAppearance"
+},
+{
+"text": "Student Loan Policy",
+"href": "https://christianmaxwellforcongress.com/StudentLoanPolicy"
+},
+{
+"text": "Supporter Hub",
+"href": "https://christianmaxwellforcongress.com/SupporterHub"
+},
+{
+"text": "Terms Of Service",
+"href": "https://christianmaxwellforcongress.com/TermsOfService"
+},
+{
+"text": "Town Hall",
+"href": "https://christianmaxwellforcongress.com/TownHall"
+},
+{
+"text": "Volunteer Recruit",
+"href": "https://christianmaxwellforcongress.com/VolunteerRecruit"
+},
+{
+"text": "Volunteer Shifts",
+"href": "https://christianmaxwellforcongress.com/VolunteerShifts"
+},
+{
+"text": "Vote Maxwell",
+"href": "https://christianmaxwellforcongress.com/VoteMaxwell"
+},
+{
+"text": "Will County Vote",
+"href": "https://christianmaxwellforcongress.com/WillCountyVote"
+},
+{
+"text": "Yard Signs",
+"href": "https://christianmaxwellforcongress.com/YardSigns"
+}
 ]

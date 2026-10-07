@@ -1,10 +1,46 @@
 [
-"https://swipesimple.com/links/lnk_162ea8fa",
-"https://votedrlcmyles.com/",
-"https://votedrlcmyles.com/about",
-"https://votedrlcmyles.com/contact",
-"https://votedrlcmyles.com/events",
-"https://votedrlcmyles.com/privacy-policy",
-"https://votedrlcmyles.com/support-us",
-"https://votedrlcmyles.com/terms-of-use"
+{
+"text": "About",
+"href": "https://www.votedrlcmyles.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votedrlcmyles.com/contact"
+},
+{
+"text": "DR. LC MYLES",
+"href": "https://www.votedrlcmyles.com"
+},
+{
+"text": "Donate",
+"href": "https://swipesimple.com/links/lnk_162ea8fa"
+},
+{
+"text": "Donate Now",
+"href": "https://www.votedrlcmyles.com/support-us"
+},
+{
+"text": "Events",
+"href": "https://www.votedrlcmyles.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedrlcmyles.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedrlcmyles.com/privacy-policy"
+},
+{
+"text": "Support Us",
+"href": "https://www.votedrlcmyles.com/support-us"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.votedrlcmyles.com/terms-of-use"
+},
+{
+"text": "voteDrLCMyles@gmail.com",
+"href": "mailto:voteDrLCMyles@gmail.com"
+}
 ]

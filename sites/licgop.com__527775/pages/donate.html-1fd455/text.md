@@ -1,5 +1,5 @@
-| | Edward Lee Republican for NYSAssembly District 36 | | | | | | |
-| I am running this campaign without collecting donations.
+Edward Lee Republican for NYSAssembly District 36 About Issues/ Platform Event Calendar Don't donate money?
+Volunteer Newsletter I am running this campaign without collecting donations.
 I don't need money.
 I need you to participate with me to fix the process..
 The system is broken.
@@ -21,11 +21,11 @@ Find the link to the online meeting on the event calendar.
 DONATE PRINTED MATERIALS Below are links to some pdfs you can send to print shops to print out campaign materials.
 I have found 1800printing.com to have the best prices on fliers and cards and Sticker Mule to have the best prices on stickers.
 If you have recomendations on places that create print materials or promotional items then please let me know!
-DONATE SPACE Can you secure me access to a venue where I can host a meeting or presentation?
+Campaign business card Yard Sign DONATE SPACE Can you secure me access to a venue where I can host a meeting or presentation?
 Any community room, restaurant, or bookstore is a potential site for an event.
 I will probably have some social events coming up soon.
 DONATE YOUR TALENT Can you write a song?
 Make a video?
 Create a flier?
 Send your work to djelf7@djelf7.com.
-THANK YOU! |
+THANK YOU!

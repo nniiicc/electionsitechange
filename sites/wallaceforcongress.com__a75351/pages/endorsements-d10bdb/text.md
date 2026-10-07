@@ -1,12 +1,1 @@
-Leaders & Organizations Supporting Rachel
-Endorsements
-- Former Congressman Tim Holden, PA-09
-- Communication Workers of America
-- International Brotherhood of Boilermakers
-- International Brotherhood of Electrical Workers
-- Ironworkers International
-- North America Building Trades Union
-- Pennsylvania AFL-CIO
-- Plumbers Union Local 690
-- Small Town PAC
-- United Mine Workers of America
+Skip navigation menu Meet Rachel Priorities Get Involved Endorsements Media Store Donate Meet Rachel Priorities Get Involved Endorsements Media Store Donate Leaders & Organizations Supporting Rachel Endorsements Former Congressman Tim Holden, PA-09 Communication Workers of America International Brotherhood of Boilermakers International Brotherhood of Electrical Workers Ironworkers International North America Building Trades Union Pennsylvania AFL-CIO Plumbers Union Local 690 Small Town PAC United Mine Workers of America Privacy Policy For general inquiries, contact info@wallaceforcongress.com For press inquiries, contact press@wallaceforcongress.com PO Box 15, New Ringgold PA, 17960 Powered by RUN! website builder PAID FOR BY WALLACE FOR CONGRESS You need to enable JavaScript to run this app.

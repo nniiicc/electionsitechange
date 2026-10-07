@@ -1,12 +1,8 @@
-Health Care Is a Human Right
-Updated: Mar 22
-The Freedom to Get Care
-For many years, my family got our health insurance through the Affordable Care Act.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Health Care Is a Human Right Jun 2, 2025 2 min read Updated: Mar 22 The Freedom to Get Care For many years, my family got our health insurance through the Affordable Care Act.
 We were self-employed, raising kids, doing work we believed in, and hoping we didn’t get sick.
 Every year, we’d wait to see how much premiums would go up.
 We’d try to guess what we could afford.
-And we’d ask the same question over and over:
-What happens if something really goes wrong?
+And we’d ask the same question over and over: What happens if something really goes wrong?
 I know what that feels like.
 And I know we can do better.
 I’m running for Congress because health care is a human right.
@@ -23,11 +19,7 @@ And in many parts of Arkansas, finding care at all can be a challenge.
 That’s not a system built for people.
 It’s a system built around profit.
 And when profit drives care, people get priced out.
-Here’s what needs to change:
-- Health care should be guaranteed for every person in this country
-- It should not be tied to your job or your income
-- And it should not come with bills that follow you for years
-That’s why I support Medicare for All.
+Here’s what needs to change: Health care should be guaranteed for every person in this country It should not be tied to your job or your income And it should not come with bills that follow you for years That’s why I support Medicare for All.
 One simple system.
 Everyone covered.
 No one left out.
@@ -59,4 +51,4 @@ And they don’t have to carry that constant worry in the back of their minds.
 Health care is not a privilege.
 It’s not something you earn.
 It’s a basic part of a decent society.
-And freedom should include the freedom to get care when you need it.
+And freedom should include the freedom to get care when you need it. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

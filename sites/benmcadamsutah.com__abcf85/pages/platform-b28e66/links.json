@@ -1,22 +1,90 @@
 [
-"https://benmcadams.com/",
-"https://benmcadams.com/endorse-ben",
-"https://benmcadams.com/endorsements",
-"https://benmcadams.com/media",
-"https://benmcadams.com/news",
-"https://benmcadams.com/platform",
-"https://benmcadams.com/platform/defending-democracy-the-rule-of-law-and-the-will-of-the-voters",
-"https://benmcadams.com/platform/defending-human-rights-and-opportunity-for-every-utahn",
-"https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families",
-"https://benmcadams.com/platform/protecting-the-environment",
-"https://benmcadams.com/privacy-policy",
-"https://benmcadams.com/vote",
-"https://benmcadams.com/yard-signs",
-"https://bsky.app/profile/benmcadams.bsky.social",
-"https://facebook.com/benmcadamsutah",
-"https://instagram.com/benmcadamsforcongress",
-"https://mobilize.us/benmcadamsforcongressut01",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/bm-website",
-"https://x.com/BenMcAdams"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bm-website"
+},
+{
+"text": "Defending Democracy, the Rule of Law, and the Will of the Voters",
+"href": "https://benmcadams.com/platform/defending-democracy-the-rule-of-law-and-the-will-of-the-voters/"
+},
+{
+"text": "Defending Human Rights and Opportunity for Every Utahn",
+"href": "https://benmcadams.com/platform/defending-human-rights-and-opportunity-for-every-utahn/"
+},
+{
+"text": "Endorse Ben",
+"href": "https://benmcadams.com/endorse-ben/"
+},
+{
+"text": "Endorsements",
+"href": "https://benmcadams.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/benmcadamsutah"
+},
+{
+"text": "Home",
+"href": "https://benmcadams.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/benmcadamsforcongress/"
+},
+{
+"text": "Lowering Costs and Building Economic Security for Working Families",
+"href": "https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families/"
+},
+{
+"text": "Media",
+"href": "https://benmcadams.com/media/"
+},
+{
+"text": "Platform",
+"href": "https://benmcadams.com/platform/"
+},
+{
+"text": "Protecting the Environment",
+"href": "https://benmcadams.com/platform/protecting-the-environment/"
+},
+{
+"text": "Recent News",
+"href": "https://benmcadams.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/benmcadamsforcongressut01/"
+},
+{
+"text": "Vote",
+"href": "https://benmcadams.com/vote/"
+},
+{
+"text": "Voting Info",
+"href": "https://benmcadams.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/BenMcAdams"
+},
+{
+"text": "Yard Signs",
+"href": "https://benmcadams.com/yard-signs/"
+},
+{
+"text": "[image: Powered by SBDigital, sbdigital.com]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[image]",
+"href": "https://benmcadams.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/benmcadams.bsky.social"
+},
+{
+"text": "© Copyright #. All Rights Reserved. Privacy Policy.",
+"href": "https://benmcadams.com/privacy-policy/"
+}
 ]

@@ -1,20 +1,7 @@
-We are proud to announce that Democratic Presidential Nominee Joe Biden has endorsed Jimmy Gomez for Congress!
+Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Donate Now Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Campaign Updates | 10/25/20 Joe Biden endorses Jimmy Gomez for Congress By: Jimmy Gomez Share We are proud to announce that Democratic Presidential Nominee Joe Biden has endorsed Jimmy Gomez for Congress!
 “Jimmy Gomez is the son of hard working immigrant parents, and has a proven record delivering for working families.
 In Congress, Jimmy will fight to lower health care costs, tackle climate change, and rebuild a fairer and more just economy.
-I urge my supporters to vote for Jimmy Gomez for Congress.” -Joe Biden
-Joe Biden joins the groups and people we trust to lead the fight for justice in supporting Jimmy Gomez!
-- California Democratic Party
-- Los Angeles County Democratic Club
-- Our Revolution
-- End Citizens United
-- Congressional Progressive Caucus
-- Los Angeles County Federation of Labor, AFL-CIO
-- United Farm Workers of America (UFW)
-- Sierra Club
-- Planned Parenthood Action Fund
-- Stonewall Democratic Club
-- Moms Demand Action
-- Civil Rights Leader Dolores Huerta
-- Attorney General Xavier Becerra
-- Los Angeles County Supervisor Hilda Solis
-- Councilmember Kevin de Leon
+I urge my supporters to vote for Jimmy Gomez for Congress.” -Joe Biden Joe Biden joins the groups and people we trust to lead the fight for justice in supporting Jimmy Gomez!
+California Democratic Party Los Angeles County Democratic Club Our Revolution End Citizens United Congressional Progressive Caucus Los Angeles County Federation of Labor, AFL-CIO United Farm Workers of America (UFW) Sierra Club Planned Parenthood Action Fund Stonewall Democratic Club Moms Demand Action Civil Rights Leader Dolores Huerta Attorney General Xavier Becerra Los Angeles County Supervisor Hilda Solis Councilmember Kevin de Leon A Fighter For Working Families!
+Email ZIP code Stay Up-to-Date Contribute Now! $5 $10 $25 $50 Media Privacy Policy Jimmy Gomez for Congress P.O.
+Box 41018, Los Angeles, CA 90041 213-557-1348 info@jimmygomezforcongress.com Paid for by Jimmy Gomez for Congress Get Involved

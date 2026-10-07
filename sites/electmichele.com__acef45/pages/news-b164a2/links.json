@@ -1,33 +1,138 @@
 [
-"http://electmichele.com/donate",
-"https://electmichele.com/",
-"https://electmichele.com/issues",
-"https://electmichele.com/join",
-"https://electmichele.com/meet",
-"https://electmichele.com/news",
-"https://electmichele.com/post/citizen-s-voices-a-digital-collection-of-community-op-eds",
-"https://electmichele.com/post/hb1971-who-gets-to-challenge-the-government",
-"https://electmichele.com/post/legislative-recap-conservative-fiscal-discipline-at-work",
-"https://electmichele.com/post/legislative-recap-defending-parental-rights-and-local-control-of-our-schools",
-"https://electmichele.com/post/legislative-recap-free-speech-and-the-first-amendment-in-tennessee",
-"https://electmichele.com/post/legislative-recap-healthcare-freedom-and-healthier-tennessee-families",
-"https://electmichele.com/post/legislative-recap-investments-in-rural-tennessee-and-hamilton-county",
-"https://electmichele.com/post/legislative-recap-limited-government-and-the-regulatory-freedom-act",
-"https://electmichele.com/post/legislative-recap-protecting-tennessee-s-most-vulnerable-children",
-"https://electmichele.com/post/legislative-recap-protecting-women-the-riley-gaines-women-s-safety-and-protection-act",
-"https://electmichele.com/post/legislative-recap-supporting-law-enforcement-and-first-responders",
-"https://electmichele.com/post/legislative-recap-tennessee-cannot-aid-and-abet-illegal-immigration",
-"https://electmichele.com/post/legislative-recap-tougher-on-crime-public-safety-wins-for-tennessee-families",
-"https://electmichele.com/post/special-session-i-d-love-to-hear-your-thoughts",
-"https://electmichele.com/post/special-session-recap-congressional-redistricting",
-"https://electmichele.com/post/week-12-capitol-round-up-house-floor-highlights",
-"https://electmichele.com/post/week-13-capitol-round-up-key-votes-my-bills-and-final-stretch",
-"https://electmichele.com/post/week-14-capitol-round-up-budget-passed-bills-final-votes",
-"https://electmichele.com/post/week-15-capitol-round-up-adjourned-sine-die-back-home",
-"https://electmichele.com/post/when-a-child-is-already-home-the-law-should-recognize-it",
-"https://electmichele.com/privacy-policy",
-"https://electmichele.com/terms-of-use",
-"https://facebook.com/repmichelereneau",
-"https://instagram.com/repmichelereneau",
-"https://x.com/repreneau"
+{
+"text": "All Posts",
+"href": "https://www.electmichele.com/news"
+},
+{
+"text": "Citizen's Voices: A Digital Collection of Community Op-Eds",
+"href": "https://www.electmichele.com/post/citizen-s-voices-a-digital-collection-of-community-op-eds"
+},
+{
+"text": "DONATE",
+"href": "http://electmichele.com/donate"
+},
+{
+"text": "EMAIL MICHELE",
+"href": "mailto:rep.michele.reneau@capitol.tn.gov?subject=Connect+with+Michele"
+},
+{
+"text": "HB1971: Who Gets to Challenge the Government?",
+"href": "https://www.electmichele.com/post/hb1971-who-gets-to-challenge-the-government"
+},
+{
+"text": "Issues",
+"href": "https://www.electmichele.com/issues"
+},
+{
+"text": "Join Team Michele",
+"href": "https://www.electmichele.com/join"
+},
+{
+"text": "Legislative Recap: Conservative Fiscal Discipline at Work",
+"href": "https://www.electmichele.com/post/legislative-recap-conservative-fiscal-discipline-at-work"
+},
+{
+"text": "Legislative Recap: Defending Parental Rights and Local Control of Our Schools",
+"href": "https://www.electmichele.com/post/legislative-recap-defending-parental-rights-and-local-control-of-our-schools"
+},
+{
+"text": "Legislative Recap: Free Speech and the First Amendment in Tennessee",
+"href": "https://www.electmichele.com/post/legislative-recap-free-speech-and-the-first-amendment-in-tennessee"
+},
+{
+"text": "Legislative Recap: Healthcare Freedom and Healthier Tennessee Families",
+"href": "https://www.electmichele.com/post/legislative-recap-healthcare-freedom-and-healthier-tennessee-families"
+},
+{
+"text": "Legislative Recap: Investments in Rural Tennessee and Hamilton County",
+"href": "https://www.electmichele.com/post/legislative-recap-investments-in-rural-tennessee-and-hamilton-county"
+},
+{
+"text": "Legislative Recap: Limited Government and the Regulatory Freedom Act",
+"href": "https://www.electmichele.com/post/legislative-recap-limited-government-and-the-regulatory-freedom-act"
+},
+{
+"text": "Legislative Recap: Protecting Tennessee's Most Vulnerable Children",
+"href": "https://www.electmichele.com/post/legislative-recap-protecting-tennessee-s-most-vulnerable-children"
+},
+{
+"text": "Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act",
+"href": "https://www.electmichele.com/post/legislative-recap-protecting-women-the-riley-gaines-women-s-safety-and-protection-act"
+},
+{
+"text": "Legislative Recap: Supporting Law Enforcement and First Responders",
+"href": "https://www.electmichele.com/post/legislative-recap-supporting-law-enforcement-and-first-responders"
+},
+{
+"text": "Legislative Recap: Tennessee Cannot Aid and Abet Illegal Immigration",
+"href": "https://www.electmichele.com/post/legislative-recap-tennessee-cannot-aid-and-abet-illegal-immigration"
+},
+{
+"text": "Legislative Recap: Tougher on Crime - Public Safety Wins for Tennessee Families",
+"href": "https://www.electmichele.com/post/legislative-recap-tougher-on-crime-public-safety-wins-for-tennessee-families"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.electmichele.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.electmichele.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electmichele.com/privacy-policy"
+},
+{
+"text": "SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES",
+"href": "http://www.electmichele.com/donate"
+},
+{
+"text": "Special Session Recap: Congressional Redistricting",
+"href": "https://www.electmichele.com/post/special-session-recap-congressional-redistricting"
+},
+{
+"text": "Special Session: I'd love to hear your thoughts",
+"href": "https://www.electmichele.com/post/special-session-i-d-love-to-hear-your-thoughts"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electmichele.com/terms-of-use"
+},
+{
+"text": "Week 12 Capitol Round-Up: House Floor Highlights",
+"href": "https://www.electmichele.com/post/week-12-capitol-round-up-house-floor-highlights"
+},
+{
+"text": "Week 13 Capitol Round-Up: Key Votes, My Bills, and Final Stretch",
+"href": "https://www.electmichele.com/post/week-13-capitol-round-up-key-votes-my-bills-and-final-stretch"
+},
+{
+"text": "Week 14 Capitol Round-Up: Budget Passed, Bills & Final Votes",
+"href": "https://www.electmichele.com/post/week-14-capitol-round-up-budget-passed-bills-final-votes"
+},
+{
+"text": "Week 15 Capitol Round-Up: Adjourned SINE DIE & Back Home",
+"href": "https://www.electmichele.com/post/week-15-capitol-round-up-adjourned-sine-die-back-home"
+},
+{
+"text": "When a Child Is Already Home, the Law Should Recognize It",
+"href": "https://www.electmichele.com/post/when-a-child-is-already-home-the-law-should-recognize-it"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repmichelereneau"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repmichelereneau/"
+},
+{
+"text": "[image: Rep Reneau transparent logo.png]",
+"href": "https://www.electmichele.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/repreneau"
+}
 ]

@@ -1,33 +1,5 @@
-Skip to content
-For Indiana State Senate District 23…
-Elect Joshua Brant
-Search
-News
-District Map
-The Candidate
-The Issues
-Current Proposals
-Events
-Get Involved
-Donate
-PAC Transparency
-Communicate
-MERCH
-Category:
-Announcements
-News & Information
-Early Voting Message to Voters
-Fundraising Launch
-PRESS RELEASE: Ballot Access
-Major Campaign Update
-Community Round Table Cancellation
-Full Round Table Schedule
-Community Round Table Update
-Education Policy Update
-Press Release: Official Announcement
-Hello World!
+Skip to content For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Category: Announcements News & Information Early Voting Message to Voters Fundraising Launch PRESS RELEASE: Ballot Access Major Campaign Update Community Round Table Cancellation Full Round Table Schedule Community Round Table Update Education Policy Update Press Release: Official Announcement Hello World!
+Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
 Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
+Email (Required) Name (Required) Website

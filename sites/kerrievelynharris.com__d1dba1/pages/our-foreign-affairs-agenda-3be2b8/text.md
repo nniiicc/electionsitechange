@@ -1,14 +1,7 @@
-Our Foreign Affairs Agenda
-We must exhaust all diplomatic solutions before resorting to military action.
+Kerri Evelyn Harris Cart 0 Issues Meet Kerri Donate Products Social Feed Inquiries Back Our gun violence reduction plan Our Criminal Justice Agenda Our financial agenda Our foreign affairs agenda Our Environmental Justice Agenda Our military and veterans agenda Our Agricultural and Rural Economy Our Education Agenda Our Economic Agenda Our Human Rights and Equity our good government agenda Our Health Agenda Cart 0 Issues Our gun violence reduction plan Our Criminal Justice Agenda Our financial agenda Our foreign affairs agenda Our Environmental Justice Agenda Our military and veterans agenda Our Agricultural and Rural Economy Our Education Agenda Our Economic Agenda Our Human Rights and Equity our good government agenda Our Health Agenda Meet Kerri Donate Products Social Feed Inquiries Kerri Evelyn Harris Foreign affairs Our Foreign Affairs Agenda We must exhaust all diplomatic solutions before resorting to military action.
 All too often the unintended consequences of military conflict leave behind remnants of crumbling infrastructure and human lives in need of repair.
 When legislators fail to properly consider the consequences of their foreign policy decisions, we risk American and foreign lives.
 We also risk our national security and the balance of power throughout the world.
 Broken governments and feelings of resentment create breeding grounds for terrorist ideology, broken alliances, and corporate globalization.
 If we work with our international partners we can end global poverty, while ensuring mutual prosperity and security.
-Let’s Dare to Act for:
-- Emphasizing diplomacy first and making war a last resort
-- Fair trade agreements rather than corporate trade agreements
-- Building a peaceful and secure solution for Israel and Palestine
-- Ending arms sales to authoritarian countries
-- Working directly with developing countries to increase their self-sufficiency
-- Strengthen international alliances to ensure mutual security and development
+Let’s Dare to Act for: Emphasizing diplomacy first and making war a last resort Fair trade agreements rather than corporate trade agreements Building a peaceful and secure solution for Israel and Palestine Ending arms sales to authoritarian countries Working directly with developing countries to increase their self-sufficiency Strengthen international alliances to ensure mutual security and development Website created and designed by Michael Payan

@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://kramerforalabama.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "b333e6c1131e4b6e17541a8c4e8fc7fb73d87576",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

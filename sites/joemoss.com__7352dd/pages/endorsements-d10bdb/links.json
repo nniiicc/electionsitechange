@@ -1,34 +1,130 @@
 [
-"https://allisonmiedema.com/",
-"https://co.muskegon.mi.us/directory.aspx?EID=16",
-"https://facebook.com/JoeMossforOCC",
-"https://facebook.com/bshoringa",
-"https://facebook.com/dave.agema.2025",
-"https://gophouse.org/member/RepJamesDeSana/about",
-"https://gophouse.org/member/repangelarigas/about",
-"https://gophouse.org/member/repmattmaddock/about",
-"https://gophouse.org/member/repstevecarra/about",
-"https://grar.com/govt-legislative-inside-grar",
-"https://joemoss.com/",
-"https://joemoss.com/about",
-"https://joemoss.com/blog",
-"https://joemoss.com/contact",
-"https://joemoss.com/district-map",
-"https://joemoss.com/endorsed-by-right-to-life-time-to-defend-life-in-michigan",
-"https://joemoss.com/endorsements",
-"https://joemoss.com/jobs",
-"https://joemoss.com/nfib-mi-pac-endorses-joe-moss-for-state-legislature",
-"https://joemoss.com/terms",
-"https://joemoss.com/volunteer",
-"https://joemoss.com/wp-content/uploads/2026/06/Ottawa-County-Republican-Party-Endorsement-Letter.pdf",
-"https://kendrawenzel.com/",
-"https://linkedin.com/in/joe-moss",
-"https://mattkallman.com/",
-"https://secure.winred.com/joemoss/donate",
-"https://senatorjonbumstead.com/meet-your-senator",
-"https://stanponstein.com/",
-"https://sylviarhodea.com/",
-"https://x.com/4TiffanyJustice",
-"https://x.com/JoeMoss",
-"https://x.com/robbystarbuck"
+{
+"text": "About",
+"href": "https://joemoss.com/about"
+},
+{
+"text": "Allison Miedema",
+"href": "https://allisonmiedema.com/"
+},
+{
+"text": "Angela Rigas",
+"href": "https://gophouse.org/member/repangelarigas/about"
+},
+{
+"text": "Bev Horinga",
+"href": "https://www.facebook.com/bshoringa"
+},
+{
+"text": "Contact",
+"href": "https://joemoss.com/contact"
+},
+{
+"text": "Dave Agema",
+"href": "https://www.facebook.com/dave.agema.2025"
+},
+{
+"text": "District Map",
+"href": "https://joemoss.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joemoss.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoeMossforOCC"
+},
+{
+"text": "Jim DeSana",
+"href": "https://gophouse.org/member/RepJamesDeSana/about"
+},
+{
+"text": "Jobs",
+"href": "https://joemoss.com/jobs"
+},
+{
+"text": "Jon Bumstead",
+"href": "https://www.senatorjonbumstead.com/meet-your-senator/"
+},
+{
+"text": "Kendra Wenzel",
+"href": "https://kendrawenzel.com/"
+},
+{
+"text": "Kim Cyr",
+"href": "https://co.muskegon.mi.us/directory.aspx?EID=16"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joe-moss/"
+},
+{
+"text": "Matt Kallman",
+"href": "https://www.mattkallman.com/"
+},
+{
+"text": "Matt Maddock",
+"href": "https://gophouse.org/member/repmattmaddock/about"
+},
+{
+"text": "News",
+"href": "https://joemoss.com/blog"
+},
+{
+"text": "Robby Starbuck",
+"href": "https://x.com/robbystarbuck"
+},
+{
+"text": "Stan Ponstein",
+"href": "https://www.stanponstein.com/"
+},
+{
+"text": "Steve Carra",
+"href": "https://gophouse.org/member/repstevecarra/about"
+},
+{
+"text": "Sylvia Rhodea",
+"href": "https://sylviarhodea.com/"
+},
+{
+"text": "Terms",
+"href": "https://joemoss.com/terms"
+},
+{
+"text": "Tiffany Justice",
+"href": "https://x.com/4TiffanyJustice"
+},
+{
+"text": "Volunteer",
+"href": "https://joemoss.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/JoeMoss"
+},
+{
+"text": "[image: Joe Moss Logo] [image: Joe Moss Logo]",
+"href": "https://joemoss.com/"
+},
+{
+"text": "[image: NFIB MI PAC]",
+"href": "https://joemoss.com/nfib-mi-pac-endorses-joe-moss-for-state-legislature"
+},
+{
+"text": "[image: Ottawa County Republican Party]",
+"href": "https://joemoss.com/wp-content/uploads/2026/06/Ottawa-County-Republican-Party-Endorsement-Letter.pdf"
+},
+{
+"text": "[image: REALTORS® PAC]",
+"href": "https://www.grar.com/govt-legislative-inside-grar/"
+},
+{
+"text": "[image: Right to Life]",
+"href": "https://joemoss.com/endorsed-by-right-to-life-time-to-defend-life-in-michigan"
+}
 ]

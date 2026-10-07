@@ -1,9 +1,10 @@
-MEET PAUL
-Paul Friel was first elected in 2022 as the Representative in the General Assembly for the 26th district.
+top of page Endorsements Endorsements Take Action Take Action Take Action Take Action JOIN OUR TEAM Submit THANK YOU FOR SIGNING UP!
+JOIN OUR TEAM Submit THANK YOU FOR SIGNING UP! .
+MEET PAUL ENDORSEMENTS MORE Use tab to navigate through the menu items.
+Home DONATE MEET PAUL Paul Friel was first elected in 2022 as the Representative in the General Assembly for the 26th district.
 Paul is a a former local business owner, a husband, a father of four, former School Board member and a lifelong Pennsylvania resident.
 Paul is running for Reelection as State Representative for the 26th district because he believes he can continue to make a difference in our community.
-“We need people in our community to step up and serve and to remain focused on local issues,” he says.
-Paul grew up in Gilbertsville, PA and graduated from St.
+“We need people in our community to step up and serve and to remain focused on local issues,” he says. ​ Paul grew up in Gilbertsville, PA and graduated from St.
 Pius X High School and Temple University.
 He married his high school sweetheart, Mary, and together they’ve raised four children in the OJR school district.
 Over the years, Paul built a successful business career, holding leadership roles in organizations spanning retail, consumer goods, and manufacturing.
@@ -17,4 +18,7 @@ Previously, Paul was the CEO and President of Swiss Farms, Saxby’s Coffee, and
 He believes in the importance of giving back, and has served on the executive boards of the Philadelphia Boys Choir and Camp Rainbow, which provides free camp experiences for deserving children who otherwise could not afford a summer camp experience.
 Paul knows that it takes resources and focus to make a difference in a community, and he’s committed to putting people before politics as your state representative.
 “We have the power to get legislators working for the good of our communities and for the individual families whose lives and struggles lie at the heart of them,” Paul says.
-“Together, we have the power to make a real difference.”
+“Together, we have the power to make a real difference.” VOLUNTEER DONATE paul@paulfriel.com PAID FOR BY PAUL FOR PA P.O.
+Box 101, 2102 Kimberton Rd.
+Kimberton, PA 19442 © Copyright #.
+All rights reserved. bottom of page

@@ -1,9 +1,9 @@
 {
  "description": "Get in touch with Jacquelyn Baginski for updates, contributions, and inquiries. Sign up for email updates and join the campaign!",
  "final_url": "https://jacquelynbaginski.com/contact",
- "paid_for_by": null,
+ "fingerprint": "dc0f71cc1d2e4557d6982a6004a86a51dbfec1e5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | Jacquelyn Baginski Campaign",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

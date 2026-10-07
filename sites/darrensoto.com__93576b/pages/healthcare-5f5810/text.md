@@ -1,5 +1,4 @@
-Protect Our Health Care
-Darren will protect our healthcare.
+Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Protect Our Health Care Protect Our Health Care Darren will protect our healthcare.
 He is fighting recent cuts to Medicare, Medicaid, and the ACA in Congress that are driving up your healthcare costs.
 Medicare is a landmark program for our seniors.
 Over four million Floridians have ACA plans, more than any other state.
@@ -12,3 +11,4 @@ He is proud to have the Lake Nona VA and Kissimmee VA Clinic in his district.
 He has fought to expand mental health, cardiology, and a secure women’s clinic at the VA Hospital.
 He also proudly voted for the PACT Act to ensure veterans exposed to toxic burn pits get the care they need, and the Blue Water Navy Vietnam Veterans Act that closed loopholes to ensure in-service coverage for Vietnam War Navy veterans.
 With your support, Darren will do everything he can in Congress to reverse these cuts and ensure you and your family have quality, affordable health coverage.
+VOLUNTEER Media DONATE Soto for Congress, PO Box 421349, Kissimmee, FL 34742 Phone Number: 407-434-1319 | Privacy Policy PAID FOR AND AUTHORIZED BY DARREN SOTO FOR CONGRESS © # Darren Soto for Congress.

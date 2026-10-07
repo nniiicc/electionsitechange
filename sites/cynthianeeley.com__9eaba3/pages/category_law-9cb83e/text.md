@@ -1,6 +1,10 @@
-The Michigan House Criminal Justice Committee met Tuesday, Jun 4th, 2024 for a hearing on Messiah’s Law.
-The two-bill package of legislation is designed to…
-Together with the governor, our priorities tie nicely together for a brighter Michigan future and for the wellbeing of Michiganders.
-Let’s continue to prioritize positive…
-Thanks for all you do Captain Taylor.
-Act No. 387Public Acts of 2020Approved by the GovernorJanuary 4, 2021Filed with the Secretary of StateJanuary 4, 2021EFFECTIVE DATE: October 1, 2021STATE OF MICHIGAN100TH LEGISLATUREREGULAR…
+Home About News Volunteer Donate Contact Contribute Law Home All Posts Law Home About News Volunteer Donate Contact Family Law News Rights & Obligations June 5, 2024 House Criminal Justice Committee holds hearing on Messiah’s Law by webmaster 0 Comments The Michigan House Criminal Justice Committee met Tuesday, Jun 4th, 2024 for a hearing on Messiah’s Law.
+The two-bill package of legislation is designed to… Continue reading Family Law News January 27, 2023 State of the State by webmaster 0 Comments Together with the governor, our priorities tie nicely together for a brighter Michigan future and for the wellbeing of Michiganders.
+Let’s continue to prioritize positive… Continue reading Law News September 10, 2021 Celebrating our Men & Women frontline and remembering 9/11 by webmaster 0 Comments Thanks for all you do Captain Taylor.
+Continue reading Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change. by webmaster 0 Comments Continue reading Law News Rights & Obligations January 4, 2021 HB6235, introduced into law by 34th District State Representative Cynthia Neeley by webmaster 0 Comments Act No.
+387Public Acts of 2020Approved by the GovernorJanuary 4, 2021Filed with the Secretary of StateJanuary 4, 2021EFFECTIVE DATE: October 1, 2021STATE OF MICHIGAN100TH LEGISLATUREREGULAR… Continue reading Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

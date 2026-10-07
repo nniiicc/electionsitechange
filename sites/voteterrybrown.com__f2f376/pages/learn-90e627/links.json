@@ -1,11 +1,82 @@
 [
-"http://facebook.com/terrybrownclt",
-"http://twitter.com/terrybrownclt",
-"https://instagram.com/terrybrownclt",
-"https://secure.actblue.com/donate/ncwhip",
-"https://secure.actblue.com/donate/tb4nc",
-"https://voteterrybrown.com/",
-"https://voteterrybrown.com/get-involved-1",
-"https://voteterrybrown.com/meet-terry",
-"https://voteterrybrown.com/our-vision"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/tb4nc"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ncwhip"
+},
+{
+"text": "Donate",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "Economic",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "Education",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "Experience and Accomplishments",
+"href": "https://www.voteterrybrown.com/meet-terry"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteterrybrown.com/get-involved-1"
+},
+{
+"text": "Health",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "Home",
+"href": "https://www.voteterrybrown.com"
+},
+{
+"text": "Infrastructure",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "Issues",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "Meet Terry",
+"href": "https://www.voteterrybrown.com/meet-terry"
+},
+{
+"text": "Our Future",
+"href": "https://www.voteterrybrown.com/our-vision"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "https://instagram.com/terrybrownclt"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "http://www.twitter.com/terrybrownclt"
+},
+{
+"text": "[image: Facebook - Black Circle]",
+"href": "http://www.facebook.com/terrybrownclt"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/terrybrownclt"
+},
+{
+"text": "[image: Instagram Social Icon]",
+"href": "https://instagram.com/terrybrownclt"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/terrybrownclt"
+},
+{
+"text": "info@voteterrybrown.com",
+"href": "mailto:info@voteterrybrown.com"
+}
 ]

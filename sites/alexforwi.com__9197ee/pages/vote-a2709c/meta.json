@@ -1,7 +1,9 @@
 {
  "description": "Find out how to vote for Alex Joers in Wisconsin, including election details, registration info, and polling resources.",
  "final_url": "https://www.alexforwi.com/vote",
- "paid_for_by": "PAID FOR BY ALEX FOR WISCONSIN &nbsp; Website Made by NXTGEN Agency Fuel OUR PEOPLE-POWERED CAMPAIGN $5 $10 $15 $50 $100 OTHER bottom of page",
+ "fingerprint": "712dc4b3fe39b335b785355c6ac0a4779baa904e",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY ALEX FOR WISCONSIN Website Made by NXTGEN Agency Fuel OUR PEOPLE-POWERED CAMPAIGN $5 $10 $15 $50 $100 OTHER bottom of page",
  "title": "Vote | Alex for Wisconsin",
  "years_mentioned": [
   "2026"

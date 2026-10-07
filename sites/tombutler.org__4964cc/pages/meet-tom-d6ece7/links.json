@@ -1,6 +1,30 @@
 [
-"https://facebook.com/tombutlercampaign",
-"https://secure.anedot.com/tom-butler-campaign/donate",
-"https://tombutler.org/",
-"https://tombutler.org/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tom-butler-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://tombutler.org/#ENDORSEMENTS"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/tombutlercampaign/"
+},
+{
+"text": "Issues",
+"href": "https://tombutler.org/#ISSUES"
+},
+{
+"text": "Meet Tom",
+"href": "https://tombutler.org/#MEET"
+},
+{
+"text": "Read our Privacy Policy",
+"href": "https://tombutler.org/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://tombutler.org/"
+}
 ]

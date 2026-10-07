@@ -1,10 +1,38 @@
 [
-"https://electmorfin.com/",
-"https://electmorfin.com/about",
-"https://electmorfin.com/blank",
-"https://electmorfin.com/blank-1",
-"https://electmorfin.com/platform",
-"https://electmorfin.com/volunteer",
-"https://facebook.com/61558959761703?http_ref=eyJ0cyI6MTc2OTAxODAxNjAwMCwiciI6IiJ9",
-"https://secure.actblue.com/donate/zeke-4-14th-ld"
+{
+"text": "About",
+"href": "https://www.electmorfin.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/zeke-4-14th-ld"
+},
+{
+"text": "Home",
+"href": "https://www.electmorfin.com"
+},
+{
+"text": "Platform",
+"href": "https://www.electmorfin.com/platform"
+},
+{
+"text": "Privacy",
+"href": "https://www.electmorfin.com/blank-1"
+},
+{
+"text": "Terms",
+"href": "https://www.electmorfin.com/blank"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electmorfin.com/volunteer"
+},
+{
+"text": "[image: Facebook logo zeke.png]",
+"href": "https://www.facebook.com/61558959761703/?http_ref=eyJ0cyI6MTc2OTAxODAxNjAwMCwiciI6IiJ9"
+},
+{
+"text": "info@electmorfin.com",
+"href": "mailto:info@electmorfin.com"
+}
 ]

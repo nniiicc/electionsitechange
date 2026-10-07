@@ -1,13 +1,54 @@
 [
-"https://facebook.com/markforstaterep",
-"https://instagram.com/repmarkcochran?igsh=MW1hOTVyd2c5Y3hjcg%3D%3D",
-"https://markforstaterep.com/",
-"https://markforstaterep.com/privacy-policy",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=100",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=200",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=25",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=5",
-"https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=50",
-"https://x.com/repmarkcochran"
+{
+"text": "$100",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "https://www.markforstaterep.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/mark-cochran-for-state-representative/donate"
+},
+{
+"text": "Privacy Policy/Terms and Conditions",
+"href": "https://www.markforstaterep.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/markforstaterep"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/repmarkcochran?igsh=MW1hOTVyd2c5Y3hjcg%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.markforstaterep.com/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/repmarkcochran"
+}
 ]

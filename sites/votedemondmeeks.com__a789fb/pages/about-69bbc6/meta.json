@@ -1,13 +1,16 @@
 {
  "description": "Discover Demond Meeks, your representative. Learn about his values, experience, and dedication to the 137th District.",
  "final_url": "https://votedemondmeeks.com/about",
- "paid_for_by": null,
+ "fingerprint": "e8049f65ed3585a862fe42aef6ada79d5370b48b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Demond Meeks - NY State Assemblyman | 137th District",
  "years_mentioned": [
   "2010",
   "2013",
   "2017",
   "2018",
-  "2019"
+  "2019",
+  "2026"
  ]
 }

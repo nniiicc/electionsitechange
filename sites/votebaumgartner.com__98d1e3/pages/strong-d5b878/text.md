@@ -1,5 +1,3 @@
-top of page
-Results: Michael supported the successful U.S. operation to capture and remove Venezuelan dictator Nicolás Maduro, ending a narco-terrorist regime and supporting global energy stability .
-- Action: Baumgartner sponsored, and the House passed, the DETERRENT Act to end foreign adversarial gifts and influence at our colleges and universities.
-Keeping America Strong
-bottom of page
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE Results: Michael supported the successful U.S. operation to capture and remove Venezuelan dictator Nicolás Maduro, ending a narco-terrorist regime and supporting global energy stability .
+Action: Baumgartner sponsored, and the House passed, the DETERRENT Act to end foreign adversarial gifts and influence at our colleges and universities.​​​​ ​​​ Keeping America Strong Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

@@ -1,40 +1,22 @@
-FY27 Budget Update
-On April 29, 2026, the Massachusetts House of Representatives passed its $63.41 billion Fiscal Year 2027 (FY27) budget.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate FY27 Budget Update Jun 23 Written By Jay Livingstone On April 29, 2026, the Massachusetts House of Representatives passed its $63.41 billion Fiscal Year 2027 (FY27) budget.
 I am proud to have voted in favor of this fiscally responsible plan that makes critical investments for the state’s most vulnerable residents and provides record support for the Commonwealth’s cities and towns.
-8th Suffolk District Earmarks
-I am pleased to share that I was able to secure the following earmarks for various programing and non-profits around the 8th Suffolk District:
-| First Night Boston | $500,000 |
-|---|---|
-| Commonwealth Shakespeare Company | $375,000 |
-| Boch Center | $250,000 |
-| Boston Pops Fireworks Spectacular | $250,000 |
-| Revolutionary Spaces | $250,000 |
-| Boston Landmark Orchestra | $100,000 |
-| Fenway Cares | $100,000 |
-| Brewer Plaza Activation | $100,000 |
-| Boston Village | $75,000 |
-| West End Museum | $75,000 |
-| Senior Programming for the 8th Suffolk District | $50,000 |
-| West End Neighborhood Center | $25,000 |
-These earmarks are investments in our community.
+8th Suffolk District Earmarks I am pleased to share that I was able to secure the following earmarks for various programing and non-profits around the 8th Suffolk District: First Night Boston $500,000 Commonwealth Shakespeare Company $375,000 Boch Center $250,000 Boston Pops Fireworks Spectacular $250,000 Revolutionary Spaces $250,000 Boston Landmark Orchestra $100,000 Fenway Cares $100,000 Brewer Plaza Activation $100,000 Boston Village $75,000 West End Museum $75,000 Senior Programming for the 8th Suffolk District $50,000 West End Neighborhood Center $25,000 These earmarks are investments in our community.
 I was also proud to cosponsor additional amendments including $100,000 for the Museum of African American History, a $200,000 increase for funding for The Massachusetts Legal Assistance Corporation, $2,000,000 for Planned Parenthood and $50,000 for the Fenway Community Center.
 Due to responsible fiscal management, the House’s FY27 budget is balanced, and makes significant investments across several issue areas, without needing to include new taxes or tax increases.
 The House budget also strengthens the Stabilization Fund, which is set to reach $8.39 billion, reinforcing the state’s bond rating to keep borrowing costs down and save taxpayer money, while protecting the Commonwealth’s long-term fiscal health.
-Local Aid and Education
-The FY27 House budget delivers nearly $10 billion in aid to cities and towns across the Commonwealth, representing a $477 million increase over the FY26 budget.
+Local Aid and Education The FY27 House budget delivers nearly $10 billion in aid to cities and towns across the Commonwealth, representing a $477 million increase over the FY26 budget.
 The budget funds Unrestricted General Government Aid (UGGA) at $1.33 billion and Chapter 70 education funding at $7.65 billion.
 The budget also funds the final year of a six-year implementation plan for the Student Opportunity Act (SOA), which was enacted in 2019 to modernize the state’s school funding formula to better support districts and expand resources for students, particularly those with the greatest needs.
 The budget increases the minimum aid total to $160 per pupil.
-Public Transportation
-The FY27 House budget includes $470 million for the MBTA, including $40 million for the MBTA Academy which supports workforce training and recruiting.
+Public Transportation The FY27 House budget includes $470 million for the MBTA, including $40 million for the MBTA Academy which supports workforce training and recruiting.
 The budget continues to support water transportation and income-eligible reduced fares.
-Early Education and Care
-Continuing the House’s longstanding commitment towards investing in the early education and care (EEC) workforce, the FY27 House budget includes $1.86 billion, $157.2 million more than in FY26, to sustain recent rate increases and other historic investments in child care access and affordability across the Commonwealth.
+Early Education and Care Continuing the House’s longstanding commitment towards investing in the early education and care (EEC) workforce, the FY27 House budget includes $1.86 billion, $157.2 million more than in FY26, to sustain recent rate increases and other historic investments in child care access and affordability across the Commonwealth.
 This investment is in addition to the Fair Share supplemental budget that was recently passed by the House, which included $38.7 million to reduce the income-eligible waitlist, $8 million for child care for child care providers, and $7.5 million for an EEC educator loan forgiveness program.
-Public Higher Education
-The House budget allocates $866.5 million for the University of Massachusetts system, $419.8 million for community colleges, and $407.9 million for state universities.
-Health and Human Services
-The House budget includes $22.41 billion for MassHealth, and invests in primary care rates and behavioral health.
+Public Higher Education The House budget allocates $866.5 million for the University of Massachusetts system, $419.8 million for community colleges, and $407.9 million for state universities.
+Health and Human Services The House budget includes $22.41 billion for MassHealth, and invests in primary care rates and behavioral health.
 The House budget extends the Health Connector’s ConnectorCare Pilot program, which offers lower premiums, no deductibles and reduced co-pays, until the end of 2027.
 The program currently enrolls 49,000 residents.
 As of January 1, 2026, residents with incomes of only up to 400% of Federal Poverty Level (FPL) were eligible because of the expiration of the ACA tax credits.
@@ -43,46 +25,19 @@ The House’s FY27 budget invests in the human services workforce, which provide
 The House budget also extends the Personal Care Attendant Program Working group and mandates that any additional cuts to the program can only occur with the agreement of the working group.
 To alleviate the cost of living, the House budget makes investments to lower food costs and ensure access to our most vulnerable populations.
 It includes $60 million for the Emergency Food Assistance Program, $20 million for the Massachusetts Healthy Incentives Program (HIP) to provide a dollar-for-dollar match to SNAP recipients purchasing locally grown healthy food, and $11 million for the SNAP for Low-Income Workers program, increasing the benefit to $35 per eligible family.
-Public Health and Mental Health
-The House budget funds the Department of Public Health (DPH) at $1.16 billion and the Department of Mental Health (DMH) at $1.32 billion for FY27.
-Investments include:
-- $184.1 million for the Bureau of Substance Abuse Services (BSAS)
-- $35 million for HIV/AIDS Treatment and Preservation
-- $11.1 million for a Gun and Violence Prevention Program
-- $10.1 million for Community Health Centers, including $4 million for the Gender Affirming Care program
-- $4 million to address safety, health and quality of life at the Mass & Cass area of Boston
-- $679.7 million for Adult Mental Health Supports
-- $136.7 million for Child and Adolescent Mental Health Services
-- $3 million for the DMH Loan Forgiveness Program
-Affordable and Accessible Housing
-The FY27 budget maintains the House’s commitment to protecting renters and homeowners across the Commonwealth from eviction and homelessness by investing in the following programs:
-- $115 million for programs for homeless individuals
-- $10 million for shelter workforce assistance
-- $281.3 million for the Massachusetts Rental Voucher Program (MRVP)
-- $210 million for the Rental Assistance for Families in Transition (RAFT) program
-- $82.3 million for HomeBASE
-- $8 million for a new Winter Beds program
-- $3 million to the Access to Counsel program that provides legal representation for low-income families in eviction proceedings
-The budget includes $258.6 million for the EA Shelter System, which accounts for $17.1 million in savings because of a decreased shelter portfolio and several savings initiatives.
+Public Health and Mental Health The House budget funds the Department of Public Health (DPH) at $1.16 billion and the Department of Mental Health (DMH) at $1.32 billion for FY27.
+Investments include: $184.1 million for the Bureau of Substance Abuse Services (BSAS) $35 million for HIV/AIDS Treatment and Preservation $11.1 million for a Gun and Violence Prevention Program $10.1 million for Community Health Centers, including $4 million for the Gender Affirming Care program $4 million to address safety, health and quality of life at the Mass & Cass area of Boston $679.7 million for Adult Mental Health Supports $136.7 million for Child and Adolescent Mental Health Services $3 million for the DMH Loan Forgiveness Program Affordable and Accessible Housing The FY27 budget maintains the House’s commitment to protecting renters and homeowners across the Commonwealth from eviction and homelessness by investing in the following programs: $115 million for programs for homeless individuals $10 million for shelter workforce assistance $281.3 million for the Massachusetts Rental Voucher Program (MRVP) $210 million for the Rental Assistance for Families in Transition (RAFT) program $82.3 million for HomeBASE $8 million for a new Winter Beds program $3 million to the Access to Counsel program that provides legal representation for low-income families in eviction proceedings The budget includes $258.6 million for the EA Shelter System, which accounts for $17.1 million in savings because of a decreased shelter portfolio and several savings initiatives.
 The budget also expands protections for children in the shelter system by requiring any child under the age of three to be referred for an Early Intervention evaluation and assessment.
-Workforce Development and Economic Development
-The FY27 House budget funds the Executive Office of Labor and Workforce Development at $112.8 million and the Executive Office of Economic Development at $123.9 million.
+Workforce Development and Economic Development The FY27 House budget funds the Executive Office of Labor and Workforce Development at $112.8 million and the Executive Office of Economic Development at $123.9 million.
 Based on recommendations issued by the COLA working group that was established in the FY25 budget, the FY27 House budget establishes a funding process to trigger cost-of-living adjustments for retirees in the State Employees’ and Teachers’ Retirement Systems and provides an opt-in for local retirement systems.
-Energy and Environmental Affairs
-The House budget includes $477.1 million for the Executive Office of Energy and Environmental Affairs, continuing investments in conservation and sustainable development while keeping the Commonwealth on track to meet its climate goals.
-This investment includes:
-- $153.3 million for the Department of Conservation and Recreation
-- $81.1 million for the Department of Environmental Protection
-- $71.4 million for the Department of Agricultural Resources
-- $63.4 million for the Clean Water Trust
-- $10 million transfer to the Massachusetts Clean Energy Center
-Criminal Justice
-The budget annualizes the second phase of increases to Committee For Public Counsel (CPCS) raises for private bar advocates and the hiring of more staff attorneys.
+Energy and Environmental Affairs The House budget includes $477.1 million for the Executive Office of Energy and Environmental Affairs, continuing investments in conservation and sustainable development while keeping the Commonwealth on track to meet its climate goals.
+This investment includes: $153.3 million for the Department of Conservation and Recreation $81.1 million for the Department of Environmental Protection $71.4 million for the Department of Agricultural Resources $63.4 million for the Clean Water Trust $10 million transfer to the Massachusetts Clean Energy Center Criminal Justice The budget annualizes the second phase of increases to Committee For Public Counsel (CPCS) raises for private bar advocates and the hiring of more staff attorneys.
 The budget also increases the minimum salary of Assistant District Attorneys to $76,000 a year.
 The House budget includes $812.1 million for the state’s sheriff offices, which is a $52.6 million increase over FY26.
 The budget takes the first step in an ongoing process toward eliminating funding deficiencies by adopting reforms that were outlined in the IG’s preliminary recommendations.
 To better track cost drivers, the budget separates out funding for costs that have been identified as reasons for the deficiencies: operations, payroll, no cost calls, and medication assisted treatment.
 Speaker Mariano and the House Committee on Ways & Means introduced their FY27 budget proposal on April 15, 2026, following a review of the Governor’s proposal and a series of public hearings.
 The budget passed the House of Representatives 149-9.
-For further details on the House’s FY26 Budget, please see the official press release linked here.
+For further details on the House’s FY26 Budget, please see the official press release linked here .
 As always, if you have any questions about the budget, the legislative process or any other matters of importance to you, please do not hesitate to reach out to my office.
+Jay Livingstone Next Next Fair Share Supplemental Budget Update Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

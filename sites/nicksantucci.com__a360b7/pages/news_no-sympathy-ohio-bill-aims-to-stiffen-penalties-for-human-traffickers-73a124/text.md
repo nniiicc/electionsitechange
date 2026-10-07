@@ -1,5 +1,2 @@
-Previous
-Previous
-Santucci Honored with OESCA 2025 Legislative Leadership Award
-Next
-Next
+0 Skip to Content About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate WTRF: ‘No sympathy,’ Ohio bill aims to stiffen penalties for human traffickers Aug 29 Written By Tex Fischer Tex Fischer Previous Previous Santucci Honored with OESCA 2025 Legislative Leadership Award Next Next WFMJ: Ohio House Rep.
+Nick Santucci appointed to House Finance Committee PAID FOR BY FRIENDS OF NICK SANTUCCI

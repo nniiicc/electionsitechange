@@ -1,14 +1,21 @@
-Where I Stand
-What I believe is simple
-A strong Arkansas is built by strong communities, free citizens, and a government that respects both.
-Our future depends on the values that have always set us apart—hard work, personal responsibility, faith in one another, and a commitment to freedom.
-These are the positions I stand for:
-Real Solutions for Arkansas
-Voters deserve more than talking points—they deserve a clear picture of the legislation I’m ready to file.
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY Where I Stand Facebook X (Twitter) Copy link What I believe is simple ​ A strong Arkansas is built by strong communities, free citizens, and a government that respects both.
+Our future depends on the values that have always set us apart—hard work, personal responsibility, faith in one another, and a commitment to freedom. ​ These are the positions I stand for:​ Pro-Local Control Learn More Pro-2nd Amendment Learn More Pro-Freedom & Responsibility Learn More Pro-Quality Education Learn More Pro-Infrastructure Growth Learn More Pro-Fair Elections Learn More Download My Full Platform Real Answers Rooted in Principle I’ve completed the Americans for Prosperity – Arkansas 2026 Candidate Survey, providing clear, values-driven answers on the issues that matter most to Arkansans. ​ View My Survey Responses Exploring the “Why” Behind the What To truly understand where I stand, it helps to know why.
+Behind the Platform takes you deeper into the convictions, experiences, and vision that shape each position—and why they matter for Arkansas's future. ​ Behind the Platform Real Solutions for Arkansas Voters deserve more than talking points—they deserve a clear picture of the legislation I’m ready to file.
 These aren’t just ideas—they’re actionable plans.
 Click below to see each proposal individually, or visit the full page to view all of them together.
-Rooted in the values of freedom, responsibility, and community strength, these reforms are built to serve the people—not the politics.
-See How Your Vision Aligns with Joshua’s
-Take a few minutes to see how your values match Joshua’s vision for Arkansas.
+Rooted in the values of freedom, responsibility, and community strength, these reforms are built to serve the people—not the politics. ​ ​ Civic Education Act Strengthening civic knowledge, constitutional literacy, and democratic responsibility in schools. ​ Learn More Explore All Real Solutions See How Your Vision Aligns with Joshua’s Take a few minutes to see how your values match Joshua’s vision for Arkansas.
 This quick 10-question quiz is designed to help you reflect on the issues that matter most—local control, civic responsibility, education, infrastructure, and more.
-“Arkansas deserves leaders who respect every voice, prioritize common sense, and focus on real solutions—not politics as usual.”
+“Arkansas deserves leaders who respect every voice, prioritize common sense, and focus on real solutions—not politics as usual.” ​ Take the Quiz “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

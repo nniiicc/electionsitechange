@@ -1,4 +1,4 @@
-Meet Brad Barker
+Skip to content About About Me What Brad Believes Legislation Positions Highlights Newsletter Signup News Get Involved Donate About About Me What Brad Believes Legislation Positions Highlights Newsletter Signup News Get Involved Donate Representative Brad Barker Meet Brad Barker Updating and thanking the Gunslinger aircraft mechanics on what their hard work was accomplishing during the surge in Afghanistan at Sharana Army Airfield.
 I grew up on a farm & ranch and have served around the world in combat, so I know the value of hard work, adversity, a handshake, honoring your word, and teamwork.
 I strive to treat others based on my faith in God – not their political views.
 I share those values with Montanans who are ruggedly independent but also willing to help a neighbor.
@@ -33,3 +33,13 @@ That whiplash adversely impacts citizens and businesses.
 Thoughtful policy that can withstand the ebb and flow of political tides requires collaboration and consensus.
 That does not mean that we have to or will agree on everything.
 On the contrary vigorous, honest debate and the competition of ideas most often results in the best outcomes.
+Catching an Armadillo on the farm in Oklahoma.
+Gotta have the biggest buckle.
+With my Grandparents at an FFA dinner.
+Showing a steer in high school.
+Push-ups with the littles as a young Army Captain.
+Welcome home ceremony after 15 months in Iraq.
+As a young Major with my oldest son at the Marine Corps Command and General Staff College in Quantico, Virginia.
+On the porch with my Grandpa Barker Just another day on the job - before take-off to patrol over Sadr City in Baghdad, Iraq on Christmas day during my 15-month deployment to Iraq.
+The Barker Family at Home Homecoming after 15 months in Iraq.
+Join My Newsletter Learn More LEGISLATOR DETAILS ABOUT LEGISLATOR DETAILS ABOUT Facebook-f Instagram Linkedin Contact Brad Box 1242, Red Lodge, MT 59068 406.426.1034 brad@bradbarker.com Brad Barker © # All Rights Reserved.

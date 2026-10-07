@@ -1,28 +1,110 @@
 [
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/es",
-"https://davidjolly.com/es/get-involved",
-"https://davidjolly.com/es/meet-gwen",
-"https://davidjolly.com/es/sobre",
-"https://davidjolly.com/es/video",
-"https://davidjolly.com/es/where-david-stands",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/ht/meet-gwen",
-"https://davidjolly.com/meet-gwen",
-"https://facebook.com/davidjollyflorida",
-"https://gwengrahamfl.com/",
-"https://instagram.com/davidjollyfl",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://x.com/davidjollyfl"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "Comentarios",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "EN",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/es/get-involved/"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/meet-gwen/"
+},
+{
+"text": "La contienda de 2026",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "La postura de David",
+"href": "https://davidjolly.com/es/where-david-stands/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/es/meet-gwen/"
+},
+{
+"text": "Otro",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "Sobre David Jolly",
+"href": "https://davidjolly.com/es/sobre/"
+},
+{
+"text": "Tienda",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "Videos",
+"href": "https://davidjolly.com/es/video/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/es/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+},
+{
+"text": "gwengrahamfl.com",
+"href": "https://gwengrahamfl.com/"
+},
+{
+"text": "Únete al movimiento",
+"href": "https://davidjolly.com/es/get-involved/"
+}
 ]

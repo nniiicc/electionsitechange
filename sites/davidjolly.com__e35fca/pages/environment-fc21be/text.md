@@ -1,7 +1,7 @@
-Protecting what makes Florida, Florida.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT Protecting what makes Florida, Florida.
 This isn't just policy.
 It's personal.
-David Jolly believes protecting Florida's environment is essential to the state's economy and quality of life.
+In short David Jolly believes protecting Florida's environment is essential to the state's economy and quality of life.
 His plan calls for real investments in environmental protection, accelerated clean and renewable energy integration into Florida's utility system, sustained funding for coastal resiliency and water quality improvements, and honest climate planning in state policy.
 David sees environmental protection as protecting what makes Florida successful: the tourism economy, clean beaches, healthy waters, and the natural beauty that families depend on every day.
 This is what we are fighting for.
@@ -34,8 +34,7 @@ It means understanding that what we protect today is what we pass on tomorrow.
 Because once it's gone, it's not coming back.
 Some things are too important to lose.
 Florida's future depends on what we protect today.
-Frequently asked questions
-Q.
+Get involved Frequently asked questions Q.
 Is my insurance crisis related to climate?
 Yes, structurally.
 Florida's property insurance crisis is driven by hurricane risk, litigation costs, and reinsurance prices, and the hurricane risk component has grown with warming ocean temperatures and rising sea levels.
@@ -73,3 +72,7 @@ Why oppose offshore drilling if it could create Florida jobs?
 Offshore drilling creates very few Florida jobs because rigs are based out of Louisiana and Texas ports.
 What Florida loses in a spill (tourism revenue, fishing industry, real estate value, ecological damage) runs to tens of billions of dollars.
 Florida's tourism economy ($130 billion) and ocean economy ($30 billion) depend on clean beaches and healthy water.
+Explore this issue In depth What We Are Fighting For.
+About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

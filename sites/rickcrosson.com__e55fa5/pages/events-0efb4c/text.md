@@ -1,32 +1,13 @@
-October 2026
-WED
-7
-7
-Appleton Public Library, 200 N.
-Appleton Street, Appleton, WI
-Save the date!
+Skip to content Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Donate Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Events Hosting Appearances List Calendar October 2026 WED 7 6:30 pm – 8:00 pm Appearance Candidate Panel & Conversation presented by Young Dems of NE Wisconsin Appleton Public Library, 200 N.
+Appleton Street, Appleton, WI Save the date!
 Join the Young Democrats of Northeast Wisconsin in Appleton on October 7th for a Candidate Panel & Conversation featuring David Crowley, Rick Crosson, Brad Smith, and Emily Tseffos.
-Come hear directly f…
-THU
-8
-8
-Kelly Lake Sportsman's Club, 9362 County Road G, Suring, WI
-Suzanne Pearson invites you to KLSC for a meet & greet with candidate for congress, Rick Crosson and candidate for state assembly, Alexia Unertl.
-Grab a neighbor or family member and come get to know your future elected…
-SAT
-10
-10
-Cicero Town Hall
-Join Rick Crosson for Congress at his Cicero stop of his “Showing Up” Town Hall Tour.
+Come hear directly f… More Info Google Calendar Apple Calendar Outlook (.ics) THU 8 6:00 pm – 8:00 pm Appearance Kelly Lake Meet & Greet with Rick Crosson & Alexia Unertl Kelly Lake Sportsman's Club, 9362 County Road G, Suring, WI Suzanne Pearson invites you to KLSC for a meet & greet with candidate for congress, Rick Crosson and candidate for state assembly, Alexia Unertl.
+Grab a neighbor or family member and come get to know your future elected… More Info Google Calendar Apple Calendar Outlook (.ics) SAT 10 3:00 pm – 4:30 pm Appearance Cicero Town Hall with Rick Crosson Cicero Town Hall Join Rick Crosson for Congress at his Cicero stop of his “Showing Up” Town Hall Tour.
 Bring your questions, your friends, and neighbors.
-We welcome all community members who want to talk about the everyday issues facin…
-N8847 Town Hall Rd, Black Creek, WI 54106-9149, United States
-Patrick & Loreley Amerson invite you to join them for food, friendship, and fundraising following Rick Crosson's town hall in Cicero on October 10th.
-A relaxed environment to socialize and get to know your future congre…
-SAT
-17
-17
-Forestville Town Hall, 7705 CR-H, Forestville, WI
-Join Rick Crosson for Congress at his Forestville stop of his “Showing Up” Town Hall Tour.
+We welcome all community members who want to talk about the everyday issues facin… More Info Google Calendar Apple Calendar Outlook (.ics) SAT 10 5:00 pm Appearance Meet & Greet Fundraiser with Rick Crosson N8847 Town Hall Rd, Black Creek, WI 54106-9149, United States Patrick & Loreley Amerson invite you to join them for food, friendship, and fundraising following Rick Crosson's town hall in Cicero on October 10th.
+A relaxed environment to socialize and get to know your future congre… More Info Google Calendar Apple Calendar Outlook (.ics) SUN 11 4:00 pm – 5:30 pm Appearance Wittenberg Town Hall with Rick Crosson & Gillian Battino Wittenberg, Wisconsin, Wittenberg, WI Community and Conversation.
+Join 8th Congressional District Candidate, Rick Crosson and State Senate District 29 Candidate, Gillian Battino for a town hall in Wittenberg on Sunday afternoon.
+Bring your questions, conce… More Info Google Calendar Apple Calendar Outlook (.ics) SAT 17 11:00 am – 12:30 pm Appearance Forestville Town Hall Forestville Town Hall, 7705 CR-H, Forestville, WI Join Rick Crosson for Congress at his Forestville stop of his “Showing Up” Town Hall Tour.
 Rick will be joined by Assembly District 1 candidate, Renee Paplham and State Senate District 1 candidate, Mark Becker.
-Bring y…
+Bring y… More Info Google Calendar Apple Calendar Outlook (.ics) No events match your filters. ← Prev Next → ✕ Support Rick Crosson for Congress Choose an amount to continue securely to ActBlue. $5 $25 $50 $100 $250 Other Website Policies P.O.
+Box 11321, Green Bay, WI 54307 info@rickcrosson.com Paid For by Rick Crosson for Congress Website Powered by WordPress and Built by Daniel Mulladzhanov

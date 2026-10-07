@@ -1,7 +1,11 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://elliottforkentucky.com/news/",
+ "fingerprint": "346e69cd77f51f78b8e61198c01ed801ba92e301",
+ "format": 3,
  "paid_for_by": "Paid for by Daniel Elliott for State Representative",
  "title": "News | Daniel Elliott",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016"
+ ]
 }

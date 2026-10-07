@@ -1,8 +1,7 @@
-Bullying Cuba into China's arms
-It's crazy how much the situation in Cuba encapsulates so much of the Trump Administration's ethos.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases Bullying Cuba into China's arms Steve Woll May 14 2 min read It's crazy how much the situation in Cuba encapsulates so much of the Trump Administration's ethos.
 For those just tuning in, at the beginning of this year, the United States effectively imposed a blockade on the oil that has driven Cuba for decades.
 Point 1 - another case of the U.S. bullying a small, basically helpless nation.
-The latest reports include 40 hour power outages, threatening vulnerable citizens.
+The latest reports include 40 hour power outages , threatening vulnerable citizens.
 Point 2 - Why?
 What is the justification?
 That it is a "communist" country?
@@ -22,3 +21,5 @@ President Trump has made it clear he intends to overthrow the Cuban government t
 What military?
 The men, women, ships, and aircraft of the Atlantic Fleet, already stretched thin from extended deployments to Venezuela and Iran, will be called on once again.
 It's going to be a long summer.
+From The Blog Recent Posts See All A Chance to Recommit Meeting Hampton Roads Why I'm Stepping Forward...
+ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

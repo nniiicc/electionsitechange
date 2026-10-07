@@ -1,13 +1,50 @@
 [
-"http://facebook.com/wix",
-"https://cookforvthouse.com/",
-"https://cookforvthouse.com/accessibility-statement",
-"https://cookforvthouse.com/donation",
-"https://cookforvthouse.com/endorsements",
-"https://cookforvthouse.com/issues",
-"https://cookforvthouse.com/meet-anthony",
-"https://cookforvthouse.com/privacy-policy",
-"https://cookforvthouse.com/terms-and-conditions",
-"https://support.wix.com/en/article/creating-a-terms-and-conditions-policy",
-"https://wix.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://www.cookforvthouse.com/accessibility-statement"
+},
+{
+"text": "Anthony Cook",
+"href": "https://www.cookforvthouse.com"
+},
+{
+"text": "Creating a Terms and Conditions Policy",
+"href": "https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+},
+{
+"text": "DONATE",
+"href": "https://www.cookforvthouse.com/donation"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.cookforvthouse.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.cookforvthouse.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.cookforvthouse.com/issues"
+},
+{
+"text": "MEET ANTHONY",
+"href": "https://www.cookforvthouse.com/meet-anthony"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cookforvthouse.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.cookforvthouse.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/wix"
+}
 ]

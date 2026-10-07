@@ -1,11 +1,42 @@
 [
-"https://facebook.com/scotrox",
-"https://instagram.com/scotrox",
-"https://secure.actblue.com/donate/scotrox",
-"https://threads.com/@scotrox",
-"https://troxelforutah.com/",
-"https://troxelforutah.com/about",
-"https://troxelforutah.com/donate",
-"https://troxelforutah.com/get-involved",
-"https://troxelforutah.com/platform"
+{
+"text": "About",
+"href": "https://troxelforutah.com/about"
+},
+{
+"text": "Donate",
+"href": "https://troxelforutah.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/scotrox"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/scotrox"
+},
+{
+"text": "Get Involved",
+"href": "https://troxelforutah.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://troxelforutah.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scotrox/"
+},
+{
+"text": "Platform",
+"href": "https://troxelforutah.com/platform"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@scotrox"
+},
+{
+"text": "[image: Scott Troxel for Utah State House District 18]",
+"href": "https://troxelforutah.com/"
+}
 ]

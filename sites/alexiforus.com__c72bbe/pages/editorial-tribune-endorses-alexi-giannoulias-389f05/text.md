@@ -1,4 +1,4 @@
-What do driver’s licenses and vehicle registrations have to do with abortion or Donald Trump?
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Editorial: Tribune endorses Alexi Giannoulias What do driver’s licenses and vehicle registrations have to do with abortion or Donald Trump?
 If that sounds like an absurd question, you were not at our endorsement meeting for the Democratic side of the upcoming primary for Illinois secretary of state.
 One of the two candidates, Chicago City Clerk Anna Valencia, slung mud in the direction of her rival, Alexi Giannoulias, accusing him of Trumpian sympathies just because he wrote an opinion piece in this newspaper in 2016 arguing that the country should come together to help its duly elected president unify a divided country.
 Trump did not return Giannoulias’ favor four years later, of course, but that does not mean the former state treasurer was wrong to take the high road in 2016.
@@ -43,3 +43,7 @@ We’ve no reason to believe he would be anything other than ethical.
 Brady has also said he’ll work to improve the education of risky teenage drivers and fight hard against distracted and drunken drivers, responsible for many deaths of innocent Illinoisans.
 Good.
 That’s why this office is more important than many Illinoisans think.
+Read the endorsement in the Chicago Tribune here.
+Related Posts Democrat Giannoulias Ends Fundraising Quarter with Approximately $3.5 Million on Hand Secretary of State Campaign Amasses Broad-Based Coalition of Support Keep Reading → UFCW Endorsement I’m excited to let you know that I received my first official endorsements from organized labor last week.
+UFCW Local 881, which boasts 34,000 members, Keep Reading → IATSE Endorsement I’m extremely proud to announce that the Illinois International Alliance of Theatrical Stage Employees (IATSE) voted this week to endorse my campaign for Illinois Secretary Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

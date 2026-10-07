@@ -1,16 +1,58 @@
 [
-"https://elections.il.gov/InformationForVoters.aspx?MID=I0cuvBFuZRw%3D",
-"https://ova.elections.il.gov/",
-"https://ova.elections.il.gov/RegistrationLookup.aspx",
-"https://trussellforillinois.com/",
-"https://trussellforillinois.com/contact",
-"https://trussellforillinois.com/contribute",
-"https://trussellforillinois.com/home",
-"https://trussellforillinois.com/make-endorsement",
-"https://trussellforillinois.com/meet",
-"https://trussellforillinois.com/news",
-"https://trussellforillinois.com/photos",
-"https://trussellforillinois.com/privacy-policy",
-"https://trussellforillinois.com/volunteer",
-"https://trussellforillinois.com/vote"
+{
+"text": "Contact",
+"href": "https://www.trussellforillinois.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.trussellforillinois.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.trussellforillinois.com/home"
+},
+{
+"text": "Information for Illinois Voters",
+"href": "https://www.elections.il.gov/InformationForVoters.aspx?MID=I0cuvBFuZRw%3D"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.trussellforillinois.com/make-endorsement"
+},
+{
+"text": "Meet",
+"href": "https://www.trussellforillinois.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.trussellforillinois.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.trussellforillinois.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trussellforillinois.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://ova.elections.il.gov/RegistrationLookup.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trussellforillinois.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.trussellforillinois.com/vote"
+},
+{
+"text": "[image: Stephanie Trussell for IL State Rep 42nd District]",
+"href": "https://www.trussellforillinois.com/"
+}
 ]

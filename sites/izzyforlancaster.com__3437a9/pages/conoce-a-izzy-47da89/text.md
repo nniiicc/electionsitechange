@@ -1,5 +1,4 @@
-CONOCE A IZZY
-Es un orgullos muy grande para Izzy el haber nacido y crecido en la ciudad de Lancaster.
+Conoce a Izzy Problemas Principales Avales Prensa Voluntariado Read in English Donaciones Select Page CONOCE A IZZY Es un orgullos muy grande para Izzy el haber nacido y crecido en la ciudad de Lancaster.
 Su madre era una educadora, miembro del sindicato y madre soltera que crió a Izzy y a su hermano.
 Algunas veces ellos pasaron momentos difíciles, como cuando Izzy tenía nueve años casi pierden el hogar de su infancia, pero su madre siempre se esforzaba por ayudar a los demás, incluso cuando tenía poco para ella.
 Ella le enseñó a Izzy que cuando tienes algo para dar lo das.
@@ -27,10 +26,11 @@ Lo que queremos es que todas las grandes empresas (Willow Valley, 101NQ, Marriot
 Queremos que la riqueza de Lancaster permanezca en la ciudad, que vaya a las personas que se preocupan por Lancaster, y no que cada año $30 millones salgan de la ciudad y vayan a propietarios en otros estados.
 El Lancaster que imaginamos es uno en el que todos contribuímos e empujamos hacia una misma dirección.
 En donde estamos usando esta diversidad y este impulso para exigir algo mejor para todos nosotros.
-Izzy está postulando a representante estatal para continuar con lo que comenzamos aquí en Lancaster.
+Izzy está postulando a representante estatal para continuar con lo que comenzamos aquí en Lancaster .
 No todos los demócratas son iguales.
 Nuestra ciudad necesita a alguien que luche por nosotros en casa y en Harrisburg.
 Necesitamos ayuda, necesitamos de alguien que nos escuche y se organice.
 Lo que tenemos es alguien perforando una tarjeta.
 Izzy no puede prometer que vamos a ganar todas las peleas.
 Pero vamos a defendernos y exigir mejor, y vamos a cumplir mejor.
+Facebook Twitter Instagram Paid for by Friends of Izzy, PO Box 178 Lancaster PA 17608 info@izzyforlancaster.com

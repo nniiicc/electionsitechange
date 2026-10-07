@@ -1,12 +1,10 @@
-New ad launched today in English and Spanish, calling out Vasquez’s work to crack down on predatory pricing, bring down the cost of housing, and protect healthcare from extreme MAGA cuts
-LAS CRUCES, NM– Today, Gabe Vasquez for Congress launched a new digital and television ad for the 2026 cycle, called “I Get It.” The ad, airing in both English and Spanish, shines a light on Vasquez’s bipartisan work to crack down on greedy corporate landlords to bring down the cost of rent and housing, as well as his fight against extreme MAGA cuts to healthcare for hardworking New Mexicans.
+Skip to content Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Facebook Instagram X-twitter DONATE Press Release Gabe Vasquez Has a Message for Hardworking New Mexicans in New Campaign Ad Out Today: “I Get It” September 3, 2026 New ad launched today in English and Spanish, calling out Vasquez’s work to crack down on predatory pricing, bring down the cost of housing, and protect healthcare from extreme MAGA cuts LAS CRUCES, NM– Today, Gabe Vasquez for Congress launched a new digital and television ad for the 2026 cycle, called “I Get It.” The ad, airing in both English and Spanish , shines a light on Vasquez’s bipartisan work to crack down on greedy corporate landlords to bring down the cost of rent and housing, as well as his fight against extreme MAGA cuts to healthcare for hardworking New Mexicans.
 “I get it.
 I was raised by a single mother.
 I know how tough it can be to pay rent and buy groceries,” says democratic nominee and NM-02 incumbent Congressman Gabe Vasquez in the ad.
 “That’s why I worked with Republicans to stop corporate landlords from buying up New Mexico homes and jacking up our rents.
 But I stood up to Republicans when they cut Medicaid and put our hospitals at risk.
-I’m Gabe Vasquez, I’ll work with anyone or stand up to anyone to help New Mexico.”
-Vasquez remains committed to working with — or, when needed, standing up to — both political parties to deliver what is best for New Mexicans, earning him a ranking as one of the most bipartisan members of Congress in the country.
+I’m Gabe Vasquez, I’ll work with anyone or stand up to anyone to help New Mexico.” Vasquez remains committed to working with — or, when needed, standing up to — both political parties to deliver what is best for New Mexicans, earning him a ranking as one of the most bipartisan members of Congress in the country.
 He has worked extensively to crack down on corporate landlords to bring down housing prices for New Mexicans, and he helped pass the most sweeping investment in housing affordability in a generation into law earlier this year on a bipartisan basis.
 To date, Gabe has also earned the endorsements of AFGE Local 1050; AFT New Mexico; Brady PAC; Committee of Interns and Residents of New Mexico; AFSCME Council 18; New Mexico Carpenters Local 1319; CWA Unidos Local 7076; Education Votes; Equality PAC; Giffords PAC; Human Rights Campaign; IBEW Local 611; Latino Victory; League of Conservation Voters; Moms Demand Action Gun Sense Candidate; MoveOn; National Wildlife Action Fund; NRDC Action Fund; National Committee to Preserve Social Security and Medicare; New Mexico State Council of Machinists; New Mexico Federation of Labor; New Mexico Professional Fire Fighters Association; New Mexico State College Dems; The Next 50; Organizers in the Land of Enchantment; Repro Freedom For All; SMART Local 49; Stop Gun Violence PAC; and Young Democrats of New Mexico.
 Gabe is the only Democrat to have won New Mexico’s 2nd Congressional District twice consecutively.
@@ -14,5 +12,12 @@ In 2022, he beat incumbent Yvette Herrell by the tightest margin in the country 
 Last cycle, Gabe again defeated Yvette Herrell, this time by 4%— the same year that Donald Trump won the district by 2% — making him one of just 14 Democrats to win a district that went for Trump in 2024.
 Gabe has continued to win over Democrat, Republican and Independent voters because he is willing to work with anyone to deliver results for New Mexicans on the issues they care most about: lowering the cost of living, expanding access to health care, protecting our public lands, and fixing our broken immigration system.
 In November, he will set another historic record by winning New Mexico’s 2nd Congressional District for a third consecutive cycle.
-Voters can learn more about the campaign and Gabe’s record by visiting www.gabeforcongress.com.
-###
+Voters can learn more about the campaign and Gabe’s record by visiting www.gabeforcongress.com .
+### Share: Join Our Team First Name Last Name Email Zip Code Cell Phone Get Updates By providing your cell phone number you consent to receive recurring updates from Gabe Vasquez for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy.
+Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Gabe Vasquez has represented New Mexico’s 2nd Congressional District in the House of Representatives since 2022.
+He is running for re-election in one of the most competitives races in the nation.
+Support his campaign by making a donation here .
+575-202-8870 [email protected] Facebook Instagram X-twitter contributions can be mailed to: Gabe Vasquez for Congress Drawer L, Mesilla, NM 88046 Media Paid for by Gabe Vasquez for Congress Privacy Policy

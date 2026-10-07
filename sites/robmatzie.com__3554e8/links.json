@@ -1,10 +1,38 @@
 [
-"https://facebook.com/RepMatzie",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/rmatzie",
-"https://robmatzie.com/",
-"https://robmatzie.com/meet-rob",
-"https://robmatzie.com/priorities",
-"https://secure.actblue.com/donate/people-for-matzie-1",
-"https://x.com/RobMatzie"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/people-for-matzie-1"
+},
+{
+"text": "Home",
+"href": "https://robmatzie.com/"
+},
+{
+"text": "Meet Rob",
+"href": "https://robmatzie.com/meet-rob"
+},
+{
+"text": "Priorities",
+"href": "https://robmatzie.com/priorities"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepMatzie"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rmatzie"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/RobMatzie"
+},
+{
+"text": "rob@robmatzie.com",
+"href": "mailto:rob@robmatzie.com"
+}
 ]

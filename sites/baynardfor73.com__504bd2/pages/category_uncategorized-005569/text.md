@@ -1,4 +1,7 @@
-by Landen | Mar 12, 2026 | Uncategorized
-At some point, you stop talking about problems and start asking what you are going to do about them.
+Home About Issues Donate Petition to Qualify Contact Select Page Why I’m Running for Georgia House District 73 by Landen | Mar 12, 2026 | Uncategorized At some point, you stop talking about problems and start asking what you are going to do about them.
 For me, that point came after trying to engage the way a constituent is supposed to.
 Over the past several months, I reached out multiple times to my current...
+Facebook X Instagram RSS Designed by Elegant Themes | Powered by WordPress.com .
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

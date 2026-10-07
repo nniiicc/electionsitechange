@@ -1,7 +1,12 @@
 {
  "description": "Get in touch with Delegate Mary Lehman: Find contact information for queries, concerns, or feedback regarding Maryland's District 21 affairs.",
  "final_url": "https://www.marylehman.com/contact",
- "paid_for_by": null,
+ "fingerprint": "f8a4152fb18eee50a1a08ad395c7f20fd311f596",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Connect and Share Your Concerns in Maryland | Anne Arundel County, MD | Delegate Mary A. Lehman",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024"
+ ]
 }

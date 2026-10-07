@@ -1,90 +1,12 @@
-Bridget Burkhardt
-Vermont State Representative for Chittenden-8
-Clerk of the House Committee on Ways & Means
-Embedded Files
-Hard-working, responsive, analytical leadership for Southeast South Burlington and Southwest Williston
-My name is Bridget Burkhardt, and I am currently serving my first term as the representative for the Chittenden-8 District in the Vermont House of Representatives.
+Search this site Embedded Files Skip to main content Skip to navigation burkhardtforvt.com Home Contact Background burkhardtforvt.com Home Contact Background More Home Contact Background Bridget Burkhardt Vermont State Representative for Chittenden-8 Clerk of the House Committee on Ways & Means Donate Contact Hard-working, responsive, analytical leadership for Southeast South Burlington and Southwest Williston My name is Bridget Burkhardt, and I am currently serving my first term as the representative for the Chittenden-8 District in the Vermont House of Representatives.
 I serve on the House Committee on Ways and Means, which focuses on all legislation that has to do with taxes and the revenues of the state.
 Thank you to the citizens of South Burlington and Williston for trusting me to represent you.
 I can do a better job of representing you when I know what's on your mind.
 Please feel free to reach out any time with thoughts, concerns, questions, and feedback at bburkhardt@leg.state.vt.us or come and see me at weekly office hours listed below.
-"Office Hours"
-Every Wednesday 8:00-9:00am Bliss Bee Cafe, Market Street, South Burlington
-Every Sunday, 10:00-11:00am Barnes & Noble, Dorset Street, South Burlington
-Events
-Senior Center Open House Monday, September 28, 5:00-7:00pm 180 Market Street, South Burlington
-Vermont Summit: Energy, Health & the Economy Tuesday, September 29, 9:00am-3:30pm UVM Davis Center
-South Burlington Democrats Meeting Wednesday, September 30, 5:30-6:30 pm South Burlington Library, Digital Lab
-Building Bright Futures Early Childhood Candidate Forum Thursday, October 8, 2:00-3:30pm The Double E Lounge at The Essex Experience 21 Essex Way, Essex Junction
-Lake Champlain Chamber of Commerce Candidate Mixer Wednesday, October 21, 4:30-6:30pm The Nine Indoor Golf Lounge, 1205 Airport Pkwy, South Burlington
-Vermont Economic Development Authority Annual Luncheon Friday, October 30, 11:00am The Farmhouse at Sunset Pond, 64 Essex Way, Essex Junction
-TV Appearance (Recording)
-Chittenden-8 Candidate Forum Wednesday, September 2 Elections: State Representative Chittenden-8 (South Burlington) Candidate Forum - 9/2/2026
-Recorded Livestreams from 2025-26 Biennium
-House Ways and Means Committee Page
-Selected Laws Passed During the 2025-26 Biennium
-This is not an exhaustive list of all the bills passed by the legislature during the biennium, but rather bills that relate to topics on which I receive the most questions and feedback from constituents.
+"Office Hours" Every Wednesday 8:00-9:00am Bliss Bee Cafe, Market Street, South Burlington Every Sunday, 10:00-11:00am Barnes & Noble, Dorset Street, South Burlington Events Senior Center Open House Monday, September 28, 5:00-7:00pm 180 Market Street, South Burlington Vermont Summit: Energy, Health & the Economy Tuesday, September 29, 9:00am-3:30pm UVM Davis Center South Burlington Democrats Meeting Wednesday, September 30, 5:30-6:30 pm South Burlington Library, Digital Lab Building Bright Futures Early Childhood Candidate Forum Thursday, October 8, 2:00-3:30pm The Double E Lounge at The Essex Experience 21 Essex Way, Essex Junction Lake Champlain Chamber of Commerce Candidate Mixer Wednesday, October 21, 4:30-6:30pm The Nine Indoor Golf Lounge, 1205 Airport Pkwy, South Burlington Vermont Economic Development Authority Annual Luncheon Friday, October 30, 11:00am The Farmhouse at Sunset Pond, 64 Essex Way, Essex Junction TV Appearance (Record ing) Chittenden-8 Candidate Forum Wednesday, September 2 Elections: State Representative Chittenden-8 (South Burlington) Candidate Forum - 9/2/2026 Recorded Livestreams from 2025-26 Biennium House Ways and Means Committee Page Selected Laws Passed During the 2025-26 Biennium This is not an exhaustive list of all the bills passed by the legislature during the biennium, but rather bills that relate to topics on which I receive the most questions and feedback from constituents.
 I tried to give them summary titles to make it easier to find what you're looking for.
 If you want to know how I voted on any of these bills and why, please don't hesitate to reach out.
-Taxes
-Fiscal Year 2026 Yield Bill (Property Taxes) - Act 24
-Fiscal Year 2027 Yield Bill (Property Taxes) - Act 169
-Miscellaneous Tax 2026 - Act 164
-Affordability
-Vermont Prescription Drug Discount Program - Act 132
-Budget
-Fiscal Year 2026 Budget - Act 27
-Fiscal Year 2027 Budget - Act 144
-Fiscal Year 2026 Budget Adjustment - Act 74
-Fiscal Year 2027 Capital Bill - Act 163
-Fiscal Year 2026 Capital Bill - Act 33
-Education
-Education Transformation 2025 - Act 73
-Education Transformation 2026 - Act 170
-Miscellaneous Education 2025 (Includes Cell Phone Ban) - Act 72
-Miscellaneous Education 2026 - Act 160
-Transformation of Career Technical Education - Act 177
-Housing
-Housing Development VHIP and CHIP - Act 69
-Housing and Common Interest Communities - Act 179
-Manufactured Homes and Limited Equity Cooperatives - Act 155
-Health Care
-Freestanding Birth Centers - Act 19
-Reference-Based Pricing - Act 68
-Lowering Hospital Drug Prices - Act 55
-Immunization Recommendations - Act 76
-Licensure for Internationally Trained Physicians - Act 172
-Expansion of Scope for Optometrists - Act 171
-Health Care Payment and Delivery System Reform - Act 68
-Adjustment of Rates by Green Mountain Care Board - Act 49
-Human Services
-Protections for Unaccompanied Youth - Act 136
-Homelessness Response - Act 143
-Environment and Land Use
-Repeal of Portions of Act 181 - Act 152
-Emergency Management and Flood Response - Act 57
-Permitting for Larger Solar Projects - Act 38
-Stormwater Management - Act 37
-Transportation
-Annual Transportation Bill 2026 (Includes MBUF) - Act 168
-Annual Transportation Bill 2025 - Act 43
-Civil Rights
-Restrictions on Cooperation Agreements - Act 28
-Immigration Protocols in Schools - Act 125
-Voter Protections Act - Act 126
-Limits on Arrests in Sensitive Locations - Act 150
-Civil Action for Violation of Civil Rights - Act 87
-Criminal Justice
-Establishment of a Forensic Facility - Act 147
-Technology
-Use of Synthetic Media in Elections - Act 75
-Data Broker Regulation - Act 138
-Municipal Issues
-Williston Charter Change - Act M-12
-Other
-Other Paper Article - March 2026
-Update from the State House - Crossover, Property Taxes, Education Reform
-Your state legislators returned to the State House this week after a break for Town Meeting.
+Taxes Fiscal Year 2026 Yield Bill (Property Taxes) - Act 24 Fiscal Year 2027 Yield Bill (Property Taxes) - Act 169 Miscellaneous Tax 2026 - Act 164 Affordability Tax Credit Expansion - Act 71 Medical Debt Relief - Act 21 Vermont Prescription Drug Discount Program - Act 132 Budget Fiscal Year 2026 Budget - Act 27 Fiscal Year 2027 Budget - Act 144 Fiscal Year 2026 Budget Adjustment - Act 74 Fiscal Year 2027 Capital Bill - Act 163 Fiscal Year 2026 Capital Bill - Act 33 Education Education Transformation 2025 - Act 73 Education Transformation 2026 - Act 170 Miscellaneous Education 2025 (Includes Cell Phone Ban) - Act 72 Miscellaneous Education 2026 - Act 160 Transformation of Career Technical Education - Act 177 Housing Housing Development VHIP and CHIP - Act 69 Housing and Common Interest Communities - Act 179 Manufactured Homes and Limited Equity Cooperatives - Act 155 Health Care Freestanding Birth Centers - Act 19 Reference-Based Pricing - Act 68 Lowering Hospital Drug Prices - Act 55 Immunization Recommendations - Act 76 Primary Care Reform - Act 173 Licensure for Internationally Trained Physicians - Act 172 Expansion of Scope for Optometrists - Act 171 Health Care Payment and Delivery System Reform - Act 68 Adjustment of Rates by Green Mountain Care Board - Act 49 Human Services Protections for Unaccompanied Youth - Act 136 Homelessness Response - Act 143 Environment and Land Use Paraquat Ban - Act 112 Plug-in Solar - Act 149 Repeal of Portions of Act 181 - Act 152 Posting of Land - Act 90 Emergency Management and Flood Response - Act 57 PFAS Phaseout - Act 54 Permitting for Larger Solar Projects - Act 38 Stormwater Management - Act 37 Transportation Annual Transportation Bill 2026 (Includes MBUF) - Act 168 Annual Transportation Bill 2025 - Act 43 Civil Rights Restrictions on Cooperation Agreements - Act 28 Immigration Protocols in Schools - Act 125 Voter Protections Act - Act 126 Limits on Arrests in Sensitive Locations - Act 150 Civil Action for Violation of Civil Rights - Act 87 Criminal Justice Establishment of a Forensic Facility - Act 147 Technology Use of Synthetic Media in Elections - Act 75 Data Broker Regulation - Act 138 Data Privacy - Act 145 Municipal Issues Williston Charter Change - Act M-12 Other Unclaimed Property and Higher Ed Trust Fund - Act 131 Protection for Victims of Coerced Debt - Act 106 Other Paper Article - March 2026 Update from the State House - Crossover, Property Taxes, Education Reform Your state legislators returned to the State House this week after a break for Town Meeting.
 We are now finishing up committee work on legislation in order to meet deadlines for “crossover” – the date by which legislation that started in the House must be voted out and sent to the Senate and vice versa.
 The crossover deadline for policy bills is March 13, and for money bills March 20.
 If you would like to provide feedback on any of the bills we are working on before crossover, time is running out to reach out to your representatives and senators.
@@ -109,16 +31,13 @@ Representative Brady and I have introduced a bill (H.886) that would require the
 The formula as written in Act 73 accounts for structural cost differences in districts that are small by necessity or in sparsely populated areas, but it ignores regional cost differences.
 Many other states like Maine, Colorado, and New York adjust their funding formulas for differences in costs in different parts of their states.
 If we are going to make a generational change in the way we fund our schools, we need to take the time to get it right, and we need to make sure that we are not damaging the very public school districts that are already operating closest to the model envisioned in the governor’s education reform proposals.
-Town Meeting Update 2026
-Dear South Burlington and Williston,
-I am honored to serve the residents of southeast South Burlington and southwest Williston as your representative in the Vermont General Assembly.
+Town Meeting Update 2026 Dear South Burlington and Williston, I am honored to serve the residents of southeast South Burlington and southwest Williston as your representative in the Vermont General Assembly.
 As we are eight weeks into the second session of the legislative biennium, I wanted to provide a brief update on our work and let you know where to find more information on the topics that interest you.
 In case you need a refresher, the Vermont General Assembly consists of 150 representatives and 30 senators who are elected to two-year terms.
 In the House, we are each assigned to one committee where we work on legislation prior to a vote by the whole body.
 Our work includes reviewing data and reports, discussing the potential impact of proposed legislation, and taking testimony from experts, advocates, community members, the Joint Fiscal Office, state agencies and departments, and others.
 I serve on the House Ways and Means Committee, which crafts legislation related to taxes, fees, and other issues that impact the revenues of the state.
-Ways and Means
-The Ways and Means Committee is working to finalize the annual “yield” bill that determines education property taxes.
+Ways and Means The Ways and Means Committee is working to finalize the annual “yield” bill that determines education property taxes.
 We continue to review different possible scenarios while we await school budget votes that will confirm the amount of funding we need to raise.
 These are unstable times, and property taxes will likely remain challenging while we continue to work through education transformation.
 We are committed to doing everything we can to stabilize and lower Vermonters’ property tax bills this year while maintaining essential public services and quality public education opportunities for our children.
@@ -128,28 +47,27 @@ If you have children under seven, you may be eligible for up to $1,000 more per 
 You may also be eligible for a credit on your property taxes when you file your homestead declaration.
 Vermont has volunteer tax preparers all over the state who are ready to help you file your taxes for little or no cost.
 Go to TaxCreditsVT.org for more information about Vermont’s tax credits and how to file for them.
-House Education Committee has heard testimony from Vermont Superintendents, principals, and many other education stakeholders as the committee continues to work on Act 73.
+Education House Education Committee has heard testimony from Vermont Superintendents, principals, and many other education stakeholders as the committee continues to work on Act 73.
 They are also considering the important work of the Commission on the Future of Public Education and the hours of public input provided to the Redistricting Task Force.
 In addition to debating new school district boundaries, the committee is also considering the use of cooperative shared service areas to achieve cost savings and enough scale for all districts to provide the services our public school students need.
 Many factors are part of the redistricting debate including whether the new district structure will include a combination of supervisory unions and school districts, or be all one or the other.
 Each model has its own merits and drawbacks, but the goals of Act 73 are clear: fewer districts, minimum class sizes, and a streamlined educational system that benefits our students and slows the growth of education spending and the rise in property taxes we all pay.
-The Health Care Committee continues its work to find ways to reduce the cost and maximize access to quality health care in Vermont.
+Health Care The Health Care Committee continues its work to find ways to reduce the cost and maximize access to quality health care in Vermont.
 Based on laws passed in the last legislative session, the system is projected to see a $230,000,000 reduction in costs in the current fiscal year.
 The savings come mostly from a reduction in what hospitals can charge for drugs prescribed in an out-patient setting.
 This change alone was estimated to keep the increase in health insurance costs to our public education system to single digits this year versus the double-digit increases that had become the norm in recent years.
 The committee continues to take testimony on cost drivers and potential savings in health care, including the implementation of referenced-based pricing.
 They are working to save money for Vermont seniors who are on Medicare and who utilize out-patient services from critical access hospitals.
 Blue Cross and Blue Shield, the Department of Financial Regulation, The Green Mountain Care Board, the Vermont hospitals (including UVM), and the Health Care Advocate are actively collaborating to reduce the cost of health care and lower insurance premiums for Vermonters.
-The General and Housing Committee is working to find ways to build more housing, especially affordable housing, in Vermont and to increase access to rental housing.
+Housing The General and Housing Committee is working to find ways to build more housing, especially affordable housing, in Vermont and to increase access to rental housing.
 Two key pieces of legislation the committee has developed are H.757 and H.772.
-H.757, addresses inconsistencies and misconceptions regarding manufactured homes (formerly known as “mobile homes”) and resident-owned manufactured home cooperatives.
+H.757 , addresses inconsistencies and misconceptions regarding manufactured homes (formerly known as “mobile homes”) and resident-owned manufactured home cooperatives.
 Among other changes, the bill recognizes manufactured homes as permanent structures rather than movable personal property.
 The bill improves affordability and financing by eliminating the sales tax at the time of purchase and establishes a consistent process for issuing a quitclaim deed, enabling the homes to be treated as real estate.
 These changes make manufactured homes more attractive to lenders, allowing more reasonable interest rates and loan terms that lower borrowing costs for buyers.
 H.772 works to find an equitable balance between landlord and tenant rights relating to leases and eviction procedures.
 This bill creates a process for good-cause evictions, shortens the eviction process when it is the only course of action, makes certain records confidential, creates a pilot program for positive rental-payment credit reporting, and authorizes technical assistance for landlord-tenant conflicts through the Champlain Valley Office of Economic Opportunity.
-Appropriations
-The Appropriations Committee recently finished its work on the annual, mid-year Budget Adjustment Act (BAA) in which the current year’s budget is updated to better reflect updated income and expenditures.
+Appropriations The Appropriations Committee recently finished its work on the annual, mid-year Budget Adjustment Act (BAA) in which the current year’s budget is updated to better reflect updated income and expenditures.
 The BAA also allows the legislature to respond to emergent needs that arise between the passage of the current fiscal year and next year’s budgets.
 The most significant adjustment this year is the use of $5 million of state funds to protect the state’s reserve of Section 8 vouchers from further erosion, given anticipated program underfunding.
 The state dollars are coming from funds set aside in the 2026 budget for the purpose of responding to disruptions to Federal funding.
@@ -163,20 +81,17 @@ In light of these pressures, the legislature is focused on funding top prioritie
 Basic needs, such as food, housing, and health care are top-of-mind for many in our state.
 There are also long-term investments to be considered, such as road paving, bridge projects, and support for school reconstruction.
 Amidst these challenges, the Appropriations Committee is working to craft a fiscally responsible, balanced budget that will best serve the needs of Vermonters.
-Agriculture, Food Resiliency, & Forestry
-While the U.S. often lags behind other countries in regulating pesticides and chemicals, Vermont has been a leader in protecting our environment and food supply.
-The House is considering several bills designed to strengthen these protections:
-To help newborn babies have a healthy start, it is critical to protect them from lead and other toxic chemicals.
+Agriculture, Food Resiliency, & Forestry While the U.S. often lags behind other countries in regulating pesticides and chemicals, Vermont has been a leader in protecting our environment and food supply.
+The House is considering several bills designed to strengthen these protections: To help newborn babies have a healthy start, it is critical to protect them from lead and other toxic chemicals.
 H.536 requires regular testing of baby food for heavy metals to ensure they do not exceed FDA limits and sets up a process to make the testing results available to consumers.
 Several states have already enacted similar bipartisan legislation, though Vermont would lead the way by including infant formula.
-H. 739 would prohibit the use of paraquat, a highly toxic herbicide that has been linked to Parkinson’s Disease.
-Paraquat is banned in much of the world, including the E.U. and China, but is widely used in the U.S.
-(including Vermont) to suppress weed growth in orchards and other crops.
+H.
+739 would prohibit the use of paraquat, a highly toxic herbicide that has been linked to Parkinson’s Disease.
+Paraquat is banned in much of the world, including the E.U. and China, but is widely used in the U.S. (including Vermont) to suppress weed growth in orchards and other crops.
 The legislature will consider a wide variety of expert testimony on the risks to human health and the impact a ban would have on Vermont agriculture as it determines how to proceed.
 Agriculture has traditionally been the backbone of Vermont’s economy and culture, and farmers have historically been able to grow crops and raise livestock without being subject to the same local regulations that other businesses might need to comply with.
-The House is working on legislation, H.537, that would clarify when municipal governments can apply bylaws and ordinances to farmers who make their living off the land, as well as to everyday Vermonters who just want to be able to garden or raise small amounts of food.
-Commerce & Economic Development
-H.211 (an update to Act 171 of 2018, the nation's first data-broker law) limits data brokers’ ability to sell Vermonters’ data by updating enforcement and penalties that can be levied on brokers.
+The House is working on legislation, H.537 , that would clarify when municipal governments can apply bylaws and ordinances to farmers who make their living off the land, as well as to everyday Vermonters who just want to be able to garden or raise small amounts of food.
+Commerce & Economic Development H.211 (an update to Act 171 of 2018, the nation's first data-broker law) limits data brokers’ ability to sell Vermonters’ data by updating enforcement and penalties that can be levied on brokers.
 It also calls for a study to create an opt-out and deletion mechanism for consumers, similar to the California Delete Act.
 H.385 prohibits coerced debt, and provides protections and remedies for its victims.
 Coerced debt is incurred due to deception, fraud, or manipulation by the debtor.
@@ -184,43 +99,40 @@ H.512 enhances consumer protection in the event-ticket reselling market by preve
 H.205 restricts the use of non-compete agreements at the end of employment, except in certain situations where high-level employees have access to a company’s proprietary information.
 This bill also balances the rights of employers and employees by defining and limiting exemptions for stay-or-pay provisions in employment contracts, which could include repayment for education, sign-on bonuses, or relocation expenses.
 H .674 establishes a Sister State Program for Vermont, run by the Agency of Commerce and Community Development, which will enhance trade, educational opportunities and cultural exchange with chosen nations and sub-nations.
-Corrections & Institutions
-The Vermont Medicaid Re-entry Program will serve as a bridge between being incarcerated and returning to one’s community.
-This program is made possible through a Medicaid Section 1115 waiver, which allows states to bypass federal Medicaid rules to test innovative, experimental, or pilot projects that align with program goals, such as improving care or lowering costs. 1115 waivers must be budget-neutral, meaning they cannot cost the federal government more than what would have been spent without the waiver.
+Corrections & Institutions The Vermont Medicaid Re-entry Program will serve as a bridge between being incarcerated and returning to one’s community.
+This program is made possible through a Medicaid Section 1115 waiver, which allows states to bypass federal Medicaid rules to test innovative, experimental, or pilot projects that align with program goals, such as improving care or lowering costs.
+1115 waivers must be budget-neutral, meaning they cannot cost the federal government more than what would have been spent without the waiver.
 Last fall, the Governor and the mayor of Burlington agreed on a fourteen-point plan to address crime in and around Burlington.
 Part of this plan involved temporarily dedicating additional resources (reassigning a prosecutor, bringing a judge out of retirement, setting aside courtroom 3B of the Costello Courthouse) to quickly process the relatively small number of accused offenders who are responsible for an inordinate number of outstanding cases.
 The Chittenden “Accountability Court” has been viewed as a tremendous success.
 H.635 is a bill that eliminates a supervisory fee imposed by the Department of Corrections.
 We are correcting issues with this pre-existing law because it puts an undue burden on recently incarcerated individuals, and the majority of supervised people are in arrears on these fees, which then costs more money to administer the fee than it actually brings in.
 The bill passed unanimously out of our committee, and Ways & Means, and is coming to the House floor for a vote.
-Energy & Digital Infrastructure
-Vermont’s investment in energy efficiency and renewable energy over the past decades has helped to reduce climate pollution and reliably keep our electric rates among the lowest in New England.
+Energy & Digital Infrastructure Vermont’s investment in energy efficiency and renewable energy over the past decades has helped to reduce climate pollution and reliably keep our electric rates among the lowest in New England.
 But cost pressures from federal policy rollbacks, multi-state transmission upgrades, and growing power needs for artificial intelligence threaten affordability and climate progress.
 Heating and transportation still depend primarily on fossil fuels, which consume three-quarters of Vermont’s energy spending, fluctuate wildly in price, and destabilize our climate and economy.
-An excellent overview of Vermont’s energy picture is Energy Action Network's annual report.
+An excellent overview of Vermont’s energy picture is Energy Action Network's annual report .
 The key takeaway: household by household, when we invest in energy efficiency, from weatherizing homes to driving electric vehicles, we help Vermonters achieve measurable and durable savings over time.
-A few facts from the EAN report:
-- Vermonters spend over $2 billion per year on fossil fuels.
+A few facts from the EAN report: Vermonters spend over $2 billion per year on fossil fuels.
 With no state regulation of fossil-fuel prices, the cost can vary wildly for consumers.
 From 2021 to 2022, the price of fuel jumped 38 percent.
-- Electrification can bring down overall household energy costs, even if your electricity bill increases.
+Electrification can bring down overall household energy costs, even if your electricity bill increases.
 A family that heats with propane and buys vehicle gas at the pump, for example, can save $1,600 a year on its energy bill by switching to an EV and heat pumps.
-The House passed H.527, a bill to extend a streamlined process for siting telecom facilities, primarily cell phone and radio towers.
+The House passed H.527 , a bill to extend a streamlined process for siting telecom facilities, primarily cell phone and radio towers.
 Especially in rural areas, poor cell coverage presents a safety issue for residents and travelers, an economic issue for communities, and an equity issue for folks who rely on cellphone connectivity to access services.
 Determining the best locations for towers is a complex process that’s too difficult for towns and community members to engage in.
 This bill, now in the Senate, requires the Public Utilities Commission to recommend ways to make it easier for towns and the public to meaningfully participate in local siting decisions.
-The House passed H.710, now in the Senate, which updates the rules on expansions at existing electric-generation facilities.
+The House passed H.710 , now in the Senate, which updates the rules on expansions at existing electric-generation facilities.
 By requiring separate infrastructure — like access roads and utility poles — Vermont law currently makes it hard to build solar arrays next to one another.
 This bill makes it easier to build new renewables on already-developed sites.
 It’s a “solar smart-growth” approach that lowers the cost of renewable power, eliminates the need for more roads and poles, and promotes better land-use decisions.
 As the race to power artificial intelligence heats up around the country, House legislators are working to ensure that any proposed data centers in Vermont are built responsibly, given their enormous power and water needs.
 Although there are no large data centers proposed in Vermont yet, H.727 strengthens regulation of large-load facilities by considering the environmental and cost impacts.
-Environment
-The House Committee on Environment heard testimony on potential impacts of federal administration actions; the modernization of Act 250; producer responsibility for products including tires, hazardous waste, and bottles; and wildlands conservation.
+Environment The House Committee on Environment heard testimony on potential impacts of federal administration actions; the modernization of Act 250; producer responsibility for products including tires, hazardous waste, and bottles; and wildlands conservation.
 Vermont has over 1,000 dams across the state, some of which are regulated by the state and some regulated by the federal government.
 High-hazard dams are those that pose risk to human lives if they were to fail; this classification does not take into account the current condition of the dam, and does not mean that they are at high risk of failure.
 We have 77 high-hazard, state-regulated dams in Vermont.
-The committee passed H.778, an act relating to dam safety, that would ensure Vermont’s Division of Emergency Management provides needed support to municipalities downstream of high-hazard dams to develop emergency operations plans so that emergency responders and municipal and state officials have a coordinated communication, evacuation and response plan in the highly unlikely but very dangerous scenario of a dam failure or emergency release from a dam.
+The committee passed H.778 , an act relating to dam safety, that would ensure Vermont’s Division of Emergency Management provides needed support to municipalities downstream of high-hazard dams to develop emergency operations plans so that emergency responders and municipal and state officials have a coordinated communication, evacuation and response plan in the highly unlikely but very dangerous scenario of a dam failure or emergency release from a dam.
 There is a renewed effort to pass a bill to modernize Vermont’s bottle redemption system, which would create a producer responsibility organization (PRO) —a common tool for ensuring producer responsibility for the life cycle of certain products.
 This PRO would ensure more convenient and efficient bottle redemption options for Vermonters, including a minimum of three bottle redemption centers per county and one per municipality (over 7,000 people); modernize the equipment utilized for redemption collection and sorting; and reduce manual sorting at redemption centers.
 A portion of the escheats (unclaimed bottle deposits) would be utilized to fund the needed investments in equipment and technology.
@@ -232,8 +144,7 @@ If any sign is damaged, missing, or incorrectly dated, it may be considered to n
 In addition, the land posting must be registered with the town clerk, annually, for a $5 fee.
 This can be difficult for landowners who have mobility or health limitations, as not only do the signs need to be posted or dated annually, but also monitored regularly to ensure effectiveness.
 H.723 addresses these challenges and reduces conflicts between landowners and hunters by eliminating dates on postings, allowing purple paint to be used in addition to signs, continuing to require annual registration with the town clerk, and recognizing posted land despite minor imperfections such as an occasional missing or damaged sign.
-Government Operations & Military Affairs
-H.67 represents a collaborative effort between the legislature, the administration, and the state auditor’s office to create a panel of legislators to work in conjunction with committee chairs to regularly review legislation on the progress and effectiveness of laws passed.
+Government Operations & Military Affairs H.67 represents a collaborative effort between the legislature, the administration, and the state auditor’s office to create a panel of legislators to work in conjunction with committee chairs to regularly review legislation on the progress and effectiveness of laws passed.
 The evaluation tools and scope of oversight will be determined by the members of the committee, and will be set up as a two-year pilot.
 This is an important step to check that legislative intent and funding is being followed and implemented as originally intended.
 A bill regarding Emergency Management and Disaster Relief strengthens Vermont’s disaster relief and emergency management by creating a microgrant fund for fire departments, urban search and rescue, and emergency medical services to provide ongoing training and specialty equipment.
@@ -241,7 +152,7 @@ This fund will be especially important this year as Vermont manages the aftermat
 Vermont experts from the Communications working group, Enhanced 9-1-1, fire wardens, the Vermont Department of Public Safety, Vermont’s Chief Recovery Officer, and municipalities are all contributing to the development of this legislation.
 As a committee of jurisdiction, Government Operations and Military Affairs helped guide the Adjutant General election process and will continue to support the Guard through this transition.
 In addition, the committee is working to support members and their families through several potential pieces of legislation, including bills allowing any service member with a disabled veteran plate to park in a metered spot without charge; defining what it means to be a Gold Star family in statute to ensure access to vital benefits, maximizing access to moneys and programs for all veterans; and improving access to open state government positions for spouses of service members.
-The Vermont House of Representatives passed H.545, a bill that authorizes the Vermont Department of Health to recommend immunization schedules that may vary from those reported by the current Centers for Disease Control and Prevention.
+Human Services The Vermont House of Representatives passed H.545 , a bill that authorizes the Vermont Department of Health to recommend immunization schedules that may vary from those reported by the current Centers for Disease Control and Prevention.
 The Vermont Commissioner of Health will receive recommendations from the Vermont Immunization Advisory Council.
 Immunizations are a personal and family matter, and this bill does nothing to alter that.
 It doesn’t require anyone to be vaccinated—or not vaccinated.
@@ -256,12 +167,10 @@ At the same time, the early childhood workforce is growing, up 8.5% from 2022 to
 While more work remains, especially for infant and toddler capacity and continued workforce supports, the latest monitoring and workforce reports show this long-term investment is delivering meaningful benefits for children, families, and Vermont’s economy.
 Link to Child Care Editorial By Rep.
 Wood and Rep.
-Garofano
-Judiciary
-The House passed H.541, an act relating to interference with voters and election officials, which was drafted in coordination with the Vermont Secretary of State to protect the integrity of our elections and the safety of election workers and volunteers.
+Garofano Judiciary The House passed H.541 , an act relating to interference with voters and election officials, which was drafted in coordination with the Vermont Secretary of State to protect the integrity of our elections and the safety of election workers and volunteers.
 The bill creates a new criminal statute aimed at targeting those who would interfere with voters, election officials, or the electoral process in Vermont.
 In these uncertain times, we must take proactive steps to protect our institutions of democracy.
-The House Judiciary committee passed H.578, a bill relating to penalties and procedures for animal cruelty offenses.
+The House Judiciary committee passed H.578 , a bill relating to penalties and procedures for animal cruelty offenses.
 The law and infrastructure related to animal cruelty and the seizure of animals who have been abused is antiquated and under-supported in Vermont.
 This bill aims to update the criminal statute to expand the scope of what is considered animal cruelty and develop criminal penalties that better address the harms being done to animals in our state.
 The bill also reworks the civil animal forfeiture laws to expedite and streamline the process to better protect at-risk animals and alleviate some of the financial burden taken on by shelters and volunteers who step in to help the state protect abused animals.
@@ -279,7 +188,7 @@ A recent Vermont Supreme Court case involving two young Vermont women who were f
 H.626 updates our voyeurism laws to better reflect the realities of how image-based abuse plays out in the digital era.
 The bill also creates a criminal statute prohibiting sexual extortion (sextortion), a form of image-based abuse often committed through social media and disproportionately affecting young Vermonters.
 Both provisions provide increased accountability and a clearer pathway for victims to seek justice.
-As the House Committee on Transportation reviews the annual Transportation Bill, it remains focused on the declining revenue coming into the Agency of Transportation (AOT) due to slowing gas-tax revenues and soft purchase-and-use fees.
+Transportation As the House Committee on Transportation reviews the annual Transportation Bill, it remains focused on the declining revenue coming into the Agency of Transportation (AOT) due to slowing gas-tax revenues and soft purchase-and-use fees.
 As Vermont continues its commitment to decreasing greenhouse gas emissions through electric vehicle (EV) adoption, gas-tax revenues decline.
 Electric vehicles pay an additional registration fee (currently funding installation of EV charging stations), but the mileage-based user fee (proposed to charge EVs a fee commensurate with the gas tax) is still in development.
 Federal and state EV purchase incentives, which boosted car sales, were halted last year.
@@ -290,9 +199,7 @@ Legislative action last session ensured that funds for town roads and structures
 However, these funds are insufficient to meet the needs of municipalities, and are already committed through 2035, meaning no new projects can be added to the list.
 And while AOT funds for local projects like sidewalks and bike lanes have brought great economic and social benefits to towns, funds for these projects remain severely limited.
 The committee continues to explore ways to shore up revenue and reduce costs while continuing to meet the state’s climate and resiliency goals.
-Other Paper Article - February 2026
-Update from the State House - HR1, Education Reform
-The 2026 legislative session is well underway.
+Other Paper Article - February 2026 Update from the State House - HR1, Education Reform The 2026 legislative session is well underway.
 Your legislators have been back in the State House for almost five weeks.
 Because this is the second year of the two-year legislative cycle (a “biennium” in Montpelier jargon), there is extra urgency to our work.
 Any legislation that does not pass this session has to start the legislative process from scratch in a future biennium if it is to become law.
@@ -324,29 +231,21 @@ However, the Governor has promised to veto the state budget until we adopt a map
 Several maps are starting to make their way through the relevant committees.
 I cannot predict how the education reform work will playout, but I can promise you that I will approach it as I do all education-related work – with a clear focus on what is best for children, their families, and taxpayers.
 I would love to hear your feedback on these or any other issues that are a priority for you at bburkhardt@leg.state.vt.us.
-Town Meeting Update 2025
-Thank you for allowing me to represent you in Montpelier.
+Town Meeting Update 2025 Dear South Burlington and Williston, Thank you for allowing me to represent you in Montpelier.
 We are now eight weeks into the new biennium.
 After spending several weeks getting 50 new members of the House (including me!) up to speed, the pace of work has increased dramatically in the last few weeks.
-Your legislature remains committed to the priorities we laid out at the beginning of the session:
-- Education - improving quality and equity while designing a more sustainable funding system
-- Health Care - increasing access and affordability
-- Housing - growing our affordable housing stock and making sure all Vermonters have access to permanent housing
-- Tax Relief - slowing the growth in property taxes and building a more sustainable and equitable tax system
-These priorities were set to help us build a Vermont where everyone can thrive.
-We are working toward a Vermont where:
-- Every child, regardless of zipcode, has access to the educational and support services they need to become active, engaged, and contributing members of our communities.
-- Everyone has access to the high-quality, affordable health care they need to stay healthy and productive.
-- There is enough housing for our existing community members and the new community members we need to attract to keep our economy thriving and to provide the services we need.
-- Taxes are predictable, manageable, and equitable.
+Your legislature remains committed to the priorities we laid out at the beginning of the session: Education - improving quality and equity while designing a more sustainable funding system Health Care - increasing access and affordability Housing - growing our affordable housing stock and making sure all Vermonters have access to permanent housing Tax Relief - slowing the growth in property taxes and building a more sustainable and equitable tax system These priorities were set to help us build a Vermont where everyone can thrive.
+We are working toward a Vermont where: Every child, regardless of zipcode, has access to the educational and support services they need to become active, engaged, and contributing members of our communities.
+Everyone has access to the high-quality, affordable health care they need to stay healthy and productive.
+There is enough housing for our existing community members and the new community members we need to attract to keep our economy thriving and to provide the services we need.
+Taxes are predictable, manageable, and equitable.
 To date, the major piece of legislation that has passed from the House to the Senate is the Budget Adjustment Act.
 The BAA, as it is known, reviews the revenues and expenses of the state at the midpoint of the fiscal year and redirects certain funds for the remainder of the fiscal year (which ends on June 30) based on changes that have happened since the budget was passed last spring.
 The House version of the BAA was very close to the original proposal from the Governor’s team, with some small changes.
 The Senate made additional small changes last week and passed its own version.
 The two bodies will now have a “committee of conference” to iron out the differences between the two versions before both bodies vote on the final bill that will go back to the Governor.
 We hope to pass the BAA to the Governor within a week or so after town meeting break.
-EDUCATION: Designing Governance, Delivery, and Funding Systems for the Future
-In Vermont, the right to a public education is enshrined in our state constitution.
+EDUCATION: Designing Governance, Delivery, and Funding Systems for the Future In Vermont, the right to a public education is enshrined in our state constitution.
 Public schools are one of the few places in our society where children of all backgrounds and experiences come together to learn from each other and grow side by side.
 Vermont’s education system, which has been a point of pride for our state throughout its history, faces many challenges including disparities in resources between school districts, declining student enrollment, aging infrastructure, increasing needs for special education services, and growing needs for mental health supports and other social services.
 Your legislature is dedicated to building an education system that meets the needs of today’s students and sets them on a path for success in their adult lives by providing them with high-quality education and support services funded in a way that is sustainable for our communities.
@@ -374,8 +273,7 @@ House Commerce & Economic Development is reviewing our career technical educatio
 House Agriculture has taken extensive testimony regarding the Governor’s proposal to end the Universal School Meals program and is advocating that the program be maintained.
 House Health Care is working on slowing the growth in health care premiums for all Vermonters, which would help lower the increase in education spending, since a significant portion of spending relates to employee benefits.
 The careful work we are doing will take time, which we are willing to invest so that we do not break the system as we try to improve it.
-HEALTH CARE: Increasing Access and Affordability
-The House Committee on Health Care has taken extensive testimony and received updates from across Vermont’s Healthcare system: private and public organizations, hospitals, advocates, consumers, rate payers and insurers.
+HEALTH CARE: Increasing Access and Affordability The House Committee on Health Care has taken extensive testimony and received updates from across Vermont’s Healthcare system: private and public organizations, hospitals, advocates, consumers, rate payers and insurers.
 These testimonies have illuminated that Vermont’s system of care is at a fragile point.
 We are facing major workforce shortages, provider financial strain, access issues and increasing demand for more acute services.
 Without swift and meaningful intervention, key parts of our system will fracture, limiting access to quality care for all Vermonters.
@@ -387,8 +285,7 @@ Current requirements often prompt the CON process, which can be expensive, stifl
 By adjusting monetary thresholds, H-96 seeks to balance oversight with efficiency and improve access.
 As we move forward in the session we will be working on legislation that focuses on a long term strategy to address cost, insurer stability, affordability and access.
 Vermonters deserve to receive the care they need, in the appropriate setting, at the right time, for a price they can afford.
-HOUSING: Meeting the Needs of Current and Future Vermonters
-The General and Housing Committee is working across multiple committees to fight a housing crisis that underpins Vermont’s severe workforce shortage and alarming rate of homelessness.
+HOUSING: Meeting the Needs of Current and Future Vermonters The General and Housing Committee is working across multiple committees to fight a housing crisis that underpins Vermont’s severe workforce shortage and alarming rate of homelessness.
 The Committee is working on two fronts: deregulation for building homes in urban and village centers and leveraging our state dollars into creative and time-tested financing of homes for lower and middle-income Vermonters.
 On the permitting front, we are building upon 2024’s legislation, streamlining local zoning and state permitting processes in designated regions and for pre-approved home designs, to speed up building and lower construction costs.
 In terms of investments, we are developing innovative financing tools to overcome municipalities’ challenges of developing housing infrastructure like water and sewer and working on rehabilitation and weatherization of our rentals and our farm worker housing.
@@ -398,26 +295,21 @@ This includes providing affordable, accessible housing options for our workforce
 Additionally, we are prioritizing housing solutions for seniors, many of whom need safe, affordable homes with the necessary services and supports to age in place.
 Finally, to help our most vulnerable populations meet immediate needs, we are discussing funding programs that provide housing and home services for Vermonters with disabilities and for our seniors.
 With these immediate and longer-term goals in mind, the House Committee on General and Housing is presenting its budget recommendations to the Appropriations Committee, and writing its omnibus Housing Bill based on joint hearings with its partner committee in the Senate, having taken testimony from stakeholders around the state, and folding in language from the Governor’s housing proposal.
-TAX RELIEF: Creating a Fairer and More Sustainable Tax System
-The committee on which I serve, Ways & Means, has been looking at several proposals that would make our tax system more affordable for low- and middle-income households, fairer to all taxpayers, and better structured to support education and other state responsibilities into the future.
-Legislation that we have been working on so far includes:
-- A bill to establish a statewide system of property reappraisals that will update the state’s grand list on a more consistent and frequent basis, which is critical for a fair and equitable statewide education tax.
-- Legislation that would divide the non-homestead property grand list into more categories so that different types of property within the non-homestead category could be taxed more fairly.
+TAX RELIEF: Creating a Fairer and More Sustainable Tax System The committee on which I serve, Ways & Means, has been looking at several proposals that would make our tax system more affordable for low- and middle-income households, fairer to all taxpayers, and better structured to support education and other state responsibilities into the future.
+Legislation that we have been working on so far includes: A bill to establish a statewide system of property reappraisals that will update the state’s grand list on a more consistent and frequent basis, which is critical for a fair and equitable statewide education tax.
+Legislation that would divide the non-homestead property grand list into more categories so that different types of property within the non-homestead category could be taxed more fairly.
 For example, second homes could be taxed at a different rate than affordable rentals.
-- Consideration of adjustments to the income and property value limits in the Property Tax Credit program that have been in statute since 1997.
-- Equitable ways to use one-time surplus funds in the General Fund to “buy down” statewide property taxes for FY2026.
-- Proposals to increase tax relief for low-income households by increasing the Earned Income Tax Credit (EITC) and increasing the age limit for the Child Tax Credit.
+Consideration of adjustments to the income and property value limits in the Property Tax Credit program that have been in statute since 1997.
+Equitable ways to use one-time surplus funds in the General Fund to “buy down” statewide property taxes for FY2026.
+Proposals to increase tax relief for low-income households by increasing the Earned Income Tax Credit (EITC) and increasing the age limit for the Child Tax Credit.
 The committee has also spent significant time digging into the details of the Governor’s education funding proposals.
 We expect to devote additional time after the break creating a funding proposal that reflects the current structure of our school system and is flexible enough to adapt as reforms are implemented in the future.
 I look forward to providing additional updates on Front Porch Forum, articles in The Other Paper and The Williston Observer, and drop in “office hours” on Saturdays (when my boys’ soccer schedule permits!).
 Please don’t hesitate to reach out any time at bburkhardt@leg.state.vt.us if you have questions, concerns, or input.
-Other Paper Article - March 2025
-Take the Time to Get Education Reform Right
-Despite the urgent need for property tax relief, we need to take the time to get education transformation right.
+Other Paper Article - March 2025 Take the Time to Get Education Reform Right Despite the urgent need for property tax relief, we need to take the time to get education transformation right.
 Our children’s futures, the state’s economic viability, and our ability to sustain a workforce to provide the services our communities need all depend on our ability to build a stronger, more sustainable K-12 education system.
 In order to build that system, we must first recognize how we got here.
-The pressure on property taxes comes from several directions:
-First, significant federal funding was provided during and after the pandemic to help schools manage the crisis.
+The pressure on property taxes comes from several directions: First, significant federal funding was provided during and after the pandemic to help schools manage the crisis.
 That funding has now ended, but schools are still dealing with the post-Covid reality of more challenging student behavior and significant learning gaps between different groups of students that were exacerbated by the pandemic.
 Schools are faced with the choice of asking local taxpayers for more funds to maintain staff who were hired to provide additional supports, reducing regular educational opportunities, or reducing the additional supports despite the ongoing need for them.
 Second, underlying costs over which districts have limited or no control continue to skyrocket.
@@ -441,9 +333,7 @@ While certain types of services may be provided best in schools because they are
 A sustainable school funding system must recognize these challenges and the others faced by our school system.
 The governor’s proposed foundation formula is based on a hypothetical prototype school system that does not exist in Vermont.
 If we do not take the time to dig deeper and build a funding formula that is flexible enough to start from our current reality and adjust over time as careful, thoughtful changes are made to our education governance and delivery systems, we will fail to save taxpayers money and fail provide our children with the educational opportunities they need to thrive.
-Other Paper Article - February 2025
-House Ways and Means Committee Focused on Education Funding Reform
-We are one month into the legislative session, and the House is hard at work on a number of issues that are critical to the future of our state.
+Other Paper Article - February 2025 House Ways and Means Committee Focused on Education Funding Reform We are one month into the legislative session, and the House is hard at work on a number of issues that are critical to the future of our state.
 I am delighted to be serving on the House Committee on Ways and Means.
 For those of you who always wondered, the Committee on Appropriations is tasked with refining and approving budgets for state agencies and other organizations that are funded by the state.
 Ways and Means is the committee that works on changes to the structure of taxes and fees that raise the revenue to fund those budgets.
@@ -480,9 +370,8 @@ In addition to education funding, the committee has spent the past few weeks rev
 The Budget Adjustment Act (BAA) is an annual bill that is typically passed early in the legislative session.
 The bill makes changes to the budget that was passed for the current fiscal year (which ends on June 30) based on changes to revenue and expenditures through the first several months of the fiscal year.
 This year’s BAA is expected to come to the floor for a vote this week.
-Please feel free to reach out any time with questions or concerns at bburkhardt@leg.state.vt.us.
-Other Paper Article - December 2024
-Thank you to the South Burlington and Williston communities for your support during my campaign for election to the Vermont House as the representative for Chittenden-8.
+Please feel free to reach out any time with questions or concerns at bburkhardt@leg.state.vt.us .
+Other Paper Article - December 2024 Thank you to the South Burlington and Williston communities for your support during my campaign for election to the Vermont House as the representative for Chittenden-8.
 I am eagerly anticipating the start of the new biennium on January 8 and look forward to serving both communities as one of your representatives.
 While all legislators vote on bills across a wide range of issues, much of a legislator’s work is done in the committee to which they are assigned where they hear testimony and help shape bills that are moved through the legislative process.
 New legislators only receive their committee assignments during the first week of the session, so I’ve been feeling like a kid who can see her present under the Christmas tree but cannot open it until January.
@@ -512,9 +401,8 @@ The Chittenden County Regional Planning Commission hosted a breakfast for legisl
 While I am unlikely to be assigned to the Committee on General and Housing because Representative Krasnow is already representing our interests so well on that committee, nearly every committee’s work touches housing and housing affordability in some way.
 In addition to the meetings on specific issues and introductory meetings with many state agencies and non-profits, I’ve had the chance to connect with many members of the communities both during and after the campaign.
 I look forward to bringing your voices to Montpelier to help shape solutions to the challenges we face and need input from as many of you as possible.
-Please do not hesitate to reach out to me at bburkhardt@leg.state.vt.us, and join all five of your South Burlington representatives at our monthly legislative forum on Monday, January 27 at the South Burlington Public Library.
-Burkhardt Announces Run for Vermont State Legislature
-My name is Bridget Burkhardt, and I am running as a Democrat to represent Chittenden-8 in the Vermont House of Representatives.
+Please do not hesitate to reach out to me at bburkhardt@leg.state.vt.us , and join all five of your South Burlington representatives at our monthly legislative forum on Monday, January 27 at the South Burlington Public Library.
+Burkhardt Announces Run for Vermont State Legislature My name is Bridget Burkhardt, and I am running as a Democrat to represent Chittenden-8 in the Vermont House of Representatives.
 My family and I moved to South Burlington in 2010 and have been grateful for this wonderful community for the past 14 years.
 After the first chapter of my finance career, which included roles in investment banking, private equity, and community development finance, followed by several years as a stay-at-home mom, I was inspired to try to give something back to our community by running for the South Burlington School Board.
 My South Burlington neighbors elected me to three terms on the board, and I served from 2016-2022, eventually becoming chair of the board.
@@ -522,8 +410,7 @@ In 2022 I stepped down from the board and returned to the private sector to work
 During my years on the school board, I saw firsthand how decisions in Montpelier impact our local communities and had a window into a broad range of challenges faced by Vermonters.
 The board’s work focused directly on educational issues – the need for improved learning outcomes across a broader range of students, our students’ rapidly growing needs for mental health, special education, and social services, the impact of growing diversity in our schools, and aging school infrastructure, to name just a few.
 However, as board members we also saw how a lack of affordable housing, the opioid crisis, food insecurity, domestic violence, discrimination, and many broader issues affect our children.
-Some of the issues that drove me to run for the legislature include:
-Education – As a district we tried to meet our children’s expanding needs while facing growing costs, particularly rapidly rising healthcare premiums, and the need to keep taxes under control.
+Some of the issues that drove me to run for the legislature include: Education – As a district we tried to meet our children’s expanding needs while facing growing costs, particularly rapidly rising healthcare premiums, and the need to keep taxes under control.
 This work was complicated by a complex and changing school funding formula that made it difficult to create budgets and communicate about the impact of them effectively with voters.
 We need to reshape the way we fund education in Vermont to provide more predictability for districts and taxpayers.
 Without dictating curriculum from the state level, we need to find ways that we can support improved learning outcomes for children from all backgrounds.
@@ -544,6 +431,4 @@ Most of all, I think a great legislator must be willing to solicit a wide range 
 I believe that my school board service and my private sector finance work experience have given me a strong foundation and the tools to be an effective legislator on behalf of the residents of southeast South Burlington and southwest Williston.
 I hope to connect with as many of you as possible over the next few months to hear your concerns, gather your input, and earn your vote.
 Please reach out to me at burkhardtforvt@gmail.com with your questions and priorities for the legislature.
-Page updated
-Google Sites
-Report abuse
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

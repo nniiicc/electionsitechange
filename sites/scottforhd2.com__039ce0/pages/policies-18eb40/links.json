@@ -1,13 +1,50 @@
 [
-"https://google.com/search?client=safari&rls=en&q=House+Bill+26-1005&ie=UTF-8&oe=UTF-8&ved=2ahUKEwiR5uv3vJaSAxWxNEQIHUAOAywQgK4QegQIARAC",
-"https://scottforhd2.com/",
-"https://scottforhd2.com/about",
-"https://scottforhd2.com/cart",
-"https://scottforhd2.com/contact",
-"https://scottforhd2.com/endorsements",
-"https://scottforhd2.com/map",
-"https://scottforhd2.com/policies",
-"https://scottforhd2.com/results",
-"https://secure.actblue.com/donate/scott-baldermann-hd2",
-"https://youtu.be/lpho-eie-fw"
+{
+"text": "0",
+"href": "https://scottforhd2.com/cart"
+},
+{
+"text": "About",
+"href": "https://scottforhd2.com/about"
+},
+{
+"text": "Contact",
+"href": "https://scottforhd2.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scott-baldermann-hd2"
+},
+{
+"text": "Endorsements",
+"href": "https://scottforhd2.com/endorsements"
+},
+{
+"text": "House Bill 26-1005",
+"href": "https://www.google.com/search?client=safari&rls=en&q=House+Bill+26-1005&ie=UTF-8&oe=UTF-8&ved=2ahUKEwiR5uv3vJaSAxWxNEQIHUAOAywQgK4QegQIARAC"
+},
+{
+"text": "Map",
+"href": "https://scottforhd2.com/map"
+},
+{
+"text": "Policy Positions",
+"href": "https://scottforhd2.com/policies"
+},
+{
+"text": "Results",
+"href": "https://scottforhd2.com/results"
+},
+{
+"text": "Watch this short video to learn more about public banks.",
+"href": "https://youtu.be/lpho-eie-fw"
+},
+{
+"text": "Watch this short video to learn more.",
+"href": "https://youtu.be/lpho-eie-fw"
+},
+{
+"text": "[image: Scott Baldermann for House District 2]",
+"href": "https://scottforhd2.com/"
+}
 ]

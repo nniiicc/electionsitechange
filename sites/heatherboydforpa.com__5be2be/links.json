@@ -1,14 +1,62 @@
 [
-"https://cart/",
-"https://facebook.com/HeatherBoydforPA",
-"https://heatherboydforpa.com/",
-"https://heatherboydforpa.com/about",
-"https://heatherboydforpa.com/news",
-"https://heatherboydforpa.com/privacy-policy",
-"https://heatherboydforpa.com/volunteer",
-"https://heatherboydforpa.com/voting-information",
-"https://instagram.com/heatherboydforpa",
-"https://poliengine.com/",
-"https://secure.actblue.com/donate/heather-boyd-for-pa-1",
-"https://twitter.com/HeatherBoydPA"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heather-boyd-for-pa-1"
+},
+{
+"text": "Meet Heather",
+"href": "https://heatherboydforpa.com/about"
+},
+{
+"text": "News",
+"href": "https://heatherboydforpa.com/news"
+},
+{
+"text": "Plan Your Vote",
+"href": "https://heatherboydforpa.com/voting-information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heatherboydforpa.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://heatherboydforpa.com/about"
+},
+{
+"text": "Volunteer",
+"href": "https://heatherboydforpa.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://heatherboydforpa.com/voting-information"
+},
+{
+"text": "Websites powered by PoliEngine",
+"href": "https://www.poliengine.com"
+},
+{
+"text": "[image: Heather Boyd for Pennsylvania]",
+"href": "https://heatherboydforpa.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/HeatherBoydPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HeatherBoydforPA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/heatherboydforpa/"
+},
+{
+"text": "[no text]",
+"href": "mailto:heatherboyd163@gmail.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

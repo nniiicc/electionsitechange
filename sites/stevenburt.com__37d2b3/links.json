@@ -1,13 +1,54 @@
 [
-"https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2FrNzdoNmJpb2c3Y2FnY2FyaDgzYmcxZmMgc3RldmVuYkBzdGV2ZW5idXJ0LmNvbQ&tmsrc=stevenb%40stevenburt.com",
-"https://facebook.com/856988594159152",
-"https://instagram.com/voteforstevenburt",
-"https://secure.anedot.com/vote-steven-burt/supportsteven",
-"https://secure.utah.gov/voterreg/login.html?selection=REGISTER",
-"https://stevenburt.com/",
-"https://stevenburt.com/about",
-"https://stevenburt.com/declare-your-independence",
-"https://stevenburt.com/our-america",
-"https://stevenburt.com/utah-wildfire-risk",
-"https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote"
+{
+"text": "About",
+"href": "https://stevenburt.com/about"
+},
+{
+"text": "Add Election Day to Your Calendar!",
+"href": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2FrNzdoNmJpb2c3Y2FnY2FyaDgzYmcxZmMgc3RldmVuYkBzdGV2ZW5idXJ0LmNvbQ&tmsrc=stevenb%40stevenburt.com"
+},
+{
+"text": "Click Here to Donate!",
+"href": "https://secure.anedot.com/vote-steven-burt/supportsteven"
+},
+{
+"text": "Declare Your Independence",
+"href": "https://stevenburt.com/declare-your-independence"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.anedot.com/vote-steven-burt/supportsteven"
+},
+{
+"text": "Find Out How to Vote",
+"href": "https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote"
+},
+{
+"text": "Home",
+"href": "https://stevenburt.com/"
+},
+{
+"text": "Our America",
+"href": "https://stevenburt.com/our-america"
+},
+{
+"text": "Register to Vote",
+"href": "https://secure.utah.gov/voterreg/login.html?selection=REGISTER"
+},
+{
+"text": "Utah Wildfire Risk",
+"href": "https://stevenburt.com/utah-wildfire-risk"
+},
+{
+"text": "[image: stevenburt.com]",
+"href": "https://stevenburt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/856988594159152"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteforstevenburt/"
+}
 ]

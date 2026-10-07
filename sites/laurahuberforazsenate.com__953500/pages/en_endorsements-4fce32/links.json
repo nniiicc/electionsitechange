@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/laurahuberforaz.bsky.social",
-"https://facebook.com/profile.php?id=61581647962921",
-"https://instagram.com/laurahuberforaz",
-"https://laurahuberforazsenate.com/en",
-"https://laurahuberforazsenate.com/en/about",
-"https://laurahuberforazsenate.com/en/contact",
-"https://laurahuberforazsenate.com/en/endorsements",
-"https://laurahuberforazsenate.com/en/faqs",
-"https://laurahuberforazsenate.com/en/interviews",
-"https://laurahuberforazsenate.com/en/proposals",
-"https://laurahuberforazsenate.com/es/endorsements",
-"https://tiktok.com/@laura.huber.for.a"
+{
+"text": "About",
+"href": "https://www.laurahuberforazsenate.com/en/about"
+},
+{
+"text": "Contact",
+"href": "https://www.laurahuberforazsenate.com/en/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurahuberforazsenate.com/en/endorsements"
+},
+{
+"text": "FAQs",
+"href": "https://www.laurahuberforazsenate.com/en/faqs"
+},
+{
+"text": "Home",
+"href": "https://www.laurahuberforazsenate.com/en"
+},
+{
+"text": "Interviews",
+"href": "https://www.laurahuberforazsenate.com/en/interviews"
+},
+{
+"text": "Laura HuberAZ State Senate · LD25",
+"href": "https://www.laurahuberforazsenate.com/en"
+},
+{
+"text": "Proposals",
+"href": "https://www.laurahuberforazsenate.com/en/proposals"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/laurahuberforaz.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581647962921"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/laurahuberforaz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@laura.huber.for.a"
+},
+{
+"text": "laurahuber@laurahuberforazsenate.com",
+"href": "mailto:laurahuber@laurahuberforazsenate.com"
+},
+{
+"text": "🌐 Español",
+"href": "https://www.laurahuberforazsenate.com/es/endorsements"
+}
 ]

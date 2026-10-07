@@ -1,5 +1,5 @@
-We Need to Limit the Government
-I have been focusing on a significant issue in my campaign: the need to restrain government.
+top of page HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE We Need to Limit the Government Blair Eddins Dec 11, 2023 3 min read I have been focusing on a significant issue in my campaign: the need to restrain government.
 We all lived through COVID-19 and saw firsthand how our federal and state governments exercised excessive authority beyond their constitutional parameters.
 Since 2020, we are reaping the consequences of out-of-control government with higher prices at the pump and grocery stores.
 It is high time that our elected officials in Raleigh act to restrain the government from infringing on our freedoms and means for prosperity.
@@ -29,6 +29,5 @@ We do not need politicians telling us they know what’s best for us.
 They need to be reminded that they work for us, that we do not work for them.
 On March 5th, I hope to earn your vote and support to go to Raleigh and ensure our government does not overstep its bounds.
 Together, we can make sure of this.
-Sincerely,
-Blair Eddins
-To donate to Eddins for NC, go to https://www.eddinsfornc.com
+Sincerely, Blair Eddins To donate to Eddins for NC, go to https://www.eddinsfornc.com Recent Posts See All Blair Eddins Files for Re‑Election to Represent North Carolina House District 94 Blair Eddins to be Sworn In as NC State Representative Eddins Picked by District Republicans to Replace Elmore Paid for by Eddins for NC P.O.
+Box 1133 Wilkesboro, NC 28697 HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

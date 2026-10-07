@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.pachecoforthepeople.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "e3a6b8da13bf6e82583d18a8fe3caf4fb6098dd7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": [
   "2026"

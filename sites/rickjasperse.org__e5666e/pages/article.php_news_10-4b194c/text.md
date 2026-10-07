@@ -1,4 +1,4 @@
-[February 24, 2012] | The pace has picked up at the Capitol.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK Report from the Capitol [ February 24, 2012 ] | The pace has picked up at the Capitol.
 Lots of meetings and votes took place in both the House and Senate in preparation for Cross-over Day, Day 30 of 40.
 Cross-over Day is the day when a bill has to pass the House and go to the Senate and visa versa.
 Proposed legislation dies that is not voted on by Cross-over Day.
@@ -28,8 +28,7 @@ If that happens, you and all other Georgia voters will have the final say on whe
 Thursday night I was back in Jasper to attend the Optimist Club?s Star Students?
 Banquet.
 It was so rewarding to have the opportunity to speak to these young people who have excelled in the classroom.
-A video of the banquet is online at knowpickens.com
-I am proud to let you know that the Georgia House approved House Bill 879 on Friday morning, legislation that I told you about when it was first introduced.
+A video of the banquet is online at knowpickens.com I am proud to let you know that the Georgia House approved House Bill 879 on Friday morning, legislation that I told you about when it was first introduced.
 HB 879 improves safety for diabetic students by requiring public schools to have personnel who are trained to care for diabetic students.
 I had many calls on this from families in our district.
 Now that we have passed this bill, it must receive approval from the Senate and Gov.
@@ -44,3 +43,4 @@ As we move forward into our eighth legislative week, I encourage you to contact 
 I always welcome your comments, because they help me understand how to better serve as your State Representative.
 You can call my Capitol office at (404) 656-0188 or email me at rick@rickjasperse.org.
 Thank you for allowing me to serve as your Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

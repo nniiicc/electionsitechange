@@ -1,8 +1,6 @@
-FEDERAL RESERVE ABOLISHMENT
-Federal Reserve Abolishment
-- The Federal Reserve shall be abolished and authorities returned to the Federal Government Department of the Treasury
-- Interest setting authority shall undergo rigorous peer reviewed study, be fully open and transparent to the public, and must serve the public interest
-- The oversight committee shall be held to rigorous standards of indepence and appointment shall be transparent and public
-- Printing of currency shall be similarly restored to the purview of the Federal Government
-- The US Dollar shall remain a fiat currency
-- Any attempt to privatize, commercialize, or otherwise restore a Federal Reserve like entity shall be met with extreme prejudice, charges of insurrection, treason, violating Article I of the Constitution, with a mandatory life sentence and other equitable penalties
+top of page Log In FEDERAL RESERVE ABOLISHMENT Previous Next Federal Reserve Abolishment The Federal Reserve shall be abolished and authorities returned to the Federal Government Department of the Treasury Interest setting authority shall undergo rigorous peer reviewed study, be fully open and transparent to the public, and must serve the public interest The oversight committee shall be held to rigorous standards of indepence and appointment shall be transparent and public Printing of currency shall be similarly restored to the purview of the Federal Government The US Dollar shall remain a fiat currency Any attempt to privatize, commercialize, or otherwise restore a Federal Reserve like entity shall be met with extreme prejudice, charges of insurrection, treason, violating Article I of the Constitution, with a mandatory life sentence and other equitable penalties STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

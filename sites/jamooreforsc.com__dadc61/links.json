@@ -1,17 +1,78 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSe3P_8P_TKkjjYeNdlns5gxjbg4g4J6JyAaAcTL5FH0U4_0hw/viewform?usp=sf_link",
-"https://facebook.com/jamooreforsc15",
-"https://info.scvotes.sc.gov/eng/ovr/start.aspx",
-"https://jamooreforsc.com/",
-"https://scstatehouse.gov/maps/house/HD15.pdf",
-"https://secure.actblue.com/donate/jamooreforsc",
-"https://secure.actblue.com/donate/jamooreforsc24",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=100",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=1000",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=15",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=25",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=250",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=50",
-"https://secure.actblue.com/donate/jamooreforsc24?amount=500",
-"https://twitter.com/jamooreforsc15"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=1000"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/jamooreforsc24?amount=500"
+},
+{
+"text": "Click here.",
+"href": "https://info.scvotes.sc.gov/eng/ovr/start.aspx"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/jamooreforsc24"
+},
+{
+"text": "Donate online!",
+"href": "https://secure.actblue.com/donate/jamooreforsc"
+},
+{
+"text": "JA Moore for SC House District 15",
+"href": "https://jamooreforsc.com"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jamooreforsc24"
+},
+{
+"text": "[image: JA Moore for SC House District 15]",
+"href": "https://jamooreforsc.com"
+},
+{
+"text": "[image: jamoore icon facebook]",
+"href": "https://www.facebook.com/jamooreforsc15/"
+},
+{
+"text": "[image: jamoore icon twitter]",
+"href": "https://twitter.com/jamooreforsc15"
+},
+{
+"text": "[image: jamoore volunteer rev2020]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe3P_8P_TKkjjYeNdlns5gxjbg4g4J6JyAaAcTL5FH0U4_0hw/viewform?usp=sf_link"
+},
+{
+"text": "click here",
+"href": "https://www.scstatehouse.gov/maps/house/HD15.pdf"
+},
+{
+"text": "clicking here",
+"href": "https://secure.actblue.com/donate/jamooreforsc24"
+},
+{
+"text": "ja@jamooreforsc.com",
+"href": "mailto:ja@jamooreforsc.com"
+}
 ]

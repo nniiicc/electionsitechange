@@ -1,41 +1,28 @@
-A Powerful Recap of the Red, White, Rhythm & Blues fundraiser for Clyde Jones in Mobile, AL
-Clyde Jones Rallies Grassroots Supporters at downtown mobile Fundraiser
-At the "Red, White, Rhythm & Blues" event on June 13, the Democratic nominee for Alabama's 1st Congressional District connected national fights- immigration, the cost of living, war, and money in politics- to the families he meets across the Gulf Coast.
+A Powerful Recap of the Red, White, Rhythm & Blues fundraiser for Clyde Jones in Mobile, AL Platform June 16, 2026 • 4 min read Clyde Jones Rallies Grassroots Supporters at downtown mobile Fundraiser At the "Red, White, Rhythm & Blues" event on June 13, the Democratic nominee for Alabama's 1st Congressional District connected national fights- immigration, the cost of living, war, and money in politics- to the families he meets across the Gulf Coast.
 Democratic Congressional nominee Clyde Jones made his case to supporters at the "Red, White, Rhythm & Blues" fundraiser in Mobile at Parc Le Tralour on June 13th, laying out the stakes of his grassroots campaign in Alabama's 1st Congressional District heading into November.
 Addressing a crowd that organizers described as unique individuals that make up the district- young and seasoned, Black, white, and brown, LGBTQ and straight, religious and not- Jones called the room a picture of the campaign he set out to build.
 "If you look around the room, this is what it's supposed to look like," he said.
 He described the effort as "a grassroots campaign" aimed at giving Congress back to the people- not to corporate interest.
-A redrawn map he sees as an opening
-Jones pointed to Alabama's redrawn congressional map as an opportunity rather than an obstacle.
+A redrawn map he sees as an opening Jones pointed to Alabama's redrawn congressional map as an opportunity rather than an obstacle.
 Efforts to "redraw the lines to remove black representation," he argued, instead produced "two districts that we can flip.
-Both of them." He walked through the district's new footprint- all of Mobile, Baldwin, and Escambia, and Covington counties- and told supporters the campaign could "make this happen."
-He also tied his motivation to the current moment, saying the Trump administration "motivates me to do more." Jones ran for office during the first term, he noted, and is running again in the second.
-A funeral he said every lawmaker should attend
-The most somber moment came as Jones recounted attending the graveside funeral of a three-year-old child days earlier.
+Both of them." He walked through the district's new footprint- all of Mobile, Baldwin, and Escambia, and Covington counties- and told supporters the campaign could "make this happen." He also tied his motivation to the current moment, saying the Trump administration "motivates me to do more." Jones ran for office during the first term, he noted, and is running again in the second.
+A funeral he said every lawmaker should attend The most somber moment came as Jones recounted attending the graveside funeral of a three-year-old child days earlier.
 The boy's mother, he said, had been detained by ICE in Baldwin County after a traffic stop while she and her sister drove from Pensacola to Mobile for work- even though, by his account, the family had their documentation.
 Deported to Mexico despite being from Honduras, she was told she could not bring her son, an American citizen.
 According to Jones, she was forced to leave the child with her sister's partner- the same person who had previously beaten her sister and put her in the hospital- and the boy was killed while his mother tried to return.
 "I think every lawmaker ought to have to go through being at a three-year-old child's funeral," Jones said.
-"If you think that's the Christian way to operate, we think much differently."
-He added that the service was conducted entirely in Spanish, which he said he has been learning in order to follow along, and recalled the priest telling him it was the first child's funeral he had ever performed.
-Compassion and the cost of living
-Turning to affordability, Jones pushed back on the notion that "compassion can only go but so far" in a campaign.
+"If you think that's the Christian way to operate, we think much differently." He added that the service was conducted entirely in Spanish, which he said he has been learning in order to follow along, and recalled the priest telling him it was the first child's funeral he had ever performed.
+Compassion and the cost of living Turning to affordability, Jones pushed back on the notion that "compassion can only go but so far" in a campaign.
 Economic pain and empathy, he argued, can't be separated: families "can't afford healthcare," "their rent, or their mortgage," while young people "can't even save enough to put down on a house" because so much of their income goes to rent.
 He offered his own household as an example, saying the family's homeowners insurance "tripled" after their carrier pulled out of the Gulf Coast — pushing their mortgage up $400 in a single month.
 "Can you imagine how many people would be unhoused," he asked, if their costs jumped that much from one month to the next.
-"The cost of living is sky-high."
-"We have stock in the game"
-Jones, whose oldest son is an Army major currently deployed to the Middle East, warned against leaders who treat war casually.
-"We have stock in the game," he said, calling for representatives who understand "the cost of sending your sons and daughters overseas." Washington, he argued, is full of people "who aren't qualified for any position, let alone the highest positions in the land."
-Taking the big money out of politics
-Jones closed by tying his campaign to a national push to "Take back Congress," describing himself as part of a coalition of more than 100 congressional candidates.
-He called for overturning Citizens United and banning congressional stock trading, contrasting Martha Stewart's prison sentence over a $45,000 trade with lawmakers "making millions off inside stock."
-The country is "going in the wrong direction," he told the room, "but we still have time to steer the vote and put it back on course."
-Powered by neighbors — not PACs
-That last point isn't just what Clyde Jones believes about Washington.
+"The cost of living is sky-high." "We have stock in the game" Jones, whose oldest son is an Army major currently deployed to the Middle East, warned against leaders who treat war casually.
+"We have stock in the game," he said, calling for representatives who understand "the cost of sending your sons and daughters overseas." Washington, he argued, is full of people "who aren't qualified for any position, let alone the highest positions in the land." Taking the big money out of politics Jones closed by tying his campaign to a national push to "Take back Congress," describing himself as part of a coalition of more than 100 congressional candidates.
+He called for overturning Citizens United and banning congressional stock trading, contrasting Martha Stewart's prison sentence over a $45,000 trade with lawmakers "making millions off inside stock." The country is "going in the wrong direction," he told the room, "but we still have time to steer the vote and put it back on course." Powered by neighbors — not PACs That last point isn't just what Clyde Jones believes about Washington.
 It's how this campaign runs.
 We don't take corporate PAC money, and we aren't bankrolled by billionaires.
 This campaign is funded the way Jones says government should work — by small, recurring contributions from people right here in our community, organizing block by block across CD1.
 A few dollars, given month after month by neighbors who believe Congress should answer to people instead of corporations, is what keeps this campaign on the doors and on the air.
 If that's the kind of representation you want, be part of it: chip in today, and consider making it a monthly gift.
 A small amount, given consistently, is exactly what powers a grassroots campaign — and it's how we win the first district in November.
+Donate To Clyde Jones' Campaign for Congress Alabama Elections Alabama Politics Alabama's First Congressional District Campaign For Clyde Jones Clyde Jones For Congress Take Back Congress Congressional Reform Ban Stock Trading in Congress Payton Moran Communications Director For Clyde Jones Congressional Campaign Back to top Back to Blog

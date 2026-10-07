@@ -1,7 +1,9 @@
 {
  "description": "Photos from the Campaign trail",
  "final_url": "https://www.riker4pg.com/photos",
- "paid_for_by": null,
+ "fingerprint": "e6877d594b11fb7a9d39f6ea5a028ec623efcff6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2024",

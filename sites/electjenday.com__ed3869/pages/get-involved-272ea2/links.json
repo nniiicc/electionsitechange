@@ -1,13 +1,58 @@
 [
-"http://instagram.com/",
-"http://linkedin.com/",
-"https://drive.google.com/drive/folders/1gmY4SocP1sXbbMm0_MhyufbSaQ_KoqS1?usp=sharing",
-"https://electjenday.com/",
-"https://electjenday.com/get-involved",
-"https://electjenday.com/privacy-policy",
-"https://electjenday.com/terms-of-service",
-"https://facebook.com/",
-"https://facebook.com/ElectJenDayKS",
-"https://instagram.com/electjenday",
-"https://secure.actblue.com/donate/electjenday"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjenday"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electjenday.com/#ENDORSEMENTS"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electjenday.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electjenday.com/"
+},
+{
+"text": "MEET JENNIFER",
+"href": "https://www.electjenday.com/#MEETJENNIFER"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.electjenday.com/#PLATFORM"
+},
+{
+"text": "Press Kit",
+"href": "https://drive.google.com/drive/folders/1gmY4SocP1sXbbMm0_MhyufbSaQ_KoqS1?usp=sharing"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electjenday.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.electjenday.com/terms-of-service"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJenDayKS/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electjenday/"
+}
 ]

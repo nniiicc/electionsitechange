@@ -1,7 +1,13 @@
-Statement on ICE’s Murder of Alex Pretti
-Immigration agents have committed yet another murder in Minneapolis, killing Alex Pretti while he was completely restrained.
+0 Skip to Content Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Press Release Joe Tache 5/1/26 Press Release Joe Tache 5/1/26 Socialist U.S.
+Senate candidate Joe Tache to address Boston May Day Rallies as workers and small businesses strike nationwide Read More Press Release Joe Tache 4/24/26 Press Release Joe Tache 4/24/26 U.S.
+Senate Candidate Joe Tache to Host May Day Organizing Meeting in Roxbury, Joins National Call for General Strike Read More Press Release Joe Tache 4/7/26 Press Release Joe Tache 4/7/26 20k+ signatures in two weeks to get socialist on the ballot: celebration Thurs. at Crystal Ballroom Read More Press Release Joe Tache 3/24/26 Press Release Joe Tache 3/24/26 Volunteers collect 4k+ signatures in 48hrs to get socialist Joe Tache on the ballot in Mass.
+Read More News , Daily Free Press Joe Tache 2/10/26 News , Daily Free Press Joe Tache 2/10/26 The Massachusetts socialist candidate for U.S.
+Senate thinks capitalism is a ‘national emergency’ Read More News , Boston Institute for Nonprofit Journalism Joe Tache 1/30/26 News , Boston Institute for Nonprofit Journalism Joe Tache 1/30/26 Candidate Interview: Socialist Joe Tache On His Effort To Unseat Sen.
+Ed Markey Read More Press Release Joe Tache 1/24/26 Press Release Joe Tache 1/24/26 Statement on ICE’s Murder of Alex Pretti Immigration agents have committed yet another murder in Minneapolis, killing Alex Pretti while he was completely restrained.
 The time is now to expand the general strike — to show we are more powerful than them.
-Joe Tache announces run for U.S.
-Senate
-Socialist, community organizer in Roxbury launches campaign for U.S.
+Read More Interview Joe Tache 12/18/25 Interview Joe Tache 12/18/25 Video Interview: Socialist CHALLENGES Ed Markey with Sabby Sabs Read More Press Release Joe Tache 12/8/25 Press Release Joe Tache 12/8/25 Socialist candidate for Senate representing Massachusetts speaks out against racist treatment of community members at Faneuil Hall citizenship ceremony Read More Press Release Joe Tache 11/27/25 Press Release Joe Tache 11/27/25 Rep.
+Seth Moulton hypocritically claims to champion new generation of leaders while using tired talking points about socialism Read More Press Release Joe Tache 11/1/25 Press Release Joe Tache 11/1/25 Joe Tache announces run for U.S.
+Senate Socialist, community organizer in Roxbury launches campaign for U.S.
 Senate with platform to guarantee housing, healthcare, and healthy food for all.
+Read More Newer Posts Contact Us Privacy Policy For press inquiries, please contact press@tache4ma.com Press Kit PAID FOR BY JOE TACHE FOR SENATE ©# Joe Tache for Senate.
+All rights reserved.

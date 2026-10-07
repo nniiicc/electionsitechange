@@ -1,5 +1,4 @@
-Meet Kristin
-Kristin Phillips-Hill has dedicated most of her adult life to public service and working to make communities stronger.
+Skip to content Kristin Phillips-Hill for State Senate Kristin Phillips-Hill for State Senate Home Meet Kristin Issues Join Kristin’s Team Contact Donate Facebook page opens in new window Home Meet Kristin Issues Join Kristin’s Team Contact Donate Kristin Phillips-Hill and her husband Richard Meet Kristin Kristin Phillips-Hill has dedicated most of her adult life to public service and working to make communities stronger.
 A mother of three, Kristin has been married to Richard Hill for 31 years where together they have raised their children – right here in York County.
 Over those years, Kristin has been a dedicated volunteer, actively involved in the community by serving on various athletic booster clubs, parent organizations, and church groups.
 In 2011, Kristin sought and won a seat on the Dallastown school board seeking fiscal responsibility and educational excellence.
@@ -15,6 +14,8 @@ Wolf’s executive power that were crippling Pennsylvanians.
 Her voting record reflects her commitment to serving the taxpayers of York County.
 She has consistently voted to allow greater transparency in state government and public schools.
 Finally, she has rejected the liberal anti-Second Amendment policies leading to unprecedented violence and carjackings in cities by standing up for our Second Amendment rights.
-Help elect Kristin to the State Senate.
-Subscribe to Kristin’s newsletter.
-Contribute to Kristin’s campaign.
+Join the Team Help elect Kristin to the State Senate.
+Stay Informed Subscribe to Kristin’s newsletter.
+Donate Contribute to Kristin’s campaign.
+Important Information Find Your Polling Place Register to Vote Apply for an Absentee Ballot Follow Me on Facebook Facebook PAID FOR BY FRIENDS OF KRISTIN PHILLIPS-HILL Site content ©# Friends of Kristin Phillips-Hill.
+Go to Top

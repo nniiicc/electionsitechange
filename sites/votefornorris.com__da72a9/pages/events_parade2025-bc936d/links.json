@@ -1,35 +1,146 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Blaine+Festival+Parade+2025&dates=20250628T153000Z%2F20250628T183000Z&location=650+Territorial+Road+Northeast%2C+Blaine%2C+MN%2C+55434%2C+United+States",
-"http://maps.google.com/?q=650+Territorial+Road+Northeast+Blaine%2C+MN%2C+55434+United+States",
-"http://x.com/mnfrommn",
-"https://facebook.com/MNforMN",
-"https://instagram.com/norrisforminnesota",
-"https://secure.actblue.com/donate/mn-for-mn",
-"https://secure.countonme.org/committee-for-matt-norris-for-minnesota/2026-victory",
-"https://votefornorris.com/",
-"https://votefornorris.com/138aad96-86f2-461c-ae57-fb27579b26bf",
-"https://votefornorris.com/accountability",
-"https://votefornorris.com/affordable",
-"https://votefornorris.com/cart",
-"https://votefornorris.com/endorsements",
-"https://votefornorris.com/events",
-"https://votefornorris.com/events/november-2-door-knocking",
-"https://votefornorris.com/events/parade2025?format=ical",
-"https://votefornorris.com/events/team-norris-legislative-report-lit-drop",
-"https://votefornorris.com/housing",
-"https://votefornorris.com/i-want-a-sign",
-"https://votefornorris.com/in-the-news",
-"https://votefornorris.com/matts-priorities",
-"https://votefornorris.com/matts-work",
-"https://votefornorris.com/mattwork",
-"https://votefornorris.com/media-resources",
-"https://votefornorris.com/meet-matt",
-"https://votefornorris.com/priorities",
-"https://votefornorris.com/property-taxes",
-"https://votefornorris.com/safe-neighborhoods",
-"https://votefornorris.com/schools",
-"https://votefornorris.com/standing-up",
-"https://votefornorris.com/stay-in-touch",
-"https://votefornorris.com/volunteer",
-"https://youtube.com/channel/UCE432qM2-8f4KLMNOwuodGQ"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=650+territorial+road+northeast+blaine%2C+mn%2C+55434+united+states"
+},
+{
+"text": "0",
+"href": "https://votefornorris.com/cart"
+},
+{
+"text": "Back",
+"href": "https://votefornorris.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://votefornorris.com/events"
+},
+{
+"text": "Contact Matt",
+"href": "https://votefornorris.com/stay-in-touch"
+},
+{
+"text": "Delivering Results at the Capitol",
+"href": "https://votefornorris.com/mattwork"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mn-for-mn"
+},
+{
+"text": "Endorsements",
+"href": "https://votefornorris.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://votefornorris.com/138aad96-86f2-461c-ae57-fb27579b26bf"
+},
+{
+"text": "Folder: Matt's Work",
+"href": "https://votefornorris.com/matts-work"
+},
+{
+"text": "Folder: Priorities",
+"href": "https://votefornorris.com/matts-priorities"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Blaine+Festival+Parade+2025&dates=20250628T153000Z%2F20250628T183000Z&location=650+Territorial+Road+Northeast%2C+Blaine%2C+MN%2C+55434%2C+United+States"
+},
+{
+"text": "I Want a Sign",
+"href": "https://votefornorris.com/i-want-a-sign"
+},
+{
+"text": "ICS",
+"href": "https://votefornorris.com/events/parade2025?format=ical"
+},
+{
+"text": "Lowering Property Taxes",
+"href": "https://votefornorris.com/property-taxes"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.countonme.org/committee-for-matt-norris-for-minnesota/2026-victory"
+},
+{
+"text": "Making Housing More Affordable",
+"href": "https://votefornorris.com/housing"
+},
+{
+"text": "Making Life More Affordable",
+"href": "https://votefornorris.com/affordable"
+},
+{
+"text": "Making Our Neighborhoods Safer",
+"href": "https://votefornorris.com/safe-neighborhoods"
+},
+{
+"text": "Making Schools More Successful",
+"href": "https://votefornorris.com/schools"
+},
+{
+"text": "Matt In The News",
+"href": "https://votefornorris.com/in-the-news"
+},
+{
+"text": "Media Resources",
+"href": "https://votefornorris.com/media-resources"
+},
+{
+"text": "Meet Matt",
+"href": "https://votefornorris.com/meet-matt"
+},
+{
+"text": "Next Next September 6 Team Norris Legislative Report Lit Drop",
+"href": "https://votefornorris.com/events/team-norris-legislative-report-lit-drop"
+},
+{
+"text": "Previous Previous November 2 November 2 Door Knocking with Matt",
+"href": "https://votefornorris.com/events/november-2-door-knocking"
+},
+{
+"text": "Producing Real Results from Government",
+"href": "https://votefornorris.com/accountability"
+},
+{
+"text": "Standing Up for Minnesotans",
+"href": "https://votefornorris.com/standing-up"
+},
+{
+"text": "Stay in Touch",
+"href": "https://votefornorris.com/stay-in-touch"
+},
+{
+"text": "Summary",
+"href": "https://votefornorris.com/priorities"
+},
+{
+"text": "Upcoming Events",
+"href": "https://votefornorris.com/events"
+},
+{
+"text": "Volunteer",
+"href": "https://votefornorris.com/volunteer"
+},
+{
+"text": "[image: Matt Norris for MN House]",
+"href": "https://votefornorris.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/mnfrommn"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MNforMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/norrisforminnesota/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCE432qM2-8f4KLMNOwuodGQ"
+}
 ]

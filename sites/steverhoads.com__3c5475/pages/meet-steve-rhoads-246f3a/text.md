@@ -1,4 +1,4 @@
-A firefighter, County Legislator and public safety advocate, Steve Rhoads is running for State Senate with a proven track record of protecting the safety and wallets of Long Island families and seniors.
+REGISTER TO VOTE & GET VOTING LOCATIONS HERE MEET STEVE KEY ISSUES GET INVOLVED DONATE MEET STEVE RHOADS A firefighter, County Legislator and public safety advocate, Steve Rhoads is running for State Senate with a proven track record of protecting the safety and wallets of Long Island families and seniors.
 While most politicians break their promises, Steve keeps them.
 Steve has never voted for a tax hike, and always backs the men and women in blue.
 As our next State Senator, Steve Rhoads will vote to cut Albany taxes, repeal dangerous bail laws that free thugs shortly after arrest, protect our quality of life and invest in police to keep our neighborhoods and schools safe.
@@ -23,3 +23,5 @@ A successful attorney in private practice and former Deputy Bureau Chief in the 
 Steve is a graduate of Hofstra University Law School, SUNY Albany, and Wantagh Public Schools.
 He is the Director of the Youth Ministry Program at St.
 Pius X Parish in Plainview and is a member of the Knights of Columbus, Kiwanis, the Wantagh-Seaford Homeowners’ Association, Bellmore Lions, the Nassau County Bar Association, and the Nassau County Police Emerald Society.
+CONTACT THE CAMPAIGN 516.953.7451 JOIN TEAM RHOADS TODAY.
+Website JOIN TEAM PAID FOR BY STEVE RHOADS FOR SENATE © # STEVE RHOADS FOR SENATE · PRIVACY DEVELOPED & DESIGNED BY THE SOCIAL ELEPHANT LLC Buy Tickets Here

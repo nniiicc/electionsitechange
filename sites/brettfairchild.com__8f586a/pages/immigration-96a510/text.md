@@ -1,9 +1,9 @@
-Immigration
-The United States was founded as a nation of immigrants, and our country has always had a very welcoming immigration policy, rewarding those who seek to come here in a legal fashion, in order to pursue the American dream.
+Skip to content Fairchild for Freedom Pro Life | Pro Liberty Menu Home About Me Issue Positions Abortion Agriculture Budgetary Issues Civil Liberties Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes KS State Rep., Dist.
+113 Donate Get Involved Newsletter Immigration Home Abortion Agriculture Budgetary Issues Civil Liberties Direct Ballot Initiatives Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes The United States was founded as a nation of immigrants, and our country has always had a very welcoming immigration policy, rewarding those who seek to come here in a legal fashion, in order to pursue the American dream.
 However, it’s not realistic to have open borders, and we have to have an orderly, legal process for immigrants to come to our country.
 Opposing illegal immigration is not “anti-immigrant.” Rather, it’s necessary in order to uphold the rule of law.
 I oppose illegal immigration but support legal immigration, recognizing that illegal immigration has contributed to a number of problems in our country, but also recognizing that those who come here legally should be welcomed into our country.
 In the house, I voted in favor of HB 2717, to prevent any municipality from preventing the enforcement of federal immigration law.
 Wyandotte County had implemented a sanctuary city policy in their county, which had become a problem.
 We passed HB 2717 to prevent Wyandotte County and every other county from implementing a sanctuary policy for illegal immigrants.
-I believe in legal immigration and that we should have a welcoming policy for those who wish to come here legally to pursue the American dream, but we must also follow the rule of law, which includes banning sanctuary cities.
+I believe in legal immigration and that we should have a welcoming policy for those who wish to come here legally to pursue the American dream, but we must also follow the rule of law, which includes banning sanctuary cities. © # Fairchild For Freedom Website Design by Atlas Marketing Solutions

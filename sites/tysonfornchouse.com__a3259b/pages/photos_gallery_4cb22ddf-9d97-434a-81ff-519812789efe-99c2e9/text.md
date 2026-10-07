@@ -1,24 +1,2 @@
-Home
-About Steve
-Events
-News
-On the Issues
-Endorsements
-Make Endorsement
-Photo Gallery
-Send us a Message
-January 2020
-Steve Tyson was named Builder of the Year for 2019 by the Home Builders Associate of Craven and Pamlico Counties at their Annual Awards Banquet.
-Committee to Elect Steve Tyson
-Powered by CampaignPartner.com - Political
-Campaign Websites
-Home
-About Steve
-Events
-News
-On the Issues
-Endorsements
-Make Endorsement
-Photo Gallery
-Send us a Message
-Close Menu
+Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message January 2020 Steve Tyson was named Builder of the Year for 2019 by the Home Builders Associate of Craven and Pamlico Counties at their Annual Awards Banquet.
+Committee to Elect Steve Tyson Powered by CampaignPartner.com - Political Campaign Websites Home About Steve Events News On the Issues Endorsements Make Endorsement Photo Gallery Send us a Message Close Menu

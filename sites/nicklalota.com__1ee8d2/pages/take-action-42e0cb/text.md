@@ -1,30 +1,3 @@
-0
-Skip to Content
-Home
-Meet Nick
-Issues
-Get Involved
-Endorsements
-Photos
-CONTRIBUTE
-Open Menu
-Close Menu
-Home
-Meet Nick
-Issues
-Get Involved
-Endorsements
-Photos
-CONTRIBUTE
-Open Menu
-Close Menu
-Home
-Meet Nick
-Issues
-Get Involved
-Endorsements
-Photos
-CONTRIBUTE
-Join Team LaLota
-Sign Up to Volunteer!
-CONTRIBUTE TODAY
+0 Skip to Content Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Open Menu Close Menu Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Open Menu Close Menu Home Meet Nick Issues Get Involved Endorsements Photos CONTRIBUTE Join Team LaLota Sign Up to Volunteer!
+CONTRIBUTE TODAY Get Updates Directly from Nick: LALOTA FOR CONGRESS | PO BOX 5744 | HAUPPAUGE, NY 11788 USE OF MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF WAR.
+Privacy Policy PAID FOR BY LALOTA FOR CONGRESS

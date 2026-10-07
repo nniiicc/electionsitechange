@@ -1,9 +1,2 @@
-President
-U.S.
-Senator
-Speaker of the House
-Majority Leader
-Majority Whip
-Governor
-PRIVACY POLICY
-PAID FOR BY TANO TIJERINA FOR CONGRESS
+ABOUT ISSUES NEWS ENDORSEMENTS DONATE ENDORSEMENTS ENDORSED BY THE TOUGHEST CONSERVATIVES IN THE COUNTRY Donald Trump President TED CRUZ U.S.
+Senator Mike Johnson Speaker of the House Steve Scalise Majority Leader Tom Emmer Majority Whip Greg Abbott Governor PRIVACY POLICY PAID FOR BY TANO TIJERINA FOR CONGRESS Share by:

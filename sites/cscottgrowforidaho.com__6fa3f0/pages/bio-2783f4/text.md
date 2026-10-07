@@ -1,6 +1,7 @@
+Skip to content Issues Vote Early Volunteer Bio Donate Republican C.
+Scott Grow Scott will work diligently for every resident of District 14 and for all of Idaho.
 About C.
-Scott Grow
-C.
+Scott Grow C.
 Scott Grow is an Idaho native, a retired CPA, and the Republican State Senator for District 14 — representing Eagle, Gem County, and the communities of western Ada County.
 He is currently serving his fifth term in the Idaho Senate.
 Scott chairs the Senate Finance Committee and co-chairs the Joint Finance-Appropriations Committee — the Legislature’s most powerful budget body.
@@ -20,3 +21,6 @@ He holds a Bachelor’s Degree in Accounting from Brigham Young University and h
 He is endorsed by the Idaho Association of Commerce and Industry, the Idaho Farm Bureau, and the Idaho Fraternal Order of Police.
 He has signed the U.S.
 Term Limits pledge.
+Donate Join Vote Early Share On Social Media Paid for by C.
+Scott Grow for Idaho, Rod Lewis, Treasurer Contributions to C.
+Scott Grow are not tax deductible for federal or state income tax purposes.

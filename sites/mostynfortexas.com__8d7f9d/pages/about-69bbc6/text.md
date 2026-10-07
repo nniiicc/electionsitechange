@@ -1,6 +1,4 @@
-MEET BEN MOSTYN
-About Ben Mostyn
-Ben Mostyn grew up in Texas, and as a young boy, he was raised with good old-fashioned Texas values.
+Home About Issues News Volunteer Shop Donate Select Page MEET BEN MOSTYN About Ben Mostyn Ben Mostyn grew up in Texas, and as a young boy, he was raised with good old-fashioned Texas values.
 Ben was home-schooled from the start and into his mid-teens, laying the foundation for his strong beliefs in school choice and empowering parents’ full control of their children’s education.
 Growing up poor in a blue-collar family, he learned early on the value of hard-earned money and the struggles of life, and by the age of 9, he was working – pushing his lawnmower and knocking on doors, selling his mom’s herbal products at fairs, and selling appliances he or his dad had fixed up.
 Later Ben became the youngest employee in the MCI Telecommunications Company.
@@ -28,3 +26,6 @@ Ben is not a politician and has confidence in moving our State forward in a sens
 It’s time for people like Ben who can utilize their skill sets to explain, educate, and motivate the people toward the values of our Constitutional Republic and away from Democratic Socialism.
 Ben is a believer in hard work and he knows in order to get things done and done right, you have to be the one to roll up your sleeves and do the work.
 In the legislature, Ben Mostyn will be the one who gets things done, not only in short order, but done right for Texas.
+Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
+Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Follow Follow Follow Follow

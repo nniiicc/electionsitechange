@@ -1,6 +1,4 @@
-Atlanta Public Safety Training Center: Op-ed
-Thursday, November 16, 2023
-As the Senate Chairman of Public Safety, I work daily with dedicated city, county, school, state, and federal professionals whose noble career path requires them to prioritize saving lives, upholding the peace, and preserving our most cherished freedoms and liberties.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back Atlanta Public Safety Training Center: Op-ed Thursday, November 16, 2023 As the Senate Chairman of Public Safety, I work daily with dedicated city, county, school, state, and federal professionals whose noble career path requires them to prioritize saving lives, upholding the peace, and preserving our most cherished freedoms and liberties.
 For these courageous individuals, those critical imperatives guide their duties as they face incredible demands and challenges on any given day.
 Please take a moment to thank all those who serve us on the front lines in our community and put their lives on the line for you and me.
 Earlier this year, I visited the new Atlanta Public Safety Training Center site after the latest round of what has been described as domestic terrorist attacks.
@@ -19,8 +17,7 @@ Police, Fire, EMS, and 911 Dispatch play an indispensable role in deterring crim
 People will not move to or invest in places where they do not believe that their families and businesses will be safe.
 Those violently protesting in opposition to the Atlanta Public Safety Training Center should spend time attempting to pass the police academy, fire academy, or become a paramedic.
 It requires a selfless strength of character to rush in when all others run away.
-My friend and decorated veteran Colonel Mike Steele says it best, “Patriotism without action is counterfeit.”
-Governor Brian Kemp led the way to help protect the City of Atlanta by creating the Joint Law Enforcement Task Force last year to tackle the escalating crime.
+My friend and decorated veteran Colonel Mike Steele says it best, “Patriotism without action is counterfeit.” Governor Brian Kemp led the way to help protect the City of Atlanta by creating the Joint Law Enforcement Task Force last year to tackle the escalating crime.
 This has proven effective along with new and strong leadership from Atlanta’s current Mayor and Chief of Police who are still cleaning up from the prior administration’s listlessness when it came to any number of important aspects of public safety including criminal street gang recruitment and crime in particular.
 Offhanded comments indicative of ambivalence to public safety and crime victims from those who attempted to win elections and then appear to struggle to remain relevant, only reaffirm why, in this writers’ eyes, they should not be in government office.
 Supporting the new Atlanta Public Safety Training Center is essential for the well-being and security of everyone.
@@ -28,7 +25,6 @@ It is paramount that we provide our First Responders with the necessary resource
 Let me be clear, I proudly stand in support of the new Atlanta Public Safety Training Center.
 As someone who served for over three decades as a firefighter/EMT and five total generations of my family have honorably served as First Responders (Fire, Police, EMS, 911), I know firsthand the importance of training my brothers and sisters in public safety.
 Training our Bravest and Finest is critically important to the safety of our men and women in uniform, as well as those we are sworn to serve and protect.
-# # # #
-Senator John Albers serves as Chairman of the Senate Committee on Public Safety.
+# # # # Senator John Albers serves as Chairman of the Senate Committee on Public Safety.
 He represents the 56th Senate District which includes portions of Cherokee, Cobb, and Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

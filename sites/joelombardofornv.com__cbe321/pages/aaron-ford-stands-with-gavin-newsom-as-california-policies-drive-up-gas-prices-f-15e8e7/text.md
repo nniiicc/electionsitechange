@@ -1,8 +1,4 @@
-Aaron Ford Stands with Gavin Newsom as California Policies Drive Up Gas Prices for Nevada Families
-FOR IMMEDIATE RELEASE
-March 4, 2026
-Contact: press@joelombardofornv.com
-LAS VEGAS, NV — As California Governor Gavin Newsom visits Las Vegas this evening, Nevadans should remember one simple fact: Attorney General Aaron Ford is endorsed by Gavin Newsom.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Aaron Ford Stands with Gavin Newsom as California Policies Drive Up Gas Prices for Nevada Families FOR IMMEDIATE RELEASE March 4, 2026 Contact: press@joelombardofornv.com LAS VEGAS, NV — As California Governor Gavin Newsom visits Las Vegas this evening, Nevadans should remember one simple fact: Attorney General Aaron Ford is endorsed by Gavin Newsom.
 Ford has even gone so far to join up withNewsom to raise money for his campaign - inviting California activists to influence Nevada’s politics.
 Meanwhile, Newsom’s disastrous energy policies have already driven up gas prices across the West - and Nevada families are paying the price.
 Under Newsom’s leadership, California’s aggressive refinery regulations have contributed to refinery closures, reduced fuel production, and increased gas prices across the region.
@@ -11,8 +7,6 @@ To fight Newsom’s disastrous energy policies, Governor Lombardo asked Attorney
 Attorney General Aaron Ford refused to do so, instead standing with Gavin Newsom.
 Conversely, Governor Joe Lombardo has taken action to protect Nevada families.
 Governor Lombardo formed the Nevada Fuel Resiliency Committee to strengthen the state’s fuel infrastructure and reduce dependence on California supply disruptions.
-Governor Lombardo has also repeatedly raised concerns about California’s refinery policies - sending multiple letters to Governor Newsom, coordinating with neighboring states, meeting directly with energy industry leaders, and directing Nevada agencies to engage with California regulators to protect Nevada’s fuel supply.
-Statement from the Lombardo Campaign:
-“Aaron Ford proudly accepted Gavin Newsom’s endorsement, even as Newsom’s policies shrink fuel supply and drive up gas prices across the West.
-While Governor Lombardo is fighting for lower gas prices for Nevada families, Aaron Ford is fighting to bring California policies to Nevada.” – Halee Dobbins, Spokeswoman for the Joe Lombardo Campaign
-###
+Governor Lombardo has also repeatedly raised concerns about California’s refinery policies - sending multiple letters to Governor Newsom, coordinating with neighboring states, meeting directly with energy industry leaders, and directing Nevada agencies to engage with California regulators to protect Nevada’s fuel supply. ﻿Statement from the Lombardo Campaign: “Aaron Ford proudly accepted Gavin Newsom’s endorsement, even as Newsom’s policies shrink fuel supply and drive up gas prices across the West.
+While Governor Lombardo is fighting for lower gas prices for Nevada families, Aaron Ford is fighting to bring California policies to Nevada.” – Halee Dobbins, Spokeswoman for the Joe Lombardo Campaign ### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

@@ -1,9 +1,42 @@
 [
-"https://dougricks.com/",
-"https://dougricks.com/about",
-"https://dougricks.com/contact",
-"https://dougricks.com/issues",
-"https://dougricks.com/legislation",
-"https://dougricks.com/news",
-"https://paypal.com/donate?hosted_button_id=74B2KKSMG3TDQ"
+{
+"text": "About",
+"href": "https://www.dougricks.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.dougricks.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.paypal.com/donate?hosted_button_id=74B2KKSMG3TDQ"
+},
+{
+"text": "Home",
+"href": "https://www.dougricks.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dougricks.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://www.dougricks.com/legislation/"
+},
+{
+"text": "News",
+"href": "https://www.dougricks.com/news/"
+},
+{
+"text": "[image: logoSmall][image: logoSmall]",
+"href": "https://dougricks.com"
+},
+{
+"text": "[image][image]",
+"href": "https://www.dougricks.com/"
+},
+{
+"text": "ricksford34@gmail.com",
+"href": "mailto:ricksford34@gmail.com"
+}
 ]

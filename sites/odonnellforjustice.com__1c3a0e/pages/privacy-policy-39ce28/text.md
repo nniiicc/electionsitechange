@@ -1,93 +1,24 @@
-Privacy Policy
-Friends for Justice O’Donnell (operating as odonnellforjustice.com) (“we,” “us,” or “our”) operates the odonnellforjustice.com website (the “Service”).
+top of page ABOUT ENDORSEMENTS GET INVOLVED DONATE Privacy Policy Friends for Justice O’Donnell (operating as odonnellforjustice.com) (“we,” “us,” or “our”) operates the odonnellforjustice.com website (the “Service”).
 This Privacy Policy explains how we collect, use, protect, and disclose information from users of our website, consistent with Washington State campaign and privacy requirements.
 By providing your phone number, you agree to receive political and/or donation-related text messages from Friends for Justice O'Donnell.
 Message and data rates may apply.
 Message frequency varies.
 Reply HELP to request help or STOP to opt out of text messages.
-Privacy Policy here and Terms & Conditions here.
-Information We Collect
-We may collect the following types of information when you interact with our website, forms, or communications:
-• First and last name
-• Email address
-• Phone number
-• Mailing address
-• Donation and contribution information (as required by law)
-• Website usage data (such as pages visited or actions taken)
-How We Collect Information
-Information You Provide Directly
-We collect information when you:
-• Sign up for email or text updates
-• Make a donation or purchase
-• Complete a volunteer or contact form
-• RSVP for events
-• Communicate with us by email, phone, or social media
-Information Collected Automatically
-When you visit our website, we may automatically collect limited technical information such as:
-• IP address
-• Browser type
-• Device information
-• Cookies and usage data
-Publicly Available Information
-We may collect information from publicly available sources, including voter files and public records, as permitted under Washington State law, for campaign-related purposes.
-How We Use Information
-We use collected information to:
-• Communicate campaign updates, events, and opportunities
-• Process donations and comply with Washington State Public Disclosure Commission (PDC) requirements
-• Respond to inquiries and requests
-• Organize volunteers and supporters
-• Improve website performance and outreach efforts
-• Comply with legal and reporting obligations
-Text Messaging and Email Communications
-By providing your phone number or email address, you consent to receive communications from Friends for Justice O’Donnell.
+Privacy Policy here and Terms & Conditions here . ​ Information We Collect We may collect the following types of information when you interact with our website, forms, or communications: • First and last name • Email address • Phone number • Mailing address • Donation and contribution information (as required by law) • Website usage data (such as pages visited or actions taken) How We Collect Information Information You Provide Directly We collect information when you: • Sign up for email or text updates • Make a donation or purchase • Complete a volunteer or contact form • RSVP for events • Communicate with us by email, phone, or social media Information Collected Automatically When you visit our website, we may automatically collect limited technical information such as: • IP address • Browser type • Device information • Cookies and usage data Publicly Available Information We may collect information from publicly available sources, including voter files and public records, as permitted under Washington State law, for campaign-related purposes.
+How We Use Information We use collected information to: • Communicate campaign updates, events, and opportunities • Process donations and comply with Washington State Public Disclosure Commission (PDC) requirements • Respond to inquiries and requests • Organize volunteers and supporters • Improve website performance and outreach efforts • Comply with legal and reporting obligations Text Messaging and Email Communications By providing your phone number or email address, you consent to receive communications from Friends for Justice O’Donnell.
 Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes.
 Message and data rates may apply.
 Message frequency may vary.
-You may opt out at any time by:
-• Clicking “unsubscribe” in emails
-• Replying STOP to text messages
-Information Sharing and Disclosure
-We do not sell personal information.
-We may share information only in the following limited circumstances:
-Service Providers
-With vendors who assist with campaign operations such as:
-• Email and text messaging platforms
-• Payment processors
-• Website hosting and analytics
-Legal and Compliance Requirements
-As required by Washington State law, including:
-• Campaign finance disclosure and reporting
-• Compliance with subpoenas, court orders, or lawful requests
-Campaign Operations
-With authorized campaign staff or consultants for internal campaign purposes only.
-Aggregate or Anonymized Data
-We may share non-identifying, aggregated data that cannot reasonably be used to identify an individual.
-Washington State Campaign Finance Compliance
-Contributions to Friends for Justice O’Donnell are subject to Washington State campaign finance laws and reporting requirements.
+You may opt out at any time by: • Clicking “unsubscribe” in emails • Replying STOP to text messages Information Sharing and Disclosure We do not sell personal information.
+We may share information only in the following limited circumstances: Service Providers With vendors who assist with campaign operations such as: • Email and text messaging platforms • Payment processors • Website hosting and analytics Legal and Compliance Requirements As required by Washington State law, including: • Campaign finance disclosure and reporting • Compliance with subpoenas, court orders, or lawful requests Campaign Operations With authorized campaign staff or consultants for internal campaign purposes only.
+Aggregate or Anonymized Data We may share non-identifying, aggregated data that cannot reasonably be used to identify an individual.
+Washington State Campaign Finance Compliance Contributions to Friends for Justice O’Donnell are subject to Washington State campaign finance laws and reporting requirements.
 Certain contributor information may be publicly disclosed as required by law.
-Data Security
-We take reasonable administrative, technical, and physical measures to protect personal information, including:
-• Secure data storage and transmission
-• Limited access to authorized personnel
-• Use of reputable third-party service providers with appropriate safeguards
-No method of transmission over the internet is completely secure, and we cannot guarantee absolute security.
-Your Rights
-You may request to:
-• Access the personal information we hold about you
-• Correct inaccurate information
-• Request deletion of your information, subject to legal retention requirements
-To make a request, contact us using the information below.
-Cookies and Tracking Technologies
-We use cookies and similar technologies to:
-• Maintain website functionality
-• Understand website usage
-• Improve campaign outreach
-You may control cookies through your browser settings.
+Data Security We take reasonable administrative, technical, and physical measures to protect personal information, including: • Secure data storage and transmission • Limited access to authorized personnel • Use of reputable third-party service providers with appropriate safeguards No method of transmission over the internet is completely secure, and we cannot guarantee absolute security.
+Your Rights You may request to: • Access the personal information we hold about you • Correct inaccurate information • Request deletion of your information, subject to legal retention requirements To make a request, contact us using the information below.
+We use cookies and similar technologies to: • Maintain website functionality • Understand website usage • Improve campaign outreach You may control cookies through your browser settings.
 Disabling cookies may limit certain website features.
-Contact Information
-If you have questions about this Privacy Policy, please contact us at:
-Email: odonnellforjustice@gmail.com
-Changes to This Policy
-We may update this Privacy Policy periodically.
+Contact Information If you have questions about this Privacy Policy, please contact us at: Email: odonnellforjustice@gmail.com Changes to This Policy We may update this Privacy Policy periodically.
 Updates will be posted on this page with a revised effective date.
-Last Updated: January 9, 2026
+Last Updated: January 9, 2026 ABOUT ENDORSEMENTS GET INVOLVED Terms & Conditions Privacy Policy Accessibility Statement © # Paid for by Friends for Justice O'Donnell Powered and secured by Wix Campaign Code of Conduct DONATE Sending a check?
+Please make out to "Friends for Justice O'Donnell" Per Washington State Law, we are required to collect your Home Address, Employer Name, City, and State Mailing address: Friends for Justice O'Donnell PO Box 110, Eastsound, WA 98245 CONTACT US campaign@odonnellforjustice.com ​ (206) 588-6172 bottom of page

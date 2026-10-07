@@ -1,6 +1,22 @@
 [
-"https://facebook.com/Schlegel4StateHouse",
-"https://schlegel4statehouse.com/",
-"https://schlegel4statehouse.com/contact",
-"https://schlegel4statehouse.com/donate"
+{
+"text": "Contact Me",
+"href": "https://www.schlegel4statehouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.schlegel4statehouse.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.schlegel4statehouse.com"
+},
+{
+"text": "John Schlegel for 101st State House of Representatives",
+"href": "https://www.schlegel4statehouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Schlegel4StateHouse"
+}
 ]

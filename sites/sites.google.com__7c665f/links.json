@@ -1,7 +1,26 @@
 [
-"https://sites.google.com/view/tilleman-for-hd-23/contact",
-"https://sites.google.com/view/tilleman-for-hd-23/home",
-"https://sites.google.com/view/tilleman-for-hd-23/how-to-donate",
-"https://sites.google.com/view/tilleman-for-hd-23/voting-record-bills",
-"https://sites.google.com/view/tilleman-for-hd-23/want-a-yard-sign"
+{
+"text": "Contact",
+"href": "https://sites.google.com/view/tilleman-for-hd-23/contact"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/tilleman-for-hd-23/home"
+},
+{
+"text": "How to Donate",
+"href": "https://sites.google.com/view/tilleman-for-hd-23/how-to-donate"
+},
+{
+"text": "Tilleman for HD 23",
+"href": "https://sites.google.com/view/tilleman-for-hd-23/home"
+},
+{
+"text": "Voting Record / Bills",
+"href": "https://sites.google.com/view/tilleman-for-hd-23/voting-record-bills"
+},
+{
+"text": "Want a Yard Sign",
+"href": "https://sites.google.com/view/tilleman-for-hd-23/want-a-yard-sign"
+}
 ]

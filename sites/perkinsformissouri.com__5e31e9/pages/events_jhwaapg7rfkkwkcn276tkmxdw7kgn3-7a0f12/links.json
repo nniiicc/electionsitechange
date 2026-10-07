@@ -1,21 +1,86 @@
 [
-"http://facebook.com/perkins4mo",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261011T210000Z%2F20261012T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States",
-"http://instagram.com/perkins4mo",
-"http://maps.google.com/?q=14646+Manchester+Road+Ballwin%2C+Missouri%2C+63011+United+States",
-"https://mobilize.us/s/wZWSOy",
-"https://perkinsformissouri.com/",
-"https://perkinsformissouri.com/cart",
-"https://perkinsformissouri.com/contact",
-"https://perkinsformissouri.com/endorsements",
-"https://perkinsformissouri.com/events",
-"https://perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd",
-"https://perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3?format=ical",
-"https://perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh",
-"https://perkinsformissouri.com/issues",
-"https://perkinsformissouri.com/join-us",
-"https://perkinsformissouri.com/media",
-"https://perkinsformissouri.com/meet-mary-ann",
-"https://perkinsformissouri.com/newsletter-archive",
-"https://secure.actblue.com/donate/mary-ann-perkins-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14646+manchester+road+ballwin%2C+missouri%2C+63011+united+states"
+},
+{
+"text": "0",
+"href": "https://www.perkinsformissouri.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.perkinsformissouri.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.perkinsformissouri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-ann-perkins-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.perkinsformissouri.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Team+Perkins&dates=20261011T210000Z%2F20261012T000000Z&location=14646+Manchester+Road%2C+Ballwin%2C+Missouri%2C+63011%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.perkinsformissouri.com/events/jhwaapg7rfkkwkcn276tkmxdw7kgn3?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.perkinsformissouri.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.perkinsformissouri.com/join-us"
+},
+{
+"text": "Media",
+"href": "https://www.perkinsformissouri.com/media"
+},
+{
+"text": "Meet Mary Ann",
+"href": "https://www.perkinsformissouri.com/meet-mary-ann"
+},
+{
+"text": "Newsletter Archive",
+"href": "https://www.perkinsformissouri.com/newsletter-archive"
+},
+{
+"text": "Next Next October 14 Canvass with Team Perkins",
+"href": "https://www.perkinsformissouri.com/events/bh37fwysbzfdpdzge58k4n7d5ygwbd"
+},
+{
+"text": "Previous Previous October 10 Canvass with team perkins",
+"href": "https://www.perkinsformissouri.com/events/k5h4s3b62toyv0sn0klryr4bus0axh"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.perkinsformissouri.com/events"
+},
+{
+"text": "[image: Mary Ann Perkins for Missouri House District 100]",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/perkins4mo"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/perkins4mo"
+},
+{
+"text": "https://mobilize.us/s/wZWSOy",
+"href": "https://mobilize.us/s/wZWSOy"
+}
 ]

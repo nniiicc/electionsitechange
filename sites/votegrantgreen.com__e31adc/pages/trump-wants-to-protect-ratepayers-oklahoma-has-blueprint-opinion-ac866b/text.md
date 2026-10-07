@@ -1,10 +1,9 @@
-President is right to demand that Big Tech, not ratepayers, should pay for the industry’s enormous energy use.
+Skip to content HOME MEET GRANT RESULTS GET INVOLVED MEDIA HOME MEET GRANT RESULTS GET INVOLVED MEDIA HOME MEET GRANT RESULTS GET INVOLVED MEDIA DONATE HOME MEET GRANT RESULTS GET INVOLVED MEDIA DONATE Facebook Donate Facebook General Election November 3, 2026 Trump wants to protect ratepayers.
+Oklahoma has blueprint | Opinion President is right to demand that Big Tech, not ratepayers, should pay for the industry’s enormous energy use.
 Oklahoma has set an example for how this approach can be win-win.
 Sen.
-Grant Green Guest columnist
-March 11, 2026, 6:45 a.m.
-CT
-Oklahomans strongly support President Donald Trump, and he loves Oklahoma.
+Grant Green Guest columnist March 11, 2026, 6:45 a.m.
+CT Oklahomans strongly support President Donald Trump, and he loves Oklahoma.
 It’s for good reason.
 This state has given him a lot.
 After all, in each of his presidential campaigns, all 77 counties backed him at the ballot box.
@@ -22,7 +21,7 @@ Under that scenario, Oklahomans’ utility rates could skyrocket.
 Under this law, major manufacturers and other industrial businesses should have some skin in the game.
 They should develop their own on-site power generation and energy storage facilities to do their part to be good neighbors.
 Building on the success of “Behind the Meter,” I’ve been working with Rep.
-Brad Boles on the Data Center Consumer Ratepayer Protection Act of 2026.
+Brad Boles on the Data Center Consumer Ratepayer Protection Act of 2026 .
 This bill would require large-load customers, such as data centers, cloud storage facilities, and artificial intelligence centers, to fund the infrastructure needed for their energy demands or operate behind the meter.
 I applaud the president’s push for a nationwide ratepayer protection plan because this idea is already working in Oklahoma.
 It’s shielding families from soaring energy bills while positioning our state as a leader in business development and growth.
@@ -34,3 +33,4 @@ President Trump is right to demand that Big Tech, not ratepayers, should pay for
 Oklahoma has set an example for how this approach can be win-win for residents and businesses.
 We’ve already created a blueprint that works.
 Washington should take note and follow Oklahoma’s lead.
+See the full article on The Oklahoman >> Grant Green for Oklahoma State Senate Follow Grant: Facebook DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS Authorized and Paid for by Friends of Grant Green 2026

@@ -1,12 +1,1 @@
-Home
-About
-Endorsements
-Supporters
-News
-Events
-Volunteer
-Photos
-Contact Us
-Donate
-Donate
-Events
+Home About Endorsements Supporters News Events Volunteer Photos Contact Us Donate Donate Events Follow Follow Follow Political advertisment paid for and approved by Robin Lockett for State House District 63

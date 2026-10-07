@@ -1,5 +1,4 @@
-Meet Vance
-A small businessman, Vance owns and operates, Vance Smith Contracting and Consulting, which provides business development services and consulting across Georgia.
+HOME MEET VANCE WHERE I STAND CONTACT MEET VANCE Meet Vance "I will continue to be an unwavering and conservative voice for our families at our State Capitol." A small businessman, Vance owns and operates, Vance Smith Contracting and Consulting, which provides business development services and consulting across Georgia.
 Previously, Vance was President & CEO of Vance Smith Construction Co. that was founded in 1974.
 Vance has a long record of serving our community.
 He serves Harris, Muscogee and Troup Counties in the State House of Representatives.
@@ -10,3 +9,6 @@ Committed to faith and family, Vance has been married to his wife, Michele, a re
 They are the parents of three children, Bo, Suzanne, and Kip and have eight grandchildren.
 Vance and Michele attend the Church of the Highlands in Columbus, Ga.
 Vance Smith grew up and resides in Harris County and received his Bachelor Degree from Columbus State University.
+HOME MEET VANCE WHERE I STAND CONTACT DONATE Follow Us Paid for by Vance Smith for State House, Inc.
+P.O.
+Box 171, Pine Mountain, GA 31822 vance@votevancesmith.com (706) 616-1501 Share by:

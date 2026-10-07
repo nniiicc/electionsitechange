@@ -1,5 +1,5 @@
-Housing
-Housing is a human right.
+Skip to main content Back to Home Where Dan Stands The Issues Dan Norton is focused on the challenges facing the Southern Tier — fighting for our communities, our families, and our future.
+Housing Housing is a human right.
 Everyone deserves a place to call home, whether as a home buyer, a renter or a student.
 But, right now, we do not have enough apartments or houses in Broome County for everyone to have a decent, affordable place to call home.
 Decades of underbuilding and underinvestment have left us in crisis.
@@ -9,13 +9,11 @@ The State must work with local governments, developers, builders and community g
 New York must expand funding for the Housing Access Voucher Program so that we can provide assistance to individuals and families who are experiencing homelessness or who are at risk of losing their homes.
 Lastly, New York should reform R1 zoning in cities.
 This would make our urban areas more vibrant, diverse and family-friendly and, at the same time, would encourage local businesses, parks and community spaces to flourish.
-Infrastructure
-Here in Broome County, our roads are crumbling, there are places where the water runs brown every day, and our flood mitigation systems are outdated.
+Infrastructure Here in Broome County, our roads are crumbling, there are places where the water runs brown every day, and our flood mitigation systems are outdated.
 We need to fix this now.
 One of the jobs of an Assemblymember is to secure funding for their district to address local issues like roads, water quality, and flood mitigation systems.
 I will fight to ensure that our community gets its fair share of State resources so that we can pave our roads, clean our water, and protect our community from the next possible flood event.
-NYSEG
-NYSEG is raking in profits while individuals, families and businesses are struggling to pay their gas and electric bills.
+NYSEG NYSEG is raking in profits while individuals, families and businesses are struggling to pay their gas and electric bills.
 This is backwards.
 The system should work for ratepayers, not shareholders.
 The time for change is now.
@@ -24,6 +22,7 @@ At the same time, we must create a centralized Office of Energy and Equity to st
 Lastly, the State must deny any rate increase that imposes an unfair burden on households and local economies.
 Don't see the issue you are looking for?
 Email Dan to learn more!
-Support the Campaign
-Your contribution helps us reach more voters and fight for the Southern Tier.
+Support the Campaign Your contribution helps us reach more voters and fight for the Southern Tier.
 Every dollar makes a difference.
+Donate Now Volunteer Contact Dan [email protected] Contact the Campaign [email protected] Friends of Daniel Norton PO Box 5561 Endicott, NY 13763-5561 Paid for by Friends of Daniel Norton Privacy Policy © # Friends of Daniel Norton.
+All rights reserved.

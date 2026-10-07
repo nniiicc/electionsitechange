@@ -1,24 +1,106 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260912T130000%2F20260912T150000&text=Holt+County+Autumn+Festival+Parade&details=%3Cp+class%3D%22%22%3EJoin+Josh+as+he+walks+in+the+Holt+County+Autumn+Festival+Parade+with+the+Holt+County+Democrats.%3C%2Fp%3E+&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com",
-"https://instagram.com/smead_for_missouri",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-12T13%3A00%3A00-04%3A00&enddt=2026-09-12T15%3A00%3A00-04%3A00&subject=Holt+County+Autumn+Festival+Parade&body=%3Cp+class%3D%22%22%3EJoin+Josh+as+he+walks+in+the+Holt+County+Autumn+Festival+Parade+with+the+Holt+County+Democrats.%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-12T13%3A00%3A00-04%3A00&enddt=2026-09-12T15%3A00%3A00-04%3A00&subject=Holt+County+Autumn+Festival+Parade&body=%3Cp+class%3D%22%22%3EJoin+Josh+as+he+walks+in+the+Holt+County+Autumn+Festival+Parade+with+the+Holt+County+Democrats.%3C%2Fp%3E",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/democrat-candidates-picnic",
-"https://votesmead.com/event/knox-county-corn-festival",
-"https://votesmead.com/events",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "Democrat Candidates Picnic »",
+"href": "https://votesmead.com/event/democrat-candidates-picnic/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260912T130000%2F20260912T150000&text=Holt+County+Autumn+Festival+Parade&details=%3Cp+class%3D%22%22%3EJoin+Josh+as+he+walks+in+the+Holt+County+Autumn+Festival+Parade+with+the+Holt+County+Democrats.%3C%2Fp%3E+&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T13%3A00%3A00-04%3A00&enddt=%23T15%3A00%3A00-04%3A00&location=&subject=Holt+County+Autumn+Festival+Parade&body=%3Cp+class%3D%22%22%3EJoin+Josh+as+he+walks+in+the+Holt+County+Autumn+Festival+Parade+with+the+Holt+County+Democrats.%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T13%3A00%3A00-04%3A00&enddt=%23T15%3A00%3A00-04%3A00&location=&subject=Holt+County+Autumn+Festival+Parade&body=%3Cp+class%3D%22%22%3EJoin+Josh+as+he+walks+in+the+Holt+County+Autumn+Festival+Parade+with+the+Holt+County+Democrats.%3C%2Fp%3E"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/event/holt-county-autumn-festival-parade-2/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "« Knox County Corn Festival",
+"href": "https://votesmead.com/event/knox-county-corn-festival/"
+}
 ]

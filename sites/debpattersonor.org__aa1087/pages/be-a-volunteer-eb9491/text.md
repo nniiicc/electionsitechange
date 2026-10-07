@@ -1,4 +1,3 @@
-Get Involved
-Thank you so much for all that you have already done!
+Home About Deb Priorities Endorsements Get Involved Español Donate Home About Deb Priorities Endorsements Get Involved Español Donate Scroll Get Involved SIGN UP FOR OUR NEWSLETTER DONATE Thank you so much for all that you have already done!
 Please complete the form below with your contact information and the ways you would like to volunteer.
-Scroll
+Help Elect Deb Patterson Volunteer DONATE Friends of Deb Patterson PO Box 8, Salem, OR 97308 (503) 400-5224 deb@debpattersonor.org Hours Home About Deb Priorities Endorsements Get Involved Donate Oregon Voter Registration FRIENDS OF DEB PATTERSON, PO BOX 8, SALEM, OR 97308 DEB@DEBPATTERSONOR.ORG Paid for by Friends of Deb Patterson, PAC ID #18821 ©# Friends of Deb Patterson

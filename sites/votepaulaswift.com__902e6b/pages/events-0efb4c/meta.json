@@ -1,7 +1,11 @@
 {
- "description": "Meet Paula Swift in person. Coffee hours, canvass launches, and community events across Orange County \u2014 see what\u2019s coming up.",
+ "description": "Meet Paula Swift in person. Coffee hours, canvass launches, and community events across Orange County — see what’s coming up.",
  "final_url": "https://www.votepaulaswift.com/events",
+ "fingerprint": "fa05e485648be41671e894eda84e82ce45e646bf",
+ "format": 3,
  "paid_for_by": "Paid for by Swift for Assembly 2026 FPPC #1485309 1 W",
  "title": "Events | Paula Swift for California State Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

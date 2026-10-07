@@ -1,7 +1,22 @@
 [
-"http://sweeneyforiowa.com/",
-"https://facebook.com/SweeneyforIowa",
-"https://secure.winred.com/sweeney-for-senate/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://sweeneyforiowa.com/privacy-policy",
-"https://twitter.com/@SweeneyforIowa"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sweeney-for-senate/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/SweeneyforIowa"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sweeneyforiowa.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/@SweeneyforIowa"
+},
+{
+"text": "[image]",
+"href": "http://sweeneyforiowa.com"
+}
 ]

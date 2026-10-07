@@ -1,26 +1,9 @@
-Representative Christine Chandler believes that full transparency of Capital Outlay appropriations is critical.
+Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop More Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Account Orders My Account Sign out Sign In Orders My Account Capital Outlay 2026 Transparency Representative Christine Chandler believes that full transparency of Capital Outlay appropriations is critical.
 That's why she has always published her capital outlay allocations since being elected to the NM House.
 The NM Legislature passed - and the Governor - signed HB55 in the 2021 Legislative Session to require the full transparency and publication of all capital outlay appropriations by all State Senators and Representatives.
 Rep.
 Chandler proudly voted YES for this bill.
-Each NM Representative was allocated $2.5 million in the 2026 Legislative Session to appropriate to capital outlay projects.
+2026 Capital Outlay Each NM Representative was allocated $2.5 million in the 2026 Legislative Session to appropriate to capital outlay projects.
 While there were many worthwhile projects submitted to the Legislative Council Service for Representative Chandler's consideration, the Representative placed priority on public safety projects, infrastructure improvements, educational facilities, and affordable housing projects.
 Please note that many of these projects also receive allocations from other State Senators & Representatives (as well as other funding agencies) to complete and fully fund their projects.
-$250,000
-Sandoval County
-$50,000
-$150,000
-$400,000
-$200,000
-$750,000
-Los Alamos County
-$100,000
-Santa Fe County
-Rio Arriba County
-Chandler_CapitalOutlay_2026 (pdf)
-Download
-Paid for by Friends for Christine
-PO Box 1565, Los Alamos, NM 87544
-Copyright © 2026 Friends For Christine - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Coronado Soil and Water Conservation District Access Route Repair $250,000 Sandoval County Jemez Historic Site Improvements $50,000 Sandoval County Jemez Springs Community Park and Playground Construction $250,000 Sandoval County Jemez Springs Community Park Bathroom Construction $150,000 Sandoval County Jemez Springs DWA Pipeline Replacement $400,000 Sandoval County Jemez Springs DWA Water Line Replacement $200,000 Sandoval County Los Alamos North Mesa Housing Construction Project (in Collaboration with Los Alamos Public Schools) $750,000 Los Alamos County Santa Fe Mortgage Finance Authority Affordable Homes Construction Project $100,000 Santa Fe County North Central Regional Transit District Chama Bus Operations Facility $50,000 Rio Arriba County Pojoaque Pueblo Wellness Center Renovations $50,000 Santa Fe County San Ildefonso Pueblo Equipment Purchases $100,000 Santa Fe County UNM-Los Alamos Building 4 Roof Replacement $50,000 Los Alamos County Rio Arriba Recreation Center Construction $100,000 Rio Arriba County 2026 Christine Chandler Capital Outlay Report Download Chandler_CapitalOutlay_2026 (pdf) Download Privacy Policy Terms and Conditions Paid for by Friends for Christine PO Box 1565, Los Alamos, NM 87544 Copyright © # Friends For Christine - All Rights Reserved.

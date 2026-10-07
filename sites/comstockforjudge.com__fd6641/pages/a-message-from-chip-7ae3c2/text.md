@@ -1,4 +1,4 @@
-I am proud to officially announce my candidacy as the Republican candidate for Judge of the Seventh District Court of Appeals in Ohio for the year 2026.
+david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder david 'chip' comstock Attorney • Fire Chief First responder Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact More Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact Home Meet Chip A Message from Chip Legal Career Resume Firefighter Resume Donate VIDEOS Gallery Events Contact A Message from Chip Greetings, I am proud to officially announce my candidacy as the Republican candidate for Judge of the Seventh District Court of Appeals in Ohio for the year 2026.
 This seat serves the citizens of Belmont, Carroll, Columbiana, Harrison, Jefferson, Mahoning, Monroe, and Noble counties.
 For over 37 years, I have dedicated my career to the practice of law, advocating for clients in courtrooms across Ohio and in some of our nation's highest judicial arenas.
 I am admitted to practice before the United States Supreme Court, the United States Court of Appeals for the Sixth Circuit, the United States District Courts for both the Northern and Southern Districts of Ohio, and the Ohio Supreme Court.
@@ -12,6 +12,5 @@ As Judge, I will bring my decades of legal experience, my firsthand knowledge of
 I believe in interpreting the law as written and applying it without bias, ensuring equal justice for all.
 I look forward to earning your trust and support for this important judicial seat.
 Together, we can ensure that our appellate court remains a place of fairness, accountability, and constitutional integrity.
-David 'Chip' Comstock
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+David 'Chip' Comstock Copyright © # Comstock for Judge - All Rights Reserved.
+Powered by

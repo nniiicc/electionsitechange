@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.elizabethforus.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "ac0829caf7082216b6c4416d4e00cf5497a59e22",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

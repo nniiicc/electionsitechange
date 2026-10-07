@@ -1,30 +1,12 @@
-PRESS COVERAGE
-"No Kings" protesters across the Tennessee Valley voice frustrations with Trump administration
-Valentina Chelala, Carson Keel
-Many gathered Saturday from Huntsville to Florence for "No Kings" protests, raising concerns about immigration, government structure and presidential accountability.
-March 29, 2026 at 12:00:00 PM
-Can Republican Dale Strong be defeated in solidly red north Alabama?
-This Democrat thinks so
-Scott Turner
-Can a Democrat unseat U.S.
-Rep.
-Dale Strong, R-Monrovia, in November’s general election in a district that has been solidly Republican since Mo Brooks was elected in 2010?
-One of the Democrats vying to be the two-term Republican’s challenger in the Fifth Congressional District believes he can.
-February 15, 2026 at 8:00:00 AM
-Alabama Democratic candidates to gather in Montgomery to promote 'unified' agenda
-Nathan Prewett
-Democratic congressional candidates will gather at the party headquarters building in Montgomery at 1 p.m. on Wednesday to promote what they call a "unified" agenda ahead of the upcoming elections.
-January 7, 2026 at 12:00:00 PM
-Andrew Sneed discusses congressional run at Jackson County Democrat Club meeting
-Katie Hightower
-On Dec. 9, the Jackson County Democrat Club held its monthly meeting at the Scottsboro Public Library.
-Andrew Sneed spoke at the meeting about his decision to run for Congress in Alabama’s 5th Congressional District against Dale Strong.
-December 27, 2025 at 12:00:00 PM
-Democrat launches campaign opposing North Alabama Congressman Dale Strong
-Kayla Smith
-North Alabama will have at least one Democrat running for Congress in 2026.
-Andrew Sneed announced he is challenging Republican U.S.
-Rep.
-Dale Strong for his seat in Congress.
-He launched his campaign at an event on Saturday.
-August 13, 2025 at 5:55:00 PM
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE PRESS Coverage of the Sneed campaign in Alabama's 5th.
+Jun 8, 2026 Alabama Democratic Conference endorses Sneed in 5th District congressional runoff Read More > Jun 8, 2026 ADC endorses Sneed in 5th District Democratic runoff Read More > Jun 7, 2026 June 16 primary runoff in north Alabama: Here’s who is on the ballot Read More > May 30, 2026 Andrew Sneed: Why Democrats Must Re-Earn Trust to Beat Dale Strong | AL District 5 Read More > May 21, 2026 Andrew Sneed, Candice Duvieilh set for 5th Congressional District runoff Read More > May 19, 2026 Dist.
+5 Democratic primary heads to runoff: Sneed and Duvieilh lead Read More > May 15, 2026 Meet the Candidates: Democrats running opposite unopposed Republican Rep.
+Dale Strong Read More > May 10, 2026 North Alabama’s most intriguing primary races: Congress, Sheriff and battle for State House Read More > May 4, 2026 Alabama Democratic congressional challenger, once a plumber: ‘I fix things’ Read More > Mar 29, 2026 "No Kings" protesters across the Tennessee Valley voice frustrations with Trump administration Read More > Mar 27, 2026 Rep.
+Strong slams Senate for DHS shutdown, drawing opponent’s criticism Read More > Mar 23, 2026 Democratic U.S.
+House Candidates: Andrew Sneed Read More > Mar 20, 2026 Democrats launch national coalition for congressional ethics, judicial reform Read More > Mar 19, 2026 Sneed rallies Democrats to close congressional "trust gap" Read More > Mar 17, 2026 Alabama-led candidate coalition to hold U.S.
+Capitol launch event Read More > Mar 15, 2026 Alabama District 5 race: Meet the candidates challenging Dale Strong Read More > Feb 15, 2026 Can Republican Dale Strong be defeated in solidly red north Alabama?
+This Democrat thinks so Read More > Feb 10, 2026 Andrew Sneed gains ground on Rep.
+Dale Strong in North Alabama race Read More > Feb 6, 2026 Andrew Sneed outraises Dale Strong in recent reporting Read More > Jan 12, 2026 Democrats, Republicans have flurry of activity after election qualifying opens Read More > Jan 9, 2026 Alabama Democratic candidates urge unity, reform at election filing event Read More > Jan 8, 2026 Alabama Democratic congressional candidates say they’re optimistic for 2026 Read More > Jan 8, 2026 Full slate of Democratic candidates for U.S.
+Congress officially qualify, talk issues Read More > Jan 7, 2026 Democratic candidates to unite in Montgomery today Read More > Jan 7, 2026 Alabama Democratic candidates to gather in Montgomery to promote 'unified' agenda Read More > Jan 5, 2026 Groups gather in Birmingham to protest war against Venezuela Read More > Jan 5, 2026 Alabama reacts to Trump’s surprise assault on Venezuela Read More > Dec 29, 2025 Andrew Sneed talks District 5 run, need for congressional reform Read More > Dec 27, 2025 Andrew Sneed discusses congressional run at Jackson County Democrat Club meeting Read More > Dec 19, 2025 Blue Dog Democrat Sneed on congressional run: ‘Washington’s broken’ Read More > Dec 19, 2025 U.S.
+Congress Candidate Andrew Sneed sits down with FOX54 Read More > Dec 5, 2025 Opinion | Andrew Sneed is the candidate Alabama voters claim they want Read More > Dec 3, 2025 This Emmy Award-winning actress backs a North Alabama congressional candidate Read More > Oct 26, 2025 Hay Day Fall Festival gathers donations for local causes Read More > Aug 13, 2025 Democrat launches campaign opposing North Alabama Congressman Dale Strong Read More > Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

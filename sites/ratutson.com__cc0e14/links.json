@@ -1,8 +1,42 @@
 [
-"https://a.co/d/097E0jDK",
-"https://cookieadmin.net/",
-"https://ratutson.com/",
-"https://ratutson.com/sample-page",
-"https://shop.ingramspark.com/b/084?params=IV2IgQ9BmZ0V6bf2VDLZ3GJR6F8hXMzqI3xf24jkrc9",
-"https://wpastra.com/"
+{
+"text": "Astra WordPress Theme",
+"href": "https://wpastra.com"
+},
+{
+"text": "Buy at Barnes & Noble",
+"href": "https://www.barnesandnoble.com/w/the-fourth-floor-r-a-tutson/1150088651?ean=9798295857980"
+},
+{
+"text": "Buy on Amazon",
+"href": "https://a.co/d/097E0jDK"
+},
+{
+"text": "Buy via IngramSpark",
+"href": "https://shop.ingramspark.com/b/084?params=IV2IgQ9BmZ0V6bf2VDLZ3GJR6F8hXMzqI3xf24jkrc9"
+},
+{
+"text": "Home",
+"href": "https://ratutson.com/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "R. A. Tutson, LLC",
+"href": "https://ratutson.com/"
+},
+{
+"text": "Sample Page",
+"href": "https://ratutson.com/sample-page/"
+},
+{
+"text": "[image: R. A. Tutson, LLC]",
+"href": "https://ratutson.com/"
+},
+{
+"text": "contact@ratutson.com",
+"href": "mailto:contact@ratutson.com"
+}
 ]

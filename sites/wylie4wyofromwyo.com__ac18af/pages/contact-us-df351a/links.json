@@ -1,7 +1,30 @@
 [
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://wylie4wyofromwyo.com/",
-"https://wylie4wyofromwyo.com/contact-us",
-"https://wylie4wyofromwyo.com/meet-the-candidate"
+{
+"text": "Contact Us",
+"href": "https://wylie4wyofromwyo.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://wylie4wyofromwyo.com/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://wylie4wyofromwyo.com/meet-the-candidate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Wylie4WyomingWylie4WyomingWylie4WyomingWylie4Wyoming",
+"href": "https://wylie4wyofromwyo.com/"
+},
+{
+"text": "codywylie@wylie4wyofromwyo.com",
+"href": "mailto:codywylie@wylie4wyofromwyo.com"
+}
 ]

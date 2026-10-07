@@ -1,11 +1,14 @@
 {
  "description": "PRESS RELEASES",
  "final_url": "https://bridgetforpa.com/press-releases/",
- "paid_for_by": null,
+ "fingerprint": "bbadc5d59de84f73a5a5f32edc0cde83a28e942b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media - Bridget For PA",
  "years_mentioned": [
   "2019",
   "2020",
-  "2021"
+  "2021",
+  "2022"
  ]
 }

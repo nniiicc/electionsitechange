@@ -1,7 +1,9 @@
 {
  "description": "Free Hong Kong",
  "final_url": "https://www.alaskaquinn.com/language/hongkong",
- "paid_for_by": null,
+ "fingerprint": "b8625c34ee86ec8bbfdc548c8e0626152c6c4bf2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "AlaskaQuinn - HongKong",
  "years_mentioned": [
   "2020"

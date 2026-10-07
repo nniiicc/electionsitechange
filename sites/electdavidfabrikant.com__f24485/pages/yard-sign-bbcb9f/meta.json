@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.electdavidfabrikant.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "3be7a659f61ecb4c35d269c50262c0c804e9e6b3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

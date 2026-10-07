@@ -1,18 +1,70 @@
 [
-"http://x.com/paulforillinois",
-"https://actionnetwork.org/forms/volunteer-with-paul-for-illinois",
-"https://bsky.app/profile/paulforillinois.bsky.social",
-"https://facebook.com/profile.php?id=61578926994498",
-"https://instagram.com/paulforillinois",
-"https://mobilize.us/paulforillinois/event/875212",
-"https://mobilize.us/paulforillinois/event/875222",
-"https://paulforillinois.com/",
-"https://paulforillinois.com/cart",
-"https://paulforillinois.com/contact",
-"https://paulforillinois.com/endorsements",
-"https://paulforillinois.com/issues",
-"https://paulforillinois.com/meet-paul",
-"https://paulforillinois.com/news",
-"https://paulforillinois.com/volunteer",
-"https://secure.actblue.com/donate/paulforil"
+{
+"text": "0",
+"href": "https://www.paulforillinois.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.paulforillinois.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/paulforil"
+},
+{
+"text": "Endorsements",
+"href": "https://www.paulforillinois.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.paulforillinois.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.paulforillinois.com/issues"
+},
+{
+"text": "Meet Paul",
+"href": "https://www.paulforillinois.com/meet-paul"
+},
+{
+"text": "News",
+"href": "https://www.paulforillinois.com/news"
+},
+{
+"text": "RSVP",
+"href": "https://actionnetwork.org/forms/volunteer-with-paul-for-illinois"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/paulforillinois/event/875212/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/paulforillinois/event/875222/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.paulforillinois.com/volunteer"
+},
+{
+"text": "[image: Paul For Illinois]",
+"href": "https://www.paulforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/paulforillinois"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/paulforillinois.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578926994498+"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulforillinois"
+}
 ]

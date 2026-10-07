@@ -1,4 +1,10 @@
 [
-"https://mackbutler.com/",
-"https://secure.anedot.com/mackbutler/donate"
+{
+"text": "Donate Here!",
+"href": "https://secure.anedot.com/mackbutler/donate"
+},
+{
+"text": "[image: Mack Butler foR House]",
+"href": "https://mackbutler.com/"
+}
 ]

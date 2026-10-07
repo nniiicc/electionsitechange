@@ -1,4 +1,4 @@
-It’s Official!
+0 Skip to Content Corynne Courpas for State Delegate About Endorsements News Events Gallery Volunteer Contact DONATE Open Menu Close Menu Corynne Courpas for State Delegate About Endorsements News Events Gallery Volunteer Contact DONATE Open Menu Close Menu About Endorsements News Events Gallery Volunteer Contact DONATE It’s Official!
 Happy Spring!
 I hope you enjoyed my campaign kickoff as much as I did.
 Nearly 200 friends from every part of my life showed up in support, and the energy in the room was incredible.
@@ -18,13 +18,10 @@ Thanks to those of you who have already given their time, talent, or treasure.
 We still have a long road ahead.
 I'll be attending downtown events in Westminster, and I’ve booked a table at Hampstead Day on May 16th.
 T‑shirts are on order, so look for messages from Sally Long about joining me as we connect with more voters.
-If you haven't signed up to volunteer, please email Sally at slong432@comcast.net.
+If you haven't signed up to volunteer, please email Sally at slong432@comcast.net .
 For updates, please follow Corynne Courpas for Delegate on Facebook.
-If you'd like to get email updates, send a request to be added to my list at CourpasforDelegate@gmail.com.
-Onward,
-Corynne
-Announcement - 2/20/2026
-My name is Corynne Courpas, and I’m running for the Maryland House of Delegates in District 42C.
+If you'd like to get email updates, send a request to be added to my list at CourpasforDelegate@gmail.com .
+Onward, Corynne Announcement - 2/20/2026 My name is Corynne Courpas, and I’m running for the Maryland House of Delegates in District 42C.
 Carroll County has been my home for most of my life.
 I attended college here, and since then, I have lived, worked, and contributed to this remarkable community.
 From childhood, I’ve carried one simple lesson: serve where you live.
@@ -44,6 +41,6 @@ I’m honored to have the support of foodservice owners, employees, volunteers, 
 They know me as a listener, problem solver, and someone who values collaboration.
 I’m ready to put those skills to work for the people of Carroll County in this place I’m proud to call home.
 I’m ready to protect what makes our community special and ensure a stable, prosperous future for the generations to come.
-Corynne Courpas
-Candidate for Maryland House of Delegates, District 42C
-Authority Corynne Courpas for Delegate, Francine Hahn, Treasurer
+Corynne Courpas Candidate for Maryland House of Delegates, District 42C Authority Corynne Courpas for Delegate, Francine Hahn, Treasurer Your Voice in Annapolis Starts Here!
+Corynne Courpas Candidate for Maryland House of Delegates, District 42C Authority Corynne Courpas for Delegate, Francine Hahn, Treasurer Made with Squarespace Contact 410-259-7509 CourpasForDelegate@gmail.com P.O.
+Box 1261 Westminster, MD 21158

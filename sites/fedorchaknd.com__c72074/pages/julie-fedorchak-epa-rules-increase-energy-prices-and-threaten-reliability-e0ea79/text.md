@@ -1,4 +1,7 @@
-Few people in America understand how vulnerable our power grid is today.
+Thank you for visiting my campaign website.
+If your intention was to visit my official U.S.
+House of Representatives website, please click here.
+Home About Leadership Get Involved News DONATE News Julie Fedorchak: EPA Rules Increase Energy Prices and Threaten Reliability May 16, 2024 Few people in America understand how vulnerable our power grid is today.
 Two-thirds of America is at risk of not having enough power to meet demand.
 Two-thirds of our nation could be sitting in a dark room wondering what to do next, at the mercy of a long line of leaders who didn’t do their jobs.
 We all can agree that in a nation blessed with energy resources of all types we should never be without power.
@@ -12,4 +15,6 @@ More than half of our state revenues and nearly 60,000 jobs hang in the balance 
 The forces coming against our coal, oil and natural gas industries are attacking at every angle: insurance, financing and mountains of federal regulations.
 This week the US Environmental Protection Agency unleashed a deluge of rules that pose a huge threat to the reliability and affordability of the power our families, businesses and communities depend on for our lives and livelihoods.
 As a North Dakota Public Service Commissioner, I am part of North Dakota’s efforts to fight these new rules including the Greenhouse Gas Regulations and the Mercury and Air Toxins (MATS) Rule.
-Read the rest of the Op-ed at Inforum: https://www.inforum.com/community/letters/paid-political-letter-epa-rules-increase-energy-prices-and-threaten-reliability-5c42027021e12668ac8da793-6632f34d99179c000e051263
+Read the rest of the Op-ed at Inforum: https://www.inforum.com/community/letters/paid-political-letter-epa-rules-increase-energy-prices-and-threaten-reliability-5c42027021e12668ac8da793-6632f34d99179c000e051263 Like us on Facebook Julie Fedorchak for Congress Help Out Get Involved Issues Issues Social Follow Follow Follow Paid for by Fedorchak for ND | PO Box 2422, Bismarck ND 58502 Join Team Julie Today!
+Subscribe to our newsletter for the latest updates directly from the campaign trail!
+First name (Required) * Last name (Required) City (Required) Email (Required) Subscribe ×

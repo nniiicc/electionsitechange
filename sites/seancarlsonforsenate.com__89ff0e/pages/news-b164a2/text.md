@@ -1,9 +1,1 @@
-News & Press
-PRESS RELEASE
-Senator Rosemary Bayer Endorses Sean Carlson for State Senate
-"Sean has shown time and again that he has the leadership, integrity, and commitment to fight for all of us."
-Skip navigation menu
-News & Press
-PRESS RELEASE
-Senator Rosemary Bayer Endorses Sean Carlson for State Senate
-"Sean has shown time and again that he has the leadership, integrity, and commitment to fight for all of us."
+Skip navigation menu Home Meet Sean Priorities Endorsements Get Involved News Donate Home Meet Sean Priorities Endorsements Get Involved News Donate News & Press PRESS RELEASE Senator Rosemary Bayer Endorses Sean Carlson for State Senate "Sean has shown time and again that he has the leadership, integrity, and commitment to fight for all of us." Read more Aug 19 2025 PRESS RELEASE Sean Carlson Announces Run for Michigan State Senate District 13 " We are at a pivotal moment in Michigan, and this is the time for proven leaders." Read more Aug 19 2025 Powered by RUN! website builder Paid for by Sean Carlson for State Senate PO Box 217, 1150 Atlantic Street Milford, MI 48381 You need to enable JavaScript to run this app.

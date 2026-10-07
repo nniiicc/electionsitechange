@@ -1,49 +1,5 @@
-ENDORSEMENTS
-Proud to be Endorsed by:
-- Oregon Farm Bureau
-- Oregon Young Republicans
-- Maggie’s List
-- Oregon Coalition of Police and Sheriffs (ORCOPS)
-- Former Oregon Secretary of State Bev Clarno
-- Oregon Senate Minority Leader Bruce Starr
-- State Senator Christine Drazan
-- State Senator Mike McLane
-- State Senator Diane Linthicum
-- State Senator Todd Nash
-- Former State Senator Lynn Findley
-- State Representative Ed Diehl
-- State Representative Matt Bunch
-- State Representative Alek Skarlatos
-- State Representative Bobby Levy
-- State Representative Mark Owens
-- State Representative Kevin Mannix
-- State Representative E.
-Werner Reschke
-- Deschutes County Sheriff Ty Rupert
-- Deschutes County Commissioner Tony Debone
-- Marion County Commissioner Colm Willis
-- Marion County Commissioner Danielle Bethell
-- Linn County Commissioner Will Tucker
-- Polk County Commissioner Lyle Mordhorst
-- Jefferson County Commissioner Kelly Simmelink
-- Umatilla County Commissioner John Shafer
-- Columbia County Commissioner Casey Garrett
-- Crook County Commissioner Susan Hemreck
-- Union County Commissioner R.
-Matthew Scarfo
-- Umatilla County Commissioner Daniel Dorran
-- Klamath County Commissioner Derrick DeGroot
-- Lane County Commissioner David Loveall
-- Polk County Commissioner Jeremy Gordon
-- Sherman County Commissioner Joe Dabulski Jr.
-- Union County Commissioner Paul Anderes
-- Harney County Commissioner Patty Dorroh
-- Former Klamath Falls Chief of Police and Klamath
-- County Commissioner David Henslee
-- Deschutes County Treasurer Bill Kuhn
-- Molalla Mayor Scott Keyser
-- Clackamas County Commissioner Ben West
-- Former Mayor of Redmond George Endicott
-- Former Oregon State Police Superintendent Tim McLain
-- Rob Imhoff- Business Owner
-- Josh Lair- Director of Community Development at Ideal Option
+top of page DONATE NOW TO SEND PATTI ADAIR TO CONGRESS HOME ABOUT JOIN PRIORITIES EVENTS ENDORSEMENTS MEDIA NEWS DONATE ENDORSEMENTS Proud to be Endorsed by: Oregon Farm Bureau Oregon Young Republicans Maggie’s List Oregon Coalition of Police and Sheriffs (ORCOPS) Former Oregon Secretary of State Bev Clarno Oregon Senate Minority Leader Bruce Starr State Senator Christine Drazan State Senator Mike McLane State Senator Diane Linthicum State Senator Todd Nash Former State Senator Lynn Findley State Representative Ed Diehl State Representative Matt Bunch State Representative Alek Skarlatos State Representative Bobby Levy State Representative Mark Owens State Representative Kevin Mannix State Representative E.
+Werner Reschke Deschutes County Sheriff Ty Rupert Deschutes County Commissioner Tony Debone Marion County Commissioner Colm Willis Marion County Commissioner Danielle Bethell Linn County Commissioner Will Tucker Polk County Commissioner Lyle Mordhorst Jefferson County Commissioner Kelly Simmelink Umatilla County Commissioner John Shafer Columbia County Commissioner Casey Garrett Crook County Commissioner Susan Hemreck Union County Commissioner R.
+Matthew Scarfo Umatilla County Commissioner Daniel Dorran Klamath County Commissioner Derrick DeGroot Lane County Commissioner David Loveall Polk County Commissioner Jeremy Gordon Sherman County Commissioner Joe Dabulski Jr.
+Union County Commissioner Paul Anderes Harney County Commissioner Patty Dorroh Former Klamath Falls Chief of Police and Klamath County Commissioner David Henslee Deschutes County Treasurer Bill Kuhn Molalla Mayor Scott Keyser ​ Clackamas County Commissioner Ben West Former Mayor of Redmond George Endicott Former Oregon State Police Superintendent Tim McLain Rob Imhoff- Business Owner Josh Lair- Director of Community Development at Ideal Option DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE DONATE BY MAIL: Patti Adair for Congress, PO Box 54, West Linn, OR 97068.
+PAID FOR BY PATTI ADAIR FOR CONGRESS bottom of page

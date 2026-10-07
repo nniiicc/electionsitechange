@@ -1,5 +1,5 @@
-What Pride Month Means to Me
-Earlier this year, as the so-called "bathroom bill" (SB 244) was being debated on the Kansas House floor, I sat and watched dozens of my new colleagues—people I work alongside, people who are supposed to represent every Kansan—debate my humanity.
+top of page Contribute Menu Close About Priorities Get Involved Blog Donate Contact Vote All Posts Search What Pride Month Means to Me Rep.
+Abi Boatman Jun 22 2 min read Earlier this year, as the so-called "bathroom bill" (SB 244) was being debated on the Kansas House floor, I sat and watched dozens of my new colleagues—people I work alongside, people who are supposed to represent every Kansan—debate my humanity.
 It wasn't the first time I've been forced to sit by while people I don't know speculate about my rights, and my transgender peers' rights, to exist in society.
 Nor will it be the last.
 Nobody should have to endure that.
@@ -23,7 +23,9 @@ I was honored to be asked to speak at the ICT Pride Parade Rally this Saturday, 
 You can learn more about both events at the Facebook event linked here.
 As much as I love Pride Month, our fight doesn't end when June does.
 It continues in Topeka, where a Republican supermajority is already laying the groundwork for more bills like SB 244—and where we need legislators willing to stand up, even when it's personal, and say no.
+This is why I'm asking: if you're able, please make a gift to this campaign.
 Your support helps us keep organizing, keep knocking doors, and keep making the case to voters across District 86 about what's truly on the line—not just for me, but for every Kansan whose humanity shouldn't be subject to a floor vote.
 Thank you for standing with me, this month and every month.
-In solidarity,
-Abi
+In solidarity, Abi Recent Posts See All A Tale of Two Kansases Our Kids Deserve Better: We Must Fully Fund Kansas Schools 2026 Legislative Session Recap Abi Boatman for Kansas Donate Now abiboatmanforkansas@gmail.com ​ ​ Paid for by Abi Boatman for Kansas, Kaytie Brozek, Treasurer ​ © Abi Boatman for Kansas.
+Powered and secured by Wix Privacy Policy.
+Terms & Conditions. bottom of page

@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Town+Hall+&dates=20260916T230000Z%2F20260924T000000Z",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://youtube.com/live/nm3GaF4LO80?feature=share",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/meet-the-candidates-forum",
-"https://zebulonforcongress.com/events/virtual-town-hall-wnptw-3jlsr",
-"https://zebulonforcongress.com/events/virtual-town-hall-wnptw-3jlsr-8amxn-ws7m9?format=ical",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Town+Hall+&dates=20260916T230000Z%2F20260924T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-wnptw-3jlsr-8amxn-ws7m9?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next September 28 Meet the Candidates Forum (Petoskey)",
+"href": "https://www.zebulonforcongress.com/events/meet-the-candidates-forum"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous August 26 Virtual Town Hall",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-wnptw-3jlsr"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "https://youtube.com/live/8oaFzivDIuQ?feature=share",
+"href": "https://youtube.com/live/nm3GaF4LO80?feature=share"
+}
 ]

@@ -1,8 +1,3 @@
-**NY22 MEDIA ADVISORY FOR NOV3RD**
-Claudia Tenney Election Day Plan Ahead for Media:
-Tenney Voting & Election Watch Party Details
-7:30AM: Claudia Tenney Arrives to Vote in New Hartford, NY ***Media Availability Immediately Following*** Claudia Tenney Voting Location: St.
-George’s Orthodox Church 350 Higby Rd, New Hartford, NY 13413
-8:00PM: Claudia Tenney Election Night Watch Party The Nothin’ Fancy Café 10 Ruth St, Vernon, NY 13476 (Off Route 5) ~20 min West of Downtown Utica
-For watch party details & election day media availabilities, please contact:
-Sean Kennedy 202-317-0485 (mobile) [email protected]
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page NY22 ADVISORY for 11/3: Claudia Tenney Voting & Watch Party Share November 2 2020 **NY22 MEDIA ADVISORY FOR NOV3RD** Claudia Tenney Election Day Plan Ahead for Media: Tenney Voting & Election Watch Party Details 7:30AM: Claudia Tenney Arrives to Vote in New Hartford, NY ***Media Availability Immediately Following*** Claudia Tenney Voting Location: St.
+George’s Orthodox Church 350 Higby Rd, New Hartford, NY 13413 8:00PM: Claudia Tenney Election Night Watch Party The Nothin’ Fancy Café 10 Ruth St, Vernon, NY 13476 (Off Route 5) ~20 min West of Downtown Utica For watch party details & election day media availabilities, please contact: Sean Kennedy 202-317-0485 (mobile) [email protected] Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

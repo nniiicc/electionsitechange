@@ -1,36 +1,5 @@
-Videos
-We’re proud to have focused on policy issues during our campaign.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Videos We’re proud to have focused on policy issues during our campaign.
 Documented here are the platform videos and TV ads that gave us the momentum to win!
-Priorities
-- Modernization
-- Introduction
-- Ethics Reform
-- Voting Rights
-- Commitment
-- Working Together
-- Securities
-- Together
-- Trust
-- Did you know?
-Modernization
-Introduction
-Ethics Reform
-Voting Rights
-https://www.youtube.com/watch?v=RjKb–vpLgY
-Commitment
-Working Together
-Securities
-Together
-Trust
-Did you know?
-TV ADS
-- You Da Man
-- Assist
-- Line Up
-- Skip the Line
-- Promise
-You Da Man
-Assist
-Line Up
-Skip the Line
-Promise
+Priorities Modernization Introduction Ethics Reform Voting Rights Commitment Working Together Securities Together Trust Did you know?
+Modernization Introduction Ethics Reform Voting Rights https://www.youtube.com/watch?v=RjKb–vpLgY Commitment Working Together Securities Together Trust Did you know?
+TV ADS You Da Man Assist Line Up Skip the Line Promise You Da Man Assist Line Up Skip the Line Promise In the News Press Releases Endorsements Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

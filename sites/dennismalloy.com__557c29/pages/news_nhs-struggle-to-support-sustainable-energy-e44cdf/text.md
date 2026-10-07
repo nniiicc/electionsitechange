@@ -1,4 +1,4 @@
-The following is an opinion piece offered by the House Minority Leader Alexis Simpson of Exeter published in the NH Union Leader.
+Why I Serve News Donate Why I Serve News Donate Dennis Malloy April 2, 2026 NH's Struggle to Support Sustainable Energy Dennis Malloy April 2, 2026 The following is an opinion piece offered by the House Minority Leader Alexis Simpson of Exeter published in the NH Union Leader.
 Over the past few weeks, Granite Staters have watched gas prices climb and home heating oil prices spike, all because of Donald Trump’s reckless, costly war in Iran.
 This is on top of the rising electric bills we’ve all experienced over the past year.
 There is no room in family budgets to keep absorbing these increased energy costs at a time when we’re already being hit by high housing, child care, and health care costs.
@@ -38,3 +38,6 @@ Smart energy policy means lower bills and more control over what Granite Staters
 If we want energy that works for New Hampshire, it’s time to choose a new path.
 House Democratic Leader Rep.
 Alexis Simpson, D-Exeter, represents Rockingham District 33.
+Newer Post Amending the Constitution is a Big Deal Older Post NH's Tax Revenue Update Have a question or comment for Dennis Malloy?
+Contact information: dennis@dennismalloy.com 10 Van Etten Drive Greenland, NH 03840 603 970 1827 Dennis Malloy, Rockingham District 24, NH House of Representatives.
+Back to Top Donate dennis@dennismalloy.com Powered by Squarespace

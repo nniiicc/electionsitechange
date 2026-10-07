@@ -1,10 +1,3 @@
-Back to All Events
-Join Team Justine for our final push!
-Reach out to Abby Wilhelm (abby.wilhelm.campaign@gmail.com) or 401-644-3501 with any questions.
-Previous
-Previous
-June 25
-Thursday Volunteer Night
-Next
-Next
-June 30
+0 Skip to Content Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Back to All Events Join Team Justine on Election Day Tuesday, June 30, 2026 7:30 AM 8:30 AM Google Calendar ICS Join Team Justine for our final push!
+Reach out to Abby Wilhelm ( abby.wilhelm.campaign@gmail.com ) or 401-644-3501 with any questions.
+Previous Previous June 25 Thursday Volunteer Night Next Next June 30 Election Night Celebration Paid by Justine Sandoval for House District 5, Registered Agent Emily Mahoney

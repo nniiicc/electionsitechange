@@ -1,13 +1,54 @@
 [
-"https://chaneyforgeorgia.com/",
-"https://chaneyforgeorgia.com/about",
-"https://chaneyforgeorgia.com/accessibility-statement",
-"https://chaneyforgeorgia.com/event-list",
-"https://chaneyforgeorgia.com/privacy-policy",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.chaneyforgeorgia.com%2Fevent-details%2Fstrategic-planning-for-chaney-campaign",
-"https://secure.actblue.com/donate/chaneyforgeorgia",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.chaneyforgeorgia.com%2Fevent-details%2Fstrategic-planning-for-chaney-campaign&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/wix"
+{
+"text": "Accessibility Statement",
+"href": "https://www.chaneyforgeorgia.com/accessibility-statement"
+},
+{
+"text": "Beliefs",
+"href": "https://www.chaneyforgeorgia.com/about"
+},
+{
+"text": "Chaney for Georgia",
+"href": "https://www.chaneyforgeorgia.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chaneyforgeorgia"
+},
+{
+"text": "Events",
+"href": "https://www.chaneyforgeorgia.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.chaneyforgeorgia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chaneyforgeorgia.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.chaneyforgeorgia.com%2Fevent-details%2Fstrategic-planning-for-chaney-campaign&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.chaneyforgeorgia.com%2Fevent-details%2Fstrategic-planning-for-chaney-campaign"
+},
+{
+"text": "info@chaneyforgeorgia.com",
+"href": "mailto:info@mysite.com"
+}
 ]

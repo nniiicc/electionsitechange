@@ -1,9 +1,13 @@
 {
- "description": "Find out more about Rene\u2019s passions, values, and commitment to issues affecting our communities.",
+ "description": "Find out more about Rene’s passions, values, and commitment to issues affecting our communities.",
  "final_url": "https://www.upballot.com/rene-vance/about/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "a80800dc11723c17b458fabd98f2cfb6cc85f121",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Learn More About Rene Vance",
  "years_mentioned": [
+  "1978",
+  "1992",
   "2016"
  ]
 }

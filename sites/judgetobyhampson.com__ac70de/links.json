@@ -1,14 +1,74 @@
 [
-"https://facebook.com/JudgeTobyHampson",
-"https://instagram.com/tobyhampson4nc",
-"https://judgetobyhampson.com/",
-"https://judgetobyhampson.com/about",
-"https://judgetobyhampson.com/endorsements",
-"https://judgetobyhampson.com/privacy-policy",
-"https://judgetobyhampson.com/volunteer",
-"https://secure.actblue.com/donate/tobyhampsonwebsite",
-"https://threads.com/@tobyhampson4nc",
-"https://tiktok.com/@tobyhampson4nc",
-"https://x.com/TobyHampson4NC",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://judgetobyhampson.com/about"
+},
+{
+"text": "DONATE $100",
+"href": "https://secure.actblue.com/donate/tobyhampsonwebsite"
+},
+{
+"text": "DONATE $250",
+"href": "https://secure.actblue.com/donate/tobyhampsonwebsite"
+},
+{
+"text": "DONATE $50",
+"href": "https://secure.actblue.com/donate/tobyhampsonwebsite"
+},
+{
+"text": "DONATE $500",
+"href": "https://secure.actblue.com/donate/tobyhampsonwebsite"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tobyhampsonwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://judgetobyhampson.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JudgeTobyHampson"
+},
+{
+"text": "Home",
+"href": "https://judgetobyhampson.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tobyhampson4nc/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://judgetobyhampson.com/privacy-policy"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@tobyhampson4nc"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@tobyhampson4nc"
+},
+{
+"text": "Volunteer",
+"href": "https://judgetobyhampson.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/TobyHampson4NC"
+},
+{
+"text": "[image: Re-Elect Judge Toby Hampson]",
+"href": "https://judgetobyhampson.com/"
+},
+{
+"text": "toby@judgetobyhampson.com",
+"href": "mailto:toby@judgetobyhampson.com"
+}
 ]

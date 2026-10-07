@@ -1,21 +1,94 @@
 [
-"https://actionnetwork.org/forms/get-campaign-updates-from-ryan-michael-kelly",
-"https://actionnetwork.org/forms/volunteer-with-ryan-michael-kelly",
-"https://facebook.com/profile.php?id=61591925647456",
-"https://instagram.com/KellyForNJ03",
-"https://kellyfornj03.com/en",
-"https://kellyfornj03.com/en/about",
-"https://kellyfornj03.com/en/accessibility",
-"https://kellyfornj03.com/en/choice",
-"https://kellyfornj03.com/en/donate",
-"https://kellyfornj03.com/en/endorsements",
-"https://kellyfornj03.com/en/get-involved",
-"https://kellyfornj03.com/en/issues",
-"https://kellyfornj03.com/en/media",
-"https://kellyfornj03.com/en/privacy",
-"https://kellyfornj03.com/en/transparency",
-"https://kellyfornj03.com/en/updates",
-"https://voter.svrs.nj.gov/register",
-"https://x.com/KellyForNJ03",
-"https://youtube.com/@KellyForNJ03com"
+{
+"text": "About",
+"href": "https://www.kellyfornj03.com/en/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.kellyfornj03.com/en/accessibility"
+},
+{
+"text": "Campaign Updates",
+"href": "https://actionnetwork.org/forms/get-campaign-updates-from-ryan-michael-kelly"
+},
+{
+"text": "Donate",
+"href": "https://www.kellyfornj03.com/en/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellyfornj03.com/en/endorsements"
+},
+{
+"text": "Explore the Full Series",
+"href": "https://www.kellyfornj03.com/en/choice"
+},
+{
+"text": "Explore the issues →",
+"href": "https://www.kellyfornj03.com/en/issues"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591925647456"
+},
+{
+"text": "Get Campaign Updates",
+"href": "https://actionnetwork.org/forms/get-campaign-updates-from-ryan-michael-kelly"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kellyfornj03.com/en/get-involved"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/KellyForNJ03"
+},
+{
+"text": "Issues",
+"href": "https://www.kellyfornj03.com/en/issues"
+},
+{
+"text": "Media",
+"href": "https://www.kellyfornj03.com/en/media"
+},
+{
+"text": "Privacy",
+"href": "https://www.kellyfornj03.com/en/privacy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voter.svrs.nj.gov/register"
+},
+{
+"text": "Ryan Michael Kelly",
+"href": "https://www.kellyfornj03.com/en"
+},
+{
+"text": "See campaign updates →",
+"href": "https://www.kellyfornj03.com/en/updates"
+},
+{
+"text": "Transparency",
+"href": "https://www.kellyfornj03.com/en/transparency"
+},
+{
+"text": "Updates",
+"href": "https://www.kellyfornj03.com/en/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/volunteer-with-ryan-michael-kelly"
+},
+{
+"text": "X",
+"href": "https://x.com/KellyForNJ03"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@KellyForNJ03com"
+},
+{
+"text": "info@KellyForNJ03.com",
+"href": "mailto:info@KellyForNJ03.com"
+}
 ]

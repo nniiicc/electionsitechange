@@ -1,10 +1,3 @@
-Back to All Events
-Join us for Conversations with Krista, a community conversation focused on the issues that matter most to families in the 49th District.
-RSVP here: https://www.eventbrite.com/e/conversations-with-krista-tickets-1982479340073?aff=oddtdtcreator
-Previous
-Previous
-January 15
-Campaign Kickoff
-Next
-Next
-March 7
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Conversations with Krista Saturday, February 28, 2026 1:30 PM 3:00 PM Maple Street Biscuit Company 4996 Fulton Dr NW Canton, OH, 44718 United States (map) Google Calendar ICS Join us for Conversations with Krista, a community conversation focused on the issues that matter most to families in the 49th District.
+RSVP here: https://www.eventbrite.com/e/conversations-with-krista-tickets-1982479340073?aff=oddtdtcreator Previous Previous January 15 Campaign Kickoff Next Next March 7 Canvassing with Krista Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

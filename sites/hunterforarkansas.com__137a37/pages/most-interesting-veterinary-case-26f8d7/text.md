@@ -1,5 +1,4 @@
-Shared from a colleague many years ago:
-"In your senior year of vet school, you have an opportunity to spend time working in veterinary offices to experience 'real life practice' out of the spirals of the ivory tower in which you spend your first three academic years.
+Garden Where Is 69 BELIEVE Pollinate Do Not Donate Most Interesting Veterinary Case Videos Garden Where Is 69 BELIEVE Pollinate Do Not Donate Most Interesting Veterinary Case Videos Shared from a colleague many years ago: "In your senior year of vet school, you have an opportunity to spend time working in veterinary offices to experience 'real life practice' out of the spirals of the ivory tower in which you spend your first three academic years.
 I strategically booked a stent with a busy upstate practice for early October, thinking it would be a great time to be out of the city and enjoy some of the seasonal foliage - a breath of fresh air filled with the smell of pumpkin spice and candied apples.
 It was a very eclectic practice, being just close enough to the city to catch a wide array of affluent commuters from all backgrounds, yet just far enough out to encompass some of the rustic more earthy lifestyles ... it even supported a small local Amish community (a society who takes great pride and care for their farm animals).
 Among the associates of the practice, one of its most senior remaining partners was Dr.
@@ -34,8 +33,7 @@ Eventually, much to my relief, one of the administrating adults interrupted to a
 Rhadj? perhaps something like what was the most interesting case he has ever seen?' Immediately an enthusiastic hand shot up reaching toward the ceiling as if a drowning victim were struggling to find the water surface for air.
 'Yes, you there in the back' prayed Dr.
 Rhadj.
-'Uhm what my question is ... is uhm what was the most interesting sick animal you have ever worked on?'
-'That is a very interesting question' replied the good doctor - leaving the student bursting with pride and the envy of all those around him as if his question had been original.
+'Uhm what my question is ... is uhm what was the most interesting sick animal you have ever worked on?' 'That is a very interesting question' replied the good doctor - leaving the student bursting with pride and the envy of all those around him as if his question had been original.
 'I would have to say that in all my many years of practice, the very most interesting case I ever worked on was a dog with a stomach ache'.
 (I contained my eye roll, as nauseous dogs are statistically the absolute most common presenting complaint in a veterinary office).
 'This poor pup' he went on to explain 'had found some food that had poison in it' ... a murmured gasp rolled across the crowd.
@@ -44,8 +42,7 @@ However, when he did, one of his neighbor dogs came up and found the vomited foo
 'Now the second dog was sick and he vomited up the food, but as it lay on the ground, two of his friends came up and ate it' 'Ewwwww' repealed the group, now hanging on every word of a story I then understood was ideal for the audience.
 'Those two had not traveled far when they too got sick from the poison and vomited up the tainted food, which was then eaten by three dogs that had come to see what everyone was eating.
 This continued till every dog on the farm and each of the neighboring farms was sick at their stomach.
-Fortunately the chain was interrupted when it reached a farm where all the dogs were very well fed with nutritious food so when the sick dogs vomited, the well fed dogs were not interested and did not eat the poison.'
-As his voice trailed with the end of the story, I surveyed the crowd to see them all wide eyed with gaping mouths, most frozen in what almost appeared to be mid breath.
+Fortunately the chain was interrupted when it reached a farm where all the dogs were very well fed with nutritious food so when the sick dogs vomited, the well fed dogs were not interested and did not eat the poison.' As his voice trailed with the end of the story, I surveyed the crowd to see them all wide eyed with gaping mouths, most frozen in what almost appeared to be mid breath.
 After a long quiet pause, respiration returned and one student slowly raised her hand.
 'Yes?' nodded the focal center.
 'What was the poison?' asked the child.
@@ -54,8 +51,7 @@ Slowly another hand raised and without being called upon a voice we could hear b
 Rhadj 'Hatred has a very distinctive sweet smell, that attracts animals to it, and is even sweeter to the tip of your tongue.
 But then after you get it, it has a very very bitter after taste, and burns as it goes down your throat .
 Then it churns like acid when it gets to your stomach' 'You mean like whiskey?!' shouted an unidentified voice from the back - yielding an eruption of laughter from all the adults present, and confusion from many of the children.
-'Yes' smiled our guru 'it can even cause delirium much like whisky.'
-With the laughter breaking the tone, it seemed like a good time to bring things to a close.
+'Yes' smiled our guru 'it can even cause delirium much like whisky.' With the laughter breaking the tone, it seemed like a good time to bring things to a close.
 Another round of applause was extended to Dr.
 Rhadj with everyone's gratitude for him coming to see them and share his stories.
 The children started to stand and organize themselves in rows preparing to file out as they had filed in when a voice elevated above the rumble 'Did they live?' 'Pardon?' said the doctor.
@@ -66,7 +62,6 @@ A sigh of relief pass through the group in a wave.
 That is why it is so important for all of you to be here and do well in school, to get your education.
 Being filled with good healthy information makes you less interested in the poison of hatred.
 It helps you recognize hatred when you smell it's tempting smell, and you can always taste its bitter aftertaste.
-When you come across hatred, you can stop it there rather than consuming it, then vomiting it out for others around you to consume and to be consumed by it.'
-The car ride back to the office began with me confirming that Charlotte had been safely stowed.
+When you come across hatred, you can stop it there rather than consuming it, then vomiting it out for others around you to consume and to be consumed by it.' The car ride back to the office began with me confirming that Charlotte had been safely stowed.
 Of all the things I learned working with Dr.
-Rhadj and his colleagues that month, no doubt the most valuable thing I took from my stent was gained with a group of elementary students."
+Rhadj and his colleagues that month, no doubt the most valuable thing I took from my stent was gained with a group of elementary students." Copyright HunterforArkansas #

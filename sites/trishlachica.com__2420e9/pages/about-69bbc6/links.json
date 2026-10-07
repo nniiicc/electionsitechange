@@ -1,13 +1,58 @@
 [
-"https://facebook.com/TLCforStateHouse",
-"https://instagram.com/trishlachica",
-"https://pixeloha.com/",
-"https://reptrishlachica.com/",
-"https://secure.actblue.com/donate/friends-of-trishlachica",
-"https://trishlachica.com/",
-"https://trishlachica.com/about",
-"https://trishlachica.com/news",
-"https://trishlachica.com/priorities",
-"https://trishlachica.com/updates",
-"https://youtube.com/@tlcforstatehouse"
+{
+"text": "About",
+"href": "https://trishlachica.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-trishlachica"
+},
+{
+"text": "Home",
+"href": "https://trishlachica.com/"
+},
+{
+"text": "News",
+"href": "https://trishlachica.com/news"
+},
+{
+"text": "Pixeloha Apps",
+"href": "https://pixeloha.com"
+},
+{
+"text": "Priorities",
+"href": "https://trishlachica.com/priorities"
+},
+{
+"text": "Updates",
+"href": "https://trishlachica.com/updates"
+},
+{
+"text": "Visit reptrishlachica.com",
+"href": "https://reptrishlachica.com"
+},
+{
+"text": "[image: Trish La Chica]",
+"href": "https://trishlachica.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/trishlachica"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TLCforStateHouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@tlcforstatehouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@trishlachica.com"
+},
+{
+"text": "reptrishlachica.com",
+"href": "https://reptrishlachica.com"
+}
 ]

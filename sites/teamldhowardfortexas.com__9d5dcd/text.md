@@ -1,10 +1,18 @@
-Showing Love in Action for Lasting Independence
-A New Voice for District 124
-Faith.
+Skip to content L.D.
+Howard for Texas House District 124 2026 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Showing Love in Action for Lasting Independence A New Voice for District 124 Faith.
 Service.
 People First.
-A New Voice for District 124
-FAITH.
+Elect L.D.
+Howard for Texas House of Representatives District 124 in 2026.
+Write in "LD Howard." Help Elect LD Howard to Texas HD 124 Find Your Polling Place FAITH.
 SERVICE.
 AMERICAN CITIZENS FIRST.
 I am running as a Write-In Conservative Independent because my responsibility is not to a political party, political establishment, or special interest.
@@ -24,19 +32,30 @@ This campaign is not about securing a position for me.
 It is about restoring the citizens’ voice in the Texas Capitol.
 It is about faithful service, honest leadership, government accountability, measurable results, and representation that remains present long after Election Day.
 I humbly ask for your prayers, your support, and your write-in vote for L.D.
-Howard.
+Howard .
 With God as our foundation, service as our calling, and American citizens as our priority, we can strengthen District 124 and build a future grounded in faith, family, freedom, security, opportunity, and lasting results.
 Faith.
 Service.
 American Citizens First.
 Love in Action for Lasting Independence.
-“With God all things are possible.” — Matthew 19:26
-Faith.
-Service.
-American Citizens First.
-Love in Action for Lasting Independence.
-Be sure to like, follow, and stay up to date with us.
-Ensuring our heroes receive the benefits, healthcare, and respect they have earned through their service.
-Advocating for teachers and students to create safe, high-quality educational environments for every child.
-Championing policies that support small businesses and foster sustainable economic growth for our community.
+“With God all things are possible.” — Matthew 19:26 Help Elect LD Howard to Texas HD 124 Click Here for More L.D.
+Howard Videos From Our Facebook Page Be sure to like, follow, and stay up to date with us. <h2 style="text-align:center;"><span style="color:var(--ss-color-83931);"><span class="font-size-s"><strong>From Our Facebook Page</strong></span></span></h2> Supporting Our Veterans Ensuring our heroes receive the benefits, healthcare, and respect they have earned through their service.
+Empowering Our Schools Advocating for teachers and students to create safe, high-quality educational environments for every child.
+Strengthening Local Businesses Championing policies that support small businesses and foster sustainable economic growth for our community.
+Together We Can Make a Difference Volunteer Donate Connect Follow Us on Social Media Get in Touch!
 Send a message using the form below.
+Your Name Your Email Address Your Phone Number Your Message L.D.
+Howard for Texas House District 124 Privacy Policy Contact Details: P.O.
+Box 760024 San Antonio, TX 78245 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Copyright ©# Team L.
+D.
+Howard for Texas House District 124.
+All Rights Reserved.
+Designed by Sandbank Group, Inc.

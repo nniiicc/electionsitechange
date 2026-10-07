@@ -1,19 +1,2 @@
-Signed in as:
-filler@godaddy.com
-8/4
-Details to come, but I will be trying to attend as many parties (city, neighborhood, facilities, etc) as possible that day!
-Monthly
-8:00 am
-Rush Creek Golf Club
-First week in August
-Noon
-Maple Grove Central Park
-- Loons Lair
-- I-94 West Chamber of Commerce First Responders Luncheon
-- Campaign Filing & Press Conference
-- West Suburban Fire District Pancake Breakfast - 4/12/2026
-- Maple Grove Community Center Phase One Ribbon Cutting - 3/16/2026
-- North Hennepin Pioneer Society Lunch
-- SD 37 Convention
-Prepared and paid for by
-The Tom McKee for House Committee
+Home About Issues Endorsements Volunteer Events Contact More Home About Issues Endorsements Volunteer Events Contact Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Donate Signed in as: filler@godaddy.com Home About Issues Endorsements Volunteer Events Contact Account My Account Sign out Sign In My Account Donate Upcoming Events Night to Unite/National Night Out 8/4 Details to come, but I will be trying to attend as many parties (city, neighborhood, facilities, etc) as possible that day!
+I-94 West Chamber Monthly 8:00 am Rush Creek Golf Club Rock the Grove First week in August Noon Maple Grove Central Park SD37 Events For SD37 GOP Events - click here Past Events - Loons Lair - I-94 West Chamber of Commerce First Responders Luncheon - Campaign Filing & Press Conference - West Suburban Fire District Pancake Breakfast - 4/12/2026 - Maple Grove Community Center Phase One Ribbon Cutting - 3/16/2026 - North Hennepin Pioneer Society Lunch - SD 37 Convention Event Photos About Issues Endorsements Donate Privacy Policy Prepared and paid for by The Tom McKee for House Committee 6633 Bridle Path, Corcoran, MN 55340 Gallery

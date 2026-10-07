@@ -1,19 +1,6 @@
-In the News
-Congressman Sessions on Real America’s Voice
-September 30, 2026
-Congressman Sessions on Wake Up America Early
-September 30, 2026
-Congressman Sessions on “The Lead” with Jake Tapper, CNN
-September 16, 2026
-Midterm Strategy for Republicans – NewsNation
-September 14, 2026
-Congressman Sessions on NewsNation
-September 14, 2026
-Congressman Sessions Joins CNN
-August 7, 2026
-Statement on the Passing of Senator Lindsey Graham
-July 12, 2026
-WACO, TEXAS – I was shocked and saddened to learn about the passing of my good friend Senator Lindsey Graham.
+Toggle navigation Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate In the News Pete Sessions Joins Biana Across the Nation September 30, 2026 Congressman Sessions on Real America’s Voice September 30, 2026 Congressman Sessions on Wake Up America Early September 30, 2026 Congressman Sessions on “The Lead” with Jake Tapper, CNN September 16, 2026 Midterm Strategy for Republicans – NewsNation September 14, 2026 Congressman Sessions on NewsNation September 14, 2026 Congressman Sessions Joins CNN August 7, 2026 Statement on the Passing of Senator Lindsey Graham July 12, 2026 WACO, TEXAS – I was shocked and saddened to learn about the passing of my good friend Senator Lindsey Graham.
 Lindsey dedicated his life to serving the people of South Carolina and was one of our greatest Republican senators.
 I send my heartfelt condolences to his family.
-Congressman Pete Sessions 17th District of Texas ###
+Congressman Pete Sessions 17th District of Texas ### President Trump Shares Congressman Pete Sessions’ Message from the TX GOP Convention!
+June 13, 2026 Congressman Sessions Joins CNN June 13, 2026 Next » P.O.
+Box 7754 Waco, TX 76714-7754 [email protected] Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Paid for by Pete Sessions for Congress Privacy Policy

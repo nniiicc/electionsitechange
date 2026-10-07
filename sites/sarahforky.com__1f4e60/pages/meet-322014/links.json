@@ -1,20 +1,78 @@
 [
-"http://swayed.digital/",
-"https://act.campaigndeputy.com/sarahstalkeremailsignups",
-"https://apps.legislature.ky.gov/record/26rs/hb757.html",
-"https://donate.campaigndeputy.com/sarahstalkerforky",
-"https://elections.jeffersoncountyclerk.org/registration-deadlines",
-"https://sarahforky.com/",
-"https://sarahforky.com/cart",
-"https://sarahforky.com/contact",
-"https://sarahforky.com/endorsements",
-"https://sarahforky.com/events",
-"https://sarahforky.com/issues",
-"https://sarahforky.com/meet",
-"https://sarahforky.com/news",
-"https://sarahforky.com/take-action",
-"https://secure.actblue.com/donate/stalkerkhdccc",
-"https://secure.kentucky.gov/Corrections/VoterEligibility/search",
-"https://vrsws.sos.ky.gov/ovrweb",
-"https://vrsws.sos.ky.gov/vic"
+{
+"text": "0",
+"href": "https://www.sarahforky.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.sarahforky.com/meet"
+},
+{
+"text": "Am I Still on the Voter Rolls?",
+"href": "https://vrsws.sos.ky.gov/vic/"
+},
+{
+"text": "Back",
+"href": "https://www.sarahforky.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.sarahforky.com/contact"
+},
+{
+"text": "Donate to Sarah",
+"href": "https://donate.campaigndeputy.com/sarahstalkerforky"
+},
+{
+"text": "Donate to the Democratic House",
+"href": "https://secure.actblue.com/donate/stalkerkhdccc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sarahforky.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sarahforky.com/events"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.sarahforky.com/take-action"
+},
+{
+"text": "Get On the List!",
+"href": "https://act.campaigndeputy.com/sarahstalkeremailsignups"
+},
+{
+"text": "HB 757 (2026)",
+"href": "https://apps.legislature.ky.gov/record/26rs/hb757.html"
+},
+{
+"text": "Issues",
+"href": "https://www.sarahforky.com/issues"
+},
+{
+"text": "News + Media",
+"href": "https://www.sarahforky.com/news"
+},
+{
+"text": "Register to Vote",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "Swayed",
+"href": "http://www.swayed.digital/"
+},
+{
+"text": "Voter Restoration Rights",
+"href": "https://secure.kentucky.gov/Corrections/VoterEligibility/search"
+},
+{
+"text": "Ways to Vote Before Election Day",
+"href": "https://elections.jeffersoncountyclerk.org/registration-deadlines/"
+},
+{
+"text": "[image: SARAH for KY]",
+"href": "https://www.sarahforky.com/"
+}
 ]

@@ -1,4 +1,26 @@
 [
-"https://secure.anedot.com/judgecraigcollins/donate",
-"https://votecraigcollins.com/"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/judgecraigcollins/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/judgecraigcollins/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/judgecraigcollins/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/judgecraigcollins/donate"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.anedot.com/judgecraigcollins/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votecraigcollins.com"
+}
 ]

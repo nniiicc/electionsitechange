@@ -1,14 +1,66 @@
 [
-"https://bennettforidaho.com/",
-"https://bennettforidaho.com/contact",
-"https://bennettforidaho.com/contribute",
-"https://bennettforidaho.com/endorsements",
-"https://bennettforidaho.com/issues",
-"https://bennettforidaho.com/privacy-policy",
-"https://bennettforidaho.com/social-media-comment-policy",
-"https://facebook.com/bennettforidaho",
-"https://instagram.com/bennettidaho",
-"https://votertools.voteidaho.gov/TEDElectionLink/VoterServices/voter-search/ovr-voter-search?returnUrl=VoterServices%2Fwizard%2Frequest-my-vote-by-mail",
-"https://x.com/BennettIdaho",
-"https://youtube.com/@BennettIdaho?si=gHh68qpj6PKAsSLv"
+{
+"text": "Contribute",
+"href": "https://bennettforidaho.com/contribute/"
+},
+{
+"text": "Contribute Here",
+"href": "https://bennettforidaho.com/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "https://bennettforidaho.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/bennettforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/bennettidaho/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/BennettIdaho"
+},
+{
+"text": "Follow",
+"href": "https://youtube.com/@BennettIdaho?si=gHh68qpj6PKAsSLv"
+},
+{
+"text": "Get In Touch",
+"href": "https://bennettforidaho.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://bennettforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://bennettforidaho.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bennettforidaho.com/privacy-policy/"
+},
+{
+"text": "Request Your Ballot",
+"href": "https://votertools.voteidaho.gov/TEDElectionLink/VoterServices/voter-search/ovr-voter-search?returnUrl=VoterServices%2Fwizard%2Frequest-my-vote-by-mail"
+},
+{
+"text": "Social Media Comment Policy",
+"href": "https://bennettforidaho.com/social-media-comment-policy/"
+},
+{
+"text": "[image]",
+"href": "https://www.bennettforidaho.com"
+},
+{
+"text": "https://bennettforidaho.com/privacy-policy",
+"href": "https://bennettforidaho.com/privacy-policy"
+},
+{
+"text": "info@bennettforidaho.com",
+"href": "mailto:info@bennettforidaho.com"
+}
 ]

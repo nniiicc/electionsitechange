@@ -1,6 +1,22 @@
 [
-"https://lonpishny.com/",
-"https://lonpishny.com/about",
-"https://lonpishny.com/contact",
-"https://lonpishny.com/donate"
+{
+"text": "About",
+"href": "https://lonpishny.com/about/"
+},
+{
+"text": "Contact | Volunteer",
+"href": "https://lonpishny.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://lonpishny.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://lonpishny.com/"
+},
+{
+"text": "[image: Lon Pishny]",
+"href": "https://lonpishny.com/"
+}
 ]

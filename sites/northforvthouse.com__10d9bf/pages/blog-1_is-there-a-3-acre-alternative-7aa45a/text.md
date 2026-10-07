@@ -1,5 +1,5 @@
-Is There a 3-Acre Alternative?
-Based on my previous legislative update “Paying for Gold, Getting Dirt” in which I identified the absurd costs of the so-called “3-acre rule”, some of you have asked, “What’s the alternative?” Our House Environment Committee has worked tirelessly and collaboratively to determine the answer to that exact question.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Is There a 3-Acre Alternative?
+Mar 17 Written By North for VT House Based on my previous legislative update “ Paying for Gold, Getting Dirt ” in which I identified the absurd costs of the so-called “3-acre rule”, some of you have asked, “What’s the alternative?” Our House Environment Committee has worked tirelessly and collaboratively to determine the answer to that exact question.
 When the 3-acre rule was established in 2016, it was not known how much it would cost.
 It turns out that it’s extremely expensive and very inefficient at remediating the lake.
 Because it is retroactive, it feels very arbitrary and punitive to those impacted by it and it’s only responsible for a tiny fraction of the lake clean up.
@@ -26,7 +26,11 @@ Changes are still possible.
 As a summary, the lesson to be learned here is that we must clearly understand the costs and impacts of what we’re passing into law BEFORE we pass it!
 This is a common theme we’re discovering was not well considered across many bills passed in the recent decade.
 Please feel free to contact me if you have any further questions about the proposed 3-acre rule changes.
-I remain honored to be your Representative,
-Rob North
-www.NorthForVTHouse.com
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham.
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham.
+North for VT House Previous Previous Meeting the Deadline Next Next Paying for Gold, Getting Dirt?
+Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

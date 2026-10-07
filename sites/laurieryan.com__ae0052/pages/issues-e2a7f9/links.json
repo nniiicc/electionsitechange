@@ -1,22 +1,98 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Flaurieryanforwestchester%2F&sa=D&sntz=1&usg=AOvVaw2FQ1npdLkcUeIqN5lkLf4L",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Flaurieryan4ny%3Figsh%3DcmsxNHlxem9xMjR6%26utm_source%3Dqr&sa=D&sntz=1&usg=AOvVaw2rACAms5XTgqOUX5bo3S7g",
-"https://laurieryan.com/about-laurie",
-"https://laurieryan.com/budget-taxes-affordability",
-"https://laurieryan.com/business",
-"https://laurieryan.com/donate",
-"https://laurieryan.com/education",
-"https://laurieryan.com/energy-electricity",
-"https://laurieryan.com/environment",
-"https://laurieryan.com/home",
-"https://laurieryan.com/immigration",
-"https://laurieryan.com/infrastructure",
-"https://laurieryan.com/issues",
-"https://laurieryan.com/my-responses",
-"https://laurieryan.com/nys-assembly-district-95-issues",
-"https://laurieryan.com/privacy",
-"https://laurieryan.com/safety-and-law-enforcement",
-"https://laurieryan.com/surveys",
-"https://laurieryan.com/vote",
-"https://laurieryan.com/vulnerable-communities"
+{
+"text": "ABOUT LAURIE",
+"href": "https://www.laurieryan.com/about-laurie"
+},
+{
+"text": "BUSINESS",
+"href": "https://www.laurieryan.com/business"
+},
+{
+"text": "DONATE",
+"href": "https://www.laurieryan.com/donate"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.laurieryan.com/education"
+},
+{
+"text": "EMAIL",
+"href": "mailto:LAURIERYAN4NY@GMAIL.COM"
+},
+{
+"text": "ENERGY AND ELECTRICITY",
+"href": "https://www.laurieryan.com/energy-electricity"
+},
+{
+"text": "ENVIRONMENT",
+"href": "https://www.laurieryan.com/environment"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Flaurieryanforwestchester%2F&sa=D&sntz=1&usg=AOvVaw2FQ1npdLkcUeIqN5lkLf4L"
+},
+{
+"text": "Home",
+"href": "https://www.laurieryan.com/home"
+},
+{
+"text": "IMMIGRATION",
+"href": "https://www.laurieryan.com/immigration"
+},
+{
+"text": "INFRASTRUCTURE",
+"href": "https://www.laurieryan.com/infrastructure"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Flaurieryan4ny%3Figsh%3DcmsxNHlxem9xMjR6%26utm_source%3Dqr&sa=D&sntz=1&usg=AOvVaw2rACAms5XTgqOUX5bo3S7g"
+},
+{
+"text": "ISSUES",
+"href": "https://www.laurieryan.com/issues"
+},
+{
+"text": "MY RESPONSES",
+"href": "https://www.laurieryan.com/my-responses"
+},
+{
+"text": "NYS ASSEMBLY DISTRICT 95 ISSUES",
+"href": "https://www.laurieryan.com/nys-assembly-district-95-issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.laurieryan.com/privacy"
+},
+{
+"text": "SAFETY AND LAW ENFORCEMENT",
+"href": "https://www.laurieryan.com/safety-and-law-enforcement"
+},
+{
+"text": "SURVEYS",
+"href": "https://www.laurieryan.com/surveys"
+},
+{
+"text": "THE BUDGET, TAXES AND AFFORDABILITY",
+"href": "https://www.laurieryan.com/budget-taxes-affordability"
+},
+{
+"text": "VOTE",
+"href": "https://www.laurieryan.com/vote"
+},
+{
+"text": "VULNERABLE COMMUNITIES",
+"href": "https://www.laurieryan.com/vulnerable-communities"
+},
+{
+"text": "[image]",
+"href": "https://www.laurieryan.com/home"
+},
+{
+"text": "[image]laurieryan.com",
+"href": "https://www.laurieryan.com/home"
+},
+{
+"text": "laurieryan.com",
+"href": "https://www.laurieryan.com/home"
+}
 ]

@@ -1,15 +1,70 @@
 [
-"https://campaignmanager.newlinforgeorgia.com/privacy",
-"https://decaturish.com/voter_guide/public-safety-priorities-in-district-41-senate-election-qa/article_472d50e3-bedd-4ebe-9eeb-28f5805510c7.html",
-"https://facebook.com/profile.php?id=61562474787142",
-"https://instagram.com/newlin4georgia",
-"https://newlinforgeorgia.com/compare",
-"https://newlinforgeorgia.com/district-map",
-"https://newlinforgeorgia.com/home",
-"https://newlinforgeorgia.com/join",
-"https://newlinforgeorgia.com/meet-jeff",
-"https://newlinforgeorgia.com/priorities",
-"https://nfg26.newlinforgeorgia.com/compare/surveys",
-"https://secure.anedot.com/newlin-for-georgia/donate",
-"https://x.com/newlin4georgia"
+{
+"text": "Compare",
+"href": "https://newlinforgeorgia.com/compare"
+},
+{
+"text": "Compare with Sen. Jackson",
+"href": "https://newlinforgeorgia.com/compare"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "Decaturish Candidate Q&A - 2026 General",
+"href": "https://www.decaturish.com/voter_guide/public-safety-priorities-in-district-41-senate-election-qa/article_472d50e3-bedd-4ebe-9eeb-28f5805510c7.html"
+},
+{
+"text": "District 41",
+"href": "https://newlinforgeorgia.com/district-map"
+},
+{
+"text": "Georgia Life Alliance 2026 Pro-Life Certification Questionnaire",
+"href": "https://www.georgialifealliance.com/2026-gla-committee-pro-life-certification-questionnaire-responses"
+},
+{
+"text": "IAC for Action State Legislature Candidate Questionnaire 2026",
+"href": "https://nfg26.newlinforgeorgia.com/compare/surveys#iac"
+},
+{
+"text": "Join The Team",
+"href": "https://newlinforgeorgia.com/join"
+},
+{
+"text": "Meet Jeff",
+"href": "https://newlinforgeorgia.com/meet-jeff"
+},
+{
+"text": "Mental Health Now Statement of Support",
+"href": "https://mentalhealthnow.us/candidatemap/"
+},
+{
+"text": "NEWLIN for STATE SENATE",
+"href": "https://newlinforgeorgia.com/home"
+},
+{
+"text": "Priorities",
+"href": "https://newlinforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://campaignmanager.newlinforgeorgia.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://newlinforgeorgia.com/join"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61562474787142"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/newlin4georgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/newlin4georgia"
+}
 ]

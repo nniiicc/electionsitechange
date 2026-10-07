@@ -1,10 +1,6 @@
-Kent’s Operating Principles
-Kent Smith’s four core operating principles support these priorities for the district:
-1.
-We all do better, when we all do better.
-2.
-All of Ohio's children today are all of Ohio's future tomorrow.
-3.
+top of page DONATE Home About Videos Priorities Endorsements Get Involved Kent’s Operating Principles Kent Smith’s four core operating principles support these priorities for the district: 1.
+We all do better, when we all do better. ​ 2.
+All of Ohio's children today are all of Ohio's future tomorrow. ​ 3.
 Ohio's economy will grow from equal parts innovation and opportunity.
 4.
 I am going to show up, do the work and fight for those who sent me to Columbus.
@@ -57,4 +53,4 @@ That’s important because now is not the time for lazy or uninformed legislator
 Democrats are outnumbered in the Ohio House, and it’s worse in the Ohio Senate.
 We can’t waste any seats; the stakes are too high.
 This State Senate District needs to send someone to Columbus who will not just vote the right way, but who will fight for those whom they are supposed to represent.
-And you can only fight for those who sent you—if you are there.
+And you can only fight for those who sent you—if you are there. ​ ​ ​ ​ PAID FOR BY KENT SMITH COMMITTEE SendKentBackToColumbus@gmail.com bottom of page

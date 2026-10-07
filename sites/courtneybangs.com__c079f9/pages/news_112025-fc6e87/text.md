@@ -1,5 +1,4 @@
-Guest Column: With conservation goals met, it’s time to balance the scales and support struggling communities
-The Oregon Board of Forestry is working towards another big decision, one I felt they’ve already made, that will affect rural communities and state budgets for years to come.
+0 Skip to Content Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Open Menu Close Menu Open Menu Close Menu Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Guest Column: With conservation goals met, it’s time to balance the scales and support struggling communities Feb 9 Written By Courtney Bangs Tillamook State Forest The Astorian The Oregon Board of Forestry is working towards another big decision, one I felt they’ve already made, that will affect rural communities and state budgets for years to come.
 If they walk back their previous commitment, it could mean rural Oregonians get the short end of the stick, again.
 State forests are multi-use working forests, managed for timber harvests, revenue for public services, recreation and conservation.
 The Oregon Department of Forestry (ODF), which manages these lands, is unique among state agencies in that it oversees an asset (state forests) that, if managed responsibly, covers the cost of its operations and all the benefits public forests provide.
@@ -10,3 +9,4 @@ Now, with many of the new habitat conservation goals achieved right out of the g
 The options range from very low levels to amounts closer to what we’ve seen historically.
 With the ambitious conservation goals and set-asides already in place, local communities like those I represent on the North Coast are advocating that ODF prioritize responsible timber harvests to keep ODF and our counties solvent and our residents employed.
 That means opting for the highest possible harvest volume allowable under the new and highly restrictive conservation plan.
+Read the Full Article Courtney Bangs Previous Previous Knappa food pantry saved Next Next County commissioner announces campaign for state Senate Home Volunteer Contact Donate Privacy Policy Paid for by Courtney Bangs PAC | © # Oregon State Senate - District 16

@@ -1,5 +1,4 @@
-Op-Ed: The local ripple effect, Creating change close to home
-Tuesday November 5th 2024.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: The local ripple effect, Creating change close to home Dec 1 Written By Alice Wade Tuesday November 5th 2024.
 What else do I need to say?
 The American people made their choice, and we as a country and in our own communities will have to reckon with that choice over the next 4 years.
 I won’t offer blind reassurance about what’s to come, but national politics alone won’t shape our future.
@@ -44,3 +43,4 @@ Check your city’s website, attend a meeting, or reach out to a councilor.
 Just start somewhere.
 Your drop in the puddle can start a ripple that benefits your community, regardless of national politics.
 And you might be surprised at how welcoming these spaces can be.
+Alice Wade Previous Previous Op-Ed: New Hampshire’s Political Engagement Paradox Next Next My Thoughts on the 2024 Election Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

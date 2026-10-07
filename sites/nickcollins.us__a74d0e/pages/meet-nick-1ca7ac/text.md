@@ -1,5 +1,4 @@
-About Nick
-Born and raised in South Boston, Nick comes from a large family.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Meet Nick About Nick Born and raised in South Boston, Nick comes from a large family.
 From a young age, his grandparents and parents instilled the value of hard work and discipline in him and the importance of investing in and giving back into the community.
 At age 9, he delivered newspapers in the neighborhood, and as he got older, he began community organizing, including working as a Field Organizer in New Hampshire and Pennsylvania in the 2008 presidential campaign for Barack Obama.
 Nick is a proud graduate of Boston Latin School and Babson College.
@@ -10,3 +9,7 @@ Nick works hard for his constituents at the State House and in the community.
 He is responsive and is focused on addressing pressing challenges that impact residents such as supporting tax relief and expanded tax credits for working families, small businesses and seniors, increasing affordable housing growth through the MBTA Communities Act and Affordable Homes Act, improving public health and safety, protecting civil rights and immigrant communities, improving labor standards, and providing quality education and reliable transportation for residents.
 Nick prioritizes delivering quality constituent services to thousands of people who call his office per year for assistance.
 Nick and his wife are raising his two young daughters in South Boston.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

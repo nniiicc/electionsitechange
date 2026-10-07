@@ -1,5 +1,18 @@
 [
-"https://geoffluxenberg.com/",
-"https://geoffluxenberg.com/cart",
-"https://geoffluxenberg.com/contact"
+{
+"text": "0",
+"href": "https://www.geoffluxenberg.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.geoffluxenberg.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.geoffluxenberg.com/"
+},
+{
+"text": "[image: Geoff Luxenberg]",
+"href": "https://www.geoffluxenberg.com/"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://secure.anedot.com/samgarrison/donate",
-"https://votesamgarrison.com/",
-"https://votesamgarrison.com/issues",
-"https://votesamgarrison.com/news",
-"https://votesamgarrison.com/privacy-policy",
-"https://votesamgarrison.com/record",
-"https://votesamgarrison.com/story"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/samgarrison/donate"
+},
+{
+"text": "Issues",
+"href": "https://votesamgarrison.com/issues/"
+},
+{
+"text": "News",
+"href": "https://votesamgarrison.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesamgarrison.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://votesamgarrison.com/record/"
+},
+{
+"text": "Story",
+"href": "https://votesamgarrison.com/story/"
+},
+{
+"text": "[image: Sam Garrison for Florida House District 11]",
+"href": "https://votesamgarrison.com/"
+},
+{
+"text": "[image: logo][image: logo][image: logo][image: logo]",
+"href": "https://votesamgarrison.com"
+}
 ]

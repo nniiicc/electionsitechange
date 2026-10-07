@@ -1,7 +1,5 @@
-Honoring First Responders + Legislative Leaders Conference
-It has been a great week at home across the district and traveling to meet with Speakers from across the country as we collaborate on policy solutions for the issues most pressing to our states.
-Faith Over Fear Service
-On Sunday, I was honored to join Chairman Bill Hitchens and Senator Max Burns to celebrate our district’s law enforcement officers and first responders at Little Ogeechee Baptist Church’s Faith Over Fear service.
+0 Skip to Content HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE Open Menu Close Menu HOME MEET JON NEWS CONTACT US DONATE Honoring First Responders + Legislative Leaders Conference Sep 18 Written By Emma Nunez It has been a great week at home across the district and traveling to meet with Speakers from across the country as we collaborate on policy solutions for the issues most pressing to our states.
+Faith Over Fear Service On Sunday, I was honored to join Chairman Bill Hitchens and Senator Max Burns to celebrate our district’s law enforcement officers and first responders at Little Ogeechee Baptist Church’s Faith Over Fear service.
 Day after day, these heroes put their lives on the line to protect our communities, provide emergency healthcare services, and keep our families safe.
 The House has been proud to support Georgia’s law enforcement officers and first responders every step of the way.
 This year, we championed measures to enhance retirement benefits for state law enforcement officers, improve firefighter retirement benefits, fund PTSD care for first responders, strengthen resources for the families of fallen heroes, and invest in the recruitment, retention, and training resources our public safety professionals need to do their jobs safely and effectively.
@@ -9,11 +7,9 @@ We are blessed to have Chairman Bill Hitchens leading the House Public Safety Ap
 Under his leadership, the House has made significant investments to recruit and retain public safety professionals, including $200 million to increase correctional officer salaries and positions, an additional $34.9 million to continue hiring correctional officers, and more than $2 million to strengthen retirement benefits for state law enforcement officers.
 We can never fully repay the men and women who serve our communities, but we are committed to ensuring they know Georgia stands behind them and their families every step of the way.
 Thank you to Little Ogeechee Baptist Church, Pastor Vernon Edenfield, Doctor John Odom, and Senator Max Burns for bringing our community together to recognize these heroes and pray for their safety.
-State Legislative Leaders Foundation Conference
-This week, I joined Speakers of the House from across the country with the State Legislative Leaders Foundation in Greenville, South Carolina.
+Honoring law enforcement heroes with local leaders at Little Ogeechee Baptist Church State Legislative Leaders Foundation Conference This week, I joined Speakers of the House from across the country with the State Legislative Leaders Foundation in Greenville, South Carolina.
 This year’s National Speakers Conference brought together more than half of our nation’s sitting House Speakers for an opportunity to discuss the challenges facing our states and learn from one another about the policy solutions our legislatures are putting forward.
 I always enjoy the opportunity to hear what other states are doing, share Georgia’s success story, and bring home new ideas as the Georgia House continues working to strengthen our state and our communities.
 Thank you to South Carolina Speaker Murrell Smith for the hospitality and for hosting an incredible event.
-I hope everyone has a great weekend, and I look forward to hearing from each of you soon.
-My best,
-Speaker Jon Burns
+Thank you to Speaker Murrell Smith and the SLLF team for hosting a great week of fellowship Pictured at Timberlab, a Mass Timber manufacturing and construction facility in Piedmont, South Carolina I hope everyone has a great weekend, and I look forward to hearing from each of you soon.
+My best, Speaker Jon Burns Emma Nunez Previous Previous Supporting Rick Jackson + 2026 Ballot Questions Next Next Remembering 9/11 + Effingham Early Literacy JON.BURNS@HOUSE.GA.GOV | 404-656-5020 FRIENDS OF JON BURNS PRIVACY POLICY

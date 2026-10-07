@@ -1,15 +1,54 @@
 [
-"https://facebook.com/MooreforFL",
-"https://instagram.com/mooreforfl?igsh=ZWZ5ajczZWE0cW82",
-"https://mooreforfl.com/",
-"https://mooreforfl.com/accessibility-statement",
-"https://mooreforfl.com/donation",
-"https://mooreforfl.com/endorsements",
-"https://mooreforfl.com/get-involved",
-"https://mooreforfl.com/meet-malik",
-"https://mooreforfl.com/platform",
-"https://mooreforfl.com/privacy-policy",
-"https://mooreforfl.com/terms-and-conditions",
-"https://secure.actblue.com/donate/mooreforfl",
-"https://x.com/mooreforfl?s=21&t=t3g9X50Hh6FJNMIdejv71A"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mooreforfl"
+},
+{
+"text": "DONATION",
+"href": "https://www.mooreforfl.com/donation"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mooreforfl.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mooreforfl.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.mooreforfl.com"
+},
+{
+"text": "MEET MALIK",
+"href": "https://www.mooreforfl.com/meet-malik"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mooreforfl.com/platform"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/MooreforFL"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/mooreforfl/?igsh=ZWZ5ajczZWE0cW82"
+},
+{
+"text": "[image]",
+"href": "https://x.com/mooreforfl?s=21&t=t3g9X50Hh6FJNMIdejv71A"
+},
+{
+"text": "mooreforfl@gmail.com",
+"href": "https://www.mooreforfl.com/privacy-policy"
+},
+{
+"text": "​",
+"href": "https://www.mooreforfl.com/accessibility-statement"
+},
+{
+"text": "​",
+"href": "https://www.mooreforfl.com/terms-and-conditions"
+}
 ]

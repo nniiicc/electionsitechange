@@ -1,11 +1,4 @@
-Press Release
-Congressman Vince Fong Releases Statement on Prop 50 Election Night Results
-FOR IMMEDIATE RELEASE
-November 4, 2025
-Contact: Ryan Gardiner
-Bakersfield, CA – Congressman Vince Fong released the following statement on election night results showing Proposition 50 passing:
-“As a result of Gavin Newsom’s campaign of misinformation and lies, millions of Californians will be left without representation in Congress.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Press Release Congressman Vince Fong Releases Statement on Prop 50 Election Night Results FOR IMMEDIATE RELEASE November 4, 2025 Contact: Ryan Gardiner ryan@strategyinsigtshq.com Bakersfield, CA – Congressman Vince Fong released the following statement on election night results showing Proposition 50 passing: “As a result of Gavin Newsom’s campaign of misinformation and lies, millions of Californians will be left without representation in Congress.
 If Prop 50 has shown us anything, it is that Gavin Newsom is so desperate to be president that he is willing to steamroll the state constitution and rural communities in pursuit of his personal ambition.
-Our efforts to bring common sense to California will not stop—I will continue standing up to Gavin Newsom and be a fierce advocate for the millions of forgotten Californians who have had their voices silenced.
-The fight for California is just beginning—and I am all in.”
-###
+Our efforts to bring common sense to California will not stop— I will continue standing up to Gavin Newsom and be a fierce advocate for the millions of forgotten Californians who have had their voices silenced.
+The fight for California is just beginning—and I am all in.” ### Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

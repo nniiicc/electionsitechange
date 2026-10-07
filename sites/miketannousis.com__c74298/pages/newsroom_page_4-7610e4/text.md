@@ -1,6 +1,3 @@
-Bay Ridge Attorney Michael Tannousis to Run for State Assembly
-Michael Tannousis, a former prosecutor, is looking to succeed Nicole Malliotakis as the assemblymember for the 64th District, which covers parts of Brooklyn and the East Shore of Staten Island.
-READ post
-Tannousis Rips Proposed Toll Hikes as ‘Highway Robbery’
-The proposal would increase the cash toll on the Bayonne Bridge, Goethals Bridge and Outerbridge Crossing.
-READ post
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Tannousis for Assembly NEWSROOM Fri, Aug 09 2019 Featured Bay Ridge Attorney Michael Tannousis to Run for State Assembly Michael Tannousis, a former prosecutor, is looking to succeed Nicole Malliotakis as the assemblymember for the 64th District, which covers parts of Brooklyn and the East Shore of Staten Island.
+READ post share Tue, Jul 23 2019 Featured Tannousis Rips Proposed Toll Hikes as ‘Highway Robbery’ The proposal would increase the cash toll on the Bayonne Bridge, Goethals Bridge and Outerbridge Crossing.
+READ post share Posts pagination Previous page 1 … 3 4 STAND WITH MIKE Your email address * Your ZIP code * Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

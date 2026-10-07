@@ -1,37 +1,198 @@
 [
-"http://electoralmedia.com/",
-"http://ny1.com/nyc/queens/news/2016/09/22/staten-island-week--mike-reilly-s-facebook-page-a-go-to-site-for-all-things-staten-island.html",
-"http://ny1.com/nyc/staten-island/news/2018/03/02/cec-president-weighs-in-on-school-security-",
-"https://cityandstateny.com/articles/influential-list-gallery/boroughs/staten-island-100-continued-11-50.html",
-"https://facebook.com/MichaelReillyforAssembly",
-"https://facebook.com/michael.reilly.7547/posts/10201821910845687",
-"https://mikewreilly.com/",
-"https://mikewreilly.com/accomplishments/60-million",
-"https://mikewreilly.com/category/endorsements",
-"https://mikewreilly.com/category/featured",
-"https://mikewreilly.com/contact-us",
-"https://mikewreilly.com/donate",
-"https://mikewreilly.com/get-involved",
-"https://mikewreilly.com/meet-mike",
-"https://mikewreilly.com/mike-reilly-endorsed-by-the-uniformed-firefighters-association",
-"https://mikewreilly.com/mike-reilly-endorsed-by-the-united-federation-of-teachers",
-"https://mikewreilly.com/newsroom",
-"https://mikewreilly.com/no-homeless-shelter",
-"https://mikewreilly.com/privacy-policy",
-"https://mikewreilly.com/sign-request",
-"https://mikewreilly.com/the-issues",
-"https://secure.anedot.com/reilly-for-new-york/donate",
-"https://secure.anedot.com/reilly-for-new-york/march12",
-"https://silive.com/news/2011/02/city_reveals_plan_to_remove_to.html",
-"https://silive.com/news/2012/01/staten_island_ed_council_looks.html",
-"https://silive.com/news/2012/08/staten_islands_community_educa.html",
-"https://silive.com/news/2013/06/slow_zones_could_be_on_tap_at.html",
-"https://silive.com/news/2014/04/department_of_education_flushe.html",
-"https://silive.com/news/2015/05/city_continues_to_roll_out_new.html",
-"https://silive.com/news/2018/01/island_cops_receive_special_tr.html",
-"https://silive.com/news/2018/04/post_2098.html",
-"https://silive.com/news/index.ssf/2013/11/new_enforcement_strategy_will.html",
-"https://siparent.com/building-empathy-equity-and-excellence",
-"https://siparent.com/mikereilly/digital-footprints",
-"https://twitter.com/teamreillyny"
+{
+"text": "$10",
+"href": "https://mikewreilly.com/donate/"
+},
+{
+"text": "$25",
+"href": "https://mikewreilly.com/donate/"
+},
+{
+"text": "$5",
+"href": "https://mikewreilly.com/donate/"
+},
+{
+"text": "$50",
+"href": "https://mikewreilly.com/donate/"
+},
+{
+"text": "Contact Us",
+"href": "https://mikewreilly.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://mikewreilly.com/category/endorsements/"
+},
+{
+"text": "Featured",
+"href": "https://mikewreilly.com/category/featured/"
+},
+{
+"text": "Get Involved",
+"href": "https://mikewreilly.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://mikewreilly.com/the-issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "http://www.ny1.com/nyc/queens/news/2016/09/22/staten-island-week--mike-reilly-s-facebook-page-a-go-to-site-for-all-things-staten-island.html"
+},
+{
+"text": "LEARN MORE",
+"href": "http://www.ny1.com/nyc/staten-island/news/2018/03/02/cec-president-weighs-in-on-school-security-"
+},
+{
+"text": "LEARN MORE",
+"href": "https://cityandstateny.com/articles/influential-list-gallery/boroughs/staten-island-100-continued-11-50.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://mikewreilly.com/accomplishments/60-million/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.facebook.com/michael.reilly.7547/posts/10201821910845687"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2011/02/city_reveals_plan_to_remove_to.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2012/01/staten_island_ed_council_looks.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2012/08/staten_islands_community_educa.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2013/06/slow_zones_could_be_on_tap_at.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2014/04/department_of_education_flushe.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2015/05/city_continues_to_roll_out_new.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2018/01/island_cops_receive_special_tr.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/2018/04/post_2098.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silive.com/news/index.ssf/2013/11/new_enforcement_strategy_will.html"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.siparent.com/building-empathy-equity-and-excellence/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.siparent.com/mikereilly/digital-footprints/"
+},
+{
+"text": "LEARN MORE ABOUT MIKE",
+"href": "https://mikewreilly.com/meet-mike/"
+},
+{
+"text": "MORE INFO",
+"href": "https://secure.anedot.com/reilly-for-new-york/march12"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikewreilly.com/meet-mike/"
+},
+{
+"text": "Mike Reilly Endorsed by the Uniformed Firefighters Association",
+"href": "https://mikewreilly.com/mike-reilly-endorsed-by-the-uniformed-firefighters-association/"
+},
+{
+"text": "Mike Reilly Receives Endorsement of United Federation of Teachers",
+"href": "https://mikewreilly.com/mike-reilly-endorsed-by-the-united-federation-of-teachers/"
+},
+{
+"text": "Newsroom",
+"href": "https://mikewreilly.com/newsroom/"
+},
+{
+"text": "Paid for by Reilly for New York",
+"href": "https://mikewreilly.com/"
+},
+{
+"text": "Political Website Design",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikewreilly.com/privacy-policy/"
+},
+{
+"text": "Request a Sign",
+"href": "https://mikewreilly.com/sign-request/"
+},
+{
+"text": "Take Action",
+"href": "https://mikewreilly.com/get-involved/"
+},
+{
+"text": "Take Action: Sign the Petition Against the Proposed Homeless Shelter",
+"href": "https://mikewreilly.com/no-homeless-shelter/"
+},
+{
+"text": "VISIT NEWSROOM",
+"href": "https://mikewreilly.com/newsroom/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mikewreilly.com/get-involved"
+},
+{
+"text": "[image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.]",
+"href": "https://mikewreilly.com"
+},
+{
+"text": "[image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.] [image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.]",
+"href": "https://mikewreilly.com"
+},
+{
+"text": "[image: electoralmedia®]",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "[no text]",
+"href": "https://mikewreilly.com/mike-reilly-endorsed-by-the-uniformed-firefighters-association/"
+},
+{
+"text": "[no text]",
+"href": "https://mikewreilly.com/mike-reilly-endorsed-by-the-united-federation-of-teachers/"
+},
+{
+"text": "[no text]",
+"href": "https://mikewreilly.com/no-homeless-shelter/"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/MichaelReillyforAssembly/"
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/teamreillyny"
+}
 ]

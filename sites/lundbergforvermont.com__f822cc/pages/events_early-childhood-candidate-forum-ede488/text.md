@@ -1,13 +1,5 @@
-Back to All Events
-Rockingham Free Public Library, 65 Westminster St., Bellows Falls, VT
-Chris Lundberg will participate in this free in-person regional candidate forum hosted by Building Bright Futures.
+0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Back to All Events Early Childhood Candidate Forum (Bellows Falls) Thursday, October 1, 2026 5:00 PM 6:30 PM Google Calendar ICS Rockingham Free Public Library, 65 Westminster St., Bellows Falls, VT Chris Lundberg will participate in this free in-person regional candidate forum hosted by Building Bright Futures.
 All are welcome.
 These forums are an opportunity for families, the early childhood workforce, and community members to hear from local candidates for Vermont’s House and Senate about where they stand on issues related to children and families.
 Candidates will be asked about issues that matter to Vermont families and communities, including questions about economic security, housing, early childhood workforce shortages, and access to prekindergarten programs.
-Previous
-Previous
-September 18
-Meet & Greet & Walk with Amanda (Bellows Falls)
-Next
-Next
-October 15
+Learn more Previous Previous September 18 Meet & Greet & Walk with Amanda (Bellows Falls) Next Next October 15 Listening Session CHRIS LUNDBERG For Vermont House of Representatives Windham-3 (Rockingham, Westminster, & Brookline) Donate Contact Paid for by Chris Lundberg for State Representative, 19 Prospect St., Bellows Falls, VT 05101

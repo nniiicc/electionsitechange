@@ -1,6 +1,8 @@
-Education for All
-Ayanna believes in competitive wages for our public school teachers and education justice for all our students.
+EN ES HT ZH Facebook Twitter Instagram Meet Ayanna Issues Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Jobs Volunteer Store Donate Meet Ayanna Events Voter Info Volunteer Store Donate Education for All Ayanna believes in competitive wages for our public school teachers and education justice for all our students.
 That’s why she has worked in partnership with the teachers’ unions to press for safe working conditions, better pay, and the respect our teachers deserve.
 She has introduced legislation to address head-on the barriers our students – especially Black girls – face when it comes to discrimination and criminalization in our schools.
 Ayanna has worked closely with our community colleges and secured critical resources to expand access to higher education for families in our district.
 Ayanna has spent years pressing for student debt cancellation and, in partnership with Senator Warren, Congressional colleagues, and a dedicated coalition of advocates and borrowers, has effectively secured Presidential action to cancel billions of dollars in debt for millions of borrowers in Massachusetts and across the nation.
+Chip In Now Ayanna is a relentless advocate for the people.
+Will you have her back by chipping in today?
+Our average contribution this year $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Meet Ayanna Voter Info Volunteer Jobs Store Donate Follow Us Facebook Twitter Instagram Donate By Mail Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Paid for by the Committee to Elect Ayanna Pressley Contact Privacy Made with Middle Seat

@@ -1,8 +1,26 @@
 [
-"https://donovanforassembly.com/",
-"https://donovanforassembly.com/cart",
-"https://donovanforassembly.com/news",
-"https://donovanforassembly.com/volunteer",
-"https://facebook.com/aldermanbobdonovan",
-"https://politics.raisethemoney.com/en/bdonovan"
+{
+"text": "0",
+"href": "https://www.donovanforassembly.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://politics.raisethemoney.com/en/bdonovan"
+},
+{
+"text": "News",
+"href": "https://www.donovanforassembly.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://www.donovanforassembly.com/volunteer"
+},
+{
+"text": "[image: Donovan for Assembly]",
+"href": "https://www.donovanforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/aldermanbobdonovan"
+}
 ]

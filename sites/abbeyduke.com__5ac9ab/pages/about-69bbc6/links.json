@@ -1,11 +1,42 @@
 [
-"https://abbeyduke.com/",
-"https://abbeyduke.com/about",
-"https://abbeyduke.com/blog",
-"https://abbeyduke.com/cart",
-"https://abbeyduke.com/contact",
-"https://abbeyduke.com/private-policy-1",
-"https://facebook.com/abbeydukevt",
-"https://instagram.com/abbeydukevt",
-"https://secure.actblue.com/donate/abbey-duke-for-vermont-1"
+{
+"text": "0",
+"href": "https://www.abbeyduke.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.abbeyduke.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.abbeyduke.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.abbeyduke.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/abbey-duke-for-vermont-1"
+},
+{
+"text": "Home",
+"href": "https://www.abbeyduke.com/"
+},
+{
+"text": "Private Policy",
+"href": "https://www.abbeyduke.com/private-policy-1"
+},
+{
+"text": "[image: Abbey Duke for Vermont House]",
+"href": "https://www.abbeyduke.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/abbeydukevt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/abbeydukevt/"
+}
 ]

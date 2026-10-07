@@ -1,7 +1,11 @@
 {
  "description": "Democrat Matt Knickerbocker is running to represent Bethel, Bethlehem, Bridgewater, Brookfield, Middlebury, Oxford, Roxbury, Seymour, Southbury, Washington, Watertown, and Woodbury in the Connecticut State Senate.",
  "final_url": "https://www.mattknickerbocker.com/about-matt",
- "paid_for_by": "Paid for by Knickerbocker &#39;26",
+ "fingerprint": "1ab9116c1edfc3d59a2027a7f0c638d466c61e90",
+ "format": 3,
+ "paid_for_by": "Paid for by Knickerbocker '26",
  "title": "About Matt | Matt Knickerbocker for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2009"
+ ]
 }

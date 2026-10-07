@@ -1,14 +1,54 @@
 [
-"https://noincometaxcarter.com/",
-"https://noincometaxcarter.com/about",
-"https://noincometaxcarter.com/contact-no-income-tax-carter",
-"https://noincometaxcarter.com/contribute",
-"https://noincometaxcarter.com/education",
-"https://noincometaxcarter.com/infrastructure",
-"https://noincometaxcarter.com/my-positions",
-"https://noincometaxcarter.com/no-income-taxes-2",
-"https://noincometaxcarter.com/privacy-policy",
-"https://noincometaxcarter.com/transportation",
-"https://noincometaxcarter.com/volunteer",
-"https://washingtonpolicy.org/publications/detail/the-state-of-washingtons-transportation-system"
+{
+"text": "About",
+"href": "https://noincometaxcarter.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://noincometaxcarter.com/contact-no-income-tax-carter/"
+},
+{
+"text": "Contribute",
+"href": "https://noincometaxcarter.com/contribute/"
+},
+{
+"text": "EDUCATION",
+"href": "https://noincometaxcarter.com/education/"
+},
+{
+"text": "Home",
+"href": "https://noincometaxcarter.com/"
+},
+{
+"text": "INFRASTRUCTURE",
+"href": "https://noincometaxcarter.com/infrastructure/"
+},
+{
+"text": "My Positions",
+"href": "https://noincometaxcarter.com/my-positions/"
+},
+{
+"text": "NO INCOME TAXES",
+"href": "https://noincometaxcarter.com/no-income-taxes-2/"
+},
+{
+"text": "No Income Tax Carter",
+"href": "https://noincometaxcarter.com"
+},
+{
+"text": "PRIVACY",
+"href": "https://noincometaxcarter.com/privacy-policy/"
+},
+{
+"text": "TRANSPORTATION",
+"href": "https://noincometaxcarter.com/transportation/"
+},
+{
+"text": "The State of Washington’s Transportation System",
+"href": "https://www.washingtonpolicy.org/publications/detail/the-state-of-washingtons-transportation-system"
+},
+{
+"text": "Volunteer",
+"href": "https://noincometaxcarter.com/volunteer/"
+}
 ]

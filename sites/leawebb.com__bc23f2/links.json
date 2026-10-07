@@ -1,16 +1,90 @@
 [
-"http://bit.ly/lealawnsign",
-"http://bit.ly/lealeads52",
-"https://instagram.com/leawebbforny",
-"https://leawebb.com/",
-"https://leawebb.com/endorsements",
-"https://leawebb.com/events",
-"https://leawebb.com/issues",
-"https://leawebb.com/meet-lea",
-"https://leawebb.com/news",
-"https://leawebb.com/volunteer",
-"https://m.facebook.com/Lea-Webb-208300762536695?notif_t=page_user_activity",
-"https://secure.actblue.com/donate/lea-webb-1",
-"https://twitter.com/leawebbforny",
-"https://youtube.com/channel/UC-OdnS8oXrQ68ISDNZnj1cg"
+{
+"text": "Attend an Event",
+"href": "https://www.leawebb.com/events"
+},
+{
+"text": "CLICK HERE FOR MORE ENDORSEMENTS",
+"href": "https://www.leawebb.com/endorsements"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lea-webb-1"
+},
+{
+"text": "Donate",
+"href": "http://bit.ly/lealeads52"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.leawebb.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.leawebb.com/events"
+},
+{
+"text": "Environment",
+"href": "https://www.leawebb.com/issues"
+},
+{
+"text": "Healthcare",
+"href": "https://www.leawebb.com/issues"
+},
+{
+"text": "Housing",
+"href": "https://www.leawebb.com/issues"
+},
+{
+"text": "ISSUES",
+"href": "https://www.leawebb.com/issues"
+},
+{
+"text": "Jobs/Economy",
+"href": "https://www.leawebb.com/issues"
+},
+{
+"text": "MEET LEA",
+"href": "https://www.leawebb.com/meet-lea"
+},
+{
+"text": "NEWS",
+"href": "https://www.leawebb.com/news"
+},
+{
+"text": "Reproductive Justice",
+"href": "https://www.leawebb.com/issues"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "http://bit.ly/lealawnsign"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.leawebb.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://m.facebook.com/Lea-Webb-208300762536695/?notif_t=page_user_activity"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/leawebbforny/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/leawebbforny"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UC-OdnS8oXrQ68ISDNZnj1cg"
+},
+{
+"text": "[image]",
+"href": "https://www.leawebb.com"
+},
+{
+"text": "info@leawebb.com",
+"href": "mailto:info@leawebb.com"
+}
 ]

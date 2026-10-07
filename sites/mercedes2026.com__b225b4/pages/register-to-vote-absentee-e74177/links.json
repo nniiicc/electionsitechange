@@ -1,15 +1,58 @@
 [
-"https://elections.ny.gov/early-vote-mail-application-english",
-"https://elections.ny.gov/early-vote-mail-application-spanish",
-"https://elections.ny.gov/voter-registration-process",
-"https://facebook.com/VoteMercedes2026",
-"https://mercedes2026.com/",
-"https://mercedes2026.com/about",
-"https://mercedes2026.com/about-2",
-"https://mercedes2026.com/community",
-"https://mercedes2026.com/donate",
-"https://mercedes2026.com/endorsements",
-"https://mercedes2026.com/register-to-vote-absentee",
-"https://mercedes2026.com/volunteer",
-"https://voterlookup.elections.ny.gov/"
+{
+"text": "About",
+"href": "https://www.mercedes2026.com/about"
+},
+{
+"text": "CHECK YOUR STATUS",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Community",
+"href": "https://www.mercedes2026.com/community"
+},
+{
+"text": "DONATE",
+"href": "https://www.mercedes2026.com/donate"
+},
+{
+"text": "ENGLISH",
+"href": "https://elections.ny.gov/early-vote-mail-application-english"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mercedes2026.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mercedes2026.com"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "Record",
+"href": "https://www.mercedes2026.com/about-2"
+},
+{
+"text": "Register to Vote / Absentee",
+"href": "https://www.mercedes2026.com/register-to-vote-absentee"
+},
+{
+"text": "SPANISH",
+"href": "https://elections.ny.gov/early-vote-mail-application-spanish"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.mercedes2026.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteMercedes2026"
+},
+{
+"text": "votemercedes2026@gmail.com",
+"href": "mailto:votemercedes2026@gmail.com"
+}
 ]

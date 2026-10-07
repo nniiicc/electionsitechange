@@ -1,38 +1,8 @@
-Here is the best spot to find each of my weekly newsletters, which showcase my recent updates in the State House, in District 12, and all other local announcements we want to feature!
-Sign up for our newsletter here: https://t.co/vINsAB2zOD
-As always, if you ever have any questions for me, please reach out to my office by emailing kyle.brown.house@coleg.gov or you can call us at 303-866-2920!
+Skip to content Kyle Brown: State Representative Progressive Values.
+Proven Results.
+Menu Home Inicio My Story Mi Historia Results Matter Los Resultados Importan Newsletters Noticias Our District: HD12 Distrito 12 Support My Campaign Únete a Nuestra Campaña Contact Me Contáctame Newsletters Here is the best spot to find each of my weekly newsletters, which showcase my recent updates in the State House, in District 12, and all other local announcements we want to feature!
+Sign up for our newsletter here: https://t.co/vINsAB2zOD As always, if you ever have any questions for me, please reach out to my office by emailing kyle.brown.house@coleg.gov or you can call us at 303-866-2920!
 I hope to connect with you soon.
-November 2025
-October 2025
-September 2025
-August 2025
-June 2025
-May 2025
-April 2025
-March 2025
-February 2025
-January 2025
-December 2024
-November 2024
-October 2024
-September 2024
-August 2024
-June 2024
-May 2024
-April 2024
-March 2024
-February 2024
-January 2024
-December 2023
-November 2023
-October 2023
-September 2023
-August 2023
-July 2023
-June 2023
-May 2023
-April 2023
-March 2023
-February 2023
-Paid for by Kyle for Colorado.
+November 2025 November 3 October 2025 October 4 October 25 September 2025 September 25 August 2025 August 22 June 2025 June 27 June 7 May 2025 May 23 May 12 April 2025 April 25 April 11 April 4 March 2025 March 28 March 21 March 14 March 7 February 2025 February 28 February 21 February 14 February 7 January 2025 January 31 January 24 January 17 January 10 December 2024 December 20 December 3 November 2024 November 18 October 2024 October 16 September 2024 September 27 September 20 August 2024 August 16 June 2024 June 25 June 7 May 2024 May 16 May 3 April 2024 April 27 April 19 April 12 April 5 March 2024 March 28 March 20 March 8 March 1 February 2024 February 23 February 23 February 17 February 9 February 2 January 2024 January 26 January 12 December 2023 December 22, 2023 November 2023 November 21, 2023 November 10, 2023 October 2023 October 5, 2023 September 2023 September 11, 2023 August 2023 August 18, 2023 July 2023 July 19, 2023 June 2023 June 26, 2023 June 9, 2023 May 2023 May 26, 2023 May 10, 2023 May 4, 2023 April 2023 April 18, 2023 April 7, 2023 April 2, 2023 March 2023 March 25, 2023 March 20, 2023 March 13, 2023 March 5, 2023 February 2023 February 24, 2023 February 17, 2023 February 10, 2023 Paid for by Kyle for Colorado.
 Registered Agent Kyle Brown.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading... kyleforcolorado@gmail.com Create a website or blog at WordPress.com Kyle Brown: State Representative Copy shortlink Manage subscriptions Sign up Log in Report this content %d

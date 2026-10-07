@@ -1,7 +1,3 @@
-Katie Stuart is commited to putting the people of the 112th District first.
+Search this site Embedded Files Skip to main content Skip to navigation Katie Stuart for IL State Rep Home The 112th District About Issues Voting Endorsements Katie Stuart for IL State Rep Home The 112th District About Issues Voting Endorsements More Home The 112th District About Issues Voting Endorsements Request a Yard Sign Katie Stuart is commited to putting the people of the 112th District first.
 By listening to our communities and working together, we can protect working families, strengthen our schools, and keep the Metro East a great place to call home.
-INFORMATION
-Paid for by Friends For Katie Stuart
-Page updated
-Google Sites
-Report abuse
+INFORMATION Register to Vote About Katie Privacy Policy Issues Endorsements Get Involved Request a Yard Sign Paid for by Friends For Katie Stuart © # Friends For Katie Stuart Google Sites Report abuse Page details Page updated Google Sites Report abuse

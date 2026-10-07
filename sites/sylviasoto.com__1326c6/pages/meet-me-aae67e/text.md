@@ -1,4 +1,4 @@
-I am a product of hard work, resilience, and public education.
+Home Meet Me menu Volunteer Gallery Donate Home Meet Me menu Volunteer Gallery Donate More Home Meet Me menu Volunteer Gallery Donate Home Meet Me menu Volunteer Gallery Donate Meet Sylvia Soto I am a product of hard work, resilience, and public education.
 My parents came to this country seeking opportunity and a better future for their children.
 Those experiences shaped my commitment to education, opportunity, and community advocacy.
 My father is a construction worker, and from him I learned the value of honest labor, sacrifice, and perseverance.
@@ -20,12 +20,11 @@ Education is the pathway to employment, stability, and long-term economic growth
 San Antonio is the third poorest major city in the country, and District 124 includes ZIP code 78207, the highest overlooked zip code in San Antonio.
 These are not just statistics—they represent families who deserve better.
 Addressing poverty requires real solutions: education, jobs, public safety, and tax relief that puts people first.
-I know many people have heard promises before—
-I’ve heard them too.
+I know many people have heard promises before— I’ve heard them too.
 That’s why I don’t just talk; I show up.
 I listen, I engage, and I advocate directly for our community.
 My advocacy has always been about service, not politics.
 Together, we can address the structural challenges facing our district and build a future grounded in opportunity, safety, and fairness for all.
 I look forward to earning your support and proudly representing District 124.
-Respectfully,
-Sylvia Soto
+Respectfully , Sylvia Soto Home Meet Me Volunteer Gallery Donate Sylvia Soto for Texas Copyright © # Sylvia Soto for Texas - All Rights Reserved.
+Donate Today

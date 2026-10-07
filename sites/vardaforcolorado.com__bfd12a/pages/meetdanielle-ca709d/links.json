@@ -1,12 +1,46 @@
 [
-"https://secure.actblue.com/donate/varda-for-colorado",
-"https://vardaforcolorado.com/",
-"https://vardaforcolorado.com/camp-campaign",
-"https://vardaforcolorado.com/cart",
-"https://vardaforcolorado.com/contact",
-"https://vardaforcolorado.com/endorsements",
-"https://vardaforcolorado.com/events-2-1",
-"https://vardaforcolorado.com/meetdanielle",
-"https://vardaforcolorado.com/priorities",
-"https://vardaforcolorado.com/privacypolicy"
+{
+"text": "0",
+"href": "https://www.vardaforcolorado.com/cart"
+},
+{
+"text": "Calendar",
+"href": "https://www.vardaforcolorado.com/events-2-1"
+},
+{
+"text": "Camp Campaign",
+"href": "https://www.vardaforcolorado.com/camp-campaign"
+},
+{
+"text": "Danielle's Priorities",
+"href": "https://www.vardaforcolorado.com/priorities"
+},
+{
+"text": "Donate to Danielle!",
+"href": "https://secure.actblue.com/donate/varda-for-colorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vardaforcolorado.com/endorsements"
+},
+{
+"text": "Meet Danielle",
+"href": "https://www.vardaforcolorado.com/meetdanielle"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vardaforcolorado.com/privacypolicy"
+},
+{
+"text": "Stay Connected",
+"href": "https://www.vardaforcolorado.com/contact"
+},
+{
+"text": "[image: Danielle Varda for HD27]",
+"href": "https://www.vardaforcolorado.com/"
+},
+{
+"text": "danielle@vardaforcolorado.com",
+"href": "mailto:danielle@vardaforcolorado.com?subject=Website+Inquiry"
+}
 ]

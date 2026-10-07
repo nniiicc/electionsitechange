@@ -1,10 +1,42 @@
 [
-"https://creighton4nh.com/",
-"https://creighton4nh.com/contact",
-"https://creighton4nh.com/donate",
-"https://creighton4nh.com/meet-jim",
-"https://creighton4nh.com/priorities",
-"https://creighton4nh.com/volunteer",
-"https://lovable.dev/projects/lovp_2cx3t31cf29078zxee2vcgfg6b",
-"https://secure.winred.com/creighton4nh/donate-today?exitintent=true"
+{
+"text": "Contact",
+"href": "https://creighton4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://creighton4nh.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/creighton4nh/donate-today?exitintent=true"
+},
+{
+"text": "Edit with",
+"href": "https://lovable.dev/projects/lovp_2cx3t31cf29078zxee2vcgfg6b"
+},
+{
+"text": "Home",
+"href": "https://creighton4nh.com/"
+},
+{
+"text": "Info@creighton4nh.com",
+"href": "mailto:Info@creighton4nh.com"
+},
+{
+"text": "JCCreightonNH State Senate",
+"href": "https://creighton4nh.com/"
+},
+{
+"text": "Meet Jim",
+"href": "https://creighton4nh.com/meet-jim"
+},
+{
+"text": "Priorities",
+"href": "https://creighton4nh.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://creighton4nh.com/volunteer"
+}
 ]

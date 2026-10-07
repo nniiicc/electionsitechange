@@ -1,17 +1,62 @@
 [
-"https://bsky.app/profile/zaynabmmohamed.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/zaynabforsenate",
-"https://instagram.com/zaynabmmohamed",
-"https://secure.actblue.com/donate/zaynabforsenate-website",
-"https://senate.mn/members/member_bio.html?mem_id=1273",
-"https://tiktok.com/@zaynabmmohamed",
-"https://x.com/ZaynabMMohamed",
-"https://zaynabmohamed.org/",
-"https://zaynabmohamed.org/connect",
-"https://zaynabmohamed.org/media",
-"https://zaynabmohamed.org/ourwork",
-"https://zaynabmohamed.org/resources",
-"https://zaynabmohamed.org/wins",
-"https://zaynabmohamed.org/work"
+{
+"text": "Connect",
+"href": "https://www.zaynabmohamed.org/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zaynabforsenate-website"
+},
+{
+"text": "Media",
+"href": "https://www.zaynabmohamed.org/media"
+},
+{
+"text": "Our Wins",
+"href": "https://www.zaynabmohamed.org/wins"
+},
+{
+"text": "Our Work",
+"href": "https://www.zaynabmohamed.org/work"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Resources",
+"href": "https://www.zaynabmohamed.org/resources"
+},
+{
+"text": "[image: Zaynab Mohamed for Minnesota Senate]",
+"href": "https://www.zaynabmohamed.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/zaynabmmohamed.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/zaynabforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/zaynabmmohamed/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@zaynabmmohamed"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ZaynabMMohamed"
+},
+{
+"text": "here",
+"href": "https://www.senate.mn/members/member_bio.html?mem_id=1273"
+},
+{
+"text": "so much more",
+"href": "https://www.zaynabmohamed.org/ourwork"
+}
 ]

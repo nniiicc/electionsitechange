@@ -1,45 +1,4 @@
-Skip to content
-Phone
-308-220-3211
-|
-committee@joinadrian.com
-Facebook
-DONATE TODAY!
-Search for:
-Home
-About
-Issues
-Media
-News
-Photos
-Donate
-Volunteer
-Contact
-Search for:
-Home
-About
-Issues
-Media
-News
-Photos
-Donate
-Volunteer
-Contact
-Home
-About
-Issues
-Media
-News
-Photos
-Donate
-Volunteer
-Contact
-Photos
-Photos
-Adrian Smith for Congress
-2026-05-11T08:31:03-05:00
-U.S.
-Congressman Adrian Smith
-Representing Nebraska’s Third District
-Page load link
-Go to Top
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Photos Photos Adrian Smith for Congress 2026-05-11T08:31:03-05:00 U.S.
+Congressman Adrian Smith Representing Nebraska’s Third District 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

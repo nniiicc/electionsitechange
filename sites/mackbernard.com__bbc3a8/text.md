@@ -1,6 +1,4 @@
-Mack Bernard for State Senate
-Mack Bernard for State Senate
-Mack Bernard is fighting for our future.
+Mack Bernard for State Senate Mack Bernard for State Senate Endorse Donate PAID BY MACK BERNARD, DEMOCRAT, FOR COUNTY COMMISSION Mack Bernard is fighting for our future.
 Standing up for our families and our neighborhoods, Mack’s always had our back.
 Now he is running for the Florida Senate to put his experience to work for Palm Beach County.
 Mack Bernard has served as Palm Beach County Commissioner since 2016, serving terms as both County Mayor and County Vice Mayor during his seven years on the Commission.
@@ -19,3 +17,4 @@ Bernard graduated with honors from Florida State University; earning a Bachelors
 (Taxation) and J.D. from the University of Florida’s Levin College of Law.
 Professionally, Bernard is an attorney with an emphasis on real estate and tax law.
 Bernard and his wife Shawn are raising their three daughters in Palm Beach County, Florida.
+Paid by Mack Bernard, Democrat, for State Senate Scroll to top

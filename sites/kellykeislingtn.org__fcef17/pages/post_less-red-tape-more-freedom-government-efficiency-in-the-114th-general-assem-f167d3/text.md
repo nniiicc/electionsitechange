@@ -1,5 +1,5 @@
-Less Red Tape, More Freedom: Government Efficiency in the 114th General Assembly
-One of the things I hear most often from small business owners and working families in District 38 is that government too often gets in the way.
+top of page HOME ABOUT THE ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Less Red Tape, More Freedom: Government Efficiency in the 114th General Assembly Team Keisling Jun 14 2 min read One of the things I hear most often from small business owners and working families in District 38 is that government too often gets in the way.
 Regulations that made sense on paper create real burdens in practice.
 Bureaucratic processes that were designed to protect people end up slowing them down.
 This session, we did something about it.
@@ -22,3 +22,6 @@ We also aligned local elections with state election cycles, which reduces the nu
 It is a common-sense reform that makes government more efficient without sacrificing any democratic accountability.
 Government works best when it does the right things well and trusts citizens and communities to handle the rest.
 This session moved us closer to that ideal.
+Post Office Box 577, Byrdstown, Tennessee 38549 ( 615) 741-6852 | ktkeisling@gmail.com Paid for by Kelly Keisling for State Representative, John Keisling, Treasurer.
+Web design by ZDStephens Company .
+Privacy Policy: Click Here bottom of page

@@ -1,14 +1,58 @@
 [
-"https://aflcio.org/paywatch/ES",
-"https://cnbc.com/2025/11/26/ai-data-center-frenzy-is-pushing-up-your-electric-bill-heres-why.html",
-"https://ctmirror.org/2026/03/16/ct-municipal-electric-utilities-cost",
-"https://facebook.com/profile.php?id=61583916910472",
-"https://instagram.com/marcuspalumboct",
-"https://itep.org/whopays/connecticut-who-pays-7th-edition",
-"https://marcuspalumbo.com/",
-"https://marcuspalumbo.com/blog",
-"https://marcuspalumbo.com/contact",
-"https://marcuspalumbo.com/lawn-sign",
-"https://marcuspalumbo.com/platform",
-"https://marcuspalumbo.com/volunteer"
+{
+"text": "CONTACT",
+"href": "https://marcuspalumbo.com/contact/"
+},
+{
+"text": "Eversource CEO makes 13 million a year",
+"href": "https://aflcio.org/paywatch/ES"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61583916910472"
+},
+{
+"text": "HOME",
+"href": "https://marcuspalumbo.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/marcuspalumboct/"
+},
+{
+"text": "LAWN SIGN",
+"href": "https://marcuspalumbo.com/lawn-sign/"
+},
+{
+"text": "Marcus Palumbo",
+"href": "https://marcuspalumbo.com/"
+},
+{
+"text": "NEWS",
+"href": "https://marcuspalumbo.com/blog/"
+},
+{
+"text": "PLATFORM",
+"href": "https://marcuspalumbo.com/platform/"
+},
+{
+"text": "Paid for by Citizens for Lower Costs • Treasurer Linda Theodoru",
+"href": "https://marcuspalumbo.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://marcuspalumbo.com/volunteer/"
+},
+{
+"text": "municipal power",
+"href": "https://ctmirror.org/2026/03/16/ct-municipal-electric-utilities-cost/"
+},
+{
+"text": "shown to increase electricity costs for households",
+"href": "https://www.cnbc.com/2025/11/26/ai-data-center-frenzy-is-pushing-up-your-electric-bill-heres-why.html"
+},
+{
+"text": "the very richest people in our state pay a comparatively small percentage of their enormous wealth.",
+"href": "https://itep.org/whopays/connecticut-who-pays-7th-edition/"
+}
 ]

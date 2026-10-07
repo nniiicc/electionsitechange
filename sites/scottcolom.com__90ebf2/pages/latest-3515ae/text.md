@@ -1,32 +1,46 @@
-- Press Release
-Columbus, MS — Today, outside the WCBI TV station, U.S.
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate The Latest Recent News & Campaign Updates October 1, 2026 Press Release “She’s Chicken”: District Attorney Scott Colom Challenges Cindy Hyde-Smith to Debate Him in Columbus Columbus, MS — Today, outside the WCBI TV station, U.S.
 Senate candidate and District Attorney Scott Colom challenged incumbent Senator Cindy Hyde-Smith to debate him in Columbus, Mississippi hosted by an outlet of her choosing....
-Jackson, MS — In case you missed it, The Washington Post reports that District Attorney Scott Colom's campaign has Democratic officials and donors increasingly hopeful about flipping Mississippi's Senate seat, as an invigorated Democratic base and a depressed Republican electorate put the race within reach....
-Southaven businessman Mark Vines, who appears in Colom’s new ad, says Hyde-Smith lost his vote when she voted to block the release of the Epstein files Vines: “If Cindy Hyde-Smith is not going to stand up to the the sexual abuse of young girls, she’s not going to stand up for Mississippi.
-That’s why I’m […]
-...
-Jackson, MS — Today, U.S.
+Read More October 1, 2026 Press Release WITHIN REACH: New Washington Post Report Highlights Growing Democratic Hope in Mississippi as Colom Builds Momentum Toward November Jackson, MS — In case you missed it, The Washington Post reports that District Attorney Scott Colom's campaign has Democratic officials and donors increasingly hopeful about flipping Mississippi's Senate seat, as an invigorated Democratic base and a depressed Republican electorate put the race within reach....
+Read More September 30, 2026 Press Release 20-Year Mississippi Republican Voter Calls Out Hyde-Smith’s Vote Against Releasing the Epstein Files, Endorses Colom Southaven businessman Mark Vines, who appears in Colom’s new ad, says Hyde-Smith lost his vote when she voted to block the release of the Epstein files Vines: “If Cindy Hyde-Smith is not going to stand up to the the sexual abuse of young girls, she’s not going to stand up for Mississippi.
+That’s why I’m […] ...
+Read More September 29, 2026 Press Release With Mississippi Solidly In-Play, District Attorney Scott Colom Challenges Cindy Hyde-Smith to Three Debates Jackson, MS — Today, U.S.
 Senate candidate and District Attorney Scott Colom challenged incumbent Senator Cindy Hyde-Smith to three debates, including one debate hosted by any news organization Senator Hyde-Smith chooses....
-Jackson, MS – In case you missed it, the Wall Street Journal and Associated Press just profiled District Attorney Scott Colom’s surging Senate campaign and why Democrats are bullish on Mississippi – and why Republicans are scared.
+Read More September 28, 2026 Press Release MISSISSIPPI IN PLAY: WSJ, AP Spotlight Scott Colom’s Surging U.S.
+Senate Campaign As Polls Tighten Jackson, MS – In case you missed it, the Wall Street Journal and Associated Press just profiled District Attorney Scott Colom’s surging Senate campaign and why Democrats are bullish on Mississippi – and why Republicans are scared.
 Mississippi is in play because voters across the state are angry with incumbent Hyde-Smith’s record of raising costs for Mississippi families, supporting the Iran War, and...
-Jackson, MS — Today, District Attorney and U.S.
+Read More September 28, 2026 Press Release NEW: “I’ve Voted Republican for 20 Years, But I Won’t This November” — In New Colom Ad, DeSoto County Republican Says Hyde-Smith Has “Lost Her Way” Over Epstein Files Jackson, MS — Today, District Attorney and U.S.
 Senate nominee Scott Colom launched "Lost Her Way," a new ad running statewide across digital and connected television.
 In it, Mark Vines, a Southaven businessman who has voted Republican for 20 years, explains in his own words why he won't vote for Cindy Hyde-Smith this November: her vote to block the release of the Epstein...
-Jackson, MS — In case you missed it, after calling for an immediate pause on data center construction in Mississippi, U.S.
+Read More September 26, 2026 Press Release ICYMI: District Attorney Scott Colom Calls On Cindy Hyde-Smith to Reject AI Super PAC Money Jackson, MS — In case you missed it, after calling for an immediate pause on data center construction in Mississippi, U.S.
 Senate candidate and District Attorney Scott Colom challenged incumbent Cindy Hyde-Smith to turn down the massive amount of money being spent by a Super PAC backed by AI companies to support her campaign....
-Jackson, MS — Today, U.S.
+Read More September 24, 2026 Press Release District Attorney Scott Colom Calls for Immediate Pause on Data Center Construction, Calls Out Hyde-Smith for Her AI Billionaire Backers Jackson, MS — Today, U.S.
 Senate candidate and District Attorney Scott Colom released his Making AI Work for Mississippi Plan to ensure local communities make decisions about whether data centers are built in Mississippi and that Mississippians’ power bills do not go up....
-Jackson, MS — Today, U.S.
+Read More September 23, 2026 Press Release District Attorney Scott Colom Condemns Cindy Hyde-Smith’s Comments on Death of Nolan Wells Jackson, MS — Today, U.S.
 Senate candidate and District Attorney Scott Colom responded to a new video showing Cindy Hyde-Smith avoiding answering a serious question about Nolan Wells’ death.
 Hyde-Smith has a history of avoiding questions from reporters and Mississippians....
-Jackson, MS — Today, U.S.
+Read More September 22, 2026 Press Release District Attorney Scott Colom Calls for Release of Autopsy Report, Investigative File in Nolan Wells Case Jackson, MS — Today, U.S.
 Senate candidate and District Attorney Scott Colom released the following statement regarding developments in the Nolan Wells case:...
-Jackson, MS – In case you missed it, MS NOW political reporter Nnamdi Egwuonwu just wrote a new story spotlighting District Attorney Scott Colom's U.S.
+Read More September 17, 2026 Press Release ICYMI – “Mississippi Has to Matter”: MS NOW Highlights Growing Enthusiasm Behind District Attorney Colom’s Senate Campaign As Hyde-Smith Bleeds Support Jackson, MS – In case you missed it, MS NOW political reporter Nnamdi Egwuonwu just wrote a new story spotlighting District Attorney Scott Colom's U.S.
 Senate campaign and his path to victory this November as Mississippi voters grow increasingly angry with incumbent Hyde-Smith’s record of raising costs for Mississippi families, supporting the Iran War, and blocking the release of the Epstein files....
-Jackson, MS — Today, U.S.
+Read More September 17, 2026 Press Release As the Senate Race Tightens, Cindy Hyde-Smith Under Fire for Her Corruption Once Again With New “Where’s Cindy?” Microsite Jackson, MS — Today, U.S.
 Senate candidate and District Attorney Scott Colom launched a new microsite – whereiscindyhydesmith.com – to highlight incumbent Senator Hyde-Smith’s rampant corruption and record of voting to raise costs for Mississippi families....
-Columbus, MS — In case you missed it, as reported by Mississippi Today’s Taylor Vance, U.S.
+Read More August 4, 2026 Press Release ICYMI: U.S.
+Sen.
+Angela Alsobrooks Joins District Attorney Scott Colom in Jackson to Highlight Mississippi’s Healthcare Crisis Columbus, MS — In case you missed it, as reported by Mississippi Today’s Taylor Vance, U.S.
 Senator Angela Alsobrooks (D-MD) spent Saturday campaigning with District Attorney Scott Colom in Jackson, joining him on the trail to highlight the healthcare fight driving Mississippi's Senate race that is drawing growing national attention....
-Columbus, MS — Today, standing outside the Lowndes County Courthouse where he has served as district attorney for a decade, Scott Colom unveiled his agenda to root out corruption in Washington and made a prosecutor's case against Senator Cindy Hyde-Smith’s role in Washington’s corruption, laying out the receipts on her self-dealing, illustrating how each one connects to a cost to Mississippians, and highlighting...
-Columbus, MS — On Saturday, July 4, District Attorney and U.S.
+Read More July 16, 2026 Press Release District Attorney Colom Outraises Hyde-Smith Again in Q2, Nearing $# Million Raised Since Launch Columbus, MS — Today, District Attorney Scott Colom announced he raised $945,015 in the second quarter of 2026, outraising the incumbent Senator Cindy Hyde-Smith and pushing the campaign's total to nearly $2 million since its September launch — a pace no Democratic statewide candidate in modern Mississippi history has matched....
+Read More July 14, 2026 Press Release WATCH: Prosecutor Scott Colom Lays Out His Plan to Clean Up Washington, Brings the Receipts on Cindy Hyde-Smith’s Corruption Columbus, MS — Today, standing outside the Lowndes County Courthouse where he has served as district attorney for a decade, Scott Colom unveiled his agenda to root out corruption in Washington and made a prosecutor's case against Senator Cindy Hyde-Smith’s role in Washington’s corruption, laying out the receipts on her self-dealing, illustrating how each one connects to a cost to Mississippians, and highlighting...
+Read More July 3, 2026 Press Release THIS SATURDAY: District Attorney Scott Colom to Deliver Fourth of July Remarks at the Historic Jacinto Courthouse Columbus, MS — On Saturday, July 4, District Attorney and U.S.
 Senate candidate Scott Colom will deliver Fourth of July remarks at the Jacinto Fourth of July Festival in Alcorn County....
+Read More Page 1 Page 2 Page 3 Page 4 Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

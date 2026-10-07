@@ -1,13 +1,58 @@
 [
-"https://bryan4nc.com/",
-"https://bryan4nc.com/blog",
-"https://bryan4nc.com/meet-bryan",
-"https://bryan4nc.com/priorities",
-"https://bryan4nc.com/privacy-statement",
-"https://bryan4nc.com/volunteer",
-"https://facebook.com/BryanforNCHouse32",
-"https://instagram.com/bcohn3",
-"https://ncsbe.gov/",
-"https://secure.actblue.com/donate/bcweb32",
-"https://twitter.com/i/flow/login?redirect_after_login=%2FOxford_Cohn"
+{
+"text": "CONTACT THE CAMPAIGN",
+"href": "mailto:team@bryan4nc.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bcweb32"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/bcweb32"
+},
+{
+"text": "Home",
+"href": "https://www.bryan4nc.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.bryan4nc.com/meet-bryan"
+},
+{
+"text": "Make A Plan",
+"href": "https://www.ncsbe.gov/"
+},
+{
+"text": "Meet Bryan",
+"href": "https://www.bryan4nc.com/meet-bryan"
+},
+{
+"text": "News",
+"href": "https://www.bryan4nc.com/blog"
+},
+{
+"text": "Priorities",
+"href": "https://www.bryan4nc.com/priorities"
+},
+{
+"text": "Privacy Statement",
+"href": "https://www.bryan4nc.com/privacy-statement"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bryan4nc.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BryanforNCHouse32"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bcohn3/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/i/flow/login?redirect_after_login=%2FOxford_Cohn"
+}
 ]

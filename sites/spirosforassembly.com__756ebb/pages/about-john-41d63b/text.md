@@ -1,5 +1,4 @@
-About John
-Representative John Spiros began his career by serving 6 years in the United States Air Force.
+Home 2024-26 Session Accomplishments About John On the Issues News Endorsements Contact Donate Home 2024-26 Session Accomplishments About John On the Issues News Endorsements Contact Donate About John Representative John Spiros began his career by serving 6 years in the United States Air Force.
 While in the service, John was a member of an elite security squad at Offutt Air Force Base Nebraska, where he was tasked with protecting the 26 generals and the command center for the Strategic Air Command.
 After his time in the Air Force, John served as a police officer before beginning his career in the transportation industry.
 It was his career in transportation that brought him to his adopted home in Marshfield, WI.
@@ -12,3 +11,4 @@ Together, John and his wife, Rebecca, have 5 adult children and 6 grandchildren.
 John continues his work in the transportation industry as a Vice President for Roehl Transport in Marshfield.
 From 2015 to 2017, he served as the President of the Transportation Industry Defense Association and was named the 2009 American Trucking Association’s National Safety Director of the Year.
 In his free time, John enjoys spending time with his grandchildren, cheering on the Badgers and Packers, golfing, and traveling with his wife.
+Back to Top PAID FOR BY SPIROS FOR ASSEMBLY, JANE TRIERWEILER, TREASURER Privacy Policy

@@ -1,5 +1,7 @@
-Boston Property Tax FAQ
-I have been asked many questions about Boston’s property taxes and what happened recently with legislation at the Statehouse.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate Boston Property Tax FAQ Dec 19 Written By Jay Livingstone I have been asked many questions about Boston’s property taxes and what happened recently with legislation at the Statehouse.
 I thought I would prepare FAQs to help people understand the process and where things stand.
 Throughout this process, I tried to help Boston secure state approvals that I thought were more reasonable for residential taxpayers while not shifting too much cost onto businesses.
 Unfortunately, legislative efforts to help Boston’s residential taxpayers have failed.
@@ -27,7 +29,7 @@ Finally, there are local options in state law that permit every municipality to 
 One local option allows municipalities to set a residential exemption of up to 35%.
 Another local option allows municipalities to create a property tax exemption.
 Boston fully takes advantage of both of these options.
-It has a residential exemption and senior exemption, among other exemptions.
+It has a residential exemption and senior exemption , among other exemptions.
 3.
 Has any other municipality made a similar request to the one Boston made?
 Yes, Watertown sought to change this exact state law earlier this year and the change was approved by the House and Senate and signed into law by Governor Healey.
@@ -39,7 +41,7 @@ I understand that every year since Proposition 2 ½ became law in 1980 that Bost
 In addition, I understand that Boston has consistently charged the maximum additional it could charge for commercial property versus residential property.
 Apparently, bonding agencies have given Boston a AAA rating for years because of this predictability.
 In the past year, residential values have increased overall and commercial values have declined overall.
-As a result, to raise the maximum 2.5% more than was raised from property taxes last year, residential taxes would have to increase significantly to make up for the decline in commercial values.
+As a result, to raise the maximum #% more than was raised from property taxes last year, residential taxes would have to increase significantly to make up for the decline in commercial values.
 Initial estimates showed that residential property taxes, on average, would increase by 16.5% this year.
 Because property taxpayers have paid two bills already, the increase would appear only on the last two bills, increasing those bills by 33%.
 5.
@@ -84,7 +86,7 @@ The more your property has increased in value in the last year, the greater the 
 Overall, this will be the largest residential tax increase in Boston since 2007.
 9.
 Why didn’t Boston cut its budget instead of raising property taxes?
-The argument that I saw from the City was publicly articulated by our former Boston CIty Councilor Kenzie Bok in this letter to editor of the Boston Globe.
+The argument that I saw from the City was publicly articulated by our former Boston CIty Councilor Kenzie Bok in this letter to editor of the Boston Globe .
 Notably, even if Boston cut its budget, that does not necessarily mean that residential property taxes would not increase by the same amount.
 For that to change, Boston would need to cut spending associated with property taxes specifically and collect less than the Proposition 2.5 mandate, which I understand Boston has never done.
 Indeed, when Mayor Menino made this change, he cut that budget and that did not impact the amount he raised from residential or commercial property owners.
@@ -92,8 +94,9 @@ Also, the legislature did not have the issue of Boston’s budget before us, the
 10.
 After this year, what will happen?
 The biggest issues are whether residential values will continue to increase overall and commercial values continue to decrease overall and whether Boston will continue to raise 2.5% more each year in total property taxes.
-Some believe that commercial values will continue to decline in Boston for the next five years and the decline could lead to a significant loss of revenue.
+Some believe that commercial values will continue to decline in Boston for the next five years and the decline could lead to a significant loss of revenue .
 If that occurs, Boston will either need additional revenue sources, to spend less, or a mix of both.
 Property taxes make up around 70% of Boston’s revenues, so that issue looms large.
 Traditionally, Boston has relied on new development as its source of new revenue.
 I am evaluating the local options available for exemptions to municipalities and plan to file legislation in January 2025 for next term to provide municipalities more discretion to provide property tax relief to residents and seniors.
+Jay Livingstone Previous Previous Substance Abuse Act Next Next Economic Development Bill Summary Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

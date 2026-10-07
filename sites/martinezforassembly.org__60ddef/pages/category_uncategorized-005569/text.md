@@ -1,11 +1,6 @@
-- Ballot Statement – English Do NOT vote for me if you want: High taxesHigh crimeHigh cost of livingHomeless men, women and children on the streetBoys in girls’ sports and locker rooms Vote for me if you want: Low taxesCriminals off the streetsClean streetsGood jobsTo stop the radical agenda in schools There is a proverb that says, “When the wicked…
-- Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de criminalidadAlto costo de vidaPersonas sin hogar (hombres, mujeres y niños) en las callesNiños participando en deportes y vestuarios de niñas Vote por mí si desea: Impuestos bajosCriminales fuera de las callesCalles limpiasBuenos empleosDetener la agenda radical en las escuelas Existe un proverbio que dice: “Cuando…
-- Prop’s Matrix to 10/3/2026
-- BBQ-ROOT BEER-BALLOTS
-- 9/11 We pause to honor the nearly 3,000 lives lost on September 11, 2001, and to remember the courage shown by Flight 93 passengers, first responders, service members, and everyday people who stepped forward in the face of that unimaginable tragedy.
-We should reflect on the resilience of our nation, the unity that followed, and the…
-- November 3, 2026 Propositions Finalized
-- K-VON The Cultural Warrior Comedian
-- Speaking at WRW June 4th
-- Save the Date – July 5th!
-- Voter Guide
+Skip to content Facebook Mail Instagram X News About Contact Me Gallery Give Category: Uncategorized Ballot Statement – English Do NOT vote for me if you want: High taxesHigh crimeHigh cost of livingHomeless men, women and children on the streetBoys in girls’ sports and locker rooms Vote for me if you want: Low taxesCriminals off the streetsClean streetsGood jobsTo stop the radical agenda in schools There is a proverb that says, “When the wicked… October 4, 2026 Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de criminalidadAlto costo de vidaPersonas sin hogar (hombres, mujeres y niños) en las callesNiños participando en deportes y vestuarios de niñas Vote por mí si desea: Impuestos bajosCriminales fuera de las callesCalles limpiasBuenos empleosDetener la agenda radical en las escuelas Existe un proverbio que dice: “Cuando… October 4, 2026 Prop’s Matrix to 10/3/2026 October 4, 2026 BBQ-ROOT BEER-BALLOTS October 4, 2026 9/11 We pause to honor the nearly 3,000 lives lost on September 11, 2001, and to remember the courage shown by Flight 93 passengers, first responders, service members, and everyday people who stepped forward in the face of that unimaginable tragedy.
+We should reflect on the resilience of our nation, the unity that followed, and the… September 11, 2026 November 3, 2026 Propositions Finalized Download PDF HERE August 18, 2026 K-VON The Cultural Warrior Comedian August 3, 2026 Speaking at WRW June 4th I am honored to be the guest speaker at the Whittier Republican Women’s meeting this Thursday.
+It will be an opportunity for me to discuss the issues facing California and what needs to be done to fix those issues.
+To make a reservation…………warwreservations@gmail.com June 2, 2026 Save the Date – July 5th!
+May 31, 2026 Voter Guide May 31, 2026 1 2 3 Next Page → WHAT’S GOING ON?
+Ballot Statement – English Do NOT vote for me if you want: High taxesHigh… Read more : Ballot Statement – English Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de… Read more : Ballot Statement – Spanish SOCIAL MEDIA Facebook Mail Instagram X Email: martinezforassembly@gmail.com Phone: (562) 347-7202 Home About News Paid for by: Jessica Martinez for 56th Assembly 2026 FPPC #: 1479619

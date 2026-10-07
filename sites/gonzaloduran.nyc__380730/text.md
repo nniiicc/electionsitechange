@@ -1,15 +1,14 @@
-My name is Gonzalo Duran, and I am honored to announce my candidacy for the United States Congress in New York’s 15th Congressional District.
-I bring a deep understanding of our community’s needs and proven leadership.
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Scroll down to content Gonzalo Duran Gonzalo Duran Photo by Today’s Pixels My name is Gonzalo Duran, and I am honored to announce my candidacy for the United States Congress in New York’s 15th Congressional District.
+I bring a deep understanding of our community’s needs and proven leadership .
 If elected, I am committed to addressing pressing issues and emphasizing leadership, a crucial element currently lacking in public office.
-Explore my website to learn about my background, impactful work, and ongoing initiatives.
+Explore my website to learn about my background, impactful work, and ongoing initiatives .
 Your support, whether through volunteering or contributing financially to my campaign, is crucial.
 Once elected, I am eager to serve you with the dedication that has defined my two decades of service to our country, New York and the Bronx.
 Thank you for considering my candidacy, and I look forward to earning your support.
-Gonzalo Duran
-Candidate for Congress New York’s 15th District
-“Putting the Bronx and America First”
-Recent Articles
-Recent Event Photo
-Recent Video
-Recent Press
-Community Engagement
+Gonzalo Duran Candidate for Congress New York’s 15th District “Putting the Bronx and America First” Recent Articles Shery Olivo for the Republican NYS Assembly District 86: Vote June 23 by Gonzalo Duran June 22, 2026 Shery Olivo Secures Her Place on the Bronx Republican Ballot by Gonzalo Duran May 7, 2026 Statement on Leadership & Coordination Failures in the Bronx GOP by Gonzalo Duran April 29, 2026 Recent Event Photo Gonzalo Duran Press Conference Bronx vs Socialism Event Photos by Gonzalo Duran August 6, 2025 Candidate Forum: There’s Another Option by Gonzalo Duran March 9, 2025 The Bronx is MAGA Rally in Morris Park by Gonzalo Duran November 3, 2024 Recent Video Safety Press Conference with Conservative Party Candidates by Gonzalo Duran May 1, 2026 Mayor Bill de Blasio & Gonzalo Duran Interviewed by Italian Media by Gonzalo Duran April 23, 2026 Gonzalo Duran Honors Jason Murillo: A Rising Force in Manhattan by Gonzalo Duran October 13, 2025 Recent Press Senator Chuck Schumer & Gonzalo Duran On the Voting Rights Act by Gonzalo Duran April 25, 2026 Gonzalo Duran in the Press by Gonzalo Duran September 11, 2025 Former Judge Candidate Julie Holds Thank You Event Endorses Gonzalo Duran for Public Advocate by Gonzalo Duran July 28, 2025 Community Engagement Gonzalo Duran – Vice Chairman of the Bronx Conservative Party by Gonzalo Duran May 3, 2026 Gonzalo Duran to Participate in N.A.R.E.B.
+Political Advocacy Day by Gonzalo Duran April 13, 2026 United Alliance Party Expands Petitioning Infrastructure Statewide by Gonzalo Duran April 5, 2026 Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

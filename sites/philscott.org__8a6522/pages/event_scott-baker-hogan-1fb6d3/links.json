@@ -1,19 +1,78 @@
 [
-"https://bytes.co/",
-"https://facebook.com/PhilScottforVermont",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20201022T183000%2F20201022T191500&text=Forum+on+Leadership%2C+Civility+and+Unity+with+Governors+Phil+Scott%2C+Charlie+Baker+and+Larry+Hogan&details=%3Ca+href%3D%22https%3A%2F%2Fwww.philscott.org%2Fwp-content%2Fuploads%2F2020%2F10%2FScott_Baker_Hogan_Forum-2.png%22%3E%3Cimg+class%3D%22alignnone+wp-image-4709%22+src%3D%22https%3A%2F%2Fwww.philscott.org%2Fwp-content%2Fuploads%2F2020%2F10%2FScott_Baker_Hogan_Forum-2-300x169.png%22+alt%3D%22%22+width%3D%22426%22+height%3D%22240%22+%2F%3E%3C%2Fa%3EWatch+at+any+of+the+following%3Aphillscott.org%2Flivehttps%3A%2F%2Fwww.facebook.com%2FPhilScottforVermont&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org",
-"https://instagram.com/philscottvt",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2020-10-22T18%3A30%3A00-04%3A00&enddt=2020-10-22T19%3A15%3A00-04%3A00&subject=Forum+on+Leadership%2C+Civility+and+Unity+with+Governors+Phil+Scott%2C+Charlie+Baker+and+Larry+Hogan&body=Watch+at+any+of+the+following%3Aphillscott.org%2Flivehttps%3A%2F%2Fwww.facebook.com%2FPhilScottforVermont",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2020-10-22T18%3A30%3A00-04%3A00&enddt=2020-10-22T19%3A15%3A00-04%3A00&subject=Forum+on+Leadership%2C+Civility+and+Unity+with+Governors+Phil+Scott%2C+Charlie+Baker+and+Larry+Hogan&body=Watch+at+any+of+the+following%3Aphillscott.org%2Flivehttps%3A%2F%2Fwww.facebook.com%2FPhilScottforVermont",
-"https://philscott.org/",
-"https://philscott.org/event/wcax-gubernatorial-debate",
-"https://philscott.org/events",
-"https://philscott.org/meet-phil",
-"https://philscott.org/privacy-policy",
-"https://philscott.org/terms-and-conditions",
-"https://philscott.org/volunteer",
-"https://philscott.org/wp-content/uploads/2020/10/Scott_Baker_Hogan_Forum-2.png",
-"https://secure.anedot.com/phil-scott/donate",
-"https://twitter.com/philscott4vt",
-"https://youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phil-scott/donate"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20201022T183000%2F20201022T191500&text=Forum+on+Leadership%2C+Civility+and+Unity+with+Governors+Phil+Scott%2C+Charlie+Baker+and+Larry+Hogan&details=%3Ca+href%3D%22https%3A%2F%2Fwww.philscott.org%2Fwp-content%2Fuploads%2F2020%2F10%2FScott_Baker_Hogan_Forum-2.png%22%3E%3Cimg+class%3D%22alignnone+wp-image-4709%22+src%3D%22https%3A%2F%2Fwww.philscott.org%2Fwp-content%2Fuploads%2F2020%2F10%2FScott_Baker_Hogan_Forum-2-300x169.png%22+alt%3D%22%22+width%3D%22426%22+height%3D%22240%22+%2F%3E%3C%2Fa%3EWatch+at+any+of+the+following%3Aphillscott.org%2Flivehttps%3A%2F%2Fwww.facebook.com%2FPhilScottforVermont&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org"
+},
+{
+"text": "Join the Team",
+"href": "https://www.philscott.org/volunteer/"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philscott.org/meet-phil/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A30%3A00-04%3A00&enddt=%23T19%3A15%3A00-04%3A00&location=&subject=Forum+on+Leadership%2C+Civility+and+Unity+with+Governors+Phil+Scott%2C+Charlie+Baker+and+Larry+Hogan&body=Watch+at+any+of+the+following%3Aphillscott.org%2Flivehttps%3A%2F%2Fwww.facebook.com%2FPhilScottforVermont"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A30%3A00-04%3A00&enddt=%23T19%3A15%3A00-04%3A00&location=&subject=Forum+on+Leadership%2C+Civility+and+Unity+with+Governors+Phil+Scott%2C+Charlie+Baker+and+Larry+Hogan&body=Watch+at+any+of+the+following%3Aphillscott.org%2Flivehttps%3A%2F%2Fwww.facebook.com%2FPhilScottforVermont"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.philscott.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.philscott.org/terms-and-conditions/"
+},
+{
+"text": "Website Designed by Bytes.co",
+"href": "https://bytes.co"
+},
+{
+"text": "[image: Phil Scott for Governor]",
+"href": "https://www.philscott.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.philscott.org/wp-content/uploads/2020/10/Scott_Baker_Hogan_Forum-2.png"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/philscott4vt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilScottforVermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philscottvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+},
+{
+"text": "[no text]",
+"href": "mailto:phil@philscott.org"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.philscott.org/event/scott-baker-hogan/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.philscott.org/events/"
+},
+{
+"text": "« WCAX Gubernatorial Debate",
+"href": "https://www.philscott.org/event/wcax-gubernatorial-debate/"
+}
 ]

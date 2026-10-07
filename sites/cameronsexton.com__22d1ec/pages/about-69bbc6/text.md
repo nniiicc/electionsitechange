@@ -1,5 +1,4 @@
-Meet Cameron
-On Friday, August 23, 2019, Cameron Sexton was elected as the 83rd Speaker of the Tennessee House of Representatives.
+Toggle navigation Home About Issues On the Road News Volunteer Contact Donate Meet Cameron On Friday, August 23, 2019, Cameron Sexton was elected as the 83rd Speaker of the Tennessee House of Representatives.
 Known as a pragmatic conservative, the fifth generation Tennessean is currently in his fifth term serving the 25th House District, which includes Cumberland and Van Buren Counties, as well as the City of Monterey in Putnam County.
 Sexton previously served as House Republican Caucus Chairman for the first half of the 111th General Assembly.
 As Caucus Chairman, Rep.
@@ -21,3 +20,4 @@ Rep.
 Sexton is actively involved in his community and in civic organizations.
 He has served as a board member on the Friends of Cumberland Mountain State Park and the Good Samaritan Society.
 He is also a member of the Crossville Noon Rotary Club, serves on the Relay for Life Committee, and is active in the Fairfield Glade Lions Club.
+Home About Issues On the Road News Volunteer Contact Donate Paid for by Cameron Sexton for State Representative Mark Elmore, Treasurer Privacy Policy

@@ -1,44 +1,294 @@
 [
-"https://congress.gov/bill/117th-congress/house-bill/1230?q=%7B%22search%22%3A%5B%22Garamendi%22%5D%7D&s=3&r=1",
-"https://congress.gov/bill/117th-congress/house-bill/5560/text?r=1&s=1",
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/congressman-garamendi-announces-re-election-campaign-californias-8th-congressional-district",
-"https://garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act",
-"https://garamendi.org/news/garamendi-introduces-special-immigrant-visas-afghan-fulbright-scholars-act",
-"https://garamendi.org/news/garamendi-keynotes-lori-wilson-assembly-kick-rally",
-"https://garamendi.org/news/garamendi-meets-pinole-city-council-discuss-federal-funding-opportunities",
-"https://garamendi.org/news/garamendi-secures-critical-funding-re-open-schools-distribute-vaccines-support-testing",
-"https://garamendi.org/news/garamendi-votes-pass-bipartisan-infrastructure-and-jobs-act",
-"https://garamendi.org/news/house-passes-garamendi-bill-expand-delta-national-heritage-area-rio-vista",
-"https://garamendi.org/news/port-benicia",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=1",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=2",
-"https://garamendi.org/news?page=3",
-"https://garamendi.org/news?page=4",
-"https://garamendi.org/news?page=5",
-"https://garamendi.org/news?page=6",
-"https://garamendi.org/news?page=7",
-"https://garamendi.org/news?page=8",
-"https://garamendi.org/news?page=9",
-"https://twitter.com/JohnGaramendi",
-"https://urldefense.com/v3/__https:/www.congress.gov/bill/117th-congress/house-bill/5482__",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Congressman Garamendi Announces Re-Election Campaign for California’s 8th Congressional District",
+"href": "https://www.garamendi.org/news/congressman-garamendi-announces-re-election-campaign-californias-8th-congressional-district"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 6",
+"href": "https://www.garamendi.org/news?page=5"
+},
+{
+"text": "December 20, 2021",
+"href": "https://www.garamendi.org/news/congressman-garamendi-announces-re-election-campaign-californias-8th-congressional-district"
+},
+{
+"text": "December 20, 2021",
+"href": "https://www.garamendi.org/news/garamendi-votes-pass-bipartisan-infrastructure-and-jobs-act"
+},
+{
+"text": "December 22, 2021",
+"href": "https://www.garamendi.org/news/garamendi-keynotes-lori-wilson-assembly-kick-rally"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Garamendi Introduces Military Support for Fighting Wildfires Act",
+"href": "https://www.garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act"
+},
+{
+"text": "Garamendi Introduces Special Immigrant Visas for Afghan Fulbright Scholars Act",
+"href": "https://www.garamendi.org/news/garamendi-introduces-special-immigrant-visas-afghan-fulbright-scholars-act"
+},
+{
+"text": "Garamendi Keynotes Lori Wilson for Assembly Kick-off Rally",
+"href": "https://www.garamendi.org/news/garamendi-keynotes-lori-wilson-assembly-kick-rally"
+},
+{
+"text": "Garamendi Secures Critical Funding to Re-Open Schools, Distribute Vaccines, Support Testing Programs, Extend Unemployment Benefits, and Send $1,400 Stimulus Checks to Americans",
+"href": "https://www.garamendi.org/news/garamendi-secures-critical-funding-re-open-schools-distribute-vaccines-support-testing"
+},
+{
+"text": "Garamendi Votes to Pass the Bipartisan “Infrastructure and Jobs Act”",
+"href": "https://www.garamendi.org/news/garamendi-votes-pass-bipartisan-infrastructure-and-jobs-act"
+},
+{
+"text": "Garamendi meets with Pinole City Council to discuss federal funding opportunities",
+"href": "https://www.garamendi.org/news/garamendi-meets-pinole-city-council-discuss-federal-funding-opportunities"
+},
+{
+"text": "H.R. 1230",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/1230?q=%7B%22search%22%3A%5B%22Garamendi%22%5D%7D&s=3&r=1"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "House Passes Garamendi Bill to Expand Delta National Heritage Area for Rio Vista",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-bill-expand-delta-national-heritage-area-rio-vista"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "January 4, 2022",
+"href": "https://www.garamendi.org/news/garamendi-meets-pinole-city-council-discuss-federal-funding-opportunities"
+},
+{
+"text": "January 4, 2022",
+"href": "https://www.garamendi.org/news/port-benicia"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "March 2, 2021",
+"href": "https://www.garamendi.org/news/garamendi-secures-critical-funding-re-open-schools-distribute-vaccines-support-testing"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "Military Support for Fighting Wildfires Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5560/text?r=1&s=1"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "November 2, 2021",
+"href": "https://www.garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act"
+},
+{
+"text": "November 2, 2021",
+"href": "https://www.garamendi.org/news/garamendi-introduces-special-immigrant-visas-afghan-fulbright-scholars-act"
+},
+{
+"text": "Page 10",
+"href": "https://www.garamendi.org/news?page=9"
+},
+{
+"text": "Page 2",
+"href": "https://www.garamendi.org/news?page=1"
+},
+{
+"text": "Page 3",
+"href": "https://www.garamendi.org/news?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.garamendi.org/news?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 7",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "Port of Benicia",
+"href": "https://www.garamendi.org/news/port-benicia"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/congressman-garamendi-announces-re-election-campaign-californias-8th-congressional-district"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-introduces-special-immigrant-visas-afghan-fulbright-scholars-act"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-keynotes-lori-wilson-assembly-kick-rally"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-meets-pinole-city-council-discuss-federal-funding-opportunities"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-secures-critical-funding-re-open-schools-distribute-vaccines-support-testing"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-votes-pass-bipartisan-infrastructure-and-jobs-act"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-bill-expand-delta-national-heritage-area-rio-vista"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/port-benicia"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "September 7, 2021",
+"href": "https://www.garamendi.org/news/house-passes-garamendi-bill-expand-delta-national-heritage-area-rio-vista"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Special Immigrant Visas for Afghan Fulbright Scholars Act",
+"href": "https://urldefense.com/v3/__https:/www.congress.gov/bill/117th-congress/house-bill/5482__;!!Bg5easoyC-OII2vlEqY8mTBrtW-N4OJKAQ!chZ439kh-6gaYGZMsLEXkGjs1nZ1YM7MUZWgsdp4MwyxdMKf_UXS5yjCN0fepnhjaXAN9mu-%24"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

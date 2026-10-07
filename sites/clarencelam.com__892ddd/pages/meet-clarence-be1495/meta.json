@@ -1,7 +1,9 @@
 {
- "description": "Clarence Lam is running for Congress to represent Maryland's 3rd District\u2014we need elected officials with a genuine passion for improving the lives of those they represent.",
+ "description": "Clarence Lam is running for Congress to represent Maryland's 3rd District—we need elected officials with a genuine passion for improving the lives of those they represent.",
  "final_url": "https://www.clarencelam.com/meet-clarence/",
- "paid_for_by": null,
+ "fingerprint": "726afa3f67357c6c432fce6e1e15efd2530b7ec7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Clarence - Dr. Clarence Lam for Congress",
  "years_mentioned": [
   "2014",
@@ -12,6 +14,8 @@
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2031",
+  "2045"
  ]
 }

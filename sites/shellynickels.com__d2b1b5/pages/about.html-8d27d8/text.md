@@ -1,5 +1,5 @@
-Meet Shelly
-A life rooted in care, service, and accountability.
+Skip to content SN Dr.
+Shelly Nickels Texas House District 122 Home Meet Shelly Priorities Vote Updates Get Involved Contact Donate Meet Shelly A life rooted in care, service, and accountability.
 Shelly is a physician, mother, wife, and dedicated member of the San Antonio community.
 Dr.
 Shelly Nickels has built her career around listening, solving difficult problems, and helping people through some of the most important moments of their lives.
@@ -14,5 +14,7 @@ She later earned a master's degree in health care administration through Trinity
 She has chaired hospital committees, served on the medical executive committee for Methodist Hospital, and worked through the COVID-19 pandemic at one of the area's dedicated COVID hospitals, helping save lives while supporting patients, families, and colleagues.
 Shelly loves the arts, travel, game nights with friends, and life with her family and two bulldogs, Potato and Tot.
 Her compassion, work ethic, and commitment to humane treatment have led her to run for the Texas House.
-Compassion is how we make government work for people.
+Explore Shelly's Priorities Volunteer Compassion is how we make government work for people.
 Shelly will bring the discipline of medicine and the values of her community to every decision in Austin.
+Dr.
+Shelly Nickels Democratic candidate for Texas House District 122 in Northwest San Antonio and Bexar County. [email protected] Meet Shelly Priorities Vote in 2026 Campaign Updates Get Involved Loteria Fundraiser Contact Facebook Instagram X Political Ad paid for by Shelly Nickels for TX HD-122

@@ -1,12 +1,50 @@
 [
-"https://facebook.com/JohnforNM",
-"https://johnfornm.com/",
-"https://johnfornm.com/MeetJohn",
-"https://johnfornm.com/endorsements",
-"https://johnfornm.com/issues",
-"https://johnfornm.com/meetjohn",
-"https://johnfornm.com/privacy-policy",
-"https://johnfornm.com/terms-and-conditions",
-"https://secure.winred.com/johnblock/2026-main",
-"https://x.com/RepBlock"
+{
+"text": "About",
+"href": "https://johnfornm.com/MeetJohn/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/johnblock/2026-main"
+},
+{
+"text": "Endorsements",
+"href": "https://johnfornm.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/JohnforNM/"
+},
+{
+"text": "Issues",
+"href": "https://johnfornm.com/issues/"
+},
+{
+"text": "Meet John",
+"href": "https://johnfornm.com/meetjohn/"
+},
+{
+"text": "Privacy Policies",
+"href": "https://johnfornm.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://johnfornm.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://johnfornm.com/terms-and-conditions/"
+},
+{
+"text": "YOUR VOICE AT THE ROUNDHOUSE",
+"href": "https://x.com/RepBlock"
+},
+{
+"text": "[image: John Block for New Mexico]",
+"href": "https://johnfornm.com/"
+},
+{
+"text": "info@johnfornm.com",
+"href": "mailto:info@johnfornm.com"
+}
 ]

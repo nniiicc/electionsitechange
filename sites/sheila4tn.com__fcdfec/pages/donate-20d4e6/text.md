@@ -1,4 +1,4 @@
-Let’s show them what REAL Appalachians can do, and what a true grassroots campaign looks like.
+0 Skip to Content About Issues Volunteer Contact Donate Donate Open Menu Close Menu About Issues Volunteer Contact Donate Donate Open Menu Close Menu About Issues Volunteer Contact Donate Donate Let’s show them what REAL Appalachians can do, and what a true grassroots campaign looks like.
 This campaign isn’t powered by big corporations or special interests.
 It’s powered by the people of District 11 and the communities that raised me.
 I made a promise when I started this race: I will never take money from corporate PACs.
@@ -12,5 +12,4 @@ WE CAN WIN THIS!
 But I can’t do it alone.
 If you believe in what we’re building together, I’d be grateful for your support.
 And remember, no contribution is too small.
-Every dollar helps us reach another voter and keep this movement growing.
--Sheila
+Every dollar helps us reach another voter and keep this movement growing. -Sheila Donate About Issues Volunteer Contact Donate Paid for by: The Committee to Elect Sheila Mcmahan, Treasurer: Sheila Mcmahan

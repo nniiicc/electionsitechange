@@ -1,21 +1,22 @@
-Friends for Jeff Spiegelman, Perhaps I spoke too soon about spring.
-Sorry about that. -Thank you to everyone who came out to my Meet and Greet at the Young Bean and at 3 Palms Petting Zoo’s Easter Egg Hunt. -This week I also had a meeting of the Joint Sunset Committee, the Interstate Juvenile Committee, […]
-Month: March 2015
-First Grilled Pork of the Season- Two Consituent Meetings This Week- March 22 Update
-Friends for Jeff Spiegelman, Finally.
+Donate Home Contact Us About Jeff Donate Working for YOU!
+11th Rep.
+District Map Log-in Month: March 2015 Thai Rice Cake Soup- March 29 Update Friends for Jeff Spiegelman, Perhaps I spoke too soon about spring.
+Sorry about that. -Thank you to everyone who came out to my Meet and Greet at the Young Bean and at 3 Palms Petting Zoo’s Easter Egg Hunt. -This week I also had a meeting of the Joint Sunset Committee, the Interstate Juvenile Committee, […] Sunday, March 29th, 2015 | Leave a comment Read more › First Grilled Pork of the Season- Two Consituent Meetings This Week- March 22 Update Friends for Jeff Spiegelman, Finally.
 Spring! -A huge thank you to the Smyrna Clayton JBM/SHS Alumni Association.
 On Saturday night, they honored several local leaders and Smyrna graduates.
-It was a real pleasure to be among them. -Please join me Tuesday morning for coffee with constituents at the Young Bean in Clayton from 8-9 a.m. […]
-Barbacoa- March 15th Update
-Friends for Jeff Spiegelman, What a busy, busy week.
-This week we are back in session and we have a lot of work to do….. -Monday night was a weekly meeting of the 11th District GOP, Tuesday night was the monthly meeting of the Kenton Ruritan, Wednesday and Thursday night I had Joint Sunset Committee […]
-2 Free Meetings this Week- Herb Salmon- March 8 Update
-Friends for Jeff Spiegelman, Thank you to everyone who caught my whoops in last week’s email update.
+It was a real pleasure to be among them. -Please join me Tuesday morning for coffee with constituents at the Young Bean in Clayton from 8-9 a.m. […] Sunday, March 22nd, 2015 | Leave a comment Read more › Barbacoa- March 15th Update Friends for Jeff Spiegelman, What a busy, busy week.
+This week we are back in session and we have a lot of work to do….. -Monday night was a weekly meeting of the 11th District GOP, Tuesday night was the monthly meeting of the Kenton Ruritan, Wednesday and Thursday night I had Joint Sunset Committee […] Sunday, March 15th, 2015 | Leave a comment Read more › 2 Free Meetings this Week- Herb Salmon- March 8 Update Friends for Jeff Spiegelman, Thank you to everyone who caught my whoops in last week’s email update.
 We are, indeed, springing forward today. -The first and second weeks of the month are always the busiest.
 Monday, for Read Across America, I was at Clayton Intermediate to read to the 6th graders of Mrs.
-Campbell’s class. […]
-Easy Ceviche- Wine this Friday- March 1 Update
-Friends for Jeff Spiegelman, Don’t let the cold get you down!
+Campbell’s class. […] Sunday, March 8th, 2015 | Leave a comment Read more › Easy Ceviche- Wine this Friday- March 1 Update Friends for Jeff Spiegelman, Don’t let the cold get you down!
 Come out to Harvest Ridge Winery and join me on Friday for a glass of wine and some conversation about some hot topics in Delaware politics. -We had a great week in the 11th District.
 Tuesday was breakfast at Providence Creek Academy.
-On Wednesday, […]
+On Wednesday, […] Sunday, March 1st, 2015 | Leave a comment Read more › Working For You!
+Donate If you wish to donate to Jeff Spiegelman's campaign, please visit the site below.
+Thank you for your support! --- Click here to visit the donation site --- Archives < 2015 2026 2022 2021 2020 2019 2018 2017 2016 2015 2014 ▼ > Jan 10 Posts Feb 3 Posts Mar 0 Posts Apr 0 Posts May 0 Posts Jun 0 Posts Jul 7 Posts Aug 4 Posts Sep 8 Posts Oct 2 Posts Nov 0 Posts Dec 0 Posts Jan 2 Posts Feb 0 Posts Mar 0 Posts Apr 0 Posts May 0 Posts Jun 0 Posts Jul 0 Posts Aug 0 Posts Sep 0 Posts Oct 0 Posts Nov 0 Posts Dec 0 Posts Jan 4 Posts Feb 1 Post Mar 2 Posts Apr 2 Posts May 2 Posts Jun 2 Posts Jul 0 Posts Aug 0 Posts Sep 0 Posts Oct 0 Posts Nov 0 Posts Dec 0 Posts Jan 4 Posts Feb 3 Posts Mar 3 Posts Apr 1 Post May 1 Post Jun 0 Posts Jul 4 Posts Aug 2 Posts Sep 0 Posts Oct 1 Post Nov 3 Posts Dec 1 Post Jan 3 Posts Feb 3 Posts Mar 3 Posts Apr 3 Posts May 2 Posts Jun 3 Posts Jul 2 Posts Aug 2 Posts Sep 2 Posts Oct 3 Posts Nov 2 Posts Dec 2 Posts Jan 4 Posts Feb 4 Posts Mar 3 Posts Apr 4 Posts May 3 Posts Jun 3 Posts Jul 3 Posts Aug 4 Posts Sep 3 Posts Oct 2 Posts Nov 4 Posts Dec 2 Posts Jan 4 Posts Feb 4 Posts Mar 3 Posts Apr 5 Posts May 3 Posts Jun 3 Posts Jul 3 Posts Aug 4 Posts Sep 2 Posts Oct 4 Posts Nov 2 Posts Dec 2 Posts Jan 4 Posts Feb 3 Posts Mar 3 Posts Apr 3 Posts May 4 Posts Jun 3 Posts Jul 3 Posts Aug 4 Posts Sep 3 Posts Oct 4 Posts Nov 3 Posts Dec 3 Posts Jan 4 Posts Feb 4 Posts Mar 5 Posts Apr 2 Posts May 4 Posts Jun 3 Posts Jul 3 Posts Aug 5 Posts Sep 3 Posts Oct 4 Posts Nov 3 Posts Dec 3 Posts Jan 0 Posts Feb 0 Posts Mar 0 Posts Apr 0 Posts May 0 Posts Jun 1 Post Jul 24 Posts Aug 3 Posts Sep 5 Posts Oct 5 Posts Nov 6 Posts Dec 3 Posts Like us on Facebook!
+Jeff Spiegelman for Delaware State Representative #ago Have a trunk and looking for something to do on Halloween?!Reserve your spot by calling Past Chief Gosch! 🚒🚙🚔 Don’t have a trunk but have kiddos that like to trick or treat!?
+Come see us for some candy! 🍬🍭🎃 ...
+See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Home Contact Us About Jeff Donate Working for YOU!
+11th Rep.
+District Map Log-in Copyright © # Friends for Jeff Spiegelman.
+All Rights Reserved.

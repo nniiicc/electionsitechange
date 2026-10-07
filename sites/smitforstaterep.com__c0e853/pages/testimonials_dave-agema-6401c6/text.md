@@ -1,5 +1,3 @@
-Endorsed by Dave Agema
-“Rachelle Smit is a woman of principle, honesty and integrity that will not bend to the whims of the swamp in Lansing.”
-Dave Agema is a former State Representative and former Republican National Committeeman
-- Home /
-- Testimonials / Endorsed by Dave Agema
+Home Meet Rachelle Priorities Endorsements Press Merch Get Involved District Map Yard Signs Contact Endorsed by Dave Agema Home / Testimonials / Endorsed by Dave Agema Endorsed by Dave Agema Former State Representative and former Republican National Committeeman “ Rachelle Smit is a woman of principle, honesty and integrity that will not bend to the whims of the swamp in Lansing.” Dave Agema is a former State Representative and former Republican National Committeeman Elect Rachelle Smit – 43rd District P.O.
+Box 124, Shelbyville, Michigan 49344 | Phone: | E-mail: rachelle@smitforstaterep.com Paid for by the Committee to Elect Rachelle Smit for State Representative Copyright © # Committee to Elect Rachelle Smit for State Representative.
+All Rights Reserved.

@@ -1,10 +1,42 @@
 [
-"https://facebook.com/FowlerForOK",
-"https://fowlerforok.com/",
-"https://fowlerforok.com/issues",
-"https://fowlerforok.com/meet-chris",
-"https://instagram.com/fowlerforok",
-"https://okvoterportal.okelections.gov/",
-"https://secure.actblue.com/donate/christopher-fowler-1",
-"https://tinyurl.com/fowlerforok-volunteer"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/christopher-fowler-1"
+},
+{
+"text": "FREE Yardsign",
+"href": "https://tinyurl.com/fowlerforok-volunteer"
+},
+{
+"text": "Home",
+"href": "https://fowlerforok.com/"
+},
+{
+"text": "Issues",
+"href": "https://fowlerforok.com/issues"
+},
+{
+"text": "Meet Chris",
+"href": "https://fowlerforok.com/meet-chris"
+},
+{
+"text": "October 9th is the deadline to update your Voter Registration! Check yours now →",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "Register / Vote",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://tinyurl.com/fowlerforok-volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FowlerForOK"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fowlerforok/"
+}
 ]

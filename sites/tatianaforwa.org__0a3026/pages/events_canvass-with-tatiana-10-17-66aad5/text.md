@@ -1,10 +1,3 @@
-Paid for by Tatiana for Washington (D)
-PO Box 27113 • Seattle, WA 98165
-(206) 412-1535 • hello@tatianaforwa.org
-Previous
-Previous
-October 15
-Canvass with Tatiana in the Central District!
-Next
-Next
-October 18
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Back to All Events Get Out The Vote! - Ballot Drop Canvass Saturday, October 17, 2026 11:00 AM 3:00 PM Google Calendar ICS Source: https://www.mobilize.us/dashboard/tatianaforwa/timeslot/6544883/ Previous Previous October 15 Canvass with Tatiana in the Central District!
+Next Next October 18 Canvass with Tatiana in North Beacon Hill & Central Beacon Hill!
+Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

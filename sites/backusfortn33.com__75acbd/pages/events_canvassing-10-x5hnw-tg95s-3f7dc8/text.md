@@ -1,14 +1,5 @@
-Back to All Events
-Thursday Canvassing for Backus
-Thursday, September 19th, 2024 5:45 PM - 7:00 PM ET
-First Presbyterian Church Parking Lot, 1051 Oak Ridge Tpke, Oak Ridge, TN 37830
-Let's help Anne Backus beat Rick Scarbrough as TN District 33 State House Representative!
+0 Skip to Content ISSUES GALLERY EVENTS REQUEST A YARD SIGN HOW TO GET INVOLVED Donate Open Menu Close Menu ISSUES GALLERY EVENTS REQUEST A YARD SIGN HOW TO GET INVOLVED Donate Open Menu Close Menu ISSUES GALLERY EVENTS REQUEST A YARD SIGN HOW TO GET INVOLVED Donate Back to All Events Canvassing-Every Thursday Thursday, September 19, 2024 5:45 PM Thursday, November 7, 2024 7:00 PM Google Calendar ICS Thursday Canvassing for Backus Thursday, September 19th, 2024 5:45 PM - 7:00 PM ET First Presbyterian Church Parking Lot, 1051 Oak Ridge Tpke, Oak Ridge, TN 37830 Let's help Anne Backus beat Rick Scarbrough as TN District 33 State House Representative!
 Meet at the First Presbyterian Church, Parking Lot, Oak Ridge, starting at 5:45 pm, every Thursday from September 19th-through November.
 Wear your sturdy walking shoes and a hat!
-Previous
-Previous
-August 17
-Canvassing-Every Saturday
-Next
-Next
-July 11
+Sign Up Previous Previous August 17 Canvassing-Every Saturday Next Next July 11 CANVASS WITH THE BACKUSFORTN33 TEAM Donate Contact Paid for by the Backus for TN33.
+Treasurer, David Mullins.

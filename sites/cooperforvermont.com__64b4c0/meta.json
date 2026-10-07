@@ -1,7 +1,9 @@
 {
  "description": "Cooper for Vermont is Jonathan Cooper's campaign for State Representative from Pownal, focusing on rural economic development.",
  "final_url": "https://www.cooperforvermont.com/",
- "paid_for_by": null,
+ "fingerprint": "eddd33e5fcf337c092291fa33f913bb0aa349668",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Cooper for Vermont | State Representative from Pownal",
  "years_mentioned": [
   "2016"

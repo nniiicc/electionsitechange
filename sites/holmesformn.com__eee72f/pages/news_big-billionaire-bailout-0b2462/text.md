@@ -1,5 +1,4 @@
-The Big Billionaire Bailout
-This so-called “Big Beautiful Bill” is nothing more than a handout to billionaires—forcing working-class families and our most vulnerable neighbors to sacrifice so the ultra-wealthy can get even richer.
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact The Big Billionaire Bailout Jul 3 Written By Heather Holmes This so-called “Big Beautiful Bill” is nothing more than a handout to billionaires—forcing working-class families and our most vulnerable neighbors to sacrifice so the ultra-wealthy can get even richer.
 It’s cruel, and it does nothing to help make America great.
 I believe in fiscal responsibility and balancing a budget, but that should start with making sure the wealthiest pay their fair share—not by pulling the rug out from under seniors, veterans, and people living with disabilities.
 I grew up in the Midwest and was taught that we take care of each other.
@@ -21,3 +20,6 @@ Do something kind for a neighbor.
 Because when our communities come together, we can build something better—something that works for all of us.
 And we will.
 Starting Monday.
+Heather Holmes Previous Previous I’m Running to Represent District 24A — Join Me!
+Next Next United in Grief, Stronger in Purpose Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

@@ -1,8 +1,42 @@
 [
-"https://facebook.com/alexanderforstaterep",
-"https://greg-alexander.com/",
-"https://greg-alexander.com/Priorities",
-"https://greg-alexander.com/about",
-"https://greg-alexander.com/priorities",
-"https://secure.anedot.com/alexander-for-state-rep/donate"
+{
+"text": "About",
+"href": "https://greg-alexander.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://greg-alexander.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alexander-for-state-rep/donate"
+},
+{
+"text": "Follow Greg on Facebook!",
+"href": "https://www.facebook.com/alexanderforstaterep"
+},
+{
+"text": "Home",
+"href": "https://greg-alexander.com/"
+},
+{
+"text": "Info@Greg-Alexander.com",
+"href": "mailto:info@greg-alexander.com"
+},
+{
+"text": "More Information",
+"href": "https://greg-alexander.com/Priorities"
+},
+{
+"text": "Priorities",
+"href": "https://greg-alexander.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://greg-alexander.com/about"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/alexanderforstaterep"
+}
 ]

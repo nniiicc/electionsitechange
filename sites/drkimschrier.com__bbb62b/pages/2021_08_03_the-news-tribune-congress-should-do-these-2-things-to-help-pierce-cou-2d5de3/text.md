@@ -1,6 +1,5 @@
-August 3, 2021 – By US Rep.
-Kim Schrier
-People rightly expect some basic services from our government: good public schools, improved infrastructure and public safety.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer The News Tribune: [Op-ed] Congress should do these 2 things to help Pierce County with safe, transparent police work August 3, 2021 – By US Rep.
+Kim Schrier People rightly expect some basic services from our government: good public schools, improved infrastructure and public safety.
 That last one includes law enforcement.
 We all deserve to feel safe in our communities.
 Unfortunately, when it comes to policing, our national discourse has devolved into three-word bumper sticker phrases that do nothing to make our communities safer.
@@ -9,8 +8,7 @@ My response continues to be: absolutely not.
 I do not believe in defunding the police, and have never supported efforts to do so.
 I have spent time the past year riding with local officers to hear their perspectives on how to keep our communities safe and build trust with communities of color.
 If more people would pause to listen, we could make policing work better for everyone.
-There are two pragmatic measures highlighted by officers in our conversations, and also widely supported by the public, that would improve safety as well as accountability
-The first is broad adoption of body-worn cameras.
+There are two pragmatic measures highlighted by officers in our conversations, and also widely supported by the public, that would improve safety as well as accountability The first is broad adoption of body-worn cameras.
 The second is using expertise from mental health professionals where appropriate.
 Body-worn cameras increase accountability and transparency.
 They offer law enforcement the comfort of knowing footage can be used to show how they handled a situation and why.
@@ -29,3 +27,5 @@ Outfitting departments with body-worn cameras and including mental health profes
 Rep.
 Kim Schrier represents Washington’s 8th Congressional District, which includes parts of East Pierce County.
 The Democrat is serving her second two-year term.
+Share Tweet « Previous Post Next Post » About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

@@ -1,21 +1,78 @@
 [
-"https://facebook.com/BenBumgarnerforTexasRepHD63",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/repbenbumgarner",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/ben-bumgarner-for-texas-state-representative/donate",
-"https://votebumgarner.com/",
-"https://votebumgarner.com/bens-backyard-bbq",
-"https://votebumgarner.com/bill-tracker",
-"https://votebumgarner.com/calendar",
-"https://votebumgarner.com/election-information",
-"https://votebumgarner.com/endorsements",
-"https://votebumgarner.com/get-involved",
-"https://votebumgarner.com/meet-ben",
-"https://votebumgarner.com/yard-sign-request",
-"https://votetexas.gov/register-to-vote/update-voter-registration.html",
-"https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist63/m1.pdf",
-"https://wrm.capitol.texas.gov/home",
-"https://x.com/Bumgarner4HD63"
+{
+"text": "Ben's Backyard BBQ",
+"href": "https://votebumgarner.com/bens-backyard-bbq"
+},
+{
+"text": "Bill Tracker",
+"href": "https://votebumgarner.com/bill-tracker"
+},
+{
+"text": "Calendar",
+"href": "https://votebumgarner.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ben-bumgarner-for-texas-state-representative/donate"
+},
+{
+"text": "Election Information",
+"href": "https://votebumgarner.com/election-information"
+},
+{
+"text": "Endorsements",
+"href": "https://votebumgarner.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://votebumgarner.com/get-involved"
+},
+{
+"text": "HD-63 Map",
+"href": "https://wrm.capitol.texas.gov/fyiwebdocs/PDF/house/dist63/m1.pdf"
+},
+{
+"text": "Home",
+"href": "https://votebumgarner.com/"
+},
+{
+"text": "Meet Ben",
+"href": "https://votebumgarner.com/meet-ben"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.votetexas.gov/register-to-vote/update-voter-registration.html"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Who Represents Me?",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://votebumgarner.com/yard-sign-request"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BenBumgarnerforTexasRepHD63/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repbenbumgarner/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Bumgarner4HD63"
+}
 ]

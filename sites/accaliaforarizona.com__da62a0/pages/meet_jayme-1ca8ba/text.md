@@ -1,5 +1,4 @@
-Meet Jayme
-Jayme Accalia is a native Arizonan, educator, community advocate, and graduate of Arizona State University with a degree in Sustainable Food Systems.
+Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Meet Jayme Jayme Accalia is a native Arizonan, educator, community advocate, and graduate of Arizona State University with a degree in Sustainable Food Systems.
 She is currently pursuing graduate studies focused on food systems, agriculture, and public policy.
 Jayme has spent much of her career working in retail, food service, education, and community-centered programs, giving her firsthand experience with the challenges many Arizona families face every day.
 Her background in both workforce education and community engagement has shaped her belief that strong schools, stable jobs, affordable healthcare, and connected communities are the foundation of a healthy society.
@@ -11,3 +10,5 @@ She and her wife are raising three children in Arizona and understand firsthand 
 Those experiences are a major reason why she decided to run for office.
 Jayme believes Arizona deserves leadership focused on practical solutions, strong communities, public accountability, and improving everyday quality of life for working families — not political theater or division.
 Her platform focuses on affordability, public education, healthcare access, workforce development, sustainable growth, water security, and rebuilding stronger community connections across Arizona.
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

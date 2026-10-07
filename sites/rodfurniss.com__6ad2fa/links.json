@@ -1,21 +1,86 @@
 [
-"http://eepurl.com/ijIoij",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx",
-"https://facebook.com/voterodfurniss?__xts__%5B0%5D=68.ARC2mpGTf4ASgcMU6PapYNa1vifM3OAF6FNcB2mwtKQkBXj6yJgKF8sqidgQXoXfW2V6aCkzOHw3ILq-58rGtiY2NyS2GXi4MA_fGnOFFi0jg9hs1ocVs5DL3vZu-_hIbwprjOPJhF3Jxy-R_CAT39FamRRfgZxA0VMh7LUsuiamy7-t0UsKGpL-13SSJRZat3JZySvYpgjjhmpX2FFIO3UmWMQh06ZhSmVz0g8W_9CXOq4CjWS8kdIOm6zSZLTe4i43-E8u0DlAAwaPJSvbECIoR0GSMaMzI9Dz3y1euXYvVNTyzUmroLlheTu4n5zKt4oQpoQfdOIEg-6S-f0ob4x-7w",
-"https://rodfurniss.com/",
-"https://rodfurniss.com/about",
-"https://rodfurniss.com/contact",
-"https://rodfurniss.com/donate",
-"https://rodfurniss.com/how-to-vote",
-"https://rodfurniss.com/volunteer",
-"https://rodfurniss.com/wp-content/uploads/2018/01/capitol-1.svg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/10001.jpg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/11.jpg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/14.jpg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/3.jpg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/4.jpg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/5.jpg",
-"https://rodfurniss.com/wp-content/uploads/2024/01/home-slider.png",
-"https://rodfurniss.com/wp-content/uploads/2024/04/2024_Friend_of_Ag-Rod_Furniss_449504731716128.jpg.jpeg",
-"https://twitter.com/RodFurniss1"
+{
+"text": "About",
+"href": "https://rodfurniss.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://rodfurniss.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://rodfurniss.com/donate/"
+},
+{
+"text": "Find my voting location",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+},
+{
+"text": "Home",
+"href": "https://rodfurniss.com/"
+},
+{
+"text": "How To Vote",
+"href": "https://rodfurniss.com/how-to-vote/"
+},
+{
+"text": "Join Now!",
+"href": "https://rodfurniss.com/volunteer/"
+},
+{
+"text": "Stay Updated",
+"href": "http://eepurl.com/ijIoij"
+},
+{
+"text": "Volunteer",
+"href": "https://rodfurniss.com/volunteer/"
+},
+{
+"text": "[image: Rod Furniss]",
+"href": "https://rodfurniss.com/"
+},
+{
+"text": "[image: Rod Furniss]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/home-slider.png"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2018/01/capitol-1.svg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/10001.jpg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/11.jpg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/14.jpg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/01/5.jpg"
+},
+{
+"text": "[image]",
+"href": "https://rodfurniss.com/wp-content/uploads/2024/04/2024_Friend_of_Ag-Rod_Furniss_449504731716128.jpg.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RodFurniss1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voterodfurniss/?__xts__%5B0%5D=68.ARC2mpGTf4ASgcMU6PapYNa1vifM3OAF6FNcB2mwtKQkBXj6yJgKF8sqidgQXoXfW2V6aCkzOHw3ILq-58rGtiY2NyS2GXi4MA_fGnOFFi0jg9hs1ocVs5DL3vZu-_hIbwprjOPJhF3Jxy-R_CAT39FamRRfgZxA0VMh7LUsuiamy7-t0UsKGpL-13SSJRZat3JZySvYpgjjhmpX2FFIO3UmWMQh06ZhSmVz0g8W_9CXOq4CjWS8kdIOm6zSZLTe4i43-E8u0DlAAwaPJSvbECIoR0GSMaMzI9Dz3y1euXYvVNTyzUmroLlheTu4n5zKt4oQpoQfdOIEg-6S-f0ob4x-7w"
+}
 ]

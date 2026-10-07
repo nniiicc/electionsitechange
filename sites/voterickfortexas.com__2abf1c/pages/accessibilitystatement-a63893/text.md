@@ -1,18 +1,12 @@
-Accessibility Statement
-Rick Martinez for Texas House District 125 is committed to ensuring this website is accessible to all individuals, including people with disabilities.
+top of page RICK MARTINEZ FOR TEXAS HOUSE • DISTRICT 125 DONATE About Our Priorities Endorsements Community Impact Get Involved Contact Accessibility Statement Rick Martinez for Texas House District 125 is committed to ensuring this website is accessible to all individuals, including people with disabilities.
 We strive to provide a user experience that is inclusive and accessible for everyone.
-Our Commitment
-We are actively working to improve the accessibility and usability of this website and aim to follow generally recognized accessibility standards, including the Web Content Accessibility Guidelines (WCAG), where reasonably possible.
-Accessibility Features
-This website is designed to support accessibility features such as:
-- Clear navigation and readable text
-- Compatibility with commonly used screen readers and assistive technologies
-- Alternative text for images where applicable
-- Keyboard navigation support
-Ongoing Improvements
-Accessibility is an ongoing effort.
-We regularly review our website to identify and address potential accessibility barriers as technology, standards, and content evolve.
-Need Assistance?
+Our Commitment We are actively working to improve the accessibility and usability of this website and aim to follow generally recognized accessibility standards, including the Web Content Accessibility Guidelines (WCAG), where reasonably possible.
+Accessibility Features This website is designed to support accessibility features such as: Clear navigation and readable text Compatibility with commonly used screen readers and assistive technologies Alternative text for images where applicable Keyboard navigation support Ongoing Improvements Accessibility is an ongoing effort.
+We regularly review our website to identify and address potential accessibility barriers as technology, standards, and content evolve. ​ Need Assistance?
 If you experience difficulty accessing any part of this website or need assistance with content or functionality, we encourage you to contact the campaign.
 We will make reasonable efforts to provide the information you need in an accessible format.
 Please reach out through the website’s contact form.
+RICK MARTINEZ FOR TEXAS HOUSE • DISTRICT 125 7117 Bandera Rd.
+San Antonio Texas 78238 210-900-0818 rickmartinez4sa125@gmail.com Stay Connected Email * Yes, subscribe me to your newsletter.
+Submit © COPYRIGHT # | POL.
+AD PAID FOR BY RICK MARTINEZ CAMPAIGN Privacy Policy | Accessibility Statement bottom of page

@@ -1,17 +1,8 @@
-Immigration and Community Resources
-Supporting our neighbors and defending our democracy
-I support our immigrant neighbors and vehemently condemn the violations of our constitutional and human rights by ICE and the federal administration.
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Immigration and Community Resources Supporting our neighbors and defending our democracy I support our immigrant neighbors and vehemently condemn the violations of our constitutional and human rights by ICE and the federal administration.
 Defending our democracy means protecting the rights of every person who calls this state home.
 The links below include community resources for supporting our immigrant neighbors and defending our democracy.
-Ramsey County
-City of Shoreview
-https://www.shoreviewmn.gov/Our-city/News/Statement-on-recent-ICE-activities
-City of New Brighton
-https://www.newbrightonmn.gov/m/newsflash/home/detail/136
-City of Mounds View
-https://www.moundsviewmn.org/news_detail_T6_R251.php
-City of Arden Hills
-https://www.cityofardenhills.org/1248/Immigration-Resources
-City of St.
-Paul
-https://www.stpaul.gov/departments/city-attorney/immigration-resources
+Ramsey County https://www.ramseycountymn.gov/your-government/open-government/ramsey-county-response-federal-actions City of Shoreview https://www.shoreviewmn.gov/Our-city/News/Statement-on-recent-ICE-activities City of New Brighton https://www.newbrightonmn.gov/m/newsflash/home/detail/136 City of Mounds View https://www.moundsviewmn.org/news_detail_T6_R251.php City of Arden Hills https://www.cityofardenhills.org/1248/Immigration-Resources City of St.
+Paul https://www.stpaul.gov/departments/city-attorney/immigration-resources Constitutional Observer Trainings https://dfl.org/observers/ Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

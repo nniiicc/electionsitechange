@@ -1,10 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.fordforhouse.com/about",
+ "fingerprint": "6a6990b9f98cabd83ca58b60ef85188ad37f4b9e",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Ross Ford 2026",
- "title": "About \u2014 Ross Ford",
+ "title": "About — Ross Ford",
  "years_mentioned": [
+  "2007",
   "2010",
-  "2015"
+  "2015",
+  "2026"
  ]
 }

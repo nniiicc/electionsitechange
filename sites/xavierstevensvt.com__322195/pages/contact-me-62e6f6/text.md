@@ -1,6 +1,3 @@
-Contact Me
-Please do not hesitate to contact me with any questions or concerns.
-Xavier@XavierStevensVT.com
-(802) 234-8631
-PO Box 42, 59 Coventry St
-Newport, VT 05855
+0 Skip to Content Contact Me About Me Platform Our Community Endorsements Events Support Us Open Menu Close Menu Contact Me About Me Platform Our Community Endorsements Events Support Us Open Menu Close Menu Contact Me About Me Platform Our Community Endorsements Events Support Us Contact Me Please do not hesitate to contact me with any questions or concerns.
+Xavier@XavierStevensVT.com ‪ (802) 234-8631 PO Box 42, 59 Coventry St Newport, VT 05855 Our Work About Me Goals Our Community Follow Reddit Facebook Xavier Stevens for Representative P.O.
+Box 42 59 Coventry St, Newport, VT 05855 1‪(802) 234-8631‬

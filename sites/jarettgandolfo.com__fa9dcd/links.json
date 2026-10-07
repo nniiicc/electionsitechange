@@ -1,14 +1,58 @@
 [
-"https://facebook.com/gandolfoforny",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/gandolfoforny",
-"https://jarettgandolfo.com/contact-1",
-"https://jarettgandolfo.com/home",
-"https://jarettgandolfo.com/lawn-sign",
-"https://jarettgandolfo.com/meet-jarett-1",
-"https://jarettgandolfo.com/privacy-policy-1",
-"https://secure.anedot.com/gandolfo-for-new-york/donate",
-"https://secure.anedot.com/gandolfo-for-ny/donate",
-"https://secure.anedot.com/gandolfo-for-ny/sd8",
-"https://x.com/GandolfoForNY"
+{
+"text": "CONTACT",
+"href": "https://jarettgandolfo.com/contact-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/gandolfo-for-new-york/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/gandolfo-for-ny/donate"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/gandolfo-for-ny/sd8"
+},
+{
+"text": "Follow me on Instagram",
+"href": "https://www.instagram.com/gandolfoforny"
+},
+{
+"text": "HOME",
+"href": "https://jarettgandolfo.com/home"
+},
+{
+"text": "LAWN SIGN",
+"href": "https://jarettgandolfo.com/lawn-sign"
+},
+{
+"text": "MEET JARETT",
+"href": "https://jarettgandolfo.com/meet-jarett-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://jarettgandolfo.com/privacy-policy-1"
+},
+{
+"text": "[image: Gandolfo for New York]",
+"href": "https://jarettgandolfo.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gandolfoforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gandolfoforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/GandolfoForNY"
+}
 ]

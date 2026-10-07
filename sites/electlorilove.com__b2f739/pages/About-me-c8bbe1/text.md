@@ -1,4 +1,4 @@
-A little bit about Lori...
+Home About me Events Contact me Contribute Election Information A little bit about Lori...
 Lori met her current husband Arvil Love in Las Vegas while visiting there with a friend.
 After a brief getting to know you period they have been married for 48 years.
 They have one son, (Jeffrey) who currently resides in Delft, Netherlands.
@@ -15,4 +15,5 @@ The actions of the former representative in this seat bring to mind a lack of et
 The super majority continues to pass legislation that they know is unconstitutional.
 They no longer care about the citizens in Tennessee.
 It is time to bring back ‘for the people’ to Tennessee.
-That means ALL the people!”
+That means ALL the people!” Elect Lori Love Please make checks payable to: Elect Lori Love Mail contributions to: P.O.
+Box 502 Blountville, TN 37617 Phone: 423-367-7627 E-mail: ElectLoriLove@gmail.com Paid for by Candidate

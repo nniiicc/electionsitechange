@@ -1,7 +1,12 @@
 {
- "description": "The outspoken state representative on what\u2019s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.",
+ "description": "The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.",
  "final_url": "https://russellholmes.com/the-interview-state-representative-russell-holmes/",
- "paid_for_by": null,
+ "fingerprint": "82892d2d91b4ae1d001c7afdd690a6d499941ccb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Interview: State Representative Russell Holmes | Vote Russell Holmes",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024"
+ ]
 }

@@ -1,5 +1,4 @@
-United Airlines Begins New Service From Chattanooga Airport To Newark
-Chattanooga Airport and United Airlines will celebrate the launch of new nonstop service from Chattanooga (CHA) to Newark Liberty International Airport (EWR) with an inaugural flight, marking another direct connection between Chattanooga and United’s Newark global hub.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE United Airlines Begins New Service From Chattanooga Airport To Newark Jan 7 Written By Waterhouse PR Chattanooga Airport and United Airlines will celebrate the launch of new nonstop service from Chattanooga (CHA) to Newark Liberty International Airport (EWR) with an inaugural flight, marking another direct connection between Chattanooga and United’s Newark global hub.
 The inaugural flight will be on Wednesday.
-Those in attendance a† the event will be:
-- State Senator Bo Watson
+Those in attendance a† the event will be: State Senator Bo Watson READ THE FULL ARTICLE Waterhouse PR Previous Previous New Direct Flight from Chattanooga to Denver Launched by United Airlines Next Next New Tennessee noncitizen driver’s licenses begin Jan.
+1 Bo for Tennessee About Priorities Media Contact

@@ -1,35 +1,23 @@
-The Latest News from Sally:
-The Sausage Factory – Sine Die Style Laws and sausages, you should never watch either one being made. — Otto von Bismarck The Republican Sausage Factory Kicks Into Overdrive Driving to the Capitol this week, I felt like I was headed to a Republican bill-making factory.
-Fortunately most of the bills were harmless, but occasionally […]
-The Closing Act Setting the Scene: Long Days and Lots of Bills As the curtain opened on legislative days 36, 37 and 38, legislators deliberated bills in Committees until midnight, sending a regular flow of House bills to the Senate floor.
-As Senators came to the well to give quick bill summaries, I started documenting […]
-“Life moves pretty fast.
-If you don’t stop and look around every once in a while, you could miss it.” — Ferris Bueller Follow the Leader Medicaid Expansion and Hospital “CON” Reform Instead of using hospital regulatory reform (Certificate of Need, aka CON) as a bargaining chip for Medicaid Expansion as North Carolina did, Georgia […]
-Screeching to a Halt The State Budget Slows Down the Senate The Senate Majority Leader set the pace for the week Monday morning when he announced that the House was late in sending the FY25 budget to the Senate.
-He also said that since the Senate was ahead of the House in passing their bills, […]
-Crossover Week Georgia’s Crossover Hurricane Downgraded to a Tropical Depression At the Georgia Capitol, there are two words that elicit both the excitement of parties and food alongside the dread of long working hours and mischief — Crossover and Sine Die.
-Crossover Day: A “crossover” deadline is the last day for a bill to pass […]
-Bills Are Flying Well, some bills are flying.
+Facebook Twitter Mail About Sally 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements Priorities Healthcare Education Transportation Environment Criminal Justice & Police Reform Other Issues Voter Info Events Newsletters Contact DONATE Menu Menu The Latest News from Sally: Sally’s Senate Snapshot 2024 #12 — Sine Die!
+News The Sausage Factory – Sine Die Style Laws and sausages, you should never watch either one being made. — Otto von Bismarck The Republican Sausage Factory Kicks Into Overdrive Driving to the Capitol this week, I felt like I was headed to a Republican bill-making factory.
+Fortunately most of the bills were harmless, but occasionally […] March 30, 2024 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2024/03/paper-toss.webp 954 1272 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2024-03-30 21:59:54 2024-03-30 22:00:06 Sally’s Senate Snapshot 2024 #12 — Sine Die!
+Sally’s Senate Snapshot 2024 #11 News The Closing Act Setting the Scene: Long Days and Lots of Bills As the curtain opened on legislative days 36, 37 and 38, legislators deliberated bills in Committees until midnight, sending a regular flow of House bills to the Senate floor.
+As Senators came to the well to give quick bill summaries, I started documenting […] March 24, 2024 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2024/03/cow.webp 954 1272 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2024-03-24 21:57:39 2024-03-30 21:57:52 Sally’s Senate Snapshot 2024 #11 Sally’s Senate Snapshot 2024 #10 News “Life moves pretty fast.
+If you don’t stop and look around every once in a while, you could miss it.” — Ferris Bueller Follow the Leader Medicaid Expansion and Hospital “CON” Reform Instead of using hospital regulatory reform (Certificate of Need, aka CON) as a bargaining chip for Medicaid Expansion as North Carolina did, Georgia […] March 17, 2024 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2024/03/donkey.jpg 2107 2156 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2024-03-17 21:55:27 2024-03-30 21:55:51 Sally’s Senate Snapshot 2024 #10 Sally’s Senate Snapshot 2024 #9 News Screeching to a Halt The State Budget Slows Down the Senate The Senate Majority Leader set the pace for the week Monday morning when he announced that the House was late in sending the FY25 budget to the Senate.
+He also said that since the Senate was ahead of the House in passing their bills, […] March 10, 2024 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2024/03/dekalb-day-scaled.jpg 1707 2560 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2024-03-10 16:59:03 2024-03-10 16:59:03 Sally’s Senate Snapshot 2024 #9 Sally’s Senate Snapshot 2024 #8 News Crossover Week Georgia’s Crossover Hurricane Downgraded to a Tropical Depression At the Georgia Capitol, there are two words that elicit both the excitement of parties and food alongside the dread of long working hours and mischief — Crossover and Sine Die.
+Crossover Day: A “crossover” deadline is the last day for a bill to pass […] March 3, 2024 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2024/03/SallySonya-scaled.jpeg 1708 2560 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2024-03-03 21:05:59 2024-03-03 21:05:59 Sally’s Senate Snapshot 2024 #8 Sally’s Senate Snapshot 2024 #7 News Bills Are Flying Well, some bills are flying.
 Number of Republican Bills on Senate Floor: 69 Number of Democratic Bills on Senate Floor: 0 Crossover Day is this Thursday, the deadline by which bills have to pass one chamber to get to the other.
-Under pressure to make this do or die deadline, legislators were seen running […]
-Stay in Touch
-Sign up to receive Sally’s newsletter in your inbox!
+Under pressure to make this do or die deadline, legislators were seen running […] February 25, 2024 / by Sally Harrell https://sallyharrell.org/wp-content/uploads/2024/02/unnamed.png 1800 1440 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2024-02-25 15:39:16 2024-02-25 15:39:16 Sally’s Senate Snapshot 2024 #7 Page 5 of 31 « ‹ 3 4 5 6 7 › » Stay in Touch Sign up to receive Sally’s newsletter in your inbox!
 “I appreciate your emails more than I anticipated.
-They are informative while being upbeat.”
-“I appreciate your updates and have read all of them.
-Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.”
-“Your emails are so informative I suspect you have reawakened an interest in government by your constituents.”
-“Senator, thoroughly enjoy your missives — informative, insightful and timely.”
-“Again, I have to say that you write extraordinarily wonderful newsletters.
+They are informative while being upbeat.” Carol WOODSTOCK, GA “I appreciate your updates and have read all of them.
+Thanks to you I feel I know more about what’s going on in the Georgia legislature than I’ve ever known before.” Nancy DUNWOODY, GA “Your emails are so informative I suspect you have reawakened an interest in government by your constituents.” Rich DUNWOODY, GA “Senator, thoroughly enjoy your missives — informative, insightful and timely.” Gee Gee ATLANTA “Again, I have to say that you write extraordinarily wonderful newsletters.
 I have to read them from beginning to end so I don’t miss a sentence where you nail the truth so well.
-You have a great sense of humor which is so important in today’s world.”
-“I enjoy your newsletters so much.
-They always have all the information I really need to have.”
-“Sally, your communication is spectacular!”
-“I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
-They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.”
-Support Sally’s Campaign
-Your contribution will help us reach more voters.
-Sally’s campaign is fueled by volunteer enthusiasm and energy.
+You have a great sense of humor which is so important in today’s world.” Sara DEKALB COUNTY “I enjoy your newsletters so much.
+They always have all the information I really need to have.” Lisa STONE MOUNTAIN “Sally, your communication is spectacular!” Mary AVONDALE ESTATES “I want you to know just how much I truly, truly, truly appreciate these electronic updates from you.
+They are filled with quality information and clearly convey the amount of effort you are expounding on the behalf of all Georgians.” Karen BUFORD Support Sally’s Campaign Your contribution will help us reach more voters.
+DONATE Sally’s campaign is fueled by volunteer enthusiasm and energy.
 Join us!
-Show your support for Sally, request a yard sign!
+VOLUNTEER Show your support for Sally, request a yard sign!
+YARD SIGN © # Paid for by The Committee to Elect Sally Harrell.
+Designed by Benton Creative .
+Facebook Twitter Mail Scroll to top

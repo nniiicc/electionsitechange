@@ -1,30 +1,158 @@
 [
-"https://bucyfortexas.com/",
-"https://bucyfortexas.com/about",
-"https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap",
-"https://bucyfortexas.com/community-advisory-boards",
-"https://bucyfortexas.com/constituent-resources",
-"https://bucyfortexas.com/get-involved",
-"https://bucyfortexas.com/news",
-"https://bucyfortexas.com/priorities-2",
-"https://bucyfortexas.com/priorities/criminal-justice-reform",
-"https://bucyfortexas.com/priorities/education",
-"https://bucyfortexas.com/priorities/environmental-protection",
-"https://bucyfortexas.com/priorities/gun-violence-prevention",
-"https://bucyfortexas.com/priorities/healthcare",
-"https://bucyfortexas.com/priorities/lgbtq-equality",
-"https://bucyfortexas.com/priorities/local-control",
-"https://bucyfortexas.com/priorities/property-taxes",
-"https://bucyfortexas.com/priorities/voting",
-"https://bucyfortexas.com/privacy",
-"https://bucyfortexas.com/vote",
-"https://docs.google.com/forms/d/e/1FAIpQLSfpqzWVWhyXXgN4gXoSBcTHYro984kK12fo0S1eBKT3-k3RBA/viewform",
-"https://facebook.com/BucyForTexas",
-"https://instagram.com/bucyfortexas",
-"https://secure.actblue.com/donate/john-bucy",
-"https://techforcampaigns.org/",
-"https://tspb.texas.gov/plan/access/access.html",
-"https://tspb.texas.gov/plan/parking/parking.html",
-"https://tspb.texas.gov/plan/tours/tours.html",
-"https://twitter.com/BucyForTexas"
+{
+"text": "512-463-0696",
+"href": "tel:512-463-0696"
+},
+{
+"text": "Accessibility Information",
+"href": "https://tspb.texas.gov/plan/access/access.html"
+},
+{
+"text": "Bucy Bulletin – Session Recap",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "Capitol Tours",
+"href": "https://tspb.texas.gov/plan/tours/tours.html"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-bucy"
+},
+{
+"text": "Education",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "Environmental Protection",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BucyForTexas/"
+},
+{
+"text": "For Constituents",
+"href": "https://bucyfortexas.com/constituent-resources/"
+},
+{
+"text": "Get Involved",
+"href": "https://bucyfortexas.com/get-involved/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Healthcare",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "How to Vote",
+"href": "https://bucyfortexas.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bucyfortexas/"
+},
+{
+"text": "LGBTQ+ Equality",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Learn more",
+"href": "https://bucyfortexas.com/community-advisory-boards/"
+},
+{
+"text": "Learn more",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfpqzWVWhyXXgN4gXoSBcTHYro984kK12fo0S1eBKT3-k3RBA/viewform"
+},
+{
+"text": "Local Control",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "Meet John",
+"href": "https://bucyfortexas.com/about/"
+},
+{
+"text": "News",
+"href": "https://bucyfortexas.com/news/"
+},
+{
+"text": "Parking & Transit Info",
+"href": "https://tspb.texas.gov/plan/parking/parking.html"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/priorities-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bucyfortexas.com/privacy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Re-Elect John Bucy III",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Voting Rights",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/BucyForTexas"
+},
+{
+"text": "[image: Re-Elect John Bucy III]",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "[no text]",
+"href": "https://tspb.texas.gov/plan/access/access.html"
+},
+{
+"text": "[no text]",
+"href": "https://tspb.texas.gov/plan/parking/parking.html"
+},
+{
+"text": "[no text]",
+"href": "https://tspb.texas.gov/plan/tours/tours.html"
+},
+{
+"text": "allison.heinrich@house.texas.gov",
+"href": "mailto:allison.heinrich@house.texas.gov"
+},
+{
+"text": "district136.bucy@house.texas.gov",
+"href": "mailto:district136.bucy@house.texas.gov"
+},
+{
+"text": "johnbucy@bucyfortexas.com",
+"href": "mailto:johnbucy@bucyfortexas.com"
+},
+{
+"text": "kyle.burke@house.texas.gov",
+"href": "mailto:kyle.burke@house.texas.gov"
+}
 ]

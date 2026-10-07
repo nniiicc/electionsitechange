@@ -1,19 +1,19 @@
-Transparency & Records
-Rules, acts, and maps
-The office files the Arkansas Administrative Code and publishes the Arkansas Register.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Transparency & Records, overview.
+The Office / Transparency & Records Understanding the Office Transparency & Records Besides elections and business filings, the Secretary of State is the filing office for a set of statewide public records.
+People use those records to check rules, city boundaries, precinct lines, and ethics reports.
+Back to The Office Rules, acts, and maps The office files the Arkansas Administrative Code and publishes the Arkansas Register.
 State agencies also file administrative rules here, and the office hosts a public-meeting calendar for agencies.
 The Elections Division library keeps the journals and acts of the Legislature, along with incorporations and annexations of cities and towns.
 The office publishes state precinct maps and files municipal boundary changes and related local documents assigned by law.
-Ethics filings and official acts
-Candidates and public officials file financial-interest and related ethics forms through a portal this office hosts.
+Ethics filings and official acts Candidates and public officials file financial-interest and related ethics forms through a portal this office hosts.
 The public can search those filings here.
 The Arkansas Ethics Commission remains the ethics regulator.
 The Secretary of State attests official acts and affixes the state seal to commissions and other official acts of the Governor.
 The office also files facsimile signature certificates.
 Oaths of office, official acts of the Governor, and other state records assigned by statute are filed or maintained here.
-What this page is not
-County clerks, circuit clerks, and other agencies keep many local records this office does not hold.
+What this page is not County clerks, circuit clerks, and other agencies keep many local records this office does not hold.
 A Freedom of Information Act request still goes to the public body that owns the record.
 This office’s job is the record series the law assigns to the Secretary of State.
-Next step
-Why it matters & what Kelly brings
+Next step Why it matters & what Kelly brings Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

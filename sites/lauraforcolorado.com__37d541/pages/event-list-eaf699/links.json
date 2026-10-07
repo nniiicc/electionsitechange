@@ -1,12 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61589793123217",
-"https://lauraforcolorado.com/",
-"https://lauraforcolorado.com/about",
-"https://lauraforcolorado.com/event-details/movie-and-discussion-series",
-"https://lauraforcolorado.com/event-details/scoops-in-the-park-with-state-rep-candidate-laura-martin",
-"https://lauraforcolorado.com/event-details/southeast-economic-lift-up",
-"https://lauraforcolorado.com/event-list",
-"https://lauraforcolorado.com/privacy-policy",
-"https://lauraforcolorado.com/values",
-"https://secure.anedot.com/laura4hd17-cbe72bb5-0915-45bc-958c-21fbab12192e/support"
+{
+"text": "ABOUT",
+"href": "https://www.lauraforcolorado.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.lauraforcolorado.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/laura4hd17-cbe72bb5-0915-45bc-958c-21fbab12192e/support"
+},
+{
+"text": "Details",
+"href": "https://www.lauraforcolorado.com/event-details/movie-and-discussion-series"
+},
+{
+"text": "Details",
+"href": "https://www.lauraforcolorado.com/event-details/scoops-in-the-park-with-state-rep-candidate-laura-martin"
+},
+{
+"text": "Details",
+"href": "https://www.lauraforcolorado.com/event-details/southeast-economic-lift-up"
+},
+{
+"text": "EVENTS",
+"href": "https://www.lauraforcolorado.com/event-list"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61589793123217"
+},
+{
+"text": "HOME",
+"href": "https://www.lauraforcolorado.com"
+},
+{
+"text": "Movie and Discussion Series",
+"href": "https://www.lauraforcolorado.com/event-details/movie-and-discussion-series"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauraforcolorado.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauraforcolorado.com/privacy-policy"
+},
+{
+"text": "Scoops in the Park with State Rep Candidate, Laura Martin",
+"href": "https://www.lauraforcolorado.com/event-details/scoops-in-the-park-with-state-rep-candidate-laura-martin"
+},
+{
+"text": "Southeast Economic Lift Up",
+"href": "https://www.lauraforcolorado.com/event-details/southeast-economic-lift-up"
+},
+{
+"text": "VALUES",
+"href": "https://www.lauraforcolorado.com/values"
+},
+{
+"text": "[no text]",
+"href": "https://www.lauraforcolorado.com/event-list"
+},
+{
+"text": "© # All Rights Reserved.",
+"href": "https://www.lauraforcolorado.com"
+}
 ]

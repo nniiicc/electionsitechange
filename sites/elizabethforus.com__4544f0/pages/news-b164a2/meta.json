@@ -1,7 +1,9 @@
 {
  "description": "Elizabeth Kirtley in the News",
  "final_url": "https://www.elizabethforus.com/news",
- "paid_for_by": null,
+ "fingerprint": "16dc2a39afad7b25a609ec21c7a49963e6fedb24",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

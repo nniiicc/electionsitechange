@@ -1,106 +1,418 @@
 [
-"http://facebook.com/garyclickforohio",
-"http://instagram.com/gary_click",
-"http://link.ohiohouse.gov/c/7/eyJhaSI6MzQyMTkwODUsImUiOiJiZW5qYW1pbmRuZXR0bGVzQGdtYWlsLmNvbSIsInJpIjoiY29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCIsInJxIjoiMDItYjI0MDEyLWNmYTNkZDU1M2Q5ODRmYmZiMjQ3OWU0MTZlYzY5YjU1IiwicGgiOm51bGwsIm0iOmZhbHNlLCJ1aSI6IjIiLCJ1biI6IiIsInUiOiJodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9vaGlvLWhvdXNlLW92ZXJyaWRlcy1kZXdpbmVzLXZldG8tb2YtYmlsbC1iYW5uaW5nLWNoaWxkLWdlbmRlci1tZWRpY2FsaXphdGlvbi8_X2NsZGVlPUpqLXp4aUxKOTkyT0ZuM1lFTHlJODVrTlJMR2VDT0NZMzhqQlZNVVRqejg1N3ZRUjNWQWdWdzYwQVBzcUszUUMmcmVjaXBpZW50aWQ9Y29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCZlc2lkPTVjN2RkMGEyLTg5YjEtZWUxMS04MTQ4LTAwNTA1NmFhNTVmOCJ9/x4vIwA79I1kGSQbXTsQMRQ",
-"http://link.ohiohouse.gov/c/7/eyJhaSI6MzQyMTkwODUsImUiOiJiZW5qYW1pbmRuZXR0bGVzQGdtYWlsLmNvbSIsInJpIjoiY29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCIsInJxIjoiMDItYjI0MDEyLWNmYTNkZDU1M2Q5ODRmYmZiMjQ3OWU0MTZlYzY5YjU1IiwicGgiOm51bGwsIm0iOmZhbHNlLCJ1aSI6IjMiLCJ1biI6IiIsInUiOiJodHRwczovL3d3dy5kYWlseXdpcmUuY29tL25ld3Mvb2hpby1ob3VzZS12b3Rlcy10by1vdmVycmlkZS1nb3AtZ292ZXJub3JzLXZldG8tb24tYmFubmluZy1nZW5kZXItcHJvY2VkdXJlcy1vbi1jaGlsZHJlbi1iaW9sb2dpY2FsLWJveXMtY29tcGV0aW5nLWluLWdpcmxzLXNwb3J0cz9fY2xkZWU9SmotenhpTEo5OTJPRm4zWUVMeUk4NWtOUkxHZUNPQ1kzOGpCVk1VVGp6ODU3dlFSM1ZBZ1Z3NjBBUHNxSzNRQyZyZWNpcGllbnRpZD1jb250YWN0LTE0N2M1ZDY4M2YyZGVlMTE4MTNlMDA1MDU2YWE1NWY4LWZiYzE4YzI1MWFlYTQ0NmI4Zjg2OWE1NjZkMjkyZTQwJmVzaWQ9NWM3ZGQwYTItODliMS1lZTExLTgxNDgtMDA1MDU2YWE1NWY4In0/IrQn25F2eXJ54BeYxTb4Rg",
-"http://link.ohiohouse.gov/c/7/eyJhaSI6MzQyMTkwODUsImUiOiJiZW5qYW1pbmRuZXR0bGVzQGdtYWlsLmNvbSIsInJpIjoiY29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCIsInJxIjoiMDItYjI0MDEyLWNmYTNkZDU1M2Q5ODRmYmZiMjQ3OWU0MTZlYzY5YjU1IiwicGgiOm51bGwsIm0iOmZhbHNlLCJ1aSI6IjQiLCJ1biI6IiIsInUiOiJodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uYmMtb3V0L291dC1wb2xpdGljcy1hbmQtcG9saWN5L29oaW8taG91c2Utb3ZlcnJpZGVzLWdvdmVybm9ycy12ZXRvLXRyYW5zLWNhcmUtYmFuLXJlc3RyaWN0aW9uLWF0aGxldGUtcmNuYTEzMzM0NT9fY2xkZWU9SmotenhpTEo5OTJPRm4zWUVMeUk4NWtOUkxHZUNPQ1kzOGpCVk1VVGp6ODU3dlFSM1ZBZ1Z3NjBBUHNxSzNRQyZyZWNpcGllbnRpZD1jb250YWN0LTE0N2M1ZDY4M2YyZGVlMTE4MTNlMDA1MDU2YWE1NWY4LWZiYzE4YzI1MWFlYTQ0NmI4Zjg2OWE1NjZkMjkyZTQwJmVzaWQ9NWM3ZGQwYTItODliMS1lZTExLTgxNDgtMDA1MDU2YWE1NWY4In0/jQ6UOl94XTFtrH0Fbna9aQ",
-"http://ohiochannel.org/video/ohio-house-energy-and-natural-resources-committee-11-19-2019-part-2?start=394",
-"http://ohiohouse.gov/committee/energy-and-natural-resources",
-"http://sanduskyregister.com/story/201704080022",
-"http://sanduskyregister.com/story/201908090038",
-"http://sanduskyregister.com/story/202001130025",
-"http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_h_energy_1/testimony/cmte_h_energy_1_2019-11-19-1100_1068/testimony_garyclick_noorg_11.19.2019.pdf",
-"http://twitter.com/clickforohio",
-"https://advertiser-tribune.com/news/245307/click-wins-ohio-house-race",
-"https://advertiser-tribune.com/news/local-news/2020/01/click-plans-meet-greet",
-"https://campaignpartner.com/",
-"https://charlottein2020.com/",
-"https://cnn.com/2018/08/04/politics/ohio-pastor-invocation-donald-trump-rally/index.html",
-"https://cnn.com/videos/politics/2018/08/05/ohio-pastor-prays-for-lion-trump-rally-jungle-journalism-bts-vpx.cnn",
-"https://daily-jeff.com/article/20180813/NEWS/308139809",
-"https://frontlinesohio.com/index.php/2019/07/26/ohio-evangelicals-praise-lawmakers-for-funding-pro-life-pregnancy-centers-in-two-year-budget",
-"https://garyclick.com/",
-"https://garyclick.com/about_gary",
-"https://garyclick.com/contact",
-"https://garyclick.com/events",
-"https://garyclick.com/home",
-"https://garyclick.com/issues",
-"https://garyclick.com/make-endorsement",
-"https://garyclick.com/mayorsrallyaroundclick",
-"https://garyclick.com/news",
-"https://garyclick.com/news/fredlefebvre120219",
-"https://garyclick.com/news/the-hub-sheriff-hilton-discusses-his-political-endorsments-",
-"https://garyclick.com/news/video-gary-testifies-before-ohio-house-committee-on-energy-and-natural-resourses",
-"https://garyclick.com/news/well-known-republican-enters-race-for-bill-reinekes-88th-district-seat",
-"https://garyclick.com/photos",
-"https://garyclick.com/privacy-policy",
-"https://garyclick.com/trumpdelegates",
-"https://garyclick.com/volunteer",
-"https://garyclick.com/vote",
-"https://legislature.ohio.gov/legislation/135/hb68",
-"https://nbc4i.com/news/politics/ohio-senate-expected-to-vote-on-overriding-gov-dewines-veto-of-trans-athlete-healthcare-bill",
-"https://nbc4i.com/news/politics/will-gov-dewine-sign-ohios-transgender-athlete-healthcare-bill-into-law",
-"https://norwalkreflector.com/news/506105/local-officials-oppose-landfill-expansion",
-"https://ohiogop.org/wp-content/uploads/2020/01/2020-ORP-Primary-Endorsement-List.pdf",
-"https://ohiohouse.gov/legislation/134/hb324/committee",
-"https://ohiohouse.gov/members/gary-click/news/a-person-is-a-person-111041",
-"https://ohiohouse.gov/members/gary-click/news/click-announces-charter-membership-of-ohio-legislative-prayer-caucus-114893",
-"https://ohiohouse.gov/members/gary-click/news/click-announces-house-bill-324-passes-ohio-house-health-committee-108719",
-"https://ohiohouse.gov/members/gary-click/news/click-announces-house-bill-353-passes-ohio-house-higher-education-and-career-readiness-committee-109531",
-"https://ohiohouse.gov/members/gary-click/news/click-announces-house-bill-578-clears-the-ohio-house-110325",
-"https://ohiohouse.gov/members/gary-click/news/click-brings-attention-to-local-school-district-workforce-issues-107851",
-"https://ohiohouse.gov/members/gary-click/news/click-highlights-local-projects-from-state-capital-budget-110282",
-"https://ohiohouse.gov/members/gary-click/news/click-introduces-bipartisan-bill-to-recognize-national-eating-disorders-awareness-week-109060",
-"https://ohiohouse.gov/members/gary-click/news/click-introduces-legislation-to-declare-personhood-from-the-moment-of-conception-111031",
-"https://ohiohouse.gov/members/gary-click/news/click-introduces-save-adolescents-from-experimentation-act-113612",
-"https://ohiohouse.gov/members/gary-click/news/click-issues-statement-on-governor-dewines-veto-of-house-bill-68-117887",
-"https://ohiohouse.gov/members/gary-click/news/click-issues-statement-on-senate-bill-52-106899",
-"https://ohiohouse.gov/members/gary-click/news/click-ohio-house-approve-business-fairness-act-106287",
-"https://ohiohouse.gov/members/gary-click/news/click-ohio-house-approve-constitutional-protection-amendment-114675",
-"https://ohiohouse.gov/members/gary-click/news/click-ohio-house-approve-resolution-honoring-local-public-official-dwight-wise-106332",
-"https://ohiohouse.gov/members/gary-click/news/click-opposes-expansion-of-the-sunny-farms-landfill-111081",
-"https://ohiohouse.gov/members/gary-click/news/click-releases-statement-following-dewine-executive-order-118161",
-"https://ohiohouse.gov/members/gary-click/news/click-releases-statement-on-east-palestine-contaminants-being-disposed-in-sandusky-county-113632",
-"https://ohiohouse.gov/members/gary-click/news/click-releases-statement-on-state-operating-budget-proposal-114485",
-"https://ohiohouse.gov/members/gary-click/news/click-responds-to-aclu-lawsuit-news-118299",
-"https://ohiohouse.gov/members/gary-click/news/click-stands-with-israel-with-vote-on-resolution-showing-support-117111",
-"https://ohiohouse.gov/members/gary-click/news/click-supports-biennium-operating-budget-115772",
-"https://ohiohouse.gov/members/gary-click/news/click-supports-house-budget-bill-106159",
-"https://ohiohouse.gov/members/gary-click/news/click-sworn-in-as-state-representative-for-the-88th-ohio-house-district-104918",
-"https://ohiohouse.gov/members/gary-click/news/click-to-introduce-bill-addressing-public-assistance-benefits-cliffs-107237",
-"https://ohiohouse.gov/members/gary-click/news/clicks-bipartisan-bill-recognizing-eating-disorders-awareness-week-passes-ohio-house-110176",
-"https://ohiohouse.gov/members/gary-click/news/clicks-bipartisan-bill-recognizing-eating-disorders-awareness-week-unanimously-passes-health-committee-110042",
-"https://ohiohouse.gov/members/gary-click/news/clicks-bipartisan-testing-your-faith-act-approved-by-general-assembly-112908",
-"https://ohiohouse.gov/members/gary-click/news/clicks-memorial-highway-legislation-approved-by-general-assembly-112935",
-"https://ohiohouse.gov/members/gary-click/news/clicks-safe-act-supported-in-house-vote-115412",
-"https://ohiohouse.gov/members/gary-click/news/clicks-shirley-and-wilmas-law-passes-ohio-house-109043",
-"https://ohiohouse.gov/members/gary-click/news/guest-column-shirley-and-wilma-lets-honor-their-memory-106513",
-"https://ohiohouse.gov/members/gary-click/news/house-agrees-with-senate-changes-to-safe-act-click-in-favor-118162",
-"https://ohiohouse.gov/members/gary-click/news/house-committee-hears-safe-act-for-first-time-114373",
-"https://ohiohouse.gov/members/gary-click/news/house-overrides-governor-veto-of-house-bill-68-118121",
-"https://ohiohouse.gov/members/gary-click/news/safe-act-passes-out-of-house-committee-115277",
-"https://ohiohouse.gov/members/gary-click/news/swearingen-and-click-announce-passing-of-house-bill-314-107746",
-"https://ohiohouse.gov/members/gary-click/news/testing-your-faith-act-moves-to-ohio-senate-110045",
-"https://ohiohouse.gov/members/gary-click/news/worse-than-roe-117185",
-"https://sanduskyregister.com/news/170055/three-seek-ohio-house-gop-nomination",
-"https://sanduskyregister.com/news/479378/local-womans-911-sacrifice-honored",
-"https://sanduskyregister.com/story/201704080022",
-"https://secure.anedot.com/clickforohio/donate",
-"https://spreaker.com/user/9809225/gary-click-dist-88-candidate",
-"https://theblaze.com/video/pastor-causes-a-stir-after-asking-god-to-protect-trump-from-jungle-journalism",
-"https://thenews-messenger.com/story/life/2018/06/14/cowboy-camp-kids-ride-horses-shoot-bb-guns-and-learn-god/697984002",
-"https://thenews-messenger.com/story/news/2019/09/09/community-roundup-click-resigns-governors-council/2262684001",
-"https://thenews-messenger.com/story/news/2020/02/27/letters-editor-readers-voice-their-support-ohio-candidates/4866072002",
-"https://thenews-messenger.com/story/news/local/2017/04/06/local-pastor-nominated-gop-state-committee/99999488",
-"https://thenews-messenger.com/story/news/local/2017/09/12/local-pastor-joins-mandels-faith-based-team/656706001",
-"https://thenews-messenger.com/story/news/local/2017/09/29/ohioan-leads-effort-include-prayer-wwii-memorial/709328001",
-"https://thenews-messenger.com/story/news/local/2017/10/17/local-courts-state-issues-discussed-political-forum/768709001",
-"https://thenews-messenger.com/story/news/local/2017/11/10/church-honors-veterans-baseball-style-trading-cards/850132001",
-"https://thenews-messenger.com/story/news/local/2018/08/09/pastor-facing-fallout-trump-rally-prayer/940076002",
-"https://thenews-messenger.com/story/news/local/2020/02/25/ohio-primary-house-88th-district-gop-candidates/4667894002",
-"https://thenews-messenger.com/story/news/local/2020/04/28/gary-click-leads-ohio-house-district-88-primary-results-2020/3037040001",
-"https://thenews-messenger.com/story/news/politics/elections/2019/08/12/local-pastor-gary-click-announces-bid-88th-district-house-seat/1984917001",
-"https://thenews-messenger.com/story/opinion/columnists/2023/08/05/click-learn-the-difference-between-a-yes-and-no-vote-on-issue-one/70511851007",
-"https://toledoblade.com/local/politics/2019/11/13/must-see-television-president-donald-trump-impeachment-isnt-required-viewing/stories/20191113181",
-"https://youtube.com/channel/UCOVYLke2x5KjFXaT0SwsNVw"
+{
+"text": "2020 convention",
+"href": "https://www.charlottein2020.com/"
+},
+{
+"text": "About Gary",
+"href": "https://www.garyclick.com/about_gary"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/clickforohio/donate"
+},
+{
+"text": "Church honors veterans with baseball-style trading cards",
+"href": "https://www.thenews-messenger.com/story/news/local/2017/11/10/church-honors-veterans-baseball-style-trading-cards/850132001/"
+},
+{
+"text": "Click Announces Charter Membership of Ohio Legislative Prayer Caucus",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-announces-charter-membership-of-ohio-legislative-prayer-caucus-114893"
+},
+{
+"text": "Click Announces HB 353 Passes Ohio House Higher Education and Career Readiness Committee",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-announces-house-bill-353-passes-ohio-house-higher-education-and-career-readiness-committee-109531"
+},
+{
+"text": "Click Announces HB 578 Clears the Ohio House",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-announces-house-bill-578-clears-the-ohio-house-110325"
+},
+{
+"text": "Click Announces House Bill 324 Passes Ohio House Health Committee",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-announces-house-bill-324-passes-ohio-house-health-committee-108719"
+},
+{
+"text": "Click Announces Naming of Teresa Miller-Martin 9/11 Memorial Highway in Sandusky County",
+"href": "https://sanduskyregister.com/news/479378/local-womans-911-sacrifice-honored/"
+},
+{
+"text": "Click Brings Attention to Local School District Workforce Issues",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-brings-attention-to-local-school-district-workforce-issues-107851"
+},
+{
+"text": "Click Highlights Local Projects from State Capital Budget",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-highlights-local-projects-from-state-capital-budget-110282"
+},
+{
+"text": "Click Introduced Bipartisan Bill to Recognize National Eating Disorders Week",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-introduces-bipartisan-bill-to-recognize-national-eating-disorders-awareness-week-109060"
+},
+{
+"text": "Click Introduces 'Save Adolescents from Experimentation' Act",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-introduces-save-adolescents-from-experimentation-act-113612"
+},
+{
+"text": "Click Introduces Legislation to Declare Personhood from the Moment of Conception",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-introduces-legislation-to-declare-personhood-from-the-moment-of-conception-111031"
+},
+{
+"text": "Click Issues Statement on Governor DeWine's Veto of House Bill 68",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-issues-statement-on-governor-dewines-veto-of-house-bill-68-117887"
+},
+{
+"text": "Click Issues Statement on Senate Bill 52",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-issues-statement-on-senate-bill-52-106899"
+},
+{
+"text": "Click Opposes expansion of the Sunny Farms Landfill",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-opposes-expansion-of-the-sunny-farms-landfill-111081"
+},
+{
+"text": "Click Plans Meet and Greet",
+"href": "https://www.advertiser-tribune.com/news/local-news/2020/01/click-plans-meet-greet/"
+},
+{
+"text": "Click Releases Statement Following DeWine Executive Order",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-releases-statement-following-dewine-executive-order-118161"
+},
+{
+"text": "Click Releases Statement on East Palestine Contaminants Being Disposed in Sandusky County",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-releases-statement-on-east-palestine-contaminants-being-disposed-in-sandusky-county-113632"
+},
+{
+"text": "Click Releases Statement on State Operating Budget Proposal",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-releases-statement-on-state-operating-budget-proposal-114485"
+},
+{
+"text": "Click Resigns from Governor's council",
+"href": "https://www.thenews-messenger.com/story/news/2019/09/09/community-roundup-click-resigns-governors-council/2262684001/"
+},
+{
+"text": "Click Responds to ACLU HB68 Lawsuit News",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-responds-to-aclu-lawsuit-news-118299"
+},
+{
+"text": "Click Stands with Israel with Vote on Resolution Showing Support",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-stands-with-israel-with-vote-on-resolution-showing-support-117111"
+},
+{
+"text": "Click Supports Biennium Operating Budget",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-supports-biennium-operating-budget-115772"
+},
+{
+"text": "Click Supports House Budget Bill",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-supports-house-budget-bill-106159"
+},
+{
+"text": "Click Sworn-In as State Representative for the 88th Ohio House District",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-sworn-in-as-state-representative-for-the-88th-ohio-house-district-104918"
+},
+{
+"text": "Click To Introduce Bill Addressing Public Assistance Benefits Cliffs",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-to-introduce-bill-addressing-public-assistance-benefits-cliffs-107237"
+},
+{
+"text": "Click wins Ohio House race",
+"href": "https://advertiser-tribune.com/news/245307/click-wins-ohio-house-race/"
+},
+{
+"text": "Click's 'Shirley and Wilma's Law' Passes Ohio House",
+"href": "https://ohiohouse.gov/members/gary-click/news/clicks-shirley-and-wilmas-law-passes-ohio-house-109043"
+},
+{
+"text": "Click's Bipartisan 'Testing Your Faith Act' Approved by General Assembly",
+"href": "https://ohiohouse.gov/members/gary-click/news/clicks-bipartisan-testing-your-faith-act-approved-by-general-assembly-112908"
+},
+{
+"text": "Click's Bipartisan Bill Recognizing Eating Disorders Awareness Week Passes Ohio House",
+"href": "https://ohiohouse.gov/members/gary-click/news/clicks-bipartisan-bill-recognizing-eating-disorders-awareness-week-passes-ohio-house-110176"
+},
+{
+"text": "Click's Bipartisan Bill Recognizing Eating Disorders Awareness Week Unanimously Passes Health Committee",
+"href": "https://ohiohouse.gov/members/gary-click/news/clicks-bipartisan-bill-recognizing-eating-disorders-awareness-week-unanimously-passes-health-committee-110042"
+},
+{
+"text": "Click's Memorial Highway Legislation Approved by General Assembly",
+"href": "https://ohiohouse.gov/members/gary-click/news/clicks-memorial-highway-legislation-approved-by-general-assembly-112935"
+},
+{
+"text": "Click's SAFE Act Supported in House Vote",
+"href": "https://ohiohouse.gov/members/gary-click/news/clicks-safe-act-supported-in-house-vote-115412"
+},
+{
+"text": "Click, Ohio House Approve Business Fairness Act",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-ohio-house-approve-business-fairness-act-106287"
+},
+{
+"text": "Click, Ohio House Approve Constitutional Protection Amendment",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-ohio-house-approve-constitutional-protection-amendment-114675"
+},
+{
+"text": "Click, Ohio House Approve Resolution Honoring Local Public Official Dwight Wise",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-ohio-house-approve-resolution-honoring-local-public-official-dwight-wise-106332"
+},
+{
+"text": "Contact",
+"href": "https://www.garyclick.com/contact"
+},
+{
+"text": "Cowboy Camp: God, Guns and Horses",
+"href": "https://www.thenews-messenger.com/story/life/2018/06/14/cowboy-camp-kids-ride-horses-shoot-bb-guns-and-learn-god/697984002/"
+},
+{
+"text": "Daily Wire",
+"href": "http://link.ohiohouse.gov/c/7/eyJhaSI6MzQyMTkwODUsImUiOiJiZW5qYW1pbmRuZXR0bGVzQGdtYWlsLmNvbSIsInJpIjoiY29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCIsInJxIjoiMDItYjI0MDEyLWNmYTNkZDU1M2Q5ODRmYmZiMjQ3OWU0MTZlYzY5YjU1IiwicGgiOm51bGwsIm0iOmZhbHNlLCJ1aSI6IjMiLCJ1biI6IiIsInUiOiJodHRwczovL3d3dy5kYWlseXdpcmUuY29tL25ld3Mvb2hpby1ob3VzZS12b3Rlcy10by1vdmVycmlkZS1nb3AtZ292ZXJub3JzLXZldG8tb24tYmFubmluZy1nZW5kZXItcHJvY2VkdXJlcy1vbi1jaGlsZHJlbi1iaW9sb2dpY2FsLWJveXMtY29tcGV0aW5nLWluLWdpcmxzLXNwb3J0cz9fY2xkZWU9SmotenhpTEo5OTJPRm4zWUVMeUk4NWtOUkxHZUNPQ1kzOGpCVk1VVGp6ODU3dlFSM1ZBZ1Z3NjBBUHNxSzNRQyZyZWNpcGllbnRpZD1jb250YWN0LTE0N2M1ZDY4M2YyZGVlMTE4MTNlMDA1MDU2YWE1NWY4LWZiYzE4YzI1MWFlYTQ0NmI4Zjg2OWE1NjZkMjkyZTQwJmVzaWQ9NWM3ZGQwYTItODliMS1lZTExLTgxNDgtMDA1MDU2YWE1NWY4In0/IrQn25F2eXJ54BeYxTb4Rg"
+},
+{
+"text": "Doc Thompson (The Blaze) adds context to Gary's prayer at the Trump Rally",
+"href": "https://www.theblaze.com/video/pastor-causes-a-stir-after-asking-god-to-protect-trump-from-jungle-journalism"
+},
+{
+"text": "ENDORSE GARY",
+"href": "https://www.garyclick.com/make-endorsement"
+},
+{
+"text": "Events",
+"href": "https://www.garyclick.com/events"
+},
+{
+"text": "Fred LeFebvre introduces Gary to his listeners on 1370 WSPD",
+"href": "https://www.garyclick.com/news/fredlefebvre120219"
+},
+{
+"text": "Fremont Pastor will seek Ohio House seat",
+"href": "http://www.sanduskyregister.com/story/201908090038"
+},
+{
+"text": "Gary Click leads Ohio House District 88 race in Republican primary election results",
+"href": "https://www.thenews-messenger.com/story/news/local/2020/04/28/gary-click-leads-ohio-house-district-88-primary-results-2020/3037040001/"
+},
+{
+"text": "Gov. Mike DeWine’s veto",
+"href": "https://www.nbc4i.com/news/politics/will-gov-dewine-sign-ohios-transgender-athlete-healthcare-bill-into-law/"
+},
+{
+"text": "Guest Column: Shirley and Wilma - Let's Honor Their Memory",
+"href": "https://ohiohouse.gov/members/gary-click/news/guest-column-shirley-and-wilma-lets-honor-their-memory-106513"
+},
+{
+"text": "Home",
+"href": "https://www.garyclick.com/home"
+},
+{
+"text": "House Agrees with Senate Changes to SAFE Act, Click in Favor",
+"href": "https://ohiohouse.gov/members/gary-click/news/house-agrees-with-senate-changes-to-safe-act-click-in-favor-118162"
+},
+{
+"text": "House Bill 324",
+"href": "https://ohiohouse.gov/legislation/134/hb324/committee"
+},
+{
+"text": "House Bill 68",
+"href": "https://www.legislature.ohio.gov/legislation/135/hb68"
+},
+{
+"text": "House Committee Hears SAFE Act for First Time",
+"href": "https://ohiohouse.gov/members/gary-click/news/house-committee-hears-safe-act-for-first-time-114373"
+},
+{
+"text": "House Overrides Governor Veto of House Bill 68",
+"href": "https://ohiohouse.gov/members/gary-click/news/house-overrides-governor-veto-of-house-bill-68-118121"
+},
+{
+"text": "Kids go to Cowboy Camp",
+"href": "https://sanduskyregister.com/story/201704080022"
+},
+{
+"text": "Letter to the Editor: Gary Click is the Man for the Job",
+"href": "https://www.thenews-messenger.com/story/news/2020/02/27/letters-editor-readers-voice-their-support-ohio-candidates/4866072002/"
+},
+{
+"text": "Local Courts, state issues discussed at political forum",
+"href": "https://www.thenews-messenger.com/story/news/local/2017/10/17/local-courts-state-issues-discussed-political-forum/768709001/"
+},
+{
+"text": "Local Pastor nominated for state GOP committee",
+"href": "http://www.sanduskyregister.com/story/201704080022"
+},
+{
+"text": "Local officials oppose landfill expansion",
+"href": "https://norwalkreflector.com/news/506105/local-officials-oppose-landfill-expansion/"
+},
+{
+"text": "Local pastor joins Mandel's faith-based team",
+"href": "https://www.thenews-messenger.com/story/news/local/2017/09/12/local-pastor-joins-mandels-faith-based-team/656706001/"
+},
+{
+"text": "NBC News",
+"href": "http://link.ohiohouse.gov/c/7/eyJhaSI6MzQyMTkwODUsImUiOiJiZW5qYW1pbmRuZXR0bGVzQGdtYWlsLmNvbSIsInJpIjoiY29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCIsInJxIjoiMDItYjI0MDEyLWNmYTNkZDU1M2Q5ODRmYmZiMjQ3OWU0MTZlYzY5YjU1IiwicGgiOm51bGwsIm0iOmZhbHNlLCJ1aSI6IjQiLCJ1biI6IiIsInUiOiJodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uYmMtb3V0L291dC1wb2xpdGljcy1hbmQtcG9saWN5L29oaW8taG91c2Utb3ZlcnJpZGVzLWdvdmVybm9ycy12ZXRvLXRyYW5zLWNhcmUtYmFuLXJlc3RyaWN0aW9uLWF0aGxldGUtcmNuYTEzMzM0NT9fY2xkZWU9SmotenhpTEo5OTJPRm4zWUVMeUk4NWtOUkxHZUNPQ1kzOGpCVk1VVGp6ODU3dlFSM1ZBZ1Z3NjBBUHNxSzNRQyZyZWNpcGllbnRpZD1jb250YWN0LTE0N2M1ZDY4M2YyZGVlMTE4MTNlMDA1MDU2YWE1NWY4LWZiYzE4YzI1MWFlYTQ0NmI4Zjg2OWE1NjZkMjkyZTQwJmVzaWQ9NWM3ZGQwYTItODliMS1lZTExLTgxNDgtMDA1MDU2YWE1NWY4In0/jQ6UOl94XTFtrH0Fbna9aQ"
+},
+{
+"text": "National Review",
+"href": "http://link.ohiohouse.gov/c/7/eyJhaSI6MzQyMTkwODUsImUiOiJiZW5qYW1pbmRuZXR0bGVzQGdtYWlsLmNvbSIsInJpIjoiY29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCIsInJxIjoiMDItYjI0MDEyLWNmYTNkZDU1M2Q5ODRmYmZiMjQ3OWU0MTZlYzY5YjU1IiwicGgiOm51bGwsIm0iOmZhbHNlLCJ1aSI6IjIiLCJ1biI6IiIsInUiOiJodHRwczovL3d3dy5uYXRpb25hbHJldmlldy5jb20vbmV3cy9vaGlvLWhvdXNlLW92ZXJyaWRlcy1kZXdpbmVzLXZldG8tb2YtYmlsbC1iYW5uaW5nLWNoaWxkLWdlbmRlci1tZWRpY2FsaXphdGlvbi8_X2NsZGVlPUpqLXp4aUxKOTkyT0ZuM1lFTHlJODVrTlJMR2VDT0NZMzhqQlZNVVRqejg1N3ZRUjNWQWdWdzYwQVBzcUszUUMmcmVjaXBpZW50aWQ9Y29udGFjdC0xNDdjNWQ2ODNmMmRlZTExODEzZTAwNTA1NmFhNTVmOC1mYmMxOGMyNTFhZWE0NDZiOGY4NjlhNTY2ZDI5MmU0MCZlc2lkPTVjN2RkMGEyLTg5YjEtZWUxMS04MTQ4LTAwNTA1NmFhNTVmOCJ9/x4vIwA79I1kGSQbXTsQMRQ"
+},
+{
+"text": "News",
+"href": "https://www.garyclick.com/news"
+},
+{
+"text": "Ohio Evangelicals praise lawmakers for funding pro life pregnancy centers in two-year budget deal",
+"href": "https://frontlinesohio.com/index.php/2019/07/26/ohio-evangelicals-praise-lawmakers-for-funding-pro-life-pregnancy-centers-in-two-year-budget/"
+},
+{
+"text": "Ohio Pastor criticized for \"Jungle Journalism\" remark in Trump Rally prayer",
+"href": "https://www.daily-jeff.com/article/20180813/NEWS/308139809"
+},
+{
+"text": "Ohio Senate overrides Gov. DeWine’s veto of trans athlete, healthcare bill",
+"href": "https://www.nbc4i.com/news/politics/ohio-senate-expected-to-vote-on-overriding-gov-dewines-veto-of-trans-athlete-healthcare-bill/"
+},
+{
+"text": "Ohioan leads effort to include prayer in WWII Memorial",
+"href": "https://www.thenews-messenger.com/story/news/local/2017/09/29/ohioan-leads-effort-include-prayer-wwii-memorial/709328001/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.garyclick.com/issues"
+},
+{
+"text": "Op-Ed: A Person is a Person",
+"href": "https://ohiohouse.gov/members/gary-click/news/a-person-is-a-person-111041"
+},
+{
+"text": "Op-Ed: Learn the Difference Between a Yes and No Vote on Issue 1",
+"href": "https://www.thenews-messenger.com/story/opinion/columnists/2023/08/05/click-learn-the-difference-between-a-yes-and-no-vote-on-issue-one/70511851007/"
+},
+{
+"text": "Op-Ed: Worse than Roe! To abort or not to abort: that is NOT the question",
+"href": "https://ohiohouse.gov/members/gary-click/news/worse-than-roe-117185"
+},
+{
+"text": "Pastor at Trump Rall asks God to protect president from jungle journalism",
+"href": "https://www.cnn.com/2018/08/04/politics/ohio-pastor-invocation-donald-trump-rally/index.html"
+},
+{
+"text": "Pastor faces good and bad fallout from Trump rally prayer",
+"href": "https://www.thenews-messenger.com/story/news/local/2018/08/09/pastor-facing-fallout-trump-rally-prayer/940076002/"
+},
+{
+"text": "Pastor prays for 'lion-hearted' Donald Trump",
+"href": "https://www.cnn.com/videos/politics/2018/08/05/ohio-pastor-prays-for-lion-trump-rally-jungle-journalism-bts-vpx.cnn"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.garyclick.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "SAFE Act Passes out of House Committee",
+"href": "https://ohiohouse.gov/members/gary-click/news/safe-act-passes-out-of-house-committee-115277"
+},
+{
+"text": "Sandusky Register: State Republican Party Issues Endorsements",
+"href": "http://www.sanduskyregister.com/story/202001130025"
+},
+{
+"text": "Some 88th District Mayors Rally Around Candidate Pastor Gary Click",
+"href": "https://www.garyclick.com/mayorsrallyaroundclick"
+},
+{
+"text": "Swearingen and Click Announce Passing of HB 314",
+"href": "https://ohiohouse.gov/members/gary-click/news/swearingen-and-click-announce-passing-of-house-bill-314-107746"
+},
+{
+"text": "Testing Your Faith Act Moves to Ohio Senate",
+"href": "https://ohiohouse.gov/members/gary-click/news/testing-your-faith-act-moves-to-ohio-senate-110045"
+},
+{
+"text": "The Hub: Sheriff Hilton Discusses His Political Endorsements",
+"href": "https://www.garyclick.com/news/the-hub-sheriff-hilton-discusses-his-political-endorsments-"
+},
+{
+"text": "The Hub: Well Known Republican Enters Race for Bill Reineke’s 88th District Seat",
+"href": "https://www.garyclick.com/news/well-known-republican-enters-race-for-bill-reinekes-88th-district-seat"
+},
+{
+"text": "The News Messenger: Local Pastor Gary Click announces bid for state legislature",
+"href": "https://www.thenews-messenger.com/story/news/politics/elections/2019/08/12/local-pastor-gary-click-announces-bid-88th-district-house-seat/1984917001/"
+},
+{
+"text": "The News Messenger: Local pastor nominated for GOP state committee",
+"href": "https://www.thenews-messenger.com/story/news/local/2017/04/06/local-pastor-nominated-gop-state-committee/99999488/"
+},
+{
+"text": "The News-Messenger: Meet the Candidates",
+"href": "https://www.thenews-messenger.com/story/news/local/2020/02/25/ohio-primary-house-88th-district-gop-candidates/4667894002/"
+},
+{
+"text": "The Ohio Republican Party announces Endorsements",
+"href": "https://ohiogop.org/wp-content/uploads/2020/01/2020-ORP-Primary-Endorsement-List.pdf"
+},
+{
+"text": "The Sandusky Register: Three Seek Ohio House GOP Nomination",
+"href": "https://sanduskyregister.com/news/170055/three-seek-ohio-house-gop-nomination/"
+},
+{
+"text": "The Toledo Blade: Must-see TV? Trump impeachment isn't required viewing",
+"href": "https://www.toledoblade.com/local/politics/2019/11/13/must-see-television-president-donald-trump-impeachment-isnt-required-viewing/stories/20191113181"
+},
+{
+"text": "Trump Campaign Selects Gary Click",
+"href": "https://www.garyclick.com/trumpdelegates"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.garyclick.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.garyclick.com/vote"
+},
+{
+"text": "Video: Gary Testifies before Ohio House Committee on Energy and Natural Resources.",
+"href": "https://www.garyclick.com/news/video-gary-testifies-before-ohio-house-committee-on-energy-and-natural-resourses"
+},
+{
+"text": "[image]",
+"href": "http://www.ohiochannel.org/video/ohio-house-energy-and-natural-resources-committee-11-19-2019-part-2?start=394"
+},
+{
+"text": "[image]",
+"href": "https://www.garyclick.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.spreaker.com/user/9809225/gary-click-dist-88-candidate"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/garyclickforohio"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/gary_click"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/clickforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOVYLke2x5KjFXaT0SwsNVw/"
+},
+{
+"text": "here",
+"href": "http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_h_energy_1/testimony/cmte_h_energy_1_2019-11-19-1100_1068/testimony_garyclick_noorg_11.19.2019.pdf"
+},
+{
+"text": "here",
+"href": "http://www.ohiohouse.gov/committee/energy-and-natural-resources"
+},
+{
+"text": "privacy policy",
+"href": "https://www.garyclick.com/privacy-policy"
+}
 ]

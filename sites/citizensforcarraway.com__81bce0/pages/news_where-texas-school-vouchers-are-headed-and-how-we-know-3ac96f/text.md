@@ -1,5 +1,4 @@
-Where Texas School Vouchers are Headed, and how we know
-There are about 145,000 children on a waiting list in Texas right now.
+0 Skip to Content Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Home Meet Angie Priorities Endorsements Events News Shop Donate Where Texas School Vouchers are Headed, and how we know Education Policy Jun 23 Written By Angie There are about 145,000 children on a waiting list in Texas right now.
 They applied for a voucher.
 They qualified.
 And according to the Comptroller's office, the line they are in has barely moved.
@@ -11,8 +10,7 @@ A waitlist that long is not an embarrassment to the people who built TEFA.
 No, that’s a necessary cover.
 Because its purpose is to use that number has a demand for money next legislative session.
 The scam is coming into picture.
-The Road
-Texas did not invent this program.
+The Road Texas did not invent this program.
 It copied it.
 Arizona launched its vouchers with an estimate of roughly $50 million a year.
 A targeted program, a manageable cost, help for the families who need it most.
@@ -35,8 +33,7 @@ It is how they are built.
 Vouchers grow because demand grows, and demand always grows, because every family already in private school is a future applicant and every dollar added to the award makes the program more attractive to families who never needed it.
 Texas did not repeal any of that.
 It imported all of it.
-The Design
-Two features of TEFA turn the other states from a warning into a blueprint.
+The Design Two features of TEFA turn the other states from a warning into a blueprint.
 The first is that the program never has to justify itself again.
 Most major programs in Texas carry a sunset date.
 It is a built-in deadline that forces lawmakers to look at what a program actually produced and vote, on the record, to keep it or kill it.
@@ -67,6 +64,7 @@ Odyssey's cut is capped at five percent of program spending.
 Five percent of $1 billion is $50 million.
 Five percent of $4.8 billion is $240 million.
 The vendor gets richer the bigger the program grows, and the people who decide how big it grows are the same people Odyssey hired Abbott's friends to lobby.
+Odyssey's Fee Grows With the Program #% of TEFA program spending $#M $#M $#M 2026-27 $1B budget 2028 $3.3B budget 2030 $4.8B budget Sources: #% administrative cap under SB 2; Texas Legislative Budget Board projections.
 And it widens the pipe of public money flowing to private schools that are allowed to turn children away.
 Roughly eight in ten participating schools are religious.
 Roughly a third have written policies that discriminate against LGBTQ+ students.
@@ -80,8 +78,7 @@ Hand the checkbook to the people who built it.
 Then let demand do the rest, while the money runs uphill to a politically wired vendor and to schools the public is forbidden from holding to account.
 Texas did not stumble into this.
 It followed instructions.
-The Waitlist
-By June, more than 102,000 students had been funded.
+The Waitlist By June, more than 102,000 students had been funded.
 About 145,000 were still on the list, and that list has barely moved since spring.
 Here is the part that matters.
 That waitlist is not being treated as proof the program overpromised.
@@ -97,8 +94,7 @@ They’ll continue to take more.
 Everything required to walk Arizona's road is already in place.
 The only thing left is the next vote.
 And that’s why I plan to be in the room at that next vote.
-What I Know
-I have taught middle school in Collin County for fourteen years.
+What I Know I have taught middle school in Collin County for fourteen years.
 I have watched decisions made in Austin land in a classroom in ways the people who made them never bothered to picture.
 I have seen a school lose a position it could not refill.
 A program vanish mid-year because the budget did not hold.
@@ -125,3 +121,8 @@ The first public dollars reach private schools in July.
 The school year starts in August.
 The Legislature returns in 2027 with that waitlist in hand.
 We will be here for all of it.
+Public Education TEFA Texas Education Freedom Accounts Texas school vouchers Angie Previous Previous Public Schools Need More Than Support.
+They Need People to Show Up.
+Next Next BONUS: The Texas Two-Step: What $8.5 Billion Bought Angie Carraway for Texas HD-89 Citizens for Carraway PO Box 322, Allen, TX 75013 contact@citizensforcarraway.com 972-302-9914 Explore Meet Angie Priorities Endorsements News Contact Take Action Donate Volunteer Shop Campaign Gear Register to vote Voting information Political advertising paid for by Citizens for Carraway Contributions or gifts to Citizens for Carraway are not deductible as charitable contributions for Federal income tax purposes.
+Texas law requires political committees to report certain contributor information.
+Privacy Policy · © # Citizens for Carraway

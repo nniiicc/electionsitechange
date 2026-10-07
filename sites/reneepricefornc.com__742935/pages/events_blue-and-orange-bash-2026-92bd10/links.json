@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Blue+and+Orange+Bash+2026&dates=20260808T210000Z%2F20260809T000000Z&location=Hillsborough%2C+NC",
-"http://maps.google.com/?q=+Hillsborough%2C+NC",
-"https://facebook.com/ReneePrice4NC",
-"https://instagram.com/reneeprice4nc",
-"https://reneepricefornc.com/",
-"https://reneepricefornc.com/about",
-"https://reneepricefornc.com/cart",
-"https://reneepricefornc.com/contact",
-"https://reneepricefornc.com/events",
-"https://reneepricefornc.com/events/blue-and-orange-bash-2026?format=ical",
-"https://reneepricefornc.com/issues",
-"https://reneepricefornc.com/new-page",
-"https://secure.actblue.com/donate/renee-price-4-nc",
-"https://x.com/NCprogressiveHC"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+hillsborough%2C+nc+"
+},
+{
+"text": "0",
+"href": "https://www.reneepricefornc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.reneepricefornc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.reneepricefornc.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.reneepricefornc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/renee-price-4-nc"
+},
+{
+"text": "Events",
+"href": "https://www.reneepricefornc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Blue+and+Orange+Bash+2026&dates=20260808T210000Z%2F20260809T000000Z&location=Hillsborough%2C+NC"
+},
+{
+"text": "Home",
+"href": "https://www.reneepricefornc.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.reneepricefornc.com/events/blue-and-orange-bash-2026?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.reneepricefornc.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.reneepricefornc.com/new-page"
+},
+{
+"text": "[image: Renée Price for North Carolina]",
+"href": "https://www.reneepricefornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ReneePrice4NC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reneeprice4nc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NCprogressiveHC"
+}
 ]

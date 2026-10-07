@@ -1,4 +1,4 @@
-Christopher was born in Defiance, Ohio and currently lives in Paulding.
+0 Skip to Content Christopher Elder for OH-82 Home About Contact Issues Open Menu Close Menu Christopher Elder for OH-82 Home About Contact Issues Open Menu Close Menu Home About Contact Issues Christopher was born in Defiance, Ohio and currently lives in Paulding.
 Growing up, Christopher spent time living in Ohio, Kentucky, and Tennessee.
 He graduated Paulding High School in 2017 and initially started at Bowling Green State University studying to teach Spanish; he is currently pursuing his Bachelor’s in Social Work from Mount Vernon Nazarene University.
 You may have met Christopher when he designed kitchens at Menards for nearly three years, spending most of his career at the Defiance location before becoming an assistant department manager in Fort Wayne.
@@ -17,4 +17,4 @@ As a Christian, Christopher believes in a dedication to service to others—not 
 What you’ll get from him in the General Assembly is someone held accountable to you and not to his party.
 This November, it is time to come together to send a message to the government: THEY work for US.
 Christopher lives at home with his boyfriend, Jason; living alone in this economy is nearly impossible.
-Christopher also has a variety of pets, plays saxophone, and enjoys trading card games like Magic: the Gathering.
+Christopher also has a variety of pets, plays saxophone, and enjoys trading card games like Magic: the Gathering. send me a message Paid for by Elder for Ohio Made with Squarespace Elect your elder

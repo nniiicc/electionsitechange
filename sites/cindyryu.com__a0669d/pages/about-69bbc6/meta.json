@@ -1,9 +1,13 @@
 {
  "description": "cindyryu.com's campaign",
  "final_url": "https://www.cindyryu.com/about",
- "paid_for_by": "Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133",
- "title": "About \u2014 cindyryu.com",
+ "fingerprint": "80376cee5712fad38440791ada3dbeb6215bde60",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app",
+ "title": "About — cindyryu.com",
  "years_mentioned": [
+  "1969",
+  "1976",
   "2024",
   "2025"
  ]

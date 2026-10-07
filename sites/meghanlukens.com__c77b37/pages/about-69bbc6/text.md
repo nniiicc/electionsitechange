@@ -1,4 +1,4 @@
-A proud local, I grew up in Steamboat Springs and now live and work in the community.
+Home About Issues Endorsements Contact En Español DONATE Join Us Meet Meghan A proud local, I grew up in Steamboat Springs and now live and work in the community.
 I am a member of the Colorado House of Representatives, and my goal is to defend our diversified economy and vibrant Colorado culture, promote access to affordable housing options, and work to strengthen our educational system through the state legislature.
 Because of my upbringing and can-do attitude, I am confidently representing the people of the Western Slope in the Colorado state legislature.
 While growing up, I was a hockey player with Steamboat Springs Youth Hockey, a swimmer with the Steamboat Springs Swim Team which brought me to many small towns throughout the Western Slope, and a skier with the Steamboat Springs Winter Sports Club.
@@ -21,6 +21,8 @@ The staff and faculty in the Steamboat Springs School District are a valuable re
 Now, after four years serving in the Colorado House of Representatives, I serve on the Agriculture, Natural Resources & Water Committee, Legislative Council, and as Chair of the Education Committee.
 In my free time, I like to ski as many resorts as I can, mountain bike, camp, and hike.
 Good thing I live in the most beautiful place in the world, Colorful Colorado!
-Our Future.
+JOIN MEGHAN DONATE Our Future.
 Our Colorado.
 Sign up to get involved today!
+Name * Email * SIGN UP Volunteer Newsletter Contribute Paid for by Meghan Lukens for Colorado .
+Registered Agent: Meghan Lukens.

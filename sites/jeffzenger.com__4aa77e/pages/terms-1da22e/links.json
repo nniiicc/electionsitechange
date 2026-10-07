@@ -1,10 +1,54 @@
 [
-"https://facebook.com/JeffZengerNC",
-"https://jeffzenger.com/",
-"https://jeffzenger.com/about",
-"https://jeffzenger.com/join",
-"https://jeffzenger.com/privacy",
-"https://jeffzenger.com/terms",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web",
-"https://x.com/realjeffzenger"
+{
+"text": "ABOUT",
+"href": "https://www.jeffzenger.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web"
+},
+{
+"text": "HOME",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.jeffzenger.com/join"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jeffzenger.com/privacy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.jeffzenger.com/terms"
+},
+{
+"text": "[image: Website Logos-01.png]",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "[image: Website Logos-02.png]",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "[image: Zenger FB]",
+"href": "https://www.facebook.com/JeffZengerNC"
+},
+{
+"text": "[image: Zenger Insta]",
+"href": "https://x.com/realjeffzenger"
+},
+{
+"text": "[image: Zenger X]",
+"href": "https://x.com/realjeffzenger"
+},
+{
+"text": "info@jeffzenger.com",
+"href": "mailto:info@jeffzenger.com"
+}
 ]

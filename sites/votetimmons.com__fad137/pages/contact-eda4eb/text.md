@@ -1,3 +1,10 @@
-- This field is for validation purposes and should be left unchanged.
-- Privacy Policy & Terms
-Skip to content
+Skip to content William Timmons for Congress Serving South Carolina's Upstate About William Issues Volunteer Contact Donate Contact Name First Last Email * Mobile Number Address Street Address City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code What's on your mind? * Untitled * By submitting this form and signing up for texts, you consent to receive donation asks and informational messages from Timmons for Congress.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available).
+Reply HELP for help.
+Privacy Policy & Terms Submit Share Latest News Breaking: Timmons endorsed by 15 Congressional Veterans Opinion: Democrats’ attempts to pass voting bills are just a distraction More Bills Targeting the Vaccine Mandate Introduced Upstate Veterans Day ceremony honors veterans from WWII to Afghanistan Veterans honored in ceremony at Greenville’s County Square Over 40 SC House lawmakers will introduce a bill against vaccine mandate, Senate to follow soon Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Resources Donate GET IN TOUCH Post Office Box 3416 Greenville, SC 29602 William Timmons is a member of the Air National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Paid for by William Timmons for Congress

@@ -1,11 +1,70 @@
 [
-"https://electjohnley.com/",
-"https://electjohnley.com/about-me",
-"https://electjohnley.com/category/60-seconds-with-john-ley",
-"https://electjohnley.com/news",
-"https://facebook.com/ElectJohnLey",
-"https://instagram.com/electjohnley",
-"https://secure.anedot.com/friends-to-elect-john-ley/donate",
-"https://twitter.com/LeyElect",
-"https://youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+{
+"text": "60 Seconds With John Ley",
+"href": "https://electjohnley.com/category/60-seconds-with-john-ley/"
+},
+{
+"text": "About Me",
+"href": "https://electjohnley.com/about-me/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-to-elect-john-ley/donate"
+},
+{
+"text": "Home",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "Latest News",
+"href": "https://electjohnley.com/news/"
+},
+{
+"text": "[image: Elect John Ley][image: Elect John Ley]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[image: https://electjohnley.com/wp-content/uploads/2022/05/JLlogo_white-1.png]",
+"href": "https://electjohnley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/LeyElect"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/ElectJohnLey"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/electjohnley/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCwT7tSqPd386hR6PDfzpc5Q"
+},
+{
+"text": "[tooltip: ]",
+"href": "mailto:electjohnley@gmail.com"
+},
+{
+"text": "electjohnley@gmail.com",
+"href": "mailto:electjohnley@gmail.com"
+}
 ]

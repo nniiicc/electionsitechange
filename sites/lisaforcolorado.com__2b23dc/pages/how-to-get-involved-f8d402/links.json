@@ -1,90 +1,370 @@
 [
-"http://glbtcolorado.org/",
-"http://one-colorado.org/",
-"https://abilityconnectioncolorado.org/",
-"https://aclu-co.org/en/events-action/volunteer",
-"https://afsc.org/programs/colorado-immigrant-rights",
-"https://alliancecolorado.org/idd-legislation",
-"https://arvadacenter.org/volunteer",
-"https://arvadachamber.org/arvada-non-profit-directory",
-"https://arvadansforprogressiveaction.org/",
-"https://blacklivesmatter5280.org/",
-"https://ccdconline.org/",
-"https://ccdenver.org/immigration",
-"https://centerforhealthprogress.org/",
-"https://cfcu-co.org/",
-"https://cohealthinitiative.org/",
-"https://coloradocoalition.org/",
-"https://coloradoimmigrant.org/",
-"https://colorlatina.org/",
-"https://comadmoms.org/",
-"https://conservationco.org/",
-"https://copolicy.org/",
-"https://copovertylawproject.org/",
-"https://corising.org/",
-"https://coyac.org/",
-"https://cpw.state.co.us/volunteer",
-"https://dmfhc.org/",
-"https://dug.org/",
-"https://earthlinks-colorado.org/",
-"https://envision-you.org/",
-"https://everytown.org/",
-"https://facebook.com/LisaFeretCO",
-"https://foodbankrockies.org/",
-"https://foodforthoughtdenver.org/",
-"https://fortalezafamiliar.org/",
-"https://frontlinefarming.org/strategy-action",
-"https://gofarm.org/",
-"https://habitatmetrodenver.org/advocacy",
-"https://healthiercolorado.org/",
-"https://hechoonline.org/",
-"https://hrc.org/",
-"https://indivisible.org/",
-"https://instagram.com/lisaferetcolorado",
-"https://jeffco.ezcommunicator.net/edu/jeffco/ezcomm/VolunteerRegistration.aspx?app=0",
-"https://jeffco.us/1567/Volunteer",
-"https://jeffcodems.org/resistance",
-"https://jeffcodems.org/volunteer",
-"https://jeffcoeats.org/get-involved",
-"https://jeffcolibrary.org/volunteer",
-"https://linkedin.com/in/lisaferet",
-"https://lisaforcolorado.com/",
-"https://lisaforcolorado.com/cart",
-"https://lisaforcolorado.com/contact-lisa",
-"https://lisaforcolorado.com/endorsements",
-"https://lisaforcolorado.com/how-to-get-involved",
-"https://lisaforcolorado.com/in-the-community",
-"https://lisaforcolorado.com/legislation",
-"https://lisaforcolorado.com/meet-lisa",
-"https://lisaforcolorado.com/on-the-issues",
-"https://lisaforcolorado.com/resources",
-"https://lwvcolorado.org/?gad_source=1&gad_campaignid=11666694714&gbraid=0AAAAADPl7A_Wgigtu7ApOqBqDBb64wdqK",
-"https://marchforourlives.org/",
-"https://mentalhealthcolorado.org/",
-"https://missioncontinues.org/",
-"https://momsdemandaction.org/",
-"https://naacpdenver.org/",
-"https://pflagdenver.org/",
-"https://plannedparenthood.org/planned-parenthood-rocky-mountains",
-"https://projectangelheart.org/",
-"https://projectvoyce.org/",
-"https://protectourwinters.org/",
-"https://reproductivefreedomforall.org/",
-"https://riseaboveco.org/index.html",
-"https://rmian.org/",
-"https://secure.actblue.com/donate/lisa-for-colorado-1",
-"https://sierraclub.org/colorado",
-"https://spiritofthesun.org/",
-"https://surj.org/",
-"https://teamrubiconusa.org/ways-to-give",
-"https://tgpdenver.org/",
-"https://theactioncenter.org/volunteer",
-"https://thearc.org/chapter/the-arc-of-colorado",
-"https://thedeloresproject.org/",
-"https://theurbanfarm.org/",
-"https://uprootcolorado.org/",
-"https://voc.org/",
-"https://votesaveamerica.com/",
-"https://westernresourceadvocates.org/",
-"https://younginvincibles.org/"
+{
+"text": "0",
+"href": "https://www.lisaforcolorado.com/cart"
+},
+{
+"text": "ACLU of Colorado",
+"href": "https://www.aclu-co.org/en/events-action/volunteer"
+},
+{
+"text": "Ability Connection Colorado",
+"href": "https://www.abilityconnectioncolorado.org/"
+},
+{
+"text": "Alliance Colorado",
+"href": "https://www.alliancecolorado.org/idd-legislation"
+},
+{
+"text": "American Friends Service Committee (AFSC) Colorado",
+"href": "https://afsc.org/programs/colorado-immigrant-rights"
+},
+{
+"text": "Arvada Center Volunteer",
+"href": "https://www.arvadacenter.org/volunteer"
+},
+{
+"text": "Arvadans for Progressive Action",
+"href": "https://arvadansforprogressiveaction.org/"
+},
+{
+"text": "Avada Non-Profit Directory",
+"href": "https://www.arvadachamber.org/arvada-non-profit-directory/"
+},
+{
+"text": "Black Lives Matter 5280",
+"href": "https://www.blacklivesmatter5280.org/"
+},
+{
+"text": "Catholic Charities of Denver",
+"href": "https://ccdenver.org/immigration/"
+},
+{
+"text": "Center for Health Progress",
+"href": "https://centerforhealthprogress.org/"
+},
+{
+"text": "Click here to support the cause!",
+"href": "https://secure.actblue.com/donate/lisa-for-colorado-1"
+},
+{
+"text": "Colorado Center on Law and Policy",
+"href": "https://copolicy.org/"
+},
+{
+"text": "Colorado Coalition for the Homeless",
+"href": "https://www.coloradocoalition.org/"
+},
+{
+"text": "Colorado Consumer Health Initiative",
+"href": "https://cohealthinitiative.org/"
+},
+{
+"text": "Colorado Cross Disability Coalition",
+"href": "https://ccdconline.org/"
+},
+{
+"text": "Colorado Faith Communities United to End Gun Violence",
+"href": "https://www.cfcu-co.org/"
+},
+{
+"text": "Colorado Immigrant Rights Coalition (CIRC)",
+"href": "https://coloradoimmigrant.org/"
+},
+{
+"text": "Colorado Mad Moms",
+"href": "https://www.comadmoms.org/"
+},
+{
+"text": "Colorado Organization for Latina Opportunity and Reproductive Rights",
+"href": "https://www.colorlatina.org/"
+},
+{
+"text": "Colorado Parks and Wildlife Volunteering",
+"href": "https://cpw.state.co.us/volunteer"
+},
+{
+"text": "Colorado Poverty Law Project",
+"href": "https://www.copovertylawproject.org/"
+},
+{
+"text": "Colorado Rising",
+"href": "https://corising.org/"
+},
+{
+"text": "Colorado Youth Advisory Council",
+"href": "https://coyac.org/"
+},
+{
+"text": "Conservation Colorado",
+"href": "https://conservationco.org/"
+},
+{
+"text": "Contact Lisa",
+"href": "https://www.lisaforcolorado.com/contact-lisa"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lisa-for-colorado-1"
+},
+{
+"text": "Denver Metro Fair Housing Center",
+"href": "https://www.dmfhc.org/"
+},
+{
+"text": "Denver Urban Gardens",
+"href": "https://dug.org/"
+},
+{
+"text": "Earthlinks Colorado",
+"href": "https://www.earthlinks-colorado.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisaforcolorado.com/endorsements"
+},
+{
+"text": "Envision: You",
+"href": "https://www.envision-you.org/"
+},
+{
+"text": "Everytown for Gun Safety",
+"href": "https://www.everytown.org/"
+},
+{
+"text": "Food Bank of the Rockies",
+"href": "https://www.foodbankrockies.org/"
+},
+{
+"text": "Food for Thought Denver",
+"href": "https://foodforthoughtdenver.org/"
+},
+{
+"text": "Fortaleza Familia",
+"href": "https://www.fortalezafamiliar.org/"
+},
+{
+"text": "FrontLine Farming",
+"href": "https://www.frontlinefarming.org/strategy-action"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisaforcolorado.com/how-to-get-involved"
+},
+{
+"text": "Go Farm",
+"href": "https://www.gofarm.org/"
+},
+{
+"text": "HECHO",
+"href": "https://www.hechoonline.org/"
+},
+{
+"text": "Habitat for Humanity of Metro Denver",
+"href": "https://habitatmetrodenver.org/advocacy/"
+},
+{
+"text": "Healthier Colorado",
+"href": "https://healthiercolorado.org/"
+},
+{
+"text": "Home",
+"href": "https://www.lisaforcolorado.com/"
+},
+{
+"text": "Human Rights Campaign",
+"href": "https://www.hrc.org/"
+},
+{
+"text": "In the Community",
+"href": "https://www.lisaforcolorado.com/in-the-community"
+},
+{
+"text": "Indivisible",
+"href": "https://indivisible.org/"
+},
+{
+"text": "Jeffco Dems Volunteer",
+"href": "https://www.jeffcodems.org/volunteer"
+},
+{
+"text": "Jeffco Eats Volunteer",
+"href": "https://jeffcoeats.org/get-involved/"
+},
+{
+"text": "Jeffco Library Volunteering",
+"href": "https://jeffcolibrary.org/volunteer/"
+},
+{
+"text": "Jeffco Open Space Volunteering",
+"href": "https://www.jeffco.us/1567/Volunteer"
+},
+{
+"text": "Jeffco public schools volunteer",
+"href": "https://jeffco.ezcommunicator.net/edu/jeffco/ezcomm/VolunteerRegistration.aspx?app=0"
+},
+{
+"text": "League of Women Voters",
+"href": "https://www.lwvcolorado.org/?gad_source=1&gad_campaignid=11666694714&gbraid=0AAAAADPl7A_Wgigtu7ApOqBqDBb64wdqK"
+},
+{
+"text": "Legislation",
+"href": "https://www.lisaforcolorado.com/legislation"
+},
+{
+"text": "Lisa For Colorado!",
+"href": "https://www.lisaforcolorado.com/"
+},
+{
+"text": "Lisa@LisaforColorado.com",
+"href": "mailto:Lisa@lisaforcolorado.com"
+},
+{
+"text": "March for Our Lives",
+"href": "https://marchforourlives.org/"
+},
+{
+"text": "Meet Lisa!",
+"href": "https://www.lisaforcolorado.com/meet-lisa"
+},
+{
+"text": "Mental Health Colorado",
+"href": "https://www.mentalhealthcolorado.org/"
+},
+{
+"text": "Moms Demand Action",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "NAACP Denver",
+"href": "https://naacpdenver.org/"
+},
+{
+"text": "On The Issues",
+"href": "https://www.lisaforcolorado.com/on-the-issues"
+},
+{
+"text": "One Colorado",
+"href": "http://www.one-colorado.org"
+},
+{
+"text": "PFLAG Denver",
+"href": "https://pflagdenver.org/"
+},
+{
+"text": "Planned Parenthood of the Rocky Mountains",
+"href": "https://www.plannedparenthood.org/planned-parenthood-rocky-mountains"
+},
+{
+"text": "Project Angel Heart",
+"href": "https://www.projectangelheart.org/"
+},
+{
+"text": "Project VOYCE",
+"href": "https://www.projectvoyce.org/"
+},
+{
+"text": "Protect Our Winters",
+"href": "https://protectourwinters.org/"
+},
+{
+"text": "Reproductive Freedom for All",
+"href": "https://reproductivefreedomforall.org/"
+},
+{
+"text": "Resources",
+"href": "https://www.lisaforcolorado.com/resources"
+},
+{
+"text": "Rise Above Colorado",
+"href": "https://www.riseaboveco.org/index.html"
+},
+{
+"text": "Rocky Mountain Immigrant Advocacy Network (RMIAN)",
+"href": "https://www.rmian.org/"
+},
+{
+"text": "Showing Up for Racial Justice",
+"href": "https://surj.org/"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org/colorado"
+},
+{
+"text": "Spirit of the Sun",
+"href": "https://www.spiritofthesun.org/"
+},
+{
+"text": "Team Rubicon",
+"href": "https://teamrubiconusa.org/ways-to-give/"
+},
+{
+"text": "The Action Center",
+"href": "https://www.theactioncenter.org/volunteer"
+},
+{
+"text": "The Arc of Colorado",
+"href": "https://thearc.org/chapter/the-arc-of-colorado/"
+},
+{
+"text": "The Center on Colfax",
+"href": "http://www.glbtcolorado.org"
+},
+{
+"text": "The Delores Project",
+"href": "https://thedeloresproject.org/"
+},
+{
+"text": "The Gathering Place",
+"href": "https://tgpdenver.org/"
+},
+{
+"text": "The Mission C",
+"href": "https://www.missioncontinues.org/"
+},
+{
+"text": "The Urban Farm",
+"href": "https://www.theurbanfarm.org/"
+},
+{
+"text": "UpRoot Colorado",
+"href": "https://www.uprootcolorado.org/"
+},
+{
+"text": "Volunteers for Outdoor Colorado",
+"href": "https://www.voc.org/"
+},
+{
+"text": "Vote Save America",
+"href": "https://votesaveamerica.com/"
+},
+{
+"text": "Western Resource Advocates",
+"href": "https://westernresourceadvocates.org/"
+},
+{
+"text": "Young Invincibles",
+"href": "https://younginvincibles.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaFeretCO"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisaferetcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/lisaferet"
+},
+{
+"text": "https://www.jeffcodems.org/resistance",
+"href": "https://www.jeffcodems.org/resistance"
+},
+{
+"text": "ontinues",
+"href": "https://teamrubiconusa.org/ways-to-give/"
+}
 ]

@@ -1,10 +1,50 @@
 [
-"https://jonwilsonformnhouse21b.com/",
-"https://jonwilsonformnhouse21b.com/about",
-"https://jonwilsonformnhouse21b.com/contact",
-"https://jonwilsonformnhouse21b.com/donation",
-"https://jonwilsonformnhouse21b.com/key-issues-values",
-"https://jonwilsonformnhouse21b.com/portfolio",
-"https://jonwilsonformnhouse21b.com/portfolio-category/political",
-"https://jonwilsonformnhouse21b.com/portfolio/housing"
+{
+"text": "About",
+"href": "https://jonwilsonformnhouse21b.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://jonwilsonformnhouse21b.com/contact/"
+},
+{
+"text": "Donation or Volunteer",
+"href": "https://jonwilsonformnhouse21b.com/donation/"
+},
+{
+"text": "Home",
+"href": "https://jonwilsonformnhouse21b.com"
+},
+{
+"text": "Home",
+"href": "https://jonwilsonformnhouse21b.com/"
+},
+{
+"text": "Housing",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/housing/"
+},
+{
+"text": "Issues & Values",
+"href": "https://jonwilsonformnhouse21b.com/key-issues-values/"
+},
+{
+"text": "Political",
+"href": "https://jonwilsonformnhouse21b.com/portfolio-category/political/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://jonwilsonformnhouse21b.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://jonwilsonformnhouse21b.com/"
+},
+{
+"text": "[image]",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/housing/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/"
+}
 ]

@@ -1,20 +1,82 @@
 [
-"https://campaignpartner.com/",
-"https://electackles.com/",
-"https://electackles.com/Events?range=2026-10",
-"https://electackles.com/Events?range=2026-10-05",
-"https://electackles.com/Events?range=2026-7",
-"https://electackles.com/Events?range=2026-9",
-"https://electackles.com/Events?range=2026-W41",
-"https://electackles.com/contact",
-"https://electackles.com/contribute",
-"https://electackles.com/events",
-"https://electackles.com/home",
-"https://electackles.com/meet_janene",
-"https://electackles.com/photos",
-"https://electackles.com/platform",
-"https://electackles.com/view-endorsements",
-"https://electackles.com/volunteer",
-"https://electackles.com/vote",
-"https://facebook.com/acklesdublinhouse43"
+{
+"text": "#ago",
+"href": "https://electackles.com/Events?range=%23"
+},
+{
+"text": "CONTACT",
+"href": "https://electackles.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://electackles.com/contribute"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://electackles.com/view-endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://electackles.com/events"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/acklesdublinhouse43"
+},
+{
+"text": "FUNDRAISER",
+"href": "https://electackles.com/contribute"
+},
+{
+"text": "HOME",
+"href": "https://electackles.com/home"
+},
+{
+"text": "MEET JANENE",
+"href": "https://electackles.com/meet_janene"
+},
+{
+"text": "Next ›",
+"href": "https://electackles.com/Events?range=2026-9"
+},
+{
+"text": "OUR FIGHT",
+"href": "https://electackles.com/platform"
+},
+{
+"text": "PHOTOS",
+"href": "https://electackles.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "This Month",
+"href": "https://electackles.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://electackles.com/Events?range=2026-W41"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://electackles.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://electackles.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://electackles.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/acklesdublinhouse43"
+},
+{
+"text": "‹ Previous",
+"href": "https://electackles.com/Events?range=2026-7"
+}
 ]

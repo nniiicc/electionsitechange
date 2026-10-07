@@ -1,8 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61556688680303",
-"https://harmonyforalaska.com/",
-"https://harmonyforalaska.com/contact",
-"https://harmonyforalaska.com/contribute",
-"https://harmonyforalaska.com/privacy-policy",
-"https://snappages.com/"
+{
+"text": "907-347-2967",
+"href": "tel:+9073472967"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.harmonyforalaska.com/contribute"
+},
+{
+"text": "Contact",
+"href": "https://www.harmonyforalaska.com/contact"
+},
+{
+"text": "HarmonyforAlaska@gmail.com",
+"href": "mailto:harmonyforAlaska@gmail.com?subject="
+},
+{
+"text": "Home",
+"href": "https://www.harmonyforalaska.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.harmonyforalaska.com/privacy-policy"
+},
+{
+"text": "SUPPORT THE CAMPAIGN",
+"href": "https://www.harmonyforalaska.com/contribute"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556688680303"
+},
+{
+"text": "powered by SnapPages",
+"href": "https://snappages.com"
+}
 ]

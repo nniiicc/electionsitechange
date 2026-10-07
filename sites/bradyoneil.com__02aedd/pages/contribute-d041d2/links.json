@@ -1,12 +1,46 @@
 [
-"https://bradyoneil.com/",
-"https://bradyoneil.com/contribute",
-"https://bradyoneil.com/issues/exploitation",
-"https://bradyoneil.com/issues/homelessness",
-"https://bradyoneil.com/issues/liberty",
-"https://bradyoneil.com/issues/minnesotas-promise",
-"https://bradyoneil.com/whatimabout",
-"https://docs.google.com/forms/d/e/1FAIpQLScvbJR60KTuYluEua21AvLHiukYVEiBGBrjiy4FI1cTGWo9zQ/viewform?pli=1",
-"https://forms.gle/mC3sPkr24UfiP5qS8",
-"https://paypal.com/donate?hosted_button_id=RLYDGB758FPNY"
+{
+"text": "Contribute",
+"href": "https://bradyoneil.com/contribute/"
+},
+{
+"text": "Donate With Card",
+"href": "https://www.paypal.com/donate/?hosted_button_id=RLYDGB758FPNY"
+},
+{
+"text": "Exploitation",
+"href": "https://bradyoneil.com/issues/exploitation/"
+},
+{
+"text": "Homelessness",
+"href": "https://bradyoneil.com/issues/homelessness/"
+},
+{
+"text": "Information",
+"href": "https://forms.gle/mC3sPkr24UfiP5qS8"
+},
+{
+"text": "Liberty",
+"href": "https://bradyoneil.com/issues/liberty/"
+},
+{
+"text": "Minnesota's Promise",
+"href": "https://bradyoneil.com/issues/minnesotas-promise/"
+},
+{
+"text": "Welcome",
+"href": "https://bradyoneil.com/"
+},
+{
+"text": "Welcome To The Team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScvbJR60KTuYluEua21AvLHiukYVEiBGBrjiy4FI1cTGWo9zQ/viewform?pli=1"
+},
+{
+"text": "What I'm About",
+"href": "https://bradyoneil.com/whatimabout/"
+},
+{
+"text": "[image: logo image]",
+"href": "https://bradyoneil.com/"
+}
 ]

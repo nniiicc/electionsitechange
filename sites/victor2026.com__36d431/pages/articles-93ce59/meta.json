@@ -1,9 +1,12 @@
 {
- "description": "Read the latest articles from Victor Marx for Governor \u2014 insights on faith, family, freedom, and the future of Colorado. Stay informed and inspired to act.",
+ "description": "Read the latest articles from Victor Marx for Governor — insights on faith, family, freedom, and the future of Colorado. Stay informed and inspired to act.",
  "final_url": "https://www.victor2026.com/articles",
- "paid_for_by": null,
+ "fingerprint": "5fc5103c9a5f556c4ed123f5c4d0b3945d55d6a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Victor Marx for Governor | Articles",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2035"
  ]
 }

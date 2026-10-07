@@ -1,9 +1,42 @@
 [
-"https://bsky.app/profile/chrisforcabarrus.bsky.social",
-"https://chrisforcabarrus.com/",
-"https://chrisforcabarrus.com/cart",
-"https://facebook.com/chrisforcabarrus",
-"https://instagram.com/chrisforcabarrus",
-"https://secure.actblue.com/donate/chrisbishopp",
-"https://youtube.com/@ChrisforCabarrus"
+{
+"text": "0",
+"href": "https://www.chrisforcabarrus.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chrisbishopp"
+},
+{
+"text": "[image: Chris Bishopp for NC House]",
+"href": "https://www.chrisforcabarrus.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/chrisforcabarrus.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chrisforcabarrus"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisforcabarrus/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ChrisforCabarrus"
+},
+{
+"text": "[no text]",
+"href": "mailto:chris@chrisforcabarrus.com"
+},
+{
+"text": "https://www.chrisforcabarrus.com/",
+"href": "https://www.chrisforcabarrus.com/"
+},
+{
+"text": "manager@chrisforcabarrus.com",
+"href": "mailto:manager@chrisforcabarrus.com"
+}
 ]

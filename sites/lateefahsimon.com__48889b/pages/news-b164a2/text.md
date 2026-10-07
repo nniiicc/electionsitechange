@@ -1,23 +1,15 @@
-Skip navigation menu
-THE LATEST NEWS
-news & press
-Lateefah in the News
-Bay Area House Democrats claim victory as White House reverses $1.9 billion cut in health funding
-NEWS ARTICLE
-East Bay Rep.
-Lateefah Simon meets with Bay Area workers impacted by government shutdown
-NEWS ARTICLE
-SF Chronicle Endorsement: The obvious choice to replace Barbara Lee in Congress is also the best one
-Congresswoman Barbara Lee Endorses Lateefah Simon to Succeed her in California’s 12th Congressional
-NEWS ARTICLE
-East Bay Times Editorial: Elect Lateefah Simon for Barbara Lee’s East Bay congressional seat
-NEWS ARTICLE
-After Decades Uplifting Community Voices, This Bay Area Advocate Wants To Represent Them In Congress
-PRESS RELEASE
-EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District
-PRESS RELEASE
-Building and Construction Trades Council of Alameda County Endorses Lateefah Simon for Congress
-PRESS RELEASE
-Lateefah Simon Announces First Major Labor Endorsement: National Union of Healthcare Workers
-NEWS ARTICLE
-PRESS RELEASE
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS news & press Lateefah in the News NEWS ARTICLE Rep.
+Simon Announces $850K For Plaza Next To Ashby Bart Read more Aug 21 2026 NEWS ARTICLE Lighting upgrades coming to East Bay BART stations Read more Jul 10 2026 NEWS ARTICLE Oakland's Rep.
+Simon demands answers from Labor Department Read more Jul 8 2026 NEWS ARTICLE Lawmakers Push Back Against Trump Coal Terminal Plans in West Oakland Read more Jun 16 2026 NEWS ARTICLE Congresswoman Lateefah Simon Rejects the Coal Terminal in Oakland Read more Jun 10 2026 NEWS ARTICLE Rep.
+Simon, UCSF announce $1 million in federal funds for cancer research center Read more Jun 3 2026 NEWS ARTICLE Oakland secures $1M in federal funding for Ceasefire Read more May 28 2026 NEWS ARTICLE San Leandro shoreline project receives $1.09 million in federal funding Read more May 11 2026 NEWS ARTICLE Voting rights ruling is a 'devastating' and personal blow, Rep.
+Simon, Mayor Lee say Read more May 6 2026 NEWS ARTICLE Berkeley, Albany split $500,000 in federal funding for fire training Read more May 5 2026 NEWS ARTICLE Oakland Rep.
+Lateefah Simon promotes bill to give cities chance to keep sports teams Read more Apr 3 2026 NEWS ARTICLE At the Young Women's Freedom Center, Sisters Are Doing It for Themselves Read more Mar 22 2026 NEWS ARTICLE New shoreline park to bring nature, 'justice' to East Oakland residents Read more Mar 16 2026 NEWS ARTICLE Bay Area lawmakers rebuke Trump over Iran strikes, war authority Read more Mar 2 2026 NEWS ARTICLE Rep.
+Simon introduces a bill to nationalize BART’s ambassador program Read more Feb 4 2026 NEWS ARTICLE Bay Area House Democrats claim victory as White House reverses $1.9 billion cut in health funding Read more Jan 17 2026 NEWS ARTICLE This Disability Education Law Just Turned 50.
+Disability Advocates Want More.
+Read more Nov 29 2025 NEWS ARTICLE East Bay leaders call for federal government shutdown to end Read more Oct 24 2025 NEWS ARTICLE Oakland turns out for ‘No Kings’ protest against Trump Read more Oct 18 2025 News ARTICLE Bay Area training provides ‘concrete skills’ to defy Trump on deportations, troops Read more Oct 5 2025 NEWS ARTICLE East Bay Rep.
+Lateefah Simon meets with Bay Area workers impacted by government shutdown Read more Oct 4 2025 NEWS ARTICLE House Dems Blast Labor Department for Abandoning Disabled Workers Read more Sep 3 2025 nEWS ARTICLE Congresswoman Simon Visits Port of Oakland, Convenes Roundtable on Tariffs Read more Aug 21 2024 NEWS ARTICLE WATCH: Rep.
+Lateefah Simon speaks at “No Kings” protest in Oakland Read more Aug 19 2024 NEWS ARTICLE ‘Cruel, Ugly, Nasty, Immoral’: Democrats Slam Mega-Bill Ahead of House Vote Read more Jul 2 2025 NEWS ARTICLE Congresswoman Lateefah Simon Hosts Fiery Town Hall at Emeryville Senior Center Read more May 30 2025 NEWS ARTICLE Oakland congresswoman is on a mission to save BART, mass transit Read more Apr 23 2025 MEDIA Rep.
+Lateefah Simon Rebukes Trump in Fiery Speech, Calls for Bold Progressive Action Read more Mar 7 2025 NEWS ARTICLE The Democratic Leader You Did Not Know We Had Read more Mar 5 2025 NEWS ARTICLE Rep.
+Lateefah Simon to Deliver WFP Response to Trump’s Address to Congress Read more Feb 26 2025 NEWS ARTICLE Oakland’s new representative in Congress is adjusting to a new normal: Absolute chaos Read more Feb 9 2025 NEWS ARTICLE SF Chronicle Endorsement: The obvious choice to replace Barbara Lee in Congress is also the best one Read more Feb 1 2024 PRESS RELEASE Congresswoman Barbara Lee Endorses Lateefah Simon to Succeed her in California’s 12th Congressional Read more Jan 31 2024 NEWS ARTICLE East Bay Times Editorial: Elect Lateefah Simon for Barbara Lee’s East Bay congressional seat Read more Jan 27 2024 NEWS ARTICLE Bay Area Reporter Editorial: Simon, Low for Congress Read more Jan 24 2024 PRESS RELEASE Governor Gavin Newsom Throws Support Behind Lateefah Simon’s Bid for Congress Read more Nov 2 2023 NEWS ARTICLE KCBS: BART Director Lateefah Simon just launched her campaign for Congress Read more Jun 10 2023 NEWS ARTICLE After Decades Uplifting Community Voices, This Bay Area Advocate Wants To Represent Them In Congress Read more May 4 2023 PRESS RELEASE EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District Read more May 4 2023 PRESS RELEASE Building and Construction Trades Council of Alameda County Endorses Lateefah Simon for Congress Read more Apr 26 2023 NEWS ARTICLE Lateefah Simon on Her Work with Kamala Harris and Run for Congress Read more Apr 13 2023 PRESS RELEASE Lateefah Simon Raises over $300,000 in First Month of Congressional Campaign Read more Apr 3 2023 PRESS RELEASE Lateefah Simon Announces Over 40 Endorsements from Current and Former Elected Leaders Read more Mar 28 2023 PRESS RELEASE Lateefah Simon Announces First Major Labor Endorsement: National Union of Healthcare Workers Read more Mar 16 2023 NEWS ARTICLE KQED Newsroom: U.S.
+Rep.
+Barbara Lee | Lateefah Simon Read more Mar 3 2023 PRESS RELEASE Lateefah Simon Raises over $140,000 in First 24 Hours of Congressional Campaign Read more Mar 1 2023 NEWS ARTICLE BART Director, Criminal Justice Reformer Lateefah Simon Launches Campaign for East Bay House Seat Read more Feb 28 2023 info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

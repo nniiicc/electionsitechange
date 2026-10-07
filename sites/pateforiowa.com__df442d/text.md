@@ -1,21 +1,10 @@
-0
-%
-Americans Support Voter ID
-Over
-0
-.7 Million
-Voter participation (Nov. 2020), highest in Iowa's history
-0
-+%
-Iowans registered to vote
-Iowans Support Voter ID
-Source: CBS News
-Paul in the News
-Secretary Pate featured guest on "Iowa Press"
-Secretary Pate discussed candidate petition signatures, the June 7th primary, election cybersecurity, and combating misinformation on this week’s edition of “Iowa Press”.
-You can view (...)
-Iowa ranked 3rd best in nation for election administration
-Iowa Secretary of State Paul Pate announced the State of Iowa ranked third best in the nation for administration of the 2020 elections, according to (...)
-MEDIA RELEASE: Iowa's top elected officials endorse Paul Pate for Secretary of State
-DES MOINES – Every Republican in Iowa who holds statewide or federal office is endorsing Paul Pate’s bid for reelection.
-Pate announced last week he (...)
+Home Meet Paul Get Involved News Contact Donate Easy to Vote, Hard to Cheat Voter ID in Iowa Online voter registration Enhanced access for overseas military voting Implemented Donate Today Paul Pate understands Clearing the red tape will help job creators do what they do best – grow Iowa’s economy.
+DONATE NOW DONATE Paul Pate stands With our men and women in the armed services and as Secretary of State has implemented programs which makes it easier for active duty military to participate in elections back home.
+DONATE NOW 0 % Americans Support Voter ID Over 0 .7 Million Voter participation (Nov.
+2020), highest in Iowa's history 0 +% Iowans registered to vote Iowans Support Voter ID Source: CBS News Paul in the News Secretary Pate featured guest on "Iowa Press" 27 Apr by wordpress@victoryenterprises.com in News Secretary Pate discussed candidate petition signatures, the June 7th primary, election cybersecurity, and combating misinformation on this week’s edition of “Iowa Press”.
+You can view (...) Iowa ranked 3rd best in nation for election administration 24 Apr by wordpress@victoryenterprises.com in Election / Government / News Iowa Secretary of State Paul Pate announced the State of Iowa ranked third best in the nation for administration of the 2020 elections, according to (...) MEDIA RELEASE: Iowa's top elected officials endorse Paul Pate for Secretary of State 15 Mar by wordpress@victoryenterprises.com in News DES MOINES – Every Republican in Iowa who holds statewide or federal office is endorsing Paul Pate’s bid for reelection.
+Pate announced last week he (...) Read More Paul Pate, a nationally recognized small business leader, is serving his third term as Iowa's Secretary of State.
+Pate followed through on his 2014 campaign promises by making it easier for overseas military members to vote, instituting online voter registration, implementing a Safe at Home program for survivors of violence, and bringing Voter ID to Iowa.
+Pate has succeeded in making it easy to vote, but hard to cheat.
+Recent Posts Secretary Pate featured guest on “Iowa Press” Iowa ranked 3rd best in nation for election administration MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State Contact Information Address: 300 Walnut St.
+#79 Des Moines, Iowa 50309 Email: Info@PateForIowa.com PAID FOR BY PATE FOR IOWA Copyright # All Rights Reserved

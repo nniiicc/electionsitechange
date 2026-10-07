@@ -1,6 +1,4 @@
-ABOUt ROGER NIELLO
-Roger Niello: A Sacramento Success Story
-Roger Niello has been a Sacramento resident for most of his life, having graduated from Encina High School in Arden.
+Skip to content Menu Home About Issues Endorsements Gallery Contact Menu Home About Issues Endorsements Gallery Contact ABOUt ROGER NIELLO Roger Niello: A Sacramento Success Story Roger Niello has been a Sacramento resident for most of his life, having graduated from Encina High School in Arden.
 After earning his undergraduate degree from the University of California at Berkeley and his Master’s Degree from the University of California at Los Angeles, Roger began his career as a Certified Public Accountant.
 In 1974, Roger joined his family business, the Niello Auto Group, and spent the next 25 years running retail automobile dealerships with his family partners.
 He served as corporate Chief Financial Officer and was president and general manager of several of the group’s franchises.
@@ -12,3 +10,4 @@ Throughout his career, Roger has been a dedicated community and civic volunteer,
 In February 2011, Roger was named the University of California Center Sacramento Governance Fellow, the first to serve in that position.
 Roger, and his wife, Mary, reside in Fair Oaks.
 They have five adult children and six grandchildren.
+DONATE Quickly & Securely Online JOIN ROGER Endorse | Volunteer | Yard Sign Paid for by Roger Niello for Senate 2026 FPPC ID: 1457495 Privacy Policy | Terms & Conditions Scroll To Top

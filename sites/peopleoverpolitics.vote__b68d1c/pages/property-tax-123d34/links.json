@@ -1,15 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61588022211048",
-"https://instagram.com/anthonyaragues",
-"https://legis.ga.gov/legislation/72527",
-"https://peopleoverpolitics.vote/",
-"https://peopleoverpolitics.vote/about-anthony",
-"https://peopleoverpolitics.vote/affordability",
-"https://peopleoverpolitics.vote/bills-to-watch",
-"https://peopleoverpolitics.vote/cherokee-county/elections",
-"https://peopleoverpolitics.vote/combined-tax",
-"https://peopleoverpolitics.vote/events",
-"https://peopleoverpolitics.vote/income-tax",
-"https://peopleoverpolitics.vote/poll",
-"https://registertovote.sos.ga.gov/"
+{
+"text": "About Anthony",
+"href": "https://www.peopleoverpolitics.vote/about-anthony"
+},
+{
+"text": "Affordability",
+"href": "https://www.peopleoverpolitics.vote/affordability"
+},
+{
+"text": "Bills to Watch",
+"href": "https://www.peopleoverpolitics.vote/bills-to-watch"
+},
+{
+"text": "Cherokee Elections",
+"href": "https://www.peopleoverpolitics.vote/cherokee-county/elections"
+},
+{
+"text": "Combined property + income impact",
+"href": "https://www.peopleoverpolitics.vote/combined-tax"
+},
+{
+"text": "Community Poll",
+"href": "https://www.peopleoverpolitics.vote/poll"
+},
+{
+"text": "Events",
+"href": "https://www.peopleoverpolitics.vote/events"
+},
+{
+"text": "Full affordability model (backup)",
+"href": "https://www.peopleoverpolitics.vote/affordability"
+},
+{
+"text": "Income-tax removal impact",
+"href": "https://www.peopleoverpolitics.vote/income-tax"
+},
+{
+"text": "Open bill page",
+"href": "https://www.legis.ga.gov/legislation/72527"
+},
+{
+"text": "PEOPLE OVER POLITICS",
+"href": "https://www.peopleoverpolitics.vote/"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.sos.ga.gov/"
+},
+{
+"text": "Tax Math",
+"href": "https://www.peopleoverpolitics.vote/combined-tax"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588022211048"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/anthonyaragues/"
+}
 ]

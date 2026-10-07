@@ -1,4 +1,4 @@
-On Tuesday, January 8, 2019, lawmakers gathered in Columbia to commence the 123rd South Carolina General Assembly.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 1/25/2019 Kambrell Garvin March 14, 2019 Comments Off on The State Capitol Report – 1/25/2019 Uncategorized On Tuesday, January 8, 2019, lawmakers gathered in Columbia to commence the 123 rd South Carolina General Assembly.
 On Wednesday, the General Assembly took part in ceremonies for the inauguration of the Governor, the Lieutenant Governor, and the state’s other constitutional officers.
 During the week, committees began their work on legislation to report out for consideration by the full House.
 The House of Representatives approved S.2, relating to the PRESIDENT OF THE SENATE in the South Carolina General Assembly, and enrolled the bill for ratification.
@@ -20,4 +20,6 @@ The House adopted and sent the Senate H.3012, a concurrent resolution to express
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm The State Capitol Report – 2/1/2019 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

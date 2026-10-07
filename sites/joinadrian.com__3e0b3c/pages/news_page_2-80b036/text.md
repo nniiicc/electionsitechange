@@ -1,21 +1,14 @@
-Nebraska Congressman Adrian Smith Recognized with NCGA President’s Award
-By Jesse Allen, American Ag Network — The National Corn Growers Association (NCGA) recognized Rep.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact News News Adrian Smith for Congress 2017-06-06T09:43:11-05:00 18 07, 2025 Nebraska Congressman Adrian Smith Recognized with NCGA President’s Award By Jesse Allen, American Ag Network — The National Corn Growers Association (NCGA) recognized Rep.
 Adrian Smith (Neb-R) with the President’s Award today during its summer Corn Congress meeting in Washington, D.C.
-Smith, who serves on the powerful House Ways and Means Committee, has been a legislative champion for corn [...]
-Smith leads the charge on E-15
-By Paul Hughes, WJAG — The One, Big, Beautiful Bill, signed into law by President Trump on the 4th of July provided funding for thousands of items, but did not address year-round sales of E-15.
-During a news conference earlier this week, Nebraska third-district Congressman Adrian Smith said the topic [...]
-Rep.
-Adrian Smith Talks Tax Policy, “Big Beautiful Bill” During North Platte Visit
-By North Platte Post Staff — NORTH PLATTE, Neb.
-(June 23, 2025) — Nebraska Congressman Adrian Smith said making key tax relief provisions permanent and curbing federal spending are top priorities as lawmakers debate what President Donald Trump has dubbed the “Big Beautiful Bill.” Speaking to the North Platte Post [...]
-Tax roundtable with Rep.
-Adrian Smith in Grand Island today
-By Central Nebraska Today — GRAND ISLAND — On Thursday, March 20, the U.S.
+Smith, who serves on the powerful House Ways and Means Committee, has been a legislative champion for corn [...] 11 07, 2025 Smith leads the charge on E-15 By Paul Hughes, WJAG — The One, Big, Beautiful Bill, signed into law by President Trump on the 4th of July provided funding for thousands of items, but did not address year-round sales of E-15.
+During a news conference earlier this week, Nebraska third-district Congressman Adrian Smith said the topic [...] 24 06, 2025 Rep.
+Adrian Smith Talks Tax Policy, “Big Beautiful Bill” During North Platte Visit By North Platte Post Staff — NORTH PLATTE, Neb.
+(June 23, 2025) — Nebraska Congressman Adrian Smith said making key tax relief provisions permanent and curbing federal spending are top priorities as lawmakers debate what President Donald Trump has dubbed the “Big Beautiful Bill.” Speaking to the North Platte Post [...] 21 03, 2025 Tax roundtable with Rep.
+Adrian Smith in Grand Island today By Central Nebraska Today — GRAND ISLAND — On Thursday, March 20, the U.S.
 Chamber of Commerce and Nebraska State Chamber & Industry will host a roundtable with U.S.
-Representative Adrian Smith (R-NE-03) on the need to extend pro-growth business tax provisions before portions of the 2017 Tax Cuts and [...]
-Trusted Republican Leaders from Across Nebraska Endorse Congressman Adrian Smith for Re-Election
-SCOTTSBLUFF, NE – Congressman Adrian Smith has received endorsements for his re-election campaign from 54 trusted conservative Republican leaders from across Nebraska.
+Representative Adrian Smith (R-NE-03) on the need to extend pro-growth business tax provisions before portions of the 2017 Tax Cuts and [...] 29 01, 2024 Trusted Republican Leaders from Across Nebraska Endorse Congressman Adrian Smith for Re-Election SCOTTSBLUFF, NE – Congressman Adrian Smith has received endorsements for his re-election campaign from 54 trusted conservative Republican leaders from across Nebraska.
 U.S.
 Senator Deb Fischer said, “Adrian Smith is a trusted conservative leader.
-He has been a champion of expanding fair trade for Nebraska’s farmers, ranchers and manufacturers on [...]
+He has been a champion of expanding fair trade for Nebraska’s farmers, ranchers and manufacturers on [...] Previous 1 2 3 Next 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

@@ -1,4 +1,4 @@
-Illinois is at a crossroads, and I need your help to keep fighting for the future we all believe in.
+0 Skip to Content Home About Issues 88th District Voting Join Us Donate Open Menu Close Menu Home About Issues 88th District Voting Join Us Donate Open Menu Close Menu Home About Issues 88th District Voting Join Us Donate Illinois is at a crossroads, and I need your help to keep fighting for the future we all believe in.
 When I ran for office two short years ago, I promised to stand up for working families, protect our values, and take the fight to Springfield.
 And that’s exactly what I’ve done.
 But I can’t do it alone.
@@ -10,4 +10,6 @@ How will you lead?
 By providing your phone number and checking this box, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Regan For Illinois.
 Message and data rates may apply.
 Reply "STOP" to opt-out.
-Terms & conditions/privacy policy apply: Privacy Policy & Terms of Use
+Terms & conditions/privacy policy apply: Privacy Policy & Terms of Use Privacy Policy and Terms of Use Copyright # Regan Deering for Illinois.
+All Rights Reserved.
+Paid for by Regan for Illinois

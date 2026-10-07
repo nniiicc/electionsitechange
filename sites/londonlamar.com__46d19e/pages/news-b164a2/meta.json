@@ -1,7 +1,9 @@
 {
  "description": "News on State Representative London Lamar",
  "final_url": "https://www.londonlamar.com/news",
- "paid_for_by": "Paid for by &nbsp;London Lamar for State Senate Sen",
+ "fingerprint": "2deffd72813a3bbf5ec6ae4ebe2adb23c7d190b3",
+ "format": 3,
+ "paid_for_by": "Paid for by London Lamar for State Senate Sen",
  "title": "News | Sen. London Lamar",
  "years_mentioned": [
   "2017",

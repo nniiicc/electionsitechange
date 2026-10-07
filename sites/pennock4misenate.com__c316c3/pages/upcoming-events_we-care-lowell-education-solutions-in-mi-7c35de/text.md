@@ -1,12 +1,7 @@
-Back to All Events
-Join Dr.
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events We Care Lowell: Education Solutions in MI Wednesday, April 15, 2026 6:30 PM 9:30 PM First Congregational Church 865 Lincoln Lake Road Northeast Lowell, MI, 49331 United States (map) Google Calendar ICS Join Dr.
 Anthony Pennock as he addresses We Care of Lowell Indivisible for a conversation about the future of education in Michigan.
 As a researcher, special educator, and union leader, Anthony brings a unique perspective on our current educational climate and the hard reality of the data.
-He will discuss how we move forward by prioritizing support for students and educators, rather than the 'high-stakes accountability' measures that have left our schools underfunded and our teachers overextended.
-Previous
-Previous
-April 8
-Kent County Democratic Party Social Hour
-Next
-Next
-April 25
+He will discuss how we move forward by prioritizing support for students and educators , rather than the 'high-stakes accountability' measures that have left our schools underfunded and our teachers overextended.
+Previous Previous April 8 Kent County Democratic Party Social Hour Next Next April 25 Parent Choice Drag Story Hour Fundraiser Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

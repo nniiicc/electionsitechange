@@ -1,21 +1,154 @@
 [
-"https://davevella.com/",
-"https://davevella.com/about",
-"https://davevella.com/cart",
-"https://davevella.com/get-involved",
-"https://davevella.com/issues",
-"https://davevella.com/issues/cost-of-living",
-"https://davevella.com/issues/crime",
-"https://davevella.com/issues/education",
-"https://davevella.com/issues/empoweringwomen",
-"https://davevella.com/issues/fiscal-responsibility",
-"https://davevella.com/issues/government-accountability",
-"https://davevella.com/issues/healthcare",
-"https://davevella.com/issues/infrastructure",
-"https://davevella.com/issues/supportingveterans",
-"https://davevella.com/privacy-policy",
-"https://davevella.com/terms-and-conditions",
-"https://facebook.com/ElectDaveVella",
-"https://instagram.com/electdavevella",
-"https://secure.actblue.com/donate/friends-of-dave-vella-1"
+{
+"text": "0",
+"href": "https://www.davevella.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.davevella.com/about"
+},
+{
+"text": "Crime",
+"href": "https://www.davevella.com/issues/crime"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-dave-vella-1"
+},
+{
+"text": "Education",
+"href": "https://www.davevella.com/issues/education"
+},
+{
+"text": "Empowering Women",
+"href": "https://www.davevella.com/issues/empoweringwomen"
+},
+{
+"text": "Fiscal Responsibility",
+"href": "https://www.davevella.com/issues/fiscal-responsibility"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davevella.com/get-involved"
+},
+{
+"text": "Government Accountability",
+"href": "https://www.davevella.com/issues/government-accountability"
+},
+{
+"text": "Healthcare",
+"href": "https://www.davevella.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.davevella.com/"
+},
+{
+"text": "Infrastructure",
+"href": "https://www.davevella.com/issues/infrastructure"
+},
+{
+"text": "Issues & Accomplishments",
+"href": "https://www.davevella.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davevella.com/privacy-policy"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://www.davevella.com/issues/cost-of-living"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/cost-of-living"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/crime"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/education"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/empoweringwomen"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/fiscal-responsibility"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/government-accountability"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/healthcare"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/infrastructure"
+},
+{
+"text": "Read More",
+"href": "https://www.davevella.com/issues/supportingveterans"
+},
+{
+"text": "Supporting Veterans",
+"href": "https://www.davevella.com/issues/supportingveterans"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.davevella.com/terms-and-conditions"
+},
+{
+"text": "[image: Crime]",
+"href": "https://www.davevella.com/issues/crime"
+},
+{
+"text": "[image: Education]",
+"href": "https://www.davevella.com/issues/education"
+},
+{
+"text": "[image: Elect Dave Vella]",
+"href": "https://www.davevella.com/"
+},
+{
+"text": "[image: Empowering Women]",
+"href": "https://www.davevella.com/issues/empoweringwomen"
+},
+{
+"text": "[image: Fiscal Responsibility]",
+"href": "https://www.davevella.com/issues/fiscal-responsibility"
+},
+{
+"text": "[image: Government Accountability]",
+"href": "https://www.davevella.com/issues/government-accountability"
+},
+{
+"text": "[image: Healthcare]",
+"href": "https://www.davevella.com/issues/healthcare"
+},
+{
+"text": "[image: Infrastructure]",
+"href": "https://www.davevella.com/issues/infrastructure"
+},
+{
+"text": "[image: Property Tax Relief]",
+"href": "https://www.davevella.com/issues/cost-of-living"
+},
+{
+"text": "[image: Supporting Veterans]",
+"href": "https://www.davevella.com/issues/supportingveterans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectDaveVella"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electdavevella/"
+}
 ]

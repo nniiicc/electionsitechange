@@ -1,14 +1,54 @@
 [
-"http://instagram.com/smith_for_ar_13",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://goodchange.app/version-live/donate/smith-zc",
-"https://secure.actblue.com/donate/mitchell-smith-1",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store"
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Donate with Act Blue Today!",
+"href": "https://secure.actblue.com/donate/mitchell-smith-1"
+},
+{
+"text": "Donate with GoodChange Today!",
+"href": "https://goodchange.app/version-live/donate/smith-zc"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+}
 ]

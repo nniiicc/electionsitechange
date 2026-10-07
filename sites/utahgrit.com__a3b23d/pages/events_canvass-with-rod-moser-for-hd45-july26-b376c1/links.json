@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260726T233000Z%2F20260727T013000Z&location=10140+South+700+East%2C+Sandy%2C+Utah%2C+84070%2C+United+States",
-"http://maps.google.com/?q=10140+South+700+East+Sandy%2C+Utah%2C+84070+United+States",
-"https://facebook.com/RodMoser.UtahGrit",
-"https://instagram.com/utah.grit",
-"https://mobilize.us/utahdemocrats/event/996948",
-"https://saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf",
-"https://secure.actblue.com/donate/utahgrit",
-"https://utahgrit.com/",
-"https://utahgrit.com/cart",
-"https://utahgrit.com/contact",
-"https://utahgrit.com/endorsements",
-"https://utahgrit.com/events",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26?format=ical",
-"https://utahgrit.com/events/summer-bbq",
-"https://utahgrit.com/grit-perspective",
-"https://utahgrit.com/issues-that-matter",
-"https://utahgrit.com/volunteer-form",
-"https://youtube.com/@UtahGrit"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10140+south+700+east+sandy%2C+utah%2C+84070+united+states"
+},
+{
+"text": "0",
+"href": "https://www.utahgrit.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.utahgrit.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/utahgrit"
+},
+{
+"text": "Endorsements",
+"href": "https://www.utahgrit.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45&dates=20260726T233000Z%2F20260727T013000Z&location=10140+South+700+East%2C+Sandy%2C+Utah%2C+84070%2C+United+States"
+},
+{
+"text": "Grit Perspective",
+"href": "https://www.utahgrit.com/grit-perspective"
+},
+{
+"text": "House District 45 MAP",
+"href": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-july26?format=ical"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.utahgrit.com/issues-that-matter"
+},
+{
+"text": "Next Next August 1 Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1"
+},
+{
+"text": "Previous Previous July 11 Summer BBQ",
+"href": "https://www.utahgrit.com/events/summer-bbq"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/utahdemocrats/event/996948/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "[image: Rod Moser For Utah House District 45]",
+"href": "https://www.utahgrit.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RodMoser.UtahGrit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@UtahGrit"
+}
 ]

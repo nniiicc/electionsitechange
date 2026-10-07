@@ -1,6 +1,6 @@
-In five years, we have accomplished so much together, but there is still so much more to do for the people of the 68th District…
-I am committed to building on the progress we have made and continuing to deliver results for our community.
+0 Skip to Content Home About Me Issues & Accomplishments Get Involved Donate Open Menu Close Menu Home About Me Issues & Accomplishments Get Involved Donate Open Menu Close Menu Home About Me Issues & Accomplishments Get Involved Donate In five years, we have accomplished so much together , but there is still so much more to do for the people of the 68th District… I am committed to building on the progress we have made and continuing to deliver results for our community.
 I hope to bring my five years of experience to help our neighbors build better lives.
-Our Work Continues
-Reach out and let me know what’s important to you, what questions you have, or what you believe we can do better.
+Our Work Continues Dave Vella 8/11/26 Dave Vella 8/11/26 Education Read More Dave Vella 8/11/26 Dave Vella 8/11/26 Empowering Women Read More Dave Vella 8/11/26 Dave Vella 8/11/26 Property Tax Relief Read More Dave Vella 8/11/26 Dave Vella 8/11/26 Fiscal Responsibility Read More Dave Vella 8/11/26 Dave Vella 8/11/26 Government Accountability Read More Dave Vella 8/11/26 Dave Vella 8/11/26 Supporting Veterans Read More Dave Vella 8/11/26 Dave Vella 8/11/26 Healthcare Read More Dave Vella 8/10/26 Dave Vella 8/10/26 Crime Read More Dave Vella 8/10/26 Dave Vella 8/10/26 Infrastructure Read More Reach out and let me know what’s important to you, what questions you have, or what you believe we can do better.
 Together, we can continue building a strong future for the 68th District.
+Ask a Question Request a Yard Sign Request a Yard Sign Donate Campaign Office 160 N.
+Mulford Rd, Rockford IL, 61107 Hours: Monday-Thursday: 12 pm-6 pm Friday: Closed Saturday-Sunday: ‍ ‍ 12 pm - 4 pm Email electdavevella@gmail.com Follow Dave Elect Dave Vella | Paid for by Friends of Dave Vella | Privacy Policy | Terms & Conditions

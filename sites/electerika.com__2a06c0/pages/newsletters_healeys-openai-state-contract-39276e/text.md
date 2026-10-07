@@ -1,7 +1,7 @@
-Healey's OpenAI state contract and why it matters to you
-Selling Out Massachusetts
-To OpenAI
-Governor Healey signed a three-year contract putting one company's AI tool in the hands of all 40,000 executive branch employees.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Newsletter · February 17, 2026 Healey's OpenAI state contract and why it matters to you Governor Healey signed a three-year AI contract covering all 40,000 state employees.
+The public has not been allowed to see it. ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ Transparency · The OpenAI Contract Selling Out Massachusetts To OpenAI Governor Healey signed a three-year contract putting one company's AI tool in the hands of all 40,000 executive branch employees.
 The contract has not been released.
 Here is what we know, and what we are still not allowed to see.
 Last Friday, Governor Healey committed Massachusetts to a three-year, multimillion-dollar contract with a single company, OpenAI, to deploy its AI tool for all 40,000 executive branch employees.
@@ -14,7 +14,7 @@ This one company's technology will be woven into how your state government serve
 That means the company Governor Healey chose matters.
 For you, your family, and our community.
 So let me tell you about the company she chose.
-OpenAI is not only building tools for state governments.
+The Company She Chose OpenAI is not only building tools for state governments.
 According to the Department of Homeland Security's own public inventory, published this January, OpenAI's technology is being used by ICE across enforcement and operations.
 The same company that won the Massachusetts contract, Carahsoft, is also OpenAI's channel for pursuing Department of Defense work.
 OpenAI quietly removed its own ban on military uses of its technology.
@@ -24,14 +24,14 @@ The administration says state data will be protected.
 But we have not seen the data processing agreement, because Governor Healey's administration won't release the contract.
 We don't know what protections actually exist for your health information, your address, your family's data.
 And the company we're asked to trust is the same company embedded in a federal enforcement infrastructure that is using health benefits data to target immigrant communities for deportation.
-In Somerville, we know why we need to become a sanctuary state.
+We Deserve a Sanctuary State In Somerville, we know why we need to become a sanctuary state.
 We watched masked agents take Rümeysa Öztürk from our streets with impunity.
 Right now, immigrant families across the country are afraid to access Medicaid because the Trump administration began sharing Medicaid data with ICE.
 A mother in Chicago delayed prenatal care until her third trimester because she feared enrolling would put her husband at risk.
 This is the context in which our Governor signed a three-year contract with OpenAI and won't show us the data protections.
 This is why who builds our government's infrastructure matters.
 And this is why every person in this Commonwealth deserves to see exactly how this choice was made.
-The administration calls this procurement “rigorous” and “transparent.” Here is what a rigorous and transparent process would not look like.
+How This Decision Was Made The administration calls this procurement “rigorous” and “transparent.” Here is what a rigorous and transparent process would not look like.
 The state did not issue an open call for proposals.
 Instead, it issued a Request for Quotes under an existing contract held by Carahsoft Technology Corporation, which was declared the winning bidder on January 27th, two weeks before the public heard about it.
 The cost is $13 per month per employee, roughly $4.3 million a year.
@@ -69,11 +69,10 @@ The competing bidders, if any, have not been named.
 The evaluation scores have not been disclosed.
 If this process was fair, releasing the documents would prove it.
 Governor Healey's silence does the opposite.
-Imagine you've worked for the Commonwealth for fifteen years processing benefits applications.
+Who Was Left Out Imagine you've worked for the Commonwealth for fifteen years processing benefits applications.
 One day you're told a tool you've never heard of will now be part of how you do your job, every day, for three years.
 You weren't consulted.
-Your union was given a brief overview days before the announcement and said what was announced was “very different than what we thought we were agreeing to.”
-That's what happened to 40,000 state employees.
+Your union was given a brief overview days before the announcement and said what was announced was “very different than what we thought we were agreeing to.” That's what happened to 40,000 state employees.
 The National Association of Government Employees (NAGE), representing 15,000 of them, described the rollout as “putting the cart before the horse,” saying the administration moved forward before completing mandatory collective bargaining.
 No workforce survey.
 No feedback mechanism.
@@ -83,7 +82,7 @@ They are the people who make government work.
 Once 40,000 people build their routines around one company's tool, switching becomes practically impossible.
 They deserved a voice.
 They did not get one.
-Other governments looked at the full landscape before choosing an AI vendor.
+What a Real Evaluation Would Have Found Other governments looked at the full landscape before choosing an AI vendor.
 Governor Healey's administration, as far as we can tell, did not.
 The federal Department of Health and Human Services gives workers access to two vendors, both ChatGPT and Anthropic's Claude, because having multiple tools prevents any single company from becoming your only option.
 Maryland started with a small pilot before expanding.
@@ -108,8 +107,7 @@ Whether any of this factored into the decision is unknown.
 I don't know.
 You don't know.
 And that is the problem.
-I call on Governor Healey to make the following available to the public and the Legislature:
-1.
+What I'm Doing About It I call on Governor Healey to make the following available to the public and the Legislature: 1.
 The complete procurement documents, including the bidder list, evaluation scores, and the rationale for choosing a single vendor over the multi-vendor approach used by federal agencies.
 2.
 The full data processing agreement, including specific protections for residents who interact with MassHealth and other safety-net programs, and assurances about how sensitive personal data is firewalled from any other use.
@@ -122,14 +120,14 @@ They are the basic building blocks of accountable and transparent government.
 I will continue to push on this, and I am working on additional steps to ensure that the people of Massachusetts have a real voice in how AI is used in our government, not just this contract, but every decision that follows from it.
 If the process was fair, release the documents.
 Let the people of this Commonwealth see for themselves.
-Contact the Governor's office.
-Call (617) 725-4005 or visit mass.gov/governor.
+What You Can Do Contact the Governor's office.
+Call (617) 725-4005 or visit mass.gov/governor .
 Ask for the release of the full procurement documents and the data processing agreement.
 Ask why communities and workers were excluded from this decision.
 Contact your State Representative and Senator.
 Ask whether the Joint Committee on Advanced IT plans to hold hearings on this contract.
 Ask who should have a seat at the table when government makes decisions about AI.
-Find your rep at malegislature.gov.
+Find your rep at malegislature.gov .
 If you rely on MassHealth or other state services: You have a right to know how your personal information will be handled.
 Demand the data processing agreement be made public.
 If you are a state employee: Your union has demanded to bargain over this rollout.
@@ -158,14 +156,20 @@ We can build something better than this.
 And I believe we will.
 If the process was fair, release the documents.
 Let the people of this Commonwealth see for themselves.
-Follow on Instagram · Follow on Bluesky
-As always, it is a joy and honor to serve you in the Massachusetts House of Representatives.
+Follow on Instagram · Follow on Bluesky As always, it is a joy and honor to serve you in the Massachusetts House of Representatives.
 Please don't hesitate to reach out if you have any questions, concerns, or ideas!
-Yours in service and solidarity,
-Erika Uyterhoeven
-State Representative, 27th Middlesex
-Candidate, State Senate, 2nd Middlesex District
-Facebook · Instagram · Bluesky
-Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA
-Contributions are not tax-deductible · $1,000 max per individual per calendar year
-Unsubscribe | Manage Preferences
+Yours in service and solidarity, Erika Uyterhoeven State Representative, 27th Middlesex Candidate, State Senate, 2nd Middlesex District Facebook · Instagram · Bluesky Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year Unsubscribe | Manage Preferences ← All Newsletters Stay Connected Get the next one in your inbox.
+Subscribe to Erika's newsletter.
+Donate Now Volunteer Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

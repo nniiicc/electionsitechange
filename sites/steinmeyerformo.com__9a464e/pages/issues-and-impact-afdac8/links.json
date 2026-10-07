@@ -1,7 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61553218354885",
-"https://linkedin.com/in/michaelsteinmeyer",
-"https://steinmeyerformo.com/",
-"https://steinmeyerformo.com/issues-and-impact",
-"https://steinmeyerformo.com/meet-mike"
+{
+"text": "Home",
+"href": "https://www.steinmeyerformo.com"
+},
+{
+"text": "Issues & Impact",
+"href": "https://www.steinmeyerformo.com/issues-and-impact"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.steinmeyerformo.com/meet-mike"
+},
+{
+"text": "Steinmeyer For Missouri",
+"href": "https://www.steinmeyerformo.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61553218354885"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/michaelsteinmeyer/"
+}
 ]

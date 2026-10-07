@@ -1,4 +1,4 @@
-“A symbol of care, connection and community” is how Sumter YMCA Board Chairwoman Selena Ruth Smith described the new YMCA Senior Center during her invocation prayer at its ribbon-cutting and grand opening ceremony Monday.
+Close Meet Murrell Issues Volunteer News Contact Donate Sumter Family YMCA opens new $2M senior center “A symbol of care, connection and community” is how Sumter YMCA Board Chairwoman Selena Ruth Smith described the new YMCA Senior Center during her invocation prayer at its ribbon-cutting and grand opening ceremony Monday.
 And that is how many local leaders and seniors describe the facility addition that will provide a daily outlet for all area seniors from loneliness and isolation with activities and fellowship opportunities and which is the first designated YMCA Senior Center in the state.
 The 5,800 square-foot center — which is two stories and includes an elevator — was a little more than a year in construction and includes a reading room for just that, puzzles, music, checkers and chess, and a classroom/conference room for small group meetings, Bible studies, education classes, movies, arts and crafts, book club, quilting and more.
 Those rooms are both upstairs and next to a full catering kitchen for meal preparations and that will offer nutrition education, cooking lessons, recipe sharing and daily coffee, according to YMCA CEO Missy Corrigan.
@@ -7,17 +7,14 @@ Previously, Corrigan said, the YMCA had to find available space on site for seni
 The senior center’s hours are Monday through Friday, 9 a.m. to 4 p.m., open to anyone 50 and older and offers a place for seniors “to come and hang out and just feel seen and heard,” even if they do not feel like socializing, she added.
 “Our vision is seniors will come here every day and want to just hang out,” Corrigan said.
 “There are games to play, meet your friends over here, read together, watch a movie together and have conversations.
-Our goal is for them to get that face-to-face interaction, instead of staring at a screen or sitting at home alone.”
-THE VISION AND HOW TO REGISTER?
+Our goal is for them to get that face-to-face interaction, instead of staring at a screen or sitting at home alone.” THE VISION AND HOW TO REGISTER?
 According to Corrigan, the vision for the new senior center arose in 2022 after the COVID-19 pandemic when YMCA staff realized its members who were seniors were struggling with loneliness and social isolation, whether it was fear of leaving the home or a loss of loved ones.
 “There was a lack of connection and that really is what sparked the drive and desire for us to build this center,” she said.
 Additionally, a lot of the YMCA’s senior programs had to get moved or cancelled during the summer months to accommodate the influx of kids for youth summer camps, Corrigan added.
-Anyone 50 and older can use the center — a local YMCA membership is not required — but they must register first in the main entrance lobby area at the front of the YMCA to have their profile set up in the agency’s system for clearance, she said
-Even seniors who are YMCA members must register initially to gain access to the center.
+Anyone 50 and older can use the center — a local YMCA membership is not required — but they must register first in the main entrance lobby area at the front of the YMCA to have their profile set up in the agency’s system for clearance, she said Even seniors who are YMCA members must register initially to gain access to the center.
 The senior center is in the back, rear of the YMCA facility and its entrance doors are always locked for safety purposes, Corrigan added.
 When seniors ring the doorbell, video conferencing comes up in a small office area to the new facility and people’s names are checked against the center’s roster.
-MORE ON CENTER
-The senior center was funded in part by $750,000 in state appropriations a few years ago that the Sumter County Legislative Delegation helped secure.
+MORE ON CENTER The senior center was funded in part by $750,000 in state appropriations a few years ago that the Sumter County Legislative Delegation helped secure.
 Those delegation members included House Speaker Murrell Smith, R-Sumter, Rep.
 David Weeks, D-Sumter, and former Sen.
 Thomas McElveen, D-Sumter, according to Corrigan.
@@ -33,11 +30,17 @@ On Monday, senior Emily Boykin said that she has been involved with YMCA senior 
 Fellow-senior Gracie Holmes has only been a part of YMCA senior programs for a couple of years, but she added she thinks the senior center represents a good opportunity for the community at large.
 “When people come, they can check it out and they will have a great time meeting new people because everyone is so friendly here,” Holmes said.
 “I believe, it’s more like a social gathering place for people who are lonely.
-The games are fun and so far I have enjoyed meeting new people and forming friendships with them.”
-Since the center closes at 4 p.m., Corrigan added that the multipurpose room, kitchen and conference room are available for after-hour rentals for parties or gatherings.
+The games are fun and so far I have enjoyed meeting new people and forming friendships with them.” Since the center closes at 4 p.m., Corrigan added that the multipurpose room, kitchen and conference room are available for after-hour rentals for parties or gatherings.
 The architect for the project was Jackson and Sims, Architects, and the builder was by Hawkins and Kolb Construction Co.
-By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
+Sign Up For Updates First Name * Last Name * Email * Phone Number Submit By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
 Message & Data rates may apply, and message frequency may vary over time.
 Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
-Privacy Policy.
+Privacy Policy .
+Donate Paid for by Murrell Smith for House Privacy Policy ©# All Rights Reserved Sign up to Volunteer First Name * Last Name * Email * Phone Number Zip Code * When are you available? * When are you available?
+Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays How can you support?
+Check all that apply. * Make phone calls Knock on doors Put up a yard sign Host an event Attend an event Submit First Name (Required) Last Name (Required) Email (Required) Phone Address (Required) South Carolina Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific South Carolina ZIP Code Availability When are you available?
+Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays Evenings Weekends optinsms I want to opt in to SMS How can you support?
+Select all that apply.
+Make phone calls Knock on doors Put up a yard sign Host an event Attend an event

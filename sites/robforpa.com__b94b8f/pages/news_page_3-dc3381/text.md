@@ -1,18 +1,17 @@
-Latest
-News
-- Bresnahan Earns Endorsement from Amalgamated Transit Union PITTSTON, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of Amalgamated Transit Union (ATU), representing transit workers including…
-- National Electrical Contractors Association PAC Endorses Rob Bresnahan for Congress Pittston, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the National Electrical Contractors Association (NECA), which cited his leadership…
-- Labor Leaders Rebuke Cognetti for Gutting Union Protections in Scranton Goldman Sachs banker Paige Cognetti was chewed out today by labor leaders for gutting protections for local blue collar workers under Scranton’s Responsible Contractor…
-- Pennsylvania Laborers’ District Council Endorses Rob Bresnahan for Congress Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the Pennsylvania Laborers’ District Council (LIUNA), which cited his steadfast support…
-- Brotherhood of Railroad Signalmen Endorses Rob Bresnahan for Congress Pittston, PA – Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the Brotherhood of Railroad Signalmen (BRS) in his…
-- Brutal Crimes Continue to Pile Up in Scranton as Mayor Cognetti Downplays Crime Pittston, PA – More than a year after publicly downplaying a spike in homicides by suggesting it could always be worse and dismissing gang violence was…
-- Another Stabbing in Scranton as Cognetti Parties in New York Pittston, PA – Scranton saw yet another act of violent crime this week, this time involving a member of law enforcement.
-According to WBRE, a law enforcement…
-- Rob Bresnahan Earns Endorsement from IBEW Local 163 “Rob’s lifelong connection to the IBEW and his background as a Union Electrical Contractor give him a genuine, firsthand understanding of our trade.”
-- President Donald J.
-Trump Endorses Congressman Rob Bresnahan Pittston, PA – President Donald J.
-Trump has endorsed Congressman Rob Bresnahan for re-election in Pennsylvania’s 8th Congressional District, praising him as a strong conservative leader…
-- West Pittston Halloweentown Saved by Local Businessman WEST PITTSTON, LUZERNE COUNTY (WBRE/WYOU) — A popular Halloween celebration in Luzerne County was nearly canceled until a local businessman saved the day.
-If you…
-- I-95 collapse in Northeast Philadelphia prompts urgent reconstruction efforts WILKES-BARRE,LUZERNE COUNTY(WOLF) — Over this weekend, a highly traveled portion of I-95 collapsed in Northeast Philadelphia after a heavy gasoline-fueled fire broke out.
-- Landmark, Burns Projects Progress PITTSTON – It’s been 14 months since The Landmark building project got underway on the corner of Broad and Main streets and the over…
+Skip to content Join Team Rob Home About News Labor Endorsements Get Involved Vote Shop Donate Instagram Facebook X YouTube DONATE Latest News Rob Bresnahan Earns Endorsement from Operating Engineers Local 542 April 8, 2026 PITTSTON, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of Amalgamated Transit Union (ATU), representing transit workers including… Read more Bresnahan Earns Endorsement from Amalgamated Transit Union March 25, 2026 PITTSTON, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of Amalgamated Transit Union (ATU), representing transit workers including… Read more National Electrical Contractors Association PAC Endorses Rob Bresnahan for Congress March 5, 2026 Pittston, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the National Electrical Contractors Association (NECA), which cited his leadership… Read more Labor Leaders Rebuke Cognetti for Gutting Union Protections in Scranton March 3, 2026 Goldman Sachs banker Paige Cognetti was chewed out today by labor leaders for gutting protections for local blue collar workers under Scranton’s Responsible Contractor… Read more Pennsylvania Laborers’ District Council Endorses Rob Bresnahan for Congress February 10, 2026 Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the Pennsylvania Laborers’ District Council (LIUNA), which cited his steadfast support… Read more Brotherhood of Railroad Signalmen Endorses Rob Bresnahan for Congress January 21, 2026 Pittston, PA – Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the Brotherhood of Railroad Signalmen (BRS) in his… Read more Brutal Crimes Continue to Pile Up in Scranton as Mayor Cognetti Downplays Crime January 12, 2026 Pittston, PA – More than a year after publicly downplaying a spike in homicides by suggesting it could always be worse and dismissing gang violence was… Read more Another Stabbing in Scranton as Cognetti Parties in New York December 17, 2025 Pittston, PA – Scranton saw yet another act of violent crime this week, this time involving a member of law enforcement.
+According to WBRE, a law enforcement… Read more Rob Bresnahan Earns Endorsement from IBEW Local 163 December 1, 2025 “Rob’s lifelong connection to the IBEW and his background as a Union Electrical Contractor give him a genuine, firsthand understanding of our trade.” Read more President Donald J.
+Trump Endorses Congressman Rob Bresnahan November 3, 2025 Pittston, PA – President Donald J.
+Trump has endorsed Congressman Rob Bresnahan for re-election in Pennsylvania’s 8th Congressional District, praising him as a strong conservative leader… Read more West Pittston Halloweentown Saved by Local Businessman October 16, 2023 WEST PITTSTON, LUZERNE COUNTY (WBRE/WYOU) — A popular Halloween celebration in Luzerne County was nearly canceled until a local businessman saved the day.
+If you… Read more I-95 collapse in Northeast Philadelphia prompts urgent reconstruction efforts June 12, 2023 WILKES-BARRE,LUZERNE COUNTY(WOLF) — Over this weekend, a highly traveled portion of I-95 collapsed in Northeast Philadelphia after a heavy gasoline-fueled fire broke out.
+Read more 1 2 3 4 Support Rob $25 $50 $75 $100 Join Team Rob!
+First Name (Required) Last Name (Required) Email (Required) Phone Zip Code Text Opt-in (Required) By providing your mobile phone number, you are giving your consent to receive calls and sms/mms messages to that number from Rob for PA.
+Messages may include requests for donations.
+Msg frequency varies.
+Msg & data rates may apply.
+Text Help for support.
+Text Stop to opt out.
+See: Privacy Policy .
+Terms & Conditions .
+I consent Join Us!
+Rob for PA PO Box 971 Pittston, PA 18640 Please send all media inquiries to [email protected] Instagram Facebook X YouTube Privacy Policy Terms & Conditions Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by Rob for PA

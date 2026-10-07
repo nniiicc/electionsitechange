@@ -1,64 +1,382 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bipartisan+Forum&dates=20261015T003000Z%2F20261015T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Blitz&dates=20260905T160000Z%2F20260906T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Blitz&dates=20260909T233000Z%2F20260910T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Blitz&dates=20260919T160000Z%2F20260920T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Davis+County%3A+Let%27s+Talk&dates=20260422T010000Z%2F20260422T021500Z&location=140+Center+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Davis+Derby+Gala&dates=20260411T003000Z%2F20260411T040000Z&location=748+W+Heritage+Park+Boulevard%2C+Layton%2C+UT%2C+84041%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fireside+Chat&dates=20260331T010000Z%2F20260331T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+UT%2C+84075%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=How+to+Win+in+Northern+Utah&dates=20260422T230000Z%2F20260423T000000Z&location=1+North+Main+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+15+Canvassing+Event&dates=20260715T233000Z%2F20260716T023000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+22+Canvassing+Event&dates=20260722T233000Z%2F20260723T023000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+8+Canvassing+Event&dates=20260708T233000Z%2F20260709T020000Z&location=1800+S+2000+W%2C+Syracuse%2C+UT+84075",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+Peter+Crosby&dates=20261007T003000Z%2F20261007T020000Z&location=2449+South+1520+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Town+Hall&dates=20260610T010000Z%2F20260610T023000Z&location=1800+W+2700+S%2C+Syracuse%2C+UT",
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+-+House+of+Representative+Candidates&dates=20260923T000000Z%2F20260923T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+in+Syracuse&dates=20260715T004500Z%2F20260715T021500Z&location=1875+S+2000+W%2C+Syracuse%2C+UT+84075",
-"http://maps.google.com/?q=1+North+Main+Street+Clearfield%2C+UT%2C+84015+United+States",
-"http://maps.google.com/?q=140+Center+Street+Clearfield%2C+UT%2C+84015+United+States",
-"http://maps.google.com/?q=1800+S+2000+W+Syracuse%2C+UT+84075",
-"http://maps.google.com/?q=1800+W+2700+S%2C+Syracuse%2C+UT",
-"http://maps.google.com/?q=1875+S+2000+W+Syracuse%2C+UT+84075",
-"http://maps.google.com/?q=1875+South+2000+West+Syracuse%2C+UT%2C+84075+United+States",
-"http://maps.google.com/?q=1875+South+2000+West+Syracuse%2C+Utah%2C+84075+United+States",
-"http://maps.google.com/?q=2449+South+1520+West+Syracuse%2C+Utah%2C+84075+United+States",
-"http://maps.google.com/?q=748+W+Heritage+Park+Boulevard+Layton%2C+UT%2C+84041+United+States",
-"https://secure.actblue.com/donate/derbygala",
-"https://secure.actblue.com/donate/youngforhouse",
-"https://youngforhouse.com/",
-"https://youngforhouse.com/cart",
-"https://youngforhouse.com/contact",
-"https://youngforhouse.com/donate",
-"https://youngforhouse.com/events",
-"https://youngforhouse.com/events/bipartisan-forum",
-"https://youngforhouse.com/events/bipartisan-forum?format=ical",
-"https://youngforhouse.com/events/canvassing-blitz",
-"https://youngforhouse.com/events/canvassing-blitz-1",
-"https://youngforhouse.com/events/canvassing-blitz-1?format=ical",
-"https://youngforhouse.com/events/canvassing-blitz-2",
-"https://youngforhouse.com/events/canvassing-blitz-2?format=ical",
-"https://youngforhouse.com/events/canvassing-blitz?format=ical",
-"https://youngforhouse.com/events/canvassing-event",
-"https://youngforhouse.com/events/canvassing-event?format=ical",
-"https://youngforhouse.com/events/davis-county-lets-talk",
-"https://youngforhouse.com/events/davis-county-lets-talk?format=ical",
-"https://youngforhouse.com/events/davis-derby-gala",
-"https://youngforhouse.com/events/davis-derby-gala?format=ical",
-"https://youngforhouse.com/events/fireside-chat",
-"https://youngforhouse.com/events/fireside-chat?format=ical",
-"https://youngforhouse.com/events/how-to-win-in-northern-utah",
-"https://youngforhouse.com/events/how-to-win-in-northern-utah?format=ical",
-"https://youngforhouse.com/events/july-15-canvassing-event",
-"https://youngforhouse.com/events/july-15-canvassing-event?format=ical",
-"https://youngforhouse.com/events/july-22-canvassing-event",
-"https://youngforhouse.com/events/july-22-canvassing-event?format=ical",
-"https://youngforhouse.com/events/meet-greet-with-peter-crosby",
-"https://youngforhouse.com/events/meet-greet-with-peter-crosby?format=ical",
-"https://youngforhouse.com/events/neighborhood-town-hall",
-"https://youngforhouse.com/events/neighborhood-town-hall?format=ical",
-"https://youngforhouse.com/events/town-hall-house-of-representative-candidates",
-"https://youngforhouse.com/events/town-hall-house-of-representative-candidates?format=ical",
-"https://youngforhouse.com/events/town-hall-in-syracuse",
-"https://youngforhouse.com/events/town-hall-in-syracuse?format=ical",
-"https://youngforhouse.com/faq"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+north+main+street+clearfield%2C+ut%2C+84015+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=140+center+street+clearfield%2C+ut%2C+84015+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1800+s+2000+w+syracuse%2C+ut+84075+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1800+w+2700+s%2C+syracuse%2C+ut++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1875+s+2000+w+syracuse%2C+ut+84075+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1875+south+2000+west+syracuse%2C+ut%2C+84075+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1875+south+2000+west+syracuse%2C+utah%2C+84075+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2449+south+1520+west+syracuse%2C+utah%2C+84075+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=748+w+heritage+park+boulevard+layton%2C+ut%2C+84041+united+states"
+},
+{
+"text": "0",
+"href": "https://www.youngforhouse.com/cart"
+},
+{
+"text": "Bipartisan Forum",
+"href": "https://www.youngforhouse.com/events/bipartisan-forum"
+},
+{
+"text": "Canvassing Blitz",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz"
+},
+{
+"text": "Canvassing Blitz",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-1"
+},
+{
+"text": "Canvassing Blitz",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-2"
+},
+{
+"text": "Contact",
+"href": "https://www.youngforhouse.com/contact"
+},
+{
+"text": "Davis County: Let's Talk",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk"
+},
+{
+"text": "Davis Derby Gala",
+"href": "https://www.youngforhouse.com/events/davis-derby-gala"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/youngforhouse"
+},
+{
+"text": "Donate",
+"href": "https://www.youngforhouse.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.youngforhouse.com/faq"
+},
+{
+"text": "Fireside Chat",
+"href": "https://www.youngforhouse.com/events/fireside-chat"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bipartisan+Forum&dates=20261015T003000Z%2F20261015T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Blitz&dates=20260905T160000Z%2F20260906T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Blitz&dates=20260909T233000Z%2F20260910T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Blitz&dates=20260919T160000Z%2F20260920T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Davis+County%3A+Let%27s+Talk&dates=20260422T010000Z%2F20260422T021500Z&location=140+Center+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Davis+Derby+Gala&dates=20260411T003000Z%2F20260411T040000Z&location=748+W+Heritage+Park+Boulevard%2C+Layton%2C+UT%2C+84041%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fireside+Chat&dates=20260331T010000Z%2F20260331T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+UT%2C+84075%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=How+to+Win+in+Northern+Utah&dates=20260422T230000Z%2F20260423T000000Z&location=1+North+Main+Street%2C+Clearfield%2C+UT%2C+84015%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+15+Canvassing+Event&dates=20260715T233000Z%2F20260716T023000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+22+Canvassing+Event&dates=20260722T233000Z%2F20260723T023000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+8+Canvassing+Event&dates=20260708T233000Z%2F20260709T020000Z&location=1800+S+2000+W%2C+Syracuse%2C+UT+84075"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+Peter+Crosby&dates=20261007T003000Z%2F20261007T020000Z&location=2449+South+1520+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Town+Hall&dates=20260610T010000Z%2F20260610T023000Z&location=1800+W+2700+S%2C+Syracuse%2C+UT"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+-+House+of+Representative+Candidates&dates=20260923T000000Z%2F20260923T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+in+Syracuse&dates=20260715T004500Z%2F20260715T021500Z&location=1875+S+2000+W%2C+Syracuse%2C+UT+84075"
+},
+{
+"text": "Home",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "How to Win in Northern Utah",
+"href": "https://www.youngforhouse.com/events/how-to-win-in-northern-utah"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/bipartisan-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/canvassing-event?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/davis-derby-gala?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/fireside-chat?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/how-to-win-in-northern-utah?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/july-15-canvassing-event?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/july-22-canvassing-event?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/meet-greet-with-peter-crosby?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/neighborhood-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/town-hall-house-of-representative-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/town-hall-in-syracuse?format=ical"
+},
+{
+"text": "July 15 Canvassing Event",
+"href": "https://www.youngforhouse.com/events/july-15-canvassing-event"
+},
+{
+"text": "July 22 Canvassing Event",
+"href": "https://www.youngforhouse.com/events/july-22-canvassing-event"
+},
+{
+"text": "July 8 Canvassing Event",
+"href": "https://www.youngforhouse.com/events/canvassing-event"
+},
+{
+"text": "Meet & Greet with Peter Crosby",
+"href": "https://www.youngforhouse.com/events/meet-greet-with-peter-crosby"
+},
+{
+"text": "Neighborhood Town Hall",
+"href": "https://www.youngforhouse.com/events/neighborhood-town-hall"
+},
+{
+"text": "Purchase Tickets",
+"href": "https://secure.actblue.com/donate/derbygala"
+},
+{
+"text": "Town Hall - House of Representative Candidates",
+"href": "https://www.youngforhouse.com/events/town-hall-house-of-representative-candidates"
+},
+{
+"text": "Town Hall in Syracuse",
+"href": "https://www.youngforhouse.com/events/town-hall-in-syracuse"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/bipartisan-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/canvassing-event"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/davis-derby-gala"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/fireside-chat"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/how-to-win-in-northern-utah"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/july-15-canvassing-event"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/july-22-canvassing-event"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/meet-greet-with-peter-crosby"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/neighborhood-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/town-hall-house-of-representative-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.youngforhouse.com/events/town-hall-in-syracuse"
+},
+{
+"text": "[image: Bipartisan Forum]",
+"href": "https://www.youngforhouse.com/events/bipartisan-forum"
+},
+{
+"text": "[image: Brandon Young for Utah House of Representatives]",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "[image: Canvassing Blitz]",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz"
+},
+{
+"text": "[image: Canvassing Blitz]",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-1"
+},
+{
+"text": "[image: Canvassing Blitz]",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-2"
+},
+{
+"text": "[image: Davis County: Let's Talk]",
+"href": "https://www.youngforhouse.com/events/davis-county-lets-talk"
+},
+{
+"text": "[image: Davis Derby Gala]",
+"href": "https://www.youngforhouse.com/events/davis-derby-gala"
+},
+{
+"text": "[image: Fireside Chat]",
+"href": "https://www.youngforhouse.com/events/fireside-chat"
+},
+{
+"text": "[image: How to Win in Northern Utah]",
+"href": "https://www.youngforhouse.com/events/how-to-win-in-northern-utah"
+},
+{
+"text": "[image: July 15 Canvassing Event]",
+"href": "https://www.youngforhouse.com/events/july-15-canvassing-event"
+},
+{
+"text": "[image: July 22 Canvassing Event]",
+"href": "https://www.youngforhouse.com/events/july-22-canvassing-event"
+},
+{
+"text": "[image: July 8 Canvassing Event]",
+"href": "https://www.youngforhouse.com/events/canvassing-event"
+},
+{
+"text": "[image: Meet & Greet with Peter Crosby]",
+"href": "https://www.youngforhouse.com/events/meet-greet-with-peter-crosby"
+},
+{
+"text": "[image: Neighborhood Town Hall]",
+"href": "https://www.youngforhouse.com/events/neighborhood-town-hall"
+},
+{
+"text": "[image: Town Hall - House of Representative Candidates]",
+"href": "https://www.youngforhouse.com/events/town-hall-house-of-representative-candidates"
+},
+{
+"text": "[image: Town Hall in Syracuse]",
+"href": "https://www.youngforhouse.com/events/town-hall-in-syracuse"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bydirector"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577546979131"
+}
 ]

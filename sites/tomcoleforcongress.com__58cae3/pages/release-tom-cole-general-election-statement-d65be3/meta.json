@@ -1,7 +1,13 @@
 {
- "description": "(Norman, OK) \u2013 Tom Cole released the following statement upon winning the November 6th general election:",
+ "description": "(Norman, OK) – Tom Cole released the following statement upon winning the November 6th general election:",
  "final_url": "https://tomcoleforcongress.com/release-tom-cole-general-election-statement/",
- "paid_for_by": "Paid for by Cole for Congress Powered By Push Digital &copy; 2026",
+ "fingerprint": "e987a82c38b606e5002877d7411764be842a0a3b",
+ "format": 3,
+ "paid_for_by": "Paid for by Cole for Congress Powered By Push Digital © #",
  "title": "Release: Tom Cole General Election Statement - Tom Cole",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2021"
+ ]
 }

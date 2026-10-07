@@ -1,9 +1,9 @@
 {
  "description": "Explore Diomede with Neal Foster for State House. Join the journey towards a better community.",
  "final_url": "https://fosterforhouse.com/diomede",
- "paid_for_by": null,
+ "fingerprint": "e03aa7b1946faafe55021688aca3cb68c81398c3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Diomede",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

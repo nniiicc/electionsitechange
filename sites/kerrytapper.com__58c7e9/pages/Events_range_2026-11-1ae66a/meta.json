@@ -1,7 +1,11 @@
 {
  "description": "Kerry Tapper Campaign Events",
  "final_url": "https://www.kerrytapper.com/Events?range=2026-11",
- "paid_for_by": "Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI&nbsp; 49079 Powered by CampaignPartner",
+ "fingerprint": "e6ce46542742179e794d54a8c3140c9abbacbe83",
+ "format": 3,
+ "paid_for_by": "Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner",
  "title": "Kerry Tapper Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

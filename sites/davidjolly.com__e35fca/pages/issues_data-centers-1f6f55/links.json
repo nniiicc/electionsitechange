@@ -1,39 +1,154 @@
 [
-"https://davidjolly.com/",
-"https://davidjolly.com/about",
-"https://davidjolly.com/about-david",
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/contact",
-"https://davidjolly.com/es/issues/data-centers",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/from-the-trail",
-"https://davidjolly.com/get-involved",
-"https://davidjolly.com/ht/issues/data-centers",
-"https://davidjolly.com/issues",
-"https://davidjolly.com/issues/republicans-for-jolly",
-"https://davidjolly.com/media",
-"https://davidjolly.com/meet-gwen",
-"https://davidjolly.com/video",
-"https://davidjolly.com/where-david-stands",
-"https://everycrsreport.com/reports/R49057.html",
-"https://facebook.com/davidjollyflorida",
-"https://flsenate.gov/Laws/Statutes/2025/212.08",
-"https://instagram.com/davidjollyfl",
-"https://jlarc.virginia.gov/pdfs/presentations/Rpt598Pres-1.pdf",
-"https://local10.com/news/local/2026/07/15/project-tango-fuels-debate-over-floridas-first-hyperscale-ai-data-center",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-commissioners-reject-project-tango-ai-data-center-after-more-than-12-hours-of-debate",
-"https://wusf.org/politics-issues/2026-07-03/lakeland-releases-proposed-data-center-moratorium-ordinance",
-"https://x.com/davidjollyfl"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "About David Jolly",
+"href": "https://davidjolly.com/about/"
+},
+{
+"text": "Commentary",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "Congressional Research Service report R49057, Data Centers and Water",
+"href": "https://www.everycrsreport.com/reports/R49057.html"
+},
+{
+"text": "Contact",
+"href": "https://davidjolly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "ES",
+"href": "https://davidjolly.com/es/issues/data-centers/"
+},
+{
+"text": "From the Trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/issues/data-centers/"
+},
+{
+"text": "Issues",
+"href": "https://davidjolly.com/issues/"
+},
+{
+"text": "Join the Movement",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "LkldNow via WUSF",
+"href": "https://www.wusf.org/politics-issues/2026-07-03/lakeland-releases-proposed-data-center-moratorium-ordinance"
+},
+{
+"text": "Media",
+"href": "https://davidjolly.com/media/"
+},
+{
+"text": "Meet David",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "Republicans for Jolly",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "Store",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "The 2026 Race",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "Video",
+"href": "https://davidjolly.com/video/"
+},
+{
+"text": "Virginia Joint Legislative Audit and Review Commission, Data Centers in Virginia",
+"href": "https://jlarc.virginia.gov/pdfs/presentations/Rpt598Pres-1.pdf"
+},
+{
+"text": "WPLG Local 10",
+"href": "https://www.local10.com/news/local/2026/07/15/project-tango-fuels-debate-over-floridas-first-hyperscale-ai-data-center/"
+},
+{
+"text": "WPTV News Channel 5",
+"href": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-commissioners-reject-project-tango-ai-data-center-after-more-than-12-hours-of-debate"
+},
+{
+"text": "Where David Stands",
+"href": "https://davidjolly.com/where-david-stands/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+},
+{
+"text": "section 212.08(5)(r), Florida Statutes",
+"href": "https://www.flsenate.gov/Laws/Statutes/2025/212.08"
+}
 ]

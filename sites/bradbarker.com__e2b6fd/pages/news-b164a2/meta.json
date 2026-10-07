@@ -1,7 +1,9 @@
 {
  "description": "Stay up to date with all of the latest news and updates that voters should be concerned about right now with our news page!",
  "final_url": "https://bradbarker.com/news/",
- "paid_for_by": null,
+ "fingerprint": "82469f2ecbd5e3a2b0de4cafa06cacbef93a1e8a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News - Representative Brad Barker",
  "years_mentioned": []
 }

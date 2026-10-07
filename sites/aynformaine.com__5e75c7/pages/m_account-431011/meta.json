@@ -1,9 +1,9 @@
 {
  "description": "AYN HANSELMANN",
  "final_url": "https://aynformaine.com/m/login?r=%2Fm%2Faccount",
- "paid_for_by": null,
+ "fingerprint": "18865c2b657d6bc2ac7ad8529bc35d9182ebeacb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Login",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

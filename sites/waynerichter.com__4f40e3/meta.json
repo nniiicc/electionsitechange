@@ -1,7 +1,9 @@
 {
  "description": "Wayne Richter is a candidate for the Florida State House",
  "final_url": "https://www.waynerichter.com/",
- "paid_for_by": null,
+ "fingerprint": "263d86bf3fa84d35fbe04e5bf7b96b641b0abda0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Wayne Richter for State Representative",
  "years_mentioned": []
 }

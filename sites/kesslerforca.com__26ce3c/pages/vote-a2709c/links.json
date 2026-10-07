@@ -1,26 +1,118 @@
 [
-"https://caearlyvoting.sos.ca.gov/",
-"https://california.ballottrax.net/voter",
-"https://countyofmonterey.gov/government/departments-a-h/elections/elections/11-03-2026-general-election",
-"https://efundraisingconnections.com/c/KesslerforAssembly2026",
-"https://facebook.com/shannon.kessler1",
-"https://instagram.com/kesslerforca",
-"https://kesslerforca.com/",
-"https://kesslerforca.com/blog",
-"https://kesslerforca.com/event-list",
-"https://kesslerforca.com/join-the-team",
-"https://kesslerforca.com/join-the-team-1",
-"https://kesslerforca.com/news-update",
-"https://kesslerforca.com/priorities",
-"https://kesslerforca.com/privacy-policy",
-"https://kesslerforca.com/supporters",
-"https://kesslerforca.com/vote",
-"https://linkedin.com/in/shannon-kessler-4646baa",
-"https://registertovote.ca.gov/",
-"https://slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting",
-"https://voterstatus.sos.ca.gov/",
-"https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection.aspx",
-"https://wix.com/",
-"https://x.com/skessler1",
-"https://youtube.com/@Realshannonkessler"
+{
+"text": "About",
+"href": "https://www.kesslerforca.com"
+},
+{
+"text": "Blog",
+"href": "https://www.kesslerforca.com/blog"
+},
+{
+"text": "California D",
+"href": "https://www.kesslerforca.com"
+},
+{
+"text": "Check Your Registration",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Endorse Shannon",
+"href": "https://www.kesslerforca.com/join-the-team"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kesslerforca.com/supporters"
+},
+{
+"text": "Events",
+"href": "https://www.kesslerforca.com/event-list"
+},
+{
+"text": "Find Early Voting Sites",
+"href": "https://caearlyvoting.sos.ca.gov/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.kesslerforca.com/join-the-team-1"
+},
+{
+"text": "Kessler For",
+"href": "https://www.kesslerforca.com"
+},
+{
+"text": "Monterey County",
+"href": "https://www.countyofmonterey.gov/government/departments-a-h/elections/elections/11-03-2026-general-election"
+},
+{
+"text": "News",
+"href": "https://www.kesslerforca.com/news-update"
+},
+{
+"text": "Priorities",
+"href": "https://www.kesslerforca.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kesslerforca.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "San Luis Obispo County",
+"href": "https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting"
+},
+{
+"text": "Santa Cruz County",
+"href": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection.aspx"
+},
+{
+"text": "Support the campaign",
+"href": "https://www.efundraisingconnections.com/c/KesslerforAssembly2026"
+},
+{
+"text": "Track Your Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Vote",
+"href": "https://www.kesslerforca.com/vote"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/shannon.kessler1"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kesslerforca/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/shannon-kessler-4646baa/"
+},
+{
+"text": "[image: Shannon Kessler Logo]",
+"href": "https://www.kesslerforca.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/skessler1"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@Realshannonkessler"
+},
+{
+"text": "istrict 30",
+"href": "https://www.kesslerforca.com"
+},
+{
+"text": "kesslerforca@gmail.com",
+"href": "mailto:kesslerforca@gmail.com"
+}
 ]

@@ -1,6 +1,6 @@
-NRA Endorses Charlie Meier for State Rep
-OKAWVILLE, IL - The National Rifle Association Political Victory Fund released their 2026 endorsements and ratings, and Charlie Meier received their endorsement and an A+ rating.
+0 Skip to Content Home About Charlie News District Map Volunteer Contact Us DONATE HERE Open Menu Close Menu DONATE HERE Home About Charlie News District Map Volunteer Contact Us Open Menu Close Menu Home About Charlie News District Map Volunteer Contact Us DONATE HERE NRA Endorses Charlie Meier for State Rep Feb 21 Written By Stephen Stewart OKAWVILLE, IL - The National Rifle Association Political Victory Fund released their 2026 endorsements and ratings, and Charlie Meier received their endorsement and an A+ rating.
 “I am honored to be endorsed by the National Rifle Association PVF and earned an A+ rating based on my 100% pro-Second Amendment voting record,” said Charlie Meier.
 “I am a lifelong sportsman and gun owner and I know our Second Amendment rights are non-negotiable.
-From leading the charge to pass concealed carry in Illinois to fighting against woke liberals who try to strip away our gun rights, I will never waver in the fight to defend your right to bear arms in Springfield!”
-Meier is an outspoken advocate for the Second Amendment and has a strong record defending Southern Illinois values.
+From leading the charge to pass concealed carry in Illinois to fighting against woke liberals who try to strip away our gun rights, I will never waver in the fight to defend your right to bear arms in Springfield!” Meier is an outspoken advocate for the Second Amendment and has a strong record defending Southern Illinois values.
+Stephen Stewart Previous Previous State Representative Charlie Meier Endorsed by Madison County Leaders Next Next Charlie Meier Earns Endorsement from Farm Bureau © # Paid for by Citizens for Charlie Meier.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website(elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

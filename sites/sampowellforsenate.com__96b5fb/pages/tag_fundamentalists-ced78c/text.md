@@ -1,4 +1,4 @@
-I told you a little about my background.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Tag: fundamentalists “Clothed and in their right mind…” I told you a little about my background.
 I was the 2nd son of 6 boys in a fundamentalist, Christian nationalist church.
 We feared hippies, people of color, people with long hair and people who voted McGovern over Nixon.
 We called them communists.
@@ -6,8 +6,7 @@ I remember one particular Sunday.
 My father took all of us out to dinner after church.
 He was told that it was OK to go out to dinner because the Jews and the athiests could work on the Sabbath.
 (To be fair to my father, he lived long enough to outgrow a lot of these ideas and became a far better man as he learned and grew.
-I wish the rest of the GOP did)
-We were four boys and one baby sitting at the table in our Sunday best.
+I wish the rest of the GOP did) We were four boys and one baby sitting at the table in our Sunday best.
 We learned from quick and vicious discipline to fear the belt so we were “good”.
 There was a woman in her 70s that passed by our table and smiled at my mother and father.
 She said to them, “It is so nice to see a family clothed and in their right minds.” For some reason that stuck with me.
@@ -38,8 +37,7 @@ Every home I knew had the outward veneer of “clothed and in their right minds�
 One man I know from my childhood church would be frequently beaten until he bled.
 Everyone knew it.
 Everyone shook their heads sadly.
-Everyone said, “Through much tribulation we enter the kingdom of heaven.”
-When Stephen Miller speaks of the “leftist radical” hating beauty, he isn’t speaking about dignity, rose gardens, clean water, historical buildings, beautiful music…he is speaking of the outward veneer of “clothed and in their right minds”.
+Everyone said, “Through much tribulation we enter the kingdom of heaven.” When Stephen Miller speaks of the “leftist radical” hating beauty, he isn’t speaking about dignity, rose gardens, clean water, historical buildings, beautiful music…he is speaking of the outward veneer of “clothed and in their right minds”.
 With a big enough stick to beat wives and kids with, you can certainly put on that show.
 It makes small men like Miller feel like they are somehow more righteous than others.
 In fact, he actually said it outloud – “They are envious of our moral superiority”.
@@ -51,3 +49,6 @@ I will fight with every fiber of my being to protect human beings from your vici
 We’ve unclothed your righteous rags, and they have proven to be worthless and filthy.
 Slither back under that rock.
 The light has found you out.
+Author Sam Powell Posted on July 20, 2026 Categories Uncategorized Tags abuse , fundamentalists , leftists , stephen-miller Leave a comment on “Clothed and in their right mind…” Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

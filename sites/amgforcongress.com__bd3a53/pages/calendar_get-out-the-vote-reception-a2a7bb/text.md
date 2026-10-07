@@ -1,11 +1,4 @@
-Back to All Events
-NOTE: This event starts at 5PM Central/6PM Eastern.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Get Out The Vote Reception Wednesday, October 7, 2026 6:00 PM 7:30 PM Miccosukee Land Cooperative 9623 Land Co-Op Road Tallahassee, Florida, 32309 United States (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
 Join Amanda and our esteemed host committee for a Get out the Vote Reception ahead of early voting!
-RSVP recommended to shelby@amgforcongress.com
-Previous
-Previous
-October 6
-Leon/Wakulla Retired Educators Association Candidate Meet & Greet
-Next
-Next
-October 8
+RSVP recommended to shelby@amgforcongress.com Previous Previous October 7 TEAM AMG/VOLUNTEERS: Postcard Writing Next Next October 8 Madison County DEC/NAACP Candidates Forum TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

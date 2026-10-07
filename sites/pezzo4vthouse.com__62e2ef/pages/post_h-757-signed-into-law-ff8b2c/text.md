@@ -1,11 +1,13 @@
-H. 757 signed into law
+top of page Gayle Pezzo Representing CHI-20 Home About Newsletter Events Contact Donate Log In All Posts Search H.
+757 signed into law audriepoole Jun 21 3 min read I am pleased to share that the bill I introduced, (H.757, An Act Relating to Manufactured Homes and Limited-Equity Cooperatives) in the House General & Housing Committee was signed into law by the Governor on June 17, 2026 .
 Like many pieces of legislation, it evolved considerably as it moved through the House and Senate.
 While the final version of the bill is not everything I had hoped to achieve, it represents meaningful progress and establishes a strong foundation for future improvements.
 If re-elected, I look forward to building on this work and continuing the effort to advance these important reforms.
-Summary of the Bill:
-H.757 updates and modernizes Vermont laws related to manufactured homes and limited-equity cooperatives (LECs).
-The bill streamlines the transfer of ownership of manufactured homes, including deed transfers, and reinforces that manufactured homes must be treated the same as other residential housing under local
-zoning laws.
+Westbury Cooperative, Colchester.
+Photo credit Caleb Kenna Photography.
+"Mobile Home Mobilization - How trailer park residents are banding together against the speculative real estate market." In these Times, September 3 2025.
+Summary of the Bill: H.757 updates and modernizes Vermont laws related to manufactured homes and limited-equity cooperatives (LECs).
+The bill streamlines the transfer of ownership of manufactured homes, including deed transfers, and reinforces that manufactured homes must be treated the same as other residential housing under local zoning laws.
 The bill also sought to address the property tax assessment of resident-owned manufactured home limited-equity cooperatives, which provide affordable housing for low and moderate-income Vermonters.
 It originally required the Department of Taxes to inventory these cooperatives and evaluate whether they are being assessed fairly, equitably, and consistently across the state.
 The rationale for this provision was that current assessment practices appear to vary among municipalities and may not fully align with existing statutory requirements.
@@ -26,3 +28,9 @@ Updating the terminology throughout Vermont statutes also helps remove outdated 
 Recognizing manufactured homes as permanent residential structures supports homeowner dignity and encourages broader community acceptance.
 The bill states that manufactured homes will be permitted to be sited under the same conditions that stick-built homes are permitted to be sited.
 Finally, the Secretary of State’s Office, in coordination with other relevant agencies as needed, shall, upon request from a limited equity cooperative organized under 11 V.S.A. § 1598, update the cooperative’s registration to accurately reflect its corporate organizational structure and ensure eligibility for applicable grants and funding opportunities.
+Thank you to all the legislators, constituents, and advocates who supported this bill and recognized its importance as a meaningful step forward in expanding affordable homeownership opportunities and supporting responsible housing development throughout Vermont.
+Recent Posts See All Thank you for joining us, Colchester!
+Hello neighbors, On behalf of your Colchester Democratic candidates: House Representatives Doug Bishop, Gayle Pezzo, Sarita Austin, Wendy Critchlow, and Senate candidate Kim Gleason, we want to extend June 2026 – End of Session Legislative Update Provided by Colchester’s State Representatives Dear Neighbors, The second year of the 2-year legislative session is over, and we wanted to update you just some of the work undertaken this past year.
+As always, we invite your input on what is most The Governor’s Health Care Executive Order Join the list to stay up to date with important information from Colchester, Montpelier, and beyond!
+SUBSCRIBE Thanks for submitting!
+Home About Me Newsletter Events Contact Gayle Pezzo Chittenden -20 Paid for by Gayle Pezzo for House 110 Walden Rd, Colchester VT 05446 Sarah Jorgensen, Treasurer ​ gpezzo@leg.state.vt.us 802 448 0497 bottom of page

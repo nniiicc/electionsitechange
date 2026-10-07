@@ -1,25 +1,16 @@
-Kevin McCormick for Texas Lieutenant Governor
-I am running on the Green Party ticket for Texas Lieutenant Governor.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Details Kevin McCormick for Texas Lieutenant Governor I am running on the Green Party ticket for Texas Lieutenant Governor.
 The best thing you can do to help this campaign is tell your friends and other people that you intend to vote for me, Kevin McCormick, for Lieutenant Governor.
 Then ask them to tell their friends and other people as well.
 I expect little or no coverage in the corporate media, so my campaign will depend on word of mouth publicity.
-Help My Campaign
-Give out business cards
-Use your vote to say you want a new and better direction in Texas government.
-As Lieutenant Governor my commitment will be to serve the public interest.
-I think of the public interest as:
-- healthy people – do we have access to nutritious food, affordable shelter, and healthy activities?
-- healthy society – do we have economic security, opportunities for growth, and useful public services?
-- healthy environment – because we live in the environment.
+Help My Campaign Give out business cards Use your vote to say you want a new and better direction in Texas government.
+As Lieutenant Governor my commitment will be to serve the public interest .
+I think of the public interest as: healthy people – do we have access to nutritious food, affordable shelter, and healthy activities? healthy society – do we have economic security, opportunities for growth, and useful public services? healthy environment – because we live in the environment.
 The public interest is not simply a good idea — the public interest is a guiding principal that qualifies legislation and keeps special interests in check.
 The question is whether legislation protects health and develops resilience and sustainability to assure a good quality of life for every Texan.
 I will strive to replace partisan division with a shared sense of civic duty, civic pride, and environmental responsibility.
 I will strive to increase the resources that are accessible to ordinary Texans and to reduce economic insecurity.
 The Texas Lieutenant Governor is President of the Texas Senate and appoints members to the Senate committees and refers bills to the committees.
-If I am selected by the voters, I will give these three items the highest priority in passing legislation:
-- Invest in public transportation by expanding bus fleets in Texas cities to reduce traffic congestion and make alternatives available;
-- Invest in the rural economy to establish family farm greenhouse food production cooperatives, provide a solid foundation for hemp production and processing, improve infrastructure and promote sustainable agriculture; and
-- Reform the Election Code to adopt ranked-choice voting in all elections, establish a statewide single primary election for candidates, and meaningfully limit gerrymandering of electoral districts.
+If I am selected by the voters, I will give these three items the highest priority in passing legislation: Invest in public transportation by expanding bus fleets in Texas cities to reduce traffic congestion and make alternatives available; Invest in the rural economy to establish family farm greenhouse food production cooperatives, provide a solid foundation for hemp production and processing, improve infrastructure and promote sustainable agriculture; and Reform the Election Code to adopt ranked-choice voting in all elections, establish a statewide single primary election for candidates, and meaningfully limit gerrymandering of electoral districts.
 I will also work to reform the property tax system by changing the property appraisal method to "rent or lease value" from the current method of "comparable sales" and eliminate special interest and counter-productive property tax exemptions.
 Besides correcting property tax unfairness, Texans need a new vision for public education policy and health care policy.
 It is now obvious that we must develop more ways to conserve and protect our water resources.
@@ -40,4 +31,13 @@ I am hoping to receive as many votes as possible so there is a mandate for polic
 While the establishment parties compete for the spoils of managing the public, I want to the priority to become serving the public interest.
 The more votes I receive the more likely it becomes that the Texas state government will put people over special interests.
 Please tell others that you plan to vote for me for Lieutenant Governor in 2026.
-Thank you
+Thank you Choose Language Select your language Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief © # Kevin McCormick for Lt.
+Governor.
+All Rights Reserved. | Privacy Policy | Contact

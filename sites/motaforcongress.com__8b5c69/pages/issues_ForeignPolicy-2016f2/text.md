@@ -1,19 +1,7 @@
-Priorities
-Foreign Policy
-The United States is the only nation with over 750 military bases in 80 different countries, which has led to cruel and lethal foreign policy.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement Priorities Foreign Policy The United States is the only nation with over 750 military bases in 80 different countries , which has led to cruel and lethal foreign policy.
 In fact, since 1945 the U.S. has attempted to overthrow more than 50 foreign governments resulting in the uprooting of communities and the massacre of many.
 Additionally, the military bases around the world have wreaked havoc on the health and well-being of neighborhoods and communities, including children due to dumping and the burial of untreated toxic waste.
 Yet, the government refuses to take accountability.
-As a result, foreign policy has reprimanded our own civil liberties by eroding freedom and privacy.
+As a result, foreign policy has reprimanded our own civil liberties by eroding freedom and privacy .
 Because of this, I will advocate and bring forth legislation that prohibits warrantless surveillance of citizens and holds federal officials accountable for violating the law.
-Some of the first policies I will co-sponsor are:
-- The American Privacy Restoration Act
-- The Fourth Amendment Restoration Act
-- Repeal the Foreign Surveillance Act (FISA)
-- The Protect Liberty and End Warrantless Surveillance Act
-- Rescind the Authorization for Use of Force (AUMF)
-- Revoke the Logan Act
-- Repeal Trump Tariffs
-- Protect Our Civil Liberties Act
-- End Foreign Aid + total arms embargo
-- Enforce Leahy Law and Foreign Assistance Act
+Some of the first policies I will co-sponsor are: The American Privacy Restoration Act The Fourth Amendment Restoration Act Repeal the Foreign Surveillance Act (FISA) The Protect Liberty and End Warrantless Surveillance Act Rescind the Authorization for Use of Force (AUMF) Revoke the Logan Act Repeal Trump Tariffs Protect Our Civil Liberties Act End Foreign Aid + total arms embargo Enforce Leahy Law and Foreign Assistance Act hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

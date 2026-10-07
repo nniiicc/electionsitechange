@@ -1,25 +1,12 @@
-Meet Genevieve
-Hi there!
+0 Skip to Content About Contact Open Menu Close Menu About Contact Open Menu Close Menu About Contact Meet Genevieve Hi there!
 I’m a lifelong Alaskan, political aide, community advocate, and proud daughter of Filipino immigrants who bought their first home in Airport Heights.
 My family operated assisted living homes in the neighborhood for almost two decades.
 I grew up in my family’s small business, graduated from Bettye Davis East High School and UAA, and am now a homeowner in Mountain View.
-As a teenager, I helped my family navigate their assisted living home business and discovered a lifelong passion: bridging policy and people.
+As a teenager, I helped my family navigate their assisted living home business and discovered a lifelong passion: bridging policy and people .
 I have nearly a decade of political experience: staffing elected officials in the Anchorage Assembly and Alaska Legislature, working on health policy, organizing underrepresented voices in our democracy, and leading the Alaska Young Democrats.
-LEGISLATIVE ACCOMPLISHMENTS
-- Supported BSA increase and defined benefits
-- Championed the passage of three bills to:
-- Improve SNAP, feeding more Alaskans while saving time and costs
-- Allow Medicaid to pay family caregivers
-- Celebrate Filipino American History Month
-- Fought for better snow plowing
-- Increased behavioral health funding
-- Advocated for pro-choice and pro-LGBTQ+ policies
-priorities
-- Protect the Permanent Fund and PFD by passing new revenues
-- Fully fund education from Pre-K to UAA and trade schools
-- Address high costs of child care, housing, energy, and health care
-- Improve government services and pass pension reform for state employees
-- Strengthen neighborhoods through safe streets and parks
-- Support local business and grow Alaska's workforce
-- Invest in renewables and preserve our lands and waters
-Text messaging originator opt-in data and consent information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+LEGISLATIVE ACCOMPLISHMENTS Supported BSA increase and defined benefits Championed the passage of three bills to: Improve SNAP , feeding more Alaskans while saving time and costs Allow Medicaid to pay family caregivers Celebrate Filipino American History Month Fought for better snow plowing Increased behavioral health funding Advocated for pro-choice and pro-LGBTQ+ policies priorities Protect the Permanent Fund and PFD by passing new revenues Fully fund education from Pre-K to UAA and trade schools Address high costs of child care, housing, energy, and health care Improve government services and pass pension reform for state employees Strengthen neighborhoods through safe streets and parks Support local business and grow Alaska's workforce Invest in renewables and preserve our lands and waters Why I’m running I am running for re-election because House District 19 deserves representation AND results .
+As a freshman legislator, I passed three bipartisan pieces of legislation that improve SNAP, allow family caregivers to be paid by Medicaid, and enshrine Filipino American History Month in state law.
+From cleaning up trash dumps, maintaining a strong presence at community events, or pushing for better snow plowing – I’ve stayed connected to the needs of our community.
+I know there’s a bright future here with the right leadership.
+I’m running to continue serving the area that raised me, and I’ll continue fighting to build a future Alaskans want to live in.
+Learn More Experience Former Program Director for Build Back Better, Alaska Former Legislative Aide for Representative Ivy Spohnholz’s, successfully carrying bipartisan legislation to expand telehealth in Alaska (HB 265) Former Communications Specialist for Alaska Primary Care Association UAA Seawolf Debate alum President of Alaska Young Democrats since 2019 Co-founder of Alaska Asian Pacific Island Desi Americans (AKAPIDA) Board Member of The Alaska Center and Alaska Public Interest Research Group At-Large Member of Airport Heights Community Council Steering Committee Member of Alaska Women Ascend Former Board Member of the Public Transportation Advisory Board Text messaging originator opt-in data and consent information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process. bridge-builder Dedicated New Energy Committed to community Paid for by alaskans for genevieve PO Box 211696, Anchorage, AK 99521

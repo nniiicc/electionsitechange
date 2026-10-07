@@ -1,7 +1,5 @@
-Raising the Child Tax Credit Is a Bad Idea
-Real tax relief can only come with a reduction in government spending
-Both Kamala Harris and J.D.
-Vance have proposed raising the child tax credit, and the Wall Street Journal (https://www.wsj.com/opinion/j-d-vance-child-tax-credit-5000-cbs-donald-trump-kamala-harris-tim-walz-8e227ca2?mod=opinion_lead_pos3 and https://www.wsj.com/opinion/kamala-harris-will-pay-you-not-to-work-7e8d4f02?mod=WTRN_pos1&cx_testId=3&cx_testVariant=cx_171&cx_artPos=0) rightly describes their proposals as steps toward a universal basic income.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Raising the Child Tax Credit Is a Bad Idea Aug 28 Written By Guest User Real tax relief can only come with a reduction in government spending Both Kamala Harris and J.D.
+Vance have proposed raising the child tax credit, and the Wall Street Journal ( https://www.wsj.com/opinion/j-d-vance-child-tax-credit-5000-cbs-donald-trump-kamala-harris-tim-walz-8e227ca2?mod=opinion_lead_pos3 and https://www.wsj.com/opinion/kamala-harris-will-pay-you-not-to-work-7e8d4f02?mod=WTRN_pos1&cx_testId=3&cx_testVariant=cx_171&cx_artPos= 0) rightly describes their proposals as steps toward a universal basic income.
 Coming from both Democrats and Republicans, such proposals indicate that we already have forms of universal basic in our existing child tax credit and earned income tax credit.
 The terms of the debate are not about whether to have a universal basic income, but about how to structure it.
 The difficulty with Harris’s and Vance’s proposals is that they are imagining the universal basic income to be an addition to our existing social welfare policies.
@@ -32,3 +30,9 @@ My plan would give everyone, both working and non-working, the same benefit.
 Rather than creating a new entitlement, we would be eliminating all entitlements and giving the money back to the people.
 This system would provide all of us with the same freedom to invest in our own success, providing hope and opportunity to all Americans, regardless of their background.
 Please support my campaign by donating or volunteering at DavidPanforCongress.com.
+Guest User Previous Previous Helping our immigrants by creating opportunities Next Next Reforming Social Security to guarantee benefits into the future Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

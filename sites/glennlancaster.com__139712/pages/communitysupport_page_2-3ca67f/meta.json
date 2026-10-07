@@ -1,7 +1,11 @@
 {
  "description": "Read endorsements and testimonials supporting Glenn Lancaster's campaign from community leaders and organizations.",
  "final_url": "https://glennlancaster.com/communitysupport/page/2/",
- "paid_for_by": "Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351",
+ "fingerprint": "aedc99d192a0a7a9637cc085488f0a2d9d609105",
+ "format": 3,
+ "paid_for_by": "Paid for by Love Where You Live #23304",
  "title": "Community Support - Glenn Lancaster",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

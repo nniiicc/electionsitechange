@@ -1,21 +1,22 @@
-About Bryson
-An authentic servant leader.
-I’m running to be your next House Representative in District 21.
-For the past 20 years, my wife Melissa and I have run a local small business right here in our district.
+top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
+Blog Asian Americans for Bryson Bryson refuses all PAC money.
+When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
+About Bryson An authentic servant leader.
+I’m running to be your next House Representative in District 21. ​ For the past 20 years, my wife Melissa and I have run a local small business right here in our district.
 In that time, we’ve had the privilege of teaching thousands of your children martial arts and leadership.
 We’ve partnered with families to build character, confidence, discipline, and the soft skills that help young people thrive long after they leave our mats.
-Parents tell us that our training has been integral to their success.
-I've also had the privilege of being entrusted with the Cybersecurity of critical Healthcare, Military and Government assets as a Cybersecurity Engineer.
-I held a Top Secret Clearance and even a polygraph.
-District 21 is a beautifully diverse part of Apex and Cary North Carolina, and roughly 80% of our students come from Asian families.
+Parents tell us that our training has been integral to their success. ​ I've also had the privilege of being entrusted with the Cybersecurity of critical Healthcare, Military and Government assets as a Cybersecurity Engineer.
+I held a Top Secret Clearance and even a polygraph. ​ ​ District 21 is a beautifully diverse part of Apex and Cary North Carolina, and roughly 80% of our students come from Asian families.
 Cary and Apex Voters are a diverse group.
 Over two decades, we’ve gained deep admiration for our Asian community.
-One thing we’ve learned is this: you are not a monolithic group, and no one should treat you like one just to score political points.There is tremendous diversity among our Asian residents—different cultures, different journeys, and different viewpoints.
+One thing we’ve learned is this: you are not a monolithic group, and no one should treat you like one just to score political points.​There is tremendous diversity among our Asian residents—different cultures, different journeys, and different viewpoints.
 But many families share a few powerful values: strong family commitment, respect for teachers, dedication to education, and an incredible work ethic.
 Those values have strengthened our school and our community.
 My promise is simple:I will never reduce you to a political category.I will listen to you, work for you, and focus on policies that matter to all families—lowering costs, protecting your children, strengthening public safety, and supporting education.This election should be about trust, integrity, and shared values.
 I don’t believe Representative Liu’s record reflects the values of District 21 or North Carolina.
 Her law license was suspended and was stayed under monitoring for three years.
-That’s a serious matter for anyone seeking public trust.
-You deserve a representative who doesn’t need oversight—someone who has already served this community with transparency, consistency, and dedication for two decades.I’ve worked hard for thousands of your families over the last 20 years.
+That’s a serious matter for anyone seeking public trust.​ You deserve a representative who doesn’t need oversight—someone who has already served this community with transparency, consistency, and dedication for two decades.I’ve worked hard for thousands of your families over the last 20 years.
 I’ll work even harder for you in the State House.Let’s bring common sense, respect, and unity back to North Carolina—together.
+Served the District and Supported Charities for 20 Years Married to middle school sweetheart for 24 years with one son.
+Author Martial Arts Master Cyber Security Engineer Servant Leader running for the Exhausted Majority who aren't FAR RIGHT or LEFT.
+Bryson Johnson - FOR NC STATE HOUSE- DISTRICT 21 PAID FOR BY COMMITTEE TO ELECT BRYSON JOHNSON © # by Committee to Elect Bryson Johnson BrysonForNC@gmail.com Call or Text: 919-396-4244 bottom of page

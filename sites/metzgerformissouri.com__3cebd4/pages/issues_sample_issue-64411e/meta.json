@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://metzgerformissouri.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "219390bd2757b61d7303bd35237b22fb9ea88d71",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Healthcare Everybody Can Use",
  "years_mentioned": []
 }

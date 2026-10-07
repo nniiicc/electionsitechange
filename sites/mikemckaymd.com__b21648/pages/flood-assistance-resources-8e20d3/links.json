@@ -1,40 +1,210 @@
 [
-"https://alleganygov.org/",
-"https://alleganygov.org/168/Emergency-Services",
-"https://alleganygov.org/228/Public-Works",
-"https://alleganygov.org/254/Utilities-Division",
-"https://alleganygov.org/Directory.aspx",
-"https://alleganygov.org/directory.aspx?did=10",
-"https://breezeline.com/contact-us",
-"https://columbiagasmd.com/help/help-center/contact-us",
-"https://facebook.com/MikeMcKayMD",
-"https://fema.gov/",
-"https://firstenergycorp.com/potomac_edison.html",
-"https://marylandcomptroller.gov/",
-"https://mda.maryland.gov/about_mda/pages/staff-directory.aspx",
-"https://mdem.maryland.gov/Pages/Power-Outages.aspx",
-"https://mdfoodbank.org/ways-to-give/food-drives/delivery-locations",
-"https://mikemckaymd.com/",
-"https://mikemckaymd.com/about",
-"https://mikemckaymd.com/articles",
-"https://mikemckaymd.com/contact",
-"https://mikemckaymd.com/events",
-"https://mikemckaymd.com/flood-assistance-resources",
-"https://mikemckaymd.com/mike-mckay-legislation",
-"https://mikemckaymd.com/privacy-policy-2",
-"https://mikemckaymd.com/scholarships",
-"https://mikemckaymd.com/volunteer",
-"https://mikemckaymd.com/wp-content/uploads/2026/04/Georges-Creek-Task-Force-Action-Report-Funding-and-Policy-Intent-Written-Testimony-BT.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2026/04/Georges-Creek-Task-Force-Draft-Report-10-27-25.pdf",
-"https://mikemckaymd.com/wp-content/uploads/2026/04/Senator-McKay_Georges-Creek-Intent-Language_02-19-26.pdf",
-"https://redcross.org/local/west-virginia.html?srsltid=AfmBOopxpgXyRiDGHPzNlkaBdFALe-yiANfldUXwUBwQQ-wCUx7BQLjF",
-"https://samaritanspurse.org/operation-christmas-child/occ-regional-offices",
-"https://sba.gov/district/baltimore",
-"https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate",
-"https://ssa.gov/",
-"https://umcmission.org/umcor",
-"https://verizon.com/support",
-"https://votegtr.com/",
-"https://x.com/mikemckaymd",
-"https://xfinity.com/support/contact-us"
+{
+"text": "Baltimore | U.S. Small Business Administration",
+"href": "https://www.sba.gov/district/baltimore"
+},
+{
+"text": "Central Appalachia Region | American Red Cross",
+"href": "https://www.redcross.org/local/west-virginia.html?srsltid=AfmBOopxpgXyRiDGHPzNlkaBdFALe-yiANfldUXwUBwQQ-wCUx7BQLjF"
+},
+{
+"text": "Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Contact Us - Columbia Gas of Maryland",
+"href": "https://www.columbiagasmd.com/help/help-center/contact-us"
+},
+{
+"text": "Contact Us | Use Chat or Phone our support team | Breezeline",
+"href": "https://www.breezeline.com/contact-us"
+},
+{
+"text": "Contact your Regional Office",
+"href": "https://www.samaritanspurse.org/operation-christmas-child/occ-regional-offices/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/e373f385-3868-455f-8c59-613dda62bde1/donate"
+},
+{
+"text": "Emergency Services | Allegany County, MD",
+"href": "https://www.alleganygov.org/168/Emergency-Services"
+},
+{
+"text": "Events",
+"href": "https://mikemckaymd.com/events/"
+},
+{
+"text": "Events Attend an event w/ Sen. Mike McKay",
+"href": "https://mikemckaymd.com/events"
+},
+{
+"text": "Food Delivery Locations | Maryland Food Bank",
+"href": "https://mdfoodbank.org/ways-to-give/food-drives/delivery-locations/"
+},
+{
+"text": "Georges Creek Flood Response",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Georges Creek Flood Response Contact Info",
+"href": "https://mikemckaymd.com/flood-assistance-resources/"
+},
+{
+"text": "Home",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "Home | FEMA.gov",
+"href": "https://www.fema.gov/"
+},
+{
+"text": "Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikemckaymd.com/about/"
+},
+{
+"text": "News & Updates",
+"href": "https://mikemckaymd.com/articles/"
+},
+{
+"text": "Office",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Office Contact Here's how to find us",
+"href": "https://mikemckaymd.com/contact/"
+},
+{
+"text": "Power Outages",
+"href": "https://mdem.maryland.gov/Pages/Power-Outages.aspx"
+},
+{
+"text": "Powered by VOTEGTR",
+"href": "https://votegtr.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikemckaymd.com/privacy-policy-2/"
+},
+{
+"text": "Public Works | Allegany County, MD",
+"href": "https://www.alleganygov.org/228/Public-Works"
+},
+{
+"text": "Senate Scholarship Program",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Senate Scholarship Program Information on how to apply",
+"href": "https://mikemckaymd.com/scholarships/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "Sponsored Legislation Bills sponsored by Sen. McKay",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/#Sponsored_Legislation"
+},
+{
+"text": "Staff Directory",
+"href": "https://mda.maryland.gov/about_mda/pages/staff-directory.aspx"
+},
+{
+"text": "Staff Directory • Allegany County, MD • CivicEngage",
+"href": "https://www.alleganygov.org/Directory.aspx"
+},
+{
+"text": "Staff Directory • Emergency Services",
+"href": "https://www.alleganygov.org/directory.aspx?did=10"
+},
+{
+"text": "Support Home",
+"href": "https://www.verizon.com/support/"
+},
+{
+"text": "The Latest News District 1 news & media coverage",
+"href": "https://mikemckaymd.com/articles"
+},
+{
+"text": "The United States Social Security Administration | SSA",
+"href": "https://www.ssa.gov/"
+},
+{
+"text": "Utilities Division | Allegany County, MD",
+"href": "https://www.alleganygov.org/254/Utilities-Division"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://mikemckaymd.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Voting Record Every vote Sen. Mike McKay has voted on",
+"href": "https://mikemckaymd.com/mike-mckay-legislation/"
+},
+{
+"text": "Xfinity Customer Service - Contact Us",
+"href": "https://www.xfinity.com/support/contact-us"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/wp-content/uploads/2026/04/Georges-Creek-Task-Force-Action-Report-Funding-and-Policy-Intent-Written-Testimony-BT.pdf"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/wp-content/uploads/2026/04/Georges-Creek-Task-Force-Draft-Report-10-27-25.pdf"
+},
+{
+"text": "[image]",
+"href": "https://mikemckaymd.com/wp-content/uploads/2026/04/Senator-McKay_Georges-Creek-Intent-Language_02-19-26.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeMcKayMD"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikemckaymd"
+},
+{
+"text": "https://umcmission.org/umcor/",
+"href": "https://umcmission.org/umcor/"
+},
+{
+"text": "https://www.alleganygov.org",
+"href": "https://www.alleganygov.org/"
+},
+{
+"text": "https://www.firstenergycorp.com/potomac_edison.html",
+"href": "https://www.firstenergycorp.com/potomac_edison.html"
+},
+{
+"text": "https://www.marylandcomptroller.gov",
+"href": "https://www.marylandcomptroller.gov/"
+}
 ]

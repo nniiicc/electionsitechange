@@ -1,10 +1,42 @@
 [
-"https://jrbird.org/",
-"https://jrbird.org/cart",
-"https://jrbird.org/home",
-"https://jrbird.org/meetjr",
-"https://jrbird.org/pageqa",
-"https://jrbird.org/priorities",
-"https://jrbird.org/volunteer",
-"https://secure.anedot.com/jrbird-org/donate"
+{
+"text": "0",
+"href": "https://jrbird.org/cart"
+},
+{
+"text": "Contact",
+"href": "https://jrbird.org/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jrbird-org/donate"
+},
+{
+"text": "Home",
+"href": "https://jrbird.org/"
+},
+{
+"text": "Home",
+"href": "https://jrbird.org/home"
+},
+{
+"text": "Join the Team",
+"href": "https://jrbird.org/volunteer"
+},
+{
+"text": "Meet JR",
+"href": "https://jrbird.org/meetjr"
+},
+{
+"text": "Priorities",
+"href": "https://jrbird.org/priorities"
+},
+{
+"text": "Q&A",
+"href": "https://jrbird.org/pageqa"
+},
+{
+"text": "[image: JR Bird for Utah House District 67]",
+"href": "https://jrbird.org/"
+}
 ]

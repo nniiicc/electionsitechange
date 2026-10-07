@@ -1,40 +1,198 @@
 [
-"https://act.chrispappas.org/signup/take_action_pappas_campaign",
-"https://bsky.app/profile/chrispappasnh.bsky.social",
-"https://chrispappas.org/",
-"https://chrispappas.org/2025/04/chris-pappas-launches-campaign-for-u-s-senate",
-"https://chrispappas.org/2025/04/former-governor-john-lynch-dr-susan-lynch-and-julia-williams-endorse-chris-pappas-for-u-s-senate",
-"https://chrispappas.org/2025/04/international-brotherhood-of-electrical-workers-ibew-local-unions-representing-8000-nh-members-and-families-endorse-chris-pappas",
-"https://chrispappas.org/2025/04/stefany-shaheen-endorses-chris-pappas-for-u-s-senate",
-"https://chrispappas.org/2025/05/former-congresswoman-annie-kuster-endorses-chris-pappas-for-u-s-senate",
-"https://chrispappas.org/2025/07/chris-pappas-for-senate-announces-fundraising-haul-of-1-8-million",
-"https://chrispappas.org/2025/07/giffords-pac-endorses-chris-pappas-for-u-s-senate",
-"https://chrispappas.org/2025/07/roundup-chris-pappas-criss-crosses-new-hampshire-to-hear-how-donald-trumps-agenda-is-hurting-granite-staters",
-"https://chrispappas.org/2025/08/icymi-chris-pappas-visits-flight-coffee-to-discuss-how-donald-trumps-tariffs-are-impacting-small-businesses",
-"https://chrispappas.org/2025/09/statement-from-congressman-chris-pappas-in-response-to-trump-influenced-gop-redistricting-push-in-new-hampshire",
-"https://chrispappas.org/about",
-"https://chrispappas.org/contact",
-"https://chrispappas.org/endorsements",
-"https://chrispappas.org/news",
-"https://chrispappas.org/news/page/12",
-"https://chrispappas.org/news/page/13",
-"https://chrispappas.org/priorities",
-"https://chrispappas.org/priority/anti-corruption-agenda",
-"https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint",
-"https://chrispappas.org/privacy-policy",
-"https://facebook.com/pappasfornh",
-"https://instagram.com/pappasfornh",
-"https://middleseat.co/",
-"https://secure.actblue.com/donate/cps_web",
-"https://secure.actblue.com/donate/cps_web?amount=10",
-"https://secure.actblue.com/donate/cps_web?amount=100",
-"https://secure.actblue.com/donate/cps_web?amount=25",
-"https://secure.actblue.com/donate/cps_web?amount=250",
-"https://secure.actblue.com/donate/cps_web?amount=500",
-"https://store.chrispappas.org/",
-"https://substack.com/@chrispappasnh",
-"https://threads.com/@pappasfornh",
-"https://tiktok.com/@chrispappasnh",
-"https://x.com/chrispappasnh",
-"https://youtube.com/@ChrisPappasNH"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "1",
+"href": "https://chrispappas.org/news/"
+},
+{
+"text": "12",
+"href": "https://chrispappas.org/news/page/12/"
+},
+{
+"text": "13",
+"href": "https://chrispappas.org/news/page/13/"
+},
+{
+"text": "15",
+"href": "https://chrispappas.org/news/page/15/"
+},
+{
+"text": "Anti-Corruption Agenda",
+"href": "https://chrispappas.org/priority/anti-corruption-agenda/"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/chrispappasnh.bsky.social"
+},
+{
+"text": "Chris Pappas for Senate Announces Fundraising Haul of $1.8 Million Press Release July 11, 2025 Ninety-two percent of the contributions were $100 or less, and contributions came from supporters in 190 towns and cities across New Hampshire",
+"href": "https://chrispappas.org/2025/07/chris-pappas-for-senate-announces-fundraising-haul-of-1-8-million/"
+},
+{
+"text": "Chris Pappas for Senate [image: Chris Pappas U.S. Senate]",
+"href": "https://chrispappas.org"
+},
+{
+"text": "Contact",
+"href": "https://chrispappas.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Endorsements",
+"href": "https://chrispappas.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/pappasfornh/"
+},
+{
+"text": "Former Congresswoman Annie Kuster Endorses Chris Pappas for U.S. Senate Press Release May 1, 2025 Today, former Congresswoman Annie Kuster (NH-02) endorsed Chris Pappas for the U.S. Senate. Kuster represented New Hampshire’s 2nd Congressional District from 2013 until 2025 and served as the Chair of the New Democrat Coalition during the 118th Congress. “I have known Chris for …",
+"href": "https://chrispappas.org/2025/05/former-congresswoman-annie-kuster-endorses-chris-pappas-for-u-s-senate/"
+},
+{
+"text": "Former Governor John Lynch, Dr. Susan Lynch, and Julia Williams Endorse Chris Pappas for U.S. Senate Press Release April 28, 2025 MANCHESTER, NH – Today, members of the Lynch family, including former Governor John Lynch, Dr. Susan Lynch, and Julia Williams, endorsed Chris Pappas for U.S. Senate. “Our family has known Chris Pappas for years and we are …",
+"href": "https://chrispappas.org/2025/04/former-governor-john-lynch-dr-susan-lynch-and-julia-williams-endorse-chris-pappas-for-u-s-senate/"
+},
+{
+"text": "GIFFORDS PAC Endorses Chris Pappas for U.S. Senate Press Release July 29, 2025 WASHINGTON — Today, GIFFORDS PAC, the national gun safety organization founded by former Congresswoman Gabrielle Giffords, endorsed Representative Chris Pappas for U.S. Senate. Now in his fourth term serving the people of New Hampshire’s 1st congressional …",
+"href": "https://chrispappas.org/2025/07/giffords-pac-endorses-chris-pappas-for-u-s-senate/"
+},
+{
+"text": "Home",
+"href": "https://chrispappas.org/"
+},
+{
+"text": "ICYMI: Chris Pappas Canvasses with Granite Staters Ahead of the Municipal Elections Press Release October 28, 2025 MANCHESTER, NH — In case you missed it, Congressman Chris Pappas has been canvassing across the Granite State in support of local candidates in Berlin, Manchester, and Nashua ahead of the November municipal elections. This weekend, he also met …",
+"href": "https://chrispappas.org/2025/10/icymi-chris-pappas-canvasses-with-granite-staters-ahead-of-the-municipal-elections/"
+},
+{
+"text": "ICYMI: Chris Pappas Visits Flight Coffee to Discuss How Donald Trump’s Tariffs are Impacting Small Businesses Press Release August 22, 2025 GOFFSTOWN, NH – In case you missed it, Congressman Chris Pappas visited Flight Coffee in Goffstown this week to speak with owners Claudia and Jim Barrett about how Donald Trump’s tariffs are impacting their business. Trump’s …",
+"href": "https://chrispappas.org/2025/08/icymi-chris-pappas-visits-flight-coffee-to-discuss-how-donald-trumps-tariffs-are-impacting-small-businesses/"
+},
+{
+"text": "ICYMI: Granite State Veterans Support Chris Pappas Press Release November 26, 2025 MANCHESTER, NH — In case you missed it, during this year’s National Veterans and Military Families Month, Granite State veterans shared their support for Congressman Chris Pappas’s campaign for Senate because of his work in Congress supporting New Hampshire’s …",
+"href": "https://chrispappas.org/2025/11/icymi-granite-state-veterans-support-chris-pappas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pappasfornh/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrispappas.org/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "News",
+"href": "https://chrispappas.org/news/"
+},
+{
+"text": "Next »",
+"href": "https://chrispappas.org/news/page/15/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Priorities",
+"href": "https://chrispappas.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "ROUNDUP: Chris Pappas Criss-Crosses New Hampshire to Hear How Donald Trump’s Agenda is Hurting Granite Staters Press Release July 18, 2025 MANCHESTER, NH – Congressman Chris Pappas criss-crossed the state to hear directly from people in New Hampshire about how Donald Trump’s agenda is hurting Granite Staters. Donald Trump’s budget bill, which was signed into law earlier …",
+"href": "https://chrispappas.org/2025/07/roundup-chris-pappas-criss-crosses-new-hampshire-to-hear-how-donald-trumps-agenda-is-hurting-granite-staters/"
+},
+{
+"text": "ROUNDUP: Chris Pappas Knocks Doors, Talks to Voters Ahead of Municipal Elections Press Release November 4, 2025 MANCHESTER, NH — Over the weekend, Congressman Chris Pappas continued his canvassing streak and joined local candidates and volunteers in his hometown of Manchester to knock doors ahead of today’s municipal elections. Congressman Pappas has spent …",
+"href": "https://chrispappas.org/2025/11/roundup-chris-pappas-knocks-doors-talks-to-voters-ahead-of-municipal-elections/"
+},
+{
+"text": "Statement from Congressman Chris Pappas in Response to Trump-Influenced GOP Redistricting Push in New Hampshire Press Release September 18, 2025 MANCHESTER, NH — In response to legislation proposed by State Senator Dan Innis to gerrymander New Hampshire’s congressional districts in favor of Republicans ahead of the midterm election, Congressman Chris Pappas released the following statement: “We …",
+"href": "https://chrispappas.org/2025/09/statement-from-congressman-chris-pappas-in-response-to-trump-influenced-gop-redistricting-push-in-new-hampshire/"
+},
+{
+"text": "Store",
+"href": "https://store.chrispappas.org/"
+},
+{
+"text": "Substack",
+"href": "https://substack.com/@chrispappasnh"
+},
+{
+"text": "Take Action",
+"href": "https://act.chrispappas.org/signup/take_action_pappas_campaign/"
+},
+{
+"text": "Tax Cuts and Lower Costs Blueprint",
+"href": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@pappasfornh"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@chrispappasnh"
+},
+{
+"text": "X",
+"href": "https://x.com/chrispappasnh"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ChrisPappasNH"
+},
+{
+"text": "« Previous",
+"href": "https://chrispappas.org/news/page/13/"
+}
 ]

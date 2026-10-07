@@ -1,13 +1,46 @@
 [
-"https://barbforkansas.com/",
-"https://barbforkansas.com/contact",
-"https://barbforkansas.com/contribute",
-"https://barbforkansas.com/home",
-"https://barbforkansas.com/issues",
-"https://barbforkansas.com/meet_barb",
-"https://barbforkansas.com/privacy-policy",
-"https://barbforkansas.com/view-endorsements",
-"https://barbforkansas.com/volunteer",
-"https://barbforkansas.com/vote",
-"https://facebook.com/electbarbwasinger"
+{
+"text": "Contact",
+"href": "https://barbforkansas.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://barbforkansas.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://barbforkansas.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://barbforkansas.com/home"
+},
+{
+"text": "Issues",
+"href": "https://barbforkansas.com/issues"
+},
+{
+"text": "Meet Barb",
+"href": "https://barbforkansas.com/meet_barb"
+},
+{
+"text": "Privacy Policy",
+"href": "https://barbforkansas.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://barbforkansas.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://barbforkansas.com/vote"
+},
+{
+"text": "[image: Barb Wasinger]",
+"href": "https://barbforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electbarbwasinger"
+}
 ]

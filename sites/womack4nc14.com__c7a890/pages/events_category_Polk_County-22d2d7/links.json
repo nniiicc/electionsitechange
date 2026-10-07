@@ -1,73 +1,394 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Event+with+Appeals+Court+Judges+Christine+Walczyk+and+Toby+Hampson&dates=20260725T200000Z%2F20260725T220000Z&location=Mill+Springs+NC",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvas+with+me+in+Polk+County&dates=20260530T130000Z%2F20260530T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=July+4th+Celebration+with+Polk+Dems&dates=20260704T140000Z%2F20260704T200000Z&location=Columbus%2C+NC",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+with+Justice+Anita+Earls&dates=20260718T140000Z%2F20260718T153000Z&location=Columbus+NC",
-"http://google.com/calendar/event?action=TEMPLATE&text=Polk+County+Democrats&dates=20260328T180000Z%2F20260328T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Polk+County+Women%27s+Candidate+Forum&dates=20260223T233000Z%2F20260224T013000Z&location=321+Wolverine+Trail%2C+Mill+Spring%2C+NC%2C+28756%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rooted+in+Community%3A+Polk+County+Listening+Tour&dates=20260818T130000Z%2F20260818T150000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z",
-"http://instagram.com/lakeshawomack",
-"http://maps.google.com/?q=+Columbus%2C+NC",
-"http://maps.google.com/?q=+Columbus+NC",
-"http://maps.google.com/?q=+Mill+Springs+NC",
-"http://maps.google.com/?q=321+Wolverine+Trail+Mill+Spring%2C+NC%2C+28756+United+States",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://facebook.com/share/1JiP47BNpF",
-"https://mobilize.us/s/tULdt9",
-"https://ncsbe.gov/news/events/election-day-2026-primary-election",
-"https://ncvoter.org/early-voting",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://vt.ncsbe.gov/RegLkup",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/candidate-event-with-appeals-court-judges-christine-walczyk-and-toby-hampson",
-"https://womack4nc14.com/events/candidate-event-with-appeals-court-judges-christine-walczyk-and-toby-hampson?format=ical",
-"https://womack4nc14.com/events/canvas-with-me-in-polk-county",
-"https://womack4nc14.com/events/canvas-with-me-in-polk-county?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina?format=ical",
-"https://womack4nc14.com/events/july-4th-celebration-with-polk-dems",
-"https://womack4nc14.com/events/july-4th-celebration-with-polk-dems?format=ical",
-"https://womack4nc14.com/events/meet-greet-with-justice-anita-earls",
-"https://womack4nc14.com/events/meet-greet-with-justice-anita-earls?format=ical",
-"https://womack4nc14.com/events/polk-county-democrats-1",
-"https://womack4nc14.com/events/polk-county-democrats-1?format=ical",
-"https://womack4nc14.com/events/polk-county-womens-candidate-forum",
-"https://womack4nc14.com/events/polk-county-womens-candidate-forum?format=ical",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events/primary-voting-jexbb",
-"https://womack4nc14.com/events/primary-voting-jexbb?format=ical",
-"https://womack4nc14.com/events/primary-voting?format=ical",
-"https://womack4nc14.com/events/rooted-in-community-polk-county-listening-tour",
-"https://womack4nc14.com/events/rooted-in-community-polk-county-listening-tour?format=ical",
-"https://womack4nc14.com/events/virtual-campaign-launch",
-"https://womack4nc14.com/events/virtual-campaign-launch?format=ical",
-"https://womack4nc14.com/events?category=Burke+County",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/events?category=Mecklenburg+County",
-"https://womack4nc14.com/events?category=NC-14+District",
-"https://womack4nc14.com/events?category=Polk+County",
-"https://womack4nc14.com/events?category=Rutherford+County",
-"https://womack4nc14.com/events?category=Virtual+Event",
-"https://womack4nc14.com/events?category=Voting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+columbus%2C+nc+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+columbus+nc+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+mill+springs+nc+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=321+wolverine+trail+mill+spring%2C+nc%2C+28756+united+states"
+},
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Burke County",
+"href": "https://www.womack4nc14.com/events?category=Burke+County"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Candidate Event with Appeals Court Judges Christine Walczyk and Toby Hampson",
+"href": "https://www.womack4nc14.com/events/candidate-event-with-appeals-court-judges-christine-walczyk-and-toby-hampson"
+},
+{
+"text": "Canvas with me in Polk County",
+"href": "https://www.womack4nc14.com/events/canvas-with-me-in-polk-county"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "Election Day",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Find Your Early Voting Location in North Carolina",
+"href": "https://www.ncvoter.org/early-voting/"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Event+with+Appeals+Court+Judges+Christine+Walczyk+and+Toby+Hampson&dates=20260725T200000Z%2F20260725T220000Z&location=Mill+Springs+NC"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvas+with+me+in+Polk+County&dates=20260530T130000Z%2F20260530T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=July+4th+Celebration+with+Polk+Dems&dates=20260704T140000Z%2F20260704T200000Z&location=Columbus%2C+NC"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+with+Justice+Anita+Earls&dates=20260718T140000Z%2F20260718T153000Z&location=Columbus+NC"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Polk+County+Democrats&dates=20260328T180000Z%2F20260328T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Polk+County+Women%27s+Candidate+Forum&dates=20260223T233000Z%2F20260224T013000Z&location=321+Wolverine+Trail%2C+Mill+Spring%2C+NC%2C+28756%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rooted+in+Community%3A+Polk+County+Listening+Tour&dates=20260818T130000Z%2F20260818T150000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/candidate-event-with-appeals-court-judges-christine-walczyk-and-toby-hampson?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/canvas-with-me-in-polk-county?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/july-4th-celebration-with-polk-dems?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/meet-greet-with-justice-anita-earls?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/polk-county-democrats-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/polk-county-womens-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-polk-county-listening-tour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "July 4th Celebration with Polk Dems",
+"href": "https://www.womack4nc14.com/events/july-4th-celebration-with-polk-dems"
+},
+{
+"text": "Mecklenburg County",
+"href": "https://www.womack4nc14.com/events?category=Mecklenburg+County"
+},
+{
+"text": "Meet & Greet with Justice Anita Earls",
+"href": "https://www.womack4nc14.com/events/meet-greet-with-justice-anita-earls"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "NC-14 District",
+"href": "https://www.womack4nc14.com/events?category=NC-14+District"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Polk County",
+"href": "https://www.womack4nc14.com/events?category=Polk+County"
+},
+{
+"text": "Polk County Democrats",
+"href": "https://www.womack4nc14.com/events/polk-county-democrats-1"
+},
+{
+"text": "Polk County Women's Candidate Forum",
+"href": "https://www.womack4nc14.com/events/polk-county-womens-candidate-forum"
+},
+{
+"text": "Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Rooted in Community: Polk County Listening Tour",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-polk-county-listening-tour"
+},
+{
+"text": "Rutherford County",
+"href": "https://www.womack4nc14.com/events?category=Rutherford+County"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "Sign Up!",
+"href": "https://mobilize.us/s/tULdt9"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/candidate-event-with-appeals-court-judges-christine-walczyk-and-toby-hampson"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/canvas-with-me-in-polk-county"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/july-4th-celebration-with-polk-dems"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/meet-greet-with-justice-anita-earls"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/polk-county-democrats-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/polk-county-womens-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-polk-county-listening-tour"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Campaign Launch",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Event",
+"href": "https://www.womack4nc14.com/events?category=Virtual+Event"
+},
+{
+"text": "Voter Search",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Voting",
+"href": "https://www.womack4nc14.com/events?category=Voting"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: Candidate Event with Appeals Court Judges Christine Walczyk and Toby Hampson]",
+"href": "https://www.womack4nc14.com/events/candidate-event-with-appeals-court-judges-christine-walczyk-and-toby-hampson"
+},
+{
+"text": "[image: Canvas with me in Polk County]",
+"href": "https://www.womack4nc14.com/events/canvas-with-me-in-polk-county"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "[image: July 4th Celebration with Polk Dems]",
+"href": "https://www.womack4nc14.com/events/july-4th-celebration-with-polk-dems"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: Meet &amp; Greet with Justice Anita Earls]",
+"href": "https://www.womack4nc14.com/events/meet-greet-with-justice-anita-earls"
+},
+{
+"text": "[image: Polk County Democrats]",
+"href": "https://www.womack4nc14.com/events/polk-county-democrats-1"
+},
+{
+"text": "[image: Polk County Women's Candidate Forum]",
+"href": "https://www.womack4nc14.com/events/polk-county-womens-candidate-forum"
+},
+{
+"text": "[image: Primary Voting]",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "[image: Rooted in Community: Polk County Listening Tour]",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-polk-county-listening-tour"
+},
+{
+"text": "[image: Virtual Campaign Launch]",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+},
+{
+"text": "https://www.facebook.com/share/1JiP47BNpF/",
+"href": "https://www.facebook.com/share/1JiP47BNpF/"
+},
+{
+"text": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election",
+"href": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election"
+}
 ]

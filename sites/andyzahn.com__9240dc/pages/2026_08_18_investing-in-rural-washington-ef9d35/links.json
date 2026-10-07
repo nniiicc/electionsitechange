@@ -1,23 +1,102 @@
 [
-"http://farmland.org/",
-"https://andyzahn.com/",
-"https://andyzahn.com/2026/01/18/industrial-hemp",
-"https://andyzahn.com/2026/01/18/rural-parks",
-"https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute",
-"https://andyzahn.com/2026/08/18/investing-in-rural-washington",
-"https://andyzahn.com/2026/08/18/investing-in-rural-washington?share=facebook",
-"https://andyzahn.com/2026/08/18/investing-in-rural-washington?share=twitter",
-"https://andyzahn.com/about",
-"https://andyzahn.com/platform",
-"https://bsky.app/profile/electandy.bsky.social",
-"https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/imported/Final-Hemp-For-Building-Materials-Report-June-2025.pdf",
-"https://facebook.com/people/Elect-Andy-Zahn/61560679994242",
-"https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf",
-"https://pdx.edu/sustainability/sites/sustainability.web.wdt.pdx.edu/files/2022-09/Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf",
-"https://pew.org/en/research-and-analysis/articles/2026/05/27/building-homes-near-jobs-stores-and-transit-saves-public-dollars",
-"https://rco.wa.gov/wp-content/uploads/2025/11/EconomicReportOutdoorRecreation2025.pdf",
-"https://substack.com/@andyzahn1",
-"https://theurbanist.org/the-good-the-bad-and-the-uga-ly-as-wa-growth-management-act-turns-35",
-"https://usafacts.org/articles/how-much-is-spent-on-personal-healthcare",
-"https://youtube.com/@AndyZahn"
+{
+"text": "About",
+"href": "https://andyzahn.com/about/"
+},
+{
+"text": "According to AAA",
+"href": "https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf"
+},
+{
+"text": "Andy Zahn",
+"href": "https://andyzahn.com"
+},
+{
+"text": "Cancel reply",
+"href": "https://andyzahn.com/2026/08/18/investing-in-rural-washington/#respond"
+},
+{
+"text": "Green Economics, 2025",
+"href": "https://rco.wa.gov/wp-content/uploads/2025/11/EconomicReportOutdoorRecreation2025.pdf"
+},
+{
+"text": "Learn more about my plan to boost industrial hemp production here.",
+"href": "https://andyzahn.com/2026/01/18/industrial-hemp/"
+},
+{
+"text": "PEW research",
+"href": "https://www.pew.org/en/research-and-analysis/articles/2026/05/27/building-homes-near-jobs-stores-and-transit-saves-public-dollars"
+},
+{
+"text": "PSU, 2023",
+"href": "https://www.pdx.edu/sustainability/sites/sustainability.web.wdt.pdx.edu/files/2022-09/Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf"
+},
+{
+"text": "Platform",
+"href": "https://andyzahn.com/platform/"
+},
+{
+"text": "Read more about my plan to create new parks in rural areas here.",
+"href": "https://andyzahn.com/2026/01/18/rural-parks/"
+},
+{
+"text": "Read more about my plan to improve public transit in rural areas here.",
+"href": "https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://andyzahn.com/2026/08/18/investing-in-rural-washington/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://andyzahn.com/2026/08/18/investing-in-rural-washington/?share=twitter"
+},
+{
+"text": "farmland.org",
+"href": "http://farmland.org"
+},
+{
+"text": "https://bsky.app/profile/electandy.bsky.social",
+"href": "https://bsky.app/profile/electandy.bsky.social"
+},
+{
+"text": "https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/imported/Final-Hemp-For-Building-Materials-Report-June-2025.pdf",
+"href": "https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/imported/Final-Hemp-For-Building-Materials-Report-June-2025.pdf"
+},
+{
+"text": "https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf",
+"href": "https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf"
+},
+{
+"text": "https://rco.wa.gov/wp-content/uploads/2025/11/EconomicReportOutdoorRecreation2025.pdf",
+"href": "https://rco.wa.gov/wp-content/uploads/2025/11/EconomicReportOutdoorRecreation2025.pdf"
+},
+{
+"text": "https://substack.com/@andyzahn1",
+"href": "https://substack.com/@andyzahn1"
+},
+{
+"text": "https://usafacts.org/articles/how-much-is-spent-on-personal-healthcare/",
+"href": "https://usafacts.org/articles/how-much-is-spent-on-personal-healthcare/"
+},
+{
+"text": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/",
+"href": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/"
+},
+{
+"text": "https://www.pdx.edu/sustainability/sites/sustainability.web.wdt.pdx.edu/files/2022-09/Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf",
+"href": "https://www.pdx.edu/sustainability/sites/sustainability.web.wdt.pdx.edu/files/2022-09/Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf"
+},
+{
+"text": "https://www.pew.org/en/research-and-analysis/articles/2026/05/27/building-homes-near-jobs-stores-and-transit-saves-public-dollars",
+"href": "https://www.pew.org/en/research-and-analysis/articles/2026/05/27/building-homes-near-jobs-stores-and-transit-saves-public-dollars"
+},
+{
+"text": "https://www.theurbanist.org/the-good-the-bad-and-the-uga-ly-as-wa-growth-management-act-turns-35/",
+"href": "https://www.theurbanist.org/the-good-the-bad-and-the-uga-ly-as-wa-growth-management-act-turns-35/"
+},
+{
+"text": "https://www.youtube.com/@AndyZahn",
+"href": "https://www.youtube.com/@AndyZahn"
+}
 ]

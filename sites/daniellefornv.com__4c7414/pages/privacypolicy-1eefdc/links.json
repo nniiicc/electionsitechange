@@ -1,16 +1,62 @@
 [
-"http://support.google.com/analytics/bin/answer.py?hl=en&answer=2700409",
-"https://daniellefornv.com/",
-"https://daniellefornv.com/about",
-"https://daniellefornv.com/contact",
-"https://daniellefornv.com/priorities",
-"https://daniellefornv.com/privacypolicy",
-"https://daniellefornv.com/termsandconditions",
-"https://facebook.com/DanielleGallant4Nevada",
-"https://instagram.com/danielle4nevada",
-"https://rumble.com/c/c-7767516",
-"https://secure.winred.com/danielle-gallant-4-nevada/donate-today",
-"https://tiktok.com/@daniellegallantnv",
-"https://truthsocial.com/@danielle4nv",
-"https://x.com/GallantD23"
+{
+"text": "About",
+"href": "https://www.daniellefornv.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.daniellefornv.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/danielle-gallant-4-nevada/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.daniellefornv.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.daniellefornv.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.daniellefornv.com/privacypolicy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.daniellefornv.com/termsandconditions"
+},
+{
+"text": "[image: gallant_logos-02.png]",
+"href": "https://www.daniellefornv.com"
+},
+{
+"text": "[image: gallant_socialicons-10]",
+"href": "https://www.facebook.com/DanielleGallant4Nevada"
+},
+{
+"text": "[image: gallant_socialicons-11]",
+"href": "https://www.instagram.com/danielle4nevada/"
+},
+{
+"text": "[image: gallant_socialicons-12]",
+"href": "https://x.com/GallantD23"
+},
+{
+"text": "[image: gallant_socialicons-13]",
+"href": "https://www.tiktok.com/@daniellegallantnv"
+},
+{
+"text": "[image: gallant_socialicons-14]",
+"href": "https://truthsocial.com/@danielle4nv"
+},
+{
+"text": "[image: gallant_socialicons-15]",
+"href": "https://rumble.com/c/c-7767516"
+},
+{
+"text": "info@danielle4nv.com",
+"href": "mailto:info@danielle4nv.com"
+}
 ]

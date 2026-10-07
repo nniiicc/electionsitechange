@@ -1,8 +1,30 @@
 [
-"https://docs.google.com/forms/d/12lo0PjWxTumw-rPPv6VZUdFDNj7QgO9DREFRXawv2QQ/prefill",
-"https://facebook.com/henry4senate",
-"https://henry4senate.org/",
-"https://instagram.com/henry4senate",
-"https://maine.gov/cleanelections",
-"https://youtube.com/@henry4senate"
+{
+"text": "Click Here to Give $5",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "Click Here to Sign Up",
+"href": "https://docs.google.com/forms/d/12lo0PjWxTumw-rPPv6VZUdFDNj7QgO9DREFRXawv2QQ/prefill"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/henry4senate"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/henry4senate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@henry4senate"
+},
+{
+"text": "Home",
+"href": "https://henry4senate.org/"
+},
+{
+"text": "[image: Henry for Senate]",
+"href": "https://henry4senate.org/"
+}
 ]

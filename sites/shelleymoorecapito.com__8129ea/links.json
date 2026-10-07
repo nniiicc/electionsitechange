@@ -1,11 +1,42 @@
 [
-"https://facebook.com/ShelleyMooreCapitoForWestVirginia",
-"https://facebook.com/capitoforwv",
-"https://instagram.com/capitoforwv",
-"https://secure.winred.com/shelley-moore-capito/donate",
-"https://shelleymoorecapito.com/",
-"https://shelleymoorecapito.com/endorsements",
-"https://shelleymoorecapito.com/privacy-policy",
-"https://shelleymoorecapito.com/veterans-coalition",
-"https://x.com/capitoforwv"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shelley-moore-capito/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://shelleymoorecapito.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ShelleyMooreCapitoForWestVirginia"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/capitoforwv"
+},
+{
+"text": "Home",
+"href": "https://shelleymoorecapito.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/capitoforwv"
+},
+{
+"text": "Privacy Policy",
+"href": "https://shelleymoorecapito.com/privacy-policy/"
+},
+{
+"text": "WV Veterans For Capito",
+"href": "https://shelleymoorecapito.com/veterans-coalition/"
+},
+{
+"text": "X",
+"href": "https://x.com/capitoforwv"
+},
+{
+"text": "[image: Shelley Moore Capito logo]",
+"href": "https://shelleymoorecapito.com/"
+}
 ]

@@ -1,18 +1,78 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/DonDavisNC",
-"https://secure.actblue.com/donate/dd-web",
-"https://secure.actblue.com/donate/dd-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/dd-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/dd-web?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/dd-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/dd-web?express_lane=true&amount=50",
-"https://votedondavis.com/",
-"https://votedondavis.com/contact",
-"https://votedondavis.com/delivering-new-page",
-"https://votedondavis.com/media",
-"https://votedondavis.com/privacy-policy",
-"https://votedondavis.com/yard-sign-request",
-"https://x.com/DonDavisNC",
-"https://youtube.com/@dondavisfornorthcarolina2443"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/dd-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dd-web?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dd-web?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dd-web?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dd-web?express_lane=true&amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dd-web"
+},
+{
+"text": "Eastern North Carolina First",
+"href": "https://www.votedondavis.com/delivering-new-page"
+},
+{
+"text": "Media",
+"href": "https://www.votedondavis.com/media"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/dd-web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedondavis.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request Your Yard Sign Here!",
+"href": "https://www.votedondavis.com/yard-sign-request"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votedondavis.com/contact"
+},
+{
+"text": "[image: Don Davis: Home]",
+"href": "https://www.votedondavis.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/DonDavisNC"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@dondavisfornorthcarolina2443"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DonDavisNC"
+},
+{
+"text": "info@votedondavis.com",
+"href": "mailto:info@votedondavis.com"
+},
+{
+"text": "press@votedondavis.com",
+"href": "mailto:press@votedondavis.com"
+}
 ]

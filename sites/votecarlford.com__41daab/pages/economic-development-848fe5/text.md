@@ -1,5 +1,4 @@
-ECONOMIC DEVELOPMENT
-Since Carl’s first term in the House, he has fought hard to put money back where it belongs, in the people’s hands.
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Economic Development Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / ECONOMIC DEVELOPMENT Since Carl’s first term in the House, he has fought hard to put money back where it belongs, in the people’s hands.
 Cutting government spending and reducing tax rates is always a top priority.
 As a small business owner, Carl understands how government regulations and high taxes can impact the private sector and your banking account.
-Carl has been an influential leader of the tax reform and reduction in government regulations, which has helped lead to a stronger North Carolina economy.
+Carl has been an influential leader of the tax reform and reduction in government regulations, which has helped lead to a stronger North Carolina economy. “ Tax reform polices that have been voted on by my Republican colleagues and I have helped create businesses, expand existing businesses, and create jobs, all while helping families keep more hard earned money in their pocket. ” Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

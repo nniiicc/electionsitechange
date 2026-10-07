@@ -1,24 +1,86 @@
 [
-"https://bsky.app/profile/pooley4congress.bsky.social",
-"https://facebook.com/Pooley4Congress",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fned-zimmer-oxford-data-center-town-hall&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally-romeo&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/pooley4congress",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fned-zimmer-oxford-data-center-town-hall",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally-romeo",
-"https://pooley4congress.com/",
-"https://pooley4congress.com/contact",
-"https://pooley4congress.com/copy-of-the-issues",
-"https://pooley4congress.com/down-for-maintenance-1",
-"https://pooley4congress.com/event-details/ned-zimmer-oxford-data-center-town-hall",
-"https://pooley4congress.com/event-details/no-kings-rally",
-"https://pooley4congress.com/event-details/no-kings-rally-romeo",
-"https://tiktok.com/@pooley4congress",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fned-zimmer-oxford-data-center-town-hall&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally-romeo&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/pooley4congress",
-"https://youtube.com/@pooley4congress"
+{
+"text": "Events",
+"href": "https://www.pooley4congress.com/down-for-maintenance-1"
+},
+{
+"text": "Home",
+"href": "https://www.pooley4congress.com"
+},
+{
+"text": "Learn more",
+"href": "https://www.pooley4congress.com/event-details/no-kings-rally"
+},
+{
+"text": "Learn more",
+"href": "https://www.pooley4congress.com/event-details/no-kings-rally-romeo"
+},
+{
+"text": "NO KINGS Rally",
+"href": "https://www.pooley4congress.com/event-details/no-kings-rally"
+},
+{
+"text": "NO KINGS Rally Romeo",
+"href": "https://www.pooley4congress.com/event-details/no-kings-rally-romeo"
+},
+{
+"text": "PooleyMI9@gmail.com",
+"href": "mailto:PooleyMI9@gmail.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.pooley4congress.com/copy-of-the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.pooley4congress.com/contact"
+},
+{
+"text": "[image: Bluesky_Logo]",
+"href": "https://bsky.app/profile/pooley4congress.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Pooley4Congress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/pooley4congress"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@pooley4congress"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.x.com/pooley4congress"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@pooley4congress"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally-romeo&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally-romeo&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pooley4congress.com%2Fevent-details%2Fno-kings-rally-romeo"
+}
 ]

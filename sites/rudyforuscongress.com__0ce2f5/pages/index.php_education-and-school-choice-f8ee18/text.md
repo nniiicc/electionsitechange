@@ -1,4 +1,5 @@
-School Boards are killing our education system.
+Major (Ret) Rudy Recile For U.S.
+Congress "Ang Inyong Lingkod" (At Your Service) Menu Skip to content Home About Issues Support for Veterans Education and School Choice Energy Independence Accountability in Government Spending Politics Volunteer Donate Interviews and Media coverage Candidates and Businesses I Support Candidates Businesses I support Contact Us Past Events Education and School Choice School Boards are killing our education system.
 Curriculums designed and approved are not improving our children by much.
 The ability for our children to perform at grade level in English and Language Arts 45%, Mathematics 37%, Science 30%.
 The standard is 50% proficiency.
@@ -24,3 +25,6 @@ The first question about children’s education shouldn’t be how much is it go
 If the money was allowed to follow the child, public schools would start to change.
 Tax credits for school education should be allowed nationwide.
 Regardless of age if a parent pays extra to educate their child, in private, home school or higher education they should be allowed to receive a tax credit for their expenditures.
+Return to Issues Comments are closed.
+Donate Here Click on Map to see more detail Find Your Congressional District Click here to see a detailed map of your district Rudy's podcast Boot's on the Ground Register to Vote in California Major (Ret) Rudy Recile For U.S.
+Congress | Powered by Mantra & WordPress.

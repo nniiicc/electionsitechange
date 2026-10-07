@@ -1,13 +1,58 @@
 [
-"http://linkedin.com/in/ShoreProud",
-"https://docs.google.com/forms/d/1TjGcYfoiOHsFGeGCNewMHBNH2Dlhtk4i9jvHOgtz-OM/viewform?ts=69dce8a0&edit_requested=true",
-"https://facebook.com/hastingsforwicomico",
-"https://joshhastings.com/",
-"https://joshhastings.com/donate",
-"https://joshhastings.com/get-involved",
-"https://joshhastings.com/meet-josh-hastings",
-"https://joshhastings.com/priorities",
-"https://joshhastings.com/stay-in-touch",
-"https://standoutfast.com/",
-"https://x.com/shore_proud"
+{
+"text": "Donate",
+"href": "https://joshhastings.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://joshhastings.com/get-involved/"
+},
+{
+"text": "Host",
+"href": "https://joshhastings.com/stay-in-touch/"
+},
+{
+"text": "Learn How Josh Plans to Tackle These Issues",
+"href": "https://joshhastings.com/priorities/"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshhastings.com/meet-josh-hastings/"
+},
+{
+"text": "Priorities",
+"href": "https://joshhastings.com/priorities/"
+},
+{
+"text": "Read More About Josh",
+"href": "https://joshhastings.com/meet-josh-hastings/"
+},
+{
+"text": "Request a Sign",
+"href": "https://docs.google.com/forms/d/1TjGcYfoiOHsFGeGCNewMHBNH2Dlhtk4i9jvHOgtz-OM/viewform?ts=69dce8a0&edit_requested=true"
+},
+{
+"text": "Standout Fast",
+"href": "https://standoutfast.com"
+},
+{
+"text": "Volunteer",
+"href": "https://joshhastings.com/stay-in-touch/"
+},
+{
+"text": "[image: Josh Hastings for State Delegate]",
+"href": "https://joshhastings.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/ShoreProud"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/hastingsforwicomico"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/shore_proud"
+}
 ]

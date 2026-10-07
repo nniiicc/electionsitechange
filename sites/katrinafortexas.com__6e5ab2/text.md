@@ -1,7 +1,5 @@
-KATRINA
-PIERSON
-YOUR CONSERVATIVE WARRIOR FOR HD 33
-Battle-Tested Conservative Fighter
-Katrina is a constitutional conservative who will take on the Austin establishment and fight for lower taxes, less government, strong borders, and our Second Amendment freedoms.
-Battle-Tested Conservative Fighter
-Katrina is a constitutional conservative who will take on the Austin establishment and fight for lower taxes, less government, strong borders, and our Second Amendment freedoms.
+About Issues Endorsements Accomplishments Get Involved Get Involved Newsletter News Store Events DONATE Follow Follow Follow Follow About Issues Endorsements Accomplishments Get Involved Newsletter News Store Events Donate Donate KATRINA PIERSON YOUR CONSERVATIVE WARRIOR FOR HD 33 Battle-Tested Conservative Fighter Katrina is a constitutional conservative who will take on the Austin establishment and fight for lower taxes, less government, strong borders, and our Second Amendment freedoms.
+Learn More Battle-Tested Conservative Fighter Katrina is a constitutional conservative who will take on the Austin establishment and fight for lower taxes, less government, strong borders, and our Second Amendment freedoms.
+Learn More Conservative Accomplishments of the 89th Legislature latest news Representative Katrina Pierson Announces Texas Women’s Health Initiative Read More Texas House to Study Women’s Hormonal Health Resources, Prenatal Nutrition in New Interim Charges Read More State Legislature Forms New Women’s Health Committee Read More Follow Follow Follow Follow About Issues Accomplishments Endorsements Donate By Mail Get Involved Newsletter News Store Pol.
+Adv.
+Paid for by Katrina Pierson Campaign © KATRINA PIERSON FOR TEXAS HOUSE DISTRICT 33 2026 | ALL RIGHTS RESERVED Privacy Policy

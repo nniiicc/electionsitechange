@@ -1,5 +1,26 @@
 [
-"https://facebook.com/travismooreforsc",
-"https://travismooreforsc.com/",
-"https://travismooreforsc.com/donate"
+{
+"text": "Donate",
+"href": "https://www.travismooreforsc.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.travismooreforsc.com"
+},
+{
+"text": "Home",
+"href": "https://www.travismooreforsc.com/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://www.travismooreforsc.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://www.travismooreforsc.com/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/travismooreforsc"
+}
 ]

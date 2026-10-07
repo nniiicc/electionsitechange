@@ -1,4 +1,4 @@
-[January 31, 2022] | We are in week three of the legislative session in Atlanta, and it is in full swing.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ January 31, 2022 ] | We are in week three of the legislative session in Atlanta, and it is in full swing.
 I looked, and besides our meeting in the House Chamber at 10 in the am each day, there were 30 meetings of committees and subcommittees also held throughout the week to discuss issues that impact us.
 The biggest news of the week came on Wednesday morning as Speaker David Ralston filed House Bill 1013.
 This bipartisan bill would bring monumental and comprehensive reforms to our state?s mental health care delivery system.
@@ -21,3 +21,4 @@ I know you may hear of many other issues from different sources.
 If you have questions, please reach out to me about these policies that interest you.
 You can contact me at the Capitol at 404-646-7153, and you can email me at rick.jasperse@house.ga.gov, or stop me in the grocery store.
 As always, thank you for allowing me to serve as your State Representative; look forward to hearing from you.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -1,18 +1,74 @@
 [
-"http://eepurl.com/gOIAD9",
-"https://ballotpedia.org/Minnesota_judicial_elections",
-"https://ballotpedia.org/Nonpartisan_election_of_judges",
-"https://facebook.com/JusticePaulThissen",
-"https://instagram.com/paulthissenminn",
-"https://paulthissen.com/",
-"https://paulthissen.com/about-paul",
-"https://paulthissen.com/contribute",
-"https://paulthissen.com/faqs",
-"https://paulthissen.com/news",
-"https://paulthissen.com/privacy-policy",
-"https://paulthissen.com/social-feed",
-"https://paulthissen.com/social-share",
-"https://paulthissen.com/support-paul",
-"https://sos.state.mn.us/elections-voting/whats-on-my-ballot",
-"https://twitter.com/paulthissen"
+{
+"text": "About Paul",
+"href": "https://paulthissen.com/about-paul/"
+},
+{
+"text": "Contribute",
+"href": "https://paulthissen.com/contribute/"
+},
+{
+"text": "Email Sign Up",
+"href": "http://eepurl.com/gOIAD9"
+},
+{
+"text": "FAQs",
+"href": "https://paulthissen.com/faqs/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/paulthissen"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/JusticePaulThissen/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/paulthissenminn/"
+},
+{
+"text": "Home",
+"href": "https://paulthissen.com/"
+},
+{
+"text": "Join",
+"href": "https://paulthissen.com/support-paul/"
+},
+{
+"text": "News",
+"href": "https://paulthissen.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulthissen.com/privacy-policy/"
+},
+{
+"text": "Social Media Feed",
+"href": "https://paulthissen.com/social-feed/"
+},
+{
+"text": "Social Share",
+"href": "https://paulthissen.com/social-share/"
+},
+{
+"text": "[image: Justice Paul Thissen]",
+"href": "https://paulthissen.com/"
+},
+{
+"text": "https://ballotpedia.org/Minnesota_judicial_elections",
+"href": "https://ballotpedia.org/Minnesota_judicial_elections"
+},
+{
+"text": "https://ballotpedia.org/Nonpartisan_election_of_judges",
+"href": "https://ballotpedia.org/Nonpartisan_election_of_judges"
+},
+{
+"text": "https://www.sos.state.mn.us/elections-voting/whats-on-my-ballot",
+"href": "https://www.sos.state.mn.us/elections-voting/whats-on-my-ballot"
+},
+{
+"text": "info@paulthissen.com",
+"href": "mailto:info@paulthissen.com"
+}
 ]

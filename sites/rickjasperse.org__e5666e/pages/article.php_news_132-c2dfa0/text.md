@@ -1,4 +1,4 @@
-[February 19, 2024] | Yes, it is the busiest time of the year these two weeks that we are in right now.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK BUSIEST TIME OF THE YEAR [ February 19, 2024 ] | Yes, it is the busiest time of the year these two weeks that we are in right now.
 What makes it busy, is everyone is working on their bills and ideas for bills to be made into law.
 The committees have been working each week to hear the members' bills and make them better, which is the legislative process.
 Some move quicker than others; some don't move at all because the committee leadership may feel the bill is unneeded.
@@ -33,3 +33,4 @@ I encourage you to visit me at my Capitol office, or call me if you have any que
 My Capitol office number is 404-656-7153.
 My email is rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

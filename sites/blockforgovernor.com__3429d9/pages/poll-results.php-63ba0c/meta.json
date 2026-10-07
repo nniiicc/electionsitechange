@@ -1,7 +1,9 @@
 {
  "description": "Explore the latest Rhode Island gubernatorial polling and public opinion research from Ken Block for Governor.",
  "final_url": "https://www.blockforgovernor.com/poll-results.php",
- "paid_for_by": null,
+ "fingerprint": "c2893340917a718fe10a229a058ce58ffabdc8ac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Poll Results | Ken Block for Governor",
  "years_mentioned": [
   "2026"

@@ -1,17 +1,10 @@
-Roots of Independence
-Every school has a gym.
+Skip to content About Natalie M Fleming Donate Issues Join the Team Policy Natalie Fleming for US Senate About Natalie M Fleming Donate Issues Join the Team Policy Natalie Fleming for US Senate Menu Gardens for Every School Natalie March 11, 2026 Policy ★ Education Policy · Natalie Fleming for U.S.
+Senate Roots of Independence Every school has a gym.
 Every school needs a garden.
 A national initiative to put working gardens and greenhouses in every public school in America — teaching the soil food web, seed saving, water stewardship, and the self-reliance that grows from knowing how to feed yourself.
-⬇ Download Full PDF
-ROOTS OF INDEPENDENCE
-A National School Garden & Food Literacy Initiative
-Proposed by Natalie M.
-Fleming
-Independent Candidate for U.S.
-Senate, Idaho
-Policy Draft · March 2026
-EXECUTIVE SUMMARY
-Every school in America has a gymnasium.
+Education Policy · March 2026 ⬇ Download Full PDF ROOTS OF INDEPENDENCE A National School Garden & Food Literacy Initiative Proposed by Natalie M.
+Fleming Independent Candidate for U.S.
+Senate, Idaho Policy Draft · March 2026 EXECUTIVE SUMMARY Every school in America has a gymnasium.
 We have decided, as a society, that physical movement is essential enough to the development of a child that we dedicate space, budget, and curriculum to it every single year from kindergarten through graduation.
 We have not yet made the same decision about food.
 This proposal establishes the Roots of Independence Act — a federal initiative requiring every public school in America to maintain a working garden and simple greenhouse as permanent educational infrastructure.
@@ -22,8 +15,7 @@ The goal is not to produce farmers.
 The goal is to produce people who understand where food comes from, how living systems work, how to steward water, how to save a seed, how to grow a tree from a cutting, and what it feels like to feed themselves and their community with their own hands.
 That knowledge is power.
 And right now, most American children graduate without it.
-SECTION I: THE CASE — WHY EVERY SCHOOL NEEDS A GARDEN
-America is experiencing simultaneous crises of nutrition, disconnection from land, ecological illiteracy, and economic fragility.
+SECTION I: THE CASE — WHY EVERY SCHOOL NEEDS A GARDEN America is experiencing simultaneous crises of nutrition, disconnection from land, ecological illiteracy, and economic fragility.
 These crises share a root: generations of people who were never taught that the living world is something they can participate in, steward, and depend upon.
 The average American child can identify hundreds of corporate logos but cannot identify ten edible plants.
 They can navigate a smartphone but cannot read a watershed.
@@ -41,15 +33,13 @@ A row of fruit trees started from cuttings in third grade and harvested in seven
 A greenhouse where seedlings go in February and the smell of warm soil and green things reminds every child in the building that winter does not last forever.
 This is what we are proposing.
 And it is long overdue.
-SECTION II: THE SOIL FOOD WEB — TEACHING THE LIVING FOUNDATION
-Before a child plants a seed, they should understand what they are planting it into.
+SECTION II: THE SOIL FOOD WEB — TEACHING THE LIVING FOUNDATION Before a child plants a seed, they should understand what they are planting it into.
 Soil is not dirt.
 It is one of the most complex ecosystems on Earth — a living community of bacteria, fungi, protozoa, nematodes, arthropods, and earthworms engaged in an intricate web of relationships that makes plant life possible.
 A single teaspoon of healthy garden soil contains more living organisms than there are people on Earth.
 The soil food web is the engine beneath every garden.
 Teaching children how it works is not advanced biology — it is foundational literacy.
-Key concepts every student should understand:
-Mycorrhizal Fungi: The underground internet.
+Key concepts every student should understand: Mycorrhizal Fungi: The underground internet.
 These fungal networks extend the reach of plant roots by hundreds of times, trading mineral nutrients for plant sugars in one of the oldest symbiotic relationships on Earth.
 When children learn that plants and fungi are in active communication — that the forest floor is a network — they begin to see the living world differently.
 Bacterial Communities: The decomposers and nitrogen fixers.
@@ -70,8 +60,7 @@ Earthworms as Ecosystem Engineers: Earthworms consume organic matter and soil, p
 Their tunneling aerates soil, improves water infiltration, and creates channels for root growth.
 A garden rich in earthworms is a garden in good health.
 Children who learn to read earthworm populations are learning to read soil.
-SECTION III: BENEFICIAL INSECTS & INTEGRATED PEST MANAGEMENT
-The instinct when a child sees an insect on a plant is often alarm.
+SECTION III: BENEFICIAL INSECTS & INTEGRATED PEST MANAGEMENT The instinct when a child sees an insect on a plant is often alarm.
 One of the most important things a school garden can teach is to replace that alarm with curiosity and discernment.
 Not all insects are pests.
 Most are not.
@@ -95,8 +84,7 @@ This is the kind of systems thinking that transfers to every domain of adult lif
 Companion Planting: The three sisters — corn, beans, and squash — grown together by Indigenous peoples across North America for thousands of years, demonstrate that plants themselves have relationships.
 The corn provides a trellis for the beans; the beans fix nitrogen; the squash shades the ground, suppresses weeds, and retains moisture.
 Teaching children companion planting is teaching them ecological design.
-SECTION IV: SEED SAVING — THE ORIGINAL ACT OF SOVEREIGNTY
-For ten thousand years, farmers saved seed.
+SECTION IV: SEED SAVING — THE ORIGINAL ACT OF SOVEREIGNTY For ten thousand years, farmers saved seed.
 They selected for the plants that performed best in their specific soil, their specific climate, their specific conditions.
 Over generations, they developed thousands of varieties — each one a living archive of adaptation, flavor, and resilience.
 In the last century, most of that genetic diversity has been lost.
@@ -105,8 +93,7 @@ Farmers who once saved seed now sign licensing agreements prohibiting it.
 Varieties that fed communities for generations have gone extinct.
 Teaching children to save seed is teaching them that food sovereignty is real, that it has a history, and that it is something they can practice.
 Every school garden should save seed each year.
-The process is both science and ceremony:
-Open-pollinated varieties: Children should learn the difference between hybrid and open-pollinated seed — that hybrid seed does not breed true, while open-pollinated varieties will produce plants identical to their parents.
+The process is both science and ceremony: Open-pollinated varieties: Children should learn the difference between hybrid and open-pollinated seed — that hybrid seed does not breed true, while open-pollinated varieties will produce plants identical to their parents.
 The choice to plant open-pollinated varieties is a choice to maintain the ability to save seed indefinitely.
 Selecting for vigor: Students learn to observe which plants are healthiest, most productive, most disease-resistant, best flavored.
 They save seed from those plants.
@@ -118,15 +105,13 @@ The Seed Library: Each school maintains a seed library — an organized collecti
 Students are taught that this library has value.
 That the seeds inside it are irreplaceable if the variety is lost elsewhere.
 That caring for them is a form of stewardship.
-Specific crops worth saving at every school:
-Tomatoes in the full range of colors, sizes, and flavors.
+Specific crops worth saving at every school: Tomatoes in the full range of colors, sizes, and flavors.
 Dry beans — the most nutritionally complete seed-saving crop, deeply connected to Indigenous foodways across the Americas.
 Sunflowers, whose seeds feed both people and birds and whose heads illustrate the Fibonacci sequence in perfect spiral form.
 Lettuce and greens, which bolt and seed easily.
 Herbs — basil, cilantro, dill — that go to seed abundantly.
 Winter squash and pumpkins, whose large seeds are easy for small hands to handle and save.
-SECTION V: ANNUALS, PERENNIALS & THE LONG GAME
-One of the most powerful lessons a school garden can teach is the difference between a year and a decade.
+SECTION V: ANNUALS, PERENNIALS & THE LONG GAME One of the most powerful lessons a school garden can teach is the difference between a year and a decade.
 Annual plants complete their life cycle in a single growing season.
 They are planted, they grow, they flower, they fruit, they die.
 They require replanting every year.
@@ -141,8 +126,7 @@ By the time a kindergartener who planted a berry patch in the fall of their firs
 By the time they leave elementary school, the garden they helped plant as young children is a functioning, abundant food system that younger children will tend and harvest in their turn.
 This is the long game.
 And children who experience it learn something no classroom lecture can teach: that the work you do today has consequences you may not see for years, and that those consequences are worth doing the work for.
-Recommended perennials for school gardens:
-Strawberries: Among the most rewarding perennial food plants for children.
+Recommended perennials for school gardens: Strawberries: Among the most rewarding perennial food plants for children.
 They produce abundantly, the fruit is immediately appealing, and they spread by runner — teaching children about vegetative propagation.
 Alpine strawberries, which produce small, intensely flavored berries across the entire season, are particularly well-suited to school gardens.
 Asparagus: A patient plant.
@@ -162,8 +146,7 @@ Herbs: Established perennial herb plantings — thyme, sage, oregano, mint, chiv
 They are among the most forgiving plants for beginning gardeners of any age.
 Rhubarb: Hardy, long-lived, and productive.
 One of the first plants to emerge in spring, rhubarb is a reliable signal that the growing season has begun.
-SECTION VI: GROWING TREES FROM CUTTINGS
-Grafting and propagating trees from cuttings is one of the oldest agricultural skills in human history.
+SECTION VI: GROWING TREES FROM CUTTINGS Grafting and propagating trees from cuttings is one of the oldest agricultural skills in human history.
 It is also one of the most magical — the idea that a living branch, cut from a tree and placed in soil, can become a new tree genetically identical to its parent.
 Every school garden should teach this.
 Hardwood cuttings, taken in late winter while the parent plant is dormant, can be used to propagate willows, dogwoods, currants, gooseberries, figs, and many other woody plants.
@@ -178,8 +161,7 @@ Willow cuttings can be simply pressed into moist soil along a streambank and lef
 Teaching children to propagate plants from cuttings gives them something genuinely powerful: the ability to multiply living things for free, indefinitely.
 A child who knows how to root a grape cutting will never look at a fence covered in grapes and see only shade.
 They will see abundance waiting to be multiplied.
-SECTION VII: WATER STEWARDSHIP & WATER STORIES
-Water is not a utility.
+SECTION VII: WATER STEWARDSHIP & WATER STORIES Water is not a utility.
 It is a story.
 Every watershed has a history.
 Every aquifer has a limit.
@@ -205,13 +187,11 @@ Calculating water use, setting timers, observing plant response — these are sk
 The water cycle and cloud formation: Returning to Pseudomonas syringae — the bacterium whose ice-nucleating proteins may seed cloud formation — children can trace a complete water story: water evaporates from soil and plant surfaces, rises as vapor, condenses around bacterial particles lofted from vegetation, forms clouds, falls as rain, infiltrates healthy soil, is taken up by roots, and transpires again from leaf surfaces.
 The garden is not separate from the weather.
 It participates in it.
-SECTION VIII: THE GREENHOUSE REQUIREMENT
-Just as every school has a gymnasium, every school should have a greenhouse.
+SECTION VIII: THE GREENHOUSE REQUIREMENT Just as every school has a gymnasium, every school should have a greenhouse.
 It does not need to be large or expensive.
 A simple hoop house structure — curved conduit or PVC covered in greenhouse plastic — can be constructed for under $2,000 and will last a decade with modest maintenance.
 A small lean-to glass greenhouse attached to a south-facing school wall can be built for comparable cost.
-What the greenhouse provides:
-Season extension: In Idaho, in Minnesota, in Maine — wherever winters are long — a greenhouse allows the growing season to begin in February rather than May.
+What the greenhouse provides: Season extension: In Idaho, in Minnesota, in Maine — wherever winters are long — a greenhouse allows the growing season to begin in February rather than May.
 Seedlings started under cover are ready to transplant when the last frost passes, giving the outdoor garden a head start that can mean the difference between a productive harvest and a failed one.
 Year-round growing: With the right crops — lettuce, spinach, arugula, herbs, microgreens — a school greenhouse can produce fresh food for the cafeteria in every month of the year.
 This is not a small thing.
@@ -222,8 +202,7 @@ Tropical and tender crops: In northern climates, the greenhouse allows children 
 Climate as curriculum: A greenhouse makes climate legible.
 Children who manage a greenhouse learn about temperature management, humidity, ventilation, the relationship between light levels and plant growth, the way a clouded week slows seedling development and a sunny day can overheat a closed space.
 They are learning environmental science through direct experience.
-SECTION IX: THE CONNECTION BETWEEN GROWING FOOD AND SELF-EMPOWERMENT
-There is a reason the first act of every colonizing power has been to separate people from their land and their seed.
+SECTION IX: THE CONNECTION BETWEEN GROWING FOOD AND SELF-EMPOWERMENT There is a reason the first act of every colonizing power has been to separate people from their land and their seed.
 People who can feed themselves cannot be fully controlled.
 People who know how to grow food, save seed, manage water, and tend living systems have a form of independence that is not dependent on supply chains, employment, or the goodwill of institutions.
 This is not a radical claim.
@@ -242,8 +221,7 @@ That patience is a form of power.
 That the earth, tended well, gives back.
 In Idaho, this is not an abstract value.
 It is the foundation of everything that made this state.
-SECTION X: CURRICULUM INTEGRATION K-12
-The school garden is not a separate subject.
+SECTION X: CURRICULUM INTEGRATION K-12 The school garden is not a separate subject.
 It is a context for every subject.
 Kindergarten through Second Grade: Sensory and observational foundations.
 Planting seeds, watching germination, identifying parts of a plant, learning the names of insects and soil creatures encountered in the garden.
@@ -270,19 +248,15 @@ The economics of food: cost comparison between garden production, farmers market
 Soil testing, amendment, and the chemistry of fertility.
 Advanced greenhouse management.
 Food preservation — fermentation, drying, canning, root cellaring — as extensions of the harvest.
-SECTION XI: IMPLEMENTATION FRAMEWORK
-Federal Requirements:
-Every public school receiving federal education funding must establish and maintain a functional school garden of no less than 1,000 square feet and a working greenhouse or hoop house of no less than 200 square feet within five years of the Act’s passage.
+SECTION XI: IMPLEMENTATION FRAMEWORK Federal Requirements: Every public school receiving federal education funding must establish and maintain a functional school garden of no less than 1,000 square feet and a working greenhouse or hoop house of no less than 200 square feet within five years of the Act’s passage.
 Garden programs must be integrated into the curriculum at a minimum of one instructional hour per week at each grade level.
 Schools must maintain a seed library with a minimum of ten open-pollinated vegetable varieties, replenished annually through student-led seed saving.
 Each school must maintain a compost system processing food waste and garden biomass.
-State Implementation:
-States receiving Homeownership Restoration Fund allocations (as established in the American Homeownership Restoration Act) receive additional preference for compliance with school garden requirements.
+State Implementation: States receiving Homeownership Restoration Fund allocations (as established in the American Homeownership Restoration Act) receive additional preference for compliance with school garden requirements.
 States may exceed federal minimums and are encouraged to develop regional curriculum reflecting local agricultural traditions, Indigenous land management practices, and native plant communities.
-Teacher Training:
-A federal School Garden Educator certification program, administered through land-grant universities and cooperative extension services, provides training for teachers across all subjects in garden-integrated instruction.
+Teacher Training: A federal School Garden Educator certification program, administered through land-grant universities and cooperative extension services, provides training for teachers across all subjects in garden-integrated instruction.
 Master Gardener volunteer programs are formally integrated into school garden support networks, providing mentorship and expertise at no cost to schools.
-SECTION XII: FUNDING
+SECTION XII: FUNDING Initial capital costs (greenhouse construction, raised beds, soil, tools, irrigation): estimated $#-$# per school depending on scale and region.
 One-time federal grant per school, distributed through state education agencies.
 Annual operating costs: estimated $3,000-$8,000 per school for seeds, amendments, replacement tools, and curriculum materials.
 Offset significantly by cafeteria food production value and fundraising through plant sales and farmers markets.
@@ -290,8 +264,7 @@ Revenue potential: Schools with established gardens regularly generate $2,000-$1
 Well-run programs approach operational self-sufficiency within five years.
 Total federal investment for all 130,000 public schools: approximately $5-8 billion over five years for capital grants, plus $500 million annually for operating support and teacher training.
 This is a fraction of what we spend on standardized testing infrastructure, and it produces something that will grow for generations.
-CONCLUSION
-A child who knows how to grow a tomato, save its seed, build the soil that feeds it, manage the water that sustains it, and share the harvest with their community has learned something that will serve them for the rest of their life — regardless of what career they pursue, what city they live in, or what disruptions the future brings.
+CONCLUSION A child who knows how to grow a tomato, save its seed, build the soil that feeds it, manage the water that sustains it, and share the harvest with their community has learned something that will serve them for the rest of their life — regardless of what career they pursue, what city they live in, or what disruptions the future brings.
 We have decided as a society that children need to learn to read.
 To calculate.
 To understand history.
@@ -303,5 +276,6 @@ The seed is the curriculum.
 The harvest is the lesson.
 Roots of Independence.
 For every child.
-In every school.
-nataliefleming.info · Policy Draft · March 2026
+In every school. nataliefleming.info · Policy Draft · March 2026 Stand with Natalie Help bring independent, common-sense leadership to Idaho.
+Contribute → Volunteer Copyright © # - Paid for by Natalie M Fleming for U.S.
+Senate Treasurer: Natalie Fleming

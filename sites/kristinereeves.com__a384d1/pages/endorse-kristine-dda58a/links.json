@@ -1,11 +1,42 @@
 [
-"https://kristinereeves.com/",
-"https://kristinereeves.com/about-kristine",
-"https://kristinereeves.com/contact-8",
-"https://kristinereeves.com/endorse-kristine",
-"https://kristinereeves.com/gotv",
-"https://kristinereeves.com/issues",
-"https://kristinereeves.com/media",
-"https://seattletimes.com/opinion/editorials/the-times-recommends-kristine-reeves-for-legislative-district-30-position-2",
-"https://thestranger.com/elections-2022/2022/07/14/76423221/the-strangers-endorsements-for-the-august-2-2022-primary-election"
+{
+"text": "ABOUT KRISTINE",
+"href": "https://www.kristinereeves.com/about-kristine"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kristinereeves.com/contact-8"
+},
+{
+"text": "ENDORSE KRISTINE",
+"href": "mailto:electkristinereeves@gmail.com?subject=I%27m+on+#TeamReeves - Endorsement"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kristinereeves.com/endorse-kristine"
+},
+{
+"text": "GOTV",
+"href": "https://www.kristinereeves.com/gotv"
+},
+{
+"text": "HOME",
+"href": "https://www.kristinereeves.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kristinereeves.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.kristinereeves.com/media"
+},
+{
+"text": "[image: 440px-Thestrangerlogo.png]",
+"href": "https://www.thestranger.com/elections-2022/2022/07/14/76423221/the-strangers-endorsements-for-the-august-2-2022-primary-election"
+},
+{
+"text": "[image: the-seattle-times-logo-png-transparent.png]",
+"href": "https://www.seattletimes.com/opinion/editorials/the-times-recommends-kristine-reeves-for-legislative-district-30-position-2/"
+}
 ]

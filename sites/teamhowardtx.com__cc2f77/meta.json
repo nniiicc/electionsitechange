@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website of Texas State Representative Donna Howard, Democrat, House District 48",
  "final_url": "https://teamhowardtx.com/",
- "paid_for_by": null,
+ "fingerprint": "78cb6d7bcfc606e9a1a919e3f14d5225c58b405b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Team Howard TX",
  "years_mentioned": []
 }

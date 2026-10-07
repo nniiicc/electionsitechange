@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://steckforassembly.com/contact-phil",
- "paid_for_by": null,
+ "fingerprint": "0d1e66d08201e243d7d3602fb9acb23dd1b009fa",
+ "format": 3,
+ "paid_for_by": "authorized by Steck for Assembly 2026",
  "title": "Contact Phil - Phil Steck for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

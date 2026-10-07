@@ -1,20 +1,11 @@
-Mark Rendón’s Campaign for State Assembly Gains Momentum Amidst Steady Stream of Endorsements
-PRESS RELEASE
-FOR IMMEDIATE RELEASE
-Berkeley, CA – August 31, 2026
-The campaign for Mark Rendón, candidate for State Assembly AD-14, is gaining momentum amidst multiple endorsements from progressive organizations and notable figures.
+0 Skip to Content About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Mark Rendón’s Campaign for State Assembly Gains Momentum Amidst Steady Stream of Endorsements Aug 31 Written By Sabina Ali PRESS RELEASE FOR IMMEDIATE RELEASE Berkeley, CA – August 31, 2026 The campaign for Mark Rendón, candidate for State Assembly AD-14, is gaining momentum amidst multiple endorsements from progressive organizations and notable figures.
 Several Commissioners of the Berkeley Rent Board, including Soli Alpert, the Rent Board chair, and Ida Martinac, endorsed Rendón for his stances on social housing and strong support for renters’ protections.
 In addition, Rendón received an endorsement from Margo Smith, a former Democratic challenger of the incumbent, Buffy Wicks, in 2024.
 This follows formal endorsements by the Green Party of Alameda County, the Peace & Freedom Party, and Our Revolution East Bay.
-Rendón was also recommended by the Democratic Socialists of America (DSA), East Bay, and commented “I am grateful for the support and endorsements of these organizations and local leaders.”
-Assembly District 14 which includes Alameda County and western Contra Costa County, including Berkeley, Richmond, El Cerrito, and San Pablo, has a progressive voter base and a long history of movements in support of labor, environmental and social reforms.
-Rendón noted, “We expect to gain the support of even more local and regional organizations, by building a progressive coalition across the East Bay to decisively carry our campaign through Election Day.”
-About Mark Rendón for State Assembly:
-Mark Rendón is an experienced public educator, who taught music for 29 years as part of the Oakland Unified School District.
+Rendón was also recommended by the Democratic Socialists of America (DSA), East Bay, and commented “I am grateful for the support and endorsements of these organizations and local leaders.” Assembly District 14 which includes Alameda County and western Contra Costa County, including Berkeley, Richmond, El Cerrito, and San Pablo, has a progressive voter base and a long history of movements in support of labor, environmental and social reforms.
+Rendón noted, “We expect to gain the support of even more local and regional organizations, by building a progressive coalition across the East Bay to decisively carry our campaign through Election Day.” About Mark Rendón for State Assembly: Mark Rendón is an experienced public educator, who taught music for 29 years as part of the Oakland Unified School District.
 An accomplished political organizer, he is running with the Green Party for State Assembly in AD-14.
 His campaign is focused on CalCare, social housing, free lifelong public education, a rapid transition to renewable energy, and divestment from genocide.
 Please visit www.markrendon4ad14.com for more information.
-Media Contact:
-Valielza Huynh-O’Keefe
-valielza.okeefe@gmail.com
-(702) 686-4178
+Media Contact: Valielza Huynh-O’Keefe valielza.okeefe@gmail.com (702) 686-4178 Sabina Ali Previous Previous Mark Rendón Endorsement Interview with the Oakland Education Association Next Next Two Greens move on to the November General Election!
+Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026

@@ -1,5 +1,6 @@
-Thank You District 94!
-Great citizens of the 94th District, on behalf of my family and myself, thank you.
+top of page HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE Thank You District 94!
+Blair Eddins Mar 6, 2024 1 min read Great citizens of the 94th District, on behalf of my family and myself, thank you.
 Without you, none of this would have been possible.
 Because of you, we will send a clear message to Raleigh in November that we need leaders who possess integrity and bravery.
 Integrity to do the right thing and bravery to stand up against tyranny are qualities we should expect from our elected representatives.
@@ -11,5 +12,5 @@ This is why we need principled leaders who stand firm in God’s word to fight a
 Yesterday, we took the first step to ensuring our representation is heard in Raleigh.
 Thank you for entrusting me with your vote.
 I am honored and humbled to be selected by such great people, people I look forward to representing in Raleigh and working with to make our homes and communities safe and prosperous.
-May God bless you, and may God bless the great state of North Carolina.
--Blair Eddins
+May God bless you, and may God bless the great state of North Carolina. -Blair Eddins Recent Posts See All Blair Eddins Files for Re‑Election to Represent North Carolina House District 94 Blair Eddins to be Sworn In as NC State Representative Eddins Picked by District Republicans to Replace Elmore Paid for by Eddins for NC P.O.
+Box 1133 Wilkesboro, NC 28697 HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

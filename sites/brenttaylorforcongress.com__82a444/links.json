@@ -1,15 +1,62 @@
 [
-"https://brenttaylorforcongress.com/",
-"https://brenttaylorforcongress.com/about",
-"https://brenttaylorforcongress.com/endorsements",
-"https://brenttaylorforcongress.com/issues",
-"https://brenttaylorforcongress.com/privacy-policy",
-"https://brenttaylorforcongress.com/terms-and-conditions",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=100",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=1000",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=250",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=50",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=500",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?web_id=brenttaylorforcongress_home_navbar"
+{
+"text": "$100",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://brenttaylorforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?web_id=brenttaylorforcongress_home_navbar"
+},
+{
+"text": "Endorsements",
+"href": "https://brenttaylorforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://brenttaylorforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brenttaylorforcongress.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://brenttaylorforcongress.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate"
+},
+{
+"text": "Terms & conditions",
+"href": "https://brenttaylorforcongress.com/terms-and-conditions/"
+},
+{
+"text": "[image: Brent Taylor for Tennessee]",
+"href": "https://brenttaylorforcongress.com"
+},
+{
+"text": "privacy policy",
+"href": "https://brenttaylorforcongress.com/privacy-policy/"
+}
 ]

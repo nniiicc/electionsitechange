@@ -1,19 +1,22 @@
-Donald Trump is making it so much harder for families to get by.
+Skip to content Donate Volunteer Endorsements Priorities Store Donate Volunteer Endorsements Priorities Store STORE PRIORITIES ENDORSEMENTS VOLUNTEER Donate " Growing up, I felt like the bottom could fall out at any moment.
+Too many families feel that way right now." -Lt.
+Governor Peggy Flanagan Donald Trump is making it so much harder for families to get by.
 Peggy’s running because there aren’t enough people in Washington who understand the struggles families are facing and are ready to fight back.
 If elected, she’ll be the first Native American woman to ever serve in the U.S.
 Senate.
 Will you join us in this people-powered campaign?
-By submitting this form and clicking GET INVOLVED, you consent to receive automated text messages, including donation asks, voter contact, and informational messages from Peggy Flanagan for Minnesota.
+First Name Zipcode Email Cell Phone Get Involved By submitting this form and clicking GET INVOLVED, you consent to receive automated text messages, including donation asks, voter contact, and informational messages from Peggy Flanagan for Minnesota.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Text HELP for help.
+Donate to Peggy’s campaign!
 Peggy’s not taking a dime from corporate PACs.
 Join our people-powered team today.
 Contributions can be mailed to Peggy Flanagan for Minnesota, PO Box 26023, St.
 Louis Park, MN 55426.
-If you’ve saved your payment information with ActBlue Express, your donation will go through immediately:
-Peggy understands what Minnesota families are facing right now – she lived it.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately: $ 25 $ 50 $ 100 $ 250 $ 500 OTHER Meet Minnesota's Lieutenant Governor Peggy Flanagan Democrat for U.S.
+Senate ENDORSED BY THE MINNESOTA DFL PARTY, SENATOR TINA SMITH, SENATOR BERNIE SANDERS, SENATOR ELIZABETH WARREN, FORMER SENATOR AL FRANKEN, AND ATTORNEY GENERAL KEITH ELLISON Peggy understands what Minnesota families are facing right now – she lived it.
 Raised by a single mom in St.
 Louis Park, Peggy’s family was able to make it because of hard work and help from public programs like Section 8 housing, SNAP, and childcare assistance.
 Medicaid was her health insurance as she dealt with serious asthma that had her in and out of the hospital.
@@ -36,14 +39,19 @@ At a time when Washington is more rigged than ever, Peggy will be a Senator who 
 Peggy lives in her hometown of St.
 Louis Park with her husband, Tom, and her daughter, Siobhan.
 She is a proud graduate of the University of Minnesota.
-Peggy Flanagan has served as the Lieutenant Governor of Minnesota since 2019.
+Are You Ready To Go?
+JOIN US First Name Zipcode Email Cell Phone Get Involved By submitting this form and clicking GET INVOLVED, you consent to receive automated text messages, including donation asks, voter contact, and informational messages from Peggy Flanagan for Minnesota.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help. or Donate $ 25 Peggy Flanagan has served as the Lieutenant Governor of Minnesota since 2019.
 She is a Democrat running for the United States Senate in 2026.
-Support her campaign by making a contribution or signing up to volunteer today.
-Peggy Flanagan for Minnesota
-PO Box 26023
-St.
-Louis Park, MN 55426
-All Rights Reserved.
-Peggy Flanagan is proud to be Minnesota's Democratic nominee for U.S.
+Support her campaign by making a contribution or signing up to volunteer today .
+Donate Volunteer Privacy Policy Contact Us Privacy Policy Contact Us Threads Facebook Instagram Contributions can be mailed to: Peggy Flanagan for Minnesota PO Box 26023 St.
+Louis Park, MN 55426 For press inquiries, email press@peggyflanagan.com .
+For all other inquiries, email info@peggyflanagan.com .
+Paid for by Peggy Flanagan for Minnesota All Rights Reserved.
+Copyright #.
+PITCH IN HERE Close this module Help Peggy Flanagan keep Minnesota blue: Peggy Flanagan is proud to be Minnesota's Democratic nominee for U.S.
 Senate, running against MAGA media figure Michele Tafoya.
-Pitch in to support her people-powered campaign today:
+Pitch in to support her people-powered campaign today: PITCH IN TODAY: No thanks, I’m not interested!

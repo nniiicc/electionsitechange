@@ -1,6 +1,42 @@
 [
-"https://bishopforbeaufort.com/",
-"https://bishopforbeaufort.com/blank",
-"https://bishopforbeaufort.com/contact-us",
-"https://secure.actblue.com/donate/shauna-bishop-4usall"
+{
+"text": "About",
+"href": "https://www.bishopforbeaufort.com/blank"
+},
+{
+"text": "Contact",
+"href": "https://www.bishopforbeaufort.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/shauna-bishop-4usall"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/shauna-bishop-4usall"
+},
+{
+"text": "Home",
+"href": "https://www.bishopforbeaufort.com"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bishopforbeaufort.com/blank"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "mailto:bishopforusall@gmail.com"
+},
+{
+"text": "REQUEST YARD SIGN",
+"href": "mailto:bishopforusall@gmail.com?subject=Request+A+Yard+Sign"
+},
+{
+"text": "VOLUNTEER",
+"href": "mailto:bishopforusall@gmail.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "mailto:bishopforusall@gmail.com?subject=Volunteer+With+Shauna"
+}
 ]

@@ -1,15 +1,54 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=2946&q=billVersion",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=2953&q=billVersion",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=2990&q=billVersion",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=5815&q=billVersion",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=8873&q=billVersion",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=9004&q=billVersion",
-"https://gencourt.state.nh.us/house/committees/committeedetails.aspx?id=1621"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "HB 44",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=9004&q=billVersion"
+},
+{
+"text": "HB 489-FN-A",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=5815&q=billVersion"
+},
+{
+"text": "HB 63",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=2990&q=billVersion"
+},
+{
+"text": "HB 639-FN-A",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=8873&q=billVersion"
+},
+{
+"text": "HCR 1",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=2946&q=billVersion"
+},
+{
+"text": "HR 9",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=2953&q=billVersion"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Special Committee on Housing",
+"href": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=1621"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+}
 ]

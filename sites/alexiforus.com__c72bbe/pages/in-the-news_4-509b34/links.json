@@ -1,33 +1,218 @@
 [
-"https://alexiforus.com/",
-"https://alexiforus.com/about",
-"https://alexiforus.com/alexi-giannoulias-backed-by-retiring-u-s-rep-bobby-rush-and-supporters-of-ald-pat-dowell-in-bid-for-secretary-of-state",
-"https://alexiforus.com/alexi-giannoulias-illinois-secretary-of-state-candidate-answers-tribune-editorial-board-questionnaire",
-"https://alexiforus.com/alexis-priorities",
-"https://alexiforus.com/congressman-quigley-endorses-giannoulias-in-heated-democratic-primary-i-know-alexi-will-be-a-great-secretary-of-state",
-"https://alexiforus.com/contact",
-"https://alexiforus.com/cook-county-democrats-endorse-alexi-giannoulias-in-secretary-of-state-race",
-"https://alexiforus.com/daily-herald-endorsement-giannoulias-for-secretary-of-state",
-"https://alexiforus.com/democrat-giannoulias-in-the-drivers-seat-in-race-for-campaign-cash-in-hotly-contested-secretary-of-state-contest",
-"https://alexiforus.com/democratic-secretary-of-state-candidate-alexi-giannoulias-gains-edge-in-getting-afl-cio-backing-with-endorsement-from-illinois-federation-teachers-2",
-"https://alexiforus.com/editorial-tribune-endorses-alexi-giannoulias",
-"https://alexiforus.com/endorsements",
-"https://alexiforus.com/in-the-news",
-"https://alexiforus.com/in-the-news/2",
-"https://alexiforus.com/in-the-news/3",
-"https://alexiforus.com/in-the-news/5",
-"https://alexiforus.com/news",
-"https://alexiforus.com/news-2",
-"https://alexiforus.com/press-releases",
-"https://alexiforus.com/privacy-policy",
-"https://alexiforus.com/secretary-of-state-hopefuls-focus-on-modernization-differ-on-fees",
-"https://alexiforus.com/terms-of-use",
-"https://alexiforus.com/videos",
-"https://alexiforus.com/volunteer",
-"https://chicagotribune.com/opinion/editorials/ct-editorial-alexi-giannoulias-endorsement-20221013-jdfuszbjbrg75hczudtqllvlam-story.html",
-"https://facebook.com/AlexiGiannoulias",
-"https://go.alexiforus.com/a/donate",
-"https://instagram.com/alexiforus",
-"https://twitter.com/Giannoulias",
-"https://youtube.com/@Alexiforus"
+{
+"text": "About",
+"href": "https://alexiforus.com/about/"
+},
+{
+"text": "Alexi Giannoulias backed by retiring U.S. Rep. Bobby Rush and supporters of Ald. Pat Dowell in bid for secretary of state",
+"href": "https://alexiforus.com/alexi-giannoulias-backed-by-retiring-u-s-rep-bobby-rush-and-supporters-of-ald-pat-dowell-in-bid-for-secretary-of-state/"
+},
+{
+"text": "Alexi Giannoulias: Illinois Secretary of State candidate answers Tribune Editorial Board questionnaire",
+"href": "https://alexiforus.com/alexi-giannoulias-illinois-secretary-of-state-candidate-answers-tribune-editorial-board-questionnaire/"
+},
+{
+"text": "Alexi’s Priorities",
+"href": "https://alexiforus.com/alexis-priorities/"
+},
+{
+"text": "Congressman Quigley endorses Giannoulias in heated Democratic primary: ‘I know Alexi will be a great secretary of state’",
+"href": "https://alexiforus.com/congressman-quigley-endorses-giannoulias-in-heated-democratic-primary-i-know-alexi-will-be-a-great-secretary-of-state/"
+},
+{
+"text": "Contact",
+"href": "https://alexiforus.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate"
+},
+{
+"text": "Contribute",
+"href": "https://go.alexiforus.com/a/donate/"
+},
+{
+"text": "Cook County Democrats endorse Alexi Giannoulias in secretary of state race",
+"href": "https://alexiforus.com/cook-county-democrats-endorse-alexi-giannoulias-in-secretary-of-state-race/"
+},
+{
+"text": "Daily Herald endorsement: Giannoulias for Secretary of State",
+"href": "https://alexiforus.com/daily-herald-endorsement-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Democrat Giannoulias in the driver’s seat in race for campaign cash in hotly contested secretary of state contest",
+"href": "https://alexiforus.com/democrat-giannoulias-in-the-drivers-seat-in-race-for-campaign-cash-in-hotly-contested-secretary-of-state-contest/"
+},
+{
+"text": "Democratic Secretary of State candidate Alexi Giannoulias gains edge in getting AFL-CIO backing with endorsement from Illinois Federation Teachers",
+"href": "https://alexiforus.com/democratic-secretary-of-state-candidate-alexi-giannoulias-gains-edge-in-getting-afl-cio-backing-with-endorsement-from-illinois-federation-teachers-2/"
+},
+{
+"text": "Editorial: Alexi Giannoulias for Illinois secretary of state",
+"href": "https://www.chicagotribune.com/opinion/editorials/ct-editorial-alexi-giannoulias-endorsement-20221013-jdfuszbjbrg75hczudtqllvlam-story.html#new_tab"
+},
+{
+"text": "Editorial: Tribune endorses Alexi Giannoulias",
+"href": "https://alexiforus.com/editorial-tribune-endorses-alexi-giannoulias/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexiforus.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AlexiGiannoulias"
+},
+{
+"text": "Home",
+"href": "https://alexiforus.com/"
+},
+{
+"text": "In the News",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alexiforus/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news-2/"
+},
+{
+"text": "News",
+"href": "https://alexiforus.com/news/"
+},
+{
+"text": "Page1",
+"href": "https://alexiforus.com/in-the-news/"
+},
+{
+"text": "Page2",
+"href": "https://alexiforus.com/in-the-news/2/"
+},
+{
+"text": "Page3",
+"href": "https://alexiforus.com/in-the-news/3/"
+},
+{
+"text": "Page5",
+"href": "https://alexiforus.com/in-the-news/5/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.alexiforus.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alexiforus.com/privacy-policy/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/alexi-giannoulias-backed-by-retiring-u-s-rep-bobby-rush-and-supporters-of-ald-pat-dowell-in-bid-for-secretary-of-state/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/alexi-giannoulias-illinois-secretary-of-state-candidate-answers-tribune-editorial-board-questionnaire/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/congressman-quigley-endorses-giannoulias-in-heated-democratic-primary-i-know-alexi-will-be-a-great-secretary-of-state/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/cook-county-democrats-endorse-alexi-giannoulias-in-secretary-of-state-race/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/daily-herald-endorsement-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/democrat-giannoulias-in-the-drivers-seat-in-race-for-campaign-cash-in-hotly-contested-secretary-of-state-contest/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/democratic-secretary-of-state-candidate-alexi-giannoulias-gains-edge-in-getting-afl-cio-backing-with-endorsement-from-illinois-federation-teachers-2/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/editorial-tribune-endorses-alexi-giannoulias/"
+},
+{
+"text": "Read More »",
+"href": "https://alexiforus.com/secretary-of-state-hopefuls-focus-on-modernization-differ-on-fees/"
+},
+{
+"text": "Read More »",
+"href": "https://www.chicagotribune.com/opinion/editorials/ct-editorial-alexi-giannoulias-endorsement-20221013-jdfuszbjbrg75hczudtqllvlam-story.html#new_tab"
+},
+{
+"text": "Secretary of state hopefuls focus on modernization, differ on fees",
+"href": "https://alexiforus.com/secretary-of-state-hopefuls-focus-on-modernization-differ-on-fees/"
+},
+{
+"text": "Terms of Use",
+"href": "https://alexiforus.com/terms-of-use/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Giannoulias"
+},
+{
+"text": "Videos",
+"href": "https://www.alexiforus.com/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://alexiforus.com/volunteer/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@Alexiforus"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/alexi-giannoulias-backed-by-retiring-u-s-rep-bobby-rush-and-supporters-of-ald-pat-dowell-in-bid-for-secretary-of-state/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/alexi-giannoulias-illinois-secretary-of-state-candidate-answers-tribune-editorial-board-questionnaire/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/congressman-quigley-endorses-giannoulias-in-heated-democratic-primary-i-know-alexi-will-be-a-great-secretary-of-state/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/cook-county-democrats-endorse-alexi-giannoulias-in-secretary-of-state-race/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/daily-herald-endorsement-giannoulias-for-secretary-of-state/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/democrat-giannoulias-in-the-drivers-seat-in-race-for-campaign-cash-in-hotly-contested-secretary-of-state-contest/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/democratic-secretary-of-state-candidate-alexi-giannoulias-gains-edge-in-getting-afl-cio-backing-with-endorsement-from-illinois-federation-teachers-2/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/editorial-tribune-endorses-alexi-giannoulias/"
+},
+{
+"text": "[image]",
+"href": "https://alexiforus.com/secretary-of-state-hopefuls-focus-on-modernization-differ-on-fees/"
+},
+{
+"text": "[image]",
+"href": "https://www.chicagotribune.com/opinion/editorials/ct-editorial-alexi-giannoulias-endorsement-20221013-jdfuszbjbrg75hczudtqllvlam-story.html#new_tab"
+}
 ]

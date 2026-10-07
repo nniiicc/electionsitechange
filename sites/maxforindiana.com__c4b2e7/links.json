@@ -1,12 +1,62 @@
 [
-"https://argostrategy.com/",
-"https://facebook.com/profile.php?id=61590513146160",
-"https://form.jotform.com/261899219096170",
-"https://form.jotform.com/261935383570160",
-"https://form.jotform.com/262376626236058",
-"https://indianavoters.in.gov/",
-"https://maxforindiana.com/privacy",
-"https://maxforindiana.com/terms",
-"https://secure.winred.com/max-for-indiana-7974e77a/donate-today",
-"https://x.com/MaxForIndiana"
+{
+"text": "Contact",
+"href": "https://form.jotform.com/261935383570160"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/max-for-indiana-7974e77a/donate-today"
+},
+{
+"text": "Join the Campaign",
+"href": "https://secure.winred.com/max-for-indiana-7974e77a/donate-today"
+},
+{
+"text": "Privacy",
+"href": "https://maxforindiana.com/privacy"
+},
+{
+"text": "Register to Vote / Check Status",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Register to Vote / Check Your Status",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Terms",
+"href": "https://maxforindiana.com/terms"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://maxforindiana.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://form.jotform.com/261899219096170"
+},
+{
+"text": "Website Designed by Argo Strategy",
+"href": "https://argostrategy.com/"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://form.jotform.com/262376626236058"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590513146160"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MaxForIndiana"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@maxforindiana.com"
+},
+{
+"text": "privacy policy",
+"href": "https://maxforindiana.com/privacy"
+}
 ]

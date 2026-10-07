@@ -1,11 +1,46 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://larrynostrant4idaho.com/",
-"https://larrynostrant4idaho.com/about-larry",
-"https://larrynostrant4idaho.com/contact-larry",
-"https://larrynostrant4idaho.com/donate",
-"https://larrynostrant4idaho.com/get-involved",
-"https://x.com/",
-"https://youtube.com/"
+{
+"text": "About Larry",
+"href": "https://www.larrynostrant4idaho.com/about-larry/"
+},
+{
+"text": "Contact Larry",
+"href": "https://www.larrynostrant4idaho.com/contact-larry/"
+},
+{
+"text": "Donate",
+"href": "https://www.larrynostrant4idaho.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.larrynostrant4idaho.com/contact-larry/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.larrynostrant4idaho.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.larrynostrant4idaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.larrynostrant4idaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/"
+}
 ]

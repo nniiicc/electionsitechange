@@ -1,7 +1,11 @@
 {
  "description": "Eric Helvy Campaign Events",
  "final_url": "https://www.helvyforgeorgia.com/Events?range=2026-10",
- "paid_for_by": null,
+ "fingerprint": "7b392b40dd19caaf8ee965029469fa6961a481a6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Eric Helvy Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

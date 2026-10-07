@@ -1,14 +1,66 @@
 [
-"https://facebook.com/cglanville4senate",
-"https://instagram.com/caglanville",
-"https://michigan.gov/sos/elections/voting/absentee-voting",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/carol-glanville-1",
-"https://voteglanville.com/",
-"https://voteglanville.com/about",
-"https://voteglanville.com/endorsements",
-"https://voteglanville.com/get-involved",
-"https://voteglanville.com/priorities",
-"https://voteglanville.com/vote",
-"https://x.com/caglanville"
+{
+"text": "About Carol",
+"href": "https://voteglanville.com/about/"
+},
+{
+"text": "Check Registration",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carol-glanville-1"
+},
+{
+"text": "Endorsements",
+"href": "https://voteglanville.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/cglanville4senate"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteglanville.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://voteglanville.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/caglanville"
+},
+{
+"text": "Priorities",
+"href": "https://voteglanville.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteglanville.com/#privacy-policy"
+},
+{
+"text": "Request Ballot",
+"href": "https://www.michigan.gov/sos/elections/voting/absentee-voting"
+},
+{
+"text": "Vote",
+"href": "https://voteglanville.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/caglanville"
+},
+{
+"text": "[image: default-logo]",
+"href": "https://voteglanville.com"
+},
+{
+"text": "info@voteglanville.com",
+"href": "mailto:info@voteglanville.com"
+}
 ]

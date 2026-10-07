@@ -1,30 +1,9 @@
-"As a Mayor in rural Arkansas, I know what makes this state special: You, and the dream you have for your family.
-East Arkansas is ready for a new 'ERA', a new focus on Education, Renewal, and Access.
-We need a State Rep who will strengthen AR public schools, renew our communities with new jobs and improved quality of life, and expand access to quality healthcare & mental healthcare services."
--Mayor Lincoln Barnett
-Education | Renewal | Access
-About Mayor Barnett
-Mayor Lincoln Barnett serves as the Mayor of Hughes, is former Chairman of the St.
+top of page Democrat for District 63 | VOTE Nov 5th Home About Mayor Barnett Policy Priorities Donate More Use tab to navigate through the menu items. " As a Mayor in rural Arkansas, I know what makes this state special: You, and the dream you have for your family. ​ East Arkansas is ready for a new 'ERA' , a new focus on Education, Renewal, and Access .
+We need a State Rep who will strengthen AR public schools, renew our communities with new jobs and improved quality of life, and expand access to quality healthcare & mental healthcare services. " ​ -Mayor Lincoln Barnett Donate Here! press to zoom press to zoom press to zoom press to zoom 1/4 Education | Renewal | Access About Mayor Barnett Mayor Lincoln Barnett serves as the Mayor of Hughes, is former Chairman of the St.
 Francis County Democratic Party, and is a State Committee Member for the Democratic Party of Arkansas.
 He has been engaged in public service since the age of 23, starting out as a School Board Member for the Hughes School District in 2012 (now consolidated with West Memphis School District).
 After graduating from Morehouse College in Atlanta, Mayor Barnett returned home and dedicated himself to service.
 As a 2nd-term Mayor, Rural Non-Profit Leader, and Minister, he knows the gaps that exist in our communities and what support is needed for East Arkansas to thrive again.
 He is committed to protecting East Arkansas public schools, expanding access to healthcare & mental healthcare, and reviving our area with new jobs and new beginnings.
-Mayor Barnett's Priorities
-"It's a new ERA in East Arkansas."
--Mayor Lincoln Barnett
-Education
-- Adequately fund public schools
-- Pay East AR teachers a nationally competitive wage
-- Empower parents to be involved
-- Expand wrap-around services to meet students' hunger and health needs
-Renewal
-- Improve quality of life
-- Attract new employers & higher paying jobs
-- Criminal justice & prison reform - fair sentencing, enhanced rehab programming to reduce re-incarceration, expanded job/skills training and education for the incarcerated
-Access
-- More affordable in-state technical school & college options
-- Prioritize transparency in government and access to your State Rep
-- Address regional hunger and lack of access to healthy food
-- Address rural health clinic & rural hospital closures; attract more providers
-- Expand access to mental healthcare, drug rehabilitation, and healthcare services
+About Mayor Barnett's Priorities "It's a new ERA in East Arkansas." -Mayor Lincoln Barnett ​ Education Adequately fund public schools Pay East AR teachers a nationally competitive wage Empower parents to be involved Expand wrap-around services to meet students' hunger and health needs Renewal Improve quality of life Attract new employe rs & higher paying jobs Criminal ju stice & prison reform - fair sentencing, enhanced rehab progra m ming to reduce re-incarceration, expanded job/skills training and education for the incarcerated Access ​ ​ More affordable in-state technical school & college options Prioritize transparency in government and access to your State Rep Address regional hunger and lack of access to healthy food Address rural health clinic & rural hospital closures; attract more providers Expand access to mental healthcare, drug rehabilitation, and healthcare services Contact Contact Lincoln E.
+Barnett for Arkansas PO Box 1435 ​​Forrest City, AR 72336 870-270-4311 info@LincolnBarnett.com © # by Lincoln Barnett for Arkansas bottom of page

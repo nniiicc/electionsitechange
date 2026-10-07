@@ -1,14 +1,50 @@
 [
-"https://cyndimunson.com/",
-"https://cyndimunson.com/Meet_Cyndi",
-"https://cyndimunson.com/contact",
-"https://cyndimunson.com/events",
-"https://cyndimunson.com/media",
-"https://cyndimunson.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/CyndiMunsonOK",
-"https://instagram.com/CyndiMunsonOK",
-"https://secure.actblue.com/donate/cm4ok_web",
-"https://shop.cyndimunson.com/",
-"https://x.com/CyndiMunsonOK"
+{
+"text": "Contact",
+"href": "https://www.cyndimunson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cm4ok_web"
+},
+{
+"text": "Events",
+"href": "https://www.cyndimunson.com/events"
+},
+{
+"text": "Media",
+"href": "https://www.cyndimunson.com/media"
+},
+{
+"text": "Meet Cyndi",
+"href": "https://www.cyndimunson.com/Meet_Cyndi"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://shop.cyndimunson.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cyndimunson.com/volunteer"
+},
+{
+"text": "[image: Cyndi Munson for Oklahoma 2026]",
+"href": "https://www.cyndimunson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CyndiMunsonOK"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/CyndiMunsonOK"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CyndiMunsonOK"
+}
 ]

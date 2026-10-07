@@ -1,76 +1,38 @@
-Paul Cutler, Utah State House district 18
+Home Events & Contact Info More Home Events & Contact Info Home Events & Contact Info Paul Cutler, Utah State House district 18 Welcome!
+Welcome!
+Welcome!
 Welcome!
 Thanks for taking time to research the issues and learn about the Utah State legislature.
-Paul is committed to protecting families and collaborating with other fiscally conservative leaders to keep Utah the best managed state in the country.
-01/10/2023 - Pre Session Town Hall & Newsletter
-01/20/2023 - Utah Legislature Week 1: Teacher Raises, School Choice, & the Governor's Vision
-1/27/2023: Week Two: Medical Care for Transgender Youth, Base Budget, and Utah Disabilities
-2/4/2023 Week Three: Water Week, Flag Survey & the Jazz Bear
-2/10/2023 Week Four: Halfway through, domestic violence, & social media
-2/25/2023: Week 6 Legislative Update: Budget Update, Tax Cut Survey Results & Standing with Ukraine
-3/4/2023: Week 7 Legislative Update: 575 Bills and $29Billion later...
+Contact Paul Learn More About the Issues Latest Updates Thank you for trusting Paul to represent you in the Legislature Paul is committed to protecting families and collaborating with other fiscally conservative leaders to keep Utah the best managed state in the country.
+2026 Newsletters 2026 House District 18 Newsletters 2026 August: Nobel Prize Winner Interview, Best in State x4 2026 July: 250 Years of Freedom & Prosperity 2026 June: Data Center Mayhem, June Town Hall & Let’s Celebrate America 250 2026 May -- Stay Safe this Sprin g 2026 April -- General Session Recap/ Putting More Money Back in Your Pockets 2026 Week 7: the session is over 2026 Week 6: Saving Money, increasing transparency 2026 Week 5: Snow, Survey Results and Supporting Families 2026 Week 4: Promoting Public Safety 2026 Week 3 Recap/ Accountability, Great Salt Lake Updates 2026 Week 2 Update: Elections, E-Bikes, & Court Funding 2026 Week 1: The Legislature is back in session 2026 Jan -- Great Salt Lake Update, Upcoming Town Halls & Legislative priorities Subscribe to House District 18 Newsletters 2026 Session Summary Documents 2025 Newsletters 2025 House District 18 Newsletters 2025 Jan -- Preparing for the Legislative Session, Upcoming Town Hall, and Survey 2025 Week 1- Back in Session Again – Should we Change our Clocks?
+2005 Week 2-We have a budget and a dispute over Unions 2025 Week 3 Vote by mail Legislative Update 2025 Week 4--Building a Safer, Stronger Utah 2025 Week 5 More Election bills, Protecting Kids, and balancing the budget 2025 Week 6- Negotiation Time, Budget Balancing, & Preserving Vote by Mail 2025 Week 7 - The session is over and the budget is balanced April 2025- Highlights from the 2025 Legislative Session: October 2025: Redistricting Update Nov 2025 Protecting Families Dec 2025--Year end wrap up & AI update Subscribe to House District 18 Newsletters 2025 Session Summary Documents 2025 Session Budget Overview Document FY26 Budget Year Overview Budget Visualization Tool Download PDF 2024 Legislative Session Summary Documents Budget Quick Facts (2page) (pdf) Download FY25 Budget in Bullets (pdf) Download Final Selected Highlights of the 2024 General Session[68] (pdf) Download Baseball One Pager (pdf) Download SLC Revitalization (Jazz & NHL) SB 272 One Pager (pdf) Download Newsletters 2024 House District 18 Newsletters 01/10/2024 - Countdown to the Legislative Session: Please Join Me for a Pre Legislative Town Hall Week 1 Legislative Update: The People’s House is in Session Week 2 Legislative Update: Let’s Get Down to Business Week 3 Legislative Update: Look Ma, No Hands Week 4 Legislative Update: More than halfway done Week 5 Legislative Update: Shortest Session in the Country Week 6 Legislative Update: The Fast & Furious Week 7 Legislative Update: And Just Like That -- It's Over April 2024: Good News Springing For Utah!
+May 2024: Working for Utah, all year long July 2024: Summer update from your State Rep August 2024: Special Session Amendment D on Citizen Initiatives September 2024: Constitution Month, Town Halls, & Amendment D in Court October 2024: Long Term Trends, Signature Audit, & Time to Vote!
+Nov/Dec 2024: Election Stats, Housing & Energy Subscribe to House District 18 Newsletters 2023 House District 18 Newsletters 01/10/2023 - Pre Session Town Hall & Newsletter 01/20/2023 - Utah Legislature Week 1: Teacher Raises, School Choice, & the Governor's Vision 1/27/2023: Week Two: Medical Care for Transgender Youth, Base Budget, and Utah Disabilities 2/4/2023 Week Three: Water Week, Flag Survey & the Jazz Bear 2/10/2023 Week Four: Halfway through, domestic violence, & social media 2/18/2023 Week 5 Legislative Update: Largest Tax Cut In Utah History, Supporting Teachers, and Attack Drones 2/25/2023: Week 6 Legislative Update: Budget Update, Tax Cut Survey Results & Standing with Ukraine 3/4/2023: Week 7 Legislative Update: 575 Bills and $29Billion later...
 April 2023: Post session reflections & how the 2023 general session will benefit YOU!
-May 2023: Utah is #1 (twice)
-June 2023: Special Session & Emergency Flooding update
-July 2023: June Special Session Report & Happy Independence Day, Utah!
-August 2023: Summer Update from Capitol Hill and the Great Salt Lake
-September 2023: September is Constitution Month, tell us why you love America
-October 2023: Town Hall Oct 4th, I-15 Plan updated, & Utah is the Happiest State in the Nation
-November 2023: A Magnificent Golden Spike, Standing with Israel, & Hope for Homeless Teens
-December 2023: Olympic Sized Good News for the Beehive State!
-Fiscal Conservatism: live within our means and keep Utah the best managed state in the country with small, efficient, responsive government
-- Government's natural tendency is to grow larger and use all resources available.
+May 2023: Utah is #1 (twice) June 2023: Special Session & Emergency Flooding update July 2023: June Special Session Report & Happy Independence Day, Utah!
+August 2023: Summer Update from Capitol Hill and the Great Salt Lake September 2023: September is Constitution Month, tell us why you love America October 2023: Town Hall Oct 4th, I-15 Plan updated, & Utah is the Happiest State in the Nation November 2023: A Magnificent Golden Spike, Standing with Israel, & Hope for Homeless Teens December 2023: Olympic Sized Good News for the Beehive State!
+2023 Legislative Session Summary Water related investments made in the 2023 session Download PDF Paul's approach to the Issues Values I Believe in: Fiscal Conservatism: live within our means and keep Utah the best managed state in the country with small, efficient, responsive government Government's natural tendency is to grow larger and use all resources available.
 It must be held in check by constant disciplined and principled efforts.
-Local Control: keep decisions local whenever possible
-- The Legislature loves to complain about Federal overreach and mandates from Washington DC.
+Local Control: keep decisions local whenever possible The Legislature loves to complain about Federal overreach and mandates from Washington DC.
 It's hypocritical to then turn around and dictate mandates and one-size-fits-all laws to cities and districts.
 Collaborative Decision Making: state government should work closely WITH, NOT AGAINST, our local county, cities, and school district.
-- Lawmakers with experience in local government often see the advantages of more voices at the table to improve decision making
-Investing in Education: As Utahans, we value education.
+Lawmakers with experience in local government often see the advantages of more voices at the table to improve decision making Investing in Education: As Utahans, we value education.
 Our children are our most important resource; high-quality public education benefits everyone in the community.
-- The legislature should be supporting teachers and not micromanaging them.
+The legislature should be supporting teachers and not micromanaging them.
 I want to see less overhead, and more money go directly to the classroom where it makes the biggest impact.
-- I recognize our current education system is not working for all kids.
+I recognize our current education system is not working for all kids.
 Parents need choices.
 Parents have the right and the responsibility to be involved as a stakeholder in curriculum and education decisions.
-Preserving Open Space: protecting our hillside and our lakeside for outdoor recreation
-- Protecting the ecologically sensitive Farmington Bay and the Great Salt Lake is critical to the quality of life in our community.
-Proactive Planning: balancing economic growth with protecting quality of life for us and our grandchildren
-- We choose to live in our community because it's a great place to raise families.
+Preserving Open Space: protecting our hillside and our lakeside for outdoor recreation Protecting the ecologically sensitive Farmington Bay and the Great Salt Lake is critical to the quality of life in our community.
+Proactive Planning: balancing economic growth with protecting quality of life for us and our grandchildren We choose to live in our community because it's a great place to raise families.
 We must plan carefully to preserve our family friendly culture in the midst of explosive population growth.
-- Water is a precious resource critical to our quality of life.
+Water is a precious resource critical to our quality of life.
 We must improve our conservation, preserve the supplies we have today, and plan for development of additional water sources.
-Protecting the Vulnerable: children, homeless, minorities, mentally ill, financially insecure, broken families, and those recovering from addiction
-- In addition to our moral duty to protect society's most vulnerable, I believe in compassion for who are suffering abuse, addiction, have mental or physical health challenges, and at risk youth.
-Religious Liberty & Freedom: we must rigorously guard religious liberties, relentlessly encourage freedom, and fiercely protect the rights of each individual
-I reject the divisive fear based politics of Washington DC.
+Protecting the Vulnerable : children, homeless, minorities, mentally ill, financially insecure, broken families, and those recovering from addiction In addition to our moral duty to protect society's most vulnerable, I believe in compassion for who are suffering abuse, addiction, have mental or physical health challenges, and at risk youth.
+Religious Liberty & Freedom: we must rigorously guard religious liberties, relentlessly encourage freedom, and fiercely protect the rights of each individual The Utah Way--Conservative & Collaborative I reject the divisive fear based politics of Washington DC.
 I believe in a better way — the Utah Way.
-I believe in our conservative Republican Principles that tell us WE CAN:
-● We can be fiscally conservative and we can give a hand-up to those who need help
-● We can fight for personal liberty and religious freedoms and we can work together to solve challenging social problems
-● We can support our local schools and we can give parents choices in education
-● We can have strong economic growth and at the same time we can protect our family friendly communities
-● We can support our Police and we can stamp out bullying and racism in our schools and communities
-● We can be respectful, compassionate and kind and we can stand firm in the conservative principles that help make Utah the best managed State in the country
-· Centerville City Mayor
-· Centerville City Council
-· Republican State Central Committee
-· Republican State & County Delegate
-· CenterPoint Legacy Theatre Board
-· Centerville Community Foundation
-· UTOPIA & UIA Board Member
-· Utah Information Technology Association Public Policy Committee
-· ULCT Legislative Policy Committee
-· Husband of the fabulous Sherry Cutler
-· Father of four (mostly) amazing kids, grandpa to 5 perfect grandkids
-· BS Electrical Engineering, U of U
-· MBA, BYU
-· Pragmatic problem solver with strong communications skills and experience communicating in high-pressure, high-stakes situations
-· Careful decision maker with a desire to listen and the ability to separate facts from emotions when deliberating
-· Engineering Director for a global technology company with 25+ years of experience in technology consulting
-· Lover of music and performing arts
-· Outdoor sports enthusiast who enjoys biking, hiking, running, coaching youth sports, and dreaming of a Utah Jazz NBA championship
-All donations are reported on disclosure.utah.gov as required by law
-Copyright © 2026 Paul Cutler, Utah State Legislature House District 18 - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+I believe in our conservative Republican Principles that tell us WE CAN: ● We can be fiscally conservative and we can give a hand-up to those who need help ● We can fight for personal liberty and religious freedoms and we can work together to solve challenging social problems ● We can support our local schools and we can give parents choices in education ● We can have strong economic growth and at the same time we can protect our family friendly communities ● We can support our Police and we can stamp out bullying and racism in our schools and communities ● We can be respectful, compassionate and kind and we can stand firm in the conservative principles that help make Utah the best managed State in the country Past Public Service · Centerville City Mayor · Centerville City Council · Republican State Central Committee · Republican State & County Delegate · CenterPoint Legacy Theatre Board · Centerville Community Foundation · UTOPIA & UIA Board Member · Utah Information Technology Association Public Policy Committee · ULCT Legislative Policy Committee Who is Paul Cutler? · Husband of the fabulous Sherry Cutler · Father of four (mostly) amazing kids, grandpa to 5 perfect grandkids · BS Electrical Engineering, U of U · MBA, BYU · Pragmatic problem solver with strong communications skills and experience communicating in high-pressure, high-stakes situations · Careful decision maker with a desire to listen and the ability to separate facts from emotions when deliberating · Engineering Director for a global technology company with 25+ years of experience in technology consulting · Lover of music and performing arts · Outdoor sports enthusiast who enjoys biking, hiking, running, coaching youth sports, and dreaming of a Utah Jazz NBA championship How you can help: We always appreciate campaign donations to help cover the cost of campaign activities and legislative related events.
+Thank you for your support that allows me to serve.
+All donations are reported on disclosure.utah.gov as required by law Map of House District 18 What are the boundaries of Utah House District 18?
+Download PDF Social Copyright © # Paul Cutler, Utah State Legislature House District 18 - All Rights Reserved.
+Events & Contact Info Powered by

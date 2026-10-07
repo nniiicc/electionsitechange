@@ -1,25 +1,5 @@
-City of Bulverde budget adoption update
-The City of Bulverde is voting to adopt their 2025 FY Budget on Thursday September 5th at 6pm, at the Bulverde City Hall (30360 Cougar Bend, Bulverde, TX; 830-483-3612)!
-According to the Bulverde’s Notice of Public Hearing on Tax Increase, the situation is as follows:
-Tax Rate
-- 2023 (adopted): $0.197090 per $100/value
-- 2024 (proposed): $0.229807 per $100/value
-- 16.6 % increase
-- No-new-revenue tax rate: $0.195618 per $100/value
-- Voter-approval tax rate: $0.203638 per $100/value
-Property Value
-- 2023 average taxable value of homestead: $420,572
-- 2024 average taxable value of homestead: $469,071
-- 11.53% increase
-Tax Bill (city portion only)
-- 2023 tax bill on average homestead (actual): $828
-- 2024 tax bill on average homestead (proposed): $1,078
-- 30.04% increase
-Tax Levy
-- 2023 levy (actual): $2,785,357
-- 2024 levy (proposed): $3,476,031
-- 24.79% increase
-City officials are entertaining a major tax increase that will noticeably impact the average resident.
+Home Meet Carrie New Events Issues Endorsements News Contact Contribute Home Meet Carrie New Events Issues Endorsements News Contact Contribute City of Bulverde budget adoption update The City of Bulverde is voting to adopt their 2025 FY Budget on Thursday September 5th at 6pm, at the Bulverde City Hall (30360 Cougar Bend, Bulverde, TX; 830-483-3612)!
+According to the Bulverde’s Notice of Public Hearing on Tax Increase , the situation is as follows: Tax Rate 2023 (adopted): $0.197090 per $100/value 2024 (proposed): $0.229807 per $100/value 16.6 % increase No-new-revenue tax rate: $0.195618 per $100/value Voter-approval tax rate: $0.203638 per $100/value Property Value 2023 average taxable value of homestead: $420,572 2024 average taxable value of homestead: $469,071 11.53% increase Tax Bill (city portion only) 2023 tax bill on average homestead (actual): $828 2024 tax bill on average homestead (proposed): $1,078 30.04% increase Tax Levy 2023 levy (actual): $2,785,357 2024 levy (proposed): $3,476,031 24.79% increase City officials are entertaining a major tax increase that will noticeably impact the average resident.
 In fact, according to the city’s materials, the typical homeowner will experience a 30%+ growth in their city-specific tax bill—this is a very large increase that the public should be aware of!
 Another thing to note is that city officials are proposing a significant rate increase at a time when property values are experiencing major growth as well.
 Those 2 factors combine to put tremendous upward pressure on tax bills.
@@ -28,3 +8,5 @@ For Bulverde residents, that means: If the City of Bulverde adopts the proposed 
 If a majority of the voters reject the proposed tax rate, the tax rate of the City of Bulverde will be the voter-approval tax rate of the City of Bulverde.
 Tax cuts from the legislature become obsolete when these local municipalities do not adopt the no new revenue tax rate.
 Please connect with your city, and push them to adopt a no new revenue rate for the 2025 Fiscal Year!
+Carrie Isaac September 3, 2024 Facebook 0 Twitter 0 Likes Previous Hays County voting to adopt budget Carrie Isaac September 13, 2024 Next Schertz and Hays County Tax Rate & Budget Adoption Hearings Carrie Isaac August 30, 2024 Political ad paid for by Carrie Isaac for Texas.
+13501 Ranch Road 12, #103, Wimberley, TX 78676

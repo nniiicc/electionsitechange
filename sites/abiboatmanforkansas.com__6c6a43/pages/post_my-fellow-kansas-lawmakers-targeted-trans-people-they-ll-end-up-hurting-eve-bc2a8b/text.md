@@ -1,6 +1,7 @@
-My fellow Kansas lawmakers targeted trans people.
+top of page Contribute Menu Close About Priorities Get Involved Blog Donate Contact Vote All Posts Search My fellow Kansas lawmakers targeted trans people.
 They’ll end up hurting everybody.
-In August 2001, I enlisted in the U.S.
+Rep.
+Abi Boatman Mar 1 4 min read In August 2001, I enlisted in the U.S.
 Air Force to serve our country.
 In 2009, my service brought me to Kansas and McConnell Air Force Base.
 I now proudly serve the people of Wichita as the state representative for House District 86, and I am the second transgender legislator in Kansas history.
@@ -13,7 +14,7 @@ The third part lets someone who believes they see somebody transgender breaking 
 Their reports would be investigated by Kansas Attorney General Kris Kobach.
 Supporters of the law claim it’s about safety.
 Nothing could be further from the truth.
-In fact, despite repeated assertions that this law is necessary to protect women and children in private spaces, the statute includes a clause that lets a person “enter a multiple-occupancy private space designated for use by individuals of the opposite sex … to render assistance necessary in preventing a serious threat to proper order of safety.” That clause could be reasonably construed to allow men into any women’s space based solely on their subjective opinion.
+In fact, despite repeated assertions that this law is necessary to protect women and children in private spaces, the statute includes a clause that lets a person “enter a multiple-occupancy private space designated for use by individuals of the opposite sex … to render assistance necessary in preventing a serious threat to proper order of safety .” That clause could be reasonably construed to allow men into any women’s space based solely on their subjective opinion.
 That sounds more like tyranny than safety to me.
 Already, two transgender Kansans have filed a lawsuit in response to the law.
 Simply put, this is more government interference in our private lives that creates unnecessary problems for everyone.
@@ -52,3 +53,6 @@ For more than a decade, my answer has always been the same: The work is here.
 Kansas is a beautiful state.
 Kansas is my home, and we have a lot of good things going for us.
 So I’m staying here to defend the freedom of all Kansans, whether the majority party likes it or not.
+Recent Posts See All A Tale of Two Kansases Our Kids Deserve Better: We Must Fully Fund Kansas Schools What Pride Month Means to Me Abi Boatman for Kansas Donate Now abiboatmanforkansas@gmail.com ​ ​ Paid for by Abi Boatman for Kansas, Kaytie Brozek, Treasurer ​ © Abi Boatman for Kansas.
+Powered and secured by Wix Privacy Policy.
+Terms & Conditions. bottom of page

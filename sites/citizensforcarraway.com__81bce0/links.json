@@ -1,30 +1,178 @@
 [
-"https://actionnetwork.org/forms/join-our-email-list-145",
-"https://bsky.app/profile/carrawayhq.bsky.social",
-"https://citizensforcarraway.bbimerch.com/",
-"https://citizensforcarraway.com/",
-"https://citizensforcarraway.com/bio",
-"https://citizensforcarraway.com/cart",
-"https://citizensforcarraway.com/contact",
-"https://citizensforcarraway.com/endorsements",
-"https://citizensforcarraway.com/events",
-"https://citizensforcarraway.com/news",
-"https://citizensforcarraway.com/priorities",
-"https://citizensforcarraway.com/privacy-policy",
-"https://citizensforcarraway.com/volunteer",
-"https://citizensforcarraway.com/yardsign",
-"https://facebook.com/citizensforcarraway",
-"https://instagram.com/citizensforcarraway",
-"https://instagram.com/citizensforcarraway?igsh=cjJrZDBvdGQ1aXZy",
-"https://secure.actblue.com/donate/angiefor89",
-"https://secure.actblue.com/donate/angiefor89?amount=100",
-"https://secure.actblue.com/donate/angiefor89?amount=25",
-"https://secure.actblue.com/donate/angiefor89?amount=250",
-"https://secure.actblue.com/donate/angiefor89?amount=50",
-"https://threads.com/@citizensforcarraway",
-"https://tiktok.com/@carrawayhq",
-"https://tiktok.com/@carrawayhq?_r=1&_t=ZT-9359QKKbQXF",
-"https://votetexas.gov/register-to-vote",
-"https://x.com/CarrawayHQ",
-"https://youtube.com/@CarrawayHQ"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/angiefor89?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/angiefor89?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/angiefor89?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/angiefor89?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.citizensforcarraway.com/cart"
+},
+{
+"text": "Check your registration →",
+"href": "https://www.votetexas.gov/register-to-vote/"
+},
+{
+"text": "Check your status",
+"href": "https://www.votetexas.gov/register-to-vote/"
+},
+{
+"text": "Citizens for Carraway",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.citizensforcarraway.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/angiefor89"
+},
+{
+"text": "Donate to Angie",
+"href": "https://secure.actblue.com/donate/angiefor89"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforcarraway.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforcarraway.com/events"
+},
+{
+"text": "Get a yard sign!",
+"href": "https://www.citizensforcarraway.com/yardsign"
+},
+{
+"text": "Give via ActBlue",
+"href": "https://secure.actblue.com/donate/angiefor89"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "Meet Angie",
+"href": "https://www.citizensforcarraway.com/bio"
+},
+{
+"text": "News",
+"href": "https://www.citizensforcarraway.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/angiefor89"
+},
+{
+"text": "Priorities",
+"href": "https://www.citizensforcarraway.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.citizensforcarraway.com/privacy-policy"
+},
+{
+"text": "Read Angie's Story",
+"href": "https://www.citizensforcarraway.com/bio"
+},
+{
+"text": "Read the plan →",
+"href": "https://www.citizensforcarraway.com/priorities#affordability"
+},
+{
+"text": "Read the plan →",
+"href": "https://www.citizensforcarraway.com/priorities#education"
+},
+{
+"text": "Read the plan →",
+"href": "https://www.citizensforcarraway.com/priorities#transparency"
+},
+{
+"text": "Register to vote",
+"href": "https://www.votetexas.gov/register-to-vote/"
+},
+{
+"text": "See all endorsements",
+"href": "https://www.citizensforcarraway.com/endorsements"
+},
+{
+"text": "Shop",
+"href": "https://citizensforcarraway.bbimerch.com/"
+},
+{
+"text": "Shop Campaign Gear",
+"href": "https://citizensforcarraway.bbimerch.com/"
+},
+{
+"text": "Sign Up",
+"href": "https://actionnetwork.org/forms/join-our-email-list-145"
+},
+{
+"text": "Sign up to volunteer",
+"href": "https://www.citizensforcarraway.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.citizensforcarraway.com/volunteer"
+},
+{
+"text": "Voting information",
+"href": "https://www.citizensforcarraway.com/#vote"
+},
+{
+"text": "[image: Angie Carraway for Texas House District 89 seal]",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/carrawayhq.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/citizensforcarraway?igsh=cjJrZDBvdGQ1aXZy"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carrawayhq"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carrawayhq?_r=1&_t=ZT-9359QKKbQXF"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarrawayHQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CarrawayHQ"
+},
+{
+"text": "contact@citizensforcarraway.com",
+"href": "mailto:contact@citizensforcarraway.com"
+}
 ]

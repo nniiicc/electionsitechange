@@ -1,8 +1,34 @@
 [
-"https://facebook.com/jason.r.anavitarte",
-"https://jasonanavitarte.com/",
-"https://jasonanavitarte.com/about",
-"https://jasonanavitarte.com/events",
-"https://jasonanavitarte.com/volunteer",
-"https://twitter.com/jasonanavitarte?lang=en"
+{
+"text": "About",
+"href": "https://www.jasonanavitarte.com/about/"
+},
+{
+"text": "Events",
+"href": "https://www.jasonanavitarte.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.jasonanavitarte.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jasonanavitarte.com/volunteer/"
+},
+{
+"text": "[image: Jason Anavitarte for Senate][image: Jason Anavitarte for Senate]",
+"href": "https://www.jasonanavitarte.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jasonanavitarte?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jason.r.anavitarte/"
+},
+{
+"text": "[no text]",
+"href": "mailto:jason@jasonanavitarte.com"
+}
 ]

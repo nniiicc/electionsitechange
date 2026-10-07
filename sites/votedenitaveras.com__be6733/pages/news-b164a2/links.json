@@ -1,14 +1,54 @@
 [
-"http://facebook.com/10154924738362252",
-"https://baltimoresun.com/politics/elections/voter-guide/bs-2022-candidate-md-delegate-taverasden-20220518-qtmxe72htzhvzkhk7q4qcsikju-story.html",
-"https://marylandmatters.org/2022/05/26/with-healthy-babies-equity-act-maryland-will-join-other-states-that-provide-prenatal-care-regardless-of-immigration-status",
-"https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy",
-"https://votedenitaveras.com/",
-"https://votedenitaveras.com/about-deni",
-"https://votedenitaveras.com/achievements",
-"https://votedenitaveras.com/donate",
-"https://votedenitaveras.com/events",
-"https://votedenitaveras.com/issues",
-"https://votedenitaveras.com/news",
-"https://washingtonpost.com/dc-md-va/2022/06/01/prince-georges-county-council-2023-budget"
+{
+"text": "ABOUT DENI",
+"href": "https://votedenitaveras.com/about-deni"
+},
+{
+"text": "ACHIEVEMENTS",
+"href": "https://votedenitaveras.com/achievements"
+},
+{
+"text": "DONATE",
+"href": "https://votedenitaveras.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://votedenitaveras.com/events"
+},
+{
+"text": "HOME",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://votedenitaveras.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://votedenitaveras.com/news"
+},
+{
+"text": "Read more",
+"href": "https://www.baltimoresun.com/politics/elections/voter-guide/bs-2022-candidate-md-delegate-taverasden-20220518-qtmxe72htzhvzkhk7q4qcsikju-story.html"
+},
+{
+"text": "Read more",
+"href": "https://www.marylandmatters.org/2022/05/26/with-healthy-babies-equity-act-maryland-will-join-other-states-that-provide-prenatal-care-regardless-of-immigration-status/"
+},
+{
+"text": "Read more",
+"href": "https://www.washingtonpost.com/dc-md-va/2022/06/01/prince-georges-county-council-2023-budget/"
+},
+{
+"text": "Vote Deni Taveras 2026",
+"href": "https://votedenitaveras.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/10154924738362252"
+},
+{
+"text": "the most consequential politician in the last 20 years in Hyattsville",
+"href": "https://route1reporter.com/2021/04/14/on-hyattsville-forum-deleted-endorsement-is-latest-city-election-controversy/"
+}
 ]

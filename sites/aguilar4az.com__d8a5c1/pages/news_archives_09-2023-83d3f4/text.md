@@ -1,3 +1,4 @@
-| At the beginning of the month, we saw our state’s GOP once again relapse into the inflammatory conspiracies of the 2022 campaign cycle.
-During a hearing of the new Ad Hoc Committee on Oversight, Accountability, and Big Tech, members of the Arizona GOP trotted out both old and new theories to rationalize their electoral failures.
-“It wasn’t our extreme policies and candidates that turned off swing voters in 2022, it must have been Google!” | Archives Categories |
+Home Meet Cesar Issues Join Our Movement News ENDORSEMENTS DONATE Shop Republicans relapse into inflammatory conspiracies 9/28/2023 0 Comments At the beginning of the month, we saw our state’s GOP once again relapse into the inflammatory conspiracies of the 2022 campaign cycle.
+During a hearing of the new Ad Hoc Committee on Oversight, Accountability, and Big Tech, members of the Arizona GOP trotted out both old and new theories to rationalize their electoral failures. ​ “It wasn’t our extreme policies and candidates that turned off swing voters in 2022, it must have been Google!” Read More 0 Comments Archives September 2023 August 2023 May 2023 April 2023 January 2023 December 2022 March 2022 January 2021 October 2019 April 2019 Categories All PAID FOR BY CESAR AGUILAR FOR STATE REPRESENTATIVE DISTRICT- 26.
+AUTHORIZED BY CESAR AGUILAR.
+Home Meet Cesar Issues Join Our Movement News ENDORSEMENTS DONATE Shop

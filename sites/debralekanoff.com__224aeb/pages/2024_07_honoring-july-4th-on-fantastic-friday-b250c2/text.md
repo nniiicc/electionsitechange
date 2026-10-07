@@ -1,6 +1,4 @@
-Honoring July 4th on Fantastic Friday
-Dear Friends,
-Leslee Denise Smith, known as “Leslee (with 2 ees)” to her friends, colleagues, and community, began her journey in the fire service as a local volunteer.
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Honoring July 4th on Fantastic Friday Honoring July 4th on Fantastic Friday Published On: July 5, 2024 Categories: Fantastic Fridays Dear Friends, Leslee Denise Smith, known as “Leslee (with 2 ees)” to her friends, colleagues, and community, began her journey in the fire service as a local volunteer.
 At age 45, she transitioned into a professional firefighter/EMT, serving with honor, integrity, and grace until her retirement as a lieutenant in the fall of 2021.
 Over her 26-year career, she was instrumental in mentoring and training new recruits, setting a fine example for both women and men in the fire service.
 Leslee’s dedication to her community remained unwavering even after her second line-of-duty cancer diagnosis, which forced her to retire.
@@ -24,3 +22,6 @@ This year and years to come, I will work with Wa State Firefighters and my colle
 This includes safe working conditions, competitive wages, safety for volunteers, protective gear and supplies, health insurance and recognition and acceptance of premature health conditions, safe fire stations with healthy occupancy standards, and financial support for the families of fallen firefighters.
 Leslee’s legacy will continue to inspire us to take care of those who dedicate their lives to taking care of us.
 My 2025 legislative recommendations will reflect this commitment, honoring the values and dedication that Leslee exemplified throughout her career.
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

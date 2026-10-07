@@ -1,5 +1,4 @@
-About Colleen
-Born and raised in Spokane County, Colleen grew up in a family of public servants.
+0 Skip to Content About Endorsements Donate Open Menu Close Menu About Endorsements Donate Open Menu Close Menu About Endorsements Donate About Colleen Born and raised in Spokane County, Colleen grew up in a family of public servants.
 Her father was a public school educator, and her mother was a nurse who worked at the Department of Health on improving our health care system.
 In college at the University of Washington, Colleen waited tables full-time while earning double degrees in Law, Societies, and Justice and in Spanish.
 She volunteered throughout college at the Casa Latina Day Workers’ Center, helping immigrant workers find employment opportunities, access essential services, and safely integrate into our communities.
@@ -16,3 +15,4 @@ As a Supreme Court Justice, Colleen is already making an impact– working to en
 She regularly speaks to civic and community groups about the importance of state courts and state constitutions in safeguarding our democracy.
 Colleen is the proud mother of two daughters who attend public school.
 She lives with her husband and children in rural King County.
+Resume hello@melodyforjustice.com (206) 745-2010 © # Paid for by Retain Justice Melody PO Box 9100 Seattle, WA 98109

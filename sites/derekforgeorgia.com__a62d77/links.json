@@ -1,11 +1,50 @@
 [
-"https://derekforgeorgia.com/",
-"https://derekforgeorgia.com/about-derek-mallow",
-"https://derekforgeorgia.com/contacts",
-"https://derekforgeorgia.com/platforms",
-"https://derekforgeorgia.com/resources",
-"https://facebook.com/DerekForGeorgia",
-"https://instagram.com/derekforgeorgia",
-"https://secure.actblue.com/donate/derekforstatesenate",
-"https://twitter.com/derekforgeorgia"
+{
+"text": "About Derek Mallow",
+"href": "https://derekforgeorgia.com/about-derek-mallow/"
+},
+{
+"text": "Contacts",
+"href": "https://derekforgeorgia.com/contacts/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/derekforstatesenate"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/derekforgeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/DerekForGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/derekforgeorgia/"
+},
+{
+"text": "Home",
+"href": "https://derekforgeorgia.com/"
+},
+{
+"text": "Learn More",
+"href": "https://derekforgeorgia.com/about-derek-mallow/"
+},
+{
+"text": "Platform",
+"href": "https://derekforgeorgia.com/platforms/"
+},
+{
+"text": "Platforms",
+"href": "https://derekforgeorgia.com/platforms/"
+},
+{
+"text": "Resources",
+"href": "https://derekforgeorgia.com/resources/"
+},
+{
+"text": "[image]",
+"href": "https://derekforgeorgia.com/"
+}
 ]

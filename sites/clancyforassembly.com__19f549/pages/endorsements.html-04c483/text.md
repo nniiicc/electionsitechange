@@ -1,6 +1,3 @@
-Endorsements and recognitions
-Ryan has earned the support of the community which he stands with and advocates for.
-We welcome you to join these leaders and organizations in supporting him with a donation or by volunteering or connecting with us.
-2024 election:
-Fall 2022
-Spring 2022 (for Milwaukee County Supervisor, District 4):
+Home Contact Priorities About Map Endorsements Media Donate Merchandise Endorsements and recognitions Ryan has earned the support of the community which he stands with and advocates for.
+We welcome you to join these leaders and organizations in supporting him with a donation or by volunteering or connecting with us .
+2026 endorsements​ and distinctions Prior endorsements 2024 election: Prior endorsements ​Fall 2022 Prior endorsements ​Spring 2022 (for Milwaukee County Supervisor, District 4): 2020: Donate to Ryan Clancy for Assembly Volunteer or connect with us Authorized and paid for by Clancy for Assembly Home Contact Priorities About Map Endorsements Media Donate Merchandise

@@ -1,23 +1,90 @@
 [
-"https://allenshenformn.com/",
-"https://allenshenformn.com/allen-and-friends",
-"https://allenshenformn.com/constitutional-rights",
-"https://allenshenformn.com/district-40b",
-"https://allenshenformn.com/economy",
-"https://allenshenformn.com/education",
-"https://allenshenformn.com/government",
-"https://allenshenformn.com/healthcare",
-"https://allenshenformn.com/internship",
-"https://allenshenformn.com/join-us",
-"https://allenshenformn.com/media",
-"https://allenshenformn.com/meet-allen",
-"https://allenshenformn.com/other-issues",
-"https://allenshenformn.com/public-safety",
-"https://allenshenformn.com/take-action",
-"https://allenshenformn.com/veterans",
-"https://allenshenformn.com/vision",
-"https://facebook.com/profile.php?id=100080164073764",
-"https://secure.winred.com/allen-shen-for-state-house/donate-today",
-"https://x.com/shenforhouse",
-"https://youtube.com/@allen_schenn/videos"
+{
+"text": "Allen & Friends",
+"href": "https://www.allenshenformn.com/allen-and-friends"
+},
+{
+"text": "Current Issues",
+"href": "https://www.allenshenformn.com/district-40b"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/allen-shen-for-state-house/donate-today"
+},
+{
+"text": "Government Reform",
+"href": "https://www.allenshenformn.com/government"
+},
+{
+"text": "Healthcare",
+"href": "https://www.allenshenformn.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.allenshenformn.com"
+},
+{
+"text": "Internship",
+"href": "https://www.allenshenformn.com/internship"
+},
+{
+"text": "Join us",
+"href": "https://www.allenshenformn.com/join-us"
+},
+{
+"text": "Media",
+"href": "https://www.allenshenformn.com/media"
+},
+{
+"text": "Meet Allen",
+"href": "https://www.allenshenformn.com/meet-allen"
+},
+{
+"text": "Minnesota's Economy",
+"href": "https://www.allenshenformn.com/economy"
+},
+{
+"text": "Minnesota's Education",
+"href": "https://www.allenshenformn.com/education"
+},
+{
+"text": "Other Issues",
+"href": "https://www.allenshenformn.com/other-issues"
+},
+{
+"text": "Public Safety",
+"href": "https://www.allenshenformn.com/public-safety"
+},
+{
+"text": "Take Action",
+"href": "https://www.allenshenformn.com/take-action"
+},
+{
+"text": "Veterans",
+"href": "https://www.allenshenformn.com/veterans"
+},
+{
+"text": "Vision",
+"href": "https://www.allenshenformn.com/vision"
+},
+{
+"text": "Your Constitutional Rights",
+"href": "https://www.allenshenformn.com/constitutional-rights"
+},
+{
+"text": "[image: Allen Shen for State House]",
+"href": "https://www.allenshenformn.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100080164073764"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/shenforhouse"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@allen_schenn/videos"
+}
 ]

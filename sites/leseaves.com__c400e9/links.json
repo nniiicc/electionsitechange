@@ -1,4 +1,10 @@
 [
-"https://leseaves.com/",
-"https://leseaves.com/contact-8"
+{
+"text": "Contact",
+"href": "https://www.leseaves.com/contact-8"
+},
+{
+"text": "Home",
+"href": "https://www.leseaves.com"
+}
 ]

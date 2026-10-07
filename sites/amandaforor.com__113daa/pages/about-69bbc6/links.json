@@ -1,10 +1,42 @@
 [
-"https://amandaforor.com/",
-"https://amandaforor.com/about",
-"https://amandaforor.com/endorsements",
-"https://amandaforor.com/in-the-news",
-"https://amandaforor.com/issues",
-"https://facebook.com/amandaforor",
-"https://instagram.com/amandaforor",
-"https://twitter.com/AmandaforOR"
+{
+"text": "ABOUT",
+"href": "https://amandaforor.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "https://amandaforor.com/#contact"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://amandaforor.com/endorsements/"
+},
+{
+"text": "HOME",
+"href": "https://amandaforor.com/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://amandaforor.com/in-the-news/"
+},
+{
+"text": "ISSUES",
+"href": "https://amandaforor.com/issues/"
+},
+{
+"text": "[image] [image]",
+"href": "https://amandaforor.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AmandaforOR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/amandaforor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amandaforor"
+}
 ]

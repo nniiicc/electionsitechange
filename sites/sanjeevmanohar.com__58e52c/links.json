@@ -1,8 +1,34 @@
 [
-"https://facebook.com/sanjeevmanoharnhfirst",
-"https://sanjeevmanohar.com/",
-"https://sanjeevmanohar.com/about",
-"https://sanjeevmanohar.com/donate",
-"https://sanjeevmanohar.com/where-i-stand",
-"https://secure.actblue.com/donate/elect-sanjeev-manohar-1"
+{
+"text": "About",
+"href": "https://sanjeevmanohar.com/about"
+},
+{
+"text": "Donate",
+"href": "https://sanjeevmanohar.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elect-sanjeev-manohar-1"
+},
+{
+"text": "Home",
+"href": "https://sanjeevmanohar.com/"
+},
+{
+"text": "Meet Sanjeev",
+"href": "https://sanjeevmanohar.com/about"
+},
+{
+"text": "Where I Stand",
+"href": "https://sanjeevmanohar.com/where-i-stand"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/sanjeevmanoharnhfirst"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/sanjeevmanoharnhfirst/"
+}
 ]

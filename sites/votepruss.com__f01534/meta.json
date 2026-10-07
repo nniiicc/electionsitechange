@@ -1,7 +1,9 @@
 {
  "description": "Vote for Tom Pruss",
  "final_url": "https://votepruss.com/",
- "paid_for_by": null,
+ "fingerprint": "0dd4d93def23f6d6515368812df919d76aa82ecf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "votepruss.com",
  "years_mentioned": []
 }

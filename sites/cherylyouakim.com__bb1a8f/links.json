@@ -1,20 +1,94 @@
 [
-"http://cherylyouakim.com/about",
-"http://cherylyouakim.com/donate",
-"http://cherylyouakim.com/endorsements",
-"http://cherylyouakim.com/priorities",
-"http://cherylyouakim.com/volunteer",
-"http://glyphdigital.com/",
-"https://cherylyouakim.com/",
-"https://cherylyouakim.com/about",
-"https://cherylyouakim.com/blog",
-"https://cherylyouakim.com/donate",
-"https://cherylyouakim.com/endorsements",
-"https://cherylyouakim.com/news",
-"https://cherylyouakim.com/priorities",
-"https://cherylyouakim.com/privacy-policy",
-"https://cherylyouakim.com/volunteer",
-"https://facebook.com/CLYouakim",
-"https://sos.mn.gov/elections-voting/register-to-vote",
-"https://twitter.com/CLYouakim"
+{
+"text": "ABOUT",
+"href": "https://www.cherylyouakim.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://www.cherylyouakim.com/blog/"
+},
+{
+"text": "COUNT ME IN",
+"href": "https://www.cherylyouakim.com/volunteer/"
+},
+{
+"text": "DONATE",
+"href": "http://cherylyouakim.com/donate/"
+},
+{
+"text": "DONATE",
+"href": "https://www.cherylyouakim.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.cherylyouakim.com/endorsements/"
+},
+{
+"text": "Endorsements from Organizations and Individuals",
+"href": "http://cherylyouakim.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CLYouakim"
+},
+{
+"text": "Glyph Digital",
+"href": "http://www.glyphdigital.com"
+},
+{
+"text": "HOME",
+"href": "https://www.cherylyouakim.com/"
+},
+{
+"text": "INFORMATION",
+"href": "https://sos.mn.gov/elections-voting/register-to-vote/"
+},
+{
+"text": "LEARN MORE",
+"href": "http://cherylyouakim.com/about/"
+},
+{
+"text": "Learn More About Cheryl's Legislative Priorities",
+"href": "http://cherylyouakim.com/priorities"
+},
+{
+"text": "Learn More About Hopkins, Edina & St. Louis Park Rep. Cheryl Youakim",
+"href": "http://cherylyouakim.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.cherylyouakim.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.cherylyouakim.com/priorities/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.cherylyouakim.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CLYouakim"
+},
+{
+"text": "VOLUNTEER",
+"href": "http://cherylyouakim.com/volunteer/"
+},
+{
+"text": "Z",
+"href": "http://cherylyouakim.com/priorities"
+},
+{
+"text": "[image: Youakim for State Representative]",
+"href": "https://www.cherylyouakim.com/"
+},
+{
+"text": "",
+"href": "http://cherylyouakim.com/endorsements"
+},
+{
+"text": "",
+"href": "http://cherylyouakim.com/about"
+}
 ]

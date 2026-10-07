@@ -1,12 +1,50 @@
 [
-"https://facebook.com/RepKyleHoffman",
-"https://kylehoffman.net/",
-"https://kylehoffman.net/about",
-"https://kylehoffman.net/achievements",
-"https://kylehoffman.net/contact",
-"https://kylehoffman.net/home",
-"https://kylehoffman.net/mailing-list",
-"https://kylehoffman.net/principles",
-"https://secure.anedot.com/hoffman-for-state-representative/donate",
-"https://wa.me/785-296-7643"
+{
+"text": "About Kyle",
+"href": "https://www.kylehoffman.net/about"
+},
+{
+"text": "Achievements",
+"href": "https://www.kylehoffman.net/achievements"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kylehoffman.net/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/hoffman-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "https://www.kylehoffman.net/"
+},
+{
+"text": "Mailing List",
+"href": "https://www.kylehoffman.net/mailing-list"
+},
+{
+"text": "Principles",
+"href": "https://www.kylehoffman.net/principles"
+},
+{
+"text": "[image]",
+"href": "https://www.kylehoffman.net/home"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/RepKyleHoffman"
+},
+{
+"text": "[no text]",
+"href": "https://wa.me/785-296-7643"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepKyleHoffman"
+},
+{
+"text": "[no text]",
+"href": "mailto:kyle.hoffman@house.ks.gov"
+}
 ]

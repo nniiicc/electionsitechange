@@ -1,5 +1,4 @@
-Meet Bruce Euans
-Husband.
+0 Skip to Content Why I'm Running Meet Bruce Euans Priorities MAKE A DONATION Open Menu Close Menu Why I'm Running Meet Bruce Euans Priorities MAKE A DONATION Open Menu Close Menu Why I'm Running Meet Bruce Euans Priorities MAKE A DONATION Meet Bruce Euans Husband.
 Father.
 Business Leader.
 Conservative.
@@ -13,3 +12,4 @@ Throughout his career, Bruce has earned a reputation as a steady, proven leader 
 He understands how to manage complex responsibilities, solve problems, and work with people to get things done.
 Bruce is not a politician.
 He is a hardworking Ohioan who believes government should be transparent, accountable, and focused on the needs of the people it serves.
+PAID FOR BY OHROC

@@ -1,5 +1,4 @@
-Skip navigation menu
-Leonard Bell is a Manchester, New Hampshire resident, retired U.S.
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate About Leonard About Issues Endorsements Volunteer Contact Donate About Leonard Leonard Bell is a Manchester, New Hampshire resident, retired U.S.
 Navy veteran, and dedicated public servant with more than three decades of experience in leadership, mentoring, and community service.
 Born and raised in Pembroke, Kentucky, Leonard learned the values of hard work and perseverance early in life.
 He went on to serve 20 years in the United States Navy, where he developed deep expertise in personnel management, leadership, and the unique challenges facing military families.
@@ -12,3 +11,8 @@ At home, he is equally grounded—a devoted family man whose commitment to the p
 He brings to everything he does the discipline forged over two decades of military service, paired with the empathy and warmth of someone who knows that family is the foundation of any strong community.
 Leonard Bell believes that service doesn't end when you take off the uniform.
 It is a lifelong calling, and one he is ready to bring to the people of Manchester and Litchfield.
+Donate by mail: Bell for New Hampshire 955 GOFFS FALLS RD SUITE 998 BOX #4263 Manchester, NH 03103 CONTACT: info@bellfornewhampshire.com See our privacy policy .
+Powered by RUN! website builder Paid for by Bell for New Hampshire.
+Jody Bell Fiscal Agent.
+The use of military imagery in campaign material does not imply or constitute endorsement by the Department of Defense or any military service branch.
+You need to enable JavaScript to run this app.

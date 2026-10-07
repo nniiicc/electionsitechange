@@ -1,13 +1,54 @@
 [
-"https://cart/",
-"https://facebook.com/MB4NC",
-"https://instagram.com/mb_4_nc",
-"https://mb4nc.com/",
-"https://mb4nc.com/cases",
-"https://mb4nc.com/endorsements",
-"https://mb4nc.com/michael-byrne",
-"https://mb4nc.com/michael-byrne-court-of-appeals",
-"https://mb4nc.com/videos",
-"https://secure.anedot.com/elect-michael-c-byrne/donate",
-"https://sspba.org/gen/articles/Administrative_Law_Judge_Byrne___Winning__As_an_Attorney_and_as_a_Judge_1083.jsp"
+{
+"text": "Cases",
+"href": "https://mb4nc.com/cases"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/elect-michael-c-byrne/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://mb4nc.com/endorsements"
+},
+{
+"text": "Help Support Michael Send checks to Elect Michael C. Byrne, P.O. Box 97275, Raleigh, NC 27624",
+"href": "https://secure.anedot.com/elect-michael-c-byrne/donate"
+},
+{
+"text": "Home",
+"href": "https://mb4nc.com/michael-byrne-court-of-appeals"
+},
+{
+"text": "Issues",
+"href": "https://mb4nc.com/#issues"
+},
+{
+"text": "Meet Me",
+"href": "https://mb4nc.com/michael-byrne"
+},
+{
+"text": "Videos",
+"href": "https://mb4nc.com/videos"
+},
+{
+"text": "[image: Elect Michael C. Byrne]",
+"href": "https://mb4nc.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MB4NC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mb_4_nc/"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+},
+{
+"text": "article",
+"href": "https://www.sspba.org/gen/articles/Administrative_Law_Judge_Byrne___Winning__As_an_Attorney_and_as_a_Judge_1083.jsp"
+}
 ]

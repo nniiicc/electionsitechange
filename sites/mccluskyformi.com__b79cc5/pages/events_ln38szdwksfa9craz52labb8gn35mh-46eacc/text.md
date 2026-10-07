@@ -1,10 +1,2 @@
-Back to All Events
-Join us for our door knocking event to get our message to voters!
-Training and a walking buddy can be provided.
-Previous
-Previous
-September 5
-Door Knocking with Joseph Mcclusky
-Next
-Next
-September 18
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Door Knocking with Joseph McClusky Wednesday, September 16, 2026 6:00 PM 8:00 PM Google Calendar ICS Join us for our door knocking event to get our message to voters!
+Training and a walking buddy can be provided. https://www.mobilize.us/mccluskyformi/event/1034610/ Previous Previous September 5 Door Knocking with Joseph Mcclusky Next Next September 18 Door Knocking with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

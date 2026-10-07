@@ -1,7 +1,11 @@
 {
  "description": "Register to vote",
  "final_url": "https://arthurwebbassembly.com/vote",
+ "fingerprint": "904746359e5ee96326bf610a5cf0e4dc7f9010e1",
+ "format": 3,
  "paid_for_by": "Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner",
  "title": "Voter Registration Information",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

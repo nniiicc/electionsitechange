@@ -1,57 +1,38 @@
-Upcoming Events
-AAUW Meet the Candidates
-Watertown Branch of the AAUW (American Association of University Women) invites voters to attend a Meet the Candidates event.
-Jefferson County Candidate Forum
-The Fort Atkinson and Jefferson Area Chambers of Commerce are pleased to offer this Candidate Q&A on Oct 15th at the Jefferson County Fair Park Activity Center on behalf of our members and local residents.
-Brookfield Farmer's Market
-Come and meet our local farmers, producers, and the Waukesha County Democratic Party.
-West Bend Farmer's Market
-Come and meet our local farmers, producers, and the Washington County Democratic Party.
-Election Night Watch Party
-Join Andy Beck, the Beck for Congress team, volunteers, supporters, friends, and family for our Election Night Watch Party as the results come in for Wisconsin’s 5th Congressional District.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Upcoming Events Oct 7 Monthly Meeting Dodge County Dems Wednesday, October 7, 2026 6:00 PM 8:00 PM Dodge Dems Office (map) Google Calendar ICS Monthly Meeting View Event → Oct 10 LaToya Fundraiser Saturday, October 10, 2026 11:00 AM 1:00 PM Ooga Brewing Company (map) Google Calendar ICS Come celebrate LaToya’s Birthday and talk politics.
+View Event → Oct 14 AAUW Meet the Candidates Wednesday, October 14, 2026 6:30 PM 7:30 PM Madison Area Technical College - Watertown (map) Google Calendar ICS Watertown Branch of the AAUW (American Association of University Women) invites voters to attend a Meet the Candidates event.
+View Event → Oct 15 Jefferson County Candidate Forum Thursday, October 15, 2026 7:00 PM 8:30 PM Jefferson County Fair Grounds (map) Google Calendar ICS The Fort Atkinson and Jefferson Area Chambers of Commerce are pleased to offer this Candidate Q&A on Oct 15th at the Jefferson County Fair Park Activity Center on behalf of our members and local residents.
+View Event → Oct 17 Brookfield Farmer's Market Saturday, October 17, 2026 7:30 AM 8:30 AM Brookfield Central HS (map) Google Calendar ICS Come and meet our local farmers, producers, and the Waukesha County Democratic Party.
+View Event → Oct 17 West Bend Farmer's Market Saturday, October 17, 2026 7:30 AM 11:00 AM Downtown West Bend (map) Google Calendar ICS Come and meet our local farmers, producers, and the Washington County Democratic Party.
+View Event → Oct 17 Fired Up To Vote Saturday, October 17, 2026 6:00 PM 10:00 PM Google Calendar ICS Come get Fired Up!
+View Event → Nov 3 Election Night Watch Party Tuesday, November 3, 2026 6:00 PM 11:00 PM DoubleTree by Hilton Hotel - Brookfield (map) Google Calendar ICS Join Andy Beck, the Beck for Congress team, volunteers, supporters, friends, and family for our Election Night Watch Party as the results come in for Wisconsin’s 5th Congressional District.
 Come celebrate the work, energy, and commitment that brought us to Election Night—and spend the evening with the people who made this campaign possible.
-West Bend Farmer's Market
-Come and meet our local farmers, producers, and the Washington County Democratic Party.
-Meet the Candidates - Watertown
-Meet the Candidates - an Evening of Conversation
-Andy Beck, Running for WI 5th Congressional District
-Terri Wenkman, Running for WI 38th Assembly District
-Sasha Ripley, Running for WI 13th Senate District
-Meet the Candidates - Lake Mills
-Meet the Candidates - an Evening of Conversation
-Andy Beck, Running for WI 5th District Congressional Candidate
-Joan Fitzgerald (Incumbent), WI 46th Assembly District
-With SPECIAL GUEST: Sarah Godlewski, Running for Lieutenant Governor, State of WI
-Korth Park Pavilion
-W8390 Korth Lane, Lake Mills, WI 53551
-5:30 pm to 7:30 pm
-West Bend Farmer's Market
-Come and meet our local farmers, producers, and the Washington County Democratic Party.
-Forward for Wisconsin Rally: Elkhorn!
-Come rally around Democratic Candidates for this November Elections!
+View Event → Oct 3 West Bend Farmer's Market Saturday, October 3, 2026 7:30 AM 11:00 AM Downtown West Bend (map) Google Calendar ICS Come and meet our local farmers, producers, and the Washington County Democratic Party.
+View Event → Sep 24 Muskego Action Meeting Thursday, September 24, 2026 6:00 PM 8:00 PM Alpine Lanes and Avalanche Grill (map) Google Calendar ICS Monthly Meeting View Event → Sep 23 Washington County Dems Meeting Wednesday, September 23, 2026 6:00 PM 7:00 PM Washington County Dems Office (map) Google Calendar ICS Monthly Meeting View Event → Sep 23 DAD & Lake Country Dems Lunch Wednesday, September 23, 2026 11:30 AM 1:30 PM Google Calendar ICS Luncheon View Event → Sep 22 JeffDems Monthly Meeting Tuesday, September 22, 2026 6:30 PM 8:00 PM Jefferson Area Business Center (map) Google Calendar ICS Monthly Meeting View Event → Sep 21 Meet the Candidates - Watertown Monday, September 21, 2026 5:00 PM 7:30 PM Rose Garden/Leonardo's Italian Bistro (map) Google Calendar ICS Meet the Candidates - an Evening of Conversation Andy Beck, Running for WI 5th Congressional District Terri Wenkman, Running for WI 38th Assembly District Sasha Ripley, Running for WI 13th Senate District View Event → Sep 20 Audubon Days Parade Sunday, September 20, 2026 12:00 PM 1:00 PM Google Calendar ICS Come watch a parade!
+View Event → Sep 19 Sweets & Treats with Dems & Friends Saturday, September 19, 2026 6:30 PM 8:30 PM Google Calendar ICS Washington County Fundraiser View Event → Sep 19 Grass Roots Menomonee Falls Saturday, September 19, 2026 9:30 AM 11:00 AM Menomonee Falls Public Library - Community Room (map) Google Calendar ICS Saturday's General Meeting View Event → Sep 17 Waukesha County Dems Meeting Thursday, September 17, 2026 7:00 PM 8:00 PM Southminster Presbyterian Church (map) Google Calendar ICS Monthly Meeting View Event → Sep 15 Meet the Candidates - Lake Mills Tuesday, September 15, 2026 5:30 PM 7:30 PM Korth Park (map) Google Calendar ICS Meet the Candidates - an Evening of Conversation Andy Beck, Running for WI 5th District Congressional Candidate Joan Fitzgerald (Incumbent) , WI 46th Assembly District With SPECIAL GUEST: Sarah Godlewski, Running for Lieutenant Governor, State of WI Korth Park Pavilion W8390 Korth Lane, Lake Mills, WI 53551 5:30 pm to 7:30 pm View Event → Sep 12 Waukesha Pride Saturday, September 12, 2026 11:00 AM 3:00 PM UnUnitarian Universalist Congregation of Waukesha (map) Google Calendar ICS Come show your Pride!
+View Event → Sep 12 West Bend Farmer's Market Saturday, September 12, 2026 7:30 AM 11:00 AM Downtown West Bend (map) Google Calendar ICS Come and meet our local farmers, producers, and the Washington County Democratic Party.
+View Event → Sep 8 Muskego Action Team Tuesday, September 8, 2026 6:00 PM 7:00 PM Kohls Parking Lot by Janesville Road (map) Google Calendar ICS Flash Mob for Beck for Congress View Event → Sep 7 Labor Fest Monday, September 7, 2026 9:00 AM 1:00 PM Summerfest Grounds (map) Google Calendar ICS Come celebrate Labor Day with Labor Unions!
+View Event → Sep 2 Monthly Meeting Dodge County Dems Wednesday, September 2, 2026 6:00 PM 7:00 PM Dodge Dems Office (map) Google Calendar ICS Monthly Meeting View Event → Aug 26 Washington County Dems Meeting Wednesday, August 26, 2026 6:00 PM 8:00 PM Washington County Dems Office (map) Google Calendar ICS Monthly Meeting View Event → Aug 25 JeffDems Monthly Meeting Tuesday, August 25, 2026 6:30 PM 8:00 PM Dwight Foster Public Library (map) Google Calendar ICS Monthly Meeting View Event → Aug 22 Dodge County Fair Saturday, August 22, 2026 12:00 PM 1:00 PM Dodge County Fair Grounds (map) Google Calendar ICS Come see me at the Fair!
+View Event → Aug 21 Dodge County Fair Friday, August 21, 2026 12:00 PM 3:00 PM Dodge County Fair Grounds (map) Google Calendar ICS Come see me at the Fair!
+View Event → Aug 16 Forward for Wisconsin Rally: Elkhorn!
+Sunday, August 16, 2026 11:00 AM 12:00 PM Uncle Hunks Junk Building (map) Google Calendar ICS Come rally around Democratic Candidates for this November Elections!
 I’ll be there!
-Forward for Wisconsin Rally: Waukesha!
-Come rally around Democratic Candidates for this November Elections!
+View Event → Aug 16 Forward for Wisconsin Rally: Waukesha!
+Sunday, August 16, 2026 9:00 AM 11:00 AM Les Paul Performance Center (Band Stand) (map) Google Calendar ICS Come rally around Democratic Candidates for this November Elections!
 I’ll be there!
-Brookfield Farmer's Market
-Come and meet our local farmers, producers, and the Waukesha County Democratic Party.
-Forward for Wisconsin Rally: Milwaukee!
-Come rally around Democratic Candidates for this November Elections!
+View Event → Aug 15 Brookfield Farmer's Market Saturday, August 15, 2026 7:30 AM 8:30 AM Brookfield Central HS (map) Google Calendar ICS Come and meet our local farmers, producers, and the Waukesha County Democratic Party.
+View Event → Aug 12 Forward for Wisconsin Rally: Milwaukee!
+Wednesday, August 12, 2026 4:30 PM 7:00 PM Turner Hall (map) Google Calendar ICS Come rally around Democratic Candidates for this November Elections!
 I’ll be there!
-Beck for Congress Fundraiser
-Come join like-minded Democrats and Independants to here about the Beck for Congress campaign.
+View Event → Aug 6 Beck for Congress Fundraiser Thursday, August 6, 2026 7:00 PM 9:00 PM Muskego, WI (map) Google Calendar ICS Come join like-minded Democrats and Independants to here about the Beck for Congress campaign.
 This is a Green Bay Packer themed event after Scott Fitzgerald attacked our state team.
 Shameful!.
 More details to follow.
-Coffee Talk Sussex
-Come meet and listen to Andy Beck, running for Wisconsin’s 5th Congressional district and Matt Philibert, running for Wisconsin Assembly District 98.
+View Event → Aug 1 Coffee Talk Sussex Saturday, August 1, 2026 10:00 AM 11:00 AM Loca Latte (map) Google Calendar ICS Come meet and listen to Andy Beck, running for Wisconsin’s 5th Congressional district and Matt Philibert, running for Wisconsin Assembly District 98.
 Learn about our campaigns and how we want to serve our constituants.
-Dousman Derby Days GIGANTIC PARADE
-The famous GIGANTIC PARADE has been a family favorite and the Waukesha Democratic Party will be walking in it.
+View Event → Jul 26 to Jul 27 Dousman Derby Days GIGANTIC PARADE Sun, Jul 26, 2026 11:00 AM Mon, Jul 27, 2026 1:00 PM Google Calendar ICS The famous GIGANTIC PARADE has been a family favorite and the Waukesha Democratic Party will be walking in it.
 Come cheer us on!
-Washington County Fair
-It’s a West Bend-area tradition that’s entertained generations of families with animal showings, thrilling rides and top-performing acts.
+View Event → Jul 25 Washington County Fair Saturday, July 25, 2026 12:00 PM 4:00 PM Washington County Fair Grounds (map) Google Calendar ICS It’s a West Bend-area tradition that’s entertained generations of families with animal showings, thrilling rides and top-performing acts.
 Come visit us at our Washington County Democratic Booth!
-Washington County Fair
-It’s a West Bend-area tradition that’s entertained generations of families with animal showings, thrilling rides and top-performing acts.
+View Event → Jul 24 Washington County Fair Friday, July 24, 2026 4:00 PM 6:00 PM Washington County Fair Grounds (map) Google Calendar ICS It’s a West Bend-area tradition that’s entertained generations of families with animal showings, thrilling rides and top-performing acts.
 Come visit us at our Washington County Democratic Booth!
+View Event → Jul 23 Muskego Action Meeting Thursday, July 23, 2026 7:00 PM 9:00 PM Muskego, WI (map) Google Calendar ICS Monthly Meeting View Event → DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

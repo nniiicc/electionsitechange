@@ -1,23 +1,94 @@
 [
-"https://facebook.com/karenforCt66th",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260316T190000%2F20260316T210000&text=WRTC+Shamrock+Social&details=%3Cimg+class%3D%22alignnone+size-medium+wp-image-203%22+src%3D%22https%3A%2F%2Fkarenforct66.com%2Fwp-content%2Fuploads%2F2026-03-16_KRH-Shamrock-Social-300x450.png%22+alt%3D%22%22+width%3D%22300%22+height%3D%22450%22+%2F%3E&location=Senior+Community+Center%2C+Woodbury&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fkarenforct66.com",
-"https://instagram.com/karen_for_ct_66th",
-"https://karenforct66.com/",
-"https://karenforct66.com/about",
-"https://karenforct66.com/calendar",
-"https://karenforct66.com/event/woodbury-board-of-finance-public-hearing",
-"https://karenforct66.com/event/woodbury-rtc",
-"https://karenforct66.com/gallery",
-"https://karenforct66.com/get-involved",
-"https://karenforct66.com/news-updates",
-"https://karenforct66.com/our-district",
-"https://karenforct66.com/towns/bethlehem",
-"https://karenforct66.com/towns/litchfield",
-"https://karenforct66.com/towns/morris",
-"https://karenforct66.com/towns/warren",
-"https://karenforct66.com/towns/woodbury",
-"https://karenforct66.com/where-i-stand",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-03-16T19%3A00%3A00-04%3A00&enddt=2026-03-16T21%3A00%3A00-04%3A00&location=Senior+Community+Center%2C+Woodbury&subject=WRTC+Shamrock+Social",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-03-16T19%3A00%3A00-04%3A00&enddt=2026-03-16T21%3A00%3A00-04%3A00&location=Senior+Community+Center%2C+Woodbury&subject=WRTC+Shamrock+Social",
-"https://youtube.com/@K66Campaign"
+{
+"text": "About",
+"href": "https://karenforct66.com/about/"
+},
+{
+"text": "Bethlehem",
+"href": "https://karenforct66.com/towns/bethlehem/"
+},
+{
+"text": "Calendar",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "Gallery",
+"href": "https://karenforct66.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://karenforct66.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260316T190000%2F20260316T210000&text=WRTC+Shamrock+Social&details=%3Cimg+class%3D%22alignnone+size-medium+wp-image-203%22+src%3D%22https%3A%2F%2Fkarenforct66.com%2Fwp-content%2Fuploads%2F%23_KRH-Shamrock-Social-300x450.png%22+alt%3D%22%22+width%3D%22300%22+height%3D%22450%22+%2F%3E&location=Senior+Community+Center%2C+Woodbury&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fkarenforct66.com"
+},
+{
+"text": "Litchfield",
+"href": "https://karenforct66.com/towns/litchfield/"
+},
+{
+"text": "Morris",
+"href": "https://karenforct66.com/towns/morris/"
+},
+{
+"text": "News & Updates",
+"href": "https://karenforct66.com/news-updates/"
+},
+{
+"text": "Our District",
+"href": "https://karenforct66.com/our-district/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T21%3A00%3A00-04%3A00&location=Senior+Community+Center%2C+Woodbury&subject=WRTC+Shamrock+Social&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T21%3A00%3A00-04%3A00&location=Senior+Community+Center%2C+Woodbury&subject=WRTC+Shamrock+Social&body="
+},
+{
+"text": "Warren",
+"href": "https://karenforct66.com/towns/warren/"
+},
+{
+"text": "Where I Stand",
+"href": "https://karenforct66.com/where-i-stand/"
+},
+{
+"text": "Woodbury",
+"href": "https://karenforct66.com/towns/woodbury/"
+},
+{
+"text": "Woodbury Board of Finance Public Hearing »",
+"href": "https://karenforct66.com/event/woodbury-board-of-finance-public-hearing/"
+},
+{
+"text": "[image: Karen Reddington-Hughes]",
+"href": "https://karenforct66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/karenforCt66th"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karen_for_ct_66th/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@K66Campaign"
+},
+{
+"text": "iCalendar",
+"href": "webcal://karenforct66.com/event/wrtc-shamrock-social/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "« Woodbury RTC",
+"href": "https://karenforct66.com/event/woodbury-rtc/"
+}
 ]

@@ -1,7 +1,30 @@
 [
-"https://electryanneill.com/",
-"https://electryanneill.com/about-ryan",
-"https://electryanneill.com/issues",
-"https://secure.actblue.com/donate/ryan-neill-74",
-"https://webador.com/"
+{
+"text": "About Ryan",
+"href": "https://www.electryanneill.com/about-ryan"
+},
+{
+"text": "Elect Ryan Neill",
+"href": "https://www.electryanneill.com/"
+},
+{
+"text": "Home",
+"href": "https://www.electryanneill.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electryanneill.com/issues"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.electryanneill.com/issues#main-content"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "https://secure.actblue.com/donate/ryan-neill-74",
+"href": "https://secure.actblue.com/donate/ryan-neill-74"
+}
 ]

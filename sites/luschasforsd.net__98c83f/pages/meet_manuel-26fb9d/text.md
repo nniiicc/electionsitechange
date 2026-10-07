@@ -1,5 +1,4 @@
-Meet Manuel
-I am running for one of the South Dakota State House of Representatives seats for District 2 to represent YOU, my constituents, not lobbyists, not special interests, not corporations, nor billionaires.
+Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Meet Manuel I am running for one of the South Dakota State House of Representatives seats for District 2 to represent YOU, my constituents, not lobbyists, not special interests, not corporations, nor billionaires.
 I am a Constitutional Conservative Republican.
 I am honest, hard-working, transparent, and straightforward.
 My actions are consistent with my words.
@@ -50,4 +49,5 @@ Sabrina is a high school sophomore interested in Marine Biology.
 On the weekend, I am most likely fixing a car, repairing a chicken coop, playing a board game with my family, or playing on my D-league soccer team.
 If I ever get a spare moment, I enjoy a good German beer.
 I am running for the State House of Representatives to represent YOU, not corporate interests.
-I would love to hear from you to learn what is important to you - so we can all continue to live a free and inspired life in South Dakota: LuschasForSD@gmail.com, 605-888-8579.
+I would love to hear from you to learn what is important to you - so we can all continue to live a free and inspired life in South Dakota: LuschasForSD@gmail.com , 605-888-8579.
+CLICK HERE FOR PHOTO GALLERY Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

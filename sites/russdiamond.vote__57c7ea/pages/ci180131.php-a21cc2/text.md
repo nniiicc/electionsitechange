@@ -1,5 +1,5 @@
-January 31, 2018
-This coming week, HB153 – a constitutional amendment to reduce the size of the Pennsylvania House of Representatives from 203 to 151 members – will come to the floor of the House for debate and a vote to submit the question to the voters for ratification.
+Home Donate Blog News About Connect Does Size Matter?
+January 31, 2018 This coming week, HB153 – a constitutional amendment to reduce the size of the Pennsylvania House of Representatives from 203 to 151 members – will come to the floor of the House for debate and a vote to submit the question to the voters for ratification.
 While there is no question the people of this Commonwealth have an absolute right to make such a change to our fundamental law, some thought should be given to the ramifications and unintended consequences of doing so.
 Any claim that this measure will save taxpayer dollars is purely speculative.
 Certainly, the salaries and benefits of 52 fewer members will be registered, but there is no guarantee the remaining 151 members will not seek to establish additional district offices, hire more staff, and increase budgets to serve the roughly 20,000 additional constituents each would gain.
@@ -28,4 +28,5 @@ HB153 currently exists in a vacuum.
 No other related issues are being contemplated or included in the plan.
 As such, it cannot be considered real reform.
 Instead, it is a myopic feel-good change which would further empower Harrisburg insiders while increasing their isolation from the citizens of this Commonwealth.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

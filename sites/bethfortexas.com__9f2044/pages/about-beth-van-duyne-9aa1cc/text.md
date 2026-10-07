@@ -1,4 +1,4 @@
-I am a single, working-mother of two amazing kids.
+Home About Beth Donate Endorsements In The Media Contact Beth Van Duyne About Beth Van Duyne I am a single, working-mother of two amazing kids.
 Every day, I remind them that we live in the greatest state, in the greatest nation, in the history of the world.
 Where else, but the United States, could a girl leave home at the age of 17, put herself through college, become the first female Mayor of her hometown, and then be asked to serve America in a presidential administration?
 My name is Beth Van Duyne and I’m running for Congress because I know the people of the 24th District deserve to have a strong, principled voice in Congress.
@@ -7,4 +7,8 @@ We live in a very fragile time for our nation, our families, and the future of t
 Socialism is on the rise, our border crisis has never been worse, and we face constant threats from hostile nations willing to use cyber-attacks, nuclear weapons, and terrorist jihad.
 When I think about my two children, I want them to have the same opportunities in life that I did; I want them to be able to grow up safe and proud of our country.
 I’m a single mom, a conservative Republican, a reformer who has defeated government corruption, a believer in the rule of law who has helped remove thousands of criminal aliens from North Texas, a leader who helped deliver growth and new job opportunities, and a Constitutionalist who has never backed down when it comes to protecting the rights of all North Texans.
-I’m Beth Van Duyne and I’m asking for your vote!
+I’m Beth Van Duyne and I’m asking for your vote! [email protected] For public footage – please click here For a high resolution public images – please click here For a high resolution public mailers – please click here For a high resolution public mailers – please click here For a high resolution public mailers – please click here Paid for by Beth Van Duyne for Congress P.O.
+Box 630167 Irving, TX 75063 By providing your phone number, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from the Beth Van Duyne for Congress Committee.
+View our privacy policy here .
+# © Beth Van Duyne for Congress.
+All rights reserved.

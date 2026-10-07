@@ -1,5 +1,5 @@
-About Angélica
-Angelica Dueñas, mother, activist, and community organizer.
+Skip to content No AIPAC money, ever.
+Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Facebook Twitter Instagram About Angélica Angelica Dueñas, mother, activist, and community organizer.
 Born and raised in the San Fernando Valley.
 Raising five children who attend LAUSD schools.
 BA in Political Science.
@@ -21,8 +21,7 @@ Our family crisis was the beginning of my commitment to fight for social justice
 My dedication to the community was vigorous and focused on local issues.
 I served as a contributing Board Member of the Sun Valley Neighborhood Council, and served two terms as President, and one term as 1st Vice President.
 “Is it possible that our congress can be run by working-class, diverse races and backgrounds, progressive women and men?
-Not only do I think it possible, but in view of our country’s downward spiral toward ruination, I think it’s crucial.”
-In 2016, Senator Bernie Sanders reawakened a progressive movement with his presidential campaign.
+Not only do I think it possible, but in view of our country’s downward spiral toward ruination, I think it’s crucial.” In 2016, Senator Bernie Sanders reawakened a progressive movement with his presidential campaign.
 The importance of federal electoral politics was highlighted, and I was inspired to get involved.
 I was appointed to serve as a Delegate for the Senator.
 This commitment to electoral politics was part of something much larger than me.
@@ -48,3 +47,12 @@ A better world is within our reach.
 As I mentioned in the beginning, my political journey is rooted in my local community, serving on my neighborhood council to fill the potholes, fix the streetlights, and provide mutual aid.
 My higher political ambition grew out of inspiration by the progressive movement.
 I look forward to unseating a woman who, in short, is a perfect example of all that’s wrong with our Congress today.
+Angélica Dueñas for US P.O.
+Box 7200, Van Nuys, California 91406 (818) 962-8392 Paid for by Angélica Dueñas for US FEC# C00697391 Instagram Twitter Facebook Get Updates & Alerts Name Email Phone Number (optional) By checking this box, you consent to receive text messages.
+Messages may include campaign updates, event information, volunteer opportunities, and requests for donation.
+Msg & data rates may apply.
+Msg frequency may vary.
+Reply STOP to opt-out and HELP for help.
+View Terms of Service and Privacy Policy for more information.
+Send © # Angélica Dueñas.
+All rights reserved. | Privacy Policy | Terms of Service

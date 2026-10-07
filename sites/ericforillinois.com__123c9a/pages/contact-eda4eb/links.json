@@ -1,15 +1,62 @@
 [
-"https://bsky.app/profile/ericsorensen.bsky.social",
-"https://designedtorun.com/",
-"https://ericforillinois.com/",
-"https://ericforillinois.com/about",
-"https://ericforillinois.com/achievements",
-"https://ericforillinois.com/media",
-"https://ericforillinois.com/news",
-"https://ericforillinois.com/privacy-policy",
-"https://ericforillinois.com/volunteer",
-"https://facebook.com/EricForIllinois",
-"https://instagram.com/ericforillinois",
-"https://secure.actblue.com/donate/es-homepage",
-"https://x.com/ERICSORENSEN"
+{
+"text": "Achievements",
+"href": "https://www.ericforillinois.com/achievements"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/es-homepage"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ericforillinois.com/volunteer"
+},
+{
+"text": "Media",
+"href": "https://www.ericforillinois.com/media"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericforillinois.com/about"
+},
+{
+"text": "News",
+"href": "https://www.ericforillinois.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericforillinois.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Eric for Illinois]",
+"href": "https://www.ericforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ericsorensen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/EricForIllinois/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ericforillinois/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ERICSORENSEN"
+},
+{
+"text": "info@ericforillinois.com",
+"href": "mailto:info@ericforillinois.com"
+},
+{
+"text": "schedule@ericforillinois.com",
+"href": "mailto:schedule@ericforillinois.com"
+}
 ]

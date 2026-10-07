@@ -1,28 +1,9 @@
-top of page
-LINKS TO FREQUENTLY REQUESTED SERVICES
-Unemployment Insurance Webinar
-Voting Information
-CASH Campaign of Maryland
-(An excellent free service to help people apply for all the benefit programs they are eligible to receive.)
-Food Resources
-Unemployment Insurance Application
-Unemployment Insurance Tax Payment Plans
-Assistance for Renters
-Help with Utility Bills
-Power in the Park Resource Fair
-Energy Resources
-Help with Health Care Costs
-Mental Health Crisis
-Form: How to Report a Pedestrian or Bike Safety Issue on State Highways
-Community Resources
-My staff and I are dedicated to helping residents connect to services
-and navigate any issues they might have with our state government.
+top of page Home Precinct Official Information About Newsroom Resources/Scholarship Power in the Park Immigration Resources Delegate Scholarship Legislation Events More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE LINKS TO FREQUENTLY REQUESTED SERVICES Unemployment Insurance Webinar ​ Voting Information ​ CASH Campaign of Maryland (An excellent free service to help people apply for all the benefit programs they are eligible to receive.) ​ ​ Food Resources Supplemental Nutrition Assistance Program (SNAP) Food Distribution Sites Farmers Markets ​ ​ ​ Unemployment Insurance Application ​ ​ ​ Unemployment Insurance Tax Payment Plans ​ ​ Assistance for Renters Rental Assistance and Avoiding Eviction​ Assistance with the Utility Component of your Rent Bill ​ ​ Help with Utility Bills ​ ​ Power in the Park Resource Fair ​ Energy Resources ​ ​ Help with Health Care Costs Mental Health Crisis ​ ​ Form: How to Report a Pedestrian or Bike Safety Issue on State Highways ​ ​ ​ ​ ​ Community Resources My staff and I are dedicated to helping residents connect to services and navigate any issues they might have with our state government.
 Please contact with my office if you need assistance.
-Email: Lorig.charkoudian@house.state.md.us
-Lowe House Office Building, Room 220
-6 Bladen Street
-Annapolis, MD 21401
-Phone 410-841-3423 | 301-858-3423
-Toll-free in MD 1-800-492-7122 ext. 3423
-Click here for more information about scholarships!
-bottom of page
+Email: Lorig.charkoudian@house.state.md.us Lowe House Office Building, Room 220 6 Bladen Street Annapolis, MD 21401 Phone 410-841-3423 | 301-858-3423 Toll-free in MD 1-800-492-7122 ext.
+3423 ​ ​ ​ ​ Click here for more information about scholarships! ​ Attending a Maryland college?
+I award annual scholarships!
+MAKE A CHANGE Support Lorig!
+DONATE VOLUNTEER GET THE LATEST FROM LORIG Home About Lorig Newsroom Get Involved Events Contact Mailing Address: P.O.
+Box 11281 Takoma Park, MD 20913 Email: friendsoflorig@gmail.com ​ Paid for by Friends of Lorig Charkoudian: Jill Feasley, Treasurer; Tebabu Assefa, Chair bottom of page

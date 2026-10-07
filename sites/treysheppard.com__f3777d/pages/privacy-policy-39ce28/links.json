@@ -1,12 +1,50 @@
 [
-"http://aboutads.info/choices",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/people/Trey-Sheppard-for-State-House/61583960069530",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard",
-"https://treysheppard.com/",
-"https://treysheppard.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/trey-sheppard-for-state-house-inc/supportsheppard"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Trey-Sheppard-for-State-House/61583960069530/"
+},
+{
+"text": "Join the Team",
+"href": "https://treysheppard.com/#join-the-team"
+},
+{
+"text": "Meet Trey",
+"href": "https://treysheppard.com/#meet-trey"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://treysheppard.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Trey’s Priorities",
+"href": "https://treysheppard.com/#priorities"
+},
+{
+"text": "[image: Trey Sheppard for State House]",
+"href": "https://treysheppard.com/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

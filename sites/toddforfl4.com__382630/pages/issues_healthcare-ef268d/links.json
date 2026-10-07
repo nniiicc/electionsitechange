@@ -1,21 +1,82 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/todd.for.congress",
-"https://tiktok.com/@toddforfl4",
-"https://toddforfl4.com/",
-"https://toddforfl4.com/contact",
-"https://toddforfl4.com/contribute",
-"https://toddforfl4.com/events",
-"https://toddforfl4.com/home",
-"https://toddforfl4.com/issues",
-"https://toddforfl4.com/issues/Corruption",
-"https://toddforfl4.com/issues/housing-affordability",
-"https://toddforfl4.com/meet_todd",
-"https://toddforfl4.com/news",
-"https://toddforfl4.com/privacy-policy",
-"https://toddforfl4.com/volunteer",
-"https://toddforfl4.com/vote",
-"https://toddforfl4.com/why-run-independent",
-"https://toddforfl4.com/yard-sign",
-"https://twitter.com/ToddforFL4"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.toddforfl4.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.toddforfl4.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.toddforfl4.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.toddforfl4.com/"
+},
+{
+"text": "Home",
+"href": "https://www.toddforfl4.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.toddforfl4.com/issues"
+},
+{
+"text": "Meet Todd",
+"href": "https://www.toddforfl4.com/meet_todd"
+},
+{
+"text": "News",
+"href": "https://www.toddforfl4.com/news"
+},
+{
+"text": "Next: Housing Affordability »",
+"href": "https://www.toddforfl4.com/issues/housing-affordability"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.toddforfl4.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.toddforfl4.com/volunteer"
+},
+{
+"text": "Voter Registration",
+"href": "https://www.toddforfl4.com/vote"
+},
+{
+"text": "Why Run Independent?",
+"href": "https://www.toddforfl4.com/why-run-independent"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.toddforfl4.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.toddforfl4.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ToddforFL4"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/todd.for.congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@toddforfl4"
+},
+{
+"text": "« Previous: End Government Corruption",
+"href": "https://www.toddforfl4.com/issues/Corruption"
+}
 ]

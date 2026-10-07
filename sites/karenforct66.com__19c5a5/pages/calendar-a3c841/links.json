@@ -1,25 +1,98 @@
 [
-"https://facebook.com/karenforCt66th",
-"https://instagram.com/karen_for_ct_66th",
-"https://karenforct66.com/",
-"https://karenforct66.com/about",
-"https://karenforct66.com/calendar",
-"https://karenforct66.com/calendar/list",
-"https://karenforct66.com/calendar/month",
-"https://karenforct66.com/calendar/month/2026-09",
-"https://karenforct66.com/calendar/today",
-"https://karenforct66.com/event/house-republicans-fundraiser",
-"https://karenforct66.com/event/june-19th-freedom-liberty-rally",
-"https://karenforct66.com/event/litchfield-rtc-meet-greet",
-"https://karenforct66.com/gallery",
-"https://karenforct66.com/get-involved",
-"https://karenforct66.com/news-updates",
-"https://karenforct66.com/our-district",
-"https://karenforct66.com/towns/bethlehem",
-"https://karenforct66.com/towns/litchfield",
-"https://karenforct66.com/towns/morris",
-"https://karenforct66.com/towns/warren",
-"https://karenforct66.com/towns/woodbury",
-"https://karenforct66.com/where-i-stand",
-"https://youtube.com/@K66Campaign"
+{
+"text": "About",
+"href": "https://karenforct66.com/about/"
+},
+{
+"text": "Bethlehem",
+"href": "https://karenforct66.com/towns/bethlehem/"
+},
+{
+"text": "Calendar",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "Day",
+"href": "https://karenforct66.com/calendar/today/"
+},
+{
+"text": "Gallery",
+"href": "https://karenforct66.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://karenforct66.com/get-involved/"
+},
+{
+"text": "House Republicans Fundraiser",
+"href": "https://karenforct66.com/event/house-republicans-fundraiser/"
+},
+{
+"text": "June 19th Freedom & Liberty Rally",
+"href": "https://karenforct66.com/event/june-19th-freedom-liberty-rally/"
+},
+{
+"text": "List",
+"href": "https://karenforct66.com/calendar/list/"
+},
+{
+"text": "Litchfield",
+"href": "https://karenforct66.com/towns/litchfield/"
+},
+{
+"text": "Litchfield RTC Meet & Greet",
+"href": "https://karenforct66.com/event/litchfield-rtc-meet-greet/"
+},
+{
+"text": "Month",
+"href": "https://karenforct66.com/calendar/month/"
+},
+{
+"text": "Morris",
+"href": "https://karenforct66.com/towns/morris/"
+},
+{
+"text": "News & Updates",
+"href": "https://karenforct66.com/news-updates/"
+},
+{
+"text": "Our District",
+"href": "https://karenforct66.com/our-district/"
+},
+{
+"text": "This Month",
+"href": "https://karenforct66.com/calendar/month/"
+},
+{
+"text": "Warren",
+"href": "https://karenforct66.com/towns/warren/"
+},
+{
+"text": "Where I Stand",
+"href": "https://karenforct66.com/where-i-stand/"
+},
+{
+"text": "Woodbury",
+"href": "https://karenforct66.com/towns/woodbury/"
+},
+{
+"text": "[image: Karen Reddington-Hughes]",
+"href": "https://karenforct66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/karenforCt66th"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karen_for_ct_66th/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@K66Campaign"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://karenforct66.com/calendar/month/2026-09/"
+}
 ]

@@ -1,7 +1,7 @@
-Meet Marc
+0 Skip to Content Priorities Meet Marc Endorsements Volunteer DONATE Open Menu Close Menu Priorities Meet Marc Endorsements Volunteer DONATE Open Menu Close Menu Priorities Meet Marc Endorsements Volunteer DONATE Meet Marc Marc growing up in Palo Alto.
 Serving the 23rd District in the California State Assembly is deeply personal.
 I was fortunate to grow up in Palo Alto, attend excellent public schools with fantastic teachers, live in a safe community and, on the many times I hurt myself as a rambunctious kid, have access to world class healthcare.
-However, growing up here in the 80s and 90s, it was also clear to me how many of my friends, classmates, and soccer teammates who lived in nearby communities did not get the same opportunities I had because of societal inequities and injustices that built up over decades.
+However, growing up here in the #s and #s, it was also clear to me how many of my friends, classmates, and soccer teammates who lived in nearby communities did not get the same opportunities I had because of societal inequities and injustices that built up over decades.
 That's why, after living all over the country for college, work, and law school, I moved back home to continue my career in public service.
 I was elected to the Palo Alto City Council, where I led the effort to increase the minimum wage for struggling workers, repair the city’s crumbling roads, and build two new fire stations and a new public safety building.
 In 2016, I was elected to represent you in the State Assembly, where I’ve worked tirelessly to deliver for our communities.
@@ -13,8 +13,14 @@ That’s why I led the effort to create a statewide Computer Science Coordinator
 We can no longer kick the can down the road on our housing and homelessness crisis.
 Thousands of our neighbors and millions of Californians struggle every day with the astronomical cost of housing, including teachers, nurses, and other essential workers.
 That’s why I’ve written bills to reduce red tape and build more affordable housing, and I have supported efforts to build more housing for working class families in California.
-As your Assemblymember, I’ve always led with my progressive values.
+Marc with his wife, Aimee Gildea, in Yosemite.
+As your Assemblymember, I’ve always led with my progressive values .
 I’ve authored bills to establish a first-in-the-nation firearm violence prevention training program for physicians; provide suicide prevention training for middle and high school students and staff; and create a Sexual Assault Survivors’ Bill of Rights.
-You can learn more about what I’ve been working on and what my priorities are here.
+You can learn more about what I’ve been working on and what my priorities are here .
 I’m just getting started.
 I hope you’ll join me.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Home Priorities About Endorsements Volunteer Donate Media Paid for by Marc Berman For Assembly 2024, FPPC #1456794 PO Box 7176 Menlo Park, CA 94026

@@ -1,25 +1,102 @@
 [
-"http://iowa.gov/",
-"http://iowasenaterepublicans.com/",
-"http://legis.iowa.gov/",
-"http://with1vision.com/",
-"https://facebook.com/RepSandySalmon?fref=ts",
-"https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Denver%20residents%20with%20Sandy%20COPY-3526x2514-1920w.jpg",
-"https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/IMG_0328-1200x900-339w.jpg",
-"https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Janesville%20Town%20Hall6-4032x3024-339w.JPG",
-"https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Jeff%20Reynolds%2C%20Sandy%2C%20Sen-2592x2040.%20Ernst%20COPY-339w.jpg",
-"https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Tripoli%20Group%20with%20Sandy%20COPY-1014x425-339w.jpg",
-"https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/photo%20%283%29-3264x2448-339w.JPG",
-"https://legis.iowa.gov/law/statutory/constitution",
-"https://sandysalmon.org/",
-"https://sandysalmon.org/about",
-"https://sandysalmon.org/complex-page",
-"https://sandysalmon.org/contact1",
-"https://sandysalmon.org/donate",
-"https://sandysalmon.org/endorsements1",
-"https://sandysalmon.org/events",
-"https://sandysalmon.org/gallery",
-"https://sandysalmon.org/list",
-"https://sandysalmon.org/newsletters",
-"https://sandysalmon.org/voter-information"
+{
+"text": "1Vision",
+"href": "http://www.with1vision.com"
+},
+{
+"text": "ABOUT",
+"href": "https://www.sandysalmon.org/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.sandysalmon.org/contact1"
+},
+{
+"text": "Contact Sandy",
+"href": "https://www.sandysalmon.org/contact1"
+},
+{
+"text": "DONATE",
+"href": "https://www.sandysalmon.org/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sandysalmon.org/endorsements1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.sandysalmon.org/events"
+},
+{
+"text": "GALLERY",
+"href": "https://www.sandysalmon.org/gallery"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sandysalmon.org/complex-page"
+},
+{
+"text": "HOME",
+"href": "https://www.sandysalmon.org/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.sandysalmon.org/list"
+},
+{
+"text": "Iowa Constitution",
+"href": "https://www.legis.iowa.gov/law/statutory/constitution"
+},
+{
+"text": "Iowa Legislature",
+"href": "http://www.legis.iowa.gov/"
+},
+{
+"text": "Iowa Senate Republicans",
+"href": "http://www.iowasenaterepublicans.com/"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.sandysalmon.org/newsletters"
+},
+{
+"text": "State of Iowa",
+"href": "http://www.iowa.gov"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.sandysalmon.org/voter-information"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Denver%20residents%20with%20Sandy%20COPY-3526x2514-1920w.jpg"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/IMG_0328-1200x900-339w.jpg"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Janesville%20Town%20Hall6-4032x3024-339w.JPG"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Jeff%20Reynolds%2C%20Sandy%2C%20Sen-2592x2040.%20Ernst%20COPY-339w.jpg"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Salmon%201st%20day-1200x800-339w.jpg"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/Tripoli%20Group%20with%20Sandy%20COPY-1014x425-339w.jpg"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com//c2e95eab/dms3rep/multi/opt/photo%20%283%29-3264x2448-339w.JPG"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepSandySalmon/?fref=ts"
+}
 ]

@@ -1,4 +1,4 @@
-| United States of America is still the most powerful economic influence in the world.
+UT 74 VOTE ABOUT Posts Experience Contact Inflation and Geopolitics 3/5/2022 United States of America is still the most powerful economic influence in the world.
 If we choose to "drill baby drill", over the long run we will simultaneously erode Russia's financial ability to wage war on Ukraine and others by driving global energy prices down and slow inflation.
 This would begin the liberation of Eastern Europe from Russian influence through economic policy.
 As natural gas supplies increase, we can re-route liquefied natural gas exports from China to Europe.
@@ -20,18 +20,18 @@ A United States Government that is not dependent on its allies or aggressors for
 On defense, we should be the most respected nation in the world both because of our capability and our restraint.
 If we can’t lead from the White House, we should lead from the respective states.
 Let states set in motion a wave of capitalism and freedom that will demonstrate the influence for good that God given rights protected by Constitutional governance, including life, liberty, property, and the pursuit of happiness can have on the lives of our people.
-The US Forest Service today is not the Forest Service our parents and grandparents knew.
+Not your father's forest service 12/14/2015 The US Forest Service today is not the Forest Service our parents and grandparents knew.
 Below is a Dixie National Forrest map from 1962.
 The text is more interesting than the map.
 The first line reads "You, as a citizen of the United States, are joint owner of this mountainous area".
 It goes on to highlight the recreation, private resorts, wildlife, timber, forage, and energy development in the area.
-Some quotes from the Forest Service map: The multiple use philosophy embraced by the forest service in 1962 in no way resembles the forest service management philosophies of today.
-Unfortunately, many of the policies limit access, reduce recreation opportunities, and eliminate economic activities.
-If you want a PDF copy of this map, email me at [email protected].
-"About 29 Million board feet of timber can be harvested year after year on the Dixie National Forrest indefinitely." "Roads built to harvest timber provide access to recreation and scenic areas." "The forage crop on the Dixie National Forest is harvested by about 20,000 cattle and 37,000 sheep.
+Some quotes from the Forest Service map: "About 29 Million board feet of timber can be harvested year after year on the Dixie National Forrest indefinitely." "Roads built to harvest timber provide access to recreation and scenic areas." "The forage crop on the Dixie National Forest is harvested by about 20,000 cattle and 37,000 sheep.
 These animals belong to approximately 400 farm and ranch families that depend upon summer grazing to round out their livestock operations." "Practically all of the Dixie National Forest is open to mineral prospecting and oil and gas exploration.
 Coal and iron ore deposits have been mined for many years in southern Utah.
-Over one million acres on Dixie National forest have been leased for oil exploration within the last few years." In my last 12 months at ConocoPhillips, we did some significant work on quantifying the process and impact of trade entry errors.
+Over one million acres on Dixie National forest have been leased for oil exploration within the last few years." The multiple use philosophy embraced by the forest service in 1962 in no way resembles the forest service management philosophies of today.
+Unfortunately, many of the policies limit access, reduce recreation opportunities, and eliminate economic activities.
+If you want a PDF copy of this map, email me at [email protected] .
+Quantifying Operational Risk 12/14/2015 In my last 12 months at ConocoPhillips, we did some significant work on quantifying the process and impact of trade entry errors.
 It was surprising to see how data entry errors could drive metrics like Value at Risk and P&L.
 I hadn't thought about this for a long time, but I was going through my desk last night and found my notes from when I presented at Energy Risk, the premier energy risk management conference held annually in Houston, Tx.
 I co-authored the paper published in the Global Association of Risk Professionals (GARP) magazine below with Kevin Kindall and Xianqiao Chen.
@@ -39,5 +39,4 @@ We wrote a pretty good paper.
 What was better, was I had built a model to analyze the daily mark-to-market P&L by business unit or for the entire trade floor.
 It gave us the ability to see daily profit and loss changes grouped by price changes, new transactions, and data entry errors.
 I don't have PDF copy of that model.
-I'll have to scan the one that is in my folder. | |
-| | |
+I'll have to scan the one that is in my folder. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

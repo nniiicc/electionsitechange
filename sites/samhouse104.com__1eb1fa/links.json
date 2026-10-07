@@ -1,8 +1,38 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://bookshopofbeverlyfarms.com/",
-"https://facebook.com/SamForGrayNewGloucester",
-"https://samhouse104.com/",
-"https://samhouse104.com/contact",
-"https://worldfamousgrassholes.com/"
+{
+"text": "Book Shop of Beverly Farms",
+"href": "https://bookshopofbeverlyfarms.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://samhouse104.com/contact/"
+},
+{
+"text": "Click HERE",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "DONATE HERE",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "World Famous Grassholes",
+"href": "https://worldfamousgrassholes.com/"
+},
+{
+"text": "[image: Sam for House]",
+"href": "https://samhouse104.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SamForGrayNewGloucester"
+},
+{
+"text": "contact me",
+"href": "https://samhouse104.com/contact/"
+},
+{
+"text": "contact me!",
+"href": "https://samhouse104.com/contact/"
+}
 ]

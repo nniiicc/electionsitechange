@@ -1,9 +1,4 @@
-Congressman Womack Wins Third District Republican Primary
-For Immediate Release
-March 5, 2024
-ROGERS, Ark. – Congressman Steve Womack (AR-3) today released the following statement after winning the Arkansas’ Third Congressional District Republican primary nomination:
-"It is the honor of my life to have the continued confidence of Third District GOP voters to be our nominee for Congress in November.
+0 Skip to Content Home About Steve Newsroom Contact Donate Open Menu Close Menu Home About Steve Newsroom Contact Donate Open Menu Close Menu Home About Steve Newsroom Contact Donate Congressman Womack Wins Third District Republican Primary Mar 6 Written By J Foley For Immediate Release March 5, 2024 ROGERS, Ark. – Congressman Steve Womack (AR-3) today released the following statement after winning the Arkansas’ Third Congressional District Republican primary nomination: "It is the honor of my life to have the continued confidence of Third District GOP voters to be our nominee for Congress in November.
 I work every day to deliver for our nation.
 Working to secure our border, supporting our men and women in uniform, and promoting the conservative values that made our nation the greatest in the world continues to be among my highest priorities.
-I look forward to the General Election and the opportunity to lead the fight against the Biden agenda and restoring the values that define our great nation."
-###
+I look forward to the General Election and the opportunity to lead the fight against the Biden agenda and restoring the values that define our great nation." ### J Foley Previous Previous Congressman Womack Casts 2024 General Election Ballot Next Next Congressman Womack Files for Reelection

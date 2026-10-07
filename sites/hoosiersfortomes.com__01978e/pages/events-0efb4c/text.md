@@ -1,19 +1,7 @@
-Re-Elect Jim Tomes Fundraiser
-The Foundry on Main 100 N Main St, Evansville
-$30
-Skip to content
-Menu
-Close
-Latest Past Events
-Re-Elect Jim Tomes Fundraiser
-The Foundry on Main
-100 N Main St, Evansville
-$30
-SHOTGUN SHOWDOWN
-Evansville Gun Club
-2010 County Rd 1150 S, Haubstadt
-Save the date!!Saturday, August 1, 2026SHOTGUN SHOWDOWN for 12 gauge shotgunsFundraiser for Senator Jim TomesEvansville Gun Club2010 County Rd 1150 S, Haubstadt, IN 47639 Sporting…
-2026 Campaign Kickoff
-Senator Jim Tomes and his wife Margie invite you to join them for Jim’s Campaign Kick Off. * Snacks, Refreshments, Admission Free* Hosted by the…
-0 events found.
-$25
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Archives: Events 0 events found.
+There are no upcoming events.
+There are no upcoming events.
+Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month Day #ago Upcoming Upcoming Select date.
+Latest Past Events Aug 22 2026 August 22 @ 1:00 pm - 3:00 pm UTC+0 Re-Elect Jim Tomes Fundraiser The Foundry on Main 100 N Main St, Evansville $30 Aug # 2026 August 1 @ 7:30 am - 4:00 pm UTC+0 SHOTGUN SHOWDOWN Evansville Gun Club 2010 County Rd # S, Haubstadt Save the date!!Saturday, August 1, 2026SHOTGUN SHOWDOWN for 12 gauge shotgunsFundraiser for Senator Jim TomesEvansville Gun Club2010 County Rd # S, Haubstadt, IN 47639 Sporting… $# Mar 14 2026 March 14 @ 1:00 pm - 3:00 pm UTC+0 2026 Campaign Kickoff Senator Jim Tomes and his wife Margie invite you to join them for Jim’s Campaign Kick Off. * Snacks, Refreshments, Admission Free* Hosted by the… October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

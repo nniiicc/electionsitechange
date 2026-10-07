@@ -1,7 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://kori-rodley.com/",
-"https://kori-rodley.com/calendar",
-"https://kori-rodley.com/endorsements",
-"https://secure.actblue.com/donate/koriforspringfield"
+{
+"text": "Add Your Name!",
+"href": "mailto:kori.rodley@gmail.com?subject=I%27d+like+to+Endorse+Kori+for+House+District+7%21&body=Please+add+my+name+as+listed+below+to+those+endorsing+Kori+Rodley+for+House+District+7%3A"
+},
+{
+"text": "Calendar",
+"href": "https://kori-rodley.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/koriforspringfield"
+},
+{
+"text": "Endorsements",
+"href": "https://kori-rodley.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://kori-rodley.com/"
+},
+{
+"text": "Support Kori Rodley",
+"href": "https://secure.actblue.com/donate/koriforspringfield"
+},
+{
+"text": "[image]",
+"href": "https://kori-rodley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

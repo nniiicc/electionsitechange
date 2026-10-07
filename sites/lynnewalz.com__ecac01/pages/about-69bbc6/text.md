@@ -1,6 +1,4 @@
-Meet Lynne
-A Different Kind of
-Leader for Nebraska.
+Skip to content Endorse Volunteer Donate Meet Lynne A Different Kind of Leader for Nebraska.
 Across every chapter of her life – farm kid, working mom, teacher, and legislator – Lynne Walz has lived by the same values: hard work, compassion, and service rooted in faith.
 Lynne is running for Governor because Nebraska needs leaders who can look past political parties to solve problems, not point fingers.
 She’ll bring people together and focus on what matters to Nebraskans: ensuring people have the chance to build a good life and feel safe where they live.
@@ -32,10 +30,11 @@ As an average Nebraskan, Lynne knows just how hard it can be to make ends meet.
 She will work with all stakeholders to build an economy that works for everyone – not just big corporations and the wealthy.
 As Governor, she’ll focus on business development, supporting small family farms, lowering the cost of housing and daycare, and cutting taxes – not with handouts or politics, but with practical solutions and Nebraska common sense.
 "My faith tells me to love thy neighbor.
-That is how I've always led my life as a mother, community leader and elected official."
-Lynne and her husband, Chris Walz, live in Fremont.
+That is how I've always led my life as a mother, community leader and elected official." Lynne and her husband, Chris Walz, live in Fremont.
 Chris is a longtime morning radio host and station manager there.
 They have three adult children – Adam, Patrick, and Emma – and seven grandchildren.
 Lynne loves running, swimming, and spending time outdoors, but most of all, she loves spending time with family and spoiling her grandkids with Swedish pancakes hot off the griddle.
 From the farm where she learned the value of hard work to the State Capitol where she learned how to get things done, Lynne Walz has always believed Nebraska’s best days are built on community, responsibility, and respect.
 As Governor, she’ll bring people together to focus on what matters: safer communities, lower costs, and giving every Nebraska family a fair shot at getting ahead.
+Join Team Walz Help Lynne Bring Nebraska Together.
+Donate Volunteer Facebook Instagram X-twitter Facebook Instagram X-twitter Media inquires: press@lynnewalz.com Contact inquires: info@lynnewalz.com PAID FOR BY LYNNE WALZ FOR nebraska PO Box 241040 Omaha NE 68124 Meet Lynne Meet Ben Priorities Accomplishments Media Events Lynne’s Commitment Request a Yard Sign Meet Lynne Meet Ben Priorities Accomplishments Media Events Lynne’s Commitment Request a Yard Sign Endorse Volunteer Donate Facebook Instagram X-twitter

@@ -1,5 +1,5 @@
-About Cassandra Mayes
-Cassandra Mayes has spent her life serving Arkansas families through education, community leadership, and public service.
+top of page About FAQs News More Use tab to navigate through the menu items.
+DONATE About Cassandra Mayes Cassandra Mayes has spent her life serving Arkansas families through education, community leadership, and public service.
 Adopted at birth and raised in Crossett, Cassandra grew up in a family of educators.
 Her father was a Korean War veteran and longtime high school principal, and her mother was a special education teacher who later became Special Education Director for Crossett Public Schools.
 A strong student, she earned a full academic scholarship to attend college and went on to earn degrees in Deaf Education and Special Education, followed by a Master’s Degree in Special Education.
@@ -24,4 +24,4 @@ Mayes, Jr., share a commitment to service, ministry, and helping others.
 Together, they are active in church and community outreach efforts.
 Cassandra is also the proud mother one son.
 After retiring from the Little Rock School District in 2025, Cassandra continues to look for ways to serve her community and make a difference.
-Her life’s work has been focused on helping people, solving problems, and standing up for families, guided by a belief in pragmatism over partisanship.
+Her life’s work has been focused on helping people, solving problems, and standing up for families, guided by a belief in pragmatism over partisanship. ​ gogreenforarkansas@gmail.com ​ (501) 650-4549 ​ PO Box 13350 Maumelle, AR 72113 PAID FOR BY THE COMMITTEE TO ELECT CASSANDRA MAYES bottom of page

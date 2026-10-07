@@ -1,7 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.curtmassie.com/category/news/",
- "paid_for_by": "Paid for by Curt Massie for SD &nbsp;&nbsp;",
+ "fingerprint": "56019de4a814980f8e0c409139d79b798f5c0893",
+ "format": 3,
+ "paid_for_by": "Paid for by Curt Massie for SD",
  "title": "News Archives - Curt Massie",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

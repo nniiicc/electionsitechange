@@ -1,9 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jakebantaforpa.com/",
-"https://jakebantaforpa.com/contact-us",
-"https://jakebantaforpa.com/district-4-map",
-"https://jakebantaforpa.com/events",
-"https://jakebantaforpa.com/patriots",
-"https://jakebantaforpa.com/the-issues"
+{
+"text": "Contact Us",
+"href": "https://jakebantaforpa.com/contact-us"
+},
+{
+"text": "District 4 Map",
+"href": "https://jakebantaforpa.com/district-4-map"
+},
+{
+"text": "Events",
+"href": "https://jakebantaforpa.com/events"
+},
+{
+"text": "Home",
+"href": "https://jakebantaforpa.com/"
+},
+{
+"text": "Patriots",
+"href": "https://jakebantaforpa.com/patriots"
+},
+{
+"text": "The Issues",
+"href": "https://jakebantaforpa.com/the-issues"
+},
+{
+"text": "WE ARE AMERICAWE ARE AMERICAWE ARE AMERICAWE ARE AMERICA",
+"href": "https://jakebantaforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

@@ -1,5 +1,14 @@
 [
-"https://facebook.com/chrisglassburnoh",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://paypal.com/donate?hosted_button_id=PDXWCE44G3EJG"
+{
+"text": "Donate",
+"href": "https://www.paypal.com/donate/?hosted_button_id=PDXWCE44G3EJG"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chrisglassburnoh"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

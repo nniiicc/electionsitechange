@@ -1,42 +1,29 @@
-POLICY &
-TERMS AND
-CONDITIONS
-At Max Miller for Congress, we are committed to safeguarding the privacy of our customers and users.
+Home Meet Endorsements Priorities News Join DONATE Privacy POLICY & TERMS AND CONDITIONS Privacy Policy At Max Miller for Congress, we are committed to safeguarding the privacy of our customers and users.
 This Privacy Policy outlines our practices regarding the collection, use, and protection of your personal information.
 By using our website or providing your personal information to us, you consent to the practices described in this policy.
 1.
-Information We Collect
-1.1 Personal Information: When you use our website, submit inquiries, or register for our services, we may collect personal information, including but not limited to your name, email address, postal address, and telephone number.
+Information We Collect 1.1 Personal Information: When you use our website, submit inquiries, or register for our services, we may collect personal information, including but not limited to your name, email address, postal address, and telephone number.
 1.2 Cell Phone Data: If you choose to provide your cell phone number for the purpose of direct communication, we may collect and store this information to better serve your needs.
 1.3 Opt-In Data: If you opt in to receive communication, newsletters, or updates from Max Miller for Congress, we will collect and use your contact information to send you the requested information.
 You may unsubscribe or opt out of these communications at any time.
 2.
-How We Use Your Information
-We use the information collected for the following purposes:
-2.1 Direct Communication: We use your information to communicate with you, respond to your inquiries, and provide you with updates about our products and services.
+How We Use Your Information We use the information collected for the following purposes: 2.1 Direct Communication: We use your information to communicate with you, respond to your inquiries, and provide you with updates about our products and services.
 2.2 Opt-In Communications: If you have opted in to receive marketing communications, we use your contact information to send you relevant content, offers, and updates.
 2.3 Website Improvement: We analyze data about the use of our website to improve its functionality and user experience.
 3.
-Data Protection and Sharing
-At Max Miller for Congress, we are committed to protecting your data:
-3.1 Data Security: We implement appropriate security measures to protect your personal information from unauthorized access, disclosure, or misuse.
+Data Protection and Sharing At Max Miller for Congress, we are committed to protecting your data: 3.1 Data Security: We implement appropriate security measures to protect your personal information from unauthorized access, disclosure, or misuse.
 3.2 No Sale or Sharing: We will never sell your personal data or share it with third-party marketing partners.
 Your information will only be used for direct communication with Max Miller for Congress users.
 SMS opt-in consent and data will not be shared with third parties.
 3.3 Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
 4.
-Your Choices
-4.1 Opting Out: You have the option to opt out of any marketing communications by clicking the “unsubscribe” link in our emails or by contacting us directly.
+Your Choices 4.1 Opting Out: You have the option to opt out of any marketing communications by clicking the “unsubscribe” link in our emails or by contacting us directly.
 To opt out of text messages, simply reply “STOP” or “OPT-OUT”.
-4.2 Updating Your Information: If you need to update or correct your personal information, please contact us at: info@votemaxmiller.com
-5.
-Changes to this Privacy Policy
-We may update this Privacy Policy from time to time to reflect changes in our practices and legal requirements.
+4.2 Updating Your Information: If you need to update or correct your personal information, please contact us at: info@votemaxmiller.com 5.
+Changes to this Privacy Policy We may update this Privacy Policy from time to time to reflect changes in our practices and legal requirements.
 Any updates will be posted on our website, and the date at the beginning of the policy will be revised accordingly.
 6.
-Contact Us
-If you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at: info@votemaxmiller.com
-By using our website or providing your information to Max Miller for Congress, you acknowledge and agree to the terms outlined in this Privacy Policy.
+Contact Us If you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at: info@votemaxmiller.com By using our website or providing your information to Max Miller for Congress, you acknowledge and agree to the terms outlined in this Privacy Policy.
 Your privacy and data security are of the utmost importance to us, and we are dedicated to protecting your personal information in accordance with this policy.
 By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed messages from Max Miller for Congress to the phone number you provide.
@@ -44,7 +31,7 @@ Msg & data rates may apply.
 Reply HELP for help or STOP to opt-out at any time.
 SMS information is not rented, sold, or shared.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
+TERMS AND CONDITIONS PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
 BY ACCESSING OR USING THIS WEB SITE, MOBILE APPLICATION OR OTHER DIGITAL OR ONLINE APPLICATION OR SERVICE LINKED HERETO, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS WEB SITE, MOBILE APPLICATION OR OTHER DIGITAL OR ONLINE APPLICATION OR SERVICE.
 This website, mobile application or other digital or online application or service is operated by Max Miller for Congress (“Max Miller for Congress”, “we,” “us” or “our”).
@@ -55,13 +42,15 @@ Any changes or modification to the terms and conditions will take effect immedia
 You waive any right you may have to receive specific notice of such changes or modifications; your continued use of these Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
 Therefore, you should frequently review the Terms of Service and applicable policies to understand the terms and conditions that apply to your use of the Sites.
 If you do not agree to the amended terms, you must stop using the Sites.
-All questions or comments about the Sites or site content should be directed to info@votemaxmiller.com
-PRIVACY POLICY.
+All questions or comments about the Sites or site content should be directed to info@votemaxmiller.com 4.
+Your Choices 4.1 Opting Out: You have the option to opt out of any marketing communications by clicking the “unsubscribe” link in our emails or by contacting us directly.
+To opt out of text messages, simply reply “STOP” or “OPT-OUT”.
+4.2 Updating Your Information: If you need to update or correct your personal information, please contact us at: info@votemaxmiller.com PRIVACY POLICY.
 Please refer to our Privacy Policy for information on how we collect, use and disclose information obtained from users of the Sites.
 CONTRIBUTION POLICY.
 CONTRIBUTIONS FROM BANKS, INSURANCE COMPANIES, UTILITY COMPANIES, AND CERTAIN OTHER REGULATED ENTITES ARE PROHIBITED.
 MAXMILLER FOR CONGRESS IS REQUIRED TO REPORT THE NAME AND MAILING ADDRESS, AS WELL AS (FOR INDIVIDUALS) THE OCCUPATION AND NAME AND ADDRESS OF EMPLOYER FOR CONTRIBUTORS GIVING IN EXCESS OF $200.
-If you believe that an error has been made in connection with your online contribution, contact us at info@votemaxmiller.com.
+If you believe that an error has been made in connection with your online contribution, contact us at info@votemaxmiller.com .
 We will endeavor to work with you to correct any such error.
 MOBILE MESSAGING.
 If you request to receive updates or other information by mobile phone or text message (the “SMS Service”) through the Sites, you expressly consent to receiving via your mobile device text messages, including text messages (a) sent by an automatic telephone dialing system, (b) that include pre-recorded voice, and/or (c) that include automated voice, in each case from us or a third-party contractor we have retained for their expertise in initiating and transmitting text messages.
@@ -96,15 +85,7 @@ USER CONTENT AND INTERACTIVE AREAS.
 The Sites may include interactive areas or services (“Interactive Areas”), such as forums, blogs, chat rooms or message boards, or other areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites (“User Content”).
 You are solely responsible for your use of such Interactive Areas and use them at your own risk.
 By posting User Content, you represent and warrant that (a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content to the Sites; (b) the User Content is accurate and not misleading; and (c) use and posting of the User Content you supply does not violate these Terms of Service and will not violate any rights of or cause injury to any person or entity.
-By using any Interactive Areas, you agree not to post, upload, transmit, distribute, store, create, or otherwise publish to or through the Sites any of the following:
-User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, discriminatory, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;
-User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
-User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-Unsolicited promotions, advertising, or solicitations;
-Private or personally identifying information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-Viruses, corrupted data or other harmful, disruptive or destructive files; or
-User Content that, in the sole judgment of Max Miller for Congress, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Max Miller for Congress or its users to any harm or liability of any type.
+By using any Interactive Areas, you agree not to post, upload, transmit, distribute, store, create, or otherwise publish to or through the Sites any of the following: User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, discriminatory, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading; User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law; User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity; User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law; Unsolicited promotions, advertising, or solicitations; Private or personally identifying information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers; Viruses, corrupted data or other harmful, disruptive or destructive files; or User Content that, in the sole judgment of Max Miller for Congress, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Max Miller for Congress or its users to any harm or liability of any type.
 We take no responsibility and assume no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor are we liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, profanity or other objectionable content you may encounter.
 Your use of Interactive Areas is at your own risk.
 Enforcement of the user content or conduct rules set forth in these Terms of Service is solely at our discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.
@@ -113,6 +94,10 @@ Except as otherwise provided, you retain ownership of all User Content you post 
 However, if you post User Content to the Sites, unless we indicate otherwise, you grant to us and our affiliates a nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content throughout the world in any manner or media, including without limitation in advertising, fundraising and other communications without any right of compensation or attribution.
 REGISTRATION DATA; ACCOUNT SECURITY.
 In consideration of your use of the Sites, you agree to (a) provide accurate, current and complete information about you as may be prompted by any registration forms on the Sites (“Registration Data”); (b) maintain the security of your password and identification; (c) maintain and promptly update the Registration Data, and any other information you provide to us, to keep it accurate, current and complete; and (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to us.
+We take no responsibility and assume no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor are we liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, profanity or other objectionable content you may encounter.
+Your use of Interactive Areas is at your own risk.
+Enforcement of the user content or conduct rules set forth in these Terms of Service is solely at our discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.
+In addition, these rules do not create any private right of action on the part of any third party or any reasonable expectation that the Sites will not contain any content that is prohibited by such rules.
 DISCLAIMERS.
 EXCEPT AS EXPRESSLY PROVIDED TO THE CONTRARY IN A WRITING BY US, THE SITES, THE SITE MATERIALS CONTAINED THEREIN AND THE SERVICES PROVIDED ON OR IN CONNECTION THEREWITH (THE “SERVICES”) ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
 Max Miller for Congress DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT AND AS TO ACCURACY OR RELIABILITY OF THE INFORMATION, CONTENT, FORMS OR OTHER SITE MATERIALS ACCESSED THROUGH THE SITE.
@@ -140,3 +125,14 @@ TERMINATION.
 Notwithstanding any of these Terms of Service, at all times we reserve the right, without notice and in our sole discretion, to terminate your license to use the Sites, and to block or prevent future your access to and use of the Sites.
 SEVERABILITY.
 If any provision of these Terms of Service shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Service and shall not affect the validity and enforceability of any of the remaining provisions.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed messages from Max Miller for Congress to the phone number you provide.
+Msg & data rates may apply.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties. stay updated on our campaign Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+Paid for by Max Miller for Congress Privacy Policy Terms & Conditions More Information Military images and information do not imply endorsement by the Department of Defense nor any service branch.
+Photos do not imply endorsement by individuals in them.

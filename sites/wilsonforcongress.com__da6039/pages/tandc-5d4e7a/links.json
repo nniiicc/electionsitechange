@@ -1,16 +1,74 @@
 [
-"https://facebook.com/profile.php?id=61573386374455",
-"https://instagram.com/wilsonforcongress",
-"https://secure.anedot.com/wilson-for-congress/donate?exitIntent=true",
-"https://secure.winred.com/wilson-for-congress/donate",
-"https://wilsonforcongress.com/",
-"https://wilsonforcongress.com/about",
-"https://wilsonforcongress.com/about-il13",
-"https://wilsonforcongress.com/contact",
-"https://wilsonforcongress.com/event-list",
-"https://wilsonforcongress.com/issues",
-"https://wilsonforcongress.com/news",
-"https://wilsonforcongress.com/privacy-policy",
-"https://wilsonforcongress.com/tandc",
-"https://x.com/WilsonforIL13"
+{
+"text": "CONTACT",
+"href": "https://www.wilsonforcongress.com/contact"
+},
+{
+"text": "DONATE NOW TO HELP ELECT JEFF WILSON",
+"href": "https://secure.winred.com/wilson-for-congress/donate"
+},
+{
+"text": "DONATE ON ANEDOT",
+"href": "https://secure.anedot.com/wilson-for-congress/donate?exitIntent=true"
+},
+{
+"text": "DONATE ON WINRED",
+"href": "https://secure.winred.com/wilson-for-congress/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.wilsonforcongress.com/about-il13"
+},
+{
+"text": "EVENTS",
+"href": "https://www.wilsonforcongress.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.wilsonforcongress.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.wilsonforcongress.com/issues"
+},
+{
+"text": "JOIN",
+"href": "https://www.wilsonforcongress.com"
+},
+{
+"text": "JOIN TEAM WILSON",
+"href": "https://www.wilsonforcongress.com"
+},
+{
+"text": "MEET JEFF",
+"href": "https://www.wilsonforcongress.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.wilsonforcongress.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.wilsonforcongress.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.wilsonforcongress.com/tandc"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573386374455"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wilsonforcongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/WilsonforIL13"
+},
+{
+"text": "info@jeffwilson.com",
+"href": "mailto:info@jeffwilson.com"
+}
 ]

@@ -1,3 +1,3 @@
-BUILT AND PAID FOR BY:
-GENTE FOR GRACIELA GUZMÁN
-A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Meet Graciela Introduction Platform Endorsements Testimonials News Vote Campaign Events Calendar Election Day Volunteer Donate Testimonials Get Involved Get Involved Notice: JavaScript is required for this content.
+Meet Graciela Endorsements Testimonials Platform News Vote Events Election Day Volunteer Donate BUILT AND PAID FOR BY: GENTE FOR GRACIELA GUZMÁN A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Designed and Developed by Ken Barrios

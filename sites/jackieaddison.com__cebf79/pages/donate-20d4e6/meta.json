@@ -1,7 +1,9 @@
 {
  "description": "Donate to Delegate Addison's campaign.",
  "final_url": "https://jackieaddison.com/donate",
- "paid_for_by": null,
+ "fingerprint": "da70d45e367fc8238684da1042c833cb3644c7f1",
+ "format": 3,
+ "paid_for_by": "Authorized by Citizens To Elect Jackie Addison, Tanisha Estep, Treasurer Powered by",
  "title": "Delegatejackieaddison - Donations, Delegate Addison",
  "years_mentioned": []
 }

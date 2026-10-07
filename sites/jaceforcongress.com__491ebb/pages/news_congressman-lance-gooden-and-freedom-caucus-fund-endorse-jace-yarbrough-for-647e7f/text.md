@@ -1,24 +1,12 @@
-January 23, 2026
-|
-Endorsement
-Rockwall, TX — As momentum in the Republican primary continues to build, Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsements of U.S.
-Congressman Lance Gooden and the Freedom Caucus Fund in the race for Texas’s 32nd Congressional District.
-Gooden, who represents Texas’s 5th Congressional District and is a leading conservative voice and staunch ally of President Trump, praised Yarbrough as the proven fighter TX-32 needs in Washington.
-“Jace Yarbrough is the America First champion we need in Congress,” said Congressman Lance Gooden.
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate Congressman Lance Gooden and Freedom Caucus Fund Endorse Jace Yarbrough for Congress January 23, 2026 | Endorsement Rockwall, TX — As momentum in the Republican primary continues to build, Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsements of U.S.
+Congressman Lance Gooden and the Freedom Caucus Fund in the race for Texas’s 32nd Congressional District. ‍ Gooden, who represents Texas’s 5th Congressional District and is a leading conservative voice and staunch ally of President Trump, praised Yarbrough as the proven fighter TX-32 needs in Washington. ‍ “Jace Yarbrough is the America First champion we need in Congress,” said Congressman Lance Gooden .
 “He will fight mass immigration, stand up to the radical left, and back President Trump every step of the way in Washington.
-Jace Yarbrough has my complete and total endorsement in TX-32.”
-The endorsement from the Freedom Caucus Fund, which only supports candidates who fight to defend the Constitution, uphold limited government, and advance the liberty, safety, and prosperity of all Americans, underscores Yarbrough’s strong conservative credentials.
-“The Freedom Caucus Fund is proud to endorse Jace Yarbrough for the newly drawn Texas 32nd Congressional District open seat,” the organization said in a statement.
-“As a seventh-generation Texan, husband, and father of five, Jace has a proven track record of fighting for the values the House Freedom Caucus holds dear: limited government, constitutional freedoms, protecting Americans from Sharia Law, secure borders, election integrity, and the America First agenda that President Trump has championed.”
-Endorsement Tracker
-About Jace
-A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
+Jace Yarbrough has my complete and total endorsement in TX-32.” ‍ The endorsement from the Freedom Caucus Fund, which only supports candidates who fight to defend the Constitution, uphold limited government, and advance the liberty, safety, and prosperity of all Americans, underscores Yarbrough’s strong conservative credentials. ‍ “The Freedom Caucus Fund is proud to endorse Jace Yarbrough for the newly drawn Texas 32nd Congressional District open seat,” the organization said in a statement .
+“As a seventh-generation Texan, husband, and father of five, Jace has a proven track record of fighting for the values the House Freedom Caucus holds dear: limited government, constitutional freedoms, protecting Americans from Sharia Law, secure borders, election integrity, and the America First agenda that President Trump has championed.” ‍ Endorsement Tracker ‍ Texas Governor Greg Abbott Endorses Jace Yarbrough for Congress Texas State Representative Daniel Alders Endorses Jace Yarbrough for Congress Rockwall Young Republicans Endorse Jace Yarbrough for Congress American Principles Project PAC President Terry Schilling Endorses Jace Yarbrough for Congress Congressman Keith Self Endorses Jace Yarbrough for Congress Bull Moose Project Endorses Jace Yarbrough for Congress Rockwall City Councilwoman Melba Jeffus Endorses Jace Yarbrough for Congress Children and Family Advocacy Groups Endorse Jace Yarbrough for Congress Texas State Representatives Line Up Behind Jace Yarbrough for Congress Second Amendment and Pro-Life Groups Line Up Behind Jace Yarbrough ‍ About Jace ‍ A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
 A descendant of a veteran of the Texas Revolution, he continues to serve as an officer in the U.S.
-Air Force Reserves and has built a legal career taking on liberal overreach in the courts.
-Yarbrough is a constitutional lawyer.
+Air Force Reserves and has built a legal career taking on liberal overreach in the courts. ‍ Yarbrough is a constitutional lawyer.
 He’s challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
-His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology.
-Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
+His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology. ‍ Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
 With his wife Elizabeth, he founded Saint Francis Academy, a classical Christian school rooted in faith and academic excellence.
 The Yarbrough family is active in their local church and is raising five children.
-Learn more at www.JaceForCongress.com
+Learn more at www.JaceForCongress.com Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

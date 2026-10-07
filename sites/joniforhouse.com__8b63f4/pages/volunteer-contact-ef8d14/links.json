@@ -1,10 +1,38 @@
 [
-"https://facebook.com/joniforhouse",
-"https://joniforhouse.com/",
-"https://joniforhouse.com/about",
-"https://joniforhouse.com/donate",
-"https://joniforhouse.com/media",
-"https://joniforhouse.com/privacy-policy",
-"https://joniforhouse.com/terms",
-"https://joniforhouse.com/volunteer-contact"
+{
+"text": "About",
+"href": "https://www.joniforhouse.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.joniforhouse.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/joniforhouse"
+},
+{
+"text": "Home",
+"href": "https://www.joniforhouse.com/"
+},
+{
+"text": "Media",
+"href": "https://www.joniforhouse.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joniforhouse.com/privacy-policy"
+},
+{
+"text": "Terms",
+"href": "https://www.joniforhouse.com/terms"
+},
+{
+"text": "Volunteer / Contact",
+"href": "https://www.joniforhouse.com/volunteer-contact/"
+},
+{
+"text": "[image]",
+"href": "https://www.joniforhouse.com/"
+}
 ]

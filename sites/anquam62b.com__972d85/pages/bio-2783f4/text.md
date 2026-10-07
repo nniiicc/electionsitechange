@@ -1,4 +1,4 @@
-Meet Anquam.
+0 Skip to Content Meet Anquam Vision Endorsements Join Requesting PCR DONATE Open Menu Close Menu Meet Anquam Vision Endorsements Join Requesting PCR DONATE Open Menu Close Menu Meet Anquam Vision Endorsements Join Requesting PCR DONATE Meet Anquam.
 My name is Anquam (ahn-AHM) Mahamoud, and I am running to be your next State Representative in MN House District 62B.
 I moved to Minnesota at the age of 8, and grew up in the East Phillips Neighborhood.
 My family experienced poverty like many of our neighbors, struggling to make ends meet with little healthcare access.
@@ -14,7 +14,7 @@ As Chief Operating Officer of Twin Cities Health Services on Lake and Hennepin, 
 As your State Representative in 62B, I have fought to remove barriers to quality health care in underserved communities, grow affordable housing access, and I have stood on the front line with our immigrant, working class, unsheltered, and environmental justice communities.
 While we have made progress, we know the work is ongoing.
 This exercise in democracy is more crucial now than ever while attacks from the federal government are unceasing — and continue to surge.
-I know that all Minnesotans are looking for the same holistically rooted foundation when they lay down at night: Health, Education, Affordable Housing, Clean Air and Water, and a bright future for their families.
+I know that all Minnesotans are looking for the same holistically rooted foundation when they lay down at night: Health , Education, Affordable Housing, Clean Air and Water, and a bright future for their families.
 I’m inviting you to collaborate with me and ALL residents in our diverse and vibrant 62B to maintain and grow progressive wins at the legislature in 2026.
-In partnership,
-Anquam
+In partnership, Anquam Home | Vision | Endorsements | Join email: contact@anquam62b.com DONATE Prepared and paid for by the Friends with Anquam committee, P.O.
+Box 7439 Minneapolis, MN 55407.

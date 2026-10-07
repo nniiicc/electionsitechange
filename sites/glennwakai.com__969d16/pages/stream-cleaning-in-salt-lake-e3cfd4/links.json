@@ -1,12 +1,42 @@
 [
-"http://glennwakai.com/",
-"http://glennwakai.com/privacy-policy",
-"https://facebook.com/Glennator",
-"https://glennwakai.com/",
-"https://glennwakai.com/about",
-"https://glennwakai.com/community-projects",
-"https://glennwakai.com/contact",
-"https://glennwakai.com/stream-cleaning-in-salt-lake",
-"https://instagram.com/glenn_wakai?hl=en",
-"https://twitter.com/glennwakai"
+{
+"text": "About",
+"href": "https://glennwakai.com/about"
+},
+{
+"text": "Community Projects",
+"href": "https://glennwakai.com/community-projects"
+},
+{
+"text": "Contact",
+"href": "https://glennwakai.com/contact"
+},
+{
+"text": "Home",
+"href": "http://glennwakai.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://glennwakai.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/"
+},
+{
+"text": "[image]",
+"href": "https://glennwakai.com/stream-cleaning-in-salt-lake"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/glennwakai"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Glennator/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/glenn_wakai/?hl=en"
+}
 ]

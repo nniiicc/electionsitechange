@@ -1,13 +1,7 @@
-Internship
-Benefits
-- Earn 35 community service hours, with opportunity for more
-- Learn about government and political career options from successful professionals
-- Learn about campaign strategy and the inner workings of political campaign
-- Gain access to mentors who can provide guidance, advice, and support for your career aspirations.
-- See how policies and decisions affect communities and understand the importance of civic participation.
-Benefits
-- Willingness and ability to learn
-- Comfortability working in teams and speaking with voters
-- Primarily focused on high school and college students but this opportunity is open to anyone interested who is willing to work and learn.
-- Some internships may have a minimum GPA requirement to ensure candidates have a strong academic background.
-- Strong work ethic, punctuality, and the ability to maintain confidentiality.
+maroneyforus.com United States james@maroneyforus.com Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Events Internship Internship Benefits Earn 35 community service hours, with opportunity for more Learn about government and political career options from successful professionals Learn about campaign strategy and the inner workings of political campaign Gain access to mentors who can provide guidance, advice, and support for your career aspirations.
+See how policies and decisions affect communities and understand the importance of civic participation.
+Benefits Willingness and ability to learn Comfortability working in teams and speaking with voters Primarily focused on high school and college students but this opportunity is open to anyone interested who is willing to work and learn.
+Some internships may have a minimum GPA requirement to ensure candidates have a strong academic background.
+Strong work ethic, punctuality, and the ability to maintain confidentiality.
+Address and Application Form Location: 344 W Main Street, Milford, CT 06460 When: Wednesdays 4 PM - 8 PM Other days as desired.
+Loading… About Me James Maroney for State Senate Proudly serving Milford, Orange, West Haven, and Woodbridge Quick Links Meet James Results Issues News Volunteer Get In Touch + 1 (203) 214 9133 james@maroneyforus.com United States Maroney For Us! © All Rights Reserved.

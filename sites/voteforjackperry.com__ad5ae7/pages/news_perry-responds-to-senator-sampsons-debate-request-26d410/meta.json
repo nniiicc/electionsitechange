@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.voteforjackperry.com/news/perry-responds-to-senator-sampsons-debate-request",
+ "fingerprint": "7690d4de9a826c2d7c3e008277811cdb29054bd6",
+ "format": 3,
  "paid_for_by": "Paid for by Perry 2026",
- "title": "Jack Perry Ready to Debate Sampson\u2019s Record",
- "years_mentioned": []
+ "title": "Jack Perry Ready to Debate Sampson’s Record",
+ "years_mentioned": [
+  "2026"
+ ]
 }

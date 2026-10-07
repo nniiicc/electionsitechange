@@ -1,7 +1,5 @@
-The Power of Mentoring and Accountability
-Each of us has a select few people in our life who have truly helped shape who we are today.
-Our parents certainly exert a great influence over what kind of adults we ultimately become, but the impact of mentors outside the family
-sphere cannot be understated.
+Home About District 34 Issues News Get Involved Donate Donate Home About District 34 Issues News Get Involved News September 15, 2023 Senator Lippincott's Weekly Column The Power of Mentoring and Accountability Each of us has a select few people in our life who have truly helped shape who we are today.
+Our parents certainly exert a great influence over what kind of adults we ultimately become, but the impact of mentors outside the family sphere cannot be understated.
 When I was growing up, my folks were politically active and when I was in high school they introduced me to the man who served as Nebraska’s Secretary of State for 24 years, Allen Beermann.
 When I started college at UNL, he asked me to check in with him.
 When I did, he hired me to be his driver (mostly on weekends) taking him to various speaking engagements across the state.
@@ -38,8 +36,10 @@ Although I did not realize it at the time, Sec.
 Beermann and Sen.
 Kremer helped me in those areas.
 This brings me to the topic of the week; the opportunity for young Nebraskans to become a legislative page.
-Applications are now being accepted from high school graduates to become pages in the 60-day short session that will take place from Jan. 3 to April 18, 2024.
-Applications must be turned into the Clerk of the Legislature no later than Oct. 13 (less than a month away).
+Applications are now being accepted from high school graduates to become pages in the 60-day short session that will take place from Jan.
+3 to April 18, 2024.
+Applications must be turned into the Clerk of the Legislature no later than Oct.
+13 (less than a month away).
 Applicants must be a high school graduate and enrolled in a Nebraska college or trade school with a GPA of 2.5 or better on the 4.0 scale.
 Pages must be able to work 20 hours a week in four-hour shifts and are paid above minimum wage.
 They may also be able to receive college credit for their service.
@@ -48,5 +48,6 @@ Pages also run errands, deliver messages, photocopy documents, assist the presid
 It is a wonderful opportunity to learn how the government works!
 You can find the page application online at: nebraskalegislature.govunicampages.
 Please feel free to contact me with any questions about the page program.
-Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
+Donate Paid for by Nebraskans for Loren Lippincott, 2611 Highway 14, Central City, NE 68826.
 All rights reserved.
+Share

@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for John Boyd for Utah State Legislature",
  "final_url": "https://www.johnboydforutah.com/",
- "paid_for_by": null,
+ "fingerprint": "c5296965758725fd03a4e2191db9a57ab53a77ff",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Boyd for Utah House District 53",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

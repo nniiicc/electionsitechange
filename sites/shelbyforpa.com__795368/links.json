@@ -1,15 +1,62 @@
 [
-"https://facebook.com/ShelbyforPA",
-"https://secure.anedot.com/friends-of-shelby-labs/donate",
-"https://secure.anedot.com/friends-of-shelby-labs/donate?amount=100",
-"https://secure.anedot.com/friends-of-shelby-labs/donate?amount=25",
-"https://secure.anedot.com/friends-of-shelby-labs/donate?amount=250",
-"https://secure.anedot.com/friends-of-shelby-labs/donate?amount=50",
-"https://secure.anedot.com/friends-of-shelby-labs/donate?amount=500",
-"https://shelbyforpa.com/",
-"https://shelbyforpa.com/about",
-"https://shelbyforpa.com/priorities",
-"https://shelbyforpa.com/privacy",
-"https://shelbyforpa.com/terms",
-"https://shelbyforpa.com/volunteer"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate"
+},
+{
+"text": "Home",
+"href": "https://www.shelbyforpa.com/"
+},
+{
+"text": "Meet Shelby",
+"href": "https://www.shelbyforpa.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/friends-of-shelby-labs/donate"
+},
+{
+"text": "Priorities",
+"href": "https://www.shelbyforpa.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shelbyforpa.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.shelbyforpa.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shelbyforpa.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/ShelbyforPA"
+},
+{
+"text": "[image]",
+"href": "https://www.shelbyforpa.com/"
+}
 ]

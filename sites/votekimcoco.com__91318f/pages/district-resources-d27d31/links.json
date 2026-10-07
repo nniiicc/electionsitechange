@@ -1,41 +1,178 @@
 [
-"https://alohamedicalmission.org/what-we-do/dental-clinic",
-"https://catholiccharitieshawaii.org/housing-assistance",
-"https://centralunionchurch.org/serving-aloha",
-"https://elderlyaffairs.com/site/1/home.aspx",
-"https://elderlyaffairs.com/site/438/apply_for_assistance.aspx",
-"https://facebook.com/votekimcoco",
-"https://familypromisehawaii.org/",
-"https://forms.gle/k9st6ryCCr6bTRb67",
-"https://h4hawaii.org/",
-"https://hawaii.salvationarmy.org/",
-"https://hawaiianhumane.org/pet-food-bank",
-"https://hawaiifoodbank.org/",
-"https://health.hawaii.gov/amhd/consumer/access",
-"https://hhhrc.org/fooddrop",
-"https://honolulucitycouncil.org/district-5-say",
-"https://honolulucitycouncil.org/district-6-dos-santos-tam",
-"https://humanservices.hawaii.gov/bessd/snap",
-"https://instagram.com/votekimcoco",
-"https://labor.hawaii.gov/ui",
-"https://lanakilapacific.org/mealsonwheels",
-"https://lanakilapacific.org/produce-delivery",
-"https://legalaidhawaii.org/",
-"https://projectvisionhawaii.org/",
-"https://secure.actblue.com/donate/votekimcoco2026",
-"https://sites.google.com/view/hawaiihomeproject/about",
-"https://sspeterpaulhawaii.org/",
-"https://twitter.com/votekimcoco",
-"https://vlsh.org/",
-"https://votekimcoco.com/",
-"https://votekimcoco.com/blog",
-"https://votekimcoco.com/contact-me",
-"https://votekimcoco.com/district-resources",
-"https://votekimcoco.com/experience",
-"https://votekimcoco.com/issues",
-"https://votekimcoco.com/letsmeet",
-"https://votekimcoco.com/media",
-"https://votekimcoco.com/meet-kim-coco",
-"https://votekimcoco.com/search",
-"https://votekimcoco.com/whykimcoco"
+{
+"text": "Adult Mental Health",
+"href": "https://health.hawaii.gov/amhd/consumer/access/"
+},
+{
+"text": "Aloha Medical Mission Dental Clinic",
+"href": "https://alohamedicalmission.org/what-we-do/dental-clinic/"
+},
+{
+"text": "Blog",
+"href": "https://www.votekimcoco.com/blog"
+},
+{
+"text": "Calvin Say",
+"href": "https://www.honolulucitycouncil.org/district-5-say"
+},
+{
+"text": "Catholic Charities",
+"href": "https://www.catholiccharitieshawaii.org/housing-assistance/"
+},
+{
+"text": "Central Union Church",
+"href": "https://centralunionchurch.org/serving-aloha/"
+},
+{
+"text": "Contact Me",
+"href": "https://www.votekimcoco.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/votekimcoco2026"
+},
+{
+"text": "District Resources",
+"href": "https://www.votekimcoco.com/district-resources"
+},
+{
+"text": "Elderly Housing",
+"href": "https://www.elderlyaffairs.com/site/438/apply_for_assistance.aspx"
+},
+{
+"text": "Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Experience",
+"href": "https://www.votekimcoco.com/experience"
+},
+{
+"text": "Family Promise",
+"href": "https://www.familypromisehawaii.org"
+},
+{
+"text": "Food Stamps (SNAP)",
+"href": "https://humanservices.hawaii.gov/bessd/snap/"
+},
+{
+"text": "HHHRC",
+"href": "https://www.hhhrc.org/fooddrop"
+},
+{
+"text": "HI Homeless Healthcare Hui",
+"href": "https://h4hawaii.org"
+},
+{
+"text": "HOME Project",
+"href": "https://sites.google.com/view/hawaiihomeproject/about"
+},
+{
+"text": "Hawaii Food Bank",
+"href": "https://hawaiifoodbank.org"
+},
+{
+"text": "Home",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votekimcoco.com/issues"
+},
+{
+"text": "KimCoco@KimCoco.com",
+"href": "mailto:kimcoco@kimcoco.com"
+},
+{
+"text": "Lanakila Produce Delivery",
+"href": "https://lanakilapacific.org/produce-delivery/"
+},
+{
+"text": "Legal Aid Society",
+"href": "https://www.legalaidhawaii.org"
+},
+{
+"text": "Meals on Wheels",
+"href": "https://lanakilapacific.org/mealsonwheels/"
+},
+{
+"text": "Media",
+"href": "https://www.votekimcoco.com/media"
+},
+{
+"text": "Meet Kim Coco",
+"href": "https://www.votekimcoco.com/meet-kim-coco"
+},
+{
+"text": "Oahu Claims Office",
+"href": "https://labor.hawaii.gov/ui/"
+},
+{
+"text": "Pet Food Bank",
+"href": "https://hawaiianhumane.org/pet-food-bank/"
+},
+{
+"text": "Project Vision HI",
+"href": "https://www.projectvisionhawaii.org"
+},
+{
+"text": "Senior Citizen Info",
+"href": "https://www.elderlyaffairs.com/site/1/home.aspx"
+},
+{
+"text": "Sts. Peter & Paul Church",
+"href": "https://sspeterpaulhawaii.org"
+},
+{
+"text": "The Salvation Army",
+"href": "https://hawaii.salvationarmy.org"
+},
+{
+"text": "Tyler Dos Santos-Tam",
+"href": "https://www.honolulucitycouncil.org/district-6-dos-santos-tam"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/k9st6ryCCr6bTRb67"
+},
+{
+"text": "Volunteer Legal Svc",
+"href": "https://www.vlsh.org"
+},
+{
+"text": "Why Kim Coco",
+"href": "https://www.votekimcoco.com/whykimcoco"
+},
+{
+"text": "[image: Kim Coco Iwamoto]",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "[image: social_icons-facebook-sml.png]",
+"href": "https://www.facebook.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-instagram-sml.png]",
+"href": "https://www.instagram.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-twitter-sml.png]",
+"href": "https://twitter.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:kimcoco@kimcoco.com"
+}
 ]

@@ -1,31 +1,150 @@
 [
-"https://carrierheingans.com/",
-"https://carrierheingans.com/contact-me",
-"https://carrierheingans.com/endoresments",
-"https://carrierheingans.com/hd47",
-"https://carrierheingans.com/meet-carrie",
-"https://carrierheingans.com/micare",
-"https://carrierheingans.com/priorities",
-"https://carrierheingans.com/vote",
-"https://carrierheingans.com/what-weve-achieved",
-"https://facebook.com/Rheingans4Rep",
-"https://forms.gle/T78c1AuBW4z1S3g8A",
-"https://forms.gle/VjgXNRCWvgQvvSUU7",
-"https://housedems.com/Carrie-Rheingans",
-"https://instagram.com/Rheingans4Rep",
-"https://linkedin.com/in/crheinga",
-"https://mi.omniballot.us/sites/26/absentee/app/home",
-"https://michigan.gov/documents/sos/Absent_Voter_Ballot_Application_-_large_print_680764_7_704968_7.pdf",
-"https://michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Arabic-Fillable.pdf?rev=e94a1a41eb8346d5b1ce2e64643067d9&hash=6BE9F0EE21D65065E342317787C593E7",
-"https://michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Bengali-Fillable.pdf?rev=82d8b520b122456489a72f9a874c5ea3&hash=CBFF390932D4E256797E1CB997673191",
-"https://michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Farsi-Fillable.pdf?rev=df455e9be6574623b5f12a893d0519e9&hash=07B868C9F2CB245B0BC19D9115B85BE6",
-"https://michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Fillable.pdf?rev=4d217f56f6454564a484fbb715768a17&hash=FB07641F244259C5F9FE0D5AF58520D7",
-"https://michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Spanish-Fillable.pdf?rev=4bb6cb96dc4c43d8af93b8a1d3b0b656&hash=EEBCE549160D951EDF4595F0D7C9430F",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/Home/VoteAtHome",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/carrierheingans",
-"https://secure.ngpvan.com/pdUYCGgzcEiWMNK3v6f0nA2",
-"https://tiktok.com/@reprheingans",
-"https://x.com/RepRheingans"
+{
+"text": "AM I REGISTERED TO VOTE?",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Apply online",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "Apply online for an accessible electronic absent voter ballot",
+"href": "https://mi.omniballot.us/sites/26/absentee/app/home"
+},
+{
+"text": "CHIP IN",
+"href": "https://secure.actblue.com/donate/carrierheingans"
+},
+{
+"text": "CONTACT ME",
+"href": "https://www.carrierheingans.com/contact-me"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/carrierheingans"
+},
+{
+"text": "Descargue una solicitud de boleta de voto ausente",
+"href": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Spanish-Fillable.pdf?rev=4bb6cb96dc4c43d8af93b8a1d3b0b656&hash=EEBCE549160D951EDF4595F0D7C9430F"
+},
+{
+"text": "Download an absent voter ballot application",
+"href": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Fillable.pdf?rev=4d217f56f6454564a484fbb715768a17&hash=FB07641F244259C5F9FE0D5AF58520D7"
+},
+{
+"text": "Download an absent voter ballot application - Arabic version",
+"href": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Arabic-Fillable.pdf?rev=e94a1a41eb8346d5b1ce2e64643067d9&hash=6BE9F0EE21D65065E342317787C593E7"
+},
+{
+"text": "Download an absent voter ballot application - Bengali version",
+"href": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Bengali-Fillable.pdf?rev=82d8b520b122456489a72f9a874c5ea3&hash=CBFF390932D4E256797E1CB997673191"
+},
+{
+"text": "Download an absent voter ballot application - Farsi version",
+"href": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Farsi-Fillable.pdf?rev=df455e9be6574623b5f12a893d0519e9&hash=07B868C9F2CB245B0BC19D9115B85BE6"
+},
+{
+"text": "Download an absent voter ballot application - Large print version",
+"href": "https://www.michigan.gov/documents/sos/Absent_Voter_Ballot_Application_-_large_print_680764_7_704968_7.pdf"
+},
+{
+"text": "E-NEWSLETTER",
+"href": "https://secure.ngpvan.com/pdUYCGgzcEiWMNK3v6f0nA2"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.carrierheingans.com/endoresments"
+},
+{
+"text": "Find Your Early Voting Site",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://forms.gle/T78c1AuBW4z1S3g8A"
+},
+{
+"text": "Learn More",
+"href": "https://www.carrierheingans.com/vote"
+},
+{
+"text": "MEET CARRIE",
+"href": "https://www.carrierheingans.com/meet-carrie"
+},
+{
+"text": "MiCare",
+"href": "https://www.carrierheingans.com/micare"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.carrierheingans.com/hd47"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.carrierheingans.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://forms.gle/VjgXNRCWvgQvvSUU7"
+},
+{
+"text": "VOTE",
+"href": "https://www.carrierheingans.com/vote"
+},
+{
+"text": "WHAT WE'VE ACHIEVED",
+"href": "https://www.carrierheingans.com/what-weve-achieved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Rheingans4Rep"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/Rheingans4Rep/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/crheinga"
+},
+{
+"text": "[image: Rheingans Logo.png]",
+"href": "https://www.carrierheingans.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@reprheingans"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/RepRheingans"
+},
+{
+"text": "calling your clerk",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#:~:text=Search%20for%20your%20city/township%20clerk"
+},
+{
+"text": "click here",
+"href": "https://housedems.com/Carrie-Rheingans"
+},
+{
+"text": "downloading an application",
+"href": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-Forms/Absent-Voter-Ballot-Application-Fillable.pdf?rev=4d217f56f6454564a484fbb715768a17&hash=FB07641F244259C5F9FE0D5AF58520D7"
+},
+{
+"text": "online",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "vote at home information section of this website",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome"
+},
+{
+"text": "voter information section of this website",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+}
 ]

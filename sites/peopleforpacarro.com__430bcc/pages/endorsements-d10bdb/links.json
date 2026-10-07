@@ -1,24 +1,98 @@
 [
-"http://instagram.com/peopleforpacarro",
-"https://forms.gle/qRpaiAmPkyBSPeBH7",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fsierraclubhawaii.org%2F&ved=2ahUKEwiv0aSbt62VAxUxDTQIHQnqNRQQFnoECA4QAQ&usg=AOvVaw0OeyFJivZRXWCXLxKysm53",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.greenpartyhawaii.org%2F&ved=2ahUKEwj0--e01oqWAxWADEQIHQ-2GPwQFnoECB8QAQ&usg=AOvVaw16SAUnYMtXg7TA-84awagB",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.kanakamovement.com%2F&ved=2ahUKEwjyvKqKxOmVAxXBIEQIHdvQGLcQFnoECB0QAQ&usg=AOvVaw3UXtmDoxQrMg0qKE4A0NhP",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.our-hawaii.org%2F&ved=2ahUKEwjk69Wlt62VAxVpJjQIHWmoAwUQFnoECCEQAQ&usg=AOvVaw0S2KRvuDpOHfqF9Bfl1rjS",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.plannedparenthood.org%2Fhealth-center%2Fhawaii%2Fhonolulu%2F96813%2Fhonolulu-health-center-2951-91810&ved=2ahUKEwjEmPOl1oqWAxXoL0QIHQglNbIQFnoECEIQAQ&usg=AOvVaw0qSQ2n3BWO7fTkiy5ifdc6",
-"https://hawaiinurses.org/",
-"https://leadlocally.org/",
-"https://peopleforpacarro.com/",
-"https://peopleforpacarro.com/about",
-"https://peopleforpacarro.com/campaign-pillars",
-"https://peopleforpacarro.com/cart",
-"https://peopleforpacarro.com/contact",
-"https://peopleforpacarro.com/district-19",
-"https://peopleforpacarro.com/district-19-1",
-"https://peopleforpacarro.com/endorsements",
-"https://peopleforpacarro.com/home",
-"https://peopleforpacarro.com/new-dropdown",
-"https://peopleforpacarro.solidarity.tech/help",
-"https://secure.actblue.com/donate/kahipacarro",
-"https://unitehere5.org/"
+{
+"text": "0",
+"href": "https://www.peopleforpacarro.com/cart"
+},
+{
+"text": "About Kahi",
+"href": "https://www.peopleforpacarro.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.peopleforpacarro.com/"
+},
+{
+"text": "Campaign Pillars",
+"href": "https://www.peopleforpacarro.com/campaign-pillars"
+},
+{
+"text": "Contact",
+"href": "https://www.peopleforpacarro.com/contact"
+},
+{
+"text": "District 19 Concerns",
+"href": "https://www.peopleforpacarro.com/district-19"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kahipacarro"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peopleforpacarro.com/endorsements"
+},
+{
+"text": "Folder: About Kahi",
+"href": "https://www.peopleforpacarro.com/new-dropdown"
+},
+{
+"text": "Folder: District 19",
+"href": "https://www.peopleforpacarro.com/district-19-1"
+},
+{
+"text": "Get Started",
+"href": "https://www.peopleforpacarro.com/about"
+},
+{
+"text": "HD 19 Survey",
+"href": "https://forms.gle/qRpaiAmPkyBSPeBH7"
+},
+{
+"text": "Hawaii Nurses Association OPEIU 50",
+"href": "https://hawaiinurses.org"
+},
+{
+"text": "Help Kahi Win",
+"href": "https://peopleforpacarro.solidarity.tech/help"
+},
+{
+"text": "Kanaka Movement",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.kanakamovement.com%2F&ved=2ahUKEwjyvKqKxOmVAxXBIEQIHdvQGLcQFnoECB0QAQ&usg=AOvVaw3UXtmDoxQrMg0qKE4A0NhP"
+},
+{
+"text": "Lead Locally",
+"href": "https://leadlocally.org"
+},
+{
+"text": "Our Hawaii",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.our-hawaii.org%2F&ved=2ahUKEwjk69Wlt62VAxVpJjQIHWmoAwUQFnoECCEQAQ&usg=AOvVaw0S2KRvuDpOHfqF9Bfl1rjS"
+},
+{
+"text": "PEOPLE FOR PACARRO",
+"href": "https://www.peopleforpacarro.com/"
+},
+{
+"text": "Planned Parenthood",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.plannedparenthood.org%2Fhealth-center%2Fhawaii%2Fhonolulu%2F96813%2Fhonolulu-health-center-2951-91810&ved=2ahUKEwjEmPOl1oqWAxXoL0QIHQglNbIQFnoECEIQAQ&usg=AOvVaw0qSQ2n3BWO7fTkiy5ifdc6"
+},
+{
+"text": "The Green Party",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.greenpartyhawaii.org%2F&ved=2ahUKEwj0--e01oqWAxWADEQIHQ-2GPwQFnoECB8QAQ&usg=AOvVaw16SAUnYMtXg7TA-84awagB"
+},
+{
+"text": "The Sierra Club of Hawaii",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fsierraclubhawaii.org%2F&ved=2ahUKEwiv0aSbt62VAxUxDTQIHQnqNRQQFnoECA4QAQ&usg=AOvVaw0OeyFJivZRXWCXLxKysm53"
+},
+{
+"text": "Unite Here Local 5",
+"href": "https://www.unitehere5.org"
+},
+{
+"text": "Volunteer",
+"href": "https://www.peopleforpacarro.com/home/#volunteer"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/peopleforpacarro"
+}
 ]

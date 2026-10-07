@@ -1,9 +1,7 @@
-by lftcrtv | Sep 28, 2020 | News
-Read here: Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme...
-by lftcrtv | Sep 24, 2020 | News
-In these uncertain times, Minnesotans are looking for fairness, stability, basic justice and common sense from the courts.
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme Court by lftcrtv | Sep 28, 2020 | News Read here: Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme...
+State Constitution by lftcrtv | Sep 24, 2020 | News In these uncertain times, Minnesotans are looking for fairness, stability, basic justice and common sense from the courts.
 With all the heated rhetoric about the United States Supreme Court, we can take comfort as Minnesotans that our state founders adopted an...
-by lftcrtv | Sep 24, 2020 | News
-Read here: https://www.brainerddispatch.com/opinion/letters/6671171-Reader-Opinion-Thissen-for-supreme-court
-by lftcrtv | Sep 24, 2020 | News
-Listen to the podcast here: https://www.inforum.com/entertainment/podcasts/6675602-McFeely-Mess-podcast-Minnesota-Supreme-Court-candidate-Paul-Thissen-says-judgment-matters-draws-distinction-with-opponent
+Reader Opinion: Thissen for supreme court by lftcrtv | Sep 24, 2020 | News Read here: https://www.brainerddispatch.com/opinion/letters/6671171-Reader-Opinion-Thissen-for-supreme-court McFeely Mess podcast: Minnesota Supreme Court candidate Paul Thissen says judgment matters, draws distinction with opponent by lftcrtv | Sep 24, 2020 | News Listen to the podcast here: https://www.inforum.com/entertainment/podcasts/6675602-McFeely-Mess-podcast-Minnesota-Supreme-Court-candidate-Paul-Thissen-says-judgment-matters-draws-distinction-with-opponent Academy of Certified Trial Lawyers of Minnesota Endorsement by lftcrtv | Sep 23, 2020 | News « Older Entries Search for: Recent Posts Don’t forget the Minnesota Supreme Court race on the back of the ballot.
+Here’s who’s running.
+KAXE: Meet Supreme Court Justice Paul Thissen Running For His First Election After Appointment in 2018 KMRS/KKOK: COMMUNITY CONNECTION WITH ASSOCIATE JUSTICE PAUL THISSEN StarTribune: Elect Paul Thissen in Minnesota’s only statewide judicial race.
+Justice Thissen Endorsement Letter Recent Comments Archives October 2020 September 2020 July 2020 June 2020 Categories Events News Meta Log in Entries feed Comments feed WordPress.org Privacy Policy

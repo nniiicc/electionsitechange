@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Boise&dates=20260917T213000Z%2F20260917T230000Z&location=2201+W+Woodlawn+Ave%2C+Boise%2C+ID%2C+83702%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=2201+W+Woodlawn+Ave+Boise%2C+ID%2C+83702+United+States",
-"https://eventbrite.com/e/join-john-in-boise-tickets-1999708359534",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/boise?format=ical",
-"https://stegnerforidaho.com/events/glenns-ferry",
-"https://stegnerforidaho.com/events/nampa",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2201+w+woodlawn+ave+boise%2C+id%2C+83702+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Boise&dates=20260917T213000Z%2F20260917T230000Z&location=2201+W+Woodlawn+Ave%2C+Boise%2C+ID%2C+83702%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/boise?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next September 19 Join John in Glenns Ferry",
+"href": "https://www.stegnerforidaho.com/events/glenns-ferry"
+},
+{
+"text": "Previous Previous September 16 Join John in Nampa",
+"href": "https://www.stegnerforidaho.com/events/nampa"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.eventbrite.com/e/join-john-in-boise-tickets-1999708359534"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "https://www.stegnerforidaho.com/events",
+"href": "https://www.stegnerforidaho.com/events"
+}
 ]

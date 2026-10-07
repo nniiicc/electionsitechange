@@ -1,5 +1,5 @@
-Lincoln, NE — Today, Chris Backemeyer, the Democratic candidate for Nebraska’s First Congressional District, announced that the Democratic Congressional Campaign Committee (DCCC) added the seat to its “Districts in Play” program.
-The DCCC’s Districts in Playare competitive districts held by vulnerable Republicans across the country that will determine the House majority.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE August 10, 2026 ICYMI: DCCC Adds Nebraska’s First Congressional District to “Districts in Play” Program Lincoln, NE — Today, Chris Backemeyer, the Democratic candidate for Nebraska’s First Congressional District, announced that the Democratic Congressional Campaign Committee (DCCC) added the seat to its “Districts in Play” program.
+The DCCC’s Districts in Play are competitive districts held by vulnerable Republicans across the country that will determine the House majority.
 The Backemeyer campaign enters the general election with growing momentum, including a recent independent poll not commissioned by the campaign showing Backemeyer within striking distance of Republican incumbent Rep.
 Mike Flood, with Flood at 45% and Backemeyer at 43%.
 The campaign has also earned support from labor organizations, local elected officials, and national groups.
@@ -16,8 +16,12 @@ The campaign has built a broad coalition of support from labor organizations, lo
 Recent endorsements include the Sierra Club, Nebraska State AFL-CIO, Nebraska State Council of the Communications Workers of America (CWA), State Senator Victor Rountree, Lincoln City Councilmembers Justin Carlson, Bennie Shobe, Sändra Washington, and Brodey Weber, New Politics, Foreign Policy for America, and Must Win.
 Can Win.
 PAC, among others.
-A full list of endorsements can be found here.
+A full list of endorsements can be found here .
 For more than two decades, Chris served at the highest levels of national security and economic policy in the U.S.
 Department of State and the White House National Security Council.
 Now, he’s running for Congress to serve the state that shaped him, fighting for working families, expanding opportunity, and building a better future for all Nebraskans.
-For more information, visit BackNebraska.com.
+For more information, visit BackNebraska.com .
+### Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
+The courage to stand up to Trump.
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

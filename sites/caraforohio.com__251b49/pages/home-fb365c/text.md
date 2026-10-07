@@ -1,5 +1,6 @@
-fighting for All Ohioans
-Stay UP TO DATE ON THE CAMPAIGN
-DONATE TO CARA JACOB FOR OHIO SENATE
-Cara on the Issues
-Cara is running for State Senate because she is an advocate for policies that expand access to healthcare, strengthen our public schools, protect our democratic process, keep our communities safe, and ensure government works for everyday Ohioans—not just the wealthy and well-connected.
+0 Skip to Content About Platform Endorsements Events Store Volunteer Open Menu Close Menu About Platform Endorsements Events Store Volunteer Open Menu Close Menu About Platform Endorsements Events Store Volunteer fighting for All Ohioans DONATE VOLUNTEER Stay UP TO DATE ON THE CAMPAIGN MEET CARA My name is Cara Jacob and I am running for Ohio State Senate in Senate District 7 to fight for working families, support our public schools, advocate for affordable and accessible healthcare, defend our democratic principles and enact policies that keep our communities safe.
+Learn More A line styled icon from Orion Icon Library.
+DONATE TO CARA JACOB FOR OHIO SENATE $100 $250 $1,000 OTHER $25 $10 Cara on the Issues Cara is running for State Senate because she is an advocate for policies that expand access to healthcare, strengthen our public schools, protect our democratic process, keep our communities safe, and ensure government works for everyday Ohioans—not just the wealthy and well-connected.
+Learn more Get involved with Team CARA Volunteer Donate Contact Mobile Terms of Service PAID FOR BY FRIENDS OF CARA JACOB 545 E TOWN ST, COLUMBUS, OH 43215 ©# Friends of Cara Jacob.
+All rights reserved.
+Privacy Policy

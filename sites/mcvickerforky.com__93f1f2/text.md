@@ -1,11 +1,12 @@
-KY State Representitive District 3
-Stick’n Up for the Working Class
-Let’s Build a Multigenerational, Multiracial, Working Class Coalition to Fight for our Future
-Why McVicker?
+Skip to content Home Policy Meet Michael Contact Your Voter Info Donate Donate Home Policy Meet Michael Contact Your Voter Info KY State Representitive District 3 Stick’n Up for the Working Class Let’s Build a Multigenerational, Multiracial, Working Class Coalition to Fight for our Future Donate Why McVicker?
 Michael McVicker is running for District 3 State Representative to give us working class people a fighting chance in Frankfort.
 For far too long, we have chosen the couch while everything is crumbling around us.
 We are ready for systems that work for our families instead of the distractions from the GOP.
-Why Vote Out Randy?
+Meet Michael Father, Small Business Owner, McCracken County Democratic Party Chair, and Working-Class Fighter Meet Michael Platform Accountability, Transparency, Fighting Corporate Corruption, Support Families, Community Policy Input, Find Waste/Abuse and Fraud, Right to Repair, Election Reform, Legislative Reform.
+Our Platform How to get involved This campaign wants you to build community with your neighbors while canvassing.
+Door knocking, block parties, phone banking, and community service.
+Click below to learn more.
+GET INVOLVED Why Vote Out Randy?
 Randy has consistently prioritized out-of-state corporate interests and his own bottom line over the real, everyday needs of District 3.
 As a developer and property manager, his political incentives align entirely too well with his business incentives, driving him to support real estate industry regulations and tax structures that benefit his own professional sector rather than working-class families.
 Instead of holding regular, open town hall meetings to hear directly from the residents he was elected to serve, he has focused his time on pushing corporate-written ALEC model legislation.
@@ -14,11 +15,17 @@ This race isn’t about “Left vs.
 Right” This is about giving the working class a real option on the ballot.
 While the systems we interact with every day are becoming impossible to navigate, GOP in Frankfort are choosing to listen to corporate interests.
 Without holding town halls, Randy Bridges, lacks transparency to his constituents.
-The KY GOP pass corporate written bills, sometimes going as far as to label fiscal notes “confidential”
-I Will Be Working For You!
-Listening to your issues to find real solutions to the massive problems the working class face
-Frankfort MUST be accountable to every constituent, and as transparent as humanly possible.
+The KY GOP pass corporate written bills, sometimes going as far as to label fiscal notes “confidential” I Will Be Working For You!
+Listening to your issues to find real solutions to the massive problems the working class face Frankfort MUST be accountable to every constituent, and as transparent as humanly possible.
 I hold myself to that highly.
 I will hold multiple town halls every year, open to the public regardless of party affiliation.
 I will release videos summarizing the work of the state legislature throughout the campaign.
 Becoming YOUR Representative is a great honor that should reflect the voices of District 3, NOT WALL STREET.
+Endorsments No Caption No Caption No Caption No Caption No Caption No Caption No Caption No Caption First Name Last Name Email Message Phone UK (+44) USA / Canada (+1) Algeria (+213) Andorra (+376) Angola (+244) Anguilla (+1264) Antigua & Barbuda (+1268) Argentina (+54) Armenia (+374) Aruba (+297) Australia (+61) Austria (+43) Azerbaijan (+994) Bahamas (+1242) Bahrain (+973) Bangladesh (+880) Barbados (+1246) Belarus (+375) Belgium (+32) Belize (+501) Benin (+229) Bermuda (+1441) Bhutan (+975) Bolivia (+591) Bosnia Herzegovina (+387) Botswana (+267) Brazil (+55) Brunei (+673) Bulgaria (+359) Burkina Faso (+226) Burundi (+257) Cambodia (+855) Cameroon (+237) Cape Verde Islands (+238) Cayman Islands (+1345) Central African Republic (+236) Chile (+56) China (+86) Colombia (+57) Comoros (+269) Congo (+242) Cook Islands (+682) Costa Rica (+506) Croatia (+385) Cuba (+53) Cyprus North (+90392) Cyprus South (+357) Czech Republic (+420) Denmark (+45) Djibouti (+253) Dominica (+1809) Dominican Republic (+1809) Ecuador (+593) Egypt (+20) El Salvador (+503) Equatorial Guinea (+240) Eritrea (+291) Estonia (+372) Ethiopia (+251) Falkland Islands (+500) Faroe Islands (+298) Fiji (+679) Finland (+358) France (+33) French Guiana (+594) French Polynesia (+689) Gabon (+241) Gambia (+220) Georgia (+7880) Germany (+49) Ghana (+233) Gibraltar (+350) Greece (+30) Greenland (+299) Grenada (+1473) Guadeloupe (+590) Guam (+671) Guatemala (+502) Guinea (+224) Guinea – Bissau (+245) Guyana (+592) Haiti (+509) Honduras (+504) Hong Kong (+852) Hungary (+36) Iceland (+354) India (+91) Indonesia (+62) Iran (+98) Iraq (+964) Ireland (+353) Israel (+972) Italy (+39) Jamaica (+1876) Japan (+81) Jordan (+962) Kazakhstan (+7) Kenya (+254) Kiribati (+686) Korea North (+850) Korea South (+82) Kuwait (+965) Kyrgyzstan (+996) Laos (+856) Latvia (+371) Lebanon (+961) Lesotho (+266) Liberia (+231) Libya (+218) Liechtenstein (+417) Lithuania (+370) Luxembourg (+352) Macao (+853) Macedonia (+389) Madagascar (+261) Malawi (+265) Malaysia (+60) Maldives (+960) Mali (+223) Malta (+356) Marshall Islands (+692) Martinique (+596) Mauritania (+222) Mayotte (+269) Mexico (+52) Micronesia (+691) Moldova (+373) Monaco (+377) Mongolia (+976) Montserrat (+1664) Morocco (+212) Mozambique (+258) Myanmar (+95) Namibia (+264) Nauru (+674) Nepal (+977) Netherlands (+31) New Caledonia (+687) New Zealand (+64) Nicaragua (+505) Niger (+227) Nigeria (+234) Niue (+683) Norfolk Islands (+672) Northern Marianas (+670) Norway (+47) Oman (+968) Palau (+680) Panama (+507) Papua New Guinea (+675) Paraguay (+595) Peru (+51) Philippines (+63) Poland (+48) Portugal (+351) Puerto Rico (+1787) Qatar (+974) Reunion (+262) Romania (+40) Russia (+7) Rwanda (+250) San Marino (+378) Sao Tome & Principe (+239) Saudi Arabia (+966) Senegal (+221) Serbia (+381) Seychelles (+248) Sierra Leone (+232) Singapore (+65) Slovak Republic (+421) Slovenia (+386) Solomon Islands (+677) Somalia (+252) South Africa (+27) Spain (+34) Sri Lanka (+94) St.
+Helena (+290) St.
+Kitts (+1869) St.
+Lucia (+1758) Sudan (+249) Suriname (+597) Swaziland (+268) Sweden (+46) Switzerland (+41) Syria (+963) Taiwan (+886) Tajikstan (+7) Thailand (+66) Togo (+228) Tonga (+676) Trinidad & Tobago (+1868) Tunisia (+216) Turkey (+90) Turkmenistan (+7) Turkmenistan (+993) Turks & Caicos Islands (+1649) Tuvalu (+688) Uganda (+256) Ukraine (+380) United Arab Emirates (+971) Uruguay (+598) Uzbekistan (+7) Vanuatu (+678) Vatican City (+379) Venezuela (+58) Vietnam (+84) Virgin Islands – British (+1284) Virgin Islands – US (+1340) Wallis & Futuna (+681) Yemen (North)(+969) Yemen (South)(+967) Zambia (+260) Zimbabwe (+263) A question you have for me Your Main 3 Policy Issues How do you label yourself politically?
+County of Residence McCracken County Resident Livingston County Resident Outside District Submit Thank you for Stick’n Up for the Working Class!
+There has been some error while submitting the form.
+Please verify all form fields again.
+Home Policy Meet Michael Contact Your Voter Info [Paid for by McVicker for Kentucky Campaign] 2026 mcvickerforky.com

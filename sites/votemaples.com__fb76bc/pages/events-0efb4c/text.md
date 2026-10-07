@@ -1,42 +1,13 @@
-Jon Maples Campaign Events in District 87
-Stay connected with upcoming campaign events, community gatherings, meet-and-greets, public appearances, and local discussions featuring Jon Maples throughout Florida House District 87.
+Skip to main content Skip to footer Opens in a new tab Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Donate Jon Maples Campaign Events in District 87 Stay connected with upcoming campaign events, community gatherings, meet-and-greets, public appearances, and local discussions featuring Jon Maples throughout Florida House District 87.
 Events across Jupiter, Palm Beach Gardens, Juno Beach, North Palm Beach, and surrounding Palm Beach County communities provide opportunities for residents to hear directly from Jon, discuss local priorities, and stay informed about the issues shaping District 87.
 Residents across Palm Beach County continue engaging in conversations surrounding affordability, infrastructure, public safety, education, economic opportunity, and the future of local communities throughout District 87.
 Upcoming event details, schedules, locations, and campaign updates will continue being added throughout the 2026 campaign season.
-Jon & friend/supporter Bob Bell at Place of Hope’s Clay Shoot event
-Lake Worth Beach Clean Up
-A morning for the Women and Moms
-This is Home
-Loggerhead Park Beach Cleanup
-A Night of Gratitude and Momentum
-Jon Maples Wins
-Jon Maples Endorsed by Associated Builders and Contractors
-Jon Maples Endorsed by Florida Right to Life
-BIZPAC Palm Beach County Endorsement
-+10 Maples’ Movement: Early Voting Kickoff
-Super Saturdays in Action
-Endorsed by Florida’s First Responders
-Jupiter Summer Social with Mayor Jim Kuretski
-Moms for Maples Inaugural Event & Charity Drive
-Neighbor to Neighbor Meet & Greet
-At the home of the Honorable Jeff & Carole Atwater in North Palm Beach
-Thursday Beach Clean up walk with our volunteers
-Jupiter, FL
-Door Knocking POWER SATURDAYS
-With Team Maples
-Community Beach Cleanup
-Juno Beach Pier 14775 US Hwy 1 Juno Beach
-Alton Meet & Greet
-Alton Clubhouse 13255 Alton Road Palm Beach Gardens
-Super Saturday
-Berry Fresh Cafe 3755 Military Trail Jupiter
-GET TEXT UPDATES FROM JON
-Sign up for text updates!
+Lake Worth Election Expo Meet & Greet in West Palm Beach Phone Banking Pizza Party in Jupiter South FL Christian Leadership Banquet Palm Beach Republican Club Meeting Jon & friend/supporter Bob Bell at Place of Hope’s Clay Shoot event Lake Worth Beach Clean Up A morning for the Women and Moms This is Home Loggerhead Park Beach Cleanup A Night of Gratitude and Momentum Jon Maples Wins Jon Maples Endorsed by Associated Builders and Contractors Jon Maples Endorsed by Florida Right to Life BIZPAC Palm Beach County Endorsement +10 Maples’ Movement: Early Voting Kickoff Super Saturdays in Action Endorsed by Florida’s First Responders Jupiter Summer Social with Mayor Jim Kuretski Moms for Maples Inaugural Event & Charity Drive Neighbor to Neighbor Meet & Greet June 18 2026 At the home of the Honorable Jeff & Carole Atwater in North Palm Beach Thursday Beach Clean up walk with our volunteers Jupiter, FL Door Knocking POWER SATURDAYS With Team Maples Community Beach Cleanup June 4 from 6:15 - 7:15 PM Juno Beach Pier 14775 US Hwy 1 Juno Beach Alton Meet & Greet May 27 from 5:30 - 7:00 PM Alton Clubhouse 13255 Alton Road Palm Beach Gardens Super Saturday March 21 from 9:00 - 1:00 PM Berry Fresh Cafe 3755 Military Trail Jupiter GET TEXT UPDATES FROM JON Submit Sign up for text updates!
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Jon Maples Campaign to the phone number you provide.
 No consent required to buy.
 Msg & data rates may apply.
 Message frequency may vary.
 Text STOP to stop receiving messages.
 Text HELP for support.
-STAY IN THE LOOP
-Join our journey and be the first to find out about our upcoming events by entering your email below.
+STAY IN THE LOOP Join our journey and be the first to find out about our upcoming events by entering your email below.
+Submit Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.

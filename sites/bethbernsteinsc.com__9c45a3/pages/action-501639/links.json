@@ -1,12 +1,58 @@
 [
-"http://twitter.com/beth4house",
-"https://bethbernsteinsc.com/",
-"https://bethbernsteinsc.com/about",
-"https://bethbernsteinsc.com/action",
-"https://bethbernsteinsc.com/contact",
-"https://bethbernsteinsc.com/issues",
-"https://bethbernsteinsc.com/news",
-"https://facebook.com/beth4house?fref=ts",
-"https://secure.actblue.com/contribute/page/bethbernstein",
-"https://twitter.com/beth4house"
+{
+"text": "ABOUT",
+"href": "https://www.bethbernsteinsc.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.bethbernsteinsc.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/contribute/page/bethbernstein"
+},
+{
+"text": "Follow Us on X!",
+"href": "https://twitter.com/beth4house"
+},
+{
+"text": "HOME",
+"href": "https://www.bethbernsteinsc.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.bethbernsteinsc.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://www.bethbernsteinsc.com/news"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.bethbernsteinsc.com/action#actionanchor"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/beth4house/?fref=ts"
+},
+{
+"text": "[image: SC Representative Beth Bernstein]",
+"href": "https://www.bethbernsteinsc.com"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://twitter.com/beth4house"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/contribute/page/bethbernstein"
+},
+{
+"text": "[image]",
+"href": "https://www.bethbernsteinsc.com"
+},
+{
+"text": "beth@bethbernsteinsc.com",
+"href": "mailto:beth@bethbernsteinsc.com"
+}
 ]

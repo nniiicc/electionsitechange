@@ -1,65 +1,12 @@
-2026 Endorsements
-Washington Federation of State Employees AFSCME Council 28
-WA Housing Alliance Action Fund
-SEIU 775
-SEIU Healthcare 1199NW
-Planned Parenthood Alliance Advocate
-Washington State Nurses Association
-Washington State Council of County and City Employees AFSCME Council 2
-Progreso: Latino Progress
-Moms Demand Action
-IAM District 751
-Washington Conservation Action
-UFCW 3000
-Joint Council of Teamsters 28
-One America Votes
-Alliance for Gun Responsibility
-Sierra Club
-Washington State Labor Council
-Women of Color in Politics
-46th District Democrats
-King County Democrats
-The Environmental and Climate Caucus of The Washington State Democrats
-APRNs of Washington State
-UA Local 32 Plumbers and Pipe Fitters
-Democrats for Diversity and Inclusion (DDI)
-AFT Washington
-Washington Realtors
-SEIU 6
-Sheet Metal Workers 66
-Children's Campaign Fund
-WA Retired Public Employees Council
-Washington Bikes
-Seattle Building Trades
-The Urbanist
-APACE
-OPEIU Local 8
-Young Democrats of Washington
-North Coast States Carpenters Union
-Washington State Stonewall Democrats
-SEIU 925
-IBEW Local 46
-Pro-Choice WA
-IBEW 77
-- U.S.
-Senator Maria Cantwell
-- Former Congressman Jim McDermott
-- Governor Bob Ferguson
-- State Treasurer Mike Pelliciotti
-- State Senator Emily Alvarado, 34th LD
-- State Senator Manka Dhingra, 45th LD
-- State Senator Claudia Kauffman, 47th LD
-- State Senator John Lovick, 44th LD
-- Senator Jamie Pedersen, 43rd LD
-- Senator Rebecca Saldana, 37th LD
-- Senator Claire Wilson, 30th LD
-- Former State Senator David Frockt, 46th LD
-- Former State Senator Ken Jacobsen, 46th LD
-- State Representative Darya Farivar, 46th LD
-- State Representative Gerry Pollet, 46th LD
-- King County Councilmember Jorge Baron
-- King County Councilmember Rod Dembowski
-- King County Councilmember Teresa Mosqueda
-- Seattle City Councilmember Debora Juarez
-- WA Land Commissioner David Upthegrove
-- Former Fire Commissioner Troy Finlayson
+Home About Javier Endorsements Join us!
+Contact Home About Javier Endorsements Join us!
+Contact Donate Endorsements 2026 Endorsements Washington Federation of State Employees AFSCME Council 28 WA Housing Alliance Action Fund SEIU 775 SEIU Healthcare 1199NW Planned Parenthood Alliance Advocate Washington State Nurses Association Washington State Council of County and City Employees AFSCME Council 2 Progreso: Latino Progress Moms Demand Action IAM District 751 Washington Conservation Action UFCW 3000 Joint Council of Teamsters 28 One America Votes Alliance for Gun Responsibility Sierra Club Washington State Labor Council Women of Color in Politics 46th District Democrats King County Democrats The Environmental and Climate Caucus of The Washington State Democrats APRNs of Washington State UA Local 32 Plumbers and Pipe Fitters Democrats for Diversity and Inclusion (DDI) AFT Washington Washington Realtors SEIU 6 Sheet Metal Workers 66 Children's Campaign Fund WA Retired Public Employees Council Washington Bikes Seattle Building Trades The Urbanist APACE OPEIU Local 8 Young Democrats of Washington North Coast States Carpenters Union Washington State Stonewall Democrats SEIU 925 IBEW Local 46 Pro-Choice WA IBEW 77 U.S.
+Senator Maria Cantwell Former Congressman Jim McDermott Governor Bob Ferguson State Treasurer Mike Pelliciotti State Senator Emily Alvarado, 34th LD State Senator Manka Dhingra, 45th LD State Senator Claudia Kauffman, 47th LD State Senator John Lovick, 44th LD Senator Jamie Pedersen, 43rd LD Senator Rebecca Saldana, 37th LD Senator Claire Wilson, 30th LD Former State Senator David Frockt, 46th LD Former State Senator Ken Jacobsen, 46th LD State Representative Darya Farivar, 46th LD State Representative Gerry Pollet, 46th LD King County Councilmember Jorge Baron King County Councilmember Rod Dembowski King County Councilmember Teresa Mosqueda Seattle City Councilmember Debora Juarez WA Land Commissioner David Upthegrove Former Fire Commissioner Troy Finlayson 2022 Endorsements 46th District Democrats Planned Parenthood Seattle Times Alliance for Gun Responsibility Seattle Fire Fighters Local 27 Washington Conservation Voters Washington State Labor Council Washington State Nurses Association Washington Education Association The Stranger Transportation 4 WA King County Democrats Washington State Council of County and City Employees AFSCME Council 2 Washington Federation of State Employees AFSCME Council 28 American Federation of Teachers WA SEIU Healthcare 1199NW SEIU 775 UFCW 3000 IBEW 77 IUPAT 5 SEIU 925 Teamsters Joint Council 28 IAM District 751 NW Carpenters Union WA Retired Public Employees Council UW Young Democrats The Environmental and Climate Caucus of The Washington State Democrats WA Chapter of the American Physical Therapy Association One America Votes LiUNA 242 National Organization for Women Grandmothers Against Gun Violence The Urbanist Children's Campaign Fund National Association of Social Workers-Washington Washington State Building Trades FAPAGOW UAW 4121 APACE Young Democrats of Washington UA Local 32 Plumbers and Pipe Fitters The Daily WA State Attorney General Bob Ferguson WA State Lands Commissioner Hilary Franz WA State Treasurer Mike Pellicciotti Former US Rep.
+Jim McDermott King County Executive Dow Constantine State Senator David Frockt State Senator Jamie Pedersen State Rep.
+Gerry Pollet State Senate Majority Leader Andy Billig State Senator Rebecca Saldana State Rep. and Former Speaker of the House Frank Chopp State Rep.
+Shelly Kloba State Rep.
+Nicole Macri State Rep.
+Sharon Tomiko Santos Former State Sen.
+Ken Jacobson Former State Rep.
+Phyllis Gutiérrez Kenney Former State Sen.
+Nita Rinehart King County Councilmember Joe McDermott King County Councilmember Rod Dembowski King County Councilmember Jeanne Kohl-Welles King County Councilmember Sarah Perry King County Councilmember Girmay Zahilay Seattle City Councilmember Debora Juarez Seattle City Councilmember Teresa Mosqueda Seattle City Councilmember Alex Pedersen Kenmore Mayor Nigel Herbig Lake Forest Park Councilmember Phillippa Kassover Kenmore City Councilmember Melanie O’Cain Paid for by Friends of Javier Valdez PO Box 25873, Seattle, WA 98165

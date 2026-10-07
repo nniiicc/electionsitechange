@@ -1,20 +1,8 @@
+Skip to Content Open Menu Close Menu 0 0 0 0 Open Menu Close Menu Store › Independent AF Tee Image 1 of 100 Image 2 of 100 Image 3 of 100 Image 4 of 100 Image 5 of 100 Image 6 of 100 Image 7 of 100 Image 8 of 100 Image 9 of 100 Image 10 of 100 Image 11 of 100 Image 12 of 100 Image 13 of 100 Image 14 of 100 Image 15 of 100 Image 16 of 100 Image 17 of 100 Image 18 of 100 Image 19 of 100 Image 20 of 100 Image 21 of 100 Image 22 of 100 Image 23 of 100 Image 24 of 100 Image 25 of 100 Image 26 of 100 Image 27 of 100 Image 28 of 100 Image 29 of 100 Image 30 of 100 Image 31 of 100 Image 32 of 100 Image 33 of 100 Image 34 of 100 Image 35 of 100 Image 36 of 100 Image 37 of 100 Image 38 of 100 Image 39 of 100 Image 40 of 100 Image 41 of 100 Image 42 of 100 Image 43 of 100 Image 44 of 100 Image 45 of 100 Image 46 of 100 Image 47 of 100 Image 48 of 100 Image 49 of 100 Image 50 of 100 Image 51 of 100 Image 52 of 100 Image 53 of 100 Image 54 of 100 Image 55 of 100 Image 56 of 100 Image 57 of 100 Image 58 of 100 Image 59 of 100 Image 60 of 100 Image 61 of 100 Image 62 of 100 Image 63 of 100 Image 64 of 100 Image 65 of 100 Image 66 of 100 Image 67 of 100 Image 68 of 100 Image 69 of 100 Image 70 of 100 Image 71 of 100 Image 72 of 100 Image 73 of 100 Image 74 of 100 Image 75 of 100 Image 76 of 100 Image 77 of 100 Image 78 of 100 Image 79 of 100 Image 80 of 100 Image 81 of 100 Image 82 of 100 Image 83 of 100 Image 84 of 100 Image 85 of 100 Image 86 of 100 Image 87 of 100 Image 88 of 100 Image 89 of 100 Image 90 of 100 Image 91 of 100 Image 92 of 100 Image 93 of 100 Image 94 of 100 Image 95 of 100 Image 96 of 100 Image 97 of 100 Image 98 of 100 Image 99 of 100 Image 100 of 100 Independent AF Tee from $30.00 For the folks truly going your own way, walking your own path.
+It feels soft and lightweight, with the right amount of edge.
+It's blunt and to the point. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.
+Color: Select Color Black Heather Team Purple Cardinal Red Forest True Royal Berry Army Size: Select Size XS S M L XL 2XL 3XL 4XL 5XL Add To Cart Added!
 For the folks truly going your own way, walking your own path.
 It feels soft and lightweight, with the right amount of edge.
-It's blunt and to the point.
-• 100% combed and ring-spun cotton (Heather colors contain polyester)
-• Fabric weight: 4.2 oz./yd.² (142 g/m²)
-• Pre-shrunk fabric
-• Side-seamed construction
-• Shoulder-to-shoulder taping
-• Blank product sourced from Nicaragua, Mexico, Honduras, or the US
-Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.
-For the folks truly going your own way, walking your own path.
-It feels soft and lightweight, with the right amount of edge.
-It's blunt and to the point.
-• 100% combed and ring-spun cotton (Heather colors contain polyester)
-• Fabric weight: 4.2 oz./yd.² (142 g/m²)
-• Pre-shrunk fabric
-• Side-seamed construction
-• Shoulder-to-shoulder taping
-• Blank product sourced from Nicaragua, Mexico, Honduras, or the US
-Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.
+It's blunt and to the point. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions. “ Be mild with the mild, shrewd with the crafty, confiding to the honest, rough to the ruffian, and a thunderbolt to the liar.
+But in all this, never be unmindful of your own dignity. ” — John Brown RIO PHILLIPS FOR WEST VIRGINIA COPYRIGHT #

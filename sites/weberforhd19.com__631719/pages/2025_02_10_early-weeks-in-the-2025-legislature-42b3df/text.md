@@ -1,10 +1,9 @@
-After five weeks into the 2025 Legislative session, I now have a sense of the rhythm and pace of policymaking.
+October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Early Weeks in the 2025 Legislature After five weeks into the 2025 Legislative session, I now have a sense of the rhythm and pace of policymaking.
 I arrived in Helena with four priorities – lower homeowner property taxes; renew Medicaid; boost public education funding; ease the housing crisis.
 These were the issues on taxpayers’ minds when I knocked doors during the campaign, and I intend to honor their wishes.
 It’s about freedom, fairness and affordability.
 As a Democrat, I am proud to be voting to improve the lives of Montanans.
-Property Taxes
-In the last reappraisal cycle, homeowners shouldered 58% of the property tax burden.
+Property Taxes In the last reappraisal cycle, homeowners shouldered 58% of the property tax burden.
 In contrast, the proportionate tax share for corporate entities owning power transmission lines, electrical generation, telecom, railroads, wind and mining decreased.
 Article VIII.
 Section 3 of the Montana Constitution, reads “the state shall appraise, assess and equalize the valuation of all property . . .” Since 2021, the Legislature has failed to equalize property taxes.
@@ -26,8 +25,7 @@ This reduction will be erased by the inflationary increases allowed to finance l
 Homeowners will likely see no savings when they open their 2026 tax bill.
 HB 231 passed second reading 75-25.
 If both bills pass third reading, they will be transmitted to the Senate for consideration where I hope a blending of the two will result in meaningful tax relief.
-Medicaid Renewal
-Access to healthcare is a human right.
+Medicaid Renewal Access to healthcare is a human right.
 However, many employers do not provide health insurance for their employees, or premiums cost more than an employee can afford.
 Over 85% of Montanans enrolled in Medicaid are employed.
 Others are either permanent care providers for a family member (without pay) or students.
@@ -47,3 +45,6 @@ With one exception, Buttrey’s bill does not make any major changes to the prog
 Like Caferro’s bill, HB 245 eliminates the sunset clause so this debate would not be repeated every other legislative cycle.
 Last Friday, as a Democrat, I proudly cast my vote in favor of HB 245 on the House Floor.
 I will continue to support Medicaid renewal because Montanans deserve access to healthcare and Democrats believe in fairness and affordability for all.
+Early Weeks in the 2025 Legislature 2025-02-10 2025-02-10 https://weberforhd19.com/new/wp-content/uploads/2026/02/w419-reelect-logo.png Weber for House District 19 https://weberforhd19.com/new/wp-content/uploads/2025/02/mt-legislature-logo.png 200px 200px Recent News 2025 Legislative Score Card February 19, 2026 Meet Our 100% Champions February 5, 2026 Welcome to Bozangeles!
+March 27, 2025 Early Weeks in the 2025 Legislature February 10, 2025 Endorsed by Montana Conservation Voters October 10, 2024 Jane Weber talks about getting out to vote October 3, 2024 Jane Weber talks about getting out to vote, tip 1 October 3, 2024 Jane Weber talks about getting out to vote, tip 2 October 3, 2024 Jane Weber talks about getting out to vote, tip 3 October 3, 2024 Jane Weber on education short October 3, 2024 Pam Guschausky, Treasurer PO 818, Great Falls, MT 59403 406-781-0741 DONATE NOW! br> Or, send a contribution in the form of a check to: Weber for HD 19 PO Box 818 Great Falls, MT 59403 Any amount helps.
+(Limit $470) Paid for by Weber for HD 19 PO Box 818 Great Falls, MT 59403 Pam Guschausky – Treasurer Designed by Slingshot Creative Group

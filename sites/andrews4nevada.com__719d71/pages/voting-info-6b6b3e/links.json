@@ -1,14 +1,50 @@
 [
-"https://andrews4nevada.com/about",
-"https://andrews4nevada.com/contact",
-"https://andrews4nevada.com/events",
-"https://andrews4nevada.com/home",
-"https://andrews4nevada.com/voting-info",
-"https://facebook.com/109127451735329",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/andrews4nevada",
-"https://nvsos.gov/SoSCandidateServices/AnonymousAccess/CEFDSearchUU/Search.aspx",
-"https://nvsos.gov/sos/elections",
-"https://paypal.com/donate?hosted_button_id=2HJK9CGQJY4B8",
-"https://x.com/Andrews4Nevada"
+{
+"text": "ABOUT",
+"href": "https://andrews4nevada.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://andrews4nevada.com/contact"
+},
+{
+"text": "Click here for website",
+"href": "https://www.nvsos.gov/SoSCandidateServices/AnonymousAccess/CEFDSearchUU/Search.aspx#individual_search"
+},
+{
+"text": "Click here for website",
+"href": "https://www.nvsos.gov/sos/elections"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=2HJK9CGQJY4B8"
+},
+{
+"text": "EVENTS",
+"href": "https://andrews4nevada.com/events"
+},
+{
+"text": "HOME",
+"href": "https://andrews4nevada.com/home"
+},
+{
+"text": "VOTING INFO",
+"href": "https://andrews4nevada.com/voting-info"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/109127451735329"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrews4nevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Andrews4Nevada"
+}
 ]

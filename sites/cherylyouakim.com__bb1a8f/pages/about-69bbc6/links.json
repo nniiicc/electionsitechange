@@ -1,27 +1,118 @@
 [
-"http://cherylyouakim.com/",
-"http://cherylyouakim.com/about",
-"http://cherylyouakim.com/blog",
-"http://cherylyouakim.com/donate",
-"http://cherylyouakim.com/endorsements",
-"http://cherylyouakim.com/news",
-"http://cherylyouakim.com/priorities",
-"http://cherylyouakim.com/privacy-policy",
-"http://cherylyouakim.com/volunteer",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Family-2.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-1.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-2.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-3.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-4.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-5.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-6.jpg",
-"http://cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Betsy-Baker-and-Steve-Kelley.png",
-"http://cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Community-Members-Standing.png",
-"http://cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Community-Members-Table.png",
-"http://cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Parade.png",
-"http://cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-with-Community-Member-at-Door.png",
-"http://glyphdigital.com/",
-"http://pollfinder.sos.state.mn.us/",
-"https://facebook.com/CLYouakim",
-"https://twitter.com/CLYouakim"
+{
+"text": "ABOUT",
+"href": "http://www.cherylyouakim.com/about/"
+},
+{
+"text": "BLOG",
+"href": "http://www.cherylyouakim.com/blog/"
+},
+{
+"text": "COUNT ME IN",
+"href": "http://www.cherylyouakim.com/volunteer/"
+},
+{
+"text": "DONATE",
+"href": "http://www.cherylyouakim.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "http://www.cherylyouakim.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CLYouakim"
+},
+{
+"text": "Glyph Digital",
+"href": "http://www.glyphdigital.com"
+},
+{
+"text": "HOME",
+"href": "http://www.cherylyouakim.com/"
+},
+{
+"text": "NEWS",
+"href": "http://www.cherylyouakim.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "http://www.cherylyouakim.com/priorities/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "http://www.cherylyouakim.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CLYouakim"
+},
+{
+"text": "X",
+"href": "https://twitter.com/CLYouakim"
+},
+{
+"text": "[image: Youakim for State Representative]",
+"href": "http://www.cherylyouakim.com/"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Family-2.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-1.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-2.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-3.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-4.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-5.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/03/Cheryl-Youakim-Session-6.jpg"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Betsy-Baker-and-Steve-Kelley.png"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Community-Members-Standing.png"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Community-Members-Table.png"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-Parade.png"
+},
+{
+"text": "[image][image]",
+"href": "http://www.cherylyouakim.com/wp-content/uploads/2016/06/Cheryl-Youakim-with-Community-Member-at-Door.png"
+},
+{
+"text": "[no text]",
+"href": "mailto:ellen@studiofrais.com"
+},
+{
+"text": "cheryl@cherylyouakim.com",
+"href": "mailto:cheryl@cherylyouakim.com"
+},
+{
+"text": "here",
+"href": "http://pollfinder.sos.state.mn.us/"
+}
 ]

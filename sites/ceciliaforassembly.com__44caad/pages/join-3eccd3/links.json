@@ -1,11 +1,38 @@
 [
-"https://ceciliaforassembly.com/",
-"https://ceciliaforassembly.com/about",
-"https://ceciliaforassembly.com/contact",
-"https://ceciliaforassembly.com/donate",
-"https://ceciliaforassembly.com/endorsements",
-"https://ceciliaforassembly.com/gallery",
-"https://ceciliaforassembly.com/issues",
-"https://ceciliaforassembly.com/join",
-"https://facebook.com/ceciliaforassembly"
+{
+"text": "About",
+"href": "https://ceciliaforassembly.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ceciliaforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://ceciliaforassembly.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://ceciliaforassembly.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ceciliaforassembly/"
+},
+{
+"text": "Gallery",
+"href": "https://ceciliaforassembly.com/gallery/"
+},
+{
+"text": "Issues",
+"href": "https://ceciliaforassembly.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://ceciliaforassembly.com/join/"
+},
+{
+"text": "[image: Cecilia Aguiar-Curry for Assembly 2026]",
+"href": "https://ceciliaforassembly.com/"
+}
 ]

@@ -1,4 +1,4 @@
-I’m Zebulon Featherly, an independent candidate for the U.S.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate I’m Zebulon Featherly, an independent candidate for the U.S.
 House of Representatives.
 I’m running to represent people, not parties No Party, Just People The experiences and community that shaped me My story Email Instagram Events The values and priorities that guide me Where i stand Follow me on social X YouTube Facebook TikTok Discord No Party, Just People I’m Zebulon Featherly, an independent candidate for the U.S.
 House of Representatives.

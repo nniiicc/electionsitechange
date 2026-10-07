@@ -1,6 +1,18 @@
 [
-"https://annahowardnh.com/cdn-cgi/l/email-protection",
-"https://facebook.com/profile.php?id=61591253542671",
-"https://instagram.com/annahoward603",
-"https://secure.actblue.com/donate/anna-howard-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/anna-howard-1"
+},
+{
+"text": "Email",
+"href": "mailto:annahowardNH@gmail.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591253542671"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/annahoward603/"
+}
 ]

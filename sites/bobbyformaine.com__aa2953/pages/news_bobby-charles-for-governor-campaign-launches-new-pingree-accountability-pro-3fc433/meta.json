@@ -1,11 +1,15 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/bobby-charles-for-governor-campaign-launches-new-pingree-accountability-project-to-hold-her-accountable-for-her-failures",
- "paid_for_by": null,
+ "fingerprint": "93d7a862999eb480547188c815707475da146f84",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
  "years_mentioned": [
+  "2000",
   "2019",
   "2022",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

@@ -1,14 +1,54 @@
 [
-"http://fingerprintofgodbook.com/",
-"http://valuethemboth.com/",
-"https://coffeyvillecoffee.com/",
-"https://ronbryce.com/",
-"https://ronbryce.com/cart",
-"https://ronbryce.com/contact",
-"https://ronbryce.com/in-the-news",
-"https://ronbryce.com/issues",
-"https://ronbryce.com/join-the-team",
-"https://ronbryce.com/meet-ron",
-"https://ronbryce.com/takeaction",
-"https://ronbryce.com/updates"
+{
+"text": "0",
+"href": "https://www.ronbryce.com/cart"
+},
+{
+"text": "Coffeyville Coffee Company",
+"href": "https://coffeyvillecoffee.com"
+},
+{
+"text": "Contact",
+"href": "https://www.ronbryce.com/contact"
+},
+{
+"text": "Fingerprint of God",
+"href": "http://www.fingerprintofgodbook.com"
+},
+{
+"text": "In the News",
+"href": "https://www.ronbryce.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.ronbryce.com/issues"
+},
+{
+"text": "Join Ron Bryce",
+"href": "https://www.ronbryce.com/takeaction"
+},
+{
+"text": "Join the Team",
+"href": "https://www.ronbryce.com/join-the-team"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.ronbryce.com/updates"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.ronbryce.com/meet-ron"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.ronbryce.com/takeaction"
+},
+{
+"text": "Value Them Both",
+"href": "http://www.valuethemboth.com"
+},
+{
+"text": "[image: RON BRYCE FOR KANSAS]",
+"href": "https://www.ronbryce.com/"
+}
 ]

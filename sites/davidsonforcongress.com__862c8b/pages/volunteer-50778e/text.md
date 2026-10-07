@@ -1,14 +1,1 @@
-Opt-Out Preference Signal Honored — we detected your browser's Global Privacy Control and opted you out of the sale/sharing of your information.
-We use cookies
-We use cookies to improve your experience and for analytics.
-By continuing you agree; you can opt out anytime.
-Privacy policy.
-Choose which cookies we may use.
-You can change this anytime.
-Do Not Sell or Share My Personal InformationYou are not opted out of the sale/sharing of your personal information.
-Strictly necessaryRequired for the site to function.
-Always active.
-AnalyticsHelps us understand how visitors use the site.
-AdvertisingMeasures and personalizes advertising.
-Treated as "sale/sharing" under CCPA.
-Session & chatSession replay, heatmaps, and live-chat widgets.
+Skip to content About Warren District Issues Shop About Warren District Issues Shop Donate Volunteer About Warren District Issues Shop Donate Volunteer Get Involved Fill out the form below: First Name Last Name Email Phone Number Address City State Zip I can get involved by: General Volunteering Putting Up a Yard Sign Making Calls for Warren Going Door-to-Door Hosting an Event Other Submit Facebook-f Instagram X-twitter Youtube Paid for by Davidson for Congress About Warren District Issues Shop Donate Volunteer About Warren District Issues Shop Donate Volunteer Your Privacy Choices About Warren District Issues Shop Donate Volunteer

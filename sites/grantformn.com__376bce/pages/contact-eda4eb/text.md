@@ -1,23 +1,2 @@
-Skip to content
-About
-Delivered Promises
-Delivered Projects
-MN District 3
-News
-Get Involved
-Contact
-About
-Delivered Promises
-Delivered Projects
-MN District 3
-News
-Get Involved
-Contact
-Donate
-Contact
-We look forward to hearing from you!
-First Name
-Last Name
-Email
-Message
-Submit
+Skip to content About Delivered Promises Delivered Projects MN District 3 News Get Involved Contact About Delivered Promises Delivered Projects MN District 3 News Get Involved Contact Donate Contact We look forward to hearing from you!
+First Name Last Name Email Message Submit Contact the Campaign Contact Us PO Box 1045 Duluth, MN 55810 Contribute $50 $75 $100 $250 $500 $1000 Other Amount Follow Us Facebook Twitter Flickr Vimeo @Grant_Hauschild @GrantforMN Privacy Policy Prepared and paid for by the Grant Hauschild for the Minnesota State Senate Committee PO Box 1045 Duluth, MN 55810

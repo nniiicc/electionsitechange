@@ -1,9 +1,5 @@
-What Common-Sense Leadership Actually Looks Like for Anyone in District 54B
-"Common sense" is the most overused phrase in politics.
+0 Skip to Content Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate government , leadership Chris Kartschoke 8/31/26 government , leadership Chris Kartschoke 8/31/26 What Common-Sense Leadership Actually Looks Like for Anyone in District 54B "Common sense" is the most overused phrase in politics.
 Here is mine, made specific: five kinds of proposals I would support and five I would question, whoever authors them.
-government,
-leadership
-Chris Kartschoke
-government,
-leadership
-Chris Kartschoke
+Read More for MN House Representative - District 54B Christopher Kartschoke Serving People and Communities for Shakopee, Prior Lake, and Jordan Additional Resources Articles and PR Find Chris on Facebook Follow Chris on Instagram Listen to Chris on YouTube Minnesota Voting Information MN District 54B Poll Finder (PDF) Key Links Our Vision Donate Now Contact Chris﻿ Upcoming Events Discovering District 54B Prepared and paid for by CK4MN at P.O.
+Box 152 Prior Lake, MN 55372 #© All Rights Reserved.
+CK4MN, Christopher Kartschoke Proudly Designed and Cared for by Back2Basics, LLC

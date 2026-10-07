@@ -1,4 +1,6 @@
-Dan Cox: A Husband, Father, Grandfather, Small Businessman, and Problem Solver.
+Skip to main content Dan Cox for Governor Menu Home About Dan Cox Lt.
+Gov.
+Candidate Issues News Events Volunteer Store Get A Sign Contact Donate Donate Dan Cox: A Husband, Father, Grandfather, Small Businessman, and Problem Solver.
 About Dan Cox – Dan Cox for Governor.
 Dan Cox is a lifelong Marylander, husband, father, grandfather, and small‑business owner who has dedicated his career to serving the people of our state.
 Raised with a deep respect for faith, family, and hard work, Dan understands the challenges Maryland families face — from rising costs to concerns about safety, education, and opportunity.
@@ -13,18 +15,18 @@ Above all, Dan is driven by his love for Maryland and his desire to see it thriv
 He and his wife, Valerie, are raising their family here, and they want every Marylander to have the same opportunities for stability, prosperity, and freedom.
 Dan’s leadership is guided by integrity, responsibility, and a commitment to protecting the rights and well-being of every citizen.
 Dan Cox is running for Governor to bring Maryland a future defined by keeping more of our hard-earned money, affordable living, safety, opportunity, and accountable leadership — a future where families can flourish, communities can grow stronger, and the promise of Maryland is renewed for generations to come.
-A Career Built on Service
-Dan has spent years working as an attorney and advocating for Marylanders who needed someone in their corner.
+A Career Built on Service Dan has spent years working as an attorney and advocating for Marylanders who needed someone in their corner.
 His legal work has focused on protecting individual rights, supporting small businesses, and challenging policies that place unnecessary burdens on working families.
 He has seen firsthand how government decisions impact everyday life — and he believes Maryland deserves leadership that understands those realities.
 His time in public service gave him a clear view of how state government operates, where it succeeds, and where it falls short.
 Dan knows Maryland can do better — not through bigger bureaucracy, but through transparent, accountable leadership that puts citizens first.
-A Prosperous Maryland
-Dan’s vision for Maryland is grounded in practical, community‑focused solutions:
-- Safe neighborhoods where families feel protected and supported
-- Strong schools that empower parents and prepare students for real‑world success
-- A growing economy where small businesses can thrive, and families can afford to stay
-- A government that respects rights, operates within its limits, and earns the trust of the people it serves
-He believes Maryland can be a place where opportunity is within reach for every family — not just a few.
+A Prosperous Maryland Dan’s vision for Maryland is grounded in practical, community‑focused solutions: Safe neighborhoods where families feel protected and supported Strong schools that empower parents and prepare students for real‑world success A growing economy where small businesses can thrive, and families can afford to stay A government that respects rights, operates within its limits, and earns the trust of the people it serves He believes Maryland can be a place where opportunity is within reach for every family — not just a few.
 A place where communities are strengthened, not divided.
 A place where leadership is steady, responsible, and focused on results.
+Our money.
+Our kids.
+Our future.
+Restoring Confidence in Maryland’s Government.
+FOLLOW US Manage consent Accept All Close Save and Close Powered by (opens in a new window) Search Home Old About Dan Cox Old Lt.
+Gov.
+Candidate Issues Old News Events Volunteer Old Store Old Get A Sign Old Contact Old

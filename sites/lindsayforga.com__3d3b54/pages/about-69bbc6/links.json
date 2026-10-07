@@ -1,13 +1,50 @@
 [
-"https://facebook.com/LindsayForGA",
-"https://instagram.com/lindsayforga",
-"https://lindsayforga.com/",
-"https://lindsayforga.com/about",
-"https://lindsayforga.com/cart",
-"https://lindsayforga.com/doors",
-"https://lindsayforga.com/vent",
-"https://secure.actblue.com/donate/lfgmerch",
-"https://secure.actblue.com/donate/lindsayforga",
-"https://tiktok.com/@linzdefranco",
-"https://youtube.com/@LindsayForGA"
+{
+"text": "0",
+"href": "https://www.lindsayforga.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lindsayforga.com/about"
+},
+{
+"text": "Canvass",
+"href": "https://www.lindsayforga.com/doors"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lindsayforga"
+},
+{
+"text": "Home",
+"href": "https://www.lindsayforga.com/"
+},
+{
+"text": "Shop",
+"href": "https://secure.actblue.com/donate/lfgmerch"
+},
+{
+"text": "Vent",
+"href": "https://www.lindsayforga.com/vent"
+},
+{
+"text": "[image: Lindsay DeFranco for Georgia State House District 47]",
+"href": "https://www.lindsayforga.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindsayForGA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lindsayforga"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@linzdefranco"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LindsayForGA"
+}
 ]

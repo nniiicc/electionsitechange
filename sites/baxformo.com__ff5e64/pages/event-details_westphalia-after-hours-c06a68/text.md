@@ -1,8 +1,3 @@
-top of page
-Westphalia After Hours
-Thu, Sep 24
-|Westphalia Inn
-Join us for tunes and a good time at the Westphalia Inn.
+top of page LOGO GET INVOLVED DONATE Westphalia After Hours Thu, Sep 24 | Westphalia Inn Join us for tunes and a good time at the Westphalia Inn.
 We'll have drinks, ice cream, a coffee bar, and chance to hear from your future representative for House District 61!
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Sep 24, 2026, 6:30 PM – 9:00 PM Westphalia Inn, 106 E Main St, Westphalia, MO 65085, USA Share this event HOME ABOUT INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS Paid for by Citizens for Bax; Treasurer, Rob Overly © # by Sapphire Strategies HOME ABOUT Log In CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

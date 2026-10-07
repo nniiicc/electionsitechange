@@ -1,11 +1,46 @@
 [
-"https://facebook.com/Senatorgallivan",
-"https://gallivan4senate.com/",
-"https://gallivan4senate.com/bio",
-"https://gallivan4senate.com/contact-us",
-"https://gallivan4senate.com/donate",
-"https://gallivan4senate.com/links-resources",
-"https://gallivan4senate.com/news",
-"https://instagram.com/senpatrickgallivan",
-"https://twitter.com/senatorgallivan"
+{
+"text": "Bio",
+"href": "https://gallivan4senate.com/bio/"
+},
+{
+"text": "Contact Us",
+"href": "https://gallivan4senate.com/contact-us/"
+},
+{
+"text": "Contribute Now",
+"href": "https://gallivan4senate.com/donate/"
+},
+{
+"text": "Donations",
+"href": "https://gallivan4senate.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/senatorgallivan"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/Senatorgallivan/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/senpatrickgallivan/"
+},
+{
+"text": "Home",
+"href": "https://gallivan4senate.com/"
+},
+{
+"text": "Links / Resources",
+"href": "https://gallivan4senate.com/links-resources/"
+},
+{
+"text": "News",
+"href": "https://gallivan4senate.com/news/"
+},
+{
+"text": "[image: Senator Gallivan]",
+"href": "https://gallivan4senate.com/"
+}
 ]

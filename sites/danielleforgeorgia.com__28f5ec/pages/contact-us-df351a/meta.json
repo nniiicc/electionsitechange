@@ -1,9 +1,9 @@
 {
  "description": "Contact Danielle for Georgia to engage with your community and share events!",
  "final_url": "https://danielleforgeorgia.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "5f1af8352a3abc05dd9d5c13f47a20f106872f31",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact us",
- "years_mentioned": [
-  "2024"
- ]
+ "years_mentioned": []
 }

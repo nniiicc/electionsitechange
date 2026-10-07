@@ -1,9 +1,15 @@
 {
  "description": "Report From The State House",
  "final_url": "https://www.dennismalloy.com/news/category/K-12+Education",
- "paid_for_by": null,
- "title": "K-12 Education \u2014 News \u2014 Dennis Malloy NH State Representative",
+ "fingerprint": "ae207ccb945c32ff7b7245158ad615081e115bdd",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "K-12 Education — News — Dennis Malloy NH State Representative",
  "years_mentioned": [
-  "2023"
+  "2020",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

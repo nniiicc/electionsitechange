@@ -1,46 +1,266 @@
 [
-"https://facebook.com/RealMarkFinchem",
-"https://gab.com/AZHoneyBadger",
-"https://gettr.com/user/realmarkfinchem",
-"https://go.azsos.gov/276g",
-"https://gorightstrategies.com/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rumble.com/c/c-845427",
-"https://secure.anedot.com/finchemaz/website",
-"https://t.me/MarkFinchemAZ",
-"https://truthsocial.com/@realmarkfinchem",
-"https://twitter.com/RealMarkFinchem",
-"https://votefinchem.com/",
-"https://votefinchem.com/about",
-"https://votefinchem.com/arizona-senate-panel-votes-to-restrict-license-plate-readers-to-find-track-people",
-"https://votefinchem.com/arizona-senate-passes-school-safety-legislation-co-sponsored-by-sen-mark-finchem",
-"https://votefinchem.com/breaking-arizona-state-senator-mark-finchem-pushes-forward-sb1283-to-eliminate-the-liberal-leaning-division-two-court-of-appeals-in-tucson",
-"https://votefinchem.com/contact",
-"https://votefinchem.com/endorsed-by",
-"https://votefinchem.com/finchem-introduces-designated-survivor-bill-for-state-continuity-amid-rising-threats-smart-preparedness-for-chaotic-times",
-"https://votefinchem.com/finchems-sb-1755-would-end-judges-conflicts-of-interest-by-prohibiting-them-from-practicing-law",
-"https://votefinchem.com/issues",
-"https://votefinchem.com/multiple-bills-targeting-gender-transitions-head-to-arizona-senate-floor-for-vote",
-"https://votefinchem.com/news",
-"https://votefinchem.com/news/page/10",
-"https://votefinchem.com/news/page/2",
-"https://votefinchem.com/news/page/4",
-"https://votefinchem.com/news/page/5",
-"https://votefinchem.com/news/page/6",
-"https://votefinchem.com/news/page/7",
-"https://votefinchem.com/news/page/8",
-"https://votefinchem.com/news/page/9",
-"https://votefinchem.com/prescott-pulse-endorses-read-senator-finchems-battle-for-secure-borders-safe-kids-and-honest-elections",
-"https://votefinchem.com/sb-1329-supporting-family-court-professionals-doing-difficult-work",
-"https://votefinchem.com/sb-1646-ensuring-arizona-has-a-plan-when-crisis-strikes",
-"https://votefinchem.com/sb-1648-protecting-arizona-seniors-from-court-ordered-financial-abuse",
-"https://votefinchem.com/sb1475-bars-students-convicted-of-serious-crimes-from-interscholastic-activities-keeping-schools-safe-and-fair",
-"https://votefinchem.com/sen-mark-finchem-co-chaired-joint-legislative-audit-committee-hosts-presentation-on-enhancing-state-accountability-and-oversight",
-"https://votefinchem.com/sen-mark-finchem-co-sponsors-sb1520-requiring-state-agencies-share-illegal-immigration-data-with-feds-secures-republican-caucus-support",
-"https://votefinchem.com/sen-mark-finchem-exposes-arizona-family-court-crisis-on-the-trebuchet-podcast",
-"https://votefinchem.com/sen-mark-finchems-sb1647-banning-foreign-contributions-to-elections-advances-out-of-senate-judiciary-and-elections-committee",
-"https://votefinchem.com/sen-mark-finchems-sb1649-creating-digital-assets-strategic-reserve-fund-from-seized-crypto-clears-senate-rules-committee",
-"https://votefinchem.com/sen-mark-finchems-sb1754-empowering-parents-in-special-education-complaints-passes-senate-education-committee",
-"https://votefinchem.com/senate-republicans-pass-bills-to-protect-children-restore-commonsense-standards"
+{
+"text": "1",
+"href": "https://votefinchem.com/news/"
+},
+{
+"text": "10",
+"href": "https://votefinchem.com/news/page/10/"
+},
+{
+"text": "2",
+"href": "https://votefinchem.com/news/page/2/"
+},
+{
+"text": "4",
+"href": "https://votefinchem.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://votefinchem.com/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://votefinchem.com/news/page/6/"
+},
+{
+"text": "7",
+"href": "https://votefinchem.com/news/page/7/"
+},
+{
+"text": "8",
+"href": "https://votefinchem.com/news/page/8/"
+},
+{
+"text": "9",
+"href": "https://votefinchem.com/news/page/9/"
+},
+{
+"text": "About",
+"href": "https://votefinchem.com/about/"
+},
+{
+"text": "Arizona Senate Passes School Safety Legislation Co-Sponsored by Sen. Mark Finchem",
+"href": "https://votefinchem.com/arizona-senate-passes-school-safety-legislation-co-sponsored-by-sen-mark-finchem/"
+},
+{
+"text": "Arizona Senate panel votes to restrict license plate readers to find, track people",
+"href": "https://votefinchem.com/arizona-senate-panel-votes-to-restrict-license-plate-readers-to-find-track-people/"
+},
+{
+"text": "BREAKING: Arizona State Senator Mark Finchem pushes forward SB1283 to eliminate the liberal-leaning Division Two Court of Appeals in Tucson",
+"href": "https://votefinchem.com/breaking-arizona-state-senator-mark-finchem-pushes-forward-sb1283-to-eliminate-the-liberal-leaning-division-two-court-of-appeals-in-tucson/"
+},
+{
+"text": "Click here to sign my petition to get on the Ballot",
+"href": "https://go.azsos.gov/276g"
+},
+{
+"text": "Contact",
+"href": "https://votefinchem.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/finchemaz/website"
+},
+{
+"text": "Endorsements",
+"href": "https://votefinchem.com/endorsed-by/"
+},
+{
+"text": "Finchem introduces Designated Survivor bill for state continuity amid rising threats",
+"href": "https://votefinchem.com/finchem-introduces-designated-survivor-bill-for-state-continuity-amid-rising-threats-smart-preparedness-for-chaotic-times/"
+},
+{
+"text": "Finchem’s SB 1755 Would End Judges’ Conflicts of Interest by Prohibiting Them from Practicing Law",
+"href": "https://votefinchem.com/finchems-sb-1755-would-end-judges-conflicts-of-interest-by-prohibiting-them-from-practicing-law/"
+},
+{
+"text": "Go Right Strategies",
+"href": "https://gorightstrategies.com"
+},
+{
+"text": "Home",
+"href": "https://votefinchem.com/"
+},
+{
+"text": "Issues",
+"href": "https://votefinchem.com/issues/"
+},
+{
+"text": "News",
+"href": "https://votefinchem.com/news/"
+},
+{
+"text": "Next »",
+"href": "https://votefinchem.com/news/page/4/"
+},
+{
+"text": "Prescott Pulse Endorses – Read “Senator Finchem’s Battle for Secure Borders, Safe Kids, and Honest Elections”",
+"href": "https://votefinchem.com/prescott-pulse-endorses-read-senator-finchems-battle-for-secure-borders-safe-kids-and-honest-elections/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "SB 1646 – Ensuring Arizona Has a Plan When Crisis Strikes",
+"href": "https://votefinchem.com/sb-1646-ensuring-arizona-has-a-plan-when-crisis-strikes/"
+},
+{
+"text": "SB 1648 – Protecting Arizona Seniors from Court-Ordered Financial Abuse",
+"href": "https://votefinchem.com/sb-1648-protecting-arizona-seniors-from-court-ordered-financial-abuse/"
+},
+{
+"text": "SB1329 Shields family court professionals from liability in tough cases—backing those who protect families",
+"href": "https://votefinchem.com/sb-1329-supporting-family-court-professionals-doing-difficult-work/"
+},
+{
+"text": "SB1475: Bars students convicted of serious crimes from interscholastic activities, keeping schools safe and fair",
+"href": "https://votefinchem.com/sb1475-bars-students-convicted-of-serious-crimes-from-interscholastic-activities-keeping-schools-safe-and-fair/"
+},
+{
+"text": "Sen. Mark Finchem Co-Chaired Joint Legislative Audit Committee HOSTS PRESENTATION on Enhancing State Accountability and Oversight",
+"href": "https://votefinchem.com/sen-mark-finchem-co-chaired-joint-legislative-audit-committee-hosts-presentation-on-enhancing-state-accountability-and-oversight/"
+},
+{
+"text": "Sen. Mark Finchem Co-Sponsors SB1520 Requiring State Agencies Share Illegal Immigration Data With Feds, Secures Republican Caucus Support",
+"href": "https://votefinchem.com/sen-mark-finchem-co-sponsors-sb1520-requiring-state-agencies-share-illegal-immigration-data-with-feds-secures-republican-caucus-support/"
+},
+{
+"text": "Sen. Mark Finchem Exposes Arizona Family Court Crisis on the Trebuchet Podcast",
+"href": "https://votefinchem.com/sen-mark-finchem-exposes-arizona-family-court-crisis-on-the-trebuchet-podcast/"
+},
+{
+"text": "Sen. Mark Finchem’s SB1095 protecting Arizona minors from irreversible gender transition procedures secures full Senate passage",
+"href": "https://votefinchem.com/senate-republicans-pass-bills-to-protect-children-restore-commonsense-standards/"
+},
+{
+"text": "Sen. Mark Finchem’s SB1647 Banning Foreign Contributions to Elections Advances Out of Senate Judiciary and Elections Committee",
+"href": "https://votefinchem.com/sen-mark-finchems-sb1647-banning-foreign-contributions-to-elections-advances-out-of-senate-judiciary-and-elections-committee/"
+},
+{
+"text": "Sen. Mark Finchem’s SB1649 Creating Digital Assets Strategic Reserve Fund from Seized Crypto Clears Senate Rules Committee",
+"href": "https://votefinchem.com/sen-mark-finchems-sb1649-creating-digital-assets-strategic-reserve-fund-from-seized-crypto-clears-senate-rules-committee/"
+},
+{
+"text": "Sen. Mark Finchem’s SB1754 empowering parents in special education complaints passes Senate Education Committee",
+"href": "https://votefinchem.com/sen-mark-finchems-sb1754-empowering-parents-in-special-education-complaints-passes-senate-education-committee/"
+},
+{
+"text": "Senator Mark Finchem Sponsors Legislation to Protect Minors from Irreversible Gender Procedures",
+"href": "https://votefinchem.com/multiple-bills-targeting-gender-transitions-head-to-arizona-senate-floor-for-vote/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/arizona-senate-panel-votes-to-restrict-license-plate-readers-to-find-track-people/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/arizona-senate-passes-school-safety-legislation-co-sponsored-by-sen-mark-finchem/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/breaking-arizona-state-senator-mark-finchem-pushes-forward-sb1283-to-eliminate-the-liberal-leaning-division-two-court-of-appeals-in-tucson/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/finchem-introduces-designated-survivor-bill-for-state-continuity-amid-rising-threats-smart-preparedness-for-chaotic-times/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/finchems-sb-1755-would-end-judges-conflicts-of-interest-by-prohibiting-them-from-practicing-law/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/multiple-bills-targeting-gender-transitions-head-to-arizona-senate-floor-for-vote/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/prescott-pulse-endorses-read-senator-finchems-battle-for-secure-borders-safe-kids-and-honest-elections/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sb-1329-supporting-family-court-professionals-doing-difficult-work/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sb-1646-ensuring-arizona-has-a-plan-when-crisis-strikes/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sb-1648-protecting-arizona-seniors-from-court-ordered-financial-abuse/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sb1475-bars-students-convicted-of-serious-crimes-from-interscholastic-activities-keeping-schools-safe-and-fair/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sen-mark-finchem-co-chaired-joint-legislative-audit-committee-hosts-presentation-on-enhancing-state-accountability-and-oversight/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sen-mark-finchem-co-sponsors-sb1520-requiring-state-agencies-share-illegal-immigration-data-with-feds-secures-republican-caucus-support/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sen-mark-finchem-exposes-arizona-family-court-crisis-on-the-trebuchet-podcast/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sen-mark-finchems-sb1647-banning-foreign-contributions-to-elections-advances-out-of-senate-judiciary-and-elections-committee/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sen-mark-finchems-sb1649-creating-digital-assets-strategic-reserve-fund-from-seized-crypto-clears-senate-rules-committee/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/sen-mark-finchems-sb1754-empowering-parents-in-special-education-complaints-passes-senate-education-committee/"
+},
+{
+"text": "[image]",
+"href": "https://votefinchem.com/senate-republicans-pass-bills-to-protect-children-restore-commonsense-standards/"
+},
+{
+"text": "[image]Facebook",
+"href": "https://www.facebook.com/RealMarkFinchem/"
+},
+{
+"text": "[image]GETTR",
+"href": "https://gettr.com/user/realmarkfinchem"
+},
+{
+"text": "[image]Gab",
+"href": "https://gab.com/AZHoneyBadger"
+},
+{
+"text": "[image]Rumble",
+"href": "https://rumble.com/c/c-845427"
+},
+{
+"text": "[image]Telegram",
+"href": "https://t.me/MarkFinchemAZ"
+},
+{
+"text": "[image]Truth",
+"href": "https://truthsocial.com/@realmarkfinchem"
+},
+{
+"text": "[image]X",
+"href": "https://twitter.com/RealMarkFinchem"
+},
+{
+"text": "« Previous",
+"href": "https://votefinchem.com/news/page/2/"
+}
 ]

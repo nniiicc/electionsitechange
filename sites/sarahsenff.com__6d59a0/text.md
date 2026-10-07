@@ -1,5 +1,4 @@
-Embedded Files
-ADVOCATE.
+Search this site Embedded Files Skip to main content Skip to navigation Home Advocate Educator Artist Directing Applied Theatre Performer Contact Home Advocate Educator Artist Directing Applied Theatre Performer Contact More Home Advocate Educator Artist Directing Applied Theatre Performer Contact ADVOCATE.
 EDUCATOR.
 ARTIST.
 Sarah Senff is an advocate, educator, and artist who hails from southern Ohio.
@@ -10,5 +9,4 @@ She specializes in work focusing on health equity, particularly around intersect
 She has a passion for educating the public and health professionals alike.
 In her free time, she is a consummate baker who enjoys hiking, reading, board games, and running… okay, walking half marathons in order to raise funds for St.
 Jude Children’s Research Hospital.
-Page updated
-Report abuse
+Report abuse Page details Page updated Report abuse

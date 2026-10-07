@@ -1,8 +1,4 @@
-Press Release
-Discrimination and Racism: A Cause of Illness Ignored by Congress
-May 12, 2026
-https://youtu.be/1DKcCd2UeGc
-This channel exposes a truth America has ignored for generations: institutional discrimination and racism are making our communities sick — and Congress refuses to act.
+Home | About | Why | Mission Get Involved | News | Donate Donate Press Release Discrimination and Racism: A Cause of Illness Ignored by Congress May 12, 2026 https://youtu.be/1DKcCd2UeGc This channel exposes a truth America has ignored for generations: institutional discrimination and racism are making our communities sick — and Congress refuses to act.
 As a cancer doctor, I’ve seen firsthand how discrimination fuels heart disease, cervical cancer, prostate cancer, depression, addiction, and early death.
 Not because of biology — but because of unequal wages, unequal care, media stereotyping, underfunded schools, unaffordable housing, and a healthcare system driven by corporate profit and ignored by Congress.
 The problem isn’t the people of this district; it’s a rigged system controlled by Wall Street, mega donors, Big Pharma, and a Congress that prioritizes corporate money and foreign wars over local needs.
@@ -18,3 +14,12 @@ Your vote matters.
 A single stroke of your pen can shape the future.
 Walk with me.
 Let’s restore this country — together.
+Back to News Together We Fight Join our growing movement of Americans who are ready to speak up.
+Get updates on our campaign, upcoming events, and ways you can make a difference.
+Join the Movement Follow Us: Together we can reform healthcare, restore Congress to the people, and respect the diversity that makes America strong.
+Reform • Restore • Respect Campaign About Dr.
+Witta The Issues News & Updates Events Get Involved Volunteer Donate Request a Yard Sign Share Our Message Contact info@drwitta.com (720) 467-4233 Privacy Policy Terms of Service Contact Us © 2026 Dr.
+Witta for Congress.
+All rights reserved.
+Paid for by Dr.
+Witta for Congress

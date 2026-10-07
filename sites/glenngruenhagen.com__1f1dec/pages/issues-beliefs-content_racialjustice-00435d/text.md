@@ -1,10 +1,7 @@
-Racial Justice
-A Manifesto to End Racism in America
-Our American culture has struggled with racism for decades.
+0 Skip to Content About Glenn Policies & Issues Overview Founding Philosophy Core Policies Important Issues Speaking Resources Articles Books Video News Radio Ads Get Involved Open Menu Close Menu About Glenn Policies & Issues Overview Founding Philosophy Core Policies Important Issues Speaking Resources Articles Books Video News Radio Ads Get Involved Open Menu Close Menu About Glenn Folder: Policies & Issues Back Overview Founding Philosophy Core Policies Important Issues Speaking Folder: Resources Back Articles Books Video News Radio Ads Get Involved Racial Justice Important Issues Mar 11 Written By Jonathan Engbrecht A Manifesto to End Racism in America Our American culture has struggled with racism for decades.
 In order to end racism in America it is important to understand the roots of modern-day racism and the primary institution which fosters racism in our nation.
 Modern-day racism received its so-called scientific rationale from primarily two writings by Charles Darwin.
-The first was titled “The Origin of Species by Means of Natural Selection or the Preservation of Favored Races in the Struggle for Life.”
-Darwin’s second writing was titled “The Descent of Man, and Selection in Relation to Sex”.
+The first was titled “The Origin of Species by Means of Natural Selection or the Preservation of Favored Races in the Struggle for Life.” Darwin’s second writing was titled “The Descent of Man, and Selection in Relation to Sex”.
 Charles Darwin was a white supremacist, a racist and a eugenicist as explained in his writings.
 Here is a direct quote from this book, “At some period not very distant as measured by centuries, the civilized (European) race of men will almost certainly exterminate and replace throughout the world the savage races”.
 Darwin goes on to name “…the Negro or Australian (pygmy) and the gorilla”.
@@ -44,8 +41,7 @@ This has trapped many single parent moms in permanent poverty and government dep
 This is a major reason for the destruction of the traditional black family with devastating consequences for their children.
 In a shocking interview with Iyanla Vanzant, author, lawyer and talk show host, sits down with six black men who between them had fathered 87 children with 50 different women.
 In this interview she confirms statistically that children born in unstable, fatherless homes have exponentially higher suicide rates, illegal drug abuse, criminal behavior and those children then go on to perpetuate that same pattern of behavior in their own lives.
-You can see that video here
-Our welfare programs also incentivize criminal behavior.
+You can see that video here Our welfare programs also incentivize criminal behavior.
 Often times, welfare recipients realize that generating income from the sale of illegal drugs is not tax reportable while earning an income from lawful employment is tax reportable and jeopardizes their welfare benefits.
 Government welfare programs must be reformed and the anti-marriage penalties should be removed from welfare.
 U.S. taxpayers have spent over $22 trillion on anti-poverty programs from 1964-2014 and the poverty rate is the same or worse than when these programs were started (source: Heritage Foundation).
@@ -73,8 +69,7 @@ Several things to keep in mind historically: slavery was a critical issue of dis
 Originally, our Constitution counted black individuals as only 3/5 personhood.
 It’s not because our founding fathers were racists, it was because abolitionists of the North wanted to limit the population count of the southern slave states, thereby limiting the number of slave-state representatives in Congress.
 They hoped this would later give abolitionists a better opportunity to one day end slavery.
-(For more info please visit wallbuilders which has the largest collection of our country’s original founding and written documents)
-We fought the Civil War with over 620,000 casualties, not to mention those who were severely wounded or maimed, almost all of them young Caucasian boys who endured many hardships and horrible medical procedures.
+(For more info please visit wallbuilders which has the largest collection of our country’s original founding and written documents) We fought the Civil War with over 620,000 casualties, not to mention those who were severely wounded or maimed, almost all of them young Caucasian boys who endured many hardships and horrible medical procedures.
 This is the largest number of war casualties in U.S. history, in fact more than all other wars combined.
 President Lincoln, founder of the Republican Party, was nicknamed the “widow maker” by his opponents.
 He also signed the Emancipation Proclamation and freed the slaves.
@@ -93,9 +88,15 @@ This will create a more perfect and united union with a growing and prosperous M
 By God’s Grace and with His help we can solve the critical problems facing our state and nation.
 Let us commit that we listen to each other respectfully.
 State Rep.
-Glenn Gruenhagen
-Acknowledgements:
-I would like to thank Dr.
+Glenn Gruenhagen Acknowledgements: I would like to thank Dr.
 Thomas Sowell, Star Parker, Walter Williams, Bob Woodson, Larry Elders, Leo Terrell, Dinesh D’Sousa, Candace Owens and the late Dr.
 Francis Schaefer and the late Dr.
 Henry Morris along with many others whose influence, writings and ideas are expressed in this Manifesto.
+National Inner City Jonathan Engbrecht Previous Previous Education Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to Newsletter Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+You are almost done!
+You will need to confirm your subscription by clicking the confirmation link in an email you will receive shortly.
+Thanks again for subscribing and supporting Glenn!
+Contact Donate

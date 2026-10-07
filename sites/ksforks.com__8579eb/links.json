@@ -1,13 +1,62 @@
 [
-"https://docs.google.com/forms/d/1B80zWiiCzRLWcw6vGtuooi74LczfWClyarPLyxuH1tI/edit",
-"https://docs.google.com/forms/d/1a7_P5KvjLidyMFJrlaPz_sfypJmX68ImSsnELD9jXtI/edit",
-"https://facebook.com/KSforKS",
-"https://forms.gle/CU41szqV8cMDDU5E6",
-"https://forms.gle/fcbKXhSqrHtqgmLe9",
-"https://givebutter.com/KSforKS",
-"https://instagram.com/KSforKS",
-"https://ksforks.com/",
-"https://ksforks.com/blank",
-"https://ksforks.com/blank-1",
-"https://ksforks.com/privacy-policy"
+{
+"text": "About Me",
+"href": "https://www.ksforks.com"
+},
+{
+"text": "Contribute",
+"href": "https://givebutter.com/KSforKS"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ksforks.com/blank"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/1B80zWiiCzRLWcw6vGtuooi74LczfWClyarPLyxuH1tI/edit"
+},
+{
+"text": "Home",
+"href": "https://www.ksforks.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.ksforks.com/blank-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.ksforks.com/blank-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ksforks.com/privacy-policy"
+},
+{
+"text": "Request a Yard Sign!",
+"href": "https://forms.gle/fcbKXhSqrHtqgmLe9"
+},
+{
+"text": "SIGN UP HERE",
+"href": "https://docs.google.com/forms/d/1a7_P5KvjLidyMFJrlaPz_sfypJmX68ImSsnELD9jXtI/edit"
+},
+{
+"text": "Sign up for text/email",
+"href": "https://forms.gle/CU41szqV8cMDDU5E6"
+},
+{
+"text": "Subscribe to Newsletter",
+"href": "https://www.ksforks.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/KSforKS"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/KSforKS"
+},
+{
+"text": "[no text]",
+"href": "https://www.ksforks.com"
+}
 ]

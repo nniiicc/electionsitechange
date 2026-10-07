@@ -1,24 +1,110 @@
 [
-"https://bsky.app/profile/realjaredhuffman.bsky.social",
-"https://facebook.com/jared.huffman.9",
-"https://jaredhuffman.com/",
-"https://jaredhuffman.com/about-jared",
-"https://jaredhuffman.com/cart",
-"https://jaredhuffman.com/contact",
-"https://jaredhuffman.com/endorsements-1",
-"https://jaredhuffman.com/events",
-"https://jaredhuffman.com/get-involved",
-"https://secure.actblue.com/donate/jh-website-up?amount=10",
-"https://secure.actblue.com/donate/jh-website-up?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jh-website-up?amount=20",
-"https://secure.actblue.com/donate/jh-website-up?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/jh-website-up?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/jh-website-up?amount=3500&express_lane=true",
-"https://secure.actblue.com/donate/jh-website-up?amount=50&express_lane=true",
-"https://secure.ngpvan.com/Eq6PvSYIW0SYKMXW0_JXqw2",
-"https://secure.ngpvan.com/M5mvlTQfCEedIYRgsVq5kw2",
-"https://secure.ngpvan.com/v6BG2aNG20-craGffaoOyg2",
-"https://threads.com/@realjaredhuffman",
-"https://wwnorton.com/books/9781324130482",
-"https://x.com/JaredHuffman"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=25&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=250&express_lane=true"
+},
+{
+"text": "$3500",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=3500&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=50&express_lane=true"
+},
+{
+"text": "0",
+"href": "https://www.jaredhuffman.com/cart"
+},
+{
+"text": "Become a monthly donor",
+"href": "https://secure.ngpvan.com/Eq6PvSYIW0SYKMXW0_JXqw2"
+},
+{
+"text": "Contact",
+"href": "https://www.jaredhuffman.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.ngpvan.com/Eq6PvSYIW0SYKMXW0_JXqw2"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=10"
+},
+{
+"text": "Endorse Jared",
+"href": "https://secure.ngpvan.com/M5mvlTQfCEedIYRgsVq5kw2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredhuffman.com/endorsements-1"
+},
+{
+"text": "Events",
+"href": "https://www.jaredhuffman.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredhuffman.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jaredhuffman.com/"
+},
+{
+"text": "Learn More →",
+"href": "https://www.jaredhuffman.com/about-jared"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredhuffman.com/about-jared"
+},
+{
+"text": "OTHER AMOUNT",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=20"
+},
+{
+"text": "Pre-Order NO PROPHETS",
+"href": "https://wwnorton.com/books/9781324130482"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/v6BG2aNG20-craGffaoOyg2"
+},
+{
+"text": "[image: Jared Huffman for Congress]",
+"href": "https://www.jaredhuffman.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.jaredhuffman.com/about-jared"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/realjaredhuffman.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jared.huffman.9"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@realjaredhuffman"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JaredHuffman"
+},
+{
+"text": "pre-orders available now from major booksellers!",
+"href": "https://wwnorton.com/books/9781324130482"
+}
 ]

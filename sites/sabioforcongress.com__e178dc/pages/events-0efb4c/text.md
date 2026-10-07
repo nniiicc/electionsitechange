@@ -1,9 +1,4 @@
-Signed in as:
-filler@godaddy.com
-Event Details
-I will be at the Alexandria GOP tent
-RSVP Only
-Rocco's Italian Restaurant
-Private Home
-It is time to stand up and make your voices heard that we are here to unite our country and protect our value.
-get your SOCIALISM SUCKS. gear today!
+See our merchandise for sale today!!!
+Home Meet Tony Promise for America Day One Bills Energy & Power Jobs & Opportunity Small Business First Safe and Secured America Affordable Healthcare Merchandise Donate Host an Event Events Volunteer News Media Contact November 3rd Amendments More Home Meet Tony Promise for America Day One Bills Energy & Power Jobs & Opportunity Small Business First Safe and Secured America Affordable Healthcare Merchandise Donate Host an Event Events Volunteer News Media Contact November 3rd Amendments Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Meet Tony Promise for America Day One Bills Energy & Power Jobs & Opportunity Small Business First Safe and Secured America Affordable Healthcare Merchandise Donate Host an Event Events Volunteer News Media Contact November 3rd Amendments Account My Account Sign out Sign In My Account Sabio For Congress Events 10/03/2026 Del Ray Art on the Avenue 11am - 2pm Event Details 10/03/2026 Del Ray Art on the Avenue I will be at the Alexandria GOP tent 11am - 2pm 10/03/2026 Mason Neck Meet and Greet 4pm - 6pm RSVP Only 10/03/2026 Mason Neck Meet and Greet 4pm - 6pm RSVP Only 10/06/2026 McLean RWC luncheon 11:30am - 1pm Rocco's Italian Restaurant 10/06/2026 McLean RWC luncheon 11:30am - 1pm Rocco's Italian Restaurant 10/06/2026 Meet and Greet 6pm - 8pm Private Home 10/06/2026 Meet and Greet 6pm - 8pm Private Home Copyright © # PAID FOR TONY SABIO FOR CONGRESS - All rights reserved.
+Donate by check: Sabio For Congress PO Box 2011 Falls Church, VA 22042 News Media Contact Contact Us Get Your Campaign T-Shirts It is time to stand up and make your voices heard that we are here to unite our country and protect our value. get your SOCIALISM SUCKS. gear today!
+Shop Today

@@ -1,14 +1,58 @@
 [
-"https://boe.ohio.gov/comoh/Absentee_Request_11-A.pdf",
-"https://boe.ohio.gov/summit/absentee-information/early-voting-hours",
-"https://boe.ohio.gov/summit/voter-registration-information/how-to-register",
-"https://facebook.com/shubertforohio",
-"https://instagram.com/shubertforohio",
-"https://ohiosos.gov/elections/voter-ID-requirements",
-"https://secure.winred.com/shubert-for-ohio/donate-today",
-"https://shubertforohio.com/",
-"https://shubertforohio.com/biography",
-"https://shubertforohio.com/blog",
-"https://shubertforohio.com/early-voting-information",
-"https://x.com/shubertforohio"
+{
+"text": "Absentee Ballot Application",
+"href": "https://www.boe.ohio.gov/comoh/Absentee_Request_11-A.pdf"
+},
+{
+"text": "Biography",
+"href": "https://www.shubertforohio.com/biography"
+},
+{
+"text": "Campaign Newsletter",
+"href": "https://www.shubertforohio.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shubert-for-ohio/donate-today"
+},
+{
+"text": "Early Voting Hours",
+"href": "https://www.boe.ohio.gov/summit/absentee-information/early-voting-hours/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.shubertforohio.com#volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.shubertforohio.com"
+},
+{
+"text": "Voter ID Requirements",
+"href": "https://www.ohiosos.gov/elections/voter-ID-requirements"
+},
+{
+"text": "Voter Information",
+"href": "https://www.shubertforohio.com/early-voting-information"
+},
+{
+"text": "Voter Registration Information",
+"href": "https://www.boe.ohio.gov/summit/voter-registration-information/how-to-register/"
+},
+{
+"text": "[image: CraigShubertLOGO.png]",
+"href": "https://www.shubertforohio.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/shubertforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/shubertforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/shubertforohio"
+}
 ]

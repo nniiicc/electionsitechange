@@ -1,5 +1,1 @@
-15
-May
-Tuesday, 10:00 AM · 2018
-Paid for By Elect Deb Butler
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact News / Democrat representatives say we need to protect the water and air from Genx 15 May Tuesday, 10:00 AM · 2018 Democrat representatives say we need to protect the water and air from Genx Contact Paid for By Elect Deb Butler Powered by CampaignPartner.com - Political Campaign Websites Home Contribute Events Our Issues News Legislation Primary Sponsored Bills Votes Committees Contact Close Menu

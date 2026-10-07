@@ -1,12 +1,46 @@
 [
-"https://charityforvermont.com/",
-"https://charityforvermont.com/cart",
-"https://charityforvermont.com/get-involved",
-"https://charityforvermont.com/getinvolved",
-"https://charityforvermont.com/meet-charity",
-"https://facebook.com/charityforvermont",
-"https://instagram.com/charityforvt",
-"https://secure.actblue.com/donate/charityforag",
-"https://secure.actblue.com/donate/charityforagstore",
-"https://twitter.com/CharityForVT"
+{
+"text": "0",
+"href": "https://www.charityforvermont.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/charityforag"
+},
+{
+"text": "Get Involved",
+"href": "https://www.charityforvermont.com/getinvolved"
+},
+{
+"text": "Meet Charity",
+"href": "https://www.charityforvermont.com/meet-charity"
+},
+{
+"text": "Stay up to date",
+"href": "https://www.charityforvermont.com/get-involved"
+},
+{
+"text": "Store",
+"href": "https://secure.actblue.com/donate/charityforagstore"
+},
+{
+"text": "[image: Charity Clark for Attorney General]",
+"href": "https://www.charityforvermont.com/"
+},
+{
+"text": "[image]",
+"href": "mailto:info@charityforvermont.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/CharityForVT"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/charityforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/charityforvt/"
+}
 ]

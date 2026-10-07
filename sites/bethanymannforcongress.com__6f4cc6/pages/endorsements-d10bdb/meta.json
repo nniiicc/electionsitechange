@@ -1,7 +1,9 @@
 {
- "description": "View the endorsement graphics shared on Bethany Mann\u2019s campaign website.",
+ "description": "View the endorsement graphics shared on Bethany Mann’s campaign website.",
  "final_url": "https://www.bethanymannforcongress.com/endorsements",
- "paid_for_by": "Paid for by Bethany Mann for Congress Privacy policy \u2197 Terms &amp; conditions \u2197",
+ "fingerprint": "f79d6cf7b05831383dac700c77b7d894e998a7ab",
+ "format": 3,
+ "paid_for_by": "Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗",
  "title": "Endorsements | Bethany Mann for Congress",
  "years_mentioned": []
 }

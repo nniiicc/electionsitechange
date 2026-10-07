@@ -1,29 +1,138 @@
 [
-"https://cobaltadvocates.org/",
-"https://facebook.com/sarah4cos",
-"https://instagram.com/sarah4cos",
-"https://momsdemandaction.org/",
-"https://pikespeakea.org/",
-"https://sarah4cos.com/",
-"https://sarah4cos.com/aboutsarahemery",
-"https://sarah4cos.com/blog",
-"https://sarah4cos.com/campaignfinance",
-"https://sarah4cos.com/costofliving",
-"https://sarah4cos.com/datacentersai",
-"https://sarah4cos.com/findmylegislator",
-"https://sarah4cos.com/get-involved",
-"https://sarah4cos.com/governmentaccountability",
-"https://sarah4cos.com/immigration",
-"https://sarah4cos.com/publiceducation",
-"https://sarah4cos.com/publicsafety",
-"https://sarah4cos.com/sarahemeryendorsements",
-"https://sarah4cos.com/sarahemerysocialmedia",
-"https://sarah4cos.com/sarahemeryspersonalwhy",
-"https://sarah4cos.com/tabor",
-"https://sarah4cos.com/the-issues",
-"https://sarah4cos.com/vetsmilitary",
-"https://sarah4cos.com/waterpowerroads",
-"https://secure.actblue.com/donate/sarah4cos",
-"https://tiktok.com/@sarah4cos14",
-"https://youtube.com/@Sarah4COS"
+{
+"text": "About",
+"href": "https://www.sarah4cos.com/aboutsarahemery"
+},
+{
+"text": "About Me",
+"href": "https://www.sarah4cos.com/aboutsarahemery"
+},
+{
+"text": "Campaign Finance",
+"href": "https://www.sarah4cos.com/campaignfinance"
+},
+{
+"text": "Contact",
+"href": "https://www.sarah4cos.com"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.sarah4cos.com/costofliving"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sarah4cos"
+},
+{
+"text": "Data Centers and AI",
+"href": "https://www.sarah4cos.com/datacentersai"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sarah4cos.com/sarahemeryendorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sarah4cos.com/get-involved"
+},
+{
+"text": "Government Accountability",
+"href": "https://www.sarah4cos.com/governmentaccountability"
+},
+{
+"text": "HD14 Map",
+"href": "https://www.sarah4cos.com/findmylegislator"
+},
+{
+"text": "Home",
+"href": "https://www.sarah4cos.com"
+},
+{
+"text": "Home",
+"href": "https://www.sarah4cos.com/sarahemeryendorsements"
+},
+{
+"text": "I WANT TO GET INVOLVED",
+"href": "https://www.sarah4cos.com/get-involved"
+},
+{
+"text": "Immigration",
+"href": "https://www.sarah4cos.com/immigration"
+},
+{
+"text": "Newsletter",
+"href": "https://www.sarah4cos.com/blog"
+},
+{
+"text": "Public Education",
+"href": "https://www.sarah4cos.com/publiceducation"
+},
+{
+"text": "Public Safety",
+"href": "https://www.sarah4cos.com/publicsafety"
+},
+{
+"text": "Sarah's Social Media",
+"href": "https://www.sarah4cos.com/sarahemerysocialmedia"
+},
+{
+"text": "Sarah's Why",
+"href": "https://www.sarah4cos.com/sarahemeryspersonalwhy"
+},
+{
+"text": "Stay in the KNOW",
+"href": "https://www.sarah4cos.com"
+},
+{
+"text": "TABOR",
+"href": "https://www.sarah4cos.com/tabor"
+},
+{
+"text": "The Issues",
+"href": "https://www.sarah4cos.com/the-issues"
+},
+{
+"text": "Veterans and Military Families",
+"href": "https://www.sarah4cos.com/vetsmilitary"
+},
+{
+"text": "Water, Power, and Infrastructure",
+"href": "https://www.sarah4cos.com/waterpowerroads"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/sarah4cos"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sarah4cos/"
+},
+{
+"text": "[image: Sarah Emery Cobalt Advocates Endorsemen]",
+"href": "https://cobaltadvocates.org/"
+},
+{
+"text": "[image: Sarah Emery Pikes Peak Education Association Endorsement]",
+"href": "https://pikespeakea.org/"
+},
+{
+"text": "[image: Sarah Emery moms demand action endorse announce 2.PNG]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: SarahForCOS]",
+"href": "https://www.sarah4cos.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@sarah4cos14"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@Sarah4COS"
+},
+{
+"text": "info@sarah4cos.com",
+"href": "mailto:info@sarah4cos.com"
+}
 ]

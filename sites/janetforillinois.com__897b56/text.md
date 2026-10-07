@@ -1,21 +1,12 @@
-For State Representative of IL House District 41
-For constituent and other state and district-related business, please visit
-Office of Illinois State Representative
-Janet Yang Rohr
-www.RepYangRohr.com
-PUTTING EXPERIENCE TO WORK
-As a mother, business leader, and long-time Naperville resident, I'm committed to putting middle class families first.
-I’m running for state representative because I want to get real results for our community in the 41st district.
+top of page JANET YANG ROHR For State Representative of IL House District 41 GET A YARD SIGN Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
+For constituent and other state and district-related business, please visit Office of Illinois State Representative Janet Yang Rohr www.RepYangRohr.com PUTTING EXPERIENCE TO WORK Delivering Results GET INVOLVED Help Us Make Change Happen DONATE SUBSCRIBE GET A YARD SIGN PUTTING EXPERIENCE TO WORK As a mother, business leader, and long-time Naperville resident, I'm committed to putting middle class families first. ​I’m running for state representative because I want to get real results for our community in the 41st district.
 Our state faces real challenges, but we also have so much potential.
 As a school board member, I worked to strengthen academics, expand early childhood education, and abate millions in taxes.
-In Springfield, I fought to cut taxes for families in our community and demand politicians who commit crimes and violate the public trust repay every penny they’ve received from taxpayers
-While Donald Trump and other extreme politicians continue their attack against women, I will defend a women’s right to choose and demand equal pay for equal work.
+In Springfield, I fought to cut taxes for families in our community and demand politicians who commit crimes and violate the public trust repay every penny they’ve received from taxpayers While Donald Trump and other extreme politicians continue their attack against women, I will defend a women’s right to choose and demand equal pay for equal work .
 As a businesswoman, I know we must do more to help small and medium-sized businesses succeed and access the resources they need to create new jobs.
 As your representative, I fought to repeal burdensome taxes and fees on small businesses and restore tax credits for businesses that innovate and expand.
-I sponsored and passed legislation to help employers and community colleges create cutting-edge job training programs that will reduce costs for local businesses while preparing workers for high-wage careers.
-These are just some of the things we can move forward in Springfield.
+I sponsored and passed legislation to help employers and community colleges create cutting-edge job training programs that will reduce costs for local businesses while preparing workers for high-wage careers. ​ These are just some of the things we can move forward in Springfield.
 Please never hesitate to call, email, or text if you have any questions or want to talk.
 It’s because of conversations with neighbors like you that I learn how to best advocate for the issues that matter most to our community.
-Sincerely
-Janet Yang Rohr
-630-225-7753
+Sincerely ​ Janet Yang Rohr janet@janetforillinois.com 630-225-7753 FOLLOW JANET ON SOCIAL MEDIA Subscribe SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
+Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​ ​ ​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

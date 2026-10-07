@@ -1,5 +1,4 @@
-MEET JOE SOSNOWSKI
-Representative Joe Sosnowski grew up in Carol Stream, Illinois where his father worked as a carpenter and his mother raised four children.
+Skip to content Home Meet Joe Issues Voter Info Contribute Home Meet Joe Issues Voter Info Contribute MEET JOE SOSNOWSKI Representative Joe Sosnowski grew up in Carol Stream, Illinois where his father worked as a carpenter and his mother raised four children.
 Joe attended Northern Illinois University in DeKalb, and after graduation, Joe was elected as a City of DeKalb Alderman.
 While in DeKalb, Joe worked as a property manager for student apartments.
 Joe’s wife Roxanne was born in Belvidere, Illinois and attended local schools graduating from Northern Illinois University College of Law in May 2004.
@@ -11,3 +10,6 @@ He currently serves on the following House committees: Elementary Secondary Educ
 He holds a State of Illinois Real Estate License and is an independent fundraising consultant.
 Joe is a member of Stateline Church in Rockford, member emeritas of the NIU Alumni Association, and member of the NIU Legislative Caucus.
 Joe and Roxanne have three wonderful children (Aidan, Roman, and Ellie).
+SIGN UP FOR CAMPAIGN UPDATES: SIGN UP!
+Paid for by Citizens for Joe Sosnowski.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

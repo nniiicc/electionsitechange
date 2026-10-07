@@ -1,13 +1,3 @@
-District Office
-1001 W.
-Euless Blvd., Suite 410B
-Euless, TX 76040
-Phone #: (817) 283-0289
-Email: Salman.Bhojani@house.texas.gov
-Capitol Office
-Room E2.906
-P.O.
-Box 12910
-Austin, Texas 78711-2910
-Phone #: (512) 463-0522
-Email: Salman.Bhojani@house.texas.gov
+top of page HOME ABOUT PRIORITIES Affordability Education Ethical Technology Economy & Workforce Religious Freedom Affordability Education Ethical Technology Economy & Workforce Religious Freedom GET INVOLVED CONNECT SELFIES WITH SALMAN SELFIES WITH SALMAN LEGISLATIVE SESSION DONATE District Office 1001 W.
+Euless Blvd., Suite 410B Euless, TX 76040 Phone #: (817) 283-0289 Email: Salman.Bhojani@house.texas.gov Capitol Office Room E2.906 P.O.
+Box 12910 Austin, Texas 78711-2910 Phone #: (512) 463-0522 Email: Salman.Bhojani@house.texas.gov CONSTITUENT RESOURCES HOME ABOUT PRIORITIES Affordability Education Ethical Technology Economy & Workforce Religious Freedom Affordability Education Ethical Technology Economy & Workforce Religious Freedom GET INVOLVED CONNECT SELFIES WITH SALMAN SELFIES WITH SALMAN LEGISLATIVE SESSION DONATE Donate By Mail Bhojani for Texas PO Box 392 Euless, TX 76039 bottom of page

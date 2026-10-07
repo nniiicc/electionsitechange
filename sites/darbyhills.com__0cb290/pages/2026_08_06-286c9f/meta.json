@@ -1,7 +1,11 @@
 {
  "description": "Illinois Senate District 26",
  "final_url": "https://darbyhills.com/2026/08/06/",
+ "fingerprint": "98a06137f4dc1f39fd751a808b70561448448a7b",
+ "format": 3,
  "paid_for_by": "Paid for by Citizens for Darby Hills",
  "title": "06 - Darby Hills for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,9 +1,12 @@
 {
  "description": "Media of McGowan for Iowa",
  "final_url": "https://www.mcgowanforiowa.com/media",
- "paid_for_by": null,
+ "fingerprint": "91697a989b6c0e54269e53b53feef76900a20136",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media of McGowan for Iowa",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

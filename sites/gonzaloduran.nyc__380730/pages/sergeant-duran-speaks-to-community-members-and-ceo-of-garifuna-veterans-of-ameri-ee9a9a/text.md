@@ -1,8 +1,9 @@
-While on a work site project.
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Posted on December 30, 2022 by Gonzalo Duran Sergeant Duran Speaks to Community Members and CEO of Garifuna Veterans of America about the Burn Pits While on a work site project.
 I took the time to inform local community members of the Burn Pits and to Edson Arzu the CEO of Garifuna Veterans of America.
 Many of them, never herd of the Burn Pits controversy.
-Skip to content
-Sergeant Duran Speaks to Community Members and CEO of Garifuna Veterans of America about the Burn Pits
-While on a work site project.
-I took the time to inform local community members of the Burn Pits and to Edson Arzu the CEO of Garifuna Veterans of America.
-Many of them, never herd of the Burn Pits controversy.
+Share this: Share Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Share on LinkedIn (Opens in new window) LinkedIn Share on Pinterest (Opens in new window) Pinterest Share on Tumblr (Opens in new window) Tumblr Share on Reddit (Opens in new window) Reddit Like this: Like Loading… Related Categories Burn Pits Tags Burn Pits , Gonzalo Duran , Sergeant Gonzalo Duran Leave a Reply Cancel reply Post navigation Previous Post Previous Sergeant Duran Speaks with The President of the Bronx Chamber of Commerce Regarding the Burn Pits Next Post Next New Year’s Eve Prayer Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

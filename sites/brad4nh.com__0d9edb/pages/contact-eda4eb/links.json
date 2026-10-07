@@ -1,9 +1,50 @@
 [
-"https://brad4nh.com/",
-"https://brad4nh.com/contact",
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/Brad Macrae for Grafton 9",
-"https://twitter.com/Brad4NH",
-"https://x.com/Brad4NH"
+{
+"text": "About",
+"href": "https://brad4nh.com/#about"
+},
+{
+"text": "BRAD MACRAE",
+"href": "https://brad4nh.com/"
+},
+{
+"text": "Contact",
+"href": "https://brad4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://brad4nh.com/#donate"
+},
+{
+"text": "Endorsed",
+"href": "https://brad4nh.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "https://brad4nh.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Brad%20Macrae%20for%20Grafton%209"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Brad4NH"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Brad%20Macrae%20for%20Grafton%209"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Brad4NH"
+}
 ]

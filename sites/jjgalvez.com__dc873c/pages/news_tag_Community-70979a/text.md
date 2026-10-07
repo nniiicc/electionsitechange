@@ -1,10 +1,4 @@
-Fundraising
-Jaclyn Martin
-Fundraising
-Jaclyn Martin
-Learn to salsa while fundraising!
-Priorities
-Jaclyn Martin
-Priorities
-Jaclyn Martin
-JJ supports strengthening mental health services.
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Fundraising Jaclyn Martin 7/13/26 Fundraising Jaclyn Martin 7/13/26 Salsa Dancing Night Learn to salsa while fundraising!
+Read More Priorities Jaclyn Martin 7/7/26 Priorities Jaclyn Martin 7/7/26 Mental Health Now JJ supports strengthening mental health services.
+Read More Community Jaclyn Martin 7/6/26 Community Jaclyn Martin 7/6/26 Gun Sense Voting JJ Galvez recieves Gun Sense Candidate designation.
+Read More DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

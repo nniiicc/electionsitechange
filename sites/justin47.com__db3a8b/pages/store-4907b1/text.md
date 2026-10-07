@@ -1,6 +1,6 @@
-Campaign Merch
-Store
-Wear the message.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate Campaign Merch Store Wear the message.
 Every purchase supports the campaign.
+Just Griffis Water Bottle $34.98 Justin Griffis beanie | Ribbed knit embroidered $38.98 Justin Griffis Campaign Logo Polo Shirt $50.88–$69.20 Justin Griffis Campaign T-Shirt $17.99–$30.99 Justin Griffis campaign toddler t-shirt | Michigan outline logo $32.68 Justin Griffis Embroidered Campaign Logo Full-Zip Hooded Sweatshirt $96.50–$116.58 Justin Griffis for Michigan House Flat Bill Cap $38.99 Justin Griffis for Michigan House Hoodie $53.95–$64.05 Justin Griffis for Michigan House Kids Tee $17.45 Justin Griffis for Michigan House Mug $12.33 Justin Griffis for Michigan House Sticker $3.99 Justin Griffis for Michigan House Women's Tee $34.88–$65.38 Justin Griffis Michigan Campaign Logo Baseball Hat $56.33 Justin Griffis Name Car Magnet $8.99 Justin Griffis Rocks Glass $30.80 Justin Griffis Under Armour Embroidered Campaign Polo $127.38–$132.28 Kiss-Cut Vinyl Decals $3.02–$10.67 Want to Help More?
 Beyond merch — chip in directly to fund yard signs, doors knocked, and a winning ground game.
-Donate
+Donate Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

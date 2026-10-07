@@ -1,5 +1,4 @@
-What I Stand For
-All people deserve dignity, safety, and a government that represents them and fights for their rights.
+0 Skip to Content Emily Dahlgren for MN House 29A Open Menu Close Menu Open Menu Close Menu Emily Dahlgren for MN House 29A What I Stand For All people deserve dignity, safety, and a government that represents them and fights for their rights.
 We the people created the government to protect us from tyranny.
 Currently we have a federal government that is stomping on our rights, so we must turn to our state government to protect us.
 I will never give an inch on the rights I grew up believing were inalienable.

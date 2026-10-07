@@ -1,7 +1,26 @@
 [
-"https://facebook.com/Wilanne4KY",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/wilanne4ky"
+{
+"text": "Chip in!",
+"href": "https://secure.actblue.com/donate/wilanne4ky"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/wilanne4ky"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Wilanne4KY"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

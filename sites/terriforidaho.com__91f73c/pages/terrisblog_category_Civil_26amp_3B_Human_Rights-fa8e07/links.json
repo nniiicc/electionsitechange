@@ -1,60 +1,318 @@
 [
-"https://facebook.com/TerriForIdaho",
-"https://instagram.com/terriforidaho",
-"https://secure.actblue.com/donate/terriforidaho-website",
-"https://store.terriforidaho.com/",
-"https://terriforidaho.com/",
-"https://terriforidaho.com/about",
-"https://terriforidaho.com/cart",
-"https://terriforidaho.com/contact",
-"https://terriforidaho.com/endorsements",
-"https://terriforidaho.com/events",
-"https://terriforidaho.com/get-involved",
-"https://terriforidaho.com/issues",
-"https://terriforidaho.com/learn-more",
-"https://terriforidaho.com/media",
-"https://terriforidaho.com/terrisblog",
-"https://terriforidaho.com/terrisblog/campaign-launch",
-"https://terriforidaho.com/terrisblog/category/2022+Election+News",
-"https://terriforidaho.com/terrisblog/category/2026+Election+News",
-"https://terriforidaho.com/terrisblog/category/COVID+19",
-"https://terriforidaho.com/terrisblog/category/Civil+%26amp%3B+Human+Rights",
-"https://terriforidaho.com/terrisblog/category/Criminal+Justice",
-"https://terriforidaho.com/terrisblog/category/Extremism",
-"https://terriforidaho.com/terrisblog/category/First+Responders",
-"https://terriforidaho.com/terrisblog/category/Health+Care",
-"https://terriforidaho.com/terrisblog/category/Idaho+Families",
-"https://terriforidaho.com/terrisblog/category/Idaho+Legislature",
-"https://terriforidaho.com/terrisblog/category/Jobs+%2F+Economic+Growth",
-"https://terriforidaho.com/terrisblog/category/Property+Taxes",
-"https://terriforidaho.com/terrisblog/category/Public+Education",
-"https://terriforidaho.com/terrisblog/category/Public+Infrastructure",
-"https://terriforidaho.com/terrisblog/category/Public+Lands",
-"https://terriforidaho.com/terrisblog/category/Redistricting+%26amp%3B+Ge...",
-"https://terriforidaho.com/terrisblog/category/Reproductive+Rights",
-"https://terriforidaho.com/terrisblog/does-your-neighbor-have-a-right-to-tell-you-your-business",
-"https://terriforidaho.com/terrisblog/every-idahoan-should-have-opportunity-to-succeed",
-"https://terriforidaho.com/terrisblog/i-oppose-the-decision-to-print-a-bill-seeking-to-outlaw-same-sex-marriage-in-idaho",
-"https://terriforidaho.com/terrisblog/idaho-has-a-problem-with-bullies-in-power",
-"https://terriforidaho.com/terrisblog/its-a-bedke-promise-opposes-free",
-"https://terriforidaho.com/terrisblog/light-your-flame",
-"https://terriforidaho.com/terrisblog/love-wins",
-"https://terriforidaho.com/terrisblog/mama-bear",
-"https://terriforidaho.com/terrisblog/my-statement-on-scotus-overturning-roe-v-wade",
-"https://terriforidaho.com/terrisblog/my-take-on-the-state-of-our-democracy",
-"https://terriforidaho.com/terrisblog/new-idaho-value-leave-it-worse-than-you-found-it",
-"https://terriforidaho.com/terrisblog/speaker-bedkes-silence-endorses-hate-groups",
-"https://terriforidaho.com/terrisblog/statement-from-the-idaho-governor-that-we-need",
-"https://terriforidaho.com/terrisblog/the-age-of-thinking-dangerously",
-"https://terriforidaho.com/terrisblog/the-trump-takeover-has-started",
-"https://terriforidaho.com/terrisblog/this-4th-of-july-the-fight-is-here",
-"https://terriforidaho.com/terrisblog/to-stop-losing-freedoms-raise-your-voice-cast-your-vote",
-"https://terriforidaho.com/terrisblog/tomorrow-needs-you-today",
-"https://terriforidaho.com/terrisblog/vote-no-on-a-full-time-legislature",
-"https://terriforidaho.com/volunteer-sign-up",
-"https://terriforidaho.com/voting",
-"https://terriforidaho.com/yard-signs",
-"https://threads.com/@terriforidaho",
-"https://tiktok.com/terriforidaho",
-"https://youtube.com/@terriforidaho"
+{
+"text": "0",
+"href": "https://www.terriforidaho.com/cart"
+},
+{
+"text": "2022 Election News",
+"href": "https://www.terriforidaho.com/terrisblog/category/2022+Election+News"
+},
+{
+"text": "2026 Election News",
+"href": "https://www.terriforidaho.com/terrisblog/category/2026+Election+News"
+},
+{
+"text": "About Terri",
+"href": "https://www.terriforidaho.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "COVID 19",
+"href": "https://www.terriforidaho.com/terrisblog/category/COVID+19"
+},
+{
+"text": "Civil & Human Rights",
+"href": "https://www.terriforidaho.com/terrisblog/category/Civil+%26amp%3B+Human+Rights"
+},
+{
+"text": "Contact Us",
+"href": "https://www.terriforidaho.com/contact"
+},
+{
+"text": "Criminal Justice",
+"href": "https://www.terriforidaho.com/terrisblog/category/Criminal+Justice"
+},
+{
+"text": "Does Your Neighbor Have a Right to Tell You Your Business?",
+"href": "https://www.terriforidaho.com/terrisblog/does-your-neighbor-have-a-right-to-tell-you-your-business"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/terriforidaho-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terriforidaho.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.terriforidaho.com/events"
+},
+{
+"text": "Every Idahoan Should Have Opportunity to Succeed",
+"href": "https://www.terriforidaho.com/terrisblog/every-idahoan-should-have-opportunity-to-succeed"
+},
+{
+"text": "Extremism",
+"href": "https://www.terriforidaho.com/terrisblog/category/Extremism"
+},
+{
+"text": "First Responders",
+"href": "https://www.terriforidaho.com/terrisblog/category/First+Responders"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.terriforidaho.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.terriforidaho.com/learn-more"
+},
+{
+"text": "Health Care",
+"href": "https://www.terriforidaho.com/terrisblog/category/Health+Care"
+},
+{
+"text": "I oppose the decision to print a bill seeking to outlaw same-sex marriage in Idaho",
+"href": "https://www.terriforidaho.com/terrisblog/i-oppose-the-decision-to-print-a-bill-seeking-to-outlaw-same-sex-marriage-in-idaho"
+},
+{
+"text": "Idaho Families",
+"href": "https://www.terriforidaho.com/terrisblog/category/Idaho+Families"
+},
+{
+"text": "Idaho Has a Problem With Bullies in Power",
+"href": "https://www.terriforidaho.com/terrisblog/idaho-has-a-problem-with-bullies-in-power"
+},
+{
+"text": "Idaho Legislature",
+"href": "https://www.terriforidaho.com/terrisblog/category/Idaho+Legislature"
+},
+{
+"text": "Issues",
+"href": "https://www.terriforidaho.com/issues"
+},
+{
+"text": "It's a Bedke Promise: Opposing All Things \"Free\"",
+"href": "https://www.terriforidaho.com/terrisblog/its-a-bedke-promise-opposes-free"
+},
+{
+"text": "Jobs / Economic Growth",
+"href": "https://www.terriforidaho.com/terrisblog/category/Jobs+%2F+Economic+Growth"
+},
+{
+"text": "Light Your Flame",
+"href": "https://www.terriforidaho.com/terrisblog/light-your-flame"
+},
+{
+"text": "Love Wins",
+"href": "https://www.terriforidaho.com/terrisblog/love-wins"
+},
+{
+"text": "Mama Bear",
+"href": "https://www.terriforidaho.com/terrisblog/mama-bear"
+},
+{
+"text": "Media",
+"href": "https://www.terriforidaho.com/media"
+},
+{
+"text": "My Statement on SCOTUS Overturning Roe v. Wade",
+"href": "https://www.terriforidaho.com/terrisblog/my-statement-on-scotus-overturning-roe-v-wade"
+},
+{
+"text": "My take on the state of our democracy?",
+"href": "https://www.terriforidaho.com/terrisblog/my-take-on-the-state-of-our-democracy"
+},
+{
+"text": "New Idaho Value: Leave It Worse Than You Found It?",
+"href": "https://www.terriforidaho.com/terrisblog/new-idaho-value-leave-it-worse-than-you-found-it"
+},
+{
+"text": "Property Taxes",
+"href": "https://www.terriforidaho.com/terrisblog/category/Property+Taxes"
+},
+{
+"text": "Public Education",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Education"
+},
+{
+"text": "Public Infrastructure",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Infrastructure"
+},
+{
+"text": "Public Lands",
+"href": "https://www.terriforidaho.com/terrisblog/category/Public+Lands"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/campaign-launch"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/does-your-neighbor-have-a-right-to-tell-you-your-business"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/every-idahoan-should-have-opportunity-to-succeed"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/i-oppose-the-decision-to-print-a-bill-seeking-to-outlaw-same-sex-marriage-in-idaho"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/idaho-has-a-problem-with-bullies-in-power"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/its-a-bedke-promise-opposes-free"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/light-your-flame"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/love-wins"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/mama-bear"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/my-statement-on-scotus-overturning-roe-v-wade"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/my-take-on-the-state-of-our-democracy"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/new-idaho-value-leave-it-worse-than-you-found-it"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/speaker-bedkes-silence-endorses-hate-groups"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/statement-from-the-idaho-governor-that-we-need"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/the-age-of-thinking-dangerously"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/the-trump-takeover-has-started"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/this-4th-of-july-the-fight-is-here"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/to-stop-losing-freedoms-raise-your-voice-cast-your-vote"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/tomorrow-needs-you-today"
+},
+{
+"text": "Read More",
+"href": "https://www.terriforidaho.com/terrisblog/vote-no-on-a-full-time-legislature"
+},
+{
+"text": "Redistricting & Ge...",
+"href": "https://www.terriforidaho.com/terrisblog/category/Redistricting+%26amp%3B+Ge..."
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.terriforidaho.com/terrisblog/category/Reproductive+Rights"
+},
+{
+"text": "Speaker Bedke's Silence Endorses Hate Groups",
+"href": "https://www.terriforidaho.com/terrisblog/speaker-bedkes-silence-endorses-hate-groups"
+},
+{
+"text": "Statement from the Idaho Governor that We Need:",
+"href": "https://www.terriforidaho.com/terrisblog/statement-from-the-idaho-governor-that-we-need"
+},
+{
+"text": "Store",
+"href": "https://store.terriforidaho.com/"
+},
+{
+"text": "Terri Pickens Manweiler Lieutenant Governor Candidacy Announcement",
+"href": "https://www.terriforidaho.com/terrisblog/campaign-launch"
+},
+{
+"text": "Terri Pickens for Governor",
+"href": "https://www.terriforidaho.com/"
+},
+{
+"text": "Terri's Blog",
+"href": "https://www.terriforidaho.com/terrisblog"
+},
+{
+"text": "The Age of Thinking Dangerously",
+"href": "https://www.terriforidaho.com/terrisblog/the-age-of-thinking-dangerously"
+},
+{
+"text": "The Trump Takeover Has Started",
+"href": "https://www.terriforidaho.com/terrisblog/the-trump-takeover-has-started"
+},
+{
+"text": "This 4th of July the Fight Is Here",
+"href": "https://www.terriforidaho.com/terrisblog/this-4th-of-july-the-fight-is-here"
+},
+{
+"text": "To Stop Losing Freedoms, Raise Your Voice, Cast Your Vote",
+"href": "https://www.terriforidaho.com/terrisblog/to-stop-losing-freedoms-raise-your-voice-cast-your-vote"
+},
+{
+"text": "Tomorrow Needs You Today",
+"href": "https://www.terriforidaho.com/terrisblog/tomorrow-needs-you-today"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terriforidaho.com/volunteer-sign-up"
+},
+{
+"text": "Vote NO on a Full-time Legislature",
+"href": "https://www.terriforidaho.com/terrisblog/vote-no-on-a-full-time-legislature"
+},
+{
+"text": "Voting",
+"href": "https://www.terriforidaho.com/voting"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.terriforidaho.com/yard-signs"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TerriForIdaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/terriforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@terriforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@terriforidaho"
+}
 ]

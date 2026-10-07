@@ -1,3 +1,5 @@
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate Meet Chris Chris Mann has dedicated his life to public service.
+As a cop, prosecutor, and victims’ advocate, Chris has always prioritized serving his community and holding criminals accountable.
 Chris Mann has dedicated his life to serving and protecting Kansas communities – first as a police officer and then as a prosecutor.
 He will defend the Constitution, protect the rule of law, and ensure Kansas families are safe.
 Chris knew from an early age that he wanted to serve his community.
@@ -20,3 +22,6 @@ In 2019, Chris expanded his law practice and returned his focus primarily to rep
 With experience in a wide range of legal areas, as well as a deep understanding of law enforcement, Chris brings a unique perspective to serving all Kansans.
 Chris is married to Ashley Mann, a Cardiothoracic surgeon in Olathe.
 They live in Lawrence with their two kids, Skylar and William.
+Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+Docking Treasurer.
+Privacy Policy

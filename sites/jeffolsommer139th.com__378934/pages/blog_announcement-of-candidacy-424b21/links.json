@@ -1,6 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61556659345381",
-"https://jeffolsommer139th.com/",
-"https://jeffolsommer139th.com/blog",
-"https://secure.anedot.com/friends-of-jeff-olsommer/donate"
+{
+"text": "Blog",
+"href": "https://www.jeffolsommer139th.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-jeff-olsommer/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jeffolsommer139th.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.jeffolsommer139th.com/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/profile.php?id=61556659345381"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/profile.php?id=61556659345381"
+}
 ]

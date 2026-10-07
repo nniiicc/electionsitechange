@@ -1,5 +1,3 @@
-Previous
-Previous
-From Kansas advocate to Kansas legislator: Lawrence’s Suzanne Wikle launches inaugural term
-Next
-Next
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE Kansas Republicans revive gender-affirming care ban for trans youths In the News Jan 28 Written By Suzanne Wikle Suzanne Wikle Previous Previous From Kansas advocate to Kansas legislator: Lawrence’s Suzanne Wikle launches inaugural term Next Next Meet a candidate for Kansas House District 10 Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

@@ -1,14 +1,62 @@
 [
-"https://drjanegillette.com/",
-"https://drjanegillette.com/about",
-"https://drjanegillette.com/contact",
-"https://drjanegillette.com/contribute",
-"https://drjanegillette.com/home",
-"https://drjanegillette.com/store/cart",
-"https://drjanegillette.com/the-boring-stuff",
-"https://drjanegillette.com/the-issues",
-"https://drjanegillette.com/volunteer",
-"https://facebook.com/DrJaneGillette",
-"https://instagram.com/drjanegillette",
-"https://poli-site.com/"
+{
+"text": "About",
+"href": "https://drjanegillette.com/about"
+},
+{
+"text": "About Dr. Jane",
+"href": "https://drjanegillette.com/about"
+},
+{
+"text": "Contact",
+"href": "https://drjanegillette.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://drjanegillette.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://drjanegillette.com/home"
+},
+{
+"text": "Issues",
+"href": "https://drjanegillette.com/the-issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://drjanegillette.com/about"
+},
+{
+"text": "Powered by Poli-Site",
+"href": "https://poli-site.com/"
+},
+{
+"text": "The Boring Stuff",
+"href": "https://drjanegillette.com/the-boring-stuff"
+},
+{
+"text": "The Issues",
+"href": "https://drjanegillette.com/the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://drjanegillette.com/volunteer"
+},
+{
+"text": "[image: Jane Gillette for House District 77]",
+"href": "https://drjanegillette.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DrJaneGillette"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drjanegillette"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://drjanegillette.com/store/cart"
+}
 ]

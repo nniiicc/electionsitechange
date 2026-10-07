@@ -1,3 +1,4 @@
-Get Involved with #TeamLiish
-I believe that together we can create a state that lives out our bold and progressive values.
+0 Skip to Content About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Get Involved with #TeamLiish I believe that together we can create a state that lives out our bold and progressive values.
 Be a part of this vision by joining our campaign team to door-knock for Duluth DFL candidates, door-knock for area DFL candidates, create texts/emails to friends and family, host a house party, spread the word on social media, attend an event, and everything in between.
+SIGN UP TO VOLUNTEER Host a House Party JOIN OUR FB GROUP Door Knock with Duluth DFL Want to make sure you stay in the loop?
+SUBSCRIBE TO OUR NEWSLETTER #Liish4House #Liish4House #Liish4House prepared and paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026

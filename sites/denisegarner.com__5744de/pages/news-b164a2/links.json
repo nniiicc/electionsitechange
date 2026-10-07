@@ -1,9 +1,30 @@
 [
-"https://denisegarner.com/",
-"https://denisegarner.com/experience",
-"https://denisegarner.com/issues",
-"https://denisegarner.com/news",
-"https://facebook.com/deniseforArkansas20",
-"https://secure.actblue.com/donate/denisegarner",
-"https://twitter.com/DeniseforAR"
+{
+"text": "Donate Here!",
+"href": "https://secure.actblue.com/donate/denisegarner"
+},
+{
+"text": "Experience",
+"href": "https://denisegarner.com/experience/"
+},
+{
+"text": "Issues",
+"href": "https://denisegarner.com/issues/"
+},
+{
+"text": "News",
+"href": "https://denisegarner.com/news/"
+},
+{
+"text": "[image]",
+"href": "https://denisegarner.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/deniseforArkansas20/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/DeniseforAR"
+}
 ]

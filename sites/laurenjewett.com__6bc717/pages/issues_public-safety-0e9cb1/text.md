@@ -1,13 +1,9 @@
-All issues
-Public Safety policy details
-Background
-Safety isn't a talking point.
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE Public Safety ← All issues Public Safety policy details Background Safety isn't a talking point.
 It's a promise you make to the people in your life — your students, your neighbors, your kids.
 Lauren has spent 17 years in classrooms and knows what it feels like to run an active shooter drill with 10-year olds and pretend it's normal.
 It shouldn't be normal.
 And in Louisiana’s 1st District, on too many issues that touch our safety, the people we send to Washington have stopped showing up for us.
-Gun Violence Prevention
-Steve Scalise has an A+ rating from the NRA.
+Gun Violence Prevention Steve Scalise has an A+ rating from the NRA.
 He survived being shot on a baseball field in 2017.
 Yet months later, he led House Republican opposition to the Bipartisan Safer Communities Act, the first major federal gun safety law in nearly 30 years.
 That bill funded crisis intervention, closed the "boyfriend loophole" for domestic abusers, and strengthened background checks for buyers under 21.
@@ -27,13 +23,11 @@ Our gun law ranking dropped from 26th to 33rd in the country as a result.
 Lauren is not interested in taking anyone's guns.
 She is interested in keeping them out of the wrong hands.
 Those are different things, and Louisiana voters know the difference.
-Community violence
-Real public safety isn't just about the moment a crime happens.
+Community violence Real public safety isn't just about the moment a crime happens.
 It's about everything upstream of it including mental health care, youth programs, quality and stability in our schools, strong public infrastructure, economic opportunity, and law enforcement that has the staffing and training to do its job well.
 Cutting those investments doesn't make us safer.
 It just moves the cost somewhere else, usually onto emergency rooms and jails.
-Over-policing and overcriminalization
-Louisiana locks up more of its people, per capita, than any democracy on earth and we have an incarceration rate of roughly 1,067 per 100,000 residents.
+Over-policing and overcriminalization Louisiana locks up more of its people, per capita, than any democracy on earth and we have an incarceration rate of roughly 1,067 per 100,000 residents.
 This is a distinction the state has held for decades.
 Louisiana's own bipartisan Justice Reinvestment Task Force looked at the numbers and found the honest answer: it isn't because Louisiana has more violent crime than its neighbors.
 It's because Louisiana sends people to prison for nonviolent offenses — drug possession most of all — far more often than almost anywhere else.
@@ -47,9 +41,23 @@ In New Orleans, police were caught running real-time facial recognition surveill
 This was done quietly, for years, without telling the public they were doing it.
 Watching everyone doesn't make anyone safer.
 It erodes the trust that actually keeps communities and police working together, and it's communities of color who pay the price first.
-Lauren’s Priorities in Congress
-Because facts matter:
-By providing your mobile number, you agree to receive periodic campaign updates.
+Lauren’s Priorities in Congress Pass sensible gun legislation that keeps everyone safe.
+This includes supporting universal background checks, red flag laws that give families and law enforcement a real tool to intervene before tragedy, and closing the loopholes that let domestic abusers and stalkers slip through.
+Fund school safety infrastructure and mental health staffing Invest in proactive measures that have been shown to prevent crime.
+Fully fund community mental health and crisis response, so police aren't the only number to call in a mental health emergency.
+Support competitive pay, real staffing levels, comprehensive sensitivity and de-escalation training, and body cameras for local and state law enforcement.
+Back proven community violence intervention programs, especially in the neighborhoods that need them most.
+Protect survivors and victims.
+Close remaining gaps in domestic violence protections and make sure survivors have a real path to safety, not just a restraining order and a prayer.
+Address over-policing and surveillance overreach by requiring real transparency and independent oversight before any department deploys facial recognition, license plate readers, or predictive policing tools– and ensure real consequences when they break their own rules.
+Oppose treating poverty, addiction, and homelessness as crimes when what people need is treatment and housing.
+Push to redirect Louisiana away from a nonviolent-offense pipeline toward diversion and treatment that actually reduces reoffending Eliminate all federal contracts with private prisons.
+Work to create a framework for national decriminalization of marijuana.
+Because facts matter: EveryStat Omnilert Johns Hopkins Bloomberg School of Public Health Prison Policy Initiative Human Trafficking Search Jesuit Social Research Institute Government Technology Yahoo News Join Our Fight to Put Working People First.
+Email Zip Phone Number (optional) Sign Up By providing your mobile number, you agree to receive periodic campaign updates.
 Message and data rates may apply.
 Reply STOP to opt out.
-Read our privacy policy.
+Read our privacy policy .
+STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

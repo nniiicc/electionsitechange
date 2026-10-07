@@ -1,17 +1,78 @@
 [
-"http://facebook.com/debforwisconsin",
-"http://instagram.com/debforwi",
-"http://twitter.com/debforwi",
-"https://debforwi.com/",
-"https://debforwi.com/aboutdeb",
-"https://debforwi.com/awardsandendorsements",
-"https://debforwi.com/cart",
-"https://debforwi.com/events",
-"https://debforwi.com/meet-deb",
-"https://debforwi.com/support-deb",
-"https://debforwi.com/yardsign",
-"https://legis.wisconsin.gov/ltsb/gisdocs/WI2023Act94/ASM_Districts/ASM23_WI2023Act94_Poster_Map.pdf",
-"https://maps.legis.wisconsin.gov/?version=2022",
-"https://secure.actblue.com/donate/friends-of-deb-andraca-1",
-"https://secure.ngpvan.com/7G3L53xOA0ONcHSyHJb-rA2"
+{
+"text": "0",
+"href": "https://www.debforwi.com/cart"
+},
+{
+"text": "About Deb",
+"href": "https://www.debforwi.com/aboutdeb"
+},
+{
+"text": "Awards and Endorsements",
+"href": "https://www.debforwi.com/awardsandendorsements"
+},
+{
+"text": "Back",
+"href": "https://www.debforwi.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+},
+{
+"text": "Events",
+"href": "https://www.debforwi.com/events"
+},
+{
+"text": "Find your legislators",
+"href": "https://maps.legis.wisconsin.gov?address=&lat=&lon=&version=2022"
+},
+{
+"text": "Folder: Meet Deb",
+"href": "https://www.debforwi.com/meet-deb"
+},
+{
+"text": "Folder: Support Deb",
+"href": "https://www.debforwi.com/support-deb"
+},
+{
+"text": "Learn more about Deb",
+"href": "https://www.debforwi.com/aboutdeb"
+},
+{
+"text": "Make a Contribution",
+"href": "https://secure.actblue.com/donate/friends-of-deb-andraca-1"
+},
+{
+"text": "Sign up here",
+"href": "https://secure.ngpvan.com/7G3L53xOA0ONcHSyHJb-rA2"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.debforwi.com/yardsign"
+},
+{
+"text": "[image: Deb Andraca for Assembly]",
+"href": "https://www.debforwi.com/"
+},
+{
+"text": "[image]",
+"href": "https://legis.wisconsin.gov/ltsb/gisdocs/WI2023Act94/ASM_Districts/ASM23_WI2023Act94_Poster_Map.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/debforwisconsin"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/debforwi"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/debforwi"
+},
+{
+"text": "info@debforwi.com",
+"href": "mailto:info@debforwi.com?subject=Hello"
+}
 ]

@@ -1,22 +1,18 @@
-"I'm an attorney, small business owner and married father of three.
+Meet Ross Issues Volunteer Contribute Request a yard sign!
+Support Ross Thomas for Indiana State Senate Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up "I'm an attorney, small business owner and married father of three.
 If elected I will answer to my neighbors, not some politician in Washington.
 I'm not focused on national politics and I have no time for "Culture War" issues.
-I am focused on finding common sense ways to help Hoosier families and improve our quality of life." - Ross Thomas
-Here are some of Ross's priorities if elected:
-Renewing Our Commitment to Public Education
-Nothing is more important to our state than public education, and there are few areas where the State Legislature has more power to actually fix things than in the area of education.
+I am focused on finding common sense ways to help Hoosier families and improve our quality of life." - Ross Thomas Here are some of Ross's priorities if elected: Renewing Our Commitment to Public Education Nothing is more important to our state than public education, and there are few areas where the State Legislature has more power to actually fix things than in the area of education.
 We need to respect public school teachers, pay them what they deserve and fully support their collective bargaining rights.
 We must give our public school teachers and administrators the resources they need to offer our kids a positive learning experience, with less focus on standardized testing and more focus on actual learning.
 We must end the failed policy that gives tax dollars to private charter and voucher schools, which push profits to investors while failing to deliver on the promise of a high quality education- all the while weakening our public schools and lowering education standards.
 Right now our teachers seem to be under attack with fake controversies that create a climate of fear and anger based on misinformation.
 I want to be a voice that supports teachers, not one that stokes fears and division.
-Supporting a Woman's Right to Make Her Own Medical Decisions
-Since the United States Supreme Court overturned the precedent of Roe v.
+Supporting a Woman's Right to Make Her Own Medical Decisions Since the United States Supreme Court overturned the precedent of Roe v.
 Wade, Indiana Republicans made good on their promise to implement a near total ban on abortion in Indiana.
 I strongly believe that the state government has no business taking such personal decisions away from women.
 Decisions about medical care and family planning are private, and should be left to the individual.
-Better Jobs, Higher Wages
-All politicians talk about jobs, but not enough talk about wages.
+Better Jobs, Higher Wages All politicians talk about jobs, but not enough talk about wages.
 Indiana has made improvements in job numbers but has failed to keep up with our neighbors when it comes to wage growth.
 We must invest in career training, infrastructure and education in order to attract and retain good paying jobs.
 Working families need access to quality healthcare, affordable childcare and transportation in order to succeed in the workplace.
@@ -25,17 +21,18 @@ Indiana needs to see organized labor as an important partner in our economic pol
 I fully support the labor movement and believe all workers have the right to collectively bargain.
 Things like "Right to Work" and the repeal of the Common Construction Wage are just two examples of a state government that promotes policies that keep wages low.
 We need to reverse those policies and stop our race to the bottom when it comes to wages.
-True Ethics Reform in the Statehouse
-Most states have laws and rules that prohibit members of the state legislature from accepting gifts from lobbyists.
+True Ethics Reform in the Statehouse Most states have laws and rules that prohibit members of the state legislature from accepting gifts from lobbyists.
 Many are surprised to learn that Indiana places few restrictions on the practice.
 While other Indiana state employees must adhere to strict rules against accepting gifts, our elected representatives choose not to follow those rules themselves.
 As a result, lobbyists descend upon the Statehouse to quite literally ‘wine and dine’ the men and women who will be voting on legislation being pushed by those very lobbyists- fancy dinners, tickets to sporting events and other gifts are just a normal part of business as usual at the State Capitol.
 We need to change our laws to end this activity.
 But, whether it is legally permitted or not, I will pledge not to accept gifts of any kind from lobbyists.
-Legalizing Marijuana
-As an attorney in Indiana for the last 29 years, I have seen first hand the damage done by our failed system of marijuana criminalization in Indiana.
+Legalizing Marijuana As an attorney in Indiana for the last 29 years, I have seen first hand the damage done by our failed system of marijuana criminalization in Indiana.
 The amount of money we spend to criminalize marijuana could be put to better use.
 I’d love to live in a state where the police use the resources we now spend finding an adult smoking pot in his backyard to better investigate domestic violence and theft.
 I also know that many people who suffer from debilitating illnesses can benefit from the medical use of cannabis.
 It’s simply ridiculous to deny Hoosiers relief based on our outdated marijuana policies.
 If we legalize the possession of cannabis across Indiana the state’s ag and business communities will have the opportunity to create another revenue stream for the Indiana General Assembly; we’ll create a lot more good-paying jobs -- and compete with surrounding states in the process; all Hoosiers - including veterans and seniors - will have access to the therapeutic benefits of cannabis; Indiana can deliver a solid punch in the fight against the opioid epidemic; and, legalization is another opportunity to expunge criminal records of Hoosiers who were arrested for simple possession.
+The Committee to Elect Ross G.
+Thomas 3129 25th Street, #242 Columbus, Indiana 47203 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Voter Information Contact Volunteer Committee to Elect Ross Thomas Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ross Issues Contribute Volunteer Contact Voter Information Close Menu

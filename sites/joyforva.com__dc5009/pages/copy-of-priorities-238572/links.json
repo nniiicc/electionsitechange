@@ -1,15 +1,62 @@
 [
-"https://facebook.com/search/top?q=joy+powers+for+congress",
-"https://instagram.com/joyforcongress",
-"https://joyforva.com/",
-"https://joyforva.com/about-3",
-"https://joyforva.com/blog",
-"https://joyforva.com/copy-of-priorities",
-"https://joyforva.com/joypowersevents",
-"https://joyforva.com/meet-joy",
-"https://joyforva.com/privacy-policy",
-"https://joyforva.com/s-projects-side-by-side",
-"https://secure.actblue.com/donate/joy-powers-3",
-"https://wix.com/",
-"https://youtube.com/results?sp=mAEB&search_query=joy+powers+for+congress"
+{
+"text": "Connect@JoyforVA.Com",
+"href": "mailto:Connect@JoyforVA.Com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joy-powers-3"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.joyforva.com/about-3"
+},
+{
+"text": "EVENTS",
+"href": "https://www.joyforva.com/joypowersevents"
+},
+{
+"text": "HOME",
+"href": "https://www.joyforva.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.joyforva.com/blog"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.joyforva.com/s-projects-side-by-side"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.joyforva.com/privacy-policy"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.joyforva.com/copy-of-priorities"
+},
+{
+"text": "WHO IS JOY",
+"href": "https://www.joyforva.com/meet-joy"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/search/top?q=joy+powers+for+congress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joyforcongress/"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/results?sp=mAEB&search_query=joy+powers+for+congress"
+},
+{
+"text": "connect@joyforva.com",
+"href": "mailto:connect@joyforva.com"
+}
 ]

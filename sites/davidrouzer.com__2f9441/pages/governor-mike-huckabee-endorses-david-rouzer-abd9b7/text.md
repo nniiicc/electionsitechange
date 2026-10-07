@@ -1,8 +1,6 @@
-FOR IMMEDIATE RELEASE
-October 28, 2014
-Wilmington, NC — Former Arkansas Governor Mike Huckabee has endorsed David Rouzer for Congress in North Carolina’s 7th Congressional District.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Governor Mike Huckabee endorses David Rouzer October 28, 2014 FOR IMMEDIATE RELEASE October 28, 2014 Wilmington, NC — Former Arkansas Governor Mike Huckabee has endorsed David Rouzer for Congress in North Carolina’s 7th Congressional District.
 “David Rouzer’s commitment to protect the unborn, his defense of traditional marriage, and his support for our Second Amendment rights make him the best choice for North Carolina’s Seventh District.
-I fully support David’s campaign for Congress,” said Governor Huckabee in a statement on his HuckPAC website.
+I fully support David’s campaign for Congress,” said Governor Huckabee in a statement on his HuckPAC website .
 “I am honored to have the endorsement of Governor Mike Huckabee for my campaign,” said David Rouzer.
-“Governor Huckabee shares my concerns about the future of our country and the need to return common-sense leadership to Washington.”
-##
+“Governor Huckabee shares my concerns about the future of our country and the need to return common-sense leadership to Washington.” ## Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

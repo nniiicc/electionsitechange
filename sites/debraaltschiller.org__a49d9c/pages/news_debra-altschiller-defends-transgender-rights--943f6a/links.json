@@ -1,14 +1,54 @@
 [
-"https://debraaltschiller.org/",
-"https://debraaltschiller.org/about-3",
-"https://debraaltschiller.org/about-debra",
-"https://debraaltschiller.org/general-1",
-"https://debraaltschiller.org/get-involved",
-"https://debraaltschiller.org/news",
-"https://debraaltschiller.org/photo-gallery-1",
-"https://debraaltschiller.org/team-4",
-"https://facebook.com/Debra4NHSenate",
-"https://instagram.com/debrasateam?hl=en",
-"https://secure.actblue.com/donate/committee-to-elect-debra-altschiller-2",
-"https://tiktok.com/@debrasateam"
+{
+"text": "< Back",
+"href": "https://www.debraaltschiller.org/news"
+},
+{
+"text": "ABOUT DEBRA",
+"href": "https://www.debraaltschiller.org/about-debra"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-debra-altschiller-2"
+},
+{
+"text": "ENDORSMENTS",
+"href": "https://www.debraaltschiller.org/team-4"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.debraaltschiller.org/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.debraaltschiller.org"
+},
+{
+"text": "In The News",
+"href": "https://www.debraaltschiller.org/news"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.debraaltschiller.org/about-3"
+},
+{
+"text": "PHOTO GALLERY",
+"href": "https://www.debraaltschiller.org/photo-gallery-1"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.debraaltschiller.org/general-1"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/Debra4NHSenate"
+},
+{
+"text": "[image: Instagram Social Icon]",
+"href": "https://www.instagram.com/debrasateam/?hl=en"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@debrasateam"
+}
 ]

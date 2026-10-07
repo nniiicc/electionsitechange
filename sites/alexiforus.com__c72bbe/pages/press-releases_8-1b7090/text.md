@@ -1,19 +1,3 @@
-Press Releases
-SEIU Illinois Endorses Giannoulias for Secretary of State in 2022
-The Service Employees International Union (SEIU) State Council, representing 150,000 Illinois workers in health care, property services and the public sector, have endorsed Democrat Alexi Giannoulias for Illinois Secretary of State in 2022.
-Southern IL Democrats Endorse Giannoulias for Secretary of State
-Party Leaders Praise Former Treasurer’s Commitment to Downstate; Middle-Class Values
-Giannoulias Calls for Stronger State Ethics Laws
-Secretary of State candidate seeks more restrictions, transparency, oversight to prevent abuse
-Giannoulias Releases First 2022 Campaign Ad for Secretary of State
-Highlights former Treasurer’s battle to save jobs at Hartmarx, help workers at Republic Windows
-Giannoulias Ends Quarter with more than $2.1 million in Campaign for Secretary of State Race
-Former Illinois State Treasurer Exceeds Fundraising Goals
-Illinois IATSE Locals Endorse Giannoulias for Illinois Secretary of State
-Illinois International Alliance of Theatrical Stage Employees (IATSE) Locals voted this week to endorse former State Treasurer Alexi Giannoulias for Illinois Secretary of State.
-Giannoulias Releases First Spanish Language Video
-Former State Treasurer Exploring Run for Secretary of State
-Giannoulias Lanza Su Primer Video En Español
-El Ex Tesorero de Estado Explora Campaña para Secretario de Estado
-Organized Labor Endorses Giannoulias for Secretary of State
-Powerful UFCW locals with 64,000+ workers commit support for Giannoulias in 2020 election
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Press Releases SEIU Illinois Endorses Giannoulias for Secretary of State in 2022 The Service Employees International Union (SEIU) State Council, representing 150,000 Illinois workers in health care, property services and the public sector, have endorsed Democrat Alexi Giannoulias for Illinois Secretary of State in 2022.
+Keep Reading → May 25, 2021 Southern IL Democrats Endorse Giannoulias for Secretary of State Party Leaders Praise Former Treasurer’s Commitment to Downstate; Middle-Class Values Keep Reading → May 17, 2021 Giannoulias Calls for Stronger State Ethics Laws Secretary of State candidate seeks more restrictions, transparency, oversight to prevent abuse Keep Reading → May 6, 2021 Giannoulias Releases First 2022 Campaign Ad for Secretary of State Highlights former Treasurer’s battle to save jobs at Hartmarx, help workers at Republic Windows Keep Reading → April 19, 2021 Giannoulias Ends Quarter with more than $2.1 million in Campaign for Secretary of State Race Former Illinois State Treasurer Exceeds Fundraising Goals Keep Reading → April 5, 2021 Illinois IATSE Locals Endorse Giannoulias for Illinois Secretary of State Illinois International Alliance of Theatrical Stage Employees (IATSE) Locals voted this week to endorse former State Treasurer Alexi Giannoulias for Illinois Secretary of State.
+Keep Reading → February 10, 2021 Giannoulias Releases First Spanish Language Video Former State Treasurer Exploring Run for Secretary of State Keep Reading → February 4, 2021 Giannoulias Lanza Su Primer Video En Español El Ex Tesorero de Estado Explora Campaña para Secretario de Estado Keep Reading → February 4, 2021 Organized Labor Endorses Giannoulias for Secretary of State Powerful UFCW locals with 64,000+ workers commit support for Giannoulias in 2020 election Keep Reading → January 27, 2021 Page 1 Page 2 Page 3 Page 4 Page 5 Page 6 Page 7 Page 8 Endorsements Videos In the News Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

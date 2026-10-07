@@ -1,5 +1,4 @@
-Embedded Files
-Los cargos de entrega de Con Edison son exorbitantes.
+Search this site Embedded Files Skip to main content Skip to navigation laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE More Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE ENERGÍA Y ELECTRICIDAD Los cargos de entrega de Con Edison son exorbitantes.
 Es la razón principal por la que consideré postularme.
 Como todos sabemos, muchas veces los cargos de entrega triplican los cargos por uso.
 Además, proponen un aumento del 13-18%.
@@ -29,13 +28,4 @@ El proyecto de ley requerirá que la NYPA sea administrada por funcionarios eleg
 Obtendré fondos federales equivalentes para la reapertura de Indian Point y la construcción de reactores nucleares modulares de última generación, nuevas presas hidroeléctricas y las propias refinerías de Nueva York, modernizando la red eléctrica para reducir los precios a una décima parte de lo que son actualmente.
 Nuestro rival global, China, está construyendo y abriendo cientos de nuevas centrales nucleares, presas hidroeléctricas y yacimientos petrolíferos, mientras nosotros nos congelamos con políticas energéticas suicidas que nos están destruyendo.
 Con este nuevo modelo, Nueva York puede reducir las tarifas de energía de 20¢/kWh a 3¢/kWh, una medida que reactivaría la industria manufacturera, reduciría los costos de la vivienda y convertiría a Nueva York de nuevo en un imán para la inversión.
-- Derogar la Ley de Edificios Totalmente Eléctricos de Hochul
-- Reinvertir en energía nuclear, gas natural, represas hidroeléctricas y las refinerías de Nueva York
-- Ningún país extranjero podrá ser propietario de nuestras plantas o servicios de entrega, ni de ninguna parte de nuestra red eléctrica
-- Deshacerse de la Red Nacional de Distribución de Energía (National Grid) y Central Hudson
-- Devolver el dinero de NYSERDA a los neoyorquinos
-- Solo energía solar inteligente
-- No a las plantas de baterías de litio a lo largo de nuestras vías fluviales
-Page updated
-Google Sites
-Report abuse
+Derogar la Ley de Edificios Totalmente Eléctricos de Hochul Reinvertir en energía nuclear, gas natural, represas hidroeléctricas y las refinerías de Nueva York Ningún país extranjero podrá ser propietario de nuestras plantas o servicios de entrega, ni de ninguna parte de nuestra red eléctrica Deshacerse de la Red Nacional de Distribución de Energía (National Grid) y Central Hudson Devolver el dinero de NYSERDA a los neoyorquinos Solo energía solar inteligente No a las plantas de baterías de litio a lo largo de nuestras vías fluviales LAURIE RYAN for NEW YORK STATE ASSEMBLY DISTRICT 95 VOTE TUESDAY NOVEMBER 3, 2026 Fecha de la Elección: Martes 3 de Noviembre 2026 EARLY VOTING SATURDAY OCTOBER 24 - SUNDAY NOVEMBER 1 Votación anticipada: sábado 24 de Octubre - Domingo 1 de Noviembre ALL LITERATURE, YARDSIGNS, MERCHANDISE, ADS, WEBSITE PAID FOR BY LAURIERYAN4NY PRIVACY POLICY EMAIL FACEBOOK INSTAGRAM Google Sites Report abuse Page details Page updated Google Sites Report abuse

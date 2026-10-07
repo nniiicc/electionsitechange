@@ -1,9 +1,17 @@
 {
  "description": "Join Charles Burkett&#39;s campaign for Florida Governor and make your voice heard in the Florida Governor Election.",
  "final_url": "https://burkettforgov.com/",
- "paid_for_by": null,
+ "fingerprint": "fbcc805306ec8c223312de6362e30c04e4140809",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Burkett for FL Governor",
  "years_mentioned": [
+  "1980",
+  "1983",
+  "1996",
+  "2004",
+  "2006",
+  "2008",
   "2020",
   "2024"
  ]

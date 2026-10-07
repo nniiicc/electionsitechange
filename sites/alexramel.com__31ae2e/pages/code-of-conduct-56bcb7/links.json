@@ -1,14 +1,66 @@
 [
-"https://alexramel.com/",
-"https://alexramel.com/about-alex",
-"https://alexramel.com/code-of-conduct",
-"https://alexramel.com/contact",
-"https://alexramel.com/donate",
-"https://alexramel.com/endorsements",
-"https://alexramel.com/s/Code-of-Conduct_-People-for-Alex-Ramel-2022.pdf",
-"https://alexramel.com/search",
-"https://alexramel.com/subscribe",
-"https://alexramel.com/volunteer",
-"https://facebook.com/RepAlexRamel",
-"https://twitter.com/AlexRamel"
+{
+"text": "About",
+"href": "https://www.alexramel.com/about-alex"
+},
+{
+"text": "About Alex",
+"href": "https://www.alexramel.com/about-alex"
+},
+{
+"text": "CampbellLynn87@gmail.com",
+"href": "mailto:CampbellLynn87@gmail.com"
+},
+{
+"text": "Code of Conduct",
+"href": "https://www.alexramel.com/code-of-conduct"
+},
+{
+"text": "Contact",
+"href": "https://www.alexramel.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.alexramel.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.alexramel.com/donate"
+},
+{
+"text": "Download PDF",
+"href": "https://www.alexramel.com/s/Code-of-Conduct_-People-for-Alex-Ramel-2022.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexramel.com/endorsements"
+},
+{
+"text": "Lauren@hdcc.org",
+"href": "mailto:Lauren@hdcc.org"
+},
+{
+"text": "Subscribe",
+"href": "https://www.alexramel.com/subscribe"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexramel.com/volunteer"
+},
+{
+"text": "[image: Alex Ramel, State Representative (D)]",
+"href": "https://www.alexramel.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AlexRamel"
+},
+{
+"text": "[no text]",
+"href": "https://www.alexramel.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepAlexRamel/"
+}
 ]

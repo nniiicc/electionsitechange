@@ -1,9 +1,42 @@
 [
-"https://electlucillepuckett.com/",
-"https://electlucillepuckett.com/about",
-"https://electlucillepuckett.com/event-list",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://secure.actblue.com/donate/lucille-puckett-1",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup"
+{
+"text": "About",
+"href": "https://www.electlucillepuckett.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electlucillepuckett.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lucille-puckett-1"
+},
+{
+"text": "Events",
+"href": "https://www.electlucillepuckett.com/event-list"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Home",
+"href": "https://www.electlucillepuckett.com"
+},
+{
+"text": "Puckett4NCHouse91@yahoo.com",
+"href": "mailto:Puckett4NCHouse91@yahoo.com"
+},
+{
+"text": "Puckett4NChouse91@yahoo.com",
+"href": "mailto:Puckett4NChouse91@yahoo.com"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+}
 ]

@@ -1,11 +1,46 @@
 [
-"https://bryansteil.com/",
-"https://bryansteil.com/about",
-"https://bryansteil.com/issues",
-"https://bryansteil.com/privacy-policy",
-"https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075925.pdf",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/steilforwisconsin/storefront",
-"https://secure.winred.com/steilforwisconsin/support-bryan-for-congress"
+{
+"text": "About",
+"href": "https://bryansteil.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/steilforwisconsin/support-bryan-for-congress"
+},
+{
+"text": "Home",
+"href": "https://bryansteil.com/"
+},
+{
+"text": "Issues",
+"href": "https://bryansteil.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bryansteil.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Review Bryan’s Financial Disclosure",
+"href": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075925.pdf"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/steilforwisconsin/storefront/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://bryansteil.com/#volunteer"
+},
+{
+"text": "[image: Logo - Bryan Steil for Congress]",
+"href": "https://bryansteil.com/"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://facebook.com/MarkThaneHD89",
-"https://thaneformontana.com/",
-"https://thaneformontana.com/cart",
-"https://thaneformontana.com/contact-me",
-"https://thaneformontana.com/donate",
-"https://thaneformontana.com/endorsements",
-"https://thaneformontana.com/issues"
+{
+"text": "0",
+"href": "https://www.thaneformontana.com/cart"
+},
+{
+"text": "Contact Me",
+"href": "https://www.thaneformontana.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://www.thaneformontana.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.thaneformontana.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.thaneformontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.thaneformontana.com/issues"
+},
+{
+"text": "Mark Thane for HD 89",
+"href": "https://www.thaneformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MarkThaneHD89"
+}
 ]

@@ -1,11 +1,2 @@
-Dr.
-Rosemary Lesser
-Former HD-10 Representative
-Jonny Larsen
-Democratic Candidate, CD4
-Alicia Washington
-Concejo Municipal de Ogden
-Flor Lopez
-Concejo Municipal de Ogden
-Stacy Bernal
-Junta Escolar de Ogden
+Skip to main content Inicio Voluntariado Sobre CJ Plan de Acción Evento Endorsements EN/ES Donar Dr.
+Rosemary Lesser Former HD-10 Representative Jonny Larsen Democratic Candidate, CD4 Alicia Washington Concejo Municipal de Ogden Flor Lopez Concejo Municipal de Ogden Stacy Bernal Junta Escolar de Ogden Utah Democratic Veterans Caucus Utah Democratic Disability Caucus Weber County Democratic Women's Caucus Weber Labor Caucus Utah Parents For Teachers Sierra Club Women's Democratic Club of Utah Better Boundaries Accountability PAC Moms Demand Action United Steelworkers Operating Engineers Local 3 Smart-TD Union Planned Parenthood Action Council of Utah Equality Utah Stewardship Utah Teamsters Local 222 UEA PAC Trabajemos juntos Complete el formulario a continuación para agregar su respaldo Nombre * Correo Electrónico * Número de Teléfono * Company Únase a Mí Política de Privacidad Pagado por CJ para el Senado de Utah, Distrito 5 ×

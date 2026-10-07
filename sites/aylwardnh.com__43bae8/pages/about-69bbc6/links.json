@@ -1,8 +1,30 @@
 [
-"https://aylwardnh.com/",
-"https://aylwardnh.com/about",
-"https://aylwardnh.com/contact",
-"https://aylwardnh.com/missing-children",
-"https://aylwardnh.com/news",
-"https://aylwardnh.com/volunteer"
+{
+"text": "About",
+"href": "https://aylwardnh.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://aylwardnh.com/contact/"
+},
+{
+"text": "Deborah Aylward, NH State Representative:",
+"href": "https://aylwardnh.com"
+},
+{
+"text": "Home",
+"href": "https://aylwardnh.com/"
+},
+{
+"text": "News",
+"href": "https://aylwardnh.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://aylwardnh.com/volunteer/"
+},
+{
+"text": "click here",
+"href": "https://aylwardnh.com/missing-children/"
+}
 ]

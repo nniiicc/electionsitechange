@@ -1,13 +1,46 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://facebook.com/profile.php?id=61553641537071",
-"https://greeneforminnesota.com/",
-"https://greeneforminnesota.com/aboutjulie",
-"https://greeneforminnesota.com/endorsements",
-"https://greeneforminnesota.com/getoutthevote",
-"https://greeneforminnesota.com/new-page-1",
-"https://greeneforminnesota.com/news",
-"https://greeneforminnesota.com/support",
-"https://instagram.com/greeneformn",
-"https://secure.actblue.com/donate/julie-greene-for-minnesota-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-greene-for-minnesota-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.greeneforminnesota.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.greeneforminnesota.com/support"
+},
+{
+"text": "In The News",
+"href": "https://www.greeneforminnesota.com/news"
+},
+{
+"text": "Meet Julie",
+"href": "https://www.greeneforminnesota.com/aboutjulie"
+},
+{
+"text": "Priorities",
+"href": "https://www.greeneforminnesota.com/new-page-1"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "VOTER TOOLBOX",
+"href": "https://www.greeneforminnesota.com/getoutthevote"
+},
+{
+"text": "[image: Greene for Minnesota]",
+"href": "https://www.greeneforminnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553641537071"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/greeneformn"
+}
 ]

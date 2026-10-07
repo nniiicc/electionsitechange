@@ -1,31 +1,138 @@
 [
-"https://census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html",
-"https://crr.bc.edu/should-social-security-invest-in-equities",
-"https://fred.stlouisfed.org/series/M0892AUSM156SNBR",
-"https://pgpf.org/expert-views/fiscal-commission/the-debt-crisis-is-here?_hsmi=282090964&_hsenc=p2ANqtz-_qw-_4WQRp54hVuItIPLw685P03i7k3OqSl4-sQGC71l1Er6rVssvlUK_PTB2THUnTHIO7eXasvXrk6KVvPIx7ESNoIg",
-"https://ssa.gov/news/en/press/releases/2025-06-18.html",
-"https://steve-parsons.com/",
-"https://steve-parsons.com/about",
-"https://steve-parsons.com/additional-page-1",
-"https://steve-parsons.com/additional-page-2",
-"https://steve-parsons.com/cart",
-"https://steve-parsons.com/debate",
-"https://steve-parsons.com/fed-reform",
-"https://steve-parsons.com/get-in-touch",
-"https://steve-parsons.com/gym-training-for-libertarians",
-"https://steve-parsons.com/home",
-"https://steve-parsons.com/immigration",
-"https://steve-parsons.com/immigration-1",
-"https://steve-parsons.com/inflation-1",
-"https://steve-parsons.com/platform",
-"https://steve-parsons.com/prison-reform",
-"https://steve-parsons.com/regulation",
-"https://steve-parsons.com/tariffs",
-"https://steve-parsons.com/topics",
-"https://steve-parsons.com/usmca",
-"https://steve-parsons.com/world-police",
-"https://tariffs/",
-"https://teachingamericanhistory.org/document/speech-on-social-security-2",
-"https://tenthamendmentcenter.com/2024/03/24/the-social-security-and-medicare-scams",
-"https://whitehouse.gov/articles/2025/06/trump-accounts-will-chart-path-to-prosperity-for-a-generation-of-american-kids"
+{
+"text": "0",
+"href": "https://www.steve-parsons.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.steve-parsons.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.steve-parsons.com/"
+},
+{
+"text": "Cut Federal Agencies",
+"href": "https://www.steve-parsons.com/additional-page-2"
+},
+{
+"text": "Debate",
+"href": "https://www.steve-parsons.com/debate"
+},
+{
+"text": "Fed Reform",
+"href": "https://www.steve-parsons.com/fed-reform"
+},
+{
+"text": "Federal Reserve Reform",
+"href": "https://www.steve-parsons.com/fed-reform"
+},
+{
+"text": "Folder: Inflation",
+"href": "https://www.steve-parsons.com/inflation-1"
+},
+{
+"text": "Folder: More Topics",
+"href": "https://www.steve-parsons.com/topics"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.steve-parsons.com/get-in-touch"
+},
+{
+"text": "Gym Training for Libertarians",
+"href": "https://www.steve-parsons.com/gym-training-for-libertarians"
+},
+{
+"text": "Historical Income Tables: Households (census.gov)",
+"href": "https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html"
+},
+{
+"text": "Home",
+"href": "https://www.steve-parsons.com/home"
+},
+{
+"text": "Immigration",
+"href": "https://www.steve-parsons.com/immigration"
+},
+{
+"text": "News Articles",
+"href": "https://www.steve-parsons.com/additional-page-1"
+},
+{
+"text": "Platform",
+"href": "https://www.steve-parsons.com/platform"
+},
+{
+"text": "Prison Reform",
+"href": "https://www.steve-parsons.com/prison-reform"
+},
+{
+"text": "Regulation",
+"href": "https://www.steve-parsons.com/regulation"
+},
+{
+"text": "Should Social Security Invest in Equities? – Center for Retir",
+"href": "https://www.whitehouse.gov/articles/2025/06/trump-accounts-will-chart-path-to-prosperity-for-a-generation-of-american-kids/"
+},
+{
+"text": "Social Security",
+"href": "https://www.steve-parsons.com/immigration-1"
+},
+{
+"text": "Social Security Board of Trustees: Projection for Combined Trust Funds One Year Sooner than Last Year | News | SSA",
+"href": "https://www.ssa.gov/news/en/press/releases/2025-06-18.html"
+},
+{
+"text": "Speech on Social Security | Teaching American History",
+"href": "https://teachingamericanhistory.org/document/speech-on-social-security-2/"
+},
+{
+"text": "Tariffs",
+"href": "https://tariffs"
+},
+{
+"text": "Tariffs",
+"href": "https://www.steve-parsons.com/tariffs"
+},
+{
+"text": "The Debt Crisis is Here (pgpf.org)",
+"href": "https://www.pgpf.org/expert-views/fiscal-commission/the-debt-crisis-is-here?_hsmi=282090964&_hsenc=p2ANqtz-_qw-_4WQRp54hVuItIPLw685P03i7k3OqSl4-sQGC71l1Er6rVssvlUK_PTB2THUnTHIO7eXasvXrk6KVvPIx7ESNoIg"
+},
+{
+"text": "The Social Security and Medicare Scams | Tenth Amendment Center",
+"href": "https://tenthamendmentcenter.com/2024/03/24/the-social-security-and-medicare-scams/"
+},
+{
+"text": "Trump Accounts Will Chart the Path to Prosperity for a Generation of American Kids – The White House",
+"href": "https://www.whitehouse.gov/articles/2025/06/trump-accounts-will-chart-path-to-prosperity-for-a-generation-of-american-kids/"
+},
+{
+"text": "US-Mexico-Canada-A",
+"href": "https://www.steve-parsons.com/usmca"
+},
+{
+"text": "USMCA",
+"href": "https://www.steve-parsons.com/usmca"
+},
+{
+"text": "Unemployment Rate for United States (M0892AUSM156SNBR) | FRED | St. Louis Fed (stlouisfed.org)",
+"href": "https://fred.stlouisfed.org/series/M0892AUSM156SNBR"
+},
+{
+"text": "World Charity and the World Police",
+"href": "https://www.steve-parsons.com/world-police"
+},
+{
+"text": "World Police",
+"href": "https://www.steve-parsons.com/world-police"
+},
+{
+"text": "[image: SteveParsonsLibertarian.com]",
+"href": "https://www.steve-parsons.com/"
+},
+{
+"text": "ement Research (bc.edu)",
+"href": "https://crr.bc.edu/should-social-security-invest-in-equities/"
+}
 ]

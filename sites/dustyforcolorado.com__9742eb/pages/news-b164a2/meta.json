@@ -1,7 +1,11 @@
 {
  "description": "Get the latest news about Dusty Johnson's candidacy for House District 63. Learn about Dusty's background and political experience.",
  "final_url": "https://www.dustyforcolorado.com/news",
- "paid_for_by": null,
+ "fingerprint": "0db1262691db6bd4615b5e6ad3ce33a5160dd6fb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press Dusty Johnson Candidate for Colorado House District 63",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

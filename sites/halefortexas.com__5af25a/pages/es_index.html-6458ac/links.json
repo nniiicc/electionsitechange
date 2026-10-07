@@ -1,28 +1,142 @@
 [
-"https://facebook.com/profile.php?id=61585699384483",
-"https://halefortexas.com/Hale_for_Congress_Financial_Support_Instructions.pdf",
-"https://halefortexas.com/es/44.html",
-"https://halefortexas.com/es/about.html",
-"https://halefortexas.com/es/endorsements.html",
-"https://halefortexas.com/es/index.html",
-"https://halefortexas.com/es/merchandise.html",
-"https://halefortexas.com/es/privacy.html",
-"https://halefortexas.com/es/social.html",
-"https://halefortexas.com/es/terms.html",
-"https://halefortexas.com/es/volunteer.html",
-"https://halefortexas.com/index.html",
-"https://halefortexas.com/vi/index.html",
-"https://halefortexas.com/zh/index.html",
-"https://instagram.com/HaleForTexas",
-"https://secure.winred.com/alexander-hale-for-congress/donate",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=100",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=1000",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=2000",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=25",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=250",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=3500",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=50",
-"https://secure.winred.com/alexander-hale-for-congress/donate?amount=500",
-"https://tiktok.com/@halefortexas",
-"https://x.com/HaleForTexas"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=100"
+},
+{
+"text": "$2,000",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=2000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=250"
+},
+{
+"text": "$3,500",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate?amount=500"
+},
+{
+"text": "44",
+"href": "https://www.halefortexas.com/es/44.html"
+},
+{
+"text": "Apoya la Campaña",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "Aprende Cómo Participar",
+"href": "https://www.halefortexas.com/es/volunteer.html"
+},
+{
+"text": "Conoce Más Sobre Alexander",
+"href": "https://www.halefortexas.com/es/about.html"
+},
+{
+"text": "Conoce a Alexander",
+"href": "https://www.halefortexas.com/es/about.html"
+},
+{
+"text": "Contribuir Ahora",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "Donar",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "EN",
+"href": "https://www.halefortexas.com/index.html"
+},
+{
+"text": "ES",
+"href": "https://www.halefortexas.com/es/index.html"
+},
+{
+"text": "Endosos",
+"href": "https://www.halefortexas.com/es/endorsements.html"
+},
+{
+"text": "Escribe un cheque",
+"href": "https://www.halefortexas.com/Hale_for_Congress_Financial_Support_Instructions.pdf"
+},
+{
+"text": "Letreros de Jardín",
+"href": "https://www.halefortexas.com/es/volunteer.html"
+},
+{
+"text": "Organiza un Evento",
+"href": "https://www.halefortexas.com/es/volunteer.html"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.halefortexas.com/es/privacy.html"
+},
+{
+"text": "Redes Sociales",
+"href": "https://www.halefortexas.com/es/social.html"
+},
+{
+"text": "Regístrate como Voluntario",
+"href": "https://www.halefortexas.com/es/volunteer.html"
+},
+{
+"text": "TT",
+"href": "https://www.tiktok.com/@halefortexas"
+},
+{
+"text": "Tienda",
+"href": "https://www.halefortexas.com/es/merchandise.html"
+},
+{
+"text": "Términos de Servicio",
+"href": "https://www.halefortexas.com/es/terms.html"
+},
+{
+"text": "Términos y Condiciones + Política de Privacidad",
+"href": "https://www.halefortexas.com/es/privacy.html"
+},
+{
+"text": "VI",
+"href": "https://www.halefortexas.com/vi/index.html"
+},
+{
+"text": "Voluntario",
+"href": "https://www.halefortexas.com/es/volunteer.html"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/profile.php?id=61585699384483"
+},
+{
+"text": "ig",
+"href": "https://instagram.com/HaleForTexas"
+},
+{
+"text": "info@halefortexas.com",
+"href": "mailto:info@halefortexas.com"
+},
+{
+"text": "中文",
+"href": "https://www.halefortexas.com/zh/index.html"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/HaleForTexas"
+}
 ]

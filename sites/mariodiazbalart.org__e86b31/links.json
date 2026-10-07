@@ -1,7 +1,38 @@
 [
-"https://browardvotes.gov/",
-"https://facebook.com/MarioDBCamp",
-"https://instagram.com/mariodbcamp",
-"https://votemiamidade.gov/elections/voters/home.page",
-"https://x.com/MarioDBCamp"
+{
+"text": "(305) 206-0638",
+"href": "tel:+13052060638"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MarioDBCamp"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mariodbcamp/"
+},
+{
+"text": "Vota en Broward",
+"href": "https://browardvotes.gov/"
+},
+{
+"text": "Vota en Miami-Dade",
+"href": "https://www.votemiamidade.gov/elections/voters/home.page"
+},
+{
+"text": "Vote in Broward",
+"href": "https://browardvotes.gov/"
+},
+{
+"text": "Vote in Miami-Dade",
+"href": "https://www.votemiamidade.gov/elections/voters/home.page"
+},
+{
+"text": "X / Twitter",
+"href": "https://x.com/MarioDBCamp"
+},
+{
+"text": "info@mariodiaz-balart.org",
+"href": "mailto:info@mariodiaz-balart.org"
+}
 ]

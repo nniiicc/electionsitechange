@@ -1,10 +1,50 @@
 [
-"https://facebook.com/VoteKristinPA178",
-"https://instagram.com/votekristinpa178",
-"https://secure.winred.com/friends-of-kristin-marcell/donate",
-"https://votekristinpa.com/",
-"https://votekristinpa.com/about",
-"https://votekristinpa.com/contact",
-"https://votekristinpa.com/privacy",
-"https://votekristinpa.com/privacy-policy"
+{
+"text": "About",
+"href": "https://votekristinpa.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/friends-of-kristin-marcell/donate"
+},
+{
+"text": "Contact",
+"href": "https://votekristinpa.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-kristin-marcell/donate"
+},
+{
+"text": "Home",
+"href": "https://votekristinpa.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votekristinpa.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy | Terms and Conditions.",
+"href": "https://votekristinpa.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://votekristinpa.com/#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://votekristinpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteKristinPA178/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekristinpa178"
+},
+{
+"text": "info@votekristinpa.com",
+"href": "mailto:info@votekristinpa.com"
+}
 ]

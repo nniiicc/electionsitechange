@@ -1,7 +1,18 @@
 {
  "description": "Glenn is a product of his district, having attended Moanalua Elementary School and Moanalua Intermediate, before graduating from Mid-Pacific Institute in 1985. He left Hawaii to attend the University of Southern California (USC) where he ...",
  "final_url": "https://glennwakai.com/about",
- "paid_for_by": null,
+ "fingerprint": "d155a3ac111a4a7119d52d3f7f920f7102addb1a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About - Glenn Wakai",
- "years_mentioned": []
+ "years_mentioned": [
+  "1985",
+  "1991",
+  "1994",
+  "1999",
+  "2002",
+  "2004",
+  "2006",
+  "2008"
+ ]
 }

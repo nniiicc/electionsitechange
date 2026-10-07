@@ -1,21 +1,94 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/SandraforAlaska",
-"https://instagram.com/sandraforalaska",
-"https://sandraforalaska.com/",
-"https://sandraforalaska.com/GetInvolved",
-"https://sandraforalaska.com/about",
-"https://sandraforalaska.com/contact",
-"https://sandraforalaska.com/donate",
-"https://sandraforalaska.com/endorsements",
-"https://sandraforalaska.com/events",
-"https://sandraforalaska.com/issues",
-"https://sandraforalaska.com/news",
-"https://sandraforalaska.com/privacy-policy",
-"https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8",
-"https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=10",
-"https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=100",
-"https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=25",
-"https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=250",
-"https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=50"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.sandraforalaska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.sandraforalaska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sandraforalaska.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sandraforalaska.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sandraforalaska.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sandraforalaska.com/GetInvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.sandraforalaska.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.sandraforalaska.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.sandraforalaska.com/about"
+},
+{
+"text": "News",
+"href": "https://www.sandraforalaska.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/sandra-loomis-for-alaska/12db614c-47be-4bc5-8820-e13dd196fec8?amount="
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sandraforalaska.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Sandra@sandraforalaska.com",
+"href": "mailto:Sandra@sandraforalaska.com"
+},
+{
+"text": "[image: SandraforAlaska logo]",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.sandraforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SandraforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sandraforalaska"
+}
 ]

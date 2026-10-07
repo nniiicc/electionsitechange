@@ -1,8 +1,30 @@
 [
-"https://facebook.com/timbriggsforstaterep?mibextid=LQQJ4d",
-"https://instagram.com/reptimbriggs?igsh=MWpuNzZycHFjZzJzMQ%3D%3D",
-"https://secure.actblue.com/donate/tim-briggs-for-state-representative-1",
-"https://secure.ngpvan.com/-I5a4v9H_0KGmryI2ANhqg2",
-"https://secure.ngpvan.com/Brjk_6pI106NcAGUijFYeA2",
-"https://techforcampaigns.org/"
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/tim-briggs-for-state-representative-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/timbriggsforstaterep?mibextid=LQQJ4d"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://secure.ngpvan.com/-I5a4v9H_0KGmryI2ANhqg2"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/reptimbriggs?igsh=MWpuNzZycHFjZzJzMQ%3D%3D"
+},
+{
+"text": "Subscribe Now",
+"href": "https://secure.ngpvan.com/Brjk_6pI106NcAGUijFYeA2"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "info@timbriggs.org",
+"href": "mailto:info@timbriggs.org"
+}
 ]

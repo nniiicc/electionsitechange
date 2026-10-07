@@ -1,14 +1,58 @@
 [
-"http://bentoncreative.com/",
-"https://facebook.com/Karen4GA",
-"https://instagram.com/karen4ga",
-"https://karenlupton.com/ga",
-"https://karenlupton.com/ga/about-karen",
-"https://karenlupton.com/ga/community-resources",
-"https://karenlupton.com/ga/events",
-"https://karenlupton.com/ga/past-newsletters",
-"https://karenlupton.com/ga/priorities-2",
-"https://karenlupton.com/ga/voter-guide",
-"https://secure.ngpvan.com/J4r495Ws_EW23NxvcptFUg2",
-"https://secure.ngpvan.com/UPagwWY9_Ue0-qe1OBd2eQ2"
+{
+"text": "About Karen",
+"href": "https://karenlupton.com/ga/about-karen/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Community Resources",
+"href": "https://karenlupton.com/ga/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/J4r495Ws_EW23NxvcptFUg2"
+},
+{
+"text": "Events",
+"href": "https://karenlupton.com/ga/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Karen4GA/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/karen4ga/"
+},
+{
+"text": "Join Team Karen",
+"href": "https://secure.ngpvan.com/UPagwWY9_Ue0-qe1OBd2eQ2"
+},
+{
+"text": "Mail",
+"href": "mailto:karen@karenlupton.com"
+},
+{
+"text": "Past Newsletters",
+"href": "https://karenlupton.com/ga/past-newsletters/"
+},
+{
+"text": "Priorities",
+"href": "https://karenlupton.com/ga/priorities-2/"
+},
+{
+"text": "Voter Guide",
+"href": "https://karenlupton.com/ga/voter-guide/"
+},
+{
+"text": "[image: Representative Karen Lupton]",
+"href": "https://karenlupton.com/ga/"
+},
+{
+"text": "karen@karenlupton.com",
+"href": "mailto:karen@karenlupton.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Get in touch with the Ben Mudd campaign. Ask questions, request information, or connect with the campaign team.",
  "final_url": "https://www.votemudd.com/contact",
- "paid_for_by": "PAID FOR BY MUDD FOR STATE SENATE Privacy Policy Terms &amp; Conditions Contact Donate bottom of page",
+ "fingerprint": "c75d70552c4942fd9855f90617eec05651a7b157",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY MUDD FOR STATE SENATE Privacy Policy Terms & Conditions Contact Donate bottom of page",
  "title": "Contact Ben Mudd | Campaign Office",
  "years_mentioned": []
 }

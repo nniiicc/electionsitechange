@@ -1,9 +1,38 @@
 [
-"https://electjamisonsouza.com/",
-"https://electjamisonsouza.com/data-privacy-policy",
-"https://electjamisonsouza.com/platform",
-"https://electjamisonsouza.com/terms-of-use",
-"https://electjamisonsouza.com/why",
-"https://secure.actblue.com/donate/jamison-souza-1",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.electjamisonsouza.com"
+},
+{
+"text": "Data & Privacy Policy",
+"href": "https://www.electjamisonsouza.com/data-privacy-policy"
+},
+{
+"text": "Platform",
+"href": "https://www.electjamisonsouza.com/platform"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electjamisonsouza.com/terms-of-use"
+},
+{
+"text": "Why",
+"href": "https://www.electjamisonsouza.com/why"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Jamison Souza-State Rep 2x4&4x8 wPhoto.jpg]",
+"href": "https://secure.actblue.com/donate/jamison-souza-1"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/jamison-souza-1"
+},
+{
+"text": "votejamisonsouza@gmail.com",
+"href": "mailto:votejamisonsouza@gmail.com"
+}
 ]

@@ -1,4 +1,4 @@
-Welcome to https://votefortripp.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.
+Extra Content Top About Platform Endorsements Team Volunteer Summer Tour Resources Events Art Join Threads Facebook TikTok YouTube Instagram Bluesky X Menu Skip to content Privacy Policy Welcome to https://votefortripp.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.
 This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Paid for by Tripp Hutchinson for United States Congress (collectively, “Services”) (“Authorized Customers”).“Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information.
 Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 What Personally Identifiable Information is collected?
@@ -19,12 +19,7 @@ We also offer the opportunity to “opt out” of receiving information or being
 How is Personally Identifiable Information stored?
 Personally Identifiable Information collected by Paid for by Tripp Hutchinson for United States Congress is securely stored and is not accessible to third parties or employees of Paid for by Tripp Hutchinson for United States Congress except for use as indicated above.
 What choices are available to Visitors regarding collection, use and distribution of the information?
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by finding our contact information via our Contact Page, https://votefortripp.com/contact.
-Are Cookies Used on the Site?
-Cookies are used for a variety of reasons.
-We use Cookies to obtain information about the preferences of our Visitors and the services they select.
-We also use Cookies for security purposes to protect our Authorized Customers.
-For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by finding our contact information via our Contact Page, https://votefortripp.com/contact .
 How does Paid for by Tripp Hutchinson for United States Congress use login information?
 Paid for by Tripp Hutchinson for United States Congress uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
@@ -41,7 +36,7 @@ We audit our security systems and processes on a regular basis.
 Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet.
 While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by contacting us via our information available on our Contact Page, https://votefortripp.com/contact.
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by contacting us via our information available on our Contact Page, https://votefortripp.com/contact .
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting.
 However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information.
@@ -52,17 +47,13 @@ However, if we are changing our privacy policy in a manner that might cause disc
 Links: https://votefortripp.com contains links to other web sites.
 Please note that when you click on one of these links, you are moving to another web site.
 We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-SMS Privacy Policy
-Tripp Hutchinson for United States Congress is committed to protecting your privacy online.
+SMS Privacy Policy Tripp Hutchinson for United States Congress is committed to protecting your privacy online.
 This 10DLC & Toll-Free Privacy Policy is in addition to and supplements all other privacy and data security obligations of “Tripp Hutchinson for United States Congress”, including our operations, employment and website privacy policies (collectively, our “Privacy Policy”).
 It describes our obligations and practices of how we collect and use customer consent and opt-ins for our texting and/or email services and programs.
 This 10DLC & Toll-Free Privacy Policy applies to SMS and MMS texts from Graham for Maine.
-CATEGORIES OF INFORMATION COLLECTED:
-We will collect your name, phone number and indication of consent to receive text (SMS and MMS).
-HOW WE USE THE INFORMATION COLLECTED:
-In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
-TO WHOM DO WE SHARE THE INFORMATION COLLECTED:
-Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+CATEGORIES OF INFORMATION COLLECTED: We will collect your name, phone number and indication of consent to receive text (SMS and MMS).
+HOW WE USE THE INFORMATION COLLECTED: In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
+TO WHOM DO WE SHARE THE INFORMATION COLLECTED: Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
 Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
-We suggest that you periodically review the Privacy Policy for amendments.
+We suggest that you periodically review the Privacy Policy for amendments. © # Paid for by Tripp Hutchinson for United States Congress — All Rights Reserved Site built & hosted by Key Design Websites Disclaimer Linking Policy Privacy Policy Testimonials Disclosure Terms of Use Threads Facebook TikTok YouTube Instagram Bluesky X Donate Threads Facebook TikTok YouTube Instagram Bluesky X About Platform Endorsements Team Volunteer Summer Tour Resources Events Art Join Donate

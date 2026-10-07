@@ -1,2 +1,4 @@
-November 14, 2023 Learn about the MI Research and Development tax credit.
-Article originally published by WNEM CBS View original article here.
+Skip to main content Scroll Top   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate Learn about MI Research and Development tax credit    November 14, 2023 Learn about the MI Research and Development tax credit.
+Article originally published by WNEM CBS View original article here .
+Recent Posts AG Dana Nessel teaches Mid-Michigan seniors to avoid scams February 25, 2024 Representative Martus addresses city council December 23, 2023 Democrats helped Michigan workers with tax, jobs, other measures November 15, 2023 Learn about MI Research and Development tax credit November 14, 2023 UAW members testify in favor of just energy transition office legislation September 21, 2023 Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate PAID FOR BY THE COMMITTEE TO ELECT JASPER MARTUS P.O.
+BOX 165 Flushing, MI 48433 jasper@jaspermartus.com

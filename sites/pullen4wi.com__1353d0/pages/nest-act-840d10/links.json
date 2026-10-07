@@ -1,33 +1,130 @@
 [
-"https://facebook.com/pullen4wi",
-"https://instagram.com/pullen4wi",
-"https://linkedin.com/pullen4wi",
-"https://myvote.wi.gov/en-us",
-"https://pullen4wi.com/",
-"https://pullen4wi.com/bare-act",
-"https://pullen4wi.com/chance-act",
-"https://pullen4wi.com/contact",
-"https://pullen4wi.com/draw-act",
-"https://pullen4wi.com/equal-act",
-"https://pullen4wi.com/get-involved",
-"https://pullen4wi.com/home-act",
-"https://pullen4wi.com/keep-act",
-"https://pullen4wi.com/media",
-"https://pullen4wi.com/nest-act",
-"https://pullen4wi.com/pave-act",
-"https://pullen4wi.com/policy-initiatives",
-"https://pullen4wi.com/price-act",
-"https://pullen4wi.com/prune-act",
-"https://pullen4wi.com/rise-act",
-"https://pullen4wi.com/roots-act",
-"https://pullen4wi.com/shield-act",
-"https://pullen4wi.com/small-act",
-"https://pullen4wi.com/stay-act",
-"https://pullen4wi.com/stop-act",
-"https://pullen4wi.com/trim-act",
-"https://pullen4wi.com/trust-act",
-"https://secure.winred.com/pullen4wi/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/pullen4wi",
-"https://twitter.com/pullen4wi",
-"https://x.com/pullen4wi"
+{
+"text": "BARE Act",
+"href": "https://pullen4wi.com/bare-act"
+},
+{
+"text": "CHANCE Act",
+"href": "https://pullen4wi.com/chance-act"
+},
+{
+"text": "Contact",
+"href": "https://pullen4wi.com/contact"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.winred.com/pullen4wi/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "DRAW Act",
+"href": "https://pullen4wi.com/draw-act"
+},
+{
+"text": "EQUAL Act",
+"href": "https://pullen4wi.com/equal-act"
+},
+{
+"text": "Get Involved",
+"href": "https://pullen4wi.com/get-involved"
+},
+{
+"text": "HOME Act",
+"href": "https://pullen4wi.com/home-act"
+},
+{
+"text": "Home",
+"href": "https://pullen4wi.com/"
+},
+{
+"text": "KEEP Act",
+"href": "https://pullen4wi.com/keep-act"
+},
+{
+"text": "Media",
+"href": "https://pullen4wi.com/media"
+},
+{
+"text": "NEST Act",
+"href": "https://pullen4wi.com/nest-act"
+},
+{
+"text": "PAVE Act",
+"href": "https://pullen4wi.com/pave-act"
+},
+{
+"text": "PRICE Act",
+"href": "https://pullen4wi.com/price-act"
+},
+{
+"text": "PRUNE Act",
+"href": "https://pullen4wi.com/prune-act"
+},
+{
+"text": "Policy Initiatives",
+"href": "https://pullen4wi.com/policy-initiatives"
+},
+{
+"text": "RISE Act",
+"href": "https://pullen4wi.com/rise-act"
+},
+{
+"text": "ROOTS Act",
+"href": "https://pullen4wi.com/roots-act"
+},
+{
+"text": "SHIELD Act",
+"href": "https://pullen4wi.com/shield-act"
+},
+{
+"text": "SMALL Act",
+"href": "https://pullen4wi.com/small-act"
+},
+{
+"text": "STAY Act",
+"href": "https://pullen4wi.com/stay-act"
+},
+{
+"text": "STOP Act",
+"href": "https://pullen4wi.com/stop-act"
+},
+{
+"text": "TRIM Act",
+"href": "https://pullen4wi.com/trim-act"
+},
+{
+"text": "TRUST Act",
+"href": "https://pullen4wi.com/trust-act"
+},
+{
+"text": "Voting",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "[image: Pullen For Wisconsin logo]",
+"href": "https://pullen4wi.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/pullen4wi"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/pullen4wi"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/pullen4wi"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://tiktok.com/pullen4wi"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://www.twitter.com/pullen4wi"
+},
+{
+"text": "[tooltip: Go to Twitter page]",
+"href": "https://x.com/pullen4wi"
+}
 ]

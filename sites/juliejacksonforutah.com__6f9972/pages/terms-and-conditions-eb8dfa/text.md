@@ -1,41 +1,28 @@
-Terms and Conditions
-Welcome to the official website of Julie Jackson for Utah (www.juliejacksonforutah.com).
-By accessing this website or participating in our communications programs, you agree to the following terms.
-SMS/Text Messaging Terms & Conditions
-You agree to receive recurring automated texts (e.g., SMS and MMS) messages from Julie Jackson for Utah, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate.
-All informational messages, recurring marketing messages, fundraising communications, donation solicitations, campaign updates, volunteer opportunities, event notifications, and on-demand reply messages shall be known collectively as the “Programs.”
-Consent to receive automated marketing text messages is not a condition of any purchase or donation.
-Cost
-Msg & Data rates may apply.
-Please consult with your carrier for rate information.
-Message Frequency
-Message frequency will vary.
+top of page Democrat • House District 34 Meet Julie Endorsements Priorities About HD 34 Contact Me DONATE Terms and Conditions Welcome to the official website of Julie Jackson for Utah ( www.juliejacksonforutah.com ).
+By accessing this website or participating in our communications programs, you agree to the following terms. ​ SMS/Text Messaging Terms & Conditions You agree to receive recurring automated texts (e.g., SMS and MMS) messages from Julie Jackson for Utah, including text messages that may be sent using an automatic telephone dialing system, to the mobile telephone number you provided when signing up or any other number that you designate. ​ All informational messages, recurring marketing messages, fundraising communications, donation solicitations, campaign updates, volunteer opportunities, event notifications, and on-demand reply messages shall be known collectively as the “Programs.” Consent to receive automated marketing text messages is not a condition of any purchase or donation. ​ Cost Msg & Data rates may apply.
+Please consult with your carrier for rate information. ​ Message Frequency Message frequency will vary.
 We reserve the right to alter the frequency of messages sent at any time, so as to increase or decrease the total number of sent messages.
 We also reserve the right to change the phone number from which messages are sent.
 Not all mobile devices or handsets may be supported and our messages may not be deliverable in all areas.
-Our service providers and participating mobile carriers are not liable for delayed or undelivered messages.
-Cancellation/Opt-Out
-If you do not wish to continue participating in any Program or no longer agree to these Terms, you may reply STOP, END, CANCEL, UNSUBSCRIBE, or QUIT to any mobile message received from us in order to opt out at any time.
-You may receive an additional mobile message confirming your decision to opt out.
-You understand and agree that the foregoing options are the only reasonable and exclusive methods of opting out.
+Our service providers and participating mobile carriers are not liable for delayed or undelivered messages. ​ Cancellation/Opt-Out If you do not wish to continue participating in any Program or no longer agree to these Terms, you may reply STOP, END, CANCEL, UNSUBSCRIBE, or QUIT to any mobile message received from us in order to opt out at any time. ​ You may receive an additional mobile message confirming your decision to opt out. ​ You understand and agree that the foregoing options are the only reasonable and exclusive methods of opting out.
 You also understand and agree that any other method of opting out, including, but not limited to, texting words or phrases other than those set forth above or verbally requesting to be removed from our list, is not a reasonable means of opting out.
-You may be subscribed to multiple Programs across different Short Codes or regular long code phone numbers, and therefore you must separately text or reply STOP to each Short Code or long code phone number from which you wish to unsubscribe.
-Support
-For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code or email us at info@juliejacksonforutah.com.
+You may be subscribed to multiple Programs across different Short Codes or regular long code phone numbers, and therefore you must separately text or reply STOP to each Short Code or long code phone number from which you wish to unsubscribe. ​ Support For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code or email us at info@juliejacksonforutah.com .
 Please note that the use of this email address, or texting “HELP” to the Program’s Short or long Code is not an acceptable method of opting out of the program.
 Opt-outs must be submitted in accordance with the procedures set forth above.
 Our Disclaimer of Warranty The Programs are offered on an “as-is” basis and may not be available in all areas at all times and may not continue to work in the event of product, software, coverage or other changes made by your wireless carrier.
 We will not be liable for any delays or failures in the receipt of any mobile messages connected with any Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of our control.
-We are not liable for delayed or undelivered mobile messages.
-Privacy Policy
-We respect your privacy.
+We are not liable for delayed or undelivered mobile messages. ​ ​ Privacy Policy ​ We respect your privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 This includes sharing information with our program partners, message content providers, phone companies, and vendors who assist us in the delivery of mobile messages.
-EXCEPT AS SET FORTH IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY.
-Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property.
+EXCEPT AS SET FORTH IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY. ​ Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property.
 When you complete forms online or otherwise provide us information in connection with a Program, you agree to provide accurate, complete, and true information.
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in our sole discretion, we believe that any such information is untrue, inaccurate, or incomplete, or you have opted into a Program for an ulterior purpose, we may refuse you access to the Program and pursue any appropriate legal remedies.
-This Privacy Policy and Terms and Conditions is strictly limited to these texting Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
-Last Updated: May 15, 2026
+This Privacy Policy and Terms and Conditions is strictly limited to these texting Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts. ​ Last Updated: May 15, 2026 DONATE (360) 628-9997 julie@juliejacksonforutah.com Facebook Instagram Twitter X LinkedIn Let's connect First name * Last name * Email * Yes, subscribe me to your newsletter. * Text Message Consent By providing your phone number, you are consenting to TEXTS to that number from Julie Jackson for Utah. * By providing your phone number, you are consenting to marketing, informational and donation request TEXTS to that number from Julie Jackson for Utah.
+We will provide alerts and other important information.
+Msg & data rates may apply.
+Msg frequency will vary.
+Reply HELP for help, STOP to end.
+Terms & Conditions and Privacy Policy .
+SUBSCRIBE © # Julie Jackson For Utah bottom of page

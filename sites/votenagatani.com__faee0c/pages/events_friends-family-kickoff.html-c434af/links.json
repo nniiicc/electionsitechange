@@ -1,6 +1,50 @@
 [
-"https://secure.actblue.com/donate/votenagatani",
-"https://votenagatani.com/events.html",
-"https://votenagatani.com/events/friends-family-kickoff.html",
-"https://votenagatani.com/index.html"
+{
+"text": "2032 Vision",
+"href": "https://votenagatani.com/index.html#vision"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.actblue.com/donate/votenagatani"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votenagatani"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/votenagatani"
+},
+{
+"text": "Events",
+"href": "https://votenagatani.com/events.html"
+},
+{
+"text": "Friends & Family Kickoff — Mar 28",
+"href": "https://votenagatani.com/events/friends-family-kickoff.html"
+},
+{
+"text": "Get Involved",
+"href": "https://votenagatani.com/index.html#involved"
+},
+{
+"text": "My Story",
+"href": "https://votenagatani.com/index.html#why"
+},
+{
+"text": "Our Community",
+"href": "https://votenagatani.com/index.html#community"
+},
+{
+"text": "Priorities",
+"href": "https://votenagatani.com/index.html#work"
+},
+{
+"text": "Vote Nagatani",
+"href": "https://votenagatani.com/index.html"
+},
+{
+"text": "← All Events",
+"href": "https://votenagatani.com/events.html"
+}
 ]

@@ -1,17 +1,70 @@
 [
-"http://stanopalforthe33rd@gmail.com/",
-"https://facebook.com/profile.php?id=61588874865998",
-"https://forms.gle/wpVEpSHjRC1i5f9x6",
-"https://instagram.com/stanopalforthe33rd",
-"https://secure.actblue.com/donate/stanley-opal-1",
-"https://secure.actblue.com/donate/stanley-opal-1?amount=10",
-"https://secure.actblue.com/donate/stanley-opal-1?amount=100",
-"https://secure.actblue.com/donate/stanley-opal-1?amount=25",
-"https://secure.actblue.com/donate/stanley-opal-1?amount=5",
-"https://secure.actblue.com/donate/stanley-opal-1?amount=50",
-"https://stanopalforthe33rd.com/",
-"https://stanopalforthe33rd.com/endorsements",
-"https://stanopalforthe33rd.com/home",
-"https://stanopalforthe33rd.com/meet-stan",
-"https://stanopalforthe33rd.com/priorities"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/stanley-opal-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/stanley-opal-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/stanley-opal-1?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/stanley-opal-1?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/stanley-opal-1?amount=50"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/stanley-opal-1"
+},
+{
+"text": "Email Me! stanopalforthe33rd@gmail.com",
+"href": "http://stanopalforthe33rd@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://stanopalforthe33rd.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://stanopalforthe33rd.com/home/"
+},
+{
+"text": "Learn More about Stan",
+"href": "https://stanopalforthe33rd.com/meet-stan"
+},
+{
+"text": "Learn more about Stan's Priorities",
+"href": "https://stanopalforthe33rd.com/priorities/"
+},
+{
+"text": "Meet Stan",
+"href": "https://stanopalforthe33rd.com/meet-stan/"
+},
+{
+"text": "Priorities",
+"href": "https://stanopalforthe33rd.com/priorities/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://forms.gle/wpVEpSHjRC1i5f9x6"
+},
+{
+"text": "[image: stan opal for state senate logo]",
+"href": "https://stanopalforthe33rd.com/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/profile.php?id=61588874865998"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/stanopalforthe33rd/"
+}
 ]

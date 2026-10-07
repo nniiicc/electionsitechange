@@ -1,7 +1,5 @@
-Campaign Headquarters Opening: Sat., May 31
-Please join us and State Senator Jason Lewis as we officially open our headquarters.
+About News Issues Legislation Contact Get Involved Contribute Menu Campaign Headquarters Opening: Sat., May 31 May 29, 2014 / in Events , News / by Megan Day Please join us and State Senator Jason Lewis as we officially open our headquarters.
 Bring a friend and help us spread the word about the campaign!
-Saturday, May 31st
-3:00 PM
-632 Main Street, Winchester
-For more information, click here.
+Saturday, May 31st 3:00 PM 632 Main Street, Winchester For more information, click here .
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Share this entry Share on Facebook Share on Twitter Share on Google+ Share on Pinterest Share on Linkedin Share on Tumblr Share on Vk Share on Reddit Share by Mail http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-05-29 20:31:05 2014-05-29 20:32:57 Campaign Headquarters Opening: Sat., May 31 Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Join Us For Our Campaign Kickoff: May 21st, 2014 Join Us at Scholars in Boston on June 19th Scroll to top

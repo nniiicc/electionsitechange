@@ -1,5 +1,4 @@
-Transportation Package
-Moving both people and goods from one location to another for any given reason is what transportation is all about.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Transportation What we really need to do Transportation Package Moving both people and goods from one location to another for any given reason is what transportation is all about.
 Transportation is clearly one of the few activities that has been part of Humanity for many millennia and will continue to be an integral part of all of our futures.
 Both the Democratic and Republican Transportation Packages that just failed were missing two key features.
 “Long Term Reliability” and “Decentralized Control” of what is needed across this State.
@@ -41,30 +40,28 @@ Keep the collecting in the hands of the State.
 The State should be able to save for things like the new and desperately needed Columbia River bridge.
 Large projects that cross State Boundaries should be covered by the State.
 There is only one way to get the money we spend on transportation spent on roads and bridges instead of 500 to 700 government employees in Salem.
-We must amend the Constitution with the following set of parameters:
-- Transportation and Education are to be considered as Eternal and On-going projects.
-- The revenues collected from fuel taxes and use fees must be held by the Treasurer.
-- 1% goes to the State general fund.
+We must amend the Constitution with the following set of parameters: Transportation and Education are to be considered as Eternal and On-going projects.
+The revenues collected from fuel taxes and use fees must be held by the Treasurer.
+1% goes to the State general fund.
 Period.
-- 9% goes to savings over which the Legislature has no access and can NOT be collateralized for bonds or any other form of loans.
+9% goes to savings over which the Legislature has no access and can NOT be collateralized for bonds or any other form of loans.
 Legislative Oversight, yes, Legislative bribery, NO.
-- The Treasurer can only release those funds to State transportation projects that do not include busses or rail lines.
-- The Treasurer releases the remaining funds to the Counties WHERE THE FUEL WAS CONSUMED.
+The Treasurer can only release those funds to State transportation projects that do not include busses or rail lines.
+The Treasurer releases the remaining funds to the Counties WHERE THE FUEL WAS CONSUMED.
 And without delay.
-- The State shall collect any local fuel taxes above the State fuel tax.
-- The County Treasurer shall be in charge of bidding and contracts.
-(not Salem)
-- The County Treasurer shall release the funds for transportation projects as needed.
-- The County Treasurer shall place in savings accounts, not under control of the State, 10% of what is given to the County for projects that may need higher funds to cross County boundaries or natural boundaries such as rivers or valley or creation of new roads.
-- The City Treasurer shall be in charge of holding funds for local roads and bridges.
-- City Fuel tax revenues must be voted on by the city that wants to provide busses and must be the only source for the money to run their local bussing.
+The State shall collect any local fuel taxes above the State fuel tax.
+The County Treasurer shall be in charge of bidding and contracts. (not Salem) The County Treasurer shall release the funds for transportation projects as needed.
+The County Treasurer shall place in savings accounts, not under control of the State, 10% of what is given to the County for projects that may need higher funds to cross County boundaries or natural boundaries such as rivers or valley or creation of new roads.
+The City Treasurer shall be in charge of holding funds for local roads and bridges.
+City Fuel tax revenues must be voted on by the city that wants to provide busses and must be the only source for the money to run their local bussing.
 AGAIN, no borrowed or bonds may be sold for any eternal or ongoing operations.
-- The Treasurer shall distribute directly to any fuel taxes revenues collected for City bussing.
+The Treasurer shall distribute directly to any fuel taxes revenues collected for City bussing.
 The Cities are restricted from using the funds on anything else.
-- Counties are subject to audits every third year by the Treasurer. 8 to 16 counties shall be audited every third year allowing for size and location of each County.
+Counties are subject to audits every third year by the Treasurer.
+8 to 16 counties shall be audited every third year allowing for size and location of each County.
 All funds to conduct the audits shall come from the 10% held by the State.
-- Philanthropy by private citizens shall pass through to the City, County, or State it was intended to go to, shall not be considered as On-Going revenues, and shall be held in savings until needed.
-- Any form of corruption such as kickbacks, failing to use the funds on the project, or excessive waste shall be punishable by lifetime removal from office and filing criminal charges as defined by Law.
+Philanthropy by private citizens shall pass through to the City, County, or State it was intended to go to, shall not be considered as On-Going revenues, and shall be held in savings until needed.
+Any form of corruption such as kickbacks, failing to use the funds on the project, or excessive waste shall be punishable by lifetime removal from office and filing criminal charges as defined by Law.
 The above list needs to be turned into an Oregon Constitutional Amendment that probably won’t be allowed under the “only one change” rule.
 The People of Oregon must repeal that amendment if The-People of Oregon are to ever get on with our lives.
 Until We-The-People are protected from politicians via a Constitution that clearly defines the duties and responsibilities of government, there is no way that our Transportation or Education, for that matter, will be ready for the future needs of Oregon or America.
@@ -72,3 +69,5 @@ Perhaps a better way to describe “Eternal and On-Going” would be “Timeless
 We must look at Transportation and Education as being a “Timeless” issues.
 There is no end to the need of quality roads and bridges and their maintenance.
 This issue is addressed in the “Phoenix Project” in the section called “Bill of Responsibilities”.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

@@ -1,4 +1,4 @@
-Built Businesses, Balanced Budgets - All here at home in Rochester Hills
-We will not share your opt-in to an SMS campaign with any third party.
+Built Businesses, Balanced Budgets - All here at home in Rochester Hills 248-329-0045 Home ABOUT MARK CONTACT ENDORSEMENTS CONTRIBUTE Mehr Home ABOUT MARK CONTACT ENDORSEMENTS CONTRIBUTE 248-329-0045 Home ABOUT MARK CONTACT ENDORSEMENTS CONTRIBUTE privacy policy We will not share your opt-in to an SMS campaign with any third party.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including platform providers, phone companies, and other vendors that assist us in delivering text messages.
+PAID FOR BY CTE MARK TISDEL PO Box 80146, Rochester MI 48308 mark@marktisdel.com 248-329-0045 PRIVACY POLICY Unterstützt von

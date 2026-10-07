@@ -1,11 +1,13 @@
-Connecticut's 4th Congressional District 2026
+Goldstein For Congress Put A Doctor In The House Where I Stand About Me Connecticut's 4th Congressional District 2026 Dr.
+Mike Goldstein for Congress Doctor.
+Lawyer.
+Father.
+Fighter.
 Accountability.
 Access.
-Opportunity.
-Early Voting Early Voting
-October 19 – November 1
-Includes Weekends
-Healthcare costs are crushing Connecticut families — and I've spent 30 years watching it happen from the inside.
+Opportunity. 🗳️ Vote November 3 Early Voting Early Voting October 19 – November 1 Includes Weekends Join the Fight Where I Stand Donate Why Me?
+Why Now?
+The Doctor Healthcare costs are crushing Connecticut families — and I've spent 30 years watching it happen from the inside.
 The reason is simple: government over-regulation has destroyed competition in medicine.
 When bureaucrats control the market, prices go up.
 When competition disappears, patients pay more for less.
@@ -21,7 +23,7 @@ And it's terminal without intervention.
 I know the diagnosis.
 I have the plan.
 And I'm ready to operate.
-Connecticut pays roughly 60% more for electricity than the national average.
+The Lawyer Connecticut pays roughly 60% more for electricity than the national average.
 I've read the regulations.
 I know exactly why.
 Federal policy has blocked natural gas pipeline capacity into New England.
@@ -34,21 +36,21 @@ I've read the tax code — 7,000 pages of favors for people who can afford lobby
 I know where your money goes.
 I know who's taking it.
 And I know how to fight back.
-I know what keeps Connecticut families awake at night — electricity bills that have doubled, healthcare costs that eat your paycheck, and the fear that your kids will have to leave the state to find a decent job.
+The Father I know what keeps Connecticut families awake at night — electricity bills that have doubled, healthcare costs that eat your paycheck, and the fear that your kids will have to leave the state to find a decent job.
 This campaign is personal.
 I'm fighting for families like mine — and yours.
 Every decision I make will be grounded in what's best for our kids' futures.
-I've spent my career fighting systems that put profit over people.
+The Fighter I've spent my career fighting systems that put profit over people.
 Insurance denials.
 FDA bureaucrats who let patients die waiting.
 Energy policies that make Connecticut one of the most expensive states in America to turn on the lights.
 A fighter doesn't back down.
 A fighter delivers results.
 That's the leadership Connecticut deserves in Washington.
-I put myself through medical school.
+A Doctor I Wasn't Born Into This Work Hard I put myself through medical school.
 Became a surgeon.
-30+ years making life-and-death decisions in operating rooms.
-Either the patient gets better or they don't.
+Real Decisions 30+ years making life-and-death decisions in operating rooms.
+No Spin Either the patient gets better or they don't.
 You take responsibility.
 In surgery, you can't fake it.
 You diagnose the problem.
@@ -73,109 +75,100 @@ Three years later, he's still with his daughters.
 Every family deserves that chance.
 I've spent my career fighting this broken system.
 Now I'm ready to fix it from Washington.
-Run my own medical practice.
+DONATE A Lawyer I Learned the System So I Could Beat It.
+I don't come from politics.
+I come from real life.
+Business Owner Run my own medical practice.
 Make payroll, deal with regulations, fight to keep business alive.
-President of New York County Medical Society — twice.
+Medical Leader President of New York County Medical Society — twice.
 Advocated for patients and doctors.
-Sat with families in worst moments.
+Straight Answers Sat with families in worst moments.
 Gave straight answers — even when news was hard.
-I know what it's like to raise kids and worry about their future — and to watch other parents face the unthinkable.
-Families with sick children are being told "there's nothing more we can do" while treatments exist that could save them. 75% of rare disease patients are children. 30% don't live past age 5.
+Your electricity bill is a policy failure — and I can prove it.
+Connecticut's electricity rates are roughly 60% above the national average.
+Your family is paying hundreds of dollars more every month than families in most other states — not because energy is scarce, but because Washington blocked the pipelines that would deliver it.
+Federal policy has restricted natural gas pipeline capacity into New England for years.
+The energy is there — abundant, affordable American natural gas.
+The infrastructure to deliver it is not, because politicians chose ideology over affordability.
+I've read the regulations that created this mess.
+I know where the bottleneck is.
+And I will fight for federal legislation that unblocks pipeline expansion, embraces an all-of-the-above energy strategy — natural gas, nuclear, and renewables — and stops forcing Connecticut families to pay the highest electricity bills in the continental United States.
+Rising demand.
+Blocked supply.
+You pay the difference.
+That ends.
+D A Father I know what it's like to raise kids and worry about their future — and to watch other parents face the unthinkable.
+Families with sick children are being told "there's nothing more we can do" while treatments exist that could save them.
+75% of rare disease patients are children.
+30% don't live past age 5.
 Meanwhile, healthy kids are graduating with crushing debt and no clear path to a career.
 Connecticut has 100,000 jobs sitting empty while young adults leave the state because no one connected them to opportunity.
 This isn't abstract for me.
 It's personal.
-"I'm not running because I need a title.
-I'm running because Connecticut families
-deserve a fighter — someone who's been in the trenches."
+A Fighter "I'm not running because I need a title.
+I'm running because Connecticut families deserve a fighter — someone who's been in the trenches." Accountability.
 I've watched the FDA let Right to Try die on paper while children die in hospitals.
 I've watched bureaucrats add costs that crush families and small businesses.
 No more excuses.
 Someone has to answer.
+Access.
 Dying patients can't access treatments that exist.
 Families can't afford the electricity to heat their homes.
 Kids can't access the training that leads to real jobs.
 That ends.
+Opportunity.
 Every kid deserves a path forward — college, career, or apprenticeship.
 No one gets left behind.
 And every family deserves affordable healthcare and affordable energy.
 That's not a wish list.
 That's a basic expectation.
-1
-Your healthcare costs are skyrocketing.
+1 ACCOUNTABILITY The System Is Failing You — And No One's Answering For It Your healthcare costs are skyrocketing.
 Your electricity bill keeps climbing.
 And Washington keeps adding regulations instead of solutions.
-Government over-regulation has destroyed competition in healthcare.
+Hold Washington Accountable for Healthcare Costs Government over-regulation has destroyed competition in healthcare.
 More bureaucracy means higher prices — for prescriptions, for insurance, for every visit to the doctor.
 I will fight to slash regulatory burden, restore real market competition, and bring healthcare costs down for every Connecticut family.
 The cure for high healthcare costs isn't more government.
 It's less.
-Connecticut families pay 60% more for electricity because federal policy blocked the pipelines that would deliver affordable energy.
+Hold Washington Accountable for Energy Costs Connecticut families pay 60% more for electricity because federal policy blocked the pipelines that would deliver affordable energy.
 That's not a market failure — that's a government failure.
 I will fight to unblock pipeline capacity and end the ideology-first energy policies that are bankrupting Connecticut households.
-Right to Try has helped fewer than 100 patients in 7 years.
-Zero children reported. 30% of kids with rare diseases don't live past age 5.
+Hold the FDA Accountable Right to Try has helped fewer than 100 patients in 7 years.
+Zero children reported.
+30% of kids with rare diseases don't live past age 5.
 The FDA didn't implement this law — they killed it.
-Families shouldn't need insider connections to find hope.
+Transparent Pathways Families shouldn't need insider connections to find hope.
 The path to treatment should be clear — not buried in bureaucratic red tape.
-Healthcare costs are driven by government over-regulation that has destroyed competition.
+D Cut the Bureaucracy That's Killing Healthcare Healthcare costs are driven by government over-regulation that has destroyed competition.
 More bureaucracy means higher prices — for prescriptions, for insurance, for every visit to the doctor.
 I will fight to reduce regulatory burden, restore real competition, and bring healthcare costs down for every Connecticut family.
-- Increase CT's natural gas and nuclear power supply
-- Lower electricity prices via federal law changes
-- Fix I-95 traffic congestion
-- Promote school choice
-- Expand vocational training
-- Demand college transparency
-- Workforce alternatives to college degrees
-- Reduce regulation, increase competition
-- Prioritize patients
-- Fix overpriced system from government overregulation
-- Ban gender-affirming surgery until adulthood
-- Reduce regulatory burdens on small businesses
-- Keep taxes low
-- Unleash American innovation
-- Close border to illegal aliens and drugs
-- Aggressively prosecute hate crimes on campuses
-- Cut federal funding to colleges for riot inaction
-- Support religious exemption and 2nd Amendment
-- Defend equality for all
-- Oppose CRT, quotas, open borders, unchecked spending
-Donate now to Put a Doctor in the House.
+Dr.
+Michael T.
+Goldstein - Policy Platform Energy & Infrastructure Increase CT's natural gas and nuclear power supply Lower electricity prices via federal law changes Fix I-95 traffic congestion Education & Jobs Promote school choice Expand vocational training Demand college transparency Workforce alternatives to college degrees Healthcare Reduce regulation, increase competition Prioritize patients Fix overpriced system from government overregulation Ban gender-affirming surgery until adulthood Economic Growth Reduce regulatory burdens on small businesses Keep taxes low Unleash American innovation Border & Security Close border to illegal aliens and drugs Aggressively prosecute hate crimes on campuses Cut federal funding to colleges for riot inaction Constitutional Rights Support religious exemption and 2nd Amendment Defend equality for all Oppose CRT, quotas, open borders, unchecked spending Donate now to Put a Doctor in the House.
 Help Dr.
-Goldstein bring real solutions to Washington.
-2
-Connecticut families pay roughly 60% more for electricity than the national average.
+Goldstein bring real solutions to Washington. www.goldsteinforcongress.com -info@goldsteinforcongress.com 914-589-8443 Paid for by Goldstein for Congress 2 ACCESS Every Family Deserves Real Choices Affordable Energy Access Connecticut families pay roughly 60% more for electricity than the national average.
 That's not an act of God — it's an act of government.
 Blocked pipelines, restricted natural gas capacity, and ideology-first energy policy have made Connecticut one of the most expensive places in America to turn on the lights.
 I will fight for federal legislation that expands pipeline capacity and delivers affordable energy to every home in CT-04.
-If a treatment could save your child, you shouldn't need a lobbyist to get it.
+Affordable Healthcare Access If a treatment could save your child, you shouldn't need a lobbyist to get it.
 And if you need to see a doctor, the bill shouldn't bankrupt your family.
 We'll break the stranglehold that bureaucracy, PBMs, insurance middlemen, and patent manipulation have on healthcare costs — and build a system where competition drives prices down and patients come first.
-Vocational training vouchers.
+Affordable Education Access Vocational training vouchers.
 Technical high schools.
 Career academies.
 No more waitlists for kids who want to work.
-College-bound, career-bound, or fighting for your life — you deserve choices, not barriers.
-3
-01
-Give kids direction early
-02
-Connect students with Sikorsky, Electric Boat, Yale Health, Pratt & Whitney
-03
-Earn while you learn.
+Options for Every Family College-bound, career-bound, or fighting for your life — you deserve choices, not barriers.
+3 OPPORTUNITY Education That Leads to Careers — Not Just Diplomas 01 Career Pathways Starting in Middle School Give kids direction early 02 High School-Employer Partnerships Connect students with Sikorsky, Electric Boat, Yale Health, Pratt & Whitney 03 Apprenticeships That Pay Earn while you learn.
 Finish with job waiting.
 Zero debt.
-04
-Graduate from CT college, work here 5 years, we forgive up to $25,000
-05
-Every student crosses stage with next step.
+04 Stay-in-Connecticut Debt Relief Graduate from CT college, work here 5 years, we forgive up to $25,000 05 No Graduate Left Behind Every student crosses stage with next step.
 Job offer.
 Apprenticeship.
 College.
 Something.
-Stay Connected
-Join thousands of Connecticut residents staying informed about our movement
-Paid for by Goldstein for Congress
-Republican Primary
-Find your nearest early voting site and make your voice heard.
+Stay Connected Stay Connected Follow the Campaign & Get Updates Subscribe box for email updates and policy deep-dives Email here Social Media Links Instagram Facebook Twitter/X YouTube Substack Donate Join thousands of Connecticut residents staying informed about our movement Dr.
+Mike Goldstein for Congress Accountability.
+Access.
+Opportunity.
+A Doctor A Lawyer A Father A Fighter DONATE www.goldsteinforcongress.com info@goldsteinforcongress.com Paid for by Goldstein for Congress Republican Primary REPUBLICAN PRIMARY August 11, 2026 Early Voting: August 3 – 9 Find your nearest early voting site and make your voice heard.
+Find Early Voting in Your Town Donate to the Campaign Paid for by Goldstein for Congress

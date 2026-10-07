@@ -1,13 +1,11 @@
-We Fixed an Aquarium Transparency Issue We Should Have Prevented Last Year
-May 7th 2026
-Earlier this week, the Onondaga County Legislature passed a bill that increases transparency around large donations made through county affiliated “friends” organizations including projects like the aquarium.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate We Fixed an Aquarium Transparency Issue We Should Have Prevented Last Year May 7th 2026 Earlier this week, the Onondaga County Legislature passed a bill that increases transparency around large donations made through county affiliated “friends” organizations including projects like the aquarium.
 I voted for the legislation and I’m glad it passed because it closes a loophole that never should have existed in the first place.
 What frustrates me is that this entire situation was preventable.
 In 2025, the Legislature voted to give the County Executive the authority to accept private aquarium donations without having to come back to the Legislature for approval.
 I voted no.
 At the time, my concern was simple: once you weaken oversight on a major public project and create pathways for money to move with limited scrutiny, you create the exact conditions where transparency problems can grow.
 That concern was dismissed.
-Then, in March of this year, we learned that a secret donation tied to the aquarium had moved through a county affiliated entity, the Syracuse Soundstage, without legislators or the public knowing key details.
+Then, in March of this year, we learned that a secret donation tied to the aquarium had moved through a county affiliated entity , the Syracuse Soundstage, without legislators or the public knowing key details.
 The issue became public not because the county executive’s office voluntarily disclosed it, but because we flipped the county legislature.
 With Democrats are in control, we forced the conversation into the open.
 Suddenly, many of the same people who were comfortable reducing oversight last year were now talking about the importance of transparency.
@@ -30,7 +28,7 @@ I am glad future administrations will face stronger transparency requirements wh
 But I would much rather be part of a government that prevents obvious mistakes than one that repeatedly waits for public embarrassment before doing the right thing.
 This vote was a step in the right direction.
 It just came a year later than it should have.
-What did Onondaga County’s new aquarium transparency bill do?
+Read More of My Thoughts on Current Events Frequently Asked Questions: What did Onondaga County’s new aquarium transparency bill do?
 The bill increases transparency around large donations made through county affiliated “friends” organizations connected to public projects like the aquarium.
 It creates stronger disclosure requirements and ensures there is greater oversight when private money is involved in public projects.
 Why did Maurice Brown support the aquarium transparency bill?
@@ -42,4 +40,6 @@ He voted against the 2025 legislation that allowed the County Executive to accep
 I believed it weakened oversight and created transparency risks.
 How is Maurice Brown different from the Bill Magnarelli?
 After nearly three decades of the same representation, Maurice believes the district needs urgency and accountability.
-He offers a clear affordability first agenda and a willingness to challenge corporate interests.
+He offers a clear affordability first agenda and a willingness to challenge corporate interests. ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

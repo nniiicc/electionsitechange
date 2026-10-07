@@ -1,40 +1,19 @@
-More Lowcountry Leaders Endorse Rear Admiral Nancy Lacore for U.S.
-Congress
-Momentum continues to build for first-time candidate and retired Navy Admiral
-Press Release | april 14, 2026CONTACT:
-Kaylie Haberstroh | kaylie@nancylacore.com
-Mount Pleasant, SC — Today, a growing coalition of Lowcountry leaders announced their endorsement of Democrat Nancy Lacore’s campaign for Congress in South Carolina’s First Congressional District, further solidifying the campaign’s early momentum and broad-based support.
-The endorsements come on the heels of last week’s announcement that three-term Republican Mount Pleasant Mayor Will Haynie crossed party lines to support Lacore, a retired three-star Navy Admiral—an early signal of her ability to build a coalition that extends beyond traditional party lines.
-Those endorsing Lacore today include:
-- John Tecklenburg, former Mayor of Charleston
-- JA Moore, Member of the South Carolina House of Representatives (Berkeley, Charleston)
-- Julia Drayon-Crumblin, James Island Town Councilmember
-- Michael O.
-Williams, James Island Town Councilmember
-- Kathryn Whitaker, Mount Pleasant Town Councilmember
-- Jan Anderson, former Isle of Palms Councilmember
-- Elizabeth Colbert-Busch, former Democratic nominee, SC-01
-- Linda Ketner, former Democratic nominee, SC-01 and Cofounder of AFFA
-- Michael B.
-Moore, 2024 Democratic nominee, SC-01
-- Ginny Deerin, former candidate for Mayor of Charleston
-- Kaye Koonce, DNC Member, Charleston County
-- Waring Howe, former Charleston County Democratic Party Chairman and DNC Member
-Taken together, this group represents decades of leadership across the Lowcountry—local government, state government, and national political engagement—underscoring the depth of support behind Lacore’s candidacy.
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate More Lowcountry Leaders Endorse Rear Admiral Nancy Lacore for U.S.
+Congress Apr 14 Written By Kasey Lacore Momentum continues to build for first-time candidate and retired Navy Admiral Press Release | april 14, 2026 CONTACT: Kaylie Haberstroh | kaylie@nancylacore.com ‍ ‍ Mount Pleasant, SC — Today, a growing coalition of Lowcountry leaders announced their endorsement of Democrat Nancy Lacore’s campaign for Congress in South Carolina’s First Congressional District, further solidifying the campaign’s early momentum and broad-based support.
+The endorsements come on the heels of last week’s announcement that three-term Republican Mount Pleasant Mayor Will Haynie crossed party lines to support Lacore , a retired three-star Navy Admiral—an early signal of her ability to build a coalition that extends beyond traditional party lines.
+Those endorsing Lacore today include: John Tecklenburg, former Mayor of Charleston JA Moore, Member of the South Carolina House of Representatives (Berkeley, Charleston) Julia Drayon-Crumblin, James Island Town Councilmember Michael O.
+Williams, James Island Town Councilmember Kathryn Whitaker, Mount Pleasant Town Councilmember Jan Anderson, former Isle of Palms Councilmember Elizabeth Colbert-Busch, former Democratic nominee, SC-01 Linda Ketner, former Democratic nominee, SC-01 and Cofounder of AFFA Michael B.
+Moore, 2024 Democratic nominee, SC-01 Ginny Deerin, former candidate for Mayor of Charleston Kaye Koonce, DNC Member, Charleston County Waring Howe, former Charleston County Democratic Party Chairman and DNC Member Taken together, this group represents decades of leadership across the Lowcountry—local government, state government, and national political engagement—underscoring the depth of support behind Lacore’s candidacy.
 “I am truly honored to have the support of such respected leaders who have dedicated their lives to serving our community,” said Lacore.
-“I look forward to campaigning alongside them across the district in both the Primary and General elections.”
-“Voters across the Lowcountry know we need a new direction in Washington,” Lacore added.
+“I look forward to campaigning alongside them across the district in both the Primary and General elections.” “Voters across the Lowcountry know we need a new direction in Washington,” Lacore added.
 “We need a Congress that will stand up for the Constitution, protect our democratic institutions, tackle the rising cost of living, and defend our coast and natural resources.
-That’s exactly what I intend to do.”
-Earlier this month, Lacore announced raising over $1 million in less than one quarter since formally launching her campaign—setting a new benchmark for any Democrat running in the First Congressional District and demonstrating significant early strength.
-Lacore has been actively campaigning since initially announcing her candidacy, participating in forums, county conventions, and hosting events - meeting voters where they are throughout the Lowcountry.
-Additionally, Lacore has earned national endorsements from The Bench, EMILYs List, and VoteVets
-With a record-setting fundraising start and a rapidly expanding list of endorsements from leaders across the political spectrum—Lacore’s campaign continues to build momentum heading into the 2026 election cycle.
-###
-About Nancy Lacore
-Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three-star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
+That’s exactly what I intend to do.” Earlier this month, Lacore announced raising over $1 million in less than one quarter since formally launching her campaign—setting a new benchmark for any Democrat running in the First Congressional District and demonstrating significant early strength.
+Lacore has been actively campaigning since initially announcing her candidacy, participating in forums , county conventions , and hosting events - meeting voters where they are throughout the Lowcountry.
+Additionally, Lacore has earned national endorsements from The Bench , EMILYs List , and VoteVets With a record-setting fundraising start and a rapidly expanding list of endorsements from leaders across the political spectrum—Lacore’s campaign continues to build momentum heading into the 2026 election cycle.
+### About Nancy Lacore Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three-star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
 Shortly after completing flight school, Nancy met and married her husband Pat, also a Navy helicopter pilot who served for 29 years, and together they raised six children.
 Nancy’s military service ended abruptly in the summer of 2025 — when Pete Hegseth removed her from her position with no explanation — but she is not done serving our country.
 In this next chapter, Nancy is ready to put her experience, her values, and her voice to work for SC-01 in Congress.
-Visit Nancy’s website at nancylacore.com.
-###
+Visit Nancy’s website at nancylacore.com .
+### Kasey Lacore Previous Previous 78th Secretary of the United States Navy and Marine Corps Endorses RADM Nancy Lacore for Congress in SC-01 Next Next Rear Admiral Nancy Lacore, Ret., Raises $1 Million in First Quarter, Establishes Early Strength in SC-01 Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

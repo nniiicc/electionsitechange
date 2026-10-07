@@ -1,5 +1,2 @@
-Voter Information
-The last day to register to Vote in the September 1st Primary election is August 21, 2026
-Primary Election Day Is September 1 , 2026.
-Committee to Elect Edward Pacheco
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Voter Information The last day to register to Vote in the September 1st Primary election is August 21, 2026 Primary Election Day Is September 1 , 2026.
+Verify your Voter Registration Status Register to Vote Request an Absentee Ballot Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

@@ -1,63 +1,15 @@
-ABINGTON, PA – Ken Krawchuk, the Pennsylvania Libertarian gubernatorial candidate, is kicking off an eight day statewide pub crawl, with plans to visit literally dozens of local brew pubs all across Pennsylvania.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page LIBERTARIAN GOVERNOR CANDIDATE KEN KRAWCHUK TO KICK OFF A STATEWIDE PUB CRAWL Deprecated : ltrim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kenktrtu/public_html/wp-includes/formatting.php on line 4558 by | Jul 7, 2026 | Press Releases | 0 comments ABINGTON, PA – Ken Krawchuk, the Pennsylvania Libertarian gubernatorial candidate, is kicking off an eight day statewide pub crawl, with plans to visit literally dozens of local brew pubs all across Pennsylvania.
 His journey begins on Wednesday, July 8th and extends through Wednesday, July 15th.
 The goal is to meet with the public and press, and to collect ballot access signatures necessary to get the Libertarian Party candidates on the November 2026 ballot.
 A number of local Libertarian candidates for State Rep are also expected to join the crawl.
 Krawchuk does not plan any formal agenda for the stops.
 “It’ll just be a great opportunity to engage with regular people in a regular environment, not to mention a good way to collect signatures to ensure ballot access.
-I’m expecting the voters will be—and have been!—very receptive to the Libertarian plan to eliminate the much-hated school property tax and to fix our failing schools.”
-In addition to spending his daytimes meeting voters, Krawchuk plans to camp out overnight at Pennsylvania state parks along the way.
+I’m expecting the voters will be—and have been!—very receptive to the Libertarian plan to eliminate the much-hated school property tax and to fix our failing schools.” In addition to spending his daytimes meeting voters, Krawchuk plans to camp out overnight at Pennsylvania state parks along the way.
 “I’m a life-long camper and overnight backpacker,” Krawchuk points out.
 “So camping out along the campaign trail combines serious campaigning with a fun time, especially since I’ll be traveling in my self-driving Tesla Cybertruck.
-And our state parks are a showcase for some of the prettiest places in Pennsylvania.”
-The schedule of stops includes the following:
-| Date | Day | Time | Place and City | Website |
-| 7/8 | Wednesday | 12:00 PM | Pour Man’s Brewing Company, Ephrata | pourmansbrewingco.com |
-| | | 2:00 PM | Snitz Creek Brewery, Lebanon | snitzcreekbrewery.com |
-| | | 4:00 PM | Troegs Independent Brewing, Hershey | troegs.com |
-| | | 6:00 PM | Big Dog Craft Brewing, Lancaster | bigdogcraftbrewing.com |
-| | | 8:00 PM | Liquid Hero Brewery, York | liquidhero.com |
-| | | Overnight | Gifford Pinchot State Park | |
-| 7/9 | Thursday | 12:00 PM | Duke’s Riverfront, Wormleysburg | dukesriverfront.com |
-| | | 2:00 PM | Appalachian Brewing Company, Gettysburg | abcbrew.com |
-| | | 4:00 PM | GearHouse Brewing Company, Chambersburg | gearhousebrewingco.com |
-| | | 6:00 PM | Levity Brewing Co.
-Altoona | levitybrewing.com |
-| | | 8:00 PM | Stone Bridge Brewing Taproom, Johnstown | stonebridgebeer.com |
-| | | Overnight | Keystone State Park | |
-| 7/10 | Friday | 12:00 PM | Braddock Public House, Braddock | braddockpublichouse.com |
-| | | 2:00 PM | Southern Tier Brewery, Pittsburgh | pittsburgh.stbcbeer.com |
-| | | 4:00+ PM | Cranberry Summer Nights, Cranberry Township | cranberryfoundation.org/ summernights |
-| | | Overnight | Pymatuning State Park | |
-| 7/11 | Saturday | 12:00 PM | TimberCreek Tap & Table, Grove City | timbercreektap.com |
-| | | 2:00 PM | Trails to Ales Brewery, Franklin | trailstoalesbrewery.com |
-| | | 4:00 PM | Riverside Brewing Co, Cambridge Springs | www.riversidebrewing.co |
-| | | 6:00 PM | Erie Ale Works, Erie | eriealeworks.com |
-| | | 8:00 PM | Bent Run Brewing, Warren | bentrunbrewing.com |
-| | | Overnight | Cook Forest State Park | |
-| 7/12 | Sunday | 12:00 PM | The Brew Bank Brewing Company, Ridgeway | thebrewbankco.com |
-| | | 2:00 PM | Dented Keg Brewing Company, Clearfield | dentedkeg.com |
-| | | 4:00 PM | The Dead Canary Brewing Co., Philipsburg | thedeadcanary.co |
-| | | 6:00 PM | Antifragile Brewing Company, State College | antifragilebrew.com |
-| | | 8:00 PM | The Bierhaus.
-Lewisburg | thebierhaus.us |
-| | | Overnight | Poe Valley State Park | |
-| 7/13 | Monday | 12:00 PM | Rusty Rail Brewing, Mifflinburg | rustyrailbrewing.com |
-| | | 2:00 PM | Old Forge Brewing, Danville | oldforgebrewing.com |
-| | | 4:00 PM | Jackass Brewing Company, Williamsport | jackassbrewingcompany.com |
-| | | 6:00 PM | Turkey Hill Brewing Company, Bloomsburg | turkeyhillbrewing.com |
-| | | Overnight | Frances Slocum State Park | |
-| 7/14 | Tuesday | 12:00 PM | Dino & Francesco’s Pizza, Clarks Summit | dinoandfrancescoscs.com |
-| | | 2:00 PM | Mutant Brewing, Scranton | mutantbrewing.com |
-| | | 4:00 PM | Breaker Brewing Company, Wilkes-Barre | breakerbrewingcompany.com |
-| | | 6:00 PM | Susquehanna Brewing Co., Pittston | sbcbeer.com |
-| | | 8:00 PM | Black Rock Brewpub, Pottsville | blackrockbrewpub.com |
-| | | Overnight | Locust Lake State Park | |
-| 7/15 | Wednesday | 12:00 PM | Copperz Brewing Co, Hamburg | copperzbrewing.com |
-| | | 2:00 PM | Grumpy’s Bar-B-Que Roadhouse, Allentown | grumpysbbq.net |
-| | | 4:00 PM | Bethlehem Brew Works, Bethlehem | bethlehembrewworks.com |
-| | | 6:00 PM | Weyerbacher Brewing, Easton | weyerbacher.com |
-| | | 8:00 PM | Pagoda City Brewhouse, Reading | pagodacitybrewing.com |
-Ken Krawchuk of Abington is an Information Technology entrepreneur, a patented inventor, a Philadelphia talk show host, an award-winning Toastmaster, and an author.
+And our state parks are a showcase for some of the prettiest places in Pennsylvania.” The schedule of stops includes the following: Date Day Time Place and City Website 7/8 Wednesday 12:00 PM Pour Man’s Brewing Company, Ephrata pourmansbrewingco.com 2:00 PM Snitz Creek Brewery, Lebanon snitzcreekbrewery.com 4:00 PM Troegs Independent Brewing, Hershey troegs.com 6:00 PM Big Dog Craft Brewing, Lancaster bigdogcraftbrewing.com 8:00 PM Liquid Hero Brewery, York liquidhero.com Overnight Gifford Pinchot State Park 7/9 Thursday 12:00 PM Duke’s Riverfront, Wormleysburg dukesriverfront.com 2:00 PM Appalachian Brewing Company, Gettysburg abcbrew.com 4:00 PM GearHouse Brewing Company, Chambersburg gearhousebrewingco.com 6:00 PM Levity Brewing Co.
+Altoona levitybrewing.com 8:00 PM Stone Bridge Brewing Taproom, Johnstown stonebridgebeer.com Overnight Keystone State Park 7/10 Friday 12:00 PM Braddock Public House, Braddock braddockpublichouse.com 2:00 PM Southern Tier Brewery, Pittsburgh pittsburgh.stbcbeer.com 4:00+ PM Cranberry Summer Nights, Cranberry Township cranberryfoundation.org/ summernights Overnight Pymatuning State Park 7/11 Saturday 12:00 PM TimberCreek Tap & Table, Grove City timbercreektap.com 2:00 PM Trails to Ales Brewery, Franklin trailstoalesbrewery.com 4:00 PM Riverside Brewing Co, Cambridge Springs www.riversidebrewing.co 6:00 PM Erie Ale Works, Erie eriealeworks.com 8:00 PM Bent Run Brewing, Warren bentrunbrewing.com Overnight Cook Forest State Park 7/12 Sunday 12:00 PM The Brew Bank Brewing Company, Ridgeway thebrewbankco.com 2:00 PM Dented Keg Brewing Company, Clearfield dentedkeg.com 4:00 PM The Dead Canary Brewing Co., Philipsburg thedeadcanary.co 6:00 PM Antifragile Brewing Company, State College antifragilebrew.com 8:00 PM The Bierhaus.
+Lewisburg thebierhaus.us Overnight Poe Valley State Park 7/13 Monday 12:00 PM Rusty Rail Brewing, Mifflinburg rustyrailbrewing.com 2:00 PM Old Forge Brewing, Danville oldforgebrewing.com 4:00 PM Jackass Brewing Company, Williamsport jackassbrewingcompany.com 6:00 PM Turkey Hill Brewing Company, Bloomsburg turkeyhillbrewing.com Overnight Frances Slocum State Park 7/14 Tuesday 12:00 PM Dino & Francesco’s Pizza, Clarks Summit dinoandfrancescoscs.com 2:00 PM Mutant Brewing, Scranton mutantbrewing.com 4:00 PM Breaker Brewing Company, Wilkes-Barre breakerbrewingcompany.com 6:00 PM Susquehanna Brewing Co., Pittston sbcbeer.com 8:00 PM Black Rock Brewpub, Pottsville blackrockbrewpub.com Overnight Locust Lake State Park 7/15 Wednesday 12:00 PM Copperz Brewing Co, Hamburg copperzbrewing.com 2:00 PM Grumpy’s Bar-B-Que Roadhouse, Allentown grumpysbbq.net 4:00 PM Bethlehem Brew Works, Bethlehem bethlehembrewworks.com 6:00 PM Weyerbacher Brewing, Easton weyerbacher.com 8:00 PM Pagoda City Brewhouse, Reading pagodacitybrewing.com Ken Krawchuk of Abington is an Information Technology entrepreneur, a patented inventor, a Philadelphia talk show host, an award-winning Toastmaster, and an author.
 He has previously appeared on the gubernatorial ballot three times, facing Tom Ridge in 1998, Ed Rendell in 2002, and Tom Wolf in 2018, setting consecutive Libertarian Party records for vote totals in each race.
 John Thomas is a Cyber School educator.
 He was the Libertarian Party candidate for U.S.
@@ -65,5 +17,5 @@ Senate in 2024, placing third in a field of five, and receiving more than enough
 Founded in 1971, the Libertarian Party is the third largest political party in the state and the nation, with over 200 elected and appointed officials currently serving in office in Pennsylvania alone, and many more nationwide.
 Libertarians believe that you have the inalienable right to conduct your life as you see fit, without interference, so long as you respect the rights and property of others.
 It’s the Golden Rule on a political level.
-For more information about the Libertarian Party, the public is invited to contact the Krawchuk/Thomas campaign at KenK4Pa.com, Campaign@KenK4Pa.com, or (224) Krawchuk (224-572-9248), the Libertarian Party of Pennsylvania at LpPa.org or (800) R-RIGHTS, or the National Libertarian Party at Lp.org or (202) 333-0008.
-– end – Release 26-04
+For more information about the Libertarian Party, the public is invited to contact the Krawchuk/Thomas campaign at KenK4Pa.com, Campaign@KenK4Pa.com, or (224) Krawchuk (224-572-9248), the Libertarian Party of Pennsylvania at LpPa.org or (800) R-RIGHTS, or the National Libertarian Party at Lp.org or (202) 333-0008. – end – Release 26-04 Submit a Comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Search for: Latest News Pennsylvania Voters Gain a Third Choice for Governor as Libertarian Ticket Is Certified LIBERTARIAN GOVERNOR CANDIDATE KEN KRAWCHUK TO KICK OFF A STATEWIDE PUB CRAWL LIBERTARIAN GOVERNOR CANDIDATE KEN KRAWCHUK CALLS FOR DEFUNDING PRIMARIES Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

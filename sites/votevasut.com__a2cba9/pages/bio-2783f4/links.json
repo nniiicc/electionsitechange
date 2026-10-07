@@ -1,115 +1,462 @@
 [
-"http://facebook.com/votevasut",
-"http://linkedin.com/in/cvasut",
-"http://ratings.conservative.org/people/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"http://twitter.com/cvasut",
-"https://capitol.texas.gov./",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1&LegSess=884",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB11&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB145&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1513&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1516&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1927&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1981&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1984&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1987&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB2450&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB25&LegSess=873",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB2730&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB2912&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB299&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB3025&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB311&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB3660&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB3770&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB4125&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB5&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB524&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB5336&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB59&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB609&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB613&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB616&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB630&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB764&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB9&LegSess=872",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR132&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR15&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR32&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR34&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR37&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR38&LegSess=88R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR4&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR63&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR64&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB1&LegSess=872",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB1336&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB2&LegSess=882",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB3&LegSess=882",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB4&LegSess=884",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB7&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB7&LegSess=883",
-"https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB8&LegSess=87R",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB4",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB7",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HR128",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB12",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB8",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1661",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1729",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB227",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2674",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3556",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4310",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB886",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HJR98",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1426",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB17",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2052",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB4",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB412",
-"https://capitol.texas.gov/Search/BillSearchResults.aspx?AAO=O&ASAndOr=O&Actions=H555%3B&AuthorCode=A4065&BillType=B%3BJR%3B%3B%3B%3B%3B&ChamberH=True&ChamberS=True&ID=rKXfRpYTr&IsCA=False&IsCS=False&IsJA=False&IsJS=False&IsPA=True&IsPS=True&LastAction=False&Leg=88&NSP=2&SPA=True&SPC=False&SPL=True&SPS=False&Sess=R&SponsorCode=A4065",
-"https://capitol.texas.gov/Search/BillSearchResults.aspx?AAO=O&ASAndOr=O&Actions=H555%3BE058%3BE040%3BE050%3BE200%3BE070%3BE060%3BE045%3BE059%3BE056%3BE057%3B&AuthorCode=A4065&BillType=B%3BJR%3B%3B%3B%3B%3B&ChamberH=True&ChamberS=True&ID=rKXfRpYTr&IsCA=False&IsCS=False&IsJA=False&IsJS=False&IsPA=True&IsPS=True&LastAction=True&Leg=88&NSP=2&SPA=True&SPC=False&SPL=True&SPS=False&Sess=R&SponsorCode=A4065",
-"https://capitol.texas.gov/Search/BillSearchResults.aspx?NSP=2&SPL=True&SPC=False&SPA=True&SPS=False&Leg=89&Sess=R&ChamberH=True&ChamberS=True&BillType=B%3BJR%3B%3B%3B%3B%3B&AuthorCode=A4065&SponsorCode=A4065&ASAndOr=O&IsPA=True&IsJA=False&IsCA=False&IsPS=True&IsJS=False&IsCS=False&LastAction=False&Actions=E058%3BE040%3BE050%3BE200%3BE070%3BE060%3BE045%3BE059%3BE056%3BE057%3BE010%3BE025%3BE001%3BE085%3BE005%3BE015%3BE020%3BE030%3B&AAO=O&ID=8pnii9I5s",
-"https://capitol.texas.gov/Search/BillSearchResults.aspx?NSP=2&SPL=True&SPC=False&SPA=True&SPS=False&Leg=89&Sess=R&ChamberH=True&ChamberS=True&BillType=B%3BJR%3B%3B%3B%3B%3B&AuthorCode=A4065&SponsorCode=A4065&ASAndOr=O&IsPA=True&IsJA=False&IsCA=False&IsPS=True&IsJS=False&IsCS=False&LastAction=False&Actions=H555%3BH556%3B&AAO=O&ID=8pnii9I5s",
-"https://capitol.texas.gov/reports/report.aspx?Code=A4065&ID=author&LegSess=87R",
-"https://capitol.texas.gov/reports/report.aspx?Code=A4065&ID=coauthor&LegSess=87R",
-"https://capitol.texas.gov/tlodocs/87R/amendments/pdf/HB00003H28.PDF",
-"https://drive.google.com/file/d/1sss71h0Db6QlhBCi9ksB3mn4CVhoDbE8/view",
-"https://freedomfortexas.com/",
-"https://index.texastaxpayers.com/legislators/cody-vasut/2021-index",
-"https://index.texastaxpayers.com/legislators/cody-vasut/2023-index",
-"https://index.texastaxpayers.com/legislators/cody-vasut/2025-index",
-"https://journals.house.texas.gov/hjrnl/884/pdf/88C4DAY05CFINAL.PDF",
-"https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY02FINAL.PDF",
-"https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY45FINAL.PDF",
-"https://ratings.yct.org/legislative-sessions",
-"https://ratings.yct.org/legislators/cody-vasut/88th-legislature",
-"https://scorecard.limitedgov.org/lawmakers?state=TX&year=2023",
-"https://texansforvaccinechoice.com/report-cards",
-"https://texansforvaccinechoice.com/wp-content/uploads/2023/06/Cody-vasut.png",
-"https://texashousecaucus.com/",
-"https://texasnuclearcaucus.org/",
-"https://texasrighttolife.com/legislative-scores",
-"https://texasrighttolife.com/pro-life-heroes-of-the-88th-legislature",
-"https://texastribune.org/2021/06/15/texas-house-left-right",
-"https://texastribune.org/2021/11/03/texas-house-senate-right-left",
-"https://texastribune.org/2023/06/20/mark-jones-texas-house-2023-right-left",
-"https://texastribune.org/2023/12/15/mark-jones-texas-house-special-2023-liberal-conservative-scores",
-"https://texastribune.org/2025/06/17/texas-house-2025-conservative-liberal-ranking",
-"https://thefacts.com/news/safety-first-vasut-presented-with-free-enterprise-champion-award/article_5b8f8d69-9916-5063-a165-7908ec9e87f5.html",
-"https://thefacts.com/special/page_afce64ea-2df6-5766-baea-9d2aaeba606a.html",
-"https://thelawmakers.org/wp-content/uploads/2026/06/Highlights-from-the-88th-Texas-Legislature-Legislative-Effectiveness-Scores-1.pdf",
-"https://txcc.org/copy-of-senate-members",
-"https://txvaluesaction.org/legislator/cody-vasut",
-"https://txvaluesaction.org/scorecard-2021",
-"https://votevasut.com/",
-"https://votevasut.com/bio",
-"https://votevasut.com/contact",
-"https://votevasut.com/platform",
-"https://votevasut.com/search",
-"https://votevasut.com/values"
+{
+"text": "11 bills into law",
+"href": "https://capitol.texas.gov/Search/BillSearchResults.aspx?AAO=O&ASAndOr=O&Actions=H555%3BE058%3BE040%3BE050%3BE200%3BE070%3BE060%3BE045%3BE059%3BE056%3BE057%3B&AuthorCode=A4065&BillType=B%3BJR%3B%3B%3B%3B%3B&ChamberH=True&ChamberS=True&CmteCode=&CmteStatus=&FromDate=&FromTime=&ID=rKXfRpYTr&IsCA=False&IsCS=False&IsJA=False&IsJS=False&IsPA=True&IsPS=True&LastAction=True&Leg=88&NSP=2&OnDate=&SAO=&SPA=True&SPC=False&SPL=True&SPS=False&Sess=R&SponsorCode=A4065&Subjects=&TT=&ToDate=&ToTime="
+},
+{
+"text": "19 bills into law",
+"href": "https://capitol.texas.gov/Search/BillSearchResults.aspx?NSP=2&SPL=True&SPC=False&SPA=True&SPS=False&Leg=89&Sess=R&ChamberH=True&ChamberS=True&BillType=B%3BJR%3B%3B%3B%3B%3B&AuthorCode=A4065&SponsorCode=A4065&ASAndOr=O&IsPA=True&IsJA=False&IsCA=False&IsPS=True&IsJS=False&IsCS=False&CmteCode=&CmteStatus=&OnDate=&FromDate=&ToDate=&FromTime=&ToTime=&LastAction=False&Actions=E058%3BE040%3BE050%3BE200%3BE070%3BE060%3BE045%3BE059%3BE056%3BE057%3BE010%3BE025%3BE001%3BE085%3BE005%3BE015%3BE020%3BE030%3B&AAO=O&Subjects=&SAO=&TT=&ID=8pnii9I5s"
+},
+{
+"text": "2021 American Conservative Union Rating",
+"href": "http://ratings.conservative.org/people/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d"
+},
+{
+"text": "2021 Rice Index",
+"href": "https://www.texastribune.org/2021/06/15/texas-house-left-right/"
+},
+{
+"text": "2021 Rice Index - Updated through Special Sessions",
+"href": "https://www.texastribune.org/2021/11/03/texas-house-senate-right-left/"
+},
+{
+"text": "2021 Texans for Fiscal Responsibility Index",
+"href": "https://index.texastaxpayers.com/legislators/cody-vasut/2021-index"
+},
+{
+"text": "2021 Texas Values Action Faith & Family Scorecard",
+"href": "https://txvaluesaction.org/scorecard-2021/"
+},
+{
+"text": "2023 Analysis of Votes on Limited Government",
+"href": "https://scorecard.limitedgov.org/lawmakers?state=TX&year=2023"
+},
+{
+"text": "2023 Rice Index",
+"href": "https://www.texastribune.org/2023/06/20/mark-jones-texas-house-2023-right-left/"
+},
+{
+"text": "2023 Rice Special Session Index",
+"href": "https://www.texastribune.org/2023/12/15/mark-jones-texas-house-special-2023-liberal-conservative-scores/"
+},
+{
+"text": "2023 TFR Ratings",
+"href": "https://index.texastaxpayers.com/legislators/cody-vasut/2023-index"
+},
+{
+"text": "2023 Texans for Vaccine Choice Report Card",
+"href": "https://texansforvaccinechoice.com/wp-content/uploads/2023/06/Cody-vasut.png"
+},
+{
+"text": "2023 Texas Values Action Faith & Family Scorecard",
+"href": "https://txvaluesaction.org/legislator/cody-vasut/"
+},
+{
+"text": "2023 YCT Ratings",
+"href": "https://ratings.yct.org/legislators/cody-vasut/88th-legislature"
+},
+{
+"text": "2025 Fiscal Responsibility Index",
+"href": "https://index.texastaxpayers.com/legislators/cody-vasut/2025-index"
+},
+{
+"text": "2025 Rice Index",
+"href": "https://www.texastribune.org/2025/06/17/texas-house-2025-conservative-liberal-ranking/"
+},
+{
+"text": "2025 Texans for Vaccine Choice Report Card",
+"href": "https://texansforvaccinechoice.com/report-cards/"
+},
+{
+"text": "2025 Texas Right to Life Ratings",
+"href": "https://texasrighttolife.com/legislative-scores/"
+},
+{
+"text": "2025 Texas Values Action Ratings",
+"href": "https://txvaluesaction.org/legislator/cody-vasut/"
+},
+{
+"text": "2025 YCT Ratings",
+"href": "https://ratings.yct.org/legislative-sessions"
+},
+{
+"text": "25 bills through the House",
+"href": "https://capitol.texas.gov/Search/BillSearchResults.aspx?NSP=2&SPL=True&SPC=False&SPA=True&SPS=False&Leg=89&Sess=R&ChamberH=True&ChamberS=True&BillType=B%3BJR%3B%3B%3B%3B%3B&AuthorCode=A4065&SponsorCode=A4065&ASAndOr=O&IsPA=True&IsJA=False&IsCA=False&IsPS=True&IsJS=False&IsCS=False&CmteCode=&CmteStatus=&OnDate=&FromDate=&ToDate=&FromTime=&ToTime=&LastAction=False&Actions=H555%3BH556%3B&AAO=O&Subjects=&SAO=&TT=&ID=8pnii9I5s"
+},
+{
+"text": "27 bills through the House",
+"href": "https://capitol.texas.gov/Search/BillSearchResults.aspx?AAO=O&ASAndOr=O&Actions=H555%3B&AuthorCode=A4065&BillType=B%3BJR%3B%3B%3B%3B%3B&ChamberH=True&ChamberS=True&CmteCode=&CmteStatus=&FromDate=&FromTime=&ID=rKXfRpYTr&IsCA=False&IsCS=False&IsJA=False&IsJS=False&IsPA=True&IsPS=True&LastAction=False&Leg=88&NSP=2&OnDate=&SAO=&SPA=True&SPC=False&SPL=True&SPS=False&Sess=R&SponsorCode=A4065&Subjects=&TT=&ToDate=&ToTime="
+},
+{
+"text": "Authored",
+"href": "https://capitol.texas.gov/reports/report.aspx?Code=A4065&ID=author&LegSess=87R"
+},
+{
+"text": "Center for Effective Lawmaking 88th Report",
+"href": "https://thelawmakers.org/wp-content/uploads/2026/06/Highlights-from-the-88th-Texas-Legislature-Legislative-Effectiveness-Scores-1.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.votevasut.com/contact"
+},
+{
+"text": "Explanation of Vote",
+"href": "https://journals.house.texas.gov/hjrnl/89r/pdf/89RDAY45FINAL.PDF#page=137"
+},
+{
+"text": "Freedom Caucus",
+"href": "https://www.freedomfortexas.com"
+},
+{
+"text": "HB 1, 88-4",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1&LegSess=884"
+},
+{
+"text": "HB 1, Amendment 2, 88-4",
+"href": "https://journals.house.texas.gov/hjrnl/884/pdf/88C4DAY05CFINAL.PDF#page=18"
+},
+{
+"text": "HB 11, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB11&LegSess=87R"
+},
+{
+"text": "HB 145, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB145&LegSess=88R"
+},
+{
+"text": "HB 1513, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1513&LegSess=88R"
+},
+{
+"text": "HB 1516, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1516&LegSess=87R"
+},
+{
+"text": "HB 1661",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1661"
+},
+{
+"text": "HB 1729",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1729"
+},
+{
+"text": "HB 1927, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1927&LegSess=87R"
+},
+{
+"text": "HB 1981, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1981&LegSess=88R"
+},
+{
+"text": "HB 1984, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1984&LegSess=87R"
+},
+{
+"text": "HB 1987, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB1987&LegSess=87R"
+},
+{
+"text": "HB 2, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2"
+},
+{
+"text": "HB 227",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB227"
+},
+{
+"text": "HB 2450, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB2450&LegSess=87R"
+},
+{
+"text": "HB 25, 87-3",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB25&LegSess=873"
+},
+{
+"text": "HB 2674, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2674"
+},
+{
+"text": "HB 2730, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB2730&LegSess=87R"
+},
+{
+"text": "HB 2912, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB2912&LegSess=87R"
+},
+{
+"text": "HB 299, 87-R,",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB299&LegSess=87R"
+},
+{
+"text": "HB 3, 87-R,",
+"href": "https://capitol.texas.gov/tlodocs/87R/amendments/pdf/HB00003H28.PDF"
+},
+{
+"text": "HB 3025, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB3025&LegSess=88R"
+},
+{
+"text": "HB 311, 87-R,",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB311&LegSess=87R"
+},
+{
+"text": "HB 3556",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3556"
+},
+{
+"text": "HB 3660, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB3660&LegSess=88R"
+},
+{
+"text": "HB 3770, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB3770&LegSess=87R"
+},
+{
+"text": "HB 4",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB4"
+},
+{
+"text": "HB 4125, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB4125&LegSess=87R"
+},
+{
+"text": "HB 4310",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4310"
+},
+{
+"text": "HB 5, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB5&LegSess=87R"
+},
+{
+"text": "HB 524, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB524&LegSess=88R"
+},
+{
+"text": "HB 5336, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB5336&LegSess=88R"
+},
+{
+"text": "HB 59, 87-R,",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB59&LegSess=87R"
+},
+{
+"text": "HB 609, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB609&LegSess=88R"
+},
+{
+"text": "HB 613, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB613&LegSess=88R"
+},
+{
+"text": "HB 616, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB616&LegSess=88R"
+},
+{
+"text": "HB 630, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB630&LegSess=88R"
+},
+{
+"text": "HB 7",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB7"
+},
+{
+"text": "HB 764, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB764&LegSess=87R"
+},
+{
+"text": "HB 886, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB886"
+},
+{
+"text": "HB 9, 87-2",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HB9&LegSess=872"
+},
+{
+"text": "HJR 132, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR132&LegSess=88R"
+},
+{
+"text": "HJR 15, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR15&LegSess=87R"
+},
+{
+"text": "HJR 32, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR32&LegSess=88R"
+},
+{
+"text": "HJR 34, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR34&LegSess=88R"
+},
+{
+"text": "HJR 37, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR37&LegSess=88R"
+},
+{
+"text": "HJR 38, 88-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR38&LegSess=88R"
+},
+{
+"text": "HJR 4, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR4&LegSess=87R"
+},
+{
+"text": "HJR 63, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR63&LegSess=87R"
+},
+{
+"text": "HJR 64, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=HJR64&LegSess=87R"
+},
+{
+"text": "HJR 98",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HJR98"
+},
+{
+"text": "HR 128",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HR128"
+},
+{
+"text": "HR 4, Amendment 1, 88-R",
+"href": "https://journals.house.texas.gov/hjrnl/88r/pdf/88RDAY02FINAL.PDF#page=129"
+},
+{
+"text": "Home",
+"href": "https://www.votevasut.com/"
+},
+{
+"text": "House Republican Caucus",
+"href": "https://www.texashousecaucus.com/"
+},
+{
+"text": "Leader Under 40 Award",
+"href": "https://thefacts.com/special/page_afce64ea-2df6-5766-baea-9d2aaeba606a.html"
+},
+{
+"text": "Meet Cody",
+"href": "https://www.votevasut.com/bio"
+},
+{
+"text": "Platform",
+"href": "https://www.votevasut.com/platform"
+},
+{
+"text": "Pro-Life Heroes of the 88th Legislature",
+"href": "https://texasrighttolife.com/pro-life-heroes-of-the-88th-legislature/"
+},
+{
+"text": "SB 1, 87-2",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB1&LegSess=872"
+},
+{
+"text": "SB 12",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB12"
+},
+{
+"text": "SB 1336, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB1336&LegSess=87R"
+},
+{
+"text": "SB 1426",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1426"
+},
+{
+"text": "SB 17, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB17"
+},
+{
+"text": "SB 2, 88-2",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB2&LegSess=882"
+},
+{
+"text": "SB 2, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2"
+},
+{
+"text": "SB 2052",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2052"
+},
+{
+"text": "SB 3, 88-2",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB3&LegSess=882"
+},
+{
+"text": "SB 4, 88-4",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB4&LegSess=884"
+},
+{
+"text": "SB 4, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB4"
+},
+{
+"text": "SB 412, 89-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB412"
+},
+{
+"text": "SB 7, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB7&LegSess=87R"
+},
+{
+"text": "SB 7, 88-3",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB7&LegSess=883"
+},
+{
+"text": "SB 8",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB8"
+},
+{
+"text": "SB 8, 87-R",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?Bill=SB8&LegSess=87R"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Texas Conservative Coalition",
+"href": "https://www.txcc.org/copy-of-senate-members"
+},
+{
+"text": "Texas Nuclear Energy Caucus",
+"href": "https://texasnuclearcaucus.org/"
+},
+{
+"text": "The Facts, October 2, 2023",
+"href": "https://thefacts.com/news/safety-first-vasut-presented-with-free-enterprise-champion-award/article_5b8f8d69-9916-5063-a165-7908ec9e87f5.html"
+},
+{
+"text": "Values",
+"href": "https://www.votevasut.com/values"
+},
+{
+"text": "[image: Cody Vasut for State Representative]",
+"href": "https://www.votevasut.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/votevasut"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/cvasut"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/cvasut"
+},
+{
+"text": "[no text]",
+"href": "https://www.votevasut.com/search"
+},
+{
+"text": "co-authored",
+"href": "https://capitol.texas.gov/reports/report.aspx?Code=A4065&ID=coauthor&LegSess=87R"
+},
+{
+"text": "https://capitol.texas.gov.",
+"href": "https://capitol.texas.gov."
+},
+{
+"text": "legislative priority for the Republican Party of Texas",
+"href": "https://drive.google.com/file/d/1sss71h0Db6QlhBCi9ksB3mn4CVhoDbE8/view"
+}
 ]

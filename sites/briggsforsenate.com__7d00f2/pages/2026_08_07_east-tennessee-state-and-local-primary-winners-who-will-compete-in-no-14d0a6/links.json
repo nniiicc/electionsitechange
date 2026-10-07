@@ -1,15 +1,58 @@
 [
-"https://apple.news/Pwm7rkPeqabvSUQ31LWYWis",
-"https://briggsforsenate.com/",
-"https://briggsforsenate.com/about",
-"https://briggsforsenate.com/contact",
-"https://briggsforsenate.com/endorsements",
-"https://briggsforsenate.com/issues",
-"https://briggsforsenate.com/news",
-"https://briggsforsenate.com/privacy",
-"https://briggsforsenate.com/volunteer",
-"https://facebook.com/RichardBriggsTN",
-"https://instagram.com/senatorbriggstn",
-"https://secure.winred.com/briggsforsenate/donate?sc=website-menu",
-"https://x.com/SenatorBriggs"
+{
+"text": "About",
+"href": "https://www.briggsforsenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.briggsforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/briggsforsenate/donate?sc=website-menu"
+},
+{
+"text": "Endorsements",
+"href": "https://www.briggsforsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.briggsforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.briggsforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.briggsforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.briggsforsenate.com/privacy/"
+},
+{
+"text": "Tennessee Senate District 7",
+"href": "https://apple.news/Pwm7rkPeqabvSUQ31LWYWis"
+},
+{
+"text": "Volunteer",
+"href": "https://www.briggsforsenate.com/volunteer/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RichardBriggsTN"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senatorbriggstn/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/SenatorBriggs"
+},
+{
+"text": "[image]",
+"href": "https://www.briggsforsenate.com/"
+}
 ]

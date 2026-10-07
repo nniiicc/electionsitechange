@@ -1,9 +1,12 @@
 {
- "description": "A plain-English guide to what\u2019s on the ballot in Hamilton County this November, how to vote, and what to double-check before Election Day.",
+ "description": "A plain-English guide to what’s on the ballot in Hamilton County this November, how to vote, and what to double-check before Election Day.",
  "final_url": "https://www.votedevon.com/electionbasics.html",
- "paid_for_by": null,
+ "fingerprint": "3830f61b84d9068b3a727d618baa131cd295a923",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Devon Wellington",
  "title": "Election Basics | Devon Wellington for IN HD-29",
  "years_mentioned": [
-  "2027"
+  "2025",
+  "2026"
  ]
 }

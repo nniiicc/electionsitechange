@@ -1,31 +1,130 @@
 [
-"https://app.leg.wa.gov/RCW/default.aspx?cite=36.70A",
-"https://commerce.wa.gov/serving-communities/growth-management/growth-management-grants",
-"https://commerce.wa.gov/serving-communities/growth-management/growth-management-topics/tribal-planning-coordination-under-the-growth-management-act",
-"https://commerce.wa.gov/serving-communities/growth-management/periodic-update",
-"https://commerce.wa.gov/topic/land-use/growth-management",
-"https://debralekanoff.com/",
-"https://debralekanoff.com/2024/07/choosing-our-democracy-on-fantastic-friday",
-"https://debralekanoff.com/2024/07/voting-for-the-future-on-fantastic-friday",
-"https://debralekanoff.com/about-rep-lekanoff",
-"https://debralekanoff.com/category/fantastic-fridays",
-"https://debralekanoff.com/contact",
-"https://debralekanoff.com/donate",
-"https://debralekanoff.com/fantastic-fridays",
-"https://debralekanoff.com/news-updates",
-"https://debralekanoff.com/press-media",
-"https://debralekanoff.com/top-priorities",
-"https://debralekanoff.com/volunteer",
-"https://ecology.wa.gov/Regulations-Permits/Growth-Management",
-"https://engage.sanjuancountywa.gov/2025-comp-plan-update",
-"https://facebook.com/votedebralekanoff",
-"https://instagram.com/DebraWA40",
-"https://northstarskagit.org/",
-"https://olvr.votewa.gov/olvr2024/landing.aspx",
-"https://salish-current.org/2024/07/09/public-has-its-say-in-comprehensive-planning",
-"https://seattletimes.com/seattle-news/use-these-interactive-maps-to-track-pnw-wildfires-and-air-quality",
-"https://skagit.org/news/p/item/58273/startup-school-graduates-24",
-"https://twitter.com/DebraWA40",
-"https://whatcomcounty.us/4069/Healthy-Childrens-Fund",
-"https://whatcomcounty.us/4373/2025-Comprehensive-Plan-Update"
+{
+"text": "About",
+"href": "https://debralekanoff.com/about-rep-lekanoff/"
+},
+{
+"text": "Contact",
+"href": "https://debralekanoff.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://debralekanoff.com/donate/"
+},
+{
+"text": "Fantastic Fridays",
+"href": "https://debralekanoff.com/category/fantastic-fridays/"
+},
+{
+"text": "Fantastic Fridays",
+"href": "https://debralekanoff.com/fantastic-fridays/"
+},
+{
+"text": "Get Updates",
+"href": "https://debralekanoff.com/#join"
+},
+{
+"text": "Healthy Children’s Fund",
+"href": "https://www.whatcomcounty.us/4069/Healthy-Childrens-Fund"
+},
+{
+"text": "Home",
+"href": "https://debralekanoff.com"
+},
+{
+"text": "Home",
+"href": "https://debralekanoff.com/"
+},
+{
+"text": "News Updates",
+"href": "https://debralekanoff.com/news-updates/"
+},
+{
+"text": "Next",
+"href": "https://debralekanoff.com/2024/07/voting-for-the-future-on-fantastic-friday/"
+},
+{
+"text": "Press & Media",
+"href": "https://debralekanoff.com/press-media/"
+},
+{
+"text": "Previous",
+"href": "https://debralekanoff.com/2024/07/choosing-our-democracy-on-fantastic-friday/"
+},
+{
+"text": "Register To Vote",
+"href": "https://olvr.votewa.gov/olvr2024/landing.aspx"
+},
+{
+"text": "Skagit North Star Initiative",
+"href": "https://northstarskagit.org/"
+},
+{
+"text": "Top Priorities",
+"href": "https://debralekanoff.com/top-priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://debralekanoff.com/volunteer/"
+},
+{
+"text": "[image: Re-Elect Rep. Debra Lekanoff Logo] [image: Re-Elect Rep. Debra Lekanoff Logo]",
+"href": "https://debralekanoff.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/votedebralekanoff/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/DebraWA40"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/DebraWA40"
+},
+{
+"text": "has successfully concluded its first 12-week Small Business course",
+"href": "https://www.skagit.org/news/p/item/58273/startup-school-graduates-24"
+},
+{
+"text": "here",
+"href": "https://www.seattletimes.com/seattle-news/use-these-interactive-maps-to-track-pnw-wildfires-and-air-quality/"
+},
+{
+"text": "https://app.leg.wa.gov/RCW/default.aspx?cite=36.70A",
+"href": "https://app.leg.wa.gov/RCW/default.aspx?cite=36.70A"
+},
+{
+"text": "https://ecology.wa.gov/Regulations-Permits/Growth-Management",
+"href": "https://ecology.wa.gov/Regulations-Permits/Growth-Management"
+},
+{
+"text": "https://engage.sanjuancountywa.gov/2025-comp-plan-update",
+"href": "https://engage.sanjuancountywa.gov/2025-comp-plan-update"
+},
+{
+"text": "https://salish-current.org/2024/07/09/public-has-its-say-in-comprehensive-planning/",
+"href": "https://salish-current.org/2024/07/09/public-has-its-say-in-comprehensive-planning/"
+},
+{
+"text": "https://www.commerce.wa.gov/serving-communities/growth-management/growth-management-grants/",
+"href": "https://www.commerce.wa.gov/serving-communities/growth-management/growth-management-grants/"
+},
+{
+"text": "https://www.commerce.wa.gov/serving-communities/growth-management/growth-management-topics/tribal-planning-coordination-under-the-growth-management-act/",
+"href": "https://www.commerce.wa.gov/serving-communities/growth-management/growth-management-topics/tribal-planning-coordination-under-the-growth-management-act/"
+},
+{
+"text": "https://www.commerce.wa.gov/serving-communities/growth-management/periodic-update/",
+"href": "https://www.commerce.wa.gov/serving-communities/growth-management/periodic-update/"
+},
+{
+"text": "https://www.commerce.wa.gov/topic/land-use/growth-management/",
+"href": "https://www.commerce.wa.gov/topic/land-use/growth-management/"
+},
+{
+"text": "https://www.whatcomcounty.us/4373/2025-Comprehensive-Plan-Update",
+"href": "https://www.whatcomcounty.us/4373/2025-Comprehensive-Plan-Update"
+}
 ]

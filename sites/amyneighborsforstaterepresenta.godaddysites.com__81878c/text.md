@@ -1,3 +1,9 @@
+Amy Neighbors for State Representative Amy Neighbors for State Representative Amy Neighbors for State Representative Amy Neighbors for State Representative Amy Neighbors for State Representative Amy Neighbors for State Representative Amy Neighbors for State Representative Amy Neighbors for State Representative Home Contact Us Hello and Welcome!
+Hello and Welcome!
+Hello and Welcome!
+Hello and Welcome!
+Contact Me Follow Me Get to Know Amy Neighbors Hello!
+My name is Amy Neighbors.
 I am currently running for State Representative in the 21st District!
 I’d like to take this time to tell everyone a little about myself and my family.
 I am a lifelong resident of Metcalfe County and have spent the last twenty-two years as the Administrator of Metcalfe Health Care Center; a position I just retired from on January 28th of this year.
@@ -25,7 +31,5 @@ I am not a politician and won’t strive to be one, I simply want to be what the
 I want to represent your voice in Frankfort.
 Please feel free to reach out to me at any time.
 I look forward to meeting and hearing from you!
-Copyright © 2022 Amy Neighbors for State Representative - All Rights Reserved.
+Social Media Copyright © # Amy Neighbors for State Representative - All Rights Reserved.
 Powered by GoDaddy
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

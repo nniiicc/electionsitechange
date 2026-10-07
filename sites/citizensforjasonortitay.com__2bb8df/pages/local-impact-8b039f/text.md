@@ -1,73 +1,19 @@
-$2.08 million in Local Share Account (LSA) Grants
-$2.08 million in Local Share Account • Five Projects
-Read More
-Georgetown Road Underpass Rebuild
-Cecil Township • Multimodal Grant • Jan 2026
-Read More
-Five District Projects Funded
-46th District • LSA Grants • Dec. 2025
-Read More
-Oakdale Stormwater Project
-Oakdale Borough • GEDTF Grant • Nov 2025
-Read More
-Oakdale Infrastructure Upgrades
-Oakdale Borough • Infrastructure grant
-Georgetown Road Emergency Slide Repair
-Cecil Township • Worked with PennDOT • Completed Aug 2024
-Meals To-Go Restarted for Seniors
-Partnered with EQT • Oct 2025
-Read More
-Route 50/Washington Pike Intersection Improvements
-Worked with PennDot, Bridgeville, South Fayette, and developers, to secure grants to fund this project and get it completed.
-Read More
-Mayview Road (South Fayette) Improvements
-Helped to secure funding and approve the project.
-Read More
-New School Safety Programs
-Supported, developed and secured grants for new school safety programs.
-Read More
-Increased Funding for K-12 Education
-Increased record level funding for K-12 education by over $3 billion since taking office.
-Read More
-Noblestown Road Bridge Project
-Led a project with the Borough of Oakdale to clean out the confluence under the bridge on Noblestown Road.
+About Local Impact Priorities Legislation Contact Volunteer Donate $2.08 million in Local Share Account (LSA) Grants $2.08 million in Local Share Account • Five Projects Read More $2.08 Million Georgetown Road Underpass Rebuild Cecil Township • Multimodal Grant • Jan 2026 Read More $750,000 Five District Projects Funded 46th District • LSA Grants • Dec.
+2025 Read More $#,# Oakdale Stormwater Project Oakdale Borough • GEDTF Grant • Nov 2025 Read More $400,000+ Oakdale Infrastructure Upgrades Oakdale Borough • Infrastructure grant $135,000 Georgetown Road Emergency Slide Repair Cecil Township • Worked with PennDOT • Completed Aug 2024 Expedited Meals To-Go Restarted for Seniors Partnered with EQT • Oct 2025 Read More Canonsburg Route 50/Washington Pike Intersection Improvements Worked with PennDot, Bridgeville, South Fayette, and developers, to secure grants to fund this project and get it completed.
+Read More Over $15 Million Mayview Road (South Fayette) Improvements Helped to secure funding and approve the project.
+Read More New School Safety Programs Supported, developed and secured grants for new school safety programs.
+Read More $320 Million Increased Funding for K-12 Education Increased record level funding for K-12 education by over $3 billion since taking office.
+Read More Over $3 Billion Noblestown Road Bridge Project Led a project with the Borough of Oakdale to clean out the confluence under the bridge on Noblestown Road.
 Secured machinery and labor which was donated by the Operating Engineers Local 66 and Black Diamond Equipment to help alleviate flooding in Oakdale.
-Read More
-South Fayette Township Improvements
-Secured funding for South Fayette Township for a traffic signal, park improvements, and for construction of a new municipal complex, the municipal building and library.
-Read More
-Cecil Township Safety Improvements
-Worked with PennDot and Cecil Township in 2017 to get a four-way stop sign on O’Hare Road and State Route 980, to improve safety.
-Green Light Go Program
-Obtained Green Light Go program grants in 2017 for Cecil Township and South Fayette.
-Read More
-Turnpike Flooding
-Addressed the issue of Turnpike flooding in McDonald and Cecil Township.
-Read More
-McDonald Library Grant
-Obtained a grant for McDonald Public Library to help with HVAC and sidewalk repairs.
-McDonald Library Grant
-Secured a grant from Wal-Mart for the library.
-Cecil Township Grants
-Secured grants to Cecil Township for police, and adaptive swings for township parks.
-Cecil Township VFW
-Secured grant funding for kitchen upgrades.
-Ewings Sarcoma Study
-Secured $1 million in the state budget to perform a study on Ewings Sarcoma in our area.
-Read More
-Free Radon Test Kits
-Obtained free radon test kits for anyone in the district who wanted one.
-Read More
-McDonald Volunteer Fire Department Grant
-Secued grant funding for the McDonald Volunteer Fire Department for a new electronic sign and to pave the parking lot.
-Read More
-Sturgeon Volunteer Fire Department Grant
-Secured grant funding for the Sturgeon Volunteer Fire Department to pave the facility driveway and parking lot.
-Read More
-Lawrence Volunteer Fire Department
-Secured funding for the department to install a new electronic sign.
-Read More
-Borough of Canonsburg
-Secured a grant for the Borough of Canonsburg for a new electronic sign.
-Cecil Township – McDonald Senior Center
-Secured funding for the Senior Center to redo flooring, accessible entry doors and needed equipment.
+Read More South Fayette Township Improvements Secured funding for South Fayette Township for a traffic signal, park improvements, and for construction of a new municipal complex, the municipal building and library.
+Read More $1 Million Cecil Township Safety Improvements Worked with PennDot and Cecil Township in 2017 to get a four-way stop sign on O’Hare Road and State Route 980, to improve safety.
+Green Light Go Program Obtained Green Light Go program grants in 2017 for Cecil Township and South Fayette.
+Read More $707k Turnpike Flooding Addressed the issue of Turnpike flooding in McDonald and Cecil Township.
+Read More McDonald Library Grant Obtained a grant for McDonald Public Library to help with HVAC and sidewalk repairs.
+12k McDonald Library Grant Secured a grant from Wal-Mart for the library. $5k Cecil Township Grants Secured grants to Cecil Township for police, and adaptive swings for township parks. $12 Cecil Township VFW Secured grant funding for kitchen upgrades.
+3k Ewings Sarcoma Study Secured $1 million in the state budget to perform a study on Ewings Sarcoma in our area.
+Read More $1 Million Free Radon Test Kits Obtained free radon test kits for anyone in the district who wanted one.
+Read More McDonald Volunteer Fire Department Grant Secued grant funding for the McDonald Volunteer Fire Department for a new electronic sign and to pave the parking lot.
+Read More $100k Sturgeon Volunteer Fire Department Grant Secured grant funding for the Sturgeon Volunteer Fire Department to pave the facility driveway and parking lot.
+Read More 110k Lawrence Volunteer Fire Department Secured funding for the department to install a new electronic sign.
+Read More $25k Borough of Canonsburg Secured a grant for the Borough of Canonsburg for a new electronic sign. $25k Cecil Township – McDonald Senior Center Secured funding for the Senior Center to redo flooring, accessible entry doors and needed equipment. $75k Home About Local Impact Priorities Contact Donate © # Paid for by Citizens for Jason Ortitay Privacy Policy and Terms Foundational design crafted with True Fit Marketing Jason Ortitay Translate » < < < < < < < < < < < About Local Impact Priorities Legislation Contact Volunteer Donate

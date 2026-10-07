@@ -1,7 +1,11 @@
 {
- "description": "Meet Alani near you \u2014 upcoming campaign events across Montana.",
+ "description": "Meet Alani Bankhead near you: upcoming campaign events, town halls, parades and forums across Montana, with dates and places for each one.",
  "final_url": "https://alaniformt.com/events",
- "paid_for_by": null,
- "title": "Events \u00b7 Alani Bankhead for Senate",
- "years_mentioned": []
+ "fingerprint": "5140c570b8ad0876b206fb03f173a00023824b74",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Events · Alani Bankhead for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,5 +1,4 @@
-Education
-A well-educated workforce is vital to our economic success and our future.
+Explore → Donate Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up ← Close Issues Education A well-educated workforce is vital to our economic success and our future.
 And a quality education system is the key to creating a workforce prepared for the 21st-century economy.
 President Trump has recklessly tried to shutter the Department of Education, even going so far as issuing executive actions to do so.
 I strongly oppose his illegal attempt to dismantle the department, which would slash federal funding for public schools nationwide, eliminate programs for children with disabilities, and cut programs that make attending college affordable.
@@ -13,4 +12,4 @@ The increasing burden of student loans is holding many Americans back from a mid
 That’s why each year I call for a doubling of the annual Pell Grant award.
 I have cosponsored the Pell Grant Sustainability Act, which would restore automatic annual adjustments to ensure Pell Grants keep up with inflation and remain accessible to students long into the future.
 Working closely with our local institutions, we can bolster the workforce that manufacturing, technology and agricultural employers in our economy need.
-It is essential we focus on increasing opportunities for current and future workers to get the skills needed for the jobs of today and tomorrow.
+It is essential we focus on increasing opportunities for current and future workers to get the skills needed for the jobs of today and tomorrow. ← Back to All Issues Home Issues About News Endorsements 1st Congressional District Donate Volunteer Sign Up Privacy Policy Paid for by DelBene for Congress PO Box 477 Kirkland, WA 98083 (425) 483-1500

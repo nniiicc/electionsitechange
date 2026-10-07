@@ -1,14 +1,62 @@
 [
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261029T180000%2F20261029T220000&text=November+General+Election+Candidates+Forum&details=%3Cspan+style%3D%22color%3A+%2300ccff%3B%22%3E%2A%2A%2A+Come+out+%26amp%3B+support+Rich+%2A%2A%2A%3C%2Fspan%3ECandidate+Forum+organized+by+the+Highway+14%2F11+%28Dark+Corner%29+Community+Watch+Group.This+Candidate+Forum+is+open+to+the+General+PublicCome+out+and+listen+to+candidates+address+questions+that+are+relative+to+your+vote%21Candidates+for+the+November+General+Election+for+the+following+offices+have+been+invited+to+participate%3AU.S.+SenateU.S.+Congress+%28South+Carolina%27s+4th+Congressional+District%29State+GovernorState+House+of+Representatives+Districts+17+%26amp%3B+18State+Attorney+GeneralSecretary+of+StateState+TreasurerState+Comptroller+GeneralState+Superintendent+of+EducationState+Commissioner+of+AgricultureThe+candidates+in+each+race+will+be+provided+with+a+set+of+five+questions%2C+pertinent+to+the+particular+office%2C+the+night+of+the+event.+They+will+be+allotted+2+minutes+per+question%2C+for+a+total+of+10+minutes.+No+questions+will+be+taken+from+the+floor%2C+but+you+will+have+an+op+%28View+Full+event+Description+Here%3A+https%3A%2F%2Frich4sc.org%2Fevent%2Fnovember-general-election-candidates-forum%2F%29&location=Ebenezer+Welcome+Baptist+Church%2C+4004+Highway+414%2C+Landrum%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Frich4sc.org",
-"https://instagram.com/rich4sc",
-"https://maps.google.com/maps?f=q&hl=en&q=4004+Highway+414+Landrum+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-29T18%3A00%3A00-04%3A00&enddt=2026-10-29T22%3A00%3A00-04%3A00&location=Ebenezer+Welcome+Baptist+Church%2C+4004+Highway+414%2C+Landrum%2C+United+States&subject=November+General+Election+Candidates+Forum&body=%2A%2A%2A+Come+out+%26amp%3B+support+Rich+%2A%2A%2ACandidate+Forum+organized+by+the+Highway+14%2F11+%28Dark+Corner%29+Community+Watch+Group.This+Candidate+Forum+is+open+to+the+General+PublicCome+out+and+listen+to+candidates+address+questions+that+are+relative+to+your+vote%21Candidates+for+the+November+General+Election+for+the+following+offices+have+been+invited+to+participate%3AU.S.+SenateU.S.+Congress+%28South+Carolina%27s+4th+Congressional+District%29State+GovernorState+House+of+Representatives+Districts+17+%26amp%3B+18State+Attorney+GeneralSecretary+of+StateState+TreasurerState+Comptroller+GeneralState+Superintendent+of+EducationState+Commissioner+of+AgricultureThe+candidates+in+each+race+will+be+provided+with+a+set+of+five+questions%2C+pertinent+to+the+particular+office%2C+the+night+of+the+event.+They+will+be+allotted+2+minutes+per+question%2C+for+a+total+of+10+minutes.+No+ques+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Frich4sc.org%2Fevent%2Fnovember-general-election-candidates-forum%2F%29",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-29T18%3A00%3A00-04%3A00&enddt=2026-10-29T22%3A00%3A00-04%3A00&location=Ebenezer+Welcome+Baptist+Church%2C+4004+Highway+414%2C+Landrum%2C+United+States&subject=November+General+Election+Candidates+Forum&body=%2A%2A%2A+Come+out+%26amp%3B+support+Rich+%2A%2A%2ACandidate+Forum+organized+by+the+Highway+14%2F11+%28Dark+Corner%29+Community+Watch+Group.This+Candidate+Forum+is+open+to+the+General+PublicCome+out+and+listen+to+candidates+address+questions+that+are+relative+to+your+vote%21Candidates+for+the+November+General+Election+for+the+following+offices+have+been+invited+to+participate%3AU.S.+SenateU.S.+Congress+%28South+Carolina%27s+4th+Congressional+District%29State+GovernorState+House+of+Representatives+Districts+17+%26amp%3B+18State+Attorney+GeneralSecretary+of+StateState+TreasurerState+Comptroller+GeneralState+Superintendent+of+EducationState+Commissioner+of+AgricultureThe+candidates+in+each+race+will+be+provided+with+a+set+of+five+questions%2C+pertinent+to+the+particular+office%2C+the+night+of+the+event.+They+will+be+allotted+2+minutes+per+question%2C+for+a+total+of+10+minutes.+No+ques+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Frich4sc.org%2Fevent%2Fnovember-general-election-candidates-forum%2F%29",
-"https://rich4sc.org/",
-"https://rich4sc.org/about",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/event/democratic-women-greenville-county-mtg",
-"https://rich4sc.org/events"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=4004+Highway+414+Landrum+United+States"
+},
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261029T180000%2F20261029T220000&text=November+General+Election+Candidates+Forum&details=%3Cspan+style%3D%22color%3A+%2300ccff%3B%22%3E%2A%2A%2A+Come+out+%26amp%3B+support+Rich+%2A%2A%2A%3C%2Fspan%3ECandidate+Forum+organized+by+the+Highway+14%2F11+%28Dark+Corner%29+Community+Watch+Group.This+Candidate+Forum+is+open+to+the+General+PublicCome+out+and+listen+to+candidates+address+questions+that+are+relative+to+your+vote%21Candidates+for+the+November+General+Election+for+the+following+offices+have+been+invited+to+participate%3AU.S.+SenateU.S.+Congress+%28South+Carolina%27s+4th+Congressional+District%29State+GovernorState+House+of+Representatives+Districts+17+%26amp%3B+18State+Attorney+GeneralSecretary+of+StateState+TreasurerState+Comptroller+GeneralState+Superintendent+of+EducationState+Commissioner+of+AgricultureThe+candidates+in+each+race+will+be+provided+with+a+set+of+five+questions%2C+pertinent+to+the+particular+office%2C+the+night+of+the+event.+They+will+be+allotted+2+minutes+per+question%2C+for+a+total+of+10+minutes.+No+questions+will+be+taken+from+the+floor%2C+but+you+will+have+an+op+%28View+Full+event+Description+Here%3A+https%3A%2F%2Frich4sc.org%2Fevent%2Fnovember-general-election-candidates-forum%2F%29&location=Ebenezer+Welcome+Baptist+Church%2C+4004+Highway+414%2C+Landrum%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Frich4sc.org"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T22%3A00%3A00-04%3A00&location=Ebenezer+Welcome+Baptist+Church%2C+4004+Highway+414%2C+Landrum%2C+United+States&subject=November+General+Election+Candidates+Forum&body=%2A%2A%2A+Come+out+%26amp%3B+support+Rich+%2A%2A%2ACandidate+Forum+organized+by+the+Highway+14%2F11+%28Dark+Corner%29+Community+Watch+Group.This+Candidate+Forum+is+open+to+the+General+PublicCome+out+and+listen+to+candidates+address+questions+that+are+relative+to+your+vote%21Candidates+for+the+November+General+Election+for+the+following+offices+have+been+invited+to+participate%3AU.S.+SenateU.S.+Congress+%28South+Carolina%27s+4th+Congressional+District%29State+GovernorState+House+of+Representatives+Districts+17+%26amp%3B+18State+Attorney+GeneralSecretary+of+StateState+TreasurerState+Comptroller+GeneralState+Superintendent+of+EducationState+Commissioner+of+AgricultureThe+candidates+in+each+race+will+be+provided+with+a+set+of+five+questions%2C+pertinent+to+the+particular+office%2C+the+night+of+the+event.+They+will+be+allotted+2+minutes+per+question%2C+for+a+total+of+10+minutes.+No+ques+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Frich4sc.org%2Fevent%2Fnovember-general-election-candidates-forum%2F%29"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T22%3A00%3A00-04%3A00&location=Ebenezer+Welcome+Baptist+Church%2C+4004+Highway+414%2C+Landrum%2C+United+States&subject=November+General+Election+Candidates+Forum&body=%2A%2A%2A+Come+out+%26amp%3B+support+Rich+%2A%2A%2ACandidate+Forum+organized+by+the+Highway+14%2F11+%28Dark+Corner%29+Community+Watch+Group.This+Candidate+Forum+is+open+to+the+General+PublicCome+out+and+listen+to+candidates+address+questions+that+are+relative+to+your+vote%21Candidates+for+the+November+General+Election+for+the+following+offices+have+been+invited+to+participate%3AU.S.+SenateU.S.+Congress+%28South+Carolina%27s+4th+Congressional+District%29State+GovernorState+House+of+Representatives+Districts+17+%26amp%3B+18State+Attorney+GeneralSecretary+of+StateState+TreasurerState+Comptroller+GeneralState+Superintendent+of+EducationState+Commissioner+of+AgricultureThe+candidates+in+each+race+will+be+provided+with+a+set+of+five+questions%2C+pertinent+to+the+particular+office%2C+the+night+of+the+event.+They+will+be+allotted+2+minutes+per+question%2C+for+a+total+of+10+minutes.+No+ques+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Frich4sc.org%2Fevent%2Fnovember-general-election-candidates-forum%2F%29"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rich4sc.org/event/november-general-election-candidates-forum/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "« Democratic Women Greenville County Mtg",
+"href": "https://rich4sc.org/event/democratic-women-greenville-county-mtg/"
+}
 ]

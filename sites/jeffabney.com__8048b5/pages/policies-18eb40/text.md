@@ -1,5 +1,4 @@
-Policy Questions
-These are questions I have been asked while campaigning.
+0 Skip to Content Home About Policy Questions Contact Us DONATE/VOLUNTEER ACT Blue Open Menu Close Menu Home About Policy Questions Contact Us DONATE/VOLUNTEER ACT Blue Open Menu Close Menu Home About Policy Questions Contact Us DONATE/VOLUNTEER ACT Blue Policy Questions These are questions I have been asked while campaigning.
 Hopefully, if you have a similar question you can get a feel for what my position is on a specific section.
 If you are interested in more in-depth responses, shoot me an email and I will be happy to correspond with you about any policy.
 Question Asked: What is my stance on the proposed Amendment 4?
@@ -20,7 +19,7 @@ Even knowing all of that, Kehoe is pushing for more tax cuts by extreme changes 
 I believe budget priorities have to be for healthcare, education, infrastructure, public services, and public programs that help everyday people.
 Currently the state’s taxes come from 65% income tax, 21% sales tax, and 6.5% from corporate income taxes.
 Missouri’s corporate income tax rate is ranked 42nd is the county at 4%.
-That corporate income tax rate is too low especially since it was 6.25% just 6 years ago.
+That corporate income tax rate is too low especially since it was 6.25% just #ago.
 The companies in this state make money off us and we directly lead to them making record profits year after year.
 Putting the corporate income tax rate back to 6.25% would be a huge start to being able to allocate tax funds to where they belong.
 Question Asked: Education is key to success and a higher standard of living.
@@ -67,3 +66,5 @@ A student should be able to pray, but a teacher should not ask or tell anyone to
 That is not the role of the school or the teacher.
 What they do off campus or in their private time is fair game.
 But not during school hours or in any official school capacity.
+Jeff Abney for State Senate P.O.
+Box 333 Barnhart, MO 63012 (636) 987- 3879 Press Contact: Chloe Ray chloe@sapphirestrategies.org 573-276-8149 PAID FOR BY JEFF ABNEY FOR STATE SENATE, JEFF ABNEY TREASURER

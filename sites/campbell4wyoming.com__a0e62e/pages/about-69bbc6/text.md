@@ -1,4 +1,4 @@
-I am a 3rd generation Wyomingite, proud mom of two stellar humans, and University of Wyoming Alum #GoPokes!
+0 Skip to Content Elissa Campbell House District 56 Home About Experience Endorsements Contribute Contact Open Menu Close Menu Elissa Campbell House District 56 Home About Experience Endorsements Contribute Contact Open Menu Close Menu Home About Experience Endorsements Contribute Contact I am a 3rd generation Wyomingite, proud mom of two stellar humans, and University of Wyoming Alum #GoPokes!
 Born in Laramie and raised in Douglas, I was active in 4-H, Girl Scouts, and tormenting my three younger sisters.
 My family moved to Casper my sophomore year, where I attended Kelly Walsh high school.
 I was active in track, basketball, volleyball, Honor Society, and debate.
@@ -16,3 +16,4 @@ I know the importance of understanding issues from a variety of perspectives, le
 Building partnerships, working together to solve challenges facing our Wyoming communities.
 We are stronger together.
 I would be honored to continue serving as the Representative for Casper’s House District 56.
+Campbell4Wyoming Elissa Campbell House District 56 Casper, Wyoming Contact elissa@campbell4wyoming.com (307) 439-5364 PO Box 904, Casper Wyoming, 82602

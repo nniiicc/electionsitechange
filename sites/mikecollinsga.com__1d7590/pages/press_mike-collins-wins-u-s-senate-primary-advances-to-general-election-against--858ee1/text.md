@@ -1,6 +1,5 @@
-MIKE COLLINS WINS U.S.
-SENATE PRIMARY, ADVANCES TO GENERAL ELECTION AGAINST JON OSSOFF
-JACKSON, GA — Mike Collins claimed victory in the Republican primary runoff, securing the GOP nomination for the U.S.
+Skip to content MEET MIKE MEDIA ENDORSEMENTS VOLUNTEER EVENTS PRESS CONTRIBUTE DONATE WITH CRYPTO STORE Press Release JUNE 16, 2026 FOR IMMEDIATE RELEASE Contact: [email protected] MIKE COLLINS WINS U.S.
+SENATE PRIMARY, ADVANCES TO GENERAL ELECTION AGAINST JON OSSOFF JACKSON, GA — Mike Collins claimed victory in the Republican primary runoff, securing the GOP nomination for the U.S.
 Senate seat currently held by Democrat Jon Ossoff.
 Collins, a Jackson native, has spent his career building a small trucking business, not a political career.
 He knows what it means to sign the front and back of a paycheck, to have employees and their families counting on him to make the right decisions, and to deliver results when it matters most.
@@ -12,8 +11,7 @@ With the primary behind him, Collins called on Republicans across Georgia to uni
 The party had a spirited primary, but the mission ahead is clear.
 Defeat Jon Ossoff in November and return Georgia’s U.S.
 Senate seat to the people of this state.
-COLLINS FULL ELECTION NIGHT SPEECH:
-“Thank you, Georgia!
+COLLINS FULL ELECTION NIGHT SPEECH: “Thank you, Georgia!
 Wow, what an incredible night.
 I am so proud to be standing here as your Republican nominee for the United States Senate!
 I’ve got a few special people who made this happen that I need to thank.
@@ -74,4 +72,6 @@ We are going to travel every corner of this state — meeting with Georgians fro
 And that is exactly what I will do every single day as your next United States Senator.
 So hop in, buckle up, and get ready.
 This truck is fired up and we are gonna keep the hammer down all the way until November.
-Thank you, God Bless, and God Bless the Great State of Georgia!”
+Thank you, God Bless, and God Bless the Great State of Georgia!” ### ← MIKE COLLINS FINISHES FIRST IN U.S.
+SENATE PRIMARY, ADVANCES TO RUNOFF MIKE COLLINS FOR U.S.
+SENATE LAUNCHES NEW AD: “DELIVERS” → TERMS & CONDITIONS PRIVACY POLICY MEDIA INQUIRIES CONTACT US PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005

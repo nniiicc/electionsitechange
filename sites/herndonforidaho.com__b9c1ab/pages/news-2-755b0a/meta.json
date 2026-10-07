@@ -1,11 +1,14 @@
 {
  "description": "The latest news from Idaho Senator Scott Herndon and Scott Herndon for the Idaho Senate.",
  "final_url": "https://herndonforidaho.com/news-2/",
- "paid_for_by": "Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer",
+ "fingerprint": "a68d9ee16a7fec93b42eb5654c2d4cd230a10e10",
+ "format": 3,
+ "paid_for_by": "authorized by the Idaho legislature",
  "title": "News - Scott Herndon",
  "years_mentioned": [
   "2023",
   "2024",
+  "2025",
   "2026"
  ]
 }

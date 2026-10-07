@@ -1,8 +1,38 @@
 [
-"https://drmikecrawford.com/",
-"https://drmikecrawford.com/get-involved",
-"https://drmikecrawford.com/meet-mike",
-"https://drmikecrawford.com/on-the-issues",
-"https://drmikecrawford.com/privacy-policy",
-"https://secure.actblue.com/donate/friends-of-michael-crawford-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-michael-crawford-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.drmikecrawford.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.drmikecrawford.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.drmikecrawford.com/meet-mike"
+},
+{
+"text": "On the Issues",
+"href": "https://www.drmikecrawford.com/on-the-issues"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.drmikecrawford.com/privacy-policy#main-content"
+},
+{
+"text": "[image: Dr. Michael \"Mike\" Crawford for State Representative]",
+"href": "https://www.drmikecrawford.com/"
+},
+{
+"text": "[image: Dr. Michael &quot;Mike&quot; Crawford for State Representative]",
+"href": "https://www.drmikecrawford.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.drmikecrawford.com/"
+}
 ]

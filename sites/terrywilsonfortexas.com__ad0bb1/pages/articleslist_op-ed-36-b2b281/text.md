@@ -1,4 +1,4 @@
-This summer, our Hill Country neighbors endured devastating loss during the July 4th floods.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements February 16, 2026 Jeff Frazier Op-Ed #36 Weathering the Storm February 16, 2026 Jeff Frazier This summer, our Hill Country neighbors endured devastating loss during the July 4th floods.
 A stark reminder of how quickly disasters can strike in Central Texas.
 As your state representative, I worked alongside local elected officials and community leaders to help ensure that Williamson County is prepared, protected, and resilient.
 In this year’s special legislative session, I served on the Select Committee on Disaster Preparedness and Flooding, in tandem with community leaders, our county’s experienced emergency management team, and state and local agencies.
@@ -19,7 +19,7 @@ Over the past year, Texas has taken important steps to strengthen preparedness.
 One of the most visible changes will be the expansion of outdoor warning sirens in areas prone to flooding.
 Through Senate Bill 3, which I carried in the House, I worked with the Texas Water Development Board and local emergency management leaders to make sure families receive prompt alerts.
 A few extra minutes of warning can mean the difference between safety and tragedy.
-There is also a growing need to address waterway setbacks.
+There is also a growing need to address waterway setbacks .
 Smarter planning along streams reduces the risk of repeat flooding, helps stabilize insurance rates, and protects long-term property values.
 In Texas, growth is inevitable, but resilience is built by the choices we make along the way.
 Beyond infrastructure, I co-authored House Bill 1 to strengthen emergency plans at youth camps and supported House Bill 20 to prevent fraudulent charitable solicitations during disasters.
@@ -35,7 +35,7 @@ Cell networks can fail, and text alerts can arrive too late, but when a siren so
 These siren systems connect to National Weather Service sensors for real time alerts which will provide reliable early warning to keep the community protected.
 Preparedness is not only about laws and regulations, but also about using the best tools available to stay ahead of disaster.
 Williamson County has embraced innovation, and I have worked to ensure our state's policies reinforce that forward-thinking approach.
-One area of progress is GIS flood mapping.
+One area of progress is GIS flood mapping .
 With high-resolution data and real-time modeling, coupled with redundant sensor technology, emergency managers can predict where floodwater will rise and how quickly it will move.
 This allows first responders to stage equipment, target evacuations, and protect vulnerable neighborhoods before it is too late.
 Proactive planning like this saves both lives and property.
@@ -58,3 +58,15 @@ Policy may sometimes feel abstract, but the goal behind each of these laws is si
 The focus is on protecting families, safeguarding property, and strengthening public trust in the systems that support us when it matters most.
 Severe weather will always be part of life, but we do not have to be caught off guard.
 With the right planning, clear communication, and a commitment to learning from past events, our community can stay ahead of the risks we face.
+February 16, 2026 Jeff Frazier Jeff Frazier Op-Ed #37 The Teacher's Bill of Rights Op-Ed #35 Education Funding "The Rest of the Story" Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

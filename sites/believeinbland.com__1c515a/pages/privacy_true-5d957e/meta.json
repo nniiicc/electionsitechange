@@ -1,7 +1,11 @@
 {
  "description": "For The People",
  "final_url": "https://believeinbland.com/?privacy=true",
- "paid_for_by": null,
+ "fingerprint": "76abd5459dec3d51a4c0dcc3fd2461e62019215a",
+ "format": 3,
+ "paid_for_by": "authorized by Believe In Bland © 2026 • All Rights Reserved • Privacy Policy • SMS Terms Empowered by GoodParty",
  "title": "Vote For Dexter Bland",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

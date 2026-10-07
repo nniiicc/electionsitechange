@@ -1,38 +1,39 @@
-PRESS RELEASE
-Hypocrisy: Rep.
-Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise
-FLAGSTAFF, AZ - The Washington Post and AZMirror have reported that Congressman Eli Crane is scrambling to change his position on what he previously described as "forever wars,” after he has repeatedly voted to greenlight the deadly and expensive war in Iran.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Eli Crane Has Failed Us.
+PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Crane, Trump Admin.
+Over Inaction PRESS RELEASE ICYMI: Poll Shows Dem.
+Jonathan Nez Tied with Rep.
+Eli Crane in District Trump Won by Double Digits PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Sep 8 2026 PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise FLAGSTAFF, AZ - The Washington Post and AZMirror have reported that Congressman Eli Crane is scrambling to change his position on what he previously described as " forever wars ,” after he has repeatedly voted to greenlight the deadly and expensive war in Iran.
 During the 2024 election cycle, Crane stated on his campaign website that he opposed spending taxpayer dollars on prolonged overseas conflicts.
-One section of the website read: "Instead of funding forever wars and throwing away money we don't have, Eli believes we should be focused on taking care of those who risked it all for our freedom."
-That section of his website is now entirely gone.
-Crane’s rewrite comes after he has voted at least five times to greenlight the war in Iran, which has already cost taxpayers nearly $150 billion, or $1,200 per household.
-The conflict has already killed 18 U.S. service members.
-“Congressman Crane’s former policy of not funding ‘forever wars’ has clearly been tossed out the window as he supports a deadly and costly war with Iran at the expense of the taxpayers who elected him," said Nez.
+One section of the website read: "Instead of funding forever wars and throwing away money we don't have, Eli believes we should be focused on taking care of those who risked it all for our freedom." That section of his website is now entirely gone .
+Crane’s rewrite comes after he has voted at least five times to greenlight the war in Iran , which has already cost taxpayers nearly $150 billion , or $1,200 per household .
+The conflict has already killed 18 U.S. service members .
+“Congressman Crane’s former policy of not funding ‘forever wars’ has clearly been tossed out the window as he supports a deadly and costly war with Iran at the expense of the taxpayers who elected him," said Nez .
 “He should understand the magnitude of wars in the Middle East and work to stop them.
 Instead, he has voted to continue the war.
-This hypocrisy proves he is not willing to stand up for his constituents.
-He is working for Washington elites, not for us Arizonans.”`
-Crane has consistently described himself as a fiscal conservative, emphasizing the need to reduce federal “runaway budgets” and oppose excessive government expenditures.
-Crane’s removal of “forever wars” language is especially notable given his past statements:
-- 2024: Crane said when people see higher prices for gas and groceries, they wonder why the U.S. is sending billions of dollars to another war with a nuclear superpower.
+This hypocrisy proves he is not willing to stand up for his constituents .
+He is working for Washington elites, not for us Arizonans.”` Crane has consistently described himself as a fiscal conservative, emphasizing the need to reduce federal “ runaway budgets ” and oppose excessive government expenditures .
+Crane’s removal of “forever wars” language is especially notable given his past statements: 2024: Crane said when people see higher prices for gas and groceries, they wonder why the U.S. is sending billions of dollars to another war with a nuclear superpower.
 “CRANE: They're seeing the headlines, you know, when they pump gas or they're buying groceries, you know, they're struggling to make ends meet.
 They're wondering, why the hell are we sending, you know, hundreds of billions of dollars over to a country that most people can't find on a map and escalate a war with the biggest nuclear superpower in the world?
 Maybe we should be talking about peace talks.
 And and I'm seeing this right now in the in the presidential election, you know, especially with like minority men who are coming over to Donald Trump and they're like, hey, we're we're Don, we're we're tired of this stuff.
 And we're willing we're willing to take a look at somebody else.
 And so, you know, hopefully Americans don't have to experience that much more pain.
-But I guess we'll find out.” [Good Vibes Podcast, 34:24, 8/12/24]
-- 2023: Crane: “We can and should continue to support our ally Israel—but we must put the safety and wellbeing of our own citizens first.
+But I guess we'll find out.” [Good Vibes Podcast, 34:24, 8/12/24 ] 2023: Crane: “We can and should continue to support our ally Israel—but we must put the safety and wellbeing of our own citizens first.
 We must ensure that we remain levelheaded and vigilant that we don't allow the current conflict to escalate into another forever war.
 As the U.S.
-Representative for Arizona's Second Congressional District, protecting Americans is one of my top priorities, right behind defending our God-given, unalienable rights.” [Eli Crane op-ed, 10/24/23]
-- 2022: Crane: “It really bothers me because we continue to spend money we don’t have on, you know, protecting somebody else’s sovereignty and border.” “CRANE: And as an America first candidate, it's not that I don't have any sympathy or empathy for Ukrainians or anybody else for that matter, or want to see unchecked Russian aggression.
+Representative for Arizona's Second Congressional District, protecting Americans is one of my top priorities, right behind defending our God-given, unalienable rights.” [Eli Crane op-ed, 10/24/23 ] 2022: Crane: “It really bothers me because we continue to spend money we don’t have on, you know, protecting somebody else’s sovereignty and border.” “CRANE: And as an America first candidate, it's not that I don't have any sympathy or empathy for Ukrainians or anybody else for that matter, or want to see unchecked Russian aggression.
 It's just that I have to ask myself, are we putting Americans first?
 And I don't believe that we are.
 And so that's something when I continue to see us send more money that we we don't even have, we have to print this money because we already are 30, I think, $33 trillion in debt.
-You know, it really bothers me because we continue to spend money that we don't have on, you know, protecting somebody else's sovereignty and border.” [Clay Sexton and Buck Travis Show, 8/25/22]
-Crane is scrambling to reinvent himself and cover up his broken promises just months before Election Day, when he will face the proven overperformer Nez.
-SEE ALSO:
-- Associated Press: How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll (7/30/26)
-- YouTube: Iran war has cost about US$37.5 billion so far: Defense Secretary Hegseth (7/21/26)
-- The Guardian: Pentagon reports more than 600 Iran war casualties in quiet database update (7/26/26)
+You know, it really bothers me because we continue to spend money that we don't have on, you know, protecting somebody else's sovereignty and border.” [Clay Sexton and Buck Travis Show, 8/25/22 ] Crane is scrambling to reinvent himself and cover up his broken promises just months before Election Day, when he will face the proven overperformer Nez.
+SEE ALSO: Associated Press: How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll (7/30/26) YouTube: Iran war has cost about US$37.5 billion so far: Defense Secretary Hegseth (7/21/26) The Guardian: Pentagon reports more than 600 Iran war casualties in quiet database update (7/26/26) Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

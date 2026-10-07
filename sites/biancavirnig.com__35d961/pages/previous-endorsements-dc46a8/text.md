@@ -1,22 +1,5 @@
-Endorsements & Testimonials
-This campaign is driven by our local community.
-I am humbled and honored to be supported by so many friends, neighbors, and collaborators across District 52.
-2023 Endorsements
-Community Endorsements:
-Senator Jim Carlson, District 52
-Senator Erin Maye Quade, District 56
-Senator Matt Klein, District 53
-Representative Liz Reyer, 52A
-School Board Member Sakawdin Mohamed, ISD 196, Clerk
-School Board Member Elect Anna Williams, ISD 196
-Cindy Tarshish, Certified ADA Coordinator
-Leah Gardner, Fellow Community Activist
-Seema Maddali, Citizen and Activist, Dakota County Physician, VA Hospital, Minneapolis
-Organizational Endorsements:
-Minnesota DFL
-Minnesota Nurses Association
-North Central States Regional Council of Carpenters
-Planned Parenthood
-Mom's Demand Action Gun Sense Candidate
-Friends of the Boundary Waters
-Ranked Choice Voting Democracy Champion
+top of page Donate Donate to Friends of Bianca Virnig!
+Home Endorsements Get Involved Contact Vote More Use tab to navigate through the menu items.
+Endorsements & Testimonials This campaign is driven by our loc al community.
+I am humbled and honored to be supported by so many friends, neighbors, and collaborators across D istrict 52.
+2023 Endorsements Community Endorsements: Senator Jim Carlson, District 52 Senator Erin Maye Quade, District 56 Senator Matt Klein, District 53 Representative Liz Reyer, 52A School Board Member Sakawdin Mohamed, ISD 196, Clerk School Board Member Elect Anna Williams, ISD 196 Cindy Tarshish, Certified ADA Coordinator Leah Gardner, Fellow Community Activist Seema Maddali, Citizen and Activist, Dakota County Physician, VA Hospital, Minneapolis Organizational Endorsements: Minnesota DFL Minnesota Nurses Association North Central States Regional Council of Carpenters Planned Parenthood Mom's Demand Action Gun Sense Candidate Friends of the Boundary Waters Ranked Choice Voting Democracy Champion ​ ​ 2023 Organizational Support Accessibility Statement Prepared and paid for by the Friends of Bianca Virnig committee PO Box 21593 Eagan, MN 55121 biancaforhouse@gmail.com Privacy Policy bottom of page

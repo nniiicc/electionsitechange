@@ -1,11 +1,18 @@
-The Salisbury for PA campaign is thrilled to announce that Abigail Salisbury, the passionate advocate and servant leader for the 34th District, received the official endorsement of the Allegheny County Democratic Committee (ACDC) for the 2024 Pennsylvania Democratic Primary.
+About Issues Endorsements Donate Via ActBlue Volunteer Blog & News Contact Us Abigail Salisbury Endorsed by Allegheny County Democratic Committee for Pennsylvania’s 34th State House District Home All Posts ...
+Abigail Salisbury Endorsed by Allegheny County...
+About Issues Endorsements Donate Via ActBlue Volunteer Blog & News Contact Us endorsements Campaign News , Endorsement Update February 12, 2024 Share X formerly Twitter Facebook Tumblr E-mail The Salisbury for PA campaign is thrilled to announce that Abigail Salisbury, the passionate advocate and servant leader for the 34th District, received the official endorsement of the Allegheny County Democratic Committee (ACDC) for the 2024 Pennsylvania Democratic Primary .
 This endorsement underscores the Committee’s recognition of Salisbury’s dedication to her constituents, her commitment to impactful legislative work, and her vision for a better future for all Pennsylvanians.
 Abigail Salisbury, the incumbent State Representative for District 34, is a dynamic force in Pennsylvania politics.
 Her tenure is marked by significant achievements including the establishment of the PA Charitable Nonprofit Caucus, passage of bills aimed at combating blight, and the provision of essential grant writing assistance to municipalities.
 Salisbury’s unique blend of experiences, from serving on the Swissvale Borough Council to founding a law practice serving nonprofits and small businesses, equipped her with the insight and drive necessary to effect meaningful change.
 The ACDC’s endorsement comes as a testament to Salisbury’s impactful work and her alignment with the values and priorities of the Democratic Party.
-Her dedication to enhancing governmental transparency, environmental sustainability, and the welfare of children and small businesses resonates with the core principles of the ACDC, which strives to promote democratic values, support candidates who reflect the community’s needs, and ensure the prosperity and well-being of all Allegheny County residents.
+Her dedication to enhancing governmental transparency, environmental sustainability, and the welfare of children and small businesses resonates with the core principles of the ACDC , which strives to promote democratic values, support candidates who reflect the community’s needs, and ensure the prosperity and well-being of all Allegheny County residents.
 “We are honored to receive the Allegheny County Democratic Committee’s endorsement,” said Abigail Salisbury.
 “This endorsement is not just a recognition my efforts serving the district but also a call to action for continued dedication towards making our district, and indeed all of Pennsylvania, a place where everyone can thrive.
-Together, we will continue to work tirelessly for the betterment of our communities.”
-Related
+Together, we will continue to work tirelessly for the betterment of our communities.” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related by You May Also Like endorsements LGBTQ Campaign News , Endorsement Update January 16, 2024 Share X formerly Twitter Facebook Tumblr E-mail LPAC Endorses Abigail LPAC, the only organization dedicated to electing LGBTQ women and nonbinary people to local, state, and federal office, announced endorsements of 12 more incredible LGBTQ women and nonbinary candidates today which included Pennsylvania State Rep.
+Abigail Salisbury.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Read more by Campaign Team Categories About The District Campaign News Endorsement Update Events Tags district endorsements infrastructure LGBTQ About Endorsements Donate Volunteer Contact Facebook X formerly Twitter People for Abigail Salisbury © #.
+All Rights Reserved.
+Paid for by People for Abigail Salisbury.
+Discover more from Salisbury for PA 34 Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Go to mobile version %d

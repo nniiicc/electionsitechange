@@ -1,6 +1,5 @@
-In 2026 James Spillane is once again pleased to be running to serve as your New Hampshire State Representative from Deerfield, Candia, and Auburn.
-(Rockingham District 2)
-James lives in Deerfield.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page About James In 2026 James Spillane is once again pleased to be running to serve as your New Hampshire State Representative from Deerfield, Candia, and Auburn.
+(Rockingham District 2) James lives in Deerfield.
 He is the divorced father of three children, his youngest is still in the NH school system and his oldest graduated from UNH with a degree in Mechanical Engineering.
 He holds a BA in English from SNHU, and works for Evident Scientific as a Senior Technical Writer.
 He has previously served the taxpayers of Deerfield for on the Municipal Budget Committee, serving as both Chairman and Vice-Chairman.
@@ -25,3 +24,5 @@ James looks forward once again, to being YOUR voice in Concord, and asks for you
 Funds are urgently needed to get out the message.
 PLEASE visit the Donate Page and How To Help tabs and help James make his goals!
 Please vote for James Spillane on September 8 on November 3, 2026.
+SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

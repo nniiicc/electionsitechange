@@ -1,8 +1,2 @@
-Back to All Events
-Come enjoy the excitement of election night!
-Previous
-Previous
-October 17
-Back to All Events
-Election Night Watch Party
-Come enjoy the excitement of election night!
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Election Night Watch Party Tuesday, November 3, 2026 6:00 PM 11:00 PM DoubleTree by Hilton Hotel - Brookfield 18155 West Bluemound Road Brookfield, Wisconsin, 53045 United States (map) Google Calendar ICS Come enjoy the excitement of election night!
+Previous Previous October 17 Fired Up To Vote DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

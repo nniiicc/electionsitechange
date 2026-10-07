@@ -1,4 +1,2 @@
-Manny Rutinel Media Kit
-- B-roll; high-quality B-roll (updated 9/3/26); and updated stills
-Click or tap to download high res images.
-If you've saved your payment information with ActBlue Express, your donation may go through immediately.
+0 Skip to Content Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us Folder: More Back How to Vote Contact Press Retro Battle Game Fellowships English Back Donate Manny Rutinel Media Kit B-roll ; high-quality B-roll (updated 9/3/26); and updated stills Click or tap to download high res images.
+Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

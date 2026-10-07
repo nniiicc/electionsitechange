@@ -1,4 +1,9 @@
-An Outsider Playing an Insider’s Game
-Jamie Joyce is the underdog candidate from District 12 - who happens to have all the expertise that recent polling shows voters care about.
+0 Skip to Content ✔ About Jamie ✔ Endorsements ✔ Serving the District District Overview Berkeley Oakland San Leandro Piedmont Alameda Albany Albany ✔ Read The MAD Act ✔ Volunteer ✔ Contact ✔ News ❤️ DONATE English DONATE Open Menu Close Menu Open Menu Close Menu ✔ About Jamie ✔ Endorsements ✔ Serving the District District Overview Berkeley Oakland San Leandro Piedmont Alameda Albany Albany ✔ Read The MAD Act ✔ Volunteer ✔ Contact ✔ News ❤️ DONATE English DONATE ✔ About Jamie ✔ Endorsements Folder: ✔ Serving the District Back District Overview Berkeley Oakland San Leandro Piedmont Alameda Albany Albany ✔ Read The MAD Act ✔ Volunteer ✔ Contact ✔ News ❤️ DONATE English Back DONATE An Outsider Playing an Insider’s Game Jamie Joyce is the underdog candidate from District 12 - who happens to have all the expertise that recent polling shows voters care about.
 Let’s bring that expertise to the house and vote for a pragmatic progressive over an establishment corporate dem.
-Donate Below
+Donate Below $#,#.# $#,#.# $#,#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Monthly Donation #% Cover the Fee Donate Donate Contributions or gifts to Jamie Joyce for Congress are not tax deductible as charitable contributions for federal income tax purposes.
+This is a donation to the general election.
+In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
+In tests we performed, they bias towards incumbents.
+They were not trained to be nuanced about political matters, accept surface-level claims, and it’s highly unethical that they would even suggest an opinion.
+LLMs focus on items like voting record, when a challenger who is not an incumbent has no opportunity to demonstrate one.
+Also, LLMs focus on how MUCH money, but they should consider WHERE the money comes from: for example, the incumbent accepts Pro-Israel money and corporate PAC money, which many voters in this district should be aware of.

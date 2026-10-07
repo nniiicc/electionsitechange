@@ -1,14 +1,11 @@
-by Dale Washburn | Feb 7, 2022 | Uncategorized
-The Georgia General Assembly is well into the 2022 legislative session, and we resumed our work at the State Capitol on Tuesday, February 1, 2022.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 4 Legislative Session Recap 2022 by Dale Washburn | Feb 7, 2022 | Uncategorized The Georgia General Assembly is well into the 2022 legislative session, and we resumed our work at the State Capitol on Tuesday, February 1, 2022.
 This was our fourth week of session, putting us at more than a quarter of the way through the legislative session.
 While...
-by Dale Washburn | Mar 9, 2020 | News, Uncategorized
-On Monday, March 2, the Georgia House of Representatives returned to the Gold Dome for the eighth week of the 2020 legislative session.
+2020 Legislative Session Week Eight by Dale Washburn | Mar 9, 2020 | News , Uncategorized On Monday, March 2, the Georgia House of Representatives returned to the Gold Dome for the eighth week of the 2020 legislative session.
 More than 40 bills and resolutions were passed on the House floor during the four days that my colleagues and I were in session this...
-by Dale Washburn | Feb 24, 2020 | Uncategorized
-On Tuesday, February 18, the Georgia General Assembly returned to the Gold Dome for the sixth week of the 2020 legislative session.
+2020 Legislative Session Week Six by Dale Washburn | Feb 24, 2020 | Uncategorized On Tuesday, February 18, the Georgia General Assembly returned to the Gold Dome for the sixth week of the 2020 legislative session.
 With one-third of the legislative session already completed, the week was productive from start to finish.
 My colleagues and I met for...
-by Dale Washburn | Feb 6, 2019 | Uncategorized
-Week 3 of the 2019 legislative session has come to a close.
+2019 Legislative Session Week Three by Dale Washburn | Feb 6, 2019 | Uncategorized Week 3 of the 2019 legislative session has come to a close.
 After navigating around an unexpected “snow” day the House and the Senate began their regular committee meetings – the first consisting of adopting rules and hearing presentations....
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

@@ -1,7 +1,9 @@
 {
  "description": "Get the necessary information for voting in the 2026 November Election",
  "final_url": "https://www.lindsaygramlich.com/voting",
- "paid_for_by": "PAID FOR BY OUR COMMUNITY FOR LINDSAY GRAMLICH &nbsp; bottom of page",
+ "fingerprint": "5d83716c23dd5fc93344da265c2d5596b627cd0d",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY OUR COMMUNITY FOR LINDSAY GRAMLICH bottom of page",
  "title": "Voting | Lindsay Gramlich For State Rep",
  "years_mentioned": []
 }

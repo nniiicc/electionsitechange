@@ -1,17 +1,118 @@
 [
-"https://democracy2028.com/latashaward",
-"https://elections.maryland.gov/elections/2026/index.html",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelatashaward.com",
-"https://facebook.com/votelatasharward",
-"https://secure.actblue.com/donate/latasha-ward-2",
-"https://secure.actblue.com/donate/latasha-ward-2?amount=100",
-"https://secure.actblue.com/donate/latasha-ward-2?amount=25",
-"https://secure.actblue.com/donate/latasha-ward-2?amount=250",
-"https://secure.actblue.com/donate/latasha-ward-2?amount=50",
-"https://twitter.com/intent/tweet?text=Vote+LaTasha+Ward+for+MD+House+District+24%21+Moving+Us+ForWARD.+votelatashaward.com",
-"https://votelatashaward.com/",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/AboutBeforeYouBegin",
-"https://voterservices.elections.maryland.gov/VoterSearch"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/latasha-ward-2?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/latasha-ward-2?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/latasha-ward-2?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/latasha-ward-2?amount=50"
+},
+{
+"text": "(240) 241-0943",
+"href": "tel:2402410943"
+},
+{
+"text": "Absentee Ballot",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "Call (240) 241-0943",
+"href": "tel:2402410943"
+},
+{
+"text": "Check Registration",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Check Your Registration",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/latasha-ward-2"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/latasha-ward-2"
+},
+{
+"text": "Email",
+"href": "mailto:Info@latashaward.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votelatasharward/"
+},
+{
+"text": "Find Polling Place",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+},
+{
+"text": "Info@latashaward.com",
+"href": "mailto:Info@latashaward.com"
+},
+{
+"text": "Join on Sikhona",
+"href": "https://democracy2028.com/latashaward"
+},
+{
+"text": "RSVP via Email",
+"href": "mailto:Info@latashaward.com?subject=RSVP+for+Event"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/AboutBeforeYouBegin"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "SIGN UP ON SIKHONA — FREE",
+"href": "https://democracy2028.com/latashaward"
+},
+{
+"text": "Share",
+"href": "https://twitter.com/intent/tweet?text=Vote+LaTasha+Ward+for+MD+House+District+24%21+Moving+Us+ForWARD.+votelatashaward.com"
+},
+{
+"text": "Share",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelatashaward.com"
+},
+{
+"text": "Sikhona Campaign Page",
+"href": "https://democracy2028.com/latashaward"
+},
+{
+"text": "VERIFY REGISTRATION",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "democracy2028.com/latashaward",
+"href": "https://democracy2028.com/latashaward"
+},
+{
+"text": "facebook.com/votelatasharward",
+"href": "https://www.facebook.com/votelatasharward/"
+},
+{
+"text": "votelatashaward.com",
+"href": "https://www.votelatashaward.com"
+}
 ]

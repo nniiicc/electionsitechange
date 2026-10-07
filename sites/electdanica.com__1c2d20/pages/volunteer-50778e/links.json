@@ -1,10 +1,46 @@
 [
-"https://electdanica.com/",
-"https://electdanica.com/about",
-"https://electdanica.com/events1",
-"https://electdanica.com/news",
-"https://electdanica.com/platform",
-"https://electdanica.com/volunteer",
-"https://instagram.com/danica4the32",
-"https://secure.actblue.com/donate/danica-noble-1"
+{
+"text": "About",
+"href": "https://www.electdanica.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/danica-noble-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electdanica.com"
+},
+{
+"text": "Events",
+"href": "https://www.electdanica.com/events1"
+},
+{
+"text": "Home",
+"href": "https://www.electdanica.com"
+},
+{
+"text": "Info@ElectDanica.com",
+"href": "mailto:Info@ElectDanica.com"
+},
+{
+"text": "News",
+"href": "https://www.electdanica.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.electdanica.com/platform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electdanica.com/volunteer"
+},
+{
+"text": "[image: Danica Logo TRANSPARENT]",
+"href": "https://www.electdanica.com"
+},
+{
+"text": "[image: Instagram logo danica.png]",
+"href": "https://www.instagram.com/danica4the32/"
+}
 ]

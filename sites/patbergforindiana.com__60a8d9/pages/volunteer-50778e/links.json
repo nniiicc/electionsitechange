@@ -1,10 +1,42 @@
 [
-"http://instagram.com/patbergforindiana",
-"https://facebook.com/profile.php?id=61577602210949",
-"https://patbergforindiana.com/",
-"https://patbergforindiana.com/about",
-"https://patbergforindiana.com/cart",
-"https://patbergforindiana.com/priorities",
-"https://patbergforindiana.com/volunteer",
-"https://secure.actblue.com/donate/patbergforindiana"
+{
+"text": "0",
+"href": "https://www.patbergforindiana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.patbergforindiana.com/about"
+},
+{
+"text": "Donate @ ActBlue!",
+"href": "https://secure.actblue.com/donate/patbergforindiana"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.actblue.com/donate/patbergforindiana"
+},
+{
+"text": "Priorities",
+"href": "https://www.patbergforindiana.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patbergforindiana.com/volunteer"
+},
+{
+"text": "[image: Patberg for Indiana]",
+"href": "https://www.patbergforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/patbergforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577602210949"
+},
+{
+"text": "[no text]",
+"href": "mailto:patbergforindiana@gmail.com"
+}
 ]

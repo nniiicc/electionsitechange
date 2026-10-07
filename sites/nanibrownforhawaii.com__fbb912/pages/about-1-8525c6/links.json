@@ -1,11 +1,50 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/profile.php?id=61576687397131",
-"https://instagram.com/nanibrownforhawaii",
-"https://nanibrownforhawaii.com/",
-"https://nanibrownforhawaii.com/about-1",
-"https://nanibrownforhawaii.com/cart",
-"https://nanibrownforhawaii.com/contact-us",
-"https://nanibrownforhawaii.com/events",
-"https://secure.actblue.com/donate/nanibrown"
+{
+"text": "0",
+"href": "https://www.nanibrownforhawaii.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.nanibrownforhawaii.com/about-1"
+},
+{
+"text": "Contact Us",
+"href": "https://www.nanibrownforhawaii.com/contact-us"
+},
+{
+"text": "Events",
+"href": "https://www.nanibrownforhawaii.com/events"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.nanibrownforhawaii.com/contact-us"
+},
+{
+"text": "Help us WIN District 17! Donate today!",
+"href": "https://secure.actblue.com/donate/nanibrown"
+},
+{
+"text": "Home",
+"href": "https://www.nanibrownforhawaii.com/"
+},
+{
+"text": "NANI BROWN FOR HAWAII",
+"href": "https://www.nanibrownforhawaii.com/"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/nanibrown"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576687397131"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nanibrownforhawaii/"
+}
 ]

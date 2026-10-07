@@ -1,4 +1,18 @@
 [
-"https://nancyjenkinsarno.com/",
-"https://secure.winred.com/friends-of-nancy-jenkins-arno/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+{
+"text": "About",
+"href": "https://www.nancyjenkinsarno.com"
+},
+{
+"text": "Contact",
+"href": "https://www.nancyjenkinsarno.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/friends-of-nancy-jenkins-arno/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Issues",
+"href": "https://www.nancyjenkinsarno.com"
+}
 ]

@@ -1,22 +1,16 @@
-Property Tax Relief
-Property Tax Relief
-· I supported and voted for SB 1, or Texas’s general appropriations budget.
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now Property Tax Relief Property Tax Relief · I supported and voted for SB 1, or Texas’s general appropriations budget.
 The budget is $338 billion, combining federal and state revenue.
-SB 1 is $15 billion below the limit on General Revenue spending, $3.9 billion below the limit on what can be spent without borrowing, and $10 billion below the total spending constitutional limit.
-· SB 1 also dedicates $51 billion in total property tax relief – a record in both real numbers and percentage of a budget dedicated to tax relief for any legislative body in the United States.
-· Dramatic increases to the Homestead Exemption – I supported SB 4 and SJR 2 to increase the homestead exemption from $100,000 to $140,000.
+SB 1 is $15 billion below the limit on General Revenue spending, $3.9 billion below the limit on what can be spent without borrowing, and $10 billion below the total spending constitutional limit. · SB 1 also dedicates $51 billion in total property tax relief – a record in both real numbers and percentage of a budget dedicated to tax relief for any legislative body in the United States. · Dramatic increases to the Homestead Exemption – I supported SB 4 and SJR 2 to increase the homestead exemption from $100,000 to $140,000.
 Additionally, SB 23 and SJR 85 practically doubles the homestead exemption from $110,000 to $200,000 for seniors and those with disabilities.
-As a result, 60% of seniors will pay no school district property taxes.
-· During the 2nd called Special Session in 2023 I helped pass an $18 billion tax relief package, the largest state tax cut in United States history.
+As a result, 60% of seniors will pay no school district property taxes. · During the 2nd called Special Session in 2023 I helped pass an $18 billion tax relief package, the largest state tax cut in United States history.
 The legislation: increased the homestead exemption on school taxes from $40,000 to $100,000, added $12 billion to compress (or buy down) school district maintenance and operations property taxes, cap appraisal growth on commercial properties valued under $5 million at 20% (there was no appraisal cap previously), and reformed appraisal district boards by adding elected positions.
-The package also includes a Franchise Tax cut for small businesses.
-· The primary focus of the 2019 legislative session was reforming school finance and property taxes in Texas.
+The package also includes a Franchise Tax cut for small businesses. · The primary focus of the 2019 legislative session was reforming school finance and property taxes in Texas.
 HB 3, which I coauthored, dramatically reformed the school finance system by simplifying funding formulas and authorizing greater funds from the state to compress, or buy down, property tax rates.
 It also limited the total dollar amount of property tax increases from the ISD level from 8% down to 2.5% on the average property.
 The result was a 7-to-13-cent permanent property tax rate reduction, depending on the school district.
-This bill lowered the property tax burden and reduced recapture, known as Robin Hood, in every school district in Texas.
-· SB 2, known as The Property Tax Reform and Relief Act of 2019, dramatically reformed the growth of property taxes at the local level.
+This bill lowered the property tax burden and reduced recapture, known as Robin Hood, in every school district in Texas. · SB 2, known as The Property Tax Reform and Relief Act of 2019, dramatically reformed the growth of property taxes at the local level.
 Except for the smallest communities in Texas, cities’ and counties’ ability to raise property taxes without voter approval was dramatically lowered from 8% down to just 3.5%.
-If funds are needed over and above that amount, the city or county must first seek voter approval.
-· In 2021, I helped pass a constitutional amendment to increase the homestead exemption on public school taxes from $25,000 to $40,000.
+If funds are needed over and above that amount, the city or county must first seek voter approval. · In 2021, I helped pass a constitutional amendment to increase the homestead exemption on public school taxes from $25,000 to $40,000.
 This greater homestead helped reduce the tax burden on homeowners while keeping school funding whole.
+Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

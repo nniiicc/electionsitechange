@@ -1,9 +1,9 @@
 {
  "description": "Support Amanda Reichek by donating online for her campaign contributions and help make a difference in the justice system!",
  "final_url": "https://amandaforjustice.com/donate",
- "paid_for_by": null,
+ "fingerprint": "e1d5c71b11daa1ac2c2927e041deb68e6d5cce82",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
- "years_mentioned": [
-  "2025"
- ]
+ "years_mentioned": []
 }

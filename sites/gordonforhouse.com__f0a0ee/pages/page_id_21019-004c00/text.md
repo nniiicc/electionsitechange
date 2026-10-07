@@ -1,17 +1,11 @@
-Meet Pamela Gordon
-Pamela Gordon is a lifelong conservative and longtime rural school superintendent who firmly believes that our small towns and rural communities are the true heartbeat of Oklahoma.
-She is not a career politician; she is a neighbor and educator who has spent her career rooted in the same values of hard work and faith that define our way of life here in District 18.
-Pamela is running for the House of Representatives because she has seen firsthand how distant bureaucracies and heavy-handed regulations are putting a squeeze on our families and local businesses.
-Her top priority is delivering common-sense education reform that empowers parents with a real voice in their children’s schooling while ensuring our rural public schools remain strong, fully funded, and protected as the anchors of our communities.
-She is committed to bringing this vital rural perspective to the State Capitol—championing a pro-growth economy, defending private property rights against the abuse of eminent domain, and ensuring our farmers and ranchers can keep their land and legacies for generations to come.
-issues
-Education
-Pamela Gordon believes parents are the sole proprietors of their children’s education.
-As a rural school superintendent, she supports school choice policies that reflect rural realities and ensure local communities are strengthened rather than sidelined.
-Her goal is to empower families with real options while protecting the foundation of rural schools.
-Economy
-Gordon supports a conservative, pro-growth economy that prioritizes small businesses, agriculture, and working families over outside interests.
-Her focus is on creating good-paying jobs within District 18 so that families have the opportunity to build their future without being forced to leave their homes
-Ranches and Farms
-Agriculture is at the heart of Gordon’s campaign, and she views farming and ranching as traditions that deserve respect and protection.
-She stands firmly against the abuse of eminent domain and will oppose government-backed projects that trample the rights of landowners, farmers, and ranchers.
+Home About Issues Volunteer Donate Contact News Meet Pamela Gordon Pamela Gordon is a lifelong conservative and longtime rural school superintendent who firmly believes that our small towns and rural communities are the true heartbeat of Oklahoma .
+She is not a career politician; she is a neighbor and educator who has spent her career rooted in the same values of hard work and faith that define our way of life here in District 18 .
+Pamela is running for the House of Representatives because she has seen firsthand how distant bureaucracies and heavy-handed regulations are putting a squeeze on our families and local businesses .
+Her top priority is delivering common-sense education reform that empowers parents with a real voice in their children’s schooling while ensuring our rural public schools remain strong, fully funded, and protected as the anchors of our communities .
+She is committed to bringing this vital rural perspective to the State Capitol—championing a pro-growth economy, defending private property rights against the abuse of eminent domain, and ensuring our farmers and ranchers can keep their land and legacies for generations to come. issues  Education Pamela Gordon believes parents are the sole proprietors of their children’s education .
+As a rural school superintendent, she supports school choice policies that reflect rural realities and ensure local communities are strengthened rather than sidelined .
+Her goal is to empower families with real options while protecting the foundation of rural schools .  Economy Gordon supports a conservative, pro-growth economy that prioritizes small businesses, agriculture, and working families over outside interests .
+Her focus is on creating good-paying jobs within District 18 so that families have the opportunity to build their future without being forced to leave their homes  Ranches and Farms Agriculture is at the heart of Gordon’s campaign, and she views farming and ranching as traditions that deserve respect and protection .
+She stands firmly against the abuse of eminent domain and will oppose government-backed projects that trample the rights of landowners, farmers, and ranchers .
+About Donate Contact Volunteer News Authorized and Paid for by Team Gordon © # Team Gordon All Rights Reserved.
+Powered by Politigig

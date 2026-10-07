@@ -1,12 +1,10 @@
-Hallie Shoffner Accepts Arkansas TV Debate Invitation
-LITTLE ROCK — Hallie Shoffner has accepted the invitation to participate in the U.S.
+0 Skip to Content Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Open Menu Close Menu Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Open Menu Close Menu Meet Hallie The Issues Take Action News Events Endorsements Store DONATE Hallie Shoffner Accepts Arkansas TV Debate Invitation Aug 12 Written By Micah Wallace LITTLE ROCK — Hallie Shoffner has accepted the invitation to participate in the U.S.
 Senate debate as part of Election 2026: Arkansas TV Debates.
 Debates for multiple races in the state will be aired on the network the week of October 12–16, 2026.
 Arkansas TV is the rebranded name of Arkansas PBS, previously called the Arkansas Educational Television Network.
 Shoffner looks forward to giving Arkansans the opportunity to hear directly from the candidates about their records, priorities, and plans for the future of our state.
 Arkansas TV will announce the specific date and time of the Senate debate after all candidates have confirmed their attendance, which has been requested by Friday, August 14.
-About Hallie Shoffner
-Hallie Shoffner is a wife, mother, sixth-generation Arkansan, row crop farmer and small business owner.
-She’s running for US Senate to fight for her neighbors because hardworking Arkansans shouldn’t have to choose between affording their life and enjoying it; Arkansans deserve both health insurance and access to providers; and every community should have first-rate infrastructure and a fighting chance: Arkansas farmers have earned a forward-thinking Farm Bill, and every family is entitled to reliably clean water, strong schools, affordable housing, high-quality childcare and elder care,
-and broadband so they can compete in a global economy.
-###
+About Hallie Shoffner Hallie Shoffner is a wife, mother, sixth-generation Arkansan, row crop farmer and small business owner.
+She’s running for US Senate to fight for her neighbors because hardworking Arkansans shouldn’t have to choose between affording their life and enjoying it; Arkansans deserve both health insurance and access to providers; and every community should have first-rate infrastructure and a fighting chance: Arkansas farmers have earned a forward-thinking Farm Bill, and every family is entitled to reliably clean water, strong schools, affordable housing, high-quality childcare and elder care, and broadband so they can compete in a global economy.
+### Micah Wallace Previous Previous Shoffner Calls for Senate Vote on Farm Bill Before September 30 Deadline Next Next Senate Farm Bill Failure Spotlights Broken System Follow us DONATE Contact: (501) 295-3428 info@shoffnerforarkansas.com Mailing Address: 600 E Capitol PO Box 57 Little Rock, AR 72202 Little Rock Office: 415 W 12th St Little Rock, AR 72202 Please direct all media requests to media@shoffnerforarkansas.com.
+Privacy Policy

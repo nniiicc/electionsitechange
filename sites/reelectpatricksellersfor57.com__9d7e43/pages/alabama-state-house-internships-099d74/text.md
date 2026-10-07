@@ -1,4 +1,4 @@
-Investing in the NEXT generation! 🚀
-Each year I host District 57 students at the Alabama State House for internships, mentoring, and real-world leadership experience.
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook Community Impact Alabama State House Internships By PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS August 21, 2025 September 17th, 2025 No Comments Investing in the NEXT generation! 🚀 Each year I host District 57 students at the Alabama State House for internships, mentoring, and real-world leadership experience.
 Ready to lead?
 Let’s go!
+PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS Previous Post Investing in Hueytown High School facebook © # RE-ELECT PATRICK SELLERS ALABAMA HOUSE OF REPRESENTATIVES. | PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS | 319 11TH PL PLEASANT GROVE, AL 35127 Close Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook

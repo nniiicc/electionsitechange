@@ -1,5 +1,4 @@
-The Cost of Their Priorities
-Just days after millions across the nation gathered to celebrate 250 years, Lorenzo Salgado Araujo was on his way to work when he was stopped by immigration agents who were not wearing body cameras.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW The Cost of Their Priorities Jul 13 Written By Mitch Just days after millions across the nation gathered to celebrate 250 years, Lorenzo Salgado Araujo was on his way to work when he was stopped by immigration agents who were not wearing body cameras.
 Lorenzo Salgado Araujo, a hard-working family man who called the United States his home for the past 35 years, was shot and killed by ICE.
 DHS made a statement on Thursday revealing that Lorenzo Salgado Araujo was not the intended target.
 Lorenzo Salgado Araujo had been working as a builder in Houston for three decades.
@@ -9,8 +8,7 @@ Reports show that in the first 500 days of Trump’s second administration, 52 p
 In this year alone, 21 people have died in ICE detention.
 Yet, Congress wants to give ICE and CBP $70 billion alone in one bill, with no accountability for the violence and fear they are inflicting on communities.
 On Thursday, in response to the fatal shooting of Lorenzo Salgado Araujo, a DHS spokesperson told NewsNation that “ICE law enforcement officers are trained to use the minimum amount of force necessary to resolve dangerous situations to prioritize the safety of the public and our officers.
-Officers are highly trained in de-escalation tactics and regularly receive ongoing use-of-force training.”
-Interestingly enough, it was found that in at least four cases, including Salgado’s, the victims were driving vehicles when they were targeted and shot.
+Officers are highly trained in de-escalation tactics and regularly receive ongoing use-of-force training.” Interestingly enough, it was found that in at least four cases, including Salgado’s, the victims were driving vehicles when they were targeted and shot.
 Four cases where ICE agents fired their weapons in “self-defense” because of the weaponization of a vehicle.
 Do they think we are not paying attention?
 Law enforcement officials are trained to move out of a car’s path, not shoot at a moving vehicle.
@@ -29,13 +27,12 @@ I have said it before.
 I will say it again.
 I will keep saying it: abolish ICE.
 But until then, ICE and CBP, like any other law enforcement agency, should operate with guardrails and oversight.
-In case you missed it or need a reminder, just one month ago, Congressman Tom Cole proudly voted for the $70 billion immigration enforcement bill, which is a request to fund ICE/CBP for three years, effectively eliminating congressional oversight and effectively eliminating the ability for Congress to demand hold the agencies accountable — handing $38.5 billion to ICE and $26 billion to Border Patrol, claiming it would “keep our communities safe.” He proudly states, “Terrorists.
+In case you missed it or need a reminder, just #ago, Congressman Tom Cole proudly voted for the $70 billion immigration enforcement bill, which is a request to fund ICE/CBP for three years, effectively eliminating congressional oversight and effectively eliminating the ability for Congress to demand hold the agencies accountable — handing $38.5 billion to ICE and $26 billion to Border Patrol, claiming it would “keep our communities safe.” He proudly states, “Terrorists.
 Cartels.
 Human traffickers.
 Drug smugglers.
 Each day, ICE and Border Patrol agents and officers confront these threats head-on to keep America safe.
-It’s exactly why I have consistently voted to comprehensively resource these law enforcement professionals as they carry out their security missions.”
-Cole ends by saying he is reminded that governing is a choice.
+It’s exactly why I have consistently voted to comprehensively resource these law enforcement professionals as they carry out their security missions.” Cole ends by saying he is reminded that governing is a choice.
 He states, “The work I do, the votes I cast, and the actions I take will always be guided by one principle: fulfilling our obligations to the American people.” He’s right.
 Governing is a choice, and right now, Washington is choosing corruption and unchecked violence over real people.
 Since Tom Cole has nothing to say, here is my stance.
@@ -62,6 +59,8 @@ Lorenzo Salgado Araujo’s son, Ronaldo Salgado, said his father was a man of ro
 He began his days the same way and always ended them by coming home.
 Tuesday, July 7th, Lorenzo Salgado Araujo did not come home.
 Monday, January 24th, Alex Pretti did not come home.
-Wednesday, January 7th, Renee Good did not come home, and instead of answers and accountability, all we are getting is deflection.
-_____
-Man fatally shot by ice in Houston was not intended target, DHS says. https://www.bbc.com/news/articles/cm2rm66xd17oNew terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term | Texas | The Guardian.https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trumpMexico wants a criminal investigation after Lorenzo Salgado Araujo was killed by ICE in Houston. https://www.newsnationnow.com/us-news/immigration/border-coverage/mexico-criminal-investigation-deaths-ice/‘They haven’t made it easy’: Family of Houston man fatally shot by ICE says they’re unable to claim his body | Houston Public Media.https://www.houstonpublicmedia.org/articles/news/local/2026/07/10/556720/lorenzo-salgado-araujo-family-ice-shooting-houston-medical-examiner/Tom Cole Issues Statement after passage of $70B & Save America Act” immigration Bill. https://okcfox.com/news/local/tom-cole-issues-statement-after-passage-of-70b-save-america-act-immigration-bill
+Wednesday, January 7th, Renee Good did not come home, and instead of answers and accountability, all we are getting is deflection. _____ Man fatally shot by ice in Houston was not intended target, DHS says. https://www.bbc.com/news/articles/cm2rm66xd17o New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term | Texas | The Guardian. https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trump Mexico wants a criminal investigation after Lorenzo Salgado Araujo was killed by ICE in Houston. https://www.newsnationnow.com/us-news/immigration/border-coverage/mexico-criminal-investigation-deaths-ice/ ‘They haven’t made it easy’: Family of Houston man fatally shot by ICE says they’re unable to claim his body | Houston Public Media. https://www.houstonpublicmedia.org/articles/news/local/2026/07/10/556720/lorenzo-salgado-araujo-family-ice-shooting-houston-medical-examiner/ Tom Cole Issues Statement after passage of $70B & Save America Act” immigration Bill. https://okcfox.com/news/local/tom-cole-issues-statement-after-passage-of-70b-save-america-act-immigration-bill Mitch Father, husband, U.S.
+Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous What Could We Do With a Billion Dollars a Day?
+Next Next America’s Semiquincentennial: the Story We Are Still Writing Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
+Box 1141 Newcastle, OK.
+73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

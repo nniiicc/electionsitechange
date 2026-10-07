@@ -1,8 +1,11 @@
-My name is Wayne Rusk.
+Home Meet Wayne Issues Const.
+Conservatism Individual Rights Second Amendment Pro-Life Pro-Family Election Integrity Public Lands News Donate Now More Home Meet Wayne Issues Const.
+Conservatism Individual Rights Second Amendment Pro-Life Pro-Family Election Integrity Public Lands News Donate Now Home Meet Wayne Issues Const.
+Conservatism Individual Rights Second Amendment Pro-Life Pro-Family Election Integrity Public Lands News Donate Now Meet Wayne RUSK My name is Wayne Rusk.
 I have lived in the Bitterroot Valley for more than 33 years.
 My time in the Bitterroot has blessed me greatly.
 Here I have learned to fly and earned a commercial pilot’s license.
-It is where I started my business 27 years ago as a successful tradesman.
+It is where I started my business #ago as a successful tradesman.
 I met my wife Carrie in free fall, skydiving over the Stevensville airport from 15,000 feet in 1994.
 It is also where we have raised our two amazing children, Olivia, 22, and Nathan, 19.
 This beautiful Valley we call home has been the perfect place to teach them our Christian values, and our love of the outdoors, by hunting, fishing, and enjoying a peaceful way of life.
@@ -17,3 +20,8 @@ It was an honor to serve as your representative in Helena.
 However, as a lifelong Republican, I must admit I was at times taken aback by the undue influence of hyper-partisanship and political faction that obtained in our party, and how on these occasions it tended to render us poor stewards of our own positions.
 As our politics have become increasingly polarized, I have consistently struck for common ground and found it.
 In the legislature I remained steadfastly conservative and constitutional amid the seductions of extremism and the pressures of partisanship – no matter what the scorecards of special interest groups are saying.
+Paid for by Rusk for Legislature.
+P.O.
+Box 531, Corvallis, MT 59828.
+Republican.
+Powered by

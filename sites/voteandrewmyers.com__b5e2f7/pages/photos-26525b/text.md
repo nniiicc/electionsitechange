@@ -1,9 +1,1 @@
-Home
-Community Priorities
-Bills
-Endorsements
-Photos
-Events
-Priorities Survey
-Contact
-Donate
+Home Community Priorities Bills Endorsements Photos Events Priorities Survey Contact Donate Follow Follow Follow Follow Follow Prepared and Paid for by Andrew Myers for Minnesota House of Representatives District 45A | PO Box 149 Excelsior, MN 55331

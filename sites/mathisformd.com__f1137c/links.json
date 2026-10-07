@@ -1,10 +1,46 @@
 [
-"https://elections.maryland.gov/elections/2026/index.html",
-"https://instagram.com/mathisformaryland",
-"https://mathisformd.com/",
-"https://mathisformd.com/?page_id=367",
-"https://mathisformd.com/about",
-"https://mathisformd.com/issues-priorities",
-"https://secure.actblue.com/donate/mathisformaryland",
-"https://secure.actblue.com/donate/musichistoryhope"
+{
+"text": "Contact Us",
+"href": "mailto:mathisformaryland@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mathisformaryland"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/mathisformaryland"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://mathisformd.com/?page_id=367"
+},
+{
+"text": "ISSUES",
+"href": "https://mathisformd.com/issues-priorities/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mathisformaryland/"
+},
+{
+"text": "MATHIS FOR MD",
+"href": "https://mathisformd.com"
+},
+{
+"text": "MEET ADRIANNE",
+"href": "https://mathisformd.com/about/"
+},
+{
+"text": "More About Adrianne",
+"href": "https://mathisformd.com/about/"
+},
+{
+"text": "RSVP & CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/musichistoryhope"
+},
+{
+"text": "Voting Info",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+}
 ]

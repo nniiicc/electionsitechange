@@ -1,4 +1,5 @@
-Enough is enough….
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Capitol Hall Report – May 3, 2016 May 3, 2016 Tweet Enough is enough….
 The recent brutal beating death of 4-year-old Leiliana Wright of Grand Prairie is a painful reminder of the consequences that accompany the state’s failure to protect our most vulnerable Texans: abused and neglected children.
 According to the Texas Department of Family and Protective Services, in 2015 alone, a total of 66,721 children and teens were victims of abuse or neglect, 17,151 were removed from their homes for their own protection, and 171 children, supposedly protected by Child Protective Services (CPS), died.
 Across the Nation, state run agencies are specifically tasked to protect children from dangerous living situations.
@@ -20,3 +21,7 @@ In addition, we are dutifully bound to guarantee that DFPS operates in line with
 This includes an adherence to the 4th and 14th amendments, and the protections of constitutional rights and parental authority.
 We must address these issues, while also ensuring that our limited tax dollars are focused on situations of true abuse, not situations of legitimate parental decisions with which the personnel in DFPS happens to disagree.
 On April 11, Governor Abbott stated, “The status quo at CPS is unacceptable.” I fully support the Governor’s assessment of this situation and believe it is time the Texas Legislature ensures the Children of Texas are properly protected.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

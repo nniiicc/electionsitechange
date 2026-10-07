@@ -1,29 +1,118 @@
 [
-"https://facebook.com/Marc.Korman.Campaign",
-"https://marckorman.com/",
-"https://marckorman.com/about-marc.html",
-"https://marckorman.com/airplane-noise.html",
-"https://marckorman.com/animal-welfare.html",
-"https://marckorman.com/budget.html",
-"https://marckorman.com/civil-rights--civil-liberties.html",
-"https://marckorman.com/contact.html",
-"https://marckorman.com/contribute.html",
-"https://marckorman.com/covid-19.html",
-"https://marckorman.com/economic-prosperity.html",
-"https://marckorman.com/education.html",
-"https://marckorman.com/endorsements.html",
-"https://marckorman.com/energy--environment.html",
-"https://marckorman.com/healthcare.html",
-"https://marckorman.com/issues.html",
-"https://marckorman.com/latest-news.html",
-"https://marckorman.com/pepco.html",
-"https://marckorman.com/preserving-our-success.html",
-"https://marckorman.com/public-safety.html",
-"https://marckorman.com/questionnaires.html",
-"https://marckorman.com/scholarship.html",
-"https://marckorman.com/seniors.html",
-"https://marckorman.com/subscribe.html",
-"https://marckorman.com/transportation.html",
-"https://twitter.com/mkorman",
-"https://youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+{
+"text": "About Marc",
+"href": "https://www.marckorman.com/about-marc.html"
+},
+{
+"text": "Airplane Noise",
+"href": "https://www.marckorman.com/airplane-noise.html"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.marckorman.com/animal-welfare.html"
+},
+{
+"text": "Budget",
+"href": "https://www.marckorman.com/budget.html"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marckorman.com/covid-19.html"
+},
+{
+"text": "Civil Rights & Civil Liberties",
+"href": "https://www.marckorman.com/civil-rights--civil-liberties.html"
+},
+{
+"text": "Contact",
+"href": "https://www.marckorman.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.marckorman.com/contribute.html"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://www.marckorman.com/economic-prosperity.html"
+},
+{
+"text": "Education",
+"href": "https://www.marckorman.com/education.html"
+},
+{
+"text": "Energy & Environment",
+"href": "https://www.marckorman.com/energy--environment.html"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marckorman.com/healthcare.html"
+},
+{
+"text": "Home",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.marckorman.com/issues.html"
+},
+{
+"text": "Latest News",
+"href": "https://www.marckorman.com/latest-news.html"
+},
+{
+"text": "Pepco",
+"href": "https://www.marckorman.com/pepco.html"
+},
+{
+"text": "Preserving Our Success",
+"href": "https://www.marckorman.com/preserving-our-success.html"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marckorman.com/public-safety.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.marckorman.com/questionnaires.html"
+},
+{
+"text": "Scholarship",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "Seniors",
+"href": "https://www.marckorman.com/seniors.html"
+},
+{
+"text": "Subscribe",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "Transportation",
+"href": "https://www.marckorman.com/transportation.html"
+},
+{
+"text": "[image: MARC KORMAN]",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mkorman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marc.Korman.Campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+},
+{
+"text": "endorsed by",
+"href": "https://www.marckorman.com/endorsements.html"
+},
+{
+"text": "sign up to receive updates",
+"href": "https://www.marckorman.com/subscribe.html"
+}
 ]

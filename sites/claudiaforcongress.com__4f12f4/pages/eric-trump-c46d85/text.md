@@ -1,10 +1,7 @@
-Eric Trump & Claudia Tenney Hold Massive Tele-Townhall
-Over 8,000 SupportersBack Tenney, President Trump
-NY22 – Last night at 6PM, Eric Trump, the son of President Donald Trump, joined Claudia Tenney in a massive tele-townhall to support Tenney’s campaign for Congress and the President’s re-election.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page BREAKING: Eric Trump & Claudia Tenney Host NY-22 Tele-Townhall Share September 23 2020 Eric Trump & Claudia Tenney Hold Massive Tele-Townhall Over 8,000 SupportersBack Tenney, President Trump NY22 – Last night at 6PM, Eric Trump, the son of President Donald Trump, joined Claudia Tenney in a massive tele-townhall to support Tenney’s campaign for Congress and the President’s re-election.
 With over 8,000 supporters in attendance, Eric encouraged everyone to make their voices heard this election and support Claudia Tenney for Congress.
 Eric and Claudia discussed law and order, middle-class tax cuts, supporting our veterans, and Anthony Brindisi’s broken promise to not vote to impeach the President, before voting three times for impeachment.
-Partial transcript below:
-CLAUDIA TENNEY:“This is the most important election of our lifetime.
+Partial transcript below: CLAUDIA TENNEY: “This is the most important election of our lifetime.
 And we are so honored to have the endorsement of President Trump and the first family.
 And as you know, President Trump visited us in 2018, as did Eric, Ivanka, and Don Jr.
 And we are excited here to have Eric on the line with us today.
@@ -17,8 +14,7 @@ We need everyone to vote.
 You can’t just vote for the president.
 You got to vote for all of our great Republican candidates down the line.
 It is important that President Trump has someone like me who’s going to work with him and go through and make sure that we build on all the great things that happened in my first term.
-We need to get back to that, growing our economy, holding China accountable.We are really excited to have the support again of President Trump.”
-ERIC TRUMP: “It’s an honor to call you [Claudia] a friend.
+We need to get back to that, growing our economy, holding China accountable.We are really excited to have the support again of President Trump.” ERIC TRUMP : “It’s an honor to call you [Claudia] a friend.
 My father loves you.
 We as a family love you … And we’re going to win this thing.
 We’re going to win together.
@@ -36,4 +32,5 @@ But we will never, ever let you down and we will never, ever stop working.
 And I promise you, November 3rd is going to be an amazing, amazing day for not only New York and not only Claudia, but for all of you and our incredible big country.
 So, thank you all.
 I can’t wait to see you in person.
-And Claudia, thank you for everything.”
+And Claudia, thank you for everything.” Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

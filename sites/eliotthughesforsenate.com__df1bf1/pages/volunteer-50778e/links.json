@@ -1,8 +1,42 @@
 [
-"https://eliotthughesforsenate.com/",
-"https://eliotthughesforsenate.com/es/voluntariado",
-"https://eliotthughesforsenate.com/privacy-policy",
-"https://eliotthughesforsenate.com/terms-and-conditions",
-"https://eliotthughesforsenate.com/volunteer",
-"https://facebook.com/profile.php?id=61590145263108"
+{
+"text": "English",
+"href": "https://eliotthughesforsenate.com/volunteer/"
+},
+{
+"text": "Español (Spanish)",
+"href": "https://eliotthughesforsenate.com/es/voluntariado/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61590145263108"
+},
+{
+"text": "Home",
+"href": "https://eliotthughesforsenate.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://eliotthughesforsenate.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://eliotthughesforsenate.com/"
+},
+{
+"text": "[image]English",
+"href": "https://eliotthughesforsenate.com/volunteer/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://eliotthughesforsenate.com/es/voluntariado/"
+},
+{
+"text": "privacy policy",
+"href": "https://eliotthughesforsenate.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://eliotthughesforsenate.com/terms-and-conditions/"
+}
 ]

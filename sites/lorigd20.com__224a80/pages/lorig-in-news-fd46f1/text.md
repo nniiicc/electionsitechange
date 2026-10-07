@@ -1,190 +1,62 @@
-Lorig in the News
-October 2026
-August 2026
-July 2026
-June 2026
-- Read why Lorig feels public utilities are making higher profits than needed.
-(Maryland Daily Record)
-- Watch Lorig explain why President Trump's plans for subsidizing coal for power generation in Western Maryland does not make economic sense.
-(WMAR)
-May 2026
-April 2026
-March 2026
-- Read about what Lorig has called an "entirely inappropriate" move by Governor Moore to use funds raised for clean energy projects to be used to fill holes in the state's budget (The Banner).
-February 2026
-- Read about Lorig's bill to allow Marylanders to sue when the federal government violates their civil rights.
-(The Banner)
-- Read about plans to limit compensation utilities pay with funds from ratepayers' and how Lorig strongly defended the EmPower program, which saves ratepayers money.
-(Maryland Matters)
-January 2026
-December 2025
-October 2025
-- Read how Lorig and other legislators are urging PJM to take steps to advance clean energy projects before tax credit deadlines.
-(Utility Dive)
-- Read about efforts to ensure data center costs are not foisted on ratepayers (Baltimore Sun)
-- Read about efforts to ensure data center costs are not foisted on ratepayers (Baltimore Banner)
-- Read how Lorig's legislation to allow Community Choice electricity aggregation is getting closer to implementation in Montgomery County (Bethesda Magazine)
-September 2025
-- Read about Lorig’s continuing efforts to make hospitals repay the low-income patients they overcharged (Baltimore Banner)
-- Read: How Lorig and governors across the region are considering alternatives to PJM, the grid operator for Maryland and 12 other states, as a way to control electricity costs and increase transparency and accountability.
-(Fortune, Pennsylvania Capital-Star)
-- Read how Josh Shapiro and other state leaders are pressing PJM to give consumers a stronger voice in energy decisions.
-(Maryland Matters)
-June 2025
-May 2025
-April 2025
-- Read how Lorig is leading the effort to address Maryland’s energy price hikes.
-(Source of the Spring)
-March 2025
-February 2025
-January 2025
-December 2024
-November 2024
-October 2024
-- Read how Lorig's cutting-edge legislation is protecting workers from extreme heat.
-(DC News Now) and (Baltimore Banner)
-September 2024
-July 2024
-April 2024
-March 2024
-- Read how Lorig is working to curb utility spending on ads and lobbying.
-These efforts often slow or prevent progress towards our clean energy goals (Maryland Matters)
-February 2024
-- Watch coverage on the anniversary of the Arrive fire and Lorig's efforts to improve fire safety in older hi-rises:
-- Read a commentary on why customers should not be forced to subsidize their utilities political influence spending and how Lorig's bill would address this problem.
-(Maryland Matters)
-- Read about Lorig's organizing efforts among states to make utilities' decisions more transparent and provide accountability towards reaching climate goals.
-(Maryland Matters)
-January 2024
-December 2023
-- Read how Lorig is advocating for residents of the Enclave Apartmentswrote has led, in part, to fewer people being sued for medical debt.
-(Montgomery Blair Silver Chips, page 2)
-November 2023
-- Read about Lorig's efforts to move offshore wind projects forward while protecting ratepayers from cost increases.
-(Baltimore Sun)
-September 2023
-August 2023
-July 2023
-June 2023
-- Read Lorig's response on why now is the time to go hard, be bold, and get creative to both meet our climate goals and protect ratepayers.
-(Baltimore Sun)
-- (Read Non-paywall version of Lorig's Baltimore Sun letter)
-- Read about Lorig's efforts to protect workers from extreme heat.
-(Maryland Matters)
-- Listen to Lorig's interview with David Roberts on how she found a more just and politically durable way to fund offshore wind.
-(Volts)
-May 2023
-April 2023
-March 2023
-- Read about Lorig's "first in the nation" bill to increase transparency at public utilities such as the Public Service Commission.
-(Maryland Matters)
-- Read how Lorig is pressing for greater transparency in the Public Service Commission.
-(Utility Dive)
-- Watch Lorig debate why we need to increase the minimum wage more quickly and tie it to inflation.
-(MPT's State Circle; Lorig's piece begins at the 10:50 minute mark.)
-- Read about Lorig's bill to increase Offshore Wind.
-(AP) Outlets running the AP story: (Washington Post, CBS, Daily Record, Cecil Daily, US News, WBOC, The Derrick, WRDE, The Northern Virginia Daily, Local Today News, Flipboard, Hindustan News Hub, User Walls)
-- Read about the first hearing on Lorig's bill to increase Offshore Wind.
-(Maryland Matters)
-- Watch to learn about Lorig's Melanie Diaz Sprinklers Saves Lives bill (NBC4 Washington)
-February 2023
-January 2023
-- Read about Lorig's bill to automatically enroll SNAP recipients in Medicaid.
-(Baltimore Sun)
-- Watch Lorig talk about food security in Montgomery County (Montgomery Community Media)
-- Read Lorig and other advocates' push for increasing Maryland's off-shore wind goals.
-- Read about Lorig's bill to invest in energy efficiency in low-income housing.
-(Maryland Matters)
-November 2022
-September 2022
-- Read about electrical power grids across the country and Lorig's analysis of how they are regulated.
-(Maryland Matters)
-August 2022
-- Read How Lorig's legislation on reducing medical debt is a model across the country (Maryland Matters)
-- Read Lorig's take on how the Inflation Reduction Act will help states achieve climate goals (Bloomberg Law)
-- Read Lorig's take on how the Inflation Reduction Act will help Maryland achieve its ambitious climate goals (Governing)
-- Read Lorig's bill to lessen the effects of climate change on Maryland workers (Maryland Matters)
-- Read Lorig's work with other legislators to help Marylanders increase their energy efficiency (Maryland Matters)
-- Read Lorig on the Inflation Reduction Act's impact on Maryland (Governing)
-July 2022
-- Read Lorig's bill to bring more inclusivity to public school sports (MCM)
-June 2022
-- Read Lorig's op-ed about the benefits of offshore wind (The Washington Post)
-- Read Lorig's bill to improve energy efficiency for low-income Marylanders (Maryland Matters)
-April 2022
-- Read Lorig's bill to create safer streets (WTOP)
-- Read Lorig's advocacy for pedestrian safety (NBC 4)
-March 2022
-- Read Lorig’s bill to modernize Maryland's electric grid (Maryland Matters)
-- Read Lorig’s bill to ban the declawing cats (The Washington Post)
-- Read Lorig's bill to help low-income residents save energy (Utility Dive)
-- Read Lorig's effort to improve pedestrian safety (Maryland Matters)
-February 2022
-- Read Lorig’s effort to reduce police interactions in crisis situations (Maryland Matters)
-- Read Lorig's bill to improve Maryland's distribution grids (Maryland Matters)
-January 2022
-- Read Lorig’s effort to address increasing food insecurity in Maryland (Maryland Matters)
-November 2021
-- Read Lorig’s effort to help struggling businesses hurt by Purple Line construction (WTOP)
-- Read Lorig’s effort to help struggling businesses hurt by Purple Line construction (WDVM)
-- Read Lorig’s effort to provide Medical Debt Relief for low-income families (ABC- Channel 47)
-- Read Lorig and 537 state legislators from 47 states calling for more ambitious climate goals (Maryland Matters)
-September 2021
-- Read Lorig’s proposal to change State Business Improvement District (BID) law (Bethesda Magazine)
-- Read Lorig’s proposal to change State Business Improvement District (BID) law (Source of the Spring)
-August 2021
-- Read Lorig’s successful “Power In The Park” event in Langley Park (Maryland Matters)
-- Read Lorig’s advocacy for clean energy within PJM, the US's biggest electrical grid (Bloomberg Magazine)
-July 2021
-- Read Legal battle to preserve Maryland’s unemployment benefits program, supported by Lorig’s bill (Maryland Matters)
-June 2021
-- Read Lorig’s work to extend Maryland’s unemployment benefits program as Hogan ends federal program (Maryland Matters)
-- Read Lorig’s efforts to address the “shift in the face of hunger” (WTOP)
-May 2021
-- Read Lorig’s bill to promote geothermal energy in Maryland (Maryland Matters)
-April 2021
-- Read Lorig’s bill to pass an organics diversion mandate (Waste Dive)
-- Read Lorig’s bill to connect people to health insurance when they file for unemployment insurance (State of Reform)
-March 2021
-- Read Lorig’s bill to make the Maryland Unemployment Insurance system more transparent, efficient, accessible, and consumer-friendly (Baltimore Sun)
-- Read Lorig’s bill to create guardrails in hospital debt collection practices so no one faces financial ruin because they get sick (Maryland Matters)
-- Read Lorig’s medical debt protection bill passes the House of Delegates unanimously (Maryland Matters)
-- Read Lorig’s bill requiring the Public Service Commission to consider climate and labor in their decision-making (Maryland Matters)
-- Read Lorig’s Op-Ed on the need to reform how the region's electrical grid operator, PJM, manages our energy supply to use more renewable energy (Baltimore Business Journal)
-- Watch Lorig’s bill to fix Maryland’s broken Unemployment Insurance Program (WBAL-TV)
-February 2021
-- See Lorig’s Medical Debt Protection bill (WMAR-TV)
-- Hear Lorig’s Medical Debt Protection bill (WBAL-Radio)
-- Hear Lorig’s Medical Debt Protection bill (WYPR-Radio)
-- Watch Lorig’s bill to fix Maryland’s broken Unemployment Insurance program (WJZ-TV Baltimore)
-January 2021
-- Read Lorig’s advocacy to make sure the regional transmission organization (PJM) acts quickly to add renewables into our grid (Utility Dive)
-December 2020
-- Read Lorig’s work to “to connect struggling residents with utility relief program” (WTOP)
-- Read Fines for Washington Gas in the Flower Branch Apartment catastrophe (Maryland Matters)
-- Read Fines for Washington Gas in the Flower Branch Apartment catastrophe (WTOP)
-- Read Fines for Washington Gas in the Flower Branch Apartment catastrophe (Washington Post)
-- Read Lorig and others fighting against federal efforts to undermine state clean energy policy (Utility Dive)
-November 2020
-- Read Lorig's advocacy to help struggling Marylanders access affordable health care (Baltimore Sun)
-- Read Lorig canvassing in PA for Biden/Harris (Maryland Matters)
-- Read Lorig and Del.
-Fisher on Indigenous People’s Day (Maryland Matters)
-August 2020
-- Read Lorig's Op-Ed “A Just Recovery for MD — COVID, Climate and the Economy” (Maryland Matters)
-- Read Lorig’s call for stronger utility regulation after Flower Branch explosion (WTOP)
-July 2020
-- Hear Lorig and the natural gas pipeline to the Eastern Shore (WAMU)
-May 2020
-- Read Lorig pushing for Washington Gas to be accountable for the Flower Branch Explosion (Maryland Matters)
-- Read Lorig's efforts to protect Maryland’s offshore wind program from federal assault (Utility Dive)
-- Read Lorig's attempt to roll back federal assault on Maryland's clean energy goals (Utility Dive)
-- Read Lorig’s Op-Ed on Farmers Markets’ importance for food security during pandemic (Baltimore Sun)
-March 2020
-- Read Lorig’s effort for more aid for low income individuals achieve Energy Efficiency stalled by COVID (Utility Dive)
-- Read Lorig’s proposal for a “Luxury Tax” to fund Maryland Public Schools (Maryland Matters)
-February 2020
-- Read Lorig’s bill to protect consumers from Medical Debt (Maryland Matters)
-- Hear Lorig and the General Assembly's Running Caucus (WAMU)
-January 2020
-- Watch Lorig’s Zero Waste legislation (WBAL-TV)
+top of page Home Precinct Official Information About Newsroom Resources/Scholarship Power in the Park Immigration Resources Delegate Scholarship Legislation Events More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Lorig in the News ​ ​ ​ ​ ​ ​ ​ ​ ​ October 2026 ​ ​ ​ ​ ​ ​ ​ Read Why Lorig and other state officials say changes to electric grid governance are not enough. ( Maryland Matters ) ​ August 2026 ​ ​ ​ ​ ​ ​ ​ Read How Lorig is ensuring new building codes maintain strong energy efficiency standards. ( Maryland Matters ) ​ ​ July 2026 ​ ​ ​ ​ ​ ​ ​ Read How Lorig's legislation to pilot geothermal systems has made Maryland a leader in the field . ( Maryland Daily Record ) ​ ​ Read What Maryland and other states are doing to promote offshore wind . ( Stateline ) ​ Read Why Lorig still believes offshore wind is key to a fossil fuel-free world . ( Maryland Matters ) ​ ​ Read How Lorig is working to improve safety concerns along Colesville Road.
+(The Banner ) ​ ​ June 2026 Read why Lorig feels public utilities are making higher profits than needed.
+(Maryland Daily Record ) ​ ​ Read why Lorig holds PJM responsible for the wasteful decision to keep coal-fired Brandon Shores power plant operating .
+(Maryland Matters) ​ Watch Lorig explain why President Trump's plans for subsidizing coal for power generation in Western Maryland does not make economic sense . ( WMAR ) ​ ​ May 2026 ​ ​ ​ ​ ​ ​ Read Why Lorig is excited about the potential of FERC-led reforms to PJM governance . ( RTO Insider ) ​ Read Lorig celebrates the passage of her No Kings Act as a way to fight back against the cruel actions of the Trump administration .
+(Maryland Matters) ​ Read Lorig explains both the challenge and opportunity as PJM addresses its interconnection queue .
+(Maryland Matters) ​ ​ Listen to Lorig call for reforms within PJM , our regional grid operator. ( WYPR ) ​ ​ Watch Lorig, Governor Moore and other state legislators call for reforms within PJM , our regional grid operator. ( Fox News 45 )​ ​ ​ April 2026 Hear Lorig explain new legislation limiting dynamic pricing in Maryland ( WAMU ). ​ ​ Read how Lorig helped lead the floor debate on Del.
+Jheanelle Wilkin's "Good Cause" eviction prevention legislation. ( Maryland Matters ) ​ March 2026 ​ ​ ​ ​ ​ ​ Read about what Lorig has called an "entirely inappropriate" move by Governor Moore to use funds raised for clean energy projects to be used to fill holes in the state's budget (The Banner) . ​ ​ February 2026 ​ ​ ​ ​ ​ Watch Lorig speak out against authoritarianism on the House floor. ​ ​ Read about Lorig's bill to protect Marylanders' data privacy . ( Maryland Matters ) ​ ​ ​ Read about Lorig's bill to allow Marylanders to sue when the federal government violates their civil rights . ( The Banner ) ​ ​ Read about plans to limit compensation utilities pay with funds from ratepayers' and how Lorig strongly defended the EmPower program , which saves ratepayers money. ( Maryland Matters ) ​ ​ ​ ​ Read why Lorig believes Maryland and other states in the region should consider leaving the PJM grid. ( Maryland Matters ) January 2026 Read what Lorig considers to be the good and bad parts of PJM's plan for meeting the energy needs of data centers . ( Baltimore Sun ) Read about plans to ensure data centers pay for building out the electrical grid to meet expected load increases and Lorig's concerns about how it will affect ratepayers. ( Maryland Matters ) ​ ​ ​ Read about Lorig's legislation to allow citizens to file charges when their civil rights have been violated by the Federal government. ( MS NOW ) Watch news coverage of the Affordable Solar Act Rally held on the Opening Day of the Maryland General Assembly: Footage of the Rally WBFF Fox 45 Baltimore Maryland Matters WJZ - CBS WTOP Baltimore Banner YouTube.com ​ December 2025 Read how Lorig and other legislators are planning to regulate utility companies and PJM in 2026. ( The Daily Record ) ​ Watch Lorig reflect on 2025: a year of resistance (YouTube) ​ ​​ October 2025 Read how Lorig and other legislators are urging PJM to take steps to advance clean energy projects before tax credit deadlines. ( Utility Dive ) Read about efforts to ensure data center costs are not foisted on ratepayers (Baltimore Sun) Read about efforts to ensure data center costs are not foisted on ratepayers (Baltimore Banner) Read how Lorig's legislation to allow Community Choice electricity aggregation is getting closer to implementation in Montgomery County (Bethesda Magazine) September 2025 Read about Lorig’s continuing efforts to make hospitals repay the low-income patients they overcharged ( Baltimore Banner ) Read : How Lorig and governors across the region are considering alternatives to PJM , the grid operator for Maryland and 12 other states, as a way to control electricity costs and increase transparency and accountability. ( Fortune , Pennsylvania Capital-Star ) Read how Josh Shapiro and other state leaders are pressing PJM to give consumers a stronger voice in energy decisions. ( Maryland Matters ) ​ June 2025 Read about Lorig's years-long efforts for greater accountability from PJM , our electrical grid operator (New York Times) May 2025 Watch how Lorig is fighting back against a spike in electricity costs .
+(NBC4 Washington) ​ ​ Read Lorig's Op-Ed on how Maryland is holding power companies accountable .
+(Baltimore Sun) April 2025 Watch how Lorig is fighting for medical debt protections .
+(CBS News) ​ ​ Read how Lorig is working to keep electricity prices down .
+(Baltimore Sun) ​​ Read of Lorig's support of Senator Van Hollen's efforts to return illegally abducted and incarcerated Kilmar Abrego Garcia.
+(Bethesda Magazine)​​ ​ ​ R ead how Lorig is leading the effort to address Maryland’s energy price hikes .
+(Source of the Spring) ​ ​ Read about the last-minute push for energy legislation in Maryland. ( Maryland Matters)​ March 2025 Read about Lorig's efforts to protect ratepayers and the planet as a significant energy bill's passage is being debated in the final days of session.
+(Baltimore Banner) ​ ​ Watch Lorig explain why we need to require new construction to be fully electric .
+(WMAR ) ​ ​ Watch Lorig and other lawmakers question utility companies about high energy cost s.
+(WMAR ) February 2025 Listen to hear about Lorig's efforts to improve and increase benefits through Maryland's Unemployment Insurance program .
+(WTOP, WJLA) ​ ​ Read about the "Point in Time" census to talk with people experiencing homelessness .
+(Bethesda Magazine) ​ Read about the "Point in Time" census to talk with people experiencing homelessness .
+(Bethesda Magazine) ​​ January 2025 Listen why food forests are a great idea--for people and the planet.
+(WTOP News) ​ ​ Read about the ongoing energy debate in this year's General Assembly and Lorig's role as a "recognized legislative nerd in Annapolis on energy and utility policy." (Maryland Matters) ​ ​ Read about Lorig's legislation to increase the use of battery storage to meet our electrical needs.
+(Maryland Matters) ​ ​ Listen to how Lorig intends to generate more electricity in Maryland , fast!
+(Maryland Energy Talk Podcast) ​ ​ Listen to Lorig answer the question, "Is regional transmission governance broken?" (I Hate Politics Podcast) December 2024 Read how Lorig is working to lower electricity prices .
+(Maryland Daily Record ) November 2024 Read how Lorig and other advocates expect Maryland to drive climate action when Trump returns to Washington.
+(Inside Climate News) ​ October 2024 Read how Lorig is advocating for keeping unhealthy gas fumes out of apartment buildings.
+(Maryland Matters) Listen as Lorig and Chesapeake Climate Action Network’s Jamie DeMarco as we do a deep dive on PJM and all things electrical . ( Maryland Energy Policy Explained ) ​ ​ Read how Lorig's cutting-edge legislation is protecting workers from extreme heat. ( DC News Now ) and ( Baltimore Banner ) September 2024 Read about how utilities and legislators like Lorig are addressing concerns about Maryland's grid operator, PJM, and the likelihood of steep increases in the cost of electricity . ( Utility Drive ) July 2024 Read how Lorig and other legislators across the country are calling on electrical regional transmission organizations, like PJM that controls Maryland's grid, to improve their transmission planning processes to meet states' economic development, climate, and ratepayer protection goals.
+(NCEL ) ​ ​ Listen to Lorig explain why she introduced heat standards for workers back in 2020 and how they are considered some of the most comprehensive protections in the country (N PR) April 2024 Listen to Lorig talk about the importance of and the potential for Offshore Wind in Maryland (Lorig's remarks begin at 16:00).
+(WYPR) March 2024 Read why Lorig and other leading environmentalists are concerned about exempting data centers from environmental scrutiny and how Lorig is seeking to promote green energy.
+(Baltimore Banner ) Read about how utilities are spending ratepayers' money on political spending and lobbying and w hy Lorig is seeking to limit this. ( Maryland Matters) ​ ​ Read how Lorig is working to cu rb utility spending on ads and lobbying .
+These efforts often slow or prevent progress towards our clean energy goals ( Maryland Matters ) Feb ruary 2024 Wat ch coverage on the anniversary of the Arrive fi re and Lorig's efforts to improve fire safety in older hi-rises: NBC4 Washington ​ WUSA 9 ​ WUSA 9 (The Diaz Family's advocacy in Annapolis ) ​ ​ ​ ​ Read how Lorig is working to ensure data centers use clean energy whenever possible. ( Baltimore Sun ) ​ ​ ​ Read a commentary on why customers should not be forced to subsidize their utilities political influence spending and how Lorig's bill would address this problem. ( Maryland Matters ) ​ Read about Lorig's organizing efforts among states to make utilities' decisions more transparent and provide accountability towa rds reaching climate goals. ( Maryland Matters ) ​ ​ Re ad about Lorig's effort to "peel back the curtain" at the nation's biggest electrical grid operator . ( Maryland Matters ) ​ ​ January 2024 Watch how Lorig is working to improve fire safety in older high-rise apartments after l ast year's fir e in Silver Spring, which killed M elanie Diaz and displaced hundreds of residents. ( WUSA-TV ) ​ Read Lorig's thoughts on the news that an offf shore wind company is " repositioning" its first Maryland project.
+(Maryland Matters) ​ ​ December 2023 Read h ow Lorig's medical debt legislation is being put into practice. ". . .
+I think people are amazed we passed this restitution to patients.” (Baltimore Banner) ​ ​ Read how legislation Lorig wrote has led, in part, to fewer people being sued for medical debt .
+(Baltimore Banner ) ​ Read how Lorig is advocating for residents of the Enclave Apartmentswrote has led, in part, to fewer people being sued for medical debt .
+(Montgomery Blair Silver Chips, page 2) November 2023 Read about Lorig's efforts to move offshore wind projects forward while protecting ratepayers from cost increases.
+(Baltimore Sun) ​ September 2023 Listen to Lorig discuss her POWER Act that established one of the nation’s most aggressive offshore wind goa ls , four times the offshore wind c apacity currently approved.
+(WYPR - On the Record) August 2023 Read how Lorig is in the vanguard of state legislators drafting legislation for t he equitable development of geothermal energy .
+(Maryland Matters) ​ July 2023 Read how Lorig's clima te legislation is getting national attention.
+(Maryland Matters) June 2023 Read Lorig's response on why now is the time to go hard, be bold, and get creative to both meet our climate goals and protect ratepayers .
+(Baltimore Sun) ( Read Non-paywall version of Lorig's Baltimore Sun letter) Read about Lorig's efforts to protect workers from extre me heat .
+(Maryland Matters) Listen to Lorig's interview with David Roberts on how she found a more just and politically durable wa y to fund offshore wind .
+(Volts) May 2023 Read how Lorig's bill helps low-income residents with their utility bills .
+(Baltimore Sun) April 2023 ​ Read Lorig is declared one of only five *winners* in this year 's session of the General Assembly!
+(Maryland Matters) Read about Governor Moore signing Lorig's offshore wind bill into law !
+(Maryland Matters) Watch Lorig explain why she will continue to push for fire safety legislation.
+(WJLA ABC News) Read what Lorig is doing to push back on the power grid's "shadow government." (Politico) Read about the big win for offshore wind !
+(Baltimore Banner) Read about the big win for offshore wind !
+(Maryland Matters) List en about Lorig's efforts to increase fire safet y.
+(WTOP) March 2023 Read about Lorig's "first in the nation" bill to increase transparency at public utilities such as the Public Service Commission .
+(Maryland Matters) Read ho w Lorig is pressing for greater transparency in the Public Service Commission .
+(Utility Dive) Watch Lorig debate why we need to increase the minimum wage more quickly and tie it to inflation .
+(MPT's State Circle ; Lorig's piece begins at the 10:50 minute mark. ) Read about Lorig's bill to increase Offshore Wind .
+(AP ) Outlets running the AP story: (Washington Post, CBS, Daily Record, Cecil Daily, US News, WBOC, The Derrick, WRDE, The Northern Virginia Daily, Local Today News, Flipboard , Hindustan News Hub, User Walls) R ead about the first hea ring on Lorig's bill to increase Offshore Wind .
+(Maryland Matters) Watch to learn about Lor ig's Melanie Diaz Sprinklers Saves Lives bill (NBC4 Washington ) February 2023 ​ Read about about Lorig's Melanie Diaz Sprinklers Saves Lives bill ( Moco 360) January 2023 ​ R ead about Lorig's bill to automatically enroll SNAP recipients in Medicaid .
+(Baltimore Sun) Watch Lorig talk about food security in M ontgomery County (Montgomery Community Media) Read Lorig and other advocates ' push for increasing Maryland's off-shore wind goals .
+Read about Lorig's bill to invest in energy efficiency in low-income housing .
+(Maryland Matters) ​ ​ November 2022 ​ Read why Lorig is "wildly excited" about the benefits of off-shore wind .
+(Maryland Matters) Read about efforts, including new legislation being introduced by Lorig, to make sure more people have healthcare insurance .
+(Maryland Matters) ​ ​ September 2022 ​ Read about electrical power grids across the country and Lorig's analysis of how they are regulated .
+(Maryland Matters) August 2022 Read How Lorig's legislation on reducing medical debt is a model across the country (Maryland Matters) Read Lorig's take on how the Inflation Reduction Act will help states achieve c limate goals (Bloomberg Law) Read Lorig's take on how the Inflation Reduction Act will help Maryland achieve its ambitious climate goals (Governing) Read Lorig's bill to lessen the effects of climate change on Maryland workers (Maryland Matters) Read Lorig's work with other legislators to help Marylanders increase their energy efficiency (Maryland Matters) Read Lorig on the Inflation Reduction Act's impact on Maryland (Governing) July 2022 Read Lorig's bill to bring more inclusivity to public school sports (MCM) June 2022 Read Lorig's op-ed about the benefits of offshore wind (The Washington Post) Read Lorig's bill to improve energy efficiency for low-income Marylanders (Maryland Matters) April 2022 Read Lorig's bill to create safer streets (WTOP) Read Lorig's advocacy for pedestrian safety (NBC 4) March 2022 Read Lorig’s bill to modernize Maryland's electric grid (Maryland Matters) Read Lorig’s bill to ban the declawing cats (The Washington Post) Read Lorig's bill to help low-income residents save energy (Utility Dive) Read Lorig's effort to improve pedestrian safety (Maryland Matters) February 2022 Read Lorig’s effort to reduce police interactions in crisis situations (Maryland Matters) Read Lorig's bill to improve Maryland's distribution grids (Maryland Matters) ​ January 2022 Read Lorig’s effort to address increasing food insecurity in Maryland (Maryland Matters) ​ ​ November 2021 Read Lorig’s effort to help struggling businesses hurt by Purple Line construction (WTOP) ​ Read Lorig’s effort to help struggling businesses hurt by Purple Line construction (WDVM) ​ Read Lorig’s effort to provide Medical Debt Relief for low-income families (ABC- Channel 47) ​ Read Lorig and 537 state legislators from 47 states calling for more ambitious climate goals (Maryland Matters) ​ September 2021 Read Lorig’s proposal to change State Business Improvement District (BID) law (Bethesda Magazine) ​ Read Lorig’s proposal to change State Business Improvement District (BID) law (Source of the Spring) ​ August 2021 Read Lorig’s successful “Power In The Park” event in Langley Park (Maryland Matters) ​ Read Lorig’s advocacy for clean energy within PJM, the US's biggest electrical grid (Bloomberg Magazine) ​ July 2021 Read Legal battle to preserve Maryland’s unemployment benefits program, supported by Lorig’s bill (Maryland Matters) ​ June 2021 Read Lorig’s work to extend Maryland’s unemployment benefits program as Hogan ends federal program (Maryland Matters) ​ Read Lorig’s efforts to address the “shift in the face of hunger ” (WTOP) ​ May 2021 Read Lorig’s bill to promote geothermal energy in Maryland (Maryland Matters) ​ April 2021 Read Lorig’s bill to pass an organics diversion mandate (Waste Dive) ​ Read Lorig’s bill to connect people to health insurance when they file for unemployment insurance (State of Reform) ​ March 2021 Read Lorig’s bill to make the Maryland Unemployment Insurance system more transparent, efficient, accessible, and consumer-friendly (Baltimore Sun) ​ Read Lorig’s bill to create guardrails in hospital debt collection practices so no one faces financial ruin because they get sick (Maryland Matters) ​ Read Lorig’s medical debt protection bill passes the House of Delegates unanimously (Maryland Matters) ​ Read Lorig’s bill requiring the Public Service Commission to consider climate and labor in their decision-making (Maryland Matters) ​ Read Lorig’s Op-Ed on the need to reform how the region's electrical grid operator, PJM, manages our energy supply to use more renewable energy (Baltimore Business Journal) ​ Watch Lorig’s bill to fix Maryland’s broken Unemployment Insurance Program (WBAL-TV) ​ February 2021 See Lorig’s Medical Debt Protection bill (WMAR-TV) ​ Hear Lorig’s Medical Debt Protection bill (WBAL-Radio) ​ Hear Lorig’s Medical Debt Protection bill (WYPR-Radio) ​ Watch Lorig’s bill to fix Maryland’s broken Unemployment Insurance program (WJZ-TV Baltimore) ​ January 2021 Read Lorig’s advocacy to make sure the regional transmission organization (PJM) acts quickly to add renewables into our grid (Utility Dive) ​ December 2020 Read Lorig’s work to “to connect struggling residents with utility relief program” (WTOP) ​ Read Fines for Washington Gas in the Flower Branch Apartment catastrophe (Maryland Matters) ​ Read Fines for Washington Gas in the Flower Branch Apartment catastrophe (WTOP) ​ Read Fines for Washington Gas in the Flower Branch Apartment catastrophe (Washington Post) ​ Read Lorig and others fighting against federal efforts to undermine state clean energy policy (Utility Dive) ​ November 2020 Read Lorig's advocacy to help struggling Marylanders access affordable health care (Baltimore Sun) ​ Read Lorig canvassing in PA for Biden/Harris (Maryland Matters) ​ Read Lorig and Del.
+Fisher on Indigenous People’s Day (Maryland Matters) ​ August 2020 Read Lorig's Op-Ed “ A Just Recovery for MD — COVID, Climate and the Economy” (Maryland Matters) ​ Read Lorig’s call for stronger utility regulation after Flower Branch explosion (WTOP) ​ July 2020 Hear Lorig and the natural gas pipeline to the Eastern Shore (WAMU) ​ May 2020 Read Lorig pushing for Washington Gas to be accountable for the Flower Branch Explosion (Maryland Matters) ​ Read Lorig's efforts to protect Maryland’s offshore wind program from federal assault (Utility Dive) ​ Read Lorig's attempt to roll back federal assault on Maryland's clean energy goals (Utility Dive) ​ Read Lorig’s Op-Ed on Farmers Markets’ importance for food security during pandemic (Baltimore Sun) ​ March 2020 Read Lorig’s effort for more aid for low income individuals achieve Energy Efficiency stalled by COVID (Utility Dive) ​ Read Lorig’s proposal for a “Luxury Tax” to fund Maryland Public Schools (Maryland Matters) ​ February 2020 Read Lorig’s bill to protect consumers from Medical Debt (Maryland Matters) ​ Hear Lorig and the General Assembly's Running Caucus (WAMU) ​ January 2020 Watch Lorig’s Zero Waste legislation (WBAL-TV) MAKE A CHANGE Support Lorig!
+DONATE VOLUNTEER GET THE LATEST FROM LORIG Home About Lorig Newsroom Get Involved Events Contact Mailing Address: P.O.
+Box 11281 Takoma Park, MD 20913 Email: friendsoflorig@gmail.com ​ Paid for by Friends of Lorig Charkoudian: Jill Feasley, Treasurer; Tebabu Assefa, Chair bottom of page

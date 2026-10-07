@@ -1,12 +1,46 @@
 [
-"http://facebook.com/share/16UsyVP5i3",
-"http://instagram.com/votestickney",
-"https://secure.anedot.com/vote-stickney/donate",
-"https://votestickney.com/",
-"https://votestickney.com/cart",
-"https://votestickney.com/contact",
-"https://votestickney.com/endorsements",
-"https://votestickney.com/gallery",
-"https://votestickney.com/meetpatrick",
-"https://votestickney.com/priorities"
+{
+"text": "0",
+"href": "https://www.votestickney.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.votestickney.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vote-stickney/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votestickney.com/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.votestickney.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.votestickney.com/"
+},
+{
+"text": "Meet Patrick",
+"href": "https://www.votestickney.com/meetpatrick"
+},
+{
+"text": "Priorities",
+"href": "https://www.votestickney.com/priorities"
+},
+{
+"text": "[image: Patrick for State Representative]",
+"href": "https://www.votestickney.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/share/16UsyVP5i3/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votestickney"
+}
 ]

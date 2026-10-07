@@ -1,3 +1,8 @@
-Tom has long been a strong supporter of our veterans.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans Veterans Donate Tom has long been a strong supporter of our veterans.
 The son of an Air Force veteran, he has been honored by the Oklahoma Veterans Council and the VFW of Oklahoma for his work to advance the care and quality of life for Oklahoma veterans and their families.
 When reports emerged of severe mismanagement at the Department of Veterans Affairs, Tom helped win an additional 10% increase in funding for veterans’ health and services and has continued to deliver historic funding and oversight for our nation’s best.
+Post navigation Previous: Securing Our Border Next: Debt and Spending Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

@@ -1,11 +1,42 @@
 [
-"https://cga.ct.gov/webapps/cgafyl.asp",
-"https://facebook.com/profile.php?id=61586551374315",
-"https://instagram.com/lombardforthe8th",
-"https://lombardforthe8th.com/",
-"https://lombardforthe8th.com/cart",
-"https://lombardforthe8th.com/contact-us",
-"https://lombardforthe8th.com/endorsements",
-"https://lombardforthe8th.com/issues",
-"https://lombardforthe8th.com/voterinfo"
+{
+"text": "0",
+"href": "https://lombardforthe8th.com/cart"
+},
+{
+"text": "CGA Find Your Legislator Tool",
+"href": "https://www.cga.ct.gov/webapps/cgafyl.asp"
+},
+{
+"text": "Contact",
+"href": "https://lombardforthe8th.com/contact-us"
+},
+{
+"text": "Endorsements",
+"href": "https://lombardforthe8th.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://lombardforthe8th.com/"
+},
+{
+"text": "Issues",
+"href": "https://lombardforthe8th.com/issues"
+},
+{
+"text": "Voter Info",
+"href": "https://lombardforthe8th.com/voterinfo"
+},
+{
+"text": "[image: Lombard for the 8th]",
+"href": "https://lombardforthe8th.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586551374315"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lombardforthe8th/"
+}
 ]

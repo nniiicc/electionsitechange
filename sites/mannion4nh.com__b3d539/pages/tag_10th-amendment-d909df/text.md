@@ -1,33 +1,29 @@
-Tag Archives: 10th Amendment
-HB104 Defend the Guard Passes the NH House!
-Credit to Kristin Noble for clipping my floor speech!
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Tag Archives: 10th Amendment Hearing Alert Hearing Alert – HB104 Defend the Guard Image February 10, 2026 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Floor Speech HB104 Defend the Guard Passes the NH House!
+January 9, 2026 Tom Mannion Leave a comment Credit to Kristin Noble for clipping my floor speech!
 In a surprise twist, Defend the Guard’s ITL recommendation from my committee was overturned in a bipartisan, 182-159 vote.
 The flips of (R)s opposed and (D)s in support are symmetrical, similar to the previous term, but the quantity has doubled.
 This could be due to partisan loyalty to the current administration, but I’m only speculating.
 I’m proud of the principled people on both sides of the aisle that put the NH Guard member’s lives above the vague threats of “funding risk” originating from the Pentagon.
 Now, onto the Senate!
-Panel – Defend the Guard at Porcfest 2025
-Panel – Defend the Guard At Liberty Forum
-LSR 25-0017 – Repealing the Selective Service Compliance Act
-Similar to HB1338 from last session, I filed the repeal of New Hampshire’s Selective Service Compliance Act.
+10th Amendment Defend the Guard Speech Interview Panel – Defend the Guard at Porcfest 2025 August 21, 2025 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Panel Porcfest Veterans Interview Panel – Defend the Guard At Liberty Forum May 1, 2025 Tom Mannion Leave a comment You can now watch the complete @DefendTheGuard panel from @NHLibertyForum !
+Featuring our founder @DanMcKnight30 , our Maine sponsor Rep.
+Ben Hymes, our New Hampshire sponsor Rep. @mannion4nh , and our head New Hampshire activist @derek_proulx .
+Learn what YOU can do to help!🇺🇸 pic.twitter.com/LPE95sEjKp — Bring Our Troops Home (@TroopsHomeUS) May 1, 2025 10th Amendment Defend the Guard Liberty Forum Nullification Veterans LSR LSR 25-0017 – Repealing the Selective Service Compliance Act October 9, 2024 Tom Mannion Leave a comment Similar to HB1338 from last session, I filed the repeal of New Hampshire’s Selective Service Compliance Act.
 The current law forbids individuals from enrolling in college, or receiving financial assistance for that education, or ever being permitted to be employed by the state in any capacity unless they have registered in compliance with the Federal Selective Service Act.
 As an Iraq war combat veteran, I’ve become incredibly skeptical of United States’ foreign policy of the last several decades – between destabilization of Iraq, Syria, Yemen, and Libya, and the disregard for the lives of the Ukrainian and Russian conscripts dying for a proxy war at the behest of the military industrial complex puppet masters behind the Biden administration, and of course the 20-year occupation of Afghanistan that ultimately resulted in thousands of lives lost to transfer the country from the Taliban to the Taliban.
 I no longer trust that bringing forth the draft would be in the best interests of the United States, especially at the expense of the lives of the next generation, and I will not allow New Hampshire to be a facilitator through coercion with the existing compliance act.
 And from a federalism standpoint, it is simply not the role of New Hampshire to be enforcing Federal law.
 As such, I have filed a repeal of the existing statute.
-I have refiled for State Rep!
-On Wednesday, June 5, I refiled for State Representative for Hillsborough District 1, alongside Jeff Tenczar, Sandy Panek, and introducing my brother Tim Mannion.
+25-0017.0 – Reviewed Download 10th Amendment Nullification Selective Service Campaign I have refiled for State Rep!
+June 6, 2024 Tom Mannion Leave a comment On Wednesday, June 5, I refiled for State Representative for Hillsborough District 1, alongside Jeff Tenczar, Sandy Panek, and introducing my brother Tim Mannion.
 I will continue the work in Concord of moving the state towards liberty, preserving the rights of Granite Staters, and keeping New Hampshire the #1 Freest State in the nation.
-I will be refiling Defend the Guard, taking a crack at repealing the Selective Service Compliance Act, and working with other legislators to expand school choice, reduce taxes, protect the right to self-defense, and stand in the way of Federal overreach in whatever forms it will take into the next term!
+I will be refiling Defend the Guard , taking a crack at repealing the Selective Service Compliance Act , and working with other legislators to expand school choice , reduce taxes , protect the right to self-defense , and stand in the way of Federal overreach in whatever forms it will take into the next term!
 I’m asking for your vote in the primary on September 10th and again in the general on November 5th!
-Defend the Guard Passes NH House
-January 4th was a momentous day for anti-war advocates.
+10th Amendment 2nd Amendment Campaign Defend the Guard firearms Nullification Veterans Bill Passed , Bills Defend the Guard Passes NH House January 5, 2024 Tom Mannion 1 Comment January 4th was a momentous day for anti-war advocates.
 We passed HB 229, Defend the Guard out of the House!
-The vote was 187 to 182, incredibly close.
+The vote was 187 to 182 , incredibly close.
 We got bipartisan support with 24 Democrats crossing over, proving the anti-war left still exists, and is willing to stand up against the military industrial complex.
-I thank each and every one you for helping us pass this important bill:
-Sadly, 26 Republicans voted in favor of forever wars by opposing the bill, and I wish them luck in their primaries this fall:
-The bill initially was assigned to Finance, due to the (bogus) fiscal note attached, and they waived off.
+I thank each and every one you for helping us pass this important bill: Sadly, 26 Republicans voted in favor of forever wars by opposing the bill, and I wish them luck in their primaries this fall: The bill initially was assigned to Finance, due to the (bogus) fiscal note attached, and they waived off.
 It is now headed to the Senate!
 Please, reach out to your Senator to educate them on this bill.
 I want to thank Derek Proulx, regional director for the Defend the Guard organization here in New Hampshire, who spoke in front of GOP and Democrat committees, many VFW and American Legion posts, and has been a rock star whipping support for this bill.
@@ -36,8 +32,7 @@ I always want to recognize Dianne Pauer for identifying potential issues with th
 And, very importantly, I want to thank Ellen Read and Jonah Wheeler that reached out amongst their caucus to get support from the anti-war Democrats on their side.
 It was truly moving to see their votes.
 Now – onto the Senate!
-Floor speech:
-Thank you Mr.
+Floor speech: Thank you Mr.
 Speaker.
 I rise in support of HB229, commonly referred to as the Defend the Guard Act.
 This bill, very simply, requires Congress to formally declare war pursuant to Art I Section 8 of the US Constitution before we will deploy our State National Guard to a foreign combat zone.
@@ -62,21 +57,14 @@ This is in our hands, right now, to protect the lives of the servicemen and wome
 I ask that you stand with them, Defend the Guard, and press the green button for OTP on HB229.
 And, Mr.
 Speaker, I ask for a roll call vote.
-Hearing Alert: HB229 – Defend the Guard (Second Public Hearing)
-I am a co-sponsor on House Bill 229, also known as the “Defend the Guard Act.” This bill will come before the State-Federal Relations and Veterans Affairs committee for a public hearing October 11th.
-| WHAT | HB229 Hearing |
-| WHEN | Wednesday, October 11, 10:00AM |
-| WHERE | Legislative Office Building Concord, NH Room 206-208 |
-| COMMITTEE | State-Federal Relations and Veteran’s Affairs |
-The purpose of this bill is to require Congress to formally declare war before New Hampshire will send its National Guardsmen to a conflict zone.
+10th Amendment Defend the Guard Nullification war Hearing Alert Hearing Alert: HB229 – Defend the Guard (Second Public Hearing) August 14, 2023 Tom Mannion Leave a comment I am a co-sponsor on House Bill 229 , also known as the “Defend the Guard Act.” This bill will come before the State-Federal Relations and Veterans Affairs committee for a public hearing October 11th.
+WHAT HB229 Hearing WHEN Wednesday, October 11, 10:00AM WHERE Legislative Office Building Concord, NH Room 206-208 COMMITTEE State-Federal Relations and Veteran’s Affairs The purpose of this bill is to require Congress to formally declare war before New Hampshire will send its National Guardsmen to a conflict zone.
 It is simultaneously a life-saving measure, a state’s rights assertion, and a call on our representatives in DC to properly follow the Constitution and use the powers granted to them.
-More information on the many states filing this type of legislation, and FAQ’s can be found here: https://defendtheguard.us/
-This is a rare second chance at a public hearing.
+More information on the many states filing this type of legislation, and FAQ’s can be found here: https://defendtheguard.us/ This is a rare second chance at a public hearing.
 We need to flood the zone with supporters, so spread this far and wide.
 If you, or anyone you know, wishes to testify on behalf of this bill, please come out to the hearing, it is open to the public.
-Online testimony can also be submitted here, using the table above to populate the form.
-If you need help, reach out to me: tom@mannion4nh.com
-TESTIMONY – HB229 Defend the Guard
+Online testimony can also be submitted here , using the table above to populate the form.
+If you need help, reach out to me: tom@mannion4nh.com 10th Amendment Hearing Veterans Testimony TESTIMONY – HB229 Defend the Guard January 20, 2023 Tom Mannion Leave a comment Starts at my testimony, rewind for entire bill hearing.
 Thank you mister chair, and members of the committee.
 My name is Tom Mannion, I’m representing Hillsborough District 1, Pelham.
 I’m a Marine Corps infantry veteran that enlisted in 2004 to hunt down those responsible for 9/11.
@@ -101,18 +89,14 @@ This is a serious problem that we, in this legislature, can combat by passing HB
 Force Congress to do their Constitutional duty, to risk the ire of their constituents by voting for these nonsense wars that do nothing to protect us at home, before committing the lives of our guardsmen.
 These men and women signed up to defend us, the least we can do is vote OTP to show we are defending them.
 I’m happy to answer your questions.
-Representative Tom Mannion
-Hillsborough 1 – Pelham
-Hearing Alert: HB229 – Defend the Guard
-I am a co-sponsor on House Bill 229, also known as the “Defend the Guard Act.” This bill will come before the State-Federal Relations and Veterans Affairs committee for a public hearing January 20th.
-| WHAT | HB229 Hearing |
-| WHEN | Friday, January 20, 10:00AM |
-| WHERE | Legislative Office Building Concord, NH Room 206-208 |
-| COMMITTEE | State-Federal Relations and Veteran’s Affairs |
-The purpose of this bill is to require Congress to formally declare war before New Hampshire will send its National Guardsmen to a conflict zone.
+Representative Tom Mannion Hillsborough 1 – Pelham 10th Amendment Defend the Guard HB229 Testimony Hearing Alert Hearing Alert: HB229 – Defend the Guard January 12, 2023 Tom Mannion Leave a comment I am a co-sponsor on House Bill 229 , also known as the “Defend the Guard Act.” This bill will come before the State-Federal Relations and Veterans Affairs committee for a public hearing January 20th.
+WHAT HB229 Hearing WHEN Friday, January 20, 10:00AM WHERE Legislative Office Building Concord, NH Room 206-208 COMMITTEE State-Federal Relations and Veteran’s Affairs The purpose of this bill is to require Congress to formally declare war before New Hampshire will send its National Guardsmen to a conflict zone.
 It is simultaneously a life-saving measure, a state’s rights assertion, and a call on our representatives in DC to properly follow the Constitution and use the powers granted to them.
-More information on the many states filing this type of legislation, and FAQ’s can be found here: https://defendtheguard.us/
-If you, or anyone you know, wishes to testify on behalf of this bill, please come out to the hearing, it is open to the public.
-Online testimony can also be submitted here, using the table above to populate the form.
-If you need help, reach out to me: tom@mannion4nh.com
-Public testimony helps put names, faces, and stories to a bill and communicate to committee members the importance it has to constituents.
+More information on the many states filing this type of legislation, and FAQ’s can be found here: https://defendtheguard.us/ If you, or anyone you know, wishes to testify on behalf of this bill, please come out to the hearing, it is open to the public.
+Online testimony can also be submitted here , using the table above to populate the form.
+If you need help, reach out to me: tom@mannion4nh.com Public testimony helps put names, faces, and stories to a bill and communicate to committee members the importance it has to constituents.
+10th Amendment Hearing Veterans Posts navigation 1 2 Next → State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

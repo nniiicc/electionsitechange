@@ -1,14 +1,70 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://tiktok.com/@wix",
-"https://votesambaugh.com/",
-"https://votesambaugh.com/blank",
-"https://votesambaugh.com/blank-1",
-"https://votesambaugh.com/blank-2",
-"https://votesambaugh.com/blank-3",
-"https://votesambaugh.com/donate",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "Accessibility Statement",
+"href": "https://www.votesambaugh.com/blank-1"
+},
+{
+"text": "Contact",
+"href": "https://www.votesambaugh.com"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://www.votesambaugh.com/donate"
+},
+{
+"text": "Event Details",
+"href": "https://www.votesambaugh.com"
+},
+{
+"text": "Home",
+"href": "https://www.votesambaugh.com"
+},
+{
+"text": "Political Campaign for Nevada State Assembly District 26",
+"href": "https://www.votesambaugh.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votesambaugh.com/blank"
+},
+{
+"text": "Refund Policy",
+"href": "https://www.votesambaugh.com/blank-3"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votesambaugh.com/blank-2"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://www.votesambaugh.com"
+},
+{
+"text": "sam@votesambaugh.com",
+"href": "mailto:sam@votesambaugh.com"
+}
 ]

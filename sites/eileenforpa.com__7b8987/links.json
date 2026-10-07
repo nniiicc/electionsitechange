@@ -1,12 +1,82 @@
 [
-"https://designedtorun.com/",
-"https://eileenforpa.com/",
-"https://eileenforpa.com/6th-district",
-"https://eileenforpa.com/about",
-"https://eileenforpa.com/volunteer",
-"https://facebook.com/profile.php?id=61585625420374",
-"https://instagram.com/eileenforpa",
-"https://linkedin.com/in/eileen-hartnett-albillar-msw-089b663",
-"https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar",
-"https://x.com/eileen4pa"
+{
+"text": "$10",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "$200",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "$500",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "6th District",
+"href": "https://www.eileenforpa.com/6th-district"
+},
+{
+"text": "About",
+"href": "https://www.eileenforpa.com/about"
+},
+{
+"text": "About Eileen",
+"href": "https://www.eileenforpa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "Get Involved",
+"href": "https://www.eileenforpa.com/volunteer"
+},
+{
+"text": "Learn more",
+"href": "https://www.eileenforpa.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.numero.ai/contribute/Donate-to-Eileen-Albillar"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Eileen Albillar logo]",
+"href": "https://www.eileenforpa.com/"
+},
+{
+"text": "[image: Eileen Hartnett Albillar for PA State Senate | 6th District]",
+"href": "https://www.eileenforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61585625420374"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/eileenforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/eileen-hartnett-albillar-msw-089b663"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/eileen4pa"
+},
+{
+"text": "info@EileenforPA.com",
+"href": "mailto:info@eileenforpa.com"
+}
 ]

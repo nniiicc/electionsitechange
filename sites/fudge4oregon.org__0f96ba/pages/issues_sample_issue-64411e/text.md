@@ -1,7 +1,3 @@
-Affordability for Oregon Families
-The cost of living in Oregon continues to rise, putting pressure on families, seniors, and small businesses.
-Andrew will work to:
-- Promote responsible budgeting and fiscal discipline
-- Reduce unnecessary regulatory costs that drive up prices
-- Support policies that help families keep more of what they earn
-Oregon should be a place where hard work allows families to build a future—not just get by.
+Meet Andrew Issues News Contribute Volunteer Home ❭ Issues ❭ Affordability for Oregon Families Affordability for Oregon Families The cost of living in Oregon continues to rise, putting pressure on families, seniors, and small businesses.
+Andrew will work to: Promote responsible budgeting and fiscal discipline Reduce unnecessary regulatory costs that drive up prices Support policies that help families keep more of what they earn Oregon should be a place where hard work allows families to build a future—not just get by.
+Next: Improving Public School Outcomes » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu

@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.michaelmacdonaldforassembly.com/biography",
- "paid_for_by": "Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page",
+ "fingerprint": "1a99e3ce3db25fd71946113a13455bb47d26e655",
+ "format": 3,
+ "paid_for_by": "Paid for by Michael MacDonald for Assembly 2026",
  "title": "Meet Michael | Michael MacDonald For Assembly 2026",
  "years_mentioned": [
   "2017",
   "2018",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

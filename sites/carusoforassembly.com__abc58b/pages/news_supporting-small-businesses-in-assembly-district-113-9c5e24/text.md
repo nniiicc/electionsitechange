@@ -1,25 +1,7 @@
-Supporting Small Businesses in Assembly District 113
-Small businesses are not abstract economic units — they are families, payrolls, and livelihoods.
+0 Skip to Content ALLEN CARUSO MEET ALLEN AFFORDABILITY AGENDA EVENTS NEWS GET INVOLVED Donate Now Open Menu Close Menu ALLEN CARUSO MEET ALLEN AFFORDABILITY AGENDA EVENTS NEWS GET INVOLVED Donate Now Open Menu Close Menu MEET ALLEN AFFORDABILITY AGENDA EVENTS NEWS GET INVOLVED Donate Now Supporting Small Businesses in Assembly District 113 Feb 16 Written By Brandon Acres Small businesses are not abstract economic units — they are families, payrolls, and livelihoods.
 As someone who has built and operated businesses, I understand the pressure that comes with meeting payroll while facing rising workers’ compensation costs, unemployment insurance assessments, and regulatory compliance.
-Albany policies directly affect:
-- Hiring decisions
-- Expansion plans
-- Employee wages
-- Investment in growth
-The Upstate Disadvantage
-Too often, state policy is designed with downstate priorities in mind.
+Albany policies directly affect: Hiring decisions Expansion plans Employee wages Investment in growth The Upstate Disadvantage Too often, state policy is designed with downstate priorities in mind.
 What works in Manhattan does not always work in Saratoga or Washington County.
-Our district depends on:
-- Hospitality and tourism
-- Agriculture
-- Trades and construction
-- Healthcare systems
-- Small manufacturers
-We need workforce development aligned with real jobs, not theoretical programs.
-As a member of the Assembly, I will advocate for:
-- Simplified licensing processes
-- Reduced small business mandates
-- Workforce pipeline programs tied to local employers
-- Expansion of vocational and trade education
-- Tax policies that encourage growth, not relocation
-When small businesses thrive, communities thrive.
+Our district depends on: Hospitality and tourism Agriculture Trades and construction Healthcare systems Small manufacturers We need workforce development aligned with real jobs, not theoretical programs.
+As a member of the Assembly, I will advocate for: Simplified licensing processes Reduced small business mandates Workforce pipeline programs tied to local employers Expansion of vocational and trade education Tax policies that encourage growth, not relocation When small businesses thrive, communities thrive.
+Brandon Acres Previous Previous Rising Energy Costs Are Squeezing New York Farmers Next Next Rural Healthcare and Mental Health Access in AD-113 MEET ALLEN NEWS GET INVOLVED DONATE PRIVACY POLICY AFFORDABILITY ADGENDA TEXT TERMS & CONDITIONS

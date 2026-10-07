@@ -1,7 +1,5 @@
-Mery Lopez-Palma, Esq.
-Committed to Our Community
-Mery Is Endorsed By:
-Mery Lopez-Palma, Esq. provides District 102 with exactly the kind of compassionate, conservative, and energetic leadership it needs.
-Click below to learn more.
-Committed to Our Community
-Share by:
+Home Meet Mery Endorsements - Gallery Volunteer Contribute Contact DONATE Mery Lopez-Palma, Esq.
+Committed to Our Community Mery Is Endorsed By: Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button View more Mery Lopez-Palma, Esq. provides District 102 with exactly the kind of compassionate, conservative, and energetic leadership it needs. ﻿ Click below to learn more.
+Phone: (954) 510-5122 Email: ﻿ merylopezpalma@gmail.com Address: Florida District 102 Business Hours: Always Available POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY MERY LOPEZ-PALMA, REPUBLICAN, FOR STATE REPRESENTATIVE DISTRICT 102 Content, including images, displayed on this website is protected by copyright laws.
+Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited.
+Terms of Use | Privacy Policy Share by:

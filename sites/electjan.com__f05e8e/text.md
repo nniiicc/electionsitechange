@@ -1,2 +1,1 @@
-Healing Ohio
-A nurse, educator, and mother, Jan Wagner is running for the Ohio Senate to make things better.
+0 Skip to Content About My Why Contact Open Menu Close Menu About My Why Contact Open Menu Close Menu About My Why Contact Healing Ohio A nurse, educator, and mother, Jan Wagner is running for the Ohio Senate to make things better.

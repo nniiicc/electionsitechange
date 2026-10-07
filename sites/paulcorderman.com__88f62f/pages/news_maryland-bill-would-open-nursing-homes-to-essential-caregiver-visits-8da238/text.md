@@ -1,4 +1,4 @@
-| Washington County state lawmakers are working to deem designated visitors as "essential caregivers" for patients in nursing homes.
+Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact 2026 Legislative Agenda 2025 End of Session Letter Maryland bill would open nursing homes to 'essential caregiver' visits 2/5/2021 0 Comments Washington County state lawmakers are working to deem designated visitors as "essential caregivers" for patients in nursing homes.
 Patients in long-term care facilities were hit hard by the COVID-19 pandemic, and the bill would not throw open nursing home doors to all visitors.
 It would allow a patient to designate an "essential caregiver" who could visit with, help attend to and advocate for the resident.
 "They are absolutely essential to our residents' mental health, which in turn will help their overall health," Julia McGlaughlin-Wiles, executive director of clinical services at Fahrney Keedy Home and Village, said in an interview Friday.
@@ -31,6 +31,8 @@ She believes the bill is needed even as the nation looks to roll out vaccines to
 "I say, why wait?
 How can we take any more time from them?" she said.
 McGlaughlin-Wiles and Corderman also believe the thrust of the bill could be useful after COVID-19, because other emergencies are bound to happen.
-"Nobody expected it in the past," Corderman said, "and we don't know what's going to happen in the future." | Archives Paid for by Friends of Paul Corderman, treasurer Michael Weiss |
-| Mailing Address P.O.
-Box 3716 Hagerstown, MD 21742 | Telephone District Office Phone 240-313-3929 | |
+"Nobody expected it in the past," Corderman said, "and we don't know what's going to happen in the future." 0 Comments Leave a Reply.
+A rchives February 2026 September 2025 May 2025 April 2025 February 2025 December 2024 April 2024 March 2024 April 2023 May 2021 April 2021 February 2021 September 2020 August 2020 December 2017 March 2016 February 2016 RSS Feed Paid for by Friends of Paul Corderman, treasurer Michael Weiss Contact the Office of Senator Paul D.
+Corderman!
+Mailing Address P.O.
+Box 3716 ​Hagerstown, MD 21742 Telephone District Office Phone 240-313-3929 Email [email protected]

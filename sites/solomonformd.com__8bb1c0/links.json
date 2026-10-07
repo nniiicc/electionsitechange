@@ -1,14 +1,58 @@
 [
-"http://squarespace.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeDatNnvRe24mhiIEkVBNY1Xh1ux7foEfYxE8j7HxHpuJ-vDw/viewform",
-"https://facebook.com/DelegateJaredSolomon",
-"https://instagram.com/solomonformd",
-"https://secure.actblue.com/donate/teamsolomon",
-"https://solomonformd.com/",
-"https://solomonformd.com/about-1",
-"https://solomonformd.com/cart",
-"https://solomonformd.com/contact",
-"https://solomonformd.com/endorsements",
-"https://solomonformd.com/vote",
-"https://twitter.com/jaredssolomon"
+{
+"text": "0",
+"href": "https://www.solomonformd.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.solomonformd.com/about-1"
+},
+{
+"text": "Contact",
+"href": "https://www.solomonformd.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/teamsolomon"
+},
+{
+"text": "Endorsements",
+"href": "https://www.solomonformd.com/endorsements"
+},
+{
+"text": "Join Our Team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeDatNnvRe24mhiIEkVBNY1Xh1ux7foEfYxE8j7HxHpuJ-vDw/viewform"
+},
+{
+"text": "Learn More",
+"href": "https://www.solomonformd.com/about-1"
+},
+{
+"text": "Learn More",
+"href": "https://www.solomonformd.com/vote"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com"
+},
+{
+"text": "Vote",
+"href": "https://www.solomonformd.com/vote"
+},
+{
+"text": "[image: Solomon4MD]",
+"href": "https://www.solomonformd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jaredssolomon"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateJaredSolomon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/solomonformd"
+}
 ]

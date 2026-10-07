@@ -1,4 +1,4 @@
-Who I am...
+Skip navigation menu Home About Issues Donate About Luke Rae Home About Issues Donate About Luke Rae Who I am...
 My family has lived and farmed right here in this district for over 100 years.
 I went to Mid-Buchanan from kindergarten through graduation.
 My wife Hannah and I are raising two children here.
@@ -9,10 +9,9 @@ Today, I manage a nuclear pharmacy, and I've also had the opportunity to teach a
 I’m not a career politician.
 In fact, I’ve never run for office before.
 But like a lot of you, I’ve been paying attention to what’s happening in our state—and I reached a point where I couldn’t just sit back and hope someone else would fix it.
-So I decided to step up.
-...and why am I running?
+So I decided to step up. ...and why am I running?
 My campaign isn’t about politics as usual.
-This is about our community, our families, and whether we feel like anyone is actually listening to us anymore.
+This is about our com munity, our families, and whether we feel like anyone is actually listening to us anymore.
 This campaign isn’t about one party.
 It’s not about labels.
 To win and more importantly, to actually make a difference we need Republicans, Democrats, independents, people who’ve never voted, and even those who’ve given up on politics entirely.
@@ -27,3 +26,5 @@ But I am promising you I will listen.
 I will show up.
 I will fight for this community with integrity every single day.
 If you believe in that, I’m asking for your support.
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

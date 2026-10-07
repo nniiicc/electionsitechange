@@ -1,8 +1,4 @@
-The Governor’s SOTS Speech, What He Said and What He Didn’t Say
-Every “State of” speech I’ve ever heard follows the same script:
-- A recitation of accomplishments achieved since the previous speech;
-- A shopping list of proposals to be addressed before the next one; and
-- A reminder that those who stand in political opposition to those proposals will be held responsible if those proposals don’t get enacted.
+Skip to content Contribute Other ways to help About Steve Legislation Videos Steve’s Blog Contact Steve's Blog “We cannot solve our problems with the same thinking we used when we created them.” – Albert Einstein Back to Steve's Blog The Governor’s SOTS Speech, What He Said and What He Didn’t Say Scott Stantis, Chicago Tribune Every “State of” speech I’ve ever heard follows the same script: A recitation of accomplishments achieved since the previous speech; A shopping list of proposals to be addressed before the next one; and A reminder that those who stand in political opposition to those proposals will be held responsible if those proposals don’t get enacted.
 Governor Rauner’s speech yesterday followed the script for the most part, and revealed some interesting insights.
 The list of accomplishments, from new measures to reduce fraud to coordinating among agencies that provide care to those in need speak to a change in emphasis away from enacting programs merely for the sake of enacting programs to developing a more comprehensive management style that will hopefully provide savings down the road.
 While the biggest issues that confront Illinois remain, this move toward measuring outcomes as a function of the cost of inputs is a step forward.
@@ -34,3 +30,14 @@ Unfortunately, he ran up against the rocks of a 71 seat super-majority led by Sp
 Madigan is more interested in politics than governing, and he’s a master at it.
 Had he lost 1 seat in his caucus in 2014, it’s no stretch to say that we’d probably have a budget today.
 Without saying so, Bruce Rauner made that very point.
+Leave a Reply Cancel Reply Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Submit Δ Sign up for updates Email Sign Up First Name Last Name Email * Phone SIGN UP If you are human, leave this field blank. Δ By submitting this form, you are consenting to receive marketing emails from: Citizens to Elect Steven Reick, P.O.
+Box 27, Harvard, IL, 60033.
+You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.
+Bruce Rauner / Education Funding / General Assembly / John Cullerton / Michael Madigan / Property Taxes / Public Pensions / Turnaround Agenda / Funded by Citizens to Elect Steven Reick.
+A copy of our report filed with the state board of elections is (or will be) available on the board’s official website (www.Elections.Il.Gov) or for purchase from the state board of elections, Springfield, Illinois.
+Privacy Policy © # Steve Reick.
+All Rights Reserved.
+Website designed and developed by TurnKey Digital.
+Contribute Other ways to help About Steve Legislation Videos Steve’s Blog Contact © # Steve Reick.
+All Rights Reserved.

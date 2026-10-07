@@ -1,39 +1,5 @@
-EN ESPAÑOL & SA TAGALOG
-ABOUT ERICA
-GET INVOLVED
-MEDIA & NEWS
-CONTACT
-MORE
-Business community, lawmakers discuss ways to improve landscape for Nevada startups
-New program aims to study explosion of evictions, call for reform
-Despite in-person learning return, Nevada schools saw continued proficiency loss last year
-Air quality monitoring program advances environmental justice for Latinos in east Las Vegas
-3 Questions With Assemblywoman Erica V.
-Mosca
-Fil-Ams Among The Remarkable And Famous, Part 47
-‘The kids aren’t alright’: Tonopah says its schools are struggling
-Lantern Festival in Carson City celebrates Lunar New Year and elected legislative members
-Mosca will be 1st person of Filipino descent in Legislature
-Educators turned lawmakers bringing classroom realities to the 2023 session
-Esports Awards Completed
-Historic number of Filipino Americans won in last November polls
-Fil-Ams who obtained historical wins in recent US midterm polls
-Nevada Democrats secure supermajority in Assembly
-3 Fil-Am candidates lead races in Nevada
-Jen Jordan talks reproductive rights, record state voter turnout in dial-in press conference
-Education advocate Mosca running in open Assembly District 14
-Campaigns of Nevada Fil-Am candidates in full swing
-Sen.
-Cortez Masto hosts Las Vegas AAPI community leaders in Heritage Month celebration
-2 Democrats make second try for office in AD14
-These 10 Asian American and Pacific Islander Alums Are Changing the World
-"Build Back Better" Bus Stop
-PHOTOS: DNC Holds “Build Back Better” Stop in Las Vegas
-Women Inspiring Nevada: Pioneers leading with hope and humanity
-Why I’m Getting Married on Zoom This Saturday
-Fil-Am leaders mark ‘powerful’ milestone for Filipino representation
-Assemblywoman pushes measure to help extend foreign teachers’ stay in Nevada
-Las Vegas-focused podcast has first live-audience recording
-'Every student in America deserves a safe place to learn'
-New Nevada Law aims to speed up homeless camp cleanups along freeways
-Generations gather to celebrate the unveiling of Las Vegas Filipino Town
+top of page EN ESPAÑOL & SA TAGALOG SA TAGALOG ABOUT ERICA MY WHY BILLS LEGISLATIVE AWARDS & WORK GET INVOLVED DONATE MEDIA & NEWS 2025 COMMUNITY ENDORSEMENTS CONTACT MORE Use tab to navigate through the menu items.
+Listen to Asw Mosca on KNPR Business community, lawmakers discuss ways to improve landscape for Nevada startups View More New program aims to study explosion of evictions, call for reform View More Despite in-person learning return, Nevada schools saw continued proficiency loss last year View More Air quality monitoring program advances environmental justice for Latinos in east Las Vegas View More 3 Questions With Assemblywoman Erica V.
+Mosca View More ​ Fil-Ams Among The Remarkable And Famous, Part 47 View More ‘The kids aren’t alright’: Tonopah says its schools are struggling View More ​ Lantern Festival in Carson City celebrates Lunar New Year and elected legislative members View More ​ Mosca will be 1st person of Filipino descent in Legislature View More Educators turned lawmakers bringing classroom realities to the 2023 session View More ​ Esports Awards Completed View More ​ Historic number of Filipino Americans won in last November polls View More Fil-Ams who obtained historical wins in recent US midterm polls View More Nevada Democrats secure supermajority in Assembly View More ​ 3 Fil-Am candidates lead races in Nevada View More Jen Jordan talks reproductive rights, record state voter turnout in dial-in press conference View More Education advocate Mosca running in open Assembly District 14 View More Campaigns of Nevada Fil-Am candidates in full swing View More ​ Sen.
+Cortez Masto hosts Las Vegas AAPI community leaders in Heritage Month celebration View More 2 Democrats make second try for office in AD14 View More ​ These 10 Asian American and Pacific Islander Alums Are Changing the World View More ​ "Build Back Better" Bus Stop View More ​ PHOTOS: DNC Holds “Build Back Better” Stop in Las Vegas View More Women Inspiring Nevada: Pioneers leading with hope and humanity View More ​ Why I’m Getting Married on Zoom This Saturday View More ​ Fil-Am leaders mark ‘powerful’ milestone for Filipino representation​ View More ​ Assemblywoman pushes measure to help extend foreign teachers’ stay in Nevada​ View More ​ Las Vegas-focused podcast has first live-audience recording View More ​ 'Every student in America deserves a safe place to learn' View More New Nevada Law aims to speed up homeless camp cleanups along freeways View More ​ Generations gather to celebrate the unveiling of Las Vegas Filipino Town View More Paid for & Authorized by the Committee to Elect Erica Mosca 2126 Citroen St.
+Las Vegas, NV 89142 702-250-2320 Ericamosca14@gmail.com ABOUT ERICA Bills GET INVOLVED Donate Legislative Awards & Work MEDIA & NEWS CONTACT Community Endorsements bottom of page

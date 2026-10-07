@@ -1,13 +1,46 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/profile.php?id=100081817442794",
-"https://linkedin.com/in/david-weeks-9946a720",
-"https://weeksvtstatesenate.com/",
-"https://weeksvtstatesenate.com/cart",
-"https://weeksvtstatesenate.com/contact-me",
-"https://weeksvtstatesenate.com/dave",
-"https://weeksvtstatesenate.com/endorsements",
-"https://weeksvtstatesenate.com/legislativerecord",
-"https://weeksvtstatesenate.com/priorities",
-"https://weeksvtstatesenate.com/support"
+{
+"text": "0",
+"href": "https://www.weeksvtstatesenate.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.weeksvtstatesenate.com/contact-me"
+},
+{
+"text": "Dave Weeks for Vermont State Senate",
+"href": "https://www.weeksvtstatesenate.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.weeksvtstatesenate.com/endorsements"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.weeksvtstatesenate.com/dave"
+},
+{
+"text": "Priorities",
+"href": "https://www.weeksvtstatesenate.com/priorities"
+},
+{
+"text": "Results",
+"href": "http://squarespace.com"
+},
+{
+"text": "Senate Record",
+"href": "https://www.weeksvtstatesenate.com/legislativerecord"
+},
+{
+"text": "Support",
+"href": "https://www.weeksvtstatesenate.com/support"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100081817442794"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/david-weeks-9946a720/"
+}
 ]

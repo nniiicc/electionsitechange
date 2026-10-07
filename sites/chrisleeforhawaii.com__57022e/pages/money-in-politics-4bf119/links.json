@@ -1,20 +1,74 @@
 [
-"http://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=452&year=2014",
-"http://capitol.hawaii.gov/archives/measure_indiv_Archives8-12.aspx?billtype=HB&billnumber=2003&year=2010",
-"http://staradvertiser.com/2013/04/14/hawaii-news/super-pacs-must-list-top-donors-under-bill",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=138&year=2019",
-"https://capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2124&year=2020",
-"https://capitol.hawaii.gov/session2020/bills/HB361_SD2_.htm",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/crime",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://staradvertiser.com/2019/03/06/breaking-news/hawaii-lawmakers-pass-automatic-recount-voter-registration",
-"https://staradvertiser.com/2020/08/09/hawaii-news/voter-turnout-mail-in-balloting-helps-hawaii-crush-voting-records",
-"https://twitter.com/chrisleehawaii",
-"https://westhawaiitoday.com/2019/11/14/hawaii-news/state-readies-for-only-mail-voting"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "Chris also passed a law",
+"href": "http://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=452&year=2014"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/crime"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "added provisions to a bill",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=138&year=2019"
+},
+{
+"text": "led the effort to make it easier to vote in Hawaii",
+"href": "https://www.staradvertiser.com/2019/03/06/breaking-news/hawaii-lawmakers-pass-automatic-recount-voter-registration/"
+},
+{
+"text": "pass a bill banning the Governor and all Mayors from getting paid by special interests",
+"href": "https://www.capitol.hawaii.gov/session2020/bills/HB361_SD2_.htm"
+},
+{
+"text": "passed a law",
+"href": "https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2124&year=2020"
+},
+{
+"text": "passed an amendment",
+"href": "http://www.capitol.hawaii.gov/archives/measure_indiv_Archives8-12.aspx?billtype=HB&billnumber=2003&year=2010"
+},
+{
+"text": "passing a groundbreaking law",
+"href": "http://www.staradvertiser.com/2013/04/14/hawaii-news/super-pacs-must-list-top-donors-under-bill/"
+},
+{
+"text": "voting by mail broke all turnout records",
+"href": "https://www.staradvertiser.com/2020/08/09/hawaii-news/voter-turnout-mail-in-balloting-helps-hawaii-crush-voting-records/"
+},
+{
+"text": "“We wrote this bill to expand voting hours and access, and make it easier for everyone to vote. We hope to see voter participation rise this coming election,",
+"href": "https://www.westhawaiitoday.com/2019/11/14/hawaii-news/state-readies-for-only-mail-voting/"
+}
 ]

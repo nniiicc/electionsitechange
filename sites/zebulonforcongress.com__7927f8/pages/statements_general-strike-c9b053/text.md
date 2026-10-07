@@ -1,5 +1,4 @@
-May 1 General Strike
-On May 1, I will be participating in the general strike.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate May 1 General Strike Apr 21 Written By Zebulon Featherly On May 1, I will be participating in the general strike.
 I’m doing it because something is deeply wrong with a country where a handful of people hold unimaginable wealth while millions struggle to afford rent, groceries, and healthcare.
 I do not believe billionaires should exist.
 I believe their existence is evidence of a failed system.
@@ -30,3 +29,4 @@ Some people work in healthcare, emergency response, caregiving, and other essent
 I respect that completely.
 This is not about purity.
 It is about doing what you can, where you can, and remembering that even small acts of refusal and solidarity still matter.
+Zebulon Featherly Previous Previous US National Debt Next Next US Forest Service Restructure

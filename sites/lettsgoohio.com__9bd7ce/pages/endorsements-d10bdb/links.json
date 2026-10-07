@@ -1,29 +1,122 @@
 [
-"http://facebook.com/LettsGoOhio",
-"http://osma.org/",
-"https://aflcio.org/get-local/ohio",
-"https://afscme.org/state/ohio",
-"https://columbusconstruction.org/",
-"https://facebook.com/LettsGoOhio",
-"https://farmvotesmatter.org/",
-"https://fcdp.org/",
-"https://gunsensevoter.org/",
-"https://hilliarddemocrats.com/",
-"https://instagram.com/lettsgoohio",
-"https://lettsgoohio.com/",
-"https://lettsgoohio.com/endorsements",
-"https://lettsgoohio.com/issues",
-"https://lettsgoohio.com/meet",
-"https://lettsgoohio.com/volunteer",
-"https://local67.com/",
-"https://matriotsohio.com/candidate/crystal-lett-3",
-"https://oapse.org/",
-"https://oft-aft.org/2026election",
-"https://ohea.org/",
-"https://ohnurses.org/",
-"https://plannedparenthoodaction.org/endorsements",
-"https://secure.actblue.com/donate/lettforohio",
-"https://theoec.org/",
-"https://tiktok.com/@lettsgoohio26",
-"https://votemamapac.org/our-mamas"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lettforohio"
+},
+{
+"text": "Endorsements",
+"href": "https://lettsgoohio.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "http://www.facebook.com/LettsGoOhio"
+},
+{
+"text": "Follow",
+"href": "https://lettsgoohio.com/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LettsGoOhio"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/lettsgoohio/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@lettsgoohio26"
+},
+{
+"text": "Issues",
+"href": "https://lettsgoohio.com/issues/"
+},
+{
+"text": "Lett’s Go Ohio!",
+"href": "https://lettsgoohio.com/"
+},
+{
+"text": "Meet Crystal",
+"href": "https://lettsgoohio.com/meet/"
+},
+{
+"text": "Volunteer",
+"href": "https://lettsgoohio.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "http://www.osma.org/"
+},
+{
+"text": "[image]",
+"href": "https://aflcio.org/get-local/ohio"
+},
+{
+"text": "[image]",
+"href": "https://afscme.org/state/ohio/"
+},
+{
+"text": "[image]",
+"href": "https://columbusconstruction.org/"
+},
+{
+"text": "[image]",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "[image]",
+"href": "https://hilliarddemocrats.com/"
+},
+{
+"text": "[image]",
+"href": "https://lettsgoohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://matriotsohio.com/candidate/crystal-lett-3/"
+},
+{
+"text": "[image]",
+"href": "https://oapse.org/"
+},
+{
+"text": "[image]",
+"href": "https://oft-aft.org/2026election#endorsements"
+},
+{
+"text": "[image]",
+"href": "https://ohnurses.org/"
+},
+{
+"text": "[image]",
+"href": "https://theoec.org/"
+},
+{
+"text": "[image]",
+"href": "https://votemamapac.org/our-mamas/"
+},
+{
+"text": "[image]",
+"href": "https://www.farmvotesmatter.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.fcdp.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.local67.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.ohea.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthoodaction.org/endorsements"
+},
+{
+"text": "campaign@lettforohio.com",
+"href": "mailto:campaign@LettForOhio.com"
+}
 ]

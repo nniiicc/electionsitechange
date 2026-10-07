@@ -1,15 +1,8 @@
-MAJOR ENDORSEMENT ALERT
-Paradise, Calif. – In a major development in the campaign for California’s 3rd Assembly District, Dom Belza announced endorsements today from Paradise Town Councilmembers Greg Bolin and Ron Lassonde, adding to the growing support for Belza following California’s June Statewide Primary Election.
+Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Paradise City Council Members Endorse Dom Belza for State Assembly MAJOR ENDORSEMENT ALERT Paradise, Calif. – In a major development in the campaign for California’s 3rd Assembly District, Dom Belza announced endorsements today from Paradise Town Councilmembers Greg Bolin and Ron Lassonde, adding to the growing support for Belza following California’s June Statewide Primary Election.
 Nestled in Butte County, the Town of Paradise joins a growing coalition of support behind Belza in Butte County and the district as he advances to the General Election.
-With these endorsements, Belza now has the support of four of the five current members of the Paradise Town Council, including:
-Steve Crowder, Mayor
-Steve “Woody” Culleton, Vice Mayor
-Ron Lassonde, Councilmember
-Greg Bolin, Councilmember
-“The Town of Paradise represents the resiliency of the entire North State,” said Dom Belza.
+With these endorsements, Belza now has the support of four of the five current members of the Paradise Town Council, including: Steve Crowder, Mayor Steve “Woody” Culleton, Vice Mayor Ron Lassonde, Councilmember Greg Bolin, Councilmember “The Town of Paradise represents the resiliency of the entire North State,” said Dom Belza.
 “The residents here know all too well how important it is for local leaders to work in conjunction with representatives at every level of government to deliver results.
-I consider myself blessed to have such strong support from Paradise and will work in unison with them when I am elected to the State Assembly.”
-Dom Belza placed first in a three-way field of Republicans with 45.2% of the vote in the California Statewide Primary, winning all six of the district’s counties.
+I consider myself blessed to have such strong support from Paradise and will work in unison with them when I am elected to the State Assembly.” Dom Belza placed first in a three-way field of Republicans with 45.2% of the vote in the California Statewide Primary, winning all six of the district’s counties.
 The nearest challenger finished nearly 16% behind Belza at 29%.
 The 3rd Assembly District encompasses all or portions of six counties: Butte, Sutter, Yuba, Tehama, Glenn, and Placer.
-###
+### Share the Post: Facebook Instagram Youtube Privacy Policy Paid for by Belza for Assembly 2026 FPPC# 1477103 Endorse Dom Belza First Name Last Name Email Address Title Submit

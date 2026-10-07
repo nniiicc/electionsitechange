@@ -1,18 +1,74 @@
 [
-"https://facebook.com/joshwheelerforidaho",
-"https://smartlydone.com/",
-"https://voteidaho.gov/online-voter-tools",
-"https://voteidaho.gov/voter-registration",
-"https://wheelerforidaho.com/",
-"https://wheelerforidaho.com/about-josh",
-"https://wheelerforidaho.com/blog",
-"https://wheelerforidaho.com/campaign",
-"https://wheelerforidaho.com/campaign-updates/posts/josh-wheeler-announces-campaign-for-re-election-to-the-idaho-house-of-representatives",
-"https://wheelerforidaho.com/contact",
-"https://wheelerforidaho.com/donate",
-"https://wheelerforidaho.com/media/whnplbvk/open-for-business.jpg",
-"https://wheelerforidaho.com/newsletter-sign-up",
-"https://wheelerforidaho.com/volunteer",
-"https://wheelerforidaho.com/voting-record",
-"https://wheelerforidaho.com/why-i-am-running"
+{
+"text": "(208) 360-3926",
+"href": "tel:(208)%20360-3926"
+},
+{
+"text": "About Josh",
+"href": "https://www.wheelerforidaho.com/about-josh/"
+},
+{
+"text": "Blog",
+"href": "https://www.wheelerforidaho.com/blog/"
+},
+{
+"text": "Campaign",
+"href": "https://www.wheelerforidaho.com/campaign/"
+},
+{
+"text": "Contact",
+"href": "https://www.wheelerforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.wheelerforidaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.wheelerforidaho.com/"
+},
+{
+"text": "Register to Vote ↗",
+"href": "https://voteidaho.gov/voter-registration/"
+},
+{
+"text": "Sign-Up",
+"href": "https://www.wheelerforidaho.com/newsletter-sign-up/"
+},
+{
+"text": "Smartly Done",
+"href": "https://smartlydone.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wheelerforidaho.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://www.wheelerforidaho.com/voting-record/"
+},
+{
+"text": "Why I Am Running",
+"href": "https://www.wheelerforidaho.com/why-i-am-running/"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.wheelerforidaho.com/campaign-updates/posts/josh-wheeler-announces-campaign-for-re-election-to-the-idaho-house-of-representatives/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/online-voter-tools/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/joshwheelerforidaho"
+},
+{
+"text": "[image]",
+"href": "https://www.wheelerforidaho.com/media/whnplbvk/open-for-business.jpg"
+},
+{
+"text": "[image] Wheeler For Idaho",
+"href": "https://www.wheelerforidaho.com/"
+}
 ]

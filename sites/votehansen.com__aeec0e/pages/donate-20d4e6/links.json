@@ -1,14 +1,50 @@
 [
-"https://bsky.app/profile/reprickhansen.bsky.social",
-"https://facebook.com/RepRickHansen",
-"https://secure.actblue.com/donate/voterickhansen",
-"https://twitter.com/reprickhansen",
-"https://votehansen.com/",
-"https://votehansen.com/about",
-"https://votehansen.com/cart",
-"https://votehansen.com/donate",
-"https://votehansen.com/events",
-"https://votehansen.com/gallery",
-"https://votehansen.com/volunteer",
-"https://votehansen.com/vote"
+{
+"text": "0",
+"href": "https://www.votehansen.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.votehansen.com/donate"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.actblue.com/donate/voterickhansen"
+},
+{
+"text": "Events",
+"href": "https://www.votehansen.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.votehansen.com/gallery"
+},
+{
+"text": "Meet Rick",
+"href": "https://www.votehansen.com/about"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehansen.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votehansen.com/vote"
+},
+{
+"text": "[image: Rick Hansen for House]",
+"href": "https://www.votehansen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/reprickhansen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reprickhansen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepRickHansen/"
+}
 ]

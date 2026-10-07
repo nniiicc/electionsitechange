@@ -1,49 +1,210 @@
 [
-"https://barnstable.k12.ma.us/domain/41",
-"https://bourneps.org/",
-"https://facebook.com/xiarhosforrep",
-"https://instagram.com/xiarhosforrep",
-"https://mass.gov/guides/massachusetts-identification-id-requirements",
-"https://mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit",
-"https://mass.gov/how-to/apply-for-unemployment-benefits",
-"https://mass.gov/how-to/renew-your-drivers-license",
-"https://mass.gov/orgs/department-of-early-education-and-care",
-"https://mass.gov/orgs/department-of-elementary-and-secondary-education",
-"https://mass.gov/orgs/department-of-youth-services",
-"https://mass.gov/orgs/executive-office-of-elder-affairs",
-"https://mass.gov/orgs/massachusetts-department-of-children-families",
-"https://mass.gov/orgs/massachusetts-department-of-revenue",
-"https://mass.gov/orgs/massachusetts-department-of-veterans-services",
-"https://mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
-"https://mass.gov/vehicle-registration",
-"https://masshousing.com/",
-"https://mhp.net/",
-"https://sandwichk12.org/",
-"https://sandwichmass.org/",
-"https://sandwichmass.org/272/Sandwich-Housing-Authority",
-"https://sandwichmass.org/274/Council-on-Aging",
-"https://sandwichmass.org/279/Veterans-Services",
-"https://secure.democracyengine.com/StevenXiarhos",
-"https://tobweb.town.barnstable.ma.us/boardscommittees/CouncilonAging/default.asp?brd=Council+On+Aging&brdid=34&year=2021",
-"https://tobweb.town.barnstable.ma.us/boardscommittees/HousingCommittee/default.asp?brd=Housing+Committee&brdid=16&year=2021",
-"https://tobweb.town.barnstable.ma.us/departments/veteransservices",
-"https://tobweb.town.barnstable.ma.us/index.asp",
-"https://town.barnstable.ma.us/",
-"https://townofbourne.com/",
-"https://townofbourne.com/council-on-aging",
-"https://townofbourne.com/housing",
-"https://townofbourne.com/veterans-agent",
-"https://twitter.com/xiarhosforrep",
-"https://xiarhosforrep.com/",
-"https://xiarhosforrep.com/2025/02/legislative_agenda_2025",
-"https://xiarhosforrep.com/5th-barnstable-district",
-"https://xiarhosforrep.com/about-steve-xiarhos",
-"https://xiarhosforrep.com/author/xiarhosforrep2020",
-"https://xiarhosforrep.com/beacon-hill-brief",
-"https://xiarhosforrep.com/contact-us",
-"https://xiarhosforrep.com/helpful-links",
-"https://xiarhosforrep.com/in_the_news",
-"https://xiarhosforrep.com/issues",
-"https://xiarhosforrep.com/join-our-e-mail-list",
-"https://xiarhosforrep.com/news"
+{
+"text": "About Steve",
+"href": "https://xiarhosforrep.com/about-steve-xiarhos/"
+},
+{
+"text": "Barnstable Council on Aging",
+"href": "https://tobweb.town.barnstable.ma.us/boardscommittees/CouncilonAging/default.asp?brd=Council+On+Aging&brdid=34&year=2021"
+},
+{
+"text": "Barnstable Housing Committee",
+"href": "https://tobweb.town.barnstable.ma.us/boardscommittees/HousingCommittee/default.asp?brd=Housing+Committee&brdid=16&year=2021"
+},
+{
+"text": "Barnstable Public Schools",
+"href": "https://www.barnstable.k12.ma.us/domain/41"
+},
+{
+"text": "Barnstable Veterans Services",
+"href": "https://tobweb.town.barnstable.ma.us/departments/veteransservices/"
+},
+{
+"text": "Bourne Affordable Housing",
+"href": "https://www.townofbourne.com/housing"
+},
+{
+"text": "Bourne Council on Aging",
+"href": "https://www.townofbourne.com/council-on-aging"
+},
+{
+"text": "Bourne Public Schools",
+"href": "https://www.bourneps.org/"
+},
+{
+"text": "Bourne Veterans Agent",
+"href": "https://www.townofbourne.com/veterans-agent"
+},
+{
+"text": "Click Here to Visit the Town Web Site",
+"href": "https://town.barnstable.ma.us/"
+},
+{
+"text": "Click Here to Visit the Town Web Site",
+"href": "https://www.sandwichmass.org/"
+},
+{
+"text": "Click Here to Visit the Town Web Site",
+"href": "https://www.townofbourne.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://xiarhosforrep.com/contact-us/"
+},
+{
+"text": "DONATE[image: DONATE]",
+"href": "https://secure.democracyengine.com/StevenXiarhos"
+},
+{
+"text": "Department of Early Education and Care (EEC)",
+"href": "https://www.mass.gov/orgs/department-of-early-education-and-care"
+},
+{
+"text": "Department of Elementary and Secondary Education, Massachusetts (DESE)",
+"href": "https://www.mass.gov/orgs/department-of-elementary-and-secondary-education"
+},
+{
+"text": "Department of Youth Services (DYS)",
+"href": "https://www.mass.gov/orgs/department-of-youth-services"
+},
+{
+"text": "Donate",
+"href": "https://secure.democracyengine.com/StevenXiarhos"
+},
+{
+"text": "Follow Us On Instagram[image: Follow Us On Instagram]",
+"href": "https://www.instagram.com/xiarhosforrep/"
+},
+{
+"text": "Follow Us On Twitter[image: Follow Us On Twitter]",
+"href": "https://twitter.com/xiarhosforrep"
+},
+{
+"text": "Follow us on Facebook![image: Follow us on Facebook!]",
+"href": "https://www.facebook.com/xiarhosforrep"
+},
+{
+"text": "Get E-mails",
+"href": "https://xiarhosforrep.com/join-our-e-mail-list/"
+},
+{
+"text": "Helpful Links",
+"href": "https://xiarhosforrep.com/helpful-links/"
+},
+{
+"text": "Home",
+"href": "https://xiarhosforrep.com/"
+},
+{
+"text": "Legislative Agenda 2025-2026",
+"href": "https://xiarhosforrep.com/2025/02/legislative_agenda_2025/"
+},
+{
+"text": "Massachusetts Department of Children and Families (DCF)",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-children-families"
+},
+{
+"text": "News Room",
+"href": "https://xiarhosforrep.com/news/"
+},
+{
+"text": "Press Releases and Statements",
+"href": "https://xiarhosforrep.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://xiarhosforrep.com/issues/"
+},
+{
+"text": "Sandwich Council on Aging",
+"href": "https://www.sandwichmass.org/274/Council-on-Aging"
+},
+{
+"text": "Sandwich Housing Authority",
+"href": "https://www.sandwichmass.org/272/Sandwich-Housing-Authority"
+},
+{
+"text": "Sandwich Public Schools",
+"href": "https://www.sandwichk12.org/"
+},
+{
+"text": "Sandwich Veterans Services",
+"href": "https://www.sandwichmass.org/279/Veterans-Services"
+},
+{
+"text": "Steve In the News",
+"href": "https://xiarhosforrep.com/in_the_news/"
+},
+{
+"text": "The Beacon Hill Brief",
+"href": "https://xiarhosforrep.com/beacon-hill-brief/"
+},
+{
+"text": "The District",
+"href": "https://xiarhosforrep.com/5th-barnstable-district/"
+},
+{
+"text": "Xiarhos Committee",
+"href": "https://xiarhosforrep.com/author/xiarhosforrep2020/"
+},
+{
+"text": "[image: Steven Xiarhos for State Representative Logo]",
+"href": "https://xiarhosforrep.com/"
+},
+{
+"text": "[image]",
+"href": "https://tobweb.town.barnstable.ma.us/index.asp"
+},
+{
+"text": "[image]",
+"href": "https://www.sandwichmass.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.townofbourne.com/"
+},
+{
+"text": "https://www.mass.gov/guides/massachusetts-identification-id-requirements",
+"href": "https://www.mass.gov/guides/massachusetts-identification-id-requirements"
+},
+{
+"text": "https://www.mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit",
+"href": "https://www.mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit"
+},
+{
+"text": "https://www.mass.gov/how-to/apply-for-unemployment-benefits",
+"href": "https://www.mass.gov/how-to/apply-for-unemployment-benefits"
+},
+{
+"text": "https://www.mass.gov/how-to/renew-your-drivers-license",
+"href": "https://www.mass.gov/how-to/renew-your-drivers-license"
+},
+{
+"text": "https://www.mass.gov/orgs/executive-office-of-elder-affairs",
+"href": "https://www.mass.gov/orgs/executive-office-of-elder-affairs"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-revenue"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-department-of-veterans-services",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-veterans-services"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+"href": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles"
+},
+{
+"text": "https://www.mass.gov/vehicle-registration",
+"href": "https://www.mass.gov/vehicle-registration"
+},
+{
+"text": "https://www.masshousing.com/",
+"href": "https://www.masshousing.com/"
+},
+{
+"text": "https://www.mhp.net/",
+"href": "https://www.mhp.net/"
+}
 ]

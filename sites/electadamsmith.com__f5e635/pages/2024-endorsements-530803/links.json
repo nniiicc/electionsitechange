@@ -1,17 +1,66 @@
 [
-"https://action.electadamsmith.com/a/volunteer",
-"https://electadamsmith.com/",
-"https://electadamsmith.com/2022-endorsements",
-"https://electadamsmith.com/2024-endorsements",
-"https://electadamsmith.com/?lang=es",
-"https://electadamsmith.com/contact",
-"https://electadamsmith.com/contribute",
-"https://electadamsmith.com/endorsements",
-"https://electadamsmith.com/meet-adam",
-"https://electadamsmith.com/priorities",
-"https://facebook.com/adamsmithforcongress",
-"https://instagram.com/electadamsmith/reels?hl=en",
-"https://linkedin.com/in/adam-smith-71218048",
-"https://x.com/electadamsmith?lang=en",
-"https://youtube.com/@AdamSmithforCongress"
+{
+"text": "Contact Us",
+"href": "https://electadamsmith.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electadamsmith.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://electadamsmith.com/endorsements/"
+},
+{
+"text": "English",
+"href": "https://electadamsmith.com/2024-endorsements/"
+},
+{
+"text": "Español",
+"href": "https://electadamsmith.com/?lang=es"
+},
+{
+"text": "Home",
+"href": "https://electadamsmith.com/"
+},
+{
+"text": "Meet Adam",
+"href": "https://electadamsmith.com/meet-adam/"
+},
+{
+"text": "Priorities",
+"href": "https://electadamsmith.com/priorities/"
+},
+{
+"text": "View Adam’s 2022 endorsements here.",
+"href": "https://electadamsmith.com/2022-endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://action.electadamsmith.com/a/volunteer"
+},
+{
+"text": "[image: Adam Smith for Washington]",
+"href": "https://electadamsmith.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/adamsmithforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/electadamsmith/reels/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/adam-smith-71218048/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@AdamSmithforCongress"
+},
+{
+"text": "[image]",
+"href": "https://x.com/electadamsmith?lang=en"
+}
 ]

@@ -1,22 +1,16 @@
-Herrera Breaks $600K in First Half of Q3, Reserves $1.7 Million Ad Buy
-FOR IMMEDIATE RELEASE
-In the first forty-five days of the third quarter, Herrera has raised more money than Katy Stout has during her entire campaign.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Skip to content Herrera Breaks $600K in First Half of Q3, Reserves $1.7 Million Ad Buy Press Releases • August 17, 2026 FOR IMMEDIATE RELEASE Monday, August 17, 2026 In the first forty-five days of the third quarter, Herrera has raised more money than Katy Stout has during her entire campaign.
+San Antonio, TX — Since the July 1st start of the third quarter, Brandon Herrera has raised over $# for his campaign committees.
+This includes $# raised by the Brandon Herrera Victory Fund, $# raised by Brandon Herrera for Congress, and $# raised by the allied PAC.
 For her entire campaign, Democrat Socialist-aligned Katy Stout reports raising just $484,915.03, with just $171,372.78 cash on hand after spending thousands of dollars on cookies and other snacks.
 And unlike Stout’s campaign, the Herrera campaign spent very little on fundraising expenses, allowing nearly all the money raised to be spent keeping this seat Republican.
 The campaign also made a broadcast and cable TV reservation of $1.7 million across the district.
-Brandon Herrera made the following statement:
-Our average donation is $83, and I will be forever grateful to the small-dollar donors for supporting my campaign.
+Brandon Herrera made the following statement: Our average donation is $# and I will be forever grateful to the small-dollar donors for supporting my campaign.
 These are the people who would bear the brunt of Katy Stout’s tax increases and open border crime wave, and in Washington, DC, I will be their champion.
 Brandon Herrera is available for interviews.
 Please contact Kimmie Gonzalez at 904.814.5015 or Kimmie@BrandonHerreraforCongress.com to schedule an interview.
-More News
-View all
-Herrera Applauds Pause on Big Bend Border Construction
-San Antonio, TX — Following Customs and Border Protection Commissioner Rodney Scott’s pause on construction activity in Big Bend National Park, Brandon Herrera made the following statement: This is 100% the right move.
-I have been a vocal proponent of preserving both Big Bend National Park and Big Bend Ranch State Park, and I’m glad […]
-Herrera Response to Big Bend Construction
-San Antonio, TX — Brandon Herrera made the following statement in response to construction in the Big Bend region: I have made it very clear that I oppose any construction in the Big Bend area that disturbs the natural landscape and threatens the jobs that tourism brings when non-intrusive technology would do the job.
-The […]
-Brandon Herrera: America Needs Texas Congressional District 23 to Stay Red
-San Antonio, TX — The Democratic Congressional Campaign Committee recently added Texas’ 23rd Congressional District to its “Districts in Play” list, signaling that Democrats in Washington and their allies intend to spend heavily to flip the district in November.
-Brandon Herrera, Republican nominee for Congress in Texas’ 23rd Congressional District, made the following statement in […]
+Share This news Share this with those who live in Texas District 23!
+Help elect Brandon Herrera to Congress More News View all Press Releases Herrera Campaign Announces $# Raised in Q3 San Antonio, TX – The Herrera campaign today announced that it raised a total of $1,261,794.21 in the critical third quarter just ahead of the final sprint to Election Day.
+This includes S1,072,152.27 raised by the Brandon Herrera Victory Committee, $176,141.94 raised by Brandon Herrera for Congress, and $13,500 raised by the campaign’s affiliated hybrid […] Read More Posted October 6, 2026 Press Releases Herrera Applauds Pause on Big Bend Border Construction San Antonio, TX — Following Customs and Border Protection Commissioner Rodney Scott’s pause on construction activity in Big Bend National Park, Brandon Herrera made the following statement: This is 100% the right move.
+I have been a vocal proponent of preserving both Big Bend National Park and Big Bend Ranch State Park, and I’m glad […] Read More Posted August 18, 2026 Press Releases Herrera Response to Big Bend Construction San Antonio, TX — Brandon Herrera made the following statement in response to construction in the Big Bend region: I have made it very clear that I oppose any construction in the Big Bend area that disturbs the natural landscape and threatens the jobs that tourism brings when non-intrusive technology would do the job.
+The […] Read More Posted August 12, 2026 Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

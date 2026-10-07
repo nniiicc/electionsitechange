@@ -1,7 +1,22 @@
 [
-"https://secure.actblue.com/donate/lulu-flores-campaign-1",
-"https://voteluluflores.com/about",
-"https://voteluluflores.com/contact",
-"https://voteluluflores.com/home",
-"https://voteluluflores.com/issues"
+{
+"text": "About",
+"href": "https://www.voteluluflores.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteluluflores.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lulu-flores-campaign-1"
+},
+{
+"text": "Issues",
+"href": "https://www.voteluluflores.com/issues/"
+},
+{
+"text": "[image: Rep Lulu Flores logo]",
+"href": "https://www.voteluluflores.com/home"
+}
 ]

@@ -1,112 +1,63 @@
-The Latest News
-The 2026 legislative session ended on Thursday, April 2, 2026.
-Education Priorities
-Education remains a top priority in the Georgia General Assembly.
+VOLUNTEER DONATE NEWS CONSTITUENT SERVICES NEWS The Latest News The 2026 legislative session ended on Thursday, April 2, 2026.
+Education Priorities Education remains a top priority in the Georgia General Assembly.
 I have worked with my colleagues to pass key legislation that strengthens our schools, supports teachers, and helps students succeed—measures that are now moving to the Senate.
 I remain committed to delivering on my promise to support educators, empower parents, and ensure every child has access to a quality education.
-Income Tax Relief
-I was proud to co-sponsor and support this tax relief bill, continuing my commitment to lower your taxes, promote responsible government, and grow a stronger Georgia economy
-Supporting Our Law Enforcement
-I was proud to sponsor and carry HB 1128 this session to strengthen support for the men and women who protect our communities.
+Education Legislation Income Tax Relief I was proud to co-sponsor and support this tax relief bill, continuing my commitment to lower your taxes, promote responsible government, and grow a stronger Georgia economy HB 1001 Supporting Our Law Enforcement I was proud to sponsor and carry HB 1128 this session to strengthen support for the men and women who protect our communities.
 This legislation ensures that law enforcement officers injured in the line of duty receive the support and protections they deserve.
-Standing behind those who serve is not only good policy—it’s the right thing to do.
-2026
-Legislative Update
-2026 Legislative Session: Delivering Results for Georgia Families
-Sine Die marked the conclusion of an exceptionally productive 2026 Legislative Session for the Georgia House of Representatives.
+Standing behind those who serve is not only good policy—it’s the right thing to do. ﻿ HB 1128 2026 ﻿ Legislative Update 2026 Legislative Session: Delivering Results for Georgia Families Sine Die marked the conclusion of an exceptionally productive 2026 Legislative Session for the Georgia House of Representatives.
 Throughout the session, we advanced major priorities focused on early literacy, income and property tax relief, childcare affordability, insurance reform, public safety, healthcare access and economic opportunity.
 These accomplishments reflect our commitment to making Georgia a safer, stronger and more affordable place to live, work and raise a family.
-A Historic Victory for Georgia’s Children
-The Georgia House took historic and decisive action to improve early literacy and ensure that more Georgia children learn to read proficiently.
-The passage of House Bill 1193, the Georgia Early Literacy Act of 2026, represents a monumental step forward for every child who enters a Georgia classroom.
+A Historic Victory for Georgia’s Children The Georgia House took historic and decisive action to improve early literacy and ensure that more Georgia children learn to read proficiently.
+The passage of House Bill 1193, the Georgia Early Literacy Act of 2026 , represents a monumental step forward for every child who enters a Georgia classroom.
 The legislation establishes a grant program to place a literacy coach in every elementary school, expands kindergarten opportunities, creates a statewide literacy task force and directs the Governor’s Office of Student Achievement to develop a comprehensive state literacy plan.
 This legislation will provide teachers, school leaders and parents with stronger resources and a more coordinated strategy for improving literacy outcomes.
 This is only the beginning of what I believe will become one of Georgia’s greatest educational success stories.
 By ensuring that every child has the opportunity to learn to read, we can make a generational difference in the lives of Georgia’s children, families and communities.
 Celebrating the passage of the Georgia Early Literacy Act of 2026.
-Fiscal Year 2027 Budget
-The General Assembly fulfilled its constitutional responsibility by passing a balanced Fiscal Year 2027 budget that reflects our commitment to Georgia’s children, families and communities.
+Fiscal Year 2027 Budget The General Assembly fulfilled its constitutional responsibility by passing a balanced Fiscal Year 2027 budget that reflects our commitment to Georgia’s children, families and communities.
 From historic investments in literacy, education and healthcare to infrastructure, public safety and economic development, this budget directs taxpayer resources toward priorities that will strengthen Georgia today and prepare our state for the future.
-Fiscal Year 2027 Budget Highlights
-- $70.4 million to place school-based literacy coaches in elementary schools across Georgia, along with additional funding for literacy materials, teacher development, statewide screening standards and implementation of the Early Literacy Act.
-- $14.9 billion to fully fund the Quality Basic Education formula for Georgia’s public schools.
-- $4 million in total funding for student mental-health support and school social-worker grants.
-- $9.7 million to expand extended-day Pre-K services and childcare assistance, helping more working families access safe and dependable early-learning opportunities.
-- $100 million in increased contributions to the Employees’ Retirement System to support regular and meaningful cost-of-living adjustments for retired state employees, while continuing funding for an annual supplemental payment to eligible retirees.
-- $11.2 million to expand graduate medical education, including new residency and fellowship opportunities that will help train and retain more physicians in Georgia.
-- $3.7 million to expand the Department of Public Health’s maternal home-visiting program into 33 additional counties, increasing access to critical services for mothers and infants.
-- $13.6 million for Local Maintenance and Improvement Grants supporting road resurfacing and infrastructure projects in communities across the state.
-Addressing Affordability for Georgia Families
-Allowing hardworking Georgians to keep more of the money they earn remains one of my highest priorities.
+Fiscal Year 2027 Budget Highlights $70.4 million to place school-based literacy coaches in elementary schools across Georgia, along with additional funding for literacy materials, teacher development, statewide screening standards and implementation of the Early Literacy Act. $14.9 billion to fully fund the Quality Basic Education formula for Georgia’s public schools. $4 million in total funding for student mental-health support and school social-worker grants. $9.7 million to expand extended-day Pre-K services and childcare assistance, helping more working families access safe and dependable early-learning opportunities. $100 million in increased contributions to the Employees’ Retirement System to support regular and meaningful cost-of-living adjustments for retired state employees, while continuing funding for an annual supplemental payment to eligible retirees. $11.2 million to expand graduate medical education, including new residency and fellowship opportunities that will help train and retain more physicians in Georgia. $3.7 million to expand the Department of Public Health’s maternal home-visiting program into 33 additional counties, increasing access to critical services for mothers and infants. $13.6 million for Local Maintenance and Improvement Grants supporting road resurfacing and infrastructure projects in communities across the state.
+Addressing Affordability for Georgia Families Allowing hardworking Georgians to keep more of the money they earn remains one of my highest priorities.
 This session, we delivered meaningful relief through income-tax reductions, taxpayer rebates, property-tax reform, homeowner relief grants and insurance reforms.
-HB 463 — Income-Tax Relief for Hardworking Georgians
-House Bill 463 immediately reduces Georgia’s individual income-tax rate from 5.19% to 4.99%, retroactive to January 1, 2026.
+HB 463 — Income-Tax Relief for Hardworking Georgians House Bill 463 immediately reduces Georgia’s individual income-tax rate from 5.19% to 4.99% , retroactive to January 1, 2026.
 Beginning in 2027, the legislation increases the standard deduction to $15,000 for individual filers and $30,000 for married couples filing jointly, increases the dependent exemption by $1,000 and raises the retirement-income exclusion to $70,000 per eligible taxpayer.
 The bill also temporarily exempts up to $1,750 in qualified tip or overtime income and establishes a revenue-triggered pathway that could gradually reduce Georgia’s income-tax rate to 3.99% by 2034.
-HB 1000 — Immediate Taxpayer Rebates
-I was proud to co-sponsor House Bill 1000, which returns approximately $1.2 billion to eligible Georgia taxpayers through one-time rebates of up to:
-- $250 for single filers;
-- $375 for heads of household; and
-- $500 for married couples filing jointly.
+HB 1000 — Immediate Taxpayer Rebates I was proud to co-sponsor House Bill 1000, which returns approximately $1.2 billion to eligible Georgia taxpayers through one-time rebates of up to: $250 for single filers; $375 for heads of household; and $500 for married couples filing jointly.
 Because Georgia has budgeted conservatively, we were able to return surplus funds to the taxpayers who earned them.
-SB 33 — Property-Tax Reform
-Senate Bill 33 makes Georgia’s statewide homestead-assessment limitation mandatory for cities, counties and school districts.
+SB 33 — Property-Tax Reform Senate Bill 33 makes Georgia’s statewide homestead-assessment limitation mandatory for cities, counties and school districts.
 The law generally limits annual increases in the taxable assessed value of a homestead to the rate of inflation.
-SB 33 also creates a Local Homestead Option Sales Tax, allowing participating communities to use locally approved sales-tax revenue to reduce property taxes while maintaining local control over essential services.
-$850 Million in Homeowner Tax Relief
-The Amended Fiscal Year 2026 Budget provides $850 million for the Homeowner Tax Relief Grant program.
+SB 33 also creates a Local Homestead Option Sales Tax, allowing participating communities to use locally approved sales-tax revenue to reduce property taxes while maintaining local control over essential services. $850 Million in Homeowner Tax Relief The Amended Fiscal Year 2026 Budget provides $850 million for the Homeowner Tax Relief Grant program.
 The program provides the maximum authorized reduction in assessed value for qualifying homesteads and is expected to save eligible Georgia homeowners approximately $500 on average, depending on local millage rates.
-Childcare Tax Relief Taking Effect in 2026
-Legislation enacted during the 2025 portion of the legislative biennium took effect in 2026 and significantly expanded Georgia’s support for families with young children.
+Childcare Tax Relief Taking Effect in 2026 Legislation enacted during the 2025 portion of the legislative biennium took effect in 2026 and significantly expanded Georgia’s support for families with young children.
 These reforms increased Georgia’s child and dependent-care tax credit, created a $250 state income-tax credit for each qualifying child under age six and established new tax incentives for employers that help employees pay for childcare.
-HB 1344 — Georgia Insurance Affordability and Claims Integrity Act
-House Bill 1344 is designed to improve affordability, fairness and accountability in Georgia’s insurance market.
+HB 1344 — Georgia Insurance Affordability and Claims Integrity Act House Bill 1344 is designed to improve affordability, fairness and accountability in Georgia’s insurance market.
 The legislation establishes reforms intended to protect consumers from unjustified rate increases and unfair business practices while requiring claims to be processed more promptly, transparently and consistently with policy provisions and state and federal law.
-Legislation I Sponsored, Co-Sponsored or Carried
-In addition to supporting the House’s broader priorities, I was honored to sponsor, co-sponsor or carry several important measures that received final passage.
-HB 1129 — Enterprise-Zone Accountability
-I sponsored House Bill 1129, a priority of Governor Brian Kemp, to establish stronger guardrails for state-designated enterprise zones.
+Legislation I Sponsored, Co-Sponsored or Carried In addition to supporting the House’s broader priorities, I was honored to sponsor, co-sponsor or carry several important measures that received final passage.
+HB 1129 — Enterprise-Zone Accountability I sponsored House Bill 1129, a priority of Governor Brian Kemp, to establish stronger guardrails for state-designated enterprise zones.
 The legislation protects the original economic-development purpose of the program, limits the proliferation of enterprise zones and helps prevent incentives from being used in ways that place responsible businesses and taxpayers at an unfair disadvantage.
-HB 1128 — Protecting Injured Peace Officers
-I sponsored House Bill 1128 to ensure that the legal guardians of severely injured peace officers receive information regarding available workers’ compensation and state indemnification benefits.
+HB 1128 — Protecting Injured Peace Officers I sponsored House Bill 1128 to ensure that the legal guardians of severely injured peace officers receive information regarding available workers’ compensation and state indemnification benefits.
 The legislation also created a renewed application opportunity for certain officers incapacitated by line-of-duty brain injuries who may previously have been unable to complete the indemnification process.
-HB 549 — Peace-Officer Training Reimbursement
-I sponsored House Bill 549 to strengthen law-enforcement recruitment and retention by extending the period during which an agency may recover eligible training expenses when a newly trained peace officer leaves for another agency.
+HB 549 — Peace-Officer Training Reimbursement I sponsored House Bill 549 to strengthen law-enforcement recruitment and retention by extending the period during which an agency may recover eligible training expenses when a newly trained peace officer leaves for another agency.
 This reform helps protect the significant investment made by taxpayers and local departments in recruiting and training Georgia peace officers.
-HB 668 — Protecting Service Dogs and the People Who Depend on Them
-I co-sponsored House Bill 668, which modernizes Georgia’s service-dog laws, strengthens penalties for harming a service dog and establishes consequences for individuals who falsely represent an animal as a service dog.
+HB 668 — Protecting Service Dogs and the People Who Depend on Them I co-sponsored House Bill 668, which modernizes Georgia’s service-dog laws, strengthens penalties for harming a service dog and establishes consequences for individuals who falsely represent an animal as a service dog.
 These protections are important for Georgians with disabilities who depend on properly trained service animals for their safety, independence and quality of life.
-HB 1159 — Supporting Georgia Farmers
-I co-sponsored House Bill 1159, which exempts assistance received through the United States Department of Agriculture’s Farmer Bridge Assistance Program from Georgia income taxes.
+HB 1159 — Supporting Georgia Farmers I co-sponsored House Bill 1159, which exempts assistance received through the United States Department of Agriculture’s Farmer Bridge Assistance Program from Georgia income taxes.
 This measure ensures that emergency assistance intended to help farmers recover and remain financially viable is not reduced by an additional state tax burden.
-SB 383 — Strengthening Child-Fatality Reviews
-I was honored to carry Senate Bill 383 in the Georgia House.
+SB 383 — Strengthening Child-Fatality Reviews I was honored to carry Senate Bill 383 in the Georgia House.
 This legislation strengthens Georgia’s child-fatality review system by improving committee membership, training requirements, review procedures and reporting deadlines.
 These reforms will help the state better understand the circumstances surrounding child deaths and identify opportunities to prevent future tragedies.
-Unfinished Business: HB 61 and the Fight Against Squatting
-One important piece of legislation remains unfinished.
-Building on House Bill 1017, the Georgia Squatter Reform Act that I sponsored and helped pass in 2024, I introduced House Bill 61 titled the Georgia Anti-Squatting Act of 2026 to close some loopholes continuing to be exploited.
-The legislation will strengthened protections for property owners by:
-- Expanding magistrate-court jurisdiction over unlawful-squatting cases;
-- Strengthening restitution and criminal penalties;
-- Creating a verified-complaint process for the immediate removal of unlawful squatters;
-- Clarifying procedures governing innkeepers and guests;
-- Allowing property owners to use qualified off-duty peace officers when writs of possession are not executed promptly; and
-- Increasing penalties for the use of fraudulent leases or property documents.
+Unfinished Business: HB 61 and the Fight Against Squatting One important piece of legislation remains unfinished.
+Building on House Bill 1017, the Georgia Squatter Reform Act that I sponsored and helped pass in 2024 , I introduced House Bill 61 titled the Georgia Anti-Squatting Act of 2026 to close some loopholes continuing to be exploited.
+The legislation will strengthened protections for property owners by: Expanding magistrate-court jurisdiction over unlawful-squatting cases; Strengthening restitution and criminal penalties; Creating a verified-complaint process for the immediate removal of unlawful squatters; Clarifying procedures governing innkeepers and guests; Allowing property owners to use qualified off-duty peace officers when writs of possession are not executed promptly; and Increasing penalties for the use of fraudulent leases or property documents.
 Although the Senate passed the bill with an amendment, the House tabled the measure before adjournment, and it did not receive final passage before the gavel of sine-die.
 Property owners should not have to spend months navigating the court system while criminals occupy, damage or profit from property they do not own.
 Strengthening Georgia’s anti-squatting laws will be one of my priorities in 2027 and I remain committed to completing that work on an important policy affecting the safety of our property owners.
-Thank You, House District 34
-It is an extraordinary privilege to represent the people of House District 34 at the State Capitol.
+Thank You, House District 34 It is an extraordinary privilege to represent the people of House District 34 at the State Capitol.
 Every vote I cast and every piece of legislation I support is guided by a simple responsibility: to protect our families, strengthen our communities, respect the taxpayers and preserve the opportunities that make Georgia such a special place to call home.
 Beth and I are deeply grateful for your encouragement, your prayers and the trust you have placed in us.
 Thank you for giving us the honor of serving the families and communities of House District 34.
 I will continue working hard, listening to you and fighting for the values and priorities that matter.
 May God continue to bless you, House District 34 and the great State of Georgia.
-Blessings,
-Rep.
-Devan Seabaugh
-Governor's Floor Leader
-House District 34
-Stay updated throughout the upcoming Session by signing up for my "Capitol Connections" newsletter.
-Click here for access to Representative Seabaugh's Georgia General Assembly Website
+Blessings, Rep.
+Devan Seabaugh Governor's Floor Leader House District 34 Stay updated throughout the upcoming Session by signing up for my "Capitol Connections" newsletter.
+Click here for access to Representative Seabaugh's Georgia General Assembly Website Share by:

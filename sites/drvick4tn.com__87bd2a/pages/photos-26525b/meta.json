@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://drvick4tn.com/photos",
- "paid_for_by": null,
+ "fingerprint": "fab07735a13e7bed6d5a988652cdca287f38e19f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

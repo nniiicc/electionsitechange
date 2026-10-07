@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/https://bsky.app/profile/mcclainforsc.bsky.social",
-"https://canva.com/design/DAHBDjr2yu4/7qzDYB0Y-SM99rJfUb7qxQ/view?utlId=hd12ddd311c",
-"https://designedtorun.com/",
-"https://facebook.com/share/16Di3wdnFt?mibextid=wwXIfr",
-"https://instagram.com/mcclainforcongress?igsh=NGwxOHU3bXBiZ3lp",
-"https://mcclainforsc.com/",
-"https://mcclainforsc.com/campaign-merch",
-"https://mcclainforsc.com/contact",
-"https://mcclainforsc.com/events",
-"https://mcclainforsc.com/issues",
-"https://mcclainforsc.com/volunteer-here",
-"https://secure.actblue.com/donate/mcclainforsc",
-"https://threads.net/@https://www.threads.com/@mcclainforcongress?igshid=NTc4MTIwNjQ2YQ%3D%3D",
-"https://tiktok.com/@mcclain.for.sc?_t=ZT-90bF5ltvW8L&_r=1"
+{
+"text": "Campaign Merch",
+"href": "https://www.mcclainforsc.com/campaign-merch"
+},
+{
+"text": "Contact",
+"href": "https://www.mcclainforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mcclainforsc"
+},
+{
+"text": "Events",
+"href": "https://www.mcclainforsc.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.mcclainforsc.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Terms of Service Privacy and Policy",
+"href": "https://www.canva.com/design/DAHBDjr2yu4/7qzDYB0Y-SM99rJfUb7qxQ/view?utlId=hd12ddd311c"
+},
+{
+"text": "Volunteer Here!",
+"href": "https://www.mcclainforsc.com/volunteer-here"
+},
+{
+"text": "[image: McClainforSC logo]",
+"href": "https://www.mcclainforsc.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.mcclainforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/https://bsky.app/profile/mcclainforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/16Di3wdnFt/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mcclainforcongress?igsh=NGwxOHU3bXBiZ3lp"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@https://www.threads.com/@mcclainforcongress?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@mcclain.for.sc?_t=ZT-90bF5ltvW8L&_r=1"
+},
+{
+"text": "info@mcclainforsc.com",
+"href": "mailto:info@mcclainforsc.com"
+}
 ]

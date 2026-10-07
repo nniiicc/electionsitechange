@@ -1,61 +1,422 @@
 [
-"https://bsky.app/profile/mt4congress.bsky.social",
-"https://facebook.com/mikethompsonforcongress",
-"https://instagram.com/mikethompson4congress",
-"https://mikethompsonforcongress.com/",
-"https://mikethompsonforcongress.com/biography",
-"https://mikethompsonforcongress.com/donate",
-"https://mikethompsonforcongress.com/endorsements",
-"https://mikethompsonforcongress.com/events",
-"https://mikethompsonforcongress.com/fourth-district",
-"https://mikethompsonforcongress.com/issues",
-"https://mikethompsonforcongress.com/issues/bay-delta-conservation-plan",
-"https://mikethompsonforcongress.com/issues/fiscal-responsibility",
-"https://mikethompsonforcongress.com/issues/gun-violence-prevention",
-"https://mikethompsonforcongress.com/issues/health-care",
-"https://mikethompsonforcongress.com/issues/housing",
-"https://mikethompsonforcongress.com/issues/immigration",
-"https://mikethompsonforcongress.com/issues/jobs-and-economy",
-"https://mikethompsonforcongress.com/issues/seniors",
-"https://mikethompsonforcongress.com/news",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-applauds-napa-renewable-natural-gas-project-powered-inflation-reduction-act",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-convenes-sonoma-valley-affordability-roundtable-discuss-cost-living-crisis",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-holds-ask-me-anything-town-hall-sonoma-valley",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-leads-over-700-community-members-napa-and-woodland-no-forever-wars-days",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-presents-12-million-check-build-sidewalks-and-bike-lanes-along-state-route",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-presents-250000-check-build-microgrid-yountville",
-"https://mikethompsonforcongress.com/news/rep-mike-thompson-presents-850000-check-support-napa-valley-vine-trail-connection-between",
-"https://mikethompsonforcongress.com/news/thompson-and-aguiar-curry-honor-2026-student-leadership-council-graduates",
-"https://mikethompsonforcongress.com/news/thompson-announces-2026-congressional-art-competition",
-"https://mikethompsonforcongress.com/news/thompson-announces-2026-lake-county-woman-year",
-"https://mikethompsonforcongress.com/news/thompson-announces-2026-napa-county-woman-year",
-"https://mikethompsonforcongress.com/news/thompson-announces-2026-solano-county-woman-year",
-"https://mikethompsonforcongress.com/news/thompson-announces-2026-sonoma-county-woman-year",
-"https://mikethompsonforcongress.com/news/thompson-announces-2026-yolo-county-woman-year",
-"https://mikethompsonforcongress.com/news/thompson-hosts-community-members-lincoln-community-coffee",
-"https://mikethompsonforcongress.com/news/thompson-issues-statement-passage-republicans-homeland-security-funding-bill",
-"https://mikethompsonforcongress.com/news/thompson-joined-senator-chris-cabaldon-roundtable-support-ag-community",
-"https://mikethompsonforcongress.com/news/thompson-passes-disaster-relief-bill-through-ways-and-means-committee",
-"https://mikethompsonforcongress.com/news/thompson-passes-irs-whistleblower-act-through-ways-and-means-committee",
-"https://mikethompsonforcongress.com/news/thompson-schiff-valadao-lead-call-usda-assistance-peach-farmers-california-farmers-need-relief",
-"https://mikethompsonforcongress.com/news?page=0",
-"https://mikethompsonforcongress.com/news?page=1",
-"https://mikethompsonforcongress.com/news?page=2",
-"https://mikethompsonforcongress.com/news?page=3",
-"https://mikethompsonforcongress.com/news?page=4",
-"https://mikethompsonforcongress.com/news?page=5",
-"https://mikethompsonforcongress.com/news?page=56",
-"https://mikethompsonforcongress.com/news?page=6",
-"https://mikethompsonforcongress.com/news?page=7",
-"https://mikethompsonforcongress.com/news?page=8",
-"https://mikethompsonforcongress.com/privacy-policy",
-"https://mikethompsonforcongress.com/resources",
-"https://mikethompsonforcongress.com/subscribe",
-"https://mikethompsonforcongress.com/terms",
-"https://mikethompsonforcongress.com/volunteer",
-"https://mikethompsonforcongress.com/what-has-mike-thompson-accomplished",
-"https://threads.com/@mikethompson4congress",
-"https://tiktok.com/@mt4congress",
-"https://twitter.com/Mike_CA05",
-"https://youtube.com/@mikethompsonforcongress"
+{
+"text": "Bay Delta Conservation Plan",
+"href": "https://www.mikethompsonforcongress.com/issues/bay-delta-conservation-plan"
+},
+{
+"text": "Biography",
+"href": "https://www.mikethompsonforcongress.com/biography"
+},
+{
+"text": "Current page 5",
+"href": "https://www.mikethompsonforcongress.com/news?page=4"
+},
+{
+"text": "Donate",
+"href": "https://www.mikethompsonforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikethompsonforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mikethompsonforcongress.com/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Fiscal Responsibility",
+"href": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+},
+{
+"text": "Fourth Congressional District",
+"href": "https://www.mikethompsonforcongress.com/fourth-district"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention"
+},
+{
+"text": "Health Care",
+"href": "https://www.mikethompsonforcongress.com/issues/health-care"
+},
+{
+"text": "Housing",
+"href": "https://www.mikethompsonforcongress.com/issues/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.mikethompsonforcongress.com/issues/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.mikethompsonforcongress.com/issues"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.mikethompsonforcongress.com/issues/jobs-and-economy"
+},
+{
+"text": "Lake County, CA – On Sunday, Rep. Mike Thompson (CA-04) announced that Voris Brumfield Reed was chosen as the 2026 Lake County Woman of the Year.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-lake-county-woman-year"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.mikethompsonforcongress.com/news?page=56"
+},
+{
+"text": "Lincoln, CA – On Saturday, March 14th, Congressman Mike Thompson hosted a community coffee to hear from constituents in California’s newly formed Fourth Congressional District. Congressman Thompson heard from constituents about the threats facing our democracy, the rising cost of living in Placer County, and this administration’s unconstitutional war in Iran.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-hosts-community-members-lincoln-community-coffee"
+},
+{
+"text": "Mike Thompson for Congress on Bluesky",
+"href": "https://bsky.app/profile/mt4congress.bsky.social"
+},
+{
+"text": "Mike Thompson for Congress on Facebook",
+"href": "https://www.facebook.com/mikethompsonforcongress"
+},
+{
+"text": "Mike Thompson for Congress on Instagram",
+"href": "https://www.instagram.com/mikethompson4congress/"
+},
+{
+"text": "Mike Thompson for Congress on Threads",
+"href": "https://www.threads.com/@mikethompson4congress"
+},
+{
+"text": "Mike Thompson for Congress on TikTok",
+"href": "https://www.tiktok.com/@mt4congress"
+},
+{
+"text": "Mike Thompson for Congress on X",
+"href": "https://twitter.com/Mike_CA05"
+},
+{
+"text": "Mike Thompson for Congress on Youtube",
+"href": "https://www.youtube.com/@mikethompsonforcongress"
+},
+{
+"text": "Napa County, CA – On Sunday, Rep. Mike Thompson (CA-04) announced that Leslie Lew was chosen as the 2026 Napa County Woman of the Year.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-napa-county-woman-year"
+},
+{
+"text": "Napa County, CA — Congressman Mike Thompson (CA-04) yesterday presented an $850,000 federal funding check to the Napa Valley Vine Trail Coalition to support the development of a key segment of the Napa Valley Vine Trail between Yountville and St. Helena.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-850000-check-support-napa-valley-vine-trail-connection-between"
+},
+{
+"text": "Napa and Woodland, CA — Congressman Mike Thompson (CA-04) led over 700 community members, veterans, and military families this weekend in Napa and Woodland for “No Forever Wars” Day of Action events calling for congressional oversight regarding the U.S. military involvement in Iran.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-leads-over-700-community-members-napa-and-woodland-no-forever-wars-days"
+},
+{
+"text": "Napa, CA – On Saturday, March 7, Rep. Mike Thompson (CA-04) and Assembly Majority Leader Cecilia Aguiar-Curry recognized the 2026 Student Leadership Council graduates at an end-of-year graduation ceremony held at the Napa County Health & Human Services Agency.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-and-aguiar-curry-honor-2026-student-leadership-council-graduates"
+},
+{
+"text": "Napa, CA — Congressman Mike Thompson (CA-04) applauded the City of Napa’s new anaerobic digestion system, a transformative clean energy project that will convert organic waste into renewable natural gas to power the city’s garbage and recycling trucks.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-applauds-napa-renewable-natural-gas-project-powered-inflation-reduction-act"
+},
+{
+"text": "News",
+"href": "https://www.mikethompsonforcongress.com/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.mikethompsonforcongress.com/news?page=5"
+},
+{
+"text": "Page 1",
+"href": "https://www.mikethompsonforcongress.com/news?page=0"
+},
+{
+"text": "Page 2",
+"href": "https://www.mikethompsonforcongress.com/news?page=1"
+},
+{
+"text": "Page 3",
+"href": "https://www.mikethompsonforcongress.com/news?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.mikethompsonforcongress.com/news?page=3"
+},
+{
+"text": "Page 6",
+"href": "https://www.mikethompsonforcongress.com/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.mikethompsonforcongress.com/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.mikethompsonforcongress.com/news?page=7"
+},
+{
+"text": "Page 9",
+"href": "https://www.mikethompsonforcongress.com/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.mikethompsonforcongress.com/news?page=3"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikethompsonforcongress.com/privacy-policy"
+},
+{
+"text": "REP. MIKE THOMPSON CONVENES SONOMA VALLEY AFFORDABILITY ROUNDTABLE TO DISCUSS COST-OF-LIVING CRISIS",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-convenes-sonoma-valley-affordability-roundtable-discuss-cost-living-crisis"
+},
+{
+"text": "REP. MIKE THOMPSON HOLDS \"ASK ME ANYTHING\" TOWN HALL IN SONOMA VALLEY",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-holds-ask-me-anything-town-hall-sonoma-valley"
+},
+{
+"text": "REP. MIKE THOMPSON LEADS OVER 700 COMMUNITY MEMBERS IN NAPA AND WOODLAND FOR “NO FOREVER WARS” DAYS OF ACTION",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-leads-over-700-community-members-napa-and-woodland-no-forever-wars-days"
+},
+{
+"text": "REP. MIKE THOMPSON PRESENTS $1.2 MILLION CHECK TO BUILD SIDEWALKS AND BIKE LANES ALONG STATE ROUTE 12 IN SONOMA COUNTY",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-12-million-check-build-sidewalks-and-bike-lanes-along-state-route"
+},
+{
+"text": "REP. MIKE THOMPSON PRESENTS $850,000 CHECK TO SUPPORT NAPA VALLEY VINE TRAIL CONNECTION BETWEEN YOUNTVILLE AND ST. HELENA",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-850000-check-support-napa-valley-vine-trail-connection-between"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-applauds-napa-renewable-natural-gas-project-powered-inflation-reduction-act"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-convenes-sonoma-valley-affordability-roundtable-discuss-cost-living-crisis"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-holds-ask-me-anything-town-hall-sonoma-valley"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-leads-over-700-community-members-napa-and-woodland-no-forever-wars-days"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-12-million-check-build-sidewalks-and-bike-lanes-along-state-route"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-250000-check-build-microgrid-yountville"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-850000-check-support-napa-valley-vine-trail-connection-between"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-and-aguiar-curry-honor-2026-student-leadership-council-graduates"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-congressional-art-competition"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-lake-county-woman-year"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-napa-county-woman-year"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-solano-county-woman-year"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-sonoma-county-woman-year"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-yolo-county-woman-year"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-hosts-community-members-lincoln-community-coffee"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-passage-republicans-homeland-security-funding-bill"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joined-senator-chris-cabaldon-roundtable-support-ag-community"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-passes-disaster-relief-bill-through-ways-and-means-committee"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-passes-irs-whistleblower-act-through-ways-and-means-committee"
+},
+{
+"text": "Read more",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-schiff-valadao-lead-call-usda-assistance-peach-farmers-california-farmers-need-relief"
+},
+{
+"text": "Rep. Mike Thompson Applauds Napa Renewable Natural Gas Project Powered by Inflation Reduction Act Tax Credits",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-applauds-napa-renewable-natural-gas-project-powered-inflation-reduction-act"
+},
+{
+"text": "Rep. Mike Thompson Presents $250,000 Check to build microgrid in Yountville",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-250000-check-build-microgrid-yountville"
+},
+{
+"text": "Resources",
+"href": "https://www.mikethompsonforcongress.com/resources"
+},
+{
+"text": "Seniors",
+"href": "https://www.mikethompsonforcongress.com/issues/seniors"
+},
+{
+"text": "Solano County, CA – On Sunday, Rep. Mike Thompson (CA-04) announced that Margi Stern was chosen as the 2025 Solano County Woman of the Year. Each year, Rep. Thompson chooses women from California’s Fourth Congressional District to honor for their positive contributions to our community.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-solano-county-woman-year"
+},
+{
+"text": "Sonoma County, CA – On Sunday, Rep. Mike Thompson (CA-04) announced that Maricarmen Reyes Larios was chosen as the 2026 Sonoma County Woman of the Year.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-sonoma-county-woman-year"
+},
+{
+"text": "Sonoma County, CA — Congressman Mike Thompson (CA-04) convened a community roundtable in Boyes Hot Springs to discuss the affordability crisis facing families across Sonoma Valley and highlight the American Affordability Act, his comprehensive legislation aimed at lowering the cost of living for working families.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-convenes-sonoma-valley-affordability-roundtable-discuss-cost-living-crisis"
+},
+{
+"text": "Sonoma County, CA — Congressman Mike Thompson (CA-04) presented a $1.2 million federal funding check to Sonoma County to construct new sidewalks and bike lanes along State Route 12, improving safe access for pedestrians and cyclists in the surrounding community.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-12-million-check-build-sidewalks-and-bike-lanes-along-state-route"
+},
+{
+"text": "Sonoma Valley, CA — Congressman Mike Thompson (CA-04) hosted an \"Ask Me Anything\" town hall at the Sonoma Community Center, giving Sonoma Valley constituents the opportunity to ask their representative anything on their minds.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-holds-ask-me-anything-town-hall-sonoma-valley"
+},
+{
+"text": "Subscribe",
+"href": "https://www.mikethompsonforcongress.com/subscribe"
+},
+{
+"text": "THOMPSON AND AGUIAR-CURRY HONOR 2026 STUDENT LEADERSHIP COUNCIL GRADUATES",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-and-aguiar-curry-honor-2026-student-leadership-council-graduates"
+},
+{
+"text": "THOMPSON ANNOUNCES 2026 CONGRESSIONAL ART COMPETITION",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-congressional-art-competition"
+},
+{
+"text": "THOMPSON JOINED BY SENATOR CHRIS CABALDON FOR ROUNDTABLE IN SUPPORT OF AG COMMUNITY",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joined-senator-chris-cabaldon-roundtable-support-ag-community"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mikethompsonforcongress.com/terms"
+},
+{
+"text": "Thompson Announces 2026 Lake County Woman of the Year",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-lake-county-woman-year"
+},
+{
+"text": "Thompson Announces 2026 Napa County Woman of the Year",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-napa-county-woman-year"
+},
+{
+"text": "Thompson Announces 2026 Solano County Woman of the Year",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-solano-county-woman-year"
+},
+{
+"text": "Thompson Announces 2026 Sonoma County Woman of the Year",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-sonoma-county-woman-year"
+},
+{
+"text": "Thompson Announces 2026 Yolo County Woman of the Year",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-yolo-county-woman-year"
+},
+{
+"text": "Thompson Hosts Community Members in Lincoln for Community Coffee",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-hosts-community-members-lincoln-community-coffee"
+},
+{
+"text": "Thompson Issues Statement on Passage of Republicans' Homeland Security Funding Bill",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-passage-republicans-homeland-security-funding-bill"
+},
+{
+"text": "Thompson Passes Disaster Relief Bill Through Ways and Means Committee",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-passes-disaster-relief-bill-through-ways-and-means-committee"
+},
+{
+"text": "Thompson Passes IRS Whistleblower Act Through Ways and Means Committee",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-passes-irs-whistleblower-act-through-ways-and-means-committee"
+},
+{
+"text": "Thompson, Schiff, Valadao Lead Call for USDA Assistance for Peach Farmers California Farmers Need Relief Following Peach Processing Plant Closure",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-schiff-valadao-lead-call-usda-assistance-peach-farmers-california-farmers-need-relief"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikethompsonforcongress.com/volunteer"
+},
+{
+"text": "Washington — Rep. Mike Thompson (CA-04) today announced the 2026 Congressional Art Competition, open to all high school students in California's Fourth Congressional District.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-congressional-art-competition"
+},
+{
+"text": "Washington, D.C. – On Wednesday, Ranking Member of the Ways & Means Subcommittee on Tax Rep. Mike Thompson (CA-04) and Rep. Greg Steube’s (FL-17) bill providing tax relief to future disaster victims passed through the Ways and Means Committee with a unanimous vote.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-passes-disaster-relief-bill-through-ways-and-means-committee"
+},
+{
+"text": "Washington, D.C. – On Wednesday, Ranking Member of the Ways & Means Subcommittee on Tax Rep. Mike Thompson (D-CA-04) and Chairman of the Subcommittee on Tax Rep. Mike Kelly’s (R-PA-16) IRS Whistleblower Program Improvement Act passed the Ways and Means Committee with a unanimous vote.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-passes-irs-whistleblower-act-through-ways-and-means-committee"
+},
+{
+"text": "Washington, D.C. – Rep. Mike Thompson (CA-04) released the following statement in response to Republicans’ passage of a 60-day funding bill for the Department of Homeland Security.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-issues-statement-passage-republicans-homeland-security-funding-bill"
+},
+{
+"text": "What has Mike Thompson Accomplished?",
+"href": "https://www.mikethompsonforcongress.com/what-has-mike-thompson-accomplished"
+},
+{
+"text": "Woodland, CA — Rep. Mike Thompson (CA-04) was joined by State Senator Christopher Cabaldon (CA-SD-03) for a roundtable discussion with local farmers, ranchers, processors, and agricultural leaders at the Yolo County Farm Bureau to discuss the challenges facing California’s agricultural community and how state and federal leaders can work together to support the industry.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-joined-senator-chris-cabaldon-roundtable-support-ag-community"
+},
+{
+"text": "Yolo County, CA – On Sunday, Rep. Mike Thompson (CA-04) announced that Marisa Alcorta was chosen as the 2026 Yolo County Woman of the Year. Each year, Rep. Thompson chooses women from California’s Fourth Congressional District to honor for their positive contributions to our community.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-announces-2026-yolo-county-woman-year"
+},
+{
+"text": "Yountville – Rep. Mike Thompson (CA-04) presented a $250,000 check to Mayor Margie Mohler and City Manager Brad Raulston for the Town of Yountville’s Resiliency Microgrid Project.",
+"href": "https://www.mikethompsonforcongress.com/news/rep-mike-thompson-presents-250000-check-build-microgrid-yountville"
+},
+{
+"text": "Yuba-Sutter Region, California – Today, Rep. Mike Thompson (D-CA-04), Senator Adam Schiff (D-CA), and Rep. David Valadao (R-CA-22) led a bipartisan group of 39 colleagues to request Secretary of Agriculture Brooke Rollins issue assistance to peach farmers in Yuba and Sutter Counties.",
+"href": "https://www.mikethompsonforcongress.com/news/thompson-schiff-valadao-lead-call-usda-assistance-peach-farmers-california-farmers-need-relief"
+},
+{
+"text": "[image: Home]",
+"href": "https://www.mikethompsonforcongress.com/"
+},
+{
+"text": "info@mikethompsonforcongress.com",
+"href": "mailto:info@mikethompsonforcongress.com"
+},
+{
+"text": "press@mikethompsonforcongress.com",
+"href": "mailto:press@mikethompsonforcongress.com"
+}
 ]

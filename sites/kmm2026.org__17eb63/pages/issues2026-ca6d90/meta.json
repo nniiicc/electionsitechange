@@ -1,7 +1,13 @@
 {
  "description": "Issues that are important for the future of Texas.",
  "final_url": "https://www.kmm2026.org/issues2026",
- "paid_for_by": null,
+ "fingerprint": "55f35311276137047e7b514e66b8046e501cd3ee",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues-2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "1980",
+  "2016",
+  "2026"
+ ]
 }

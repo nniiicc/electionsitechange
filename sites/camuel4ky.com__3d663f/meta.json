@@ -1,7 +1,11 @@
 {
  "description": "Find out who your state representative in Kentucky is and connect with Adrielle Camuel&#39;s campaign for positive change.",
  "final_url": "https://camuel4ky.com/",
+ "fingerprint": "486c40af3951ff960b4540320d3aca1c0bad3a96",
+ "format": 3,
  "paid_for_by": "Paid for by Adrielle Camuel for Kentucky Abby Helton, Treasurer Adrielle@CamuelForKY",
  "title": "Adrielle Camuel for Kentucky",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

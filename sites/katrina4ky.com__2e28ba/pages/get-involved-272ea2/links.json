@@ -1,13 +1,58 @@
 [
-"https://democrats.org/where-we-stand/party-platform",
-"https://elect.ky.gov/Pages/default.aspx",
-"https://katrina4ky.com/",
-"https://katrina4ky.com/endorsements",
-"https://katrina4ky.com/get-involved",
-"https://katrina4ky.com/home",
-"https://katrina4ky.com/meet-katrina",
-"https://katrina4ky.com/platform",
-"https://katrina4ky.com/portfolio",
-"https://secure.actblue.com/donate/katrina4ky",
-"https://wix.com/"
+{
+"text": "CALENDAR",
+"href": "https://www.katrina4ky.com/home"
+},
+{
+"text": "DNC Platform",
+"href": "https://democrats.org/where-we-stand/party-platform/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/katrina4ky"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.katrina4ky.com/endorsements"
+},
+{
+"text": "GALLERY",
+"href": "https://www.katrina4ky.com/portfolio"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.katrina4ky.com/get-involved"
+},
+{
+"text": "Katrina Sexton",
+"href": "https://www.katrina4ky.com/home"
+},
+{
+"text": "MEET Katrina",
+"href": "https://www.katrina4ky.com/meet-katrina"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.katrina4ky.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://elect.ky.gov/Pages/default.aspx"
+},
+{
+"text": "WELCOME",
+"href": "https://www.katrina4ky.com"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "for State Representative 55th District",
+"href": "https://www.katrina4ky.com/home"
+},
+{
+"text": "katrina4ky@gmail.com",
+"href": "mailto:katrina4ky@gmail.com"
+}
 ]

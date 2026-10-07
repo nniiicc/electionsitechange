@@ -1,8 +1,26 @@
 [
-"https://edformo.com/about-ed",
-"https://edformo.com/contact",
-"https://edformo.com/donate",
-"https://edformo.com/platform",
-"https://edformo.com/updates",
-"https://edformo.com/volunteer"
+{
+"text": "About Ed",
+"href": "https://edformo.com/about-ed"
+},
+{
+"text": "Contact",
+"href": "https://edformo.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://edformo.com/donate"
+},
+{
+"text": "Platform",
+"href": "https://edformo.com/platform"
+},
+{
+"text": "Updates",
+"href": "https://edformo.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://edformo.com/volunteer"
+}
 ]

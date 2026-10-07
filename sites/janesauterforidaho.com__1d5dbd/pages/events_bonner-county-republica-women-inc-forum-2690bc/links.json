@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bonner+County+Republica+Women+Inc.+Forum&dates=20260922T190000Z%2F20260922T210000Z&location=1325+Pine+Street%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States",
-"http://maps.google.com/?q=1325+Pine+Street+Sandpoint%2C+Idaho%2C+83864+United+States",
-"https://facebook.com/profile.php?id=61582690706514",
-"https://instagram.com/p/DV2D8Sql2hj",
-"https://janesauterforidaho.com/",
-"https://janesauterforidaho.com/about-me",
-"https://janesauterforidaho.com/cart",
-"https://janesauterforidaho.com/contact-me",
-"https://janesauterforidaho.com/events",
-"https://janesauterforidaho.com/events/bonner-county-republica-women-inc-forum?format=ical",
-"https://janesauterforidaho.com/events/pro-life-get-out-the-vote-workshop",
-"https://janesauterforidaho.com/events/property-tax-discussion",
-"https://janesauterforidaho.com/gallery",
-"https://janesauterforidaho.com/introduction",
-"https://janesauterforidaho.com/media",
-"https://janesauterforidaho.com/news",
-"https://secure.anedot.com/janesauterforidaho/donate",
-"https://x.com/janesauterforID",
-"https://youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1325+pine+street+sandpoint%2C+idaho%2C+83864+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janesauterforidaho.com/cart"
+},
+{
+"text": "About me",
+"href": "https://www.janesauterforidaho.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Contact me",
+"href": "https://www.janesauterforidaho.com/contact-me"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/janesauterforidaho/donate"
+},
+{
+"text": "Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.janesauterforidaho.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bonner+County+Republica+Women+Inc.+Forum&dates=20260922T190000Z%2F20260922T210000Z&location=1325+Pine+Street%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.janesauterforidaho.com/events/bonner-county-republica-women-inc-forum?format=ical"
+},
+{
+"text": "Introduction",
+"href": "https://www.janesauterforidaho.com/introduction"
+},
+{
+"text": "Media",
+"href": "https://www.janesauterforidaho.com/media"
+},
+{
+"text": "News",
+"href": "https://www.janesauterforidaho.com/news"
+},
+{
+"text": "Next Next September 29 Property Tax Discussion",
+"href": "https://www.janesauterforidaho.com/events/property-tax-discussion"
+},
+{
+"text": "Previous Previous August 27 Pro-Life Get Out The Vote Workshop",
+"href": "https://www.janesauterforidaho.com/events/pro-life-get-out-the-vote-workshop"
+},
+{
+"text": "[image: Jane Sauter for Idaho]",
+"href": "https://www.janesauterforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582690706514"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DV2D8Sql2hj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/janesauterforID"
+}
 ]

@@ -1,12 +1,8 @@
-Issues That Matter
-Acting On Climate Change
-Progress
-Lauren believes we must achieve a 100% clean energy economy by 2050.
+Skip to main content menu close About Issues keyboard_arrow_down Reproductive Freedom Healthcare Costs Climate Change Immigration & Border Security Gun Violence Our Economy Our Veterans Action Vote Shop Contact Us keyboard_arrow_down Get a Yard Sign Press Inquiries Donate About Issues keyboard_arrow_down Reproductive Freedom Healthcare Costs Climate Change Immigration & Border Security Gun Violence Our Economy Our Veterans Action Vote Shop Contact Us keyboard_arrow_down Get a Yard Sign Press Inquiries Issues That Matter Acting On Climate Change Progress Lauren believes we must achieve a 100% clean energy economy by 2050.
 That’s why she supported the Inflation Reduction Act, the single largest climate investment in U.S. history!
 This new law accelerates our transition to a clean energy economy and makes it more affordable for families to make energy efficiency updates to their homes.
 In the face of the Trump Administration’s attacks on science, Lauren passed bipartisan legislation that would prevent federal agencies like USDA from censoring public information about climate change.
-Local Wins
-- This bus will be part of the larger Pace system and will be used in the I-55 service – for Plainfield and other southwest suburbs.
-- This project is to help revive the nearly 100 acres wetlands and almost 9,00 feet of headwater streams.
-Learn More
-Lauren continues to advance legislation in order to:
+Local Wins $1,280,000 for Pace Electric Bus in Plainfield, IL add remove This bus will be part of the larger Pace system and will be used in the I-55 service – for Plainfield and other southwest suburbs. $975,000 for the Hackmatack National Wildlife Refuge/Nippersink Creek Restoration Project add remove This project is to help revive the nearly 100 acres wetlands and almost 9,00 feet of headwater streams.
+Learn More Lauren continues to advance legislation in order to: Address the harmful effects of climate change chevron_right Empower farmers and producers to fight the climate crisis chevron_right Previous: Gun Violence Next: Immigration & Border Security Paid for by Lauren Underwood for Congress 13400 S.
+ROUTE 59 STE.
+116 BOX 248 PLAINFIELD IL, 60585 ©# LAUREN UNDERWOOD | Privacy Policy Built With 💙 by Blueshift

@@ -1,16 +1,58 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://caribbeanlifenews.com/congresswoman-clarke-calls-on-constituents-to-vote",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "here.",
+"href": "https://www.caribbeanlifenews.com/congresswoman-clarke-calls-on-constituents-to-vote/"
+}
 ]

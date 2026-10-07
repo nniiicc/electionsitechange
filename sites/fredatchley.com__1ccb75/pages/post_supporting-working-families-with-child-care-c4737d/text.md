@@ -1,5 +1,5 @@
-Supporting Working Families with Child Care
-Ask any working parent, and they will tell you: child care is one of the biggest challenges they face.
+top of page HOME ABOUT NEWS DONATE More Use tab to navigate through the menu items.
+All Posts Search Supporting Working Families with Child Care Team Atchley Jun 15 2 min read Ask any working parent, and they will tell you: child care is one of the biggest challenges they face.
 Finding quality care is hard.
 Affording it is even harder.
 And for many families, the math simply does not work.
@@ -26,3 +26,6 @@ These are families earning too much to qualify for help but not enough to pay th
 They have been falling through the cracks for too long.
 Child care is the infrastructure that makes all other work possible.
 I am proud the General Assembly recognized that this session and took action to support working families.
+1130 S.
+Fork Dr., Sevierville, TN 37862 team@fredatchley.com Paid for by Fred Atchley for State Representative, Phil Whaley, Treasurer.
+Web design by ZDStephens Company . bottom of page

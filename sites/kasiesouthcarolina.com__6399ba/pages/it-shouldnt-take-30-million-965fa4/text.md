@@ -1,4 +1,4 @@
-Campaigns need money.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now It Shouldn’t Take $30 Million Campaigns need money.
 Professionals work on them and should get paid.
 Media outlets charge for exponential reach.
 There is travel, accommodations, and events that all cost money.
@@ -31,7 +31,8 @@ I’ll get right on that.
 The remaining 20% of the campaign’s money can be spent on voter targeting, data analytics, field operations and voter turnout, and other sundry things.
 But the two big things are media and personnel.
 It’s not like we don’t know we need the money.
-We have some more coming in, monthly donors make up about $1000 a month, but it’s still nowhere near the $30M I heard my opponent plans to raise.
+We have raised just about $# and spent pretty much all of it.
+We have some more coming in, monthly donors make up about $# a month, but it’s still nowhere near the #M I heard my opponent plans to raise.
 Our goal has been $100,000 from the beginning.
 We figured we could spend about $30,000 to $50,000 on media and the rest on signage, swag, and printed materials.
 No one on our team is being paid except the graphic designer (per unit, not salary) and the video production company (a start-up out of Greenville that’s letting us be their beta test).
@@ -41,8 +42,8 @@ Our new market is independent voters.
 They are largely ignored by establishment parties and often don’t vote at all because they are uninspired.
 We aim to inspire the independent voter to participate in the midterm election by choosing an alternative candidate.
 The Blue Ocean Strategy is not a secret, though we may be the first campaign to engage it.
-You can get the full lesson on it here.
-But basically we’re trying to move into uncontested market space (independent voters) and create a new demand by offering something our competitors don’t (the national debt conversation) and combining cost leadership (low-cost campaign) with differentiation (people not party).
+You can get the full lesson on it here .
+But basically we’re trying to move into uncontested market space (independent voters) and create a new demand by offering something our competitors don’t (the national debt conversation) and combining cost leadership (low-cost campaign) with differentiation ( people not party ).
 Like I said, it’s not particularly innovative except, maybe, in our execution of it.
 Our financial disadvantage is looming large as election day draws nearer and the race has earned national attention after Senator Graham’s passing.
 The seething expenditures of the establishment smell blood in the water.
@@ -66,7 +67,7 @@ Our campaign bought 500 fans with the logo and contact info printed on them and 
 We also put the website and logo on 300 mini bubble wands and handed those out.
 We distributed post cards and took pictures and posted on all the social channels.
 That’s where our money has gone: physical goods we handed out to as many people as were willing to take them.
-The team that walked the parade had t-shirts that look like concert souvenirs: they list all the places we’ve been since January.
+Kasie and volunteers pose in front of the parade start at the Peach Festival in Gaffney The team that walked the parade had t-shirts that look like concert souvenirs: they list all the places we’ve been since January.
 That’s where our money has been going: parades and festivals and the t-shirts for our team to represent.
 Also signs, we have a ton of signs.
 We’re using South Carolina vendors.
@@ -77,24 +78,21 @@ We’d give more bubbles to kids.
 And hope that everyone who sees the web address visits our site and considers voting for me.
 If we had more money, we’d pay to boost our social media content, specifically the live streams where voters can see me interacting with other South Carolinians on important topics.
 We’d reach out to more influencers, appear on more podcasts, and attend more events as sponsors.
-How much money should it take to convince one million voters to come out on November 3rd and choose me on their ballot?
-$1 a vote?
-Can we raise $1 million?
-$0.10 a vote?
+How much money should it take to convince one million voters to come out on November 3rd and choose me on their ballot? $1 a vote?
+Can we raise $1 million? $0.10 a vote?
 Can we raise $100,000?
 I understand people are reluctant to give to a campaign they don’t think can win.
 I also know we can’t win without the money.
 Without traditional media (the bulk of a campaign’s budget), we just can’t get the exponential reach we’ll need to establish the four critical pillars.
-Four pillars for Victory
-- Name recognition: people have to know who I am.
+Four pillars for Victory Name recognition: people have to know who I am.
 Recognize my name when they see it on the ballot.
 Trust that I’m the right choice for this job.
-- Message acceptance: voters need to know what I stand for and agree with me.
+Message acceptance: voters need to know what I stand for and agree with me.
 Not on everything, but on enough issues that they want to give me a chance to represent them in Washington, D.C.
-- Proxy mobilization: voters, once they’ve decided on me, need to share my message with their friends and families.
+Proxy mobilization: voters, once they’ve decided on me, need to share my message with their friends and families.
 Tell others you’ve chosen me and why.
 Spread the message to try to gain more support for items 1 and 2.
-- Poll action: voters have to show up on November 3rd.
+Poll action: voters have to show up on November 3rd.
 It’s a midterm election and turnout is usually low, but with the vacant seat for US Senate, we expect the turnout to be higher than in the past midterms.
 Even so, we believe 1 million votes can win.
 We need a million votes.
@@ -109,3 +107,6 @@ We will have earned it.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+One Response Pingback: We Cannot Replace Senator Graham - Kasie South Carolina Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

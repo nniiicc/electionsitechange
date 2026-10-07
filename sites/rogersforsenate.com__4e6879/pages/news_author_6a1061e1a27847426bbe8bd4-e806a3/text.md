@@ -1,26 +1,13 @@
-ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA
-Saginaw County Sheriff, Midland County Sheriff, and Michigan Corn Growers Association Endorse Mike Rogers
-REP.
-POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA
-ROGERS’ PLAN: AFFORDABILITY, ACCESSIBILITY, AND TRANSPARENCY
-MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL
-“Pick your team.
-And the problem is he often picks teams that aren't pro-American.”
-MICHIGAN CHAMBER OF COMMERCE ENDORSES MIKE ROGERS FOR U.S.
-SENATE
-“Mike Rogers understands what’s at stake for Michigan employers.”
-ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS
-“What is happening at Temple Israel may reflect a broader shift among some Jewish voters in the state.”
-MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL
-“No, voters don't want to see [TikTok dances] either.
-I think they want real solutions, which we're offering.”
-ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES
-“It isn’t surprising that El-Sayed is excited to campaign right alongside her, though.”
-TWO NATIONAL BUSINESS ASSOCIATIONS ENDORSE MIKE ROGERS FOR U.S.
-SENATE
-ROGERS: “Our small businesses and working families deserve an ally in the U.S.
-Senate to help our state thrive.”
-ROGERS TOUTS HEALTHCARE PLAN, EXPOSES ABDUL’S “MEDICARE FOR ALL” SCHEME
-We need to fix our healthcare system, not destroy it.
-ROGERS LAUNCHES NEW AD BLASTING “DOCTOR” ABDUL FOR CALLING TO DEFUND BREAST CANCER RESEARCH
-As a cancer survivor himself, Mike Rogers will stand with Michigan women.
+0 Skip to Content MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Hinson Peed 10/6/26 Hinson Peed 10/6/26 MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE “I just think this is really, really concerning, and people here in the state get it.” Read More Hinson Peed 9/30/26 Hinson Peed 9/30/26 ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA Saginaw County Sheriff, Midland County Sheriff, and Michigan Corn Growers Association Endorse Mike Rogers Read More Hinson Peed 9/26/26 Hinson Peed 9/26/26 REP.
+POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA ROGERS’ PLAN: AFFORDABILITY, ACCESSIBILITY, AND TRANSPARENCY Read More Hinson Peed 9/25/26 Hinson Peed 9/25/26 MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL “Pick your team.
+And the problem is he often picks teams that aren't pro-American.” Read More Hinson Peed 9/24/26 Hinson Peed 9/24/26 ROGERS DROPS NEW ADS, CONTRASTS LAW ENFORCEMENT BACKGROUND WITH ABDUL’S SOFT-ON-CRIME AGENDA Read More Hinson Peed 9/24/26 Hinson Peed 9/24/26 ROGERS ENCOURAGES ABSENTEE, EARLY VOTING “The American Dream is on the ballot.” Read More Hinson Peed 9/24/26 Hinson Peed 9/24/26 MICHIGAN CHAMBER OF COMMERCE ENDORSES MIKE ROGERS FOR U.S.
+SENATE “Mike Rogers understands what’s at stake for Michigan employers.” Read More Hinson Peed 9/23/26 Hinson Peed 9/23/26 ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS “What is happening at Temple Israel may reflect a broader shift among some Jewish voters in the state.” Read More Hinson Peed 9/22/26 Hinson Peed 9/22/26 MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL “No, voters don't want to see [TikTok dances] either.
+I think they want real solutions, which we're offering.” Read More Hinson Peed 9/22/26 Hinson Peed 9/22/26 ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES “It isn’t surprising that El-Sayed is excited to campaign right alongside her, though.” Read More Hinson Peed 9/21/26 Hinson Peed 9/21/26 TWO NATIONAL BUSINESS ASSOCIATIONS ENDORSE MIKE ROGERS FOR U.S.
+SENATE ROGERS: “Our small businesses and working families deserve an ally in the U.S.
+Senate to help our state thrive.” Read More Hinson Peed 9/19/26 Hinson Peed 9/19/26 ROGERS TOUTS HEALTHCARE PLAN, EXPOSES ABDUL’S “MEDICARE FOR ALL” SCHEME We need to fix our healthcare system, not destroy it.
+Read More Older Posts CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Box 132 St.
+Joseph, MI 49085 Mike Rogers is a former member of the U.S.
+Army.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement of the United States Army or the Department of Defense.
+Paid for by Rogers for Senate © # Rogers for Senate Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

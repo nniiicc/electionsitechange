@@ -1,21 +1,12 @@
-DON TRACY · UNITED STATES SENATE· ILLINOIS
-Voter Information
-Important Dates
-The general election is Tuesday, November 3, 2026 — polls open at 7:00 AM Central.
-Voting begins in…
-Days
-Hours
-Minutes
-Seconds
-- 8/5/2026 - First Day to Request a Vote by Mail Ballot
-- 9/24/2026 - First Day of Early Voting at County Clerk's Office and Vote by Mail Ballots are Mailed
-- 10/18/2026 - Last Day to Register to Vote by Online Application
-- 10/19/2026 - First Day of Expanded Early Voting
-- 10/29/2026 - Last Day to Request a Vote by Mail Ballot, Including Military and Overseas Voters
-- 11/2/2026 - Last Day of Early Voting
-- 11/3/2026 - Election Day.
-Last Day Vote by Mail Ballots can be Postmarked
-Input your registered voter address to find your election authority's information below!
+Skip to content About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute About Meet Don Contact Invite Don to an Event Newsroom Working For You American Dream Common Sense Solutions Lower the Cost of Living Represent Illinois Get Involved Volunteer Request Yard Sign Submit Your Story Voter Info Store Contribute X-twitter Facebook Instagram Youtube DON TRACY · UNITED STATES SENATE· ILLINOIS Voter Information Not registered to vote?
+You can register online until October 18, 2026!
+Important Dates The general election is Tuesday, November 3, 2026 — polls open at 7:00 AM Central.
+Voting begins in… Days Hours Minutes Seconds 8/5/2026 - First Day to Request a Vote by Mail Ballot 9/24/2026 - First Day of Early Voting at County Clerk's Office and Vote by Mail Ballots are Mailed 10/18/2026 - Last Day to Register to Vote by Online Application 10/19/2026 - First Day of Expanded Early Voting 10/29/2026 - Last Day to Request a Vote by Mail Ballot, Including Military and Overseas Voters 11/2/2026 - Last Day of Early Voting 11/3/2026 - Election Day.
+Last Day Vote by Mail Ballots can be Postmarked Input your registered voter address to find your election authority's information below!
 Alternatively, you can click on a county in the interactive map to see that county's info.
-Election Authority
-Enter an address or select a county on the map to see contact details.
+Your registered voter address Look Up My Voter Info Election Authority Enter an address or select a county on the map to see contact details.
+Don Tracy is committed to strengthening Illinois by growing the economy, supporting small businesses, and making life more affordable for working families.
+With decades of leadership in business and public service, he believes in accountable government, safe communities, and practical, commonsense solutions that create opportunity for future generations.
+ABOUT Meet Don Contact Volunteer Newsroom CONTACT [email protected] (618) 417-7371 PO Box 135, Springfield, IL 62705 Paid for by Don Tracy For Illinois, NFP © # Don Tracy for Illinois.
+All rights reserved.
+Privacy Policy Texting Store

@@ -1,62 +1,250 @@
 [
-"https://repgregsmith.com/",
-"https://repgregsmith.com/2016/09",
-"https://repgregsmith.com/2017/10",
-"https://repgregsmith.com/2018/01",
-"https://repgregsmith.com/2018/02",
-"https://repgregsmith.com/2018/03",
-"https://repgregsmith.com/2018/05",
-"https://repgregsmith.com/2019/01",
-"https://repgregsmith.com/2019/02",
-"https://repgregsmith.com/2019/04",
-"https://repgregsmith.com/2019/07",
-"https://repgregsmith.com/2020/06",
-"https://repgregsmith.com/2020/08",
-"https://repgregsmith.com/2020/11",
-"https://repgregsmith.com/2021/09",
-"https://repgregsmith.com/2021/11",
-"https://repgregsmith.com/2021/12",
-"https://repgregsmith.com/2022/01",
-"https://repgregsmith.com/2022/02",
-"https://repgregsmith.com/2022/03",
-"https://repgregsmith.com/2022/04",
-"https://repgregsmith.com/2022/05",
-"https://repgregsmith.com/2022/06",
-"https://repgregsmith.com/2022/08",
-"https://repgregsmith.com/2022/12",
-"https://repgregsmith.com/2023/01",
-"https://repgregsmith.com/2023/02",
-"https://repgregsmith.com/2023/03",
-"https://repgregsmith.com/2023/04",
-"https://repgregsmith.com/2023/05",
-"https://repgregsmith.com/2023/06",
-"https://repgregsmith.com/2023/08",
-"https://repgregsmith.com/2023/11",
-"https://repgregsmith.com/2023/12",
-"https://repgregsmith.com/2024/01",
-"https://repgregsmith.com/2024/02",
-"https://repgregsmith.com/2024/03",
-"https://repgregsmith.com/2024/04",
-"https://repgregsmith.com/2024/06",
-"https://repgregsmith.com/2025/06",
-"https://repgregsmith.com/2025/07",
-"https://repgregsmith.com/2025/08",
-"https://repgregsmith.com/2025/09",
-"https://repgregsmith.com/2025/10",
-"https://repgregsmith.com/2025/11",
-"https://repgregsmith.com/2025/12",
-"https://repgregsmith.com/2026/01",
-"https://repgregsmith.com/2026/02",
-"https://repgregsmith.com/2026/03",
-"https://repgregsmith.com/2026/07",
-"https://repgregsmith.com/about",
-"https://repgregsmith.com/category/news",
-"https://repgregsmith.com/endorsements",
-"https://repgregsmith.com/issues",
-"https://repgregsmith.com/join",
-"https://repgregsmith.com/news",
-"https://repgregsmith.com/photos-video",
-"https://repgregsmith.com/rep-greg-smith-to-serve-as-co-vice-chair-of-new-student-success-committee",
-"https://repgregsmith.com/representative-greg-smith-and-wife-sherri-named-2018-grand-marshals-of-umatilla-county-fair",
-"https://secure.anedot.com/committee-to-re-elect-greg-smith/committee-to-re-elect-greg-smith"
+{
+"text": "About",
+"href": "https://repgregsmith.com/about/"
+},
+{
+"text": "April 2019",
+"href": "https://repgregsmith.com/2019/04/"
+},
+{
+"text": "April 2022",
+"href": "https://repgregsmith.com/2022/04/"
+},
+{
+"text": "April 2023",
+"href": "https://repgregsmith.com/2023/04/"
+},
+{
+"text": "April 2024",
+"href": "https://repgregsmith.com/2024/04/"
+},
+{
+"text": "August 2020",
+"href": "https://repgregsmith.com/2020/08/"
+},
+{
+"text": "August 2022",
+"href": "https://repgregsmith.com/2022/08/"
+},
+{
+"text": "August 2023",
+"href": "https://repgregsmith.com/2023/08/"
+},
+{
+"text": "August 2025",
+"href": "https://repgregsmith.com/2025/08/"
+},
+{
+"text": "December 2021",
+"href": "https://repgregsmith.com/2021/12/"
+},
+{
+"text": "December 2022",
+"href": "https://repgregsmith.com/2022/12/"
+},
+{
+"text": "December 2023",
+"href": "https://repgregsmith.com/2023/12/"
+},
+{
+"text": "December 2025",
+"href": "https://repgregsmith.com/2025/12/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-re-elect-greg-smith/committee-to-re-elect-greg-smith"
+},
+{
+"text": "February 2018",
+"href": "https://repgregsmith.com/2018/02/"
+},
+{
+"text": "February 2019",
+"href": "https://repgregsmith.com/2019/02/"
+},
+{
+"text": "February 2022",
+"href": "https://repgregsmith.com/2022/02/"
+},
+{
+"text": "February 2023",
+"href": "https://repgregsmith.com/2023/02/"
+},
+{
+"text": "February 2024",
+"href": "https://repgregsmith.com/2024/02/"
+},
+{
+"text": "February 2026",
+"href": "https://repgregsmith.com/2026/02/"
+},
+{
+"text": "Issues",
+"href": "https://repgregsmith.com/issues/"
+},
+{
+"text": "January 2018",
+"href": "https://repgregsmith.com/2018/01/"
+},
+{
+"text": "January 2019",
+"href": "https://repgregsmith.com/2019/01/"
+},
+{
+"text": "January 2022",
+"href": "https://repgregsmith.com/2022/01/"
+},
+{
+"text": "January 2023",
+"href": "https://repgregsmith.com/2023/01/"
+},
+{
+"text": "January 2024",
+"href": "https://repgregsmith.com/2024/01/"
+},
+{
+"text": "January 2026",
+"href": "https://repgregsmith.com/2026/01/"
+},
+{
+"text": "Join",
+"href": "https://repgregsmith.com/join/"
+},
+{
+"text": "July 2019",
+"href": "https://repgregsmith.com/2019/07/"
+},
+{
+"text": "July 2025",
+"href": "https://repgregsmith.com/2025/07/"
+},
+{
+"text": "July 2026",
+"href": "https://repgregsmith.com/2026/07/"
+},
+{
+"text": "June 2020",
+"href": "https://repgregsmith.com/2020/06/"
+},
+{
+"text": "June 2022",
+"href": "https://repgregsmith.com/2022/06/"
+},
+{
+"text": "June 2023",
+"href": "https://repgregsmith.com/2023/06/"
+},
+{
+"text": "June 2024",
+"href": "https://repgregsmith.com/2024/06/"
+},
+{
+"text": "June 2025",
+"href": "https://repgregsmith.com/2025/06/"
+},
+{
+"text": "March 2018",
+"href": "https://repgregsmith.com/2018/03/"
+},
+{
+"text": "March 2022",
+"href": "https://repgregsmith.com/2022/03/"
+},
+{
+"text": "March 2023",
+"href": "https://repgregsmith.com/2023/03/"
+},
+{
+"text": "March 2024",
+"href": "https://repgregsmith.com/2024/03/"
+},
+{
+"text": "March 2026",
+"href": "https://repgregsmith.com/2026/03/"
+},
+{
+"text": "May 2018",
+"href": "https://repgregsmith.com/2018/05/"
+},
+{
+"text": "May 2022",
+"href": "https://repgregsmith.com/2022/05/"
+},
+{
+"text": "May 2023",
+"href": "https://repgregsmith.com/2023/05/"
+},
+{
+"text": "News",
+"href": "https://repgregsmith.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://repgregsmith.com/news/"
+},
+{
+"text": "November 2020",
+"href": "https://repgregsmith.com/2020/11/"
+},
+{
+"text": "November 2021",
+"href": "https://repgregsmith.com/2021/11/"
+},
+{
+"text": "November 2023",
+"href": "https://repgregsmith.com/2023/11/"
+},
+{
+"text": "November 2025",
+"href": "https://repgregsmith.com/2025/11/"
+},
+{
+"text": "October 2017",
+"href": "https://repgregsmith.com/2017/10/"
+},
+{
+"text": "October 2025",
+"href": "https://repgregsmith.com/2025/10/"
+},
+{
+"text": "Photos/Video",
+"href": "https://repgregsmith.com/photos-video/"
+},
+{
+"text": "Previous Endorsements",
+"href": "https://repgregsmith.com/endorsements/"
+},
+{
+"text": "Rep. Greg Smith to Serve as Co-Vice Chair of New “Student Success” Committee",
+"href": "https://repgregsmith.com/rep-greg-smith-to-serve-as-co-vice-chair-of-new-student-success-committee/"
+},
+{
+"text": "Representative Greg Smith and wife Sherri Named 2018 Grand Marshals of Umatilla County Fair",
+"href": "https://repgregsmith.com/representative-greg-smith-and-wife-sherri-named-2018-grand-marshals-of-umatilla-county-fair/"
+},
+{
+"text": "September 2016",
+"href": "https://repgregsmith.com/2016/09/"
+},
+{
+"text": "September 2021",
+"href": "https://repgregsmith.com/2021/09/"
+},
+{
+"text": "September 2025",
+"href": "https://repgregsmith.com/2025/09/"
+},
+{
+"text": "[image: Greg Smith]",
+"href": "https://repgregsmith.com/"
+},
+{
+"text": "[image]",
+"href": "https://repgregsmith.com/representative-greg-smith-and-wife-sherri-named-2018-grand-marshals-of-umatilla-county-fair/"
+},
+{
+"text": "[tooltip: Rep. Greg Smith to Serve as Co-Vice Chair of New \"Student Success\" Committee]",
+"href": "https://repgregsmith.com/rep-greg-smith-to-serve-as-co-vice-chair-of-new-student-success-committee/"
+}
 ]

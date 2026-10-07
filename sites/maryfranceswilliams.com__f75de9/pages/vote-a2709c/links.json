@@ -1,20 +1,78 @@
 [
-"https://cobbcounty.gov/elections/voting/advance-voting",
-"https://cobbcounty.org/elections/voting/advance-voting",
-"https://facebook.com/repmaryfrances",
-"https://instagram.com/repmaryfrances",
-"https://instagram.com/repmaryfrances?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://legis.ga.gov/find-my-legislator",
-"https://maryfranceswilliams.com/",
-"https://maryfranceswilliams.com/contact-us",
-"https://maryfranceswilliams.com/get-updates",
-"https://maryfranceswilliams.com/legislation",
-"https://maryfranceswilliams.com/meet-maryfrances",
-"https://maryfranceswilliams.com/priorities",
-"https://maryfranceswilliams.com/search",
-"https://maryfranceswilliams.com/vote",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://mvp.sos.ga.gov/s",
-"https://mvp.sos.ga.gov/s/voter-registration?IsRegisterNow=true",
-"https://twitter.com/repmaryfrances"
+{
+"text": "Community Voices",
+"href": "https://www.maryfranceswilliams.com/get-updates"
+},
+{
+"text": "Contact Us",
+"href": "https://www.maryfranceswilliams.com/contact-us"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://www.cobbcounty.org/elections/voting/advance-voting"
+},
+{
+"text": "Follow Me on Instagram",
+"href": "https://www.instagram.com/repmaryfrances?igsh=ZDNlZDc0MzIxNw%3D%3D"
+},
+{
+"text": "Meet Mary Frances",
+"href": "https://www.maryfranceswilliams.com/meet-maryfrances"
+},
+{
+"text": "My polling Location",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Priorities",
+"href": "https://www.maryfranceswilliams.com/priorities"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvp.sos.ga.gov/s/voter-registration?IsRegisterNow=true"
+},
+{
+"text": "Serving You",
+"href": "https://www.maryfranceswilliams.com/legislation"
+},
+{
+"text": "Sign Up",
+"href": "https://www.maryfranceswilliams.com/get-updates"
+},
+{
+"text": "Voting",
+"href": "https://www.maryfranceswilliams.com/vote"
+},
+{
+"text": "[image: Rep. Mary Frances Williams]",
+"href": "https://www.maryfranceswilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repmaryfrances"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repmaryfrances/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repmaryfrances/"
+},
+{
+"text": "[no text]",
+"href": "https://www.maryfranceswilliams.com/search"
+},
+{
+"text": "here",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "here",
+"href": "https://www.cobbcounty.gov/elections/voting/advance-voting"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/find-my-legislator"
+}
 ]

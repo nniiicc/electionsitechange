@@ -1,4 +1,4 @@
-Jim’s 10-20-30 plan directs at least 10 percent of appropriated funds to communities where 20 percent or more of their populations have lived below the poverty level for the last 30 years.
+Skip to content About Record and Vision Media Media Photo Gallery Contact About Record and Vision Media Media Photo Gallery Contact DONATE Record and Vision 10-20-30 Funding Formula Rural Energy Saving Program (RSEP) Gullah Geechee Student Debt Relief Voting Rights Justice For All Jim’s 10-20-30 plan directs at least 10 percent of appropriated funds to communities where 20 percent or more of their populations have lived below the poverty level for the last 30 years.
 He successfully got i10-20-30 inserted into four agricultural accounts of the American Recovery and Reinvestment Act (ARRA).
 ARRA expired in 2010, but Jim Clyburn continued his pursuit of the concept, and 10-20-30 has begun receiving broad bi-partisan support.
 The Republican Speaker of the House and the Chairman of the Appropriations Committee have inserted 10-20-30 into 12 funding accounts – 9 Agricultural accounts, 1 Commerce, Justice, 1 Interior, Environment, and 1 Financial Services and General Government – of the 2017 Appropriations Bill.
@@ -46,6 +46,12 @@ Gender identity is specifically defined as among the prohibited categories of di
 House Democrats have also passed legislation that would block the Trump Administration’s ban on transgender Americans serving in the military.
 House Democrats support comprehensive immigration reform that includes smart border security, common-sense reforms to our immigration laws, and a pathway to citizenship for undocumented immigrants.
 The House passed the American Dream and Promise Act of 2019, which prohibits the removal of certain undocumented immigrants brought to the U.S. as children and those who have lived here for many years under Temporary Protected Status and Deferred Enforced Departure.
-Whip Clyburn supports H.R. 40, a bill to study the crushing economic, educational, and health impacts of centuries of slavery and later statutorily recognized forms of discrimination (like Jim Crow laws) on African Americans.
+Whip Clyburn supports H.R.
+40, a bill to study the crushing economic, educational, and health impacts of centuries of slavery and later statutorily recognized forms of discrimination (like Jim Crow laws) on African Americans.
 This commission will recommend appropriate remedies to address the negative impact of intentionally structured disenfranchisement and discrimination.
 Congress must act so that we do not repeat the mistakes of the past and instead move toward a brighter future for all Americans.
+Re-elect Jim & Take Back the House Majority!
+Working for the American people is a privilege and a responsibility Jim takes very seriously.
+Count Me In!
+P.O.
+Box 12567, Columbia, SC 29211 Facebook X-twitter Youtube Instagram PAID FOR BY FRIENDS OF JIM CLYBURN © # Friends of Jim Clyburn | a 1BrightStar Media project

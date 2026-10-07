@@ -1,9 +1,14 @@
 {
  "description": "",
  "final_url": "http://www.meholmes.com/events/list?eventDisplay=past",
- "paid_for_by": null,
- "title": "Past Events from October 20, 2020 \u2013 June 22, 2021 \u2013 Delegate Marvin E.",
+ "fingerprint": "2f0b7c7f79f2d927205f1237531381b25c588285",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Past Events from October 20, 2020 – June 22, 2021 – Delegate Marvin E.",
  "years_mentioned": [
-  "2021"
+  "2020",
+  "2021",
+  "2022",
+  "2026"
  ]
 }

@@ -1,18 +1,90 @@
 [
-"https://action.electadamsmith.com/a/endorse",
-"https://action.electadamsmith.com/a/volunteer",
-"https://electadamsmith.com/",
-"https://electadamsmith.com/?lang=es",
-"https://electadamsmith.com/conozca-a-adam/priorities",
-"https://electadamsmith.com/conozca-a-adam?lang=es",
-"https://electadamsmith.com/contactanos?lang=es",
-"https://electadamsmith.com/contribute",
-"https://electadamsmith.com/endosos?lang=es",
-"https://electadamsmith.com/meet-adam",
-"https://electadamsmith.com/prioridades?lang=es",
-"https://facebook.com/adamsmithforcongress",
-"https://instagram.com/electadamsmith/reels?hl=en",
-"https://linkedin.com/in/adam-smith-71218048",
-"https://x.com/electadamsmith?lang=en",
-"https://youtube.com/@AdamSmithforCongress"
+{
+"text": "Conozca a Adam",
+"href": "https://electadamsmith.com/conozca-a-adam/?lang=es"
+},
+{
+"text": "Contactános",
+"href": "https://electadamsmith.com/contactanos/?lang=es"
+},
+{
+"text": "Contribuye",
+"href": "https://electadamsmith.com/contribute"
+},
+{
+"text": "Crear oportunidades de empleo con salarios competitivos",
+"href": "https://electadamsmith.com/conozca-a-adam/priorities/#expandopportunity"
+},
+{
+"text": "Endosa a Adam",
+"href": "https://action.electadamsmith.com/a/endorse"
+},
+{
+"text": "Endosos",
+"href": "https://electadamsmith.com/endosos/?lang=es"
+},
+{
+"text": "Enfrentar a Trump y defender al estado de Washington",
+"href": "https://electadamsmith.com/conozca-a-adam/priorities/#standupforwa"
+},
+{
+"text": "English",
+"href": "https://electadamsmith.com/meet-adam/"
+},
+{
+"text": "Español",
+"href": "https://electadamsmith.com/conozca-a-adam/?lang=es"
+},
+{
+"text": "Prioridades",
+"href": "https://electadamsmith.com/prioridades/?lang=es"
+},
+{
+"text": "Priorizar a la clase trabajadora sobre las ganancias",
+"href": "https://electadamsmith.com/conozca-a-adam/priorities/#peoplebeforeprofits"
+},
+{
+"text": "Protect Our Right to Abortion",
+"href": "https://electadamsmith.com/conozca-a-adam/priorities/#protectright"
+},
+{
+"text": "Proteger al Puget Sound para las futuras generaciones",
+"href": "https://electadamsmith.com/conozca-a-adam/priorities/#protectpugetsound"
+},
+{
+"text": "Página Principal",
+"href": "https://electadamsmith.com/?lang=es"
+},
+{
+"text": "Reducir el precio de alquileres y seguir construyendo más viviendas",
+"href": "https://electadamsmith.com/conozca-a-adam/priorities/#loweryourrent"
+},
+{
+"text": "Voluntariado",
+"href": "https://action.electadamsmith.com/a/volunteer"
+},
+{
+"text": "[image: Adam Smith for Washington]",
+"href": "https://electadamsmith.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/adamsmithforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/electadamsmith/reels/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/adam-smith-71218048/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@AdamSmithforCongress"
+},
+{
+"text": "[image]",
+"href": "https://x.com/electadamsmith?lang=en"
+}
 ]

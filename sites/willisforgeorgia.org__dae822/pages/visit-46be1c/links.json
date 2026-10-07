@@ -1,11 +1,42 @@
 [
-"https://cognitoforms.com/FultonCountyGovernment2/fultoncountyabsenteeballotrequestform2",
-"https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations",
-"https://georgiademocrat.org/voter-protection-2/how-do-i-register",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://willisforgeorgia.org/",
-"https://willisforgeorgia.org/cart",
-"https://willisforgeorgia.org/issues",
-"https://willisforgeorgia.org/story",
-"https://willisforgeorgia.org/visit"
+{
+"text": "0",
+"href": "https://www.willisforgeorgia.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.willisforgeorgia.org/story"
+},
+{
+"text": "Click Here",
+"href": "https://www.cognitoforms.com/FultonCountyGovernment2/fultoncountyabsenteeballotrequestform2"
+},
+{
+"text": "Click Here",
+"href": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/early-voting-locations"
+},
+{
+"text": "Click Here",
+"href": "https://www.georgiademocrat.org/voter-protection-2/how-do-i-register/"
+},
+{
+"text": "Click Here",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Home",
+"href": "https://www.willisforgeorgia.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.willisforgeorgia.org/issues"
+},
+{
+"text": "Voter Information",
+"href": "https://www.willisforgeorgia.org/visit"
+},
+{
+"text": "[image: WillisforGeorgia]",
+"href": "https://www.willisforgeorgia.org/"
+}
 ]

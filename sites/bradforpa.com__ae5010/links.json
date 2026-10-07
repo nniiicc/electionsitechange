@@ -1,41 +1,174 @@
 [
-"https://bradforpa.com/",
-"https://bradforpa.com/about",
-"https://bradforpa.com/cart",
-"https://bradforpa.com/district-41",
-"https://bradforpa.com/endorsements",
-"https://bradforpa.com/home",
-"https://bradforpa.com/issues",
-"https://bradforpa.com/issues/affordable-housing",
-"https://bradforpa.com/issues/healthcare",
-"https://bradforpa.com/issues/public-education",
-"https://bradforpa.com/press",
-"https://bradforpa.com/press/brad-chambers-tom-jones-lead-in-latest-polling-of-lancaster-countys-most-competitive-races-this-fall",
-"https://bradforpa.com/press/lancaster-county-democrats-attract-national-donors-in-competitive-pa-house-senate-district-races",
-"https://bradforpa.com/press/most-lancaster-county-republican-candidates-decline-nonpartisan-forum-invitations",
-"https://bradforpa.com/press/pennsylvania-house-democrats-accelerate-field-push-for-november",
-"https://bradforpa.com/press/west-hempfield-township-officials-approve-data-center-regulations-address-qvc-question",
-"https://bradforpa.com/press/yoeqxdgtn7uxwpnziryv0a8xycyhq1",
-"https://bradforpa.com/press?category=In+the+News",
-"https://bradforpa.com/privacy",
-"https://bradforpa.com/stateoftherace",
-"https://bradforpa.com/volunteer",
-"https://facebook.com/bradforpa",
-"https://instagram.com/bradforpa",
-"https://lancasteronline.com/news/politics/brad-chambers-tom-jones-lead-in-latest-polling-of-lancaster-countys-most-competitive-races-this/article_b7dedbcc-0e66-4c01-96a6-0892837554c7.html",
-"https://lancasteronline.com/news/politics/lancaster-county-democrats-attract-national-donors-in-competitive-pa-house-senate-district-races/article_06d4c3f7-a89d-4e81-bdb8-70a45e2da924.html",
-"https://lancasteronline.com/news/politics/most-lancaster-county-republican-candidates-decline-nonpartisan-forum-invitations/article_fc5f55af-c024-47db-879f-5f8a44aa95b6.html",
-"https://lancasteronline.com/news/regional/west-hempfield-township-officials-approve-data-center-regulations-address-qvc-question/article_8f80a101-2e10-4820-a69e-a1be0a3098b2.html",
-"https://legis.state.pa.us/cfdocs/legis/home/findyourlegislator/index.cfm",
-"https://mychesco.com/a/news/pennsylvania/pennsylvania-house-democrats-accelerate-field-push-for-november",
-"https://projects.statenavigate.com/interactives/pa/hd-41-poll-september-2026",
-"https://secure.actblue.com/donate/bradforpa",
-"https://secure.actblue.com/donate/bradforpa?amount=50&recurring=1",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/bradforpa?express_lane_other=true",
-"https://x.com/bradforpa"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane=true&amount=50"
+},
+{
+"text": "0",
+"href": "https://bradforpa.com/cart"
+},
+{
+"text": "Brad Chambers, Tom Jones lead in latest polling of Lancaster County's most competitive races this fall",
+"href": "https://lancasteronline.com/news/politics/brad-chambers-tom-jones-lead-in-latest-polling-of-lancaster-countys-most-competitive-races-this/article_b7dedbcc-0e66-4c01-96a6-0892837554c7.html"
+},
+{
+"text": "Chambers and Miller are nearly even in Pennsylvania’s 41st House District",
+"href": "https://projects.statenavigate.com/interactives/pa/hd-41-poll-september-2026/"
+},
+{
+"text": "Contact",
+"href": "mailto:hello@bradforpa.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bradforpa"
+},
+{
+"text": "District 41",
+"href": "https://bradforpa.com/district-41"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradforpa"
+},
+{
+"text": "Endorsements",
+"href": "https://bradforpa.com/endorsements"
+},
+{
+"text": "Find out if you live in HD-41 here!",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/home/findyourlegislator/index.cfm"
+},
+{
+"text": "HOME",
+"href": "https://bradforpa.com/home"
+},
+{
+"text": "In the News",
+"href": "https://bradforpa.com/press?category=In+the+News"
+},
+{
+"text": "Issues",
+"href": "https://bradforpa.com/issues"
+},
+{
+"text": "Lancaster County Democrats attract national donors in competitive Pa. House, Senate district races",
+"href": "https://lancasteronline.com/news/politics/lancaster-county-democrats-attract-national-donors-in-competitive-pa-house-senate-district-races/article_06d4c3f7-a89d-4e81-bdb8-70a45e2da924.html"
+},
+{
+"text": "Meet Brad",
+"href": "https://bradforpa.com/about"
+},
+{
+"text": "Most Lancaster County Republican candidates decline nonpartisan forum invitations",
+"href": "https://lancasteronline.com/news/politics/most-lancaster-county-republican-candidates-decline-nonpartisan-forum-invitations/article_fc5f55af-c024-47db-879f-5f8a44aa95b6.html"
+},
+{
+"text": "Or make it monthly ➔",
+"href": "https://secure.actblue.com/donate/bradforpa?amount=50&recurring=1"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/bradforpa?express_lane_other=true"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://bradforpa.com/privacy"
+},
+{
+"text": "Pennsylvania House Democrats Accelerate Field Push for November",
+"href": "https://www.mychesco.com/a/news/pennsylvania/pennsylvania-house-democrats-accelerate-field-push-for-november/"
+},
+{
+"text": "Press",
+"href": "https://bradforpa.com/press"
+},
+{
+"text": "Read more",
+"href": "https://bradforpa.com/issues/affordable-housing"
+},
+{
+"text": "Read more",
+"href": "https://bradforpa.com/issues/healthcare"
+},
+{
+"text": "Read more",
+"href": "https://bradforpa.com/issues/public-education"
+},
+{
+"text": "Read more →",
+"href": "https://bradforpa.com/press/brad-chambers-tom-jones-lead-in-latest-polling-of-lancaster-countys-most-competitive-races-this-fall"
+},
+{
+"text": "Read more →",
+"href": "https://bradforpa.com/press/lancaster-county-democrats-attract-national-donors-in-competitive-pa-house-senate-district-races"
+},
+{
+"text": "Read more →",
+"href": "https://bradforpa.com/press/most-lancaster-county-republican-candidates-decline-nonpartisan-forum-invitations"
+},
+{
+"text": "Read more →",
+"href": "https://bradforpa.com/press/pennsylvania-house-democrats-accelerate-field-push-for-november"
+},
+{
+"text": "Read more →",
+"href": "https://bradforpa.com/press/west-hempfield-township-officials-approve-data-center-regulations-address-qvc-question"
+},
+{
+"text": "Read more →",
+"href": "https://bradforpa.com/press/yoeqxdgtn7uxwpnziryv0a8xycyhq1"
+},
+{
+"text": "STATE/OF/THE/RACE",
+"href": "https://bradforpa.com/stateoftherace"
+},
+{
+"text": "View all Endorsements",
+"href": "https://bradforpa.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://bradforpa.com/volunteer"
+},
+{
+"text": "West Hempfield Township officials approve data center regulations, address QVC question",
+"href": "https://lancasteronline.com/news/regional/west-hempfield-township-officials-approve-data-center-regulations-address-qvc-question/article_8f80a101-2e10-4820-a69e-a1be0a3098b2.html"
+},
+{
+"text": "[image: Brad Chambers for Pennsylvania State House District 41]",
+"href": "https://bradforpa.com/home"
+},
+{
+"text": "[image: Brad for PA]",
+"href": "https://bradforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bradforpa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bradforpa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bradforpa"
+}
 ]

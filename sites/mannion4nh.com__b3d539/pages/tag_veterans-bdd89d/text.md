@@ -1,8 +1,12 @@
-Thank you to Craig Bona of the Granite Discourse for having me back on again!
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Tag Archives: Veterans Interview Interview – The Granite Discourse (ep 34) June 8, 2026 Tom Mannion Leave a comment Thank you to Craig Bona of the Granite Discourse for having me back on again!
 His show typically sticks to NH-focused policies, but I couldn’t help myself going hard into the paint about the Iran war.
 Give it a watch, subscribe to his channel and share around!
-Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
+Defend the Guard Veterans war Interview Interview – Radio Canada April 23, 2026 Tom Mannion Leave a comment I was interviewed as part of a anti-war veteran series by Radio Canada !
+Defend the Guard Veterans war Interview Interview – Now is the Time to Talk (Iran) March 9, 2026 Tom Mannion Leave a comment Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
 Thank you for having me again so soon!
+Defend the Guard Iran Veterans Interview Interview – Now is the Time to Talk February 13, 2026 Tom Mannion Leave a comment Jessie and I discuss foreign policy, military service during the Global War on Terror, and Defend the Guard.
+Defend the Guard Interview Veterans Interview Panel – Defend the Guard at Porcfest 2025 August 21, 2025 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Panel Porcfest Veterans Floor Speech Unanimous Consent Speech – June 26, 2025 June 27, 2025 Tom Mannion Leave a comment Linked at timestamp Thank you Mr.
+Speaker.
 I was going to save this for veto day, to be closer to the anniversary, but world events this past week motivated me to rise today.
 On October 19, 2005, 6.5miles from the Syrian border along the Euphrates, 3rd Bn 6th Marines, Kilo Company, 1st Platoon, 3rd Squad was on a foot patrol along ASR Diamond in the Al’Qaim Region of the Al’Anbar province in Iraq.
 Random patrols through the community were meant to keep insurgents at bay, discourage the planting of IEDs and weapons caches, and build rapport with the community so they’d be more inclined to report suspicious activities in the area.
@@ -40,11 +44,19 @@ Remember Iran is bigger than Iraq and Afghanistan combined in both land area and
 I ask that you remember this unanimous consent when I rise before you all again in January.
 I ask that you remember the sacrifices of the men and women that continue to volunteer to wear the uniform.
 I ask you to pray, and speak loudly for peace, and to bring our troops home from places they shouldn’t be, and out of harm’s way.
-And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates 20 years ago.
+And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates #ago.
 Thank you.
-I want to thank Speaker Packard for appointing me as one of the two House members on the State Veterans Advisory Committee.
+Defend the Guard foreign policy Iran Iraq Speech Unanimous Consent Veterans Interview Panel – Defend the Guard At Liberty Forum May 1, 2025 Tom Mannion Leave a comment You can now watch the complete @DefendTheGuard panel from @NHLibertyForum !
+Featuring our founder @DanMcKnight30 , our Maine sponsor Rep.
+Ben Hymes, our New Hampshire sponsor Rep. @mannion4nh , and our head New Hampshire activist @derek_proulx .
+Learn what YOU can do to help!🇺🇸 pic.twitter.com/LPE95sEjKp — Bring Our Troops Home (@TroopsHomeUS) May 1, 2025 10th Amendment Defend the Guard Liberty Forum Nullification Veterans Interview Interview – Now is the Time to Talk February 4, 2025 Tom Mannion Leave a comment I joined Jesse Gillis for a discussion about my service in the Marine Corps, my opinions on US foreign policy, and to discuss HB104 Defend the Guard.
+Defend the Guard Veterans Committee Appointment – State Veterans Advisory Committee January 7, 2025 Tom Mannion Leave a comment I want to thank Speaker Packard for appointing me as one of the two House members on the State Veterans Advisory Committee.
 I have been going to their monthly meetings for over a year, now, and am impressed with its function as an information conduit between veterans and the various state agencies, as well as the NH Federal delegation in DC.
 I will continue to be present at the monthly meetings through this term and be available to the members.
-I appeared on Shut the Punk Up podcast, hosted by my friend Ben Weir.
+115 A 2 State Veterans Advisory Committee (Memo) Download Appointment SVAC Veterans Interview Interview – Shut the Punk Up August 19, 2024 Tom Mannion Leave a comment I appeared on Shut the Punk Up podcast, hosted by my friend Ben Weir.
 We discussed Defend the Guard, U.S. foreign policy, our military service, my motivations for moving to New Hampshire and running for office, music, and how others can get involved politically to continue making New Hampshire the freest state in the nation.
-State Representative – Hillsborough County District 01 (Pelham)
+New Hampshire Liberty In Our Lifetime ft. @Mannion4NH https://t.co/7sJ5oWWhU5 — Ben The Emo AnCap (@TheEmoAncap) August 19, 2024 Defend the Guard foreign policy Interview Veterans Posts navigation 1 2 Next → State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

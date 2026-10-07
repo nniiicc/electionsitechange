@@ -1,25 +1,10 @@
-top of page
-Ming Zhang for MA state senate
-Worcester & middlesex
-Putting Kitchen-Table Issues First
-1.
-Help Families Stay and Thrive
-Families shouldn't have to leave Massachusetts because they can't afford to stay.
-I'll work to lower the cost of living by expanding housing opportunities, reducing the burden of property taxes, keeping energy affordable, and supporting policies that help working families build financial security.
+top of page Ming Zhang for MA state senate Worcester & middlesex Log In Home News About Get Involved Contact Putting Kitchen-Table Issues First ​ ​ ​ ​ ​ ​​​​​​​​​ ​ ​ 1.
+Help Families Stay and Thrive Families shouldn't have to leave Massachusetts because they can't afford to stay. ​ I'll work to lower the cost of living by expanding housing opportunities, reducing the burden of property taxes, keeping energy affordable, and supporting policies that help working families build financial security.
 2.
-Invest and Grow
-Strong communities aren't built through endless spending and cuts.
-I'll champion practical investments in people, infrastructure, clean water, environmental protection, and local businesses that strengthen our economy, create jobs, and expand opportunity across our district.
-The goal is simple: invest where it produces results, grow our economy, and make every tax dollar count.
-3.
-Make it Possible to Stay Here
-Young families deserve a path to homeownership.
-Seniors deserve the ability to downsize without leaving the communities they've spent a lifetime building.
-I will support local planning and practical housing solutions that preserve community character while creating more opportunities for people at every stage of life to remain in the communities they call home.
-4.
+Invest and Grow Strong communities aren't built through endless spending and cuts. ​ I'll champion practical investments in people, infrastructure, clean water, environmental protection, and local businesses that strengthen our economy, create jobs, and expand opportunity across our district. ​ The goal is simple: invest where it produces results, grow our economy, and make every tax dollar count. ​ 3.
+Make it Possible to Stay Here Young families deserve a path to homeownership.
+Seniors deserve the ability to downsize without leaving the communities they've spent a lifetime building. ​ I will support local planning and practical housing solutions that preserve community character while creating more opportunities for people at every stage of life to remain in the communities they call home. ​ 4.
 Independent Leadership.
-Real Accountability
-I answer to the people of this district - not to a political machine.
-I'll work with anyone who has a good idea, regardless of political affiliation, and I'll judge every proposal on its results rather than its party label.
-Every tax dollar should have to earn the public's trust.
-bottom of page
+Real Accountability I answer to the people of this district - not to a political machine. ​ I'll work with anyone who has a good idea, regardless of political affiliation, and I'll judge every proposal on its results rather than its party label. ​ Every tax dollar should have to earn the public's trust. ​ ​Support Our Cause When making a donation, please make sure that you are:​​ - At least eighteen years old. - The contribution is made from your own funds, and funds are not being provided to you by another person or entity for the purpose of making this contribution. - You are a U.S. citizen or permanent resident. - You are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution. - You are making this contribution with your own personal credit card and not with a corporate or business credit card or a card issue to another person.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Monthly Newsletters Newsletter - April Issue 20 Hampshire Road Wayland, MA 01778.
+Newsletter - May Issue Newsletter - June Issue Newsletter - July Issue Newsletter - August Issue Home About Me Get Involved Contact Ming Zhang - FOR STATE SENATE- Terms & Conditions Privacy Policy Accessibility Statement ​ Zhang Committee, ngdddd Westford, MA 01886 mingzhang.for2026@gmail.com 617-460-1538 bottom of page

@@ -1,7 +1,5 @@
-top of page
-NEWS/Public Statements
-Updates from the Campaign Trail
-ABOUT ARI >
-Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
-CONTACT >
-bottom of page
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In NEWS/Public Statements Updates from the Campaign Trail All Posts Search Honored to Receive the Endorsement of Dion Manley Dion Manley - Gahanna-Jefferson School Board I am proud to announce that Dion Manley — Ohio’s first openly transgender elected official and a dedicated member of the Gahanna-Jefferson School Board — has endorsed my campaign for the Ohio House.
+Dion is a longtime Gahanna resident and proud single dad whose daughter graduated from Gahanna-Jefferson Schools.
+A small business owner with deep community roots, he also brings years of public service experience, including work with t ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

@@ -1,27 +1,106 @@
 [
-"https://cindyforkansas.com/",
-"https://cindyforkansas.com/about",
-"https://cindyforkansas.com/espanol",
-"https://cindyforkansas.com/get-involved",
-"https://cindyforkansas.com/issues",
-"https://cindyforkansas.com/issues/advancing-bipartisanship-and-common-sense-not-extremism",
-"https://cindyforkansas.com/issues/cutting-property-taxes",
-"https://cindyforkansas.com/issues/investing-in-public-education-and-in-our-kids-futures",
-"https://cindyforkansas.com/issues/legalizing-recreational-and-medicinal-cannabis",
-"https://cindyforkansas.com/issues/lowering-costs",
-"https://cindyforkansas.com/issues/making-healthcare-accessible-and-affordable",
-"https://cindyforkansas.com/issues/protecting-social-security-medicare-and-medicaid",
-"https://cindyforkansas.com/issues/putting-a-pause-on-data-centers",
-"https://cindyforkansas.com/issues/standing-up-to-greedy-corporations-and-billionaires",
-"https://cindyforkansas.com/issues/supporting-working-families-not-the-wealthiest-few",
-"https://cindyforkansas.com/news",
-"https://cindyforkansas.com/privacy-policy",
-"https://cindyforkansas.com/support",
-"https://cindyforkansas.com/terms-of-service",
-"https://cindyforkansas.com/vote",
-"https://facebook.com/cindyforkansas",
-"https://instagram.com/cindyforkansas",
-"https://secure.actblue.com/donate/psd_holscher_website_1?amount=50",
-"https://store.cindyforkansas.com/",
-"https://x.com/cindy4kansas"
+{
+"text": "About",
+"href": "https://www.cindyforkansas.com/about"
+},
+{
+"text": "Advancing Common Sense, Not ExtremismCindy's common-sense approach helped Kansas clean up after the failed Brownback experiment.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/advancing-bipartisanship-and-common-sense-not-extremism"
+},
+{
+"text": "Cutting Property TaxesRising taxes shouldn't push people out of their homes.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/cutting-property-taxes"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/psd_holscher_website_1?amount=50"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@cindyforkansas.com"
+},
+{
+"text": "Español",
+"href": "https://www.cindyforkansas.com/espanol"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cindyforkansas.com/get-involved"
+},
+{
+"text": "Investing in Kansas KidsEvery child deserves the chance to succeed, and that starts with world-class public schools.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/investing-in-public-education-and-in-our-kids-futures"
+},
+{
+"text": "Issues",
+"href": "https://www.cindyforkansas.com/issues"
+},
+{
+"text": "Legalizing Recreational and Medicinal CannabisLegalizing it here at home would raise money for schools and public services.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/legalizing-recreational-and-medicinal-cannabis"
+},
+{
+"text": "Lowering the Cost of LivingThe cost-of-living crisis is crushing Kansans. We need to bring it under control,Learn more→",
+"href": "https://www.cindyforkansas.com/issues/lowering-costs"
+},
+{
+"text": "Making Healthcare Accessible and AffordableEvery Kansan should be able to take their child to the doctor.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/making-healthcare-accessible-and-affordable"
+},
+{
+"text": "News",
+"href": "https://www.cindyforkansas.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cindyforkansas.com/privacy-policy"
+},
+{
+"text": "Protecting Social Security, Medicare, and MedicaidCindy will safeguard these critical programs that more than half a million Kansans depend on.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/protecting-social-security-medicare-and-medicaid"
+},
+{
+"text": "Putting a Pause on Data CentersKansas needs to stop approving new data centers until guardrails are in place.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/putting-a-pause-on-data-centers"
+},
+{
+"text": "Standing Up to CorruptionIt's time to end the sweetheart deals for billionaire CEOs.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/standing-up-to-greedy-corporations-and-billionaires"
+},
+{
+"text": "Store",
+"href": "https://store.cindyforkansas.com"
+},
+{
+"text": "Supporters",
+"href": "https://www.cindyforkansas.com/support"
+},
+{
+"text": "Supporting Working FamiliesWorking people should be able to support a family, even in tough times.Learn more→",
+"href": "https://www.cindyforkansas.com/issues/supporting-working-families-not-the-wealthiest-few"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.cindyforkansas.com/terms-of-service"
+},
+{
+"text": "Vote",
+"href": "https://www.cindyforkansas.com/vote"
+},
+{
+"text": "[image: Cindy Holscher for Governor]",
+"href": "https://www.cindyforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cindyforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cindyforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/cindy4kansas"
+}
 ]

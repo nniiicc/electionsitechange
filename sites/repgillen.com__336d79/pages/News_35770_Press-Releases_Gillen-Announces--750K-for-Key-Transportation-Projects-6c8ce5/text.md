@@ -1,21 +1,12 @@
-Gillen Announces $750K for Key Transportation Projects in Berks County
-February 25, 2025
-HARRISBURG – Rep.
+PA State Rep.
+Mark Gillen Serving PA's 128th Legislative District Subscribe Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact Gillen Announces $750K for Key Transportation Projects in Berks County February 25, 2025 HARRISBURG – Rep.
 Mark Gillen (R-Berks) is pleased to announce that state grant funding totaling $750,000 has been awarded to support key transportation and infrastructure projects in the 128th District.
 “This funding is an investment in the long-term success of our region’s infrastructure and economic development,” Gillen said.
-“Strengthening our transportation network will encourage job creation and support local businesses that rely on these improvements.”
-• PDC Northeast LPIV, LLC will receive $500,000 for transportation improvements to aid in the development of the Southern Berks Industrial Park in New Morgan Borough.
-• ReFined Plastics, LLC has been awarded $250,000 to complete Phase 2 of renovations to the Titus Station Rail Line in Cumru Township.
+“Strengthening our transportation network will encourage job creation and support local businesses that rely on these improvements.” • PDC Northeast LPIV, LLC will receive $500,000 for transportation improvements to aid in the development of the Southern Berks Industrial Park in New Morgan Borough. • ReFined Plastics, LLC has been awarded $250,000 to complete Phase 2 of renovations to the Titus Station Rail Line in Cumru Township.
 The Multimodal Transportation Fund provides grants to encourage economic development and ensure that a safe and reliable system of transportation is available to the residents of the commonwealth.
 Funds may be used for the development, rehabilitation and enhancement of transportation assets to existing communities, streetscape, lighting, sidewalk enhancement, pedestrian safety, connectivity of transportation assets and transit-oriented development.
 Representative Mark M.
-Gillen
-128th Legislative District
-Pennsylvania House of Representatives
-Media Contact: Will Jones
-717.260.6615
-wjones@pahousegop.com
-RepGillen.com | Facebook.com/RepGillen
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Gillen 128th Legislative District Pennsylvania House of Representatives Media Contact: Will Jones 717.260.6615 wjones@pahousegop.com RepGillen.com | Facebook.com/RepGillen Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations FLYING HILLS (CUMRU TWP.) 29 Village Center Drive Suite A-7 Reading, PA 19607 610-775-5130 AMITY TOWNSHIP Amity Township Building 2004 Weavertown Road Douglassville, PA 19518 610-385-0704 CAPITOL 18 East Wing PO Box 202128 Harrisburg, PA 17120-2128 717-787-8550 TTY: 855-282-0614 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact

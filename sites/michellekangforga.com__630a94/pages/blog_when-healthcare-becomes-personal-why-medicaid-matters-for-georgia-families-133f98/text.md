@@ -1,5 +1,4 @@
-When Healthcare Becomes Personal: Why Medicaid Matters for Georgia Families
-When my 82-year-old mom broke her hip, care made all the difference.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate When Healthcare Becomes Personal: Why Medicaid Matters for Georgia Families Aug 26 Written By Michelle Kang When my 82-year-old mom broke her hip, care made all the difference.
 Cutting Medicaid would strip that lifeline from families like mine.
 My mom looked just like me when she was my age.
 Now, she is 82 years old.
@@ -19,5 +18,11 @@ This is not abstract policy.
 This is about whether people we love get to heal, grow, and thrive or whether they are left behind because politicians in Washington decided to play games with our healthcare.
 I believe Georgia deserves better.
 Every family deserves peace of mind knowing that when a health crisis comes, care will be there.
-That’s why I will keep speaking out against these reckless cuts, because healthcare is not a privilege, it is a human right.
+That’s why I will keep speaking out against these reckless cuts, because healthcare is not a privilege, it is a human right .
 This is Michelle Kang, the candidate for House District 99.
+Michelle Kang Previous Previous Raiding Trust: Why the U.S.–Korea Alliance Is at Risk in Georgia Next Next Georgia Is Purging Nearly Half a Million Voters and Here’s Why You Should Care Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

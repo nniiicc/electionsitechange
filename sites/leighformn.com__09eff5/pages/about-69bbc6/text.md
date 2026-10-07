@@ -1,5 +1,4 @@
-about leigh
-A Minnesota OG.
+0 Skip to Content About Platform Issues Statement on Labor Endorsements Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu About Platform Issues Statement on Labor Endorsements Volunteer Contact Donate About Folder: Platform Back Issues Statement on Labor Endorsements Volunteer Contact Donate View fullsize about leigh A Minnesota OG.
 Mother of two.
 Transgender pioneer.
 Activist.
@@ -17,9 +16,9 @@ She currently serves as the House Chair of the Reproductive Freedom Caucus.
 Leigh’s political activism began at Bethel, when she took an active role in protesting the war in Iraq.
 She has never stopped advocating for civil liberties at home and abroad.
 Today, Leigh is a committed and passionate advocate for 2SLGBTQIA+ equality, abortion rights, prison justice, and environmental equity.
-She was named Minnesota Woman of the Year by USA Today in 2023, a 2023 Changemaker by Minnesota Public Radio, and won the 2023 Health Hero Award at Children’s Minnesota.
+She was named Minnesota Woman of the Year by USA Today in 2023 , a 2023 Changemaker by Minnesota Public Radio , and won the 2023 Health Hero Award at Children’s Minnesota .
 In her personal time, Leigh enjoys writing, painting, traveling, skateboarding, and organizing community events, and exploring Minnesota’s parks with her kids.
 Leigh and her kids.
 Photo by Amber Zumski.
 Leigh speaking at St.
-Olaf College
+Olaf College don’t miss a thing Sign up to receive news and updates about Leigh for 66A. prepared and paid for by Leigh Finke for Minnesota PO Box 40206, Saint Paul, MN 55104 leighformn@gmail.com

@@ -1,11 +1,42 @@
 [
-"https://facebook.com/VoteRosalbaDominguez",
-"https://instagram.com/rosalbadominguez_",
-"https://secure.actblue.com/donate/cthd35",
-"https://voterosalba.com/",
-"https://voterosalba.com/about-rosalba",
-"https://voterosalba.com/blog",
-"https://voterosalba.com/endorsements",
-"https://voterosalba.com/map",
-"https://voterosalba.com/newsletter-sign-up"
+{
+"text": "About Rosalba",
+"href": "https://www.voterosalba.com/about-rosalba"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterosalba.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.voterosalba.com"
+},
+{
+"text": "In the News",
+"href": "https://www.voterosalba.com/blog"
+},
+{
+"text": "Map",
+"href": "https://www.voterosalba.com/map"
+},
+{
+"text": "Newsletter Sign Up",
+"href": "https://www.voterosalba.com/newsletter-sign-up"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteRosalbaDominguez"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/rosalbadominguez_/"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/cthd35"
+},
+{
+"text": "me@voterosalba.com",
+"href": "mailto:me@voterosalba.com"
+}
 ]

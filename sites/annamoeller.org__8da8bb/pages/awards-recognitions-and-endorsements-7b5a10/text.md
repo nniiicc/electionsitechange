@@ -1,48 +1,7 @@
-Anna has been recognized for her leadership and commitment to serving her community and the state by several state-wide and local organizations.
-Paul Simon Courage in Public Leadership Award from Lutheran Social Services of Illinois and Lutheran Child and Family Services
-Lifetime Environmental Champion from the Illinois Environmental Council
-Illinois Primary Healthcare Association Community Health Center Champion Award, 2023
-Legislator of the Year Award from the Illinois Association of Community Care Program Home Care Providers, 2023
-Champion for Children Award from the Well Child Center of Elgin, 2022
-Voice of Senior Care Award from the Illinois Healthcare Association, 2022
-Marklund Advocacy Award, 2020 and 2022
-Public Leadership Award from the Active Transportation Alliance, 2022
-Susan B.
-Anthony Award from the Elgin Branch of American Association of University Women (AAUW)
-Agent of Change Award by the Illinois Chapter of the American Association of University Women (AAUW)
-Environmental Leadership Award by the Illinois Environmental Council (IEC)
-Celebrating Allies Award by the Chicago Alliance Against Sexual Exploitation (CAASE)
-Sustainability Award by the City of Elgin Sustainability Commission
-Friend of Agriculture Award by the Illinois Farm Bureau
-Legislator of the Year Award by the Illinois Association of Nurse Anesthetists
-Legislator of the Year Award by Associated Fire Fighters of Illinois
-Humane Legislator of the Year Award by the Illinois Humane Society
-Legislator of the Year Award by the Illinois Optometric Society
-Legislator of the Year Award by the Illinois Osteopathic Medical Society
-Legislator of the Year Award by the Illinois Psychological Association
-Appreciation Award from the Salute to Our Heroes Foundation
-Friend of Infrastructure Award by the Transportation for Illinois Coalition
-Designated as a “Pro-Choice Champion” by Illinois Personal Pac
-“Illinois Capitol Caregiver” by the American Association of Retired People
-Honorary Chairwoman of the Centro de Informacion Annual Gala, 2021
-Honorary Co-Chairwoman of the Illinois Planned Parenthood Annual Gala, 2022
-Edgar Fellow by the Institute of Government and Public Affairs at the University of Illinois
-Bowhay Legislative Leadership Fellowship by the Council of State Governments
-A+ Rating from the Gun Violence Prevention Action Committee (GPAC), 2021
-Legislative Honor Roll for Advancing Health and Justice from Treatment Alternatives for Safe Communities (TASC), 2021
-Endorsements
-International Union of Operating Engineers Local 150
-Illinois AFL-CIO
-Chicago Firefighters Union
-Equality Illinois
-Personal PAC
-Illinois Planned Parenthood
-Illinois Federation of Teachers
-Illinois Education Association
-Associated Fire Fighters of Illinois
-ABATE of Illinois
-Sierra Club of Illinois
-Mayor Bill McLeod, Village of Hoffman Estates
-US Senator Richard Durbin
-US Congressman Raja Krishnamoorthi
-Supported by the Illinois Manufacturers Association
+Skip to content Anna Moeller for Illinois Focused on solving problems over politics Menu About Anna Moeller How You Can Support Anna Awards, Recognitions and Endorsements Contact Awards, Recognitions and Endorsements Anna has been recognized for her leadership and commitment to serving her community and the state by several state-wide and local organizations.
+Paul Simon Courage in Public Leadership Award from Lutheran Social Services of Illinois and Lutheran Child and Family Services Lifetime Environmental Champion from the Illinois Environmental Council Illinois Primary Healthcare Association Community Health Center Champion Award, 2023 Legislator of the Year Award from the Illinois Association of Community Care Program Home Care Providers, 2023 Champion for Children Award from the Well Child Center of Elgin, 2022 Voice of Senior Care Award from the Illinois Healthcare Association, 2022 Marklund Advocacy Award, 2020 and 2022 Public Leadership Award from the Active Transportation Alliance, 2022 Susan B.
+Anthony Award from the Elgin Branch of American Association of University Women (AAUW) Agent of Change Award by the Illinois Chapter of the American Association of University Women (AAUW) Environmental Leadership Award by the Illinois Environmental Council (IEC) Celebrating Allies Award by the Chicago Alliance Against Sexual Exploitation (CAASE) Sustainability Award by the City of Elgin Sustainability Commission Friend of Agriculture Award by the Illinois Farm Bureau Legislator of the Year Award by the Illinois Association of Nurse Anesthetists Legislator of the Year Award by Associated Fire Fighters of Illinois Humane Legislator of the Year Award by the Illinois Humane Society Legislator of the Year Award by the Illinois Optometric Society Legislator of the Year Award by the Illinois Osteopathic Medical Society Legislator of the Year Award by the Illinois Psychological Association Appreciation Award from the Salute to Our Heroes Foundation Friend of Infrastructure Award by the Transportation for Illinois Coalition Designated as a “Pro-Choice Champion” by Illinois Personal Pac “Illinois Capitol Caregiver” by the American Association of Retired People Honorary Chairwoman of the Centro de Informacion Annual Gala, 2021 Honorary Co-Chairwoman of the Illinois Planned Parenthood Annual Gala, 2022 Edgar Fellow by the Institute of Government and Public Affairs at the University of Illinois Bowhay Legislative Leadership Fellowship by the Council of State Governments A+ Rating from the Gun Violence Prevention Action Committee (GPAC), 2021 Legislative Honor Roll for Advancing Health and Justice from Treatment Alternatives for Safe Communities (TASC), 2021 Endorsements International Union of Operating Engineers Local 150 Illinois AFL-CIO Chicago Firefighters Union Equality Illinois Personal PAC Illinois Planned Parenthood Illinois Federation of Teachers Illinois Education Association Associated Fire Fighters of Illinois ABATE of Illinois Sierra Club of Illinois Mayor Bill McLeod, Village of Hoffman Estates US Senator Richard Durbin US Congressman Raja Krishnamoorthi Supported by the Illinois Manufacturers Association Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+About Anna Moeller How You Can Support Anna Awards, Recognitions and Endorsements Contact Blog at WordPress.com.
+Subscribe Subscribed Anna Moeller for Illinois Sign me up Have a WordPress.com account?
+Log in now.
+Anna Moeller for Illinois Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

@@ -1,7 +1,9 @@
 {
  "description": "View Erica Mosca's endorsements, a Democrat running for Nevada State Assembly (District 14).",
  "final_url": "https://www.ericamosca.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "b784cf66fb67bebaeb2bd2a41c2716db758402f8",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Erica Mosca 2126 Citroen St",
  "title": "Erica Mosca | Las Vegas Democrat for Nevada State Assembly | Endorsements",
  "years_mentioned": [
   "2025"

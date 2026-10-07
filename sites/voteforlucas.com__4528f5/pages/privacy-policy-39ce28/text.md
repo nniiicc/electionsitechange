@@ -1,29 +1,19 @@
-Privacy Policy
-This Privacy Policy governs the manner in which Friends of Lucas Green collects, uses, maintains and discloses information collected from users of (the “website”).
+Home Bio Issues Volunteer Join Email List Facebook Donate Home Bio Issues Volunteer Join Email List Facebook Donate Privacy Policy This Privacy Policy governs the manner in which Friends of Lucas Green collects, uses, maintains and discloses information collected from users of (the “website”).
 This Privacy Policy applies to the website and all products and services offered by Friends of Lucas Green.
 1.
-Information We Collect:
-a.
-Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms.
-b.
+Information We Collect: a.
+Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms. b.
 Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services.
-c.
-Automatically Collected Information: When you visit our website, we may automatically collect certain information about your device, browser, and usage patterns.
-This information may include IP addresses, cookies, and other tracking technologies.
 2.
-Use of Information:
-a.
+Use of Information: a.
 We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.
 To send you updates, newsletters, and other campaign-related information.
 To analyze and improve our website’s performance, content, and user experience.
-To comply with legal obligations and enforce our rights and agreements.
-b.
+To comply with legal obligations and enforce our rights and agreements. b.
 Text Messaging Opt-In Data: Your phone number and related data collected for text messaging services will only be used to send you campaign-related text messages and updates.
 3.
-Sharing of Information:
-a.
-We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law.
-b.
+Sharing of Information: a.
+We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law. b.
 Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
 4.
 Data Security: We take reasonable measures to protect the security of your personal information and employ industry-standard security technologies to safeguard it.
@@ -40,7 +30,5 @@ If we become aware that we have collected personal information from a child unde
 Updates to this Privacy Policy: We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons.
 Any changes will be effective immediately upon posting of the revised Privacy Policy on our website.
 We encourage you to review this page periodically for the latest information on our privacy practices.
-Contacting Us
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:
-Friends of Lucas Green
-This document was last updated on November 17, 2023
+Contacting Us If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at: Friends of Lucas Green This document was last updated on November 17, 2023 Paid for by Friends of Lucas Green, Jeff Hotop, Treasurer ﻿ Home Issues Meet Volunteer Donate Privacy Policy Contact Home Issues Meet Volunteer Donate Privacy Policy Contact Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes View Details Quantity - + Sold Out

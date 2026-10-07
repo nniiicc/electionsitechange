@@ -1,15 +1,62 @@
 [
-"https://edgargonzalezjr.com/",
-"https://edgargonzalezjr.com/campaign@edgargonzalezjr.com",
-"https://edgargonzalezjr.com/cart",
-"https://edgargonzalezjr.com/contact",
-"https://edgargonzalezjr.com/meetedgar",
-"https://edgargonzalezjr.com/priorities",
-"https://edgargonzalezjr.com/privacy-policy",
-"https://edgargonzalezjr.com/www.elections.il.gov",
-"https://elections.il.gov/",
-"https://facebook.com/edgargonzalezjr96",
-"https://instagram.com/edgargonzalezjr96",
-"https://secure.actblue.com/donate/friendsofedgargonzalezjr",
-"https://twitter.com/egonzalezjr96"
+{
+"text": ".",
+"href": "https://www.elections.il.gov"
+},
+{
+"text": ".il.gov",
+"href": "https://www.edgargonzalezjr.com/www.elections.il.gov"
+},
+{
+"text": "0",
+"href": "https://www.edgargonzalezjr.com/cart"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.edgargonzalezjr.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofedgargonzalezjr"
+},
+{
+"text": "MEET EDGAR",
+"href": "https://www.edgargonzalezjr.com/meetedgar"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.edgargonzalezjr.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.edgargonzalezjr.com/privacy-policy"
+},
+{
+"text": "[image: Edgar Gonzalez for Illinois]",
+"href": "https://www.edgargonzalezjr.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/egonzalezjr96"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/edgargonzalezjr96"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/edgargonzalezjr96/"
+},
+{
+"text": "campaign@edgargonzalezjr.com",
+"href": "https://www.edgargonzalezjr.com/campaign@edgargonzalezjr.com"
+},
+{
+"text": "elections",
+"href": "https://www.elections.il.gov"
+},
+{
+"text": "www",
+"href": "https://www.edgargonzalezjr.com/www.elections.il.gov"
+}
 ]

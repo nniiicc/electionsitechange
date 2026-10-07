@@ -1,11 +1,10 @@
-SPRINGFIELD – As the 250th anniversary of the founding of the United States nears, State Senator Doris Turner (D-Springfield) championed a measure to establish a commission to carry out celebrations in Illinois leading up to and commemorating the day.
-“The 250th anniversary of our country’s founding will be a special time for the nation as we reflect on our history and accomplishments while also charting a course for the future,” Turner said.
-“Celebrations will ring from the coast of Maine to the glaciers of Alaska, and Illinois will join in those celebrations with a truly special program.”
-This measure follows a federal initiative to create a national USA 250 commission.
+Skip to content Home About Issues Contact Volunteer Events Legislative Updates Menu Home About Issues Contact Volunteer Events Legislative Updates CONTRIBUTE Senate Approves Turner’s Initiative To Plan Celebrations In Honor of The Country’s 250th Anniversary April 26, 2022 4:02 pm SPRINGFIELD – As the 250 th anniversary of the founding of the United States nears, State Senator Doris Turner (D-Springfield) championed a measure to establish a commission to carry out celebrations in Illinois leading up to and commemorating the day.
+“The 250 th anniversary of our country’s founding will be a special time for the nation as we reflect on our history and accomplishments while also charting a course for the future,” Turner said.
+“Celebrations will ring from the coast of Maine to the glaciers of Alaska, and Illinois will join in those celebrations with a truly special program.” This measure follows a federal initiative to create a national USA 250 commission.
 Members of the state commission will include representatives from the Sons and Daughters of the Revolution, the Abraham Lincoln Presidential Library and Museum as well as members picked by a bipartisan group of government leaders.
 The Director of the Illinois State Museum will serve as the Illinois America 250 Commission Chair.
 The commission will work to highlight some important milestones and themes in our state’s history in relation to our nation’s history.
 Events like the founding of the State, the Lincoln Douglas debates, President Lincoln preserving the Union, and the world’s fair of 1893.
 “Our great country has a deep and vast history to share,” Turner said.
-“I am honored to play a role in this historic event.”
-House Bill 5015 passed the Senate and returns to the House for concurrence consideration.
+“I am honored to play a role in this historic event.” House Bill 5015 passed the Senate and returns to the House for concurrence consideration.
+Prev Previous Senator Turner Addresses Measure to Target Retail Theft Next Senator Turner Shocked At Hateful Social Media Posts Next Facebook Linkedin Twitter About Issues Endorsements Contact About Issues Endorsements Contact PAID FOR BY FRIENDS OF DORIS TURNER

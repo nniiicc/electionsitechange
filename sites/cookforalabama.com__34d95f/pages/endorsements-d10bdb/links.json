@@ -1,63 +1,326 @@
 [
-"https://alabamacannabiscoalition.org/endorsements?pgid=mf4lc68b-8acc2bd4-e137-4171-bc94-c5efb2556610",
-"https://alabamademcounty.org/",
-"https://alaflcio.com/",
-"https://alaflcio.com/central-alabama-labor-federation-afl-cio/take-action",
-"https://alanthomasforhd50.us/",
-"https://ballotpedia.org/Elizabeth_Anderson_(Alabama)",
-"https://bonfire.com/store/cook-for-alabama",
-"https://bsky.app/profile/momsdemandaction.org",
-"https://cfequality.org/",
-"https://cfequality.org/members/endorsements/2026",
-"https://cookforalabama.com/",
-"https://cookforalabama.com//www.alabamacannabiscoalition.org",
-"https://cookforalabama.com/about",
-"https://cookforalabama.com/contact",
-"https://cookforalabama.com/district-43",
-"https://cookforalabama.com/events",
-"https://cookforalabama.com/issues",
-"https://cookforalabama.com/volunteer",
-"https://designedtorun.com/",
-"https://electdavidmorgan.com/",
-"https://facebook.com/ALCANNACOALITION",
-"https://facebook.com/ALTermLimits",
-"https://facebook.com/AlaAFLCIO",
-"https://facebook.com/CentralALabamaLaborFederation",
-"https://facebook.com/FreethoughtEquality",
-"https://facebook.com/IAmInseparable",
-"https://facebook.com/MomsDemandAction",
-"https://facebook.com/ShelbyCountyDemocratsAL",
-"https://facebook.com/cookforalabama",
-"https://facebook.com/groups/9146192748827463",
-"https://facebook.com/share/p/14j4VaFxkvj",
-"https://facebook.com/share/p/187ZS1PA1S",
-"https://facebook.com/share/p/1FXw2nLcqC",
-"https://flickr.com/people/alabamaaflcio",
-"https://flickr.com/photos/alabamaaflcio/albums",
-"https://gunsensevoter.org/candidates?usState=AL&officeLevel=state",
-"https://instagram.com/alabamacannabiscoalition",
-"https://instagram.com/cookforalabama",
-"https://instagram.com/freethoughtequality",
-"https://instagram.com/iaminseparable",
-"https://instagram.com/momsdemand",
-"https://instagram.com/p/DUjw69kkfXU?img_index=1",
-"https://instagram.com/p/DWzEG1dFVVF",
-"https://instagram.com/progressivevotersnetwork",
-"https://instagram.com/shelbycountydems",
-"https://mandieforalabama.com/",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://motternforalabama.com/",
-"https://secure.actblue.com/donate/cookforalabama",
-"https://shelbycountydems.com/",
-"https://substack.com/@cookforalabama",
-"https://tabithaisner.com/",
-"https://termlimits.com/",
-"https://threads.net/@cookforalabama",
-"https://threads.net/@momsdemand",
-"https://tiktok.com/@cookforalabama",
-"https://tiktok.com/@momsdemand",
-"https://x.com/CentralALLaborF",
-"https://x.com/alabamaaflcio",
-"https://x.com/alcannabisco"
+{
+"text": "About",
+"href": "https://www.cookforalabama.com/about"
+},
+{
+"text": "Alabama AFL-CIO",
+"href": "https://www.facebook.com/share/p/14j4VaFxkvj/"
+},
+{
+"text": "Alabama Cannabis Coalition",
+"href": "https://www.alabamacannabiscoalition.org/endorsements?pgid=mf4lc68b-8acc2bd4-e137-4171-bc94-c5efb2556610"
+},
+{
+"text": "Alabama Democratic County Chairs Assoc.",
+"href": "https://www.facebook.com/share/p/1FXw2nLcqC/"
+},
+{
+"text": "Center for Freethought Equality",
+"href": "https://www.cfequality.org/members/endorsements/2026#Alabama"
+},
+{
+"text": "Central Alabama Labor Federation",
+"href": "https://alaflcio.com/central-alabama-labor-federation-afl-cio/take-action"
+},
+{
+"text": "Contact",
+"href": "https://www.cookforalabama.com/contact"
+},
+{
+"text": "District 43",
+"href": "https://www.cookforalabama.com/district-43"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "Events",
+"href": "https://www.cookforalabama.com/events"
+},
+{
+"text": "Mental Health Now Candidate",
+"href": "https://www.instagram.com/p/DWzEG1dFVVF/"
+},
+{
+"text": "Moms Demand Action Gun Sense Candidate",
+"href": "https://gunsensevoter.org/candidates/?usState=AL&officeLevel=state"
+},
+{
+"text": "Platform",
+"href": "https://www.cookforalabama.com/issues"
+},
+{
+"text": "Progressive Voters Network",
+"href": "https://www.instagram.com/p/DUjw69kkfXU/?img_index=1"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Shelby County Democratic Party",
+"href": "https://shelbycountydems.com/"
+},
+{
+"text": "Store",
+"href": "https://bonfire.com/store/cook-for-alabama/"
+},
+{
+"text": "U.S. Term Limits Pledge Signee",
+"href": "https://www.facebook.com/share/p/187ZS1PA1S/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cookforalabama.com/volunteer"
+},
+{
+"text": "[image: Alabama AFL-CIO]",
+"href": "https://www.facebook.com/share/p/14j4VaFxkvj/"
+},
+{
+"text": "[image: Alabama Cannabis Coalition]",
+"href": "https://www.alabamacannabiscoalition.org/endorsements?pgid=mf4lc68b-8acc2bd4-e137-4171-bc94-c5efb2556610"
+},
+{
+"text": "[image: Alabama Democratic County Chairs Assoc.]",
+"href": "https://www.facebook.com/share/p/1FXw2nLcqC/"
+},
+{
+"text": "[image: Alan Thomas]Alan ThomasDEMOCRATIC NOMINEE For ALABAMA State House District 50",
+"href": "https://alanthomasforhd50.us/"
+},
+{
+"text": "[image: Center for Freethought Equality]",
+"href": "https://www.cfequality.org/members/endorsements/2026#Alabama"
+},
+{
+"text": "[image: Central Alabama Labor Federation]",
+"href": "https://alaflcio.com/central-alabama-labor-federation-afl-cio/take-action"
+},
+{
+"text": "[image: Cook for Alabama]",
+"href": "https://www.cookforalabama.com/"
+},
+{
+"text": "[image: David Morgan]David MorganDEMOCRATIC NOMINEE For ALABAMA State House District 41",
+"href": "https://electdavidmorgan.com/"
+},
+{
+"text": "[image: Donald Mottern]Donald MotternDEMOCRATIC NOMINEE For ALABAMA State Senate District 11",
+"href": "https://motternforalabama.com/"
+},
+{
+"text": "[image: Elizabeth Anderson]Elizabeth AndersonCEO OF LUNARLAB, 2024 DEMOCRATIC NOMINEE FOR U.S. HOUSE OF REPRESENTATIVES, AL-06",
+"href": "https://ballotpedia.org/Elizabeth_Anderson_(Alabama)"
+},
+{
+"text": "[image: Mandie Ledkins]Mandie LedkinsDEMOCRATIC NOMINEE FOR ALABAMA State Senate District 14",
+"href": "https://mandieforalabama.com/"
+},
+{
+"text": "[image: Mental Health Now Candidate]",
+"href": "https://www.instagram.com/p/DWzEG1dFVVF/"
+},
+{
+"text": "[image: Moms Demand Action Gun Sense Candidate]",
+"href": "https://gunsensevoter.org/candidates/?usState=AL&officeLevel=state"
+},
+{
+"text": "[image: Progressive Voters Network]",
+"href": "https://www.instagram.com/p/DUjw69kkfXU/?img_index=1"
+},
+{
+"text": "[image: Shelby County Democratic Party]",
+"href": "https://shelbycountydems.com/"
+},
+{
+"text": "[image: Tabitha Isner]Tabitha IsnerFORMER VICE-CHAIR OF THE ALABAMA DEMOCRATIC PARTY, 2018 DEMOCRATIC NOMINEE FOR U.S. HOUSE OF REPRESENTATIVES, AL-02",
+"href": "https://www.tabithaisner.com/"
+},
+{
+"text": "[image: U.S. Term Limits Pledge Signee]",
+"href": "https://www.facebook.com/share/p/187ZS1PA1S/"
+},
+{
+"text": "[no text]",
+"href": "https://alabamademcounty.org/"
+},
+{
+"text": "[no text]",
+"href": "https://alaflcio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://alaflcio.com/central-alabama-labor-federation-afl-cio/take-action"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/momsdemandaction.org"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ALCANNACOALITION"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ALTermLimits"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AlaAFLCIO/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CentralALabamaLaborFederation"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/FreethoughtEquality"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/IAmInseparable/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MomsDemandAction"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ShelbyCountyDemocratsAL"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/groups/9146192748827463"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/people/alabamaaflcio/"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/alabamaaflcio/albums/"
+},
+{
+"text": "[no text]",
+"href": "https://gunsensevoter.org/candidates/?usState=AL&officeLevel=state"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/alabamacannabiscoalition/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/freethoughtequality/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/iaminseparable/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/momsdemand"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/progressivevotersnetwork/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/shelbycountydems/"
+},
+{
+"text": "[no text]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[no text]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[no text]",
+"href": "https://shelbycountydems.com/"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://termlimits.com"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@momsdemand"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@momsdemand"
+},
+{
+"text": "[no text]",
+"href": "https://www.alabamacannabiscoalition.org/endorsements?pgid=mf4lc68b-8acc2bd4-e137-4171-bc94-c5efb2556610"
+},
+{
+"text": "[no text]",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.cfequality.org/members/endorsements/2026#Alabama"
+},
+{
+"text": "[no text]",
+"href": "https://www.cookforalabama.com//www.alabamacannabiscoalition.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/p/14j4VaFxkvj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/p/187ZS1PA1S/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/p/1FXw2nLcqC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DUjw69kkfXU/?img_index=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DWzEG1dFVVF/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CentralALLaborF"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/alabamaaflcio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/alcannabisco"
+}
 ]

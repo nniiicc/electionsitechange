@@ -1,20 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Legislative+Preview+2026&dates=20251212T000000Z%2F20251212T013000Z&location=509+South+Street%2C+Bow%2C+NH+03304%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=ZOOM%3A+Navigate+to+Advocate%3A+How+to+Testify+Online&dates=20260104T230000Z%2F20260105T000000Z",
-"http://maps.google.com/?q=509+South+Street+Bow%2C+NH+03304+United+States",
-"https://bsky.app/profile/colbyfornh.bsky.social",
-"https://colbyfornh.com/",
-"https://colbyfornh.com/cart",
-"https://colbyfornh.com/contact",
-"https://colbyfornh.com/events",
-"https://colbyfornh.com/events/event-demsmonthlymeeting",
-"https://colbyfornh.com/events/event-demsmonthlymeeting?format=ical",
-"https://colbyfornh.com/events/zoom-navigate-to-advocate",
-"https://colbyfornh.com/events/zoom-navigate-to-advocate?format=ical",
-"https://colbyfornh.com/legislative-updates",
-"https://colbyfornh.com/policy",
-"https://colbyfornh.com/support",
-"https://colbyfornh.com/takingaction",
-"https://facebook.com/ColbyForNH",
-"https://secure.actblue.com/donate/colby"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=509+south+street+bow%2C+nh+03304+united+states"
+},
+{
+"text": "0",
+"href": "https://colbyfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "ColbyForNH@gmail.com",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/colby"
+},
+{
+"text": "Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legislative+Preview+2026&dates=20251212T000000Z%2F20251212T013000Z&location=509+South+Street%2C+Bow%2C+NH+03304%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ZOOM%3A+Navigate+to+Advocate%3A+How+to+Testify+Online&dates=20260104T230000Z%2F20260105T000000Z"
+},
+{
+"text": "ICS",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://colbyfornh.com/events/zoom-navigate-to-advocate?format=ical"
+},
+{
+"text": "Legislative Preview 2026",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting"
+},
+{
+"text": "Legislative Updates",
+"href": "https://colbyfornh.com/legislative-updates"
+},
+{
+"text": "Policy",
+"href": "https://colbyfornh.com/policy"
+},
+{
+"text": "Support the Campaign",
+"href": "https://colbyfornh.com/support"
+},
+{
+"text": "Taking Action",
+"href": "https://colbyfornh.com/takingaction"
+},
+{
+"text": "View Event →",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting"
+},
+{
+"text": "View Event →",
+"href": "https://colbyfornh.com/events/zoom-navigate-to-advocate"
+},
+{
+"text": "ZOOM: Navigate to Advocate: How to Testify Online",
+"href": "https://colbyfornh.com/events/zoom-navigate-to-advocate"
+},
+{
+"text": "[image: Eleana Colby for State Representative]",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "[image: Legislative Preview 2026]",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting"
+},
+{
+"text": "[image: ZOOM: Navigate to Advocate: How to Testify Online]",
+"href": "https://colbyfornh.com/events/zoom-navigate-to-advocate"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/colbyfornh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColbyForNH"
+}
 ]

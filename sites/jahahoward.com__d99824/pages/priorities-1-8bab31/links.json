@@ -1,10 +1,42 @@
 [
-"http://facebook.com/JahaHowardForGeorgia",
-"http://instagram.com/DrJahaHoward",
-"https://jahahoward.com/",
-"https://jahahoward.com/about-jaha-1",
-"https://jahahoward.com/news",
-"https://jahahoward.com/priorities-1",
-"https://jahahoward.com/updates",
-"https://secure.actblue.com/donate/jaha-howard-1"
+{
+"text": "About Jaha",
+"href": "https://www.jahahoward.com/about-jaha-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jaha-howard-1"
+},
+{
+"text": "Home",
+"href": "https://www.jahahoward.com"
+},
+{
+"text": "In the News",
+"href": "https://www.jahahoward.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jahahoward.com/priorities-1"
+},
+{
+"text": "Updates",
+"href": "https://www.jahahoward.com/updates"
+},
+{
+"text": "[image: @DrJahaHoward]",
+"href": "http://instagram.com/DrJahaHoward"
+},
+{
+"text": "[image: @JahaHowardForGeorgia]",
+"href": "http://www.facebook.com/JahaHowardForGeorgia"
+},
+{
+"text": "[image: JH_LOGO_WHITE.webp]",
+"href": "https://www.jahahoward.com"
+},
+{
+"text": "[image]",
+"href": "https://www.jahahoward.com"
+}
 ]

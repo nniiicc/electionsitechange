@@ -1,25 +1,98 @@
 [
-"https://dannynadeau.com/",
-"https://dannynadeau.com/about",
-"https://dannynadeau.com/articles",
-"https://dannynadeau.com/contact",
-"https://dannynadeau.com/donate",
-"https://dannynadeau.com/endorsements",
-"https://dannynadeau.com/events",
-"https://dannynadeau.com/issues",
-"https://dannynadeau.com/photos",
-"https://dannynadeau.com/privacy-policy",
-"https://dannynadeau.com/suburbs-survey",
-"https://dannynadeau.com/voting",
-"https://facebook.com/dannyforhouse",
-"https://house.mn.gov/SessionDaily/Story/18491",
-"https://house.mn.gov/comm/docs/5QFmjAODw0uMwmbO2jWtYg.pdf",
-"https://house.mn.gov/comm/docs/vvkjYX669U25sMJEyZQ4bA.pdf",
-"https://house.mn.gov/members/membersR.asp?id=Rep_Danny_Nadeau",
-"https://house.mn.gov/members/membersR.asp?id=Rep_Nathan_Coulter",
-"https://house.mn.gov/members/membersR.asp?id=Rep_Nolan_West",
-"https://instagram.com/danny_nadeau",
-"https://revisor.mn.gov/bills/bill.php?f=HF633&b=house&y=2025&ssn=0",
-"https://x.com/NadeauDanny",
-"https://youtube.com/@dannynadeau3162"
+{
+"text": "About",
+"href": "https://dannynadeau.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://dannynadeau.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://dannynadeau.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://dannynadeau.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://dannynadeau.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dannynadeau.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/dannyforhouse"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/danny_nadeau/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@dannynadeau3162"
+},
+{
+"text": "Follow",
+"href": "https://x.com/NadeauDanny"
+},
+{
+"text": "HF633",
+"href": "https://www.revisor.mn.gov/bills/bill.php?f=HF633&b=house&y=2025&ssn=0"
+},
+{
+"text": "Here",
+"href": "https://www.house.mn.gov/SessionDaily/Story/18491"
+},
+{
+"text": "Home",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "Issues",
+"href": "https://dannynadeau.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://dannynadeau.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dannynadeau.com/privacy-policy/"
+},
+{
+"text": "Rep. Danny Nadeau",
+"href": "https://www.house.mn.gov/members/membersR.asp?id=Rep_Danny_Nadeau"
+},
+{
+"text": "Rep. Nathan Coulter",
+"href": "https://www.house.mn.gov/members/membersR.asp?id=Rep_Nathan_Coulter"
+},
+{
+"text": "Rep. Nolan West",
+"href": "https://www.house.mn.gov/members/membersR.asp?id=Rep_Nolan_West"
+},
+{
+"text": "Suburbs Survey",
+"href": "https://dannynadeau.com/suburbs-survey/"
+},
+{
+"text": "Voting",
+"href": "https://dannynadeau.com/voting/"
+},
+{
+"text": "[image: Danny Nadeau]",
+"href": "https://dannynadeau.com/"
+},
+{
+"text": "as amended",
+"href": "https://www.house.mn.gov/comm/docs/vvkjYX669U25sMJEyZQ4bA.pdf"
+},
+{
+"text": "letter",
+"href": "https://www.house.mn.gov/comm/docs/5QFmjAODw0uMwmbO2jWtYg.pdf"
+}
 ]

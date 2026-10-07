@@ -1,6 +1,4 @@
-Priorities
-Protecting Women’s Right to Choose
-Waking to the decision of the United States Supreme Court was devastating.
+Toggle navigation Volunteer Contribute Volunteer Home About Issues Priorities News Endorsements Contact Priorities Protecting Women’s Right to Choose Waking to the decision of the United States Supreme Court was devastating.
 The Constitutional right to abortion, a ruling that has been implemented for over 50 years and has protected the health and lives of thousands of women, has been overturned and lost due to the conservative majority in the Supreme Court.
 For Washingtonians, we are thankful not to feel the brunt edge of this devastating blow.
 Under our current legislation, women still have the right to get an abortion, a protection that I and many other Democrats have long fought for in Olympia.
@@ -17,9 +15,9 @@ As an elected official, it is my duty to fight for all people, to fight for wome
 This decision has been a major setback for women’s rights and human rights for that matter.
 We had much work to do and now the load is even larger, but we will take on the challenges in the name of justice, and it will indeed take everyone to do their part.
 The collective voice of the people has always changed history and it always will, this pivotal moment in history is when we must all come together.
-Fighting for our Democracy
-Washington state has perhaps the most secure voting system in the country.
+Fighting for our Democracy Washington state has perhaps the most secure voting system in the country.
 Audits have proven that vote by mail is safe, secure, and promotes democracy.
 Unfortunately, President Trump and the Republican Congress are trying to undermine our very system.
 That is why I was proud to help pass significant legislation that stands up to these threats.
 Along with Attorney General Nick Brown and Secretary of State Steve Hobbs, the legislature made it clear that we will not tolerate election interference by anyone.
+Paid for by Friends of Strom Peterson (D) PO Box 12066, Seattle, WA 98102

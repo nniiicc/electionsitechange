@@ -1,12 +1,46 @@
 [
-"http://facebook.com/BrianStewartOhio",
-"http://twitter.com/BrianStewartOH",
-"https://secure.piryx.com/donate/xt2NUqsL/StewartForOhio/Stewart-Ohio",
-"https://stewartforohio.com/",
-"https://stewartforohio.com/cdn-cgi/l/email-protection",
-"https://stewartforohio.com/contact.html",
-"https://stewartforohio.com/endorsements.html",
-"https://stewartforohio.com/issues.html",
-"https://stewartforohio.com/meet-brian.html",
-"https://stewartforohio.com/news.html"
+{
+"text": "@BrianStewartOH",
+"href": "http://www.twitter.com/BrianStewartOH"
+},
+{
+"text": "Contact",
+"href": "https://www.stewartforohio.com/contact.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stewartforohio.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://www.stewartforohio.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.stewartforohio.com/issues.html"
+},
+{
+"text": "Meet Brian",
+"href": "https://www.stewartforohio.com/meet-brian.html"
+},
+{
+"text": "News",
+"href": "https://www.stewartforohio.com/news.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:briansstewart@gmail.com"
+},
+{
+"text": "[image: BRIAN STEWART FOR STATE REPRESENTATIVE]",
+"href": "https://www.stewartforohio.com/"
+},
+{
+"text": "[image: Donate Now!]",
+"href": "https://secure.piryx.com/donate/xt2NUqsL/StewartForOhio/Stewart-Ohio"
+},
+{
+"text": "www.facebook.com/BrianStewartOhio",
+"href": "http://www.facebook.com/BrianStewartOhio"
+}
 ]

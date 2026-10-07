@@ -1,8 +1,4 @@
-Press Release: HB 3201 Passes the House
-FOR IMMEDIATE RELEASE:
-March 30, 2023
-HB 3201 Passes the House
-SALEM, Ore. – Today, HB 3201 passed out of the House, and is headed to the Senate.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: HB 3201 Passes the House March 30, 2023 / in News FOR IMMEDIATE RELEASE: March 30, 2023 HB 3201 Passes the House SALEM, Ore. – Today, HB 3201 passed out of the House, and is headed to the Senate.
 The bill requires Business Oregon to provide financial assistance to support broadband access, affordability, and adoption.
 It permits the department to establish one or more programs to provide financial assistance.
 It also requires Business Oregon give preference to projects that serve unserved or underserved areas.
@@ -11,8 +7,24 @@ Representative Greg Smith is currently serving his twelfth term as a State Repre
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-03-30 11:53:00 2023-10-02 11:55:43 Press Release: HB 3201 Passes the House Press Release: Additional Funding for the Raymond F.
+Rees Training Facility March 3, 2023 / in News FOR IMMEDIATE RELEASE : March 3, 2023 Additional Funding for the Raymond F.
+Rees Training Facility SALEM, Ore. – Today, t he Joint Committee On Ways and Means Subcommittee On Capital Construction voted to i ncrease the federal funds capital construction expenditure limitation by $20,243,000 for the Camp Umatilla Baracks at the Raymond F.
+Rees Training Center .
+This funding was contained within the -1 amendment to SB 5544.
+The legislation now moves to the full Joint Committee On Ways and Means.
+“This funding is intended to support public safety and defense efforts in the State of Oregon” said Representative Greg Smith (R-Heppner) “As a member of the Capital Construction Subcommittee, it was my pleasure to vote for additional public safety funding ”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
+He holds a gavel as t he Co-Chai r of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additional ly, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him a n email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-03-03 11:51:28 2023-10-02 11:52:18 Press Release: Additional Funding for the Raymond F.
+Rees Training Facility Press Release: Representative Smith Comments on Senator Hansell Not Seeking Re-Election March 2, 2023 / in News FOR IMMEDIATE RELEASE : March 2, 2023 Representative Greg Smith Comments on Senator Hansell Not Seeking Re-Election SALEM, Ore. – Representative Greg Smith (R-Heppner) release d the following statement in response to the announcement by Senator Bill Hansell (R-Athena) that he will not seek re-election to Senate District 29 : “I would like to acknowledge Senator Bill Hansell’s exemplary service to the State of Oregon.
+For the last ten years, I had the distinct honor to work alongside Senator Hansell in the legislature.
+Prior to his election to legislature, he honorably served as a Umatilla County Commissioner for over 30 years .
+I would also like to make it clear that I will not be seeking election to Senate District 29 in the 2024 election” Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature.
+He holds a gavel as t he Co-Chai r of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additional ly, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him a n email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-03-02 11:49:37 2023-10-02 11:50:50 Press Release: Representative Smith Comments on Senator Hansell Not Seeking Re-Election July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

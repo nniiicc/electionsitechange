@@ -1,13 +1,9 @@
-Contact
-Thank you for reaching out.
+Meet Brad Issues News Volunteer Contribute Contact Thank you for reaching out.
 I appreciate you taking the time to connect with our campaign.
 Whether you have a question, idea, concern, or would simply like to get involved, I look forward to hearing from you.
 Your voice matters, and I value the opportunity to listen and respond.
 We will do our best to get back to you as soon as possible.
-Contact Information:
-- Mail in Contributions: Campaign Fund for Brad Trahan, C/o Steve Borchardt, Treasurer, 2570 Colleen Street NE, Rochester, MN. 55906 (You can also Make a Donation, on Meet Brad Page)
-Follow Brad:
-- X: @ElectTrahan25A
-- Facebook: Trahan for MN House District 25A
-- Website: www.TrahanMN25A.com
-This website is Prepared and paid for by Brad Trahan for MN House 25A, 2570 Colleen Street NE, Rochester, MN. 55906
+Contact Information: Mail in Contributions: Campaign Fund for Brad Trahan, C/o Steve Borchardt, Treasurer, 2570 Colleen Street NE, Rochester, MN.
+55906 (You can also Make a Donation, on Meet Brad Page) Follow Brad: X: @ElectTrahan25A Facebook: Trahan for MN House District 25A Website: www.TrahanMN25A.com This website is Prepared and paid for by Brad Trahan for MN House 25A, 2570 Colleen Street NE, Rochester, MN.
+55906 First Name Last Name Email Phone Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip I would like to volunteer I would like to make a financial contribution I would like to canvass Get updates and news via email Subject: Message: Submit Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

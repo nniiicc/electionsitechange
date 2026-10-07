@@ -1,4 +1,4 @@
-As a former FBI Special Agent and Federal Prosecutor, I am committed to standing up for the brave men and women who have dedicated their lives to keep our communities safe.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Protecting our Families Opportunity for All Government Reform Protecting Medicare & Social Security A Health Care System That Works for Everyone An Immigration System That Works for Everyone Opioid Addiction and Mental Health Workforce Training and Development Empowering Women Protecting our Environment and Clean Water Protecting our Animals Equality and Diversity Promoting Education and Affordability Supporting our Veterans and Law Enforcement Supporting our Veterans and Law Enforcement As a former FBI Special Agent and Federal Prosecutor, I am committed to standing up for the brave men and women who have dedicated their lives to keep our communities safe.
 Protecting our veterans and law enforcement should always be a bipartisan issue, and I am dedicated to working across the aisle to find solutions to the problems they are facing.
 We can achieve sensible police reform while simultaneously supporting our heroes serving us in law enforcement.
 I introduced the Defund Cities that Defund Our Police Act to make sure that our hero police officers are well-funded, not defunded.
@@ -26,3 +26,7 @@ We need to know if veterans in every community have the resources they need to l
 Currently, the VA’s Whole Health Program is vital to mental health efforts, yet these services are not available at every facility.
 My bipartisan, Whole Veteran Act, will require VA to provide Congress with an analysis of the accessibility and health outcomes of each of various services at VA medical facilities (including community-based outpatient clinics, vet centers, and community living centers).
 This will increase access to care and increase needed accountability to ensure critical Whole Health programs—including chiropractic services, whole health group services, and holistic treatment options—are available and accessible at every VA facility for every veteran.
+Do you believe that we should protect the GI Bill education benefits that our veterans have earned?
+Yes No Email Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

@@ -1,44 +1,242 @@
 [
-"https://civilbeat.org/2026/07/candidate-qa-state-house-district-14-sne-patel",
-"https://facebook.com/joinsnepatel",
-"https://hawaiipublicradio.org/local-news/2024-09-05/lahaina-maui-fire-congressional-hearing-recovery-efforts-community-impact",
-"https://hawaiipublicradio.org/local-news/2026-02-18/lahaina-food-wine-festival-kicks-off-amid-town-recovery",
-"https://instagram.com/joinsnepatel",
-"https://joinpatel.com/",
-"https://joinpatel.com/about",
-"https://joinpatel.com/cart",
-"https://joinpatel.com/connect",
-"https://joinpatel.com/donate",
-"https://joinpatel.com/news",
-"https://joinpatel.com/news/akaku-7826",
-"https://joinpatel.com/news/civil-beat-72026",
-"https://joinpatel.com/news/hawaii-journalism-initiative-62126",
-"https://joinpatel.com/news/hawaii-journalism-initiative-6626",
-"https://joinpatel.com/news/hawaii-public-radio-21826",
-"https://joinpatel.com/news/hawaii-public-radio-9-5-24",
-"https://joinpatel.com/news/khon2-82824",
-"https://joinpatel.com/news/kitv-92324",
-"https://joinpatel.com/news/maui-news-9926",
-"https://joinpatel.com/news/maui-now-102723",
-"https://joinpatel.com/news/maui-now-61226",
-"https://joinpatel.com/news/maui-now-61826",
-"https://joinpatel.com/news/maui-now-7126",
-"https://joinpatel.com/news/mauinow-5-19-26",
-"https://joinpatel.com/news/rk6fww4kkesgribky8orlms2tkvepc",
-"https://joinpatel.com/news/star-advertiser-7926",
-"https://joinpatel.com/priorities",
-"https://joinpatel.com/take-action",
-"https://khon2.com/top-stories/everyone-excited-for-maui-invitational-to-return-home-this-thanksgiving",
-"https://kitv.com/news/lahaina-town-cleanup-preserves-maui-s-coast-for-20-years/article_7422eae0-7a14-11ef-8e37-3f48bb35877b.html",
-"https://mauinews.com/news/local-news/2026/09/lahaina-residents-elected-officials-press-usps-to-rebuild-post-office-restore-home-delivery",
-"https://mauinow.com/2026/05/19/sne-patel-seeks-state-house-of-representatives-west-maui-seat",
-"https://mauinow.com/2026/06/06/costliest-repairs-to-lahaina-harbor-still-ahead-as-dredging-gets-underway",
-"https://mauinow.com/2026/06/12/four-labor-unions-endorse-sne-patel-for-state-house-district-14",
-"https://mauinow.com/2026/06/18/hawai%ca%bbi-regional-council-of-carpenters-endorses-sne-patel-for-state-house-district-14",
-"https://mauinow.com/2026/06/21/a-lot-at-stake-for-west-maui-three-longtime-residents-face-off-in-aug-8-democratic-primary",
-"https://mauinow.com/2026/07/01/state-house-district-14-candidate-sne-patel-earns-endorsements-from-uhpa-rpac-and-plumbers-fitters-ua-local-675",
-"https://mauinow.com/2026/07/22/ibew-local-1186-endorses-sne-patel-for-state-house-district-14",
-"https://staradvertiser.com/2026/07/09/election/2026-election-sne-patel",
-"https://youtu.be/G0s18UMlBZA?si=CKLxLmuuieZLrmtJ",
-"https://youtu.be/TDb5W5wR0vs?si=gAKHoa93BCgTWUOR"
+{
+"text": "0",
+"href": "https://www.joinpatel.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.joinpatel.com/about"
+},
+{
+"text": "Akaku 7.8.26",
+"href": "https://youtu.be/G0s18UMlBZA?si=CKLxLmuuieZLrmtJ"
+},
+{
+"text": "Civil Beat 7.20.26",
+"href": "https://www.civilbeat.org/2026/07/candidate-qa-state-house-district-14-sne-patel/"
+},
+{
+"text": "Connect",
+"href": "https://www.joinpatel.com/connect"
+},
+{
+"text": "Contact",
+"href": "https://www.joinpatel.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://www.joinpatel.com/donate"
+},
+{
+"text": "Hawaii Public Radio 2.18.26",
+"href": "https://www.hawaiipublicradio.org/local-news/2026-02-18/lahaina-food-wine-festival-kicks-off-amid-town-recovery"
+},
+{
+"text": "Hawaii Public Radio 9.5.24",
+"href": "https://www.hawaiipublicradio.org/local-news/2024-09-05/lahaina-maui-fire-congressional-hearing-recovery-efforts-community-impact"
+},
+{
+"text": "Hawai’i Journalism Initiative 6.21.26",
+"href": "https://mauinow.com/2026/06/21/a-lot-at-stake-for-west-maui-three-longtime-residents-face-off-in-aug-8-democratic-primary/"
+},
+{
+"text": "Hawai’i Journalism Initiative 6.6.26",
+"href": "https://mauinow.com/2026/06/06/costliest-repairs-to-lahaina-harbor-still-ahead-as-dredging-gets-underway/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/joinsnepatel"
+},
+{
+"text": "KHON2 8.28.24",
+"href": "https://www.khon2.com/top-stories/everyone-excited-for-maui-invitational-to-return-home-this-thanksgiving/"
+},
+{
+"text": "KITV 9.23.24",
+"href": "https://www.kitv.com/news/lahaina-town-cleanup-preserves-maui-s-coast-for-20-years/article_7422eae0-7a14-11ef-8e37-3f48bb35877b.html"
+},
+{
+"text": "Maui News 9.9.26",
+"href": "https://www.mauinews.com/news/local-news/2026/09/lahaina-residents-elected-officials-press-usps-to-rebuild-post-office-restore-home-delivery/"
+},
+{
+"text": "Maui Now 10.27.23",
+"href": "https://youtu.be/TDb5W5wR0vs?si=gAKHoa93BCgTWUOR"
+},
+{
+"text": "Maui Now 5.19.26",
+"href": "https://mauinow.com/2026/05/19/sne-patel-seeks-state-house-of-representatives-west-maui-seat/"
+},
+{
+"text": "Maui Now 6.12.26",
+"href": "https://mauinow.com/2026/06/12/four-labor-unions-endorse-sne-patel-for-state-house-district-14/"
+},
+{
+"text": "Maui Now 6.18.26",
+"href": "https://mauinow.com/2026/06/18/hawai%ca%bbi-regional-council-of-carpenters-endorses-sne-patel-for-state-house-district-14/"
+},
+{
+"text": "Maui Now 7.1.26",
+"href": "https://mauinow.com/2026/07/01/state-house-district-14-candidate-sne-patel-earns-endorsements-from-uhpa-rpac-and-plumbers-fitters-ua-local-675/"
+},
+{
+"text": "Maui Now 7.22.26",
+"href": "https://mauinow.com/2026/07/22/ibew-local-1186-endorses-sne-patel-for-state-house-district-14/"
+},
+{
+"text": "News",
+"href": "https://www.joinpatel.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.joinpatel.com/priorities"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/05/19/sne-patel-seeks-state-house-of-representatives-west-maui-seat/"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/06/06/costliest-repairs-to-lahaina-harbor-still-ahead-as-dredging-gets-underway/"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/06/12/four-labor-unions-endorse-sne-patel-for-state-house-district-14/"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/06/18/hawai%ca%bbi-regional-council-of-carpenters-endorses-sne-patel-for-state-house-district-14/"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/06/21/a-lot-at-stake-for-west-maui-three-longtime-residents-face-off-in-aug-8-democratic-primary/"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/07/01/state-house-district-14-candidate-sne-patel-earns-endorsements-from-uhpa-rpac-and-plumbers-fitters-ua-local-675/"
+},
+{
+"text": "Read More",
+"href": "https://mauinow.com/2026/07/22/ibew-local-1186-endorses-sne-patel-for-state-house-district-14/"
+},
+{
+"text": "Read More",
+"href": "https://www.civilbeat.org/2026/07/candidate-qa-state-house-district-14-sne-patel/"
+},
+{
+"text": "Read More",
+"href": "https://www.hawaiipublicradio.org/local-news/2024-09-05/lahaina-maui-fire-congressional-hearing-recovery-efforts-community-impact"
+},
+{
+"text": "Read More",
+"href": "https://www.hawaiipublicradio.org/local-news/2026-02-18/lahaina-food-wine-festival-kicks-off-amid-town-recovery"
+},
+{
+"text": "Read More",
+"href": "https://www.khon2.com/top-stories/everyone-excited-for-maui-invitational-to-return-home-this-thanksgiving/"
+},
+{
+"text": "Read More",
+"href": "https://www.kitv.com/news/lahaina-town-cleanup-preserves-maui-s-coast-for-20-years/article_7422eae0-7a14-11ef-8e37-3f48bb35877b.html"
+},
+{
+"text": "Read More",
+"href": "https://www.mauinews.com/news/local-news/2026/09/lahaina-residents-elected-officials-press-usps-to-rebuild-post-office-restore-home-delivery/"
+},
+{
+"text": "Read More",
+"href": "https://www.staradvertiser.com/2026/07/09/election/2026-election-sne-patel/"
+},
+{
+"text": "Read More",
+"href": "https://youtu.be/G0s18UMlBZA?si=CKLxLmuuieZLrmtJ"
+},
+{
+"text": "Read More",
+"href": "https://youtu.be/TDb5W5wR0vs?si=gAKHoa93BCgTWUOR"
+},
+{
+"text": "Star Advertiser 7.9.26",
+"href": "https://www.staradvertiser.com/2026/07/09/election/2026-election-sne-patel/"
+},
+{
+"text": "Take Action",
+"href": "https://www.joinpatel.com/take-action"
+},
+{
+"text": "[image: Akaku 7.8.26]",
+"href": "https://www.joinpatel.com/news/akaku-7826"
+},
+{
+"text": "[image: Civil Beat 7.20.26]",
+"href": "https://www.joinpatel.com/news/civil-beat-72026"
+},
+{
+"text": "[image: Hawaii Public Radio 2.18.26]",
+"href": "https://www.joinpatel.com/news/hawaii-public-radio-21826"
+},
+{
+"text": "[image: Hawaii Public Radio 9.5.24]",
+"href": "https://www.joinpatel.com/news/hawaii-public-radio-9-5-24"
+},
+{
+"text": "[image: Hawai’i Journalism Initiative 6.21.26]",
+"href": "https://www.joinpatel.com/news/hawaii-journalism-initiative-62126"
+},
+{
+"text": "[image: Hawai’i Journalism Initiative 6.6.26]",
+"href": "https://www.joinpatel.com/news/hawaii-journalism-initiative-6626"
+},
+{
+"text": "[image: KHON2 8.28.24]",
+"href": "https://www.joinpatel.com/news/khon2-82824"
+},
+{
+"text": "[image: KITV 9.23.24]",
+"href": "https://www.joinpatel.com/news/kitv-92324"
+},
+{
+"text": "[image: Maui News 9.9.26]",
+"href": "https://www.joinpatel.com/news/maui-news-9926"
+},
+{
+"text": "[image: Maui Now 10.27.23]",
+"href": "https://www.joinpatel.com/news/maui-now-102723"
+},
+{
+"text": "[image: Maui Now 5.19.26]",
+"href": "https://www.joinpatel.com/news/mauinow-5-19-26"
+},
+{
+"text": "[image: Maui Now 6.12.26]",
+"href": "https://www.joinpatel.com/news/maui-now-61226"
+},
+{
+"text": "[image: Maui Now 6.18.26]",
+"href": "https://www.joinpatel.com/news/maui-now-61826"
+},
+{
+"text": "[image: Maui Now 7.1.26]",
+"href": "https://www.joinpatel.com/news/maui-now-7126"
+},
+{
+"text": "[image: Maui Now 7.22.26]",
+"href": "https://www.joinpatel.com/news/rk6fww4kkesgribky8orlms2tkvepc"
+},
+{
+"text": "[image: Sne Patel For State House District 14]",
+"href": "https://www.joinpatel.com/"
+},
+{
+"text": "[image: Star Advertiser 7.9.26]",
+"href": "https://www.joinpatel.com/news/star-advertiser-7926"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joinsnepatel"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joinsnepatel"
+}
 ]

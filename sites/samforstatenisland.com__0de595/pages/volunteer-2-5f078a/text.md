@@ -1,9 +1,4 @@
-Connect with Team Sam
-Drop us a note and will respond to you as soon as possible.
-Please be patient 🙂
-Volunteer Form (Official)
-"*" indicates required fields
-Become a Volunteer
-Porta est iaculis, minim consequatur Cubilia venenatis!
-Congue iure curabitur incididunt
-consequat accusantium quam, ultricies eget por id, aliquam
+Skip to content Home About Sam On The Issues News Contact Us Volunteer Donate Volunteer Search for: Search Connect with Team Sam Drop us a note and will respond to you as soon as possible.
+Please be patient 🙂 Volunteer Form (Official) " * " indicates required fields First Name * Last Name * Phone Number Email * Street Address City State State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific Zip Code How would you like to volunteer? * Make Phone Calls Knock on Doors I can do anything Brief Message How Do You Wish To Be Contacted? * Text messages Email Text Messages and Email You must choose at least 1 Become a Volunteer Porta est iaculis, minim consequatur Cubilia venenatis!
+Congue iure curabitur incididunt consequat accusantium quam, ultricies eget por id, aliquam Join us Now Volunteer Opioid-plagued Staten Island wrongly cut out of $1.5B settlement fund: pol Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island Join Our List Copyright © # Sam Pirozzolo for Assembly , All Rights Reserved.
+Paid for By Sam Pirozzolo for Assembly 2026 Designed and Maintained by Politika

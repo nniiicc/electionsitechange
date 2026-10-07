@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://mattbrass.org/news/page/2/",
- "paid_for_by": null,
+ "fingerprint": "d2633c63f147bc9064cb21e14ddbbe559bf2e19f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Matt Brass | for State Senate | Page 2",
  "years_mentioned": [
   "2015",
-  "2019"
+  "2016",
+  "2018",
+  "2019",
+  "2020"
  ]
 }

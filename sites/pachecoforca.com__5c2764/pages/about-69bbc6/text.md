@@ -1,4 +1,4 @@
-Brian Pacheco is a fourth-generation family farmer, dairyman, and Fresno County Supervisor with deep Valley roots and a lifelong commitment to public service.
+Skip navigation menu Meet Brian Issues Endorsements News Media Get Involved Donate Meet Brian Pacheco Candidate for California Assembly District 27 Meet Brian Issues Endorsements News Media Get Involved Donate Meet Brian Pacheco Candidate for California Assembly District 27 Brian Pacheco is a fourth-generation family farmer, dairyman, and Fresno County Supervisor with deep Valley roots and a lifelong commitment to public service.
 Raised on his family’s dairy farm, Brian learned early the values of hard work, responsibility, and community.
 After graduating from Kerman High School, he attended the University of California, Davis, where he earned a degree in agricultural economics and was selected as commencement speaker for his graduating class.
 After graduation, Brian returned home to help his family’s farm succeed.
@@ -11,3 +11,5 @@ His work on water and land management includes service on the North Kings and Mc
 Brian and his wife, Alena, have three adult children and a long family tradition of involvement in 4H and FFA.
 Whether showing animals at the Big Fresno Fair, leading youth projects, or working alongside neighbors on community issues, the Pacheco family has always believed in giving back.
 Now, Brian is running for State Assembly to bring his real-world experience, practical leadership, and deep commitment to the Valley to Sacramento.
+Privacy Policy Have a question, want to get involved, or interested in endorsing the campaign?
+Please contact info@pachecoforca.com Checks may be mailed to: Brian Pacheco for Assembly 2026 1700 Tribute Road, Suite 201 Sacramento, CA 95815 Powered by RUN! website builder Paid for by Pacheco for Assembly 2026 FPPC# 1485456 You need to enable JavaScript to run this app.

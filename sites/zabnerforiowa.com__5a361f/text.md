@@ -1,5 +1,8 @@
-Why I'm Running
-For Democrat Adam Zabner, Iowa isn’t just home, it’s a place that welcomed him and his family and shaped who he is today.
+Contact Volunteer Endorsements Home About District 90 Donate Toggle navigation Donate Endorsements Volunteer Contact Why I'm Running For Democrat Adam Zabner, Iowa isn’t just home, it’s a place that welcomed him and his family and shaped who he is today.
 The son of immigrants from Venezuela, Adam was born in Iowa City and is the proud product of Iowa public schools.
 Taking what he learned from his time as a progressive organizer, Adam won the Democratic primary to represent us in 2022.
 As our Representative, Adam has not only stood up to the MAGA extremist takeover of our state, he’s also won and delivered for working families.
+Get Updates Sign Up Endorsed By View all endorsements FIGHTING FOR YOU DEMOCRAT ADAM ZABNER WILL: -Keep standing up to Republicans and fight the MAGA extremist takeover of our state. -Work to lower costs and make life easier for everyday families. -Fight for academic freedom and ensure the University of Iowa remains world-class and affordable. -Defend Medicaid and make sure every Iowan has healthcare. -Never give up in the fight to fully fund our public schools.
+AS YOUR REPRESENTATIVE HE'S: -Taken on the Reynolds Administration and won voting rights for thousands of Iowans -Stood up for our public schools -Fought against attacks on human rights -Worked to make housing more affordable -Passed legislation improving accessibility in our state parks About District 90 District 90 includes most of downtown, the historic Northside neighborhood, and much of the East side of Iowa City.
+Adam went to high school in the heart of the district at City High and was born and raised in Iowa City.
+Home Contact Volunteer Endorsements About District 90 Donate Donate Paid for by Zabner For Iowa

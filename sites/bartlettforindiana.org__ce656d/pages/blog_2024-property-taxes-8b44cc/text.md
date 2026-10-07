@@ -1,14 +1,10 @@
-2024-Property taxes
-PROPERTY TAXES - Everybody's favorite topic that no one understands
-After weeks of study (which why this is so difficult is still beyond me), I think I finally have most of the story, or at least enough to convey to voters.
-In a nutshell:
-- Property tax assessment rules are set by the legislature.
-- The Republican SUPERMAJORITY set the current rules in 2016 to be based on a complex market value formula.
-- The lowered interest rates of the pandemic caused property values to soar which is causing your market value to soar and your taxes to go up.
-- Democrats have proposed revising the formulas and giving temporary relief with a $56K homestead exemption for ALL homeowners which has been buried in committee by the Republicans.
-- Republicans take credit for passing relief for seniors and disabled vets which in actuality did very little for very few.
-The in depth understanding:
-There was an Indiana constitutional amendment passed which capped property tax to 1% of homestead value, 2% of other residential (rental) and farmland, and 3% of everything else.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024-Property taxes Jul 2 Written By John Bartlett for IN State Rep Dist 33 PROPERTY TAXES - Everybody's favorite topic that no one understands After weeks of study (which why this is so difficult is still beyond me), I think I finally have most of the story, or at least enough to convey to voters.
+In a nutshell: Property tax assessment rules are set by the legislature.
+The Republican SUPERMAJORITY set the current rules in 2016 to be based on a complex market value formula.
+The lowered interest rates of the pandemic caused property values to soar which is causing your market value to soar and your taxes to go up.
+Democrats have proposed revising the formulas and giving temporary relief with a $56K homestead exemption for ALL homeowners which has been buried in committee by the Republicans.
+Republicans take credit for passing relief for seniors and disabled vets which in actuality did very little for very few.
+The in depth understanding: There was an Indiana constitutional amendment passed which capped property tax to 1% of homestead value, 2% of other residential (rental) and farmland, and 3% of everything else.
 That was passed in 2010.
 Property assessments are calculated by the local county assessor's office per a guide which the Department of Local Government Finance (DLGF) puts together based upon the statutes that the Indiana legislature puts together.
 I'll come back to this.
@@ -35,13 +31,13 @@ Now what has been proposed and what has been enacted about this drastic increase
 The Democrats in the House proposed to give every Hoosier homestead a $56,000 homestead exemption (amounting to $560 off the final tax bill if they were taxed at the full 1% rate) as temporary relief while we reexamine and adjust the calculus of figuring market value.
 This was buried in committee and never received a hearing.
 The Republican supermajority enacted a few measures, but as you will see, they did virtually nothing.
-- They gave seniors a $200 property tax credit, IF THEY WERE NOT RECEIVING ANY OTHER CREDIT.
+They gave seniors a $200 property tax credit, IF THEY WERE NOT RECEIVING ANY OTHER CREDIT.
 Which most were, so it benefitted virtually no one.
-- They gave disabled vets an assessment cap of $240,000.
+They gave disabled vets an assessment cap of $240,000.
 How many disabled vets own a $240,000 house?
 Very few, so it benefitted virtually no one.
-- Reduced the taxable value of gazebos, patios, and pools.
-- Allowed counties to exempt manufactured homes and limit increases IF THEY DESIRED.
+Reduced the taxable value of gazebos, patios, and pools.
+Allowed counties to exempt manufactured homes and limit increases IF THEY DESIRED.
 The only truly good thing that was passed was that if a reassessment is done on appeal and it comes back that the property is actually worth more, the lower value must remain the assessed value.
 Additionally, there was another law that passed in 2020 and set up what is referred to by the DLGF as the "2021 Rule." It is incorporated into the guide, but NO ONE can tell me what changed.
 The link on the DLGF's website to define the rule is a dead link.
@@ -50,3 +46,4 @@ I hope that gives you some better idea of what has happened with your property t
 Also, I hope that it gives you food for thought when you go to vote in November.
 Yes, I am running as a Democrat to be your state representative.
 I am standing against this nonsense of our legislators doing nothing to provide relief to our citizens because they are in a comfortable majority where they can exist without challenge to their rule.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2024 - Rural Indiana Economy Next Next 2022 - HB 1134 Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

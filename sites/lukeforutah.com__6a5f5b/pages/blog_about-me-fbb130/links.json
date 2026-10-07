@@ -1,18 +1,74 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"https://lukeforutah.com/",
-"https://lukeforutah.com/about",
-"https://lukeforutah.com/blog",
-"https://lukeforutah.com/blog/from-here-focused-on-here",
-"https://lukeforutah.com/blog?author=6418daec454d2d132a684123",
-"https://lukeforutah.com/cart",
-"https://lukeforutah.com/contact",
-"https://lukeforutah.com/donate",
-"https://lukeforutah.com/endorsements",
-"https://lukeforutah.com/home",
-"https://lukeforutah.com/issues",
-"https://lukeforutah.com/record",
-"https://lukeforutah.com/voter-info",
-"https://youtube.com/watch?v=wUAwSxaDqDc"
+{
+"text": "0",
+"href": "https://www.lukeforutah.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lukeforutah.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lukeforutah.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.lukeforutah.com/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.lukeforutah.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lukeforutah.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.lukeforutah.com/"
+},
+{
+"text": "Home",
+"href": "https://www.lukeforutah.com/home"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://www.lukeforutah.com/issues"
+},
+{
+"text": "Previous Previous From here. Focused on here.",
+"href": "https://www.lukeforutah.com/blog/from-here-focused-on-here"
+},
+{
+"text": "Record & Results",
+"href": "https://www.lukeforutah.com/record"
+},
+{
+"text": "S",
+"href": "https://www.lukeforutah.com/blog?author=6418daec454d2d132a684123"
+},
+{
+"text": "Updates",
+"href": "https://www.lukeforutah.com/blog"
+},
+{
+"text": "Voter Info",
+"href": "https://www.lukeforutah.com/voter-info"
+},
+{
+"text": "[image: Luke For Utah Campaign Announcemnt Thumbnail]",
+"href": "https://www.youtube.com/watch?v=wUAwSxaDqDc"
+},
+{
+"text": "[image: Vote Luke Searle for Utah House District 59]",
+"href": "https://www.lukeforutah.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com"
+}
 ]

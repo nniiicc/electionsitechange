@@ -1,12 +1,58 @@
 [
-"https://ballotpedia.org/Veronica_Paiz",
-"https://facebook.com/VeronicaForStateRep",
-"https://house.mi.gov/media/District%20Maps/010.pdf",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5947",
-"https://secure.actblue.com/donate/vp10",
-"https://veronicaforstaterep.com/",
-"https://veronicaforstaterep.com/copy-of-endorsements",
-"https://veronicaforstaterep.com/issues-answers",
-"https://veronicaforstaterep.com/news",
-"https://vote411.org/"
+{
+"text": "Contact Veronica",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "DEMOCRAT",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/vp10"
+},
+{
+"text": "Endorsements",
+"href": "https://www.veronicaforstaterep.com/copy-of-endorsements"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "House Bill 5947",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5947"
+},
+{
+"text": "Issues & Answers",
+"href": "https://www.veronicaforstaterep.com/issues-answers"
+},
+{
+"text": "MI House District 10",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "News",
+"href": "https://www.veronicaforstaterep.com/news"
+},
+{
+"text": "Read my BALLOTPEDIA Candidate Connection Survey.",
+"href": "https://ballotpedia.org/Veronica_Paiz"
+},
+{
+"text": "Read my VOTE411 Candidate Response Survey",
+"href": "https://www.vote411.org"
+},
+{
+"text": "Welcome",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "[image: District 10 Map 800px.png]",
+"href": "https://www.house.mi.gov/media/District%20Maps/010.pdf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VeronicaForStateRep"
+}
 ]

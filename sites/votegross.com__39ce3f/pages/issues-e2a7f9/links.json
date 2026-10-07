@@ -1,19 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/votegross",
-"https://instagram.com/votegross",
-"https://secure.actblue.com/donate/rachelgross",
-"https://tiktok.com/@votegross",
-"https://votegross.com/",
-"https://votegross.com/about",
-"https://votegross.com/contact",
-"https://votegross.com/endorsements",
-"https://votegross.com/events",
-"https://votegross.com/gallery",
-"https://votegross.com/issues/Safe-Nursing",
-"https://votegross.com/issues/cellphones",
-"https://votegross.com/issues/housing",
-"https://votegross.com/issues/mental-health-youth-wellness",
-"https://votegross.com/issues/rental-housing-relief",
-"https://votegross.com/volunteer"
+{
+"text": "About",
+"href": "https://www.votegross.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votegross.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rachelgross"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votegross.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votegross.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.votegross.com/gallery"
+},
+{
+"text": "HB 4141 - Restricting Cell Phones in Schools",
+"href": "https://www.votegross.com/issues/cellphones"
+},
+{
+"text": "Mental Health & Youth Wellness",
+"href": "https://www.votegross.com/issues/mental-health-youth-wellness"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rural Homeownership & Housing Stability",
+"href": "https://www.votegross.com/issues/housing"
+},
+{
+"text": "Rural Rental Housing Relief",
+"href": "https://www.votegross.com/issues/rental-housing-relief"
+},
+{
+"text": "Safe Nurse Staffing Standards",
+"href": "https://www.votegross.com/issues/Safe-Nursing"
+},
+{
+"text": "View more",
+"href": "https://www.votegross.com/issues/Safe-Nursing"
+},
+{
+"text": "View more",
+"href": "https://www.votegross.com/issues/cellphones"
+},
+{
+"text": "View more",
+"href": "https://www.votegross.com/issues/housing"
+},
+{
+"text": "View more",
+"href": "https://www.votegross.com/issues/mental-health-youth-wellness"
+},
+{
+"text": "View more",
+"href": "https://www.votegross.com/issues/rental-housing-relief"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votegross.com/volunteer"
+},
+{
+"text": "[image: Rachel Gross for State House 78]",
+"href": "https://www.votegross.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votegross"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votegross"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@votegross"
+}
 ]

@@ -1,26 +1,2 @@
-Home
-About
-Bio
-Public Service Record
-Projects
-2022-23 District Letters
-2024 District Letters
-2025 District Letters
-2026 District Letters
-Legislation
-State Legislation
-State Issues
-DONATE
-Join My Email List
-Select Page
-Join My Email List
-Please enable JavaScript in your browser to complete this form.
-Name
-*
-First
-Last
-Email
-*
-Email Name Line
-Single Line Text
-Submit
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page Join My Email List Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Single Name Line Single Line Text Submit Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

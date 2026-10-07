@@ -1,7 +1,9 @@
 {
  "description": "The Carl4congress.com website (the \"Site\") is comprised of various web pages operated by Website (\"C4C\"). website.com is offered to you ...",
  "final_url": "https://carl4congress.com/terms-conditions/",
- "paid_for_by": null,
+ "fingerprint": "d921e29182744fc3a843ffebe2ab920851394f8a",
+ "format": 3,
+ "paid_for_by": "authorized by these Terms",
  "title": "Terms & Conditions | Carl 4 Congress",
  "years_mentioned": [
   "2026"

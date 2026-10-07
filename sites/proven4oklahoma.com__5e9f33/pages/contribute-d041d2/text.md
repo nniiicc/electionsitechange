@@ -1,22 +1,15 @@
-Please contribute today!
-With your help, we can prioritize legislative action to:
-- Fully fund Oklahoma education
-- Promote economic fairness and fiscal responsibility
-- Advocate for policy that benefits the health and well-being of all Oklahomans
-1.
+Home Bio Issues Key Wins Capitol Updates Contact Please contribute today!
+With your help, we can prioritize legislative action to: Fully fund Oklahoma education Promote economic fairness and fiscal responsibility Advocate for policy that benefits the health and well-being of all Oklahomans 1.
 For Online Contributions - please click the ActBlue box.
-Due to Oklahoma campaign requirements it is important that we have your current employer and occupation, or if retired, your previous occupation.
-OR
-2.
-If you wish to contribute by check, please complete the form below.
-Please make your check payable to Provenzano for HD 79 2026 and mail it to:
-Provenzano for HD 79 2026
-PO Box 33370
-Tulsa, OK 74153
-Questions? 918-261-5393
-I am at least eighteen years old.
+Due to Oklahoma campaign requirements it is important that we have your current employer and occupation, or if retired, your previous occupation. ----> <--- OR 2.
+If you wish to contribute by check , please complete the form below.
+Please make your check payable to Provenzano for HD 79 2026 and mail it to: Provenzano for HD 79 2026 PO Box 33370 Tulsa, OK 74153 Questions?
+918-261-5393 Complete your $ 0 contribution: Select Your Information Choose an amount: $10 $25 $50 $79 $100 $150 $250 $500 $1000 $2000 $3300 Other Amount $ Choose payment method: Mail a Contribution First Name * Last Name * Email * Phone Address * Address 2 City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * Get the Newsletter YARD SIGN-Help Spread the Word (free!) Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution I am at least eighteen years old.
 I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
 I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
 I certify that I have not contributed more than $3,300 to Provenzano for HD 79 2024 during this election.
 I declare that this contribution is for a campaign in the State of Oklahoma and is freely and voluntarily given from my own personal property.
-I further declare that I have not been directly or indirectly compensated or reimbursed for this contribution
+I further declare that I have not been directly or indirectly compensated or reimbursed for this contribution VOLUNTEER VOTING INFO CONTRIBUTE YARD SIGN Get Updates Thank you for signing up!
+News Provenzano Appointed to LOFT Commission Provenzano Appointed to House Democratic Leadership Team Full Coverage for Diagnostic Mammograms now law Diagnostic Mammogram Bill Passes the Senate Diagnostic Mammogram Bill Passes the House Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

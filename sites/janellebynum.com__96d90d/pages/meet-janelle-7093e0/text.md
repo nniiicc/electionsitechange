@@ -1,6 +1,4 @@
-Skip navigation menu
-Meet Janelle
-A mother of four children and a small businesswoman, Janelle Bynum understands our challenges and works hard to fix them in Congress.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Meet Janelle Meet Janelle Issues Press Media Center Donate Meet Janelle A mother of four children and a small businesswoman, Janelle Bynum understands our challenges and works hard to fix them in Congress.
 It’s what she’s always done.
 The daughter of teachers, Janelle’s parents taught her that education was the key to a better, safer world.
 It didn’t take long for Janelle to put that ideal into practice.
@@ -17,4 +15,8 @@ Her mission is simple: to lower costs for healthcare and housing, create jobs, a
 And she’s willing to work with anyone to do it – that’s why she's introduced 18 bipartisan bills and passed 5 of them through the House.
 She's also made hearing from Oregonians a top priority, having held over 25 town halls since being elected.
 Janelle’s not afraid to stand up to anyone to ensure Oregonians get ahead.
-Janelle is delivering on the issues that matter most for our families:
+Janelle is delivering on the issues that matter most for our families: A “K-30” platform to ensure hard work translates to opportunity Janelle is fighting for young Americans through bipartisan efforts aimed at improving education, creating jobs, and lowering the cost of housing.
+Fighting for affordability Janelle is focused on lowering costs, from groceries to housing to healthcare, and pushing back against the Trump Administration’s efforts to gut the Affordable Care Act.
+Standing up to Trump and ICE Janelle has been clear that she will not tolerate a federal takeover of our communities.
+She has fearlessly called out the Administration’s lies and called out Donald Trump’s version of ICE for what it is: a collection of goons who are rounding up people based on the color of their skin and kidnapping them off the streets.
+Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

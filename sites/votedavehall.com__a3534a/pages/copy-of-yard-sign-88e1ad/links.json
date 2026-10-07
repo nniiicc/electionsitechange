@@ -1,7 +1,26 @@
 [
-"https://facebook.com/votedavehall",
-"https://iga.in.gov/information/house-district-map",
-"https://politics.raisethemoney.com/en/friends-of-dave-hall",
-"https://votedavehall.com/",
-"https://votedavehall.com/copy-of-yard-sign"
+{
+"text": "DONATE TODAY",
+"href": "https://politics.raisethemoney.com/en/friends-of-dave-hall"
+},
+{
+"text": "Dave@votedavehall.com",
+"href": "mailto:Dave@votedavehall.com"
+},
+{
+"text": "Join the Team",
+"href": "https://www.votedavehall.com/copy-of-yard-sign"
+},
+{
+"text": "[image: Untitled design (1)_edited.png]",
+"href": "https://www.votedavehall.com"
+},
+{
+"text": "[image]",
+"href": "https://iga.in.gov/information/house-district-map"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/votedavehall"
+}
 ]

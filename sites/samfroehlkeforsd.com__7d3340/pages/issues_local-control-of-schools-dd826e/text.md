@@ -1,4 +1,3 @@
-Local control of schools
-While Pierre needs to keep its involvement in local schools and government minimal, when it is state money, the state has a say in where it is used.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles Local control of schools While Pierre needs to keep its involvement in local schools and government minimal, when it is state money, the state has a say in where it is used.
 The state should not be giving any money to any schools who don't provide completely free food for the students, and no school should be getting state money if it can afford to have more than two competitive athletic organizations.
-In counterpoint, however, schools and libraries should not have any special exemptions from existing state laws regarding indecency or parental rights.
+In counterpoint, however, schools and libraries should not have any special exemptions from existing state laws regarding indecency or parental rights. « Previous: Property tax reform Next: Supporting local fire and EMS » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

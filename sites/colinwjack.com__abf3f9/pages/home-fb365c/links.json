@@ -1,48 +1,206 @@
 [
-"https://colinwjack.com/about-colin",
-"https://colinwjack.com/campaign",
-"https://colinwjack.com/contact",
-"https://colinwjack.com/donate",
-"https://colinwjack.com/home",
-"https://colinwjack.com/issues",
-"https://colinwjack.com/legislative-reports/2023-legislative-report",
-"https://colinwjack.com/legislative-reports/2024-legislative-report",
-"https://colinwjack.com/legislative-reports/2025-legislative-report",
-"https://colinwjack.com/legislative-reports/2026-legislative-report",
-"https://google.com/url?q=https%3A%2F%2Fhouse.utleg.gov%2Frep%2FJACKC%2F&sa=D&sntz=1&usg=AOvVaw28aZt7L2x1WSGdHrGEOrpf",
-"https://google.com/url?q=https%3A%2F%2Fsecure.utah.gov%2Fvoterreg%2Flogin.html%3Fselection%3DREGISTER&sa=D&sntz=1&usg=AOvVaw2Vu2IycZAn0JLzQNARQtCv",
-"https://le.utah.gov/Session/2026/bills/static/HB0016.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0019.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0119.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0187.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0323.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0330.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0419.html",
-"https://le.utah.gov/Session/2026/bills/static/HB0591.html",
-"https://le.utah.gov/Session/2026/bills/static/SB0227.html",
-"https://le.utah.gov/Session/2026/bills/static/SB0234.html",
-"https://le.utah.gov/Session/2026/bills/static/SCR001.html",
-"https://le.utah.gov/committee/committee.jsp?year=2025&com=APPSOC",
-"https://le.utah.gov/committee/committee.jsp?year=2025&com=HSTEDW",
-"https://le.utah.gov/committee/committee.jsp?year=2025&com=HSTPUT",
-"https://le.utah.gov/committee/committee.jsp?year=2025&com=INTEDW",
-"https://le.utah.gov/committee/committee.jsp?year=2025&com=INTPUT",
-"https://le.utah.gov/~2023/bills/static/HB0194.html",
-"https://le.utah.gov/~2023/bills/static/HB0313.html",
-"https://le.utah.gov/~2023/bills/static/HB0389.html",
-"https://le.utah.gov/~2024/bills/static/HB0048.html",
-"https://le.utah.gov/~2024/bills/static/HB0156.html",
-"https://le.utah.gov/~2024/bills/static/HB0191.html",
-"https://le.utah.gov/~2024/bills/static/HB0215.html",
-"https://le.utah.gov/~2024/bills/static/HB0374.html",
-"https://le.utah.gov/~2024/bills/static/HB0424.html",
-"https://le.utah.gov/~2025/bills/static/HB0057.html",
-"https://le.utah.gov/~2025/bills/static/HB0157.html",
-"https://le.utah.gov/~2025/bills/static/HB0201.html",
-"https://le.utah.gov/~2025/bills/static/HB0438.html",
-"https://le.utah.gov/~2025/bills/static/SB0038.html",
-"https://le.utah.gov/~2025/bills/static/SB0090.html",
-"https://le.utah.gov/~2025/bills/static/SB0095.html",
-"https://le.utah.gov/~2025/bills/static/SB0132.html",
-"https://secure.utah.gov/voterreg/login.html?selection=REGISTER"
+{
+"text": "2023 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2023-legislative-report"
+},
+{
+"text": "2024 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2024-legislative-report"
+},
+{
+"text": "2025 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2025-legislative-report"
+},
+{
+"text": "2026 Legislative Report",
+"href": "https://www.colinwjack.com/legislative-reports/2026-legislative-report"
+},
+{
+"text": "About Colin",
+"href": "https://www.colinwjack.com/about-colin"
+},
+{
+"text": "Automotive Repair Business Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0119.html"
+},
+{
+"text": "Burglary Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0156.html"
+},
+{
+"text": "Campaign",
+"href": "https://www.colinwjack.com/campaign"
+},
+{
+"text": "Colin W. Jack",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "Concurrent Resolution Regarding Nuclear Energy",
+"href": "https://le.utah.gov/Session/2026/bills/static/SCR001.html"
+},
+{
+"text": "Contact",
+"href": "https://www.colinwjack.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.colinwjack.com/donate"
+},
+{
+"text": "Drinking Water Company Cyber Security",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0019.html"
+},
+{
+"text": "Economic Development and Workforce Services Interim Committee",
+"href": "https://le.utah.gov/committee/committee.jsp?year=2025&com=INTEDW"
+},
+{
+"text": "Electric Utility Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/SB0132.html"
+},
+{
+"text": "Electrical Energy Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0191.html"
+},
+{
+"text": "Electrical Power Delivery Quality Amendments",
+"href": "https://le.utah.gov/~2023/bills/static/HB0389.html"
+},
+{
+"text": "Energy Education Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0157.html"
+},
+{
+"text": "Environmental Legal Action Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0419.html"
+},
+{
+"text": "Environmental Legal Action Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0438.html"
+},
+{
+"text": "Home",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "Home Solar Energy Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0215.html"
+},
+{
+"text": "House Economic Development and Workforce Services Committee",
+"href": "https://le.utah.gov/committee/committee.jsp?year=2025&com=HSTEDW"
+},
+{
+"text": "House Public Utilities and Energy Committee",
+"href": "https://le.utah.gov/committee/committee.jsp?year=2025&com=HSTPUT"
+},
+{
+"text": "Issues",
+"href": "https://www.colinwjack.com/issues"
+},
+{
+"text": "Learn About Colin",
+"href": "https://www.colinwjack.com/about-colin"
+},
+{
+"text": "Lewdness Involving a Child Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0424.html"
+},
+{
+"text": "Liability Limitations Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0330.html"
+},
+{
+"text": "Mandatory Jail Sentence Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/SB0090.html"
+},
+{
+"text": "Manufacturing Modernization Grant Sunset Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/SB0038.html"
+},
+{
+"text": "Motor Vehicle Dealer Requirements",
+"href": "https://le.utah.gov/~2023/bills/static/HB0194.html"
+},
+{
+"text": "Nuisance Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0591.html"
+},
+{
+"text": "Public Utilities, Energy, and Technology Interim Committee",
+"href": "https://le.utah.gov/committee/committee.jsp?year=2025&com=INTPUT"
+},
+{
+"text": "Punitive Damages Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/SB0227.html"
+},
+{
+"text": "Register To Vote",
+"href": "https://secure.utah.gov/voterreg/login.html?selection=REGISTER"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.utah.gov%2Fvoterreg%2Flogin.html%3Fselection%3DREGISTER&sa=D&sntz=1&usg=AOvVaw2Vu2IycZAn0JLzQNARQtCv"
+},
+{
+"text": "Residential Solar Panel Consumer Protection Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0057.html"
+},
+{
+"text": "Rulemaking Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/SB0234.html"
+},
+{
+"text": "Social Services Appropriations Subcommittee",
+"href": "https://le.utah.gov/committee/committee.jsp?year=2025&com=APPSOC"
+},
+{
+"text": "Solar Panel Disposal Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0323.html"
+},
+{
+"text": "Solar Power Plant Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0016.html"
+},
+{
+"text": "State Energy Polity Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0374.html"
+},
+{
+"text": "Suspect Metal Amendments",
+"href": "https://le.utah.gov/~2023/bills/static/HB0313.html"
+},
+{
+"text": "The Issues",
+"href": "https://www.colinwjack.com/issues"
+},
+{
+"text": "Truth in Taxation Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/SB0095.html"
+},
+{
+"text": "Utah Energy Act Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0048.html"
+},
+{
+"text": "View Representative Jack on the Utah Legislative Website",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fhouse.utleg.gov%2Frep%2FJACKC%2F&sa=D&sntz=1&usg=AOvVaw28aZt7L2x1WSGdHrGEOrpf"
+},
+{
+"text": "Water Amendments",
+"href": "https://le.utah.gov/Session/2026/bills/static/HB0187.html"
+},
+{
+"text": "[image]",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "[image]Colin W. Jack",
+"href": "https://www.colinwjack.com/home"
+},
+{
+"text": "nergy Resource Amendments",
+"href": "https://le.utah.gov/~2025/bills/static/HB0201.html"
+}
 ]

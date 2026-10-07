@@ -1,18 +1,14 @@
-Senator Andrew Jones publishes a newsletter, generally every 2-3 months.
+Andrew & You Andrew & You Andrew & You Andrew & You Andrew & You Andrew & You Andrew & You Andrew & You Home About Andrew Issues In The News Newsletter Get Involved More Home About Andrew Issues In The News Newsletter Get Involved Home About Andrew Issues In The News Newsletter Get Involved Newsletter Subscribe Email Address Sign up Senator Andrew Jones publishes a newsletter, generally every 2-3 months.
 Enter your email here to subscribe, or read past newsletters below.
-Governor Kay Ivey signs Senator Jones' legislation exempting the first $5000 of National Guard Drill Pay from state income taxes
-Elected Officials celebrate the passage of SB70 sponsored by Senator Jones
-Senator Jones introduces Governor Kay Ivey at the Challenger Learning Center groundbreaking in Rainbow City.
-Senator Jones and local elected officials welcome the State Board of Education to Anniston
-Governor Ivey signs the Military Package, which was shepherded through the Senate by Senator Jones
-Senator Jones and Representative Danny Garrett are awarded the Alabama Republican Party Defender of Freedom Award
-Senator Jones participates in a legislative tour of Gadsden State's new Advanced Manufacturing Center
-Senator Jones speaks to the press following passage of his historic grocery tax cut legislation
-Senator Jones, working with Lt.
-Governor Will Ainsworth, has introduced legislation to cut the state's grocery tax rate in half over time
-Andrew and Summer Jones join Governor Kay Ivey at the Governor's Mansion on the eve of her inauguration
-Paid for by Friends of Andrew Jones
-690 County Road 202 | Centre, Alabama 35960, United States
-Copyright © 2026 Andrew & You - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Recent Newsletters July 2026 Governor Kay Ivey signs Senator Jones' legislation exempting the first $5000 of National Guard Drill Pay from state income taxes Read the Newsletter May 2026 Watch a special video message from Andrew Jones Read the Newsletter March 2026 Ribbon cutting for the new Alabama Veterans Resource Center Read the Newsletter Recent Newsletters January 2026 SPECIAL EDITION: Year in Review: 2025 Top 10 Read the Newsletter November 2025 Senator Jones presents a check to Gadsden City Schools Read the Newsletter September 2025 GREAT NEWS: Funding, Projects, and Accolades for District 10 Read the Newsletter July 2025 HB 366: Wounded Police Dog Medical Transport Read the Newsletter May 2025 Alabama Lawmakers Pass Bill to Reduce Sales Tax on Groceries Read the Newsletter March 2025 Elected Officials celebrate the passage of SB70 sponsored by Senator Jones Read the Newsletter January 2025 SPECIAL EDITION: Year in Review - 2024 Top 10 Read the Newsletter November 2024 Senator Jones introduces Governor Kay Ivey at the Challenger Learning Center groundbreaking in Rainbow City.
+Read the Newsletter September 2024 Senator Jones and local elected officials welcome the State Board of Education to Anniston Read the Newsletter July 2024 Governor Ivey signs the Military Package, which was shepherded through the Senate by Senator Jones Read the Newsletter May 2024 Senator Jones and Representative Danny Garrett are awarded the Alabama Republican Party Defender of Freedom Award Read the Newsletter January 2024 SPECIAL EDITION: Year in Review - 2023 Top 10 Read the Newsletter October 2023 Senator Jones participates in a legislative tour of Gadsden State's new Advanced Manufacturing Center Read the Newsletter July 2023 Senator Jones speaks to the press following passage of his historic grocery tax cut legislation Read the Newsletter PAST NEWSLETTERS May 2023 Senator Jones, working with Lt.
+Governor Will Ainsworth, has introduced legislation to cut the state's grocery tax rate in half over time Read the Newsletter March 2023 Andrew and Summer Jones join Governor Kay Ivey at the Governor's Mansion on the eve of her inauguration Read the Newsletter January 2023 SPECIAL EDITION: Year in Review - 2022 Top 10 Read the Newsletter November 2022 Celebrating the End of the Rendering Fight Read the Newsletter September 2022 Election Roundup, Ribbon Cutting & Holiday Calendar Read the Newsletter July 2022 Legislative Focus: Roe v.
+Wade Read the Newsletter May 2022 Local Spotlight: Infrastructure.
+Read the Newsletter March 2022 Bill Filing, Taxes and Elections.
+Read the Newsletter January 2022 SPECIAL EDITION: Year in Review - 2021 Top 10 Read the Newsletter November 2021 Newsmakers, local updates, and Alabama's 2nd Special Session.
+Read the Newsletter September 2021 Out & about, fall calendar, and legislative updates.
+Read the Newsletter July 2021 Campaign kickoffs and district infrastructure projects.
+Read the Newsletter April 2021 Insights and perspectives from the 2021 legislative session.
+Read the Newsletter January 2021 SPECIAL EDITION: Year in Review - 2020 Top 10 Read the Newsletter October 2020 Read the Newsletter May 2020 Read the Newsletter March 2020 Read the Newsletter February 2020 Read the Newsletter January 2020 SPECIAL EDITION: Year in Review - 2019 Top 10 Read the Newsletter December 2019 Read the Newsletter November 2019 Read the Newsletter October 2019 Read the Newsletter September 2019 Read the Newsletter August 2019 Read the Newsletter Privacy Policy Paid for by Friends of Andrew Jones 690 County Road 202 | Centre, Alabama 35960, United States Copyright © # Andrew & You - All Rights Reserved.
+Donate Today Contribute online, or send a check.
+Donate

@@ -1,7 +1,3 @@
-Tenney Statement on Justice Ginsberg’s Passing
-NRA Endorses Claudia Tenney, Brindisi Earns D-Rating on Guns
-BREAKING: NYS Police Investigators Endorse Tenney
-Tenney Calls Abraham Accords “Historic Step Toward Peace”
-Sherrill Mfg.
-Co-Founder & President Endorses Tenney for NY22
-Brindisi Dodging Debates & Voters as Tenney Accepts 6 Debates
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Press Releases Press Releases Opinion Editorials Press Releases Opinion Editorials Press Releases Tenney Statement on Justice Ginsberg’s Passing September 19 2020 Learn More Share NRA Endorses Claudia Tenney, Brindisi Earns D-Rating on Guns September 18 2020 Learn More Share BREAKING: NYS Police Investigators Endorse Tenney September 17 2020 Learn More Share Tenney Calls Abraham Accords “Historic Step Toward Peace” September 15 2020 Learn More Share Sherrill Mfg.
+Co-Founder & President Endorses Tenney for NY22 September 15 2020 Learn More Share Brindisi Dodging Debates & Voters as Tenney Accepts 6 Debates September 14 2020 Learn More Share « 4 5 6 7 8 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

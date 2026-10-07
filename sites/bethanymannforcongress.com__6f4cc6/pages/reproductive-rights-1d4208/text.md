@@ -1,4 +1,5 @@
-Abortion is healthcare.
+Skip to content MISSOURI’S 3RD DISTRICT · DEMOCRAT FOR CONGRESS Our future is worth showing up for.
+Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The issues News & events Get involved Donate ↗ Home / THE FULL PLATFORM Reproductive Rights Abortion is healthcare.
 Access to healthcare saves lives.
 Equitable access to healthcare is a human right, and no one should experience discrimination because of their gender.
 Americans should not wait for their doctor to consult administrators and lawyers before receiving treatment to save their lives because an overreaching government dictates which life is worthy of saving.
@@ -11,3 +12,8 @@ Terms like “late-term abortion,” “partial-birth abortion,” “Pro-life,�
 Denying basic healthcare services restricts access, and drives up prices, and corporations directly benefit from this strategy.
 Emotionally charging basic issues like health care access prevents people from meaningfully solving problems, and people in power know this.
 I support the ProAct so that every worker can collectively bargain for better wages and working conditions, along with strengthening the enforcement capabilities of the National Labor Relations Board.
+Back to the platform → LET’S BUILD THIS TOGETHER Missouri is worth the work.
+Help power a campaign rooted in our communities.
+Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
+Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗

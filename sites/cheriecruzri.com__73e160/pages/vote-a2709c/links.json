@@ -1,16 +1,70 @@
 [
-"http://twitter.com/concernedRIer",
-"https://cheriecruzri.com/",
-"https://cheriecruzri.com/about",
-"https://cheriecruzri.com/cart",
-"https://cheriecruzri.com/contact",
-"https://cheriecruzri.com/highlights",
-"https://cheriecruzri.com/issues",
-"https://cheriecruzri.com/vote",
-"https://facebook.com/CherieCruzRI",
-"https://instagram.com/cheriecruzri",
-"https://secure.actblue.com/donate/cheriecruz",
-"https://vote.sos.ri.gov/Home/PollingPlaces",
-"https://vote.sos.ri.gov/Home/RegistertoVote",
-"https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=0"
+{
+"text": "0",
+"href": "https://cheriecruzri.com/cart"
+},
+{
+"text": "About",
+"href": "https://cheriecruzri.com/about"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=0"
+},
+{
+"text": "Contact",
+"href": "https://cheriecruzri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cheriecruz"
+},
+{
+"text": "Highlights",
+"href": "https://cheriecruzri.com/highlights"
+},
+{
+"text": "Issues",
+"href": "https://cheriecruzri.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://cheriecruzri.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cheriecruzri.com/contact"
+},
+{
+"text": "Vote!",
+"href": "https://cheriecruzri.com/vote"
+},
+{
+"text": "You can confirm your polling location here.",
+"href": "https://vote.sos.ri.gov/Home/PollingPlaces"
+},
+{
+"text": "[image: Cherie Cruz]",
+"href": "https://cheriecruzri.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/concernedRIer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CherieCruzRI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cheriecruzri"
+},
+{
+"text": "here",
+"href": "https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=0"
+},
+{
+"text": "register online.",
+"href": "https://vote.sos.ri.gov/Home/RegistertoVote"
+}
 ]

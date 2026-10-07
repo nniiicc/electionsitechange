@@ -1,16 +1,10 @@
-Where I Stand
-Chris Oldham for Texas, House District 58
-Issues
-Solutions Over Slogans for House District 58
-Every position on this page starts from the same place: what actually works for the families, farmers, and small businesses of Johnson and Somervell counties — not what plays best on cable news.
+0 Skip to Content Home Issues Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Open Menu Close Menu Home Issues Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Open Menu Close Menu Home Folder: Issues Back Property Tax Relief Public School Policy Data Centers Healthcare Reform Mental Health Resource Hub Fentanyl Crisis Hub Where I Stand About Contact Where I Stand Chris Oldham for Texas, House District 58 Issues Solutions Over Slogans for House District 58 Every position on this page starts from the same place: what actually works for the families, farmers, and small businesses of Johnson and Somervell counties — not what plays best on cable news.
 Below, you'll find where I stand on the issues shaping our district, backed by real numbers and real commitments.
-Data Centers & Transmission Infrastructure →
-Protecting District 58 from the costs of an unplanned data center boom — fair compensation for landowners, park protections, and a ratepayer-first approach to who foots the bill.
-Property Tax Relief →
-Real, lasting relief that doesn't trade your appraisal notice for a tax hike at the cash register.
-Public School Policy →
-Fully funding our neighborhood schools and protecting local control from Austin's voucher schemes.
-Healthcare Reform →
-Healthcare Reform: Medicaid expansion to save rural hospitals, paired with proactive mental health care — roving nurses, crisis diversion centers, and an end to treating jail cells as psychiatric wards.
-Fentanyl Crisis Hub →
-Resources and policy for confronting the fentanyl crisis head-on in our community.
+Data Centers & Transmission Infrastructure → Protecting District 58 from the costs of an unplanned data center boom — fair compensation for landowners, park protections, and a ratepayer-first approach to who foots the bill.
+Property Tax Relief → Real, lasting relief that doesn't trade your appraisal notice for a tax hike at the cash register.
+Public School Policy → Fully funding our neighborhood schools and protecting local control from Austin's voucher schemes.
+Healthcare Reform → Healthcare Reform: Medicaid expansion to save rural hospitals, paired with proactive mental health care — roving nurses, crisis diversion centers, and an end to treating jail cells as psychiatric wards.
+Fentanyl Crisis Hub → Resources and policy for confronting the fentanyl crisis head-on in our community.
+Paid for by the Oldham for Texas Campaign in compliance with the Texas Ethics Commission DONATE NOW: GIVE $5, $10, $25 OR MORE Contact Oldham for Texas Campaign Mike Kaftan - Treasurer oldham4texas@gmail.com Address / Phone 752 N.
+Main Street #296 Mansfield, TX 76063 817-381-5115 © # Oldham for Texas Campaign.
+All Rights Reserved Made with Squarespace

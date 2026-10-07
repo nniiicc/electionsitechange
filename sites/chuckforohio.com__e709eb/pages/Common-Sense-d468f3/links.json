@@ -1,33 +1,222 @@
 [
-"https://chuckforohio.com/",
-"https://chuckforohio.com/Contact",
-"https://chuckforohio.com/common-sense",
-"https://chuckforohio.com/common-sense/month/1/year/2020",
-"https://chuckforohio.com/common-sense/month/12/year/2025",
-"https://chuckforohio.com/common-sense/month/2/year/2020",
-"https://chuckforohio.com/common-sense/month/2/year/2025",
-"https://chuckforohio.com/common-sense/month/3/year/2020",
-"https://chuckforohio.com/common-sense/month/3/year/2024",
-"https://chuckforohio.com/common-sense/post/common-sense-gun-safety",
-"https://chuckforohio.com/common-sense/post/common-sense-healthcare",
-"https://chuckforohio.com/common-sense/post/education-common-sense",
-"https://chuckforohio.com/common-sense/post/green-is-common-sense",
-"https://chuckforohio.com/common-sense/post/immigration",
-"https://chuckforohio.com/common-sense/post/labor-laws-in-an-evolving-society",
-"https://chuckforohio.com/common-sense/post/ohio-political-corruption",
-"https://chuckforohio.com/common-sense/tag/corruption",
-"https://chuckforohio.com/common-sense/tag/education",
-"https://chuckforohio.com/common-sense/tag/energy",
-"https://chuckforohio.com/common-sense/tag/environment",
-"https://chuckforohio.com/common-sense/tag/gun%20safety",
-"https://chuckforohio.com/common-sense/tag/health%20care",
-"https://chuckforohio.com/common-sense/tag/immigration",
-"https://chuckforohio.com/common-sense/tag/labor",
-"https://chuckforohio.com/common-sense/tag/wages",
-"https://chuckforohio.com/contact",
-"https://chuckforohio.com/donate",
-"https://chuckforohio.com/privacy",
-"https://chuckforohio.com/terms",
-"https://chuckforohio.com/volunteer",
-"https://secure.actblue.com/donate/hornforhouse"
+{
+"text": "Common Sense",
+"href": "https://chuckforohio.com/common-sense"
+},
+{
+"text": "Common Sense Gun Safety",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-gun-safety"
+},
+{
+"text": "Common Sense Healthcare",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-healthcare"
+},
+{
+"text": "Contact",
+"href": "https://chuckforohio.com/contact"
+},
+{
+"text": "Corruption",
+"href": "https://chuckforohio.com/common-sense/tag/corruption"
+},
+{
+"text": "Corruption!",
+"href": "https://chuckforohio.com/common-sense/post/ohio-political-corruption"
+},
+{
+"text": "December 2025",
+"href": "https://chuckforohio.com/common-sense/month/12/year/2025"
+},
+{
+"text": "Donate",
+"href": "https://chuckforohio.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/hornforhouse"
+},
+{
+"text": "Education",
+"href": "https://chuckforohio.com/common-sense/tag/education"
+},
+{
+"text": "Education - Common Sense",
+"href": "https://chuckforohio.com/common-sense/post/education-common-sense"
+},
+{
+"text": "Energy",
+"href": "https://chuckforohio.com/common-sense/tag/energy"
+},
+{
+"text": "Environment",
+"href": "https://chuckforohio.com/common-sense/tag/environment"
+},
+{
+"text": "February 2020",
+"href": "https://chuckforohio.com/common-sense/month/2/year/2020"
+},
+{
+"text": "February 2025",
+"href": "https://chuckforohio.com/common-sense/month/2/year/2025"
+},
+{
+"text": "Green IS Common Sense - Recognizing Real Costs",
+"href": "https://chuckforohio.com/common-sense/post/green-is-common-sense"
+},
+{
+"text": "Gun Safety",
+"href": "https://chuckforohio.com/common-sense/tag/gun%20safety"
+},
+{
+"text": "Health Care",
+"href": "https://chuckforohio.com/common-sense/tag/health%20care"
+},
+{
+"text": "Home",
+"href": "https://chuckforohio.com/"
+},
+{
+"text": "Immigration",
+"href": "https://chuckforohio.com/common-sense/tag/immigration"
+},
+{
+"text": "January 2020",
+"href": "https://chuckforohio.com/common-sense/month/1/year/2020"
+},
+{
+"text": "Labor",
+"href": "https://chuckforohio.com/common-sense/tag/labor"
+},
+{
+"text": "Labor Laws in an Evolving Society",
+"href": "https://chuckforohio.com/common-sense/post/labor-laws-in-an-evolving-society"
+},
+{
+"text": "March 2020",
+"href": "https://chuckforohio.com/common-sense/month/3/year/2020"
+},
+{
+"text": "March 2024",
+"href": "https://chuckforohio.com/common-sense/month/3/year/2024"
+},
+{
+"text": "OHIO 36th District",
+"href": "https://chuckforohio.com/Contact"
+},
+{
+"text": "Privacy Statement",
+"href": "https://chuckforohio.com/privacy"
+},
+{
+"text": "Terms Of Use",
+"href": "https://chuckforohio.com/terms"
+},
+{
+"text": "U.S. Immigration Must be Fixed to Preserve the Union",
+"href": "https://chuckforohio.com/common-sense/post/immigration"
+},
+{
+"text": "Volunteer",
+"href": "https://chuckforohio.com/volunteer"
+},
+{
+"text": "Wages",
+"href": "https://chuckforohio.com/common-sense/tag/wages"
+},
+{
+"text": "[image: Common Sense Gun Safety]",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-gun-safety"
+},
+{
+"text": "[image: Common Sense Healthcare]",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-healthcare"
+},
+{
+"text": "[image: Corruption!]",
+"href": "https://chuckforohio.com/common-sense/post/ohio-political-corruption"
+},
+{
+"text": "[image: Education - Common Sense ]",
+"href": "https://chuckforohio.com/common-sense/post/education-common-sense"
+},
+{
+"text": "[image: Green IS Common Sense - Recognizing Real Costs]",
+"href": "https://chuckforohio.com/common-sense/post/green-is-common-sense"
+},
+{
+"text": "[image: Labor Laws in an Evolving Society]",
+"href": "https://chuckforohio.com/common-sense/post/labor-laws-in-an-evolving-society"
+},
+{
+"text": "[image: U.S. Immigration Must be Fixed to Preserve the Union ]",
+"href": "https://chuckforohio.com/common-sense/post/immigration"
+},
+{
+"text": "[image]",
+"href": "https://chuckforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-gun-safety#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-healthcare#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/education-common-sense#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/green-is-common-sense#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/immigration#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/labor-laws-in-an-evolving-society#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "https://chuckforohio.com/common-sense/post/ohio-political-corruption#disqus_thread"
+},
+{
+"text": "[no text]",
+"href": "javascript:__doPostBack('dnn%24dnnSEARCH129803%24cmdSearch','')"
+},
+{
+"text": "[no text]",
+"href": "javascript:__doPostBack('dnn%24dnnSEARCH622101%24cmdSearch','')"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-gun-safety"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/common-sense-healthcare"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/education-common-sense"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/green-is-common-sense"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/immigration"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/labor-laws-in-an-evolving-society"
+},
+{
+"text": "read more..",
+"href": "https://chuckforohio.com/common-sense/post/ohio-political-corruption"
+}
 ]

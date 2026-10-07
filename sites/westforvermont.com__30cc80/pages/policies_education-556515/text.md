@@ -1,5 +1,4 @@
-Education
-Every Vermont child deserves a great education, no matter their ZIP code.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Education Every Vermont child deserves a great education, no matter their ZIP code.
 Our schools are at the heart of our communities, but families are also telling us clearly that the way we pay for education isn’t sustainable.
 We need to improve affordability without weakening our schools or forcing every community into the same model.
 That means protecting what works and changing what doesn’t.
@@ -10,7 +9,10 @@ I also don’t believe bigger is automatically better.
 Rural education shouldn’t be shaped by a one-size-fits-all push toward consolidation.
 Communities deserve a real voice in what happens to their schools, and students deserve access to the educational options that work best for them.
 The question should always be: will this give Vermont children a better education while making the system work better for the families and communities paying for it?
-What I'll Work On
-Protect and strengthen public schools, independent schools, school choice, and town tuitioning.
+What I'll Work On Protect and strengthen public schools, independent schools, school choice, and town tuitioning.
 Expand career and technical education, apprenticeships, dual enrollment, and other pathways to future success.
 Make education funding more sustainable while directing more resources to students and preserving local voice.
+Back to Issues Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

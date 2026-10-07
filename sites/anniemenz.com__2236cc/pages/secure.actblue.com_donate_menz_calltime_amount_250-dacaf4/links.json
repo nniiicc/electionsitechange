@@ -1,23 +1,94 @@
 [
-"https://anniemenz.com/",
-"https://anniemenz.com/3d1d7984-f904-48d0-87fa-daa8f505f6f3",
-"https://anniemenz.com/Platform",
-"https://anniemenz.com/about",
-"https://anniemenz.com/contact",
-"https://anniemenz.com/how-to-contact-rep-annie-menz",
-"https://anniemenz.com/news",
-"https://anniemenz.com/privacy-policy",
-"https://anniemenz.com/secure.actblue.com/donate/menz_calltime",
-"https://anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=10",
-"https://anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=100",
-"https://anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=25",
-"https://anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=250",
-"https://anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=50",
-"https://designedtorun.com/",
-"https://facebook.com//annieforhouse",
-"https://iwillvote.com/",
-"https://oklahoma.gov/elections/voter-registration/register-to-vote.html",
-"https://oklahoma.gov/elections/voters/absentee-voting.html",
-"https://oklahoma.gov/elections/voters/early-voting.html",
-"https://secure.actblue.com/donate/menz_calltime?amount=100"
+{
+"text": "$10",
+"href": "https://www.anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=10"
+},
+{
+"text": "$100",
+"href": "https://www.anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=100"
+},
+{
+"text": "$25",
+"href": "https://www.anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=25"
+},
+{
+"text": "$250",
+"href": "https://www.anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=250"
+},
+{
+"text": "$50",
+"href": "https://www.anniemenz.com/secure.actblue.com/donate/menz_calltime?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.anniemenz.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.anniemenz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/menz_calltime?amount=100"
+},
+{
+"text": "Early voting locations",
+"href": "https://oklahoma.gov/elections/voters/early-voting.html"
+},
+{
+"text": "How to Contact Rep. Annie Menz",
+"href": "https://www.anniemenz.com/how-to-contact-rep-annie-menz"
+},
+{
+"text": "Issues",
+"href": "https://www.anniemenz.com/Platform"
+},
+{
+"text": "Learn more",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "News",
+"href": "https://www.anniemenz.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.anniemenz.com/secure.actblue.com/donate/menz_calltime"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.anniemenz.com/3d1d7984-f904-48d0-87fa-daa8f505f6f3"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.anniemenz.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://oklahoma.gov/elections/voter-registration/register-to-vote.html"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://oklahoma.gov/elections/voters/absentee-voting.html"
+},
+{
+"text": "View More",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "[image: Annie Menz for House]",
+"href": "https://www.anniemenz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//annieforhouse"
+}
 ]

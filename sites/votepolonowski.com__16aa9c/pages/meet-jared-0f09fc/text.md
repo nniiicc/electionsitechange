@@ -1,4 +1,4 @@
-Jared is a life long entrepreneur and working father of five.
+Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us More Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Meet Jared Jared is a life long entrepreneur and working father of five.
 He grew up in the rural area of Otsego Township.
 After finishing high school, he left Michigan eventually returning the Grand Rapids area to finish his degree, graduating with a bachelors in education from Aquinas College in 2013 and currently working on his masters as of 2025.
 In 2015 he sold his home in Grand Rapids and moved back to Otsego where he purchased a home and one of the local bars in the city of Otsego.
@@ -20,10 +20,7 @@ Jared believes that citizens should always have an open line of communication to
 You will often hear Jared say "I can not be bought" after all, the reason Jared began this journey was to improve the lives of all Michiganders that continue to be neglected by our current system and legislators.
 Jared believes that as a legislator one can not accept corporate and PAC money and still represent the people That is why Jared has made a promise not to accept any money from corporations or PAC's including dark money.
 Jared also encourages you to review all of your legislators financial disclosures and see who they are actually representing.
-Follow this link for more info https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboeContributionPublicSearch
-Website:https://migreenparty.org/
-Facebook: https://www.facebook.com/migreens/
-Website: https://migreenparty.org/
-Website: https://westmihcc.org/
-Facebook: https://www.facebook.com/westmichigan.hispanicchamber
--Jared Polonowski
+Follow this link for more info https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboeContributionPublicSearch Jared's Active appointed Positions Secretary - State Cental Committee Green Party Website: https://migreenparty.org/ Facebook: https://www.facebook.com/migreens/ Chair - Grand Rapids Area Green's Local District Allegan, Kent, Barry Website: https://migreenparty.org/ Facebook: https://www.facebook.com/grandrapidsgreens Jared's Active Memberships Green Party of Michigan Member Website: https://migreenparty.org/ Facebook: https://www.facebook.com/migreens/ VFW Auxillary Member Website: https://vfw3030.org/di/vfw/v2/default.asp?pid=122568 Facebook: https://www.facebook.com/OtsegoVFW3030Auxiliary VFW DADS Member Website: https://dadsofforeignservicevets.org/post-56/ Facebook: https://www.facebook.com/profile.php?id=100067775066755 West Michigan Hispanic Chamber of Commerce (WMHCC) Member Website: https://westmihcc.org/ Facebook: https://www.facebook.com/westmichigan.hispanicchamber "I'm not here to make friends.
+I'm not here to make money.
+I'm here to do my job, and that is to represent the People." -Jared Polonowski Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078 Copyright © # The Committee to elect Jared Polonowski - All Rights Reserved.
+Powered by

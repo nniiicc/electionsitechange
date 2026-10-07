@@ -1,17 +1,110 @@
 [
-"https://facebook.com/janeforflorida",
-"https://instagram.com/janeforflorida",
-"https://janeforflorida.com/",
-"https://janeforflorida.com/about",
-"https://janeforflorida.com/issues",
-"https://janeforflorida.com/privacy-policy",
-"https://janeforflorida.com/volunteer",
-"https://janeforflorida.com/wp-content/uploads/2025/07/JA-Petition-One-Pager.pdf",
-"https://ocfelections.com/",
-"https://secure.actblue.com/donate/ja-website",
-"https://secure.actblue.com/donate/ja-website?amount=10",
-"https://secure.actblue.com/donate/ja-website?amount=100",
-"https://secure.actblue.com/donate/ja-website?amount=25",
-"https://voteseminole.gov/",
-"https://x.com/JaneforFlorida"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ja-website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ja-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ja-website?amount=25"
+},
+{
+"text": "About",
+"href": "https://janeforflorida.com/about/"
+},
+{
+"text": "Affordability",
+"href": "https://janeforflorida.com/issues/#affordability"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ja-website"
+},
+{
+"text": "Education",
+"href": "https://janeforflorida.com/issues/#education"
+},
+{
+"text": "Endorsements",
+"href": "https://janeforflorida.com/#endorsements"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/janeforflorida/"
+},
+{
+"text": "HEalthcare",
+"href": "https://janeforflorida.com/issues/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://janeforflorida.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/janeforflorida/"
+},
+{
+"text": "Issues",
+"href": "https://janeforflorida.com/issues/"
+},
+{
+"text": "Keep Reading",
+"href": "https://janeforflorida.com/about/"
+},
+{
+"text": "On Facebook",
+"href": "https://www.facebook.com/janeforflorida/"
+},
+{
+"text": "On Instagram",
+"href": "https://www.instagram.com/janeforflorida/"
+},
+{
+"text": "On X",
+"href": "https://x.com/JaneforFlorida"
+},
+{
+"text": "Orange County",
+"href": "https://ocfelections.com"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ja-website"
+},
+{
+"text": "Petition",
+"href": "https://janeforflorida.com/wp-content/uploads/2025/07/JA-Petition-One-Pager.pdf"
+},
+{
+"text": "Seminole County",
+"href": "https://www.voteseminole.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://janeforflorida.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://janeforflorida.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://janeforflorida.com/#voting-info"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JaneforFlorida"
+},
+{
+"text": "[image]",
+"href": "https://janeforflorida.com"
+},
+{
+"text": "privacy policy",
+"href": "https://janeforflorida.com/privacy-policy/"
+}
 ]

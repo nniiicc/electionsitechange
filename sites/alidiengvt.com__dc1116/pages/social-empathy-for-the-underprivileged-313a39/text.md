@@ -1,4 +1,4 @@
-The City has prioritized equity reports over the past couple of years and has allocated enough resources for the gathering, design, and distribution of such reports.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: Social Empathy for the Underprivileged Posted on February 16, 2020 January 6, 2021 Author steve The City has prioritized equity reports over the past couple of years and has allocated enough resources for the gathering, design, and distribution of such reports.
 Let’s ask ourselves, who is better off having access to such a report?
 How does it affect the quality of life of our residents?
 How did it ensure the safety and well being of each and every one living in our community?
@@ -14,3 +14,7 @@ Why has the administration not tapped into the effective communication tools of 
 Equality is defined as everyone having shoes, whereas equity is defined as everyone having shoes that fit them.
 We can only learn to harmonize many competing priorities by starting to make communication accessible to everyone.
 This is a request to shift resources from the general equity report and focus on an equitable language access plan.
+Categories Ali , New North End Post navigation ← Previous Previous post: Franklin Square Update Next → Next post: Reinvesting in Burlington Telecom DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

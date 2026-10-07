@@ -1,12 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSd4f6TpCMDtxEr6J0-DT493ucUZZ6ZhF_JXhT76iT2iqO8-Qw/viewform",
-"https://electevaromero.com/",
-"https://electevaromero.com/about",
-"https://electevaromero.com/contact",
-"https://electevaromero.com/get-involved",
-"https://electevaromero.com/issues",
-"https://electevaromero.com/privacy-policy",
-"https://facebook.com/ElectEvaRomero",
-"https://instagram.com/electevaromero",
-"https://secure.winred.com/eva-romero-for-state-house/donate-today"
+{
+"text": "Contact",
+"href": "https://electevaromero.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/eva-romero-for-state-house/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ElectEvaRomero"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/electevaromero"
+},
+{
+"text": "Get Involved",
+"href": "https://electevaromero.com/contact/"
+},
+{
+"text": "Get Involved",
+"href": "https://electevaromero.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://electevaromero.com/"
+},
+{
+"text": "Issues",
+"href": "https://electevaromero.com/issues/"
+},
+{
+"text": "Make A Donation",
+"href": "https://secure.winred.com/eva-romero-for-state-house/donate-today"
+},
+{
+"text": "Meet Eva",
+"href": "https://electevaromero.com/about/"
+},
+{
+"text": "Order Today",
+"href": "https://electevaromero.com/contact/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electevaromero.com/privacy-policy/"
+},
+{
+"text": "Sign the Petition!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4f6TpCMDtxEr6J0-DT493ucUZZ6ZhF_JXhT76iT2iqO8-Qw/viewform"
+},
+{
+"text": "[image]",
+"href": "https://electevaromero.com/"
+}
 ]

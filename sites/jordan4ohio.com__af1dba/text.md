@@ -1,7 +1,4 @@
-Jordan Haire for Ohio Statehouse
-Running to restore trust in Ohio’s Leadership
-I Listen for a Living…
-As your next representative from Ohio district 47, I will fight to make life more affordable, strengthen our education system and restore trust in your government.
+0 Skip to Content About Jordan Issues 47th District Donate Now Open Menu Close Menu About Jordan Issues 47th District Donate Now Open Menu Close Menu About Jordan Issues 47th District Donate Now Jordan Haire for Ohio Statehouse Running to restore trust in Ohio’s Leadership Get Involved I Listen for a Living… As your next representative from Ohio district 47, I will fight to make life more affordable, strengthen our education system and restore trust in your government.
 I am a clinical counselor by trade, so I’m used to listening more than speaking and that is this campaign will be about: listening to the voters of Butler County and delivering on the issues that are most urgent to them.
 Get Involved!
-Sign up to volunteer and help Jordan build a winning campaign
+Sign up to volunteer and help Jordan build a winning campaign Volunteer Get Involved Donate Jordan 4 Ohio Paid for by Friends of Jordan Haire Made with Squarespace

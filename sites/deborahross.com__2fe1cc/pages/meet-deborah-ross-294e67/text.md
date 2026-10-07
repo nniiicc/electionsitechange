@@ -1,4 +1,4 @@
-Chances are, you already know Deborah.
+Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Ross Chances are, you already know Deborah.
 She and her husband, Steve Wrinn, are active in the Raleigh community where they’ve worked and lived for over 25 years.
 Deborah grew up in a small town and from a young age her parents instilled in her the belief that with opportunity comes responsibility and that through public service she could help others and make a difference.
 Deborah came to North Carolina for law school at UNC-Chapel Hill and became an active member of the local community.
@@ -19,5 +19,4 @@ House, Deborah currently serves on the House Judiciary Committee, the House Ethi
 She also holds the position of Chief Deputy Whip on the House Democrats’ leadership team and is a member of the Steering and Policy Committee.
 Deborah’s top priorities include passing laws to help local residents, families, and businesses, lowering prescription drug prices, protecting Social Security for our seniors, continuing to push for racial justice under the law, and working to invest in infrastructure.
 Deborah and Steve live in Raleigh with their objectively adorable dog, Wylie.
-We use cookies for analytics and marketing.
-You choose what to allow.
+Learn More Get to know Deborah better by viewing her Priorities , Endorsements , and Latest Updates .

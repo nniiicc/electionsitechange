@@ -1,6 +1,4 @@
-News & Updates
-Roers Hires New Director of Business Development
-FARGO – Roers is proud to announce and welcome Shawn Kessel as the Director of Business Development.
+MEET SHAWN PRIORITIES GET INVOLVED NEWS VOTE CONTACT CONTRIBUTE News & Updates Roers Hires New Director of Business Development Jan 24, 2025 | In the News FARGO – Roers is proud to announce and welcome Shawn Kessel as the Director of Business Development.
 Kessel will oversee the commercial leasing process and leverage his extensive experience and professional relationships to identify development opportunities throughout the region.
 He will also collaborate with the Roers team to develop and execute the business plan for the Center of Innovation project in Fargo, North Dakota.
 Kessel brings extensive experience to Roers, years of leadership and impactful initiatives in North Dakota.
@@ -13,10 +11,6 @@ Roers has a proven track record for building success in the communities they ser
 Visit www.roers.com for insight on the company’s services, projects and community involvement.
 Kessel brings extensive experience to Roers, years of leadership and impactful initiatives in North Dakota.
 Prior to joining Roers, Kessel served as the Chief Operating Officer/Deputy Commissioner for the North Dakota – Department of Commerce for six years where he led numerous initiatives for the state including the Main Street Initiative community development program.
-Latest News
-District 27 House Candidate Shawn Kessel Joins Tyler Axness on Afternoons Live on KFGO
-News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Tyler Axness on Afternoon Live on KFGO to talk about his campaign and priorities for District 27.
-Latest News Governor Kelly Armstrong Announces First Round of…
-Interview with Michael Bell on Dakota Mornings
-News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Michael Bell on the Dakota Mornings program to discuss his campaign.
-Start listening at 21:00 to hear from Shawn on his experience in the public and private…
+Latest News Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,… Read More District 27 House Candidate Shawn Kessel Joins Tyler Axness on Afternoons Live on KFGO Mar 10, 2026 | In the News News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Tyler Axness on Afternoon Live on KFGO to talk about his campaign and priorities for District 27.
+Latest News Governor Kelly Armstrong Announces First Round of… Interview with Michael Bell on Dakota Mornings Jan 7, 2026 | In the News News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Michael Bell on the Dakota Mornings program to discuss his campaign.
+Start listening at 21:00 to hear from Shawn on his experience in the public and private… « Older Entries  STAY CONNECTED FULL NAME (Required) First Last Email (Required) Phone (Required) MESSAGE CAPTCHA Submit PAID FOR BY FRIENDS OF KESSEL

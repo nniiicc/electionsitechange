@@ -1,5 +1,5 @@
-NH Better Served by Quality Education & Lower Property Taxes
-Does anyone else think about the irony of fighting with ourself over school funding.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search NH Better Served by Quality Education & Lower Property Taxes Karen Burnett-Kurie Oct 22, 2024 2 min read Does anyone else think about the irony of fighting with ourself over school funding.
 The school districts, funded primarily by property taxes, are suing the state, funded by taxes and fees paid by us.
 We're arguing over the state's calculation of the cost of an adequate education and the source of state funding for education, SWEPT.
 So public dollars are paying for both sides of the lawsuits.
@@ -16,5 +16,6 @@ So we are arguing with ourself about dumbing down our standards in order to redu
 How does that make sense for NH's future?
 Present members of our Legislature, including free staters, additional libertarians and extreme republicans, have upped the argument with ourself, and thus its cost.
 If we want to reduce taxes we should stop arguing with and suing ourselves.
-And acknowledge our state is better served by quality education and lower property taxes.
-{This letter was also published in The Laconia Daily Sun}
+And acknowledge our state is better served by quality education and lower property taxes. {This letter was also published in The Laconia Daily Sun } Fair Taxation Education Recent Posts See All Is Local Spending Really Out of Control?
+Educational Freedom Accounts Part 2: Education Freedom Accounts- Part 1 Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

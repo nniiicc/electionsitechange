@@ -1,14 +1,62 @@
 [
-"https://facebook.com/VoteNickSchultz",
-"https://flickr.com/photos/186327522@N03/albums/72177720333217164",
-"https://instagram.com/votenickschultz",
-"https://secure.actblue.com/donate/nick-schultz-1",
-"https://votenickschultz.com/",
-"https://votenickschultz.com/about",
-"https://votenickschultz.com/contact",
-"https://votenickschultz.com/district-44",
-"https://votenickschultz.com/endorsements",
-"https://votenickschultz.com/get-involved",
-"https://voterstatus.sos.ca.gov/",
-"https://willisdesign.com/"
+{
+"text": "Contact",
+"href": "https://www.votenickschultz.com/contact/"
+},
+{
+"text": "District 44",
+"href": "https://www.votenickschultz.com/district-44/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nick-schultz-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votenickschultz.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votenickschultz.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.votenickschultz.com/"
+},
+{
+"text": "Media",
+"href": "https://www.flickr.com/photos/186327522@N03/albums/72177720333217164"
+},
+{
+"text": "Meet Nick",
+"href": "https://www.votenickschultz.com/about/"
+},
+{
+"text": "Register To Vote",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "W&WDS",
+"href": "https://willisdesign.com"
+},
+{
+"text": "[image: Donation Amounts]",
+"href": "https://secure.actblue.com/donate/nick-schultz-1"
+},
+{
+"text": "[image: Nick Schultz]",
+"href": "https://www.votenickschultz.com"
+},
+{
+"text": "[image: Nick Schultz]",
+"href": "https://www.votenickschultz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteNickSchultz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votenickschultz"
+}
 ]

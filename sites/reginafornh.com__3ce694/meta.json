@@ -1,7 +1,11 @@
 {
  "description": "This is the official campaign site for New Hampshire State Senator Regina Birdsell representing Derry, Hampstead, and Windham.",
  "final_url": "https://www.reginafornh.com/",
- "paid_for_by": "Paid for by Friends of Regina Birdsell;&nbsp;Mark Skelly, Fiscal Agent bottom of page",
+ "fingerprint": "765317a7dc5f90f4195096a0c326c65675af9ed7",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Regina Birdsell; Mark Skelly, Fiscal Agent bottom of page",
  "title": "Regina Birdsell for New Hampshire State Senate - District 19",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

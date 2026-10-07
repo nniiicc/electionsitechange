@@ -1,16 +1,11 @@
-Paid for by Colin Hernandez for California Assembly 2026.
-FPPC ID #1482866
-THE ISSUES THAT MATTER
-CALCARE FOR ALL
-The United States uses a privatized healthcare system, one that values profits over human lives.
+DONATE ISSUES VOLUNTEER DONATE THE ISSUES THAT MATTER CALCARE FOR ALL The United States uses a privatized healthcare system, one that values profits over human lives.
 Healthcare should never have become a for-profit industry, yet every year, over 530,000 Americans file for bankruptcy due to medical debt, and roughly 68,000 Americans die from lack of health insurance or being underinsured.
 Trump’s Big Beautiful Bill is slated to strip nearly 3.5 million Californians of their healthcare; meanwhile, civilians are denied healthcare access due to their pre-existing conditions or gender identities.
 What California needs is CalCare - universal healthcare guaranteed to all Californians.
 Healthcare must be a right, not something that only the wealthy can afford.
 I have the will to fight for CalCare in California, and I will never back down.
-Learn more about CalCare here.
-HOUSING FOR ALL
-California has a severe housing crisis and a massive need to build more housing if we want to stand a chance at tackling the problem.
+Learn more about CalCare here .
+HOUSING FOR ALL California has a severe housing crisis and a massive need to build more housing if we want to stand a chance at tackling the problem.
 That involves allowing more types of housing possible.
 If it helps someone get into housing, then we need to build it.
 I look at the single-stair ordinance that Culver City recently passed as an example.
@@ -37,8 +32,7 @@ When it comes to our housing crisis, there are bad actors in this story: private
 They purchase and intentionally leave buildings vacant to artificially inflate the property values of the surrounding areas and justify charging higher rents.
 These practices have made it virtually impossible for people to own a home or find an affordable apartment.
 I will fight to restrict private equity in our housing market and institute vacancy taxes per empty unit to make sure they these firms cannot inflate the market for profits.
-WALKABLE CITIES AND TOWNS
-Los Angeles is one of the largest city in the United States.
+WALKABLE CITIES AND TOWNS Los Angeles is one of the largest city in the United States.
 It's a sprawling city, however, we are disconnected from our neighbors because there is no adaquate public transit and many neighborhoods aren't walkable.
 Buses take too long, trains aren't wildly available and don't come as often, and bike lanes aren't respected by drivers.
 Spreadout cities and towns like Los Angeles have caused walkable cities to disappear in this state.
@@ -50,8 +44,7 @@ I will always vote and legislate to increase housing density, robust public tran
 Urbanization in our towns and cities will save this state.
 California is the same size of Japan and Los Angeles is a bit smaller, in terms of square miles, than Tokyo.
 There is no reason why we cannot have the same density and infrastructure as them.
-STRENGTHENING OUR PUBLIC SCHOOLS
-We always talk about how California is the fourth largest economy in the world; how California is the richest state in the richest country in the world.
+STRENGTHENING OUR PUBLIC SCHOOLS We always talk about how California is the fourth largest economy in the world; how California is the richest state in the richest country in the world.
 But who is that economy working for?
 Where is that wealth going?
 Certainly not towards our students and teachers.
@@ -78,20 +71,17 @@ Additionally, we have to protect our teachers’ right to academic freedoms.
 Laws like AB 715 censor what teachers can teach and even talk about in their classrooms.
 In a chilling time where our government, at all levels, is clamping down on free speech, academic freedom must be upheld.
 These freedoms allow our students – our children – to get the best education.
-REDUCING AND ENDING HOMELESSNESS
-Every night, nearly 187,000 people sleep on the streets of California, and the number one contributor to homelessness in California is its lack of affordable housing.
+REDUCING AND ENDING HOMELESSNESS Every night, nearly 187,000 people sleep on the streets of California, and the number one contributor to homelessness in California is its lack of affordable housing.
 I will push legislation to create social housing to place people into permanent housing and offer services, such as mental health evaluations and substance rehabilitation.
 No more temporary fixes or half-measures; no one should sleep on the streets when billionaires own multiple homes and yachts.
-CHILDCARE FOR ALL
-The cost of starting and maintaining a family is out of reach for many Millennial and Gen Z adults.
+CHILDCARE FOR ALL The cost of starting and maintaining a family is out of reach for many Millennial and Gen Z adults.
 In fact, it is the only reason my wife and I haven’t become parents yet.
 Those who already have families to care for are feeling the stress and economic pressures of meeting basic needs, and these very costs are preventing many from having or adopting children altogether.
 The price of childcare in California has grown to the point where it’s become a luxury for many, with average costs up to $24,000 per year.
 With the cost of living rising while wages remain stagnant, parents are forced to work longer hours, making it seemingly impossible for single parents to make ends meet.
 California should uplift working families, and everyone should have the ability to raise a family without stressing about childcare costs.
 I will propose legislation that makes childcare a universal right for everyone in this state, not only for those who can afford it.
-TAKING ON THE TOP 1% AND BIG CORPORATIONS
-California is home to some of the wealthiest people on the planet.
+TAKING ON THE TOP 1% AND BIG CORPORATIONS California is home to some of the wealthiest people on the planet.
 Every year, California loses tens of billions of dollars in tax revenue, even more when the ultra-wealthy elites and large corporations use tax loopholes to avoid paying their fair share.
 Think of what California could do with all of this money!
 We could vastly improve the lives of working Californians, providing Childcare for all, CalCare for all, and Housing for all.
@@ -104,8 +94,7 @@ Over 200 billionaires live in California, and several companies valued at over $
 There is no reason that they cannot afford to pay their fair share of taxes towards the benefit of California, including to the workers who helped to generate their wealth.
 We need a system that uplifts the working-class people who have made California great, not the ultra-wealthy.
 If elected, I promise to make sure that the wealthy are paying the taxes to help keep California moving in the right direction.
-BILLIONAIRE WEALTH TAX
-Last summer, Donald Trump and the Republicans enacted massive cuts to Medicaid, stripping millions of Americans of their healthcare, just to pay for HUGE tax breaks to billionaires and give ICE an overbloated budget to harrass immigrant communities.
+BILLIONAIRE WEALTH TAX Last summer, Donald Trump and the Republicans enacted massive cuts to Medicaid, stripping millions of Americans of their healthcare, just to pay for HUGE tax breaks to billionaires and give ICE an overbloated budget to harrass immigrant communities.
 Due to these slashes in healthcare, nearly 3.5 million Californians will lose their MediCal coverage.
 Proposition 40, if passed, would enact a one-time tax on billionaires' wealth to prevent this massive drop in coverage.
 Naturally, billionaires are fighting tooth and nail to prevent this from making it on the ballot.
@@ -121,8 +110,7 @@ I am full support in this Billionaire Wealth Tax.
 This state is becoming so unaffordable for working families that many are leaving.
 Our politicians are so pre-occupied about a made up "exodus" of billionaires that they refuse to see the real exit of working families.
 I am running to change this.
-ADVOCATING FOR OUR TGI NEIGHBORS
-Across the country, we are seeing rights being stripped away from our Trans, Gender-Expansive, and Intersex (TGI) neighbors.
+ADVOCATING FOR OUR TGI NEIGHBORS Across the country, we are seeing rights being stripped away from our Trans, Gender-Expansive, and Intersex (TGI) neighbors.
 Rather than stand up to fight for the TGI community, many in the Democratic party have signaled that they are willing to abandon them in order to win elections.
 We cannot let this happen.
 The need is clear.
@@ -144,8 +132,7 @@ I want to put forth legislation that ends the criminalization of our TGI neighbo
 Making sure we divert as many people, especially TGI people, as possible from the criminal legal system is a must for me.
 This involves funding more into community-based alternatives to policing and incarceration.
 If we are serious about ending the mass incarceration of the LGBTQ+ community, we need to promote a version of public safety that’s rooted in care and evidence, not harm.
-ABOLISH ICE, PROTECT IMMIGRANTS
-One of the most diverse states in the nation, California is also home to the highest number of immigrant communities - everyone who calls the state their home is a Californian.
+ABOLISH ICE, PROTECT IMMIGRANTS One of the most diverse states in the nation, California is also home to the highest number of immigrant communities - everyone who calls the state their home is a Californian.
 Donald Trump has sent ICE agents into our communities to spread fear and rip families apart, tearing down the basis of what the United States was founded upon – a melting pot; a proud nation of immigrants.
 Even local authorities have collaborated with ICE agents to apprehend our neighbors, sharing personal data to corner and capture innocent people.
 This is absolutely unacceptable, and it needs to end now!
@@ -161,9 +148,7 @@ ICE will never be welcome in California.
 To protect our immigrant communities, we must ABOLISH ICE.
 To aid our neighbors, I support increasing funds to help those facing deportation gain access to legal counsel.
 The US immigration courts are built to dehumanize people forced through their system - an incredibly complex one by design - to stack the odds against having a fighting chance.
-Access to legal counsel decreases the likelihood of deportation, helping to protect anyone and everyone who calls California “home.”
-CLIMATE JUSTICE FOR ALL
-Throughout my life, California has been stricken with drought, wildfires, and other disasters exacerbated by climate change.
+Access to legal counsel decreases the likelihood of deportation, helping to protect anyone and everyone who calls California “home.” CLIMATE JUSTICE FOR ALL Throughout my life, California has been stricken with drought, wildfires, and other disasters exacerbated by climate change.
 Given the poorly executed response to the LA fires in January, our current infrastructure is not prepared to handle such disasters.
 Much of California’s rainwater funnels back into the ocean rather than into tanks and reservoirs, water that could be used to help California fend off droughts and protect our homes from wildfires.
 We must invest more in anti-drought measures and water collection to help California build its reserves and increase fire preparedness.
@@ -172,8 +157,7 @@ As your assemblyman, I promise to vote against bills that would allow for new oi
 Our state needs to increase its investments in renewable energies such as solar and wind power.
 I will always support measures that aim to invest in renewable and sustainable energy, and against corporate subsidies for the oil and gas industries.
 California is such a beautiful state, and I want families to bear witness to its beauty for generations to come - so we must conserve and protect the very environment that has allowed us to thrive.
-LGBTQ+ RIGHTS
-Donald Trump and the GOP, with their dehumanizing rhetoric that we have seen all year, have made it clear who their targets are: the LGBTQ+ community.
+LGBTQ+ RIGHTS Donald Trump and the GOP, with their dehumanizing rhetoric that we have seen all year, have made it clear who their targets are: the LGBTQ+ community.
 When we’ve already seen efforts by conservatives to block trans people from healthcare access in other states.
 The Supreme Court is also signaling they want to overturn Obergefell v.
 Hodges.
@@ -189,8 +173,7 @@ Queer folks are vastly overrepresented in our prison system.
 Trans people, particularly trans women, disproportionately face violence at higher rates than their cis peers.
 I will always be an ally to LGBTQ+ communities.
 When elected, I promise to put forward legislation that advances and protects queer and trans rights in California, to create safe environments for people to not only comfortably exist as themselves, but also to exercise their rights to thrive.
-FIGHTING FOR A CALIFORNIA THAT IS AGAINST IMPERIALISM AND COLONIALISM
-Issues surrounding Palestine, Cuba, and U.S. involvement around the world all manage to find ways to come back to us.
+FIGHTING FOR A CALIFORNIA THAT IS AGAINST IMPERIALISM AND COLONIALISM Issues surrounding Palestine, Cuba, and U.S. involvement around the world all manage to find ways to come back to us.
 While these places may seem far away from California, they directly and indirectly affect our local communities.
 It’s why we’re spending more money at the pump and why we can barely afford our families’ basic needs.
 Israel is an apartheid ethnostate that is committing genocide in Gaza and ethnic cleansing in Southern Lebanon.
@@ -220,3 +203,5 @@ Martin Luther King Jr. began his fight for civil rights by handing out materials
 We cannot sacrifice our first amendment rights to protect colonialism and imperialism.
 As an Assemblymember, I will always fight to protect free speech in California and make sure our state stands against injustices.
 THE GENERAL ELECTION IS NOVEMBER 3, 2026.
+MAKE A PLAN TO VOTE Paid for by Colin Hernandez for California Assembly 2026.
+FPPC ID #1482866 Privacy Policy CONTACT

@@ -1,11 +1,54 @@
 [
-"http://instagram.com/woodsideforflorida",
-"https://facebook.com/profile.php?id=61584822806177",
-"https://secure.anedot.com/matt-woodside-campaign/donate",
-"https://woodsideforflorida.com/",
-"https://woodsideforflorida.com/get-involved",
-"https://woodsideforflorida.com/meet-matt",
-"https://woodsideforflorida.com/platform",
-"https://woodsideforflorida.com/why-i-m-running",
-"https://x.com/Matt_Woodside"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/matt-woodside-campaign/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.woodsideforflorida.com/get-involved"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.woodsideforflorida.com/platform"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.woodsideforflorida.com/meet-matt"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.woodsideforflorida.com/why-i-m-running"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584822806177"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.instagram.com/woodsideforflorida"
+},
+{
+"text": "[image: Political Issue Border Security.png]",
+"href": "https://www.woodsideforflorida.com/platform"
+},
+{
+"text": "[image: Political Issue Election Integrity.png]",
+"href": "https://www.woodsideforflorida.com/platform"
+},
+{
+"text": "[image: Political Issue First Responders.png]",
+"href": "https://www.woodsideforflorida.com/platform"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/Matt_Woodside"
+},
+{
+"text": "[image: W Logo Red Star.png]",
+"href": "https://www.woodsideforflorida.com"
+},
+{
+"text": "[image]",
+"href": "https://www.woodsideforflorida.com"
+}
 ]

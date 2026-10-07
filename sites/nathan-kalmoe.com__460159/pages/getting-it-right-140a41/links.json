@@ -1,17 +1,74 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://vote.norml.org/states/WI",
-"https://weac.org/resource-library/recommendations",
-"https://wisconsinnetwork.org/news/2025-2027-state-budget-sells-wisconsin-kids-short"
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "NORML score card",
+"href": "https://vote.norml.org/states/WI"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "WEAC appears to have endorsed most Democrats running",
+"href": "https://weac.org/resource-library/recommendations#:~:text=Governor,David%20Crowley&text=Lt.%20Governor,Sarah%20Godlewski&text=Attorney%20General,Josh%20Kaul&text=Secretary%20of%20State,JoCasta%20Zamarripa&text=State%20Treasurer,Yee%20Leng%20Xiong"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "sharply criticized by the teachers' union WEAC (which called Sen. Hesselbein out by name",
+"href": "https://www.wisconsinnetwork.org/news/2025-2027-state-budget-sells-wisconsin-kids-short"
+}
 ]

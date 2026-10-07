@@ -1,7 +1,4 @@
-Spartz Endorsed by IN Right to Life
-April 8, 2024
-Friends,
-Congresswoman Spartz is proud to announce that her 2024 re-election campaign has been endorsed by the Indiana Right to Life PAC.
-“Whether it is stopping taxpayer dollars from funding abortions or advocating for the religious liberty of health care providers who refuse to perform abortive procedures, it is imperative to remember that life is at stake and must be defended every time,” said Rep.
-Spartz, “I will never stop fighting to remind Congress of the value of life – especially for the unborn.”
-Indiana Right to Life PAC works to safeguard the right to life through education, advocacy, and promotion of healthy alternatives to abortions.
+Skip to content Home About Issues News Volunteer Home About Issues News Volunteer Donate Instagram Facebook Spartz Endorsed by IN Right to Life Spartz Endorsed by IN Right to Life April 8, 2024 Friends, Congresswoman Spartz is proud to announce that her 2024 re-election campaign has been endorsed by the Indiana Right to Life PAC.
+“Whether it is stopping taxpayer dollars from funding abortions or advocating for the religious liberty of health care providers who refuse to perform abortive procedures, it is imperative to remember that life is at stake and must be defended every time, ” said Rep.
+Spartz, “I will never stop fighting to remind Congress of the value of life – especially for the unborn .” Indiana Right to Life PAC works to safeguard the right to life through education, advocacy, and promotion of healthy alternatives to abortions.
+Donate Spartz Endorsed by SBA Pro-Life America Victoria Spartz Endorsed by NFIB Home About Issues News Volunteer Home About Issues News Volunteer PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Donate Privacy Policy info@spartzforcongress.com Internships Donate Privacy Policy info@spartzforcongress.com Internships PO BOX 505 NOBLESVILLE, IN 46061 Home About Issues Volunteer News Donate PAID FOR BY VICTORIA SPARTZ FOR CONGRESS Privacy Policy info@spartzforcongress.com PO BOX 505 NOBLESVILLE, IN 46061

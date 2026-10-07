@@ -1,22 +1,4 @@
-This behind-the-scenes look offers a candid glimpse into the long hours, high stakes, and human moments that shape …
-by Michael
-January 9, 2025
-The bill aims to strengthen data protection for consumers, but reactions vary based on regional priorities, business interests, …
-January 8, 2025
-These volunteers are the heart of our mission, dedicating their time, skills, and energy to help our cause …
-January 7, 2025
-From community policing to youth programs, see how our safety plan supports real change without leaving anyone behind.
-January 6, 2025
-Explore how campaigns are using platforms like Instagram, TikTok, and X to reach voters, mobilize supporters, and combat …
-January 5, 2025
-Grassroots donations power this campaign.
-Thank you for helping us build a movement that answers to people, not …
-January 4, 2025
-From phone banking to sharing on social media, every action matters.
-Here’s how you can get involved and …
-January 3, 2025
-We’ve come a long way together.
-Check out the wins we’ve achieved so far—and what’s next on the …
-January 2, 2025
-Break down complex policies through the real-life experiences of those who stand to be most affected.
-January 1, 2025
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Author: Michael Home | Michael Michael Campaign Life Behind the Scenes: A Day in the Life on the Campaign Trail This behind-the-scenes look offers a candid glimpse into the long hours, high stakes, and human moments that shape … by Michael January 9, 2025 Policy Spotlight What Local Voices Are Saying About the Privacy Bill The bill aims to strengthen data protection for consumers, but reactions vary based on regional priorities, business interests, … by Michael January 8, 2025 People & Community Meet the Volunteers Powering the Movement These volunteers are the heart of our mission, dedicating their time, skills, and energy to help our cause … by Michael January 7, 2025 People & Community Our Plan for Safer, Stronger Neighborhoods From community policing to youth programs, see how our safety plan supports real change without leaving anyone behind. by Michael January 6, 2025 Campaign Life The Digital Front Line: Social Media in Modern Campaigns Explore how campaigns are using platforms like Instagram, TikTok, and X to reach voters, mobilize supporters, and combat … by Michael January 5, 2025 Policy Spotlight We’re Not Backed by Big Money—We’re Backed by You Grassroots donations power this campaign.
+Thank you for helping us build a movement that answers to people, not … by Michael January 4, 2025 People & Community Join the Movement: How You Can Make an Impact Today From phone banking to sharing on social media, every action matters.
+Here’s how you can get involved and … by Michael January 3, 2025 Campaign Life Our Progress, Your Power: Mid-Campaign Milestones We’ve come a long way together.
+Check out the wins we’ve achieved so far—and what’s next on the … by Michael January 2, 2025 Policy Spotlight From Policy to People: How Proposed Laws Impact Daily Life Break down complex policies through the real-life experiences of those who stand to be most affected. by Michael January 1, 2025 Search Search for: Featured Posts Behind the Scenes: A Day in the Life on the Campaign Trail January 9, 2025 What Local Voices Are Saying About the Privacy Bill January 8, 2025 Meet the Volunteers Powering the Movement January 7, 2025 Paid for by Callison for Assembly 2026, FPPC ID #1483879.

@@ -1,105 +1,474 @@
 [
-"https://bbb.org/search?find_country=USA&find_text=San+Antonio+Congressional+Election&find_loc=Canyon+Lake%2C+TX",
-"https://drbaezforcongress.com/",
-"https://drbaezforcongress.com/congressional-campaign/canyon-lake-tx",
-"https://drbaezforcongress.com/congressional-campaign/converse-tx",
-"https://drbaezforcongress.com/congressional-campaign/hondo-tx",
-"https://drbaezforcongress.com/congressional-campaign/kerrville-tx",
-"https://drbaezforcongress.com/congressional-campaign/kirby-tx",
-"https://drbaezforcongress.com/congressional-campaign/kyle-tx",
-"https://drbaezforcongress.com/congressional-campaign/leon-valley-tx",
-"https://drbaezforcongress.com/congressional-campaign/live-oak-tx",
-"https://drbaezforcongress.com/congressional-campaign/new-braunfels-tx",
-"https://drbaezforcongress.com/congressional-campaign/pleasanton-tx",
-"https://drbaezforcongress.com/congressional-campaign/san-antonio-tx",
-"https://drbaezforcongress.com/congressional-campaign/san-marcos-tx",
-"https://drbaezforcongress.com/congressional-campaign/schertz-tx",
-"https://drbaezforcongress.com/congressional-campaign/seguin-tx",
-"https://drbaezforcongress.com/congressional-campaign/universal-city-tx",
-"https://drbaezforcongress.com/congressional-candidate/canyon-lake-tx",
-"https://drbaezforcongress.com/congressional-candidate/converse-tx",
-"https://drbaezforcongress.com/congressional-candidate/hondo-tx",
-"https://drbaezforcongress.com/congressional-candidate/kerrville-tx",
-"https://drbaezforcongress.com/congressional-candidate/kirby-tx",
-"https://drbaezforcongress.com/congressional-candidate/kyle-tx",
-"https://drbaezforcongress.com/congressional-candidate/leon-valley-tx",
-"https://drbaezforcongress.com/congressional-candidate/live-oak-tx",
-"https://drbaezforcongress.com/congressional-candidate/new-braunfels-tx",
-"https://drbaezforcongress.com/congressional-candidate/pleasanton-tx",
-"https://drbaezforcongress.com/congressional-candidate/san-antonio-tx",
-"https://drbaezforcongress.com/congressional-candidate/san-marcos-tx",
-"https://drbaezforcongress.com/congressional-candidate/schertz-tx",
-"https://drbaezforcongress.com/congressional-candidate/seguin-tx",
-"https://drbaezforcongress.com/congressional-candidate/universal-city-tx",
-"https://drbaezforcongress.com/donate",
-"https://drbaezforcongress.com/dr-baez-for-congress/canyon-lake-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/converse-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/hondo-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/kerrville-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/kirby-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/kyle-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/leon-valley-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/live-oak-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/new-braunfels-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/pleasanton-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/san-antonio-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/san-marcos-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/schertz-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/seguin-tx",
-"https://drbaezforcongress.com/dr-baez-for-congress/universal-city-tx",
-"https://drbaezforcongress.com/inquiry",
-"https://drbaezforcongress.com/legislation",
-"https://drbaezforcongress.com/san-antonio-congressional-election/canyon-lake-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/converse-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/hondo-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/kerrville-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/kirby-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/kyle-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/leon-valley-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/live-oak-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/new-braunfels-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/pleasanton-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/san-antonio-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/san-marcos-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/schertz-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/seguin-tx",
-"https://drbaezforcongress.com/san-antonio-congressional-election/universal-city-tx",
-"https://drbaezforcongress.com/texas-congressional-race/canyon-lake-tx",
-"https://drbaezforcongress.com/texas-congressional-race/converse-tx",
-"https://drbaezforcongress.com/texas-congressional-race/hondo-tx",
-"https://drbaezforcongress.com/texas-congressional-race/kerrville-tx",
-"https://drbaezforcongress.com/texas-congressional-race/kirby-tx",
-"https://drbaezforcongress.com/texas-congressional-race/kyle-tx",
-"https://drbaezforcongress.com/texas-congressional-race/leon-valley-tx",
-"https://drbaezforcongress.com/texas-congressional-race/live-oak-tx",
-"https://drbaezforcongress.com/texas-congressional-race/new-braunfels-tx",
-"https://drbaezforcongress.com/texas-congressional-race/pleasanton-tx",
-"https://drbaezforcongress.com/texas-congressional-race/san-antonio-tx",
-"https://drbaezforcongress.com/texas-congressional-race/san-marcos-tx",
-"https://drbaezforcongress.com/texas-congressional-race/schertz-tx",
-"https://drbaezforcongress.com/texas-congressional-race/seguin-tx",
-"https://drbaezforcongress.com/texas-congressional-race/universal-city-tx",
-"https://drbaezforcongress.com/vote-dr-baez/canyon-lake-tx",
-"https://drbaezforcongress.com/vote-dr-baez/converse-tx",
-"https://drbaezforcongress.com/vote-dr-baez/hondo-tx",
-"https://drbaezforcongress.com/vote-dr-baez/kerrville-tx",
-"https://drbaezforcongress.com/vote-dr-baez/kirby-tx",
-"https://drbaezforcongress.com/vote-dr-baez/kyle-tx",
-"https://drbaezforcongress.com/vote-dr-baez/leon-valley-tx",
-"https://drbaezforcongress.com/vote-dr-baez/live-oak-tx",
-"https://drbaezforcongress.com/vote-dr-baez/new-braunfels-tx",
-"https://drbaezforcongress.com/vote-dr-baez/pleasanton-tx",
-"https://drbaezforcongress.com/vote-dr-baez/san-antonio-tx",
-"https://drbaezforcongress.com/vote-dr-baez/san-marcos-tx",
-"https://drbaezforcongress.com/vote-dr-baez/schertz-tx",
-"https://drbaezforcongress.com/vote-dr-baez/seguin-tx",
-"https://drbaezforcongress.com/vote-dr-baez/universal-city-tx",
-"https://facebook.com/profile.php?id=61576306919291",
-"https://google.com/maps/search/San%20Antonio%20Congressional%20Election+canyon%20lake%2c%20tx",
-"https://instagram.com/e.r.baez",
-"https://secure.winred.com/dr-baez-for-congress/donate-hd",
-"https://superpages.com/search?search_terms=San+Antonio+Congressional+Election&geo_location_terms=Canyon+Lake%2C+TX",
-"https://twitter.com/ThePhDLawyer",
-"https://yellowpages.com/canyon%20lake%2c%20tx/san%20antonio%20congressional%20election",
-"https://yelp.com/search?find_desc=San+Antonio+Congressional+Election&find_loc=Canyon+Lake%2C+TX"
+{
+"text": "(726) 726-1954",
+"href": "tel:(726)%20726-1954"
+},
+{
+"text": "Call Us",
+"href": "tel:(726)%20726-1954"
+},
+{
+"text": "Campaign Issues",
+"href": "https://www.drbaezforcongress.com/#CampaignIssues"
+},
+{
+"text": "Canyon Lake, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/canyon-lake-tx"
+},
+{
+"text": "Canyon Lake, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/canyon-lake-tx"
+},
+{
+"text": "Canyon Lake, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/canyon-lake-tx"
+},
+{
+"text": "Canyon Lake, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/canyon-lake-tx"
+},
+{
+"text": "Canyon Lake, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/canyon-lake-tx"
+},
+{
+"text": "Canyon Lake, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/canyon-lake-tx"
+},
+{
+"text": "Contact",
+"href": "https://www.drbaezforcongress.com/#Contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.drbaezforcongress.com/inquiry"
+},
+{
+"text": "Contact Us Today",
+"href": "https://www.drbaezforcongress.com/inquiry"
+},
+{
+"text": "Converse, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/converse-tx"
+},
+{
+"text": "Converse, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/converse-tx"
+},
+{
+"text": "Converse, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/converse-tx"
+},
+{
+"text": "Converse, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/converse-tx"
+},
+{
+"text": "Converse, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/converse-tx"
+},
+{
+"text": "Converse, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/converse-tx"
+},
+{
+"text": "Donate",
+"href": "https://www.drbaezforcongress.com/donate"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.winred.com/dr-baez-for-congress/donate-hd"
+},
+{
+"text": "FAQs",
+"href": "https://www.drbaezforcongress.com/#FAQs"
+},
+{
+"text": "Have Questions?",
+"href": "https://www.drbaezforcongress.com/inquiry"
+},
+{
+"text": "Home",
+"href": "https://www.drbaezforcongress.com/"
+},
+{
+"text": "Hondo, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/hondo-tx"
+},
+{
+"text": "Hondo, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/hondo-tx"
+},
+{
+"text": "Hondo, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/hondo-tx"
+},
+{
+"text": "Hondo, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/hondo-tx"
+},
+{
+"text": "Hondo, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/hondo-tx"
+},
+{
+"text": "Hondo, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/hondo-tx"
+},
+{
+"text": "Kerrville, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/kerrville-tx"
+},
+{
+"text": "Kerrville, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/kerrville-tx"
+},
+{
+"text": "Kerrville, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/kerrville-tx"
+},
+{
+"text": "Kerrville, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/kerrville-tx"
+},
+{
+"text": "Kerrville, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/kerrville-tx"
+},
+{
+"text": "Kerrville, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/kerrville-tx"
+},
+{
+"text": "Kirby, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/kirby-tx"
+},
+{
+"text": "Kirby, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/kirby-tx"
+},
+{
+"text": "Kirby, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/kirby-tx"
+},
+{
+"text": "Kirby, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/kirby-tx"
+},
+{
+"text": "Kirby, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/kirby-tx"
+},
+{
+"text": "Kirby, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/kirby-tx"
+},
+{
+"text": "Kyle, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/kyle-tx"
+},
+{
+"text": "Kyle, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/kyle-tx"
+},
+{
+"text": "Kyle, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/kyle-tx"
+},
+{
+"text": "Kyle, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/kyle-tx"
+},
+{
+"text": "Kyle, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/kyle-tx"
+},
+{
+"text": "Kyle, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/kyle-tx"
+},
+{
+"text": "Learn More",
+"href": "https://www.drbaezforcongress.com/#FAQs"
+},
+{
+"text": "Legislation",
+"href": "https://www.drbaezforcongress.com/legislation"
+},
+{
+"text": "Leon Valley, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/leon-valley-tx"
+},
+{
+"text": "Leon Valley, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/leon-valley-tx"
+},
+{
+"text": "Leon Valley, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/leon-valley-tx"
+},
+{
+"text": "Leon Valley, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/leon-valley-tx"
+},
+{
+"text": "Leon Valley, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/leon-valley-tx"
+},
+{
+"text": "Leon Valley, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/leon-valley-tx"
+},
+{
+"text": "Let's Talk",
+"href": "https://www.drbaezforcongress.com/#Contact"
+},
+{
+"text": "Live Oak, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/live-oak-tx"
+},
+{
+"text": "Live Oak, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/live-oak-tx"
+},
+{
+"text": "Live Oak, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/live-oak-tx"
+},
+{
+"text": "Live Oak, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/live-oak-tx"
+},
+{
+"text": "Live Oak, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/live-oak-tx"
+},
+{
+"text": "Live Oak, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/live-oak-tx"
+},
+{
+"text": "New Braunfels, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/new-braunfels-tx"
+},
+{
+"text": "New Braunfels, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/new-braunfels-tx"
+},
+{
+"text": "New Braunfels, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/new-braunfels-tx"
+},
+{
+"text": "New Braunfels, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/new-braunfels-tx"
+},
+{
+"text": "New Braunfels, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/new-braunfels-tx"
+},
+{
+"text": "New Braunfels, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/new-braunfels-tx"
+},
+{
+"text": "Pleasanton, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/pleasanton-tx"
+},
+{
+"text": "Pleasanton, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/pleasanton-tx"
+},
+{
+"text": "Pleasanton, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/pleasanton-tx"
+},
+{
+"text": "Pleasanton, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/pleasanton-tx"
+},
+{
+"text": "Pleasanton, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/pleasanton-tx"
+},
+{
+"text": "Pleasanton, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/pleasanton-tx"
+},
+{
+"text": "Ready to Get Involved?",
+"href": "https://www.drbaezforcongress.com/#Contact"
+},
+{
+"text": "San Antonio, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/san-antonio-tx"
+},
+{
+"text": "San Antonio, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/san-antonio-tx"
+},
+{
+"text": "San Antonio, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/san-antonio-tx"
+},
+{
+"text": "San Antonio, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/san-antonio-tx"
+},
+{
+"text": "San Antonio, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/san-antonio-tx"
+},
+{
+"text": "San Antonio, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/san-antonio-tx"
+},
+{
+"text": "San Marcos, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/san-marcos-tx"
+},
+{
+"text": "San Marcos, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/san-marcos-tx"
+},
+{
+"text": "San Marcos, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/san-marcos-tx"
+},
+{
+"text": "San Marcos, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/san-marcos-tx"
+},
+{
+"text": "San Marcos, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/san-marcos-tx"
+},
+{
+"text": "San Marcos, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/san-marcos-tx"
+},
+{
+"text": "Schertz, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/schertz-tx"
+},
+{
+"text": "Schertz, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/schertz-tx"
+},
+{
+"text": "Schertz, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/schertz-tx"
+},
+{
+"text": "Schertz, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/schertz-tx"
+},
+{
+"text": "Schertz, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/schertz-tx"
+},
+{
+"text": "Schertz, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/schertz-tx"
+},
+{
+"text": "Seguin, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/seguin-tx"
+},
+{
+"text": "Seguin, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/seguin-tx"
+},
+{
+"text": "Seguin, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/seguin-tx"
+},
+{
+"text": "Seguin, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/seguin-tx"
+},
+{
+"text": "Seguin, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/seguin-tx"
+},
+{
+"text": "Seguin, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/seguin-tx"
+},
+{
+"text": "Talk to Us",
+"href": "https://www.drbaezforcongress.com/inquiry"
+},
+{
+"text": "Universal City, TX",
+"href": "https://www.drbaezforcongress.com/congressional-campaign/universal-city-tx"
+},
+{
+"text": "Universal City, TX",
+"href": "https://www.drbaezforcongress.com/congressional-candidate/universal-city-tx"
+},
+{
+"text": "Universal City, TX",
+"href": "https://www.drbaezforcongress.com/dr-baez-for-congress/universal-city-tx"
+},
+{
+"text": "Universal City, TX",
+"href": "https://www.drbaezforcongress.com/san-antonio-congressional-election/universal-city-tx"
+},
+{
+"text": "Universal City, TX",
+"href": "https://www.drbaezforcongress.com/texas-congressional-race/universal-city-tx"
+},
+{
+"text": "Universal City, TX",
+"href": "https://www.drbaezforcongress.com/vote-dr-baez/universal-city-tx"
+},
+{
+"text": "[image: Dr. Baez for Congress logo]",
+"href": "https://www.drbaezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/e.r.baez/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ThePhDLawyer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576306919291"
+},
+{
+"text": "[no text]",
+"href": "mailto:edgar@erbjrlaw.com"
+},
+{
+"text": "[no text]",
+"href": "tel:(726)%20726-1954"
+},
+{
+"text": "campaign@drbaezforcongress.com",
+"href": "mailto:edgar@erbjrlaw.com"
+},
+{
+"text": "san antonio congressional election",
+"href": "https://www.bbb.org/search?find_country=USA&find_text=San+Antonio+Congressional+Election&find_loc=Canyon+Lake%2C+TX"
+},
+{
+"text": "san antonio congressional election",
+"href": "https://www.google.com/maps/search/San%20Antonio%20Congressional%20Election+canyon%20lake%2c%20tx"
+},
+{
+"text": "san antonio congressional election",
+"href": "https://www.superpages.com/search?search_terms=San+Antonio+Congressional+Election&geo_location_terms=Canyon+Lake%2C+TX"
+},
+{
+"text": "san antonio congressional election",
+"href": "https://www.yellowpages.com/canyon%20lake%2c%20tx/san%20antonio%20congressional%20election"
+},
+{
+"text": "san antonio congressional election",
+"href": "https://www.yelp.com/search?find_desc=San+Antonio+Congressional+Election&find_loc=Canyon+Lake%2C+TX"
+}
 ]

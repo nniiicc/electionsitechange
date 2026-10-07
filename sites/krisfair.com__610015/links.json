@@ -1,16 +1,74 @@
 [
-"https://cart/",
-"https://facebook.com/friendsofkrisfair",
-"https://instagram.com/friendsofkrisfair",
-"https://krisfair.com/annapolis",
-"https://krisfair.com/donate",
-"https://krisfair.com/endorse",
-"https://krisfair.com/help",
-"https://krisfair.com/landing",
-"https://krisfair.com/learn",
-"https://krisfair.com/meet",
-"https://krisfair.com/privacy-policy",
-"https://krisfair.com/scholarships",
-"https://linkedin.com/in/kristopherfair",
-"https://twitter.com/friendsofkfair"
+{
+"text": "Annapolis",
+"href": "https://krisfair.com/annapolis"
+},
+{
+"text": "DONATE",
+"href": "https://krisfair.com/donate"
+},
+{
+"text": "Endorse",
+"href": "https://krisfair.com/endorse"
+},
+{
+"text": "Help",
+"href": "https://krisfair.com/help"
+},
+{
+"text": "Home",
+"href": "https://krisfair.com/landing"
+},
+{
+"text": "IN ANNAPOLIS",
+"href": "https://krisfair.com/annapolis"
+},
+{
+"text": "LEARN MORE",
+"href": "https://krisfair.com/meet"
+},
+{
+"text": "Learn",
+"href": "https://krisfair.com/learn"
+},
+{
+"text": "MEET KRIS",
+"href": "https://krisfair.com/meet"
+},
+{
+"text": "Meet",
+"href": "https://krisfair.com/meet"
+},
+{
+"text": "Privacy Policy",
+"href": "https://krisfair.com/privacy-policy"
+},
+{
+"text": "Scholarships",
+"href": "https://krisfair.com/scholarships"
+},
+{
+"text": "Vote",
+"href": "javascript:WebPlatform.Popups.show(3);"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/friendsofkfair"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/friendsofkrisfair"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/friendsofkrisfair/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kristopherfair/"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

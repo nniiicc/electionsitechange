@@ -1,23 +1,11 @@
-News
-State Sens.
-Chittenden, Lyons and Ram Hinsdale announce reelection campaigns
-MONTPELIER, Vt. — Three Vermont state senators announced their reelection campaigns Sunday.
-Learn More →
-NBC5 In-Depth: On Mother's Day, Vermont Sen.
-Kesha Ram Hinsdale champions affordability
-SOUTH BURLINGTON, Vt. — Vermont Senate Majority Leader Kesha Ram Hinsdale says making Vermont more affordable for young families must remain a top priority, citing childcare,...
-Learn More →
-Ram Hinsdale: Where 100% of Vermonters agree
-As we’ve worked to bridge divides on land use, housing, and affordability, I often think about the late Senator Bill Doyle’s famous “Doyle Poll,” filled out by thousands of...
-Learn More →
-Vermont Senator Proposes Annual Tax on Vacant Homes to Address Housing Crisis
-In a letter to VTDigger, Senator Kesha Ram Hinsdale has proposed expanding Vermont’s property transfer tax surcharge on second homes into an annual vacancy tax, arguing that the...
-Learn More →
-Kesha Ram Hinsdale: The tax Vermonters have never heard of
-"Vermont is in the middle of a deep affordability crisis, and most people assume the solutions must be complicated, slow, or politically impossible.
+Skip to content Kesha Ram Meet Kesha Issues News Endorsements Volunteer Donate Volunteer Donate News NBC 5 State Sens.
+Chittenden, Lyons and Ram Hinsdale announce reelection campaigns MONTPELIER, Vt. — Three Vermont state senators announced their reelection campaigns Sunday.
+Learn More → NBC 5 NBC5 In-Depth: On Mother's Day, Vermont Sen.
+Kesha Ram Hinsdale champions affordability SOUTH BURLINGTON, Vt. — Vermont Senate Majority Leader Kesha Ram Hinsdale says making Vermont more affordable for young families must remain a top priority, citing childcare,...
+Learn More → Vermont Daily Chronicle Ram Hinsdale: Where 100% of Vermonters agree As we’ve worked to bridge divides on land use, housing, and affordability, I often think about the late Senator Bill Doyle’s famous “Doyle Poll,” filled out by thousands of...
+Learn More → Compass Vermont Vermont Senator Proposes Annual Tax on Vacant Homes to Address Housing Crisis In a letter to VTDigger, Senator Kesha Ram Hinsdale has proposed expanding Vermont’s property transfer tax surcharge on second homes into an annual vacancy tax, arguing that the...
+Learn More → VT Digger Kesha Ram Hinsdale: The tax Vermonters have never heard of "Vermont is in the middle of a deep affordability crisis, and most people assume the solutions must be complicated, slow, or politically impossible.
 But one of the most effective...
-Learn More →
-Vermont lawmakers seek to put voting protections in state law
-Sen.
-Kesha Ram Hinsdale, D–Shelburne, echoed that concern, saying, “Not in the last 60 years has the right to vote been so under threat and under attack.”
-Learn More →
+Learn More → NBC 5 Vermont lawmakers seek to put voting protections in state law Sen.
+Kesha Ram Hinsdale, D–Shelburne, echoed that concern, saying, “Not in the last 60 years has the right to vote been so under threat and under attack.” Learn More → View More Chip in Help send Vermont’s fighter back to the State Senate.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $#.# $# $# $# $# Other Volunteer Donate Privacy Policy Contact Us 31 North Prospect Street Burlington, VT 05401 Paid for by Kesha for Vermont © Kesha for Vermont | Made by Authentic

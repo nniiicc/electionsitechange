@@ -1,4 +1,4 @@
-Not Us versus Them.
+0 Skip to Content About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Not Us versus Them.
 Just Us.
 Protect democracy.
 Defend personal liberty.
@@ -11,9 +11,7 @@ I believe in personal freedom, personal responsibility, constitutional governmen
 Government should perform its legitimate duties well: protect people from violence and fraud, defend individual rights, enforce fair rules, and otherwise leave families and communities room to live their own lives.
 The goal is not lifelong government dependence.
 It is a fair opportunity to build, work, raise a family, own property, start a business, and create a better future.
-Affordability, Jobs & Real Competition
-Lower costs, break up concentrated power, and give working people a fair chance
-My first economic priority is affordability.
+Affordability, Jobs & Real Competition Lower costs, break up concentrated power, and give working people a fair chance My first economic priority is affordability.
 We should eliminate broad tariffs that raise the price of food, equipment, vehicles, building materials, and household goods—and end wars of aggression that waste lives, fuel debt, and drive up energy and supply costs.
 Arkansans should not pay more because Washington chooses protectionism, foreign entanglements, or reckless spending.
 Libertarians believe in free markets, but fraud, monopoly power, and government-sponsored corporatism are not free markets.
@@ -28,10 +26,8 @@ Once inflation is under control, lower interest rates can help unlock the market
 Federal policy should reduce financing and infrastructure barriers while leaving zoning primarily to state and local governments, encouraging more housing construction.
 Work should pay.
 I support lower taxes on labor, gradual and predictable minimum-wage increases, stronger pathways into skilled careers, and benefits that phase out without punishing people for earning more.
-And workers should be free to organize and bargain collectively without retaliation
-The goal is genuine competition, rising wages, lower costs, and broad prosperity.
-Healthcare
-Cover everyone.
+And workers should be free to organize and bargain collectively without retaliation The goal is genuine competition, rising wages, lower costs, and broad prosperity.
+Healthcare Cover everyone.
 Cut the cost.
 America spends roughly 3X the average of other advanced countries on healthcare, yet too many families remain uninsured, underinsured, tied to jobs, or afraid of medical bills.
 My goal is straightforward: cover everyone, which requires cutting the total cost of healthcare roughly in half over time.
@@ -48,9 +44,7 @@ We should also demand measurable results from Arkansas’s $200 million rural-he
 In the long term, more full-service hospitals will be viable only if rural Arkansas has growing communities and stronger local economies.
 More jobs, successful farms, new industries, and growing populations would create the patients, workforce, and local revenue needed to support broader hospital services.
 Healthcare should serve patients—not insurers, monopolies, political parties, or armies of billing administrators.
-Agriculture and Rural Arkansas
-Markets, ownership, and a fair deal for farmers
-Arkansas farmers do not need Washington creating crises and then offering bailout checks.
+Agriculture and Rural Arkansas Markets, ownership, and a fair deal for farmers Arkansas farmers do not need Washington creating crises and then offering bailout checks.
 They need fair markets, predictable rules, lower input costs, and the freedom to operate their own farms.
 I oppose broad tariffs that raise the cost of equipment, fertilizer, fuel, and household goods while inviting retaliation against Arkansas rice, soybeans, poultry, cotton, and other exports.
 Trade policy should open markets, not close them.
@@ -66,8 +60,7 @@ Children, seniors, people with disabilities, and families in genuine crisis must
 Benefits should phase out gradually as earnings rise so that taking on more work never leaves a family worse off.
 States may reasonably take greater responsibility for SNAP, but funding and tax authority should move with that responsibility.
 The goal is more freedom, more competition, and a fairer deal for Arkansas farmers.
-Fiscal Responsibility, Sound Money, and Social Security
-Keep our promises without bankrupting the future.
+Fiscal Responsibility, Sound Money, and Social Security Keep our promises without bankrupting the future.
 The federal government cannot continue borrowing trillions of dollars, inflating the currency, and leaving the bill to our children.
 I support a balanced-budget amendment with reasonable emergency provisions and a multiyear transition that avoids sudden, indiscriminate cuts.
 I also support a statutory debt brake that limits spending growth during normal years and requires genuine plans to repay emergency borrowing.
@@ -86,9 +79,7 @@ If instead we gave every newborn a $10k loan, invested in a broad index fund lik
 Over time, this system would build family wealth, and potentially eliminate regressive payroll taxes, which are an undue burden on young people trying to get ahead.
 The transition must be honest, gradual, and fully modeled.
 There is no responsible reform that ignores existing obligations.
-Fair Taxes, Local Control
-A simpler tax code, balanced budgets, and more accountability closer to home
-Taxes should be simple, transparent, and fair.
+Fair Taxes, Local Control A simpler tax code, balanced budgets, and more accountability closer to home Taxes should be simple, transparent, and fair.
 I support a progressive tax system in which those with greater wealth contribute more, while working families are not disproportionately burdened by regressive taxes on wages and basic necessities.
 I would simplify the tax code, eliminate special-interest loopholes, and enforce the law consistently.
 Success should not be punished, but neither should wealth or political influence buy a lower effective tax rate.
@@ -99,8 +90,7 @@ Before cutting taxes, it must identify corresponding spending cuts and balance t
 Tax cuts financed with borrowed money are not really tax cuts—they are deferred taxes passed to our children.
 The goal is not higher taxes or lower taxes at any cost.
 It is a fair, sustainable system that funds essential services, rewards work and investment, and respects taxpayers.
-Secure Borders and Legal Immigration
-Order, enforcement, and humanity.
+Secure Borders and Legal Immigration Order, enforcement, and humanity.
 A sovereign nation must control its borders, know who is entering, and enforce its laws.
 We are a nation of immigrants.
 And nearly every immigrant is displaying incredible courage by coming to a foreign country to try and make a better life for themselves and their families.
@@ -124,8 +114,7 @@ My in-laws are refugees from Laos.
 My wife and I support Canopy NWA, the local organization supporting refugees.
 The choice is not open borders or mass chaos.
 It is a secure, enforceable, humane system that serves the national interest.
-Energy, Climate, and Infrastructure
-Affordable energy.
+Energy, Climate, and Infrastructure Affordable energy.
 Practical stewardship.
 Modern infrastructure.
 Arkansas and America need abundant, reliable, affordable energy.
@@ -142,8 +131,7 @@ Roads, bridges, ports, water systems, broadband, power transmission, and freight
 Projects should be selected transparently, completed efficiently, and maintained properly—not treated as political trophies.
 And to raise the local tax revenue for infrastructure investments we need more people and companies moving to Arkansas to increase economic growth, which is a primary focus for me.
 Energy policy should lower costs, strengthen national security, and leave future generations a cleaner and more resilient economy.
-Education, Skills, and Opportunity
-More paths to useful skills and meaningful work.
+Education, Skills, and Opportunity More paths to useful skills and meaningful work.
 Education is primarily a state, local, and family responsibility.
 Washington should not impose a national culture war or a one-size-fits-all curriculum.
 The federal government should focus on areas where it can remove barriers and expand opportunity: supporting students with disabilities, ensuring equal treatment, improving transparency, and making training more portable and affordable.
@@ -155,8 +143,7 @@ Colleges that encourage excessive debt for low-value programs should bear some r
 We should also reduce unnecessary occupational-licensing barriers that prevent qualified people from working or moving between states.
 The objective is not to funnel everyone through the same institution.
 It is to help every person develop useful skills, build a career, and become more independent.
-Democracy and Constitutional Government
-Principle over party.
+Democracy and Constitutional Government Principle over party.
 Country over political tribes.
 Voters deserve meaningful choices, transparent government, and representatives who answer to the public—not party bosses, presidents, major donors, or national political machines.
 I support fair districting, reasonable ballot access for independent and third-party candidates, protection of Arkansas’s citizen-initiative process, and strong open-records laws.
@@ -179,8 +166,7 @@ I oppose government censorship, political retaliation, mass surveillance, and mi
 Congress must also reclaim the responsibilities it has surrendered to presidents of both parties.
 Senators should legislate, oversee the executive branch, control spending and war powers, and defend the Constitution—not simply approve whatever a president from their party demands.
 An Arkansas senator should be Arkansas’s voice in Washington—not Washington’s party enforcer in Arkansas.
-Election Security and Voter Access
-Only eligible citizens should vote—and every eligible citizen should be able to.
+Election Security and Voter Access O nly eligible citizens should vote—and every eligible citizen should be able to.
 I support the core goal of the SAVE Act: ensuring that only American citizens register and vote in federal elections.
 Secure elections strengthen public confidence and protect every lawful vote.
 But election security and maximum participation are not opposing goals.
@@ -196,8 +182,7 @@ The SAVE Act should likewise allow sufficient time—potentially more than one e
 I also support making Election Day a national holiday.
 Voting should be secure, accessible, and celebrated as a shared civic responsibility.
 My standard is simple: prevent illegal voting without needlessly blocking lawful voters.
-Privacy, Surveillance, and the Fourth Amendment
-Get a warrant.
+Privacy, Surveillance, and the Fourth Amendment Get a warrant.
 Protect the innocent.
 Punish abuse.
 The Fourth Amendment does not disappear because our lives have moved online.
@@ -212,8 +197,7 @@ Warrantless entry should be limited to genuine emergencies, and no-knock warrant
 Civil liberties are not partisan.
 “National security” is not a magic phrase that erases the Bill of Rights.
 The government should protect the country, obtain a warrant, and leave innocent people alone.
-Second Amendment and Responsible Gun Ownership
-Protect the right.
+Second Amendment and Responsible Gun Ownership Protect the right.
 Target violent crime.
 Respect due process.
 The right to keep and bear arms is an individual constitutional right, and I will defend it.
@@ -227,8 +211,7 @@ But I reject vague bans, arbitrary feature-based classifications, and laws that 
 The Second Amendment protects more than hunting.
 It protects self-defense, personal security, and a final safeguard against government abuse.
 Law-abiding gun owners are our neighbors, parents, veterans, sportsmen, and protectors—not the problem.
-Justice, Public Safety, and Second Chances
-Protect the public.
+Justice, Public Safety, and Second Chances Protect the public.
 Defend due process.
 Restore lives.
 Government has a fundamental responsibility to protect people from violence, theft, fraud, trafficking, abuse, and predatory behavior.
@@ -241,8 +224,7 @@ We should distinguish violent predators from people struggling with addiction, m
 Treatment, recovery programs, and problem-solving courts can protect the public better—and often cost less—than endlessly cycling people through jails.
 People who complete their sentences should have a genuine path back into society through employment, housing, education, and restored civic participation.
 Public safety improves when people have both a reason and an opportunity to rebuild their lives.
-Drugs, Addiction, and Corporate Accountability
-Freedom for adults.
+Drugs, Addiction, and Corporate Accountability Freedom for adults.
 Protection for children.
 Accountability for traffickers and profiteers.
 Adults should not be sent to jail for growing or using cannabis or other low-risk natural substances in private.
@@ -259,8 +241,7 @@ Addiction should be treated as a serious health problem.
 We need accessible treatment, recovery programs, mental-health care, and overdose prevention, while maintaining firm consequences for people who profit from death and exploitation.
 Our prisons should not be crowded with people serving long sentences for possession while executives and powerful institutions that fueled the opioid crisis escape meaningful accountability.
 A just system should distinguish between adults making personal choices, people struggling with addiction, and those who deliberately victimize others for profit.
-Foreign Policy
-Peace through strength, trade, and diplomacy.
+Foreign Policy Peace through strength, trade, and diplomacy.
 America’s strongest foreign-policy tools are commerce, technology, diplomacy, alliances, and the example of a free society.
 We should engage abroad only when there is a clear American strategic or economic interest, strengthen reliable allies, open markets for Arkansas farmers and businesses, and avoid conflicts that do not make us safer or more prosperous.
 I support helping Ukraine defend its sovereignty, with clear objectives, accountability, allied burden-sharing, and a realistic path toward peace.
@@ -274,8 +255,7 @@ Foreign aid and military assistance should serve defined American interests, not
 Wealthy allies should contribute more to their own defense, and assistance should use loans, cost-sharing, reimbursement, and arms purchases rather than blank checks funded entirely by American taxpayers.
 America should be strong enough to deter war, disciplined enough to avoid unnecessary war, and confident enough to lead through trade, diplomacy, and example.
 Our foreign policy should protect Americans, strengthen alliances, open markets for Arkansas farmers and businesses, defend freedom of navigation, and preserve peace without making the United States the world’s policeman.
-Military
-A leaner, smarter, stronger defense.
+Military A leaner, smarter, stronger defense.
 National defense is one of the federal government’s clearest constitutional responsibilities.
 I support a military strong enough to deter attacks, defend our country and allies, and win when force is truly necessary.
 But strength is not measured by how much Washington spends.
@@ -291,8 +271,7 @@ The goal is to strengthen our communities — bringing Americans of different ba
 Strong defense.
 No needless wars.
 More capability for every dollar.
-Veterans
-Keep the promises we made.
+Veterans Keep the promises we made.
 The nation has a binding obligation to the people who served in uniform.
 Veterans should receive timely healthcare, disability decisions, mental-health care, housing assistance, and transition support without navigating years of bureaucracy.
 The Department of Veterans Affairs should be held accountable for delays and failures while preserving the specialized expertise veterans need.
@@ -302,8 +281,7 @@ Military training and experience should translate more easily into civilian cred
 We must also treat suicide prevention, traumatic brain injury, addiction, and post-traumatic stress as urgent health concerns rather than personal weakness.
 The best way to honor service members is not through slogans.
 It is to keep our promises, care for them when they return, and avoid sending the next generation into wars without clear objectives and constitutional authorization.
-Personal Liberty, Equal Treatment, and Family Autonomy
-Freedom for you.
+Personal Liberty, Equal Treatment, and Family Autonomy Freedom for you.
 Freedom for your neighbor.
 If you are not harming another person physically or financially, the government should generally leave you alone.
 That means protecting privacy, property rights, due process, freedom of conscience, freedom of speech, and the right to bear arms.
@@ -324,9 +302,7 @@ My focus is on improving life for all Arkansans while treating people who disagr
 The deeply personal choices people make for themselves and their families should not be raw material for politicians seeking applause.
 Let’s not let the parties divide us over culture war issues.
 Let’s love our neighbors regardless, and unite around our shared economic interests.
-Kids, Schools & Smartphones
-Phone-free classrooms, stronger parental controls, and privacy without government surveillance
-Schools should be places for learning, attention, and face-to-face relationships.
+Kids, Schools & Smartphones Phone-free classrooms, stronger parental controls, and privacy without government surveillance Schools should be places for learning, attention, and face-to-face relationships.
 I support phone-free school policies, with reasonable exceptions for medical needs, disabilities, and genuine emergencies.
 But I do not support broad federal app bans or systems that require every American to upload identification or a facial scan simply to use ordinary internet services.
 Protecting children should not become a backdoor for tracking adults, linking identities to browsing activity, or creating databases vulnerable to abuse or data breaches.
@@ -339,9 +315,7 @@ Apple’s Declared Age Range API offers one possible model by allowing an app to
 Any such system should be designed so neither the government nor the credential issuer can track where it is used.
 Smartphones can be useful tools, but children should not be left alone against products designed to capture their attention.
 Schools should protect the classroom, technology companies should provide better tools, and families—not Washington—should remain in control.
-Data Centers: Local Control, Fair Costs
-Communities should decide—and existing residents should not be forced to subsidize them
-Data centers are primarily a state and local issue, but the guiding principle should be clear: local communities must decide whether they want them and under what conditions.
+Data Centers: Local Control, Fair Costs Communities should decide—and existing residents should not be forced to subsidize them Data centers are primarily a state and local issue, but the guiding principle should be clear: local communities must decide whether they want them and under what conditions.
 Data centers should pay the full cost of the electricity, transmission, substations, roads, water, and other infrastructure they require.
 Those costs should not be shifted onto existing ratepayers or taxpayers.
 Cooling systems should use closed-loop or reclaimed-water systems and not strain municipal water supplies.
@@ -349,18 +323,19 @@ Some communities will welcome the jobs, investment, and tax revenue.
 Others may object to their size, appearance, noise, heat, lighting, land use, or demands on local infrastructure.
 Both choices are legitimate.
 The decision should be made locally, transparently, and without forcing neighboring residents to subsidize the project.
-The Standard I Will Use
-Liberty, affordability, competition, constitutional government, and responsibility.
-Every proposal should answer seven questions:
-- Does it protect individual rights?
-- Does it make life more affordable or expand opportunities for working people?
-- Does it restore competition rather than protect powerful corporations and insiders?
-- Is it constitutionally appropriate for the federal government?
-- Can the federal government afford it within a balanced budget?
-- Is it better left to the state or local government?
-- Will it leave the next generation stronger, freer, and more prosperous?
+The Standard I Will Use Liberty, affordability, competition, constitutional government, and responsibility.
+Every proposal should answer seven questions: Does it protect individual rights?
+Does it make life more affordable or expand opportunities for working people?
+Does it restore competition rather than protect powerful corporations and insiders?
+Is it constitutionally appropriate for the federal government?
+Can the federal government afford it within a balanced budget?
+Is it better left to the state or local government?
+Will it leave the next generation stronger, freer, and more prosperous?
 I will support good ideas regardless of which party proposes them, oppose bad ideas regardless of who demands loyalty, and explain my reasoning honestly.
 My principles are love, truth, work, and sacrifice.
 My motto is I > 1 : take responsibility for yourself and your family, then do a little extra to strengthen your community.
 This campaign is not about replacing one political tribe with another.
 It is about putting Arkansas families ahead of Washington politics.
+Not us versus them.
+Just us.
+Jeff Wadlin for Arkansas ALL RIGHTS RESERVED PAID FOR AND AUTHORIZED BY WADLIN FOR SENATE 2026 Privacy Policy Terms of Service Wadlin for US Senate Bentonville, AR 72712 479.370.5710 info@jeffwadlin.com

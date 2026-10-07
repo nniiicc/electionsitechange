@@ -1,7 +1,4 @@
-Back to All Events
-Come enjoy an evening of drinks, bites, conversation, and community as we bring together families, advocates, and special guests to talk about what happened when an Alabama Supreme Court decision brought IVF treatment across the state to a sudden halt and what we have learned in the years since.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events IVF is on the Ballot: An Evening of Stories Awareness, and Action Monday, October 5, 2026 5:30 PM 8:30 PM Crescent Theater 208 Dauphin Street Mobile, Alabama, 36602 United States (map) Google Calendar ICS Come enjoy an evening of drinks, bites, conversation, and community as we bring together families, advocates, and special guests to talk about what happened when an Alabama Supreme Court decision brought IVF treatment across the state to a sudden halt and what we have learned in the years since.
 We’ll go beyond the headlines and hear the stories of people who lived it.
 As a special part of the evening, guests will also get a special sneak peek of Show Me the Line, the award-winning documentary highlighting women and families affected by the IVF decision, directed by Kelsey Ianuzzi, produced by Stacey Davis, and featuring Abbey Crain.
-Previous
-Previous
-October 3
+Get Tickets Previous Previous October 3 Cocktails by the Pool AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

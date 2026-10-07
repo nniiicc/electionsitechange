@@ -1,5 +1,4 @@
-About
-I knew from a young age that public service was my passion.
+0 Skip to Content Home About Issues Endorsements District Map Volunteer Open Menu Close Menu Home About Issues Endorsements District Map Volunteer Open Menu Close Menu Home About Issues Endorsements District Map Volunteer About I knew from a young age that public service was my passion.
 From holding my parents’ hands as they voted, to volunteering with my synagogue, to spending time with afterschool programs, I learned early the importance of showing up for my community.
 That passion for civic engagement led me to The Ohio State University’s John Glenn College of Public Affairs, where I completed both my undergraduate and graduate education.
 After graduation I worked in the private sector as a human resources specialist, where I helped develop programming and advocated for employees at Fortune 500 companies to receive better working conditions, especially employees with disabilities.
@@ -15,3 +14,8 @@ As State Representative, I am committed to continuing to bring much-needed resou
 My experience in harm reduction, mental health, workforce advocacy, and public service allows me to lead with empathy and understanding, while also bringing the knowledge and determination needed to deliver for our community.
 This work is personal to me because this community is my home.
 I am proud to serve the Westside, and I will continue working every day to make sure our neighbors are heard, respected, and represented.
+Get involved with Team Cockley Donate Volunteer Are you looking for Rep.
+Cockley’s official legislative website?
+Click here.
+Contact Checks can be mailed to: Friends of Christine Cockley 545 E Town St, Columbus, OH 43215 PAID FOR BY Friends of Christine Cockley ©# Friends of Christine Cockley.
+All rights reserved.

@@ -1,9 +1,6 @@
-Originally published Monday, October 31st in The Daily World – Letter to the Editor
-Supporting Walsh
-By Peter Scroggs
-I have known Jim Walsh for over 10 years and have found him to be a good family man, a smart businessperson and someone who is more passionate about seeing Grays Harbor thrive than many of us who were born here.
+Skip to content Home About News Contact Subscribe Campaign Videos Donate To Jim’s Campaign Pete Scroggs endorses Jim Walsh Posted on November 1, 2016 September 25, 2017 by abhays Originally published Monday, October 31st in The Daily World – Letter to the Editor Supporting Walsh By Peter Scroggs I have known Jim Walsh for over 10 years and have found him to be a good family man, a smart businessperson and someone who is more passionate about seeing Grays Harbor thrive than many of us who were born here.
 I believe he will take that passion to Olympia and speak loudly about jobs and the other needs of rural communities that often get swept aside by the big city legislators.
 In this era of political mudslinging, it’s hard to know what candidates really stand for.
 I have found it helpful to try and focus on the qualities of the individual person, and I believe Jim Walsh has the intelligence and the drive we need in our State Representative.
-Pete Scroggs
-Aberdeen
+Pete Scroggs Aberdeen Posted in Uncategorized .
+Post navigation ← WA REALTORS PAC SUPPORTS JIM WALSH Sign up to receive campaign news and updates Name * First Last Email * Paid for by Friends of Jim Walsh (R) · PO Box 2259 · Aberdeen, WA 98520 A SiteOrigin Theme

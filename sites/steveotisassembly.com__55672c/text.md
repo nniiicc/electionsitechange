@@ -1,7 +1,5 @@
-Please Make Sure Your Voice Is Heard!
-Vote on Election Day, Tuesday, November 5th or Via Early Voting (Saturday, October 26 through Sunday, November 3)
-Dear Friends,
-This is one of the most important elections in memory.
+Home News About Steve Priorities Endorsements Voter Info Volunteer Contribute Contact Please Make Sure Your Voice Is Heard!
+Vote on Election Day, Tuesday, November 5th or Via Early Voting (Saturday, October 26 through Sunday, November 3) Dear Friends, This is one of the most important elections in memory.
 The stakes for the future of our country could not be higher.
 With so many of our beliefs of what democracy means at issue, the outcome of the presidential election, control of the US Senate and House of Representatives will determine the kind of country in which we will live.
 My focus continues to be on providing tireless and effective service in addressing issues of importance to New York State, Westchester, and every community I represent.
@@ -14,7 +12,7 @@ The stakes this year could not be more important.
 I recommend your yes vote on the ballot, Proposal 1 – NYS Equal Rights Amendment.
 The amendment places rights that already exist by statute in New York in the state constitution.
 Teamwork is an important part of my work in the Assembly.
-If you live in the 91st Assembly District, please support longtime governmental partners who are also on the ballot in November: State Senator Shelley Mayer, State Senator Nathalia Fernandez, and County Executive George Latimer who is running to represent us in Congress.
+If you live in the 91 st Assembly District, please support longtime governmental partners who are also on the ballot in November: State Senator Shelley Mayer, State Senator Nathalia Fernandez, and County Executive George Latimer who is running to represent us in Congress.
 I work closely with each of these colleagues on countless issues of importance to our communities.
 I am running on the Democratic Party (Row A) and Working Families Party (Row D) lines in November.
 Under NYS law, maintaining a party line on the ballot depends upon how many votes are cast for President or Governor each even-numbered year.
@@ -25,13 +23,7 @@ It is a privilege to serve the Sound Shore communities of Larchmont, Mamaroneck,
 My goal is always to win results on issues we care about, to make a difference for the communities and families I represent, and to break new ground on issues that require fresh thinking and new solutions.
 Thank you for the ideas and comments that enhance my advocacy.
 I will continue to devote my energy and devotion to service.
-Warm regards,
-Steve
-Steve has the endorsement of the Working Families Party.
+Warm regards, Steve Steve has the endorsement of the Working Families Party.
 He will appear on the ballot on both the Democratic and WFP lines.
-News
-SUNY Chancellor Celebrates SUNY Leadership in AI Research and Scholarship - July 17, 2024
-Voting Information
-General Election is November 5
-Early Voting: From October 26 to November 3
-Learn about Early Mail and Absentee ballots, voting times and voters registration information.
+News Legislation Supporting Village Referenda Signed Into Law - August 26, 2024 SUNY Chancellor Celebrates SUNY Leadership in AI Research and Scholarship - July 17, 2024 Learn More >> Harris-Walz Campaign >> Learn More >> Voting Information General Election is November 5 Early Voting: From October 26 to November 3 Learn about Early Mail and Absentee ballots, voting times and voters registration information.
+Voter Info >> Make a Contribution Contact Us Follow Friends of Steve Otis Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573

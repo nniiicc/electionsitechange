@@ -1,7 +1,11 @@
 {
- "description": "{\u201ccpt\u201d:\u201dblog\u201d,\u201dstyle\u201d:\u201d2\u2033,\u201dcolumns\u201d:\u201d3\u2033,\u201dshow\u201d:6,\u201dorder\u201d:\u201dDESC\u201d,\u201dorderby\u201d:\u201dDESC\u201d} 20 Jul Politics by admin 1 Comments Principle stability in the future with activity Lorem ipsum dolor sit amet, consect adipisicing elit, sed do eiusmod tempor incididunt ut labore\u2026 10 Jun Press by admin 1 Comments How to invent a law & pass it in parliament Lorem ipsum dolor sit amet, consect adipisicing elit, [\u2026]",
+ "description": "{“cpt”:”blog”,”style”:”2″,”columns”:”3″,”show”:6,”order”:”DESC”,”orderby”:”DESC”} 20 Jul Politics by admin 1 Comments Principle stability in the future with activity Lorem ipsum dolor sit amet, consect adipisicing elit, sed do eiusmod tempor incididunt ut labore… 10 Jun Press by admin 1 Comments How to invent a law & pass it in parliament Lorem ipsum dolor sit amet, consect adipisicing elit, […]",
  "final_url": "https://scotttjacksonforga.com/news/",
+ "fingerprint": "807551a15ea7ada60a7a434b5c8e48c275ac5516",
+ "format": 3,
  "paid_for_by": "Paid for by Scott T",
  "title": "News - Scott T. Jackson for GA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

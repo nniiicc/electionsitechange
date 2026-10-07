@@ -1,6 +1,4 @@
-Meet Brandon Davis
-Candidate for Nevada Assembly District 34
-Father.
+Click Here for Voting Info Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Follow Follow Follow Follow Home About Issues Volunteer News Voter Info DONATE Click Here for Voting Info DONATE NOW Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Home About Issues Volunteer News Voter Info Meet Brandon Davis Candidate for Nevada Assembly District 34 Father.
 Husband.
 Business Owner.
 Fighter for Nevada families.
@@ -25,30 +23,16 @@ Now, Brandon is running to make Nevada more affordable, more accountable, and mo
 He is focused on lowering the cost of living, expanding access to quality affordable health care, strengthening education, making housing attainable, and growing a Nevada economy that rewards hard work, not connections.
 He is not a career politician.
 He is a neighbor, a parent, and a leader who believes that with honesty, hard work, and common sense, Nevada’s best days are still ahead.
-Brandon’s Five Fights
-These are the five fights Brandon will lead in Carson City to improve your life.
+Brandon’s Five Fights These are the five fights Brandon will lead in Carson City to improve your life .
 Not just talk.
-Specific bills that bring real results.
-Lowering the Cost of Living
-Cut hidden fees and surprise costs, build fuel infrastructure that lowers gas prices and reduces our dependence on California, and push smart reforms that bring everyday costs down across the board.
-Give Nevada families real relief on the bills they pay every week.
-StrengthenING Education
-Get more dollars into classrooms by capping the growth of non-classroom positions, recruiting and retaining teachers, and bringing class sizes down while giving more choice options for parents to choose their best fit.
-Quality Affordable Health Care
-Lower prescription drug costs.
+Specific bills that bring real results.  Lowering the Cost of Living Cut hidden fees and surprise costs, build fuel infrastructure that lowers gas prices and reduces our dependence on California, and push smart reforms that bring everyday costs down across the board.
+Give Nevada families real relief on the bills they pay every week.  StrengthenING Education Get more dollars into classrooms by capping the growth of non-classroom positions, recruiting and retaining teachers, and bringing class sizes down while giving more choice options for parents to choose their best fit.  Quality Affordable Health Care Lower prescription drug costs.
 End surprise billing.
 Require transparent pricing.
 Train more doctors and nurses here at home.
 Expand direct primary care, HSAs, and telehealth across rural Nevada.
-Develop private mutual insurance ecosystem to lower insurance rates.
-GrowING Nevada's Economy
-MakING Housing Affordable
-Implement responsible zoning reform, faster permitting, and incentives for smart development.
+Develop private mutual insurance ecosystem to lower insurance rates.  GrowING Nevada's Economy Diversify our economy and create higher-paying jobs.
+Reduce burdens on small business, streamline licensing, and implement reforms that let people who do the work keep more of what they earn.  MakING Housing Affordable Implement responsible zoning reform, faster permitting, and incentives for smart development.
 Protect homeowners from rising costs.
 More pathways to move from renting to owning.
-SUPPORT THE CAMPAIGN
-Your contribution can help Brandon in his fight for a better Nevada.
-$25
-$50
-$100
-$250
+SUPPORT THE CAMPAIGN Your contribution can help Brandon in his fight for a better Nevada. $25 $50 $100 $250  Call ‪(702) 582-6831‬  Mail 1707 Village Center Cir Suite 150 Las Vegas, NV 89134  Email [email protected] Paid For By The Committee To Elect Brandon Davis Follow Follow Follow Follow Privacy Policy | Terms & Conditions

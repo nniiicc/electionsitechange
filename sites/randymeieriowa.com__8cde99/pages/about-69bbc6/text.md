@@ -1,10 +1,8 @@
-Get to Know Randy Meier
-Husband, Father, Veteran, Law Enforcement, and Community Servant.
-Raised with Iowa Values
-Randy grew up on his family’s Century Farm in Jackson County as the oldest of five children.
+top of page Home About Get Involved Contact More Use tab to navigate through the menu items.
+Donate Get to Know Randy Meier Husband, Father, Veteran, Law Enforcement, and Community Servant.
+Raised with Iowa Values Randy grew up on his family’s Century Farm in Jackson County as the oldest of five children.
 From an early age, everyone pitched in—milking cows, raising beef cattle, hogs, and chickens, and growing corn, hay, and oats.
-That upbringing instilled a strong work ethic and a lifelong connection to the rural landscape.
-After high school, Randy began a career of public service by joining the U.S.
+That upbringing instilled a strong work ethic and a lifelong connection to the rural landscape. ​ After high school, Randy began a career of public service by joining the U.S.
 Army.
 He served for three years in military police units in Germany, where discipline, responsibility, and integrity became central to how he approached service.
 When his military service concluded, Randy continued serving his community by joining the Clinton Police Department.
@@ -29,13 +27,16 @@ His daughter Ellen is a pediatric nurse practitioner, and his daughter Katie is 
 Outside of work, Randy enjoys year-round outdoor activities including biking, hiking, cross-country skiing, and kayaking.
 He volunteers two weeks each year in primitive wilderness areas across the country to improve trails and bridges and expand access to public lands.
 He has served as treasurer of the Riverbend Bicycle Club for more than twenty years and is a member of Prince of Peace Catholic Church.
-Serving in the Iowa House
-Randy will bring a lifetime of service, a collaborative approach, and a proven record of integrity to the Iowa House.
+Serving in the Iowa House Randy will bring a lifetime of service, a collaborative approach, and a proven record of integrity to the Iowa House.
 He believes representation starts with seeing people—not consumers, taxpayers, or data points.
 Today, wages stagnate while the tax burden shifts from those with the most to those with the least.
 The state faces billion-dollar budget deficits.
 Education is underfunded and educators disrespected.
-Water quality continues to decline while cancer rates rise.
-It’s time for a change in focus.
+Water quality continues to decline while cancer rates rise. ​ It’s time for a change in focus.
 Enough politics.
 Time for public service.
+Help Elect Randy Meier Politics as usual is not working for everyday Iowans.
+We need to elect leaders that public service means just that... serving the public, not political leaders that have forgotten where they came from.
+Let's make Iowa work again for all of us.
+I Want to Help Contact Randy Meier for Iowa 3916 Brandy Lane, Clinton, IA 52732 randymeierforiowa@gmail.com © # - Paid for by Randy Meier for Iowa.
+Privacy Policy. bottom of page

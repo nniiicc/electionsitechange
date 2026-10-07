@@ -1,5 +1,5 @@
-Affordable Housing, Secure Housing, and Community Based Gentrification
-Gina Curry is a believer that families need affordable and safe housing.
+top of page Home Meet Gina Special Election 2021 State Representative Curry Platform & Legislation Economic Development Trade Education Opportunities Public Education Opportunities Affordable & Secure Housing Resources & Voting Get Involved More Use tab to navigate through the menu items.
+Affordable Housing, Secure Housing, and Community Based Gentrification Gina Curry is a believer that families need affordable and safe housing.
 As a young person from Baltimore suburbs Gina’s family struggled at times with consistent housing.
 Those childhood experiences can be traumatic for families and children.
 Lack of secure housing can bring developmental issues that lead to life journey struggles.
@@ -13,3 +13,5 @@ Gina also believes that by initiating more Landlords relationships with groups l
 With strategic representation from State Reps, Senators and Municipal leaders families we may find paths to home ownership which can reduce the need for long term affordable housing.
 Economic Development is a community plan of action that needs leaders to find strategic initiatives to these problems.
 The goal is to provide affordable housing, secure housing, and community based gentrification as a plan that can work together from the same side of the coin.
+Paid for by Friends of Gina H.
+Curry PO BOX 1241 Lansdowne PA 19050 bottom of page

@@ -1,6 +1,8 @@
-$850 to $2,000 a Month — And Nothing Changed But the Price: Why Minnesota’s Housing Crisis Is a Leadership Crisis
-By Tyler Bass| Bass for Congress | Vote August 11th — Primary Election
-I want to tell you a story.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Make Minnesota Affordable Again June 1, 2026 No Comments $850 to $2,000 a Month — And Nothing Changed But the Price: Why Minnesota’s Housing Crisis Is a Leadership Crisis By Tyler Bass| Bass for Congress | Vote August 11th — Primary Election I want to tell you a story.
 It starts in 2013 when a young personal trainer packed up his life in Rochester, Minnesota, and moved to the Twin Cities to build something.
 No safety net, no trust fund — just a dream, a work ethic, and about $3,000 coming in per month from building a fitness business from the ground up.
 When I got to the Twin Cities, I found an apartment in Crystal that checked every box a young professional could want.
@@ -16,16 +18,15 @@ Fast forward to 2026.
 That same apartment — same unit, same building, no meaningful upgrades, no new amenities, no new construction — now rents for $2,000 a month.
 That is a 111% increase in thirteen years.
 And here’s the part that should make every Minnesotan’s blood boil: our wages didn’t come close to keeping up.
-Over that same thirteen-year stretch, wages in Minnesota grew by roughly 42%.
+Over that same thirteen-year stretch, wages in Minnesota grew by roughly 42% .
 You don’t need a calculator to see the problem.
 You just need to look at your bank account at the end of the month and ask yourself where the money went.
 This is not an abstract policy debate.
 This is the lived reality of hundreds of thousands of Minnesotans — and it’s the reason I’m running for Congress as a Republican in the August 11th primary.
-The Numbers Don’t Lie — But Politicians Pretend They Don’t Exist
-Let me be very direct about the math, because politicians in this state have spent two decades hoping you won’t do it yourself.
-In 2013, a single person making $3,000 a month and paying $850 in rent was spending about 28% of their gross income on housing.
+The Numbers Don’t Lie — But Politicians Pretend They Don’t Exist Let me be very direct about the math, because politicians in this state have spent two decades hoping you won’t do it yourself.
+In 2013, a single person making $3,000 a month and paying $850 in rent was spending about 28% of their gross income on housing .
 That’s within the range financial advisors generally consider healthy — the long-standing guideline being that housing should consume no more than 30% of your income.
-Today, that same apartment at $2,000 a month would consume 67% of that same $3,000 income.
+Today, that same apartment at $2,000 a month would consume 67% of that same $3,000 income .
 No one can survive that.
 You cannot eat, drive a car, pay student loans, save for retirement, or build any kind of life while two-thirds of your money disappears into rent before you’ve bought a single grocery.
 But wait — wages went up 42%, right?
@@ -35,14 +36,13 @@ Now that $2,000 apartment is eating 47% of your check.
 Still nearly double the healthy threshold.
 Still mathematically unsustainable.
 A 2024 report from the Minnesota Housing Partnership found that nearly half of Minnesota renters are stretching their wallets to cover housing costs, and that Minnesota households now need to earn nearly six figures a year to afford the median-priced home.
-One housing expert quoted in the report put it bluntly: “You will need almost three full-time jobs to be able to afford a home.”
-Three full-time jobs.
+One housing expert quoted in the report put it bluntly: “You will need almost three full-time jobs to be able to afford a home.” Three full-time jobs.
 To live in Minnesota.
 The same state where, not long ago, a personal trainer just starting out could find a granite apartment for $850 and have enough left over to build a business.
 Something went deeply, fundamentally wrong — and it didn’t happen by accident.
 The Buying Power Problem: Where Did Our Wages Go?
 Here is something I want every working Minnesotan to sit with for a moment.
-If we want workers today to have the same real purchasing power that Baby Boomers had in their prime earning years — the ability to buy a home, raise a family, save for the future, and still go out to dinner on Friday night without stress — economists estimate wages would need to be approximately $66 per hour.
+If we want workers today to have the same real purchasing power that Baby Boomers had in their prime earning years — the ability to buy a home, raise a family, save for the future, and still go out to dinner on Friday night without stress — economists estimate wages would need to be approximately $66 per hour .
 Read that again.
 Sixty-six dollars an hour.
 The average hourly wage in Minnesota right now is around $37.
@@ -65,8 +65,7 @@ And it is absolutely, 100% a direct result of the leadership — or lack thereof
 Twenty Years of One-Party Rule: What Do We Have to Show For It?
 Minnesota has been controlled by Democrats for the better part of two decades.
 And I say this not as a partisan attack — I say it as a statement of fact that every Minnesotan should hold up against what they see in their own lives.
-In twenty years of Democrat leadership at the state level:
-Rent went up 111%.
+In twenty years of Democrat leadership at the state level: Rent went up 111%.
 Wages went up 42%.
 Property taxes have increased dramatically year over year — Minnesota counties and cities are raising property taxes due to rising costs and budget cuts, with those increases stemming directly from state policies, mandates, and cost shifts that leave cities no choice but to pass the burden onto homeowners and businesses.
 In one real Minnesota story, a man named Harlan Olson saw the assessed value of his property jump $50,000 in a single year — his property had gone from a purchase price of about $30,000 to a county valuation of over $238,000 in just five years — with no renovations and no changes.
@@ -89,8 +88,7 @@ When your rent consumes half your paycheck and your wages haven’t kept pace an
 The Democrats have had their chance.
 Twenty years.
 And the result is a state where ordinary working people can barely afford to stay.
-The Federal Reserve, Property Taxes, and the Hidden Tax on the American Dream
-Let me tell you something that most people don’t fully understand — and that the political establishment in both parties would rather you not think too hard about.
+The Federal Reserve, Property Taxes, and the Hidden Tax on the American Dream Let me tell you something that most people don’t fully understand — and that the political establishment in both parties would rather you not think too hard about.
 The Federal Reserve’s decisions on interest rates don’t just affect Wall Street.
 They don’t just affect big banks and hedge funds.
 They flow directly into your monthly rent, your property tax assessment, and your ability to buy a home.
@@ -134,8 +132,7 @@ Every year.
 With no end in sight.
 That has to stop.
 And I intend to fight for it.
-Our Kids Are Being Priced Out of the Future
-I want to talk about something that doesn’t get enough attention in this debate: what this housing crisis means for the next generation.
+Our Kids Are Being Priced Out of the Future I want to talk about something that doesn’t get enough attention in this debate: what this housing crisis means for the next generation.
 If you are 22 years old in Minnesota today, here is your reality.
 You’re entering a job market where wages have grown 42% over thirteen years — but the cost of a decent apartment has grown 111%.
 You likely have student loan debt.
@@ -172,8 +169,7 @@ Create conditions where wages can actually rise to meet the cost of living — n
 That is how Baby Boomers built wealth.
 Not through government programs.
 Through a functional market where their hard work translated into real economic power.
-What I Believe — And What I Will Fight For
-I came to the Twin Cities in 2013 with three thousand dollars a month, a personal training certification, and the conviction that if I worked hard enough, Minnesota would reward me.
+What I Believe — And What I Will Fight For I came to the Twin Cities in 2013 with three thousand dollars a month, a personal training certification, and the conviction that if I worked hard enough, Minnesota would reward me.
 And for a while, it did.
 I built a company.
 I built a life.
@@ -183,8 +179,7 @@ I am a general contractor.
 I am a small business owner who has watched the cost of doing business in this state climb and climb while the returns get harder to find.
 I am a Republican because I believe in the power of free markets, personal responsibility, and limited government to create more opportunity for more people than any government program ever has or ever will.
 I am running for Congress because the people I work with — the tradespeople, the young families, the renters, the homeowners getting crushed by property tax assessments — deserve a voice in Washington that actually understands what their lives look like.
-Here is what I will fight for:
-Removing federal interference from local property tax structures.
+Here is what I will fight for: Removing federal interference from local property tax structures.
 Your property tax bill should reflect the value of your home in your community — not the downstream effects of Fed rate decisions and Washington spending binges.
 Making homeownership accessible to the next generation.
 That means pushing for policies that bring mortgage rates down, increase housing supply, reduce the regulatory burden on construction, and give young Minnesotans a realistic path to owning their first home before they turn 40.
@@ -202,8 +197,7 @@ Minnesota deserves better than what it’s gotten.
 The people who built this state — the immigrants who came here to work, the farmers who broke the soil, the union trades who built our skylines, the small business owners who opened doors before anyone else showed up — they came here because opportunity was real and the work paid off.
 That contract has been broken.
 And I intend to fight like hell to restore it.
-Vote August 11th — Republican Primary
-This is not just a campaign.
+Vote August 11th — Republican Primary This is not just a campaign.
 It is a statement that Minnesotans are done accepting less than they deserve.
 That we are done watching our kids move to other states.
 That we are done paying $2,000 a month for the same apartment we paid $850 for thirteen years ago.
@@ -214,3 +208,22 @@ I know what it takes to make this state work for regular people, because I am on
 On August 11th, vote for real change.
 Vote to make Minnesota affordable again.
 Vote Bass for Congress.
+Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous The Cartel Pipeline Next NO MORE RINOS Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

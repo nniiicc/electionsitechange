@@ -1,17 +1,4 @@
-NEWS & PROGRESS
-District 42 Updates
-0
-%
-Illinois’ unpaid bill backlog is now down 80% in the last 4 years
-Illinois’ unpaid bill has gone from $17 billion to $3 Billion
-$
-17
-BILLION
-Holmes invites Oswego-area constituents to a Mobile Office Hours event
-June 24, 2021
-SPRINGFIELD – The office of State Senator Linda Holmes (D-Aurora) welcomes residents to a Mobile Office Hours event in Oswego on Monday, June 28 from 12:00 to 3:00 pm.
-“Our goal is to provide representatives from my district office in Aurora
-Equality Illinois Endorses Linda Holmes
-October 16, 2017
-CHICAGO—The Equality Illinois PAC is endorsing 32 incumbent legislators in its first round of endorsements as the state heads into the 2018 election cycle, the statewide LGBTQ political action committee announced today.
-“Elections matter, now more than ever for our
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute NEWS & PROGRESS District 42 Updates 0 % Illinois’ unpaid bill backlog is now down 80% in the last 4 years Illinois’ unpaid bill has gone from $17 billion to $3 Billion $ 17 BILLION Holmes invites Oswego-area constituents to a Mobile Office Hours event June 24, 2021 SPRINGFIELD – The office of State Senator Linda Holmes (D-Aurora) welcomes residents to a Mobile Office Hours event in Oswego on Monday, June 28 from 12:00 to 3:00 pm.
+“Our goal is to provide representatives from my district office in Aurora Read More → Equality Illinois Endorses Linda Holmes October 16, 2017 CHICAGO—The Equality Illinois PAC is endorsing 32 incumbent legislators in its first round of endorsements as the state heads into the 2018 election cycle, the statewide LGBTQ political action committee announced today.
+“Elections matter, now more than ever for our Read More → Page 1 Page 2 Page 3 Page 4 Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

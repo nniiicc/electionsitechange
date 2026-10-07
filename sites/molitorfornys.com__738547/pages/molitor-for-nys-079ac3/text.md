@@ -1,3 +1,4 @@
+Search this site Embedded Files Skip to main content Skip to navigation Molitor for NYS Request a Lawn Sign Donate Now Find us on Facebook!
 Andrew Molitor was elected to the New York State Assembly on November 5, 2024.
 The 150th Assembly District serves all of Chautauqua County.
 Andrew was previously a prosecutor and Chautauqua County’s first assistant district attorney.
@@ -16,3 +17,5 @@ Andrew shares serious concerns with proposed Department of Environmental Conserv
 Andrew wrote to the DEC expressing concerns about how the regulations might impact Chautauqua Lake, as lakes are excluded from the wetland designation.
 Andrew runs a men’s ministry and is a catechist at the Chautauqua Family of Catholic Churches.
 He lives in Westfield with his wife Celia, and their five children.
+Donate Now Join the Team!
+Request a Lawn Sign Policy Paid for by Friends of Andrew Molitor Friends of Andrew Molitor PO Box 172 Westfield, NY 14787 Google Sites Report abuse Page details Page updated Google Sites Report abuse

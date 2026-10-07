@@ -1,26 +1,110 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F&title=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals",
-"http://megforflorida.com/",
-"http://rescue-life.org/",
-"http://twitter.com/intent/tweet?text=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals&url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F",
-"https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F&text=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals",
-"https://gettr.com/share?text=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals&url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F",
-"https://gotowncrier.com/2024/06/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-and-animals",
-"https://gotowncrier.com/author/editor",
-"https://megforflorida.com/",
-"https://megforflorida.com/campaign-news",
-"https://megforflorida.com/endorsements",
-"https://megforflorida.com/image-gallery",
-"https://megforflorida.com/join",
-"https://megforflorida.com/maga-meg-weinberger-prevails-over-crowded-field-in-hd-94",
-"https://megforflorida.com/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals",
-"https://megforflorida.com/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website",
-"https://megforflorida.com/press-releases",
-"https://megforflorida.com/privacy-policy",
-"https://megforflorida.com/terms",
-"https://megforflorida.com/weinberger-wins-district-94-primary-will-face-litt-in-november",
-"https://secure.anedot.com/megan-weinberger-campaign/donate",
-"https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F",
-"https://wordpress.org/plugins/gdpr-cookie-compliance"
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://megforflorida.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "Image and Video Gallery",
+"href": "https://megforflorida.com/image-gallery/"
+},
+{
+"text": "Join Meg",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Join Meg's Team!",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Messaging Terms, Conditions & Policies Terms",
+"href": "https://megforflorida.com/terms/"
+},
+{
+"text": "News & Events",
+"href": "https://megforflorida.com/campaign-news/"
+},
+{
+"text": "Platform",
+"href": "https://megforflorida.com#meg-platform"
+},
+{
+"text": "Press Releases",
+"href": "https://megforflorida.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://megforflorida.com/privacy-policy"
+},
+{
+"text": "Site by KO.",
+"href": "https://megforflorida.com/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website"
+},
+{
+"text": "Town-Crier Editor",
+"href": "https://gotowncrier.com/author/editor/"
+},
+{
+"text": "[image]",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F&text=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://gettr.com/share?text=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals&url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F&title=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://megforflorida.com/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals/"
+},
+{
+"text": "[tooltip: Truth Social]",
+"href": "https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://twitter.com/intent/tweet?text=Meg+Weinberger%3A+A+Longtime%2C+Dedicated+Advocate+For+Both+People+%26+Animals&url=https%3A%2F%2Fmegforflorida.com%2Fmeg-weinberger-a-longtime-dedicated-advocate-for-both-people-animals%2F"
+},
+{
+"text": "https://gotowncrier.com/2024/06/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-and-animals/",
+"href": "https://gotowncrier.com/2024/06/meg-weinberger-a-longtime-dedicated-advocate-for-both-people-and-animals/"
+},
+{
+"text": "www.megforflorida.com",
+"href": "http://www.megforflorida.com/"
+},
+{
+"text": "www.rescue-life.org",
+"href": "http://www.rescue-life.org/"
+},
+{
+"text": "‘MAGA’ Meg Weinberger Prevails Over Crowded Field in HD 94 →",
+"href": "https://megforflorida.com/maga-meg-weinberger-prevails-over-crowded-field-in-hd-94/"
+},
+{
+"text": "← Weinberger Wins District 94 Primary, Will Face Litt In November",
+"href": "https://megforflorida.com/weinberger-wins-district-94-primary-will-face-litt-in-november/"
+}
 ]

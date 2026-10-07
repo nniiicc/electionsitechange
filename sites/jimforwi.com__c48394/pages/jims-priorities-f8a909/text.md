@@ -1,5 +1,5 @@
-My Priorities for the Next Term
-We got a lot done in my first term, but there’s more work to do.
+Skip to content Skip to footer Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Donate Now!
+Home Donation Events Contacts FAQ About Us My Priorities for the Next Term We got a lot done in my first term, but there’s more work to do.
 Here’s what I’ll fight for next session.
 Keep Our Communities Safe.
 I spent almost 20 years in law enforcement, and I know what police, deputies and prosecutors need to do their jobs.
@@ -30,3 +30,11 @@ Stand Up for Farmers and Small Businesses.
 Cut red tape for farmers and small business owners, and stop hostile foreign governments like China from buying Wisconsin farmland.
 Protect Ratepayers and Local Control.
 Make sure data centers pay their own way instead of passing costs on to your electric bill, ban secret agreements that hide data center projects from the public, and leave the final say on whether one gets built to the local community.
+How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Interest?
+Donate?
+Help Door Knock?
+Campaign Volunteer?
+Sign Nomination Paper?
+Request a Yard Sign?
+Go Fishing W/Jim? /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ PAID FOR BY: JIM FOR WISCONSIN

@@ -1,18 +1,86 @@
 [
-"https://adamcleveland.com/",
-"https://adamcleveland.com/cart",
-"https://adamcleveland.com/endorsements",
-"https://adamcleveland.com/home",
-"https://adamcleveland.com/priorities",
-"https://adamcleveland.com/volunteer",
-"https://facebook.com/adamforgeorgia",
-"https://firsteditionstrategies.com/",
-"https://instagram.com/adamforgeorgia",
-"https://secure.actblue.com/donate/adamforgawebsite",
-"https://secure.actblue.com/donate/adamforgawebsite&amount=100&express_lane=true&refcode=footer",
-"https://secure.actblue.com/donate/adamforgawebsite&amount=25&express_lane=true&refcode=footer",
-"https://secure.actblue.com/donate/adamforgawebsite&amount=250&express_lane=true&refcode=footer",
-"https://secure.actblue.com/donate/adamforgawebsite&amount=50&express_lane=true&refcode=footer",
-"https://secure.actblue.com/donate/adamsgear",
-"https://tiktok.com/@adam.for.georgia"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/adamforgawebsite&amount=100&express_lane=true&refcode=footer"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/adamforgawebsite&amount=25&express_lane=true&refcode=footer"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/adamforgawebsite&amount=250&express_lane=true&refcode=footer"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/adamforgawebsite&amount=50&express_lane=true&refcode=footer"
+},
+{
+"text": "0",
+"href": "https://www.adamcleveland.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/adamforgawebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adamcleveland.com/endorsements"
+},
+{
+"text": "FIRST EDITION STRATEGIES",
+"href": "https://www.firsteditionstrategies.com/"
+},
+{
+"text": "Home",
+"href": "https://www.adamcleveland.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.adamcleveland.com/priorities"
+},
+{
+"text": "Meet Adam",
+"href": "https://www.adamcleveland.com/home#meetadam"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/adamforgawebsite"
+},
+{
+"text": "Priorities",
+"href": "https://www.adamcleveland.com/priorities"
+},
+{
+"text": "Shop Our Gear",
+"href": "https://secure.actblue.com/donate/adamsgear"
+},
+{
+"text": "Volunteer",
+"href": "https://adamcleveland.com/volunteer"
+},
+{
+"text": "[image: Adam Cleveland for State House District 48]",
+"href": "https://www.adamcleveland.com/home"
+},
+{
+"text": "[image: Adam Cleveland | Georgia State House District 48]",
+"href": "https://www.adamcleveland.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/adamforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/adamforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@adam.for.georgia"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@adamcleveland.com"
+}
 ]

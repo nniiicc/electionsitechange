@@ -1,5 +1,4 @@
-About Alicia
-My family has been in Whatcom County for five generations – both sides of my great-grandparents immigrated from Holland, like so many of us in this region.
+Home About Alicia 2026 Endorsements Events Join Our Campaign Contact Donate Home About Alicia 2026 Endorsements Events Join Our Campaign Contact Donate About Alicia My family has been in Whatcom County for five generations – both sides of my great-grandparents immigrated from Holland, like so many of us in this region.
 My grandparents owned a farm in Sumas.
 My father graduated from Lynden Christian and my mother from Nooksack.
 He was a truck driver, delivering hay for many local dairies, and my mother currently works for a medical office in Lyden.
@@ -14,3 +13,6 @@ I know how to translate my success in Olympia to support our entire county.
 I’ve always been active in the community.
 Over the years, I’ve volunteered countless hours, including for Kids in the Kitchen, an annual event combating childhood obesity, a backpack and school supply drives for low-income children, organizing a community wide health fair to help uninsured and underinsured children, as well as for community organizations like Junior League.
 While I’ve had a lot of titles, the most important one to me is the mother of three boys.
+Paid for by Vote A licia Rule P.O.
+Box 444, Blaine, WA 98231 Campaign Code of Conduct.
+Donate

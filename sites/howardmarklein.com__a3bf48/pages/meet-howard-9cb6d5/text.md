@@ -1,5 +1,4 @@
-Senator Howard Marklein - 17th Senate District
-Howard Marklein was raised on a dairy farm in rural Spring Green.
+Search this site Embedded Files Skip to main content Skip to navigation Vote Howard Marklein for State Senate Home Meet Howard My Priorities Donate Contact E-Update Sign-up Vote Howard Marklein for State Senate Home Meet Howard My Priorities Donate Contact E-Update Sign-up More Home Meet Howard My Priorities Donate Contact E-Update Sign-up Senator Howard Marklein - 17th Senate District Howard Marklein was raised on a dairy farm in rural Spring Green.
 He is the oldest of five children.
 He attended St.
 Luke's and St.
@@ -17,5 +16,7 @@ Howard has proudly served the 17th Senate District in the State Senate since 201
 In the State Senate, he currently serves as Co-Chair of the budget-writing Joint Committee on Finance (JFC) and serves on the Senate Committee on Agriculture and Revenue, the Joint Legislative Audit Committee, the Joint Committee on Employment Relations, and Joint Legislative Council.
 Howard has been appointed to the University of Wisconsin Hospitals and Clinics Authority Board of Directors, the State Fair Park Board, the Wisconsin Mississippi River Parkway Commission, and the National Conference of State Legislatures (NCSL) Mississippi River Basin Cohort.
 Howard enjoys hunting and gardening on his beautiful farm in the driftless area.
-He is a member of the Spring Green Knights of Columbus and volunteers at numerous events throughout the 17th Senate District year-round.
+He is a member of the Spring Green Knights of Columbus and volunteers at numerous events throughout the 17 th Senate District year-round.
 Howard’s favorite thing about being a State Senator is the tremendous opportunity to meet and connect with the people he serves over a ribeye steak, ice cream for breakfast, or a homemade piece of pie.
+Paid for by Taxpayers for Marklein P.O.
+Box 115, Spring Green, WI 53588 taxpayersformarklein@gmail.com Report abuse Report abuse

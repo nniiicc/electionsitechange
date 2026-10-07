@@ -1,5 +1,4 @@
-MEET IZZY
-Izzy is a proud Lancaster City native.
+Home Meet Izzy Issues Endorsements Press Volunteer Donate Lea en Español Select Page MEET IZZY Izzy is a proud Lancaster City native.
 His mother was an educator, union member, and single mom who raised Izzy and his brother.
 They sometimes struggled – when Izzy was nine, they almost lost their childhood home – but his mom always made a point of helping others, even when she had little left for herself.
 She taught Izzy that when you have something to give, you give it, and if you don’t have it to give, you go get more to give.
@@ -29,3 +28,4 @@ When COVID-19 ravaged our communities, we masked up, got vaccinated, and helped 
 Everything we have accomplished in Lancaster happened because we organized around our values – and that’s how we’ll keep our winning streak going in Harrisburg.
 Izzy can’t promise we are going to win every fight.
 But we are going to stand up together, and we are going to deliver better for our city.
+Facebook Twitter Instagram Paid for by Friends of Izzy, PO Box 178 Lancaster PA 17608 info@izzyforlancaster.com

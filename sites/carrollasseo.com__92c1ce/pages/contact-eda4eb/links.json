@@ -1,13 +1,54 @@
 [
-"https://carrollasseo.com/",
-"https://carrollasseo.com/about",
-"https://carrollasseo.com/issues",
-"https://carrollasseo.com/privacy-policy",
-"https://carrollasseo.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/carrollasseo",
-"https://instagram.com/carroll.asseo",
-"https://secure.actblue.com/donate/carroll-asseo-1",
-"https://threads.net/@carroll.asseo",
-"https://tiktok.com/@carroll.asseo"
+{
+"text": "About",
+"href": "https://www.carrollasseo.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carroll-asseo-1"
+},
+{
+"text": "Home",
+"href": "https://www.carrollasseo.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.carrollasseo.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.carrollasseo.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carrollasseo.com/volunteer"
+},
+{
+"text": "[image: Carroll Asseo for House]",
+"href": "https://www.carrollasseo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/carrollasseo"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/carroll.asseo"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@carroll.asseo"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@carroll.asseo"
+},
+{
+"text": "info@carrollasseo.com",
+"href": "mailto:info@carrollasseo.com"
+}
 ]

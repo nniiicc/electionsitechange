@@ -1,12 +1,5 @@
-Back to All Events
-Please join us for a Summer House Party in Support of Senator Janice Marchman's Re-Election Campaign.
+0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Back to All Events Summer House Party in Lyons Sunday, July 19, 2026 5:00 PM 7:00 PM Lyons, CO (map) Google Calendar ICS Please join us for a Summer House Party in Support of Senator Janice Marchman's Re-Election Campaign.
 We’ll be gathering with supporters and community members for a relaxed evening to connect, share campaign updates, and talk about the work ahead.
 Please make sure to RSVP in order to receive the address!
-Thank you to our hosts: Tanya Mercer-Daty, Former Mayor Hollie Rogin, and Trustee Amy Schwartz
-Previous
-Previous
-July 12
-Boulder County Fundraiser with Senator Judy Amabile
-Next
-Next
-July 27
+RSVP Here Thank you to our hosts: Tanya Mercer-Daty, Former Mayor Hollie Rogin, and Trustee Amy Schwartz Previous Previous July 12 Boulder County Fundraiser with Senator Judy Amabile Next Next July 27 Estes Park Fundraiser with Sen Janice Marchman and Congressman Joe Neguse Ask a question © # by Janice Marchman.
+Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

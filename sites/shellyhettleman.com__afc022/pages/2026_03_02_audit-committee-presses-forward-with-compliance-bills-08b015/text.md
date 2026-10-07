@@ -1,10 +1,10 @@
-MARYLAND MATTERS
-MARCH 2, 2026
-The Joint Audit and Evaluation Committee voted Monday to back a package of bills aimed at forcing agencies to be more attentive to fixing problems uncovered by state audits.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Audit committee presses forward with compliance bills Mar 2, 2026 BY BRYAN P.
+SEARS MARYLAND MATTERS MARCH 2, 2026 The Joint Audit and Evaluation Committee voted Monday to back a package of bills aimed at forcing agencies to be more attentive to fixing problems uncovered by state audits.
 The bills follow a number of sometimes contentious hearings over the last year where lawmakers expressed frustration over the seriousness of the problems identified in audits, as well as the growing number of repeat findings, sometimes stretching back a decade or more.
 “For a second year in a row, a significant amount of general funds were needed to resolve an increased need for deficiency funding,” said Sen.
 Shelly Hettleman (D-Baltimore County), Senate co-chair of the committee.
-Hettleman said the increase was “a concern and highlights the need for better fiscal practices to ensure financial transparency and accountability in the management of taxpayer funds.”
-But the concerns stretch beyond questions of fiscal accountability.
+Hettleman said the increase was “a concern and highlights the need for better fiscal practices to ensure financial transparency and accountability in the management of taxpayer funds.” But the concerns stretch beyond questions of fiscal accountability.
 A number of audits raised questions about how the state manages its office space and justifies when a contract is in the best interest of the state.
 In one report, auditors raised concerns about a lack of background checks for those who work with or live with foster children.
+Read the full article Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

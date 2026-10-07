@@ -1,9 +1,9 @@
 {
  "description": "AYN HANSELMANN",
  "final_url": "https://aynformaine.com/m/create-account",
- "paid_for_by": null,
+ "fingerprint": "51098cbd914ce9c030c9ac82955cb72e6ec7e242",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Create Account",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

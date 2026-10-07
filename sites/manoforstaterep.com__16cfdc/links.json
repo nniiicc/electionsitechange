@@ -1,43 +1,258 @@
 [
-"https://ep.getbotlens.com/hp?k=BOTL-S7JC-IDLF-N7AZ-QFZG&s=server",
-"https://facebook.com/108892551556386",
-"https://facebook.com/108892551556386_108892551556386_1127177443154832",
-"https://facebook.com/178191574720095/posts/1128031753069401",
-"https://facebook.com/hashtag/GOTV",
-"https://facebook.com/hashtag/HD133",
-"https://facebook.com/photo.php?fbid=1128028836403026&set=a.126247569914496&type=3",
-"https://facebook.com/photo.php?fbid=1129749152897661&set=a.126247559914497&type=3",
-"https://facebook.com/photo.php?fbid=1129816146224295&set=a.126247559914497&type=3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&set=a.126247559914497&type=3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&set=a.126247559914497&type=3",
-"https://facebook.com/staterepmanodeayala",
-"https://instagram.com/mano_deayala133",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&set=a.126247559914497&type=3",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&set=a.126247559914497&type=3",
-"https://manoforstaterep.com/",
-"https://manoforstaterep.com/cdn-cgi/l/email-protection",
-"https://manoforstaterep.com/endorsements",
-"https://manoforstaterep.com/get-involved",
-"https://manoforstaterep.com/legislative-track-record",
-"https://manoforstaterep.com/meet-mano",
-"https://manoforstaterep.com/privacy-policy",
-"https://manoforstaterep.com/terms-agreement",
-"https://manoforstaterep.com/wp-content/uploads/2024/06/Mano-Contribution-Form-1.pdf",
-"https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate",
-"https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=100",
-"https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=1000",
-"https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=250",
-"https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=500",
-"https://twitter.com/DrewDarbyTX",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832+1",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401+1",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&set=a.126247559914497&type=3+1",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&set=a.126247559914497&type=3+1",
-"https://votetexas.gov/register-to-vote/index.html.",
-"https://x.com/ManoForTexas",
-"https://x.com/ManoForTexas?ref_src=twsrc%5Etfw"
+{
+"text": "#GOTV",
+"href": "https://www.facebook.com/hashtag/GOTV"
+},
+{
+"text": "#HD133",
+"href": "https://www.facebook.com/hashtag/HD133"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=500"
+},
+{
+"text": "121",
+"href": "https://www.facebook.com/178191574720095/posts/1128031753069401"
+},
+{
+"text": "122",
+"href": "https://www.facebook.com/108892551556386_108892551556386_1127177443154832"
+},
+{
+"text": "21",
+"href": "https://www.facebook.com/photo.php?fbid=1129749152897661&set=a.126247559914497&type=3"
+},
+{
+"text": "91",
+"href": "https://www.facebook.com/photo.php?fbid=1129816146224295&set=a.126247559914497&type=3"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate?express_lane=true&exitintent=true&amount=1000"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/staterepmanodeayala"
+},
+{
+"text": "Facebook-square",
+"href": "https://www.facebook.com/staterepmanodeayala"
+},
+{
+"text": "Get Involved",
+"href": "https://manoforstaterep.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://manoforstaterep.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mano_deayala133/"
+},
+{
+"text": "Legislative Track Record",
+"href": "https://manoforstaterep.com/legislative-track-record/"
+},
+{
+"text": "MEET MANO",
+"href": "https://manoforstaterep.com/meet-mano/"
+},
+{
+"text": "Mano DeAyala",
+"href": "https://www.instagram.com/mano_deayala133/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/mano-deayala-for-state-representative-36872721/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://manoforstaterep.com/privacy-policy/"
+},
+{
+"text": "Site index",
+"href": "https://ep.getbotlens.com/hp?k=BOTL-S7JC-IDLF-N7AZ-QFZG&s=server"
+},
+{
+"text": "State Representative Mano DeAyala",
+"href": "https://www.facebook.com/108892551556386"
+},
+{
+"text": "Terms and Conditions.",
+"href": "https://manoforstaterep.com/terms-agreement/"
+},
+{
+"text": "Tweets by ManoForStateRep",
+"href": "https://x.com/ManoForTexas?ref_src=twsrc%5Etfw"
+},
+{
+"text": "View Full Profile on Facebook",
+"href": "https://www.facebook.com/staterepmanodeayala/"
+},
+{
+"text": "View Full Profile on Twitter",
+"href": "https://x.com/ManoForTexas"
+},
+{
+"text": "View on Facebook",
+"href": "https://www.facebook.com/108892551556386_108892551556386_1127177443154832"
+},
+{
+"text": "View on Facebook",
+"href": "https://www.facebook.com/178191574720095/posts/1128031753069401"
+},
+{
+"text": "View on Facebook",
+"href": "https://www.facebook.com/photo.php?fbid=1129749152897661&set=a.126247559914497&type=3"
+},
+{
+"text": "View on Facebook",
+"href": "https://www.facebook.com/photo.php?fbid=1129816146224295&set=a.126247559914497&type=3"
+},
+{
+"text": "View this profile on Instagram",
+"href": "https://www.instagram.com/mano_deayala133/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/ManoForTexas"
+},
+{
+"text": "[image: Mano DeAyala][image]",
+"href": "https://manoforstaterep.com/"
+},
+{
+"text": "[image: State Representative Mano DeAyala]",
+"href": "https://www.facebook.com/108892551556386"
+},
+{
+"text": "[image: State Representative Mano DeAyala]",
+"href": "https://www.facebook.com/photo.php?fbid=1129749152897661&set=a.126247559914497&type=3"
+},
+{
+"text": "[image: State Representative Mano DeAyala]",
+"href": "https://www.facebook.com/photo.php?fbid=1129816146224295&set=a.126247559914497&type=3"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DrewDarbyTX"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ManoForTexas"
+},
+{
+"text": "[tooltip: Picture from Facebook]",
+"href": "https://www.facebook.com/178191574720095/posts/1128031753069401"
+},
+{
+"text": "[tooltip: Picture from Facebook]",
+"href": "https://www.facebook.com/photo.php?fbid=1128028836403026&set=a.126247569914496&type=3"
+},
+{
+"text": "[tooltip: Share this post in your email]",
+"href": "mailto:?subject=Shared+Link&amp%3Bbody=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832+-+1"
+},
+{
+"text": "[tooltip: Share this post in your email]",
+"href": "mailto:?subject=Shared+Link&amp%3Bbody=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401+-+1"
+},
+{
+"text": "[tooltip: Share this post in your email]",
+"href": "mailto:?subject=Shared+Link&amp%3Bbody=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&amp%3Bset=a.126247559914497&amp%3Btype=3+-+1"
+},
+{
+"text": "[tooltip: Share this post in your email]",
+"href": "mailto:?subject=Shared+Link&amp%3Bbody=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&amp%3Bset=a.126247559914497&amp%3Btype=3+-+1"
+},
+{
+"text": "[tooltip: Share this post on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832"
+},
+{
+"text": "[tooltip: Share this post on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401"
+},
+{
+"text": "[tooltip: Share this post on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&set=a.126247559914497&type=3"
+},
+{
+"text": "[tooltip: Share this post on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&set=a.126247559914497&type=3"
+},
+{
+"text": "[tooltip: Share this post on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832"
+},
+{
+"text": "[tooltip: Share this post on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401"
+},
+{
+"text": "[tooltip: Share this post on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&set=a.126247559914497&type=3"
+},
+{
+"text": "[tooltip: Share this post on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&set=a.126247559914497&type=3"
+},
+{
+"text": "[tooltip: Share this post on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F108892551556386_108892551556386_1127177443154832+1"
+},
+{
+"text": "[tooltip: Share this post on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F178191574720095%2Fposts%2F1128031753069401+1"
+},
+{
+"text": "[tooltip: Share this post on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129749152897661&set=a.126247559914497&type=3+1"
+},
+{
+"text": "[tooltip: Share this post on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1129816146224295&set=a.126247559914497&type=3+1"
+},
+{
+"text": "[tooltip: Social Share Options]",
+"href": "javascript:;"
+},
+{
+"text": "download contribution form",
+"href": "https://manoforstaterep.com/wp-content/uploads/2024/06/Mano-Contribution-Form-1.pdf"
+},
+{
+"text": "endorsements",
+"href": "https://manoforstaterep.com/endorsements/"
+},
+{
+"text": "get involved",
+"href": "https://manoforstaterep.com/get-involved/"
+},
+{
+"text": "https://www.votetexas.gov/register-to-vote/index.html.",
+"href": "https://www.votetexas.gov/register-to-vote/index.html."
+},
+{
+"text": "mano_deayala133",
+"href": "https://www.instagram.com/mano_deayala133/"
+}
 ]

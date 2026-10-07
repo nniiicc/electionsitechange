@@ -1,6 +1,18 @@
 [
-"https://facebook.com/staffordfor131",
-"https://heatherforstaterep.com/",
-"https://heatherforstaterep.com/privacy",
-"https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+{
+"text": "Home",
+"href": "https://www.heatherforstaterep.com"
+},
+{
+"text": "How to Vote",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+},
+{
+"text": "View our privacy policy here",
+"href": "https://www.heatherforstaterep.com/privacy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/staffordfor131"
+}
 ]

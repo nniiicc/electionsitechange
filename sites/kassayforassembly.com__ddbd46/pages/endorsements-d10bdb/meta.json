@@ -1,7 +1,13 @@
 {
  "description": "View the organizations that have endorsed Rebecca for State Assembly in 2026.",
  "final_url": "https://www.kassayforassembly.com/endorsements",
+ "fingerprint": "c451a18bf95db8c959b83495c8143f6bae2d3b02",
+ "format": 3,
  "paid_for_by": "PAID FOR BY FRIENDS OF KASSAY FOR ASSEMBLY 2026 EMAIL US AT INFO@KASSAYFORASSEMBLY",
  "title": "Endorsements | Rebecca For Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "1950",
+  "1983",
+  "2026"
+ ]
 }

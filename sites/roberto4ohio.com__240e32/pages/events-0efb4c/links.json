@@ -1,16 +1,70 @@
 [
-"https://bsky.app/profile/roberto4ohio.bsky.social",
-"https://facebook.com/profile.php?id=61578343061200",
-"https://instagram.com/roberto4ohio",
-"https://roberto4ohio.com/",
-"https://roberto4ohio.com/endorsements",
-"https://roberto4ohio.com/events",
-"https://roberto4ohio.com/in-the-community",
-"https://roberto4ohio.com/issues",
-"https://roberto4ohio.com/join-the-team",
-"https://roberto4ohio.com/meet-mike",
-"https://secure.actblue.com/donate/e_roberto_4.9.26",
-"https://secure.actblue.com/donate/mike-roberto-1",
-"https://secure.actblue.com/donate/mikerobertoct1",
-"https://x.com/Roberto4Ohio"
+{
+"text": "CONTACT US",
+"href": "https://www.roberto4ohio.com/join-the-team"
+},
+{
+"text": "Community",
+"href": "https://www.roberto4ohio.com/in-the-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/e_roberto_4.9.26"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mike-roberto-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.roberto4ohio.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.roberto4ohio.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.roberto4ohio.com"
+},
+{
+"text": "Issues",
+"href": "https://www.roberto4ohio.com/issues"
+},
+{
+"text": "JOIN OUR TEAM",
+"href": "https://www.roberto4ohio.com/join-the-team"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.roberto4ohio.com/meet-mike"
+},
+{
+"text": "Register for Fundraiser",
+"href": "https://secure.actblue.com/donate/mikerobertoct1"
+},
+{
+"text": "Roberto4ohio@gmail.com",
+"href": "mailto:Roberto4ohio@gmail.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.roberto4ohio.com/join-the-team"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578343061200"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/roberto4ohio"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/Roberto4Ohio"
+},
+{
+"text": "[image: bluesky]",
+"href": "https://bsky.app/profile/roberto4ohio.bsky.social"
+}
 ]

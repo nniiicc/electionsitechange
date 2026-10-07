@@ -1,7 +1,8 @@
+top of page About Legislation Leadership and Committees Updates Issues Endorsements More Use tab to navigate through the menu items.
+Contribute DONATE Colorado State House Majority Leader.
+Democrat for Colorado Senate, District 22.
 "I learned as a young child how to fight back against injustice, as I watched my mother march alongside Dolores Huerta.
-As a legislator, I have stood up to MAGA extremists to fight for a more progressive Colorado."
-Support My Campaign for State Senate District 22
-Before I ever held a title.
+As a legislator, I have stood up to MAGA extremists to fight for a more progressive Colorado. " Support My Campaign for State Senate District 22 Before I ever held a title.
 Before I ever passed a bill.
 I was a single mom, surviving domestic violence, sleeping in a car with a child I loved more than life itself.
 And I'll be honest with you: There were nights I didn't think I'd make it.
@@ -14,8 +15,7 @@ People like me?
 We're told to keep quiet.
 Told we don't belong in politics.
 Told we can't win.
-And then — we do.
-I ran a race they said I couldn't win.
+And then — we do. ​ I ran a race they said I couldn't win.
 I passed policies they said would never make it through.
 And I didn't do it by playing it safe.
 I did it by standing up — over and over — for people who never feel seen.
@@ -36,8 +36,7 @@ But they make me stronger, not weaker.
 They remind me every single day who I am fighting for — and why.
 So if you've ever been underestimated.
 If you've ever been counted out.
-If you've ever been told to stay in your place.
-Then let me tell you: You belong in this fight.
+If you've ever been told to stay in your place. ​ ​ Then let me tell you: You belong in this fight.
 Because our communities don't need perfection.
 They need persistence.
 They need someone who's been through the fire — and still walks forward with purpose.
@@ -48,7 +47,8 @@ Let's build something bigger than fear.
 Let's govern with compassion.
 Let's protect the most vulnerable.
 Let's bring dignity back into the center of politics.
-And let's never forget: Where you start should never define how far you can go.
-I'm proof of that.
+And let's never forget: Where you start should never define how far you can go. ​ I'm proof of that.
 Now let's fight for a future where everyone gets the same chance.
-I humbly ask for your support as I run to be your next State Senator of Senate District 22.
+I humbly ask for your support as I run to be your next State Senator of Senate District 22. — Monica SUBSCRIBE VOLUNTEER DONATE Subscribe Volunteer Contribute Contact Me Official State Page Gallery Resources Monica PAC Paid for by Duran for Colorado, Registered Agent: Monica Duran; and Monica PAC, Registered Agent: Monica Duran.
+Copyright © # - # .
+All rights reserved. bottom of page

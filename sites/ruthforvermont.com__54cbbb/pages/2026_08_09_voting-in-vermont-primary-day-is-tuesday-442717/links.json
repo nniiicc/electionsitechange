@@ -1,43 +1,182 @@
 [
-"http://instagram.com/ruthhardyvt",
-"https://addisonindependent.com/2026/08/06/two-local-primaries-loom",
-"https://facebook.com/RuthforVermont",
-"https://legislature.vermont.gov/bill/status/2026/H.849",
-"https://legislature.vermont.gov/bill/status/2026/S.209",
-"https://legislature.vermont.gov/bill/status/2026/S.23",
-"https://legislature.vermont.gov/bill/status/2026/S.298",
-"https://preview.mailerlite.io/forms/2098484/178851288032740544/share",
-"https://ruthforvermont.com/",
-"https://ruthforvermont.com/2026/07/26/heres-how-to-help-the-campaign",
-"https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday",
-"https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday?share=facebook",
-"https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday?share=twitter",
-"https://ruthforvermont.com/2026/08/10/statement-on-ice-raid-in-cornwall",
-"https://ruthforvermont.com/2026/09/17/vergennes-opera-house-all-access-project",
-"https://ruthforvermont.com/2026/09/24/setting-the-record-straight-about-my-work",
-"https://ruthforvermont.com/2026/10/02/everywhere-all-of-the-time",
-"https://ruthforvermont.com/about-ruth",
-"https://ruthforvermont.com/author/ruthhardy",
-"https://ruthforvermont.com/category/campaign",
-"https://ruthforvermont.com/category/events",
-"https://ruthforvermont.com/category/issues",
-"https://ruthforvermont.com/category/legislation-bills",
-"https://ruthforvermont.com/en-espanol",
-"https://ruthforvermont.com/legislation",
-"https://ruthforvermont.com/updates",
-"https://ruthforvermont.com/updates/endorsements-2",
-"https://ruthforvermont.com/why-ruth",
-"https://secure.actblue.com/donate/hardy-2026",
-"https://sos.vermont.gov/elections/election-info-resources",
-"https://sos.vermont.gov/elections/voters/accessible-voting",
-"https://sos.vermont.gov/elections/voters/voter-faqs",
-"https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs",
-"https://vermontpublic.org/election-2026",
-"https://vote.vermont.gov/public/dashboard",
-"https://vtdigger.org/2025/08/13/vermont-secretary-of-state-says-she-wont-share-voter-data-with-trump-administration",
-"https://vtdigger.org/2026-primary-election-guide",
-"https://wordpress.com/",
-"https://youtube.com/shorts/RRLZk8mzapQ",
-"https://youtube.com/watch?v=E2TKdTs0o6I",
-"https://youtube.com/watch?v=MPGQWt-02UA"
+{
+"text": "Accessibility and Voting",
+"href": "https://sos.vermont.gov/elections/voters/accessible-voting"
+},
+{
+"text": "Act 150",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.209"
+},
+{
+"text": "Act 75",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.23"
+},
+{
+"text": "Act 87",
+"href": "https://legislature.vermont.gov/bill/status/2026/H.849"
+},
+{
+"text": "Addison Independent",
+"href": "https://www.addisonindependent.com/2026/08/06/two-local-primaries-loom/"
+},
+{
+"text": "August 9, 2026",
+"href": "https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday/"
+},
+{
+"text": "Campaign",
+"href": "https://ruthforvermont.com/category/campaign/"
+},
+{
+"text": "Commitments",
+"href": "https://ruthforvermont.com/why-ruth/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/hardy-2026"
+},
+{
+"text": "Election Day FAQs",
+"href": "https://sos.vermont.gov/elections/voters/voter-faqs"
+},
+{
+"text": "En Español",
+"href": "https://ruthforvermont.com/en-espanol/"
+},
+{
+"text": "Endorsements",
+"href": "https://ruthforvermont.com/updates/endorsements-2/"
+},
+{
+"text": "Events",
+"href": "https://ruthforvermont.com/category/events/"
+},
+{
+"text": "Everywhere, All of the Time",
+"href": "https://ruthforvermont.com/2026/10/02/everywhere-all-of-the-time/"
+},
+{
+"text": "FAQs for Voter Registration",
+"href": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs#index"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RuthforVermont"
+},
+{
+"text": "Follow Ruth for Vermont on WordPress.com",
+"href": "https://ruthforvermont.com"
+},
+{
+"text": "Get Email Updates",
+"href": "https://preview.mailerlite.io/forms/2098484/178851288032740544/share"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/ruthhardyvt"
+},
+{
+"text": "Issues",
+"href": "https://ruthforvermont.com/category/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://ruthforvermont.com/legislation/"
+},
+{
+"text": "Legislation/Bills",
+"href": "https://ruthforvermont.com/category/legislation-bills/"
+},
+{
+"text": "Meet Ruth",
+"href": "https://ruthforvermont.com/about-ruth/"
+},
+{
+"text": "Next postStatement on ICE Raid in Cornwall",
+"href": "https://ruthforvermont.com/2026/08/10/statement-on-ice-raid-in-cornwall/"
+},
+{
+"text": "Previous postHere’s how to help the campaign",
+"href": "https://ruthforvermont.com/2026/07/26/heres-how-to-help-the-campaign/"
+},
+{
+"text": "Ruth for Vermont",
+"href": "https://ruthforvermont.com/"
+},
+{
+"text": "Setting the record straight about my work",
+"href": "https://ruthforvermont.com/2026/09/24/setting-the-record-straight-about-my-work/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday/?share=twitter"
+},
+{
+"text": "Updates",
+"href": "https://ruthforvermont.com/updates/"
+},
+{
+"text": "VTDigger Primary Election Guide",
+"href": "https://vtdigger.org/2026-primary-election-guide/"
+},
+{
+"text": "Vergennes Opera House All Access Project",
+"href": "https://ruthforvermont.com/2026/09/17/vergennes-opera-house-all-access-project/"
+},
+{
+"text": "Vermont Public Election 2026",
+"href": "https://www.vermontpublic.org/election-2026"
+},
+{
+"text": "Vermont Voter Portal",
+"href": "https://vote.vermont.gov/public/dashboard"
+},
+{
+"text": "Vermonters experiencing homelessness can vote",
+"href": "https://www.youtube.com/shorts/RRLZk8mzapQ"
+},
+{
+"text": "Voter Protections Act of 2026",
+"href": "https://legislature.vermont.gov/bill/status/2026/S.298"
+},
+{
+"text": "Voting in Vermont is easy",
+"href": "https://sos.vermont.gov/elections/election-info-resources"
+},
+{
+"text": "[image: Ruth for Vermont]",
+"href": "https://ruthforvermont.com/"
+},
+{
+"text": "[image]",
+"href": "https://ruthforvermont.com/2026/08/09/voting-in-vermont-primary-day-is-tuesday/"
+},
+{
+"text": "[no text]",
+"href": "https://vote.vermont.gov/public/dashboard"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "accessible voting machines",
+"href": "https://www.youtube.com/watch?v=MPGQWt-02UA"
+},
+{
+"text": "refused to release VT’s voter list to the Trump administration",
+"href": "https://vtdigger.org/2025/08/13/vermont-secretary-of-state-says-she-wont-share-voter-data-with-trump-administration/"
+},
+{
+"text": "ruthhardy",
+"href": "https://ruthforvermont.com/author/ruthhardy/"
+},
+{
+"text": "video about election security",
+"href": "https://www.youtube.com/watch?v=E2TKdTs0o6I"
+}
 ]

@@ -1,12 +1,46 @@
 [
-"https://cookiedatabase.org/tcf/purposes",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today",
-"https://ugasteforillinois.com/",
-"https://ugasteforillinois.com/about",
-"https://ugasteforillinois.com/contact",
-"https://ugasteforillinois.com/dans-plan-for-illinois",
-"https://ugasteforillinois.com/issues",
-"https://ugasteforillinois.com/news",
-"https://ugasteforillinois.com/volunteer",
-"https://ugasteforillinois.com/wp-login.php"
+{
+"text": "About",
+"href": "https://ugasteforillinois.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ugasteforillinois.com/contact/"
+},
+{
+"text": "Dan@UgasteforIllinois.com",
+"href": "mailto:Dan@UgasteforIllinois.com"
+},
+{
+"text": "Dan’s Plan for Illinois",
+"href": "https://ugasteforillinois.com/dans-plan-for-illinois/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today"
+},
+{
+"text": "Home",
+"href": "https://ugasteforillinois.com/"
+},
+{
+"text": "Issues",
+"href": "https://ugasteforillinois.com/issues/"
+},
+{
+"text": "Log in",
+"href": "https://ugasteforillinois.com/wp-login.php"
+},
+{
+"text": "News",
+"href": "https://ugasteforillinois.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://ugasteforillinois.com/volunteer/"
+},
+{
+"text": "[image: Dan Ugaste for State Representative]",
+"href": "https://ugasteforillinois.com/"
+}
 ]

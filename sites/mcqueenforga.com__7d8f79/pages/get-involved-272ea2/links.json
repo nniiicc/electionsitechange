@@ -1,12 +1,54 @@
 [
-"http://instagram.com/mcqueenforga",
-"http://thebrandflourisher.com/",
-"https://facebook.com/McQueenForGA",
-"https://georgia.gov/register-vote",
-"https://mcqueenforga.com/",
-"https://mcqueenforga.com/contact",
-"https://mcqueenforga.com/get-involved",
-"https://mcqueenforga.com/issues",
-"https://mcqueenforga.com/meet-mekyah",
-"https://secure.actblue.com/donate/mcqueen"
+{
+"text": "Contact",
+"href": "https://www.mcqueenforga.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/mcqueen"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mcqueenforga.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mcqueenforga.com"
+},
+{
+"text": "Issues",
+"href": "https://www.mcqueenforga.com/issues"
+},
+{
+"text": "Meet Mekyah",
+"href": "https://www.mcqueenforga.com/meet-mekyah"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "http://www.thebrandflourisher.com"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://georgia.gov/register-vote"
+},
+{
+"text": "SITE CREDIT",
+"href": "http://www.thebrandflourisher.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mcqueenforga.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/McQueenForGA"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.instagram.com/mcqueenforga"
+},
+{
+"text": "mekyah@mcqueenforga.com",
+"href": "mailto:mekyah@mcqueenforga.com"
+}
 ]

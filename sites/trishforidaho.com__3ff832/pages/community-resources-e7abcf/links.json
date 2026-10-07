@@ -1,19 +1,82 @@
 [
-"https://cap4action.org/",
-"https://cdatribe-nsn.gov/",
-"https://en.wikipedia.org/wiki/Lemhi_Shoshone",
-"https://facebook.com/people/Trish-Carter-Goodheart-for-Idaho/61565365741589",
-"https://forms.gle/Se964mXALNPi9iJDA",
-"https://inlandoasis.org/",
-"https://instagram.com/trishforidaho",
-"https://iyrthriftstores.org/",
-"https://kootenai.org/",
-"https://nezperce.org/",
-"https://sbtribes.com/",
-"https://shopaitribes.org/",
-"https://trishforidaho.com/",
-"https://trishforidaho.com/cart",
-"https://trishforidaho.com/community-resources",
-"https://trishforidaho.com/contact",
-"https://trishforidaho.com/search"
+{
+"text": "208-843-3577",
+"href": "tel:208-843-3577"
+},
+{
+"text": "Cart 0",
+"href": "https://www.trishforidaho.com/cart"
+},
+{
+"text": "Coeur d’Alene",
+"href": "https://cdatribe-nsn.gov"
+},
+{
+"text": "Community Action Partnership",
+"href": "https://www.cap4action.org"
+},
+{
+"text": "Community Resources",
+"href": "https://www.trishforidaho.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.trishforidaho.com/contact"
+},
+{
+"text": "GoodheartGiving",
+"href": "https://forms.gle/Se964mXALNPi9iJDA"
+},
+{
+"text": "Home",
+"href": "https://www.trishforidaho.com/"
+},
+{
+"text": "Idaho Youth Ranch",
+"href": "https://www.iyrthriftstores.org/"
+},
+{
+"text": "Inland Oasis",
+"href": "https://www.inlandoasis.org"
+},
+{
+"text": "Kootenai",
+"href": "https://kootenai.org"
+},
+{
+"text": "Lemhi",
+"href": "https://en.wikipedia.org/wiki/Lemhi_Shoshone"
+},
+{
+"text": "Nez Perce",
+"href": "https://nezperce.org"
+},
+{
+"text": "Shoshone Bannock,",
+"href": "https://sbtribes.com"
+},
+{
+"text": "Shoshone Paiute",
+"href": "https://shopaitribes.org"
+},
+{
+"text": "Trish For Idaho",
+"href": "https://www.trishforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Trish-Carter-Goodheart-for-Idaho/61565365741589/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/trishforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.trishforidaho.com/search"
+},
+{
+"text": "trish@trishforidaho.com",
+"href": "mailto:trish@trishforidaho.com"
+}
 ]

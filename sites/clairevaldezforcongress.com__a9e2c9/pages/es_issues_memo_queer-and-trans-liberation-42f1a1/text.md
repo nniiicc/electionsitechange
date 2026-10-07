@@ -1,37 +1,27 @@
-- Asuntos
-- LGBTQIA+ Rights
-Liberación Queer y Trans
-Las personas queer y trans merecen estar seguras y ser respetadas en todos los espacios y en todas las etapas de la vida.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Asuntos LGBTQIA+ Rights Liberación Queer y Trans Las personas queer y trans merecen estar seguras y ser respetadas en todos los espacios y en todas las etapas de la vida.
 Pero Trump y los extremistas de la derecha se han propuesto villanizar a las personas queer y trans y despojarlas de sus derechos básicos.
 Esta campaña de odio ha alimentado una nueva ola de acoso, discriminación y dificultades para las comunidades LGBTQIA+.
 Lo peor: muchos demócratas han sugerido abandonar a las personas queer y trans para obtener ganancias políticas a corto plazo, una estrategia que es tanto moralmente indefendible como ineficaz.
 Claire nunca les dará la espalda a las personas queer y trans.
 Estará hombro con hombro con las comunidades LGBTQIA+ y luchará para garantizar la igualdad de derechos, la dignidad y la protección en todos los ámbitos de la vida.
-En el Congreso, Claire luchará para:
-- Aprobar protecciones a nivel nacional y deshacer los ataques federales contra las personas queer y trans, codificando el derecho a vivir una vida plena y digna;
-- Hacer cumplir los derechos civiles a nivel nacional y utilizar el poder del Congreso para garantizar que los estados no estén recortando ni violando los derechos de las personas queer y trans;
-- Conseguir un sistema de atención médica MEdicare para Todos que incluya cobertura completa para atención de afirmación de género, anticoncepción y PrEP;
-- Invertir en vivienda segura e inclusiva, reconociendo que las personas LGBTQIA+, especialmente las personas trans y los jóvenes, enfrentan niveles desproporcionados de personas sin hogar e inseguridad habitacional.
-Aprobar Protecciones Nacionales y Codificar los Derechos de las Personas Queer y Trans
-Desde que regresó al cargo, la administración Trump ha lanzado una letanía de ataques crueles contra las personas transgénero.
+En el Congreso, Claire luchará para: Aprobar protecciones a nivel nacional y deshacer los ataques federales contra las personas queer y trans, codificando el derecho a vivir una vida plena y digna; Hacer cumplir los derechos civiles a nivel nacional y utilizar el poder del Congreso para garantizar que los estados no estén recortando ni violando los derechos de las personas queer y trans; Conseguir un sistema de atención médica MEdicare para Todos que incluya cobertura completa para atención de afirmación de género, anticoncepción y PrEP; Invertir en vivienda segura e inclusiva, reconociendo que las personas LGBTQIA+, especialmente las personas trans y los jóvenes, enfrentan niveles desproporcionados de personas sin hogar e inseguridad habitacional.
+Aprobar Protecciones Nacionales y Codificar los Derechos de las Personas Queer y Trans Desde que regresó al cargo, la administración Trump ha lanzado una letanía de ataques crueles contra las personas transgénero.
 Claire luchará para revertir cada acción federal que apunte a la comunidad transgénero y para aprobar la Ley de Igualdad, la Ley de Acceso a la Atención Médica Transgénero y una Carta de Derechos Transgénero para codificar protecciones permanentes en la ley.
 Eso significa garantizar el derecho a una atención médica integral y de afirmación de género; el derecho a actualizar todos los documentos gubernamentales para que reflejen con precisión su género; proteger el derecho a usar baños, vestidores y otras instalaciones públicas que se correspondan con su género; defender el derecho de los estudiantes y atletas trans a participar plenamente en la vida escolar, incluyendo los deportes; y garantizar que ninguna agencia federal, escuela, empleador o proveedor de atención médica pueda usar la identidad de género u orientación sexual como base para la exclusión o discriminación.
 Las personas trans y queer merecen seguridad, respeto y plena participación en la vida pública.
-Hacer cumplir los derechos civiles a nivel estatal
-No importa en qué estado vivas, mereces seguridad e igualdad en el trabajo y en los espacios públicos.
+Hacer cumplir los derechos civiles a nivel estatal No importa en qué estado vivas, mereces seguridad e igualdad en el trabajo y en los espacios públicos.
 Pero en los últimos años, algunos estados han revertido agresivamente los derechos civiles de los estadounidenses queer y trans segregando baños y negocios, denegando y confiscando documentos de identidad y eliminando las protecciones contra la discriminación.
 Como resultado, un número récord de personas transgénero están huyendo de estados hostiles hacia lugares donde sus derechos permanecen protegidos.
 Desde la abolición de la esclavitud hasta la integración escolar y el matrimonio entre personas del mismo sexo, Estados Unidos tiene una tradición de siglos en la que el gobierno federal hace cumplir los derechos civiles en los estados donde estos derechos son sistemáticamente vulnerados.
 Claire trabajará para hacer cumplir el marco federal de no discriminación vigente para los estadounidenses queer y trans cuando los estados intenten invalidarlo.
 Luchará para restablecer los marcadores de género de autoidentificación en los documentos de identidad federales emitidos por los estados, aplicados mediante la Ley REAL ID, para que los estadounidenses trans puedan obtener documentos de identidad precisos sin importar dónde vivan.
-Garantizar el acceso a atención médica gratuita, integral y afirmativa
-La evidencia ha sido clara: la atención de afirmación de género es vital y puede salvar vidas a las personas trans de todas las edades.
+Garantizar el acceso a atención médica gratuita, integral y afirmativa La evidencia ha sido clara: la atención de afirmación de género es vital y puede salvar vidas a las personas trans de todas las edades.
 Además de codificar el derecho de las personas queer y trans a recibir atención, debemos garantizar su accesibilidad.
 Claire co patrocinará la Ley Medicare para Todos el primer día, luchará para que incluya atención de afirmación de género, terapia de reemplazo hormonal (TRH) por correo, anticoncepción y PrEP, y mientras tanto, impulsará que las compañías de seguros cubran estos tipos de atención.
 También luchará para reafirmar la autoridad legítima del COngreso sobre el presupuesto para poner fin a la instrumentalización por parte de la administración Trump de los fondos de Medicaid y Medicare contra los proveedores que ofrecen atención de género a pacientes menores de 18 años y restaurar la financiación para los programas de VIH/SIDA.
 Esto incluye tanto los programas nacionales como los internacionales financiados por PEPFAR y USAID.
-Invertir en vivienda segura e inclusiva
-Todos merecen un hogar seguro, estable y digno, pero las personas queer y trans, especialmente si son jóvenes o personas de color, enfrentan tasas desproporcionadas de personas sin hogar, inseguridad habitacional y discriminación por parte de propietarios, albergues y proveedores de servicios.
+Invertir en vivienda segura e inclusiva Todos merecen un hogar seguro, estable y digno, pero las personas queer y trans, especialmente si son jóvenes o personas de color, enfrentan tasas desproporcionadas de personas sin hogar, inseguridad habitacional y discriminación por parte de propietarios, albergues y proveedores de servicios.
 Además de impulsar la aprobación de la Ley de Igualdad para prevenir la discriminación en la vivienda, Claire luchará por una expansión masiva de la vivienda social asequible y por financiamiento adicional para servicios culturalmente competentes que ayuden a las personas LGBTQIA+ a mantenerse alojadas.
 También trabajará para aumentar de inmediato la financiación federal para albergues, programas de vivienda de apoyo y asistencia federal para la vivienda, específicamente para personas queer y trans, y para prohibir la discriminación en la vivienda basada en la participación actual o pasada de una persona en el trabajo sexual.
 La vivienda segura y estable es un derecho humano y CLaire luchará por ella.
+Donar Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

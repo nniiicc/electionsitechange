@@ -1,13 +1,58 @@
 [
-"https://abkforassembly.com/",
-"https://abkforassembly.com/about",
-"https://abkforassembly.com/contact-us",
-"https://abkforassembly.com/issues",
-"https://facebook.com/profile.php?id=61556287881253",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/abkforassembly/donate",
-"https://secure.winred.com/abkforassembly/donate?exitintent=true",
-"https://x.com/abkforassembly"
+{
+"text": "About",
+"href": "https://abkforassembly.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://abkforassembly.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/abkforassembly/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/abkforassembly/donate?exitintent=true"
+},
+{
+"text": "Email US",
+"href": "mailto:info@abkforassembly.com"
+},
+{
+"text": "Home",
+"href": "https://abkforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://abkforassembly.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://abkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556287881253"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/abkforassembly"
+},
+{
+"text": "info@abkforassembly.com",
+"href": "mailto:info@abkforassembly.com"
+}
 ]

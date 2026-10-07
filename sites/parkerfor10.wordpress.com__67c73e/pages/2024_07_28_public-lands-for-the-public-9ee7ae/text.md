@@ -1,4 +1,4 @@
-Our public lands are a huge part of what makes Idaho a great state to live or visit.
+Skip to content Time For A Change Home July 28, 2024 politics , Uncategorized Public Lands For the Public Our public lands are a huge part of what makes Idaho a great state to live or visit.
 Idahoans like to hunt, fish, camp, hike, backpack, cross-country ski, visit hot springs, explore national parks and monuments and historic and archaeological sites.
 We have a wealth of places where we can just get away.
 But a long-standing plan from the wealthy wing of the Republican party is to sell off our lands, on any pretext they can think of, and extract any possible profit from the lands that remain.
@@ -16,3 +16,8 @@ The sales must stop, but I also propose mandatory access easements to public lan
 It must be illegal to deny the public access to public lands.
 Private interests seek to wreck our wild lands for profit, and discourage any enjoyment of natural beauty and peace.
 We cannot let this come to pass.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Without a Heart → What Are Data Centers Doing?
+Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
+Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
+Log in now.
+Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

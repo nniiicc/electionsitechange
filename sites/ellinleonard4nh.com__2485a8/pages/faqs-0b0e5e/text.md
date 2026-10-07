@@ -1,6 +1,4 @@
-Skip navigation menu
-Ellin Leonard Answers Frequently Asked Questions
-Does Ellin support the “Education Freedom Account” program?
+Skip navigation menu About Issues News Conway Candidates Endorsements FAQs Volunteer Contact FAQs About Issues News Conway Candidates Endorsements FAQs Volunteer Contact FAQs Ellin Leonard Answers Frequently Asked Questions Does Ellin support the “Education Freedom Account” program?
 I support ensuring that education funding is directed to the families who need it most.
 As currently designed, the Freedom Account program lacks meaningful guardrails.
 I believe it should have a firm cap and significantly revised eligibility criteria.
@@ -63,8 +61,7 @@ I am eager to work with my neighbors, law enforcement, and public health leaders
 Does Ellin support a new broad-based sales tax?
 No.
 I do not support this proposal.
-It would place a significant burden on many New Hampshire businesses and increases costs for taxpayers, so I am not in favor of it."
-Should New Hampshire increase the tax on cigarettes?
+It would place a significant burden on many New Hampshire businesses and increases costs for taxpayers, so I am not in favor of it." Should New Hampshire increase the tax on cigarettes?
 Yes.
 I support an increased tax on cigarettes as long as they continue to be tied to the retail price index.
 Higher prices encourage many smokers to cut back, which benefits public health.
@@ -109,3 +106,5 @@ I do believe there are exceptions where families need other options, such as cas
 But that should be the exception, not the rule.
 I respect the commitment that parents bring to their children's education, and I welcome the conversation with families across our state.
 At the end of the day, I will keep working to ensure that every child has access to an excellent public education, and that our tax dollars are used responsibly to make that possible.
+Powered by RUN! website builder PAID FOR BY THE CARROLL COUNTY DEMOCRATIC COMMITTEE.
+ADAM HEARD, TREASURER/ PO BOX 337, CONWAY, NH 03838 You need to enable JavaScript to run this app.

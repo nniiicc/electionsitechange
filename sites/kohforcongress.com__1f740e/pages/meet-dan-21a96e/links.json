@@ -1,21 +1,94 @@
 [
-"https://bsky.app/profile/hawkkoh.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/danarriggkoh",
-"https://instagram.com/danarriggkoh",
-"https://kohforcongress.com/",
-"https://kohforcongress.com/endorsements",
-"https://kohforcongress.com/issues",
-"https://kohforcongress.com/news",
-"https://secure.actblue.com/donate/dk-web-home",
-"https://secure.actblue.com/donate/dk-web-home?amount=100",
-"https://secure.actblue.com/donate/dk-web-home?amount=1000",
-"https://secure.actblue.com/donate/dk-web-home?amount=25",
-"https://secure.actblue.com/donate/dk-web-home?amount=50",
-"https://secure.actblue.com/donate/dk-web-home?amount=500",
-"https://threads.net/@hawkkoh",
-"https://tiktok.com/@danarriggkoh",
-"https://x.com/dank",
-"https://youtube.com/@ThePeoplesCabinet",
-"https://youtube.com/@danarriggkoh"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dk-web-home?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/dk-web-home?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dk-web-home?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dk-web-home?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dk-web-home?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dk-web-home"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kohforcongress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kohforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kohforcongress.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/dk-web-home"
+},
+{
+"text": "Press",
+"href": "https://www.kohforcongress.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "The People’s Cabinet",
+"href": "https://www.youtube.com/@ThePeoplesCabinet"
+},
+{
+"text": "[image: Dan Koh for Congress logo]",
+"href": "https://www.kohforcongress.com/"
+},
+{
+"text": "[image: Dan Koh for Congress]",
+"href": "https://www.kohforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/hawkkoh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/danarriggkoh/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/danarriggkoh"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@hawkkoh"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@danarriggkoh"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@danarriggkoh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/dank"
+},
+{
+"text": "press@kohforcongress.com",
+"href": "mailto:press@kohforcongress.com"
+}
 ]

@@ -1,36 +1,146 @@
 [
-"http://broomecountyny.gov/clerk",
-"http://cayugacounty.gov/1849/Clerk",
-"https://chenangocountyny.gov/190/County-Clerk",
-"https://cortlandcountyny.gov/172/County-Clerk",
-"https://dmv.ny.gov/contact-us/mobile-office-locations",
-"https://dmv.ny.gov/contact-us/office-locations",
-"https://dmv.ny.gov/more-info/electronic-voter-registration-application",
-"https://elections.ny.gov/early-voting",
-"https://elections.ny.gov/national-voter-registration-act-nvra",
-"https://elections.ny.gov/system/files/documents/2025/12/2026-political-calendar-quad-fold-12.9.2025-final.pdf",
-"https://elections.ny.gov/ways-vote",
-"https://facebook.com/flemingforAD131in2026",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html",
-"https://flemingforad131.com/",
-"https://flemingforad131.com/about.html",
-"https://flemingforad131.com/blog.html",
-"https://flemingforad131.com/cgi-bin/printstory.cgi?page=voter-info.html",
-"https://flemingforad131.com/cgi-bin/privacy.cgi",
-"https://flemingforad131.com/cgi-bin/terms.cgi",
-"https://flemingforad131.com/contact.html",
-"https://flemingforad131.com/donate.html",
-"https://flemingforad131.com/events.html",
-"https://flemingforad131.com/issues.html",
-"https://flemingforad131.com/linkedin.com/in/rev-dr-phillip-fleming-19b193150",
-"https://flemingforad131.com/volunteer.html",
-"https://flemingforad131.com/voter-info.html",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html&title=Voting+Information+-+Committee+to+elect+Phillip+Fleming+AD131",
-"https://madisoncounty.ny.gov/174/County-Clerk",
-"https://nyovr.elections.ny.gov/",
-"https://ontariocountyny.gov/102/County-Clerk",
-"https://publicreporting.elections.ny.gov/CountyBoardRoster/CountyBoardRoster",
-"https://senecacountyny.gov/gov/admin/clerk",
-"https://twitter.com/intent/tweet?text=Voting+Information+-+Committee+to+elect+Phillip+Fleming+AD131&url=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html",
-"https://voterregformrequest.elections.ny.gov/voterregistration"
+{
+"text": "About",
+"href": "https://flemingforad131.com/about.html"
+},
+{
+"text": "Blog",
+"href": "https://flemingforad131.com/blog.html"
+},
+{
+"text": "Contact",
+"href": "https://flemingforad131.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://flemingforad131.com/donate.html"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html&subject=Voting+Information+-+Committee+to+elect+Phillip+Fleming+AD131"
+},
+{
+"text": "Events",
+"href": "https://flemingforad131.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html"
+},
+{
+"text": "Issues",
+"href": "https://flemingforad131.com/issues.html"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html&title=Voting+Information+-+Committee+to+elect+Phillip+Fleming+AD131"
+},
+{
+"text": "Print Page",
+"href": "https://flemingforad131.com/cgi-bin/printstory.cgi?page=voter-info.html"
+},
+{
+"text": "Privacy",
+"href": "https://flemingforad131.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Terms",
+"href": "https://flemingforad131.com/cgi-bin/terms.cgi"
+},
+{
+"text": "Top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?text=Voting+Information+-+Committee+to+elect+Phillip+Fleming+AD131&url=https%3A%2F%2Fflemingforad131.com%2Fvoter-info.html&via="
+},
+{
+"text": "Volunteer",
+"href": "https://flemingforad131.com/volunteer.html"
+},
+{
+"text": "Voting Information",
+"href": "https://flemingforad131.com/voter-info.html"
+},
+{
+"text": "[image: Fleming For AD131]",
+"href": "https://flemingforad131.com"
+},
+{
+"text": "[tooltip: Rev. Dr. Phillip Fleming on Facebook]",
+"href": "https://www.facebook.com/flemingforAD131in2026"
+},
+{
+"text": "[tooltip: Rev. Dr. Phillip Fleming on LinkedIn]",
+"href": "https://flemingforad131.com/linkedin.com/in/rev-dr-phillip-fleming-19b193150/"
+},
+{
+"text": "http://broomecountyny.gov/clerk",
+"href": "http://broomecountyny.gov/clerk"
+},
+{
+"text": "http://www.cayugacounty.gov/1849/Clerk",
+"href": "http://www.cayugacounty.gov/1849/Clerk"
+},
+{
+"text": "https://dmv.ny.gov/contact-us/mobile-office-locations",
+"href": "https://dmv.ny.gov/contact-us/mobile-office-locations"
+},
+{
+"text": "https://dmv.ny.gov/contact-us/office-locations",
+"href": "https://dmv.ny.gov/contact-us/office-locations"
+},
+{
+"text": "https://dmv.ny.gov/more-info/electronic-voter-registration-application",
+"href": "https://dmv.ny.gov/more-info/electronic-voter-registration-application"
+},
+{
+"text": "https://elections.ny.gov/early-voting",
+"href": "https://elections.ny.gov/early-voting"
+},
+{
+"text": "https://elections.ny.gov/national-voter-registration-act-nvra#agency-based-voter-registration",
+"href": "https://elections.ny.gov/national-voter-registration-act-nvra#agency-based-voter-registration"
+},
+{
+"text": "https://elections.ny.gov/system/files/documents/2025/12/2026-political-calendar-quad-fold-12.9.2025-final.pdf",
+"href": "https://elections.ny.gov/system/files/documents/2025/12/2026-political-calendar-quad-fold-12.9.2025-final.pdf"
+},
+{
+"text": "https://elections.ny.gov/ways-vote",
+"href": "https://elections.ny.gov/ways-vote"
+},
+{
+"text": "https://nyovr.elections.ny.gov/",
+"href": "https://nyovr.elections.ny.gov/"
+},
+{
+"text": "https://publicreporting.elections.ny.gov/CountyBoardRoster/CountyBoardRoster",
+"href": "https://publicreporting.elections.ny.gov/CountyBoardRoster/CountyBoardRoster"
+},
+{
+"text": "https://voterregformrequest.elections.ny.gov/voterregistration",
+"href": "https://voterregformrequest.elections.ny.gov/voterregistration"
+},
+{
+"text": "https://www.chenangocountyny.gov/190/County-Clerk",
+"href": "https://www.chenangocountyny.gov/190/County-Clerk"
+},
+{
+"text": "https://www.cortlandcountyny.gov/172/County-Clerk",
+"href": "https://www.cortlandcountyny.gov/172/County-Clerk"
+},
+{
+"text": "https://www.madisoncounty.ny.gov/174/County-Clerk",
+"href": "https://www.madisoncounty.ny.gov/174/County-Clerk"
+},
+{
+"text": "https://www.ontariocountyny.gov/102/County-Clerk",
+"href": "https://www.ontariocountyny.gov/102/County-Clerk"
+},
+{
+"text": "https://www.senecacountyny.gov/gov/admin/clerk/",
+"href": "https://www.senecacountyny.gov/gov/admin/clerk/"
+}
 ]

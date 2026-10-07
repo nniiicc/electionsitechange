@@ -1,11 +1,38 @@
 [
-"http://instagram.com/democratjake",
-"http://substack.com/@votejakeyoung",
-"https://secure.actblue.com/donate/votejakeyoung",
-"https://votejakeyoung.com/",
-"https://votejakeyoung.com/blank-1",
-"https://votejakeyoung.com/blank-2",
-"https://votejakeyoung.com/blank-3",
-"https://votejakeyoung.com/blank-4",
-"https://votejakeyoung.com/contact"
+{
+"text": "Contact",
+"href": "https://www.votejakeyoung.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votejakeyoung"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejakeyoung.com/blank-3"
+},
+{
+"text": "Instagram",
+"href": "http://www.instagram.com/democratjake/"
+},
+{
+"text": "Issues",
+"href": "https://www.votejakeyoung.com/blank-4"
+},
+{
+"text": "Jobs, Jobs, Jobs!",
+"href": "https://www.votejakeyoung.com/blank-2"
+},
+{
+"text": "Meet Jake Young",
+"href": "https://www.votejakeyoung.com/blank-1"
+},
+{
+"text": "Substack",
+"href": "http://substack.com/@votejakeyoung"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.votejakeyoung.com"
+}
 ]

@@ -1,27 +1,102 @@
 [
-"http://squarespace.com/",
-"https://gretchenforcolorado.com/",
-"https://gretchenforcolorado.com/cart",
-"https://gretchenforcolorado.com/endorsements",
-"https://gretchenforcolorado.com/events",
-"https://gretchenforcolorado.com/legislation",
-"https://gretchenforcolorado.com/meet-gretchen",
-"https://gretchenforcolorado.com/news",
-"https://gretchenforcolorado.com/take-action",
-"https://leg.colorado.gov/bills/HB25-1001",
-"https://leg.colorado.gov/bills/HB26-1043",
-"https://leg.colorado.gov/bills/HB26-1116",
-"https://leg.colorado.gov/bills/SB26-133",
-"https://leg.colorado.gov/bills/hb25-1002",
-"https://leg.colorado.gov/bills/hb25-1017",
-"https://leg.colorado.gov/bills/hb25-1018",
-"https://leg.colorado.gov/bills/hb25-1026",
-"https://leg.colorado.gov/bills/hb25-1070",
-"https://leg.colorado.gov/bills/hb25-1124",
-"https://leg.colorado.gov/bills/hb25-1129",
-"https://leg.colorado.gov/bills/hb25-1272",
-"https://leg.colorado.gov/bills/hb25-1309",
-"https://leg.colorado.gov/bills/hb25-1312",
-"https://leg.colorado.gov/bills/hb25b-1006",
-"https://leg.colorado.gov/bills/hb26-1195"
+{
+"text": "0",
+"href": "https://www.gretchenforcolorado.com/cart"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gretchenforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.gretchenforcolorado.com/events"
+},
+{
+"text": "HB25-1001",
+"href": "https://leg.colorado.gov/bills/HB25-1001"
+},
+{
+"text": "HB25-1002",
+"href": "https://leg.colorado.gov/bills/hb25-1002"
+},
+{
+"text": "HB25-1017",
+"href": "https://leg.colorado.gov/bills/hb25-1017"
+},
+{
+"text": "HB25-1018",
+"href": "https://leg.colorado.gov/bills/hb25-1018"
+},
+{
+"text": "HB25-1026",
+"href": "https://leg.colorado.gov/bills/hb25-1026"
+},
+{
+"text": "HB25-1070",
+"href": "https://leg.colorado.gov/bills/hb25-1070"
+},
+{
+"text": "HB25-1124",
+"href": "https://leg.colorado.gov/bills/hb25-1124"
+},
+{
+"text": "HB25-1129",
+"href": "https://leg.colorado.gov/bills/hb25-1129"
+},
+{
+"text": "HB25-1272",
+"href": "https://leg.colorado.gov/bills/hb25-1272"
+},
+{
+"text": "HB25-1309",
+"href": "https://leg.colorado.gov/bills/hb25-1309"
+},
+{
+"text": "HB25-1312",
+"href": "https://leg.colorado.gov/bills/hb25-1312"
+},
+{
+"text": "HB25B-1006",
+"href": "https://leg.colorado.gov/bills/hb25b-1006"
+},
+{
+"text": "HB26-1043",
+"href": "https://leg.colorado.gov/bills/HB26-1043"
+},
+{
+"text": "HB26-1116",
+"href": "https://leg.colorado.gov/bills/HB26-1116"
+},
+{
+"text": "HB26-1195",
+"href": "https://leg.colorado.gov/bills/hb26-1195"
+},
+{
+"text": "Legislation",
+"href": "https://www.gretchenforcolorado.com/legislation"
+},
+{
+"text": "Meet Gretchen",
+"href": "https://www.gretchenforcolorado.com/meet-gretchen"
+},
+{
+"text": "News",
+"href": "https://www.gretchenforcolorado.com/news"
+},
+{
+"text": "SB26-133",
+"href": "https://leg.colorado.gov/bills/SB26-133"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.gretchenforcolorado.com/take-action"
+},
+{
+"text": "[image: Gretchen for Colorado]",
+"href": "https://www.gretchenforcolorado.com/"
+}
 ]

@@ -1,5 +1,4 @@
-Please use the form below to contact Friends of Maura Hirschauer, the campaign organization.
-Friends of Maura Hirschauer
-hello@votemaura.com
-For constituent and other state and district-related business, please visit
-State Representative Maura Hirschauer office@repmaura49.com
+About Issues Events Vote Donate Contact Back Maura's Story Illinois District 49 Back Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources About Maura's Story Illinois District 49 Issues Events Vote Donate Contact Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources Candidate for 2020 Illinois House of Representative District 49 Your Voice Please use the form below to contact Friends of Maura Hirschauer, the campaign organization .
+Contact Friends of Maura Hirschauer hello@votemaura.com For constituent and other state and district-related business, please visit State Representative Maura Hirschauer office@repmaura49.com Friends of Maura Hirschauer Batavia, IL, United States hello@votemaura.com Hours Join Team Maura volunteer registration email Facebook Instagram Twitter YouTube A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Contributions to Friends of Maura Hirschauer are not tax deductible.
+Privacy Policy

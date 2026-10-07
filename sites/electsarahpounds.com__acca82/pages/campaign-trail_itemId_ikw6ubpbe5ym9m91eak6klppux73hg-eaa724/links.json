@@ -1,43 +1,218 @@
 [
-"http://facebook.com/profile.php?id=100080430794414",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Kickoff%21&dates=20260517T190000Z%2F20260517T210000Z&location=2545+Eaton+Gate+Road%2C+Lake+Orion%2C+MI%2C+48360%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Margarita+Monday+Meet+and+Greet&dates=20260413T210000Z%2F20260413T230000Z&location=575+North+Lapeer+Road%2C+Lake+Orion%2C+MI%2C+48362%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Soiree&dates=20260611T210000Z%2F20260611T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Kickoff+Party%21&dates=20260502T170000Z%2F20260502T190000Z&location=59+South+Broadway+Street%2C+Lake+Orion%2C+MI%2C+48362%2C+United+States",
-"http://maps.google.com/?q=2545+Eaton+Gate+Road+Lake+Orion%2C+MI%2C+48360+United+States",
-"http://maps.google.com/?q=575+North+Lapeer+Road+Lake+Orion%2C+MI%2C+48362+United+States",
-"http://maps.google.com/?q=59+South+Broadway+Street+Lake+Orion%2C+MI%2C+48362+United+States",
-"https://electsarahpounds.com/",
-"https://electsarahpounds.com/campaign-trail",
-"https://electsarahpounds.com/campaign-trail/canvass-kickoff",
-"https://electsarahpounds.com/campaign-trail/canvass-kickoff?format=ical",
-"https://electsarahpounds.com/campaign-trail/event-one-rg2bh-mx2wm-3ea3j-gjshf",
-"https://electsarahpounds.com/campaign-trail/event-one-rg2bh-mx2wm-3ea3j-gjshf?format=ical",
-"https://electsarahpounds.com/campaign-trail/event-two-w7zrh-s4xbg-nypkl-snaw2",
-"https://electsarahpounds.com/campaign-trail/event-two-w7zrh-s4xbg-nypkl-snaw2?format=ical",
-"https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8",
-"https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8?format=ical",
-"https://electsarahpounds.com/campaign-trail?itemId=3s4fj8yc9fsgsgbzarpmo4efethtai",
-"https://electsarahpounds.com/campaign-trail?itemId=561ig9ghj14xdpd66wtye00qgkwy9u",
-"https://electsarahpounds.com/campaign-trail?itemId=b9orn4l34kbbiecswxi8xoykcvcac6",
-"https://electsarahpounds.com/campaign-trail?itemId=dga2fj1b0pmxad8r0lbeke86db3fpo",
-"https://electsarahpounds.com/campaign-trail?itemId=fntdkmwo8890y7xpty8hwu47zcz95w",
-"https://electsarahpounds.com/campaign-trail?itemId=gxc947jkbvudpammxrnfqbbh3u5y1g",
-"https://electsarahpounds.com/campaign-trail?itemId=ikw6ubpbe5ym9m91eak6klppux73hg",
-"https://electsarahpounds.com/campaign-trail?itemId=j0wqaaye9favn9on93pdxf1qgrbdm2",
-"https://electsarahpounds.com/campaign-trail?itemId=ur5wne5ulxoxr22eyhj3ky5xr8s6zc",
-"https://electsarahpounds.com/campaign-trail?itemId=ussvrtuevavca251zeopcm6apf6zgl",
-"https://electsarahpounds.com/campaign-trail?itemId=xgzp0v4r41v0exyee4f3p89h7xsprl",
-"https://electsarahpounds.com/campaign-trail?itemId=z0dnabfssid33mhosbe6rc79s2rs51",
-"https://electsarahpounds.com/cart",
-"https://electsarahpounds.com/contact",
-"https://electsarahpounds.com/endorsements",
-"https://electsarahpounds.com/home",
-"https://electsarahpounds.com/in-the-news",
-"https://electsarahpounds.com/priorities",
-"https://mobilize.us/electsarahpounds",
-"https://mobilize.us/electsarahpounds/event/1032453",
-"https://secure.actblue.com/donate/majority10-14",
-"https://secure.actblue.com/donate/protectingourvote",
-"https://secure.actblue.com/donate/sarah-pounds-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2545+eaton+gate+road+lake+orion%2C+mi%2C+48360+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=575+north+lapeer+road+lake+orion%2C+mi%2C+48362+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=59+south+broadway+street+lake+orion%2C+mi%2C+48362+united+states"
+},
+{
+"text": "0",
+"href": "https://electsarahpounds.com/cart"
+},
+{
+"text": "Canvass Kickoff!",
+"href": "https://electsarahpounds.com/campaign-trail/canvass-kickoff"
+},
+{
+"text": "Contact",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Endorsements",
+"href": "https://electsarahpounds.com/endorsements"
+},
+{
+"text": "Get in Touch",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Kickoff%21&dates=20260517T190000Z%2F20260517T210000Z&location=2545+Eaton+Gate+Road%2C+Lake+Orion%2C+MI%2C+48360%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Margarita+Monday+Meet+and+Greet&dates=20260413T210000Z%2F20260413T230000Z&location=575+North+Lapeer+Road%2C+Lake+Orion%2C+MI%2C+48362%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Soiree&dates=20260611T210000Z%2F20260611T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Kickoff+Party%21&dates=20260502T170000Z%2F20260502T190000Z&location=59+South+Broadway+Street%2C+Lake+Orion%2C+MI%2C+48362%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://electsarahpounds.com/campaign-trail/canvass-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://electsarahpounds.com/campaign-trail/event-one-rg2bh-mx2wm-3ea3j-gjshf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://electsarahpounds.com/campaign-trail/event-two-w7zrh-s4xbg-nypkl-snaw2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://electsarahpounds.com/in-the-news"
+},
+{
+"text": "Margarita Monday Meet and Greet",
+"href": "https://electsarahpounds.com/campaign-trail/event-one-rg2bh-mx2wm-3ea3j-gjshf"
+},
+{
+"text": "Meet Sarah",
+"href": "https://electsarahpounds.com/home#home-about"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://electsarahpounds.com/campaign-trail"
+},
+{
+"text": "Priorities",
+"href": "https://electsarahpounds.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.actblue.com/donate/majority10-14"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.actblue.com/donate/protectingourvote"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/electsarahpounds/event/1032453/"
+},
+{
+"text": "Summer Soiree",
+"href": "https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8"
+},
+{
+"text": "View Event →",
+"href": "https://electsarahpounds.com/campaign-trail/canvass-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://electsarahpounds.com/campaign-trail/event-one-rg2bh-mx2wm-3ea3j-gjshf"
+},
+{
+"text": "View Event →",
+"href": "https://electsarahpounds.com/campaign-trail/event-two-w7zrh-s4xbg-nypkl-snaw2"
+},
+{
+"text": "View Event →",
+"href": "https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/electsarahpounds/"
+},
+{
+"text": "Volunteer Here",
+"href": "mailto:Campaign@ElectSarahPounds.com?subject=I%27d+like+to+help+volunteer%21"
+},
+{
+"text": "Volunteer Kickoff Party!",
+"href": "https://electsarahpounds.com/campaign-trail/event-two-w7zrh-s4xbg-nypkl-snaw2"
+},
+{
+"text": "[image: 20260704_095826.jpg] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=ussvrtuevavca251zeopcm6apf6zgl"
+},
+{
+"text": "[image: Canvass Kickoff!]",
+"href": "https://electsarahpounds.com/campaign-trail/canvass-kickoff"
+},
+{
+"text": "[image: Elect Sarah Pounds]",
+"href": "https://electsarahpounds.com/"
+},
+{
+"text": "[image: FullSizeRender (1).JPEG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=3s4fj8yc9fsgsgbzarpmo4efethtai"
+},
+{
+"text": "[image: IMG_2553 (1).jpg] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=j0wqaaye9favn9on93pdxf1qgrbdm2"
+},
+{
+"text": "[image: IMG_2623.jpg] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=fntdkmwo8890y7xpty8hwu47zcz95w"
+},
+{
+"text": "[image: IMG_4190.JPG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=ur5wne5ulxoxr22eyhj3ky5xr8s6zc"
+},
+{
+"text": "[image: IMG_4417 (1).jpeg] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=ikw6ubpbe5ym9m91eak6klppux73hg"
+},
+{
+"text": "[image: IMG_4716.jpeg] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=gxc947jkbvudpammxrnfqbbh3u5y1g"
+},
+{
+"text": "[image: IMG_5358.JPG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=z0dnabfssid33mhosbe6rc79s2rs51"
+},
+{
+"text": "[image: IMG_7410 (1).JPEG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=dga2fj1b0pmxad8r0lbeke86db3fpo"
+},
+{
+"text": "[image: IMG_7412 (1).JPEG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=561ig9ghj14xdpd66wtye00qgkwy9u"
+},
+{
+"text": "[image: June 2026 Berlin Rosen MI Sarah Pounds 112.JPG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=xgzp0v4r41v0exyee4f3p89h7xsprl"
+},
+{
+"text": "[image: June 2026 Berlin Rosen MI Sarah Pounds 122.JPG] View fullsize",
+"href": "https://electsarahpounds.com/campaign-trail?itemId=b9orn4l34kbbiecswxi8xoykcvcac6"
+},
+{
+"text": "[image: Margarita Monday Meet and Greet]",
+"href": "https://electsarahpounds.com/campaign-trail/event-one-rg2bh-mx2wm-3ea3j-gjshf"
+},
+{
+"text": "[image: Volunteer Kickoff Party!]",
+"href": "https://electsarahpounds.com/campaign-trail/event-two-w7zrh-s4xbg-nypkl-snaw2"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/majority10-14"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/protectingourvote"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/profile.php?id=100080430794414"
+},
+{
+"text": "[no text]",
+"href": "https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8"
+}
 ]

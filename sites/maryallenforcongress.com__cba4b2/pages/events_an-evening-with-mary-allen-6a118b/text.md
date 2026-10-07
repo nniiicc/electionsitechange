@@ -1,10 +1,3 @@
-Back to All Events
-An Evening with Mary Allen at Matilda’s Event Barn.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events An Evening with Mary Allen Thursday, June 25, 2026 5:30 PM 8:30 PM Matilda's Event Barn 13222 East County Road 1025 North Troy, Indiana, 47588 United States (map) Google Calendar ICS An Evening with Mary Allen at Matilda’s Event Barn.
 See link below for details.
-Previous
-Previous
-June 15
-Virtual phone bank training (Every 4 wks)
-Next
-Next
-June 30
+Source: https://secure.actblue.com/donate/marymatildas Previous Previous June 15 Virtual phone bank training (Every 4 wks) Next Next June 30 Meet & Greet at Ladybird, a fundraiser for Mary Allen for Congress REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

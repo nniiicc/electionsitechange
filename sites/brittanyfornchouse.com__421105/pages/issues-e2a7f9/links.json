@@ -1,34 +1,138 @@
 [
-"http://instagram.com/brittanyfornchouse",
-"https://arts.gov/news/press-releases/2025/arts-and-cultural-industries-grew-twice-rate-us-economy-adding-12-trillion",
-"https://bcbsncfoundation.org/food-is-medicine",
-"https://borderbelt.org/nc-traditional-public-school-enrollment-continues-to-decline",
-"https://borderbelt.org/private-school-vouchers-enrollment-southeastern-nc",
-"https://borderbelt.org/robeson-columbus-counties-rank-low-in-nc-school-funding",
-"https://borderbelt.org/rural-doctors-north-carolina-residency",
-"https://brittanyfornchouse.com/",
-"https://brittanyfornchouse.com/about-5",
-"https://brittanyfornchouse.com/contact",
-"https://brittanyfornchouse.com/endorsements",
-"https://brittanyfornchouse.com/events",
-"https://brittanyfornchouse.com/issues",
-"https://brittanyfornchouse.com/volunteer",
-"https://carolinademography.cpc.unc.edu/2025/10/08/nc-counties-social-factors-disease-prevalence",
-"https://carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs",
-"https://censusreporter.org/profiles/05000US37047-columbus-county-nc",
-"https://censusreporter.org/profiles/05000US37155-robeson-county-nc",
-"https://d4.nccommerce.com/QCEWLargestEmployers.aspx",
-"https://facebook.com/brittanyfornchouse",
-"https://healersandpatients.web.unc.edu/2022/04/rural-veteran-healthcare-in-north-carolina-the-need-for-quality-trust-and-accessibility-in-the-va-healthcare-system",
-"https://ncagr.gov/news/press-releases/2024/05/18/economic-impact-nc-agriculture-and-agribusiness-jumps-1111-billion-second-straight-year-strong",
-"https://ncbudget.org/citfactsheet",
-"https://northcarolinahealthnews.org/2023/05/19/disparate-issues-shape-rural-health-in-nc",
-"https://robesonian.com/news/335346/psrc-almost-off-states-low-performing-schools-list",
-"https://sbtdc.org/impact/small-business-in-nc",
-"https://secure.actblue.com/donate/brittanyfornc",
-"https://threads.com/@brittanyfornchouse",
-"https://tiktok.com/@brittanyfornchouse",
-"https://whqr.org/local/2023-04-27/columbus-county-considers-15th-solar-farm-as-the-industry-continues-to-look-to-rural-areas",
-"https://wunc.org/education/2025-04-29/teacher-pay-ranking-drops",
-"https://x.com/brittanyfornc"
+{
+"text": "About",
+"href": "https://www.brittanyfornchouse.com/about-5"
+},
+{
+"text": "Columbus County",
+"href": "https://censusreporter.org/profiles/05000US37047-columbus-county-nc/"
+},
+{
+"text": "Columbus County ranks among the state’s leading solar-producing counties",
+"href": "https://www.whqr.org/local/2023-04-27/columbus-county-considers-15th-solar-farm-as-the-industry-continues-to-look-to-rural-areas"
+},
+{
+"text": "Contact",
+"href": "https://www.brittanyfornchouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brittanyfornc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brittanyfornchouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.brittanyfornchouse.com/events"
+},
+{
+"text": "Food as Medicine",
+"href": "https://www.bcbsncfoundation.org/food-is-medicine/"
+},
+{
+"text": "Home",
+"href": "https://www.brittanyfornchouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.brittanyfornchouse.com/issues"
+},
+{
+"text": "NC Budget & Tax Center reports that corporate income taxes are scheduled to phase down to 0% by 2030",
+"href": "https://ncbudget.org/citfactsheet/"
+},
+{
+"text": "North Carolina continues to lag in competitive teacher pay",
+"href": "https://www.wunc.org/education/2025-04-29/teacher-pay-ranking-drops"
+},
+{
+"text": "North Carolina has the second-highest number of rural veterans in the nation",
+"href": "https://healersandpatients.web.unc.edu/2022/04/rural-veteran-healthcare-in-north-carolina-the-need-for-quality-trust-and-accessibility-in-the-va-healthcare-system/"
+},
+{
+"text": "Robeson County",
+"href": "https://censusreporter.org/profiles/05000US37155-robeson-county-nc/"
+},
+{
+"text": "Robeson County is ranked as one of the unhealthiest counties in the state",
+"href": "https://borderbelt.org/rural-doctors-north-carolina-residency/#:~:text=Robeson%20is%20one%20of%20the,lived%20all%20over%20the%20world."
+},
+{
+"text": "Volunteer",
+"href": "https://www.brittanyfornchouse.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.brittanyfornchouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brittanyfornchouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/brittanyfornchouse"
+},
+{
+"text": "[image: Logo Brittany Newton Campaign (820 x 360 px) (1200 x 630 px).png]",
+"href": "https://www.brittanyfornchouse.com"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@brittanyfornchouse"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@brittanyfornchouse"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/brittanyfornc"
+},
+{
+"text": "broad-based tariffs could cost North Carolina’s agriculture industry nearly $700 million and put 8,000 jobs at risk",
+"href": "https://www.carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs/"
+},
+{
+"text": "diabetes and heart disease in Columbus and Robeson counties are much higher than the state average",
+"href": "https://carolinademography.cpc.unc.edu/2025/10/08/nc-counties-social-factors-disease-prevalence/"
+},
+{
+"text": "largest employer in Columbus County and second largest in Robeson county",
+"href": "https://d4.nccommerce.com/QCEWLargestEmployers.aspx"
+},
+{
+"text": "nearly $20 billion industry in North Carolina",
+"href": "https://www.arts.gov/news/press-releases/2025/arts-and-cultural-industries-grew-twice-rate-us-economy-adding-12-trillion"
+},
+{
+"text": "over $111 billion to the economy",
+"href": "https://www.ncagr.gov/news/press-releases/2024/05/18/economic-impact-nc-agriculture-and-agribusiness-jumps-1111-billion-second-straight-year-strong"
+},
+{
+"text": "over 99% of all businesses in North Carolina",
+"href": "https://sbtdc.org/impact/small-business-in-nc"
+},
+{
+"text": "public school enrollment declines",
+"href": "https://borderbelt.org/nc-traditional-public-school-enrollment-continues-to-decline/"
+},
+{
+"text": "rank among the lowest in the state for local school funding",
+"href": "https://borderbelt.org/robeson-columbus-counties-rank-low-in-nc-school-funding"
+},
+{
+"text": "redirecting taxpayer dollars toward private schools",
+"href": "https://borderbelt.org/private-school-vouchers-enrollment-southeastern-nc/"
+},
+{
+"text": "rural North Carolinians are 40% more likely to be uninsured than people in the city",
+"href": "https://www.northcarolinahealthnews.org/2023/05/19/disparate-issues-shape-rural-health-in-nc/"
+},
+{
+"text": "work to exit the state’s \"low-performing\" list",
+"href": "https://www.robesonian.com/news/335346/psrc-almost-off-states-low-performing-schools-list"
+}
 ]

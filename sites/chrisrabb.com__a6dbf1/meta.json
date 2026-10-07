@@ -1,9 +1,12 @@
 {
  "description": "Rep. Chris Rabb is running for US Congress in Pennsylvania's 3rd Congressional district. Chris Rabb is endorsed by AOC and The Philadelphia Inquirer. Learn more about his people-powered campaign, here.",
  "final_url": "https://www.chrisrabb.com/",
- "paid_for_by": null,
+ "fingerprint": "e4d7761f65d1e5f845164aa51fd24d0fc819582e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Chris Rabb For Congress",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

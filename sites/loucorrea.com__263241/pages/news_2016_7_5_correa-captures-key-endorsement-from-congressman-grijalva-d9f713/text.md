@@ -1,99 +1,25 @@
-Correa Keeps Up Winning Streak With News that Congressman Raúl M.
-Grijalva Signed On to his CA-46 Congressional Bid
-SANTA ANA, CA -- Today former State Senator Lou Correa locked in another crucial endorsement, this one coming from Congressman Raúl M.
+Home Meet Lou Support Lou Contact Press Package Donate Home Meet Lou Support Lou Contact Press Package Donate Andrew Scibetta July 5, 2016 CORREA CAPTURES KEY ENDORSEMENT FROM CONGRESSMAN GRIJALVA Andrew Scibetta July 5, 2016 Correa Keeps Up Winning Streak With News that Congressman Raúl M.
+Grijalva Signed On to his CA-46 Congressional Bid SANTA ANA, CA -- Today former State Senator Lou Correa locked in another crucial endorsement, this one coming from Congressman Raúl M.
 Grijalva in his bid to represent California's 46th Congressional District seat.
 Significantly, Congressman Raúl M.
 Grijalva has played an important role in Vermont Senator Bernie Sanders' Democratic Presidential primary contest and the nation's progressive movement.
 Responding to news of the endorsement from Congressman Raúl M.
-Grijalva, former Senator Correa stated:
-"It's an honor to have Congressman Raúl M.
+Grijalva, former Senator Correa stated: "It's an honor to have Congressman Raúl M.
 Grijalva on my team.
 As one of Congress' most progressive and forward-thinking leaders, his support means a great deal to me.
-I know we'll be strong collaborators and partners in Washington on helping to lift up working families, strengthening and broadening the middle class, expanding opportunity, passing meaningful and comprehensive immigration reform, and getting our economy moving so that more everyday folks can reach their full potential and achieve the American Dream."
-In the June 7th Primary Election, former Senator Correa was the top vote getter, capturing over 40,880 votes and 43.7% of the total votes cast.
+I know we'll be strong collaborators and partners in Washington on helping to lift up working families, strengthening and broadening the middle class, expanding opportunity, passing meaningful and comprehensive immigration reform, and getting our economy moving so that more everyday folks can reach their full potential and achieve the American Dream." In the June 7th Primary Election, former Senator Correa was the top vote getter, capturing over 40,880 votes and 43.7% of the total votes cast.
 Combined, Correa's votes equal almost three times as much as the second place finisher.
 Today's announcement follows recent endorsements from House Democratic Whip Steny Hoyer, Orange County Federation of Labor, Sailors Union of the Pacific, Rancho Santiago Community College Board of Trustees Nelida Mendoza Yanez and Lawrence R.
 “Larry” Labrado, California Secretary of State Alex Padilla, the International Brotherhood of Electrical Workers (IBEW) Local 441, California Assembly Speaker Anthony Rendon, former Chair of the Orange County Democratic Party Frank Barbaro, Latino Victory Fund and California Hispanic Chamber of Commerce, State Assemblyman Tom Daly and the Garden Grove Police Officers Association.
-Beyond today's announcement, Correa has racked up widespread support from organizations and leaders, including:
-Organizations
-· United Farm Workers of America (UFW)
-· California Police Chiefs' Association
-· Peace Officers Research Association of California (PORAC)
-· National Latino Peace Officers Association
-· California Small Business Association
-· Building Our Leadership Diversity (BOLD) PAC
-· International Union of Painters and Allied Trades District Council 36
-· International Union of Operating Engineers Local 501
-· Santa Ana School Police Officers' Association
-· Santa Ana Police Officers' Association
-· Anaheim Police Officer's Association Political Action Committee
-· Orange County Deputy District Attorneys
-· Garden Grove Firefighters Association
-· Californians for Humane Immigrant Rights Leadership Action Fund (CHIRLA Action Fund)
-· Orange County Business Council
-Orange County Deputy Sheriffs Association,
-Elected Leaders
-· House Democratic Caucus Chair & Congressman Xavier Becerra
-· Congressional Hispanic Caucus Chair and Congresswoman Linda Sánchez
-· Congresswoman & former State Assembly Speaker Karen Bass
-· Congresswoman Judy Chu
-· Congressman Juan Vargas
-· Congressman Alan Lowenthal
-· CongressmanPete Aguilar
-· Congressman Ted Lieu
-· Congressman Tony Cardenas
-· Congresswoman Norma Torres
-· Congressman Raul Ruiz, MD.
-· Congressman Ruben Gallego
-· Congressman Luis Gutierrez
-· Congressman Ruben Hinojosa
-· Congressman Filemon Vela
-· California’s State Treasurer John Chiang
-· California’s Superintendent of Public Instruction Tom Torlakson
-· California State Senate President Pro-Tem Kevin de León
-· California Board of Equalization Chair Jerome Horton
-· California Lt.
-Governor Cruz Bustamante (Ret.)
-· California Latino Legislative Caucus Chair and State Assemblyman Luis Alejo
-· California Legislative Black Caucus Chair & State Assemblyman Reggie Jones-Sawyer
-· California State Senator and former Air Force General Richard Roth
-· California State Senator & LGBT trailblazer Mark Leno
-· California State Senator & Labor Committee Chair Tony Mendoza
-· California State Assemblywoman & former San Diego Central Labor Council Leader Lorena Gonzalez
-· California State Senator Lois Wolk
-· California State Senator Jerry Hill
-· California State Assemblywoman Susan Talamantes–Eggman
-· California State Assemblyman Henry Perea
-· California State Assemblywoman Sharon Quirk Silva (Ret.)
-· California Supreme Court Justice, Hon., Cruz Reynoso (Ret.)
-· California State Assemblywoman Cristina Garcia
-· California State Assemblyman Jose Medina
-· Orange County Sheriff Sandra Hutchins
-· Santa Ana City Council Member Michele Martinez
-· Santa Ana Unified School District Board President John Palacio
-· Santa Ana Unified School District Clerk Valerie Amezcua
-· Santa Ana Unified School District Board Member José Alfredo Hernández, J.D.
-· Santa Ana City Councilwoman Angie Amezcua
-· Buena Park City Councilman Art Brown
-· Anaheim Union High School District Board President Annemarie Randle-Trejo
-· Anaheim Union High School District Board Member Al Jabbar
-· Anaheim City School District Board of Education President Bob Gardner
-· Anaheim City School District Board of Education Member Ryan Ruelas
-· Anaheim Police Chief John Welter (Ret.)*
-· City of Garden Grove City Council Member Kris Beard
-· Huntington Beach Unified School District Board Member Bonnie Castrey
-· Los Angeles City Councilman, past State Senator Gil Cedillo
-· Artesia City Council Member Ali Sajjad Taj
-Community Leaders
-· South County Labor Chair Ray Cordova*
-· Orange County-based LGBT activist Gregory Willenborg*
-· Pastor of the largest African American church in Orange County, the Rev.
+Beyond today's announcement, Correa has racked up widespread support from organizations and leaders, including: Organizations · United Farm Workers of America (UFW) · California Police Chiefs' Association · Peace Officers Research Association of California (PORAC) · National Latino Peace Officers Association · California Small Business Association · Building Our Leadership Diversity (BOLD) PAC · International Union of Painters and Allied Trades District Council 36 · International Union of Operating Engineers Local 501 · Santa Ana School Police Officers' Association · Santa Ana Police Officers' Association · Anaheim Police Officer's Association Political Action Committee · Orange County Deputy District Attorneys · Garden Grove Firefighters Association · Californians for Humane Immigrant Rights Leadership Action Fund (CHIRLA Action Fund) · Orange County Business Council Orange County Deputy Sheriffs Association, Elected Leaders · House Democratic Caucus Chair & Congressman Xavier Becerra · Congressional Hispanic Caucus Chair and Congresswoman Linda Sánchez · Congresswoman & former State Assembly Speaker Karen Bass · Congresswoman Judy Chu · Congressman Juan Vargas · Congressman Alan Lowenthal · CongressmanPete Aguilar · Congressman Ted Lieu · Congressman Tony Cardenas · Congresswoman Norma Torres · Congressman Raul Ruiz, MD. · Congressman Ruben Gallego · Congressman Luis Gutierrez · Congressman Ruben Hinojosa · Congressman Filemon Vela · California’s State Treasurer John Chiang · California’s Superintendent of Public Instruction Tom Torlakson · California State Senate President Pro-Tem Kevin de León · California Board of Equalization Chair Jerome Horton · California Lt.
+Governor Cruz Bustamante (Ret.) · California Latino Legislative Caucus Chair and State Assemblyman Luis Alejo · California Legislative Black Caucus Chair & State Assemblyman Reggie Jones-Sawyer · California State Senator and former Air Force General Richard Roth · California State Senator & LGBT trailblazer Mark Leno · California State Senator & Labor Committee Chair Tony Mendoza · California State Assemblywoman & former San Diego Central Labor Council Leader Lorena Gonzalez · California State Senator Lois Wolk · California State Senator Jerry Hill · California State Assemblywoman Susan Talamantes–Eggman · California State Assemblyman Henry Perea · California State Assemblywoman Sharon Quirk Silva (Ret.) · California Supreme Court Justice, Hon., Cruz Reynoso (Ret.) · California State Assemblywoman Cristina Garcia · California State Assemblyman Jose Medina · Orange County Sheriff Sandra Hutchins · Santa Ana City Council Member Michele Martinez · Santa Ana Unified School District Board President John Palacio · Santa Ana Unified School District Clerk Valerie Amezcua · Santa Ana Unified School District Board Member José Alfredo Hernández, J.D. · Santa Ana City Councilwoman Angie Amezcua · Buena Park City Councilman Art Brown · Anaheim Union High School District Board President Annemarie Randle-Trejo · Anaheim Union High School District Board Member Al Jabbar · Anaheim City School District Board of Education President Bob Gardner · Anaheim City School District Board of Education Member Ryan Ruelas · Anaheim Police Chief John Welter (Ret.)* · City of Garden Grove City Council Member Kris Beard · Huntington Beach Unified School District Board Member Bonnie Castrey · Los Angeles City Councilman, past State Senator Gil Cedillo · Artesia City Council Member Ali Sajjad Taj Community Leaders · South County Labor Chair Ray Cordova* · Orange County-based LGBT activist Gregory Willenborg* · Pastor of the largest African American church in Orange County, the Rev.
 Mark E.
-Whitlock, Jr.*
-Correa served in the California State Senate, representing the 34th District, from 2006- 2014 and served the cities of Anaheim, Buena Park, Fullerton, Garden Grove, Santa Ana, Stanton and Westminster.
+Whitlock, Jr.* Correa served in the California State Senate, representing the 34th District, from 2006- 2014 and served the cities of Anaheim, Buena Park, Fullerton, Garden Grove, Santa Ana, Stanton and Westminster.
 Prior to the Senate, he served on the Orange County Board of Supervisors representing the 1st District.
-Before his time on the Board, Correa served in the California State Assembly representing the 69th District.
-*Titles for Identification Purposes Only.
-For more information, please visit www.LouCorrea.com.
-###
-Paid for by Lou Correa for Congress 2016.
+Before his time on the Board, Correa served in the California State Assembly representing the 69th District. *Titles for Identification Purposes Only.
+For more information, please visit www.LouCorrea.com .
+### Paid for by Lou Correa for Congress 2016.
+Tagged: press release Newer Post VOTERS OVERWHELMINGLY CHOOSE LOU CORREA IN 46TH DISTRICT CONGRESSIONAL PRIMARY Older Post WORKING PEOPLE STAND IN SOLIDARITY WITH CORREA Donate Today Back to Top Meet Lou Support Lou Congressman Lou in the News Photos Register to Vote Press Endorsements Donate News P.O.
+Box 1107, Anaheim, CA 92815-1107 info@LouCorrea.com Paid for by Lou Correa for Congress FEC Campaign ID No.
+C00578302 ©Lou Correa For Congress # | Privacy Policy | Terms of Use | Contact Site Administrator P.O.
+Box 1107 Anaheim, CA 92815-1107

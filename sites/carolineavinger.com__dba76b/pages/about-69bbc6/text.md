@@ -1,5 +1,4 @@
-About Caroline
-South Carolina shaped me.
+Skip to Content Open Menu Close Menu About Priorities Get Involved Contact ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu About Priorities Get Involved Contact ( 0 ) Cart ( 0 ) DONATE About Priorities Get Involved Contact DONATE About Caroline South Carolina shaped me.
 And I have called Greenville home for more than twenty-five years.
 It’s where my husband and I have raised our two daughters, and it’s the community that has given so much to our family.
 I began my career as a public school teacher after graduating from Davidson College and earning my M.Ed. from Converse University.
@@ -15,5 +14,6 @@ That’s why I’m running.
 South Carolina can lead in education, support working families, strengthen healthcare access, and build an economy that works for everyone.
 But reaching that potential requires leaders who are willing to listen and to act.
 If you believe District 24 deserves that kind of leadership, I would be honored to have your support.
-This campaign is powered by people like you.
-Let's set a higher standard: showing up, responding, and following through for District 24
+This campaign is powered by people like you .
+Let's set a higher standard: showing up, responding, and following through for District 24 $10 $25 $50 $100 $250 Other Find Your District Paid for by Caroline Avinger for SC House P.O.
+Box 8016 Greenville, SC 29604

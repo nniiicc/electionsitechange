@@ -1,4 +1,4 @@
-I don’t just hear about your struggles, I’ve lived it.
+Solutions Solutions CA-36 CA-36 JOIN US I don’t just hear about your struggles, I’ve lived it.
 You sweat and bleed every day for a share of the American Dream that always seems to be rigged against you, and yet we live on the cusp of an AI and automation revolution.
 You were sold the lie that you had to go into debt for college which would open doors to rewarding careers, but now, a decade or more later of diligently paying them off, there is barely a dent in the principal.
 Housing?
@@ -26,4 +26,5 @@ I’m running to be held accountable by you, the people.
 Together, we'll educate our youth to harness the future, build fair and trustworthy systems, empower healthcare choices, and cultivate an abundance of opportunity fueled by putting trust in the American people to think, build, and innovate.
 Join me.
 Your goals are my priorities; where the best place in the world to live becomes the engine for the New Golden Age.
-Let's Dream Big
+Let's Dream Big # Days 00 : 58 : 35 # Days 00 : 58 : 35 # Days 00 : 58 : 35 November 3, 2026 Midterm Election November 3, 2026 Midterm Election First Name * Last Name * Email * Phone Send Me Text Messages* Send Me Text Messages* How are you willing to help?
+Constituent of Congressional District 36 Constituent of District CA-36 Submit JOIN THE CAMPAIGN JOIN THE CAMPAIGN DONATE DONATE Paid for by Houston Brignano for Congress Houston Brignano for Congress 25626 1/2 Narbonne Ave Lomita, CA 90717 (310) 742-1825 hello@voteforhouston.com Privacy Policy

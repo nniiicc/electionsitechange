@@ -1,7 +1,5 @@
-Bill to help underfunded schools isn’t moving forward, but I’m not giving up| Opinion, SEN.
-DEB KRISHNADASAN
-Kitsap Sun
-Three months ago I joined the Washington State Senate.
+0 Skip to Content Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Bill to help underfunded schools isn’t moving forward, but I’m not giving up| Opinion, SEN.
+DEB KRISHNADASAN Jun 11 Written By Darci Larsen Kitsap Sun Three months ago I joined the Washington State Senate.
 Unlike most of my colleagues, I have no experience as a partisan elected official.
 I’m not a career politician, so for the first time I have seen the good and the bad of Olympia as I work for more funding for schools and students, lower sales taxes, stabilizing the ferry system, and protecting reproductive freedom.
 I was appointed to replace Congresswoman Emily Randall in the 26th Legislative District.
@@ -32,3 +30,4 @@ But like the spring, or baseball season, there’s always next year, and if vote
 Sen.
 Deb Krishnadasan represents the 26th Legislative District.
 She lives in Gig Harbor.
+Link to Article Darci Larsen Next Next New State Bill Opens Way for Daycare on Key Peninsula DONATE ENDORSEMENTS ENDORSE DEB Paid for by Deb K for Senate (D) | 11010 Harbor Hill Dr Ste B 277, Gig Harbor, WA, 98332

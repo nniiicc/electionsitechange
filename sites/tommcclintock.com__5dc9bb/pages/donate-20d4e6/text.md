@@ -1,15 +1,2 @@
-Home
-About
-Issues
-News
-Volunteer
-Donate
-.................
-Donate
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span>
-Thank you for your support!
-$5
-$20
-$50
-$100
-Other
+Home About Issues News Volunteer Donate .................
+Donate <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span> Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

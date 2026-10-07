@@ -1,8 +1,6 @@
-Latest News
-Planned Parenthood Action Fund Endorses Congressman Rob Menendez for Re-Election to the U.S.
-House of Representatives
-NEW JERSEY – In recognition of his advocacy for reproductive health and rights, Congressman Rob Menendez has been endorsed by the Planned Parenthood Action Fund for re-election in 2024.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Latest News Planned Parenthood Action Fund Endorses Congressman Rob Menendez for Re-Election to the U.S.
+House of Representatives October 8, 2024 NEW JERSEY – In recognition of his advocacy for reproductive health and rights, Congressman Rob Menendez has been endorsed by the Planned Parenthood Action Fund for re-election in 2024.
 “In a time when fundamental rights and freedoms are under attack, I am proud to continue the fight to ensure that every person has the ability to make decisions about their health and their bodies,” said Congressman Rob Menendez.
-“I am honored to receive the endorsement of the Planned Parenthood Action Fund and I look forward to our continued collaboration as we work to safeguard and strengthen reproductive rights and personal autonomy for all Americans.”
-The Planned Parenthood Action Fund is an independent, not-for-profit national membership organization formed as the advocacy and political arm of Planned Parenthood Federation of America.
+“I am honored to receive the endorsement of the Planned Parenthood Action Fund and I look forward to our continued collaboration as we work to safeguard and strengthen reproductive rights and personal autonomy for all Americans.” The Planned Parenthood Action Fund is an independent, not-for-profit national membership organization formed as the advocacy and political arm of Planned Parenthood Federation of America.
 The Action Fund engages in educational and limited electoral activity, including grassroots organizing, legislative advocacy, and voter education.
+Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

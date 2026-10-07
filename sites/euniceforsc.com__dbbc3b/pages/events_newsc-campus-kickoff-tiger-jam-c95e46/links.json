@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=%23newsc+Campus+Kickoff+Tiger+Jam&dates=20260921T230000Z%2F20260922T010000Z&location=720+McMillan+Road%2C+Clemson%2C+South+Carolina%2C+29634%2C+United+States",
-"http://maps.google.com/?q=720+McMillan+Road+Clemson%2C+South+Carolina%2C+29634+United+States",
-"https://bsky.app/profile/euniceforsc.bsky.social",
-"https://euniceforsc.com/",
-"https://euniceforsc.com/about",
-"https://euniceforsc.com/cart",
-"https://euniceforsc.com/events",
-"https://euniceforsc.com/events/love-and-protect-nature",
-"https://euniceforsc.com/events/meet-greet-with-eunice",
-"https://euniceforsc.com/events/newsc-campus-kickoff-tiger-jam?format=ical",
-"https://euniceforsc.com/ideas",
-"https://euniceforsc.com/news",
-"https://euniceforsc.com/privacy-policy",
-"https://euniceforsc.com/support",
-"https://euniceforsc.com/vote",
-"https://facebook.com/EuniceforSC",
-"https://instagram.com/euniceforsc",
-"https://media.clemson.edu/parking-transportation/multimedia/meter-map.pdf",
-"https://secure.actblue.com/donate/eunice-lehmacher-1",
-"https://tiktok.com/@euniceforsc",
-"https://youtube.com/@euniceforsc4284"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=720+mcmillan+road+clemson%2C+south+carolina%2C+29634+united+states"
+},
+{
+"text": "0",
+"href": "https://www.euniceforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.euniceforsc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eunice-lehmacher-1"
+},
+{
+"text": "Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=%23newsc+Campus+Kickoff+Tiger+Jam&dates=20260921T230000Z%2F20260922T010000Z&location=720+McMillan+Road%2C+Clemson%2C+South+Carolina%2C+29634%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.euniceforsc.com/events/newsc-campus-kickoff-tiger-jam?format=ical"
+},
+{
+"text": "Ideas",
+"href": "https://www.euniceforsc.com/ideas"
+},
+{
+"text": "News",
+"href": "https://www.euniceforsc.com/news"
+},
+{
+"text": "Next Next September 22 Love and Protect Nature",
+"href": "https://www.euniceforsc.com/events/love-and-protect-nature"
+},
+{
+"text": "Previous Previous September 19 Meet & Greet in Greenwood County",
+"href": "https://www.euniceforsc.com/events/meet-greet-with-eunice"
+},
+{
+"text": "Privacy Policy",
+"href": "https://euniceforsc.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.euniceforsc.com/support"
+},
+{
+"text": "Vote",
+"href": "https://www.euniceforsc.com/vote"
+},
+{
+"text": "[image: Eunice for SC]",
+"href": "https://www.euniceforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/euniceforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EuniceforSC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@euniceforsc4284"
+},
+{
+"text": "[no text]",
+"href": "mailto:EuniceForSC@gmail.com"
+},
+{
+"text": "here",
+"href": "https://media.clemson.edu/parking-transportation/multimedia/meter-map.pdf"
+}
 ]

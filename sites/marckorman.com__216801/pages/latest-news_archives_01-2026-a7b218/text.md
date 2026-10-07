@@ -1,6 +1,5 @@
-| I hope everyone has stayed safe in the weather and is digging out, and hopefully having a little fun too.
-With more winter weather possible, below is a reminder of handy numbers and contacts during storms.
-BUDGET UPDATE The Governor's budget proposal has been released.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe LATEST NEWS The Budget is Here 1/28/2026 I hope everyone has stayed safe in the weather and is digging out, and hopefully having a little fun too.
+With more winter weather possible, below is a reminder of handy numbers and contacts during storms. ​BUDGET UPDATE The Governor's budget proposal has been released.
 As constitutionally, it is balanced--addressing a projected $1.4 billion deficit--and reaches that with no tax or fee increases.
 It achieves that in three major ways: (1) Ongoing spending cuts of approximately $600 million; (2) One time transfers from certain special funds to the general fund, with some back-filled by the capital budget of nearly $800 million; and (3) Revenue adjustments--but not tax increases--including decoupling state taxes from certain federal deductions and adjusting certain special fund programs valued at around $200 million.
 And it will do all of this while retaining an 8% Rainy Day Fund.
@@ -9,61 +8,58 @@ I have heard from many of you already about the proposed $150 million reduction 
 In addition, although we balance the budget every year, there are still long-term deficits to address.
 And other issues will arise as we analyze the proposal.
 The Department of Legislative Services presented their fiscal briefing on the Governor' budget earlier this week.
-You can watch the meeting here and review the presentation and supporting material here.
-Although there will be a lot of work to do on the Governor's budget, I do want to acknowledge some important capital projects in District 16 that the Governor has requested funding for including Suburban Hospital's emergency department expansion, renovations of the Spanish Ballroom at Glen Echo Park, a water main replacement in Carderock Springs, and funds for art around downtown Bethesda.
-COMMITTEE UPDATE The House Environment and Transportation Committee continues a rigorous briefing schedule with further briefings on energy, as well as the state of agriculture in Maryland, the state of the Chesapeake Bay, and a broader update from the Maryland Department of the Environment.
+You can watch the meeting here and review the presentation and supporting material here .
+Although there will be a lot of work to do on the Governor's budget, I do want to acknowledge some important capital projects in District 16 that the Governor has requested funding for including Suburban Hospital's emergency department expansion, renovations of the Spanish Ballroom at Glen Echo Park, a water main replacement in Carderock Springs, and funds for art around downtown Bethesda. ​COMMITTEE UPDATE The House Environment and Transportation Committee continues a rigorous briefing schedule with further briefings on energy, as well as the state of agriculture in Maryland, the state of the Chesapeake Bay, and a broader update from the Maryland Department of the Environment.
 We also had our first bill hearing yesterday.
-Each briefing, hearing or other committee meeting is available on the committee's YouTube page.
+Each briefing, hearing or other committee meeting is available on the committee's YouTube page .
 LEGISLATION UPDATE Last week, I introduced the Metro Funding Modification Act with Senator Malcolm Augustine from Prince George's County.
 The bill would increase Maryland's contribution for Metro capital funding in coordination with Virginia and D.C.
-I provided a short video update on the bill (and the budget) here.
+I provided a short video update on the bill (and the budget) here .
 DELEGATION UPDATE On most Fridays of the legislative session, the Montgomery County House Delegation meets.
 Last week, we heard from Montgomery County Park & Planning and voted on a few pieces of local legislation (bills that only affect Montgomery County).
-You can watch the meeting here.
+You can watch the meeting here .
 REDISTRICTING NEWS The Governor's redistricting commission recommended a proposed plan for new Congressional district lines in Maryland.
-The proposal has been introduced in the House and the bill can be reviewed here.
+The proposal has been introduced in the House and the bill can be reviewed here .
 Under the bill, new lines would be set for the 2026 general election in Maryland but whether those lines would be used in subsequent elections--until the next census--would be decided by the voters.
 The House Rules Committee, on which I serve, had a virtual hearing on the bill earlier this week and voted to pass the map, which is now pending on the House floor.
 As I have written about partisan mid-decade redistricting previously, "I support Maryland moving ahead absent some halt in the nationwide redistricting wars sparked by the President and a rollback by the states who followed his partisan wishes." POTOMAC INTERCEPTOR NEWS Part of the Potomac Interceptor--a DC Water sewer line along the C&O Canal and Potomac River--suffered a break/collapse on January 19th.
 DC Water has now installed a bypass pump to divert sewage around the break.
 There is no impact to drinking water because of the placement of the line, but there is contamination of sewage into the Potomac River.
 District 16 legislators have been in touch with the Maryland Department of the Environment, which has been coordinating with DC Water, WSSC, and the Environmental Protection Agency.
-Here is the latest update from DC Water.
+Here is the latest update from DC Water .
 CAMPAIGN NEWS Senator Sara Love and I have announced a series of meet-and-greets around the district.
 The next one is in the Town of Somerset on January 31st.
 Please join us if you are in the area (and the weather allows it).
 Email [email protected] for further information.
-MEMBER SPOTLIGHT This year, I am profiling a different non-Montgomery County legislator in my newsletter.
+MEMBER SPOTLIGHT ​This year, I am profiling a different non-Montgomery County legislator in my newsletter.
 This week, I want to introduce you to my friend, colleague, and committee vice chair, Delegate Michele Guyton.
 Michele represents a district in Baltimore County and is the leading voice in our state legislature for those with special needs differences, something important to me personally.
 Michele has a Ph.D. in developmental and social psychology, served on the state school board, and established the Maryland state Autism coordinator.
 She is also an actress and scuba diver (fun facts she wanted me to tell you).
 Maryland's new House Speaker has organized our House floor seats so that committee chairs and vice chairs sit next to each other, so Michele and I will be spending a lot of time together!
-Dear Friend: Later today, the Governor will introduce his proposed budget.
+The Budget is Coming 1/21/2026 Dear Friend: Later today, the Governor will introduce his proposed budget.
 This is the one item we need to address each legislative session and we are constitutionally required to have a balanced budget.
 That will be no easy task, as a projected structural deficit is anticipated.
 Some have asked me why there is a projected deficit--especially after last year's budget cuts and tax/fee increases.
 While there are several causes, a significant one is the changes wrought by federal reconciliation legislation, which has wonky impacts on our state tax collections.
-In any event, I will have more to say on the budget in future emails as it winds its way through the legislative process.
-COMMITTEE UPDATE Each year, the committees commence the session with legislative briefings.
+In any event, I will have more to say on the budget in future emails as it winds its way through the legislative process. ​COMMITTEE UPDATE Each year, the committees commence the session with legislative briefings.
 The Environment & Transportation Committee has numerous briefings scheduled, including multiple briefings on Maryland's energy landscape.
 Energy is a new policy area for the committee.
-Our first briefing was yesterday and you can watch it here.
-A list of other January briefings is here. ----- The committee held its organizational meeting last week, which you can watch here.
+Our first briefing was yesterday and you can watch it here .
+A list of other January briefings is here . ----- The committee held its organizational meeting last week, which you can watch here .
 DELEGATION UPDATE On most Fridays of the legislative session, the Montgomery County House Delegation meets.
 Last week, we heard from County Executive Elrich and County Council President Gonzalez.
-You can watch the discussion here.
+You can watch the discussion here .
 TRANSPORTATION NEWS Last week, Governor Moore met with the United States Transportation Secretary to discuss, among other issues, the American Legion Bridge.
 Following the meeting, a Joint Statement was issued raising the prospect of a public private partnership (P3) for bridge reconstruction.
-Read the statement here.
+Read the statement here .
 COMMUNITY NEWS Last week, Whitman High School was vandalized with hateful anti-Muslim graffiti.
 This is unacceptable and should be condemned across the board, just as the anti-Semitic graffiti at Whitman High School a few years ago was.
 We live in a diverse area and need to be welcoming to our neighbors. ----- A District 16 resident, Sosena Audain, is currently serving as the Montgomery County Youth Poet Laureate.
-You can learn about her work here.
+You can learn about her work here .
 CAMPAIGN NEWS Senator Sara Love and I have announced a series of meet-and-greets around the district.
 Please join us.
-Email [email protected] for further information.
-MEMBER SPOTLIGHT Over the last few years, I have tried to include something fun at the bottom of each of these weekly emails.
+Email [email protected] for further information. ​MEMBER SPOTLIGHT Over the last few years, I have tried to include something fun at the bottom of each of these weekly emails.
 Two years ago it was a discussion of a Maryland politics or history book.
 Last year it was a look at some of the items in my office.
 This year, I plan to spotlight a member of the Maryland General Assembly.
@@ -74,7 +70,7 @@ Prior to that, he had a career in local government in the town of Rock Hall.
 He is an avid fisherman and has served on the Environment & Transportation Committee during his entire tenure (I am his third chair).
 He is the senior Republican on the committee--the equivalent of a Ranking Member on Capitol Hill--and included in our leadership meetings,.
 Of course, we do not always agree, but have found common ground on many issues including cycling safety.
-Dear Friend: Today marks the start of the 2026 legislative session.
+The 2026 Legislative Session Begins 1/14/2026 Dear Friend: Today marks the start of the 2026 legislative session.
 Unlike the United States Congress, the Maryland General Assembly is part-time and meets for 90 days each year.
 I am excited to once again serve as chair of the House Environment and Transportation Committee, one of our seven committees.
 As I do each year with this first email of the legislative session, I will discuss my legislative agenda—the bills I will be primarily sponsoring—below.
@@ -99,7 +95,7 @@ Large Buildings for Tomorrow Act: Maryland has ambitious climate goals, but one 
 This bill ensures that buildings being built today that will have to comply with BEPS are built to do so, as it is much easier to build a net zero building than to retrofit one.
 Board of Public Works Climate Transparency Act: Inspired by former District 16 Delegate and State Treasurer Nancy Kopp, this legislation requires state agencies seeking spending approval before the Board of Public Works—the Governor, Comptroller, and State Treasurer who approve all contracts over a certain size—to share how the contract is consistent with our state climate goals.
 Senator Shelly Hettleman is the Senate sponsor.
-Local Boards of Education Transparency Act (HB 154): Continuing transparency in government work I have done for years with Senator Kagan, this legislation will require each local board of education across the state to video stream their meetings (something our county already does).
+Local Boards of Education Transparency Act (HB 154) : Continuing transparency in government work I have done for years with Senator Kagan, this legislation will require each local board of education across the state to video stream their meetings (something our county already does).
 Land Transfer Accountability Act: There are many ways our state needs to push back against the current federal administration.
 One proposal I am sponsoring is to make it more difficult for the federal government to dispose of property it owns in Maryland, which in the case of our area is primarily office buildings.
 The legislation is a two-pronged approach to require state government to sign off on a sale and disincentivize non-government buyers in the case of a federal fire sale.
@@ -109,16 +105,16 @@ STAY CONNECTED If you click reply to this email, a return message comes directly
 You can also email me at [email protected] or call me on my cell phone at 240-447-1175.
 I post regularly on Facebook (Marc.Korman.Campaign), Instagram delegate_marc_korman), Bluesky (@mkorman.bsky.social), Twitter/X (@mkorman), and Threads (@marc_korman).
 The Maryland General Assembly website has many great resources if you are interested in following our work over the next 90 days.
-I will highlight just a few: The general schedule is available here.
+I will highlight just a few: The general schedule is available here .
 You can look up legislation and track its progress here.
 Every bill introduced by the bill introduction deadline is guaranteed a hearing and before the hearing, a fiscal and policy note about the bill will be published.
-You can view the Committee Schedule, which will be regularly updated, here.
+You can view the Committee Schedule, which will be regularly updated, here .
 I also recommend a few different news resources for those of you interested in the legislature.
 In addition to the Washington Post and Banner, there are three websites that specialize in coverage of Annapolis: Maryland Reporter: http://marylandreporter.com/ Maryland Matters: https://marylandmatters.org/ Center Maryland: http://www.centermaryland.org/ LEGISLATIVE SESSION PREP I joined the I Hate Politics Podcast to preview some of the major issues of the legislative session.
-You can listen to the episode here.
-I also joined the Montgomery County Women's Democratic Club to discuss the state budget and you can watch that program here. ----- Pre-filed legislation--bills introduced before the legislature convenes--are now available online.
-Find the House bills here and the Senate bills here.
-This year, the House Environment & Transportation Committee I chair has 56 pre-filed bills. ----- I have previously shared the 2026 legislative session issue papers prepared by the Department of Legislative Services, but as a reminder, you can find them here.
+You can listen to the episode here .
+I also joined the Montgomery County Women's Democratic Club to discuss the state budget and you can watch that program here . ----- Pre-filed legislation--bills introduced before the legislature convenes--are now available online.
+Find the House bills here and the Senate bills here .
+This year, the House Environment & Transportation Committee I chair has 56 pre-filed bills. ----- I have previously shared the 2026 legislative session issue papers prepared by the Department of Legislative Services, but as a reminder, you can find them here .
 TRANSPORTATION NEWS As part of the state budget, the Maryland Transit Administration submits bimonthly reports on Purple Line progress.
 The most recent report is here: https://tinyurl.com/tw7xps28 The big update is they have moved the trail reopening date from spring to summer 2026.
 The state and vendor also have different views on the opening date (late 2027 versus early 2028).
@@ -126,7 +122,7 @@ COMMUNITY NEWS If you are struggling with bills and have a pet, here are some Mo
 We get a lot of questions about e-scooters and e-bikes, asking why they are not regulated.
 Well they are, but enforcement is definitely an issue, so I appreciate the Montgomery County Police Department putting together this explainer.
 Know the rules!
-CAMPAIGN NEWS I am pleased to share that the League of Conservation Voters has endorsed my campaign for re-election. | Author Write something about yourself.
+CAMPAIGN NEWS I am pleased to share that the League of Conservation Voters has endorsed my campaign for re-election.
+Author Write something about yourself.
 No need to be fancy, just an overview.
-Archives Categories |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+Archives July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 March 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 August 2024 July 2024 June 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 June 2014 May 2014 March 2014 February 2014 January 2014 September 2013 August 2013 July 2013 June 2013 May 2013 Categories All Legislative Session Update Monthly Update News Clip RSS Feed By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

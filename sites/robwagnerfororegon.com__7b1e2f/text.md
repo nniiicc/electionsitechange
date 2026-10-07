@@ -1,8 +1,4 @@
-I'm Oregon Senate President Rob Wagner.
+Menu About News Priorities Endorsements Donate Donate I'm Oregon Senate President Rob Wagner.
 Having grown up in Lake Oswego and raised my four kids here, the future of Oregon is personal for me.
-Latest News
-June 24, 2026
-News Article
-Officials make case for $600M in public funds for Moda Center renovations
-June 22, 2026
-News Article
+About Latest News August 31, 2026 News Article Eastern Oregon Housing Tour kicks off in Arlington Read news article → June 24, 2026 News Article Officials make case for $600M in public funds for Moda Center renovations Read news article → June 22, 2026 News Article Commentary: These are my wishes for America’s 250th birthday Read news article → Support My Campaign $5 $25 $50 $150 $250 Other Join our team Sign up for updates from Senate President Rob Wagner!
+First Name * First Name Last Name * Last Name Email * Email Zip Code * ZIP Code Subscribe Donate About News Priorities Endorsements Donate Paid for by friends of rob wagner (18396) Rob Wagner © # PO Box 1893 Lake Grove, OR 97035 Privacy Policy Accessibility Statement

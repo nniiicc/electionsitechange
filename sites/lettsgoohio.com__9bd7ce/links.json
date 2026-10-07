@@ -1,12 +1,62 @@
 [
-"http://facebook.com/LettsGoOhio",
-"https://facebook.com/LettsGoOhio",
-"https://instagram.com/lettsgoohio",
-"https://lettsgoohio.com/",
-"https://lettsgoohio.com/endorsements",
-"https://lettsgoohio.com/issues",
-"https://lettsgoohio.com/meet",
-"https://lettsgoohio.com/volunteer",
-"https://secure.actblue.com/donate/lettforohio",
-"https://tiktok.com/@lettsgoohio26"
+{
+"text": "About Me",
+"href": "https://lettsgoohio.com/meet"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lettforohio"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.actblue.com/donate/lettforohio"
+},
+{
+"text": "Endorsements",
+"href": "https://lettsgoohio.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "http://www.facebook.com/LettsGoOhio"
+},
+{
+"text": "Follow",
+"href": "https://lettsgoohio.com/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LettsGoOhio"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/lettsgoohio/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@lettsgoohio26"
+},
+{
+"text": "Issues",
+"href": "https://lettsgoohio.com/issues/"
+},
+{
+"text": "Lett’s Go Ohio!",
+"href": "https://lettsgoohio.com/"
+},
+{
+"text": "Meet Crystal",
+"href": "https://lettsgoohio.com/meet/"
+},
+{
+"text": "Volunteer",
+"href": "https://lettsgoohio.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://lettsgoohio.com/"
+},
+{
+"text": "campaign@lettforohio.com",
+"href": "mailto:campaign@LettForOhio.com"
+}
 ]

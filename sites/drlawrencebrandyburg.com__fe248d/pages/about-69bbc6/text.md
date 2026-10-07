@@ -1,8 +1,6 @@
-About
-Meet Dr.
+ADD ANYTHING HERE OR JUST REMOVE IT… Home About Contact Us Donate Now Menu About About Us Meet Dr.
 Lawrence D.
-Brandyburg
-Dr.
+Brandyburg Dr.
 Lawrence D.
 Brandyburg is the former Interim President of Bishop State Community College in Mobile, Alabama.
 Over his distinguished 27-year career with the Lone Star College System, Dr.
@@ -32,12 +30,9 @@ Brandyburg is the son of Lawrence and June Brandyburg.
 He is happily married to his high school sweetheart, Jerrolyn, and they have shared 40 years of marriage.
 Together, they have three children.
 Dr.
-Lawrence Brandyburg, Many Years of Proven Leadership
-- Commissioned Infantry Officer
-- Bronze Star for Service in Operation Desert Storm
-- Combat Infantryman Badge
-- Expert Infantryman Badge
-- Store Director Retail Industry
-- Chief Executive Officer Lone Star College Jakarta
-- Founding Vice President of Lone Star College University Park
-- Interim President of Bishop State Community College
+Lawrence Brandyburg, Many Years of Proven Leadership Commissioned Infantry Officer Bronze Star for Service in Operation Desert Storm Combat Infantryman Badge Expert Infantryman Badge Store Director Retail Industry Chief Executive Officer Lone Star College Jakarta Founding Vice President of Lone Star College University Park Interim President of Bishop State Community College Newsletter mailchimp Email Address....
+Subscribe Email drlawrencebrandyburg.com Email info@drlawrencebrandyburg.com Phone 713-927-9058 713-927-9058 Request With Online Form ©# Dr.
+Lawrence D.
+Brandyburg Campaign .
+All Rights Reserved.
+Designed & Developed By Web Design Velocity Support Us Home About Contact Us Donate Now

@@ -1,6 +1,5 @@
-Strengthening Unions
-As the former Chief of Staff to Secretary Marty Walsh in the Department of Labor, I understand that when we bring unions to the table, workers and businesses win.
-- I will always fight to ensure that unions are being fairly represented, and that we continue to expand opportunities for good-paying, union-backed jobs throughout the district.
-- I will stand by unions as they are negotiating for fair contracts.
-- If elected, I would be a champion of the PRO Act.
-When unions do well, so do businesses.
+Skip navigation menu Home Meet Dan Endorsements Press Issues Donate Issues Home Meet Dan Endorsements Press Issues Donate Issues Fighting Trump's Corruption Protecting Democracy Abolish Trump's ICE An Affordable Massachusetts Winning Back Our Country Healthcare Affordable Housing Strengthening Unions Climate Change Reproductive Rights Racial Justice Education Gun Safety LGBTQ+ RIGHTS Transportation Strengthening Unions As the former Chief of Staff to Secretary Marty Walsh in the Department of Labor, I understand that when we bring unions to the table, workers and businesses win.
+I will always fight to ensure that unions are being fairly represented, and that we continue to expand opportunities for good-paying, union-backed jobs throughout the district.
+I will stand by unions as they are negotiating for fair contracts.
+If elected, I would be a champion of the PRO Act .
+When unions do well, so do businesses. letsgo@kohforcongress.com For press inquiries, email press@kohforcongress.com Powered by RUN! website builder Paid for by the Committee to Elect Dan Koh You need to enable JavaScript to run this app.

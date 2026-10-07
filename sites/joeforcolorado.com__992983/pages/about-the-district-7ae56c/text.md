@@ -1,7 +1,12 @@
-The Second Congressional District stretches from Colorado’s Western Slope to Northern Colorado and the Wyoming border, encompassing a beautiful and dynamic region that spans 12 counties and over 60 towns and cities.
+Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up Get Involved Donate Now We need your help!
+Donate now to support Joe Neguse's fight for all Coloradans!
+Get Involved Donate Now Meet Joe Endorsements On the Issues Campaign Updates About the District Caucus Sign Up About the District The Second Congressional District stretches from Colorado’s Western Slope to Northern Colorado and the Wyoming border, encompassing a beautiful and dynamic region that spans 12 counties and over 60 towns and cities.
 Home to Fort Collins, Longmont, Boulder, Lafayette, and Erie, the district is larger than eight states (including Massachusetts & New Jersey!), and captures the essence of Colorado’s stunning landscapes.
 From rural, farming and agricultural communities to the majestic peaks of the Rocky Mountains, the district’s geographical diversity includes the Western Slope and headwaters of the Colorado River, thriving communities across Northern Colorado, and iconic mountain towns, including Breckenridge, Estes Park, Vail, Idaho Springs, Eagle, Walden, Black Hawk, Winterpark, Gypsum and Steamboat Springs.
 The district is home to four National Forests — Arapaho, Roosevelt, White River and Routt — as well as the iconic Rocky Mountain National Park and the Camp Hale-Continental Divide National Monument (which Rep.
 Neguse worked to secure).
 The district includes 12 counties: Boulder, Broomfield, Clear Creek, Eagle, Gilpin, Grand, Jackson, Jefferson, Larimer, Routt, Summit, and Weld.
 It is also home to Colorado’s two largest research institutions — Colorado State University (CSU) and the University of Colorado (CU) — and 13 Federal laboratories and research facilities, including the National Oceanic and Atmospheric Administration (NOAA) and National Renewable Energy Laboratory (NREL).
+Share I’m fighting for the values we share, but I can’t do it alone.
+Chip In for Joe $# $# $# $# $# Other *If you've saved your information with ActBlue Express, your donation will go through immediately.
+Joe Neguse for Congress Fighting for the American Dream Or Donate Now [email protected] Privacy Policy Contact Us Paid for by Joe Neguse for Congress

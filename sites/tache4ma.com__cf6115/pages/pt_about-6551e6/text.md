@@ -1,5 +1,4 @@
-CONHEÇA JOE TACHE
-Joe Tache é um trabalhador juvenil, organizador comunitário e socialista baseado em Boston.
+0 Skip to Content Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE CONHEÇA JOE TACHE Joe Tache é um trabalhador juvenil, organizador comunitário e socialista baseado em Boston.
 Por mais de dez anos, Joe tem sido parte de —e tem sido moldado por— organizações e movimentos em Massachusetts.
 Joe tem trabalhado ao lado de ativistas dedicados em movimentos contra a exploração de trabalhadores, guerra, brutalidade policial, gentrificação e muitas outras questões.
 Ele dedica grande parte de seu tempo a escrever e educar sobre a causa raiz desses problemas: o capitalismo.
@@ -20,3 +19,5 @@ Joe tem servido como um voluntário fundamental (e entre 2022-2024, membro da eq
 Ele também apoiou o crescimento do PSL e do movimento socialista em todo Massachusetts: em Amherst, Lowell, Springfield, Worcester e além.
 Durante este tempo, Joe também organizou e ministrou aulas de educação política sobre tópicos cruciais como a história negra e o movimento pelos direitos dos imigrantes, enfatizando a necessidade de compreendermos nossa história para que possamos moldar nosso futuro coletivo.
 Moldado por uma década de experiência na luta, Joe Tache está concorrendo a Senador dos EUA em Massachusetts, determinado não apenas a construir uma campanha bem-sucedida, mas a construir um partido e um movimento da classe trabalhadora capazes de conquistar a sociedade que todos merecemos.
+Contact Us Privacy Policy For press inquiries, please contact press@tache4ma.com Press Kit PAID FOR BY JOE TACHE FOR SENATE ©# Joe Tache for Senate.
+All rights reserved.

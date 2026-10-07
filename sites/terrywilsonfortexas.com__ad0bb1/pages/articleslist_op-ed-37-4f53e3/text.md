@@ -1,4 +1,4 @@
-Every parent sends their child to school with the expectation of safety, respect, and every opportunity for success.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements February 16, 2026 Jeff Frazier Op-Ed #37 The Teacher's Bill of Rights February 16, 2026 Jeff Frazier Every parent sends their child to school with the expectation of safety, respect, and every opportunity for success.
 As your state representative, I work to ensure that changes reflect the priorities of families and educators here in Williamson County.
 From strengthening parental involvement to closing gaps in student safety, it is time to restore trust in our schools.
 Parents feel left out of the decision-making process surrounding their child’s instruction and teachers are asked to take on responsibilities beyond their role.
@@ -68,9 +68,20 @@ My commitment is to keep listening to families in Williamson County and ensure t
 Parents have more access to information and a stronger voice when concerns arise.
 Teachers gain role clarity and protection against unbased accusations.
 Students gain safer schools and classrooms focused on learning.
-Our county is growing quickly, and with growth comes higher expectations for our schools
-I will continue pressing for clear guidance from state agencies, listening to concerns, and advocating for policies that keep students safe, and families informed.
+Our county is growing quickly, and with growth comes higher expectations for our schools I will continue pressing for clear guidance from state agencies, listening to concerns, and advocating for policies that keep students safe, and families informed.
 Education is too important to leave to chance.
 In Williamson County, we have a tradition of supporting our schools together.
 This legislation builds this tradition by giving greater transparency, respect, and protection.
 By working together, we can ensure classrooms remain places where children are safe, families are valued and learning stays at the center.
+February 16, 2026 Jeff Frazier Jeff Frazier Op-Ed #38 Higher Education Reform Op-Ed #36 Weathering the Storm Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

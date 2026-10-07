@@ -1,4 +1,4 @@
-I spent the past week in Washington, DC, advocating for students in meetings with multiple Congressional offices and federal agencies.
+Skip to content Home About Priorities News Contact Volunteer Donate February 11, 2026 I spent the past week in Washington, DC, advocating for students in meetings with multiple Congressional offices and federal agencies.
 When we arrived, we weren’t even sure if the agency meetings would happen, due to the government shutdown.
 The votes to reopen came on Tuesday.
 Our time with Rep.
@@ -12,7 +12,8 @@ I attended due to my role as past president of WSSDA, the state association for 
 Along with our executive director, we were the only Eastern Washingtonians on the trip.
 We had a cordial meeting with Rep.
 Baumgartner’s staff.
-One of the things I tried to communicate to both Eastern Washington offices is how damaging the federal tax credits for education contained within H.R. 1 could be to small, rural districts, if public schools can’t access those resources and the whole thing becomes a backdoor voucher program.
+One of the things I tried to communicate to both Eastern Washington offices is how damaging the federal tax credits for education contained within H.R.
+1 could be to small, rural districts, if public schools can’t access those resources and the whole thing becomes a backdoor voucher program.
 It was not an easy conversation on which to find common ground, but we have to keep raising the issue to protect rural communities and their schools.
 Our next meeting was with staff to Rep.
 Gluesenkamp Perez, one of the leading proponents in Congress for expanding career technical education (CTE) opportunities throughout K-12 education.
@@ -28,3 +29,4 @@ This was my fourth year making the DC advocacy trip for Washington schools.
 I’m always reminded of the differences with Olympia.
 Everything in DC is slower, and much more remote, but even small changes at that level can have huge impacts for students across the country.
 And as always, it takes working with everyone on every side to make any progress on making things better for kids.
+Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

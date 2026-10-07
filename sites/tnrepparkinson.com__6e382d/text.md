@@ -1,12 +1,13 @@
 Are you looking for a summer internship?
 Sign up for our newsletter!
-Signed in as:
-filler@godaddy.com
-Sign up to hear from our rep in Memphis about specials, sales, and events.
-State Rep.
+GET TICKETS TO ATTEND MEMPHIANS DESERVE REPRESENTATION OF THEIR CHOOSING MEMPHIANS DESERVE REPRESENTATION OF THEIR CHOOSING MEMPHIANS DESERVE REPRESENTATION OF THEIR CHOOSING MEMPHIANS DESERVE REPRESENTATION OF THEIR CHOOSING THE STATE OF TENNESSEE MUST RECOGNIZE MEMPHIS AND SHELBY COUNTY'S VALUE THE STATE OF TENNESSEE MUST RECOGNIZE MEMPHIS AND SHELBY COUNTY'S VALUE THE STATE OF TENNESSEE MUST RECOGNIZE MEMPHIS AND SHELBY COUNTY'S VALUE THE STATE OF TENNESSEE MUST RECOGNIZE MEMPHIS AND SHELBY COUNTY'S VALUE THE CITIZENS OF MEMPHIS AND SHELBY COUNTY ARE TENNESSEE'S MVP THE CITIZENS OF MEMPHIS AND SHELBY COUNTY ARE TENNESSEE'S MVP THE CITIZENS OF MEMPHIS AND SHELBY COUNTY ARE TENNESSEE'S MVP THE CITIZENS OF MEMPHIS AND SHELBY COUNTY ARE TENNESSEE'S MVP WE WILL NEVER ALLOW ANYONE TO DIMINISH OUR VALUE TO THE STATE OF TENNESSEE WE WILL NEVER ALLOW ANYONE TO DIMINISH OUR VALUE TO THE STATE OF TENNESSEE WE WILL NEVER ALLOW ANYONE TO DIMINISH OUR VALUE TO THE STATE OF TENNESSEE WE WILL NEVER ALLOW ANYONE TO DIMINISH OUR VALUE TO THE STATE OF TENNESSEE SAFETY AFFORDABILITY QUALITY EDUCATION AFFORDABLE HEALTHCARE SAFETY AFFORDABILITY QUALITY EDUCATION AFFORDABLE HEALTHCARE SAFETY AFFORDABILITY QUALITY EDUCATION AFFORDABLE HEALTHCARE SAFETY AFFORDABILITY QUALITY EDUCATION AFFORDABLE HEALTHCARE Home Donate About Our Agenda News Video Shop Blog Contact Us Join our email list!
+More Home Donate About Our Agenda News Video Shop Blog Contact Us Join our email list!
+Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home Donate About Our Agenda News Video Shop Blog Contact Us Join our email list!
+Account Orders My Account Sign out Sign In Orders My Account Subscribe Sign up to hear from our rep in Memphis about specials, sales, and events.
+Email Sign up Connect With Us Photo Gallery State Rep.
 Antonio Parkinson speaking at the reopening of his former fire station where he worked as a lieutenant.
+Donate About Our Agenda Video Shop Blog Terms and Conditions Join our email list!
 State Rep.
-Antonio Parkinson
-POB 281453
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Antonio Parkinson POB 281453 615-741-4575 Copyright © # State Rep.
+Antonio Parkinson - All Rights Reserved.
+Powered by

@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.nathansosa.com/community-involvement",
- "paid_for_by": null,
+ "fingerprint": "7ced97b25d2acb3a269a1526c490b5e5aceff944",
+ "format": 3,
+ "paid_for_by": "",
  "title": "COMMUNITY INVOLVEMENT | Nathan for Oregon",
  "years_mentioned": [
   "2015",
@@ -10,6 +12,7 @@
   "2019",
   "2020",
   "2021",
-  "2022"
+  "2022",
+  "2035"
  ]
 }

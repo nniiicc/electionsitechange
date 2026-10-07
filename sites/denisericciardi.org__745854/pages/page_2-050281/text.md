@@ -1,35 +1,17 @@
-Ricciardi Named Legislator of the Year by the New England Water Works Association
-There is also a write up in Patch.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi New Hampshire Senate District 9 Denise Ricciardi Thank You for Re-Electing Me!
+New Hampshire Senate District 9 Glendi 2026 and SB 526 Sep 23, 2026 Every year, Glendi brings together people in Manchester and from across our state to celebrate our vibrant Greek community and to enjoy delicious food.
+Fitting that we celebrated establishing a New Hampshire-Greece Trade Council at the opening of this beloved festival... read more Ricciardi Named Legislator of the Year by the New England Water Works Association Sep 16, 2026 There is also a write up in Patch.
 Senator Denise Ricciardi of Bedford was recently named Legislator of the Year by the New England Water Works Association (NEWWA) for championing public policy that ensures safe drinking water for communities across the state.
-This...
-Hillsborough County Agricultural Fair
-I was pleased to visit the Hillsborough County Agricultural Fair and greet some of my constituents.
-New Boston Beacon – The Capitol Report
-by Senator Denise Ricciardi, District 9, New Boston Beacon September 2026 Edition It has been an honor to represent the 13 towns of Senate District 9 for the past six years.
-When I first ran for office, I promised to bring common sense to Concord, work across the...
-SB 206 Reduces Cell Time for Students
-Last year, we passed a law (SB 206) to get cell phones out of the classroom, and the results show our efforts are paying off.
+This... read more Hillsborough County Agricultural Fair Sep 13, 2026 I was pleased to visit the Hillsborough County Agricultural Fair and greet some of my constituents. read more New Boston Beacon – The Capitol Report Sep 2, 2026 by Senator Denise Ricciardi, District 9, New Boston Beacon September 2026 Edition It has been an honor to represent the 13 towns of Senate District 9 for the past six years.
+When I first ran for office, I promised to bring common sense to Concord, work across the... read more SB 206 Reduces Cell Time for Students Aug 27, 2026 Last year, we passed a law (SB 206) to get cell phones out of the classroom, and the results show our efforts are paying off.
 Teachers say students are more focused and less distracted.
 I’m so happy to see my bill producing such positive results!
-According to a recent...
-HB 1469 Supports Women
-I’m very proud to see HB 1469, a bill I co-sponsored, and several important new protections for survivors of domestic violence, sexual assault, and human trafficking signed into law.
-Working alongside the New Hampshire Coalition Against Domestic and Sexual Violence,...
-Ricciardi Visits Troy
-On her tour of the 13 towns in District 9, Senator Ricciardi visits the town of Troy to hear about their concerns.
-Ricciardi Visits New Boston
-Senator Ricciardi regularly visits all the 13 towns in her district to listen about their needs and struggles.
-This was in New Boston.
-Senator Ricciardi, Select Board Discusses Challenges Facing Greenfield
-State Sen.
+According to a recent... read more HB 1469 Supports Women Aug 27, 2026 I’m very proud to see HB 1469, a bill I co-sponsored, and several important new protections for survivors of domestic violence, sexual assault, and human trafficking signed into law.
+Working alongside the New Hampshire Coalition Against Domestic and Sexual Violence,... read more Ricciardi Visits Troy Aug 27, 2026 On her tour of the 13 towns in District 9, Senator Ricciardi visits the town of Troy to hear about their concerns. read more Ricciardi Visits New Boston Aug 27, 2026 Senator Ricciardi regularly visits all the 13 towns in her district to listen about their needs and struggles.
+This was in New Boston. read more Senator Ricciardi, Select Board Discusses Challenges Facing Greenfield Aug 27, 2026 State Sen.
 Denise Ricciardi met with the Greenfield Select Board on Wednesday during her annual visit to discuss the mounting pressures facing New Hampshire’s smallest municipalities, including volunteer shortages, state mandates, and rising property taxes.
-Read more...
-Sen.
-Ricciardi’s Work For Towns Deserves Our Support
-Sen.
+Read more... read more Sen.
+Ricciardi’s Work For Towns Deserves Our Support Aug 6, 2026 Sen.
 Ricciardi is making a lasting contribution to NH’s economy To the Editor: I want to take this opportunity to support Denise Ricciardi’s re-election to the state Senate.
-Denise is a leader who gets the job done for taxpayers rather than just empty talk and...
-How to Lower Property Taxes Without and Income Tax
-Matt McLaughlin's "three-step plan" to lower property taxes may sound good as a political soundbite, but the math does not hold up which makes higher taxes inevitable.
-Voters in District 9 deserve numbers that add up without slamming their wallets.
-First: The State...
+Denise is a leader who gets the job done for taxpayers rather than just empty talk and... read more « Older Entries Next Entries » Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110

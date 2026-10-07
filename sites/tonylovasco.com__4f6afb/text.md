@@ -1,11 +1,5 @@
-We all know Missouri is a great place to live and work.
+Skip to header Skip to main navigation Skip to main content Skip to footer Tony Lovasco for MO State Representative Main navigation Toggle main menu Home About Me Issues Donate (opens in new tab) We all know Missouri is a great place to live and work.
 But like all good things, our state must be protected from the misguided people that wish to change our way of life.
 Individual freedom and liberty lie at the heart of any successful society, and as citizens we must always be vigilant to assure these values are preserved.
 Join me in my efforts to support these great ideals.
-I pledge to:
-- Support and Defend the Constitution
-- Protect Private Property Rights
-- Reduce Wasteful Spending
-- Respect the Free Market
-- Increase Government Transparency
-- Prioritize Road & Infrastructure Safety
+I pledge to: Support and Defend the Constitution Protect Private Property Rights Reduce Wasteful Spending Respect the Free Market Increase Government Transparency Prioritize Road & Infrastructure Safety ...read more about my positions Former Committees Vice Chair: Government Accountability Ways and Means General Laws Government Efficiency and Downsizing Joint Committee on Tax Policy My Editorials The Hill Op-Ed on Red Flag Laws Washington Examiner Op-Ed on Civil Asset Forfeiture StL Post Dispatch Op-Ed on the "GM Deal" Copyright © # - # Tony Lovasco -- Paid for by Citizens for Lovasco, Dan Rakers Treasurer

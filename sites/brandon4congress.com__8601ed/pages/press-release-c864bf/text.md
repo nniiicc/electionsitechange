@@ -1,8 +1,5 @@
-Brandon Wade for Congress
-For Immediate Release
-Contact: Tom O’Connor September 4, 2024
-918-260-0830
-Brandon Wade who is running for the 2nd District Congressional seat against Josh Brecheen, said this morning’s mass shooting at Apalachee High School in Winder, Georgia where two teachers and two students were killed and at least nine others were wounded is another outrageous example of our current do-nothing Congress.
+Site is Loading, Please wait...
+Skip to content Press Release | News | Past Events | Input From The Voters | Contact Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Menu Close Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Search this website Brandon Wade for Congress For Immediate Release Contact: Tom O’Connor September 4, 2024 918-260-0830 Tomolc911@gmail.com Brandon Wade who is running for the 2 nd District Congressional seat against Josh Brecheen, said this morning’s mass shooting at Apalachee High School in Winder, Georgia where two teachers and two students were killed and at least nine others were wounded is another outrageous example of our current do-nothing Congress.
 We need more than “Let’s keep the families of the victims in our prayers.” So far this year there have been 45 school shootings.
 Overall, since the year began, a total of 527 people have been killed and 1,755 people have been wounded in 432 mass shootings.
 How many more shootings do we need before we demand tougher gun laws.
@@ -18,10 +15,7 @@ They and their families will carry mental scars for the rest of their lives.
 This is just plain wrong, and we need to ACT not Talk.
 “It is often said that a crazy person does the same thing over and over again expecting a different outcome each time.” That is exactly what Republicans in Congress are doing and so is Josh Brecheen.
 Brandon Wade said, “Put me in this congressional seat and I will act to pass sensible gun laws without interfering with the publics right to own a gun.” We need Brandon Wade in Congress.
-Press Release on Brecheen’s Plans for Budget
-Congressional candidate Wade calls out Brecheen
-By News Staff on Wednesday, August 28, 2024
-BARTLESVILLE – Democrat Congressional candidate Brandon Wade is calling out his Congressional opponent for his hypocrisy on the issues listed on his webpage.
+Press Release on Brecheen’s Plans for Budget Congressional candidate Wade calls out Brecheen By News Staff on Wednesday, August 28, 2024 BARTLESVILLE – Democrat Congressional candidate Brandon Wade is calling out his Congressional opponent for his hypocrisy on the issues listed on his webpage.
 He states that “We must reduce Washington’s influence in our daily lives” yet he supports a government ban on a woman’s right to choose her own health care.
 Brecheen brags that he helped end “Common Core” in education for Oklahoma and says there is no role for the Federal Government in Education.
 Oklahoma ranks 49th in Education and Health Care out of 50 states.
@@ -43,3 +37,4 @@ Wake up Oklahoma we can do better than this.
 Brandon Wade is committed to do whatever it takes to support the Harris/Walz democratic ticket and get our government back to decency and ethical thinking in Washington.
 We need to continue a government that works for the real working people in this country like President Biden has done, not the ultra- rich who already have more than they can ever use, but still want more and more.
 Let us continue to support infrastructure, health care, childcare, and all of those things that have us living in the best economy in the entire world.
+Donate Contact Calendar/Events American Dream Act Endorsements Press Release Copyright # - Brandon Wade for Congress

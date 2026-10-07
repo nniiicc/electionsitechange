@@ -1,17 +1,11 @@
-Elect
-Patsy
-Carvalho
-Assembly District 21
-Meet Patsy Carvalho
-Patsy Carvalho is a proud Nevada native, educator, and leader with deep roots in Clark County.
-Having attended elementary, middle, and high school in Clark County before continuing her education at UNLV, Patsy has spent much of her life learning, working, and serving within the community she calls home.
-Her commitment to education extends beyond the classroom.
+top of page HOME ABOUT PLATFORM VOLUNTEER CONTACT Elect Patsy Carvalho Assembly District 21 Meet Patsy Carvalho Patsy Carvalho is a proud Nevada native, educator, and leader with deep roots in Clark County.
+Having attended elementary, middle, and high school in Clark County before continuing her education at UNLV, Patsy has spent much of her life learning, working, and serving within the community she calls home. ​ Her commitment to education extends beyond the classroom.
 Patsy holds a bachelor’s degree in English with a concentration in creative writing, a master’s degree in English with a concentration in creative writing, and a second master’s degree in English with a concentration in rhetoric.
-She is currently pursuing a Ph.D. in Business Administration with a specialization in homeland security, leadership, and policy.
-Working closely with students and families every day has given Patsy firsthand insight into the challenges facing her community and the areas where systems can better serve the people who depend on them.
+She is currently pursuing a Ph.D. in Business Administration with a specialization in homeland security, leadership, and policy. ​ Working closely with students and families every day has given Patsy firsthand insight into the challenges facing her community and the areas where systems can better serve the people who depend on them.
 Through her work in education and service in her church, she remains focused on strengthening families, improving schools, and addressing issues affecting everyday Nevadans, including the cost of living, homelessness, and access to quality healthcare.
-Putting Students & Parents First
-Strengthening the Economy & Supporting Working Families
-Expanding Access to Affordable Healthcare
-Promoting Public Safety & Addressing Homelessness
-Higher Education Accountability
+Putting Students & Parents First Strengthening the Economy & Supporting Working Families Expanding Access to Affordable Healthcare Promoting Public Safety & Addressing Homelessness Higher Education Accountability Volunteer to help Patsy's campaign today!
+First Name * Last Name * Email * Phone * I will help Patsy's campaign in the following ways: Canvassing Fundraising Host an Event Phone Banking Display Yard Sign Raise Contributions Work at a Polling Place on Election Day Send Campaign Materials Run Errands Submit ABOUT Patsy Carvalho is a proud Nevada native, educator, and leader who works closely with students and families every day, giving her firsthand insight into the challenges facing her community and where systems need improvement.
+Through her work in education and service in her church, she is committed to strengthening families, improving schools, and addressing key issues like the cost of living, homelessness, and access to quality healthcare.
+MORE INFO HOME ABOUT PLATFORM VOLUNTEER CONTACT CONTACT Patsy Carvalho 702.502.1275 ​ Carvalho4Nevada@gmail.com ​ VOLUNTEER Copyright © #.
+All Rights Reserved.
+Paid for by Friends for Patsy Carvalho bottom of page

@@ -1,7 +1,22 @@
 [
-"https://scotmatayoshi.com/",
-"https://scotmatayoshi.com/copy-of-serving-our-community",
-"https://scotmatayoshi.com/copy-of-serving-our-community-1",
-"https://scotmatayoshi.com/the-project",
-"https://secure.actblue.com/donate/friends-of-scot-matayoshi-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-scot-matayoshi-1"
+},
+{
+"text": "Home",
+"href": "https://www.scotmatayoshi.com"
+},
+{
+"text": "Priorities for District 49",
+"href": "https://www.scotmatayoshi.com/copy-of-serving-our-community"
+},
+{
+"text": "Serving Our Community",
+"href": "https://www.scotmatayoshi.com/the-project"
+},
+{
+"text": "Volunteer",
+"href": "https://www.scotmatayoshi.com/copy-of-serving-our-community-1"
+}
 ]

@@ -1,5 +1,7 @@
-Scott Petersen: Nebraska Should Act Now on Citizenship Verification
-Nebraska should act now and it should have been acting all along.
+top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting Vulnerable Voters Real Election Integrity Endorsements News Videos Candidate Spotlight Play It Right Are They Truly Secure?
+Where Does Your Election Data Go?
+NBC News Investigation Stealing Military Votes?
+Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE Scott Petersen: Nebraska Should Act Now on Citizenship Verification Sep 25 2 min read Nebraska should act now and it should have been acting all along.
 Today, the United States Supreme Court, in a 6–3 decision, allowed the Trump Administration to move forward with its expanded SAVE system while the underlying litigation continues.
 The ruling restores access to a federal tool states can use to help verify the citizenship status of individuals on voter rolls.
 This is not a brand-new tool.
@@ -26,3 +28,8 @@ Every eligible Nebraskan should be able to vote, and every Nebraskan should be a
 We have the tools.
 We have the responsibility.
 Let’s finish the work.
+Read the September 25 Supreme Court decision Tags: Scott Petersen Election Integrity Nebraska Secretary of State Nebraska Elections Election Security Citizenship Verification Voter Rolls SAVE Supreme Court Federal Election Law Noncitizen Voting Voter List Maintenance Voter Registration Recent Posts See All Governor Jim Pillen Endorses Scott Petersen for Nebraska Secretary of State Nebraska Governor Jim Pillen has endorsed Scott Petersen for Secretary of State, saying Petersen will be a strong partner in expanding opportunities for Nebraska businesses, producers and communities.
+Nebraska Farm Bureau PAC Endorses Scott Petersen for Nebraska Secretary of State OMAHA, Neb. — Scott Petersen, Republican nominee for Nebraska Secretary of State, today announced the endorsement of the Nebraska Farm Bureau Political Action Committee.
+The endorsement adds the suppo Nebraska Attorney General Mike Hilgers Endorses Scott Petersen for Secretary of State Nebraska Attorney General Mike Hilgers has endorsed Scott Petersen for Secretary of State, praising Petersen’s commitment to the rule of law, transparent elections, competent administration and public RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
+All Rights Reserved.
+Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

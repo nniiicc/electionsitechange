@@ -1,9 +1,42 @@
 [
-"https://facebook.com/reelectjudgearrowood",
-"https://instagram.com/judgejohnarrowood",
-"https://keepjudgearrowood.com/",
-"https://keepjudgearrowood.com/information",
-"https://keepjudgearrowood.com/privacypolicy",
-"https://secure.actblue.com/donate/arrowood",
-"https://x.com/JudgeArrowood"
+{
+"text": "About",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "Contact",
+"href": "mailto:info@keepjudgearrowood.com?subject=Website+Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/arrowood"
+},
+{
+"text": "Home",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "Information",
+"href": "https://www.keepjudgearrowood.com/information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.keepjudgearrowood.com/privacypolicy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/reelectjudgearrowood"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/judgejohnarrowood/"
+},
+{
+"text": "[image: Judge John Arrowood for NC Court of Appeals logo]",
+"href": "https://www.keepjudgearrowood.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/JudgeArrowood"
+}
 ]

@@ -1,3 +1,9 @@
+0 Skip to Content ABOUT PRIORITIES GET CONNECTED Open Menu Close Menu ABOUT PRIORITIES GET CONNECTED Open Menu Close Menu ABOUT PRIORITIES GET CONNECTED Meet Shelley Lowcountry Native Community Advocate Business Executive Ministry Leader Being born and raised in Beaufort, SC, Shelley Gay Yuhas has always highly valued her Lowcountry heritage.
+She grew up enjoying the waters of Battery Creek, the shores of Hunting Island, and community values that make Beaufort so special.
+The values instilled in her in Beaufort have led her to being a dedicated Community Advocate with a heart for promoting honor, integrity, and neighbors helping neighbors.
+Shelley’s experience as a Business Executive for over 30 years has positioned her to empower and develop those around her.
+Service has always been a core value within Shelley’s life, dedicated wife, mom of four and ministry leader.
+Her upbringing, experience, and heart for people set Shelley apart as the perfect representative for the community that made her who she is today.
 Born and raised in Beaufort, SC, Shelley branched out to live in Charleston, SC for 31 years, though her heart has always remained for Beaufort.
 While in Charleston, Shelley and her husband raised four children, now grown, married, and they have seven grandchildren.
 In 2022, they moved back to their hometown and now reside on Fripp Island, SC.
@@ -20,3 +26,5 @@ Past leadership roles include, elder, vestry member and women’s ministry leade
 Currently, she serves on the board of the Beaufort County Awareness Group, the Sheldon Community Alliance, and volunteers weekly at the St.
 Francis Center on St.
 Helena Island.
+Vote for Shelley Gay Yuhas on November 3, 2026 Am I in District 121?
+SC Voter Website

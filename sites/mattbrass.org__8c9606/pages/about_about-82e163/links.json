@@ -1,18 +1,70 @@
 [
-"http://senate.ga.gov/senators/Documents/PrintBios/BioBrassMatt4907.pdf",
-"http://senate.ga.gov/senators/en-US/member.aspx?Member=4907&Session=25",
-"http://stoneridgegroup.com/",
-"https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3",
-"https://facebook.com/Matt-Brass-for-State-Senate-173320099416718?fref=ts",
-"https://mattbrass.org/",
-"https://mattbrass.org/about",
-"https://mattbrass.org/about/about",
-"https://mattbrass.org/about/about/@vote_matt_brass",
-"https://mattbrass.org/about/committee-service",
-"https://mattbrass.org/about/issues",
-"https://mattbrass.org/about/sponsored-legislation",
-"https://mattbrass.org/news",
-"https://mattbrass.org/newsletter-updates",
-"https://mattbrass.org/press-kit",
-"https://twitter.com/@vote_matt_brass"
+{
+"text": "About",
+"href": "https://mattbrass.org/about/about/"
+},
+{
+"text": "Click here for official Bio",
+"href": "http://www.senate.ga.gov/senators/Documents/PrintBios/BioBrassMatt4907.pdf"
+},
+{
+"text": "Click here for official Senate Page",
+"href": "http://www.senate.ga.gov/senators/en-US/member.aspx?Member=4907&Session=25"
+},
+{
+"text": "Committee Service",
+"href": "https://mattbrass.org/about/committee-service/"
+},
+{
+"text": "Home",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "Issues",
+"href": "https://mattbrass.org/about/issues/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattbrass.org/about/"
+},
+{
+"text": "News",
+"href": "https://mattbrass.org/news/"
+},
+{
+"text": "Newsletter Updates",
+"href": "https://mattbrass.org/newsletter-updates/"
+},
+{
+"text": "Press Kit",
+"href": "https://mattbrass.org/press-kit/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mattbrass.org/about/sponsored-legislation/"
+},
+{
+"text": "Volunteer",
+"href": "https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3"
+},
+{
+"text": "[image]",
+"href": "http://www.stoneridgegroup.com"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "[no text]",
+"href": "https://mattbrass.org/about/about/@vote_matt_brass"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Matt-Brass-for-State-Senate-173320099416718/?fref=ts"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/@vote_matt_brass"
+}
 ]

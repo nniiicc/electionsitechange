@@ -1,12 +1,58 @@
 [
-"https://delores.vote/",
-"https://delores.vote/about",
-"https://delores.vote/cdn-cgi/l/email-protection",
-"https://delores.vote/es/privacidad",
-"https://delores.vote/map",
-"https://delores.vote/platform",
-"https://delores.vote/privacy-policy",
-"https://delores.vote/vote",
-"https://facebook.com/FrankSteeleAZ",
-"https://instagram.com/steeleforazsenate"
+{
+"text": "EN",
+"href": "https://delores.vote/privacy-policy/"
+},
+{
+"text": "ES",
+"href": "https://delores.vote/es/privacidad/"
+},
+{
+"text": "Early Voting Starts October 7th – Make a Plan to Vote!",
+"href": "https://delores.vote/vote/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/FrankSteeleAZ/"
+},
+{
+"text": "Home",
+"href": "https://delores.vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steeleforazsenate/"
+},
+{
+"text": "Map",
+"href": "https://delores.vote/map/"
+},
+{
+"text": "Meet Delores",
+"href": "https://delores.vote/about/"
+},
+{
+"text": "Platform",
+"href": "https://delores.vote/platform/"
+},
+{
+"text": "Vote",
+"href": "https://delores.vote/vote/"
+},
+{
+"text": "[email protected]",
+"href": "https://delores.vote/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Delores McLaughlin for Arizona State House LD24 Logo in Maroon]",
+"href": "https://delores.vote"
+},
+{
+"text": "[image: Delores McLaughlin for Arizona State House LD24 Logo in White]",
+"href": "https://delores.vote"
+},
+{
+"text": "privacy policy here",
+"href": "https://delores.vote/privacy-policy/"
+}
 ]

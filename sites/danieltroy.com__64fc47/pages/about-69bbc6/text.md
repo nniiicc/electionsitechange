@@ -1,5 +1,4 @@
-About
-Dan Troy is a highly qualified State Representative, serving the citizens of both Lake and Cuyahoga Counties honestly and effectively.
+0 Skip to Content About Issues Get Involved Endorsements Proven Record Funding DONATE Open Menu Close Menu About Issues Get Involved Endorsements Proven Record Funding DONATE Open Menu Close Menu About Issues Get Involved Endorsements Proven Record Funding DONATE About Dan Troy is a highly qualified State Representative, serving the citizens of both Lake and Cuyahoga Counties honestly and effectively.
 He is respected on both sides of the aisle, and never lets partisanship blind him in his efforts to serve his constituents and develop common-sense public policy.
 Representative Troy has had a distinguished career in Ohio politics, holding roles at the city, county, and state levels.
 His service began as a city councilman and council president before he was elected to the Ohio House of Representatives, where he notably chaired several committees and played a key role in significant legislative initiatives.
@@ -14,3 +13,4 @@ Joseph High School and the University of Dayton, where he earned a degree in pol
 Outside of the legislature, Rep.
 Troy has taught government courses as a part-time faculty member at Lakeland Community College and is a 50-year building trades union member and a U.S.
 Army veteran.
+SEE DAN'S RECORD Donate $10 $25 $50 $100 $250 DONATE Paid for by Citizens for Troy Site Designed by Statecraft Digital.

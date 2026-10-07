@@ -1,21 +1,86 @@
 [
-"https://cisa.gov/resources-tools/programs/electromagnetic-pulse-and-geomagnetic-disturbance",
-"https://cisa.gov/resources-tools/resources/primary-mitigations-reduce-cyber-threats-operational-technology",
-"https://colibriwp.com/",
-"https://darksky.org/resources/what-is-light-pollution/effects",
-"https://ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf",
-"https://kylehainesnh.com/",
-"https://kylehainesnh.com/about-2",
-"https://kylehainesnh.com/contact",
-"https://kylehainesnh.com/democracy-representation",
-"https://kylehainesnh.com/education",
-"https://kylehainesnh.com/housing-main-street",
-"https://kylehainesnh.com/justice-safety-accountability",
-"https://kylehainesnh.com/pillars-2",
-"https://kylehainesnh.com/rights-liberty",
-"https://kylehainesnh.com/schedule",
-"https://kylehainesnh.com/stewardship-conservation-energy-the-future",
-"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028640",
-"https://swpc.noaa.gov/phenomena/coronal-mass-ejections",
-"https://unece.org/sites/default/files/2022-04/LCA_3_FINAL%20March%202022.pdf"
+{
+"text": "About",
+"href": "https://kylehainesnh.com/about-2/"
+},
+{
+"text": "Colibri",
+"href": "https://colibriwp.com"
+},
+{
+"text": "Contact",
+"href": "https://kylehainesnh.com/contact/"
+},
+{
+"text": "Democracy & Representation",
+"href": "https://kylehainesnh.com/democracy-representation/"
+},
+{
+"text": "Education",
+"href": "https://kylehainesnh.com/education/"
+},
+{
+"text": "HERE (CISA, Primary Mitigations to Reduce Cyber Threats to Operational Technology)",
+"href": "https://www.cisa.gov/resources-tools/resources/primary-mitigations-reduce-cyber-threats-operational-technology"
+},
+{
+"text": "HERE (Cybersecurity and Infrastructure Security Agency)",
+"href": "https://www.cisa.gov/resources-tools/programs/electromagnetic-pulse-and-geomagnetic-disturbance"
+},
+{
+"text": "HERE (NOAA SWPC)",
+"href": "https://www.swpc.noaa.gov/phenomena/coronal-mass-ejections"
+},
+{
+"text": "HERE (Robert Idel, Rice University, Levelized Full System Costs of Electricity, 2022)",
+"href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028640"
+},
+{
+"text": "HERE (UNECE Integrated Life-cycle Assessment of Electricity Sources)",
+"href": "https://unece.org/sites/default/files/2022-04/LCA_3_FINAL%20March%202022.pdf"
+},
+{
+"text": "HERE(Dark Sky International Effects of Light Pollution)",
+"href": "https://darksky.org/resources/what-is-light-pollution/effects"
+},
+{
+"text": "HERE(IPCC Technology-specific Cost and Performance Parameters)",
+"href": "https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf/#page=7"
+},
+{
+"text": "Home",
+"href": "https://kylehainesnh.com/"
+},
+{
+"text": "Housing & Main Street",
+"href": "https://kylehainesnh.com/housing-main-street/"
+},
+{
+"text": "Justice, Safety & Accountability",
+"href": "https://kylehainesnh.com/justice-safety-accountability/"
+},
+{
+"text": "Pillars",
+"href": "https://kylehainesnh.com/pillars-2/"
+},
+{
+"text": "Rights & Liberties",
+"href": "https://kylehainesnh.com/rights-liberty/"
+},
+{
+"text": "Schedule",
+"href": "https://kylehainesnh.com/schedule/"
+},
+{
+"text": "Stewardship: Conservation, Energy & The Future",
+"href": "https://kylehainesnh.com/stewardship-conservation-energy-the-future/"
+},
+{
+"text": "[image]",
+"href": "https://kylehainesnh.com"
+},
+{
+"text": "[no text]",
+"href": "https://kylehainesnh.com/"
+}
 ]

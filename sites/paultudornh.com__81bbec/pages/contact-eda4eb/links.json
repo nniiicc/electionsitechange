@@ -1,6 +1,42 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://paultudornh.com/",
-"https://paultudornh.com/contact"
+{
+"text": "About",
+"href": "https://paultudornh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://paultudornh.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://paultudornh.com/#donate"
+},
+{
+"text": "Donate",
+"href": "https://paultudornh.com/#donate"
+},
+{
+"text": "Host an Event",
+"href": "https://paultudornh.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://paultudornh.com/#issues"
+},
+{
+"text": "Paul Tudor",
+"href": "https://paultudornh.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://paultudornh.com/contact"
+}
 ]

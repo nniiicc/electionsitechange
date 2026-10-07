@@ -1,7 +1,9 @@
 {
  "description": "Explore detailed campaign expenses of Chris Dardzinski for 2022 and 2024, including ZOOM and GoDaddy fees.",
  "final_url": "https://leadership1776.com/campaign-expenses",
- "paid_for_by": null,
+ "fingerprint": "3f872510846c8ec1dae07a9be0ea286b2682d1fd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Expenses | Leadership for America",
  "years_mentioned": [
   "2022",

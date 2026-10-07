@@ -1,14 +1,6 @@
-Washington has become a place where too many politicians serve themselves instead of the people.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE Priorities Ending Washington Dysfunction Washington has become a place where too many politicians serve themselves instead of the people.
 We need real reforms to restore trust and protect our democracy.
-My priorities include:
-- Enact term limits for members of Congress and the judiciary branch
-- Establish mandatory retirement age for the president, members of Congress, and the judiciary
-- Ban stock trading by members of Congress
-- Overturn Citizens United and end dark money in politics
-Experience to lead.
+My priorities include: Enact term limits for members of Congress and the judiciary branch Establish mandatory retirement age for the president, members of Congress, and the judiciary Ban stock trading by members of Congress Overturn Citizens United and end dark money in politics View Priorities Making Healthcare Affordable & Accessible Smart, Fair Immigration and a Secure Border Restoring American Leadership & National Security Supporting Agriculture & Rural Communities Lowering Costs & Restoring the Middle Class Reining In Our National Debt Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
-Lower costs
-★
-Stop the chaos
-★
-End corruption
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

@@ -1,4 +1,4 @@
-[April 05, 2021] | We returned to the Gold Dome on Monday, March 29 for the final two days of the 2021 legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ April 05, 2021 ] | We returned to the Gold Dome on Monday, March 29 for the final two days of the 2021 legislative session.
 The last day of session, Legislative Day 40, is commonly referred to as "Sine Die," which is a Latin term meaning "without assigning a day for further meeting." On Sine Die, it is typically a very long day getting everything done and being very vigilant on changes you may not like or think are good for our state.
 Day 39 was very busy for me, as I had bills on the House floor and Senate being considered and was in the well speaking a number of times.
 This year I had bills in Education, Healthcare, and Transportation, and they all passed.
@@ -25,3 +25,4 @@ Glad April is here.
 I greatly appreciate any feedback I receive from my constituents, and I welcome you to contact my office for questions or concerns about the legislative session.
 My Capitol office number is 404-656-7153, my home 770-893-2039, and my email address is rick.jasperse@house.ga.gov.
 Please contact me anytime.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

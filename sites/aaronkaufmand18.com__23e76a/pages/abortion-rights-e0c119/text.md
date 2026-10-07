@@ -1,7 +1,6 @@
-Abortion Rights
-I never thought Roe v.
+0 Skip to Content About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu Folder: About Back About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Folder: Priorities Back My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Folder: Contact Back Legislative Contact Campaign Contact DONATE Abortion Rights I never thought Roe v.
 Wade would be overturned but that is where we find ourselves.
-I will be a tireless advocate for women so they can make their own healthcare decisions about their own bodies
-I am proud that Maryland has some of the most pro-choice laws in the nation.
+I will be a tireless advocate for women so they can make their own healthcare decisions about their own bodies I am proud that Maryland has some of the most pro-choice laws in the nation.
 I will work to ensure that they remain strong, and that Maryland remains a place where women, from all across the country, can have their reproductive health care needs met.
 I am a enthusiastic supporter of Planned Parenthood and Pro-Choice Maryland.
+Stay Connected Legislative Contact Campaign Contact By Authority: Friends of Aaron Kaufman -Joshua Kaufman, Treasurer Elect Aaron Kaufman PO Box 151542 Chevy Chase, MD 20815 e-mail: aaronkaufmand18@gmail.com Phone: 240.600.1812 Privacy Policy

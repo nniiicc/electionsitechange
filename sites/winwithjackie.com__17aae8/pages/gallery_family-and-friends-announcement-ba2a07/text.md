@@ -1,5 +1,4 @@
-Family and Friends Announcement
-Thank you to everyone who made it Monday night, especially with less than 12 hours' notice!
+Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT ← All Albums Family and Friends Announcement Thank you to everyone who made it Monday night, especially with less than 12 hours' notice!
 For those who couldn't make it, here's a look into my private announcement with close friends and family.
 No press, no media, and not meant to be a crowd shot.
 It was about putting my people first and making it clear that without them, none of this happens.
@@ -9,4 +8,12 @@ I'm doing this to serve the people of my community and to represent them the rig
 This is not a stepping stone for me because this community is ME.
 If you missed it, I know you were there in spirit and I can't wait to have you join us next time!
 Stayed tuned, good things are coming.
-23 photos
+23 photos Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
+All rights reserved.
+I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.
+Message & Data rates may apply, and message frequency may vary over time.
+Reply “STOP” to opt out of these text message updates.
+Reply HELP for help.
+Privacy Policy .
+Sign Up

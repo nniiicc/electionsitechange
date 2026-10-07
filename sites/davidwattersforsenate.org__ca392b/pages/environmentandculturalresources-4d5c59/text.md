@@ -1,5 +1,4 @@
-Environment and Cultural Resources
-In his five terms, Senator Watters has become a leader in New Hampshire on the climate crisis, renewable energy, environmental protection, wildlife, and fisheries.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Environment and Cultural Resources In his five terms, Senator Watters has become a leader in New Hampshire on the climate crisis, renewable energy, environmental protection, wildlife, and fisheries.
 Sea level rise, coastal storm inundation, and river flooding are the greatest challenges facing seacoast New Hampshire.
 Senator Watters took the initiative in establishing a broad-based commission to recommend policies for climate adaptation.
 Subsequent legislation enabled communities to respond, directed all state agencies to adopt sea-level rise projections in all transportation and other projects, and established mechanisms for communities to preserve economic and cultural resources.
@@ -20,3 +19,6 @@ Long a leader in historic preservation and land conservation, Sen.
 Watters extended an energy conservation and historic buildings tax credit program, helped restore funding for the Land and Community Heritage Investment Program, and served on the Moose license plate advisory committee.
 He has taken a national lead with his bills passed to preserve cultural resources from the effects of climate change and sea-level rise.
 His legislation expanded protection for historic burying grounds, with a current bill to protect the graves of African Americans buried in the era of enslavement.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

@@ -1,27 +1,130 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+The+Candidate&dates=20260501T003000Z%2F20260501T020000Z&location=875+Hotel+Circle+South%2C+San+Diego%2C+CA+92108",
-"http://maps.google.com/?q=875+Hotel+Circle+South+San+Diego%2C+CA+92108",
-"https://arthodgesforsenate.com/",
-"https://arthodgesforsenate.com/250club",
-"https://arthodgesforsenate.com/about-art",
-"https://arthodgesforsenate.com/candidate-comparison",
-"https://arthodgesforsenate.com/cart",
-"https://arthodgesforsenate.com/contact",
-"https://arthodgesforsenate.com/district-map",
-"https://arthodgesforsenate.com/endorsements",
-"https://arthodgesforsenate.com/events",
-"https://arthodgesforsenate.com/events/chula-vista-town-hall",
-"https://arthodgesforsenate.com/events/meet-the-candidate?format=ical",
-"https://arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference",
-"https://arthodgesforsenate.com/gallery",
-"https://arthodgesforsenate.com/media",
-"https://arthodgesforsenate.com/meet-art",
-"https://arthodgesforsenate.com/news",
-"https://arthodgesforsenate.com/priorities",
-"https://arthodgesforsenate.com/privacy-policy",
-"https://facebook.com/ArtHodgesForSenate",
-"https://instagram.com/arthodgesforsenate",
-"https://secure.anedot.com/art-hodges-for-senate-2026/arthodges",
-"https://tiktok.com/@arthodgesforsenate",
-"https://x.com/arthodgesforsenate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=875+hotel+circle+south+san+diego%2C+ca+92108+"
+},
+{
+"text": "0",
+"href": "https://www.arthodgesforsenate.com/cart"
+},
+{
+"text": "250 Club",
+"href": "https://www.arthodgesforsenate.com/250club"
+},
+{
+"text": "About Art",
+"href": "https://www.arthodgesforsenate.com/about-art"
+},
+{
+"text": "Back",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.arthodgesforsenate.com/events"
+},
+{
+"text": "CALIFORNIA ISSUES",
+"href": "https://www.arthodgesforsenate.com/priorities"
+},
+{
+"text": "CONNECT WITH US",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Candidate Comparison",
+"href": "https://www.arthodgesforsenate.com/candidate-comparison"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/art-hodges-for-senate-2026/arthodges"
+},
+{
+"text": "District Map",
+"href": "https://www.arthodgesforsenate.com/district-map"
+},
+{
+"text": "Endorsements",
+"href": "https://www.arthodgesforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.arthodgesforsenate.com/events"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.arthodgesforsenate.com/media"
+},
+{
+"text": "Folder: Meet Art",
+"href": "https://www.arthodgesforsenate.com/meet-art"
+},
+{
+"text": "Get Involved",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+The+Candidate&dates=20260501T003000Z%2F20260501T020000Z&location=875+Hotel+Circle+South%2C+San+Diego%2C+CA+92108"
+},
+{
+"text": "Home",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/meet-the-candidate?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.arthodgesforsenate.com/priorities"
+},
+{
+"text": "News",
+"href": "https://www.arthodgesforsenate.com/news"
+},
+{
+"text": "Next Next September 25 Chula Vista Town Hall",
+"href": "https://www.arthodgesforsenate.com/events/chula-vista-town-hall"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.arthodgesforsenate.com/gallery"
+},
+{
+"text": "Previous Previous September 24 National Apostolic Christian Leadership Conference",
+"href": "https://www.arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.arthodgesforsenate.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "mailto:home@drananddean.com?subject=Art+Hodges+-+Meet+The+Candidate"
+},
+{
+"text": "[image: ArtHodgesForSenate]",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ArtHodgesForSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arthodgesforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@arthodgesforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/arthodgesforsenate"
+},
+{
+"text": "info@arthodgesforsenate.com",
+"href": "mailto:info@arthodgesforsenate.com"
+}
 ]

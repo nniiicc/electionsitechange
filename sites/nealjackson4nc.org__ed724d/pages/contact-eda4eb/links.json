@@ -1,12 +1,42 @@
 [
-"https://facebook.com/Neal-Jackson-for-NC-House-100182622537474",
-"https://facebook.com/nealjackson4nc",
-"https://instagram.com/nealjackson4nc",
-"https://nealjackson4nc.org/",
-"https://nealjackson4nc.org/about",
-"https://nealjackson4nc.org/contact",
-"https://nealjackson4nc.org/issues",
-"https://nealjackson4nc.org/volunteer",
-"https://secure.winred.com/neal-jackson-for-nc-house/donate-today",
-"https://twitter.com/RepNealJackson"
+{
+"text": "About",
+"href": "https://www.nealjackson4nc.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.nealjackson4nc.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/neal-jackson-for-nc-house/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.nealjackson4nc.org"
+},
+{
+"text": "Issues",
+"href": "https://www.nealjackson4nc.org/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nealjackson4nc.org/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Neal-Jackson-for-NC-House-100182622537474"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/nealjackson4nc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/nealjackson4nc"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/RepNealJackson"
+}
 ]

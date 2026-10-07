@@ -1,7 +1,5 @@
-top of page
-Click the image to download Jeff's headshot.
-Jeff's Biography:
-Jeff Monroe’s roots run deep in rural Alabama.
+top of page HOME MEET JEFF THE ISSUES NEWS GET INVOLVED DONATE Click the image to download Jeff's headshot.
+Jeff's Biography: Jeff Monroe’s roots run deep in rural Alabama.
 Since 2001, Jeff and his wife Cindy Tubbs Monroe have lived in Chambers County.
 He spent his formative years in the Moody area, graduating from St.
 Clair County High School.
@@ -31,14 +29,11 @@ Since 2024, Jeff has served on Chambers County ALFA’s Executive Committee.
 Since 2021, he has supported the Chambers County School District’ Inspire Academy (Career Tech) by serving on the Advisory Council.
 He was instrumental in launching a beekeeping program that teaches students hands on skills and entrepreneurship.
 Whether working in a small rural community or a large urban center, Jeff’s life experiences has taught him that ALL people share the same hopes – To Make Their Lives Better.
-Their basic needs are the same:
---To FEEL SAFE in their Community.
---To PREPARE their CHILDREN for future success.
---To have JOB OPPORTUNITIES that will enable them to SUPPORT their family.
+Their basic needs are the same: --To FEEL SAFE in their Community. --To PREPARE their CHILDREN for future success. --To have JOB OPPORTUNITIES that will enable them to SUPPORT their family.
 Alabama has fiscal challenges ahead.
 If elected to represent the people of House District 37, Jeff Monroe is committed to supporting Public Safety, Education, and Workforce Development.
 Improvements in these three pillars are the foundation for enhancing the Quality of Life for all Alabamians.
 Jeff has been married to Cindy Tubbs Monroe since 2001.
 They are the parents of Carlie Tubbs Price and Emile Monroe Milam, sons-in-law Nick Price and Brandon Milam; and the grandparents of Emma Anthony, Leigha Anthony, Cooper Price, Marli Price, and Sophie Price; Sarah, Jace, and John Milam.
 They attend Church of the Highlands in Opelika.
-bottom of page
+Privacy Policy HOME MEET JEFF THE ISSUES NEWS GET INVOLVED Paid for by Friends of Jeff Monroe | PO Box 104, Five Points, AL 36855 Friends of Jeff Monroe © # by Signum Strategies bottom of page

@@ -1,7 +1,11 @@
 {
  "description": "Continue reading",
  "final_url": "https://judgeblairedwards.com/news/",
- "paid_for_by": null,
+ "fingerprint": "cd8939e1455ef3faa8683dac6df3c71718e69817",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News - Judge Blair Edwards",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

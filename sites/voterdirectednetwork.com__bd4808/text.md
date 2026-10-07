@@ -1,7 +1,4 @@
-The Online Political Evolution
-By: Alexander Kent, msw (I-WI)
-Part 1
-My name is Alexander Kent.
+0 Skip to Content Voter Directed Network About VDN Mission Voter Directed Democracy VDN Virtual Tour Issues and Essays Support VDN Contact Us Social Media Open Menu Close Menu Voter Directed Network About VDN Mission Voter Directed Democracy VDN Virtual Tour Issues and Essays Support VDN Contact Us Social Media Open Menu Close Menu About VDN Mission Voter Directed Democracy VDN Virtual Tour Issues and Essays Support VDN Contact Us Social Media The Online Political Evolution By: Alexander Kent, msw (I-WI) Part 1 My name is Alexander Kent.
 I am a social worker running for the United States House of Representatives as an Independent because I believe in the Online Political Evolution on Voter Directed Network.
 I believe in building a modern, online republic with liberty, justice, and freedom for all and evolving into a world with compassion, community, and love for all.
 In the United States different groups of humans have always worked to expand the promise of our republic.
@@ -17,12 +14,13 @@ A republic where every voter has real political power every single day.
 A republic where government honestly reflects the real Will of the People.
 A republic where public service actually means serving the public.
 This journey to improve our nation can be summarized in three ideas.
-One...Full Voter Empowerment.
+One...
+Full Voter Empowerment.
 This means online issue by issue voting on the Voter Directed Network app.
 One voter.
 One vote.
 On all issues.
-Two…Full Anti-Corruption This means ending political corruption.
+Two… Full Anti-Corruption This means ending political corruption.
 Not reducing it.
 Ending it.
 We will end political corruption by removing the financial incentives that pull our nation away from the voters it was created to serve.
@@ -31,7 +29,8 @@ All 4 of those things bring legal corruption, violence, and division into our na
 And none of those 4 mechanisms of authoritarian corruption are in the U.S.
 Constitution.
 Please remember that.
-And three...Servant Leadership.
+And three...
+Servant Leadership.
 The belief that leadership begins with humble service.
 That public office is not a position of status.
 It is a responsibility.
@@ -121,8 +120,7 @@ As long as we are willing to continue the American tradition of political evolut
 And this evolution has a name.
 We call it… The Online Political Evolution.
 And now, I'd like to show you what that evolution and future actually looks like.
-Part 2
-Every great evolution in human history begins with a simple realization.
+Part 2 Every great evolution in human history begins with a simple realization.
 There is a better way.
 Not because everything that came before was wrong.
 But because humanity learned something new.
@@ -151,7 +149,7 @@ Trusted to learn.
 Trusted to think.
 Trusted to vote.
 You open the first issue.
-It was published 10 hours ago, which means it will be open for 6 Days and 14 hours more for discussion and voting.
+It was published #ago, which means it will be open for # Days and # hours more for discussion and voting.
 You see a Title, Topics, and the Statement.
 You see two tabs for participation.
 The Discussion tab and the Voting Tab.
@@ -232,8 +230,7 @@ Chaos comes from people feeling unheard.
 When people know they have a voice… they become more invested.
 More thoughtful.
 More collaborative.
-Not less
-Think about your own life.
+Not less Think about your own life.
 When someone genuinely asks for your opinion… when they sincerely listen...how do you respond?
 You engage.
 You contribute.
@@ -282,8 +279,7 @@ But if we are going to build a republic this honest… this transparent… and t
 Political corruption.
 Because no political system—no matter how beautifully designed—can truly represent the people if money speaks louder than voters.
 And that's where our journey continues.
-Part 3
-Voters in every republic inherit two responsibilities.
+Part 3 Voters in every republic inherit two responsibilities.
 To preserve what is good.
 And to improve what is not.
 I believe our Constitution is one of humanity's greatest achievements.
@@ -441,8 +437,7 @@ Leadership that measures success not by status… but by the growth of those bei
 That kind of leadership has a name.
 Servant Leadership.
 And I believe it is the leadership philosophy our republic has been waiting for.
-Part 4
-If we build a more honest political system… if we end legal political corruption… if we fully empower voters voters… if we create a republic that openly determines the Will of the People...one question still remains.
+Part 4 If we build a more honest political system… if we end legal political corruption… if we fully empower voters voters… if we create a republic that openly determines the Will of the People...one question still remains.
 What should leadership look like?
 For decades… our culture has often taught us that leadership means being first.
 Being strongest.
@@ -598,8 +593,7 @@ A different relationship...between voters… and one another.
 Because ultimately… this movement has never been about politics alone.
 It has always been about people.
 And that is where I'd like to leave you.
-Part 5
-As we come to the end of our time together… I'd like to leave you with one final thought.
+Part 5 As we come to the end of our time together… I'd like to leave you with one final thought.
 Throughout history… humanity has always been given moments of choice.
 Moments when we were asked… not what was easy… but what was courageous, wise, and just.
 There was a time when ending slavery seemed impossible.
@@ -664,8 +658,7 @@ Faith that the American experiment is still unfinished.
 Imagine what our grandchildren might someday consider normal.
 Imagine children growing up believing that government naturally asks citizens before making major decisions.
 Imagine representatives who proudly say, "I don't represent a political party.
-I represent my voters."
-Imagine campaigns built on listening instead of attacking.
+I represent my voters." Imagine campaigns built on listening instead of attacking.
 Imagine disagreements becoming opportunities to learn instead of reasons to hate.
 Imagine transparency replacing suspicion.
 Imagine participation replacing apathy.
@@ -714,9 +707,7 @@ Imagine a republic where every voter matters equally.
 Imagine a government that listens before it acts.
 Imagine leadership measured by service.
 Imagine children inheriting political systems wiser than the ones we inherited.
-Imagine looking back twenty years from now and saying,
-"We were the voters that brought our republic into the Digital Age." "We were the voters that fully empowered voters and ended political corruption peacefully." "We were the voters that chose hope."
-Because I believe… with all my heart… that our greatest days are still ahead of us.
+Imagine looking back twenty years from now and saying, "We were the voters that brought our republic into the Digital Age." "We were the voters that fully empowered voters and ended political corruption peacefully." "We were the voters that chose hope." Because I believe… with all my heart… that our greatest days are still ahead of us.
 I believe the United States is filled with courageous… compassionate… creative...hardworking people.
 I believe our diversity is one of our greatest strengths.
 I believe our communities are filled with wisdom waiting to be heard.
@@ -741,18 +732,14 @@ I believe the next great evolution of humanity… is not technological.
 It is political.
 And I believe...we can build it together.
 Thank you.
-Alexander Kent (I-WI)
-Alexander Valiensi Kent, MSW (I-WI3)
-I’m a voter directed Independent candidate for the U.S.
+Alexander Kent (I-WI) Alexander Valiensi Kent, MSW (I-WI3) I’m a voter directed Independent candidate for the U.S.
 House of Representatives from Wisconsin’s 3rd District for the November 3rd 2026 U.S.
 Midterm Elections.
-I am a social worker, father, husband, and the author of Voter Directed Democracy and founder of Voter Directed Network.
-We believe that is time to evolve politically as a country and collectively choose an online political system of true and full political freedom, real self-governance, and transparent popular sovereignty on all issues.
+I am a social worker, father, husband, and the author of Voter Directed Democracy and founder of Voter Directed Network .
+We believe that is time to evolve politically as a country and collectively choose an online political system of true and full political freedom , real self-governance , and transparent popular sovereignty on all issues.
 It is time to actually follow the U.S.
-Constitution and see what will happen when the real Will of the People is relentlessly sourced and implemented and voters’ collective wisdom, knowledge, and compassion are truly respected and fully empowered to create all of our social, political, and economic systems.
-We are running a Voter Empowerment campaign and believe in:
-“One voter, one vote on all issues.”
-We support honest and transparent, modern and evolved, accountable and peaceful, online and independent democratic republicanism where all voters Yes/No vote on all issues, legislative bills, and executive orders and the democratic republic follows this clear, precise, and objectively determined Will of the People.
+Constitution and see what will happen when the real Will of the People is relentlessly sourced and implemented and voters’ collective wisdom , knowledge , and compassion are truly respected and fully empowered to create all of our social, political, and economic systems.
+We are running a Voter Empowerment campaign and believe in: “One voter, one vote on all issues.” We support honest and transparent, modern and evolved, accountable and peaceful, online and independent democratic republicanism where all voters Yes/No vote on all issues, legislative bills, and executive orders and the democratic republic follows this clear, precise, and objectively determined Will o f the People.
 An Independent voter directed/voter controlled democratic republic is 100% consistent with the U.S.
 Constitution.
 The U.S.
@@ -792,11 +779,8 @@ Independent critical thinking, independent moral reasoning, and free thinking ha
 We the People of the U.S. declared our Independence from the oppressive authoritarianism of monarchy and empire.
 We the People of the U.S. now in 2026 must again declare our Independence from the authoritarianism by choosing to evolve away from the oppression, corruption, and violence of party politics.
 We the People must protect our freedoms and liberties by choosing to evolve our republic into an online voter directed/voter controlled system.
-To protect our republic and democratic freedoms and liberty, voters must choose an online political system of full voter empowerment on all issues that is relentlessly anti-authoritarian.
-We are also running an Anti-Corruption campaign and believe that:
-“All political donations are political corruption.”
-All political donations come with an expectation of elected official action.
-Even a small $5 donation comes with an expectation and thus is a form of mild political corruption.
+To protect our republic and democratic freedoms and liberty, voters must choose an online political system of full voter empowerment on all issues that is relentlessly anti-authoritarian. ‍ ‍ We are also running an Anti-Corruption campaign and believe that: “All political donations are political corruption.” All political donations come with an expectation of elected official action.
+Even a small $# donation comes with an expectation and thus is a form of mild political corruption.
 We are trying to get as much money out of elections and political decision making as possible.
 To this end, we are NEVER taking anyone’s money ever- no donors, no lobbyists, no Super PACs, and no political parties interfering with our voter directed political process.
 We are just trying to represent voters in this honest, transparent, modern, and evolved way.
@@ -806,15 +790,13 @@ To be clear, if you use over $5k to get elected you didn’t win anything.
 You paid for the win and bought the election.
 Party politics has always been a money game that was created to serve the will of authoritarians, destroy the republic, and ignore the Will of the People.
 Real political representation and full political freedom in any democratic republic can only ever exist by asking voters directly on all issues.
-For any election, decision, or issue in any democratic republic at any level of government, the best ideas should always win- not what platform/party/candidate/industry/ corporation/institution spent the most money on ads and propaganda.
+For any election, decision, or issue in any democratic republic at any level of government, the best ideas should always win - not what platform/party/candidate/industry/ corporation/institution spent the most money on ads and propaganda.
 In a republic, having more money should never give you more political power.
-Lastly, we are also running a Servant Leadership campaign because:
-“A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong.
+Lastly, we are also running a Servant Leadership campaign because: “A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong.
 While traditional leadership generally involves the accumulation and exercise of power by one at the “top of the pyramid,” servant leadership is different.
-The servant-leader shares power, puts the needs of others first and helps people develop and perform as highly as possible.”- Greenleaf.org
-Writing the Voter Directed Democracy political theory was partially inspired by the essay The Servant as Leader by Robert K.
+The servant-leader shares power, puts the needs of others first and helps people develop and perform as highly as possible.”- Greenleaf.org Writing the Voter Directed Democracy political theory was partially inspired by the essay The Servant as Leader by Robert K.
 Greenleaf, which was first published in 1970.
-This essay is what started the Servant Leadership movement, which, in short, is “a non-traditional leadership philosophy, embedded in a set of behaviors and practices that place the primary emphasis on the well-being of those being served” (Greenleaf.org).
+This essay is what started the Servant Leadership movement, which, in short, is “a non-traditional leadership philosophy, embedded in a set of behaviors and practices that place the primary emphasis on the well-being of those being served” ( Greenleaf.org ).
 I have been studying Servant Leadership extensively since I attended Viterbo University here in La Crosse, which offers Servant Leadership classes, certificates, and a graduate degree.
 I personally support this leadership philosophy and have seen the incredible impact this philosophy can have on a community as many organizations and businesses around my city of La Crosse, Wisconsin have implemented this leadership model with remarkable success.
 Similar to the political philosophy of Voter Directed Democracy, the leadership philosophy of Servant Leadership is grounded in values of honesty, transparency, compassion, and relentless listening.
@@ -822,12 +804,11 @@ I would encourage any leader, executive, administrator, or official in any for-p
 I believe the Servant Leadership philosophy can work hand-in-hand with the political philosophy of republicanism, democracy, and Voter Directed Democracy; however, I do not believe that openly supporting or embracing Servant Leadership should be a prerequisite for a Voter Directed Elected Official or candidate.
 Each Voter Directed Elected Official or candidate and voter should form their own opinion about the Servant Leadership philosophy.
 Nevertheless, I was deeply inspired by this leadership philosophy when I began to write and develop the Voter Directed Democracy political philosophy.
-As Voter Directed candidates we also believe in standing against Negative Identity Politics.
-For more information please read the Voter Directed Democracy book, read our essays, watch our content across social media, or create an account on the VDN App.
+As Voter Directed candidates we also believe in standing against Negative Identity Politics .
+For more information please read the Voter Directed Democracy book, read our essays , watch our content across social media , or create an account on the VDN App .
 Questions?
-Please feel free to Contact Us or send an email to: alexander@voterdirectednetwork.com
-One voter, one vote on all issues!
+Please feel free to Contact Us or send an email to: alexander@voterdirectednetwork.com One voter, one vote on all issues!
 No more donors, lobbyists, Super PACs, or political parties corrupting our political system!
 Thank you for all that you do personally and professionally to make the world a better place.
-Sincerely,
-AVK
+Sincerely, AVK Download Flyer More information about AVK Voter Directed Democracy Essays by AVK Philosophy and Me : other essays by AVK About - Mission - Contact © # Voter Directed Network.
+All rights reserved.

@@ -1,5 +1,14 @@
 [
-"https://secure.actblue.com/donate/votemarkmeek",
-"https://votemarkmeek.com/",
-"https://votemarkmeek.com/cart"
+{
+"text": "0",
+"href": "https://www.votemarkmeek.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votemarkmeek"
+},
+{
+"text": "Mark Meek for State Senate",
+"href": "https://www.votemarkmeek.com/"
+}
 ]

@@ -1,4 +1,4 @@
-The following is the transcript from Greg Ballard's speech on Signature Delivery Day, as he and Hoosiers from across the state delivered over 41,000 verified signatures to get his name on the ballot for Indiana Secretary of State this fall.
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Jul 14, 2026 Signature Delivery Day Speech The following is the transcript from Greg Ballard's speech on Signature Delivery Day, as he and Hoosiers from across the state delivered over 41,000 verified signatures to get his name on the ballot for Indiana Secretary of State this fall.
 Hello!
 Thank you for being here today.
 The status quo is over.
@@ -20,8 +20,7 @@ They tried to make the rules so difficult, the threshold so hard to meet, and so
 But tens of thousands of Hoosiers stood up and said, “No more.
 We want another choice.
 We want real competition.
-We want our state back!”
-The Republican and Democrat in this race were each nominated at closed party conventions by about one thousand party insiders.
+We want our state back!” The Republican and Democrat in this race were each nominated at closed party conventions by about one thousand party insiders.
 Today, I am delivering more than 42,000 verified signatures from Hoosiers who signed petitions because they are fed up, frustrated, and angry.
 Now we are on the ballot.
 We are not here to whisper.
@@ -74,3 +73,4 @@ Working together, we will win this fight.
 Let’s take back our elections and put power back in the hands of the people – where it belongs!
 Today, I’m asking you, the people, for your vote, just as I asked for your signatures - the signatures we are about to turn in to the State.
 Thank you for being here today, please join me as we walk to take the next step toward being on the ballot, the signature delivery!
+ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

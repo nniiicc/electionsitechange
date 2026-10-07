@@ -1,10 +1,34 @@
 [
-"https://facebook.com/TehlertforIowaHouse",
-"https://instagram.com/repehlert",
-"https://sites.google.com/site/portfoliooftracyaehlert/home",
-"https://tracyehlert.com/",
-"https://tracyehlert.com/join-the-team",
-"https://tracyehlert.com/tracy-s-issues",
-"https://tracyehlert.com/tracy-s-story",
-"https://youtube.com/@reptracyehlert"
+{
+"text": "Home",
+"href": "https://www.tracyehlert.com"
+},
+{
+"text": "Join the Team",
+"href": "https://www.tracyehlert.com/join-the-team"
+},
+{
+"text": "Portfolio of Tracy A. Ehlert",
+"href": "https://sites.google.com/site/portfoliooftracyaehlert/home"
+},
+{
+"text": "Tracy's Issues",
+"href": "https://www.tracyehlert.com/tracy-s-issues"
+},
+{
+"text": "Tracy's Story",
+"href": "https://www.tracyehlert.com/tracy-s-story"
+},
+{
+"text": "[image: Grey Facebook Icon]",
+"href": "https://www.facebook.com/TehlertforIowaHouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repehlert/"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@reptracyehlert"
+}
 ]

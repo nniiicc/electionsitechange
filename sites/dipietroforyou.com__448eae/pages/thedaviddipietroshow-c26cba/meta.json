@@ -1,7 +1,9 @@
 {
  "description": "The David DiPietro Show is heard Saturdays from 2pm-4pm on Buffalo's Conservative Talk, 1270AM The Patriot.",
  "final_url": "https://www.dipietroforyou.com/thedaviddipietroshow",
- "paid_for_by": null,
+ "fingerprint": "17ef3a19b77e55414404e579298bdb5454507bf5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The David DiPietro Show | DiPietro For You",
  "years_mentioned": []
 }

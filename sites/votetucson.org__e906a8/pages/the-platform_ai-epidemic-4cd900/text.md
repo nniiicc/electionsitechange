@@ -1,11 +1,14 @@
-Where I’m standing when I say this: I work in AI integration and technology governance for a living.
+Skip to content The URL says Tucson.
+The campaign says all of District 6.
+Home Why Me?
+The Platform How To Write Me In The Ledger Help Wanted About Contact Privacy Policy Home Why Me?
+The Platform How To Write Me In The Ledger Help Wanted About Contact Privacy Policy ← Back to The Platform Plank 2: The AI Epidemic Pillar: Critical Thinking and Common Sense Where I’m standing when I say this: I work in AI integration and technology governance for a living.
 I use these tools every day — this campaign has been upfront that we use them too.
 I’ve been working with computers since 1980.
 So when I tell you I’m skeptical of the AI gold rush, it’s not fear of the unknown.
 It’s familiarity with the salesmen.
 You can’t fix a system while you’re billing it.
-What I’d push for:
-No federal preemption without a federal framework.
+What I’d push for: No federal preemption without a federal framework.
 Congress doesn’t get to block states from protecting their citizens while offering nothing in return.
 Datacenter transparency and honest accounting — public reporting of water and energy consumption, and no sweetheart utility deals that make Arizona families subsidize grid upgrades for trillion-dollar companies.
 If you want to build in the desert, the desert gets to see the bill.
@@ -19,6 +22,6 @@ There are better tools.
 Let’s use those.
 I’m not afraid of the technology.
 I’m afraid of the pitch deck.
-Sources
-Office of Technology Assessment: Defunded by Congress in 1995; never restored.
-State AI law preemption: The proposed 10-year moratorium on state AI regulation was stripped from the 2025 budget reconciliation bill by a 99–1 Senate vote, July 2025.
+Sources Office of Technology Assessment: Defunded by Congress in 1995; never restored.
+State AI law preemption: The proposed 10-year moratorium on state AI regulation was stripped from the 2025 budget reconciliation bill by a 99–1 Senate vote, July 2025. ← Back to The Platform Paid for by Michael Dorland, out of his own pocket, which is why the site has a weird mixture of pictures on it.
+Currently not authorized by any candidate committee or party — mainly because we have no money to spend. © # Michael Dorland Connect With Us Facebook Youtube Instagram Twitch

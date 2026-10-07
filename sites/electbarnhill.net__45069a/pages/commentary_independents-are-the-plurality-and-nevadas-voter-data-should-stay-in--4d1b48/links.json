@@ -1,37 +1,186 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/announcements/donate-nevada-independent-candidate",
-"https://electbarnhill.net/author/electbarnhill",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/commentary/nevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up",
-"https://electbarnhill.net/commentary/the-pendulum-stops-here-why-nevadas-independents-must-stop-swinging-and-start-winning",
-"https://electbarnhill.net/commentary/vote-for-someone-not-against-someone",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state",
-"https://electbarnhill.net/promise-kept",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Findependents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands%2F",
-"https://instagram.com/electbarnhill",
-"https://lasvegasweekly.com/news/2026/may/07/nevada-officials-challenge-trumps-executive-order",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Findependents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands%2F&title=Independents+Are+the+Plurality+%E2%80%94+And+Nevada%E2%80%99s+Voter+Data+Should+Stay+in+Nevada%E2%80%99s+Hands",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://nevadanewsandviews.com/meet-lynn-chapman-the-conservative-alternative-some-republicans-are-now-considering-for-cd2",
-"https://thenevadaindependent.com/article/here-is-where-nevadas-secretary-of-state-candidates-stand-on-the-issues",
-"https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Findependents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands%2F&text=Independents+Are+the+Plurality+%E2%80%94+And+Nevada%E2%80%99s+Voter+Data+Should+Stay+in+Nevada%E2%80%99s+Hands",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Nevada News and Views",
+"href": "https://nevadanewsandviews.com/meet-lynn-chapman-the-conservative-alternative-some-republicans-are-now-considering-for-cd2/"
+},
+{
+"text": "Next Next post: Results, Not Noise: My 20/20 Plan for Nevada Secretary of State",
+"href": "https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Previous Previous post: The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning",
+"href": "https://electbarnhill.net/commentary/the-pendulum-stops-here-why-nevadas-independents-must-stop-swinging-and-start-winning/"
+},
+{
+"text": "The Nevada Independent",
+"href": "https://thenevadaindependent.com/article/here-is-where-nevadas-secretary-of-state-candidates-stand-on-the-issues"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "Vote for Independent Nevada Candidates, Not the Lesser Evil",
+"href": "https://electbarnhill.net/commentary/vote-for-someone-not-against-someone/"
+},
+{
+"text": "Why Donate to a Nevada Independent Candidate? | Brad Barnhill",
+"href": "https://electbarnhill.net/announcements/donate-nevada-independent-candidate/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Findependents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands%2F&text=Independents+Are+the+Plurality+%E2%80%94+And+Nevada%E2%80%99s+Voter+Data+Should+Stay+in+Nevada%E2%80%99s+Hands"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Findependents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fcommentary%2Findependents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands%2F&title=Independents+Are+the+Plurality+%E2%80%94+And+Nevada%E2%80%99s+Voter+Data+Should+Stay+in+Nevada%E2%80%99s+Hands"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "electbarnhill",
+"href": "https://electbarnhill.net/author/electbarnhill/"
+},
+{
+"text": "federal executive order",
+"href": "https://lasvegasweekly.com/news/2026/may/07/nevada-officials-challenge-trumps-executive-order/"
+},
+{
+"text": "flag-and-investigate standard",
+"href": "https://electbarnhill.net/commentary/nevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up/"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+}
 ]

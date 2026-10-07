@@ -1,23 +1,18 @@
-Latest News
-“He’s the Fighter We Need and the Leader We Can Trust”: Becerra Launches Closing Argument
-As Becerra Barnstorms the State in the Final Days of the Primary, Campaign Points to Proven Record – the Fighter Democrats Need to Take on Trump – as Progressives, Labor, and Elected Leaders Unite Behind the Frontrunner
-Sacramento, CA — Former HHS Secretary and California Attorney General Xavier Becerra, the leading candidate for California Governor, today starts the closing argument of his primary campaign with a new ad statewide on broadcast, cable, and digital.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute Latest News “He’s the Fighter We Need and the Leader We Can Trust”: Becerra Launches Closing Argument May 21, 2026 As Becerra Barnstorms the State in the Final Days of the Primary, Campaign Points to Proven Record – the Fighter Democrats Need to Take on Trump – as Progressives, Labor, and Elected Leaders Unite Behind the Frontrunner Sacramento, CA — Former HHS Secretary and California Attorney General Xavier Becerra, the leading candidate for California Governor, today starts the closing argument of his primary campaign with a new ad statewide on broadcast, cable, and digital.
 It makes his closing argument to California voters: “He’s the fighter we need and the leader we can trust.” The ad airs as Becerra barnstorms the state in the final 10 days before the primary election, setting the stage for the historic election of California’s first Latino governor in modern history.
 “Xavier Becerra isn’t new to the fight for progress,” the ad opens, before cataloguing his record of delivering for Californians and the country.
 “In Congress, he helped write and pass Obamacare.
 As Attorney General, he sued Trump over 120 times and won.
-As Secretary of Health, Becerra took on special interests and lowered drug costs.”
-The ad closes with a clear frame for the November election to come: Becerra is California’s proven antidote to Trump – a leader who has faced him down before and knows how to win.
-“Secretary Becerra has spent 30 years fighting for Californians – in Congress, as Attorney General, and as Secretary of Health and Human Services – and that record is exactly what this moment demands,” said Becerra spokesperson Jonathan Underland.
+As Secretary of Health, Becerra took on special interests and lowered drug costs.” The ad closes with a clear frame for the November election to come: Becerra is California’s proven antidote to Trump – a leader who has faced him down before and knows how to win.
+LIFETIME “Secretary Becerra has spent 30 years fighting for Californians – in Congress, as Attorney General, and as Secretary of Health and Human Services – and that record is exactly what this moment demands,” said Becerra spokesperson Jonathan Underland.
 “With the Trump Administration threatening everything California stands for, voters are looking for a governor who is authentic, tested, and ready to fight on day one.
 He was right from the start on health care, on standing up to Trump, on the values progressives care most about.
-Voters across California are coming to the same conclusion: Xavier Becerra is their champion.”
-THE POLLS TELL THE SAME STORY: BECERRA IS AHEAD AND SURGING
-Three recent independent polls confirm what has become an unmistakable trend: Xavier Becerra is at the top of the field, and his trajectory is stronger than any other candidate in the race.
+Voters across California are coming to the same conclusion: Xavier Becerra is their champion.” THE POLLS TELL THE SAME STORY: BECERRA IS AHEAD AND SURGING Three recent independent polls confirm what has become an unmistakable trend: Xavier Becerra is at the top of the field, and his trajectory is stronger than any other candidate in the race.
 Evitarus (May 19, for the California Democratic Party).
 The ongoing Democratic Party polling on this race clearly shows Steve Hilton (22%) and Xavier Becerra (21%) as the consensus nominees of their party.
-Other candidates like Steyer (15%) Bianco (10%) and Porter (7%) lag behind/. ,
-David Binder Research (May 5–11): Hilton 23%, Becerra 22%, Steyer 15%, Bianco 13%, Porter 12%, Mahan 7%.
+Other candidates like Steyer (15%) Bianco (10%) and Porter (7%) lag behind/. , David Binder Research (May 5–11): Hilton 23%, Becerra 22%, Steyer 15%, Bianco 13%, Porter 12%, Mahan 7%.
 Becerra leads the entire Democratic field with a 10-point margin over the next Democrat.
 MOE ±3.5%.
 Emerson College / Inside California Politics (May 9–10): Becerra leads at 19%, with Hilton and Steyer tied at 17%.
@@ -29,36 +24,16 @@ N=900, MOE ±3.3%.
 These results confirm and extend a clear trend established across multiple independent surveys (including Mellman Group, Impact Research, Gudelunas Strategies, and EMC Research) all of which have shown Becerra at or near the top of the field, widening his margin as the clear Democratic frontrunner.
 No other candidate is moving in this direction.
 Becerra is.
-Becerra has also dominated fundraising momentum in recent weeks, enjoying a surge in grassroots support with 96% of donors giving less than $100.
-CALIFORNIA DEMOCRATS ARE COMING TOGETHER BEHIND BECERRA
-The polling reflects something even deeper: the Democratic Party, at every level, is consolidating around Xavier Becerra.
+Becerra has also dominated fundraising momentum in recent weeks, enjoying a surge in grassroots support with #% of donors giving less than $# CALIFORNIA DEMOCRATS ARE COMING TOGETHER BEHIND BECERRA The polling reflects something even deeper: the Democratic Party, at every level, is consolidating around Xavier Becerra.
 Leaders who know him, who have worked alongside him, and who understand what is at stake are making their choice clear.
 His support spans congressional leaders, the California legislature, organized labor, and the progressive movement — a coalition built not by consultants or checkbooks, but by voters and institutions who trust him to deliver.
-Congressional Leadership:
-Rep.
+Congressional Leadership: Rep.
 Ted Lieu (CA), Vice Chair of the House Democratic Caucus — one of the most senior Democrats in Congress and a trusted voice across the California political landscape.
 Rep.
 Jim Clyburn, former House Majority Whip — one of the most consequential figures in the Democratic Party, whose endorsement carries weight in every corner of the country.
-State Legislative Leadership:
-Robert Rivas, Speaker of the California State Assembly — the top Democrat in the California legislature — has endorsed Becerra, a powerful signal of confidence from Sacramento.
+State Legislative Leadership: Robert Rivas, Speaker of the California State Assembly — the top Democrat in the California legislature — has endorsed Becerra, a powerful signal of confidence from Sacramento.
 He’s joined by 27 other members of the legislature in backing Becerra.
-Organized Labor:
-California Professional Firefighters (CPF)
-SEIU California
-IBEW California (International Brotherhood of Electrical Workers)
-UFCW (United Food and Commercial Workers)
-California State Council of Laborers (LiUNA)
-United Nurses Association of California
-AFSCME Union of American Physicians and Dentists
-Progressive and Community Organizations:
-Planned Parenthood Affiliates of California
-Equality California
-CHIRLA Action Fund
-Asian American Action Fund
-Latino Victory Project
-California Young Democrats and California College Democrats
-THE BOTTOM LINE: HE WAS RIGHT FROM THE START
-His opponent has spent nearly $200 million trying to get himself elected Governor.
+Organized Labor: California Professional Firefighters (CPF) SEIU California IBEW California (International Brotherhood of Electrical Workers) UFCW (United Food and Commercial Workers) California State Council of Laborers (LiUNA) United Nurses Association of California AFSCME Union of American Physicians and Dentists Progressive and Community Organizations: Planned Parenthood Affiliates of California Equality California CHIRLA Action Fund Asian American Action Fund Latino Victory Project California Young Democrats and California College Democrats THE BOTTOM LINE: HE WAS RIGHT FROM THE START His opponent has spent nearly $200 million trying to get himself elected Governor.
 Xavier Becerra hasn’t matched it – or even come close.
 But, he doesn’t need to.
 Because what is happening is organic.
@@ -74,3 +49,5 @@ The Becerra Era is not a campaign slogan.
 It is what the data, the endorsements, and the momentum are telling us.
 California voters are looking for a fighter who has already proven he can win — and a leader they can trust.
 They’ve found him.
+Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

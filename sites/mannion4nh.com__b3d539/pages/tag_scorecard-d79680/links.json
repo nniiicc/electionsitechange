@@ -1,46 +1,238 @@
 [
-"http://gencourtmobile.com/Legislator/RollCallVotes/409126",
-"https://granitegrok.com/new-england/nh/2025/04/rino-report-card-for-2025-through-crossover",
-"https://granitegrok.com/new-england/nh/2026/07/bowers-rino-report-card-for-2026",
-"https://mannion4nh.com/",
-"https://mannion4nh.com/2025/04/15/scorecard-house-republican-alliance-2025",
-"https://mannion4nh.com/2025/04/18/scorecard-new-hampshire-liberty-alliance-2025",
-"https://mannion4nh.com/2025/04/27/scorecard-grok-rino-report",
-"https://mannion4nh.com/2025/07/23/scorecard-nhla-2025-final",
-"https://mannion4nh.com/2025/09/30/scorecard-afp-2025",
-"https://mannion4nh.com/2026/07/06/report-cards-2026-hra-and-rino-report",
-"https://mannion4nh.com/about-me",
-"https://mannion4nh.com/author/bursegsardaukar",
-"https://mannion4nh.com/category/bills",
-"https://mannion4nh.com/category/bills/bill-passed",
-"https://mannion4nh.com/category/bills/hearing-alert",
-"https://mannion4nh.com/category/bills/testimony",
-"https://mannion4nh.com/category/campaign/scorecards",
-"https://mannion4nh.com/category/uncategorized",
-"https://mannion4nh.com/crypto",
-"https://mannion4nh.com/education",
-"https://mannion4nh.com/endorsements",
-"https://mannion4nh.com/energy",
-"https://mannion4nh.com/firearms",
-"https://mannion4nh.com/lockdowns-health-mandates",
-"https://mannion4nh.com/marijuana",
-"https://mannion4nh.com/surveys",
-"https://mannion4nh.com/tag/afp",
-"https://mannion4nh.com/tag/grade",
-"https://mannion4nh.com/tag/grok",
-"https://mannion4nh.com/tag/hra",
-"https://mannion4nh.com/tag/nhla",
-"https://mannion4nh.com/tag/scorecard",
-"https://mannion4nh.com/taxation",
-"https://nh.americansforprosperity.org/wp-content/uploads/2025/09/New-Hampshire-Scorecard-2025-Final-3.pdf",
-"https://nhhra.org/hra/wp-content/uploads/2026/07/Score_Name_07-04-2026.pdf",
-"https://nhliberty.org/liberty-ratings",
-"https://nhliberty.org/wp-content/uploads/2025/07/Liberty-Rating-2025.pdf",
-"https://secure.winred.com/mannion4nh/donate",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fmannion4nh.com",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmannion4nh.com%252F2026%252F07%252F06%252Freport-cards-2026-hra-and-rino-report%252F",
-"https://wordpress.com/reader/feeds/128618204",
-"https://wordpress.com/start"
+{
+"text": "AFP",
+"href": "https://mannion4nh.com/tag/afp/"
+},
+{
+"text": "About Me",
+"href": "https://mannion4nh.com/about-me/"
+},
+{
+"text": "April 15, 2025",
+"href": "https://mannion4nh.com/2025/04/15/scorecard-house-republican-alliance-2025/"
+},
+{
+"text": "April 18, 2025",
+"href": "https://mannion4nh.com/2025/04/18/scorecard-new-hampshire-liberty-alliance-2025/"
+},
+{
+"text": "April 27, 2025",
+"href": "https://mannion4nh.com/2025/04/27/scorecard-grok-rino-report/"
+},
+{
+"text": "Bills",
+"href": "https://mannion4nh.com/category/bills/"
+},
+{
+"text": "Bills Passed",
+"href": "https://mannion4nh.com/category/bills/bill-passed/"
+},
+{
+"text": "Click to access New-Hampshire-Scorecard-2025-Final-3.pdf",
+"href": "https://nh.americansforprosperity.org/wp-content/uploads/2025/09/New-Hampshire-Scorecard-2025-Final-3.pdf"
+},
+{
+"text": "Crypto",
+"href": "https://mannion4nh.com/crypto/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mannion4nh/donate"
+},
+{
+"text": "Education",
+"href": "https://mannion4nh.com/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://mannion4nh.com/endorsements/"
+},
+{
+"text": "Energy",
+"href": "https://mannion4nh.com/energy/"
+},
+{
+"text": "Firearms",
+"href": "https://mannion4nh.com/firearms/"
+},
+{
+"text": "Granite Grok’s “RINO Report”",
+"href": "https://granitegrok.com/new-england/nh/2026/07/bowers-rino-report-card-for-2026"
+},
+{
+"text": "HRA",
+"href": "https://mannion4nh.com/tag/hra/"
+},
+{
+"text": "Hearing Alert",
+"href": "https://mannion4nh.com/category/bills/hearing-alert/"
+},
+{
+"text": "House Republican Alliance (HRA) score",
+"href": "https://nhhra.org/hra/wp-content/uploads/2026/07/Score_Name_07-04-2026.pdf"
+},
+{
+"text": "July 23, 2025",
+"href": "https://mannion4nh.com/2025/07/23/scorecard-nhla-2025-final/"
+},
+{
+"text": "July 6, 2026",
+"href": "https://mannion4nh.com/2026/07/06/report-cards-2026-hra-and-rino-report/"
+},
+{
+"text": "Leave a comment",
+"href": "https://mannion4nh.com/2025/04/15/scorecard-house-republican-alliance-2025/#respond"
+},
+{
+"text": "Leave a comment",
+"href": "https://mannion4nh.com/2025/04/18/scorecard-new-hampshire-liberty-alliance-2025/#respond"
+},
+{
+"text": "Leave a comment",
+"href": "https://mannion4nh.com/2025/04/27/scorecard-grok-rino-report/#respond"
+},
+{
+"text": "Leave a comment",
+"href": "https://mannion4nh.com/2025/07/23/scorecard-nhla-2025-final/#respond"
+},
+{
+"text": "Leave a comment",
+"href": "https://mannion4nh.com/2025/09/30/scorecard-afp-2025/#respond"
+},
+{
+"text": "Leave a comment",
+"href": "https://mannion4nh.com/2026/07/06/report-cards-2026-hra-and-rino-report/#respond"
+},
+{
+"text": "Lockdowns/Health Mandates",
+"href": "https://mannion4nh.com/lockdowns-health-mandates/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmannion4nh.com%252F2026%252F07%252F06%252Freport-cards-2026-hra-and-rino-report%252F"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmannion4nh.com%252F2026%252F07%252F06%252Freport-cards-2026-hra-and-rino-report%252F"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Marijuana",
+"href": "https://mannion4nh.com/marijuana/"
+},
+{
+"text": "NHLA",
+"href": "https://mannion4nh.com/tag/nhla/"
+},
+{
+"text": "New Hampshire Liberty Alliance",
+"href": "https://www.nhliberty.org/wp-content/uploads/2025/07/Liberty-Rating-2025.pdf"
+},
+{
+"text": "On The Issues",
+"href": "https://mannion4nh.com/category/uncategorized/"
+},
+{
+"text": "Report Cards – 2026 HRA and RINO Report",
+"href": "https://mannion4nh.com/2026/07/06/report-cards-2026-hra-and-rino-report/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fmannion4nh.com"
+},
+{
+"text": "Roll Calls",
+"href": "http://www.gencourtmobile.com/Legislator/RollCallVotes/409126"
+},
+{
+"text": "SCORECARD – Grok RINO Report",
+"href": "https://mannion4nh.com/2025/04/27/scorecard-grok-rino-report/"
+},
+{
+"text": "Scorecard – AFP 2025",
+"href": "https://mannion4nh.com/2025/09/30/scorecard-afp-2025/"
+},
+{
+"text": "Scorecard – House Republican Alliance 2025",
+"href": "https://mannion4nh.com/2025/04/15/scorecard-house-republican-alliance-2025/"
+},
+{
+"text": "Scorecard – NHLA 2025 (Final)",
+"href": "https://mannion4nh.com/2025/07/23/scorecard-nhla-2025-final/"
+},
+{
+"text": "Scorecard – New Hampshire Liberty Alliance 2025",
+"href": "https://mannion4nh.com/2025/04/18/scorecard-new-hampshire-liberty-alliance-2025/"
+},
+{
+"text": "Scorecards",
+"href": "https://mannion4nh.com/category/campaign/scorecards/"
+},
+{
+"text": "September 30, 2025",
+"href": "https://mannion4nh.com/2025/09/30/scorecard-afp-2025/"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Source",
+"href": "https://www.nhliberty.org/liberty-ratings/"
+},
+{
+"text": "Surveys & Interviews",
+"href": "https://mannion4nh.com/surveys/"
+},
+{
+"text": "Taxation",
+"href": "https://mannion4nh.com/taxation/"
+},
+{
+"text": "Testimonies",
+"href": "https://mannion4nh.com/category/bills/testimony/"
+},
+{
+"text": "Tom Mannion",
+"href": "https://mannion4nh.com/author/bursegsardaukar/"
+},
+{
+"text": "Tom Mannion for New Hampshire",
+"href": "https://mannion4nh.com/"
+},
+{
+"text": "View site in Reader",
+"href": "https://wordpress.com/reader/feeds/128618204"
+},
+{
+"text": "[image: Tom Mannion for New Hampshire]",
+"href": "https://mannion4nh.com/"
+},
+{
+"text": "[image]Tom Mannion for New Hampshire",
+"href": "https://mannion4nh.com"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "grade",
+"href": "https://mannion4nh.com/tag/grade/"
+},
+{
+"text": "grok",
+"href": "https://mannion4nh.com/tag/grok/"
+},
+{
+"text": "https://granitegrok.com/new-england/nh/2025/04/rino-report-card-for-2025-through-crossover",
+"href": "https://granitegrok.com/new-england/nh/2025/04/rino-report-card-for-2025-through-crossover"
+},
+{
+"text": "scorecard",
+"href": "https://mannion4nh.com/tag/scorecard/"
+}
 ]

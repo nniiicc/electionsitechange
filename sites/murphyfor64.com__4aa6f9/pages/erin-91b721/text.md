@@ -1,5 +1,5 @@
-Erin’s Story
-I grew up in Janesville, WI.
+Erin Vision Updates Join Donate Erin Vision Updates Join The urgency of today demands more of us than waiting.
+Donate Erin’s Story I grew up in Janesville, WI.
 My mom, Kas, raised my brothers, sister, and me.
 She worked at the canning factory, Sentry Foods, and she cleaned houses.
 My dad worked for General Motors building cars.
@@ -21,8 +21,7 @@ It worries me to see that too many families aren’t getting ahead despite their
 They don’t have the time with their kids, don’t have retirement or health security and college is unaffordable.
 For too many, hard work isn’t enough to support their families and have a good life.
 And in Minnesota, it should be.
-FAMILY
-I met Joe Faust in 1980 in Oshkosh.
+FAMILY I met Joe Faust in 1980 in Oshkosh.
 He had already graduated college and was starting his business in St.
 Paul.
 I got to know him years later, when I moved to his hometown, Marshfield, to practice nursing at St.
@@ -50,8 +49,7 @@ We are proud to see them in the world.
 They are grounded and work hard.
 They care about their communities and their passions.
 We think we did pretty well.
-NURSING
-One of the things you learn right away as a nurse is that every problem, big or small, matters.
+NURSING One of the things you learn right away as a nurse is that every problem, big or small, matters.
 You can’t brush the big ones off and wait for another nurse to handle them, you can’t cut corners and you can’t just deal with the easy stuff.
 People’s lives depend on your work and your decisions.
 Your patients need you to dig in, to make tough calls and grind out challenging work.
@@ -73,8 +71,7 @@ It may sound cliché but too often I feel like the leaders in our state are will
 It hurts us as a state and it is time we do better.
 The opportunity and decision to become a nurse had a huge impact on my life and on the work I do now.
 It’s one of the best decisions I ever made.
-RUNNING FOR OFFICE
-My mom Kas was diagnosed with cancer in 2004.
+RUNNING FOR OFFICE My mom Kas was diagnosed with cancer in 2004.
 She decided to fight so she could have one more summer in her garden and more time with her family.
 I spent a lot of time with her in the eleven months before she died.
 Some of that time was good but too much of it was spent trying to help her navigate the health system to get the care she needed.
@@ -94,3 +91,9 @@ It showed me that we can speak with clarity and purpose about the issues we face
 That we can organize and build support for solutions that meet the scale of our problems.
 That campaign was proof that a people centered politics is possible.
 And more importantly, proof that when people see their own power to be a part of that change together, we can create a truly bright future.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to e-mail updates from Erin Stay up to date on the fight for our bright future First Name Last Name Email Address Join We respect your privacy.
+Thank you for joining us!
+Erin Vision Join Donate © #.
+Paid for and prepared by Erin Murphy for Senate PO Box 4656, Saint Paul, MN 55104 | info@murphyfor64.com

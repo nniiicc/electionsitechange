@@ -1,10 +1,38 @@
 [
-"https://facebook.com/KyleHallNC",
-"https://flickr.com/photos/195295444@N07",
-"https://instagram.com/KyleHallNC",
-"https://kylehallnc.com/",
-"https://kylehallnc.com/about",
-"https://kylehallnc.com/volunteer",
-"https://secure.anedot.com/kyle-hall-committee/general-fund-c5ffbdb7a5a6fb3c9b2c1",
-"https://twitter.com/KyleHallNC"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kyle-hall-committee/general-fund-c5ffbdb7a5a6fb3c9b2c1"
+},
+{
+"text": "HOME",
+"href": "https://www.kylehallnc.com"
+},
+{
+"text": "MEET KYLE",
+"href": "https://www.kylehallnc.com/about"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.kylehallnc.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/KyleHallNC"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/195295444@N07/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/KyleHallNC"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/KyleHallNC"
+},
+{
+"text": "[image: fg.png]",
+"href": "https://www.kylehallnc.com"
+}
 ]

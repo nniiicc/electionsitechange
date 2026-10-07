@@ -1,9 +1,5 @@
-Back to All Events
-Come see over 750 cars and motorcycles and see which car wins the Mayor’s award!
-Previous
-Previous
-October 3
-Naperville Township Republican Organization Meet & Greet
-Next
-Next
-October 6
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Back to All Events Elburn Lions All Wheels Car Show Sunday, October 4, 2026 8:00 AM 3:00 PM Elburn Lions Club 500 Filmore Street Elburn, Illinois, 60119 United States (map) Google Calendar ICS Come see over 750 cars and motorcycles and see which car wins the Mayor’s award!
+Previous Previous October 3 Naperville Township Republican Organization Meet & Greet Next Next October 6 Java with Jeff Donate Today Shop About District Contact Paid for by Walter for Congress Campaign Mailing Address: PO Box 411, Elburn, IL 60119 Campaign Phone: 630.286.9068 Jeff Walter is a retired member of the U.S.
+Navy.
+Use of or reference to his military rank, job titles and photographs in uniform does not imply endorsement by the Department of the Navy, or Department of Defense.
+Privacy Policy

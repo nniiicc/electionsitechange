@@ -1,5 +1,11 @@
-11/06/2021 -The Wyoming Legislature’s seven-day Special Session ended Wednesday evening, November 3, 2021.
+Skip to content Wyoming Senator Cheri Steinmetz SD3 Menu Home Bio News Calendar Sponsor/Co-sponsor Bills + BILLS 2026 Bills 2025 Bills 2024 Bills 2023 Bills 2022 Bills 2021 Bills 2020 Bills 2019 Bills 2018 Bills 2017 Position on the Issues Articles of Interest Endorsements Wyoming Senator Cheri Steinmetz SD3 | News | Government Overreach | Special Session Special Session Published on: November 6, 2021 February 15, 2022 by Admin &nbsp Category: Government Overreach 11/06/2021 -The Wyoming Legislature’s seven-day Special Session ended Wednesday evening, November 3, 2021.
 There were three bills against vaccine mandates introduced, which were weakened by both the House and the Senate, and two of the three were killed.
 The only bill which passed, HB 1002, is a resolution essentially restating what is already allowed – the state can sue the federal government for overreach and the state may allow citizens, harmed by vaccine mandates, to be included in the lawsuit.
 Many Representatives and Senators worked hard to put real protections against mandates into Wyoming law, but the majority of our legislature chose not to protect the individual liberty of Wyoming citizens.
 This is a grave disappointment made even more disheartening when we see that Iowa and Tennessee passed meaningful legislation with the support of their governors.
+Share this: Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on X (Opens in new window) X Like this: Like Loading...
+Article Information Last Modified on February 15, 2022 This entry was posted in Government Overreach Bookmark this article Special Session Post navigation More Articles National issues that effect Wyoming Search for: News BILLS 2026 Bills and Status Bills 2025 Bills 2024 Bills 2023 Address Cheri Steinmetz P.O.
+Box 101 Lingle, WY 82223 307-534-5342 Email Contact Wyoming Larger government equals less individual freedom and prosperity.
+We must address the structural budget deficit without increasing taxes.
+Select Menu Home Donate Contact Committees 2026 - Senate Corporations, Elections & Political Subdivisions 2026 - Senate Labor, Health & Social Services "Paid for by the Committee to Elect Steinmetz for Senate" © # Cheri Steinmetz Senate District 3.
+All rights reserved. %d

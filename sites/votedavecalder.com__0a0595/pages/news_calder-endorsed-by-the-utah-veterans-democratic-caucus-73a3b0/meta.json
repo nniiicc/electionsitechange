@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.votedavecalder.com/news/calder-endorsed-by-the-utah-veterans-democratic-caucus",
- "paid_for_by": "Paid For By Dave Calder for Utah",
+ "fingerprint": "7c901bd9e1182661f478168f4d8147bf3605d8f1",
+ "format": 3,
+ "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
  "title": "Calder Endorsed by the Utah Veterans Democratic Caucus",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,40 +1,162 @@
 [
-"http://thearcmd.org/",
-"https://baltimorecountymd.gov/departments/recreation/programs/therapeutic",
-"https://bcgis.baltimorecountymd.gov/myneighborhood",
-"https://benefits.maryland.gov/home",
-"https://bsky.app/profile/micheleguyton.bsky.social",
-"https://disabilityrightsmd.org/",
-"https://facebook.com/MicheleGuytonforDelegate",
-"https://forms.gle/ab4sen2KB97j49kt7",
-"https://imagemd.org/",
-"https://instagram.com/michele.guyton",
-"https://maps.caliper.com/public-plans/planviewer-sb1012-congressional",
-"https://marylandable.org/",
-"https://marylandaccesspoint.211md.org/explore-my-options/caregivers",
-"https://md-council.org/",
-"https://mdod.maryland.gov/acp/Pages/Attendant-Care-Home.aspx",
-"https://mdod.maryland.gov/community/Pages/prog-for-caregivers.aspx",
-"https://mdod.maryland.gov/news/Pages/mdcivillaws.aspx",
-"https://mdod.maryland.gov/transport/Pages/Transportation-Home.aspx",
-"https://mdworks.com/",
-"https://micheleguyton.com/",
-"https://micheleguyton.com/cart",
-"https://micheleguyton.com/community-resources",
-"https://micheleguyton.com/contact",
-"https://micheleguyton.com/get-involved",
-"https://micheleguyton.com/legislation",
-"https://micheleguyton.com/meet-michele",
-"https://micheleguyton.com/newsletters-updates",
-"https://micheleguyton.com/s/2026GuytonScholarshipApplication.pdf",
-"https://mobilize.us/mddems/event/1005603",
-"https://mobilize.us/mddems/event/1005606",
-"https://pathfindersforautism.org/",
-"https://pathfindersforautism.org/resources/safety/wandering-and-elopement",
-"https://ppmd.org/",
-"https://secure.actblue.com/donate/micheleguyton42b",
-"https://talmar.org/",
-"https://threads.com/@michele.guyton",
-"https://x.com/guyton42b",
-"https://youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+{
+"text": "0",
+"href": "https://www.micheleguyton.com/cart"
+},
+{
+"text": "2026 Scholarship",
+"href": "https://www.micheleguyton.com/s/2026GuytonScholarshipApplication.pdf"
+},
+{
+"text": "Apply for services and benefits",
+"href": "https://benefits.maryland.gov/home/#/"
+},
+{
+"text": "August 22 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005603/"
+},
+{
+"text": "Back",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Community Resources",
+"href": "https://www.micheleguyton.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.micheleguyton.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/micheleguyton42b"
+},
+{
+"text": "Disability Rights Maryland works to advance the legal rights of people with disabilities, provides free legal services to Marylanders of any age with all types of disabilities.",
+"href": "https://disabilityrightsmd.org"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.micheleguyton.com/get-involved"
+},
+{
+"text": "Get Your District Info",
+"href": "https://bcgis.baltimorecountymd.gov/myneighborhood/"
+},
+{
+"text": "Home",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Legislation",
+"href": "https://www.micheleguyton.com/legislation"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.micheleguyton.com/meet-michele"
+},
+{
+"text": "Newsletters & Updates",
+"href": "https://www.micheleguyton.com/newsletters-updates"
+},
+{
+"text": "Pathfinders for Autism has safety resources to help you know what to do when somebody elopes",
+"href": "https://pathfindersforautism.org/resources/safety/wandering-and-elopement/"
+},
+{
+"text": "Pathfinders for Autism supports individuals with autism through expansive, customized programming and provides resources, training and information free of charge.",
+"href": "https://pathfindersforautism.org"
+},
+{
+"text": "Programs for accessibility related improvements the homes",
+"href": "https://mdod.maryland.gov/community/Pages/prog-for-caregivers.aspx"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://forms.gle/ab4sen2KB97j49kt7"
+},
+{
+"text": "September 19 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005606/"
+},
+{
+"text": "The ARC is the largest statewide nonprofit organization dedicated to the rights and quality of life of persons with intellectual and developmental disabilities and their families.",
+"href": "http://www.thearcmd.org"
+},
+{
+"text": "View District Map",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "[image: Michele Guyton, Maryland State Delegate 42B]",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/micheleguyton.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MicheleGuytonforDelegate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michele.guyton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@michele.guyton"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/guyton42b"
+},
+{
+"text": "can help you have more independence and a better quality of life",
+"href": "https://www.marylandable.org/"
+},
+{
+"text": "expands employment and business ownership opportunities for people with disabilities and other barriers to employment",
+"href": "https://mdworks.com/"
+},
+{
+"text": "fosters independence and inclusion for people with disabilities by providing advocacy, services, and resources that empower them to lead self-directed lives",
+"href": "https://imagemd.org/"
+},
+{
+"text": "guide for Disability Laws",
+"href": "https://mdod.maryland.gov/news/Pages/mdcivillaws.aspx"
+},
+{
+"text": "has a variety of Therapeutic and Adaptive opportunities throughout the county",
+"href": "https://www.baltimorecountymd.gov/departments/recreation/programs/therapeutic"
+},
+{
+"text": "has been creating change to improve the lives of people with developmental disabilities",
+"href": "https://www.md-council.org/"
+},
+{
+"text": "offers an innovative, therapeutic environment in which to provide work skills development, and vocational, educational and recreational programming in horticulture and agriculture.",
+"href": "https://talmar.org/"
+},
+{
+"text": "provides financial reimbursement to assist individuals with severe chronic or permanent physical disabilities who require attendant care services to direct their own care and select their own service providers",
+"href": "https://mdod.maryland.gov/acp/Pages/Attendant-Care-Home.aspx"
+},
+{
+"text": "resources for caregivers, including Respite Care and Caregiver Support Groups",
+"href": "https://marylandaccesspoint.211md.org/explore-my-options/caregivers/"
+},
+{
+"text": "serves the parents of children with disabilities throughout Maryland, regardless of the nature of their child's disability or the age of their child",
+"href": "https://www.ppmd.org/"
+},
+{
+"text": "services through the MTA and Department of Disabilities",
+"href": "https://mdod.maryland.gov/transport/Pages/Transportation-Home.aspx"
+}
 ]

@@ -1,14 +1,62 @@
 [
-"https://avivomn.org/avivovillage",
-"https://housinglink.org/renters/homelessness-resources",
-"https://jayxiong.org/",
-"https://jayxiong.org/about",
-"https://jayxiong.org/donate",
-"https://jayxiong.org/m/account",
-"https://jayxiong.org/m/create-account",
-"https://listeninghouse.org/",
-"https://lssmn.org/services/housing-and-assistance",
-"https://mac-v.org/our-services/housing",
-"https://ramseycountymn.gov/residents/assistance-support/assistance/housing-services-support",
-"https://stpaul.gov/residents/citys-response-encampments"
+{
+"text": "About",
+"href": "https://jayxiong.org/about"
+},
+{
+"text": "Agate Housing + Services:",
+"href": "https://www.housinglink.org/renters/homelessness-resources"
+},
+{
+"text": "Avivo Village:",
+"href": "https://avivomn.org/avivovillage/"
+},
+{
+"text": "Create Account",
+"href": "https://jayxiong.org/m/create-account"
+},
+{
+"text": "DONATE",
+"href": "https://jayxiong.org/donate"
+},
+{
+"text": "Home",
+"href": "https://jayxiong.org/"
+},
+{
+"text": "Lutheran Social Service of MN:",
+"href": "https://www.lssmn.org/services/housing-and-assistance"
+},
+{
+"text": "Minnesota Assistance Council for Veterans (MACV):",
+"href": "https://www.mac-v.org/our-services/housing/"
+},
+{
+"text": "My Account",
+"href": "https://jayxiong.org/m/account"
+},
+{
+"text": "Ramsey County Shelter Entry & Diversion Team",
+"href": "https://www.ramseycountymn.gov/residents/assistance-support/assistance/housing-services-support"
+},
+{
+"text": "ShelterEntry@ramseycounty.us",
+"href": "mailto:ShelterEntry@ramseycounty.us"
+},
+{
+"text": "Sign In",
+"href": "https://jayxiong.org/m/account"
+},
+{
+"text": "[image: Jay Xiong MN House]",
+"href": "https://jayxiong.org/"
+},
+{
+"text": "https://www.listeninghouse.org/",
+"href": "https://www.listeninghouse.org/"
+},
+{
+"text": "https://www.stpaul.gov/residents/citys-response-encampments",
+"href": "https://www.stpaul.gov/residents/citys-response-encampments"
+}
 ]

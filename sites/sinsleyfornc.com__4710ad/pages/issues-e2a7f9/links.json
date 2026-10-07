@@ -1,12 +1,46 @@
 [
-"https://facebook.com/share/19txthdAtv?mibextid=wwXIfr",
-"https://instagram.com/sinsleyfornc?igsh=cTB1YnFxeXE3cmlk",
-"https://mobilize.us/unioncountydems",
-"https://secure.actblue.com/donate/heidi-sinsley-1",
-"https://sinsleyfornc.com/",
-"https://sinsleyfornc.com/about",
-"https://sinsleyfornc.com/contact",
-"https://sinsleyfornc.com/get-involved",
-"https://sinsleyfornc.com/issues",
-"https://tiktok.com/@sinsley.for.nc?_r=1&_t=ZT-92AW9QXjbFm"
+{
+"text": "About",
+"href": "https://sinsleyfornc.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://sinsleyfornc.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heidi-sinsley-1"
+},
+{
+"text": "Get Involved",
+"href": "https://sinsleyfornc.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://sinsleyfornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://sinsleyfornc.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/unioncountydems/"
+},
+{
+"text": "[image]",
+"href": "https://sinsleyfornc.com/"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/sinsleyfornc?igsh=cTB1YnFxeXE3cmlk"
+},
+{
+"text": "",
+"href": "https://www.tiktok.com/@sinsley.for.nc?_r=1&_t=ZT-92AW9QXjbFm"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/share/19txthdAtv/?mibextid=wwXIfr"
+}
 ]

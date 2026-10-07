@@ -1,5 +1,4 @@
-Dear Friends and Neighbors of House District 22,
-I’m sharing this not just as your representative, but as a fellow Iowan who stands with you—rooted in shared values and a deep commitment to the state we call home.
+Skip to main content Representative Samantha Fett Representative Samantha Fett Fett for House District 22 Accomplishments Donate Events Dear Friends and Neighbors of House District 22, I’m sharing this not just as your representative, but as a fellow Iowan who stands with you—rooted in shared values and a deep commitment to the state we call home.
 Over the past few years in office, I’ve fought tirelessly to protect parental rights, defend our children from harmful ideologies, and ensure that Iowa law reflects the convictions we hold dear—faith, family, and freedom.
 Together, we’ve made meaningful progress—but the fight is far from over.
 I am running for re-election to the Iowa House in November 2026—because Iowa’s families deserve leaders who will stand firm, speak truth, and never compromise on what matters most.
@@ -13,16 +12,14 @@ My commitment to preserving individual liberty and protecting the rights enshrin
 I will keep fighting for our rural communities, small businesses, and the hardworking families who make Iowa strong.
 Our values are not negotiable—and our voice must be heard.
 We work hard and more money needs to stay in our pockets!
-I am asking for your support in this re-election campaign for Iowa House District 22—This campaign is about standing for truth.
+I am asking for your support in this re-election campaign for Iowa House District 22 — This campaign is about standing for truth.
 It’s about ensuring that the next generation inherits a state that honors God, protects liberty, and empowers families.
 Let’s continue what we started—with courage, conviction, and clarity!
 Thank you!
 Rep.
-Samantha Fett
-Vote November 3!
+Samantha Fett Vote November 3!
 Campaign updates!
-As your State Representative in Iowa House District 22
-Thank you for the opportunity to serve district 22 and Iowans across the state!
+Sign up for updates As your State Representative in Iowa House District 22 Thank you for the opportunity to serve district 22 and Iowans across the state!
 Representing NW and SW Warren County, including parts of Indianola and Ackworth, Carlisle, Norwalk, Hartford, Cumming, New Virigina, Martensdale and St.
 Mary's, Iowa.
 I have completed my first 2-year term as your State Representative.
@@ -49,8 +46,7 @@ That path led me to run for the Iowa House, where I recently finished my first t
 In the Legislature, I serve as Vice Chair of the Education Committee and also serve on the Agriculture, Government Oversight, and Judiciary Committees, as well as the Education Appropriations Subcommittee.
 My focus remains rooted in the strength of Iowa families and the success of Iowa children.
 I believe that when we focus on the strength of our families and the skills of our children, we can build a better future for Iowa — one grounded in opportunity, responsibility, and the values that make our state home.
-What to expect from your State Representative
-What you can expect from me is bold leadership, transparency, and access.
+What to expect from your State Representative What you can expect from me is bold leadership, transparency, and access.
 I represent and serve you, so I can in turn provide guidance and policy that expands your freedoms and opportunities.
 I have invested time in this community, and I am proud to be serving in the Iowa House!
 Providing good policy governance is the goal, so let's get it done together.
@@ -58,16 +54,6 @@ Simply put, I love America and I want to preserve liberty and freedom in Iowa---
 Representing House District 22 is an honor because it means problem solving on your behalf.
 During my grassroots efforts in advocating with legislators, it became clear to me that that process works the best when we are involved.
 Government doesn't work well without us, so it's my mission to involve all of you to assist in making the lives of Iowans better!
-Political and Civic Experience:
-- State Representative, Iowa House District 22 - 2025-2026
-- Moms for Liberty - Warren County, fighting for parental rights at all levels of government.
-- Grassroots advocacy and ambassador for School Choice-2023
-- Supporter of non-profit to protect the unborn
-- Carlisle School Board Member 2019-2021
-- Warren County Central Committee Member
-- Capitol Region Republican Women
-- Iowa Federation of Republican Women
-- National Federation of Republican Women
-Occupation: Marketing and Communications Director, Inspired-Education
-Education: Drake University, BA in Journalism and Mass Communications/Marketing and Advertising.
-Ephesians 1: 17-19
+Political and Civic Experience: State Representative, Iowa House District 22 - 2025-2026 Moms for Liberty - Warren County, fighting for parental rights at all levels of government.
+Grassroots advocacy and ambassador for School Choice-2023 Supporter of non-profit to protect the unborn Carlisle School Board Member 2019-2021 Warren County Central Committee Member Capitol Region Republican Women Iowa Federation of Republican Women National Federation of Republican Women Occupation: Marketing and Communications Director, Inspired-Education Education : Drake University, BA in Journalism and Mass Communications/Marketing and Advertising.
+Ephesians 1: 17-19 Donate Text "fettforhouse" to (888) 444-8774 to support Contact: info@fettforhouse.com Social Media Policy Facebook © # Fett for House Paid for by Fett for Iowa State House

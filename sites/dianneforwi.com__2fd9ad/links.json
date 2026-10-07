@@ -1,11 +1,50 @@
 [
-"https://dianneforwi.com/",
-"https://dianneforwi.com/about-dianne",
-"https://dianneforwi.com/cart",
-"https://dianneforwi.com/contact-dianne",
-"https://dianneforwi.com/nomination-papers",
-"https://dianneforwi.com/priorities",
-"https://facebook.com/dianneforwi",
-"https://secure.actblue.com/donate/dianneisrunning",
-"https://secure.actblue.com/donate/dianneopenhouse"
+{
+"text": "0",
+"href": "https://www.dianneforwi.com/cart"
+},
+{
+"text": "About Dianne",
+"href": "https://www.dianneforwi.com/about-dianne"
+},
+{
+"text": "Contact Dianne",
+"href": "https://www.dianneforwi.com/contact-dianne"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dianneisrunning"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/dianneopenhouse"
+},
+{
+"text": "Home",
+"href": "https://www.dianneforwi.com/"
+},
+{
+"text": "Learn more about Dianne",
+"href": "https://www.dianneforwi.com/about-dianne"
+},
+{
+"text": "Nomination Papers",
+"href": "https://www.dianneforwi.com/nomination-papers"
+},
+{
+"text": "Priorities",
+"href": "https://www.dianneforwi.com/priorities"
+},
+{
+"text": "[image: Hesselbein for Senate]",
+"href": "https://www.dianneforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/dianneforwi"
+},
+{
+"text": "[no text]",
+"href": "mailto:leader@wisenatedems.org"
+}
 ]

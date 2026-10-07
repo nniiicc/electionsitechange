@@ -1,6 +1,18 @@
 [
-"https://facebook.com/profile.php?id=61584845901353",
-"https://randymaxwell.com/",
-"https://randymaxwell.com/privacy-policy",
-"https://secure.winred.com/maxwell-for-indiana/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/maxwell-for-indiana/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.randymaxwell.com/privacy-policy"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/profile.php?id=61584845901353"
+},
+{
+"text": "[image: Randy Maxwell]",
+"href": "https://www.randymaxwell.com/"
+}
 ]

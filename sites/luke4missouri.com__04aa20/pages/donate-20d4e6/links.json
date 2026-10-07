@@ -1,12 +1,54 @@
 [
-"https://campaigndeputy.com/",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61577709030938",
-"https://goodchange.app/",
-"https://luke4missouri.com/",
-"https://luke4missouri.com/about",
-"https://luke4missouri.com/issues",
-"https://ngpvan.com/",
-"https://numero.ai/",
-"https://secure.actblue.com/"
+{
+"text": "About",
+"href": "https://www.luke4missouri.com/about"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/"
+},
+{
+"text": "Campaign Deputy",
+"href": "https://www.campaigndeputy.com/"
+},
+{
+"text": "GoodChange",
+"href": "https://goodchange.app/"
+},
+{
+"text": "Home",
+"href": "https://www.luke4missouri.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.luke4missouri.com/issues"
+},
+{
+"text": "Luke.r.rae@gmail.com",
+"href": "mailto:Luke.r.rae@gmail.com"
+},
+{
+"text": "NGP VAN",
+"href": "https://www.ngpvan.com/"
+},
+{
+"text": "Numero",
+"href": "https://numero.ai/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Committee to Elect Luke Rae logo]",
+"href": "https://www.luke4missouri.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.luke4missouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61577709030938"
+}
 ]

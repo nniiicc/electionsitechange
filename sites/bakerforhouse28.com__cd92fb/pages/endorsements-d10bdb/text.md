@@ -1,16 +1,2 @@
-0
-Skip to Content
-Endorsements
-Voting and District Info
-Donate
-Open Menu
-Close Menu
-Endorsements
-Voting and District Info
-Donate
-Open Menu
-Close Menu
-Endorsements
-Voting and District Info
-Donate
-Find out the people and organizations that stand behind Almaria’s campaign!
+0 Skip to Content Endorsements Voting and District Info Donate Open Menu Close Menu Endorsements Voting and District Info Donate Open Menu Close Menu Endorsements Voting and District Info Donate Find out the people and organizations that stand behind Almaria’s campaign!
+Donate Disclaimer: Paid for by Campaign Fund for Almaria Baker for House 28 6905 Train Station Way, Louisville, KY 40272 Phone: 502-396-6536

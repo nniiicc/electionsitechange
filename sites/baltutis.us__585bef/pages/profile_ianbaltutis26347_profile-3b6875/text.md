@@ -1,23 +1,4 @@
-top of page
-Ian Baltutis
-Admin
-Followers
-Following
-Follow
-Profile
-Join date: Jun 20, 2026
-Posts (19)
-Aug 15, 2026 ∙ 2 min
-Flipping for Progress: Recapping the Birthday Flip-Out Campaign Fundraiser
-Supporters gathered in Burlington for the Birthday Flip-Out cook-out and grassroots rally, raising critical voter outreach funds and building momentum to flip NC House District 63 this November.
-Aug 6, 2026 ∙ 2 min
-Standing with Our Teachers: Earning the Alamance Burlington Association of Educators Endorsement
-Ian Baltutis receives the official endorsement of the Alamance Burlington Association of Educators (ABAE), highlighting his proven track record of fiscal honesty, protecting public school funding, and fighting for competitive wages for North Carolina teachers and school staff.
-Aug 5, 2026 ∙ 1 min
-Stronger Neighborhoods, Together: Recapping National Night Out Across Burlington
-Ian Baltutis joins Mayor Beth Kennett, City Council members, and local first responders to visit neighborhood block parties across Burlington for National Night Out 2026.
-(336) 494-6767
-Contributions can be Mailed to:
-2779 S Church St, Suite 101 Burlington, NC, 27215
-United States of America
-bottom of page
+top of page Donate Join the Team Home Meet Ian Priorities Endorsements Merch News Ian Baltutis Admin 0 Followers 0 Following Follow More actions Profile Profile Join date: Jun 20, 2026 Posts (19) Aug 15, 2026 ∙ 2 min Flipping for Progress: Recapping the Birthday Flip-Out Campaign Fundraiser Supporters gathered in Burlington for the Birthday Flip-Out cook-out and grassroots rally, raising critical voter outreach funds and building momentum to flip NC House District 63 this November.
+9 0 Aug 6, 2026 ∙ 2 min Standing with Our Teachers: Earning the Alamance Burlington Association of Educators Endorsement Ian Baltutis receives the official endorsement of the Alamance Burlington Association of Educators (ABAE), highlighting his proven track record of fiscal honesty, protecting public school funding, and fighting for competitive wages for North Carolina teachers and school staff.
+2 0 Aug 5, 2026 ∙ 1 min Stronger Neighborhoods, Together: Recapping National Night Out Across Burlington Ian Baltutis joins Mayor Beth Kennett, City Council members, and local first responders to visit neighborhood block parties across Burlington for National Night Out 2026.
+4 0 Load More Donate (336) 494-6767 ian@baltutis.us Contributions can be Mailed to: ​ ​ Baltutis for NC House 2779 S Church St, Suite 101 Burlington, NC, 27215 United States of America Paid for by Ian Baltutis for NC House bottom of page

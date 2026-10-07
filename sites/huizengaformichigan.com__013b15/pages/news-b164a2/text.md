@@ -1,6 +1,2 @@
-9/17/26 Bombshell: Top McCann Vendor Covered Up Fraudulent Donations, Funneled Illegal Contributions To Campaigns Read More
-9/4/26 Huizenga Statement on Report Showing Sean McCann Voted to Funnel Millions to Companies He’s Invested In Read More
-9/2/26 INVESTIGATION: Sean McCann Voted for Whitmer’s Green Energy Mandate.
-Then His ESG Investments Soared Read More
-9/1/26 FACT CHECK: McCann TV Ad Claims He Fights “Greedy Landlords,” Records Show He Is One Read More
-8/27/26 ICYMI: ‘Tax Man McCann’ vows to repeal Trump tax cut for seniors, families: ‘We’ve got to reverse it’ Read More
+Donate About Issues News Join Donate News 9/22/26 ICYMI: Detroit News Endorses Bill Huizenga for Reelection Read More 9/21/26 Huizenga Releases Birthday Song for “Tax Man” Sean McCann Read More 9/17/26 Bombshell: Top McCann Vendor Covered Up Fraudulent Donations, Funneled Illegal Contributions To Campaigns Read More 9/17/26 Huizenga Releases New TV Ad “Power” Read More 9/4/26 Huizenga Statement on Report Showing Sean McCann Voted to Funnel Millions to Companies He’s Invested In Read More 9/2/26 INVESTIGATION: Sean McCann Voted for Whitmer’s Green Energy Mandate.
+Then His ESG Investments Soared Read More 9/1/26 Huizenga Launches Two New TV Ads, “Gravel” and “Certain” Read More 9/1/26 FACT CHECK: McCann TV Ad Claims He Fights “Greedy Landlords,” Records Show He Is One Read More 8/31/26 ‘Tax Man’ Sean McCann Doubles Down On Massive Tax Hikes Read More 8/27/26 ICYMI: ‘Tax Man McCann’ vows to repeal Trump tax cut for seniors, families: ‘We’ve got to reverse it’ Read More 1 2 3 4 Next PAID FOR BY HUIZENGA FOR CONGRESS PRIVACY POLICY · TERMS AND CONDITIONS About Issues News Join

@@ -1,8 +1,4 @@
-Initiative & Referendum Series,
-Part 1 of 4
-By Shane Klakken, Montana House District 37
-May 6, 2026
-I want to talk to you about something that gets under my skin every single time I hear it.
+top of page News Principles Calendar About Menu Close Donate Initiative & Referendum Series, Part 1 of 4 By Shane Klakken, Montana House District 37 May 6, 2026 I want to talk to you about something that gets under my skin every single time I hear it.
 Turn on the news — any channel, any network, go to a “No Kings” rally …a.k.a.
 “Defend Our Democracy” rally — and within about five minutes somebody will say the word “democracy.” Our democracy.
 Threats to our democracy.
@@ -15,7 +11,8 @@ That is the whole ballgame.
 I know that sounds like a technicality to some folks.
 It isn’t.
 The Founders knew exactly what a pure democracy produced, because they’d studied history.
-John Adams wrote that a democracy “never lasts long” — that it “wastes, exhausts, and murders itself.” James Madison, in Federalist No. 10, called pure democracies “spectacles of turbulence and contention,” incompatible with personal security or the rights of property.
+John Adams wrote that a democracy “never lasts long” — that it “wastes, exhausts, and murders itself.” James Madison, in Federalist No.
+10, called pure democracies “spectacles of turbulence and contention,” incompatible with personal security or the rights of property.
 Alexander Hamilton said the ancient democracies “never possessed one feature of good government” and that their very character was tyranny.
 These men were not being dramatic.
 They were being precise.
@@ -46,3 +43,7 @@ That’s not what the Founders built.
 And over the next few weeks, I’m going to walk you through exactly how we got here, who’s using this process against Montana right now, and what we can do about it.
 This is Part 1 of a four-part series.
 Next editorial: where the initiative process actually came from — and why it was designed to do exactly what it’s doing to us today.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

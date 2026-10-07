@@ -1,19 +1,13 @@
-“The editorial board endorses Donahue … who has an edge in experience.
+Skip to content Toggle Navigation About Kyle Donahue Kyle’s Priorities 113th District Endorsements Donate Endorsements rrippon 2022-11-02T16:39:09+00:00 “The editorial board endorses Donahue … who has an edge in experience.
 He has performed well on City Council.
-Earlier, as a Scranton School Board member, he warned of and voted against many of the wayward financial policies that resulted in the district operating under state supervision.”
-PASNAP – Pennsylvania Association of Staff Nurses & Allied Professionals…
-greatly appreciates your interest in patient care…for listening to the concerns of frontline caregivers and your support for the professional who provide it…and we enthusiastically endorse your candidacy for State Representative.
-PSEA-PACE
-Mr.
+Earlier, as a Scranton School Board member, he warned of and voted against many of the wayward financial policies that resulted in the district operating under state supervision.” PASNAP – Pennsylvania Association of Staff Nurses & Allied Professionals… greatly appreciates your interest in patient care…for listening to the concerns of frontline caregivers and your support for the professional who provide it…and we enthusiastically endorse your candidacy for State Representative.
+PSEA-PACE Mr.
 Donahue…Thanks you for your commitment to public education.
 PSEA-PACE is pleased to inform you that we recommend your candidacy for the Pennsylvania State House District 113 – Congratulations!
-Pennsylvania AFL-CIO
-On behalf of the 700,000 working men and women in Pennsylvania, represented by 51 International Unions and 1422 Locals, the Pennsylvania AFL-CIO Executive Council is proud to endorse your candidacy in in recognition of your consistent support of policies that advance organized Labor’s ongoing efforts to improve the lives of Pennsylvania families.
-IRONWORKERS LOCAL UNION NO. 404
-Dear Kyle…Ironworkers Local Union #404, a Local Union Chapter of the International Association of Bridge, Structural, Ornamental, and Reinforcing Ironworkers, is pleased to officially offer our endorsement of your candidacy for the November 8th, 2022, election.
-Humane PA
-Humane PA PAC, Pennsylvania’s (Bi-Partisan) Voice for Animals, endorses Kyle Donahue for standing against animal cruelty.
-Eastern Atlantic States Regional Council of Carpenters
-Eastern Atlantic States Regional Council of Carpenters…endorses you in your campaign for the Pennsylvania State House because we share a common desire to protect worker’s rights in our region and country and making sure that working class families receive a fair wage, good benefits, and the safe working conditions they deserve.
-APSCUF/CAP
-The Association of Pennsylvania State College and University Faculties, representing nearly 5000 faculty members and coaches of Pennsylvania’s 14 state-owned universities, has endorsed your candidacy for Pennsylvania House of Representatives because we support candidates that believe in a strong system of public higher education in the Commonwealth and share our union values.
+Pennsylvania AFL-CIO On behalf of the 700,000 working men and women in Pennsylvania, represented by 51 International Unions and 1422 Locals, the Pennsylvania AFL-CIO Executive Council is proud to endorse your candidacy in in recognition of your consistent support of policies that advance organized Labor’s ongoing efforts to improve the lives of Pennsylvania families.
+IRONWORKERS LOCAL UNION NO.
+404 Dear Kyle…Ironworkers Local Union #404, a Local Union Chapter of the International Association of Bridge, Structural, Ornamental, and Reinforcing Ironworkers, is pleased to officially offer our endorsement of your candidacy for the November 8th, 2022, election.
+Humane PA Humane PA PAC, Pennsylvania’s (Bi-Partisan) Voice for Animals, endorses Kyle Donahue for standing against animal cruelty.
+Eastern Atlantic States Regional Council of Carpenters Eastern Atlantic States Regional Council of Carpenters…endorses you in your campaign for the Pennsylvania State House because we share a common desire to protect worker’s rights in our region and country and making sure that working class families receive a fair wage, good benefits, and the safe working conditions they deserve.
+APSCUF/CAP The Association of Pennsylvania State College and University Faculties, representing nearly 5000 faculty members and coaches of Pennsylvania’s 14 state-owned universities, has endorsed your candidacy for Pennsylvania House of Representatives because we support candidates that believe in a strong system of public higher education in the Commonwealth and share our union values.
+Friends of Kyle Donahue | PO Box 4074 | Scranton, PA 18505 Facebook Instagram Email Page load link Go to Top

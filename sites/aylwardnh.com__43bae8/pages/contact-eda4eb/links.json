@@ -1,8 +1,34 @@
 [
-"https://aylwardnh.com/",
-"https://aylwardnh.com/about",
-"https://aylwardnh.com/contact",
-"https://aylwardnh.com/news",
-"https://aylwardnh.com/volunteer",
-"https://facebook.com/profile.php?id=100078625385425"
+{
+"text": "About",
+"href": "https://aylwardnh.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://aylwardnh.com/contact/"
+},
+{
+"text": "Deborah Aylward, NH State Representative:",
+"href": "https://aylwardnh.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100078625385425"
+},
+{
+"text": "Home",
+"href": "https://aylwardnh.com/"
+},
+{
+"text": "News",
+"href": "https://aylwardnh.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://aylwardnh.com/volunteer/"
+},
+{
+"text": "deborah.aylward@leg.state.nh.us",
+"href": "mailto:Katelyn@kkuttab.com"
+}
 ]

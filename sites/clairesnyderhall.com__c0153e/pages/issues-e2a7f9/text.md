@@ -1,6 +1,7 @@
-The 2026 midterm elections are fast approaching, and once again the outcome will be monumental.
-Claire’s agenda includes a focus on the following:
-IN THE FACE OF RISING AUTHORITARIANISM, I AM FIGHTING TO DEFEND OUR FREEDOMS AND OUR DEMOCRACY.
+Skip to content Claire For Delaware I'm Listening!
+Home Bio Issues and Platform Op/Ed Donate Volunteer Campaign Shots Claire For Delaware I'm Listening!
+Navigation Menu Navigation Menu Home Bio Issues and Platform Op/Ed Donate Volunteer Campaign Shots Issues and Platform The 2026 midterm elections are fast approaching, and once again the outcome will be monumental.
+Claire’s agenda includes a focus on the following: IN THE FACE OF RISING AUTHORITARIANISM, I AM FIGHTING TO DEFEND OUR FREEDOMS AND OUR DEMOCRACY.
 Sadly, MAGA attacks on women and men, LGBTQ+ individuals, people of color, our undocumented neighbors, and our institutions are turning our country into a place we no longer recognize.
 We must resist by maintaining due process, protecting rights and liberties, and strengthening the democratic process in Delaware.
 This year we passed a number of bills to protect our neighbors from ICE and our healthcare providers from out of state lawsuits, and we also got Marriage Equality, Vote by Mail, Early Voting, the Corporate Voting ban, and the VRA through the first leg of the constitutional amendment process.
@@ -25,4 +26,6 @@ Affordable Housing: We desperately need more affordable housing in our district,
 Instead, we need mandates with real teeth, as well as market incentives.
 We also need to improve transportation so that people who work in RD14 but do not live here can have an easier time getting to work.
 Finally, we need more resources for our unhoused neighbors.
-As
+As Home Bio Issues and Platform Op/Ed Donate Volunteer Campaign Shots Follow Us!
+Contact Us!
+Email: clairefordelaware@gmail.com Phone: 302-569-9205 Sign Up for Campaign Updates First Name Last Name Email * Zip Code *

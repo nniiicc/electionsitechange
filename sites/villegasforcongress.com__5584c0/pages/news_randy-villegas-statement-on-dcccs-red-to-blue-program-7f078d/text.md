@@ -1,32 +1,29 @@
-PRESS RELEASE
-Randy Villegas’ Statement on DCCC’s Red to Blue Program
-DC Elites Put Their Thumb On The Scale To Prop Up Jasmeet BainS
-Kern County, CA – Today, the DC Establishment announced they are supporting Jasmeet Bains, who has repeatedly refused to protect the interests of the Central Valley, including her Prop 50 vote to protect Trump's attempt to rig our elections, in her primary against Randy Villegas, who has the support of all four in-district Democratic Party County Committee Chairs.
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate PRESS RELEASE SEIU California Announces Support For Randy Villegas In California’s 22nd Congressional District PRESS RELEASE Congressional Candidate Randy Villegas Calls For A Moratorium On New Data Centers PRESS RELEASE Randy Villegas Holds ‘Guaranteed Healthcare Town Hall’ In CA-22 PRESS RELEASE Randy Villegas Challenges David Valadao To Three Public Debates PRESS RELEASE NEW AD: In CA-22, Populist Democrat Randy Villegas Highlights Working Class Upbringing PRESS RELEASE Randy Villegas Leads Republican David Valadao in CA-22 in New Poll PRESS RELEASE Randy Villegas Outraises David Valadao in California’s 22nd Congressional District PRESS RELEASE Randy Villegas Statement On Fatal Shooting of Lorenzo Salgado Araujo PRESS RELEASE Randy Villegas Joins Advocates To Hold Valadao Accountable For Gutting Healthcare PRESS RELEASE Speaker Emerita Pelosi, Sen.
+Schiff, Sen.
+Padilla, Reps.
+Aguilar and Lofgren Endorse Randy Villegas PRESS RELEASE Randy Villegas Added to DCCC’s ‘Red to Blue’ Program On Heels of Primary Victory in CA-22 PRESS RELEASE Randy Villegas Advances To General Election To Take On David Valadao News Article A Bernie-Backed Community College Professor Fights for the Soul of the Democratic Party PRESS RELEASE DCCC’s Handpicked Candidate Can’t Be Bothered to Protect Our Communities From ICE Raids PRESS RELEASE ICYMI: Misleading Attack Ads From Bains’ Dark Money Friends Don’t Pass A Fact Check PRESS RELEASE Randy Villegas Responds to Flood of Dark Money Attack Ads PRESS RELEASE Randy Villegas Statement On San Diego Mosque Shooting PRESS RELEASE CA-22 Candidate Randy Villegas Endorsed By Alexandria Ocasio-Cortez PRESS RELEASE New Poll: Randy Villegas Leading Democrat to Take On David Valadao news article Pro-Israel group spends $500,000 to target Randy Villegas in Central Valley race PRESS RELEASE Randy Villegas Surges Following DCCC’s Eleventh Hour Meddling NEWS ARTICLE House Democrats’ Primary Endorsements Divide the Party News Release ‘A betrayal’: Democrats fume at establishment wading into primariesoes Here News Article Local Dems push back on DCCC endorsement in CD22 race News Article House Democrats’ campaign arm takes sides in contentious primaries key to winning midterms PRESS RELEASE Randy Villegas’ Statement on DCCC’s Red to Blue Program NEWS ARTICLE Randy Villegas Endorsed by Indivisible PRESS RELEASE Randy Villegas Remains Top Democratic Fundraiser PRESS RELEASE Democratic Candidate Randy Villegas Launches First TV Ads of the CA-22 Primary Election Cycle PRESS RELEASE Randy Villegas Reels in Over $440,000 in Q1 PRESS RELEASE Randy Villegas Challenges David Valadao and Jasmeet Bains to Televised Debate for CA-22 Primary PRESS RELEASE Randy Villegas' Statement on Trump Administration Strikes on Iran Headline Goes Here PRESS RELEASE Randy Villegas Announces Town Hall Tour Through California’s 22nd Congressional District PRESS RELEASE David Valadao Votes Against Bipartisan Measure to Bring Down Costs PRESS RELEASE Randy Villegas Holds Sizable Fundraising Lead in CA-22 Primary PRESS RELEASE Randy Villegas Denounces ICE Killing Of Minneapolis Man PRESS RELEASE Randy Villegas Announces Fourth Quarter Fundraising Haul of Over $370,000 PRESS RELEASE Randy Villegas Statement on ACA House Vote PRESS RELEASE 15 California Elected Officials Endorse Randy Villegas for Congress in CA-22 PRESS RELEASE Former Congressman Tony Cárdenas (CA-29) + 15 California Elected Officials Endorse Randy Villegas PRESS RELEASE Randy Villegas Launches Against Rep.
+David Valadao to Represent CA-22 testing May 4 2026 PRESS RELEASE Randy Villegas’ Statement on DCCC’s Red to Blue Program DC Elites Put Their Thumb On The Scale To Prop Up Jasmeet BainS Kern County, CA – Today, the DC Establishment announced they are supporting Jasmeet Bains, who has repeatedly refused to protect the interests of the Central Valley, including her Prop 50 vote to protect Trump's attempt to rig our elections, in her primary against Randy Villegas, who has the support of all four in-district Democratic Party County Committee Chairs.
 This comes during a time when the Democratic establishment is increasingly unpopular and out of touch with voters.
-Since announcing his campaign over a year ago, Villegas is running a formidable campaign - earning key national and local endorsements and is the top fundraiser in this Primary without taking any corporate PAC money.
+Since announcing his campaign over #ago, Villegas is running a formidable campaign - earning key national and local endorsements and is the top fundraiser in this Primary without taking any corporate PAC money.
 Villegas is the only Latino candidate running in this 74% Latino district.
 “It is undemocratic to see DC elites putting their thumb on the scale in this race,” said Randy Villegas.
 “This district deserves a representative that will not flip flop on issues, one that shows up to take votes, one that is willing to be seen in our communities, and that is not Jasmeet Bains.
 Voters have the power to choose who represents our community, not DC elites and corporate interests.
 We cannot win this election only to trade one corrupt Representative who’s sold out our community for another.
 The Valley cannot be bought, and it’s time for a Congressmember who can’t be either.
-This is why I will continue to knock on every door and meet voters where they’re at to ensure we take our working families to DC.”
-His endorsements include Kern County Chair Christian Romo, Tulare County Chair Joshua Evans, Kings County Chair Cathy Jorgensen, Fresno County Chair Ruben Zarate, Civil Rights Leader Dolores Huerta, Sen.
+This is why I will continue to knock on every door and meet voters where they’re at to ensure we take our working families to DC.” His endorsements include Kern County Chair Christian Romo, Tulare County Chair Joshua Evans, Kings County Chair Cathy Jorgensen, Fresno County Chair Ruben Zarate, Civil Rights Leader Dolores Huerta, Sen.
 Bernie Sanders, Rep.
 Linda Sanchez, Rep.
 Robert Garcia, Rep.
 Greg Casar, Rep.
 Maxwell Frost, Rep.
 Ro Khanna, United Auto Workers, SMART, End Citizens United, California School Employees Association, California Teachers Association/National Educators Association, Caliornia Nurses Association/National Nurses United, California Young Democrats, and many more.
-- Total Number of Individual Donors: 19,043
-- Average Donation Size: $52
-- Corporate PAC contributions: $0
-####
-Randy Villegas is a Central Valley native, auto repair shop owner, and a community college professor.
+Total Raised for Campaign: $# Total Number of Individual Donors: 19,043 Average Donation Size: $# Corporate PAC contributions: $0 #### Randy Villegas is a Central Valley native, auto repair shop owner, and a community college professor.
 Growing up in a working-class immigrant family, Randy worked hard to help his parents make ends meet.
 Randy’s family relied on the crucial federal programs like WIC and Medicaid that are now in danger of being cut.
 Randy worked his way out of poverty through education and has dedicated his life to public service.
 As a local and school board trustee Randy has delivered for working families by standing up for the best interests of our children.
 As the only Latino and only Democrat on the school board, Randy has worked across the aisle to get things done.
 Now, Randy is running for Congress to stand up for other hard-working families who he sees falling through the cracks on David Valadao’s watch.
-Find out more at: www.villegasforcongress.com.
+Find out more at: www.villegasforcongress.com .
+Contact us at info@villegasforcongress.com Villegas for Congress PO Box 1346 Visalia, CA 93279 United States Privacy Policy Powered by RUN! website builder Paid for by Villegas for Congress You need to enable JavaScript to run this app.

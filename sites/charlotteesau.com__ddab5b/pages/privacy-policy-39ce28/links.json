@@ -1,5 +1,18 @@
 [
-"https://charlotteesau.com/m/account",
-"https://charlotteesau.com/privacy-policy",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "My Account",
+"href": "https://charlotteesau.com/m/account"
+},
+{
+"text": "Privacy Policy",
+"href": "https://charlotteesau.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://charlotteesau.com/m/account"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

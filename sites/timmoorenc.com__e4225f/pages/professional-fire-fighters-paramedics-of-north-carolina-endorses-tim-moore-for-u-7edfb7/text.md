@@ -1,7 +1,6 @@
-Professional Fire Fighters & Paramedics of North Carolina Endorses Tim Moore for U.S.
-Congress
-December 13, 2023
-Kings Mountain, N.C. — Today, The Professional Fire Fighters & Paramedics of North Carolina announced their endorsement of Speaker Tim Moore for the U.S.
+Skip to content Press Store DONATE Press DONATE Professional Fire Fighters & Paramedics of North Carolina Endorses Tim Moore for U.S.
+Congress Professional Fire Fighters & Paramedics of North Carolina Endorses Tim Moore for U.S.
+Congress December 13, 2023 Kings Mountain, N.C. — Today, The Professional Fire Fighters & Paramedics of North Carolina announced their endorsement of Speaker Tim Moore for the U.S.
 House of Representatives.
 “Speaker Moore worked to understand firefighter issues especially presumptive cancer.
 Once he bought in, the PFFPNC had a firefighter advocate for life, and we appreciate his work.
@@ -11,8 +10,8 @@ Speaker Moore not only supported presumptive cancer and line of duty death benef
 “I am honored to receive the coveted endorsement of the Professional Fire Fighters & Paramedics of North Carolina.
 Their unwavering commitment to public safety and dedication to serving our communities is truly commendable.
 I am grateful for their support, and together, we will work tirelessly to ensure the well-being of our citizens and the continued excellence of North Carolina’s emergency services,” said Speaker Tim Moore.
-The Professional Fire Fighters & Paramedics of North Carolina’s press release may be found HERE.
+The Professional Fire Fighters & Paramedics of North Carolina’s press release may be found HERE .
 Moore resides in Kings Mountain.
 He is the father of two sons, McRae and Wilson.
-For more information visit www.TimMooreNC.com.
-###
+For more information visit www.TimMooreNC.com .
+### VOTE Paid for by Friends of Tim Moore Privacy Policy Terms and Conditions

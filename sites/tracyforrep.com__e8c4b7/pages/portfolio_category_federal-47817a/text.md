@@ -1,2 +1,1 @@
-Paid for by Friends of Tracy Katz Muhl
-A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+NAV HOME ABOUT CAMPAIGN ISSUES ENDORSEMENTS VOLUNTEER CONTACT Congresswoman Jan Schakowsky Congressman Brad Schneider Senator Dick Durbin Paid for by Friends of Tracy Katz Muhl A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Digital4Dems Menu

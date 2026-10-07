@@ -1,11 +1,38 @@
 [
-"https://arlisformn.com/",
-"https://arlisformn.com/about",
-"https://arlisformn.com/endorsements",
-"https://arlisformn.com/home",
-"https://arlisformn.com/volunteer",
-"https://cart/",
-"https://facebook.com/profile.php?id=61583854686705&sk=reels_tab",
-"https://givebutter.com/arlis-for-mn-13a-mzgg67",
-"https://instagram.com/arlisformn13a?igsh=M3FmNTRtMjlqcDFv"
+{
+"text": "About",
+"href": "https://arlisformn.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://givebutter.com/arlis-for-mn-13a-mzgg67"
+},
+{
+"text": "Endorsements",
+"href": "https://arlisformn.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://arlisformn.com/home"
+},
+{
+"text": "Volunteer",
+"href": "https://arlisformn.com/volunteer"
+},
+{
+"text": "[image: Arlis Sayler | MN House District 13A]",
+"href": "https://arlisformn.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583854686705&sk=reels_tab"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arlisformn13a?igsh=M3FmNTRtMjlqcDFv"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

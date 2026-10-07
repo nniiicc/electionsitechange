@@ -1,27 +1,24 @@
-Rep.
-Stephen Lynch and others called for support of the US’s shipbuilding and repair assets
-By GRACE ZOKOVITCH | gzokovitch@bostonherald.com
-UPDATED: June 17, 2025 at 7:43 PM EDT
-U.S. representatives and Boston Ship Repair workers gathered at one of the country’s few remaining large dry docks in the Seaport on Monday, calling for investment and support for U.S. ship building and repair as the facilities struggle to survive overseas competition.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work Jun 18, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , National Security , News & Updates Rep.
+Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one of the country’s few remaining large dry docks in the Seaport on Monday, calling for investment and support for U.S. ship building and repair as the facilities struggle to survive overseas competition.
 “Let me be clear, if immediate action is not taken by our federal, state and city agencies, this year, this facility will face the same fate,” said Boston Ship Repair CEO Edward Snyder, citing the closure of the company’s shipyard in Philadelphia.
-“We will become a once talked about graveyard with a history but no future.”
-Rep.
+“We will become a once talked about graveyard with a history but no future.” Rep.
 Stephen Lynch, along with Rep.
 Joe Courtney from Connecticut and Rep.
 Jared Golden from Maine, called for “urgent investments” in facilities like the Boston dock supporting U.S.-based ship building and repair industries.
 Flanked by a hulking grey and black vessel docked in the facility’s basin over 1,000 feet long, the politicians, union and company leadership called the movement of work critical to military and commercial vessels a threat to the local economies and jobs, as well as the country’s national security.
 As layoffs hit the industry, Boston Ship Repair has shrunk from about 300 workers to now just 60, IAM Union Eastern Territory General Vice President David Sullivan said.
-About 80 U.S.-flagged ships are currently engaged in international commerce while China has more than 5,500, Sullivan said, calling on Americans to “pay attention to these numbers.”
-“It was facilities like this that allowed us to build and repair a Navy that preserved democracy when democracy hung in the balance,” said Lynch.
-“That is our role, and we are losing that capacity here in this country.”
-The group expressed support for U.S.
+About 80 U.S.-flagged ships are currently engaged in international commerce while China has more than 5,500, Sullivan said, calling on Americans to “pay attention to these numbers.” “It was facilities like this that allowed us to build and repair a Navy that preserved democracy when democracy hung in the balance,” said Lynch.
+“That is our role, and we are losing that capacity here in this country.” The group expressed support for U.S.
 Trade Representative penalties on Chinese ships, pushed by the Trump administration, and incentives related to U.S.-built vessels.
 They also heralded the SHIPS for America Act introduced in Congress, aiming to rebuild U.S. shipyard infrastructure.
 There is need for oversight in the work distribution, Golden said, noting that the Boston facility only sees 60 to 70% utilization while others face a backlog of repair work.
 “When the shipyard is empty, our members get laid off,” said IAM Union Local S25 President Andre Lavertue.
 “Too often we see younger workers get let go and never return to work.
-These jobs need to be secured, and we need consistent, efficient use of our shipyard here at home.”
-Rep.
+These jobs need to be secured, and we need consistent, efficient use of our shipyard here at home.” Rep.
 Courtney noted the “hyper competitive environment in Washington” in terms of funding priorities but the bipartisan support for the issue.
 “We’re in the process now of writing the 2026 National Defense Authorization Act, the 2026 budget, which Jared and I can tell you needs a lot of work in terms of what’s been given to us by the administration,” said Courtney.
-“But again, I’m an optimist that, with the right partnership and the right coalition of forces, this is an issue that rises above partisanship in terms of what the nation needs.”
+“But again, I’m an optimist that, with the right partnership and the right coalition of forces, this is an issue that rises above partisanship in terms of what the nation needs.” US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

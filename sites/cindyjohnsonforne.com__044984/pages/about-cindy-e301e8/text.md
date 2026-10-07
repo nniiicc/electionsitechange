@@ -1,4 +1,4 @@
-Cindy grew up the oldest of 7, on a farm in northeast Nebraska.
+Home Donate About Cindy Priorities Volunteer Home Donate About Cindy Priorities Volunteer More Home Donate About Cindy Priorities Volunteer Home Donate About Cindy Priorities Volunteer About Cindy Cindy grew up the oldest of 7, on a farm in northeast Nebraska.
 After attending the University of Nebraska-Lincoln for her Bachelor’s degree in Education, she pursued a Master’s degree and eventually obtained her doctorate in audiology.
 She and her family made Madison County their home for 17 years.
 After working for 9 years, Cindy started her own audiology practice in Norfolk.
@@ -11,6 +11,4 @@ Cindy also teaches Hearing Science to speech language pathology students at the 
 She is an active member of her church and a leader with Omaha Together One Community (OTOC).
 She lives in northwest Omaha with her husband, Marshall and their dog, Bert.
 Her family also includes their son Sean, daughter in law Ellie, and granddaughter Ruby.
-Cindy Johnson For Nebraska
-PO Box 541114, Omaha NE 68154
-Paid for by
+Cindy Johnson For Nebraska PO Box 541114, Omaha NE 68154 Paid for by Cindy Johnson For Nebraska PO Box 541114, Omaha NE 68154

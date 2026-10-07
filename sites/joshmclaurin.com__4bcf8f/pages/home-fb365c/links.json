@@ -1,20 +1,90 @@
 [
-"https://bsky.app/profile/joshforgeorgia.bsky.social",
-"https://facebook.com/JoshMcLaurinForGA",
-"https://instagram.com/josh__mclaurin",
-"https://instagram.com/p/DHwBb_8x2mN",
-"https://instagram.com/reel/DOfIr2CDJG2?igsh=NTc4MTIwNjQ2YQ%3D%3D",
-"https://instagram.com/reel/DQIFOdbCQrg?igsh=NTc4MTIwNjQ2YQ%3D%3D",
-"https://instagram.com/reel/DSI-woFgW1h?igsh=NTc4MTIwNjQ2YQ%3D%3D",
-"https://joshmclaurin.com/",
-"https://joshmclaurin.com/about",
-"https://joshmclaurin.com/cart",
-"https://joshmclaurin.com/contact",
-"https://joshmclaurin.com/endorsements",
-"https://joshmclaurin.com/home",
-"https://joshmclaurin.com/priorities",
-"https://joshmclaurin.com/privacy-policy",
-"https://secure.actblue.com/donate/jm2026",
-"https://threads.com/@josh__mclaurin",
-"https://tiktok.com/@josh.mclaurin"
+{
+"text": "0",
+"href": "https://www.joshmclaurin.com/cart"
+},
+{
+"text": "About Josh",
+"href": "https://www.joshmclaurin.com/about"
+},
+{
+"text": "Chip in Today!",
+"href": "https://secure.actblue.com/donate/jm2026"
+},
+{
+"text": "Contact",
+"href": "https://www.joshmclaurin.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@joshforgeorgia.com?body="
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jm2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joshmclaurin.com/endorsements"
+},
+{
+"text": "Explore Priorities",
+"href": "https://www.joshmclaurin.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.joshmclaurin.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.joshmclaurin.com/privacy-policy"
+},
+{
+"text": "See Endorsements",
+"href": "https://www.joshmclaurin.com/endorsements"
+},
+{
+"text": "[image: Josh McLaurin for Georgia Lieutenant Governor]",
+"href": "https://www.joshmclaurin.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/p/DHwBb_8x2mN/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/reel/DOfIr2CDJG2/?igsh=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/reel/DQIFOdbCQrg/?igsh=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/reel/DSI-woFgW1h/?igsh=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.joshmclaurin.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshMcLaurinForGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/josh__mclaurin"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@josh__mclaurin"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.mclaurin"
+}
 ]

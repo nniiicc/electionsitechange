@@ -1,6 +1,34 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeFVeaoeQYFm1eHtC4RRAaHZBgV4l1mLKsayvQkKlqDYSK4NA/viewform",
-"https://facebook.com/profile.php?id=61586000050166",
-"https://olvr.ohiosos.gov/",
-"https://secure.actblue.com/donate/salamon"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/salamon"
+},
+{
+"text": "DONATE TO SAMANTHA'S CAMPAIGN",
+"href": "https://secure.actblue.com/donate/salamon"
+},
+{
+"text": "EMAIL SAMANTHA",
+"href": "mailto:samantha@salamonforohio.com"
+},
+{
+"text": "EMAIL SAMANTHA",
+"href": "mailto:voteforsamanthasalamon@gmail.com"
+},
+{
+"text": "FOLLOW SAMANTHA ON FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61586000050166"
+},
+{
+"text": "Register to Vote!",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "VOLUNTEER WITH SAMANTHA'S CAMPAIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeFVeaoeQYFm1eHtC4RRAaHZBgV4l1mLKsayvQkKlqDYSK4NA/viewform"
+},
+{
+"text": "sign up here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeFVeaoeQYFm1eHtC4RRAaHZBgV4l1mLKsayvQkKlqDYSK4NA/viewform"
+}
 ]

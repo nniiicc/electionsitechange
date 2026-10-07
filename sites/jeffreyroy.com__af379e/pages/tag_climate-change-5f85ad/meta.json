@@ -1,9 +1,20 @@
 {
  "description": "Posts about climate-change written by Jeffrey Roy",
  "final_url": "https://jeffreyroy.com/tag/climate-change/",
- "paid_for_by": null,
+ "fingerprint": "27c6660ec35bf884a3a6c30af2cb272887cf762a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "climate-change |",
  "years_mentioned": [
-  "2024"
+  "1983",
+  "2006",
+  "2007",
+  "2008",
+  "2010",
+  "2011",
+  "2014",
+  "2021",
+  "2024",
+  "2025"
  ]
 }

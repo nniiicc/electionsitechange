@@ -1,23 +1,102 @@
 [
-"http://theguerrillapolitic.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link",
-"https://facebook.com/VoteKellyBreen",
-"https://instagram.com/kellybreenmi",
-"https://secure.actblue.com/donate/kellybreenwebsite",
-"https://votekellybreen.com/",
-"https://votekellybreen.com/about",
-"https://votekellybreen.com/better-education",
-"https://votekellybreen.com/contact",
-"https://votekellybreen.com/endorsements",
-"https://votekellybreen.com/events",
-"https://votekellybreen.com/healthier-michigan",
-"https://votekellybreen.com/meetkelly",
-"https://votekellybreen.com/my-priorities",
-"https://votekellybreen.com/news",
-"https://votekellybreen.com/priorities",
-"https://votekellybreen.com/search",
-"https://votekellybreen.com/thriving-michigan",
-"https://votekellybreen.com/tighter-knit",
-"https://votekellybreen.com/updates-in-progress-1",
-"https://votekellybreen.com/volunteer2"
+{
+"text": "A Better Educated Michigan",
+"href": "https://www.votekellybreen.com/better-education"
+},
+{
+"text": "A Healthier Michigan",
+"href": "https://www.votekellybreen.com/healthier-michigan"
+},
+{
+"text": "A More Affordable Michigan",
+"href": "https://www.votekellybreen.com/thriving-michigan"
+},
+{
+"text": "A Tighter-Knit Michigan",
+"href": "https://www.votekellybreen.com/tighter-knit"
+},
+{
+"text": "About",
+"href": "https://www.votekellybreen.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votekellybreen.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kellybreenwebsite"
+},
+{
+"text": "Endorsed",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Get Together",
+"href": "https://www.votekellybreen.com/meetkelly"
+},
+{
+"text": "Home",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.votekellybreen.com/news"
+},
+{
+"text": "Learn More",
+"href": "https://www.votekellybreen.com/my-priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.votekellybreen.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link"
+},
+{
+"text": "Re-Elect Kelly Breen",
+"href": "https://www.votekellybreen.com/updates-in-progress-1"
+},
+{
+"text": "THE GUERRILLA POLITIC, LLC",
+"href": "http://www.theguerrillapolitic.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votekellybreen.com/volunteer2"
+},
+{
+"text": "[image: Kelly Breen for State Representatitve]",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteKellyBreen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kellybreenmi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekellybreen.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@kellybreen.com"
+},
+{
+"text": "events",
+"href": "https://www.votekellybreen.com/events"
+},
+{
+"text": "please reach out",
+"href": "https://www.votekellybreen.com/contact"
+}
 ]

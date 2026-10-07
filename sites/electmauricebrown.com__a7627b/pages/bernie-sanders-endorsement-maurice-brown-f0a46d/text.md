@@ -1,7 +1,6 @@
-Bernie Sanders Endorsed Our Campaign.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Bernie Sanders Endorsed Our Campaign.
 Here’s Why It Means So Much to Me.
-May 18th 2026
-In case you missed it, Bernie Sanders has endorsed our Campaign for New York State Assembly.
+May 18th 2026 In case you missed it, Bernie Sanders has endorsed our Campaign for New York State Assembly .
 This moment allows me to reflect on how I got here.
 In 2015, I was frustrated with politics.
 Like a lot of young people, I looked at government and saw institutions that often felt disconnected from everyday people.
@@ -9,14 +8,14 @@ Housing costs were rising.
 Wages were not keeping up.
 Healthcare remained too expensive.
 Too often, politics felt like a system designed to protect wealthy interests while asking working people to settle for less.
-Then I learned about Bernie Sanders’ run for president.
+Then I learned about Bernie Sanders ’ run for president.
 For the first time, I saw someone speak clearly about the problems people in my generation were actually living through.
 He was talking about healthcare as a right, affordable housing, economic inequality, and the idea that government should actively improve people’s lives.
 He was not telling people to lower their expectations.
 He was telling people to demand more from their government.
 For millions of people, including me, that campaign created a new sense of political possibility.
 I joined Syracuse for Sanders and began organizing locally because I believed in that vision.
-In 2016, I had the honor of serving as a national delegate for Bernie’s presidential campaign.
+In 2016, I had the honor of serving as a national delegate for Bernie’s presidential campaign .
 In 2020, I returned as a delegate again.
 Those experiences introduced me to organizing, shaped my political worldview, and helped set me on the path that eventually led me to public service.
 Years later, I now serve as an Onondaga County Legislator, and I am running for State Assembly because I believe our communities need leaders who are willing to meet the scale of the challenges people are facing.
@@ -58,7 +57,7 @@ It is about whether we protect our environment.
 It is about whether government can rise to meet this moment and actually improve people’s lives.
 That is the work in front of us now.
 And I am ready for it.
-What does Bernie Sanders’ endorsement say about the race against Bill Magnarelli?
+Read More of My Thoughts on Current Events Frequently Asked Questions: What does Bernie Sanders’ endorsement say about the race against Bill Magnarelli?
 The endorsement highlights growing support for Maurice Brown’s campaign and reflects broader conversations within the Democratic Party about affordability, economic justice, and generational leadership.
 What issues connect Maurice Brown and Bernie Sanders politically?
 Both campaigns have emphasized affordability, economic inequality, affordable housing, public transportation, environmental protection, and the idea that government should actively improve people’s lives.
@@ -67,4 +66,6 @@ Yes.
 Maurice Brown served as a delegate for Bernie Sanders during both the 2016 and 2020 presidential campaigns.
 Why does Maurice Brown talk about generational change in relation to Bill Magnarelli?
 Maurice Brown has argued that politics should intentionally develop and elevate newer leadership rather than relying indefinitely on the same generation of elected officials.
-Brown believes voters are looking for leaders prepared to meet today’s challenges with new ideas and urgency.
+Brown believes voters are looking for leaders prepared to meet today’s challenges with new ideas and urgency. ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

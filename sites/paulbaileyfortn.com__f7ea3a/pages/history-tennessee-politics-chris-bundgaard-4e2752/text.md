@@ -1,13 +1,12 @@
-Sen.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Podcast / A Journey Through the History of Tennessee Politics with Chris Bundgaard A Journey Through the History of Tennessee Politics with Chris Bundgaard Sen.
 Paul Bailey sits down with recently retired journalist Chris Bundgaard and discusses Tennessee’s political climate throughout the ’90s and early 2000s.
 Mr.
 Bundgaard recounts his interviews with several politicians over the years and goes into how he remembers the protests on Capitol Hill.
 Now retired, Mr.
 Bundgaard is enjoying the much-deserved break from the fast-paced life of being a TV journalist.
-Guest:
-- Chris Bundgaard, Retired News 2 Capitol Reporter
-Transcript:
-Announcer: For the politics of Nashville, to the history of the Upper Cumberland, this is the Backroads and Backstories podcast with Senator Paul Bailey.
+Guest: Chris Bundgaard, Retired News 2 Capitol Reporter Transcript: Announcer: For the politics of Nashville, to the history of the Upper Cumberland, this is the Backroads and Backstories podcast with Senator Paul Bailey.
 Sen.
 Bailey: Welcome back to the podcast.
 I’m your host, Senator Paul Bailey.
@@ -21,8 +20,7 @@ Bundgaard: Well, thank you for having me.
 And first of all, I’d really like—thought a lot about the last over a year about folks in your area recovering from the storms.
 And I know that you talked to me, the House Speaker talked to me, and Representative Williams, and I know you’ve done a lot of work for those folks.
 And I’ve been up in those, as you may know, in that territory on stories, and I really, you know a lot of thought and a lot of hard work, and I know a lot of people are still thinking about them, not only in Tennessee, but I’ve had people—when I’ve traveled, I’ve had family members ask about the tornado victims in Tennessee.
-So—
-Sen.
+So— Sen.
 Bailey: Well, thank you.
 Mr.
 Bundgaard: —we’ll get that out of the way.
@@ -52,8 +50,7 @@ Mr.
 Bundgaard: Well, it’s powerful stuff.
 And it’s humanity.
 It’s people’s lives.
-I mean, it’s just—it’s what it’s all about with politics, in the sense of, okay, I’ve been elected to this office, people are going to look to me for leadership—
-Sen.
+I mean, it’s just—it’s what it’s all about with politics, in the sense of, okay, I’ve been elected to this office, people are going to look to me for leadership— Sen.
 Bailey: And help putting their lives back together.
 Mr.
 Bundgaard: I was talking to [Dawson 00:03:59], who is a young man helping out—I don’t know if his name has come up before in your podcast, but he’s helping you out here—and I was telling him about I have been in places.
@@ -70,8 +67,7 @@ People love that about Tennessee, and it really does…you know, [sigh] you thro
 And I was not up in Cookeville, but I talked to you, and Ryan Williams, and House Speaker Sexton as part of that area that was affected.
 And that’s when leadership really matters.
 Sen.
-Bailey: Right, well—
-Mr.
+Bailey: Right, well— Mr.
 Bundgaard: Because it’s your neighbors.
 Sen.
 Bailey: It is.
@@ -90,15 +86,13 @@ So, where did you grow up at?
 Mr.
 Bundgaard: Where do you think?
 Sen.
-Bailey: Well, you kind of sound like you’ve got a little Minnesota background to you there…
-Mr.
+Bailey: Well, you kind of sound like you’ve got a little Minnesota background to you there… Mr.
 Bundgaard: Oh, you’ve been reading.
 You—this—too—that’s too easy.
 You could Google, you can find old website.
 So, it’s interesting you ask that question because when I grew up until about the age I went to college in an area outside of the Twin Cities, my father was a coach and athletic director.
 My mother was an English teacher.
-It was a little—
-Sen.
+It was a little— Sen.
 Bailey: Well, wait just a minute.
 You said your father was a coach?
 Mr.
@@ -135,8 +129,7 @@ Bundgaard: It’s your show.
 Sen.
 Bailey: [laugh].
 Mr.
-Bundgaard: You can—
-Sen.
+Bundgaard: You can— Sen.
 Bailey: You remember that, now. [laugh].
 Mr.
 Bundgaard: [laugh].
@@ -148,8 +141,7 @@ Bundgaard: Well, she was an English teacher.
 Sen.
 Bailey: An English teacher.
 Okay.
-So there—
-Mr.
+So there— Mr.
 Bundgaard: And she was a reporter briefly, here and there.
 She was interested in that.
 And she did go to college, which was unusual during the Depression.
@@ -158,15 +150,13 @@ She always wanted to know things about people, kind of what makes them tick, why
 And her father, my grandfather, was a traveling salesman selling Post Foods.
 And I think part of his technique was—I mean, he had people that he would sell to, every year, feed in Nebraska, this sort of thing, and it was all built on personal relationships.
 I mean, we’re going back, now, 100 years, and I saw that my grandfather talked about it.
-You know, I would see him as a kid talking to so-and-so on the street in this town in Nebraska where he lived, and I say, “Grandpa, who is that?”
-And he’d tell me in this wonderful way that all of our grandparents used to tell stories to their grandkids.
+You know, I would see him as a kid talking to so-and-so on the street in this town in Nebraska where he lived, and I say, “Grandpa, who is that?” And he’d tell me in this wonderful way that all of our grandparents used to tell stories to their grandkids.
 Somebody asked me once, “Why do you want to get in and do this and what I ended up doing for forty-two or -three years?” That’s a big part of it.
 I think one of the greatest questions that ever been asked is one of the simplest questions.
 The late NBC News reporter Roger Mudd, who was also an anchorman and did some broadcasts, and—he used to be at CBS—but he had a famous interview with Senator Kennedy, Teddy Kennedy in 1980.
 And it was a simple question.
 “Why do you want to be president?
-Why?”
-Sen.
+Why?” Sen.
 Bailey: And he couldn’t answer it.
 Mr.
 Bundgaard: He couldn’t answer it.
@@ -177,8 +167,7 @@ And I’ve put that question to folks.
 I don’t know if I ever said that to you, but I said it to Bill Lee.
 I said, “Why do you want this?
 And I don’t want to hear about what you can do, but what is it?” And he was talking about things like public service, and a need to—a need, I think, to serve.
-I may have got a few words—but you’ve heard that—and—
-Sen.
+I may have got a few words—but you’ve heard that—and— Sen.
 Bailey: But is that a typical answer that most politicians give whenever they’re asked that question?
 Mr.
 Bundgaard: Yeah.
@@ -236,7 +225,7 @@ Very similar to what it is now.
 I mean, I—this is part of the history that I tried to learn when I came here, started coming up here a lot in the ’90s.
 But think about that.
 This is—I mean when you were growing up—and you are from Sparta and that all—that’s where you’ve always been right?
-I don’t want to get into this too much about you, but you remember when this state, it’s hard to believe, just 20 years ago.
+I don’t want to get into this too much about you, but you remember when this state, it’s hard to believe, just #ago.
 Heck, you might have even voted for Al Gore.
 You don’t have to answer because this is your show as you’ve remind them many times.
 Sen.
@@ -247,8 +236,7 @@ Bundgaard: No.
 Sen.
 Bailey: Oh, where.
 So, were you just basically a news journalist?
-And did you come to work for WKRN at—
-Mr.
+And did you come to work for WKRN at— Mr.
 Bundgaard: Yes.
 Sen.
 Bailey: —that time?
@@ -293,8 +281,7 @@ And the most uninspired candidate at the time.
 But somehow, somebody said, “Hey, maybe you should drive around in a red truck and kind of reenergize yourself.” He also handled himself very well in the televised debates, if I remember correctly.
 And I think that inspired him, and he had some very good people around him that kind of repackaged him.
 And there were some, I think, some real missteps by the Democrats at the time.
-But anyway, all of a sudden, Tennessee went from having two Democrat US senators to having two—
-Sen.
+But anyway, all of a sudden, Tennessee went from having two Democrat US senators to having two— Sen.
 Bailey: To having two Republican.
 Mr.
 Bundgaard: Yeah.
@@ -302,8 +289,7 @@ But again, ’94, that was still a time when it was overwhelming, Democrats.
 Republicans were not powerless, but they worked with Democrats, believe it or not.
 Sen.
 Bailey: Right.
-So, I’m assuming then the Sundquist was the first gubernatorial—
-Mr.
+So, I’m assuming then the Sundquist was the first gubernatorial— Mr.
 Bundgaard: Yes.
 Sen.
 Bailey: —administration that you—so that was probably interesting, especially during the second term when Sundquist really pushed for the state income tax.
@@ -334,8 +320,7 @@ On July 12, 2001, it really looked like an income tax in some version was going 
 And I think one of the masterful things that happened at that time was we just called it ‘the income tax.’ Well, it wasn’t just the income tax; it was about redoing the state’s tax system, which meant that 10 cents that everybody pays, just about anything they buy—with few exceptions; you’ve got a good lobbyist for certain areas, you’ll knock down the sales tax—but the idea was to sort of have a balanced, we will impose a se—an income tax, but we will also lower the sales tax.
 Because there were issues there were arguments made about fairness.
 And I mean, that ship has sailed, but that was one of the masterful things that happened politically: it was just called, “Oh, the income tax,” “Democrats want and income tax.
-Sundquist wants an income tax.” But there were really people that were very smart, who were trying to go, “Look, guys, this is the highest sales tax in the country.” But on the other hand, a lot of folks, they go, “It’s really unfair if you think you’re going to touch my pocketbook.”
-And it’s a selling point.
+Sundquist wants an income tax.” But there were really people that were very smart, who were trying to go, “Look, guys, this is the highest sales tax in the country.” But on the other hand, a lot of folks, they go, “It’s really unfair if you think you’re going to touch my pocketbook.” And it’s a selling point.
 It’s been a great selling point for economic development.
 You’ve heard this over and over again.
 Tennessee doesn’t have an income tax.
@@ -347,8 +332,7 @@ And yes, Marsha Blackburn is where she is today because of that very issue.
 Sen.
 Bailey: Right.
 Mr.
-Bundgaard: I talked to people who ran in that primary in 2002 when she went from the US Senate—
-Sen.
+Bundgaard: I talked to people who ran in that primary in 2002 when she went from the US Senate— Sen.
 Bailey: Or State Senate.
 Mr.
 Bundgaard: Or State Senate, very sorry—and she wanted to go to Congress.
@@ -370,27 +354,24 @@ And this went on all day.
 And then I got a lawmaker—who recently died in the past year or so—named Jerry Cooper, who was a Democrat from the McMinnville area, Warren County, and he was a real deal-maker, took great relish in it—he, uh, he, kind of, uh, talked like this—and I got him to go on about 4:30 in the afternoon, and say, “Well, Chris.
 Here’s what we’re going to do.
 We’re going to introduce the income tax.
-Well, we’re going to bring this bill up that has this and that, and it will lower the sales tax, and we got the votes I think.”
-He—very poor imitation, but he was a real interesting guy.
+Well, we’re going to bring this bill up that has this and that, and it will lower the sales tax, and we got the votes I think.” He—very poor imitation, but he was a real interesting guy.
 But I interviewed him over in the corner.
 Nobody knew what was going on.
 He spilled the beans.
 This is at 4:30 in the afternoon.
 Put it on there right then.
-And the photographer who was with me said, “How soon do you think the horn honking is going to start?”
-Sen.
+And the photographer who was with me said, “How soon do you think the horn honking is going to start?” Sen.
 Bailey: [laugh].
 Mr.
 Bundgaard: And it was really funny because by—again, I interviewed at a four-th—well, let’s say we put it on at 4:30.
 I said, “Well, there’s talk that the state lawmakers are going to—one more attempt”—and this is July.
 They’re in a special session to try and solve this issue with the budget, change the way Tennessee taxes its constituents.
-So Cooper, who was in a leadership position in the Senate—Democrat—spilled the beans, talk to me, and there were people going, “He said—did he tell you that?”
-I mean, I knew it, so we broadcast it.
+So Cooper, who was in a leadership position in the Senate—Democrat—spilled the beans, talk to me, and there were people going, “He said—did he tell you that?” I mean, I knew it, so we broadcast it.
 And that was really how it happened.
 And Senator Blackburn—now she may dispute some of this, but there—and there was other talk, but she was seen writing emails—call out the troops—to some of the local talk show hosts.
 Because keep in mind, had computers back then, but you also have cameras; I can almost see what you’re doing at your desk.
 I can’t remember where you sit in the Senate, but I think you probably know that by now that whatever you have on a screen that somebody else might see.
-But we didn’t know that 20 years ago.
+But we didn’t know that #ago.
 People weren’t thinking about that.
 But Marsha, who’d been a very vocal opponent—Senator Blackburn—she certainly made her reputation against the income tax, and it was very politically advantageous.
 And decisions were made outside the Sundquist administration from the party chair at the time, a guy named Chip Saltsman is still around.
@@ -406,7 +387,7 @@ But if you knew who to look at, and there were some interesting people who were 
 And keep in mind, this is after several years.
 This was the real crescendo, the apex of it where there were the most protesters.
 That was the night—allegedly—a rock was thrown through the window of the governor’s office.
-That story is—heck, I talked to John Mark Wendell 20 years ago who’s still just right next door to you guys up there.
+That story is—heck, I talked to John Mark Wendell #ago who’s still just right next door to you guys up there.
 And you may have part of his district.
 But Mark, John Mark was, uh—I can’t remember whose office it was in, but he was in there,and he talked about the rock coming in.
 And oh, I interviewed Steve Gill, who was—he was, I think he had his radio show on the plaza.
@@ -425,12 +406,9 @@ As a reporter—I mean, I guess I can, but there are certain rules of decorum.
 Folks didn’t care.
 I mean, there were some who really—there were a lot of people watching this who were—I can remember a couple of lobbyists sitting like this over in the corner, arms across, just going, “This is amazing what’s going on here.” And who knows what’s going to happen here, but it was all in the Senate.
 It came down to the Senate, whether they had seven—let’s see.
-You needed seven—
-Sen.
-Bailey: Seventeen—
-Mr.
-Bundgaard: —seventeen—
-Sen.
+You needed seven— Sen.
+Bailey: Seventeen— Mr.
+Bundgaard: —seventeen— Sen.
 Bailey: Votes.
 Yeah.
 Mr.
@@ -448,8 +426,7 @@ But we didn’t care.
 We didn’t know who he was.
 I mean, we knew who he was, but he was of that Republican segment that was going to be against it.
 But there were a fair amount of Republicans who were in the house who were going to vote for it.
-This thing did not come down neatly—
-Sen.
+This thing did not come down neatly— Sen.
 Bailey: Between party lines.
 Mr.
 Bundgaard: Yeah.
@@ -460,7 +437,7 @@ Bundgaard: And I think there were issues with Senator Harper—who was the State
 But she would always ask the question, “Well, how is this going to change in my community?” And she would make the argument about the sales tax that is fairly—unfairly hits lower-income people more.
 I mean all of these, and that’s a conversation for another time.
 But again, that issue about taxation, that ship has sailed in Tennessee.
-And again, you’ll hear, “The income tax wars of the late ’90s and early 2000s.” Well, I was right in the middle of them, in ways that was unbelievable.
+And again, you’ll hear, “The income tax wars of the late ’#s and early #s.” Well, I was right in the middle of them, in ways that was unbelievable.
 I mean, have you ever had a Saturday session here?
 Sen.
 Bailey: No.
@@ -476,16 +453,14 @@ Saturday morning, and it was just, they would sit, and argue, and get all these 
 Oh, you know, it—the idea of seeing people running around the Capitol, just did not happen.
 And there were lots of names that were thrown, angry mob.
 Well, not really.
-They were loud, but it really was a defining—
-Sen.
+They were loud, but it really was a defining— Sen.
 Bailey: Moment in Tennessee politics.
 Mr.
 Bundgaard: Yeah.
-And paved the way for people like you to be at the Capitol because your area in Upper Cumberland was about as Democrat as I can—
-Sen.
+And paved the way for people like you to be at the Capitol because your area in Upper Cumberland was about as Democrat as I can— Sen.
 Bailey: Oh, absolutely.
 Mr.
-Bundgaard: —remember, 20 years ago.
+Bundgaard: —remember, #ago.
 Sen.
 Bailey: Absolutely.
 It was heavily represented by Democrats.
@@ -494,13 +469,13 @@ So, when you see on the news today, the protests that are taking place all acros
 Did you see the violence in Nashville, or did you just see people that were here, wanting their voice heard?
 They weren’t being destructive, but yet today in these cities, we’re seeing people being very destructive in the way that they’re protesting?
 Mr.
-Bundgaard: Well, I think I described at our Capitol in Tennessee, the people’s house—that was a term I heard a lot 20 years ago—looking at that, and comparing it to, let’s say, what happened at the US Capitol, I mean, what happened in Tennessee 20 years ago, it was really eye-opening, but it was a picnic compared to what went on in DC.
+Bundgaard: Well, I think I described at our Capitol in Tennessee, the people’s house—that was a term I heard a lot #ago—looking at that, and comparing it to, let’s say, what happened at the US Capitol, I mean, what happened in Tennessee #ago, it was really eye-opening, but it was a picnic compared to what went on in DC.
 I mean, my heart broke.
 I’ve been in the US Capitol; you’ve been in the US Capitol.
 We’ve all, despite whatever political persuasion you are, that’s a symbol of our Democracy.
 And Democracy is imperfect; we all know that.
 But it’s the only system we’ve got, and it’s a great experiment [unintelligible 00:35:12] you could go into all of that.
-But I—there were allegations 20 years ago—and, well, I know what happened because there was a journalist for the Tennessean who was mistaken [laugh] for the senator from Wilson County named Bob Rochelle—and they kind of looked alike—and he was slugged in the stomach.
+But I—there were allegations #ago—and, well, I know what happened because there was a journalist for the Tennessean who was mistaken [laugh] for the senator from Wilson County named Bob Rochelle—and they kind of looked alike—and he was slugged in the stomach.
 This reporter.
 Like I said, the brick through the window.
 I mean, I’ve had conversations with Steve Gill, who I’ve known a very long time—both old basketball players—and like I said, I interviewed him that night, and he was out, leading the charge a lot.
@@ -509,7 +484,7 @@ As was Senator Blackburn.
 But Steve was on the air.
 But as far as the violence, I mean, there was—[sigh] it just pales so much.
 And maybe we’ve got to learn to protest a little better.
-It was a good protest 20 years ago.
+It was a good protest #ago.
 It raised our eyebrows.
 We were all amazed at what was going on.
 We hadn’t seen that.
@@ -533,11 +508,9 @@ So, at the Christmas party he had for the Capitol Hill press corps, which is all
 And the question to me—and he asked it two years in a row [laugh].
 He’d forgotten he’d asked me once before—said, “Who’s your most interesting politician?” And, you know, without hesitation, it was a gentleman named John Shelton Wilder, otherwise known as Lieutenant Governor Wilder, who reigned here for 40 years.
 And to describe him briefly is just almost, it’s almost impossible.
-But he reigned—with a coalition, what eventually became a coalition of Democrats and Republicans—
-Sen.
+But he reigned—with a coalition, what eventually became a coalition of Democrats and Republicans— Sen.
 Bailey: Republicans.
-He can—
-Mr.
+He can— Mr.
 Bundgaard: That’s unheard-of.
 Sen.
 Bailey: You know, the story is, he can count to 17 better than anyone when it came to being elected Lieutenant Governor.
@@ -546,10 +519,9 @@ Bundgaard: And he talked like this.
 And I remember one time, he got me in the hallway, and he said, “Why you want to talk to me?” I, I, I was going to talk to the Lieutenant Governor about something.
 You never interviewed the Lieutenant Go—you might catch a phrase or two, but he didn’t hold news conferences.
 What he had was a cave, and he took me by the arm one time, grabbed me in the middle of the hallway.
-Word had gotten back to him and he wanted to give me what I was—what was called at the time, ‘the Wilder treatment.’ And you got—I literally was—and he had this kind of funny look on his face, and he was older, and it was—I was—25 years ago, brand new up there.
+Word had gotten back to him and he wanted to give me what I was—what was called at the time, ‘the Wilder treatment.’ And you got—I literally was—and he had this kind of funny look on his face, and he was older, and it was—I was—#ago, brand new up there.
 But I think he wanted to let me know who is in charge and I was dragged back into his cave.
-And—
-Sen.
+And— Sen.
 Bailey: Which was his office.
 Mr.
 Bundgaard: Yes, I am sorry.
@@ -565,21 +537,18 @@ And then he would save what he had to say for these meandering, incredible Senat
 And they were riveting, and half the time people did not know what he was talking about.
 But on one particular occasion, and I believe it was during the income tax—like I said, one of the most significant events in Tennessee history, or the battles over that, and what—Wilder started at, like, nine o’clock on Thursday, Wednesday morning, and they—trying to define where he was going to be on this issue.
 And he started talking, this is on—you know, [sigh] it wasn’t being broadcast then, it wasn’t on radio, there was no audio, except for what we were doing with the cameras.
-And he got in this speech, and he said, “Last night”—you know in his West Tennessee drawl—“A bed devil got bed with me”—and—
-Sen.
+And he got in this speech, and he said, “Last night”—you know in his West Tennessee drawl—“A bed devil got bed with me”—and— Sen.
 Bailey: And now wait a minute.
 He said what?
 Mr.
-Bundgaard: Now, I know I’m saying to just like he said—
-Sen.
+Bundgaard: Now, I know I’m saying to just like he said— Sen.
 Bailey: A bed devil.
 Mr.
 Bundgaard: —we’re sitting there in the Senate press corps area, and saying, “What did he say?
 What?
 What’s”—you know, you could kind of whisper between.
 We’re behind the glass and you guys don’t hear us and stuff.
-And go, “The blankety-blank is he”—“That, that bed devil, that bed devil was Uncle Sam.” And it was just—
-Sen.
+And go, “The blankety-blank is he”—“That, that bed devil, that bed devil was Uncle Sam.” And it was just— Sen.
 Bailey: [laugh].
 Mr.
 Bundgaard: —and he went again.
@@ -589,12 +558,10 @@ But it was—this is what people would see when they’d go up to the Capitol.
 And it looked every bit like what Hollywood probably thought a Southern legislature—and I put together a tape of Wilder, and Doug Henry, Jimmy Naifeh—this was for Sundquist’s going away party.
 I’ve never talked about this publicly.
 You’re the first.
-You’re getting something—
-Sen.
+You’re getting something— Sen.
 Bailey: All right.
 Mr.
-Bundgaard: —out of here—
-Sen.
+Bundgaard: —out of here— Sen.
 Bailey: Well okay.
 Mr.
 Bundgaard: Well, and only one copy exists; I have that copy.
@@ -619,8 +586,7 @@ But that was—I’ve joked with people over the years that that was my greatest
 But anyway, it basically defined those Sundquist years, and it was his goodbye.
 And he was so terribly unpopular.
 Sen.
-Bailey: And so did you ever get the interview with Wilder in all the years—
-Mr.
+Bailey: And so did you ever get the interview with Wilder in all the years— Mr.
 Bundgaard: Oh, no.
 I mean, well, I didn’t go in there, into his office with a camera.
 He just wanted to talk to me, like, I don’t want to.
@@ -636,8 +602,7 @@ Bundgaard: You got only two doors.
 Sen.
 Bailey: Right.
 Mr.
-Bundgaard: And that’s a little bit of a trick to that and sometimes—
-Sen.
+Bundgaard: And that’s a little bit of a trick to that and sometimes— Sen.
 Bailey: You wait until—you let other members go way ahead of you, especially those that may need to be [laugh] interviewed.
 Mr.
 Bundgaard: And then you wait, and you wait, you go, “God, you know we—I, I know that they’ve got”—yeah.
@@ -681,12 +646,10 @@ Mr.
 Bundgaard: Oh, yes.
 And again, he was also a charmer.
 There was a reporter from the station I worked with who was going to cover his committee.
-And he came up to me, grabbed my arm and said, “I want to meet her.”
-And I laughed, and I said, “Well, I’m sure you do what you need to do, introduce yourself.” [unintelligible 00:48:38], “No, no, no, no, no.
+And he came up to me, grabbed my arm and said, “I want to meet her.” And I laughed, and I said, “Well, I’m sure you do what you need to do, introduce yourself.” [unintelligible 00:48:38], “No, no, no, no, no.
 I want to meet her.” And I says, “Well, I’m not.” Well, you can imagine the conversation.
 He held up the committee fifteen minutes so he could meet this fellow reporter who’d come up.
-And she didn’t know what she was getting into, but she was covering an issue in his committee, and he wanted to go out with her, and—
-Sen.
+And she didn’t know what she was getting into, but she was covering an issue in his committee, and he wanted to go out with her, and— Sen.
 Bailey: [laugh].
 Mr.
 Bundgaard: —he thought I could help him.
@@ -720,8 +683,7 @@ You know, [sigh] there’s been moments when you feel your job defines you—and
 I mean, but it gets to a point in life you want to do some other things.
 Sen.
 Bailey: I got you.
-Well—
-Mr.
+Well— Mr.
 Bundgaard: Yeah, I know.
 Sen.
 Bailey: —and you mentioned that you’re 68.
@@ -770,8 +732,7 @@ Bailey: It’s Pelham.
 Mr.
 Bundgaard: It’s Pelham, not Pell-ham as I heard the other night on the tornader—tor—tornadoes.
 Sen.
-Bailey: I can tell you’ve already, you know—
-Mr.
+Bailey: I can tell you’ve already, you know— Mr.
 Bundgaard: Oh, yeah.
 Oh, yeah.
 Sen.
@@ -789,7 +750,8 @@ Bailey: Final question.
 And it just dawned on me.
 I didn’t ask you about Muhammad Ali.
 Mr.
-Bundgaard: Well, that’s on my Facebook page, and it’s been there since I got on Facebook in nineteen—nineteen. [laugh]—showing my age—in 20—whenever it started. 2009.
+Bundgaard: Well, that’s on my Facebook page, and it’s been there since I got on Facebook in nineteen—nineteen. [laugh]—showing my age—in 20—whenever it started.
+2009.
 Muhammad A—I was in Salt Lake City, Muhammad Ali, it was after his career, and somebody said to me, “Muhammad Ali is going to be”—I mean, this is the most famous person in the world at that time.
 More than presidents, I think.
 Because you have to remember his reach in places like Asia, and Africa.
@@ -845,8 +807,7 @@ Bailey: [laugh].
 Mr.
 Bundgaard: And it was just like—and nobody cared.
 I mean, it was—but think about it.
-One of the tenets of the LDS Mormon religion is they do a lot of proselytizing—
-Sen.
+One of the tenets of the LDS Mormon religion is they do a lot of proselytizing— Sen.
 Bailey: Right.
 Yes.
 Mr.
@@ -887,19 +848,20 @@ Mr.
 Bundgaard: Here you go.
 You’re a business guy.
 Hey, help a few poor reporters.
-They can come in here and air their souls, vent, all that kind of stuff, and—
-Sen.
+They can come in here and air their souls, vent, all that kind of stuff, and— Sen.
 Bailey: Just have a little therapy session.
 Mr.
 Bundgaard: [laugh].
 Sen.
 Bailey: And not cost you anything.
-You’ve been listening to Backroads and Backstories.
+You’ve been listening to Backroads and Backstories .
 Our guest has been Chris Bundgaard.
 We certainly appreciated all the stories that he shared with us today.
 You can keep up with the latest on the podcast at backroadsandbackstories.com and subscribe, rate, and review the show on iTunes, Spotify, Google Play, or wherever fine podcasts are distributed.
 We’ll see you next time.
 Announcer: Thank you for listening to the Backroads and Backstories podcast, with Senator Paul Bailey.
-You can keep up with the latest on the podcast at backroadsandbackstories.com.
+You can keep up with the latest on the podcast at backroadsandbackstories.com .
 And subscribe, rate, and review the show on iTunes, Spotify, Google Play, or wherever fine podcasts are distributed.
 Thanks again for listening, and we’ll see you next time on the Backroads and Backstories podcast.
+Previous Article Next Article Share With Facebook Tweet With Twitter SEARCH RECENT UPDATES Capitol Hill Update 4/17/2026 Capitol Hill Update 4/10/2026 Capitol Hill Update 4/3/2026 NEWSLETTER Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT

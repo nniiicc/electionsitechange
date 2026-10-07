@@ -1,48 +1,230 @@
 [
-"http://stoneridgegroup.com/",
-"https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3",
-"https://facebook.com/Matt-Brass-for-State-Senate-173320099416718?fref=ts",
-"https://mattbrass.org/",
-"https://mattbrass.org/2016/03",
-"https://mattbrass.org/2018/01",
-"https://mattbrass.org/2018/05",
-"https://mattbrass.org/2018/06",
-"https://mattbrass.org/2018/07",
-"https://mattbrass.org/2018/08",
-"https://mattbrass.org/2018/09",
-"https://mattbrass.org/2018/11",
-"https://mattbrass.org/2019/01",
-"https://mattbrass.org/2019/02",
-"https://mattbrass.org/2019/04",
-"https://mattbrass.org/2019/07",
-"https://mattbrass.org/2019/09",
-"https://mattbrass.org/2019/10",
-"https://mattbrass.org/2020/06",
-"https://mattbrass.org/2020/08",
-"https://mattbrass.org/about",
-"https://mattbrass.org/about/about",
-"https://mattbrass.org/about/committee-service",
-"https://mattbrass.org/about/issues",
-"https://mattbrass.org/about/sponsored-legislation",
-"https://mattbrass.org/bill-to-ease-georgia-hospital-restrictions-passes-house-committee",
-"https://mattbrass.org/brass-to-head-up-cannabis-study-committee",
-"https://mattbrass.org/category/uncategorized",
-"https://mattbrass.org/coweta-adds-923-jobs-since-last-year",
-"https://mattbrass.org/delta-community-credit-union-opens-new-retail-branch-in-newnan",
-"https://mattbrass.org/georgia-bill-would-allow-competition-for-hospitals-best-customers",
-"https://mattbrass.org/georgia-lawmakers-propose-plan-to-help-dyslexic-children-in-georgia-schools",
-"https://mattbrass.org/key-issues-georgias-legislature-could-handle-this-year",
-"https://mattbrass.org/medical-cannabis-oil-study-committee-hosting-first-meeting-in-atlanta",
-"https://mattbrass.org/medical-marijuana-saved-her-sons-life-but-in-georgia-its-hard-to-get",
-"https://mattbrass.org/news",
-"https://mattbrass.org/news/page/2/@vote_matt_brass",
-"https://mattbrass.org/news/page/3",
-"https://mattbrass.org/newsletter-updates",
-"https://mattbrass.org/press-kit",
-"https://mattbrass.org/sen-matt-brass-appointed-vice-chair-of-committee-on-regulated-industries-and-utilities",
-"https://mattbrass.org/tag/candidate",
-"https://mattbrass.org/tag/district-28",
-"https://mattbrass.org/tag/election",
-"https://mattbrass.org/tag/state-senate",
-"https://twitter.com/@vote_matt_brass"
+{
+"text": "About",
+"href": "https://mattbrass.org/about/about/"
+},
+{
+"text": "April 2019",
+"href": "https://mattbrass.org/2019/04/"
+},
+{
+"text": "August 2018",
+"href": "https://mattbrass.org/2018/08/"
+},
+{
+"text": "August 2020",
+"href": "https://mattbrass.org/2020/08/"
+},
+{
+"text": "Bill to ease Georgia hospital restrictions passes House committee",
+"href": "https://mattbrass.org/bill-to-ease-georgia-hospital-restrictions-passes-house-committee/"
+},
+{
+"text": "Brass to head up cannabis study committee",
+"href": "https://mattbrass.org/brass-to-head-up-cannabis-study-committee/"
+},
+{
+"text": "Committee Service",
+"href": "https://mattbrass.org/about/committee-service/"
+},
+{
+"text": "Coweta adds 923 jobs since last year",
+"href": "https://mattbrass.org/coweta-adds-923-jobs-since-last-year/"
+},
+{
+"text": "Delta Community Credit Union opens new retail branch in Newnan",
+"href": "https://mattbrass.org/delta-community-credit-union-opens-new-retail-branch-in-newnan/"
+},
+{
+"text": "District 28",
+"href": "https://mattbrass.org/tag/district-28/"
+},
+{
+"text": "February 2019",
+"href": "https://mattbrass.org/2019/02/"
+},
+{
+"text": "Georgia bill would allow competition for hospitals’ best customers",
+"href": "https://mattbrass.org/georgia-bill-would-allow-competition-for-hospitals-best-customers/"
+},
+{
+"text": "Georgia lawmakers propose plan to help dyslexic children in Georgia schools",
+"href": "https://mattbrass.org/georgia-lawmakers-propose-plan-to-help-dyslexic-children-in-georgia-schools/"
+},
+{
+"text": "Home",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "Issues",
+"href": "https://mattbrass.org/about/issues/"
+},
+{
+"text": "January 2018",
+"href": "https://mattbrass.org/2018/01/"
+},
+{
+"text": "January 2019",
+"href": "https://mattbrass.org/2019/01/"
+},
+{
+"text": "July 2018",
+"href": "https://mattbrass.org/2018/07/"
+},
+{
+"text": "July 2019",
+"href": "https://mattbrass.org/2019/07/"
+},
+{
+"text": "June 2018",
+"href": "https://mattbrass.org/2018/06/"
+},
+{
+"text": "June 2020",
+"href": "https://mattbrass.org/2020/06/"
+},
+{
+"text": "Key issues Georgia’s Legislature could handle this year",
+"href": "https://mattbrass.org/key-issues-georgias-legislature-could-handle-this-year/"
+},
+{
+"text": "March 2016",
+"href": "https://mattbrass.org/2016/03/"
+},
+{
+"text": "May 2018",
+"href": "https://mattbrass.org/2018/05/"
+},
+{
+"text": "Medical cannabis oil study committee hosting first meeting in Atlanta",
+"href": "https://mattbrass.org/medical-cannabis-oil-study-committee-hosting-first-meeting-in-atlanta/"
+},
+{
+"text": "Medical marijuana saved her son’s life. But in Georgia, it’s hard to get",
+"href": "https://mattbrass.org/medical-marijuana-saved-her-sons-life-but-in-georgia-its-hard-to-get/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattbrass.org/about/"
+},
+{
+"text": "Newer posts →",
+"href": "https://mattbrass.org/news/"
+},
+{
+"text": "News",
+"href": "https://mattbrass.org/news/"
+},
+{
+"text": "Newsletter Updates",
+"href": "https://mattbrass.org/newsletter-updates/"
+},
+{
+"text": "November 2018",
+"href": "https://mattbrass.org/2018/11/"
+},
+{
+"text": "October 2019",
+"href": "https://mattbrass.org/2019/10/"
+},
+{
+"text": "Press Kit",
+"href": "https://mattbrass.org/press-kit/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/bill-to-ease-georgia-hospital-restrictions-passes-house-committee/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/brass-to-head-up-cannabis-study-committee/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/coweta-adds-923-jobs-since-last-year/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/delta-community-credit-union-opens-new-retail-branch-in-newnan/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/georgia-bill-would-allow-competition-for-hospitals-best-customers/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/georgia-lawmakers-propose-plan-to-help-dyslexic-children-in-georgia-schools/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/medical-cannabis-oil-study-committee-hosting-first-meeting-in-atlanta/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/medical-marijuana-saved-her-sons-life-but-in-georgia-its-hard-to-get/"
+},
+{
+"text": "READ MORE",
+"href": "https://mattbrass.org/sen-matt-brass-appointed-vice-chair-of-committee-on-regulated-industries-and-utilities/"
+},
+{
+"text": "Sen. Matt Brass appointed vice chair of committee on Regulated Industries and Utilities",
+"href": "https://mattbrass.org/sen-matt-brass-appointed-vice-chair-of-committee-on-regulated-industries-and-utilities/"
+},
+{
+"text": "September 2018",
+"href": "https://mattbrass.org/2018/09/"
+},
+{
+"text": "September 2019",
+"href": "https://mattbrass.org/2019/09/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://mattbrass.org/about/sponsored-legislation/"
+},
+{
+"text": "State Senate",
+"href": "https://mattbrass.org/tag/state-senate/"
+},
+{
+"text": "Uncategorized",
+"href": "https://mattbrass.org/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://confirmsubscription.com/h/r/B7997A5DB8EAF8B3"
+},
+{
+"text": "[image]",
+"href": "http://www.stoneridgegroup.com"
+},
+{
+"text": "[image]",
+"href": "https://mattbrass.org/"
+},
+{
+"text": "[no text]",
+"href": "https://mattbrass.org/news/page/2/@vote_matt_brass"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Matt-Brass-for-State-Senate-173320099416718/?fref=ts"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/@vote_matt_brass"
+},
+{
+"text": "candidate",
+"href": "https://mattbrass.org/tag/candidate/"
+},
+{
+"text": "election",
+"href": "https://mattbrass.org/tag/election/"
+},
+{
+"text": "← Older posts",
+"href": "https://mattbrass.org/news/page/3/"
+}
 ]

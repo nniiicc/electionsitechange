@@ -1,12 +1,54 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Fcommittee-to-elect-selina-bliss-for-state-representative-district-1%2Farizona&sa=D&sntz=1&usg=AOvVaw0LWZQH1KojFYllxcaM-kcz",
-"https://google.com/url?q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_s-xclick%26hosted_button_id%3DTL9Q8NB84FHKW%26source%3Durl&sa=D&sntz=1&usg=AOvVaw3g6ha3FTVoauAPXby9wApQ",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TL9Q8NB84FHKW",
-"https://secure.winred.com/committee-to-elect-selina-bliss-for-state-representative-district-1/arizona",
-"https://sites.google.com/view/selinasbliss-com/bio",
-"https://sites.google.com/view/selinasbliss-com/contact-me",
-"https://sites.google.com/view/selinasbliss-com/donate",
-"https://sites.google.com/view/selinasbliss-com/endorsements",
-"https://sites.google.com/view/selinasbliss-com/home",
-"https://sites.google.com/view/selinasbliss-com/photos"
+{
+"text": "Bio",
+"href": "https://sites.google.com/view/selinasbliss-com/bio"
+},
+{
+"text": "Contact me",
+"href": "https://sites.google.com/view/selinasbliss-com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://sites.google.com/view/selinasbliss-com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://sites.google.com/view/selinasbliss-com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "Photos",
+"href": "https://sites.google.com/view/selinasbliss-com/photos"
+},
+{
+"text": "SelinaBliss.com",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Fcommittee-to-elect-selina-bliss-for-state-representative-district-1%2Farizona&sa=D&sntz=1&usg=AOvVaw0LWZQH1KojFYllxcaM-kcz"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_s-xclick%26hosted_button_id%3DTL9Q8NB84FHKW%26source%3Durl&sa=D&sntz=1&usg=AOvVaw3g6ha3FTVoauAPXby9wApQ"
+},
+{
+"text": "[image]SelinaBliss.com",
+"href": "https://sites.google.com/view/selinasbliss-com/home"
+},
+{
+"text": "here",
+"href": "https://secure.winred.com/committee-to-elect-selina-bliss-for-state-representative-district-1/arizona"
+},
+{
+"text": "here",
+"href": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TL9Q8NB84FHKW"
+}
 ]

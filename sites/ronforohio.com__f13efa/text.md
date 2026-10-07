@@ -1,8 +1,9 @@
-top of page
-Home
-Terms & Conditions
-Privacy Policy
-Gallery
-More
-Use tab to navigate through the menu items.
-bottom of page
+top of page Home Terms & Conditions Privacy Policy Gallery More Use tab to navigate through the menu items. ​ Join The Team (Request A Sign) By submitting this form and signing up for texts, you consent to receive updates, donation asks, and informational messages from Supporters and Friends of Ron Ferguson.
+We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP or clicking the unsubscribe link.
+By participating, you agree to the terms & privacy policy for messages from Supporters and Friends of Ron Ferguson to the phone number you provide.
+Email us at ronforohio@gmail.com for assistance.
+Reply HELP for help.
+To view Privacy Policy and Terms & Conditions click View terms of use Get Invovled Choose an option Submit ©# Paid for by Supporters and Friends of Ron Ferguson Thanks for submitting! ronforohio@gmail.com Home Terms & Conditions Privacy Policy Gallery bottom of page

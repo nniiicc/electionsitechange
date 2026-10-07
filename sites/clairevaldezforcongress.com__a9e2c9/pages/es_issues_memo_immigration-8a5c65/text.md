@@ -1,8 +1,4 @@
-- Asuntos
-- Immigration
-Abolir ICE y Proteger a los Inmigrantes
-Nuestra visión
-El distrito NY-07 fue construido por inmigrantes, quienes siguen siendo una parte fundamental de nuestra comunidad; casi un tercio de sus residentes nació fuera de los Estados Unidos.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Asuntos Immigration Abolir ICE y Proteger a los Inmigrantes Nuestra visión El distrito NY-07 fue construido por inmigrantes, quienes siguen siendo una parte fundamental de nuestra comunidad; casi un tercio de sus residentes nació fuera de los Estados Unidos.
 Cada comunidad da forma al tejido de nuestro distrito, desde los repartidores dominicanos recién llegados a Cypress Hills, las tías bangladesíes que han vivido toda su vida en Ozone Park, hasta las familias polacas que han habitado GReenpoint y Ridgewood por generaciones.
 Somos más fuertes gracias a nuestra diversidad, unidos por nuestra lucha colectiva y nuestra humanidad compartida.
 Pero la política migratoria violenta e inhumana de Donald Trump ha creado una emergencia nacional.
@@ -22,13 +18,11 @@ Construiremos el poder político para reemplazar nuestro sistema actual por uno 
 Estaremos junto a nuestros vecinos inmigrantes y garantizaremos que quienes han sido señalados por ICE reciban justicia reparativa.
 Al mismo tiempo, debemos atender las causas raíz de la migración, desde la inestabilidad política y económica generada por la intervención de EE.UU. hasta los impactos crecientes del cambio climático.
 No podemos permitirnos demócratas en el Congreso que se conforman con menos.
-El plan
-En el Congreso, Claire Valdez luchará para desmantelar y abolir ICE desde el primer día.
+El plan En el Congreso, Claire Valdez luchará para desmantelar y abolir ICE desde el primer día.
 Exigirá la investigación y el enjuiciamiento de los agentes de ICE que han usado fuerza excesiva, han obtenido acceso bajo pretensiones falsas o han violado la ley de cualquier otra manera, así como de los funcionarios y líderes responsables de permitir que estas prácticas proliferen.
 Para ir a la raíz del problema, impulsará una verdadera reforma migratoria, creando nuevos caminos hacia la ciudadanía e invirtiendo en jueces y administradores para hacer que nuestro proceso migratorio sea más eficiente.
 Claire cree que el futuro de nuestro distrito y el de nuestro país, depende de proteger la dignidad y los derechos de todas las personas, sin importar dónde nacieron.
-Desmantelar la maquinaria de detención y deportación, y hacer que ICE rinda cuentas
-El sistema de detención y deportación no está roto; funciona exactamente como fue diseñado.
+Desmantelar la maquinaria de detención y deportación, y hacer que ICE rinda cuentas El sistema de detención y deportación no está roto; funciona exactamente como fue diseñado.
 Creado tras el 11 de septiembre por políticos que usaron el miedo para destruir nuestras libertades civiles y establecer un estado de seguridad permanente, ICE ha dependido de empresas privadas de prisiones, contratistas de vigilancia y de una red de programas federales de aplicación de la ley para rastrear, hacer desaparecer, encarcelar y deportar a millones de personas.
 Durante décadas, la detención y la deportación han sido usadas como arma no solo contra los inmigrantes, sino también contra toda la clase trabajadora.
 Cuando millones de personas se ven obligadas a vivir con miedo, los salarios bajan, organizarse se vuelve peligroso y nuestras comunidades son más fáciles de dividir, todo mientras corporaciones como GeoGroup y Palantir obtienen miles de millones en ganancias a partir de la detención y la vigilancia.
@@ -42,46 +36,28 @@ No informes que tardan años ni encubrimientos en Washington, sino justicia.
 Durante demasiado tiempo, quienes tienen el poder han tomado decisiones desde sus cómodos despachos en Washington y desde sus oficinas corporativas, convencidos de que nunca tendrán que responder por el daño que han causado.
 Eso termina ahora.
 Claire Valdez construirá consenso en el Congreso para hacer justicia a quienes fueron asesinados y a las comunidades que han sido destrozadas.
-Claire luchará por:
-- Abolir ICE
-- Poner fin a la detención y deportación con fines de lucro terminando todos los contratos entre DHS y los contratistas de detención y vigilancia, así como con el ecosistema de negocios que se lucra con el sufrimiento de los detenidos inmigrantes
-- Desmilitarizar la frontera
-- Exponer y enjuiciar a los responsables mediante citaciones a la dirigencia de ICE, agentes y contratistas privados que haya rendición de cuentas real y nunca repitamos nuestros errores
-- Lanzar investigaciones sobre cada muerte y cada caso de abuso bajo custodia de ICE, incluyendo pero sin limitarse a negligencia médica, represalias y violencia sexual
-Estar junto a las comunidades afectadas por ICE y reconstruir en solidaridad
-Los demócratas han tenido grandes dificultades para articular una visión clara y afirmativa de nuestro sistema migratorio.
+Claire luchará por: Abolir ICE Poner fin a la detención y deportación con fines de lucro terminando todos los contratos entre DHS y los contratistas de detención y vigilancia, así como con el ecosistema de negocios que se lucra con el sufrimiento de los detenidos inmigrantes Desmilitarizar la frontera Exponer y enjuiciar a los responsables mediante citaciones a la dirigencia de ICE, agentes y contratistas privados que haya rendición de cuentas real y nunca repitamos nuestros errores Lanzar investigaciones sobre cada muerte y cada caso de abuso bajo custodia de ICE, incluyendo pero sin limitarse a negligencia médica, represalias y violencia sexual Estar junto a las comunidades afectadas por ICE y reconstruir en solidaridad Los demócratas han tenido grandes dificultades para articular una visión clara y afirmativa de nuestro sistema migratorio.
 Al recurrir a medidas a medias y ceder ante el racismo y la demagogia del miedo impulsados por los republicanos, hemos creado un vacío que ha permitido que una agenda basada en el miedo domine y que el presupuesto del ICE se dispare.
 Más allá de abolir y desmantelar el ICE, debemos luchar por una reforma migratoria integral que establezca caminos eficientes y humanos hacia la ciudadanía y garantice estatus legal para los millones de personas que ya viven y trabajan aquí.
 También debemos reconocer el daño bien documentado infligido por el DHS y el ICE durante los últimos 13 años y brindar justicia reparativa, incluyendo apoyo financiero y programático, a las personas que han sido injustamente e ilegalmente señaladas.
-Claire luchará por:
-- Proporcionar un camino claro hacia la Residencia Permanente Legal para nuestros vecinos indocumentados, para los inmigrantes que fueron deportados injustamente y para quienes eligieron autodeportarse antes que enfrentar la dura y punitiva administración Trump
-- Aumentar el número de casos de refugiados aceptados para las personas que huyen de la persecución estatal.
+Claire luchará por: Proporcionar un camino claro hacia la Residencia Permanente Legal para nuestros vecinos indocumentados, para los inmigrantes que fueron deportados injustamente y para quienes eligieron autodeportarse antes que enfrentar la dura y punitiva administración Trump Aumentar el número de casos de refugiados aceptados para las personas que huyen de la persecución estatal.
 Claire luchará por elevar el históricamente bajo cupo de refugiados aceptados y por garantizar que se cumpla el nuevo umbral.
-También luchará para que los solicitantes de asilo puedan vivir y trabajar en EE.UU. mientras sus casos están pendientes de resolución
-- Reintroducir la Ley DREAM sin los estrictos requisitos educativos, permitiendo a quienes llegaron de niños solicitar la ciudadanía y trabajar en EE.UU.
-- Ampliar drásticamente el número de jueces de migración y de personal de procesamiento para que los casos avancen rápidamente y de manera justa.
+También luchará para que los solicitantes de asilo puedan vivir y trabajar en EE.UU. mientras sus casos están pendientes de resolución Reintroducir la Ley DREAM sin los estrictos requisitos educativos, permitiendo a quienes llegaron de niños solicitar la ciudadanía y trabajar en EE.UU.
+Ampliar drásticamente el número de jueces de migración y de personal de procesamiento para que los casos avancen rápidamente y de manera justa.
 Los tiempos de espera para las tarjetas de residencia y las audiencias de inmigración están en su punto más alto.
-Debemos garantizar una inversión adecuada en los procedimientos administrativos y legales para agilizar y hacer eficiente nuestro proceso migratorio
-- Invertir en apoyo legal y social integral para quienes han sufrido violencia, maltrato o han sido separados de sus familias a manos del ICE
-- Proteger el derecho de los trabajadores inmigrantes a organizarse en sus lugares de trabajo mediante la aprobación de la Ley PRO, que garantizaría a todos los trabajadores, incluidos los indocumentados, el derecho a reclamar daños si sus derechos laborales son violados
-Atender las causas raíz de la migración masiva
-Claire sabe que nuestro fracturado e inhumano panorama migratorio es un síntoma de crisis globales más amplias.
+Debemos garantizar una inversión adecuada en los procedimientos administrativos y legales para agilizar y hacer eficiente nuestro proceso migratorio Invertir en apoyo legal y social integral para quienes han sufrido violencia, maltrato o han sido separados de sus familias a manos del ICE Proteger el derecho de los trabajadores inmigrantes a organizarse en sus lugares de trabajo mediante la aprobación de la Ley PRO, que garantizaría a todos los trabajadores, incluidos los indocumentados, el derecho a reclamar daños si sus derechos laborales son violados Atender las causas raíz de la migración masiva Claire sabe que nuestro fracturado e inhumano panorama migratorio es un síntoma de crisis globales más amplias.
 Cualquier política migratoria honesta debe ir más allá de las soluciones de parche y abordar el problema de raíz.
 Es tan impráctica como poco ética la idea de amurallarnos frente a problemas que nosotros mismos hemos contribuido a crear.
 La era actual de migración masiva es un resultado trágico y predecible del capitalismo rapaz, del militarismo irresponsable y de la devastación económica provocada por décadas de políticas que han enriquecido a corporaciones y élites a expensas de la gente común en todo el mundo.
 Gran parte de esto ha sido impulsada activamente por los Estados Unidos a través de décadas de política comercial extractiva, de la devastación climática y del apoyo a regímenes represivos.
 Claire cree que si en verdad queremos construir un sistema migratorio justo y humano, debemos ser igualmente serios en la construcción de una política exterior que ofrezca a los trabajadores de todo el mundo la oportunidad de vivir con dignidad donde estén.
-Claire luchará por:
-- Poner fin a las guerras destructivas y las operaciones militares específicas que generan inestabilidad política y desplazamiento en todo el mundo.
+Claire luchará por: Poner fin a las guerras destructivas y las operaciones militares específicas que generan inestabilidad política y desplazamiento en todo el mundo .
 Una política exterior mal informada y coercitiva está en el corazón de las masivas crisis de refugiados en Irak, Afganistán, Venezuela, El Salvador y Siria, y ahora vemos la misma historia trágica desarrollarse ante nuestros ojos en Irán.
-Claire hará todo lo que esté en su poder para frenar el enfoque temerario y nihilista de Trump hacia la diplomacia global
-- Impulsar una acción decisiva y valiente para combatir la crisis climática, centrada en el Green New Deal.
+Claire hará todo lo que esté en su poder para frenar el enfoque temerario y nihilista de Trump hacia la diplomacia global Impulsar una acción decisiva y valiente para combatir la crisis climática, centrada en el Green New Deal.
 El cambio climático ya es uno de los principales impulsores del desplazamiento en todo el mundo, con su influencia visible en las sequías, inundaciones, incendios forestales y olas de calor que han devastado gran parte del planeta.
-Claire luchará por un Green New Deal que combine una descarbonización agresiva con un compromiso genuino con la justicia climática global
-- Revertir la restrictiva política comercial de EE.UU. que ha arrasado con las economías locales.
+Claire luchará por un Green New Deal que combine una descarbonización agresiva con un compromiso genuino con la justicia climática global Revertir la restrictiva política comercial de EE.UU. que ha arrasado con las economías locales.
 Los acuerdos comerciales respaldados por EE.UU. han abierto durante décadas las economías en desarrollo a una avalancha de exportaciones estadounidenses subsidiadas.
 Estos acuerdos solo han servido para llenar los bolsillos de unas pocas corporaciones, al tiempo que perjudican a los agricultores locales, vacían las economías y aceleran la migración que los políticos usan para sembrar miedo.
-Claire sabe que estas políticas devastan a los trabajadores a ambos lados de la frontera, y presionará para que EE.UU. renegocie fundamentalmente los acuerdos comerciales para incluir estándares laborales y ambientales aplicables que empoderen a los trabajadores
-- Reducir el apoyo de EE.UU. a los regímenes autoritarios que exacerban el conflicto étnico o perpetúan la opresión sistemática de las minorías y los disidentes.
+Claire sabe que estas políticas devastan a los trabajadores a ambos lados de la frontera, y presionará para que EE.UU. renegocie fundamentalmente los acuerdos comerciales para incluir estándares laborales y ambientales aplicables que empoderen a los trabajadores Reducir el apoyo de EE.UU. a los regímenes autoritarios que exacerban el conflicto étnico o perpetúan la opresión sistemática de las minorías y los disidentes.
 Claire impulsará una auditoría pública y exhaustiva de toda la asistencia de seguridad y de las ventas de armas de EE.UU., abogando por que la Ley Leahy, que condiciona las ventas de armas y la asistencia militar al cumplimiento de estándares de derechos humanos, se aplique en su totalidad.
-La era de las alianzas militares en blanco con gobiernos que practican la persecución étnica debe terminar
+La era de las alianzas militares en blanco con gobiernos que practican la persecución étnica debe terminar Donar Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

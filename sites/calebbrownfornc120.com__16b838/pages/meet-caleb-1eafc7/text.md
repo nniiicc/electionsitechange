@@ -1,9 +1,7 @@
-Meet Caleb
-Caleb “Coach” Brown
-Candidate for North Carolina State House, District 120
-Caleb Brown is a dedicated educator, coach, and public servant committed to strengthening North Carolina families and communities.
+Meet Caleb Issues Volunteer Donate Meet Caleb Caleb “Coach” Brown Candidate for North Carolina State House, District 120 Caleb Brown is a dedicated educator, coach, and public servant committed to strengthening North Carolina families and communities.
 He is originally from South Carolina where his parents instilled in him the values of hard-work, dedication, and empathy.
 When he was seventeen years old his mother passed away after a 3 year long battle with cancer.
+After his mothers passing and with support from his teachers, principal, and local community Caleb started a fundraiser that raised $22,538 for Camp Kemo, a summer camp for pediatric cancer patients and their siblings.
 After seeing the outpouring of support from his school he knew he wanted to become a teacher.
 For the last seven years Caleb has had the honor of calling Highlands NC home.
 He is 33 years old and lives with his wife, daughter, and two dogs.
@@ -12,6 +10,7 @@ As a teacher in North Carolina he knows firsthand the stresses our families face
 Beyond the classroom, Caleb serves as a 2nd Lieutenant in the North Carolina Army National Guard.
 Caleb’s campaign is focused on the issues that matter most to everyday working North Carolinians: household finances, stability, access to healthcare, and fully funding our schools ensuring every child has access to a quality education.
 He is ready to bring practical solutions, common-sense policies, and a strong voice for Western North Carolina families to the State House.
-Let’s chat
-Help level the playing field for Western NC
-Sign up with your email address to receive news and updates about the campaign.
+Let’s chat <br> Help level the playing field for Western NC Sign up with your email address to receive news and updates about the campaign.
+Email Join Now Donate by Mail Caleb Brown for NC PO Box 1022 Highlands NC, 28741 Meet Caleb Issues Volunteer Donate © Copyright #, Caleb “Coach” Brown for NC 120.
+All Rights Reserved.
+Paid for by the committee to elect Caleb Brown for NC 120

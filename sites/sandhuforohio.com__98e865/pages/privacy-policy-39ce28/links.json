@@ -1,10 +1,38 @@
 [
-"https://facebook.com/CJSStrategies",
-"https://facebook.com/SandhuForOhio",
-"https://instagram.com/sandhuforohio",
-"https://sandhuforohio.com/",
-"https://sandhuforohio.com/privacy-policy",
-"https://secure.winred.com/sandhu-for-ohio/donate",
-"https://winred.com/legal/privacy",
-"https://x.com/Sandhuforohio"
+{
+"text": "CJS Strategies",
+"href": "https://www.facebook.com/CJSStrategies/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sandhu-for-ohio/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sandhuforohio.com/privacy-policy"
+},
+{
+"text": "WinRed’s own privacy policy",
+"href": "https://www.winred.com/legal/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SandhuForOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sandhuforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Sandhuforohio"
+},
+{
+"text": "info@sandhuforohio.com",
+"href": "mailto:info@sandhuforohio.com"
+},
+{
+"text": "← Back to Home",
+"href": "https://www.sandhuforohio.com/"
+}
 ]

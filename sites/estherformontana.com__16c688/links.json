@@ -1,14 +1,62 @@
 [
-"https://estherformontana.com/",
-"https://estherformontana.com/about",
-"https://estherformontana.com/contact",
-"https://estherformontana.com/issues",
-"https://facebook.com/profile.php",
-"https://facebook.com/profile.php?id=61558509219220",
-"https://linkedin.com/in?trk=public-profile-join-page",
-"https://montana.maps.arcgis.com/apps/instant/basic/index.html?appid=d7be880c00a4494b8c279d8fb4487b09",
-"https://prodvoterportal.mt.gov/WhereToVote.aspx",
-"https://secure.anedot.com/esther-for-montana/donate",
-"https://silveroakgraphicdesign.com/",
-"https://sosmt.gov/elections"
+{
+"text": "ABOUT",
+"href": "https://www.estherformontana.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.estherformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/esther-for-montana/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.estherformontana.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.estherformontana.com/issues"
+},
+{
+"text": "MT Districts Map",
+"href": "https://montana.maps.arcgis.com/apps/instant/basic/index.html?appid=d7be880c00a4494b8c279d8fb4487b09"
+},
+{
+"text": "MT Election Info",
+"href": "https://sosmt.gov/elections/"
+},
+{
+"text": "My Voter Portal",
+"href": "https://prodvoterportal.mt.gov/WhereToVote.aspx"
+},
+{
+"text": "Silver Oak Graphic Design",
+"href": "https://www.silveroakgraphicdesign.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61558509219220"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/?trk=public-profile-join-page"
+},
+{
+"text": "[no text]",
+"href": "mailto:"
+},
+{
+"text": "[no text]",
+"href": "mailto:esther@estherformontana.com"
+},
+{
+"text": "[no text]",
+"href": "tel:"
+}
 ]

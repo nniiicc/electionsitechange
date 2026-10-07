@@ -1,8 +1,8 @@
-Remarks from the June 18th press conference at Columbia Flag & Sign
-Good morning and thanks for coming.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Welcoming my opponents to the ballot Remarks from the June 18th press conference at Columbia Flag & Sign Full video here Good morning and thanks for coming.
 I am Kasie Whitener, Libertarian Candidate for US Senate.
 I won my party’s nomination at convention on April 11th.
 Now that the primaries have concluded, I’d like to welcome my opponents to the ballot.
+Thanks to Columbia Flag & Sign for hosting us.
 It’s fitting that we’re here at Columbia Flag & Sign because every day, this business helps people re-dedicate themselves to our state and our nation, by selling those people flags.
 The recognizable symbols of loyalty and faith in something bigger than ourselves.
 I decided to run for US Senate to serve our state and our nation.
@@ -31,18 +31,17 @@ They sell foreign wars.
 They sell regulations that make it harder for competitors to do business and tariffs that stifle international markets.
 I’m running for US Senate to address the national debt.
 By electing me, South Carolina will address the rampant government corruption that is the two-party system.
-Here are my campaign promises:
-- I will be accessible to you and curious about you.
+Here are my campaign promises: I will be accessible to you and curious about you.
 Tell me what you think I need to know.
 We’re going to all 46 counties.
 Parades, festivals, pool parties, and football games.
 We’ll be wherever you invite us.
 We also have weekly livestreams and all the socials so you can reach me and my team at any time.
-- I will talk about policies and ideas.
+I will talk about policies and ideas.
 Not people.
 There are other people in this race, sure, let them make their own case.
 I don’t have to tell you what you already know about them.
-- I will not abide negative campaign ads run on my behalf.
+I will not abide negative campaign ads run on my behalf.
 If you see ugliness, know I did not approve it.
 I love South Carolina and everyone in it.
 And that includes the others on the ballot.
@@ -59,3 +58,6 @@ Thank you and I’ll take questions now.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

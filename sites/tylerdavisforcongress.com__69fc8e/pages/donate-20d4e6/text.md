@@ -1,18 +1,13 @@
-Make an
-impact today
-When you choose to give, you become part of something bigger—something powerful.
-Whether you’re local to Florida’s Panhandle, or just local in your heart, every donation counts toward moving us forward-together.
-Why give?
-- ✽ Build a Better Panhandle Your contribution helps us invest in education, jobs, and infrastructure that prepare the Panhandle for the future—without leaving our communities behind.
-- ✽ Support Servant Leadership This campaign is about people, not politics.
-Your donation helps bring leadership back that listens, serves, and puts the community first.
-- ✽ Keep It Local Every dollar stays focused on District 1—supporting outreach, community conversations, and real engagement across the Panhandle.
-- ✽ Invest in Working Families We’re fighting for higher wages, stronger job pathways, and real stability.
-Your support helps us reach the people who need to be part of that future.
-- ✽ Power a Sustainable Future We believe progress shouldn’t come at the expense of our environment.
-Your donation supports a vision of growth that protects our land, water, and communities.
-- ✽ Be Part of the Movement This campaign isn’t built by big donors—it’s built by people who care.
+0 Skip to Content Home How I'll Work For You D1 Dispatch Events About Tyler Contact FAQs Donate Open Menu Close Menu Home How I'll Work For You D1 Dispatch Events About Tyler Contact FAQs Donate Open Menu Close Menu Home How I'll Work For You D1 Dispatch Events About Tyler Contact FAQs Donate Make an impact #ago When you choose to give, you become part of something bigger—something powerful.
+Whether you’re local to Florida’s Panhandle, or just local in your heart, every donation counts toward moving us forward-together. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate Why give? ✽ Build a Better Panhandle Your contribution helps us invest in education, jobs, and infrastructure that prepare the Panhandle for the future—without leaving our communities behind. ✽ Support Servant Leadership This campaign is about people, not politics.
+Your donation helps bring leadership back that listens, serves, and puts the community first. ✽ Keep It Local Every dollar stays focused on District 1—supporting outreach, community conversations, and real engagement across the Panhandle. ✽ Invest in Working Families We’re fighting for higher wages, stronger job pathways, and real stability.
+Your support helps us reach the people who need to be part of that future. ✽ Power a Sustainable Future We believe progress shouldn’t come at the expense of our environment.
+Your donation supports a vision of growth that protects our land, water, and communities. ✽ Be Part of the Movement This campaign isn’t built by big donors—it’s built by people who care.
 Your contribution helps create a future shaped by the community, for the community.
-Make a Donation
-When you choose to give, you become part of something bigger—something powerful.
-Your support fuels progress and brings hope where it's needed most.
+Make a Donation When you choose to give, you become part of something bigger—something powerful.
+Your support fuels progress and brings hope where it's needed most. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Mailing List Get monthly updates, comparison graphics, and information about Florida’s 1st District and Tyler’s campaign.
+Email Address Sign Up Thanks for signing up.
+You’ll received updates from tyler4florida@gmail.com with our updates and info about the campaign.
+Look forward to chatting with you soon, friend~ Contact Us info@tylerdavisforcongress.com 850-776-5276

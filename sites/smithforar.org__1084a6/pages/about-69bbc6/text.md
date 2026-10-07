@@ -1,4 +1,4 @@
-Hi, I’m MITCHELL SMITH.
+Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get Involved 0 0 Home About Issues Events Donate Store Get Involved 0 0 Open Menu Close Menu Home About Issues Events Donate Store Get Involved Hi, I’m MITCHELL SMITH.
 I’m a Bentonville native, a graduate of Bentonville High School and the University of Arkansas, and deeply connected to the area.
 I know that there’s such great potential in Bentonville and Rogers waiting to be unlocked.
 Since graduating from the University of Arkansas, I’ve worked in various capacities in education and economic development at the state and federal levels.
@@ -8,3 +8,4 @@ Despite these clear and measurable outcomes, the people in power have only been 
 I’m running on your behalf to restore commonsense policies that will actually make marked improvements in education, cost of living, and overall quality of life.
 I’m proud to work for the company that has given so much to my family and many others–Walmart–where I work in replenishment.
 When I’m not at Walmart, you’re like to see me out biking or hiking, enjoying a beer with friends at one of Northwest Arkansas’s excellent breweries, attending Razorback sports events, and spending time with my family.
+Paid for By Mitchell Smith For AR 13

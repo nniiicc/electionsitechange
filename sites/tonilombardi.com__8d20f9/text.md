@@ -1,12 +1,8 @@
-Toni Lombardi
-Democrat for State Representative of the 118th District
-Delivering for Milford’s Future
-Strong Schools - Affordable Living - Coastal Resiliency
-Subscribe
-By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages (event reminders, voter contact, donation requests) to that number from Lombardi 2026.
+0 Skip to Content Home About Policies Our Endorsements Get Involved Go Vote More Contact Us Yard Signs Privacy Policy Open Menu Close Menu Home About Policies Our Endorsements Get Involved Go Vote More Contact Us Yard Signs Privacy Policy Open Menu Close Menu Home About Policies Our Endorsements Get Involved Go Vote Folder: More Back Contact Us Yard Signs Privacy Policy Toni Lombardi Democrat for State Representative of the 118th District Delivering for Milford’s Future Strong Schools - Affordable Living - Coastal Resiliency Subscribe By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages (event reminders, voter contact, donation requests) to that number from Lombardi 2026.
 Message frequency varies.
 Donations may be solicited.
 Message & data rates may apply.
-Text HELP for support or email lombardiformilford@gmail.com
-View our Privacy Policy for additional information about how your data is used.
+Text HELP for support or email lombardiformilford@gmail.com View our Privacy Policy for additional information about how your data is used.
 Reply STOP to opt out.
+Paid for by Lombardi 2026 - Frank R.
+Servas, Treasurer, Approved by Toni Lombardi

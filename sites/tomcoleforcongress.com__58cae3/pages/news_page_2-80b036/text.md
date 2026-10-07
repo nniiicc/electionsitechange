@@ -1,4 +1,19 @@
-Cole Statement on General Election Victory
-Moore, OK – Tom Cole released the following statement after he was re-elected to represent the people of the Fourth District of Oklahoma in the U.S.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans Latest News Donate News Cole Statement on General Election Victory Moore, OK – Tom Cole released the following statement after he was re-elected to represent the people of the Fourth District of Oklahoma in the U.S.
 House of Representatives.
-“I am greatly honored to continue […]
+“I am greatly honored to continue […] Read More November 8, 2022 News Room Tom Cole Wins Republican Primary In Oklahoma’s Fourth District Moore, OK – Tom Cole released the following statement upon winning today’s primary election for the Fourth Congressional District of Oklahoma seat in the U.S.
+House of Representatives.
+“I thank the Republican voters […] Read More June 28, 2022 News Room Trump Endorses Tom Cole For Reelection For Oklahoma’s Fourth District President Donald Trump has endorsed Tom Cole for Oklahoma’s Fourth District, citing his hard work in defending the unborn, standing for American energy, and fighting to get our economy back on track.
+Read More June 27, 2022 June 28, 2022 News Room Tom Cole Announces Run For Reelection Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
+House of Representatives.
+“During the last […] Read More April 13, 2022 News Room Tom Cole Wins Oklahoma’s Fourth District 2020 General Election Norman, OK – Tom Cole released the following statement upon winning the November 3rd general election: “I would like to thank the voters of the Fourth District for their vote of confidence and continued support.
+It is […] Read More November 3, 2020 July 1, 2021 News Room PBS News Hour: Tom Cole On The 2020 RNC “Congressman Tom Cole of Oklahoma has attended every Republican convention since 1976.
+But this year, he’ll be watching from a distance.
+Cole joins Judy Woodruff to discuss the ‘hopeful’ content he has observed […] Read More August 26, 2020 June 29, 2021 News Room Tom Cole Wins Oklahoma’s Fourth District Republican Primary (Moore, OK) – Tom Cole released the following statement upon winning the June 30th primary election: “I thank the Republican voters of the Fourth District for once again nominating me to represent them as their […] Read More June 30, 2020 June 29, 2021 News Room Trump Endorses Tom Cole for Oklahoma’s Fourth District President Donald Trump endorses Tom Cole for Oklahoma’s Fourth District following weekend rally in Tulsa and citing Cole’s proven record of fighting for the people of Oklahoma.
+Read More June 22, 2020 June 29, 2021 News Room Tom Cole Launches TV Ad Tom Cole fights for the people of the Fourth District.
+Share to Facebook or Twitter, and let your network know that you are a supporter of Cole for Congress.
+Read More June 21, 2020 June 29, 2021 Video ICYMI: America and the Global Pandemic Response Americans tend to think that we’re either the best or the worst at everything.
+And while I agree that the United States hasn’t been the absolute best in the world in terms of […] Read More June 20, 2020 June 29, 2021 ICYMI , News Room Posts pagination Previous 1 2 3 Next Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

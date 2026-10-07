@@ -1,24 +1,94 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/BobforDistrict21",
-"https://voteforbobmason.com/",
-"https://voteforbobmason.com/contact",
-"https://voteforbobmason.com/contribute",
-"https://voteforbobmason.com/contribute?amount=10",
-"https://voteforbobmason.com/contribute?amount=100",
-"https://voteforbobmason.com/contribute?amount=1000",
-"https://voteforbobmason.com/contribute?amount=25",
-"https://voteforbobmason.com/contribute?amount=250",
-"https://voteforbobmason.com/contribute?amount=50",
-"https://voteforbobmason.com/contribute?amount=500",
-"https://voteforbobmason.com/home",
-"https://voteforbobmason.com/issues",
-"https://voteforbobmason.com/meet_bob",
-"https://voteforbobmason.com/news",
-"https://voteforbobmason.com/photos",
-"https://voteforbobmason.com/view-endorsements",
-"https://voteforbobmason.com/volunteer",
-"https://voteforbobmason.com/vote",
-"https://voteforbobmason.com/yard-sign",
-"https://x.com/@bobdistrict21"
+{
+"text": "$#",
+"href": "https://voteforbobmason.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://voteforbobmason.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://voteforbobmason.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://voteforbobmason.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://voteforbobmason.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://voteforbobmason.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://voteforbobmason.com/contribute?amount=1000"
+},
+{
+"text": "Contact",
+"href": "https://voteforbobmason.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://voteforbobmason.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://voteforbobmason.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://voteforbobmason.com/home"
+},
+{
+"text": "Issues",
+"href": "https://voteforbobmason.com/issues"
+},
+{
+"text": "Meet Bob",
+"href": "https://voteforbobmason.com/meet_bob"
+},
+{
+"text": "News",
+"href": "https://voteforbobmason.com/news"
+},
+{
+"text": "Other",
+"href": "https://voteforbobmason.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://voteforbobmason.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforbobmason.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://voteforbobmason.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://voteforbobmason.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://voteforbobmason.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BobforDistrict21/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/@bobdistrict21"
+}
 ]

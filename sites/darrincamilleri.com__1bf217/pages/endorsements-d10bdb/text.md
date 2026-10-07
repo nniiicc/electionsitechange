@@ -1,33 +1,7 @@
-Endorsements
-Advocacy Organizations & Unions
-Elected officials
-Taylor City Council Chairman Charley Johnson
-Taylor City Council Member Dan Wallace
-Trenton Mayor Pro Tem Emily Hornbeck
-Trenton City Council Member Dora Rodriguez
-Trenton City Council Member Timber Baun-Crooks
-Trenton City Council Member Scott Cabauatan
-Trenton City Council Member Nelson Perugi
-Trenton City Council Member Richard Benedetti
-Wayne City Mayor Pro Tem Alfred Brock
-Wayne City Council Member Rob Darwiche
-Westland City Council President Mike McDermott
-Westland City Council Member John Sullivan
-Westland City Council Member Melissa Sampey
-Woodhaven Mayor Pro Tem Jan Sikes
-Brownstown Township Trustee Roger Jones
-Brownstown Township Trustee Steven Allen
-Brownstown Township Trustee Patrick Killian
-Gibraltar City Council Member Denis Boismier
-Gibraltar City Council Member Kathy LaPointe
-Rockwood City Council Member Scott Cramton
-Romulus Mayor Pro Tem Tina Talley
-Romulus City Council Member Kathleen Abdo
-Romulus City Council Member William Wadsworth
-Romulus City Clerk Ellen Craig-Bragg
-Romulus School Board President Porsche Laster
-Southgate City Treasurer Christopher Rollet
-Southgate City Council Member Christian Graziani
-Southgate City Council Member Phillip Rauch
-Southgate City Council Member Priscilla Ayres-Reiss
-Southgate City Council Member Ed Gawlik Jr.
+0 Skip to Content Meet Darrin Priorities Events Endorsements News & Media Media Toolkit GET INVOLVED Volunteer Request a Yard Sign Donate Open Menu Close Menu Meet Darrin Priorities Events Endorsements News & Media Media Toolkit GET INVOLVED Volunteer Request a Yard Sign Donate Open Menu Close Menu Meet Darrin Priorities Events Endorsements Folder: News & Media Back Media Toolkit Folder: GET INVOLVED Back Volunteer Request a Yard Sign Donate Endorsements Advocacy Organizations & Unions View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Elected officials Sen.
+Erika Geiss Brownstown Twp.
+Supervisor Sherry Berecz Flat Rock Mayor Steven Beller Grosse Ile Supervisor Joe Porcarelli Romulus Mayor Robert McCraight Trenton Mayor Steven Rzeppa Woodhaven Mayor Patricia Odette Van Buren Twp.
+Supervisor Kevin McNamara Wayne City Mayor John Rhaesa Westland Mayor Kevin Coleman Fmr State Rep. and City Councilman Doug Geiss Taylor City Council Chairman Charley Johnson Taylor City Council Member Dan Wallace Trenton Mayor Pro Tem Emily Hornbeck Trenton City Council Member Dora Rodriguez Trenton City Council Member Timber Baun-Crooks Trenton City Council Member Scott Cabauatan Trenton City Council Member Nelson Perugi Trenton City Council Member Richard Benedetti Wayne City Mayor Pro Tem Alfred Brock Wayne City Council Member Rob Darwiche Westland City Council President Mike McDermott Westland City Council Member John Sullivan Westland City Council Member Melissa Sampey Woodhaven Mayor Pro Tem Jan Sikes Brownstown Township Trustee Roger Jones Brownstown Township Trustee Steven Allen Brownstown Township Trustee Patrick Killian Gibraltar City Council Member Denis Boismier Gibraltar City Council Member Kathy LaPointe Rockwood City Council Member Scott Cramton Romulus Mayor Pro Tem Tina Talley Romulus City Council Member Kathleen Abdo Romulus City Council Member William Wadsworth Romulus City Clerk Ellen Craig-Bragg Romulus School Board President Porsche Laster Southgate City Treasurer Christopher Rollet Southgate City Council Member Christian Graziani Southgate City Council Member Phillip Rauch Southgate City Council Member Priscilla Ayres-Reiss Southgate City Council Member Ed Gawlik Jr.
+Contact: info@darrincamilleri.com PO Box 818 Trenton, MI 48183 Political donations are not tax exempt. donate ➜ Copyright © #.
+All rights reserved.
+Paid for by Darrin Camilleri for State Senate PO Box 818, Trenton, MI 48183

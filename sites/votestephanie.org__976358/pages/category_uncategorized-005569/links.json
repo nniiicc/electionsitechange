@@ -1,47 +1,190 @@
 [
-"http://le.utah.gov/",
-"https://fox13now.com/news/local-news/utah-economy-shows-strong-growth-with-2-3-employment-increase-outpacing-national-average",
-"https://house.utleg.gov/2026-priorities",
-"https://le.utah.gov/interim/2025/pdf/00003355.pdf",
-"https://le.utah.gov/~2023/bills/static/SB0117.html",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F2iIaeeVMm39xfJVerLHzWA~~%2FAAS2yhA~%2FmQszeII6oqn3cYQCwwErADLE92fo8hCfU-2Vw7syxm_RxM8PJUjME8izcXdAVIaPKLlVmxrzcfFUOFL0JvpW2Ecf3wB6HVZ2_Q_R30n-B8w~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395822981197%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Tjm7TXBom%2Fd7nfIWA1yeaiyCMXXIhooFmF9jTRS3XL4%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F4KO0YRJ4qGFobLMcYjBTfg~~%2FAAS2yhA~%2F4xVviOZ4C-SCwl5jUSiOdIY_hrKS5hbtkIVGxajiF7CEH67nAZKziZF2izcCSY6Mn2QjfvI_ujIweXAOGNVcXjITfNas54q2FBP4f1iZOvdaJSn9M8iwpnBftxVjFx1blCw0Q5j9HCrBDpYOUuiLmoNkQuUZiXBb6_rSLkrH4yw~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701435059%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DF4LGuvIgMZhXVscRU72BEiX4ENeElb5bOUP86ZDFLg%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F54dX8zWvXRGq79JwHpOFVA~~%2FAAS2yhA~%2FRg_HmL4XbfNuFn0IbhdAsTRgPQTZQi6sR38O5SzvOwaEEvgjukhLiP7cMHJfhxfz8i2OuCJM60BVeRVpWef6oqYwIXH2qLdU8RWs93TKa3g~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697397060%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1jJpYPig7kQP%2Fv6b522q130nUmQHJy7rF%2F%2FoMd4zeTw%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F57YGSRNb9Y3NsefJnnONnQ~~%2FAAS2yhA~%2F4l_BNfRr7ismLbHjt6zZ9f4oYLfvgvhHKx_XJnCmuNpXsAmLzeBXZXltgpTu8mlf2pzHQGmcmlXnvFirm-ZT5JRdDQoY8CC2DIvT7BorMN7Y7wfARogLT8b21W1eu4SssEANCJCu6OZj2KaFXuxuuQCmabggtwgAWtrVB54EY34~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823014810%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=roL4UbNVh8dc852VycvUG7ltm%2BviwDPxciXlo%2FZWPbA%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F5qM258GZ4cwVbOMZBXlYCg~~%2FAAS2yhA~%2F_ykvOB_hR40DwEPHAf5T1AxQowvib0pBqJiM5wDcxjLxMK4zgDXJ6n2u1Sv6sOPWW20SGRNEuuAghN_426YvVu2u2H-wWcaU0_RvcZz1q6bb0dijRyjl-NXlqR-XHW_hIxtk170JzgcBzBOreFgbsCVuKaqJWzuFMBgwvUn2GrFUb0Lj6imGgd1AgWjv3zP3KZ-1aCIpTVM7qj5U6FO9kIL27rS0BmEJXX1HwtDo7o0Ba1YLkFRi1sOy5QM-kqDnLUNYJkZ7_Qlub-jca9BZ8g~~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697475769%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GBbEn8WUm1BrQh9PQX%2B%2FYDU4O7xeQT4mLu1QOPYyjnU%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F643Si7rO7T-59q7ntKYhlg~~%2FAAS2yhA~%2F6Iu6o7DLjTT6LzRDCbskNxpEe0jF8GZqsDBVEP6Lm9pTLCNPVKPCX8kOiV9E5m0JiccwoyS1kBVrL9l-fSbrH-jxl5neMomsGee8bqBE9kmRT71ZxpIEGeVcH4LYJeVZqjKQuINbRf72zFXwt65rZg~~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697350329%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6a%2FRw%2FqqLMY0rXkV1eRDvGkOcMpq1dA97WHXk2nbxR4%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F6v59K7bKvmcCNuZn91MjlQ~~%2FAAS2yhA~%2F_r4yVnEXCvNGz15_k2mu4zslpPIla2rWae0bmyGx22cHtQ4KrpXdfkLXa0nqAc2nFOIKqqW831fYVefnv4W8jw4rjQG5YqI_KyabNBbzf3Oe__UK4qWiQiEm73_FxHrb3JkoTV5Mh9h9JDmYsHjS9EUs56CmCHGVATKCJOWec2CpTCCpsumPv6npN3AWa0wH-zKPJoBkhUWimSTtUT_2rGWNGkJDRx25UT3aKhO5tVU~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701503761%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hF6aEGANpdO3QUzIEs%2B2hM7nkmKp1nYX2e6cXdi4vYU%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F9ULwcIdLnIXC-6leZa4ndA~~%2FAAS2yhA~%2FEWAYAnzuYJGZ3IIhraCtu4dsPvxc-GM14jA4RHrjH63fCMNp-vJY5D1Ni7aQHRAftLJxtEKwdOoGs98m8q-5zWJRMo01DQvdmamB_P4rEeWJ5zrx2-qtwojIQ_jPS-W1TvZRHWfeau1QszFamhEziQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395822997840%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IVLqi8eTxeUVcoK2utzKJS0qAxyvYHqH7qSVzpwe9mI%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FBMAbYRH7TalQAOfyeoL7vA~~%2FAAS2yhA~%2FC1pd4R__SM0WcZ_gbUs9SnVioZxmP8CuN4zam0uI5WuTheoUvHKs2Rpsp4hGN-OpyZM4Y5opGlS0a2Us4PrKMGi1tYHdgPAdQKQgbW-2vaLKbQrX62vvhxvDlCB7Be5UFEWNx9WNHg2lDkjUEnnw92CnP_dlaMZKVNNKP0-aIeQ54j2fFur2knLdoSxihRNrpksUV3LHfls05wawRlR2IQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823181094%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=j4YyMmn9IJBZ7W8ufUysQ1semYwQ9LJTzkp6RZgzwII%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FF9sDuaU09368lSOZyd6FGQ~~%2FAAS2yhA~%2FCdAsB15e8i4_NCpKfjFN-gR_hUg0QxLteJ8lYFtV1tpxV8mWjQgwqHHuAQrOCRDW821ZINQXTIPQkXFgzvxJIGRB3Tm-kRGT1FPDkKNSrGGnBeEMUh3SnPZUo3LRwTLUKTd0sCkE1tq3PbhrBF-2T8OiJtb7Gf_8TLLupt-8ZSz9kmKws6Uc5dqJp4aTUuSqSBXu6TjD1nglX6DYy1L4SJdLGIbH-aBJVcKPaY7lUsfXCvhgjb15qwDE3bva1xYi&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701453745%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7AOlyXYDVFWvIFAgnl7BPwU1dZdW4IIuYKANTDYiP9k%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FHt0ArdRsNH_jxIEK--WEZQ~~%2FAAS2yhA~%2FEPqBZeEa0WVOxbf1UvlurM3m9poPr9LJNp0DzTCSol5ZF5HjnL4tdhAoHHpwT7hWh1W45sCWNtDNh-jdgGefVmLdRJdPatSwOj00oBBvGau_mUikzih63rGWD0LHmgXrm32mbdeflBljEnJ9Epj95w~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823163247%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DgaD8xvv%2BF%2FhhDrwHw47O0dHNRe0ykmUG7aTh6R883A%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FJh1JQVDfde9NzHDbwGQ94g~~%2FAAS2yhA~%2Ffz9LF-2cMxhw4xrJLGFziXVB9Jm5rmoRrXnZJhdRg7s7U8IhaDYe6HksVzBbUio7TkisnOi6ZLUil5q--jJBn-ciP1HgSP5eoot23Pbb8d479k28GypARZ-sDIo_WIaxSPmq-GpEM1O-tQ3ULx-rgeyItfbL-ONdlu2fTk_dfkKr8YNxr3_xhAhPgrYkPW0fVFcGgHxbLIt-uAFw84nB6A~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823088031%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=E%2BM%2Bad%2BmCY9PXbFqjKtdZ4M%2Fbw7FFS2EnVouG9erpV8%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FODdmMEE5wx_P6GvK1H0c5A~~%2FAAS2yhA~%2FEWAYAnzuYJGZ3IIhraCtu4dsPvxc-GM14jA4RHrjH63fCMNp-vJY5D1Ni7aQHRAfho0M_rrWlMTq--c4-GRdDYFOoaGfOD4cxox18MAGDad7S6Wp19Fo64SBaseaQmB8DdDg6Sc6VDMAlm1W3E_CSw~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823198972%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gCTRlpC4rhA1Qttr20hNBX885mVszcaK8ZP8Y0%2FGZR0%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FSzYjJ38woHqrYg4zmEbPrQ~~%2FAAS2yhA~%2FEPqBZeEa0WVOxbf1UvlurIPc5DjqjhAo7qNL80N6HTBYHqJMjCcvQhrevoLDeIsyTFSaJmuHzxItOXyG_nael92hBOOIq34izPHDJNmtGByCELuKVXMYshIiNYbj0sdy6K2FBdP7WNRVWi5vymvIiQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823106385%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=X5e6pAEu5DV65F9RrgWwriNNu5UXRhTdbTHKi9tPqA4%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FSzYjJ38woHqrYg4zmEbPrQ~~%2FAAS2yhA~%2FEPqBZeEa0WVOxbf1UvlurIPc5DjqjhAo7qNL80N6HTBYHqJMjCcvQhrevoLDeIsyTFSaJmuHzxItOXyG_nael92hBOOIq34izPHDJNmtGByCELuKVXMYshIiNYbj0sdy6K2FBdP7WNRVWi5vymvIiQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823143979%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N31%2B8JY495%2FuGY7dBcjqIEZMGdfc9dvXnrbXn1FJE6k%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FYAYyk6EVikF7rgs9J3N4Yg~~%2FAAS2yhA~%2FJHMIP-bWd_gMumAov5st9tBG8_HSbj_DaLzeSBTlvw_HHX2SfZJB6kAHp23If0a0CAWiEd76rnexSiX8NHq7BfDbNm9VmK6_ULPB0WkvqfY-2AGED6334WelK6MffKaDf2zUqaxXNeNZjlZTjwhO3iCtXfXEEQZjA97YzMPDGjUk08pq3qWK_FQwtO9gM6riLvXq8sDWxvHW2eMD8PzZTw~~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697436406%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9a9oeN%2BKe8SQLvwQCiY%2FghTALSrSUcutj1ovDdATatM%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F_w4YHqWua4dJhw35mJEhAQ~~%2FAAS2yhA~%2FJVECEgTWB2QxLOlx8sUnlejwABc96_N1PRY1F7ky3XSpJATtbSqc-oa9qaclmDBUUiCAoOzvOx-ueJOYAK5XWFIrYlV2n6GJRQBelOSMHG_a50kCdXBV_hNK5VJzu1h6l39jsLv6aH1vPrYJBrT0LQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395822953370%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ytMUIO%2BcYRlL4FmbtcYWnrPSxGr06kye9ndxGw2%2BbEY%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FbVN04uAULPKBRNRyaoLAwQ~~%2FAAS2yhA~%2FFE8cS-x4oCGvY6782B7hduHYCBXnn2zGm6y4nOm8RGCguwzc7rq2M5ap7DLZbyq_vTrVChZrRDLNO3ii5QlnKneWyIRCIZ-9eriCqfXeRy_k9PphiaADXcTAi4zkUSIjyuMlhKBepNjvEq-Dmcw3dNsgDxDe_q_fsvES8eTCDH2mncaDPjWxDF0me1Ba1YCX&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823032930%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tAl9tM15qzxScBZkhorJj0KoYFkjLQPqYqqbpyyg9lw%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fd-NhefU5_pMrbMClzezntA~~%2FAAS2yhA~%2FH2aNophqvz39aXlUZpQ7nz0bwcENrABYV0WAQrJyEXmd68_jFp6Qj78yB23Cd3GNRoFXdV-__mOEIxcC4kVdkhnWI_HWaio9mkKEVjKN0QI6Lt7wLCyfEMEki5FLAQkko0FitXGPAm6Fppi1k1_bFQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823217654%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lYX30A33MAO5a%2BcNDIhpHAlAsp0Ize3FIO1PChtNHjQ%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FgxbfbhGsNtrhVqbnu_ccHw~~%2FAAS2yhA~%2Fdhx7ZQFvB8mVa4VAors-1I3Ltue8JKyeHeYdb2BWzwmDcSusy3COSqma8g13JapXmpcUXwB-H_Fb6-QOibKCLregfa-zdZ01FD8pg9EDVNeUZXQmhFegn9HPpDhSC9A6gnpwkK2-Z4S8N7qkWD5_iQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823051879%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6mJbwjVTIz8sYbVVudxwKLEOmCdE8v9dJekmwbONZbw%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FhJqPEVzlcCd-fCDXx9ly9g~~%2FAAS2yhA~%2FEmx0go-WTtfT6P1EL9DWGEtuvxGsa7miWmIj8HwjGkwiY3PHjuwzajPt4KZ-TM0iVEw8oDd06hic_BxjLQaXTI0vdmv6neKo9bOVf0SkdJw~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701404579%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XsRcM2sv0LI5ebUv5CIA2yVa%2FdZfquU7gaBRyBWxXaY%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fiy2m5UHMHOwIr-CDP3G-Lw~~%2FAAS2yhA~%2F9kS6yifOM-YJSuqlYOhFtDOjvXOWRadjdiQwz4ozrpyLUbVvX0YRgWr39-ec5UDL1VcCWdZkzSFp4gwuv-Oa6SRJ3XTCGQkLnSBIzj1iz_8lKMiB5R8u5BulAmmiS7a2cchJd0mYFG99tYc_nW6H6w~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823070058%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8%2B4FqTPKoW%2BJmrVFGM%2BBWqllf%2FfsM%2BGgwjF9AivL7FY%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fnk9KKdENj_Z0Ad2zaLAjLw~~%2FAAS2yhA~%2F9kS6yifOM-YJSuqlYOhFtDOjvXOWRadjdiQwz4ozrpyLUbVvX0YRgWr39-ec5UDLM8tSYpKAgiaa5udS4Pp2hVPu5PkH_7rP4cy1CnrcAM7QFpHms3kPQLNlTWcM-h_qhvCUTILSVqlWs0a9MLtAlw~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823125180%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=EUWHzZTC9%2FgMziViiT1sgBRTPHwsRskpqJHaymN6cWI%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fv2VVBtklZNdY04MY7WUKgQ~~%2FAAS2yhA~%2FJZTqIL2A_mLomKDTQyoqH-HbRmRdgdIf8GZ3RmszXUg5e_JyLQE3G1U7v9heEXP-TBK6a02PTrkx3e5iZyTYVpQbhEZ0Ddwp0_WDLfZe56pflQMqRtFl3VsKpBaVY8Ts0cUAKLvQeswVL7OqoVmO2jN_gbM0uhiPbon9zvXkowPQiAVjUYpDj_wedjeoXHQVOVM0fLYapeXE6uCc3p6kT19033qxeEzc2txg9FNKQUY~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701470985%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=k47hUnWZm1orjdmm91CDjwjoM0uN7e1yZSdLCd9TFLk%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FvcPrCWN0lhvl0jBqruA52w~~%2FAAS2yhA~%2FfRadTBi7Shv0RcgGzHsJ-YZS2H1WCo0CR7QN1NZczSyWkdzaHfwP8WjE29SUdxgj5Jp4xCLeLYeN51MTjOAw2Q3en95jT9UHxW-RJp3rNHeVsyhLFm-P7i3v5lPgQoyEkmK0hwPgY5DetCtWHyOqjTZla65a1yxrkdXHDlPxKkrnOQKCG5Zz7b9dNH0okaaS&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697417217%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gM045icaoJtzKcrWN25%2FU1YEX7uUi4r1v9pasVLBafQ%3D&reserved=0",
-"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FyqNNp91A0ITkaQGA8isrrA~~%2FAAS2yhA~%2FuyAVGO5q01rvi4kkJfgSWG8UsqxFy9AlybEMTwcXHs8hJt53DAjcQ5-yR6oGu5Q3AKTsg94oFBslZwb5nKlOIz5f59FuyJ3LfZtEDOAi0HWzV1cnpIqxOmeY4y_FE70glPhGuy0fvKGIo_PIpe3_Ig~~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701486768%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Kyq%2FUxJ6dhVw%2Fw4kVEc9bANXYWq3%2Be1wHVSu0UXLfls%3D&reserved=0",
-"https://siac.utah.gov/intimate-partner-domestic-violence-data-analysis",
-"https://terrapower.com/utah-office-of-energy-development-terrapower-and-flagship-companies-sign-mou-to-explore-siting-of-advanced-nuclear-reactor",
-"https://utahnewsdispatch.com/2025/08/25/2025-fire-in-utah-data-costs",
-"https://votestephanie.org/",
-"https://votestephanie.org/2026-legislative-priorities",
-"https://votestephanie.org/247764-2",
-"https://votestephanie.org/247768-2",
-"https://votestephanie.org/?page_id=96351",
-"https://votestephanie.org/category/uncategorized/page/2",
-"https://votestephanie.org/issues",
-"https://votestephanie.org/legislative-work-in-progress",
-"https://votestephanie.org/meet-stephanie",
-"https://votestephanie.org/update-from-capitol-hill",
-"https://votestephanie.org/your-legislature-at-work"
+{
+"text": "#2 best state in the nation for teachers",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FYAYyk6EVikF7rgs9J3N4Yg~~%2FAAS2yhA~%2FJHMIP-bWd_gMumAov5st9tBG8_HSbj_DaLzeSBTlvw_HHX2SfZJB6kAHp23If0a0CAWiEd76rnexSiX8NHq7BfDbNm9VmK6_ULPB0WkvqfY-2AGED6334WelK6MffKaDf2zUqaxXNeNZjlZTjwhO3iCtXfXEEQZjA97YzMPDGjUk08pq3qWK_FQwtO9gM6riLvXq8sDWxvHW2eMD8PzZTw~~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697436406%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9a9oeN%2BKe8SQLvwQCiY%2FghTALSrSUcutj1ovDdATatM%3D&reserved=0"
+},
+{
+"text": "1,100 fires reported",
+"href": "https://utahnewsdispatch.com/2025/08/25/2025-fire-in-utah-data-costs/"
+},
+{
+"text": "2.3% year-over-year in June",
+"href": "https://www.fox13now.com/news/local-news/utah-economy-shows-strong-growth-with-2-3-employment-increase-outpacing-national-average"
+},
+{
+"text": "2026 Legislative Priorities",
+"href": "https://votestephanie.org/2026-legislative-priorities/"
+},
+{
+"text": "A new $200 million investment",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F5qM258GZ4cwVbOMZBXlYCg~~%2FAAS2yhA~%2F_ykvOB_hR40DwEPHAf5T1AxQowvib0pBqJiM5wDcxjLxMK4zgDXJ6n2u1Sv6sOPWW20SGRNEuuAghN_426YvVu2u2H-wWcaU0_RvcZz1q6bb0dijRyjl-NXlqR-XHW_hIxtk170JzgcBzBOreFgbsCVuKaqJWzuFMBgwvUn2GrFUb0Lj6imGgd1AgWjv3zP3KZ-1aCIpTVM7qj5U6FO9kIL27rS0BmEJXX1HwtDo7o0Ba1YLkFRi1sOy5QM-kqDnLUNYJkZ7_Qlub-jca9BZ8g~~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697475769%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GBbEn8WUm1BrQh9PQX%2B%2FYDU4O7xeQT4mLu1QOPYyjnU%3D&reserved=0"
+},
+{
+"text": "Click here to find one nearest you.",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FSzYjJ38woHqrYg4zmEbPrQ~~%2FAAS2yhA~%2FEPqBZeEa0WVOxbf1UvlurIPc5DjqjhAo7qNL80N6HTBYHqJMjCcvQhrevoLDeIsyTFSaJmuHzxItOXyG_nael92hBOOIq34izPHDJNmtGByCELuKVXMYshIiNYbj0sdy6K2FBdP7WNRVWi5vymvIiQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823106385%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=X5e6pAEu5DV65F9RrgWwriNNu5UXRhTdbTHKi9tPqA4%3D&reserved=0"
+},
+{
+"text": "Donate food",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fiy2m5UHMHOwIr-CDP3G-Lw~~%2FAAS2yhA~%2F9kS6yifOM-YJSuqlYOhFtDOjvXOWRadjdiQwz4ozrpyLUbVvX0YRgWr39-ec5UDL1VcCWdZkzSFp4gwuv-Oa6SRJ3XTCGQkLnSBIzj1iz_8lKMiB5R8u5BulAmmiS7a2cchJd0mYFG99tYc_nW6H6w~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823070058%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8%2B4FqTPKoW%2BJmrVFGM%2BBWqllf%2FfsM%2BGgwjF9AivL7FY%3D&reserved=0"
+},
+{
+"text": "Donate money to the Utah Food Bank here.",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FgxbfbhGsNtrhVqbnu_ccHw~~%2FAAS2yhA~%2Fdhx7ZQFvB8mVa4VAors-1I3Ltue8JKyeHeYdb2BWzwmDcSusy3COSqma8g13JapXmpcUXwB-H_Fb6-QOibKCLregfa-zdZ01FD8pg9EDVNeUZXQmhFegn9HPpDhSC9A6gnpwkK2-Z4S8N7qkWD5_iQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823051879%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6mJbwjVTIz8sYbVVudxwKLEOmCdE8v9dJekmwbONZbw%3D&reserved=0"
+},
+{
+"text": "H.B. 65",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F9ULwcIdLnIXC-6leZa4ndA~~%2FAAS2yhA~%2FEWAYAnzuYJGZ3IIhraCtu4dsPvxc-GM14jA4RHrjH63fCMNp-vJY5D1Ni7aQHRAftLJxtEKwdOoGs98m8q-5zWJRMo01DQvdmamB_P4rEeWJ5zrx2-qtwojIQ_jPS-W1TvZRHWfeau1QszFamhEziQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395822997840%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IVLqi8eTxeUVcoK2utzKJS0qAxyvYHqH7qSVzpwe9mI%3D&reserved=0"
+},
+{
+"text": "HB265",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FODdmMEE5wx_P6GvK1H0c5A~~%2FAAS2yhA~%2FEWAYAnzuYJGZ3IIhraCtu4dsPvxc-GM14jA4RHrjH63fCMNp-vJY5D1Ni7aQHRAfho0M_rrWlMTq--c4-GRdDYFOoaGfOD4cxox18MAGDad7S6Wp19Fo64SBaseaQmB8DdDg6Sc6VDMAlm1W3E_CSw~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823198972%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gCTRlpC4rhA1Qttr20hNBX885mVszcaK8ZP8Y0%2FGZR0%3D&reserved=0"
+},
+{
+"text": "Harmons",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FJh1JQVDfde9NzHDbwGQ94g~~%2FAAS2yhA~%2Ffz9LF-2cMxhw4xrJLGFziXVB9Jm5rmoRrXnZJhdRg7s7U8IhaDYe6HksVzBbUio7TkisnOi6ZLUil5q--jJBn-ciP1HgSP5eoot23Pbb8d479k28GypARZ-sDIo_WIaxSPmq-GpEM1O-tQ3ULx-rgeyItfbL-ONdlu2fTk_dfkKr8YNxr3_xhAhPgrYkPW0fVFcGgHxbLIt-uAFw84nB6A~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823088031%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=E%2BM%2Bad%2BmCY9PXbFqjKtdZ4M%2Fbw7FFS2EnVouG9erpV8%3D&reserved=0"
+},
+{
+"text": "Home",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "Issues",
+"href": "https://votestephanie.org/issues/"
+},
+{
+"text": "Legislative Work in Progress",
+"href": "https://votestephanie.org/legislative-work-in-progress/"
+},
+{
+"text": "Meet Stephanie",
+"href": "https://votestephanie.org/meet-stephanie/"
+},
+{
+"text": "Recent Updates",
+"href": "https://votestephanie.org/?page_id=96351"
+},
+{
+"text": "SB 117",
+"href": "https://le.utah.gov/~2023/bills/static/SB0117.html"
+},
+{
+"text": "TerraPower",
+"href": "https://www.terrapower.com/utah-office-of-energy-development-terrapower-and-flagship-companies-sign-mou-to-explore-siting-of-advanced-nuclear-reactor"
+},
+{
+"text": "The Legislature is taking a close look",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FbVN04uAULPKBRNRyaoLAwQ~~%2FAAS2yhA~%2FFE8cS-x4oCGvY6782B7hduHYCBXnn2zGm6y4nOm8RGCguwzc7rq2M5ap7DLZbyq_vTrVChZrRDLNO3ii5QlnKneWyIRCIZ-9eriCqfXeRy_k9PphiaADXcTAi4zkUSIjyuMlhKBepNjvEq-Dmcw3dNsgDxDe_q_fsvES8eTCDH2mncaDPjWxDF0me1Ba1YCX&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823032930%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tAl9tM15qzxScBZkhorJj0KoYFkjLQPqYqqbpyyg9lw%3D&reserved=0"
+},
+{
+"text": "Upcoming Town Hall",
+"href": "https://votestephanie.org/247764-2/"
+},
+{
+"text": "Update From Capitol Hill",
+"href": "https://votestephanie.org/update-from-capitol-hill/"
+},
+{
+"text": "Volunteer time",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fnk9KKdENj_Z0Ad2zaLAjLw~~%2FAAS2yhA~%2F9kS6yifOM-YJSuqlYOhFtDOjvXOWRadjdiQwz4ozrpyLUbVvX0YRgWr39-ec5UDLM8tSYpKAgiaa5udS4Pp2hVPu5PkH_7rP4cy1CnrcAM7QFpHms3kPQLNlTWcM-h_qhvCUTILSVqlWs0a9MLtAlw~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823125180%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=EUWHzZTC9%2FgMziViiT1sgBRTPHwsRskpqJHaymN6cWI%3D&reserved=0"
+},
+{
+"text": "Wrapping Up the Interim Process",
+"href": "https://votestephanie.org/247768-2/"
+},
+{
+"text": "Your Legislature at Work",
+"href": "https://votestephanie.org/your-legislature-at-work/"
+},
+{
+"text": "[image: Stephanie Gricius]",
+"href": "https://votestephanie.org/"
+},
+{
+"text": "[image]",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F4KO0YRJ4qGFobLMcYjBTfg~~%2FAAS2yhA~%2F4xVviOZ4C-SCwl5jUSiOdIY_hrKS5hbtkIVGxajiF7CEH67nAZKziZF2izcCSY6Mn2QjfvI_ujIweXAOGNVcXjITfNas54q2FBP4f1iZOvdaJSn9M8iwpnBftxVjFx1blCw0Q5j9HCrBDpYOUuiLmoNkQuUZiXBb6_rSLkrH4yw~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701435059%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DF4LGuvIgMZhXVscRU72BEiX4ENeElb5bOUP86ZDFLg%3D&reserved=0"
+},
+{
+"text": "[image]",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F57YGSRNb9Y3NsefJnnONnQ~~%2FAAS2yhA~%2F4l_BNfRr7ismLbHjt6zZ9f4oYLfvgvhHKx_XJnCmuNpXsAmLzeBXZXltgpTu8mlf2pzHQGmcmlXnvFirm-ZT5JRdDQoY8CC2DIvT7BorMN7Y7wfARogLT8b21W1eu4SssEANCJCu6OZj2KaFXuxuuQCmabggtwgAWtrVB54EY34~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823014810%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=roL4UbNVh8dc852VycvUG7ltm%2BviwDPxciXlo%2FZWPbA%3D&reserved=0"
+},
+{
+"text": "[image]",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FHt0ArdRsNH_jxIEK--WEZQ~~%2FAAS2yhA~%2FEPqBZeEa0WVOxbf1UvlurM3m9poPr9LJNp0DzTCSol5ZF5HjnL4tdhAoHHpwT7hWh1W45sCWNtDNh-jdgGefVmLdRJdPatSwOj00oBBvGau_mUikzih63rGWD0LHmgXrm32mbdeflBljEnJ9Epj95w~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823163247%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DgaD8xvv%2BF%2FhhDrwHw47O0dHNRe0ykmUG7aTh6R883A%3D&reserved=0"
+},
+{
+"text": "[image]",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FyqNNp91A0ITkaQGA8isrrA~~%2FAAS2yhA~%2FuyAVGO5q01rvi4kkJfgSWG8UsqxFy9AlybEMTwcXHs8hJt53DAjcQ5-yR6oGu5Q3AKTsg94oFBslZwb5nKlOIz5f59FuyJ3LfZtEDOAi0HWzV1cnpIqxOmeY4y_FE70glPhGuy0fvKGIo_PIpe3_Ig~~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701486768%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Kyq%2FUxJ6dhVw%2Fw4kVEc9bANXYWq3%2Be1wHVSu0UXLfls%3D&reserved=0"
+},
+{
+"text": "[no text]",
+"href": "https://votestephanie.org"
+},
+{
+"text": "a public dashboard",
+"href": "https://siac.utah.gov/intimate-partner-domestic-violence-data-analysis/"
+},
+{
+"text": "check out our priorities website",
+"href": "https://house.utleg.gov/2026-priorities/"
+},
+{
+"text": "click here to find a food pantry near you.",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FSzYjJ38woHqrYg4zmEbPrQ~~%2FAAS2yhA~%2FEPqBZeEa0WVOxbf1UvlurIPc5DjqjhAo7qNL80N6HTBYHqJMjCcvQhrevoLDeIsyTFSaJmuHzxItOXyG_nael92hBOOIq34izPHDJNmtGByCELuKVXMYshIiNYbj0sdy6K2FBdP7WNRVWi5vymvIiQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823143979%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N31%2B8JY495%2FuGY7dBcjqIEZMGdfc9dvXnrbXn1FJE6k%3D&reserved=0"
+},
+{
+"text": "click here to read the highlights",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F643Si7rO7T-59q7ntKYhlg~~%2FAAS2yhA~%2F6Iu6o7DLjTT6LzRDCbskNxpEe0jF8GZqsDBVEP6Lm9pTLCNPVKPCX8kOiV9E5m0JiccwoyS1kBVrL9l-fSbrH-jxl5neMomsGee8bqBE9kmRT71ZxpIEGeVcH4LYJeVZqjKQuINbRf72zFXwt65rZg~~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697350329%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6a%2FRw%2FqqLMY0rXkV1eRDvGkOcMpq1dA97WHXk2nbxR4%3D&reserved=0"
+},
+{
+"text": "directing $21 million toward 38 new recreation projects across the state",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F6v59K7bKvmcCNuZn91MjlQ~~%2FAAS2yhA~%2F_r4yVnEXCvNGz15_k2mu4zslpPIla2rWae0bmyGx22cHtQ4KrpXdfkLXa0nqAc2nFOIKqqW831fYVefnv4W8jw4rjQG5YqI_KyabNBbzf3Oe__UK4qWiQiEm73_FxHrb3JkoTV5Mh9h9JDmYsHjS9EUs56CmCHGVATKCJOWec2CpTCCpsumPv6npN3AWa0wH-zKPJoBkhUWimSTtUT_2rGWNGkJDRx25UT3aKhO5tVU~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701503761%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hF6aEGANpdO3QUzIEs%2B2hM7nkmKp1nYX2e6cXdi4vYU%3D&reserved=0"
+},
+{
+"text": "has officially been dropped",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FBMAbYRH7TalQAOfyeoL7vA~~%2FAAS2yhA~%2FC1pd4R__SM0WcZ_gbUs9SnVioZxmP8CuN4zam0uI5WuTheoUvHKs2Rpsp4hGN-OpyZM4Y5opGlS0a2Us4PrKMGi1tYHdgPAdQKQgbW-2vaLKbQrX62vvhxvDlCB7Be5UFEWNx9WNHg2lDkjUEnnw92CnP_dlaMZKVNNKP0-aIeQ54j2fFur2knLdoSxihRNrpksUV3LHfls05wawRlR2IQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823181094%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=j4YyMmn9IJBZ7W8ufUysQ1semYwQ9LJTzkp6RZgzwII%3D&reserved=0"
+},
+{
+"text": "here",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FvcPrCWN0lhvl0jBqruA52w~~%2FAAS2yhA~%2FfRadTBi7Shv0RcgGzHsJ-YZS2H1WCo0CR7QN1NZczSyWkdzaHfwP8WjE29SUdxgj5Jp4xCLeLYeN51MTjOAw2Q3en95jT9UHxW-RJp3rNHeVsyhLFm-P7i3v5lPgQoyEkmK0hwPgY5DetCtWHyOqjTZla65a1yxrkdXHDlPxKkrnOQKCG5Zz7b9dNH0okaaS&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697417217%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gM045icaoJtzKcrWN25%2FU1YEX7uUi4r1v9pasVLBafQ%3D&reserved=0"
+},
+{
+"text": "le.utah.gov",
+"href": "http://le.utah.gov/"
+},
+{
+"text": "le.utah.gov",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F2iIaeeVMm39xfJVerLHzWA~~%2FAAS2yhA~%2FmQszeII6oqn3cYQCwwErADLE92fo8hCfU-2Vw7syxm_RxM8PJUjME8izcXdAVIaPKLlVmxrzcfFUOFL0JvpW2Ecf3wB6HVZ2_Q_R30n-B8w~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395822981197%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Tjm7TXBom%2Fd7nfIWA1yeaiyCMXXIhooFmF9jTRS3XL4%3D&reserved=0"
+},
+{
+"text": "le.utah.gov",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F54dX8zWvXRGq79JwHpOFVA~~%2FAAS2yhA~%2FRg_HmL4XbfNuFn0IbhdAsTRgPQTZQi6sR38O5SzvOwaEEvgjukhLiP7cMHJfhxfz8i2OuCJM60BVeRVpWef6oqYwIXH2qLdU8RWs93TKa3g~&data=05%7C02%7Csgricius%40le.utah.gov%7Ca085a4e0a29f442ab92c08de069a0225%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638955455697397060%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1jJpYPig7kQP%2Fv6b522q130nUmQHJy7rF%2F%2FoMd4zeTw%3D&reserved=0"
+},
+{
+"text": "le.utah.gov",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FhJqPEVzlcCd-fCDXx9ly9g~~%2FAAS2yhA~%2FEmx0go-WTtfT6P1EL9DWGEtuvxGsa7miWmIj8HwjGkwiY3PHjuwzajPt4KZ-TM0iVEw8oDd06hic_BxjLQaXTI0vdmv6neKo9bOVf0SkdJw~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701404579%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XsRcM2sv0LI5ebUv5CIA2yVa%2FdZfquU7gaBRyBWxXaY%3D&reserved=0"
+},
+{
+"text": "meeting highlights here",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2F_w4YHqWua4dJhw35mJEhAQ~~%2FAAS2yhA~%2FJVECEgTWB2QxLOlx8sUnlejwABc96_N1PRY1F7ky3XSpJATtbSqc-oa9qaclmDBUUiCAoOzvOx-ueJOYAK5XWFIrYlV2n6GJRQBelOSMHG_a50kCdXBV_hNK5VJzu1h6l39jsLv6aH1vPrYJBrT0LQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395822953370%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ytMUIO%2BcYRlL4FmbtcYWnrPSxGr06kye9ndxGw2%2BbEY%3D&reserved=0"
+},
+{
+"text": "new report",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2FF9sDuaU09368lSOZyd6FGQ~~%2FAAS2yhA~%2FCdAsB15e8i4_NCpKfjFN-gR_hUg0QxLteJ8lYFtV1tpxV8mWjQgwqHHuAQrOCRDW821ZINQXTIPQkXFgzvxJIGRB3Tm-kRGT1FPDkKNSrGGnBeEMUh3SnPZUo3LRwTLUKTd0sCkE1tq3PbhrBF-2T8OiJtb7Gf_8TLLupt-8ZSz9kmKws6Uc5dqJp4aTUuSqSBXu6TjD1nglX6DYy1L4SJdLGIbH-aBJVcKPaY7lUsfXCvhgjb15qwDE3bva1xYi&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701453745%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7AOlyXYDVFWvIFAgnl7BPwU1dZdW4IIuYKANTDYiP9k%3D&reserved=0"
+},
+{
+"text": "our state now ranks #1 in the nation for the lowest higher-education cost burden,",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fv2VVBtklZNdY04MY7WUKgQ~~%2FAAS2yhA~%2FJZTqIL2A_mLomKDTQyoqH-HbRmRdgdIf8GZ3RmszXUg5e_JyLQE3G1U7v9heEXP-TBK6a02PTrkx3e5iZyTYVpQbhEZ0Ddwp0_WDLfZe56pflQMqRtFl3VsKpBaVY8Ts0cUAKLvQeswVL7OqoVmO2jN_gbM0uhiPbon9zvXkowPQiAVjUYpDj_wedjeoXHQVOVM0fLYapeXE6uCc3p6kT19033qxeEzc2txg9FNKQUY~&data=05%7C02%7Csgricius%40le.utah.gov%7Cb291e6d22aca4cd651bf08de312c591d%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C639002263701470985%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=k47hUnWZm1orjdmm91CDjwjoM0uN7e1yZSdLCd9TFLk%3D&reserved=0"
+},
+{
+"text": "read the highlights here",
+"href": "https://le.utah.gov/interim/2025/pdf/00003355.pdf"
+},
+{
+"text": "universities are redirecting resources toward high-demand fields",
+"href": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.sparkpostmail.com%2Ff%2Fa%2Fd-NhefU5_pMrbMClzezntA~~%2FAAS2yhA~%2FH2aNophqvz39aXlUZpQ7nz0bwcENrABYV0WAQrJyEXmd68_jFp6Qj78yB23Cd3GNRoFXdV-__mOEIxcC4kVdkhnWI_HWaio9mkKEVjKN0QI6Lt7wLCyfEMEki5FLAQkko0FitXGPAm6Fppi1k1_bFQ~~&data=05%7C02%7Csgricius%40le.utah.gov%7C4e2bff1506af43c0e75f08de18bcadd8%7Caa13953832ab4071953f2070ac88bcfe%7C0%7C0%7C638975395823217654%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lYX30A33MAO5a%2BcNDIhpHAlAsp0Ize3FIO1PChtNHjQ%3D&reserved=0"
+},
+{
+"text": "« Older Entries",
+"href": "https://votestephanie.org/category/uncategorized/page/2/"
+}
 ]

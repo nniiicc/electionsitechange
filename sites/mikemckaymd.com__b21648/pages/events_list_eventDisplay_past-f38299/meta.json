@@ -1,7 +1,15 @@
 {
  "description": "",
  "final_url": "https://mikemckaymd.com/events/list/?eventDisplay=past",
- "paid_for_by": null,
- "title": "Past Events from October 11, 2023 \u2013 September 11 \u2013 State Senator Mike McKay for Maryland District 1",
- "years_mentioned": []
+ "fingerprint": "ed5e17c30ed890697e6beefbb132ba84e29ca07b",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
+ "title": "Past Events from October 11, 2023 – September 11 – State Senator Mike McKay for Maryland District 1",
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025",
+  "2026",
+  "2030"
+ ]
 }

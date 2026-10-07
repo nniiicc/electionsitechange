@@ -1,9 +1,4 @@
-Week 5 - Legislative Update
-Representative John Shubeck | District 16
-South Dakota Legislature
-House of Representatives
-Originally Posted on Facebook: February 16, 2026
-This week I was very proud of the work we got done.
+top of page Home Meet John On the Issues News Menu Back to site Get Involved News Week 5 - Legislative Update Feb 16 3 min read Representative John Shubeck | District 16 South Dakota Legislature House of Representatives Originally Posted on Facebook : February 16, 2026 This week I was very proud of the work we got done.
 We have the most bills filed since the 1990s, so our plate has been overflowing.
 With that said, I’ll talk about a few bills that are going through the pipeline that I’d like to highlight.
 In this weekly update I’ll talk property taxes, streaming advertising, and data collection on minors.
@@ -34,5 +29,4 @@ Please support me on this bill.
 Finally, thank you for all the messages with questions and also support.
 I am happy to say that due to overwhelming constituent engagement the governor will be signing HB 1064 (provision for sale of producer raised meat).
 Again, thanks for all the support this legislative session and if you have comments or questions, please don’t hesitate to reach out to me.
-Representative John Shubeck
-South Dakota District 16
+Representative John Shubeck South Dakota District 16 Recent Posts See All Week 6 - Legislative Update Week 3 - Legislative Update Week 2 - Legislative Update QUICK LINKS Home Meet John On the Issues Get Involved News Contact SOCIAL Facebook ​ CONTACT johnshubeckforsd@gmail.com 605-553-1094 ​ 29341 468th Ave Beresford, SD 57004 Paid for by John Shubeck for SD © # | Terms & Conditions | Privacy Policy | Accessibility Statement JOIN OUR NEWSLETTER First name Last name Email * Yes, subscribe me to your newsletter * Submit Home Meet John On the Issues News bottom of page

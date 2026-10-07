@@ -1,7 +1,9 @@
 {
  "description": "Explore political concerns such as women&#39;s rights, the education gap, and the millionaire&#39;s tax on David Senator&#39;s platform.",
  "final_url": "https://davidsenator.com/my-worries",
- "paid_for_by": null,
+ "fingerprint": "c8b19b9041650e5f91fe93ddd2e511922bdd4d4c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Political Concerns: My Worries | David Senator",
  "years_mentioned": []
 }

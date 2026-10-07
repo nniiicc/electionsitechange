@@ -1,10 +1,42 @@
 [
-"https://claycounts.com/",
-"https://claycounts.com/about-clay",
-"https://claycounts.com/contact",
-"https://claycounts.com/donate",
-"https://claycounts.com/policy",
-"https://facebook.com/share/19nyhZPjTG?mibextid=wwXIfr",
-"https://instagram.com/claycounts21?igsh=djNtaWI1dXV6M3Vn",
-"https://linkedin.com/in/clay-counts"
+{
+"text": "About Clay",
+"href": "https://www.claycounts.com/about-clay"
+},
+{
+"text": "Contact",
+"href": "https://www.claycounts.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.claycounts.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/19nyhZPjTG/?mibextid=wwXIfr"
+},
+{
+"text": "Home",
+"href": "https://www.claycounts.com"
+},
+{
+"text": "Policy",
+"href": "https://www.claycounts.com/policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/19nyhZPjTG/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/claycounts21?igsh=djNtaWI1dXV6M3Vn"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/clay-counts"
+},
+{
+"text": "​",
+"href": "https://www.claycounts.com"
+}
 ]

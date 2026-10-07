@@ -1,5 +1,18 @@
 [
-"https://chappell4mo.com/",
-"https://facebook.com/Chappell4MO",
-"https://secure.anedot.com/chappell4mo/donate"
+{
+"text": "Contact Me",
+"href": "https://www.chappell4mo.com"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/chappell4mo/donate"
+},
+{
+"text": "Meet Darin",
+"href": "https://www.chappell4mo.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Chappell4MO/"
+}
 ]

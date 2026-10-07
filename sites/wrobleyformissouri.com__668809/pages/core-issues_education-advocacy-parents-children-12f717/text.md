@@ -1,7 +1,7 @@
-ADVOCATING FOR PARENTS & CHILDREN
-LaVanna believes every child deserves access to a high-quality education and every parent deserves a real voice in that child’s future.
+0 Skip to Content MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE ADVOCATING FOR PARENTS & CHILDREN LaVanna believes every child deserves access to a high-quality education and every parent deserves a real voice in that child’s future.
 With Missouri students continuing to face serious challenges in academic performance and early literacy, she knows we cannot accept the status quo.
 In 2024, just 36% of Missouri fourth graders scored at or above proficient in reading.
 Our kids deserve better.
 LaVanna will fight for reforms that strengthen K–12 education, improve reading outcomes, support teachers through better preparation and compensation, and expand education freedom so parents can decide what learning environment is best for their children.
 By putting students first and empowering families, LaVanna will work to build an education system that opens the door to success and long-term prosperity.
+Previous Previous LOWERING PROPERTY TAXES Next Next CREATING OPPORTUNITIES Meet LaVanna Core Issues Connect Privacy QUICK LINKS CONNECT LaVanna@WrobleyforMissouri.com Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Paid for by Wrobley for Missouri, Maryann Manion, Treasurer ©# Wrobley For Missouri

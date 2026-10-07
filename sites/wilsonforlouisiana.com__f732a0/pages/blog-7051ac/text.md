@@ -1,13 +1,7 @@
 Join Us for A New Way Forward in Louisiana!
-Published August 14th, 2026
-The Builder's Agenda is a philosophy grounded in practical experience with construction, project management, and community development.
-It reflects a commitment to hands-on understanding of how infrastructure projects come …
-Published August 12th, 2026
-Access to healthcare is a cornerstone of community stability and economic growth, yet it remains one of the most pressing challenges for rural families across Louisiana's 5th Congressional District.
-Residents face a …
-Published August 11th, 2026
-Infrastructure investment is the cornerstone of economic vitality in Louisiana's 5th Congressional District.
-Roads, bridges, water systems, and broadband are more than just physical structures; they are essential …
-Published August 10th, 2026
-Workforce training programs have become essential tools for addressing the economic challenges faced by Louisiana's 5th Congressional District.
-Rural communities here wrestle with limited job availability, aging …
+Home Agenda About Contact Home Agenda About Contact What Is the Builder's Agenda for Louisiana's Future Published August 14th, 2026 The Builder's Agenda is a philosophy grounded in practical experience with construction, project management, and community development.
+It reflects a commitment to hands-on understanding of how infrastructure projects come … Read More How To Improve Rural Healthcare Access Published August 12th, 2026 Access to healthcare is a cornerstone of community stability and economic growth, yet it remains one of the most pressing challenges for rural families across Louisiana's 5th Congressional District.
+Residents face a … Read More How Infrastructure Investment Spurs Growth Published August 11th, 2026 Infrastructure investment is the cornerstone of economic vitality in Louisiana's 5th Congressional District.
+Roads, bridges, water systems, and broadband are more than just physical structures; they are essential … Read More How Workforce Training Boosts Job Growth Published August 10th, 2026 Workforce training programs have become essential tools for addressing the economic challenges faced by Louisiana's 5th Congressional District.
+Rural communities here wrestle with limited job availability, aging … Read More A New Way Forward for Louisiana's 5th Congressional District Begins Here.
+Contact Me (205) 441-6062 [email protected] Tallulah, Louisiana Facebook Governing Commitments Community Assistance Economic Development Healthcare & Family Advocacy View All Quick Navigation About Blog FAQ Contact Powered by

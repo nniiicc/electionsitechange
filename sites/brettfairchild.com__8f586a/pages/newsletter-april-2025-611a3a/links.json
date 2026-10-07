@@ -1,26 +1,98 @@
 [
-"https://atlasmarketingsolutions.com/website-designer",
-"https://brettfairchild.com/",
-"https://brettfairchild.com/abortion",
-"https://brettfairchild.com/about-me",
-"https://brettfairchild.com/agriculture",
-"https://brettfairchild.com/author/brett-fairchild",
-"https://brettfairchild.com/budgetary-issues",
-"https://brettfairchild.com/category/legislative-update",
-"https://brettfairchild.com/category/newsletter",
-"https://brettfairchild.com/civil-liberties",
-"https://brettfairchild.com/education",
-"https://brettfairchild.com/get-involved",
-"https://brettfairchild.com/gun-rights",
-"https://brettfairchild.com/health-care",
-"https://brettfairchild.com/immigration",
-"https://brettfairchild.com/kansas-state-representative-113th-district",
-"https://brettfairchild.com/licensing-reform",
-"https://brettfairchild.com/newsletter",
-"https://brettfairchild.com/newsletter-april-2025",
-"https://brettfairchild.com/newsletter-april-2026",
-"https://brettfairchild.com/religious-liberty",
-"https://brettfairchild.com/spending",
-"https://brettfairchild.com/taxes",
-"https://secure.anedot.com/fairchild-for-freedom/donate"
+{
+"text": "Abortion",
+"href": "https://brettfairchild.com/abortion/"
+},
+{
+"text": "About Me",
+"href": "https://brettfairchild.com/about-me/"
+},
+{
+"text": "Agriculture",
+"href": "https://brettfairchild.com/agriculture/"
+},
+{
+"text": "Brett Fairchild",
+"href": "https://brettfairchild.com/author/brett-fairchild/"
+},
+{
+"text": "Budgetary Issues",
+"href": "https://brettfairchild.com/budgetary-issues/"
+},
+{
+"text": "Civil Liberties",
+"href": "https://brettfairchild.com/civil-liberties/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/fairchild-for-freedom/donate"
+},
+{
+"text": "Education",
+"href": "https://brettfairchild.com/education/"
+},
+{
+"text": "Get Involved",
+"href": "https://brettfairchild.com/get-involved/"
+},
+{
+"text": "Gun Rights",
+"href": "https://brettfairchild.com/gun-rights/"
+},
+{
+"text": "Health Care",
+"href": "https://brettfairchild.com/health-care/"
+},
+{
+"text": "Home",
+"href": "https://brettfairchild.com/"
+},
+{
+"text": "Immigration",
+"href": "https://brettfairchild.com/immigration/"
+},
+{
+"text": "KS State Rep., Dist. 113",
+"href": "https://brettfairchild.com/kansas-state-representative-113th-district/"
+},
+{
+"text": "Legislative Update",
+"href": "https://brettfairchild.com/category/legislative-update/"
+},
+{
+"text": "Licensing Reform",
+"href": "https://brettfairchild.com/licensing-reform/"
+},
+{
+"text": "Newsletter",
+"href": "https://brettfairchild.com/category/newsletter/"
+},
+{
+"text": "Newsletter",
+"href": "https://brettfairchild.com/newsletter/"
+},
+{
+"text": "Newsletter April 2025",
+"href": "https://brettfairchild.com/newsletter-april-2025/"
+},
+{
+"text": "Newsletter April 2026",
+"href": "https://brettfairchild.com/newsletter-april-2026/"
+},
+{
+"text": "Religious Liberty",
+"href": "https://brettfairchild.com/religious-liberty/"
+},
+{
+"text": "Spending",
+"href": "https://brettfairchild.com/spending/"
+},
+{
+"text": "Taxes",
+"href": "https://brettfairchild.com/taxes/"
+},
+{
+"text": "Website Design by Atlas Marketing Solutions",
+"href": "https://atlasmarketingsolutions.com/website-designer/"
+}
 ]

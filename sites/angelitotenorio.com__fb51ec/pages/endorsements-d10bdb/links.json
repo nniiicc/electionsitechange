@@ -1,14 +1,70 @@
 [
-"https://angelitotenorio.com/",
-"https://angelitotenorio.com/contact",
-"https://angelitotenorio.com/donate",
-"https://angelitotenorio.com/endorsements",
-"https://angelitotenorio.com/get-involved",
-"https://angelitotenorio.com/map",
-"https://angelitotenorio.com/meet-angelito",
-"https://angelitotenorio.com/priorities",
-"https://facebook.com/angelitoforwi",
-"https://instagram.com/angelitoforwi",
-"https://secure.actblue.com/donate/angelitowebsite",
-"https://twitter.com/AngelitoForWI"
+{
+"text": "Contact",
+"href": "https://www.angelitotenorio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/angelitowebsite"
+},
+{
+"text": "Donate",
+"href": "https://www.angelitotenorio.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.angelitotenorio.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.angelitotenorio.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.angelitotenorio.com"
+},
+{
+"text": "Home",
+"href": "https://www.angelitotenorio.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.angelitotenorio.com/priorities"
+},
+{
+"text": "Map",
+"href": "https://www.angelitotenorio.com/map"
+},
+{
+"text": "Meet Angelito",
+"href": "https://www.angelitotenorio.com/meet-angelito"
+},
+{
+"text": "Priorities",
+"href": "https://www.angelitotenorio.com/priorities"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.angelitotenorio.com/get-involved"
+},
+{
+"text": "[image: Angelito for Assembly_Final2.png]",
+"href": "https://www.angelitotenorio.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/angelitoforwi"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/angelitoforwi/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/AngelitoForWI"
+},
+{
+"text": "angelitoforassembly@gmail.com",
+"href": "mailto:angelitoforassembly@gmail.com"
+}
 ]

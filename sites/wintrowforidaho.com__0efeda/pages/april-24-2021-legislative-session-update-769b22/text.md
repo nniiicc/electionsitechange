@@ -1,25 +1,22 @@
-The legislative session feels more like a Nanny State than State Government.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE April 24, 2021 – Legislative Session Update Apr 24, 2021 The legislative session feels more like a Nanny State than State Government.
 Power consolidation continues as the legislature tries to insert itself in local elections, school districts, health districts, city budget decisions, voter restrictions, ballot initiatives, women’s rights, curriculum control, and so on…..AND STILL NO PROPERTY TAX RELIEF introduced.
 There are discussions and bargains finally being made, but I’m at a loss as to why we just can’t raise the homeowners exemption!
 That’s what people want!
 Then, adjust the circuit breaker to help low income people who are elderly, veterans, or have disabilities.
 I’m tired of the political games and just want us to help Idahoans go about their daily lives without all the restrictions being imposed.
 What are we all still doing here?
-We are now wrapping up the 13th week of the 2021 Idaho Legislative Session, surpassing 100 days.
+We are now wrapping up the 13th week of the 2021 Idaho Legislative Session, surpassing 100 days .
 On day 100 a bill to kill more wolves was introduced, and on day 99 the Senate had to address another abortion bill and a gun bill.
 Priorities…?
 When are we going to adjourn sine die?
-Not until the GOP majority effectively neuters the governor’s authority:
-According to an interview with the Idaho Statesman, “House Assistant Majority Leader Jason Monks, R-Meridian, said House Republican leaders will not want the Legislature to recess until it can successfully pass laws curbing the governor’s emergency powers.
+Not until the GOP majority effectively neuters the governor’s authority: According to an interview with the Idaho Statesman, “House Assistant Majority Leader Jason Monks, R-Meridian, said House Republican leaders will not want the Legislature to recess until it can successfully pass laws curbing the governor’s emergency powers.
 It was their top priority since day one.
 We’ll stay here until we come up with a solution.
-The House will not adjourn until we come up with a solution on that.”
-This past week the House voted to approve HJR102 that allows the legislature to call itself back into session, which I voted against.
+The House will not adjourn until we come up with a solution on that.” This past week the House voted to approve HJR102 that allows the legislature to call itself back into session, which I voted against.
 This legislature continues to try to consolidate power which flies in the face of the constitution and our principles for checks and balances.
 However, it’s now up to the voters in the 2022 election where they will decide if they trust the legislature to have more power, especially after this session where they continue to waste taxpayer dollars.
 The Senate has far less on the agenda than the House, although we have a few bills scheduled for their second and third readings on Monday as well as several bills in the 14th amending order.
-The bills waiting to be read in the Senate:
-HB220 which denies any public funds to entities or physicians that provide abortions.
+The bills waiting to be read in the Senate: HB220 which denies any public funds to entities or physicians that provide abortions.
 Let me be clear, no public funding goes towards safe/legal abortions as it is.
 This bill is another attempt to restrict a woman’s liberty to access a safe and legal abortion.
 In January 1973, the United State Supreme Court ruled in a 7-2 landmark decision in Roe v.
@@ -44,11 +41,10 @@ HB362 which will increase transportation funding through sales tax.
 I wrote at length about this bill last week.
 This appears to be what the majority party calls “the hostage bill” that won’t be heard until the House clears the bills that the Senate would like.
 Games again.
-Polls Patrol — Voters’ Access to the Ballot
-The 2021 legislative session is unprecedented in the blatant power grab by the legislature in efforts to consolidate power to its benefit.
+Polls Patrol — Voters’ Access to the Ballot The 2021 legislative session is unprecedented in the blatant power grab by the legislature in efforts to consolidate power to its benefit.
 Not content with merely stripping the Governor of emergency powers, the legislature has also set its sights on Idaho voters.
 Here are some of the voting and election bills that have been introduced this session.
-S1110: Citizen Ballot Initiatives— I voted in opposition to this bill that effectively strips Idaho citizens of the ability to bring citizen initiatives to the ballot.
+S1110: Citizen Ballot Initiatives — I voted in opposition to this bill that effectively strips Idaho citizens of the ability to bring citizen initiatives to the ballot.
 The increased requirements to an already onerous process are simply ill-spirited and meant specifically to permanently preclude voters from bringing the question of medical marijuana to the ballot.
 In a not-so-stunning turn of hypocrisy Gov.
 Little signed this terrible bill into law mere days after asking the legislature to sustain his veto of bills shifting power away from the Governor’s office.
@@ -60,11 +56,9 @@ And the the gentleman on the second floor is intent on helping the legislature d
 I find it deeply troubling that the gentleman on the second floor wants my help to protect his power and yet won’t help save the power afforded to our citizens.
 The only thing worse than that hypocrisy is this body’s hypocrisy.
 This entire session has been about power consolidation, something I do not support.
-Therefore, while I am embarrassed by this body’s attempt to strip everyone they disagree with of their power to govern, I will vote to uphold the gentleman’s veto.”
-There were 30 bills introduced this legislative session to address irrational fears about “election fraud” (which has never been legitimately proven) and to limit or constrict voter access to the ballot.
+Therefore, while I am embarrassed by this body’s attempt to strip everyone they disagree with of their power to govern, I will vote to uphold the gentleman’s veto.” There were 30 bills introduced this legislative session to address irrational fears about “election fraud” (which has never been legitimately proven) and to limit or constrict voter access to the ballot.
 Thankfully, there are many bills still stuck in committee or that have failed in one body, but it’s alarming to see the number of bills introduced in efforts to make voting more difficult.
-Here are a few bills left:
-HB255: Additional Voter ID Requirement –This is another misguided bill that would create extra steps in elections that are simply unnecessary.
+Here are a few bills left: HB255: Additional Voter ID Requirement –This is another misguided bill that would create extra steps in elections that are simply unnecessary.
 Idaho does not have a voter fraud problem and this a prime example of the legislature proposing a solution without a problem.
 HB223: Ballot Delivery — I oppose this legislation because it would make criminals out of Good Samaritans.
 This bill would prohibit an individual from delivering a ballot belonging to someone else.
@@ -81,8 +75,7 @@ H355: Names on the Ballot — Candidate names for federal, state, county, and ci
 For all other offices candidate names appear on the ballot in a random, but fixed order.
 The purpose of this legislation is to rotate candidate names on ballots in other races where the number of registered voters within a political entity exceeds 100,000.
 This is a great bill that Rep Nash put forward but is stuck in State Affairs.
-Wolves, Abortion, Guns… trifecta
-SB1183 – 6 Week Abortion Ban — Unfortunately this legislation headed to the Governor’s desk on Wednesday.
+Wolves, Abortion, Guns… trifecta SB1183 – 6 Week Abortion Ban — Unfortunately this legislation headed to the Governor’s desk on Wednesday.
 I am continually dismayed by the attempts this session to infringe upon a woman’s right to bodily autonomy and remain steadfast in advocating for a woman’s right to choose what is best for her and her health.
 SB1211 – Killing Wolves — A bill was introduced to increase the amount of wolves allowed to be killed to 90%.
 A reported 1,500 wolves roam in Idaho right now and the goal is for 150 to be maintained.
@@ -97,16 +90,13 @@ This is simply not true—Idaho has some of the strongest protections for firear
 However, even without this insidious intent, the effect of this law would be chilling in situations that put the most vulnerable among us at risk.
 A prohibition on local law enforcement from cooperating with federal authorities will lead to unintended consequences for victims of violent crime at the precise moment when our government should be protecting them.
 So, if a sheriff or police officer is asked to assist a federal agent in a domestic violence incident involving firearms and they help protect the victim by taking a firearm or working with federal agents, they will be fined $1000 dollars and charged with a misdemeanor.
-Censorship in Higher Education
-HB377– Another education bill addressing fears of “indoctrination” in Idaho schools, this bill passed the House and is on its way to the Senate.
+Censorship in Higher Education HB377 – Another education bill addressing fears of “indoctrination” in Idaho schools, this bill passed the House and is on its way to the Senate.
 It will be heard in Senate Education Committee on Monday, April 26 at 1:30pm.
 You can attend the hearing to testify or sign up for public comment.
 This bill has been introduced several times with language to censor content related to discussing issues about race and racism.
 This iteration of the bill is “dialed back” from a previous bill that directly censored instruction on “social justice” or “critical race theory” altogether.
 These kinds of bills are in direct conflict with the US Constitution and the First Amendment along with long time recognized policies supporting academic freedom to safeguard government censorship of content.
-This version states,
-“The Idaho legislature finds that tenets outlined in subsection (3)(a) of this section, often found in “critical race theory,” undermine the objectives outlined in subsection (1) of this section and exacerbate and inflame divisions on the basis of sex, race, ethnicity, religion, color, national origin, or other criteria in ways contrary to the unity of the nation and the well-being of the state of Idaho and its citizens.”
-In other words, to examine concepts of race and racism are bad because it may hurt the feelings of some white people and upset them.
+This version states, “The Idaho legislature finds that tenets outlined in subsection (3)(a) of this section, often found in “critical race theory,” undermine the objectives outlined in subsection (1) of this section and exacerbate and inflame divisions on the basis of sex, race, ethnicity, religion, color, national origin, or other criteria in ways contrary to the unity of the nation and the well-being of the state of Idaho and its citizens.” In other words, to examine concepts of race and racism are bad because it may hurt the feelings of some white people and upset them.
 We heard similar complaints from men when we addressed sexism and equal rights in Women’s Studies courses.
 On the empty allegation that a white student had been “mistreated” in a class at Boise State, an entire program was “paused” for a week to investigate.
 I have still not heard of any tangible or systemic problem; instead, I hear the empty echos of indoctrination that mirror McCarthyism and witch hunts from GOP legislators and the Idaho Freedom Foundation.
@@ -132,3 +122,7 @@ The legislature needs to butt out of the day-to-day operations of things and let
 I will vote against this bill and I will vote against any cuts to higher education.
 We must invest in education and trust the faculty and the students who run our universities.
 There are policies in place that protect against discrimination, and there are systems to file complaints against anyone who is alleged to engage in discriminatory practices.
+Recent Posts OPPRESSIVE BILLS HIT THE SENATE March 28, 2026 Fight or Flight?
+Let’s Fight for What’s Right!
+March 8, 2026 ANOTHER SHOCKING MURDER by ICE January 25, 2026 Preventable.
+Predictable: Idaho’s budget crisis impacts all of us November 23, 2025 Idaho’s Budget Chaos April 9, 2025 Blog Categories 2021 Legislative Session 2023 Legislative Session Budget / Government Spending Civil Discourse COVID 19 Health Care Human Rights Mandatory Minimum Sentencing Reform Marriage Age Reform News & Events Property Taxes Public Education Public Lands Sexual Assualt / Domestic Violence Uncategorized Voting Rights / Gerrymandering Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

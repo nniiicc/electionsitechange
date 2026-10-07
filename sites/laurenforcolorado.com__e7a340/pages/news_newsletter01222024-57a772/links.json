@@ -1,32 +1,158 @@
 [
-"http://facebook.com/laurenboebert",
-"http://twitter.com/laurenboebert",
-"https://buckeyefirearms.org/burlison-boebert-house-bill-221-abolish-atf",
-"https://cbsnews.com/colorado/news/lauren-boebert-colorado-gop-members-congress-urge-end-wolf-reintroduction",
-"https://facebook.com/laurenboebert/posts/pfbid02rDV6FntMQCRBj4TBw7Rg16NYM21LsNFHnZZx2quSLQ2BJJhHMAdP4BX1nbjvKXhwl?rdid=e4ITBKvBisHWpm7H",
-"https://facebook.com/watch?v=581333541491579&rdid=DznFtn7tgkKdpoU1",
-"https://foxnews.com/politics/trump-reportedly-plans-unleash-around-100-executive-orders-after-taking-office",
-"https://instagram.com/laurenboebert",
-"https://instagram.com/p/DEqG_q6SAkS?igsh=MzRlODBiNWFlZA%3D%3D",
-"https://instagram.com/reel/DEhf2uTJUs0?igsh=MzRlODBiNWFlZA%3D%3D",
-"https://laurenforcolorado.com/",
-"https://laurenforcolorado.com/about",
-"https://laurenforcolorado.com/accomplishments",
-"https://laurenforcolorado.com/contact",
-"https://laurenforcolorado.com/donate",
-"https://laurenforcolorado.com/download/lauren_boebert_contract.pdf",
-"https://laurenforcolorado.com/endorsements",
-"https://laurenforcolorado.com/get-involved",
-"https://laurenforcolorado.com/media",
-"https://laurenforcolorado.com/news",
-"https://laurenforcolorado.com/news/newsletter01222024",
-"https://laurenforcolorado.com/pages/privacy",
-"https://laurenforcolorado.com/vote",
-"https://majorityleader.gov/uploadedfiles/protection_of_women_and_girls_in_sports_act.pdf",
-"https://secure.winred.com/lauren-boebert-for-congress/newsletter-100-days",
-"https://secure.winred.com/lauren-boebert-for-congress/storefront",
-"https://txtterms.co/80306",
-"https://x.com/laurenboebert/status/1879213877940113575",
-"https://x.com/laurenboebert/status/1880034283030822919",
-"https://youtube.com/@laurenforfreedom3084"
+{
+"text": "About",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "About Lauren",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://laurenforcolorado.com/accomplishments/"
+},
+{
+"text": "Colorado’s GOP Members of Congress Call for End to Wolf Reintroduction, Removal from Endangered Species List",
+"href": "https://www.cbsnews.com/colorado/news/lauren-boebert-colorado-gop-members-congress-urge-end-wolf-reintroduction/"
+},
+{
+"text": "Contact",
+"href": "https://laurenforcolorado.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://laurenforcolorado.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://laurenforcolorado.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/laurenboebert"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/laurenboebert/posts/pfbid02rDV6FntMQCRBj4TBw7Rg16NYM21LsNFHnZZx2quSLQ2BJJhHMAdP4BX1nbjvKXhwl?rdid=e4ITBKvBisHWpm7H"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/watch/?v=581333541491579&rdid=DznFtn7tgkKdpoU1"
+},
+{
+"text": "Get Involved",
+"href": "https://laurenforcolorado.com/get-involved/"
+},
+{
+"text": "H.R. 28 Protection of Women and Girls in Sports Act",
+"href": "https://www.majorityleader.gov/uploadedfiles/protection_of_women_and_girls_in_sports_act.pdf"
+},
+{
+"text": "Home",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/laurenboebert/"
+},
+{
+"text": "Media",
+"href": "https://laurenforcolorado.com/media/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "Pledge",
+"href": "https://laurenforcolorado.com/download/lauren_boebert_contract.pdf"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "Short and sweet House bill aims to abolish ATF",
+"href": "https://www.buckeyefirearms.org/burlison-boebert-house-bill-221-abolish-atf"
+},
+{
+"text": "Take The Poll Here",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/newsletter-100-days"
+},
+{
+"text": "Team Boebert Weekly Newsletter - January 22, 2025",
+"href": "https://laurenforcolorado.com/news/newsletter01222024/"
+},
+{
+"text": "Trump Reportedly Plans to Unleash Around 100 Executive Orders After Taking Office",
+"href": "https://www.foxnews.com/politics/trump-reportedly-plans-unleash-around-100-executive-orders-after-taking-office"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/laurenboebert"
+},
+{
+"text": "Vote",
+"href": "https://laurenforcolorado.com/vote"
+},
+{
+"text": "X (formally Twitter)",
+"href": "https://x.com/laurenboebert/status/1879213877940113575"
+},
+{
+"text": "X (formally Twitter)",
+"href": "https://x.com/laurenboebert/status/1880034283030822919"
+},
+{
+"text": "You can see photos from the event HERE!",
+"href": "https://www.instagram.com/p/DEqG_q6SAkS/?igsh=MzRlODBiNWFlZA%3D%3D"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@laurenforfreedom3084"
+},
+{
+"text": "[image: Lauren Boebert Logo]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[image: Text JOIN to 80306]",
+"href": "sms:+80306"
+},
+{
+"text": "[no text]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reel/DEhf2uTJUs0/?igsh=MzRlODBiNWFlZA%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "javascript:;"
+},
+{
+"text": "info@laurenforcolorado.com",
+"href": "mailto:info@laurenforcolorado.com"
+},
+{
+"text": "privacy policy",
+"href": "https://laurenforcolorado.com/pages/privacy"
+},
+{
+"text": "store",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/storefront/"
+},
+{
+"text": "terms",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "← back to all news",
+"href": "https://laurenforcolorado.com/news"
+}
 ]

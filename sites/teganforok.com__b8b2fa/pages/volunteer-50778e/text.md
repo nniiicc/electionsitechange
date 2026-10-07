@@ -1,9 +1,2 @@
-top of page
-Home
-Meet Tegan
-Platform
-Get Invovled
-Donate
-More...
-Use tab to navigate through the menu items.
-bottom of page
+top of page Home Meet Tegan Platform Get Invovled Donate More...
+Use tab to navigate through the menu items. info@teganforok.com Authorized And Paid For By Friends of Tegan Malone bottom of page

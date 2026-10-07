@@ -1,18 +1,9 @@
-top of page
-GARY CORDERY for GOVERNOR 2026
-PEOPLE OVER POWER
-Hawai‘i is ready for leadership that listens, acts, and delivers.
+top of page DONATE SUBSCRIBE VOLUNTEER Menu Close GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close GARY CORDERY for GOVERNOR 2026 GARY CORDERY for GOVERNOR 2026 GARY CORDERY for GOVERNOR 2026 GARY CORDERY for GOVERNOR 2026 PEOPLE OVER POWER Hawai‘i is ready for leadership that listens, acts, and delivers.
 Gary CORDERY’s 2026 campaign (Republican) is built on righteousness, integrity, service, transparency, and a commitment to solutions that put people first, not politics.
 From housing to jobs, Gary’s mission is clear: Create a Hawai‘i where every Island can thrive.
 Real Discussions.
 Real Solutions.
-Upcoming Events
-- An Evening with the Cordery'sFri, Oct 09OAHU - Location Provided after Purchase
-- Zoom Meet & Greet with Gary CorderyMon, Oct 12https://zoom.us/j/8086513376
-- Molokai: Meet & Greet with Gary Cordery and Daniel AnthonyTue, Oct 13Paddlers Restaurant and Bar
-- Wailuku Meet & Greet with Gary Cordery & Daniel AnthonyTue, Oct 13Spencer's Warehouse
-- Lahaina Meet & Greet with Gary Cordery & Daniel AnthonyWed, Oct 14Kahekili Beach Park
-- Big Island Meet & Greet with Gary Cordery & Daniel AnthonyThu, Oct 15Sure Foundation Church
-WATCH GARY & DANIEL DISCUSS
-SOLUTIONS ON SOCIAL MEDIA
-bottom of page
+KEY ISSUES & PRIORITIES VISION FOR HAWAII LOCAL BUSINESS VISION EVENTS VOTER RESOURCES LISTEN TO GARY YOUTUBE INSTAGRAM FACEBOOK ​ ​ Follow us on Instagram @garycorderyforgovernor Load more Upcoming Events An Evening with the Cordery's Fri, Oct 09 OAHU - Location Provided after Purchase More info Buy Tickets Zoom Meet & Greet with Gary Cordery Mon, Oct 12 https://zoom.us/j/8086513376 More info RSVP Molokai: Meet & Greet with Gary Cordery and Daniel Anthony Tue, Oct 13 Paddlers Restaurant and Bar More info RSVP Wailuku Meet & Greet with Gary Cordery & Daniel Anthony Tue, Oct 13 Spencer's Warehouse More info RSVP Lahaina Meet & Greet with Gary Cordery & Daniel Anthony Wed, Oct 14 Kahekili Beach Park More info RSVP Big Island Meet & Greet with Gary Cordery & Daniel Anthony Thu, Oct 15 Sure Foundation Church More info RSVP Load More HOW TO VOTE & VOTING RESOURCES WATCH GARY & DANIEL DISCUSS SOLUTIONS ON SOCIAL MEDIA HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close PRIVACY POLICY SMS TERMS TERMS & CONDITIONS PHOTO CONSENT POLICY ACCESSIBILITY SOCIAL MEDIA EVENT SIGN IN Paid for by Gary Cordery for Governor, 99-1191 Iwaena Street Suite #D, Aiea, HI 96701.
+Our content is protected — but you’re welcome to share our official posts at GaryCorderyForGovernor.com.
+Mahalo!
+HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

@@ -1,10 +1,42 @@
 [
-"http://davidmoon.us/",
-"http://davidmoon.us/aboutdavid",
-"http://davidmoon.us/donate",
-"http://davidmoon.us/electioninfo",
-"http://davidmoon.us/endorsements",
-"http://davidmoon.us/getinvolved",
-"http://davidmoon.us/mypriorities",
-"http://davidmoon.us/newsclips"
+{
+"text": "[image]",
+"href": "http://davidmoon.us"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/aboutdavid"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/donate"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/electioninfo"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/endorsements"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/getinvolved"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/mypriorities"
+},
+{
+"text": "[image]",
+"href": "http://davidmoon.us/newsclips"
+},
+{
+"text": "please consider making a donation today",
+"href": "http://davidmoon.us/donate/"
+},
+{
+"text": "www.DavidMoon.us",
+"href": "http://www.davidmoon.us"
+}
 ]

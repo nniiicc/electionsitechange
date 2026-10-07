@@ -1,5 +1,4 @@
-"Amy's passion for helping people in need is exactly why she'll make a great State Representative"
-- Providence City Councilor Miguel Sanchez
-Testimonials/ Endorsements
-"Amy embodies working-class values.
-We need another champion for the socioeconomic rights of all Rhode Islanders at the Statehouse, and Amy is that champion."
+0 Skip to Content About About Amy Why I am running Get Involved Support Amy Santiago for RI District 7 Donate Open Menu Close Menu About About Amy Why I am running Get Involved Support Amy Santiago for RI District 7 Donate Open Menu Close Menu Folder: About Back About Amy Why I am running Get Involved Support Donate Donate any amount to help get Amy elected!
+Donate "Amy's passion for helping people in need is exactly why she'll make a great State Representative" - Providence City Councilor Miguel Sanchez Testimonials/ Endorsements "Amy embodies working-class values.
+We need another champion for the socioeconomic rights of all Rhode Islanders at the Statehouse, and Amy is that champion." -State Representative Enrique Sanchez Donate Amy Santiago for State Representative Paid for by Friends of Amy Santiago Contact us!
+AmySantiagoRI@Gmail.com

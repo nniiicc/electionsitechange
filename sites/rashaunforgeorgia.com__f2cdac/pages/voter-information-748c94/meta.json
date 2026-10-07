@@ -1,7 +1,9 @@
 {
  "description": "Get key voter info for Georgia elections. Make your voice heard!",
  "final_url": "https://www.rashaunforgeorgia.com/voter-information",
- "paid_for_by": null,
+ "fingerprint": "403686fbf2bea9dd74ce7ba9f997540bc7c24b3f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Information | Rashaun for Georgia | Dist. 38",
  "years_mentioned": [
   "2026"

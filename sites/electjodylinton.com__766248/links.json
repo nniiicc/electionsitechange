@@ -1,9 +1,46 @@
 [
-"https://electjodylinton.com/",
-"https://electjodylinton.com/get-involved",
-"https://electjodylinton.com/meet-jody",
-"https://electjodylinton.com/priorities",
-"https://electjodylinton.com/privacy-policy",
-"https://facebook.com/ElectJodyLinton",
-"https://secure.anedot.com/jody-linton-for-house/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jody-linton-for-house/donate"
+},
+{
+"text": "Email:",
+"href": "https://www.electjodylinton.com/privacy-policy"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electjodylinton.com/get-involved"
+},
+{
+"text": "JOIN US TODAY",
+"href": "https://www.electjodylinton.com/get-involved"
+},
+{
+"text": "MEET JODY",
+"href": "https://www.electjodylinton.com/meet-jody"
+},
+{
+"text": "Mailing Address:",
+"href": "https://www.electjodylinton.com/privacy-policy"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electjodylinton.com/priorities"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.electjodylinton.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectJodyLinton/"
+},
+{
+"text": "[image: LINTON_Website_LOOG_box.png]",
+"href": "https://www.electjodylinton.com"
+},
+{
+"text": "jody@electjodylinton.com",
+"href": "mailto:jody@electjodylinton.com"
+}
 ]

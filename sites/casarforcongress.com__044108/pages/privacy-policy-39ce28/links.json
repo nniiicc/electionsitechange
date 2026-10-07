@@ -1,18 +1,86 @@
 [
-"http://casarforcongress.com/",
-"https://casarforcongress.com/",
-"https://casarforcongress.com/about",
-"https://casarforcongress.com/blank",
-"https://casarforcongress.com/cdn-cgi/l/email-protection",
-"https://casarforcongress.com/endorsements",
-"https://casarforcongress.com/hiring",
-"https://casarforcongress.com/issues",
-"https://casarforcongress.com/press",
-"https://casarforcongress.com/privacy-policy",
-"https://facebook.com/GregCasar",
-"https://facebook.com/GregCasar/events",
-"https://instagram.com/gregcasar",
-"https://secure.actblue.com/donate/gc-web",
-"https://store.casarforcongress.com/",
-"https://twitter.com/gregcasar"
+{
+"text": ".",
+"href": "https://www.casarforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gc-web"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gc-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.casarforcongress.com/blank"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/GregCasar/events"
+},
+{
+"text": "Home",
+"href": "https://www.casarforcongress.com/press"
+},
+{
+"text": "In The News",
+"href": "https://www.casarforcongress.com/press"
+},
+{
+"text": "Issues",
+"href": "https://www.casarforcongress.com/issues"
+},
+{
+"text": "Meet Greg",
+"href": "https://www.casarforcongress.com"
+},
+{
+"text": "Meet Greg",
+"href": "https://www.casarforcongress.com/about"
+},
+{
+"text": "Press Kit",
+"href": "https://www.casarforcongress.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.casarforcongress.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.casarforcongress.com/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@casarforcongress.com?subject=Web+Inquiry"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GregCasar/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gregcasar"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/gregcasar"
+},
+{
+"text": "[image]",
+"href": "https://www.casarforcongress.com"
+},
+{
+"text": "www.casarforcongress.com",
+"href": "http://www.casarforcongress.com"
+},
+{
+"text": "​",
+"href": "https://www.casarforcongress.com/endorsements"
+},
+{
+"text": "​",
+"href": "https://www.casarforcongress.com/hiring"
+}
 ]

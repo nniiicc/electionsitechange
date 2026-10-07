@@ -1,15 +1,58 @@
 [
-"https://bsky.app/profile/ryu4senate.bsky.social",
-"https://cindyryu.com/",
-"https://cindyryu.com/about",
-"https://cindyryu.com/contact",
-"https://cindyryu.com/donate",
-"https://cindyryu.com/endorsements",
-"https://cindyryu.com/events",
-"https://cindyryu.com/issues",
-"https://designedtorun.com/",
-"https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines",
-"https://instagram.com/ryu4senate",
-"https://threads.net/@ryu4senate",
-"https://x.com/ryu4senate"
+{
+"text": "About",
+"href": "https://www.cindyryu.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cindyryu.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.cindyryu.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cindyryu.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cindyryu.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.cindyryu.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Cindy Ryu]",
+"href": "https://www.cindyryu.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryu4senate.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryu4senate"
+},
+{
+"text": "cindy@cindyryu.com",
+"href": "mailto:cindy@cindyryu.com"
+},
+{
+"text": "https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines",
+"href": "https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines"
+}
 ]

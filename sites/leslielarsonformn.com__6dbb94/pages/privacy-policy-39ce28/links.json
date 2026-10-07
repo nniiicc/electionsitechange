@@ -1,16 +1,70 @@
 [
-"http://aboutads.info/choices,",
-"http://adobe.com/products/flashplayer/security",
-"https://facebook.com/Leslie4Blaine",
-"https://leslielarsonformn.com/",
-"https://leslielarsonformn.com/about",
-"https://leslielarsonformn.com/contact",
-"https://leslielarsonformn.com/donate",
-"https://leslielarsonformn.com/events",
-"https://leslielarsonformn.com/gallery",
-"https://leslielarsonformn.com/issues",
-"https://leslielarsonformn.com/privacy-policy",
-"https://leslielarsonformn.com/sms-terms-%26-conditions",
-"https://leslielarsonformn.com/why-im-running",
-"https://secure.winred.com/leslie-larson-for-mn/donate2025"
+{
+"text": "About",
+"href": "https://leslielarsonformn.com/about"
+},
+{
+"text": "Contact",
+"href": "https://leslielarsonformn.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://leslielarsonformn.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/leslie-larson-for-mn/donate2025"
+},
+{
+"text": "Events",
+"href": "https://leslielarsonformn.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://leslielarsonformn.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://leslielarsonformn.com/"
+},
+{
+"text": "Issues",
+"href": "https://leslielarsonformn.com/issues"
+},
+{
+"text": "LeslieLarsonforMN@gmail.com",
+"href": "mailto:LeslieLarsonforMN@gmail.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://leslielarsonformn.com/privacy-policy"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://leslielarsonformn.com/sms-terms-%26-conditions"
+},
+{
+"text": "Why I'm Running",
+"href": "https://leslielarsonformn.com/why-im-running"
+},
+{
+"text": "[image: Leslie Larson for State Representative]",
+"href": "https://leslielarsonformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Leslie4Blaine"
+},
+{
+"text": "leslielarsonformn@gmail.com",
+"href": "mailto:leslielarsonformn@gmail.com"
+},
+{
+"text": "www.aboutads.info/choices,",
+"href": "http://www.aboutads.info/choices,"
+},
+{
+"text": "www.adobe.com/products/flashplayer/security",
+"href": "http://www.adobe.com/products/flashplayer/security"
+}
 ]

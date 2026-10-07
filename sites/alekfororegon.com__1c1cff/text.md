@@ -1,13 +1,10 @@
-Oregon is too important for me to sit by while Tina Kotek and the Democrats in Salem destroy our middle class.
+Skip to content Home About Voter Information DONATE Facebook Twitter Instagram YouTube Oregon is too important for me to sit by while Tina Kotek and the Democrats in Salem destroy our middle class.
 Liberal policies are driving up the cost of living in Oregon with overregulation and constant attempts to raise taxes on the working class leading to hire costs at the grocery store and at the gas pump while the Second Amendment rights of law-abiding Oregonians are under attack.
 I’m running for reelection to defend our country and protect our children’s future by standing up to the radical left in Salem.
 As a veteran, I have always put America First.
 As your state representative I have worked to improve the lives of the hard-working families in southern Oregon.
 CHIP IN TODAY!
-Help me win in 2026
-“With all of the challenges our state is facing, it’s impossible for me to sit on the sidelines.”
-ALEK’S STORY
-Alek is a former Oregon National Guardsman and Afghanistan Veteran.
+Help me win in 2026 DONATE $10 DONATE $25 DONATE $50 “With all of the challenges our state is facing, it’s impossible for me to sit on the sidelines.” ALEK’S STORY Alek is a former Oregon National Guardsman and Afghanistan Veteran.
 Along with four others Alek stopped an armed ISIS terrorist on a Paris-bound train travelling from Amsterdam to Paris in August 2015.
 His heroism earned him several awards and medals around the world including, the United States’ Soldier’s Medal.
 In addition, he received the Chevalier of the Legion of Honour and the medal of the City of Arras, France.
@@ -19,3 +16,6 @@ Alek’s experience stretches beyond the military.
 With a strong belief in service to his community, Alek stays active by advocating for responsible forest management in Southern Oregon.
 Alek has represented Oregon’s 4th House District since 2025 and currently serves as the Deputy Republican Caucus Leader as well the Vice-Chair of the House Committee for Economic Development, Small Business, and Trade.
 He lives in southern Douglas County with his wife Jessi and spends his time working his ranch.
+NAVIGATION Home About Voter Information Alek Skarlatos is a former member of the US Army National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement from the Department of Defense or the US Army.
+Paid for by Alek for Oregon PAC #23249 Facebook Twitter Instagram YouTube Contact Us | Privacy Policy

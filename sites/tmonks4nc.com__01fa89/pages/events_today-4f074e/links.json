@@ -1,28 +1,138 @@
 [
-"https://bsky.app/profile/tmonks4nc.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLScHGUDHmicdfqnrxuckJl7SHpONu_eotJ3-hlVW-Zpwe_aQEw/viewform?usp=header",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Ftmonks4nc.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/tmonks4nc",
-"https://ncsbe.gov/registering/checking-your-registration",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ftmonks4nc.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Thomas+Monks+4+North+Carlona+Events+%E2%80%93+Thomas+Monks+4+North+Carlona",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ftmonks4nc.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Thomas+Monks+4+North+Carlona+Events+%E2%80%93+Thomas+Monks+4+North+Carlona",
-"https://secure.actblue.com/donate/thomas-monks-4-nc-house-73",
-"https://tiktok.com/@tmonks4nc",
-"https://tmonks4nc.com/",
-"https://tmonks4nc.com/about-the-candidate-thomas-monks",
-"https://tmonks4nc.com/cookie-policy",
-"https://tmonks4nc.com/event",
-"https://tmonks4nc.com/events/2026-10-04",
-"https://tmonks4nc.com/events/2026-10-06",
-"https://tmonks4nc.com/events/list",
-"https://tmonks4nc.com/events/month",
-"https://tmonks4nc.com/events/today",
-"https://tmonks4nc.com/events/today?ical=1",
-"https://tmonks4nc.com/events/today?outlook-ical=1",
-"https://tmonks4nc.com/privacy-policy",
-"https://tmonks4nc.com/the-agenda-for-change",
-"https://tmonks4nc.wordpress.com/cookie-policy",
-"https://tmonks4nc.wordpress.com/privacy-policy",
-"https://x.com/tmonks4nc",
-"https://youtube.com/@tmonks4nc"
+{
+"text": "#ago",
+"href": "https://tmonks4nc.com/events/today/"
+},
+{
+"text": "About The CandiDate",
+"href": "https://tmonks4nc.com/about-the-candidate-thomas-monks/"
+},
+{
+"text": "About Thomas",
+"href": "https://tmonks4nc.com/about-the-candidate-thomas-monks/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/tmonks4nc.bsky.social"
+},
+{
+"text": "Cookie Policy",
+"href": "https://tmonks4nc.com/cookie-policy/"
+},
+{
+"text": "Cookie Policy",
+"href": "https://tmonks4nc.wordpress.com/cookie-policy/"
+},
+{
+"text": "Day",
+"href": "https://tmonks4nc.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/thomas-monks-4-nc-house-73"
+},
+{
+"text": "EVENTS",
+"href": "https://tmonks4nc.com/event/"
+},
+{
+"text": "Events",
+"href": "https://tmonks4nc.com/the-agenda-for-change/"
+},
+{
+"text": "Export .ics file",
+"href": "https://tmonks4nc.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://tmonks4nc.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.instagram.com/tmonks4nc/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Ftmonks4nc.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "HOME",
+"href": "https://tmonks4nc.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tmonks4nc/"
+},
+{
+"text": "List",
+"href": "https://tmonks4nc.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://tmonks4nc.com/events/month/"
+},
+{
+"text": "Next Day",
+"href": "https://tmonks4nc.com/events/2026-10-06/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ftmonks4nc.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Thomas+Monks+4+North+Carlona+Events+%E2%80%93+Thomas+Monks+4+North+Carlona"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Ftmonks4nc.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Thomas+Monks+4+North+Carlona+Events+%E2%80%93+Thomas+Monks+4+North+Carlona"
+},
+{
+"text": "Platform",
+"href": "https://tmonks4nc.com/the-agenda-for-change/"
+},
+{
+"text": "Previous Day",
+"href": "https://tmonks4nc.com/events/2026-10-04/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tmonks4nc.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tmonks4nc.wordpress.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.ncsbe.gov/registering/checking-your-registration"
+},
+{
+"text": "The Agenda for Change",
+"href": "https://tmonks4nc.com/the-agenda-for-change/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@tmonks4nc"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScHGUDHmicdfqnrxuckJl7SHpONu_eotJ3-hlVW-Zpwe_aQEw/viewform?usp=header"
+},
+{
+"text": "X",
+"href": "https://x.com/tmonks4nc"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@tmonks4nc"
+},
+{
+"text": "[tooltip: Next day]",
+"href": "https://tmonks4nc.com/events/2026-10-06/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://tmonks4nc.com/events/2026-10-04/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://tmonks4nc.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

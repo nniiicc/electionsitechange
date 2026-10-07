@@ -1,11 +1,54 @@
 [
-"http://threads.net/@tinaburns4pa",
-"https://burns4pa.com/",
-"https://burns4pa.com/copy-of-accountability",
-"https://burns4pa.com/copy-of-meet-tina",
-"https://facebook.com/Burns4PA",
-"https://instagram.com/tinaburns4pa",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://secure.actblue.com/donate/burns4pa-1",
-"https://tiktok.com/@burns4pa"
+{
+"text": "CONTACT TINA",
+"href": "mailto:BURNS4PA@GMAIL.COM"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/burns4pa-1"
+},
+{
+"text": "MEET TINA",
+"href": "https://www.burns4pa.com/copy-of-meet-tina"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.burns4pa.com/copy-of-accountability"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Tina@Burns4PA.com",
+"href": "mailto:Tina@Burns4PA.com"
+},
+{
+"text": "VOTE FOR CHANGE",
+"href": "https://www.burns4pa.com"
+},
+{
+"text": "YOUR VOTE MATTERS! IF YOU ARE NOT REGISTERED TO VOTE, REGISTER TODAY! Our Democracy IS on the Ballot.",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "[image: Burns4PA Instagram]",
+"href": "https://www.instagram.com/tinaburns4pa/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Burns4PA/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tinaburns4pa/"
+},
+{
+"text": "[image: Threads]",
+"href": "http://threads.net/@tinaburns4pa"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@burns4pa"
+}
 ]

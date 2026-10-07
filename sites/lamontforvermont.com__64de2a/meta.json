@@ -1,9 +1,12 @@
 {
  "description": "Saudia LaMont is a Vermont House of Representatives candidate for the Lamoille-Washington District.",
  "final_url": "https://www.lamontforvermont.com/",
- "paid_for_by": null,
+ "fingerprint": "9cee1fbb363a59ffb04fcfbe979d33bd50001ce8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Saudia LaMont for Vermont",
  "years_mentioned": [
+  "2023",
   "2024"
  ]
 }

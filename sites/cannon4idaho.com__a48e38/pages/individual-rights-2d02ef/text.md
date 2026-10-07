@@ -1,6 +1,3 @@
-This page is coming soon!
-Skip to content
-Welcome.
-Individual Rights
-This page is coming soon!
-Cannon for Idaho House Seat 30A
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Individual Rights This page is coming soon!
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

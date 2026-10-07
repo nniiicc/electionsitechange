@@ -1,9 +1,9 @@
 {
  "description": "Contact Bob Long&#39;s campaign for updates and inquiries. Join our newsletter for the latest campaign updates!",
  "final_url": "https://blong4md.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "631223c8ba5bafead7045b21289809d22f4ba761",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bob Long 2018",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

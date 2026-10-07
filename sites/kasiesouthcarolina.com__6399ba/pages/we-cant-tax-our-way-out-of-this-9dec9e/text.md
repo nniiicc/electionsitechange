@@ -1,4 +1,4 @@
-When Congress has allowed the national debt to balloon to $38 trillion, eclipsing GDP and resulting in a downgraded credit rating for the wealthiest nation on earth, you have two options..
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now We Can’t Tax Our Way Out of This When Congress has allowed the national debt to balloon to $38 trillion, eclipsing GDP and resulting in a downgraded credit rating for the wealthiest nation on earth, you have two options..
 Option 1: Ignore it.
 That’s the choice the machine are making.
 Elite Political consultants and advisors say voters don’t care about the debt, career political operatives say no one understands the debt anyway, and candidates talk about everything except the debt.
@@ -7,7 +7,7 @@ Option 2: Fix it.
 Although the possibility of doing so is bleak and there are economists who say we will never overcome the debt, none of them say we shouldn’t even try.
 Most agree we won’t see the problem fixed in our lifetime, but that we can set the nation on a path to fiscal prosperity and hope the generations after us maintain it.
 Option two: fix it.
-As a voter and a citizen, I can understand the instinct to ignore it.
+That’s me in Rock Hill at a forum hosted by the NAACP saying we need to address Social Security and Medicare, and someone shouted, “Tax the billionaires.” As a voter and a citizen, I can understand the instinct to ignore it.
 We wouldn’t have to accept blame.
 Admit that we have asked our government to do too much.
 That we’ve been seduced by politicians promising sexy tax incentives.
@@ -25,10 +25,7 @@ But ignore it or not, in the back of our minds, we do realize it’s there.
 Here’s the real talk: we can’t tax our way out of this.
 That is not a viable “fix it” option.
 Despite the “tax the billionaires” rhetoric, we cannot ever raise the money we need to fix this debt problem unless we address the spending first.
-There are three ways to fix this:
-- Increase revenue
-- Decrease spending
-- Grow the economy.
+There are three ways to fix this: Increase revenue Decrease spending Grow the economy.
 Raising taxes and reducing spending don’t get politicians elected.
 In fact, it’s cutting taxes and increasing the spending that gets them elected, and since being elected is what they want, they keep spending.
 They try to grow the economy instead, which is great unless those tries include subsidies to insurance companies and banks or tariffs on everything from apples to iPhones.
@@ -52,14 +49,13 @@ Any guesses on the likelihood of developing a perfect tax code?
 Let’s remember why these solutions are popular.
 First, politicians cut spending on things that galvanize their base: foreign aid, membership in international organizations like WHO and the UN.
 That makes it look like they’re taking the debt “fraud, waste, and abuse” seriously without actually addressing real expenses.
-Second, politicians initiate class warfare (as I wrote about here) to redirect our attention from their wasteful ways to the billionaires living bigger, better, more influential lives than the rest of us.
+Second, politicians initiate class warfare (as I wrote about here ) to redirect our attention from their wasteful ways to the billionaires living bigger, better, more influential lives than the rest of us.
 That makes it look like we have a common enemy: greed.
 Even if those greedy billionaires are actually funding the very campaigns in which they’re being accused.
 Wink wink.
 Politicians will tell you that you’re not to blame and that someone else will pay for this.
 They lie.
-What Really Works
-What actually works to address the national debt is to address its two biggest drivers: Social Security and Medicare.
+What Really Works What actually works to address the national debt is to address its two biggest drivers: Social Security and Medicare.
 Social Security spent $1.575 trillion in 2025.
 The entire government spent $7 trillion and a full 22% of that was Social Security.
 We have to restructure Social Security.
@@ -74,7 +70,7 @@ We must decouple health insurance from employment.
 Additionally, healthcare and health insurance have become intertwined.
 We should be able to see a doctor without needing health insurance to do it.
 We must decouple health insurance from health care.
-As I wrote about here.
+As I wrote about here .
 Medicare is a failing program.
 It needs reform and ultimately needs to be discontinued responsibly, such that seniors are not left without access to affordable health care.
 Make no mistake, these are hard conversations.
@@ -111,15 +107,13 @@ We cannot tax our way out of this.
 And while we may not have been the ones to cause fiscal disaster, by electing the same parties again and again, we are telling them with our votes to keep driving the bus right over the cliff to economic ruin.
 We cannot generate enough revenue through taxation – no matter who we tax – to keep spending the way we’re spending.
 Let’s be honest with ourselves and each other.
-Then, let’s roll up our sleeves and get to work:
-- Form a commission to make recommendations for reforms to Social Security and then agree to enact those reforms.
+Then, let’s roll up our sleeves and get to work: Form a commission to make recommendations for reforms to Social Security and then agree to enact those reforms.
 (This is like the base closure commissions utilized once upon a time.
-Look up BRAC for more info.)
-- Form a “BRAC” to investigate and analyze the procurement process in Medicare and introduce reforms.
+Look up BRAC for more info.) Form a “BRAC” to investigate and analyze the procurement process in Medicare and introduce reforms.
 Be transparent about lobbyists trying to stymie the process.
-- Address fraud and abuse in both programs with meaningful reform.
-- End restrictions that stifle entrepreneurship in the health insurance market.
-- End restrictions that stifle entrepreneurship in the health care market.
+Address fraud and abuse in both programs with meaningful reform.
+End restrictions that stifle entrepreneurship in the health insurance market.
+End restrictions that stifle entrepreneurship in the health care market.
 Once we show we’re serious about addressing our addiction to spending and our debt issue, America’s rating will improve.
 We want other countries to continue using the US Dollar as reserve currency, as it keeps our borrowing rates low and our prices stable.
 We must reform major areas of spending and the government procurement process.
@@ -134,3 +128,6 @@ No matter what the politicians tell you.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

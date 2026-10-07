@@ -1,6 +1,6 @@
-Thank you to the primary voters of House District 86.
+Skip to content Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Get Involved Donate Now Facebook X-twitter Instagram Thank You, Primary Voters — Now On to November admin June 17, 2026 8:30 am No Comments Thank you to the primary voters of House District 86.
 The primary election has now set the stage for the November general election, and I am grateful for the opportunity to continue this conversation with the people of Hamilton and HD86.
-As reported in the Bitterroot Star (read article HERE), Wayne Rusk will be the Republican candidate in the general election, and I will be on the ballot as the Democratic candidate running as an independent-minded RINO-CRAT.
+As reported in the Bitterroot Star (read article HERE ), Wayne Rusk will be the Republican candidate in the general election, and I will be on the ballot as the Democratic candidate running as an independent-minded RINO-CRAT .
 I chose the term RINO-CRAT because I believe thoughtful Republicans, Democrats, and independents have more in common than what divides us.
 Hamilton is not served by political extremes, party labels, or constant division.
 Hamilton is served by practical leadership, honest conversation, and a representative who listens first.
@@ -14,4 +14,6 @@ It is about common sense.
 It is about competence.
 And it is about bringing people back to the table.
 Thank you again to the voters who participated in the primary.
-I invite you to learn more about this campaign, the RINO-CRAT message, and my vision for House District 86 at rino-crat.com.
+I invite you to learn more about this campaign, the RINO-CRAT message, and my vision for House District 86 at rino-crat.com . more posts: Why Vote Yes on I-194: The Montana Option September 30, 2026 No Comments Read More » Tale of Two Elections September 30, 2026 No Comments Read More » DEQ says no to Sheep Creek Mine Request July 27, 2026 No Comments Read More » Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Facebook X-twitter Instagram © # Rino-crat Campaign.
+All rights reserved.
+Read Our Privacy Policy

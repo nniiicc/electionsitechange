@@ -1,7 +1,5 @@
-Addison McDowell Advances to NC-06 GOP Primary Runoff!
-McDowell takes Big Momentum into the Runoff after Going from Being a Political Unknown to Top Contender Against a Perennial Candidate w/100% Name ID in Less than Three Months
-March 5, 2024
-(Arcadia) – Addison McDowell tonight advanced into the GOP Primary Runoff for NC-06.
+0 Skip to Content ISSUES NEWS SHOP DONATE Open Menu Close Menu Open Menu Close Menu ISSUES NEWS SHOP DONATE ISSUES NEWS SHOP DONATE Addison McDowell Advances to NC-06 GOP Primary Runoff!
+Mar 6 Written By Kate Karnes McDowell takes Big Momentum into the Runoff after Going from Being a Political Unknown to Top Contender Against a Perennial Candidate w/100% Name ID in Less than Three Months March 5, 2024 (Arcadia) – Addison McDowell tonight advanced into the GOP Primary Runoff for NC-06.
 McDowell, the Trump endorsed candidate, started his campaign less than three months ago as a first-time candidate with no money.
 In that short time, McDowell has gone from political unknown to top contender to win!
 And his challenger in the runoff?
@@ -12,10 +10,8 @@ Trump.
 President Trump endorsed me because he knows securing our southern border is very important to me.
 We lost my little brother Luke to fentanyl likely smuggled across the Southern border and I want to shut down that pipeline so other families don’t suffer a similar tragedy.
 I am honored the voters of the 6th District have put me into this runoff and I’m going to keep working hard to win this thing on May 14!
-And also, unlike Mark Walker, I KNOW Mark Robinson is going to be our next governor!”
-McDowell was also endorsed by US Senator Ted Budd, the NC Troopers Association, the NC Police Benevolent Association, and dozens of grassroots conservative organizations and elected office holders.
-Political FAQs Courtesy of Political Guy Jonathan Felts
-When’s the Runoff?
+And also, unlike Mark Walker, I KNOW Mark Robinson is going to be our next governor!” McDowell was also endorsed by US Senator Ted Budd, the NC Troopers Association, the NC Police Benevolent Association, and dozens of grassroots conservative organizations and elected office holders.
+Political FAQs Courtesy of Political Guy Jonathan Felts When’s the Runoff?
 Tuesday, May 14.
 You feel good about it?
 Hell yeah [don’t show this to my Mom].
@@ -63,3 +59,4 @@ Our donors will be happy to help but Mark Walker’s donors are going to have a 
 Or Walker’s donors are going to be supporting Addison if they want to be on the winning team.
 There might be a LOT of name-calling from Walker’s camp and he’ll probably post a lot of pics of President Trump and/or other fake endorsements to try to confuse voters.
 But only one of these two candidates have been endorsed by President Trump, and that’s Addison McDowell.
+MORE NEWS Kate Karnes Previous Previous Addison McDowell Will Be The Next Congressman For The 6th District Of North Carolina Next Next Veterans For America First Endorses McDowell Paid for by McDowell for Congress 4170 Clemmons Rd, #291, Clemmons, NC 27012 Privacy Policy

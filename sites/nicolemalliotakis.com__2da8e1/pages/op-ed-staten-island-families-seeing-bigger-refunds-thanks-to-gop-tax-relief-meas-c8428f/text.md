@@ -1,8 +1,7 @@
-Tax Day is here, and Staten Island residents are seeing significant savings as a result of the provisions we fought to secure.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis Op-Ed: Staten Island families seeing bigger refunds thanks to GOP tax relief measures by Team Nicole on Apr 16, 2026 Tax Day is here, and Staten Island residents are seeing significant savings as a result of the provisions we fought to secure.
 An Op-Ed by Rep.
 Nicole Malliotakis.
-As published in the Staten Island Advance
-Staten Island families are keeping more of their hard-earned money, with many seeing larger refunds back in their pockets.
+As published in the Staten Island Advance Staten Island families are keeping more of their hard-earned money, with many seeing larger refunds back in their pockets.
 This is the result of House Republicans and President Trump delivering historic tax relief for working Americans, middle-class families, and seniors here on Staten Island and across the country.
 Recent data from the IRS shows that 80% of tax refunds were issued in less than 21 days, with the average refund this year at $3,571— an increase of more than 10% — and total refunds now exceeding $202 billion.
 Additionally, the Working Families Tax Cuts is projected to generate $284 billion in economic growth from manufacturers and drive more than $100 billion in new investments in opportunity zones.
@@ -17,7 +16,8 @@ Hochul and the state legislature match these benefits at the state level so thes
 Additionally, the standard deduction has been increased to $15,750 for individuals, $23,625 for heads of households, and $31,500 for married couples so families can keep more of their hard-earned income.
 We also expanded the Child Tax Credit to $2,200 per child for families with annual incomes of up to $200,000 ($400,000 if filing jointly).
 Finally, we expanded 529 education savings accounts to provide supports scholarships and school choice.
-In a first of its kind, we created a newborn baby investment account featuring a $1,000 contribution for every American child born after Jan. 1, 2025.
+In a first of its kind, we created a newborn baby investment account featuring a $1,000 contribution for every American child born after Jan.
+1, 2025.
 The account is fully in the child’s name, and the parent or guardian is the sole custodian until the child turns 18.
 No contributions are necessary, but families may deposit up to $5,000 per year to maximize growth.
 The account has the potential to grow to $271,000 by age 18 with maximum contributions.
@@ -26,3 +26,4 @@ Individuals may deduct up to a maximum annual deduction of $10,000 in interest p
 The deduction phases out for taxpayers with modified adjusted gross income over $100,000 and up to $200,000 for joint filers.
 Taken together, these tax provisions reflect our commitment to affordability, lowering the cost of living and easing the burden on working families, seniors, and middle-class households here on Staten Island and across America.
 That’s real relief—and it’s exactly what our families deserve.
+Op-Ed share NEXT ARTICLE Four Maritime Unions Endorse Malliotakis for Fourth Term PREVIOUS ARTICLE Malliotakis Endorsed by Captains Endowment Association of NYPD STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

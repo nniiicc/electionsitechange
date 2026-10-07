@@ -1,7 +1,12 @@
+How we make decisions together is the most important basis of American Government.
+Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Dave Thomas Candidate for MO36 Faith, Family, and Freedom.
 Faith, Family, and Freedom.
-.
-Psalm 33:12, Dan 11:32, Matt 28:20
-A responsive legislature depends on me, and on you, every two years!
+Faith, Family, and Freedom.
+Faith, Family, and Freedom. .
+Blessed is the Nation whose God is the Lord!
+The people who do know their God, will be strong and do heroic things!
+And lo, I [the Lord Jesus Christ] am with you always, even unto the end of the world.” Amen.
+Psalm 33:12, Dan 11:32, Matt 28:20 Keep a republican form of government #IPReform Choose Your Legislature Wisely A responsive legislature depends on me, and on you, every two years!
 The political body we choose to deliberate on our behalf comes from our direct votes in every equal district throughout the interior of the whole State.
 When we choose wisely, a more perfect and voluntary union is made possible and we all reap the benefits.
 Our unalienable rights to life and liberty in reproductive truth, property ownership, a good economy, and environment for education, health and prosperity is preserved and more greatly advanced.
@@ -21,11 +26,12 @@ If we the citizens initiate, we must gather signatures in 6 of the 8 Congression
 What form should be taken to ratify or finalize that citizen to citizen deliberation decision once the normal form of an equal representative body has been removed?
 Using only a direct popular vote throughout the whole state deprives us of that direct vote self representation in equal population to population discourse as we had before, by excluding our absolutely necessary to be included vote from an equal population to population representation.
 Stripping us, every one of us, from the equal representative and republican form of government as guaranteed by our Constitutional Republican form of Government.
-In #ConcurrentMajority
-The only thing that makes democracy great and delivers us from a tyranny by the majority is equal representation in equal population to population confirmation, by our chosen representatives, or by ourselves in direct vote within each of the 8 Congressional districts used to intitiate the ballot question.
+In #ConcurrentMajority The only thing that makes democracy great and delivers us from a tyranny by the majority is equal representation in equal population to population confirmation, by our chosen representatives, or by ourselves in direct vote within each of the 8 Congressional districts used to intitiate the ballot question.
 Without the inclusion of concurrency by our own direct self Representative vote in every equal Congressional district 6 out of 8 in simple majority, a tyranny of the majority deprives us of equal representation, every single one of us.
-Fighting for equal representation in the State of Missouri, for every person and and every family.
+Current Efforts Vote Dave Thomas Fighting for equal representation in the State of Missouri, for every person and and every family. a Republican has more influence in a republican-run state The State of Missouri, just like the Nation, is a Democratic Republic.
 I'll have a voice in Jefferson City, that your elected democrats just don't have, go ahead and ask them, and they will tell you the same.
 As a Republican in a Republican State, I can get more done for the 36th District and do it better than any Democrat can!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Photo Gallery Home Vote Dave Thomas MO36 1302 East 134th Terrace Grandview, MO 64030 8162694851 Copyright © # Vote Dave Thomas MO36 - All Rights Reserved.
+Paid for by Vote Dave Thomas MO36 Powered by For More Information and policy positions, click link below.
+Welcome!
+For more information please review my GrandviewCommitteeman Page Learn more

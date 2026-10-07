@@ -1,5 +1,5 @@
-Comments on the reaction to the death of Renee Good.
-Like everyone else I have been trying to figure out what the tragic death of Renee Good means, and the reaction to it.
+0 Skip to Content The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Comments on the reaction to the death of Renee Good.
+Mar 27 Written By JOHN WHIPPLE Like everyone else I have been trying to figure out what the tragic death of Renee Good means, and the reaction to it.
 First, we are a nation that cares, and because we care we want answers.
 Why did this happen, how did this happen, who is responsible, what can we do to fix it?
 And because we care so deeply it is difficult for us to stand back and wait and give ourselves time to process the situation and answer the questions rationally.
@@ -30,3 +30,4 @@ I am concerned that the information that he does get is biased in a way which ma
 I am also concerned that the current House and Senate are not pushing those around the president hard enough to justify their actions.
 The president’s staff are making decisions and taking actions which are harmful to the nation and the world.
 Congress must get them under control.
+JOHN WHIPPLE https://whipple.run Next Next Notes from the 2015 Kentucky Voices for Health Conference, dec 2025 This site built and maintained by the Campaign for John Whipple Made with Squarespace by Gravel Road Strategies Donate to the Campaign

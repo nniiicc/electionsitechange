@@ -1,7 +1,11 @@
 {
  "description": "Help launch my campaign with free food and drinks!",
  "final_url": "https://www.lucashewitt.com/events/2026-05-01-campaign-kickoff",
+ "fingerprint": "3ab8343c528055a803110d92f2a2402c86a04717",
+ "format": 3,
  "paid_for_by": "Paid for by Hewitt for Iowa House Not affiliated with any party or organization",
- "title": "Campaign Kickoff \u2014 Lucas Hewitt",
- "years_mentioned": []
+ "title": "Campaign Kickoff — Lucas Hewitt",
+ "years_mentioned": [
+  "2026"
+ ]
 }

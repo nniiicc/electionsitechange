@@ -1,18 +1,94 @@
 [
-"http://linkedin.com/in/sonyahalpern",
-"http://mvp.sos.ga.gov/",
-"https://facebook.com/sonya4GA",
-"https://instagram.com/sonyahalpern_",
-"https://mvp.sos.ga.gov/s/advanced-voting-location-information",
-"https://secure.ngpvan.com/6kP4JipJR02oi_oZy76S_A2",
-"https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2",
-"https://securemyabsenteeballot.sos.ga.gov/s",
-"https://sonyahalpern.com/",
-"https://sonyahalpern.com/connect",
-"https://sonyahalpern.com/leadership",
-"https://sonyahalpern.com/meet-sonya-1",
-"https://sonyahalpern.com/news-2",
-"https://sonyahalpern.com/priorities",
-"https://sonyahalpern.com/vote",
-"https://x.com/SonyaHalpern_"
+{
+"text": "Button",
+"href": "http://mvp.sos.ga.gov"
+},
+{
+"text": "Button",
+"href": "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+},
+{
+"text": "Button",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "http://mvp.sos.ga.gov"
+},
+{
+"text": "Connect",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2"
+},
+{
+"text": "Find Early Voting Locations",
+"href": "https://mvp.sos.ga.gov/s/advanced-voting-location-information"
+},
+{
+"text": "HERE",
+"href": "http://mvp.sos.ga.gov"
+},
+{
+"text": "Home",
+"href": "https://www.sonyahalpern.com"
+},
+{
+"text": "Leadership",
+"href": "https://www.sonyahalpern.com/leadership"
+},
+{
+"text": "Learn More",
+"href": "https://www.sonyahalpern.com/vote"
+},
+{
+"text": "Meet Sonya",
+"href": "https://www.sonyahalpern.com/meet-sonya-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.sonyahalpern.com/priorities"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+},
+{
+"text": "Sign Up",
+"href": "https://secure.ngpvan.com/6kP4JipJR02oi_oZy76S_A2"
+},
+{
+"text": "Updates",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "Vote",
+"href": "https://www.sonyahalpern.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/sonya4GA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sonyahalpern_/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://linkedin.com/in/sonyahalpern"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/SonyaHalpern_"
+},
+{
+"text": "[no text]",
+"href": "https://www.sonyahalpern.com"
+},
+{
+"text": "sonya@sonya4ga.com",
+"href": "mailto:sonya@sonya4ga.com"
+}
 ]

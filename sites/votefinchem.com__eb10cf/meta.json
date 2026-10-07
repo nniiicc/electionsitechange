@@ -1,7 +1,11 @@
 {
  "description": "Mark Finchem champions the people of Arizona, defends our values, and fights for secure borders, secure elections, and better government.",
  "final_url": "https://votefinchem.com/",
- "paid_for_by": null,
+ "fingerprint": "d7e5e3a8c5895d15393eeef69280b104f8506104",
+ "format": 3,
+ "paid_for_by": "Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply",
  "title": "Senator Mark Finchem - Never Stop Fighting",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

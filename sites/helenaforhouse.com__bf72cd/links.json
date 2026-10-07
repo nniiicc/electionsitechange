@@ -1,9 +1,46 @@
 [
-"https://facebook.com/rephelenahayes",
-"https://helenaforhouse.com/",
-"https://helenaforhouse.com/donate",
-"https://helenaforhouse.com/event-list",
-"https://helenaforhouse.com/privacy-policy",
-"https://helenaforhouse.com/sign-up",
-"https://legis.iowa.gov/docs/publications/DMP/1366268.pdf"
+{
+"text": "ABOUT",
+"href": "https://www.helenaforhouse.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.helenaforhouse.com"
+},
+{
+"text": "DISTRICT 88",
+"href": "https://www.helenaforhouse.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.helenaforhouse.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.helenaforhouse.com/event-list"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/rephelenahayes"
+},
+{
+"text": "GET INOLVED",
+"href": "https://www.helenaforhouse.com/sign-up"
+},
+{
+"text": "HOME",
+"href": "https://www.helenaforhouse.com"
+},
+{
+"text": "PRINCIPLES",
+"href": "https://www.helenaforhouse.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.helenaforhouse.com/privacy-policy"
+},
+{
+"text": "[image: House District 88 Map]",
+"href": "https://www.legis.iowa.gov/docs/publications/DMP/1366268.pdf"
+}
 ]

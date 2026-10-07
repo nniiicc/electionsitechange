@@ -1,14 +1,66 @@
 [
-"https://clayyarborough.com/",
-"https://clayyarborough.com/about",
-"https://clayyarborough.com/contact",
-"https://clayyarborough.com/donate",
-"https://clayyarborough.com/donate?amount=100",
-"https://clayyarborough.com/donate?amount=20",
-"https://clayyarborough.com/donate?amount=250",
-"https://clayyarborough.com/donate?amount=50",
-"https://clayyarborough.com/donate?amount=500",
-"https://clayyarborough.com/volunteer",
-"https://facebook.com/repclayyarborough",
-"https://twitter.com/Clay_Yarborough"
+{
+"text": "$100",
+"href": "https://clayyarborough.com/donate/?amount=100"
+},
+{
+"text": "$20",
+"href": "https://clayyarborough.com/donate/?amount=20"
+},
+{
+"text": "$250",
+"href": "https://clayyarborough.com/donate/?amount=250"
+},
+{
+"text": "$50",
+"href": "https://clayyarborough.com/donate/?amount=50"
+},
+{
+"text": "$500",
+"href": "https://clayyarborough.com/donate/?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://clayyarborough.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://clayyarborough.com/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://clayyarborough.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://clayyarborough.com/"
+},
+{
+"text": "Meet Clay",
+"href": "https://clayyarborough.com/about/"
+},
+{
+"text": "Other",
+"href": "https://clayyarborough.com/donate/"
+},
+{
+"text": "Volunteer",
+"href": "https://clayyarborough.com/volunteer/"
+},
+{
+"text": "Volunteer Today",
+"href": "https://clayyarborough.com/volunteer/"
+},
+{
+"text": "[image: Clay Yarborough]",
+"href": "https://clayyarborough.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Clay_Yarborough"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repclayyarborough"
+}
 ]

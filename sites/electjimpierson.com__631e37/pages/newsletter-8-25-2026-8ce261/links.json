@@ -1,13 +1,46 @@
 [
-"https://35thdemocrats.us4.list-manage.com/subscribe?u=55c75ff7d435d6c6b2c62529c&id=85bf4605ae",
-"https://electjimpierson.com/",
-"https://electjimpierson.com/about",
-"https://electjimpierson.com/blog",
-"https://electjimpierson.com/calendar",
-"https://electjimpierson.com/endorsements",
-"https://electjimpierson.com/feedback",
-"https://electjimpierson.com/newsletters",
-"https://electjimpierson.com/platform",
-"https://electjimpierson.com/volunteer",
-"https://secure.actblue.com/donate/jim-pierson-1"
+{
+"text": "About",
+"href": "https://www.electjimpierson.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Calendar",
+"href": "https://www.electjimpierson.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jim-pierson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electjimpierson.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.electjimpierson.com"
+},
+{
+"text": "Newsletters",
+"href": "https://www.electjimpierson.com/newsletters"
+},
+{
+"text": "Platform",
+"href": "https://www.electjimpierson.com/platform"
+},
+{
+"text": "Subscribe",
+"href": "https://35thdemocrats.us4.list-manage.com/subscribe?u=55c75ff7d435d6c6b2c62529c&id=85bf4605ae"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electjimpierson.com/volunteer"
+},
+{
+"text": "Voter Feedback",
+"href": "https://www.electjimpierson.com/feedback"
+}
 ]

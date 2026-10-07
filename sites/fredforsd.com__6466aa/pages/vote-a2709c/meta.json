@@ -1,8 +1,10 @@
 {
  "description": "Find election dates, registration info, and how to vote in District 4.",
  "final_url": "https://fredforsd.com/vote",
- "paid_for_by": "Paid for by Fred for House&nbsp; Powered by CampaignPartner",
- "title": "Voting Information \u2013 Fred Deutsch for District 4",
+ "fingerprint": "eee4fd093b3fdf7cc2ab7bb36cd50895a3cf1ee7",
+ "format": 3,
+ "paid_for_by": "Paid for by Fred for House Powered by CampaignPartner",
+ "title": "Voting Information – Fred Deutsch for District 4",
  "years_mentioned": [
   "2026"
  ]

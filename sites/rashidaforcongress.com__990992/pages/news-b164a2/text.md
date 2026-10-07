@@ -1,38 +1,18 @@
-Blog
-Blog
-Resources to defend your neighbors from fascism
-The Supreme Court recently ruled to allow ICE to use racial profiling when arresting and jailing people—including based on ethnicity or for speaking Spanish.
-This is unconstitutional and it endangers Brown people of various backgrounds …
-Blog
-Rashida Roundup: Updates from the past month in Congress
-Over this past month, my team and I have been fighting for environmental justice and housing justice while taking on corporate greed and corruption.
-Below are some updates about our work serving you in Congress. …
-Blog
-Rep.
-Rashida Tlaib Re-Elected to Represent Michigan’s New 12th Congressional District in Resounding Win
-FOR IMMEDIATE RELEASE November 9, 2022 DETROIT – On Thursday, Congresswoman Rashida Tlaib (D-MI) released the following statement regarding her decisive victory in her re-election bid to represent Michigan’s new 12th Congressional District: “I am …
-In The News
-Detroit Free Press Editorial Board: Roberson, Tlaib are best choices in Democratic congressional primary
-“Tlaib takes constituent service seriously, more so than nearly any other officeholder.
-She has deep connections to the communities she serves… She brings a unique mixture of passion and pragmatism to the Democratic caucus…” Redistricting …
-Blog
-Support trans people during rise in attacks
-This month and every month, I am committed to supporting and protecting LGBTQ+ people.
+Support Rashida Tlaib for U.S.
+Congress We need Rashida’s bold, transformative leadership in Congress.
+Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog We just launched our 2026 re-election campaign January 28, 2026 Blog Resources to defend your neighbors from fascism September 16, 2025 The Supreme Court recently ruled to allow ICE to use racial profiling when arresting and jailing people—including based on ethnicity or for speaking Spanish.
+This is unconstitutional and it endangers Brown people of various backgrounds … Blog Rashida Roundup: Updates from the past month in Congress July 1, 2023 Over this past month, my team and I have been fighting for environmental justice and housing justice while taking on corporate greed and corruption.
+Below are some updates about our work serving you in Congress. … Blog Rep.
+Rashida Tlaib Re-Elected to Represent Michigan’s New 12th Congressional District in Resounding Win November 10, 2022 FOR IMMEDIATE RELEASE November 9, 2022 DETROIT – On Thursday, Congresswoman Rashida Tlaib (D-MI) released the following statement regarding her decisive victory in her re-election bid to represent Michigan’s new 12th Congressional District: “I am … In The News Detroit Free Press Editorial Board: Roberson, Tlaib are best choices in Democratic congressional primary July 9, 2022 “Tlaib takes constituent service seriously, more so than nearly any other officeholder.
+She has deep connections to the communities she serves… She brings a unique mixture of passion and pragmatism to the Democratic caucus…” Redistricting … Blog Support trans people during rise in attacks June 14, 2022 This month and every month, I am committed to supporting and protecting LGBTQ+ people.
 And right now we’re in an emergency.
 Across the country, state legislatures and governors are attacking trans youth.
-Hundreds of laws …
-In The News
-Michigan 12th District candidate Rashida Tlaib decries ‘corporate greed’, country’s ‘broken’ refugee system
-By Hilary Golston and Jack Nissen at FOX 2 Detroit (FOX 2) – Detroit Democrat Rashida Tlaib denounced ‘corporate greed’ and the role that companies and America’s richest citizens have played in the spiraling inequality …
-Blog
-Justice for Patrick Lyoya
-Patrick Lyoya came to the U.S. with his parents and siblings to seek safety, as refugees from war in the Democratic Republic of Congo.
-His mother said, “I thought I had come to a safe …
-In The News
-RELEASE: Congresswoman Tlaib Submits Signatures to Appear on 2022 Ballot, Raises Nearly Half a Million Dollars This Quarter
-FOR IMMEDIATE RELEASE April 15th, 2022 News from Rashida Tlaib for Congress Contact: LaMar Thompson-Hightower, [email protected] Congresswoman Tlaib Submits Signatures to Appear on 2022 Ballot, Raises Nearly Half a Million Dollars This Quarter LANSING, MI …
-Blog
-You can now order more COVID tests from USPS
-Although mask regulations are shifting, this pandemic is not over.
+Hundreds of laws … In The News Michigan 12th District candidate Rashida Tlaib decries ‘corporate greed’, country’s ‘broken’ refugee system April 26, 2022 By Hilary Golston and Jack Nissen at FOX 2 Detroit (FOX 2) – Detroit Democrat Rashida Tlaib denounced ‘corporate greed’ and the role that companies and America’s richest citizens have played in the spiraling inequality … Blog Justice for Patrick Lyoya April 25, 2022 Patrick Lyoya came to the U.S. with his parents and siblings to seek safety, as refugees from war in the Democratic Republic of Congo.
+His mother said, “I thought I had come to a safe … In The News RELEASE: Congresswoman Tlaib Submits Signatures to Appear on 2022 Ballot, Raises Nearly Half a Million Dollars This Quarter April 15, 2022 FOR IMMEDIATE RELEASE April 15th, 2022 News from Rashida Tlaib for Congress Contact: LaMar Thompson-Hightower, [email protected] Congresswoman Tlaib Submits Signatures to Appear on 2022 Ballot, Raises Nearly Half a Million Dollars This Quarter LANSING, MI … Blog You can now order more COVID tests from USPS March 29, 2022 Although mask regulations are shifting, this pandemic is not over.
 A recent review of studies concluded that vaccines do reduce, but do not eliminate, the risk of getting long COVID symptoms.
-Even people with mild …
+Even people with mild … Follow Us Facebook Instagram Youtube Twitter Threads 1 2 Older Posts Join Our Campaign Sign up for email updates so you can stay in the loop.
+Chip In Rashida does not take any money from corporate PACs.
+Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

@@ -1,9 +1,16 @@
 {
  "description": "Read the latest press coverage and media mentions of Maurice Brown, candidate for New York State Assembly District 129. Coverage from Syracuse.com, local media, and statewide outlets.",
  "final_url": "https://www.electmauricebrown.com/press-clips",
+ "fingerprint": "f5d5a31bab12696dab0562974ca74699202ae82d",
+ "format": 3,
  "paid_for_by": "Paid for by the People for Mo Brown Phone/Text: 315-313-5717",
- "title": "Maurice Brown Press Coverage | Syracuse & NY State Assembly News \u2014 Elect Maurice Brown",
+ "title": "Maurice Brown Press Coverage | Syracuse & NY State Assembly News — Elect Maurice Brown",
  "years_mentioned": [
-  "2026"
+  "1998",
+  "1999",
+  "2018",
+  "2025",
+  "2026",
+  "2027"
  ]
 }

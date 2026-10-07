@@ -1,4 +1,8 @@
-Michigan’s 14th House District brings together a diverse group of communities across Oakland and Macomb Counties, each with strong neighborhoods, local pride, and a shared commitment to opportunity.
+Skip to content Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Donate Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Home Meet Mike Priorities Endorsements District Media Contact Volunteer Yard Signs Donate My District Michigan State House District 14 Our Community Proudly Representing Center Line, Hazel Park, Madison Heights, and Warren Michigan’s 14th House District brings together a diverse group of communities across Oakland and Macomb Counties, each with strong neighborhoods, local pride, and a shared commitment to opportunity.
 I am proud to represent these communities and make sure they have a strong voice in Lansing.
-Every dollar helps Mike keep delivering results—lowering costs, strengthening our communities, and standing up for what matters most.
-Make a quick contribution today and be part of Team McFall.
+Find Your Polling Place Am I Registered to Vote?
+Donate today to help me keep delivering real results for our community.
+Every dollar helps power the outreach and organizing it takes to win. $25 $50 $100 $250 $500 $1,225 Other $25 $50 $100 $250 $500 $1,225 Other Instagram Facebook Paid for by Friends of Mike McFall, P.O.
+Box 911, Hazel Park, MI 48030 Home Meet Mike Priorities Contact Volunteer Yard Signs Home Meet Mike Priorities Contact Volunteer Yard Signs Donate Paid for by Friends of Mike McFall, P.O.
+Box 911, Hazel Park, MI 48030 Donate to Help Re-Elect Mike McFall Chip in to Keep Mike Fighting for Our Communities Every dollar helps Mike keep delivering results—lowering costs, strengthening our communities, and standing up for what matters most.
+Make a quick contribution today and be part of Team McFall. $25 $50 $100 $250 $500 $1,225 Other

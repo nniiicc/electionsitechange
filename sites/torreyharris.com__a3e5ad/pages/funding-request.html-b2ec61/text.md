@@ -1,13 +1,20 @@
-← The Record
-2027–2028 Budget Year
-Request 2027 Budget Funding
-Each year, Representative Harris advocates on behalf of organizations and companies that need support to continue the great work they do across Tennessee.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← The Record 2027–2028 Budget Year Request 2027 Budget Funding Each year, Representative Harris advocates on behalf of organizations and companies that need support to continue the great work they do across Tennessee.
 Representative Harris will advocate on your behalf if you submit this form.
 He cannot guarantee funding, but will advocate and speak in support of this appropriation before the Finance Committee and its members to do all he can to seek the funds you are requesting.
-MAR
-5
-The deadline to submit a request for funding appropriations to Representative Torrey C.
-Harris’ office for the 2027–2028 Budget Year is Noon on Friday, March 5, 2027.
+MAR 5 The deadline to submit a request for funding appropriations to Representative Torrey C.
+Harris’ office for the 2027–2028 Budget Year is Noon on Friday, March 5, 2027 .
 Please complete the form below.
-Questions About Your Request?
+Submitter Today’s Date * First & Last Name of Form Submitter * Email Address of Submitter * Phone Number of Primary Contact * Must be the organization’s Chair, President, Executive Director, or second in command.
+The Request Name of Organization Requesting the Funds * Amount of Funds Requested * Purpose of the Funds & Background Information * Please provide at least 70 words about the organization and what you will use the funds for.
+Do You Have a Lobbyist?
+If so, who is the lobbyist for your organization?
+Organization Address Street Address * Street Address Line 2 City * Region / State / Province * Postal / Zip Code * Country * Phone Number of the Organization * Website Address of Organization Financials Annual Budget — Current Year (FY27) * Annual Budget — Previous Year (FY26) * Annual Budget — Prior Year (FY25) * % of Budget to Admin Costs — Current (FY27) * % of Budget to Admin Costs — Previous (FY26) * % of Budget to Admin Costs — Prior (FY25) * Amount of Any Reserve Funds Available * If not applicable, enter “N/A.” Compliance Is the organization registered with the Tennessee Secretary of State? * Yes No Unsure I confirm that Representative Torrey C.
+Harris will not derive a direct monetary gain from this organization due to this request. * Submit Request Questions About Your Request?
 Reach the District Office and our team will help you through the process.
+Contact the Office See What We’ve Delivered Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

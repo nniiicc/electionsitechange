@@ -1,5 +1,4 @@
-Meet Clay Fuller
-Clay Fuller serves as the District Attorney for the Lookout Mountain Judicial Circuit, a four-county circuit in NW Georgia.
+Skip to content Home Meet Clay Clay’s Priorities Join Our Team Donate Meet Clay Fuller Clay Fuller serves as the District Attorney for the Lookout Mountain Judicial Circuit, a four-county circuit in NW Georgia.
 In this role, he is the top prosecutor for the region and prosecutes some of the circuit’s most violent and heinous crimes.
 He secured convictions in numerous jury trials, including murder, rape, and armed robbery—resulting in life sentences for the perpetrators.
 In addition, he has argued criminal cases before the Supreme Court of Georgia and the Court of Appeals of Georgia.
@@ -12,8 +11,7 @@ Central Command operations in the Middle East and was awarded the Meritorious Se
 Raised in the North Georgia mountains, Clay Fuller was captain of the basketball team at Emory University and graduated with a B.A. in English before earning an M.P.A. from Cornell University and a Juris Doctor from Southern Methodist University.
 He is a distinguished graduate of the Air Force’s Officer Training School and a graduate of the Marine Expeditionary Warfare School.
 He earned a Master’s Degree in Military Operational Art and Science with a Joint Warfare Concentration from the Air Command and Staff College in Montgomery, Alabama.
-Meet Clay Fuller
-Clay Fuller serves as the District Attorney for the Lookout Mountain Judicial Circuit, a four-county circuit in NW Georgia.
+Meet Clay Fuller Clay Fuller serves as the District Attorney for the Lookout Mountain Judicial Circuit, a four-county circuit in NW Georgia.
 In this role, he is the top prosecutor for the region and prosecutes some of the circuit’s most violent and heinous crimes.
 He secured convictions in numerous jury trials, including murder, rape, and armed robbery—resulting in life sentences for the perpetrators.
 In addition, he has argued criminal cases before the Supreme Court of Georgia and the Court of Appeals of Georgia.
@@ -26,51 +24,44 @@ Central Command operations in the Middle East and was awarded the Meritorious Se
 Raised in the North Georgia mountains, Clay Fuller was captain of the basketball team at Emory University and graduated with a B.A. in English before earning an M.P.A. from Cornell University and a Juris Doctor from Southern Methodist University.
 He is a distinguished graduate of the Air Force’s Officer Training School and a graduate of the Marine Expeditionary Warfare School.
 He earned a Master’s Degree in Military Operational Art and Science with a Joint Warfare Concentration from the Air Command and Staff College in Montgomery, Alabama.
-Clay’s Priorities
-America First Economy
-Clay is committed to fighting for President Trump’s America First Agenda to bring good paying manufacturing jobs back to NW Georgia.
+Clay’s Priorities America First Economy Clay is committed to fighting for President Trump’s America First Agenda to bring good paying manufacturing jobs back to NW Georgia.
 As a tough America First Prosecutor, Clay has proven he can stand with backbone against the Socialists, Democrats and weak Republicans in Washington, and Clay understands the urgency to help President Trump bring permanent change in Washington.
-Mass Deportation Now
-As District Attorney, Clay has first-hand experience with the public safety and national security ramifications of the Biden era open borders policy.
+Mass Deportation Now As District Attorney, Clay has first-hand experience with the public safety and national security ramifications of the Biden era open borders policy.
 Clay supports all efforts to empower the Trump Administration as they seek to remove the millions of illegal immigrants who do not have permission to be in this country.
 Border Security is National Security.
-Constitutional Conservative
-Clay will use his legal skills to fight back against the radical left as they try to limit our Constitutional freedoms, most importantly those enshrined in our 1st and 2nd Amendments.
+Constitutional Conservative Clay will use his legal skills to fight back against the radical left as they try to limit our Constitutional freedoms, most importantly those enshrined in our 1st and 2nd Amendments.
 Our God given rights shall NOT be infringed, period.
 As a devout Christian, Clay knows the U.S.
 Constitution and American way of life were inspired by the teachings of Christ, and as an Air Force veteran, Clay understands the sacred duty of safeguarding our God given freedoms.
-Tough on Crime
-Clay never let the District Attorney’s office be used as a tool by politicians to push their agendas.
+Tough on Crime Clay never let the District Attorney’s office be used as a tool by politicians to push their agendas.
 His job is to hold criminals accountable.
 Period.
 Clay has worked with local, state, and federal law enforcement agencies to hold lawbreakers accountable and take down criminal networks.
 This includes securing convictions for murder, rape, and drug trafficking along with bringing serial rapist James Works to justice after he escaped prosecution for decades.
 Clay will keep up the fight in Congress and work with President Trump to defeat the Narco Traffickers who have destroyed countless families across NW Georgia, and end the scourge of fentanyl in NW Georgia.
-Clay’s Priorities
-America First Economy
-Clay is committed to fighting for President Trump’s America First Agenda to bring good paying manufacturing jobs back to NW Georgia.
+Clay’s Priorities America First Economy Clay is committed to fighting for President Trump’s America First Agenda to bring good paying manufacturing jobs back to NW Georgia.
 As a tough America First Prosecutor, Clay has proven he can stand with backbone against the Socialists, Democrats and weak Republicans in Washington, and Clay understands the urgency to help President Trump bring permanent change in Washington.
-Mass Deportation Now
-As District Attorney, Clay has first-hand experience with the public safety and national security ramifications of the Biden era open borders policy.
+Mass Deportation Now As District Attorney, Clay has first-hand experience with the public safety and national security ramifications of the Biden era open borders policy.
 Clay supports all efforts to empower the Trump Administration as they seek to remove the millions of illegal immigrants who do not have permission to be in this country.
 Border Security is National Security.
-Constitutional Conservative
-Clay will use his legal skills to fight back against the radical left as they try to limit our Constitutional freedoms, most importantly those enshrined in our 1st and 2nd Amendments.
+Constitutional Conservative Clay will use his legal skills to fight back against the radical left as they try to limit our Constitutional freedoms, most importantly those enshrined in our 1st and 2nd Amendments.
 Our God given rights shall NOT be infringed, period.
 As a devout Christian, Clay knows the U.S.
 Constitution and American way of life were inspired by the teachings of Christ, and as an Air Force veteran, Clay understands the sacred duty of safeguarding our God given freedoms.
-Tough on Crime
-Clay never let the District Attorney’s office be used as a tool by politicians to push their agendas.
+Tough on Crime Clay never let the District Attorney’s office be used as a tool by politicians to push their agendas.
 His job is to hold criminals accountable.
 Period.
 Clay has worked with local, state, and federal law enforcement agencies to hold lawbreakers accountable and take down criminal networks.
 This includes securing convictions for murder, rape, and drug trafficking along with bringing serial rapist James Works to justice after he escaped prosecution for decades.
 Clay will keep up the fight in Congress and work with President Trump to defeat the Narco Traffickers who have destroyed countless families across NW Georgia, and end the scourge of fentanyl in NW Georgia.
 Join Our Team to Elect Clay Fuller for Congress!
-By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+Name * First Last Email * Phone Address * Street Address City State / Province / Region Zip Code * SMS agree * I agree to receive SMS/MMS messages from Clay Fuller Volunteer Options Sharing on Social Media Emailing Family and Friends Displaying a Yard Sign Making Calls Knocking on Doors Hosting a Fundraiser/Meet and Greet Submit By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed messages from client to the phone number you provide.
 No consent is required to buy.
 Msg & data rates may apply.
 Reply HELP for help or STOP to opt-out at any time.
 SMS information is not rented, sold, or shared.
-Privacy Policy and Terms and Conditions
+Privacy Policy and Terms and Conditions Resources Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by Clay Fuller for Congress.
+PO Box 139, Marietta, GA 30061 Any references to military career or picture from military career is not endorsement by Department of War, Air Force or other military entities.
+Facebook X Instagram Donate

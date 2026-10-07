@@ -1,5 +1,4 @@
-Meet Sharon
-The chapter in Sharon's story that brought her to politics started with a door knock - the knock of Kyle Miller, when he was first running for this same office in 2018.
+top of page Sharon Wight for District 81 Donate Get Involved Yard Sign Request Menu Wight for Indiana House Home About Sharon Platform Get Involved Socials and More Events Yard Sign Request Media Privacy Policy Accessibility Statement Search Results Meet Sharon The chapter in Sharon's story that brought her to politics started with a door knock - the knock of Kyle Miller, when he was first running for this same office in 2018.
 Sharon had always had the dream of running for office, but becoming friends with Kyle, and observing how he has run his campaigns, canvassing and ultimately representing our county is what made her believe she could do it.
 During the pandemic, Sharon had the opportunity to learn more about accessibility for those who are neurodivergent.
 This lead to a passion for helping those who need accessibility for all reasons, including the disabled community, language accessibility, and accesibility of infrastructure for all.
@@ -23,3 +22,5 @@ Sharon's deepest values come from the power of empathy and community.
 Our campaign for Indiana House District 81 is rooted in the issues that matter most to our residents.
 By focusing on community engagement and fostering meaningful connections, we aim to create a platform that listens to your concerns and champions your ideas.
 Together, we can build an Indiana that truly reflects our shared values and aspirations.
+Images Empathy Means Everything Empathy Means Everything Wight for Indiana House Yard Sign Request Volunteer Stay Connected Email * Yes, subscribe me to your newsletter. * Submit 260-342-4487 electsharonwight@gmail.com 429 East Dupont Road #94, Fort Wayne, IN, 46825 USA Accessibility Statement ​ © # by Wight for Indiana House 81.
+Paid for by Friends of Sharon Wight bottom of page

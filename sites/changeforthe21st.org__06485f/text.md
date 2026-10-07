@@ -1,23 +1,14 @@
-Vote For Frank Burns on November 3 2026
-Building a brighter future
-for Delaware's 21st District
-Frank Will Protect Your Right to Bodily Autonomy!
-"I was proud to provide a deciding vote on House Bill 140 that made End of Life Options the law in Delaware."
-Every Worker Deserves
-A Living Wage
-Family and Medical Leave
-Strong Unions Build a Better Delaware
-"I have authored and introduced House Bill 234 to make
-the ability of unions to organize a constitutional right and cosponsored the law to protect workers compensation, SB 156 "
-Frank is working for all of us to have a fair chance.
-"Delaware needs to be driving, not road kill, on the road to the future.
+Home News Contact Donate!
+Meet Frank Endorsements More Home News Contact Donate!
+Meet Frank Endorsements Home News Contact Donate!
+Meet Frank Endorsements Vote For Frank Burns on November 3 2026 Building a brighter future for Delaware's 21st District Latest News Values To Believe In The Platform Pro- Choice Frank Will Protect Your Right to Bodily Autonomy!
+"I was proud to provide a deciding vote on House Bill 140 that made End of Life Options the law in Delaware." Pro-Worker Every Worker Deserves A Living Wage Family and Medical Leave Strong Unions Build a Better Delaware "I have authored and introduced House Bill 234 to make the ability of unions to organize a constitutional right and cosponsored the law to protect workers compensation, SB 156 " Frank is working for all of us to have a fair chance.
+Pro-Future "Delaware needs to be driving, not road kill, on the road to the future.
 I was proud to be house sponsor for SB 159, the bill allowing offshore wind to move forward in Delaware.
-I also authored or served as house sponsor for several pieces of legislation providing for more robust energy supply, to contain costs and to protect Delawareans from potential harmful impacts of proposed data centers."
-HB 233, HJR 3, SB 205, SB 175, SB 60,
-Frank is fighting to protect our future and enhance our prosperity.
-"Change for the 21st", 1 Oak Avenue, Newark DE 19711 Phone: 302-688-0042
-Professional Accomplishments
-After earning his PhD from The University of Pennsylvania medical school he was offered a faculty position and performed groundbreaking research on causes of disease.
+I also authored or served as house sponsor for several pieces of legislation providing for more robust energy supply, to contain costs and to protect Delawareans from potential harmful impacts of proposed data centers." HB 233, HJR 3, SB 205, SB 175, SB 60, Frank is fighting to protect our future and enhance our prosperity.
+GEt Involved Frank can't win this race without your help.
+Flyering, word-of-mouth, and donating are all ways of helping us achieve our goals together.
+Contact us: frank@changeforthe21st.org Donate Online: https://secure.actblue.com/donate/elect-frank-burns--change-for-the-21st-1 Or By Check made out to: "Change for the 21st", 1 Oak Avenue, Newark DE 19711 Phone: 302-688-0042 Campaign News Meet Frank Burns Professional Accomplishments After earning his PhD from The University of Pennsylvania medical school he was offered a faculty position and performed groundbreaking research on causes of disease.
 His work was published in leading international journals including Proceedings of the National Academy of Sciences, Neuron, the Journal of experimental Medicine and Science.
 Dr.
 Burns established the first diagnostic molecular pathology laboratory at the MCP/Hahnemann (Now Drexel) medical school and latter directed the molecular Pathology and onco-cytogentics laboratories at Thomas Jefferson Medical school.
@@ -32,25 +23,21 @@ Burns developed, patented, and DuPont commercialized several improved diagnostic
 Several of these methods were adopted world-wide by industry and government food safety regulators agencies alike.
 Dr.
 Burns then decided to strike out on his own and formed BioPrimate LLC with its clearly stated objective “Our mission is to unblock the potential of the microbial universe to benefit humanity”.
-Political Activism
-Frank has been a fighter for a better future both inside and outside the laboratory.
+Political Activism Frank has been a fighter for a better future both inside and outside the laboratory.
 In addition to giving testimony at county council and comment before committee at legislative hall in Dover, Dr.
 Burns has organized and/or taken part in multiple marches and protests to urge our elected officials to do the right thing.
 He is not afraid to make politicians of any party feel the heat if they are failing us.
-Volunteering
-Dr.
+Volunteering Dr.
 Burns volunteered with both professional and community organizations including: Chairing divisions in both the American Society for Microbiology and the International Association for Food Protection, mentoring medal winning teams of high school students from across Baltimore in the International Genetically Engineered Machine (IGEM) competition, and with Food Bank of Delaware and The Delaware Medical Reserve Corps (RESPOND DE) at covid testing, vaccination, mass evacuation and informational events.
 Frank lives in Roseville Park with his son Thomas.
 Send him to work for us.
-Vote November 5th
+Vote November 5th Get Out the Vote!
 If we join together and make our voices heard, we can fight for the change we want to see!
-00
-DaysDays
-HrsHours
-MinsMinutes
-SecsSeconds
+# # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Thank you!
 Voting serves all of us.
 Thank you for your commitment.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Change for the 21st, Dr.
+Frank Burns for Delaware Copyright © # elect Frank Burns Change for the 21st- All Rights Reserved.
+Powered by Frank is on Facebook!
 Follow Frank Burns - Change for the 21st on Facebook for more campaign news.
+Click here to follow

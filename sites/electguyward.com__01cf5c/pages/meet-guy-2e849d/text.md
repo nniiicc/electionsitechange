@@ -1,4 +1,4 @@
-Delegate Guy Ward is honored to have served the people of the Fiftieth District of the West Virginia House of Delegates, which encompasses all the precincts in Marion County except one.
+Navigation Meet Guy Issues Updates Endorsements Volunteer Donate Contact Meet Guy Issues Updates Endorsements Volunteer Donate Contact Meet Guy Delegate Guy Ward is honored to have served the people of the Fiftieth District of the West Virginia House of Delegates, which encompasses all the precincts in Marion County except one.
 Having been elected to the House of Delegates in 2016 and 2020, he is again running for re-election to a third term for the newly formed District 74.
 Over his two terms in the House of Delegates, he has served on the following committees: Energy; Government Organization; Health & Human Resources; Small Business; Industry & Labor; and Fire Departments and EMS.
 He’s been the co-sponsor on numerous successful bills relating to such things as drug addiction, veterans’ benefits, gas production, job creation and public safely.
@@ -26,3 +26,4 @@ With over 33 years of service, Guy took an early retirement in 2011 as a Materia
 After retirement, he was employed for about two years at the Fairmont Community Development Partnership as the Operations/Projects Manager, which is a non-profit organization that provides low to moderate income housing.
 Guy and his wife, Joyce, live in White Hall.
 They have one son, Christopher, who lives in Colfax, West Virginia.
+Facebook RSS Meet Guy Issues Updates Endorsements Volunteer Donate Contact Paid for by the Committee to Elect Guy Ward 45 Timrod Dr.| Whitehall, WV 26554

@@ -1,13 +1,46 @@
 [
-"http://facebook.com/brionforhouse",
-"http://ttps://www.instagram.com/brionforhouse",
-"https://brioncurran.com/",
-"https://brioncurran.com/cart",
-"https://brioncurran.com/endorsements",
-"https://brioncurran.com/get-involved",
-"https://brioncurran.com/meet-brion",
-"https://brioncurran.com/priorities",
-"https://brioncurran.com/vote",
-"https://meet-brion/",
-"https://secure.actblue.com/donate/brionforhouse"
+{
+"text": "0",
+"href": "https://brioncurran.com/cart"
+},
+{
+"text": "ABOUT BRION",
+"href": "https://meet-brion"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brionforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://brioncurran.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://brioncurran.com/get-involved"
+},
+{
+"text": "MEET BRION",
+"href": "https://brioncurran.com/meet-brion"
+},
+{
+"text": "Priorities",
+"href": "https://brioncurran.com/priorities"
+},
+{
+"text": "Vote",
+"href": "https://brioncurran.com/vote"
+},
+{
+"text": "[image: Brion Curran]",
+"href": "https://brioncurran.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brionforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://ttps://www.instagram.com/brionforhouse/"
+}
 ]

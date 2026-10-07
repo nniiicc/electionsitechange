@@ -1,15 +1,62 @@
 [
-"https://facebook.com/LeavittforWV",
-"https://flickr.com/photos/199940031@N02",
-"https://instagram.com/leavittforwv",
-"https://leavittforwv.com/",
-"https://leavittforwv.com/about",
-"https://leavittforwv.com/about-7",
-"https://leavittforwv.com/news",
-"https://leavittforwv.com/newsletter",
-"https://leavittforwv.com/values",
-"https://leavittforwv.com/volunteer",
-"https://linkedin.com/in/tristanleavitt",
-"https://secure.winred.com/leavitt-for-west-virginia/donate",
-"https://twitter.com/leavittforwv"
+{
+"text": "ABOUT",
+"href": "https://www.leavittforwv.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/leavitt-for-west-virginia/donate"
+},
+{
+"text": "HERE",
+"href": "https://www.flickr.com/photos/199940031@N02/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.leavittforwv.com/values"
+},
+{
+"text": "Please view our Privacy Policy here",
+"href": "https://www.leavittforwv.com/about-7"
+},
+{
+"text": "Sign Up",
+"href": "https://www.leavittforwv.com/newsletter"
+},
+{
+"text": "Team Leavitt in the News",
+"href": "https://www.leavittforwv.com/news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.leavittforwv.com/volunteer"
+},
+{
+"text": "[image: Capitol.png]",
+"href": "https://www.leavittforwv.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LeavittforWV/"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/199940031@N02/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/leavittforwv/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/tristanleavitt/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/leavittforwv"
+},
+{
+"text": "info@leavittforwv.com",
+"href": "mailto:info@leavittforwv.com"
+}
 ]

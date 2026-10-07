@@ -1,25 +1,110 @@
 [
-"https://facebook.com/kyrstinforminnesota",
-"https://instagram.com/kyrstinforminnesota",
-"https://kyrstinforminnesota.com/",
-"https://kyrstinforminnesota.com/cart",
-"https://kyrstinforminnesota.com/endorsements",
-"https://kyrstinforminnesota.com/events",
-"https://kyrstinforminnesota.com/get-involved",
-"https://kyrstinforminnesota.com/meet-kyrstin",
-"https://kyrstinforminnesota.com/news",
-"https://kyrstinforminnesota.com/priorities",
-"https://kyrstinforminnesota.com/vote",
-"https://mnvotes.sos.mn.gov/abrequest/index",
-"https://mnvotes.sos.mn.gov/abstatus/index",
-"https://pollfinder.sos.mn.gov/",
-"https://secure.actblue.com/donate/kyrstin-schuette-1",
-"https://sos.mn.gov/elections-voting/election-day-voting",
-"https://sos.mn.gov/elections-voting/election-day-voting/know-your-rights",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-by-mail-in-us",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-on-election-day",
-"https://sos.mn.gov/elections-voting/secure-and-fair-elections",
-"https://sos.mn.gov/elections-voting/whats-on-my-ballot"
+{
+"text": "0",
+"href": "https://kyrstinforminnesota.com/cart"
+},
+{
+"text": "About",
+"href": "https://kyrstinforminnesota.com/meet-kyrstin"
+},
+{
+"text": "Apply for an Absentee Ballot",
+"href": "https://mnvotes.sos.mn.gov/abrequest/index"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kyrstin-schuette-1"
+},
+{
+"text": "Election Day Registration",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "Election Day Voting Information",
+"href": "https://www.sos.mn.gov/elections-voting/election-day-voting/"
+},
+{
+"text": "Endorsements",
+"href": "https://kyrstinforminnesota.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://kyrstinforminnesota.com/events"
+},
+{
+"text": "Find Early Voting Locations",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+},
+{
+"text": "Find Where You Vote",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Get Involved",
+"href": "https://kyrstinforminnesota.com/get-involved"
+},
+{
+"text": "Know Your Rights — Minnesota Secretary of State",
+"href": "https://www.sos.mn.gov/elections-voting/election-day-voting/know-your-rights/"
+},
+{
+"text": "Minnesota Secretary of State: Election Day Voting",
+"href": "https://www.sos.mn.gov/elections-voting/election-day-voting/"
+},
+{
+"text": "Minnesota Secretary of State: Vote Early in Person",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person"
+},
+{
+"text": "Minnesota Secretary of State: Vote by Mail",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-by-mail-in-us"
+},
+{
+"text": "News & Forums",
+"href": "https://kyrstinforminnesota.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://kyrstinforminnesota.com/priorities"
+},
+{
+"text": "Proof of Residence Requirements",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "Secure and Fair Elections — Minnesota Secretary of State",
+"href": "https://www.sos.mn.gov/elections-voting/secure-and-fair-elections/"
+},
+{
+"text": "Track Your Ballot",
+"href": "https://mnvotes.sos.mn.gov/abstatus/index"
+},
+{
+"text": "Vote",
+"href": "https://kyrstinforminnesota.com/vote"
+},
+{
+"text": "[image: Kyrstin for Minnesota]",
+"href": "https://kyrstinforminnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kyrstinforminnesota"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kyrstinforminnesota/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@Kyrstinforminnesota.com"
+},
+{
+"text": "campaign@kyrstinforminnesota.com",
+"href": "mailto:campaign@kyrstinforminnesota.com"
+},
+{
+"text": "https://www.sos.mn.gov/elections-voting/whats-on-my-ballot",
+"href": "https://www.sos.mn.gov/elections-voting/whats-on-my-ballot"
+}
 ]

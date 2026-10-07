@@ -1,19 +1,86 @@
 [
-"https://bsky.app/profile/maloneforsenate.bsky.social",
-"https://facebook.com/maloneforsenatePA",
-"https://friendsofjamesmalone.org/",
-"https://friendsofjamesmalone.org//district",
-"https://friendsofjamesmalone.org/district",
-"https://friendsofjamesmalone.org/endorsements",
-"https://friendsofjamesmalone.org/get-involved",
-"https://friendsofjamesmalone.org/meet-candidate",
-"https://friendsofjamesmalone.org/news",
-"https://friendsofjamesmalone.org/priorities",
-"https://friendsofjamesmalone.org/privacy-policy",
-"https://instagram.com/_maloneforsenate",
-"https://secure.actblue.com/donate/james-malone-36",
-"https://secure.actblue.com/donate/jamwebsite",
-"https://techforcampaigns.org/",
-"https://x.com/maloneforsenate",
-"https://youtube.com/@maloneforsenatePA"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/maloneforsenate.bsky.social"
+},
+{
+"text": "District",
+"href": "https://friendsofjamesmalone.org/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/james-malone-36"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jamwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://friendsofjamesmalone.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/maloneforsenatePA"
+},
+{
+"text": "Get Involved",
+"href": "https://friendsofjamesmalone.org/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://friendsofjamesmalone.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/_maloneforsenate"
+},
+{
+"text": "Learn more",
+"href": "https://friendsofjamesmalone.org/"
+},
+{
+"text": "Learn more",
+"href": "https://friendsofjamesmalone.org//district/"
+},
+{
+"text": "Learn more",
+"href": "https://friendsofjamesmalone.org/meet-candidate/"
+},
+{
+"text": "Meet James",
+"href": "https://friendsofjamesmalone.org/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://friendsofjamesmalone.org/news/"
+},
+{
+"text": "Priorities",
+"href": "https://friendsofjamesmalone.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://friendsofjamesmalone.org/privacy-policy/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "X",
+"href": "https://x.com/maloneforsenate"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@maloneforsenatePA"
+},
+{
+"text": "[image: Malone for Senate]",
+"href": "https://friendsofjamesmalone.org/"
+},
+{
+"text": "campaign@friendsofjamesmalone.org",
+"href": "mailto:campaign@friendsofjamesmalone.org"
+}
 ]

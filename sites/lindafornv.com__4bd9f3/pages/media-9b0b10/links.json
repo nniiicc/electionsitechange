@@ -1,13 +1,46 @@
 [
-"https://facebook.com/LindaForNevada",
-"https://instagram.com/lindafornevada",
-"https://lindafornv.com/",
-"https://lindafornv.com/about",
-"https://lindafornv.com/issues",
-"https://lindafornv.com/media",
-"https://lindafornv.com/privacy-policy",
-"https://lindafornv.com/terms-of-use",
-"https://linkedin.com/in/linda-hunt-",
-"https://secure.actblue.com/donate/linda-for-nevada-1",
-"https://x.com/LindaForNevada"
+{
+"text": "About",
+"href": "https://www.lindafornv.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/linda-for-nevada-1"
+},
+{
+"text": "Issues",
+"href": "https://www.lindafornv.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.lindafornv.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lindafornv.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.lindafornv.com/terms-of-use"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/LindaForNevada"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/lindafornevada/"
+},
+{
+"text": "[image]",
+"href": "https://www.lindafornv.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/linda-hunt-/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/LindaForNevada"
+}
 ]

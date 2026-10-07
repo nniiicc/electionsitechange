@@ -1,12 +1,62 @@
 [
-"http://facebook.com/profile.php?id=100080430794414",
-"https://electsarahpounds.com/",
-"https://electsarahpounds.com/campaign-trail",
-"https://electsarahpounds.com/cart",
-"https://electsarahpounds.com/contact",
-"https://electsarahpounds.com/endorsements",
-"https://electsarahpounds.com/home",
-"https://electsarahpounds.com/in-the-news",
-"https://electsarahpounds.com/priorities",
-"https://secure.actblue.com/donate/sarah-pounds-1"
+{
+"text": "0",
+"href": "https://electsarahpounds.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Endorsements",
+"href": "https://electsarahpounds.com/endorsements"
+},
+{
+"text": "Explore my Priorities",
+"href": "https://electsarahpounds.com/priorities"
+},
+{
+"text": "Get in Touch",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "In the News",
+"href": "https://electsarahpounds.com/in-the-news"
+},
+{
+"text": "Meet Sarah",
+"href": "https://electsarahpounds.com/home#home-about"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://electsarahpounds.com/campaign-trail"
+},
+{
+"text": "Priorities",
+"href": "https://electsarahpounds.com/priorities"
+},
+{
+"text": "Volunteer Here",
+"href": "mailto:Campaign@ElectSarahPounds.com?subject=I%27d+like+to+help+volunteer%21"
+},
+{
+"text": "Voting Information",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "[image: Elect Sarah Pounds]",
+"href": "https://electsarahpounds.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/profile.php?id=100080430794414"
+}
 ]

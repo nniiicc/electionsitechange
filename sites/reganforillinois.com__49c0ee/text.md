@@ -1,3 +1,6 @@
+0 Skip to Content Home About Issues 88th District Voting Join Us Donate Open Menu Close Menu Home About Issues 88th District Voting Join Us Donate Open Menu Close Menu Home About Issues 88th District Voting Join Us Donate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address JOIN TEAM REGAN Thank you!
 Hi, I am Regan Deering, your conservative Republican State Representative of the 88th District.
 I ran for office because I'm afraid for my children's future in Pritzker's Illinois.
 Families here pay some of the highest taxes in the nation.
@@ -13,3 +16,8 @@ But I love it here.
 For nearly two decades, my husband and I have raised our three incredible children in Decatur.
 We've built our lives here, invested in our community, and we’re not giving up on Illinois.
 We’re staying — and we’re fighting back.
+Will you flee?
+Or can I count on you to stand with me?
+Privacy Policy Privacy Policy & Terms of Use Privacy Policy and Terms of Use Copyright # Regan Deering for Illinois.
+All Rights Reserved.
+Paid for by Regan for Illinois

@@ -1,5 +1,5 @@
-Meet Todd
-I grew up in Anderson, IN.
+Meet Todd Issues Why Run Independent?
+Volunteer Contact Meet Todd I grew up in Anderson, IN.
 It used to be a GM factory town.
 The majority of my family worked in the factories.
 In the '90s, they started shutting down the factories to move production out of the country thanks to NAFTA.
@@ -26,3 +26,4 @@ We deserve to be represented.
 We deserve to have our voices heard over the money that is buying politicians on both sides.
 We can redefine Public Service.
 Join me in my campaign.
+Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

@@ -1,5 +1,4 @@
-Resolution to Nullify Federal Actions
-I will introduce a number of bills to protect West Virginia from the coming storm.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Resolution to Nullify Federal Actions Dec 21 Written By Amanda Ridenour I will introduce a number of bills to protect West Virginia from the coming storm.
 The federal government under the Biden regime has become tyrannical, violating the Constitutional Rights of Americans at will, imprisoning and persecuting its opponents, opening our borders to illegal aliens, supporting our enemies, and destroying our economy.
 I believe we are facing the worst year in our nation’s history and are facing a Maoist Cultural Revolution to overthrow our Republic.
 Our legislature needs to show courage and protect the People of West Virginia.
@@ -9,4 +8,6 @@ My Resolution is based principally on the Constitution itself, the Federalist Pa
 The full Resolution is on my campaign website.
 It lays out the case why the States are in fact superior to the federal government that the States created by way of the Constitution.
 I will fight to get this Resolution passed to signal that West Virginia will not succumb to tyranny.
-MONTANI SEMPER LIBERI
+MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Resolution to Congress Demanding a Federal Balanced Budget Amendment Next Next Resolution to Prohibit Election Interference Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

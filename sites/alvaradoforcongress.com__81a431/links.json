@@ -1,9 +1,50 @@
 [
-"https://alvaradoforcongress.com/",
-"https://alvaradoforcongress.com/media",
-"https://alvaradoforcongress.com/privacy-policy",
-"https://alvaradoforcongress.com/terms",
-"https://facebook.com/RalphAlvaradoMD",
-"https://secure.winred.com/alvarado-for-kentucky/donate-today",
-"https://x.com/AlvaradoForKY"
+{
+"text": "$10",
+"href": "https://secure.winred.com/alvarado-for-kentucky/donate-today"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/alvarado-for-kentucky/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/alvarado-for-kentucky/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/alvarado-for-kentucky/donate-today"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/alvarado-for-kentucky/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alvarado-for-kentucky/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RalphAlvaradoMD"
+},
+{
+"text": "Follow",
+"href": "https://x.com/AlvaradoForKY"
+},
+{
+"text": "Media",
+"href": "https://alvaradoforcongress.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://alvaradoforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://alvaradoforcongress.com/terms/"
+},
+{
+"text": "[image]",
+"href": "https://alvaradoforcongress.com/"
+}
 ]

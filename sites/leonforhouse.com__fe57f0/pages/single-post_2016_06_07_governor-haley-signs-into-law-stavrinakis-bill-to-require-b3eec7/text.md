@@ -1,5 +1,5 @@
-Governor Haley Signs into Law Stavrinakis Bill to Require Balanced Budget for Charleston County Scho
-Charleston, SC - On Monday, Governor Nikki Haley signed the Charleston County Schools Balanced Budget Act, a bill filed by Charleston Rep.
+top of page Home Meet Leon Issues News Action Survey More Use tab to navigate through the menu items.
+CONTRIBUTE Governor Haley Signs into Law Stavrinakis Bill to Require Balanced Budget for Charleston County Scho Jun 7, 2016 2 min read Charleston, SC - On Monday, Governor Nikki Haley signed the Charleston County Schools Balanced Budget Act, a bill filed by Charleston Rep.
 Leon Stavrinakis, that would require the Charleston County School Board to obtain independent certification of tax revenues expected to be available for each coming year's budget.
 The law would require the amount of local tax revenue available to be certified by the county auditor before the School Board can give their budget second reading.
 Once the state budget is passed, the board would then be required to review their budget for balance again and make corrections to ensure a deficit is avoided.
@@ -14,4 +14,4 @@ Leon Stavrinakis.
 This new law simply requires our School Board to only spend what is available and to make sure their staff doesn't overspend during the year once their budget is adopted.
 Balanced budgets and fiscal discipline are the law in South Carolina.
 This legislation puts a series of checks and balances in place to make sure our laws requiring balanced budgets are followed.
-I'm pleased that Governor Haley saw the merit of this legislation and signed it into law."
+I'm pleased that Governor Haley saw the merit of this legislation and signed it into law." Paid for by Leon for House One Cool Blow Street, Suite 201, Charleston, SC 29403 Site by bottom of page

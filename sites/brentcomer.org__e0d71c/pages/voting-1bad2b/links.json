@@ -1,10 +1,38 @@
 [
-"https://brentcomer.org/",
-"https://brentcomer.org/contact-1",
-"https://brentcomer.org/voting",
-"https://facebook.com/profile.php?id=61554274079451",
-"https://instagram.com/brentcomeraldistrict28",
-"https://myinfo.alabamavotes.gov/VoterView",
-"https://sos.alabama.gov/alabama-votes/voter/absentee-voting",
-"https://sos.alabama.gov/alabama-votes/voter/register-to-vote"
+{
+"text": "ABSENTEE VOTING",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
+},
+{
+"text": "CONTACT",
+"href": "https://brentcomer.org/contact-1"
+},
+{
+"text": "FIND MY POLLING LOCATION",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "Home",
+"href": "https://brentcomer.org/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
+},
+{
+"text": "VOTING",
+"href": "https://brentcomer.org/voting"
+},
+{
+"text": "[image: Brent Comer]",
+"href": "https://brentcomer.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61554274079451"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brentcomeraldistrict28/"
+}
 ]

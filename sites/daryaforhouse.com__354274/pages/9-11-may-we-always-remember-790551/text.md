@@ -1,4 +1,4 @@
-Today we mourn the lives lost and honor the incredible bravery displayed by first responders during a terrorist attack on September 11th, 2001.
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News September 11, 2022 Statements 9/11: May We Always Remember Today we mourn the lives lost and honor the incredible bravery displayed by first responders during a terrorist attack on September 11th, 2001.
 I was in first grade when 9/11 happened and was understandably very confused.
 By the time I woke up, school was canceled and the adults didn’t want me watching TV until they could figure out how to explain what happened.
 And, importantly, how my family would have to prepare my brother and I for what was to come.
@@ -14,3 +14,4 @@ I’m proud to be Iranian American and proud to have the chance to serve both pi
 I’m proud that if elected, I’ll be the first Middle Eastern Woman elected to the Washington State legislature.
 I am most proud of all the incredible support from all of you.
 Thank you for standing with me in this pursuit for true representation.
+Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

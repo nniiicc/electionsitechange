@@ -1,35 +1,142 @@
 [
-"http://fosters.com/news/20180227/watters-to-be-honored-at-democrats-dinner",
-"http://fosters.com/news/20180424/all-electronic-tolling-on-spaulding-almost-reality",
-"http://fosters.com/news/20180514/sen-watters-to-hold-series-of-visits",
-"http://fosters.com/news/20180620/net-metering-veto-dims-dovers-solar-hopes",
-"http://fosters.com/news/20180712/lydias-house-of-hope-embraced-by-community",
-"http://fosters.com/news/20180718/epa-impressed-by-dovers-berry-brook-restoration",
-"http://fosters.com/news/20180723/somersworth-gets-200k-epa-grant-to-clean-contaminated-site",
-"http://instagram.com/sendavidwatters",
-"http://nhbr.com/March-16-2018/NH-Senate-OKs-electric-vehicle-charging-bills",
-"http://nhbr.com/November-10-2017/Q-A-with-State-Sen-David-Watters",
-"http://unionleader.com/local-government/Dover-passes-ordinance-to-raise-smoking-age-to-21-06272018",
-"http://unionleader.com/state-government/preservation-of-historic-battle-flags-at-the-state-house-is-a-battle-in-itself---20180603",
-"http://wmur.com/article/nh-primary-source-sen-watters-loves-nephew-jesse-but-not-jesses-politics/10367429",
-"https://concordmonitor.com/NH-Brewers-Festival-Toast-to-the-Eagle-celebrate-beer-18799419",
-"https://davidwattersforsenate.org/",
-"https://davidwattersforsenate.org/aboutdavid",
-"https://davidwattersforsenate.org/contact",
-"https://davidwattersforsenate.org/contribute",
-"https://davidwattersforsenate.org/education",
-"https://davidwattersforsenate.org/environmentandculturalresources",
-"https://davidwattersforsenate.org/jobsandtheeconomy",
-"https://davidwattersforsenate.org/legislation",
-"https://davidwattersforsenate.org/ltes",
-"https://davidwattersforsenate.org/media",
-"https://davidwattersforsenate.org/new-page-35",
-"https://davidwattersforsenate.org/news",
-"https://davidwattersforsenate.org/newsletters",
-"https://davidwattersforsenate.org/opioidcrisis",
-"https://davidwattersforsenate.org/photography",
-"https://davidwattersforsenate.org/publicsafetyequityandprotectingfamilies",
-"https://davidwattersforsenate.org/volunteer",
-"https://davidwattersforsenate.org/womens-issues",
-"https://facebook.com/WattersforNHSenate"
+{
+"text": "About David",
+"href": "https://www.davidwattersforsenate.org/aboutdavid"
+},
+{
+"text": "Contact",
+"href": "https://www.davidwattersforsenate.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.davidwattersforsenate.org/contribute"
+},
+{
+"text": "Education",
+"href": "https://www.davidwattersforsenate.org/education"
+},
+{
+"text": "Environment and Cultural Resources",
+"href": "https://www.davidwattersforsenate.org/environmentandculturalresources"
+},
+{
+"text": "Home",
+"href": "https://www.davidwattersforsenate.org/"
+},
+{
+"text": "Jobs and the Economy",
+"href": "https://www.davidwattersforsenate.org/jobsandtheeconomy"
+},
+{
+"text": "LTEs",
+"href": "https://www.davidwattersforsenate.org/ltes"
+},
+{
+"text": "Legislation",
+"href": "https://www.davidwattersforsenate.org/legislation"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180227/watters-to-be-honored-at-democrats-dinner"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180424/all-electronic-tolling-on-spaulding-almost-reality"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180514/sen-watters-to-hold-series-of-visits"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180620/net-metering-veto-dims-dovers-solar-hopes"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180712/lydias-house-of-hope-embraced-by-community"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180718/epa-impressed-by-dovers-berry-brook-restoration"
+},
+{
+"text": "Link",
+"href": "http://www.fosters.com/news/20180723/somersworth-gets-200k-epa-grant-to-clean-contaminated-site"
+},
+{
+"text": "Link",
+"href": "http://www.nhbr.com/March-16-2018/NH-Senate-OKs-electric-vehicle-charging-bills/"
+},
+{
+"text": "Link",
+"href": "http://www.nhbr.com/November-10-2017/Q-A-with-State-Sen-David-Watters/"
+},
+{
+"text": "Link",
+"href": "http://www.unionleader.com/local-government/Dover-passes-ordinance-to-raise-smoking-age-to-21-06272018"
+},
+{
+"text": "Link",
+"href": "http://www.unionleader.com/state-government/preservation-of-historic-battle-flags-at-the-state-house-is-a-battle-in-itself---20180603"
+},
+{
+"text": "Link",
+"href": "http://www.wmur.com/article/nh-primary-source-sen-watters-loves-nephew-jesse-but-not-jesses-politics/10367429"
+},
+{
+"text": "Link",
+"href": "https://www.concordmonitor.com/NH-Brewers-Festival-Toast-to-the-Eagle-celebrate-beer-18799419"
+},
+{
+"text": "Media",
+"href": "https://www.davidwattersforsenate.org/media"
+},
+{
+"text": "News",
+"href": "https://www.davidwattersforsenate.org/news"
+},
+{
+"text": "Newsletters",
+"href": "https://www.davidwattersforsenate.org/newsletters"
+},
+{
+"text": "Photography",
+"href": "https://www.davidwattersforsenate.org/photography"
+},
+{
+"text": "Public Safety, Equity, and Protecting Families",
+"href": "https://www.davidwattersforsenate.org/publicsafetyequityandprotectingfamilies"
+},
+{
+"text": "Recovery, Harm Reduction, and the Opioid Crisis",
+"href": "https://www.davidwattersforsenate.org/opioidcrisis"
+},
+{
+"text": "The Climate Crisis and Renewable Energy",
+"href": "https://www.davidwattersforsenate.org/new-page-35"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davidwattersforsenate.org/volunteer"
+},
+{
+"text": "Women and Family Issues",
+"href": "https://www.davidwattersforsenate.org/womens-issues"
+},
+{
+"text": "[image: David Watters for State Senate]",
+"href": "https://www.davidwattersforsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/sendavidwatters"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WattersforNHSenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:watterssenate@gmail.com"
+}
 ]

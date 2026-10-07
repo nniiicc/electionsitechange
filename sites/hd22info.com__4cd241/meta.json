@@ -1,7 +1,11 @@
 {
  "description": "Informaton on House District 22 in Colorado. Shows candidates runnig for office in District 22.",
  "final_url": "https://hd22info.com/",
+ "fingerprint": "de6f93f8199ef92976b7f5ab97f963261d4cd67b",
+ "format": 3,
  "paid_for_by": "Paid for by Ann E",
  "title": "Hd22 Information",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

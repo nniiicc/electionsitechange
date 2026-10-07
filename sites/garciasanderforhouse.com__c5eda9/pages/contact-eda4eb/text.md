@@ -1,3 +1,3 @@
-Volunteer Would you like to help me reach the Colorado State House to work for you and all Coloradans?
-I’d love to have your help! ← Back Thank you for your response. ✨ Name(required) Email(required) Phone Number(required) How would you like to help?
-Walk with Lori to knock on doors Help with mailings Make phone calls to registered voters Election week Get Out The Vote efforts Put a sign for Lori in your yard Message Submit Δ
+Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Endorsements Contact My Bills Volunteer Would you like to help me reach the Colorado State House to work for you and all Coloradans?
+I’d love to have your help! ← Back Thank you for your response. ✨ Name (required) Email (required) Phone Number (required) How would you like to help?
+Walk with Lori to knock on doors Help with mailings Make phone calls to registered voters Election week Get Out The Vote efforts Put a sign for Lori in your yard Message Submit Δ Sign up for Lori's HD65 Newsletter Email Address * First Name Last Name * = required field Alternative Email: unsubscribe from list Paid for by Lori Garcia Sander for HD 65, Registered Agent Marge Klein

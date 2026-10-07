@@ -1,5 +1,5 @@
-I believe in
-Strengthening Local Infrastructure
-I believe our communities in Central and Northwestern Illinois should never be left behind when it comes to the infrastructure families depend on each and every day.
+Skip navigation menu Meet Eric Issues Achievements Get Involved Contact Media News Donate Meet Eric Issues Achievements Get Involved Contact Media News Donate Creating Jobs and Lowering Costs for Illinois Protecting Reproductive Rights Supporting Public Safety and Law Enforcement LGBTQ+ Advocacy Supporting Veterans Strengthening Local Infrastructure Supporting Seniors and Social Security Cutting the Cost of Healthcare/Prescription Drugs Making Government Work for Illinois I believe in Strengthening Local Infrastructure I believe our communities in Central and Northwestern Illinois should never be left behind when it comes to the infrastructure families depend on each and every day.
 That’s why I’ve delivered historic investments to ensure parents in every corner of our district can pour their kid a glass of water and know it’s safe to drink.
 In addition, I’ve has also brought home tax dollars to put Illinoisans to work fixing roads and bridges and building housing to make our communities resilient for the next generation.
+Eric Sorensen for Illinois P.O.
+Box 1172 Moline, IL 61265 ​ info@ericforillinois.com Privacy Policy Powered by RUN! website builder Paid for by Eric Sorensen for Illinois You need to enable JavaScript to run this app.

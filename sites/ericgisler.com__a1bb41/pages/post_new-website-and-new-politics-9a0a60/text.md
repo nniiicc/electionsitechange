@@ -1,5 +1,5 @@
-June 22, 2026
-This is a new website for my re-election campaign.
+Donate About About Eric endorsements issues Record VOTING Record Sponsored Legislation updates Contact New Website!
+Accountability, Transparency, and A New Politics June 22, 2026 Welcome To The New Website This is a new website for my re-election campaign.
 I'm glad you found it!
 Over the past few months, I've been thinking about how to make it easier for constituents to see what I'm doing under the Gold Dome.
 This new website is my attempt to do exactly that.
@@ -10,16 +10,11 @@ Being a tech guy, I set out to build a website to do exactly that.
 The key feature of this website, and one that I think is unique among politicians (I still hate referring to myself that way) is under the "Record" heading.
 I didn't include every bill from the 2026 Legislative Session, but I included what I believe are the most impactful.
 If I skipped one you care about, let me know!
-Constituents can search for bills by name, subject, bill number, or how I voted to see some key pieces of information:
-- What area the bill deals with
-- How bipartisan the vote was
-- How I voted
-- Whether the bill ultimately became law
-This may be a little "retro" at this point, but I'm bringing back the "Blog".
+Constituents can search for bills by name, subject, bill number, or how I voted to see some key pieces of information: What area the bill deals with How bipartisan the vote was How I voted Whether the bill ultimately became law This may be a little "retro" at this point, but I'm bringing back the "Blog".
 This will be a place for media statements, position papers, videos, legislative updates, and explanations of important bills.
 The idea is that anyone in the district (or, well on the planet) can come and see exactly how I feel about any given issue, in my own words.
 I'm pretty sure my Campaign Manager is going to hate it.
-I ran for GA State House, District 121 in 2024, and I got in late so I had to hit the ground running.
+A New Politics and a New Campaign I ran for GA State House, District 121 in 2024, and I got in late so I had to hit the ground running.
 I had already announced my 2026 campaign in August 2025, so when my predecessor stepped down in October and a special election was called, I was ready to jump in.
 It was a whirlwind campaign that happened in about 6 weeks, and there was not much time for strategy.
 This year, in 2026, the campaign slogan is "Focused On What Matters".
@@ -40,4 +35,6 @@ That doesn’t mean I agree with every position taken by every Democrat.
 I certainly don’t.
 But on balance I believe today’s Democratic Party is the better vehicle for advancing policies that strengthen working families, protect democratic institutions, and preserve the freedoms that make this country worth fighting for.
 Whether you agree with me or not, I hope you’ll take some time to explore the site, review my record, and let me know what you think.
-Public service works best when elected officials stay connected to the people they represent.
+Public service works best when elected officials stay connected to the people they represent. ‍ Like What You See?
+We Need Your Help.
+Donate Volunteer Contact Eric Gisler for Georgia House District 121 Focused On What Matters About | Issues | Record | Updates | Endorsements | Contact | Donate Paid For by Committee To Elect Eric Gisler | © 2026

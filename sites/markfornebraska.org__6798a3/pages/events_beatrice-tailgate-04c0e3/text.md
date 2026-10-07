@@ -1,9 +1,1 @@
-Back to All Events
-Join Mark as he tailgates at the 402 Sports Bar & Grill before watching the Huskers take on North Dakota
-Previous
-Previous
-September 17
-Verdigre-Townhall
-Next
-Next
-September 23
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Beatrice Tailgate Saturday, September 19, 2026 4:15 PM 6:15 PM 2317 North 6th Street Beatrice, Nebraska, 68310 (map) Google Calendar ICS Join Mark as he tailgates at the 402 Sports Bar & Grill before watching the Huskers take on North Dakota Previous Previous September 17 Verdigre-Townhall Next Next September 23 Lexington Town Hall Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

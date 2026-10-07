@@ -1,39 +1,24 @@
-Do the Wright Thing for Wyoming
-Cameron Wright is a veteran, engineer, and educator who has spent his life serving others.
+0 Skip to Content Home About Priorities Blog Meet Cam Education in Wyoming The Promise of America Rural Way of Life & Public Lands Creating More Affordable Housing Access to Rural Healthcare Get Out the Vote!
+In the News Cam Wright Announces Run for House District 46 Petroleum Association of Wyoming Endorses Cam Wright Community Connections Interview - My Hits 106 Contact Donate Open Menu Close Menu Home About Priorities Blog Meet Cam Education in Wyoming The Promise of America Rural Way of Life & Public Lands Creating More Affordable Housing Access to Rural Healthcare Get Out the Vote!
+In the News Cam Wright Announces Run for House District 46 Petroleum Association of Wyoming Endorses Cam Wright Community Connections Interview - My Hits 106 Contact Donate Open Menu Close Menu Home About Priorities Folder: Blog Back Meet Cam Education in Wyoming The Promise of America Rural Way of Life & Public Lands Creating More Affordable Housing Access to Rural Healthcare Get Out the Vote!
+Folder: In the News Back Cam Wright Announces Run for House District 46 Petroleum Association of Wyoming Endorses Cam Wright Community Connections Interview - My Hits 106 Contact Donate Donate to Support Cam's Campaign Do the Wright Thing for Wyoming Cameron Wright is a veteran, engineer, and educator who has spent his life serving others.
 Now, he's running to serve Wyoming in the Legislature.
-Protecting Wyoming's Public Lands
-✳︎
-Building an Economy Where Families Can Thrive
-✳︎
-Strengthening Core Industries
-✳︎
-Supporting Strong Schools and Workforce Training
-✳︎
-Defending Constitutional Rights
-Protecting Wyoming's Public Lands ✳︎ Building an Economy Where Families Can Thrive ✳︎ Strengthening Core Industries ✳︎ Supporting Strong Schools and Workforce Training ✳︎ Defending Constitutional Rights
-Protecting Wyoming's Public Lands
-*
-Supporting Strong Schools and Workforce Training
-*
-Defending Constitutional Rights
-*
-Strengthening Core Industries
-*
-Building an Economy Where Families Can Thrive
-Protecting Wyoming's Public Lands * Supporting Strong Schools and Workforce Training * Defending Constitutional Rights * Strengthening Core Industries * Building an Economy Where Families Can Thrive
-Meet Cam Wright
-Wyoming is at a turning point.
+Protecting Wyoming's Public Lands ✳︎ Building an Economy Where Families Can Thrive ✳︎ Strengthening Core Industries ✳︎ Supporting Strong Schools and Workforce Training ✳︎ Defending Constitutional Rights Protecting Wyoming's Public Lands ✳︎ Building an Economy Where Families Can Thrive ✳︎ Strengthening Core Industries ✳︎ Supporting Strong Schools and Workforce Training ✳︎ Defending Constitutional Rights Protecting Wyoming's Public Lands ✳︎ Building an Economy Where Families Can Thrive ✳︎ Strengthening Core Industries ✳︎ Supporting Strong Schools and Workforce Training ✳︎ Defending Constitutional Rights Protecting Wyoming's Public Lands * Supporting Strong Schools and Workforce Training * Defending Constitutional Rights * Strengthening Core Industries * Building an Economy Where Families Can Thrive Protecting Wyoming's Public Lands * Supporting Strong Schools and Workforce Training * Defending Constitutional Rights * Strengthening Core Industries * Building an Economy Where Families Can Thrive Protecting Wyoming's Public Lands * Supporting Strong Schools and Workforce Training * Defending Constitutional Rights * Strengthening Core Industries * Building an Economy Where Families Can Thrive Meet Cam Wright Wyoming is at a turning point.
 Families are feeling the pressure of a changing economy, young people are leaving the state for opportunity, and decisions in Cheyenne will shape our future for years to come.
 Cam Wright is running to bring steady, experienced leadership focused on what matters most: strong communities, a growing economy, and protecting the Wyoming way of life.
-Why Cam:
-- 30-year military veteran, retired Lieutenant Colonel
-- Retired University of Wyoming engineering professor and former dean
-- Proven leader in complex systems, education, and workforce development
-- Deep roots in Albany County and commitment to Wyoming families
-I support Cam Wright for Wyoming
-“As a fellow Wyoming veteran, engineer, and rancher who’s spent decades fighting for practical education, strong families, and protecting the lands we all depend on, I’m proud to endorse Cam Wright for the Wyoming House of Representatives.
+About Cam Why Cam: 30-year military veteran, retired Lieutenant Colonel Retired University of Wyoming engineering professor and former dean Proven leader in complex systems, education, and workforce development Deep roots in Albany County and commitment to Wyoming families Cam's Priorities Doing the Wright Thing for Wyoming Protecting Wyoming’s Public Lands Defending Constitutional Freedoms Supporting Strong Schools and Workforce Training Strengthening Wyoming’s Core Industries Building an Economy Where Wyoming Kids Can Thrive I support Cam Wright for Wyoming “As a fellow Wyoming veteran, engineer, and rancher who’s spent decades fighting for practical education, strong families, and protecting the lands we all depend on, I’m proud to endorse Cam Wright for the Wyoming House of Representatives.
 Cam’s 30 years of military leadership, his proven record building opportunity at the University of Wyoming, and his deep Albany County roots make him exactly the steady, experienced voice we need in Cheyenne.
-He will defend our constitutional rights, strengthen our core industries, and do the Wright thing for Wyoming families and our way of life.”
-Gene Humphrey
-Wyoming rancher (9H Ranch), Vietnam veteran, UW engineering alumnus, and founder of the 9H Research Foundation
-Cam is the Wright Choice
+He will defend our constitutional rights, strengthen our core industries, and do the Wright thing for Wyoming families and our way of life.” Gene Humphrey Wyoming rancher (#H Ranch), Vietnam veteran, UW engineering alumnus, and founder of the #H Research Foundation Cam is the Wright Choice "The Federated Fire Fighters of Wyoming I.A.F.F.A-48 has proudly endorsed Cam Wright's campaign for State House." Federated Fire Fighters of Wyoming See Full Endorsement "The Wyoming Medical Society Proudly Endorses Cam Wright for House District 46." Wyoming Medical Society See Full Endorsement "On behalf of the Wyoming Education Association Political Action Committee For Education (PACE), we are pleased to endorse you as a candidate for the Wyoming State Legislature." Wyoming Education Association See Full Endorsement "Cam Wright has a history of character-centered leadership, service in military uniform, and service to others in his community....
+I am both honored and proud to endorse Cam Wright for the Wyoming House of Representatives." Rita Meyer Former Wyoming State Auditor CEO of Wyoming Energy Futures, LLC See Full Endorsement "Through both his military service and career at UW, Cam has demonstrated exceptional leadership, integrity, and the ability to solve complex problems...
+I am proud to endorse Cameron Wright for Wyoming Representative." Marty Martinez Retired CW2 USA and Former Director of UW Veterans Services Center See Full Endorsement "Wyoming businesses proudly support Cam Wright, a conservative Republican, retired U.S.
+Air Force Lieutenant Colonel, engineer, and UW leader." Wyoming Business Alliance View Full Endorsement "Cam Wright is a proven supporter of responsible mineral development, and WMA is proud to endorse him for election to House District 46." Wyoming Mining Association View Full Endorsement "With 30 years of military and over 20 years of teaching, Cam understands both government and people.
+I can think of no one better to entrust with Wyoming's future." Dr.
+Luke J.
+Hollmann Husband, father, and University of Wyoming alumnus See Full Endorsement To Cam Wright: "Thank you for your willingness to serve Wyoming and for your interest in the issues that matter to Wyoming's working and retired public employees." Wyoming Coalition for a Healthy Retirement See Full Endorsement "As a fellow Wyoming veteran, engineer, and rancher, I'm proud to endorse Cam Wright for the Wyoming House.
+Cam is exactly the steady, experienced voice we need in Cheyenne." Gene Humphrey Rancher, founder of the 9H Research foundation See Full Endorsement "On behalf of Wyoming’s 19,000 oil and gas workers, PAW is proud to endorse his campaign to represent the people of Albany County.” Petroleum Association of Wyoming See Full Endorsement "The Wyoming Hospital Association Proudly Endorses Cam Wright for House District 46." Wyoming Hospital Association See Full Endorsement The National Rifle Association Proudly Endorses Cam Wright for House District 46.
+National Rifle Association (NRA) See Full Endorsement "WSGA looks forward to [Cam's] election, and to working with [him] to assure a bright future for Wyoming and for our industry." Wyoming Stock Growers Association See Full Endorsement Add Your Name and Support Cam Wright 4 Wyoming Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Get in Touch!
+Sign up with your email address to receive updates and stay informed.
+First Name Last Name Email Address Sign Up Thank you!
+Follow me on Facebook cam@wright4wyoming.org (307) 223-5686 - Paid for by Wright 4 Wyoming -

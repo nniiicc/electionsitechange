@@ -1,42 +1,14 @@
-Contact:
-Your voice matters!
-Whether you have a question, an idea, or want to get involved, Jennifer would love to hear from you.
-Email: info@votejenniferdavis.com
-Phone: 224-484-9976
-Jennifer’s team reads every message, and we do our best to respond as quickly as possible.
+top of page DONATE TODAY Home About Issues Endorsements Events Get Involved RIDE THE LINE Contact Menu Close Home About Issues Endorsements Events Get Involved RIDE THE LINE Contact Menu Close Home About Issues Endorsements Events Get Involved RIDE THE LINE Contact Menu Close DONATE TODAY Home About Issues Endorsements Events Get Involved RIDE THE LINE Contact Menu Close Home About Issues Endorsements Events Get Involved RIDE THE LINE Contact Menu Close Home About Issues Endorsements Events Get Involved RIDE THE LINE Contact Menu Close DONATE TODAY Contact: Your voice matters!
+Whether you have a question, an idea, or want to get involved, Jennifer would love to hear from you. ​ Email: info@votejenniferdavis.com ​ Phone: 224-484-9976 ​ Jennifer’s team reads every message, and we do our best to respond as quickly as possible.
 Thank you for reaching out and for being part of a movement that puts Families and Freedom First!
-Illinois Congressional District 8 Map Information and updates:
-The congressional district covers parts of Cook County, DuPage County, and Kane County.
-Click here to learn more about the 8th congressional district!
-Your voice matters!
+Illinois Congressional District 8 Map Information and updates: The congressional district covers parts of Cook County, DuPage County, and Kane County.
+Click here to learn more about the 8th congressional district! ​ ​ ​ ​ ​ ​ ​ Applications are open on August 5th for mail-in votes.
+Applications are open on August 5th for mail-in votes.
+Application for Kane County Application for DuPage County Application for Cook County Your voice matters!
 Whether you have a question, an idea, or want to get involved, Jennifer would love to hear from you.
-Email: info@votejenniferdavis.com
-Phone: 224-484-9976
-Jennifer’s team reads every message, and we do our best to respond as quickly as possible.
+Email: info@votejenniferdavis.com Phone: 224-484-9976 Jennifer’s team reads every message, and we do our best to respond as quickly as possible.
 Thank you for reaching out and for being part of a movement that puts Families and Freedom First!
-Illinois Congressional District 8 Map and Voting Information:
-The congressional district covers parts of Cook County, DuPage County, and Kane County.
-Click here to learn more about the 8th congressional district!
-Paid for by Jennifer Davis for Congress
-Press Contact: bdelcarmen@votejenniferdavis.com
-Press Contact: bdelcarmen@votejenniferdavis.com
-- To mail your Contribution to Jennifer -
-ATTN: Jennifer Davis for Congress
-228 S.
+Illinois Congressional District 8 Map and Voting Information: The congressional district covers parts of Cook County, DuPage County, and Kane County.
+Click here to learn more about the 8th congressional district! ​ ​ ​ ​ Subscribe to our newsletter Email * JOIN TEAM JENNIFER Paid for by Jennifer Davis for Congress Press Contact: bdelcarmen@votejenniferdavis.com Privacy Policy CONTRIBUTE Press Contact: bdelcarmen@votejenniferdavis.com - To mail your Contribution to Jennifer - ATTN: Jennifer Davis for Congress 228 S.
 Washington St.
-STE 115
-Alexandria, VA 22314
-Paid for by Jennifer Davis for Congress
-Press Contact: bdelcarmen@votejenniferdavis.com
-Press Contact: bdelcarmen@votejenniferdavis.com
-- To mail your Contribution to Jennifer -
-ATTN: Jennifer Davis for Congress
-514 Market Loop Rd
-West Dundee, IL 60118
-Press Contact: bdelcarmen@votejenniferdavis.com
-Paid for by Jennifer Davis for Congress
-Press Contact: bdelcarmen@votejenniferdavis.com
-- To mail your Contribution to Jennifer -
-ATTN: Jennifer Davis for Congress
-514 Market Loop Rd
-West Dundee, IL 60118
+STE 115 Alexandria, VA 22314 Subscribe to our newsletter Email * JOIN TEAM JENNIFER Paid for by Jennifer Davis for Congress Press Contact: bdelcarmen@votejenniferdavis.com Privacy Policy Media Gallery DONATE TODAY Press Contact: bdelcarmen@votejenniferdavis.com - To mail your Contribution to Jennifer - ATTN: Jennifer Davis for Congress 514 Market Loop Rd West Dundee, IL 60118 Subscribe to our newsletter Email * JOIN TEAM JENNIFER GET INVOLVED Press Contact: bdelcarmen@votejenniferdavis.com Subscribe to our newsletter Email * JOIN TEAM JENNIFER GET INVOLVED Paid for by Jennifer Davis for Congress Privacy Policy Media Gallery Press Contact: bdelcarmen@votejenniferdavis.com - To mail your Contribution to Jennifer - ATTN: Jennifer Davis for Congress 514 Market Loop Rd West Dundee, IL 60118 Fuel the Mission Subscribe to our newsletter Email * JOIN TEAM JENNIFER GET INVOLVED Home About Issues Endorsements Events RIDE THE LINE Contact bottom of page

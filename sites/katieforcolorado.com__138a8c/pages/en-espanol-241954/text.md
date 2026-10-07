@@ -1,44 +1,33 @@
-Katie Stewart para Representante Estatal
-Acerca de Katie Stewart
-Katie es una durangense de cuarta generación que ha pasado su carrera sirviendo al suroeste de Colorado, desde Técnico en Emergencias Médicas en Silverton y Durango y nos representa en la junta escolar del Distrito Escolar de Durango.
+Meet Katie Issues Endorsements En Español Stay Updated Donate Search Menu Menu Katie Stewart para Representante Estatal Acerca de Katie Stewart Katie es una durangense de cuarta generación que ha pasado su carrera sirviendo al suroeste de Colorado, desde Técnico en Emergencias Médicas en Silverton y Durango y nos representa en la junta escolar del Distrito Escolar de Durango.
 Katie se erige como una defensora incansable del mejoramiento de las zonas rurales de Colorado y está lista para colaborar con organizaciones comunitarias, educadores, la fuerza laboral agrícola y más para construir un futuro sostenible y asequible para el Distrito de la Cámara de Representantes 59.
 Si se le da la oportunidad, luchará por lo que el suroeste de Colorado necesita en el Capitolio del Estado.
-Los Temas
-Vivienda
-La alta demanda y el inventario limitado de viviendas han expulsado a muchas personas y familias trabajadoras de nuestras comunidades.
+Los Temas Vivienda La alta demanda y el inventario limitado de viviendas han expulsado a muchas personas y familias trabajadoras de nuestras comunidades.
 Necesitamos una planificación reflexiva para preservar el suroeste de Colorado mientras abordamos la necesidad de viviendas asequibles para nuestra fuerza laboral.
 Se necesitan esfuerzos de colaboración entre el gobierno, las empresas locales y las organizaciones comunitarias para desarrollar viviendas sostenibles y garantizar que las familias, los maestros y los socorristas puedan vivir en nuestra comunidad.
-Cuidado de la Salud Rural
-La atención médica debe ser accesible para todas las familias.
+Cuidado de la Salud Rural La atención médica debe ser accesible para todas las familias.
 Desafortunadamente, nuestras áreas rurales tienen que sortear barreras significativas como largas distancias de viaje, instalaciones limitadas y escasez de trabajadores de la salud para acceder a la atención médica mental y física esencial.
 Me comprometo a hacer todo lo posible para que los hospitales rurales prosperen.
 En la Cámara de Representantes, abogaré por la expansión de los servicios de telesalud y los programas de incentivos para que los profesionales de la salud ejerzan en áreas rurales.
-Educación Pública
-La educación pública totalmente financiada es parte integral del futuro de Colorado, pero nuestro financiamiento de la educación está por detrás de los promedios nacionales.
+Educación Pública La educación pública totalmente financiada es parte integral del futuro de Colorado, pero nuestro financiamiento de la educación está por detrás de los promedios nacionales.
 Los límites del presupuesto estatal han afectado nuestra capacidad de invertir en recursos para las aulas, contratación y retención de maestros, desarrollo profesional y mantenimiento de las instalaciones.
 Como miembro de la junta escolar de Durango, he pasado años navegando por los desafíos de financiamiento y continuaré trabajando para lograr un financiamiento adecuado y equitativo para la educación a nivel estatal.
 A medida que Colorado implemente la nueva fórmula de educación pública el próximo año, trabajaré para asegurar que los fondos se gasten sabiamente para las zonas rurales de Colorado.
-Agua
-El agua es uno de los problemas más apremiantes que enfrenta el suroeste de Colorado y trabajaré para enfocar nuestros esfuerzos asegurando que todos tengan acceso a agua limpia y segura.
+Agua El agua es uno de los problemas más apremiantes que enfrenta el suroeste de Colorado y trabajaré para enfocar nuestros esfuerzos asegurando que todos tengan acceso a agua limpia y segura.
 Defenderé al suroeste de Colorado presionando por la reevaluación de los proyectos de desvío que extraen agua de la ladera occidental hacia la cordillera frontal.
 Necesitamos soluciones que nos preparen para la disminución a largo plazo de la capa de nieve y los niveles de agua, no más tuberías de agua para apoyar el desarrollo insostenible en la cordillera frontal.
-Agricultura y Ganadería
-La agricultura y la ganadería son partes cruciales de la economía y el estilo de vida de Colorado, contribuyendo con más de 170,000 empleos y miles de millones a la economía cada año.
+Agricultura y Ganadería La agricultura y la ganadería son partes cruciales de la economía y el estilo de vida de Colorado, contribuyendo con más de 170,000 empleos y miles de millones a la economía cada año.
 Sin embargo, la sequía, los incendios forestales y los lobos han ejercido una presión increíble sobre las granjas y ranchos pequeños y medianos en el Distrito de la Cámara de Representantes 59 y el estado.
 Juntos, podemos encontrar el mejor camino hacia un futuro sostenible para la fuerza laboral agrícola.
-Infraestructura
-La zona rural de Colorado necesita una inversión seria en infraestructura para mejorar nuestro acceso a Internet, transporte, sistemas de agua y más.
+Infraestructura La zona rural de Colorado necesita una inversión seria en infraestructura para mejorar nuestro acceso a Internet, transporte, sistemas de agua y más.
 Lucharé para continuar expandiendo el acceso para que todos puedan tener Internet confiable, hasta la última milla.
-Salud Reproductiva
-El acceso a la atención médica reproductiva es un derecho fundamental, pero al igual que las zonas rurales de Colorado tienen un acceso limitado a otros servicios de atención médica, muchos residentes luchan por acceder a servicios integrales de salud reproductiva y materna.
+Salud Reproductiva El acceso a la atención médica reproductiva es un derecho fundamental, pero al igual que las zonas rurales de Colorado tienen un acceso limitado a otros servicios de atención médica, muchos residentes luchan por acceder a servicios integrales de salud reproductiva y materna.
 Ampliar la disponibilidad de atención médica reproductiva y materna completa debe ser una parte integral de nuestros esfuerzos para ampliar el acceso a la atención médica de manera más amplia en las zonas rurales de Colorado, y trabajaré para garantizar que todos puedan recibir la atención que sea mejor para ellos.
-La Transición Justa
-A medida que Colorado hace la transición hacia un futuro más renovable, creo que es responsabilidad de los funcionarios electos crear planes de transición sólidos e integrales, y trabajaré para asegurarme de que nadie se quede atrás.
+La Transición Justa A medida que Colorado hace la transición hacia un futuro más renovable, creo que es responsabilidad de los funcionarios electos crear planes de transición sólidos e integrales, y trabajaré para asegurarme de que nadie se quede atrás.
 El petróleo y el gas siguen siendo partes fundamentales de la economía rural en el suroeste de Colorado, y la transición a las energías renovables llevará tiempo y una inversión seria.
 Colaboraré con las partes interesadas de la comunidad y la fuerza laboral para difundir información sobre las oportunidades existentes, recursos de capacitación y apoyo comunitario.
 También trabajaré para apoyar los esfuerzos de Colorado para asegurar y expandir los fondos estatales, federales y privados para crear oportunidades en las comunidades afectadas por el cambiante sector energético.
-Asociarse con las Naciones Nativas
-El Distrito de la Cámara de Representantes 59 incluye las naciones soberanas de los Ute, los Ute de la Montaña y la Tribu Ute del Sur.
+Asociarse con las Naciones Nativas El Distrito de la Cámara de Representantes 59 incluye las naciones soberanas de los Ute, los Ute de la Montaña y la Tribu Ute del Sur.
 Me comprometo a construir asociaciones con estas naciones para crear relaciones sostenibles que beneficien a las comunidades nativas en el suroeste de Colorado.
 Trabajaré para mantener los compromisos continuos de Colorado con las comunidades nativas, así como trabajar con líderes y miembros de la comunidad para mejorar el acceso a la atención médica, los sistemas alimentarios sostenibles y sus derechos de agua para personas mayores al lago Nighthorse.
 Proteger la soberanía indígena es crucial, e incluye todo, desde apoyar iniciativas de desarrollo económico hasta garantizar que las comunidades nativas tengan el poder y los recursos que necesitan para educar a sus hijos de la manera que sea mejor para ellos.
+Meet Katie Photos Contact Us Stay Updated Donate En Español Paid for by Katie for Colorado Follow us on Facebook © Copyright June 6, 2026 - Katie Stewart for Colorado - Enfold Theme by Kriesi Facebook Scroll to top Donate Donate to Katie Stewart’s campaign HERE ×

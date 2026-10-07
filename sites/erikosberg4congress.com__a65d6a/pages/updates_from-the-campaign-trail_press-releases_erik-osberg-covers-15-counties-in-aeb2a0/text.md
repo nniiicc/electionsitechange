@@ -1,18 +1,21 @@
-FOR IMMEDIATE RELEASE
-April 22, 2025
-Contact: press@erikosberg4congress.com
-Wadena, MN — Since launching his campaign for U.S.
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Erik Osberg Covers 15 Counties in First # Days of Congressional Campaign Erik Osberg for Congress > Blog > From The Campaign Trail > Press Releases > Erik Osberg Covers 15 Counties in First # Days of Congressional Campaign Erik Osberg Covers 15 Counties in First 40 Days of Congressional Campaign Erik Osberg Covers 15 Counties in First 40 Days of Congressional Campaign April 22, 2025 Erik Osberg By Erik Osberg April 22, 2025 0 0 Shares FOR IMMEDIATE RELEASE April 22, 2025 Contact: press@erikosberg4congress.com Click here for Media Toolkit Wadena, MN — Since launching his campaign for U.S.
 Congress on March 11th at The Depot in Wadena, Erik Osberg has traveled more than 2,500 miles across western Minnesota, visiting 15 counties in the 7th Congressional District in a little over a month.
 “We’ve been listening closely to what’s on people’s hearts and minds,” said Osberg.
-“Each county has its own unique story, but many concerns are shared across the district—like protecting Social Security and Medicare, supporting our veterans and schools, strengthening agriculture, safeguarding our environment, and restoring balance and accountability in government.”
-To date, Osberg has visited the following counties: Kittson, Roseau, Pennington, Polk, Clay, Hubbard, Wadena, Otter Tail, Stevens, Pope, Swift, Kandiyohi, Yellow Medicine, Lac qui Parle and Redwood.
+“Each county has its own unique story, but many concerns are shared across the district—like protecting Social Security and Medicare, supporting our veterans and schools, strengthening agriculture, safeguarding our environment, and restoring balance and accountability in government.” To date, Osberg has visited the following counties: Kittson, Roseau, Pennington, Polk, Clay, Hubbard, Wadena, Otter Tail, Stevens, Pope, Swift, Kandiyohi, Yellow Medicine, Lac qui Parle and Redwood.
 As a candidate seeking the DFL endorsement, Osberg highlighted the importance of connecting with people across rural Minnesota.
 “One of our goals is to unite the blue dots throughout the district,” he said.
 “I’ve been encouraged by how many hardworking, values-driven people I’ve met.
-There are more blue dots out there than I expected.”
-Osberg’s visits have included meetings with local DFL units, discussions with nonpartisan groups, town halls, community meet-and-greets, and one-on-one conversations with residents.
+There are more blue dots out there than I expected.” Osberg’s visits have included meetings with local DFL units, discussions with nonpartisan groups, town halls, community meet-and-greets, and one-on-one conversations with residents.
 His campaign is centered on a vision for strong rural public schools, accessible healthcare, and a fair playing field for family farmers.
 “What I’m hearing is a desire for compassion and integrity to return to politics,” Osberg said.
-“People are looking for leadership that prioritizes empathy and accountability in Washington.”
-Osberg will continue his district tour in the coming weeks, with upcoming stops in Stearns County on April 24 and Douglas County on May 3.
-Watch the campaign video:We Can Do Better – Why I’m Running for Congress
+“People are looking for leadership that prioritizes empathy and accountability in Washington.” Osberg will continue his district tour in the coming weeks, with upcoming stops in Stearns County on April 24 and Douglas County on May 3.
+Watch the campaign video: We Can Do Better – Why I’m Running for Congress ### 0 Likes 0 Shares 0 0 0 0 About Erik Osberg Erik Osberg is a husband, father, small business owner, and working-class Minnesotan running to represent Western Minnesota in Congress.
+Erik believes public service starts with listening.
+Across thousands of conversations with people throughout the district, he has heard the same concerns again and again: families are working hard and still falling behind, family farms are under pressure, rural healthcare is harder to access, public schools need support, and Washington is not focused enough on the people it is supposed to serve.
+Erik is running because we can do better.
+More by Erik Osberg Related Articles Press Releases Erik Osberg Announces Candidacy for Congress in Minnesota’s 7th District February 22, 2025 - by Erik Osberg Press Releases Erik Osberg Completes Tour of All 38 Counties in Minnesota’s Seventh District September 15, 2025 - by Erik Osberg Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

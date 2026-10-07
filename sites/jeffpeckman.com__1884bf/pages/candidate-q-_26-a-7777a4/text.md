@@ -1,23 +1,19 @@
-Candidate questionnaires by non-partisan organizations are one of the most important ways to assess the aptitude of a candidate for an elected office.
+For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact More For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact Questionnaires - Candidates for Governor Colorado Primary Election June 30 and General Election November 3, 2026 Candidate questionnaires by non-partisan organizations are one of the most important ways to assess the aptitude of a candidate for an elected office.
 Below are PDFs of questionnaires completed and submitted by Jeff Peckman, Unity Party candidate for governor of Colorado.
 Some have already been published online by sponsors of the questionnaires.
 Others will be published soon.
 The PDF sections are followed by full text of the PDFs that you can read by scrolling down the page.
-The General Election questionnaires are first. [Photo credit: Jeff Peckman, May 7, 2016]
-Who are you.
+The General Election questionnaires are first. [Photo credit: Jeff Peckman, May 7, 2016] Jeff Peckman - Candidate Q&A General Election, 11/3/26 CO StanceonScience (pdf) Download Coloradoan QnA web 9.11 (pdf) Download Denver Post QnA web by 8.21.26 (pdf) Download ECHO Fremont QnA web by 10.1.26 (pdf) Download LWV QnA web 9.9.26 (pdf) Download NAACP app QnA web 8.19.26 (pdf) Download Jeff Peckman - Candidate Q&A June Primary Ballotpedia - June 30, 2026 (pdf) Download Church Voter Guides QnA - June 30, 2026 (pdf) Download Colorado Newsline QnA web - June 30, 2026 (pdf) Download Friends Service QnA - June 30, 2026 (pdf) Download KRDO QnA - June 30, 2026 (pdf) Download Science SNAP QnA - June 30, 2026 (pdf) Download Spring Institute RACC CIRC - June 30, 2026 (pdf) Download Ballotpedia - Questionnaire Jeff Peckman Who are you.
 Tell us about yourself.
 On March 1, 1954, I was born in Paola, Kansas, about 17 hours after the Castle Bravo nuclear blast lit up the South Pacific.
 Living on a farm my first five years sparked my curiosity about the wonders of nature.
 That led to my life’s mission as a “solutionist”.
 At age ten, I vowed to find and promote the best solutions to the world’s problems.
 I enjoy developing innovative strategies to elevate life on Earth, like Archimedes “lever” to “move the world”.
-My pioneering initiatives created headlines worldwide, even setting local news media records. [See “In the News” at my website.]
-Over the last 28 years, I’ve conducted three candidate campaigns and three ballot initiative campaigns.
-These brought me good endorsements from well-known and influential community leaders. [See my website “Endorsements” page]
-Many of the solutions I’ve promoted are extraordinarily affordable and effective.
+My pioneering initiatives created headlines worldwide, even setting local news media records. [See “In the News” at my website.] Over the last 28 years, I’ve conducted three candidate campaigns and three ballot initiative campaigns.
+These brought me good endorsements from well-known and influential community leaders. [See my website “Endorsements” page] Many of the solutions I’ve promoted are extraordinarily affordable and effective.
 So, they’ll appeal to the full spectrum of voters.
-These solutions are in areas such as economic development, health, education, energy, public safety, criminal justice, agriculture, homelessness, environmental quality, world peace, counterterrorism, and even disclosure of UFO secrecy. [See my “SOLUTIONS BLUEPRINT”]
-I intend to make Colorado a global leader in new economic engines that will not only solve global problems but are predicted to have trillions of dollars in economic impacts over the next 25 years.
+These solutions are in areas such as economic development, health, education, energy, public safety, criminal justice, agriculture, homelessness, environmental quality, world peace, counterterrorism, and even disclosure of UFO secrecy. [See my “SOLUTIONS BLUEPRINT”] I intend to make Colorado a global leader in new economic engines that will not only solve global problems but are predicted to have trillions of dollars in economic impacts over the next 25 years.
 I just like being helpful wherever possible.
 Please list below, 3 key messages of your campaign.
 What are the main points you want voters to remember from you and your candidacy?
@@ -28,8 +24,7 @@ This is vital because a “virus of incoherence” plagues much of humanity.
 As a result, society has devolved.
 Government is a mirror image of the collective consciousness of the People.
 To improve government, and evolve our society to a higher level, more coherence is needed on our collective consciousness.
-This idea is explained by Ilya Prigogine, Nobel Prize-Winning Chemist: "When a complex system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order."
-2.
+This idea is explained by Ilya Prigogine, Nobel Prize-Winning Chemist: "When a complex system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order." 2.
 Colorado automotive engineering students could build a car largely out of cow manure that could beat a Tesla in a Formula One race!
 Seriously!
 A Colorado-based coherence technology coverts methane into hydrogen and the new “wonder material” graphene.
@@ -39,7 +34,8 @@ They haven’t been achieved in the last 17 years under Democratic leadership.
 That’s because the Democratic Party does not want to solve air pollution and climate change problems.
 It just wants to milk these problems so get votes and campaign donations.
 3.
-The “Butterfly Effect” can be engineered to improve the function of government and elevate the quality of life for all people. 700,000 children under age five die each year from air pollution.
+The “Butterfly Effect” can be engineered to improve the function of government and elevate the quality of life for all people.
+700,000 children under age five die each year from air pollution.
 Colorado has the solution to largely solve that global problem within five years.
 Too much is invested in exploiting problems instead of preventing and solving problems.
 As Buckminster Fuller said, in various ways, “You never change anything by fighting it; you change things by making them obsolete through superior technology.” The new model I intend to create, and be remembered for, will be based on coherence as a fundamental operating principle and a goal worth attaining.
@@ -63,11 +59,8 @@ The core responsibilities for the Governor of Colorado are specified in the stat
 They include enforcing all laws, approving or vetoing legislation, managing the budget, appointing heads of agencies, commissions, boards, and departments, declaring a state of emergency when needed, and being Commander-in-Chief for the state’s forces, etc.
 They also need to work with local and federal levels of government.
 What legacy would you like to leave?
-I would like my legacy to be:
-- That I “enlightened the People generally”, in a different practical way than what Thomas Jefferson envisioned through an academic approach.
-That means championing greater coherence, both as an organizing principle of good self-government, and also specific underutilized coherence technologies that bring unprecedented benefits for virtually all areas of human concern.
-- That I inspired the People to embrace a more solution-based economy instead of the problem-based economy we’ve had for so long.
-- That I broke through the stranglehold that the major two-party duopoly has had on the People of Colorado, the U.S.A. and beyond.
+I would like my legacy to be: - That I “enlightened the People generally”, in a different practical way than what Thomas Jefferson envisioned through an academic approach.
+That means championing greater coherence, both as an organizing principle of good self-government, and also specific underutilized coherence technologies that bring unprecedented benefits for virtually all areas of human concern. - That I inspired the People to embrace a more solution-based economy instead of the problem-based economy we’ve had for so long. - That I broke through the stranglehold that the major two-party duopoly has had on the People of Colorado, the U.S.A. and beyond.
 What is something that has been a struggle in your life?
 My biggest ongoing struggle has been convincing elected leaders to apply the most effective and affordable solutions within their area of responsibility to benefit the most people as soon as possible.
 I now understand why career politicians are inherently incapable and unwilling to prevent and solve major problems.
@@ -83,22 +76,14 @@ My philosophy for line-item vetoes would be to measure each line item against th
 The state budget should not be used to return or solicit political favors.
 My current philosophy is still in accord with a proposed Colorado statute ballot initiative I drafted In 1999 and presented to the Colorado Legislative Council in a public meeting.
 I would apply that whenever the opportunity arises.
-The essence of the initiative was described in the “Declaration” as follows:
-- “Section 13.
-Appropriations – perfection of state budget criteria (1) Citizen declaration.
-(a) The citizens of Colorado hereby find and declare that:
-- (I) To improve the quality of life at the least expense for all the people in Colorado, government should be based on the prevention of problems and on the improvement of every area of human concern with the most effective and cost-effective programs available.
-- (II) Many highly effective and cost-effective programs continue to be under-funded, ignored, and even obstructed by elected and appointed officials at every level of government for purely political reasons.
-- (III) Taxpayer money is wasted on ineffective and costly programs, and the citizens of Colorado continue to suffer or be deprived of a better quality of life because lawmakers are often under the influence of special interests who benefit financially from the continuation of problems in all areas of life for individuals, society and the environment.
-- (b) The citizens of Colorado, therefore, hereby declare that in any state budget request, including emergency spending measures, priority in appropriations shall be given to the most efficacious and cost-effective programs, according to peer-reviewed scientific studies, that may best achieve the goal of the requesting department, agency or institution.”
-Under what circumstances should the governor of your state be able to use emergency powers?
+The essence of the initiative was described in the “Declaration” as follows: “Section 13.
+Appropriations – perfection of state budget criteria (1) Citizen declaration. (a) The citizens of Colorado hereby find and declare that: (I) To improve the quality of life at the least expense for all the people in Colorado, government should be based on the prevention of problems and on the improvement of every area of human concern with the most effective and cost-effective programs available.
+(II) Many highly effective and cost-effective programs continue to be under-funded, ignored, and even obstructed by elected and appointed officials at every level of government for purely political reasons.
+(III) Taxpayer money is wasted on ineffective and costly programs, and the citizens of Colorado continue to suffer or be deprived of a better quality of life because lawmakers are often under the influence of special interests who benefit financially from the continuation of problems in all areas of life for individuals, society and the environment. (b) The citizens of Colorado, therefore, hereby declare that in any state budget request, including emergency spending measures, priority in appropriations shall be given to the most efficacious and cost-effective programs, according to peer-reviewed scientific studies, that may best achieve the goal of the requesting department, agency or institution.” Under what circumstances should the governor of your state be able to use emergency powers?
 A state of emergency can and should be declared when a disaster has occurred, or when a serious or immediate threat exists to public safety, health, or infrastructure, and to help local officials as needed.
 If must be done under legislative oversight.
-Unity Party Candidate for Governor of Colorado https://churchvoterguides.org/
-[Note: Items 1-3 were personal data and photo]
-4.
-Priorities, Vision, and Experience
-What priorities and long-term vision would guide your administration as Governor, how have your experiences prepared you to lead, and what do you see as the most significant challenges facing Colorado over the next decade?
+Church Voter Guides - Questionnaire Jeff Peckman Unity Party Candidate for Governor of Colorado https://churchvoterguides.org/ [Note: Items 1-3 were personal data and photo] 4.
+Priorities, Vision, and Experience What priorities and long-term vision would guide your administration as Governor, how have your experiences prepared you to lead, and what do you see as the most significant challenges facing Colorado over the next decade?
 My priorities are to “Raise the Zone for a Coherent Colorado” immediately and long term.
 I’ll be a natural rain “maker”, to rain on the charade of “drought assistance” bureaucrats and politicians.
 I’ll create the position of Chief Coherence Officer to help.
@@ -108,8 +93,7 @@ It’s the key to affordable and effective solutions.
 I’ve been exploring and promoting coherence-based solutions for 55 years.
 The biggest challenge is making the “two-party” model of an expensive, problem-based government obsolete, and building a new model of government that’s affordable and solution-based.
 5.
-Accountability and Governance
-Colorado's Sunshine Law and Taxpayer Bill of Rights (TABOR) are examples of accountability measures that Colorado's electorate voted into law.
+Accountability and Governance Colorado's Sunshine Law and Taxpayer Bill of Rights (TABOR) are examples of accountability measures that Colorado's electorate voted into law.
 What are your views on ethics, transparency, and adherence to the Colorado and U.S.
 Constitutions?
 Where do you see gaps in current governance, and how would you address them?
@@ -124,8 +108,7 @@ Transparency is vital.
 People need to know if government is adhering to the Colorado and U.S.
 Constitutions.
 6.
-Economy and Fiscal Responsibility
-How would you support Colorado's economy, including small businesses and key industries such as energy and agriculture, while balancing growth, environmental stewardship, and job creation?
+Economy and Fiscal Responsibility How would you support Colorado's economy, including small businesses and key industries such as energy and agriculture , while balancing growth , environmental stewardship , and j ob creation ?
 What principles would guide your approach to the state budget and fiscal responsibility?
 My “Partnership for Applied Coherence Technologies” will launch previously untapped economic engines predicted to have trillion of dollars in economic impact.
 These engines are based on coherence technologies for large and small businesses that overlap agriculture, energy, defense, infrastructure and transportation.
@@ -135,8 +118,7 @@ Together, they'll improve environmental stewardship, while increasing economic g
 This can be achieved regardless of actions by the federal government, and without more costly tax-funded incentives or EVs.
 I will require state budgeting to prioritize policies and programs that actually solve problems at the least expense.
 7.
-Citizen Engagement and Intergovernmental Relations
-Our nation was established with the guiding principle that we have a government of the people, by the people, and for the people.
+Citizen Engagement and Intergovernmental Relations Our nation was established with the guiding principle that we have a government of the people, by the people, and for the people.
 How would you engage with citizens and work with the legislature, local governments, tribal governments, and federal partners while protecting our State's rights?
 Government mirrors our collective consciousness, speech and behavior.
 Our government and society have devolved, due to persistent and excessive stress and incoherence.
@@ -144,14 +126,14 @@ Increasing coherence, and reducing stress, can reverse this trend.
 I will ensure that county election offices offer complete and accurate information about elections.
 As of May 24, 2026, most county election offices in Colorado are not informing unaffiliated voters and major party members about how they can vote a Unity Party ballot, even though almost 53% of voters are unaffiliated.
 I will work with the citizens, legislature, and tribal governments to make Colorado less dependent on politically motivated federal “partners”, by using affordable and effective solutions that have been ignored or obstructed by the two major political parties.
-8. 1st Amendment
-What will you do as Colorado Governor to protect our citizens' First Amendment rights to the free exercise of religion, freedom of speech, peaceably assembly, and to petition the Government for a redress of grievances?
+8.
+1st Amendment What will you do as Colorado Governor to protect our citizens' First Amendment rights to the free exercise of religion, freedom of speech, peaceably assembly, and to petition the Government for a redress of grievances?
 As the author and chief proponent of several ballot initiatives, I would continue to support petitioning the government for a redress of grievances as a vital tool of direct democracy.
 For decades, voters have been fed up with lying by politicians, the news media, corporations, and talking heads on every media platform.
-That’s why, 25 years ago, I drafted a ballot initiative concept to increase truth in political campaigning, news and public relations, while not limiting freedom of speech.
+That’s why, #ago, I drafted a ballot initiative concept to increase truth in political campaigning, news and public relations, while not limiting freedom of speech.
 Increasing coherence and reducing stress is a valuable part of improving mental health and brain function so that truth is more easily discerned and spoken, and ethical behavior and respect towards others’ religious freedom and peaceful gatherings regain value and thrive.
-9. 2nd Amendment
-Do you believe that gun ownership is a civil right, and what is your position regarding restrictions on lawful gun owners such as laws making freedoms more difficult to exercise and making concealed carry permits more difficult to obtain?
+9.
+2nd Amendment Do you believe that gun ownership is a civil right, and what is your position regarding restrictions on lawful gun owners such as laws making freedoms more difficult to exercise and making concealed carry permits more difficult to obtain?
 I prefer solutions, not positions.
 Arguments over second amendment rights to bear arms are driven by politicians who use them to plead for votes and campaign donations, and by gun manufacturers.
 The urgent and critical question is, “how did our society become so disrespectful of life?”.
@@ -161,8 +143,7 @@ Individual and society-wide methods of achieving this are readily available and 
 The two major political parties don’t want to solve the gun violence problem.
 The voters can!
 10.
-Executive Management
-How would you manage state agencies, select key appointees, and use executive authority—including executive orders and emergency powers—to ensure effective, accountable governance?
+Executive Management How would you manage state agencies, select key appointees, and use executive authority—including executive orders and emergency powers—to ensure effective, accountable governance?
 Under what limits, if any, should those powers operate, and which existing orders would you repeal or substantially change?
 I would popularize the principle of coherence everywhere in state government.
 Executive authority would be used, within legal limits, primarily to prevent and solve major problems when the legislature fails to do so because of political posturing.
@@ -171,8 +152,7 @@ For instance, existing technology can reduce the invisible irritant of incoheren
 Coherent electromagnetic fields enhance co-worker harmony, productivity and health.
 Key appointees would be selected who embrace the theme of my administration to optimize public gain, and not political gain, by using the most affordable and effective solutions.
 11.
-Crime and Public Safety
-What strategies would you pursue to address crime in Colorado, including issues such as cybercrime, drug trafficking, and human trafficking; how would you coordinate efforts and balance enforcement with prevention, civil liberties, and community safety?
+Crime and Public Safety What strategies would you pursue to address crime in Colorado, including issues such as cybercrime, drug trafficking, and human trafficking; how would you coordinate efforts and balance enforcement with prevention, civil liberties, and community safety?
 Crime and public safety are areas in which increasing coherence and reducing stress on an individual level and societal level have been most thoroughly proven.
 I’ve been involved in such programs over the last 50 years.
 The Quiet Time program at Fletcher-Johson School in SE Washington D.C. stopped frequent student murders.
@@ -182,8 +162,7 @@ Reducing air pollution and electromagnetic pollution are vital because they harm
 These proven solutions aren’t driven by political and financial motives.
 Applying various coherence-based solutions will reduce all forms of crime while protecting civil liberties and ensuring community safety.
 12.
-Protecting the Most Vulnerable
-If elected, how will you seek to protect the lives of the most vulnerable in our community, including the unborn, victims of trafficking and abuse, senior citizens, and those experiencing mental illness?
+Protecting the Most Vulnerable If elected, how will you seek to protect the lives of the most vulnerable in our community, including the unborn, victims of trafficking and abuse, senior citizens, and those experiencing mental illness?
 Increasing society-wide coherence and reducing stress is essential for protecting these populations who are most vulnerable to mental and physical damage from pollution, abuse, and stress.
 Reducing pollution and stress is the easiest, quickest, and most affordable first step.
 “A rising tide lifts all boats”.
@@ -192,8 +171,7 @@ As that is being achieved and monitored, more opportunities will emerge to prote
 Validation of this approach has withstood rigorous scientific scrutiny.
 The reason it hasn’t been used in government policy is because the two major political parties depend on, and exploit, the continuation of problems and suffering to support their control over government and the People.
 13.
-Education
-How would your administration work to improve educational outcomes in Colorado, and what role do you believe the Governor should play regarding parental involvement, school choice, and local control?
+Education How would your administration work to improve educational outcomes in Colorado , and what role do you believe the Governor should play regarding parental involvement, school choice, and local control?
 My administration will implement society-wide and school-specific solutions that greatly reduce invisible irritants such as air pollution and electromagnetic pollution.
 These irritants cause stress and incoherence, which compromise physical and mental health, safety and educational outcomes.
 As governor, I would also help school districts develop new revenue streams so they can wean themselves from income derived from addictive junk food and beverages, which also reduce student outcomes.
@@ -201,8 +179,7 @@ Excessive stress is the root cause of poor academic performance, substance abuse
 Reducing stress and incoherence for students are the most cost-effective ways to improve student life and educational outcomes.
 Parents paying taxes to support compulsory education deserve to have input and school choice.
 14.
-Constitutional Compatibility
-Many Christians are concerned about ideologies that place the state, the collective, or religious law above individual liberty and limited constitutional government.
+Constitutional Compatibility Many Christians are concerned about ideologies that place the state, the collective, or religious law above individual liberty and limited constitutional government.
 Do you believe socialism, communism, or political movements seeking to impose religious law — including Islamic Sharia law — are compatible with America's constitutional representative democracy?
 Why or why not?
 All of these systems are potentially compatible, but also potentially corruptible and abused.
@@ -213,11 +190,7 @@ When stress and incoherence become pervasive, then these functions weaken, and t
 Consequently, disagreements between and within these systems create conflicts and confusion, even within Christianity and America’s democracy.
 Decreasing societal stress and increasing coherence will allow these systems to more harmoniously coexist.
 They’ll less imposing and more compatible with America’s improved constitutional representative democracy.
-###
-Colorado Newsline is an online, nonprofit that is part of the national States Newsroom network.
-https://coloradonewsline.com/2026/06/08/candidate-qa-colorado-governor/
-Colorado Gubernatorial Candidate: Jeff Peckman
-1) What would be your highest priority as governor during your first year in office, and how should Coloradans measure your progress?
+### Colorado Newsline Jeff Peckman Colorado Newsline is an online, nonprofit that is part of the national States Newsroom network. https://coloradonewsline.com/2026/06/08/candidate-qa-colorado-governor/ Colorado Gubernatorial Candidate: Jeff Peckman 1) What would be your highest priority as governor during your first year in office, and how should Coloradans measure your progress?
 My highest priority would be introducing the theme of “coherence”, both as an operating principle for government, and as a new science producing breakthrough technologies.
 I would create the position of Chief Coherence Officer and establish the Partnership for Applied Coherence Technologies.
 Coherence-based technologies are predicted to have at least $10 trillion in global economic impact over the next 25 years.
@@ -255,13 +228,9 @@ That’s my passion, not politics.
 The repeatable “aha!” experiences motivate me, as does helping people who are needlessly suffering.
 Informing the masses of viable ways to improve life is deeply satisfying.
 Several of my initiatives made headlines worldwide.
-Acknowledgment of my passion has come from people such as:
-[Note: The following quotations were edited out of Colorado Newsline online version]
-- Tom Frey, former Senior Futurist at the DaVinci Institute: “Jeff Peckman has a natural talent and comfort level for dealing with the messy stages of a new project.
-He’s been very quick to scope out the needs of the situation and organize the effort around available resources.”
-- Lisa Ryckman, former Managing Editor of ColoradoBiz Magazine and currently Associate Director of Communications at the National Conference of State Legislatures.
-"In person, Peckman looks and sounds like your favorite college professor, the one who could get the whole class debating novel solutions to the world’s problems.”
-4) Colorado celebrates the 150th anniversary of its admission to the union this year.
+Acknowledgment of my passion has come from people such as: [Note: The following quotations were edited out of Colorado Newsline online version] Tom Frey, former Senior Futurist at the DaVinci Institute: “Jeff Peckman has a natural talent and comfort level for dealing with the messy stages of a new project.
+He’s been very quick to scope out the needs of the situation and organize the effort around available resources.” Lisa Ryckman, former Managing Editor of ColoradoBiz Magazine and currently Associate Director of Communications at the National Conference of State Legislatures.
+"In person, Peckman looks and sounds like your favorite college professor, the one who could get the whole class debating novel solutions to the world’s problems.” 4) Colorado celebrates the 150th anniversary of its admission to the union this year.
 Who is a figure from the Centennial State’s history that inspires you, and why?
 Nikola Tesla – He was a unique and extraordinary genius, not only in the history of Colorado, but the world.
 His deep passion for elevating human life transcended motivations for financial gain, political power and control.
@@ -281,24 +250,23 @@ They would reflect on advances in global civilization that came from my Partners
 They would list achievements resulting from widespread use of graphene and hydrogen, for which Colorado became the global leader during my administration.
 They would share that I was part of the first delegation to have open, public contact with visitors from outside of Earth.
 Most important is that they remember that during my administration, people became happier, healthier, more prosperous and enjoyed a more harmonious co-existence with fellow humans, the natural environment and beyond.
-Sponsored by the Shut Down GEO Aurora Campaign and the American Friends Service Committee, Colorado
-Question: What have you done in your current elected office to directly confront DHS/ICE, and their operations, as well as to the operation of immigration detention centers?
+### American Friends Service Committee - Questionnaire Jeff Peckman Sponsored by the Shut Down GEO Aurora Campaign and the American Friends Service Committee, Colorado Question: What have you done in your current elected office to directly confront DHS/ICE, and their operations, as well as to the operation of immigration detention centers?
 Answer: I’m not currently in an elected office.
-However, as a candidate and author of “RAISE the ZONE” I am sharing my view that many actions and operations of DHS/ICE perfectly match the definition of “Domestic terrorism” in Sec. 802 of the USA PATRIOT Act of 2001 that was passed by 98 U.S. senators.
+However, as a candidate and author of “RAISE the ZONE” I am sharing my view that many actions and operations of DHS/ICE perfectly match the definition of “Domestic terrorism” in Sec.
+802 of the USA PATRIOT Act of 2001 that was passed by 98 U.S. senators.
 See my answer to question #10 for more details.
 As Governor, you would hold a particularly important role in opposing ICE?
 In direct violation of state law, our current Governor has attempted to comply with the administration’s subpoenas for private information of Coloradans.
 He has also been quiet about support for statewide bills protecting all Coloradans from warrantless ICE arrests.
-Answer: First, yes, I would hold a particularly important role in opposing at least any actions by ICE that are unlawful, put Coloradans at unnecessary risk, or cause harm through overly aggressive actions.
-c.
+Answer: First, yes, I would hold a particularly important role in opposing at least any actions by ICE that are unlawful, put Coloradans at unnecessary risk, or cause harm through overly aggressive actions. c.
 What would you see as your role as Governor in these situations?
 Answer: I would uphold Colorado laws that protect private information.
-I also view many DHS/ICE actions as matching the definition of “domestic terrorism” according to Sec. 802 of the USA PATRIOT Act of 2001.
+I also view many DHS/ICE actions as matching the definition of “domestic terrorism” according to Sec.
+802 of the USA PATRIOT Act of 2001.
 I would enact enforceable laws regarding domestic terrorism which recognize that fact and provide penalties for violations.
 I would protect Coloradans from warrantless ICE arrests.
 That will also first require enacting certain laws in Colorado.
-See #10.
-d.
+See #10. d.
 What do you promise to do in office to oppose the sharing of Coloradans’ information with the federal government?
 Answer: I promise to oppose the sharing of Coloradans’ private information when it conflicts with existing Colorado laws related to law enforcement and protection of personal privacy.
 What is your stance and statement on private, for-profit immigration detention centers?
@@ -315,13 +283,11 @@ Think of Medicare.
 It’s not a for-profit enterprise in itself, but Medicare funds go mostly to for-profit healthcare businesses.
 Many of these for-profit businesses allow people to invest.
 However, to avoid creating an explosion of detention centers based largely on a profit motive, the profit must be tied to legal and humane treatment of detainees both during detainment, and during deportation if that is unavoidable.
-Under what circumstances would you take extraordinary measures to override other branches of government, in particular:
-g. overriding the state legislature, comprised of two houses of representatives duly elected by the people, with the Governor’s power of veto?
+Under what circumstances would you take extraordinary measures to override other branches of government, in particular: g. overriding the state legislature, comprised of two houses of representatives duly elected by the people, with the Governor’s power of veto?
 I would override the state legislature in primarily two circumstances.
 One is when the legislature passes laws that clearly put self-interested political motives above public benefit.
 The other is when the legislature ignores more affordable and effective solutions to a given problem, in favor of policies and programs that perpetuate a problem.
-An example of that is when legislators emphasize that a new law will create jobs, increase tax revenue, or secure federal funding, instead of emphasizing how their new law will actually solve the targeted problem.
-h. overriding the power of the judiciary to hold fair trials in which juries of a defendant’s peers determine guilt or innocence, with the Governor’s power of clemency, pardon, or commutation of sentence?
+An example of that is when legislators emphasize that a new law will create jobs, increase tax revenue, or secure federal funding, instead of emphasizing how their new law will actually solve the targeted problem. h. overriding the power of the judiciary to hold fair trials in which juries of a defendant’s peers determine guilt or innocence, with the Governor’s power of clemency, pardon, or commutation of sentence?
 This question is too broad and speculative for me at present.
 In general, I would use the power of clemency, pardon, and commutation of a sentence.
 I would also always intend to support the highest levels of justice.
@@ -348,21 +314,11 @@ Toward that end, I address this situation in my book, “RAISE the ZONE”, whic
 Following is my view as a candidate for governor and my approach to dealing with any scale of violence and negligence of ICE.
 I think that the Polis administration, Colorado legislature and Democratic Party and politicians throughout the U.S. missed a valuable opportunity to prevent inhumane and atrocious acts committed by ICE.
 I believe they did that as a strategic choice.
-Consider the following:
-In October 2001, the USA PATRIOT Act was passed by 98 U.S.
+Consider the following: In October 2001, the USA PATRIOT Act was passed by 98 U.S.
 Senators and signed into law by President Bush.
-It officially, simply, and concisely defined “domestic terrorism” as follows:
-SEC. 802.
-DEFINITION OF DOMESTIC TERRORISM.
-(a) DOMESTIC TERRORISM DEFINED. — Section 2331 of title 18, United States Code, is amended—
-"(5) the term 'domestic terrorism' means activities that—
-"(A) involve acts dangerous to human life that are a violation of the criminal laws of the United States or of any State;
-"(B) appear to be intended—
-"(i) to intimidate or coerce a civilian population;
-"(ii) to influence the policy of a government by intimidation or coercion; or
-"(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and
-"(C) occur primarily within the territorial jurisdiction of the United States."
-Who’s a Terrorist?
+It officially, simply, and concisely defined “domestic terrorism” as follows: SEC.
+802.
+DEFINITION OF DOMESTIC TERRORISM. (a) DOMESTIC TERRORISM DEFINED. — Section 2331 of title 18, United States Code, is amended— "(5) the term 'domestic terrorism' means activities that— "(A) involve acts dangerous to human life that are a violation of the criminal laws of the United States or of any State; "(B) appear to be intended— "(i) to intimidate or coerce a civilian population; "(ii) to influence the policy of a government by intimidation or coercion; or "(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and "(C) occur primarily within the territorial jurisdiction of the United States." Who’s a Terrorist?
 By any measure, many of the acts of ICE and the Trump administration perfectly match the official definition of “domestic terrorism” in the USA PATRIOT Act of 2001.
 Despite this definition, U.S. law provides no penalties and leaves it to states to deal with offenses of domestic terrorism.
 These vary a lot across the U.S.
@@ -375,14 +331,13 @@ I believe the Democrats and their allies in the news media and activist groups d
 It seems they did not want to end the abuse by ICE, but counted on it as a perceived political advantage in the upcoming mid-term election.
 At most, Colorado laws commit Colorado government to collaborate with federal agencies on their enforcement of the USA PATRIOT Act.
 Much of that has to do with sharing information and surveillance.
-My policy to deal with aggressive immigration enforcement would entail the following:
-- 1.
+My policy to deal with aggressive immigration enforcement would entail the following: 1.
 Enact enforceable state laws against domestic terrorism, using the “official” definition of domestic terrorism in the USA PATRIOT Act of 2001, Section 802.
-- 2.
+2.
 Publicize this new law throughout Colorado law enforcement, the U.S., and the world.
-- 3.
+3.
 Announce definitively, that if and when the federal administration or its agents or representatives engage in acts that violate Colorado’s new law regarding domestic terrorism, Colorado will strictly enforce the law against perpetrators, no matter their position or role in any sector or level of government.
-- 4.
+4.
 Prosecute collaboration with perpetrators of domestic terrorism, regardless of whether the collaboration is by public officials, private citizens, or state or local law enforcement.
 These collective actions would create the proper mindset to ensure that state and local law enforcement strictly adhere to Colorado laws that prohibit cooperation with violent and negligent actions of ICE.
 Opponents of abuses by ICE can thoroughly educate law enforcement and the public about the official definition of “domestic terrorism” in relation to acts by the Trump administration.
@@ -392,7 +347,7 @@ What have you learned in meeting with directly impacted community members regard
 Please share about your experiences meeting with these groups and individuals.
 I have not met any of the impacted community members.
 The solutions I offer are based on my knowledge about their harms that I’ve learned through mainstream news and social media, and email from various groups.
-- How does your experience make you qualified to represent the people?
+KRDO Colorado Springs - Questionnaire Jeff Peckman How does your experience make you qualified to represent the people?
 My solutions to Colorado’s problems are more affordable and effective than what other candidates offer.
 My life’s mission began at age ten, when I vowed to find and promote the best solutions to the world’s biggest problems.
 That was literally before all of the male candidates in the two major parties were born.
@@ -424,19 +379,17 @@ No other candidate is on top of this issue.
 That’s why one of my other goals it to create a state-level Extraterrestrial Affairs Commission.
 Overall, I have the broadest spectrum of experiences over the longest time that are relevant to the office of governor.
 That also makes me the most qualified candidate to break through the matrix of the two-party stranglehold and lead Colorado into a new and exciting era.
-- What are your top policy priorities?
+What are your top policy priorities?
 My top policy priorities, collectively, are to “Raise the Zone for a Coherent Colorado”.
 The concept of “coherence” will be both an operating principle for government, and a science that is producing breakthrough technologies.
 It’s all throughout my “SOLUTIONS BLUEPRINT” and book, “RAISE the ZONE”.
 Coherence is the most important key to solve major Colorado problems in a fiscally responsible manner.
 To achieve that, I would create the position of Chief Coherence Officer, and establish the Partnership for Applied Coherence Technologies.
 Many vital benefits across all areas of government and society will result from these priorities.
-For example:
-Several coherence-based technologies are predicted to each have at least $10 trillion in global economic impact over the next 25 years.
+For example: Several coherence-based technologies are predicted to each have at least $10 trillion in global economic impact over the next 25 years.
 Colorado can be a launching pad for much of that.
 Coherence is not a vague notion or theory.
-Some practical examples are:
-Coherent fuel plasma devices for diesel vehicles result in a 15% increase in fuel efficiency, 40% increase in torque, 40% decrease in hydrocarbons, and 66% decrease in particulate matter, all at a net cost-savings.
+Some practical examples are: Coherent fuel plasma devices for diesel vehicles result in a 15% increase in fuel efficiency, 40% increase in torque, 40% decrease in hydrocarbons, and 66% decrease in particulate matter, all at a net cost-savings.
 That means Colorado’s emissions reduction goals could be achieved within two years, without any tax-funded incentives or subsidies, regardless of actions by the federal government, and without even more EVs.
 This same core technology can convert methane into the new “wonder material” graphene, and hydrogen.
 Graphene has already improved the performance of concrete, asphalt, and steel; while reducing damage and corrosion from weather, heavy loads, accidents, and acid rain.
@@ -463,8 +416,7 @@ Applying coherence to government will convert it to more of a “Butterfly Effec
 That will replace the “Rube Goldberg Machine” type of government created by the two major political parties.
 The Butterfly Effect is often described with the analogy of a “butterfly in Brazil creating a tornado in Texas.” That means a small coherent influence at an early stage can grow to a massive influence.
 It could be a constructive influence too.
-As Ilya Prigogine, Nobel Prize-Winning Chemist, said:
-- "When a complex system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order." Coherence is exactly what Colorado needs, inside and outside of government.
+As Ilya Prigogine, Nobel Prize-Winning Chemist, said: "When a complex system is far from equilibrium, small islands of coherence in a sea of chaos have the capacity to shift the entire system to a higher order." Coherence is exactly what Colorado needs, inside and outside of government.
 It’s a way to achieve more with less.
 It’s an upward spiral.
 In contrast, the “Rube Goldberg Machine” type of government achieves less with more.
@@ -483,31 +435,28 @@ It removes the invisible irritant of electromagnetic chaos.
 That results in reduced stress that improves health, safety and performance of students and workers.
 In general, it improves the performance and efficiency of anything that uses electricity, from microchips to power grids and AI.
 Making Colorado a “coherent” state, will achieve more than all of the other candidates positions and solutions put together.
-- What is one issue you think is being overlooked in this race, and how would you address it?
+What is one issue you think is being overlooked in this race, and how would you address it?
 The biggest issue being overlooked is the real chance that Colorado’s primary election could get nullified and forced to run again.
 The reason for that is what I see as rampant illegal partisan electioneering occurring at county election offices; 501(c)(3) non-profit organizations, including churches, news outlets, and educational organizations and institutions; and licensed for-profit news outlets.
 These entities have been excluding Unity Party candidates from various election activities in apparent violation of relevant laws.
-In brief:
-- 501(c)(3) non-profits, including churches and community news outlets, are required by the IRS to provide, “…an equal opportunity to participate to all political candidates seeking the same office.”
-- Commercial TV and radio stations are violating federal law. 47 USC 315 states they must “afford equal opportunities to all other such candidates for that office in the use of such broadcasting station…”
-All of this together is denying unaffiliated voters, who are now the majority, from getting properly informed about how to vote a Unity Party ballot.
+In brief: 501(c)(3) non-profits, including churches and community news outlets, are required by the IRS to provide, “…an equal opportunity to participate to all political candidates seeking the same office.” Commercial TV and radio stations are violating federal law.
+47 USC 315 states they must “afford equal opportunities to all other such candidates for that office in the use of such broadcasting station…” All of this together is denying unaffiliated voters, who are now the majority, from getting properly informed about how to vote a Unity Party ballot.
 This could potentially open a Pandora’s [ballot] box nightmare.
 Additionally, I challenge KRDO audience members to find the following details, from the Secretary of State election website pages, on the county election office websites and in voter guides.
 Q2.
 Who can vote in a Primary Election?
 A2.
-During either the Presidential or June primary:
-- Unaffiliated voters: An unaffiliated voter may cast a ballot for any major political party, or minor political party who allows unaffiliated voters to participate in their primary.
+During either the Presidential or June primary: Unaffiliated voters : An unaffiliated voter may cast a ballot for any major political party, or minor political party who allows unaffiliated voters to participate in their primary.
 In the June 2026 election, this means unaffiliated voters may cast a ballot in Democratic, Republican, or Unity Party primaries.
 If an unaffiliated voter returns a ballot with more than one political party, the ballot will be rejected and none of the votes will be counted.
 Q7.
 I am an unaffiliated voter.
 Do I have to choose in advance which party's primary ballot to vote?
-- If you want to vote in a minor party primary and that party allows unaffiliated voters to participate, you must contact your county clerk to request that party’s ballot.
-- You can also appear in person at any Voter Service and Polling Center in your county and choose the major or minor party's ballot you want to vote.
+If you want to vote in a minor party primary and that party allows unaffiliated voters to participate, you must contact your county clerk to request that party’s ballot.
+You can also appear in person at any Voter Service and Polling Center in your county and choose the major or minor party's ballot you want to vote.
 Q10.
 How do I vote in a minor party's primary election if I am unaffiliated?
-- For the June 2026 primary election, the only minor party that is holding a primary and that allows unaffiliated voters to participate is the Unity Party.
+For the June 2026 primary election, the only minor party that is holding a primary and that allows unaffiliated voters to participate is the Unity Party.
 The way I would address this issue it is to continue bringing attention to it, as I have been for the last six weeks.
 My “challenge” to the KRDO audience above is part of that effort.
 In April, I found information on the Colorado Secretary of State website that was inaccurate, incomplete, misleading, and confusing.
@@ -515,8 +464,7 @@ Those and other deficiencies were repeated across over 90% of county election of
 On April 30, I sent my findings to the Secretary of State and suggested language to overcome those deficiencies.
 Nothing changed at the state or county level and in most of the news outlets.
 So, on May 30, I sent out a press release to a few dozen of the news outlets.
-The title was, “Rampant Fraud in Colorado Election, Says Gubernatorial Candidate.”
-Three business days later, I received an email from the Secretary of State that its election division had new updates that were communicated to the county election offices.
+The title was, “Rampant Fraud in Colorado Election, Says Gubernatorial Candidate.” Three business days later, I received an email from the Secretary of State that its election division had new updates that were communicated to the county election offices.
 The Q & A details above were direct responses to the changes I suggested.
 The wording is a little different but achieves the same goal.
 However, even then, spot checks of counties and news outlets showed they had not included all of the information, and when they did, it was not conspicuous.
@@ -525,21 +473,15 @@ That was the deadline for major and minor party members to withdraw or change th
 As far as I can tell, no legal basis exists for these various entities to exclude minor party primary candidates from official election information and certain election opportunities.
 Adding insult to injury is that they boast about their awards for journalistic excellence and their commitment to the highest ethical standards.
 So, I’m grateful for the opportunity to be included in KRDO’s election coverage.
-Sponsored by the Scientist Network for Advancing Policy
-https://snapcoalition.org/initiatives/stance-on-science/states/co
-What advisory mechanisms will you implement to ensure that evidence and scientific findings play a crucial role in your policymaking process?
+Stance on Science - Questionnaire Jeff Peckman Sponsored by the Scientist Network for Advancing Policy https://snapcoalition.org/initiatives/stance-on-science/states/co What advisory mechanisms will you implement to ensure that evidence and scientific findings play a crucial role in your policymaking process?
 A highly qualified and competent science and technology advisory board will be a key party of my administration.
 As the former Vice President of Special projects at the DaVinci Institute in Colorado, I have extraordinary contacts.
 Highly affordable, evidence-based scientific and technological solutions are already described in my SOLUTIONS BLUEPRINT. [see jeffpeckman.com/solutions-blueprint] It’s not just about positions and policies.
 It’s about real solutions that can appeal to the full spectrum of political affiliations.
 I’m committed to bringing science and technology into government to benefit the People in an unprecedented way.
 On day one, I would establish a P.A.C.T. – Partnership for Applied Coherence Technologies.
-A key provision in my proposed statewide ballot initiative in 1999, that I would apply as governor, stated:
-- “Section 13.
-Appropriations – perfection of state budget criteria (1) Citizen declaration.
-(a) The citizens of Colorado hereby find and declare that:
-- (b) The citizens of Colorado, therefore, hereby declare that in any state budget request, including emergency spending measures, priority in appropriations shall be given to the most efficacious and cost-effective programs, according to peer-reviewed scientific studies, that may best achieve the goal of the requesting department, agency or institution.”
-- “Peer-reviewed” studies are probably not practical in every budget item.
+A key provision in my proposed statewide ballot initiative in 1999, that I would apply as governor, stated: “Section 13.
+Appropriations – perfection of state budget criteria (1) Citizen declaration. (a) The citizens of Colorado hereby find and declare that: (b) The citizens of Colorado, therefore, hereby declare that in any state budget request, including emergency spending measures, priority in appropriations shall be given to the most efficacious and cost-effective programs, according to peer-reviewed scientific studies, that may best achieve the goal of the requesting department, agency or institution.” “Peer-reviewed” studies are probably not practical in every budget item.
 However, I would encourage and support this mindset in both the public and private sectors.
 That’s not just for budgeting, but for economic development and elevating the quality of life for Colorado’s residents.
 Colorado farmers are facing multiple threats, amidst water scarcity and rising prices for fertilizer and other imported materials.
@@ -613,10 +555,8 @@ That would minimize the risk of Federal-level actors holding funds hostage due t
 One part of that will be the P.R.O.F.E.T. of Colorado.
 That’s the acronym for the Patent Registration Office for Extraordinary Technologies.
 See my SOLUTIONS BLUEPRINT section on Technology and Innovation.
-2026 Gubernatorial Candidate Questionnaire: Issues Impacting Immigrant & Refugee Coloradans.
-By the Refugee Action Coalition of Colorado (RACC), Colorado Immigrant Rights Coalition (CIRC), and Spring Institute
-Section 1: Colorado as a Welcoming Community
-1.
+### Spring Institute, RACC, CIRC - Questionnaire Jeff Peckman 2026 Gubernatorial Candidate Questionnaire: Issues Impacting Immigrant & Refugee Coloradans.
+By the Refugee Action Coalition of Colorado (RACC), Colorado Immigrant Rights Coalition (CIRC), and Spring Institute Section 1: Colorado as a Welcoming Community 1.
 What does it mean to you for Colorado to be a welcoming community, and how would you ensure Colorado remains safe and welcoming for immigrants and refugees?
 How would your administration explicitly consider and prioritize immigrant and refugee Coloradans in your policy agenda?
 Answer: Immigrants and refugees deserve the same protection as everyone else.
@@ -626,14 +566,13 @@ He said, in various ways over time, “You never change things by fighting the e
 To change something, build a new model that makes the existing model obsolete.” It also aligns with the saying, “A rising tide lifts all boats”.
 I take a holistic approach of policies that have multiple, mutually reinforcing, and far-reaching benefits.
 The existing “model” suffers from a perception of scarce financial resources, and actual disrespect of human life.
-Throughout my book, RAISE the ZONE, and my campaign "SOLUTIONS BLUEPRINT", I describe “coherence” as a new operating principle for government, and a new science of technologies based on coherence.
+Throughout my book, RAISE the ZONE , and my campaign "SOLUTIONS BLUEPRINT", I describe “coherence” as a new operating principle for government, and a new science of technologies based on coherence.
 These technologies are ready to launch multi-billion-dollar economic engines.
 The financial benefits of my strategy within Colorado’s economy will restore sufficient funding for all state government programs, including for immigrants and refugees.
 The wide spectrum of applications for these emerging technologies will help every area of society.
 That includes healthcare, agriculture, education, jobs, infrastructure, small and large businesses, public safety, transportation, housing, and more.
 Coherence is woven throughout my comprehensive plan to protect and elevate the lives of all Coloradoans.
-Section 2: Refugee Resettlement
-2.
+Section 2: Refugee Resettlement 2.
 In the face of the Trump Administration's dismantling of the U.S.
 Refugee Admissions Program and elimination of key benefits for refugees, what specific policies would your administration implement to protect and support Colorado’s refugee population and promote future welcoming and resettlement?
 Answer: The “key benefits” mentioned are largely about funding.
@@ -656,34 +595,45 @@ For example, valuable innovations in agriculture, potable water, health care, cl
 Some of these would put Colorado’s major research labs to shame.
 By taking care these new members of our communities, we can also benefit from them in ways we wouldn’t otherwise.
 Adopting a new mindset will make state-funded “resettlement” more like state-invested “recruitment”.
-Section 3: Protections Against Aggressive Immigration Enforcement
-3.
+Section 3: Protections Against Aggressive Immigration Enforcement 3.
 As governor, how would you ensure that state and local law enforcement strictly adhere to Colorado laws that prohibit cooperation with ICE?
 Specifically, what executive or administrative consequences would local sheriff's departments face if they honor civil immigration detainers?
 Answer: Most of the following answer is verbatim from Chapter 7 of my book, RAISE the ZONE.
 I wrote it before considering a run for governor of Colorado.
 I think that the Polis administration, Colorado legislature and Democratic Party and politicians throughout the U.S. missed a valuable opportunity to prevent inhumane and atrocious acts committed by ICE.
 I believe they did that as a strategic choice.
-Consider the following:
-- SEC. 802.
-DEFINITION OF DOMESTIC TERRORISM.
-- (a) DOMESTIC TERRORISM DEFINED. — Section 2331 of title 18, United States Code, is amended—
-- "(5) the term 'domestic terrorism' means activities that—
-- "(A) involve acts dangerous to human life that are a violation of the criminal laws of the United States or of any State;
-- "(B) appear to be intended—
-- "(i) to intimidate or coerce a civilian population;
-- "(ii) to influence the policy of a government by intimidation or coercion; or
-- "(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and
-- "(C) occur primarily within the territorial jurisdiction of the United States."
+Consider the following: In October 2001, the USA PATRIOT Act was passed by 98 U.S.
+Senators and signed into law by President Bush.
+It officially, simply, and concisely defined “domestic terrorism” as follows: SEC.
+802.
+DEFINITION OF DOMESTIC TERRORISM. (a) DOMESTIC TERRORISM DEFINED. — Section 2331 of title 18, United States Code, is amended— "(5) the term 'domestic terrorism' means activities that— "(A) involve acts dangerous to human life that are a violation of the criminal laws of the United States or of any State; "(B) appear to be intended— "(i) to intimidate or coerce a civilian population; "(ii) to influence the policy of a government by intimidation or coercion; or "(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and "(C) occur primarily within the territorial jurisdiction of the United States." Who’s a Terrorist?
+By any measure, many of the acts of ICE and the Trump administration perfectly match the official definition of “domestic terrorism” in the USA PATRIOT Act of 2001.
+Despite this definition, U.S. law provides no penalties and leaves it to states to deal with offenses of domestic terrorism.
+These vary a lot across the U.S.
+Almost 40% of states, including Colorado, have not criminalized it.
+A recent attempt to redefine the term “domestic terrorist” is the National Security Presidential Memorandum (NSPM-7) signed by President Trump on September 25, 2025.
+It was for “establishing a comprehensive strategy to investigate, disrupt, and dismantle all stages of organized political violence and domestic terrorism.” The memorandum has been criticized for vagueness and lacking details, while being aimed primarily at opponents of POTUS’ unconstitutional policies.
+However, as far as I can tell, none of the news media, Democrats, or activists made reference to domestic terrorism as defined in the USA PATRIOT Act of 2001, when criticizing it.
+Why not?
 I believe the Democrats and their allies in the news media and activist groups did that as a strategic choice.
 It seems they did not want to end the abuse by ICE but counted on it as a perceived political advantage in the upcoming mid-term election.
 At most, Colorado laws commit Colorado government to collaborate with federal agencies on their enforcement of the USA PATRIOT Act.
 Much of that has to do with sharing information and surveillance.
+My policy to deal with aggressive immigration enforcement would entail the following: 1.
+Enact enforceable state laws against domestic terrorism, using the “official” definition of domestic terrorism in the USA PATRIOT Act of 2001, Section 802.
+2.
+Publicize this new law throughout Colorado law enforcement, the U.S., and the world.
+3.
+Announce definitively, that if and when the federal administration or its agents or representatives engage in acts that violate Colorado’s new law regarding domestic terrorism, Colorado will strictly enforce the law against perpetrators, no matter their position or role in any sector or level of government.
+4.
+Prosecute collaboration with perpetrators of domestic terrorism, regardless of whether the collaboration is by public officials, private citizens, or state or local law enforcement.
 These collective actions would create the proper mindset to ensure that state and local law enforcement strictly adhere to Colorado laws that prohibit cooperation with ICE.
 After that new mindset is sufficiently achieved, I would revisit executive or administrative consequences for local sheriff's departments if they honor civil immigration detainers.
 In summary, my administration would cooperate with humane and legal activities of ICE but would prosecute any illegal activities of ICE and state and local collaborators who also violate a proposed new Colorado law on domestic terrorism.
-Do you support protections/policies at the state level that would ensure individuals confronting the deportation process have full and meaningful access to due process?
-If yes, what would these protections/policies look like under your administration?
+Opponents of abuses by ICE can thoroughly educate law enforcement and the public about the official definition of “domestic terrorism” in relation to acts by the Trump administration.
+They don’t need to wait for the results of Colorado’s 2026 general election or even wait another day!
+Do you support protections/policies at the state level that would ensure individuals confronting the deportation process have full and meaningful access to due process ?
+If yes, what would these protections/policies look like under your administration ?
 Answer: I do support such protections/policies at the state level.
 This would fall under my proposed new law on domestic terrorism described in the previous answer.
 In addition to using the official definition of “domestic terrorism” in the USA PATRIOT Act of 2001, I would include “denial of full and meaningful access to due process” as an act of domestic terrorism.
@@ -696,7 +646,7 @@ Within that context, enforcement agents would have to be accountable or suffer t
 The family separation issue will require a comprehensive and multifaceted approach that would best be informed by the relevant agencies of state government and organizations serving refugees and immigrants.
 Therefore, I can’t make a definitive statement about specific strategies at this time.
 However, the goal would be to keep families together in safe, healthy, and humane environments.
-What would you do to ensure safe, healthy, and dignified conditions at the Aurora GEO detention center and other proposed immigration detention centers such as the Hudson facility?
+What would you do to ensure safe, healthy, and dignified conditions at the Aurora GEO detention center and other proposed immigration detention centers such as the Hudson facility ?
 Answer: First, I would have to visit these centers.
 Then, I could draw upon what I already know as affordable and effective solutions, as well and take input from other stakeholders and experts in a variety of fields.
 At a minimum, I would require that the facilities meet sufficient standards for legally habitable residential facilities with respect to building codes, sanitation and functionality.
@@ -712,18 +662,13 @@ Whatever is available would be used swiftly in a balanced and effective way to h
 If necessary, I would prosecute owners and operators of the facility as domestic terrorists within the newly enacted Colorado law as described above in Section 3.
 Part of my administration’s response might be to seize bank accounts and other assets of owners and operators if they are held within Colorado.
 Then, to what extent is allowed legally, I would use such assets to provide state-funded oversight and remediation of violations.
-What principles would guide your decisions regarding the deployment of the Colorado National Guard or out-of-state requests to use our Guard members for civil immigration enforcement or mass deportations?
+What principles would guide your decisions regarding the deployment of the Colorado National Guard or out-of-state requests to use our Guard members for civil immigration enforcement or mass deportations ?
 Answer: The guiding principle would be to deploy the Colorado National Guard primarily under several scenarios.
 One would be if immigrants with sufficiently confirmed or suspected criminal activities have created a clear and present danger to law-abiding immigration enforcement, local law enforcement, or private citizens.
 Another scenario would be if private citizen activists, who are not immigrants, created a clear and present danger to law-abiding immigration and law enforcement personnel.
 The third would be if immigration enforcement personnel acted illegally to kidnap and deport citizens without due process, or detain them in inhumane conditions at privately run detention centers.
-Section 4: Workforce Integration
-How would your administration support the economic wellbeing of Colorado's immigrant communities?
-For example, how would you:
-- address barriers to starting businesses and accessing loans;
-- promote meaningful upward mobility;
-- reduce the harms of low-paying, temporary, and/or gig jobs that immigrants are often forced to take;
-- and foster the development of employment and industry alternatives for individuals who lose their jobs to AI?
+Section 4: Workforce Integration How would your administration support the economic wellbeing of Colorado's immigrant communities?
+For example, how would you: - address barriers to starting businesses and accessing loans; - promote meaningful upward mobility; - reduce the harms of low-paying, temporary, and/or gig jobs that immigrants are often forced to take; - and foster the development of employment and industry alternatives for individuals who lose their jobs to AI?
 Answer: I would strongly, and innovatively, support the economic wellbeing of Colorado’s immigrant community in two ways, both of which are vital.
 Strategies and assistance around business startups and access to loans will develop more effectively within the context of society-wide improvements and new innovations.
 Firstly, I’d invite economic leaders from all other ethnic minorities into this discussion.
@@ -768,25 +713,19 @@ They learned business from business and industry magazines.
 They learned computing with nothing more than a photo copy of a keyboard.
 In a short time, they excelled, won national and international awards, and became among South Africa’s most sought-after graduates by major corporations.
 It’s all about innovation, commitment and persistence.
-Section 5: Social Support & Civic Engagement
-In the face of a state budget crisis and severe federal funding cuts that acutely impact communities of color and linguistically diverse Coloradans, what steps would you take to restore and ensure vital supports related to:
-- Childcare (CCAP) – Answer: Sufficient and increased funding for CCAP will spontaneously result from my holistic economic development strategy for all Coloradans, and especially communities of color and those who are linguistically diverse.
-- Nutrition/food security (SNAP/TANF) – Answer: Improvements in nutritional value of food, and higher yields in organic crops and produce, will result from the application of coherence technologies to locally grown organic food.
-That will be combined with increased tax revenues from elevating rural and urban agriculture to both restore and improve vital supports for SNAP/TANF, with even better overall health outcomes.
-- Healthcare (including Medicaid, Cover All Coloradans, and OmniSalud) I would use whatever tools necessary to retrieve funds cut illegally or unethically.
+Section 5: Social Support & Civic Engagement In the face of a state budget crisis and severe federal funding cuts that acutely impact communities of color and linguistically diverse Coloradans, what steps would you take to restore and ensure vital supports related to: - Childcare (CCAP) – Answer: Sufficient and increased funding for CCAP will spontaneously result from my holistic economic development strategy for all Coloradans, and especially communities of color and those who are linguistically diverse. - Nutrition/food security (SNAP/TANF) – Answer: Improvements in nutritional value of food, and higher yields in organic crops and produce, will result from the application of coherence technologies to locally grown organic food.
+That will be combined with increased tax revenues from elevating rural and urban agriculture to both restore and improve vital supports for SNAP/TANF, with even better overall health outcomes. - Healthcare (including Medicaid, Cover All Coloradans, and OmniSalud) I would use whatever tools necessary to retrieve funds cut illegally or unethically.
 I would also develop a new model.
 The limited, profit-driven model of modern western medical care is part of the overall problem.
 As the saying goes, “pharmaceutical companies don’t create cures, they create customers.” Efficacious and more affordable natural systems of healthcare, which are much more prevention-oriented, must play a bigger role in all healthcare coverage by the private and public sector.
-More health-promoting components, herbs and spices can be produced within Colorado to keep revenue circulating and multiplying within the state.
-- Affordable housing – Answer: The affordable housing crisis is another consequence of our profit-driven capitalistic economy.
+More health-promoting components, herbs and spices can be produced within Colorado to keep revenue circulating and multiplying within the state. - Affordable housing – Answer: The affordable housing crisis is another consequence of our profit-driven capitalistic economy.
 Nobody sells residential real estate to the lowest bidder in support of affordable housing.
 My administration will identify or create innovative approaches to provide more affordable housing.
 Some of that will come from rethinking home construction altogether.
 That could mean “harvesting” construction materials from rural areas (agricultural hemp).
 It would probably mean removing obstacles to modular homes and apartment buildings, along with changes in building codes and zoning that allow for more diversity in building materials, while maintaining the necessary standards for construction, safety, utility hookups, etc.
 It could mean a new type of lending based on revenue that comes from more cost-effective solutions in the public and private sector.
-This is another area that would benefit from group thought and innovation.
-- Transportation – Answer: I would prevent the disposal of useable vehicles that are being destroyed simply because they don’t comply with emissions standards.
+This is another area that would benefit from group thought and innovation. - Transportation – Answer: I would prevent the disposal of useable vehicles that are being destroyed simply because they don’t comply with emissions standards.
 Highly affordable Colorado-based devices can make them achieve and exceed emission standards.
 That can create a “second life” for vehicles, that are serviced and marketed by immigrants, for low-income earners who can’t otherwise afford a vehicle.
 I would eliminate taxpayer funding of incentives and infrastructure for EVs since they aren’t needed to achieve air pollution reduction goals.
@@ -822,22 +761,20 @@ Answer - The primary thing I’d do is ensure that every non-English speaking re
 However, I would also work with the tech industry to make more advanced devices in Colorado that also serve as an immersion class in English, with incentives for increasing fluency.
 It could also be provided in the open market for English speaking residents to communicate with, and learn, non-English languages.
 As an exportable product, this would provide additional revenue to support programs and policies for refugees and immigrants.
-Closing
-Are there other immigration-related policies or positions you would support if elected governor?
+Closing Are there other immigration-related policies or positions you would support if elected governor?
 Is there anything you would like to add?
 The major issues have been covered well.
 There’s one other thing to add.
 The challenge now is to get all candidates answers to the voters.
 To best achieve that, it would help greatly if the Spring Institute and its allies could compel news outlets and educational institutions in Colorado to obey laws related to elections, by not engaging in partisan politics.
-- Numerous 501(c)(3) non-profits, including churches, universities, and community news outlets, are hosting forums and debates, or publicizing ‘voter guides’, that I believe illegally exclude Unity Party candidates.
-The IRS states on its website FAQ page that such organizations must provide, “…an equal opportunity to participate to all political candidates seeking the same office.’
-- Commercial TV and radio stations are violating federal law. 47 USC 315 states: ‘If any licensee shall permit any person who is a legally qualified candidate for any public office to use a broadcasting station, he shall afford equal opportunities to all other such candidates for that office in the use of such broadcasting station…”
-As far as I can tell, no legal basis exists for these various entities to exclude minor party candidates from these election opportunities, when major party candidates have been given such opportunities for the same office.
+Numerous 501(c)(3) non-profits, including churches, universities, and community news outlets, are hosting forums and debates, or publicizing ‘voter guides’, that I believe illegally exclude Unity Party candidates.
+The IRS states on its website FAQ page that such organizations must provide, “…an equal opportunity to participate to all political candidates seeking the same office.’ Commercial TV and radio stations are violating federal law.
+47 USC 315 states: ‘If any licensee shall permit any person who is a legally qualified candidate for any public office to use a broadcasting station, he shall afford equal opportunities to all other such candidates for that office in the use of such broadcasting station…” As far as I can tell, no legal basis exists for these various entities to exclude minor party candidates from these election opportunities, when major party candidates have been given such opportunities for the same office.
 At the time of this writing, I’m thinking specifically of several news outlets and universities out of many entities that seem to be violating the law.
 Whatever their reasons are for excluding minor party candidates, the end result is that voters are being denied opportunities to learn about new solutions that are not being offered by the major parties.
 I urge the Spring Institute, CIRC and RACC to urge these entities to comply with election laws.
 Otherwise, voters will be denied potentially valuable solutions, regardless of who they vote for.
 I’m grateful for the Spring Institute, CIRC and RACC for being a model for fair elections and seeking the best solutions from all candidates.
 Thank you!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # jeffpeckman.com - All Rights Reserved.
+Powered by

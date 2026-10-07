@@ -1,3 +1,4 @@
+Email Us Volunteer Donate Experience Leadership Issues & Approach Why David is Running How to Vote News Experience & Qualifications Leadership & Service Issues & Approach Why David is Running How to Vote News and Press Volunteer Donate Email Us Who Are We, Arizona?
 Who are we?
 Are we a state where veterans sleep on the street, or one where service is honored with care and dignity?
 Are we a place where seniors spend their later years worrying about bills, or one where a lifetime of work is respected and supported?
@@ -8,7 +9,7 @@ These questions define who we are.
 And right now, people across Arizona are asking them.
 They don’t want to argue; they want to believe in something again.
 Arizona has always been different.
-We are State 48, one of the youngest states in the nation.
+We are State 48 , one of the youngest states in the nation.
 We are still, in many ways, a frontier.
 Not in the sense of being undeveloped, but in the sense that our future is still being shaped.
 The choices we make today will define what Arizona becomes for generations.
@@ -16,11 +17,10 @@ That comes with both risk and responsibility.
 Because on the frontier, no one survives alone.
 We succeed or fail together.
 There’s a set of principles often referred to as the Code of the West.
-They aren’t laws, but they are expectations:
-- Take care of your neighbors.
-- Do what’s right even when it’s hard.
-- Keep your word.
-- Show up when it matters.
+They aren’t laws, but they are expectations: Take care of your neighbors.
+Do what’s right even when it’s hard.
+Keep your word.
+Show up when it matters.
 Those ideas still resonate here, even if we don’t always say them out loud.
 They reflect something deeper about Arizona: a belief that people matter, that communities matter, and that responsibility isn’t optional.
 But when people look at the current political environment, they don’t see those values reflected.
@@ -62,3 +62,9 @@ It means contributing, showing up, and being part of something larger than ourse
 We believe in building communities, businesses, and systems that last, not in tearing things down for the sake of winning an argument.
 And we believe that the future of Arizona should be defined by what we choose to create together, not by the divisions that pull us apart.
 But whether it stays that way is up to us.
+LinkedIn Facebook Instagram TikTok X Email Us © David Scott for LD10 Thank you for Putting David Scott on the Ballot David has submitted his petition signatures.
+Thank you so much for providing your support.
+Get Involved This campaign is built by people who believe District 10 deserves thoughtful, responsible representation.
+Volunteers help in many ways, including: Canvassing and voter outreach Phone and text support Hosting small community gatherings Helping at events Supporting behind-the-scenes campaign work Volunteer Support an Independent Campaign in District 10 David Scott is not backed by a party machine.
+Contributions help fund ballot access, voter outreach, and community engagement across District 10.
+Donate Menu

@@ -1,6 +1,5 @@
-Back to All Events
-Join Anthony at the Kent County Coffee Hour at the Caledonia Biggby, 6426 100th St SE!
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Kent County Coffee Hour - Caledonia Saturday, February 28, 2026 11:00 AM 1:00 PM Biggby Coffee Caledonia 6426 100th Street Southeast Caledonia, MI, 49316 United States (map) Google Calendar ICS Join Anthony at the Kent County Coffee Hour at the Caledonia Biggby, 6426 100th St SE!
 Share your concerns, learn about the campaign, and join our movement for all working people!
-Next
-Next
-March 7
+Next Next March 7 Battle Creek Coffee Hour with Jim Haadsma Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

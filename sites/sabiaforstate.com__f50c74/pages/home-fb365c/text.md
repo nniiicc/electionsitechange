@@ -1,4 +1,4 @@
-As a veteran and entrepreneur my days have been spent protecting the lives and property of others.
+Home Meet Joseph Issues News Volunteer Contribute As a veteran and entrepreneur my days have been spent protecting the lives and property of others.
 I have been a fighter and a defender of others.
 Never did I anticipate my life's experiences being as relevant as they are now.
 It is known that our way of life is under attack here in the valley.
@@ -17,10 +17,10 @@ So come meet me and learn what I believe to be true regarding our beautiful vall
 Let me share how I approach conflicts and why I'm interested in protecting our way of life from these non-environmental friendly businesses that threaten us.
 Share with me your concerns so I know how best to represent you when elected!
 Time is of the essence ~ So let's team up!
-With your assistance, a win on November 3rd and after being sworn into office I'll work daily to restore the founding principles of the Pennsylvania Constitution, paying special attention to Article I, Section 27,
-"The people have a right to clean air, pure water, and to the preservation of the natural, scenic, historic and esthetic values of the environment.
+With your assistance, a win on November 3rd and after being sworn into office I'll work daily to restore the founding principles of the Pennsylvania Constitution, paying special attention to Article I, Section 27, " The people have a right to clean air, pure water, and to the preservation of the natural, scenic, historic and esthetic values of the environment.
 Pennsylvania's public natural resources are the common property of all the people, including generations yet to come.
-As trustee of these resources, the Commonwealth shall conserve and maintain them for the benefit of all the people."
-Thank you for your support.
+As trustee of these resources, the Commonwealth shall conserve and maintain them for the benefit of all the people." Thank you for your support.
 Joseph J.
 Sabia Jr.
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Events Contribute Volunteer Yard Signs Voter Information Contact Home Privacy Policy Paid For By The Friends Of Joe Sabia Powered by CampaignPartner.com - Political Websites Home Meet Joseph Issues News Volunteer Contribute Events Contact Yard Signs Voter Information Privacy Policy Close Menu

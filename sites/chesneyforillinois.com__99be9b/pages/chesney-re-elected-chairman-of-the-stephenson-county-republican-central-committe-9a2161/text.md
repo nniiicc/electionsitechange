@@ -1,6 +1,4 @@
-CHESNEY RE-ELECTED CHAIRMAN OF THE STEPHENSON COUNTY REPUBLICAN CENTRAL COMMITTEE
-Chesney Re-Elected Chairman of the Stephenson County Republican Central Committee
-Freeport—Andrew Chesney was once again elected to the position of Chairman of the Stephenson County Republican Central Committee.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY CHESNEY RE-ELECTED CHAIRMAN OF THE STEPHENSON COUNTY REPUBLICAN CENTRAL COMMITTEE Chesney Re-Elected Chairman of the Stephenson County Republican Central Committee Freeport—Andrew Chesney was once again elected to the position of Chairman of the Stephenson County Republican Central Committee.
 He received the unanimous support of members of the Central Committee which is comprised of locally elected Precinct Committeemen.
 The vote took place at the Stephenson County Republican Convention which occurs every two years following the Primary elections.
 “I am honored to once again having been chosen to be the Chairman of the Stephenson County Republican Central Committee.
@@ -17,4 +15,4 @@ A native of Shannon, Illinois, Chesney is the current alderman at large in the C
 He is also the current Chairman of the Stephenson County Republican Central Committee.
 He and his wife Kelly live in Freeport and share their home with Nicholas who Andrew met through the Big Brother program.
 The 89th Illinois House District is comprised of Stephenson, Jo Daviess, and portions of Carroll, Whiteside, Ogle and Winnebago Counties.
-###
+### #© Paid for by Chesney for Illinois    

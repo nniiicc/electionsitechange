@@ -1,3 +1,6 @@
-The opioid and fentanyl crisis has hit our communities hard.
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery News Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact Washington State House Democrats Leavitt’s Lucas Petty Act passes the House unanimously February 9, 2024 The opioid and fentanyl crisis has hit our communities hard.
 Sadly, a whopping 68 percent of overdose deaths in Washington are from opioids and fentanyl.
 Even more alarming, our state had the second-highest percentage increase—65 percent—in deaths from fentanyl poisoning over a one-year period.
+Related reading on marileavitt.com More on public health and student safety legislation: 890 assaults against staff, 9 months, 1 hospital.
+That’s… More on public health and student safety legislation: Washington Senate unanimously passes anti-hazing bill More on public health and student safety legislation: ‘I miss Sam every day’: Sam Martinez’s mother reacts as Inslee… More on public health and student safety legislation: Inslee signs law intended to reduce hazing incidents after WSU… For official reference, see Washington State Department of Health and Office of the Governor of Washington .
+Read More « Previous: House passes Leavitt bill to accelerate construction of affordable workforce housing. » Next: House passes Leavitt bills to support National Guard families and veterans with disabilities

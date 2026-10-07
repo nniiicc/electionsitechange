@@ -1,36 +1,5 @@
-Committed to Promoting
-Family Values
-Quality Education
-Fiscal Responsibility
-Limited Government
-Pro-Life
-Public Safety
-Pro-Business
-2nd Amendment Rights
-ABOUT CORY CRISWELL
-Meet Cory:
-Born, raised, and resides in Henry County.
+top of page Cory Criswell For State Representative District 54 Home Support Views About Events More Use tab to navigate through the menu items.
+SUPPORT GET ON BOARD HOOSIERS FOR CRISWELL DONATE Newsletter List FOLLOW US ON FACEBOOK Committed to Promoting Family Values Quality Education Fiscal Responsibility Limited Government ​ Pro-Life Public Safety Pro-Business 2nd Amendment Rights Views Support ABOUT CORY CRISWELL press to zoom image11 press to zoom image7 press to zoom press to zoom 1/9 Meet Cory: ​ Born, raised, and resides in Henry County.
 Criswell is married to his wife and Henry County native, Sabrina, and has two children.
-His unique experiences, leadership, relationships, and common-sense conservative approach, make him a very well-rounded candidate for the job of representing all citizens of the district.
-Education Background:
--Graduate of Shenandoah High School
--Anderson University (BA, Education)
--Ball State University (Masters, Education Administration)
-Professional Background:
--Educator, New Castle School Corporation
--Assistant Athletic Director, New Castle High School
--Varsity Assistant Boys Basketball Coach, New Castle High School
--Small business owner, Criswell Lawn Care
-Involvement:
--Free and Accepted Mason with Lewisville Lodge No. 72
--Fall Creek Township Advisory Board in Henry County
--Member, Blue River Church of the Nazarene
--Member, Indiana Farm Bureau
--Member, National Rifle Association
--Referee, Various youth and adult sports leagues
-About the District:
-State Representative, District 54
--Henry County (all but Stoney Creek Township)
--Rush County (all but Richland Township)
--Hancock County (Blue River Township only)
--Shelby County (Hanover Township only)
+His unique experiences, leadership, relationships, and common-sense conservative approach, make him a very well-rounded candidate for the job of representing all citizens of the district. ​ Education Background: ​ -Graduate of Shenandoah High School -Anderson University (BA, Education) -Ball State University (Masters, Education Administration) Professional Background: ​ -Educator, New Castle School Corporation -Assistant Athletic Director, New Castle High School -Varsity Assistant Boys Basketball Coach, New Castle High School -Small business owner, Criswell Lawn Care ​ Involvement: ​ -Free and Accepted Mason with Lewisville Lodge No.
+72 -Fall Creek Township Advisory Board in Henry County -Member, Blue River Church of the Nazarene -Member, Indiana Farm Bureau -Member, National Rifle Association -Referee, Various youth and adult sports leagues About the District: ​ State Representative, District 54 -Henry County (all but Stoney Creek Township) -Rush County (all but Richland Township) -Hancock County (Blue River Township only) -Shelby County (Hanover Township only) About Events View Our Upcoming Events EVENTS Cory Criswell - For State Representative - - District 54 - HOOSIERSFORCRISWELL@GMAIL.COM ​ © # by Hoosiers For Criswell Paid for by Hoosiers for Criswell bottom of page

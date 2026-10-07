@@ -1,16 +1,11 @@
-- Primary Election is Thursday September 6, 2018!
-Polls open 7 am - 8 pm
-- General Election is Tuesday November 6, 2018!
-Polls open 7 am - 8 pm
-- Not sure where to vote?
+Primary Election is Thursday September 6, 2018!
+Polls open 7 am - 8 pm General Election is Tuesday November 6, 2018!
+Polls open 7 am - 8 pm Not sure where to vote?
 Have questions about the process?
 Go to iVote.De.Gov for answers to your questions!
-- Home |
-- About Sean |
-- Issues |
-- Legislation |
-- Endorsements |
-- Campaign News |
-- Gallery |
-- Resources |
-- Contact
+Contact Resources Gallery Campaign News Endorsements Legislation Issues About Sean Home Campaign Photo Gallery Mrs Lynn & Mike Hines Campaign Kickoff Party at Frazier's Justina Brewington Campaign Kickoff Party at Frazier's Sean & Mary Davis Campaign Kickoff Party at Frazier's Pat, Sean, Brian & Mrs Lynn Campaign Kickoff Party at Frazier's Sean & The Campaign Commitee Kenny Roach, Mike Hines, Stacey Delorenzo, Alexis Lynn, Justina Brewington, Teena Friend, Sean Lynn, John Maxwell, Jessica Maxwell, & Lori Harrison Campaign Kickoff Party at Frazier's Sean & Juan Collazo Campaign Kickoff Party at Frazier's Sean & Bonnie Snowberger Campaign Kickoff Party at Frazier's Stacey Delorenzo & Jessica Maxwell Campaign Kickoff Party at Frazier's Stacey Delorenzo & Mike Hines Campaign Kickoff Party at Frazier's Tim Slavin & Rueben Salters Campaign Kickoff Party at Frazier's Campaign Kickoff Party at Frazier's African American Festival Jessica Maxwell, Stacey Delorenzo, Sean Lynn, Justina Brewington & John Maxwell African American Festival Jessica Maxwell, Stacey Delorenzo & Rev.
+Rita Mishoe Paige African American Festival Brittany W.
+4th of July Parade Along the parade route 4th of July Parade Brittany W. & Kenny Roach 4th of July Parade Sean Lynn & Brittany W.
+4th of July Parade Along the parade route 4th of July Parade Along the parade route Front of Building Campaign Fundraiser at Bubba’s Stacey Delorenzo Campaign Fundraiser at Bubba’s Campaign Fundraiser at Bubba’s Campaign Fundraiser at Bubba’s Jessica Maxwell, Stacey Delorenzo Campaign Fundraiser at Bubba’s The Fabulous Bartenders Campaign Fundraiser at Bubba’s Sean Thanking Attendees Campaign Fundraiser at Bubba’s Campaign Fundraiser at Bubba’s Mike Hines Entertaining the Crowd Campaign Fundraiser at Bubba’s Campaign Fundraiser at Bubba’s Stacey Delorenzo, Kevin Roach, Jessica Maxwell Campaign Fundraiser at Bubba’s Sean & Mike Hines Campaign Fundraiser at Bubba’s Brian Lynn & Campaign Fundraiser at Bubba’s Campaign Manager Kevin Roach on the mic!
+Campaign Fundraiser at Bubba’s Donate Today!
+Home | About Sean | Issues | Legislation | Endorsements | Campaign News | Gallery | Resources | Contact © # Friends of Sean Lynn

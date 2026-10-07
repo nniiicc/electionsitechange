@@ -1,5 +1,8 @@
-My Campaign Message
-Human rights first.
+top of page This website was built on Wix.
+Create yours today.
+Get Started It don't mean a thing, if it ain't got that Swing!
+Home Blog Blank Page More Use tab to navigate through the menu items.
+Gary Swing for Progress Green Party of Arizona, 6th Congressional District Get in Touch Home: Welcome My Campaign Message Human rights first.
 Uphold the Kellogg-Briand Pact outlawing war.
 Abolish nuclear weapons.
 Reduce the military budget by 90%.
@@ -18,16 +21,17 @@ Adopt a parliamentary system.
 A chief executive with strictly limited authority would be selected by Congress, subject to removal by a majority vote of no confidence.
 Impeach and convict Trump, Vance, and their entire cabinet.
 Each generation should create its own constitution.
-Support a national initiative and referendum process, public campaign financing, campaign spending limits, and easy ballot access.
-Abolish ICE.
+Support a national initiative and referendum process, public campaign financing, campaign spending limits, and easy ballot access. ​ Abolish ICE.
 Support “fair trade” policies and freedom of migration.
 No border wall.
 Create a steady state economy based on environmental stability.
 Use pollution taxes to include environmental impacts in true cost pricing.
 Transition away from fossil fuels and nuclear energy to renewable energy sources.
-Protect public lands.
-Medicare for all.
+Protect public lands. ​ Medicare for all.
 Enact a universal basic income.
-Forgive student loan debt and subsidize higher education.
-Subsidize family planning programs at all levels.
+Forgive student loan debt and subsidize higher education. ​ Subsidize family planning programs at all levels.
 Pass federal legislation to secure abortion rights.
+Home: News Feed Gary Swing for Progress Platform Proportional Representation of Diverse Populations Supporting My Candidacy Contact Gary Swing theswingvote@yahoo.com (720) 357-4260 Submit Thanks for submitting!
+Subscribe Form Submit Thanks for submitting!
+Colyleft by Gary Swing.
+Created with Wix.com bottom of page

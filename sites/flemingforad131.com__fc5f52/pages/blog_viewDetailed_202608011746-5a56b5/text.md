@@ -1,20 +1,12 @@
-Campaign Donation Update
-The July 15, 2026 report was successfully filed with the NYS Public Campaign Finance Board on eligibility to receive matching funds.
+Top Fleming For AD131 Hope and success for all people!
+About Issues Events Blog Volunteer Voting Information Contact Donate Campaign Donation Update The July 15, 2026 report was successfully filed with the NYS Public Campaign Finance Board on eligibility to receive matching funds.
 As of today, I am $2,000 away from matching funds eligibility (75 donors/$4,000).
 I need at least 27 more in-district donors (this is a specific requirement) to donate in order for matching funds from the PCFB to kick in.
 Your donation will be matched up to 12:1 between $5 and $250.
-- The first $50 of a donation is matched at a 12-to-1 ratio. $50 becomes $50 + ($50*12) = $50 + $600 = $650
-- The next $51 to $150 is matched at a 9-to-1 ratio. $100 becomes $100 + [($50*12) + ($50*9)] = $100 + $600 + $450 = $1150
-- The next $151 to $250 is matched at an 8-to-1 ratio. $250 becomes $250 + [($50*12) + ($100*9) + ($100*8)] = $250 + $600 + $900 + $800 = $2,300
-Your contributions will enable the campaign to buy things such as postcards, yard signs, Facebook ads, business cards, and maintain the campaign website.
+The first $# of a donation is matched at a 12-to-1 ratio. $50 becomes $50 + ($50*12) = $50 + $600 = $650 The next $51 to $150 is matched at a 9-to-1 ratio. $100 becomes $100 + [($50*12) + ($50*9)] = $100 + $600 + $450 = $1150 The next $151 to $250 is matched at an 8-to-1 ratio. $250 becomes $250 + [($50*12) + ($100*9) + ($100*8)] = $250 + $600 + $900 + $800 = $2,300 Your contributions will enable the campaign to buy things such as postcards, yard signs, Facebook ads, business cards, and maintain the campaign website.
 Feel free to go to ActBlue https://secure.actblue.com/donate/phillip-fleming-1 or Bluespring Now https://www.bluespringnow.com/short/e069099978 to make a donation.
-If you want to send a check, mail it to:
-Fleming For AD131
-PO Box 128
-Geneva, NY 14456-7005
-The next disbursement deadline is August 12, 2026.
-And thank you all very much for giving!!
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#flemingforad131
-#november3rd2026
-Posted on 01 Aug 2026, 17:46 - Category: Campaign Donation Update
+If you want to send a check, mail it to: Fleming For AD131 PO Box 128 Geneva, NY 14456-7005 The next disbursement deadline is August 12, 2026.
+And thank you all very much for giving!! ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- #flemingforad131 #november3rd2026 Posted on 01 Aug 2026, 17:46 - Category: Campaign Donation Update Twitter Facebook LinkedIn Email Donate Volunteer Contact Latest Entries A WXXI-NPR article by By Rosemary Misdary, Published July 30, 2026 Finger Lakes Times op-ed on solar energy proposal in NY Shamieh Law and ICE Campaign Donation Update Back to Main Categories Campaign Donation Update Information News Connect With Us COUNTING DOWN TO Election Day Support the Campaign Events Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-23-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-06-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 09-23-2026 Read More...
+Help Us Win!
+Help us raise more money to win on Election Day.
+0 % $0 of $250000 Donate Now Facebook Privacy Terms Print Page Political advertisement paid for and approved by the candidate.

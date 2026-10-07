@@ -1,4 +1,3 @@
-- This event has passed.
-Middletown Springs House Party
-September 12 @ 3:00 pm - 5:00 pm
-After moving the books to the new library in Middletown Springs, come meet Jessica later in the afternoon and enjoy food, beverages, and hanging out with your neighbors.
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates « All Events This event has passed.
+Middletown Springs House Party September 12 @ 3:00 pm - 5:00 pm « Primary election Pawlet Geothermal Groundbreaking » After moving the books to the new library in Middletown Springs, come meet Jessica later in the afternoon and enjoy food, beverages, and hanging out with your neighbors.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: September 12 Time: 3:00 pm - 5:00 pm Venue 70 Spruce Knob Road 70 Spruce Knob Road Middletown Springs , VT 05757 + Google Map « Primary election Pawlet Geothermal Groundbreaking » Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

@@ -1,8 +1,6 @@
-I Stand with Israel
-October 11, 2023
-By State Rep.
-Mark Gillen (R-Berks)
-In the wake of Hamas’ well-coordinated and unprecedented terrorist attacks on Israel that have already left over 1,000 dead and over 1,500 wounded – mostly noncombatants – I stand with Israel, and I unequivocally condemn Hamas’ heinous actions.
+PA State Rep.
+Mark Gillen Serving PA's 128th Legislative District Subscribe Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact I Stand with Israel October 11, 2023 By State Rep.
+Mark Gillen (R-Berks) In the wake of Hamas’ well-coordinated and unprecedented terrorist attacks on Israel that have already left over 1,000 dead and over 1,500 wounded – mostly noncombatants – I stand with Israel, and I unequivocally condemn Hamas’ heinous actions.
 As a chairman of the House Veterans Affairs and Emergency Preparedness Committee, I find this situation absolutely appalling, as this was not an ordinary military scenario with trained soldiers engaged in mutual combat.
 Rather, Hamas intentionally targeted innocent people, including women, children, infants and the elderly, many of whom had no way of protecting themselves.
 This evil and cowardly assault again solidifies the illegitimacy of Hamas.
@@ -20,13 +18,7 @@ Those who have committed such deeds in 2023 must face swift justice.
 As the founder of the Berks Military History Museum and the planned Holocaust Museum, I am incensed by these abhorrent events, which help amplify the importance of having a firm understanding of the horrors of these brutalities and the realization that Hamas has no interest in committing to a peaceful coexistence with Israel.
 Looking forward, if Palestinian classrooms teach that a particular race or religion is to be treated with abject contempt, suspicion and condemnation, it is not a quantum leap to understand why its students would find it reasonable, even heroic, to harm these groups in vicious, barbaric ways.
 Meanwhile, the public statements by the Palestinian authorities that profess their commitment to a “just peace” and a “two-state solution,” are denuded by the reality of their murderous rampage.
-Representative Mark Gillen
-128th Legislative District
-Pennsylvania House of Representatives
-Media Contact: Jacob Misal
-717-260-6365
-JMisal@pahousegop.com
-RepGillen.com
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Representative Mark Gillen 128th Legislative District Pennsylvania House of Representatives Media Contact: Jacob Misal 717-260-6365 JMisal@pahousegop.com RepGillen.com Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations FLYING HILLS (CUMRU TWP.) 29 Village Center Drive Suite A-7 Reading, PA 19607 610-775-5130 AMITY TOWNSHIP Amity Township Building 2004 Weavertown Road Douglassville, PA 19518 610-385-0704 CAPITOL 18 East Wing PO Box 202128 Harrisburg, PA 17120-2128 717-787-8550 TTY: 855-282-0614 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact

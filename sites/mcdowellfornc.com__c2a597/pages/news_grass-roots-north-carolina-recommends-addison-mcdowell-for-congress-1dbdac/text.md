@@ -1,13 +1,10 @@
-Grass Roots North Carolina Recommends Addison McDowell for Congress
-2nd Amendment Champions Back McDowell As the Best Candidate to Defend Gun Rights
-February 7, 2024
-(Arcadia) – Grass Roots North Carolina (GRNC) today announced their support for Addison McDowell for Congress and encouraged their members to vote for Addison McDowell on March 5 in the Republican Primary in NC-06.
+0 Skip to Content ISSUES NEWS SHOP DONATE Open Menu Close Menu Open Menu Close Menu ISSUES NEWS SHOP DONATE ISSUES NEWS SHOP DONATE Grass Roots North Carolina Recommends Addison McDowell for Congress Feb 7 Written By Kate Karnes 2nd Amendment Champions Back McDowell As the Best Candidate to Defend Gun Rights February 7, 2024 (Arcadia) – Grass Roots North Carolina (GRNC) today announced their support for Addison McDowell for Congress and encouraged their members to vote for Addison McDowell on March 5 in the Republican Primary in NC-06.
 GRNC joins other conservative leaders and law enforcement officers in their authentic support of McDowell.
 McDowell has also been endorsed by President Donald Trump, Senator Ted Budd, the North Carolina Police Benevolent Association, the North Carolina Troopers Association, and local conservative leaders across North Carolina.
 “Addison McDowell is the candidate in this race who will best defend our God-given right to keep and bear arms and is hands down the most pro-Second Amendment candidate in this Primary, which is why we recommend him to the people of North Carolina 6th Congressional District” said GRNC President Paul Valone.
 “Joe Biden and gun grabbing Democrats are eager to rob us of our Constitutional right to own firearms,” said McDowell.
 “I’m a supporter of the 2nd Amendment and no one will fight harder than me to protect gun rights.
 GRNC are among the hardest working grassroots activists, and I am very grateful for their support of my campaign for Congress.
-I look forward to working with GRNC to defend the 2nd Amendment from the AOC crowd in Congress.”
-Founded in 1994, Grass Roots North Carolina is an all-volunteer 501(c)(4) organization dedicated to preserving individual liberties guaranteed by the U.S.
+I look forward to working with GRNC to defend the 2nd Amendment from the AOC crowd in Congress.” Founded in 1994, Grass Roots North Carolina is an all-volunteer 501(c)(4) organization dedicated to preserving individual liberties guaranteed by the U.S.
 Constitution and Bill of Rights with emphasis on the Second Amendment right to keep and bear arms.
+MORE NEWS Kate Karnes Previous Previous President Donald Trump Tells NC-06 Voters Why They Should Vote for Addison McDowell Next Next North Carolina Troopers Association Endorses Addison McDowell for Congress Paid for by McDowell for Congress 4170 Clemmons Rd, #291, Clemmons, NC 27012 Privacy Policy

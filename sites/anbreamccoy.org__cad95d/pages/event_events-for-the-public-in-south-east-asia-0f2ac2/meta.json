@@ -1,10 +1,11 @@
 {
  "description": "This event is free and open to the public",
  "final_url": "https://anbreamccoy.org/event/events-for-the-public-in-south-east-asia/",
- "paid_for_by": null,
+ "fingerprint": "0c2352eadd8c0e053f97cc24943a75e4a49bf6a9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events for the public in South East Asia - Anbrea McCoy Delegate",
  "years_mentioned": [
-  "2024",
-  "2026"
+  "2024"
  ]
 }

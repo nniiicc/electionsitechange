@@ -1,12 +1,10 @@
-Making Sense of Cancer and Your Water
-With Iowa cancer rates second in the nation and growing, cancer is at the top of the list of issues for rural Iowans who have cancer or are dealing with cancer.
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News Making Sense of Cancer and Your Water Apr 15 3 min read With Iowa cancer rates second in the nation and growing, cancer is at the top of the list of issues for rural Iowans who have cancer or are dealing with cancer.
 This makes perfect sense to me.
 Iowa water quality, or lack thereof, is top of the list of issues for Iowans who aren’t yet dealing with cancer.
 This also makes sense.
 Iowans are now seeing the correlation between cancer and exposure to contaminants in our water.
 How many family members, friends, neighbors and acquaintances have you known and said, or heard said, that he or she didn’t smoke, was fit enough, and yet they have or had cancer?
-Fortunately, as
-cancer becomes more treatable, Iowans with cancer are living longer.
+Fortunately, as cancer becomes more treatable, Iowans with cancer are living longer.
 Unfortunately, many more Iowans will likely have cancer before we get the water issues corrected.
 Iowans know it is not just contaminants in our water that cause cancer and other disorders and diseases.
 It is also lifestyle choices like diet, exercise, and smoking.
@@ -43,5 +41,7 @@ My farming friends and water conservationists, as well as many other Iowans are 
 They invite you to join.
 I can’t wait to hear from you elected representatives, Farm Bureau, FSC, DNR and water suppliers.
 I’ll await your call.
-Bill Owen (712) 571-8544
-Candidate, House D11
+Bill Owen (712) 571-8544 billowenforiowahouse@gmail.com Candidate, House D11 News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids USA!
+USA!
+USA!
+OMG a Democrat PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

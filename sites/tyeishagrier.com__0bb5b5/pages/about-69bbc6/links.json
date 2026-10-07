@@ -1,8 +1,30 @@
 [
-"https://actionnetwork.org/forms/volunteer-with-tye",
-"https://secure.actblue.com/donate/tyeisha-grier-1",
-"https://tyeishagrier.com/",
-"https://tyeishagrier.com/about",
-"https://tyeishagrier.com/contact",
-"https://tyeishagrier.com/policy-platform"
+{
+"text": "About",
+"href": "https://www.tyeishagrier.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tyeishagrier.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tyeisha-grier-1"
+},
+{
+"text": "Home",
+"href": "https://www.tyeishagrier.com"
+},
+{
+"text": "Policy Platform",
+"href": "https://www.tyeishagrier.com/policy-platform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://actionnetwork.org/forms/volunteer-with-tye/"
+},
+{
+"text": "[image: Black Vintage Blacksmith Logo_edited.jpg]",
+"href": "https://www.tyeishagrier.com"
+}
 ]

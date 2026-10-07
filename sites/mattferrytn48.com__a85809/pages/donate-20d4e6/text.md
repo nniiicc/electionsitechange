@@ -1,3 +1,3 @@
 Add your promotional text...
-If you want to fight back against this extremist Republican agenda and elect a Representative that truly gives a voice to the people, please donate to Matt Ferry for State House District 48 in 2026.
-Paid for by the Campaign to Elect Matt Ferry Veronica Bosnak, Treasurer
+Home Get Involved Issues Public Education Common Sense Gun Laws Women's Reproductive Rights Access to Healthcare Widening Economic Divide Public Transportation About Matt Donate Home Get Involved Issues Public Education Common Sense Gun Laws Women's Reproductive Rights Access to Healthcare Widening Economic Divide Public Transportation About Matt Donate Tennessee Deserves Better If you want to fight back against this extremist Republican agenda and elect a Representative that truly gives a voice to the people, please donate to Matt Ferry for State House District 48 in 2026.
+Donate Today Paid for by the Campaign to Elect Matt Ferry Veronica Bosnak, Treasurer

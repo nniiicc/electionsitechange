@@ -1,7 +1,9 @@
 {
  "description": "News articles",
  "final_url": "https://www.bowman2026.com/news",
- "paid_for_by": "Paid for by Bowman2026 &nbsp; bottom of page",
+ "fingerprint": "5ad12c998db05dcd06aa5fa622322bdb90825db5",
+ "format": 3,
+ "paid_for_by": "Paid for by Bowman2026 bottom of page",
  "title": "News | Bowman for Congress",
  "years_mentioned": [
   "2026"

@@ -1,15 +1,50 @@
 [
-"https://herzigforcongress.com/",
-"https://herzigforcongress.com/about-hillary",
-"https://herzigforcongress.com/blank",
-"https://herzigforcongress.com/blank-1",
-"https://herzigforcongress.com/blank-2",
-"https://herzigforcongress.com/blank-3",
-"https://herzigforcongress.com/donate",
-"https://herzigforcongress.com/event-list",
-"https://herzigforcongress.com/get-involved",
-"https://herzigforcongress.com/items",
-"https://herzigforcongress.com/subscribe",
-"https://winred.com/support",
-"https://wix.com/"
+{
+"text": "About Hillary",
+"href": "https://www.herzigforcongress.com/about-hillary"
+},
+{
+"text": "Donate",
+"href": "https://www.herzigforcongress.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.herzigforcongress.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.herzigforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.herzigforcongress.com"
+},
+{
+"text": "Join",
+"href": "https://www.herzigforcongress.com/donate"
+},
+{
+"text": "Subscribe",
+"href": "https://www.herzigforcongress.com/subscribe"
+},
+{
+"text": "Watch Videos",
+"href": "https://www.herzigforcongress.com/items"
+},
+{
+"text": "Welcome",
+"href": "https://www.herzigforcongress.com"
+},
+{
+"text": "[image: Herzig for Congress Logo]",
+"href": "https://www.herzigforcongress.com"
+},
+{
+"text": "https://winred.com/support/",
+"href": "https://winred.com/support/"
+},
+{
+"text": "support@winred.com",
+"href": "mailto:support@winred.com"
+}
 ]

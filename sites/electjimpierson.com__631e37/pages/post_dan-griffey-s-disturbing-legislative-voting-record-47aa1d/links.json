@@ -1,29 +1,130 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=1308&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1321&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1498&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1540&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1686&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1821&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1971&Year=2025",
-"https://electjimpierson.com/",
-"https://electjimpierson.com/about",
-"https://electjimpierson.com/blog",
-"https://electjimpierson.com/calendar",
-"https://electjimpierson.com/endorsements",
-"https://electjimpierson.com/feedback",
-"https://electjimpierson.com/newsletters",
-"https://electjimpierson.com/platform",
-"https://electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief",
-"https://electjimpierson.com/post/private-interests-public-office",
-"https://electjimpierson.com/post/raid-on-the-police-and-fire-pensions",
-"https://electjimpierson.com/post/stand-back-25-or-get-arrested-by-ice",
-"https://electjimpierson.com/volunteer",
-"https://legiscan.com/WA/bill/HB1046/2025",
-"https://legiscan.com/WA/bill/HB1585/2025",
-"https://legiscan.com/WA/bill/HB1802/2025",
-"https://legiscan.com/WA/pending/house-community-safety-committee/id/4994",
-"https://legiscan.com/WA/pending/house-state-government-tribal-relations-committee/id/3819",
-"https://secure.actblue.com/donate/jim-pierson-1",
-"https://sound-motion.com/blog/f/a-look-at-rep-couture%E2%80%99s-legislative-sponsorship-record"
+{
+"text": "1680",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1821&Year=2025"
+},
+{
+"text": "1686",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1686&Year=2025"
+},
+{
+"text": "1971",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1971&Year=2025"
+},
+{
+"text": "About",
+"href": "https://www.electjimpierson.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Calendar",
+"href": "https://www.electjimpierson.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jim-pierson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electjimpierson.com/endorsements"
+},
+{
+"text": "HB 1046",
+"href": "https://legiscan.com/WA/bill/HB1046/2025"
+},
+{
+"text": "HB 1540",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1540&Year=2025"
+},
+{
+"text": "HB 1585 (2025)",
+"href": "https://legiscan.com/WA/bill/HB1585/2025"
+},
+{
+"text": "HB 1802 (2025)",
+"href": "https://legiscan.com/WA/bill/HB1802/2025"
+},
+{
+"text": "Home",
+"href": "https://www.electjimpierson.com"
+},
+{
+"text": "House Community Safety Committee",
+"href": "https://legiscan.com/WA/pending/house-community-safety-committee/id/4994"
+},
+{
+"text": "House State Government & Tribal Relations Committee",
+"href": "https://legiscan.com/WA/pending/house-state-government-tribal-relations-committee/id/3819"
+},
+{
+"text": "More Seniors Qualify for Property Tax Relief.",
+"href": "https://www.electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief"
+},
+{
+"text": "Newsletters",
+"href": "https://www.electjimpierson.com/newsletters"
+},
+{
+"text": "Platform",
+"href": "https://www.electjimpierson.com/platform"
+},
+{
+"text": "Private Interests, Public Office",
+"href": "https://www.electjimpierson.com/post/private-interests-public-office"
+},
+{
+"text": "Raid on the Police and Fire Pensions?",
+"href": "https://www.electjimpierson.com/post/raid-on-the-police-and-fire-pensions"
+},
+{
+"text": "SHB 1308",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1308&Year=2025"
+},
+{
+"text": "SHB 1321",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1321&Year=2025"
+},
+{
+"text": "SHB 1498",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1498&Year=2025"
+},
+{
+"text": "See All",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Stand back 25'",
+"href": "https://www.electjimpierson.com/post/stand-back-25-or-get-arrested-by-ice"
+},
+{
+"text": "Travis Couture",
+"href": "https://sound-motion.com/blog/f/a-look-at-rep-couture%E2%80%99s-legislative-sponsorship-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electjimpierson.com/volunteer"
+},
+{
+"text": "Voter Feedback",
+"href": "https://www.electjimpierson.com/feedback"
+},
+{
+"text": "[image: More Seniors Qualify for Property Tax Relief.]",
+"href": "https://www.electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief"
+},
+{
+"text": "[image: Private Interests, Public Office]",
+"href": "https://www.electjimpierson.com/post/private-interests-public-office"
+},
+{
+"text": "[image: Raid on the Police and Fire Pensions?]",
+"href": "https://www.electjimpierson.com/post/raid-on-the-police-and-fire-pensions"
+}
 ]

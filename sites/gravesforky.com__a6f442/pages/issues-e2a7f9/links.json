@@ -1,11 +1,38 @@
 [
-"https://facebook.com/gravesforky",
-"https://gravesforky.com/",
-"https://gravesforky.com/cart",
-"https://gravesforky.com/contact",
-"https://gravesforky.com/district",
-"https://gravesforky.com/issues",
-"https://gravesforky.com/meet-david",
-"https://instagram.com/gravesforky",
-"https://secure.actblue.com/donate/gravesforky"
+{
+"text": "0",
+"href": "https://www.gravesforky.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.gravesforky.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/gravesforky"
+},
+{
+"text": "District Map",
+"href": "https://www.gravesforky.com/district"
+},
+{
+"text": "Meet David",
+"href": "https://www.gravesforky.com/meet-david"
+},
+{
+"text": "The Issues",
+"href": "https://www.gravesforky.com/issues"
+},
+{
+"text": "[image: David Graves for Kentucky]",
+"href": "https://www.gravesforky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gravesforky"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gravesforky"
+}
 ]

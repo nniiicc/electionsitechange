@@ -1,30 +1,18 @@
 Vote Nic Cravillion for Wisconsin on November 3, 2026!
-Army Veteran and Jacque Aide Joins GOP Field for Open Northeast Wisconsin Seat.
-Read More
-Nic Cravillion gave over 700 nomination signatures to the Wisconsin Elections Commission (WEC) last Friday from residents across Wisconsin’s 1st Senate District.
-Read More
-Bales endorsed U.S.
+Home About Get Involved Endorsements Priorities News & Media District Contact More Home About Get Involved Endorsements Priorities News & Media District Contact DONATE Home About Get Involved Endorsements Priorities News & Media District Contact DONATE NIC IN THE NEWS New Franken Veteran Announces Run for 1st Senate District New Franken Veteran Announces Run for 1st Senate District New Franken Veteran Announces Run for 1st Senate District Army Veteran and Jacque Aide Joins GOP Field for Open Northeast Wisconsin Seat.
+Read More 1st District Senate Candidate Submits Signatures New Franken Veteran Announces Run for 1st Senate District New Franken Veteran Announces Run for 1st Senate District Nic Cravillion gave over 700 nomination signatures to the Wisconsin Elections Commission (WEC) last Friday from residents across Wisconsin’s 1st Senate District.
+Read More Senate Candidate Exits Race, Endorses Cravillion New Franken Veteran Announces Run for 1st Senate District Bales endorsed U.S.
 Army veteran Nic Cravillion, the current district director for state Sen.
 Andre Jacque.
-Read More
-Cravillion signed a Taxpayer Protection Pledge, which says he will oppose and vote against all efforts to increase taxes.
-Read More
-Kewaunee County Sheriff Matt Joski has officially endorsed Nic Cravillion as he runs for office in the 1st Senate District.
-Read More
-Joe Giganti interviews State Senate candidate Nic Cravillion about his campaign and vision for Northeast Wisconsin.
-Listen Here
-The Wisconsin REALTORS® Association has announced its backing of Republican candidate Nic Cravillion to take over for the retiring André Jacque.
-Read More
-Nic Cravillion announced today that he has received the endorsement of Pro-Life Wisconsin, one of the leading pro-family advocacy groups in the state.
-Read More
-The Dairy Business Association, Wisconsin’s leading dairy advocacy group, endorses Wisconsin Senate District 1 candidate Nic Cravillion in the upcoming Fall Election.
-Read More
-Nic Cravillion has won the Republican nomination for Wisconsin’s 1st Senate District in a field of four candidates.
-Read More
-Nic Cravillion, Republican candidate for Wisconsin’s First Senate District, has received the endorsement of Brown County Sheriff Todd Delain.
-Read More
-Paid for by Nic Cravillion for Wisconsin
-Use of military rank, job titles, uniforms, and photographs in this campaign is for identification purposes only and does not imply endorsement by the Department of Defense, the United States Army, or the Wisconsin Army National Guard.
-Copyright © 2026 Nic Cravillion for Wisconsin - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Read More Senate Candidate Signs No Tax Increase Pledge Cravillion signed a Taxpayer Protection Pledge, which says he will oppose and vote against all efforts to increase taxes.
+Read More Kewaunee County Sheriff Endorses State Senate Candidate Cravillion Interview with Joe Giganti on The Regular Joe Show Kewaunee County Sheriff Matt Joski has officially endorsed Nic Cravillion as he runs for office in the 1st Senate District.
+Read More Cravillion Interview with Joe Giganti on The Regular Joe Show Cravillion Interview with Joe Giganti on The Regular Joe Show Joe Giganti interviews State Senate candidate Nic Cravillion about his campaign and vision for Northeast Wisconsin.
+Listen Here Wisconsin Realtors Back Local Republican Candidate for Senate Wisconsin Realtors Back Local Republican Candidate for Senate The Wisconsin REALTORS® Association has announced its backing of Republican candidate Nic Cravillion to take over for the retiring André Jacque.
+Read More Pro-Life Wisconsin endorses Nic Cravillion for State Senate Wisconsin Realtors Back Local Republican Candidate for Senate Nic Cravillion announced today that he has received the endorsement of Pro-Life Wisconsin, one of the leading pro-family advocacy groups in the state.
+Read More Dairy Business Association endorses Nic Cravillion for State Senate The Dairy Business Association, Wisconsin’s leading dairy advocacy group, endorses Wisconsin Senate District 1 candidate Nic Cravillion in the upcoming Fall Election.
+Read More Cravillion Wins Republican Primary for Wisconsin Senate Nic Cravillion has won the Republican nomination for Wisconsin’s 1st Senate District in a field of four candidates.
+Read More Brown County Sheriff Endorses Cravillion for State Senate Brown County Sheriff Endorses Cravillion for State Senate Nic Cravillion, Republican candidate for Wisconsin’s First Senate District, has received the endorsement of Brown County Sheriff Todd Delain.
+Read More Press Releases Sheriff Delain Endorses Cravillion 09.28.26 (pdf) Download Clean Wisconsin Endorses Cravillion 09.21.26 (pdf) Download Volunteers for Agriculture Endorses Cravillion 09.04.26 (pdf) Download WRTL Endorses Cravillion 09.02.26 (pdf) Download Cravillion Wins GOP Primary 8.12.26 (pdf) Download Senator Jacque Endorses Cravillion 08.04.26 (pdf) Download Lasee and Bies Endorse Cravillion 7.27.26 (pdf) Download Cravillion Earns Endorsements from Local Leaders Throughout the First Senate Distrcit 7.21.26 (pdf) Download DBA Endorses Cravillion for State Senate 7.20.26 (pdf) Download Pro-Life WI Endorses Cravillion for State Senate 7.08.26 (pdf) Download WRA Endorses Cravillion for State Senate 7.07.26 (pdf) Download Matt Joski Endorses Nic Cravillion 6.15.26 (pdf) Download Cravillion Signs No Tax Increase Pledge 6.03.26 (pdf) Download Cravillion First to Turn in Nomination Signatures 5.27.26 (pdf) Download Cravillion Announcement 5.04.26 (pdf) Download Nic Cravillion for Wisconsin P.O.
+Box 112, New Franken, WI 54229 Paid for by Nic Cravillion for Wisconsin Use of military rank, job titles, uniforms, and photographs in this campaign is for identification purposes only and does not imply endorsement by the Department of Defense, the United States Army, or the Wisconsin Army National Guard.
+Copyright © # Nic Cravillion for Wisconsin - All Rights Reserved.
+Powered by

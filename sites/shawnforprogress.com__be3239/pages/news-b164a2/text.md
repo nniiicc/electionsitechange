@@ -1,5 +1,3 @@
-Check out what we're up to
-Check out what we're up to
-So much is happening right now.
+Skip navigation menu About House District 1 Issues and Policy News Events Volunteer Host a Yard Sign Contact Donate News Check out what we're up to About House District 1 Issues and Policy News Events Volunteer Host a Yard Sign Contact Donate News Check out what we're up to news & press Latest Campaign Developments So much is happening right now.
 Come see what we're up to.
-PRESS RELEASE
+PRESS RELEASE Democrat Shawn Olorundami Announces Candidacy for State House District 1 Read more Mar 11 2026 Shawn@ShawnForProgress.com Powered by RUN! website builder Paid for by Olorundami For Progress You need to enable JavaScript to run this app.

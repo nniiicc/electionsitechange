@@ -1,12 +1,9 @@
-by Dale Washburn | Mar 31, 2025 | News
-My House colleagues and I returned to the State Capitol on Tuesday, March 25, 2025, to kick off the 11th week of the 2025 legislative session.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 11 Legislative Session Recap 2025 by Dale Washburn | Mar 31, 2025 | News My House colleagues and I returned to the State Capitol on Tuesday, March 25, 2025, to kick off the 11th week of the 2025 legislative session.
 In preparation for the fast-approaching Sine Die deadline, we passed several pieces of legislation this week, including bills...
-by Dale Washburn | Mar 21, 2025 | News
-On Tuesday, March 18, 2025, my legislative colleagues and I returned to the Gold Dome for Legislative Day 32, ready to resume our work on behalf of the people we serve.
+Week 10 Legislative Session Recap 2025 by Dale Washburn | Mar 21, 2025 | News On Tuesday, March 18, 2025, my legislative colleagues and I returned to the Gold Dome for Legislative Day 32, ready to resume our work on behalf of the people we serve.
 With only a few legislative days remaining in this year’s session, we are fully focused on...
-by Dale Washburn | Mar 14, 2025 | News
-After a fast-paced and eventful Crossover Day last week, members of the Georgia House of Representatives returned to the State Capitol on Monday, March 10th for Legislative Day 29, kicking off our ninth week of session.
+Week 9 Legislative Session Recap 2025 by Dale Washburn | Mar 14, 2025 | News After a fast-paced and eventful Crossover Day last week, members of the Georgia House of Representatives returned to the State Capitol on Monday, March 10th for Legislative Day 29, kicking off our ninth week of session.
 With Crossover Day behind us, the House began to...
-by Dale Washburn | Mar 7, 2025 | News
-This week, the Georgia House of Representatives returned to the Gold Dome on Monday, March 3rd, kicking off the busiest week of the 2025 legislative session so far.
+Week 8 Legislative Session Recap 2025 by Dale Washburn | Mar 7, 2025 | News This week, the Georgia House of Representatives returned to the Gold Dome on Monday, March 3rd, kicking off the busiest week of the 2025 legislative session so far.
 Thursday, March 6th marked Crossover Day, a critical deadline for legislation to move from one chamber...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

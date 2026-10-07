@@ -1,12 +1,66 @@
 [
-"https://cynthianeeley.com/",
-"https://cynthianeeley.com/about-cynthia-2",
-"https://cynthianeeley.com/all-news-2",
-"https://cynthianeeley.com/contact",
-"https://cynthianeeley.com/privacy-policy",
-"https://cynthianeeley.com/volunteer",
-"https://facebook.com/RepNeeley",
-"https://secure.actblue.com/donate/committee-to-elect-cynthia-neeley-1",
-"https://twitter.com/cneeley34",
-"https://youtube.com/channel/UCrBcD7SrR6J3Hkl3fB2aJyw"
+{
+"text": "About",
+"href": "https://cynthianeeley.com/about-cynthia-2/"
+},
+{
+"text": "About Cynthia",
+"href": "https://cynthianeeley.com/about-cynthia-2/"
+},
+{
+"text": "Contact",
+"href": "https://cynthianeeley.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/committee-to-elect-cynthia-neeley-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-cynthia-neeley-1"
+},
+{
+"text": "Home",
+"href": "https://cynthianeeley.com/"
+},
+{
+"text": "News",
+"href": "https://cynthianeeley.com/all-news-2/"
+},
+{
+"text": "Paid for by Committee to Elect Cynthia R. Neeley, 2305 Begole St. Flint, MI 48504 |",
+"href": "https://cynthianeeley.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cynthianeeley.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://cynthianeeley.com/volunteer/"
+},
+{
+"text": "[image: Re-Elect Cynthia Neeley]",
+"href": "https://cynthianeeley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/cneeley34"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepNeeley"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCrBcD7SrR6J3Hkl3fB2aJyw"
+},
+{
+"text": "cynthia@cynthianeeley.com",
+"href": "mailto:cynthia@cynthianeeley.com"
+},
+{
+"text": "cynthianeeley@house.mi.gov",
+"href": "mailto:cynthianeeley@house.mi.gov"
+}
 ]

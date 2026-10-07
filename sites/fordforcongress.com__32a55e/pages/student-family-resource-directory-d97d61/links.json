@@ -1,47 +1,210 @@
 [
-"https://211metrochicago.org/",
-"https://afterschoolmatters.org/",
-"https://berkeley87.org/",
-"https://berkeleypl.org/",
-"https://broadviewlibrary.org/",
-"https://buildchicago.org/",
-"https://chicagoparkdistrict.com/",
-"https://chicagosfoodbank.org/find-food-2",
-"https://chipublib.org/",
-"https://cps.edu/",
-"https://cps.edu/calendar",
-"https://district90.org/",
-"https://facebook.com/fordforcongress",
-"https://fordforcongress.com/",
-"https://fordforcongress.com/about",
-"https://fordforcongress.com/contact-our-campaign",
-"https://fordforcongress.com/endorsements",
-"https://fordforcongress.com/ford-for-congress-la-shawn-k-ford-campaign-news",
-"https://fordforcongress.com/platform",
-"https://fordforcongress.com/privacy-policy-2",
-"https://fordforcongress.com/volunteer",
-"https://fppl.org/",
-"https://fppl.org/onlineresources",
-"https://fpsd91.org/",
-"https://hfs.illinois.gov/medicalprograms/allkids.html",
-"https://hillside93.org/",
-"https://instagram.com/fordforthe7th",
-"https://isac.org/",
-"https://maywood89.org/",
-"https://maywood89.org/community-resources",
-"https://metra.com/fares",
-"https://op97.org/",
-"https://oppl.org/",
-"https://oprfhs.org/",
-"https://pacebus.com/student-fare-information",
-"https://provisotownship.gov/",
-"https://provisotownship.gov/youth-services",
-"https://pths209.org/",
-"https://pths209.org/students-families/family-and-community-engagement/parent-centers",
-"https://sd88.org/",
-"https://sd925.org/",
-"https://secure.actblue.com/donate/la-shawn-ford-2",
-"https://transitchicago.com/students",
-"https://x.com/ford4congress",
-"https://youtube.com/@LaShawnK.FordForCongress"
+{
+"text": "A PROVEN RECORD",
+"href": "https://fordforcongress.com/about/"
+},
+{
+"text": "After School Matters",
+"href": "https://afterschoolmatters.org/"
+},
+{
+"text": "BUILD Chicago",
+"href": "https://www.buildchicago.org/"
+},
+{
+"text": "Bellwood School District 88",
+"href": "https://www.sd88.org/"
+},
+{
+"text": "Berkeley Public Library",
+"href": "https://www.berkeleypl.org/"
+},
+{
+"text": "Berkeley School District 87",
+"href": "https://www.berkeley87.org/"
+},
+{
+"text": "Broadview Public Library District",
+"href": "https://www.broadviewlibrary.org/"
+},
+{
+"text": "CTA Student Fares",
+"href": "https://www.transitchicago.com/students/"
+},
+{
+"text": "Chicago Park District",
+"href": "https://www.chicagoparkdistrict.com/"
+},
+{
+"text": "Chicago Public Library",
+"href": "https://www.chipublib.org/"
+},
+{
+"text": "Chicago Public Schools",
+"href": "https://www.cps.edu/"
+},
+{
+"text": "Community Resources",
+"href": "https://www.maywood89.org/community-resources/"
+},
+{
+"text": "Contact Us",
+"href": "https://fordforcongress.com/contact-our-campaign/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/la-shawn-ford-2"
+},
+{
+"text": "District 209",
+"href": "https://www.pths209.org/"
+},
+{
+"text": "District 209 Parent Centers",
+"href": "https://www.pths209.org/students-families/family-and-community-engagement/parent-centers"
+},
+{
+"text": "District 89 Community Resources",
+"href": "https://www.maywood89.org/community-resources/"
+},
+{
+"text": "Endorsements",
+"href": "https://fordforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/fordforcongress"
+},
+{
+"text": "Find Food Near You",
+"href": "https://www.chicagosfoodbank.org/find-food-2/"
+},
+{
+"text": "Forest Park Public Library",
+"href": "https://www.fppl.org/"
+},
+{
+"text": "Forest Park School District 91",
+"href": "https://www.fpsd91.org/"
+},
+{
+"text": "Hillside School District 93",
+"href": "https://www.hillside93.org/"
+},
+{
+"text": "Illinois All Kids",
+"href": "https://hfs.illinois.gov/medicalprograms/allkids.html"
+},
+{
+"text": "Illinois Student Assistance Commission",
+"href": "https://www.isac.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fordforthe7th"
+},
+{
+"text": "Issues",
+"href": "https://fordforcongress.com/platform/"
+},
+{
+"text": "Metra Fares and Programs",
+"href": "https://metra.com/fares"
+},
+{
+"text": "Oak Park District 97",
+"href": "https://www.op97.org/"
+},
+{
+"text": "Oak Park Public Library",
+"href": "https://www.oppl.org/"
+},
+{
+"text": "Oak Park and River Forest High School",
+"href": "https://www.oprfhs.org/"
+},
+{
+"text": "Online Learning Resources",
+"href": "https://www.fppl.org/onlineresources/"
+},
+{
+"text": "Pace Student Fare Information",
+"href": "https://www.pacebus.com/student-fare-information"
+},
+{
+"text": "Pace Student Fares",
+"href": "https://www.pacebus.com/student-fare-information"
+},
+{
+"text": "Platform",
+"href": "https://fordforcongress.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://fordforcongress.com/privacy-policy-2/"
+},
+{
+"text": "Proviso Township",
+"href": "https://www.provisotownship.gov/"
+},
+{
+"text": "Proviso Township High Schools District 209",
+"href": "https://www.pths209.org/"
+},
+{
+"text": "Proviso Township Youth Services",
+"href": "https://www.provisotownship.gov/youth-services"
+},
+{
+"text": "River Forest District 90",
+"href": "https://www.district90.org/"
+},
+{
+"text": "School District 89",
+"href": "https://www.maywood89.org/"
+},
+{
+"text": "Search Food Pantries and Meal Programs",
+"href": "https://www.chicagosfoodbank.org/find-food-2/"
+},
+{
+"text": "The Newsroom",
+"href": "https://fordforcongress.com/ford-for-congress-la-shawn-k-ford-campaign-news/"
+},
+{
+"text": "View the CPS School Calendar",
+"href": "https://www.cps.edu/calendar/"
+},
+{
+"text": "Visit 2-1-1 Metro Chicago",
+"href": "https://211metrochicago.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://fordforcongress.com/volunteer/"
+},
+{
+"text": "Westchester School District 92½",
+"href": "https://www.sd925.org/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/ford4congress"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@LaShawnK.FordForCongress"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://fordforcongress.com/"
+},
+{
+"text": "issues",
+"href": "https://fordforcongress.com/#issues"
+}
 ]

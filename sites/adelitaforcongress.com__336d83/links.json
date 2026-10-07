@@ -1,17 +1,94 @@
 [
-"https://adelitaforcongress.com/",
-"https://adelitaforcongress.com/endorsements",
-"https://adelitaforcongress.com/meet-adelita",
-"https://adelitaforcongress.com/privacy-policy",
-"https://adelitaforcongress.com/privacypolicy-termsofservice",
-"https://adelitaforcongress.com/vote",
-"https://facebook.com/adelitaforcongress",
-"https://instagram.com/AdelitaForCongress",
-"https://secure.actblue.com/donate/adelita-grijalva",
-"https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=50",
-"https://x.com/AdelitaForAZ",
-"https://youtube.com/@AdelitaforCongress"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/adelita-grijalva?express_lane=true&amount=50"
+},
+{
+"text": "About",
+"href": "https://www.adelitaforcongress.com/meet-adelita"
+},
+{
+"text": "CHIP IN",
+"href": "https://secure.actblue.com/donate/adelita-grijalva"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adelita-grijalva"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@adelitaforcongress.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adelitaforcongress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.adelitaforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.adelitaforcongress.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.adelitaforcongress.com"
+},
+{
+"text": "Meet Adelita",
+"href": "https://www.adelitaforcongress.com/meet-adelita"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adelitaforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adelitaforcongress.com/privacypolicy-termsofservice"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adelitaforcongress.com"
+},
+{
+"text": "Vote",
+"href": "https://www.adelitaforcongress.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/adelitaforcongress/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/AdelitaForCongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.youtube.com/@AdelitaforCongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/AdelitaForAZ"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@AdelitaforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.adelitaforcongress.com"
+}
 ]

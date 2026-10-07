@@ -1,4 +1,4 @@
-Krista L.
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Krista L.
 Allison J.D.
 Krista L.
 Allison is running for the Ohio House of Representatives, District 49, because she believes real leadership means stepping into the arena, showing up, taking responsibility, and doing the hard work on behalf of the people you serve.
@@ -21,3 +21,5 @@ Her advocacy for students and families isn’t theoretical; it’s personal.
 Krista believes that, as Theodore Roosevelt said, the credit belongs not to the critic, but to the one who is in the arena whose face is marked by effort, who errs, who strives, and who never stops caring.
 As your representative in Columbus, Krista will serve with courage, compassion, and a commitment to excellence.
 She is All In for All People and she will always be Fighting for Us.
+Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

@@ -1,12 +1,54 @@
 [
-"https://chicagoelections.gov/voting/early-voting",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/early-voting",
-"https://drmikecrawford.com/",
-"https://drmikecrawford.com/get-involved",
-"https://drmikecrawford.com/meet-mike",
-"https://drmikecrawford.com/on-the-issues",
-"https://drmikecrawford.com/privacy-policy",
-"https://m.signupgenius.com/",
-"https://ova.elections.il.gov/",
-"https://secure.actblue.com/donate/friends-of-michael-crawford-1"
+{
+"text": "Chicago Residents",
+"href": "https://chicagoelections.gov/voting/early-voting"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-michael-crawford-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.drmikecrawford.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.drmikecrawford.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.drmikecrawford.com/meet-mike"
+},
+{
+"text": "On the Issues",
+"href": "https://www.drmikecrawford.com/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.drmikecrawford.com/privacy-policy"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.drmikecrawford.com/#main-content"
+},
+{
+"text": "State Board of Elections website",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Suburban Cook County",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting"
+},
+{
+"text": "[image]",
+"href": "https://m.signupgenius.com/#!/showSignUp/30E0E4AADAA22A0FF2-57597414-petition"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/friends-of-michael-crawford-1"
+},
+{
+"text": "here",
+"href": "https://www.drmikecrawford.com/on-the-issues"
+}
 ]

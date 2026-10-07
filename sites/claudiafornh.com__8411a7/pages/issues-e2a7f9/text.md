@@ -1,4 +1,4 @@
-There is a growing sense of disillusionment with politics, and for understandable reasons.
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate There is a growing sense of disillusionment with politics, and for understandable reasons.
 Too often, it feels as though we're all pieces on a chessboard, moved by two teams focused more on winning than on the people whose lives are affected by the outcome.
 Once the game is over, too many of us are left feeling like the pieces scattered across the board.
 Sometimes it feels like the biggest difference between the two major parties is simply who we're told to blame.
@@ -26,22 +26,8 @@ We also have to look out for one another.
 Too many people in our communities are falling through the cracks, and we can't keep looking the other way.
 We all have a role to play.
 Choosing not to vote doesn't improve our democracy, and neither does remaining uninformed.
-I'd love to promise every voter:
-- Affordable housing
-- Help for our Senior Population
-- Lower taxes and lower utility costs
-- Restored mental health services
-- Veteran support
-- Safer communities
-- Protection for vulnerable populations
-- A cleaner environment
-- Expanded renewable energy
-- Strong public schools and support for teachers
-- Equality and social equity
-- Lower health care costs
-- Reproductive care protections
-- Death With Dignity
-But I won't make promises I can't guarantee.
+I'd love to promise every voter: Affordable housing Help for our Senior Population Lower taxes and lower utility costs Restored mental health services Veteran support Safer communities Protection for vulnerable populations A cleaner environment Expanded renewable energy Strong public schools and support for teachers Equality and social equity Lower health care costs Reproductive care protections Death With Dignity But I won't make promises I can't guarantee.
 Meaningful progress requires leaders who are willing to work together instead of against one another.
 Regardless of who holds power after the next election, I promise to listen, to work with anyone who wants to move our community forward, and to fight for policies that improve people's lives.
 I may not be able to accomplish everything on my list, but I will always fight, and work towards making that vision a reality.
+PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

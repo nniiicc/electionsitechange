@@ -1,4 +1,4 @@
-Our nation is nearly four million units of housing short of the need, and that supply shortage is the root cause of our affordable housing crisis.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate Mike's Agenda Housing and Homelessness Our nation is nearly four million units of housing short of the need, and that supply shortage is the root cause of our affordable housing crisis.
 Mike Levin has consistently fought for investments to increase the supply of affordable housing by providing grants to states and localities and offering tax credits to build and rehabilitate housing and convert unused office space into housing.
 Mike believes we also need to preserve the housing supply we do have for homeowners in our communities, which is why he supports a significant federal real estate transfer tax on institutional investors and private equity firms that purchase single-family homes from the open market.
 He has also supported policies to help working families achieve the dream of homeownership, such as creating a refundable tax credit for first-time homebuyers and creating a home loan program with no down payments or mortgage insurance premiums for first responders and educators.
@@ -11,3 +11,6 @@ He has introduced several pieces of bipartisan legislation to address veteran ho
 Mike is working to ensure veterans are not restricted from accessing affordable housing due to their disability compensation being factored into income eligibility requirements.
 He is also pushing local public housing authorities and VA to expand the use of project-based housing vouchers in our region to create a dedicated housing stock for homeless veterans.
 Finally, he supports strategies such as expanding eligibility for VA housing programs, improving coordination, and cutting red tape to improve outcomes.
+Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

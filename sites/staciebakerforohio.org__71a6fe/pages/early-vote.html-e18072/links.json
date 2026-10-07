@@ -1,6 +1,26 @@
 [
-"https://staciebakerforohio.org/",
-"https://staciebakerforohio.org/privacy.html",
-"https://staciebakerforohio.org/terms.html",
-"https://voterlookup.ohiosos.gov/"
+{
+"text": "Privacy Policy",
+"href": "https://www.staciebakerforohio.org/privacy.html"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.staciebakerforohio.org/terms.html"
+},
+{
+"text": "staciebakerforohio.org",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "voterlookup.ohiosos.gov",
+"href": "https://voterlookup.ohiosos.gov"
+},
+{
+"text": "← Back to Campaign Site",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "← Back to Home",
+"href": "https://www.staciebakerforohio.org/"
+}
 ]

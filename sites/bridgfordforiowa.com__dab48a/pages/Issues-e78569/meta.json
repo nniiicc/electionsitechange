@@ -1,7 +1,9 @@
 {
  "description": "Issues on Bridgford for Iowa. An official campaign website for Bridgford for Iowa, providing information about.",
  "final_url": "https://bridgfordforiowa.com/Issues",
- "paid_for_by": null,
+ "fingerprint": "0b1c2c32815ea8628504bae7696458169f89ef02",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues | Bridgford for Iowa",
  "years_mentioned": []
 }

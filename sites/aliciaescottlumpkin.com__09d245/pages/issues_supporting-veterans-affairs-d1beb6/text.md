@@ -1,7 +1,4 @@
-Alicia believes in
-Supporting Veterans Affairs
-- Protecting the benefits that our veterans depend on pushing to speed up the process for getting the help that they need
-- Working to make sure veterans have access to healthcare including mental health services and specialized support.
-- Breaking down barriers that make it hard for veterans to get care, find housing, or return to work.
-- Building strong partnership with local VA offices , non profits and support organizations to create a stronger network of care.
-- Supporting programs that help aging veterans and those with service connected needs live with dignity and support
+Skip navigation menu Home About Issues Events Volunteer Contact Yard Sign Donate Home About Issues Events Volunteer Contact Yard Sign Donate Expanding Economic Opportunities Protecting Access to Healthcare Building Safe, Strong Communities Supporting Veterans Affairs Alicia believes in Supporting Veterans Affairs Protecting the benefits that our veterans depend on pushing to speed up the process for getting the help that they need Working to make sure veterans have access to healthcare including mental health services and specialized support.
+Breaking down barriers that make it hard for veterans to get care, find housing, or return to work.
+Building strong partnership with local VA offices , non profits and support organizations to create a stronger network of care.
+Supporting programs that help aging veterans and those with service connected needs live with dignity and support Privacy Policy Alicia@Aliciaescottlumpkin.com Powered by RUN! website builder Paid for by the Committee to Elect Alicia Escott Lumpkin PO BOX 1993 Birmingham, AL 35201 You need to enable JavaScript to run this app.

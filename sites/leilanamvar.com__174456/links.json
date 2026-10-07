@@ -1,18 +1,74 @@
 [
-"https://assembly.ca.gov/assemblymembers/find-my-rep",
-"https://designedtorun.com/",
-"https://facebook.com/voteleilanamvar",
-"https://instagram.com/voteleilanamvar",
-"https://leilanamvar.com/",
-"https://leilanamvar.com/Media",
-"https://leilanamvar.com/endorsements",
-"https://leilanamvar.com/issues",
-"https://leilanamvar.com/meet-leila",
-"https://secure.actblue.com/donate/leilanamvar",
-"https://secure.actblue.com/donate/leilanamvar?amount=100",
-"https://secure.actblue.com/donate/leilanamvar?amount=25",
-"https://secure.actblue.com/donate/leilanamvar?amount=250",
-"https://secure.actblue.com/donate/leilanamvar?amount=50",
-"https://secure.actblue.com/donate/leilanamvar?amount=500",
-"https://x.com/voteleilanamvar"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/leilanamvar?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/leilanamvar?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/leilanamvar?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/leilanamvar?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/leilanamvar?amount=500"
+},
+{
+"text": "Check Your Address",
+"href": "https://www.assembly.ca.gov/assemblymembers/find-my-rep"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leilanamvar"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leilanamvar.com/endorsements"
+},
+{
+"text": "Get to Know Leila",
+"href": "https://www.leilanamvar.com/meet-leila"
+},
+{
+"text": "Issues",
+"href": "https://www.leilanamvar.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.leilanamvar.com/Media"
+},
+{
+"text": "Meet Leila",
+"href": "https://www.leilanamvar.com/meet-leila"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/leilanamvar"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Leila Namvar for California State Assembly District 47]",
+"href": "https://www.leilanamvar.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteleilanamvar"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteleilanamvar"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/voteleilanamvar"
+}
 ]

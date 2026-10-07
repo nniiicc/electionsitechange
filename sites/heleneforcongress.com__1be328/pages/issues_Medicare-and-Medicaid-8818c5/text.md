@@ -1,5 +1,4 @@
-Medicare and Medicaid
-While battling stage IV cancer and undergoing chemotherapy, I depended on both Medicare and Medicaid for nearly three years.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Home ❭ Issues ❭ Medicare and Medicaid Medicare and Medicaid While battling stage IV cancer and undergoing chemotherapy, I depended on both Medicare and Medicaid for nearly three years.
 Without these programs, I would not be alive today.
 My ongoing infusion treatments cost approximately $4,000 per month.
 These programs are not abstract policy debates.
@@ -15,11 +14,10 @@ Protecting Medicare and Medicaid means protecting the health and dignity of mill
 As a nurse, public health professional, and cancer survivor, I know that healthcare policy is not just about budgets — it is about families who depend on these programs for stability, dignity, and survival.
 We made a promise to the American people that these programs would be there when they needed them.
 We must keep that promise.
-North Dakota Medicare and Medicaid
-Medicaid plays a critical role in North Dakota’s healthcare system.
+North Dakota Medicare and Medicaid Medicaid plays a critical role in North Dakota’s healthcare system.
 More than 105,000 North Dakotans rely on Medicaid for healthcare coverage.
 Medicaid also supports treatment for substance use disorders, with more than 10,000 North Dakotans receiving care through Medicaid in recent years.
 Many individuals in North Dakota depend on both Medicare and Medicaid.
 Approximately 24,000 Medicare beneficiaries in North Dakota are also covered through Medicaid expansion.
 Most adults covered by Medicaid in North Dakota are working, attending school, caring for family members, or living with chronic illness or disability.
-Protecting Medicare and Medicaid helps ensure that North Dakota families, seniors, and rural communities continue to have access to essential healthcare services.
+Protecting Medicare and Medicaid helps ensure that North Dakota families, seniors, and rural communities continue to have access to essential healthcare services. « Previous: Immigration and Responsible Reform Next: Mental Health and Community Well-Being » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

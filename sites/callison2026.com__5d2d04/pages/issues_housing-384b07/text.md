@@ -1,3 +1,2 @@
-Regulations and fees raise the price of housing and restrict the growth of new housing.
-My goal is to make common-sense changes to the building code to facilitate more and cheaper housing, while maintaining health and safety standards.
-Gun rights must be protected under the Constitution while ensuring responsible safety measures.
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Housing Regulations and fees raise the price of housing and restrict the growth of new housing.
+My goal is to make common-sense changes to the building code to facilitate more and cheaper housing, while maintaining health and safety standards. get involved Related Issues Second Amendment Gun rights must be protected under the Constitution while ensuring responsible safety measures. learn more Cannabis Lower fees, fair regulations, and federal legalization can grow the cannabis industry and create opportunity. learn more Prev Aging Community Military and Veterans Next Paid for by Callison for Assembly 2026, FPPC ID #1483879.

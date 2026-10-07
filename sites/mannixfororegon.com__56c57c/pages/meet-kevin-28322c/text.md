@@ -1,7 +1,4 @@
-Meet Kevin Mannix
-Meet
-Kevin Mannix
-Providing decades of effective leadership for Salem & Keizer.
+0 Skip to Content Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Meet Kevin Mannix Meet Kevin Mannix Providing decades of effective leadership for Salem & Keizer.
 Kevin Mannix is a small business attorney and community leader who serves Keizer and North Salem in the Oregon House (District 21).
 He built the Mannix Law Firm in Salem, where his team has spent decades representing and protecting local businesses, churches, private schools, and nonprofits.
 Kevin is known for using every tool at his disposal to protect taxpayers, hold criminals accountable, and encourage a more efficient, less intrusive government.
@@ -13,13 +10,11 @@ Susanna has served our community for decades as a nurse at Salem Hospital.
 Before opening Mannix Law Firm in 1986, Kevin served Oregonians as a law clerk to the Court of Appeals, and as an assistant attorney general for Oregon.
 He served as an assistant attorney general for the U.S. territory of Guam and then as an Oregon administrative law judge.
 Elected to represent Keizer and North Salem in 2022, Kevin is a proven legislator and prolific author of practical, results-driven policy.
-Even in years of one-party control in Salem, Kevin has built a reputation for working across the aisle to pass more legislation than any other lawmaker in state history, including his time serving in the Oregon House of Representatives from 1989-2001.
+Even in years of one-party control in Salem, Kevin has built a reputation for working across the aisle to pass more legislation than any other lawmaker in state history , including his time serving in the Oregon House of Representatives from 1989-2001.
 Never compromising his commitment to common-sense values, Kevin has a long track record of seeking common ground to achieve real progress, navigating special interests and political headwinds to hold our government accountable and make life safer and more affordable for Salem and Keizer families.
-Attorney +
-Kevin leads the Mannix Law Firm in Salem, representing small businesses, churches, private schools, and nonprofits in business and personal matters.
-His team has helped clients navigate complex regulations, defend their rights, and keep their doors open—work that included standing up for local employers and ministries during COVID‑era mandates.
-Community Leader
-Kevin is active in civic life through the East Salem Rotary Club, the Keizer Chamber of Commerce, and the Salem Area Chamber of Commerce.
+Read Kevin's full biography here Attorney + Kevin leads the Mannix Law Firm in Salem, representing small businesses, churches, private schools, and nonprofits in business and personal matters.
+His team has helped clients navigate complex regulations , defend their rights , and keep their doors open —work that included standing up for local employers and ministries during COVID‑era mandates.
+Community Leader Kevin is active in civic life through the East Salem Rotary Club, the Keizer Chamber of Commerce, and the Salem Area Chamber of Commerce.
 He is an emeritus member of the foundation that runs the East Salem Community Center, helped found Blanchet Catholic School, and is president of the Salem Catholic Schools Foundation supporting local Catholic education.
-Our Advocate
-As president of Common Sense for Oregon (and through his work with the Oregon Anti‑Crime Alliance), Kevin champions lower taxes and affordability, public safety and victims’ rights, and limited, accountable government—the same principles he carries to the Capitol on behalf of Keizer and North Salem.
+Our Advocate As president of Common Sense for Oregon (and through his work with the Oregon Anti‑Crime Alliance), Kevin champions lower taxes and affordability , public safety and victims’ rights , and limited, accountable government —the same principles he carries to the Capitol on behalf of Keizer and North Salem.
+CAMPAIGN OFFICE Call ahead: (503) 308-8668 660 Capitol Street NE, Salem, OR 97301 CONTACT Kevin@MannixForOregon.com Mailing Address: 2009 State Street, Salem, OR 97301 Home | Meet Kevin | Volunteer | Contact ‍ ‍| Privacy Policy © # Paid for by Mannix for Oregon PAC

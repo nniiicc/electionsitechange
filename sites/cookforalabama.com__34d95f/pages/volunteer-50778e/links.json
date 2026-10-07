@@ -1,17 +1,62 @@
 [
-"https://bonfire.com/store/cook-for-alabama",
-"https://cookforalabama.com/",
-"https://cookforalabama.com/about",
-"https://cookforalabama.com/contact",
-"https://cookforalabama.com/district-43",
-"https://cookforalabama.com/endorsements",
-"https://cookforalabama.com/events",
-"https://cookforalabama.com/issues",
-"https://designedtorun.com/",
-"https://facebook.com/cookforalabama",
-"https://instagram.com/cookforalabama",
-"https://secure.actblue.com/donate/cookforalabama",
-"https://substack.com/@cookforalabama",
-"https://threads.net/@cookforalabama",
-"https://tiktok.com/@cookforalabama"
+{
+"text": "About",
+"href": "https://www.cookforalabama.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cookforalabama.com/contact"
+},
+{
+"text": "District 43",
+"href": "https://www.cookforalabama.com/district-43"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cookforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cookforalabama.com/events"
+},
+{
+"text": "Platform",
+"href": "https://www.cookforalabama.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://bonfire.com/store/cook-for-alabama/"
+},
+{
+"text": "[image: Cook for Alabama]",
+"href": "https://www.cookforalabama.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@cookforalabama"
+}
 ]

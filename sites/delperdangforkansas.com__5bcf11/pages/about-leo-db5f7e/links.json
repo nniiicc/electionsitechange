@@ -1,9 +1,42 @@
 [
-"http://gis.sedgwick.gov/pub/maps/pdf/rep_votec_94.pdf",
-"http://wix.com/templateslp/links",
-"https://delperdangforkansas.com/",
-"https://delperdangforkansas.com/about-leo",
-"https://delperdangforkansas.com/get-involved",
-"https://delperdangforkansas.com/news",
-"https://delperdangforkansas.com/platform"
+{
+"text": "ABOUT LEO",
+"href": "https://www.delperdangforkansas.com/about-leo"
+},
+{
+"text": "DONATE",
+"href": "https://www.delperdangforkansas.com/get-involved"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.delperdangforkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.delperdangforkansas.com"
+},
+{
+"text": "Kansas State Representative",
+"href": "https://www.delperdangforkansas.com"
+},
+{
+"text": "Leo Delperdang",
+"href": "https://www.delperdangforkansas.com"
+},
+{
+"text": "Map of the District",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "NEWS",
+"href": "https://www.delperdangforkansas.com/news"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.delperdangforkansas.com/platform"
+},
+{
+"text": "[image: Kansas District 94 Map]",
+"href": "http://gis.sedgwick.gov/pub/maps/pdf/rep_votec_94.pdf"
+}
 ]

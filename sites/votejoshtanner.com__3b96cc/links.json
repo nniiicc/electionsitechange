@@ -1,16 +1,86 @@
 [
-"http://joshtanner.substack.com/",
-"http://joshtannergolf.com/",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx",
-"https://facebook.com/repjoshtanner?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0",
-"https://instagram.com/joshtannerforidaho",
-"https://secure.winred.com/josh-tanner-for-idaho/donate-today",
-"https://sos.idaho.gov/elections-division/calendars",
-"https://voteidaho.gov/absentee-voter-information",
-"https://votejoshtanner.com/",
-"https://votejoshtanner.com/about-josh",
-"https://votejoshtanner.com/contact",
-"https://votejoshtanner.com/josh-on-the-issues",
-"https://votejoshtanner.com/stay-informed",
-"https://votejoshtanner.com/wp-content/uploads/2024/08/14.png"
+{
+"text": "2024 Election Calendar",
+"href": "https://sos.idaho.gov/elections-division/calendars/"
+},
+{
+"text": "208-781-5211",
+"href": "tel:%201208.781.5211"
+},
+{
+"text": "About Josh",
+"href": "https://votejoshtanner.com/about-josh/"
+},
+{
+"text": "Contact",
+"href": "https://votejoshtanner.com/contact/"
+},
+{
+"text": "District 14 Map",
+"href": "https://votejoshtanner.com/wp-content/uploads/2024/08/14.png"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/josh-tanner-for-idaho/donate-today"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/repjoshtanner/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/joshtannerforidaho/"
+},
+{
+"text": "Home",
+"href": "https://votejoshtanner.com/"
+},
+{
+"text": "Issues",
+"href": "https://votejoshtanner.com/josh-on-the-issues/"
+},
+{
+"text": "Josh On The Issues",
+"href": "https://votejoshtanner.com/josh-on-the-issues/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votejoshtanner.com/about-josh/"
+},
+{
+"text": "Newsletter",
+"href": "http://joshtanner.substack.com/"
+},
+{
+"text": "Register To Vote",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://votejoshtanner.com/contact"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://voteidaho.gov/absentee-voter-information/"
+},
+{
+"text": "Stay Informed",
+"href": "https://votejoshtanner.com/stay-informed/"
+},
+{
+"text": "Stay informed with the campaign",
+"href": "https://votejoshtanner.com/stay-informed/"
+},
+{
+"text": "[image: Vote Josh Tanner]",
+"href": "https://votejoshtanner.com/"
+},
+{
+"text": "[image]",
+"href": "http://joshtannergolf.com"
+},
+{
+"text": "josh@votejoshtanner.com",
+"href": "mailto:josh@votejoshtanner.com"
+}
 ]

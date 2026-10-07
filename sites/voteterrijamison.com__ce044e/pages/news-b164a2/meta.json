@@ -1,13 +1,19 @@
 {
  "description": "Endorsements!",
  "final_url": "https://www.voteterrijamison.com/news",
- "paid_for_by": null,
+ "fingerprint": "036631da3b261256e55bc80efd61619d93edab6a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
+  "2004",
   "2011",
+  "2014",
   "2019",
+  "2020",
   "2021",
   "2022",
+  "2023",
   "2024"
  ]
 }

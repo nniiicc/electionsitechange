@@ -1,6 +1,8 @@
 {
  "description": "Securely send donations to the Matthew Kolodoski Campaign.",
  "final_url": "https://www.kolodoski4justice.com/donations.html",
+ "fingerprint": "78f95c2813d3afb82d7927d6e6f8c6f259aa653b",
+ "format": 3,
  "paid_for_by": "paid for by Matthew Kolodoski Campaign",
  "title": "Kolodoski4Justice | Donations",
  "years_mentioned": []

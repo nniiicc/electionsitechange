@@ -1,5 +1,4 @@
-Op-Ed: ICE's assault on due process
-A few weeks ago, I visited the Strafford County Jail for the first time.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: ICE's assault on due process Jun 14 Written By Alice Wade A few weeks ago, I visited the Strafford County Jail for the first time.
 I wasn’t there for someone I knew, but to accompany the wife and son of Juan Francisco Mendez, a Guatemalan asylum-seeker who had been wrongfully detained by ICE.
 On April 14th in New Bedford, Massachusetts, Juan and his wife Marilu were pulled over by ICE agents claiming to have a warrant.
 They shouted the name 'Antonio.' Juan, who has no criminal record, was confused.
@@ -34,7 +33,7 @@ Anything that would make sense of the hell that our government has put his famil
 I came up with nothing.
 It took another two weeks before Juan saw a judge.
 The judge ordered his release after ruling that ICE had failed to prosecute any charges, but ICE argued they filed his case under the wrong number and kept him detained.
-It took yet another hearing and another week before he was finally released on bail.
+It took yet another hearing and another week before he was finally released on bail .
 In the meantime, I kept searching for answers.
 I tried to obtain the jail’s ICE contract but was told the details weren’t public, not even to elected officials.
 I reached out to members of Congress only to learn ICE had fired its congressional liaisons, the very people responsible for maintaining accountability.
@@ -49,3 +48,4 @@ All while videos keep emerging of innocent people being violently detained or de
 That is not just inconceivably wrong.
 It’s an assault on the foundations of our legal system.
 If Juan doesn’t have due process, then we don’t either.
+Alice Wade Previous Previous INTO 25 Under 25: Alice Wade knows progress isn’t rocket science Next Next Op-Ed: The great Republican tax heist in New Hampshire Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

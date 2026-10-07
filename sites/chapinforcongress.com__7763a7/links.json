@@ -1,29 +1,114 @@
 [
-"https://chapinforcongress.com/",
-"https://chapinforcongress.com/6fdb5c48-d179-4890-a294-cca889eb9b67",
-"https://chapinforcongress.com/90726c42-28ec-442c-a620-e4b67943902c",
-"https://chapinforcongress.com/about",
-"https://chapinforcongress.com/accessibility",
-"https://chapinforcongress.com/contact",
-"https://chapinforcongress.com/events",
-"https://chapinforcongress.com/issues",
-"https://chapinforcongress.com/media-press-kit",
-"https://chapinforcongress.com/privacy-policy",
-"https://chapinforcongress.com/terms-and-conditions",
-"https://chapinforcongress.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/ChapinforCongress",
-"https://fec.gov/data/committee/C00909531",
-"https://instagram.com//dougchapinforcongress",
-"https://linktree.com/chapinforcongress",
-"https://secure.actblue.com/donate/doug-chapin-1",
-"https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=+100",
-"https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=+250",
-"https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=+50",
-"https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=26",
-"https://secure.actblue.com/donate/doug-chapin-1?express_lane_other=true",
-"https://store.chapinforcongress.com/",
-"https://threads.net/@dougchapinforcongress",
-"https://x.com/ChapinForMN6"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=+100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=+250"
+},
+{
+"text": "$26",
+"href": "https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=26"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/doug-chapin-1?express_lane=true&amount=+50"
+},
+{
+"text": "About",
+"href": "https://www.chapinforcongress.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.chapinforcongress.com/accessibility"
+},
+{
+"text": "C00909531",
+"href": "https://www.fec.gov/data/committee/C00909531/"
+},
+{
+"text": "Contact",
+"href": "https://www.chapinforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/doug-chapin-1/"
+},
+{
+"text": "Events",
+"href": "https://www.chapinforcongress.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.chapinforcongress.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/doug-chapin-1?express_lane_other=true"
+},
+{
+"text": "Press Kit",
+"href": "https://www.chapinforcongress.com/media-press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chapinforcongress.com/90726c42-28ec-442c-a620-e4b67943902c"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chapinforcongress.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.chapinforcongress.com/"
+},
+{
+"text": "Terms & Conditions.",
+"href": "https://www.chapinforcongress.com/6fdb5c48-d179-4890-a294-cca889eb9b67"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.chapinforcongress.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chapinforcongress.com/volunteer"
+},
+{
+"text": "[image: Doug Chapin for Congress]",
+"href": "https://www.chapinforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ChapinforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//dougchapinforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/chapinforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@dougchapinforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.chapinforcongress.com/90726c42-28ec-442c-a620-e4b67943902c"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ChapinForMN6"
+}
 ]

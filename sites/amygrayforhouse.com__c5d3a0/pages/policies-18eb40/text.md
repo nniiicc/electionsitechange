@@ -1,5 +1,4 @@
-Policy Pillars & Implementation
-Together we can Make Macomb Affordable Again!
+0 Skip to Content Home Policies Get involved Donate Contact Open Menu Close Menu Home Policies Get involved Donate Contact Open Menu Close Menu Home Policies Get involved Donate Contact Policy Pillars & Implementation Together we can Make Macomb Affordable Again !
 Read below to find out how I will put Macomb’s interests first.
 As a small business owner, I know what it means to make payroll, pay the rent and balance rising costs while taking care of your employees.
 For many of us, our businesses represent years of hard work, late nights, weekends, and personal sacrifice and investment in our communities.
@@ -7,9 +6,7 @@ In Lansing, I’ll work to help small businesses afford employee health coverage
 I’ll also push for simpler state paperwork and a fair opportunity for small businesses to compete for state contracts—and get paid on time.
 I’ll meet regularly with Macomb County business owners to hear what’s working, what’s getting in their way and where state government can help.
 Whether you have three employees or 300, small businesses deserve a voice in Lansing from someone who understands the responsibilities that come with signing the paychecks.
-Economic Growth & Small Business Support
-Making Housing More Affordable—and Helping You Stay in Your Home
-I am a homeowner, and my husband proudly serves as president of our subdivision’s HOA.
+Economic Growth & Small Business Support Making Housing More Affordable—and Helping You Stay in Your Home I am a homeowner, and my husband proudly serves as president of our subdivision’s HOA.
 Across District 60, you can see the pride hardworking families take in their neighborhoods—in the well-kept lawns, carefully tended gardens and homes they’ve made their own.
 These families deserve a home they can afford, and seniors deserve to retire without worrying about losing theirs.
 I’ll work to expand Michigan’s Homestead Property Tax Credit by raising the income eligibility limit and increasing the maximum credit available to eligible households.
@@ -42,8 +39,7 @@ I’ll also fight to bring resources home to Macomb for recruitment, retention, 
 Keeping our neighborhoods safe starts with supporting the people who answer the call.
 Protecting Our Community.
 Supporting Those Who Serve.
-Healthcare Access & Affordability
-When I knock on doors across District 60, health care costs come up again and again.
+Healthcare Access & Affordability When I knock on doors across District 60, health care costs come up again and again.
 I’ve spoken with neighbors working two or three jobs whose employers can’t afford to offer health insurance—and who can’t afford Marketplace coverage themselves.
 Others tell me they’re putting off routine health screenings because they’re worried about out-of-pocket costs.
 College graduates and young adults are delaying dental care because even getting a cavity filled feels out of reach.
@@ -54,8 +50,7 @@ As a small business owner, I understand that health care costs strain both emplo
 In Lansing, I’ll bring business owners, workers, health care providers and insurance companies to the same table to work on practical solutions that lower costs and improve access—including preventive care, dental care and mental health services.
 I’ll bring the stories I hear at your doors into those conversations, because affordable coverage needs to mean more than having an insurance card.
 It needs to mean being able to afford to use it.
-Frequently Asked Questions
-What is your stance on small business support?
+Frequently Asked Questions What is your stance on small business support?
 As a small business owner myself, I believe in a balanced approach.
 I support tax incentives for local entrepreneurs while ensuring our state workforce remains competitive and accessible to all.
 How do you plan to address education funding?
@@ -67,3 +62,7 @@ I support expanding Medicaid and lowering prescription drug costs to ensure ever
 How will you handle infrastructure projects?
 Strong infrastructure is the backbone of our economy.
 I will prioritize road repairs, broadband expansion, and public transit improvements to connect every community.
+Contact Me for More Details Representing the heart of Macomb with compassion and a commitment to our small business owners.
+CONTACT info@amygrayforhouse.com FOLLOW AMY © # Paid for by Amy Gray for House.
+49392 Limestone Drive, Macomb MI 48044.
+Site Design by HMA Designs LLC

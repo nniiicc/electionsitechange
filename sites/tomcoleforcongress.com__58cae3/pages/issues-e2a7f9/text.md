@@ -1,35 +1,15 @@
-Securing Our Elections
-Tom believes that every American should feel secure about our elections system.
-That’s why he’s supported the SAVE and SAVE American Act, which mandates voter ID across the country and the requirement of […]
-Skip to content
-Securing Our Elections
-Tom believes that every American should feel secure about our elections system.
-That’s why he’s supported the SAVE and SAVE American Act, which mandates voter ID across the country and the requirement of […]
-Preserving Our Second Amendment
-Tom has an A rating with the NRA and has been proud to stand strong for our second amendment rights.
-Tom has been invaluable, fighting against the Far-Left’s agenda in the House of […]
-National Security
-Oklahomans know very well the importance that the state plays in keeping our nation safe.
-From protecting our military installations from cuts and continuing to work to add missions, to continually winning pay […]
-American Energy Independence
-Tom successfully fought to end the oil export ban and continues to fight for American Energy Independence and Oklahoma’s economy by standing up to Far-Left Democrats who want to put hardworking Oklahomans out […]
-Protecting the Unborn
-Tom has a 100% rating from the National Right to Life Committee, An A+ Rating from the Susan B.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans On The Issues Donate Securing Our Elections Tom believes that every American should feel secure about our elections system.
+That’s why he’s supported the SAVE and SAVE American Act, which mandates voter ID across the country and the requirement of […] Read More Preserving Our Second Amendment Tom has an A rating with the NRA and has been proud to stand strong for our second amendment rights.
+Tom has been invaluable, fighting against the Far-Left’s agenda in the House of […] Read More National Security Oklahomans know very well the importance that the state plays in keeping our nation safe.
+From protecting our military installations from cuts and continuing to work to add missions, to continually winning pay […] Read More American Energy Independence Tom successfully fought to end the oil export ban and continues to fight for American Energy Independence and Oklahoma’s economy by standing up to Far-Left Democrats who want to put hardworking Oklahomans out […] Read More Protecting the Unborn Tom has a 100% rating from the National Right to Life Committee, An A+ Rating from the Susan B.
 Anthony List, and has always fought to protect the unborn.
-Even before videos uncovered […]
-National Security
-Oklahomans know very well the importance that the state plays in keeping our nation safe.
-From protecting our military installations from cuts and continuing to work to add missions, to continually winning pay […]
-Debt and Spending
-Tom has been a fiscal hawk while voting for the structural changes needed to tackle our debt and deficit.
-Tom opposed Biden era trillion dollar debt bombs like the American Rescue Plan, and […]
-Veterans
-Tom has long been a strong supporter of our veterans.
-The son of an Air Force veteran, he has been honored by the Oklahoma Veterans Council and the VFW of Oklahoma for his […]
-Securing Our Border
-Tom has always believed that border security is the most important component of our immigration policy.
-Tom voted in favor of the One Big Beautiful Bill which rushed historic resources to President Trump […]
-Preserving our Second Amendment
-Tom has an A rating with the NRA and has been proud to stand strong for our second amendment rights.
-Tom has been invaluable in fighting against the Far-Left’s agenda in the House […]
-Keep up with the Campaign via Email
+Even before videos uncovered […] Read More National Security Oklahomans know very well the importance that the state plays in keeping our nation safe.
+From protecting our military installations from cuts and continuing to work to add missions, to continually winning pay […] Read More Debt and Spending Tom has been a fiscal hawk while voting for the structural changes needed to tackle our debt and deficit.
+Tom opposed Biden era trillion dollar debt bombs like the American Rescue Plan, and […] Read More Veterans Tom has long been a strong supporter of our veterans.
+The son of an Air Force veteran, he has been honored by the Oklahoma Veterans Council and the VFW of Oklahoma for his […] Read More Securing Our Border Tom has always believed that border security is the most important component of our immigration policy.
+Tom voted in favor of the One Big Beautiful Bill which rushed historic resources to President Trump […] Read More Preserving our Second Amendment Tom has an A rating with the NRA and has been proud to stand strong for our second amendment rights.
+Tom has been invaluable in fighting against the Far-Left’s agenda in the House […] Read More Posts pagination 1 2 Next Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

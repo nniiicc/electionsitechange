@@ -1,5 +1,4 @@
-What I Believe
-District 130 deserves someone who shows up with a backbone and a clear sense of what they stand for.
+Skip navigation menu Home About Priorities Endorsements Why I'm Running Media Volunteer Contact Donate Home About Priorities Endorsements Why I'm Running Media Volunteer Contact Donate What I Believe District 130 deserves someone who shows up with a backbone and a clear sense of what they stand for.
 So here it is, plain and simple.
 Pro-Constitution.
 All of it.
@@ -48,3 +47,11 @@ I won't promise what I can't deliver.
 And when I'm wrong, I'll say so.
 Pro- term limits.
 I've committed to serve only two terms and signed a pledge to that effect.
+LEARN MORE ABOUT JOE'S TOP PRIORITIES Affordability You Shouldn't Have to Choose Between Groceries and Gas ECONOMIC GROWTH We Grow the Food.
+We Can Grow Our Economy PUBLIC SAFTY You Deserve to Feel Safe Where You Live, Work, and Sleep INFRASTRUCTURE Don't Tell Me There's No Money For Upstate Finger Lakes Region HEALTHCARE Closing a Maternity Ward Is Not a Solution, It's a Crisis Accountability Corruption in Albany - This Is Where We Fight!
+ON THE ISSUES Where I Stand These are the issues people argue about at the kitchen table.
+They deserve a straight answer, not a talking point.
+Here's where I am on all of them.
+IMMIGRATION This Is Personal, and I Won't Pretend Otherwise ENERGY Common Sense TAXES This State Takes Too Much Education Parents Deserve a Voice, and Our Schools Deserve Real Funding Donate Here Contact Us Friends of Joseph Lamanna PO Box 307 Williamson, NY 14589 © # Friends of Joseph Lamanna.
+All rights reserved.
+Terms of Use | Privacy Policy Powered by RUN! website builder Paid For By Friends of Joseph Lamanna You need to enable JavaScript to run this app.

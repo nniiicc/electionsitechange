@@ -1,11 +1,15 @@
-Back to All Events
-We're walking this weekend and would love for you to join us!!
+0 Skip to Content Home Meet Allison About Allison In the News Endorsement The Issues Show Your Support Events Volunteer Yard Sign Donate Voter Information Voting House District 108 DONATE NOW Open Menu Close Menu Home Meet Allison About Allison In the News Endorsement The Issues Show Your Support Events Volunteer Yard Sign Donate Voter Information Voting House District 108 DONATE NOW Open Menu Close Menu Home Folder: Meet Allison Back About Allison In the News Endorsement The Issues Folder: Show Your Support Back Events Volunteer Yard Sign Donate Folder: Voter Information Back Voting House District 108 DONATE NOW Back to All Events Block Walk Saturday, September 27, 2025 9:30 AM 11:30 AM Google Calendar ICS We're walking this weekend and would love for you to join us!!
 Let us know you're coming...drop by and grab a turf...or walk with a buddy!
 Bring a fully charged cellphone.
-Previous
-Previous
-September 25
-Campaign Reception
-Next
-Next
-October 3
+RSVP FOR MEETUP LOCATION Previous Previous September 25 Campaign Reception Next Next October 3 FUN BANKING!
+Allison Mitchell for Texas P.O.
+Box 670162 Dallas, TX 75367 Pol.
+Adv.
+Paid for by Allison Mitchell for State House Campaign.
+All Rights Reserved.
+Copyright #.
+About Contact Donate Privacy Policy Follow us Explore Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Connected!
+Sign up with your email address to receive news and updates about the campaign.
+Email Address Sign Up Thank you for joining Team Allison!

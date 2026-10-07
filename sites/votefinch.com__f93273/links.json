@@ -1,12 +1,54 @@
 [
-"https://forms.gle/WyKN6LNisifvrmdN8",
-"https://oneswitchboard.com/privacy-policy/elect-michael-finch",
-"https://secure.actblue.com/donate/finch-ws",
-"https://votefinch.com/",
-"https://votefinch.com/about",
-"https://votefinch.com/cart",
-"https://votefinch.com/endorsements",
-"https://votefinch.com/inicio",
-"https://votefinch.com/on-the-issues",
-"https://votefinch.com/why-im-running"
+{
+"text": "0",
+"href": "https://www.votefinch.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votefinch.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/finch-ws"
+},
+{
+"text": "Donate to Support the campaign",
+"href": "https://secure.actblue.com/donate/finch-ws"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votefinch.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.votefinch.com/inicio"
+},
+{
+"text": "Home",
+"href": "https://www.votefinch.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.votefinch.com/why-im-running"
+},
+{
+"text": "On the Issues",
+"href": "https://www.votefinch.com/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://oneswitchboard.com/privacy-policy/elect-michael-finch"
+},
+{
+"text": "See All Endorsements",
+"href": "https://www.votefinch.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/WyKN6LNisifvrmdN8"
+},
+{
+"text": "[image: Elect Michael Finch]",
+"href": "https://www.votefinch.com/"
+}
 ]

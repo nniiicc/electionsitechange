@@ -1,12 +1,46 @@
 [
-"https://facebook.com/KingForTexas",
-"https://kingfortexas.com/",
-"https://kingfortexas.com/cart",
-"https://kingfortexas.com/get-involved",
-"https://kingfortexas.com/issues",
-"https://kingfortexas.com/privacy-policy",
-"https://kingfortexas.com/terms-and-conditions",
-"https://kingfortexas.com/voting-locations",
-"https://secure.anedot.com/kenking/donate",
-"https://x.com/KingForTexas"
+{
+"text": "0",
+"href": "https://www.kingfortexas.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kenking/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kingfortexas.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kingfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kingfortexas.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kingfortexas.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kingfortexas.com/terms-and-conditions"
+},
+{
+"text": "Voting Locations",
+"href": "https://www.kingfortexas.com/voting-locations"
+},
+{
+"text": "[image: Ken King for Texas]",
+"href": "https://www.kingfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KingForTexas/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KingForTexas/"
+}
 ]

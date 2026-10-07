@@ -1,19 +1,98 @@
 [
-"https://actionnetwork.org/groups/friends-of-trish-kopp",
-"https://bsky.app/profile/trishregankopp.bsky.social",
-"https://facebook.com/kopp4assembly",
-"https://instagram.com/trishkopp4assembly",
-"https://iwillvote.com/?state=NY",
-"https://mobilize.us/friendsoftrishkopp/event/1000947",
-"https://secure.actblue.com/donate/trish-kopp-1",
-"https://tiktok.com/@trishkopp",
-"https://trishkopp.org/",
-"https://trishkopp.org/about",
-"https://trishkopp.org/contact",
-"https://trishkopp.org/endorsements",
-"https://trishkopp.org/get-involved",
-"https://trishkopp.org/pledge-to-vote",
-"https://trishkopp.org/priorities",
-"https://trishkopp.org/updates",
-"https://youtube.com/@TrishKoppForStateAssembly"
+{
+"text": "About",
+"href": "https://trishkopp.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://trishkopp.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/trish-kopp-1"
+},
+{
+"text": "Endorsements",
+"href": "https://trishkopp.org/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://trishkopp.org/get-involved/"
+},
+{
+"text": "Priorities",
+"href": "https://trishkopp.org/priorities/"
+},
+{
+"text": "Updates",
+"href": "https://trishkopp.org/updates/"
+},
+{
+"text": "[image: I Pledge to Vote] I Pledge to Vote →",
+"href": "https://trishkopp.org/pledge-to-vote/"
+},
+{
+"text": "[image: Trish Kopp for State Assembly]",
+"href": "https://trishkopp.org/"
+},
+{
+"text": "[image: Trish Kopp] About →",
+"href": "https://trishkopp.org/about/"
+},
+{
+"text": "[image] Attend an Event →",
+"href": "https://actionnetwork.org/groups/friends-of-trish-kopp"
+},
+{
+"text": "[image] Donate →",
+"href": "https://secure.actblue.com/donate/trish-kopp-1"
+},
+{
+"text": "[image] Priorities →",
+"href": "https://trishkopp.org/priorities/"
+},
+{
+"text": "[image] Updates →",
+"href": "https://trishkopp.org/updates/"
+},
+{
+"text": "[image] Volunteer →",
+"href": "https://www.mobilize.us/friendsoftrishkopp/event/1000947/"
+},
+{
+"text": "[image] Voting Hub →",
+"href": "https://iwillvote.com/?state=NY"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/trishregankopp.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kopp4assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/trishkopp4assembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@trishkopp"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@TrishKoppForStateAssembly"
+},
+{
+"text": "campaign@trishkopp.org",
+"href": "mailto:campaign@trishkopp.org"
+},
+{
+"text": "press@trishkopp.org",
+"href": "mailto:press@trishkopp.org"
+},
+{
+"text": "trishkopp@trishkopp.org",
+"href": "mailto:trishkopp@trishkopp.org"
+}
 ]

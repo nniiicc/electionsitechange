@@ -1,5 +1,4 @@
-Skip navigation menu
-I was born and raised here in Wisconsin.
+Skip navigation menu About Issues Endorsements Join Us Donate Meet Ben About Issues Endorsements Join Us Donate Meet Ben I was born and raised here in Wisconsin.
 I’m a sixth-generation Wisconsinite and the son of two public servants.
 Growing up, I learned that public service isn’t about titles or politics.
 It’s about showing up, working hard, and helping your neighbors when they need it most.
@@ -22,3 +21,9 @@ I’m running for the State Assembly because I believe government works best whe
 Wisconsin is worth fighting for, and I’ll bring the same sense of duty, honesty, and accountability to Madison that guided me in uniform.
 I’m running for State Assembly because I believe government can and should work better for normal people.
 I’m running because I believe in a better future for Wisconsin.
+CONTACT THE CAMPAIGN hello@bristforassembly.com ‪(414) 293-3143‬ Powered by RUN! website builder Paid for by Friends of Ben Brist P.
+O.
+Box 71, Greendale, WI, 53129 Ben Brist is a former member of the United States Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Department of the Army, the Department of Defense, or any other department, agency, or service of the United States Government.
+You need to enable JavaScript to run this app.

@@ -1,17 +1,110 @@
 [
-"https://aacounty.org/county-council/council-districts/district-1",
-"https://aacounty.org/county-council/council-districts/district-2",
-"https://aacounty.org/county-council/council-districts/district-3",
-"https://aacounty.org/county-executive",
-"https://alsobrooks.senate.gov/",
-"https://delegatesimmons12b.com/",
-"https://delegatesimmons12b.com/contact-2",
-"https://delegatesimmons12b.com/delegatesimmons",
-"https://delegatesimmons12b.com/myteam",
-"https://delegatesimmons12b.com/representatives",
-"https://elfreth.house.gov/",
-"https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7",
-"https://msa.maryland.gov/msa/mdmanual/05sen/html/msa17058.html",
-"https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18389.html",
-"https://vanhollen.senate.gov/"
+{
+"text": "About Me",
+"href": "https://www.delegatesimmons12b.com/delegatesimmons"
+},
+{
+"text": "Allison M. Pickard",
+"href": "https://www.aacounty.org/county-council/council-districts/district-2"
+},
+{
+"text": "Angela Alsobrooks",
+"href": "https://www.alsobrooks.senate.gov/"
+},
+{
+"text": "CHRISTOPHER VAN HOLLEN",
+"href": "https://www.vanhollen.senate.gov/"
+},
+{
+"text": "Clarence Lam",
+"href": "https://msa.maryland.gov/msa/mdmanual/05sen/html/msa17058.html"
+},
+{
+"text": "Contact",
+"href": "https://www.delegatesimmons12b.com/contact-2"
+},
+{
+"text": "Gary Simmons",
+"href": "https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18389.html"
+},
+{
+"text": "Gary.Simmons@house.Maryland.gov",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "Home",
+"href": "https://www.delegatesimmons12b.com"
+},
+{
+"text": "I don't See my Representative",
+"href": "https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7"
+},
+{
+"text": "Issues",
+"href": "https://www.delegatesimmons12b.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.delegatesimmons12b.com"
+},
+{
+"text": "My Team",
+"href": "https://www.delegatesimmons12b.com/myteam"
+},
+{
+"text": "Nathan Volke",
+"href": "https://www.aacounty.org/county-council/council-districts/district-3"
+},
+{
+"text": "Peter Smith",
+"href": "https://www.aacounty.org/county-council/council-districts/district-1"
+},
+{
+"text": "Representatives",
+"href": "https://www.delegatesimmons12b.com/representatives"
+},
+{
+"text": "SARAH K. ELFRETH",
+"href": "https://elfreth.house.gov/"
+},
+{
+"text": "Steuart Pittman",
+"href": "https://www.aacounty.org/county-executive"
+},
+{
+"text": "[image: 2024-11-19_ike_elfreth_sarah_0007_re_web_0.jpg]",
+"href": "https://elfreth.house.gov/"
+},
+{
+"text": "[image: Allison Pickard.jpg]",
+"href": "https://www.aacounty.org/county-council/council-districts/district-2"
+},
+{
+"text": "[image: County Executive Pittman.jpg]",
+"href": "https://www.aacounty.org/county-executive"
+},
+{
+"text": "[image: Gary simmons]",
+"href": "https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18389.html"
+},
+{
+"text": "[image: Petersmith.png]",
+"href": "https://www.aacounty.org/county-council/council-districts/district-1"
+},
+{
+"text": "[image: alsobrooks2.jpg]",
+"href": "https://www.alsobrooks.senate.gov/"
+},
+{
+"text": "[image: lam02.jpg]",
+"href": "https://msa.maryland.gov/msa/mdmanual/05sen/html/msa17058.html"
+},
+{
+"text": "[image: nathan volke.jpg]",
+"href": "https://www.aacounty.org/county-council/council-districts/district-3"
+},
+{
+"text": "[image: official_photo.jpg]",
+"href": "https://www.vanhollen.senate.gov/"
+}
 ]

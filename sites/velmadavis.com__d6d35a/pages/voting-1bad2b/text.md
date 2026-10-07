@@ -1,2 +1,3 @@
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Home About Voting Donate Contact Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Velma Davis for KS House of Rep - Dist 91 Home About Voting Donate Contact More Home About Voting Donate Contact Home About Voting Donate Contact Voting Resources Check your voter registration Find my polling place apply for an advance ballot military & overseas voting Kansas Voting FAQs copyright © # Velma Davis for Kansas.
+All Rights Reserved.
+Paid for by Velma Davis for Kansas, Lloyd Barton, Treasurer Powered by Donate Privacy Policy Terms of Use

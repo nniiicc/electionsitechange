@@ -1,8 +1,7 @@
-MEET
-MALCOLM
-P.
-RUFF
-Malcolm P.
+0 Skip to Content MALCOLM P.
+RUFF Home About Malcolm Issues Endorsements Volunteer Vote DONATE Open Menu Close Menu MALCOLM P.
+RUFF Home About Malcolm Issues Endorsements Volunteer Vote DONATE Open Menu Close Menu Home About Malcolm Issues Endorsements Volunteer Vote DONATE MEET MALCOLM P.
+RUFF Malcolm P.
 Ruff is more than a politician – he’s a visionary leader, a tenacious advocate, and a beacon of hope for Baltimore.
 His unique blend of legal expertise, community involvement, and legislative acumen positions him as a transformative force in Maryland politics.
 Ready for the Senate.
@@ -24,18 +23,14 @@ Ruff is a builder and a breaker—breaking systems that harm, building ones that
 He’s not interested in politics-as-usual, and he sees no place in the people’s work for empty symbolism.
 Delegate Ruff is about creating real results, and that’s what the people of the 41st District can expect him to continue to deliver for years to come.
 As Senator, Malcolm P.
-Ruff will continue to prioritize:
-- Championing safer communities through innovative legislation
-- Driving economic growth and job creation in West Baltimore
-- Fighting for affordable housing solutions for all residents
-- Leading the charge for a more transparent and accountable government
-Make an impact today
-Your contribution helps power real change in Baltimore and across Maryland.
+Ruff will continue to prioritize: Improving public safety: Championing safer communities through innovative legislation Expanding economic opportunities: Driving economic growth and job creation in West Baltimore Increasing affordable housing: Fighting for affordable housing solutions for all residents Promoting government transparency: Leading the charge for a more transparent and accountable government Make an impact #ago Your contribution helps power real change in Baltimore and across Maryland.
 Every dollar supports community outreach, voter engagement, and a bold legislative agenda.
-Mail a Check:
-Committee for Malcolm P.
-Ruff
-P.O.
-Box 22067,
-Baltimore, MD 21203
-Together, we can build a safer, fairer, and more vibrant Maryland
+DONATE TODAY Mail a Check: Committee for Malcolm P.
+Ruff P.O.
+Box 22067, Baltimore, MD 21203 Together, we can build a safer, fairer, and more vibrant Maryland Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Paid for by the Committee for Malcolm P.
+Ruff Jamal Turner, Treasurer Malcolm P.
+Ruff for State Senate District 41 Terms of Service and Privacy Policy info@ruff41.com

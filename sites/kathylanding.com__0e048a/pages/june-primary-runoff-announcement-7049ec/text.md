@@ -1,11 +1,32 @@
-June Primary Runoff Announcement
-- Immediately following the Parkland shootings, discreetly met with Town Council to request that we increase our School Resource Officers so that every single school in Mount Pleasant would be protected.
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate June Primary Runoff Announcement Sunday, June 23 , 2024 Members of the State House will reconvene this coming Wednesday to discuss, debate and vote on the new State Budget that has been negotiated in the conference committee.
+We are also expected to take up any vetoes by Governor McMaster.
+I will send you an update in the next week or two once we have finalized the last few orders of business expected for the year.
+In today's newsletter, the focus is on this coming Tuesday's Primary Runoff Election in Charleston County, which is for the Republican Nominee for Sheriff.
+Many of you may have already voted, and many have already made up your mind about how you will vote this coming Tuesday.
+The most important thing is that you DO vote, because the turnout on Primary Election Day, including all early voting, was dreadfully low.
+I am not sending this email to change your mind if you have already decided and are certain of your choice; however, from speaking with many friends, acquaintances, fellow church members, and homeowners at their front doors while out door knocking, it is evident that many voters are either unsure or have heard bad information.
+My purpose today is to set the record straight with facts, combined with some opinion based on a number of years of working with one of the candidates.
+Also, while you have never seen me publicly endorse a candidate, please know that is because my day job as a Financial Advisor in one of the most highly regulated industries in the country is very limiting when it comes to testimonials, endorsements, and even donations to political campaigns.
+That does not prevent me from telling people what I think and why, as well as making limited financial contributions.
+Former Chief of Police Carl Ritchie is one of the strongest leaders I have ever encountered in my long life.
+His list of credentials, accolades, and accomplishments as a law enforcement leader is not only extensive, it is unblemished by anything negative.
+Until this campaign for Sheriff, I had never heard a single negative word about Carl Ritchie from anyone, and that is rare, especially for someone with such a long history in public service as a military intelligence and security expert prior to serving on the Mount Pleasant Police force and then as Chief for nearly 30 years.
+When Carl retired several years ago, I was still on Town Council and attended his retirement ceremony.
+Never had I seen so many people from not only all over our State, but throughout the region come to pay honor and respect to a person's accomplishments, especially considering it was a retirement ceremony, not a funeral!
+For these reasons and many more, I was absolutely shocked and disgusted when I heard about a mailer from an out-of-town PAC that completely misrepresented one of Carl's finest moments in protecting the citizens of our town.
+This shock turned to real anger when I personally received an email claiming that Carl represented "the Establishment" and was backed by "the good 'Ole boys." These two political attack pieces motivated me to send you this email to set the record straight.
+Carl Ritchie was born and bred in Charleston County, specifically Johns Island.
+He has never left, other than to serve in the military.
+US Air Force Veteran having served in the office of Special Investigations and Security Forces.
+33 Years of Local Law Enforcement Experience including SWAT, Investigations, Narcotics, and School Safety.
+Commanded his force to blockade the Ravenel Bridge the night of the King Street riots, stopping the rioters from coming over to Mount Pleasant to possibly destroy and loot as they had in downtown Charleston.
+Immediately following the Parkland shootings, discreetly met with Town Council to request that we increase our School Resource Officers so that every single school in Mount Pleasant would be protected.
 We voted to authorize this in that meeting, and within the week it was done so that all of our children, teachers and staff would be protected.
-- After the tragic Mother Emanuel shooting, led the march with well over 10,000 residents holding hands across the Ravenel Bridge to demonstrate that Charleston County would come together against such hate and violence and not allow it to destroy our community.
-- After the George Floyd killing as well as the Breonna Taylor shooting in 2020, Chief Ritchie agreed to be interviewed by me about Mount Pleasant Police Department's methods.
+After the tragic Mother Emanuel shooting, led the march with well over 10,000 residents holding hands across the Ravenel Bridge to demonstrate that Charleston County would come together against such hate and violence and not allow it to destroy our community.
+After the George Floyd killing as well as the Breonna Taylor shooting in 2020, Chief Ritchie agreed to be interviewed by me about Mount Pleasant Police Department's methods.
 I wrote a published article which demonstrated that our Chief of Police was already on top of the situation, and Mount Pleasant already had the best methods in use which is why we earned a Gold Star accreditation multiple times under Carl's leadership.
-You can read the article here.
-- When a Group contacted the Town of Mount Pleasant for a permit to stage a protest rally, Carl strongly recommended against allowing the proposed location, which was Towne Centre.
+You can read the article here .
+When a Group contacted the Town of Mount Pleasant for a permit to stage a protest rally, Carl strongly recommended against allowing the proposed location, which was Towne Centre.
 He countered by proposing Waterfront Memorial Park, where he knew his first responders could create a safe perimeter to avoid the disaster that happened on King Street in Charleston not long before.
 The entire area was surrounded by fire trucks, sanitation trucks, and even our SWAT tank.
 No one was getting outside of that protest area.
@@ -14,18 +35,23 @@ As they did, one of the young men (who was not the BLM leader, but actually a lo
 He asked Carl if they could kneel to pray together, and Carl, as a man of faith, was more than happy to oblige.
 After they kneeled and thanked God for the peaceful outcome of the day, they clasped hands, and a picture was taken.
 That picture was later used by Carl's opponent's backers (even if they are an outside PAC) to claim that Carl "took a knee to the leader of BLM." That is such an outrageous lie, and I know all of the information in this paragraph as fact from being a member of Town Council at the time.
-- Carl is an expert at bringing people together to solve problems.
+Carl is an expert at bringing people together to solve problems.
 Late last year, he arranged a meeting with myself and Layla Luna, the mother whose son Rio inspired a bill that I sponsored which passed the House and Senate this year.
 It provides families with autistic members a tremendous opportunity to let law enforcement know that someone in a vehicle is autistic or neurodivergent, so they can handle the situation better by turning off sirens, lights, and approaching the car less aggressively.
 Carl saw the benefit both of protecting our citizens and having our law enforcement and other first responders be better prepared by being alerted with a simple icon on the license tag.
 He also proposed additional training for law enforcement and other first responders, which I submitted as a second bill that will have to be resubmitted in the coming year.
-- In his spare time, Carl coaches children and young adults with special needs to compete in regional Olympics in weightlifting and other sports.
+In his spare time, Carl coaches children and young adults with special needs to compete in regional Olympics in weightlifting and other sports.
 The good will and sense of pride and accomplishment this has brought to families in our area is phenomenal.
-- Carl has been endorsed by law enforcement leadership and officers all across the state, as well as numerous State House Representatives, former and current Mayors of the cities he has protected in the past and would be responsible for protecting as Sheriff, and the highly respected long-time Sheriff Al Cannon, as well as our top Prosecutor, Solicitor Scarlett Wilson.
+Carl has been endorsed by law enforcement leadership and officers all across the state, as well as numerous State House Representatives, former and current Mayors of the cities he has protected in the past and would be responsible for protecting as Sheriff, and the highly respected long-time Sheriff Al Cannon, as well as our top Prosecutor, Solicitor Scarlett Wilson.
 Believe it or not, this was given as the reason Carl is "backed by the good 'Ole boys." No, actually these are all people in leadership who understand the facts and responsibilities of this job and know for certain that Carl is the best person to be Sheriff.
 We have a very unique and special opportunity on Tuesday to elect one of the finest law enforcement leaders you could find anywhere by casting our ballot for Carl Ritchie for Sheriff.
 He didn't need to do this.
 After 33 years of an incredibly distinguished career, Carl and his wife Vicky could simply have spent the rest of their days enjoying a peaceful retirement.
 But Carl felt the call of serving once again after seeing what was happening in Charleston County under the current Sheriff.
 I am so glad he did, and along with Former Sheriff Al Cannon, Solicitor Scarlett Wilson, and many others, I truly hope voters will realize how important it is that we elect this man as our Republican Nominee on Tuesday.
-As a final note, click here to watch a short video from Chief Ritchie's campaign.
+As a final note, click here to watch a short video from Chief Ritchie's campaign. ﻿ Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

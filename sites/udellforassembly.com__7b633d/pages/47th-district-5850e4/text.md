@@ -1,10 +1,5 @@
-47TH DISTRICT
-Check out the map below to see if you live in the 47th District!
-The 47th Assembly District includes the following communities:
-- City of Fitchburg except Wards 23-25 (these three wards are the Southdale neighborhood/area attached from Town of Madison)
-- City of Stoughton
-- Village of McFarland Wards 7-10 (southern half below orange line - see detailed map below).
+0 Skip to Content Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Folder: Bio Back Bio Bio de Randy Udell Folder: Why I'm Running Back Why I'm Running Porque Me Estoy Postulando Folder: Issues Back Issues Sobre Los Temas Endorsements 47th District Contact Contribute 47TH DISTRICT Check out the map below to see if you live in the 47th District!
+The 47th Assembly District includes the following communities: City of Fitchburg except Wards 23-25 (these three wards are the Southdale neighborhood/area attached from Town of Madison) City of Stoughton Village of McFarland Wards 7-10 (southern half below orange line - see detailed map below).
 The border of our district follows portions of Highway 51, Burma Road, Farwell Street, Milwaukee Street, Anthony Street, and Broadhead Street.
-- Towns of Dunkirk, Dunn, Rutland, and Pleasant Springs
-- Town of Albion Wards 1 & 4 (west of I-39/90)
-Interactive map of the district where you can input your address here!
+Towns of Dunkirk, Dunn, Rutland, and Pleasant Springs Town of Albion Wards 1 & 4 (west of I-39/90) Interactive map of the district where you can input your address here !
+Randy’s Blueprint for Wisconsin ON THE ISSUES FOLLOW ALONG Contact CONTRIBUTE Paid for by the Committee to Elect Randy Udell © # Committee to elect randy udell — All Rights Reserved photos of randy with politicians and other public figures does not imply an endorsement or affiliation

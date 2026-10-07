@@ -1,8 +1,6 @@
-Sen.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back Sen.
 John Albers Applauds Passage of SB 335 Through Committee & DA Susan K.
-Treadaway
-Saturday, January 27, 2024
-This week, Senate Bill 335, sponsored by Sen.
+Treadaway Saturday, January 27, 2024 This week, Senate Bill 335, sponsored by Sen.
 John Albers (R–Roswell) passed by a unanimous, bipartisan vote through the Senate Committee on Judiciary.
 Also known as the “Safeguarding Adopted Children from Sexual Violence Act”, SB 335 would provide that sexual intercourse or sodomy between certain family members related by adoption be regarded as incest.
 Incest is already illegal under Georgia law, and this legislation will now include adoptive families.
@@ -17,10 +15,8 @@ Albers.
 I am proud to work with Sen.
 John Albers, a true champion for justice, as we partner together to make Georgia a safer place for children and families,” said Susan K.
 Treadaway.
-You can find more information on SB 335 here.
-# # # #
-Sen.
+You can find more information on SB 335 here .
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
-…
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] … Senator John Albers GA DISTRICT 56 Privacy Policy

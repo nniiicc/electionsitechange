@@ -1,69 +1,290 @@
 [
-"http://acton.org/",
-"http://cato.org/",
-"http://cato.org/dailys/01-01-99.html",
-"http://daviddfriedman.com/Libertarian/response_to_huben.html",
-"http://en.wikipedia.org/wiki/Political_parties_in_the_United_States",
-"http://harrybrowne.org/GLO/DrugWar.htm",
-"http://harrybrowne.org/GLO/GreatLibertarianOffer.htm",
-"http://harrybrowne.org/articles/CivilLibertiesAndLibertarians.htm",
-"http://harrybrowne.org/articles/FreedomsLost.htm",
-"http://harrybrowne.org/articles/Galambos.htm",
-"http://harrybrowne.org/articles/InvisibleHand.htm",
-"http://harrybrowne.org/articles/LoonyToBeFree.htm",
-"http://harrybrowne.org/articles/WallStreetJournal.htm",
-"http://harrybrowne.org/articles/WayToSmallerGovernment.htm",
-"http://harrybrowne.org/articles/WhatDoLibertariansWant.htm",
-"http://harrybrowne.org/articles/reese.htm",
-"http://harrybrowne.org/articles/separating.htm",
-"http://harrybrowne.org/articles/whatdoyouwant.htm",
-"http://heartland.org/",
-"http://independent.org/",
-"http://isil.org/resources/lit/libertarianism.html",
-"http://johnhospers.com/Articles/GuestEds/Libertarianism%20and%20the%20Policy%20of%20Laissez%20Faire.html",
-"http://kevincraig.us/",
-"http://laissezfairebooks.com/index.cfm?tid=31&aid=VFT&RequestTimeout=500",
-"http://lewrockwell.com/north/north536.html",
-"http://lp.org/introduction",
-"http://lp.org/introduction/americas-third-largest-party",
-"http://lp.org/introduction/the-libertarian-option",
-"http://lp.org/introduction/time-for-action",
-"http://lp.org/introduction/what-americans-want",
-"http://lp.org/introduction/why-not-stick-with-the-establishment",
-"http://lp.org/issues/campplat",
-"http://lp.org/issues/introduction.shtml",
-"http://lp.org/issues/platform_all.shtml",
-"http://lp.org/platform",
-"http://lp.org/press.shtml",
-"http://mackinac.org/",
-"http://mises.org/",
-"http://mises.org/story/2801",
-"http://nationalreview.com/comment/comment-browne030701.shtml",
-"http://politifact.com/florida/statements/2013/sep/09/libertarian-party-broward-county/libertarians-say-theyre-third-largest-political-pa",
-"http://rationalreview.com/rationalreviewold/archive/tlknapp/tlknapp010102.html",
-"http://reason.org/",
-"http://showmefreedom.org/2006/April/NoOath.shtml",
-"http://tech.mit.edu/V120/N42/_Steve_Ste.42l.html",
-"http://theadvocates.org/library/essence-of-liberty.html",
-"http://web.archive.org/web/20030207120819/http://www.laissezfairebooks.com/index.cfm?tid=64",
-"http://web.archive.org/web/20041129085610/www.free-market.net/directorybytopic/libertarianism",
-"http://web.archive.org/web/20050415003817/http://www.lp.org/issues/resolutions.html",
-"http://web.archive.org/web/20050420235220/http://www.lp.org/organization/lnc",
-"http://web.archive.org/web/20080211062952/http://www.lp.org/lpn/9910-pulse.html",
-"http://wnd.com/news/article.asp?ARTICLE_ID=21619",
-"http://wnd.com/news/article.asp?ARTICLE_ID=21993",
-"http://wnd.com/news/article.asp?ARTICLE_ID=23195",
-"http://wnd.com/news/article.asp?ARTICLE_ID=24349",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=13226",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=13234",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=13245",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=13246",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=13247",
-"http://worldnetdaily.com/news/article.asp?ARTICLE_ID=26734",
-"https://kevincraig.us/capitalism.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/links/libertyamendment.org/smoot.html",
-"https://kevincraig.us/violence.htm",
-"https://kevincraig.us/www.lp.org/issues/campplat/index.html",
-"https://kevincraig.us/www.lp.org/issues/program/index.html"
+{
+"text": "A Reader's Guide to Libertarian Theory",
+"href": "http://web.archive.org/web/20030207120819/http://www.laissezfairebooks.com/index.cfm?tid=64"
+},
+{
+"text": "America's third largest party",
+"href": "http://www.lp.org/introduction/americas-third-largest-party"
+},
+{
+"text": "Are Libertarians \"Anarchists\"? - Mises Institute",
+"href": "http://www.mises.org/story/2801"
+},
+{
+"text": "Believing in People",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=13234"
+},
+{
+"text": "Bringing Back Liberty",
+"href": "http://www.wnd.com/news/article.asp?ARTICLE_ID=23195"
+},
+{
+"text": "Campaign platform, presidential, 2000",
+"href": "http://www.lp.org/issues/campplat/"
+},
+{
+"text": "Cato Institute",
+"href": "http://www.cato.org/"
+},
+{
+"text": "Contemporary Libertarianism",
+"href": "http://web.archive.org/web/20041129085610/www.free-market.net/directorybytopic/libertarianism/"
+},
+{
+"text": "Defending our 'Freedoms'",
+"href": "http://harrybrowne.org/articles/FreedomsLost.htm"
+},
+{
+"text": "Did You Ever See a Meme Walking?",
+"href": "http://www.rationalreview.com/rationalreviewold/archive/tlknapp/tlknapp010102.html"
+},
+{
+"text": "Do You Have Too Much Freedom?",
+"href": "http://www.wnd.com/news/article.asp?ARTICLE_ID=21619"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Florida: Now We Know How Government Operates",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=13246"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Freedom Is Responsibility",
+"href": "http://www.harrybrowne.org/articles/reese.htm"
+},
+{
+"text": "Galambos, Andrew, � the Unknown Libertarian",
+"href": "http://harrybrowne.org/articles/Galambos.htm"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Great Libertarian Offer, The",
+"href": "http://harrybrowne.org/GLO/GreatLibertarianOffer.htm"
+},
+{
+"text": "Heartland Institute",
+"href": "http://www.heartland.org/"
+},
+{
+"text": "Introduction",
+"href": "http://www.lp.org/issues/introduction.shtml"
+},
+{
+"text": "Invisible Hand Is a Gentle Hand, the",
+"href": "http://harrybrowne.org/articles/InvisibleHand.htm"
+},
+{
+"text": "Is It Loony to Want You to be Free?",
+"href": "http://harrybrowne.org/articles/LoonyToBeFree.htm"
+},
+{
+"text": "Key Concepts of Libertarianism",
+"href": "http://www.cato.org/dailys/01-01-99.html"
+},
+{
+"text": "LNC",
+"href": "http://web.archive.org/web/20050420235220/http://www.lp.org/organization/lnc/"
+},
+{
+"text": "Libertarian Thought",
+"href": "http://www.laissezfairebooks.com/index.cfm?tid=31&aid=VFT&RequestTimeout=500"
+},
+{
+"text": "Libertarian's New Years Resolutions, a",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=13226"
+},
+{
+"text": "Libertarianism and the Policy of Laissez Faire",
+"href": "http://johnhospers.com/Articles/GuestEds/Libertarianism%20and%20the%20Policy%20of%20Laissez%20Faire.html"
+},
+{
+"text": "Libertarianism: The Path to Peace, Prosperity, and Freedom",
+"href": "http://www.isil.org/resources/lit/libertarianism.html"
+},
+{
+"text": "Libertarians Are Not Part of the \"Right\"",
+"href": "http://www.nationalreview.com/comment/comment-browne030701.shtml"
+},
+{
+"text": "Libertarians and Civil Liberties",
+"href": "http://harrybrowne.org/articles/CivilLibertiesAndLibertarians.htm"
+},
+{
+"text": "Libertarians say they're the third largest political party",
+"href": "http://www.politifact.com/florida/statements/2013/sep/09/libertarian-party-broward-county/libertarians-say-theyre-third-largest-political-pa/"
+},
+{
+"text": "Libertarians the Largest Third Party",
+"href": "http://tech.mit.edu/V120/N42/_Steve_Ste.42l.html"
+},
+{
+"text": "Mackinac Center for Public Policy",
+"href": "http://www.mackinac.org/"
+},
+{
+"text": "Mises Institute",
+"href": "http://mises.org"
+},
+{
+"text": "Missouri Libertarian Party Reaffirms Opposition to the \"Oath\"",
+"href": "http://www.showmefreedom.org/2006/April/NoOath.shtml"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "National Campaign Platform",
+"href": "https://kevincraig.us/www.lp.org/issues/campplat/index.html"
+},
+{
+"text": "Only Way to Smaller Government, the",
+"href": "http://harrybrowne.org/articles/WayToSmallerGovernment.htm"
+},
+{
+"text": "Platform",
+"href": "http://www.lp.org/issues/platform_all.shtml"
+},
+{
+"text": "Platform",
+"href": "http://www.lp.org/platform"
+},
+{
+"text": "Political parties in the United States - Wikipedia, the free encyclopedia",
+"href": "http://en.wikipedia.org/wiki/Political_parties_in_the_United_States#Libertarian_Party"
+},
+{
+"text": "Popular Understandings of Libertarianism",
+"href": "http://web.archive.org/web/20080211062952/http://www.lp.org/lpn/9910-pulse.html"
+},
+{
+"text": "President's First Day in Office, the",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=13247"
+},
+{
+"text": "Press Release Archive",
+"href": "http://www.lp.org/press.shtml"
+},
+{
+"text": "Program",
+"href": "https://kevincraig.us/www.lp.org/issues/program/index.html"
+},
+{
+"text": "Reason Foundation",
+"href": "http://reason.org/"
+},
+{
+"text": "Response to Mike Huben�s �Critiques of Libertarianism�",
+"href": "http://www.daviddfriedman.com/Libertarian/response_to_huben.html"
+},
+{
+"text": "Separating Ourselves from the Pack",
+"href": "http://harrybrowne.org/articles/separating.htm"
+},
+{
+"text": "Spoiler for Gore?",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=13245"
+},
+{
+"text": "Statement of Principles",
+"href": "http://www.lp.org/issues/platform_all.shtml#sop"
+},
+{
+"text": "The Acton Institute for the Study of Religion and Liberty",
+"href": "http://www.acton.org/"
+},
+{
+"text": "The Essence of Liberty",
+"href": "http://www.theadvocates.org/library/essence-of-liberty.html"
+},
+{
+"text": "The Independent Institute",
+"href": "http://independent.org/"
+},
+{
+"text": "The Libertarian option",
+"href": "http://www.lp.org/introduction/the-libertarian-option"
+},
+{
+"text": "Time for action",
+"href": "http://www.lp.org/introduction/time-for-action"
+},
+{
+"text": "Trusting People to Do the Right Thing?",
+"href": "http://www.wnd.com/news/article.asp?ARTICLE_ID=21993"
+},
+{
+"text": "What Americans want",
+"href": "http://www.lp.org/introduction/what-americans-want"
+},
+{
+"text": "What Are Libertarians Trying to Achieve?",
+"href": "http://harrybrowne.org/articles/WhatDoLibertariansWant.htm"
+},
+{
+"text": "What Do Libertarians Want?",
+"href": "http://harrybrowne.org/articles/WallStreetJournal.htm"
+},
+{
+"text": "What Do You Want from Politics and How Will You Get It",
+"href": "http://harrybrowne.org/articles/whatdoyouwant.htm"
+},
+{
+"text": "What is the Libertarian Party?",
+"href": "http://www.lp.org/introduction"
+},
+{
+"text": "What the Enron Scandal Means to You",
+"href": "http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=26734"
+},
+{
+"text": "Why not stick with the establishment?",
+"href": "http://www.lp.org/introduction/why-not-stick-with-the-establishment"
+},
+{
+"text": "[no text]",
+"href": "http://harrybrowne.org/GLO/DrugWar.htm"
+},
+{
+"text": "[no text]",
+"href": "http://harrybrowne.org/articles/WallStreetJournal.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "[no text]",
+"href": "http://www.wnd.com/news/article.asp?ARTICLE_ID=24349"
+},
+{
+"text": "adding wryly",
+"href": "https://kevincraig.us/links/libertyamendment.org/smoot.html"
+},
+{
+"text": "resolutions",
+"href": "http://web.archive.org/web/20050415003817/http://www.lp.org/issues/resolutions.html"
+},
+{
+"text": "undergirds the Free Market System",
+"href": "https://kevincraig.us/capitalism.htm"
+},
+{
+"text": "violence",
+"href": "https://kevincraig.us/violence.htm"
+},
+{
+"text": "winner",
+"href": "http://www.lewrockwell.com/north/north536.html"
+}
 ]

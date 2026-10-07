@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/sliccardo.bsky.social",
-"https://canva.com/design/DAHNaJrup1w/h_tK2vzL8E9YlS3cGjxYhw/view",
-"https://designedtorun.com/",
-"https://facebook.com/SamLiccardo1",
-"https://instagram.com//samliccardo",
-"https://liccardo.house.gov/",
-"https://samliccardo.com/",
-"https://samliccardo.com/get-involved",
-"https://samliccardo.com/news",
-"https://samliccardo.com/privacy",
-"https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress",
-"https://x.com/sliccardo"
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "Get Involved",
+"href": "https://www.samliccardo.com/get-involved"
+},
+{
+"text": "News",
+"href": "https://www.samliccardo.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.samliccardo.com/privacy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: samliccardo.com logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sliccardo.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SamLiccardo1"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//samliccardo"
+},
+{
+"text": "[no text]",
+"href": "https://www.canva.com/design/DAHNaJrup1w/h_tK2vzL8E9YlS3cGjxYhw/view"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sliccardo"
+},
+{
+"text": "here.",
+"href": "https://liccardo.house.gov/"
+},
+{
+"text": "info@samliccardo.com",
+"href": "mailto:info@samliccardo.com"
+}
 ]

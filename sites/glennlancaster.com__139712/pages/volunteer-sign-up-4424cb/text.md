@@ -1,10 +1,19 @@
+About Priorities News Support Volunteer Event Sign-Up Terms and Conditions Privacy Policy Contact Contribute Privacy Policy © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
+All rights reserved.
+Services by burnett media group .
+Hosting by Hostdoodle .
 Volunteer Sign-Up Want to help make a difference?
 Join our volunteer team.
 Whether you can give a few hours or just want to stay involved, we’ll keep you updated on ways to pitch in.
-First Name Last Name Address City StateAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin Islands (US)VirginiaWashingtonWest VirginiaWisconsinWyomingArmed Forces (the) AmericasArmed Forces EuropeArmed Forces PacificArmy Post Office (U.S.
+First Name Last Name Address City State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands (US) Virginia Washington West Virginia Wisconsin Wyoming Armed Forces (the) Americas Armed Forces Europe Armed Forces Pacific Army Post Office (U.S.
 Army and U.S.
-Air Force)Fleet Post Office (U.S.
+Air Force) Fleet Post Office (U.S.
 Navy and U.S.
-Marine Corps) Zip Phone Email I acknowledge that I agree to the Terms and Conditions and have read the Privacy Policy.
+Marine Corps) Zip Phone Email I acknowledge that I agree to the Terms and Conditions and have read the Privacy Policy .
 I would like to receive updates from you by email.
 I agree to receive automated messages. *If you no longer wish to receive text messages, you may opt-out at any time by replying "STOP".
+Father, Grandfather, Husband Wilsonville Community Advocate Electrical Engineering Entrepreneur About Priorities News Shop Support Contribute Volunteer Event Sign-Up Glenn@GlennLancaster.com GlennLancaster.com PO Box 512,Independence, OR 97351 Contact Glenn's Personal Phone: 971.396.6610 [call or text] © # Paid for by Love Where You Live #23304 | PO BOX 512 Independence, OR 97351.
+All rights reserved.
+Services by burnett media group .
+Hosting by Hostdoodle .
+Privacy Policy Terms and conditions Close Font Resize A- A+ Keyboard navigation Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Close Accessibility by WAH

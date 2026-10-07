@@ -1,12 +1,66 @@
 [
-"https://facebook.com/stecforsenate",
-"https://secure.winred.com/stec-for-senate/donate-today",
-"https://stecforsenate.com/",
-"https://stecforsenate.com/about-dan",
-"https://stecforsenate.com/blog",
-"https://stecforsenate.com/contact",
-"https://stecforsenate.com/post/snapshot-volunteering-at-glens-falls-salvation-army",
-"https://stecforsenate.com/post/stec-outlines-priorities-ahead-of-2022-session",
-"https://stecforsenate.com/post/stec-talks-prison-closures-reforms",
-"https://twitter.com/danstec"
+{
+"text": "About Dan",
+"href": "https://www.stecforsenate.com/about-dan"
+},
+{
+"text": "Contact",
+"href": "https://www.stecforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stec-for-senate/donate-today"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.winred.com/stec-for-senate/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/stec-for-senate/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.stecforsenate.com"
+},
+{
+"text": "Read more",
+"href": "https://www.stecforsenate.com/about-dan"
+},
+{
+"text": "Read more",
+"href": "https://www.stecforsenate.com/blog"
+},
+{
+"text": "SENATOR DAN STEC",
+"href": "https://www.stecforsenate.com"
+},
+{
+"text": "SNAPSHOT: Volunteering at Glens Falls Salvation Army",
+"href": "https://www.stecforsenate.com/post/snapshot-volunteering-at-glens-falls-salvation-army"
+},
+{
+"text": "Stec outlines priorities ahead of 2022 session",
+"href": "https://www.stecforsenate.com/post/stec-outlines-priorities-ahead-of-2022-session"
+},
+{
+"text": "Stec talks prison closures, reforms",
+"href": "https://www.stecforsenate.com/post/stec-talks-prison-closures-reforms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/stecforsenate/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/danstec"
+},
+{
+"text": "[no text]",
+"href": "https://www.stecforsenate.com"
+},
+{
+"text": "stecforsenate@gmail.com",
+"href": "mailto:dan@stecforsenate.com"
+}
 ]

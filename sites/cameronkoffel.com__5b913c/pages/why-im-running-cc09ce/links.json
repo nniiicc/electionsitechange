@@ -1,6 +1,26 @@
 [
-"https://cameronkoffel.com/assets/film.mp4",
-"https://cameronkoffel.com/contribute.html",
-"https://cameronkoffel.com/index.html",
-"https://cameronkoffel.com/issues.html"
+{
+"text": "Donate",
+"href": "https://cameronkoffel.com/contribute.html"
+},
+{
+"text": "Download it instead",
+"href": "https://cameronkoffel.com/assets/film.mp4"
+},
+{
+"text": "Get involved",
+"href": "https://cameronkoffel.com/index.html#join"
+},
+{
+"text": "Where I stand",
+"href": "https://cameronkoffel.com/issues.html"
+},
+{
+"text": "[image: Koffel for State Representative]",
+"href": "https://cameronkoffel.com/index.html"
+},
+{
+"text": "cameronkoffel.com",
+"href": "https://cameronkoffel.com/index.html"
+}
 ]

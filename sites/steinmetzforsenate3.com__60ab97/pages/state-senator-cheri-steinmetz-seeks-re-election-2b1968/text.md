@@ -1,4 +1,4 @@
-LINGLE, WY – I will seek re-election for Wyoming State Senate District 3, which includes Goshen, Niobrara, and Weston Counties, in the upcoming Republican Primary election on August 16th.
+Skip to content Wyoming Senator Cheri Steinmetz SD3 Menu Home Bio News Calendar Sponsor/Co-sponsor Bills + BILLS 2026 Bills 2025 Bills 2024 Bills 2023 Bills 2022 Bills 2021 Bills 2020 Bills 2019 Bills 2018 Bills 2017 Position on the Issues Articles of Interest Endorsements Wyoming Senator Cheri Steinmetz SD3 | News | Announcement | State Senator Cheri Steinmetz Seeks Re-election State Senator Cheri Steinmetz Seeks Re-election Published on: April 23, 2022 by Admin &nbsp Category: Announcement LINGLE, WY – I will seek re-election for Wyoming State Senate District 3, which includes Goshen, Niobrara, and Weston Counties, in the upcoming Republican Primary election on August 16 th .
 Clearly, challenges lie ahead and we are equal to them.
 As a free people we have the responsibility to decide what kind of country we will live in, what society we will tolerate, and what legacy we will leave our children, grandchildren and all yet to come.
 As Americans we also have the ability to act upon those decisions.
@@ -23,4 +23,10 @@ My leadership, bill sponsorship, and voting record in the legislature reflect my
 I will continue to hold these shared values and to be accessible, avaIlable, and accountable to you, my constituents.
 At this time, God willing, I will commit to serve for four more years should you choose to re-elect me.
 I will do my best to represent the entire District in a fair and consistent manner.
-Should you wish to reach me directly, please email me at STEINMETZforSENATE@gmail.com, or call me on my mobile phone at (307) 534-5342.
+Should you wish to reach me directly, please email me at STEINMETZforSENATE@gmail.com , or call me on my mobile phone at (307) 534-5342.
+Share this: Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on X (Opens in new window) X Like this: Like Loading...
+Article Information This entry was posted in Announcement Tagged with re-elect Bookmark this article State Senator Cheri Steinmetz Seeks Re-election Post navigation More Articles Search for: News BILLS 2026 Bills and Status Bills 2025 Bills 2024 Bills 2023 Address Cheri Steinmetz P.O.
+Box 101 Lingle, WY 82223 307-534-5342 Email Contact Wyoming Larger government equals less individual freedom and prosperity.
+We must address the structural budget deficit without increasing taxes.
+Select Menu Home Donate Contact Committees 2026 - Senate Corporations, Elections & Political Subdivisions 2026 - Senate Labor, Health & Social Services "Paid for by the Committee to Elect Steinmetz for Senate" © # Cheri Steinmetz Senate District 3.
+All rights reserved. %d

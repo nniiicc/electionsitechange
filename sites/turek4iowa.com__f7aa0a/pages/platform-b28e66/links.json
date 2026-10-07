@@ -1,55 +1,266 @@
 [
-"https://bsky.app/profile/joshturek4iowa.bsky.social",
-"https://facebook.com/Turek4Iowa",
-"https://instagram.com/joshturek4iowa",
-"https://iowacapitaldispatch.com/2024/04/01/bill-on-emotional-support-animal-housing-accommodations-heads-to-governor",
-"https://iowacapitaldispatch.com/2024/08/13/state-lifts-prescription-requirement-for-wheelchair-repair-through-medicaid",
-"https://iowapublicradio.org/state-government-news/2025-02-26/bill-advances-to-help-iowans-with-disabilities-medicaid-work-without-worry",
-"https://iwillvote.com/votinginfo/IA",
-"https://kcci.com/article/report-card-on-iowa-schools-data-shows-how-iowa-compares-to-other-states/40961606",
-"https://kmaland.com/news/turek-reflects-on-first-legislative-session/article_07403ba2-f334-11ed-b079-8385307ac0d5.html",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF105&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF199&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2108&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2195&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2203&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2204&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2408&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2442&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2443&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2455&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2456&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2462&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2476&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF251&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2663&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF2727&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF286&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF349&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF387&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF405&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF489&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF664&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF697&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF745&ga=91",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF79&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ba=HF81&ga=90",
-"https://legis.iowa.gov/legislation/BillBook?ga=91&ba=HF+288",
-"https://legis.iowa.gov/legislation/BillBook?ga=91&ba=hf281",
-"https://secure.actblue.com/donate/bs_web_tur_0825",
-"https://steveschmidt.substack.com/p/iowa-is-not-a-red-state",
-"https://store.turek4iowa.com/",
-"https://threads.com/@joshturek4iowa",
-"https://tiktok.com/@turek4iowa",
-"https://turek4iowa.com/",
-"https://turek4iowa.com/about",
-"https://turek4iowa.com/endorsements",
-"https://turek4iowa.com/news",
-"https://turek4iowa.com/platform",
-"https://turek4iowa.com/privacy",
-"https://turek4iowa.com/terms",
-"https://turek4iowa.com/volunteer",
-"https://x.com/Turek4Iowa",
-"https://x.com/turek4iowa/status/2015146641175539819?s=20",
-"https://youtube.com/@JoshTurek4Iowa"
+{
+"text": "About",
+"href": "https://turek4iowa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bs_web_tur_0825"
+},
+{
+"text": "Donate1",
+"href": "https://secure.actblue.com/donate/bs_web_tur_0825"
+},
+{
+"text": "Endorsements",
+"href": "https://turek4iowa.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://turek4iowa.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://iwillvote.com/votinginfo/IA"
+},
+{
+"text": "Iowans with disabilities",
+"href": "https://iowacapitaldispatch.com/2024/08/13/state-lifts-prescription-requirement-for-wheelchair-repair-through-medicaid/"
+},
+{
+"text": "Mandatory Country of Origin labeling",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2443&ga=91"
+},
+{
+"text": "News",
+"href": "https://turek4iowa.com/news"
+},
+{
+"text": "Platform",
+"href": "https://turek4iowa.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://turek4iowa.com/privacy"
+},
+{
+"text": "Right to Repair bill",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2442&ga=91"
+},
+{
+"text": "Sign Up",
+"href": "https://turek4iowa.com/#sign-up"
+},
+{
+"text": "Store",
+"href": "https://store.turek4iowa.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://turek4iowa.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://turek4iowa.com/volunteer"
+},
+{
+"text": "[image: Josh Turek for Iowa logo]",
+"href": "https://turek4iowa.com/"
+},
+{
+"text": "[image: Josh Turek for Iowa]Endorsements",
+"href": "https://turek4iowa.com/endorsements"
+},
+{
+"text": "[image: Josh Turek for Iowa]How to Vote",
+"href": "https://iwillvote.com/votinginfo/IA"
+},
+{
+"text": "[image: Josh Turek for Iowa]Latest News",
+"href": "https://turek4iowa.com/news"
+},
+{
+"text": "[image: Josh Turek for Iowa]Meet Josh",
+"href": "https://turek4iowa.com/about"
+},
+{
+"text": "[image: Josh Turek for Iowa]Platform",
+"href": "https://turek4iowa.com/platform"
+},
+{
+"text": "[image: Josh Turek for Iowa]Store",
+"href": "https://store.turek4iowa.com/"
+},
+{
+"text": "[image: Josh Turek for Iowa]Volunteer",
+"href": "https://turek4iowa.com/volunteer"
+},
+{
+"text": "[image: Turek for Iowa logo]",
+"href": "https://turek4iowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshturek4iowa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Turek4Iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshturek4iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@joshturek4iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@turek4iowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshTurek4Iowa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Turek4Iowa"
+},
+{
+"text": "ban certain medical devices that use known carcinogens",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF387&ga=90"
+},
+{
+"text": "believes we need",
+"href": "https://steveschmidt.substack.com/p/iowa-is-not-a-red-state"
+},
+{
+"text": "benefits for individuals with disabilities",
+"href": "https://www.iowapublicradio.org/state-government-news/2025-02-26/bill-advances-to-help-iowans-with-disabilities-medicaid-work-without-worry"
+},
+{
+"text": "cap insulin costs at $25/month",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF405&ga=91"
+},
+{
+"text": "create a homeowner assistance program",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF105&ga=90"
+},
+{
+"text": "drive up input costs",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2727&ga=91"
+},
+{
+"text": "eliminate long waiting lists",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2108&ga=90"
+},
+{
+"text": "expand access to dental services under Medicaid",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2476&ga=90"
+},
+{
+"text": "fighting",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2195&ga=90"
+},
+{
+"text": "for first-time homebuyers",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF697&ga=90"
+},
+{
+"text": "improve",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2204&ga=90"
+},
+{
+"text": "increase funding for water quality sensors",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2408&ga=91"
+},
+{
+"text": "increase state funding for the veterans trust",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF81&ga=90"
+},
+{
+"text": "individual campaigns",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF+288"
+},
+{
+"text": "info@turek4iowa.com",
+"href": "mailto:info@turek4iowa.com"
+},
+{
+"text": "legislation",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2455&ga=91"
+},
+{
+"text": "legislation to support",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2663&ga=91"
+},
+{
+"text": "limit the ability of private equity",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF745&ga=91"
+},
+{
+"text": "nationally ranked for its public schools",
+"href": "https://www.kcci.com/article/report-card-on-iowa-schools-data-shows-how-iowa-compares-to-other-states/40961606"
+},
+{
+"text": "pediatric cancer research",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF489&ga=91"
+},
+{
+"text": "political committees",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF286&ga=91"
+},
+{
+"text": "protect Iowa National Guardsmen",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2462&ga=91"
+},
+{
+"text": "protect the right",
+"href": "https://iowacapitaldispatch.com/2024/04/01/bill-on-emotional-support-animal-housing-accommodations-heads-to-governor/"
+},
+{
+"text": "raise the minimum wage",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF349&ga=91"
+},
+{
+"text": "repeal school vouchers",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF199&ga=91"
+},
+{
+"text": "require the state board of education",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF251&ga=91"
+},
+{
+"text": "right to organize",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=hf281"
+},
+{
+"text": "spoken out",
+"href": "https://x.com/turek4iowa/status/2015146641175539819?s=20"
+},
+{
+"text": "strengthen the veteran homestead tax credit",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF79&ga=90"
+},
+{
+"text": "strengthen the veterans homestead tax credit",
+"href": "https://www.kmaland.com/news/turek-reflects-on-first-legislative-session/article_07403ba2-f334-11ed-b079-8385307ac0d5.html"
+},
+{
+"text": "to",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2203&ga=90"
+},
+{
+"text": "to eliminate 14C certificates",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2456&ga=91"
+},
+{
+"text": "to protect patients in nursing homes",
+"href": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF664&ga=91"
+},
+{
+"text": "“right to repair” bill",
+"href": "https://iowacapitaldispatch.com/2024/08/13/state-lifts-prescription-requirement-for-wheelchair-repair-through-medicaid/"
+}
 ]

@@ -1,33 +1,150 @@
 [
-"http://tiktok.com/@jamieagernc",
-"https://agerforcongress.com/",
-"https://agerforcongress.com/about",
-"https://agerforcongress.com/media",
-"https://agerforcongress.com/news",
-"https://agerforcongress.com/platform",
-"https://agerforcongress.com/press",
-"https://agerforcongress.com/privacy",
-"https://agerforcongress.com/volunteer",
-"https://agerforcongress.com/vote",
-"https://bsky.app/profile/jamie.agerforcongress.com",
-"https://facebook.com/JamieAgerNC",
-"https://facebook.com/JamieAgerNC/events",
-"https://instagram.com/jamieagernc",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://ncleg.gov/findyourlegislators",
-"https://ncsbe.gov/registering/checking-your-registration",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-mail",
-"https://ncsbe.gov/voting/voter-id",
-"https://ncsbe.gov/voting/voter-id/get-free-voter-photo-id",
-"https://ncsbe.gov/voting/voter-id/student-and-public-employee-ids-approved-voting",
-"https://secure.actblue.com/donate/agerwebsite",
-"https://store.agerforcongress.com/",
-"https://threads.com/@jamieagernc",
-"https://vt.ncsbe.gov/EVSite",
-"https://vt.ncsbe.gov/PPLkup",
-"https://vt.ncsbe.gov/reglkup",
-"https://x.com/jamieagernc",
-"https://xpslane.com/",
-"https://youtube.com/@AgerForCongress"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/agerwebsite"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/JamieAgerNC/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "Learn more about registering to vote here",
+"href": "https://www.ncsbe.gov/registering/checking-your-registration"
+},
+{
+"text": "Learn more about voter ID requirements at the State Board of Elections website.",
+"href": "https://www.ncsbe.gov/voting/voter-id"
+},
+{
+"text": "Media",
+"href": "https://agerforcongress.com/media"
+},
+{
+"text": "Meet Jamie",
+"href": "https://agerforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://agerforcongress.com/news"
+},
+{
+"text": "North Carolina Board of Elections website",
+"href": "https://vt.ncsbe.gov/reglkup/"
+},
+{
+"text": "North Carolina State Board of Elections has information about voting in the upcoming election available here",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Platform",
+"href": "https://agerforcongress.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://agerforcongress.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://agerforcongress.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://store.agerforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://agerforcongress.com/volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://agerforcongress.com/vote"
+},
+{
+"text": "[image: Ager for Congress]",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jamie.agerforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://vt.ncsbe.gov/EVSite/"
+},
+{
+"text": "[no text]",
+"href": "https://vt.ncsbe.gov/PPLkup/"
+},
+{
+"text": "[no text]",
+"href": "https://vt.ncsbe.gov/reglkup/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamieAgerNC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AgerForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jamieagernc"
+},
+{
+"text": "absentee-by-mail here",
+"href": "https://www.ncsbe.gov/voting/vote-mail"
+},
+{
+"text": "certain college or university student or employee ID cards",
+"href": "https://www.ncsbe.gov/voting/voter-id/student-and-public-employee-ids-approved-voting"
+},
+{
+"text": "early in-person here",
+"href": "https://vt.ncsbe.gov/EVSite/"
+},
+{
+"text": "find your address on the North Carolina General Assembly’s interactive website.",
+"href": "https://www.ncleg.gov/findyourlegislators"
+},
+{
+"text": "free photo ID card issued by the State Board of Elections",
+"href": "https://www.ncsbe.gov/voting/voter-id/get-free-voter-photo-id"
+},
+{
+"text": "here",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "team@agerforcongress.com",
+"href": "mailto:team@agerforcongress.com"
+},
+{
+"text": "vt.NCSBE.gov/EVsite",
+"href": "https://vt.ncsbe.gov/EVSite/"
+},
+{
+"text": "vt.NCSBE.gov/PPLkup",
+"href": "https://vt.ncsbe.gov/PPLkup/"
+}
 ]

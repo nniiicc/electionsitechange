@@ -1,38 +1,23 @@
-The Georgia House of Representatives kicked off the sixth week of the 2024 legislative session on Monday, February 12.
+Home Legislative News Donate Select Page Legislative News: February 19, 2024 by buckneradmin | Feb 19, 2024 | Legislative News | 0 comments The Georgia House of Representatives kicked off the sixth week of the 2024 legislative session on Monday, February 12.
 We convened in the House Chamber for four days and made significant progress as we passed 34 bills and resolutions by the end of the week to send to our Senate counterparts.
 By Tuesday, we reached Legislative Day 20, which means we are now more than halfway through our 40-day session.
 With “Crossover Day” looming on Legislative Day 28, we are focused on perfecting legislation for consideration and advancing notable measures on the House floor.
-The House voted on an important measure this week, House Bill 1037, which would create the Georgia Commission on Maternal and Infant Health.
+The House voted on an important measure this week, House Bill 1037 , which would create the Georgia Commission on Maternal and Infant Health.
 Through this commission, this legislation aims to examine the causes of maternal and infant deaths in our state and provide policymakers with a more holistic view of these issues so that we can continue our work to improve maternal and infant health in Georgia.
 House Bill 1010 , continues our commitment to Georgia’s families and will expand parental leave for our state employees and teachers.
-My colleagues and I also gave unanimous passage to House Bill 1022, the Colton-McNeill Act, which would fortify protections for disabled minors by elevating penalties for acts of cruelty against them.
+My colleagues and I also gave unanimous passage to House Bill 1022 , the Colton-McNeill Act, which would fortify protections for disabled minors by elevating penalties for acts of cruelty against them.
 The legislation would address a critical gap in existing laws, seeking to impose harsher consequences for perpetrators who target vulnerable children.
-The House also turned its attention toward our state’s education system and its workforce with the passage of House Bill 282.
+The House also turned its attention toward our state’s education system and its workforce with the passage of House Bill 282 .
 This legislation would provide a significant step to enhance career preparedness among middle and high school students in Georgia.
-We also passed House Bill 874, a bill that would require every public school in Georgia to have a functional automated external defibrillator (AED) machine on the premises of school grounds at all times and during school-related functions.
+We also passed House Bill 874 , a bill that would require every public school in Georgia to have a functional automated external defibrillator (AED) machine on the premises of school grounds at all times and during school-related functions.
 This bipartisan measure would align with Georgia’s commitment to prioritizing Georgia’s students and creating environments where timely medical intervention can significantly increase the chances of saving young lives.
 Many in the Columbus area will remember Jo McDaniel-working ahead of her time, to place defibrillators throughout our community.
 She would be very happy the State caught up with her!
-Below I have highlighted a few other pieces of legislation we passed during the sixth week of session:
-· House Bill 546, would allow a pharmacist to adapt a prescription drug order, under certain circumstances, by changing the quantity of medication prescribed, changing the dosage form of the prescription and completing missing information on a prescription drug order.
-Adaptions would be required to be documented and done with patient consent.
-· House Bill 814, would amend current law relating to computation of taxable net income to exclude any grants for investments in broadband infrastructure.
-· House Bill 872, would allow for dental students to be eligible for the service cancelable loan program when they agree to practice in rural counties with a population of 50,000 or less.
-· House Bill 873, would codify the ability of juvenile courts to establish a juvenile treatment court division as an alternative to the traditional judicial system for juvenile delinquency cases or child in need of services (CHINS) cases.
-· House Bill 988, would define the term “artificial intelligence” and revise the responsibilities of the Georgia Technology Authority.
-· House Bill 1033, or the “Utility Worker Protection Act,” would add enhanced penalties for protection of utility workers harmed while acting within the course/scope of their employment or while performing official duties
-The Georgia House of Representatives will reconvene for our seventh week of session on Tuesday, February 20.
+Below I have highlighted a few other pieces of legislation we passed during the sixth week of session: · House Bill 546 , would allow a pharmacist to adapt a prescription drug order, under certain circumstances, by changing the quantity of medication prescribed, changing the dosage form of the prescription and completing missing information on a prescription drug order.
+Adaptions would be required to be documented and done with patient consent. · House Bill 814 , would amend current law relating to computation of taxable net income to exclude any grants for investments in broadband infrastructure. · House Bill 872 , would allow for dental students to be eligible for the service cancelable loan program when they agree to practice in rural counties with a population of 50,000 or less. · House Bill 873 , would codify the ability of juvenile courts to establish a juvenile treatment court division as an alternative to the traditional judicial system for juvenile delinquency cases or child in need of services (CHINS) cases. · House Bill 988 , would define the term “artificial intelligence” and revise the responsibilities of the Georgia Technology Authority. · House Bill 1033 , or the “Utility Worker Protection Act,” would add enhanced penalties for protection of utility workers harmed while acting within the course/scope of their employment or while performing official duties The Georgia House of Representatives will reconvene for our seventh week of session on Tuesday, February 20.
 I invite you to share any questions or concerns you have about any legislation under consideration.
-Under the Gold Dome
-| |
-| |
-| Happy Georgia Day!
+Under the Gold Dome Happy Georgia Day!
 To commemorate the 291st anniversary of the 13th colony’s founding, check out our all-new Georgia Day video.
 Narrated by Dr.
 Stan Deaton, the Georgia Historical Society’s Senior Historian, this video is a visual exploration of Georgia’s founding and early development.
-You can watch the presentation HERE |
-| |
-| |
-| |
-| | |
-| |
+You can watch the presentation HERE Search Search Recent Posts Legislative News: April 22, 2023 Legislative News: March 18, 2024 Legislative News: March 11, 2024 Legislative News: March 4, 2024 Legislative News: February 19, 2024 Facebook X Instagram Website Built in Georgia by Juniperus

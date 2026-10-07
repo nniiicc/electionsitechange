@@ -1,5 +1,4 @@
-Childcare
-We have a childcare affordability crisis in Michigan.
+Skip navigation menu Meet Jocelyn Issues News Volunteer Store Donate Meet Jocelyn Issues News Volunteer Store Donate Affordability Housing Healthcare Childcare Energy Costs Education Data Centers Environment Childcare We have a childcare affordability crisis in Michigan.
 Some parents are stuck on waiting lists for months; others are paying more for care than their mortgage.
 And too often, women are pushed out of the workforce because affordable, reliable care simply doesn't exist.
 As a working mom and public servant, I understand the stress, the tradeoffs, and the urgency families feel every single day.
@@ -12,3 +11,4 @@ We simply don't have enough providers because we've failed to treat early childh
 We can and must build a system that supports children's development, respects working parents, and provides every child a strong start from day one.
 Imagine a Michigan where every family has access to next-generation early learning and care that's affordable, reliable, and built to last.
 That's the future I'm ready to deliver.
+Donate By Mail Jocelyn Benson for Governor 23133 Woodward Ave, Number 116 Ferndale, MI 48220 Powered by RUN! website builder Paid for by Jocelyn Benson for Governor, 23133 Woodward Ave, Number 116, Ferndale, MI 48220 You need to enable JavaScript to run this app.

@@ -1,16 +1,66 @@
 [
-"http://facebook.com/roseforohio",
-"http://instagram.com/roseforohio",
-"https://roseforohio.com/",
-"https://roseforohio.com/about",
-"https://roseforohio.com/cart",
-"https://roseforohio.com/contact",
-"https://roseforohio.com/endorsements",
-"https://roseforohio.com/events",
-"https://roseforohio.com/home",
-"https://roseforohio.com/platform",
-"https://roseforohio.com/volunteer",
-"https://secure.actblue.com/donate/friends-of-rose-lounsbury-1",
-"https://store.roseforohio.com/",
-"https://tiktok.com/@roseforohio"
+{
+"text": "0",
+"href": "https://www.roseforohio.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.roseforohio.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.roseforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-rose-lounsbury-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.roseforohio.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.roseforohio.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.roseforohio.com/volunteer"
+},
+{
+"text": "Get Involved",
+"href": "https://www.roseforohio.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.roseforohio.com/"
+},
+{
+"text": "MERCH",
+"href": "https://store.roseforohio.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.roseforohio.com/platform"
+},
+{
+"text": "[image: Rose Lounsbury for Ohio House]",
+"href": "https://www.roseforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.roseforohio.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/roseforohio"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/roseforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@roseforohio"
+}
 ]

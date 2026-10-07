@@ -1,16 +1,6 @@
-Diane Blair-Sherlock is a Mom, wife, attorney, and advocate.
+Meet Issues Volunteer Donate Meet Issues Volunteer Donate Meet Diane Volunteer Donate Request a Sign Diane Blair-Sherlock is a Mom, wife, attorney, and advocate.
 Having been raised by a single Mom, Diane understands the importance of self sufficiency and worked to put herself through law school.
 Being a Mom, Diane learned how to advocate for the educational rights for children with disabilities and the importance of quality health insurance.
 As a Teamster wife, and self employed Attorney, Diane understands the benefits of organized labor and believes that we need to expand access to good paying jobs with benefits to strengthen the middle class.
-As your State Representative, I will continue to work for:
-Illinois Federation of Teachers
-West Suburban Teachers Union, Local 571
-Local 150 Operating Engineers
-International Union of
-Elevator Constructors
-Local 2
-Associated Fire Fighters of Illinois
-Designated a Friend of Agriculture by the Illinois Farm Bureau ACTIVATOR
-ABATE Illinois
-Citizen Action Network
-Humane Society Legislative Fund
+Meet Diane As your State Representative, I will continue to work for: Create high paying jobs with great benefits Expand access to affordable healthcare Invest in the middle class Learn More Endorsements 2026 Illinois Federation of Teachers West Suburban Teachers Union, Local 571 Local 150 Op erating Engineers International Union of Elevator Constructors Local 2 Associated Fire Fighters of Illinois Designated a Friend of Agriculture by the Illinois Farm Bureau ACTIVATOR ABATE Illinois Citizen Action Network Humane Society Legislative Fund Paid for by Friends for Diane Blair-Sherlock blair.sherlockfor46@gmail.com ﻿ Home Issues Meet Volunteer Privacy Policy Home Issues Meet Volunteer Privacy Policy Powered by Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes View Details Quantity - + Sold Out

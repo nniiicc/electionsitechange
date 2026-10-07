@@ -1,4 +1,9 @@
-May 2026
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Citizen, or Subject?
+Citizen, or Subject?
+Citizen, or Subject?
+Jun 1, 2026 Jun 1, 2026 May 2026 Alignment - 19 May 2130 - Jaffrey, NH - By Jonah O.
+Alignment - 19 May 2130 - Jaffrey, NH - By Jonah O.
+0:00 / 1:34 33 Days from now, our Republic celebrates it’s 250th anniversary.
 At the time, people lived under the divine right of Kings.
 They were subjects - subject to the orders of the monarch.
 With little say as to how the society around them was shaped.
@@ -14,7 +19,7 @@ Forcing the appointed Sheriff and his deputy out of the town.
 Months before the shot was heard around the world at Lexington, it was the citizens in Portsmouth who in the winter of 1774, seized Fort William and Mary.
 Providing armaments used by our own Colonel John Stark at the Battle of Bunker Hill; where nearly all the troops serving him were men of granite.
 It was the people of Newmarket in 1768 who took strides way ahead of any other towards a truly public government in electing Wentworth Cheswell as their town constable at the age of twenty-two.
-Cheswell was a man of English, and African heritage.
+Brash, A Son of Liberty - 20 May 1641 - Concord by wife of Brash Brash, A Son of Liberty - 20 May 1641 - Concord by wife of Brash Cheswell was a man of English, and African heritage.
 He was the first man with African heritage to serve in public office in the United Staes, and would go on to live a life of public service.
 Riding intelligence for the rebels, as Paul Revere famously did.
 Serving as the first justice of the peace (judge) with African decent in 1805.
@@ -31,6 +36,8 @@ In fact, it has been but a blip in the grand scheme of our species’ time on th
 It is fragile, and must be treated as such.
 The progress towards achieving the promises illustrated in the ironic, yet eternal words of Jefferson declaring our independence; is not, and has never been linear.
 The progress we have seen has been the result of people from odd backgrounds, with odd personalities, and a vision of a better future for those to come, who refuse to give up on that vision.
+Marjorie Smith's Goodbye - 14 May 15:42 - Concord - By Jonah O.
+Marjorie Smith's Goodbye - 14 May 15:42 - Concord - By Jonah O.
 Our Representative government has every capability to function, and still does.
 In my four years serving in the New Hampshire House of Representatives, my belief in that truth has only grown.
 Out of 111 pieces of legislation with my name on them, 23 are now chaptered law.
@@ -43,6 +50,10 @@ The heart of the legislature still beats, but it does so at a concerningly slow 
 It is on the edge of death.
 I ran for the legislature for years ago because I believe we can make it beat again.
 I believe that people of conscience can make a difference in this world.
+Storrs St.
+Pigeons - 19 May 13:16 - By Jonah O.
+Storrs St.
+Pigeons - 19 May 13:16 - By Jonah O.
 We can make our food eatable, our water drinkable, our air breathable.
 We can give every child the ability to get, not just an education that adds them to the other bricks in the wall, but the best education available to our society at the time.
 We can have a world where people aren’t priced out of existence.
@@ -74,4 +85,5 @@ I am running to serve another term in New Hampshire’s General Court, because I
 I hope to earn your support over this campaign.
 I hope to see you finding ways to participate in the civic life around you.
 And I look forward to celebrating these United States’ 300th anniversary with my fellow citizens fifty years from now.
-Back to all
+The White Rabbit of Webb Rd - 7 May 2015 - By Jonah O.
+The White Rabbit of Webb Rd - 7 May 2015 - By Jonah O. ‹ Dreams from Rome ‹ Dreams from Rome ‹ Dreams from Rome A Lunch Room Legislature › A Lunch Room Legislature › A Lunch Room Legislature › Back to all

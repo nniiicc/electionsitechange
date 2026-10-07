@@ -1,2 +1,3 @@
-Help Us Win Volunteer We need people power on our side to win in November First Name* Last Name Email* Phone Number How do you want to get involved?
-Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Help Us Win Volunteer We need people power on our side to win in November First Name * Last Name Email * Phone Number How do you want to get involved?
+Knock on Doors Send Texts Make Calls Talk to Friends & Neighbors Yard Sign Sign Up Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

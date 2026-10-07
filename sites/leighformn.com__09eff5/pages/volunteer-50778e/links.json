@@ -1,15 +1,66 @@
 [
-"http://instagram.com/leighformn",
-"https://facebook.com/LeighforMN",
-"https://facebook.com/LeighforMN/events",
-"https://leighformn.com/",
-"https://leighformn.com/about",
-"https://leighformn.com/cart",
-"https://leighformn.com/connect",
-"https://leighformn.com/endorsements",
-"https://leighformn.com/issues-2",
-"https://leighformn.com/platform",
-"https://leighformn.com/statement-on-labor-1",
-"https://leighformn.com/volunteer",
-"https://secure.actblue.com/donate/leigh-for-all"
+{
+"text": "0",
+"href": "https://www.leighformn.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.leighformn.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.leighformn.com/"
+},
+{
+"text": "Click to VOLUNTEER",
+"href": "https://www.leighformn.com/connect"
+},
+{
+"text": "Contact",
+"href": "https://www.leighformn.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leigh-for-all"
+},
+{
+"text": "Endorsements",
+"href": "https://www.leighformn.com/endorsements"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.leighformn.com/platform"
+},
+{
+"text": "Issues",
+"href": "https://www.leighformn.com/issues-2"
+},
+{
+"text": "Statement on Labor",
+"href": "https://www.leighformn.com/statement-on-labor-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.leighformn.com/volunteer"
+},
+{
+"text": "[image: LEIGH for 66a]",
+"href": "https://www.leighformn.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/leighformn"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LeighforMN"
+},
+{
+"text": "check out our Facebook for",
+"href": "https://www.facebook.com/LeighforMN/events"
+},
+{
+"text": "leighformn@gmail.com",
+"href": "mailto:leighformn@gmail.com"
+}
 ]

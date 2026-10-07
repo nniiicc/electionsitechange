@@ -1,7 +1,12 @@
 {
  "description": "Meet the Tristan and the entire Leavitt family. Learn about his continued support for WV.",
  "final_url": "https://www.leavittforwv.com/about",
- "paid_for_by": null,
+ "fingerprint": "58a9e7b3db8ae6ab265435d2fba2a0c3f147120d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ABOUT | Leavitt for WV",
- "years_mentioned": []
+ "years_mentioned": [
+  "2007",
+  "2022"
+ ]
 }

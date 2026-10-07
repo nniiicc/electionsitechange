@@ -1,14 +1,54 @@
 [
-"https://annewatsonforvtsenate.com/",
-"https://annewatsonforvtsenate.com/_blank",
-"https://annewatsonforvtsenate.com/blog.html",
-"https://annewatsonforvtsenate.com/donate--support.html",
-"https://annewatsonforvtsenate.com/events.html",
-"https://annewatsonforvtsenate.com/in-the-press.html",
-"https://annewatsonforvtsenate.com/issues.html",
-"https://annewatsonforvtsenate.com/volunteer.html",
-"https://annewatsonforvtsenate.com/voting.html",
-"https://sos.vermont.gov/elections/voters/early-absentee-voting",
-"https://sos.vermont.gov/elections/voters/polling-places",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "Blog",
+"href": "https://www.annewatsonforvtsenate.com/blog.html"
+},
+{
+"text": "Donate & Support",
+"href": "https://www.annewatsonforvtsenate.com/donate--support.html"
+},
+{
+"text": "Early/Absentee Voting",
+"href": "https://sos.vermont.gov/elections/voters/early-absentee-voting"
+},
+{
+"text": "Events",
+"href": "https://www.annewatsonforvtsenate.com/events.html"
+},
+{
+"text": "How to Vote",
+"href": "https://www.annewatsonforvtsenate.com/voting.html"
+},
+{
+"text": "In the Press",
+"href": "https://www.annewatsonforvtsenate.com/in-the-press.html"
+},
+{
+"text": "Issues",
+"href": "https://www.annewatsonforvtsenate.com/issues.html"
+},
+{
+"text": "Meet Anne",
+"href": "https://www.annewatsonforvtsenate.com/"
+},
+{
+"text": "Polling Locations",
+"href": "https://sos.vermont.gov/elections/voters/polling-places"
+},
+{
+"text": "Volunteer",
+"href": "https://www.annewatsonforvtsenate.com/volunteer.html"
+},
+{
+"text": "Voter Registration",
+"href": "https://sos.vermont.gov/elections/voters/registration"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[image: Anne Watson for VT Senate]",
+"href": "https://www.annewatsonforvtsenate.com/"
+}
 ]

@@ -1,26 +1,106 @@
 [
-"http://linkedin.com/in/juliagrantreed",
-"https://app.leg.wa.gov/bi/billsbysponsor",
-"https://app.leg.wa.gov/billsummary?BillNumber=1247&Year=2023&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=1289&Year=2023&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=1319&Year=2023&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=1575&Year=2023&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=2022&Year=2023&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=2025&Year=2023&Initiative=False",
-"https://doorsopenkingcounty.org/",
-"https://facebook.com/Julia-Reed-for-State-Rep-113877141199510",
-"https://fiscal.wa.gov/statebudgets/2024proposals/ht2024supp",
-"https://instagram.com/votejuliareed",
-"https://secure.actblue.com/donate/juliareed2024",
-"https://votejuliareed.com/",
-"https://votejuliareed.com/aboutjulia",
-"https://votejuliareed.com/endorse-julia-2024",
-"https://votejuliareed.com/endorsements2026",
-"https://votejuliareed.com/join-our-team",
-"https://votejuliareed.com/legislative-priorities",
-"https://votejuliareed.com/new-page-2",
-"https://votejuliareed.com/newsroom",
-"https://votejuliareed.com/policy-priorities",
-"https://votejuliareed.com/privacy-policy",
-"https://waopportunityscholarship.org/"
+{
+"text": "2026 Endorsements",
+"href": "https://www.votejuliareed.com/endorsements2026"
+},
+{
+"text": "About Julia",
+"href": "https://www.votejuliareed.com/aboutjulia"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/juliareed2024"
+},
+{
+"text": "Doors Open King County",
+"href": "https://www.doorsopenkingcounty.org/"
+},
+{
+"text": "Endorse Julia 2024",
+"href": "https://www.votejuliareed.com/endorse-julia-2024"
+},
+{
+"text": "HB 1247",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1247&Year=2023&Initiative=False"
+},
+{
+"text": "HB 1289",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1289&Year=2023&Initiative=False"
+},
+{
+"text": "HB 1319",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1319&Year=2023&Initiative=False"
+},
+{
+"text": "HB 1575",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1575&Year=2023&Initiative=False"
+},
+{
+"text": "HB 2022:",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2022&Year=2023&Initiative=False"
+},
+{
+"text": "HB 2025:",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2025&Year=2023&Initiative=False"
+},
+{
+"text": "Home",
+"href": "https://www.votejuliareed.com/"
+},
+{
+"text": "Join our Team",
+"href": "https://www.votejuliareed.com/join-our-team"
+},
+{
+"text": "Legislative Priorities",
+"href": "https://www.votejuliareed.com/legislative-priorities"
+},
+{
+"text": "New Page",
+"href": "https://www.votejuliareed.com/new-page-2"
+},
+{
+"text": "Newsroom",
+"href": "https://www.votejuliareed.com/newsroom"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.votejuliareed.com/policy-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejuliareed.com/privacy-policy"
+},
+{
+"text": "Washington State Opportunity Scholarship",
+"href": "https://waopportunityscholarship.org/"
+},
+{
+"text": "[image: With Community In Community For the 36th Rep]",
+"href": "https://www.votejuliareed.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/juliagrantreed"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Julia-Reed-for-State-Rep-113877141199510"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votejuliareed/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@votejuliareed.com"
+},
+{
+"text": "clicking here",
+"href": "https://app.leg.wa.gov/bi/billsbysponsor#biennium=2023-24&houseSponsorId=34033&sponsorType=house&billsBySponsorReportType=allbills&hasCompanionBills=false"
+},
+{
+"text": "ferry replacement and electrification",
+"href": "https://fiscal.wa.gov/statebudgets/2024proposals/ht2024supp"
+}
 ]

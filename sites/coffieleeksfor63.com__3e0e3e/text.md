@@ -1,18 +1,7 @@
-BREAKING BARRIERS, BUILDING FUTURES
-JACQUELINE
-COFFIE-LEEKS
-STATE REPRESENTATIVE DISTRICT 63
-FOR
-CREATING PATHWAYS TO ECONOMIC SECURITY
-CREATING OPPORTUNITIES FOR YOUTH
-SUPPORTING SENIORS & CAREGIVERS
-EXPANDING ATTAINABLE HOUSING SOLUTIONS
-Expand access to education, workforce opportunities, and community resources that create real upward mobility.
+top of page HOME MEET JACQUELINE GET INVOLVED DONATE BREAKING BARRIERS, BUILDING FUTURES JACQUELINE COFFIE-LEEKS STATE REPRESENTATIVE DISTRICT 63 FOR CREATING PATHWAYS TO ECONOMIC SECURITY CREATING OPPORTUNITIES FOR YOUTH SUPPORTING SENIORS & CAREGIVERS EXPANDING ATTAINABLE HOUSING SOLUTIONS Expand access to education, workforce opportunities, and community resources that create real upward mobility.
 Invest in education, job training, and mentorship programs that prepare young people for success.
 Create strong communities to care every generation by strengthening support systems for seniors, caregivers, and families while ensuring neighborhoods remain safe and stable.
 Expand attainable housing through public-private partnerships and programs that rehabilitate and preserve quality housing units.
 For more than 45 years, I have worked directly with residents in Hillsborough County, connecting individuals, businesses, and community organizations to resources that strengthen lives and neighborhoods.
-Over the past 12 years, I’ve also had the opportunity to work on a statewide initiative, helping secure and manage funding from multiple state departments, bringing more than $30 million in investments to create jobs and provide vital services across five communities.
-My purpose has always been centered on people, progress, and possibilities, and I am committed to continuing that work to build stronger opportunities for residents throughout District 63.
--Jacqueline Coffie-Leeks
-"I will work with the community to identify and remove barriers, creating opportunities for residents and small businesses to thrive."
+Over the past 12 years, I’ve also had the opportunity to work on a statewide initiative, helping secure and manage funding from multiple state departments, bringing more than $30 million in investments to create jobs and provide vital services across five communities. ​ My purpose has always been centered on people, progress, and possibilities, and I am committed to continuing that work to build stronger opportunities for residents throughout District 63. -Jacqueline Coffie-Leeks "I will work with the community to identify and remove barriers, creating opportunities for residents and small businesses to thrive." We need your support!
+JACQUELINE COFFIE-LEEKS STATE REPRESENTATIVE DISTRICT 63 FOR DONATE FOLLOW US ONLINE CONTACT US ​ ​ INFO@ COFFIELEEKSFOR63.COM ​ (813)485-4630 Political advertisement paid for and approved by Jacqueline Coffie-Leeks, Democrat, for Florida House District 63. bottom of page

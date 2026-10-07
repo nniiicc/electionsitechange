@@ -1,5 +1,4 @@
-ABOUT ERIN HOUCHIN
-Erin Houchin was born and raised in Indiana’s 9th District, and is a proud lifelong Hoosier.
+0 Skip to Content ABOUT ISSUES VOLUNTEER CONTACT DONATE Open Menu Close Menu ABOUT ISSUES VOLUNTEER CONTACT DONATE Open Menu Close Menu ABOUT ISSUES VOLUNTEER CONTACT DONATE ABOUT ERIN HOUCHIN Erin Houchin was born and raised in Indiana’s 9th District, and is a proud lifelong Hoosier.
 Growing up in Scottsburg as the daughter of a local dentist, Erin learned the strong conservative values of personal responsibility and hard work at an early age, but she first became politically active as an intern with the Indiana State Senate while a student at Indiana University.
 There, she met her husband and realized her passion for public service.
 After college, Erin worked in state and federal government roles, including as a Family Case Manager in child services and as Southeast Indiana Regional Director for then-U.S.
@@ -16,3 +15,4 @@ A proud alumna of Indiana University in Bloomington, Erin also holds a master's 
 Elected by her colleagues as Secretary of the House Republican Conference, Erin is the second-highest-ranking Republican woman in the House.
 She serves on the House Energy & Commerce Committee — one of the most powerful committees in Congress, with jurisdiction over energy, health care, and technology — as well as the Budget and Rules Committees.
 She lives in Salem with her husband, Dustin, and their three children.
+CONTRIBUTE PAID FOR BY HOUCHIN FOR CONGRESS ABOUT | ISSUES | CONTACT Privacy Policy

@@ -1,23 +1,20 @@
-Gov.
-Scott Press Release on Education
-TRANSFORMING EDUCATION IN VERMONT THROUGH EQUITY, QUALITY, AND SUSTAINABILITY
-Commentary by Governor Phil Scott
-Over the past few months, my Administration has rolled out a plan to transform and strengthen our public education system.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Gov.
+Scott Press Release on Education Mar 4 Written By North for VT House TRANSFORMING EDUCATION IN VERMONT THROUGH EQUITY, QUALITY, AND SUSTAINABILITY Commentary by Governor Phil Scott Over the past few months, my Administration has rolled out a plan to transform and strengthen our public education system.
 After last year’s double digit increase in property taxes, Vermonters made it clear that we need to make major changes to a system that no longer meets the needs of our students, educators or taxpayers.
 Our plan is focused on three critical areas.
-The first is quality.
+The first is quality .
 Vermonters spend more money per student on education than nearly every other state.
 But because of the way our system is designed, we’re not leading the pack in terms of outcomes, in fact we’re moving in the wrong direction.
 A report released just last month shows that our test scores in key areas are continuing to decline.
 Which means we’re not getting the best return on our substantial investment.
 With that in mind, transformation must be looked at through the lens of increasing education quality for every kid, in every county across the state.
 That also means giving our educators, who are working incredibly hard, more support and better pay to do what they love to do.
-Second is equity.
+Second is equity .
 Vermont students are guaranteed by our constitution equal access to education.
 Every kid, whether you live in Brighton or Burlington, deserves access to art, music, languages, AP courses, CTE and trades training, after school, summer programing and sports.
 But we know we’re not meeting that standard.
 The gap between programs from school to school, district to district and region to region is staggering, and getting wider.
-Which brings us to the third area, sustainability.
+Which brings us to the third area, sustainability .
 One reason our quality isn’t where it should be - and opportunity varies from community to community - is due to the way we fund our schools.
 Right now, every school district sets their own budget, and if the voters pass it, the state must fund it.
 That goes for high spending towns who pass budgets year after year, and more frugal communities (who probably need resources the most) that try to keep budgets lean in hopes of a lower tax increase.
@@ -45,10 +42,13 @@ Schools are there for our kids to learn - in a safe and welcoming environment - 
 Schools are about our kids and that’s why we’ve all been willing to take this on.
 It’s time to make sure the $2.5 billion dollars Vermonters spend, creates one of the best systems in the country, to pay our teachers what they deserve no matter where they choose to teach, lift our rural communities, revitalize our cities, raise our standards and lower the crushing and unending burden on those who foot the bill.
 I know we can do all of that, and more, if we have the courage do the tough work, and be brave together.
-###
-I support the Governor’s press to transform the education delivery, governance, and funding system in Vermont.
+### I support the Governor’s press to transform the education delivery, governance, and funding system in Vermont.
 While there are still many details to be ironed out, the Governor has put us on the right path and I am supporting it’s completion and timely adoption in all ways that I can.
-I remain honored to be your Representative,
-Rob North
-www.NorthForVTHouse.com
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham.
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham.
+North for VT House Previous Previous Paying for Gold, Getting Dirt?
+Next Next Town Meeting Legislative Update Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

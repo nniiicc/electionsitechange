@@ -1,5 +1,4 @@
-HEALTHCARE:
-My adoptive dad is a proud Navy veteran.
+0 Skip to Content About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE HEALTHCARE: My adoptive dad is a proud Navy veteran .
 During his two tours in Vietnam he sacrificed for all of us, and he was exposed to tactical herbicides which led to serious cardiovascular and vein illnesses.
 I sat with my dad as he fought to receive the care and coverage he desperately needed.
 Just as my adoptive father is a powerful advocate and healer for fellow veterans, and I’ve spent my entire adult life fighting to advance the health and well-being with, and for, our community.
@@ -15,4 +14,4 @@ Protecting the right to make our own healthcare decisions and reproductive justi
 5.
 We’ve lost too many lives to gun violence and related suicides.
 It is essential that we lift the ban on researching gun violence as a public health issue.
-This includes banning assault weapons, restricting magazine capacities, and requiring universal background checks.
+This includes banning assault weapons, restricting magazine capacities, and requiring universal background checks. prepared and paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026

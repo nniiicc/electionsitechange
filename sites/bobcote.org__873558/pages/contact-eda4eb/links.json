@@ -1,7 +1,34 @@
 [
-"https://bobcote.org/",
-"https://bobcote.org/about",
-"https://bobcote.org/issues",
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/bob-cote-1"
+{
+"text": "About",
+"href": "https://www.bobcote.org/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bob-cote-1"
+},
+{
+"text": "Home",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.bobcote.org/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Bob Cote for State Rep logo]",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.bobcote.org/"
+},
+{
+"text": "bob@bobcote.org",
+"href": "mailto:bob@bobcote.org"
+}
 ]

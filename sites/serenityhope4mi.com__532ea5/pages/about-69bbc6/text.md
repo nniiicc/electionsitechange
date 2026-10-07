@@ -1,4 +1,4 @@
-I grew up in a trailer park in Albee Township.
+0 Skip to Content Home About Priorities Policy Views Endorsements Contact Privacy Policy Donate Open Menu Close Menu Donate Home About Priorities Policy Views Endorsements Contact Privacy Policy Open Menu Close Menu Home About Priorities Policy Views Endorsements Contact Privacy Policy Donate I grew up in a trailer park in Albee Township.
 We didn’t have much.
 Watching my family and neighbors struggle to just get by fostered a deeply rooted sense of grit and empathy.
 These are not conflicting values—despite what our current divisive political rhetoric would have you believe.
@@ -8,8 +8,7 @@ I graduated with a bachelors degree in political science.
 I went on to later get a Masters Degree in Public Administration.
 I returned to the 93rd when I met my husband, Brandon.
 We married on February 14th, 2015.
-(If you’re wondering, he’s the “romantic one”.)
-We’re honest, hardworking, Michiganders.
+(If you’re wondering, he’s the “romantic one”.) We’re honest, hardworking, Michiganders.
 We don’t have money.
 We’re still building together.
 We’ve added “campaigning” to our full calendar of work and parenting.
@@ -25,9 +24,7 @@ I serve because I believe in second chances.
 I serve because I believe that we become our best selves in the service of our neighbor.
 What greater way to serve than be your voice in Lansing?
 Elect Serenity Hope Salak as your next House District 93 Representative.
-Leaving a legacy in the 93rd…
-From the trailor park to the Capitol steps.
-…a little more about me.
+Leaving a legacy in the 93rd… From the trailor park to the Capitol steps. …a little more about me.
 I worked at the Department of Health and Human Services as an Assistance Payments Worker for 11 years.
 Nine of those years were spent in Saginaw County.
 I answered the phone as “Serenity” and not “Mrs.
@@ -46,8 +43,7 @@ That’s a fancy way of saying “helper”.
 I teach, create inviting spaces, organize closets and build relationships with our future leaders.
 And, if life isn’t full of enough surprises, my husband decided to get his pilot’s license this year.
 Enjoy this photo of me summoning the utmost confidence in Brandon.
-More About My Amazing Family
-Brandon can be summed up in one word—Dad.
+More About My Amazing Family Brandon can be summed up in one word—Dad.
 This guy loves being a dad more than anything else…and has the jokes to prove it.
 My husband has worked in manufacturing for nearly 20 years.
 He started as a “saw guy”, “did shipping and receiving” and “forklift operating”.
@@ -60,11 +56,9 @@ Brandon graduated from Freeland High School in 2006.
 Go Falcons!
 Nadia (15) really did not want to be featured on the website.
 When I told her that Mom’s campaign was about families, she relented.
-We get a few pictures and these two quotes:
-“Vote for my Mom.
+We get a few pictures and these two quotes: “Vote for my Mom.
 She does the jobs that no one else wants to.
-She loves everyone.”
-I am also allowed to share with you that she enjoys softball, volleyball and golf.
+She loves everyone.” I am also allowed to share with you that she enjoys softball, volleyball and golf.
 She is a freshman this year.
 And she “wouldn’t be surprised” if I won the election.
 Her faith gives me faith!
@@ -73,3 +67,5 @@ He also enjoys fashion and break dancing.
 His favorite subject in school is Math.
 Christian, when asked if he thought Mom was going to win the election said “Yes!
 Because you’re nice!” He was unavailable for further comment as he couldn’t pause his Roblox game.
+CTE Serenity Hope Salak Donate Paid for by CTE Serenity Hope Salak, 1630 Van Wagoner Drive, Saginaw MI 48638 Make checks payable to CTE Serenity Hope Salak.
+Mail to 1630 Van Wagoner Drive, Saginaw MI 48638

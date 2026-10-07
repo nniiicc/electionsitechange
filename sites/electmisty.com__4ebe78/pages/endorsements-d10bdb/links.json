@@ -1,7 +1,26 @@
 [
-"https://electmisty.com/",
-"https://electmisty.com/about-misty",
-"https://electmisty.com/contact",
-"https://electmisty.com/endorsements",
-"https://politics.raisethemoney.com/en/gqhoitmeamxgxfzzogcyea"
+{
+"text": "About",
+"href": "https://electmisty.com/about-misty/"
+},
+{
+"text": "Contact",
+"href": "https://electmisty.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://politics.raisethemoney.com/en/gqhoitmeamxgxfzzogcyea"
+},
+{
+"text": "Endorsements",
+"href": "https://electmisty.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://electmisty.com/"
+},
+{
+"text": "[image]",
+"href": "https://electmisty.com/"
+}
 ]

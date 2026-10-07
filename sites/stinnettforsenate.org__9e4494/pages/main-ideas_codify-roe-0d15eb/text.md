@@ -1,5 +1,4 @@
-Codify Roe
-The issue of abortion is always top of mind for Oklahoma voters.
+0 Skip to Content Stinnett For Senate Home About Main Ideas Open Menu Close Menu Stinnett For Senate Home About Main Ideas Open Menu Close Menu Home About Main Ideas Codify Roe Jul 28 Written By Curtis Stinnett The issue of abortion is always top of mind for Oklahoma voters.
 I myself have come a long way on my understanding of the issue.
 The goal of reducing the number of abortions is a noble one, and one I intend to pursue.
 Making this very valid medical procedure illegal, however, I will oppose utterly.
@@ -10,3 +9,5 @@ If I were to have someone request I donate blood or a kidney, I could choose to 
 Should I remove my consent before the procedure and walk away, I would be within my rights.
 So too is a woman within her rights to govern her own body in revoking her consent to carry on with a pregnancy.
 I intend to advocate for her full rights to bodily autonomy when elected to serve as Senator while also doing everything in my power to see that the resources to live a life free from unwanted and unintended pregnancy.
+Curtis Stinnett Previous Previous REPARATIONS Next Next Get the house in order Stinnett For Senate Stinnett4senate@gmail.com Paid for by the Candidate.
+Made with Squarespace

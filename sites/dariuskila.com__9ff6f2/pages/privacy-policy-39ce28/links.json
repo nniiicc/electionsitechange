@@ -1,8 +1,46 @@
 [
-"https://dariuskila.com/",
-"https://dariuskila.com/author/dev1",
-"https://dariuskila.com/privacy-policy",
-"https://dariuskila.com/terms-and-conditions",
-"https://instagram.com/dariuskila44",
-"https://secure.actblue.com/donate/dariuskila"
+{
+"text": "About",
+"href": "https://dariuskila.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://dariuskila.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dariuskila"
+},
+{
+"text": "Issues",
+"href": "https://dariuskila.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dariuskila.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://dariuskila.com/#record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://dariuskila.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://dariuskila.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/dariuskila44"
+},
+{
+"text": "darius@dariuskila.com",
+"href": "mailto:darius@dariuskila.com"
+},
+{
+"text": "dev1",
+"href": "https://dariuskila.com/author/dev1/"
+}
 ]

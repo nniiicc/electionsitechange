@@ -1,9 +1,5 @@
-Why I Voted Yes on the Prison
-Rep.
-Nicole Uhre-Balk
-FOR IMMEDIATE RELEASE
-Wednesday, September 24th, 2025
-I could think of 650 million things I would rather spend money on than a $650 million prison.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Why I Voted Yes on the Prison Sep 24 Written By Nicole Uhre-Balk Rep.
+Nicole Uhre-Balk FOR IMMEDIATE RELEASE Wednesday, September 24th, 2025 I could think of 650 million things I would rather spend money on than a $650 million prison.
 My “yes” vote was one of the hardest decisions I’ve made, and I wavered back and forth.
 But leadership sometimes means choosing between bad options—and leaving the current State Penitentiary as it is simply isn’t one of them.
 Knowing that the conditions are inhumane for both workers and prisoners, and that our state government is now showing greater focus on rehabilitation and prevention, I was able to move forward with a yes vote.
@@ -22,3 +18,8 @@ The new facility will not only replace failing infrastructure but will also crea
 Education, addiction recovery, and vocational training areas will more than double compared to the current penitentiary.
 The new number of beds is intended to replace the old prison and is not much of an increase; the design is about better use of space—ending three people in a room designed for one, improving safety, and providing more classrooms for treatment and training that can reduce recidivism.
 My “yes” vote is not the end of this work, it is the beginning.
+Nicole Uhre-Balk Previous Previous Thank you, District 32: Reflections from my first year in the Legislature Next Next Rapid City Journal: Looking back on my first legislative session Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

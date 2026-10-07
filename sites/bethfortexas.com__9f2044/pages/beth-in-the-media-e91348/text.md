@@ -1,17 +1,8 @@
-‘Conservative Squad’ to take on AOC, progressives in D.C.
-Beth In The Media
-June 2, 2020
-Record Number of Women Run For Congress
-A record number of women are running for Congress in 2020, surpassing the number set in the historic 2018 midterm wave.
-June 2, 2020
-GOP Donors Urged To Support 2020 Women
-Republicans need to ramp up their financial support of the record number of GOP women seeking House seats, often against better-funded Democrats
-June 2, 2020
-Beth Van Duyne wins GOP primary
-Texas 24th Congressional District: Beth Van Duyne wins GOP primary.
-June 2, 2020
-Beth Van Duyne Wins GOP Congressional Nomination
-Beth Van Duyne secured the Republican nomination
-November 15, 2019
-In the Republican Primary for the 24th Congressional District, here’s our recommendation
-Former Irving mayor Beth Van Duyne faces four other competitors
+Home About Beth Donate Endorsements In The Media Contact Beth Van Duyne Beth In The Media June 30, 2020 Republican women launch ‘Conservative Squad’ ‘Conservative Squad’ to take on AOC, progressives in D.C.
+June 2, 2020 Record Number of Women Run For Congress A record number of women are running for Congress in 2020, surpassing the number set in the historic 2018 midterm wave.
+June 2, 2020 GOP Donors Urged To Support 2020 Women Republicans need to ramp up their financial support of the record number of GOP women seeking House seats, often against better-funded Democrats June 2, 2020 Beth Van Duyne wins GOP primary Texas 24th Congressional District: Beth Van Duyne wins GOP primary.
+June 2, 2020 Beth Van Duyne Wins GOP Congressional Nomination Beth Van Duyne secured the Republican nomination November 15, 2019 In the Republican Primary for the 24th Congressional District, here’s our recommendation Former Irving mayor Beth Van Duyne faces four other competitors [email protected] For public footage – please click here For a high resolution public images – please click here For a high resolution public mailers – please click here For a high resolution public mailers – please click here For a high resolution public mailers – please click here Paid for by Beth Van Duyne for Congress P.O.
+Box 630167 Irving, TX 75063 By providing your phone number, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from the Beth Van Duyne for Congress Committee.
+View our privacy policy here .
+# © Beth Van Duyne for Congress.
+All rights reserved.

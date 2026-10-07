@@ -1,4 +1,5 @@
-| Trump said we'd win so much we'd get sick of winning.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+Yep, We're Winning 10/1/2026 0 Comments Trump said we'd win so much we'd get sick of winning.
 Well, I'm sick.
 Prices are up.
 Power bills are up.
@@ -71,7 +72,9 @@ Check the gas pump.
 Then vote early, while they still let us.
 And check your mailbox for those Trump checks.
 Yep.
-We're winning. #nc76 Republicans used to talk about "small government." They said government worked best when decisions were made closest to the people.
+We're winning. ​#nc76 0 Comments They Don't Want to Conserve Local Control.
+They Want to Control It.
+9/23/2026 0 Comments Republicans used to talk about "small government." They said government worked best when decisions were made closest to the people.
 Local.
 Apparently that conservative principle no longer applies when local communities make choices Raleigh doesn't like.
 This November's constitutional amendments would take more decision-making power away from counties, cities, and local voters and place it in Raleigh.
@@ -88,9 +91,8 @@ Today, many of those same conservative politicians want Raleigh deciding what po
 That isn't small government.
 That is centralized government.
 Sounds authoritarian, doesn't it?
-They don't want to conserve local control.
-They want to control it.
-Insurance Failure Forces Scott Huffman's Doctor to Change Treatment Plan Salisbury, NC, July 30, 2026.
+They don't want to conserve local control. ​They want to control it.
+0 Comments Day One of Cancer Treatment: Insurance Approval Roadblock 7/30/2026 0 Comments Insurance Failure Forces Scott Huffman's Doctor to Change Treatment Plan Salisbury, NC, July 30, 2026.
 Scott Huffman, Democratic nominee for North Carolina House District 76, was scheduled to receive his first hormone therapy injection for prostate cancer today.
 The medication was in his doctor's office, the appointment was scheduled, and Huffman was prepared to begin treatment.
 The injection never happened because the insurance approval never came.
@@ -111,10 +113,9 @@ This happens to people every day with cancer, heart disease, diabetes, and other
 "I keep thinking about the people who are simply told no," Huffman said.
 "The people who do not have a doctor willing to fight through the process.
 People who cannot afford another medication.
-The people who lose precious time because an insurance company is reviewing paperwork while they are fighting for their lives." Huffman said the experience has made the purpose behind his campaign even clearer.
-"I am running for every person who has been forced to wait for healthcare while an insurance company decides whether their doctor's treatment plan is acceptable," Huffman said.
+The people who lose precious time because an insurance company is reviewing paperwork while they are fighting for their lives." Huffman said the experience has made the purpose behind his campaign even clearer. ​"I am running for every person who has been forced to wait for healthcare while an insurance company decides whether their doctor's treatment plan is acceptable," Huffman said.
 "Cancer does not wait for paperwork.
-Patients should not have to wait either." For sixteen years, North Carolina Republicans have held power not because voters freely chose them district by district, but because they drew political maps designed to guarantee their own control.
+Patients should not have to wait either." 0 Comments North Carolina Is Living Under One-Party Authoritarian Rule 7/28/2026 0 Comments For sixteen years, North Carolina Republicans have held power not because voters freely chose them district by district, but because they drew political maps designed to guarantee their own control.
 They gerrymandered districts.
 They stacked the courts.
 They built a legislature that answers to itself instead of the people it claims to represent.
@@ -143,14 +144,14 @@ I join the citizens of House District 76 and people across our state in calling 
 If it reaches Governor Stein's desk, he should veto it without hesitation.
 Sixteen years of one-party rule has not strengthened democracy in North Carolina.
 Republicans have hollowed it out.
-It is time for the people of this state to take their government back.
-Scott Huffman, NC House 76 Candidate After my biopsy confirmed prostate cancer, the Salisbury Post followed up with me about the diagnosis and the campaign.
+It is time for the people of this state to take their government back. ​Scott Huffman, NC House 76 Candidate 0 Comments In the News: Despite Cancer Diagnosis, I'm Staying in the Race 7/8/2026 0 Comments After my biopsy confirmed prostate cancer, the Salisbury Post followed up with me about the diagnosis and the campaign.
 I talked about out-of-pocket costs that had already reached about $10,000, and why affordable health care is at the top of my agenda for District 76.
 I'm probably not the only person in Rowan County making that drive to the cancer center, and that's exactly why I'm not dropping out.
 "Prostate cancer is one of the most curable cancers," I told the Post.
 This diagnosis makes me more determined to stay in this race and fight, not less.
 Salisbury Post, July 8, 2026.
-Read the full story in the Salisbury Post. 1,014 days.
+Read the full story in the Salisbury Post.
+0 Comments 1,014 Days 7/3/2026 0 Comments 1,014 days.
 That is exactly how long Republicans in Raleigh left our state without a comprehensive budget.
 While working families across North Carolina were struggling to keep up with the cost of living, Republicans in Raleigh were busy playing political games instead of doing the job we pay them to do.
 They finally passed a budget this week, and it is nothing but a slap in the face.
@@ -167,7 +168,7 @@ They serve the special interests building these power-hungry mega projects and t
 They do not serve you.
 We need a change in District 76.
 I am running to fight for our working families, not for corporate giants or the political establishment.
-It is time to stop the games and start working for the people who actually call North Carolina home. #NCpol #District76 #NorthCarolina #Accountability #WorkingFamilies #NCBudget The Salisbury Post reported on my announcement that I would undergo a prostate biopsy in June.
+It is time to stop the games and start working for the people who actually call North Carolina home. ​#NCpol #District76 #NorthCarolina #Accountability #WorkingFamilies #NCBudget 0 Comments In the News: Why I'm Running 5/29/2026 0 Comments The Salisbury Post reported on my announcement that I would undergo a prostate biopsy in June.
 My doctor ordered an MRI after I was evaluated for an enlarged prostate.
 I went public because I had to put off my own health care when I couldn't afford it.
 If it happened to me, it's happening to families all across District 76.
@@ -175,7 +176,7 @@ Working people are doing everything right and still falling behind.
 The biopsy didn't slow this campaign down.
 As I told the Post, "I am concerned, but I am not backing down." Salisbury Post, May 29, 2026.
 Read the full story in the Salisbury Post.
-FOR IMMEDIATE RELEASE Scott Huffman Condemns NC Supreme Court Decision in Leandro Case Calls Ruling a Betrayal of North Carolina’s Children and Public Schools Salisbury, NC.
+0 Comments Scott Huffman Condemns NC Supreme Court Decision in Leandro Case Calls Ruling a Betrayal of North Carolina’s Children and Public Schools 4/3/2026 FOR IMMEDIATE RELEASE Scott Huffman Condemns NC Supreme Court Decision in Leandro Case Calls Ruling a Betrayal of North Carolina’s Children and Public Schools Salisbury, NC.
 Scott Huffman, Democratic candidate for North Carolina House District 76, issued the following statement after the North Carolina Supreme Court’s April 2, 2026 decision ending the long-running Leandro school funding litigation.
 The court ruled 4 to 3 and voided the 2022 ruling that had ordered the transfer of funds toward the state’s court approved school improvement plan, leaving funding authority with the General Assembly.
 “I want to put North Carolina's children first, and the GOP once again has proven that our kids aren't their priority." “The North Carolina Constitution promises every child the right to a sound basic education.
@@ -203,7 +204,7 @@ We cannot build a strong economy, strong communities, or a sustainable future by
 Today’s students are tomorrow’s workers, leaders, parents, and citizens.
 If we fail them now, we fail the future of this state.
 I am running because I believe in fully funding public schools, supporting teachers, and making sure every child in North Carolina has the opportunity to succeed.
-Our children deserve better than this decision, and they deserve leaders who will fight for them.” Most Americans have heard of data breaches — when a company gets hacked and your credit card or password leaks online.
+Our children deserve better than this decision, and they deserve leaders who will fight for them.” DOGE: The Biggest Data Breach You’ve Never Heard Of 10/15/2025 Most Americans have heard of data breaches — when a company gets hacked and your credit card or password leaks online.
 But what if I told you that a new federal program called DOGE may have already exposed something far worse — the personal data of every single American?
 That’s not an exaggeration.
 A new Senate report by Senator Gary Peters, who chairs the Homeland Security and Governmental Affairs Committee, shows that DOGE has been collecting and storing our most private information — including Social Security numbers, work history, and personal files — in a system with little to no cybersecurity protection.
@@ -229,13 +230,17 @@ The system holding your identity, your history, and your future could already be
 It’s national.
 We’d be trying to rebuild the digital DNA of 330 million people. --- What Needs to Happen Now 1.
 Suspend DOGE’s access immediately.
-Freeze all data uploads until security is verified. 2.
+Freeze all data uploads until security is verified.
+2.
 Independent cybersecurity audit.
-Let outside experts examine every server and access log. 3.
+Let outside experts examine every server and access log.
+3.
 Transparency.
-Americans deserve to know who accessed their data — and when. 4.
+Americans deserve to know who accessed their data — and when.
+4.
 Criminal accountability.
-If insiders or contractors broke the law, prosecute them. 5.
+If insiders or contractors broke the law, prosecute them.
+5.
 Emergency planning.
 Start building a national plan for reissuing Social Security numbers — before the worst happens. --- This Crosses Every Party Line It doesn’t matter if you’re Republican or Democrat — this is about you.
 From the President to a high school student opening a bank account, we’re all part of the same data pool.
@@ -247,7 +252,7 @@ It’s time to pull the plug and protect the people.
 Scott Huffman is an Information Technology professional, U.S.
 Navy veteran, and community leader from Salisbury, North Carolina.
 He has worked in IT for more than 30 years and writes about cybersecurity, democracy, and public accountability.
-Imagine opening the Nextdoor app and seeing your photo under the headline: “Meet Your Local Left-Wing Domestic Terrorist.” That’s what a fake troll account did.
+Meet Your Local “Left-Wing Domestic Terrorist” 9/18/2025 Imagine opening the Nextdoor app and seeing your photo under the headline: “Meet Your Local Left-Wing Domestic Terrorist.” That’s what a fake troll account did.
 Not because I incited violence.
 Not because I broke laws.
 But because I dared to speak openly.
@@ -303,7 +308,11 @@ Hopeful that leadership will see the need to tone down the rhetoric and stop lyi
 Not targeting late night shows.
 Hopeful that our nation can remember that strength is found in compassion, not cruelty and fear.
 Until our leaders step up and accept all Americans for who they are, who they love, and how they live their lives, we will remain divided, long after I have left this world.
-Scott Huffman is small business owner in Information Technology. - He can be reached at [email protected] | Posts from before 2025 were written during Scott's campaigns for U.S.
+Scott Huffman is small business owner in Information Technology. - He can be reached at [email protected] <<Previous Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

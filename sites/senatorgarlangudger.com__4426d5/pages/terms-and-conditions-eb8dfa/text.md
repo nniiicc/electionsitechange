@@ -1,5 +1,5 @@
-Terms and Conditions
-Gudger for Senate (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Gudger for Senate), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page Home Meet Your Senator About Credentials Sponsored Bills District 4 News Cullman Marion Winston Media Funding & Improvements Contact Terms and Conditions Privacy Policy More Use tab to navigate through the menu items.
+Terms and Conditions Gudger for Senate (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Gudger for Senate), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Gudger for Senate You've subscribed to receive messages from Gudger for Senate.
 Msg & Data Rates May Apply.
@@ -58,3 +58,4 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+ADDRESS : 11 S Union St #722 Montgomery, AL 36130 MONTGOMERY : 334-261-0855 EMAIL: Garlan.Gudger@alsenate.gov © # Paid by "Gudger for Senate" 314 2nd Ave SE Cullman, AL 35055 Created by James William Web Design ​ bottom of page

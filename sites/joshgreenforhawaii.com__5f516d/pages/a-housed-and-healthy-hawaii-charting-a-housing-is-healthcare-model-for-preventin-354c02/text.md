@@ -1,13 +1,11 @@
-Abstract
-Hawaiʻi faces one of the highest rates of homelessness in the nation, driven by a combination of systemic barriers, historical policy failures, and a high cost of living.
+Chip in $25 to support Josh Green for Governor Chip in $25 to support Josh Green for Governor Chip in to support Josh Green Chip in to support Josh Green Home Meet Josh Issues News Store Home Meet Josh Issues News Store Facebook X-twitter Instagram Youtube Volunteer Volunteer Donate Donate Donate Donate June 1, 2026 A Housed and Healthy Hawai’i: Charting a “Housing is Healthcare” Model for Preventing and Addressing Homelessness Abstract Hawaiʻi faces one of the highest rates of homelessness in the nation, driven by a combination of systemic barriers, historical policy failures, and a high cost of living.
 Governor Josh Green, M.D., advocates a “housing is healthcare” model, positioning stable housing as a cornerstone of public health.
 This comprehensive approach tackles homelessness through the innovative Kauhale initiative—community-centered, cost-effective housing solutions that integrate supportive services and foster belonging.
 With the use of emergency powers, Hawaiʻi is addressing immediate crises while building long-term system resilience through legislative and administrative reform.
 This paper charts the historical, social, and economic roots of homelessness in Hawaiʻi, explores the impacts of state and federal policies, and outlines actionable solutions to stabilize and reduce homelessness while addressing its underlying causes.
 The state’s homelessness response serves as a potential model for addressing homelessness as a public health emergency.
 I.
-Introduction
-As a child growing up in Pittsburgh, Pennsylvania, I had an undiagnosed hearing disability for the first two years of my life.
+Introduction As a child growing up in Pittsburgh, Pennsylvania, I had an undiagnosed hearing disability for the first two years of my life.
 With access to high-quality medical care and parents who would not relent until I was better, I was diagnosed and underwent surgeries to restore my hearing.
 I missed the first critical years of early childhood development, but with the help of wonderful public-school teachers, I fought my way back on track.
 I have imagined what my life would have looked like navigating a major health challenge at a young age if my family had not had a safe and stable home to come back to each night.
@@ -20,7 +18,8 @@ As a state legislator I worked on crafting legislation critical to expanding acc
 Every weekend I would return to my rural area hospital and work a graveyard shift in the emergency room—witnessing first-hand how our policies impacted local families.
 Later as Lieutenant Governor, I was at the helm of the state’s response to the COVID-19 pandemic.
 I worked with our government agencies and healthcare communities to coordinate pandemic preparedness, response, and mitigation efforts.
-This critical emergency response resulted in Hawaiʻi having the nation’s lowest COVID-19 fatality rate.1 Our innovative approaches were made possible because we recognized COVID-19 as an emergency and mobilized resources quickly and effectively to respond to and mitigate the crisis.
+This critical emergency response resulted in Hawaiʻi having the nation’s lowest COVID-19 fatality rate.
+1 Our innovative approaches were made possible because we recognized COVID-19 as an emergency and mobilized resources quickly and effectively to respond to and mitigate the crisis.
 Throughout my life, I have seen how our houseless neighbors disproportionately experience trauma, poorer health and education outcomes, significantly shorter life expectancy, and more frequent emergency room visits.
 In response, my administration is treating the homelessness crisis like what it is: a public health emergency.
 Addressing homelessness requires recognizing housing as a pillar of healthcare.
@@ -37,3 +36,4 @@ When our unhoused neighbors have a roof over their heads, without time limits or
 And so are our communities.
 This is at the core of my administration’s policies to implement a “housing is healthcare” approach to homelessness.
 This is how we achieve a housed and healthy Hawaiʻi, and a housed and healthy nation.
+Continue Reading >>> Take Action Volunteer Volunteer Donate Donate Home Meet Josh Issues News Store Donate Facebook X-twitter Instagram Youtube Contact Us: [email protected] Contact Us Accessibility Privacy Policy PAID FOR BY JOSH GREEN FOR HAWAII, PO BOX 88 HONOLULU HI 96810 Powered by Apollo Home Meet Josh Issues News Store Home Meet Josh Issues News Store Volunteer Volunteer Donate Donate Facebook-f Twitter Instagram Youtube

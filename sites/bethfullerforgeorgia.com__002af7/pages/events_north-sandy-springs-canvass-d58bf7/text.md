@@ -1,9 +1,3 @@
-Back to All Events
-Join the Coordinated Campaign to canvass in Sandy Springs!
-Previous
-Previous
-August 5
-Roswell Canvass
-Next
-Next
-August 9
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Back to All Events North Sandy Springs Canvass Saturday, August 8, 2026 10:00 AM 12:30 PM Google Calendar ICS Join the Coordinated Campaign to canvass in Sandy Springs!
+Source: https://www.mobilize.us/democraticpartyofgeorgia26/event/999531/ Previous Previous August 5 Roswell Canvass Next Next August 9 Chastain Park Canvass info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

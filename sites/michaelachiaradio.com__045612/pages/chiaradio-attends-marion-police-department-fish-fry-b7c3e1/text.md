@@ -1,5 +1,4 @@
-- June 23, 2026
-MARION, MS — Democratic nominee for Congress Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate June 23, 2026 Chiaradio Attends Marion Police Department Fish Fry MARION, MS — Democratic nominee for Congress Michael A.
 Chiaradio attended the Marion Police Department Fish Fry last week at the invitation of Marion Police Chief Randall Davis, continuing to build relationships with community leaders and residents throughout Lauderdale County.
 The event brought together local officials, law enforcement personnel, community leaders, and residents for a day of fellowship and community engagement.
 Chiaradio spent time meeting attendees, discussing issues facing Mississippi’s Third Congressional District, and listening to the concerns and ideas of community members.
@@ -10,11 +9,7 @@ He noted that the values Davis brings to his leadership are reflected throughout
 Chiaradio said the more time he spends in Marion, the more respect he has for the culture of service, accountability, and community engagement that has been built there.
 He expressed gratitude for the friendships formed during the event and said he looks forward to continuing to work alongside the people of Marion in the years ahead.
 As the campaign continues to build momentum across Mississippi’s Third Congressional District, Chiaradio remains committed to building relationships with local leaders and organizations while working to bring people together around a shared vision for the future.
-Supporters interested in helping the campaign continue its outreach efforts across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+Supporters interested in helping the campaign continue its outreach efforts across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

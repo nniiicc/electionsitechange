@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61594732792764",
-"https://instagram.com/yurild33wa?stkn=dHBvNXBnbnViNTA%3D",
-"https://yuriwa.com/",
-"https://yuriwa.com/contact",
-"https://yuriwa.com/donate",
-"https://yuriwa.com/matters",
-"https://yuriwa.com/meet-yuri"
+{
+"text": "Contact",
+"href": "https://yuriwa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://yuriwa.com/donate"
+},
+{
+"text": "Home",
+"href": "https://yuriwa.com/"
+},
+{
+"text": "Matters",
+"href": "https://yuriwa.com/matters"
+},
+{
+"text": "Meet Yuri",
+"href": "https://yuriwa.com/meet-yuri"
+},
+{
+"text": "Yuri Marinchik",
+"href": "https://yuriwa.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61594732792764"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/yurild33wa?stkn=dHBvNXBnbnViNTA%3D"
+},
+{
+"text": "yurihr@proton.me",
+"href": "mailto:yurihr@proton.me"
+}
 ]

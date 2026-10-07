@@ -1,16 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/www.facebook.com/kennealyforhawaii",
-"https://kennealy4hawaii.com/",
-"https://kennealy4hawaii.com/contact",
-"https://kennealy4hawaii.com/contribute",
-"https://kennealy4hawaii.com/events",
-"https://kennealy4hawaii.com/home",
-"https://kennealy4hawaii.com/issues",
-"https://kennealy4hawaii.com/issues/lowering-taxes",
-"https://kennealy4hawaii.com/meet_jonathan",
-"https://kennealy4hawaii.com/news",
-"https://kennealy4hawaii.com/volunteer",
-"https://kennealy4hawaii.com/vote",
-"https://kennealy4hawaii.com/yard-sign"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.kennealy4hawaii.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.kennealy4hawaii.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.kennealy4hawaii.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kennealy4hawaii.com/"
+},
+{
+"text": "Home",
+"href": "https://www.kennealy4hawaii.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.kennealy4hawaii.com/issues"
+},
+{
+"text": "Meet Jonathan",
+"href": "https://www.kennealy4hawaii.com/meet_jonathan"
+},
+{
+"text": "News",
+"href": "https://www.kennealy4hawaii.com/news"
+},
+{
+"text": "Next: Lowering Taxes »",
+"href": "https://www.kennealy4hawaii.com/issues/lowering-taxes"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kennealy4hawaii.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.kennealy4hawaii.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.kennealy4hawaii.com/yard-sign"
+},
+{
+"text": "[image: Kennealy For Hawaii District 2]",
+"href": "https://www.kennealy4hawaii.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/www.facebook.com/kennealyforhawaii"
+}
 ]

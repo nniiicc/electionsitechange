@@ -1,5 +1,5 @@
-OP-ED | CAROLINA JOURNAL: Fauci chose silence when America needed an after-action review
-Surgical care in combat is not graded on a curve.
+top of page CHIP IN TO HELP RE-ELECT GRANT CAMPBELL >>> DONATE >>> HOME DONATE ABOUT ISSUES MEDIA NEWS More Use tab to navigate through the menu items.
+OP-ED | CAROLINA JOURNAL: Fauci chose silence when America needed an after-action review Aug 4 4 min read Surgical care in combat is not graded on a curve.
 The test is simple and unforgiving: Could a wounded soldier be saved?
 If so, did we save him?
 That standard is why the after-action review, or AAR, is so ingrained in military culture.
@@ -54,6 +54,13 @@ That is how an observation becomes evidence.
 During COVID, however, outside-the-box thinking was too often discouraged or punished, and Fauci stood at the apex of the public health establishment that created that climate.
 An effective response to an epidemic must remain fluid, welcome competing ideas and investigate them honestly.
 In case you are wondering, that is the actual definition of science.
+This week’s hearing could have begun a true after-action review of one of the deadliest and most divisive periods in our history.
+An honest AAR would be neither a political spectacle nor a blanket absolution.
+It would ask which measures worked and which failed.
+Which emergency decisions were reasonable at the time?
+Which persisted too long?
+When did officials turn uncertainty into certainty, and how did that damage public trust?
+And yes, accountability would either be self-imposed or forcibly delivered.
 North Carolina’s hospitals, schools, businesses, nursing homes and families lived with these decisions.
 During the next emergency, state leaders will again make choices that affect lives and livelihoods.
 We should examine our own response with the same candor, preserve the reforms that helped, discard the policies that failed, and establish clearer limits before the next crisis arrives.
@@ -67,3 +74,14 @@ He did important work during his career, and his earliest pandemic efforts may w
 But leaders are measured not only by how they act in a crisis, but also by whether they will account for their actions afterward.
 The country still needs an after-action review, with or without him.
 If we refuse to examine the last pandemic because the facts are politically inconvenient or reputations are fragile, the next outbreak will find us with the same blind spots and far less public trust.
+Recent Posts See All WBTV: ‘Lost kids in Mecklenburg County’: Lawmakers blast county officials in combative hearing about child’s death NC NEWSLINE: Republican lawmakers, advocates push to strengthen NC food systems, farms NORTH STATE JOURNAL: Lawmakers probe Medicaid fraud in NC JOIN TEAM CAMPBELL Provide your information below to receive important e-mail updates from Team Campbell: SUBSCRIBE Thanks for submitting!
+About Grant Campbell for N.C.
+House Born and raised in North Carolina by a single mother, Grant learned early the value of hard work and education.
+He earned both his undergraduate and medical degrees from UNC-Chapel Hill before answering the call to serve after 9/11 as a U.S.
+Army physician.
+Grant completed three tours in the Middle East and retired from the Army as a lieutenant colonel before returning to private medical practice and serving his community and fellow veterans.
+Elected to the North Carolina House of Representatives in 2024, Grant proudly represents the people of Cabarrus and Rowan counties in House District 83.
+He is running for re-election to continue delivering conservative, common-sense leadership for his community.
+Learn More About the General Assembly House Members News & Media Resources Contact Us Press Inquiries Internships Constituent Services NCGA Live Stream Fin d Your Legislative District Help with a State A gency Capitol Building Tours Legislative Build ing Tours House Page Program Cong ress State Government State Constitution North Carolina General Assembly Bill Information State Agencies Governor's Office Lt.
+Governor's Office Secretary of State's Office Treasurer's Office North Carolina Courts COMMITTEE TO ELECT GRANT CAMPBELL P.O.
+Box 1350 Norwood, NC 28128 PAID FOR BY COMMITTEE TO ELECT GRANT CAMPBELL. © # by Capen Consulting, LLC | Email Webmaster bottom of page

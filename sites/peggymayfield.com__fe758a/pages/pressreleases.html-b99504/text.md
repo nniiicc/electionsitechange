@@ -1,10 +1,10 @@
-Latest Campaign News
-Representative Mayfield receives award from Indiana Manufacturers Association.
+Home Meet Peggy The Issues Photo Gallery Videos Calendar Press Map Sign up to receive the latest news and updates!
+Latest Campaign News Representative Mayfield receives award from Indiana Manufacturers Association.
 Representative Peggy Mayfield received the Indiana Manufacturers Association's Award for Legislative Excellence for her 95% voting record in 2014.
-Mayfield named 2013 Defender of Liberty by American Conservative Union
-Mayfield Releases First TV ad
-Mayfield Named Clerk of the Year
-Peggy Mayfield Rated AQ by the National Rifle Association
-Peggy Mayfield Releases First Radio Ad
-State Representative Candidate Peggy Mayfield Outraises Opponents 4 to 1
-Former Congressman Steve Buyer Endorses Peggy Mayfield
+Mayfield named 2013 Defender of Liberty by American Conservative Union Read More...
+Mayfield Releases First TV ad Watch Mayfield Named Clerk of the Year Read More...
+Peggy Mayfield Rated AQ by the National Rifle Association Read More...
+Peggy Mayfield Releases First Radio Ad Listen State Representative Candidate Peggy Mayfield Outraises Opponents 4 to 1 Read More...
+Former Congressman Steve Buyer Endorses Peggy Mayfield Read More...
+Read more stories here...
+Photos by Hot Shots Indiana, Mooresville, IN Paid for by The Mayfield Campaign

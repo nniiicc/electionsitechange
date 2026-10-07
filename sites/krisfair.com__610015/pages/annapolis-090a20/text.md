@@ -1,90 +1,42 @@
-As Your Delegate
-Record Investments In Frederick
-Historic Investments in Frederick
-After years of hard work from the District 3 delegation, I am proud that we were able to get significant funding every year from the General Assembly, reflecting a genuine change in Annapolis of their focus on Frederick.
-Here is a list of the projects we have gotten funded each year:
-MD School for the Deaf.…………………………………$16,183,000
-Downtown Conference Center..…....……………..……$15,000,000
-MD National Guard Armory...…………………………...$7,042,000
-Prospect Center.......................................................... $4,100,000
-Frederick County Cybersecurity...................................$3,000,000
-Hood College……………………………………………..$2,480,000
-Frederick County Adult Detention Center......................$1,011,000
-Animal Shelter...............................................................$1,000,000
-Football Club of Frederick.............................................$1,000,000
-MD Deaf Community Center…..…….…………………..$1,000,000
-Frederick County Microgrid……………………………..$500,000
-Heartly House.……………………………………………$750,000
-AARCH Society………..…………………………………$350,000
-Federated Charities…………………...…………………$150,000
-Frederick Youth Center………………………………….$474,500
-The Frederick Center …………………...………………$125,000
-Frederick Health Hospital…..….………………………..$100,000
-Seventh Street Fountain Park..………………………...$200,000
-Splash Point at Baker Park..…………………………....$50,000
-Senior Resource Center..............................................$700,000
-Francis Scott Key Post 11............................................$450,000
-The City of Frederick Traffic Calming...........................$750,000
-Heritage Preservation Center.......................................$288,000
-Steadfast Youth Homelessness Facility........................$25,000
-Frederick Women’s Civic Club Steiner House..............$14,415
-Asian American Center of Frederick County.................$700,000
-Fredericktonian Lodge #12 Renovation........................$562,000
-Veterans of Foreign War Post 3285..............................$500,000
-Mountain City Elks Lodge #382....................................$500,000
-Frederick YMCA............................................................$500,000
-Frederick City FCAA Café Renovation..........................$200,000
-Frederick City Clock Tower Repair................................$100,000
-Frederick City Westside Health Center.........................$100,000
-Election Law
-Appointed Chair of Election Law
-I joined a small contingent of first-term legislators to be named the chair of a standing subcommittee, Election Law.
+Home Scholarships Annapolis Meet Vote DONATE Home Scholarships Annapolis Meet Vote DONATE As Your Delegate Record Investments In Frederick Historic Investments in Frederick After years of hard work from the District 3 delegation, I am proud that we were able to get significant funding every year from the General Assembly, reflecting a genuine change in Annapolis of their focus on Frederick.
+Here is a list of the projects we have gotten funded each year: MD School for the Deaf.…………………………………$16,183,000 Downtown Conference Center..…....……………..……$15,000,000 MD National Guard Armory...…………………………...$7,042,000 Prospect Center.......................................................... $4,100,000 Frederick County Cybersecurity...................................$3,000,000 Hood College……………………………………………..$2,480,000 Frederick County Adult Detention Center......................$1,011,000 Animal Shelter...............................................................$1,000,000 Football Club of Frederick.............................................$1,000,000 MD Deaf Community Center…..…….…………………..$1,000,000 Frederick County Microgrid……………………………..$500,000 Heartly House.……………………………………………$750,000 AARCH Society………..…………………………………$350,000 Federated Charities…………………...…………………$150,000 Frederick Youth Center………………………………….$474,500 The Frederick Center …………………...………………$125,000 Frederick Health Hospital…..….………………………..$100,000 Seventh Street Fountain Park..………………………...$200,000 Splash Point at Baker Park..…………………………....$50,000 Senior Resource Center..............................................$700,000 Francis Scott Key Post 11............................................$450,000 The City of Frederick Traffic Calming...........................$750,000 Heritage Preservation Center.......................................$288,000 Steadfast Youth Homelessness Facility........................$25,000 Frederick Women’s Civic Club Steiner House..............$14,415 Asian American Center of Frederick County.................$700,000 Fredericktonian Lodge #12 Renovation........................$562,000 Veterans of Foreign War Post 3285..............................$500,000 Mountain City Elks Lodge #382....................................$500,000 Frederick YMCA............................................................$500,000 Frederick City FCAA Café Renovation..........................$200,000 Frederick City Clock Tower Repair................................$100,000 Frederick City Westside Health Center.........................$100,000 Election Law Appointed Chair of Election Law I joined a small contingent of first-term legislators to be named the chair of a standing subcommittee, Election Law.
 Under the new Government, Labor, and Elections Committee of the House of Delegates, I have been tasked with overseeing complex and important legislation, protecting our democracy, ensuring transparency, and expanding accessibility while maintaining the most secure elections system in the world.
 Over sixty election law bills were introduced in 2026, we read and considered every single one.
 Major issues like the Voting Rights Act, special elections for the Maryland General Assembly, and Unaffiliated Voters rights to participate in primaries were all actively debated.
-For a full list of election law bills being considered in the 2026 legislative session: https://mgaleg.maryland.gov/mgawebsite/Legislation/SubjectIndex/elections
-Sponsored - Affordability
-Legislation I Sponsored
-PASSED - Helping Statewide Housing Authorities build more low-income housing in their communities by allowing them to diversify into nonprofits and offer better deals to building partners.
+For a full list of election law bills being considered in the 2026 legislative session: https://mgaleg.maryland.gov/mgawebsite/Legislation/SubjectIndex/elections Sponsored - Affordability Legislation I Sponsored PASSED - Helping Statewide Housing Authorities build more low-income housing in their communities by allowing them to diversify into nonprofits and offer better deals to building partners.
 REFERRED TO STUDY - Creating a Statewide New Markets Tax Credit, encouraging local developers to build more high-density, moderately priced dwelling units (MPDUs).
 Broadband Access - Guarantees that every resident in Maryland will have access to affordable and reliable internet access.
 Homeless Individuals - Fee and Examination Exemptions - Expands a specific list of documents that will be exempted for individuals who can show they are homeless to assist them in getting needed documents and registrations to work.
 Improper Vehicle Registration - Holding billionaires purchasing cars out of state accountable to their communities by forcing them to register and pay their applicable taxes in the state of Maryland.
-Sponsored - Social Justice
-Legislation I Sponsored:
-PASSED - Presidential Electors - Streamlines and creates greater transparency in our Presidential post-election procedures, including how the votes are certified and the processes for boards to file complaints.
+Sponsored - Social Justice Legislation I Sponsored: PASSED - Presidential Electors - Streamlines and creates greater transparency in our Presidential post-election procedures, including how the votes are certified and the processes for boards to file complaints.
 PASSED HOUSE - Unaffiliated Voters - Allows unaffiliated voters to register to vote at their early voting center during early voting or at their polling place on election day.
 Ranked Choice Voting - Enables the two major political parties to implement ranked choice voting and for the state board to implement regulations for ranked choice voting.
 Homeless Shelter Certification - Ensures that every homeless shelter in the state maintains a minimum standard of care for the clients they serve and ensures they have basic human necessities like HVAC, beds, running water, and bathrooms.
-Sponsored - Small Business
-Legislation I Sponsored:
-PASSED - Business Closures - Repeals the requirement for corporations to pay back fees to the State Department of Assessment and Taxation (SDAT) before dissolving and closing.
+Sponsored - Small Business Legislation I Sponsored: PASSED - Business Closures - Repeals the requirement for corporations to pay back fees to the State Department of Assessment and Taxation (SDAT) before dissolving and closing.
 PASSED - Gaming Class A & B License Partnership - Allows Casinos and Sportsbooks to partner when it comes to their rewards programs and marketing materials.
 PASSED HOUSE - Unnecessary Regulations - Helping private career schools open more efficiently by removing unnecessary advertising regulations.
 Historic Horse Racing - Allowing historic horse racing in our smaller Off-track betting facilities, helping small businesses survive with casinos and raising much-needed revenue for Maryland.
 Agricultural Equipment Tax Income Subtraction - Allows the Secretary of Agriculture to expand the list of enhanced agricultural equipment eligible for a tax income subtraction modification.
-Sponsored - Education & Youth
-Legislation I Sponsored:
-PASSED - Teacher Certifications - Helps create multiple teacher certification pathways by reducing redundancy and helping online teachers more quickly.
+Sponsored - Education & Youth Legislation I Sponsored: PASSED - Teacher Certifications - Helps create multiple teacher certification pathways by reducing redundancy and helping online teachers more quickly.
 PASSED HOUSE - Voter Registration - Lowers the voter preregistration age from 16 years to 15 years and 9 months.
 Additionally, the local election office will inform the newly registered voters when they are first eligible to vote.
 Task Force - Studies the challenge that growing school systems face because of the point in time count consistently undercounting the number of students.
 Workgroup on Supporting Transgender Students - Creates a workgroup for looking at best practices from around the country for supporting transgender students.
 Curriculum - Importance of Diversity - A House Joint Resolution instructing local boards of education to ensure that the curriculum is reflective of the vast diversity of our state.
-Sponsored - Local Support
-Legislation I Sponsored:
-PASSED - TTF Funding - A slight increase in the vehicle titling fee from six percent to six and a half percent helped fund over one hundred million dollars of the seven hundred-million-dollar transportation trust fund deficit.
+Sponsored - Local Support Legislation I Sponsored: PASSED - TTF Funding - A slight increase in the vehicle titling fee from six percent to six and a half percent helped fund over one hundred million dollars of the seven hundred-million-dollar transportation trust fund deficit.
 PASSED HOUSE - Appeals Changes - Changes the fees associated with assessment appeals for commercial properties over one million dollars.
 The legislation seeks to remedy the abuse of the free appeals process for mega-corporations, which deliberately overwhelm the SDAT staff to force lower property assessments, creating an inequitable tax environment.
 PASSED HOUSE - Technology Upgrades - Allows the State Department of Assessments and Taxation to use modern-day technology to guarantee every Maryland property owner's constitutional right to a tri-annual property assessment.
 PASSED HOUSE - Tax Equity - Enables counties to differentiate their residential and commercial property tax rates specifically to help fund education and transportation in localities.
 Noise Abatement Devices Pilot - Adds Frederick City to two other counties in implementing special noise abatement monitors for their communities to capture people illegally altering their vehicles.
-Sponsored - Public Health
-Legislation I Sponsored:
-PASSED - HIV Decriminalization - Repeals an outdated law criminalizing the transmission of HIV.
+Sponsored - Public Health Legislation I Sponsored: PASSED - HIV Decriminalization - Repeals an outdated law criminalizing the transmission of HIV.
 This aligns Maryland’s laws with current medical and public health understanding of HIV transmission and prevention.
 PASSED - Superfund Sites - Requires homebuyers to be informed if they are purchasing a home within one mile of a National Priority List (NPL) Superfund Site.
 PASSED - Vaping Taxes - Raised the tax on vaping products from twelve percent to thirty percent.
 Studies have shown that an alarming number of new nicotine users are starting with vaping products instead of standard tobacco.
 PASSED - Suicide Fatality Review Board - Enables counties to enact a suicide fatality review board similar to our overdose review boards to provide review and suggestions on how to lower our suicide rates in our communities.
 Prescriptions for Gender-Affirming Care and Hormone Therapy - Allows people using Hormone Replacement Therapy, upon approval from their doctors to purchase up to 12 months of HRT.
+End Of Session Newsletters CONNECT P.O.
+Box 468 Frederick, MD 21705 info@krisfair.com 240-397-9528 Meet Learn Help Endorse Privacy Policy By Authority: Friends of Kris Fair, Kathy Rossen, Treasurer. © Kris Fair | All rights reserved. | Contributions or gifts to Friends of Kris Fair are not tax deductible, but greatly appreciated!
+Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

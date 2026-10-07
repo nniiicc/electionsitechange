@@ -1,19 +1,74 @@
 [
-"http://mi.gov/vote",
-"https://designedtorun.com/",
-"https://facebook.com/votegross",
-"https://instagram.com/votegross",
-"https://mvic.sos.state.mi.us/RegisterVoter/Index",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://mvic.sos.state.mi.us/Voter/index",
-"https://secure.actblue.com/donate/rachelgross",
-"https://tiktok.com/@votegross",
-"https://votegross.com/",
-"https://votegross.com/about",
-"https://votegross.com/contact",
-"https://votegross.com/endorsements",
-"https://votegross.com/events",
-"https://votegross.com/gallery",
-"https://votegross.com/issues",
-"https://votegross.com/volunteer"
+{
+"text": "About",
+"href": "https://www.votegross.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votegross.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rachelgross"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votegross.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votegross.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.votegross.com/gallery"
+},
+{
+"text": "Issues",
+"href": "https://www.votegross.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votegross.com/volunteer"
+},
+{
+"text": "[image: Rachel Gross for State House 78]",
+"href": "https://www.votegross.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votegross"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votegross"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@votegross"
+},
+{
+"text": "here",
+"href": "https://mvic.sos.state.mi.us/RegisterVoter/Index"
+},
+{
+"text": "here",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "here",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/#yourclerk"
+},
+{
+"text": "here",
+"href": "https://mvic.sos.state.mi.us/Voter/index"
+},
+{
+"text": "mi.gov/vote",
+"href": "http://mi.gov/vote"
+}
 ]

@@ -1,5 +1,6 @@
-Money in Your Pocket
-In the state that built the American Dream, it shouldn’t be this hard to get by.
+Donate now!
+Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Money in Your Pocket In the state that built the American Dream, it shouldn’t be this hard to get by.
 I believe in an economy built by and for working people.
 I’ll fight against corporate tax breaks and the capture of our economy by billionaires and wanna-be oligarchs.
 I believe that every worker deserves the right to join a union and to earn a fair wage.
@@ -7,8 +8,7 @@ And I believe that one good job should pay enough to raise a family.
 I’ll fight for an economy where anyone can start and grow a business to build wealth for themselves, their family, their co-workers, and their communities.
 And I believe that every American deserves guaranteed healthcare regardless of what they do for work.
 I want to abolish medical debt–just like we did for tens of thousands of Michiganders in Wayne County.
-Jobs and Trade
-Trade deals, like NAFTA, have been a disaster for American manufacturing and have rotted out our towns and destroyed communities.
+Jobs and Trade Trade deals, like NAFTA, have been a disaster for American manufacturing and have rotted out our towns and destroyed communities.
 I believe in bringing dignified, well-paying jobs to Michigan.
 That means investing in the research, development, and growth of the technologies of the future while using tools like tariffs in a steady, thoughtful, and targeted way to protect them as they grow.
 I believe that unions must have a significant voice at the tables where decisions about the future of our economy are being made.
@@ -24,16 +24,14 @@ But dumb trade agreements negotiated without unions at the table have siphoned a
 Trump’s incoherent, self-serving version of tariffs have only made the problem worse.
 I support targeted, smart tariffs that would help protect Michigan manufacturing and incubate the industries of the future with unions at the forefront.
 These tariffs would focus on growth industries, rely on clearly communicated benchmarks with trading partners, and sunset as American manufacturers established themselves.
-Taxing Billionaire Wealth
-I believe in right-sizing our tax code to take on the outsized power of excess wealth in our economy and democracy.
+Taxing Billionaire Wealth I believe in right-sizing our tax code to take on the outsized power of excess wealth in our economy and democracy.
 The ultrawealthy should no longer be able to hide behind loopholes that leave them paying lower tax rates than the rest of us.
 Toward that end, I support taxing capital gains over $1 million at the same rate as ordinary income and closing the stepped-up basis loophole.
 I also support taxing inheritance greater than $1 million like ordinary income and imposing a progressive tax on wealth held by trusts.
 I support raising the marginal tax rate on earnings over $1 million and a billionaire tax on wealth over $1 billion.
 In addition, I support a cost of living exemption on federal taxes up to $50,000.
 I’ll also fight to close the Social Security payroll tax cap to make sure the rich pay their fair share so that Social Security stays solvent well into the future.
-Artificial Intelligence
-Government decisions around world-changing technology like AI should not be left to unaccountable corporations.
+Artificial Intelligence Government decisions around world-changing technology like AI should not be left to unaccountable corporations.
 Rather than replace us, AI should be a tool to enhance our lives.
 Further, the speed and lack of transparency with which these technologies are being developed opens the door to serious risks that powerful AI may fall into the wrong hands or escape human control altogether.
 That’s why I support legislation to create guardrails around when, how, and for what purposes AI is deployed.
@@ -44,13 +42,11 @@ This includes clear safety testing standards for frontier models; liability and 
 Blockchain has the potential to disrupt the overwhelming power of big banks in our financial lives.
 But these technologies also can open doors to misuse and abuse, such as pump-and-dump schemes, shitcoins, and Donald Trump’s own pay-to-play corruption scheme.
 That’s why I support legislation that both clarifies the governance and legitimate use-cases of blockchain for financial services, and more importantly, protects consumers and the public from those who would use financial technology to launder funds, defraud the public, or engage in corruption.
-Data Centers
-Data centers are among the most direct impacts of new technologies in the lives of everyday Michiganders.
+Data Centers Data centers are among the most direct impacts of new technologies in the lives of everyday Michiganders.
 I support comprehensive federal zoning guidelines and legislation that protect communities from their unintended consequences.
 Toward that end, I created a leading edge policy proposal for “Terms of Engagement” for data centers that I intend to pass as federal law in the U.S.
 Senate.
-Housing and Homelessness
-Homelessness is an American crisis–and it’s a housing issue.
+Housing and Homelessness Homelessness is an American crisis–and it’s a housing issue.
 Too many Americans are priced out of the most basic necessity of shelter.
 And working people can’t afford housing in the communities in which they work.
 I aim to solve it.
@@ -62,8 +58,7 @@ And I will support federal legislation to ban algorithmic rental price-fixing so
 I want to require Big Tech companies like AirBnB and VRBO to pay special housing dislocation fees for the housing stock they occupy in local communities.
 And I will stand up to corporate landlords against unfair evictions that are forcing too many Americans onto the streets.
 Toward that end, I believe we need a federal renter bill of rights that protects renters from exploitation and clarifies the obligations for landlords across the country.
-Education
-Education is the foundation of our future.
+Education Education is the foundation of our future.
 I propose tying any percentage increase in our national education funding to any equivalent increase in the national defense budget.
 As a proud graduate of public schools and a public university, I understand the critical role of funding education from childcare through K-12 and beyond to prepare our young people for their futures.
 I believe in the right to literacy.
@@ -87,8 +82,7 @@ That’s why I believe that every student deserves a debt-free and tuition-free 
 To cap the runaway inflation in higher education, I believe we must cap the administrative overhead costs for institutions receiving federal funding.
 We need more research and teaching rather than rec centers and flavors of frozen yogurt.
 I will also champion non-traditional tenure pathways for educators whose work advances the teaching mission of higher education institutions.
-Farming
-Michigan is the cherry capital of America and one of the most agriculturally diverse states in the nation.
+Farming Michigan is the cherry capital of America and one of the most agriculturally diverse states in the nation.
 For too long, Washington has ignored us.
 Federal farm subsidies funnel money to massive corn and soy operations while family farmers go broke and the crops that define Michigan farming struggle.
 I’ll fight to redirect federal farm subsidies away from corporate agribusiness and toward the family farmers who need them.
@@ -97,3 +91,17 @@ I’ll push for targeted, negotiated trade protections for Michigan’s specialt
 Unlike the reckless blanket tariffs that raise farmers’ costs and invite retaliation, I’ll focus duties squarely at the foreign producers who dump below-cost goods into our markets and undercut Michigan farmers who play by the rules.
 I’ll reform the H-2A guest worker program through the Farm Workforce Modernization Act, creating real pathways to legal status for the immigrant farmworkers who harvest our food while streamlining a visa system that currently leaves family farms in limbo every season.
 And I’ll champion a federal right-to-repair law because a family farmer in Leelanau County shouldn’t have to wait two weeks and pay dealer prices just to fix the tractor sitting in their field at harvest time.
+Additional Priorities Money Out of Politics Banning Corporate Money in Politics Ending Gerrymandering Supreme Court Reform Abolishing the Filibuster Making Voting Easier Civil Rights & Liberties Immigration Environment and Natural Resources Water Sensible Foreign Policy Medicare for All Veterans Affairs Break up Big Healthcare Prescription Drugs Public Health Healthcare Freedom for Women and LGBTQ+ Americans Join our movement Sign up for the latest updates from Abdul’s campaign.
+First name Email address Zip code Mobile number By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Abdul for U.S.
+Senate.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text START to opt in.
+Text HELP for help.
+Terms of Service and Privacy Policy apply.
+Join Us Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
+Senate PO Box 126 St.
+Clair Shores, MI 48080 Paid for by Abdul for U.S.
+Senate Contact the Campaign Speaking Request Jobs Privacy Policy Made with Middle Seat

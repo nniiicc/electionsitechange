@@ -1,7 +1,11 @@
 {
  "description": "Congresswoman Mariannette Miller-Meeks was re-elected to a third term representing Iowa's First Congressional District.",
  "final_url": "https://drmillermeeks.com/news/miller-meeks-wins-third-term-in-congress/",
+ "fingerprint": "c6910105b151325d8722fb8eca65d213c84ca6cc",
+ "format": 3,
  "paid_for_by": "Paid for by Miller-Meeks for Congress",
  "title": "Miller-Meeks Wins Third Term in Congress | Miller-Meeks for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

@@ -1,19 +1,7 @@
-In the News
-March 8, 2022
-State lawmakers call for bridge funding as PennDOT releases new Fern Hollow design
-March 8, 2022
-Pa. lawmaker pushes bill to protect transgender kids and their parents: How it works
-February 24, 2022
-Rep.
-Dan Frankel: Bridge collapse symbol of toxic politics, but doesn’t have to be
-April 20, 2021
-Op-Ed: Noncompete provisions harm patients, workers and Pennsylvania
-Let’s make a difference!
+Skip to content Elect Dan Frankel Menu Close Home About Dan Issues Open menu Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact News ElectFrankel@gmail.com Donate Now Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact In the News March 8, 2022 State lawmakers call for bridge funding as PennDOT releases new Fern Hollow design Read More March 8, 2022 Pa. lawmaker pushes bill to protect transgender kids and their parents: How it works Read More March 5, 2022 SERS Board Votes To Drop Russian Investments Read More February 24, 2022 Rep.
+Dan Frankel: Bridge collapse symbol of toxic politics, but doesn’t have to be Read More February 17, 2022 Attacks on Pitt fetal tissue research are baseless Read More August 20, 2021 Guest Opinion: Legislators don’t have to be moderate to work together Read More June 22, 2021 Pennsylvania Lawmakers Build Support For New Marijuana Legalization Bill Read More April 20, 2021 Op-Ed: Noncompete provisions harm patients, workers and Pennsylvania Read More Let’s make a difference!
 Donate to our campaign.
-About
-Since 1999, Rep.
+Donate Now About Since 1999, Rep.
 Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
-Explore
-Contact
-© Copyright 2022 – Rep.
-Dan Frankel
+Explore Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Contact ElectFrankel@gmail.com © Copyright # – Rep.
+Dan Frankel Site by Imagebox Search Search Recent Posts Some Useful Links for You to Get Started Recent Comments A WordPress Commenter on Some Useful Links for You to Get Started Archives March 2022 Categories Uncategorized Elect Dan Frankel Proudly powered by WordPress .

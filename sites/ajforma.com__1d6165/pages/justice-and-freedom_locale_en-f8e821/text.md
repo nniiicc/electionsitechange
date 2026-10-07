@@ -1,5 +1,5 @@
-JUSTICE AND FREEDOM
-The racial wealth gap in Massachusetts is one of the starkest in the United States.
+Meet Andrea Issues Get Involved Events Voter Information Media and Contact Shop Donate Meet Andrea Issues Get Involved Events Voter Information Media and Contact Shop Donate Your Page Header Title Join Now JUSTICE AND FREEDOM The racial wealth gap in Massachusetts is one of the starkest in the United States.
 A landmark study by the Federal Reserve Bank of Boston revealed that while white households in Greater Boston had a median net worth of roughly $247,500, U.S.-born Black households had a median net worth close to zero.
 This staggering disparity is rooted in systemic economic barriers, and several key factors highlight the localized challenges Black residents face in Massachusetts today.
 As Governor, I will support and work toward building the comprehensive framework for equity, reparative justice, and community investment as developed by the Black Agenda Coalition and outlined in the State of Black Boston 2026 Report, as well as ending the overall racial wealth gap in Massachusetts.
+English Español (Spanish) Chinese (Cantonese) Haitian Creole Português (Portuguese) Made in Solidarity Tech

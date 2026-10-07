@@ -1,4 +1,2 @@
-The endorsements below are from organizations and leaders in Michigan for 2026.
-Paid for by committee to elect John Roth
-PO Box 246
-Interlochen MI 49643
+Home Meet John The Issues Election Integrity Endorsements Contact Us DONATE Home Meet John The Issues Election Integrity Endorsements Contact Us DONATE 2026 Endorsements John is endorsed by: The endorsements below are from organizations and leaders in Michigan for 2026.
+Advocacy Arm of the County Road Association of Michigan Home Meet John The Issues Election Integrity Endorsements Contact Us Contact 231-299-0822 Info@RothForRep.com DONATE Paid for by committee to elect John Roth PO Box 246 Interlochen MI 49643 Share by:

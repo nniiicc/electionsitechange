@@ -1,22 +1,94 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F&title=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact",
-"http://twitter.com/intent/tweet?text=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact&url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F",
-"https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F&text=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact",
-"https://gettr.com/share?text=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact&url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F",
-"https://megforflorida.com/",
-"https://megforflorida.com/campaign-news",
-"https://megforflorida.com/endorsements",
-"https://megforflorida.com/florida-senate-passes-bill-to-fund-foster-care-pilot-program",
-"https://megforflorida.com/house-passes-bill-changing-gulf-of-mexico-to-gulf-of-america",
-"https://megforflorida.com/image-gallery",
-"https://megforflorida.com/join",
-"https://megforflorida.com/press-releases",
-"https://megforflorida.com/privacy-policy",
-"https://megforflorida.com/representative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact",
-"https://megforflorida.com/representative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website",
-"https://megforflorida.com/terms",
-"https://secure.anedot.com/megan-weinberger-campaign/donate",
-"https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F",
-"https://wordpress.org/plugins/gdpr-cookie-compliance"
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://megforflorida.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "House Passes Bill Changing 'Gulf of Mexico' to 'Gulf of America' →",
+"href": "https://megforflorida.com/house-passes-bill-changing-gulf-of-mexico-to-gulf-of-america/"
+},
+{
+"text": "Image and Video Gallery",
+"href": "https://megforflorida.com/image-gallery/"
+},
+{
+"text": "Join Meg",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Join Meg's Team!",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Messaging Terms, Conditions & Policies Terms",
+"href": "https://megforflorida.com/terms/"
+},
+{
+"text": "News & Events",
+"href": "https://megforflorida.com/campaign-news/"
+},
+{
+"text": "Platform",
+"href": "https://megforflorida.com#meg-platform"
+},
+{
+"text": "Press Releases",
+"href": "https://megforflorida.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://megforflorida.com/privacy-policy"
+},
+{
+"text": "Site by KO.",
+"href": "https://megforflorida.com/representative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website"
+},
+{
+"text": "[image]",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F&text=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://gettr.com/share?text=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact&url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F&title=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://megforflorida.com/representative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact/"
+},
+{
+"text": "[tooltip: Truth Social]",
+"href": "https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://twitter.com/intent/tweet?text=Representative+Meg+Weinberger%3A+A+First+Session+Defined+by+Leadership%2C+Advocacy%2C+and+Community+Impact&url=https%3A%2F%2Fmegforflorida.com%2Frepresentative-meg-weinberger-a-first-session-defined-by-leadership-advocacy-and-community-impact%2F"
+},
+{
+"text": "← Florida Senate passes bill to fund foster-care pilot program",
+"href": "https://megforflorida.com/florida-senate-passes-bill-to-fund-foster-care-pilot-program/"
+}
 ]

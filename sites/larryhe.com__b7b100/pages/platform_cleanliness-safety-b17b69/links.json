@@ -1,11 +1,42 @@
 [
-"https://larryhe.com/",
-"https://larryhe.com/about",
-"https://larryhe.com/blank-2-1",
-"https://larryhe.com/donate",
-"https://larryhe.com/find-your-poll-site",
-"https://larryhe.com/get-involved",
-"https://larryhe.com/platform",
-"https://larryhe.com/products",
-"https://larryhe.com/video-blogs"
+{
+"text": "About Dr. Larry He",
+"href": "https://www.larryhe.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.larryhe.com/donate"
+},
+{
+"text": "Find Your Poll Site",
+"href": "https://www.larryhe.com/find-your-poll-site"
+},
+{
+"text": "Get Involved",
+"href": "https://www.larryhe.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.larryhe.com"
+},
+{
+"text": "Platform",
+"href": "https://www.larryhe.com/platform"
+},
+{
+"text": "Products",
+"href": "https://www.larryhe.com/products"
+},
+{
+"text": "Testimonials",
+"href": "https://www.larryhe.com/blank-2-1"
+},
+{
+"text": "Video Blogs",
+"href": "https://www.larryhe.com/video-blogs"
+},
+{
+"text": "[no text]",
+"href": "https://www.larryhe.com/platform"
+}
 ]

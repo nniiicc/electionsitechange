@@ -1,37 +1,238 @@
 [
-"https://bitpay.com/487423/donate",
-"https://facebook.com/MikeRogersForMI",
-"https://instagram.com/mikerogersformi",
-"https://rogersforsenate.com/",
-"https://rogersforsenate.com/cart",
-"https://rogersforsenate.com/contact",
-"https://rogersforsenate.com/do-not-sell-my-personal-information",
-"https://rogersforsenate.com/family-of-service",
-"https://rogersforsenate.com/healthplan",
-"https://rogersforsenate.com/home",
-"https://rogersforsenate.com/housingplan",
-"https://rogersforsenate.com/howtovote",
-"https://rogersforsenate.com/meet-mike",
-"https://rogersforsenate.com/news",
-"https://rogersforsenate.com/news/icymi-jewish-democrats-overwhelmingly-plan-to-vote-for-mike-rogers",
-"https://rogersforsenate.com/news/michigan-chamber-of-commerce-endorses-mike-rogers-for-us-senate",
-"https://rogersforsenate.com/news/mike-rogers-on-fox-michiganders-are-very-suspect-of-abdul",
-"https://rogersforsenate.com/news/mike-rogers-on-hannity-tell-us-who-you-are-abdul",
-"https://rogersforsenate.com/news/rep-posthumus-on-mike-rogers-healthcare-fix-a-patient-first-agenda",
-"https://rogersforsenate.com/news/rogers-drops-new-ads-contrasts-law-enforcement-background-with-abduls-soft-on-crime-agenda",
-"https://rogersforsenate.com/news/rogers-encourages-absentee-early-voting",
-"https://rogersforsenate.com/news/rogers-launches-new-ad-blasting-doctor-abdul-for-calling-to-defund-breast-cancer-research",
-"https://rogersforsenate.com/news/rogers-on-kamala-harris-in-michigan-desperate-times-call-for-desperate-measures",
-"https://rogersforsenate.com/news/rogers-secures-three-new-endorsements-hits-campaign-trail-in-saginaw-area",
-"https://rogersforsenate.com/news/rogers-touts-healthcare-plan-exposes-abduls-medicare-for-all-scheme",
-"https://rogersforsenate.com/news/two-national-business-associations-endorse-mike-rogers-for-us-senate",
-"https://rogersforsenate.com/news?offset=1789747921931&author=6a1061e1a27847426bbe8bd4",
-"https://rogersforsenate.com/notice-at-collection-of-personal-information",
-"https://rogersforsenate.com/privacy-policy",
-"https://rogersforsenate.com/volunteer",
-"https://rogersforsenate.com/what-michiganders-need-to-know",
-"https://secure.winred.com/rogers/storefront",
-"https://secure.winred.com/team-rogers/donate?recurring=true&money_pledge=false&amount=50",
-"https://x.com/MikeRogersForMI",
-"https://youtube.com/@MikeRogersForMI"
+{
+"text": "0",
+"href": "https://rogersforsenate.com/cart"
+},
+{
+"text": "CONTACT",
+"href": "https://rogersforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/team-rogers/donate?recurring=true&money_pledge=false&amount=50"
+},
+{
+"text": "DONATE VIA BITPAY",
+"href": "https://bitpay.com/487423/donate/"
+},
+{
+"text": "Do Not Sell My Personal Information",
+"href": "https://rogersforsenate.com/do-not-sell-my-personal-information"
+},
+{
+"text": "FAMILY OF SERVICE",
+"href": "https://rogersforsenate.com/family-of-service"
+},
+{
+"text": "HEALTHCARE PLAN",
+"href": "https://rogersforsenate.com/healthplan"
+},
+{
+"text": "HOUSING PLAN",
+"href": "https://rogersforsenate.com/housingplan"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://rogersforsenate.com/howtovote"
+},
+{
+"text": "ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS",
+"href": "https://rogersforsenate.com/news/icymi-jewish-democrats-overwhelmingly-plan-to-vote-for-mike-rogers"
+},
+{
+"text": "MEET MIKE",
+"href": "https://rogersforsenate.com/meet-mike"
+},
+{
+"text": "MERCH",
+"href": "https://secure.winred.com/rogers/storefront/"
+},
+{
+"text": "MICHIGAN CHAMBER OF COMMERCE ENDORSES MIKE ROGERS FOR U.S. SENATE",
+"href": "https://rogersforsenate.com/news/michigan-chamber-of-commerce-endorses-mike-rogers-for-us-senate"
+},
+{
+"text": "MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-ive-never-seen-a-bigger-hypocrite-in-my-life"
+},
+{
+"text": "MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-michiganders-are-very-suspect-of-abdul"
+},
+{
+"text": "MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-hannity-tell-us-who-you-are-abdul"
+},
+{
+"text": "NEWS",
+"href": "https://rogersforsenate.com/news"
+},
+{
+"text": "Notice at Collection of Personal Information",
+"href": "https://rogersforsenate.com/notice-at-collection-of-personal-information"
+},
+{
+"text": "Older Posts",
+"href": "https://rogersforsenate.com/news?offset=1789843921080&author=6a1061e1a27847426bbe8bd4"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rogersforsenate.com/privacy-policy"
+},
+{
+"text": "REP. POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA",
+"href": "https://rogersforsenate.com/news/rep-posthumus-on-mike-rogers-healthcare-fix-a-patient-first-agenda"
+},
+{
+"text": "ROGERS DROPS NEW ADS, CONTRASTS LAW ENFORCEMENT BACKGROUND WITH ABDUL’S SOFT-ON-CRIME AGENDA",
+"href": "https://rogersforsenate.com/news/rogers-drops-new-ads-contrasts-law-enforcement-background-with-abduls-soft-on-crime-agenda"
+},
+{
+"text": "ROGERS ENCOURAGES ABSENTEE, EARLY VOTING",
+"href": "https://rogersforsenate.com/news/rogers-encourages-absentee-early-voting"
+},
+{
+"text": "ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES",
+"href": "https://rogersforsenate.com/news/rogers-on-kamala-harris-in-michigan-desperate-times-call-for-desperate-measures"
+},
+{
+"text": "ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA",
+"href": "https://rogersforsenate.com/news/rogers-secures-three-new-endorsements-hits-campaign-trail-in-saginaw-area"
+},
+{
+"text": "ROGERS TOUTS HEALTHCARE PLAN, EXPOSES ABDUL’S “MEDICARE FOR ALL” SCHEME",
+"href": "https://rogersforsenate.com/news/rogers-touts-healthcare-plan-exposes-abduls-medicare-for-all-scheme"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/icymi-jewish-democrats-overwhelmingly-plan-to-vote-for-mike-rogers"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/michigan-chamber-of-commerce-endorses-mike-rogers-for-us-senate"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-ive-never-seen-a-bigger-hypocrite-in-my-life"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-michiganders-are-very-suspect-of-abdul"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-hannity-tell-us-who-you-are-abdul"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rep-posthumus-on-mike-rogers-healthcare-fix-a-patient-first-agenda"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-drops-new-ads-contrasts-law-enforcement-background-with-abduls-soft-on-crime-agenda"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-encourages-absentee-early-voting"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-on-kamala-harris-in-michigan-desperate-times-call-for-desperate-measures"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-secures-three-new-endorsements-hits-campaign-trail-in-saginaw-area"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/rogers-touts-healthcare-plan-exposes-abduls-medicare-for-all-scheme"
+},
+{
+"text": "Read More",
+"href": "https://rogersforsenate.com/news/two-national-business-associations-endorse-mike-rogers-for-us-senate"
+},
+{
+"text": "TWO NATIONAL BUSINESS ASSOCIATIONS ENDORSE MIKE ROGERS FOR U.S. SENATE",
+"href": "https://rogersforsenate.com/news/two-national-business-associations-endorse-mike-rogers-for-us-senate"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://rogersforsenate.com/volunteer"
+},
+{
+"text": "WHAT MICHIGANDERS NEED TO KNOW",
+"href": "https://rogersforsenate.com/what-michiganders-need-to-know"
+},
+{
+"text": "[image: ICYMI: JEWISH DEMOCRATS OVERWHELMINGLY PLAN TO VOTE FOR MIKE ROGERS]",
+"href": "https://rogersforsenate.com/news/icymi-jewish-democrats-overwhelmingly-plan-to-vote-for-mike-rogers"
+},
+{
+"text": "[image: MICHIGAN CHAMBER OF COMMERCE ENDORSES MIKE ROGERS FOR U.S. SENATE]",
+"href": "https://rogersforsenate.com/news/michigan-chamber-of-commerce-endorses-mike-rogers-for-us-senate"
+},
+{
+"text": "[image: MIKE ROGERS ON FOX: I’VE NEVER SEEN A BIGGER HYPOCRITE IN MY LIFE]",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-ive-never-seen-a-bigger-hypocrite-in-my-life"
+},
+{
+"text": "[image: MIKE ROGERS ON FOX: MICHIGANDERS ARE VERY SUSPECT OF ABDUL]",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-fox-michiganders-are-very-suspect-of-abdul"
+},
+{
+"text": "[image: MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL]",
+"href": "https://rogersforsenate.com/news/mike-rogers-on-hannity-tell-us-who-you-are-abdul"
+},
+{
+"text": "[image: Mike Rogers for Senate]",
+"href": "https://rogersforsenate.com/"
+},
+{
+"text": "[image: REP. POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA]",
+"href": "https://rogersforsenate.com/news/rep-posthumus-on-mike-rogers-healthcare-fix-a-patient-first-agenda"
+},
+{
+"text": "[image: ROGERS DROPS NEW ADS, CONTRASTS LAW ENFORCEMENT BACKGROUND WITH ABDUL’S SOFT-ON-CRIME AGENDA]",
+"href": "https://rogersforsenate.com/news/rogers-drops-new-ads-contrasts-law-enforcement-background-with-abduls-soft-on-crime-agenda"
+},
+{
+"text": "[image: ROGERS ENCOURAGES ABSENTEE, EARLY VOTING]",
+"href": "https://rogersforsenate.com/news/rogers-encourages-absentee-early-voting"
+},
+{
+"text": "[image: ROGERS ON KAMALA HARRIS IN MICHIGAN: DESPERATE TIMES CALL FOR DESPERATE MEASURES]",
+"href": "https://rogersforsenate.com/news/rogers-on-kamala-harris-in-michigan-desperate-times-call-for-desperate-measures"
+},
+{
+"text": "[image: ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA]",
+"href": "https://rogersforsenate.com/news/rogers-secures-three-new-endorsements-hits-campaign-trail-in-saginaw-area"
+},
+{
+"text": "[image: ROGERS TOUTS HEALTHCARE PLAN, EXPOSES ABDUL’S “MEDICARE FOR ALL” SCHEME]",
+"href": "https://rogersforsenate.com/news/rogers-touts-healthcare-plan-exposes-abduls-medicare-for-all-scheme"
+},
+{
+"text": "[image: TWO NATIONAL BUSINESS ASSOCIATIONS ENDORSE MIKE ROGERS FOR U.S. SENATE]",
+"href": "https://rogersforsenate.com/news/two-national-business-associations-endorse-mike-rogers-for-us-senate"
+},
+{
+"text": "[image]",
+"href": "https://rogersforsenate.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeRogersForMI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikerogersformi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MikeRogersForMI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MikeRogersForMI"
+}
 ]

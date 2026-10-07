@@ -1,15 +1,54 @@
 [
-"http://tvw.org/video/2026-video-voters-guide-scott-edwards-2026061106",
-"https://efundraisingconnections.com/c/ScottEdwards",
-"https://facebook.com/share/1CzhtD3vn4?mibextid=wwXlfr",
-"https://votescottedwards.com/",
-"https://votescottedwards.com/about-scott-edwards",
-"https://votescottedwards.com/about-the-washington-state-supreme-court",
-"https://votescottedwards.com/contact",
-"https://votescottedwards.com/donate",
-"https://votescottedwards.com/events",
-"https://votescottedwards.com/get-involved",
-"https://votescottedwards.com/home",
-"https://votescottedwards.com/request-a-yard-sign",
-"https://votescottedwards.com/volunteer"
+{
+"text": "About Scott Edwards",
+"href": "https://votescottedwards.com/about-scott-edwards"
+},
+{
+"text": "About The Supreme Court",
+"href": "https://votescottedwards.com/about-the-washington-state-supreme-court"
+},
+{
+"text": "Contact",
+"href": "https://votescottedwards.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://votescottedwards.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/ScottEdwards"
+},
+{
+"text": "Events",
+"href": "https://votescottedwards.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/1CzhtD3vn4/?mibextid=wwXlfr"
+},
+{
+"text": "Get Involved",
+"href": "https://votescottedwards.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://votescottedwards.com/home"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://votescottedwards.com/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://votescottedwards.com/volunteer"
+},
+{
+"text": "Watch Scott’s Video Voter Guide",
+"href": "http://tvw.org/video/2026-video-voters-guide-scott-edwards-2026061106/"
+},
+{
+"text": "[image: Scott Edwards For Washington Supreme Court]",
+"href": "https://votescottedwards.com/"
+}
 ]

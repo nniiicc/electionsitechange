@@ -1,31 +1,126 @@
 [
-"https://facebook.com/ultrinoforrep",
-"https://instagram.com/repultrino?hl=en",
-"https://representativeultrino.com/",
-"https://representativeultrino.com/budget-funding",
-"https://representativeultrino.com/communityresources",
-"https://representativeultrino.com/contact-steve",
-"https://representativeultrino.com/copy-of-key-legislation",
-"https://representativeultrino.com/issues",
-"https://representativeultrino.com/meet-steve",
-"https://representativeultrino.com/meet-the-team",
-"https://representativeultrino.com/news",
-"https://representativeultrino.com/news/categories/celebrations-achievements",
-"https://representativeultrino.com/news/categories/community-annoucements",
-"https://representativeultrino.com/news/categories/grants/resources",
-"https://representativeultrino.com/news/categories/newsletters",
-"https://representativeultrino.com/news/categories/press-releases",
-"https://representativeultrino.com/news/categories/voice-on-the-hill/other-events",
-"https://representativeultrino.com/news/categories/wellness-wednesday",
-"https://representativeultrino.com/policy",
-"https://representativeultrino.com/post/apis-can-greater-boston-legal-services-the-asian-caucus-are-hosting-a-townhall-event-6pm-03-25",
-"https://representativeultrino.com/post/join-myself-and-others-for-a-town-hall-with-the-massachusetts-trial-court",
-"https://representativeultrino.com/post/join-us-for-a-conversation-with-malden-director-of-public-health-chris-webb",
-"https://representativeultrino.com/post/new-installment-of-your-voice-on-the-hill-featuring-dan-o-leary-ceo-of-mystic-valley-elder-services",
-"https://representativeultrino.com/post/the-national-grid-s-customer-advocate-team-to-host-one-hour-webinars-in-english-spanish",
-"https://representativeultrino.com/post/upcoming-event-your-voice-on-the-hill",
-"https://representativeultrino.com/post/update-office-hours-with-representative-ultrino-moved-to-7pm-on-02-18-2021",
-"https://representativeultrino.com/post/\u6d3b\u52a8\u9884\u544a\uff1a\u60a8\u5728\u5c71\u4e0a\u7684\u58f0\u97f3",
-"https://twitter.com/repultrino?lang=en",
-"https://youtube.com/channel/UCtkdBI2g5TE98AlrTZHXVLQ"
+{
+"text": "APIs CAN, Greater Boston Legal Services, & the Asian Caucus are hosting a townhall event 6pm 03/25",
+"href": "https://www.representativeultrino.com/post/apis-can-greater-boston-legal-services-the-asian-caucus-are-hosting-a-townhall-event-6pm-03-25"
+},
+{
+"text": "Achievements",
+"href": "https://www.representativeultrino.com/news/categories/celebrations-achievements"
+},
+{
+"text": "All Posts",
+"href": "https://www.representativeultrino.com/news"
+},
+{
+"text": "Community Updates",
+"href": "https://www.representativeultrino.com/news/categories/community-annoucements"
+},
+{
+"text": "Contact Steve",
+"href": "https://www.representativeultrino.com/contact-steve"
+},
+{
+"text": "Events",
+"href": "https://www.representativeultrino.com/news/categories/voice-on-the-hill/other-events"
+},
+{
+"text": "Funding",
+"href": "https://www.representativeultrino.com/budget-funding"
+},
+{
+"text": "Grants & Other Resources",
+"href": "https://www.representativeultrino.com/news/categories/grants/resources"
+},
+{
+"text": "Home",
+"href": "https://www.representativeultrino.com"
+},
+{
+"text": "Issues",
+"href": "https://www.representativeultrino.com/issues"
+},
+{
+"text": "JOIN MYSELF AND OTHERS FOR A TOWN HALL WITH THE MASSACHUSETTS TRIAL COURT",
+"href": "https://www.representativeultrino.com/post/join-myself-and-others-for-a-town-hall-with-the-massachusetts-trial-court"
+},
+{
+"text": "Join Us @7pm on 02/11/2021 for a Conversation with Malden Director of Public Health Chris Webb",
+"href": "https://www.representativeultrino.com/post/join-us-for-a-conversation-with-malden-director-of-public-health-chris-webb"
+},
+{
+"text": "Legislative Wins",
+"href": "https://www.representativeultrino.com/copy-of-key-legislation"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.representativeultrino.com/meet-steve"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.representativeultrino.com/meet-the-team"
+},
+{
+"text": "NEW INSTALLMENT OF YOUR VOICE ON THE HILL FEATURING DAN O'LEARY, CEO OF MYSTIC VALLEY ELDER SERVICES",
+"href": "https://www.representativeultrino.com/post/new-installment-of-your-voice-on-the-hill-featuring-dan-o-leary-ceo-of-mystic-valley-elder-services"
+},
+{
+"text": "Newsletters",
+"href": "https://www.representativeultrino.com/news/categories/newsletters"
+},
+{
+"text": "Newsroom",
+"href": "https://www.representativeultrino.com/news"
+},
+{
+"text": "Policy",
+"href": "https://www.representativeultrino.com/policy"
+},
+{
+"text": "Press Releases",
+"href": "https://www.representativeultrino.com/news/categories/press-releases"
+},
+{
+"text": "Resources",
+"href": "https://www.representativeultrino.com/communityresources"
+},
+{
+"text": "Steven.Ultrino@MAhouse.gov",
+"href": "mailto:Steven.Ultrino@MAhouse.gov"
+},
+{
+"text": "THE NATIONAL GRID’S CUSTOMER ADVOCATE TEAM TO HOST ONE-HOUR WEBINARS IN ENGLISH & SPANISH",
+"href": "https://www.representativeultrino.com/post/the-national-grid-s-customer-advocate-team-to-host-one-hour-webinars-in-english-spanish"
+},
+{
+"text": "UPCOMING EVENT: Your Voice on the Hill",
+"href": "https://www.representativeultrino.com/post/upcoming-event-your-voice-on-the-hill"
+},
+{
+"text": "Update: Office Hours with Representative Ultrino moved to 7pm on 02/18/2021",
+"href": "https://www.representativeultrino.com/post/update-office-hours-with-representative-ultrino-moved-to-7pm-on-02-18-2021"
+},
+{
+"text": "Wellness Wednesday",
+"href": "https://www.representativeultrino.com/news/categories/wellness-wednesday"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/ultrinoforrep/"
+},
+{
+"text": "[image: Black Instagram Icon]",
+"href": "https://www.instagram.com/repultrino/?hl=en"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "https://twitter.com/repultrino?lang=en"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCtkdBI2g5TE98AlrTZHXVLQ"
+},
+{
+"text": "活动预告：您在山上的声音",
+"href": "https://www.representativeultrino.com/post/%E6%B4%BB%E5%8A%A8%E9%A2%84%E5%91%8A%EF%BC%9A%E6%82%A8%E5%9C%A8%E5%B1%B1%E4%B8%8A%E7%9A%84%E5%A3%B0%E9%9F%B3"
+}
 ]

@@ -1,20 +1,17 @@
-top of page
-KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN
-ENDORSED BY:
-No events at the moment
-Past Events
-- Tue, May 05
-- Sat, Apr 11
-- Sat, Apr 04
-- Wed, Mar 25
-- Sun, Mar 22Mar 22, 2026, 3:00 PM – 5:00 PM1437 Michaels Way, 1437 Michaels Way, Corvallis, MT 59828, USAOn Sunday, March 22 at 3:00 PM, we invite you to join us in Corvallis for a special Meet & Greet with Kathy Love and Kim Dailey.
-This will be a wonderful opportunity for friends, neighbors, and community members to come together, share conversation, and discuss the future of our community and our st
-- Fri, Dec 05Dec 05, 2025, 2:00 PM – Dec 07, 2025, 2:00 PM100 Old Corvallis Road, Hamilton, MTJoin Kim Dailey at the Hamilton Gun Show, taking place at the Ravalli County Fairgrounds, 1st Interstate Building (100 Old Corvallis Road, Hamilton, MT).
-Kim will be there to connect with you and answer questions during the full event schedule:
-- Tue, Sep 23Sep 23, 2025, 11:30 AM – 1:30 PMHamilton, 900 N 1st St, Hamilton, MT 59840, USAJoin the Ravalli County Republican Women for our monthly meeting at BJ’s Restaurant.
+top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT DONATE ENDORSED BY: No events at the moment Past Events Tue, May 05 Kim Dailey Gun Raffle / Location is TBD Learn more May 05, 2026, 12:00 PM – 12:05 PM Location is TBD We’re excited to announce the Kim Dailey Gun Raffle!
+This is your chance to win one of TWO firearms while supporting Kim’s campaign and connecting with your community.
+Share Sat, Apr 11 Honoring Our Veterans: Join Us for a Patriotic Community Event in Darby / 106 Main St Learn More Apr 11, 2026, 2:00 PM – 6:00 PM 106 Main St, 106 Main St, Darby, MT 59829, USA This special gathering is centered around one simple but powerful mission:to recognize and thank our veterans for their sacrifice, courage, and commitment to our freedoms.
+Share Sat, Apr 04 Lincoln Reagan Trump Dinner / Fairgrounds Road Learn More Apr 04, 2026, 5:30 PM – 9:30 PM Fairgrounds Road, Fairgrounds Rd, Hamilton, MT 59840, USA Join the Lincoln Reagan Dinner on April 4 at the Hamilton Fairgrounds.
+Hear from local candidates, including Kim Dailey, and connect with your community.
+Share Wed, Mar 25 Meet Kim Dailey and Local Conservative Candidates in Hamilton / The Edge Restaurant & Sports Bar Learn More Mar 25, 2026, 6:00 PM – 8:00 PM The Edge Restaurant & Sports Bar, 140 Bitterroot Plaza Dr, Hamilton, MT 59840, USA This informal gathering provides voters with a chance to meet the candidates face to face, ask questions, and learn more about their vision for Montana’s future.
+Share Sun, Mar 22 Join Us for a Meet & Greet with Kathy Love and Kim Dailey / 1437 Michaels Way Learn More Mar 22, 2026, 3:00 PM – 5:00 PM 1437 Michaels Way, 1437 Michaels Way, Corvallis, MT 59828, USA On Sunday, March 22 at 3:00 PM, we invite you to join us in Corvallis for a special Meet & Greet with Kathy Love and Kim Dailey.
+This will be a wonderful opportunity for friends, neighbors, and community members to come together, share conversation, and discuss the future of our community and our st Share Fri, Dec 05 Meet Kim Dailey at the Hamilton Gun Show / 100 Old Corvallis Road, Hamilton, MT Learn more Dec 05, 2025, 2:00 PM – Dec 07, 2025, 2:00 PM 100 Old Corvallis Road, Hamilton, MT Join Kim Dailey at the Hamilton Gun Show, taking place at the Ravalli County Fairgrounds, 1st Interstate Building (100 Old Corvallis Road, Hamilton, MT).
+Kim will be there to connect with you and answer questions during the full event schedule: Share Tue, Sep 23 Ravalli County Republican Women Meeting / Hamilton Learn more Sep 23, 2025, 11:30 AM – 1:30 PM Hamilton, 900 N 1st St, Hamilton, MT 59840, USA Join the Ravalli County Republican Women for our monthly meeting at BJ’s Restaurant.
 This is a wonderful opportunity to connect with fellow conservatives, enjoy lunch together, and hear from special guest Kim Dailey, who will be speaking and sharing her vision for our community.
-- Sat, Sep 20
-- Fri, Sep 19
-- Wed, Aug 27Aug 27, 2025, 7:00 AM – Aug 30, 2025, 10:00 PMHamilton, 100 Old Corvallis Rd, Hamilton, MT 59840, USAKim Dailey participated in the 2025 Ravalli County Fair & Rodeo, a four-day community celebration featuring a parade, rodeo events, live music, livestock shows, and exhibits.
-Kim hosted a booth where she met with community members, shared her vision, and celebrated the values of tradition and togeth
-bottom of page
+Share Sat, Sep 20 Darby Kids Rodeo / Darby Learn more Sep 20, 2025, 10:00 AM – 2:00 PM Darby, 200 Rodeo Rd, Darby, MT 59829, USA Meet Kim Dailey at the Darby Kid’s Rodeo!
+For more information, go to darbyrodeo.org/kidsrodeo.
+Share Fri, Sep 19 Darby Homecoming Parade – Kim Dailey Float / Darby Learn more Sep 19, 2025, 2:00 PM – 6:00 PM Darby, Darby, MT 59829, USA Kim Dailey will have a float in the Darby Homecoming Parade.
+Bring the family, wave hello, and show your hometown spirit!
+Share Wed, Aug 27 Ravalli County Fair & Rodeo 2025 / Hamilton Learn More Aug 27, 2025, 7:00 AM – Aug 30, 2025, 10:00 PM Hamilton, 100 Old Corvallis Rd, Hamilton, MT 59840, USA Kim Dailey participated in the 2025 Ravalli County Fair & Rodeo, a four-day community celebration featuring a parade, rodeo events, live music, livestock shows, and exhibits.
+Kim hosted a booth where she met with community members, shared her vision, and celebrated the values of tradition and togeth Share Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

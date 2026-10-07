@@ -1,19 +1,82 @@
 [
-"https://bsky.app/profile/benscoterforpa.bsky.social",
-"https://facebook.com/people/Jeremy-Benscoter-for-State-Represenstative/61586402706151",
-"https://instagram.com/benscoterforpa",
-"https://jeremybenscoter.com/",
-"https://jeremybenscoter.com/contact",
-"https://jeremybenscoter.com/events",
-"https://jeremybenscoter.com/issues",
-"https://jeremybenscoter.com/what-can-i-do",
-"https://secure.actblue.com/donate/jeremy-benscoter",
-"https://secure.actblue.com/donate/jeremy-benscoter?amount=10",
-"https://secure.actblue.com/donate/jeremy-benscoter?amount=15",
-"https://secure.actblue.com/donate/jeremy-benscoter?amount=20",
-"https://secure.actblue.com/donate/jeremy-benscoter?amount=25",
-"https://secure.actblue.com/donate/jeremy-benscoter?amount=50",
-"https://tiktok.com/@jeremybenscoterforpa",
-"https://wpzoom.com/",
-"https://wpzoom.com/themes/inspiro"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/jeremy-benscoter?amount=10"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/jeremy-benscoter?amount=15"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/jeremy-benscoter?amount=20"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jeremy-benscoter?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jeremy-benscoter?amount=50"
+},
+{
+"text": "Click here",
+"href": "https://www.jeremybenscoter.com/what-can-i-do/"
+},
+{
+"text": "Connect",
+"href": "https://www.jeremybenscoter.com/contact/"
+},
+{
+"text": "Contact us",
+"href": "https://www.jeremybenscoter.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jeremy-benscoter"
+},
+{
+"text": "Events",
+"href": "https://www.jeremybenscoter.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.jeremybenscoter.com/"
+},
+{
+"text": "Inspiro Theme",
+"href": "https://www.wpzoom.com/themes/inspiro/"
+},
+{
+"text": "Issues",
+"href": "https://www.jeremybenscoter.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jeremybenscoter.com/what-can-i-do/"
+},
+{
+"text": "WPZOOM",
+"href": "https://www.wpzoom.com/"
+},
+{
+"text": "[image: Jeremy Benscoter]",
+"href": "https://www.jeremybenscoter.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/benscoterforpa.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/people/Jeremy-Benscoter-for-State-Represenstative/61586402706151/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/benscoterforpa/"
+},
+{
+"text": "[tooltip: Tiktok]",
+"href": "https://www.tiktok.com/@jeremybenscoterforpa"
+}
 ]

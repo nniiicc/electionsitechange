@@ -1,13 +1,62 @@
 [
-"http://elections.il.gov/",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://jennifersanalitro.com/",
-"https://jennifersanalitro.com/issues",
-"https://jennifersanalitro.com/privacypolicy",
-"https://jennifersanalitro.com/request-a-yard-sign",
-"https://jennifersanalitro.com/votinginfo",
-"https://secure.winred.com/citizens-for-sanalitro/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@wix",
-"https://x.com/wix"
+{
+"text": "About Jennifer",
+"href": "https://www.jennifersanalitro.com"
+},
+{
+"text": "Citizens for Sanalitro",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-sanalitro/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jennifersanalitro.com"
+},
+{
+"text": "Home",
+"href": "https://www.jennifersanalitro.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jennifersanalitro.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jennifersanalitro.com/privacypolicy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.jennifersanalitro.com/request-a-yard-sign"
+},
+{
+"text": "Voting Information",
+"href": "https://www.jennifersanalitro.com/votinginfo"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "sanalitroforrep@gmail.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

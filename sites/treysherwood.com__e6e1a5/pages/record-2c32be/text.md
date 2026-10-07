@@ -1,29 +1,3 @@
-Legislative Service:
-2023 - 2026 - Appropriations Committee
-2021 - 2026 -Management Audit Committee
-2023 - 2026 Capitol Exhibits & Wayfinding
-2021-House Minerals, Business & Economic Development
-2021-Small Business Assistance Program Advisory Panel
-2021-CSG West - Workforce Development
-2022 - Emerging Legislative Leaders
-Defending Your Rights:
-Sponsored Bills:
-HB 272 Investment in Wyoming Housing
-HB 40 Suicide Prevention
-HJ 03 Support for Rural Schools
-HB 178 Work Allowance for Voting
-HB 103 Columbarium Regulation
-HB 174 Paid Family and Medical Leave
-HB0135 and HB 82 Cities and towns-abandoned and nuisance buildings
-HJ 5 - Passenger Rail Service
-HB0156 Alcoholic beverage permits
-HB0203 Small business relief
-Volunteer Service:
-Mentor, Wyoming Main Street
-Server, Trinity Lutheran Church
-Member, Wyoming Committee in support of the Smithsonian American Women’s History Museum
-Advisory Council, LCCC Albany County Campus
-Co-founder of the Laramie Mural Project & the Laramie Public Art Coalition
-Former Board Member with the Wyoming State Historical Society
-Former Board Member with the Laramie Plains Museum
-Former President of the Albany County Historical Society
+Home Donate Vote Volunteer Record Contact Home Donate Vote Volunteer Record Contact Legislative Service: 2023 - 2026 - Appropriations Committee 2021 - 2026 -Management Audit Committee 2023 - 2026 Capitol Exhibits & Wayfinding 2021-House Minerals, Business & Economic Development 2021-Small Business Assistance Program Advisory Panel 2021-CSG West - Workforce Development 2022 - Emerging Legislative Leaders Defending Your Rights: Access to Education “The goal is to get a budget bill to the governor’s desk that provides all our communities with equal access to a quality education” Support Grows for Rural Schools One-Room School for Garrett, WY Antelope Creek School Opens Housing You Can Afford “If we want young people to stay in Wyoming, grow businesses and raise families, we must invest in housing” Habitat for Humanity Hero Award Albany County Housing Coalition Wyoming Housing Fund Sponsored Bills: HB 272 Investment in Wyoming Housing HB 40 Suicide Prevention HJ 03 Support for Rural Schools HB 178 Work Allowance for Voting HB 103 Columbarium Regulation HB 174 Paid Family and Medical Leave HB0135 and HB 82 Cities and towns-abandoned and nuisance buildings HJ 5 - Passenger Rail Service HB0156 Alcoholic beverage permits HB0203 Small business relief HB0204 Small business relief loan programs HB1015 Covid incentive pay for state employees HB0196 Workplace transparency act HB0103 Journalists-privileged communications HB0205 Select committee on extractive industry transitions HB0206 Wyoming minimum wage Volunteer Service: Mentor, Wyoming Main Street Server, Trinity Lutheran Church Member, Wyoming Committee in support of the Smithsonian American Women’s History Museum Advisory Council, LCCC Albany County Campus Co-founder of the Laramie Mural Project & the Laramie Public Art Coalition Former Board Member with the Wyoming State Historical Society Former Board Member with the Laramie Plains Museum Former President of the Albany County Historical Society I’m serving as your House District 14 representative to give back and make a difference.
+I lead with empathy and compassion, listening to your needs, reflecting our shared values, and working across the aisle to build strong Wyoming communities.
+Donate Platform I Believe Mascot Contact Paid for By Elect Trey Sherwood Landscapes by Trey Sherwood PROFESSIONAL Portraits by Lightfolly POWERED BY SQUARESPACE

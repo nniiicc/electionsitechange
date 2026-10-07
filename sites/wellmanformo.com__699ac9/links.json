@@ -1,27 +1,142 @@
 [
-"https://facebook.com/wellmanformo",
-"https://fpwellman.substack.com/",
-"https://instagram.com/wellmanformo",
-"https://secure.actblue.com/donate/fwhomepage",
-"https://secure.actblue.com/donate/fwhomepage?amount=10",
-"https://secure.actblue.com/donate/fwhomepage?amount=100",
-"https://secure.actblue.com/donate/fwhomepage?amount=25",
-"https://secure.actblue.com/donate/fwhomepage?amount=50",
-"https://secure.ngpvan.com/B4wArA60HkO3pr7aUCsjmA2",
-"https://tiktok.com/@wellmanformo",
-"https://wellmanformo.com/",
-"https://wellmanformo.com/cart",
-"https://wellmanformo.com/contact",
-"https://wellmanformo.com/election-center",
-"https://wellmanformo.com/endorsements",
-"https://wellmanformo.com/events",
-"https://wellmanformo.com/media",
-"https://wellmanformo.com/media-kit",
-"https://wellmanformo.com/meet-fred",
-"https://wellmanformo.com/policy",
-"https://wellmanformo.com/press-center",
-"https://wellmanformo.com/privacy-policy",
-"https://wellmanformo.com/volunteer",
-"https://wellmanformo.myshopify.com/",
-"https://x.com/wellmanformo"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/fwhomepage?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fwhomepage?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/fwhomepage?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/fwhomepage?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.wellmanformo.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.wellmanformo.com/"
+},
+{
+"text": "Blog",
+"href": "https://fpwellman.substack.com/"
+},
+{
+"text": "Claim Your Sign",
+"href": "https://secure.ngpvan.com/B4wArA60HkO3pr7aUCsjmA2"
+},
+{
+"text": "Contact",
+"href": "https://www.wellmanformo.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/fwhomepage"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fwhomepage"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wellmanformo.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.wellmanformo.com/events"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.wellmanformo.com/media"
+},
+{
+"text": "Join the campaign",
+"href": "https://www.wellmanformo.com/volunteer"
+},
+{
+"text": "Learn about Fred's policies",
+"href": "https://www.wellmanformo.com/policy"
+},
+{
+"text": "Learn more about fred",
+"href": "https://www.wellmanformo.com/meet-fred"
+},
+{
+"text": "Media Kit",
+"href": "https://www.wellmanformo.com/media-kit"
+},
+{
+"text": "Meet Fred",
+"href": "https://www.wellmanformo.com/meet-fred"
+},
+{
+"text": "Merch",
+"href": "https://wellmanformo.myshopify.com/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/fwhomepage"
+},
+{
+"text": "Policy",
+"href": "https://www.wellmanformo.com/policy"
+},
+{
+"text": "Press Center",
+"href": "https://www.wellmanformo.com/press-center"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.wellmanformo.com/privacy-policy"
+},
+{
+"text": "Support our campaign online here",
+"href": "https://secure.actblue.com/donate/fwhomepage"
+},
+{
+"text": "Visit the election center",
+"href": "https://www.wellmanformo.com/election-center"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wellmanformo.com/volunteer"
+},
+{
+"text": "[image: Wellman For Missouri]",
+"href": "https://www.wellmanformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/fwhomepage"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/wellmanformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/wellmanformo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@wellmanformo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/wellmanformo"
+},
+{
+"text": "shop now",
+"href": "https://wellmanformo.myshopify.com/"
+},
+{
+"text": "view upcoming events",
+"href": "https://www.wellmanformo.com/events"
+}
 ]

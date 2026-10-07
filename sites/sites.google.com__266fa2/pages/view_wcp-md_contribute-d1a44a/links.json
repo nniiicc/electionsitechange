@@ -1,8 +1,42 @@
 [
-"https://sites.google.com/view/wcp-md/contribute",
-"https://sites.google.com/view/wcp-md/docs-and-links",
-"https://sites.google.com/view/wcp-md/events",
-"https://sites.google.com/view/wcp-md/home",
-"https://sites.google.com/view/wcp-md/register",
-"https://sites.google.com/view/wcp-md/videos"
+{
+"text": "Contribute",
+"href": "https://sites.google.com/view/wcp-md/contribute"
+},
+{
+"text": "Docs and Links",
+"href": "https://sites.google.com/view/wcp-md/docs-and-links"
+},
+{
+"text": "Events",
+"href": "https://sites.google.com/view/wcp-md/events"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/wcp-md/home"
+},
+{
+"text": "Register",
+"href": "https://sites.google.com/view/wcp-md/register"
+},
+{
+"text": "Videos",
+"href": "https://sites.google.com/view/wcp-md/videos"
+},
+{
+"text": "WCP of MD",
+"href": "https://sites.google.com/view/wcp-md/home"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/wcp-md/home"
+},
+{
+"text": "[image]WCP of MD",
+"href": "https://sites.google.com/view/wcp-md/home"
+},
+{
+"text": "workingclasspartyMD@gmail.com",
+"href": "mailto:workingclasspartyMD@gmail.com"
+}
 ]

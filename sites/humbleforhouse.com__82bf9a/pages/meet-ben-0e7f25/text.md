@@ -1,6 +1,4 @@
-Meet Ben Humble
-CANDIDATE FOR PA STATE REPRESENTATIVE 50TH DISTRICT
-When you come to know candidate Ben Humble, you’ll find that family, friends, and neighbors describe him as ‘authentic’, ‘dependable’, with ‘strong moral principles’, ‘ethical values’, and with a ‘deep desire to serve his community’.
+0 Skip to Content Home Meet Ben News and Updates Events Issues Volunteer Contact Open Menu Close Menu Home Meet Ben News and Updates Events Issues Volunteer Contact Open Menu Close Menu Home Meet Ben News and Updates Events Issues Volunteer Contact Meet Ben Humble CANDIDATE FOR PA STATE REPRESENTATIVE 50TH DISTRICT When you come to know candidate Ben Humble, you’ll find that family, friends, and neighbors describe him as ‘authentic’, ‘dependable’, with ‘strong moral principles’, ‘ethical values’, and with a ‘deep desire to serve his community’.
 When he speaks with you, Ben often mentions his commitment to faith, family, and service.
 These values are realized not through living a perfect life, but through a realization of God’s grace and a determination to create a bright future for all.
 Ben was born and raised in Southwestern Pennsylvania and has spent his adult life working and serving in the community.
@@ -29,8 +27,7 @@ That ‘team’ has more potential than ‘alone’.
 That picking up the burden has more value than throwing the rock.
 He has a proven record of delivering on his commitments, and ‘humbly’ asks for the opportunity to deliver for you in District 50.
 On Tuesday, May 19th, please cast your vote for Ben Humble for PA District 50 State Representative.
-Message From Ben
-I’m not a career politician — I’m a lifelong Greene County resident, husband, father, and a part of my family’s 50+ year business.
+Message From Ben I’m not a career politician — I’m a lifelong Greene County resident, husband, father, and a part of my family’s 50+ year business.
 I’m also a public servant who believes government should work for the people, not the other way around.
 For over 20 years, I’ve helped run our family’s remodeling business, serving our community with custom bathroom and kitchen projects.
 I’m currently the President of Waynesburg Borough Council and a proud lieutenant in the Waynesburg/Franklin Township Volunteer Fire Department.
@@ -39,8 +36,8 @@ My mission is simple: to represent the hardworking people of the 50th District w
 I’m married to my incredible wife and together, we’re raising our two amazing kids, our 9-year-old son and 5-year-old daughter.
 When I’m not working or serving, you can find me outdoors hunting, fishing, and enjoying the land we call home.
 This race isn’t about politics - it’s about people.
-And I’m ready to be a voice for We the People.
-Contact us
-Interested in working together?
+And I’m ready to be a voice for We the People .
+Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Contact E: humbleforhouse@gmail.com P: (724) 833-5017

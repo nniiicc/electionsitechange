@@ -1,7 +1,9 @@
 {
  "description": "News about Matt Simpson for Assembly.",
  "final_url": "https://simpsonforassembly.com/news/",
- "paid_for_by": null,
+ "fingerprint": "c8246765655464b81bdc54b9a0736818966f665d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News -",
  "years_mentioned": []
 }

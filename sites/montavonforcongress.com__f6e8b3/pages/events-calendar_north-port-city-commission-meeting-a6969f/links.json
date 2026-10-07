@@ -1,23 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Port+City+Commission+Meeting&dates=20260922T220000Z%2F20260923T010000Z",
-"https://bsky.app/profile/montavon.bsky.social",
-"https://facebook.com/events/1071476018996118?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-"https://facebook.com/montavon4congress",
-"https://instagram.com/MontavonforCongress",
-"https://montavonforcongress.com/",
-"https://montavonforcongress.com/cart",
-"https://montavonforcongress.com/cd17",
-"https://montavonforcongress.com/contribute",
-"https://montavonforcongress.com/events-calendar",
-"https://montavonforcongress.com/events-calendar/marathon-1",
-"https://montavonforcongress.com/events-calendar/north-port-city-commission-meeting?format=ical",
-"https://montavonforcongress.com/events-calendar/sarasota-campaign-kickoff-8fy33",
-"https://montavonforcongress.com/marathon",
-"https://montavonforcongress.com/meet",
-"https://montavonforcongress.com/new-dropdown",
-"https://montavonforcongress.com/platform",
-"https://montavonforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/matthew-montavon-1",
-"https://tiktok.com/@montavon.for.cong",
-"https://youtube.com/@Montavon4Congress/videos"
+{
+"text": "0",
+"href": "https://www.montavonforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.montavonforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.montavonforcongress.com/events-calendar"
+},
+{
+"text": "CD 17",
+"href": "https://www.montavonforcongress.com/cd17"
+},
+{
+"text": "Contact",
+"href": "https://www.montavonforcongress.com/contribute"
+},
+{
+"text": "Contribute",
+"href": "https://www.montavonforcongress.com/#getinvolved"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/matthew-montavon-1"
+},
+{
+"text": "Events",
+"href": "https://www.montavonforcongress.com/events-calendar"
+},
+{
+"text": "Facebook Page",
+"href": "https://www.facebook.com/events/1071476018996118?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
+},
+{
+"text": "Folder: About",
+"href": "https://www.montavonforcongress.com/new-dropdown"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Port+City+Commission+Meeting&dates=20260922T220000Z%2F20260923T010000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.montavonforcongress.com/events-calendar/north-port-city-commission-meeting?format=ical"
+},
+{
+"text": "Meet Matthew",
+"href": "https://www.montavonforcongress.com/meet"
+},
+{
+"text": "Montavon's Marathon",
+"href": "https://www.montavonforcongress.com/marathon"
+},
+{
+"text": "Next Next September 27 Montavon’s marathon kickoff",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.montavonforcongress.com/privacy-policy"
+},
+{
+"text": "Previous Previous September 13 Charlotte County Campaign Kickoff!",
+"href": "https://www.montavonforcongress.com/events-calendar/sarasota-campaign-kickoff-8fy33"
+},
+{
+"text": "The Platform",
+"href": "https://www.montavonforcongress.com/platform"
+},
+{
+"text": "[image: Montavon For Congress]",
+"href": "https://www.montavonforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/montavon.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/montavon4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MontavonforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@montavon.for.cong"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Montavon4Congress/videos"
+}
 ]

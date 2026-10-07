@@ -1,7 +1,12 @@
 {
  "description": "Donna Mercado Kim Campaign Events",
  "final_url": "https://donnamercadokim.com/Events?range=2026-W42",
+ "fingerprint": "dbc5d107442061b2e68c30102ca1d9c4a63019bf",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner",
  "title": "Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

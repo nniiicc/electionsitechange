@@ -1,5 +1,4 @@
-Legislation & Influence
-As a Republican Assistant Leader and a long-serving member of the powerful Appropriations Committee, the Education Committee, and a leader on the state's Aging Committee, Mitch provides oversight and direction to many high-impact matters in Hartford.
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Legislation & Influence As a Republican Assistant Leader and a long-serving member of the powerful Appropriations Committee, the Education Committee, and a leader on the state's Aging Committee, Mitch provides oversight and direction to many high-impact matters in Hartford.
 This, and his unassuming way of working both sides of the aisle, have built him a reputation as a reliable partner in all legislative business.
 His results, and multiple "Legislator of the Year" honors speak for themselves, and his productivity for Newtown is substantial.
 For a "Short Session", 2024 was a busy legislative year with many important bills introduced or co-sponsored by Rep.
@@ -9,7 +8,11 @@ From fiscal policy for a more affordable Connecticut, to supporting law enforcem
 He's a strong voice in Initiatives including Special-Education, Aging, Mental Health, Fair Employment, Balanced-Budget Policy, Veteran's Issues, Manufacturing Apprenticeships and so much more.
 Rep.
 Bolinsky covers the alphabet and, again, expects a successful year working for our district; our community; its families, schools & employers.
-Here's a look at some of his work, with hyperlinks to specific legislation:
-Rep.
-Bolinsky's 2024 Legislation
-THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!
+Here's a look at some of his work, with hyperlinks to specific legislation: Rep.
+Bolinsky's 2024 Legislation THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+14 YEAR INCUMBENT SERVING NEWTOWN ENDORSEMENTS AWARDS & HONORS NEWS & LETTERS VOTING INFO Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
+News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
+Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
+Approved by Mitch Bolinsky.
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu

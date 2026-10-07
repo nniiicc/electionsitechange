@@ -1,14 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61591068383339",
-"https://laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Elections",
-"https://laramiecountywy.gov/Resident-Services/Elections/Ballot-Lookup",
-"https://laramiecountywy.gov/Resident-Services/Elections/Election-Day-Polling-Places",
-"https://laramiecountywy.gov/Resident-Services/Elections/Register-to-Vote",
-"https://ryanforwyoming.com/",
-"https://ryanforwyoming.com/about",
-"https://ryanforwyoming.com/endorsements",
-"https://ryanforwyoming.com/events",
-"https://ryanforwyoming.com/get-involved",
-"https://ryanforwyoming.com/platform",
-"https://secure.anedot.com/ryan-shollenberger-for-wyoming/0f8b3e50-dc28-47ae-bf8b-d3d6a5d068d8"
+{
+"text": "754-264-3611",
+"href": "tel:+17542643611"
+},
+{
+"text": "About Ryan",
+"href": "https://ryanforwyoming.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ryan-shollenberger-for-wyoming/0f8b3e50-dc28-47ae-bf8b-d3d6a5d068d8"
+},
+{
+"text": "Endorsements",
+"href": "https://ryanforwyoming.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://ryanforwyoming.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://ryanforwyoming.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://ryanforwyoming.com/"
+},
+{
+"text": "Laramie County Clerk elections",
+"href": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Elections"
+},
+{
+"text": "Look Up Your Ballot",
+"href": "https://www.laramiecountywy.gov/Resident-Services/Elections/Ballot-Lookup"
+},
+{
+"text": "Make a Contribution",
+"href": "https://secure.anedot.com/ryan-shollenberger-for-wyoming/0f8b3e50-dc28-47ae-bf8b-d3d6a5d068d8"
+},
+{
+"text": "Platform",
+"href": "https://ryanforwyoming.com/platform"
+},
+{
+"text": "Polling Places",
+"href": "https://www.laramiecountywy.gov/Resident-Services/Elections/Election-Day-Polling-Places"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.laramiecountywy.gov/Resident-Services/Elections/Register-to-Vote"
+},
+{
+"text": "Ryan for Wyoming",
+"href": "https://ryanforwyoming.com/"
+},
+{
+"text": "See Events →",
+"href": "https://ryanforwyoming.com/events"
+},
+{
+"text": "Share on Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591068383339"
+},
+{
+"text": "View Endorsements →",
+"href": "https://ryanforwyoming.com/endorsements"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61591068383339"
+},
+{
+"text": "ryanforwyoming@gmail.com",
+"href": "mailto:ryanforwyoming@gmail.com"
+}
 ]

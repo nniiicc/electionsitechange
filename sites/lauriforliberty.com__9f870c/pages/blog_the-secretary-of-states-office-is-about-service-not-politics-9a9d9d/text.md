@@ -1,5 +1,4 @@
-The Secretary of State’s Office is about Service, not Politics
-Running a business in Indiana should be hard for the right reasons.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate The Secretary of State’s Office is about Service, not Politics May 18 Written By Danny Lundy Running a business in Indiana should be hard for the right reasons.
 It should be hard because you are taking a risk.
 Because you are building something new.
 Because you are competing, growing, and solving real problems in your community.
@@ -26,7 +25,7 @@ And service means meeting people where they are.
 In 2026, that means building systems that are clear, accessible, and easy to use.
 It means modernizing websites so that business owners can complete tasks quickly and confidently.
 It means providing accurate, straightforward information without requiring users to dig through layers of bureaucracy to find what they need.
-You need to meet your customers’ needs in a way that’s convenient for them, the Secretary of State's office should be meeting your needs in a way that’s convenient for you.
+You need to meet your customers’ needs in a way that’s convenient for them, the Secretary of State's office should be meeting your needs in a way that’s convenient for you .
 These are not complicated ideas.
 They are basic expectations.
 But they require leadership that is focused, disciplined, and willing to prioritize function and customer service over political optics.
@@ -41,7 +40,7 @@ And we can do it without turning this office into a political battleground.
 This is a service role.
 It always has been.
 It is time we started treating it that way again.
-Lauri Shillings
-Libertarian Candidate for Secretary of State
-Lauri Shillings is a lifelong Hoosier, community leader, and Libertarian candidate for Indiana Secretary of State.
+Lauri Shillings Libertarian Candidate for Secretary of State Lauri Shillings is a lifelong Hoosier, community leader, and Libertarian candidate for Indiana Secretary of State.
 She is running to restore trust, transparency, and independence to one of the most important offices in Indiana government.
+Danny Lundy Previous Previous Shillings Visits Hancock County Next Next Interview with Abdul-Hakim Shabazz Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

@@ -1,19 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/JudyTrombettaForHaverford",
-"https://judytrombetta.com/",
-"https://judytrombetta.com/contribute",
-"https://judytrombetta.com/endorsements",
-"https://judytrombetta.com/events",
-"https://judytrombetta.com/home",
-"https://judytrombetta.com/how-to-help",
-"https://judytrombetta.com/in-the-news",
-"https://judytrombetta.com/issues",
-"https://judytrombetta.com/meet_judy",
-"https://judytrombetta.com/pa-166",
-"https://judytrombetta.com/volunteer",
-"https://judytrombetta.com/vote",
-"https://judytrombetta.com/why-shes-running",
-"https://judytrombetta.com/yard-sign",
-"https://linkedin.com/in/judytrombetta"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Donate",
+"href": "https://judytrombetta.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://judytrombetta.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://judytrombetta.com/events"
+},
+{
+"text": "Home",
+"href": "https://judytrombetta.com/home"
+},
+{
+"text": "How to Help",
+"href": "https://judytrombetta.com/how-to-help"
+},
+{
+"text": "In the News",
+"href": "https://judytrombetta.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://judytrombetta.com/issues"
+},
+{
+"text": "Meet Judy",
+"href": "https://judytrombetta.com/meet_judy"
+},
+{
+"text": "PA's 166th",
+"href": "https://judytrombetta.com/pa-166"
+},
+{
+"text": "Priorities",
+"href": "https://judytrombetta.com/why-shes-running"
+},
+{
+"text": "Take Action",
+"href": "https://judytrombetta.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://judytrombetta.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://judytrombetta.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://judytrombetta.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JudyTrombettaForHaverford"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/judytrombetta/"
+}
 ]

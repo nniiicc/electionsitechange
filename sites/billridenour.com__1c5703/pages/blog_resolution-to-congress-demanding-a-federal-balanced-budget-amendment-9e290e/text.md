@@ -1,5 +1,4 @@
-Resolution to Congress Demanding a Federal Balanced Budget Amendment
-Since 1979, over 39 states have submitted resolutions to Congress calling for a Convention of States to develop a balanced budget/fiscal responsibility amendment to the U.S.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Resolution to Congress Demanding a Federal Balanced Budget Amendment Dec 22 Written By Amanda Ridenour Since 1979, over 39 states have submitted resolutions to Congress calling for a Convention of States to develop a balanced budget/fiscal responsibility amendment to the U.S.
 Constitution.
 Congress has refused to do its duty required by Article V of the Constitution to call a Convention since that time, as its members want to continue to spend the People’s money to remain in office.
 I submitted a Resolution last year to demand Congress do what the Constitution undisputedly requires.
@@ -9,4 +8,6 @@ Constitution.
 The amendment will be put onto our general election ballot this November.
 The draft Resolution is on my campaign website.
 If our Country is to survive, we must rein in our out-of-control federal government and its insane spending which is destroying any future for the People.
-MONTANI SEMPER LIBERI
+MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Prohibiting Illegal Alien Human Smuggling Next Next Resolution to Nullify Federal Actions Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

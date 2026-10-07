@@ -1,7 +1,9 @@
 {
  "description": "Official campaign site for Joe Powers, candidate for Georgia House District 155.",
  "final_url": "https://joepowersforga.com/",
- "paid_for_by": null,
+ "fingerprint": "da942fd82cf4d86caa9552e66b7b1faef9034ad3",
+ "format": 3,
+ "paid_for_by": "authorized by Joseph A",
  "title": "Joe Powers for Georgia",
  "years_mentioned": []
 }

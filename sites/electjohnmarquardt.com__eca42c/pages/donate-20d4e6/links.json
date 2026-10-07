@@ -1,9 +1,34 @@
 [
-"https://electjohnmarquardt.com/",
-"https://electjohnmarquardt.com/about-john",
-"https://electjohnmarquardt.com/donate",
-"https://electjohnmarquardt.com/media",
-"https://electjohnmarquardt.com/testimonial",
-"https://facebook.com/ElectJohnMarquardt",
-"https://secure.anedot.com/friends-of-john-marquardt/donate"
+{
+"text": "About John",
+"href": "https://electjohnmarquardt.com/about-john"
+},
+{
+"text": "CLICK HERE TO DONATE ONLINE",
+"href": "https://secure.anedot.com/friends-of-john-marquardt/donate"
+},
+{
+"text": "Donate",
+"href": "https://electjohnmarquardt.com/donate"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/ElectJohnMarquardt"
+},
+{
+"text": "Home",
+"href": "https://electjohnmarquardt.com/"
+},
+{
+"text": "JOHN MARQUARDT",
+"href": "https://electjohnmarquardt.com/"
+},
+{
+"text": "Media",
+"href": "https://electjohnmarquardt.com/media"
+},
+{
+"text": "Testimonials",
+"href": "https://electjohnmarquardt.com/testimonial"
+}
 ]

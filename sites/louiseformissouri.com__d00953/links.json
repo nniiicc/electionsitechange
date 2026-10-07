@@ -1,12 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61583394465727",
-"https://facebook.com/wix",
-"https://linkedin.com/company/wix-com",
-"https://louiseformissouri.com/",
-"https://louiseformissouri.com/_files/ugd/84770f_a594f88e0dd34b7ca253388dd6f4c9bb.pdf",
-"https://louiseformissouri.com/terms",
-"https://secure.anedot.com/louise-secker-for-mo/donate",
-"https://themissouritimes.com/louise-secker-announces-campaign",
-"https://twitter.com/wix",
-"https://wix.com/"
+{
+"text": "DONATE!",
+"href": "https://secure.anedot.com/louise-secker-for-mo/donate"
+},
+{
+"text": "DOWNLOAD MY FULL RESUME",
+"href": "https://www.louiseformissouri.com/_files/ugd/84770f_a594f88e0dd34b7ca253388dd6f4c9bb.pdf"
+},
+{
+"text": "EMAIL",
+"href": "mailto:LouiseForMissouri@gmail.com?subject=I+just+viewed+your+website..."
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61583394465727"
+},
+{
+"text": "HOME",
+"href": "https://www.louiseformissouri.com"
+},
+{
+"text": "READ MORE",
+"href": "https://themissouritimes.com/louise-secker-announces-campaign/"
+},
+{
+"text": "TERMS",
+"href": "https://www.louiseformissouri.com/terms"
+},
+{
+"text": "View terms of use",
+"href": "https://www.louiseformissouri.com/terms"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Louise-Secker-Logo-Final-Web-for-Gold-Background.png]",
+"href": "https://www.louiseformissouri.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

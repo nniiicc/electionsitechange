@@ -1,59 +1,258 @@
 [
-"http://theguerrillapolitic.com/",
-"https://cbsnews.com/detroit/news/michigan-attorney-general-dana-nessel-leaders-gun-violence-prevention-town-hall-novi-metro-detroit",
-"https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link",
-"https://facebook.com/VoteKellyBreen",
-"https://fox17online.com/examining-potential-changes-to-michigans-civil-justice-system-for-sexual-assault",
-"https://fox17online.com/news/politics/childcare-legislation-aims-to-grow-access-create-incentives-for-industry",
-"https://fox2detroit.com/news/new-70b-state-budget-helps-child-care-state-police-and-direct-care-health-workers",
-"https://instagram.com/kellybreenmi",
-"https://kpvi.com/news/national_news/bipartisan-bill-package-aims-to-increase-childcare-access-and-lower-costs/article_01446c97-7f4c-5613-ab46-572ff62bd4f7.html",
-"https://michiganadvance.com/2024/01/17/rep-breen-more-gun-law-reforms-human-trafficking-bills-in-the-works-for-this-legislative-session",
-"https://michiganadvance.com/2025/02/17/michigan-lawmakers-decry-trump-moves-against-education-department",
-"https://mitechnews.com/politics/bill-extends-foreclosure-avoidance-to-commercial-property",
-"https://oaklandcounty115.com/2026/07/12/2026-candidate-interview-kelly-breen-for-state-representative-district-21",
-"https://ourmidland.com/news/article/michigan-schools-behavior-threat-assessments-2024-19367526.php",
-"https://patch.com/michigan/across-mi/there-are-lot-plans-improve-childcare-michigan-here-s-what-they-do",
-"https://secure.actblue.com/donate/kellybreenwebsite",
-"https://statenews.com/article/2021/12/student-groups-demand-action-against-gun-violence-at-oxford-vigil",
-"https://statenews.com/article/2022/01/house-democrats-discuss-gun-safety-legislation-in-wake-of-oxford-shooting",
-"https://theoaklandpress.com/2022/10/23/nancy-pelosi-visits-novi-highlighting-electric-vehicle-production-and-policy",
-"https://votekellybreen.com/",
-"https://votekellybreen.com/about",
-"https://votekellybreen.com/better-education",
-"https://votekellybreen.com/contact",
-"https://votekellybreen.com/endorsements",
-"https://votekellybreen.com/healthier-michigan",
-"https://votekellybreen.com/meetkelly",
-"https://votekellybreen.com/news",
-"https://votekellybreen.com/news/2021/6/17/child-care-legislation-aims-to-grow-access-create-incentives-for-industry",
-"https://votekellybreen.com/news/2021/6/17/child-care-legislation-aims-to-grow-access-create-incentives-for-industry-x43d8",
-"https://votekellybreen.com/news/2021/6/2/bill-extends-foreclosure-avoidance-to-commercial-property",
-"https://votekellybreen.com/news/2021/6/24/bi-partisan-legislation-introduced-to-support-child-care-providers-parents",
-"https://votekellybreen.com/news/2021/9/21/bipartisan-bill-package-aims-to-increase-childcare-access-and-lower-costs",
-"https://votekellybreen.com/news/2022/10/26/electric-vehicle-production-and-policy-with-nancy-pelosi",
-"https://votekellybreen.com/news/2022/10/28/bipartisan-michigan-group-to-urge-100m-in-school-safety-mental-health-programs-task-force-to-release-full-recommendations-soon",
-"https://votekellybreen.com/news/2024/9/16/bill-to-help-schools-spot-behavior-risks-before-violence-introduced-to-michigan-house",
-"https://votekellybreen.com/news/2024/9/16/court-funding-legislation-on-its-way-to-governor-whitmer",
-"https://votekellybreen.com/news/2024/9/16/michigan-attorney-general-dana-nessel-other-leaders-hold-gun-violence-prevention-town-hall-in-metro-detroit",
-"https://votekellybreen.com/news/2024/9/16/rep-breen-more-gun-law-reforms-human-trafficking-bills-in-the-works-for-this-legislative-session",
-"https://votekellybreen.com/news/2026-candidate-interview-kelly-breen-for-state-representative-district-21",
-"https://votekellybreen.com/news/examining-potential-changes-to-michigans-civil-justice-system-for-sexual-assault",
-"https://votekellybreen.com/news/fallout-over-trump-post-depicting-himself-as-jesus-like-figure",
-"https://votekellybreen.com/news/house-democrats-discuss-gun-safety-legislation-in-wake-of-oxford-shooting",
-"https://votekellybreen.com/news/improve-child-care",
-"https://votekellybreen.com/news/michigan-lawmakers-decry-trump-moves-against-education-department",
-"https://votekellybreen.com/news/student-groups-demand-action-against-gun-violence-at-oxford-vigil",
-"https://votekellybreen.com/news/student-groups-demand-action-against-gun-violence-at-oxford-vigil-9y6a9",
-"https://votekellybreen.com/news/victim-focused-human-trafficking-bills-back-before-michigan-legislature-after-dying-in-lame-duck",
-"https://votekellybreen.com/news?author=5a09b5d26f935eb2a92fcfe5",
-"https://votekellybreen.com/news?offset=1623959423745&author=5a09b5d26f935eb2a92fcfe5",
-"https://votekellybreen.com/priorities",
-"https://votekellybreen.com/search",
-"https://votekellybreen.com/thriving-michigan",
-"https://votekellybreen.com/tighter-knit",
-"https://votekellybreen.com/updates-in-progress-1",
-"https://votekellybreen.com/volunteer2",
-"https://wemu.org/michigan-news/2024-05-10/court-funding-legislation-on-its-way-to-governor-whitmer",
-"https://wxyz.com/news/gov-whitmer-proposes-use-of-1-4b-in-federal-child-care-aid"
+{
+"text": "2026 Candidate Interview: Kelly Breen for State Representative District 21",
+"href": "https://oaklandcounty115.com/2026/07/12/2026-candidate-interview-kelly-breen-for-state-representative-district-21/"
+},
+{
+"text": "A Better Educated Michigan",
+"href": "https://www.votekellybreen.com/better-education"
+},
+{
+"text": "A Healthier Michigan",
+"href": "https://www.votekellybreen.com/healthier-michigan"
+},
+{
+"text": "A More Affordable Michigan",
+"href": "https://www.votekellybreen.com/thriving-michigan"
+},
+{
+"text": "A Tighter-Knit Michigan",
+"href": "https://www.votekellybreen.com/tighter-knit"
+},
+{
+"text": "About",
+"href": "https://www.votekellybreen.com/about"
+},
+{
+"text": "Bi-partisan legislation introduced to support child care providers, parents",
+"href": "https://www.wxyz.com/news/gov-whitmer-proposes-use-of-1-4b-in-federal-child-care-aid"
+},
+{
+"text": "Bill Extends Foreclosure Avoidance to Commercial Property",
+"href": "https://mitechnews.com/politics/bill-extends-foreclosure-avoidance-to-commercial-property/"
+},
+{
+"text": "Bill to help schools spot behavior risks before violence introduced to Michigan House",
+"href": "https://www.ourmidland.com/news/article/michigan-schools-behavior-threat-assessments-2024-19367526.php"
+},
+{
+"text": "Bipartisan Michigan group to urge $100M+ in school safety, mental health programs Task force to release full recommendations soon",
+"href": "https://www.votekellybreen.com/news/2022/10/28/bipartisan-michigan-group-to-urge-100m-in-school-safety-mental-health-programs-task-force-to-release-full-recommendations-soon"
+},
+{
+"text": "Bipartisan bill package aims to increase childcare access and lower costs",
+"href": "https://www.kpvi.com/news/national_news/bipartisan-bill-package-aims-to-increase-childcare-access-and-lower-costs/article_01446c97-7f4c-5613-ab46-572ff62bd4f7.html"
+},
+{
+"text": "Child Care Legislation Aims to Grow Access, Create Incentives for Industry",
+"href": "https://www.fox17online.com/news/politics/childcare-legislation-aims-to-grow-access-create-incentives-for-industry"
+},
+{
+"text": "Contact",
+"href": "https://www.votekellybreen.com/contact"
+},
+{
+"text": "Court funding legislation on its way to Governor Whitmer",
+"href": "https://www.wemu.org/michigan-news/2024-05-10/court-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kellybreenwebsite"
+},
+{
+"text": "Electric Vehicle Production and Policy with Nancy Pelosi",
+"href": "https://www.theoaklandpress.com/2022/10/23/nancy-pelosi-visits-novi-highlighting-electric-vehicle-production-and-policy"
+},
+{
+"text": "Endorsed",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votekellybreen.com/endorsements"
+},
+{
+"text": "Examining potential changes to Michigan's civil justice system for sexual assault",
+"href": "https://www.fox17online.com/examining-potential-changes-to-michigans-civil-justice-system-for-sexual-assault"
+},
+{
+"text": "Fallout over Trump post depicting himself as Jesus-like figure",
+"href": "https://www.votekellybreen.com/news/fallout-over-trump-post-depicting-himself-as-jesus-like-figure"
+},
+{
+"text": "Get Together",
+"href": "https://www.votekellybreen.com/meetkelly"
+},
+{
+"text": "Home",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.votekellybreen.com/news"
+},
+{
+"text": "Kelly Breen",
+"href": "https://www.votekellybreen.com/news?author=5a09b5d26f935eb2a92fcfe5"
+},
+{
+"text": "Michigan Attorney General Dana Nessel, other leaders hold gun violence prevention town hall in Metro Detroit",
+"href": "https://www.cbsnews.com/detroit/news/michigan-attorney-general-dana-nessel-leaders-gun-violence-prevention-town-hall-novi-metro-detroit/"
+},
+{
+"text": "Michigan House launches safety task force after Oxford shooting. What it hopes to do",
+"href": "https://statenews.com/article/2021/12/student-groups-demand-action-against-gun-violence-at-oxford-vigil"
+},
+{
+"text": "Michigan lawmakers decry Trump moves against education department",
+"href": "https://michiganadvance.com/2025/02/17/michigan-lawmakers-decry-trump-moves-against-education-department/"
+},
+{
+"text": "New $70B state budget helps child care, state police and direct care health workers",
+"href": "https://www.fox2detroit.com/news/new-70b-state-budget-helps-child-care-state-police-and-direct-care-health-workers"
+},
+{
+"text": "Older",
+"href": "https://www.votekellybreen.com/news?offset=1623959423745&author=5a09b5d26f935eb2a92fcfe5"
+},
+{
+"text": "Priorities",
+"href": "https://www.votekellybreen.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfOl5DoWS4b7_kfABNbu83veG230TSyzLAqe_uP-JO9C2ZfrA/viewform?usp=sf_link"
+},
+{
+"text": "Re-Elect Kelly Breen",
+"href": "https://www.votekellybreen.com/updates-in-progress-1"
+},
+{
+"text": "Rep. Breen: More gun law reforms, human trafficking bills in the works for this legislative session",
+"href": "https://michiganadvance.com/2024/01/17/rep-breen-more-gun-law-reforms-human-trafficking-bills-in-the-works-for-this-legislative-session/"
+},
+{
+"text": "Student groups demand action against gun violence at Oxford vigil - The State News",
+"href": "https://www.votekellybreen.com/news/student-groups-demand-action-against-gun-violence-at-oxford-vigil"
+},
+{
+"text": "Student groups demand action against gun violence at Oxford vigil - The State News (Copy)",
+"href": "https://statenews.com/article/2022/01/house-democrats-discuss-gun-safety-legislation-in-wake-of-oxford-shooting"
+},
+{
+"text": "THE GUERRILLA POLITIC, LLC",
+"href": "http://www.theguerrillapolitic.com"
+},
+{
+"text": "There Are A Lot Of Plans To Improve Childcare In Michigan. Here's What They Do.",
+"href": "https://patch.com/michigan/across-mi/there-are-lot-plans-improve-childcare-michigan-here-s-what-they-do"
+},
+{
+"text": "Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck",
+"href": "https://www.votekellybreen.com/news/victim-focused-human-trafficking-bills-back-before-michigan-legislature-after-dying-in-lame-duck"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votekellybreen.com/volunteer2"
+},
+{
+"text": "[image: 2026 Candidate Interview: Kelly Breen for State Representative District 21]",
+"href": "https://www.votekellybreen.com/news/2026-candidate-interview-kelly-breen-for-state-representative-district-21"
+},
+{
+"text": "[image: Bi-partisan legislation introduced to support child care providers, parents]",
+"href": "https://www.votekellybreen.com/news/2021/6/24/bi-partisan-legislation-introduced-to-support-child-care-providers-parents"
+},
+{
+"text": "[image: Bill Extends Foreclosure Avoidance to Commercial Property]",
+"href": "https://www.votekellybreen.com/news/2021/6/2/bill-extends-foreclosure-avoidance-to-commercial-property"
+},
+{
+"text": "[image: Bill to help schools spot behavior risks before violence introduced to Michigan House]",
+"href": "https://www.votekellybreen.com/news/2024/9/16/bill-to-help-schools-spot-behavior-risks-before-violence-introduced-to-michigan-house"
+},
+{
+"text": "[image: Bipartisan Michigan group to urge $100M+ in school safety, mental health programs Task force to release full recommendations soon]",
+"href": "https://www.votekellybreen.com/news/2022/10/28/bipartisan-michigan-group-to-urge-100m-in-school-safety-mental-health-programs-task-force-to-release-full-recommendations-soon"
+},
+{
+"text": "[image: Bipartisan bill package aims to increase childcare access and lower costs]",
+"href": "https://www.votekellybreen.com/news/2021/9/21/bipartisan-bill-package-aims-to-increase-childcare-access-and-lower-costs"
+},
+{
+"text": "[image: Child Care Legislation Aims to Grow Access, Create Incentives for Industry ]",
+"href": "https://www.votekellybreen.com/news/2021/6/17/child-care-legislation-aims-to-grow-access-create-incentives-for-industry"
+},
+{
+"text": "[image: Court funding legislation on its way to Governor Whitmer]",
+"href": "https://www.votekellybreen.com/news/2024/9/16/court-funding-legislation-on-its-way-to-governor-whitmer"
+},
+{
+"text": "[image: Electric Vehicle Production and Policy with Nancy Pelosi]",
+"href": "https://www.votekellybreen.com/news/2022/10/26/electric-vehicle-production-and-policy-with-nancy-pelosi"
+},
+{
+"text": "[image: Examining potential changes to Michigan's civil justice system for sexual assault]",
+"href": "https://www.votekellybreen.com/news/examining-potential-changes-to-michigans-civil-justice-system-for-sexual-assault"
+},
+{
+"text": "[image: Fallout over Trump post depicting himself as Jesus-like figure]",
+"href": "https://www.votekellybreen.com/news/fallout-over-trump-post-depicting-himself-as-jesus-like-figure"
+},
+{
+"text": "[image: Kelly Breen for State Representatitve]",
+"href": "https://www.votekellybreen.com/"
+},
+{
+"text": "[image: Michigan Attorney General Dana Nessel, other leaders hold gun violence prevention town hall in Metro Detroit]",
+"href": "https://www.votekellybreen.com/news/2024/9/16/michigan-attorney-general-dana-nessel-other-leaders-hold-gun-violence-prevention-town-hall-in-metro-detroit"
+},
+{
+"text": "[image: Michigan House launches safety task force after Oxford shooting. What it hopes to do]",
+"href": "https://www.votekellybreen.com/news/student-groups-demand-action-against-gun-violence-at-oxford-vigil-9y6a9"
+},
+{
+"text": "[image: Michigan lawmakers decry Trump moves against education department]",
+"href": "https://www.votekellybreen.com/news/michigan-lawmakers-decry-trump-moves-against-education-department"
+},
+{
+"text": "[image: New $70B state budget helps child care, state police and direct care health workers]",
+"href": "https://www.votekellybreen.com/news/2021/6/17/child-care-legislation-aims-to-grow-access-create-incentives-for-industry-x43d8"
+},
+{
+"text": "[image: Rep. Breen: More gun law reforms, human trafficking bills in the works for this legislative session ]",
+"href": "https://www.votekellybreen.com/news/2024/9/16/rep-breen-more-gun-law-reforms-human-trafficking-bills-in-the-works-for-this-legislative-session"
+},
+{
+"text": "[image: Student groups demand action against gun violence at Oxford vigil - The State News (Copy)]",
+"href": "https://www.votekellybreen.com/news/house-democrats-discuss-gun-safety-legislation-in-wake-of-oxford-shooting"
+},
+{
+"text": "[image: Student groups demand action against gun violence at Oxford vigil - The State News]",
+"href": "https://www.votekellybreen.com/news/student-groups-demand-action-against-gun-violence-at-oxford-vigil"
+},
+{
+"text": "[image: There Are A Lot Of Plans To Improve Childcare In Michigan. Here's What They Do.]",
+"href": "https://www.votekellybreen.com/news/improve-child-care"
+},
+{
+"text": "[image: Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck]",
+"href": "https://www.votekellybreen.com/news/victim-focused-human-trafficking-bills-back-before-michigan-legislature-after-dying-in-lame-duck"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteKellyBreen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kellybreenmi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekellybreen.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@kellybreen.com"
+}
 ]

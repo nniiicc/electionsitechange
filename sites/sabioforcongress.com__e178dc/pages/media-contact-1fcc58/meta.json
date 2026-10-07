@@ -1,10 +1,11 @@
 {
  "description": "Contact our campaign manager for media inquiries and connect with us through social media for updates.",
  "final_url": "https://sabioforcongress.com/media-contact",
- "paid_for_by": null,
+ "fingerprint": "ed4facac64b577c97e062524efb6a9aa5ef4fd13",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media Contact",
  "years_mentioned": [
-  "2011",
-  "2025"
+  "2011"
  ]
 }

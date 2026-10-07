@@ -1,13 +1,13 @@
-Two Americas, Part 2: The Debt They Made, The Bill You'll Pay
-"Earth provides enough to satisfy every man's needs, but not every man's greed." — Mahatma Gandhi
-In Part 1, we looked at what your tax dollars buy at the Pentagon: lobster, ribeye, a grand piano, and a 25% Reaper drone loss rate.
+Home About Platform News Contact Volunteer Donate Write-In Candidate Travis Jack Stevens is running as a qualified write-in candidate for U.S.
+Senate.
+His name won't be on the ballot — write it in on November 3, 2026.
+How to Vote → Two Americas, Part 2: The Debt They Made, The Bill You'll Pay Back to News & Updates Accountability Two Americas, Part 2: The Debt They Made, The Bill You'll Pay T Travis Jack Stevens • Saturday, August 15, 2026 • 7 min read "Earth provides enough to satisfy every man's needs, but not every man's greed." — Mahatma Gandhi In Part 1, we looked at what your tax dollars buy at the Pentagon: lobster, ribeye, a grand piano, and a 25% Reaper drone loss rate.
 We looked at what your enlisted sons and daughters sleep on: broken bunks, mold, and 100-degree berthing compartments aboard the USS Lincoln.
 Part 2 goes deeper.
 Because the luxury dining and the broken bunks are symptoms.
 The disease is a system deliberately engineered to transfer wealth upward — and to make sure you never notice until the bill arrives.
 The bill has arrived.
-The Debt They Made
-The national debt just crossed $36 trillion.
+The Debt They Made The national debt just crossed $36 trillion .
 That number is so large it has stopped meaning anything to most people.
 So let's make it mean something.
 Every American alive today — every man, woman, and child — owes approximately $107,000 as their individual share of that debt.
@@ -27,7 +27,7 @@ This is not an accident.
 This is the plan.
 The Wealth Gap Is Not a Gap.
 It Is a Chasm.
-Between 2020 and 2024, U.S. billionaire wealth grew by more than $2.2 trillion.
+Between 2020 and 2024, U.S. billionaire wealth grew by more than $2.2 trillion .
 The median American worker's real wage — adjusted for inflation — declined over the same period.
 The stock market hit record highs.
 Grocery bills hit record highs.
@@ -37,16 +37,13 @@ They are the same policy producing two different outcomes for two different clas
 The top 1% of Americans now hold more wealth than the entire bottom 90% combined.
 That is not a statistic from a socialist pamphlet.
 That is the Federal Reserve's own data.
-The bottom 50% of Americans hold approximately 2.5% of total national wealth.
+The bottom 50% of Americans hold approximately 2.5% of total national wealth .
 And yet we are told, every election cycle, that the problem is immigrants.
 Or trans people.
 Or critical race theory.
 Anything — anything at all — except the people writing the checks to the politicians telling you that.
-The Truth Social Trade: Market Manipulation in Plain Sight
-On April 9, 2025, at 9:37 AM Eastern, Donald Trump posted on Truth Social:
-"THIS IS A GREAT TIME TO BUY!!!
-DJT"
-Ninety minutes later, Trump announced a 90-day pause on his own tariffs.
+The Truth Social Trade: Market Manipulation in Plain Sight On April 9, 2025, at 9:37 AM Eastern, Donald Trump posted on Truth Social: "THIS IS A GREAT TIME TO BUY!!!
+DJT" Ninety minutes later, Trump announced a 90-day pause on his own tariffs.
 The Dow Jones Industrial Average surged more than 2,900 points in a single session — one of the largest single-day gains in market history.
 Anyone who bought in the window between that Truth Social post and the tariff announcement made extraordinary returns.
 Anyone who had sold short in anticipation of continued tariff escalation was wiped out.
@@ -65,19 +62,11 @@ Chris Coons voted to give this administration $8.9 billion in weapons transfers 
 Lisa Blunt Rochester has said nothing.
 Silence is a choice.
 Inaction is a vote.
-Ghislaine Maxwell Gets Better Housing Than Your Soldiers
-Ghislaine Maxwell is serving a 20-year federal sentence at FCI Tallahassee for sex trafficking children.
+Ghislaine Maxwell Gets Better Housing Than Your Soldiers Ghislaine Maxwell is serving a 20-year federal sentence at FCI Tallahassee for sex trafficking children.
 She deserves to be in prison.
 What she does not deserve — and what no one has been able to adequately explain — is why her federal housing conditions appear to exceed those of the men and women who volunteered to defend this country.
-| Ghislaine Maxwell — FCI Tallahassee | Enlisted Sailor — USS Lincoln / Active Duty |
-|---|---|
-| Climate-controlled housing unit | Berthing compartments reported at 100°F+ in summer |
-| Educational programming, library, recreation | Recreation facilities routinely closed |
-| Consistent medical care under BOP standards | Mental health wait times averaging weeks |
-| Structurally maintained housing | Broken bunks, water intrusion, mold (GAO/IG documented) |
-| Three meals/day under federal nutritional standards | Skipped meals during high-tempo operations |
-This is not an argument for worse conditions for Maxwell.
-This is an argument for better conditions for our troops.
+Ghislaine Maxwell — FCI Tallahassee Enlisted Sailor — USS Lincoln / Active Duty Climate-controlled housing unit Berthing compartments reported at 100°F+ in summer Educational programming, library, recreation Recreation facilities routinely closed Consistent medical care under BOP standards Mental health wait times averaging weeks Structurally maintained housing Broken bunks, water intrusion, mold (GAO/IG documented) Three meals/day under federal nutritional standards Skipped meals during high-tempo operations This is not an argument for worse conditions for Maxwell.
+This is an argument for better conditions for our troops .
 The fact that we have to make that argument at all — while the administration asks Congress for a $1.5 trillion defense budget for fiscal 2027 — tells you everything you need to know about who this government is actually working for.
 The Pentagon spent $93 billion in a single month on operations, maintenance, and administration.
 They served lobster and ribeye in the executive dining facility.
@@ -85,8 +74,7 @@ They bought a grand piano.
 They lost 25% of their Reaper drone fleet.
 And the sailors who operate those ships sleep in broken bunks in 100-degree heat.
 If you are not angry, you are not paying attention.
-What Connects All of This
-The $36 trillion debt.
+What Connects All of This The $36 trillion debt.
 The $2.2 trillion in billionaire wealth gains.
 The Truth Social trade.
 The broken bunks.
@@ -97,11 +85,9 @@ The story is this: there is a class of people in this country for whom the rules
 And there is everyone else.
 The enlisted sailor sleeping in a broken bunk is not in the first group.
 The Delaware family watching their grocery bill climb while their wages stagnate is not in the first group.
-"Until they become conscious they will never rebel, and until after they have rebelled they cannot become conscious." — George Orwell, 1984
-The first step is consciousness.
+"Until they become conscious they will never rebel, and until after they have rebelled they cannot become conscious." — George Orwell, 1984 The first step is consciousness.
 The second step is action.
-"Earth provides enough to satisfy every man's needs, but not every man's greed." — Mahatma Gandhi
-I am Travis Jack Stevens.
+"Earth provides enough to satisfy every man's needs, but not every man's greed." — Mahatma Gandhi I am Travis Jack Stevens.
 I am a declared write-in candidate for U.S.
 Senate in Delaware.
 I am a former DoD contract critical care nurse.
@@ -109,8 +95,29 @@ I have no Super PAC money, no corporate donors, and no loyalty to the people who
 On November 3, 2026, write my name on your ballot.
 TRAVIS JACK STEVENS — U.S.
 Senate, Delaware.
-Explore Topics
-Written by
-Travis Jack Stevens
-Travis Jack Stevens spent years as a travel ICU nurse and is a write-in candidate for U.S.
+Share this article Help spread the word — every share reaches a voter.
+Facebook X Bluesky LinkedIn Copy link Explore Topics # wealth gap # national debt # Trump # market manipulation # Ghislaine Maxwell # military # enlisted troops # tariffs # Truth Social # billionaires # accountability # write-in T Written by Travis Jack Stevens Travis Jack Stevens spent years as a travel ICU nurse and is a write-in candidate for U.S.
 Senate · Delaware.
+Related Posts Accountability Two Americas: Lobster at the Pentagon, Broken Bunks on the Lincoln Secretary Hegseth installed a grand piano and put lobster on the menu while sailors on the USS Lincoln slept in broken bunks.
+The administration is asking for a $1.5 trillion defense budget for FY2027.
+Reaper drones are being lost at a 25% rate.
+And the CIA's own analysts rated the intel that rerouted Air Force One as low confidence.
+This is what two Americas looks like.
+Aug 14, 2026 • 9 min read • Travis Jack Stevens # Pentagon # Hegseth # defense budget Accountability Why I Am Running Against Chris Coons: He Chose the War Machine Over Delaware In April 2026, Senator Chris Coons was one of only seven Senate Democrats who crossed party lines to keep $446.8 million in U.S. weapons — 12,000 1,000-pound bombs and Caterpillar D9 military bulldozers — flowing to Israel.
+This is why that vote matters, and why Delaware deserves better.
+Aug 13, 2026 • 8 min read • Travis Jack Stevens # Chris Coons # arms sales # Israel Accountability He Sold the Market, Used Reporters as Bait, and Started a War He Can't Finish Three stories broke on August 12th.
+Each one, on its own, would have ended a normal presidency.
+Together, they tell you everything you need to know about where we are.
+Aug 12, 2026 • 5 min read • Travis Jack Stevens # Truth Social # Iran # Air Force One Stay Informed Get Campaign Updates News and ways to get involved — straight to your inbox.
+Subscribe People-funded.
+No Super PAC.
+No AI or tech money.
+Accountability, an end to forever wars, real rules for AI, and health care and housing for all.
+On November 3, write TRAVIS JACK STEVENS.
+Campaign Home About Platform Volunteer Contact Donate Get Involved Ready to make a difference?
+Join our campaign today and help build a better Delaware.
+Join the Campaign © 2026 Travis Jack Stevens for U.S.
+Senate.
+All rights reserved.
+Paid for by Travis Jack Stevens for U.S.
+Senate

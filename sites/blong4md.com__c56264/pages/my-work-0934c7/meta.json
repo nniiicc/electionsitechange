@@ -1,7 +1,12 @@
 {
  "description": "Explore Delegate Bob Long&#39;s legislative advocacy efforts, focusing on school safety initiatives, property tax relief, and Francis Scott Key Bridge recovery.",
  "final_url": "https://blong4md.com/my-work",
- "paid_for_by": null,
+ "fingerprint": "6b82ea190ab8584379fe61c94ddbb2858a760cd5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Work",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2026"
+ ]
 }

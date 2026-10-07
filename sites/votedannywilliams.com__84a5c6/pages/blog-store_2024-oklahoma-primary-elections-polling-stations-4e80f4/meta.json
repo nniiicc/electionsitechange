@@ -1,9 +1,12 @@
 {
  "description": "Stay informed about the 2024 Oklahoma Primary Elections, including polling stations, registration, and key dates. Learn how to participate and where to vote.",
  "final_url": "https://www.votedannywilliams.com/blog-store/2024-oklahoma-primary-elections-polling-stations",
+ "fingerprint": "760d2dc75980ea09f8014b43e9f937aed18c8145",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Danny Williams 2026",
- "title": "2024 Oklahoma Primary Elections Polling Stations \u2014 Vote Danny Williams",
+ "title": "2024 Oklahoma Primary Elections Polling Stations — Vote Danny Williams",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

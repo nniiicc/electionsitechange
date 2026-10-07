@@ -1,4 +1,4 @@
-Committed to community and public service.
+0 Skip to Content About Priorities Get Involved Donate Open Menu Close Menu About Priorities Get Involved Donate Open Menu Close Menu About Priorities Get Involved Donate Committed to community and public service .
 Working to make our community a better place.
 Community and public service is something that Cory grew up around at an early age.
 In high school, Cory was a member of Troop 35, Boy Scouts of American Aloha Chapter, and obtained the rank of Eagle Scout.
@@ -15,3 +15,8 @@ Through his experience with state and county issues, Cory is able to understand 
 He has also worked on both the state and city budgets, understanding government financing and the cost of providing government services.
 Cory currently serves as the representative for District 35.
 At this time he has no other employment so he can focus on public service full time.
+In 2007, Cory ran in the Neighborhood Board elections for a seat on the Waipahu Neighborhood Board.
+After successfully receiving enough votes to become elected, Cory continued to serve for the next seven terms, serving as a member and also as Vice Chair and currently Chair.
+Cory continues to volunteer in the community at stream clean ups, graffiti paint outs, community policing and neighborhood security watches, and pedestrian safety events.
+Paid for by Friends of Cory Chun | P.O.
+Box 2182, Pearl City, HI 96782

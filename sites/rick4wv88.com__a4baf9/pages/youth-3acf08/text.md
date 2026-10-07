@@ -1,18 +1,6 @@
-top of page
-How many times have you heard “Our youth are our future?” I believe this is an absolutely true statement, which is partly why I have been a Scouting volunteer working with youth almost my entire adult life (even before I had children, and long after my children had grown up and left home).
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos How many times have you heard “Our youth are our future?” I believe this is an absolutely true statement, which is partly why I have been a Scouting volunteer working with youth almost my entire adult life (even before I had children, and long after my children had grown up and left home).
 I'm sure this was a factor in my selection for Scouting's highest national award, the Silver Buffalo, the Silver Buffalo in 2024.
 There are many factors that affect youth development–much more than providing just good schooling and a good home life–which should not be taken for granted.
 In addition to being our future, our youth are our “right now.” As your Delegate, you can rest assured that our youth will always be one of my highest priorities.
-Youth Is Our Future
-Youth
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | Limiting teen access to inappropriate material. | Pending | House EPW | Committee | 03/19/25 |
-2025 Bills that I have lead or co-sponsored
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | Patriotic Access to Students in Schools Act | Signed | | | Effective Ninety Days from Passage - (June 6, 2024) |
-| | Relating to juvenile competency | Signed | | | Effective Ninety Days from Passage - (June 6, 2024) |
-| | Relating to peer support teams, peer support services, and privileged testimonial communications | Pending | House Judiciary | Committee | 01/31/24 |
-2024 Bills that I have lead or co-sponsored
-bottom of page
+Youth Is Our Future Youth Bill Title Status Committee Step Last Action HB 2609 Limiting teen access to inappropriate material.
+Pending House EPW Committee 03/19/25 2025 Bills that I have lead or co-sponsored Bill Title Status Committee Step Last Action HB4863 Patriotic Access to Students in Schools Act Signed Effective Ninety Days from Passage - (June 6, 2024) HB5520 Relating to juvenile competency Signed Effective Ninety Days from Passage - (June 6, 2024) HB5377 Relating to peer support teams, peer support services, and privileged testimonial communications Pending House Judiciary Committee 01/31/24 2024 Bills that I have lead or co-sponsored · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

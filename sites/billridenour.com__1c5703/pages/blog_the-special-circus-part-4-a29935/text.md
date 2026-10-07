@@ -1,5 +1,4 @@
-The Special Circus - Part 4
-Besides the Corrections crisis, the other primary reason for the Special Circus, was reputedly to deal with our emergency services crisis.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate The Special Circus - Part 4 Sep 17 Written By Amanda Ridenour Besides the Corrections crisis, the other primary reason for the Special Circus, was reputedly to deal with our emergency services crisis.
 The legislature had three bills to consider.
 The first was SB 1021/HB 121.
 The Senate rarely will work on House bills, because the Senate leadership likes to dictate to the House what will happen.
@@ -23,5 +22,6 @@ I hope the House leadership will push through a bill in the coming regular sessi
 I’m waiting for one of my colleagues to come to me and tell me that we have to make hard decisions, like raising taxes.
 I’ve made harder decisions than these throughout my career, more than a few involving life and death.
 These aren’t ‘hard decisions,’ they are bad decisions, and the legislature must tell the proponents to stuff their increased taxes.
-Now I’ll finish up in the Special Circus – Part Five
-MONTANI SEMPER LIBERI
+Now I’ll finish up in the Special Circus – Part Five MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous The Special Circus - Part 3 Next Next The Special Circus - The Final Part Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

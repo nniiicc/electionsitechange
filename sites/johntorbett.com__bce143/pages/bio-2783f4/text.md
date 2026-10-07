@@ -1,19 +1,8 @@
-Biographical Information
-John and his Wife of 46 years reside in Stanley, NC
-One Daughter
-Presbyterian
-East Ridge High School, Class of 74
-Middle Tennessee State University, 75-77
-Professional Career:
-In the late 70’s John built single-family homes and commercial properties and received his real estate license from the State of Tennessee.
+NC HOUSE 108 Home BIO Issues LINKS CONTRIBUTE LETTERS OF SUPPORT CONTACT BIO Biographical Information John and his Wife of 46 years reside in Stanley, NC One Daughter Presbyterian East Ridge High School, Class of 74 Middle Tennessee State University, 75-77 Professional Career: In the late 70’s John built single-family homes and commercial properties and received his real estate license from the State of Tennessee.
 He began his professional career in the corrugated converting industry in 1978.
 With 25 years in the industry spanning from Tennessee, Arkansas, to North Carolina with service in all southeastern states, Latin American, and Asian countries.
 He worked as a Layout and Design Specialist, Material Management Specialist, Production Mgr., Sales Mgr., Plant Mgr., Senior Technical Consultant, CEO, and retirement.
-John is a past member of the following Nat’l and International Associations:
-- Technical Association of Pulp and Paper Institute (T.A.P.P.I.)
-- International Association of Diemakers and Diecutters (I.A.D.D.)
-- Association of Independent Corrugated Converters (A.I.C.C.)
-In 2003 John accepted a position as Vice President of Business Development for Defense Technologies Inc., a US Department of Defense Contractor specializing in Command and Control (C4ISR) Software Development for Unmanned Air, Ground, Sea and Sub Surface Systems, and Equipment Life Extension of avionic and weapon systems where he was able to blend a lifelong interest in military history and aviation with over the horizon technological advancements to aid and assist US warfighters.
+John is a past member of the following Nat’l and International Associations: Technical Association of Pulp and Paper Institute (T.A.P.P.I.) International Association of Diemakers and Diecutters (I.A.D.D.) Association of Independent Corrugated Converters (A.I.C.C.) In 2003 John accepted a position as Vice President of Business Development for Defense Technologies Inc., a US Department of Defense Contractor specializing in Command and Control (C4ISR) Software Development for Unmanned Air, Ground, Sea and Sub Surface Systems, and Equipment Life Extension of avionic and weapon systems where he was able to blend a lifelong interest in military history and aviation with over the horizon technological advancements to aid and assist US warfighters.
 John played an essential role in DTI receiving a coveted and exceptional Experimental Aircraft Certification with active operational airspace within National Air Space (NAS) from the US Federal Aviation Administration (FAA).
 In 2010 John accepted the position of Vice President of Business Development for NextWave Technologies.
 NextWave applies advanced technologies in such areas as the US Department of Defense, US Department of Agriculture, US National Oceanographic and Atmospheric Administration (NOAA), and Global Commercial markets in such areas as Unmanned System Applications, Sensor Technologies, Energy, Security, and develops and enables advanced technologies to a wide array of future growth sectors of Global importance.
@@ -23,79 +12,15 @@ John and his wife are also property investors and rehabilitators.
 A hard but relaxing hobby he acquired early in his career as a Home Builder.
 John serves as a supporting member of the Smithsonian Air and Space Museum in Washington, D.C.
 John and his wife support numerous civic and non-profit organizations that benefit fellow citizens.
-Elected Public Service:
-In December of 2001 John became a candidate for The Gaston County Board of Commissioners representing the Riverbend Township.
+Elected Public Service: In December of 2001 John became a candidate for The Gaston County Board of Commissioners representing the Riverbend Township.
 In 2002 the citizens of Gaston County elected John to become their Riverbend Township Commissioner.
 He was re-elected in November 2006 and completed his eight years term of service honorably in December 2010.
 John was unchallenged for the North Carolina House of Representatives 2010 Primary and General Election cycles and currently serves as Representative of The Peoples’ House District 108 in the North Carolina General Assembly which encompasses most of North Eastern Gaston County.
 John’s committee work, as listed below, spans a myriad of complex issues where he applies his strengths and focuses for the people of the 108th district and citizens throughout North Carolina.
-Since 2011 John Has served or is serving on the following committees
-- Chairman – House Select Committee on School Safety
-- Chairman – Education
-- Chairmen – Appropriations Committee on Education
-- Chairman – Appropriations Committee on Transportation
-- Chairman – Transportation
-- Chairman – Joint Legislative Transportation Oversight Committee
-- Chairman – House Select Committee on Strategic Transportation Planning and Longterm Funding Solutions
-- Chairman – Committee on Unmanned Aircraft Systems
-- Chairman – Committee on Land Development
-- Chairman – Commerce and Job Development Sub Committee on Military and Agriculture
-- Chairman – House Study Committee on Life Cycle Cost Analysis – NCDOT policies and procedures
-- Chairman – House Select Committee on Certificate of Need Process and Related Hospital Issues
-- Chairman – Appropriations Subcommittee on General Government
-- Chairman – Committee on State and Local Government
-- Vice Chairman – Appropriations
-- Vice Chairman – Rules
-- Vice Chairman – Commerce and Job Development
-- Vice-Chairman – Homeland Security, Military, and Veterans Affairs Committee
-- Member – Joint Legislative Commission on Governmental Operations
-- Member – Appropriations Committee on Information Technologies
-- Member – House Select Committee on Judicial Redistricting
-- Member – House Select Committee on Redistricting
-- Member – Judiciary IV
-- Member – Elections
-- Member – Homeland Security, Military, and Veterans Affairs
-- Member – Joint Legislative Committee on Local Government
-- Member – House Select Committee on Military Affairs
-- Member – Commerce and Job Development Subcommittee on Science and Technology
-- Advisor – Joint Legislative Oversight on Health and Human Services
-Political Service:
-- Chairman – North Carolina Motorsports Caucus
-- Chairman – Former County Commissioner Caucus
-- North Carolina House Republican Caucus Member
-- 2 Term Gaston County Commissioner 2002 – 2010
-- Past President – North Carolina Association of Republican County Commissioners
-- North Carolina Association of County Commissioners Member
-- National Association of County Officers Member
-- 2 Term Chairman – 9th U.S.
-Congressional District
-- 2 Term Chairman – Gaston County Republican Party
-- Republican National Committee Member
-- NC Republican Party Central Committee Member
-- NC Republican Party Executive Committee Member
-- Gaston County 2002 Republican of the Year
-- Chairman – 2001 NC Republican Party Resolutions Committee
-- 9th U.S.
-Congressional District Committee Member
-- 10th U.S.
-Congressional District Committee Member
-- Gaston County Republican Party Member
-- Gaston County Republican Men’s Club Member
-- Gaston County Republican Women’s Club Associate Member
-- Gaston County Young Republican’s Associate Member
-- Gaston County College Republican’s Associate Member
-- Gaston County Teenage Republican’s Associate Member
-- County Coordinator – Dole for Senate
-- Local Coordinator – Burr for Senate
-- Area Advisor to Rep.
-Patrick McHenry
-Civic Service:
-- Rotarian
-- Past President – Stanley Athletic Association
-- Stanley Athletic Advisory Board Appointed Member
-- Past President – Kiser Elementary School PTO
-- Past Two Term President – Stanley Middle School PTO
-- Coached t-ball, softball, and basketball for 14 years for the Stanley Dept. of Parks and Recreation and is still involved in the town’s recreation programs as time allows.
-- Volunteered as “The Voice of the East Gaston High School Warriors” football and basketball programs
-- Volunteered as “The Voice of the Stanley Optimists Blue Devils” Pop Warner football program.
-- Various additional Boards and Committees
+Since 2011 John Has served or is serving on the following committees Chairman – House Select Committee on School Safety Chairman – Education Chairmen – Appropriations Committee on Education Chairman – Appropriations Committee on Transportation Chairman – Transportation Chairman – Joint Legislative Transportation Oversight Committee Chairman – House Select Committee on Strategic Transportation Planning and Longterm Funding Solutions Chairman – Committee on Unmanned Aircraft Systems Chairman – Committee on Land Development Chairman – Commerce and Job Development Sub Committee on Military and Agriculture Chairman – House Study Committee on Life Cycle Cost Analysis – NCDOT policies and procedures Chairman – House Select Committee on Certificate of Need Process and Related Hospital Issues Chairman – Appropriations Subcommittee on General Government Chairman – Committee on State and Local Government Vice Chairman – Appropriations Vice Chairman – Rules Vice Chairman – Commerce and Job Development Vice-Chairman – Homeland Security, Military, and Veterans Affairs Committee Member – Joint Legislative Commission on Governmental Operations Member – Appropriations Committee on Information Technologies Member – House Select Committee on Judicial Redistricting Member – House Select Committee on Redistricting Member – Judiciary IV Member – Elections Member – Homeland Security, Military, and Veterans Affairs Member – Joint Legislative Committee on Local Government Member – House Select Committee on Military Affairs Member – Commerce and Job Development Subcommittee on Science and Technology Advisor – Joint Legislative Oversight on Health and Human Services Political Service: Chairman – North Carolina Motorsports Caucus Chairman – Former County Commissioner Caucus North Carolina House Republican Caucus Member 2 Term Gaston County Commissioner 2002 – 2010 Past President – North Carolina Association of Republican County Commissioners North Carolina Association of County Commissioners Member National Association of County Officers Member 2 Term Chairman – 9th U.S.
+Congressional District 2 Term Chairman – Gaston County Republican Party Republican National Committee Member NC Republican Party Central Committee Member NC Republican Party Executive Committee Member Gaston County 2002 Republican of the Year Chairman – 2001 NC Republican Party Resolutions Committee 9th U.S.
+Congressional District Committee Member 10th U.S.
+Congressional District Committee Member Gaston County Republican Party Member Gaston County Republican Men’s Club Member Gaston County Republican Women’s Club Associate Member Gaston County Young Republican’s Associate Member Gaston County College Republican’s Associate Member Gaston County Teenage Republican’s Associate Member County Coordinator – Dole for Senate Local Coordinator – Burr for Senate Area Advisor to Rep.
+Patrick McHenry Civic Service: Rotarian Past President – Stanley Athletic Association Stanley Athletic Advisory Board Appointed Member Past President – Kiser Elementary School PTO Past Two Term President – Stanley Middle School PTO Coached t-ball, softball, and basketball for 14 years for the Stanley Dept. of Parks and Recreation and is still involved in the town’s recreation programs as time allows.
+Volunteered as “The Voice of the East Gaston High School Warriors” football and basketball programs Volunteered as “The Voice of the Stanley Optimists Blue Devils” Pop Warner football program.
+Various additional Boards and Committees NC HOUSE 108 © Copyright # - John Torbett This site was paid for by the "Friends to Elect John Torbett" campaign committee.

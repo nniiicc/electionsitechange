@@ -1,3 +1,3 @@
-Get in Touch!
+0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Get in Touch!
 This campaign is about community and solidarity.
-I want to learn about your vision for our district and our state, and how we can make it better — together. david@david-gottfried.com (612) 314-3484
+I want to learn about your vision for our district and our state, and how we can make it better — together. david@david-gottfried.com (612) 314-3484‬ Prepared and paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | ‪(612) 314-3484‬

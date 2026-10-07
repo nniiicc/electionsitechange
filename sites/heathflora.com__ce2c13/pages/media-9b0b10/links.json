@@ -1,11 +1,46 @@
 [
-"http://hillmediagroup.com/",
-"https://ad09.asmrc.org/",
-"https://heathflora.com/",
-"https://heathflora.com/cdn-cgi/l/email-protection",
-"https://heathflora.com/contact",
-"https://heathflora.com/media",
-"https://heathflora.com/wp-content/uploads/2026/04/Freitas-for-Flora-Ad.mp3",
-"https://heathflora.com/wp-content/uploads/2026/04/HEATH-FLORA-2020-KERYN-W-MUSIC.mp3",
-"https://heathflora.com/wp-content/uploads/2026/04/HEATH-FLORA-STACY-W-MUSIC.mp3"
+{
+"text": "Contact",
+"href": "https://ad09.asmrc.org/"
+},
+{
+"text": "Contact",
+"href": "https://heathflora.com/contact/"
+},
+{
+"text": "Download Audio",
+"href": "https://heathflora.com/wp-content/uploads/2026/04/Freitas-for-Flora-Ad.mp3"
+},
+{
+"text": "Download Audio",
+"href": "https://heathflora.com/wp-content/uploads/2026/04/HEATH-FLORA-2020-KERYN-W-MUSIC.mp3"
+},
+{
+"text": "Download Audio",
+"href": "https://heathflora.com/wp-content/uploads/2026/04/HEATH-FLORA-STACY-W-MUSIC.mp3"
+},
+{
+"text": "Hill Media Group",
+"href": "http://hillmediagroup.com"
+},
+{
+"text": "Home",
+"href": "https://heathflora.com"
+},
+{
+"text": "Home",
+"href": "https://heathflora.com/"
+},
+{
+"text": "Media",
+"href": "https://heathflora.com/media/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:asmheathflora@gmail.com"
+},
+{
+"text": "[image: Heath Flora for State Assembly 2024]",
+"href": "https://heathflora.com/"
+}
 ]

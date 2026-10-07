@@ -1,9 +1,12 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-update-67",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "36a104612fe6ac8d91a8d102a92a1d729ef90061",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Weekly update #6/7",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

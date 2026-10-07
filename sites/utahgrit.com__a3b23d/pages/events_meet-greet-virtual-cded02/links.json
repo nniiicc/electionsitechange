@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+VIRTUAL+&dates=20260805T233000Z%2F20260806T003000Z",
-"https://facebook.com/RodMoser.UtahGrit",
-"https://instagram.com/utah.grit",
-"https://saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf",
-"https://secure.actblue.com/donate/utahgrit",
-"https://tiktok.com/@utahgrit",
-"https://utahgrit.com/",
-"https://utahgrit.com/cart",
-"https://utahgrit.com/contact",
-"https://utahgrit.com/endorsements",
-"https://utahgrit.com/events",
-"https://utahgrit.com/events/aug7",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1",
-"https://utahgrit.com/events/meet-greet-virtual?format=ical",
-"https://utahgrit.com/grit-perspective",
-"https://utahgrit.com/issues-that-matter",
-"https://utahgrit.com/volunteer-form",
-"https://youtube.com/@UtahGrit"
+{
+"text": "0",
+"href": "https://www.utahgrit.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.utahgrit.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/utahgrit"
+},
+{
+"text": "Endorsements",
+"href": "https://www.utahgrit.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RodMoser.UtahGrit"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+VIRTUAL+&dates=20260805T233000Z%2F20260806T003000Z"
+},
+{
+"text": "Grit Perspective",
+"href": "https://www.utahgrit.com/grit-perspective"
+},
+{
+"text": "House District 45 MAP",
+"href": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/meet-greet-virtual?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.utahgrit.com/issues-that-matter"
+},
+{
+"text": "Next Next August 7 Ice Cream Social Meet & Greet",
+"href": "https://www.utahgrit.com/events/aug7"
+},
+{
+"text": "Previous Previous August 1 Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-aug1"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@utahgrit"
+},
+{
+"text": "Volunteer",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@UtahGrit"
+},
+{
+"text": "[image: Rod Moser For Utah House District 45]",
+"href": "https://www.utahgrit.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RodMoser.UtahGrit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@UtahGrit"
+}
 ]

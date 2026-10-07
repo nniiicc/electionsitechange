@@ -1,42 +1,206 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z",
-"http://instagram.com/lakeshawomack",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://ncsbe.gov/news/events/election-day-2026-primary-election",
-"https://ncvoter.org/early-voting",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://vt.ncsbe.gov/RegLkup",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/early-voting-in-north-carolina",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina?format=ical",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events/primary-voting-jexbb",
-"https://womack4nc14.com/events/primary-voting-jexbb?format=ical",
-"https://womack4nc14.com/events/primary-voting?format=ical",
-"https://womack4nc14.com/events?category=Burke+County",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/events?category=Mecklenburg+County",
-"https://womack4nc14.com/events?category=NC-14+District",
-"https://womack4nc14.com/events?category=Polk+County",
-"https://womack4nc14.com/events?category=Rutherford+County",
-"https://womack4nc14.com/events?category=Voting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Burke County",
+"href": "https://www.womack4nc14.com/events?category=Burke+County"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "Election Day",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Find Your Early Voting Location in North Carolina",
+"href": "https://www.ncvoter.org/early-voting/"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Mecklenburg County",
+"href": "https://www.womack4nc14.com/events?category=Mecklenburg+County"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "NC-14 District",
+"href": "https://www.womack4nc14.com/events?category=NC-14+District"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Polk County",
+"href": "https://www.womack4nc14.com/events?category=Polk+County"
+},
+{
+"text": "Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Rutherford County",
+"href": "https://www.womack4nc14.com/events?category=Rutherford+County"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Voter Search",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Voting",
+"href": "https://www.womack4nc14.com/events?category=Voting"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: Primary Voting]",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+},
+{
+"text": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election",
+"href": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election"
+}
 ]

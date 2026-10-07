@@ -1,5 +1,4 @@
-About Bob Chew
-Bob Chew learned the value of hard work and resilience at a young age.
+Skip to content HOME Front Page – ES ABOUT BOB About Bob – ES WHY WHY VOTE FOR BOB WHY VOTE INDEPENDENT WHY THE FORWARD PARTY MAKE THE SENATE WORK AGAIN ISSUES EVENTS NEWS VOLUNTEER HOME Front Page – ES ABOUT BOB About Bob – ES WHY WHY VOTE FOR BOB WHY VOTE INDEPENDENT WHY THE FORWARD PARTY MAKE THE SENATE WORK AGAIN ISSUES EVENTS NEWS VOLUNTEER PAID FOR BY BOB CHEW FOR SENATE DONATE About Bob Chew Bob Chew learned the value of hard work and resilience at a young age.
 He was just a high school senior, two months shy of graduation, when his father died.
 Devastated but determined, Bob eventually put himself through college, working 25–30 hours a week bussing tables and waiting on customers.
 Bob joined the Navy after his junior year and received his commission as an Ensign after graduating from Case Western Reserve University with a degree in chemical engineering.
@@ -20,3 +19,6 @@ Over the years Bob has supported moderate Republicans and Democrats in the hopes
 It has become all too clear that the two-party system is broken, and it’s time for an independent revolution.
 When he ran his company, Bob was passionate about creating good jobs for his employees and security for their families.
 Now he is passionate about creating opportunities for Coloradans, restoring the American Dream for all citizens, taming the dysfunction in Washington, and fixing the long-term fiscal time bombs that threaten our prosperity.
+For inquiries, email: [email protected] Military images and information do not imply endorsement by the U.S.
+Department of Defense or any service branch.
+PAID FOR BY BOB CHEW FOR SENATE

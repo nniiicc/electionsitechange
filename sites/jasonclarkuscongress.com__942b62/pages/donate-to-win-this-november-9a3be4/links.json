@@ -1,7 +1,26 @@
 [
-"https://jasonclarkuscongress.com/",
-"https://jasonclarkuscongress.com/donate-to-win-this-november",
-"https://paypal.com/us/home",
-"https://secure.anedot.com/jason-clark-us-congress-co-cd6/30f57397-91df-49d0-a850-ceaf73fef531",
-"https://secure.winred.com/jason-clark-us-congress/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "Donate Now",
+"href": "https://jasonclarkuscongress.com/donate-to-win-this-november/"
+},
+{
+"text": "Donate to Win this November",
+"href": "https://jasonclarkuscongress.com/donate-to-win-this-november/"
+},
+{
+"text": "Home Page",
+"href": "https://jasonclarkuscongress.com/"
+},
+{
+"text": "[image: Anedot link]",
+"href": "https://secure.anedot.com/jason-clark-us-congress-co-cd6/30f57397-91df-49d0-a850-ceaf73fef531"
+},
+{
+"text": "[image: WinRed link]",
+"href": "https://secure.winred.com/jason-clark-us-congress/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "[image]",
+"href": "https://www.paypal.com/us/home"
+}
 ]

@@ -1,9 +1,30 @@
 [
-"https://efundraisingconnections.com/c/DavidCouchforAssembly",
-"https://votecouch.com/",
-"https://votecouch.com/contact",
-"https://votecouch.com/copy-of-meet-david",
-"https://votecouch.com/endorsements",
-"https://votecouch.com/meet-david",
-"https://votecouch.com/privacy"
+{
+"text": "ABOUT",
+"href": "https://www.votecouch.com/meet-david"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/DavidCouchforAssembly"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votecouch.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votecouch.com/contact"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.votecouch.com/copy-of-meet-david"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votecouch.com/privacy"
+},
+{
+"text": "[image: Couch Logo_no_office.png]",
+"href": "https://www.votecouch.com"
+}
 ]

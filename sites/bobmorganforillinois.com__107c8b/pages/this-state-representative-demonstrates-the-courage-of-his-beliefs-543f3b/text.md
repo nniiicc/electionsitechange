@@ -1,4 +1,5 @@
-This July Fourth, I will stand beneath the fireworks with my family and neighbors like so many Americans.
+Home About Issues News Contact Volunteer Donate & Support Home About News Donate Contact Volunteer Right Bottom Rep.
+Bob Morgan: What patriotism means to me three years after the Highland Park mass shooting This July Fourth, I will stand beneath the fireworks with my family and neighbors like so many Americans.
 But I won’t be thinking only of parades, sparklers or patriotic songs.
 I’ll be thinking of sirens.
 Three years ago, Highland Park — a proud, peaceful community I represent — was shattered by gunfire.
@@ -13,8 +14,7 @@ They came through voicemails, anonymous emails, even in handwritten notes to my 
 Some mention my family members.
 Each one is meant to terrorize — to silence not just me, but anyone who dares take action to end gun violence.
 In this, I am not alone.
-Top Videos Americans say civility is declining, according to a new surveyNextStay
-Just a few weeks ago, Minnesota state Rep.
+Top Videos Americans say civility is declining, according to a new survey NextStay Just a few weeks ago, Minnesota state Rep.
 Melissa Hortman was assassinated for being a public servant.
 Her husband, Mark, was also fatally shot.
 Minnesota state Sen.
@@ -44,3 +44,8 @@ This Fourth of July, I’ll be celebrating freedom: the freedom to speak, vote, 
 Melissa Hortman believed in that kind of freedom.
 So did the victims of Highland Park.
 And I still do, too.
+Address P.O.
+Box 1074 Deerfield, IL 60015 Contact info@bobmorganforillinois.com PH: (847) 282-0577 Follow Facebook LinkedIn Twitter Paid for by Friends of Bob Morgan.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Copyright.
+All Rights Reserved ©#

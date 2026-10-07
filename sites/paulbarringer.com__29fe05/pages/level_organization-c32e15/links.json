@@ -1,25 +1,114 @@
 [
-"https://bsky.app/profile/paulbarringer.com",
-"https://facebook.com/paulbarringernc",
-"https://instagram.com/paulbarringernc",
-"https://paulbarringer.com/",
-"https://paulbarringer.com/about",
-"https://paulbarringer.com/author/michaelaxpslane",
-"https://paulbarringer.com/endorsement/afl-cio",
-"https://paulbarringer.com/endorsement/the-committee-to-protect-health-care",
-"https://paulbarringer.com/endorsement/the-communications-workers-of-america",
-"https://paulbarringer.com/endorsement/the-wake-county-voter-education-coalition",
-"https://paulbarringer.com/endorsements",
-"https://paulbarringer.com/events",
-"https://paulbarringer.com/level/organization",
-"https://paulbarringer.com/media",
-"https://paulbarringer.com/priorities",
-"https://paulbarringer.com/privacy",
-"https://paulbarringer.com/volunteer",
-"https://secure.actblue.com/donate/paulbarringer",
-"https://threads.com/@paulbarringernc",
-"https://tiktok.com/@paulbarringernc",
-"https://x.com/PaulBarringerNC",
-"https://xpslane.com/",
-"https://youtube.com/@PaulBarringerforCongress"
+{
+"text": "AFL-CIO",
+"href": "https://paulbarringer.com/endorsement/afl-cio"
+},
+{
+"text": "About",
+"href": "https://paulbarringer.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/paulbarringer"
+},
+{
+"text": "Endorsements",
+"href": "https://paulbarringer.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://paulbarringer.com/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://paulbarringer.com/"
+},
+{
+"text": "Media",
+"href": "https://paulbarringer.com/media"
+},
+{
+"text": "Organization",
+"href": "https://paulbarringer.com/level/organization"
+},
+{
+"text": "Priorities",
+"href": "https://paulbarringer.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulbarringer.com/privacy"
+},
+{
+"text": "The Committee to Protect Health Care",
+"href": "https://paulbarringer.com/endorsement/the-committee-to-protect-health-care"
+},
+{
+"text": "The Communications Workers of America",
+"href": "https://paulbarringer.com/endorsement/the-communications-workers-of-america"
+},
+{
+"text": "The Wake County Voter Education Coalition",
+"href": "https://paulbarringer.com/endorsement/the-wake-county-voter-education-coalition"
+},
+{
+"text": "Volunteer",
+"href": "https://paulbarringer.com/volunteer"
+},
+{
+"text": "[image: Paul Barringer Democrat for Congress]",
+"href": "https://paulbarringer.com/"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/afl-cio"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/the-committee-to-protect-health-care"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/the-communications-workers-of-america"
+},
+{
+"text": "[image]",
+"href": "https://paulbarringer.com/endorsement/the-wake-county-voter-education-coalition"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/paulbarringer.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/paulbarringernc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulbarringernc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@paulbarringernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@paulbarringernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PaulBarringerforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PaulBarringerNC"
+},
+{
+"text": "michaelaxpslane",
+"href": "https://paulbarringer.com/author/michaelaxpslane"
+}
 ]

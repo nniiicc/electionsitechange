@@ -1,5 +1,1 @@
-Protecting Voting Rights & Restoring Public Trust in Elections
-Empowering Small Businesses & Entrepreneurs
-Modernizing Professional Licensing & Cutting Bureaucracy
-Safeguarding Seniors & Vulnerable Georgians from Fraud
-Transparency, Technology & Trust
+top of page Home Meet Judge Penny Priorities Endorsements Volunteer DONATE Democratic Nominee for Secretary of State DONATE Protecting Voting Rights & Restoring Public Trust in Elections Empowering Small Businesses & Entrepreneurs Modernizing Professional Licensing & Cutting Bureaucracy Safeguarding Seniors & Vulnerable Georgians from Fraud Transparency, Technology & Trust Learn More Paid for by Committee to Elect Penny Brown Reynolds Privacy Policy for Judge Penny Brown Reynolds Campaign.pdf bottom of page

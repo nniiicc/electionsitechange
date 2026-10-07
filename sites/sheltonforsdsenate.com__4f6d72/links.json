@@ -1,17 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sheltonforsdsenate",
-"https://instagram.com/sheltonforsenate",
-"https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://sdsos.gov/elections-voting/voting/where-do-i-vote.aspx",
-"https://secure.actblue.com/donate/sheltonforsenate32",
-"https://sheltonforsdsenate.com/",
-"https://sheltonforsdsenate.com/about",
-"https://sheltonforsdsenate.com/contact",
-"https://sheltonforsdsenate.com/donate",
-"https://sheltonforsdsenate.com/events",
-"https://sheltonforsdsenate.com/issues",
-"https://sheltonforsdsenate.com/volunteer",
-"https://vip.sdsos.gov/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/sheltonforsenate32"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sheltonforsenate32"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/sheltonforsenate32"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/sheltonforsenate32"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/sheltonforsenate32"
+},
+{
+"text": "About",
+"href": "https://www.sheltonforsdsenate.com/about"
+},
+{
+"text": "Check on your voter registration!",
+"href": "https://vip.sdsos.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.sheltonforsdsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sheltonforsdsenate.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.sheltonforsdsenate.com/events"
+},
+{
+"text": "Find out where you're voting!",
+"href": "https://sdsos.gov/elections-voting/voting/where-do-i-vote.aspx"
+},
+{
+"text": "Issues",
+"href": "https://www.sheltonforsdsenate.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.sheltonforsdsenate.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/sheltonforsenate32"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote!",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "Request a mail-in ballot!",
+"href": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sheltonforsdsenate.com/volunteer"
+},
+{
+"text": "[image: Jeff Shelton for District 32 Senate]",
+"href": "https://www.sheltonforsdsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sheltonforsdsenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sheltonforsenate"
+},
+{
+"text": "jeffshelton@sheltonforsdsenate.com",
+"href": "mailto:jeffshelton@sheltonforsdsenate.com"
+}
 ]

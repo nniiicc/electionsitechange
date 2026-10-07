@@ -1,7 +1,2 @@
-- Commerce, Labor, and Economic Development
-- Financial Institutions and Pensions
-- Social Services Budget
-- 2025 Special Committee on Commerce
-- 2026 Special Committee on Application and Eligibility for Public Assistance Programs
-- Joint Committee on Fiduciary Financial Institutions Oversight
-- Joint Committee on Pensions, Investments, and Benefits
+Toggle navigation Latest News Meet Mike Volunteer Endorsements Contact Contribute Latest News Latest News Volunteer Email Updates Contribute “As a current legislator and former Secretary of Transportation, I have been involved in the entire process firsthand.
+I will continue to take central Kansas values to the statehouse while representing business, education, and agriculture.” – Mike King Meet Mike King Committee Assignments Standing Committees Commerce, Labor, and Economic Development Financial Institutions and Pensions Social Services Budget Special & Joint Committees 2025 Special Committee on Commerce 2026 Special Committee on Application and Eligibility for Public Assistance Programs Joint Committee on Fiduciary Financial Institutions Oversight Joint Committee on Pensions, Investments, and Benefits Meet Mike Newsroom E-Mail Updates Volunteer Contact Contribute PAID FOR BY MIKE KING FOR STATE REPRESENTATIVE LUALAN WILLEMS, TREASURER

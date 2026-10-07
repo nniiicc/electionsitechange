@@ -1,12 +1,66 @@
 [
-"http://instagram.com/pamlewis4ky",
-"https://facebook.com/profile.php?id=61577003645254",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fpamlewisfor96&sa=D&sntz=1&usg=AOvVaw1cV6vAUUEZxJhFfPVge1nE",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fp%2FPam-Lewis-for-State-Representative-61577003645254%2F&sa=D&sntz=1&usg=AOvVaw12dxsGm1YhvMC1ps70sRQX",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fpamlewis4ky%2F&sa=D&sntz=1&usg=AOvVaw3IL8quFiMYbCrveCv07v6_",
-"https://secure.actblue.com/donate/pamlewisfor96",
-"https://sites.google.com/view/pamlewis4ky/how-you-can-help",
-"https://sites.google.com/view/pamlewis4ky/my-policies",
-"https://sites.google.com/view/pamlewis4ky/welcome",
-"https://sites.google.com/view/pamlewis4ky/who-i-am"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pamlewisfor96"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fpamlewisfor96&sa=D&sntz=1&usg=AOvVaw1cV6vAUUEZxJhFfPVge1nE"
+},
+{
+"text": "EMAIL",
+"href": "mailto:pamlewisforstaterep@gmail.com"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61577003645254"
+},
+{
+"text": "HOW YOU CAN HELP",
+"href": "https://sites.google.com/view/pamlewis4ky/how-you-can-help"
+},
+{
+"text": "INSTAGRAM",
+"href": "http://instagram.com/pamlewis4ky"
+},
+{
+"text": "JOIN THE CAMPAIGN",
+"href": "https://sites.google.com/view/pamlewis4ky/how-you-can-help"
+},
+{
+"text": "MY POLICIES",
+"href": "https://sites.google.com/view/pamlewis4ky/my-policies"
+},
+{
+"text": "PAM LEWIS FOR KY",
+"href": "https://sites.google.com/view/pamlewis4ky/welcome"
+},
+{
+"text": "WELCOME",
+"href": "https://sites.google.com/view/pamlewis4ky/welcome"
+},
+{
+"text": "WHAT I STAND FOR",
+"href": "https://sites.google.com/view/pamlewis4ky/my-policies"
+},
+{
+"text": "WHO I AM",
+"href": "https://sites.google.com/view/pamlewis4ky/who-i-am"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fp%2FPam-Lewis-for-State-Representative-61577003645254%2F&sa=D&sntz=1&usg=AOvVaw12dxsGm1YhvMC1ps70sRQX"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fpamlewis4ky%2F&sa=D&sntz=1&usg=AOvVaw3IL8quFiMYbCrveCv07v6_"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/view/pamlewis4ky/welcome"
+},
+{
+"text": "[image]PAM LEWIS FOR KY",
+"href": "https://sites.google.com/view/pamlewis4ky/welcome"
+}
 ]

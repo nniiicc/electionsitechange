@@ -1,53 +1,214 @@
 [
-"http://instagram.com/marlonamprey",
-"http://mgaleg.maryland.gov/mgawebsite/Members/Details/amprey01",
-"https://afro.com/coppin-state-economic-inclusion-conference",
-"https://afro.com/del-amprey-defends-maryland-rap-artists-in-recent-bill",
-"https://afro.com/maryland-districts-40-45-black-business",
-"https://cbsnews.com/baltimore/news/gov-hogan-appoints-marlon-amprey-to-maryland-house-of-delegates",
-"https://cbsnews.com/baltimore/news/maryland-creative-expressions-rap-song-artists-courtroom",
-"https://cbsnews.com/baltimore/video/maryland-lawmakers-consider-pace-act-to-protect-artists-expressions-in-court",
-"https://coppin.edu/news/WNADA-11-Milllion-Announcement",
-"https://facebook.com/DelegateMarlonAmprey",
-"https://foxbaltimore.com/news/local/sun-maryland-state-delegates-call-for-immediate-pause-on-bge-utility-rate-hikes",
-"https://linkedin.com/in/marlonamprey",
-"https://marlonamprey.com/",
-"https://marlonamprey.com/2026eosl",
-"https://marlonamprey.com/about",
-"https://marlonamprey.com/cart",
-"https://marlonamprey.com/community-funding",
-"https://marlonamprey.com/contact-us",
-"https://marlonamprey.com/energy-and-utility-assistance",
-"https://marlonamprey.com/events",
-"https://marlonamprey.com/food-assistance",
-"https://marlonamprey.com/in-the-news",
-"https://marlonamprey.com/issues",
-"https://marlonamprey.com/legal-assistance",
-"https://marlonamprey.com/legislative-accomplishments",
-"https://marlonamprey.com/meet-marlon",
-"https://marlonamprey.com/meet-the-team",
-"https://marlonamprey.com/news",
-"https://marlonamprey.com/newsletter",
-"https://marlonamprey.com/policy-goals",
-"https://marlonamprey.com/resources",
-"https://marlonamprey.com/scholarships",
-"https://marlonamprey.com/senior-and-older-adult-assistance",
-"https://marlonamprey.com/sign-request",
-"https://marlonamprey.com/social-media-policy",
-"https://marlonamprey.com/videos",
-"https://marlonamprey.com/volunteer",
-"https://marlonamprey.com/volunteer-sign-up",
-"https://marlonamprey.com/vote",
-"https://marylandmatters.org/2024/03/11/quality-and-quantity-of-correctional-services-under-scrutiny-in-annapolis",
-"https://marylandmatters.org/2024/04/15/agreement-announced-to-bring-higher-education-into-marylands-prison-system",
-"https://nbcwashington.com/news/local/should-rap-lyrics-be-used-as-evidence-in-criminal-cases-proposed-maryland-law-would-raise-the-bar/3562699",
-"https://npr.org/2024/07/15/nx-s1-5026589/college-prison-women-pell-grant",
-"https://recordingacademy.com/advocacy/news/advocacy-annapolis-maryland-advocacy-day-2024-recap",
-"https://secure.actblue.com/donate/amprey",
-"https://thebanner.com/opinion/column/pace-act-maryland-mac-phipps-kevin-liles-wes-moore-7K4OQPC4JNBK7NHP4JDSKJXRQM",
-"https://twitter.com/marlonamprey",
-"https://wbaltv.com/article/creative-expression-rap-lyrics-trial-evidence-pace-act-maryland/60114763",
-"https://wmar2news.com/local/state-delegate-proposes-new-bill-to-sell-wine-and-beer-in-grocery-stores",
-"https://wtop.com/maryland/2024/12/supporters-optimistic-this-is-the-year-for-beer-and-wine-in-maryland-grocery-stores",
-"https://wypr.org/wypr-news/2025-12-08/baltimore-delegate-renews-effort-to-bring-beer-and-wine-sales-to-grocery-stores"
+{
+"text": "0",
+"href": "https://www.marlonamprey.com/cart"
+},
+{
+"text": "2026 End of Session Letter",
+"href": "https://www.marlonamprey.com/2026eosl"
+},
+{
+"text": "Back",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://afro.com/coppin-state-economic-inclusion-conference/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://afro.com/del-amprey-defends-maryland-rap-artists-in-recent-bill/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://afro.com/maryland-districts-40-45-black-business/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://foxbaltimore.com/news/local/sun-maryland-state-delegates-call-for-immediate-pause-on-bge-utility-rate-hikes"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://marylandmatters.org/2024/03/11/quality-and-quantity-of-correctional-services-under-scrutiny-in-annapolis/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://marylandmatters.org/2024/04/15/agreement-announced-to-bring-higher-education-into-marylands-prison-system/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://wtop.com/maryland/2024/12/supporters-optimistic-this-is-the-year-for-beer-and-wine-in-maryland-grocery-stores/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.cbsnews.com/baltimore/news/gov-hogan-appoints-marlon-amprey-to-maryland-house-of-delegates/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.cbsnews.com/baltimore/news/maryland-creative-expressions-rap-song-artists-courtroom/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.cbsnews.com/baltimore/video/maryland-lawmakers-consider-pace-act-to-protect-artists-expressions-in-court/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.coppin.edu/news/WNADA-11-Milllion-Announcement"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.nbcwashington.com/news/local/should-rap-lyrics-be-used-as-evidence-in-criminal-cases-proposed-maryland-law-would-raise-the-bar/3562699/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.npr.org/2024/07/15/nx-s1-5026589/college-prison-women-pell-grant"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.recordingacademy.com/advocacy/news/advocacy-annapolis-maryland-advocacy-day-2024-recap"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.thebanner.com/opinion/column/pace-act-maryland-mac-phipps-kevin-liles-wes-moore-7K4OQPC4JNBK7NHP4JDSKJXRQM/"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.wbaltv.com/article/creative-expression-rap-lyrics-trial-evidence-pace-act-maryland/60114763"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.wmar2news.com/local/state-delegate-proposes-new-bill-to-sell-wine-and-beer-in-grocery-stores"
+},
+{
+"text": "Click Here to Access the Full Article",
+"href": "https://www.wypr.org/wypr-news/2025-12-08/baltimore-delegate-renews-effort-to-bring-beer-and-wine-sales-to-grocery-stores"
+},
+{
+"text": "Community Funding",
+"href": "https://www.marlonamprey.com/community-funding"
+},
+{
+"text": "Contact Us",
+"href": "https://www.marlonamprey.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amprey"
+},
+{
+"text": "Energy and Utility Assistance",
+"href": "https://www.marlonamprey.com/energy-and-utility-assistance"
+},
+{
+"text": "Events",
+"href": "https://www.marlonamprey.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.marlonamprey.com/about"
+},
+{
+"text": "Folder: Blog",
+"href": "https://www.marlonamprey.com/news"
+},
+{
+"text": "Folder: Legislative Matters",
+"href": "https://www.marlonamprey.com/issues"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.marlonamprey.com/resources"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.marlonamprey.com/volunteer"
+},
+{
+"text": "Food Assistance",
+"href": "https://www.marlonamprey.com/food-assistance"
+},
+{
+"text": "Home",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.marlonamprey.com/in-the-news"
+},
+{
+"text": "Legal Assistance",
+"href": "https://www.marlonamprey.com/legal-assistance"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.marlonamprey.com/legislative-accomplishments"
+},
+{
+"text": "Meet Marlon",
+"href": "https://www.marlonamprey.com/meet-marlon"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.marlonamprey.com/meet-the-team"
+},
+{
+"text": "Newsletter",
+"href": "https://www.marlonamprey.com/newsletter"
+},
+{
+"text": "Policy Goals",
+"href": "https://www.marlonamprey.com/policy-goals"
+},
+{
+"text": "Scholarships",
+"href": "https://www.marlonamprey.com/scholarships"
+},
+{
+"text": "Senior and Older Adult Assistance",
+"href": "https://www.marlonamprey.com/senior-and-older-adult-assistance"
+},
+{
+"text": "Sign Request",
+"href": "https://www.marlonamprey.com/sign-request"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.marlonamprey.com/social-media-policy"
+},
+{
+"text": "Videos",
+"href": "https://www.marlonamprey.com/videos"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "https://www.marlonamprey.com/volunteer-sign-up"
+},
+{
+"text": "Voting Information",
+"href": "https://www.marlonamprey.com/vote"
+},
+{
+"text": "[image: marlonamprey.com]",
+"href": "https://www.marlonamprey.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/marlonamprey"
+},
+{
+"text": "[no text]",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Members/Details/amprey01"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/marlonamprey"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DelegateMarlonAmprey/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/marlonamprey"
+}
 ]

@@ -1,13 +1,50 @@
 [
-"https://cachedemocrats.org/r/8b5d0fe9?m=67c95eca-e375-45a1-b16c-b164550b343b",
-"https://facebook.com/profile.php?id=61585776405209",
-"https://forms.gle/3E3qpAKgoAn7CVyq5",
-"https://forms.gle/5cqkZDoMwUFYG4dTA",
-"https://haggertyforutah.com/",
-"https://haggertyforutah.com/about",
-"https://haggertyforutah.com/get-involved",
-"https://haggertyforutah.com/notebook",
-"https://haggertyforutah.com/policy",
-"https://mailerlite.com/",
-"https://secure.actblue.com/donate/barbara-haggerty"
+{
+"text": "About",
+"href": "https://www.haggertyforutah.com/about"
+},
+{
+"text": "Barbara Haggerty",
+"href": "https://www.facebook.com/profile.php?id=61585776405209"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/barbara-haggerty"
+},
+{
+"text": "Get Involved",
+"href": "https://www.haggertyforutah.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.haggertyforutah.com/"
+},
+{
+"text": "Notebook",
+"href": "https://www.haggertyforutah.com/notebook"
+},
+{
+"text": "Policy",
+"href": "https://www.haggertyforutah.com/policy"
+},
+{
+"text": "Pre-register here",
+"href": "https://forms.gle/3E3qpAKgoAn7CVyq5"
+},
+{
+"text": "RSVP here!",
+"href": "https://cachedemocrats.org/r/8b5d0fe9?m=67c95eca-e375-45a1-b16c-b164550b343b"
+},
+{
+"text": "RSVP here!",
+"href": "https://forms.gle/5cqkZDoMwUFYG4dTA"
+},
+{
+"text": "[image: Created with MailerLite]",
+"href": "https://www.mailerlite.com"
+},
+{
+"text": "[image]",
+"href": "https://www.haggertyforutah.com/"
+}
 ]

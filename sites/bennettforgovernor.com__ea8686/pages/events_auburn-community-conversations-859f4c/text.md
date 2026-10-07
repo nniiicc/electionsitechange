@@ -1,11 +1,9 @@
-How can Maine’s Governor support the next generation?
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Auburn Community Conversations Wednesday, August 26, 2026 5:30 PM 7:00 PM Google Calendar ICS How can Maine’s Governor support the next generation?
 Join us for an Auburn Town Hall on the future of our community with independent candidate for Governor Rick Bennett!
-Panel Discussion Featuring:
-- Jason Moen, Auburn Police Chief
-- Amran Osman, Generational Noor
-- Yussuf Adow, Dhalinyaro Kings Collective
-- Ron Potvin & Tom Giberti, Store Next Door
-- Nicole Lemay: Youth-LED Justice
-When: Wednesday, August 26, 2026 | 5:30 - 7 PM
-Where: Nutty Nettie's | 34 Court St, Auburn
-What: Ask Rick questions on topics important to you, and learn about local solutions with statewide impact.
+Panel Discussion Featuring: Jason Moen, Auburn Police Chief Amran Osman, Generational Noor Yussuf Adow, Dhalinyaro Kings Collective Ron Potvin & Tom Giberti, Store Next Door Nicole Lemay: Youth-LED Justice When: Wednesday, August 26, 2026 | 5:30 - 7 PM Where: Nutty Nettie's | 34 Court St, Auburn What: Ask Rick questions on topics important to you, and learn about local solutions with statewide impact.
+RSVP Today!
+Previous Previous August 24 For a Better Maine: Skowhegan Next Next August 29 For a Better Maine - Cornish Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

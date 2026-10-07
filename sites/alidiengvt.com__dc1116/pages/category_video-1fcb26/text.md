@@ -1,18 +1,17 @@
-Video
-Ali’s Corner: The Burlington Resolution Relating to Racial Equity, Diversity, and Inclusion
-Host Ali Dieng is joined by Stephanie Seguino, UVM Economics Professor, and Mark Hughes, Executive Director of Justice For All, to discuss the Burlington Resolution Relating to Racial Equity, Diversity, and Inclusion.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: Video Ali’s Corner: The New American Voting Event and the Non-Citizens Voting Ballot Item Posted on January 20, 2020 January 6, 2021 Diversity is our gift and our future.
+What does is mean to engage New Americans in our democracy by providing what is needed for equity and access?
+Guests: Mohamed Jafar – Community Activist, Project Manager for NAVE Lal Pradhan – Nepali Multilingual Liaison for BSD Categories Ali , Ali's Corner , Video Ali’s Corner: BTV Net Zero Energy Posted on September 24, 2019 January 6, 2021 Burlington Ward 7 City Councilor Ali Dieng interviews the General Manager of Burlington Electric Department, Darren Springer.
+Categories Ali , Ali's Corner , Video Ali’s Corner: The Burlington Resolution Relating to Racial Equity, Diversity, and Inclusion Posted on July 24, 2019 January 6, 2021 Host Ali Dieng is joined by Stephanie Seguino, UVM Economics Professor, and Mark Hughes, Executive Director of Justice For All, to discuss the Burlington Resolution Relating to Racial Equity, Diversity, and Inclusion.
 Burlington prides itself on being a welcoming and inclusive community.
-As the largest and most diverse city in the State of Vermont, we Read More …
-Water Is Worth It
-Click here to see the video on Facebook Substantial amounts of work take place behind the scenes to deliver high-quality drinking water to Burlington residents.
-Our licensed water professionals, who include mathematicians, chemists, physicians, biologists, customer care professional and more, are on the front lines to treat waste water, storm water and sewage before sending Read More …
-Ali’s Corner: Vermont Senior Citizens
-Like the whole state, Burlingtonians are aging. 1 in 4 Vermonters are age 60+.
+As the largest and most diverse city in the State of Vermont, we Read More … Categories Ali , Ali's Corner , Video Water Is Worth It Posted on April 28, 2019 January 6, 2021 Click here to see the video on Facebook Substantial amounts of work take place behind the scenes to deliver high-quality drinking water to Burlington residents.
+Our licensed water professionals, who include mathematicians, chemists, physicians, biologists, customer care professional and more, are on the front lines to treat waste water, storm water and sewage before sending Read More … Categories Ali , Video Ali’s Corner: Vermont Senior Citizens Posted on April 24, 2019 January 6, 2021 Like the whole state, Burlingtonians are aging.
+1 in 4 Vermonters are age 60+.
 By 2030 it will be 1 in 3.
 We all have this in common – we are all aging.
 So, how can we make Burlington a place where WE ALL can age well?
-Host Ali Dieng is joined by Cindy Wight, Read More …
-Ali’s Corner: Young Women In Politics
-The 19th Amendment, which gave American women the right to vote, was passed by Congress on June 4, 1919, and ratified on August 18, 1920.
+Host Ali Dieng is joined by Cindy Wight, Read More … Categories Ali , Ali's Corner , Video Ali’s Corner: Young Women In Politics Posted on April 15, 2019 January 6, 2021 The 19th Amendment, which gave American women the right to vote, was passed by Congress on June 4, 1919, and ratified on August 18, 1920.
 In the 21st century, we have seen a substantial amount of women (and young women in particular) running campaigns and winning elections in the U.S. and around the globe.
-Women Read More …
+Women Read More … Categories Ali , Ali's Corner , Video DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

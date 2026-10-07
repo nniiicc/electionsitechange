@@ -1,7 +1,6 @@
-The agenda has been released for those interested in the upcoming Water Program Task Force meeting on June 23rd & 24th.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now June Water Task Force Meeting June 18, 2026 Legislative Meetings and Debates The agenda has been released for those interested in the upcoming Water Program Task Force meeting on June 23rd & 24th.
 Representative Minnix (Scott City) and Senator Titus (Wamego) are chairing this important task force during the interim.
 The June meeting will be focused primarily around the Water Planning Work Group, with additional presentations from Kansas Legislative Research and other water related agencies.
-The detailed agenda can be found here:
-Water Program Task Force Agenda June 23-24, 2026
-All legislative meetings held in the Capitol are livestreamed for real-time viewing and also archived for watching afterwards.
-The link to the YouTube Channel for each daily meeting is below:
+The detailed agenda can be found here: Water Program Task Force Agenda June 23-24, 2026 All legislative meetings held in the Capitol are livestreamed for real-time viewing and also archived for watching afterwards.
+The link to the YouTube Channel for each daily meeting is below: Water Program Task Force Video June 23, 2026 Water Program Task Force Video June 24, 2026 Tags: Water Search Search Latest Posts Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Smith Responds to Masterson on Property Taxes April 13, 2026 Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

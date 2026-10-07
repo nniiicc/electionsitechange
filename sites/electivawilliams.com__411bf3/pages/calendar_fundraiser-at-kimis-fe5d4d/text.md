@@ -1,9 +1,1 @@
-Previous
-Previous
-October 1
-Sandy Library Cottage Meeting
-Next
-Next
-October 13
-Back to All Events
-Cocktail Hour at Kimi’s House
+0 Skip to Content About Priorities Endorsements Get Involved Contact Volunteer Calendar Donate Open Menu Close Menu About Priorities Endorsements Get Involved Contact Volunteer Calendar Donate Open Menu Close Menu About Priorities Endorsements Folder: Get Involved Back Contact Volunteer Calendar Donate Back to All Events Cocktail Hour at Kimi’s House Tuesday, October 6, 2026 6:00 PM 8:00 PM Kimi's Chop and Oyster House 4699 Highland Drive Holladay, Utah, 84117 United States (map) Google Calendar ICS RSVP Here Previous Previous October 1 Sandy Library Cottage Meeting Next Next October 13 Sandy Library Cottage Meeting Paid for by Iva Williams

@@ -1,16 +1,11 @@
-Florida is achieving strides in mental health care, but major gaps need work
-Palm Beach Post (Florida)
-May 29, 2024 Wednesday
-1 Edition
-As we come to the end of Mental Health Awareness Month, it is imperative that we focus on mental health advocacy.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Florida is achieving strides in mental health care, but major gaps need work May 29, 2024 / in News / by David Silvers Palm Beach Post (Florida) May 29, 2024 Wednesday 1 Edition As we come to the end of Mental Health Awareness Month, it is imperative that we focus on mental health advocacy.
 For far too long, there has been a stigma associated with seeking treatment for mental health disorders whether it be cerebral issues, such as depression, or physical issues, such as anorexia, cutting and bulimia.
 When not properly treated, individuals can fall into a tailspin that can escalate well beyond what preventative treatment can address.
 Preventative treatment can help address the root cause of mental health issues well before reactive care does.
 Once an individual’s mental well-being has spiraled to where the primary provider is local law enforcement, the likelihood of getting stuck in a cycle of receiving public mental health services is extremely high.
 This is the primary reason I have focused on children’s mental health once I was elected to the Florida House of Representatives.
 If we can address these issues at a younger age and provide preventative care, then the wellbeing of so many children can be preserved.
-Some progress but more to be done
-Over the past eight legislative sessions, I have filed, passed and had signed into law five mental-health bills by two different governors.
+Some progress but more to be done Over the past eight legislative sessions, I have filed, passed and had signed into law five mental-health bills by two different governors.
 In 2017, I passed House Bill 1183.
 The bill created a Baker Act Task Force to investigate the use of the Baker Act on minors, with particular focus on children sent for medical evaluation by school authorities.
 The task force met for six months and provided a list of recommendations to the Florida Legislature.
@@ -32,6 +27,4 @@ I would also love to see a Department of Mental Health, so that all mental healt
 Sometimes the agencies don’t work with one another, impairing the ability to provide services.
 I look to continue working to help improve the safety net for so many children that slip through the cracks.
 David Silvers is a Democrat representing District 89 in the Florida House of Representatives.
-Your Turn
-David Silvers
-Guest columnist
+Your Turn David Silvers Guest columnist https://www.votedavidsilvers.com/wp-content/uploads/2025/06/Hospital.png 1152 1536 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2024-05-29 20:22:48 2025-06-17 17:44:35 Florida is achieving strides in mental health care, but major gaps need work Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: 20 current, former lawmakers endorse David Silvers for Senate 20 current, former lawmakers endorse David Silvers for Senate Link to: Reproductive rights should be matter of choice Reproductive rights should be matter of choice Scroll to top Scroll to top

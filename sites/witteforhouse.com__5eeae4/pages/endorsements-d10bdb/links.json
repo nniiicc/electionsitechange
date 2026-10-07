@@ -1,24 +1,94 @@
 [
-"https://facebook.com/witteforhouse",
-"https://lmc.org/news-publications/news/all/league-honors-25-minnesota-lawmakers-as-2024-legislators-of-distinction",
-"https://mnretail.org/news/item/2024endorsed",
-"https://witteforhouse.com/",
-"https://witteforhouse.com/about",
-"https://witteforhouse.com/articles",
-"https://witteforhouse.com/bills",
-"https://witteforhouse.com/contact",
-"https://witteforhouse.com/donate",
-"https://witteforhouse.com/endorsements",
-"https://witteforhouse.com/endorsements/leadership-fund-pac",
-"https://witteforhouse.com/endorsements/mppoa",
-"https://witteforhouse.com/endorsements/nfib",
-"https://witteforhouse.com/events",
-"https://witteforhouse.com/issues",
-"https://witteforhouse.com/photos",
-"https://witteforhouse.com/priorities-survey",
-"https://witteforhouse.com/testimonials",
-"https://witteforhouse.com/videos",
-"https://witteforhouse.com/voting",
-"https://youtube.com/@JeffWitte57B",
-"https://youtube.com/@jeffwitteforminnesotahouse5157"
+{
+"text": "About",
+"href": "https://witteforhouse.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://witteforhouse.com/articles/"
+},
+{
+"text": "Bills",
+"href": "https://witteforhouse.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://witteforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://witteforhouse.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://witteforhouse.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://witteforhouse.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/witteforhouse/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@JeffWitte57B"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@jeffwitteforminnesotahouse5157"
+},
+{
+"text": "Home",
+"href": "https://witteforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://witteforhouse.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://witteforhouse.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://witteforhouse.com/priorities-survey/"
+},
+{
+"text": "Testimonials",
+"href": "https://witteforhouse.com/testimonials/"
+},
+{
+"text": "Videos",
+"href": "https://witteforhouse.com/videos/"
+},
+{
+"text": "Voting",
+"href": "https://witteforhouse.com/voting/"
+},
+{
+"text": "[image: Leadership Fund PAC]",
+"href": "https://witteforhouse.com/endorsements/leadership-fund-pac/"
+},
+{
+"text": "[image: League of Minnesota Cities]",
+"href": "https://www.lmc.org/news-publications/news/all/league-honors-25-minnesota-lawmakers-as-2024-legislators-of-distinction/"
+},
+{
+"text": "[image: MPPOA]",
+"href": "https://witteforhouse.com/endorsements/mppoa/"
+},
+{
+"text": "[image: Minnesota Retailers Impact]",
+"href": "https://www.mnretail.org/news/item/2024endorsed"
+},
+{
+"text": "[image: NFIB]",
+"href": "https://witteforhouse.com/endorsements/nfib/"
+},
+{
+"text": "[image: Re-Elect Jeff Witte 57B]",
+"href": "https://witteforhouse.com/"
+}
 ]

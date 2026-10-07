@@ -1,4 +1,5 @@
-This morning, former Delegate Charles Sydnor was sworn into the Maryland Senate and became Senator Charles Sydnor.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Important Announcement This morning, former Delegate Charles Sydnor was sworn into the Maryland Senate and became Senator Charles Sydnor.
 Congratulations to Senator Sydnor!
 His appointment to the Senate leaves a vacancy in the House of Delegates in 44b, and I plan to apply for that vacancy.
 I care deeply about the district and the people who live here.
@@ -7,18 +8,8 @@ I along with other activists have seen some successes in these areas, but as a d
 I ran for Baltimore County Council in 2018, and had been considering running again in 2022.
 However, I feel that I can also do great good at the state level.
 There is so much work to do, and I pledge to serve the people of our district with care and commitment.
-My activism over the last year has included:
-- Supported the Fight for $15, to help ensure all working Marylanders earn a living wage;
-- Organized support for the county executive’s ethics, government transparency, and small donor campaign finance bills;
-- Supported the Clean Energy Jobs Act;
-- Helped to organize a Baltimore County Lights for Liberty event to protest inhumane immigrant detention;
-- Organized a coalition of activists to support the Baltimore County HOME Act, to prohibit housing discrimination against renters using non-wage income;
-- Supported the United Auto Workers in their strike against GM;
-- Supported the Baltimore Transit Equity Coalition in their work to create a Regional Transit Authority.
-- Supported the Baltimore County Democratic Party with activities such as tabling at festivals and canvassing;
-- Introduced a resolution to the Maryland Democratic Party Executive Committee that called on the DNC to host a climate debate;
-- Participated in a Medicare for All action;
-- Organized around the Green New Deal and participated in the climate strike.
+My activism over the last year has included: Supported the Fight for $15, to help ensure all working Marylanders earn a living wage; Organized support for the county executive’s ethics, government transparency, and small donor campaign finance bills; Supported the Clean Energy Jobs Act; Helped to organize a Baltimore County Lights for Liberty event to protest inhumane immigrant detention; Organized a coalition of activists to support the Baltimore County HOME Act, to prohibit housing discrimination against renters using non-wage income; Supported the United Auto Workers in their strike against GM; Supported the Baltimore Transit Equity Coalition in their work to create a Regional Transit Authority.
+Supported the Baltimore County Democratic Party with activities such as tabling at festivals and canvassing; Introduced a resolution to the Maryland Democratic Party Executive Committee that called on the DNC to host a climate debate; Participated in a Medicare for All action; Organized around the Green New Deal and participated in the climate strike.
 Whether or not I am selected to fill this seat, I will continue to work hard for the people of District 44B and the state of Maryland.
 But as a delegate, I would have greater opportunities to make a difference.
 Under the Maryland Constitution, when there is a vacancy in the state legislature in a seat held by a Democrat, the Democratic Central Committee selects and recommends to the governor the person to fill the vacancy, then the governor makes the appointment.
@@ -26,5 +17,11 @@ The Baltimore County Democratic Central Committee is currently accepting applica
 Your support would mean a lot to me.
 Please consider emailing the Democratic Central Committee a note indicating that you support for me for the position.
 It would be even better if you can include a personal note about why you think I would be the best candidate.
-You can send it to Info@BaltimoreCountyDems.com, and be sure to include contact information for verification.
+You can send it to Info@BaltimoreCountyDems.com , and be sure to include contact information for verification.
 Thank you, and I look forward to serving you in Annapolis as your delegate.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

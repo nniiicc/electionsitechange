@@ -1,10 +1,46 @@
 [
-"https://benjaminlarson.org/",
-"https://benjaminlarson.org/about",
-"https://benjaminlarson.org/contact",
-"https://benjaminlarson.org/platform",
-"https://benjaminlarson.org/volunteer",
-"https://facebook.com/profile.php?id=61580469345822",
-"https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration",
-"https://secure.actblue.com/donate/benjamin-larson-iowa-house"
+{
+"text": "Benjamin Larson for Iowa House",
+"href": "https://benjaminlarson.org/"
+},
+{
+"text": "Contact",
+"href": "https://benjaminlarson.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/benjamin-larson-iowa-house"
+},
+{
+"text": "Get in Touch",
+"href": "https://benjaminlarson.org/contact/"
+},
+{
+"text": "Home",
+"href": "https://benjaminlarson.org/"
+},
+{
+"text": "Meet Ben",
+"href": "https://benjaminlarson.org/about/"
+},
+{
+"text": "Platform",
+"href": "https://benjaminlarson.org/platform/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration"
+},
+{
+"text": "Volunteer",
+"href": "https://benjaminlarson.org/volunteer/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:Benjamin.T.Larson@proton.me"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61580469345822"
+}
 ]

@@ -1,7 +1,26 @@
 [
-"https://nickfosness.com/",
-"https://nickfosness.com/cart",
-"https://nickfosness.com/privacy",
-"https://nickfosness.com/terms",
-"https://secure.winred.com/fosness-for-south-dakota/donate-today"
+{
+"text": "0",
+"href": "https://www.nickfosness.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/fosness-for-south-dakota/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.nickfosness.com/"
+},
+{
+"text": "Privacy",
+"href": "https://www.nickfosness.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://www.nickfosness.com/terms"
+},
+{
+"text": "[image: Nick Fosness for SD]",
+"href": "https://www.nickfosness.com/"
+}
 ]

@@ -1,25 +1,134 @@
 [
-"http://instagram.com/votejalal",
-"https://docs.google.com/forms/d/e/1FAIpQLSeAwIXoym_lN3nrCyFvuw_jRBuVr7mxzdowLYHFPhfTd2R-VA/viewform?usp=header",
-"https://facebook.com/votejalal",
-"https://secure.actblue.com/donate/jalal",
-"https://secure.actblue.com/donate/jalal?amount=10",
-"https://secure.actblue.com/donate/jalal?amount=100",
-"https://secure.actblue.com/donate/jalal?amount=1225",
-"https://secure.actblue.com/donate/jalal?amount=25",
-"https://secure.actblue.com/donate/jalal?amount=250",
-"https://secure.actblue.com/donate/jalal?amount=50",
-"https://secure.actblue.com/donate/jalal?amount=500",
-"https://votejalal.com/",
-"https://votejalal.com/community-driven-leadership",
-"https://votejalal.com/education-career-pathways",
-"https://votejalal.com/families-economy",
-"https://votejalal.com/health-care-wellness",
-"https://votejalal.com/meet-jalal",
-"https://votejalal.com/neighborhoods",
-"https://votejalal.com/priorities",
-"https://votejalal.com/privacy-policy",
-"https://votejalal.com/sms-registration",
-"https://votejalal.com/terms-of-use",
-"https://votejalal.com/volunteer-sign-up"
+{
+"text": "$1,225",
+"href": "https://secure.actblue.com/donate/jalal?amount=1225"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/jalal?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jalal?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jalal?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jalal?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jalal?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/jalal?amount=500"
+},
+{
+"text": "Community-Driven Leadership",
+"href": "https://www.votejalal.com/community-driven-leadership"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jalal"
+},
+{
+"text": "Donate",
+"href": "https://www.votejalal.com/"
+},
+{
+"text": "Donate now",
+"href": "https://secure.actblue.com/donate/jalal"
+},
+{
+"text": "Education & Career Pathways",
+"href": "https://www.votejalal.com/education-career-pathways"
+},
+{
+"text": "Families & Economic Opportunity",
+"href": "https://www.votejalal.com/families-economy"
+},
+{
+"text": "Health Care & Wellness",
+"href": "https://www.votejalal.com/health-care-wellness"
+},
+{
+"text": "Home",
+"href": "https://www.votejalal.com/"
+},
+{
+"text": "Join the movement",
+"href": "https://www.votejalal.com/volunteer-sign-up"
+},
+{
+"text": "Meet Jalal",
+"href": "https://www.votejalal.com/meet-jalal"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jalal"
+},
+{
+"text": "Priorities",
+"href": "https://www.votejalal.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejalal.com/privacy-policy"
+},
+{
+"text": "Read more about Jalal's story",
+"href": "https://www.votejalal.com/meet-jalal"
+},
+{
+"text": "S",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeAwIXoym_lN3nrCyFvuw_jRBuVr7mxzdowLYHFPhfTd2R-VA/viewform?usp=header"
+},
+{
+"text": "Sign me up",
+"href": "https://www.votejalal.com/sms-registration"
+},
+{
+"text": "Strong, Safe Neighborhoods",
+"href": "https://www.votejalal.com/neighborhoods"
+},
+{
+"text": "Take Our Survey",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeAwIXoym_lN3nrCyFvuw_jRBuVr7mxzdowLYHFPhfTd2R-VA/viewform?usp=header"
+},
+{
+"text": "Terms",
+"href": "https://www.votejalal.com/terms-of-use"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.votejalal.com/terms-of-use"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejalal.com/volunteer-sign-up"
+},
+{
+"text": "Working Families & Local Economy",
+"href": "https://www.votejalal.com/families-economy"
+},
+{
+"text": "[image: Jalal Abdallah for State Rep logo, text in navy blue, light blue outline of Michigan, navy blue star.]",
+"href": "https://www.votejalal.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votejalal"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votejalal"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@votejalal.com"
+}
 ]

@@ -1,4 +1,5 @@
-Rep.
-Natalie Price Takes On Ghost Guns
-These days in America it’s easier to get a gun than get rid of one.
+0 Skip to Content Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Folder: Meet Natalie Back About Natalie Natalie's Record Endorsements Folder: Priorities Back Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Rep.
+Natalie Price Takes On Ghost Guns Mar 7 Written By Natalie Price These days in America it’s easier to get a gun than get rid of one.
 Desi Lydic headed to Michigan to get to the bottom of the state's "buy back" initiative that turned out to be refurbishing guns instead of destroying them.
+Natalie Price Previous Previous Rep.
+Natalie Price Shuts Down MAGA Distractions: Moms Need Care, Not Map Edits Paid for by the Committee to Elect Natalie Price for State Senate | 2428 Phillips Ave, Berkley, MI 48072 Privacy Policy

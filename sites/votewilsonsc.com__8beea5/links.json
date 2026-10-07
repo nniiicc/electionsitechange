@@ -1,12 +1,54 @@
 [
-"https://facebook.com/votewilsonsc",
-"https://secure.actblue.com/donate/david-wilson-105",
-"https://votewilsonsc.com/",
-"https://votewilsonsc.com/cart",
-"https://votewilsonsc.com/donate",
-"https://votewilsonsc.com/get-involved",
-"https://votewilsonsc.com/meet-your-candidate",
-"https://votewilsonsc.com/new-page",
-"https://votewilsonsc.com/policies",
-"https://votewilsonsc.com/voter-information"
+{
+"text": "0",
+"href": "https://votewilsonsc.com/cart"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/david-wilson-105"
+},
+{
+"text": "Donate",
+"href": "https://votewilsonsc.com/donate"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/david-wilson-105"
+},
+{
+"text": "FOLLOW ME ON FACEBOOK",
+"href": "https://facebook.com/votewilsonsc"
+},
+{
+"text": "Get Involved",
+"href": "https://votewilsonsc.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://votewilsonsc.com/"
+},
+{
+"text": "Meet Your Candidate",
+"href": "https://votewilsonsc.com/meet-your-candidate"
+},
+{
+"text": "Policies and Platform",
+"href": "https://votewilsonsc.com/policies"
+},
+{
+"text": "Quick Facts",
+"href": "https://votewilsonsc.com/new-page"
+},
+{
+"text": "Voter Information",
+"href": "https://votewilsonsc.com/voter-information"
+},
+{
+"text": "[image: David Wilson SC House District 105]",
+"href": "https://votewilsonsc.com/"
+},
+{
+"text": "info@VoteWilsonSC.org",
+"href": "mailto:info@VoteWilsonSC.org"
+}
 ]

@@ -1,6 +1,6 @@
-In the Minnesota House, I have always worked to protect your freedoms, because you will always make better decisions affecting your life than any government.
-I look forward to bringing my commitment to constitutional and fiscally prudent government to the Minnesota Senate."
-Cal Bahr
+Skip to content Facebook-f Home Videos & Media Volunteer Donate Contact Us Home Videos & Media Volunteer Donate Contact Us In the Minnesota House, I have always worked to protect your freedoms, because you will always make better decisions affecting your life than any government.
+I look forward to bringing my commitment to constitutional and fiscally prudent government to the Minnesota Senate." Cal Bahr There is a war for our children, our future, and right now the Left is winning.
+It’s time to fight back!
 Schools are saying their job is to fight the Patriarchy and oppose Capitalism.
 They mock American freedoms and teach our kids the principles of Critical Race Theory.
 They fight parental rights and declare that they are the “professionals” who know best what values your kids should have.
@@ -22,21 +22,13 @@ When students leave bad schools, the money should follow them.
 Public school?
 Private school?
 Parents should choose, and not be penalized for choosing private.
-We can’t just ban CRT—we must let parents leave the system if their children are not learning the right things.
+We can’t just ban CRT —we must let parents leave the system if their children are not learning the right things.
 Schools will listen when the flow of money changes.
 Allow parents the option of Capitalism.
 I’m running for State Senate to put the power back where it belongs—in the hands of parents!
 Help me restore the Republic.
-State Representative Cal Bahr
-- Minnesota State Representative
-- U.S.
-Army Veteran (1980-1989)
-- Radisson Road Baptist Church Member
-- Former Upper Rum River Water Management Organization Board Member
-- Small Business Owner
-- Lives in East Bethel, MN
-- Parental choice in their children’s education
-- Strengthening firearm ownership protections
-- Fighting federal encroachments on States’ Rights
-- Bringing local government back to where it belongs — with the people
-- Ending the Metropolitan Council
+State Representative Cal Bahr Who I Am Minnesota State Representative U.S.
+Army Veteran (1980-1989) Radisson Road Baptist Church Member Former Upper Rum River Water Management Organization Board Member Small Business Owner Lives in East Bethel, MN What I Stand For Pledging to restore self-governance to the people of Minnesota Parental choice in their children’s education Strengthening firearm ownership protections Fighting federal encroachments on States’ Rights Bringing local government back to where it belongs — with the people Ending the Metropolitan Council How You Can Help DONATE VOLUNTEER Home Videos & Media Volunteer Donate Contact Us Home Videos & Media Volunteer Donate Contact Us Facebook-f ©# Bahr for Senate.
+All rights reserved.
+Paid for by Bahr for Senate, 1280 185th Lane NE, Apt.
+302, East Bethel, MN 55011

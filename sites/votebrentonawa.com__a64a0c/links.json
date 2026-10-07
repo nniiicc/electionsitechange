@@ -1,19 +1,98 @@
 [
-"http://secure.winred.com/senator-awa-for-congress/donate?amount=200",
-"https://facebook.com/brentonawa",
-"https://instagram.com/brentonawa",
-"https://secure.winred.com/senator-awa-for-congress/donate",
-"https://secure.winred.com/senator-awa-for-congress/donate?amount=10",
-"https://secure.winred.com/senator-awa-for-congress/donate?amount=100",
-"https://secure.winred.com/senator-awa-for-congress/donate?amount=25",
-"https://secure.winred.com/senator-awa-for-congress/donate?amount=50",
-"https://secure.winred.com/senator-awa-for-congress/donate?amount=500",
-"https://tiktok.com/@brentonawa",
-"https://votebrentonawa.com/",
-"https://votebrentonawa.com/about",
-"https://votebrentonawa.com/blank",
-"https://votebrentonawa.com/issues",
-"https://votebrentonawa.com/media",
-"https://x.com/brentonawa",
-"https://youtube.com/user/awabrenton"
+{
+"text": "$10",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "http://secure.winred.com/senator-awa-for-congress/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.votebrentonawa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votebrentonawa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votebrentonawa.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.votebrentonawa.com#volunteer-form"
+},
+{
+"text": "Media",
+"href": "https://www.votebrentonawa.com/media"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/senator-awa-for-congress/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebrentonawa.com/blank"
+},
+{
+"text": "[image: Add a heading (2).png]",
+"href": "https://www.votebrentonawa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brentonawa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brentonawa"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@brentonawa"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.x.com/brentonawa"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/user/awabrenton"
+},
+{
+"text": "[no text]",
+"href": "https://www.votebrentonawa.com/#comp-mjfmo2rj2"
+},
+{
+"text": "[no text]",
+"href": "https://www.votebrentonawa.com/#comp-mjfmo2rk11"
+},
+{
+"text": "[no text]",
+"href": "https://www.votebrentonawa.com/#comp-mjfmo2rl12"
+},
+{
+"text": "​",
+"href": "https://www.votebrentonawa.com"
+}
 ]

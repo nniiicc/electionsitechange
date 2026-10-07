@@ -1,7 +1,9 @@
 {
  "description": "Join Bobby Charles at upcoming town halls, meet & greets, and community events across Maine. Check the calendar for new events added weekly.",
  "final_url": "https://www.bobbyformaine.com/events",
- "paid_for_by": null,
+ "fingerprint": "e2aa4b4de3a2a04df4c7e6bab2c53321f95a04e5",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "Events",
  "years_mentioned": []
 }

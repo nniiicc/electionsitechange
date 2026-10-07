@@ -1,11 +1,10 @@
-Governor Little announces run for re-election with record support from across Idaho
-BOISE — Governor Brad Little submitted his Declaration of Candidacy on March 11 to the Idaho Secretary of State and announced his intent to run for re-election and appear on the May 17 ballot in the Republican primary.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu Governor Little announces run for re-election with record support from across Idaho Mar 23, 2022 BOISE — Governor Brad Little submitted his Declaration of Candidacy on March 11 to the Idaho Secretary of State and announced his intent to run for re-election and appear on the May 17 ballot in the Republican primary.
 The Brad Little for Governor campaign has already received almost $1.6 million and nearly 2,700 contributions from Idahoans and businesses across all 44 counties – a record show of support for any gubernatorial candidate at this point in a campaign in the history of the state.
 “As governor, my priority has been to make Idaho the best place to live, do business, and raise a family.
 During my first term, together, we achieved billions in historic tax relief, record investments in transportation, and continued our strong support for education in Idaho – and we are just getting started!” Governor Little said.
 “Simply put, Governor Brad Little has delivered results for Idaho families,” Hayden Rogers, Governor Little’s Campaign Manager, said.
 “Under Governor Little’s conservative leadership, Idaho has become the least regulated state, fought back against federal overreach, supported our brave first responders, and delivered more than a billion dollars in tax relief to Idaho families.
-This is why Idahoans from across the state support Governor Little.”
-“I am humbled by the support we have received throughout Idaho,” said Governor Little.
-“I am committed to continuing working on behalf of all Idahoans to strengthen our economy, invest in education and protect our values so everyone, especially our children and grandchildren, will have the ability to build careers and raise their families here in Idaho.”
-Read the full story from Idaho County Free Press here.
+This is why Idahoans from across the state support Governor Little.” “I am humbled by the support we have received throughout Idaho,” said Governor Little.
+“I am committed to continuing working on behalf of all Idahoans to strengthen our economy, invest in education and protect our values so everyone, especially our children and grandchildren, will have the ability to build careers and raise their families here in Idaho.” Read the full story from Idaho County Free Press here.
+Back P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

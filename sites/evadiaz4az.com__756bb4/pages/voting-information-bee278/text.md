@@ -1,23 +1,2 @@
-0
-Skip to Content
-Voting Information
-Contact Us
-English
-Donate now
-Open Menu
-Close Menu
-Voting Information
-Contact Us
-English
-Donate now
-Open Menu
-Close Menu
-Voting Information
-Contact Us
-English
-Back
-Donate now
-Voter information
-Voting locations
-Verify voter registration status
-More voting information
+0 Skip to Content Voting Information Contact Us English Donate now Open Menu Close Menu Voting Information Contact Us English Donate now Open Menu Close Menu Voting Information Contact Us English Back Donate now Voter information Voting locations Verify voter registration status More voting information Donate Volunteer Twitter Facebook Instagram Eva Diaz for Arizona state senate, 22nd district Paid for by Eva Diaz for State Senate LD22.
+Authorized by Eva Diaz for State Senate LD22.

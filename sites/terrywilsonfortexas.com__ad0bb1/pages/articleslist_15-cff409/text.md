@@ -1,4 +1,4 @@
-One year from now, the Texas House of Representatives will choose a new Speaker of the House.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements February 15, 2018 Jeff Frazier Sit-Rep #15 - So You Want to Be Speaker of the House February 15, 2018 Jeff Frazier One year from now, the Texas House of Representatives will choose a new Speaker of the House.
 It will be the first time since Reconstruction that a Republican majority has had a wide-open race for Speaker, and it presents an unprecedented opportunity to reform the rules, customs, and procedures of the House.
 The choice of whom to support for Speaker will fundamentally shape the next legislative session, so I want to let you know how I will determine how to cast my vote on your behalf.
 After the primary, I will be looking at all possible candidates, both declared and potential dark-horse contenders, and asking them all the same ten questions.
@@ -6,8 +6,7 @@ With such an important decision, I want you to know what I will be asking, and w
 Q 1: How do you define the role of Speaker of the House?
 I’m looking for a leader.
 I don’t want a mere administrative fixture, nor someone who views their role as the ultimate authority.
-I want a speaker who has a vision for the culture and direction of the house and is willing to coach the members
-towards the common goal.
+I want a speaker who has a vision for the culture and direction of the house and is willing to coach the members towards the common goal.
 Remember, the Speaker is not a state-wide elected official.
 He is elected like any other legislator, by his constituents.
 As Speaker, he is elected internally to serve the will of the House in implementing the rules.
@@ -21,8 +20,7 @@ What do you bring to the table that other people don’t?
 I need to see that there is more to their candidacy than ego or power.
 We need a communicator who encourages the body to tackle the tough issues that have been ignored to date because they are political dynamite.
 I'm not looking for someone who will protect me from the hard votes.
-Q 5: Do you view the House Rules as Levitical Law or as "Guidelines?"
-The rules are printed and then agreed upon each year, and following the rules matters.
+Q 5: Do you view the House Rules as Levitical Law or as "Guidelines?" The rules are printed and then agreed upon each year, and following the rules matters.
 Doing “the right thing” the wrong way can make it the wrong thing.
 Just because its hard doesn’t mean we get to skirt around the rules whenever we want and claim some precedent where someone else had the same lazy idea.
 Using precedent to justify bending the rules is the legislative equivalent of a child saying, “But they got to do it, why can’t I?” I don’t let my kids get away with that, I certainly don’t want my Speaker using it.
@@ -46,3 +44,15 @@ When selecting a speaker, I want to support someone who has put some time and ef
 So, those are my nine questions.
 The tenth question I will leave up to you.
 Email me at District20.Wilson@house.texas.gov and provide me your feedback on what you want me to ask potential candidates for Speaker of the House.
+February 15, 2018 Jeff Frazier Jeff Frazier Sit-Rep #16 - Solving the Property Tax Paradox Sit-Rep #14 - Our Greatest Threat Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

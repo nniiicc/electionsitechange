@@ -1,20 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=NY+WFP+Canvassing+for+Brad+Lander+and+Ryder+Kessler%21&dates=20260610T214500Z%2F20260611T000000Z",
-"https://bsky.app/profile/ryderkessler.bsky.social",
-"https://facebook.com/ryderfornewyork",
-"https://instagram.com/ryderfornewyork",
-"https://mobilize.us/ryderfornewyork2026/event/954032",
-"https://ryderfornewyork.com/",
-"https://ryderfornewyork.com/about-ryder",
-"https://ryderfornewyork.com/cart",
-"https://ryderfornewyork.com/endorsements",
-"https://ryderfornewyork.com/events",
-"https://ryderfornewyork.com/events/east-village-canvass-pc2hg-jegl7-mxs98-ncnn4-zwgw4-7yrj3-84esw",
-"https://ryderfornewyork.com/events/nywfp-canvassing-for-brad-lander-ryder-kessler-and-wfp-champions-3free-5d335-ffl2z?format=ical",
-"https://ryderfornewyork.com/events/tribeca-greenmarket-canvass-l28rz-j8hta-k3xle-wn554-xm37c-hsln3-waxw7-rdpcm-8d9h3",
-"https://ryderfornewyork.com/platform",
-"https://secure.actblue.com/donate/r4ny",
-"https://tiktok.com/@ryderkessler",
-"https://x.com/ryderkessler",
-"https://youtube.com/@ryderfornewyork"
+{
+"text": "0",
+"href": "https://www.ryderfornewyork.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ryderfornewyork.com/about-ryder"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/r4ny/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ryderfornewyork.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=NY+WFP+Canvassing+for+Brad+Lander+and+Ryder+Kessler%21&dates=20260610T214500Z%2F20260611T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ryderfornewyork.com/events/nywfp-canvassing-for-brad-lander-ryder-kessler-and-wfp-champions-3free-5d335-ffl2z?format=ical"
+},
+{
+"text": "Next Next June 10 Phonebank with Ryder for New York",
+"href": "https://www.ryderfornewyork.com/events/tribeca-greenmarket-canvass-l28rz-j8hta-k3xle-wn554-xm37c-hsln3-waxw7-rdpcm-8d9h3"
+},
+{
+"text": "Platform",
+"href": "https://www.ryderfornewyork.com/platform"
+},
+{
+"text": "Previous Previous June 9 East Village Canvass",
+"href": "https://www.ryderfornewyork.com/events/east-village-canvass-pc2hg-jegl7-mxs98-ncnn4-zwgw4-7yrj3-84esw"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/ryderfornewyork2026/event/954032/"
+},
+{
+"text": "[image: Ryder for New York]",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryderkessler.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryderfornewyork/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ryderkessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryderkessler"
+},
+{
+"text": "hello@ryderfornewyork.com",
+"href": "mailto:hello@ryderfornewyork.com"
+}
 ]

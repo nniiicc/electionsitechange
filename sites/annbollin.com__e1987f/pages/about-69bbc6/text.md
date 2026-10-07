@@ -1,12 +1,10 @@
-Faith, Family, Freedom and Fiscal Responsibility
-Ann's faith serves as her moral compass.
+Voter Information Home About The Issues Endorsements Volunteer Contact Us Donate Voter Information Home About The Issues Endorsements Volunteer Contact Us Donate About: Meet Ann Faith, Family, Freedom and Fiscal Responsibility Ann's faith serves as her moral compass.
 She is a practicing Catholic and has been married to her husband Tim for over 30 years.
 They have three millennial age sons who are all proud graduates of Brighton High School.
 Ann believes government’s role should be limited and the Constitution should be upheld and she supports Michigan First, America Always efforts.
 Financial decisions need to be made with a strong sense that each dollar being spent belongs to the taxpayer.
 The government’s money is the taxpayer’s money – not an expense account.
-Community Driven
-She is active as our state representative, in the community, and at her church.
+Community Driven She is active as our state representative, in the community, and at her church.
 Her involvement includes serving on the Livingston County Catholic Services Board of Directors and is a member of the Holy Spirit Parish Council Finance Committee.
 She was awarded a fellowship to the Bowhay Institute for Legislative Leadership sponsored by the Midwest Council of Governments in her first year as a legislator.
 In 2022, she was selected as GOPAC’s Emergent Leader for the Michigan House of Representatives.
@@ -16,8 +14,7 @@ Prior to serving as a legislator, Ann was the longtime Clerk in Brighton Townshi
 She also served on the Livingston Community Water Authority and she and husband Tim are also associate members of the St.
 Vincent de Paul Society.
 Ann continues to be involved in her community and is as an active volunteer for community events and causes.
-Proven, Trusted and Respected Leader
-Ann is known for being approachable and accessible.
+Proven, Trusted and Respected Leader Ann is known for being approachable and accessible.
 She is respected for her keen ability to sift through the details and see the big picture.
 Ann works tirelessly on behalf of all of her constituents, local communities, the business community and law enforcement professionals to resolve issues and provide a steady hand during these most challenging times.
 She is known for looking ahead to find ways to move Michigan forward.
@@ -30,4 +27,4 @@ In 2025, she was awarded the Bob Williams Memorial Award for policy leadership i
 It is a national award.
 She has been a strong voice for election integrity and is seen as a leading expert on Michigan elections.
 She has been a regular speaker on Michigan elections advocating to ensure that all eligible voters can vote freely, secretly, independently, safely, and securely.
-She has earned the respect of many and is enrolled in the Brighton Women’s Honor Roll and was a nominee for Township Clerk of the Year.
+She has earned the respect of many and is enrolled in the Brighton Women’s Honor Roll and was a nominee for Township Clerk of the Year. “ I want to go to Lansing to do something - not be something. ” — Ann Bollin Paid for by Ann Bollin for State Rep - 100 Orndorf #1435 Brighton, MI 48116 Donate

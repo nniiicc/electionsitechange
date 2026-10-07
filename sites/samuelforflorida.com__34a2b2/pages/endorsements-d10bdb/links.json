@@ -1,61 +1,242 @@
 [
-"https://abccentralflorida.com/",
-"https://atu.org/",
-"https://cfhla.org/",
-"https://dhcfl.org/",
-"https://eduvoter.org/",
-"https://emgageusa.org/chapter/emgage-florida",
-"https://engageyall.com/",
-"https://eqflpac.org/",
-"https://facebook.com/samuelforfl",
-"https://feaweb.org/",
-"https://flaflcio.org/",
-"https://flicvotes.org/",
-"https://flmedical.org/florida/Florida_Public/PAC/PAC.aspx",
-"https://flnow.org/pac",
-"https://floridanurse.org/page/FNPAC",
-"https://floridarealtors.org/advocacy/pac",
-"https://floridarising.org/",
-"https://floridayoungdems.com/",
-"https://fpfp.org/",
-"https://futuredems.org/",
-"https://giffords.org/",
-"https://ibew606.org/",
-"https://instagram.com/samuelforfl",
-"https://latinovictory.org/",
-"https://liuna.org/",
-"https://momsdemandaction.org/",
-"https://nalaf.org/",
-"https://ocdecf.org/",
-"https://ocffa.com/",
-"https://orangecta.com/",
-"https://orlandolocal1365.org/about-us",
-"https://orlandosentinel.com/2026/08/11/endorsements-finding-the-best-fit-for-state-house-districts",
-"https://p4da.org/",
-"https://rainbowdemocrats.org/",
-"https://reedycreek.org/",
-"https://runforsomething.net/",
-"https://samuelforflorida.com/",
-"https://samuelforflorida.com/about",
-"https://samuelforflorida.com/cart",
-"https://samuelforflorida.com/contact",
-"https://samuelforflorida.com/endorsements",
-"https://samuelforflorida.com/in-the-news",
-"https://samuelforflorida.com/privacy-policy",
-"https://samuelforflorida.com/samuelspriorities",
-"https://savesplitoak.org/",
-"https://secure.actblue.com/donate/samuelforflweb",
-"https://seiufl.org/",
-"https://sierraclub.org/florida",
-"https://smart-union.org/",
-"https://statecraftmedia.com/",
-"https://teachersunify.org/",
-"https://twu.org/",
-"https://uaw.org/",
-"https://ufcw.org/",
-"https://unionhall.aflcio.org/centralflorida",
-"https://uniteherelocal362.org/",
-"https://uniteherelocal737.org/",
-"https://victoryfund.org/",
-"https://x.com/samuelforfl"
+{
+"text": "0",
+"href": "https://www.samuelforflorida.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.samuelforflorida.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/samuelforflweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.samuelforflorida.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.samuelforflorida.com/contact"
+},
+{
+"text": "In The News",
+"href": "https://www.samuelforflorida.com/in-the-news"
+},
+{
+"text": "Meet Samuel",
+"href": "https://www.samuelforflorida.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.samuelforflorida.com/privacy-policy"
+},
+{
+"text": "READ FULL ENDORSEMENT",
+"href": "https://www.orlandosentinel.com/2026/08/11/endorsements-finding-the-best-fit-for-state-house-districts/"
+},
+{
+"text": "Samuel's Priorities",
+"href": "https://www.samuelforflorida.com/samuelspriorities"
+},
+{
+"text": "Site Design by Statecraft Media",
+"href": "https://www.statecraftmedia.com"
+},
+{
+"text": "VISIT SITE",
+"href": "https://abccentralflorida.com/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://dhcfl.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://flaflcio.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://flicvotes.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://floridarising.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://futuredems.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://reedycreek.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://seiufl.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.cfhla.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.flmedical.org/florida/Florida_Public/PAC/PAC.aspx"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.floridanurse.org/page/FNPAC"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.floridarealtors.org/advocacy/pac"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.floridayoungdems.com/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.fpfp.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.ibew606.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.liuna.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.nalaf.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.orlandolocal1365.org/about-us/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.sierraclub.org/florida"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.twu.org/"
+},
+{
+"text": "VISIT SITE",
+"href": "https://www.uniteherelocal737.org/"
+},
+{
+"text": "VISIT site",
+"href": "https://www.ufcw.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://eduvoter.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://emgageusa.org/chapter/emgage-florida/"
+},
+{
+"text": "Visit Site",
+"href": "https://engageyall.com/"
+},
+{
+"text": "Visit Site",
+"href": "https://eqflpac.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://feaweb.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://flnow.org/pac/"
+},
+{
+"text": "Visit Site",
+"href": "https://giffords.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://latinovictory.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://ocdecf.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://p4da.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://rainbowdemocrats.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "Visit Site",
+"href": "https://savesplitoak.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://uaw.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://unionhall.aflcio.org/centralflorida"
+},
+{
+"text": "Visit Site",
+"href": "https://victoryfund.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.ocffa.com/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.orangecta.com/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.smart-union.org/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.teachersunify.org/"
+},
+{
+"text": "Visit site",
+"href": "https://www.atu.org/"
+},
+{
+"text": "Visit site",
+"href": "https://www.uniteherelocal362.org/"
+},
+{
+"text": "[image: Samuel Vilchez Santiago]",
+"href": "https://www.samuelforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/samuelforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/samuelforfl/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/samuelforfl"
+}
 ]

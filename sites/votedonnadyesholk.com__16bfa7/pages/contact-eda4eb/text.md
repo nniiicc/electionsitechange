@@ -1,5 +1,2 @@
-Vote Donna Dye Sholk
-New York State Assembly
-Reach Me Anytime
-Prefer email?
-Write to inquiries@votedonnadyesholk.com
+top of page Vote Donna Dye Sholk New York State Assembly About Priorities Get Involved Vote Contact Events Blog DONATE SUBSCRIBE CONTACT Reach Me Anytime Prefer email?
+Write to inquiries@votedonnadyesholk.com GET IN TOUCH First name * Last name * Email * Phone Message SUBMIT SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page

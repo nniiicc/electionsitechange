@@ -1,7 +1,9 @@
 {
  "description": "Join the 4th Quarter Feast by Parker for Assembly on Oct 14, 2026. Get your event tickets now and support a great cause!",
  "final_url": "https://parkerforassembly.com/4th-quarter-feast",
- "paid_for_by": null,
+ "fingerprint": "60de3c2f25810b2751c9caf0add87eeeb75f05f8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "4th Quarter Feast",
  "years_mentioned": []
 }

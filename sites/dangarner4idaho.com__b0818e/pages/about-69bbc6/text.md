@@ -1,12 +1,5 @@
-ABOUT DAN GARNER
-Dan is no stranger to Idaho, having spent the past four decades as a farmer and a rancher
-and where he has raised four wonderful children.
-Drawing on 38 years of experience in farming, ranching, and agriculture, Dan is now focusing
-mainly on ensuring Idaho is a great place to continue to live and work, despite unprecedented growth.
-Dan has served on several local and state boards like his local school board, Idaho Farm Bureau State Board,
-and American Farm Bureau’s Organic and Direct Marketing Committees.
-Dan’s varied background on these boards provides the perfect foundation for serving as
-your Idaho House Representative.
-While starting his farm, Dan spent four years as a student at Brigham Young University Provo
-and graduated with a Bachelor of Science Degree in Economics.
-He is also a certified SMAW Welder from Bridgerland Technical College, Logan, UT.
+top of page HOME ABOUT ISSUES NEWS & EVENTS DONATE CONTACT More Use tab to navigate through the menu items.
+Log In ABOUT DAN GARNER Dan is no stranger to Idaho, having spent the past four decades as a farmer and a rancher and where he has raised four wonderful children. ​ Drawing on 38 years of experience in farming, ranching, and agriculture, Dan is now focusing mainly on ensuring Idaho is a great place to continue to live and work, despite unprecedented growth. ​ Dan has served on several local and state boards like his local school board, Idaho Farm Bureau State Board, and American Farm Bureau’s Organic and Direct Marketing Committees. ​ Dan’s varied background on these boards provides the perfect foundation for serving as your Idaho House Representative. ​ While starting his farm, Dan spent four years as a student at Brigham Young University Provo and graduated with a Bachelor of Science Degree in Economics.
+He is also a certified SMAW Welder from Bridgerland Technical College, Logan, UT. image_123650291 IMG_8105 IMG_3345 image_123650291 1/40 DONATE JOIN OUR TEAM Sign up to volunteer and receive updates on upcoming events and other ways you can support us to keep Idaho great!
+First Name Last Name Email Please let us know how you can help us out SUBMIT Thanks for submitting!
+Paid for by the committee to re-elect Dan Garner. bottom of page

@@ -1,4 +1,3 @@
-Cook County Board to hold hearing on systemic failures in addressing domestic violence
-CBS News Chicago has been investigating the systemic failures that have left survivors at risk.
+0 Skip to Content Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Cook County Board to hold hearing on systemic failures in addressing domestic violence Aug 10 Written By Guest User CBS News Chicago has been investigating the systemic failures that have left survivors at risk.
 On Tuesday, the Cook County Board of Commissioners will hold a hearing on what needs to be fixed.
-Commissioner Donna Miller (D-6th) is heading the hearings…
+Commissioner Donna Miller (D-6th) is heading the hearings… Guest User Previous Previous Miller convenes hearing on maternal morbidity, mortality rates in Cook County Next Next OP-ED - Donna Miller: Cook County's domestic violence court system is broken Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

@@ -1,7 +1,26 @@
 [
-"https://ileanagarcia.com/",
-"https://ileanagarcia.com/about",
-"https://ileanagarcia.com/home",
-"https://ileanagarcia.com/legislation",
-"https://secure.anedot.com/ileana-garcia-campaign/donate"
+{
+"text": "About",
+"href": "https://ileanagarcia.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://ileanagarcia.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://ileanagarcia.com/home/"
+},
+{
+"text": "Legislative Record",
+"href": "https://ileanagarcia.com/legislation/"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+}
 ]

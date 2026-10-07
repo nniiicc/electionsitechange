@@ -1,6 +1,22 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeZnP4yG_S0bnTerX8lml2uAF8XJHGFhTqXpCXplAbn5UPERQ/viewform",
-"https://google.com/url?q=https%3A%2F%2Fsecure.anedot.com%2Ffriends-of-timothy-h-beson%2Fdonate&sa=D&sntz=1&usg=AOvVaw3Xo4Gj7_MC8uwHbVnuOll0",
-"https://timmybeson.com/home",
-"https://timmybeson.com/meet-timmy"
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.anedot.com%2Ffriends-of-timothy-h-beson%2Fdonate&sa=D&sntz=1&usg=AOvVaw3Xo4Gj7_MC8uwHbVnuOll0"
+},
+{
+"text": "Home",
+"href": "https://www.timmybeson.com/home"
+},
+{
+"text": "Meet Timmy",
+"href": "https://www.timmybeson.com/meet-timmy"
+},
+{
+"text": "[image]",
+"href": "https://www.timmybeson.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Connect with Timmy in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeZnP4yG_S0bnTerX8lml2uAF8XJHGFhTqXpCXplAbn5UPERQ/viewform"
+}
 ]

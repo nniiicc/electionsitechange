@@ -1,7 +1,13 @@
 {
- "description": "About Mike NEWSLETTER Mike Quigley was elected to Congress to represent Illinois\u2019 5th",
+ "description": "About Mike NEWSLETTER Mike Quigley was elected to Congress to represent Illinois’ 5th",
  "final_url": "https://quigleyforcongress.com/about/",
+ "fingerprint": "0536b71dace8ea2b7a148ad9ebc3853205ccad2c",
+ "format": 3,
  "paid_for_by": "Paid for by Quigley for Congress",
  "title": "About - Quigley",
- "years_mentioned": []
+ "years_mentioned": [
+  "1982",
+  "2009",
+  "2018"
+ ]
 }

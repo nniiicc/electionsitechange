@@ -1,7 +1,9 @@
 {
  "description": "This application enables users to advocate for healthcare policies by dynamically updating and displaying key healthcare statements and positions.",
  "final_url": "https://www.lewforsenate22.com/",
- "paid_for_by": null,
+ "fingerprint": "a5d928b98d432e34ce50fdd42c590d8284b5a53e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Wasserman for SD-22",
  "years_mentioned": []
 }

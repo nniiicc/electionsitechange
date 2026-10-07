@@ -1,15 +1,58 @@
 [
-"https://berncoclerk.gov/elections/early-voting",
-"https://facebook.com/HerndonforNM",
-"https://instagram.com/@ HerndonforNM",
-"https://linkedin.com/in/pamelya-herndon-4055929",
-"https://pamelyaherndon.com/",
-"https://pamelyaherndon.com/about",
-"https://pamelyaherndon.com/contact",
-"https://pamelyaherndon.com/endorsements",
-"https://pamelyaherndon.com/events",
-"https://pamelyaherndon.com/key-legislation",
-"https://pamelyaherndon.com/record-%26-priorites",
-"https://secure.actblue.com/donate/herndon-for-nm-1",
-"https://x.com/TallCypress"
+{
+"text": "About",
+"href": "https://pamelyaherndon.com/about"
+},
+{
+"text": "Contact",
+"href": "https://pamelyaherndon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/herndon-for-nm-1"
+},
+{
+"text": "EARLY VOTING BEGINS OCTOBER 6 →",
+"href": "https://www.berncoclerk.gov/elections/early-voting/"
+},
+{
+"text": "Endorsements",
+"href": "https://pamelyaherndon.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://pamelyaherndon.com/events"
+},
+{
+"text": "Home",
+"href": "https://pamelyaherndon.com/"
+},
+{
+"text": "Key Legislation",
+"href": "https://pamelyaherndon.com/key-legislation"
+},
+{
+"text": "Record & Priorites",
+"href": "https://pamelyaherndon.com/record-%26-priorites"
+},
+{
+"text": "[image: pamelyaherndonDEV]",
+"href": "https://pamelyaherndon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HerndonforNM"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/@%20HerndonforNM"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/pamelya-herndon-4055929/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/TallCypress"
+}
 ]

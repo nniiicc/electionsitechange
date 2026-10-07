@@ -1,39 +1,194 @@
 [
-"http://facebook.com/delegatedenise",
-"http://instagram.com/delegatedenise",
-"http://linkedin.com/in/denisegeneva",
-"http://twitter.com/delegatedenise",
-"https://deniseformaryland.com/",
-"https://deniseformaryland.com/contact",
-"https://deniseformaryland.com/copy-of-legislation",
-"https://deniseformaryland.com/donate",
-"https://deniseformaryland.com/end-of-session-letter",
-"https://deniseformaryland.com/endorsements",
-"https://deniseformaryland.com/eventlist",
-"https://deniseformaryland.com/get-involved",
-"https://deniseformaryland.com/key-issues",
-"https://deniseformaryland.com/legislation",
-"https://deniseformaryland.com/meet-denise",
-"https://deniseformaryland.com/meet-my-team",
-"https://deniseformaryland.com/mylinks",
-"https://deniseformaryland.com/news-updates",
-"https://deniseformaryland.com/news-updates/categories/blog",
-"https://deniseformaryland.com/news-updates/categories/news-article",
-"https://deniseformaryland.com/news-updates/categories/press-release",
-"https://deniseformaryland.com/our-district",
-"https://deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026",
-"https://deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist",
-"https://deniseformaryland.com/post/voting-rights-and-election-access-in-maryland-a-2026-guide-for-district-25-residents",
-"https://deniseformaryland.com/product-page/team-roberts-jersey",
-"https://deniseformaryland.com/profile/a98eb501-9c3b-499f-91d7-686b408d67831633/profile",
-"https://deniseformaryland.com/scholarships",
-"https://deniseformaryland.com/services",
-"https://deniseformaryland.com/voter-resources",
-"https://elections.maryland.gov/voter_registration/index.html",
-"https://innow.org/mdylf",
-"https://kevinmharris.org/",
-"https://mgaleg.maryland.gov/mgawebsite",
-"https://msa.maryland.gov/msa/mdmanual/01glance/html/govern.html",
-"https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html",
-"https://youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+{
+"text": "All Posts",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Blog",
+"href": "https://www.deniseformaryland.com/news-updates/categories/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.deniseformaryland.com/contact"
+},
+{
+"text": "Contact Information",
+"href": "https://www.kevinmharris.org/"
+},
+{
+"text": "DONATE",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "END OF SESSION LETTER",
+"href": "https://www.deniseformaryland.com/end-of-session-letter"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deniseformaryland.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.deniseformaryland.com/eventlist"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deniseformaryland.com/get-involved"
+},
+{
+"text": "Get involved today by supporting the Denise For Maryland campaign",
+"href": "https://deniseformaryland.com"
+},
+{
+"text": "HOME",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "Join our movement to empower District 25; donate or volunteer today",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.deniseformaryland.com/key-issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.deniseformaryland.com/legislation"
+},
+{
+"text": "MEET DENISE",
+"href": "https://www.deniseformaryland.com/meet-denise"
+},
+{
+"text": "MEET MY TEAM",
+"href": "https://www.deniseformaryland.com/meet-my-team"
+},
+{
+"text": "MY LINKS",
+"href": "https://www.deniseformaryland.com/mylinks"
+},
+{
+"text": "Maryland Political Campaign Contribution Guide: Supporting Your Community in 2026",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "Maryland Special Session August 3-5: What District 25 Voters Need to Know About Congressional Redistricting",
+"href": "https://www.deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist"
+},
+{
+"text": "Maryland Youth Leadership",
+"href": "https://www.innow.org/mdylf/"
+},
+{
+"text": "Maryland voter information",
+"href": "https://elections.maryland.gov/voter_registration/index.html"
+},
+{
+"text": "Maryland's legislative process",
+"href": "https://mgaleg.maryland.gov/mgawebsite/"
+},
+{
+"text": "Maryland's state government structure",
+"href": "https://msa.maryland.gov/msa/mdmanual/01glance/html/govern.html"
+},
+{
+"text": "NEWS & UPDATES",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "News Article",
+"href": "https://www.deniseformaryland.com/news-updates/categories/news-article"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.deniseformaryland.com/our-district"
+},
+{
+"text": "Press Release",
+"href": "https://www.deniseformaryland.com/news-updates/categories/press-release"
+},
+{
+"text": "Prince George's County",
+"href": "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.deniseformaryland.com/scholarships"
+},
+{
+"text": "SERVICES",
+"href": "https://www.deniseformaryland.com/services"
+},
+{
+"text": "SINE DIE STATEMENT",
+"href": "https://www.deniseformaryland.com/copy-of-legislation"
+},
+{
+"text": "STORE",
+"href": "https://www.deniseformaryland.com/product-page/team-roberts-jersey"
+},
+{
+"text": "See All",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Team Denise",
+"href": "https://www.deniseformaryland.com/profile/a98eb501-9c3b-499f-91d7-686b408d67831633/profile"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.deniseformaryland.com/voter-resources"
+},
+{
+"text": "Voting Rights and Election Access in Maryland: A 2026 Guide for District 25 Residents.",
+"href": "https://www.deniseformaryland.com/post/voting-rights-and-election-access-in-maryland-a-2026-guide-for-district-25-residents"
+},
+{
+"text": "[image: Join the friends of Denise Roberts by donating to the campaign. Donate today. ]",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "[image: Maryland Special Session August 3-5: What District 25 Voters Need to Know About Congressional Redristricting]",
+"href": "https://www.deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist"
+},
+{
+"text": "[image: Maryland political campaign contribution ]",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "[image: Voting Rights and Election Access in Maryland]",
+"href": "https://www.deniseformaryland.com/post/voting-rights-and-election-access-in-maryland-a-2026-guide-for-district-25-residents"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/denisegeneva"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denisedenise.roberts@house.state.md.us"
+},
+{
+"text": "hello@deniseformaryland.com",
+"href": "mailto:hello@deniseformaryland.com"
+},
+{
+"text": "make a campaign contribution",
+"href": "https://www.deniseformaryland.com/donate"
+}
 ]

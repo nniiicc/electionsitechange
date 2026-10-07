@@ -1,9 +1,4 @@
-Back to All Events
-Last day to hand-deliver an absentee ballot.
-Previous
-Previous
-October 31
-Last day to apply for an absentee ballot in person
-Next
-Next
-November 5
+0 Skip to Content About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu About About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Open Menu Close Menu Folder: About Back About Issues Constituent Resources Events Legislative News News/Media Contact Newsletter Back to All Events Last day to hand-deliver an absentee ballot Monday, November 4, 2024 5:00 PM Tuesday, January 7, 2025 7:30 PM Google Calendar ICS Last day to hand-deliver an absentee ballot.
+More information here.
+Previous Previous October 31 Last day to apply for an absentee ballot in person Next Next November 5 Election Day Constituent Resources Contact Rep.
+Lands Issues Legislative News News & Media Website designed and created by Clete Wetli & Tektite.Digital

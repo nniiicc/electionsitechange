@@ -1,4 +1,4 @@
-Eventually, I stepped back into tech consulting while Gloria took over running the day-to-day operations of our specialty foods business.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Oracle · Putting Down Roots Choosing Gallatin Gateway × Eventually, I stepped back into tech consulting while Gloria took over running the day-to-day operations of our specialty foods business.
 After about a year, a friend working at Oracle called me out of the blue.
 They were looking for a data quality expert to help guide their systems.
 I dug out my old non-compete agreement from the Metagenix sale to see if I could even take the job.
@@ -16,4 +16,6 @@ We need leaders who understand how today's economy actually works, who know how 
 Let's bring that common-sense, forward-looking perspective to our state capitol.
 That's Montana common sense.
 These career stories were originally posted on Facebook.
-You can follow the entire story at facebook.com/leman4mt.
+You can follow the entire story at facebook.com/leman4mt . ← Back to Greg's Story Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

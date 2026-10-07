@@ -1,8 +1,10 @@
-By Jake Allen
-Former Indianapolis Mayor Greg Ballard has so far outraised his GOP opponent in his bid for Indiana secretary of state, an unusual occurrence for a third-party candidate that shows he could be a problem for his opponents come November.
-Republican candidate Max Engling who was nominated by the party after a messy convention season, is lagging behind the Democratic candidate Beau Bayh as well as Ballard when it comes to fundraising, campaign finance reports filed July 15 show.
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Jul 15, 2026 INDY STAR: Greg Ballard and Beau Bayh are outraising the GOP secretary of state candidate By Jake Allen Former Indianapolis Mayor Greg Ballard has so far outraised his GOP opponent in his bid for Indiana secretary of state, an unusual occurrence for a third-party candidate that shows he could be a problem for his opponents come November.
+Republican candidate Max Engling who was nominated by the party after a messy convention season, is lagging behind the Democratic candidate Beau Bayh as well as Ballard when it comes to fundraising, campaign finance reports filed July 15 show .
+Bayh has raised the most so far of all of the candidates, raking in nearly $# million since the start of his campaign, and has the most cash on hand.
 GOP delegates nominated Engling after he entered the race a day before the filing deadline, which meant the ousting of the current Secretary of State Diego Morales, who is a Republican.
+So far, Engling, who filed to run on May 20, had raised a little over $# in 2026 , as of June 30.
 Meanwhile Ballard has raised almost four times as much as Engling.
+Ballard, who announced he was running as an independent in March of this year, has raised about $870,000 in 2026, according to campaign finance reports released on July 15.
 Ballard's campaign points out that he outraised all of his opponents, including Bayh, in the most recent filing period which ran from April 1 to June 30.
 Ballard also raised more than past third party secretary of state candidates.
-This article originally appeared in the Indy Star
+This article originally appeared in the Indy Star ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

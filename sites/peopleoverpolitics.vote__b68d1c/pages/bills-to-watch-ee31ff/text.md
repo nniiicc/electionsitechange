@@ -1,113 +1,98 @@
-HB 122
-Personhood at Conception Bill
-Would grant full legal rights and protections to fertilized eggs and embryos, with major implications for abortion access, fertility care, and some forms of contraception.
-Stalled in House committee.
-Georgia Tracker // Bills To Watch
+PEOPLE OVER POLITICS About Anthony Events Affordability Tax Math Bills to Watch Cherokee Elections Community Poll Register to Vote Georgia Tracker // Bills To Watch One Place To Track The Bills Mentioned Across The Platform.
 Every Georgia bill referenced across the issues in one place.
 Filter by category, jump straight to the full text, and see what's actually moving through the legislature right now.
 35 bills across 11 categories.
-Filter by category
-Browse every bill mentioned across the site, then narrow to the issue area you care about.
-35 bills shown
-11 categories across the site
-Family planning and medical privacy
+Filter by category All bills Family planning and medical privacy Vaccine choice Cannabis policy Psychedelic treatment AI transparency Equal treatment and privacy Agent transparency State authorization Sensitive locations Detention expansion Local growth & annexation Browse every bill mentioned across the site, then narrow to the issue area you care about.
+Sort Bill number (A-Z) Bill number (Z-A) Title Category 35 bill s shown 11 categories across the site Family planning and medical privacy HB 122 Personhood at Conception Bill Would grant full legal rights and protections to fertilized eggs and embryos, with major implications for abortion access, fertility care, and some forms of contraception.
+Stalled in House committee.
 Checking Georgia Legislature status...
-AI transparency
-HB 147
-Requires the Georgia Technology Authority to publish an annual inventory of every AI system used across state agencies, giving the public visibility into how government is deploying artificial intelligence.
+Read HB 122 on legis.ga.gov AI transparency HB 147 AI Inventory Requirement for State Agencies Requires the Georgia Technology Authority to publish an annual inventory of every AI system used across state agencies, giving the public visibility into how government is deploying artificial intelligence.
 Advanced through Senate Science & Technology committee in March 2026.
-Cannabis policy
-HB 206
-Repeals a 1990 law that strips financial aid eligibility from students convicted of drug offenses.
+Checking Georgia Legislature status...
+Read HB 147 on legis.ga.gov Cannabis policy HB 206 Repeal Drug-Free Postsecondary Education Act Repeals a 1990 law that strips financial aid eligibility from students convicted of drug offenses.
 Advanced through House Higher Education committee in March 2026.
-HB 342
-Removes advertising restrictions on licensed medical cannabis dispensaries and operators in Georgia.
+Checking Georgia Legislature status...
+Read HB 206 on legis.ga.gov Cannabis policy HB 342 Medical Cannabis Advertising Reform Removes advertising restrictions on licensed medical cannabis dispensaries and operators in Georgia.
 Withdrawn and recommitted in April 2025—still technically alive in the legislature.
-Local growth & annexation
-HB 387
-When you buy a home in unincorporated Cherokee County, nothing in your closing documents tells you whether a city has already designated your land as part of its future expansion zone.
+Checking Georgia Legislature status...
+Read HB 342 on legis.ga.gov Local growth & annexation HB 387 Require Growth Boundary Agreements in Service Delivery Plans When you buy a home in unincorporated Cherokee County, nothing in your closing documents tells you whether a city has already designated your land as part of its future expansion zone.
 This bill would require cities and counties to formalize those growth boundary maps as part of their mandatory Service Delivery Strategy agreements — creating a public record that home buyers can actually find.
 Right now, that information is buried in county press releases.
 You deserve to know before you sign.
-HB 440
-The 'Providing Effective Access to Cannabis for Health' Act would substantially expand Georgia's narrow medical cannabis program to cover more conditions, more patients, and more dispensaries statewide.
-HB 441
-Seeks to extend state equal protection rights to fetuses, which legal experts say would create significant criminal and medical-liability questions around pregnancy care.
+Checking Georgia Legislature status...
+Read HB 387 on legis.ga.gov Cannabis policy HB 440 PEACH Act — Expand Cannabis Access for Health The 'Providing Effective Access to Cannabis for Health' Act would substantially expand Georgia's narrow medical cannabis program to cover more conditions, more patients, and more dispensaries statewide.
+Checking Georgia Legislature status...
+Read HB 440 on legis.ga.gov Family planning and medical privacy HB 441 Georgia Prenatal Equal Protection Act Seeks to extend state equal protection rights to fetuses, which legal experts say would create significant criminal and medical-liability questions around pregnancy care.
 Stalled in House Judiciary committee since February 2025.
-Sensitive locations
-HB 470
-Forbids immigration arrests, detentions, and searches at schools, houses of worship, healthcare facilities, and other sensitive community spaces.
-HB 478
-Mandates that AI-generated content include a clear disclosure notice—so voters, patients, and consumers know when they're reading or watching something created by a machine, not a person.
-HB 496
-Bars police from using the smell of marijuana, cannabis, or hemp as the sole legal basis for stops, searches, arrests, or seizures.
-Vaccine choice
-HB 522
-Prohibits healthcare providers and facilities from denying organ transplants to patients based solely on their COVID-19 or other vaccine status.
+Checking Georgia Legislature status...
+Read HB 441 on legis.ga.gov Sensitive locations HB 470 Prohibit Immigration Enforcement at Sensitive Locations Forbids immigration arrests, detentions, and searches at schools, houses of worship, healthcare facilities, and other sensitive community spaces.
+Checking Georgia Legislature status...
+Read HB 470 on legis.ga.gov AI transparency HB 478 Require AI Content Disclaimers Mandates that AI-generated content include a clear disclosure notice—so voters, patients, and consumers know when they're reading or watching something created by a machine, not a person.
+Checking Georgia Legislature status...
+Read HB 478 on legis.ga.gov Cannabis policy HB 496 End Marijuana Scent as Search Justification Bars police from using the smell of marijuana, cannabis, or hemp as the sole legal basis for stops, searches, arrests, or seizures.
+Checking Georgia Legislature status...
+Read HB 496 on legis.ga.gov Vaccine choice HB 522 No Organ Transplant Discrimination by Vaccine Status Prohibits healthcare providers and facilities from denying organ transplants to patients based solely on their COVID-19 or other vaccine status.
 Advanced out of House Health committee in January 2026.
-HB 598
-Would restore broader reproductive healthcare access in Georgia by repealing post-Dobbs abortion restrictions.
+Checking Georgia Legislature status...
+Read HB 522 on legis.ga.gov Family planning and medical privacy HB 598 Reproductive Freedom Act Would restore broader reproductive healthcare access in Georgia by repealing post-Dobbs abortion restrictions.
 Stalled in committee since February 2025.
-Equal treatment and privacy
-HB 660
-Measure affecting transgender Georgians through restrictions tied to identity, care, athletics, or public institutional access.
-Psychedelic treatment
-HB 717
-Establishes a licensed framework for psychedelic-assisted treatment and therapy, including psilocybin, for veterans, PTSD patients, and others seeking emerging mental-health options.
+Checking Georgia Legislature status...
+Read HB 598 on legis.ga.gov Equal treatment and privacy HB 660 Gender Identity Restriction Bill Measure affecting transgender Georgians through restrictions tied to identity, care, athletics, or public institutional access.
+Checking Georgia Legislature status...
+Read HB 660 on legis.ga.gov Psychedelic treatment HB 717 Psychedelic-Assisted Therapy Regulation Establishes a licensed framework for psychedelic-assisted treatment and therapy, including psilocybin, for veterans, PTSD patients, and others seeking emerging mental-health options.
 Passed the Senate by substitute in March 2026.
-HB 804
-Would encode into law a blanket pardon for Georgians previously convicted of simple marijuana possession.
-HB 1029
-A local act that used the General Assembly to override a city council and county commission on a Cherokee County land dispute — de-annexing roughly 855 acres from Holly Springs and rewriting its charter, council structure, and district lines, without a vote of the residents affected.
+Checking Georgia Legislature status...
+Read HB 717 on legis.ga.gov Cannabis policy HB 804 Codify Marijuana Pardon for Simple Possession Would encode into law a blanket pardon for Georgians previously convicted of simple marijuana possession.
+Checking Georgia Legislature status...
+Read HB 804 on legis.ga.gov Local growth & annexation HB 1029 Force Holly Springs to De-Annex Land Via State Legislature A local act that used the General Assembly to override a city council and county commission on a Cherokee County land dispute — de-annexing roughly 855 acres from Holly Springs and rewriting its charter, council structure, and district lines, without a vote of the residents affected.
 It fixes one city's boundary fight and leaves growth boundary agreements non-binding, and home buyers uninformed, everywhere else in Georgia.
 Holly Springs sued the state over it in July 2026; the challenge is still pending.
-Agent transparency
-HB 1044
-Gives Georgia residents the right to sue civil immigration enforcement officers who violate their constitutional rights during enforcement operations.
-HB 1050
-Bars local schools and school districts from sharing student data with federal immigration authorities without clear legal authority.
-State authorization
-HB 1053
-Repeals existing laws requiring Georgia local law enforcement to cooperate with federal immigration authorities, restoring local jurisdictions' ability to set policing priorities.
-HB 1242
-Limits government vaccine mandates and seeks to protect Georgians' right to refuse vaccinations without losing employment, access to public services, or other benefits.
+Checking Georgia Legislature status...
+Read HB 1029 on legis.ga.gov Agent transparency HB 1044 Civil Remedies for Immigration Enforcement Rights Violations Gives Georgia residents the right to sue civil immigration enforcement officers who violate their constitutional rights during enforcement operations.
+Checking Georgia Legislature status...
+Read HB 1044 on legis.ga.gov Sensitive locations HB 1050 Protect Student Data from Immigration Officials Bars local schools and school districts from sharing student data with federal immigration authorities without clear legal authority.
+Checking Georgia Legislature status...
+Read HB 1050 on legis.ga.gov State authorization HB 1053 Repeal Mandatory Local Immigration Cooperation Repeals existing laws requiring Georgia local law enforcement to cooperate with federal immigration authorities, restoring local jurisdictions' ability to set policing priorities.
+Checking Georgia Legislature status...
+Read HB 1053 on legis.ga.gov Vaccine choice HB 1242 Medical Freedom Act Limits government vaccine mandates and seeks to protect Georgians' right to refuse vaccinations without losing employment, access to public services, or other benefits.
 Introduced February 2026.
-HB 1248
-Comprehensive adult-use cannabis reform bill that would create a legal, regulated, and taxed cannabis market in Georgia.
-HB 1313
-Shields healthcare professionals from criminal liability when providing medically necessary treatment to pregnant patients, including pregnancy complications and emergency care.
-HB 1399
-The 'Likeness, Expression, Generative AI, and Commercial Yield' Act protects Georgians from having their voice or image replicated by AI without consent.
-Detention expansion
-HB 1401
-Requires third-party health, safety, and civil rights audits of any Georgia facility housing federal immigration detainees.
-SB 1
-Restricts transgender girls from competing on girls' sports teams in Georgia public schools and colleges.
+Checking Georgia Legislature status...
+Read HB 1242 on legis.ga.gov Cannabis policy HB 1248 Georgia Cannabis Freedom and Integrity Act Comprehensive adult-use cannabis reform bill that would create a legal, regulated, and taxed cannabis market in Georgia.
+Checking Georgia Legislature status...
+Read HB 1248 on legis.ga.gov Family planning and medical privacy HB 1313 Legal Protections for Doctors Treating Pregnant Patients Shields healthcare professionals from criminal liability when providing medically necessary treatment to pregnant patients, including pregnancy complications and emergency care.
+Checking Georgia Legislature status...
+Read HB 1313 on legis.ga.gov AI transparency HB 1399 Georgia LEGACY Act — AI Likeness Rights The 'Likeness, Expression, Generative AI, and Commercial Yield' Act protects Georgians from having their voice or image replicated by AI without consent.
+Checking Georgia Legislature status...
+Read HB 1399 on legis.ga.gov Detention expansion HB 1401 Independent Audits of Immigration Detention in Georgia Requires third-party health, safety, and civil rights audits of any Georgia facility housing federal immigration detainees.
+Checking Georgia Legislature status...
+Read HB 1401 on legis.ga.gov Equal treatment and privacy SB 1 School Athletics Eligibility Law — Signed Into Law Restricts transgender girls from competing on girls' sports teams in Georgia public schools and colleges.
 Signed by Governor Kemp in April 2025.
-SB 9
-Creates legal liability for harmful AI-generated content.
+Checking Georgia Legislature status...
+Read SB 1 on legis.ga.gov AI transparency SB 9 Ensuring Accountability for Illegal AI Activities Creates legal liability for harmful AI-generated content.
 The House and Senate each passed different versions—the chambers are actively negotiating a final version as of early 2026.
-SB 39
-Would have removed gender-affirming healthcare coverage from Georgia state employee health plans.
+Checking Georgia Legislature status...
+Read SB 9 on legis.ga.gov Equal treatment and privacy SB 39 State Health Plan Coverage for Gender-Affirming Care Would have removed gender-affirming healthcare coverage from Georgia state employee health plans.
 Withdrawn and recommitted in April 2025.
-SB 220
-Significantly expands Georgia's limited medical cannabis program by broadening qualifying conditions and reducing patient barriers.
+Checking Georgia Legislature status...
+Read SB 39 on legis.ga.gov Cannabis policy SB 220 Putting Georgia's Patients First Act Significantly expands Georgia's limited medical cannabis program by broadening qualifying conditions and reducing patient barriers.
 The House agreed to the Senate's version in March 2026—this bill is on the verge of passing.
-SB 246
-Senate companion bill to HB 598 seeking to reinstate broader reproductive healthcare access in Georgia.
+Checking Georgia Legislature status...
+Read SB 220 on legis.ga.gov Family planning and medical privacy SB 246 Senate Reproductive Freedom Act Senate companion bill to HB 598 seeking to reinstate broader reproductive healthcare access in Georgia.
 Referred to Senate Judiciary committee and stalled since February 2025.
-SB 389
-Requires all covered immigration enforcement officers to wear clearly visible identification badges during public enforcement activities.
+Checking Georgia Legislature status...
+Read SB 246 on legis.ga.gov Agent transparency SB 389 Require ICE Agents to Wear Visible ID Badges Requires all covered immigration enforcement officers to wear clearly visible identification badges during public enforcement activities.
 Currently stalled in Senate Public Safety committee.
-SB 390
-Bars the Georgia National Guard and other armed state forces from participating in federal immigration enforcement operations without explicit authorization from the Governor.
-SB 391
-Prohibits federal immigration agents from entering schools, hospitals, churches, libraries, and domestic violence shelters without a judicially signed warrant.
-SB 397
-Senate companion to HB 1044.
+Checking Georgia Legislature status...
+Read SB 389 on legis.ga.gov State authorization SB 390 State Authorization for National Guard Immigration Operations Bars the Georgia National Guard and other armed state forces from participating in federal immigration enforcement operations without explicit authorization from the Governor.
+Checking Georgia Legislature status...
+Read SB 390 on legis.ga.gov Sensitive locations SB 391 Warrant Required at Schools, Hospitals & Churches Prohibits federal immigration agents from entering schools, hospitals, churches, libraries, and domestic violence shelters without a judicially signed warrant.
+Checking Georgia Legislature status...
+Read SB 391 on legis.ga.gov Agent transparency SB 397 Senate: Tort Remedies for Immigration Rights Violations Senate companion to HB 1044.
 Creates a state tort pathway for residents to seek damages when civil immigration officers violate their constitutional rights.
 Both bills filed in January 2026 and pending in committee.
-SB 517
-Imposes a two-year moratorium on new immigration detention facilities in Georgia.
-SB 549
-Cuts off Georgia state funding, tax incentives, and public infrastructure support for ICE immigration detention centers.
+Checking Georgia Legislature status...
+Read SB 397 on legis.ga.gov Detention expansion SB 517 Two-Year Pause on New Immigration Detention Facilities Imposes a two-year moratorium on new immigration detention facilities in Georgia.
+Checking Georgia Legislature status...
+Read SB 517 on legis.ga.gov Detention expansion SB 549 State Funding Limits for ICE Detention Centers Cuts off Georgia state funding, tax incentives, and public infrastructure support for ICE immigration detention centers.
+Checking Georgia Legislature status...
+Read SB 549 on legis.ga.gov

@@ -1,8 +1,10 @@
-Friends,
-Sorry to have been absent on the regular relief effort updates.
+Skip to content About BECOME A MAYFIELD MAJORITY MAKER!
+Donate Endorsements Home Issues News Privacy Policy Thank You Become a Mayfield Majority Maker!
+About NEWS ISSUES ENDORSEMENTS VOLUNTEER DONATE Become a Mayfield Majority Maker!
+Menu NCGA UPDATES + UPDATED HELENE ASSISTANCE INFO 11/20 November 21, 2024 Friends, Sorry to have been absent on the regular relief effort updates.
 We have been in session this week and I have been consumed with preparing for the latest relief bill.
 Unfortunately, I have little good to report.
-The bill we passed, S382, does very little for WNC but does huge damage to some basic pillars of our democracy.
+The bill we passed, S382 , does very little for WNC but does huge damage to some basic pillars of our democracy.
 Here is just a short summary of the highlights, but I will warn you that this description will seem blatantly partisan.
 And that’s because these changes are blatantly partisan and there is simply no other way to talk about them.
 They are efforts to retain and expand power at every turn, even at the expense of traditional democratic principles and long-standing traditions.
@@ -31,12 +33,10 @@ These provisions appear to be blatantly unconstitutional and will certainly be c
 The bill gives the Chief Justice more appointment authority, advancing partisanship and control in the judiciary, and it eliminates the positions of some judges who have ruled against the General Assembly in the past.
 On a good note, the bill does allocate another $33.7 million to support our child care centers, giving them a life boat for one more quarter.
 Taken together, S382 takes North Carolina further down the road to authoritarianism with the power centered in the General Assembly.
-These changes are so egregious that they made the New York Times — the article also includes a quote from my floor speech, decrying that I had to vote against relief for WNC.
+These changes are so egregious that they made the New York Times — the article also includes a quote from my floor speech, decrying that I had to vote against relief for WNC .
 This should concern everyone, regardless of party.
 Governor Cooper will veto this bill, but we will be back the week after Thanksgiving for an override vote, again, playing out the highly orchestrated dance that comes with a supermajority.
 On a lighter note, of course, we all know that we have water in Buncombe County!!
 Many thanks to the good people of the City’s water resources department and everyone who helped get us to this moment.
 I will pick back up again with the recovery updates today and in the coming days, and I wish you all the best as we move into the holiday season.
-Here are recovery resources as of November 20:
-Here are links to the Small Business Recovery Guide:
-Here are links to the FEMA Recovery Guide:
+Here are recovery resources as of November 20: [English] [Spanish] [Ukrainian] Here are links to the Small Business Recovery Guide: [English] [Spanish] [Ukrainian] Here are links to the FEMA Recovery Guide: [English] [Spanish] [Ukrainian] Previous Post UPDATED HELENE ASSISTANCE INFO 11/14 Next Post Join us January 4 for the Buncombe Democratic NCGA Delegation Swearing-in Ceremony ABOUT | ISSUES | PRIVACY POLICY | VOLUNTEER | DONATE Paid for by Julie Mayfield for NC Senate

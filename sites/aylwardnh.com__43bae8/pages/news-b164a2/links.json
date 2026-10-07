@@ -1,15 +1,90 @@
 [
-"https://aylwardnh.com/",
-"https://aylwardnh.com/about",
-"https://aylwardnh.com/at-home-with-representative-aylward",
-"https://aylwardnh.com/author",
-"https://aylwardnh.com/candidate-statement",
-"https://aylwardnh.com/contact",
-"https://aylwardnh.com/gardening",
-"https://aylwardnh.com/homemade-food-regulation-reform",
-"https://aylwardnh.com/incumbent-aylward-announces-run-for-second-term",
-"https://aylwardnh.com/missing-children",
-"https://aylwardnh.com/news",
-"https://aylwardnh.com/nh-politics",
-"https://aylwardnh.com/volunteer"
+{
+"text": "About",
+"href": "https://aylwardnh.com/about/"
+},
+{
+"text": "At Home with Representative Aylward",
+"href": "https://aylwardnh.com/at-home-with-representative-aylward/"
+},
+{
+"text": "Author",
+"href": "https://aylwardnh.com/author/"
+},
+{
+"text": "Candidate Statement",
+"href": "https://aylwardnh.com/candidate-statement/"
+},
+{
+"text": "Contact",
+"href": "https://aylwardnh.com/contact/"
+},
+{
+"text": "Deborah Aylward, NH State Representative:",
+"href": "https://aylwardnh.com"
+},
+{
+"text": "Gardening",
+"href": "https://aylwardnh.com/gardening/"
+},
+{
+"text": "Home",
+"href": "https://aylwardnh.com/"
+},
+{
+"text": "Homemade Food Regulation Reform",
+"href": "https://aylwardnh.com/homemade-food-regulation-reform/"
+},
+{
+"text": "Incumbent Aylward Announces Run for Second Term",
+"href": "https://aylwardnh.com/incumbent-aylward-announces-run-for-second-term/"
+},
+{
+"text": "Missing Children",
+"href": "https://aylwardnh.com/missing-children/"
+},
+{
+"text": "NH Politics",
+"href": "https://aylwardnh.com/nh-politics/"
+},
+{
+"text": "News",
+"href": "https://aylwardnh.com/news/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/at-home-with-representative-aylward/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/author/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/candidate-statement/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/gardening/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/homemade-food-regulation-reform/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/incumbent-aylward-announces-run-for-second-term/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/missing-children/"
+},
+{
+"text": "READ MORE →",
+"href": "https://aylwardnh.com/nh-politics/"
+},
+{
+"text": "Volunteer",
+"href": "https://aylwardnh.com/volunteer/"
+}
 ]

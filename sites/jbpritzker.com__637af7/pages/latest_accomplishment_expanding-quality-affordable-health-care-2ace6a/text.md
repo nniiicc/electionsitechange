@@ -1,22 +1,8 @@
-Expanding Quality, Affordable Health Care
-JB believes health care is a right, not a privilege, and he has expanded access, improved the quality of care available, and lowered costs for families across Illinois.
-Abortion Care
-Enshrined reproductive rights in state law and expanded availability of care
-Prescriptions
-Lowered the cost of prescription drugs, including insulin, saving families thousands of dollars a year
-Medical Bills
-Eliminated medical debt for hundreds of thousands of middle class and low income families
-Mental Health
-Expanded insurance coverage for mental health services, suicide prevention and substance abuse treatment
-Veterans
-Invested in Illinois Veterans’ Homes so our heroes can receive care in state-of-the-art facilities
-New Moms
-Created the Birth Equity Initiative to lower maternal mortality rates, began licensing of midwives and expanded availability of doulas for new mothers
-Share with Your Network
-Join #TeamJB
-Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
+Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Expanding Quality, Affordable Healthcare JB believes healthcare is a right, not a privilege, and he has expanded access, improved the quality of care available, and lowered costs for families across Illinois.
+Reproductive Care Enshrined reproductive rights in state law and expanded availability of abortion care Prescriptions Lowered the cost of prescription drugs, including insulin, saving families thousands of dollars a year Medical Bills Eliminated over $1 billion in medical debt for more than 500,000 Illinoisans Mental Health Expanded insurance coverage for mental health services, suicide prevention and substance abuse treatment Veterans Invested in Illinois Veterans’ Homes so our heroes can receive care in state-of-the-art facilities New Moms Created the Birth Equity Initiative to lower maternal mortality rates, began licensing of midwives and expanded availability of doulas for new mothers Endorsements The Illinois State Medical Society (ISMS), Illinois Nurses Association, Planned Parenthood Illinois Action, and Personal PAC have endorsed JB Pritzker for Governor in 2026.
+Share with Your Network Download Graphic Standing Up To Trump Lowering Costs for Working Families Join #TeamJB Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
 By submitting your mobile phone number you are agreeing to receive periodic text messages from this organization.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

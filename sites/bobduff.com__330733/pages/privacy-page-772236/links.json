@@ -1,11 +1,42 @@
 [
-"http://instagram.com/senatorduff",
-"http://linkedin.com/in/bobduff",
-"http://twitter.com/senatorduff",
-"https://bobduff.com/",
-"https://bobduff.com/cart",
-"https://bobduff.com/contact",
-"https://bobduff.com/endorsements",
-"https://bobduff.com/privacy-page",
-"https://facebook.com/SenatorDuff"
+{
+"text": "0",
+"href": "https://www.bobduff.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.bobduff.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bobduff.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bobduff.com/endorsements"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bobduff.com/privacy-page"
+},
+{
+"text": "[image: Bob Duff for State Senate]",
+"href": "https://www.bobduff.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/senatorduff"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/in/bobduff"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/senatorduff"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorDuff"
+}
 ]

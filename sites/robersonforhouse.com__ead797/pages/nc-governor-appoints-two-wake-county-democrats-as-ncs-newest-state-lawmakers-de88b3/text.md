@@ -1,4 +1,4 @@
-Sydney Batch, who previously represented Wake County in the state House, is North Carolina’s newest state senator.
+Skip to content About James Issues News District 39 About James Issues News District 39 Donate January 9, 2021 NC governor appoints two Wake County Democrats as NC’s newest state lawmakers James Roberson, left, and Sydney Batch N&O file photos Sydney Batch, who previously represented Wake County in the state House, is North Carolina’s newest state senator.
 And Knightdale Mayor James Roberson is the newest member of the state House.
 A group of Wake County Democratic Party members unanimously nominated Batch to fill a vacancy in Senate District 17 on Saturday morning.
 On Sunday afternoon, Democrats nominated Roberson to replace former Rep.
@@ -16,7 +16,6 @@ On his way out, Searcy endorsed former Rep.
 Batch, who lost her reelection bid in November.
 Batch has largely been seen as a rising star in the Democratic Party.
 “People were sad when Sydney lost,” Searcy told The News & Observer last month.
-“She’s a good representative, and she’ll make a good senator.”
-Batch, who lives in Holly Springs, was elected to North Carolina’s General Assembly in 2018, riding the “blue wave” and flipping a previously Republican-held district in suburban Wake County.
+“She’s a good representative, and she’ll make a good senator.” Batch, who lives in Holly Springs, was elected to North Carolina’s General Assembly in 2018, riding the “blue wave” and flipping a previously Republican-held district in suburban Wake County.
 District 37 flipped back to red in November, when Republican Erin Paré was elected.
-Credit: News and Observer
+Credit: News and Observer Paid for by Roberson for North Carolina Facebook-f

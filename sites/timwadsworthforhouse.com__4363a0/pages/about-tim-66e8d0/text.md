@@ -1,22 +1,17 @@
-A Dedicated Leader
-Alabama State Representative Tim Wadsworth seeks re-election to continue representing Alabama’s House District 14, which includes portions of Cullman, Jefferson, Walker, and Winston Counties.
+Skip to main content Re-Elect Tim Wadsworth for House District 14 Re-Elect Tim Wadsworth for House District 14 Home About Tim Priorities News A Dedicated Leader Alabama State Representative Tim Wadsworth seeks re-election to continue representing Alabama’s House District 14, which includes portions of Cullman, Jefferson, Walker, and Winston Counties.
 Wadsworth's campaign is focused on continuing the conservative leadership and community investment that have defined his time in office.
-Meet Tim Wadsworth
-Get to know Alabama State Representative Tim Wadsworth and his commitment to serving House District 14.
+Meet Tim Wadsworth Get to know Alabama State Representative Tim Wadsworth and his commitment to serving House District 14.
 Discover his journey, accomplishments, and vision for a stronger community.
-Support for Our Communities
-Tim Wadsworth has shown dedication to community service and has invested time and resources to projects that strengthen rural areas.
+Support for Our Communities Tim Wadsworth has shown dedication to community service and has invested time and resources to projects that strengthen rural areas.
 His hands-on approach reflects a genuine desire to help Alabama thrive.
-Proven Results
-Throughout his tenure, Wadsworth has worked to bring home resources for healthcare, education, and infrastructure across the district.
+Proven Results Throughout his tenure, Wadsworth has worked to bring home resources for healthcare, education, and infrastructure across the district.
 He helped secure new healthcare facilities in Walker and Winston Counties, lighting for I-22, major Duncan Bridge safety improvements, funding for Wallace State Distant Learning Center, and grants for volunteer fire departments and local nonprofit organizations.
 Alabama State Representative Tim Wadsworth (R-Arley) has announced that he will seek re-election to continue representing Alabama’s House District 14, which includes portions of Cullman, Jefferson, Walker, and Winston Counties.
 First elected to the Alabama House in 2014, Wadsworth said his campaign will focus on continuing the conservative leadership and community investment that have defined his time in office.
 “I remain committed to the people within the four counties of this House seat,” Tim Wadsworth said.
 “Over the past eleven years, I have made your concerns a priority in Montgomery by lowering the grocery tax, supporting our first responders, improving local infrastructure, and securing funds for our schools.
 Our work is not finished, however.
-I ask for the privilege to continue serving and fighting for the values we share.”
-Throughout his tenure, Wadsworth has worked to bring home resources for healthcare, education, and infrastructure across the district.
+I ask for the privilege to continue serving and fighting for the values we share.” Throughout his tenure, Wadsworth has worked to bring home resources for healthcare, education, and infrastructure across the district.
 He helped secure new healthcare facilities Arley, Double Springs, and Nauvoo, and supported ambulance services for Winston County.
 Rep.
 Wadsworth also delivered State funding for local schools in four counties including West Point, Meek, Addison, Lynn, Double Springs, Parrish, Oakman, Carbon Hill, Sumiton, Corner, and Bagley, while supporting cultural and tourism development projects such as the Looney’s Tavern Amphitheater Complex and Cultural Center in Double Springs and Alabama State Games in Birmingham.
@@ -35,6 +30,4 @@ The couple are often seen attending civic and community events with their childr
 If re-elected, Wadsworth said he plans to continue advocating for fiscal responsibility, expanded access to education and healthcare, and stronger public safety.
 He also intends to promote economic and community development through partnerships with small businesses, local industry, and nonprofit organizations.
 “I humbly ask for your support and your vote,” Wadsworth said.
-“Let's work together and continue to strengthen what we have accomplished and make House District 14 more prosperous for everyone.”
-"Tim Wadsworth is a dedicated public servant who is a strong voice for our community in Montgomery."
-A supporter from District 14
+“Let's work together and continue to strengthen what we have accomplished and make House District 14 more prosperous for everyone.” "Tim Wadsworth is a dedicated public servant who is a strong voice for our community in Montgomery." A supporter from District 14 General Election: Tuesday, November 3, 2026 © # / Paid for by: Committee to Elect Tim Wadsworth, 1175 Helicon Rd., Arley, AL 35541

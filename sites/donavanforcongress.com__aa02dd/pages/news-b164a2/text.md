@@ -1,8 +1,8 @@
-NEWS & MEDIA
-To watch Donavan’s launch video, please click HERE.
-High-resolution photos available HERE.
-Please direct all media inquiries to press@donavanforcongress.com.
-- Detroit, Michigan- The Donavan McKinney for Congress campaign today announced the endorsement of the Council of Pastors and the Detroit Ecumenical Ministers Alliance, two of the city's most respected coalitions of faith leaders representing congregations across Detroit.
+0 Skip to Content Meet Donavan Priorities Endorsements Events News Get In Touch DONATE Open Menu Close Menu Meet Donavan Priorities Endorsements Events News Get In Touch DONATE Open Menu Close Menu Meet Donavan Priorities Endorsements Events News Get In Touch DONATE NEWS & MEDIA To watch Donavan’s launch video, please click HERE .
+High-resolution photos available HERE .
+Please direct all media inquiries to press@donavanforcongress.com .
+Donavan McKinney rolls out new endorsements.
+Detroit, Michigan- The Donavan McKinney for Congress campaign today announced the endorsement of the Council of Pastors and the Detroit Ecumenical Ministers Alliance, two of the city's most respected coalitions of faith leaders representing congregations across Detroit.
 The endorsement reflects McKinney’s ongoing commitment to serving his community and working alongside Detroit’s faith community to address residents' needs citywide.
 “I'm deeply grateful to Pastor Sheffield and the entire Council of Baptist Pastors of Detroit and Vicinity for their endorsement and for the trust they have placed in me.
 His voice carries real weight in our community, and having his support means more to me than words can fully express.
@@ -16,13 +16,13 @@ In January 2020, he made history with his appointment to Michigan’s first Envi
 Whitmer’s $2 million Water Restart Grant Program and her statewide Water Reconnection Executive Order during the COVID-19 pandemic.
 Donavan McKinney is running for Congress to fight for working families, protect union rights, and ensure that every person in the district has a fair shot at a good life.
 His campaign is powered by people, not corporate PACs.
-Follow his campaign on X, Instagram, Facebook, Bluesky, and YouTube.
-- Detroit, Michigan- The Donavan McKinney for Congress campaign today released a new television advertisement, "We Deserve Better," airing beginning June 23rd.
+Follow his campaign on X , Instagram , Facebook , Bluesky , and YouTube .
+Donavan McKinney for Congress Launches New TV Ad, "We Deserve Better" Detroit, Michigan- The Donavan McKinney for Congress campaign today released a new television advertisement, "We Deserve Better," airing beginning June 23rd.
 The 30-second spot highlights Donavan’s accomplishments in the legislature and draws the contrast between us and our opponent, Shri Thanedar, who has voted to thank ICE.
 Donavan McKinney has secured $600 million to replace lead pipes in Michigan and millions for public schools; meanwhile, our opponent has voted to continue to fund ICE and their illegal and immoral actions.
 Voters this fall have the chance to send a real working-class champion to Washington, DC, who will bring home real results and resources to Michigan’s Mighty 13th District.
-Watch it here
-- Progressive U.S.
+Watch it here State Representative Donavan McKinney and Dr.
+Abdul El-Sayed Cross Endorse in Respective Primaries Progressive U.S.
 Senate Candidate Dr.
 Abdul El-Sayed and MI State Rep. and Congressional Candidate Donavan McKinney Endorse Each Other In Respective August 2026 Primary Elections DETROIT, MI – MI State Rep.
 Donavan McKinney’s broad coalition continues to grow with the addition of trailblazing U.S.
@@ -50,7 +50,7 @@ Today, Donavan is getting results for us as State Representative — expanding w
 He credits his career in service to his mother, grandmother, and his surrounding community for coming together to invest in him despite their lack of resources and he wants to ensure Washington does the same for every family in this district.
 Donavan is running for Congress to deliver bold solutions and a New Deal for Detroit and Downriver.
 In Congress, he'll work to lower utility costs, take on price gouging, champion Medicare for All and access to childcare, make housing more affordable, and get big money out of politics.
-- MI State Rep.
+PRESS RELEASE: STATE REP DONAVAN MCKINNEY LAUNCHES CAMPAIGN FOR CONGRESS IN MI-13 MI State Rep.
 Donavan McKinney launches Democratic primary challenge against Detroit’s Elon Musk, multimillionaire Congressman Shri Thanedar DETROIT, MI — Donavan McKinney, Democrat State Representative for Michigan’s 11th State House District, launched his campaign for U.S.
 Congress today in Michigan's 13th Congressional District.
 Rep.
@@ -58,7 +58,7 @@ McKinney is challenging current second-term, multimillionaire Congressman Shri T
 He’s fighting to deliver working class representation to Michigan’s most Democratic district, that brings the urgency its voters are demanding — and failing to get from their current, out-of-touch, ultra-wealthy Congressman, Detroit’s own Elon Musk.
 “I’m not running for Congress because I’m a millionaire or a billionaire.
 I’m running because I’m not.
-I’m running because our community deserves to have someone fighting back against the Trump-Musk administration who knows our struggles of housing insecurity, of wages that haven’t kept up with the cost of living, of environmental racism, and more — someone who has lived those struggles, and will fight for us with the urgency that this moment demands,” said McKinney.
+I’m running because our community deserves to have someone fighting back against the Trump-Musk administration who knows our struggles of housing insecurity, of wages that haven’t kept up with the cost of living, of environmental racism, and more — someone who has lived those struggles, and will fight for us with the urgency that this moment demands,” said McKinney .
 “I’m running for Congress so that you will never have to wonder if your Congressman is fighting for you in Washington.
 You know I will be — and I will always answer the phone for our community, for our kids, for all of us.” Rep.
 McKinney’s announcement was accompanied by a launch video that was a testament to the people of Southeastern Michigan who are the first to be forgotten by bought-and-paid for politicians and their corporate backers, while detailing his commitment to fight back against the Trump-Musk administration with the urgency of someone who has lived through the same struggles that people of this community live through every day.
@@ -79,4 +79,5 @@ His outrageous taxpayer spending on self-promotion is the multimillionaire short
 As if his own millions weren’t enough, Thanedar has also taken money from corporate PACs representing Big Pharma, corporate defense contractors, and local utility monopolies raising prices on everyday people like DTE Energy.
 Thanedar embodies everything wrong with Congress and what voters are fed up with, out-of-touch politicians who cannot be expected to stand up for working class people under attack because their priority is lining the pockets of themselves and their donors.
 As part of the campaign launch, Donavan will host an event this evening alongside friends, neighbors, and supporters at SAY Detroit Play at Lipke Community Center in Detroit.
-For more information/to RSVP, please contact press@donavanforcongress.com.
+For more information/to RSVP, please contact press@donavanforcongress.com .
+To donate by check, please mail to: Donavan McKinney for Congress PO Box 44133 Detroit, MI 48244 Contact the Campaign Press Inquiry Media Volunteer Privacy Policy PAID FOR BY DONAVAN MCKINNEY FOR CONGRESS

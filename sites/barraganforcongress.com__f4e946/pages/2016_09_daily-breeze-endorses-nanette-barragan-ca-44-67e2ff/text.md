@@ -1,15 +1,8 @@
-FOR IMMEDIATE RELEASE
-September 28, 2016
-Contact: Mike Trujillo
-mhtrujillo[at]gmail[dot]com
-818-968-6048
-Daily Breeze Endorses Nanette Barragán in CA-44
-SAN PEDRO, CA – Moving in to the final month of the election, Nanette Barragán is building crucial momentum in the race for California’s 44thdistrict.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next Daily Breeze Endorses Nanette Barragán in CA-44 FOR IMMEDIATE RELEASE September 28, 2016 Contact: Mike Trujillo mhtrujillo[at]gmail[dot]com 818-968-6048 Daily Breeze Endorses Nanette Barragán in CA-44 SAN PEDRO, CA – Moving in to the final month of the election, Nanette Barragán is building crucial momentum in the race for California’s 44 th district.
 Yesterday, she scored a resounding endorsement from the Daily Breeze, the local paper for the cities of the South Bay.
-From the Daily Breeze editorial:
-Citing transportation and environmental policy as among her top concerns, Barragan, an issues and policy-oriented candidate, seeks bipartisan solutions immigration and veterans’ issues and homelessness.
-With her intellect and passion for improving ordinary people’s lives, Barragan has the potential to be not only an effective advocate for the district in Congress but a prominent voice on issues she champions.
-Read the full endorsement here.
+From the Daily Breeze editorial: Citing transportation and environmental policy as among her top concerns, Barragan, an issues and policy-oriented candidate , seeks bipartisan solutions immigration and veterans’ issues and homelessness.
+With her intellect and passion for improving ordinary people’s lives , Barragan has the potential to be not only an effective advocate for the district in Congress but a prominent voice on issues she champions.
+Read the full endorsement here .
 This is the third major editorial endorsement for Nanette Barragán.
 The former councilwoman also earned the support of the Los Angeles Times and the Compton Herald earlier this year.
 Barragán, the daughter of immigrants from Mexico, lives in San Pedro and grew up in Carson and the surrounding areas where she attended Stephen M.
@@ -18,4 +11,7 @@ High School, learned to swim at the Carson Pool, and studied at the Carson Libra
 She worked her way through UCLA and law school at USC before becoming a long-time advocate for the environment and the first elected Latina member of the Hermosa Beach City Council.
 She was also a leader in the fight against Measure O, a ballot measure that would have allowed oil companies to drill for oil in the Santa Monica Bay.
 She currently works with one of Los Angeles’s largest and most prominent children’s advocacy organizations to provide free legal services to children in foster care who have special education needs.
-Find more information here: www.barraganforcongress.com.
+Find more information here: www.barraganforcongress.com .
+Teresa Skala 2016-09-28T11:34:55-07:00 September 28th, 2016 | Endorsements , Nanette Barragán news | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts ICYMI: Our Revolution Backs Nanette Barragán for Congress ICYMI: Our Revolution Backs Nanette Barragán for Congress Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Barragán Neck and Neck With Hall in New CA-44 Poll Barragán Neck and Neck With Hall in New CA-44 Poll Primary Opponent Marcus Musante Endorses Nanette Barragán in CA-44 General Election Primary Opponent Marcus Musante Endorses Nanette Barragán in CA-44 General Election Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

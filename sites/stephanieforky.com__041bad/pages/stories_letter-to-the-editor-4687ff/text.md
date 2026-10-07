@@ -1,7 +1,4 @@
-Letter to the Editor
-Vote White for House District 59
-Dear Editor,
-I first met Stephanie White in 2024, shortly after I was diagnosed with breast cancer.
+0 Skip to Content Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Letter to the Editor Aug 28 Written By Stephanie White Vote White for House District 59 Dear Editor, I first met Stephanie White in 2024, shortly after I was diagnosed with breast cancer.
 Through a mutual friend, Stephanie learned what I was going through.
 After a brief phone call asking if she could come over, she spent several hours sitting with me at my kitchen table, talking with me and holding my hands while I cried.
 As a fellow breast cancer survivor, Stephanie understood firsthand many of the emotions, questions and uncertainties I was facing.
@@ -18,5 +15,5 @@ My perspective on these community challenges comes from being an Oldham County p
 Oldham County faces critical decisions regarding our schools, budgets and public resources.
 We need leaders who lead with their hearts but possess the courage to deliver tangible results.
 Because I know her character when the cameras are off, I fully trust Stephanie White, Ph.D., to bring that exact compassion and fierce determination to the Kentucky House of Representatives.
-Sarah Miller of Prospect
-Sara submitted this to the Oldham Era and it was published here.
+Sarah Miller of Prospect Sara submitted this to the Oldham Era and it was published here .
+Stephanie White Next Next How many people in Oldham County rely on Medicaid?

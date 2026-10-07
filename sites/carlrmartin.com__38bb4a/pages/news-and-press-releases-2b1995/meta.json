@@ -1,7 +1,9 @@
 {
  "description": "News & Press Releases",
  "final_url": "https://www.carlrmartin.com/news-and-press-releases",
- "paid_for_by": null,
+ "fingerprint": "01cfbf5659529b25ccab4ad439223ea5fe2cc839",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News & Press Releases | My Site 29970",
  "years_mentioned": [
   "2020"

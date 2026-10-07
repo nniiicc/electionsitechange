@@ -1,10 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61583412297201",
-"https://instagram.com/jorgeforfl",
-"https://jorgefigueroaforflorida.com/",
-"https://jorgefigueroaforflorida.com/about",
-"https://jorgefigueroaforflorida.com/priorities",
-"https://jorgefigueroaforflorida.com/privacy-policy",
-"https://secure.actblue.com/donate/jorgefigueroa",
-"https://x.com/JorgeforFL"
+{
+"text": "About",
+"href": "https://jorgefigueroaforflorida.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jorgefigueroa"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61583412297201"
+},
+{
+"text": "Home",
+"href": "https://jorgefigueroaforflorida.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jorgeforfl/"
+},
+{
+"text": "Priorities",
+"href": "https://jorgefigueroaforflorida.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://jorgefigueroaforflorida.com/about/"
+},
+{
+"text": "Sign Up",
+"href": "https://jorgefigueroaforflorida.com/#sign-up"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JorgeforFL"
+},
+{
+"text": "[image]",
+"href": "https://jorgefigueroaforflorida.com"
+},
+{
+"text": "[image] Expanding Economic Mobility",
+"href": "https://jorgefigueroaforflorida.com/priorities/#expanding-economic-mobility"
+},
+{
+"text": "[image] Reforming Property Insurance",
+"href": "https://jorgefigueroaforflorida.com/priorities/#reforming-property-insurance"
+},
+{
+"text": "[image] Strengthening Education and Workforce Pathways",
+"href": "https://jorgefigueroaforflorida.com/priorities/#education-workforce-pathways"
+},
+{
+"text": "[image] Tackling Florida’s Affordability Crisis",
+"href": "https://jorgefigueroaforflorida.com/priorities/#tackle-affordability-crisis"
+},
+{
+"text": "privacy policy here",
+"href": "https://jorgefigueroaforflorida.com/privacy-policy"
+}
 ]

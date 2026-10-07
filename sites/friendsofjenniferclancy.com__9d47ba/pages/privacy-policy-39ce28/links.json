@@ -1,17 +1,62 @@
 [
-"http://facebook.com/FriendsOfJenniferClancy",
-"http://instagram.com/friendsofjenniferclancy",
-"https://calendar.google.com/calendar/embed?src=friendsofjenniferclancy%40gmail.com&ctz=America%2FNew_York",
-"https://campaignpartner.com/",
-"https://eepurl.com/jlXiCs",
-"https://forms.gle/PnxwMfdeh5jj5LQ18",
-"https://forms.gle/r2bAcYZ7Z9jcCmbT6",
-"https://friendsofjenniferclancy.com/",
-"https://friendsofjenniferclancy.com/contribute",
-"https://friendsofjenniferclancy.com/home",
-"https://friendsofjenniferclancy.com/issues",
-"https://friendsofjenniferclancy.com/meet_jennifer",
-"https://friendsofjenniferclancy.com/news",
-"https://friendsofjenniferclancy.com/privacy-policy",
-"https://friendsofjenniferclancy.com/vote"
+{
+"text": "Calendar",
+"href": "https://calendar.google.com/calendar/embed?src=friendsofjenniferclancy%40gmail.com&ctz=America%2FNew_York"
+},
+{
+"text": "Contribute",
+"href": "https://friendsofjenniferclancy.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://friendsofjenniferclancy.com/home"
+},
+{
+"text": "Issues",
+"href": "https://friendsofjenniferclancy.com/issues"
+},
+{
+"text": "Meet Jennifer",
+"href": "https://friendsofjenniferclancy.com/meet_jennifer"
+},
+{
+"text": "News",
+"href": "https://friendsofjenniferclancy.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://friendsofjenniferclancy.com/privacy-policy"
+},
+{
+"text": "Questions for Clancy?",
+"href": "https://forms.gle/PnxwMfdeh5jj5LQ18"
+},
+{
+"text": "Volunteer Newsletter",
+"href": "https://eepurl.com/jlXiCs%09"
+},
+{
+"text": "Voter Information",
+"href": "https://friendsofjenniferclancy.com/vote"
+},
+{
+"text": "YARD SIGN REQUEST",
+"href": "https://forms.gle/r2bAcYZ7Z9jcCmbT6"
+},
+{
+"text": "[image: Jennifer Clancy Maryland State Delegate 29A]",
+"href": "https://friendsofjenniferclancy.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/FriendsOfJenniferClancy"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/friendsofjenniferclancy"
+}
 ]

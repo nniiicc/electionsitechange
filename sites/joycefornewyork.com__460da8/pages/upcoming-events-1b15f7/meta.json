@@ -1,7 +1,11 @@
 {
  "description": "Explore upcoming District 49 community events, volunteer opportunities, and local Brooklyn activities with Joyce Xie for a better tomorrow!",
  "final_url": "https://joycefornewyork.com/upcoming-events",
- "paid_for_by": null,
+ "fingerprint": "c9494fc13def6457edfefdab7464abfec060acf6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Upcoming Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

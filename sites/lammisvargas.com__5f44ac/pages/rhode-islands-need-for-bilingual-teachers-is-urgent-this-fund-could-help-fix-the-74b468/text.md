@@ -1,13 +1,13 @@
-Multilingualism is an asset, which Rhode Island law already recognizes.
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted June 24, 2026 Rhode Island’s need for bilingual teachers is urgent.
+This fund could help fix the pipeline, legislators say.
+Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Multilingualism is an asset, which Rhode Island law already recognizes.
 Our schools should, too, write two state legislators in support of a proposed scholarship fund for aspiring teachers.
-By David Morales and Lammis Vargas
-Our Rhode Island public schools stand at a critical crossroads.
+By David Morales and Lammis Vargas Our Rhode Island public schools stand at a critical crossroads.
 We have the fastest-growing population of multilingual learners in the country, yet we are struggling to build the educator workforce needed to serve them.
-The Bilingual, Dual Language, and World Language Teachers Investment Act (H5744/S785) offers a strategic, cost-effective, and long-overdue solution: a scholarship fund to support aspiring teachers seeking Bilingual Dual Language or World Language certification. 00
-Establishing such a fund would further empower multilingual community members and people of color who not only aspire to be educators, but reflect our student population.
+The Bilingual, Dual Language, and World Language Teachers Investment Act (H5744/S785) offers a strategic, cost-effective, and long-overdue solution: a scholarship fund to support aspiring teachers seeking Bilingual Dual Language or World Language certification.
+00 Establishing such a fund would further empower multilingual community members and people of color who not only aspire to be educators, but reflect our student population.
 The Bilingual, Dual Language, and World Language Teachers Investment Act is not just effective policy.
-It’s an urgent necessity
-multilingual educators is broken: This bill helps fix it.
+It’s an urgent necessity multilingual educators is broken: This bill helps fix it.
 Currently, multilingual learners are more likely to live in low-income households, attend underfunded schools, and face structural barriers to success.
 Both of us were children of immigrants in Spanish-speaking households, so we understand the importance of representation in our classrooms.
 We recognize that a sustainable pipeline of certified bilingual educators — especially from multilingual communities — is the only way we will be able to support our multilingual students and expand dual language programs.
@@ -26,3 +26,6 @@ The time for half-measures has passed.
 Rhode Island students deserve access to programs that view their language skills through an asset lens and offer real pathways to success.
 That begins with teachers.
 Let’s pass this bill — and make bilingual education not just a mandate, but a movement.
+You May Also Like Posted June 3, 2026 Dedicated funding for RIPTA is a practical path forward Posted June 19, 2026 Bills gain traction in General Assembly Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

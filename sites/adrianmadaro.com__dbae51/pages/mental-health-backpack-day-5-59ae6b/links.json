@@ -1,38 +1,166 @@
 [
-"http://leahjeanphoto.com/",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/category/education",
-"https://adrianmadaro.com/category/equality",
-"https://adrianmadaro.com/category/general",
-"https://adrianmadaro.com/category/mental-health",
-"https://adrianmadaro.com/category/resources",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://facebook.com/adrianforrep",
-"https://goingclear.com/",
-"https://instagram.com/adrianmadaro",
-"https://instagram.com/jedfoundation",
-"https://instagram.com/namicommunicate",
-"https://instagram.com/thelovelandfoundation",
-"https://instagram.com/translifeline",
-"https://instagram.com/trevorproject",
-"https://jcmh.org/7-ways-to-be-a-mental-health-ally-blog",
-"https://mghclaycenter.org/self-care",
-"https://nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma",
-"https://overdrive.com/apps/libby",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://teenlibrariantoolbox.com/2012/08/top-10-books-dealing-with-mental-illness-guest-post-by-kim-baccellia",
-"https://teenvogue.com/gallery/meditation-apps-to-try-now",
-"https://tiktok.com/@dr.kojosarfo",
-"https://tiktok.com/@drjuliesmith",
-"https://tiktok.com/@lindsay.fleminglpc?referer_url=https%3A%2F%2Fwww.cosmopolitan.com%2F&referer_video_id=6823013965950356741",
-"https://tiktok.com/@theshaniproject",
-"https://twitter.com/adrianmadaro",
-"https://yahighway.com/2014/05/mental-health-in-ya-reading-list.html",
-"https://youtube.com/c/MGHClayCenter/about",
-"https://youtube.com/c/OnOurSleeves",
-"https://youtube.com/c/Psych2go"
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Education",
+"href": "https://www.adrianmadaro.com/category/education/"
+},
+{
+"text": "Equality",
+"href": "https://www.adrianmadaro.com/category/equality/"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "General",
+"href": "https://www.adrianmadaro.com/category/general/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "Latest News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Libby",
+"href": "https://www.overdrive.com/apps/libby/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "List of books dealing with mental health #1",
+"href": "https://www.teenlibrariantoolbox.com/2012/08/top-10-books-dealing-with-mental-illness-guest-post-by-kim-baccellia/"
+},
+{
+"text": "List of books dealing with mental health #2",
+"href": "https://www.yahighway.com/2014/05/mental-health-in-ya-reading-list.html"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.adrianmadaro.com/category/mental-health/"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/category/resources/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "Visit this page",
+"href": "https://www.mghclaycenter.org/self-care/"
+},
+{
+"text": "Visit this page",
+"href": "https://www.teenvogue.com/gallery/meditation-apps-to-try-now"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "ally",
+"href": "https://www.jcmh.org/7-ways-to-be-a-mental-health-ally-blog/"
+},
+{
+"text": "here.",
+"href": "https://www.nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma"
+},
+{
+"text": "https://www.instagram.com/jedfoundation/",
+"href": "https://www.instagram.com/jedfoundation/"
+},
+{
+"text": "https://www.instagram.com/namicommunicate/",
+"href": "https://www.instagram.com/namicommunicate/"
+},
+{
+"text": "https://www.instagram.com/thelovelandfoundation/",
+"href": "https://www.instagram.com/thelovelandfoundation/"
+},
+{
+"text": "https://www.instagram.com/translifeline/",
+"href": "https://www.instagram.com/translifeline/"
+},
+{
+"text": "https://www.instagram.com/trevorproject/",
+"href": "https://www.instagram.com/trevorproject/"
+},
+{
+"text": "https://www.tiktok.com/@dr.kojosarfo",
+"href": "https://www.tiktok.com/@dr.kojosarfo"
+},
+{
+"text": "https://www.tiktok.com/@drjuliesmith",
+"href": "https://www.tiktok.com/@drjuliesmith"
+},
+{
+"text": "https://www.tiktok.com/@lindsay.fleminglpc",
+"href": "https://www.tiktok.com/@lindsay.fleminglpc?referer_url=https%3A%2F%2Fwww.cosmopolitan.com%2F&referer_video_id=6823013965950356741"
+},
+{
+"text": "https://www.tiktok.com/@theshaniproject/",
+"href": "https://www.tiktok.com/@theshaniproject/"
+},
+{
+"text": "https://www.youtube.com/c/MGHClayCenter",
+"href": "https://www.youtube.com/c/MGHClayCenter/about"
+},
+{
+"text": "https://www.youtube.com/c/OnOurSleeves",
+"href": "https://www.youtube.com/c/OnOurSleeves"
+},
+{
+"text": "https://www.youtube.com/c/Psych2go/",
+"href": "https://www.youtube.com/c/Psych2go/"
+}
 ]

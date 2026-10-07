@@ -1,20 +1,82 @@
 [
-"https://citinternational.org/What-is-CIT",
-"https://compassionandchoices.org/our-issues/medical-aid-in-dying",
-"https://decriminalizenature.org/",
-"https://drugtopics.com/view/fda-grants-breakthrough-therapy-designation-to-lsd-based-treatment-for-generalized-anxiety-disorder",
-"https://facebook.com/heuvelman64thdistrict",
-"https://fda.gov/patients/learn-about-expanded-access-and-other-treatment-options/right-try",
-"https://heuvelman64th.com/",
-"https://heuvelman64th.com/about",
-"https://heuvelman64th.com/issues",
-"https://hsrail.org/blog/205b-american-high-speed-rail-act-introduced",
-"https://hsrail.org/blog/attention-michigan-start-building-the-coast-to-coast-line-now",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0499",
-"https://maps.org/",
-"https://michigan.org/biking",
-"https://ptsd.va.gov/professional/treat/txessentials/psychedelics_assisted_therapy.asp",
-"https://pubmed.ncbi.nlm.nih.gov/37927218",
-"https://secure.actblue.com/donate/ken-heuvelman-1",
-"https://strongtowns.org/"
+{
+"text": "About",
+"href": "https://heuvelman64th.com/about/"
+},
+{
+"text": "Coast to Coast Corridor",
+"href": "https://www.hsrail.org/blog/attention-michigan-start-building-the-coast-to-coast-line-now/"
+},
+{
+"text": "Crisis Intervention Teams",
+"href": "https://www.citinternational.org/What-is-CIT"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ken-heuvelman-1"
+},
+{
+"text": "EMAIL",
+"href": "mailto:HEUVELMAN64THDISTRICT@GMAIL.COM"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/heuvelman64thdistrict/"
+},
+{
+"text": "Generalized Anxiety",
+"href": "https://www.drugtopics.com/view/fda-grants-breakthrough-therapy-designation-to-lsd-based-treatment-for-generalized-anxiety-disorder"
+},
+{
+"text": "High Speed Rail Act",
+"href": "https://www.hsrail.org/blog/205b-american-high-speed-rail-act-introduced/"
+},
+{
+"text": "Home",
+"href": "https://heuvelman64th.com/"
+},
+{
+"text": "Issues",
+"href": "https://heuvelman64th.com/issues/"
+},
+{
+"text": "Opioid Use Disorder",
+"href": "https://pubmed.ncbi.nlm.nih.gov/37927218/"
+},
+{
+"text": "PTSD",
+"href": "https://www.ptsd.va.gov/professional/treat/txessentials/psychedelics_assisted_therapy.asp"
+},
+{
+"text": "Right to Try",
+"href": "https://www.fda.gov/patients/learn-about-expanded-access-and-other-treatment-options/right-try"
+},
+{
+"text": "SB 0499",
+"href": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2023-SB-0499"
+},
+{
+"text": "Strong Towns",
+"href": "https://www.strongtowns.org/"
+},
+{
+"text": "[image: Heuvelman for State Representative]",
+"href": "https://heuvelman64th.com/"
+},
+{
+"text": "bicycle trails",
+"href": "https://www.michigan.org/biking"
+},
+{
+"text": "entheogens",
+"href": "https://www.decriminalizenature.org/"
+},
+{
+"text": "medical aid in dying",
+"href": "https://compassionandchoices.org/our-issues/medical-aid-in-dying/"
+},
+{
+"text": "other",
+"href": "https://maps.org/"
+}
 ]

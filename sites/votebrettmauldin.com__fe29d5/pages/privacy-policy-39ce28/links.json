@@ -1,6 +1,38 @@
 [
-"https://facebook.com/MauldinForGA",
-"https://secure.anedot.com/brett-mauldin-for-georgia-inc/donate?exitIntent=true",
-"https://votebrettmauldin.com/",
-"https://votebrettmauldin.com/privacy-policy"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/brett-mauldin-for-georgia-inc/donate?exitIntent=true"
+},
+{
+"text": "Home",
+"href": "https://www.votebrettmauldin.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votebrettmauldin.com"
+},
+{
+"text": "Meet Brett",
+"href": "https://www.votebrettmauldin.com"
+},
+{
+"text": "Privacy",
+"href": "https://www.votebrettmauldin.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votebrettmauldin.com"
+},
+{
+"text": "[image: Brett Mauldin Logo_4x.png]",
+"href": "https://www.votebrettmauldin.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MauldinForGA"
+},
+{
+"text": "brett@votebrettmauldin.com",
+"href": "mailto:brett@votebrettmauldin.com"
+}
 ]

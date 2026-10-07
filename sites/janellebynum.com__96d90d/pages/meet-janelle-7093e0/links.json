@@ -1,12 +1,50 @@
 [
-"http://facebook.com/janelle.bynum",
-"https://designedtorun.com/",
-"https://instagram.com/bynum4thewin",
-"https://janellebynum.com/",
-"https://janellebynum.com/issues",
-"https://janellebynum.com/media-center",
-"https://janellebynum.com/press",
-"https://janellebynum.com/privacy-policy",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true",
-"https://twitter.com/bynum4thewin"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true"
+},
+{
+"text": "Issues",
+"href": "https://www.janellebynum.com/issues"
+},
+{
+"text": "Media Center",
+"href": "https://www.janellebynum.com/media-center"
+},
+{
+"text": "Press",
+"href": "https://www.janellebynum.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janellebynum.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Support Janelle Bynum for Congress]",
+"href": "https://www.janellebynum.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/janelle.bynum"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bynum4thewin"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bynum4thewin"
+},
+{
+"text": "info@janellebynum.com",
+"href": "mailto:info@janellebynum.com"
+},
+{
+"text": "press@janellebynum.com",
+"href": "mailto:press@janellebynum.com"
+}
 ]

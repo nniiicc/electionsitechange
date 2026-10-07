@@ -1,24 +1,19 @@
-Skip navigation menu
-Serving you has always been my dream.
+Skip navigation menu About Issues Volunteer Contact Donate Congress is broken TIME TO REBUILD IT About Issues Volunteer Contact Donate Congress is broken TIME TO REBUILD IT Serving you has always been my dream.
 I'm a 27yr old mother and working-class candidate running for Congress because WE NEED representation.
 There has been a lack of new, bold, and transparent government and leadership in politics.
-Our so-called leaders make careers out of being politicians instead of being passionate and prideful public service members.
+The Mota-Reynoso Family Our so-called leaders make careers out of being politicians instead of being passionate and prideful public service members.
 For too long, they have remained silent, complacent, and compromised to the issues that affect their constituents.
 And, have sold their souls to money and special interests like private equity investors.
 That's why I'm running.
 To break barriers built by those meant to lead, not bar.
 I will be a builder of bridges by bettering accessibility, affordability, and equity in politics to increase participation, foster trust, and to reduce corruption and abuse of power.
-As your congresswomen, I pledge to advocate for community-funding and generate policies and legislation that undo the betrayal that have left our communities, neighborhoods, and nation abandoned and broken.
-a timeline of
-Sams’s Life & Achievements
-I'm not a career politician.
+As your congresswomen, I pledge to advocate for community-funding and generate policies and legislation that undo the betrayal that have left our communities, neighborhoods, and nation abandoned and broken. a timeline of Sams’s Life & Achievements I'm not a career politician.
 I am a community member advocating for all.
-Appointed to Santa Monica's Public Safety Reform & Oversight Commission
-Received Premio de Orgullo Award by City of Santa Monica's Hispanic Heritage Month Committee
+Sep 1998 Sam was born Jan 2021 Appointed to Santa Monica's Public Safety Reform & Oversight Commission Oct 2021 Received Premio de Orgullo Award by City of Santa Monica's Hispanic Heritage Month Committee Aug 2022 Santa Monica City Council Candidate 2025 Here we are.
+No more activist burnout.
 Hi, I'm Sam.
 I was born and raised in the County of Los Angeles in a rent-controlled unit.
-I grew up in a single-family household where my family relied on WIC and SNAP benefits, medicaid, and other programs to survive
-I wasn't always into politics until high school.
+I grew up in a single-family household where my family relied on WIC and SNAP benefits, medicaid, and other programs to survive I wasn't always into politics until high school.
 My environmental and U.S. history teacher got me aware, engaged and interested towards the path of activism: to be a strong, passionate contender in the world of injustice.
 After I graduated, I attended Santa Monica College for Political Science where I was sat in front of a screen and told to analyze political movies.
 I was 18 at the time and knew I could do more in the community I love and grew up in.
@@ -30,7 +25,7 @@ And, that is where my activism began.
 Then, it flourished into championing for the City of Santa Monica to incorporate Assembly Bill 551 into their ordinances to enhance resilience through local food production and reduction of waste.
 Through this, we were able to get the City Lobbyist to support the bill and move it forward to a vote for implementation.
 Because of my advocacy, the community nominated me as the recipient of the Premio de Orgullo Award for Hispanic Heritage Month for expanding urban agriculture in our communities.
-I later became a Commissioner of the Santa Monica Public Safety and Reform Oversight Commission where our role was to review and propose new law enforcement reforms and policies.
+I later became a Commissioner of the Santa Monica Public Safety and Reform Oversight Commission where our role was to review and propose new law enforcement reforms and policies .
 It was created in the wake of national and community-wide calls for racial justice, and during the killings of George Floyd, Breonna Taylor, and too many others.
 Our first task was to examine, discuss, and assess the OIR Group Report/Findings and SMPD response concerning the May 31, 2020 events.
 The overall goal was to better assert civilian, democratic authority over the police department and to develop a professional and independent relationship with SMPD.
@@ -43,14 +38,4 @@ The Representatives of this community have left it mismanaged and neglected and 
 That is why I'm running, because we NEED a new and fierce voice who will fix our government and leadership to ensure the issues locally and nationally are addressed and resolved.
 Not a politician who will claim to be for the people but back stab them by taking money from from special interests.
 I could never and would never sell my soul for some cash all the while leaving the people in the dust and never building a bridge to build our communities, neighborhoods and nation.
-Campaign Media
-Our Gallery
-Sep 1998
-Sam was born
-Jan 2021
-Oct 2021
-Aug 2022
-Santa Monica City Council Candidate
-2025
-Here we are.
-No more activist burnout.
+Campaign Media Our Gallery hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

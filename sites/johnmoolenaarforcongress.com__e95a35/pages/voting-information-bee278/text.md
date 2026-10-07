@@ -1,1 +1,2 @@
-learn everything you need to know ahead of november 3rd Michigan Voting Information Countdown To Election Day!
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE learn everything you need to know ahead of november 3rd Michigan Voting Information Countdown To Election Day!
+DONATE Paid for by Moolenaar for Congress Privacy Policy

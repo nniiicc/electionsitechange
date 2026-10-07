@@ -1,32 +1,11 @@
-Lon Pishny
-For Kansas House District 122
-Throughout my adult life, I have focused on serving others, whether it was during my professional life as a financial advisor or through our church and community volunteer efforts.
+Home About Donate Contact | Volunteer Select Page Lon Pishny For Kansas House District 122 Throughout my adult life, I have focused on serving others, whether it was during my professional life as a financial advisor or through our church and community volunteer efforts.
 I am not pursuing this public office because I have an axe to grind or I am promoting a special interest agenda.
 I definitely am not seeking publicity, nor am I in need of a resume builder.
-Vision, Issues, & Values
-In My Efforts to Lead and Serve Our Community, I Have Been a Trusted:
-- Financial advisor/counselor
-- Volunteer for church
-- County commissioner
-- Community college trustee
-- Advocate for businesses, especially those owned by families
-I Believe the Wisdom I Have Gained With My Local Government Experiences Is Needed to Govern in Topeka:
-- Fiscal conservatism
-- Transparency
-- Support for basic services that the government is uniquely required to provide
-My Personal Priorities Are:
-- Faith in God and His timeless Biblical truths/instructions
-- Focus upon family harmony
-- Cultivating relationships with others
-- Sound financial stewardship
-- Small business and agriculture interests
-The Leadership Our State Needs Right Now
-Meet Lon
-As a resident of western Kansas since 1967, a longtime small business owner and current Finney County Commissioner, Lon Pishny, is seeking the Republican nomination for District 122 in the Kansas House of Representatives.
+Contribute Follow Vision, Issues, & Values In My Efforts to Lead and Serve Our Community, I Have Been a Trusted: Financial advisor/counselor Volunteer for church County commissioner Community college trustee Advocate for businesses, especially those owned by families I Believe the Wisdom I Have Gained With My Local Government Experiences Is Needed to Govern in Topeka: Fiscal conservatism Transparency Support for basic services that the government is uniquely required to provide My Personal Priorities Are: Faith in God and His timeless Biblical truths/instructions Focus upon family harmony Cultivating relationships with others Sound financial stewardship Small business and agriculture interests The Leadership Our State Needs Right Now Meet Lon As a resident of western Kansas since 1967, a longtime small business owner and current Finney County Commissioner, Lon Pishny, is seeking the Republican nomination for District 122 in the Kansas House of Representatives.
 The district includes all of Hodgeman and Kearny counties, the western part of Pawnee County (including the cities of Burdett, Garfield, and Rozel), two townships in Edwards County, and the rural part of Finney County (including the cities of Holcomb and Pierceville, as well as a portion of the city of Garden City) in southwest Kansas.
 With bachelor’s and master’s degrees from Fort Hays State University (FHSU), Pishny’s career included stints as a reporter for the Hays Daily News, editor of the Kansas Farm Bureau News, Sports Information Director for the FHSU Athletic Department and Development Fund Director for the FHSU Endowment Association (now Foundation).
 In 1979, he transitioned into financial services, initially specializing in insurance and mutual funds, then as a bank trust officer, and ultimately as a financial advisor/counselor.
 He owned Pishny Financial Services.
 L.C. from 1994 through 2020.
 Pishny reflected on why he is pursuing running for a state public service office, “As I have retired from the professional chapter of my life, I now have more time to give back to our community in various ways.” He continued, “My work and community service – whether it be through Church, County Commission, Community College, Chamber of Commerce, or other previous and current endeavors – has equipped me to be responsive, govern efficiently, and serve effectively.
-I look forward to working with and serving, southwest Kansans in an effort to expand our economic opportunities, make government work well for every Kansan, and enhance the quality of life in western Kansas.”
+I look forward to working with and serving, southwest Kansans in an effort to expand our economic opportunities, make government work well for every Kansan, and enhance the quality of life in western Kansas.” Learn More News & Updates Volunteer Paid for by Pishny for Kansas House, Jacque Timson, Treasurer

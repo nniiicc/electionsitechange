@@ -1,18 +1,16 @@
-El Problema
-En 2021, la legislatura de Ohio aprobó el Plan de Financiamiento Escolar Justo Cupp-Patterson, por unanimidad, como solución bipartidista a décadas de financiamiento escolar inconstitucional.
+Baker को लागि Ohio Sobre Mí कार्यक्रम समर्थन Announcements इभेन्टहरू सहभागी हुनुस् स्वयंसेवक यार्ड साइन सम्पर्क Donate EN ES SO NE Sobre Mí कार्यक्रम समर्थन Announcements इभेन्टहरू सहभागी हुनुस् स्वयंसेवक यार्ड साइन सम्पर्क Donate ← कार्यक्रममा फर्कनुस् प्राथमिकता 02 Financiando la Educación Pública El propio Tribunal Supremo de Ohio declaró el sistema de financiamiento escolar inconstitucional, y décadas después, todavía no se ha corregido.
+Stacie Baker luchará para terminar el trabajo y dar a cada niño del Distrito 3 una educación de clase mundial.
+8,000+ Estudiantes en las Escuelas de la Ciudad de Reynoldsburg Décadas Desde que DeRolph v.
+State ordenó la reforma, aún incompleta #1 Tema que las familias del Distrito 3 consideran más importante El Problema En 2021, la legislatura de Ohio aprobó el Plan de Financiamiento Escolar Justo Cupp-Patterson, por unanimidad, como solución bipartidista a décadas de financiamiento escolar inconstitucional.
 Fue un momento histórico.
 Luego el estado no lo implementó completamente.
 Las comunidades de Ohio como Reynoldsburg siguen operando escuelas bajo un sistema que depende de impuestos locales sobre la propiedad porque el estado no paga lo que debe.
 Al mismo tiempo, la expansión de cupones de Ed Choice está drenando activamente los presupuestos de las escuelas públicas, redirigiendo el dinero de los contribuyentes a escuelas privadas y religiosas con poca supervisión o responsabilidad.
 Las escuelas públicas se ven obligadas a hacer más con menos mientras los estudiantes que más las necesitan pagan el precio.
-Stacie को योजना
-- Financiar completamente el Plan de Financiamiento Escolar Justo Cupp-Patterson de 2021: aprobado por unanimidad, ahora el estado debe honrar ese compromiso
-- Oponerse a la Expansión de Ed Choice: Stacie lo llama un arma para desfinanciar la educación pública y canalizar el dinero de los contribuyentes a escuelas privadas sin responsabilidad
-- Cuando el estado financia adecuadamente la educación pública, los propietarios locales pagan menos impuestos escolares: el financiamiento educativo también es un tema de impuesto predial
-- Invertir en el pago de maestros y recursos de aula para que las Escuelas de Reynoldsburg puedan reclutar y retener a los educadores que sus 8,000+ estudiantes merecen
-- Ampliar el acceso a programas de alfabetización temprana y educación técnico-profesional para conectar a los estudiantes con trabajos bien remunerados
-यो Stacie का लागि किन महत्त्वपूर्ण छ
-Stacie Baker es producto de la educación pública y graduado de Ohio State University.
-Ha visto a las Escuelas de Reynoldsburg luchar por recursos adecuados año tras año, y ha visto de primera mano cómo las escuelas subfinanciadas repercuten en las comunidades, afectando la seguridad pública, la participación laboral y la estabilidad familiar.
-Él cree que el estado hizo una promesa cuando aprobó Cupp-Patterson por unanimidad, y romper esa promesa daña a cada niño del Distrito 3.
+Stacie को योजना Financiar completamente el Plan de Financiamiento Escolar Justo Cupp-Patterson de 2021 : aprobado por unanimidad, ahora el estado debe honrar ese compromiso Oponerse a la Expansión de Ed Choice : Stacie lo llama un arma para desfinanciar la educación pública y canalizar el dinero de los contribuyentes a escuelas privadas sin responsabilidad Cuando el estado financia adecuadamente la educación pública, los propietarios locales pagan menos impuestos escolares : el financiamiento educativo también es un tema de impuesto predial Invertir en el pago de maestros y recursos de aula para que las Escuelas de Reynoldsburg puedan reclutar y retener a los educadores que sus 8,000+ estudiantes merecen Ampliar el acceso a programas de alfabetización temprana y educación técnico-profesional para conectar a los estudiantes con trabajos bien remunerados यो Stacie का लागि किन महत्त्वपूर्ण छ Stacie Baker es producto de la educación pública y graduado de Ohio State University.
+Ha visto a las Escuelas de Reynoldsburg luchar por recursos adecuados año tras año, y ha visto de primera mano cómo las escuelas subfinanciadas repercuten en las comunidades, afectando la seguridad pública, la participación laboral y la estabilidad familiar. Él cree que el estado hizo una promesa cuando aprobó Cupp-Patterson por unanimidad, y romper esa promesa daña a cada niño del Distrito 3.
 En el Senado de Ohio, Stacie hará que el estado rinda cuentas ante su propia ley y protegerá la educación pública de mayor privatización.
+"La legislatura aprobó Cupp-Patterson por unanimidad.
+Ahora financíenlo.
+Y la expansión de Ed Choice es un arma contra las escuelas públicas, lo combatiré en cada paso del camino." Stacie Baker समर्थित Ohio Democratic Party Franklin County Democratic Party Sheet Metal Workers Local Union #24 AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 Ohio Federation of Teachers OCSEA / AFSCME Local 11 Ohio AFL-CIO Central Ohio Labor Council Columbus/Central Ohio Building & Construction Trades Council Brotherhood of Locomotive Engineers and Trainmen (Ohio State Legislative Board) Ohio Environmental Council Action Committee Hilliard Democrats Baptist Ministerial Alliance of Greater Columbus नोभेम्बर ३ मा Stacie को साथ दिनुस् आम चुनावमा हरेक मत डिस्ट्रिक्ट ३ का बालबालिकाहरूको लागि मत हो। अहिले दान गर्नुस् सहभागी हुनुस् Pagado por Citizens For Baker • © # Todos los Derechos Reservados • P.O.
+Box, Reynoldsburg, OH 43068

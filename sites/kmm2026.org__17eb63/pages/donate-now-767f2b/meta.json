@@ -1,7 +1,23 @@
 {
  "description": "Kevin McCormick for Lieutenant Governor donation form",
  "final_url": "https://www.kmm2026.org/donate-now",
- "paid_for_by": null,
+ "fingerprint": "d8f4eefb06641d7b8327cb113276a9e4bb67eeda",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Donations",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026",
+  "2027",
+  "2028",
+  "2029",
+  "2030",
+  "2031",
+  "2032",
+  "2033",
+  "2034",
+  "2035",
+  "2036",
+  "2037"
+ ]
 }

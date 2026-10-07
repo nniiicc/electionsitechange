@@ -1,4 +1,28 @@
-Campaign Attorneys Issue Cease-and-Desist Demand Regarding “Demonstrably False” Dark Money Ad
-Issaquah, WA, September 7, 2018 – Top campaign law attorneys for Dr.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer News: Page 9 Campaign Attorneys Issue Cease-and-Desist Demand Regarding “Demonstrably False” Dark Money Ad Issaquah, WA, September 7, 2018 – Top campaign law attorneys for Dr.
 Kim Schrier’s campaign have sent a cease-and-desist letter to Seattle area TV stations ...
-Read more
+Read more SHARE: League of Conservation Voters Action Fund Endorses Dr.
+Kim Schrier in WA-08 Issaquah, WA, August 27, 2018 – League of Conservation Voters Action Fund today announced its endorsement of Dr.
+Kim Schrier in Washington’s 8th Congressional District. ...
+Read more SHARE: Dr.
+Kim Schrier Challenges Dino Rossi to Three General Election Debates Issaquah, WA, August 23, 2018 – Dr.
+Kim Schrier has challenged Dino Rossi to three hour-long debates before the November election.
+Dr.
+Schrier’s challenge comes ...
+Read more SHARE: End Citizens United Endorses Dr.
+Kim Schrier From End Citizens United: Washington, D.C. ‑ End Citizens United (ECU) today endorsed seven candidates running for the U.S.
+House, all of whom support and ...
+Read more SHARE: Dr.
+Kim Schrier Primary Election Night Speech Thank you – I am so grateful to everyone here and to everyone across the 8th District who contributed their time and their financial support ...
+Read more SHARE: Rossi Hides from Voters… Again.
+Issaquah, WA, July 31, 2018 – Without explanation, Dino Rossi’s campaign backed out of his commitment to participate in a candidate forum hosted by the ...
+Read more SHARE: Dr.
+Kim Schrier: I’ll take on the drug companies and the insurers I’ll take on the drug companies and the insurers that jack up costs.
+I did it every day for my patients, and I’ll do the same for you in Congress.
+Read more SHARE: Dr.
+Kim Schrier Doubles Down on Healthcare in First Two Ads + Comprehensive Reform Proposal “I’m taking our fight to Congress to stop Trump’s attacks on our healthcare, to make prescription drugs more affordable, to protect Medicare and let everyone ...
+Read more SHARE: Dr.
+Kim Schrier Challenges Dino Rossi to Debate Issaquah, WA, June 29, 2018 – Dr.
+Kim Schrier, the leading Democrat in Washington’s 8th Congressional District, released the following statement challenging her Republican opponent ...
+Read more SHARE: Associated Press: Border separations ripple through midterm campaigns Wrenching scenes of migrant children being separated from their parents at the southern border are roiling campaigns ahead of midterm elections, emboldening Democrats on the ...
+Read more SHARE: « Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 Next » About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

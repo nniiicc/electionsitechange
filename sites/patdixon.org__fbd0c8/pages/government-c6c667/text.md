@@ -1,10 +1,9 @@
-These are links to my involvement with government entities:
-- I am a candidate for Governor of Texas in 2026
-- I was twice elected to city council in Lago Vista, Texas (2005 – 2010).
-An archive of my activities can be found at http://patdixon.org/lv_council.html
-- I was a candidate for Texas Senate district 14 in 2020.
-My campaign web page is http://logic14.org/
-- I served for 10 years as chair of the Libertarian Party of Texas (http://www.lptexas.org/).
-I authored a book “Primary Screenout” about that experience, as well as a book about leadership “Leading like a Libertarian” which can be found at http://amazon.com/author/pdixon
-- In 2018 there was an effort by conservatives to overtake the Libertarian Party of Texas.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Government Government These are links to my involvement with government entities: I am a candidate for Governor of Texas in 2026 I was twice elected to city council in Lago Vista, Texas (2005 – 2010).
+An archive of my activities can be found at http://patdixon.org/lv_council.html I was a candidate for Texas Senate district 14 in 2020.
+My campaign web page is http://logic14.org/ I served for 10 years as chair of the Libertarian Party of Texas ( http://www.lptexas.org/ ).
+I authored a book “Primary Screenout” about that experience, as well as a book about leadership “Leading like a Libertarian” which can be found at http://amazon.com/author/pdixon In 2018 there was an effort by conservatives to overtake the Libertarian Party of Texas.
 I created http://www.keepthepartylibertarian.org to oppose this effort, and we prevailed.
+Being sworn into office for Lago Vista city council, 2005 Presiding as chair of Libertarian Party of Texas state convention in Temple, TX in 2014 Comments are closed.
+Powered by Nirvana & WordPress.

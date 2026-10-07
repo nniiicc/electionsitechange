@@ -1,8 +1,5 @@
-← All events
-TEAM JAMIE DAVIS-WEEKLY NEW VOLUNTEER TRAINING-ST.
-TAMMANY PARISH
-- Where
-- Liberty Oaks · Slidell · LA
-About this event
-## 👋 New to the Campaign?
-Start Here! **Get trained, get connected, and get your first assignment on the Northshore.** 🌟 --- 📍 **Location:** Liberty Oaks 58090 Liberty Oaks Ln., Slidell, LA 70460 👤 **Contact:** Lindsey Millington 📧 [[email protected]](mailto:[email protected])
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events TEAM JAMIE DAVIS-WEEKLY NEW VOLUNTEER TRAINING-ST.
+TAMMANY PARISH Available times Wednesday, Sep 23, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab) Wednesday, Sep 30, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 7, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 14, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 21, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab) Wednesday, Oct 28, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab) Where Liberty Oaks · Slidell · LA About this event ## 👋 New to the Campaign?
+Start Here! **Get trained, get connected, and get your first assignment on the Northshore.** 🌟 --- 📍 **Location:** Liberty Oaks 58090 Liberty Oaks Ln., Slidell, LA 70460 👤 **Contact:** Lindsey Millington 📧 [ [email protected] ](mailto: [email protected] ) RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

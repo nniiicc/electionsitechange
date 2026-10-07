@@ -1,7 +1,4 @@
-We must do whatever we can to get rising healthcare premiums under control and ensure that every Vermonter has access to affordable healthcare.
-housing for all
-The housing crisis is hitting rural communities like ours especially hard.
-We must ensure that housing in our communities is affordable and that we're able to build new housing so that our kids can afford to live, work, and start families here.
-protect and improve public education
-My kids went to Vermont public schools and got world-class educations.
+Skip navigation menu About Issues Endorsements Volunteer News Donate About Issues Endorsements Volunteer News Donate learn more about TANYA'S POLICY PRIORITIES TACKLE HEALTHCARE COSTS housing for all protect and improve public education TACKLE HEALTHCARE COSTS We must do whatever we can to get rising healthcare premiums under control and ensure that every Vermonter has access to affordable healthcare. housing for all The housing crisis is hitting rural communities like ours especially hard.
+We must ensure that housing in our communities is affordable and that we're able to build new housing so that our kids can afford to live, work, and start families here. protect and improve public education My kids went to Vermont public schools and got world-class educations.
 State government should be investing in and supporting rural schools, students, teachers, and communities.
+Get in touch: tanya@bykerforvermont.com Powered by RUN! website builder Paid for by Byker for Vermont, 3372 Route 30, Cornwall, VT 05753 You need to enable JavaScript to run this app.

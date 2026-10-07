@@ -1,9 +1,4 @@
-Voter Information
-Make your voice heard this election season.
-Whether you are registering for the first time, updating your information, or checking your registration status, these resources can help you get ready to vote in Illinois.
-🗳️ Register to Vote
-✔️ Check Your Voter Registration
-📍 Find Your Polling Place
-🏛️ Find Your Elected Officials
-Find My Elected Officials (District Locator)
-Voting is one of the most important ways to stay involved in your community and help shape the future of Illinois.
+0 Skip to Content Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Folder: Meet Dave Back Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Voter Information Make your voice heard this election season.
+Whether you are registering for the first time, updating your information, or checking your registration status, these resources can help you get ready to vote in Illinois. 🗳️ Register to Vote Register to Vote in Illinois ✔️ Check Your Voter Registration Check Registration Status 📍 Find Your Polling Place Illinois Polling Place Lookup 🏛️ Find Your Elected Officials Find My Elected Officials (District Locator) Voting is one of the most important ways to stay involved in your community and help shape the future of Illinois.
+Home Meet Dave Issues & Core Values Donate Contact Me Phone: (815) 914-5108 Email: Iori@syversonforsenate.com 527 Colman Center Drive | Cherry Valley, IL, United States, 61108 A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Paid for by Syverson for Senate. © # All Rights Reserved.

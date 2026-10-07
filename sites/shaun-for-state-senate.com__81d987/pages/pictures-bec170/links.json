@@ -1,19 +1,78 @@
 [
-"https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000001347-high.jpg?enable-io=true&fit=bounds&width=1200&height=600",
-"https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000005509-high.jpg?enable-io=true&fit=bounds&width=1200&height=600",
-"https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000009748-high.png?enable-io=true&fit=bounds&width=1200&height=600",
-"https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000010084-high.jpg?enable-io=true&fit=bounds&width=1200&height=600",
-"https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000011761-high.jpg?enable-io=true&fit=bounds&width=1200&height=600",
-"https://shaun-for-state-senate.com/",
-"https://shaun-for-state-senate.com/bio",
-"https://shaun-for-state-senate.com/donations",
-"https://shaun-for-state-senate.com/endorsements",
-"https://shaun-for-state-senate.com/other-priorities",
-"https://shaun-for-state-senate.com/pictures",
-"https://shaun-for-state-senate.com/policies",
-"https://shaun-for-state-senate.com/priorities-page-2",
-"https://shaun-for-state-senate.com/stances",
-"https://shaun-for-state-senate.com/why-i-m-a-better-choice",
-"https://shaun-for-state-senate.com/winred",
-"https://webador.com/"
+{
+"text": "Bio",
+"href": "https://www.shaun-for-state-senate.com/bio"
+},
+{
+"text": "Donations",
+"href": "https://www.shaun-for-state-senate.com/donations"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shaun-for-state-senate.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.shaun-for-state-senate.com/"
+},
+{
+"text": "Other priorities",
+"href": "https://www.shaun-for-state-senate.com/other-priorities"
+},
+{
+"text": "Pictures",
+"href": "https://www.shaun-for-state-senate.com/pictures"
+},
+{
+"text": "Policies",
+"href": "https://www.shaun-for-state-senate.com/policies"
+},
+{
+"text": "Priorities page 2",
+"href": "https://www.shaun-for-state-senate.com/priorities-page-2"
+},
+{
+"text": "Shaun for State Senate",
+"href": "https://www.shaun-for-state-senate.com/"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.shaun-for-state-senate.com/pictures#main-content"
+},
+{
+"text": "Stances",
+"href": "https://www.shaun-for-state-senate.com/stances"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "Why I'm a better choice",
+"href": "https://www.shaun-for-state-senate.com/why-i-m-a-better-choice"
+},
+{
+"text": "Winred",
+"href": "https://www.shaun-for-state-senate.com/winred"
+},
+{
+"text": "[tooltip: 1000001347-standard.jpg]",
+"href": "https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000001347-high.jpg?enable-io=true&fit=bounds&width=1200&height=600"
+},
+{
+"text": "[tooltip: 1000005509-standard-y6csnx.jpg]",
+"href": "https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000005509-high.jpg?enable-io=true&fit=bounds&width=1200&height=600"
+},
+{
+"text": "[tooltip: 1000009748-standard.png]",
+"href": "https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000009748-high.png?enable-io=true&fit=bounds&width=1200&height=600"
+},
+{
+"text": "[tooltip: 1000010084-standard.jpg]",
+"href": "https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000010084-high.jpg?enable-io=true&fit=bounds&width=1200&height=600"
+},
+{
+"text": "[tooltip: 1000011761-standard.jpg]",
+"href": "https://primary.jwwb.nl/public/g/u/i/temp-plebopkelsghxapxdnsm/1000011761-high.jpg?enable-io=true&fit=bounds&width=1200&height=600"
+}
 ]

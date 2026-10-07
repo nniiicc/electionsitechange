@@ -1,7 +1,5 @@
-Meet darrin
-Sen.
-Camilleri is a father of two, teacher & public servant serving Downriver in the Michigan State Senate
-State Senator Darrin Camilleri is currently serving his first term in Michigan’s State Senate after serving three successful terms in the state house, where he was one of the youngest members in recent state history.
+0 Skip to Content Meet Darrin Priorities Events Endorsements News & Media Media Toolkit GET INVOLVED Volunteer Request a Yard Sign Donate Open Menu Close Menu Meet Darrin Priorities Events Endorsements News & Media Media Toolkit GET INVOLVED Volunteer Request a Yard Sign Donate Open Menu Close Menu Meet Darrin Priorities Events Endorsements Folder: News & Media Back Media Toolkit Folder: GET INVOLVED Back Volunteer Request a Yard Sign Donate Meet darrin Sen.
+Camilleri is a father of two, teacher & public servant serving Downriver in the Michigan State Senate State Senator Darrin Camilleri is currently serving his first term in Michigan’s State Senate after serving three successful terms in the state house, where he was one of the youngest members in recent state history.
 In the Senate, he holds the position of Assistant Majority Leader and chairs the PreK-12 School Aid Budget.
 He also serves as Vice-Chair of the Labor Committee and is a member of the Appropriations, Energy, and Transportation Committees, among others.
 His district includes seventeen communities within Downriver and Western Wayne County, including his hometown of Brownstown Township, and the City of Trenton, where he lives with his wife.
@@ -16,3 +14,7 @@ A first-generation college graduate, Sen.
 Camilleri earned his bachelor's degree from Kalamazoo College, where he served as student body president.
 After college, Darrin worked as a high school social studies teacher in Southwest Detroit before being elected to the State House and Senate.
 He and his wife, Lama, are homeowners in Trenton.
+Read about Sen.
+Camilleri's priorities ➜ Contact: info@darrincamilleri.com PO Box 818 Trenton, MI 48183 Political donations are not tax exempt. donate ➜ Copyright © #.
+All rights reserved.
+Paid for by Darrin Camilleri for State Senate PO Box 818, Trenton, MI 48183

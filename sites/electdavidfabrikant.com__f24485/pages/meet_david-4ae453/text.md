@@ -1,5 +1,4 @@
-Meet David
-I am a 51 year old economics attorney, with two teenage children.
+Meet David Issues News Volunteer Contribute Meet David I am a 51 year old economics attorney, with two teenage children.
 I was born and raised in South Florida.
 My wife created the Employee Wellness Program for the St.
 Lucie County School District, and currently runs the Employee Wellness Program for Palm Beach County Schools.
@@ -16,3 +15,4 @@ They have gotten the news media and social media to lie for them, all in an effo
 I want to bring truth and responsibility back to our government.
 I have 7 proposed changes to the law, which will protect the people and hold the government responsible, and enable the United States to regain its status as the leader of the free world.
 I believe this starts with Empathy and Common Sense Solutions.
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com - Political Websites Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

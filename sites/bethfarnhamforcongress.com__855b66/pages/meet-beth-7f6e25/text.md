@@ -1,10 +1,10 @@
-Dear Voter,
-As your candidate, I am honored and privileged to run again for the office of US Representative for Pennsylvania’s 13th Congressional District.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Meet Beth Dear Voter, As your candidate, I am honored and privileged to run again for the office of US Representative for Pennsylvania’s 13th Congressional District.
 It means everything to me to be a voice in Congress for our precious Democracy, Reproductive Freedom, Affordability, Gun Safety, Public Education, Universal Healthcare, Immigration Reform, the Environment, and more.
 And it all begins with representation that is real and accessible.
 I’m not some multi-millionaire, but a stay-at-home parent, ready to return to the paid workforce.
 This position has afforded me the ability to meet with voters like you across our stunningly beautiful district in the counties of Adams, Franklin, Fulton, Bedford, Cambria, Blair, Huntingdon, Mifflin, Juniata, Perry, Cumberland, and Somerset and I have the tremendous support of my family, starting with my husband, Rob.
-Rob and I married at Gettysburg Presbyterian Church almost 20 years ago and settled in Adams County, where we bought our home and are raising our children who attend the local public schools.
+Rob and I married at Gettysburg Presbyterian Church almost #ago and settled in Adams County, where we bought our home and are raising our children who attend the local public schools.
 We also grew together in our political journey from bumbling Republicans who didn’t really pay attention to the issues to the dedicated Democrats we are today.
 We raise our children to recognize that “All…are created EQUAL,” that when we realize each other’s right to “life, liberty, and the pursuit of happiness,” we love our neighbors as ourselves.
 Our exuberant dog and loud, fluffy cat round out our energetic family.
@@ -29,5 +29,8 @@ I am building upon those votes, continuing to knock on doors, call voters, hold 
 My team is growing bigger, stronger, faster, so please join us if you would like to help make this 2026 win happen.
 In the most important election of our lives, I ask you to please #ChooseDemocracy and vote for me, Beth Farnham, to represent us.
 A vote for me is a vote for the American ideals of individual worth, equal rights, liberty, enfranchisement, and majority rule, once promised by the Revolutionary Founders, improved by the marching generations, and manifested in you.
-Sincerely,
-Beth
+Sincerely, Beth click here to Meet team beth farnham for congress!
+Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Subscribe Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

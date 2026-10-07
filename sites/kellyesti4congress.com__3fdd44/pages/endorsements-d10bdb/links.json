@@ -1,9 +1,34 @@
 [
-"https://kellyesti4congress.com/",
-"https://kellyesti4congress.com/about-9",
-"https://kellyesti4congress.com/contact",
-"https://kellyesti4congress.com/endorsements",
-"https://kellyesti4congress.com/photos-videos",
-"https://kellyesti4congress.com/privacy-policy",
-"https://kellyesti4congress.com/terms-services"
+{
+"text": "About Kelly",
+"href": "https://www.kellyesti4congress.com/about-9"
+},
+{
+"text": "Click HERE to submit an endorsement pledge to vote for Dr. Kelly Esti",
+"href": "mailto:KellyEsti4Congress@gmail.com?subject=I+would+like+to+endorse+Dr.+Kelly+Esti%21"
+},
+{
+"text": "Contact",
+"href": "https://www.kellyesti4congress.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellyesti4congress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kellyesti4congress.com"
+},
+{
+"text": "Photos & Videos",
+"href": "https://www.kellyesti4congress.com/photos-videos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kellyesti4congress.com/privacy-policy"
+},
+{
+"text": "Terms & Services",
+"href": "https://www.kellyesti4congress.com/terms-services"
+}
 ]

@@ -1,5 +1,4 @@
-Dwindling rights of women in Florida
-We, as Americans, love and enjoy our freedom.
+top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE Dwindling rights of women in Florida Jan 2 5 min read We, as Americans, love and enjoy our freedom.
 Many have fought for these freedoms on the battlefields, the streets, and the halls of Congress.
 Unfortunately, some of the freedoms that have been won to those that have been excluded, such as people who had been enslaved and women, are being eroded by extremist political actors.
 In this episode of Perspective, we will focus on the Abortion Ban that was passed by the Florida legislature this year and how it rolls back the rights and freedom of women in our community.
@@ -46,3 +45,14 @@ Otherwise, mind your business.
 Even prominent Catholics, such as President Joe Biden, support abortion care because they believe in religious freedom, freedom means you do not owe anyone an explanation for your private medical decisions.
 Therefore, let's leave decisions on abortion to women and their health care providers.
 Watch my episode of Perspective on Lee Pitts Live on this topic.
+Recent Posts See All Fort Myers Has a Poop Problem.
+Growth Is a central issue.
+7 Florida Laws That Took Effect October 1 Florida’s Workplace Death Problem: The Workers Who Don’t Come Home CINDY BANYAI Subscribe to my newsletter EMAIL * SUBMIT Yes, subscribe me to your newsletter. * Help Take Back Tally FIRST NAME * LAST NAME * EMAIL * CHOOSE YOUR TOPIC Phone Bank Canvas Host a house party Online Resistance Team Share your special talents and skills (specify below) MESSAGE SUBMIT By providing your email and/or phone number you opt-in to updates from Cindy Banyai for Florida by text and/or email.
+Unsubscribe anytime.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.
+Message frequency varies.
+Message & Data Rates May Apply.
+Reply HELP for help.
+Reply STOP to opt out.
+HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS Menu Close VOTE@CINDYBANYAI.COM (239) 351-5574 PO BOX 62422 FORT MYERS, FL 33906 Privacy Policy | Terms & Conditions © # Southwest Strategies Paid for and approved by Cindy Banyai , Democrat for Florida House 78 HOME ABOUT CINDY NO SHIT BOLD ACTION EVENTS NEWS bottom of page

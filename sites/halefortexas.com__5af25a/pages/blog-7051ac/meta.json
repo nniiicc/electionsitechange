@@ -1,7 +1,11 @@
 {
  "description": "Updates and commentary from Alexander Hale, Republican candidate for U.S. Congress in Texas's 7th Congressional District.",
  "final_url": "https://www.halefortexas.com/blog",
- "paid_for_by": "Paid for by Alexander Hale for Congress \u00b7 FEC ID C00930305 Contributions are not tax-deductible for federal income tax purposes",
+ "fingerprint": "25b5a132659edd706898e03b5c8bd6bf43b69136",
+ "format": 3,
+ "paid_for_by": "Paid for by Alexander Hale for Congress · FEC ID C00930305 Contributions are not tax-deductible for federal income tax purposes",
  "title": "Updates | Alexander Hale for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

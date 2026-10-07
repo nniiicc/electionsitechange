@@ -1,12 +1,50 @@
 [
-"https://chrisjeter.com/",
-"https://chrisjeter.com/bio",
-"https://chrisjeter.com/connect",
-"https://chrisjeter.com/donate",
-"https://chrisjeter.com/privacy-policy",
-"https://chrisjeter.com/terms",
-"https://chrisjeter.com/updates",
-"https://mjcattorneys.com/our-team/amy-o-carson",
-"https://mjcattorneys.com/our-team/mario-massillamany",
-"https://secure.winred.com/jeter-for-indiana/september29"
+{
+"text": "Amy Carson",
+"href": "https://www.mjcattorneys.com/our-team/amy-o-carson/"
+},
+{
+"text": "Bio",
+"href": "https://chrisjeter.com/bio/"
+},
+{
+"text": "Connect",
+"href": "https://chrisjeter.com/connect/"
+},
+{
+"text": "Count Me In",
+"href": "https://chrisjeter.com/connect/"
+},
+{
+"text": "Donate",
+"href": "https://chrisjeter.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://chrisjeter.com/"
+},
+{
+"text": "Mario Massillamany",
+"href": "https://www.mjcattorneys.com/our-team/mario-massillamany/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrisjeter.com/privacy-policy/"
+},
+{
+"text": "RSVP and learn more",
+"href": "https://secure.winred.com/jeter-for-indiana/september29"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://chrisjeter.com/terms/"
+},
+{
+"text": "Updates",
+"href": "https://chrisjeter.com/updates/"
+},
+{
+"text": "[image: Chris Jeter for Indiana State Representative]",
+"href": "https://chrisjeter.com/"
+}
 ]

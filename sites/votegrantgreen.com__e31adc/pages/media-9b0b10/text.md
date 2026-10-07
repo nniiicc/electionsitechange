@@ -1,3 +1,3 @@
-Trump wants to protect ratepayers.
+Skip to content HOME MEET GRANT RESULTS GET INVOLVED MEDIA HOME MEET GRANT RESULTS GET INVOLVED MEDIA HOME MEET GRANT RESULTS GET INVOLVED MEDIA DONATE HOME MEET GRANT RESULTS GET INVOLVED MEDIA DONATE Facebook Donate Facebook General Election November 3, 2026 MEDIA Trump wants to protect ratepayers.
 Oklahoma has blueprint | Opinion President is right to demand that Big Tech, not ratepayers, should pay for the industry’s enormous energy use.
-Oklahoma has set an example for how Read More »
+Oklahoma has set an example for how Read More » 260230 Grant Green Mailer3_1-1 260818 Grant Green Mailer #8 042826-v1-2 MB260055 Green Mailer One_1-1 250237 Green Mailer 4_2 Grant Green for Oklahoma State Senate Follow Grant: Facebook DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS Authorized and Paid for by Friends of Grant Green 2026

@@ -1,3 +1,5 @@
-The Urbanist2026 Primary Election Endorsement
-Voters have an easy choice: Judge Birk is a thoughtful, experienced Court of Appeals judge who has written fair, deeply researched opinions on land use, transportation, and other urbanist issues.
-His opponent, Judge O’Donnell, is a King County Superior Court judge who opposed reducing publicRead More
+About Judge Birk Endorsements Values News Get Involved Endorse Donate About Judge Birk Endorsements Values News Get Involved Endorse Donate News The Urbanist 2026 Primary Election Endorsement July 16, 2026 Voters have an easy choice: Judge Birk is a thoughtful, experienced Court of Appeals judge who has written fair, deeply researched opinions on land use, transportation, and other urbanist issues.
+His opponent, Judge O’Donnell, is a King County Superior Court judge who opposed reducing public Read More The Stranger The Stranger’s 2026 Primary Election Endorsements July 2, 2026 The SECB asked the Supreme Court candidates to define “property,” to see if they’ll hang themselves with an answer that would reveal their opinion about a possible case regarding the state’s Millionaires Tax, as “property” is the central question of the case.
+Typically, the candidates Read More Lynnwood Times Judge Ian Birk to Run for State Supreme Court Justice February 5, 2026 State Appeals Court Judge Ian Birk has announced that he will run for State Supreme Court Justice.
+Birk, 47, has served on Division 1 of the Appellate Court since 2022, following a two-decade year career as a leading litigator and plaintiff’s attorney.
+He is presently seeking the open seat being Read More Paid for by Birk for Justice PO Box 27113, Seattle, WA 98165

@@ -1,4 +1,4 @@
-Rebecca Harned is a working parent, scientist, and dedicated public servant proud to raise her family in New Hampshire’s 7th Senate District.
+Skip navigation menu About Priorities Endorsements News Connect Invest About Rebecca Running to Protect the NH Advantage About Priorities Endorsements News Connect Invest About Rebecca Running to Protect the NH Advantage Meet Rebecca Rebecca Harned is a working parent, scientist, and dedicated public servant proud to raise her family in New Hampshire’s 7th Senate District.
 The daughter of a service-disabled, U.S.
 Air Force Vietnam veteran, Rebecca understands the financial pressures facing hard working families, seniors, and veterans as the cost of living continues to rise across the state.
 Rebecca graduated from Colby-Sawyer College, putting herself through school with financial aid and two jobs before earning her master’s degree.
@@ -7,3 +7,6 @@ Her work delivered practical results through responsible leadership and effectiv
 In 2017, Rebecca returned home to New Hampshire to raise her family and invest in the community she loves.
 She lives in Sutton, works as a research scientist studying risk and community resilience, and serves on the Kearsarge Regional School District Municipal Budget Committee, where she helps ensure responsible stewardship of local tax dollars while supporting strong public schools.
 Rebecca and her family enjoy spending time outdoors in New Hampshire’s lakes and mountains, and she is committed to building a more affordable, responsible future for the communities of Senate District 7.
+Fiscal Responsibility No Income or Sales Tax Lower Property Taxes Protecting Our Public Schools Environmental Stewardship View More info@rebeccafornh.com Mailing Address: Rebecca for NH PO Box 198 North Sutton, NH 03260 Powered by RUN! website builder Paid for by Rebecca for NH.
+PO Box 198 North Sutton, NH 03260.
+Rebecca Harned, Treasurer You need to enable JavaScript to run this app.

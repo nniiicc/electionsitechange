@@ -1,22 +1,126 @@
 [
-"https://facebook.com/senheathersomers",
-"https://heathersomers.com/",
-"https://heathersomers.com/2020/04/22/senator-somers-serving-supporting-18th-district-communities-through-covid-19",
-"https://heathersomers.com/2020/05/19/heather-somers-wins-unanimous-gop-endorsement-for-2020-reelection",
-"https://heathersomers.com/2020/09/11/somers-endorsed-for-re-election-by-connecticut-realtors",
-"https://heathersomers.com/2020/09/24/state-senator-heather-somers-endorsed-for-re-election-by-nfib-connecticuts-leading-voice-for-small-businesses",
-"https://heathersomers.com/2020/10/01/connecticut-marine-trades-association-recognizes-heather-somers-with-honorary-crew-member-award",
-"https://heathersomers.com/2020/10/01/state-senator-heather-somers-endorsed-by-connecticut-league-of-conservation-voters",
-"https://heathersomers.com/2020/10/02/heather-somers-receives-endorsement-of-police-officers-association-of-connecticut",
-"https://heathersomers.com/2020/10/07/connecticut-fraternal-order-of-police-and-stonington-police-union-endorse-heather-somers",
-"https://heathersomers.com/2020/10/09/plainfield-police-union-endorses-state-senator-heather-somers-for-reelection",
-"https://heathersomers.com/2020/10/10/health-care-organizations-recognize-state-senator-heather-somers-as-legislative-champion",
-"https://heathersomers.com/about-heather",
-"https://heathersomers.com/issues",
-"https://heathersomers.com/news",
-"https://heathersomers.com/news/page/3",
-"https://heathersomers.com/sms-opt-in",
-"https://secure.anedot.com/somers-for-senate-2026/somerssenate",
-"https://twitter.com/heatherssomers?lang=en",
-"https://youtube.com/user/TheSomersheather"
+{
+"text": "About Heather",
+"href": "https://www.heathersomers.com/about-heather/"
+},
+{
+"text": "Connecticut Fraternal Order of Police and Stonington Police Union Endorse Heather Somers",
+"href": "https://www.heathersomers.com/2020/10/07/connecticut-fraternal-order-of-police-and-stonington-police-union-endorse-heather-somers/"
+},
+{
+"text": "Connecticut Marine Trades Association Recognizes Heather Somers with “Honorary Crew Member Award”",
+"href": "https://www.heathersomers.com/2020/10/01/connecticut-marine-trades-association-recognizes-heather-somers-with-honorary-crew-member-award/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/somers-for-senate-2026/somerssenate"
+},
+{
+"text": "Health Care Organizations Recognize State Senator Heather Somers as Legislative Champion",
+"href": "https://www.heathersomers.com/2020/10/10/health-care-organizations-recognize-state-senator-heather-somers-as-legislative-champion/"
+},
+{
+"text": "Heather Somers Receives Endorsement of Police Officers Association of Connecticut",
+"href": "https://www.heathersomers.com/2020/10/02/heather-somers-receives-endorsement-of-police-officers-association-of-connecticut/"
+},
+{
+"text": "Heather Somers Wins Unanimous GOP Endorsement for 2020 Reelection",
+"href": "https://www.heathersomers.com/2020/05/19/heather-somers-wins-unanimous-gop-endorsement-for-2020-reelection/"
+},
+{
+"text": "Home",
+"href": "https://www.heathersomers.com/"
+},
+{
+"text": "Issues & Record",
+"href": "https://www.heathersomers.com/issues/"
+},
+{
+"text": "Newer Entries",
+"href": "https://www.heathersomers.com/news/"
+},
+{
+"text": "News",
+"href": "https://www.heathersomers.com/news/"
+},
+{
+"text": "Older Entries",
+"href": "https://www.heathersomers.com/news/page/3/"
+},
+{
+"text": "Plainfield Police Union Endorses State Senator Heather Somers for Reelection",
+"href": "https://www.heathersomers.com/2020/10/09/plainfield-police-union-endorses-state-senator-heather-somers-for-reelection/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/04/22/senator-somers-serving-supporting-18th-district-communities-through-covid-19/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/05/19/heather-somers-wins-unanimous-gop-endorsement-for-2020-reelection/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/09/11/somers-endorsed-for-re-election-by-connecticut-realtors/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/09/24/state-senator-heather-somers-endorsed-for-re-election-by-nfib-connecticuts-leading-voice-for-small-businesses/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/10/01/connecticut-marine-trades-association-recognizes-heather-somers-with-honorary-crew-member-award/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/10/01/state-senator-heather-somers-endorsed-by-connecticut-league-of-conservation-voters/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/10/02/heather-somers-receives-endorsement-of-police-officers-association-of-connecticut/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/10/07/connecticut-fraternal-order-of-police-and-stonington-police-union-endorse-heather-somers/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/10/09/plainfield-police-union-endorses-state-senator-heather-somers-for-reelection/"
+},
+{
+"text": "Read More",
+"href": "https://www.heathersomers.com/2020/10/10/health-care-organizations-recognize-state-senator-heather-somers-as-legislative-champion/"
+},
+{
+"text": "SMS Opt-In",
+"href": "https://www.heathersomers.com/sms-opt-in/"
+},
+{
+"text": "Senator Somers Serving, Supporting 18th District Communities Through COVID-19",
+"href": "https://www.heathersomers.com/2020/04/22/senator-somers-serving-supporting-18th-district-communities-through-covid-19/"
+},
+{
+"text": "Somers Endorsed for Re-Election by Connecticut REALTORS",
+"href": "https://www.heathersomers.com/2020/09/11/somers-endorsed-for-re-election-by-connecticut-realtors/"
+},
+{
+"text": "State Senator Heather Somers Endorsed by Connecticut League of Conservation Voters",
+"href": "https://www.heathersomers.com/2020/10/01/state-senator-heather-somers-endorsed-by-connecticut-league-of-conservation-voters/"
+},
+{
+"text": "State Senator Heather Somers Endorsed for Re-Election by NFIB, Connecticut’s Leading Voice for Small Businesses",
+"href": "https://www.heathersomers.com/2020/09/24/state-senator-heather-somers-endorsed-for-re-election-by-nfib-connecticuts-leading-voice-for-small-businesses/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/heatherssomers?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/senheathersomers/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/user/TheSomersheather"
+}
 ]

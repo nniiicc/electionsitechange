@@ -1,5 +1,4 @@
-Paul Seo - A Corruption Prosecutor Fighting for Us
-Paul Seo is a husband and father, U.S.
+top of page Home Meet Paul Priorities Endorsements About the District Get Involved Media Hi-Res Photos Hi-Res Video General Election Poll Hi-Res Photos Hi-Res Video General Election Poll Menu Close DONATE HI RES VIDEO HI RES PHOTOS POLL MEMO Paul Seo - A Corruption Prosecutor Fighting for Us Paul Seo is a husband and father, U.S.
 Army veteran, Deputy Attorney General, and Mayor of Rancho Palos Verdes.
 Raised by hardworking Korean immigrant parents, Paul joined the Army before earning his law degree and building a career working to protect California communities.
 He has successfully prosecuted violent crime, held corrupt public officials accountable for abusing the public’s trust, and taken on corporations that price gouge consumers and exploit families during emergencies.
@@ -23,3 +22,8 @@ Lowering costs and going after corporate price gougers.
 Paul is fighting for California families getting squeezed by rising prices on everyday essentials.
 As a Deputy Attorney General, he went after corporations who took advantage of consumers, and as Mayor, he worked to lower utility costs, fix the grid and hold Southern California Edison accountable.
 Paul will make life more affordable by cracking down on unfair price hikes, providing tax relief for middle-class families, and lowering the cost of groceries, rent, and other essentials.
+Contact: info@PaulSeo4Assembly.com Paul Seo is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or the Department of the Army.
+Paid for by Paul Seo For Assembly 2026 FPPC ID#1477831 12501 Imperial Hwy, Ste.
+200, Norwalk, CA 90650 DONATE Home Meet Paul Priorities Endorsements About the District Get Involved Media Hi-Res Photos Hi-Res Video General Election Poll bottom of page

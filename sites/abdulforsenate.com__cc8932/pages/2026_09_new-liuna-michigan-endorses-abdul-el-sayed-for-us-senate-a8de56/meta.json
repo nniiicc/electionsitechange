@@ -1,9 +1,12 @@
 {
  "description": "Get the latest news about Abdul El-Sayed campaign for US Senate.",
  "final_url": "https://abdulforsenate.com/2026/09/new-liuna-michigan-endorses-abdul-el-sayed-for-us-senate/",
+ "fingerprint": "fcbd5e9e5a26486f3e36ad3403c6c0a4bc71b6ef",
+ "format": 3,
  "paid_for_by": "Paid for by Abdul for U",
- "title": "NEW: LiUNA Michigan Endorses Abdul El-Sayed For US Senate \u2013 Michigan US Senate Candidate 2026",
+ "title": "NEW: LiUNA Michigan Endorses Abdul El-Sayed For US Senate – Michigan US Senate Candidate 2026",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

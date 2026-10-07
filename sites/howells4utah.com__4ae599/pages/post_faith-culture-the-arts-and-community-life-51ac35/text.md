@@ -1,5 +1,5 @@
-Faith, culture, the arts, and community life
-A healthy society is not held together by economics and law alone.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Faith, culture, the arts, and community life Drew Howells Jun 22 6 min read A healthy society is not held together by economics and law alone.
 It is held together by meaning, shared stories, creativity, and the ability of people to see themselves— and one another— as fully human.
 That is where faith, culture, and the arts live.
 They are not side projects.
@@ -33,7 +33,7 @@ When imagination atrophies, fear fills the vacuum.
 When cultural expression is narrowed, conformity hardens.
 When art is treated as decoration instead of infrastructure, civic life thins out and polarization deepens.
 Culture is a cornerstone of a healthy democracy.
-The arts belong in schools— not as enrichment reserved for students whose families can afford private lessons, but as foundational education available to everyone.
+The arts belong in schools — not as enrichment reserved for students whose families can afford private lessons, but as foundational education available to everyone.
 As a legislator, I will work to strengthen the Utah Division of Arts & Museums, expand public grants for artists and community organizations, increase arts education funding from kindergarten through higher education, and begin building a permanent Utah arts endowment capable of supporting creative life across generations.
 That includes music education.
 Music is not fluff.
@@ -41,7 +41,7 @@ It supports language, attention, memory, collaboration, discipline, emotional pr
 The arts matter in their own right, but it is also true that cutting them has not produced some golden age of academic achievement.
 It has produced a thinner educational experience at precisely the moment students need more creativity, connection, expression, and meaningful ways to engage with the world around them.
 Schools should not be forced to choose between literacy and music, mathematics and theater, science and visual art.
-A complete education gives students all of them.
+A complete education gives students all of them .
 It teaches people not only how to calculate and analyze, but how to communicate, interpret, create, collaborate, and imagine.
 In our communities, the arts are social glue.
 A concert, a local theater production, a mural, a poetry reading, a dance performance, or a film screening is not merely an event.
@@ -110,3 +110,7 @@ We are doing the essential work of keeping a free society free.
 Culture is how a society remembers who it is.
 Art is how it imagines who it could become.
 As a legislator, I intend to treat both as essential.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

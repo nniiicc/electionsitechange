@@ -1,12 +1,50 @@
 [
-"https://stephanie4idaho.com/",
-"https://stephanie4idaho.com/about",
-"https://stephanie4idaho.com/blog",
-"https://stephanie4idaho.com/blog/posts/protecting-idaho-s-future",
-"https://stephanie4idaho.com/blog?page=1",
-"https://stephanie4idaho.com/blog?page=2",
-"https://stephanie4idaho.com/contact",
-"https://stephanie4idaho.com/donate",
-"https://stephanie4idaho.com/endorsements",
-"https://stephanie4idaho.com/volunteer"
+{
+"text": "1",
+"href": "https://stephanie4idaho.com/blog/?page=1"
+},
+{
+"text": "2",
+"href": "https://stephanie4idaho.com/blog/?page=2"
+},
+{
+"text": "About",
+"href": "https://stephanie4idaho.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://stephanie4idaho.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://stephanie4idaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://stephanie4idaho.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://stephanie4idaho.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://stephanie4idaho.com/"
+},
+{
+"text": "Protecting Idaho’s Future",
+"href": "https://stephanie4idaho.com/blog/posts/protecting-idaho-s-future/"
+},
+{
+"text": "Volunteer",
+"href": "https://stephanie4idaho.com/volunteer/"
+},
+{
+"text": "[image] Stephanie Mickelsen",
+"href": "https://stephanie4idaho.com/"
+},
+{
+"text": "[tooltip: Previous]",
+"href": "https://stephanie4idaho.com/blog/?page=1"
+}
 ]

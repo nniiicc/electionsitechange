@@ -1,25 +1,31 @@
-PRESS RELEASE
-Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion
-FLAGSTAFF, AZ — Last week, the nation’s debt surpassed $40 trillion, largely as a direct result of President Trump's endless wars and the One Big Beautiful Bill Act, both of which Rep.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Eli Crane Has Failed Us.
+PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Crane, Trump Admin.
+Over Inaction PRESS RELEASE ICYMI: Poll Shows Dem.
+Jonathan Nez Tied with Rep.
+Eli Crane in District Trump Won by Double Digits PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Aug 24 2026 PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion FLAGSTAFF, AZ — Last week, the nation’s debt surpassed $40 trillion , largely as a direct result of President Trump's endless wars and the One Big Beautiful Bill Act, both of which Rep.
 Eli Crane voted for.
 Gutting healthcare while giving massive tax breaks to billionaires not only hurts Arizona families, it explodes our national debt.
-“Congressman Eli Crane voted to recklessly jam this legislation through Congress at the expense of hard-working Arizonans.
-It’s not hard to see why: He himself is a millionaire who lives in a gated community and stands to benefit from the deep tax cuts,” said Nez.
+“Congressman Eli Crane voted to recklessly jam this legislation through Congress at the expense of hard-working Arizonans .
+It’s not hard to see why: He himself is a millionaire who lives in a gated community and stands to benefit from the deep tax cuts,” said Nez .
 “As usual, working families will be hurt by these tax breaks for millionaires because we bear the cost of a bill that slashes funding for SNAP and Medicaid.
-Congressman Crane clearly isn’t concerned about our nation’s growing debt because he’s more focused on appeasing his billionaire donors in Washington.”
-The cost of the war in Iran is also climbing, with a price tag of over $37.5 billion.
+Congressman Crane clearly isn’t concerned about our nation’s growing debt because he’s more focused on appeasing his billionaire donors in Washington.” The cost of the war in Iran is also climbing, with a price tag of over $37.5 billion .
 These costs will be added to the national debt at a time when American consumers are feeling the sting of high prices.
-The largest tax cuts from this bill will be provided to the billionaire class, and there is only one known billionaire that lives in AZ-02.
-For the remaining 800,000+ residents in the district, the tax breaks will hardly apply.
+The largest tax cuts from this bill will be provided to the billionaire class , and there is only one known billionaire that lives in AZ-02 .
+For the remaining 800,000+ residents in the district, the tax breaks will hardly apply .
 Meanwhile, rising federal debt puts upward pressure on interest rates and makes it harder for the government, businesses, and households to borrow.
 Mortgages become more expensive, and businesses and consumers pay more to borrow money.
 Importantly, more debt means more of the federal budget goes toward interest rather than priorities.
-Money spent paying off federal debt can't be spent on infrastructure, national defense, health programs, child programs, or other priorities.
+Money spent paying off federal debt can't be spent on infrastructure , national defense , health programs , child programs , or other priorities.
 Congressman Crane in the past has labeled himself as a fiscally responsible politician.
-In his emails, he rails about the need for Congress to pass “fiscally responsible budgets.” Yet Crane voted for the One Big Beautiful Bill Act despite its projected impact on federal deficits.
+In his emails, he rails about the need for Congress to pass “ fiscally responsible budgets .” Yet Crane voted for the One Big Beautiful Bill Act despite its projected impact on federal deficits .
 The legislation will now add trillions of dollars to the nation’s debt, leaving taxpayers to shoulder the growing cost of Washington’s borrowing.
-SEE ALSO:
-- NPR News: The U.S. debt tops a record-shattering $40 trillion.
-Yes, with a T (8/19/26)
-- NBC News: ‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts (8/19/26)
-- Tucson Sentinel: Small Tucson hospital closes; 99 staff laid off (7/31/26)
+SEE ALSO: NPR News: The U.S. debt tops a record-shattering $40 trillion.
+Yes, with a T (8/19/26) NBC News: ‘Mom, are we OK?’ Children worry their families can’t afford food after Trump’s SNAP cuts (8/19/26) Tucson Sentinel: Small Tucson hospital closes; 99 staff laid off (7/31/26) Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

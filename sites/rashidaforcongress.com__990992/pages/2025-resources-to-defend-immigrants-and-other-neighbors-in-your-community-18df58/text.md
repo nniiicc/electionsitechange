@@ -1,252 +1,93 @@
-2026 resources to defend immigrants and other neighbors – national & local
-On this page you‘ll find:
-- National immigration hotlines and bail funds to support immigrants and protesters in detention
-- National Know Your Rights information for immigrants and people near immigration agents
-- Guides & resources for anyone in the U.S. — including organizing your workplaces and schools to prepare for ICE attacks, pushing your officials and local law enforcement to not cooperate with ICE, finding or starting mutual aid networks, organizing bail funds, protecting each other at protests
-- State and local resources sorted by state, including groups providing bail funds, immigration bonds, and legal services for immigrants and protesters
-National immigration hotlines and bail funds
-- National immigration Project of the National Lawyers Guild: If you witnessed ICE activity in your community, call the hotline at 1-844-363-1423.
+Support Rashida Tlaib for U.S.
+Congress We need Rashida’s bold, transformative leadership in Congress.
+Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate 2026 resources to defend immigrants and other neighbors – national & local On this page you ‘ll find: National immigration hotlines and bail funds to support immigrants and protesters in detention National Know Your Rights information for immigrants and people near immigration agents Guides & resources for anyone in the U.S. — including organizing your workplaces and schools to prepare for ICE attacks, pushing your officials and local law enforcement to not cooperate with ICE, finding or starting mutual aid networks, organizing bail funds, protecting each other at protests State and local resources sorted by state , including groups providing bail funds, immigration bonds, and legal services for immigrants and protesters National immigration hotlines and bail funds National immigration Project of the National Lawyers Guild : If you witnessed ICE activity in your community, call the hotline at 1-844-363-1423.
 Click here and scroll down to find NLG chapters near you.
-- United We Dream: To report an immigration raid call 1-844-363-1423.
+United We Dream : To report an immigration raid call 1-844-363-1423.
 Or send a text message to 877877.
 If possible, take photos and videos, and notes.
-- National Korean American Service & Education Consortium: 24 Hour Hotline Number with assistance in English and Korean: 1-844-500-3222
-- National Immigration Detention Hotline: Dial 9233# from inside detention, Mondays through Fridays from 8 am – 8 pm PT or 11 am – 11 pm ET.
+National Korean American Service & Education Consortium: 24 Hour Hotline Number with assistance in English and Korean: 1-844-500-3222 National Immigration Detention Hotline : Dial 9233# from inside detention, Mondays through Fridays from 8 am – 8 pm PT or 11 am – 11 pm ET.
 Hotline calls are free and unmonitored, with multilingual staff.
-More information here.
-- Immigrant Defense Project Helpline: 212.725.6422 — For immigrants in need of legal assistance or their loved ones.
+More information here .
+Immigrant Defense Project Helpline : 212.725.6422 — For immigrants in need of legal assistance or their loved ones.
 See more information here about what to have ready before you call.
-- LatinoJustice PRLDEF: 800-328-2322 — Telephone service provides legal advice and referrals in Spanish and English for Latinx people on issues of housing, employment, immigration, discrimination, civil rights violations and hate crimes.
-- National Immigration Legal Services Directory from the Immigration Advocates Network — search by state or zip code
-- National Bail Out and their directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases
-- Black Immigrants Bail Fund — National project of the Haitian Bridge Alliance (HBA) and the African Bureau for Immigration and Social Affairs (ABISA) that provides free assistance and relief to Black immigrants
-- Border Butterflies Project — Advocates for the rights and needs of trans and queer BIPOC migrants; contact them for support here.
-- National Bail Fund Network, Directory of Community Bail Funds — Supports bail and bond payments for people in immigration detention and pretrial detention.
+LatinoJustice PRLDEF : 800-328-2322 — Telephone service provides legal advice and referrals in Spanish and English for Latinx people on issues of housing, employment, immigration, discrimination, civil rights violations and hate crimes.
+National Immigration Legal Services Directory from the Immigration Advocates Network — search by state or zip code National Bail Out and their directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases Black Immigrants Bail Fund — National project of the Haitian Bridge Alliance (HBA) and the African Bureau for Immigration and Social Affairs ( ABISA ) that provides free assistance and relief to Black immigrants Border Butterflies Project — Advocates for the rights and needs of trans and queer BIPOC migrants; contact them for support here .
+National Bail Fund Network, Directory of Community Bail Funds — Supports bail and bond payments for people in immigration detention and pretrial detention .
 Search by your state here.
 You can fill out a form here to request immigration bond support for someone held in an ICE detention facility within the U.S.
-- LGBTQ Freedom Fund — Pays pretrial bail and immigration bond to secure the safety and liberty of LGBTQ individuals in jail and immigration detention.
-National Know Your Rights information for immigrants and others near ICE
-- From the National Immigrant Justice Center
-- From the National Immigrant Law Center
-- From the Transgender Law Center — for Transgender or Gender Non-Conforming Immigrants
-Guides & resources for anyone in the U.S.
-- Immigration-related guides
-- A Guide for Employers: What to Do if Immigration Comes to Your Workplace from the National Immigration Law Center
-- A toolkit for Organizations Responding to Mass Worksite Immigration Raids
-- Sample resolution language for school boards to protect students from the American Federation of Teachers
-- Toolkit to defend against ICE raids and community arrests from Immigrant Defense Project
-- “Talk to Your Sheriff” Toolkit to ask local law enforcement to limit or stop cooperation with ICE, from the #DisappearedInAmerica campaign
-- Reports and resources about Black migrants from the Black Alliance for Just Immigration
-- Examples of state and local policies for immigrant protection and an overview of sanctuary policies, which you can advocate for in your community — from the American Immigration Council
-- Community safety
-- Worksheet to help people strengthen connections and prepare to protect each other in case troops, ICE, or other threats come to our neighborhoods — from Chicago-based Native organizer Kelly Hayes
-- Bystander intervention and ways to build safety in communities
-- Creative Interventions toolkit and workbook to stop interpersonal violence
-- Toolkit and step-by-step guide to organize bail funds and bail out people in pre-trial detention or immigration detention in your community, from National Bail Out
-- Resources for safety and security at protests, compiled by No Kings
-- Mutual aid work
-- Find your local food bank from Feeding America
-- Find your community on this mutual aid network and food resource map and see resources about how to do mutual aid
-- LA Forward mutual aid resources: toolkit and training on how to start a mutual aid group
-- How to create a mutual aid network: compilation of resources from the American Friends Service Committee
-- Mutual aid legal toolkit from the Sustainable Economies Law Center:
-Resources by state, listed alphabetically
-ALABAMA
-- See Alabama-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+LGBTQ Freedom Fund — Pays pretrial bail and immigration bond to secure the safety and liberty of LGBTQ individuals in jail and immigration detention.
+National Know Your Rights information for immigrants and others near ICE From the ACLU (American Civil Liberties Union) From the National Immigrant Justice Center From the National Immigrant Law Center From the National Korean American Service & Education Consortium From the Transgender Law Center — for Transgender or Gender Non-Conforming Immigrants Guides & resources for anyone in the U.S.
+Immigration-related guides A Guide for Employers : What to Do if Immigration Comes to Your Workplace from the National Immigration Law Center A toolkit for Organizations Responding to Mass Worksite Immigration Raids Sample resolution language for school boards to protect students from the American Federation of Teachers Toolkit to defend against ICE raids and community arrests from Immigrant Defense Project “Talk to Your Sheriff” Toolkit to ask local law enforcement to limit or stop cooperation with ICE , from the #DisappearedInAmerica campaign Reports and resources about Black migrants from the Black Alliance for Just Immigration Examples of state and local policies for immigrant protection and an overview of sanctuary policies , which you can advocate for in your community — from the American Immigration Council Community safety Worksheet to help people strengthen connections and prepare to protect each other in case troops, ICE, or other threats come to our neighborhoods — from Chicago-based Native organizer Kelly Hayes Bystander intervention and ways to build safety in communities Creative Interventions toolkit and workbook to stop interpersonal violence Toolkit and step-by-step guide to organize bail funds and bail out people in pre-trial detention or immigration detention in your community, from National Bail Out Resources for safety and security at protests , compiled by No Kings Mutual aid work Find your local food bank from Feeding America Find your community on this mutual aid network and food resource map and see resources about how to do mutual aid LA Forward mutual aid resources: toolkit and training on how to start a mutual aid group How to create a mutual aid network : compilation of resources from the American Friends Service Committee Mutual aid legal toolkit from the Sustainable Economies Law Center: Resources by state, listed alphabetically ALABAMA See Alabama-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
 And see AL-based groups from the National Bail Fund directory.
-- See Alabama’s listing in the National Lawyers’ Guild chapter list.
-ARKANSAS
-- See Arkansas-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
+See Alabama’s listing in the National Lawyers’ Guild chapter list .
+ARKANSAS See Arkansas-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
 And see Arkansas-based groups from the National Bail Fund directory.
-- Arkansas Statewide Chapter of the National Lawyers Guild
-ARIZONA
-- Tucson: 520-221-4077 — Community Rapid Response Legal Observers for ICE raids or Border Patrol
-- Pima Monthly Meeting Immigration Bond Fund
-- Living United for Change in Arizona (LUCHA) is a power-building and advocacy organization comprised of Latine and immigrant members.
-- Our Voice, Our Vote (OVOV) is a member-led organization advocating with Black, Latine, and youth communities.
-CALIFORNIA
-- Asian Americans Advancing Justice Southern CA:
-- Immigration resources and phone lines in English, Chinese, Korean, Khmer, Filipino, Hindi, Thai, and Vietnamese
-- Rapid Response Network to document and report ICE (scroll down here)
-- Bay Area Anti-Repression Bail Fund for protesters
-- If you are arrested in the Bay call the National Lawyers Guild jail hotline at 415-285-1011 for ARC bail support
-- Local organizers can request legal support for upcoming actions by going to https://bayrequest.protestlaw.org/
-- Black Alliance for Just Immigration: Oakland and Los Angeles chapters
-- Black LGBTQIA+ Migrant Project Bay Area
-- See California-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+Arkansas Statewide Chapter of the National Lawyers Guild ARIZONA Tucson: 520-221-4077 — Community Rapid Response Legal Observers for ICE raids or Border Patrol Pima Monthly Meeting Immigration Bond Fund Living United for Change in Arizona (LUCHA) is a power-building and advocacy organization comprised of Latine and immigrant members.
+Our Voice, Our Vote (OVOV) is a member-led organization advocating with Black, Latine, and youth communities.
+CALIFORNIA Asian Americans Advancing Justice Southern CA : Immigration resources and phone lines in English, Chinese, Korean, Khmer, Filipino, Hindi, Thai, and Vietnamese Rapid Response Network to document and report ICE (scroll down here ) Bay Area Anti-Repression Bail Fund for protesters If you are arrested in the Bay call the National Lawyers Guild jail hotline at 415-285-1011 for ARC bail support Local organizers can request legal support for upcoming actions by going to https://bayrequest.protestlaw.org/ Black Alliance for Just Immigration : Oakland and Los Angeles chapters Black LGBTQIA+ Migrant Project Bay Area See California-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
 And see CA-based groups from the National Bail Fund directory.
-- By county:
-- Alameda County: 1-510-241-4011 — Alameda County Immigration Legal and Education Partnership: Call for rapid response and legal services.
-- Fresno County: 559-206-0151 — Rapid Response line
-- Los Angeles: 1-888-624-4752 — Coalition for Humane immigration of Los Angeles
-- Marin County: 415-991-4545 — The Marin Rapid Response Network’s 24 hour hotline
-- San Francisco: 1-415-200-1548 — San Francisco Immigrant Legal and Education Network
-- San Mateo County: 203-666-4472 — If immigration comes to your home, work, or neighborhood, or if there is ICE activity nearby, call the San Mateo County Rapid Response Hotline, open 24 hours.
-More resources here.
-- Santa Clara County: 408-290-1144 — Rapid Response Network
-- Santa Cruz County: 831-239-4289 — Rapid Response line
-- Sonoma & Napa Counties: 707-800-4544 — Call or text rapid response network
-COLORADO
-- Colorado Rapid Response Network: 24 hour hotline at 1-844-UNITE-41 (1-844-864-8341)
-- Colorado Freedom Fund helps with pre-trail bail
-- Immigrant Freedom Fund helps with immigration bond
-- National Lawyers’ Guild Colorado Chapter
-CONNECTICUT
-- Connecticut Bail Fund provides pre-trial bail
-- Immigrant Bail Fund pays immigrant bond
-- The National Lawyers’ Guild Connecticut Chapter has a statewide legal support hotline is (203) 896-7221 — for reporting arrests and police violence, providing jail support, and connecting people to resources for bond
-DELAWARE
-- See Delaware-based groups from the National Bail Fund directory.
-- Wilmington Freedom Alliance – Community Bail Fund supports people in pre-trial detention
-FLORIDA
-- Miami chapter of the Black Alliance for Just Immigration
-- See Florida-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
+By county: Alameda County : 1-510-241-4011 — Alameda County Immigration Legal and Education Partnership: Call for rapid response and legal services.
+Fresno County : 559-206-0151 — Rapid Response line Los Angeles : 1-888-624-4752 — Coalition for Humane immigration of Los Angeles Marin County : 415-991-4545 — The Marin Rapid Response Network ’s 24 hour hotline San Francisco : 1-415-200-1548 — San Francisco Immigrant Legal and Education Network San Mateo County : 203-666-4472 — If immigration comes to your home, work, or neighborhood, or if there is ICE activity nearby, call the San Mateo County Rapid Response Hotline, open 24 hours.
+More resources here .
+Santa Clara County : 408-290-1144 — Rapid Response Network Santa Cruz Count y: 831-239-4289 — Rapid Response line Sonoma & Napa Counties : 707-800-4544 — Call or text rapid response network COLORADO Colorado Rapid Response Network: 24 hour hotline at 1-844-UNITE-41 (1-844-864-8341) Colorado Freedom Fund helps with pre-trail bail Immigrant Freedom Fund helps with immigration bond National Lawyers’ Guild Colorado Chapter CONNECTICUT Connecticut Bail Fund provides pre-trial bail Immigrant Bail Fund pays immigrant bond The National Lawyers’ Guild Connecticut Chapter has a statewide legal support hotline is (203) 896-7221 — for reporting arrests and police violence, providing jail support, and connecting people to resources for bond DELAWARE See Delaware-based groups from the National Bail Fund directory.
+Wilmington Freedom Alliance – Community Bail Fund supports people in pre-trial detention FLORIDA Miami chapter of the Black Alliance for Just Immigration See Florida-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
 And see FL-based groups from the National Bail Fund directory.
-- Know Your Rights resources from Florida Immigrant Coalition
-- Legal services from the Florida Immigration Law & Justice Center
-- LGBTQ Freedom Fund supports people in pre-trial detention with bail, and pays immigration bond
-GEORGIA
-- Asian Americans Advancing Justice Atlanta
-- Legal advocacy organization dedicated to protecting the civil rights of Asian Americans, Native Hawaiians, Pacific Islanders (AANHPI) and Arab, Middle Eastern, Muslim, and South Asian (AMEMSA) communities in Georgia and the Southeast.
+Know Your Rights resources from Florida Immigrant Coalition Legal services from the Florida Immigration Law & Justice Center LGBTQ Freedom Fund supports people in pre-trial detention with bail, and pays immigration bond GEORGIA Asian Americans Advancing Justice Atlanta Legal advocacy organization dedicated to protecting the civil rights of Asian Americans, Native Hawaiians, Pacific Islanders (AANHPI) and Arab, Middle Eastern, Muslim, and South Asian (AMEMSA) communities in Georgia and the Southeast.
 Find legal services information or schedule a legal consultation at 404-890-5655 (Monday – Friday, 9 am – 5 pm).
-- Atlanta Solidarity Fund — provides cash bail, jail support, and post-arrest support to protesters experiencing repression, and helps them access legal representation.
-- Atlanta chapter of the Black Alliance for Just Immigration
-- See Georgia-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+Atlanta Solidarity Fund — provides cash bail, jail support, and post-arrest support to protesters experiencing repression, and helps them access legal representation.
+Atlanta chapter of the Black Alliance for Just Immigration See Georgia-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
 And see GA-based groups from the National Bail Fund directory.
-- CASA Georgia — hub for advocacy and organizing among Black, immigrant, and working-class communities
-- Georgia Immigration Bond Fund
-HAWAII
-ILLINOIS
-- If you believe you are witnessing ICE activity, please call the Illinois Coalition for Immigrant & Refugee Rights’ 24-Hour Family Support Hotline at 1-855-HELP-MY-FAMILY (1-855-435-7693) to report it.
-More resources here.
-- Organized Communities Against Deportations does rapid response work in and near Chicago and offers a list of Chicago-based resources for immigrants.
-- The Chicago Freedom School organizes young people to be leaders for justice and trains groups and individuals how to build networks and dismantle oppression.
-The group is part of a No Trump No Troops Coalition with Equity and Transformation.
-- AMPT Chicago has Know Your Rights recommendations for Illinois-based nonprofit organizations.
-- Asian Americans Advancing Justice Chicago offers bystander intervention trainings and regular meetings for community members who want to join the movement for racial equity.
-- See Illinois-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
-IOWA
-- Prairielands Freedom Fund supports people with pre-trial bail and immigration bond
-- Iowa Migrant Movement for Justice
-- ACLU Iowa – Immigrants’ rights
-INDIANA
-KENTUCKY
-LOUISIANA
-- See Louisiana-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
-- New Orleans Safety & Freedom Fund
-- YWCA Greater Baton Rouge Community Bail Fund
-MARYLAND
-- See Maryland-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
-- BALT Community Bail Fund helps with pre-trial bail
-- CASA in Maryland runs campaigns to pass immigration reform, meaningful police reform, tenant rights, and worker protections.
+CASA Georgia — hub for advocacy and organizing among Black, immigrant, and working-class communities Georgia Immigration Bond Fund HAWAII Hawaii Community Bail Fund ILLINOIS If you believe you are witnessing ICE activity, please call the Illinois Coalition for Immigrant & Refugee Rights ’ 24-Hour Family Support Hotline at 1-855-HELP-MY-FAMILY (1-855-435-7693) to report it.
+More resources here .
+Organized Communities Against Deportations does rapid response work in and near Chicago and offers a list of Chicago-based resources for immigrants .
+The Chicago Freedom School organizes young people to be leaders for justice and trains groups and individuals how to build networks and dismantle oppression.
+The group is part of a No Trump No Troops Coalition with Equity and Transformation .
+AMPT Chicago has Know Your Rights recommendations for Illinois-based nonprofit organizations .
+Asian Americans Advancing Justice Chicago offers bystander intervention trainings and regular meetings for community members who want to join the movement for racial equity.
+See Illinois-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
+IOWA Prairielands Freedom Fund supports people with pre-trial bail and immigration bond Iowa Migrant Movement for Justice ACLU Iowa – Immigrants’ rights INDIANA Midwest Immigration Bond Fund KENTUCKY Louisville Community Bail Fund Midwest Immigration Bond Fund LOUISIANA See Louisiana-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
+New Orleans Safety & Freedom Fund YWCA Greater Baton Rouge Community Bail Fund MARYLAND See Maryland-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases.
+BALT Community Bail Fund helps with pre-trial bail CASA in Maryland runs campaigns to pass immigration reform, meaningful police reform, tenant rights, and worker protections.
 Check out their programs including support for obtaining citizenship, legal services for low-income immigrants, community organizing, and more.
-MASSACHUSETTS
-- Massachusetts Bail Fund & Decarcerate WMass Bailout Project (Franklin & Hampshire counties) for pre-trial bail support
-- Immigration bond and legal services: Beyond Bail & Legal Defense Fund
-MICHIGAN
-- Detroit map of community resources like food pantries, services for unhoused people, free healthcare services, and more
-- Michigan Immigrant Rights Center
-- People seeking help or immigration legal services can call 734-239-6863 on Tuesday & Wednesday from 10 am – 4 pm
-- Intake line for immigrant worker rights cases, operated jointly with Farmworker Legal Services of Michigan: 1-800-968-4046
-- Detained immigrant information line for detainees: (734) 794-9963, 9:15 am – 4:30 pm Monday – Friday
-- Families or friends of detained immigrants can call (734) 239-6863
-- Detroit-Michigan Chapter of the National Lawyers Guild
-- Immigration resources, legal directory, MI Know Your Rights information, more resources including protester legal support hotline, or request Legal Observers to attend your protest to help reduce possible negative consequences from the criminal legal system
-- African Bureau for Immigration and Social Affairs (ABISA)
-- Building stronger communities where Black immigrants can thrive, with programs such as the Black Migrant Itinerant Law Clinic.
-- If your loved one is detained, needs a bond or legal support, or is out of detention and you want to know what’s next: call 313-774-7891, email [email protected], 11am to 7pm, Wolof/ French/English/Arab/Pulaar
-- ACLU Michigan — Know Your Rights information, including for protesters
-- Michigan Liberation — Works with National Bail Out to post bail for Black mamas and caregivers, as well as community outreach and advocacy
-- Michigan Solidarity Bail Fund — Frees people from pretrial detention around the state, including protesters
-- Grand Rapids Rapid Response to ICE — See Facebook page for upcoming trainings and events
-- Kent County Immigration Bond for Our Neighbor’s Defense Fund
-MISSISSIPPI
-- See Mississippi-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases
-MISSOURI
-- See Missouri-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
-- Boone County Community Bail Fund – Columbia, MO
-- Reale Justice Community Bail Fund – Kansas City, MO
-MINNESOTA
-- Black Immigrant Collective — Local resources
-- Minnesota Freedom Fund pays criminal bail and immigration bonds, helping release protesters and immigrants and others who can’t afford it
-- Midwest Immigration Bond Fund pays immigration bonds for people detained by ICE
-- Immigrant Law Center of Minnesota provides legal representation for people detained in raids.
+MASSACHUSETTS Massachusetts Bail Fund & Decarcerate WMass Bailout Project (Franklin & Hampshire counties) for pre-trial bail support Immigration bond and legal services: Beyond Bail & Legal Defense Fund MICHIGAN Detroit map of community resources like food pantries, services for unhoused people, free healthcare services, and more Michigan Immigrant Rights Center People seeking help or immigration legal services can call 734-239-6863 on Tuesday & Wednesday from 10 am – 4 pm Intake line for immigrant worker rights cases, operated jointly with Farmworker Legal Services of Michigan: 1-800-968-4046 Detained immigrant information line for detainees: (734) 794-9963, 9:15 am – 4:30 pm Monday – Friday Families or friends of detained immigrants can call (734) 239-6863 Detroit-Michigan Chapter of the National Lawyers Guild Immigration resources , legal directory , MI Know Your Rights information, more resources including protester legal support hotline , or request Legal Observers to attend your protest to help reduce possible negative consequences from the criminal legal system African Bureau for Immigration and Social Affairs ( ABISA ) Building stronger communities where Black immigrants can thrive, with programs such as the Black Migrant Itinerant Law Clinic.
+If your loved one is detained, needs a bond or legal support, or is out of detention and you want to know what’s next: call 313-774-7891, email [email protected] , 11am to 7pm, Wolof/ French/English/Arab/Pulaar ACLU Michigan — Know Your Rights information , including for protesters Michigan Liberation — Works with National Bail Out to post bail for Black mamas and caregivers, as well as community outreach and advocacy Michigan Solidarity Bail Fund — Frees people from pretrial detention around the state, including protesters Grand Rapids Rapid Response to ICE — See Facebook page for upcoming trainings and events Kent County Immigration Bond for Our Neighbor’s Defense Fund MISSISSIPPI See Mississippi-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases MISSOURI See Missouri-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+Boone County Community Bail Fund – Columbia, MO Reale Justice Community Bail Fund – Kansas City, MO MINNESOTA Black Immigrant Collective — Local resources Minnesota Freedom Fund pays criminal bail and immigration bonds, helping release protesters and immigrants and others who can’t afford it Midwest Immigration Bond Fund pays immigration bonds for people detained by ICE Immigrant Law Center of Minnesota provides legal representation for people detained in raids.
 Their detention line is 1-651-641-1011.
-- The MN Chapter of the National Lawyers Guild runs a legal support hotline: 1-612-444-2654
-- The Legal Rights Center represents protesters; community-based legal defense
-- COPAL MN – Communities Organizing Latine Power and Action is running rapid response trainings, supporting grassroots organizing, and doing legislative advocacy.
+The MN Chapter of the National Lawyers Guild runs a legal support hotline: 1-612-444-2654 The Legal Rights Center represents protesters; community-based legal defense COPAL MN – Communities Organizing Latine Power and Action is running rapid response trainings, supporting grassroots organizing, and doing legislative advocacy.
 They have a line for people who are directly impacted or need support: 1-612-255-3112.
-- CAIR-Minnesota provides civil rights defense, particularly supporting the Somali community in Minneapolis
-NEVADA
-- Vegas Freedom Fund helps with pre-trial bail
-- Las Vegas Family Unity Bond Fund – Arriba Las Vegas Workers Center helps with immigration bond
-- Make the Road Action Nevada builds power with working-class, immigrant, and Latine Nevadans
-NEW HAMPSHIRE
-- New Hampshire Community Bail Fund helps with pre-trial bail
-- NH Conference UCC Immigrant and Refugee Support Group Immigrant Bond & Support Fund
-- ACLU New Hampshire has Know Your Rights information for immigrants and information for students.
-NEW JERSEY
-- Newark: 212-419-3737 Rapid Response Hotline, a project of the NJ May 1 Coalition
-- AMOR Bond Fund helps with immigration bond
-NEW MEXICO
-- Albuquerque: To report an immigration enforcement action or seek legal help for someone facing detention, call 1-844-363-1423 ext. 102.
+CAIR-Minnesota provides civil rights defense, particularly supporting the Somali community in Minneapolis NEVADA Vegas Freedom Fund helps with pre-trial bail Las Vegas Family Unity Bond Fund – Arriba Las Vegas Workers Center helps with immigration bond Make the Road Action Nevada builds power with working-class, immigrant, and Latine Nevadans NEW HAMPSHIRE New Hampshire Community Bail Fund helps with pre-trial bail NH Conference UCC Immigrant and Refugee Support Group Immigrant Bond & Support Fund ACLU New Hampshire has Know Your Rights information for immigrants and information for students .
+NEW JERSEY Newark: 212-419-3737 Rapid Response Hotline, a project of the NJ May 1 Coalition AMOR Bond Fund helps with immigration bond NEW MEXICO Albuquerque: To report an immigration enforcement action or seek legal help for someone facing detention, call 1-844-363-1423 ext.
+102.
 The hotline staffed from 6am-9pm Monday through Friday.
-- With Many Hands New Mexico supports working class communities coming together, including creating community gardens and building housing and food security.
+With Many Hands New Mexico supports working class communities coming together, including creating community gardens and building housing and food security.
 They have tips and toolkits for anyone who wants to take action in their community.
-NEW YORK
-- New York State Immigration Hotline: 1-800-566-7636 — Monday – Friday, 8am – 6pm
-- New York City: 1-212-725-6422 — Immigrant Defense Project
-- Catholic Charities New York State New Americans Hotline: 1-212-419-3737 or 1-800-566-7636 (Toll-free in NYS)
-- Central American Refugee Center NY: (516) 489-8330 — Provides free counseling via telephone to low-income people on basic immigration matters for English and Spanish-speaking immigrants and their family members.
-- Black Alliance for Just Immigration: New York Chapter
-- See New York-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
-And see NY-based groups from the National Bail Fund directory.
-- From ABISA: If your loved one needs a change of address/change of court to remain compliant we can help.
-Call 646-621-4142, 8am to 5pm, Wolof/ French/English/Arab/Pulaar
-NORTH CAROLINA
-- See NC-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
-And see NC-based groups from the National Bail Fund directory.
-- Siembra NC defends communities from ICE, supports workers, and empowers Latines in NC.
-- Hotline to call if you suspect ICE or police activity in your community, or if you’re experiencing workplace issues like stolen wages: 336-542-0353
-- Down Home North Carolina builds multiracial power with poor and working-class people in North Carolina’s small towns and rural communities.
-OHIO
-- See Ohio-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases
-OREGON
-- Portland area and its surroundings: 888-622-1510 — Portland Immigrants Rights Coalition
-- Know Your Rights information from ACLU Oregon — scroll down to see list of legal services
-PENNSYLVANIA
-- See PA-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+NEW YORK New York State Immigration Hotline : 1-800-566-7636 — Monday – Friday, 8am – 6pm New York City: 1-212-725-6422 — Immigrant Defense Project Catholic Charities New York State New Americans Hotline : 1-212-419-3737 or 1-800-566-7636 (Toll-free in NYS) Central American Refugee Center NY : (516) 489-8330 — Provides free counseling via telephone to low-income people on basic immigration matters for English and Spanish-speaking immigrants and their family members.
+Black Alliance for Just Immigration : New York Chapter See New York-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+And see N Y-based groups from the National Bail Fund directory.
+From ABISA : If your loved one needs a change of address/change of court to remain compliant we can help.
+Call 646-621-4142, 8am to 5pm, Wolof/ French/English/Arab/Pulaar NORTH CAROLINA See NC-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+And see N C-based groups from the National Bail Fund directory.
+Siembra NC defends communities from ICE, supports workers, and empowers Latines in NC.
+Hotline to call if you suspect ICE or police activity in your community, or if you’re experiencing workplace issues like stolen wages: 336-542-0353 Down Home North Carolina builds multiracial power with poor and working-class people in North Carolina’s small towns and rural communities.
+OHIO See Ohio-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases OREGON Portland area and its surroundings: 888-622-1510 — Portland Immigrants Rights Coalition Know Your Rights information from ACLU Oregon — scroll down to see list of legal services PENNSYLVANIA See PA-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
 And see PA-based groups from the National Bail Fund directory.
-- Know Your Rights information for immigrants from PA’s Community Justice Project
-- CASA San José runs a rapid response immigrant defense network in Pittsburgh
-- CASA Pennsylvania builds power from Central to Southeast PA for immigrant, Black, and brown communities.
-You can join their ally network here.
-- PA United works with working class people to build communities that work for all of us, connecting communities of color with white working-class communities in counties across Western PA
-RHODE ISLAND
-- See RI-based groups from the National Bail Fund directory.
-SOUTH CAROLINA
-- See SC-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases
-TENNESSEE
-- See TN-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+Know Your Rights information for immigrants from PA’s Community Justice Project CASA San José runs a rapid response immigrant defense network in Pittsburgh CASA Pennsylvania builds power from Central to Southeast PA for immigrant, Black, and brown communities.
+You can join their ally network here .
+PA United works with working class people to build communities that work for all of us, connecting communities of color with white working-class communities in counties across Western PA RHODE ISLAND See RI-based groups from the National Bail Fund directory.
+SOUTH CAROLINA See SC-based organizations listed in National Bail Out’s directory of Black-led organizations that they’ve worked with that post bail for pre-trial and immigration cases TENNESSEE See TN-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
 And see TN-based groups from the National Bail Fund directory.
-- The Tennessee Immigrant & Refugee Rights Coalition is a statewide, immigrant and refugee-led collaboration with a vision for a more inclusive Tennessee where people of all nationalities, immigration statuses, and racial identities can belong and thrive.
-They offer resources to immigrant families including a phone and text line: (615) 414-1030.
-TEXAS
-- The Houston Hub of the Black LGBTQIA+ Migrant Project
-- See TX-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
+The Tennessee Immigrant & Refugee Rights Coalition is a statewide, immigrant and refugee-led collaboration with a vision for a more inclusive Tennessee where people of all nationalities, immigration statuses, and racial identities can belong and thrive.
+They offer resources to immigrant families including a phone and text line : (615) 414-1030.
+TEXAS The Houston Hub of the Black LGBTQIA+ Migrant Project See TX-based organizations listed in National Bail Out’s directory of Black-led organizations they’ve worked with that post bail for pre-trial and immigration cases.
 And see TX-based groups from the National Bail Fund directory.
-UTAH
-VERMONT
-- Vermont Freedom Bail Fund helps with both pre-trial bail and immigration bond
-VIRGINIA
-- CASA Raid Tip Hotline to report encounters: 1-301-431-4185
-- More about CASA Virginia here, including their programs and how to join their ally network
-- National Korean American Service & Education Consortium: Virginia number is 703.256.2208 — Bi-lingual Korean/English
-- See VA-based groups from the National Bail Fund directory.
-WASHINGTON STATE
-- San Juan County: 1-360-376-7101 OR 1-206-365-2225 — Immigrant Protection Group
-- Seattle: 1-844-RAID-REP or 1-844-724-3737 — Raid Report. 6am – 9pm
-- See WA-based groups from the National Bail Fund directory.
-WISCONSIN
-- See WI-based groups from the National Bail Fund directory.
-- Grassroots Organizing Western Wisconsin (GROWW) is organizing local communities around environmental issues, housing justice, and more.
+UTAH Salt Lake Community Bail Fund VERMONT Vermont Freedom Bail Fund helps with both pre-trial bail and immigration bond VIRGINIA CASA Raid Tip Hotline to report encounters: 1-301-431-4185 More about CASA Virginia here , including their programs and how to join their ally network National Korean American Service & Education Consortium: Virginia number is 703.256.2208 — Bi-lingual Korean/English See VA-based groups from the National Bail Fund directory.
+WASHINGTON STATE San Juan County : 1-360-376-7101 OR 1-206-365-2225 — Immigrant Protection Group Seattle: 1-844-RAID-REP or 1-844-724-3737 — Raid Report.
+6am – 9pm See WA-based groups from the National Bail Fund directory.
+WISCONSIN See WI-based groups from the National Bail Fund directory.
+Grassroots Organizing Western Wisconsin (GROWW) is organizing local communities around environmental issues, housing justice, and more.
+Join Our Campaign Sign up for email updates so you can stay in the loop.
+Chip In Rashida does not take any money from corporate PACs.
+Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

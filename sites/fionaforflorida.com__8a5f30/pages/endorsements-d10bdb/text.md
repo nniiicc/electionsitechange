@@ -1,7 +1,3 @@
-Please make checks payable to:
-Fiona McFarland Campaign
-133 Harbor Dr S
-Venice, FL 34285
-Paid by Fiona McFarland, Republican, for State Representative, District 73
-Fiona McFarland is a member of the Navy Reserves.
+Home About Issues Endorsements Volunteer Donate Endorsements Suncoast Professional Firefighters & Paramedics IAFF Local 2546 Florida Police Benevolent Association Florida Chamber of Commerce Associated Industries of Florida Florida Realtors® PAC Federation of Manufactured Home Owners of Florida Stay Updated Sign Up Connect Donate Today Click here for printable support form Contact Information fiona@fionaforflorida.com 941-313-2367 Media or event requests?
+Please contact media@fionaforflorida.com Please make checks payable to: Fiona McFarland Campaign 133 Harbor Dr S Venice, FL 34285 Paid by Fiona McFarland, Republican, for State Representative, District 73 Fiona McFarland is a member of the Navy Reserves.
 Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.

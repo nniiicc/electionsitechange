@@ -1,64 +1,10 @@
-If you are interested in joining the Melissa McDonough For Congress campaign as a volunteer, please fill out the form below.
+About About Melissa About CD38 Platform Volunteer Request a Sign Events Election 2026 Newsletter Videos Donate Select Page If you are interested in joining the Melissa McDonough For Congress campaign as a volunteer, please fill out the form below.
 Someone from our team will contact you to see how you can help.
-Websites store cookies to enhance functionality and personalise your experience.
-You can manage your preferences, but blocking some cookies may impact site performance and services.
-Essential cookies enable basic functions and are necessary for the proper function of the website.
-Name
-Description
-Duration
-Cookie Preferences
-This cookie is used to store the user's cookie consent preferences.
-These cookies are needed for adding comments on this website.
-Name
-Description
-Duration
-comment_author
-Used to track the user across multiple sessions.
-Session
-comment_author_email
-Used to track the user across multiple sessions.
-Session
-comment_author_url
-Used to track the user across multiple sessions.
-Session
-Statistics cookies collect information anonymously.
-This information helps us understand how visitors use our website.
-Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
-Contains information related to marketing campaigns of the user.
-These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.
-__utma
-ID used to identify users and sessions
-2 years after last activity
-__utmt
-Used to monitor number of Google Analytics server requests
-__utmb
-Used to distinguish new sessions and visits.
-This cookie is set when the GA.js javascript library is loaded and there is no existing __utmb cookie.
-The cookie is updated every time data is sent to the Google Analytics server.
-__utmc
-Used only with old Urchin versions of Google Analytics and not with GA.js.
-Was used to distinguish between new sessions and visits at the end of a session.
-End of session (browser)
-__utmz
-Contains information about the traffic source or campaign that directed user to the website.
-The cookie is set when the GA.js javascript is loaded and updated when data is sent to the Google Anaytics server
-6 months after last activity
-__utmv
-Contains custom information set by the web developer via the _setCustomVar method in Google Analytics.
-This cookie is updated every time new data is sent to the Google Analytics server.
-2 years after last activity
-__utmx
-Used to determine whether a user is included in an A / B or Multivariate test.
-18 months
-_ga
-ID used to identify users
-2 years
-_gali
-Used by Google Analytics to determine which links on a page are being clicked
-_ga_
-ID used to identify users
-2 years
-_gid
-ID used to identify users for 24 hours after last activity
-_gat
-Used to monitor number of Google Analytics server requests when using Google Tag Manager
+Volunteer Sign-Up Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone * Address * Address Line 1 Address Line 2 City --- Select state --- Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming State Zip Code Precinct Number Find your precinct number here How can you help?
+Block walking Phone banking Sign placement Poll greeting / Line management Rideshare to polls Other Other: details What other way(s) can you help the campaign as a volunteer?
+Availability Schedule Please select the times you are available to volunteer.
+You do not have to commit to every shift or for the entire time frame.
+Mon Morning Lunch Afternoon Evening Tue Morning Lunch Afternoon Evening Wed Morning Lunch Afternoon Evening Thu Morning Lunch Afternoon Evening Fri Morning Lunch Afternoon Evening Sat Morning Lunch Afternoon Evening Sun Morning Lunch Afternoon Evening Comments Submit melissa@melissaforcongress.com 281-381-0219 Paid for by Melissa For Congress Treasurer: Jeff Autor © # All rights reserved Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window)

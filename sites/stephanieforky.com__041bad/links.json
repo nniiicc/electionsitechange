@@ -1,25 +1,110 @@
 [
-"http://instagram.com/stephanieforky",
-"https://bsky.app/profile/stephanieforky.bsky.social",
-"https://civicvoicepartners.com/",
-"https://facebook.com/stephanieforky",
-"https://secure.actblue.com/donate/stephanieforky",
-"https://secure.actblue.com/donate/stephanieforky?amount=100",
-"https://secure.actblue.com/donate/stephanieforky?amount=1000",
-"https://secure.actblue.com/donate/stephanieforky?amount=2200",
-"https://secure.actblue.com/donate/stephanieforky?amount=25",
-"https://secure.actblue.com/donate/stephanieforky?amount=250",
-"https://secure.actblue.com/donate/stephanieforky?amount=50",
-"https://secure.actblue.com/donate/stephanieforky?amount=500",
-"https://stephanieforky.com/",
-"https://stephanieforky.com/about",
-"https://stephanieforky.com/cart",
-"https://stephanieforky.com/events",
-"https://stephanieforky.com/home",
-"https://stephanieforky.com/priorities",
-"https://stephanieforky.com/stories",
-"https://stephanieforky.com/support",
-"https://tiktok.com/@stephanieforky",
-"https://x.com/stephanieforky",
-"https://youtube.com/@StephanieforKY"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=1000"
+},
+{
+"text": "$2200",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=2200"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/stephanieforky?amount=500"
+},
+{
+"text": "$_",
+"href": "https://secure.actblue.com/donate/stephanieforky"
+},
+{
+"text": "0",
+"href": "https://stephanieforky.com/cart"
+},
+{
+"text": "About",
+"href": "https://stephanieforky.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/stephanieforky"
+},
+{
+"text": "Events",
+"href": "https://stephanieforky.com/events"
+},
+{
+"text": "Home",
+"href": "https://stephanieforky.com/"
+},
+{
+"text": "Learn more about Stephanie→",
+"href": "https://stephanieforky.com/about"
+},
+{
+"text": "Learn more →",
+"href": "https://stephanieforky.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://stephanieforky.com/priorities"
+},
+{
+"text": "Stories",
+"href": "https://stephanieforky.com/stories"
+},
+{
+"text": "Support",
+"href": "https://stephanieforky.com/support"
+},
+{
+"text": "[image: Stephanie White for Kentucky House]",
+"href": "https://stephanieforky.com/"
+},
+{
+"text": "[image]",
+"href": "https://stephanieforky.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.civicvoicepartners.com"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stephanieforky/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/stephanieforky.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stephanieforky/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@stephanieforky"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@StephanieforKY"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/stephanieforky"
+}
 ]

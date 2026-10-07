@@ -1,13 +1,12 @@
-A week ago, Friday, in the wee hours of the morning after the last day of the Veto Session, the Illinois State Senate passed a bill that, if signed by Gov.
-Pritzker, would legalize assisted suicide.
+ELIZABETH BAUER Illinois House District 53 Home Issues Positions Events Donate Commentary A call for Pritzker: To Protect Illinoisans, Veto the Assisted Suicide Bill November 10, 2025 · Elizabeth Bauer A week ago, Friday, in the wee hours of the morning after the last day of the Veto Session, the Illinois State Senate passed a bill that, if signed by Gov.
+Pritzker, would legalize assisted suicide .
 At this point, Pritzker has not made any statement about his plans.
 If it weren’t absurdly presumptuous of me to believe my words would reach his ears, I would make a direct call to him: Please veto this bill!
 Since I live in the real world, I’ll try instead to explain, as best as I can, why I earnestly hope and pray that Pritzker will do so.
-First, please bear with me as I provide some info:
-As always, the sausage-making was unsavory.
-Before being passed by the Senate, that bill was passed by the House at the end of the Spring Session, as a “shell bill” rather than going through the usual three-readings legislative process, after the original bill (SB9 and HB1328) as introduced in January 2025 failed to make it through the committee process.
+First, please bear with me as I provide some info: As always, the sausage-making was unsavory.
+Before being passed by the Senate, that bill was passed by the House at the end of the Spring Session, as a “shell bill” rather than going through the usual three-readings legislative process, after the original bill ( SB9 and HB1328 ) as introduced in January 2025 failed to make it through the committee process.
 Throughout the session, it seemed like the bill had little support and significant opposition, until at the last minute Majority Leader Rep.
-Robyn Gabel introduced the bill as an amendment to SB1950, a bill on sanitary food preparation.
+Robyn Gabel introduced the bill as an amendment to SB1950 , a bill on sanitary food preparation.
 And, in fact, unlike most bills which passed purely on party lines, the Senate vote had only just barely enough votes to pass it (30 Y, 27 N, 2 not voting, with 11 Democrats opposing the bill), and there were also many House Democrats who voted No on the bill (61 Y, 17 N, 4 not voting, and 3 excused absences of the total of 78 total Democrats).
 In other words, even as far to the left as Illinois Democrats are, this bill had to be rammed through in the middle of the night because it is not just something Republicans oppose but because it is deservedly controversial!
 Its supporters claim there are many safeguards built into the assisted suicide system that the bill would legalize.
@@ -16,10 +15,8 @@ Then they would be eligible for a prescription for a drug which, in the language
 But the bill doesn’t provide enough protections for patients.
 It doesn’t provide enough protections for healthcare providers.
 And it doesn’t provide enough protections for the disabled, the elderly, and everyone else in difficult situations.
-Missing protections for patients
-It’s true that the bill requires an assessment of mental capacity, and the bill specifies that “a diagnosis of a major depressive disorder . . . alone does not qualify as a terminal disease.” But in fact, its definition of “mental capacity” is very broad, merely that the individual “has the ability to make and communicate an informed decision.” It is in fact fairly common that patients given a terminal diagnosis do suffer from depression but that they can benefit significantly from mental healthcare, yet there is no requirement that patients be assessed for or receive any such treatment – it is instead assumed that their decision to die is “logical” and “reasonable” under the circumstances.
-What’s more, a patient requesting an assisted suicide drug must have explained to them “the feasible end-of-life care and treatment options for the patient’s terminal disease, including, but not limited to, comfort care, palliative care, hospice care, and pain control, and the risks and benefits of each.”
-But nowhere in the bill is any consideration given to whether patients facing terminal illnesses actually have available to them “standard of care”-level palliative care or hospice care options.
+Missing protections for patients It’s true that the bill requires an assessment of mental capacity, and the bill specifies that “a diagnosis of a major depressive disorder . . . alone does not qualify as a terminal disease.” But in fact, its definition of “mental capacity” is very broad, merely that the individual “has the ability to make and communicate an informed decision.” It is in fact fairly common that patients given a terminal diagnosis do suffer from depression but that they can benefit significantly from mental healthcare, yet there is no requirement that patients be assessed for or receive any such treatment – it is instead assumed that their decision to die is “logical” and “reasonable” under the circumstances.
+What’s more, a patient requesting an assisted suicide drug must have explained to them “the feasible end-of-life care and treatment options for the patient’s terminal disease, including, but not limited to, comfort care, palliative care, hospice care, and pain control, and the risks and benefits of each.” But nowhere in the bill is any consideration given to whether patients facing terminal illnesses actually have available to them “standard of care”-level palliative care or hospice care options.
 This is what actually should be top-priority in any laws we make about end-of-life care!
 The bill also requires the physician to sign off that the patient is not being coerced or unduly influenced by any particular individual, though there is not any requirement that they put forth effort into investigating this other than questioning the patient.
 What’s more, coercion is more pervasive than this.
@@ -27,13 +24,10 @@ Even if a terminally-ill patient is not explicitly being pressured by a family m
 And how often have we heard critics of medical spending for the old, talk about the “duty to die”?
 How much coercion will people experience from the world around them?
 Finally, while the patient must be able to “ingest” the drug, all other steps may be taken by others, including “preparing” the drugs, which further increases the opportunities for coercion.
-Missing protections for providers
-The bill requires that a physician or healthcare practice transfer medical records to another provider or practice when requested, and that’s fair enough, because it’s an appropriate requirement in any case to enable patients to transfer providers.
-But this bill goes further:
-Doctors and practices who want to opt out of prescribing assisted suicide pills would still be required to find other providers who would be willing to, and to refer patients to them.
-And healthcare entities (such as a nursing home, including charitable/religious facilities such as Little Sisters of the Poor near us in Palatine which relies heavily on volunteers and donations to serve the elderly poor) would be protected from providing assisted suicide directly, and may prohibit its employees from providing assisted suicide services while “on the clock.” But that’s as far as it goes: they would not be able to prohibit their employees from counseling residents on how to follow the assisted suicide process, or prohibit them from actively being involved, so long as the actual ingestion occurs off-site and after their shift.
-Missing protections for the community
-When it comes down to it, laws are more than just legal permissions or prohibitions.
+Missing protections for providers The bill requires that a physician or healthcare practice transfer medical records to another provider or practice when requested, and that’s fair enough, because it’s an appropriate requirement in any case to enable patients to transfer providers.
+But this bill goes further: Doctors and practices who want to opt out of prescribing assisted suicide pills would still be required to find other providers who would be willing to , and to refer patients to them.
+And healthcare entities (such as a nursing home, including charitable/religious facilities such as Little Sisters of the Poor near us in Palatine which relies heavily on volunteers and donations to serve the elderly poor) would be protected from providing assisted suicide directly, and may prohibit its employees from providing assisted suicide services while “on the clock.” But that’s as far as it goes: they would not be able to prohibit their employees from counseling residents on how to follow the assisted suicide process , or prohibit them from actively being involved, so long as the actual ingestion occurs off-site and after their shift.
+Missing protections for the community When it comes down to it, laws are more than just legal permissions or prohibitions.
 They communicate messages.
 When people advocate for a bill increasing support for the disabled, it’s not just about the money but it’s a statement by the state that the lives of the disabled are worth living, and have value.
 And here it’s just the opposite: this bill amounts to a formal declaration by the state that some lives truly aren’t worth living, that some suicides truly are “rational.” When this happens, it’s simply not possible to wall off a narrow category of “justifiable suicides” from everyone else, however much supporters might try to create their own categories of which suicides are rational and which aren’t.
@@ -48,7 +42,8 @@ We can declare all the safeguards we want, but once implemented, there is no fir
 Finally, even the bill’s definition of “terminal disease” provides the first step for a breaching of safeguards: “an incurable and irreversible disease that will, within reasonable judgement, result in death within 6 months” might be intended by supporters to referring to such diseases as end-stage cancer where further attempts at treatment are considered futile and cause suffering without benefit.
 But nothing in the definition requires that the treatments have been attempted or be considered futile, and one way in which assisted suicide has been expanded elsewhere has been by widening the definition of “terminal disease” to include any disease which might result in death if medication or treatment were discontinued or never attempted.
 Here all that would be needed would be to interpret the definition literally.
-The bottom line is this:
-An assisted suicide law is wrong for the state of Illinois and the people of Illinois.
+The bottom line is this: An assisted suicide law is wrong for the state of Illinois and the people of Illinois.
 What we need to do instead is ensure that every Illinoisan has the necessary access to palliative care, so that they need not fear that the end stage of their disease will mean suffering and pain.
-And we need greater support for the disabled so that dependency on others for physical care needs is accepted as, not a loss of human dignity, but simply a part of what it means to be human.
+And we need greater support for the disabled so that dependency on others for physical care needs is accepted as, not a loss of human dignity, but simply a part of what it means to be human. https://picryl.com/media/hospice-caring-elderly-7bd3d0; public domain/Creative Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
+Illinois needs someone who reads the numbers and does the math before spending your money.
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com

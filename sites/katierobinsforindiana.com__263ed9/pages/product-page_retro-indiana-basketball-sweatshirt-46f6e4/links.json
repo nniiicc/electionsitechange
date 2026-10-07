@@ -1,20 +1,86 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt&title=Retro+Indiana+Basketball+Crewneck+%28Cotton+Heritage%29",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt&media=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fe4ad8c_c874b63fb2934d4f950dad820c25af1b~mv2.jpg%2Fv1%2Ffill%2Fw_2000%2Ch_2000%2Cal_c%2Cq_85%2Fe4ad8c_c874b63fb2934d4f950dad820c25af1b~mv2.jpg&description=Retro+Indiana+Basketball+Crewneck+%28Cotton+Heritage%29",
-"http://tiktok.com/@katierobins4indiana",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt",
-"https://facebook.com/profile.php?id=61587271627332",
-"https://iga.in.gov/publications/maps/house-districts/IndianaHouseDistrictMap2021.pdf",
-"https://instagram.com/katierobins4indiana",
-"https://katierobinsforindiana.com/",
-"https://katierobinsforindiana.com/about",
-"https://katierobinsforindiana.com/accessibility-statement",
-"https://katierobinsforindiana.com/category/all-products",
-"https://katierobinsforindiana.com/contact",
-"https://katierobinsforindiana.com/district31",
-"https://katierobinsforindiana.com/donate",
-"https://katierobinsforindiana.com/event-list",
-"https://katierobinsforindiana.com/privacy-policy",
-"https://katierobinsforindiana.com/volunteer",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt&text=Retro+Indiana+Basketball+Crewneck+%28Cotton+Heritage%29%0A"
+{
+"text": "About",
+"href": "https://www.katierobinsforindiana.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.katierobinsforindiana.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.katierobinsforindiana.com/contact"
+},
+{
+"text": "District 31",
+"href": "https://www.katierobinsforindiana.com/district31"
+},
+{
+"text": "Donate",
+"href": "https://www.katierobinsforindiana.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.katierobinsforindiana.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.katierobinsforindiana.com"
+},
+{
+"text": "KATIE ROBINS FOR INDIANA",
+"href": "https://www.katierobinsforindiana.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.katierobinsforindiana.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://www.katierobinsforindiana.com/category/all-products"
+},
+{
+"text": "Stay Connected With the Campaign",
+"href": "https://www.katierobinsforindiana.com"
+},
+{
+"text": "View District Map",
+"href": "https://iga.in.gov/publications/maps/house-districts/IndianaHouseDistrictMap2021.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.katierobinsforindiana.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587271627332"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/katierobins4indiana/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@katierobins4indiana"
+},
+{
+"text": "[no text]",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt&media=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fe4ad8c_c874b63fb2934d4f950dad820c25af1b~mv2.jpg%2Fv1%2Ffill%2Fw_2000%2Ch_2000%2Cal_c%2Cq_85%2Fe4ad8c_c874b63fb2934d4f950dad820c25af1b~mv2.jpg&description=Retro+Indiana+Basketball+Crewneck+%28Cotton+Heritage%29"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt&title=Retro+Indiana+Basketball+Crewneck+%28Cotton+Heritage%29"
+},
+{
+"text": "[no text]",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.katierobinsforindiana.com%2Fproduct-page%2Fretro-indiana-basketball-sweatshirt&text=Retro+Indiana+Basketball+Crewneck+%28Cotton+Heritage%29%0A"
+},
+{
+"text": "krobinsmedia@outlook.com",
+"href": "mailto:info@mysite.com"
+}
 ]

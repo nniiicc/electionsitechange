@@ -1,10 +1,1 @@
-Skip to content
-Donate
-Meet Justin
-Issues
-News
-Meet Justin
-Issues
-News
-Donate
-Donate
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate Donate Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

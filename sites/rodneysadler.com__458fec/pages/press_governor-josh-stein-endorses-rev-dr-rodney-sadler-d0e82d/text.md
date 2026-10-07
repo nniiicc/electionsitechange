@@ -1,4 +1,6 @@
-Charlotte, NC — On Monday, January 5th, Governor Josh Stein announced his endorsement of Democrat Rev.
+Skip to content Home About Meet Rodney Platform Endorsements Press Releases News Take Action Get Involved Vote Donate Home About Meet Rodney Platform Endorsements News Articles Press Releases Take Action Vote Get Involved Donate Menu GOVERNOR JOSH STEIN ENDORSES REV.
+DR.
+RODNEY SADLER January 5, 2026 Charlotte, NC — On Monday, January 5th, Governor Josh Stein announced his endorsement of Democrat Rev.
 Dr.
 Rodney Sadler in his primary campaign for NC House District 106.
 “I am proud to stand with Rev.
@@ -8,8 +10,7 @@ Stein.
 “The people of North Charlotte deserve a representative who will fight for Democratic values, defend our public schools, and keep costs down.
 Rev.
 Dr.
-Sadler will help us build a North Carolina where we can all afford to thrive.”
-In the March 3rd primary election, Rev.
+Sadler will help us build a North Carolina where we can all afford to thrive.” In the March 3rd primary election, Rev.
 Dr.
 Sadler is challenging incumbent Rep.
 Carla Cunningham, who voted with Republicans more frequently than any other Democrat in the NC House in 2025, repeatedly overriding the Governor’s veto of legislation that will raise utility bills, reduce school accountability, weaken clean water protections, advance dark money into politics, and force local law enforcement to collaborate with Trump’s ICE.
@@ -21,8 +22,7 @@ Josh Stein,” said Rev.
 Dr.
 Sadler.
 “In the NC House, I will stand with Gov.
-Stein to build a stronger North Carolina where everyone can thrive.”
-Successful primary challenges in the NC General Assembly are rare, but not unprecedented.
+Stein to build a stronger North Carolina where everyone can thrive.” Successful primary challenges in the NC General Assembly are rare, but not unprecedented.
 Examples include Rep.
 Rodney Pierce, who unseated Rep.
 Michael Wray in 2024, and Sen.
@@ -31,7 +31,15 @@ Kirk deViere in 2022 – despite a crowded field – in part thanks to impressiv
 Roy Cooper.
 Rev.
 Dr.
+Sadler has now raised more than $# and earned early endorsements from Gov.
 Stein, the hospitality workers’ union UNITE HERE, and more than 20 local leaders.
 More information on Rev.
 Dr.
 Sadler and his campaign is available on his website, www.RodneySadler.com.
+### Friends of Rev.
+Dr.
+Rodney Sadler PO Box 480053 Charlotte, NC 28269 Media Inquiries Paid for by Friends of Rev.
+Dr.
+Rodney Sadler.
+Website designed by Express Lane Strategies .
+Privacy Policy .

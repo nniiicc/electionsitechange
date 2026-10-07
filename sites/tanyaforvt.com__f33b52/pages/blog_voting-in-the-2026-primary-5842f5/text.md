@@ -1,3 +1,2 @@
-Voting in the 2026 Primary
-With less than 2 weeks to go till the primary election on August 11th, a lot of people have questions on where and how you vote early or at the polls.
-If you need to request a ballot, check your voter registration, or find your polling place, head to Vote.Vermont.gov
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Voting in the 2026 Primary Jul 31 Written By Tanya Vyhovsky With less than 2 weeks to go till the primary election on August 11th, a lot of people have questions on where and how you vote early or at the polls.
+If you need to request a ballot, check your voter registration, or find your polling place, head to Vote.Vermont.gov Tanya Vyhovsky Next Next Reflections from the Campaign Kickoff Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

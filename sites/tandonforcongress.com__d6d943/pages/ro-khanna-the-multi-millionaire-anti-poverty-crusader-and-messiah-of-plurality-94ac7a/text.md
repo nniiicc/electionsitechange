@@ -1,4 +1,4 @@
-Why does an ethnically diverse district in which the median income of households is $141,000 per annum need an anti-poverty and anti-fascism campaign?
+Home Chinese Vietnamese Volunteering Donation Sign-Up Contact News Ro Khanna News Ro Khanna, the anti-poverty crusader and messiah of plurality January 7, 2020 Why does an ethnically diverse district in which the median income of households is $141,000 per annum need an anti-poverty and anti-fascism campaign?
 This is probably the question that arises in the minds of many reasonable-minded people in Ro Khanna’s district and around the country.
 The answer to the question is simple.
 Khanna has no interest in representing the interests of his constituents.
@@ -30,5 +30,4 @@ These actions clearly show that Khanna will do anything to satisfy his lust for 
 Ro Khanna, one of the 15 richest members of Congress, is trying to masquerade as a crusader for the poor and a paragon of plurality.
 In reality, he is an unscrupulous charlatan who is spreading misinformation and creating divisions within American society by aligning with extremists and targeting vulnerable Hindus.
 For America’s sake, I hope he does not win re-election in 2020 or more importantly, obtain a post of importance in any future Democratic administration.
-(The views expressed are personal.)
-Source: India Post
+(The views expressed are personal.) Source : India Post admin previous 230 Indian-American organisations urge RO Khanna to withdraw from Pakistan Caucus next Ro Khanna-A Power-Hungry Politician or Unscrupulous Charlatan PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress.com Popular Links Home News How Can You Help Volunteering Donation Contact Terms & Conditions Privacy Policy

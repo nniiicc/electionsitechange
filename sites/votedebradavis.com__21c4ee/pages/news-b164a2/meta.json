@@ -1,10 +1,17 @@
 {
  "description": "Debra Davis in the News",
  "final_url": "https://www.votedebradavis.com/news",
- "paid_for_by": null,
+ "fingerprint": "dc274fe07b4c3be52b98f8f09335b75e39ba4e3f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
+  "2012",
+  "2016",
   "2017",
-  "2018"
+  "2018",
+  "2021",
+  "2025",
+  "2026"
  ]
 }

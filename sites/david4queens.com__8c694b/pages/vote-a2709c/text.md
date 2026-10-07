@@ -1,4 +1,4 @@
-VOTE FOR DAVID Early voting: June 13-21 Election day: June 23 FIND YOUR POLLING SITE It’s not too late TO GET involved SIGN UP EVENTS Are you in District 38?
+0 Skip to Content About David Priorities Endorsements Donate Vote Our Platform Volunteer Events District 38 Press English Open Menu Close Menu About David Priorities Endorsements Donate Vote Our Platform Volunteer Events District 38 Press English Open Menu Close Menu About David Priorities Endorsements Donate Vote Our Platform Volunteer Events District 38 Press English Back VOTE FOR DAVID Early voting: June 13-21 Election day: June 23 FIND YOUR POLLING SITE It’s not too late TO GET involved SIGN UP EVENTS Are you in District 38?
 Check this map to see if you can vote for David!
 Unsure if you’re registered to vote?
-Click the button below to visit nycvotes.org Check your registration
+Click the button below to visit nycvotes.org Check your registration General: info@david4queens.com Press: press@david4queens.com Connect with the campaign Privacy Policy Paid for by David for Queens 2026

@@ -1,20 +1,106 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61578231523421",
-"https://facebook.com/share/1DyuJbbB5h",
-"https://facebook.com/share/1HuAJAA9R1",
-"https://instagram.com/steeleformissouri",
-"https://plattecountymovotes.gov/",
-"https://secure.actblue.com/donate/tracey-steele-1",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://steeleformissouri.com/",
-"https://steeleformissouri.com/about",
-"https://steeleformissouri.com/endorsements",
-"https://steeleformissouri.com/gallery",
-"https://steeleformissouri.com/issues",
-"https://steeleformissouri.com/rebuilding-missouri",
-"https://steeleformissouri.com/volunteer",
-"https://steeleformissouri.com/vote",
-"https://vote.org/absentee-ballot",
-"https://voteroutreach.sos.mo.gov/portal"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "$12",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://voteroutreach.sos.mo.gov/portal"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "How to vote",
+"href": "https://www.steeleformissouri.com/vote"
+},
+{
+"text": "Join us!",
+"href": "https://www.steeleformissouri.com/volunteer"
+},
+{
+"text": "MEDIA GALLERY",
+"href": "https://www.steeleformissouri.com/gallery"
+},
+{
+"text": "Meet Tracey",
+"href": "https://www.steeleformissouri.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/tracey-steele-1"
+},
+{
+"text": "Platte County Election Board",
+"href": "https://www.plattecountymovotes.gov/"
+},
+{
+"text": "RSVP",
+"href": "https://www.facebook.com/share/1HuAJAA9R1/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Rebuilding Missouri",
+"href": "https://www.steeleformissouri.com/rebuilding-missouri"
+},
+{
+"text": "Register",
+"href": "https://www.facebook.com/share/1DyuJbbB5h/"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.vote.org/absentee-ballot/"
+},
+{
+"text": "View More",
+"href": "https://www.steeleformissouri.com/endorsements"
+},
+{
+"text": "View More",
+"href": "https://www.steeleformissouri.com/issues"
+},
+{
+"text": "[image: steeleformissouri logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.steeleformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578231523421"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/steeleformissouri"
+},
+{
+"text": "steeleformissouri@gmail.com",
+"href": "mailto:steeleformissouri@gmail.com"
+}
 ]

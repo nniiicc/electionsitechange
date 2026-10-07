@@ -1,10 +1,46 @@
 [
-"https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/",
-"https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/accessibility-statement",
-"https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/events",
-"https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/issues",
-"https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/meet-candidate",
-"https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/volunteer",
-"https://heyvictor.com/",
-"https://secure.actblue.com/donate/truelove4ks"
+{
+"text": "About Mac",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/meet-candidate/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/truelove4ks?amount="
+},
+{
+"text": "Events",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/events/"
+},
+{
+"text": "Home",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/"
+},
+{
+"text": "Issues",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/volunteer/"
+},
+{
+"text": "[image] [image]",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "https://f909fe73-49df-4053-84a6-ece2171ebf#d.sitesab.com",
+"href": "https://f909fe73-49df-4053-84a6-ece2171ebf2d.sitesab.com"
+}
 ]

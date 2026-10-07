@@ -1,17 +1,62 @@
 [
-"https://bramvt.com/",
-"https://bramvt.com/about",
-"https://bramvt.com/contact",
-"https://bramvt.com/endorsements",
-"https://bramvt.com/events",
-"https://bramvt.com/fun-facts",
-"https://bramvt.com/lawnsign",
-"https://bramvt.com/the-issues",
-"https://climatechange.vermont.gov/readtheplan",
-"https://facebook.com/bramforvermont",
-"https://instagram.com/bramforvermont",
-"https://linkedin.com/in/bram-kleppner-b846a3",
-"https://mailchi.mp/6ba730b8dfc6/subscribe-to-my-newsletter",
-"https://secure.actblue.com/donate/bramvt",
-"https://sightline.org/2022/03/16/homelessness-is-a-housing-problem"
+{
+"text": "About",
+"href": "https://www.bramvt.com/about"
+},
+{
+"text": "Climate Action Plan",
+"href": "https://climatechange.vermont.gov/readtheplan"
+},
+{
+"text": "Contact",
+"href": "https://www.bramvt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bramvt"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bramvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bramvt.com/events"
+},
+{
+"text": "Fun Facts",
+"href": "https://www.bramvt.com/fun-facts"
+},
+{
+"text": "Request a Lawn Sign!",
+"href": "https://www.bramvt.com/lawnsign"
+},
+{
+"text": "Subscribe",
+"href": "https://mailchi.mp/6ba730b8dfc6/subscribe-to-my-newsletter"
+},
+{
+"text": "The Issues",
+"href": "https://www.bramvt.com/the-issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/bramforvermont"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bramforvermont"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/bram-kleppner-b846a3"
+},
+{
+"text": "[image]",
+"href": "https://www.bramvt.com"
+},
+{
+"text": "https://www.sightline.org/2022/03/16/homelessness-is-a-housing-problem/",
+"href": "https://www.sightline.org/2022/03/16/homelessness-is-a-housing-problem/"
+}
 ]

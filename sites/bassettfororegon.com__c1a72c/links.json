@@ -1,11 +1,42 @@
 [
-"https://bassettfororegon.com/",
-"https://bassettfororegon.com/about",
-"https://bassettfororegon.com/cart",
-"https://bassettfororegon.com/contact",
-"https://bassettfororegon.com/endorsements",
-"https://bassettfororegon.com/home",
-"https://donation.c-esystems.com/campaign/bassettfororegon",
-"https://facebook.com/people/Nicole-Bassett/61577481882736",
-"https://instagram.com/bassettfororegon"
+{
+"text": "0",
+"href": "https://www.bassettfororegon.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bassettfororegon.com/about"
+},
+{
+"text": "Count me in!",
+"href": "https://www.bassettfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donation.c-esystems.com/campaign/bassettfororegon"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bassettfororegon.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.bassettfororegon.com/home"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bassettfororegon.com/contact"
+},
+{
+"text": "[image: Nicole Bassett for Oregon]",
+"href": "https://www.bassettfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Nicole-Bassett/61577481882736/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bassettfororegon/"
+}
 ]

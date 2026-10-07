@@ -1,17 +1,102 @@
 [
-"https://azureduan.com/",
-"https://azureduan.com/about",
-"https://azureduan.com/privacy",
-"https://azureduan.com/terms",
-"https://azureduan.com/volunteer",
-"https://facebook.com/profile.php?id=61583557217200",
-"https://secure.winred.com/azure-duan-for-state-house/donate",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=100",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=1000",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=25",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=250",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=2500",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=50",
-"https://secure.winred.com/azure-duan-for-state-house/donate?amount=500",
-"https://x.com/AzureDuanGA"
+{
+"text": "$100",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=250"
+},
+{
+"text": "$2500",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=2500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate?amount=500"
+},
+{
+"text": "ABOUT",
+"href": "https://www.azureduan.com/about"
+},
+{
+"text": "CONTACT",
+"href": "mailto:azureduan4ga@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate"
+},
+{
+"text": "DONATE NOW TO SEND AZURE TO THE STATE HOUSE",
+"href": "https://secure.winred.com/azure-duan-for-state-house/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.azureduan.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.azureduan.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.azureduan.com/volunteer"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.azureduan.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.azureduan.com/privacy"
+},
+{
+"text": "T",
+"href": "https://www.azureduan.com/terms"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.azureduan.com/terms"
+},
+{
+"text": "[image: Duan symbols (5)]",
+"href": "https://www.facebook.com/profile.php?id=61583557217200"
+},
+{
+"text": "[image: Duan symbols (7)]",
+"href": "https://x.com/AzureDuanGA"
+},
+{
+"text": "[image: Duan symbols (8)]",
+"href": "https://x.com/AzureDuanGA"
+},
+{
+"text": "[image: Duan symbols (9)]",
+"href": "https://www.facebook.com/profile.php?id=61583557217200"
+},
+{
+"text": "[image: logos-01 (1).png]",
+"href": "https://www.azureduan.com"
+},
+{
+"text": "[image: logos-01.png]",
+"href": "https://www.azureduan.com"
+},
+{
+"text": "erms & Conditions.",
+"href": "https://www.azureduan.com/terms"
+}
 ]

@@ -1,15 +1,58 @@
 [
-"https://efundraisingconnections.com/c/JimWalsh",
-"https://electjimwalsh.org/",
-"https://electjimwalsh.org/about",
-"https://electjimwalsh.org/author/abhays",
-"https://electjimwalsh.org/campaign-videos",
-"https://electjimwalsh.org/category/uncategorized",
-"https://electjimwalsh.org/contact",
-"https://electjimwalsh.org/news",
-"https://electjimwalsh.org/old-boy-network-gets-a-challenge-in-sw-washington-legislative-district",
-"https://electjimwalsh.org/opinion-fix-homelessness-by-spending-more-wisely",
-"https://electjimwalsh.org/subscribe",
-"https://electjimwalsh.org/walsh-files-for-19th-district-seat",
-"https://siteorigin.com/"
+{
+"text": "About",
+"href": "https://electjimwalsh.org/about"
+},
+{
+"text": "Campaign Videos",
+"href": "https://electjimwalsh.org/campaign-videos"
+},
+{
+"text": "Contact",
+"href": "https://electjimwalsh.org/contact"
+},
+{
+"text": "Donate To Jim’s Campaign",
+"href": "https://www.efundraisingconnections.com/c/JimWalsh"
+},
+{
+"text": "Home",
+"href": "https://electjimwalsh.org/"
+},
+{
+"text": "May 12, 2016",
+"href": "https://electjimwalsh.org/opinion-fix-homelessness-by-spending-more-wisely"
+},
+{
+"text": "News",
+"href": "https://electjimwalsh.org/news"
+},
+{
+"text": "SiteOrigin",
+"href": "https://siteorigin.com"
+},
+{
+"text": "Subscribe",
+"href": "https://electjimwalsh.org/subscribe"
+},
+{
+"text": "Uncategorized",
+"href": "https://electjimwalsh.org/category/uncategorized"
+},
+{
+"text": "Walsh files for 19th District seat →",
+"href": "https://electjimwalsh.org/walsh-files-for-19th-district-seat"
+},
+{
+"text": "[image: Jim Walsh Logo]",
+"href": "https://electjimwalsh.org/"
+},
+{
+"text": "abhays",
+"href": "https://electjimwalsh.org/author/abhays"
+},
+{
+"text": "← Old boy network gets a…",
+"href": "https://electjimwalsh.org/old-boy-network-gets-a-challenge-in-sw-washington-legislative-district"
+}
 ]

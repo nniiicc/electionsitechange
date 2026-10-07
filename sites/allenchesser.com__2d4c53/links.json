@@ -1,21 +1,94 @@
 [
-"https://allenchesser.com/",
-"https://allenchesser.com/about-1",
-"https://allenchesser.com/blank",
-"https://allenchesser.com/contact",
-"https://allenchesser.com/endorsements",
-"https://allenchesser.com/issues",
-"https://allenchesser.com/m/account",
-"https://allenchesser.com/news-2",
-"https://allenchesser.com/volunteer",
-"https://facebook.com/1083734181761882",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/gachesser",
-"https://secure.anedot.com/79d730b2-a747-4f3a-a8e1-63b45ab22515/donate",
-"https://secure.anedot.com/allenchesser/donate",
-"https://secure.anedot.com/allenchesser/website?amounts=100",
-"https://secure.anedot.com/allenchesser/website?amounts=150",
-"https://secure.anedot.com/allenchesser/website?amounts=250",
-"https://secure.anedot.com/allenchesser/website?amounts=50",
-"https://x.com/gachesser"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/allenchesser/website?amounts=100"
+},
+{
+"text": "$150",
+"href": "https://secure.anedot.com/allenchesser/website?amounts=150"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/allenchesser/website?amounts=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/allenchesser/website?amounts=50"
+},
+{
+"text": "About",
+"href": "https://allenchesser.com/about-1"
+},
+{
+"text": "Blank",
+"href": "https://allenchesser.com/blank"
+},
+{
+"text": "Contact",
+"href": "https://allenchesser.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/allenchesser/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/79d730b2-a747-4f3a-a8e1-63b45ab22515/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://allenchesser.com/endorsements"
+},
+{
+"text": "Follow me on Instagram",
+"href": "https://www.instagram.com/gachesser"
+},
+{
+"text": "Home",
+"href": "https://allenchesser.com/"
+},
+{
+"text": "Issues",
+"href": "https://allenchesser.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://allenchesser.com/about-1"
+},
+{
+"text": "My Account",
+"href": "https://allenchesser.com/m/account"
+},
+{
+"text": "News",
+"href": "https://allenchesser.com/news-2"
+},
+{
+"text": "Sign In",
+"href": "https://allenchesser.com/m/account"
+},
+{
+"text": "Volunteer",
+"href": "https://allenchesser.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://allenchesser.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/1083734181761882"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gachesser"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/gachesser"
+}
 ]

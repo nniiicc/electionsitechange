@@ -1,7 +1,9 @@
 {
  "description": "Listen to the first episode of Tell Me More with David Scott, featuring a conversation about education in Arizona and the issues shaping our communities.",
  "final_url": "https://davidscottaz.com/blog/tell-me-more-podcast-ep-1-education-in-arizona/",
- "paid_for_by": null,
+ "fingerprint": "ba09d0e12ef98f504c4a3c1252a1b4544f92cb45",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tell Me More Podcast Ep 1 - Education in Arizona - David Scott for LD10",
  "years_mentioned": []
 }

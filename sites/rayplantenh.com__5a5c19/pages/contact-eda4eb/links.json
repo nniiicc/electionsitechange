@@ -1,10 +1,50 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/favebook.com/ray.plante",
-"https://favebook.com/ray.plante",
-"https://instagram.com/ray.plante",
-"https://rayplantenh.com/",
-"https://rayplantenh.com/contact",
-"https://secure.anedot.com/ray-plante-nh/donate"
+{
+"text": "About",
+"href": "https://rayplantenh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://rayplantenh.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/ray-plante-nh/donate"
+},
+{
+"text": "Issues",
+"href": "https://rayplantenh.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "RAY PLANTE",
+"href": "https://rayplantenh.com/"
+},
+{
+"text": "Service",
+"href": "https://rayplantenh.com/#service"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://favebook.com/ray.plante"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ray.plante"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/favebook.com/ray.plante"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ray.plante"
+}
 ]

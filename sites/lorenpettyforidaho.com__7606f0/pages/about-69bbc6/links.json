@@ -1,6 +1,18 @@
 [
-"https://lorenpettyforidaho.com/",
-"https://lorenpettyforidaho.com/about",
-"https://lorenpettyforidaho.com/cart",
-"https://lorenpettyforidaho.com/contact"
+{
+"text": "0",
+"href": "https://www.lorenpettyforidaho.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lorenpettyforidaho.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lorenpettyforidaho.com/contact"
+},
+{
+"text": "Loren Petty for Idaho",
+"href": "https://www.lorenpettyforidaho.com/"
+}
 ]

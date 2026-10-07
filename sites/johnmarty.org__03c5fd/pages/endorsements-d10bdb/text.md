@@ -1,49 +1,20 @@
-John Marty is endorsed and recognized by leading progressive and labor organizations from across Minnesota.
-- American Academy of Pediatricians: Child Advocacy Legislator of the Year Award
-- ARC MN: Legislator of the Year Award
-- Audubon Minnesota: Exceptional Leadership Award
-- Bluffland Whitetails Association: Outstanding Legislator Award for Leadership in Chronic Wasting Disease
-- Catholic Pastoral Committee: Bishop Gumbleton Peace and Justice Award for inspiring commitment to justice and tireless advocacy for LGBTQ people
-- Children’s Defense Fund Minnesota: Legislative Children’s Champion Award
-- City Pages: called Marty The Environmentalist as one of the men and women who make Minnesota a better place to live.
-- Clean Water Action: Legislator of the Year Award for Lifetime Achievement for protecting MN waters and health
-- Common Cause Minnesota: Leadership and Government Ethics Reform
-- Conservation Minnesota: 100% Minnesotan Award for environmental leadership
-- Healthy Legacy Coalition: Children’s Health Protection Award
-- Howling for Wolves: Champion for Wolves Award for dedicated and outstanding efforts to protect wolves
-- Humane Society of the USA: Humane State Legislator Award in supporting animal friendly legislation
-- Humane Society of America: Best Legislator Award
-- Metropolitan Center for Independent Living: for leadership in initiating affirmative action to people with disabilities
-- Metropolitan Senior Federation: Elder Statesman Award for extraordinary vision and leadership on behalf of prescription drug price reform for all Minnesotans
-- MN Association for Resources for Recovery and Chemical Health (MARRCH): Legislator of the Year for work on Substance Use Treatment
-- MN Association of Treatment Programs: Legislator of the Year for leadership on Chemical Dependency issues
-- Minnesota Atheists: First Amendment Award for support of Separation of Church and State
-- MN Center for Environmental Advocacy: White Pine Award for commitment to MN Natural Resources, wildlife and public health
-- MN Coalition for a Smoke-Free Society: Inaugural Outstanding Leadership Award
-- MN Coalition for the Homeless: Leadership Award
-- Minnesota Foundation for Better Hearing and Speech: Public Service Award for authoring the Telecommunication Access Act
-- MN Medical Association: Voices for Public Health Leadership Award
-- MN Nurses Association (MNA): Paul & Sheila Wellstone Social Justice Award - their highest honor
-- MN Nurses Association: Legislative All Star
-- MN Organization on Adolescent Pregnancy and Parenting: Policymaker of the Year
-- MN Occupational Therapy Association: Outstanding Leadership for Public Occupational Therapy Education Award
-- MN Psychiatric Society: Paul Wellstone Advocacy Award
-- MN Occupational Therapy Association: Outstanding Leadership for Public Occupational Therapy Education Award
-- Minnesota Religious Coalition for Reproductive Freedom: Faith and Freedom Award
-- MN Senior Federation: Outstanding Legislator Award for untiring efforts to provide all Minnesotans with affordable prescription drugs
-- MNSEIA: Solar Leadership Award
-- MN Universal Healthcare Coalition (HCAMN): Outstanding Leadership Award for Single Payer Leadership and Pioneering efforts to advance single payer healthcare.
-- Mothers Against Drunk Driving: Leadership Award on DWI Prevention
-- National Alliance on Mental Illness-MN: Legislator of the Year
-- NW Youth and Family Services: Outstanding Leadership to Youth Award
-- Organizing Apprenticeship Project: Outstanding Leadership for Racial Equity
-- Politico: Called John Marty “the Bernie Sanders of MN” for his tireless commitment to universal healthcare and commitment to justice
-- Professional Firefighters Association: Firefighter Health & Safety Award
-- Religious Coalition for Reproductive Choice: Faith and Freedom Award
-- Sierra Club: Environmentalist of the Year Award
-- Speak Up for MN: for passing MN Dog and Cat Breeder law to ban puppy mills
-- St.
-Olaf College Alumni Achievement Award
-- Veterans for Peace: Courageous and Principled support in Free Speech
-- Youth Moving Forward: Leadership Award for addressing youth homelessness
-John has also been a board member of several non-profits, including Goodwill/Easter Seals Minnesota, and the National Youth Leadership Council, an organization that promotes service-learning in schools and communities nationwide.
+Meet John The Issues ISSUES Education The Economy Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Economic Justice Climate Change Healthcare Get Involved Contribute Volunteer Learn More Accomplishments Testimonials Endorsements News Testimonials Endorsements Volunteer Contribute Volunteer Contribute Endorsements & Awards John Marty is endorsed and recognized by leading progressive and labor organizations from across Minnesota.
+The following organizations have endorsed Senator Marty's 2026 campaign: The following organizations endorsed Senator Marty's 2022 campaign: Awards American Academy of Pediatricians: Child Advocacy Legislator of the Year Award ARC MN: Legislator of the Year Award Audubon Minnesota: Exceptional Leadership Award Bluffland Whitetails Association: Outstanding Legislator Award for Leadership in Chronic Wasting Disease Catholic Pastoral Committee: Bishop Gumbleton Peace and Justice Award for inspiring commitment to justice and tireless advocacy for LGBTQ people Children’s Defense Fund Minnesota: Legislative Children’s Champion Award City Pages: called Marty The Environmentalist as one of the men and women who make Minnesota a better place to live.
+Clean Water Action: Legislator of the Year Award for Lifetime Achievement for protecting MN waters and health Common Cause Minnesota: Leadership and Government Ethics Reform Conservation Minnesota: 100% Minnesotan Award for environmental leadership Healthy Legacy Coalition: Children’s Health Protection Award Howling for Wolves: Champion for Wolves Award for dedicated and outstanding efforts to protect wolves Humane Society of the USA: Humane State Legislator Award in supporting animal friendly legislation Humane Society of America: Best Legislator Award Metropolitan Center for Independent Living: for leadership in initiating affirmative action to people with disabilities Metropolitan Senior Federation: Elder Statesman Award for extraordinary vision and leadership on behalf of prescription drug price reform for all Minnesotans MN Association for Resources for Recovery and Chemical Health (MARRCH): Legislator of the Year for work on Substance Use Treatment MN Association of Treatment Programs: Legislator of the Year for leadership on Chemical Dependency issues Minnesota Atheists: First Amendment Award for support of Separation of Church and State MN Center for Environmental Advocacy: White Pine Award for commitment to MN Natural Resources, wildlife and public health MN Coalition for a Smoke-Free Society: Inaugural Outstanding Leadership Award MN Coalition for the Homeless: Leadership Award Minnesota Foundation for Better Hearing and Speech: Public Service Award for authoring the Telecommunication Access Act MN Medical Association: Voices for Public Health Leadership Award MN Nurses Association (MNA): Paul & Sheila Wellstone Social Justice Award - their highest honor MN Nurses Association: Legislative All Star MN Organization on Adolescent Pregnancy and Parenting: Policymaker of the Year MN Occupational Therapy Association: Outstanding Leadership for Public Occupational Therapy Education Award MN Psychiatric Society: Paul Wellstone Advocacy Award ‍ MN Occupational Therapy Association: Outstanding Leadership for Public Occupational Therapy Education Award Minnesota Religious Coalition for Reproductive Freedom: Faith and Freedom Award MN Senior Federation: Outstanding Legislator Award for untiring efforts to provide all Minnesotans with affordable prescription drugs MNSEIA: Solar Leadership Award MN Universal Healthcare Coalition (HCAMN): Outstanding Leadership Award for Single Payer Leadership and Pioneering efforts to advance single payer healthcare.
+Mothers Against Drunk Driving: Leadership Award on DWI Prevention National Alliance on Mental Illness-MN: Legislator of the Year NW Youth and Family Services: Outstanding Leadership to Youth Award Organizing Apprenticeship Project: Outstanding Leadership for Racial Equity Politico: Called John Marty “the Bernie Sanders of MN” ​ for his tireless commitment to universal healthcare and commitment to justice Professional Firefighters Association: Firefighter Health & Safety Award Religious Coalition for Reproductive Choice: Faith and Freedom Award Sierra Club: Environmentalist of the Year Award Speak Up for MN: for passing MN Dog and Cat Breeder law to ban puppy mills St.
+Olaf College Alumni Achievement Award Veterans for Peace: Courageous and Principled support in Free Speech Youth Moving Forward: Leadership Award for addressing youth homelessness ‍ John has also been a board member of several non-profits, including Goodwill/Easter Seals Minnesota, and the National Youth Leadership Council, an organization that promotes service-learning in schools and communities nationwide.
+The latest from John Follow the campaign Bluesky and Instagram No money from special interests.
+None.
+John’s campaign is powered only by small individual donors and volunteers.
+That means: no special interest money.
+No PAC money.
+No lobbyist money.
+No contributions over $# per person.
+This makes your contribution especially important.
+Contribute By donating, you are confirming the following statements are true and accurate: 1) You are not a foreign national who lacks permanent residence in the United States.
+2) This contribution is made from your own funds, and not those of another.
+3) You are not a registered lobbyist.
+4) This contribution is not made from the funds of a corporation, a labor organization, or a political action committee.
+5) This contribution is made from an account or card for which you have the legal obligation to pay, and is not made using a corporate, business, or another person’s account or card.
+Member of the Minnesota State Senate.
+Menu Home Meet John The Issues Volunteer Contribute Contact The Issues Healthcare The Economy Economic Justice Climate Change Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Education Copyright © # Senator John Marty | Prepared and Paid for by the Senator John Marty Volunteer Committee.

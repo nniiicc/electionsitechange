@@ -1,17 +1,86 @@
 [
-"https://facebook.com/Mary4StateRep",
-"https://instagram.com/maryisaacsonpa",
-"https://maryisaacson.org/",
-"https://maryisaacson.org/about",
-"https://maryisaacson.org/contact",
-"https://maryisaacson.org/endorsements",
-"https://maryisaacson.org/issues",
-"https://secure.actblue.com/donate/friends-of-marylouise-isaacson",
-"https://subscribe.wordpress.com/",
-"https://twitter.com/maryisaacsonpa",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fmaryisaacson.org",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmaryisaacson.org%252F2022%252F07%252F19%252Fhello-world%252F",
-"https://wordpress.com/reader/feeds/132767902",
-"https://wordpress.com/start",
-"https://wordpress.com/website-design-service"
+{
+"text": "About",
+"href": "https://maryisaacson.org/about/"
+},
+{
+"text": "About Me",
+"href": "https://maryisaacson.org/about"
+},
+{
+"text": "Contact",
+"href": "https://maryisaacson.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-marylouise-isaacson"
+},
+{
+"text": "Endorsements",
+"href": "https://maryisaacson.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Mary4StateRep/"
+},
+{
+"text": "Home",
+"href": "https://maryisaacson.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/maryisaacsonpa/"
+},
+{
+"text": "Issues",
+"href": "https://maryisaacson.org/issues"
+},
+{
+"text": "Issues",
+"href": "https://maryisaacson.org/issues/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmaryisaacson.org%252F2022%252F07%252F19%252Fhello-world%252F"
+},
+{
+"text": "MARY ISAACSON FOR PA",
+"href": "https://maryisaacson.org"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/friends-of-marylouise-isaacson"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "PAID FOR By friends of mary isaacson",
+"href": "https://wordpress.com/website-design-service/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fmaryisaacson.org"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "View site in Reader",
+"href": "https://wordpress.com/reader/feeds/132767902"
+},
+{
+"text": "X",
+"href": "https://twitter.com/maryisaacsonpa"
+},
+{
+"text": "[image: Mary Isaacson for State Representative Logo]",
+"href": "https://maryisaacson.org/"
+},
+{
+"text": "[image]MARY ISAACSON FOR PA",
+"href": "https://maryisaacson.org"
+}
 ]

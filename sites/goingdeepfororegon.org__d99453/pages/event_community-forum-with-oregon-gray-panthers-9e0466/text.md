@@ -1,11 +1,2 @@
-May 13, 2026
-| 6:00 PM
-Community Forum with Oregon Gray Panthers
-Talk with the folks at PSU Northern Flavor China Cafe, 1923 SW Sixth, Portland
-** What motivated me to run
-** Was I surprised by the Willamette Week endorsement?
-** Previous electoral/governmental experience – Banks School Board & its Budget Committee
-** College at MIT
-** Main issues I plan to work on if elected: Education, Infrastructure, Technology, Environment
-** Deeper issues: more progressive tax structure, fewer unfunded mandates, process improvement, lessen corporate power
-Other Events
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map May 13, 2026 | 6:00 PM Community Forum with Oregon Gray Panthers Talk with the folks at PSU Northern Flavor China Cafe, 1923 SW Sixth, Portland ** What motivated me to run ** Was I surprised by the Willamette Week endorsement? ** Previous electoral/governmental experience – Banks School Board & its Budget Committee ** College at MIT ** Main issues I plan to work on if elected: Education, Infrastructure, Technology, Environment ** Deeper issues: more progressive tax structure, fewer unfunded mandates, process improvement, lessen corporate power ← Back To Events Other Events Media September 21, 2026 Willamette Week Interview Fall 4:00 PM See event info Another tag May 14, 2026 Banks School District Budget Committee 6:00 PM See event info Media April 16, 2026 Willamette Week interview, Spring 11 AM See event info Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

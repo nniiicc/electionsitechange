@@ -1,18 +1,9 @@
-Budget Priorities for 2022/2023
-- Enact a responsible, balanced state budget that does not grow government
-- Strengthen our commitment to students and teachers
-- Help small business and accelerate economic recovery
-- Invest in law enforcement training facilities and programs
-- Address critical health needs
-- Make strategic investments in infrastructure
-Budget is balanced and lives within our means
-- Conservative spending levels will provide opportunities for future tax cuts and reforms
-- Budget maintains healthy reserves in both years of the biennium – Healthy reserves protect taxpayers, guard against future recessions, and ensure that Indiana maintains a triple-A credit rating
-- Reduces taxpayer funded debt by over one billion dollars
-▫ Deposits $600M into the Pre-1996 Teachers Retirement Fund
-▫ Pays off $110M of state building debt and $192M of highway debt
-▫ Cash funds the present value ($231M) of the state’s longterm financial obligation for the South Shore Westlake and double tracking projects
-▫ Reimburses the Next Level Connections Fund for the $205M appropriation made to NICTD for the South Shore projects
-- Earmarks $500M of federal stimulus dollars for deposit into the Unemployment Insurance Trust Fund
-To Learn more about budget dollars click on the links below
-SMALL BUSINESS AND ECONOMIC DEVELOPMENT
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse 2022/2023 STATE BUDGET by Cindy Ledbetter Posted on April 21, 2021 April 23, 2021 Budget Priorities for 2022/2023 Enact a responsible, balanced state budget that does not grow government Strengthen our commitment to students and teachers Help small business and accelerate economic recovery Invest in law enforcement training facilities and programs Address critical health needs Make strategic investments in infrastructure Budget is balanced and lives within our means Conservative spending levels will provide opportunities for future tax cuts and reforms Budget maintains healthy reserves in both years of the biennium – Healthy reserves protect taxpayers, guard against future recessions, and ensure that Indiana maintains a triple-A credit rating Reduces taxpayer funded debt by over one billion dollars ▫ Deposits $600M into the Pre-1996 Teachers Retirement Fund ▫ Pays off #M of state building debt and #M of highway debt ▫ Cash funds the present value ($231M) of the state’s longterm financial obligation for the South Shore Westlake and double tracking projects ▫ Reimburses the Next Level Connections Fund for the $205M appropriation made to NICTD for the South Shore projects Earmarks $500M of federal stimulus dollars for deposit into the Unemployment Insurance Trust Fund To Learn more about budget dollars click on the links below EDUCATION SMALL BUSINESS AND ECONOMIC DEVELOPMENT MENTAL HEALTH HEALTHCARE Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Post navigation Prev 2021 Legislative Survey Results Next Mental Health Awareness Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
+All rights reserved.
+Paid for by Ledbetter for State Representative Blog at WordPress.com.
+Search for: Search × Comment Reblog Subscribe Subscribed votecindyledbetter.com Sign me up Have a WordPress.com account?
+Log in now. votecindyledbetter.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

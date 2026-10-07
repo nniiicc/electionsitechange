@@ -1,16 +1,82 @@
 [
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/perry-county",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://instagram.com/bradhochgesang.official",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "Meet me in person",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Perry County",
+"href": "https://citizensforhochgesang.org/district/perry-county"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Tell me what I'm missing",
+"href": "mailto:campaign@citizensforhochgesang.org?subject=From+Tell+City"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "← Back to the county page",
+"href": "https://citizensforhochgesang.org/district/perry-county"
+}
 ]

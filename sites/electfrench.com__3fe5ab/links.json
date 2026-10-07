@@ -1,8 +1,42 @@
 [
-"https://electfrench.com/",
-"https://electfrench.com/donate",
-"https://electfrench.com/privacy-policy",
-"https://electfrench.com/terms-and-conditions",
-"https://facebook.com/electfrench",
-"https://x.com/ElectFrench"
+{
+"text": "Donate",
+"href": "https://www.electfrench.com/donate"
+},
+{
+"text": "Fighting for French",
+"href": "https://www.electfrench.com/#endorsements"
+},
+{
+"text": "French on the Issues",
+"href": "https://www.electfrench.com/#issues"
+},
+{
+"text": "Meet French",
+"href": "https://www.electfrench.com/#about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electfrench.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.electfrench.com/terms-and-conditions"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electfrench.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/electfrench/"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://x.com/ElectFrench"
+},
+{
+"text": "[image: French Hill for Congress logo]",
+"href": "https://www.electfrench.com/"
+}
 ]

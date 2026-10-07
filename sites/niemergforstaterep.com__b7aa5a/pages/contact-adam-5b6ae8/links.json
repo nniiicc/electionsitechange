@@ -1,10 +1,42 @@
 [
-"http://facebook.com/niemergforstaterep",
-"http://twitter.com/adamniemerg",
-"https://forms.gle/FqXDkzXYHWa39qkv6",
-"https://niemergforstaterep.com/",
-"https://niemergforstaterep.com/contact-adam",
-"https://niemergforstaterep.com/donate-1",
-"https://niemergforstaterep.com/media",
-"https://niemergforstaterep.com/privacy-policy"
+{
+"text": "About",
+"href": "https://niemergforstaterep.com/"
+},
+{
+"text": "Adam Niemerg",
+"href": "https://niemergforstaterep.com/"
+},
+{
+"text": "Contact",
+"href": "https://niemergforstaterep.com/contact-adam"
+},
+{
+"text": "Donate",
+"href": "https://niemergforstaterep.com/donate-1"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/FqXDkzXYHWa39qkv6"
+},
+{
+"text": "Media Inquiries page",
+"href": "https://niemergforstaterep.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://niemergforstaterep.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/niemergforstaterep"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/adamniemerg"
+},
+{
+"text": "[no text]",
+"href": "mailto:adam@niemergforstaterep.com"
+}
 ]

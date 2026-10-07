@@ -1,15 +1,2 @@
-Trusted Organizations
-and Leaders Endorse
-Paul Evans
-“Paul’s good work for our cities, for Polk County and for the
-State of Oregon continues.”
-— Monmouth-Independence Chamber of Commerce, published in the Polk County Itemizer-Observer, December 2025
-“It’s no secret that he advocates fiercely for his district.”
-— House Speaker Julie Fahey, Oregon Capital Chronicle, February 19, 2026
-Paul Evans is proudly endorsed by:
-NAME HERE
-Title
-NAME HERE
-Title
-NAME HERE
-Title
+0 Skip to Content Home About Meet Paul Priorities Endorsements Blog Veterans Resources DONATE Open Menu Close Menu Home About Meet Paul Priorities Endorsements Blog Veterans Resources DONATE Open Menu Close Menu Home Folder: About Back Meet Paul Priorities Endorsements Blog Veterans Resources DONATE Trusted Organizations and Leaders Endorse Paul Evans “Paul’s good work for our cities, for Polk County and for the State of Oregon continues.” — Monmouth-Independence Chamber of Commerce, published in the Polk County Itemizer-Observer , December 2025 “It’s no secret that he advocates fiercely for his district.” — House Speaker Julie Fahey, Oregon Capital Chronicle , February 19, 2026 Paul Evans is proudly endorsed by: NAME HERE Title NAME HERE Title NAME HERE Title Add Your Name — Endorse Paul Evans!
+Popular Links Veteran Resources Priorities Blog Privacy Policy Follow Facebook Instagram 1320 Edgewater St NW, Suite 120 Salem, Oregon 97304 971-273-0112 info@paulevans.org Paid for by Friends of Paul Evans PAC #16508

@@ -1,15 +1,66 @@
 [
-"http://facebook.com/Dan4Kan",
-"http://twitter.com/Dan4Kan",
-"https://danforkan.com/",
-"https://danforkan.com/contact",
-"https://danforkan.com/email-updates",
-"https://danforkan.com/endorsements",
-"https://danforkan.com/get-involved",
-"https://danforkan.com/issues",
-"https://danforkan.com/media",
-"https://facebook.com/dan4kan",
-"https://linkedin.com/in/osmandan",
-"https://secure.actblue.com/donate/danforkan",
-"https://twitter.com/Dan4Kan"
+{
+"text": "Contact",
+"href": "https://www.danforkan.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/danforkan"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danforkan.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "http://www.facebook.com/Dan4Kan"
+},
+{
+"text": "Follow",
+"href": "http://www.twitter.com/Dan4Kan"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/Dan4Kan"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/dan4kan"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/osmandan/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.danforkan.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.danforkan.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.danforkan.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.danforkan.com/media/"
+},
+{
+"text": "OsmanForKansas@gmail.com",
+"href": "mailto:OsmanForKansas@gmail.com"
+},
+{
+"text": "Stay Informed",
+"href": "https://www.danforkan.com/email-updates/"
+},
+{
+"text": "[image: Dan Osman For Kansas]",
+"href": "https://www.danforkan.com/"
+},
+{
+"text": "[image: Home Page]",
+"href": "https://www.danforkan.com/"
+}
 ]

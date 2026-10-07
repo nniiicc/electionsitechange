@@ -1,26 +1,122 @@
 [
-"https://act.campaigndeputy.com/vincent4congress",
-"https://facebook.com/vincent4congress",
-"https://https://substack.com/@vincent4congress",
-"https://scvotes.gov/",
-"https://secure.actblue.com/donate/vvibe",
-"https://secure.actblue.com/donate/vvibe?amount=10",
-"https://secure.actblue.com/donate/vvibe?amount=100",
-"https://secure.actblue.com/donate/vvibe?amount=25",
-"https://secure.actblue.com/donate/vvibe?amount=250",
-"https://secure.actblue.com/donate/vvibe?amount=50",
-"https://store.vincent4congress.org/",
-"https://tiktok.com/@vincent4congress",
-"https://vincentforcongress.com/",
-"https://vincentforcongress.com/30777719-749c-45cf-990f-779990f60696",
-"https://vincentforcongress.com/about",
-"https://vincentforcongress.com/d3510051-d5e3-4d89-b028-412353ae1a72",
-"https://vincentforcongress.com/donate",
-"https://vincentforcongress.com/endorsements",
-"https://vincentforcongress.com/events",
-"https://vincentforcongress.com/media",
-"https://vincentforcongress.com/news",
-"https://vincentforcongress.com/official-campaign-shop",
-"https://vincentforcongress.com/policy",
-"https://x.com/Vincent4SC07"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/vvibe?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/vvibe?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/vvibe?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/vvibe?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/vvibe?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.vincentforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.vincentforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vincentforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.vincentforcongress.com/events"
+},
+{
+"text": "Find Out More",
+"href": "https://www.vincentforcongress.com/policy"
+},
+{
+"text": "HOME",
+"href": "https://www.vincentforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.vincentforcongress.com/policy"
+},
+{
+"text": "Learn More",
+"href": "https://www.vincentforcongress.com/about"
+},
+{
+"text": "Media",
+"href": "https://www.vincentforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.vincentforcongress.com/news"
+},
+{
+"text": "Official Store",
+"href": "https://store.vincent4congress.org/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/vvibe"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vincentforcongress.com/30777719-749c-45cf-990f-779990f60696"
+},
+{
+"text": "STORE",
+"href": "https://www.vincentforcongress.com/official-campaign-shop"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.vincentforcongress.com/d3510051-d5e3-4d89-b028-412353ae1a72"
+},
+{
+"text": "Volunteer",
+"href": "https://act.campaigndeputy.com/vincent4congress"
+},
+{
+"text": "[image: John Vincent for Congress in South Carolina's 7th District - SC07]",
+"href": "https://www.vincentforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://https://substack.com/@vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Vincent4SC07"
+},
+{
+"text": "here",
+"href": "https://www.vincentforcongress.com/policy"
+},
+{
+"text": "info@VincentForCongress.com",
+"href": "mailto:info@Vincent4Congress.org"
+},
+{
+"text": "register to vote",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "scvotes.gov",
+"href": "https://scvotes.gov/"
+}
 ]

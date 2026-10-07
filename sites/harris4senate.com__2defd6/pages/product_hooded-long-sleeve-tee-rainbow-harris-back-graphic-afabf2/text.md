@@ -1,16 +1,10 @@
-Description
-Light, soft, and alive with color — this long-sleeve hooded tee feels like your go-to layer for evenings when music and friends stretch on past midnight.
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Home / Uncategorized / Hooded Long Sleeve Tee — Rainbow ‘HARRIS’ Back Graphic Hooded Long Sleeve Tee — Rainbow ‘HARRIS’ Back Graphic $ 53.67 – $ 56.82 Price range: $53.67 through $56.82 Light, soft, and alive with color — this long-sleeve hooded tee feels like your go-to layer for evenings when music and friends stretch on past midnight.
+The hood and crossover “V” at the neckline give it an easy, worn-in silhouette while the vivid logo on the back and matching sleeves adds a bold, festival-ready pulse.… Clothing sizes Choose an option S M L XL 2XL Bella + Canvas Colors Choose an option Black Clear Hooded Long Sleeve Tee — Rainbow 'HARRIS' Back Graphic quantity Add to cart Category: Uncategorized Description Additional information Reviews (0) Description Light, soft, and alive with color — this long-sleeve hooded tee feels like your go-to layer for evenings when music and friends stretch on past midnight.
 The hood and crossover “V” at the neckline give it an easy, worn-in silhouette while the vivid logo on the back and matching sleeves adds a bold, festival-ready pulse.
 Slip it on after a set or over a tee for late-night walks, and let the rainbow emblem do the talking while you stay comfortable and mobile.
-Product features
-– 100% airlume combed and ringspun cotton (body); heather and triblend color options with blended fabrics
-– Lightweight fabric at 3.8 oz/yd² for breathable layering
-– Regular fit with side-seamed construction for lasting shape
-– Crossover “V” at the neckline and attached hood for relaxed styling
-– Bold printed logo on back and matching sleeve prints for standout detail
-Care instructions
-– Machine wash: cold (max 30C or 90F), gentle cycle
-– Non-chlorine: bleach as needed
-– Tumble dry: low heat
-– Iron, steam or dry: low heat
-– Do not dryclean
+Product features – 100% airlume combed and ringspun cotton (body); heather and triblend color options with blended fabrics – Lightweight fabric at 3.8 oz/yd² for breathable layering – Regular fit with side-seamed construction for lasting shape – Crossover “V” at the neckline and attached hood for relaxed styling – Bold printed logo on back and matching sleeve prints for standout detail Care instructions – Machine wash: cold (max 30C or 90F), gentle cycle – Non-chlorine: bleach as needed – Tumble dry: low heat – Iron, steam or dry: low heat – Do not dryclean Additional information Weight N/A Reviews There are no reviews yet.
+Be the first to review “Hooded Long Sleeve Tee — Rainbow ‘HARRIS’ Back Graphic” Cancel reply Your email address will not be published.
+Required fields are marked * Your rating * Rate… Perfect Good Average Not that bad Very poor Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
+Related products 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $ 14.33 Select options Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $ 10.37 Select options Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt $ 30.60 – $ 43.22 Price range: $30.60 through $43.22 Select options Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

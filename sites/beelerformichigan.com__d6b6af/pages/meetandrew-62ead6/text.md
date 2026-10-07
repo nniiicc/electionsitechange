@@ -1,7 +1,5 @@
-Meet Andrew Beeler
-Get to know your next State Senator
-Early Life
-Andrew was born the youngest of three children to Stephen and Lynne Beeler in Port Huron Hospital.
+top of page Meet Andrew Donate Get Involved Gallery More Use tab to navigate through the menu items.
+Meet Andrew Beeler Get to know your next State Senator Early Life Andrew was born the youngest of three children to Stephen and Lynne Beeler in Port Huron Hospital.
 As devout Catholics, Andrew attended local parochial schools throughout St.
 Clair County including Cardinal Mooney Catholic High School.
 Andrew learned to sail at a young age.
@@ -9,8 +7,7 @@ The competitive spirit of racing caught Andrew’s attention, and he began compe
 Always looking to compete, Andrew also enjoyed playing soccer for local area teams, basketball in local SONS leagues, and any other sport that allowed him to be outside and to remain active.
 As a teen, Andrew sought to be involved in his community.
 He was a leader at his Church's children’s Liturgy program; he was the president of his high school’s community service organization; and he was a member of Congresswoman Candice Miller’s Youth Advisory Council where he helped shape and advise on policy to be voted upon in Washington.
-Military
-Nominated to attend the US Naval Academy by Congresswoman Candice Miller in 2010, Andrew began his military training in Annapolis, MD in the summer of 2010.
+Military Nominated to attend the US Naval Academy by Congresswoman Candice Miller in 2010, Andrew began his military training in Annapolis, MD in the summer of 2010.
 While at the Academy, Andrew held several leadership positions: Battalion Commander placing him in charge of 600 personnel; and Offshore Sailing Team Captain where he led the team of 80 Midshipmen to one National Championship and 3rd place at the College World Championship.
 He graduated with a BS in Naval Architecture and received his Commission as a Naval Officer in May of 2014.
 Upon his commission, Andrew reported to USS CHANCELLORSVILLE (CG 62).
@@ -24,8 +21,7 @@ During this deployment, Andrew navigated the ship during sensitive operations in
 During the encounter, Andrew gave the order to avoid an imminent collision with the Chinese warship after it made aggressive maneuvers to deter DECATUR from passing claimed Chinese islands.
 Through his service, Andrew was awarded the Navy Achievement Medal, the Navy Commendation Medal and won the Navy and Marine Corps Junior Officer Leadership Award-- awarded to one Officer in each region who proves most outstanding in the fields of leadership and mentorship.
 Andrew is photographed with his parents (Stephen and Lynne) sisters (Chelsea and Lindsey).
-Family History
-Andrew is the 4th generation of South Eastern Michigan residents in his family.
+Family History Andrew is the 4th generation of South Eastern Michigan residents in his family.
 Immigrating from Central and Western Europe, his ancestors settled in present day St.
 Clair and Sanilac county to lay roots as farmers.
 His maternal ancestors ran a dairy farm; his paternal ancestors grew and sold crops.
@@ -35,3 +31,7 @@ Upon the conclusion of the war, Andrew’s Grandfather returned home to his wife
 Several years later, after Andrew’s father had been born, they purchased land in Grant Township, built a home, and continued to raise their family of eight children on the salary of a paper mill laborer.
 Inspired by his father’s work ethic, Andrew’s father Stephen forewent college to pursue a career at the Detroit Edison Company.
 He pushed coal at the local power plants before putting himself through night school to earn a promotion while his wife, Lynne, ran an adult foster care home out of their house.
+LEARN MORE..
+Get Involved Issues Donate Issues + FAQ's Get Involved Privacy Policy Questions or comments? email: abeeler@beelerformichigan.com DONATE NOW!
+This website was paid for by Andrew Beeler for State Senate PO Box 611124 Port Huron, MI 48061 Use of Andrew Beeler’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Website created by Movement Marketing. bottom of page

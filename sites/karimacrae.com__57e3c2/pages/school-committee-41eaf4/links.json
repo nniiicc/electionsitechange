@@ -1,13 +1,54 @@
 [
-"https://facebook.com/KariMacRaeforMA",
-"https://instagram.com/karimacrae4ma",
-"https://karimacrae.com/",
-"https://karimacrae.com/about-kari",
-"https://karimacrae.com/contact",
-"https://karimacrae.com/events",
-"https://karimacrae.com/school-committee",
-"https://secure.winred.com/committee-to-elect-kari-macrae/donate-today",
-"https://truthsocial.com/@karimacrae",
-"https://twitter.com/karimacrae",
-"https://x.com/KariMacRaeforMA"
+{
+"text": "ABOUT",
+"href": "https://www.karimacrae.com/about-kari"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-kari-macrae/donate-today"
+},
+{
+"text": "EMAIL",
+"href": "mailto:david@karimacrae.com?subject=Vote+Kari+MacRae+on+Election+Day"
+},
+{
+"text": "EVENTS",
+"href": "https://www.karimacrae.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.karimacrae.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.karimacrae.com/school-committee"
+},
+{
+"text": "MESSAGE",
+"href": "https://www.karimacrae.com/contact"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/KariMacRaeforMA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/karimacrae4ma/"
+},
+{
+"text": "[image: TruthSocial]",
+"href": "https://truthsocial.com/@karimacrae"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/karimacrae"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/KariMacRaeforMA"
+},
+{
+"text": "kari@karimacrae.com",
+"href": "mailto:kari@karimacrae.com?subject=E-Mail+Kari"
+}
 ]

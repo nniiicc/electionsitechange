@@ -1,6 +1,18 @@
 [
-"https://mattforhouse.com/about.php",
-"https://mattforhouse.com/issues.php",
-"https://mattforhouse.com/join.php",
-"https://mattforhouse.com/sub.php"
+{
+"text": "about matt",
+"href": "https://www.mattforhouse.com/about.php"
+},
+{
+"text": "home",
+"href": "https://www.mattforhouse.com/sub.php"
+},
+{
+"text": "issues",
+"href": "https://www.mattforhouse.com/issues.php"
+},
+{
+"text": "join us",
+"href": "https://www.mattforhouse.com/join.php"
+}
 ]

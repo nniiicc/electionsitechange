@@ -1,15 +1,74 @@
 [
-"http://tiktok.com/@hutchings4house",
-"https://facebook.com/profile.php?id=61585538138899",
-"https://hutchings4house.org/",
-"https://hutchings4house.org/about",
-"https://hutchings4house.org/accessibility-statement",
-"https://hutchings4house.org/contact",
-"https://hutchings4house.org/events-1",
-"https://hutchings4house.org/privacy-policy",
-"https://hutchings4house.org/terms-and-conditions",
-"https://hutchings4house.org/volunteer",
-"https://instagram.com/hutchings4house",
-"https://secure.anedot.com/hutchings-for-house/donate",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.hutchings4house.org/about"
+},
+{
+"text": "About Me",
+"href": "https://www.hutchings4house.org/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.hutchings4house.org/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.hutchings4house.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/hutchings-for-house/donate"
+},
+{
+"text": "Events",
+"href": "https://www.hutchings4house.org/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.hutchings4house.org/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.hutchings4house.org/events-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hutchings4house.org/privacy-policy"
+},
+{
+"text": "REQUEST YARD SIGN",
+"href": "mailto:HutchingsforGAHouse@gmail.com?subject=Yard+Sign"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.hutchings4house.org/terms-and-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "mailto:hutchingsforgahouse@gmail.com?subject=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hutchings4house.org/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61585538138899"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hutchings4house"
+},
+{
+"text": "[image: Logo_keyline.png]",
+"href": "https://www.hutchings4house.org"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@hutchings4house"
+}
 ]

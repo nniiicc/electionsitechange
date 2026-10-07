@@ -1,6 +1,5 @@
-By joining our email list, you'll receive occasional campaign updates, upcoming events, and opportunities to get involved in whatever way works best for you.
-Whether you choose to share an update with a friend, attend a local event, or simply stay informed,
-every supporter helps strengthen this campaign.
-Your support helps me meet more voters, attend community events, share our message, and build a campaign focused on serving our district.
+802-558-3452 802-558-3452 Home About Chris Get Involved Donate Contact Get Involved in the Campaign Subscribe to the Email List Subscribe to the Email List Subscribe to the Email List By joining our email list, you'll receive occasional campaign updates, upcoming events, and opportunities to get involved in whatever way works best for you.
+Whether you choose to share an update with a friend, attend a local event, or simply stay informed, every supporter helps strengthen this campaign.
+Join the List Donate to the Campaign Subscribe to the Email List Subscribe to the Email List Your support helps me meet more voters, attend community events, share our message, and build a campaign focused on serving our district.
 No contribution is too small, and every donation helps move this campaign forward.
-Copyright © 2026 Chris Brown for Castleton Rep - All Rights Reserved.
+Donate Follow on Social Media About Chris Get Involved Donate Privacy Policy Terms of Use Chris Brown for Castleton Rep 802-558-3452 Copyright © # Chris Brown for Castleton Rep - All Rights Reserved.

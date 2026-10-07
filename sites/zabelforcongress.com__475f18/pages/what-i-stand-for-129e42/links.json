@@ -1,24 +1,114 @@
 [
-"https://facebook.com/zabelforcongress",
-"https://instagram.com/zabelforcongress",
-"https://secure.anedot.com/zabel-for-congress/donate",
-"https://secure.anedot.com/zabel-for-congress/donate?amount=100",
-"https://secure.anedot.com/zabel-for-congress/donate?amount=25",
-"https://secure.anedot.com/zabel-for-congress/donate?amount=50",
-"https://x.com/ZabelforC",
-"https://youtube.com/channel/UCU8sNktaUWsGdvoyJ0nad4w",
-"https://zabelforcongress.com/",
-"https://zabelforcongress.com/cart",
-"https://zabelforcongress.com/fiscal-stewardship",
-"https://zabelforcongress.com/health-care",
-"https://zabelforcongress.com/policy-outlines",
-"https://zabelforcongress.com/social-security",
-"https://zabelforcongress.com/store",
-"https://zabelforcongress.com/terms-and-conditions",
-"https://zabelforcongress.com/what-i-stand-for",
-"https://zabelforcongress.com/who-i-am",
-"https://zabelforcongress.nationbuilder.com/contact",
-"https://zabelforcongress.nationbuilder.com/news",
-"https://zabelforcongress.nationbuilder.com/our-events",
-"https://zabelforcongress.nationbuilder.com/volunteer"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/zabel-for-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/zabel-for-congress/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/zabel-for-congress/donate?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.zabelforcongress.com/cart"
+},
+{
+"text": "Connect",
+"href": "https://zabelforcongress.nationbuilder.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/zabel-for-congress/donate"
+},
+{
+"text": "Events",
+"href": "https://zabelforcongress.nationbuilder.com/our-events"
+},
+{
+"text": "Home",
+"href": "https://www.zabelforcongress.com/"
+},
+{
+"text": "Merch",
+"href": "https://www.zabelforcongress.com/store"
+},
+{
+"text": "News",
+"href": "https://zabelforcongress.nationbuilder.com/news"
+},
+{
+"text": "Other amount",
+"href": "https://secure.anedot.com/zabel-for-congress/donate"
+},
+{
+"text": "Read the full position →",
+"href": "https://www.zabelforcongress.com/fiscal-stewardship"
+},
+{
+"text": "Read the full position →",
+"href": "https://www.zabelforcongress.com/health-care"
+},
+{
+"text": "Read the full position →",
+"href": "https://www.zabelforcongress.com/social-security"
+},
+{
+"text": "Read the policy outline →",
+"href": "https://www.zabelforcongress.com/policy-outlines#accountability"
+},
+{
+"text": "Read the policy outline →",
+"href": "https://www.zabelforcongress.com/policy-outlines#agriculture"
+},
+{
+"text": "Read the policy outline →",
+"href": "https://www.zabelforcongress.com/policy-outlines#housing"
+},
+{
+"text": "Read the policy outline →",
+"href": "https://www.zabelforcongress.com/policy-outlines#immigration"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.zabelforcongress.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://zabelforcongress.nationbuilder.com/volunteer"
+},
+{
+"text": "What I Stand For",
+"href": "https://www.zabelforcongress.com/what-i-stand-for"
+},
+{
+"text": "Who I Am",
+"href": "https://www.zabelforcongress.com/who-i-am"
+},
+{
+"text": "[image: Zabel for Congress]",
+"href": "https://www.zabelforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/zabelforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/zabelforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCU8sNktaUWsGdvoyJ0nad4w"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ZabelforC"
+},
+{
+"text": "info@zabelforcongress.com",
+"href": "mailto:info@zabelforcongress.com"
+}
 ]

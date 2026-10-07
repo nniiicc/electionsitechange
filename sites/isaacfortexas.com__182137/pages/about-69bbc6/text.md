@@ -1,5 +1,4 @@
-Meet Representative Isaac
-State Representative Carrie Isaac is a fourth-generation Texan, nonprofit leader, wife, and mother who will give our values a powerful voice in the Texas Capitol.
+Home Meet Carrie New Events Issues Endorsements News Contact Contribute Home Meet Carrie New Events Issues Endorsements News Contact Contribute Meet Representative Isaac State Representative Carrie Isaac is a fourth-generation Texan, nonprofit leader, wife, and mother who will give our values a powerful voice in the Texas Capitol.
 She and her husband just celebrated their 21st wedding anniversary and reside in Hays County with their two teenage sons and their dog Daisy.
 Representative Isaac has a heart for service to Central Texas, where she has lived in Hays County for 17 years.
 One of her core beliefs is that nonprofits and churches serve those in need more effectively than government.
@@ -22,3 +21,5 @@ Our community needs a representative with mental toughness and endurance to figh
 Representative completed a full-length 140.6-mile IRONMAN.
 She has the strength and endurance to stay tough and stand strong in the face of opposition in the Texas Capitol.
 No one will outwork her.
+Political ad paid for by Carrie Isaac for Texas.
+13501 Ranch Road 12, #103, Wimberley, TX 78676

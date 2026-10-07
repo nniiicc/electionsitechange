@@ -1,7 +1,15 @@
 {
- "description": "Get the Facts Lisa Demuth would be a rubber stamp for Donald Trump. That\u2019s why one of Trump\u2019s top billionaire donors is running $13 million",
+ "description": "Get the Facts Lisa Demuth would be a rubber stamp for Donald Trump. That’s why one of Trump’s top billionaire donors is running $13 million",
  "final_url": "https://www.amyklobuchar.com/facts/",
+ "fingerprint": "a6040af652f2b112930ab709a4a093f2773e688c",
+ "format": 3,
  "paid_for_by": "paid for by Minnesotans for Klobuchar committee, PO Box 4009 St",
  "title": "Get the Facts - Amy Klobuchar for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "1995",
+  "2010",
+  "2019",
+  "2021",
+  "2023"
+ ]
 }

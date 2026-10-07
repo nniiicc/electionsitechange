@@ -1,13 +1,11 @@
-Frequently Asked Questions
-What will Allen Davis do about the rising cost of living?
+Skip to content Home About Allen Davis The Issues Energy Policy FAQs Volunteer/Donate Facebook Frequently Asked Questions What will Allen Davis do about the rising cost of living?
 The cost of living is rising for food, gas, fuel, health care, housing, electricity, and childcare.
 As your State Representative, I will fight to bring down these and other expenses wherever possible.
 Does Allen Davis support state-funded public education?
 As a former educator, I support a better education for NH children.
 Now is the time for the state to invest heavily in our children and stop shifting costs to towns and local taxpayers.
 Does Allen Davis support Open Enrollment for public schools in NH?
-I am strongly opposed to all efforts to divert funds to parents whose children attend private or religious schools, or are home schooled,
-Why do we need more affordable housing?
+I am strongly opposed to all efforts to divert funds to parents whose children attend private or religious schools, or are home schooled, Why do we need more affordable housing?
 Dedicated and hardworking people in our communities, like nurses, machinists, teachers, firefighters, police officers, EMT’s and young parents, deserve to be able to live in or near where they are employed.
 Does Allen Davis support the Housing Champions Program?
 I support the New Hampshire Housing Champions program, a voluntary, incentive-based state initiative created to reward towns that updated zoning laws, trained land-use boards, and improved infrastructure to support workforce housing.
@@ -30,4 +28,5 @@ A longtime resident of Dublin, I believe New Hampshire’s tax system should wor
 I do not support an income tax or a sales tax.
 But affordability is bigger than any one tax: it’s about whether families can afford their homes, their energy bills, and the services their communities rely on.
 That’s why I support restoring the Interest and Dividends Tax on large corporations and businesses and the wealthiest, not most individual residents, or seniors or working families.
-That is the best way to fund public education, help lower energy costs, and support key services — without raising property taxes or introducing new taxes on Granite Staters.
+That is the best way to fund public education, help lower energy costs, and support key services — without raising property taxes or introducing new taxes on Granite Staters. © # Davis4NH.org.
+Allen Davis for NH State Representative

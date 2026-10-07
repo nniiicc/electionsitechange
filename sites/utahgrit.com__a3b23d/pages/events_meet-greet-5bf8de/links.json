@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+&dates=20260630T000000Z%2F20260630T020000Z&location=11000+South+Park+Road%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States",
-"http://maps.google.com/?q=11000+South+Park+Road+South+Jordan%2C+Utah%2C+84095+United+States",
-"https://facebook.com/RodMoser.UtahGrit",
-"https://instagram.com/utah.grit",
-"https://saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf",
-"https://secure.actblue.com/donate/utahgrit",
-"https://utahgrit.com/",
-"https://utahgrit.com/cart",
-"https://utahgrit.com/contact",
-"https://utahgrit.com/endorsements",
-"https://utahgrit.com/events",
-"https://utahgrit.com/events/garden-party",
-"https://utahgrit.com/events/meet-greet?format=ical",
-"https://utahgrit.com/events/summer-bbq",
-"https://utahgrit.com/grit-perspective",
-"https://utahgrit.com/issues-that-matter",
-"https://utahgrit.com/volunteer-form",
-"https://youtube.com/@UtahGrit"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11000+south+park+road+south+jordan%2C+utah%2C+84095+united+states"
+},
+{
+"text": "0",
+"href": "https://www.utahgrit.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.utahgrit.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/utahgrit"
+},
+{
+"text": "Endorsements",
+"href": "https://www.utahgrit.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+&dates=20260630T000000Z%2F20260630T020000Z&location=11000+South+Park+Road%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
+},
+{
+"text": "Grit Perspective",
+"href": "https://www.utahgrit.com/grit-perspective"
+},
+{
+"text": "House District 45 MAP",
+"href": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/meet-greet?format=ical"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.utahgrit.com/issues-that-matter"
+},
+{
+"text": "Next Next July 11 Summer BBQ",
+"href": "https://www.utahgrit.com/events/summer-bbq"
+},
+{
+"text": "Previous Previous June 14 Garden Party",
+"href": "https://www.utahgrit.com/events/garden-party"
+},
+{
+"text": "Volunteer",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "[image: Rod Moser For Utah House District 45]",
+"href": "https://www.utahgrit.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RodMoser.UtahGrit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@UtahGrit"
+}
 ]

@@ -1,8 +1,15 @@
-Ammo.com endorses Dr.
+Vote LT COL Lisette Bonano: Mother, Soldier, Leader!
+Home News & Updates Calendar Endorsements Volunteer Contact Voting Info Donate Back to News & Updates ENDORSEMENT: AMMO.COM 05/04/24 • Announcements Ammo.com endorses Dr.
 Lisette Bonano!
 “Ammo.com endorses Lt.
 Col.
-Lisette Bonano for prioritizing the Second Amendment rights of Floridians.”
-See https://ammo.com/2nd-amendment-grades/florida#house-district-67
-Vote LT COL Lisette Bonano: Mother, Soldier, Leader!
-05/04/24 • Announcements
+Lisette Bonano for prioritizing the Second Amendment rights of Floridians.” See https://ammo.com/2nd-amendment-grades/florida#house-district-67 Search News Search Categories Announcements (7) Election Information (2) General (2) In The News (1) News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 View All News Donate Volunteer Contact Follow the Campaign News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 Upcoming Events General Election 11/03/2026 On November 3, 2026, vote for LTC Lisette Bonano for Florida State House District 67 Election Day # Days # Hours # Minutes # Seconds Thank you for your support!
+Support the Campaign Privacy Terms Paid for by LTC LISETTE BONANO, Republican for Florida State House District 67 10006 Cross Creek Blvd.
+P.O.
+Box #217 Tampa, FL 33647.
+All rights reserved.
+Campaign Websites by Online Candidate × Support the Campaign Donate

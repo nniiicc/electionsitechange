@@ -1,29 +1,154 @@
 [
-"http://mass.gov/covid-19-testing",
-"http://sec.state.ma.us/",
-"https://electmikeday.com/",
-"https://electmikeday.com/author/dan",
-"https://electmikeday.com/category/uncategorized",
-"https://electmikeday.com/category/uncategorized/page/2",
-"https://electmikeday.com/category/uncategorized/page/3",
-"https://electmikeday.com/contact-us",
-"https://electmikeday.com/fy2021-budget-updates",
-"https://electmikeday.com/get-involved",
-"https://electmikeday.com/issues",
-"https://electmikeday.com/jk-automotive-nominated-as-manufacturer-of-the-year",
-"https://electmikeday.com/juanita-zerda-honored-as-latinx-trailblazer",
-"https://electmikeday.com/legislating-through-the-pandemic",
-"https://electmikeday.com/legislation",
-"https://electmikeday.com/lewis-and-day-announce-completion-of-new-stone-zoo-bus-stop",
-"https://electmikeday.com/michael-day",
-"https://electmikeday.com/news",
-"https://electmikeday.com/representative-day-announces-return-of-spotlight-on-the-31st",
-"https://electmikeday.com/shaping-the-fy2021-budget",
-"https://electmikeday.com/voting-in-novembers-election-what-to-know",
-"https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested",
-"https://electmikeday.com/winchester-awarded-shared-streets-and-spaces-grant-by-massdot",
-"https://facebook.com/31stSpotlight",
-"https://mdwcommunications.com/political-websites-by-mdwcomm",
-"https://sec.state.ma.us/ele/eleidx.htm",
-"https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+{
+"text": "2",
+"href": "https://electmikeday.com/category/uncategorized/page/2/"
+},
+{
+"text": "3",
+"href": "https://electmikeday.com/category/uncategorized/page/3/"
+},
+{
+"text": "About",
+"href": "https://electmikeday.com/michael-day/"
+},
+{
+"text": "Contact",
+"href": "https://electmikeday.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+},
+{
+"text": "Dan Hudson",
+"href": "https://electmikeday.com/author/dan/"
+},
+{
+"text": "FY2021 Budget Updates",
+"href": "https://electmikeday.com/fy2021-budget-updates/"
+},
+{
+"text": "Get Involved",
+"href": "https://electmikeday.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://electmikeday.com/issues/"
+},
+{
+"text": "JK Automotive Nominated as Manufacturer of the Year",
+"href": "https://electmikeday.com/jk-automotive-nominated-as-manufacturer-of-the-year/"
+},
+{
+"text": "Juanita Zerda Honored as Latinx Trailblazer",
+"href": "https://electmikeday.com/juanita-zerda-honored-as-latinx-trailblazer/"
+},
+{
+"text": "Legislating Through the Pandemic",
+"href": "https://electmikeday.com/legislating-through-the-pandemic/"
+},
+{
+"text": "Legislation",
+"href": "https://electmikeday.com/legislation/"
+},
+{
+"text": "Lewis and Day Announce Completion of New Stone Zoo Bus Stop",
+"href": "https://electmikeday.com/lewis-and-day-announce-completion-of-new-stone-zoo-bus-stop/"
+},
+{
+"text": "Michael.day@mahouse.gov",
+"href": "mailto:Michael.day@mahouse.gov"
+},
+{
+"text": "News",
+"href": "https://electmikeday.com/news/"
+},
+{
+"text": "Representative Day Announces Return of “Spotlight on the 31st”",
+"href": "https://electmikeday.com/representative-day-announces-return-of-spotlight-on-the-31st/"
+},
+{
+"text": "Shaping the FY2021 Budget",
+"href": "https://electmikeday.com/shaping-the-fy2021-budget/"
+},
+{
+"text": "Uncategorized",
+"href": "https://electmikeday.com/category/uncategorized/"
+},
+{
+"text": "Voting in November’s Election: What to Know",
+"href": "https://electmikeday.com/voting-in-novembers-election-what-to-know/"
+},
+{
+"text": "Wear a Mask, and if you feel sick? Get Tested.",
+"href": "https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested/"
+},
+{
+"text": "Winchester Awarded Shared Streets and Spaces Grant by MassDOT",
+"href": "https://electmikeday.com/winchester-awarded-shared-streets-and-spaces-grant-by-massdot/"
+},
+{
+"text": "[image: State Representative Mike Day]",
+"href": "https://electmikeday.com/"
+},
+{
+"text": "[image]",
+"href": "https://mdwcommunications.com/political-websites-by-mdwcomm/"
+},
+{
+"text": "[tooltip: FY2021 Budget Updates]",
+"href": "https://electmikeday.com/fy2021-budget-updates/"
+},
+{
+"text": "[tooltip: JK Automotive Nominated as Manufacturer of the Year]",
+"href": "https://electmikeday.com/jk-automotive-nominated-as-manufacturer-of-the-year/"
+},
+{
+"text": "[tooltip: Juanita Zerda Honored as Latinx Trailblazer]",
+"href": "https://electmikeday.com/juanita-zerda-honored-as-latinx-trailblazer/"
+},
+{
+"text": "[tooltip: Legislating Through the Pandemic]",
+"href": "https://electmikeday.com/legislating-through-the-pandemic/"
+},
+{
+"text": "[tooltip: Lewis and Day Announce Completion of New Stone Zoo Bus Stop]",
+"href": "https://electmikeday.com/lewis-and-day-announce-completion-of-new-stone-zoo-bus-stop/"
+},
+{
+"text": "[tooltip: Representative Day Announces Return of “Spotlight on the 31st”]",
+"href": "https://electmikeday.com/representative-day-announces-return-of-spotlight-on-the-31st/"
+},
+{
+"text": "[tooltip: Shaping the FY2021 Budget]",
+"href": "https://electmikeday.com/shaping-the-fy2021-budget/"
+},
+{
+"text": "[tooltip: Voting in November’s Election: What to Know]",
+"href": "https://electmikeday.com/voting-in-novembers-election-what-to-know/"
+},
+{
+"text": "[tooltip: Wear a Mask, and if you feel sick? Get Tested.]",
+"href": "https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested/"
+},
+{
+"text": "[tooltip: Winchester Awarded Shared Streets and Spaces Grant by MassDOT]",
+"href": "https://electmikeday.com/winchester-awarded-shared-streets-and-spaces-grant-by-massdot/"
+},
+{
+"text": "here.",
+"href": "https://www.sec.state.ma.us/ele/eleidx.htm"
+},
+{
+"text": "https://www.facebook.com/31stSpotlight/",
+"href": "https://www.facebook.com/31stSpotlight/"
+},
+{
+"text": "www.mass.gov/covid-19-testing",
+"href": "http://www.mass.gov/covid-19-testing"
+},
+{
+"text": "www.sec.state.ma.us",
+"href": "http://www.sec.state.ma.us"
+}
 ]

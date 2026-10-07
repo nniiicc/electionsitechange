@@ -1,12 +1,5 @@
 Nathan R.L.
-BURNETT
-≡
-About Me
-District Map
-Personal Concerns
-Public Concerns
-Endorsements
-Why run?
+BURNETT ≡ About Me District Map Personal Concerns Public Concerns Endorsements Why run?
 I believe in education and technology.
 I'd like to see our state ensure a living wage for anyone who works 40 hours a week.
 I'd like to see healthcare decoupled from employment, so that if you can't work 40 hours a week you still have access to healthcare, whether through a nationwide medicare for all approach or a statewide mainecare approach.
@@ -19,12 +12,6 @@ Lastly, and on a slightly larger scale, I am concerned about the future of work 
 I teach AP Computer Science Principles and would like to see more requirements for our students to be made aware of the possibilities in their future.
 I'd like to see our students all exposed to actual 21st century curriculums that require skill development relevant to the jobs of today and tomorrow.
 We are already well into a technological revolution that is being as disruptive to the 20th century model of work and life as the industrial revolution was to 19th century work lives.
-Home
-About Me
-District Map
-Personal Concerns
-Public Concerns
-Endorsements
-MCEA Contribution
+Home About Me District Map Personal Concerns Public Concerns Endorsements MCEA Contribution © #-# Nathan R.L.
 Burnett, paid for and maintained by the candidate.
 Email:

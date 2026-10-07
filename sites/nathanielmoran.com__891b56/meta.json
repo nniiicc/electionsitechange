@@ -1,7 +1,11 @@
 {
  "description": "Born and raised in Whitehouse, TX, Congressman Nathaniel Moran carries East Texas conservative values of faith, family and community to Washington.",
  "final_url": "https://www.nathanielmoran.com/",
- "paid_for_by": null,
+ "fingerprint": "a845655a708a60c8c3085865d2976cfa2f755aa2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Congressman Nathaniel Moran",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

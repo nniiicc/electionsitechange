@@ -1,26 +1,122 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bishop+%40+Beretania&dates=20260512T023000Z%2F20260512T040000Z&location=Bishop+%26%2364%3B+Beretania",
-"http://maps.google.com/?q=Bishop+%40+Beretania",
-"https://facebook.com/votekimcoco",
-"https://form.everestwebdeals.co/?form=68b89d191fe23b0409abb090b70b4f67",
-"https://forms.gle/k9st6ryCCr6bTRb67",
-"https://instagram.com/votekimcoco",
-"https://secure.actblue.com/donate/votekimcoco2026",
-"https://twitter.com/votekimcoco",
-"https://votekimcoco.com/",
-"https://votekimcoco.com/blog",
-"https://votekimcoco.com/contact-me",
-"https://votekimcoco.com/district-resources",
-"https://votekimcoco.com/experience",
-"https://votekimcoco.com/issues",
-"https://votekimcoco.com/letsmeet",
-"https://votekimcoco.com/letsmeet/2025/5/25birthday",
-"https://votekimcoco.com/letsmeet/2026-05-11?format=ical",
-"https://votekimcoco.com/letsmeet/2026-05-12",
-"https://votekimcoco.com/letsmeet?category=Canvass",
-"https://votekimcoco.com/letsmeet?tag=sidewalk+talk",
-"https://votekimcoco.com/media",
-"https://votekimcoco.com/meet-kim-coco",
-"https://votekimcoco.com/search",
-"https://votekimcoco.com/whykimcoco"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=bishop+%40+beretania++"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Bishop Place @ Union Mall",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-12"
+},
+{
+"text": "Blog",
+"href": "https://www.votekimcoco.com/blog"
+},
+{
+"text": "Canvass",
+"href": "https://www.votekimcoco.com/letsmeet?category=Canvass"
+},
+{
+"text": "Contact Me",
+"href": "https://www.votekimcoco.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/votekimcoco2026"
+},
+{
+"text": "District Resources",
+"href": "https://www.votekimcoco.com/district-resources"
+},
+{
+"text": "Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Experience",
+"href": "https://www.votekimcoco.com/experience"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bishop+%40+Beretania&dates=20260512T023000Z%2F20260512T040000Z&location=Bishop+%26%2364%3B+Beretania"
+},
+{
+"text": "Home",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votekimcoco.com/letsmeet/2026-05-11?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votekimcoco.com/issues"
+},
+{
+"text": "Kim Coco Campaign FUNraiser at Scarlet Honolulu",
+"href": "https://www.votekimcoco.com/letsmeet/2025/5/25birthday"
+},
+{
+"text": "KimCoco@KimCoco.com",
+"href": "mailto:kimcoco@kimcoco.com"
+},
+{
+"text": "Media",
+"href": "https://www.votekimcoco.com/media"
+},
+{
+"text": "Meet Kim Coco",
+"href": "https://www.votekimcoco.com/meet-kim-coco"
+},
+{
+"text": "Sign up to volunteer for my sidewalk talks here.",
+"href": "https://form.everestwebdeals.co?form=68b89d191fe23b0409abb090b70b4f67"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/k9st6ryCCr6bTRb67"
+},
+{
+"text": "Why Kim Coco",
+"href": "https://www.votekimcoco.com/whykimcoco"
+},
+{
+"text": "[image: Kim Coco Iwamoto]",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "[image: social_icons-facebook-sml.png]",
+"href": "https://www.facebook.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-instagram-sml.png]",
+"href": "https://www.instagram.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-twitter-sml.png]",
+"href": "https://twitter.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:kimcoco@kimcoco.com"
+},
+{
+"text": "sidewalk talk",
+"href": "https://www.votekimcoco.com/letsmeet?tag=sidewalk+talk"
+}
 ]

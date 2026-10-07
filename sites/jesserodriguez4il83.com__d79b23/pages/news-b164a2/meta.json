@@ -1,9 +1,12 @@
 {
  "description": "Jesse Rodriguez in the News",
  "final_url": "https://jesserodriguez4il83.com/news",
- "paid_for_by": null,
+ "fingerprint": "50123fe986661dbc954a253cedcd3ecd05d7a002",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
+  "1986",
   "2012",
   "2019",
   "2020",
@@ -14,6 +17,7 @@
   "2025",
   "2026",
   "2027",
-  "2029"
+  "2029",
+  "2033"
  ]
 }

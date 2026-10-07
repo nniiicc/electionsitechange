@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61583092595718",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=43",
-"https://votepaulmcgraw.com/",
-"https://votepaulmcgraw.com/cart",
-"https://votepaulmcgraw.com/contact",
-"https://votepaulmcgraw.com/home",
-"https://votepaulmcgraw.com/support",
-"https://votepaulmcgraw.com/videos"
+{
+"text": "0",
+"href": "https://votepaulmcgraw.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://votepaulmcgraw.com/contact"
+},
+{
+"text": "Home",
+"href": "https://votepaulmcgraw.com/home"
+},
+{
+"text": "See more Videos",
+"href": "https://votepaulmcgraw.com/videos"
+},
+{
+"text": "Support",
+"href": "https://votepaulmcgraw.com/support"
+},
+{
+"text": "Videos",
+"href": "https://votepaulmcgraw.com/videos"
+},
+{
+"text": "View the district map",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=43"
+},
+{
+"text": "[image: Vote Paul McGraw]",
+"href": "https://votepaulmcgraw.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583092595718"
+}
 ]

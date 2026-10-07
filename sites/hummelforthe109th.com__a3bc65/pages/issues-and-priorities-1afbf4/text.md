@@ -1,169 +1,45 @@
-Solutions by Community
-Strong communities start with local voices.
+top of page Hummel for the 109th Home Video Gallery Pillars Issues and Priorities Donate Here Solutions by Community Strong communities start with local voices.
 Justin believes decisions about growth and investment should be shaped by the people who live here.
-Local Voice, Real Authority
-Communities deserve a real say in decisions that affect their land, water, and future.
+Local Voice, Real Authority Communities deserve a real say in decisions that affect their land, water, and future.
 That means clearer guidance from the state, better access to zoning information, and stronger local control—so municipalities aren’t left navigating complex decisions like data center development on their own.
-Smart Growth & Responsible Development
-New opportunities—like data centers—must be approached thoughtfully.
+Smart Growth & Responsible Development New opportunities—like data centers—must be approached thoughtfully.
 Justin supports better planning at the county level and making sure concerns about water use, energy demand, noise, and long-term impact are addressed before decisions are made.
-Fair Funding for Schools & Taxpayers
-Rising costs shouldn’t keep falling on local families.
-Justin supports:
-- Charter school reform to protect public school funding
-- Solar for Schools to help districts reduce long-term energy costs
-- Expanding state-supported healthcare pools to lower insurance costs for local governments
-- Special education funding reform so districts aren’t left carrying unpredictable financial burdens
-Jobs & Economic Opportunity
-Columbia County is well-positioned for growth.
+Fair Funding for Schools & Taxpayers Rising costs shouldn’t keep falling on local families.
+Justin supports: Charter school reform to protect public school funding Solar for Schools to help districts reduce long-term energy costs Expanding state-supported healthcare pools to lower insurance costs for local governments Special education funding reform so districts aren’t left carrying unpredictable financial burdens Jobs & Economic Opportunity Columbia County is well-positioned for growth.
 With access to major highways, water, and infrastructure, Justin will work to attract new industries, support local employers, and create good-paying jobs—while strengthening the tax base so costs don’t keep rising on residents.
-Support for First Responders
-The people who protect our communities deserve support.
-Justin backs:
-- The HOME Act to provide property tax relief for volunteer firefighters and first responders
-- Collective purchasing at the state level to help departments afford essential equipment without inflated costs
-At its core: listen to communities, give them the tools they need, and build solutions that last.
-Public Safety, Mental Health & Addiction
-Strong communities require more than enforcement—they require support, prevention, and the right resources in the right places.
-Justin believes safer communities start by giving local responders the tools they actually need and addressing challenges before they escalate.
-Supporting the People on the Front Lines
-Our police and first responders are being asked to do more than ever.
-That means:
-- Competitive wages and time off to retain officers locally
-- Practical, day-to-day training that reflects the calls they respond to most
-- Access to the equipment they actually use, not just high-cost tools that rarely leave storage
-Meeting Today’s Reality
-Many calls today are tied to mental health, addiction, and economic stress—not traditional crime.
-Justin believes our approach should reflect that reality, with better training and resources focused on everyday community needs.
-Solutions That Prevent, Not Just Respond
-Programs like the co-responder partnership with CMSU are already working—pairing law enforcement with mental health professionals to step in early.
-Justin supports expanding these efforts to:
-- Prevent crises before they escalate
-- Reduce repeat calls and strain on police
-- Connect people to help instead of the justice system
-Access to Care & Continuity
-Too often, people fall through the cracks after receiving care.
-Justin will work to:
-- Improve access to medications and follow-up care
-- Address barriers like transportation and cost
-- Keep people stable and supported in their communities
-Addressing Addiction at the Root
-The only way to reduce addiction is to reduce demand.
-That means making sure people can access real help when they need it—through treatment, recovery support, and community-based resources.
-Smarter, More Efficient Support
-Justin supports:
-- Statewide healthcare pools to reduce costs for police and first responders
-- Collective purchasing of equipment like body cameras and tasers to lower costs for local departments
-At its core: support the people doing the work, address challenges early, and build safer communities through care, not just response.
-Personal Interaction & Accountability
-Strong communities deserve representation that shows up, listens, and stays connected.
+Support for First Responders The people who protect our communities deserve support.
+Justin backs: The HOME Act to provide property tax relief for volunteer firefighters and first responders Collective purchasing at the state level to help departments afford essential equipment without inflated costs At its core: listen to communities, give them the tools they need, and build solutions that last.
+Public Safety, Mental Health & Addiction Strong communities require more than enforcement—they require support, prevention, and the right resources in the right places.
+Justin believes safer communities start by giving local responders the tools they actually need and addressing challenges before they escalate. ​ Supporting the People on the Front Lines Our police and first responders are being asked to do more than ever.
+That means: Competitive wages and time off to retain officers locally Practical, day-to-day training that reflects the calls they respond to most Access to the equipment they actually use, not just high-cost tools that rarely leave storage ​ Meeting Today’s Reality Many calls today are tied to mental health, addiction, and economic stress—not traditional crime.
+Justin believes our approach should reflect that reality, with better training and resources focused on everyday community needs. ​ Solutions That Prevent, Not Just Respond Programs like the co-responder partnership with CMSU are already working—pairing law enforcement with mental health professionals to step in early.
+Justin supports expanding these efforts to: Prevent crises before they escalate Reduce repeat calls and strain on police Connect people to help instead of the justice system ​ Access to Care & Continuity Too often, people fall through the cracks after receiving care.
+Justin will work to: Improve access to medications and follow-up care Address barriers like transportation and cost Keep people stable and supported in their communities ​ Addressing Addiction at the Root The only way to reduce addiction is to reduce demand.
+That means making sure people can access real help when they need it—through treatment, recovery support, and community-based resources. ​ Smarter, More Efficient Support Justin supports: Statewide healthcare pools to reduce costs for police and first responders Collective purchasing of equipment like body cameras and tasers to lower costs for local departments ​ At its core: support the people doing the work, address challenges early, and build safer communities through care, not just response.
+Personal Interaction & Accountability Strong communities deserve representation that shows up, listens, and stays connected.
 Justin believes being a State Representative isn’t just about votes in Harrisburg—it’s about being present in the community every day.
 That’s why he’s already doing this work now—meeting with residents, hosting conversations, and answering questions—because building trust shouldn’t wait until Election Day.
-Showing Up & Staying Accessible
-Representation starts with being available.
-Justin is committed to:
-- Holding regular office hours and drop-in opportunities across the 109th
-- Attending local meetings, events, and community gatherings
-- Making it easy for residents to reach out and be heard
-Listening First
-Good decisions start with understanding.
-Justin believes in:
-- Taking the time to hear concerns directly from residents
-- Learning from real conversations—not assumptions
-- Making sure people feel heard, respected, and included
-Present Across the 109th
-Every community matters.
-Justin will:
-- Stay active in all parts of the district—not just one town
-- Keep a consistent presence in smaller communities and rural areas
-- Make sure no part of the 109th feels overlooked
-Clear Communication & Transparency
-People deserve to know what’s happening and why.
-Justin is committed to:
-- Sharing updates through community meetings, online forums, and regular communication
-- Explaining decisions clearly—not just announcing them
-- Creating more opportunities for two-way conversations, not just one-way updates
-Accountability That Builds Trust
-Being accountable means more than checking a box.
-It means:
-- Following through on commitments
-- Being honest about challenges and progress
-- Earning trust through consistency and presence over time
-At its core: show up, listen, and stay connected—because representation should feel local, accessible, and accountable.
-**Justin is already doing this in his campaign*
-Facebook Live (see video gallery)
-Protecting Local Jobs & Farms
-Strong communities depend on people being able to make a living here.
+Showing Up & Staying Accessible Representation starts with being available.
+Justin is committed to: Holding regular office hours and drop-in opportunities across the 109th Attending local meetings, events, and community gatherings Making it easy for residents to reach out and be heard Listening First Good decisions start with understanding.
+Justin believes in: Taking the time to hear concerns directly from residents Learning from real conversations—not assumptions Making sure people feel heard, respected, and included Present Across the 109th Every community matters.
+Justin will: Stay active in all parts of the district—not just one town Keep a consistent presence in smaller communities and rural areas Make sure no part of the 109th feels overlooked Clear Communication & Transparency People deserve to know what’s happening and why.
+Justin is committed to: Sharing updates through community meetings, online forums, and regular communication Explaining decisions clearly—not just announcing them Creating more opportunities for two-way conversations, not just one-way updates Accountability That Builds Trust Being accountable means more than checking a box.
+It means: Following through on commitments Being honest about challenges and progress Earning trust through consistency and presence over time At its core: show up, listen, and stay connected—because representation should feel local, accessible, and accountable. **Justin is already doing this in his campaign* Facebook Live (see video gallery) Protecting Local Jobs & Farms Strong communities depend on people being able to make a living here.
 Justin believes we should support the industries, workers, and families that keep Columbia County running—while creating new opportunities for the next generation.
-Supporting Good-Paying Jobs
-Growing our economy starts with rewarding employers who invest in their workers.
-That means:
-- Incentivizing higher wages through targeted tax breaks
-- Making sure state grants go to companies that create jobs and grow the local tax base
-- Attracting new industries while supporting the employers already here
-Supporting Working Families & Caregivers
-A strong workforce depends on strong families.
-Justin supports:
-- Increased support for child care services
-- Restoring and strengthening protections for family caregivers
-- Better funding for Area Agency on Aging services
-Connecting People to Jobs & Care
-Access matters—especially in rural communities.
-Justin will work to:
-- Expand rural transportation options like shared transit and route-based systems
-- Improve access to jobs, healthcare, and essential services
-- Support long-term solutions that better connect communities across the 109th
-Lowering Costs Through Smarter Healthcare
-Healthcare costs impact families, employers, and local governments alike.
-Justin believes we should pursue solutions that:
-- Lower costs for municipalities, schools, and small businesses
-- Make it easier for people to work, care for family, and stay in the workforce
-- Improve access while reducing financial strain
-Protecting Farms & Strengthening Local Agriculture
-Farming is a cornerstone of our local economy.
-Justin supports:
-- Accountability in farm funding and loan programs to ensure resources are used as intended
-- Expanding local purchasing—connecting farms with schools, hospitals, and other institutions
-- Reducing barriers for small-scale processing and butchering to strengthen local food systems
-- Prioritizing small and diverse farms, not just large operations
-Building the Workforce Pipeline
-We need more opportunities for young people to build careers here.
-Justin supports:
-- Expanding career and technical education (vo-tech) programs
-- Creating pathways to skilled trades and blue-collar careers
-- Investing until programs can meet demand and eliminate waitlists
-At its core: support the people who live and work here, strengthen local industries, and create real opportunity across the 109th.
-Cost of Living & Quality of Life
-Strong communities depend on people being able to afford to live, work, and stay here.
+Supporting Good-Paying Jobs Growing our economy starts with rewarding employers who invest in their workers.
+That means: Incentivizing higher wages through targeted tax breaks Making sure state grants go to companies that create jobs and grow the local tax base Attracting new industries while supporting the employers already here Supporting Working Families & Caregivers A strong workforce depends on strong families.
+Justin supports: Increased support for child care services Restoring and strengthening protections for family caregivers Better funding for Area Agency on Aging services Connecting People to Jobs & Care Access matters—especially in rural communities.
+Justin will work to: Expand rural transportation options like shared transit and route-based systems Improve access to jobs, healthcare, and essential services Support long-term solutions that better connect communities across the 109th Lowering Costs Through Smarter Healthcare Healthcare costs impact families, employers, and local governments alike.
+Justin believes we should pursue solutions that: Lower costs for municipalities, schools, and small businesses Make it easier for people to work, care for family, and stay in the workforce Improve access while reducing financial strain Protecting Farms & Strengthening Local Agriculture Farming is a cornerstone of our local economy.
+Justin supports: Accountability in farm funding and loan programs to ensure resources are used as intended Expanding local purchasing—connecting farms with schools, hospitals, and other institutions Reducing barriers for small-scale processing and butchering to strengthen local food systems Prioritizing small and diverse farms, not just large operations Building the Workforce Pipeline We need more opportunities for young people to build careers here.
+Justin supports: Expanding career and technical education (vo-tech) programs Creating pathways to skilled trades and blue-collar careers Investing until programs can meet demand and eliminate waitlists At its core: support the people who live and work here, strengthen local industries, and create real opportunity across the 109th.
+Cost of Living & Quality of Life Strong communities depend on people being able to afford to live, work, and stay here.
 Justin believes we need to focus on the everyday costs that impact families across the 109th—and take practical steps at the state level to make life more affordable and accessible.
-Housing That Works for Local Communities
-Housing should be within reach for the people who live and work here.
-Justin supports:
-- Strengthening state housing programs and incentives that help build and rehabilitate homes
-- Supporting first-time homebuyer programs and local redevelopment efforts
-- Working with municipalities across places like Bloomsburg, Berwick, and our smaller communities to remove barriers to practical, community-fit housing solutions
-Lowering Healthcare Costs
-Healthcare is one of the biggest pressures on families and local governments.
-Justin will:
-- Support efforts to expand access and reduce costs through broader risk pools and smarter state policy
-- Advocate for solutions that lower costs for schools, municipalities, and small employers
-- Push for better access to care close to home, so residents aren’t forced to travel far outside the region
-Addressing Everyday Costs
-From groceries to utilities, families are feeling the pressure.
-Justin will focus on:
-- Supporting efforts to increase transparency and fairness in utility pricing
-- Backing policies that help reduce energy and basic service costs
-- Keeping the focus on real, day-to-day affordability that reflects what families here are actually experiencing
-Access to Transportation & Services
-Access shouldn’t depend on where you live.
-Justin will:
-- Advocate for state support of rural transportation systems like shared ride options and local transit services
-- Improve access to jobs, healthcare, and essential services across the 109th
-- Support practical investments that better connect communities throughout Columbia County
-Healthy, Connected Communities
-Quality of life is about more than cost—it’s about the places we live.
-Justin supports:
-- State investment in trails, parks, and walkable spaces
-- Expanding access to recreation and wellness opportunities
-- Supporting projects that make communities more livable, connected, and attractive for families and young people
-At its core: make it easier to live, work, and build a life here—without the costs pushing people out.
+Housing That Works for Local Communities Housing should be within reach for the people who live and work here.
+Justin supports: Strengthening state housing programs and incentives that help build and rehabilitate homes Supporting first-time homebuyer programs and local redevelopment efforts Working with municipalities across places like Bloomsburg, Berwick, and our smaller communities to remove barriers to practical, community-fit housing solutions Lowering Healthcare Costs Healthcare is one of the biggest pressures on families and local governments.
+Justin will: Support efforts to expand access and reduce costs through broader risk pools and smarter state policy Advocate for solutions that lower costs for schools, municipalities, and small employers Push for better access to care close to home, so residents aren’t forced to travel far outside the region Addressing Everyday Costs From groceries to utilities, families are feeling the pressure.
+Justin will focus on: Supporting efforts to increase transparency and fairness in utility pricing Backing policies that help reduce energy and basic service costs Keeping the focus on real, day-to-day affordability that reflects what families here are actually experiencing Access to Transportation & Services Access shouldn’t depend on where you live.
+Justin will: Advocate for state support of rural transportation systems like shared ride options and local transit services Improve access to jobs, healthcare, and essential services across the 109th Support practical investments that better connect communities throughout Columbia County Healthy, Connected Communities Quality of life is about more than cost—it’s about the places we live.
+Justin supports: State investment in trails, parks, and walkable spaces Expanding access to recreation and wellness opportunities Supporting projects that make communities more livable, connected, and attractive for families and young people At its core: make it easier to live, work, and build a life here—without the costs pushing people out.
+Email * Sign-up to hear from me directly. * Submit Paid for by: Hummel for PA info@hummelforthe109th.com © # by Hummel for the 109th.
+Powered and secured by Wix bottom of page

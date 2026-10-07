@@ -1,5 +1,4 @@
-STATE SENATE CANDIDATE CHESNEY ENDORSED BY SENATE REPUBLICAN LEADER
-Freeport: State Representative Andrew Chesney today announced the endorsement of Senate Republican Leader Dan McConchie in his bid for the Illinois State Senate in the 45th District.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY STATE SENATE CANDIDATE CHESNEY ENDORSED BY SENATE REPUBLICAN LEADER Freeport: State Representative Andrew Chesney today announced the endorsement of Senate Republican Leader Dan McConchie in his bid for the Illinois State Senate in the 45th District.
 Chesney has represented northwest Illinois in the Illinois House since 2018 and launched his campaign for Senate after State Senator Brian Stewart declined to run for re-election.
 Stewart has since endorsed Chesney.
 “Andrew Chesney is a proven advocate for the people of Northwest Illinois and I am proud to endorse him in his bid for the Illinois State Senate.
@@ -13,4 +12,4 @@ We have a lot of work to do and I am up for the challenge,” said Andrew Chesne
 Andrew Chesney and his wife Kelly reside in Freeport.
 He is an honors graduate of Arizona State University.
 He has built a career in real estate and for over a decade played a primary role in his family-owned manufacturing business.
-# # #
+# # # #© Paid for by Chesney for Illinois    

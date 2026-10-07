@@ -1,10 +1,38 @@
 [
-"https://facebook.com/people/Robin-for-Senate/61550672608320",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today",
-"https://voteficker.com/",
-"https://voteficker.com/issues",
-"https://voteficker.com/news",
-"https://voteficker.com/privacy-policy",
-"https://voteficker.com/robin",
-"https://voteficker.com/terms-and-conditions"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today"
+},
+{
+"text": "Home",
+"href": "https://voteficker.com/"
+},
+{
+"text": "Issues",
+"href": "https://voteficker.com/issues/"
+},
+{
+"text": "Meet Robin",
+"href": "https://voteficker.com/robin/"
+},
+{
+"text": "News",
+"href": "https://voteficker.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteficker.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://voteficker.com/terms-and-conditions"
+},
+{
+"text": "[image: Robin Ficker for Congress]",
+"href": "https://voteficker.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Robin-for-Senate/61550672608320/"
+}
 ]

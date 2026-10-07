@@ -1,12 +1,66 @@
 [
-"https://facebook.com/siffertforny",
-"https://instagram.com/siffertforny",
-"https://secure.actblue.com/donate/siffertforassembly",
-"https://siffertforassembly.com/",
-"https://siffertforassembly.com/about",
-"https://siffertforassembly.com/cdn-cgi/l/email-protection",
-"https://siffertforassembly.com/endorsements",
-"https://siffertforassembly.com/jobs",
-"https://siffertforassembly.com/platform",
-"https://x.com/siffertforny"
+{
+"text": "About",
+"href": "https://www.siffertforassembly.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/siffertforassembly"
+},
+{
+"text": "Endorsements",
+"href": "https://www.siffertforassembly.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.siffertforassembly.com/"
+},
+{
+"text": "Jobs",
+"href": "https://www.siffertforassembly.com/jobs/"
+},
+{
+"text": "Learn More",
+"href": "https://www.siffertforassembly.com/about/"
+},
+{
+"text": "Platform",
+"href": "https://www.siffertforassembly.com/platform/"
+},
+{
+"text": "Read More",
+"href": "https://www.siffertforassembly.com/platform/#ai-tech-and-privacy"
+},
+{
+"text": "Read More",
+"href": "https://www.siffertforassembly.com/platform/#housing"
+},
+{
+"text": "Read More",
+"href": "https://www.siffertforassembly.com/platform/#immigration"
+},
+{
+"text": "View Full Platform",
+"href": "https://www.siffertforassembly.com/platform/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@siffertforassembly.com"
+},
+{
+"text": "[image: Siffert for Assembly]",
+"href": "https://www.siffertforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/siffertforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/siffertforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/siffertforny"
+}
 ]

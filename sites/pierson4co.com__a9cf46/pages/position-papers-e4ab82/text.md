@@ -1,6 +1,5 @@
-2026 Colorado Ballot Measures
-My position on ballot measures appearing on the November, 2026 ballot.
-Position Papers by Michael Pierson
-Let me know which detailed position papers you would like to see here from Michael Pierson.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Michael Pierson for Colorado House of Representatives District 22 Home Announcements Position Papers My Opponent Privacy Policy Fix Powers More Home Announcements Position Papers My Opponent Privacy Policy Fix Powers Home Announcements Position Papers My Opponent Privacy Policy Fix Powers 2026 Colorado Ballot Measures My position on ballot measures appearing on the November, 2026 ballot.
+Amendment_87_Graduated_Income_Tax (pdf) Download Proposition_NN_Education_Funding (pdf) Download Position Papers by Michael Pierson Let me know which detailed position papers you would like to see here from Michael Pierson.
+An Affordable Colorado (pdf) Download Fully Funding Colorado Public Schools (New!) (pdf) Download Housing for Colorado (new!) (pdf) Download Older Adults, Caregivers, Retirement Security (pdf) Download Fixing Powers Blvd Interchanges (pdf) Download Economic Progress (pdf) Download Supporting Organized Labor (pdf) Download Crime and Public Safety (pdf) Download Protecting Constitutional Rights While Reducing Gun Violence (pdf) Download Protecting Access to Health Care (pdf) Download Mental Health is Health (pdf) Download AI Data Centers; Growth With Guardrails (pdf) Download Copyright © # Pierson4Co - All Rights Reserved.
+Approved by Pierson for Colorado, Addison Hill, registered agent.
+Powered by

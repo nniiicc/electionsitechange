@@ -1,7 +1,11 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.tysonfornchouse.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "b912d4824f697c37cfab7461d1ac6e5c79e860c1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
- "years_mentioned": []
+ "years_mentioned": [
+  "2009"
+ ]
 }

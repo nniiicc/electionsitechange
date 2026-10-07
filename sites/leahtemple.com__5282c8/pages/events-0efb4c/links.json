@@ -1,23 +1,86 @@
 [
-"https://facebook.com/events/1091280663293727",
-"https://facebook.com/share/18FN7UJJYL",
-"https://facebook.com/share/1Cg6fXHKYR",
-"https://facebook.com/voteleahtemple",
-"https://instagram.com/voteleahtemple",
-"https://leahtemple.com/",
-"https://leahtemple.com/about",
-"https://leahtemple.com/accessibility-statement",
-"https://leahtemple.com/contact",
-"https://leahtemple.com/copy-of-terms-conditions",
-"https://leahtemple.com/events",
-"https://leahtemple.com/issues",
-"https://leahtemple.com/terms-and-conditions",
-"https://leahtemple.com/volunteer",
-"https://leahtemple.com/yard-signs",
-"https://mobilize.us/?org_ids=50228",
-"https://mobilize.us/mobilize/event/1021811",
-"https://mobilize.us/mobilize/event/1022285",
-"https://mobilize.us/mobilize/event/1022288",
-"https://secure.actblue.com/donate/leahtemple",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.leahtemple.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.leahtemple.com/accessibility-statement"
+},
+{
+"text": "Check out our day-to-day doorknocks here >",
+"href": "https://www.mobilize.us/?org_ids=50228"
+},
+{
+"text": "Contact",
+"href": "https://www.leahtemple.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leahtemple"
+},
+{
+"text": "Events",
+"href": "https://www.leahtemple.com/events"
+},
+{
+"text": "Get Information ->",
+"href": "https://www.facebook.com/events/1091280663293727/"
+},
+{
+"text": "Issues",
+"href": "https://www.leahtemple.com/issues"
+},
+{
+"text": "More Information ->",
+"href": "https://www.facebook.com/share/18FN7UJJYL/"
+},
+{
+"text": "More information ->",
+"href": "https://www.facebook.com/share/1Cg6fXHKYR/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leahtemple.com/copy-of-terms-conditions"
+},
+{
+"text": "RSVP here ->",
+"href": "https://www.mobilize.us/mobilize/event/1022285/"
+},
+{
+"text": "RSVP here ->",
+"href": "https://www.mobilize.us/mobilize/event/1022288/"
+},
+{
+"text": "Sign up for a shift here ->",
+"href": "https://www.mobilize.us/mobilize/event/1021811/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.leahtemple.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.leahtemple.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "Yard Signs!",
+"href": "https://www.leahtemple.com/yard-signs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voteleahtemple"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/voteleahtemple"
+},
+{
+"text": "[image: LT_SD30_WebsiteLogo(NOfooter).png]",
+"href": "https://www.leahtemple.com"
+}
 ]

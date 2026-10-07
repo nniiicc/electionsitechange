@@ -1,50 +1,254 @@
 [
-"https://bsky.app/profile/zickusfor89th.bsky.social",
-"https://council.legislature.mi.gov/Ombudsman/Index",
-"https://facebook.com/profile.php?id=61590208576269",
-"https://house.mi.gov/Committee/HENER",
-"https://house.mi.gov/Committee/HFAMI",
-"https://house.mi.gov/Committee/HGOV",
-"https://house.mi.gov/Committee/HHEAL",
-"https://house.mi.gov/Committee/HJUDI",
-"https://house.mi.gov/Committee/HNATU",
-"https://house.mi.gov/Committee/HTRAN",
-"https://house.mi.gov/Document?DocumentId=67072&DocumentType=CommitteeTestimony",
-"https://instagram.com/zickusfor89th",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-4721",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-4765",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5120",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5123",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5211",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5488",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5770",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5920",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5943",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5968",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6105",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6116",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6143",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6156",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6159",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6242",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6247",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6259",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6281",
-"https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6320",
-"https://michigan.gov/dnr/managing-resources/laws/regulations/bear",
-"https://michigan.gov/egle/faqs/air-quality/ozone",
-"https://michigan.gov/sos/resources/news/2025/04/03/michigan-department-of-state-review-confirms-instances-of-noncitizen-voting-are-extremely-rare",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/index.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/moss-costs-what-did-taxpayers-get.html",
-"https://zickusfor89th.com/moss-ottawa-county-overhaul-families.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/public-record.html",
-"https://zickusfor89th.com/the-choice.html",
-"https://zickusfor89th.com/voter-information.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/zickusfor89th.bsky.social"
+},
+{
+"text": "Browse the Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Compare candidate positions",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590208576269"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/zickusfor89th/"
+},
+{
+"text": "Issue & article archive",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Issues",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Ottawa County families got the bill.",
+"href": "https://zickusfor89th.com/moss-ottawa-county-overhaul-families.html"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Send a correction",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "Source 1",
+"href": "https://council.legislature.mi.gov/Ombudsman/Index"
+},
+{
+"text": "Source 1",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5968"
+},
+{
+"text": "Source 1",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6105"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HENER"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HFAMI"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HGOV"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HHEAL"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HJUDI"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HNATU"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Committee/HTRAN"
+},
+{
+"text": "Source 1",
+"href": "https://www.house.mi.gov/Document/?DocumentId=67072&DocumentType=CommitteeTestimony"
+},
+{
+"text": "Source 1",
+"href": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/bear"
+},
+{
+"text": "Source 1",
+"href": "https://www.michigan.gov/sos/resources/news/2025/04/03/michigan-department-of-state-review-confirms-instances-of-noncitizen-voting-are-extremely-rare"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-4721"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-4765"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5120"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5123"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5211"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5488"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5770"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5920"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5943"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6116"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6143"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6156"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6159"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6242"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6247"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6259"
+},
+{
+"text": "Source 2",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6320"
+},
+{
+"text": "Source 2",
+"href": "https://www.michigan.gov/egle/faqs/air-quality/ozone"
+},
+{
+"text": "Source 3",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6281"
+},
+{
+"text": "The Choice",
+"href": "https://zickusfor89th.com/the-choice.html"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "What Did Ottawa County Taxpayers Get for Their Money?",
+"href": "https://zickusfor89th.com/moss-costs-what-did-taxpayers-get.html"
+},
+{
+"text": "What has happened with Ottawa County legal costs and settlements?",
+"href": "https://zickusfor89th.com/public-record.html"
+},
+{
+"text": "ZickusJD@gmail.com",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "legislature.mi.gov",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5488"
+},
+{
+"text": "legislature.mi.gov",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6156"
+},
+{
+"text": "legislature.mi.gov",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6159"
+},
+{
+"text": "legislature.mi.gov",
+"href": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6320"
+},
+{
+"text": "www.house.mi.gov",
+"href": "https://www.house.mi.gov/Committee/HENER"
+},
+{
+"text": "www.house.mi.gov",
+"href": "https://www.house.mi.gov/Committee/HFAMI"
+},
+{
+"text": "www.house.mi.gov",
+"href": "https://www.house.mi.gov/Committee/HHEAL"
+},
+{
+"text": "www.house.mi.gov",
+"href": "https://www.house.mi.gov/Committee/HNATU"
+},
+{
+"text": "← Back to the landing page",
+"href": "https://zickusfor89th.com/index.html"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Factual News Agencies",
  "final_url": "https://www.elizabethforus.com/issues/factual-news-agencies",
- "paid_for_by": null,
+ "fingerprint": "2e550dd3f133d8ab62f76bf701765a0ca1d41467",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Factual News Agencies",
  "years_mentioned": []
 }

@@ -1,10 +1,6 @@
-Press Releases
-- ALLOTSEGO: Frazier’s Rural Book Club Builds Conversation, Connection July 23rd, 2026 | By Joshua Youngquist
-- May 11, 2026 Michele Backs Relief for Farmers Hit by Severe Weather
-- April 1, 2026 Volunteers Deliver for Michele!
-- March 20, 2026 Let Them Build
-- March 9, 2026 Renewable Energy is Reliable, Low-Cost and Clean - and Enhances our Energy Independence!
-- February 26, 2026 Sullivan County Democratic Committee Endorses Michele Frazier for NYS Senate
-- February 21, 2026 Working Families Endorses Michele Frazier for NYS Senate
-- February 16, 2026 Ulster County Democratic Committee Endorses Michele Frazier for NYS Senate
-- August 5, 2025 Michele Frazier Announces 2026 State Senate Run
+0 Skip to Content MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB Folder: JOIN US Back Volunteer Register to Vote Get Your Yard Sign!
+Donate Press Releases The Upstate Vibe: Colony: Democracy Rocks by Rob Brune | Aug 17, 2026 Click Here ALLOTSEGO: Frazier’s Rural Book Club Builds Conversation, Connection July 23rd, 2026 | By Joshua Youngquist Click Here May 11, 2026 Michele Backs Relief for Farmers Hit by Severe Weather READ RELEASE April 1, 2026 Volunteers Deliver for Michele!
+Read Release March 20, 2026 Let Them Build READ RELEASE March 9, 2026 Renewable Energy is Reliable, Low-Cost and Clean - and Enhances our Energy Independence!
+READ RELEASE February 26, 2026 Sullivan County Democratic Committee Endorses Michele Frazier for NYS Senate READ RELEASE February 21, 2026 Working Families Endorses Michele Frazier for NYS Senate READ RELEASE February 16, 2026 Ulster County Democratic Committee Endorses Michele Frazier for NYS Senate READ RELEASE August 5, 2025 Michele Frazier Announces 2026 State Senate Run Read Release Make It Media info@michelefrazier.com Paid for by Michele Frazier for 51 JOIN US

@@ -1,6 +1,5 @@
-Why We Fight
-Breaking free from corporate influence to serve the people.
-Why Independent/Unaffiliated?
+Home | About | Why | Mission Get Involved | News | Donate Donate Why Why We Fight Breaking free from corporate influence to serve the people.
+Independent Candidate Why Independent/Unaffiliated?
 Dr.
 Witta devoted more than a third of his life to fighting—not only a disease in individual patients but also a broader “cancer” that afflicts our entire society.
 He has taken on powerful interests, challenging insurance providers and pharmaceutical companies from within the clinic.
@@ -30,5 +29,13 @@ I studied political science and the current status of the United States Congress
 I decided to run for Congress to expose the truth and to become the voice of the people, for the people.
 I will fight for a Congress that works in the open, enforces rules fairly, and answers to voters—not party bosses or big donors.
 Together, we will make that change.
-Join the Movement
-Together, we can restore Congress to work for the people, not corporations.
+Join the Movement Together, we can restore Congress to work for the people, not corporations.
+Get Involved Support the Campaign Together We Fight Join our growing movement of Americans who are ready to speak up.
+Get updates on our campaign, upcoming events, and ways you can make a difference.
+Join the Movement Follow Us: Together we can reform healthcare, restore Congress to the people, and respect the diversity that makes America strong.
+Reform • Restore • Respect Campaign About Dr.
+Witta The Issues News & Updates Events Get Involved Volunteer Donate Request a Yard Sign Share Our Message Contact info@drwitta.com (720) 467-4233 Privacy Policy Terms of Service Contact Us © 2026 Dr.
+Witta for Congress.
+All rights reserved.
+Paid for by Dr.
+Witta for Congress

@@ -1,9 +1,38 @@
 [
-"https://electcalvin.com/",
-"https://electcalvin.com/about",
-"https://electcalvin.com/contact",
-"https://electcalvin.com/issues",
-"https://facebook.com/electcalvin",
-"https://secure.anedot.com/beaulier/donate",
-"https://x.com/cantbesilentcal"
+{
+"text": "About Calvin",
+"href": "https://electcalvin.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://electcalvin.com/contact/"
+},
+{
+"text": "DONATE TO MY CAMPAIGN",
+"href": "https://secure.anedot.com/beaulier/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/beaulier/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electcalvin"
+},
+{
+"text": "Issues",
+"href": "https://electcalvin.com/issues/"
+},
+{
+"text": "VOTE CALVIN BEAULIER",
+"href": "https://electcalvin.com"
+},
+{
+"text": "Welcome",
+"href": "https://electcalvin.com/"
+},
+{
+"text": "X",
+"href": "https://x.com/cantbesilentcal"
+}
 ]

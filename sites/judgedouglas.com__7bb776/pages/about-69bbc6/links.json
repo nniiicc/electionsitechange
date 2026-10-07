@@ -1,11 +1,38 @@
 [
-"https://judgedouglas.com/",
-"https://judgedouglas.com/about",
-"https://judgedouglas.com/experience-qualifications",
-"https://judgedouglas.com/news",
-"https://judgedouglas.com/why-im-running",
-"https://judgedouglas.com/wp-content/uploads/3039285126123434379.jpeg",
-"https://judgedouglas.com/wp-content/uploads/6144823742448062274.jpeg",
-"https://judgedouglas.com/wp-content/uploads/7342866740178552034.jpeg",
-"https://judgedouglas.com/wp-content/uploads/7569547487913160116.jpeg"
+{
+"text": "About Jim",
+"href": "https://judgedouglas.com/about/"
+},
+{
+"text": "Experience",
+"href": "https://judgedouglas.com/experience-qualifications/"
+},
+{
+"text": "News & Commentary",
+"href": "https://judgedouglas.com/news/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://judgedouglas.com/why-im-running/"
+},
+{
+"text": "[image: Judge Jim Douglas for West Virginia Intermediate Court of Appeals]",
+"href": "https://judgedouglas.com/"
+},
+{
+"text": "[image]",
+"href": "https://judgedouglas.com/wp-content/uploads/3039285126123434379.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://judgedouglas.com/wp-content/uploads/6144823742448062274.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://judgedouglas.com/wp-content/uploads/7342866740178552034.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://judgedouglas.com/wp-content/uploads/7569547487913160116.jpeg"
+}
 ]

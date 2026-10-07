@@ -1,29 +1,166 @@
 [
-"https://facebook.com/profile.php?id=61573300979835",
-"https://javensears.com/",
-"https://javensears.com/about",
-"https://javensears.com/cart",
-"https://javensears.com/contact",
-"https://javensears.com/donate",
-"https://javensears.com/kickoff",
-"https://javensears.com/news",
-"https://javensears.com/news/category/Campaign",
-"https://javensears.com/news/category/Campaign+Updates",
-"https://javensears.com/news/category/Debate",
-"https://javensears.com/news/category/Education",
-"https://javensears.com/news/category/Radio+Appearance",
-"https://javensears.com/news/category/Vermont+Politics",
-"https://javensears.com/news/category/Youth+Development",
-"https://javensears.com/news/category/conservative",
-"https://javensears.com/news/category/student+leadership",
-"https://javensears.com/news/christ-the-king-school-vermont-youth-debate",
-"https://javensears.com/news/javen-sears-announces-vermont-state-senate-campaign-on-wvmt-1013-fm-with-support-from-former-governor-jim-douglas",
-"https://javensears.com/news/judging-at-vermonts-calvin-coolidge-presidential-foundation",
-"https://javensears.com/news/recognized-as-top-graduate-at-leadership-institutes-youth-leadership-school",
-"https://javensears.com/priorities",
-"https://linkedin.com/in/javensears",
-"https://sevendaysvt.com/news/young-republican-enters-race-for-state-senate",
-"https://vtcng.com/otherpapersbvt/news/local_news/south-burlington-high-school-alum-launches-bid-for-senate/article_04ad3965-17ef-472f-8b89-fedced3b3ef9.html",
-"https://wvmtradio.com/episode/javen-sears",
-"https://x.com/JavenSears"
+{
+"text": "0",
+"href": "https://www.javensears.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.javensears.com/about"
+},
+{
+"text": "Campaign",
+"href": "https://www.javensears.com/news/category/Campaign"
+},
+{
+"text": "Campaign Updates",
+"href": "https://www.javensears.com/news/category/Campaign+Updates"
+},
+{
+"text": "Contact",
+"href": "https://www.javensears.com/contact"
+},
+{
+"text": "Debate",
+"href": "https://www.javensears.com/news/category/Debate"
+},
+{
+"text": "Donate",
+"href": "https://www.javensears.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.javensears.com/news/category/Education"
+},
+{
+"text": "Experience Judging at Vermont’s Calvin Coolidge Presidential Foundation",
+"href": "https://www.javensears.com/news/judging-at-vermonts-calvin-coolidge-presidential-foundation"
+},
+{
+"text": "Home",
+"href": "https://www.javensears.com/"
+},
+{
+"text": "I Launched my State Senate Campaign with Support from former governor Jim Douglas",
+"href": "https://www.javensears.com/news/javen-sears-announces-vermont-state-senate-campaign-on-wvmt-1013-fm-with-support-from-former-governor-jim-douglas"
+},
+{
+"text": "I Visited Vermont’s youngest Debate Team",
+"href": "https://www.javensears.com/news/christ-the-king-school-vermont-youth-debate"
+},
+{
+"text": "Media",
+"href": "https://www.javensears.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.javensears.com/kickoff#photos"
+},
+{
+"text": "Playback",
+"href": "https://www.wvmtradio.com/episode/javen-sears/"
+},
+{
+"text": "Priorities",
+"href": "https://www.javensears.com/priorities"
+},
+{
+"text": "Radio Appearance",
+"href": "https://www.javensears.com/news/category/Radio+Appearance"
+},
+{
+"text": "Read More",
+"href": "https://www.javensears.com/news/christ-the-king-school-vermont-youth-debate"
+},
+{
+"text": "Read More",
+"href": "https://www.javensears.com/news/javen-sears-announces-vermont-state-senate-campaign-on-wvmt-1013-fm-with-support-from-former-governor-jim-douglas"
+},
+{
+"text": "Read More",
+"href": "https://www.javensears.com/news/judging-at-vermonts-calvin-coolidge-presidential-foundation"
+},
+{
+"text": "Read More",
+"href": "https://www.javensears.com/news/recognized-as-top-graduate-at-leadership-institutes-youth-leadership-school"
+},
+{
+"text": "Recognized as Top Graduate at Leadership Institute’s Youth Leadership School",
+"href": "https://www.javensears.com/news/recognized-as-top-graduate-at-leadership-institutes-youth-leadership-school"
+},
+{
+"text": "South Burlington High School alum launches bid for Senate",
+"href": "https://www.vtcng.com/otherpapersbvt/news/local_news/south-burlington-high-school-alum-launches-bid-for-senate/article_04ad3965-17ef-472f-8b89-fedced3b3ef9.html"
+},
+{
+"text": "Vermont Politics",
+"href": "https://www.javensears.com/news/category/Vermont+Politics"
+},
+{
+"text": "View Past Event",
+"href": "https://www.javensears.com/kickoff"
+},
+{
+"text": "Watch Speeches",
+"href": "https://www.javensears.com/kickoff#speakers"
+},
+{
+"text": "Young Republican Enters Race for State Senate",
+"href": "https://www.sevendaysvt.com/news/young-republican-enters-race-for-state-senate/"
+},
+{
+"text": "Youth Development",
+"href": "https://www.javensears.com/news/category/Youth+Development"
+},
+{
+"text": "[image: Experience Judging at Vermont’s Calvin Coolidge Presidential Foundation]",
+"href": "https://www.javensears.com/news/judging-at-vermonts-calvin-coolidge-presidential-foundation"
+},
+{
+"text": "[image: I Launched my State Senate Campaign with Support from former governor Jim Douglas]",
+"href": "https://www.javensears.com/news/javen-sears-announces-vermont-state-senate-campaign-on-wvmt-1013-fm-with-support-from-former-governor-jim-douglas"
+},
+{
+"text": "[image: I Visited Vermont’s youngest Debate Team]",
+"href": "https://www.javensears.com/news/christ-the-king-school-vermont-youth-debate"
+},
+{
+"text": "[image: Javen Sears | Candidate for Vermont State Senate]",
+"href": "https://www.javensears.com/"
+},
+{
+"text": "[image: Recognized as Top Graduate at Leadership Institute’s Youth Leadership School]",
+"href": "https://www.javensears.com/news/recognized-as-top-graduate-at-leadership-institutes-youth-leadership-school"
+},
+{
+"text": "[image]",
+"href": "https://javensears.com"
+},
+{
+"text": "[image]",
+"href": "https://www.javensears.com/kickoff"
+},
+{
+"text": "[no text]",
+"href": "chatgpt://generic-entity?number=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573300979835"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/javensears/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JavenSears"
+},
+{
+"text": "conservative",
+"href": "https://www.javensears.com/news/category/conservative"
+},
+{
+"text": "student leadership",
+"href": "https://www.javensears.com/news/category/student+leadership"
+}
 ]

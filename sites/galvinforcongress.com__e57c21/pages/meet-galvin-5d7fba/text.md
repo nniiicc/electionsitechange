@@ -1,5 +1,4 @@
-Meet Galvin
-Galvin Sablan Deleon Guerrero— known affectionately across the Marianas as Dr.
+Skip to content Facebook Instagram Youtube Tiktok Home Meet Galvin Platform Issues Core Principles News Home Meet Galvin Platform Issues Core Principles News Facebook Instagram Youtube Tiktok Volunteer Donate Meet Galvin Galvin Sablan Deleon Guerrero — known affectionately across the Marianas as Dr.
 G— has dedicated his life to helping people learn, lead, and believe in their potential.
 As the President of Northern Marianas College (NMC), he has championed access, equity, and opportunity for students across Saipan, Tinian, and Rota, leading the College through one of the most ambitious periods of growth and transformation in its history.
 Born and raised on Saipan, Galvin has spent three decades at the intersection of education, leadership, and public service.
@@ -15,8 +14,9 @@ In the classroom, Galvin has taught Speech and Debate, AP English Literature, AP
 History, and AP U.S.
 Politics and Government—courses that have inspired generations of students to think critically, speak courageously, and lead with conviction.
 Beyond academics, he has mentored hundreds of young people through theatre, film, and debate.
-His productions with Mount Carmel School’s Theatre Club have earned international recognition, including award-winning films featured in festivals around the world, such as We Drank Our Tears, an anthology honoring the stories of indigenous Chamorro and Carolinian civilians who endured World War II on Saipan.
+His productions with Mount Carmel School’s Theatre Club have earned international recognition, including award-winning films featured in festivals around the world, such as We Drank Our Tears , an anthology honoring the stories of indigenous Chamorro and Carolinian civilians who endured World War II on Saipan.
 A lifelong advocate for civic engagement and the humanities, Galvin’s leadership has been recognized with numerous distinctions, including the Saipan Rotary Club’s Citizen of the Year Award and three awards from the Northern Marianas Humanities Council.
 He was also nominated for both the Rhodes and Marshall Fellowships during his undergraduate years at the University of Puget Sound.
 Above all, Galvin is guided by faith, humility, and love for family.
 He shares his life’s journey with his wife, Velma, and their three children—Victoria, William, and Mary Shelley—who remind him every day why the work of education matters: to give every young person the chance to dream boldly, to work hard, and to build a future worthy of the Marianas.
+News Core Values Core Principles Join the Fight © # Copyright Galvin for Congress Stay Informed Here Facebook Instagram Youtube Tiktok Contact Us galvinforcongress@gmail.com Paid for by Galvin for Congress Lucy Deleon Guerrero Neilsen, Treasurer ©# Copyright Galvin for Congress Subscribe to stay informed Name (Required) First Last Email (Required) Submit

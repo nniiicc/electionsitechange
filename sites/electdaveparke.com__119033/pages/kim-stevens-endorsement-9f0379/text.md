@@ -1,9 +1,3 @@
-“In today’s volatile political climate, I believe it is vital to look past party labels and focus on the character and principles of those seeking office.
+0 Skip to Content Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Folder: Blog Back Meet Dave Parke Affordability in Utah Get Involved Donate “In today’s volatile political climate, I believe it is vital to look past party labels and focus on the character and principles of those seeking office.
 It is for this reason that I support and endorse Dave Parke.
-Dave embodies the virtues we should all seek in a public servant:
-- Honesty and integrity
-- Wisdom and competence
-- Genuine goodness
-Dave will uphold the common good and protect the principles that allow our community to thrive.”
-Kim Stevens
-West Valley City friend for over 30 years
+Dave embodies the virtues we should all seek in a public servant: Honesty and integrity Wisdom and competence Genuine goodness Dave will uphold the common good and protect the principles that allow our community to thrive.” Kim Stevens West Valley City friend for over 30 years Sign Up For Updates Sign Up For Updates - Paid for by Campaign to Elect Dave Parke -

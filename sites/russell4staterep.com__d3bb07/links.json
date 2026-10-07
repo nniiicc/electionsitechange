@@ -1,8 +1,30 @@
 [
-"https://russell4staterep.com/",
-"https://secure.actblue.com/donate/russell4staterep",
-"https://secure.actblue.com/donate/russell4staterep?amount=100",
-"https://secure.actblue.com/donate/russell4staterep?amount=20.26",
-"https://secure.actblue.com/donate/russell4staterep?amount=250",
-"https://secure.actblue.com/donate/russell4staterep?amount=50"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/russell4staterep?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/russell4staterep?amount=250"
+},
+{
+"text": "$#.#",
+"href": "https://secure.actblue.com/donate/russell4staterep?amount=20.26"
+},
+{
+"text": "$#.#",
+"href": "https://secure.actblue.com/donate/russell4staterep?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/russell4staterep"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/russell4staterep"
+},
+{
+"text": "[image: russell4staterep.com]",
+"href": "https://russell4staterep.com/"
+}
 ]

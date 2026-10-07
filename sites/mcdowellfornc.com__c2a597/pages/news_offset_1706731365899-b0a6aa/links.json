@@ -1,17 +1,70 @@
 [
-"http://youtube.com/@TeamAddisonMcDowell",
-"https://facebook.com/mcdowellfornc",
-"https://instagram.com/mcdowell4congress",
-"https://mcdowellfornc.com/",
-"https://mcdowellfornc.com/cart",
-"https://mcdowellfornc.com/home",
-"https://mcdowellfornc.com/issues",
-"https://mcdowellfornc.com/news",
-"https://mcdowellfornc.com/news/president-donald-j-trump-endorses-mcdowell-nc06",
-"https://mcdowellfornc.com/news/senator-ted-budd-endorses-addison-mcdowell-for-congress",
-"https://mcdowellfornc.com/news?offset=1706649386216&reversePaginate=true",
-"https://mcdowellfornc.com/privacy-policy",
-"https://secure.winred.com/mcdowell-for-congress/donate",
-"https://secure.winred.com/mcdowell-for-congress/storefront",
-"https://twitter.com/Addison_McD"
+{
+"text": "0",
+"href": "https://www.mcdowellfornc.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mcdowell-for-congress/donate"
+},
+{
+"text": "ISSUES",
+"href": "https://www.mcdowellfornc.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://www.mcdowellfornc.com/news"
+},
+{
+"text": "Newer Posts",
+"href": "https://www.mcdowellfornc.com/news?offset=1706649386216&reversePaginate=true"
+},
+{
+"text": "President Donald J. Trump Endorses Addison McDowell in North Carolina’s 6th Congressional District",
+"href": "https://www.mcdowellfornc.com/news/president-donald-j-trump-endorses-mcdowell-nc06"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mcdowellfornc.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.mcdowellfornc.com/news/president-donald-j-trump-endorses-mcdowell-nc06"
+},
+{
+"text": "Read More",
+"href": "https://www.mcdowellfornc.com/news/senator-ted-budd-endorses-addison-mcdowell-for-congress"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/mcdowell-for-congress/storefront/"
+},
+{
+"text": "Senator Ted Budd Endorses Addison McDowell for Congress",
+"href": "https://www.mcdowellfornc.com/news/senator-ted-budd-endorses-addison-mcdowell-for-congress"
+},
+{
+"text": "[image: McDowell for Congress]",
+"href": "https://www.mcdowellfornc.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mcdowellfornc.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@TeamAddisonMcDowell"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Addison_McD"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mcdowellfornc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mcdowell4congress/"
+}
 ]

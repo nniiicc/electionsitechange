@@ -1,9 +1,38 @@
 [
-"https://facebook.com/voterobynbird",
-"https://instagram.com/VoteRobynBird",
-"https://secure.anedot.com/friends-of-robyn-bird/donate",
-"https://voterobynbird.com/",
-"https://voterobynbird.com/blank",
-"https://voterobynbird.com/blank-1",
-"https://wix.com/studio"
+{
+"text": "ABOUT",
+"href": "https://www.voterobynbird.com/blank"
+},
+{
+"text": "Bird for State Representative",
+"href": "https://www.voterobynbird.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-robyn-bird/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.voterobynbird.com"
+},
+{
+"text": "VOLUNTEER NOW",
+"href": "https://www.voterobynbird.com/blank-1"
+},
+{
+"text": "Wix Studio™",
+"href": "https://www.wix.com/studio"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voterobynbird/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/VoteRobynBird"
+},
+{
+"text": "[no text]",
+"href": "https://www.voterobynbird.com/blank"
+}
 ]

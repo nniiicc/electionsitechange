@@ -1,11 +1,14 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.votedavecalder.com/news/dave-calder-opposes-the-draconian-reduction-of-two-utah-national-monument",
- "paid_for_by": "Paid For By Dave Calder for Utah",
+ "fingerprint": "9e3982bad22522bb33f5aea976cd28e8972b3747",
+ "format": 3,
+ "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
  "title": "Dave Calder opposes the draconian reduction of two Utah National Monument.",
  "years_mentioned": [
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

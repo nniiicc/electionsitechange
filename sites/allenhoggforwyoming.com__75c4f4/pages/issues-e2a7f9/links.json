@@ -1,11 +1,46 @@
 [
-"https://allenhoggforwyoming.com/",
-"https://allenhoggforwyoming.com/about",
-"https://allenhoggforwyoming.com/accessibility",
-"https://allenhoggforwyoming.com/blog",
-"https://allenhoggforwyoming.com/contact",
-"https://allenhoggforwyoming.com/events",
-"https://allenhoggforwyoming.com/get-involved",
-"https://allenhoggforwyoming.com/issues",
-"https://allenhoggforwyoming.com/privacy-policy"
+{
+"text": "About",
+"href": "https://allenhoggforwyoming.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://allenhoggforwyoming.com/accessibility"
+},
+{
+"text": "Allen Hogg for Wyoming",
+"href": "https://allenhoggforwyoming.com/"
+},
+{
+"text": "Blog",
+"href": "https://allenhoggforwyoming.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://allenhoggforwyoming.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://allenhoggforwyoming.com/contact"
+},
+{
+"text": "Events",
+"href": "https://allenhoggforwyoming.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://allenhoggforwyoming.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://allenhoggforwyoming.com/"
+},
+{
+"text": "Issues",
+"href": "https://allenhoggforwyoming.com/issues"
+},
+{
+"text": "Privacy",
+"href": "https://allenhoggforwyoming.com/privacy-policy"
+}
 ]

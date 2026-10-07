@@ -1,10 +1,7 @@
-I saw this clip and had to laugh – then shake my head.
-Transgender Laverne Cox says banning men from women’s sports and bathrooms will lead to genocide pic.twitter.com/JOjVmM0bRj
-— Libs of TikTok (@libsoftiktok) May 1, 2026
-Laverne Cox, a biological male who lives as a woman, stood on a red carpet and told the world that keeping boys out of girls’ sports and single-sex bathrooms is the first step toward genocide.
+Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Follow Follow Follow Home Meet Erica Where I Stand District 9 Photos News DONATE NOW DONATE NOW VOLUNTEER SIGNUP Select Language Arabic Chinese (Simplified) Dutch English French German Italian Portuguese Russian Spanish Home Meet Erica Where I Stand District 9 Photos News News No, Keeping Boys Out of Girls’ Sports Is Not “Genocide” May 1, 2026 I saw this clip and had to laugh – then shake my head.
+Transgender Laverne Cox says banning men from women’s sports and bathrooms will lead to genocide pic.twitter.com/JOjVmM0bRj — Libs of TikTok (@libsoftiktok) May 1, 2026 Laverne Cox, a biological male who lives as a woman, stood on a red carpet and told the world that keeping boys out of girls’ sports and single-sex bathrooms is the first step toward genocide.
 And she wasn’t kidding.
-Cox said, “At the heart of every genocide is dehumanization,” and claimed rules for fair play in sports or safe spaces for women are just a “pretext to scapegoat trans people” and “legislate us out of existence.”
-Come on.
+Cox said, “At the heart of every genocide is dehumanization,” and claimed rules for fair play in sports or safe spaces for women are just a “pretext to scapegoat trans people” and “legislate us out of existence.” Come on.
 Real genocide means mass murder.
 Forced starvation.
 Wiping out entire ethnic groups.
@@ -19,8 +16,7 @@ Cox isn’t alone with the wild claims.
 Other activists push the same line.
 They say biological males in girls’ sports carry “no unfair advantage.” That “trans girls are girls,” so fairness doesn’t matter.
 Some argue it’s all about inclusion and fun, not competition – and that separate teams hurt everyone.
-One group even claimed worries about strength and speed are “myths rooted in misogyny.”
-They act like puberty magically disappears if you change your pronouns.
+One group even claimed worries about strength and speed are “myths rooted in misogyny.” They act like puberty magically disappears if you change your pronouns.
 That’s not how the real world works.
 Boys who go through male puberty develop bigger hearts, lungs, bones, and muscle mass.
 That’s why we have girls’ sports in the first place.
@@ -37,7 +33,7 @@ No more boys in girls’ divisions at public schools or taxpayer-funded events.
 It protects fairness without touching anyone’s private life.
 The polls back us up.
 Gallup found 69 percent of Americans say athletes should compete on teams matching their birth sex.
-A New York Times/Ipsos poll showed 79 percent overall – including 67 percent of Democrats – oppose biological males in women’s sports.
+A New York Times /Ipsos poll showed 79 percent overall – including 67 percent of Democrats – oppose biological males in women’s sports.
 Even here in Nevada, parents are tired of watching ideology trump reality in our kids’ gyms and on our kids’ fields.
 Critics call our initiative “unnecessary.” They say it harms dignity.
 They talk about compassion.
@@ -55,4 +51,6 @@ Live your life.
 Be kind.
 But don’t ask our girls to surrender fair competition just to soothe an argument that starts with “genocide” over a bathroom sign.
 Nevada families see through it.
-And we’re doing something about it – one signature at a time.
+And we’re doing something about it – one signature at a time.  Call ‪(702) 785-1160‬  Mail Erica Neely for Nevada 6545 S.
+Fort Apache Rd.
+Ste 135 PMB 215 LAS VEGAS, NV 89148  Email [email protected] Paid For By Erica Neely For Nevada Follow Follow Follow Follow Privacy Policy

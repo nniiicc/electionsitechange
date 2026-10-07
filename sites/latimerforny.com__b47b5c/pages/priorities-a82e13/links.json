@@ -1,13 +1,70 @@
 [
-"https://facebook.com/LatimerforNY",
-"https://instagram.com/latimerforny",
-"https://latimerforny.com/",
-"https://latimerforny.com/bio",
-"https://latimerforny.com/cdn-cgi/l/email-protection",
-"https://latimerforny.com/priorities",
-"https://latimerforny.com/privacy",
-"https://latimerforny.com/volunteer",
-"https://secure.actblue.com/donate/latimer-web",
-"https://secure.actblue.com/donate/latimer-web?amount=20",
-"https://twitter.com/LatimerforNY"
+{
+"text": "Contact Us",
+"href": "mailto:info@latimerforny.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "Donate $20",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=20"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LatimerforNY"
+},
+{
+"text": "Home",
+"href": "https://latimerforny.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/latimerforny"
+},
+{
+"text": "Meet George",
+"href": "https://latimerforny.com/bio/"
+},
+{
+"text": "Menu",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@latimerforny.com"
+},
+{
+"text": "Priorities",
+"href": "https://latimerforny.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://latimerforny.com/privacy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/LatimerforNY"
+},
+{
+"text": "Volunteer",
+"href": "https://latimerforny.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://latimerforny.com"
+},
+{
+"text": "become a donor to George's Campaign →",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "become a founding donor →",
+"href": "https://secure.actblue.com/donate/latimer-web"
+}
 ]

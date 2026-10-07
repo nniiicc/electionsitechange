@@ -1,5 +1,5 @@
-Anders' Committee Statement on Ending Puberty Blockers for Minors
-Today, I cast my vote to ban the use of puberty blockers on minors, and I do so knowing full well the gravity of this decision.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Anders' Committee Statement on Ending Puberty Blockers for Minors Apr 6 Written By S.
+Chris Anders Today, I cast my vote to ban the use of puberty blockers on minors, and I do so knowing full well the gravity of this decision.
 This is a defining issue—morally, medically, and culturally.
 Let me begin with the facts: the FDA has never approved puberty blockers for the treatment of gender dysphoria in children.
 These drugs are being used off-label, and there is a growing body of evidence showing deeply concerning side effects.
@@ -33,3 +33,5 @@ We only get one life on this earth.
 And the sooner we accept the cards we've been dealt—not in defeat, but in strength and faith—the sooner we can find true joy, purpose, and peace.
 That’s what I want for every young person in West Virginia.
 That’s why I’m voting yes.
+S.
+Chris Anders Previous Previous Press Release Next Next Anders Votes Against the State Budget anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

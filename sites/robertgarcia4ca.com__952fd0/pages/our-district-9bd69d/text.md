@@ -1,5 +1,3 @@
-Our District
-The California State Assembly 50th District includes the communities of Rancho Cucamonga, Fontana, Bloomington, Colton, Ontario, Loma Linda, San Bernardino, Rialto and Redlands.
-Home
-Our District
-Copyright © 2026 - PAID FOR BY ROBERT GARCIA FOR ASSEMBLY 2026 - FPPC #1477689
+Skip to content Menu Meet Robert News Endorsements District Map Media Volunteer Donate Quick Links: Facebook Twitter Instagram Open Search Window Home Our District Our District The California State Assembly 50th District includes the communities of Rancho Cucamonga, Fontana, Bloomington, Colton, Ontario, Loma Linda, San Bernardino, Rialto and Redlands.
+Comments are closed.
+E-mail: info@robertgarcia4ca.com Social Media Facebook Instagram Twitter Join Team Robert Volunteer Donate Now Important Links Meet Robert Endorsements Our District Issues Facebook Twitter Instagram Open Search Window Copyright © # - PAID FOR BY ROBERT GARCIA FOR ASSEMBLY 2026 - FPPC #1477689 Search for: Search Close Search Window ↑

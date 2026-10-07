@@ -1,11 +1,70 @@
 [
-"https://ct.gop/",
-"https://darienct.gov/",
-"https://darienrepublicans.com/",
-"https://newcanaan.info/",
-"https://newcanaanrepublicans.org/",
-"https://stamfordct.gov/",
-"https://tomodeaforstaterep.com/",
-"https://tomodeaforstaterep.com/home",
-"https://vote.gop/"
+{
+"text": "About",
+"href": "https://tomodeaforstaterep.com/home#about"
+},
+{
+"text": "Connect",
+"href": "https://tomodeaforstaterep.com/home#connect"
+},
+{
+"text": "Contact Tom",
+"href": "https://tomodeaforstaterep.com/home#contact"
+},
+{
+"text": "Darien",
+"href": "https://www.darienct.gov/"
+},
+{
+"text": "Darien RTC",
+"href": "https://www.darienrepublicans.com/"
+},
+{
+"text": "District",
+"href": "https://tomodeaforstaterep.com/home#district"
+},
+{
+"text": "Experience",
+"href": "https://tomodeaforstaterep.com/home#experience"
+},
+{
+"text": "New Canaan",
+"href": "https://www.newcanaan.info/"
+},
+{
+"text": "New Canaan RTC",
+"href": "https://newcanaanrepublicans.org/"
+},
+{
+"text": "Priorities",
+"href": "https://tomodeaforstaterep.com/home#priorities"
+},
+{
+"text": "Register to vote",
+"href": "https://vote.gop/"
+},
+{
+"text": "Stamford",
+"href": "https://www.stamfordct.gov/"
+},
+{
+"text": "State Party",
+"href": "https://ct.gop/"
+},
+{
+"text": "Tom O'Dea",
+"href": "https://tomodeaforstaterep.com/"
+},
+{
+"text": "Town Website",
+"href": "https://www.darienct.gov/"
+},
+{
+"text": "Town Website",
+"href": "https://www.newcanaan.info/"
+},
+{
+"text": "Town Website",
+"href": "https://www.stamfordct.gov/"
+}
 ]

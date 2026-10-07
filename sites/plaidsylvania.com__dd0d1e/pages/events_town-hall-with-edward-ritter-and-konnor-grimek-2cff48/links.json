@@ -1,13 +1,54 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Edward+Ritter+and+Konnor+Grimek&dates=20260813T223000Z%2F20260814T000000Z&location=1501+Mount+Zion+Road%2C+York%2C+Pennsylvania%2C+17402%2C+United+States",
-"http://maps.google.com/?q=1501+Mount+Zion+Road+York%2C+Pennsylvania%2C+17402+United+States",
-"https://paypal.biz/plaidsylvania",
-"https://plaidsylvania.com/",
-"https://plaidsylvania.com/cart",
-"https://plaidsylvania.com/events",
-"https://plaidsylvania.com/events/day-of-action-canvassing-in-springettsbury-township",
-"https://plaidsylvania.com/events/town-hall-with-edward-ritter-and-konnor-grimek?format=ical",
-"https://plaidsylvania.com/events/york-state-fair-3",
-"https://plaidsylvania.com/newsletter",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1501+mount+zion+road+york%2C+pennsylvania%2C+17402+united+states"
+},
+{
+"text": "0",
+"href": "https://www.plaidsylvania.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.biz/plaidsylvania"
+},
+{
+"text": "Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Edward+Ritter+and+Konnor+Grimek&dates=20260813T223000Z%2F20260814T000000Z&location=1501+Mount+Zion+Road%2C+York%2C+Pennsylvania%2C+17402%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.plaidsylvania.com/events/town-hall-with-edward-ritter-and-konnor-grimek?format=ical"
+},
+{
+"text": "Next Next August 15 Day of Action - Canvassing in Springettsbury Township",
+"href": "https://www.plaidsylvania.com/events/day-of-action-canvassing-in-springettsbury-township"
+},
+{
+"text": "Plaidsylvania",
+"href": "https://www.plaidsylvania.com/"
+},
+{
+"text": "Previous Previous August 2 York State Fair",
+"href": "https://www.plaidsylvania.com/events/york-state-fair-3"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Subscribe to Edward's Newsletter",
+"href": "https://www.plaidsylvania.com/newsletter"
+},
+{
+"text": "[image: Plaidsylvania]",
+"href": "https://www.plaidsylvania.com/"
+}
 ]

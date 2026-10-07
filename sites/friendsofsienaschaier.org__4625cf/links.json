@@ -1,9 +1,30 @@
 [
-"https://friendsofsienaschaier.org/about-me",
-"https://friendsofsienaschaier.org/contact",
-"https://friendsofsienaschaier.org/endorsements",
-"https://friendsofsienaschaier.org/home",
-"https://friendsofsienaschaier.org/issues",
-"https://friendsofsienaschaier.org/support",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fsiena_schaier_nh&sa=D&sntz=1&usg=AOvVaw3GwSjD3DvFtx0zNRROLp8V"
+{
+"text": "About Me",
+"href": "https://www.friendsofsienaschaier.org/about-me"
+},
+{
+"text": "Contact",
+"href": "https://www.friendsofsienaschaier.org/contact"
+},
+{
+"text": "DONATE HERE",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fsiena_schaier_nh&sa=D&sntz=1&usg=AOvVaw3GwSjD3DvFtx0zNRROLp8V"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofsienaschaier.org/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofsienaschaier.org/home"
+},
+{
+"text": "Issues",
+"href": "https://www.friendsofsienaschaier.org/issues"
+},
+{
+"text": "Support",
+"href": "https://www.friendsofsienaschaier.org/support"
+}
 ]

@@ -1,9 +1,15 @@
 {
  "description": "Running for a reason",
  "final_url": "https://manwaringforidaho.org/news/2019/7/26/idaho-state-journal",
+ "fingerprint": "665ae7d3641b27242be7319ee55d0ce8b71b1d2d",
+ "format": 3,
  "paid_for_by": "Paid for by Manwaring for Idaho",
- "title": "Idaho State Journal \u2014 Manwaring for Idaho",
+ "title": "Idaho State Journal — Manwaring for Idaho",
  "years_mentioned": [
-  "2019"
+  "2017",
+  "2018",
+  "2019",
+  "2021",
+  "2022"
  ]
 }

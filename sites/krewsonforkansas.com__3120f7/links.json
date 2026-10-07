@@ -1,16 +1,74 @@
 [
-"https://facebook.com/krewsonforkansas",
-"https://forms.gle/DymvpkXNBdsiF12i6",
-"https://instagram.com/krewsonforkansas",
-"https://krewsonforkansas.com/cdn-cgi/l/email-protection",
-"https://krewsonforkansas.com/survey",
-"https://secure.actblue.com/donate/krewsonforkansas",
-"https://secure.actblue.com/donate/krewsonforkansas?amount=10",
-"https://secure.actblue.com/donate/krewsonforkansas?amount=100",
-"https://secure.actblue.com/donate/krewsonforkansas?amount=25",
-"https://secure.actblue.com/donate/krewsonforkansas?amount=250",
-"https://secure.actblue.com/donate/krewsonforkansas?amount=50",
-"https://secure.countonme.org/krewson-for-kansas/opt-in-form-v0",
-"https://tigerweb.geo.census.gov/",
-"https://x.com/krewson4kansas"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/krewsonforkansas?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/krewsonforkansas?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/krewsonforkansas?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/krewsonforkansas?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/krewsonforkansas?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/krewsonforkansas"
+},
+{
+"text": "Donate Chip in to help us reach every voter in District 22. Contribute →",
+"href": "https://secure.actblue.com/donate/krewsonforkansas"
+},
+{
+"text": "Open it in a new tab →",
+"href": "https://secure.countonme.org/krewson-for-kansas/opt-in-form-v0"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/krewsonforkansas"
+},
+{
+"text": "U.S. Census Bureau TIGER/Line",
+"href": "https://tigerweb.geo.census.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/DymvpkXNBdsiF12i6"
+},
+{
+"text": "Volunteer Knock doors, make calls, or host a meet-and-greet. Sign up →",
+"href": "https://forms.gle/DymvpkXNBdsiF12i6"
+},
+{
+"text": "Voter Survey Share what issues matter most to you and your family. Take the survey →",
+"href": "https://krewsonforkansas.com/survey"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@krewsonforkansas.com"
+},
+{
+"text": "[image: Reed Krewson for State House] K KREWSON",
+"href": "https://secure.actblue.com/donate/krewsonforkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/krewsonforkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krewsonforkansas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/krewson4kansas"
+}
 ]

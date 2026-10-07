@@ -1,4 +1,4 @@
-The House of Representatives will be on furlough during the week preceding Easter to lower operating costs and save taxpayer dollars.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capital Report – 4/15/2019 Kambrell Garvin April 15, 2019 Comments Off on The State Capital Report – 4/15/2019 Uncategorized The House of Representatives will be on furlough during the week preceding Easter to lower operating costs and save taxpayer dollars.
 The House will reconvene on April 23.
 The House of Representatives approved and sent the Senate H.4380, the “SAMANTHA L.
 JOSEPHSON RIDESHARING SAFETY ACT”.
@@ -23,8 +23,7 @@ The House amended, approved and sent the Senate H.3403, a bill authorizing publi
 The legislation establishes a protocol that allows a school district to establish a competency-based school by obtaining a waiver from the State Department of Education that allows the program to be exempt from certain requirements for the purposes of accountability and accreditation.
 The Department of Education is charged with developing separate evaluation criteria and guidelines for schools implementing competency-based education, conducting a biennial review of such schools, and reporting findings.
 If the biennial review shows that the goals or objectives of the competency-based school are not being met, the exemptions granted for that school may be revoked.
-The department is also directed to develop a process to ensure that schools and districts are not penalized for the purposes of
-accreditation and to ensure that students are not penalized when transferring between schools with and without competency-based systems.
+The department is also directed to develop a process to ensure that schools and districts are not penalized for the purposes of accreditation and to ensure that students are not penalized when transferring between schools with and without competency-based systems.
 The Commission on Higher Education and State Board for Technical and Comprehensive Education must establish policies to provide fair and equitable access to institutions of higher education and technical colleges for students with competency‑based credits or diplomas, scholarships, and financial aid for graduates of schools implementing innovative school models and using nontraditional diplomas and transcripts.
 The House amended, approved, and sent the Senate H.3577, a bill providing authority for ALTERNATIVE PROGRAMS FOR EDUCATOR PREPARATION AND CERTIFICATION as a means of addressing current teacher shortages.
 The legislation establishes a protocol allowing for the approval of alternative route providers and programs for educator preparation and certification.
@@ -115,4 +114,6 @@ The House approved and sent the Senate H.4021, relating to the USE OF CABINS AT 
 This bill makes revisions recommended by the House Legislative Oversight Committee’s study of the Department of Parks, Recreation and Tourism.
 The legislation removes the prohibition on swimming and rental or use of cabins at state parks.
 The House amended, approved, and sent the Senate H.3737, a bill revising the membership of the RICHLAND‑LEXINGTON AIRPORT COMMISSION.
-The House approved and sent the Senate to H.3307, a bill making provisions for a searchable online DATABASE ON PROPERTY SEIZED BY LAW ENFORCEMENT AND FORFEITED.
+The House approved and sent the Senate to H.3307, a bill making provisions for a searchable online DATABASE ON PROPERTY SEIZED BY LAW ENFORCEMENT AND FORFEITED. « The State Capital Report – 4/9/2019 The State Capital Report – 4/26/2019 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

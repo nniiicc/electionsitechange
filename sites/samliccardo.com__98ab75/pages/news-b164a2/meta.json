@@ -1,7 +1,12 @@
 {
  "description": "samliccardo.com's campaign",
  "final_url": "https://www.samliccardo.com/news",
- "paid_for_by": "Paid for by Liccardo for Congress",
- "title": "News \u2014 samliccardo.com",
- "years_mentioned": []
+ "fingerprint": "85293548de64a6419300fc76a757e034a1c58def",
+ "format": 3,
+ "paid_for_by": "Paid for by Liccardo for Congress You need to enable JavaScript to run this app",
+ "title": "News — samliccardo.com",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

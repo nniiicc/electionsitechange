@@ -1,3 +1,1 @@
-Paid for by Friends of Em Levy (20377)
-hello@emersonvotes.com
-PO Box 6642 Bend, OR 97708
+About Priorities Endorsements News Get Involved Donate About Priorities Endorsements News Get Involved Donate Paid for by Friends of Em Levy (20377) hello@emersonvotes.com PO Box 6642 Bend, OR 97708 Contact info Show Less Menu

@@ -1,18 +1,66 @@
 [
-"http://youtube.com/",
-"https://airtable.com/shrBA6UCO1KJsCesP",
-"https://ellmanforillinois.com/",
-"https://ellmanforillinois.com/about-laura",
-"https://ellmanforillinois.com/endorsements",
-"https://ellmanforillinois.com/get-involved",
-"https://ellmanforillinois.com/laura-ellman-speaks-healthcare-forum",
-"https://ellmanforillinois.com/lt-governor-candidate-juliana-stratton-joins-laura-ellman-fundraiser-support-women-candidates",
-"https://ellmanforillinois.com/my-vision",
-"https://ellmanforillinois.com/policies-that-matter",
-"https://ellmanforillinois.com/the-21st-district",
-"https://facebook.com/EllmanforIL",
-"https://facebook.com/events/565053370554813",
-"https://instagram.com/statesenatorlauraellman",
-"https://secure.actblue.com/donate/teamellman22",
-"https://twitter.com/EllmanForIL"
+{
+"text": "ABOUT LAURA",
+"href": "https://ellmanforillinois.com/about-laura/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/teamellman22"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://ellmanforillinois.com/endorsements/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "ISSUES",
+"href": "https://ellmanforillinois.com/policies-that-matter/"
+},
+{
+"text": "Join us on Saturday June 16th for a volunteer kickoff to launch our campaign headquarters.",
+"href": "https://www.facebook.com/events/565053370554813/"
+},
+{
+"text": "Laura Ellman Speaks at Healthcare Forum",
+"href": "https://ellmanforillinois.com/laura-ellman-speaks-healthcare-forum/"
+},
+{
+"text": "Lt. Governor Candidate Juliana Stratton joins Laura Ellman for fundraiser to support women candidates",
+"href": "https://ellmanforillinois.com/lt-governor-candidate-juliana-stratton-joins-laura-ellman-fundraiser-support-women-candidates/"
+},
+{
+"text": "MY VISION",
+"href": "https://ellmanforillinois.com/my-vision/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://airtable.com/shrBA6UCO1KJsCesP"
+},
+{
+"text": "THE 21ST DISTRICT",
+"href": "https://ellmanforillinois.com/the-21st-district/"
+},
+{
+"text": "[image: Laura Ellman]",
+"href": "https://ellmanforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EllmanForIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EllmanforIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/statesenatorlauraellman/"
+}
 ]

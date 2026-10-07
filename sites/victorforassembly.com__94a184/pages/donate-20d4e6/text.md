@@ -1,13 +1,5 @@
-Skip navigation menu
-Donate by check
-To donate by check please make it payable to “Victor Hernandez for Assembly 2026”, and include a note with the following information (to comply with campaign financing rules):
+Skip navigation menu Meet Victor Issues Events News Endorsements Volunteer Donate Donate Meet Victor Issues Events News Endorsements Volunteer Donate Donate We appreciate your support!
+We are #% people-funded, NO corporations, NO lobbyists, NO super PACs!
+Our campaign is powered by people like YOU who demand a government accountable to our communities. $ 10 $ 25 $ 50 $ 100 250 DONATE NOW $ 10 $ 25 $ 50 $ 100 250 DONATE NOW Donate by check To donate by check please make it payable to “Victor Hernandez for Assembly 2026”, and include a note with the following information (to comply with campaign financing rules): Employer Occupation Phone Number Then, mail your check to the following address: 211 S State College Blvd #1072 Anaheim, CA 92806 NOTE: Only checks are accepted to this address.
 Victor Hernandez for Assembly 2026 NEVER sells or shares your information.
-- Employer
-- Occupation
-- Phone Number
-Then, mail your check to the following address:
-211 S State College Blvd #1072
-Anaheim, CA
-92806
-NOTE: Only checks are accepted to this address.
-FPPC #1491723
+FPPC #1491723 Press Kit Contact Privacy Policy FPPC #1491723 Powered by RUN! website builder Paid by Victor Hernandez for Assembly 2026 You need to enable JavaScript to run this app.

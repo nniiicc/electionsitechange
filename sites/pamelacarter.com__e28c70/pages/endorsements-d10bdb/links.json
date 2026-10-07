@@ -1,29 +1,122 @@
 [
-"https://facebook.com/PamelaCarterForAZ",
-"https://instagram.com/pamela.v.carter",
-"https://pamelacarter.com/",
-"https://pamelacarter.com/about",
-"https://pamelacarter.com/contact",
-"https://pamelacarter.com/disclaimer",
-"https://pamelacarter.com/district-map",
-"https://pamelacarter.com/endorsements",
-"https://pamelacarter.com/gallery",
-"https://pamelacarter.com/how-to-vote",
-"https://pamelacarter.com/issues",
-"https://pamelacarter.com/media",
-"https://pamelacarter.com/news",
-"https://pamelacarter.com/news/arizona-state-troopers-endorsement",
-"https://pamelacarter.com/news/azcops-endorsement",
-"https://pamelacarter.com/news/nra-endorsement",
-"https://pamelacarter.com/news/turning-point-action-endorsement",
-"https://pamelacarter.com/press-kit",
-"https://pamelacarter.com/privacy",
-"https://pamelacarter.com/record",
-"https://pamelacarter.com/site-map",
-"https://pamelacarter.com/terms",
-"https://pamelacarter.com/volunteer",
-"https://pamelacarter.com/why-pamela",
-"https://pamelacarter.com/yard-sign",
-"https://secure.anedot.com/pamela-carter/donate",
-"https://x.com/pamelacarter888"
+{
+"text": "Contact",
+"href": "https://www.pamelacarter.com/contact"
+},
+{
+"text": "Disclaimers",
+"href": "https://www.pamelacarter.com/disclaimer"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/pamela-carter/donate"
+},
+{
+"text": "Donate now",
+"href": "https://secure.anedot.com/pamela-carter/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pamelacarter.com/endorsements"
+},
+{
+"text": "How to Vote",
+"href": "https://www.pamelacarter.com/how-to-vote"
+},
+{
+"text": "In the Media",
+"href": "https://www.pamelacarter.com/media"
+},
+{
+"text": "Issues",
+"href": "https://www.pamelacarter.com/issues"
+},
+{
+"text": "LD4 District Map",
+"href": "https://www.pamelacarter.com/district-map"
+},
+{
+"text": "Legislative Record",
+"href": "https://www.pamelacarter.com/record"
+},
+{
+"text": "Meet Pamela",
+"href": "https://www.pamelacarter.com/about"
+},
+{
+"text": "News",
+"href": "https://www.pamelacarter.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.pamelacarter.com/gallery"
+},
+{
+"text": "Press Kit",
+"href": "https://www.pamelacarter.com/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pamelacarter.com/privacy"
+},
+{
+"text": "Read the announcement",
+"href": "https://www.pamelacarter.com/news/arizona-state-troopers-endorsement"
+},
+{
+"text": "Read the announcement",
+"href": "https://www.pamelacarter.com/news/azcops-endorsement"
+},
+{
+"text": "Read the announcement",
+"href": "https://www.pamelacarter.com/news/nra-endorsement"
+},
+{
+"text": "Read the announcement",
+"href": "https://www.pamelacarter.com/news/turning-point-action-endorsement"
+},
+{
+"text": "Record",
+"href": "https://www.pamelacarter.com/record"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.pamelacarter.com/yard-sign"
+},
+{
+"text": "Site Map",
+"href": "https://www.pamelacarter.com/site-map"
+},
+{
+"text": "Terms",
+"href": "https://www.pamelacarter.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.pamelacarter.com/volunteer"
+},
+{
+"text": "Why Pamela",
+"href": "https://www.pamelacarter.com/why-pamela"
+},
+{
+"text": "[image: Pamela Carter for Arizona House]",
+"href": "https://www.pamelacarter.com/"
+},
+{
+"text": "[tooltip: Pamela Carter on Facebook]",
+"href": "https://www.facebook.com/PamelaCarterForAZ"
+},
+{
+"text": "[tooltip: Pamela Carter on Instagram]",
+"href": "https://www.instagram.com/pamela.v.carter/"
+},
+{
+"text": "[tooltip: Pamela Carter on X (Twitter)]",
+"href": "https://x.com/pamelacarter888"
+},
+{
+"text": "pamela@pamelacarter.com",
+"href": "mailto:pamela@pamelacarter.com"
+}
 ]

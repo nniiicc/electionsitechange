@@ -1,6 +1,4 @@
-Endorsements
-Matt Regier
-Speaker of the State House
-“I wholeheartedly endorse Lukas Schubert for House District 8.
+0 Skip to Content Home 2025 Session Issues Endorsements Volunteer Contact Donate Now Open Menu Close Menu Open Menu Close Menu Home 2025 Session Issues Endorsements Volunteer Contact Donate Now Home 2025 Session Issues Endorsements Volunteer Contact Donate Now Endorsements Matt Regier Speaker of the State House “ I wholeheartedly endorse Lukas Schubert for House District 8.
 I have worked with Lukas and his strong work ethic matches his love for Montana.
-Lukas will vote to move power away from the state government and back to Montana families where it belongs.”
+Lukas will vote to move power away from the state government and back to Montana families where it belongs.” Flathead County Republican Party (Unanimously) John Fuller State Senator Dr.
+Al Olszewski Former State Represenative Mark Noland State Senator Keith Regier State Senator Carl Glimm State Senator Brad Abell County Commisioner Randy Brodehl County Commissioner Lukas Schubert for HD8 Issues Endorsements Volunteer Contact Donate Paid for by Lukas Schubert Committee to Elect for HD8 PO Box 8091, Kalispell, MT 59904 Republican

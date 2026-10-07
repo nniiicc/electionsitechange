@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241102T130000Z%2F20241102T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States",
-"http://maps.google.com/?q=1841+3rd+St+NE++Canton%2C+Ohio%2C+44704+United+States",
-"https://facebook.com/KristaLAllison49",
-"https://instagram.com/krista_l_allison",
-"https://kristalallisonforoh49.com/",
-"https://kristalallisonforoh49.com/about",
-"https://kristalallisonforoh49.com/cart",
-"https://kristalallisonforoh49.com/contact",
-"https://kristalallisonforoh49.com/endorsements",
-"https://kristalallisonforoh49.com/events",
-"https://kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg",
-"https://kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf?format=ical",
-"https://kristalallisonforoh49.com/learnmore",
-"https://kristalallisonforoh49.com/media",
-"https://kristalallisonforoh49.com/privacy-policy",
-"https://kristalallisonforoh49.com/what-krista-believes",
-"https://mobilize.us/emiliasykesforcongress/event/726678",
-"https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1841+3rd+st+ne++canton%2C+ohio%2C+44704+united+states"
+},
+{
+"text": "0",
+"href": "https://www.kristalallisonforoh49.com/cart"
+},
+{
+"text": "About Krista",
+"href": "https://www.kristalallisonforoh49.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kristalallisonforoh49.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristalallisonforoh49.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+&dates=20241102T130000Z%2F20241102T170000Z&location=1841+3rd+St+NE+%2C+Canton%2C+Ohio%2C+44704%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg-pf9lf?format=ical"
+},
+{
+"text": "Learn More",
+"href": "https://www.kristalallisonforoh49.com/learnmore"
+},
+{
+"text": "Media",
+"href": "https://www.kristalallisonforoh49.com/media"
+},
+{
+"text": "Next Next December 11 Holiday Giving & CommUNITY Meet-and-Greet🎁",
+"href": "https://www.kristalallisonforoh49.com/events/5fs5wdip2lvedg50r76wj753z0bmeq"
+},
+{
+"text": "Previous Previous October 26 Canvassing Event",
+"href": "https://www.kristalallisonforoh49.com/events/z5fz335fzl1hijui6s7nepa0x47hvg-3jpdg"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kristalallisonforoh49.com/privacy-policy"
+},
+{
+"text": "What Krista Believes",
+"href": "https://www.kristalallisonforoh49.com/what-krista-believes"
+},
+{
+"text": "[image: Krista L Allison for OH 49]",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KristaLAllison49/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krista_l_allison"
+},
+{
+"text": "https://www.mobilize.us/emiliasykesforcongress/event/726678/",
+"href": "https://www.mobilize.us/emiliasykesforcongress/event/726678/%20"
+}
 ]

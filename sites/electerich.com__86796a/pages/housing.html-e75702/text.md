@@ -1,5 +1,4 @@
-HOUSING
-| If you’re looking for an affordable place in Assembly District 39 to rent or buy, I wouldn’t blame you if you thought the whole world was against you.
+ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact HOUSING If you’re looking for an affordable place in Assembly District 39 to rent or buy, I wouldn’t blame you if you thought the whole world was against you.
 Want to rent in Lyon or Douglas County?
 Be ready to pay at least $1,400 a month for a one-bedroom apartment.
 Two-bedrooms or more will cost from $1,700 up to $2,200.
@@ -57,8 +56,7 @@ These funds have but one purpose: to make money for themselves.
 They have no interest in community well-being, sustainability, or its members quality of life.
 Private equity funds use their hoards of investment capital to distort the relationship between housing supply and demand—to their benefit and at the expense of individual Nevadans trying to buy a home.
 They target areas and buy up properties one after another, making cash offers to outbid normal buyers—not only pricing them out but pushing overall prices up throughout the area.
-When the time is right, they either release a calculated selection of properties at a profit into the overinflated market, which they themselves helped create, or they convert properties to rentals, further reducing supply.
-In Nevada, private equity funds took advantage of the economic downturn in the 2008 Recession to buy up distressed properties.
+When the time is right, they either release a calculated selection of properties at a profit into the overinflated market, which they themselves helped create, or they convert properties to rentals, further reducing supply. ​ In Nevada, private equity funds took advantage of the economic downturn in the 2008 Recession to buy up distressed properties.
 During the Covid epidemic, they capitalized on the growing demand for suburban housing by using cash offers to instigate and win bidding wars.
 Stateline, a nonprofit news organization, reported investor ownership of homes in Nevada went from 18 percent in 2020 to 30 percent in 2021.
 The Lied Center for Real Estate at the University of Nevada Las Vegas estimated investors owned roughly 15% of homes in the City of Las Vegas.
@@ -66,9 +64,12 @@ The Nevada Democratic Party has pointed out that two multi-billion dollar Wall S
 They together control around 8,000 homes.
 SB10 would have been a big step toward leveling the housing market playing field, that is if one more Legislator had stood with Nevadans instead of Wall Street.
 The bill would have put some constraints on wealth and privilege, but instead private equity funds will continue manipulating the housing market simply because they have the money to do it.
-SB10 would have been an easy “yes” for me, and I look forward to supporting more bills like this in the future. | Paying for a place to live is eating up household budgets in District 39 and throughout the state.
-Housing costs are all about supply and demand, and Legislators have a key role in bringing the currently out of whack relationship back into balance.
-If I’m elected to represent Assembly District 39, I will: Fight to stop private equity funds from manipulating supply and shutting ordinary Nevadans out of the housing market.
+SB10 would have been an easy “yes” for me, and I look forward to supporting more bills like this in the future.
+Paying for a place to live is eating up household budgets in District 39 and throughout the state.
+Housing costs are all about supply and demand, and Legislators have a key role in bringing the currently out of whack relationship back into balance. ​ If I’m elected to represent Assembly District 39, I will: Fight to stop private equity funds from manipulating supply and shutting ordinary Nevadans out of the housing market.
 Monitor implementation of the Nevada Housing Access and Attainability Act to make sure it achieves its promised goals, particularly the increased construction of attainable housing.
 Support incentives to counties and cities to change planning and zoning that places undue restrictions on developing multi-family housing.
-And I won’t hesitate to insure proper funding for programs that help families in need, seniors and others on fixed incomes, and those experiencing homelessness to find and keep decent, affordable housing. |
+And I won’t hesitate to insure proper funding for programs that help families in need, seniors and others on fixed incomes, and those experiencing homelessness to find and keep decent, affordable housing.
+Quick Links HOME ​ ABOUT Questions CONTACT Terms of Service & Privacy Policy © COPYRIGHT #.
+ALL RIGHTS RESERVED.
+WWW.ELECTERICH.COM — PAID FOR BY THE COMMITTEE TO ELECT ERICH OBERMAYR Elect Erich ABOUT Issues DATA CENTERS EDUCATION HOUSING NON-PARTISAN VOTE WATER Contact

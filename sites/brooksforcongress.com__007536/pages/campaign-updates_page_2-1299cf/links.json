@@ -1,28 +1,198 @@
 [
-"https://brooksforcongress.com/",
-"https://brooksforcongress.com/accessibility-statement",
-"https://brooksforcongress.com/campaign-updates",
-"https://brooksforcongress.com/campaign-updates/firefighter-bob-brooks-wins-democratic-nomination-in-pennsylvanias-7th-congressional-district",
-"https://brooksforcongress.com/campaign-updates/in-the-news",
-"https://brooksforcongress.com/campaign-updates/pennsylvania-governor-josh-shapiro-endorses-firefighter-bob-brooks-for-congress",
-"https://brooksforcongress.com/campaign-updates/pete-buttigieg-endorses-firefighter-bob-brooks-for-congress",
-"https://brooksforcongress.com/campaign-updates/press-releases",
-"https://brooksforcongress.com/cdn-cgi/l/email-protection",
-"https://brooksforcongress.com/donate",
-"https://brooksforcongress.com/donate?amount=10",
-"https://brooksforcongress.com/donate?amount=100",
-"https://brooksforcongress.com/donate?amount=25",
-"https://brooksforcongress.com/donate?amount=250",
-"https://brooksforcongress.com/donate?amount=5",
-"https://brooksforcongress.com/donate?amount=50",
-"https://brooksforcongress.com/endorsements",
-"https://brooksforcongress.com/meet-bob",
-"https://brooksforcongress.com/news/firefighters-union-leader-launches-bid-for-battleground-pennsylvania-house-seat",
-"https://brooksforcongress.com/on-the-issues",
-"https://brooksforcongress.com/privacy-policy",
-"https://brooksforcongress.com/volunteer",
-"https://brooksforcongress.com/voter-info",
-"https://facebook.com/profile.php?id=61579956682086",
-"https://instagram.com/votebobbrooks",
-"https://x.com/VoteBobBrooks"
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=50"
+},
+{
+"text": "$10",
+"href": "https://www.brooksforcongress.com/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://www.brooksforcongress.com/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://www.brooksforcongress.com/donate?amount=25"
+},
+{
+"text": "$5",
+"href": "https://www.brooksforcongress.com/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://www.brooksforcongress.com/donate?amount=50"
+},
+{
+"text": "1",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.brooksforcongress.com/accessibility-statement/"
+},
+{
+"text": "All News",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "Campaign News",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "Donate",
+"href": "https://www.brooksforcongress.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://www.brooksforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brooksforcongress.com/endorsements/"
+},
+{
+"text": "Endorsements Endorsements",
+"href": "https://www.brooksforcongress.com/endorsements/"
+},
+{
+"text": "Firefighter Bob Brooks Wins Democratic Nomination in Pennsylvania’s 7th Congressional District to Unseat Vulnerable Republican Ryan Mackenzie",
+"href": "https://www.brooksforcongress.com/campaign-updates/firefighter-bob-brooks-wins-democratic-nomination-in-pennsylvanias-7th-congressional-district/"
+},
+{
+"text": "Firefighters union leader launches bid for battleground Pennsylvania House seat",
+"href": "https://www.brooksforcongress.com/news/firefighters-union-leader-launches-bid-for-battleground-pennsylvania-house-seat/"
+},
+{
+"text": "In the News",
+"href": "https://www.brooksforcongress.com/campaign-updates/in-the-news/"
+},
+{
+"text": "Learn More",
+"href": "https://www.brooksforcongress.com/campaign-updates/firefighter-bob-brooks-wins-democratic-nomination-in-pennsylvanias-7th-congressional-district/"
+},
+{
+"text": "Learn More",
+"href": "https://www.brooksforcongress.com/campaign-updates/pennsylvania-governor-josh-shapiro-endorses-firefighter-bob-brooks-for-congress/"
+},
+{
+"text": "Learn More",
+"href": "https://www.brooksforcongress.com/campaign-updates/pete-buttigieg-endorses-firefighter-bob-brooks-for-congress/"
+},
+{
+"text": "Learn More",
+"href": "https://www.brooksforcongress.com/news/firefighters-union-leader-launches-bid-for-battleground-pennsylvania-house-seat/"
+},
+{
+"text": "Meet Bob",
+"href": "https://www.brooksforcongress.com/meet-bob/"
+},
+{
+"text": "Meet Bob Meet",
+"href": "https://www.brooksforcongress.com/meet-bob/"
+},
+{
+"text": "News",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "News News",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "Other",
+"href": "https://www.brooksforcongress.com/donate"
+},
+{
+"text": "Pennsylvania Governor Josh Shapiro Endorses Firefighter Bob Brooks for Congress",
+"href": "https://www.brooksforcongress.com/campaign-updates/pennsylvania-governor-josh-shapiro-endorses-firefighter-bob-brooks-for-congress/"
+},
+{
+"text": "Pete Buttigieg Endorses Firefighter Bob Brooks for Congress",
+"href": "https://www.brooksforcongress.com/campaign-updates/pete-buttigieg-endorses-firefighter-bob-brooks-for-congress/"
+},
+{
+"text": "Platform",
+"href": "https://www.brooksforcongress.com/on-the-issues/"
+},
+{
+"text": "Platform Platform",
+"href": "https://www.brooksforcongress.com/on-the-issues/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.brooksforcongress.com/campaign-updates/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brooksforcongress.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy and Terms and Conditions.",
+"href": "https://www.brooksforcongress.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.brooksforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://www.brooksforcongress.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://www.brooksforcongress.com/voter-info/"
+},
+{
+"text": "Voter Info Voter Info",
+"href": "https://www.brooksforcongress.com/voter-info/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@brooksforcongress.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@brooksforcongress.com"
+},
+{
+"text": "[image: Bob Brooks for Congress Logo (inverted)]",
+"href": "https://www.brooksforcongress.com/"
+},
+{
+"text": "[image: Bob Brooks for Congress Logo]",
+"href": "https://www.brooksforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579956682086"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebobbrooks/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteBobBrooks"
+}
 ]

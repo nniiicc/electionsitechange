@@ -1,25 +1,29 @@
-Meet Doris Matsui
-From Injustice to Service
-“In 1942, President Roosevelt signed Executive Order 9066, approving the removal of American citizens of Japanese descent to remote camps.
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE Meet Doris Matsui From Injustice to Service “ In 1942, President Roosevelt signed Executive Order 9066, approving the removal of American citizens of Japanese descent to remote camps.
 My parents and grandparents were among the 120,000 forced to leave their homes and businesses.
+They were sent by their own government – our government – to a camp in Poston, Arizona.
+They lived in appalling conditions.
+Surrounded by a barbed wire fence and armed guards – solely because of who they were.
+I was born in that internment camp.
+That history lives with me every day.
+It drives me to fight for my neighbors.
+For their rights.
+For their dignity.
+My family had been forced from our home by the U.S. government simply because we were Japanese American.
+Like so many others, we lost everything.
+When the war ended, we had to start over from nothing on a small farm in California’s Central Valley.
+That farm is where I learned what real strength looks like — neighbors helping neighbors, families pulling together, and communities surviving hard times by standing together.
+Those lessons of resilience, community, and perseverance have stayed with me my entire life.
 I was valedictorian of my high school class at Dinuba Union High School and later graduated from the University of California, Berkeley — becoming a proud product of California’s public education system.
 I saw firsthand how opportunity, when it is fairly offered, can change lives and how devastating it is when government abuses its power and targets vulnerable people.
-A Lifetime of Service
-Doris didn’t come to Congress to build a political brand.
+That lived experience is the reason I chose a life of public service, to ensure government works for everyone, not just the powerful.” Download Hi-Res Images from Flickr A Lifetime of Service Doris didn’t come to Congress to build a political brand.
 She came to get things done for the community she calls home.
 For over two decades, she has focused on delivering real results for our region — bringing billions of federal dollars home to protect families from flooding, expand access to healthcare, invest in clean energy jobs, and modernize our region’s infrastructure.
-While others chase headlines, Doris has stayed focused on the work that actually improves people’s lives:
-- Safer levees and flood protection
-- Lower prescription drug costs
-- Expanded mental health care and telehealth
-- Good-paying clean-energy and technology jobs
-- Better transportation and broadband access
-Doris fights for us, puts families first, and gets things done.
-Continuing the Fight and Delivering Results
-Doris Matsui knows that democracy is fragile – because her own family lived through what happens when it fails.
+While others chase headlines, Doris has stayed focused on the work that actually improves people’s lives: Safer levees and flood protection Lower prescription drug costs Expanded mental health care and telehealth Good-paying clean-energy and technology jobs Better transportation and broadband access Doris fights for us, puts families first, and gets things done.
+Continuing the Fight and Delivering Results Doris Matsui knows that democracy is fragile – because her own family lived through what happens when it fails.
 That is why she continues to fight every day for the same values that shaped her life: fairness, opportunity, decency, and a government that works for everyone — not just the powerful.
-- When the Trump administration sought to roll back protections for the climate, Doris spoke out against decisions that would undermine the planet and jeopardize future generations.
-- When policies targeted vulnerable people, including Afghan nationals who stood alongside the United States in past conflicts, she joined a bipartisan group of lawmakers to demand fairness and humane treatment.
-- When presidential power was used without proper oversight, she raised her voice for accountability and respect for the rule of law.
-- And when abuses of power crossed a line, Doris joined her colleagues in Congress in holding leadership accountable.
+When the Trump administration sought to roll back protections for the climate, Doris spoke out against decisions that would undermine the planet and jeopardize future generations.
+When policies targeted vulnerable people, including Afghan nationals who stood alongside the United States in past conflicts, she joined a bipartisan group of lawmakers to demand fairness and humane treatment.
+When presidential power was used without proper oversight, she raised her voice for accountability and respect for the rule of law.
+And when abuses of power crossed a line, Doris joined her colleagues in Congress in holding leadership accountable.
 From securing federal investments for our region to standing up against threats to civil rights, healthcare, and democracy, Doris Matsui continues to show up every day with the same commitment that has defined her entire life: fight for people, fight for fairness, and fight for us.
+MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

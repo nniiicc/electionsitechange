@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/houlahanforpa.bsky.social",
-"https://chrissyhoulahanforcongress.com/",
-"https://chrissyhoulahanforcongress.com/about-chrissy",
-"https://chrissyhoulahanforcongress.com/endorsements",
-"https://chrissyhoulahanforcongress.com/get-updates",
-"https://chrissyhoulahanforcongress.com/issues",
-"https://chrissyhoulahanforcongress.com/privacy-policy",
-"https://facebook.com/HoulahanForPA",
-"https://houlahan.house.gov/issues",
-"https://instagram.com/chrissyhoulahan",
-"https://padems.org/vote",
-"https://secure.actblue.com/donate/chrissy-houlahan-for-congress-1?amount=25",
-"https://secure.ngpvan.com/p7uIQ0VEiU-bDCKO1Lphww2",
-"https://x.com/houlahanforpa?lang=en"
+{
+"text": "About Chrissy",
+"href": "https://chrissyhoulahanforcongress.com/about-chrissy/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chrissy-houlahan-for-congress-1?amount=25"
+},
+{
+"text": "Endorsements",
+"href": "https://chrissyhoulahanforcongress.com/endorsements/"
+},
+{
+"text": "Get Updates",
+"href": "https://chrissyhoulahanforcongress.com/get-updates/"
+},
+{
+"text": "Get Updates",
+"href": "https://secure.ngpvan.com/p7uIQ0VEiU-bDCKO1Lphww2"
+},
+{
+"text": "Issues",
+"href": "https://chrissyhoulahanforcongress.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrissyhoulahanforcongress.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://www.padems.org/vote/"
+},
+{
+"text": "[image]",
+"href": "https://chrissyhoulahanforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/houlahanforpa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://chrissyhoulahanforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HoulahanForPA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrissyhoulahan/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/houlahanforpa?lang=en"
+},
+{
+"text": "click here",
+"href": "https://houlahan.house.gov/issues/"
+},
+{
+"text": "info@chrissyhoulahanforcongress.com",
+"href": "mailto:info@chrissyhoulahanforcongress.com"
+}
 ]

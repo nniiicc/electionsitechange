@@ -1,14 +1,62 @@
 [
-"http://facebook.com/jedforfreedom",
-"http://instagram.com/jedforfreedom",
-"http://twitter.com/jedforfreedom",
-"https://jedforfreedom.com/",
-"https://jedforfreedom.com/contact",
-"https://jedforfreedom.com/dcabout",
-"https://jedforfreedom.com/house-floor",
-"https://jedforfreedom.com/wp-content/uploads/2025/02/Privacy-Policy-JFF.pdf",
-"https://jedforfreedom.com/wp-content/uploads/2025/02/Terms-and-Conditions-JFF.pdf",
-"https://jedtalks.buzzsprout.com/",
-"https://secure.anedot.com/jedforfreedom/donate",
-"https://twitter.com/jedforfreedom"
+{
+"text": "About",
+"href": "https://jedforfreedom.com/dcabout/"
+},
+{
+"text": "Contact",
+"href": "https://jedforfreedom.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jedforfreedom/donate"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/jedforfreedom/"
+},
+{
+"text": "Home",
+"href": "https://jedforfreedom.com/"
+},
+{
+"text": "House Floor",
+"href": "https://jedforfreedom.com/house-floor/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/jedforfreedom/"
+},
+{
+"text": "Jed Talks",
+"href": "https://jedtalks.buzzsprout.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jedforfreedom.com/wp-content/uploads/2025/02/Privacy-Policy-JFF.pdf"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://jedforfreedom.com/wp-content/uploads/2025/02/Terms-and-Conditions-JFF.pdf"
+},
+{
+"text": "X",
+"href": "http://twitter.com/jedforfreedom/"
+},
+{
+"text": "[image: Jed for Freedom]",
+"href": "https://jedforfreedom.com/"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/jedforfreedom/"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/jedforfreedom/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jedforfreedom/"
+}
 ]

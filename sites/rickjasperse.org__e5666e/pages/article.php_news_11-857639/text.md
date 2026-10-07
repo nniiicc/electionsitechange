@@ -1,4 +1,4 @@
-[March 04, 2012] | Monday, February 27th, 2012, marked the beginning of the eighth legislative week of the 2012 session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK Report from the Capitol [ March 04, 2012 ] | Monday, February 27th, 2012, marked the beginning of the eighth legislative week of the 2012 session.
 With ?Crossover Day? - the 30th and final legislative day that most House bills have to pass the House and make their way to the Senate - scheduled for Wednesday, March 7th, we will put in some of our longest days this week.
 This past week started off with a number of the bills passed by the House to protect the well being of children in our State.
 House Bill 215 passed this week ensuring registered sex offenders cannot work as school bus drivers.
@@ -33,3 +33,4 @@ As we move forward toward Crossover Day, I encourage you to contact me with any 
 I always welcome your comments.
 You can call my Capitol office at (404) 656- 0188 or email me at rick.jasperse@house.ga.gov.
 Thank you for allowing me to serve as your Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

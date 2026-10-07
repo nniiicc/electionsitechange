@@ -1,20 +1,86 @@
 [
-"https://dashboard.twitch.tv/u/votedorland/home",
-"https://facebook.com/profile.php?id=61591242647248",
-"https://floridaphoenix.com/2025/07/05/florida-lawmakers-cheer-end-of-u-s-mexico-agreement-on-tomato-imports-but-will-it-raise-prices",
-"https://growingproduce.com/vegetables/tomatoes/tomato-suspension-agreement-is-officially-over-what-now",
-"https://instagram.com/votedorland",
-"https://thepacker.com/news/industry/will-termination-tomato-suspension-agreement-lead-eggs-moment-tomatoes",
-"https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review",
-"https://votetucson.org/",
-"https://votetucson.org/about",
-"https://votetucson.org/contact",
-"https://votetucson.org/help-wanted",
-"https://votetucson.org/privacy-policy",
-"https://votetucson.org/the-ledger",
-"https://votetucson.org/the-platform",
-"https://votetucson.org/why-you-might-pick-me",
-"https://votetucson.org/write_me_in",
-"https://whitecase.com/insight-alert/usmca-2026-joint-review-united-states-declines-extend-agreement-triggering-annual",
-"https://youtube.com/@VoteDorland"
+{
+"text": "About",
+"href": "https://www.votetucson.org/about/"
+},
+{
+"text": "Connect With Us",
+"href": "https://www.votetucson.org/contact/"
+},
+{
+"text": "Contact",
+"href": "https://www.votetucson.org/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591242647248"
+},
+{
+"text": "Help Wanted",
+"href": "https://www.votetucson.org/help-wanted/"
+},
+{
+"text": "Home",
+"href": "https://www.votetucson.org/"
+},
+{
+"text": "How To Write Me In",
+"href": "https://www.votetucson.org/write_me_in/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votedorland/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votetucson.org/privacy-policy/"
+},
+{
+"text": "The Ledger",
+"href": "https://www.votetucson.org/the-ledger/"
+},
+{
+"text": "The Platform",
+"href": "https://www.votetucson.org/the-platform/"
+},
+{
+"text": "Twitch",
+"href": "https://dashboard.twitch.tv/u/votedorland/home"
+},
+{
+"text": "USTR.gov",
+"href": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review"
+},
+{
+"text": "Why Me?",
+"href": "https://www.votetucson.org/why-you-might-pick-me/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@VoteDorland"
+},
+{
+"text": "[image: Vote Dorland campaign logo. A cartoon penguin wearing an Arizona state flag on its chest, standing in front of the United States Capitol dome and a saguaro cactus, against a United States flag background]",
+"href": "https://www.votetucson.org"
+},
+{
+"text": "floridaphoenix.com",
+"href": "https://floridaphoenix.com/2025/07/05/florida-lawmakers-cheer-end-of-u-s-mexico-agreement-on-tomato-imports-but-will-it-raise-prices/"
+},
+{
+"text": "growingproduce.com",
+"href": "https://www.growingproduce.com/vegetables/tomatoes/tomato-suspension-agreement-is-officially-over-what-now/"
+},
+{
+"text": "thepacker.com",
+"href": "https://www.thepacker.com/news/industry/will-termination-tomato-suspension-agreement-lead-eggs-moment-tomatoes"
+},
+{
+"text": "whitecase.com",
+"href": "https://www.whitecase.com/insight-alert/usmca-2026-joint-review-united-states-declines-extend-agreement-triggering-annual"
+},
+{
+"text": "← Back to The Platform",
+"href": "https://www.votetucson.org/the-platform/"
+}
 ]

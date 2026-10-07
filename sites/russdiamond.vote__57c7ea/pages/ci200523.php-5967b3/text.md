@@ -1,5 +1,4 @@
-May 23, 2020
-Pennsylvania is a diverse and complex state.
+Home Donate Blog News About Connect Color My World May 23, 2020 Pennsylvania is a diverse and complex state.
 From the vineyards of the Erie shoreline to the skyscrapers of Philadelphia, from the beauty of the Poconos to the three rivers of Pittsburgh, our Commonwealth has it all.
 Farms, factories, lakes, mountains, suburban shopping, bustling urban streets, culture, coal mines, heritage, and religious diversity.
 You can also find just about everything in between in the Keystone State, along with the communities, cultures, and traditions which have been built around them.
@@ -11,7 +10,7 @@ By using the three basic colors of a traffic light in the lifting of his ham-fis
 His "life-sustaining/non-life-sustaining" business classifications ignored the complexity of supply chains.
 His "waiver system" presumed a handful of Department of Community & Economic Development staffers could issue waivers in a rational and uniform manner.
 His policy on a topic as simple as masks requires citizens to hunt down information from three different websites, only to be left even more perplexed than when they began.
-And his refusal to heed a clear warning on nursing homes a week before he declared his disaster emergency has rendered such facilities in Pennsylvania into death traps for the most vulnerable.
+And his refusal to heed a clear warning on nursing homes a week before he declared his disaster emergency has rendered such facilities in Pennsylvania into death traps for the most vulnerable .
 Just as the Commonwealth has 67 distinctly different counties, crayons are available in 64-count boxes.
 Contemplating the difference between using 64 different crayons and playing around with just three requires not only thought, but an understanding of how subtle differences of shade applied in different places will color the final results.
 Wolf could have easily had a 253-member blue ribbon panel of community experts to help him negotiate the exit strategy.
@@ -28,4 +27,5 @@ Pennsylvania doesn't need a "new normal" and we don't need a box of crayons (whi
 No set of 67, 64, or especially three crayons would ever be useful in appropriately addressing the needs of the Commonwealth's immensely diverse and complex population and set of industries.
 Instead, we really only need one color to serve all our needs.
 That color is the golden hue of a weathered parchment which has withstood the test of time – our Constitution – within which we've declared, and which forever guarantees, our God-given rights to enjoy our lives, pursue our happiness, to enter into contracts, to work to feed our families, to freely assemble, to worship, celebrate and petition our government, and to protect all other things sacred to us as free men and women.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

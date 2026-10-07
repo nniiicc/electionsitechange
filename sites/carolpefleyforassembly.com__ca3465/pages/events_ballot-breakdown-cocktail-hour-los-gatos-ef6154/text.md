@@ -1,15 +1,13 @@
-Back to All Events
-Enjoy cocktails, appetizers, and conversation as Carol Pefley walks through the pros and cons of California’s 14 ballot propositions in plain language, without the jargon or political spin.
+Skip to Content Open Menu Close Menu Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Open Menu Close Menu Folder: Meet Carol Back About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Folder: Get Involved Back Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Folder: Housing Mandates Back The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Folder: Vote 2026 Back Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Folder: Podcasts Back California Screamin Carol Pefley for Assembly Patriot Store Donate Back to All Events Ballot Breakdown Cocktail Hour Friday, October 2, 2026 5:00 PM 7:30 PM Out of the Envelope 130 North Santa Cruz Avenue Los Gatos, California, 95030 United States (map) Google Calendar ICS Click to download flyer Enjoy cocktails, appetizers, and conversation as Carol Pefley walks through the pros and cons of California’s 14 ballot propositions in plain language, without the jargon or political spin.
 This is an opportunity to ask questions, hear a common-sense perspective, and leave feeling informed and confident about the choices facing California voters.
 Bring a friend, neighbor, or anyone who wants a better understanding of the ballot before Election Day.
 Free event.
 Cocktails and appetizers will be served.
-RSVP HERE
-Previous
-Previous
-September 30
-California Governor Debate Watch Party: Steve Hilton vs.
-Javier Becerra
-Next
-Next
-October 3
+RSVP HERE Previous Previous September 30 California Governor Debate Watch Party: Steve Hilton vs.
+Javier Becerra Next Next October 3 BBQ, Beer, & Ballots Help Carol Pefley Win Donate Today Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Email List Join our email list to stay connected with campaign updates and local news.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
+All Rights Reserved. | site design by Conservative Toolbox

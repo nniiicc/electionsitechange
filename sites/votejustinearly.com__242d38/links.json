@@ -1,24 +1,130 @@
 [
-"https://bluevoterguide.org/state/texas",
-"https://bsky.app/profile/votejustinearly.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/votejustinearly",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://instagram.com/votejustinearly",
-"https://secure.actblue.com/donate/31-20watchparty",
-"https://secure.actblue.com/donate/votejewebsite",
-"https://sos.state.tx.us/elections/voter/reqabbm.shtml",
-"https://store.votejustinearly.com/",
-"https://tiktok.com/@votejustinearly",
-"https://votejustinearly.com/",
-"https://votejustinearly.com/about",
-"https://votejustinearly.com/endorsements",
-"https://votejustinearly.com/issues",
-"https://votejustinearly.com/media-kit",
-"https://votejustinearly.com/news",
-"https://votejustinearly.com/privacy-policy",
-"https://votejustinearly.com/volunteer-slug-2",
-"https://votejustinearly.com/voter-information",
-"https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN",
-"https://youtube.com/@VoteJustinEarly"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Check who's on your ballot & ballot issues",
+"href": "https://bluevoterguide.org/state/texas"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejustinearly.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.votejustinearly.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.votejustinearly.com/issues"
+},
+{
+"text": "Media Kit",
+"href": "https://www.votejustinearly.com/media-kit"
+},
+{
+"text": "Meet Justin",
+"href": "https://www.votejustinearly.com/about"
+},
+{
+"text": "News",
+"href": "https://www.votejustinearly.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.sos.state.tx.us/elections/voter/reqabbm.shtml"
+},
+{
+"text": "Swagger Now",
+"href": "https://store.votejustinearly.com/"
+},
+{
+"text": "Swagshop",
+"href": "https://store.votejustinearly.com/"
+},
+{
+"text": "Terms & Privacy policy",
+"href": "https://www.votejustinearly.com/privacy-policy"
+},
+{
+"text": "VIEW ACTION PLAN",
+"href": "https://www.votejustinearly.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejustinearly.com/volunteer-slug-2"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votejustinearly.com/voter-information"
+},
+{
+"text": "[image: Justin Early for Congress logo]",
+"href": "https://www.votejustinearly.com/"
+},
+{
+"text": "[image: Justin Early for Congress]",
+"href": "https://www.votejustinearly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votejustinearly.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VoteJustinEarly"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/31-20watchparty"
+}
 ]

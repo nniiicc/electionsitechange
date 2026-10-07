@@ -1,18 +1,106 @@
 [
-"http://facebook.com/kimkeiserman",
-"https://bsky.app/profile/kimkeiserman.bsky.social",
-"https://facebook.com/kimkeiserman",
-"https://instagram.com/kimkeiserman",
-"https://kimkeiserman.com/",
-"https://kimkeiserman.com/endorsements",
-"https://kimkeiserman.com/get-involved",
-"https://kimkeiserman.com/kimontheissues",
-"https://kimkeiserman.com/kimterns",
-"https://kimkeiserman.com/matching-funds-program",
-"https://kimkeiserman.com/media",
-"https://kimkeiserman.com/meet-kim",
-"https://kimkeiserman.com/privacy",
-"https://kimkeiserman.com/voter-resources",
-"https://secure.actblue.com/donate/kim-keiserman-1",
-"https://twitter.com/kimkeiserman"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "CHIP IN!",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kim-keiserman-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kimkeiserman.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kimkeiserman.com/get-involved"
+},
+{
+"text": "Kim on the Issues",
+"href": "https://www.kimkeiserman.com/kimontheissues"
+},
+{
+"text": "Matching Funds Program",
+"href": "https://www.kimkeiserman.com/matching-funds-program"
+},
+{
+"text": "Media",
+"href": "https://www.kimkeiserman.com/media"
+},
+{
+"text": "Meet Kim",
+"href": "https://www.kimkeiserman.com/meet-kim"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.kimkeiserman.com/privacy"
+},
+{
+"text": "The Kimterns",
+"href": "https://www.kimkeiserman.com/kimterns"
+},
+{
+"text": "Up",
+"href": "https://www.kimkeiserman.com/matching-funds-program"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kimkeiserman.com/voter-resources"
+},
+{
+"text": "[image: BlueskyCiricle]",
+"href": "https://bsky.app/profile/kimkeiserman.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/kimkeiserman"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kimkeiserman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kimkeiserman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kimkeiserman/"
+},
+{
+"text": "[image: KKEI-2025-LOGO_FINAL_R1_cmyk_light.png]",
+"href": "https://www.kimkeiserman.com/matching-funds-program"
+},
+{
+"text": "[image: KKEI-2025-LOGO_FINAL_R1_cmyk_primary.png]",
+"href": "https://www.kimkeiserman.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/kimkeiserman"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/kimkeiserman"
+},
+{
+"text": "[image: bluesky-BLack]",
+"href": "https://bsky.app/profile/kimkeiserman.bsky.social"
+}
 ]

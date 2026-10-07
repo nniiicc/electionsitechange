@@ -1,16 +1,66 @@
 [
-"http://facebook.com/judgebensmith",
-"http://linkedin.com/in/judgebensmith",
-"https://judgebensmith.com/",
-"https://judgebensmith.com/attorneys",
-"https://judgebensmith.com/contact",
-"https://judgebensmith.com/donate",
-"https://judgebensmith.com/events",
-"https://judgebensmith.com/in-his-own-words",
-"https://judgebensmith.com/news-and-resources",
-"https://judgebensmith.com/news-and-resources/hashtags/LawEnforcement",
-"https://judgebensmith.com/post/law-enforcement-associations-endorse-judge-ben-smith-for-fifth-court-of-appeals",
-"https://judgebensmith.com/practice-areas",
-"https://judgebensmith.com/social",
-"https://judgebensmith.com/voices-of-support"
+{
+"text": "ABOUT",
+"href": "https://www.judgebensmith.com/practice-areas"
+},
+{
+"text": "All Posts",
+"href": "https://www.judgebensmith.com/news-and-resources"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.judgebensmith.com/news-and-resources/hashtags/LawEnforcement"
+},
+{
+"text": "CONTACT",
+"href": "https://www.judgebensmith.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.judgebensmith.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.judgebensmith.com/attorneys"
+},
+{
+"text": "EVENTS",
+"href": "https://www.judgebensmith.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.judgebensmith.com"
+},
+{
+"text": "IN HIS OWN WORDS",
+"href": "https://www.judgebensmith.com/in-his-own-words"
+},
+{
+"text": "Law Enforcement Associations Endorse Judge Ben Smith for Fifth Court of Appeals",
+"href": "https://www.judgebensmith.com/post/law-enforcement-associations-endorse-judge-ben-smith-for-fifth-court-of-appeals"
+},
+{
+"text": "NEWS",
+"href": "https://www.judgebensmith.com/news-and-resources"
+},
+{
+"text": "SOCIAL",
+"href": "https://www.judgebensmith.com/social"
+},
+{
+"text": "VOICES OF SUPPORT",
+"href": "https://www.judgebensmith.com/voices-of-support"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/judgebensmith"
+},
+{
+"text": "[image: White LinkedIn Icon]",
+"href": "http://www.linkedin.com/in/judgebensmith"
+},
+{
+"text": "[no text]",
+"href": "https://www.judgebensmith.com/news-and-resources/hashtags/LawEnforcement"
+}
 ]

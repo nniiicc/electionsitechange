@@ -1,4 +1,4 @@
-Once again, Illinois stands at the forefront of a national crisis manufactured not by a shortage of medical need but by politics.
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate Sara Feigenholtz: Why Illinois will remain a safe haven for abortion care Home Sara Feigenholtz: Why Illinois will remain a safe haven for abortion care Sara Feigenholtz: Why Illinois will remain a safe haven for abortion care Team Sara October 9, 2025 Once again, Illinois stands at the forefront of a national crisis manufactured not by a shortage of medical need but by politics.
 As federal defunding efforts force Planned Parenthood of Wisconsin to pause abortion services, patients are left scrambling for basic and essential care.
 Illinois providers are preparing, yet again, to absorb the impact and are stepping up to serve a growing number of people denied care in their own communities.
 After the Supreme Court’s Dobbs decision in 2022 gutted Roe v.
@@ -32,4 +32,5 @@ Congress must act to repeal the Defund Provision.
 And in the meantime, we will continue to do what Illinois has always done in moments of crisis: rise to the occasion and lead with our shared humanity.
 And to the Wisconsin patients that are being turned away: Please know that Illinois is here for you, and we will not let you down.
 Sara Feigenholtz is a state senator representing the North Side.
-Read more: https://www.chicagobusiness.com/opinion/abortion-will-continue-be-legal-illinois-feigenholtz-op-ed
+Read more: https://www.chicagobusiness.com/opinion/abortion-will-continue-be-legal-illinois-feigenholtz-op-ed Latest News Oops, category not found.
+Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

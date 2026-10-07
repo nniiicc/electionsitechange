@@ -1,7 +1,11 @@
 {
  "description": "Join Team Michelle! Join Team Michelle * indicates required First Name *Last Name *Email Address *Cell Phone Address City State ZIP Get Involved I want to donate.________ I want to volunteer.________ I want to receive email updates.________ I want to host a fundraiser.",
  "final_url": "https://michelleforassembly.com/join-team-michelle/",
- "paid_for_by": "Paid for by Michelle Rodriguez for Assembly 2026 \u2022 FPPC ID 1477034 \u2022 2063 Rancho Valley Dr",
+ "fingerprint": "66f7317d7f8d5e6398828fe4fd7c3ef769aedeaf",
+ "format": 3,
+ "paid_for_by": "Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr",
  "title": "Join Team Michelle! - Michelle for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

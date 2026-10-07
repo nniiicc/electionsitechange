@@ -1,5 +1,4 @@
-This Race Beyond Convention
-This race does not end at convention.
+0 Skip to Content Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate Open Menu Close Menu Home About Issues & Priorities Record & Results Endorsements Voter Info Updates Contact Donate This Race Beyond Convention Apr 22 Written By S This race does not end at convention.
 House District 59 includes all of Wasatch County, Park City proper, and surrounding precincts.
 This is not a safe seat, especially with no incumbent and it being a potential wave year.
 The last time I saw the Democrats this organized and energized was in 2018, when medical marijuana was on the ballot and it was a wave election year.
@@ -20,5 +19,4 @@ We need turnout in Wasatch County and we need to stay competitive in Park City.
 When I ask for your vote on Saturday, I am also asking for your help and support to win in November.
 If I am your nominee, I will fight hard, and with your help we will keep this seat red.
 I ask you to choose the proven conservative that is known in our community and ready to fight and win this race.
-All the best,
-Luke Searle
+All the best, Luke Searle S Previous Previous Letter from Council Chair Erik Rowland Next Next My Record and Conservative Experience Site Navigation Home About Issues & Priorities Record & Results Contact Donate Connect Copyright # Paid for by Friends of Luke Searle

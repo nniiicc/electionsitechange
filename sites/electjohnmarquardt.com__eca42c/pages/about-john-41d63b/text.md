@@ -1,4 +1,4 @@
-As someone who strongly believes in economic opportunity for all, I am dedicated to ensuring that every individual in District 18 has the chance to thrive.
+Skip to content Follow John Marquardt FACEBOOK JOHN MARQUARDT For District 18 State House Home About John Testimonials Media Donate As someone who strongly believes in economic opportunity for all, I am dedicated to ensuring that every individual in District 18 has the chance to thrive.
 Born and raised in rural farm country South Dakota, I learned at a young age about customer service and hard work in a small country general store.
 As the 11th child of a family of 12, I understand the values of humility, resilience, and community.
 My early education in a one-room country schoolhouse instilled in me a deep appreciation for the importance of education and community connection, which I carried with me as I finished my schooling at Emery Elementary and High School.
@@ -15,3 +15,4 @@ As a conservative, I am steadfast in my commitment to maintaining reasonable tax
 Furthermore, I hold firm to family values, support the Second Amendment, and advocate for pro-life policies that reflect our community’s core principles.
 Together, let’s keep District 18 strong and uphold the values that make our community great.
 I am asking for your support and vote in the Republican Primary on June 2, 2026!
+Paid for by Friends of John Marquardt campaign Scroll to Top

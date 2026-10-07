@@ -1,10 +1,1 @@
-The Hamlet of Beavercreek
-Time
-Tuesday, Sep 1, 2026
-5:30 PM – 8:00 PM
-Location
-Beavercreek Community Park
-About this event
-National Night Out
-Location
-Beavercreek Community Park
+Home Meet Darla Priorities Endorsements Volunteer Events Contribute Events / The Hamlet of Beavercreek The Hamlet of Beavercreek Time Tuesday, Sep 1, 2026 5:30 PM – 8:00 PM Location Beavercreek Community Park About this event National Night Out Location Beavercreek Community Park Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

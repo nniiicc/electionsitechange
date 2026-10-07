@@ -1,12 +1,62 @@
 [
-"https://ballotpedia.org/Grace_Marrero",
-"https://licgop.com/about.html",
-"https://licgop.com/calendar.html",
-"https://licgop.com/campaignmaterials/campaignbizcard.pdf",
-"https://licgop.com/campaignmaterials/yardsign.pdf",
-"https://licgop.com/donate.html",
-"https://licgop.com/index2.html",
-"https://licgop.com/platform.html",
-"https://licgop.com/volunteer.html",
-"https://licgop.substack.com/"
+{
+"text": "About",
+"href": "https://licgop.com/about.html"
+},
+{
+"text": "Campaign business card",
+"href": "https://licgop.com/campaignmaterials/campaignbizcard.pdf"
+},
+{
+"text": "Don't donate money?",
+"href": "https://licgop.com/donate.html"
+},
+{
+"text": "Edward Lee Republican for NYSAssembly District 36",
+"href": "https://licgop.com/index2.html"
+},
+{
+"text": "Event Calendar",
+"href": "https://licgop.com/calendar.html"
+},
+{
+"text": "Grace Marerro",
+"href": "https://ballotpedia.org/Grace_Marrero"
+},
+{
+"text": "Issues/ Platform",
+"href": "https://licgop.com/platform.html"
+},
+{
+"text": "Newsletter",
+"href": "https://licgop.substack.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://licgop.com/volunteer.html"
+},
+{
+"text": "Yard Sign",
+"href": "https://licgop.com/campaignmaterials/yardsign.pdf"
+},
+{
+"text": "[image: Yard Sign]",
+"href": "https://licgop.com/campaignmaterials/yardsign.pdf"
+},
+{
+"text": "[image: business card side 2]",
+"href": "https://licgop.com/campaignmaterials/campaignbizcard.pdf"
+},
+{
+"text": "[image: business card side1]",
+"href": "https://licgop.com/campaignmaterials/campaignbizcard.pdf"
+},
+{
+"text": "[image: djelf7 logo]",
+"href": "https://licgop.com/index2.html"
+},
+{
+"text": "event calendar.",
+"href": "https://licgop.com/calendar.html"
+}
 ]

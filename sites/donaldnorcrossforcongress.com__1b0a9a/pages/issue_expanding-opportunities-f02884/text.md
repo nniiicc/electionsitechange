@@ -1,4 +1,4 @@
-Students deserve an education that prepares them for a rewarding career and doesn’t leave them mired in debt.
+Press enter to search Home Meet Donald Our District Issues Volunteer News Vote Donate Contact Donate Meet Donald Our District Issues Volunteer News Vote Share On The Issues Expanding Education Opportunities Students deserve an education that prepares them for a rewarding career and doesn’t leave them mired in debt.
 Our focus as a society must be to provide a world-class education for all, and to ensure affordable, accessible higher educational opportunities so that our best, brightest, and most industrious students can start building their adult lives without being mired in debt.
 First and foremost that means fully supporting our public school system and all those that devote their lives to educating our children.
 I fully support making child care more affordable and expanding Pre-K, and I’ve led the fight to improve school facilities in New Jersey.
@@ -8,3 +8,6 @@ We have made great strides in boosting higher education in South Jersey and maki
 I led the charge to strengthen our state’s higher education system and increase opportunities and resources for students at Rutgers-Camden and Rowan Universities, paving the way for a medical sciences research hub in our backyard.
 Likewise, I worked closely with our local county colleges to forge partnerships that make the transition to our universities easier and more affordable.
 Now, I’m focused on expanding opportunities for students interested in attending our vocational, technical, and apprenticeship training schools so they can become valued members of our region’s workforce.
+Next Issue Growing Jobs Meet Donald Our District Issues Volunteer News Vote Privacy Policy Contact us ©# Donald Norcross for Congress.
+All rights reserved.
+Paid for by Norcross for Congress Donate Join our campaign

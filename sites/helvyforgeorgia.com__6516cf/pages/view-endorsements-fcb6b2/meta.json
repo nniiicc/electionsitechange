@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.helvyforgeorgia.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "2d0b88c13a7b8cc4bef7c4d38dbe70a73f86d773",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

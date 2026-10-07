@@ -1,11 +1,38 @@
 [
-"https://enr-scvotes.org/SC/Richland/122476/web.345435",
-"https://robinsforschouse75.com/",
-"https://robinsforschouse75.com/privacy-policy",
-"https://robinsforschouse75.com/volunteer",
-"https://scvotes.gov/voters/absentee-voting",
-"https://scvotes.gov/voters/register-to-vote",
-"https://scvotes.gov/voters/update-your-voter-registration-information",
-"https://secure.anedot.com/robins-for-sc-house-75/donate",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+{
+"text": "ABSENTEE VOTING",
+"href": "https://scvotes.gov/voters/absentee-voting/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/robins-for-sc-house-75/donate"
+},
+{
+"text": "Privacy Policy • Terms and Conditions",
+"href": "https://www.robinsforschouse75.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.robinsforschouse75.com/volunteer"
+},
+{
+"text": "SC HOUSE 75 PRECINT INFO",
+"href": "https://www.enr-scvotes.org/SC/Richland/122476/web.345435/#/detail/0021?v=354034%2F"
+},
+{
+"text": "UPDATE VOTER REGISTRATION",
+"href": "https://scvotes.gov/voters/update-your-voter-registration-information/"
+},
+{
+"text": "WHERE DO I VOTE?",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+},
+{
+"text": "[image: Logo web4 trans1 (1).png]",
+"href": "https://www.robinsforschouse75.com"
+}
 ]

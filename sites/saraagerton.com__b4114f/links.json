@@ -1,22 +1,134 @@
 [
-"https://abc27.com/election/jeff-clark-declares-victory-in-razor-thin-state-house-primary",
-"https://andymuth.com/",
-"https://censusreporter.org/profiles/62000US42088-state-house-district-88-pa",
-"https://cumberlandcountypa.gov/DocumentCenter/View/52457/Unofficial-Summary-Report",
-"https://facebook.com/SaraAgertonPA",
-"https://fox43.com/article/news/politics/elections/jeffery-clark-republican-candidate-for-pa-houses-88th-district/521-7ad28fbf-a427-42db-b597-e17ac91f7d03",
-"https://gopccpa.org/candidates",
-"https://instagram.com/SaraAgertonPA",
-"https://mobilize.us/saraagerton",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/pages/pollingplaceinfo.aspx",
-"https://pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
-"https://saraagerton.com/",
-"https://saraagerton.com/cart",
-"https://secure.actblue.com/donate/agerton88",
-"https://secure.actblue.com/donate/agerton88?amount=10",
-"https://secure.actblue.com/donate/agerton88?amount=100",
-"https://secure.actblue.com/donate/agerton88?amount=25",
-"https://secure.actblue.com/donate/agerton88?amount=50",
-"https://votejeffclark.org/"
+{
+"text": "$# Door Hangers",
+"href": "https://secure.actblue.com/donate/agerton88?amount=25"
+},
+{
+"text": "$# Event Host",
+"href": "https://secure.actblue.com/donate/agerton88?amount=100"
+},
+{
+"text": "$# Most Popular",
+"href": "https://secure.actblue.com/donate/agerton88?amount=50"
+},
+{
+"text": "$# Yard Sign",
+"href": "https://secure.actblue.com/donate/agerton88?amount=10"
+},
+{
+"text": "0",
+"href": "https://www.saraagerton.com/cart"
+},
+{
+"text": "Attend Events",
+"href": "https://www.mobilize.us/saraagerton/"
+},
+{
+"text": "Check Your Registration",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Contact Campaign",
+"href": "mailto:friendsofsaraagerton@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/agerton88?amount=50"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/agerton88?amount=50"
+},
+{
+"text": "Email",
+"href": "mailto:"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/saraagerton/"
+},
+{
+"text": "Find Events & Volunteer Shifts",
+"href": "https://www.mobilize.us/saraagerton/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.saraagerton.com/"
+},
+{
+"text": "Look up your polling place",
+"href": "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx"
+},
+{
+"text": "Other Custom Amount",
+"href": "https://secure.actblue.com/donate/agerton88"
+},
+{
+"text": "Privacy Policy",
+"href": "javascript:void(0)"
+},
+{
+"text": "Request a Mail Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/"
+},
+{
+"text": "Sara Agerton for State Representative",
+"href": "https://www.saraagerton.com/"
+},
+{
+"text": "Text",
+"href": "sms:?body="
+},
+{
+"text": "View All Events on Mobilize",
+"href": "https://www.mobilize.us/saraagerton/"
+},
+{
+"text": "View the full district profile",
+"href": "https://censusreporter.org/profiles/62000US42088-state-house-district-88-pa/"
+},
+{
+"text": "[image: andy muth.]",
+"href": "https://andymuth.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraAgertonPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/SaraAgertonPA"
+},
+{
+"text": "abc27.com",
+"href": "https://www.abc27.com/election/jeff-clark-declares-victory-in-razor-thin-state-house-primary/"
+},
+{
+"text": "cumberlandcountypa.gov",
+"href": "https://www.cumberlandcountypa.gov/DocumentCenter/View/52457/Unofficial-Summary-Report"
+},
+{
+"text": "fox43.com",
+"href": "https://www.fox43.com/article/news/politics/elections/jeffery-clark-republican-candidate-for-pa-houses-88th-district/521-7ad28fbf-a427-42db-b597-e17ac91f7d03"
+},
+{
+"text": "friendsofsaraagerton@gmail.com",
+"href": "mailto:friendsofsaraagerton@gmail.com"
+},
+{
+"text": "gopccpa.org/candidates",
+"href": "https://gopccpa.org/candidates/"
+},
+{
+"text": "vote.pa.gov",
+"href": "https://www.vote.pa.gov/"
+},
+{
+"text": "votejeffclark.org",
+"href": "https://votejeffclark.org/"
+}
 ]

@@ -1,15 +1,10 @@
-An Evening of Constitutional Education & Community Support – Join Us April 25
-The community is invited to attend a special evening of constitutional education and fellowship on April 25 at 8:00 PM, hosted by Theresa Manzella and the JBS.
+top of page KIM DAILEY * HOUSE DISTRICT 85 * REPUBLICAN HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT DONATE ENDORSED BY: Endorsed by: Montanans for Limited Government, Montana Conservative Alliance, Montana Freedom Caucus PAC, and the Americans for Prosperity- Montana All Posts In the News Campaign Updates On the Issues Voter Resources Endorsements Legislative Insights Events An Evening of Constitutional Education & Community Support – Join Us April 25 Editor Apr 8 1 min read The community is invited to attend a special evening of constitutional education and fellowship on April 25 at 8:00 PM, hosted by Theresa Manzella and the JBS.
 This event will bring together local leaders and candidates committed to upholding constitutional values and serving Montana communities.
 It’s an opportunity to learn, connect, and support conservative voices shaping the future of our region.
 Featured speaker Robert Brown will present on the Article V Convention, offering insight into one of the most important constitutional discussions happening today.
 The evening will also highlight local candidates, including Kim Dailey, who is running to serve with integrity, experience, and a strong commitment to the people of Montana.
-Attendees can expect:
-- Meaningful conversation around constitutional principles
-- Opportunities to meet and support local candidates
-- Great food and strong community fellowship
-The event will be held at:640 Gold Creek Loop, Hamilton, Montana
-A suggested donation of $25 is requested.
+Attendees can expect: Meaningful conversation around constitutional principles Opportunities to meet and support local candidates Great food and strong community fellowship The event will be held at:640 Gold Creek Loop, Hamilton, Montana A suggested donation of $# is requested.
 Seating is limited, and advance ticket purchase is required.
-Tickets can be purchased via Venmo:https://venmo.com/u/Theresa-Manzella-1
-This is a great opportunity to come together as a community, support leaders like Kim Dailey, and engage in important conversations about the future of Montana.
+Tickets can be purchased via Venmo: https://venmo.com/u/Theresa-Manzella-1 This is a great opportunity to come together as a community, support leaders like Kim Dailey, and engage in important conversations about the future of Montana.
+Tags: Kim Dailey Ravalli County Montana events Hamilton Montana Theresa Manzella Montana Republican Local politics Montana Community events Montana Conservative candidates Constitutional education Campaign Updates Events Recent Posts See All Kim Dailey Receives A+ Endorsement from Montana Conservative Alliance Join Us for a Community Meet & Greet – May 2 in Hamilton Join Us for the Lincoln-Reagan Dinner Join Team Kim: Stay Informed, Stay Involved Email * Name Last name Phone Zip Code Submit Paid for by: Kim Dailey Campaign, P.O.
+Box 193, Florence MT 59833 DONATE HOME MEET KIM ON THE ISSUES EVENTS UPDATES GET INVOLVED CONTACT MEDIA KIT bottom of page

@@ -1,24 +1,5 @@
-top of page
-Endorsements
-Endorsements don’t define my values, they reveal who recognizes them.
-I’m grateful to have earned the support of Citizens for Traditional Values, Farm Bureau’s AgriPac, Right to Life of Michigan, the Commercial Alliance of Realtors, the Michigan Retail Association, and the Michigan Coalition for Responsible Gun Owners.
+top of page Home Meet Brandon Events Endorsements Donate Endorsements Endorsements don’t define my values, they reveal who recognizes them. ​ I’m grateful to have earned the support of Citizens for Traditional Values, Farm Bureau’s AgriPac, Right to Life of Michigan, the Commercial Alliance of Realtors, the Michigan Retail Association, and the Michigan Coalition for Responsible Gun Owners.
 To me, these endorsements are not about special interests, they are about respected organizations recognizing a consistent record of standing for faith, family, life, agriculture, property rights, local businesses, constitutional freedoms, and common-sense conservative leadership.
-PAC Endorsements
-Gradings/Surveys
-Personal Endorsements
-State Officials
-County and Local Officials
-State Representative Jennifer Wortz - District 35
-State Representative Luke Meerman - District 34
-State Representative Nancy Jenkins - District 89
-Bob Teunessen - Barry County Commissioner District 1
-Catherine Getty - Barry County Commissioner District 2
-David Jackson - Barry County Commissioner District 3 (Commission Chair)
-Jon Smelker - Barry County Commissioner District 4
-Marsha Bassett - Barry County Commissioner District 6
-Bruce Campbell - Barry County Commissioner District 7
-David Hatfield - Barry County Commissioner District 8 (Vice Chair)
-Roy Morris - Village Council of Sunfield President
-David J.
-Olson - Hastings Charter Township Clerk
-bottom of page
+PAC Endorsements Gradings/Surveys Personal Endorsements State Officials County and Local Officials State Representative Jennifer Wortz - District 35 State Representative Luke Meerman - District 34 State Representative Nancy Jenkins - District 89 Bob Teunessen - Barry County Commissioner District 1 Catherine Getty - Barry County Commissioner District 2 David Jackson - Barry County Commissioner District 3 (Commission Chair) Jon Smelker - Barry County Commissioner District 4 Marsha Bassett - Barry County Commissioner District 6 Bruce Campbell - Barry County Commissioner District 7 David Hatfield - Barry County Commissioner District 8 (Vice Chair) Roy Morris - Village Council of Sunfield President David J.
+Olson - Hastings Charter Township Clerk Aq Grade brandon@brandonformichigan.com © # Paid for by Brandon Strong CTE, 1808 E.
+M79 Hwy., Hastings, MI 49058 Accessibility Join Brandon's Team First name * Last name Email * Phone Message Submit bottom of page

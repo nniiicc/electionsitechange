@@ -1,7 +1,4 @@
-Steve Patten for Maryland State Delegate
-Meet Steve Patten
-This Is Why I'm Running for Delegate
-“I’ve called Hampstead home since 1998.
+DONATE SURVEY Home About Steve's Beliefs Endorsements Volunteer Contact Steve Patten for Maryland State Delegate Meet Steve Patten This Is Why I'm Running for Delegate “I’ve called Hampstead home since 1998.
 I moved to Carroll County because of the great public school system.
 My wife Shannon and I have raised four wonderful children … all of whom have graduated from, or are currently in, the Carroll County Public School System.
 I’m a proud small business owner with over 30 years of experience running Beverage Journal, Inc., right here in Carroll County.
@@ -12,4 +9,5 @@ Our community needs a Delegate who will defend the rights of families, protect o
 I stand firmly against the Maryland Piedmont Reliability Project and am committed to safeguarding our agricultural heritage and local autonomy.
 I am pro-life, pro-liberty and a strong advocate for the principles that make Carroll County a great place to live and raise a family.
 I’m running for Delegate to ensure that our voices and values are heard and represented in Annapolis.
-Together, we can protect our way of life and keep Carroll County strong.”
+Together, we can protect our way of life and keep Carroll County strong.” © 2026 All rights reserved, Friends of Steve Patten.
+Authority: Friends of Steve Patten, Shannon Patten, Treasurer.

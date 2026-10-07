@@ -1,10 +1,2 @@
-BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly
-“Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.”
-READ post
-BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly
-“As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.”
-READ post
-Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly
-“Law enforcement is about integrity.
-There is no question that Mike Tannousis has the integrity to do the job and to support law enforcement.” – Ed Mullins, SBA President
-READ post
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE posts categorized in Endorsements Fri, Aug 14 2020 Endorsements BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly “Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.” READ post share Fri, Aug 14 2020 Endorsements BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly “As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.” READ post share Sun, Jun 07 2020 Endorsements Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly “Law enforcement is about integrity.
+There is no question that Mike Tannousis has the integrity to do the job and to support law enforcement.” – Ed Mullins, SBA President READ post share Posts pagination 1 2 Next page Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

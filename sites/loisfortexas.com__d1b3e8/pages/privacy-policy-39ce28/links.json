@@ -1,9 +1,34 @@
 [
-"https://facebook.com/LoisKolkhorst",
-"https://instagram.com/lois.kolkhorst",
-"https://loisfortexas.com/",
-"https://loisfortexas.com/meet-lois",
-"https://loisfortexas.com/privacy-policy",
-"https://secure.anedot.com/lwk/donate",
-"https://x.com/loiskolkhorst"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/lwk/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/LoisKolkhorst"
+},
+{
+"text": "Get Involved",
+"href": "https://loisfortexas.com/#INVOLVED"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lois.kolkhorst/"
+},
+{
+"text": "Meet The Senator",
+"href": "https://loisfortexas.com/meet-lois/"
+},
+{
+"text": "Terms & Privacy",
+"href": "https://loisfortexas.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/loiskolkhorst"
+},
+{
+"text": "[image]",
+"href": "https://loisfortexas.com/"
+}
 ]

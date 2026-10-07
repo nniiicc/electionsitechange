@@ -1,7 +1,5 @@
-About Jason
-It’s been my pleasure to get to know so many more of you while out on the campaign trail.
-Here’s a little more about me:
-I grew up in a large central Florida family raised by my mom and my grandparents, my aunts and uncles.
+0 Skip to Content About Jason Platform Agriculture Amendment 3 Data Centers Elder Care Energy Healthcare Surveillance Get Involved Volunteer Tell Your Story Campaign Calendar Printable Handout Endorsements Blog Contact DONATE Open Menu Close Menu About Jason Platform Agriculture Amendment 3 Data Centers Elder Care Energy Healthcare Surveillance Get Involved Volunteer Tell Your Story Campaign Calendar Printable Handout Endorsements Blog Contact DONATE Open Menu Close Menu About Jason Folder: Platform Back Agriculture Amendment 3 Data Centers Elder Care Energy Healthcare Surveillance Folder: Get Involved Back Volunteer Tell Your Story Campaign Calendar Printable Handout Endorsements Blog Contact DONATE About Jason It’s been my pleasure to get to know so many more of you while out on the campaign trail.
+Here’s a little more about me: I grew up in a large central Florida family raised by my mom and my grandparents, my aunts and uncles.
 We spent our weekends and summers at the lake that my grandparents lived on, swimming, fishing, playing sports, and eating great food.
 My grandma grew up in Hillsborough and Pasco counties and I loved hearing stories about the Florida of her youth.
 I started working early, first helping out in the restaurant where my mom worked and the small video store that my family opened, then working in the small deli that my mom started in Polk County.
@@ -20,13 +18,7 @@ Watson Fellowship and a student Fulbright Fellowship.
 I spent nearly two years in Asia, traveling through a dozen different countries and experiencing new cultures and environments.
 This experience was truly life-changing, and continued to stoke my interest in energy issues as a powerful nexus of economy, ecology, and equity.
 Since returning to Florida in 2008, I’ve worked closely with the Community Weatherization Coalition, an Alachua County nonprofit organization that helps our neighbors find ways to lower their utility bills and address critical home repairs.
-I’ve been involved in numerous efforts in my city and county that directly impacted the lives of working people, including:
-- fighting against wage theft
-- getting people higher wages and the right to union representation on the job
-- restoration of voting rights
-- reform and local control of our utility
-- renters’ rights, and
-- access to affordable housing and healthcare.
+I’ve been involved in numerous efforts in my city and county that directly impacted the lives of working people, including: fighting against wage theft getting people higher wages and the right to union representation on the job restoration of voting rights reform and local control of our utility renters’ rights, and access to affordable housing and healthcare.
 I’ve also been active in my union.
 I was a union electrical worker with the International Brotherhood of Electrical Workers (IBEW), Local 1205, where I worked throughout our region in gas transmission facilities, phosphate mines, power plants, paper mills, solar projects, prisons, hospitals, and a naval base, among others.
 I then transitioned to adult education, both for Santa Fe College and the IBEW apprenticeship program.
@@ -41,3 +33,14 @@ I love my amazing coworkers and the students that we support, and I’m a proud 
 When I’m not working or volunteering, I enjoy spending time with my wonderful wife, our dogs, and our family, gardening, and enjoying the nature and culture of north Florida.
 I truly love this state, even when it disappoints me.
 And like all of us, I want to have hopeful stories to tell and a beautiful place to share with all Floridians generations from now.
+Paid for by Jason Bellamy-Fults, Democrat for State Senate D-6 806 NW 33rd Ave.
+Gainesville, FL 32609 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Subscribe Thanks for contacting the Jason Bellamy-Fults for Senate District 6 campaign.
+Interested volunteers can fill out this form .
+Jason has a proven track record of community service and advocacy for working Floridians.
+We believe that his background and demonstrated civic leadership will put District 6 residents back in the driver's seat and help end the special interest domination of our state capitol.
+Together, we can create thriving, affordable Florida communities where everyone is valued.
+We want to hear from you!
+Let us know what kind of Florida you want to live in and what actions you want to see from our state leaders.
+We'll be in touch, Jason Bellamy-Fults for SD6 Donate

@@ -1,6 +1,4 @@
-Privacy Policy
-Carl Tepper for State Representative
-We respect your privacy.
+0 Skip to Content About Issues Endorsements Volunteer Stay Connected Contact CONTRIBUTE Open Menu Close Menu About Issues Endorsements Volunteer Stay Connected Contact CONTRIBUTE Open Menu Close Menu About Issues Endorsements Volunteer Stay Connected Contact CONTRIBUTE Privacy Policy Carl Tepper for State Representative We respect your privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 This includes sharing information with our program partners, message content providers, phone companies, and vendors who assist us in the delivery of mobile messages.
 Collected phone numbers will not be sold to third parties or used for affiliate marketing.
@@ -10,3 +8,10 @@ When you complete forms online or otherwise provide us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in our sole discretion, we believe that any such information is untrue, inaccurate, or incomplete, or you have opted into a Program for an ulterior purpose, we may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
+Pol.
+Adv.
+Paid for by Carl Tepper for State Representative Carl Tepper is a veteran of the U.S.
+Air Force.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Air Force or the Department of Defense.
+Privacy Policy | Terms and Conditions | Opt-In For Text Messaging Contact EmaiI PO Box 94534 Lubbock, TX 79493 Connect Facebook Twitter Donate

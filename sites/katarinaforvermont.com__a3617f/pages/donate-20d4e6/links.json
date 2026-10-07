@@ -1,12 +1,50 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.katarinaforvermont.com%2Fdonate",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.katarinaforvermont.com%2Fdonate",
-"https://katarinaforvermont.com/",
-"https://katarinaforvermont.com/about",
-"https://katarinaforvermont.com/about-3",
-"https://katarinaforvermont.com/contact",
-"https://katarinaforvermont.com/donate",
-"https://katarinaforvermont.com/events-1",
-"https://katarinaforvermont.com/get-involved",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.katarinaforvermont.com%2Fdonate"
+{
+"text": "About",
+"href": "https://www.katarinaforvermont.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.katarinaforvermont.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.katarinaforvermont.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.katarinaforvermont.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.katarinaforvermont.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.katarinaforvermont.com/events-1"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.katarinaforvermont.com%2Fdonate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.katarinaforvermont.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.katarinaforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://www.katarinaforvermont.com/donate"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.katarinaforvermont.com%2Fdonate"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.katarinaforvermont.com%2Fdonate"
+}
 ]

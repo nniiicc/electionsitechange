@@ -1,16 +1,3 @@
-NH State Primary: September 8, 2026
-NH General Election: November 3, 2026
-Sample Ballots – [TBD]
-Here are voting locations for District 2, Rockingham County.
-Deerfield Sample Ballot
-Deerfield Town Hall
-10 Church St Deerfield 03037
-7:00 AM – 7:00 PM
-Candia Sample Ballot
-Henry W Moore School
-12 Deerfield Rd Candia 03034
-6:00 AM – 7:00 PM
-Nottingham Sample Ballot
-Community Center
-139 Stage Rd Nottingham 03290
-8:00 AM – 7:00 PM
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page Voting Information 2026 NH State Primary: September 8, 2026 NH General Election: November 3, 2026 Sample Ballots – [TBD] Here are voting locations for District 2, Rockingham County.
+Deerfield Sample Ballot Deerfield Town Hall 10 Church St Deerfield 03037 7:00 AM – 7:00 PM Candia Sample Ballot Henry W Moore School 12 Deerfield Rd Candia 03034 6:00 AM – 7:00 PM Nottingham Sample Ballot Community Center 139 Stage Rd Nottingham 03290 8:00 AM – 7:00 PM SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

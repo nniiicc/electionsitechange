@@ -1,5 +1,4 @@
-Idaho Is Ready for This Woman to Be Governor
-I am a woman.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Idaho Is Ready for This Woman to Be Governor Jun 4 Written By Elle Casner I am a woman.
 As if there were any confusion about that, some folks still point it out to me, as in: Do you think Idaho is ready for a woman governor?
 Well, obviously, yes, I do think that.
 But in truth, mainly Idahoans are ready for a competent governor.
@@ -23,3 +22,4 @@ I helped lead a major organization in crisis while it was under attack from the 
 All the while, I got my kids to school, went to work, argued court cases, managed employees, and volunteered my legal expertise to help abused kids.
 I am very proud of what I bring to the office of the governor.
 And as my campaign reaches more and more people, I can tell you with certainty: Idaho is ready for this woman to be governor.
+Contribute Elle Casner Previous Previous Celebrating America's 250th Birthday Next Next Idaho Voters Are Listening TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

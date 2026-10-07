@@ -1,7 +1,9 @@
 {
  "description": "Apply for Kent Roberson scholarships. Check scholarship eligibility and submit your scholarship applications before the deadline!",
  "final_url": "https://kentroberson.org/scholarships",
- "paid_for_by": null,
+ "fingerprint": "ba389575fb6cca0383beebc551842ebc1e04ef7b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Scholarships",
  "years_mentioned": [
   "2026"

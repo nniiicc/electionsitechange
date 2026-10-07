@@ -1,7 +1,5 @@
-The Livable Streets Coalition Meeting was held on Saturday, August 19th.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate Category: Events For posting to the Events callouts on the homepage Livable Streets Coalition Meeting – 19 August 2023 The Livable Streets Coalition Meeting was held on Saturday, August 19th.
 Attendees included a total of 21 Coalition members, representing 6 neighborhoods (Highlandtown, McElderry Park, Library Square, Butchers Hill, C.A.R.E.
 Community and the Patterson Park Neighborhood).
 Representatives from the American Association of Retired Persons (AARP) and the Patterson Park Audubon Center were also present.
-Participants… Continue reading Livable Streets Coalition Meeting – 19 August 2023
-Category: Events
-For posting to the Events callouts on the homepage
+Participants… Continue reading Livable Streets Coalition Meeting – 19 August 2023 Published August 24, 2023 Categorized as Events , News , Transportation Tagged Livable Streets @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

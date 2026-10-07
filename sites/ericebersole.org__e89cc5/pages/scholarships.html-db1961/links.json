@@ -1,18 +1,82 @@
 [
-"http://ericebersole.org/district-44a.html",
-"http://mdelect.net/",
-"https://ericebersole.org/",
-"https://ericebersole.org/cdn-cgi/l/email-protection",
-"https://ericebersole.org/contact.html",
-"https://ericebersole.org/district-44a.html",
-"https://ericebersole.org/donate.html",
-"https://ericebersole.org/events.html",
-"https://ericebersole.org/meet-eric.html",
-"https://ericebersole.org/newsletters.html",
-"https://ericebersole.org/scholarships.html",
-"https://ericebersole.org/uploads/3/7/7/1/37714349/scholarship_application_form__2026_2027_.doc",
-"https://ericebersole.org/volunteer.html",
-"https://facebook.com/ElectEricEbersole",
-"https://instagram.com/eric.ebersole.for.maryland",
-"https://twitter.com/ericebersole"
+{
+"text": "Contact",
+"href": "https://www.ericebersole.org/contact.html"
+},
+{
+"text": "District 44A",
+"href": "https://www.ericebersole.org/district-44a.html"
+},
+{
+"text": "Donate",
+"href": "https://www.ericebersole.org/donate.html"
+},
+{
+"text": "Download File",
+"href": "https://www.ericebersole.org/uploads/3/7/7/1/37714349/scholarship_application_form__2026_2027_.doc"
+},
+{
+"text": "Eric Ebersole",
+"href": "https://www.ericebersole.org/"
+},
+{
+"text": "Events",
+"href": "https://www.ericebersole.org/events.html"
+},
+{
+"text": "Home",
+"href": "https://www.ericebersole.org/"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericebersole.org/meet-eric.html"
+},
+{
+"text": "Meet Eric/District 44A",
+"href": "http://www.ericebersole.org/district-44a.html"
+},
+{
+"text": "Newsletters",
+"href": "https://www.ericebersole.org/newsletters.html"
+},
+{
+"text": "Scholarships",
+"href": "https://www.ericebersole.org/scholarships.html"
+},
+{
+"text": "Services",
+"href": "https://www.ericebersole.org/scholarships.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericebersole.org/volunteer.html"
+},
+{
+"text": "[email protected]",
+"href": "https://www.ericebersole.org/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.ericebersole.org/uploads/3/7/7/1/37714349/scholarship_application_form__2026_2027_.doc"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ericebersole"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectEricEbersole"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eric.ebersole.for.maryland/"
+},
+{
+"text": "[no text]",
+"href": "mailto:eric.ebersole@house.state.md.us"
+},
+{
+"text": "http://mdelect.net",
+"href": "http://mdelect.net/"
+}
 ]

@@ -1,37 +1,21 @@
-Stamford Patch: CT Patch Candidate Profile: Eilish Collins Main For State Rep.
-Eilish Collins Main shares with Patch why she should be elected to serve the 146th State House District in Stamford.
-Richard Kaufman, Patch Staff
-Posted Fri, Oct 4, 2024 at 11:03 am ET
-STAMFORD, CT — Election Day on Nov. 5 is fast approaching, and there are a number of key races on the ballot in Stamford.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Stamford Patch: CT Patch Candidate Profile: Eilish Collins Main For State Rep.
+Oct 4 Written By Miles Halpine Eilish Collins Main shares with Patch why she should be elected to serve the 146th State House District in Stamford.
+Richard Kaufman, Patch Staff Posted Fri, Oct 4, 2024 at 11:03 am ET Election Day is Nov.
+5.
+(Courtesy of Katharine Calderwood.) STAMFORD, CT — Election Day on Nov.
+5 is fast approaching, and there are a number of key races on the ballot in Stamford.
 Patch reached out to candidates for office to get more information on their campaigns and the issues that are facing the city and state.
-Candidate’s Name
-Eilish Collins Main
-What office are you seeking?
-State Representative
-District
-146th State House District
-Campaign website
-What city or town do you live in?
-Stamford
-Party affiliation
-Democratic and Independent (cross-endorsed)
-Education
-B.A. in Government from Franklin & Marshall College
-Occupation
-Businesswoman in the Education Technology sector for 35+ years
-Family
-I have three children, all born and raised in Stamford.
+Candidate’s Name Eilish Collins Main What office are you seeking?
+State Representative District 146th State House District Campaign website What city or town do you live in?
+Stamford Party affiliation Democratic and Independent (cross-endorsed) Education B.A. in Government from Franklin & Marshall College Occupation Businesswoman in the Education Technology sector for 35+ years Family I have three children, all born and raised in Stamford.
 Caroline, 32 years old, working as account director at an advertising company Ryan, 29 years old, studying at Tufts Medical School Kaelin, 22 years old, studying at Duke University.
 Does anyone in your family work in politics or government?
-N/A
-Previous public office, appointive or elective
-I was appointed to serve on the City of Stamford’s Personnel Commission, where I have been serving as a member of the five-person panel since last year.
-Age
-60
-Why are you seeking this office?
+N/A Previous public office, appointive or elective I was appointed to serve on the City of Stamford’s Personnel Commission, where I have been serving as a member of the five-person panel since last year.
+Age 60 Why are you seeking this office?
 My background is a commitment to community and a passion for public service.
 So I see this as the next natural step in my efforts to give back to the city and community that has given so much to me.
-What do you believe is the No. 1 issue facing Connecticut, and how do you plan to address it?
+What do you believe is the No.
+1 issue facing Connecticut, and how do you plan to address it?
 The affordability issue is what I hear the most about from residents while speaking with them on the doors and the phone.
 Specifically, housing, for every age and every stage.
 There is no one singular solution so I would take an all-of-the-above approach to tackling the issue.
@@ -65,5 +49,7 @@ Voters can elect a longtime resident with a life of lived experiences to lean in
 If elected, I want to ensure that residents of the 146th District know that they have an ally and an advocate in me as their state representative.
 Whether a small business owner, a teacher, a police officer, a firefighter, or other profession, voters deserve someone who will stand up for what is right and maintain an open-door policy to ensure that their voices are heard loud and clear.
 That’s what I offer as a candidate in this race and that’s why I hope to earn the voters’ support as vote by November 5th.
-Get more local news delivered straight to your inbox.Sign up for free Patch newsletters and alerts.
-Related:CT Election 2024Election 2024
+Get more local news delivered straight to your inbox.
+Sign up for free Patch newsletters and alerts.
+Related: CT Election 2024 Election 2024 Miles Halpine Previous Previous Stamford Advocate op-ed: Eilish Collins Main (opinion): My pledge to the 146th Next Next Unofficial results: Stamford's Collins Main beats Michel in 146th House District Democratic primary Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

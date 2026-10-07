@@ -1,9 +1,8 @@
-CHARITY MARTIN KING
-"Planted in Community.
-Rooted in Work."
-Charity Martin King is a community leader, consultant, and strategist whose career includes over 30 years of innovative business development, workforce alignment, education, and community-centric initiatives.
+top of page Home Meet Charity Platform Join Us!
+DONATE CHARITY MARTIN KING "Planted in Community.
+Rooted in Work." Charity Martin King is a community leader, consultant, and strategist whose career includes over 30 years of innovative business development, workforce alignment, education, and community-centric initiatives.
 She is ENDORSED by the Baptist Ministerial Alliance, Working Families Party, the Matriots, the Ohio Environmental Council, the Firefighters Union, the AFL-CIO, the International Union of Operating Engineers, the Affiliated Construction Trades Ohio, AFSCME Ohio Council 8, the Ohio Education Association, Mahogany Media Group, CAIR Action Ohio, the Somali American Political Action Committee, the Central Ohio/Columbus Building Trades Council, and numerous elected officials, civic and community leaders.
-The "People's" Platform
-Charity believes that the strength of District 2 resides in its people.
+Meet CHARITY The "People's" Platform Learn More Charity believes that the strength of District 2 resides in its people.
 As a civically engaged resident with a proven track record of leadership, she understands that lasting progress comes from collaboration, respect for our history, and a commitment to building bridges across differences.
 Charity is running to deliver practical solutions that strengthen families, expand opportunity, and ensure every community member has a voice in shaping Ohio’s future.
+CMK ENDORSEMENTS Banner press to zoom CHARITY MARTIN KING for the Ohio House D-2 press to zoom Charity & Larry Williamson in Hale Hall press to zoom CMK ENDORSEMENTS Banner press to zoom 1/21 CONTACT US cmkcampaigntreasurer@gmail.com COMMITTEE TO ELECT CHARITY MARTIN KING campaign4charity@gmail.com @campaign4charity Contact Form BE THE FIRST TO KNOW Sign up to our newsletter to stay informed about the COMMITTEE TO ELECT CHARITY MARTIN KING Email * Yes, subscribe me to your newsletter. * Subscribe Now bottom of page

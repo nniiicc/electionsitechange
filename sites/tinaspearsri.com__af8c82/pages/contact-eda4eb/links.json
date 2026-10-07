@@ -1,14 +1,62 @@
 [
-"https://ballotpedia.org/Rhode_Island_House_of_Representatives_District_36",
-"https://facebook.com/TinaSpears4RI",
-"https://instagram.com/tinaspearsri",
-"https://secure.actblue.com/donate/tinaspearsforriw",
-"https://tinaspearsri.com/",
-"https://tinaspearsri.com/about",
-"https://tinaspearsri.com/contact",
-"https://tinaspearsri.com/disclaimer",
-"https://tinaspearsri.com/events-1",
-"https://tinaspearsri.com/team-4",
-"https://tinaspearsri.com/volunteer",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.tinaspearsri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tinaspearsri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tinaspearsforriw"
+},
+{
+"text": "Events",
+"href": "https://www.tinaspearsri.com/events-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.tinaspearsri.com/team-4"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.tinaspearsri.com"
+},
+{
+"text": "Tina@TinaSpearsRI.com",
+"href": "mailto:Tina@TinaSpearsRI.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tinaspearsri.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TinaSpears4RI"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tinaspearsri/"
+},
+{
+"text": "[image: Tina_F_logo_edited_edited.png]",
+"href": "https://www.tinaspearsri.com"
+},
+{
+"text": "here",
+"href": "https://www.tinaspearsri.com/disclaimer"
+},
+{
+"text": "rep-​spears@rilegislature.gov",
+"href": "mailto:rep-spears@rilegislature.gov"
+},
+{
+"text": "see map",
+"href": "https://ballotpedia.org/Rhode_Island_House_of_Representatives_District_36#District_map"
+}
 ]

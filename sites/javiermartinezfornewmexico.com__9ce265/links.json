@@ -1,11 +1,46 @@
 [
-"http://instagram.com/javierfornm",
-"https://facebook.com/javiermartinezfornewmexico",
-"https://javiermartinezfornewmexico.com/",
-"https://javiermartinezfornewmexico.com/about",
-"https://javiermartinezfornewmexico.com/aboutjavier",
-"https://javiermartinezfornewmexico.com/contact",
-"https://javiermartinezfornewmexico.com/district",
-"https://secure.actblue.com/donate/javier-martinez-1",
-"https://twitter.com/JavierForNM"
+{
+"text": "ABOUT",
+"href": "https://www.javiermartinezfornewmexico.com/about"
+},
+{
+"text": "ABOUT JAVIER",
+"href": "https://www.javiermartinezfornewmexico.com/aboutjavier"
+},
+{
+"text": "ABOUT THE DISTRICT",
+"href": "https://www.javiermartinezfornewmexico.com/district"
+},
+{
+"text": "CONTACT",
+"href": "https://www.javiermartinezfornewmexico.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/javier-martinez-1"
+},
+{
+"text": "HOME",
+"href": "https://www.javiermartinezfornewmexico.com/"
+},
+{
+"text": "[image: Javier Martínez for New Mexico]",
+"href": "https://www.javiermartinezfornewmexico.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/javierfornm"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JavierForNM"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/javiermartinezfornewmexico"
+},
+{
+"text": "[no text]",
+"href": "mailto:javierfornm@gmail.com"
+}
 ]

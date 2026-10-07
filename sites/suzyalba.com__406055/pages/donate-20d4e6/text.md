@@ -1,8 +1,14 @@
-Donate
-Campaigns run on people who believe in them.
+Skip to Main Content Meet Suzy Priorities Events Volunteer Donate Meet Suzy Priorities Events Volunteer Donate Donate Don't fill this out if you're human: First Name* Last Name* Email* Phone Employer Name* Job Title Continue to Donate Thank you!
+Your message has been sent.
+Suzy's team will be in touch soon.
+Your Support Counts Campaigns run on people who believe in them.
 A donation of any amount helps get her message to the district.
-Your Support Counts
-Contribute
-Your contribution of any amount helps Suzy reach more voters and share her vision to make our community stronger and our state more affordable.
-Get Involved
-Whether it's making calls, hosting a gathering, or displaying a yard sign, every bit of help brings us closer to Suzy winning this election for District 53.
+Contribute Help Her, Help You Your contribution of any amount helps Suzy reach more voters and share her vision to make our community stronger and our state more affordable.
+Make a Donation Get Involved This Is Our Campaign Whether it's making calls, hosting a gathering, or displaying a yard sign, every bit of help brings us closer to Suzy winning this election for District 53.
+Volunteer Now Join the Campaign Whether you can make a few phone calls to people you know or just stop in for coffee and conversation, there's a place for you on this campaign.
+Let’s talk about what matters to Smithfield and Glocester, at a local coffee shop.
+Every month I sit down with neighbors to talk about schools, affordability, and whatever's on your mind.
+Just a conversation with no agenda or pitch.
+Event Details Get Involved A Smithfield neighbor, a proven leader, ready for the State House.
+District 53, Smithfield & Glocester.
+Navigation Meet Suzy Priorities Events Contact Send an Email 401-243-5744 Get Involved Volunteer Donate Social Facebook Instagram © Friends of Suzy Alba Website Design by LaRose WebWorks

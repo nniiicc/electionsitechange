@@ -1,8 +1,26 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/lorikorzen",
-"https://lorikorzen.com/contact",
-"https://tiktok.com/@lkorzen1",
-"https://x.com/LKorzen"
+{
+"text": "Contact the Campaign",
+"href": "https://lorikorzen.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lorikorzen/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lkorzen1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LKorzen"
+}
 ]

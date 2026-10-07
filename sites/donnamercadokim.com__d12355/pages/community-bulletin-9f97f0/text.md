@@ -1,5 +1,4 @@
-Winter 2026
-Summer 2025
-Summer 2023
-Click the links below to view Senator Kim's bi-annual community bulletin.
+Home About Donna Events News Community Bulletin Photo Gallery Winter 2026 Summer 2025 Winter 2025 Summer 2023 Spring 2023 Summer 2022 Spring 2022 Click the links below to view Senator Kim's bi-annual community bulletin.
 The bulletin recaps the legislative session including major issues, highlights and accomplishments, and the community survey results from the spring community survey.
+Summer 2021 Spring 2021 Summer 2020 Spring 2020 Get Updates Thank you for signing up!
+CONTRIBUTE VOLUNTEER REGISTER TO VOTE News Legislators Push for Improved Dementia Care Training at Annual Advocacy Day Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award Senator Kim runs for re-election Where to Get Your COVID-19 Vaccination Now Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

@@ -1,56 +1,12 @@
-Alderpersons for Welch: Speaker Closes Ranks on 7th District State Central Committee Support
-House Speaker Emanuel “Chris” Welch is steadily picking up steam and uniting Illinois party leaders and elects around his bid to fill Congressman Danny Davis’ role as 7th Congressional District State Central Committeeman.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Alderpersons for Welch: Speaker Closes Ranks on 7th District State Central Committee Support House Speaker Emanuel “Chris” Welch is steadily picking up steam and uniting Illinois party leaders and elects around his bid to fill Congressman Danny Davis’ role as 7th Congressional District State Central Committeeman.
 The Speaker has been officially endorsed by Congressman Davis and over 40 others to fill the role.
 Now, Alderpersons Jessie Fuentes (26th Ward), Jeylú Gutiérrez (14th Ward), Timmy Knudsen (43rd Ward), and Alderperson Lamont Robinson (4th Ward), are uniting around the effort to ensure the best representation for their wards at the Illinois party table.
 “Speaker Welch is a proven leader and a true advocate for all communities,” said Alderpersons Robinson.
 “He brings people together, listens, and fights for what matters.
 As Congressman Davis said, when you look at the 7th District, the right choice is clear.
 I’ve worked with the Speaker for years—as a State Rep and now as Alderman—and I’ve seen him uplift candidates and communities across the state.
-He is the kind of leader we need in these turbulent times, and I’m proud to stand with him.”
-Welch has served as a collaborative leader since entering the House in 2013.
+He is the kind of leader we need in these turbulent times, and I’m proud to stand with him.” Welch has served as a collaborative leader since entering the House in 2013.
 As Speaker, he’s worked to ‘lift all boats’ in the Illinois Democratic Party.
 His House Dems Caucus is #1 in the country– being the only caucus continuing to make gains in flipping Republican strongholds and advancing Democratic values.
-Welch’s full endorsement list includes:
-- Congressman Danny K.
-Davis
-- Former Secretary of State Jesse White
-- Democratic Party of Illinois Chair Lisa Hernandez
-- Cook County Clerk Monica Gordon
-- Bellwood Mayor Andre Harvey
-- Broadview Mayor Katrina Thompson
-- Hillside Mayor Joe Tamburino
-- Maywood Mayor Nathaniel Booker
-- River Forest President and Committeeperson Cathy Adduci
-- Westchester President Greg Hribal
-- State Representative Kam Buckner
-- State Representative Margaret Croke
-- State Representative Kelly Cassidy
-- State Representative Kimberly DuBuclet
-- State Representative Marcus Evans
-- State Representative La Shawn Ford
-- State Representative Debbie Meyers-Martin
-- State Representative and Committeeperson Aaron Ortiz
-- State Representative Jawaharial ‘Omar’ Williams
-- 1st Ward Committeeperson Laura Yepez
-- 2nd Ward Committeeperson Tim Egan
-- 3rd Ward Alderwoman and Committeeperson Pat Dowell
-- 4th Ward Alderman Lamont Robinson
-- 11th Ward Alderwoman Nicole Lee
-- 14th Ward Alderwoman Jeylú Gutiérrez
-- 15th Ward Alderman and Committeeperson Ray Lopez
-- 16th Ward Alderwoman and Committeeperson Stephanie Coleman
-- 18th Ward Alderman Derrick Curtis
-- 24th Ward Alderwoman and Committeeperson Monique Scott
-- 25th Ward Alderwoman and Committeeperson Byron Sigcho-Lopez
-- 26th Ward Alderperson Jessie Fuentes
-- 27th Ward Alderman Walter Burnett
-- 36th Ward Alderman and Committeeperson Gilbert Villegas
-- 37th Ward Alderwoman and State Central Committeewoman Emma Mitts
-- 42nd Ward Alderman and Committeeperson Brendan Reilly
-- 43rd Ward Alderman Timmy Knudsen
-- 43rd Ward Committeeperson Lucy Moog
-- Cicero Township Village President and Committeeperson Larry Dominick
-- Cook County Commissioner and 11th Ward Committeeperson John Daley
-- DNC member Dan Hynes
-- Former State Central Committeewoman Darlena Williams Burnett
-- Chicago LGBQT Hall of Famer and Former Personal PAC President Terry Cosgrove
+Welch’s full endorsement list includes: Congressman Danny K.
+Davis Former Secretary of State Jesse White Democratic Party of Illinois Chair Lisa Hernandez Cook County Clerk Monica Gordon Bellwood Mayor Andre Harvey Broadview Mayor Katrina Thompson Hillside Mayor Joe Tamburino Maywood Mayor Nathaniel Booker River Forest President and Committeeperson Cathy Adduci Westchester President Greg Hribal State Representative Kam Buckner State Representative Margaret Croke State Representative Kelly Cassidy State Representative Kimberly DuBuclet State Representative Marcus Evans State Representative La Shawn Ford State Representative Debbie Meyers-Martin State Representative and Committeeperson Aaron Ortiz State Representative Jawaharial ‘Omar’ Williams 1st Ward Committeeperson Laura Yepez 2nd Ward Committeeperson Tim Egan 3rd Ward Alderwoman and Committeeperson Pat Dowell 4th Ward Alderman Lamont Robinson 11th Ward Alderwoman Nicole Lee 14th Ward Alderwoman Jeylú Gutiérrez 15th Ward Alderman and Committeeperson Ray Lopez 16th Ward Alderwoman and Committeeperson Stephanie Coleman 18th Ward Alderman Derrick Curtis 24th Ward Alderwoman and Committeeperson Monique Scott 25th Ward Alderwoman and Committeeperson Byron Sigcho-Lopez 26th Ward Alderperson Jessie Fuentes 27th Ward Alderman Walter Burnett 36th Ward Alderman and Committeeperson Gilbert Villegas 37th Ward Alderwoman and State Central Committeewoman Emma Mitts 42nd Ward Alderman and Committeeperson Brendan Reilly 43rd Ward Alderman Timmy Knudsen 43rd Ward Committeeperson Lucy Moog Cicero Township Village President and Committeeperson Larry Dominick Cook County Commissioner and 11th Ward Committeeperson John Daley DNC member Dan Hynes Former State Central Committeewoman Darlena Williams Burnett Chicago LGBQT Hall of Famer and Former Personal PAC President Terry Cosgrove Casimir Stopa September 9, 2025 Facebook 0 Twitter Pinterest 0 0 Likes Previous 7th Congressional District State Reps Deepen the Call for Welch as State Central Committeeman Casimir Stopa September 10, 2025 Next Alderwoman Nicole Lee Steps Up for Welch for 7th District State Central Committeeman Casimir Stopa September 9, 2025 Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

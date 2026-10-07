@@ -1,15 +1,58 @@
 [
-"http://billings.org/",
-"http://billingsgazette.com/opinion/editorial/gazette-opinion-reasons-for-joy-in-billings-ward/article_5191ae87-90f5-5892-a329-66718c18e878.html",
-"http://billingsgazette.com/opinion/letters/joy-up-to-speed-on-city-issues/article_eaf25522-6e68-57cc-b026-a5cc234c8c6e.html",
-"http://bit.ly/2xiyGTc",
-"http://forwardmontana.org/",
-"http://forwardmontana.org/voter-guide",
-"https://billingschamber.com/public-policy",
-"https://denisejoyformontana.com/",
-"https://denisejoyformontana.com/about",
-"https://denisejoyformontana.com/blog",
-"https://denisejoyformontana.com/contact",
-"https://denisejoyformontana.com/help-get-denise-elected",
-"https://secure.actblue.com/donate/denise-joy-1"
+{
+"text": "About Denise",
+"href": "https://denisejoyformontana.com/about/"
+},
+{
+"text": "Billings Association of Realtors",
+"href": "http://www.billings.org/"
+},
+{
+"text": "Billings Chamber of Commerce",
+"href": "https://www.billingschamber.com/public-policy/"
+},
+{
+"text": "Billings Gazette",
+"href": "http://billingsgazette.com/opinion/editorial/gazette-opinion-reasons-for-joy-in-billings-ward/article_5191ae87-90f5-5892-a329-66718c18e878.html"
+},
+{
+"text": "Contact",
+"href": "https://denisejoyformontana.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/denise-joy-1"
+},
+{
+"text": "Forward Montana",
+"href": "http://forwardmontana.org/"
+},
+{
+"text": "Full letter is online at the Billings Gazette",
+"href": "http://billingsgazette.com/opinion/letters/joy-up-to-speed-on-city-issues/article_eaf25522-6e68-57cc-b026-a5cc234c8c6e.html"
+},
+{
+"text": "Help Get Denise Elected",
+"href": "https://denisejoyformontana.com/help-get-denise-elected/"
+},
+{
+"text": "Home",
+"href": "https://denisejoyformontana.com/"
+},
+{
+"text": "Learn More",
+"href": "https://denisejoyformontana.com/help-get-denise-elected/"
+},
+{
+"text": "Values & Issues",
+"href": "https://denisejoyformontana.com/blog/"
+},
+{
+"text": "forum in Central Park",
+"href": "http://bit.ly/2xiyGTc"
+},
+{
+"text": "voter guides",
+"href": "http://forwardmontana.org/voter-guide/"
+}
 ]

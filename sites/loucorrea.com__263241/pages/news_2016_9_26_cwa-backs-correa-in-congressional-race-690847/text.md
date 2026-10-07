@@ -1,103 +1,11 @@
-Communication Workers of America (CWA) Endorsement Signals Correa’s Widespread Support Among Working Men and Women
-Santa Ana, CA— In the past weeks, Lou Correa has continued to clench key endorsements, including those from the California Democratic Party, the Orange County Employees Association, and Laborers Local 652, and today that trend continues with the Communication Workers of America’s endorsement of Lou Correa for Congress.
-Following news of the endorsement, former State Senator Lou Correa released the following statement:
-“As the son of working parents, I understand the importance of good jobs and protecting our working families.
-The Communication Workers of America work tirelessly to make sure that workplace protections, livable wages, and proper healthcare are a reality for working families across the nation, and I look forward to partnering with them to create policies that will create a path to the middle class for thousands of Southern California families.”
-In addition to today’s endorsement, Lou Correa has gained widespread support from a variety of labor, environmental, public safety, and business organizations, as well as elected officials and community leaders, including:
-Organizations:
-· California Democratic Party (CDP)
-· California Labor Federation
-· United Association Local Union 250: Steamfitters & Refrigeration
-· California School Employees Association (CSEA)
-· California State Association of Letter Carriers (CSALC)
-· The California Statewide Law Enforcement Association (CSLEA)
-· United Farm Workers of America (UFW)
-· California Police Chiefs' Association
-· Peace Officers Research Association of California (PORAC)
-· National Latino Peace Officers Association
-· California Small Business Association
-· Building Our Leadership Diversity (BOLD) PAC
-· International Union of Painters and Allied Trades District Council 36
-· International Union of Operating Engineers Local 501
-· Santa Ana School Police Officers' Association
-· Santa Ana Police Officers' Association
-· Anaheim Police Officer's Association Political Action Committee
-· Orange County Deputy District Attorneys
-· Orange County Employees Association (OCEA)
-· Garden Grove Firefighters Association
-· Garden Grove Police Officers Association
-· Californians for Humane Immigrant Rights Leadership Action Fund (CHIRLA Action Fund)
-· Orange County Business Council
-· Association of Orange County Deputy Sheriffs
-· Communication Workers of America
-· Laborers Local 652
-Elected Leaders:
-· House Democratic Leader & Congresswoman Nancy Pelosi
-· House Democratic Whip & Congressman Steny Hoyer
-· House Democratic Caucus Chair & Congressman Xavier Becerra
-· Congressional Progressive Caucus Co-Chair and Congressman Raúl M.
-Grijalva
-· Congressional Hispanic Caucus Chair and Congresswoman Linda Sánchez
-· Former State Assembly Speaker & Congresswoman Karen Bass
-· Congresswoman Loretta Sanchez
-· Congresswoman Judy Chu
-· Congressman Juan Vargas
-· Congressman Alan Lowenthal
-· Congressman Pete Aguilar
-· Congressman Ted Lieu
-· Congressman Tony Cardenas
-· Congresswoman Norma Torres
-· Congressman Raul Ruiz, MD.
-· Congressman Ruben Gallego
-· Congressman Luis Gutierrez
-· Congressman Ruben Hinojosa
-· Congressman Filemon Vela
-· California’s State Treasurer John Chiang
-· California’s Superintendent of Public Instruction Tom Torlakson
-· California State Senate President Pro-Tem Kevin de León
-· California Board of Equalization Chair Jerome Horton
-· California Lt.
-Governor Cruz Bustamante (Ret.)
-· California Latino Legislative Caucus Chair and State Assemblyman Luis Alejo
-· California Legislative Black Caucus Chair & State Assemblyman Reggie Jones-Sawyer
-· California State Senator and former Air Force General Richard Roth
-· California State Senator & LGBT trailblazer Mark Leno
-· California State Senator & Labor Committee Chair Tony Mendoza
-· California State Assemblywoman & former San Diego Central Labor Council Leader Lorena Gonzalez
-· California State Senator Lois Wolk
-· California State Senator Jerry Hill
-· California State Assemblywoman Susan Talamantes–Eggman
-· California State Assemblyman Henry Perea
-· California State Assemblywoman Sharon Quirk Silva (Ret.)
-· California Supreme Court Justice, Hon., Cruz Reynoso (Ret.)
-· California State Assemblywoman Cristina Garcia
-· California State Assemblyman Jose Medina
-· Orange County Sheriff Sandra Hutchins
-· Santa Ana City Council Member Michele Martinez
-· Santa Ana Unified School District Board President John Palacio
-· Santa Ana Unified School District Clerk Valerie Amezcua
-· Santa Ana Unified School District Board Member José Alfredo Hernández, J.D.
-· Santa Ana City Councilwoman Angie Amezcua
-· Buena Park City Councilman Art Brown
-· Anaheim Union High School District Board President Annemarie Randle-Trejo
-· Anaheim Union High School District Board Member Al Jabbar
-· Anaheim City School District Board of Education President Bob Gardner
-· Anaheim City School District Board of Education Member Ryan Ruelas
-· Anaheim Police Chief John Welter (Ret.)*
-· City of Garden Grove City Council Member Kris Beard
-· Huntington Beach Unified School District Board Member Bonnie Castrey
-· Los Angeles City Councilman, past State Senator Gil Cedillo
-· Artesia City Council Member Ali Sajjad Taj
-· Coast Community College Trustee Jim Moreno
-· Former Mayor of Huntington Beach Linda Moulton-Patterson
-· Coast Community College Trustee, former Congressman, and former Mayor of Santa Ana Jerry Patterson
-· Chairman of the California Democratic Party John Burton
-· California Democratic Party Regional Director Florice Orea Hoffman
-· California Democratic Party LGBT Caucus Southern California Chair & California Democratic Party Executive Board Member Denise Penn
-Community Leaders:
-· South County Labor Chair Ray Cordova*
-· Orange County-based LGBT activist Gregory Willenborg*
-· Pastor of the largest African American church in Orange County, the Rev.
+Home Meet Lou Support Lou Contact Press Package Donate Home Meet Lou Support Lou Contact Press Package Donate Andrew Scibetta September 26, 2016 CWA BACKS CORREA IN CONGRESSIONAL RACE Andrew Scibetta September 26, 2016 Communication Workers of America (CWA) Endorsement Signals Correa’s Widespread Support Among Working Men and Women Santa Ana, CA — In the past weeks, Lou Correa has continued to clench key endorsements, including those from the California Democratic Party, the Orange County Employees Association, and Laborers Local 652, and today that trend continues with the Communication Workers of America’s endorsement of Lou Correa for Congress.
+Following news of the endorsement, former State Senator Lou Correa released the following statement: “As the son of working parents, I understand the importance of good jobs and protecting our working families.
+The Communication Workers of America work tirelessly to make sure that workplace protections, livable wages, and proper healthcare are a reality for working families across the nation, and I look forward to partnering with them to create policies that will create a path to the middle class for thousands of Southern California families.” In addition to today’s endorsement, Lou Correa has gained widespread support from a variety of labor, environmental, public safety, and business organizations, as well as elected officials and community leaders, including: Organizations: · California Democratic Party (CDP) · California Labor Federation · United Association Local Union 250: Steamfitters & Refrigeration · California School Employees Association (CSEA) · California State Association of Letter Carriers (CSALC) · The California Statewide Law Enforcement Association (CSLEA) · United Farm Workers of America (UFW) · California Police Chiefs' Association · Peace Officers Research Association of California (PORAC) · National Latino Peace Officers Association · California Small Business Association · Building Our Leadership Diversity (BOLD) PAC · International Union of Painters and Allied Trades District Council 36 · International Union of Operating Engineers Local 501 · Santa Ana School Police Officers' Association · Santa Ana Police Officers' Association · Anaheim Police Officer's Association Political Action Committee · Orange County Deputy District Attorneys · Orange County Employees Association (OCEA) · Garden Grove Firefighters Association · Garden Grove Police Officers Association · Californians for Humane Immigrant Rights Leadership Action Fund (CHIRLA Action Fund) · Orange County Business Council · Association of Orange County Deputy Sheriffs · Communication Workers of America · Laborers Local 652 Elected Leaders: · House Democratic Leader & Congresswoman Nancy Pelosi · House Democratic Whip & Congressman Steny Hoyer · House Democratic Caucus Chair & Congressman Xavier Becerra · Congressional Progressive Caucus Co-Chair and Congressman Raúl M.
+Grijalva · Congressional Hispanic Caucus Chair and Congresswoman Linda Sánchez · Former State Assembly Speaker & Congresswoman Karen Bass · Congresswoman Loretta Sanchez · Congresswoman Judy Chu · Congressman Juan Vargas · Congressman Alan Lowenthal · Congressman Pete Aguilar · Congressman Ted Lieu · Congressman Tony Cardenas · Congresswoman Norma Torres · Congressman Raul Ruiz, MD. · Congressman Ruben Gallego · Congressman Luis Gutierrez · Congressman Ruben Hinojosa · Congressman Filemon Vela · California’s State Treasurer John Chiang · California’s Superintendent of Public Instruction Tom Torlakson · California State Senate President Pro-Tem Kevin de León · California Board of Equalization Chair Jerome Horton · California Lt.
+Governor Cruz Bustamante (Ret.) · California Latino Legislative Caucus Chair and State Assemblyman Luis Alejo · California Legislative Black Caucus Chair & State Assemblyman Reggie Jones-Sawyer · California State Senator and former Air Force General Richard Roth · California State Senator & LGBT trailblazer Mark Leno · California State Senator & Labor Committee Chair Tony Mendoza · California State Assemblywoman & former San Diego Central Labor Council Leader Lorena Gonzalez · California State Senator Lois Wolk · California State Senator Jerry Hill · California State Assemblywoman Susan Talamantes–Eggman · California State Assemblyman Henry Perea · California State Assemblywoman Sharon Quirk Silva (Ret.) · California Supreme Court Justice, Hon., Cruz Reynoso (Ret.) · California State Assemblywoman Cristina Garcia · California State Assemblyman Jose Medina · Orange County Sheriff Sandra Hutchins · Santa Ana City Council Member Michele Martinez · Santa Ana Unified School District Board President John Palacio · Santa Ana Unified School District Clerk Valerie Amezcua · Santa Ana Unified School District Board Member José Alfredo Hernández, J.D. · Santa Ana City Councilwoman Angie Amezcua · Buena Park City Councilman Art Brown · Anaheim Union High School District Board President Annemarie Randle-Trejo · Anaheim Union High School District Board Member Al Jabbar · Anaheim City School District Board of Education President Bob Gardner · Anaheim City School District Board of Education Member Ryan Ruelas · Anaheim Police Chief John Welter (Ret.)* · City of Garden Grove City Council Member Kris Beard · Huntington Beach Unified School District Board Member Bonnie Castrey · Los Angeles City Councilman, past State Senator Gil Cedillo · Artesia City Council Member Ali Sajjad Taj · Coast Community College Trustee Jim Moreno · Former Mayor of Huntington Beach Linda Moulton-Patterson · Coast Community College Trustee, former Congressman, and former Mayor of Santa Ana Jerry Patterson · Chairman of the California Democratic Party John Burton · California Democratic Party Regional Director Florice Orea Hoffman · California Democratic Party LGBT Caucus Southern California Chair & California Democratic Party Executive Board Member Denise Penn Community Leaders: · South County Labor Chair Ray Cordova* · Orange County-based LGBT activist Gregory Willenborg* · Pastor of the largest African American church in Orange County, the Rev.
 Mark E.
-Whitlock, Jr.*
-*Titles for Identification Purposes Only.
+Whitlock, Jr.* *Titles for Identification Purposes Only.
+Newer Post ORANGE COUNTY YOUNG DEMOCRATS BACK LOU CORREA’S CAMPAIGN FOR CA-46 Older Post CORREA REVEALS ANOTHER NGUYEN POLICY FLIP-FLOP Donate Today Back to Top Meet Lou Support Lou Congressman Lou in the News Photos Register to Vote Press Endorsements Donate News P.O.
+Box 1107, Anaheim, CA 92815-1107 info@LouCorrea.com Paid for by Lou Correa for Congress FEC Campaign ID No.
+C00578302 ©Lou Correa For Congress # | Privacy Policy | Terms of Use | Contact Site Administrator P.O.
+Box 1107 Anaheim, CA 92815-1107

@@ -1,45 +1,20 @@
-Who is Dan Rogers?
-Teacher, Farmer, Logger, and Dedicated Community Leader
-Dan and his wife Cynthia live in Hubbard County, Minnesota on the family farm where Dan grew up.
+top of page Donate Donate Donate Empowering Northern Minnesota through Strong Leadership and Community Voices Volunteer Donate What district do I vote in?
+Photos Endorsements Who is Dan Rogers?
+Teacher, Farmer, Logger, and Dedicated Community Leader Dan and his wife Cynthia live in Hubbard County, Minnesota on the family farm where Dan grew up.
 Dan is a science teacher, father, grandfather, logger, 3rd generation farmer, and a community leader.
-Dan is described as having a strong work ethic, common sense, honesty, authenticity, and humility.
-He is a Northern Minnesota sporting enthusiast who enjoys deer hunting, Nordic skiing, playing soccer and hockey, maple sugaring, gardening, and beekeeping.
-Being outdoors and connected to the cycles of the land are very important to him.
-Dan is one of us.
-Dan's Campaign Platform
-Why am I Running?
-When I look at my grandchildren and the students in my classes,
-I feel an obligation and determination to step up for their future, to help make things better for them, and to build a society and community where decency and respect are important.
-Values & Vision
-My vision is rooted in our Northwoods values and understanding the diverse needs of our communities.
-I envision a future where every child has the opportunity to grow and flourish,
-where every family has housing, where every citizen has affordable health care,
-and where the rights outlined in the Constitution of the United States
-are honored by our leaders and citizens alike.
-I prioritize listening, engaging, and developing policies that uplift everyone in the district.
-Here’s how I plan to make a difference:
-Empowering Families,
-Investing in our Youth, and Strengthening Community
-I believe that strong families are the backbone of our communities.
-By providing resources and support, we can ensure that every family has the opportunity to thrive.
-Investing in our youth starts from infancy.
-I will work to make childcare accessible and affordable in order to build strong foundations for children and stability for families.
-Education is my passion and the heart of our communities.
-Our youth are our future and they require robust investments in education now.
-Advocating for Rural Minnesota and Family Farms
-My platform ensures that all individuals, regardless of their background or where they live, have access to the tools necessary for success.
-Farmers are needed to produce the food we need, especially while so many families are experiencing food insecurity.
-Faithful farmers also protect the land.
+Dan is described as having a strong work ethic, common sense, honesty, authenticity, and humility. ​ He is a Northern Minnesota sporting enthusiast who enjoys deer hunting, Nordic skiing, playing soccer and hockey, maple sugaring, gardening, and beekeeping. ​ Being outdoors and connected to the cycles of the land are very important to him. ​ Dan is one of us. ​ ​ Dan's Campaign Platform Why am I Running?
+When I look at my grandchildren and the students in my classes, I feel an obligation and determination to step up for their future, to help make things better for them, and to build a society and community where decency and respect are important.
+Values & Vision My vision is rooted in our Northwoods values and understanding the diverse needs of our communities. ​ I envision a future where every child has the opportunity to grow and flourish, where every family has housing, where every citizen has affordable health care, and where the rights outlined in the Constitution of the United States are honored by our leaders and citizens alike.
+I prioritize listening, engaging, and developing policies that uplift everyone in the district. ​ Here’s how I plan to make a difference: Empowering Families, Investing in our Youth, and Strengthening Community I believe that strong families are the backbone of our communities.
+By providing resources and support, we can ensure that every family has the opportunity to thrive. ​ ​ ​ ​Investing in our youth starts from infancy.
+I will work to make childcare accessible and affordable in order to build strong foundations for children and stability for families. ​ ​ ​Education is my passion and the heart of our communities.
+Our youth are our future and they require robust investments in education now. ​ ​ ​ Advocating for Rural Minnesota and Family Farms My platform ensures that all individuals, regardless of their background or where they live, have access to the tools necessary for success. ​ Farmers are needed to produce the food we need, especially while so many families are experiencing food insecurity.
+Faithful f armers also protect the land.
 I will work to ensure that family farms can exist into the future.
-Promoting Economic Growth and Sustainable Solutions
-Economic growth and sustainability depend on support for local businesses, innovative work on things like renewable energy solutions, and significant investments in education, childcare, and housing to build a prosperous future for all.
-Protecting the Environment
-and Preserving Wild Places
-I am devoted to protecting the environment and doing what we can to mitigate climate change.
+Promoting Economic Growth and Sustainable Solutions Economic growth and sustainability depend on support for local businesses, innovative work on things like renewable energy solutions, and significant investments in education, childcare, and housing to build a prosperous future for all. ​ ​ ​ ​ ​ ​ ​ Protecting the Environment and Preserving Wild Places I am devoted to protecting the environment and doing what we can to mitigate climate change.
 The futures of our grandchildren and their children and grandchildren depend on us taking action now.
 People will always need to connect with nature and experience wild spaces like the Boundary Waters Canoe Area Wilderness.
 We need to take steps now to ensure such places will exist in the future.
-Encouraging Civic Participation and Protecting Our Democracy
-I am dedicated to protecting our democratic processes, inspiring active participation in democracy, and empowering citizens to engage in the political process and advocate for their communities.
-I will prioritize the importance of a free press.
-We need to get back to where we can trust and believe the news.
+Encouraging Civic Participation and Protecting Our Democracy I am dedicated to protecting our democratic processes, inspiring active participation in democracy, and empowering citizens to engage in the political process and advocate for their communities. ​ ​ I will prioritize the importance of a free press.
+We need to get back to where we can trust and believe the news. ​ Donate Dan Wants to Hear From You! 📞 218-368-4751 📧 rogersformnsenate2@gmail.com Campaign for Dan Rogers P.O.
+Box 393 Bemidji, MN 56619 Submit Events for Dan Prepared and paid for by the Campaign for Dan Rogers Committee Dan Rogers for Senate bottom of page

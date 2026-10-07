@@ -1,114 +1,19 @@
-Endorsements
-Federal
-Mark Warner
-United States Senator (VA)
-“James Walkinshaw hit the ground running as Virginia’s newest Member of Congress—and he hasn’t slowed down for a second.
+Skip to content Endorsements Contact Us Meet James Vote Priorities Endorsements Contact Us Meet James Vote Priorities Donate Meet James Donate Endorsements Vote Priorities Contact Us Endorsements Federal Mark Warner United States Senator (VA) “James Walkinshaw hit the ground running as Virginia’s newest Member of Congress—and he hasn’t slowed down for a second.
 I’ve worked closely with James to stand up for federal workers, rein in Donald Trump’s abuses of power, and deliver real results for Virginia.
 He’s experienced, relentless, and effective, and he’s exactly the kind of leader we need.
-I’m proud to support his re-election and urge everyone in Virginia’s 11th District to do the same.”
-Tim Kaine
-United States Senator (VA)
-“Since being elected in September, James Walkinshaw has been everywhere—listening, leading, and fighting for Virginia.
+I’m proud to support his re-election and urge everyone in Virginia’s 11th District to do the same.” Tim Kaine United States Senator (VA) “Since being elected in September, James Walkinshaw has been everywhere—listening, leading, and fighting for Virginia.
 He’s a tireless advocate on the issues that matter most to our community: lowering costs, protecting Virginians’ health care, and standing up for federal workers.
-James is principled, prepared, and deeply committed to public service and I’m proud to endorse him.”
-Labor Unions
-National Federation of Federal Employees, IAMAW, AFL-CIO
-Service Employees International Union (SEIU) Virginia State Council
-American Federation of Government Employees
-Ottis Johnson Jr., District 14 National Vice President; Christine Surrette, District 4 National Vice President
-“From championing fair pay raises and shutdown protections to founding the bipartisan and bicameral Federal Workforce Caucus, Walkinshaw has demonstrated a clear understanding of the importance of a strong, nonpartisan civil service and the need to protect federal workers from political attacks and instability.
-AFGE is proud to support a leader who understands the vital role federal workers play in serving our nation and who will continue defending their rights, pay, and dignity in Congress.”
-Organizations
-Everytown for Gun Safety Action Fund
-Moms Demand Action
-Gun Sense Candidate Distinction
-Planned Parenthood Action Fund
-National Organization for Women (NOW) PAC
-Stop Gun Violence PAC
-Alliance 4 American Leadership
-“The heroes who deliver humanitarian relief around the world live right here in Northern Virginia.
+James is principled, prepared, and deeply committed to public service and I’m proud to endorse him.” Labor Unions National Federation of Federal Employees, IAMAW, AFL-CIO Service Employees International Union (SEIU) Virginia State Council American Federation of Government Employees Ottis Johnson Jr., District 14 National Vice President; Christine Surrette, District 4 National Vice President “From championing fair pay raises and shutdown protections to founding the bipartisan and bicameral Federal Workforce Caucus, Walkinshaw has demonstrated a clear understanding of the importance of a strong, nonpartisan civil service and the need to protect federal workers from political attacks and instability.
+AFGE is proud to support a leader who understands the vital role federal workers play in serving our nation and who will continue defending their rights, pay, and dignity in Congress.” Organizations Everytown for Gun Safety Action Fund Moms Demand Action Gun Sense Candidate Distinction Planned Parenthood Action Fund National Organization for Women (NOW) PAC Stop Gun Violence PAC Alliance 4 American Leadership “The heroes who deliver humanitarian relief around the world live right here in Northern Virginia.
 When DOGE shut down USAID, VA-11 lost hundreds of jobs and $4 billion in contracts and grants.
 The country lost even more.
 We lost the public health, famine relief, and development programs that have saved over 90 million lives, kept our country safe, and shown the world who we are.
-The Alliance for American Leadership is proud to back James Walkinshaw, who has scrutinized DOGE and keeps fighting for federal workers and foreign assistance as Co-Chair of the Federal Workforce Caucus.”
-Animal Wellness Action
-State
-Abigail Spanberger
-Governor of Virginia
-“I served in Congress and know what it takes to get results.
+The Alliance for American Leadership is proud to back James Walkinshaw, who has scrutinized DOGE and keeps fighting for federal workers and foreign assistance as Co-Chair of the Federal Workforce Caucus.” Animal Wellness Action State Abigail Spanberger Governor of Virginia “I served in Congress and know what it takes to get results.
 You need to listen, do your homework, then work hard to get results.
 That’s what Congressman Walkinshaw has done.
 Since being elected last year, he’s taken on the Trump Administration to protect federal workers, delivered federal funding for Virginia, and fought to defend our values.
-I’m proud to support him for re-election.”
-Ghazala Hashmi
-Lieutenant Governor of Virginia
-“As a former educator, State Senator, and now Virginia’s Lieutenant Governor, I know James Walkinshaw is someone we can trust to always put our students, teachers, and families first.
+I’m proud to support him for re-election.” Ghazala Hashmi Lieutenant Governor of Virginia “As a former educator, State Senator, and now Virginia’s Lieutenant Governor, I know James Walkinshaw is someone we can trust to always put our students, teachers, and families first.
 He has the courage to stand up to Donald Trump’s relentless attacks on public education — his first act in Congress was to prevent Donald Trump from gutting the Department of Education.
-No one works harder for our most vulnerable children, and I’m proud to be supporting his re-election.”
-Jennifer Boysko
-Virginia State Senator (SD-38) - Fairfax County
-Dave Marsden
-Virginia State Senator (SD-35) - Fairfax County
-Jennifer Carroll Foy
-Virginia State Senator (SD-33) - Fairfax & Prince William County
-Jeremy McPike
-Virginia State Senator (SD-29) - Prince William & Stafford County
-Russet Perry
-Virginia State Senator (SD-31) - Fauquier & Loudoun County
-Michelle Maldonado
-Virginia State Delegate (HD-20) - Prince William County, Manassas City, & Manassas Park
-Josh Thomas
-Virginia State Delegate (HD-21) - Prince William County
-Elizabeth Guzmán
-Virginia State Delegate (HD-22) - Prince William County
-John McAuliff
-Virginia State Delegate (HD-30) - Fauquier & Loudoun County
-Briana Sewell
-Virginia State Delegate (HD-25) - Prince William County
-Local
-Catherine Read
-Mayor of the City of Fairfax
-Kathy Smith
-Fairfax County Supervisor - Sully District
-Walter Alcorn
-Fairfax County Supervisor - Hunter Mill District
-Jimmy Bierman
-Fairfax County Supervisor - Dranesville District
-Rodney Lusk
-Fairfax County Supervisor - Franconia District
-Rachna Sizemore Heizer
-Fairfax County Supervisor - Braddock District
-Andres Jimenez
-Fairfax County Supervisor - Mason District
-Dalia Palchik
-Fairfax County Supervisor - Providence District
-Dan Storck
-Fairfax County Supervisor - Mount Vernon District
-Deshundra Jefferson
-Chair of the Prince William Board of County Supervisors
-George Stewart
-Prince William Supervisor (Gainesville)
-Jacqueline Smith
-Clerk of Court - Prince William County, Manassas City, & Manassas Park
-Amy Ashworth
-Commonweath's Attorney - Prince William County, Manassas City, & Manassas Park
-Michelle Davis-Younger
-Mayor of the City of Manassas
-Mark Wolfe
-City of Manassas Councilmember
-Sonia Vasquez Luna
-City of Manassas Councilmember
-Tom Osina
-City of Manassas Councilmember
-Ashley Hutson
-City of Manassas Councilmember
-Alanna Mensing
-Mayor of the City of Manassas Park
-Darryl Moore
-City of Manassas Park Councilmember
-Kevin Moreau
-City of Manassas Park Councilmember
-- Lorem Ipsum Set Dolor Amet
-- Lorem Ipsum Set Dolor Amet
-- Lorem Ipsum Set Dolor Amet
-- Lorem Ipsum Set Dolor Amet
+No one works harder for our most vulnerable children, and I’m proud to be supporting his re-election.” Jennifer Boysko Virginia State Senator (SD-38) - Fairfax County Dave Marsden Virginia State Senator (SD-35) - Fairfax County Jennifer Carroll Foy Virginia State Senator (SD-33) - Fairfax & Prince William County Jeremy McPike Virginia State Senator (SD-29) - Prince William & Stafford County Russet Perry Virginia State Senator (SD-31) - Fauquier & Loudoun County Michelle Maldonado Virginia State Delegate (HD-20) - Prince William County, Manassas City, & Manassas Park Josh Thomas Virginia State Delegate (HD-21) - Prince William County Elizabeth Guzmán Virginia State Delegate (HD-22) - Prince William County John McAuliff Virginia State Delegate (HD-30) - Fauquier & Loudoun County Briana Sewell Virginia State Delegate (HD-25) - Prince William County Local Catherine Read Mayor of the City of Fairfax Kathy Smith Fairfax County Supervisor - Sully District Walter Alcorn Fairfax County Supervisor - Hunter Mill District Jimmy Bierman Fairfax County Supervisor - Dranesville District Rodney Lusk Fairfax County Supervisor - Franconia District Rachna Sizemore Heizer Fairfax County Supervisor - Braddock District Andres Jimenez Fairfax County Supervisor - Mason District Dalia Palchik Fairfax County Supervisor - Providence District Dan Storck Fairfax County Supervisor - Mount Vernon District Deshundra Jefferson Chair of the Prince William Board of County Supervisors George Stewart Prince William Supervisor (Gainesville) Jacqueline Smith Clerk of Court - Prince William County, Manassas City, & Manassas Park Amy Ashworth Commonweath's Attorney - Prince William County, Manassas City, & Manassas Park Michelle Davis-Younger Mayor of the City of Manassas Mark Wolfe City of Manassas Councilmember Sonia Vasquez Luna City of Manassas Councilmember Tom Osina City of Manassas Councilmember Ashley Hutson City of Manassas Councilmember Alanna Mensing Mayor of the City of Manassas Park Darryl Moore City of Manassas Park Councilmember Kevin Moreau City of Manassas Park Councilmember Lorem Ipsum Set Dolor Amet Lorem Ipsum Set Dolor Amet Lorem Ipsum Set Dolor Amet Lorem Ipsum Set Dolor Amet Chip In to Fight Back.
+It’s up to all of us to stop Donald Trump’s corrupt and dangerous agenda.
+Donate today, and let’s take back Congress. $5 $25 $50 $250 $500 Other Contact Facebook X-twitter Instagram Youtube Threads Tiktok Paid for and Authorized by Walkinshaw for Congress Website built by BCom

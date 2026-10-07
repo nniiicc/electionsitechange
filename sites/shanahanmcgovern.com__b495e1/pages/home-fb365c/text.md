@@ -1,11 +1,8 @@
-Christine McGovern - Together with Common Sense WE can SAVE ILLINOIS!
-2026 Candidate for Illinois State Senate District 18
-ABOUT THE CANDIDATE
-Christine McGovern is a Republican running for Illinois State Senate in the 18th District.
+Meet Christine Issues Volunteer Donate Contact Events Christine McGovern - Together with Common Sense WE can SAVE ILLINOIS!
+2026 Candidate for Illinois State Senate District 18 ABOUT THE CANDIDATE Christine McGovern is a Republican running for Illinois State Senate in the 18th District.
 She has lived in the Southland for the last 29 years.
 Christine is a Christian, a mother, and a small business owner.
-Education - An advocate for local parental control
-Christine was elected twice to the Annie Keller Gifted School and the Local School Council.
+Education - An advocate for local parental control Christine was elected twice to the Annie Keller Gifted School and the Local School Council.
 She is compassionate about serving the community.
 She has been a mentor to children in our neighborhood as a Girl Scout Leader and coach for several athletic teams.
 Christine graduated from Lincoln-Way High School and attended Northern Illinois University.
@@ -48,3 +45,5 @@ It's time to put "Illinois Citizens First"!
 Vote for Christine McGovern for State Senate District 18!
 Vote for TRUTH, JUSTICE and COMMON SENSE!
 Let's put "Illinois Citizens First"!
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

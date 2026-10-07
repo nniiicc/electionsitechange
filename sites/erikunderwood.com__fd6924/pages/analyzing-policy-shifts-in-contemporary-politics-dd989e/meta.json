@@ -1,7 +1,12 @@
 {
- "description": "Qroin faucibus nec mauris a sodales, sed elementum mi tincidunt. Sed eget viverra egestas nisi in consequat. Fusce sodales augue a accumsan. Cras sollicitudin, ipsum eget blandit pulvinar. Integer tincidunt.\u2026",
+ "description": "Qroin faucibus nec mauris a sodales, sed elementum mi tincidunt. Sed eget viverra egestas nisi in consequat. Fusce sodales augue a accumsan. Cras sollicitudin, ipsum eget blandit pulvinar. Integer tincidunt.…",
  "final_url": "https://erikunderwood.com/analyzing-policy-shifts-in-contemporary-politics/",
- "paid_for_by": "Paid for by Underwood for Colorado \u00a9 2026",
+ "fingerprint": "1685f0c8a781539aa1c4465e9209db53698623d2",
+ "format": 3,
+ "paid_for_by": "Paid for by Underwood for Colorado © #",
  "title": "Analyzing policy shifts in contemporary politics - Erik Underwood",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

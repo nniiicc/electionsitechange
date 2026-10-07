@@ -1,43 +1,182 @@
 [
-"https://ballotpedia.org/Oklahoma_House_of_Representatives_elections,_2024",
-"https://batesline.com/archives/2024/06/oklahoma-primary-2024-ballot-card.html",
-"https://birthright.org/tulsa",
-"https://bluestarfam.org/",
-"https://cceok.org/madonnahouse",
-"https://cerebralpalsyguide.com/community/veterans",
-"https://coffeebunker.org/transition/first-steps",
-"https://ebenefits.va.gov/ebenefits/homepage",
-"https://facebook.com/HassinkforHD79",
-"https://followthemoney.org/entity-details?eid=45035034",
-"https://golife.org/",
-"https://hassinkok.com/",
-"https://hassinkok.com/author/thierry",
-"https://hassinkok.com/contact",
-"https://hassinkok.com/donate",
-"https://hassinkok.com/endorsements",
-"https://hassinkok.com/issues",
-"https://hassinkok.com/links",
-"https://hassinkok.com/meet-paul",
-"https://hassinkok.com/privacy-policy",
-"https://hassinkok.com/recent-news",
-"https://hassinkok.com/recent-news?type=press-release",
-"https://hassinkok.com/sos",
-"https://hassinkok.com/thatisnotok",
-"https://ivoterguide.com/",
-"https://justfacts.votesmart.org/candidate/key-votes/182035/melissa-provenzano",
-"https://kofc.org/en/what-we-do/faith-in-action-programs/life/index.html",
-"https://legiscan.com/OK",
-"https://linkedin.com/in/paul-hassink-16650677/recent-activity/all",
-"https://magnoliatribune.com/2023/11/03/state-education-leaders-explain-the-hard-work-behind-the-mississippi-miracle",
-"https://mendmedical.org/",
-"https://myhealth.va.gov/mhv-portal-web/home",
-"https://nrapvf.org/grades/Oklahoma",
-"https://ok2a.org/2023-voting-scorecard",
-"https://okhpr.com/2024-primary-okhpr-survey-results2",
-"https://oklahoma.gov/elections/voters/early-voting.html",
-"https://oknorthstar.org/whitepapers",
-"https://okvoterportal.okelections.us/",
-"https://oscn.net/dockets/Search.aspx",
-"https://tpsrescue.org/index.html",
-"https://youtu.be/9MPJ91zlOn8"
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Oklahoma_House_of_Representatives_elections,_2024"
+},
+{
+"text": "BatesLine",
+"href": "https://www.batesline.com/archives/2024/06/oklahoma-primary-2024-ballot-card.html"
+},
+{
+"text": "Birthright of Tulsa",
+"href": "https://birthright.org/tulsa"
+},
+{
+"text": "Blue Star Families",
+"href": "https://bluestarfam.org/"
+},
+{
+"text": "Cerebral Palsy Guide",
+"href": "https://www.cerebralpalsyguide.com/community/veterans/"
+},
+{
+"text": "Coffee Bunker",
+"href": "https://www.coffeebunker.org/transition/first-steps/"
+},
+{
+"text": "Contact",
+"href": "https://hassinkok.com/contact/"
+},
+{
+"text": "Contact me via email",
+"href": "https://hassinkok.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://hassinkok.com/donate"
+},
+{
+"text": "DONATE",
+"href": "https://hassinkok.com/donate/"
+},
+{
+"text": "Early Voting",
+"href": "https://www.oklahoma.gov/elections/voters/early-voting.html"
+},
+{
+"text": "Endorsements",
+"href": "https://hassinkok.com/endorsements/"
+},
+{
+"text": "FollowTheMoney.org",
+"href": "https://www.followthemoney.org/entity-details?eid=45035034"
+},
+{
+"text": "Go Life",
+"href": "https://golife.org/"
+},
+{
+"text": "Harvard Economist, Roland Fryer",
+"href": "https://youtu.be/9MPJ91zlOn8"
+},
+{
+"text": "Home",
+"href": "https://hassinkok.com/"
+},
+{
+"text": "Issues",
+"href": "https://hassinkok.com/issues/"
+},
+{
+"text": "Knights of Columbus",
+"href": "https://www.kofc.org/en/what-we-do/faith-in-action-programs/life/index.html"
+},
+{
+"text": "Legiscan",
+"href": "https://legiscan.com/OK"
+},
+{
+"text": "Madonna House",
+"href": "https://cceok.org/madonnahouse"
+},
+{
+"text": "Meet Paul",
+"href": "https://hassinkok.com/meet-paul/"
+},
+{
+"text": "Mend Medical",
+"href": "https://mendmedical.org/"
+},
+{
+"text": "Mississippi Miracle",
+"href": "https://magnoliatribune.com/2023/11/03/state-education-leaders-explain-the-hard-work-behind-the-mississippi-miracle/"
+},
+{
+"text": "My HealtheVet",
+"href": "https://www.myhealth.va.gov/mhv-portal-web/home"
+},
+{
+"text": "NRA",
+"href": "https://www.nrapvf.org/grades/Oklahoma/"
+},
+{
+"text": "News",
+"href": "https://hassinkok.com/recent-news/"
+},
+{
+"text": "NorthStar Project",
+"href": "https://oknorthstar.org/whitepapers/"
+},
+{
+"text": "OK Voter Portal",
+"href": "https://okvoterportal.okelections.us/"
+},
+{
+"text": "OK2A",
+"href": "https://www.ok2a.org/2023-voting-scorecard/"
+},
+{
+"text": "OKHPR",
+"href": "https://okhpr.com/2024-primary-okhpr-survey-results2/"
+},
+{
+"text": "OSCN",
+"href": "https://www.oscn.net/dockets/Search.aspx"
+},
+{
+"text": "Press",
+"href": "https://hassinkok.com/recent-news/?type=press-release"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hassinkok.com/privacy-policy/"
+},
+{
+"text": "Resource Links",
+"href": "https://hassinkok.com/links/"
+},
+{
+"text": "Resources",
+"href": "https://hassinkok.com/links/"
+},
+{
+"text": "Save Oklahoma Students (SOS)",
+"href": "https://hassinkok.com/sos/"
+},
+{
+"text": "TPS Rescue Coalition",
+"href": "https://tpsrescue.org/index.html"
+},
+{
+"text": "Veteran Benefits & Services",
+"href": "https://www.ebenefits.va.gov/ebenefits/homepage"
+},
+{
+"text": "Vote Smart",
+"href": "https://justfacts.votesmart.org/candidate/key-votes/182035/melissa-provenzano"
+},
+{
+"text": "[image]",
+"href": "https://hassinkok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HassinkforHD79"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/paul-hassink-16650677/recent-activity/all/"
+},
+{
+"text": "iVoterGuide",
+"href": "https://ivoterguide.com/"
+},
+{
+"text": "thierry",
+"href": "https://hassinkok.com/author/thierry/"
+},
+{
+"text": "“ThatIsNotOK”",
+"href": "https://hassinkok.com/thatisnotok/"
+}
 ]

@@ -1,8 +1,46 @@
 [
-"https://facebook.com/abbottforflorida",
-"https://instagram.com/shaneabbottfl?hl=en",
-"https://secure.winred.com/shane-abbott-campaign/support-shane",
-"https://voteshaneabbott.com/",
-"https://voteshaneabbott.com/meet-shane",
-"https://x.com/ShaneAbbottFL"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shane-abbott-campaign/support-shane"
+},
+{
+"text": "Home",
+"href": "https://www.voteshaneabbott.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteshaneabbott.com/#issues"
+},
+{
+"text": "Meet Shane",
+"href": "https://www.voteshaneabbott.com/meet-shane"
+},
+{
+"text": "News",
+"href": "https://www.voteshaneabbott.com/#news"
+},
+{
+"text": "View Issues",
+"href": "https://www.voteshaneabbott.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteshaneabbott.com/#volunteer"
+},
+{
+"text": "[image: Shane Abbott for State Representative]",
+"href": "https://www.voteshaneabbott.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/abbottforflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/shaneabbottfl/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ShaneAbbottFL"
+}
 ]

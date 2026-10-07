@@ -1,12 +1,50 @@
 [
-"https://facebook.com/p/Finneran-for-Assembly-District-102-61557015825018",
-"https://secure.actblue.com/donate/finneranforassembly",
-"https://sites.google.com/view/finneranforassembly/biography",
-"https://sites.google.com/view/finneranforassembly/donate",
-"https://sites.google.com/view/finneranforassembly/endorsements",
-"https://sites.google.com/view/finneranforassembly/gallery",
-"https://sites.google.com/view/finneranforassembly/home",
-"https://sites.google.com/view/finneranforassembly/memberships",
-"https://sites.google.com/view/finneranforassembly/news",
-"https://sites.google.com/view/finneranforassembly/thoughts-and-tee-zers"
+{
+"text": "Biography",
+"href": "https://sites.google.com/view/finneranforassembly/biography"
+},
+{
+"text": "DONATE",
+"href": "https://sites.google.com/view/finneranforassembly/donate"
+},
+{
+"text": "Donations PAGE",
+"href": "https://secure.actblue.com/donate/finneranforassembly"
+},
+{
+"text": "Endorsements",
+"href": "https://sites.google.com/view/finneranforassembly/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/p/Finneran-for-Assembly-District-102-61557015825018/"
+},
+{
+"text": "FinneranForAssembly.org",
+"href": "https://sites.google.com/view/finneranforassembly/home"
+},
+{
+"text": "Gallery",
+"href": "https://sites.google.com/view/finneranforassembly/gallery"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/view/finneranforassembly/home"
+},
+{
+"text": "Memberships",
+"href": "https://sites.google.com/view/finneranforassembly/memberships"
+},
+{
+"text": "News",
+"href": "https://sites.google.com/view/finneranforassembly/news"
+},
+{
+"text": "Thoughts and Tee-zers",
+"href": "https://sites.google.com/view/finneranforassembly/thoughts-and-tee-zers"
+},
+{
+"text": "finneranforassembly@gmail.com",
+"href": "mailto:finneranforassembly@gmail.com"
+}
 ]

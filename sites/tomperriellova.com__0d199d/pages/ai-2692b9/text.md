@@ -1,6 +1,4 @@
-Skip navigation menu
-AI on Our Terms
-Owning the most powerful technology in human history does not give a company the right to own humanity itself—or put our democracy in danger.
+Skip navigation menu Home About Issues and Priorities Students Contact More Donate AI on Our Terms Home About Issues and Priorities Students Contact More Donate AI on Our Terms Owning the most powerful technology in human history does not give a company the right to own humanity itself—or put our democracy in danger.
 AI is already one of the most powerful tools humans have ever built, and its impacts might soon outrun our best and worst imaginations.
 The people in power right now owe something to every generation that follows: set the rules that protect us from its harms, and be clear about the society we want AI to make possible.
 AI is several different issues wrapped into one.
@@ -14,9 +12,9 @@ The people building AI are begging to be regulated.
 Washington's answer is to block the states from doing it.
 The clearest moral leadership so far has come from Pope Leo.
 In the first major letter of his papacy, he wrote: “Technology is never neutral.
-It takes on the character of the people who build it, pay for it, and write the rules for it.”
-The question is who decides.
+It takes on the character of the people who build it, pay for it, and write the rules for it.” The question is who decides.
 Big Tech wants the answer to be whoever spends the most money.
 They have amassed a war chest of over $100 million to buy the midterm elections.
 They have gone after candidates with the courage to demand AI safety, and they are bankrolling candidates who promise them a blank check through federal preemption.
 That is not right, and it is not inevitable.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

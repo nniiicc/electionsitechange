@@ -1,28 +1,16 @@
-Winter weather has moved into Central Texas, with temperatures dropping and chances of precipitation on the horizon.
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Winter Weather Preparedness Posted on January 20, 2025 January 20, 2025 by John Bucy Campaign Winter weather has moved into Central Texas, with temperatures dropping and chances of precipitation on the horizon.
 We expect ice on the roads could cause transportation issues later this afternoon to tomorrow.
 There is also a possibility of sleet and snow, and the low temperatures and wind chill will be dangerous for the next few days.
-Here you will find Winter Weather preparation resources, including a resources overview, a list of suggested actions, and a preparedness video in English and in Spanish.
-Additionally, you can monitor driving conditions on local roads at DriveTexas.org and find a map of warming centers.
-Helpful Links
-TDEM – January Winter Weather (link)
-WilCo – Weather Advisory and Preparedness (link)
-Austin – Alerts and Information Hub (link)
-Cedar Park – Cold Weather Resources (link)
-Round Rock – Winter Weather Alert (link)
-Stay Connected
-TDEM – twitter.com/TDEM
-WilCo – https://x.com/PreparingWilCo
-Austin – https://x.com/AustinHSEM
-Warn Central Texas
-Sign up for pertinent text, phone, or email alerts during times of disaster, public safety, or weather emergencies.
+Here you will find Winter Weather preparation resources, including a resources overview , a list of suggested actions , and a preparedness video in English and in Spanish .
+Additionally, you can monitor driving conditions on local roads at DriveTexas.org and find a map of warming centers .
+Helpful Links TDEM – January Winter Weather ( link ) WilCo – Weather Advisory and Preparedness ( link ) Austin – Alerts and Information Hub ( link ) Cedar Park – Cold Weather Resources ( link ) Round Rock – Winter Weather Alert ( link ) Stay Connected TDEM – twitter.com/TDEM WilCo – https://x.com/PreparingWilCo Austin – https://x.com/AustinHSEM Warn Central Texas Sign up for pertinent text, phone, or email alerts during times of disaster, public safety, or weather emergencies.
 These localized alerts help officials and emergency management personnel communicate with constituents.
-Learn more and register: https://warncentraltexas.org/
-STEAR
-Texas maintains the State of Texas Emergency Assistance Registry, which is a voluntary database that helps local emergency planners and emergency responders obtain additional information on the needs in their community.
+Learn more and register: https://warncentraltexas.org/ STEAR Texas maintains the State of Texas Emergency Assistance Registry , which is a voluntary database that helps local emergency planners and emergency responders obtain additional information on the needs in their community.
 As part of that, there is also the Medically Fragile Registry, which I passed into law after Winter Storm Uri.
 If you or a loved one have Alzheimer’s or related disorders, receive dialysis, are dependent on oxygen treatment, have been diagnosed with a debilitating chronic illness, or receive 24-hour care from a skilled nurse, you can sign up to receive a wellness check in certain disasters or emergencies.
 As always, if you need assistance, my office is here to help.
-You can reach us at 512-463-0696 or District136.Bucy@house.texas.gov.
+You can reach us at 512-463-0696 or District136.Bucy@house.texas.gov .
 Stay safe, and stay warm!
-John Bucy III
-State Representative
+John Bucy III State Representative Posted in Uncategorized Categories Awards Bucy Bulletin Events Press Releases Priorities Town Hall Uncategorized Voting Information Archives July 2025 June 2025 January 2025 May 2024 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 January 2022 December 2021 July 2021 June 2021 November 2020 October 2020 September 2020 July 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 Post navigation John Bucy’s 40th Birthday Bash Bucy Bulletin – Session Recap Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns Loading Comments...
+You must be logged in to post a comment.

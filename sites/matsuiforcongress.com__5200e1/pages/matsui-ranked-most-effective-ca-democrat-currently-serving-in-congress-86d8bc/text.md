@@ -1,6 +1,5 @@
-SACRAMENTO BEE — “Rep.
-Doris Matsui ranked among the most effective members of the last Congress, a new survey found…Among California Democrats, only former Rep.
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE March 6, 2025 NEWS & EVENTS Matsui Ranked Most Effective CA Democrat Currently Serving in Congress SACRAMENTO BEE — “Rep.
+Doris Matsui ranked among the most effective members of the last Congress, a new survey found …Among California Democrats, only former Rep.
 Katie Porter, D-Irvine, scored higher… Matsui, a veteran Democratic lawmaker who first entered the House in 2005, got high marks for her work on health and science issues.
-She’s a senior member of the House Energy and Commerce Committee, which writes legislation on health care, environment, energy, telecommunications and consumer protection.”
-Read more: How effective are California’s senators and representatives?
-New survey rates them
+She’s a senior member of the House Energy and Commerce Committee, which writes legislation on health care, environment, energy, telecommunications and consumer protection.” Read more: How effective are California’s senators and representatives?
+New survey rates them Next Congresswoman Matsui calls Sacramento ICE facility visit ‘sanitized,’ pushes for more transparency Next MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

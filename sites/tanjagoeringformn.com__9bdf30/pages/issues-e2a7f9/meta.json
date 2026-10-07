@@ -1,7 +1,9 @@
 {
  "description": "Explore Minnesota political issues like education policies, family first policies, fraud prevention, public safety, and small business support.",
  "final_url": "https://tanjagoeringformn.com/issues",
- "paid_for_by": null,
+ "fingerprint": "f71cb8bf4817622a9e664405cdae7fda98e583d4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": []
 }

@@ -1,40 +1,154 @@
 [
-"http://facebook.com/markoliiaspage",
-"https://app.leg.wa.gov/BillSummary?BillNumber=1409&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=1670&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=5036&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=1091&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=1238&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=1289&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=1329&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=1559&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=1658&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=1823&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=1846&Year=2023&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=2153&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=5048&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=5079&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=5192&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5257&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5346&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=5346&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=5447&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=5449&Year=2017",
-"https://app.leg.wa.gov/billsummary?BillNumber=5595&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=5702&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=5722&Initiative=false&Year=2021",
-"https://app.leg.wa.gov/billsummary?BillNumber=6273&Year=2015&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=6355&Year=2025&Initiative=false",
-"https://instagram.com/MarkoLiias",
-"https://markoliias.com/",
-"https://markoliias.com/about-marko",
-"https://markoliias.com/contact",
-"https://markoliias.com/endorsements",
-"https://markoliias.com/news",
-"https://markoliias.com/record",
-"https://secure.actblue.com/donate/marko-liias-4",
-"https://wsdot.wa.gov/business-wsdot/grants/public-transportation-grants/grant-programs-and-awards/move-ahead-washington-public-transportation-grant-programs",
-"https://x.com/MarkoLiias"
+{
+"text": "About Marko",
+"href": "https://markoliias.com/about-marko/"
+},
+{
+"text": "Contact",
+"href": "https://markoliias.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marko-liias-4"
+},
+{
+"text": "Endorsements",
+"href": "https://markoliias.com/endorsements/"
+},
+{
+"text": "HB 1091",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1091&Initiative=false&Year=2021"
+},
+{
+"text": "HB 1238",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1238&Initiative=false&Year=2023"
+},
+{
+"text": "HB 1289",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1289&Initiative=false&Year=2023"
+},
+{
+"text": "HB 1329",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1329&Initiative=false&Year=2023"
+},
+{
+"text": "HB 1409",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=1409&Year=2025&Initiative=false"
+},
+{
+"text": "HB 1559",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1559&Initiative=false&Year=2023"
+},
+{
+"text": "HB 1658",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1658&Initiative=false&Year=2023"
+},
+{
+"text": "HB 1670",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=1670&Year=2025&Initiative=false"
+},
+{
+"text": "HB 1823",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1823&Initiative=false&Year=2023"
+},
+{
+"text": "HB 1846",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1846&Year=2023&Initiative=false"
+},
+{
+"text": "HB 2153",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2153&Initiative=false&Year=2023"
+},
+{
+"text": "Move Ahead Washington",
+"href": "https://wsdot.wa.gov/business-wsdot/grants/public-transportation-grants/grant-programs-and-awards/move-ahead-washington-public-transportation-grant-programs"
+},
+{
+"text": "News",
+"href": "https://markoliias.com/news/"
+},
+{
+"text": "Record",
+"href": "https://markoliias.com/record/"
+},
+{
+"text": "SB 5036",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=5036&Year=2025&Initiative=false"
+},
+{
+"text": "SB 5048",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5048&Initiative=false&Year=2023"
+},
+{
+"text": "SB 5079",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5079&Initiative=false&Year=2023"
+},
+{
+"text": "SB 5192",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5192&Year=2025&Initiative=false"
+},
+{
+"text": "SB 5257",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5257&Initiative=false&Year=2023"
+},
+{
+"text": "SB 5263",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5263&Year=2025&Initiative=false"
+},
+{
+"text": "SB 5346",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=5346&Year=2025&Initiative=false"
+},
+{
+"text": "SB 5346,",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5346&Year=2025&Initiative=False"
+},
+{
+"text": "SB 5447",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5447&Initiative=false&Year=2023"
+},
+{
+"text": "SB 5449",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5449&Year=2017"
+},
+{
+"text": "SB 5595",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5595&Year=2025&Initiative=False"
+},
+{
+"text": "SB 5702",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5702&Initiative=false&Year=2023"
+},
+{
+"text": "SB 5722",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5722&Initiative=false&Year=2021"
+},
+{
+"text": "SB 6273",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=6273&Year=2015&Initiative=false"
+},
+{
+"text": "SB 6346",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=6346&Year=2025&Initiative=false"
+},
+{
+"text": "SB 6355",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=6355&Year=2025&Initiative=false"
+},
+{
+"text": "[image: Marko Liias | State Senate | 21st LD | DEM]",
+"href": "https://markoliias.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/markoliiaspage"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/MarkoLiias"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/MarkoLiias"
+}
 ]

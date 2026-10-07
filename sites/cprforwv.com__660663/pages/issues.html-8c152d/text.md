@@ -1,30 +1,10 @@
-Issues.
+Home Meet Delegate Riley News Issues Endorsements Contact & Donate Join Team Riley - Yard Sign Request Issues .
 When I was first elected to the House of Delegates in 2020, I established three primary areas of focus where I could use my engineering background to help make West Virginia a place that we along with our children and future generations could continue to be successful in.
 A place that would not only hold precious memories of growing up here, but that could also provide a stable future.
 A place as old as the mountains, for all of us to call HOME.
 As part of this mission, I proudly worked on the bills below, which I felt were of upmost importance to our communities and the growth we seek.
 Along with the list below, I was honored to be the lead sponsor on bills HB4002, HB4675, and HB2667.
 You can click on any of the bill numbers to learn more about each of them.
-HB 3231 - Public Utilities not required to pay interest on security deposits
-HB 4002 - Creating the Certified Sites and Development Readiness Program
-HB 4003 - Relating generally to commercial benefit of substances removed from waters of the state by the treatment of mine drainage
-HB 3082 - Stabilizing funding sources for the DEP Division of Air Quality
-HB 4098 - Relating to Geothermal Energy Development
-HB 4331 - West Virginia’s Urban Mass Transportation Authority Act
-HB 4484- Declaring certain claims against agencies of the state to be moral obligations of the state
-HB 4560 - Relating generally to motor vehicle dealers, distributors, wholesalers and manufacturers
-HB 4568 - To allow phased rehabilitations of certified historic structures
-HB 4608 - To require the State Fire Commission to propose minimum standards for persons to be certified as probationary status volunteer firefighters
-HB 4675 - Relating to autonomous delivery vehicles
-HB 4785- Relating to judicial vacancies
-HB 4826 - Relating to e-sports
-HB 4827 -Relating to the promotion and development of public-use vertiports
-HB 2001 - Relating generally to creating the West Virginia Jumpstart Savings Program
-HB 2002 - Relating to Broadband
-HB 2573 - Relating generally to the transparency and accountability of state grants to reduce waste, fraud, and abuse
-HB 2667 - To create a cost saving program for state buildings regarding energy efficiency
-HB 2760 - Relating to economic development incentive tax credits
-HB 2797 - Declaring certain claims to be moral obligations of the State
-HB 2830 - Relating generally to sex trafficking
-HB 2854 -Relating to the West Virginia Municipal Police Officers and Firefighters Retirement System
-HB 3089 -Make utility workers essential employees during a state of emergency
+HB 3231 - Public Utilities not required to pay interest on security deposits HB 4002 - Creating the Certified Sites and Development Readiness Program HB 4003 - Relating generally to commercial benefit of substances removed from waters of the state by the treatment of mine drainage HB 3082 - Stabilizing funding sources for the DEP Division of Air Quality HB 4098 - Relating to Geothermal Energy Development HB 4331 - West Virginia’s Urban Mass Transportation Authority Act HB 4484 - Declaring certain claims against agencies of the state to be moral obligations of the state HB 4560 - Relating generally to motor vehicle dealers, distributors, wholesalers and manufacturers HB 4568 - To allow phased rehabilitations of certified historic structures HB 4608 - To require the State Fire Commission to propose minimum standards for persons to be certified as probationary status volunteer firefighters HB 4675 - Relating to autonomous delivery vehicles HB 4785 - Relating to judicial vacancies HB 4826 - Relating to e-sports HB 4827 -Relating to the promotion and development of public-use vertiports HB 2001 - Relating generally to creating the West Virginia Jumpstart Savings Program HB 2002 - Relating to Broadband HB 2573 - Relating generally to the transparency and accountability of state grants to reduce waste, fraud, and abuse HB 2667 - To create a cost saving program for state buildings regarding energy efficiency HB 2760 - Relating to economic development incentive tax credits HB 2797 - Declaring certain claims to be moral obligations of the State HB 2830 - Relating generally to sex trafficking HB 2854 -Relating to the West Virginia Municipal Police Officers and Firefighters Retirement System HB 3089 -Make utility workers essential employees during a state of emergency Delegate Clay P.
+Riley, Serving West Virginia @CPR2025 Paid for by the Committee To Elect Clay P.
+Riley, Drew Pomeroy Treasurer Home Meet Delegate Riley News Issues Endorsements Contact & Donate Join Team Riley - Yard Sign Request

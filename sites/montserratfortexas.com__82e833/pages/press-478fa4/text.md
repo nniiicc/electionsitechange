@@ -1,54 +1,26 @@
-Endorsements, Press & News
-Endorsements
-The Austin Chronicle endorses Montserrat Garibay for Texas House District 49, May 2026
-The Austin Chronicle has endorsed Montserrat Garibay again in the Democratic primary runoff for Texas House District 49, pointing to her grassroots organizing experience and talent for bringing people into politics.
-Austin American-Statesman endorses Montserrat Garibay for Texas House District 49, May 2026
-The Austin American-Statesman has endorsed Montserrat Garibay again in the Democratic primary runoff for Texas House District 49, citing the need for her expertise to champion quality public schools.
-Montserrat’s campaign surges with a string of progressive endorsements for Texas House District 49, May 2026
-In the fight against the extreme Trump-Abbott agenda, progressive organizations Latino Victory and Moms Against Greg Abbott have endorsed Montserrat Garibay’s campaign for Texas House District 49, along with earning a Gun Sense Distinction from Mom’s Demand Action and a 100% rating from Planned Parenthood Texas Votes.
-Texas AFL-CIO endorses Montserrat Garibay for Texas House District 49, March 2026
-The Texas AFL-CIO, representing more than 250,000 working Texans, has endorsed Montserrat Garibay for Texas House District 49.
+0 Skip to Content ABOUT ISSUES PRESS RUNOFF HUB JOIN THE TEAM DONATE Open Menu Close Menu ABOUT ISSUES PRESS RUNOFF HUB JOIN THE TEAM DONATE Open Menu Close Menu ABOUT ISSUES PRESS RUNOFF HUB JOIN THE TEAM DONATE Endorsements, Press & News Endorsements The Austin Chronicle endorses Montserrat Garibay for Texas House District 49, May 2026 The Austin Chronicle has endorsed Montserrat Garibay again in the Democratic primary runoff for Texas House District 49, pointing to her grassroots organizing experience and talent for bringing people into politics.
+Read the full endorsement → Austin American-Statesman endorses Montserrat Garibay for Texas House District 49 , May 2026 The Austin American-Statesman has endorsed Montserrat Garibay again in the Democratic primary runoff for Texas House District 49, citing the need for her expertise to champion quality public schools.
+Read the full endorsement → Montserrat’s campaign surges with a string of progressive endorsements for Texas House District 49, May 2026 In the fight against the extreme Trump-Abbott agenda, progressive organizations Latino Victory and Moms Against Greg Abbott have endorsed Montserrat Garibay’s campaign for Texas House District 49, along with earning a Gun Sense Distinction from Mom’s Demand Action and a 100% rating from Planned Parenthood Texas Votes.
+Texas AFL-CIO endorses Montserrat Garibay for Texas House District 49, March 2026 The Texas AFL-CIO, representing more than 250,000 working Texans, has endorsed Montserrat Garibay for Texas House District 49.
 Montserrat served as Secretary-Treasurer of the Texas AFL-CIO — the first Latina ever elected to that role — and has spent 25 years fighting for working families in Austin and across the state.
-The Austin Chronicle endorses Montserrat Garibay for Texas House District 49, March 2026
-The Austin Chronicle endorsed Montserrat Garibay for Texas House District 49 in its March 2026 primary election endorsements.
-Congressman Greg Casar endorses Montserrat Garibay for Texas House District 49, March 2026
-U.S.
+The Austin Chronicle endorses Montserrat Garibay for Texas House District 49, March 2026 The Austin Chronicle endorsed Montserrat Garibay for Texas House District 49 in its March 2026 primary election endorsements.
+Read the full endorsement → Congressman Greg Casar endorses Montserrat Garibay for Texas House District 49, March 2026 U.S.
 Representative Greg Casar (TX-35) has endorsed Montserrat Garibay for Texas House District 49.
 Casar represents the district that includes UT Austin and has been one of the most progressive voices in the Texas congressional delegation.
-Dolores Huerta endorses Montserrat Garibay for Texas House District 49, March 2026
-Civil rights legend and co-founder of the United Farm Workers, Dolores Huerta, has endorsed Montserrat Garibay for Texas House District 49.
+Dolores Huerta endorses Montserrat Garibay for Texas House District 49, March 2026 Civil rights legend and co-founder of the United Farm Workers, Dolores Huerta, has endorsed Montserrat Garibay for Texas House District 49.
 Huerta's endorsement reflects Montserrat's lifetime of work on behalf of working families, immigrants, and the labor movement.
 Former U.S.
-Secretary of Education Miguel Cardona endorses Montserrat Garibay for Texas House District 49, March 2026
-Former U.S.
+Secretary of Education Miguel Cardona endorses Montserrat Garibay for Texas House District 49, March 2026 Former U.S.
 Secretary of Education Miguel Cardona has endorsed Montserrat Garibay for Texas House District 49.
 Cardona served alongside Montserrat during the Biden-Harris Administration, where she worked as Deputy Assistant Secretary at the Department of Education.
-Texas AFT COPE endorses Montserrat Garibay for Texas House District 49, March 2026
-Texas AFT COPE — the political action arm of the Texas American Federation of Teachers — endorsed Montserrat Garibay for Texas House District 49.
+Texas AFT COPE endorses Montserrat Garibay for Texas House District 49, March 2026 Texas AFT COPE — the political action arm of the Texas American Federation of Teachers — endorsed Montserrat Garibay for Texas House District 49.
 The endorsement recognized Montserrat's deep roots in education and her record of fighting for public school funding and teachers' rights.
-In the News
-Community Impact profiles the candidates for Texas House District 49, May 2026
-Learn more about Montserrat’s experience fighting for working families in her profile in Community Impact.
-Elecciones de desempate en Texas: conoce a Montserrat Garibay y a Katie Tovo, candidatas al Distrito 49 — Univision, May 2, 2026
-2 candidates vying for Gina Hinojosa's seat in Texas House District 49 | Texas This Week — KVUE, May 3, 2026
-The Last Two Standing to Represent the City’s Core — The Austin Chronicle, April 30, 2026
-Q&A: Garibay and Tovo talk runoff, why they should represent UT — The Daily Texan, March 30, 2026
-Garibay and Tovo Emerge From a Crowded Texas House District 49 — The Austin Chronicle, March 6, 2026
-Garibay, Tovo advance to Texas House District 49 runoff election — The Daily Texan, March 4, 2026
-Incumbents prevail in Texas legislative battles — Texas Tribune, March 4, 2026
-See unofficial voting results for Central Texas area House reps — Community Impact, March 3, 2026.
+Read the full endorsement → In the News Community Impact profiles the candidates for Texas House District 49, May 2026 Learn more about Montserrat’s experience fighting for working families in her profile in Community Impact.
+Read the full article → Elecciones de desempate en Texas: conoce a Montserrat Garibay y a Katie Tovo, candidatas al Distrito 49 — Univision, May 2, 2026 Read the full story → 2 candidates vying for Gina Hinojosa's seat in Texas House District 49 | Texas This Week — KVUE, May 3, 2026 Read the full story → The Last Two Standing to Represent the City’s Core — The Austin Chronicle , April 30, 2026 Read the full story → Q&A: Garibay and Tovo talk runoff, why they should represent UT — The Daily Texan , March 30, 2026 Read the full story → Garibay and Tovo Emerge From a Crowded Texas House District 49 — The Austin Chronicle , March 6, 2026 Read the full story → Garibay, Tovo advance to Texas House District 49 runoff election — The Daily Texan , March 4, 2026 Read the full story → Incumbents prevail in Texas legislative battles — Texas Tribune , March 4, 2026 Read the full story → See unofficial voting results for Central Texas area House reps — Community Impact , March 3, 2026.
 Montserrat Garibay led the field heading into the May 26 runoff.
-Labor wins big on primary election night.
-Texas is just getting started. — Texas AFT, March 2026
-Meet the top contenders to represent UT's district in the Texas House —The Daily Texan, March 2, 2026
-Local candidates talk housing affordability at town hall — The Daily Texan, February 16, 2026
-Montserrat Garibay, Kathie Tovo lead fundraising in Texas House District 49 race — The Daily Texan, January 27, 2026
-Q&A: Meet the Democratic candidates running for Texas House District 49 ahead of the March primary —Community Impact, January 22, 2026
-Texas House Democrats Austin primary election fundraising — Axios Austin, January 16, 2026
-Can labor candidates help Texas Dems win back power? — Texas Observer, 2026
-Democrats jockey to fill empty seats at the Texas House of Representatives — The Austin Chronicle, 2026
-Garibay ready to lead on education in Texas House District 49 — Austin American-Statesman, March 2026
-2026 Austin, Texas, primary election endorsements — Austin American-Statesman, 2026
-Primary election voter guide 2026 — Texas House District 49 — KVUE, 2026
-Estudiantes y docentes marchan contra SB 37 que restringe la libertad académica — Univision Austin, 2026
-'A place for us at the table': Alumna, former educator launches campaign for Texas state representative — The Daily Texan, November 11, 2025
+Read the full story → Labor wins big on primary election night.
+Texas is just getting started. — Texas AFT , March 2026 Read the full story → Meet the top contenders to represent UT's district in the Texas House — The Daily Texan , March 2, 2026 Read the full story → Local candidates talk housing affordability at town hall — The Daily Texan , February 16, 2026 Read the full story → Montserrat Garibay, Kathie Tovo lead fundraising in Texas House District 49 race — The Daily Texan , January 27, 2026 Read the full story → Q&A: Meet the Democratic candidates running for Texas House District 49 ahead of the March primary — Community Impact , January 22, 2026 Read the full story → Texas House Democrats Austin primary election fundraising — Axios Austin , January 16, 2026 Read the full story → Can labor candidates help Texas Dems win back power? — Texas Observer , 2026 Read the full story → Democrats jockey to fill empty seats at the Texas House of Representatives — The Austin Chronicle , 2026 Read the full story → Garibay ready to lead on education in Texas House District 49 — Austin American-Statesman , March 2026 Read the full story → 2026 Austin, Texas, primary election endorsements — Austin American-Statesman , 2026 Read the full story → Primary election voter guide 2026 — Texas House District 49 — KVUE , 2026 Read the full story → Estudiantes y docentes marchan contra SB 37 que restringe la libertad académica — Univision Austin , 2026 Ver la historia completa → 'A place for us at the table': Alumna, former educator launches campaign for Texas state representative — The Daily Texan , November 11, 2025 Read the full story → MONTSERRAT GARIBAY FOR TEXAS HOUSE DISTRICT 49 If you wish to mail your contribution, please mail to: Montserrat Garibay Campaign P.O.
+Box 80498 Austin, TX 78708 CONTACT Pol.
+Adv. paid for by Montserrat Garibay Campaign.
+Rick Levy, Treasurer.
+DONATE

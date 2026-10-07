@@ -1,25 +1,2 @@
-Skip to content
-HOME
-GET TO KNOW DEB
-FUNDING
-QUALIFICATIONS
-COMMUNITY CONNECTIONS
-CONTACT
-DONATE
-Vote “YES” for
-Deb Manjarrez, House of Representatives
-14th District, Position #2
-GET TO KNOW DEB
-Vote “YES” for
-Deb Manjarrez, House of Representatives
-14th District, Position #2
-GET TO KNOW DEB
-QUALIFICATIONS
-CONNECT
-HOME
-GET TO KNOW DEB
-FUNDING
-QUALIFICATIONS
-COMMUNITY CONNECTIONS
-CONTACT
-DONATE
+Skip to content HOME GET TO KNOW DEB FUNDING QUALIFICATIONS COMMUNITY CONNECTIONS CONTACT DONATE Vote “YES” for Deb Manjarrez, House of Representatives 14th District, Position #2 GET TO KNOW DEB Vote “YES” for Deb Manjarrez, House of Representatives 14th District, Position #2 GET TO KNOW DEB QUALIFICATIONS CONNECT Copyright # © Paid for by Friends of Deb Manjarrez (R) | P.O.
+Box 9634 Yakima, WA 98909 HOME GET TO KNOW DEB FUNDING QUALIFICATIONS COMMUNITY CONNECTIONS CONTACT DONATE

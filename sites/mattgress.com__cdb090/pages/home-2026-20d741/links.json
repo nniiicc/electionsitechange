@@ -1,8 +1,38 @@
 [
-"https://mattgress.com/",
-"https://mattgress.com/cart",
-"https://mattgress.com/home",
-"https://mattgress.com/home-2026",
-"https://mattgress.com/media-kit",
-"https://secure.winred.com/arizonans-for-matt-gress/donate"
+{
+"text": "0",
+"href": "https://www.mattgress.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/arizonans-for-matt-gress/donate"
+},
+{
+"text": "Fighting for Arizona Families",
+"href": "https://www.mattgress.com/home-2026#fighting"
+},
+{
+"text": "JOIN TEAM GRESS",
+"href": "https://secure.winred.com/arizonans-for-matt-gress/donate"
+},
+{
+"text": "Join Team Gress",
+"href": "https://www.mattgress.com/home"
+},
+{
+"text": "Media Kit",
+"href": "https://www.mattgress.com/media-kit"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.mattgress.com/home-2026#meet-matt"
+},
+{
+"text": "See the Results",
+"href": "https://www.mattgress.com/home-2026#results"
+},
+{
+"text": "[image: Matt Gress for Arizona House]",
+"href": "https://www.mattgress.com/"
+}
 ]

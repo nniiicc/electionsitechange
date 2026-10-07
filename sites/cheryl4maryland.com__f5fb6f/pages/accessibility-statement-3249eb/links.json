@@ -1,10 +1,50 @@
 [
-"https://cheryl4maryland.com/",
-"https://cheryl4maryland.com/accessibility-statement",
-"https://cheryl4maryland.com/privacy-policy",
-"https://facebook.com/cheryl4maryland",
-"https://secure.anedot.com/cherylriley/congress",
-"https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site",
-"https://twitter.com/cheryl4moco",
-"https://wix.com/studio"
+{
+"text": "ABOUT",
+"href": "https://www.cheryl4maryland.com"
+},
+{
+"text": "ACCESSIBILITY STATEMENT",
+"href": "https://www.cheryl4maryland.com/accessibility-statement"
+},
+{
+"text": "Accessibility: Adding an Accessibility Statement to Your Site",
+"href": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+},
+{
+"text": "CHERYL RILEY FOR CONGRESS, MD-8",
+"href": "https://www.cheryl4maryland.com"
+},
+{
+"text": "CONTACT CHERYL",
+"href": "https://www.cheryl4maryland.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cherylriley/congress"
+},
+{
+"text": "HOME",
+"href": "https://www.cheryl4maryland.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.cheryl4maryland.com/privacy-policy"
+},
+{
+"text": "Wix Studio™",
+"href": "https://www.wix.com/studio"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/cheryl4maryland"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/cheryl4moco"
+},
+{
+"text": "[no text]",
+"href": "https://www.cheryl4maryland.com/accessibility-statement"
+}
 ]

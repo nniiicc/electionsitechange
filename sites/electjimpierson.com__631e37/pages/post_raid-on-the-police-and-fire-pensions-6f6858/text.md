@@ -1,13 +1,10 @@
-Raid on the Police and Fire Pensions?
-Updated: Jun 5
-Recently, Washington Republican leader Jim Walsh argued that Democrats conducted a "raid on the police and fire pension fund." (See 6:10)
-I have also heard similar concerns from retired police officers and firefighters who believe money is being taken from the LEOFF 1 retirement system.
+top of page Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback Menu Close All Posts Raid on the Police and Fire Pensions? jemzpierson Jun 3 3 min read Updated: Jun 5 Recently, Washington Republican leader Jim Walsh argued that Democrats conducted a " raid on the police and fire pension fund. " (See 6:10) I have also heard similar concerns from retired police officers and firefighters who believe money is being taken from the LEOFF 1 retirement system.
 Naturally, I wanted to understand what was really happening.
 My first question was simple: Are retirees seeing their monthly pension checks reduced?
 The answer appears to be no.
 Retired LEOFF 1 members continue to receive their pensions, and they continue to receive annual cost-of-living adjustments.
 So why are people upset?
-The concern centers on HB 2034, signed into law this year.
+The concern centers on HB 2034 , signed into law this year.
 The bill restructures LEOFF Plan 1 and directs that, beginning in 2029, assets equal to 110 percent of the plan's projected liabilities be transferred into a restated retirement fund for retirees.
 Any remaining assets would be transferred into a Pension Surplus Holding Account and continue to be invested until otherwise directed by law.
 Critics argue that once surplus assets are separated from the retirement fund, future legislatures could use those funds for purposes other than supporting retired law enforcement officers and firefighters.
@@ -47,4 +44,6 @@ The debate is less about current pension checks, which continue unchanged, and m
 Washingtonians deserve honest explanations, not alarming sound bites.
 Retired teachers, police officers, and firefighters all spent their careers serving our communities.
 They deserve a retirement system that is sustainable, transparent, and fair to everyone involved.
-(This blog has been updated to reflect final wording of the bill.)
+(This blog has been updated to reflect final wording of the bill.) Recent Posts See All Private Interests, Public Office More Seniors Qualify for Property Tax Relief.
+Is That the Plan, Make Voting Harder?
+GET INVOLVED WITH OUR TEAM DONATE VOLUNTEER Paid for by Vote 4 Jim Pierson | PO Box 41 East Olympia, WA 98540 Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback bottom of page

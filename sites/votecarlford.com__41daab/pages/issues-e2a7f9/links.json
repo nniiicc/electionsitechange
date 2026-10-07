@@ -1,16 +1,62 @@
 [
-"http://votecarlford.com/agriculture",
-"http://votecarlford.com/economic-development",
-"http://votecarlford.com/education",
-"http://votecarlford.com/family",
-"http://votecarlford.com/military",
-"http://votecarlford.com/second-amendment-rights",
-"https://facebook.com/VoteCarlFord",
-"https://secure.anedot.com/comm2electcford/donate",
-"https://twitter.com/VoteCarlFord",
-"https://votecarlford.com/",
-"https://votecarlford.com/contact",
-"https://votecarlford.com/events",
-"https://votecarlford.com/issues",
-"https://votecarlford.com/meet-carl"
+{
+"text": "Carl Ford",
+"href": "https://www.votecarlford.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.votecarlford.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/comm2electcford/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votecarlford.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votecarlford.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votecarlford.com/issues"
+},
+{
+"text": "Meet Carl",
+"href": "https://www.votecarlford.com/meet-carl"
+},
+{
+"text": "[image: 2nd@3x.png]",
+"href": "http://votecarlford.com/second-amendment-rights"
+},
+{
+"text": "[image: ag@3x.png]",
+"href": "http://votecarlford.com/agriculture"
+},
+{
+"text": "[image: dev@3x.png]",
+"href": "http://votecarlford.com/economic-development"
+},
+{
+"text": "[image: edu+square@3x.png]",
+"href": "http://votecarlford.com/education"
+},
+{
+"text": "[image: fam@3x.png]",
+"href": "http://votecarlford.com/family"
+},
+{
+"text": "[image: mil@3x.png]",
+"href": "http://votecarlford.com/military"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteCarlFord"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteCarlFord/"
+}
 ]

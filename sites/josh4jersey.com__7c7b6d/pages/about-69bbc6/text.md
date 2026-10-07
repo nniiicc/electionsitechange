@@ -1,9 +1,6 @@
-Lower Taxes.
+Skip to content Chip in $10 Today to Support Josh for Jersey CHIP IN NOW TO STAND WITH JOSH Donate now to support Josh Gottheimer and stand up for our shared Jersey Values. $5 $5 $25 $25 $100 $100 $10 $10 $50 $50 Other Amount Other Amount Home About Josh Get Involved Home About Josh Get Involved Donate Donate Donate Donate Lower Taxes.
 Jersey Values.
-Jersey Values
-MEET Josh Gottheimer
-Standing Up For Our Shared Jersey Values
-First elected in 2016, Josh Gottheimer represents New Jersey’s Fifth Congressional District, which starting in January, will include most of Bergen, and parts of Sussex and Passaic counties.
+Jersey Values MEET Josh Gottheimer Standing Up For Our Shared Jersey Values First elected in 2016, Josh Gottheimer represents New Jersey’s Fifth Congressional District, which starting in January, will include most of Bergen, and parts of Sussex and Passaic counties.
 No matter the challenge, Josh believes that by working together our best days will always be ahead of us.
 It’s a lesson he learned from his parents growing up in North Caldwell, New Jersey.
 Josh’s mom was a nursery school teacher.
@@ -13,8 +10,7 @@ The family business didn’t have an official slogan, but it easily could have b
 After graduating from West Essex High School, Josh went on to the University of Pennsylvania, became a Thouron Fellow at Oxford, and then paid his way through Harvard Law School.
 It was during Josh’s freshman year of high school that Senator Frank Lautenberg passed legislation banning smoking on all airplane flights, teaching him that one person could make a difference.
 Because of this, in high school, Josh applied to be a Senate page for Senator Lautenberg, his first step in a career in public service that included serving as one of the youngest speechwriters in White House history.
-Problem Solver
-Josh went on to take a position as a Senior Advisor to the Chair of the U.S.
+Problem Solver Josh went on to take a position as a Senior Advisor to the Chair of the U.S.
 Commission on Civil Rights, and later served as Senior Advisor to the Chairman at the Federal Communications Commission (FCC), where he was the first Director of Public-Private Initiatives.
 Josh built on his experience at the FCC to help create a not-for-profit organization that partners with wireless companies to bring affordable high-speed Internet access to low-income students in New Jersey.
 Prior to serving in Congress, Josh worked at Ford Motor Company and Microsoft, both companies that harness technology and innovation to create jobs and lead America forward.
@@ -29,8 +25,7 @@ When he got to Congress, Josh quickly began working with local officials to claw
 After Congress passed a Tax Hike Bill that took a two-by-four to our state, Josh introduced a Tax Cut Plan and has helped lead the charge to reinstate SALT (the State and Local Tax deduction) to help lower the tax burden on New Jersey’s families.
 Josh is focused on clawing investment back to New Jersey, so that our towns and counties can lower property taxes.
 He has delivered 112% more investment back to the District since taking office.
-REAL SOLUTIONS FOR JERSEY
-There is no responsibility that Josh takes more seriously than protecting our families and communities.
+REAL SOLUTIONS FOR JERSEY There is no responsibility that Josh takes more seriously than protecting our families and communities.
 Josh always has and always will continue to stand up for the veterans and first responders who put their lives on the line for us.
 The first bill that Josh introduced and passed when he got to Congress was to help our veterans secure jobs after they return home.
 Josh has also made it easier for our nation’s heroes to get the health care they need here in the District.
@@ -43,3 +38,11 @@ Josh serves as the only Member of the NJ delegation on the Financial Services Co
 In the 117th Congress, Josh was appointed to the House Homeland Security Committee as a member of two key subcommittees including Intelligence and Counterterrorism & Transportation and Maritime Security.
 Josh lives in Wyckoff, NJ with his wife, Marla, and their two children, Ellie and Ben.
 Just like their dad, the highlight of every summer are their family trips to the Jersey Shore and listening to Bruce Springsteen.
+SIGN UP AND JOIN THE TEAM Email Address Zip Code Phone Number (Optional) By providing your cell phone number, you agree to receive texts to your number from Josh Gottheimer for Congress about voting and volunteer opportunities.
+Msg frequency varies.
+Reply STOP to opt-out.
+Reply HELP for help or more information.
+Msg and data rates may apply.
+View our Privacy Policy and Terms and Conditions .
+Josh Gottheimer for Congress PO Box 584 Ridgewood, NJ 07451 Contact Privacy Policy Accessibility # © Josh Gottheimer for Congress | All Rights Reserved Powered by Apollo Home About Josh Media Contact Donate Donate Get Involved Press Inquiry Facebook X-twitter Instagram Youtube Linkedin PAID FOR BY JOSH GOTTHEIMER FOR CONGRESS, PO Box 584 Ridgewood, NJ 07451 Powered by Apollo Chip In to Support Josh Lower Taxes.
+Jersey Values. $5 $5 $25 $25 $50 $50 $100 $100 Home About Josh Get Involved Donate Donate Facebook X-twitter Instagram Youtube Linkedin

@@ -1,33 +1,154 @@
 [
-"https://apolloartistry.com/",
-"https://odusfortexas.com/",
-"https://odusfortexas.com/about",
-"https://odusfortexas.com/accessibility",
-"https://odusfortexas.com/cdn-cgi/l/email-protection",
-"https://odusfortexas.com/district-map",
-"https://odusfortexas.com/donate",
-"https://odusfortexas.com/endorsements",
-"https://odusfortexas.com/facebook",
-"https://odusfortexas.com/instagram",
-"https://odusfortexas.com/issues",
-"https://odusfortexas.com/news",
-"https://odusfortexas.com/privacy-policy",
-"https://odusfortexas.com/store",
-"https://odusfortexas.com/take-action",
-"https://odusfortexas.com/threads",
-"https://odusfortexas.com/tiktok",
-"https://odusfortexas.com/twitter",
-"https://odusfortexas.com/youtube",
-"https://secure.actblue.com/donate/oduswebsite",
-"https://secure.actblue.com/donate/oduswebsite?amount=10",
-"https://secure.actblue.com/donate/oduswebsite?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/oduswebsite?amount=100",
-"https://secure.actblue.com/donate/oduswebsite?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/oduswebsite?amount=25",
-"https://secure.actblue.com/donate/oduswebsite?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/oduswebsite?amount=250",
-"https://secure.actblue.com/donate/oduswebsite?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/oduswebsite?amount=50",
-"https://secure.actblue.com/donate/oduswebsite?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/oduswebsite?amount=500&express_lane=true"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=50&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=500&express_lane=true"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/oduswebsite?amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://odusfortexas.com/accessibility"
+},
+{
+"text": "By submitting your cell phone number you are agreeing to receive periodic text messages from the Odus for Texas. Message and data rates may apply. Text HELP for more information. Text STOP to stop receiving messages. Privacy Policy.",
+"href": "https://odusfortexas.com/privacy-policy"
+},
+{
+"text": "Contact",
+"href": "mailto:team@odusfortexas.com"
+},
+{
+"text": "District",
+"href": "https://odusfortexas.com/district-map"
+},
+{
+"text": "Donate Donate",
+"href": "https://odusfortexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://odusfortexas.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://odusfortexas.com/facebook"
+},
+{
+"text": "Instagram",
+"href": "https://odusfortexas.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://odusfortexas.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://odusfortexas.com/issues/"
+},
+{
+"text": "Meet Odus",
+"href": "https://odusfortexas.com/about"
+},
+{
+"text": "Meet Odus",
+"href": "https://odusfortexas.com/about/"
+},
+{
+"text": "News",
+"href": "https://odusfortexas.com/news"
+},
+{
+"text": "News",
+"href": "https://odusfortexas.com/news/"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/oduswebsite"
+},
+{
+"text": "Other Amount...",
+"href": "https://secure.actblue.com/donate/oduswebsite"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:media@odusfortexas.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://odusfortexas.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://odusfortexas.com/store"
+},
+{
+"text": "Take Action",
+"href": "https://odusfortexas.com/take-action"
+},
+{
+"text": "Take Action",
+"href": "https://odusfortexas.com/take-action/"
+},
+{
+"text": "Threads",
+"href": "https://odusfortexas.com/threads"
+},
+{
+"text": "Tiktok",
+"href": "https://odusfortexas.com/tiktok"
+},
+{
+"text": "X-twitter",
+"href": "https://odusfortexas.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://odusfortexas.com/youtube"
+},
+{
+"text": "[image]",
+"href": "https://odusfortexas.com"
+}
 ]

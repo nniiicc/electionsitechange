@@ -1,8 +1,6 @@
-top of page
-The Front Yard of America Classic!
-Registration for Senator Mark Walczyk's
-"5th Annual Front Yard of America Classic"
-is now open!
+top of page M A R K WALCZYK PRINCIPLED FIGHTER Home About Get Involved Contact Events ​Front Yard Of America Classic DONATE SUBSCRIBE YARD SIGNS The Front Yard of America Classic!
+Registration for Senator Mark Walczyk's "5th Annual Front Yard of America Classic" is now open!
 Register for golf HERE!
 Add your name or business to our great list of sponsors this year!
-bottom of page
+FREEDOM FIRST New York Always DONATE VOLUNTEER SUBSCRIBE ​ Get the latest updates from the campaign trail First Name Enter your email address Subscribe Thanks for subscribing!
+Home About Endorsements Get Involved Contact ​ MARK WALCZYK - FOR SENATE - © # paid for by the Friends of Walczyk Friends of Walczyk 1 Public Square, Box 11B Watertown, NY 13601 Email Our Team (315) 608-3023 bottom of page

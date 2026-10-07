@@ -1,4 +1,10 @@
 [
-"http://leeformontana.org/",
-"https://leeformontana.org/"
+{
+"text": "Home",
+"href": "https://leeformontana.org/"
+},
+{
+"text": "leeformontana.org",
+"href": "http://leeformontana.org"
+}
 ]

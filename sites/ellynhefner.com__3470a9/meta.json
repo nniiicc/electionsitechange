@@ -1,7 +1,11 @@
 {
  "description": "Ellyn Hefner is running for the Oklahoma House of Representatives.",
  "final_url": "https://www.ellynhefner.com/",
- "paid_for_by": null,
+ "fingerprint": "0f4d454aaf6c462a1da05bd1992216591e79a911",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Ellyn Hefner 2026 bottom of page",
  "title": "HOME | Ellyn Hefner HD 87",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

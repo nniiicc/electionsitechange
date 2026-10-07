@@ -1,7 +1,11 @@
 {
  "description": "Get to know more about Illinois House Representative, Steve Reick. Steve is running for re-election is the newly drawn 63rd District.",
  "final_url": "https://ilikereick.com/about/",
- "paid_for_by": null,
+ "fingerprint": "aee90268f364143f364b2bdbd972f9e24a526e48",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Illinois House Representative - About Steve Reick - I Like Reick",
- "years_mentioned": []
+ "years_mentioned": [
+  "2017"
+ ]
 }

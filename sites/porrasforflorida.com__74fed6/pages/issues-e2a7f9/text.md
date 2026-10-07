@@ -1,10 +1,1 @@
-About
-Issues
-Legislative Accomplishments
-Media
-Donate
-Issues
-Continue fighting corruption in HOAs across the state of Florida
-Cut taxes and keep more money in your pockets
-Protect our communities and keep our families safe
-Lower property insurance rates
+About Issues Legislative Accomplishments Media Donate Issues Continue fighting corruption in HOAs across the state of Florida Cut taxes and keep more money in your pockets Protect our communities and keep our families safe Lower property insurance rates About Issues Legislative Accomplishments Media Privacy Policy Political advertisement paid for and approved by Juan Carlos Porras, Republican for Florida House of Representatives District 119.

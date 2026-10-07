@@ -1,8 +1,30 @@
 [
-"https://desi4idaho.com/",
-"https://desi4idaho.com/how-can-i-help",
-"https://desi4idaho.com/meet-desi",
-"https://facebook.com/desi4idaho",
-"https://instagram.com/desi4idaho",
-"https://secure.anedot.com/desi-burbank-for-idaho/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/desi-burbank-for-idaho/donate"
+},
+{
+"text": "Home",
+"href": "https://desi4idaho.com/"
+},
+{
+"text": "How Can I Help?",
+"href": "https://desi4idaho.com/how-can-i-help"
+},
+{
+"text": "Meet Desi",
+"href": "https://desi4idaho.com/meet-desi"
+},
+{
+"text": "[image]",
+"href": "https://desi4idaho.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/desi4idaho"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/desi4idaho"
+}
 ]

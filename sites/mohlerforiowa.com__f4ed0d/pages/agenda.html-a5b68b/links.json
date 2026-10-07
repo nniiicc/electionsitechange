@@ -1,20 +1,94 @@
 [
-"https://iowaledger.com/",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/aea-restoration.html",
-"https://mohlerforiowa.com/agenda/ag-transition.html",
-"https://mohlerforiowa.com/agenda/family-farms.html",
-"https://mohlerforiowa.com/agenda/healthy-water.html",
-"https://mohlerforiowa.com/agenda/labor-rights.html",
-"https://mohlerforiowa.com/agenda/minimum-wage.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/agenda/rural-healthcare.html",
-"https://mohlerforiowa.com/agenda/school-funding.html",
-"https://mohlerforiowa.com/agenda/tools-for-schools.html",
-"https://mohlerforiowa.com/agenda/vouchers.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "How it all gets paid forPay As You Go ActEvery bill in this series has to answer one question: how do you pay for it? My answer is a law, not a promise.See how the budget balances",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "educationHELP ActHelping Every Learner ProgressIf your child needed a speech pathologist in Moravia or Moulton, Iowa's Area Education Agencies made sure our schools could provide one.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/aea-restoration.html"
+},
+{
+"text": "educationOPEN ActOversight of Public Expenditures at Nonpublic SchoolsIowa already had school choice. Open enrollment has let families pick a public district since 1989, and private schools and homeschooling were always an option. The voucher program mostly changed who pays tuition.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/vouchers.html"
+},
+{
+"text": "educationPACE ActPay As Costs EscalateIowa schools got a 2 percent raise in state aid this year. Prices rose about 2.6 percent last year. Every raise since school year 2022-23 has been smaller than the rise in prices the year before it.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/school-funding.html"
+},
+{
+"text": "educationTools for Schools ActI've designed tools and systems for a living. A good tool solves a problem and lasts for years under hard use, but none of that engineering matters without skilled hands on the shop floor to build it.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/tools-for-schools.html"
+},
+{
+"text": "healthcareCARE ActClinics, Ambulances, Rural Hospitals and Emergency CareWhen my son Asher got sick in the middle of the night, we rushed him to Monroe County Hospital in Albia. The doctor on staff knew at once and called for a life flight. That's what a hospital close to home is worth.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/rural-healthcare.html"
+},
+{
+"text": "water and agFAIR ActFarmers' Access to Independent Markets and RepairIowa family farmers take all the risk, do the hard work, and care for our soil. Right now they're caught in a vise. On one end, a handful of fertilizer, seed and chemical companies set the price of every input.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/family-farms.html"
+},
+{
+"text": "water and agFUEL ActFund for Uplands, Enterprise and LivestockThis isn't a bill against ethanol. It's a plan for what comes after the state's ethanol and biodiesel tax credits, which already end January 1, 2028, under current law.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/ag-transition.html"
+},
+{
+"text": "water and agSTREAM ActStewardship That Rewards Every Acre ManagedProtecting our water starts by ensuring conservation makes financial sense for family farms. Farmers are the stewards of our land, and keeping that heritage viable protects resources for the next generation.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/healthy-water.html"
+},
+{
+"text": "workersLABOR ActLabor Agreements, Bargaining, and Organizing RightsEvery county in our district has sheriff's deputies and road crews on the county payroll. State law treats them differently.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/labor-rights.html"
+},
+{
+"text": "workersRAISE ActRaising And Indexing State EarningsIf you work full time at Iowa's minimum wage, you make $15,080 a year. Under this bill, that same job pays $23,920 starting January 1, 2029, a year later at a small business, then the floor keeps moving with Iowa's own paychecks.Read the bill",
+"href": "https://mohlerforiowa.com/agenda/minimum-wage.html"
+}
 ]

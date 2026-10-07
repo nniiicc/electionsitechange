@@ -1,13 +1,54 @@
 [
-"https://facebook.com/TroyJacksonmaine",
-"https://instagram.com/troyjackson207",
-"https://jacksonformaine.com/",
-"https://jacksonformaine.com/about",
-"https://jacksonformaine.com/events",
-"https://jacksonformaine.com/news",
-"https://jacksonformaine.com/priorities",
-"https://jacksonformaine.com/volunteer",
-"https://secure.actblue.com/donate/loc_tdj_fr_web",
-"https://x.com/troyjackson207",
-"https://youtube.com/@troyjacksonformaine"
+{
+"text": "About Troy",
+"href": "https://www.jacksonformaine.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/loc_tdj_fr_web"
+},
+{
+"text": "Events",
+"href": "https://www.jacksonformaine.com/events"
+},
+{
+"text": "News",
+"href": "https://www.jacksonformaine.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jacksonformaine.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jacksonformaine.com/volunteer"
+},
+{
+"text": "[image: Troy Jackson for U.S. Senate in Maine]",
+"href": "https://www.jacksonformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TroyJacksonmaine"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/troyjackson207"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@troyjacksonformaine"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/troyjackson207"
+},
+{
+"text": "info@jacksonformaine.com",
+"href": "mailto:info@jacksonformaine.com"
+},
+{
+"text": "press@jacksonformaine.com",
+"href": "mailto:press@jacksonformaine.com"
+}
 ]

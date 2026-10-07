@@ -1,14 +1,26 @@
-Meet Jamie Raskin
-Congressman Jamie Raskin proudly represents Maryland’s 8th Congressional District in the U.S.
+Skip to main content Skip to footer Meet Jamie Democracy Summer Election Info Endorse Volunteer Shop Donate Home Meet Jamie Election Info Democracy Summer Endorse Volunteer Shop Donate Meet Jamie Raskin Congressman Jamie Raskin proudly represents Maryland’s 8th Congressional District in the U.S.
 House of Representatives.
 He was sworn into his fifth Term at the start of the 119th Congress on January 3, 2025.
-Democracy Summer
-The Democracy Summer project trains and deploys the next generation of Democratic organizers and leaders to win elections all over America.
+Learn More Democracy Summer Mobilizing the Next Generation of Democratic Leaders and Organizers The Democracy Summer project trains and deploys the next generation of Democratic organizers and leaders to win elections all over America.
 Founded by Congressman Jamie Raskin, backed by the Democratic Congressional Campaign Committee, and buoyed by thousands of supportive alumni across the country, Democracy Summer engages high school and college-aged young people in state-of-the-art tactics in voter registration, canvassing and digital political organizing.
 Through on-line seminars with leading historians, law professors, political organizers and union and elected leaders, it provides an intensive education in the historical struggle for democratic freedom and essential lessons for effective political leadership today.
-Donate today!
+More about the program Donate today!
 Your support helps build and sustain our movement of democratic progress, hope, and reconstruction.
-Volunteer With Us
-Volunteer for our campaign to defend strong democracy and freedom in Maryland and all over America.
-Endorse Jamie!
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount Volunteer With Us Volunteer for our campaign to defend strong democracy and freedom in Maryland and all over America.
+Sign Up Endorse Jamie!
 Add your name to endorse Jamie Raskin for re-election to represent Maryland’s beautiful 8th District in the People’s House!
+Add Your Name “There’s a moral character to him.
+You just feel you want to be like Jamie.” Peter Welch U.S.
+Senator, Vermont “Jamie Raskin, Defender of Democracy Award” Jewish Democratic Council of America “In his resistance to doctrine as well as his intellect, no one today comes closer than Jamie does to the revolutionary generation’s ideal of a public servant.” Sean Wilentz Princeton historian “A hero to working families” Progressive Maryland “The best constitutional lawyer in all of Congress.” Laurence Tribe Professor Emeritus, Harvard Law School “One of the most engaged and effective proponents of real democracy in Congress today.” The Nation “A Person of the Year.
+An individual who embodies both the tragedy and resilience of our time.” The New Yorker 2021 “Washingtonian of the Year” 2021 “In the hearings for Trump’s second impeachment, to watch Raskin make his icily logical yet passionately democratic opening and closing arguments was to witness an astonishing act not just of personal courage but of civic ardor.” The New Republic “The aim of every political constitution is, or ought to be, first to obtain for rulers men who possess most wisdom to discern, and most virtue to pursue, the common good of the society. [Jamie Raskin] is exactly the kind of representative Madison had in mind, one governed by reason rather than passion, and devoted to the public good rather than to partisan interests.” Jeffrey Rosen President and CEO of the National Constitution Center “There are some Members of Congress who are universally beloved by their colleagues and respected… because of who they are as people.
+Jamie Raskin is one of those people.
+He is also just a wonderful human being and a wonderful example of a public servant.” Rachel Maddow “Maybe it’s not an accident that the fates saw to it that Raskin and Donald Trump were both elected to federal office on the same night in 2016: that just as certain dark forces sent to Washington democracy’s destroyer, a man who would have appalled the Founders with his dishonesty and proud ignorance and naked self-dealing, other forces sent democracy’s defender—an admirer of Thomas Paine and William James and the social movements that have pushed this country to live up to its stated principles, an utterly incorruptible public servant, the epitome of the kind of person the Founders envisioned running our government.” The New Republic “It was an honor of a lifetime to have served under the leadership of Jamie Raskin during the second impeachment trial of the former President.” Ted Lieu U.S.
+Representative, CA-36 “Exceptional Moral Courage in Public Service” Truman Center “Jamie Raskin Banned for Life in Russia by Vladimir Putin” “No, I will not answer any more of your stupid questions that are always attacking me or President Trump” Rep.
+Marjorie Taylor Greene “Elijah Cummings Defender of Democracy Award” Howard County Democrats New ways to show your support.
+T-shirt $24 Shop Poster $20.24 Shop Sticker Pack $10 Shop Shop the store Join the fight to defend & strengthen our democracy.
+Not ?
+Click here.
+First name Last name Email address * ZIP Code * Postal code Mobile phone Add your name Meet Jamie Democracy Summer Election Info Endorse Volunteer Shop Donate Donate by Mail Jamie Raskin for Congress P.O.
+Box 5418 Takoma Park, MD 20913 info@JamieRaskin.com (240) 847-4937 Paid for by Jamie Raskin for Congress ©# Jamie Raskin for Congress.
+All Rights Reserved.
+Privacy Policy

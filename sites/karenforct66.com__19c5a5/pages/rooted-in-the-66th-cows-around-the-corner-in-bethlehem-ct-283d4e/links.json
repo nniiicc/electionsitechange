@@ -1,21 +1,78 @@
 [
-"https://cowsaroundthecorner.com/shop",
-"https://facebook.com/karenforCt66th",
-"https://instagram.com/karen_for_ct_66th",
-"https://karenforct66.com/",
-"https://karenforct66.com/about",
-"https://karenforct66.com/calendar",
-"https://karenforct66.com/category/uncategorized",
-"https://karenforct66.com/gallery",
-"https://karenforct66.com/get-involved",
-"https://karenforct66.com/news-updates",
-"https://karenforct66.com/our-district",
-"https://karenforct66.com/towns/bethlehem",
-"https://karenforct66.com/towns/litchfield",
-"https://karenforct66.com/towns/morris",
-"https://karenforct66.com/towns/warren",
-"https://karenforct66.com/towns/woodbury",
-"https://karenforct66.com/where-i-stand",
-"https://secure.anedot.com/reddington-hughes-for-66th/donate",
-"https://youtube.com/@K66Campaign"
+{
+"text": "About",
+"href": "https://karenforct66.com/about/"
+},
+{
+"text": "Bethlehem",
+"href": "https://karenforct66.com/towns/bethlehem/"
+},
+{
+"text": "Calendar",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "Cows Around The Corner in Bethlehem, CT",
+"href": "https://www.cowsaroundthecorner.com/shop"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/reddington-hughes-for-66th/donate"
+},
+{
+"text": "Gallery",
+"href": "https://karenforct66.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://karenforct66.com/get-involved/"
+},
+{
+"text": "Litchfield",
+"href": "https://karenforct66.com/towns/litchfield/"
+},
+{
+"text": "Morris",
+"href": "https://karenforct66.com/towns/morris/"
+},
+{
+"text": "News & Updates",
+"href": "https://karenforct66.com/news-updates/"
+},
+{
+"text": "Our District",
+"href": "https://karenforct66.com/our-district/"
+},
+{
+"text": "Uncategorized",
+"href": "https://karenforct66.com/category/uncategorized/"
+},
+{
+"text": "Warren",
+"href": "https://karenforct66.com/towns/warren/"
+},
+{
+"text": "Where I Stand",
+"href": "https://karenforct66.com/where-i-stand/"
+},
+{
+"text": "Woodbury",
+"href": "https://karenforct66.com/towns/woodbury/"
+},
+{
+"text": "[image: Karen Reddington-Hughes]",
+"href": "https://karenforct66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/karenforCt66th"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karen_for_ct_66th/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@K66Campaign"
+}
 ]

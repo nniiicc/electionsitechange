@@ -1,14 +1,2 @@
-Back to All Events
-Great Food, Live Music, Cocktails and Friends
-Hosts: Craig Covey, Karen Dhyanchand, Mary Hansen, Justin Richard & Stark Young Dems
-Special Thanks to Canton Mayor Bill Sherer
-When: Friday September 18th
-Where: Allegro Spirits - 312 Cleveland Ave NW
-$30 per person at the door (suggested donation)
-Previous
-Previous
-September 2
-Still She Rises: A Celebration of Women’s Empowerment & Leadership
-Next
-Next
-September 19
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events 4th Annual Stonewall Dems Party Friday, September 18, 2026 5:00 PM 8:00 PM Allegro Spirits 312 Cleveland Avenue Northwest Canton, Ohio, 44702 United States (map) Google Calendar ICS Great Food, Live Music, Cocktails and Friends Hosts: Craig Covey, Karen Dhyanchand, Mary Hansen, Justin Richard & Stark Young Dems Special Thanks to Canton Mayor Bill Sherer When: Friday September 18th Where: Allegro Spirits - 312 Cleveland Ave NW $# per person at the door (suggested donation) Previous Previous September 2 Still She Rises: A Celebration of Women’s Empowerment & Leadership Next Next September 19 Calling All Educators Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

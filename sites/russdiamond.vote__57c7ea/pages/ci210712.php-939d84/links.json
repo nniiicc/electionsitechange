@@ -1,21 +1,86 @@
 [
-"https://abc27.com/investigators/increase-in-unemployment-fraud-in-pa-linked-to-identity-theft",
-"https://dos.pa.gov/VotingElections/OtherServicesEvents/Pages/PA-Online-Voter-Registration-Web-API---RFC.aspx",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/reels",
-"https://fox29.com/news/delaware-county-man-sentenced-for-casting-dead-mothers-ballot",
-"https://google.com/url?sa=t&rct=j&esrc=s&ved=2ahUKEwiQ9oP0yt3xAhUJXc0KHVMfAA0QFnoECAsQAA&url=https%3A%2F%2Fwww.dos.pa.gov%2FVotingElections%2FOtherServicesEvents%2FDocuments%2FWeb%2520API%2FPA%2520DOS%2520Web%2520API.Specification.1.5.2.pdf&usg=AOvVaw0ykREGGI-NVluur_ooCGgb",
-"https://instagram.com/russdiamond",
-"https://paauditor.gov/press-releases/auditor-general-depasquale-issues-audit-of-voter-registration-system-calls-for-changes-at-pennsylvania-department-of-state",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://publicinterestlegal.org/press/lawsuit-to-remove-dead-voters-in-pennsylvania-ends-with-win-for-election-integrity",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://x.com/russdiamond"
+{
+"text": "\"check a box\" stating they don't have a PennDOT or Social Security number",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "A Delaware County man pled guilty",
+"href": "https://www.fox29.com/news/delaware-county-man-sentenced-for-casting-dead-mothers-ballot"
+},
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "In March of 2020, the OVR WebAPI gained the functionality to file an application for a mail-in ballot",
+"href": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&cd=&ved=2ahUKEwiQ9oP0yt3xAhUJXc0KHVMfAA0QFnoECAsQAA&url=https%3A%2F%2Fwww.dos.pa.gov%2FVotingElections%2FOtherServicesEvents%2FDocuments%2FWeb%2520API%2FPA%2520DOS%2520Web%2520API.Specification.1.5.2.pdf&usg=AOvVaw0ykREGGI-NVluur_ooCGgb"
+},
+{
+"text": "In a settlement, the Department agreed to remove roughly 21,000 deceased voters from the SURE (Statewide Uniform Registry of Electors) system",
+"href": "https://publicinterestlegal.org/press/lawsuit-to-remove-dead-voters-in-pennsylvania-ends-with-win-for-election-integrity/"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "Recent revelations about a rash of unemployment fraud",
+"href": "https://www.abc27.com/investigators/increase-in-unemployment-fraud-in-pa-linked-to-identity-theft/"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "the OVR WebAPI",
+"href": "https://www.dos.pa.gov/VotingElections/OtherServicesEvents/Pages/PA-Online-Voter-Registration-Web-API---RFC.aspx"
+},
+{
+"text": "this damning report from Democrat Auditor General Eugene DePasquale",
+"href": "https://www.paauditor.gov/press-releases/auditor-general-depasquale-issues-audit-of-voter-registration-system-calls-for-changes-at-pennsylvania-department-of-state"
+}
 ]

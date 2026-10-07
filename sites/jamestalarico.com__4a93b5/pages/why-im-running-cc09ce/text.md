@@ -1,4 +1,4 @@
-There’s something broken in America.
+Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Why I’m Running There’s something broken in America.
 Our economy is broken.
 Our politics are broken.
 Even our relationships with each other feel broken.
@@ -24,6 +24,17 @@ Every single person bears the image of the sacred; every single person is holy �
 Those billionaires want to keep us from seeing all that we have in common.
 They want to keep us from realizing there’s far more that unites us than divides us.
 Because once we do, we’ll come together — across party, across race, across gender, across religion — to fix what’s broken in our country and take back power for ourselves and our communities.
-2,000 years ago, when the powerful few rigged the system, that barefoot rabbi walked into the seat of power and flipped over the tables of injustice.
-To those who love our country, to those who love our neighbors:
-It’s time to start flipping tables.
+2,#ago, when the powerful few rigged the system, that barefoot rabbi walked into the seat of power and flipped over the tables of injustice.
+To those who love our country, to those who love our neighbors: It’s time to start flipping tables.
+Join Our Team Join Our fight to Take Power back for working People.
+Not ?
+Click here.
+First name * Last name Email address * ZIP Code * Postal code Mobile phone SIGN UP By providing your cell phone number, you consent to receive periodic campaign updates and fundraising asks from Talarico for Texas, including by automated text message.
+Messages include donation asks.
+Message frequency varies.
+Msg & Data rates may apply.
+Text HELP for help, STOP to end.
+Terms & Privacy policy .
+Meet James Why I’m Running Issues Events Volunteer Store Donate Careers Donate by Mail Talarico for Texas PO Box 14508 Austin, TX 78761 Press Inquiries Contact Us Information Paid for by Talarico for Texas ©# Talarico for Texas.
+All Rights Reserved.
+Privacy & Terms

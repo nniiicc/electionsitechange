@@ -1,15 +1,6 @@
-Early Voting
-Democratic Primary is March 17, 2026
-More information can be found at www.cookcountyclerk.com/agency/early-voting
-Vote by Mail & Register to Vote
-You can register to vote by mail at mailvoting.cookcountyclerkil.gov or download and print an application at www.cookcountyclerk.com.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Vote Home Vote Early Voting Democratic Primary is March 17, 2026 More information can be found at www.cookcountyclerk.com/agency/early-voting Vote by Mail & Register to Vote You can register to vote by mail at mailvoting.cookcountyclerkil.gov or download and print an application at www.cookcountyclerk.com .
 If you are not yet registered to vote, visit ova.elections.il.gov to complete online.
-Track My Ballot
-To track your mail in ballot, please visit: https://www.cookcountyclerkil.gov/elections/your-voter-information#mail_ballot_status
-Find my Elected Officials
-Find who represents you!
-Visit https://www.elections.il.gov/ElectionOperations/DistrictLocator/DistrictOfficialSearchByAddress.aspx
-Other Voter Information
-The election protection hotline is Election Protection Hotline: 866-OUR-VOTE
-If you are interested in working on election day, visit www.cookcountyclerk.com/agency/work-election-day
-Find more info about voting, visit www.cookcountyclerk.com/service/your-voter-information
+Track My Ballot To track your mail in ballot, please visit: https://www.cookcountyclerkil.gov/elections/your-voter-information#mail_ballot_status Find my Elected Officials Find who represents you!
+Visit https://www.elections.il.gov/ElectionOperations/DistrictLocator/DistrictOfficialSearchByAddress.aspx Other Voter Information The election protection hotline is Election Protection Hotline: 866-OUR-VOTE If you are interested in working on election day, visit www.cookcountyclerk.com/agency/work-election-day Find more info about voting, visit www.cookcountyclerk.com/service/your-voter-information Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

@@ -1,16 +1,66 @@
 [
-"https://christianforohio.com/",
-"https://christianforohio.com/about",
-"https://christianforohio.com/events",
-"https://christianforohio.com/issues",
-"https://christianforohio.com/privacy-policy",
-"https://christianforohio.com/volunteer",
-"https://facebook.com/christianforohio",
-"https://instagram.com/jerrad.christian",
-"https://secure.actblue.com/donate/jerrad_website",
-"https://store.christianforohio.com/",
-"https://threads.com/jerrad.christian",
-"https://tiktok.com/@jerradchristian",
-"https://x.com/jerradchristian",
-"https://youtube.com/@JerradChristianResists"
+{
+"text": "About",
+"href": "https://www.christianforohio.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jerrad_website"
+},
+{
+"text": "Events",
+"href": "https://www.christianforohio.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.christianforohio.com"
+},
+{
+"text": "Issues",
+"href": "https://www.christianforohio.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.christianforohio.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.christianforohio.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.christianforohio.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/christianforohio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jerrad.christian"
+},
+{
+"text": "[image: JC-2025-Logo-Transparent-White.png]",
+"href": "https://www.christianforohio.com"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://threads.com/jerrad.christian"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jerradchristian"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/jerradchristian"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@JerradChristianResists"
+},
+{
+"text": "info@christianforohio.com",
+"href": "mailto:info@christianforohio.com"
+}
 ]

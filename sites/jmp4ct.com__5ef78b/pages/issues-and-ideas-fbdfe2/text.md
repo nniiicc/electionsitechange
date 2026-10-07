@@ -1,26 +1,12 @@
-A track record of success
-Since being elected as State Representative of the 101st district in 2020, I’ve been able to connect with thousands of constituents and help the people of Madison and Durham get the support they need from their government.
+0 Skip to Content Home Issues & Ideas About JMP Sign Up Privacy Open Menu Close Menu Home Issues & Ideas About JMP Sign Up Privacy Open Menu Close Menu Home Issues & Ideas About JMP Sign Up Privacy A track record of success Since being elected as State Representative of the 101st district in 2020, I’ve been able to connect with thousands of constituents and help the people of Madison and Durham get the support they need from their government.
 I’ve cosponsored and led passage of bipartisan legislation that supports our students and teachers and schools, conserves our environment, protects our public health, and so much more.
 And I’ve listened to the needs of our community and secured over millions in state aid for projects across the district—from the Durham Library to the Academy Community Center and the Madison Surf Club.
 During my time in the Connecticut General Assembly I’ve learned a lot—about myself, about our community, about what it takes to make real change at the capitol.
 It’s been challenging and rewarding, and I’m proud of the progress we’ve made, working closely with Democrats and Republicans to make life better for ALL people across the 101st, and the state.
-Here’s some of what we got done:
-- Secured over $10M in state funding for projects across the district, including:
-- Madison Emergency Generator, RSD13 Field House, STEAP Grants and Durham Water Project Grants, Academy Community Center, Durham Public Library, Garvan Point, Durham Town Website, American Legion Post #79, Madison Cultural Arts
-- Cut over $650 million in taxes with a budget that:
-- Creates a Child Tax Credit, Cuts property taxes for retirees, Cuts the car tax, Extends the gas tax cut, Extends free bus service, Cuts pension and annuity taxes
-- Investing in our community by
-- Addressing Children’s Mental Health Needs, Cutting Taxes to Combat Inflation, Keeping CT Safe with Juvenile Justice Reform, Making CT More Affordable for Residents, Maintaining CT’s Fiscal Integrity, Advancing Environmentally Conscious Initiatives
-And in my third term, I’ve continued to advocate for our community as Chair of the Environment Committee and as a leader in the House Democratic Caucus.
-A vision for our future
-When I launched my first campaign for State Representative in 2018 I was inspired by my community—the place where I was born and raised, and where I’d returned to start my family—and the values we aspire to.
+Here’s some of what we got done: Secured over $10M in state funding for projects across the district, including: Madison Emergency Generator, RSD13 Field House, STEAP Grants and Durham Water Project Grants, Academy Community Center, Durham Public Library, Garvan Point, Durham Town Website, American Legion Post #79, Madison Cultural Arts Cut over $650 million in taxes with a budget that: Creates a Child Tax Credit, Cuts property taxes for retirees, Cuts the car tax, Extends the gas tax cut, Extends free bus service, Cuts pension and annuity taxes Investing in our community by Addressing Children’s Mental Health Needs, Cutting Taxes to Combat Inflation, Keeping CT Safe with Juvenile Justice Reform, Making CT More Affordable for Residents, Maintaining CT’s Fiscal Integrity, Advancing Environmentally Conscious Initiatives And in my third term, I’ve continued to advocate for our community as Chair of the Environment Committee and as a leader in the House Democratic Caucus.
+A vision for our future When I launched my first campaign for State Representative in 2018 I was inspired by my community—the place where I was born and raised, and where I’d returned to start my family—and the values we aspire to.
 After serving you for 6 years in Hartford, so much has changed—in our country, our state, and in my own life.
 And yet my commitment to this work remains unbroken, and with so much more critical work to do, I’m inspired to continue this work.
-If I earn the privilege of serving the 101st district for two more years, I pledge to:
-- Continue fighting for
-- Our schools and students and teachers, our environment, our economy, and our democracy—and to help foster diversity and inclusion among our community and our state
-- Continue leading on
-- Environment, Public health, Education, Economic development
-- Defend and expand
-- Affordable and accessible healthcare, reproductive rights, gun violence prevention, voting rights
-I would love to hear from you about what’s important to you in the next two years, so please reach out to me at jmp4ct@gmail.com to share!
+If I earn the privilege of serving the 101st district for two more years, I pledge to: Continue fighting for Our schools and students and teachers, our environment, our economy, and our democracy—and to help foster diversity and inclusion among our community and our state Continue leading on Environment, Public health, Education, Economic development Defend and expand Affordable and accessible healthcare, reproductive rights, gun violence prevention, voting rights I would love to hear from you about what’s important to you in the next two years, so please reach out to me at jmp4ct@gmail.com to share!
+Paid for by Friends of JMP, Zoe Gluck, Treasurer.
+Approved by John-Michael Parker.

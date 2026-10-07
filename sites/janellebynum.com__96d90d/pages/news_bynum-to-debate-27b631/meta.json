@@ -1,9 +1,13 @@
 {
  "description": "Write your news blurb here.",
  "final_url": "https://www.janellebynum.com/news/bynum-to-debate",
- "paid_for_by": "Paid for by Janelle Bynum for Congress",
+ "fingerprint": "ec65d55a3d03d8db839dc88d8cc9afd62c7bbee3",
+ "format": 3,
+ "paid_for_by": "Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app",
  "title": "Bynum to Debate",
  "years_mentioned": [
+  "2022",
+  "2024",
   "2026"
  ]
 }

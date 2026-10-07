@@ -1,7 +1,7 @@
-Tommy Pope, a man of Faith, Courage, and Deep Conviction.
-Proven Conservative Leader & Fighter
-Meet Tommy
-His father was a sheriff, his mother was a school teacher and Tommy Pope was destined to continue their careers in public service.
+Skip to content Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Tommy Pope, a man of Faith, Courage, and Deep Conviction.
+Meet Tommy Proven Conservative Leader & Fighter See legislative updates Meet Tommy His father was a sheriff, his mother was a school teacher and Tommy Pope was destined to continue their careers in public service.
 After graduating from Rock Hill High School, Tommy pursued a degree in Business Management at the University of South Carolina.
 As a freshman, Tommy began working at the South Carolina Law Enforcement Division (SLED) as a “phone boy” — literally, the boy who answered the phones.
 Throughout his undergraduate years, in addition to his phone boy duties, Tommy ran the blood hounds, cut down marijuana fields and apprehended criminals.
+Learn More Ready, Join the Pope Team register today Support the Pope Team Donate as seen on Getting Political with Jonah Steppe (NHS) Our Address Pope for House 47 PO Box 471 York, SC 29745 803-734-2701 (Columbia) (803) 324-7574 (Local) quick links Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy stay connected Twitter Facebook-f Linkedin Youtube © All rights reserved # Tommy Pope : House 47.
+Website Design provided by Josh Ethan

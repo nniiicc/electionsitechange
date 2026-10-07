@@ -1,6 +1,6 @@
-Aug 26, 2020
-Idaho State Capitol – On Wednesday, the Idaho House passed House Bill 6, which would provide immunity from civil liability related to damages or injury from coronavirus, including for grossly negligent conduct.
+Donate Volunteer Yard Sign Home Blog / News Legislation Education Environment and Quality of Life Healthcare and Community Safety Endorsements Team D18 Voter Survey Contact Coronavirus Civil Liability Immunity Legislation Passes Idaho House Aug 26, 2020 Idaho State Capitol – On Wednesday, the Idaho House passed House Bill 6, which would provide immunity from civil liability related to damages or injury from coronavirus, including for grossly negligent conduct.
 The legislation now awaits a hearing in the Senate...
-Aug 18, 2020
-Idaho – A federal court has granted a preliminary injunction blocking enforcement of House Bill 500, the transgender athlete ban passed by a Republican supermajority during the 2020 session and signed into law by Governor Little.
+Anti-Transgender Athlete Ban Enjoined by Federal Court Aug 18, 2020 Idaho – A federal court has granted a preliminary injunction blocking enforcement of House Bill 500, the transgender athlete ban passed by a Republican supermajority during the 2020 session and signed into law by Governor Little.
 In doing so, the court found that the...
+Search Search All Issues Business / Job Creation Climate Change / Solar Rights Bill COVID 19 Criminal Justice Reform Events First Responders Compensation Gerrymandering / Voting Rights Human Rights Medicaid Expansion / Health Care Public Education Slider State of the State / Revenue Situation Taxes January 2024 September 2022 March 2022 February 2022 January 2022 May 2021 April 2021 March 2021 February 2021 January 2021 October 2020 August 2020 July 2020 June 2020 March 2020 February 2020 January 2020 April 2019 March 2019 February 2019 January 2019 January 2018 January 2017 February 2014 Paid for by Rubel for Idaho | Treasurer Sally Stone 2750 E.
+Migratory Drive, Boise, ID 83706 Follow Follow Follow

@@ -1,7 +1,26 @@
 [
-"https://facebook.com/sussman4ny",
-"https://instagram.com/sussman4ny",
-"https://nysenate.gov/legislation/bills/2025/A8560/amendment/A",
-"https://secure.winred.com/friends-of-will-sussman/website",
-"https://x.com/realWillSussman"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-will-sussman/website"
+},
+{
+"text": "Donate now",
+"href": "https://secure.winred.com/friends-of-will-sussman/website"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sussman4ny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sussman4ny/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/realWillSussman"
+},
+{
+"text": "wrote the bill",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8560/amendment/A"
+}
 ]

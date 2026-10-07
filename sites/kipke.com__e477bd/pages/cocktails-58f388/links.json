@@ -1,31 +1,146 @@
 [
-"http://kipkescholarships.com/",
-"https://facebook.com/delegatekipke",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkipke.com%2Fcocktails%2F",
-"https://instagram.com/delegate_kipke",
-"https://kipke.com/",
-"https://kipke.com/about-delegate-nic-kipke",
-"https://kipke.com/category/events",
-"https://kipke.com/category/kipke-for-senate",
-"https://kipke.com/category/news",
-"https://kipke.com/cocktails-with-kipke-3",
-"https://kipke.com/contact",
-"https://kipke.com/events",
-"https://kipke.com/issues",
-"https://kipke.com/join-nic-kipke-for-cocktails",
-"https://kipke.com/kipke-state-senate",
-"https://kipke.com/news",
-"https://kipke.com/nic-kipke-and-district-31-republican-legislative-slate-file-for-2026-election",
-"https://kipke.com/pasadena-service-league",
-"https://kipke.com/privacy-policy",
-"https://kipke.com/services",
-"https://kipke.com/tag/senate-campaign-events",
-"https://kipke.com/volunteer",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fkipke.com%2Fcocktails%2F&title=Cocktails+with+Kipke&summary=Cocktails+with+Kipke",
-"https://mojo.biz/",
-"https://secure.anedot.com/nickipke/1014event",
-"https://secure.anedot.com/nickipke/contribute",
-"https://twitter.com/intent/tweet?text=Cocktails+with+Kipke&url=https%3A%2F%2Fkipke.com%2Fcocktails%2F",
-"https://twitter.com/kipke",
-"https://youtube.com/user/NicKipke"
+{
+"text": "About",
+"href": "https://kipke.com/about-delegate-nic-kipke/"
+},
+{
+"text": "Cocktails with Kipke",
+"href": "https://kipke.com/cocktails/"
+},
+{
+"text": "Contact",
+"href": "https://kipke.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/nickipke/contribute"
+},
+{
+"text": "Events",
+"href": "https://kipke.com/category/events/"
+},
+{
+"text": "Events",
+"href": "https://kipke.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkipke.com%2Fcocktails%2F"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/delegatekipke"
+},
+{
+"text": "Home",
+"href": "https://kipke.com/"
+},
+{
+"text": "Icon-twitter-x",
+"href": "https://twitter.com/kipke"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/delegate_kipke/"
+},
+{
+"text": "Issues",
+"href": "https://kipke.com/issues/"
+},
+{
+"text": "Join Nic Kipke for Cocktails!",
+"href": "https://kipke.com/join-nic-kipke-for-cocktails/"
+},
+{
+"text": "Kipke for Senate",
+"href": "https://kipke.com/category/kipke-for-senate/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fkipke.com%2Fcocktails%2F&title=Cocktails+with+Kipke&summary=Cocktails+with+Kipke"
+},
+{
+"text": "News",
+"href": "https://kipke.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://kipke.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kipke.com/privacy-policy/"
+},
+{
+"text": "Purchase your tickets or sponsorship online today!",
+"href": "https://secure.anedot.com/nickipke/1014event"
+},
+{
+"text": "Scholarship",
+"href": "http://kipkescholarships.com/"
+},
+{
+"text": "Senate Campaign Events",
+"href": "https://kipke.com/tag/senate-campaign-events/"
+},
+{
+"text": "Service League",
+"href": "https://kipke.com/pasadena-service-league/"
+},
+{
+"text": "Services",
+"href": "https://kipke.com/services/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet/?text=Cocktails+with+Kipke&url=https%3A%2F%2Fkipke.com%2Fcocktails%2F"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/kipke"
+},
+{
+"text": "Volunteer",
+"href": "https://kipke.com/volunteer"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/NicKipke"
+},
+{
+"text": "[image: Nic Kipke]",
+"href": "https://kipke.com"
+},
+{
+"text": "[image]",
+"href": "https://www.mojo.biz/"
+},
+{
+"text": "[image]Cocktails with Kipke 3",
+"href": "https://kipke.com/cocktails-with-kipke-3/"
+},
+{
+"text": "[image]Join Nic Kipke for Cocktails!",
+"href": "https://kipke.com/join-nic-kipke-for-cocktails/"
+},
+{
+"text": "[image]Join Nic Kipke for Cocktails!Previous",
+"href": "https://kipke.com/join-nic-kipke-for-cocktails/"
+},
+{
+"text": "[image]KIPKE STATE SENATE",
+"href": "https://kipke.com/kipke-state-senate/"
+},
+{
+"text": "[image]Nic Kipke and District 31 Republican Legislative Slate File for 2026 Election",
+"href": "https://kipke.com/nic-kipke-and-district-31-republican-legislative-slate-file-for-2026-election/"
+},
+{
+"text": "kipke@kipke.com",
+"href": "mailto:kipke@kipke.com"
+},
+{
+"text": "nicole@ossolaconsulting.com",
+"href": "mailto:nicole@ossolaconsulting.com"
+}
 ]

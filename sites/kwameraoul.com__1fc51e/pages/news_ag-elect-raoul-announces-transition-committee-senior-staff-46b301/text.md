@@ -1,24 +1,7 @@
-CHICAGO – Illinois Attorney General-elect Kwame Raoul announced the transition committee for his office today.
+About Kwame On the Issues Fighting Crime in Our Communities Advocating for Women Supporting Survivors Protecting Children Fighting for Affordable Healthcare Protecting Voting Rights Standing with Workers News Press Releases In the News Get Involved Get Updates Volunteer Contact Us Donate Now About Kwame On the Issues News Get Involved Contact Us News | Press Releases | 11/20/18 AG-elect Raoul announces transition committee, senior staff Share CHICAGO – Illinois Attorney General-elect Kwame Raoul announced the transition committee for his office today.
 The group will assist in transitioning the functions of the office from Attorney General Lisa Madigan to Raoul, who was elected to the office earlier this month.
 “I am pleased to be working with this team of accomplished legal and policy professionals as I prepare to serve Illinois’ diverse communities as attorney general,” Raoul said.
-“As the transition proceeds, I will continue to engage perspectives from throughout the state, including through issue-specific working groups.”
-TRANSITION COMMITTEE MEMBERS
-Kimberly Foxx
-Nancy Rotering
-Bob Berlin
-Andrea Zopp
-Renato Mariotti
-Brendan Kelly
-Kathryn Bocanegra
-Zachary Fardon
-Alan King
-Kathryn Saltmarsh
-TRANSITION STAFF
-Kim Janas
-Adam Braun
-Joe Duffy
-Katharine Eastvold
-Kimberly M.
+“As the transition proceeds, I will continue to engage perspectives from throughout the state, including through issue-specific working groups.” TRANSITION COMMITTEE MEMBERS Kimberly Foxx Nancy Rotering Bob Berlin Andrea Zopp Renato Mariotti Brendan Kelly Kathryn Bocanegra Zachary Fardon Alan King Kathryn Saltmarsh TRANSITION STAFF Kim Janas Adam Braun Joe Duffy Katharine Eastvold Kimberly M.
 Foxx is the first African American woman to lead the Cook County State’s Attorney’s Office.
 She was elected in 2016 with a vision for transforming the office into a fairer, more forward-thinking agency.
 In her first year in office, Foxx undertook substantial reforms, such as revamping the Conviction Integrity Unit, leading bond reform efforts, and prioritizing resources away from low-level offenses.
@@ -44,7 +27,7 @@ She also served in the United States Attorney’s Office and was the first woman
 Zopp has held executive leadership positions at several Fortune 500 companies, including Sara Lee, Sears Holdings and Exelon, and she previously led the Chicago Urban League.
 She has served on the Chicago Board of Education and the Cook County Health and Hospital System Board.
 Zopp is a graduate of Harvard College and Law School.
-Renato Mariotti, an experienced trial lawyer and former prosecutor, is a partner at Thompson Coburn, LLP, where he represents clients in high-stakes litigation.
+Renato Mariotti , an experienced trial lawyer and former prosecutor, is a partner at Thompson Coburn, LLP, where he represents clients in high-stakes litigation.
 As a federal prosecutor, Mariotti was best known for leading the first-ever indictment and prosecution of a high-frequency trader under the anti-spoofing provision of the Dodd-Frank Act, a major case that signaled a sea change in the government’s ability to enforce securities regulations in the era of computer-aided trading.
 In addition to his legal work, he is a CNN Legal Analyst and an advocate for the rule of law and for protecting electoral systems from attack.
 Mariotti is a graduate of Yale Law School and the University of Chicago.
@@ -54,11 +37,11 @@ A graduate of Notre Dame and Saint Louis University of Law, Kelly served in the 
 Navy, conducting research on joint Israeli-Palestinian police patrols.
 He served as President of the Illinois State’s Attorneys Association and on the Illinois Juvenile Justice Commission, the Illinois Criminal Justice and Sentencing Reform Commission, and the Attorney General’s Sexual Assault Task Force Law Enforcement Working Group.
 As state’s attorney, he has been a strong supporter of innovative law enforcement work on opioids and juvenile justice, reducing violent crime by 41% during his tenure.
-Kathryn Bocanegra, AM, LCSW, ABD is a National Institute of Justice Graduate Research Fellow and doctoral candidate at the University of Chicago examining the intersection of communities and criminal justice interventions and how to develop localized strategies to enhance public safety and heal from traumatic exposure.
+Kathryn Bocanegra , AM, LCSW, ABD is a National Institute of Justice Graduate Research Fellow and doctoral candidate at the University of Chicago examining the intersection of communities and criminal justice interventions and how to develop localized strategies to enhance public safety and heal from traumatic exposure.
 Bocanegra has directed community violence prevention programming such as street intervention, school-based mentoring and trauma-informed family interventions.
 She has over 10 years of experience running support groups for families of homicide victims and trains community groups on working with crime survivors.
 Bocanegra is a member of the Illinois Sentencing Policy Advisory Council and served on the Illinois Governor’s Commission on Criminal Justice and Sentencing Reform.
-Zachary Fardon, a former federal prosecutor, is Managing Partner and Head of Litigation at King & Spalding LLP, and a partner in the firm’s Special Matters and Government Investigations practice.
+Zachary Fardon , a former federal prosecutor, is Managing Partner and Head of Litigation at King & Spalding LLP, and a partner in the firm’s Special Matters and Government Investigations practice.
 As United States Attorney in Chicago, Fardon oversaw successful investigations and prosecutions in the areas of financial crime, corporate misconduct, fraud, public corruption, gangs and terrorism.
 His 25-year career in the private and public sectors has focused on high-stakes litigation of criminal and civil matters.
 Fardon earned law and undergraduate degrees from Vanderbilt University.
@@ -94,5 +77,6 @@ Eastvold served as press secretary to Raoul’s campaign for attorney general.
 Previously, she worked at the Illinois General Assembly in the Office of the Senate President.
 She has also been a senior account executive at Frontline, an association management firm, serving as the Illinois HomeCare & Hospice Council’s Director of Regulatory and Government Affairs.
 Eastvold is a graduate of Princeton University and currently attends Loyola University Chicago School of Law.
-Those interested in a position with the Office of the Attorney General or in contacting the transition team should email [email protected].
-###
+Those interested in a position with the Office of the Attorney General or in contacting the transition team should email [email protected] .
+### Share Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Paid for by Raoul for Illinois Get Involved

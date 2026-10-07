@@ -1,9 +1,34 @@
 [
-"https://sarahhewins.com/experience_sr.php",
-"https://sarahhewins.com/get_involved_sr.php",
-"https://sarahhewins.com/i-care-about_sr.php",
-"https://sarahhewins.com/index.php",
-"https://sarahhewins.com/meet_sarah_sr.php",
-"https://sarahhewins.com/office-hours_sr.php",
-"https://sarahhewins.com/platform_sr.php"
+{
+"text": "Experience",
+"href": "https://www.sarahhewins.com/experience_sr.php"
+},
+{
+"text": "Get Involved!",
+"href": "https://www.sarahhewins.com/get_involved_sr.php"
+},
+{
+"text": "I Care About...",
+"href": "https://www.sarahhewins.com/i-care-about_sr.php"
+},
+{
+"text": "Meet Sarah",
+"href": "https://www.sarahhewins.com/meet_sarah_sr.php"
+},
+{
+"text": "Sarah Hewins",
+"href": "https://www.sarahhewins.com/index.php"
+},
+{
+"text": "Sarah's Platform",
+"href": "https://www.sarahhewins.com/platform_sr.php"
+},
+{
+"text": "office hours.",
+"href": "https://www.sarahhewins.com/office-hours_sr.php"
+},
+{
+"text": "send her an email",
+"href": "mailto:sgh@sarahhewins.com"
+}
 ]

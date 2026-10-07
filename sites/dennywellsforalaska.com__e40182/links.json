@@ -1,31 +1,170 @@
 [
-"http://tech4campaigns.org/",
-"https://bsky.app/profile/dennywells4alaska.bsky.social",
-"https://dennywellsforalaska.com/",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/about",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/contact-2",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/district",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/getinvolved",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/priorities",
-"https://dennywellsforalaska.com/denny-wells-for-alaska/voter-resources",
-"https://dennywellsforalaska.com/priorities",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/DSCF0178-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/DSCF0206-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/DSF9271-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/DW-Firefighters-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-20190813-0945.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-Edit-1.DSCF0139-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-Edit-1._DSC1778-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-adnd-fam-hiking-older.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-and-kids-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/Family-20240615-9883-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/IMG_3967-scaled.jpg",
-"https://dennywellsforalaska.com/wp-content/uploads/2024/10/P1011678-scaled.jpg",
-"https://facebook.com/DennyWellsforStateHouse",
-"https://instagram.com/dennywellsforalaska",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=100",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=250",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=50",
-"https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=500"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web?amount=500"
+},
+{
+"text": "(907) 360-8608",
+"href": "tel:907-360-8608"
+},
+{
+"text": "@DennyWells4Alaska",
+"href": "https://bsky.app/profile/dennywells4alaska.bsky.social"
+},
+{
+"text": "@dennywellsforalaska",
+"href": "https://www.instagram.com/dennywellsforalaska/"
+},
+{
+"text": "About",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/about/"
+},
+{
+"text": "About District 15",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/district/"
+},
+{
+"text": "Contact",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/contact-2/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web"
+},
+{
+"text": "DennyWellsforStateHouse",
+"href": "https://www.facebook.com/DennyWellsforStateHouse"
+},
+{
+"text": "Donate Another Amount",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DennyWellsforStateHouse"
+},
+{
+"text": "Get Involved",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/getinvolved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dennywellsforalaska/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/dennywellsforalaska-2024-web"
+},
+{
+"text": "Priorities",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/priorities/"
+},
+{
+"text": "Pro-Alaska",
+"href": "https://dennywellsforalaska.com/priorities/#alaska"
+},
+{
+"text": "Pro-Education",
+"href": "https://dennywellsforalaska.com/priorities/#education"
+},
+{
+"text": "Pro-Energy",
+"href": "https://dennywellsforalaska.com/priorities/#energy"
+},
+{
+"text": "Pro-Freedom",
+"href": "https://dennywellsforalaska.com/priorities/#freedom"
+},
+{
+"text": "Tech for Campaigns​",
+"href": "http://tech4campaigns.org"
+},
+{
+"text": "Voter Resources",
+"href": "https://dennywellsforalaska.com/denny-wells-for-alaska/voter-resources/"
+},
+{
+"text": "[image]",
+"href": "https://dennywellsforalaska.com"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/priorities/#alaska"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/priorities/#education"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/priorities/#energy"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/priorities/#freedom"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/DSCF0178-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/DSCF0206-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/DSF9271-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/DW-Firefighters-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-20190813-0945.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-Edit-1.DSCF0139-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-Edit-1._DSC1778-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-adnd-fam-hiking-older.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/Denny-and-kids-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/Family-20240615-9883-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/IMG_3967-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://dennywellsforalaska.com/wp-content/uploads/2024/10/P1011678-scaled.jpg"
+},
+{
+"text": "denny@dennywellsforalaska.com",
+"href": "mailto:denny@dennywellsforalaska.com"
+}
 ]

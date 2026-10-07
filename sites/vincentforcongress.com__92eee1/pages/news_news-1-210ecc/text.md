@@ -1,25 +1,23 @@
-PRESS RELEASE
-"FIGHT FOR DEMOCRACY FESTIVAL" DRAWS RECORD CROWD OF 350+
-Community event in North Myrtle Beach demonstrates growing momentum behind Vincent campaign
-NORTH MYRTLE BEACH, SC — The John Vincent for Congress campaign hosted its "Fight for Democracy Festival" this weekend at the Mad Gator Grill in Barefoot Landing, drawing a record crowd that far exceeded expectations.
+Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate NEWS ARTICLE Fry, Vincent outlines priorities in SC-7 race NEWS ARTICLE New Poll: Vincent and Fry in Statistical Dead Heat in South Carolina's 7th District NEWS ARTICLE Russell Fry Abandons SC-7 for a Shot at U.S.
+Senate PRESS RELEASE Democratic Candidates Forum Campaign News 1 Year Strong - # Days to Go!
+PRESS RELEASE Jaime Harrison Endorses John Vincent for U.S.
+Congress PRESS RELEASE Campaign Office Officially Open PRESS RELEASE John Vincent Officially Files In The News The SAVE Act SCAM - The Truth Revealed News Alert SC Measles Outbreak Local News Data Center Proposals: Balancing the Checkbook with Regional Reality In The News The ICE Shooting of Renee Good In The News Russell Fry Votes against Community Healthcare...
+Again John's Hot Take Stop the Insanity: Why I’m Running Against a Political Coward Hot Topic America Has Become What We Claim to Fight Against Campaign Update We're Fighting for you in 2026 Hot Topic Backgrounder 1.17 MILLION AMERICAN JOBS LOST IN 2025 Hot Topic BackGrounder Is Hegseth Guilty of War Crimes Campaign Blog This Thanksgiving, Let's Restore the Spirit That Built America News Backgrounder The Hidden Crisis of Seasonal Employment News Opinion Gun at No Kings Protest in Myrtle Beach Campaign News No Kings in Conway & Myrtle Beach SC Legislation Testimony Against State Bill 323 EDITORIAL Opinion Sometimes Principle Demands a Stand PRESS RELEASE JOHN VINCENT ENDORSES CANDIDATES IN KEY RACES PRESS RELEASE "FIGHT FOR DEMOCRACY FESTIVAL" DRAWS RECORD CROWD OF 350+ TV News WPDE: Democrat Aims to Unseat SC 7th District Incumbent State Legislation Testimony in Columbia Against State Bill 323 NEWS ARTICLE Forward Party Endorses U.S.
+House Candidate John Gregory Vincent for South Carolina Sep 1 2025 PRESS RELEASE "FIGHT FOR DEMOCRACY FESTIVAL" DRAWS RECORD CROWD OF 350+ Community event in North Myrtle Beach demonstrates growing momentum behind Vincent campaign NORTH MYRTLE BEACH, SC — The John Vincent for Congress campaign hosted its "Fight for Democracy Festival" this weekend at the Mad Gator Grill in Barefoot Landing, drawing a record crowd that far exceeded expectations.
 The event, which was initially projected to attract 200 attendees, welcomed over 350 registered participants with many more joining without formal registration.
 "The tremendous turnout at our Fight for Democracy Festival demonstrates that voters in South Carolina's 7th Congressional District are hungry for authentic representation and ready for change," said John Vincent, Democratic candidate for U.S.
 Congress.
-"People from all walks of life came together not just to hear political speeches, but to celebrate our democratic values as a community."
-The three-hour festival featured live musical performances by vocalist Genesis and folk singer Mike Bailey, and a DJ creating a vibrant atmosphere on the spacious back deck of the Mad Gator Grill.
+"People from all walks of life came together not just to hear political speeches, but to celebrate our democratic values as a community." The three-hour festival featured live musical performances by vocalist Genesis and folk singer Mike Bailey, and a DJ creating a vibrant atmosphere on the spacious back deck of the Mad Gator Grill.
 Attendees enjoyed food, music, and fellowship while engaging with candidates running for various offices throughout South Carolina.
-Several prominent candidates addressed the enthusiastic crowd, including:
-- George Blumenthal, candidate for SC House District 104
-- Brandon Brown, candidate for U.S.
-Senate
-- Dr.
-Jermaine Johnson, current SC House Representative for District 52, who is exploring a run for Governor
-- Kathy Redwine, candidate for SC House District 108
-- Sylvia Wright, candidate for SC Superintendent of Education
-In his keynote address, Vincent emphasized the importance of one-on-one conversations in rebuilding democratic participation.
+Several prominent candidates addressed the enthusiastic crowd, including: George Blumenthal, candidate for SC House District 104 Brandon Brown, candidate for U.S.
+Senate Dr.
+Jermaine Johnson, current SC House Representative for District 52, who is exploring a run for Governor Kathy Redwine, candidate for SC House District 108 Sylvia Wright, candidate for SC Superintendent of Education In his keynote address, Vincent emphasized the importance of one-on-one conversations in rebuilding democratic participation.
 "Don't hate your Trump-flag-flying neighbors – they're just late realizing they're being conned.
 The real enemies are the super-wealthy trying to get Americans to turn on each other and their spineless political minions who fail to stand up for us, like Congressman Russell Fry who would rather hide out with his Mar-a-Lago buddies in exclusive fundraisers than face his constituents in town halls," Vincent told the crowd.
 The event concluded with Vincent being joined on stage by his wife Deb and family to enthusiastic applause.
 "The energy we witnessed at this event confirms what our campaign has been seeing on the ground for months," said Deb Vincent.
-"Voters are tired of being ignored by Representative Fry and are ready for a congressman who will fight for families, veterans, and common-sense solutions."
-The Vincent campaign plans to build on this momentum with additional community events throughout the district in the coming months.
+"Voters are tired of being ignored by Representative Fry and are ready for a congressman who will fight for families, veterans, and common-sense solutions." The Vincent campaign plans to build on this momentum with additional community events throughout the district in the coming months.
+Donate About News Events Issues Endorsements Media Volunteer Please mail checks to: John Vincent for Congress P.O.
+Box 31043, Myrtle Beach, SC 29588 To contact us, email info@VincentForCongress.com 843-300-9234 HOME ABOUT ISSUES STORE MEDIA John Vincent is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by any branch of the U.S. government.
+Paid for by John Vincent for Congress You need to enable JavaScript to run this app.

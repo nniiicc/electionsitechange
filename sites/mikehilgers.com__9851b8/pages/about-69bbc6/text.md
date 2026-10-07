@@ -1,4 +1,4 @@
-As Nebraska’s Attorney General, Mike has aspired to build, and lead, the best pound-for-pound public law office in the United States.
+Home About Accomplishments Endorsements Get Involved Donate About Mike Hilgers Meet Mike Hilgers As Nebraska’s Attorney General, Mike has aspired to build, and lead, the best pound-for-pound public law office in the United States.
 An office that is singularly devoted to tenaciously battling for Nebraskans and defending their rights.
 Mike and his team have done just that over his first term.
 From beating the Biden Administration at the United States Supreme Court, to suing and defeating the State of California, to taking on predatory companies, fraudsters and scam artists, to prosecuting criminal across the State, Mike has taken on as many battles as he possible for Nebraskans.
@@ -8,7 +8,7 @@ And he has battled to protect the fundamental liberties protected by our State a
 Prior to taking office as Nebraska’s 33rd Attorney General, Mike was a successful entrepreneur.
 He started his own law firm out of his basement in Lincoln.
 He grew the business to over 100 lawyers across the country, representing some of the largest and most prominent companies in the world.
-At least four different times his company was named to Inc. magazine’s prestigious list of 5,000 fastest growing companies in the country.
+At least four different times his company was named to Inc . magazine’s prestigious list of 5,000 fastest growing companies in the country.
 In building his business, he personally created a wide number of high-paying jobs here at home.
 He recruited Nebraskans who had left for other states back home, and he also competed nationally for top talent, convincing non-Nebraskans to move their families to Nebraska and be part of the team.
 At the same time he was building his business, Mike spent six years representing Northwest Lincoln and Lancaster County in the Nebraska Legislature (District 21).
@@ -22,6 +22,5 @@ Court of Appeals for the Fifth Circuit.
 He then moved back to Nebraska to start his own law firm, Hilgers Graben, which focused on reducing costs through innovation.
 The firm has since become nationally recognized and named one of the fastest-growing companies in the country.
 Mike lives near Lincoln, where he and his wife, Heather, are raising their four children.
-Donate
-Connect with Mike
-Paid for by Friends of Mike Hilgers. 1320 Lincoln Mall Lincoln, NE 68508
+Donate Home About Accomplishments Endorsements Get Involved Connect with Mike Paid for by Friends of Mike Hilgers.
+1320 Lincoln Mall Lincoln, NE 68508

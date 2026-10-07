@@ -1,11 +1,9 @@
-Randy Davis is on your side
-The average age of the first time home buyer is 40 years old.
+top of page Home Issues Contact CHIP IN!
+Randy Davis is on your side The average age of the first time home buyer is 40 years old.
 The cost of groceries, healthcare, and energy are rising.
-Working people need relief now.
+Working people need relief now .
 In the State House, Randy will deliver on lowering costs and preparing Michigan for a future that works for working families.
-Vote in the Michigan Primary on Tuesday, August 4th
-Meet Randy
-I've lived in the Calhoun County area most of my life, raised my family here, and committed 25 years to a local non-profit agency serving children and families across the state.
+Vote in the Michigan Primary on Tuesday, August 4th Meet Randy I've lived in the Calhoun County area most of my life, raised my family here, and committed 25 years to a local non-profit agency serving children and families across the state.
 I served 20 years as school superintendent for Athens, Marshall, Mar-Lee, and Albion, and remain an active member of my community to this day.
 There is so much moving in the wrong direction locally and nationwide.
 We will only fix what is wrong through bipartisan efforts.
@@ -21,3 +19,5 @@ Stronger schools.
 Improving rural healthcare.
 Families getting what they need.
 I’m on your side.
+House District 45 The 45th District includes parts of Calhoun, Jackson, and Kalamazoo Counties - and all of the City of Marshall and the Townships of Albion, Athens, Burlington, Charleston, Clarendon, Climax, Concord, Eckford, Emmett, Fredonia, Hanover, Henrietta, Homer, Leroy, Liberty, Marengo, Marshall, Newton, Parma, Pulaski, Rives, Sandstone, Spring Arbor, Springport, Tekonsha, Tompkins, and Wakeshma.
+CHIP IN TO ELECT RANDY Contact Paid for by Committee to Elect Randy Davis 576 Lyon Lake Rd, Marshall, Mi 49068 bottom of page

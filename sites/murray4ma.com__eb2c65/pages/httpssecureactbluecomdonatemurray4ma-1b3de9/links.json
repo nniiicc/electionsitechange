@@ -1,19 +1,78 @@
 [
-"https://bsky.app/profile/murray4ma.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/murray4ma",
-"https://instagram.com/murray4ma",
-"https://murray4ma.com/",
-"https://murray4ma.com/about",
-"https://murray4ma.com/endorsements",
-"https://murray4ma.com/issues",
-"https://murray4ma.com/volunteer",
-"https://murray4ma.com/volunteer-copy",
-"https://secure.actblue.com/donate/connor-murray-website",
-"https://secure.actblue.com/donate/connor-murray-website?amount=100",
-"https://secure.actblue.com/donate/connor-murray-website?amount=1000",
-"https://secure.actblue.com/donate/connor-murray-website?amount=25",
-"https://secure.actblue.com/donate/connor-murray-website?amount=250",
-"https://secure.actblue.com/donate/connor-murray-website?amount=50",
-"https://tiktok.com/@murray4ma"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/connor-murray-website?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/connor-murray-website?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/connor-murray-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/connor-murray-website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/connor-murray-website?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.murray4ma.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.murray4ma.com/volunteer-copy"
+},
+{
+"text": "Endorsements",
+"href": "https://www.murray4ma.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/connor-murray-website"
+},
+{
+"text": "Priorities",
+"href": "https://www.murray4ma.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.murray4ma.com/volunteer"
+},
+{
+"text": "[image: Connor Murray]",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/murray4ma.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@murray4ma"
+},
+{
+"text": "murray4ma@gmail.com",
+"href": "mailto:murray4ma@gmail.com"
+}
 ]

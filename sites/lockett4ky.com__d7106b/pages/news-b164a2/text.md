@@ -1,13 +1,4 @@
-Matt Lockett in the News:
-Teacher pay should go to teachers, not padding the pockets of Administrators - Kentucky Today (June 25, 2024)
-Rep.
-Matt Lockett on Critical Race Theory (spectrumnews1.com) (August 3, 2021)
-No one is above the law - Jessamine Journal | Jessamine Journal (August 18, 2021)
-Jessamine County receives award for clean drinking water: https://kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=1158 (January 26, 2022)
-Ky. bill would make it illegal to teach about institutional racism | WEKU (February 15, 2022)
-ARA of Kentucky events highlighted legislative push and lots of horse racing (ararental.org) (Spring 2022)
-Bill legalizing medicinal cannabis clears KY House, heads to Senate - The Owensboro Times (March 18, 2022)
-Legislative update - Jessamine Journal | Jessamine Journal (June 3, 2022)
-Sunday’s prayer vigil had a message: 'Yes to Life' - Jessamine Journal | Jessamine Journal (Feb. 2, 2022)
-Jessamine County Republican Women Host Legislative Update - Jessamine Journal | Jessamine Journal
-(March 16, 2022)
+Home About Matt News On the Issues Endorsements Contact Matt Lockett in the News: Teacher pay should go to teachers, not padding the pockets of Administrators - Kentucky Today (June 25, 2024) Rep.
+Matt Lockett on Critical Race Theory (spectrumnews1.com) (August 3, 2021) No one is above the law - Jessamine Journal | Jessamine Journal (August 18, 2021) Jessamine County receives award for clean drinking water: https://kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=1158 (January 26, 2022) Ky. bill would make it illegal to teach about institutional racism | WEKU (February 15, 2022) ARA of Kentucky events highlighted legislative push and lots of horse racing (ararental.org) (Spring 2022) Bill legalizing medicinal cannabis clears KY House, heads to Senate - The Owensboro Times (March 18, 2022) Legislative update - Jessamine Journal | Jessamine Journal (June 3, 2022) Sunday’s prayer vigil had a message: 'Yes to Life' - Jessamine Journal | Jessamine Journal (Feb.
+2, 2022) Jessamine County Republican Women Host Legislative Update - Jessamine Journal | Jessamine Journal (March 16, 2022) Polls Open In: November 3, 2026 at 6:00 AM VOLUNTEER DONATE DISTRICT 39 MAP Get Updates Thank you for signing up!
+Paid for by Matt Lockett for State Representative Powered by CampaignPartner.com - Political Websites Home About Matt News On the Issues Endorsements Contact Close Menu

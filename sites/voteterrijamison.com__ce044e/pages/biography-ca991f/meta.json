@@ -1,9 +1,12 @@
 {
  "description": "Meet Judge Terri Jamison",
  "final_url": "https://www.voteterrijamison.com/biography",
- "paid_for_by": null,
+ "fingerprint": "3646c840ea067ecb6b33d3f68e350f36f90a962a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Biography",
  "years_mentioned": [
+  "2004",
   "2012",
   "2018",
   "2019",

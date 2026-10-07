@@ -1,17 +1,12 @@
-REPS ROYBAL-ALLARD, GOMEZ, AND LIEU JOINT STATEMENT ON FLAWED ELECTRONIC BALLOT DESIGN
-LOS ANGELES — Today, Rep.
+Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Donate Now Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Press Releases See All Campaign Updates Events Press Releases In the News See All Campaign Updates Events Press Releases In the News Jimmy Gomez | Press Releases | 02/28/20 REPS ROYBAL-ALLARD, GOMEZ, AND LIEU JOINT STATEMENT ON FLAWED ELECTRONIC BALLOT DESIGN LOS ANGELES — Today, Rep.
 Ted Lieu (D-Calif.), Rep.
 Jimmy Gomez (D-Calif.), and Rep.
-Lucille Roybal-Allard (D-Calif.) issued the following statement regarding the flawed electronic ballot design in Los Angeles County: “As a result of a faulty electronic ballot design, many voters in Los Angeles County, including in parts of our congressional districts, will not […]
-ASIAN PACIFIC ISLANDER-AMERICAN COMMUNITY LEADERS ENDORSE JIMMY GOMEZ FOR CONGRESS
-Continuing to build on his extensive community support, a large group of Asian Pacific Islander-American leaders endorsed Democratic candidate Jimmy Gomez in his bid to replace Attorney General Xavier Becerra in the 34th Congressional District.
-“As a State Legislator, Jimmy Gomez worked to get funding for the Los Angeles Historic Park and worked with Chinatown […]
-MARIA CABILDO BECOMES 9th CA-34 PRIMARY CANDIDATE TO ENDORSE JIMMY GOMEZ FOR CONGRESS
-Former Los Angeles City Planning Commissioner and candidate for the 34th Congressional District, Maria Cabildo, endorsed Jimmy Gomez to replace California’s Attorney General Xavier Becerra in Congress.
+Lucille Roybal-Allard (D-Calif.) issued the following statement regarding the flawed electronic ballot design in Los Angeles County: “As a result of a faulty electronic ballot design, many voters in Los Angeles County, including in parts of our congressional districts, will not […] Read More Jimmy Gomez | Campaign Updates | Press Releases | 06/01/17 ASIAN PACIFIC ISLANDER-AMERICAN COMMUNITY LEADERS ENDORSE JIMMY GOMEZ FOR CONGRESS Continuing to build on his extensive community support, a large group of Asian Pacific Islander-American leaders endorsed Democratic candidate Jimmy Gomez in his bid to replace Attorney General Xavier Becerra in the 34th Congressional District.
+“As a State Legislator, Jimmy Gomez worked to get funding for the Los Angeles Historic Park and worked with Chinatown […] Read More Jimmy Gomez | Press Releases | 05/06/17 MARIA CABILDO BECOMES 9th CA-34 PRIMARY CANDIDATE TO ENDORSE JIMMY GOMEZ FOR CONGRESS Former Los Angeles City Planning Commissioner and candidate for the 34th Congressional District, Maria Cabildo, endorsed Jimmy Gomez to replace California’s Attorney General Xavier Becerra in Congress.
 She joins Vanessa Aramayo, Alejandra Campoverdi, Wendy Carrillo, Yolie Flores, Sara Hernandez, Raymond Meza, Tracy Van Houten and Tenaya Wallace in supporting Jimmy’s candidacy.
-“As an Assemblyman, Jimmy […]
-GOVERNOR JERRY BROWN ENDORSES JIMMY GOMEZ FOR CONGRESS
-California Governor Jerry Brown endorsed Jimmy Gomez to replace Attorney General Xavier Becerra in California’s 34th Congressional District.
+“As an Assemblyman, Jimmy […] Read More Jimmy Gomez | Press Releases | The Latest | 05/04/17 GOVERNOR JERRY BROWN ENDORSES JIMMY GOMEZ FOR CONGRESS California Governor Jerry Brown endorsed Jimmy Gomez to replace Attorney General Xavier Becerra in California’s 34th Congressional District.
 “Jimmy Gomez has made a difference for California’s families,” said Governor Brown.
 “As a member of the State Assembly, he has successfully worked to expand Paid Family Leave and crack down on the toxic pollution of our neighborhoods.
-Jimmy will be an […]
+Jimmy will be an […] Read More 01 02 03 04 A Fighter For Working Families!
+Email ZIP code Stay Up-to-Date Contribute Now! $5 $10 $25 $50 Media Privacy Policy Jimmy Gomez for Congress P.O.
+Box 41018, Los Angeles, CA 90041 213-557-1348 info@jimmygomezforcongress.com Paid for by Jimmy Gomez for Congress Get Involved

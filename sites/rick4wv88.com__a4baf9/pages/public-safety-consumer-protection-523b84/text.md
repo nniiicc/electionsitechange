@@ -1,33 +1,3 @@
-top of page
-Public Safety
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| HB 2530 | To allow for the deportation of illegal aliens to sanctuary city locations across the country. | Pending | House Judiciary | Committee | 02/18/25 |
-| | Including certain Federal Law enforcement agencies in federal officers' peace-keeping authority statute | Pending | House Judiciary | Committee | 02/17/25 |
-| | To revise and update all provisions of state code relating to the West Virginia State Guard | Pending | House Judiciary | Committee | 03/03/25 |
-| | Require all workplaces to keep Naloxone available in first aid kits and train employees in the use of Naloxone | Pending | House HHR | Committee | 03/03/25 |
-| | To amend the law concerning ownership and possession of real property | Signed | | | Effective Ninety Days from Passage - (July 11, 2025) |
-2025 Bills that I have lead or co-sponsored
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | Relating to civil service for deputy sheriffs | Signed | | | Effective Ninety Days from Passage - (May 30, 2024) |
-| | Requiring Federal law enforcement to coordinate with Attorney General and County Sheriffs | Pending | House Veterans Affairs and Homeland Security | Committee | 01/25/24 |
-2024 Bills that I have lead or co-sponsored
-Consumer Protection
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | Establishing limitations on billing practices of Internet or telecommunications providers that fail to provide subscribed customers service for five or more days | Pending | Senate Energy, Industry and Mining | Committee | 03/24/25 |
-| | Allow customers to make changes to their accounts by phone or mail. | Pending | Senate Energy, Industry and Mining | Committee | 03/25/25 |
-| | To eliminate adverse possession from the state code of West Virginia | Pending | House Judiciary | Committee | 02/24/25 |
-| | West Virginia Firearms Liability Clarification Act | Signed | | | Effective Ninety Days from Passage - (July 8, 2025) |
-2025 Bills that I have lead or co-sponsored
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | To ensure false claims on property titles are not fault of landowner | Pending | House Judiciary | Committee | 01/10/24 |
-| | West Virginia Truth in Food Labeling Act | Signed | | | Effective Ninety Days from Passage - (June 7, 2024) |
-| | Relating to prohibition of unfair real estate service agreements | Signed | | | Effective Ninety Days from Passage - (June 6, 2024) |
-| | Relating to the Telephone Consumer Protection Act | Pending | Senate Judiciary | Committee | 02/13/24 |
-| | Relating to combatting gift card fraud | Pending | Senate Judiciary | Committee | 02/13/24 |
-| | Clarify pricing for gasoline to consumers | Pending | House T&I | Committee | 01/25/24 |
-2024 Bills that I have lead or co-sponsored
-bottom of page
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos Public Safety Bill Title Status Committee Step Last Action HB 2530 To allow for the deportation of illegal aliens to sanctuary city locations across the country.
+Pending House Judiciary Committee 02/18/25 HB 2432 Including certain Federal Law enforcement agencies in federal officers' peace-keeping authority statute Pending House Judiciary Committee 02/17/25 HB 3091 To revise and update all provisions of state code relating to the West Virginia State Guard Pending House Judiciary Committee 03/03/25 HB 3071 Require all workplaces to keep Naloxone available in first aid kits and train employees in the use of Naloxone Pending House HHR Committee 03/03/25 HB 2961 To amend the law concerning ownership and possession of real property Signed Effective Ninety Days from Passage - (July 11, 2025) 2025 Bills that I have lead or co-sponsored Bill Title Status Committee Step Last Action HB5122 Relating to civil service for deputy sheriffs Signed Effective Ninety Days from Passage - (May 30, 2024) HB5098 Requiring Federal law enforcement to coordinate with Attorney General and County Sheriffs Pending House Veterans Affairs and Homeland Security Committee 01/25/24 2024 Bills that I have lead or co-sponsored Consumer Protection Bill Title Status Committee Step Last Action HB 2502 Establishing limitations on billing practices of Internet or telecommunications providers that fail to provide subscribed customers service for five or more days Pending Senate Energy, Industry and Mining Committee 03/24/25 HB 3168 Allow customers to make changes to their accounts by phone or mail.
+Pending Senate Energy, Industry and Mining Committee 03/25/25 HB 2924 To eliminate adverse possession from the state code of West Virginia Pending House Judiciary Committee 02/24/25 HB 2067 West Virginia Firearms Liability Clarification Act Signed Effective Ninety Days from Passage - (July 8, 2025) 2025 Bills that I have lead or co-sponsored Bill Title Status Committee Step Last Action HB4442 To ensure false claims on property titles are not fault of landowner Pending House Judiciary Committee 01/10/24 HB5349 West Virginia Truth in Food Labeling Act Signed Effective Ninety Days from Passage - (June 7, 2024) HB5326 Relating to prohibition of unfair real estate service agreements Signed Effective Ninety Days from Passage - (June 6, 2024) HB5251 Relating to the Telephone Consumer Protection Act Pending Senate Judiciary Committee 02/13/24 HB5250 Relating to combatting gift card fraud Pending Senate Judiciary Committee 02/13/24 HB5123 Clarify pricing for gasoline to consumers Pending House T&I Committee 01/25/24 2024 Bills that I have lead or co-sponsored · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

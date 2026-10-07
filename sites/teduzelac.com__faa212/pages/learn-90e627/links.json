@@ -1,5 +1,22 @@
 [
-"https://facebook.com/profile.php?id=61580823661105",
-"https://secure.winred.com/committee-to-elect-ted-uzelac/donate-today",
-"https://teduzelac.com/home"
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/committee-to-elect-ted-uzelac/donate-today"
+},
+{
+"text": "Donate!",
+"href": "https://secure.winred.com/committee-to-elect-ted-uzelac/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580823661105"
+},
+{
+"text": "[image]",
+"href": "https://www.teduzelac.com/home/"
+},
+{
+"text": "ted@teduzelac.com",
+"href": "mailto:ted@teduzelac.com"
+}
 ]

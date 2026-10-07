@@ -1,30 +1,126 @@
 [
-"http://deanslist.info/",
-"https://dean-w-arnold.com/",
-"https://dean-w-arnold.com/articles",
-"https://dean-w-arnold.com/audio",
-"https://dean-w-arnold.com/bio",
-"https://dean-w-arnold.com/congress-menu",
-"https://dean-w-arnold.com/contact-1",
-"https://dean-w-arnold.com/design-your-personal-story",
-"https://dean-w-arnold.com/donate",
-"https://dean-w-arnold.com/donate-2",
-"https://dean-w-arnold.com/donate-copy",
-"https://dean-w-arnold.com/endorsements",
-"https://dean-w-arnold.com/fighting-scots",
-"https://dean-w-arnold.com/film",
-"https://dean-w-arnold.com/hillary-and-vince",
-"https://dean-w-arnold.com/new-page",
-"https://dean-w-arnold.com/old-money-new-south",
-"https://dean-w-arnold.com/podcasts",
-"https://dean-w-arnold.com/revelation-explained",
-"https://dean-w-arnold.com/sign-up",
-"https://dean-w-arnold.com/sign-up-2",
-"https://dean-w-arnold.com/the-cherokee-princes",
-"https://dean-w-arnold.com/tolkien",
-"https://dean-w-arnold.com/tolkienscript",
-"https://dean-w-arnold.com/unknown-empire",
-"https://dean-w-arnold.com/welcome",
-"https://facebook.com/deanwarnold",
-"https://youtube.com/@goodhistory1"
+{
+"text": "Articles",
+"href": "https://dean-w-arnold.com/articles"
+},
+{
+"text": "Audio",
+"href": "https://dean-w-arnold.com/audio"
+},
+{
+"text": "Bio",
+"href": "https://dean-w-arnold.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://dean-w-arnold.com/contact-1"
+},
+{
+"text": "Contact",
+"href": "https://dean-w-arnold.com/new-page"
+},
+{
+"text": "Dean Arnold for Congress",
+"href": "https://dean-w-arnold.com/congress-menu"
+},
+{
+"text": "Dean’s Daily Podcast",
+"href": "https://www.youtube.com/@goodhistory1"
+},
+{
+"text": "Dean’s personal website",
+"href": "https://dean-w-arnold.com/welcome"
+},
+{
+"text": "Design Your Personal Story",
+"href": "https://dean-w-arnold.com/design-your-personal-story"
+},
+{
+"text": "Donate",
+"href": "https://dean-w-arnold.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://dean-w-arnold.com/donate-2"
+},
+{
+"text": "Donate",
+"href": "https://dean-w-arnold.com/donate-copy"
+},
+{
+"text": "Endorsements",
+"href": "https://dean-w-arnold.com/endorsements"
+},
+{
+"text": "Fighting Scots",
+"href": "https://dean-w-arnold.com/fighting-scots"
+},
+{
+"text": "Film",
+"href": "https://dean-w-arnold.com/film"
+},
+{
+"text": "Hillary and Vince",
+"href": "https://dean-w-arnold.com/hillary-and-vince"
+},
+{
+"text": "More Content",
+"href": "http://deanslist.info/"
+},
+{
+"text": "Old Money, New South",
+"href": "https://dean-w-arnold.com/old-money-new-south"
+},
+{
+"text": "Podcasts",
+"href": "https://dean-w-arnold.com/podcasts"
+},
+{
+"text": "Revelation Explained",
+"href": "https://dean-w-arnold.com/revelation-explained"
+},
+{
+"text": "Sign up",
+"href": "https://dean-w-arnold.com/sign-up"
+},
+{
+"text": "Sign up",
+"href": "https://dean-w-arnold.com/sign-up-2"
+},
+{
+"text": "The Cherokee Princes",
+"href": "https://dean-w-arnold.com/the-cherokee-princes"
+},
+{
+"text": "Tolkien and C. S. Lewis (Script)",
+"href": "https://dean-w-arnold.com/tolkien"
+},
+{
+"text": "Tolkien script",
+"href": "https://dean-w-arnold.com/tolkienscript"
+},
+{
+"text": "Unknown Empire",
+"href": "https://dean-w-arnold.com/unknown-empire"
+},
+{
+"text": "Welcome",
+"href": "https://dean-w-arnold.com/"
+},
+{
+"text": "[image: Dean W. Arnold]",
+"href": "https://dean-w-arnold.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/deanwarnold"
+},
+{
+"text": "[no text]",
+"href": "mailto:dean@deanarnold.org"
+},
+{
+"text": "dean@deanarnold.org",
+"href": "mailto:dean@deanarnold.org"
+}
 ]

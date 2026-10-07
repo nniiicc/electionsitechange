@@ -1,10 +1,50 @@
 [
-"https://christianforcarbon.com/",
-"https://christianforcarbon.com/about",
-"https://christianforcarbon.com/platform",
-"https://christianforcarbon.com/platform-es",
-"https://facebook.com/profile.php?id=61573796817700",
-"https://instagram.com/christianbartulovich_pa",
-"https://secure.anedot.com/voters-for-christian/bf92d734-3668-4056-98f2-51fbb43c9604",
-"https://tiktok.com/@bartulovichforpa"
+{
+"text": "About Christian",
+"href": "https://christianforcarbon.com/about"
+},
+{
+"text": "Bartulovich",
+"href": "https://christianforcarbon.com/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/voters-for-christian/bf92d734-3668-4056-98f2-51fbb43c9604"
+},
+{
+"text": "Endorsements",
+"href": "https://christianforcarbon.com/#endorse"
+},
+{
+"text": "Español",
+"href": "https://christianforcarbon.com/platform-es"
+},
+{
+"text": "Full platform",
+"href": "https://christianforcarbon.com/platform"
+},
+{
+"text": "Get Involved",
+"href": "https://christianforcarbon.com/#join"
+},
+{
+"text": "Priorities",
+"href": "https://christianforcarbon.com/#priorities"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573796817700"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christianbartulovich_pa"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@bartulovichforpa"
+},
+{
+"text": "home page",
+"href": "https://christianforcarbon.com/#priorities"
+}
 ]

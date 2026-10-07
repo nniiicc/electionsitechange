@@ -1,9 +1,3 @@
-Back to All Events
-Sign up at the link below!
-Previous
-Previous
-August 22
-Champions for Change
-Next
-Next
-August 29
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Back to All Events Canvass with Georgia Majority Sunday, August 23, 2026 9:30 AM 11:30 AM Google Calendar ICS Sign up at the link below!
+Source: https://secure.ngpvan.com/OtBcDqo3qE2NCV_t9ZJqoA2 Previous Previous August 22 Champions for Change Next Next August 29 Atlanta Democrats Canvass | August info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

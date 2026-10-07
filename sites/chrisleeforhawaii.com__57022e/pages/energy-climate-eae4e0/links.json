@@ -1,32 +1,122 @@
 [
-"http://bizjournals.com/pacific/news/2015/06/09/university-of-hawaii-to-be-net-zero-with-respect.html",
-"http://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1286&year=2015",
-"http://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1943&year=2014",
-"http://capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=1578&year=2017",
-"http://capitol.hawaii.gov/measure_indiv.aspx?billtype=HCR&billnumber=113",
-"http://hawaiinewsnow.com/story/23689275/lawmakers-call-hearing-to-discuss-hecos-solar-policy-changes",
-"http://hawaiinewsnow.com/story/24596770/lawmakers-propose-hawaiian-electric-solar-connection-rules",
-"http://hawaiinewsnow.com/story/25733626/gov-abercrombie-signs-climate-change-adaptation-bill",
-"http://mauinow.com/2016/06/30/clean-energy-bill-becomes-law",
-"https://act.myngp.com/el/ZOQlR4hJDBkV4MVIgQ_kwQ==/Nux9ZNgyzG0A8YLLoRs48g==",
-"https://aloha-challenge.hawaiigreengrowth.org/",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=2182&year=2018",
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=77&year=2014",
-"https://capitol.hawaii.gov/session2017/bills/HB1283_HD1_.htm",
-"https://capitol.hawaii.gov/session2018/bills/HB2106_CD1_.htm",
-"https://capitol.hawaii.gov/session2018/bills/HB2110_SD2_.htm",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/jobs",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://chrisleehawaii.com/khon2.com/2015/06/08/new-law-requires-100-percent-renewable-energy-in-hawaii-by-2045",
-"https://facebook.com/chrisleeHI",
-"https://greenschoolsnationalnetwork.org/green-schools-national-network-u-s-green-building-council-announce-2016-best-green-schools-honorees",
-"https://instagram.com/chrisleehawaii",
-"https://khon2.com/local-news/leeward-community-college-running-on-solar-energy-becomes-uhs-first-net-zero-campus",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii",
-"https://utilitydive.com/news/hawaii-gov-ige-signs-law-mandating-performance-based-utility-regulation/522147",
-"https://votesolar.org/about-us/news-and-events/news/2017-solar-champions-100-club"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "Chris passed a groundbreaking law",
+"href": "https://www.chrisleehawaii.com/khon2.com/2015/06/08/new-law-requires-100-percent-renewable-energy-in-hawaii-by-2045/"
+},
+{
+"text": "Chris then passed a law requiring all environmental impact statements for shoreline projects to consider sea level rise",
+"href": "https://www.capitol.hawaii.gov/session2018/bills/HB2106_CD1_.htm"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/jobs"
+},
+{
+"text": "Hawaii’s Commitment to the Aloha+ Challenge",
+"href": "https://aloha-challenge.hawaiigreengrowth.org/"
+},
+{
+"text": "Leeward Community College's efforts will save the UH system $269,000 in energy and operational costs this year and $8.4million in operating costs over the next 20 years.",
+"href": "https://www.khon2.com/local-news/leeward-community-college-running-on-solar-energy-becomes-uhs-first-net-zero-campus/"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "all public schools",
+"href": "http://mauinow.com/2016/06/30/clean-energy-bill-becomes-law/"
+},
+{
+"text": "authored a first-of-its-kind bill",
+"href": "https://www.capitol.hawaii.gov/session2017/bills/HB1283_HD1_.htm"
+},
+{
+"text": "authored legislation",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=77&year=2014"
+},
+{
+"text": "authored the Hawaii Climate Adaptation Initiative",
+"href": "http://www.hawaiinewsnow.com/story/25733626/gov-abercrombie-signs-climate-change-adaptation-bill"
+},
+{
+"text": "convened public hearings",
+"href": "http://www.hawaiinewsnow.com/story/23689275/lawmakers-call-hearing-to-discuss-hecos-solar-policy-changes"
+},
+{
+"text": "directed the utility to let more consumers take advantage of solar energy",
+"href": "http://www.hawaiinewsnow.com/story/24596770/lawmakers-propose-hawaiian-electric-solar-connection-rules"
+},
+{
+"text": "it has achieved our net-zero",
+"href": "https://act.myngp.com/el/ZOQlR4hJDBkV4MVIgQ_kwQ==/Nux9ZNgyzG0A8YLLoRs48g=="
+},
+{
+"text": "made Hawaii the first state to commit to economy-wide carbon neutrality by 2045",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=2182&year=2018"
+},
+{
+"text": "named a national “Solar Champion”",
+"href": "https://votesolar.org/about-us/news-and-events/news/2017-solar-champions-100-club/"
+},
+{
+"text": "passed a law",
+"href": "http://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1286&year=2015"
+},
+{
+"text": "passed a law",
+"href": "http://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1943&year=2014"
+},
+{
+"text": "passed a law",
+"href": "http://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=1578&year=2017"
+},
+{
+"text": "passed a law directing",
+"href": "https://www.capitol.hawaii.gov/session2018/bills/HB2110_SD2_.htm"
+},
+{
+"text": "passed a resolution",
+"href": "http://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HCR&billnumber=113"
+},
+{
+"text": "universities",
+"href": "http://www.bizjournals.com/pacific/news/2015/06/09/university-of-hawaii-to-be-net-zero-with-respect.html"
+},
+{
+"text": "was signed into law",
+"href": "https://www.utilitydive.com/news/hawaii-gov-ige-signs-law-mandating-performance-based-utility-regulation/522147/"
+},
+{
+"text": "“Best Policymaker” by the US Green Building Council Center for Green Schools",
+"href": "https://greenschoolsnationalnetwork.org/green-schools-national-network-u-s-green-building-council-announce-2016-best-green-schools-honorees/"
+}
 ]

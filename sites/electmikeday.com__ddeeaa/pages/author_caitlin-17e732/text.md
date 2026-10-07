@@ -1,3 +1,4 @@
-The Boys & Girls Club of Stoneham’s Donna DiVirgilio Honored
-The Massachusetts Commission on the Status of Women recently announced its 2020 “Commonwealth Heroines” and named Donna DiVirgilio of Stoneham as one of its Heroines.
-The annual celebration recognizes women from across the Commonwealth who “perform unheralded acts daily that make our homes, neighborhoods, cities and towns a better place to live.” Representative Michael S. […]
+About News Issues Legislation Contact Get Involved Contribute Menu About Caitlin Long This author has yet to write their bio.Meanwhile lets just say that we are proud Caitlin Long contributed a whooping 1 entries.
+Entries by Caitlin Long The Boys & Girls Club of Stoneham’s Donna DiVirgilio Honored July 1, 2020 in Uncategorized / by Caitlin Long The Massachusetts Commission on the Status of Women recently announced its 2020 “Commonwealth Heroines” and named Donna DiVirgilio of Stoneham as one of its Heroines.
+The annual celebration recognizes women from across the Commonwealth who “perform unheralded acts daily that make our homes, neighborhoods, cities and towns a better place to live.” Representative Michael S. […] Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Scroll to top

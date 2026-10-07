@@ -1,3 +1,2 @@
-Here are some of my stances on key issues facing North Carolinians and the constituents of District 33.
-Request Yard Signs
-Volunteer
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Issues Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Issues Here are some of my stances on key issues facing North Carolinians and the constituents of District 33.
+Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

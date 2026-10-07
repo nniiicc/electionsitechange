@@ -1,5 +1,10 @@
-DES MOINES, Iowa (Iowa’s News Now) — Iowa Secretary of State Paul Pate kicked off his annual drive to register Iowa high school students to vote on Tuesday through the Carrie Chapman Catt Award initiative.
+Home Meet Paul Get Involved News Contact Donate Home News Secretary of State launches annual voter registration drives in Iowa high schools Home News Secretary of State launches annual voter registration drives in Iowa high schools Secretary of State launches annual voter registration drives in Iowa high schools By wordpress@victoryenterprises.com | September 20, 2021 | News | No Comments DES MOINES, Iowa (Iowa’s News Now) — Iowa Secretary of State Paul Pate kicked off his annual drive to register Iowa high school students to vote on Tuesday through the Carrie Chapman Catt Award initiative.
 Every school in Iowa that registers at least 90 percent of their eligible students to vote will receive the award, named after the Iowan who was a national leader in the women’s suffrage movement.
 Last year, 22 schools won the award.
 The launch for this year’s initiative coincides with National Voter Registration Day, held annually on the fourth Tuesday in September.
-Continue reading here: https://cbs2iowa.com/news/local/secretary-of-state-paul-pate-launches-annual-voter-registration-drives-in-iowa-high-school
+Continue reading here: https://cbs2iowa.com/news/local/secretary-of-state-paul-pate-launches-annual-voter-registration-drives-in-iowa-high-school Leave a comment Cancel reply Save my name, email, and website in this browser for the next time I comment.
+Paul Pate, a nationally recognized small business leader, is serving his third term as Iowa's Secretary of State.
+Pate followed through on his 2014 campaign promises by making it easier for overseas military members to vote, instituting online voter registration, implementing a Safe at Home program for survivors of violence, and bringing Voter ID to Iowa.
+Pate has succeeded in making it easy to vote, but hard to cheat.
+Recent Posts Secretary Pate featured guest on “Iowa Press” Iowa ranked 3rd best in nation for election administration MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State Contact Information Address: 300 Walnut St.
+#79 Des Moines, Iowa 50309 Email: Info@PateForIowa.com PAID FOR BY PATE FOR IOWA Copyright # All Rights Reserved

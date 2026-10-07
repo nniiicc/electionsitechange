@@ -1,6 +1,4 @@
-SERVICE / FAMILY / COMMUNITY
-Meet BJ Hall
-West Point graduate.
+Skip to content Home Meet BJ Platform Inside 29B Events Get Involved DONATE Explore The campaign Home ↗ Meet BJ ↗ Platform ↗ Inside 29B ↗ Events ↗ Get Involved ↗ Community Out in the community ↗ Recognition ↗ Take part Volunteer or host an event ↗ Request a yard sign ↗ Campaign updates ↗ Home / Meet BJ SERVICE / FAMILY / COMMUNITY Meet BJ Hall West Point graduate.
 U.S.
 Army veteran.
 Nonprofit founder.
@@ -19,22 +17,19 @@ A devoted single father of four, including two proud graduates of Great Mills Hi
 Mary’s County.
 He is ready to be a strong, principled voice for District 29B in Annapolis.
 Experience that informs the work.
-- Founder, Reach Back & Lift 1
-- St.
-Mary’s County Planning Commission
-- St.
-Mary’s County Economic Development Commission
-- Tri County Council Workforce Development Board
-- Government Relations chair, Omega Psi Phi Fraternity Inc., 2nd District
-- Former president, St.
-Mary’s County NAACP
-- Former treasurer, Maryland State Conference
-THE LIFE BEHIND THE PLATFORM
-Service is personal.
+Founder, Reach Back & Lift 1 St.
+Mary’s County Planning Commission St.
+Mary’s County Economic Development Commission Tri County Council Workforce Development Board Government Relations chair, Omega Psi Phi Fraternity Inc., 2nd District Former president, St.
+Mary’s County NAACP Former treasurer, Maryland State Conference THE LIFE BEHIND THE PLATFORM Service is personal.
 In uniform.
 In the community.
 At home.
-2026 / RECOGNITION
-Standing
-with BJ.
+01 / WEST POINT A foundation in service.
+02 / COMMUNITY A voice in the room.
+03 / FAMILY Before anything else, a father.
+04 / LISTENING People over politics, in person.
+2026 / RECOGNITION Standing with BJ.
 An NRA-PVF AQ rating and an endorsement from the Black Conservative Federation.
+NRA-PVF AQ RATED National Rifle Association Political Victory Fund 01 / NRA-PVF · AQ RATED National Rifle Association Political Victory Fund “As a West Point graduate, I believe strongly in our Right to Bear Arms.
+I’m proud to have received the highest possible rating from the NRA-PVF.” 02 / BCF Black Conservative Federation VIEW ANNOUNCEMENT In his own words.
+READ THE FULL PLATFORM ↗

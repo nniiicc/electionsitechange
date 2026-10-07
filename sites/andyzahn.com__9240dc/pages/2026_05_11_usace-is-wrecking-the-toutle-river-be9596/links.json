@@ -1,17 +1,62 @@
 [
-"https://andyzahn.com/",
-"https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river",
-"https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river?share=facebook",
-"https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river?share=twitter",
-"https://andyzahn.com/about",
-"https://andyzahn.com/platform",
-"https://bsky.app/profile/electandy.bsky.social",
-"https://co.cowlitz.wa.us/166/Board-of-Commissioners",
-"https://congress.gov/members/find-your-member",
-"https://facebook.com/people/Elect-Andy-Zahn/61560679994242",
-"https://governor.wa.gov/contacting-governor/contacting-governors-office/send-gov-ferguson-e-message",
-"https://leg.wa.gov/legislators",
-"https://substack.com/@andyzahn1",
-"https://usace.army.mil/Resources/Contact",
-"https://youtube.com/@AndyZahn"
+{
+"text": "About",
+"href": "https://andyzahn.com/about/"
+},
+{
+"text": "Andy Zahn",
+"href": "https://andyzahn.com"
+},
+{
+"text": "Cancel reply",
+"href": "https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river/#respond"
+},
+{
+"text": "Platform",
+"href": "https://andyzahn.com/platform/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river/?share=twitter"
+},
+{
+"text": "https://bsky.app/profile/electandy.bsky.social",
+"href": "https://bsky.app/profile/electandy.bsky.social"
+},
+{
+"text": "https://governor.wa.gov/contacting-governor/contacting-governors-office/send-gov-ferguson-e-message",
+"href": "https://governor.wa.gov/contacting-governor/contacting-governors-office/send-gov-ferguson-e-message"
+},
+{
+"text": "https://leg.wa.gov/legislators/",
+"href": "https://leg.wa.gov/legislators/"
+},
+{
+"text": "https://substack.com/@andyzahn1",
+"href": "https://substack.com/@andyzahn1"
+},
+{
+"text": "https://www.co.cowlitz.wa.us/166/Board-of-Commissioners",
+"href": "https://www.co.cowlitz.wa.us/166/Board-of-Commissioners"
+},
+{
+"text": "https://www.congress.gov/members/find-your-member",
+"href": "https://www.congress.gov/members/find-your-member"
+},
+{
+"text": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/",
+"href": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/"
+},
+{
+"text": "https://www.usace.army.mil/Resources/Contact/",
+"href": "https://www.usace.army.mil/Resources/Contact/"
+},
+{
+"text": "https://www.youtube.com/@AndyZahn",
+"href": "https://www.youtube.com/@AndyZahn"
+}
 ]

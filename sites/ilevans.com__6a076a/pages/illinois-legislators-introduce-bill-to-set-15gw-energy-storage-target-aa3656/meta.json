@@ -1,7 +1,11 @@
 {
- "description": "Illinois State Senator Bill Cunningham and Representative Marcus Evans have introduced a bill aimed at reducing energy bills in the state and setting a 15GW energy storage deployment target. House [\u2026]",
+ "description": "Illinois State Senator Bill Cunningham and Representative Marcus Evans have introduced a bill aimed at reducing energy bills in the state and setting a 15GW energy storage deployment target. House […]",
  "final_url": "https://www.ilevans.com/illinois-legislators-introduce-bill-to-set-15gw-energy-storage-target/",
- "paid_for_by": null,
+ "fingerprint": "eddee1b7af4ffe867a31c2722e8dc50743a0bf26",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Illinois legislators introduce bill to set 15GW energy storage target - Marcus Evans for State Rep",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

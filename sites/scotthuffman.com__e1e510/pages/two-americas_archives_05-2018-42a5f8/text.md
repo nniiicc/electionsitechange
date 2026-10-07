@@ -1,4 +1,5 @@
-| If it's Thursday....
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+Thursday 5/31/2018 If it's Thursday....
 America must limit its use of fossil fuels.
 It seems almost nonsensical that we would be talking about this in 2018 because we have everything we need to reduce our carbon footprint by more than 80% within the next 10 to 15 years.
 By 2050, scientific research suggests America, in fact the world, could be 100% free from carbon-based fuel consumption.
@@ -36,7 +37,11 @@ Donald Trump enacted a 30% tariff on solar panel imports at the worst possible t
 The effect canceled several projects and it continues the use of fossil fuels when we can least afford it.
 We need to stop electing anti-science politicians who jeopardize the future, and the health and welfare of our children and grandchildren.
 Time will run out for all us if we don't act now.
-Please consider a contribution to my campaign so we can work on this and many issues facing our District. secure.actblue.com/donate/huffmanfornc | Posts from before 2025 were written during Scott's campaigns for U.S.
+Please consider a contribution to my campaign so we can work on this and many issues facing our District. secure.actblue.com/donate/huffmanfornc Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

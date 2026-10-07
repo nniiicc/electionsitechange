@@ -1,4 +1,4 @@
-A sustainable economy is essential to our quality of life on our island.
+TARNAS FOR STATE HOUSE Home My Story Community Values Protect the Environment Strengthen Public Education Build a Sustainable Economy Liberty and Justice for All Leadership with Ethics Legislative Achievements News Build a Sustainable Economy ​ A sustainable economy is essential to our quality of life on our island.
 Having started and led several businesses here in Hawaii I know personally the challenges and success that can happen in business.
 Business folks can create a thriving economy, in full cooperation with government agency folks who enforce the laws and rules to protect our environment, public health and safety.
 The State government needs to increase its support for our core industries of tourism, astronomy, volcanology, ranching, farming, forestry, fishing, marine science and technology, and renewable energy.
@@ -9,3 +9,5 @@ Looking to the future, our challenge is to build on our island's natural strengt
 State government has the responsibility to support a healthy economy by maintaining and improving our transportation infrastructure of airports, highways and harbors.
 Government must also work with businesses and their communities to better prepare to respond and recover from natural disasters.
 And the State must work with the County to build more affordable housing, and to address the homelessness crisis.
+Paid for by Tarnas for State House Tarnas for State House ​​P.O.
+Box 6882 Kamuela, Hawaii 96743 Home My Story Community Values Protect the Environment Strengthen Public Education Build a Sustainable Economy Liberty and Justice for All Leadership with Ethics Legislative Achievements News

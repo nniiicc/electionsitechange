@@ -1,10 +1,42 @@
 [
-"https://clarkforwv.com/",
-"https://clarkforwv.com/blank-1",
-"https://clarkforwv.com/blank-2",
-"https://clarkforwv.com/blog",
-"https://clarkforwv.com/contact-8",
-"https://clarkforwv.com/donate",
-"https://facebook.com/ClarkforDelegate",
-"https://politics.raisethemoney.com/en/clark-for-wv"
+{
+"text": "About",
+"href": "https://www.clarkforwv.com/blank-1"
+},
+{
+"text": "Blog",
+"href": "https://www.clarkforwv.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.clarkforwv.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/clark-for-wv"
+},
+{
+"text": "Donate",
+"href": "https://www.clarkforwv.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.clarkforwv.com"
+},
+{
+"text": "News",
+"href": "https://www.clarkforwv.com/blank-2"
+},
+{
+"text": "[image: Wayne Track Banner No paid for.png]",
+"href": "https://www.clarkforwv.com"
+},
+{
+"text": "[image: alt.text.label.Facebook]",
+"href": "https://www.facebook.com/ClarkforDelegate"
+},
+{
+"text": "wayne@clarkforwv.com",
+"href": "mailto:wayne@clarkforwv.com"
+}
 ]

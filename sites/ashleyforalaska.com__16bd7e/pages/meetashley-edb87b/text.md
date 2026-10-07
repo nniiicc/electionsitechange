@@ -1,7 +1,4 @@
-“There is nothing that I am more passionate about or dedicated to than the State of Alaska and the prosperity of Fairbanks as my current and future home.”
-About Me
-Meet Ashley Carrick
-I am a fourth-generation Alaskan and a long-time Fairbanksan.
+0 Skip to Content Meet Ashley Values Platform Accomplishments Endorsements Voting Information Contribute Open Menu Close Menu Meet Ashley Values Platform Accomplishments Endorsements Voting Information Contribute Open Menu Close Menu Meet Ashley Values Platform Accomplishments Endorsements Voting Information Contribute “There is nothing that I am more passionate about or dedicated to than the State of Alaska and the prosperity of Fairbanks as my current and future home.” About Me Meet Ashley Carrick I am a fourth-generation Alaskan and a long-time Fairbanksan.
 I moved up north from my hometown of Anchorage in 2010 to attend the University of Alaska Fairbanks, graduating in 2014 with a bachelor’s degree in Psychology and a minor in Secondary Education.
 Moving to Fairbanks was an easy choice: my Grandma grew up along the banks of the Chena River, and my great-grandfather was a founding member of MarkAir.
 My great-grandparents raised their four children in their home on Coppet Street.
@@ -20,3 +17,5 @@ I also love volunteering and participating in events throughout our community.
 There is nothing that I am more passionate about or dedicated to than the State of Alaska and the prosperity of Fairbanks as my current and future home.
 I hope that you will reach out to ask me questions, tell me about issues that are of importance and concern in your life, and support me with your vote in the coming election cycle.
 Thank you for your interest!
+Email: ashley@ashleyforalaska.com Cell: (907) 987-7638 Paid for by Ashley for Alaska, P.O.
+Box 82428, Fairbanks, AK 99708

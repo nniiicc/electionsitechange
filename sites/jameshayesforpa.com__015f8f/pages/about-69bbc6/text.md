@@ -1,4 +1,4 @@
-James Hayes has an impressive resumé and a story to go with it.
+Home About POLICY VISION NEWSROOM GET INVOLVED More Home About POLICY VISION NEWSROOM GET INVOLVED Donate Home About POLICY VISION NEWSROOM GET INVOLVED Donate MEET JAMES HAYES James Hayes has an impressive resumé and a story to go with it.
 The son of a steelworker who was forced to change careers when Pennsylvania’s steel industry collapsed, Hayes earned a partial scholarship to Georgetown University through his father’s union.
 His mom took a job in a factory making electric shavers.
 The family wasn’t rich in dollars, but the support and drive to succeed left a young James Hayes well equipped for business and, ultimately, public service.
@@ -16,13 +16,12 @@ He’s pro-Second Amendment, opposed to excess government spending and worries t
 “Right now, that’s not the case.
 We need to focus on jobs and crime in this region.
 The way to create jobs is to encourage business.
-The way to stop crime is to prosecute it.”
-When Hayes arrived in Pittsburgh, he and his family moved into the house once owned by Pitt football coaching legend Johnny Majors.
+The way to stop crime is to prosecute it.” When Hayes arrived in Pittsburgh, he and his family moved into the house once owned by Pitt football coaching legend Johnny Majors.
 After his service with The Fed in Richmond, he returned to the city, settling in Shadyside.
 He is married to Brenda Diaz, whom he met while working in Mexico in the early 90s.
 “I told her she was export quality,” he jokes.
 Brenda currently is employed as a teacher at the Community Day School in Squirrel Hill.
 The couple has three children, Brenda Theresa a Princeton graduate who is pursuing a career in the entertainment industry; Angela, is a graduate of Georgetown’s School of Foreign Service and currently works for the Georgetown Law School, and Jocelyn, a senior at Northeastern University in Boston studying marketing and design.
 Hayes also has a daughter, Courtney, that has built a successful career with a major insurance company after attending Clark Atlanta University.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Connect With Us Copyright © # James Hayes for Congress - All Rights Reserved.
+Powered by Home About VIDEO: WHY I'M RUNNING POLICY VISION NEWSROOM GET INVOLVED DONATE

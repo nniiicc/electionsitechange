@@ -1,5 +1,4 @@
-GET TO KNOW ROBB TUCKER
-Robb is about as local as local gets.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE GET TO KNOW ROBB TUCKER Robb is about as local as local gets.
 His birth certificate literally states he was born in a “Residence-Highway 49, South; next to Golden Chain Motel.” His parents moved to Nevada County in the early 1970’s when his family was developing Forest Springs Mobilehome Community.
 His parents chose to stay and raise their family here, meaning his dad had to commute to the Bay Area for 30 years as a United Airlines pilot based at San Francisco International Airport!
 Robb’s family always placed a high value on service to the country and community.
@@ -14,3 +13,4 @@ He also possesses a FAA Commercial Pilot License with a multi-engine, instrument
 Tucker served as President/CEO of a closely held family business, which owned Forest Springs Mobilehome Community, until selling the business in 2020.
 In 2024, Robb was elected to serve on the Nevada County Board of Supervisors.
 There, he has been a strong voice for public safety, protecting small businesses, and defending local quality of life.
+TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Steve Hilton Endorses Robb Tucker for Congressional District 3 Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

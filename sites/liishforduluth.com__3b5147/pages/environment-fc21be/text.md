@@ -1,5 +1,4 @@
-ENVIRONMENT:
-Environmental degradation and climate change threaten our shared future, and Northeastern Minnesota, with our resource-based economy and heavy reliance on fossil fuels, hyperscale data centers, and threats of copper-sulfide mining is placed particularly at risk.
+0 Skip to Content About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE ENVIRONMENT: Environmental degradation and climate change threaten our shared future, and Northeastern Minnesota, with our resource-based economy and heavy reliance on fossil fuels, hyperscale data centers, and threats of copper-sulfide mining is placed particularly at risk.
 The stakes are high and the moment demands clear, decisive action to meet the scale of our problems and to move us to a clean energy future that includes and protects everyone, especially those most vulnerable in frontline communities.
 We cannot sit back and allow a handful of billionaire Big Tech oligarchs to make decisions that will reshape our economy, our environment, our democracy, and the future of humanity.
 We need leaders willing to stand up to corporate interests, accelerate landback and reparations as the climate solutions they are, and join the movement to protect working people, families, and our climate future.
@@ -22,4 +21,4 @@ Expanded and equitable resources for lead safe homes, weatherization, and energy
 5.
 Strengthen and enforce our environmental protection laws and hold corporate polluters accountable for the messes they create because clean-up costs shouldn’t fall on taxpayers.
 6.
-Public lands belong to all of us and I will collaborate with hunters, anglers, hikers, bikers, campers, and all peoples to support programs and initiatives that allow every person in Minnesota access and opportunity to enjoy meaningful experiences outdoors.
+Public lands belong to all of us and I will collaborate with hunters, anglers, hikers, bikers, campers, and all peoples to support programs and initiatives that allow every person in Minnesota access and opportunity to enjoy meaningful experiences outdoors. prepared and paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026

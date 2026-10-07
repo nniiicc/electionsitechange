@@ -1,6 +1,4 @@
-Rachel gross believes in
-Rural Rental Housing Relief
-Across the 78th District, working families are facing an impossible choice: pay the rent or pay the bills.
+Skip navigation menu About Volunteer Issues Events Endorsements Contact Donate About Volunteer Issues Events Endorsements Contact Donate Safe Nurse Staffing Standards HB 4141 - Restricting Cell Phones in Schools Rural Homeownership & Housing Stability Rural Rental Housing Relief Mental Health & Youth Wellness Rachel gross believes in Rural Rental Housing Relief Across the 78th District, working families are facing an impossible choice: pay the rent or pay the bills.
 That kind of uncertainty is exhausting, and no family should have to live that way.
 You cannot build a stable life without a stable place to live.
 That sounds simple because it is.
@@ -32,3 +30,4 @@ Fifteen units here, twenty units there, spread across our communities, adds up t
 I will push for state reforms that expand tax incentives for smaller, community-scale housing projects and ensure rural communities like ours are not left behind when housing investments are made.
 The people of the 78th District are rooted in this land, these towns, and these communities.
 As your State House Representative, I will fight to make sure they can afford to stay.
+Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

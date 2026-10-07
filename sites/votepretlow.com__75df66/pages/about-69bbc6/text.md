@@ -1,4 +1,4 @@
-Assemblyman J.
+Vote Pretlow Home about Legislation CONTACT NEWS CONTRIBUTE Vote Pretlow Home / about / Legislation / CONTACT / NEWS / CONTRIBUTE / Vote Pretlow about Vote Pretlow Home / about / Legislation / CONTACT / NEWS / CONTRIBUTE / Assemblyman J.
 Gary Pretlow was elected to the New York State Assembly in 1992 to represent the 89th district, which includes Mount Vernon and Yonkers.
 In 2005 the Honorable Sheldon Silver, Speaker, appointed Mr.
 Pretlow Chair of the Assembly Racing and Wagering Committee.
@@ -15,3 +15,5 @@ In addition, as a member of the Urban Renewal Agency and Commissioner of Mount V
 Assemblyman Pretlow is a member of Omega Psi Phi Fraternity, the Lions Club of Mount Vernon and the Saint Joseph’s Lodge PHA.
 In addition, to his many outstanding accomplishments in the Legislature, Assemblyman Pretlow is also the recipient of numerous awards received in honor of his work on behalf the people of New York State.
 Standing Committee Assignments 2009: Racing and Wagering (Chair); Cities; Codes; Insurance; Rules; Ways and Means.
+PAID FOR BY THE COMMITTEE TO ELECT J.GARY PRETLOW | P.O.
+BOX 35 MOUNT VERNON, NEW YORK , 10552 Donate/ Act Blue

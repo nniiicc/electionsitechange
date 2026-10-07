@@ -1,4 +1,5 @@
-I am Arthur Webb, running for California State Assembly District 15.
+Issues Propositions News Guiding Principles About Contact Us Why Am I Running?
+Meet Arthur Yard Signs Volunteer Contribute I am Arthur Webb, running for California State Assembly District 15.
 I am running No Party Preferred, neither Democratic or Republican, although I lean moderate Republican.
 This is my first political campaign.
 For too long, California’s one-party super-majority has turned up the heat on the proverbial frog in the pot.
@@ -8,19 +9,13 @@ I ask for your vote.
 If you agree, please tell your friends and spread the word.
 Born in Montana and raised in Southern California by depression-era parents, I learned self-reliance and work ethic from my Father - a Minnesota farm boy who left the farm to serve in WWII and then became a lawyer on the GI bill.
 From my Mother, a first generation American, I learned by her example the importance of service and compassion.
-She was herself galvanized into service by depression related suffering of others, and then when she witnessed the shameful treatment of Japanese-American citizens by our government during the war, many of whom she knew while living on the “immigrant side of town.”
-Parental legacy:
-“Government is actually comprised of individuals pursuing their own careers.
-They cannot be trusted to put your well being over their self interest.”
-“You must look out for yourself.
+She was herself galvanized into service by depression related suffering of others, and then when she witnessed the shameful treatment of Japanese-American citizens by our government during the war, many of whom she knew while living on the “immigrant side of town.” Parental legacy: “Government is actually comprised of individuals pursuing their own careers.
+They cannot be trusted to put your well being over their self interest.” “You must look out for yourself.
 If not you, then who else?
 Maybe your family.
 Maybe even your church.
 Not people who say they will but don’t even know your name.
-Not the government.”
-“While you are searching for the big meaning of life, at least find time to go help someone.”
-“Don’t embarrass your Mother.”
-I came to UC Berkeley for Engineering in 1965 and remain in the Bay Area to this day.
+Not the government.” “While you are searching for the big meaning of life, at least find time to go help someone.” “Don’t embarrass your Mother.” I came to UC Berkeley for Engineering in 1965 and remain in the Bay Area to this day.
 BS 1969, MS 1971.
 Interesting years.
 My private sector career started with the same UC in academic book publishing, then to the SF financial district with rail car leasing, then to Oakland with a plaintiff class action employment discrimination law firm, then still in Oakland as part of the start up staff of Alameda Alliance for Health.
@@ -38,3 +33,5 @@ I also spent a year with the Contra Costa Civil Grand Jury, which I highly recom
 This is a type of administrative oversight of county, city, special district operations and reports are published on the internet.
 This is not to be confused with the criminal grand jury, which is secret.
 During that time, I became familiar with homelessness issues and the shameful failure of the California state government to resolve the root causes of homelessness.
+District 15 Map Voter Information Contact Us Privacy Policy Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner.com - Political Campaign Websites Home Issues Propositions News Volunteer Contribute Guiding Principles Contact Us Why Am I Running?
+Meet Arthur Yard Signs Voter Information District 15 Map Close Menu

@@ -1,20 +1,19 @@
-by Sam Dallaire | Jun 28, 2021 | 8th Congressional District, Advancing Equality, Financial Security, News & Updates
-Boston, MA – U.S.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page Rep.
+Lynch Announces Child Tax Credits to Help Over 70% of Children in MA-08 and Will Be Distributed to Families Next Month by Sam Dallaire | Jun 28, 2021 | 8th Congressional District , Advancing Equality , Financial Security , News & Updates Boston, MA – U.S.
 Representative Stephen F.
 Lynch (MA-08), announced that the Child Tax Credit will begin monthly payments to eligible families starting mid-July, benefiting 110,100 children living in the 8th Congressional District of Massachusetts....
-by Sam Dallaire | Apr 20, 2021 | Advancing Equality, News & Updates
-WCVB-TV BOSTON —Elected officials in Massachusetts are reacting to the news that former Minneapolis police Officer Derek Chauvin has been convicted of murder and manslaughter in the death of George Floyd.
+Massachusetts politicians react to guilty verdict in Derek Chauvin trial by Sam Dallaire | Apr 20, 2021 | Advancing Equality , News & Updates WCVB-TV BOSTON —Elected officials in Massachusetts are reacting to the news that former Minneapolis police Officer Derek Chauvin has been convicted of murder and manslaughter in the death of George Floyd.
 The explosive case that triggered worldwide protests, violence...
-by Sam Dallaire | Apr 10, 2021 | 8th Congressional District, Advancing Equality, National Security, News & Updates
-By Valeria Vazquez, Patriot Ledger QUINCY — Sharon Mann, a Quincy resident and nurse, says she has already been accosted twice this year because she’s Asian.
+Asian Americans share experiences of hate, local officials vow solidarity at Quincy rally by Sam Dallaire | Apr 10, 2021 | 8th Congressional District , Advancing Equality , National Security , News & Updates By Valeria Vazquez, Patriot Ledger QUINCY — Sharon Mann, a Quincy resident and nurse, says she has already been accosted twice this year because she’s Asian.
 Once in New York on a family trip and again in Boston’s Chinatown when she was picking up...
-by Sam Dallaire | Sep 22, 2020 | Advancing Equality, News & Updates
-NBC News By Dan De Luce and Abigail Williams President Donald Trump’s envoy to Afghanistan faced tough questioning on Tuesday by Democratic lawmakers who accused the administration of jeopardizing the rights of Afghan women in pursuit of a peace deal.
+Trump’s envoy grilled by lawmakers over women’s rights in Afghanistan by Sam Dallaire | Sep 22, 2020 | Advancing Equality , News & Updates NBC News By Dan De Luce and Abigail Williams President Donald Trump’s envoy to Afghanistan faced tough questioning on Tuesday by Democratic lawmakers who accused the administration of jeopardizing the rights of Afghan women in pursuit of a peace deal.
 The grilling of...
-by Sam Dallaire | Sep 10, 2020 | 8th Congressional District, Advancing Equality, National Security, News & Updates
-Washington, D.C. — Today, U.S.
+Chairman Lynch And Subcommittee Press For Inclusion Of Women In National Security Policymaking by Sam Dallaire | Sep 10, 2020 | 8th Congressional District , Advancing Equality , National Security , News & Updates Washington, D.C. — Today, U.S.
 Representative Stephen F.
 Lynch, Chairman of the Subcommittee on National Security, held a hybrid hearing to examine the Trump Administration’s implementation of the United States Strategy on Women, Peace, and Security (WPS Strategy)....
-by Sam Dallaire | Aug 6, 2020 | 8th Congressional District, Advancing Equality, COVID-19, News & Updates, Protecting the Post Office
-Concern over the US Postal Service comes as Trump has railed against absentee voting by mail for months, calling it “fraudulent,” and even drawing a fact-checking rebuke from Twitter for making the false claim.
-Boston Globe By The Editorial Board It seems...
+Editorial: Congress must protect mail-in voting, even if it means going to court by Sam Dallaire | Aug 6, 2020 | 8th Congressional District , Advancing Equality , COVID-19 , News & Updates , Protecting the Post Office Concern over the US Postal Service comes as Trump has railed against absentee voting by mail for months, calling it “fraudulent,” and even drawing a fact-checking rebuke from Twitter for making the false claim.
+Boston Globe By The Editorial Board It seems... « Older Entries Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

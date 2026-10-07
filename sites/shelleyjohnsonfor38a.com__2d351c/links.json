@@ -1,7 +1,26 @@
 [
-"https://carmenstroud.com/",
-"https://eventbrite.com/e/49th-annual-j-millard-tawes-crab-and-clam-bake-tickets-1994695585191?aff=oddtdtcreator&keep_tld=true",
-"https://lionsclub-dic.org/",
-"https://nationalhardcrabderby.com/",
-"https://secure.actblue.com/donate/shelley-johnson-2"
+{
+"text": "Carmen Stroud",
+"href": "https://carmenstroud.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shelley-johnson-2"
+},
+{
+"text": "Donate to My Campaign!",
+"href": "https://secure.actblue.com/donate/shelley-johnson-2"
+},
+{
+"text": "More Info",
+"href": "https://www.eventbrite.com/e/49th-annual-j-millard-tawes-crab-and-clam-bake-tickets-1994695585191?aff=oddtdtcreator&keep_tld=true"
+},
+{
+"text": "More info",
+"href": "https://lionsclub-dic.org/"
+},
+{
+"text": "More info",
+"href": "https://www.nationalhardcrabderby.com/"
+}
 ]

@@ -1,5 +1,8 @@
-Cannabis Legalization
-One of my favorite things about the craft beer boom over the last 10-15 years is that it has allowed for so much creativity.
+Skip navigation menu Why Run?
+Why Now?
+About Issues Events Data Center Invasion Defense Action Plan Donate Why Run?
+Why Now?
+About Issues Events Data Center Invasion Defense Action Plan Donate Education Funding Reform Campaign Ethics Reform Cannabis Legalization Medical Assistance Expansion Housing Availability & Affordability Food System Reform Mental Health & Addiction Reform Cannabis Legalization One of my favorite things about the craft beer boom over the last 10-15 years is that it has allowed for so much creativity.
 There are an ever-growing number of IPAs out there, I am partial to hazy and New England styles, and every different brewery will have its own unique spin.
 This leads to breweries becoming destinations worth visiting and generates an increase in businesses surrounding the brewery, with older buildings being repurposed.
 The craft brewing industry has generated hundreds of thousands of jobs and billions of dollars for the economy.
@@ -12,4 +15,4 @@ Businesses that become part of our local community, not dominated by out-of-stat
 We can use this increase in tax revenue to fund our most underfunded schools, fix our roads, provide broadband internet to communities without, and so much more.
 I frequently mention that we always need to be looking to other states to see different solutions to the issues we all face.
 States like California, Massachusetts, and New Jersey have systems that help local businesses.
-Using their data compared with HB 1200, HB 20, and my desire for a "craft-like" system, the following suggested framework was developed.
+Using their data compared with HB 1200, HB 20, and my desire for a "craft-like" system, the following suggested framework was developed. kyle@pennsylvaniansoverprofits.com Powered by RUN! website builder Paid for by the Committee To Elect Kyle Devlin You need to enable JavaScript to run this app.

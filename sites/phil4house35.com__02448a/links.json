@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61590009702152",
-"https://phil4house35.com/",
-"https://phil4house35.com/about",
-"https://phil4house35.com/cart",
-"https://phil4house35.com/contact",
-"https://phil4house35.com/issues",
-"https://secure.actblue.com/donate/friends-of-phil-gift-1"
+{
+"text": "0",
+"href": "https://www.phil4house35.com/cart"
+},
+{
+"text": "About Phil",
+"href": "https://www.phil4house35.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.phil4house35.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-phil-gift-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590009702152"
+},
+{
+"text": "Home",
+"href": "https://www.phil4house35.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.phil4house35.com/issues"
+},
+{
+"text": "Phil Gift for Indiana House District 35",
+"href": "https://www.phil4house35.com/"
+},
+{
+"text": "Phil's Position Statements",
+"href": "https://www.phil4house35.com/issues"
+}
 ]

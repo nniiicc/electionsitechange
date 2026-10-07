@@ -1,12 +1,5 @@
-Únase al Equipo
-Manténgase informado y reciba actualizaciones sobre temas clave y eventos
-Regístrese para ser voluntario, recibir actualizaciones de la campaña y ayudar a devolver el sentido común a California.
-Ayude a Restaurar el Sentido Común
-Las familias y las pequeñas empresas de California enfrentan dificultades reales, desde el alto costo de la vida hasta preocupaciones sobre la seguridad comunitaria.
-Greg Abdouch está listo para ser su voz de sentido común en Sacramento, pero ganar requiere de una comunidad unida. Únase a nosotros para construir este movimiento desde la base.
-- ✓Reciba actualizaciones importantes de la campaña
-- ✓Entérese de los próximos eventos y mítines
-- ✓Obtenga oportunidades locales de voluntariado
-- ✓Ayude a restaurar el sentido común en California
-“El verdadero cambio no comienza en Sacramento; ocurre cuando las personas comunes de nuestras comunidades deciden participar”.
-— Greg Abdouch, Candidato para la Asamblea
+Skip to content Inicio Biografía Apoyos Ver Apoyos Respaldar a Greg Donar Distrito Eventos Medios EN ES Contribuir → Contribuir Alternar Menú Únase al Equipo Manténgase informado y reciba actualizaciones sobre temas clave y eventos Regístrese para ser voluntario, recibir actualizaciones de la campaña y ayudar a devolver el sentido común a California.
+Ayude a Restaurar el Sentido Común Las familias y las pequeñas empresas de California enfrentan dificultades reales, desde el alto costo de la vida hasta preocupaciones sobre la seguridad comunitaria.
+Greg Abdouch está listo para ser su voz de sentido común en Sacramento, pero ganar requiere de una comunidad unida. Únase a nosotros para construir este movimiento desde la base. ✓ Reciba actualizaciones importantes de la campaña ✓ Entérese de los próximos eventos y mítines ✓ Obtenga oportunidades locales de voluntariado ✓ Ayude a restaurar el sentido común en California “El verdadero cambio no comienza en Sacramento; ocurre cuando las personas comunes de nuestras comunidades deciden participar”. — Greg Abdouch, Candidato para la Asamblea Respaldar a Greg | Donar | Volver al inicio Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.
+Navegación Inicio Biografía Apoyos Distrito Eventos Participe Donar en Línea Donaciones Mensuales Donar con Cheque ÚNASE AL EQUIPO Contáctenos vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Redes Sociales PAGADO POR GREG ABDOUCH PARA LA ASAMBLEA 2026 © # Greg Abdouch para la Asamblea de CA.
+Todos los derechos reservados. | Política de Privacidad | Team Portal Estrategia Digital por GoSubmitto

@@ -1,5 +1,5 @@
-Bethany Mann for Congress
-1.
+Skip to content MISSOURI’S 3RD DISTRICT · DEMOCRAT FOR CONGRESS Our future is worth showing up for.
+Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The issues News & events Get involved Donate ↗ Home / CAMPAIGN INFORMATION Terms and Conditions Bethany Mann for Congress 1.
 By opting in to receive text messages from Bethany Mann For Congress, you consent to receive voter contact, donation asks, and informational messages.
 2.
 You can cancel the SMS service at any time.
@@ -16,4 +16,8 @@ As always, message and data rates may apply for any messages sent to you from us
 You will receive no more than two texts a week.
 If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 6.
-If you have any questions regarding privacy, please read our privacy policy: https://www.bethanymannforcongress.com/privacy-policy
+If you have any questions regarding privacy, please read our privacy policy: https://www.bethanymannforcongress.com/privacy-policy Back to home → LET’S BUILD THIS TOGETHER Missouri is worth the work.
+Help power a campaign rooted in our communities.
+Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
+Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗
